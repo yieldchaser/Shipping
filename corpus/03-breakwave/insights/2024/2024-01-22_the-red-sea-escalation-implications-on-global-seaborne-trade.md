@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/1/22/the-red-sea-escalation-implications-on-global-seaborne-trade"
 images_count: 2
-word_count: 749
+word_count: 751
 source_file: "corpus/03-breakwave/insights/2024/2024-01-22_the-red-sea-escalation-implications-on-global-seaborne-trade.html"
 ---
 
@@ -34,7 +34,7 @@ In the dry bulk segment, the market has not experienced a significant impact yet
 
 ### ​​​​​​
 
-Using[Signal Ocean data](https://go.thesignalgroup.com/e/983831/signal-ocean-platform/2prr6w/377346806/h/0M6Wtn88U1g0Vw-J_zH4zsB7azMIV9xjLJt9MyWCR-M), it becomes quickly clear that if we want to look for the most affected trades we need to start with the crude oil Suezmax and Aframax trades and the agricultural commodities transported with Panamax and Supramax dry bulk vessels.
+Using [Signal Ocean data](https://go.thesignalgroup.com/e/983831/signal-ocean-platform/2prr6w/377346806/h/0M6Wtn88U1g0Vw-J_zH4zsB7azMIV9xjLJt9MyWCR-M), it becomes quickly clear that if we want to look for the most affected trades we need to start with the crude oil Suezmax and Aframax trades and the agricultural commodities transported with Panamax and Supramax dry bulk vessels.
 
 But what happens if the effects already clearly felt in container traffic begin having a deeper impact on wet and dry bulk commodities too? The obvious ramification, namely the detour of ships via the Cape of Good Hope can certainly increase further, even beyond 50%, as we are increasingly encountering and anticipating announcements of suspension of shipments via the Red Sea.
 Several major shipping companies have already announced the suspension of shipments, while more are saying they are closely monitoring the situation and are about to make a decision. The shipping associations BIMCO, ICS, CLIA, IMCA, INTERCARGO, INTERTANKO and OCIMF have already issued joint guidelines emphasising the importance of a relevant hazard and risk assessment. This includes considering additional advice from the ship's flag state before transiting the area in question.

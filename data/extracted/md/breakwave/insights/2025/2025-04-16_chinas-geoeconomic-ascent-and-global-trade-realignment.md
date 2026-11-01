@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/16/chinas-geoeconomic-ascent-and-global-trade-realignment"
 tags: ["China", "Shipping", "Markets"]
 images_count: 3
-word_count: 624
+word_count: 627
 source_file: "corpus/03-breakwave/insights/2025/2025-04-16_chinas-geoeconomic-ascent-and-global-trade-realignment.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/19/solid-week-for-dry-bulk-market-last-week-but-fleet-continues-to-grow"
 tags: ["Drybulk", "Capesize", "Ironore"]
 images_count: 1
-word_count: 540
+word_count: 541
 source_file: "corpus/03-breakwave/insights/2024/2024-09-19_solid-week-for-dry-bulk-market-last-week-but-fleet-continues-to-grow.html"
 ---
 

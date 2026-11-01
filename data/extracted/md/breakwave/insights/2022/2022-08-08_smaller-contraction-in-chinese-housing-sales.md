@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/6/smaller-contraction-in-chinese-housing-sales"
 tags: ["China", "Real Estate", "Construction"]
 images_count: 2
-word_count: 363
+word_count: 365
 source_file: "corpus/03-breakwave/insights/2022/2022-08-08_smaller-contraction-in-chinese-housing-sales.html"
 ---
 

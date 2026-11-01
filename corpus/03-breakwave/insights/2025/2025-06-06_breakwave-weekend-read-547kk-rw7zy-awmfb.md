@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/25/breakwave-weekend-read-547kk-rw7zy-awmfb"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 11
-word_count: 1129
+word_count: 1140
 source_file: "corpus/03-breakwave/insights/2025/2025-06-06_breakwave-weekend-read-547kk-rw7zy-awmfb.html"
 ---
 
@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-06-06_breakwave-weekend-rea
 
 ## Breakwave Shipping Report
 
-**VLCC Market Under Pressure Amid Summer Lull and Weak Demand**– Despite some mid-May signs of rate stabilization that briefly lifted sentiment, the end of May paints a negative picture for the**VLCC freight market**across both Eastern and Western routes.
+**VLCC Market Under Pressure Amid Summer Lull and Weak Demand**– Despite some mid-May signs of rate stabilization that briefly lifted sentiment, the end of May paints a negative picture for the **VLCC freight market** across both Eastern and Western routes.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2025306wet855jjej587)
 

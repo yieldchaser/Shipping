@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/5/enypt0pu0gihyoyvad0cui9zv9t4jf"
 tags: ["Commodities", "Economy", "Markets"]
 images_count: 2
-word_count: 646
+word_count: 648
 source_file: "corpus/03-breakwave/insights/2024/2024-06-05_enypt0pu0gihyoyvad0cui9zv9t4jf.html"
 ---
 
@@ -39,7 +39,7 @@ Easing supply side issues triggered falls across the commodity complex, despite 
 
 The prospect of easing monetary policy saw **copper** lead the base metals higher in early trading. However, that support evaporated amid concerns of weak demand. Stockpiles on the Shanghai Futures Exchange have climbed to their highest level since 2020. There has also been a steady stream of smaller inflows in London Metal Exchange warehouses located in Asia. While this is likely the result of an attractive arbitrage trade with international prices, it didn’t help sentiment. It was also on the back of weak manufacturing activity data in China. The market also shrugged off recent supply side issues. The suspension of operations at Taseko Mines’ Gibraltar copper mine in Canada due to a strike by union workers is expected to be short lived.
 
-**Iron ore**futures remained under pressure over concerns on Chinese demand. The lack of a majority win by the Modi government also leaves a question mark over India’s infrastructure buildout which has supported steel demand.
+**Iron ore** futures remained under pressure over concerns on Chinese demand. The lack of a majority win by the Modi government also leaves a question mark over India’s infrastructure buildout which has supported steel demand.
 
 ![Στιγμιότυπο Οθόνης 2024 06 05 102538](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-05_enypt0pu0gihyoyvad0cui9zv9t4jf_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_52c07a41a65b.png)
 

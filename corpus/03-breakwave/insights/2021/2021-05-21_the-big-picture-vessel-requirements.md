@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/21/the-big-picture-vessel-requirements"
 tags: ["Dry Bulk", "Capesize", "Panamax", "Supramax", "Coal"]
 images_count: 5
-word_count: 1091
+word_count: 1096
 source_file: "corpus/03-breakwave/insights/2021/2021-05-21_the-big-picture-vessel-requirements.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/12/eu-shipping-ban-to-be-the-deciding-factor-for-russia-volumes-and-tanker-fates"
 images_count: 2
-word_count: 1268
+word_count: 1270
 source_file: "corpus/03-breakwave/insights/2022/2022-10-12_eu-shipping-ban-to-be-the-deciding-factor-for-russia-volumes-and-tanker-fates.html"
 ---
 

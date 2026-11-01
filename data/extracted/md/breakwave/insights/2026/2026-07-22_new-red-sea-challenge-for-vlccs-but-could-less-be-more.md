@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/7/22/new-red-sea-challenge-for-vlccs-but-could-less-be-more"
 tags: ["Tankers", "Markets", "Crude"]
 images_count: 4
-word_count: 1356
+word_count: 1360
 source_file: "corpus/03-breakwave/insights/2026/2026-07-22_new-red-sea-challenge-for-vlccs-but-could-less-be-more.html"
 ---
 

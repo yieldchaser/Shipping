@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/21/the-global-economic-recovery-hitting-the-speed-bumps"
 tags: ["Pandemic", "Economy", "Shipping"]
 images_count: 2
-word_count: 914
+word_count: 916
 source_file: "corpus/03-breakwave/insights/2021/2021-09-21_the-global-economic-recovery-hitting-the-speed-bumps.html"
 ---
 

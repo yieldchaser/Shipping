@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/9/21/what-will-a-post-pandemic-recovery-look-like"
 tags: ["Coronavirus", "Global Economy"]
 images_count: 3
-word_count: 659
+word_count: 662
 source_file: "corpus/03-breakwave/insights/2020/2020-09-21_what-will-a-post-pandemic-recovery-look-like.html"
 ---
 

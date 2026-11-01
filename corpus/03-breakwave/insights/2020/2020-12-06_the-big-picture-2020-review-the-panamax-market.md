@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/12/4/the-big-picture-2020-review-the-panamax-market"
 tags: ["Dry Bulk", "Panamax", "Grains", "Coal"]
 images_count: 7
-word_count: 1637
+word_count: 1644
 source_file: "corpus/03-breakwave/insights/2020/2020-12-06_the-big-picture-2020-review-the-panamax-market.html"
 ---
 

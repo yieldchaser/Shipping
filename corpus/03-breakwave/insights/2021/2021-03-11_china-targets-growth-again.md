@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/11/china-targets-growth-again"
 tags: ["China", "Economics", "Global Economy"]
 images_count: 2
-word_count: 680
+word_count: 682
 source_file: "corpus/03-breakwave/insights/2021/2021-03-11_china-targets-growth-again.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/27/capes-are-holding-up"
 tags: ["Drybulk", "Ironore", "China"]
 images_count: 1
-word_count: 668
+word_count: 669
 source_file: "corpus/03-breakwave/insights/2026/2026-01-27_capes-are-holding-up.html"
 ---
 

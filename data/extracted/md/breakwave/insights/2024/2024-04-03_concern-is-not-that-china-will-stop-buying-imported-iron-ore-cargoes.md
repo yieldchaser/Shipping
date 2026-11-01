@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/3/concern-is-not-that-china-will-stop-buying-imported-iron-ore-cargoes"
 tags: ["China", "Drybulk", "Ironore"]
 images_count: 3
-word_count: 385
+word_count: 388
 source_file: "corpus/03-breakwave/insights/2024/2024-04-03_concern-is-not-that-china-will-stop-buying-imported-iron-ore-cargoes.html"
 ---
 

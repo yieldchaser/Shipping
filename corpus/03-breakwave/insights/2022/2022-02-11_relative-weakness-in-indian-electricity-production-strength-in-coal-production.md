@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/2/11/relative-weakness-in-indian-electricity-production-strength-in-coal-production"
 tags: ["India", "Coal", "Electricity", "Energycrisis"]
 images_count: 5
-word_count: 587
+word_count: 592
 source_file: "corpus/03-breakwave/insights/2022/2022-02-11_relative-weakness-in-indian-electricity-production-strength-in-coal-production.html"
 ---
 

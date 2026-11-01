@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/16/coal-indias-stockpiles-continue-to-climb"
 tags: ["Drybulk", "Coal", "Capesizes"]
 images_count: 3
-word_count: 338
+word_count: 341
 source_file: "corpus/03-breakwave/insights/2026/2026-01-16_coal-indias-stockpiles-continue-to-climb.html"
 ---
 

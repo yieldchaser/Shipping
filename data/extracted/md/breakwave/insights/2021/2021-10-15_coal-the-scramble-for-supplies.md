@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/15/coal-the-scramble-for-supplies"
 tags: ["Economy", "Energycrisis", "Coal"]
 images_count: 5
-word_count: 1049
+word_count: 1054
 source_file: "corpus/03-breakwave/insights/2021/2021-10-15_coal-the-scramble-for-supplies.html"
 ---
 
@@ -30,35 +30,35 @@ Elsewhere, the US is on track to increase its use of coal in power generation, a
 
 In light of the push by many countries and utilities to secure supplies for the winter, seaborne export volumes have recovered to broadly the pre-pandemic levels of 2019 in recent months. With the mid-point of October rapidly approaching, some approximately 52 million tonnes of coal have shipped globally and put the month on track for narrowly falling short of the 2019 readings. Allowing for a degree of delay in additional coal shipments to materialise, the seaborne volumes in the coming three months may exceed the pre-pandemic average levels of 120 million as countries scramble for extra supplies.
 
-![Ch1](assets/2021-10-15_coal-the-scramble-for-supplies_img_ch1_847834f87f10.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-15_coal-the-scramble-for-supplies_img_ch1_847834f87f10.png)
 
 > **Figure 1: Ch1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-15_coal-the-scramble-for-supplies_img_ch1_847834f87f10.png)
 
 After a dip in seaborne imports during September as port congestion and production problems in Indonesia took their tolls, increasing volumes of coal has been discharged in Chinese ports. According to data from Oceanbolt, some 12 million tonnes have been imported so far in October, which would suggest that the total for the month could surpass 27 million tonnes.
 
-![Ch2](assets/2021-10-15_coal-the-scramble-for-supplies_img_ch2_a6bc0da22142.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-15_coal-the-scramble-for-supplies_img_ch2_a6bc0da22142.png)
 
 > **Figure 2: Ch2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-15_coal-the-scramble-for-supplies_img_ch2_a6bc0da22142.png)
 
 Since July, Europe, often seen as one of the leading forces in the decarbonisation process, has seen its coal imports returning to pre-pandemic levels. The continent’s domestic LNG production lags behind demand. At the same time, supplies from top seller Russia have been limited, driving the European buyers to the global market and contributing to the surging natural gas prices. The tight supply situation for natural gas and record-high prices has seen demand for the dirtier fossil fuel back in vogue. While Russia remains the dominant player in the European coal market, the Australian market share has increased as the diplomatic ruckus with China is forcing it to find alternative customers and adding a healthy amount of tonne-mile demand to the trade. US exports of coal to Europe has also increased, with volumes in October likely to be the highest since January 2019.
 
-![Ch3](assets/2021-10-15_coal-the-scramble-for-supplies_img_ch3_bd7356390fa9.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-15_coal-the-scramble-for-supplies_img_ch3_bd7356390fa9.png)
 
 > **Figure 3: Ch3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-15_coal-the-scramble-for-supplies_img_ch3_bd7356390fa9.png)
 
 Many of the more significant coal exporters recorded Q3 exports above the levels seen in 2019, with only Australia, Colombia and South Africa substantially below pre-pandemic levels. Hence, rapidly increasing supplies significantly could be a challenge. However, the latest annual report from the EIA suggests that spare capacity is available in the US coal mines. Additionally, South African exports are recovering after several months of disruptions due to the pandemic, civil unrest, and train derailment. The export volumes during October could be the highest since March.
 
-![Ch4](assets/2021-10-15_coal-the-scramble-for-supplies_img_ch4_a1da1ab41d89.png)
+![Ch4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-15_coal-the-scramble-for-supplies_img_ch4_a1da1ab41d89.png)
 
 > **Figure 4: Ch4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-15_coal-the-scramble-for-supplies_img_ch4_a1da1ab41d89.png)
 
 The outlook for the South African exports looks promising, as coal inventories are recovering in the port of Richards Bay. According to satellite data from Tathya.earth, the downward trend for the stockpiles in the port has been broken during the latter part of the third quarter. In recent weeks, inventory levels have returned to what was last seen in April.
 
-![Ch5](assets/2021-10-15_coal-the-scramble-for-supplies_img_ch5_e2a41b1bb5cc.png)
+![Ch5](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-15_coal-the-scramble-for-supplies_img_ch5_e2a41b1bb5cc.png)
 
 > **Figure 5: Ch5**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-15_coal-the-scramble-for-supplies_img_ch5_e2a41b1bb5cc.png)

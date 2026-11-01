@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/1/20/w4rf15aavhostkk1kykaqgo3nfyr85"
 tags: ["Global", "Grains", "Trade"]
 images_count: 4
-word_count: 470
+word_count: 474
 source_file: "corpus/03-breakwave/insights/2022/2022-01-20_w4rf15aavhostkk1kykaqgo3nfyr85.html"
 ---
 

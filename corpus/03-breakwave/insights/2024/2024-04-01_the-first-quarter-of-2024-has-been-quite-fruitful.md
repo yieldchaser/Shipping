@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/1/the-first-quarter-of-2024-has-been-quite-fruitful"
 tags: ["Drybulk", "Shipping"]
 images_count: 3
-word_count: 968
+word_count: 971
 source_file: "corpus/03-breakwave/insights/2024/2024-04-01_the-first-quarter-of-2024-has-been-quite-fruitful.html"
 ---
 

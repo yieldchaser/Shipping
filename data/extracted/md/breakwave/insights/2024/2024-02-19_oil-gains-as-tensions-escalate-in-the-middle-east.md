@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/19/oil-gains-as-tensions-escalate-in-the-middle-east"
 tags: ["Commodities", "Crude", "Oil"]
 images_count: 1
-word_count: 634
+word_count: 635
 source_file: "corpus/03-breakwave/insights/2024/2024-02-19_oil-gains-as-tensions-escalate-in-the-middle-east.html"
 ---
 

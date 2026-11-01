@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/23/change-of-us-stance-on-shipping-emissions-likely-to-maintain-thin-dry-bulk-newbuild-order-books"
 images_count: 2
-word_count: 819
+word_count: 821
 source_file: "corpus/03-breakwave/insights/2021/2021-04-23_change-of-us-stance-on-shipping-emissions-likely-to-maintain-thin-dry-bulk-newbu.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-04-23_change-of-us-stance-o
 
 *By Ulf Bergman*
 
-![Unsplash Image Q5jkhtv4hwc](assets/2021-04-23_change-of-us-stance-on-shipping-emissions-likely-to-maintain-thin-dry-bulk-newbu_img_unsplash-image-q5jkhtv4hwc_e983fcb28405.jpg)
+![Unsplash Image Q5jkhtv4hwc](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-23_change-of-us-stance-on-shipping-emissions-likely-to-maintain-thin-dry-bulk-newbu_img_unsplash-image-q5jkhtv4hwc_e983fcb28405.jpg)
 
 > **Figure 1: Unsplash Image Q5jkhtv4hwc**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-23_change-of-us-stance-on-shipping-emissions-likely-to-maintain-thin-dry-bulk-newbu_img_unsplash-image-q5jkhtv4hwc_e983fcb28405.jpg)
@@ -34,7 +34,7 @@ LNG is commonly perceived as being part of the decarbonisation process by many i
 
 Shipowners have long bemoaned the lack of clarity on the direction of future environmental regulations, which have also put many off from ordering new tonnage. There have been concerns that vessels ordered today would become obsolete well before the end of their economic life. The new ambitious stance from the Biden administration may speed up the process of clarity, but it could also mean that the current breed of vessels will become non-compliant considerably faster. If the American move proves successful and the new, stricter, targets are phased in between 2023 and 2050, new vessel designs and propulsion technologies will have to be found in the next few years. Hence, the case for ordering new tonnage in the near term may weaken further for some shipowners, especially as current newbuilds may face extensive investments in propulsion conversions during their life span.
 
-![Unsplash Image Jpehvh C3z8](assets/2021-04-23_change-of-us-stance-on-shipping-emissions-likely-to-maintain-thin-dry-bulk-newbu_img_unsplash-image-jpehvh-c3z8_903c42a5c3e2.jpg)
+![Unsplash Image Jpehvh C3z8](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-23_change-of-us-stance-on-shipping-emissions-likely-to-maintain-thin-dry-bulk-newbu_img_unsplash-image-jpehvh-c3z8_903c42a5c3e2.jpg)
 
 > **Figure 2: Unsplash Image Jpehvh C3z8**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-23_change-of-us-stance-on-shipping-emissions-likely-to-maintain-thin-dry-bulk-newbu_img_unsplash-image-jpehvh-c3z8_903c42a5c3e2.jpg)

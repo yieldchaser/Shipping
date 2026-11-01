@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/12/transformation-of-chinas-iron-ore-arrivals"
 tags: ["Drybulk", "China", "Ironore"]
 images_count: 4
-word_count: 1143
+word_count: 1147
 source_file: "corpus/03-breakwave/insights/2025/2025-11-12_transformation-of-chinas-iron-ore-arrivals.html"
 ---
 

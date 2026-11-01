@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/31/where-india-stands-with-coal"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 5
-word_count: 1508
+word_count: 1513
 source_file: "corpus/03-breakwave/insights/2025/2025-01-31_where-india-stands-with-coal.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/4/kxhwgjmaycih1oomm4vopwjc297qak"
 tags: ["Commodities", "Crude Oil", "Ironore"]
 images_count: 2
-word_count: 718
+word_count: 720
 source_file: "corpus/03-breakwave/insights/2024/2024-04-04_kxhwgjmaycih1oomm4vopwjc297qak.html"
 ---
 

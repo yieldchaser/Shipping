@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/17/vlcc-ag-china-tonne-days"
 tags: ["Tankers", "Crude Oil", "Shipping"]
 images_count: 10
-word_count: 1428
+word_count: 1438
 source_file: "corpus/03-breakwave/insights/2024/2024-05-17_vlcc-ag-china-tonne-days.html"
 ---
 

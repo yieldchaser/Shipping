@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/17/crude-laden-tankers-build-in-hormuz-as-production-cuts-loom"
 tags: ["Crude", "Shipping", "Tankers"]
 images_count: 11
-word_count: 1669
+word_count: 1680
 source_file: "corpus/03-breakwave/insights/2026/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom.html"
 ---
 

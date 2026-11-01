@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/6/tklaggjxyc8f0justn5jwcfp4910cz"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 10
-word_count: 1687
+word_count: 1697
 source_file: "corpus/03-breakwave/insights/2024/2024-09-06_tklaggjxyc8f0justn5jwcfp4910cz.html"
 ---
 
@@ -41,7 +41,7 @@ Week 36, September 05, 2024
 
 The first week of September has shown weaker momentum for both dirty and clean freight market rates. The supply trend, which is expected to be a challenging factor in the coming days, has recorded an increase. Notably, in the MR clean segment, there has been a surprising upswing, pushing levels above the annual average. Meanwhile, VLCC Ras Tanura levels are approaching the annual average, indicating potential shifts in market dynamics. It remains to be seen whether this trend in tonne days growth will be driven by increasing demand and translate into higher freight market rates.
 
-In the oil market, concerns about[robust crude oil demand](https://go.signalocean.com/e/983831/pressure-over-demand-concerns-/2qjb89/434213462/h/2rDovJQmoo0pX-EyO9DftmdWPJ9xxelXkPFVqy8nb7Y)persist. The market continues to be influenced by pessimistic sentiment, overshadowing the Organization of Petroleum Exporting Countries’ (OPEC) efforts to stabilise prices. According to an ANZ Bank note released on Thursday, the OPEC+ alliance is close to agreeing on halting the plan to phase down output cutbacks. This report offered some temporary relief to the markets.
+In the oil market, concerns about [robust crude oil demand](https://go.signalocean.com/e/983831/pressure-over-demand-concerns-/2qjb89/434213462/h/2rDovJQmoo0pX-EyO9DftmdWPJ9xxelXkPFVqy8nb7Y) persist. The market continues to be influenced by pessimistic sentiment, overshadowing the Organization of Petroleum Exporting Countries’ (OPEC) efforts to stabilise prices. According to an ANZ Bank note released on Thursday, the OPEC+ alliance is close to agreeing on halting the plan to phase down output cutbacks. This report offered some temporary relief to the markets.
 
 However, fears of weaker demand have resurfaced, pushing prices lower. These concerns were exacerbated earlier this week by disappointing economic data. The Federal Reserve also reported declining economic activity in the United States. Despite speculation about potential monetary policy easing, investor response remained muted, as noted by ANZ Bank. Overall, the interplay between freight market trends and broader economic indicators will be crucial in shaping future market movements. The response to supply dynamics and oil market developments will likely influence both freight rates and broader economic stability in the near term.
 
@@ -52,30 +52,30 @@ However, fears of weaker demand have resurfaced, pushing prices lower. These con
 
 ​​​​​The sentiment in the dirty freight market appears to be weakening in early September, with the Aframax cross-Mediterranean route showing even softer momentum compared to August levels this week.
 
-- The**VLCC**MEG-China freight rates fell to 45 WS, a weekly decline of 2%, although still up 23% compared to the same week last September.
-- Suezmax freight rates for shipments from**West Africa**to**continental Europe**have returned to around 75 WS, showing momentum similar to that seen at the end of August. However, current levels are now 6% weaker than the previous week.Similarly, rates on the Suezmax Baltic-Mediterranean route have shown a weakening trend, settling at 78 WS, which represents an 18% decrease for the month.
-- Aframax**Mediterranean**freight rates are hovering around WS100, marking a 30% decline compared to the same week last month.
+- The **VLCC** MEG-China freight rates fell to 45 WS, a weekly decline of 2%, although still up 23% compared to the same week last September.
+- Suezmax freight rates for shipments from **West Africa** to **continental Europe** have returned to around 75 WS, showing momentum similar to that seen at the end of August. However, current levels are now 6% weaker than the previous week.Similarly, rates on the Suezmax Baltic-Mediterranean route have shown a weakening trend, settling at 78 WS, which represents an 18% decrease for the month.
+- Aframax **Mediterranean** freight rates are hovering around WS100, marking a 30% decline compared to the same week last month.
 
 ![Στιγμιότυπο Οθόνης 2024 09 06 100418](assets/2024-09-06_tklaggjxyc8f0justn5jwcfp4910cz_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_281ef3f4584a.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 09 06 100418**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-09-06_tklaggjxyc8f0justn5jwcfp4910cz_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_281ef3f4584a.png)
 
-- **LR2**AG freight rates have steadily declined since early July, currently hovering around WS117. This marks a 22% drop over the past month and a 15% decrease compared to the same week last year.
+- **LR2** AG freight rates have steadily declined since early July, currently hovering around WS117. This marks a 22% drop over the past month and a 15% decrease compared to the same week last year.
 
 ![Στιγμιότυπο Οθόνης 2024 09 06 100437](assets/2024-09-06_tklaggjxyc8f0justn5jwcfp4910cz_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_067f3587f6da.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 09 06 100437**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-09-06_tklaggjxyc8f0justn5jwcfp4910cz_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_067f3587f6da.png)
 
-- **Panamax**Carib-to-USG rates have dropped to WS150, marking a 20% decline from the levels recorded just a month ago.
+- **Panamax** Carib-to-USG rates have dropped to WS150, marking a 20% decline from the levels recorded just a month ago.
 
 ![Στιγμιότυπο Οθόνης 2024 09 06 100613](assets/2024-09-06_tklaggjxyc8f0justn5jwcfp4910cz_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fe60df251e87.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 09 06 100613**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-09-06_tklaggjxyc8f0justn5jwcfp4910cz_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fe60df251e87.png)
 
-- **MR1****rates**for shipments from the**Baltic**to the continent have reached WS160, reflecting a 3% weekly increase. However, they remain 16% lower compared to the same period last year. Meanwhile,**MR2**rates for shipments from the**Continent to the USAC**are hovering around WS120, showing a 2% increase week-over-week but still 40% lower than the levels seen in the same week last year. On the USG-Cont route,**MR2**rates have remained steady, hovering around WS150, similar to last month's levels, and reflecting an 11% increase year-over-year.
+- **MR1** **rates** for shipments from the **Baltic** to the continent have reached WS160, reflecting a 3% weekly increase. However, they remain 16% lower compared to the same period last year. Meanwhile,**MR2** rates for shipments from the **Continent to the USAC** are hovering around WS120, showing a 2% increase week-over-week but still 40% lower than the levels seen in the same week last year. On the USG-Cont route,**MR2** rates have remained steady, hovering around WS150, similar to last month's levels, and reflecting an 11% increase year-over-year.
 
 ![Στιγμιότυπο Οθόνης 2024 09 06 100713](assets/2024-09-06_tklaggjxyc8f0justn5jwcfp4910cz_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2cc0a66835a.png)
 
@@ -107,14 +107,14 @@ However, fears of weaker demand have resurfaced, pushing prices lower. These con
 > **Figure 9: Στιγμιότυπο Οθόνης 2024 09 06 101042**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-09-06_tklaggjxyc8f0justn5jwcfp4910cz_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e511aceed55.png)
 
-- **Dirty**tonne days: The decrease in VLCC tonne days growth observed in August continues into early September. Meanwhile, Suezmax tonne days show stronger signs of weekly percentage growth, though this increase remains significantly below the annual average. In the Aframax segment, the decline is less pronounced, with the lowest weekly percentage growth recorded recently and a slight rise noted during week 28.
+- **Dirty** tonne days: The decrease in VLCC tonne days growth observed in August continues into early September. Meanwhile, Suezmax tonne days show stronger signs of weekly percentage growth, though this increase remains significantly below the annual average. In the Aframax segment, the decline is less pronounced, with the lowest weekly percentage growth recorded recently and a slight rise noted during week 28.
 
 ![Στιγμιότυπο Οθόνης 2024 09 06 101155](assets/2024-09-06_tklaggjxyc8f0justn5jwcfp4910cz_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5dff9b7e66b6.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2024 09 06 101155**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-09-06_tklaggjxyc8f0justn5jwcfp4910cz_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5dff9b7e66b6.png)
 
-- **Panamax**tonne days: The growth rate recorded a weekly percentage increase from the low observed in week 30. For Clean MR tonne days, the growth rate for MR1 vessel size continued to decline, with the last peak occurring at the end of week 30. In contrast, the growth rate for MR2 vessel size remains below the annual average, with not yet signs of potential upward momentum in the early days of September.
+- **Panamax** tonne days: The growth rate recorded a weekly percentage increase from the low observed in week 30. For Clean MR tonne days, the growth rate for MR1 vessel size continued to decline, with the last peak occurring at the end of week 30. In contrast, the growth rate for MR2 vessel size remains below the annual average, with not yet signs of potential upward momentum in the early days of September.
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)
 

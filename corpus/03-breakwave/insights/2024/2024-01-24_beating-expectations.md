@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/1/24/beating-expectations"
 images_count: 2
-word_count: 638
+word_count: 640
 source_file: "corpus/03-breakwave/insights/2024/2024-01-24_beating-expectations.html"
 ---
 

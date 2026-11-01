@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/6/30/the-venezuelan-crude-trade"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 1
-word_count: 702
+word_count: 703
 source_file: "corpus/03-breakwave/insights/2026/2026-06-30_the-venezuelan-crude-trade.html"
 ---
 

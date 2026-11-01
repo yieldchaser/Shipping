@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/16/commodities-extend-gains-as-supply-issues-re-emerge"
 images_count: 1
-word_count: 682
+word_count: 683
 source_file: "corpus/03-breakwave/insights/2022/2022-11-16_commodities-extend-gains-as-supply-issues-re-emerge.html"
 ---
 

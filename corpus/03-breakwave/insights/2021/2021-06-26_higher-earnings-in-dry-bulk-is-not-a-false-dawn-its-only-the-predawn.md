@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/25/higher-earnings-in-dry-bulk-is-not-a-false-dawn-its-only-the-predawn"
 tags: ["Dry Bulk", "Shipping", "Outlook"]
 images_count: 4
-word_count: 1137
+word_count: 1141
 source_file: "corpus/03-breakwave/insights/2021/2021-06-26_higher-earnings-in-dry-bulk-is-not-a-false-dawn-its-only-the-predawn.html"
 ---
 
@@ -51,7 +51,7 @@ The long-term trend in thermal coal demand is more questionable, but Lindström 
 
 ### 3) Dry Bulk Market Outlook
 
-Thus, dry bulk demand growth is expected to remain healthy in the foreseeable future. What then about supply.? Will newbuildings spawn… and result in another false dawn?” Lindström argues that if we walk down the memory lane we see**that any uptick in freight rates in the past 20 years have triggered big waves of new build orders. Is there any reason not to expect a big wave of newbuilding orders this time around?**The average lead time between orders and delivery in recent years has been more than 24 months and the order-book of the yards are being filled up with container orders - time is running out for orders with delivery in 2023. Based on the current level of the order-book we can, with a high level of certainty, predict that fleet growth will be at historically low levels in the next couple of years.**We certainly believe that higher freight markets will trigger more newbuild orders in the coming years. However, we also believe that fleet growth in the next 3-4 years is likely to be at relatively low levels due to uncertainties around the choice of fuel and propulsion systems.**
+Thus, dry bulk demand growth is expected to remain healthy in the foreseeable future. What then about supply.? Will newbuildings spawn… and result in another false dawn?” Lindström argues that if we walk down the memory lane we see **that any uptick in freight rates in the past 20 years have triggered big waves of new build orders. Is there any reason not to expect a big wave of newbuilding orders this time around?**The average lead time between orders and delivery in recent years has been more than 24 months and the order-book of the yards are being filled up with container orders - time is running out for orders with delivery in 2023. Based on the current level of the order-book we can, with a high level of certainty, predict that fleet growth will be at historically low levels in the next couple of years.**We certainly believe that higher freight markets will trigger more newbuild orders in the coming years. However, we also believe that fleet growth in the next 3-4 years is likely to be at relatively low levels due to uncertainties around the choice of fuel and propulsion systems.**
 
 ### 4) Conclusion
 

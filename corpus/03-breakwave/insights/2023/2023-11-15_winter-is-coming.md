@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/11/15/winter-is-coming"
 images_count: 2
-word_count: 720
+word_count: 722
 source_file: "corpus/03-breakwave/insights/2023/2023-11-15_winter-is-coming.html"
 ---
 

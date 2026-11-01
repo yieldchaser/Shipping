@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/8/2025-isnt-forecastable-but-we-will-try"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 8
-word_count: 1764
+word_count: 1772
 source_file: "corpus/03-breakwave/insights/2025/2025-01-08_2025-isnt-forecastable-but-we-will-try.html"
 ---
 

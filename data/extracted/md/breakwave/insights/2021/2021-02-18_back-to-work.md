@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/18/back-to-work"
 tags: ["China"]
 images_count: 3
-word_count: 614
+word_count: 617
 source_file: "corpus/03-breakwave/insights/2021/2021-02-18_back-to-work.html"
 ---
 
@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-02-18_back-to-work.html"
 
 ---
 
-![By Ulf Bergman](assets/2021-02-18_back-to-work_img_image-asset_266a681e504f.jpeg)
+![By Ulf Bergman](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-18_back-to-work_img_image-asset_266a681e504f.jpeg)
 
 > **Figure 1: By Ulf Bergman**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-18_back-to-work_img_image-asset_266a681e504f.jpeg)
@@ -31,14 +31,14 @@ The two sets of data could indicate a negative impact on first quarter economic 
 
 The Chinese equity markets, which have been shut for the week, reacted positively to the news, and continued its upward trajectory and recorded levels not seen since August 2015.
 
-![Ulf 410](assets/2021-02-18_back-to-work_img_ulf410_5d261c2c9772.jpg)
+![Ulf 410](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-18_back-to-work_img_ulf410_5d261c2c9772.jpg)
 
 > **Figure 2: Ulf 410**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-18_back-to-work_img_ulf410_5d261c2c9772.jpg)
 
 The ongoing success story of the Chinese recovery/growth in combination with recent expectations of an accelerating global economy, as vaccines are rolled out and stimulus measures take effect, have kept pushing copper prices higher. The commodity, often considered an economic bellwether due to its importance in industrial production, has gained almost 90 percent since the lows in March last year and is currently trading at a nine-year high. The production guidance from the top producers is also pointing towards a considerable copper deficit this year, with output struggling to keep up with the projected rising demand.
 
-![Ulf 420](assets/2021-02-18_back-to-work_img_ulf420_bf8f6a205d95.jpg)
+![Ulf 420](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-18_back-to-work_img_ulf420_bf8f6a205d95.jpg)
 
 > **Figure 3: Ulf 420**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-18_back-to-work_img_ulf420_bf8f6a205d95.jpg)

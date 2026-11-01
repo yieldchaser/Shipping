@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/5/coal-dry-bulk-flows-us-europe-market-analysis"
 tags: ["Shipping", "Drybulk", "Markets"]
 images_count: 5
-word_count: 1256
+word_count: 1261
 source_file: "corpus/03-breakwave/insights/2025/2025-02-05_coal-dry-bulk-flows-us-europe-market-analysis.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-02-05_coal-dry-bulk-flows-u
 ---
 
 **Dry Weekly Market Monitor - Week 06, 2025**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 February 05, 2025
 
 ## Chart of the Week: Coal Dry Bulk Flows | U.s. - Europe Market Analysis
@@ -46,17 +46,17 @@ Looking ahead, the Signal Ocean Coal Dry Bulk Flows report suggests a weak start
 
 The overall trend remains bearish for the Capesize Brazil - North China rates, with recent weeks seeing a slight recovery after a prolonged decline.
 
-- **Capesize**vessel freight rates for shipments from Brazil to North China have stabilized around $17 per ton, reflecting a 8% decline from the previous month and a 23% drop compared to the same period last year.
-- **Panamax**vessel freight rates from the Continent to the Far East held below $29 per ton, showing a 25% decline compared to the same period last year.
-- **Supramax**vessel freight rates on the Indo-ECI route remained below $7 per ton, marking a 18% decrease from the previous month.
-- **Handysize**freight rates for the NOPAC Far East route have fallen to $25 per ton, representing a 15% month-on-month decline.
+- **Capesize** vessel freight rates for shipments from Brazil to North China have stabilized around $17 per ton, reflecting a 8% decline from the previous month and a 23% drop compared to the same period last year.
+- **Panamax** vessel freight rates from the Continent to the Far East held below $29 per ton, showing a 25% decline compared to the same period last year.
+- **Supramax** vessel freight rates on the Indo-ECI route remained below $7 per ton, marking a 18% decrease from the previous month.
+- **Handysize** freight rates for the NOPAC Far East route have fallen to $25 per ton, representing a 15% month-on-month decline.
 
 ![Στιγμιότυπο Οθόνης 2025 02 05 123224](assets/2025-02-05_coal-dry-bulk-flows-us-europe-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_35bee41188da.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 02 05 123224**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-05_coal-dry-bulk-flows-us-europe-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_35bee41188da.png)
 
-The recent increase in**Cape SE Africa**and**Pmax SE Africa**ballasters may indicate softer demand in loading regions, causing more vessels to remain in ballast.
+The recent increase in **Cape SE Africa** and **Pmax SE Africa** ballasters may indicate softer demand in loading regions, causing more vessels to remain in ballast.
 
 - **Capesize SE Africa**: The number of vessels exceeded 140, 24 above the annual average, signaling a continued spike with the onset of the Chinese New Year season.
 - **Panamax SE Africa**: The number of vessels has remained more stable compared to Cape SE Africa.There was a downward trend in the earlier weeks, but the past few weeks have shown an increase with levels reaching 186, 50 above the annual average.

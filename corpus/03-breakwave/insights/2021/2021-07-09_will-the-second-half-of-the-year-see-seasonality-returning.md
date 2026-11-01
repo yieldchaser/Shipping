@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/9/will-the-second-half-of-the-year-see-seasonality-returning"
 tags: ["Commodities", "Shipping"]
 images_count: 4
-word_count: 1030
+word_count: 1034
 source_file: "corpus/03-breakwave/insights/2021/2021-07-09_will-the-second-half-of-the-year-see-seasonality-returning.html"
 ---
 
@@ -42,7 +42,7 @@ The increasing export volumes from Brazil in recent months suggest that the much
 > **Figure 2: A2**  
 > [Local Asset](assets/2021-07-09_will-the-second-half-of-the-year-see-seasonality-returning_img_a2_1bffadac0b16.png)
 
-Adding to the bullish case for the second half of the year is the**low inventory levels of iron ore**in many Chinese ports. Data from Tathya.earth covering the two largest iron ore ports, Caofeidian and Jingtang, highlights the downward trajectory for the stockpiles. While the data is volatile by nature, the trend has been building since April/May for the two ports and could indicate that we will see increasing Chinese iron ore imports in the near future.
+Adding to the bullish case for the second half of the year is the **low inventory levels of iron ore** in many Chinese ports. Data from Tathya.earth covering the two largest iron ore ports, Caofeidian and Jingtang, highlights the downward trajectory for the stockpiles. While the data is volatile by nature, the trend has been building since April/May for the two ports and could indicate that we will see increasing Chinese iron ore imports in the near future.
 
 ![A3](assets/2021-07-09_will-the-second-half-of-the-year-see-seasonality-returning_img_a3_7e7b87f3832d.png)
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/15/the-war-of-jenkins-ear"
 tags: ["Markets", "Economy", "Macro"]
 images_count: 7
-word_count: 1423
+word_count: 1430
 source_file: "corpus/03-breakwave/insights/2024/2024-04-15_the-war-of-jenkins-ear.html"
 ---
 

@@ -65,7 +65,7 @@ The freight derivatives are traded either as freight futures or options at diffe
 
 Freight option contracts are financial agreements with the same main characteristics as futures contracts, i.e. different expiry dates on the forward curve starting from the first month and up to six calendar years, cleared on a regulated financial exchange. The main difference is that there are two types of freight options contracts: call options and put options.
 
-A**call**option is a contract that gives its buyer the right, but not the obligation, to buy an underlying asset (freight rate) from the seller (or writer) of the call option at a certain price known as the strike price at a certain expiration date. On the other hand, a**put**option gives its holder the right, but not the obligation, to sell the underlying asset to the writer of the put option at a certain strike price and expiration date.
+A**call** option is a contract that gives its buyer the right, but not the obligation, to buy an underlying asset (freight rate) from the seller (or writer) of the call option at a certain price known as the strike price at a certain expiration date. On the other hand, a**put** option gives its holder the right, but not the obligation, to sell the underlying asset to the writer of the put option at a certain strike price and expiration date.
 
 ## Ffa | The Dry Bulk Freight Market, Signal Indicators versus Ffas
 
@@ -83,7 +83,7 @@ Graph 1: The Signal Ocean Platform | Capesize Supply Trend - Market Rates $/t an
 
 ## The Signal Ocean Ffa Report | Overview of Ffa Prices Across All Routes and Contracts
 
-Options and Futures rates are shown through graphs in all main dry bulk ship sizes, Capesize, Panamax, Supramax, and Handysize, for all key trading routes, per month, quarter and year, for the expired and non-expired contracts. The forward prices are quoted for the spot ($/t)-Image 1 and time charter rates ($/d)- Image 2. Additionally, with the**Signal Ocean FFA Report**(Available for our Paid plans) powered by SSY, you can monitor the bid and offer FFA quotes, and FFA prices comparisons between the current month, one month forward, two months forward, one quarter ahead, and two quarters ahead.
+Options and Futures rates are shown through graphs in all main dry bulk ship sizes, Capesize, Panamax, Supramax, and Handysize, for all key trading routes, per month, quarter and year, for the expired and non-expired contracts. The forward prices are quoted for the spot ($/t)-Image 1 and time charter rates ($/d)- Image 2. Additionally, with the **Signal Ocean FFA Report**(Available for our Paid plans) powered by SSY, you can monitor the bid and offer FFA quotes, and FFA prices comparisons between the current month, one month forward, two months forward, one quarter ahead, and two quarters ahead.
 
 ## Signal Ocean Platform, Ffa Data by Ssy: Spot Market
 

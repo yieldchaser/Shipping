@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/2/21/mazars-comment-the-next-five-bull-markets"
 images_count: 1
-word_count: 1395
+word_count: 1396
 source_file: "corpus/03-breakwave/insights/2023/2023-02-21_mazars-comment-the-next-five-bull-markets.html"
 ---
 

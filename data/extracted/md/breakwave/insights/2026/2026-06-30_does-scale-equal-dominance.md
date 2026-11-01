@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/6/29/does-scale-equal-dominance"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 3
-word_count: 1281
+word_count: 1284
 source_file: "corpus/03-breakwave/insights/2026/2026-06-30_does-scale-equal-dominance.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/2/china-increasing-headwinds-for-the-economy-could-keep-stimulus-in-place-for-longer"
 tags: ["China"]
 images_count: 2
-word_count: 751
+word_count: 753
 source_file: "corpus/03-breakwave/insights/2021/2021-07-05_china-increasing-headwinds-for-the-economy-could-keep-stimulus-in-place-for-long.html"
 ---
 

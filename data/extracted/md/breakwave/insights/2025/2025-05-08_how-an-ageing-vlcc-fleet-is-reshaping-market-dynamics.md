@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/8/how-an-ageing-vlcc-fleet-is-reshaping-market-dynamics"
 tags: ["Crude", "Shipping", "Tankers"]
 images_count: 1
-word_count: 601
+word_count: 602
 source_file: "corpus/03-breakwave/insights/2025/2025-05-08_how-an-ageing-vlcc-fleet-is-reshaping-market-dynamics.html"
 ---
 

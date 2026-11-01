@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/7/10/technology-a-speedbump-or-a-paradigm-shift"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 7
-word_count: 1900
+word_count: 1907
 source_file: "corpus/03-breakwave/insights/2026/2026-07-10_technology-a-speedbump-or-a-paradigm-shift.html"
 ---
 

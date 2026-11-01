@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/5/27/brs-iron-ore-amp-steel-bi-weekly-newsletter"
 images_count: 2
-word_count: 570
+word_count: 572
 source_file: "corpus/03-breakwave/insights/2023/2023-05-27_brs-iron-ore-amp-steel-bi-weekly-newsletter.html"
 ---
 

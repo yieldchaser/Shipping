@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/7/17/hormuz-disruption-weighs-on-alumina-as-aluminium-flows-surge"
 tags: ["Drybulk", "Markets", "Commodities"]
 images_count: 3
-word_count: 511
+word_count: 514
 source_file: "corpus/03-breakwave/insights/2026/2026-07-17_hormuz-disruption-weighs-on-alumina-as-aluminium-flows-surge.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/27/all-i-want-is-peace"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 2
-word_count: 1420
+word_count: 1422
 source_file: "corpus/03-breakwave/insights/2026/2026-05-27_all-i-want-is-peace.html"
 ---
 
@@ -38,7 +38,7 @@ Prospects for peace with Iran may be improving, but analysis should rely on veri
 
 Are we closer to peace in Iran? Possibly, although from an investment and economic forecasting standpoint, we would begin analysis when facts, not perceived intent, drive the discussion. This is a lesson of the last few months, too hard learned to ignore. Even as the two parties discuss, skirmishes still take place.
 
-But still, incentives drive behaviours, and who doesn’t want peace? World leaders certainly do (well, most of them) as they see long government borrowing costs soaring and inflation threatening to cross the 5% barrier again in 2026, the second time in less than a decade. Meanwhile, we see[warnings](assets/2026-05-27_all-i-want-is-peace_oil-prices-iran-war-carlyle-currie_852164c0d49f.html)that Europe and the US could face oil shortages in the summer if the situation is not resolved.
+But still, incentives drive behaviours, and who doesn’t want peace? World leaders certainly do (well, most of them) as they see long government borrowing costs soaring and inflation threatening to cross the 5% barrier again in 2026, the second time in less than a decade. Meanwhile, we see [warnings](assets/2026-05-27_all-i-want-is-peace_oil-prices-iran-war-carlyle-currie_852164c0d49f.html) that Europe and the US could face oil shortages in the summer if the situation is not resolved.
 
 ![Market Chart 1](assets/2026-05-27_all-i-want-is-peace_img_image005_9935c738566b.png)
 

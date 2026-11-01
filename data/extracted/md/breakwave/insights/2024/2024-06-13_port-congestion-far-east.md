@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/13/port-congestion-far-east"
 tags: ["Drybulk", "Shipping", "Capesize"]
 images_count: 5
-word_count: 1170
+word_count: 1175
 source_file: "corpus/03-breakwave/insights/2024/2024-06-13_port-congestion-far-east.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-06-13_port-congestion-far-e
 ---
 
 **Dry Weekly Market Monitor - Week 24, 2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 June 12, 2024
 
 ![Στιγμιότυπο Οθόνης 2024 06 13 130424](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d76b54dabdab.png)

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/8/14/china-remains-the-driving-force-of-dry-bulk-demand"
 images_count: 4
-word_count: 1060
+word_count: 1064
 source_file: "corpus/03-breakwave/insights/2020/2020-08-14_china-remains-the-driving-force-of-dry-bulk-demand.html"
 ---
 

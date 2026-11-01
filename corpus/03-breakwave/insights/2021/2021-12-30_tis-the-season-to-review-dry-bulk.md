@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/12/30/tis-the-season-to-review-dry-bulk"
 tags: ["Shipping", "Dry Bulk", "2021recap"]
 images_count: 4
-word_count: 1542
+word_count: 1546
 source_file: "corpus/03-breakwave/insights/2021/2021-12-30_tis-the-season-to-review-dry-bulk.html"
 ---
 

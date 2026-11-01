@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/25/how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 4
-word_count: 783
+word_count: 787
 source_file: "corpus/03-breakwave/insights/2025/2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand.html"
 ---
 

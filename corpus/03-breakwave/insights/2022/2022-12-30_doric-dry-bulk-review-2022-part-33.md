@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/12/30/doric-dry-bulk-review-2022-part-33"
 images_count: 13
-word_count: 7269
+word_count: 7282
 source_file: "corpus/03-breakwave/insights/2022/2022-12-30_doric-dry-bulk-review-2022-part-33.html"
 ---
 
@@ -172,7 +172,7 @@ Turning towards 2023, the key macroeconomic question of the year is whether infl
 
 May your sails have good winds in 2023!
 
--You can find Part1[here](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13)
+-You can find Part1 [here](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13)
 
 -You can find Part 2[here](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-23)
 

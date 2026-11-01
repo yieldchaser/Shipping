@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/12/4/even-more-growth-in-steel-production-outside-of-china"
 images_count: 6
-word_count: 633
+word_count: 639
 source_file: "corpus/03-breakwave/insights/2023/2023-12-04_even-more-growth-in-steel-production-outside-of-china.html"
 ---
 

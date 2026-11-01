@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/29/bkql25bg3bufqvioabueoj1k2f7eb9"
 tags: ["Drybulk", "Shipping", "China"]
 images_count: 3
-word_count: 992
+word_count: 995
 source_file: "corpus/03-breakwave/insights/2024/2024-04-29_bkql25bg3bufqvioabueoj1k2f7eb9.html"
 ---
 

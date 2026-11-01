@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/20breakwave-weekend-read-554747hhg-9tdx4-86gjc"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 14
-word_count: 1496
+word_count: 1510
 source_file: "corpus/03-breakwave/insights/2026/2026-03-06_20breakwave-weekend-read-554747hhg-9tdx4-86gjc.html"
 ---
 
@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-03-06_20breakwave-weekend-r
 
 ## Breakwave Shipping Report
 
-**Positive Sentiment Supports Rates Despite Dark Macro Clouds**– The dry bulk chartering market has finally reached a phase of**institutional maturity**where freight derivatives increasingly dictate spot market trajectory, mirroring the evolution of other global commodity markets.
+**Positive Sentiment Supports Rates Despite Dark Macro Clouds**– The dry bulk chartering market has finally reached a phase of **institutional maturity** where freight derivatives increasingly dictate spot market trajectory, mirroring the evolution of other global commodity markets.
 
 [Read More](https://www.breakwaveadvisors.com/insights/332026db-report2026kkji33lo)
 

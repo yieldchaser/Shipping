@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/6/30/india-remains-a-rare-bright-spot"
 images_count: 2
-word_count: 360
+word_count: 362
 source_file: "corpus/03-breakwave/insights/2023/2023-06-30_india-remains-a-rare-bright-spot.html"
 ---
 

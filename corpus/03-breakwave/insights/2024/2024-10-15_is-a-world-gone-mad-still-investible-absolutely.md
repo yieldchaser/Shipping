@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/15/is-a-world-gone-mad-still-investible-absolutely"
 tags: ["Markets", "Economy", "Macro"]
 images_count: 4
-word_count: 912
+word_count: 916
 source_file: "corpus/03-breakwave/insights/2024/2024-10-15_is-a-world-gone-mad-still-investible-absolutely.html"
 ---
 

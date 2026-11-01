@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/4/7/indias-electricity-production-goes-from-contraction-to-setting-new-record"
 tags: ["Economy", "Energy", "Crisis", "Electricity"]
 images_count: 3
-word_count: 382
+word_count: 385
 source_file: "corpus/03-breakwave/insights/2022/2022-04-07_indias-electricity-production-goes-from-contraction-to-setting-new-record.html"
 ---
 

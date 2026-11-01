@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/22/global-economic-activity-and-world-trade-strengthened"
 tags: ["Economy", "Macro", "China"]
 images_count: 1
-word_count: 799
+word_count: 800
 source_file: "corpus/03-breakwave/insights/2024/2024-07-22_global-economic-activity-and-world-trade-strengthened.html"
 ---
 

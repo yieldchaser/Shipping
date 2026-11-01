@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/19/chinas-gdp-growth-is-the-pillar-for-a-sustained-dry-bulk-capesize-prosperity"
 tags: ["Shipping", "China", "Economy"]
 images_count: 2
-word_count: 1718
+word_count: 1720
 source_file: "corpus/03-breakwave/insights/2021/2021-04-19_chinas-gdp-growth-is-the-pillar-for-a-sustained-dry-bulk-capesize-prosperity.html"
 ---
 

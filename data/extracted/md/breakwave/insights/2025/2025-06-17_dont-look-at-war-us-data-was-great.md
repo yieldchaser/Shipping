@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/17/dont-look-at-war-us-data-was-great"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 7
-word_count: 1219
+word_count: 1226
 source_file: "corpus/03-breakwave/insights/2025/2025-06-17_dont-look-at-war-us-data-was-great.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/12/12/breakwave-bi-weekly-tanker-report-dec-12-2023-5jkjt"
 images_count: 3
-word_count: 677
+word_count: 680
 source_file: "corpus/03-breakwave/insights/2023/2023-12-12_breakwave-bi-weekly-tanker-report-dec-12-2023-5jkjt.html"
 ---
 

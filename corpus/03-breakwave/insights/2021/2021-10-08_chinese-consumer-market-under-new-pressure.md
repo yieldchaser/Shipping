@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/8/chinese-consumer-market-under-new-pressure"
 tags: ["China", "Economy", "Market"]
 images_count: 3
-word_count: 390
+word_count: 393
 source_file: "corpus/03-breakwave/insights/2021/2021-10-08_chinese-consumer-market-under-new-pressure.html"
 ---
 

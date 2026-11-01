@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/18/eu-keeps-the-pressure-on"
 tags: ["Tankers", "Markets", "Shipping"]
 images_count: 2
-word_count: 737
+word_count: 739
 source_file: "corpus/03-breakwave/insights/2026/2026-05-18_eu-keeps-the-pressure-on.html"
 ---
 

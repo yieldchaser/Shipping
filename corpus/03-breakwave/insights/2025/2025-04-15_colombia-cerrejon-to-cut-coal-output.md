@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/14/colombia-cerrejon-to-cut-coal-output"
 tags: ["Coal", "Shipping", "Drybulk"]
 images_count: 5
-word_count: 1156
+word_count: 1161
 source_file: "corpus/03-breakwave/insights/2025/2025-04-15_colombia-cerrejon-to-cut-coal-output.html"
 ---
 

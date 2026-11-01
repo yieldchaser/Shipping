@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/21/dry-bulk-market-is-grappling-with-significant-headwinds"
 tags: ["China", "Drybulk", "Commodities"]
 images_count: 2
-word_count: 1039
+word_count: 1041
 source_file: "corpus/03-breakwave/insights/2024/2024-10-21_dry-bulk-market-is-grappling-with-significant-headwinds.html"
 ---
 

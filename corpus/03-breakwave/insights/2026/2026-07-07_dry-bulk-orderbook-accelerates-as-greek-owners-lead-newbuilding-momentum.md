@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/7/7/dry-bulk-orderbook-accelerates-as-greek-owners-lead-newbuilding-momentum"
 tags: ["Drybulk", "Markets", "Shipping"]
 images_count: 1
-word_count: 660
+word_count: 661
 source_file: "corpus/03-breakwave/insights/2026/2026-07-07_dry-bulk-orderbook-accelerates-as-greek-owners-lead-newbuilding-momentum.html"
 ---
 

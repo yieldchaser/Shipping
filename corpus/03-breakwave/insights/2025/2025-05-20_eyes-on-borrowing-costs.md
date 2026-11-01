@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/20/eyes-on-borrowing-costs"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 8
-word_count: 1442
+word_count: 1450
 source_file: "corpus/03-breakwave/insights/2025/2025-05-20_eyes-on-borrowing-costs.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/20/recent-reversal-in-chinas-steel-production"
 tags: ["China", "Steel", "Drybulk"]
 images_count: 3
-word_count: 282
+word_count: 285
 source_file: "corpus/03-breakwave/insights/2024/2024-03-20_recent-reversal-in-chinas-steel-production.html"
 ---
 

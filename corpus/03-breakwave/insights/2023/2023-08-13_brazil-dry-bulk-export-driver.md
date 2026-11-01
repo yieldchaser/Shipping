@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/8/12/brazil-dry-bulk-export-driver"
 tags: ["Drybulk", "Shipping", "Brazil"]
 images_count: 4
-word_count: 775
+word_count: 779
 source_file: "corpus/03-breakwave/insights/2023/2023-08-13_brazil-dry-bulk-export-driver.html"
 ---
 
@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-08-13_brazil-dry-bulk-expor
 
 - *Iron ore exports from Brazil are already running 15.3m tonnes higher YoY in first seven months of the year, government data confirm.*
 
-**Brazil continues to be the focal point for world grain trades**in the Q3, as soybean exports wind down and corn cargoes appear in greater numbers.
+**Brazil continues to be the focal point for world grain trades** in the Q3, as soybean exports wind down and corn cargoes appear in greater numbers.
 
 Even a monthly drop of almost 4m tonnes to 10.0m tonnes failed to prevent soybean exports from recording a fifth consecutive yearly gain in July.
 
@@ -50,7 +50,7 @@ As the chart below shows, Brazil’s corn exports in 2022 offset the seasonal lo
 > **Figure 2: 242**  
 > [Local Asset](assets/2023-08-13_brazil-dry-bulk-export-driver_img_242_6c9670bc4d84.png)
 
-**Panamax/Kamsarmax**tonnage is the main vessel size employed on**Brazil’s corn trades, particularly on longhaul trades into East Asia**.
+**Panamax/Kamsarmax** tonnage is the main vessel size employed on **Brazil’s corn trades, particularly on longhaul trades into East Asia**.
 
 According to AXS vessel tracking, Panamaxes shipped 88% of Corn volumes to the Far East and Southeast Asia in 2022, compared to 53% of volumes to the rest of the world.
 
@@ -71,7 +71,7 @@ One of the drivers behind this has been the return of iron ore trade growth on k
 
 Following a poor year for weather in 2022, drier conditions in Q2 allowed miners to ramp up production and exports. The latest official trade data shows Brazil exported 191m tonnes of iron ore in the first seven months of 2023, an increase of 15.3m tonnes on the same period last year.
 
-While it is true that this year’s export volumes represent a return to year-on-year growth, however, the chart overleaf highlights that**2023 also marks a return to the actual volumes from 2021**. Indeed, the two-year increase is a less impressive 2.9m tonnes.
+While it is true that this year’s export volumes represent a return to year-on-year growth, however, the chart overleaf highlights that **2023 also marks a return to the actual volumes from 2021**. Indeed, the two-year increase is a less impressive 2.9m tonnes.
 
 ![244](assets/2023-08-13_brazil-dry-bulk-export-driver_img_244_82be876550d6.png)
 

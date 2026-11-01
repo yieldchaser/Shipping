@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/12/chinese-steel-market-continues-to-fare-very-well-air-pollution-remains-much-improved"
 tags: ["China", "Coal"]
 images_count: 2
-word_count: 494
+word_count: 496
 source_file: "corpus/03-breakwave/insights/2021/2021-04-12_chinese-steel-market-continues-to-fare-very-well-air-pollution-remains-much-impr.html"
 ---
 

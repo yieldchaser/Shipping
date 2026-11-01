@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/4/3/doric-weekly-market-insight"
 images_count: 4
-word_count: 1202
+word_count: 1206
 source_file: "corpus/03-breakwave/insights/2023/2023-04-03_doric-weekly-market-insight.html"
 ---
 

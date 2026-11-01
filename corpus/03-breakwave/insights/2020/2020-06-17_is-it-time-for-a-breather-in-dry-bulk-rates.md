@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/17/is-it-time-for-a-breather-in-dry-bulk-rates"
 tags: ["Shipping", "Dry Bulk", "Capesize", "China"]
 images_count: 4
-word_count: 979
+word_count: 983
 source_file: "corpus/03-breakwave/insights/2020/2020-06-17_is-it-time-for-a-breather-in-dry-bulk-rates.html"
 ---
 
@@ -25,11 +25,11 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-17_is-it-time-for-a-brea
 > **Figure 1: Market Chart 1**  
 > **Interactive Data & Source:** [Gcaptain](https://gcaptain.com/baltic-dry-index-tops-1000-for-first-time-in-six-months/) | [Local Asset](assets/2020-06-17_is-it-time-for-a-breather-in-dry-bulk-rates_img_image-asset_fc4789c7df3b.jpeg)
 
-An impressive[rally in dry bulk freight rates](https://gcaptain.com/baltic-dry-index-tops-1000-for-first-time-in-six-months/)has once again revealed the extremely volatile nature of shipping, where short term imbalances between supply and demand can cause sharp moves in freight rates, in any macro environment. This time around, Capesize rates have skyrocketed in less than a month from ~3,000/day to more than 20,000/day in a relentless rally that has caught even seasoned traders and physical users of freight by surprise.
+An impressive [rally in dry bulk freight rates](https://gcaptain.com/baltic-dry-index-tops-1000-for-first-time-in-six-months/) has once again revealed the extremely volatile nature of shipping, where short term imbalances between supply and demand can cause sharp moves in freight rates, in any macro environment. This time around, Capesize rates have skyrocketed in less than a month from ~3,000/day to more than 20,000/day in a relentless rally that has caught even seasoned traders and physical users of freight by surprise.
 
 However, the significant increase in rates is naturally bringing up the question of where does the upward move end. After all, shipping is a cyclical market, which means sharp rallies but also sharp drops.
 
-We think the market is due for a breather to digest the recent price action before resuming its ascent, supported by a favorable supply/demand balances for the next several months (see[here](../pdfs/2020-06-17_is-it-time-for-a-breather-in-dry-bulk-rates_breakwavemay262020report_aeafc973de53.pdf)and[here](https://www.breakwaveadvisors.com/insights/2020/6/10/what-is-driving-capesize-rates-higher)).
+We think the market is due for a breather to digest the recent price action before resuming its ascent, supported by a favorable supply/demand balances for the next several months (see [here](../pdfs/2020-06-17_is-it-time-for-a-breather-in-dry-bulk-rates_breakwavemay262020report_aeafc973de53.pdf) and [here](https://www.breakwaveadvisors.com/insights/2020/6/10/what-is-driving-capesize-rates-higher)).
 
 Our crystal ball is no different that anyone else’s in such a volatile environment. However, history might be of some assistance here, given the cyclical natural of dry bulk rates.
 

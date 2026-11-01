@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/15/correlation-of-freight-prices-and-indicators"
 tags: ["Bdry", "Correlation", "Freight Rates"]
 images_count: 5
-word_count: 1038
+word_count: 1043
 source_file: "corpus/03-breakwave/insights/2021/2021-05-15_correlation-of-freight-prices-and-indicators.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-05-15_correlation-of-freigh
 
 The article was originally posted as part of Oceanbolt’s Python SDK Learning Series, but given the relevance for the Breakwave Dry Bulk Shipping ETF, this is a repost to a relevant audience.
 
-In recent weeks dry bulk rates have rallied and attracted the World's attention. Most of the articles written on this topic explore the underlying causes for the rally. In this blog post, we explore which freight indicators are correlated to the price development. We use some of the freight indicators that are available via the Oceanbolt Data Platform, e.g.**fleet utilization, volume exported, congestion, fleet speed**and**port calls.**
+In recent weeks dry bulk rates have rallied and attracted the World's attention. Most of the articles written on this topic explore the underlying causes for the rally. In this blog post, we explore which freight indicators are correlated to the price development. We use some of the freight indicators that are available via the Oceanbolt Data Platform, e.g.**fleet utilization, volume exported, congestion, fleet speed** and **port calls.**
 
 As a proxy for freight prices, we use the Breakwave Dry Bulk Shipping ETF. The ETF is described as follows: "The Breakwave Dry Bulk Shipping ETF (BDRY) is an exchange-traded fund (ETF) designed to reflect the daily price movements of the near-dated dry bulk freight futures. BDRY offers investors unlevered exposure to dry bulk freight ..." (source:[Etfmg](https://etfmg.com/funds/bdry/)). You can learn more about it by visiting the link. As evident by the description, this ETF should follow the dry bulk freight price development closely and will therefore serve as a great proxy for our purposes. Using the BDRY price as a proxy for freight prices has an additional advantage that it is available via the Yahoo Finance API, which allows us to quickly grab the price development using `yfinance` in our Python script.
 
@@ -90,7 +90,7 @@ From this, it is certainly evident that some of these indicators have stronger c
 
 Thanks for reading this! If you are interested in getting access to our data, sign up for a [product demo] ([Oceanbolt](https://www.oceanbolt.com/demo/)) and stay tuned for future lessons!
 
-***Niclas Priess**is the co-founder of Oceanbolt, a data-as-a-service company leveraging geospatial analytics to provide real-time intelligence for the dry bulk markets. Learn more about Oceanbolt on its website:[Oceanbolt](https://www.oceanbolt.com/)
+***Niclas Priess** is the co-founder of Oceanbolt, a data-as-a-service company leveraging geospatial analytics to provide real-time intelligence for the dry bulk markets. Learn more about Oceanbolt on its website:[Oceanbolt](https://www.oceanbolt.com/)
 
 ---
 

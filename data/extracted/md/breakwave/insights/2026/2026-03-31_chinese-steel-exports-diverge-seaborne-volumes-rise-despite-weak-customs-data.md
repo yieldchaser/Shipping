@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/30/chinese-steel-exports-diverge-seaborne-volumes-rise-despite-weak-customs-data"
 tags: ["Shipping", "Markets", "China"]
 images_count: 4
-word_count: 1169
+word_count: 1173
 source_file: "corpus/03-breakwave/insights/2026/2026-03-31_chinese-steel-exports-diverge-seaborne-volumes-rise-despite-weak-customs-data.html"
 ---
 

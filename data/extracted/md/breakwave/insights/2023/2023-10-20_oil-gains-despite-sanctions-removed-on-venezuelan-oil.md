@@ -29,6 +29,6 @@ European **gas** prices edged lower as rising LNG imports eased concerns of supp
 
 **Copper** edged higher as the risk-on tone across market boosted sentiment. A weaker USD and lower yields late in the session helped support the move. However, the recent weakness in prices is raising concerns in the mining industry. Freeport-McMoRan warned that prices are too low to justify major investments in new projects. President Kathleen Quirk said they don’t want to commit to major multibillion-dollar projects in the current environment. The price for the red metal has fallen more than 14% since its January peak. This is despite the strong outlook for the metal amid the surge in investment in clean energy technology sectors.
 
-**Iron ore**futures gained despite further signs of weakness in China’s property sector. Home prices in major Chinese cities fell at a faster pace in September, signaling ongoing weak demand.
+**Iron ore** futures gained despite further signs of weakness in China’s property sector. Home prices in major Chinese cities fell at a faster pace in September, signaling ongoing weak demand.
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)

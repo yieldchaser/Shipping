@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/3/21/lending-in-china-remains-strong"
 images_count: 2
-word_count: 337
+word_count: 339
 source_file: "corpus/03-breakwave/insights/2023/2023-03-21_lending-in-china-remains-strong.html"
 ---
 

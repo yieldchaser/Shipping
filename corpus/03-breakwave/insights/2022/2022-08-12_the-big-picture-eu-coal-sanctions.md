@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/12/the-big-picture-eu-coal-sanctions"
 tags: ["Dry Bulk", "Shipping", "Coal"]
 images_count: 3
-word_count: 1131
+word_count: 1134
 source_file: "corpus/03-breakwave/insights/2022/2022-08-12_the-big-picture-eu-coal-sanctions.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/18/indian-coal-remains-longest-running-headwind-in-dry-bulk-market-this-year"
 tags: ["Coal", "Shipping", "Drybulk"]
 images_count: 4
-word_count: 372
+word_count: 376
 source_file: "corpus/03-breakwave/insights/2025/2025-11-18_indian-coal-remains-longest-running-headwind-in-dry-bulk-market-this-year.html"
 ---
 

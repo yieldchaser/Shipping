@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/9/28/chinese-industrial-profits-continue-to-recover"
 tags: ["China", "Economics", "Global Economy"]
 images_count: 4
-word_count: 574
+word_count: 578
 source_file: "corpus/03-breakwave/insights/2020/2020-09-28_chinese-industrial-profits-continue-to-recover.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/4/a-new-year-and-yet-another-year-with-high-expectations-for-shipping-this-time-it-might-turn-out-to-be-right"
 tags: ["China", "India", "Global Economy"]
 images_count: 2
-word_count: 792
+word_count: 794
 source_file: "corpus/03-breakwave/insights/2021/2021-01-05_a-new-year-and-yet-another-year-with-high-expectations-for-shipping-this-time-it.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-01-05_a-new-year-and-yet-an
 
 *By Ulf Bergman*
 
-![Iron Ore](assets/2021-01-05_a-new-year-and-yet-another-year-with-high-expectations-for-shipping-this-time-it_img_image-asset_e11548fa0d20.jpeg)
+![Iron Ore](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-05_a-new-year-and-yet-another-year-with-high-expectations-for-shipping-this-time-it_img_image-asset_e11548fa0d20.jpeg)
 
 > **Figure 1: Iron Ore**  
 > *Iron Ore, USD/Tonne*  
@@ -36,7 +36,7 @@ The manufacturing surveys from IHS Markit are pointing to resurgent industrial p
 
 Iron ore and copper have retreated from their highs in the middle of December last year, whether this is due to seasonal weakness, increasing supplies or the impact of Chinese attempts to change the pricing mechanism can be debated. While it is a bit of bad news for the mining companies, it is likely to support demand and keep traded volumes near the record levels seen during the second half of last year. The pickup in manufacturing in many parts of the world will also provide additional support to the demand for dry bulk commodities. While demand for oil is also starting to recover, any meaningful recovery for the black gold is unlikely to be seen before the middle of the year, as many travel restrictions can be expected to remain in place until infection rates are well and truly under control.
 
-![Ulf 101](assets/2021-01-05_a-new-year-and-yet-another-year-with-high-expectations-for-shipping-this-time-it_img_ulf101_ac5545578f8a.jpg)
+![Ulf 101](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-05_a-new-year-and-yet-another-year-with-high-expectations-for-shipping-this-time-it_img_ulf101_ac5545578f8a.jpg)
 
 > **Figure 2: Ulf 101**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-05_a-new-year-and-yet-another-year-with-high-expectations-for-shipping-this-time-it_img_ulf101_ac5545578f8a.jpg)

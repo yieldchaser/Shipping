@@ -24,9 +24,9 @@ The sustained tensions since Saturday continue to diminish the prospects for de-
 
 Tensions around the Strait of Hormuz are increasingly spilling into global oil markets, raising concerns about potential disruptions to one of the world's most critical energy transit routes. As regional tensions evolve, the central question for markets is no longer whether disruptions may occur, but how long they could persist.
 
-Major Asian importers appear particularly exposed. China and India remain heavily dependent on Gulf crude supplies, although India has indicated that national inventories could cover approximately 40-45 days of demand.[Russia](https://go.signalocean.com/e/983831/sions-rise-129021769-utm-sourc/2rx3ds/583864127/h/hOjeUh6gfwoYIydGuziS66dbxZCZsI_IZTjnyA4IZ-8)is expected to increase oil exports to both countries, which may partially offset any sustained disruption to Gulf shipments.
+Major Asian importers appear particularly exposed. China and India remain heavily dependent on Gulf crude supplies, although India has indicated that national inventories could cover approximately 40-45 days of demand.[Russia](https://go.signalocean.com/e/983831/sions-rise-129021769-utm-sourc/2rx3ds/583864127/h/hOjeUh6gfwoYIydGuziS66dbxZCZsI_IZTjnyA4IZ-8) is expected to increase oil exports to both countries, which may partially offset any sustained disruption to Gulf shipments.
 
-At the same time, the maritime risk environment in the Gulf is tightening. Marine insurers have issued notices regarding war-risk coverage for vessels operating in the region, with changes reportedly taking effect from 5 March 2026. Marine insurance brokers indicate that war-risk premiums have increased sharply, in some cases by[50-100%](https://go.signalocean.com/e/983831/an-gulf-utm-source-chatgpt-com/2rx3dw/583864127/h/hOjeUh6gfwoYIydGuziS66dbxZCZsI_IZTjnyA4IZ-8).
+At the same time, the maritime risk environment in the Gulf is tightening. Marine insurers have issued notices regarding war-risk coverage for vessels operating in the region, with changes reportedly taking effect from 5 March 2026. Marine insurance brokers indicate that war-risk premiums have increased sharply, in some cases by [50-100%](https://go.signalocean.com/e/983831/an-gulf-utm-source-chatgpt-com/2rx3dw/583864127/h/hOjeUh6gfwoYIydGuziS66dbxZCZsI_IZTjnyA4IZ-8).
 
 According to reports in Iranian state media, Iran's Islamic Revolutionary Guard Corps has announced a ban on the transit of vessels linked to the United States, Israel, Europe, and other Western allies through the Strait of Hormuz. In response to this tension, China has urged de-escalation. Furthermore, regional players such as the United Arab Emirates and Qatar are reportedly promoting diplomatic initiatives to avert a sustained interruption of regional trade and energy exports.
 
@@ -42,7 +42,7 @@ Based on[**TSOP**](https://go.signalocean.com/e/983831/nker-dynamic-timeseries-t
 
 ## Bunker Fuel Prices Spike in Fujairah
 
-Bunker fuel prices in Fujairah have risen sharply over the past week, with VLSFO reaching**$610/ton**on 5 March,**up 22% WoW**.
+Bunker fuel prices in Fujairah have risen sharply over the past week, with VLSFO reaching**$610/ton** on 5 March,**up 22% WoW**.
 
 ## Hormuz Disruptions Push AG Congestion Higher
 
@@ -56,7 +56,7 @@ The path of oil prices will largely depend on how long the disruption lasts.
 
 If tensions ease within about a week, Brent crude could stabilize in the $80-$90 per barrel range before gradually retreating toward $70 as the geopolitical risk premium fades.
 
-If disruptions persist for several weeks, supply could tighten, and Brent may move above $100 per barrel as inventories decline and refiners seek alternative barrels. In a prolonged disruption scenario, Brent prices could move well above $100, with some industry estimates pointing toward[$120](https://go.signalocean.com/e/983831/1792b31-utm-source-chatgpt-com/2rx3dz/583864127/h/hOjeUh6gfwoYIydGuziS66dbxZCZsI_IZTjnyA4IZ-8)per barrel. Export bottlenecks could force production cuts across the region as storage facilities fill and logistics become increasingly strained. A disruption lasting around twenty-five days could turn market volatility into a more structural supply shock.
+If disruptions persist for several weeks, supply could tighten, and Brent may move above $100 per barrel as inventories decline and refiners seek alternative barrels. In a prolonged disruption scenario, Brent prices could move well above $100, with some industry estimates pointing toward[$120](https://go.signalocean.com/e/983831/1792b31-utm-source-chatgpt-com/2rx3dz/583864127/h/hOjeUh6gfwoYIydGuziS66dbxZCZsI_IZTjnyA4IZ-8) per barrel. Export bottlenecks could force production cuts across the region as storage facilities fill and logistics become increasingly strained. A disruption lasting around twenty-five days could turn market volatility into a more structural supply shock.
 
 ### What's Next
 

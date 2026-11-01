@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/22/atlantic-strengthens-as-open-ships-remain-scarce"
 images_count: 1
-word_count: 259
+word_count: 260
 source_file: "corpus/03-breakwave/insights/2020/2020-06-22_atlantic-strengthens-as-open-ships-remain-scarce.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/22/upstream-under-attack"
 tags: ["Geopolitics", "Markets", "Shipping"]
 images_count: 2
-word_count: 986
+word_count: 988
 source_file: "corpus/03-breakwave/insights/2026/2026-03-23_upstream-under-attack.html"
 ---
 

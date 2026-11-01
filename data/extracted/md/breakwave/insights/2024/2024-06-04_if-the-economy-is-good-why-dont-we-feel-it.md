@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/4/if-the-economy-is-good-why-dont-we-feel-it"
 tags: ["Economy", "Markets", "Macro"]
 images_count: 5
-word_count: 1345
+word_count: 1350
 source_file: "corpus/03-breakwave/insights/2024/2024-06-04_if-the-economy-is-good-why-dont-we-feel-it.html"
 ---
 
@@ -27,7 +27,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-06-04_if-the-economy-is-goo
 3. ***As long as the Fed remains unclear about the potential for further tightening, markets will likely remain nervous.***
 4. *This market offers very few tactical opportunities, as a lack of clear direction is accompanied by low volatility.*
 
-By[George Lagarias](https://www.linkedin.com/in/george-lagarias-mba-3baa769/)
+By [George Lagarias](https://www.linkedin.com/in/george-lagarias-mba-3baa769/)
 
 First and foremost, let me share the wonderful news, that this newsletter now comes from a new entity, a global top-ten network, Forvis Mazars, which brings together Mazars and Forvis. You can find out all about it [here](https://www.forvismazars.com/group/en).
 

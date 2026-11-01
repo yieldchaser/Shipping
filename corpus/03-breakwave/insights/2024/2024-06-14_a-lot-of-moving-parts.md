@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/14/a-lot-of-moving-parts"
 tags: ["Tankers", "Shipping", "Crude Oil"]
 images_count: 2
-word_count: 730
+word_count: 732
 source_file: "corpus/03-breakwave/insights/2024/2024-06-14_a-lot-of-moving-parts.html"
 ---
 

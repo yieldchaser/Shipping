@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/6/chinas-steel-market-alive-and-well-despite-record-high-iron-ore"
 tags: ["Steel", "China"]
 images_count: 3
-word_count: 1222
+word_count: 1225
 source_file: "corpus/03-breakwave/insights/2021/2021-01-06_chinas-steel-market-alive-and-well-despite-record-high-iron-ore.html"
 ---
 
@@ -52,7 +52,7 @@ Then again, maybe the fact that utilization is quite high has something to do wi
 
 Furthermore, calls for a reduction in steel production by the Chinese authorities could provide an additional boost to steel prices while at the same time dampen the demand for iron ore and coking coal in the process leading to lower input costs.
 
-As[Bloomberg recently reported](https://www.bloomberg.com/news/articles/2020-12-19/china-steel-group-executive-expects-decline-in-iron-ore-price), China has been attempting to cool down the hot iron ore market for 2021:
+As [Bloomberg recently reported](https://www.bloomberg.com/news/articles/2020-12-19/china-steel-group-executive-expects-decline-in-iron-ore-price), China has been attempting to cool down the hot iron ore market for 2021:
 
 *“Iron ore prices will be in a downward trend as the market digests and materializes price speculation,” Luo Tiejun, a vice chairman of China Iron and Steel Association, said at Mysteel Global’s annual conference in Shanghai on Saturday, according to a transcript of his address. He made the comments when outlining the outlook for next year.*
 

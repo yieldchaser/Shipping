@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/24/more-chinese-infrastructure-investments-will-benefit-tonnage-demand"
 tags: ["Economy", "China", "Investments"]
 images_count: 1
-word_count: 752
+word_count: 753
 source_file: "corpus/03-breakwave/insights/2021/2021-09-24_more-chinese-infrastructure-investments-will-benefit-tonnage-demand.html"
 ---
 

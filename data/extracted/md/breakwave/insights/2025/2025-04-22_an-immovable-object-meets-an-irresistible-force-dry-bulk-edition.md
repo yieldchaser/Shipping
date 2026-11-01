@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/22/an-immovable-object-meets-an-irresistible-force-dry-bulk-edition"
 tags: ["Shipping", "Drybulk", "Markets"]
 images_count: 3
-word_count: 1215
+word_count: 1218
 source_file: "corpus/03-breakwave/insights/2025/2025-04-22_an-immovable-object-meets-an-irresistible-force-dry-bulk-edition.html"
 ---
 

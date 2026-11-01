@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/11/3/the-big-picture-chinas-customs-authority-to-support-coal-imports"
 images_count: 2
-word_count: 962
+word_count: 964
 source_file: "corpus/03-breakwave/insights/2023/2023-11-03_the-big-picture-chinas-customs-authority-to-support-coal-imports.html"
 ---
 

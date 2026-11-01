@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/15/chinas-role-as-a-pressure-valve-in-sanctioned-crude-market"
 tags: ["Crude", "Markets", "Geopolitics"]
 images_count: 3
-word_count: 1177
+word_count: 1180
 source_file: "corpus/03-breakwave/insights/2026/2026-01-15_chinas-role-as-a-pressure-valve-in-sanctioned-crude-market.html"
 ---
 

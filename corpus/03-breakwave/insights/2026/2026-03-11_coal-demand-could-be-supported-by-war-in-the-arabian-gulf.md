@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/11/coal-demand-could-be-supported-by-war-in-the-arabian-gulf"
 tags: ["Coal", "Drybulk", "Markets"]
 images_count: 3
-word_count: 787
+word_count: 790
 source_file: "corpus/03-breakwave/insights/2026/2026-03-11_coal-demand-could-be-supported-by-war-in-the-arabian-gulf.html"
 ---
 

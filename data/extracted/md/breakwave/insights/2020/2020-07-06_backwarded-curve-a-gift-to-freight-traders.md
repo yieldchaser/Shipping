@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/7/6/backwarded-curve-a-gift-to-freight-traders"
 tags: ["Shipping", "Dry Bulk", "China", "Capesize"]
 images_count: 2
-word_count: 666
+word_count: 668
 source_file: "corpus/03-breakwave/insights/2020/2020-07-06_backwarded-curve-a-gift-to-freight-traders.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/1/shifting-supply-chains"
 tags: ["Tankers", "Shipping", "Crude Oil"]
 images_count: 2
-word_count: 565
+word_count: 567
 source_file: "corpus/03-breakwave/insights/2024/2024-05-01_shifting-supply-chains.html"
 ---
 

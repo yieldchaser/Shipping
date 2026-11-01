@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/8/8/tanker-report-august-8-2023-slzrn"
 images_count: 3
-word_count: 661
+word_count: 664
 source_file: "corpus/03-breakwave/insights/2023/2023-08-08_tanker-report-august-8-2023-slzrn.html"
 ---
 

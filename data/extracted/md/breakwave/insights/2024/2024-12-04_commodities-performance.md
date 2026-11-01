@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/12/4/commodities-performance"
 tags: ["Shipping", "Markets", "Commodities"]
 images_count: 1
-word_count: 1241
+word_count: 1242
 source_file: "corpus/03-breakwave/insights/2024/2024-12-04_commodities-performance.html"
 ---
 

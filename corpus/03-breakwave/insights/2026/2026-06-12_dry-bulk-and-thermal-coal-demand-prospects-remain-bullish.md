@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/6/12/dry-bulk-and-thermal-coal-demand-prospects-remain-bullish"
 tags: ["Coal", "Shipping", "Drybulk"]
 images_count: 3
-word_count: 282
+word_count: 285
 source_file: "corpus/03-breakwave/insights/2026/2026-06-12_dry-bulk-and-thermal-coal-demand-prospects-remain-bullish.html"
 ---
 

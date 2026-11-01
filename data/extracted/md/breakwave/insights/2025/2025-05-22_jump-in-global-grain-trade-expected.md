@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/22/jump-in-global-grain-trade-expected"
 tags: ["Shipping", "Drybulk", "Markets"]
 images_count: 1
-word_count: 304
+word_count: 305
 source_file: "corpus/03-breakwave/insights/2025/2025-05-22_jump-in-global-grain-trade-expected.html"
 ---
 

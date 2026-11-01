@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/25/breakwave-weekend-read-4cn8n-wg9gj-2w5xd-2as3m"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 11
-word_count: 1240
+word_count: 1251
 source_file: "corpus/03-breakwave/insights/2024/2024-11-15_breakwave-weekend-read-4cn8n-wg9gj-2w5xd-2as3m.html"
 ---
 
@@ -26,7 +26,7 @@ As we conclude the workweek and head into the weekend, take a moment to review t
 
 ## Breakwave Dry Bulk Report
 
-**Capesize Activity Picks Up as Winter Market Takes Hold**- The October slump in Capesize spot rates is now behind us, and we anticipate rates will soon reach the**mid-$20,000 range**.
+**Capesize Activity Picks Up as Winter Market Takes Hold**- The October slump in Capesize spot rates is now behind us, and we anticipate rates will soon reach the **mid-$20,000 range**.
 
 [Read More](https://www.breakwaveadvisors.com/insights/20241112dry-87w355)
 

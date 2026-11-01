@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/14/vlcc-ag-supply"
 tags: ["Tankers", "Crude", "Markets"]
 images_count: 9
-word_count: 1420
+word_count: 1429
 source_file: "corpus/03-breakwave/insights/2025/2025-03-14_vlcc-ag-supply.html"
 ---
 

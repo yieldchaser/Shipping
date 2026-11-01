@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/31/imo-net-zero-framework-delay-and-the-ussaudi-alliance"
 tags: ["Shipping", "Markets"]
 images_count: 1
-word_count: 1559
+word_count: 1560
 source_file: "corpus/03-breakwave/insights/2025/2025-10-31_imo-net-zero-framework-delay-and-the-ussaudi-alliance.html"
 ---
 

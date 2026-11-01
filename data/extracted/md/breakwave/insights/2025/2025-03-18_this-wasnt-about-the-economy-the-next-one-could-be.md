@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/18/this-wasnt-about-the-economy-the-next-one-could-be"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 7
-word_count: 2068
+word_count: 2075
 source_file: "corpus/03-breakwave/insights/2025/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/5/13/dry-bulk-demand-quarterly-review-2022"
 images_count: 7
-word_count: 1675
+word_count: 1682
 source_file: "corpus/03-breakwave/insights/2022/2022-05-14_dry-bulk-demand-quarterly-review-2022.html"
 ---
 

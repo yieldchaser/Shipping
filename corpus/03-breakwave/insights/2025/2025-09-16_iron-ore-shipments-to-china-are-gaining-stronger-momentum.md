@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/16/iron-ore-shipments-to-china-are-gaining-stronger-momentum"
 tags: ["Ironore", "Drybulk", "Markets"]
 images_count: 12
-word_count: 1539
+word_count: 1551
 source_file: "corpus/03-breakwave/insights/2025/2025-09-16_iron-ore-shipments-to-china-are-gaining-stronger-momentum.html"
 ---
 
@@ -46,9 +46,9 @@ In early September, both the C3 and C5 routes are maintaining strong support lev
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 09 16 142823**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-09-16_iron-ore-shipments-to-china-are-gaining-stronger-momentum_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_69386696cfcf.png)
 
-Panamax - ECSA / Far East | USG / China**Firm**
+Panamax - ECSA / Far East | USG / China **Firm**
 
-**Panamax**spot rates for East Coast South America (ECSA) and US Gulf (USG) to Far East routes have firmed up after a softer trend last week. Prices from ECSA to the Far East are now 7% higher than the previous month. This positive sentiment is supported by a continuous drop in the number of vessels ballasting to ECSA and steady demand.
+**Panamax** spot rates for East Coast South America (ECSA) and US Gulf (USG) to Far East routes have firmed up after a softer trend last week. Prices from ECSA to the Far East are now 7% higher than the previous month. This positive sentiment is supported by a continuous drop in the number of vessels ballasting to ECSA and steady demand.
 
 ![Στιγμιότυπο Οθόνης 2025 09 16 142918](assets/2025-09-16_iron-ore-shipments-to-china-are-gaining-stronger-momentum_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1913365836c8.png)
 
@@ -60,7 +60,7 @@ Panamax - ECSA / Far East | USG / China**Firm**
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 09 16 142925**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-09-16_iron-ore-shipments-to-china-are-gaining-stronger-momentum_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_78adc5aeef3c.png)
 
-**Supramax**spot rates experienced a steady increase in the East Coast South America (ECSA) to the Far East, reaching $37/tonne, an 8% increase from the prior month. The US Gulf (USG) to Far East route also saw gains, reaching $44/tonne, up 7% monthly. This continued strength since July is linked to a consistent decline in supramax vessel supply to the USG/USEC, with counts now around 80, compared to over 100 in early June.
+**Supramax** spot rates experienced a steady increase in the East Coast South America (ECSA) to the Far East, reaching $37/tonne, an 8% increase from the prior month. The US Gulf (USG) to Far East route also saw gains, reaching $44/tonne, up 7% monthly. This continued strength since July is linked to a consistent decline in supramax vessel supply to the USG/USEC, with counts now around 80, compared to over 100 in early June.
 
 ![Στιγμιότυπο Οθόνης 2025 09 16 143026](assets/2025-09-16_iron-ore-shipments-to-china-are-gaining-stronger-momentum_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f44bc449cd71.png)
 
@@ -100,7 +100,7 @@ Panamax - ECSA / Far East | USG / China**Firm**
 > **Figure 11: Στιγμιότυπο Οθόνης 2025 09 16 143416**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-09-16_iron-ore-shipments-to-china-are-gaining-stronger-momentum_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_825a9cdbb65c.png)
 
-**Tonne-day**growth for Capesize iron ore shipments to the Far East has been stronger this year compared to the past two. After a significant drop in July, it started to recover by late Q3, with August maintaining this strength. This was supported by robust Chinese imports, driven by higher daily hot metal output. Mysteel data shows that average daily hot metal output in August reached 2.41 Mt, remaining steady from July and reflecting a 5% year-on-year increase. A pre-emptive restocking by steel mills in anticipation of a seasonal rise in September steel demand also helped boost August imports. If iron ore prices stay below the critical $100/t threshold, strong Chinese imports and continued tonne-day growth are expected.
+**Tonne-day** growth for Capesize iron ore shipments to the Far East has been stronger this year compared to the past two. After a significant drop in July, it started to recover by late Q3, with August maintaining this strength. This was supported by robust Chinese imports, driven by higher daily hot metal output. Mysteel data shows that average daily hot metal output in August reached 2.41 Mt, remaining steady from July and reflecting a 5% year-on-year increase. A pre-emptive restocking by steel mills in anticipation of a seasonal rise in September steel demand also helped boost August imports. If iron ore prices stay below the critical $100/t threshold, strong Chinese imports and continued tonne-day growth are expected.
 
 ![Στιγμιότυπο Οθόνης 2025 09 16 143423](assets/2025-09-16_iron-ore-shipments-to-china-are-gaining-stronger-momentum_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fbf94046d345.png)
 

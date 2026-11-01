@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/20breakwave-weekend-read-554747hhg"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 12
-word_count: 1244
+word_count: 1256
 source_file: "corpus/03-breakwave/insights/2026/2026-02-20_20breakwave-weekend-read-554747hhg.html"
 ---
 
@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-02-20_20breakwave-weekend-r
 
 ## Breakwave Shipping Report
 
-**February Curse is Broken as Capesize Rates Surge**– The recent**surge**in dry bulk spot rates has**defied the seasonal weakness**that typically characterizes the market at this time of the year.
+**February Curse is Broken as Capesize Rates Surge**– The recent **surge** in dry bulk spot rates has **defied the seasonal weakness** that typically characterizes the market at this time of the year.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2172026db-report2026kk47li)
 

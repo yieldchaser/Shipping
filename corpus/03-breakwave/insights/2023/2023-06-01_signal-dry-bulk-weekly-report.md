@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/6/1/signal-dry-bulk-weekly-report"
 images_count: 5
-word_count: 1195
+word_count: 1200
 source_file: "corpus/03-breakwave/insights/2023/2023-06-01_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -48,10 +48,10 @@ Freight Market, Supply, Demand and Port Congestion
 > *The dry freight market ends May with weaker momentum in the Capesize and Panamax segments, while there are some signs of an upward correction in the smaller vessel categories.*  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-01_signal-dry-bulk-weekly-report_img_unnamed-2023-06-01t114804182_c1768cab8917.png)
 
-- ***Capesize****vessel freight rates fell below $20/tonne, down $2/tonne from two weeks ago and with signs of a continued downward correction over the past four weeks.*
-- ***Panamax****vessel freight rates from**the**Continent to the Far East fell below $34/tonne, down nearly $8/tonne from the week 15 peak.*
-- ***Supramax****freight rates for the Indo-ECI route continued to hover around $10.5/tonne, showing stability with no significant fluctuations over the past five weeks.*
-- ***Handysize****freight rates for the NOPAC Far East route increased slightly to $29.5/tonne, with a slight upward trend since the last week of May.*
+- ***Capesize*** *vessel freight rates fell below $20/tonne, down $2/tonne from two weeks ago and with signs of a continued downward correction over the past four weeks.*
+- ***Panamax*** *vessel freight rates from* *the* *Continent to the Far East fell below $34/tonne, down nearly $8/tonne from the week 15 peak.*
+- ***Supramax*** *freight rates for the Indo-ECI route continued to hover around $10.5/tonne, showing stability with no significant fluctuations over the past five weeks.*
+- ***Handysize*** *freight rates for the NOPAC Far East route increased slightly to $29.5/tonne, with a slight upward trend since the last week of May.*
 
 ## Section 2/ Supply - Ballasters (# Vessels) Increasing
 

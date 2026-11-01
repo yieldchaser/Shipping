@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/9/15/housing-market-continues-to-have-no-bearing-on-chinas-dry-bulk-imports"
 images_count: 4
-word_count: 416
+word_count: 420
 source_file: "corpus/03-breakwave/insights/2023/2023-09-18_housing-market-continues-to-have-no-bearing-on-chinas-dry-bulk-imports.html"
 ---
 

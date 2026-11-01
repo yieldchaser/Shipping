@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/10/dont-tell-me-the-ox-doesnt-look-like-a-bull"
 tags: ["China", "Dry Bulk"]
 images_count: 2
-word_count: 1077
+word_count: 1079
 source_file: "corpus/03-breakwave/insights/2021/2021-02-10_dont-tell-me-the-ox-doesnt-look-like-a-bull.html"
 ---
 
@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-02-10_dont-tell-me-the-ox-d
 
 2021 commenced on a positive note, earlier than what most had expected for a first quarter. Increased Chinese steel production, augmented thermal coal needs amid decade-low temperatures, strong grain demand and efforts for inventory restocking, have all meant higher rates across the dry bulk board.
 
-![Bull Snow](assets/2021-02-10_dont-tell-me-the-ox-doesnt-look-like-a-bull_img_bullsnow_4fc5d76b75cf.jpg)
+![Bull Snow](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-10_dont-tell-me-the-ox-doesnt-look-like-a-bull_img_bullsnow_4fc5d76b75cf.jpg)
 
 > **Figure 1: Bull Snow**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-10_dont-tell-me-the-ox-doesnt-look-like-a-bull_img_bullsnow_4fc5d76b75cf.jpg)
@@ -53,7 +53,7 @@ China maintains an almost insatiable demand for grains. The country imported maj
 
 According to the United States Department of Agriculture, Brazil’s yearly soybeans production in 2021 will reach (despite the delayed harvest) the all-time high of 133 million tonnes. This of course highlights the South American country’s capacity for exports most of which will be shipped to China. The longhaul grain trade significantly underpins returns for Panamax bulkers, currently running at an average of close to US$16,000/d.
 
-![Ship13](assets/2021-02-10_dont-tell-me-the-ox-doesnt-look-like-a-bull_img_ship13_cae4ba6883fc.jpg)
+![Ship13](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-10_dont-tell-me-the-ox-doesnt-look-like-a-bull_img_ship13_cae4ba6883fc.jpg)
 
 > **Figure 2: Ship13**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-10_dont-tell-me-the-ox-doesnt-look-like-a-bull_img_ship13_cae4ba6883fc.jpg)

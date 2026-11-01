@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/29/global-gas-rallies-amid-signs-of-stronger-demand"
 tags: ["Commodities", "Crude Oil", "Ironore"]
 images_count: 1
-word_count: 577
+word_count: 578
 source_file: "corpus/03-breakwave/insights/2024/2024-02-29_global-gas-rallies-amid-signs-of-stronger-demand.html"
 ---
 

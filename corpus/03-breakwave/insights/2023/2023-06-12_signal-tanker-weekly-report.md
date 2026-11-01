@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/6/12/signal-tanker-weekly-report"
 images_count: 9
-word_count: 1586
+word_count: 1595
 source_file: "corpus/03-breakwave/insights/2023/2023-06-12_signal-tanker-weekly-report.html"
 ---
 
@@ -29,7 +29,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-06-12_signal-tanker-weekly-
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-reports-vesselSpeeds/2p1zfx/325063059?h=_5duIxsKNwwK3MyEfMxUtikrRYIFdcdR8OhRb9bfaUE) | [Local Asset](assets/2023-06-12_signal-tanker-weekly-report_img_unnamed-2023-06-12t124651881_20ee5217ffe7.png)
 
 Data Source: The Signal Ocean Platform- Seagoing Laden Speed
-[Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-reports-vesselSpeeds/2p1zfx/325063059?h=_5duIxsKNwwK3MyEfMxUtikrRYIFdcdR8OhRb9bfaUE)
+ [Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-reports-vesselSpeeds/2p1zfx/325063059?h=_5duIxsKNwwK3MyEfMxUtikrRYIFdcdR8OhRb9bfaUE)
 
 June has witnessed a persistently weaker sentiment in crude freight rates. Nevertheless, a noteworthy development has been the notable increase in seagoing-laden speed. Despite the ongoing challenges in supply and demand dynamics, the first half of the year has witnessed an upward trend in the seagoing-laden speed of Suezmax and Aframax tankers. Since the beginning of the year, both vessel types have experienced a remarkable surge in their seagoing-laden speed, reaching peak levels in the month of June (refer to the accompanying image for reference).
 

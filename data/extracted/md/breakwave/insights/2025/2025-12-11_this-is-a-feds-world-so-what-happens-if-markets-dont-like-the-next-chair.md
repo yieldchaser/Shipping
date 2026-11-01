@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/11/this-is-a-feds-world-so-what-happens-if-markets-dont-like-the-next-chair"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 1
-word_count: 1803
+word_count: 1804
 source_file: "corpus/03-breakwave/insights/2025/2025-12-11_this-is-a-feds-world-so-what-happens-if-markets-dont-like-the-next-chair.html"
 ---
 

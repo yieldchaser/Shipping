@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/28/wind-power-production-in-china-has-again-exceeded-hydropower-production"
 tags: ["China", "Shipping", "Markets"]
 images_count: 4
-word_count: 465
+word_count: 469
 source_file: "corpus/03-breakwave/insights/2025/2025-03-28_wind-power-production-in-china-has-again-exceeded-hydropower-production.html"
 ---
 

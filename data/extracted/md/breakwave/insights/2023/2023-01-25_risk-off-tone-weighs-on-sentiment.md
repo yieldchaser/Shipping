@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/1/25/risk-off-tone-weighs-on-sentiment"
 images_count: 1
-word_count: 570
+word_count: 571
 source_file: "corpus/03-breakwave/insights/2023/2023-01-25_risk-off-tone-weighs-on-sentiment.html"
 ---
 

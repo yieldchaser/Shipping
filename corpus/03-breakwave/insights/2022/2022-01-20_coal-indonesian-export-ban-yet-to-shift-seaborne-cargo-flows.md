@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/1/20/coal-indonesian-export-ban-yet-to-shift-seaborne-cargo-flows"
 tags: ["Coal", "Exports", "Globalmarket"]
 images_count: 5
-word_count: 1198
+word_count: 1203
 source_file: "corpus/03-breakwave/insights/2022/2022-01-20_coal-indonesian-export-ban-yet-to-shift-seaborne-cargo-flows.html"
 ---
 

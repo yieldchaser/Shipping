@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/3/24/signal-tanker-weekly-report"
 images_count: 10
-word_count: 1359
+word_count: 1369
 source_file: "corpus/03-breakwave/insights/2023/2023-03-24_signal-tanker-weekly-report.html"
 ---
 
@@ -32,7 +32,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-24_signal-tanker-weekly-
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-reports-vesselSpeeds/2nrrfb/308951187?h=nsVKyXtPOhFKdGqf1wf8uuL0wXygghrKTH87E2s_HF0) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-24_signal-tanker-weekly-report_img_unnamed-2023-03-24t120956729_1b6a554549a4.png)
 
 Data Source: The Signal Ocean Platform, Toncharts - Vessel Speeds
-[Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-reports-vesselSpeeds/2nrrfb/308951187?h=nsVKyXtPOhFKdGqf1wf8uuL0wXygghrKTH87E2s_HF0)
+ [Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-reports-vesselSpeeds/2nrrfb/308951187?h=nsVKyXtPOhFKdGqf1wf8uuL0wXygghrKTH87E2s_HF0)
 
 Euphoria appears to be unabated, particularly in the crude tanker segment, with demand growth at Suezmax and Aframax showing clear signs of firmness. Meanwhile, the first quarter upturn is intensely reflected in crude oil tanker seagoing ballast speed, with owners willing to run even higher ballast speeds to take advantage of profitable rate employment opportunities in the physical market. As the first quarter of the year draws to a close, crude oil tanker ballast speeds are now marking the highest level not only for this year but also for 2022 and 2021 in a similar time frame (see chart above).
 

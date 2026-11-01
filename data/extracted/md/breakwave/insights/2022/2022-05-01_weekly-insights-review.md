@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/5/1/weekly-insights-review"
 images_count: 7
-word_count: 1060
+word_count: 1067
 source_file: "corpus/03-breakwave/insights/2022/2022-05-01_weekly-insights-review.html"
 ---
 
@@ -78,7 +78,7 @@ The Supramaxes now receive a premium over all other sectors as several trades fo
 ## Some of the Most Discussed Macroeconomic Themes and Gauge Their Impact on the Shipping Industry
 
 The first quarter of the year comes with an overall upward trend in the number of vessels in waiting and operating status at worldwide ports. Although the last year seemed to be the year of record-high levels, we have seen even stronger figures each month in 2022
-[Read More](https://www.breakwaveadvisors.com/insights/2022/4/29/the-bigger-picture-shipping-in-the-next-decade)
+ [Read More](https://www.breakwaveadvisors.com/insights/2022/4/29/the-bigger-picture-shipping-in-the-next-decade)
 
 ![Friday2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-01_weekly-insights-review_img_friday2_3ad260470f87.jpg)
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/12/8/indonesia-remains-chinas-primary-source-of-imported-coal"
 tags: ["Coal", "Imports", "Indonesia", "China"]
 images_count: 4
-word_count: 569
+word_count: 573
 source_file: "corpus/03-breakwave/insights/2021/2021-12-08_indonesia-remains-chinas-primary-source-of-imported-coal.html"
 ---
 

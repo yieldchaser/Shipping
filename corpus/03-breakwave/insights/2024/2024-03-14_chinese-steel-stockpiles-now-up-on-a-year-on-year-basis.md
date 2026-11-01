@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/14/chinese-steel-stockpiles-now-up-on-a-year-on-year-basis"
 tags: ["China", "Drybulk", "Shipping"]
 images_count: 2
-word_count: 308
+word_count: 310
 source_file: "corpus/03-breakwave/insights/2024/2024-03-14_chinese-steel-stockpiles-now-up-on-a-year-on-year-basis.html"
 ---
 

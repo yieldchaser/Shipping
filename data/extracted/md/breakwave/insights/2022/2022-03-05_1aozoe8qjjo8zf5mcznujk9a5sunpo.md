@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/3/4/1aozoe8qjjo8zf5mcznujk9a5sunpo"
 tags: ["Tankers", "Freight", "Price"]
 images_count: 2
-word_count: 1755
+word_count: 1757
 source_file: "corpus/03-breakwave/insights/2022/2022-03-05_1aozoe8qjjo8zf5mcznujk9a5sunpo.html"
 ---
 

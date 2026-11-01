@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/26/chinas-coal-production-continues-to-fare-much-better-than-coal-derived-electricity-generation-hydropower-output-has-set-all-time-high"
 images_count: 3
-word_count: 413
+word_count: 416
 source_file: "corpus/03-breakwave/insights/2022/2022-07-26_chinas-coal-production-continues-to-fare-much-better-than-coal-derived-electrici.html"
 ---
 

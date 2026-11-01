@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/16/chinese-economy-spectacular-being-replaced-by-steady"
 tags: ["China", "Commodities", "Economy"]
 images_count: 2
-word_count: 1007
+word_count: 1009
 source_file: "corpus/03-breakwave/insights/2021/2021-07-16_chinese-economy-spectacular-being-replaced-by-steady.html"
 ---
 

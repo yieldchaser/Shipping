@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/22/commodity-prices-inflation-and-shipping-profits"
 tags: ["Commodities", "Dry Bulk"]
 images_count: 2
-word_count: 895
+word_count: 897
 source_file: "corpus/03-breakwave/insights/2021/2021-06-22_commodity-prices-inflation-and-shipping-profits.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-06-22_commodity-prices-infl
 
 *By Ulf Bergman*
 
-![Unsplash Image Rb7 Lca Diu](assets/2021-06-22_commodity-prices-inflation-and-shipping-profits_img_unsplash-image-rb7-lca-diu_37f0cb68cd79.jpg)
+![Unsplash Image Rb7 Lca Diu](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-22_commodity-prices-inflation-and-shipping-profits_img_unsplash-image-rb7-lca-diu_37f0cb68cd79.jpg)
 
 > **Figure 1: Unsplash Image Rb7 Lca Diu**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-22_commodity-prices-inflation-and-shipping-profits_img_unsplash-image-rb7-lca-diu_37f0cb68cd79.jpg)
@@ -35,7 +35,7 @@ The high commodity prices and their expected effect on inflationary pressures ha
 
 Following a sharp increase in US inflation rates, the Federal Reserve has changed to a more hawkish stance with interest rate hikes now on the distant horizon. While much of the continued inflationary pressures are expected to come from the US economy recovering faster and more forcefully than previously expected, the Fed’s chairman, Jerome Powell, has also singled out supply chain bottlenecks and rising prices for commodities, such as oil, as contributing factors. While the Fed sees the effects as transitory with the inflation rate returning to its longer-term target, other observers are less convinced and see the elevated inflation rates remaining in place. Such a scenario could force the Fed to adopt a more aggressive stance, but if such a development would materialise it is likely to be some way off into the future.
 
-![Ulf 1 6.22](assets/2021-06-22_commodity-prices-inflation-and-shipping-profits_img_ulf1622_7fbb6df313ba.png)
+![Ulf 1 6.22](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-22_commodity-prices-inflation-and-shipping-profits_img_ulf1622_7fbb6df313ba.png)
 
 > **Figure 2: Ulf 1 6.22**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-22_commodity-prices-inflation-and-shipping-profits_img_ulf1622_7fbb6df313ba.png)

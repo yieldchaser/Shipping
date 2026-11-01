@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/19/an-impressive-capesize-year-to-date-performance"
 tags: ["Drybulk", "Shipping"]
 images_count: 2
-word_count: 975
+word_count: 977
 source_file: "corpus/03-breakwave/insights/2024/2024-02-19_an-impressive-capesize-year-to-date-performance.html"
 ---
 

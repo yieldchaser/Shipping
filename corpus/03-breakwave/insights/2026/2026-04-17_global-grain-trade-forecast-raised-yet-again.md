@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/4/17/global-grain-trade-forecast-raised-yet-again"
 tags: ["Commodities", "Markets", "Economy"]
 images_count: 4
-word_count: 660
+word_count: 664
 source_file: "corpus/03-breakwave/insights/2026/2026-04-17_global-grain-trade-forecast-raised-yet-again.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/2/global-growth-and-dry-bulk-markets"
 tags: ["Economy", "Markets", "Shipping"]
 images_count: 1
-word_count: 1146
+word_count: 1147
 source_file: "corpus/03-breakwave/insights/2025/2025-08-02_global-growth-and-dry-bulk-markets.html"
 ---
 

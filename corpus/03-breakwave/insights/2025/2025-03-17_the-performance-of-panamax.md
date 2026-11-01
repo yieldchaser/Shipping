@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/17/the-performance-of-panamax"
 tags: ["Shipping", "Markets", "Drybulk"]
 images_count: 1
-word_count: 1004
+word_count: 1005
 source_file: "corpus/03-breakwave/insights/2025/2025-03-17_the-performance-of-panamax.html"
 ---
 

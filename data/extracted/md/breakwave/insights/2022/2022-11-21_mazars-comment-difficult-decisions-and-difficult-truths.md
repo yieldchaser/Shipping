@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/21/mazars-comment-difficult-decisions-and-difficult-truths"
 images_count: 6
-word_count: 1181
+word_count: 1187
 source_file: "corpus/03-breakwave/insights/2022/2022-11-21_mazars-comment-difficult-decisions-and-difficult-truths.html"
 ---
 

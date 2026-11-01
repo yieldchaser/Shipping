@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/3/copper-gains-amid-renewed-supply-side-issues"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 2
-word_count: 782
+word_count: 784
 source_file: "corpus/03-breakwave/insights/2025/2025-07-03_copper-gains-amid-renewed-supply-side-issues.html"
 ---
 

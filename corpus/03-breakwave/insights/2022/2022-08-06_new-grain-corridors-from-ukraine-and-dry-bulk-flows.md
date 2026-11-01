@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/5/new-grain-corridors-from-ukraine-and-dry-bulk-flows"
 tags: ["Grains", "Dry Bulk", "Freight Rates"]
 images_count: 4
-word_count: 1179
+word_count: 1183
 source_file: "corpus/03-breakwave/insights/2022/2022-08-06_new-grain-corridors-from-ukraine-and-dry-bulk-flows.html"
 ---
 

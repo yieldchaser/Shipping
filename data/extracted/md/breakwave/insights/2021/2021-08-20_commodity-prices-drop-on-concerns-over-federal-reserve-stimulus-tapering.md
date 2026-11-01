@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/20/commodity-prices-drop-on-concerns-over-federal-reserve-stimulus-tapering"
 tags: ["Shipping"]
 images_count: 3
-word_count: 1301
+word_count: 1304
 source_file: "corpus/03-breakwave/insights/2021/2021-08-20_commodity-prices-drop-on-concerns-over-federal-reserve-stimulus-tapering.html"
 ---
 
@@ -28,7 +28,7 @@ The increasingly mixed fortunes confronting the global economy are adding to the
 
 ### Chicago Board Options Exchange Volatility Index
 
-![A1](assets/2021-08-20_commodity-prices-drop-on-concerns-over-federal-reserve-stimulus-tapering_img_a1_c810d2d6d2bb.jpg)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-20_commodity-prices-drop-on-concerns-over-federal-reserve-stimulus-tapering_img_a1_c810d2d6d2bb.jpg)
 
 > **Figure 1: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-20_commodity-prices-drop-on-concerns-over-federal-reserve-stimulus-tapering_img_a1_c810d2d6d2bb.jpg)
@@ -39,14 +39,14 @@ It is not only iron ore that has seen large parts of the year-to-date gains eras
 
 ### Soybeans Us Cents per Bushel
 
-![A2](assets/2021-08-20_commodity-prices-drop-on-concerns-over-federal-reserve-stimulus-tapering_img_a2_6cc9faf50bac.png)
+![A2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-20_commodity-prices-drop-on-concerns-over-federal-reserve-stimulus-tapering_img_a2_6cc9faf50bac.png)
 
 > **Figure 2: A2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-20_commodity-prices-drop-on-concerns-over-federal-reserve-stimulus-tapering_img_a2_6cc9faf50bac.png)
 
 The Phase One trade deal, that was concluded between the US and China at the beginning of last year, has so far not been a runaway success. For imports of US manufactured goods and energy, China is lagging well behind the volumes implied by the agreement and the probability of meeting the targets for the year is looking increasingly slim. However, for agricultural commodities, there is a realistic chance that the import goals could be met. According to data from the Peterson Institute for International Economics, US exports of agricultural products were at 90 per cent of the target at the end of June. While the trade agreement is focusing on the value of exports rather than the volumes, the drop in prices for soybeans and other crops would give the Chinese buyers better value for money, but also increase the volumes shipped if they were to live up to their commitments under the deal. Based on the baseline levels of 2017, US agricultural exports to China can be expected to pick up during the second half of the year as the new harvest gets underway.
 
-![A3](assets/2021-08-20_commodity-prices-drop-on-concerns-over-federal-reserve-stimulus-tapering_img_a3_67872bbf5841.png)
+![A3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-20_commodity-prices-drop-on-concerns-over-federal-reserve-stimulus-tapering_img_a3_67872bbf5841.png)
 
 > **Figure 3: A3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-20_commodity-prices-drop-on-concerns-over-federal-reserve-stimulus-tapering_img_a3_67872bbf5841.png)

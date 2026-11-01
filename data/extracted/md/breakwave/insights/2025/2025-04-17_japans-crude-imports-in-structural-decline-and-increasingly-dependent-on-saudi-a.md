@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/17/japans-crude-imports-in-structural-decline-and-increasingly-dependent-on-saudi-arabia-uae"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 3
-word_count: 1106
+word_count: 1109
 source_file: "corpus/03-breakwave/insights/2025/2025-04-17_japans-crude-imports-in-structural-decline-and-increasingly-dependent-on-saudi-a.html"
 ---
 

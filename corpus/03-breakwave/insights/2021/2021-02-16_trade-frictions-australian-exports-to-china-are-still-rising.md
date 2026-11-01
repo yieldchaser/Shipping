@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/15/trade-frictions-australian-exports-to-china-are-still-rising"
 tags: ["China", "Wheat", "Coal"]
 images_count: 3
-word_count: 597
+word_count: 600
 source_file: "corpus/03-breakwave/insights/2021/2021-02-16_trade-frictions-australian-exports-to-china-are-still-rising.html"
 ---
 

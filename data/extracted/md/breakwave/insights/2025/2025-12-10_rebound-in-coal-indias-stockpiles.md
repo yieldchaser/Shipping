@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/10/rebound-in-coal-indias-stockpiles"
 tags: ["Coal", "Commodities", "Drybulk"]
 images_count: 3
-word_count: 315
+word_count: 318
 source_file: "corpus/03-breakwave/insights/2025/2025-12-10_rebound-in-coal-indias-stockpiles.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/20/recent-rebound-in-chinese-steel-production"
 tags: ["China", "Commodities", "Drybulk"]
 images_count: 2
-word_count: 345
+word_count: 347
 source_file: "corpus/03-breakwave/insights/2025/2025-10-20_recent-rebound-in-chinese-steel-production.html"
 ---
 

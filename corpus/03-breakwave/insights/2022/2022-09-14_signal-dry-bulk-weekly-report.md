@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/9/14/signal-dry-bulk-weekly-report"
 images_count: 3
-word_count: 851
+word_count: 854
 source_file: "corpus/03-breakwave/insights/2022/2022-09-14_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -34,10 +34,10 @@ In the coal segment, futures for Newcastle coal, the benchmark for the region wi
 
 The second week of September sees weaker sentiment in freight rates across all vessel categories, with an uptick in Panamax vessels.
 
-- **Capesize**freight rates from Brazil to North China fell to $18.7/tonne, down from over $20/tonne in mid-August.
-- **Panamax**freight rates fromtheContinent to the Far East rose to $38/tonne, up $3/tonne from week 35.
-- **Supramax**freight rates for the Indo-ECI route fell to $18/tonne, down nearly $3/tonne from the week 34 peak.
-- **Handysize**vessel freight rates from NOPAC to the Far East fell to $41.6/tonne, nearly $10/tonne below week 30 highs.
+- **Capesize** freight rates from Brazil to North China fell to $18.7/tonne, down from over $20/tonne in mid-August.
+- **Panamax** freight rates fromtheContinent to the Far East rose to $38/tonne, up $3/tonne from week 35.
+- **Supramax** freight rates for the Indo-ECI route fell to $18/tonne, down nearly $3/tonne from the week 34 peak.
+- **Handysize** vessel freight rates from NOPAC to the Far East fell to $41.6/tonne, nearly $10/tonne below week 30 highs.
 
 ## Section 2/ Supply -Ballasters (# Vessels) Increasing
 
@@ -50,10 +50,10 @@ The second week of September sees weaker sentiment in freight rates across all v
 
 The number of Capesize and Panamax vessels sailing ballast has fallen below the annual average, while the number of Handysize and Supramax vessels has increased significantly compared to previous weekly figures.
 
-- **Capesize**SE Africa: The number of vessels has decreased to 77, a 37% decrease from the peak in week 32.
-- **Panamax**SE Africa: The number of vessels is approaching 89, 18 less than the annual average.
-- **Supramax**SE Asia: The number of vessels rose to 116, an increase of 35% over the annual average.
-- **Handysize**NOPAC: The number of vessels reached 66, 10 more than the low in week 35.
+- **Capesize** SE Africa: The number of vessels has decreased to 77, a 37% decrease from the peak in week 32.
+- **Panamax** SE Africa: The number of vessels is approaching 89, 18 less than the annual average.
+- **Supramax** SE Asia: The number of vessels rose to 116, an increase of 35% over the annual average.
+- **Handysize** NOPAC: The number of vessels reached 66, 10 more than the low in week 35.
 
 ## Section 3/ Demand -TonDays Increasing
 

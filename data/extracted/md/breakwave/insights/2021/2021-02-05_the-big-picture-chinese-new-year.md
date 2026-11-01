@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/4/the-big-picture-chinese-new-year"
 tags: ["China"]
 images_count: 4
-word_count: 1336
+word_count: 1340
 source_file: "corpus/03-breakwave/insights/2021/2021-02-05_the-big-picture-chinese-new-year.html"
 ---
 
@@ -28,7 +28,7 @@ China’s Lunar New Year festivities begins next week, along with what is often 
 
 But the economic impact usually extends beyond the one-week holiday. Activity winds down in the weeks leading up to this period, and it can take a month before firms return to full capacity. The disruption tends to be greatest in the manufacturing and construction industries, which rely heavily on migrant labour, and operations at factories and construction sites, for example, have to be cut back until they return.
 
-![Pandemic of Course Changed This Dynamic](assets/2021-02-05_the-big-picture-chinese-new-year_img_bmr70_193cae8481da.png)
+![Pandemic of Course Changed This Dynamic](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-05_the-big-picture-chinese-new-year_img_bmr70_193cae8481da.png)
 
 > **Figure 1: Pandemic of Course Changed This Dynamic**  
 > *The Pandemic of course changed this dynamic. As China restricted travel around the same time as the holiday to curb the spread of the virus in 2020, many industries found themselves without workers, and those thatwereoperational were faced with severe supply-chain issues that throttled output. For example, steel output was not heavily impacted by labour shortages, but a build-up in steel product stockpiles that were unable to be trucked to manufacturers did weigh on margins, and push mills to curb production.*  
@@ -38,14 +38,14 @@ But the economic impact usually extends beyond the one-week holiday. Activity wi
 
 Given China’s dominance over dry bulk shipping demand, the market has come to expect a softening in rates around this time of the year. Chinese raw material imports accounted for about two thirds of Capesize demand in 2020, measured in terms of dwt employment from all voyages completed in the year. Last year also marked a sharp increase in this share versus previous years, as economic activity elsewhere in the world faltered. China also plays a linchpin role in the other bulker markets. Its share of demand in 2020 was around 40% for the Panamaxes, 30% for Supramaxes, and 20% for Handies.
 
-![Bmr 71](assets/2021-02-05_the-big-picture-chinese-new-year_img_bmr71_24d8e7562a11.png)
+![Bmr 71](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-05_the-big-picture-chinese-new-year_img_bmr71_24d8e7562a11.png)
 
 > **Figure 2: Bmr 71**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-05_the-big-picture-chinese-new-year_img_bmr71_24d8e7562a11.png)
 
 With this country being so crucial to Cape demand, it seems logical to assume that the slowdown in industrial activity during the holiday period would create a lull in rates, followed by a U-shaped rebound. But looking at previous years, this effect does not seem too impressive.
 
-![Bmr 73](assets/2021-02-05_the-big-picture-chinese-new-year_img_bmr73_19ab72a990b2.png)
+![Bmr 73](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-05_the-big-picture-chinese-new-year_img_bmr73_19ab72a990b2.png)
 
 > **Figure 3: Bmr 73**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-05_the-big-picture-chinese-new-year_img_bmr73_19ab72a990b2.png)
@@ -58,7 +58,7 @@ There are likely many reasons behind this feature, but one could be that the pre
 
 These factors could however also explain why the Panamax market exhibits the pattern a little better, though the ‘U-shape’ is still fairly muted. Over the month leading up to CNY, Panamax rates typically fall by an average of $1,400/day, and in the month after the start of the holiday, they rise by an average of $1,600/day.
 
-![In Response to a Recent Flare-Up in COVID-19 Cases (the Worst](assets/2021-02-05_the-big-picture-chinese-new-year_img_bmr72_abc399a05e94.png)
+![In Response to a Recent Flare-Up in COVID-19 Cases (the Worst](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-05_the-big-picture-chinese-new-year_img_bmr72_abc399a05e94.png)
 
 > **Figure 4: In Response to a Recent Flare-Up in COVID-19 Cases (the Worst**  
 > *In response to a recent flare-up in Covid-19 cases (the worst since last year’s first wave), new restrictions on travel have been introduced in China. Authorities are keen to avoid a repeat of last year’s disruption, and are discouraging unnecessary travel during the holiday. The government estimates that movement will be 40% lower than normal levels over this period, which will continue to weigh on industries like travel and tourism, but it should also insulate areas like manufacturing and construction. Indeed, about a week ahead of this year’s New Year break,Baidu’sindex of national migration shows travel is down by around 57% versus 2019.*  

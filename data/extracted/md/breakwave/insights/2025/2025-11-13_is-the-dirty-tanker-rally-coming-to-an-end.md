@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/13/is-the-dirty-tanker-rally-coming-to-an-end"
 tags: ["Tankers", "Markets", "Shipping"]
 images_count: 2
-word_count: 843
+word_count: 845
 source_file: "corpus/03-breakwave/insights/2025/2025-11-13_is-the-dirty-tanker-rally-coming-to-an-end.html"
 ---
 

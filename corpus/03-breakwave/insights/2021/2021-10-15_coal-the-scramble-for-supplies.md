@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/15/coal-the-scramble-for-supplies"
 tags: ["Economy", "Energycrisis", "Coal"]
 images_count: 5
-word_count: 1049
+word_count: 1054
 source_file: "corpus/03-breakwave/insights/2021/2021-10-15_coal-the-scramble-for-supplies.html"
 ---
 

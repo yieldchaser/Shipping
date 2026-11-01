@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/8/tanker-tailor-soldier-sailor"
 images_count: 3
-word_count: 1307
+word_count: 1310
 source_file: "corpus/03-breakwave/insights/2022/2022-07-09_tanker-tailor-soldier-sailor.html"
 ---
 

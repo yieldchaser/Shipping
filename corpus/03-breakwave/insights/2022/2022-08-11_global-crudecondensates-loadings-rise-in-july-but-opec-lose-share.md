@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/11/global-crudecondensates-loadings-rise-in-july-but-opec-lose-share"
 tags: ["Tankers", "Crude Oil", "Commodities"]
 images_count: 2
-word_count: 778
+word_count: 780
 source_file: "corpus/03-breakwave/insights/2022/2022-08-11_global-crudecondensates-loadings-rise-in-july-but-opec-lose-share.html"
 ---
 

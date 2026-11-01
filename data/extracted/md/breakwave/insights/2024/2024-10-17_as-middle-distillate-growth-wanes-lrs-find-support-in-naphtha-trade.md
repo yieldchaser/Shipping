@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/17/as-middle-distillate-growth-wanes-lrs-find-support-in-naphtha-trade"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 4
-word_count: 1295
+word_count: 1299
 source_file: "corpus/03-breakwave/insights/2024/2024-10-17_as-middle-distillate-growth-wanes-lrs-find-support-in-naphtha-trade.html"
 ---
 

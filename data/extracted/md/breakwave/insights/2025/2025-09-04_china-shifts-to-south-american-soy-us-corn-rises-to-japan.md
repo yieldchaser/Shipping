@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/4/china-shifts-to-south-american-soy-us-corn-rises-to-japan"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 13
-word_count: 1841
+word_count: 1854
 source_file: "corpus/03-breakwave/insights/2025/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/26/global-soybean-exports"
 tags: ["Soybeans", "Drybulk", "Grains"]
 images_count: 2
-word_count: 914
+word_count: 916
 source_file: "corpus/03-breakwave/insights/2024/2024-02-26_global-soybean-exports.html"
 ---
 

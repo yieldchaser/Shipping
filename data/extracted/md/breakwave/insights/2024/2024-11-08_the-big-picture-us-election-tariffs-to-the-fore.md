@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/8/the-big-picture-us-election-tariffs-to-the-fore"
 tags: ["Drybulk", "Markets", "Commodities"]
 images_count: 3
-word_count: 925
+word_count: 928
 source_file: "corpus/03-breakwave/insights/2024/2024-11-08_the-big-picture-us-election-tariffs-to-the-fore.html"
 ---
 
@@ -28,7 +28,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-11-08_the-big-picture-us-el
 
 ### Us Tariffs: The Example of 2018
 
-The first round of import tariffs (25% on steel and 10% on aluminium) in March 2018, eventually ruled illegal by the World Trade Organisation (WTO) in 2022, had a profound effect on**US steel imports, which dropped from 35.3m tonnes in 2017 to 20.1m tonnes by 2020**(see chart below).
+The first round of import tariffs (25% on steel and 10% on aluminium) in March 2018, eventually ruled illegal by the World Trade Organisation (WTO) in 2022, had a profound effect on **US steel imports, which dropped from 35.3m tonnes in 2017 to 20.1m tonnes by 2020**(see chart below).
 
 ![As Indicated in Our360 Degreesof 29 October](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-08_the-big-picture-us-election-tariffs-to-the-fore_img_image0_705d163f817c.png)
 

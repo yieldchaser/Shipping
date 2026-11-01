@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/25/the-capesize-index-damn-if-you-do-damn-id-you-dont"
 images_count: 2
-word_count: 1592
+word_count: 1594
 source_file: "corpus/03-breakwave/insights/2021/2021-01-26_the-capesize-index-damn-if-you-do-damn-id-you-dont.html"
 ---
 
@@ -19,7 +19,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-01-26_the-capesize-index-da
 
 ---
 
-![25% Represents the Daily Roundtrip Earnings for Ships in The](assets/2021-01-26_the-capesize-index-damn-if-you-do-damn-id-you-dont_img_ship18_12cd82abb0df.jpg)
+![25% Represents the Daily Roundtrip Earnings for Ships in The](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-26_the-capesize-index-damn-if-you-do-damn-id-you-dont_img_ship18_12cd82abb0df.jpg)
 
 > **Figure 1: 25% Represents the Daily Roundtrip Earnings for Ships in The**  
 > *25% represents the daily roundtrip earnings for ships in the Australia to China route*  
@@ -53,7 +53,7 @@ A great example is what is currently happening in the Capesize market. The curre
 
 ### Atlantic Roundtrip Rates Minus the 5tc Average
 
-![Atl 5tc](assets/2021-01-26_the-capesize-index-damn-if-you-do-damn-id-you-dont_img_atl-5tc_602f5db2a0cf.jpg)
+![Atl 5tc](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-26_the-capesize-index-damn-if-you-do-damn-id-you-dont_img_atl-5tc_602f5db2a0cf.jpg)
 
 > **Figure 2: Atl 5tc**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-26_the-capesize-index-damn-if-you-do-damn-id-you-dont_img_atl-5tc_602f5db2a0cf.jpg)

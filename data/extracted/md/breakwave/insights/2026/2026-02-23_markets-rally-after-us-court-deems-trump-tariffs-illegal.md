@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/23/markets-rally-after-us-court-deems-trump-tariffs-illegal"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 2
-word_count: 853
+word_count: 855
 source_file: "corpus/03-breakwave/insights/2026/2026-02-23_markets-rally-after-us-court-deems-trump-tariffs-illegal.html"
 ---
 

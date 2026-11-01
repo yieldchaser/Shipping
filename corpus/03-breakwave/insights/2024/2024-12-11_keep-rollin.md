@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/12/11/keep-rollin"
 tags: ["Tankers", "Shipping", "Crude"]
 images_count: 2
-word_count: 597
+word_count: 599
 source_file: "corpus/03-breakwave/insights/2024/2024-12-11_keep-rollin.html"
 ---
 

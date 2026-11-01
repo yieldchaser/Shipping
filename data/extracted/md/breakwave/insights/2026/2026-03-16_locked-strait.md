@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/16/locked-strait"
 tags: ["Crude", "Markets", "Shipping"]
 images_count: 2
-word_count: 1036
+word_count: 1038
 source_file: "corpus/03-breakwave/insights/2026/2026-03-16_locked-strait.html"
 ---
 

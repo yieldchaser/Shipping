@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/26/opkxxsvz4942ihmm856nho7nv2uqn3"
 tags: ["Drybulk", "China", "Iron Ore"]
 images_count: 3
-word_count: 674
+word_count: 677
 source_file: "corpus/03-breakwave/insights/2024/2024-07-26_opkxxsvz4942ihmm856nho7nv2uqn3.html"
 ---
 

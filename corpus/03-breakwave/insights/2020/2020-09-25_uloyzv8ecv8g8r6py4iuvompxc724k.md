@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/9/25/uloyzv8ecv8g8r6py4iuvompxc724k"
 tags: ["Shipping", "Capesize", "Panamax", "Supramax"]
 images_count: 5
-word_count: 1060
+word_count: 1065
 source_file: "corpus/03-breakwave/insights/2020/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k.html"
 ---
 

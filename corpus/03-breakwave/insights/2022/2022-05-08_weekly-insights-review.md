@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/5/6/weekly-insights-review"
 images_count: 7
-word_count: 870
+word_count: 877
 source_file: "corpus/03-breakwave/insights/2022/2022-05-08_weekly-insights-review.html"
 ---
 
@@ -97,7 +97,7 @@ A gloomy economic backdrop weighed on sentiment across markets. But supply side 
 ## Who Will Be the Winners and Losers in This Race?
 
 As China battles against its latest Covid outbreak, holding firm to its zero-Covid policy, domestic refiners are forced to dial back on refinery runs as domestic consumption and margins plunge
-[Read More](https://www.breakwaveadvisors.com/insights/2022/5/6/chinas-slowing-crude-appetite-winners-and-losers)
+ [Read More](https://www.breakwaveadvisors.com/insights/2022/5/6/chinas-slowing-crude-appetite-winners-and-losers)
 
 ![Unsplash Image Q36bvlgdoag](assets/2022-05-08_weekly-insights-review_img_unsplash-image-q36bvlgdoag_c6a68e631508.jpg)
 

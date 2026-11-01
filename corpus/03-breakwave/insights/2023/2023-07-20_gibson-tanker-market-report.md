@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/7/20/gibson-tanker-market-report"
 tags: ["Shipping", "Tankers", "Argentina"]
 images_count: 1
-word_count: 512
+word_count: 513
 source_file: "corpus/03-breakwave/insights/2023/2023-07-20_gibson-tanker-market-report.html"
 ---
 

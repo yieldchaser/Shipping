@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/13/tanker-fleet-growth"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 1
-word_count: 734
+word_count: 735
 source_file: "corpus/03-breakwave/insights/2026/2026-10-13_tanker-fleet-growth.html"
 ---
 

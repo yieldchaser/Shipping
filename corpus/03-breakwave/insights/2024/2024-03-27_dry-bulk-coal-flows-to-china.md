@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/27/dry-bulk-coal-flows-to-china"
 tags: ["Drybulk", "Shipping", "Freightrates"]
 images_count: 5
-word_count: 1254
+word_count: 1259
 source_file: "corpus/03-breakwave/insights/2024/2024-03-27_dry-bulk-coal-flows-to-china.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-27_dry-bulk-coal-flows-t
 ---
 
 **Dry Weekly Market Monitor - Week 13.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 March 27, 2024
 
 ![Screenshot 2024 03 27 16.11.23](assets/2024-03-27_dry-bulk-coal-flows-to-china_img_screenshot2024-03-27161123_fedf2352f79d.png)
@@ -40,10 +40,10 @@ Examining the dry bulk coal flows to China reveals intriguing trends. Russia app
 
 ​​​​​​As March draws to a close, the freight market presents a mixed outlook. Sentiment in Capesize Brazil to North China rates has once again experienced a downward revision, contrasting with the steadfastness seen in Panamax Cont Far East rates, which remain firm compared to the previous week.
 
-- **Capesize**vessel freight rates for shipments from Brazil to North China dipped to $28 per ton, marking an 8% weekly decrease. Despite this decline, the current rates reflect a significant 37% increase compared to those observed during a comparable week a year ago.
-- **Panamax**vessel freight rates from the Continent to the Far East have maintained their peak, exceeding $50 per ton, signalling a robust rebound in the market. Recent levels indicate a 22% annual increase, painting a promising picture as we approach the end of the first quarter.
-- **Supramax**vessel freight rates on the Indo-ECI route have maintained a steady trend around $14 per ton since mid-March, marking a 16% increase compared to a comparable week from a month ago.
-- **Handysize**freight rates for the NOPAC Far East route have stayed above $40 per ton for the third consecutive week, reflecting an 8% increase compared to rates recorded during a similar week last year.
+- **Capesize** vessel freight rates for shipments from Brazil to North China dipped to $28 per ton, marking an 8% weekly decrease. Despite this decline, the current rates reflect a significant 37% increase compared to those observed during a comparable week a year ago.
+- **Panamax** vessel freight rates from the Continent to the Far East have maintained their peak, exceeding $50 per ton, signalling a robust rebound in the market. Recent levels indicate a 22% annual increase, painting a promising picture as we approach the end of the first quarter.
+- **Supramax** vessel freight rates on the Indo-ECI route have maintained a steady trend around $14 per ton since mid-March, marking a 16% increase compared to a comparable week from a month ago.
+- **Handysize** freight rates for the NOPAC Far East route have stayed above $40 per ton for the third consecutive week, reflecting an 8% increase compared to rates recorded during a similar week last year.
 
 ![Screenshot 2024 03 27 16.11.35](assets/2024-03-27_dry-bulk-coal-flows-to-china_img_screenshot2024-03-27161135_1a72bf724529.png)
 

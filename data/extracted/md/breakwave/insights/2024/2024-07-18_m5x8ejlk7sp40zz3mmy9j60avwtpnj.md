@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/18/m5x8ejlk7sp40zz3mmy9j60avwtpnj"
 tags: ["Shipping", "Crude Oil", "Tankers"]
 images_count: 5
-word_count: 1307
+word_count: 1312
 source_file: "corpus/03-breakwave/insights/2024/2024-07-18_m5x8ejlk7sp40zz3mmy9j60avwtpnj.html"
 ---
 

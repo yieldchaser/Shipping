@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/1/5/the-fix-global-market-update-from-shipfix"
 images_count: 1
-word_count: 1511
+word_count: 1512
 source_file: "corpus/03-breakwave/insights/2024/2024-01-05_the-fix-global-market-update-from-shipfix.html"
 ---
 

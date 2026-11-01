@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/12/commodity-markets-are-strategic-arenas"
 tags: ["Economy", "Markets", "Shipping"]
 images_count: 2
-word_count: 1199
+word_count: 1201
 source_file: "corpus/03-breakwave/insights/2025/2025-05-12_commodity-markets-are-strategic-arenas.html"
 ---
 

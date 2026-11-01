@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/8/capesPacvsAtl"
 tags: ["Capesize", "Australia", "China", "Brazil"]
 images_count: 3
-word_count: 996
+word_count: 999
 source_file: "corpus/03-breakwave/insights/2021/2021-08-10_capespacvsatl.html"
 ---
 

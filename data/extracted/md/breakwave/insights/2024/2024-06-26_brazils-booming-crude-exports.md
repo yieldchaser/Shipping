@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/26/brazils-booming-crude-exports"
 tags: ["Tankers", "Crude", "Shipping"]
 images_count: 1
-word_count: 303
+word_count: 304
 source_file: "corpus/03-breakwave/insights/2024/2024-06-26_brazils-booming-crude-exports.html"
 ---
 

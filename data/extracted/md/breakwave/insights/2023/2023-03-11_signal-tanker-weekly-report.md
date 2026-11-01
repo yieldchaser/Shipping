@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/3/10/signal-tanker-weekly-report"
 images_count: 9
-word_count: 1226
+word_count: 1235
 source_file: "corpus/03-breakwave/insights/2023/2023-03-11_signal-tanker-weekly-report.html"
 ---
 
@@ -25,8 +25,8 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-11_signal-tanker-weekly-
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-reports-toncharts-trade/2nq6bx/306623343?h=peUdQrUawvxIYaF--sijeEvPracsW6atxQ4ADWeuSJQ) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t175700958_9aa03037365f.png)
 
 Data Source: The Signal Ocean Platform, Toncharts - Demand
-[Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-reports-toncharts-trade/2nq6bx/306623343?h=peUdQrUawvxIYaF--sijeEvPracsW6atxQ4ADWeuSJQ)
-[Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-reports-vesselSpeeds/2nq6c4/306623343?h=peUdQrUawvxIYaF--sijeEvPracsW6atxQ4ADWeuSJQ)
+ [Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-reports-toncharts-trade/2nq6bx/306623343?h=peUdQrUawvxIYaF--sijeEvPracsW6atxQ4ADWeuSJQ)
+ [Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-reports-vesselSpeeds/2nq6c4/306623343?h=peUdQrUawvxIYaF--sijeEvPracsW6atxQ4ADWeuSJQ)
 
 The second week of March confirmed stronger momentum in VLCC rates, with demand growth paving the way for further optimism as supply also follows a declining trend.
 

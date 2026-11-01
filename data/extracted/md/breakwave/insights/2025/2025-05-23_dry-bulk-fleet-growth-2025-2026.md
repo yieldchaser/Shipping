@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/23/dry-bulk-fleet-growth-2025-2026"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 5
-word_count: 1208
+word_count: 1213
 source_file: "corpus/03-breakwave/insights/2025/2025-05-23_dry-bulk-fleet-growth-2025-2026.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-05-23_dry-bulk-fleet-growth
 ---
 
 **Dry Weekly Market Monitor - Week 21, 2025**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 May 22, 2025
 
 ![Στιγμιότυπο Οθόνης 2025 05 23 110855](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-23_dry-bulk-fleet-growth-2025-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c161033b6b57.png)

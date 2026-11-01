@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/28/light-sweet-crudes-showing-signs-of-recovery"
 tags: ["Tankers", "Markets", "Crude"]
 images_count: 3
-word_count: 762
+word_count: 765
 source_file: "corpus/03-breakwave/insights/2024/2024-08-28_light-sweet-crudes-showing-signs-of-recovery.html"
 ---
 

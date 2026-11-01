@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/23/change-of-us-stance-on-shipping-emissions-likely-to-maintain-thin-dry-bulk-newbuild-order-books"
 images_count: 2
-word_count: 819
+word_count: 821
 source_file: "corpus/03-breakwave/insights/2021/2021-04-23_change-of-us-stance-on-shipping-emissions-likely-to-maintain-thin-dry-bulk-newbu.html"
 ---
 

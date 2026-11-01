@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/29/chinas-consumer-sector-reaches-breaking-point"
 tags: ["China", "Economy", "Markets"]
 images_count: 3
-word_count: 268
+word_count: 271
 source_file: "corpus/03-breakwave/insights/2026/2026-05-29_chinas-consumer-sector-reaches-breaking-point.html"
 ---
 

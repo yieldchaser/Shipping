@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/7/z1m5fi0p0bpmi2etcyebwf28932cdt"
 tags: ["Dry Bulk", "Capesize", "Panamax"]
 images_count: 2
-word_count: 967
+word_count: 969
 source_file: "corpus/03-breakwave/insights/2021/2021-04-07_z1m5fi0p0bpmi2etcyebwf28932cdt.html"
 ---
 
@@ -20,13 +20,13 @@ source_file: "corpus/03-breakwave/insights/2021/2021-04-07_z1m5fi0p0bpmi2etcyebw
 
 ---
 
-![Rising Demand for Everything From Soybeans to Steel Has Sent The](assets/2021-04-07_z1m5fi0p0bpmi2etcyebwf28932cdt_img_evergreen_a820226c791f.jpg)
+![Rising Demand for Everything From Soybeans to Steel Has Sent The](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-07_z1m5fi0p0bpmi2etcyebwf28932cdt_img_evergreen_a820226c791f.jpg)
 
 > **Figure 1: Rising Demand for Everything From Soybeans to Steel Has Sent The**  
 > *Rising demand for everything from soybeans to steel has sent the cost of hauling dry goods soaring more than 50% this year. Manufacturing, which first picked up in China, is now accelerating elsewhere, and countries are stepping up commodity purchases to rebuild stockpiles after running them down during lockdowns that slowed port operations and hit economic activity globally.*  
 > **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/2021_Suez_Canal_obstruction) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-07_z1m5fi0p0bpmi2etcyebwf28932cdt_img_evergreen_a820226c791f.jpg)
 
-Once again, shipping is capturing the attention of the broader media, as rates for both dry bulk and containers have surged in recent months and now is showing up on the price of goods across the globe. The[Suez Canal incident](https://en.wikipedia.org/wiki/2021_Suez_Canal_obstruction)also added fuel to the fire and brought the shipping market in the frontpage of newspapers globally, although the actual impact ended up minimal given the nature of the disruption, as we have also highlighted in the past few weeks.
+Once again, shipping is capturing the attention of the broader media, as rates for both dry bulk and containers have surged in recent months and now is showing up on the price of goods across the globe. The [Suez Canal incident](https://en.wikipedia.org/wiki/2021_Suez_Canal_obstruction) also added fuel to the fire and brought the shipping market in the frontpage of newspapers globally, although the actual impact ended up minimal given the nature of the disruption, as we have also highlighted in the past few weeks.
 
 Bloomberg is out with an article this morning, underscoring all the above and setting the facts straight, while in addition painting a bullish picture for dry bulk for the rest of the year.
 
@@ -40,7 +40,7 @@ For dry bulk, the recent surge on the sub-cape segments is a great example of su
 
 ### Spot Capesize and Panamax Rates, February 1 to Present
 
-![All of That Is Happening Just As the Fleet of Bulk Ships Isn’t](assets/2021-04-07_z1m5fi0p0bpmi2etcyebwf28932cdt_img_c26p_911ecc515cde.jpg)
+![All of That Is Happening Just As the Fleet of Bulk Ships Isn’t](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-07_z1m5fi0p0bpmi2etcyebwf28932cdt_img_c26p_911ecc515cde.jpg)
 
 > **Figure 2: All of That Is Happening Just As the Fleet of Bulk Ships Isn’t**  
 > *All of that is happening just as the fleet of bulk ships isn’t expected to grow, with very few orders on the books. President Joe Biden’s economic stimulus and infrastructure packages also bode well for commodity demand and therefore freight rates. “We are quite positive for this year and next year,” said Lars-Christian Svensen, chief commercial officer at Golden Ocean Group Ltd. “Dry commodities have been a bit dormant for the past few years, but they’re taking off at the moment.”*  
@@ -52,7 +52,7 @@ Such optimism is also reflected in the futures curve, with all sizes pointing to
 
 We expect another major push in Capesize rates later in the year, but for now, a slow and stable market is the most likely scenario. For the sub-cape segments, spot rates should continue to drift lower, but this is already priced in the futures curve given the considerable backwardation. The risk/reward is still tilted towards higher rates and the macro environment remains quite supportive for dry bulk shipping (see commodities demand, global stimulus, economic recovery).
 
-As[Bloomberg concludes](https://www.bloombergquint.com/business/commodity-shipping-rates-are-surging-and-the-rally-isn-t-over):
+As [Bloomberg concludes](https://www.bloombergquint.com/business/commodity-shipping-rates-are-surging-and-the-rally-isn-t-over):
 
 Dry bulk is entering the second quarter with increased optimism, a relatively high price level and lots of tailwinds coming from the global economy. The dry bulk recovery is underway, with its always expected ups and downs, and opportunities for investors and traders should be ample for the months to come.
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/6/import-loss-stock-build-how-china-absorbs-the-hormuz-shock"
 tags: ["China", "Crude", "Markets"]
 images_count: 4
-word_count: 1897
+word_count: 1901
 source_file: "corpus/03-breakwave/insights/2026/2026-05-06_import-loss-stock-build-how-china-absorbs-the-hormuz-shock.html"
 ---
 
@@ -96,7 +96,7 @@ The key point is that waivers are not increasing supply—they are redistributin
 
 Russian barrels, freed up by waivers, are now being absorbed by a broader group of Asian buyers. This has reduced availability for Shandong teapots, which remain sensitive to price and are generally reluctant to pay the premiums attached to waiver-eligible cargoes. Even so, China still imported over 1.4mbd of seaborne Russian crude in April, only slightly below India’s 1.6mbd.
 
-Iranian barrels, by contrast, remain largely within the Chinese system, particularly among teapot refiners. Imports held above 1.6mbd in April, easing from March’s peak as refiners showed limited urgency to absorb the sizable volumes[already on the water](https://analytics.vortexa.com/Flows?dateRange=2025-01-01T00%3A00%3A00.000Z__2026-05-05T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra_d%22%2C%22sts_o%22%2C%22c_o%22%2C%22w%22%2C%22sts%22%5D&frequency=day&from=%5B%22d308ddc557e774187ad6c7da81b39db990def9a39e6c88e79cb163b6bdd6e8e5%22%5D&metric=bpd&movementEvent=cargo_on_water_state&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&sortDirection=asc&sortField=vessel_name&tabId=1406e560-9add-4669-b558-663db2e441f7&timeSeriesBaselineEnd=2025-12-31T23%3A59%3A59.999Z&timeSeriesBaselineStart=2025-01-01T00%3A00%3A00.000Z&timeSeriesChartView=seasonal&timeSeriesProperty=destination_country&tsAnalysisTotalToggle=1&v=3&vesselClassChartView=count).
+Iranian barrels, by contrast, remain largely within the Chinese system, particularly among teapot refiners. Imports held above 1.6mbd in April, easing from March’s peak as refiners showed limited urgency to absorb the sizable volumes [already on the water](https://analytics.vortexa.com/Flows?dateRange=2025-01-01T00%3A00%3A00.000Z__2026-05-05T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra_d%22%2C%22sts_o%22%2C%22c_o%22%2C%22w%22%2C%22sts%22%5D&frequency=day&from=%5B%22d308ddc557e774187ad6c7da81b39db990def9a39e6c88e79cb163b6bdd6e8e5%22%5D&metric=bpd&movementEvent=cargo_on_water_state&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&sortDirection=asc&sortField=vessel_name&tabId=1406e560-9add-4669-b558-663db2e441f7&timeSeriesBaselineEnd=2025-12-31T23%3A59%3A59.999Z&timeSeriesBaselineStart=2025-01-01T00%3A00%3A00.000Z&timeSeriesChartView=seasonal&timeSeriesProperty=destination_country&tsAnalysisTotalToggle=1&v=3&vesselClassChartView=count).
 
 That said, China’s demand for high-risk crude is unlikely to weaken materially. Iranian imports are expected to remain above the 1.3–1.4mbd range seen on average in 2025, as designated refiners continue to process sanctioned barrels rather than reduce utilisation. Near-term imports may soften somewhat, reflecting seasonally weaker domestic fuel demand ahead of the autumn peak.
 

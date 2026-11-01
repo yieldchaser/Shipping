@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/7/signal-weekly-dry-market-monitor"
 tags: ["Drybulk", "Shipping", "Freightrates"]
 images_count: 5
-word_count: 1212
+word_count: 1217
 source_file: "corpus/03-breakwave/insights/2024/2024-02-07_signal-weekly-dry-market-monitor.html"
 ---
 
@@ -40,10 +40,10 @@ Freight Market, Supply, Demand and Port Congestion
 
 Despite the positive start observed in the second week of February in the Baltic Capesize Index, the Brazil to North China rates have not yet reached their peak. However, rates have maintained a firmer stability, consistently hovering around or above $20 per tonne.
 
-- **Capesize**vessel freight rates from Brazil to North China have almost reached $20 per ton, signalling a modest weekly increase. Moreover, there appears to be a significant 36% surge from the levels observed at the same time last year.
-- **Panamax**vessel freight rates from the Continent to the Far East have remained steady at around $40 per tonne for the past four weeks. Notably, current rates are 10% higher compared to the same week a year ago.
-- **Supramax**vessel freight rates on the Indo-ECI route have maintained a sentiment around $11 per tonne, reflecting a momentum similar to that of a year ago.
-- **Handysize**freight rates for the NOPAC Far East route have remained stable, holding steady at around $29 per tonne since mid-January. However, there are indications of a potential soft downward revision in the near future.
+- **Capesize** vessel freight rates from Brazil to North China have almost reached $20 per ton, signalling a modest weekly increase. Moreover, there appears to be a significant 36% surge from the levels observed at the same time last year.
+- **Panamax** vessel freight rates from the Continent to the Far East have remained steady at around $40 per tonne for the past four weeks. Notably, current rates are 10% higher compared to the same week a year ago.
+- **Supramax** vessel freight rates on the Indo-ECI route have maintained a sentiment around $11 per tonne, reflecting a momentum similar to that of a year ago.
+- **Handysize** freight rates for the NOPAC Far East route have remained stable, holding steady at around $29 per tonne since mid-January. However, there are indications of a potential soft downward revision in the near future.
 
 ![Screenshot 2024 02 07 18.10.57](assets/2024-02-07_signal-weekly-dry-market-monitor_img_screenshot2024-02-07181057_675ef771c9c0.png)
 
@@ -52,7 +52,7 @@ Despite the positive start observed in the second week of February in the Baltic
 
 The trend in terms of the number of ballast ships has seen an accelerated pace particularly for Capesize and Panamax vessels in Southeast Africa. Recent levels have consistently surpassed the annual average for more than three weeks in a row, indicating a sustained increase in ballast ship activity in the region.
 
-- **Capesize SE****Africa**: The number of ballast ships reached its peak in the first days of February, hitting 118 vessels, which is approximately 20 vessels more than the annual average. Such levels had not been observed since week 29 of the previous year.
+- **Capesize SE** **Africa**: The number of ballast ships reached its peak in the first days of February, hitting 118 vessels, which is approximately 20 vessels more than the annual average. Such levels had not been observed since week 29 of the previous year.
 - **Panamax SE Africa**: The number of ballast ships surged to 190 in the second week of February, marking an increase of almost 16 from the previous week. This figure represents the highest count observed in the past year.
 - **Supramax SE Asia**: The number of ballast ships is on the verge of surpassing the annual average of 100, with the last recorded low at the end of the year hovering around 93.
 - **Handysize NOPAC**: The count of ballast ships increased to 90, marking a rise of nearly 5 compared to the previous week. February's trend is now showing an uptick, following almost steady activity in the preceding two weeks.

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/6/strait-of-hormuz-from-vital-energy-chokepoint-to-pressure-point"
 tags: ["Crude", "Shipping", "Tankers"]
 images_count: 4
-word_count: 1126
+word_count: 1130
 source_file: "corpus/03-breakwave/insights/2026/2026-03-06_strait-of-hormuz-from-vital-energy-chokepoint-to-pressure-point.html"
 ---
 

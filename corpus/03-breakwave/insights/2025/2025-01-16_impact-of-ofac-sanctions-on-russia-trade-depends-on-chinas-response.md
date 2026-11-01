@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/16/impact-of-ofac-sanctions-on-russia-trade-depends-on-chinas-response"
 tags: ["Crude", "Markets", "Shipping"]
 images_count: 4
-word_count: 1318
+word_count: 1322
 source_file: "corpus/03-breakwave/insights/2025/2025-01-16_impact-of-ofac-sanctions-on-russia-trade-depends-on-chinas-response.html"
 ---
 

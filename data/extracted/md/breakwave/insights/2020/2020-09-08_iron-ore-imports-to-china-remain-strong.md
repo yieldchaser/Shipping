@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/9/8/iron-ore-imports-to-china-remain-strong"
 tags: ["Shipping", "Dry Bulk", "Capesize", "China"]
 images_count: 4
-word_count: 600
+word_count: 604
 source_file: "corpus/03-breakwave/insights/2020/2020-09-08_iron-ore-imports-to-china-remain-strong.html"
 ---
 

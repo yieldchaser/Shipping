@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/11/dry-bulk-coal-flows"
 tags: ["Drybulk", "Capesize", "Shipping"]
 images_count: 5
-word_count: 1384
+word_count: 1389
 source_file: "corpus/03-breakwave/insights/2024/2024-10-11_dry-bulk-coal-flows.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-10-11_dry-bulk-coal-flows.h
 ---
 
 **Dry Weekly Market Monitor - Week 41.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 October 11, 2024
 
 ## Chart of the Week: Dry Bulk Coal Flows - Southeast Asian Countries

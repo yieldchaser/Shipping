@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/13/is-chinas-steel-industry-a-bubble-about-to-pop"
 tags: ["Shipping", "Dry Bulk", "Steel", "China"]
 images_count: 4
-word_count: 1231
+word_count: 1235
 source_file: "corpus/03-breakwave/insights/2020/2020-10-14_is-chinas-steel-industry-a-bubble-about-to-pop.html"
 ---
 

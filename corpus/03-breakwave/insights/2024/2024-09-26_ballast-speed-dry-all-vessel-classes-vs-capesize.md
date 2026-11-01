@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/26/ballast-speed-dry-all-vessel-classes-vs-capesize"
 tags: ["Drybulk", "Capesize", "Shipping"]
 images_count: 5
-word_count: 1415
+word_count: 1420
 source_file: "corpus/03-breakwave/insights/2024/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-09-26_ballast-speed-dry-all
 ---
 
 **Dry Weekly Market Monitor - Week 39.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 September 26, 2024
 
 ## Chart of the Week: Ballast Speed Dry All Vessel Classes vs Capesize
@@ -33,7 +33,7 @@ September 26, 2024
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 26 153727**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/-year-on-fresh-china-stimulus-/2ql7sz/438675515/h/AlkVBt9LSXvg7aDhxy77xOa_ADBcSygJdOTVJ_8iQOw) | [Local Asset](assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_329ff03c152a.png)
 
-In the last week of September, we observed a sustained firmer market sentiment in the Capesize Brazil-to-China route, driven by tight vessel availability that continues to support this momentum. Weekly percentage growth of tonne days has now moved above the lows seen in August, indicating a renewed strength in demand. This uptick in tonne days signals increased activity, with vessel supply constraints playing a significant role in maintaining the upward trajectory. The recent tightening of vessel availability and positive market fundamentals suggest a firmer outlook for the end of the third quarter. Simultaneously, iron ore prices have surged, fueled by fresh stimulus measures from China aimed at stimulating its slowing economy. On Tuesday,[iron ore futures](https://go.signalocean.com/e/983831/-year-on-fresh-china-stimulus-/2ql7sz/438675515/h/AlkVBt9LSXvg7aDhxy77xOa_ADBcSygJdOTVJ_8iQOw)registered their largest intraday gain in over a year. The most-traded January contract on the Dalian Commodity Exchange rose by 4.64%, closing at 699.5 yuan ($99.38) per metric ton, marking the steepest daily increase since late May 2023.
+In the last week of September, we observed a sustained firmer market sentiment in the Capesize Brazil-to-China route, driven by tight vessel availability that continues to support this momentum. Weekly percentage growth of tonne days has now moved above the lows seen in August, indicating a renewed strength in demand. This uptick in tonne days signals increased activity, with vessel supply constraints playing a significant role in maintaining the upward trajectory. The recent tightening of vessel availability and positive market fundamentals suggest a firmer outlook for the end of the third quarter. Simultaneously, iron ore prices have surged, fueled by fresh stimulus measures from China aimed at stimulating its slowing economy. On Tuesday,[iron ore futures](https://go.signalocean.com/e/983831/-year-on-fresh-china-stimulus-/2ql7sz/438675515/h/AlkVBt9LSXvg7aDhxy77xOa_ADBcSygJdOTVJ_8iQOw) registered their largest intraday gain in over a year. The most-traded January contract on the Dalian Commodity Exchange rose by 4.64%, closing at 699.5 yuan ($99.38) per metric ton, marking the steepest daily increase since late May 2023.
 
 The surge in iron ore prices can be attributed to several factors, primarily the Chinese government's introduction of significant monetary stimulus. The People's Bank of China has implemented its largest stimulus since the pandemic to revive the economy and curb deflationary pressures, though analysts have cautioned that further fiscal interventions are needed to reach growth targets. Additionally, restocking activities ahead of China's national holidays have contributed to heightened demand and bolstered market sentiment.
 
@@ -46,10 +46,10 @@ With the market experiencing renewed optimism, the combination of firm freight r
 
 The dry bulk freight market has exhibited stronger sentiment as the month draws to a close, with a notable recovery in the Capesize Brazil to North China route and the Panamax Far East route. These improvements reflect a more optimistic outlook across key shipping lanes, driven by tightening vessel availability and improving demand fundamentals.
 
-- **Capesize**vessel freight rates for shipments from Brazil to North China have risen to $28 per ton, marking an 18% increase compared to the same period last year. This significant year-over-year growth reflects stronger demand and tighter vessel availability in the region.
-- **Panamax**vessel freight rates from the Continent to the Far East have increased to $38 per ton, with an upward trend suggesting the possibility of reaching $40 per ton as early as August.
-- **Supramax**vessel freight rates on the Indo-ECI route hovered slightly above $11 per ton for the current week, 8% higher than the previous month.
-- **Handysize**freight rates for the NOPAC Far East route held steady at around $35 per ton, up 12% from rates a year ago.
+- **Capesize** vessel freight rates for shipments from Brazil to North China have risen to $28 per ton, marking an 18% increase compared to the same period last year. This significant year-over-year growth reflects stronger demand and tighter vessel availability in the region.
+- **Panamax** vessel freight rates from the Continent to the Far East have increased to $38 per ton, with an upward trend suggesting the possibility of reaching $40 per ton as early as August.
+- **Supramax** vessel freight rates on the Indo-ECI route hovered slightly above $11 per ton for the current week, 8% higher than the previous month.
+- **Handysize** freight rates for the NOPAC Far East route held steady at around $35 per ton, up 12% from rates a year ago.
 
 ![Στιγμιότυπο Οθόνης 2024 09 26 154212](assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_61ebfef5a807.png)
 

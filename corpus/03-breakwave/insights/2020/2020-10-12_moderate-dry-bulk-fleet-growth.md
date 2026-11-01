@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/11/moderate-dry-bulk-fleet-growth"
 tags: ["Shipping", "Dry Bulk"]
 images_count: 1
-word_count: 330
+word_count: 331
 source_file: "corpus/03-breakwave/insights/2020/2020-10-12_moderate-dry-bulk-fleet-growth.html"
 ---
 

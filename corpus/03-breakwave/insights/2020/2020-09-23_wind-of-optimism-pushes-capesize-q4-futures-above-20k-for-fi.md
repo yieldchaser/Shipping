@@ -32,7 +32,7 @@ A ~350mt iron ore production level would mean almost 40mt increase in annual pro
 
 ### Vale’s Production Growth Path
 
-Near term, the catalysts we have stressed over the recent weeks,[here](https://www.breakwaveadvisors.com/insights/2020/9/16/are-we-at-an-inflection-point-for-capesize-rates)and[here](https://www.breakwaveadvisors.com/insights/2020/9/21/are-capesizes-about-to-break-out-of-their-recent-range), remain intact, and a revisit of the 30,000 level for Capesize spot rates over the coming weeks is a reasonable assumption, if indeed the iron ore exporting rates out of Brazil start to increase.
+Near term, the catalysts we have stressed over the recent weeks,[here](https://www.breakwaveadvisors.com/insights/2020/9/16/are-we-at-an-inflection-point-for-capesize-rates) and [here](https://www.breakwaveadvisors.com/insights/2020/9/21/are-capesizes-about-to-break-out-of-their-recent-range), remain intact, and a revisit of the 30,000 level for Capesize spot rates over the coming weeks is a reasonable assumption, if indeed the iron ore exporting rates out of Brazil start to increase.
 
 For now, the spot Capesize sector is tightening in both the Atlantic and Pacific basins. Shipping is a commoditized market where the lack of an “inventory draw” to balance the market is not possible like in other commodities (after all there is no readily available inventory of ships and sailing times are long) and thus swings in pricing can be violent during tight market balances.
 

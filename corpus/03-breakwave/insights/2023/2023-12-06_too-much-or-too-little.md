@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/12/6/too-much-or-too-little"
 images_count: 3
-word_count: 774
+word_count: 777
 source_file: "corpus/03-breakwave/insights/2023/2023-12-06_too-much-or-too-little.html"
 ---
 

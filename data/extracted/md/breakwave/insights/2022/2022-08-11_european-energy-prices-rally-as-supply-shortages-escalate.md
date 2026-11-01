@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/11/european-energy-prices-rally-as-supply-shortages-escalate"
 tags: ["Commodities", "Crude Oil", "Energy"]
 images_count: 1
-word_count: 655
+word_count: 656
 source_file: "corpus/03-breakwave/insights/2022/2022-08-11_european-energy-prices-rally-as-supply-shortages-escalate.html"
 ---
 

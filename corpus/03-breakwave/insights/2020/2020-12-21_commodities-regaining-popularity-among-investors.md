@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/12/21/commodities-regaining-popularity-among-investors"
 tags: ["Oil", "Dry Bulk", "China"]
 images_count: 3
-word_count: 858
+word_count: 861
 source_file: "corpus/03-breakwave/insights/2020/2020-12-21_commodities-regaining-popularity-among-investors.html"
 ---
 

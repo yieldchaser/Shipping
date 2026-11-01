@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/31/dry-bulk-recovery-in-q1"
 tags: ["Capesize", "Shipping", "Markets"]
 images_count: 1
-word_count: 630
+word_count: 631
 source_file: "corpus/03-breakwave/insights/2025/2025-03-31_dry-bulk-recovery-in-q1.html"
 ---
 

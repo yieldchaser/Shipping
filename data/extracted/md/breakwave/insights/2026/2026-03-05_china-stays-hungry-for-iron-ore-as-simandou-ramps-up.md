@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/5/china-stays-hungry-for-iron-ore-as-simandou-ramps-up"
 tags: ["Ironore", "Shipping", "Commodities"]
 images_count: 3
-word_count: 809
+word_count: 812
 source_file: "corpus/03-breakwave/insights/2026/2026-03-05_china-stays-hungry-for-iron-ore-as-simandou-ramps-up.html"
 ---
 

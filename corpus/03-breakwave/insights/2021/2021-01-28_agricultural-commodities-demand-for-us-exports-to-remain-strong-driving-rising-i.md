@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/28/agricultural-commodities-demand-for-us-exports-to-remain-strong-driving-rising-imports-of-soybeans"
 tags: ["Soybeans", "Corn", "Wheat"]
 images_count: 3
-word_count: 760
+word_count: 763
 source_file: "corpus/03-breakwave/insights/2021/2021-01-28_agricultural-commodities-demand-for-us-exports-to-remain-strong-driving-rising-i.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/9/global-crude-export-declines-pause-in-september-but-atlantic-basin-remains-constrained"
 tags: ["Tankers", "Markets", "Crude"]
 images_count: 2
-word_count: 844
+word_count: 846
 source_file: "corpus/03-breakwave/insights/2024/2024-10-09_global-crude-export-declines-pause-in-september-but-atlantic-basin-remains-const.html"
 ---
 

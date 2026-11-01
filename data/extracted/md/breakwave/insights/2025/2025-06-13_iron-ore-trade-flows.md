@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/13/iron-ore-trade-flows"
 tags: ["Ironore", "Drybulk", "Shipping"]
 images_count: 12
-word_count: 1657
+word_count: 1669
 source_file: "corpus/03-breakwave/insights/2025/2025-06-13_iron-ore-trade-flows.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-06-13_iron-ore-trade-flows.
 ---
 
 **Dry Weekly Market Monitor - Week 24, 2025**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 June 13, 2025
 
 ![Στιγμιότυπο Οθόνης 2025 06 13 133816](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-13_iron-ore-trade-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_542582629a53.png)

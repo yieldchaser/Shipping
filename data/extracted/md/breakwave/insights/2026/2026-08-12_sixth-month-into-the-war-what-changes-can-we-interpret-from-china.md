@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/8/12/sixth-month-into-the-war-what-changes-can-we-interpret-from-china"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 4
-word_count: 1720
+word_count: 1724
 source_file: "corpus/03-breakwave/insights/2026/2026-08-12_sixth-month-into-the-war-what-changes-can-we-interpret-from-china.html"
 ---
 

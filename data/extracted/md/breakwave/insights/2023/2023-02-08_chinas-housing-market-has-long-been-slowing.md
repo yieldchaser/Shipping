@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/2/8/chinas-housing-market-has-long-been-slowing"
 images_count: 3
-word_count: 476
+word_count: 479
 source_file: "corpus/03-breakwave/insights/2023/2023-02-08_chinas-housing-market-has-long-been-slowing.html"
 ---
 

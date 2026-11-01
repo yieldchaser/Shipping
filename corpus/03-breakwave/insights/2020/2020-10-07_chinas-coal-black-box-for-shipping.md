@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/7/chinas-coal-black-box-for-shipping"
 tags: ["Coal", "China"]
 images_count: 5
-word_count: 1051
+word_count: 1056
 source_file: "corpus/03-breakwave/insights/2020/2020-10-07_chinas-coal-black-box-for-shipping.html"
 ---
 
@@ -30,7 +30,7 @@ Coal is the second most important commodity for dry bulk behind iron ore, and in
 
 For dry bulk, such a development is welcomed news, although it does not totally offset declining demand elsewhere especially given the relatively short distances involved (Indonesia, South Africa and Australia are the three major exporting regions when it comes to coal). After all, thermal coal shipping volumes seem to have peaked in 2017 and have been in a mild decline ever since.
 
-BIMCO is out with[an update](https://www.bimco.org/news/market_analysis/2020/20201001_chinese_coal_imports_first_eight_months)on coal trading as it relates to dry bulk, and it paints a rather bleak picture for the commodity:
+BIMCO is out with [an update](https://www.bimco.org/news/market_analysis/2020/20201001_chinese_coal_imports_first_eight_months) on coal trading as it relates to dry bulk, and it paints a rather bleak picture for the commodity:
 
 *This year’s coal import volumes have seen the lowest growth rate in the past three years. In the first eight months of this year, 220.7 million tonnes of coal have been imported by China, just 473 thousand tonnes more than in 2019, recording a 0.2% growth.*
 

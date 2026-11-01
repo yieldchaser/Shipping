@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/9/13/a-faltering-recovery"
 tags: ["Global Economy", "Coronavirus", "Tankers", "Dry Bulk"]
 images_count: 2
-word_count: 624
+word_count: 626
 source_file: "corpus/03-breakwave/insights/2020/2020-09-14_a-faltering-recovery.html"
 ---
 

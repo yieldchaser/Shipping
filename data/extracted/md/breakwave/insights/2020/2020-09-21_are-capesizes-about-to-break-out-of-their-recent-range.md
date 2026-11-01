@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/9/21/are-capesizes-about-to-break-out-of-their-recent-range"
 tags: ["Capesize", "Dry Bulk"]
 images_count: 3
-word_count: 625
+word_count: 628
 source_file: "corpus/03-breakwave/insights/2020/2020-09-21_are-capesizes-about-to-break-out-of-their-recent-range.html"
 ---
 

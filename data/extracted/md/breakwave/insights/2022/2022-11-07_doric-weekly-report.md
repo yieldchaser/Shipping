@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/7/doric-weekly-report"
 images_count: 3
-word_count: 902
+word_count: 905
 source_file: "corpus/03-breakwave/insights/2022/2022-11-07_doric-weekly-report.html"
 ---
 

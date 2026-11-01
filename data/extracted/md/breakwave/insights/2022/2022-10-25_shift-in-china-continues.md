@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/25/shift-in-china-continues"
 images_count: 2
-word_count: 391
+word_count: 393
 source_file: "corpus/03-breakwave/insights/2022/2022-10-25_shift-in-china-continues.html"
 ---
 

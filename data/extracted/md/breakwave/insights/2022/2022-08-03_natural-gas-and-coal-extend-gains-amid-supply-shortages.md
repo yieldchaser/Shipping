@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/3/natural-gas-and-coal-extend-gains-amid-supply-shortages"
 images_count: 1
-word_count: 689
+word_count: 690
 source_file: "corpus/03-breakwave/insights/2022/2022-08-03_natural-gas-and-coal-extend-gains-amid-supply-shortages.html"
 ---
 

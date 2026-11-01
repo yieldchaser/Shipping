@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/19/the-puzzle-of-low-middle-east-gulf-oil-storage-levels"
 tags: ["Crude", "Geopolitics", "Shipping"]
 images_count: 1
-word_count: 556
+word_count: 557
 source_file: "corpus/03-breakwave/insights/2026/2026-03-19_the-puzzle-of-low-middle-east-gulf-oil-storage-levels.html"
 ---
 

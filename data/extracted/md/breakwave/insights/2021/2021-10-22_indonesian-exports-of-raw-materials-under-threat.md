@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/22/indonesian-exports-of-raw-materials-under-threat"
 tags: ["Indonesia", "Exports", "Economy"]
 images_count: 3
-word_count: 1021
+word_count: 1024
 source_file: "corpus/03-breakwave/insights/2021/2021-10-22_indonesian-exports-of-raw-materials-under-threat.html"
 ---
 
@@ -28,21 +28,21 @@ Indonesia has already banned the exports of several unrefined ores, including ni
 
 During last year Indonesia exported 445 million tonnes of dry bulk commodities, well below the 538 million tonnes seen in 2019 as the pandemic affected both demand and output. This year volumes are staging a come-back, while not at par with the pre-pandemic peak of 528 million tonnes, the year’s exports look set to top 500 million tonnes. Assuming exports remain on track, the country will record its second-highest annual export volumes, according to data from Oceanbolt. Coal is by a considerable margin the largest constituent of the record number, with its share hovering just below ninety per cent. While accounting for most of the Indonesian exports, the fossil fuel has shed some of its market share in the last five years from a peak of 95 per cent.
 
-![Ch1](assets/2021-10-22_indonesian-exports-of-raw-materials-under-threat_img_ch1_26163e840393.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-22_indonesian-exports-of-raw-materials-under-threat_img_ch1_26163e840393.png)
 
 > **Figure 1: Ch1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-22_indonesian-exports-of-raw-materials-under-threat_img_ch1_26163e840393.png)
 
 The ban on nickel ore exports that the Indonesian authorities introduced two years ago saw the emergence of the country’s exports nipped in the bud. A late entrant to the global nickel trade, Indonesian exports rose rapidly during the last decade to a peak of 33 million tonnes in 2019, with most of it going to China. As the ban took effect, volumes slumped to just over two million tonnes last year. Despite the ban, the exports have recovered somewhat this year and could on course for 7.5 million tonnes this year. During the two years preceding the pandemic, Indonesian nickel seaborne exports accounted for thirty and forty per cent, respectively, but the market share has shrunk considerably following that. Beyond Indonesia, global seaborne volumes of nickel have been relatively stable, around fifty million tonnes per year, with the Philippines being the source for most of it. Indonesia’s retreat from the trade has contributed to the nickel supply remaining tight and prices currently trading at a ten-year high.
 
-![Ch2](assets/2021-10-22_indonesian-exports-of-raw-materials-under-threat_img_ch2_1a2dc921392e.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-22_indonesian-exports-of-raw-materials-under-threat_img_ch2_1a2dc921392e.png)
 
 > **Figure 2: Ch2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-22_indonesian-exports-of-raw-materials-under-threat_img_ch2_1a2dc921392e.png)
 
 As Indonesian nickel exports have faced mixed fortunes, the country’s bauxite shipments have been increasing their share of the global trade. In the five years from 2015, volumes increased more than a hundred times to 17.6 million tonnes in 2020. At the same time, the market share grew to eleven per cent from next to nothing. Contrary to the nickel trade, there are several large producers, with Guinea and Australia taking the top spots, and Indonesian bauxite is yet to claim the same prominence as its nickel before the pandemic. The growth in the global seaborne volumes of bauxite is also not just a function of increasing Indonesian exports. However, like for nickel, China is the dominant buyer globally, and for the Indonesian bauxite, the dominance is even more extensive, with nearly a hundred per cent heading for Chinese ports.
 
-![Ch3](assets/2021-10-22_indonesian-exports-of-raw-materials-under-threat_img_ch3_4e8090f09a1b.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-22_indonesian-exports-of-raw-materials-under-threat_img_ch3_4e8090f09a1b.png)
 
 > **Figure 3: Ch3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-22_indonesian-exports-of-raw-materials-under-threat_img_ch3_4e8090f09a1b.png)

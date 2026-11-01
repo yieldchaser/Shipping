@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/3/dollar-devaluation-does-not-mean-dollar-catastrophe"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 4
-word_count: 1539
+word_count: 1543
 source_file: "corpus/03-breakwave/insights/2025/2025-06-03_dollar-devaluation-does-not-mean-dollar-catastrophe.html"
 ---
 

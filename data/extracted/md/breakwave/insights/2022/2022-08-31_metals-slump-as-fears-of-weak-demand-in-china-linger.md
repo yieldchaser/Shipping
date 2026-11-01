@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/31/metals-slump-as-fears-of-weak-demand-in-china-linger"
 images_count: 1
-word_count: 690
+word_count: 691
 source_file: "corpus/03-breakwave/insights/2022/2022-08-31_metals-slump-as-fears-of-weak-demand-in-china-linger.html"
 ---
 

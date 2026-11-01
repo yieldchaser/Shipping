@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/14/chinas-most-likely-steel-production-bear-case-scenario-is-not-that-bearish"
 tags: ["China", "Economy", "Markets"]
 images_count: 1
-word_count: 254
+word_count: 255
 source_file: "corpus/03-breakwave/insights/2025/2025-03-14_chinas-most-likely-steel-production-bear-case-scenario-is-not-that-bearish.html"
 ---
 

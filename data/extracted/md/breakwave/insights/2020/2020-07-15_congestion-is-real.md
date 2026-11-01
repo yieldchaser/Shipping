@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/7/15/congestion-is-real"
 images_count: 3
-word_count: 457
+word_count: 460
 source_file: "corpus/03-breakwave/insights/2020/2020-07-15_congestion-is-real.html"
 ---
 

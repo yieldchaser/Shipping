@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/11/2/china-lights-out-now-what-for-dry-bulk"
 tags: ["China", "Capesize", "Coal", "Energy"]
 images_count: 4
-word_count: 1025
+word_count: 1029
 source_file: "corpus/03-breakwave/insights/2021/2021-11-02_china-lights-out-now-what-for-dry-bulk.html"
 ---
 
@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-11-02_china-lights-out-now-
 
 ---
 
-![Thermal Coal Prices](assets/2021-11-02_china-lights-out-now-what-for-dry-bulk_img_unsplash-image-7e2pe9wjl9m_06f55af923b4.jpg)
+![Thermal Coal Prices](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-02_china-lights-out-now-what-for-dry-bulk_img_unsplash-image-7e2pe9wjl9m_06f55af923b4.jpg)
 
 > **Figure 1: Thermal Coal Prices**  
 > *Thermal Coal Prices, CNY/ton*  
@@ -30,7 +30,7 @@ Energy is everything. Without adequate energy supply, life would be massively di
 
 During the last few months unprecedented volatility in some key energy markets should have raised a lot of red flags amongst governments as it relates to energy security, and although the western world has done little so far to address the issue, China has not only taken notice, but is aggressively moving to secure adequate power supply ahead of the energy intensive winter.
 
-![China Monthly Steel Production](assets/2021-11-02_china-lights-out-now-what-for-dry-bulk_img_coalchina_3215c68af8cd.jpg)
+![China Monthly Steel Production](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-02_china-lights-out-now-what-for-dry-bulk_img_coalchina_3215c68af8cd.jpg)
 
 > **Figure 2: China Monthly Steel Production**  
 > *China Monthly Steel Production, million mt*  
@@ -48,7 +48,7 @@ For China to potentially miss its own growth targets something significant must 
 
 Unfortunately, that leaves levered industries to such markets exposed. Dry bulk has traditionally relied upon Chinese growth and the subsequent demand for commodities for its own growth. If Chinese steel production weakens, a scenario that a few months ago was not even conceivable, how does that affect related industries?
 
-![Chinasteel](assets/2021-11-02_china-lights-out-now-what-for-dry-bulk_img_chinasteel_5f15cea1a7ac.jpg)
+![Chinasteel](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-02_china-lights-out-now-what-for-dry-bulk_img_chinasteel_5f15cea1a7ac.jpg)
 
 > **Figure 3: Chinasteel**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-02_china-lights-out-now-what-for-dry-bulk_img_chinasteel_5f15cea1a7ac.jpg)
@@ -65,7 +65,7 @@ The above are usually signs that the worst is behind us.
 
 Yet, this is a market that has always been for the brave ones, and fundamentally the outlook is not rosy. We continue to lean towards the scenario of stabilization and ultimately an uptick (which now might be even more than that, given the sharp selloff) in Capesize rates later in the month, though clearly developments out of China has somewhat reduced our confidence on such a scenario.
 
-![2013vs2021](assets/2021-11-02_china-lights-out-now-what-for-dry-bulk_img_2013vs2021_aca8987b7581.png)
+![2013vs2021](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-02_china-lights-out-now-what-for-dry-bulk_img_2013vs2021_aca8987b7581.png)
 
 > **Figure 4: 2013vs2021**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-02_china-lights-out-now-what-for-dry-bulk_img_2013vs2021_aca8987b7581.png)

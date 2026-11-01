@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/4/rkhvdlome3h7ul357ls82b26nauxu9"
 tags: ["China", "Ironore", "Drybulk"]
 images_count: 3
-word_count: 303
+word_count: 306
 source_file: "corpus/03-breakwave/insights/2024/2024-11-04_rkhvdlome3h7ul357ls82b26nauxu9.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/20/world-remains-hungry-for-iron-ore"
 tags: ["Dry Bulk", "Commodities"]
 images_count: 2
-word_count: 602
+word_count: 604
 source_file: "corpus/03-breakwave/insights/2021/2021-06-21_world-remains-hungry-for-iron-ore.html"
 ---
 

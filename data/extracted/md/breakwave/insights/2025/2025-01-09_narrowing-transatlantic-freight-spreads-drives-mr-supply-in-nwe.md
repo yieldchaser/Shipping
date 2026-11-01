@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/9/narrowing-transatlantic-freight-spreads-drives-mr-supply-in-nwe"
 tags: ["Crude", "Markets", "Shipping"]
 images_count: 4
-word_count: 1274
+word_count: 1278
 source_file: "corpus/03-breakwave/insights/2025/2025-01-09_narrowing-transatlantic-freight-spreads-drives-mr-supply-in-nwe.html"
 ---
 

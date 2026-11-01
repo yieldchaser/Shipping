@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/6/23/recessionary-fears-pushes-commodity-markets-lower"
 tags: ["Commodities", "Gas", "Oil"]
 images_count: 1
-word_count: 665
+word_count: 666
 source_file: "corpus/03-breakwave/insights/2022/2022-06-23_recessionary-fears-pushes-commodity-markets-lower.html"
 ---
 

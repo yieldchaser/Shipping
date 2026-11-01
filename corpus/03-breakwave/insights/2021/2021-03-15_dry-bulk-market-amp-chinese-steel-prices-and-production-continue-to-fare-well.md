@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/14/dry-bulk-market-amp-chinese-steel-prices-and-production-continue-to-fare-well"
 tags: ["Dry Bulk", "Steel"]
 images_count: 2
-word_count: 505
+word_count: 507
 source_file: "corpus/03-breakwave/insights/2021/2021-03-15_dry-bulk-market-amp-chinese-steel-prices-and-production-continue-to-fare-well.html"
 ---
 

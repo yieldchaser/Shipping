@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/4/4/time-to-get-bullish-again-on-crude"
 images_count: 1
-word_count: 1094
+word_count: 1095
 source_file: "corpus/03-breakwave/insights/2023/2023-04-04_time-to-get-bullish-again-on-crude.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/2/agri-commodities-us-planting-intentions-on-the-increase-but-fail-to-match-expectations"
 tags: ["China", "Commodities", "Soybeans"]
 images_count: 1
-word_count: 678
+word_count: 679
 source_file: "corpus/03-breakwave/insights/2021/2021-04-02_agri-commodities-us-planting-intentions-on-the-increase-but-fail-to-match-expect.html"
 ---
 
@@ -26,7 +26,7 @@ US soybean and corn prices have remained somewhat stagnant in recent weeks compa
 
 ### Soybeans (Usd/bushel)
 
-![A](assets/2021-04-02_agri-commodities-us-planting-intentions-on-the-increase-but-fail-to-match-expect_img_a_44886e02d3f7.jpg)
+![A](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-02_agri-commodities-us-planting-intentions-on-the-increase-but-fail-to-match-expect_img_a_44886e02d3f7.jpg)
 
 > **Figure 1: A**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-02_agri-commodities-us-planting-intentions-on-the-increase-but-fail-to-match-expect_img_a_44886e02d3f7.jpg)

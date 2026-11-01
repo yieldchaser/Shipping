@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/28/the-shipping-impact-of-simandous-commissioning"
 tags: ["Drybulk", "Shipping", "Ironore"]
 images_count: 3
-word_count: 1287
+word_count: 1290
 source_file: "corpus/03-breakwave/insights/2025/2025-11-28_the-shipping-impact-of-simandous-commissioning.html"
 ---
 

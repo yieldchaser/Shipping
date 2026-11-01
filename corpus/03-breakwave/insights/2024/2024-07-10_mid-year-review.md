@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/10/mid-year-review"
 tags: ["Tankers", "Shipping", "Crude Oil"]
 images_count: 6
-word_count: 1311
+word_count: 1317
 source_file: "corpus/03-breakwave/insights/2024/2024-07-10_mid-year-review.html"
 ---
 

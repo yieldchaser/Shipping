@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/21/dry-weekly-market-monitor"
 tags: ["Drybulk", "Shipping", "Freightrates"]
 images_count: 5
-word_count: 1176
+word_count: 1181
 source_file: "corpus/03-breakwave/insights/2024/2024-02-21_dry-weekly-market-monitor.html"
 ---
 
@@ -38,10 +38,10 @@ Meanwhile, in the Panamax vessel size segment, there is a noticeable resurgence 
 
 The Capesize Brazil to North China rates maintained the strength seen in the previous week. Meanwhile, there appears to be a notable increase in the Panamax Continent to Far East rates. Conversely, Supramax Indo ECI rates have remained consistently weak since the beginning of the year.
 
-- **Capesize**vessel freight rates for shipments from Brazil to North China have held steady just below $22 per ton, showcasing a significant 50% increase compared to the rates observed during the same week last year.
-- **Panamax**vessel freight rates from the Continent to the Far East have maintained a level of approximately $39 per ton from mid-February, marking a 20% increase compared to the rates recorded during the same week last year.
-- **Supramax**vessel freight rates on the Indo-ECI route continue to show a downward trend same in recent weeks, settling at around $10 per tonne.
-- **Handysize**freight rates for the NOPAC Far East route have maintained stability at approximately $39 per tonne in the last two weeks, while rates now are 20% higher than a month ago.
+- **Capesize** vessel freight rates for shipments from Brazil to North China have held steady just below $22 per ton, showcasing a significant 50% increase compared to the rates observed during the same week last year.
+- **Panamax** vessel freight rates from the Continent to the Far East have maintained a level of approximately $39 per ton from mid-February, marking a 20% increase compared to the rates recorded during the same week last year.
+- **Supramax** vessel freight rates on the Indo-ECI route continue to show a downward trend same in recent weeks, settling at around $10 per tonne.
+- **Handysize** freight rates for the NOPAC Far East route have maintained stability at approximately $39 per tonne in the last two weeks, while rates now are 20% higher than a month ago.
 
 ![Screenshot 2024 02 21 16.27.20](assets/2024-02-21_dry-weekly-market-monitor_img_screenshot2024-02-21162720_f2fd96ba6c36.png)
 

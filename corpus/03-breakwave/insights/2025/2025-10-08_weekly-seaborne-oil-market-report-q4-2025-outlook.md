@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/8/weekly-seaborne-oil-market-report-q4-2025-outlook"
 tags: ["OPEC", "Crude", "Markets"]
 images_count: 6
-word_count: 1281
+word_count: 1287
 source_file: "corpus/03-breakwave/insights/2025/2025-10-08_weekly-seaborne-oil-market-report-q4-2025-outlook.html"
 ---
 

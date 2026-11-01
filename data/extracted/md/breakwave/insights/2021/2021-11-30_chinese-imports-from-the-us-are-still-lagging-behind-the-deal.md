@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/11/30/chinese-imports-from-the-us-are-still-lagging-behind-the-deal"
 tags: ["China", "Usa", "Economy", "Imports"]
 images_count: 2
-word_count: 741
+word_count: 743
 source_file: "corpus/03-breakwave/insights/2021/2021-11-30_chinese-imports-from-the-us-are-still-lagging-behind-the-deal.html"
 ---
 
@@ -28,7 +28,7 @@ The pact had an unfortunate start as its first year of existence was dominated b
 
 So far this year, conformity with the agreement has seen some limited improvements. According to data compiled by the Peterson Institute for International Economics (PIIE), China had reached 67 per cent of the target as measured by Chinese imports. In contrast, US export data suggested that the country was 39 per cent short of its commitments. Hence, there is a potential for trade tensions to move up the agenda yet again, especially as the Biden administration has repeatedly stated that it expects China to honour its commitments.
 
-![Ch1](assets/2021-11-30_chinese-imports-from-the-us-are-still-lagging-behind-the-deal_img_ch1_4f9ef08c7fed.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-30_chinese-imports-from-the-us-are-still-lagging-behind-the-deal_img_ch1_4f9ef08c7fed.png)
 
 > **Figure 1: Ch1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-30_chinese-imports-from-the-us-are-still-lagging-behind-the-deal_img_ch1_4f9ef08c7fed.png)
@@ -37,7 +37,7 @@ While the compliance rate only shows a limited increase compared to last year, i
 
 According to cargo tracking data from Oceanbolt, coal shipments from the US to China has almost ceased in recent months after a strong start of the year. While coal is only a part of the US energy exports to China, the falling volumes are likely to contribute to a significant shortfall in Chinese imports of US energy commodities. Rising Chinese coal production and US coal prices at around a twelve-year high are also unlikely to be helpful.
 
-![Ch2](assets/2021-11-30_chinese-imports-from-the-us-are-still-lagging-behind-the-deal_img_ch2_f3e7e5fa4ca4.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-30_chinese-imports-from-the-us-are-still-lagging-behind-the-deal_img_ch2_f3e7e5fa4ca4.png)
 
 > **Figure 2: Ch2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-30_chinese-imports-from-the-us-are-still-lagging-behind-the-deal_img_ch2_f3e7e5fa4ca4.png)

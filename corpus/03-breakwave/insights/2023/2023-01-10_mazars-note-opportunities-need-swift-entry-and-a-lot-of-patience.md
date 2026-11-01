@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/1/10/mazars-note-opportunities-need-swift-entry-and-a-lot-of-patience"
 images_count: 4
-word_count: 1779
+word_count: 1783
 source_file: "corpus/03-breakwave/insights/2023/2023-01-10_mazars-note-opportunities-need-swift-entry-and-a-lot-of-patience.html"
 ---
 

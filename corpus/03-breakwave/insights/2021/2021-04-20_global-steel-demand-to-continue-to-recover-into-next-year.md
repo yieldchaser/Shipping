@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/20/global-steel-demand-to-continue-to-recover-into-next-year"
 tags: ["China"]
 images_count: 1
-word_count: 739
+word_count: 740
 source_file: "corpus/03-breakwave/insights/2021/2021-04-20_global-steel-demand-to-continue-to-recover-into-next-year.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/1/15/rain-steel-and-cuddly-pets"
 tags: ["Energy", "Coal", "Steel"]
 images_count: 2
-word_count: 630
+word_count: 632
 source_file: "corpus/03-breakwave/insights/2022/2022-01-16_rain-steel-and-cuddly-pets.html"
 ---
 
@@ -33,7 +33,7 @@ As we have stressed in Commodore's Weekly Dry Bulk Reports many times, Vale's gu
 
 Overall, it is certainly helpful for the dry bulk shipping market that Chinese steel production has found significant support and the dry bulk market will benefit this year if China's steel production is able to stay resilient. Also likely to remain significant to the dry bulk market this year is the global energy crisis. While Indonesia's coal shortage has come to an end and a semblance of stability has returned to Kazakhstan, an energy crisis very much remains intact in the world at large. Energy prices remain high and the Northern Hemisphere peak winter demand season remains in its infancy.
 
-Going forward, we expect that new developments in both energy exporting nations and of course consuming nations will continue to arise during the next several months. Of note now, though, is that it is becoming ever more "interesting" seeing just how some with authority, influence, and even means to provide electricity have been publicly addressing the crisis. At the start of the year, Wired informed the world that[being cold could actually be good for us](https://www.wired.com/story/could-being-cold-actually-be-good-for-you/). SSE Energy Services, one of Britain's largest energy providers, carried the torch even further this week advising its customers that having a cuddle with pets, keeping the oven open after cooking, doing jumps, and eating hearty bowls of porridge[are all good ways to help stay warm this winter](assets/2022-01-16_rain-steel-and-cuddly-pets_cant-afford-heat-house-cuddle-cat-sa_34cfb8530afd.html). The company has since apologized.
+Going forward, we expect that new developments in both energy exporting nations and of course consuming nations will continue to arise during the next several months. Of note now, though, is that it is becoming ever more "interesting" seeing just how some with authority, influence, and even means to provide electricity have been publicly addressing the crisis. At the start of the year, Wired informed the world that [being cold could actually be good for us](https://www.wired.com/story/could-being-cold-actually-be-good-for-you/). SSE Energy Services, one of Britain's largest energy providers, carried the torch even further this week advising its customers that having a cuddle with pets, keeping the oven open after cooking, doing jumps, and eating hearty bowls of porridge [are all good ways to help stay warm this winter](assets/2022-01-16_rain-steel-and-cuddly-pets_cant-afford-heat-house-cuddle-cat-sa_34cfb8530afd.html). The company has since apologized.
 
 ![Market Chart 2](assets/2022-01-16_rain-steel-and-cuddly-pets_img_image1_7e5d558e7206.jpg)
 

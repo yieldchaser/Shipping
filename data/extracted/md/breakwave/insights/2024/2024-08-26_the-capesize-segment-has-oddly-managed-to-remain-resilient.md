@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/26/the-capesize-segment-has-oddly-managed-to-remain-resilient"
 tags: ["Drybulk", "Capesize", "Ironore"]
 images_count: 2
-word_count: 1088
+word_count: 1090
 source_file: "corpus/03-breakwave/insights/2024/2024-08-26_the-capesize-segment-has-oddly-managed-to-remain-resilient.html"
 ---
 

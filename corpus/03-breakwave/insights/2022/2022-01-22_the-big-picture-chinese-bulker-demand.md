@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/1/22/the-big-picture-chinese-bulker-demand"
 tags: ["Shipping", "Dry Bulk", "China", "Exports"]
 images_count: 5
-word_count: 1130
+word_count: 1135
 source_file: "corpus/03-breakwave/insights/2022/2022-01-22_the-big-picture-chinese-bulker-demand.html"
 ---
 

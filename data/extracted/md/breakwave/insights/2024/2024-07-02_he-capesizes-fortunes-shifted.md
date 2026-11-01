@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/2/he-capesizes-fortunes-shifted"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 1
-word_count: 1416
+word_count: 1417
 source_file: "corpus/03-breakwave/insights/2024/2024-07-02_he-capesizes-fortunes-shifted.html"
 ---
 

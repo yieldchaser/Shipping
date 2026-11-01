@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/12/tariffs-are-still-10"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 3
-word_count: 1424
+word_count: 1427
 source_file: "corpus/03-breakwave/insights/2025/2025-05-12_tariffs-are-still-10.html"
 ---
 

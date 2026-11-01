@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/11/oil-gains-amid-increasing-travel-by-us-consumers"
 tags: ["Economy", "Markets", "Commodities"]
 images_count: 2
-word_count: 677
+word_count: 679
 source_file: "corpus/03-breakwave/insights/2024/2024-07-11_oil-gains-amid-increasing-travel-by-us-consumers.html"
 ---
 

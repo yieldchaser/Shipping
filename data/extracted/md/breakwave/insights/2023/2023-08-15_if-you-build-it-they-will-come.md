@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/8/14/if-you-build-it-they-will-come"
 tags: ["Tankers", "Shipping", "Crude"]
 images_count: 1
-word_count: 664
+word_count: 665
 source_file: "corpus/03-breakwave/insights/2023/2023-08-15_if-you-build-it-they-will-come.html"
 ---
 

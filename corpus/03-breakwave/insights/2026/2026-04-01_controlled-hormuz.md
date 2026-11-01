@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/31/controlled-hormuz"
 tags: ["Shipping", "Markets", "Geopolitics"]
 images_count: 1
-word_count: 647
+word_count: 648
 source_file: "corpus/03-breakwave/insights/2026/2026-04-01_controlled-hormuz.html"
 ---
 

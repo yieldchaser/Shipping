@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/9/metals-gain-as-low-inventories-spark-concerns-of-supply-shortages"
 images_count: 1
-word_count: 698
+word_count: 699
 source_file: "corpus/03-breakwave/insights/2022/2022-11-09_metals-gain-as-low-inventories-spark-concerns-of-supply-shortages.html"
 ---
 
@@ -36,7 +36,7 @@ Rising COVID-19 cases in China weighed on sentiment across commodity markets. Th
 
 **Copper** led the base metals sector higher on dwindling inventories amid positive signs for demand. Aluminium inventories in London Metal Exchange warehouses fell the most since August. Most of the drawdown occurred in Asia. High energy prices have been forcing many smelters in Europe to reduce output. Supply side issues are hanging over the copper market. Protest’s at MMG’s giant Las Bambas mine in Peru has seen the company progressively halt operations. Peruvian students have also blocked the railroad used by Southern Copper transport minerals in the southern city of Ilo. Demand for metals in China continues to be supported by the EV market. Retail sales of new energy vehicles jumped by 75% y/y in October to 556,000 units, according to PCA data. Total passenger vehicle sales rose 7.2% y/y. PCA expects even bigger numbers in coming months.
 
-**Iron ore**futures were steady for a second consecutive session as investors pause to reflect on China’s real estate sector and the ongoing battle with COVID-19 outbreaks. China expanded a key financing program to support about CNY250bn in debt sales by private firms, including real estate developers. It added that the effort could be further expanded if necessary.
+**Iron ore** futures were steady for a second consecutive session as investors pause to reflect on China’s real estate sector and the ongoing battle with COVID-19 outbreaks. China expanded a key financing program to support about CNY250bn in debt sales by private firms, including real estate developers. It added that the effort could be further expanded if necessary.
 
 A weaker USD helped push **gold** to a one month high. The dollar’s recent slide has helped invigorate investor buying, after recent strength amid rising US interest rates. The precious metal is also holding above the 50 day moving average, adding to the positive sentiment.
 

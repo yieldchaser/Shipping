@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/17/russian-oil-flows-the-end-game"
 tags: ["Tankers", "Crude", "Markets"]
 images_count: 2
-word_count: 1844
+word_count: 1846
 source_file: "corpus/03-breakwave/insights/2025/2025-10-17_russian-oil-flows-the-end-game.html"
 ---
 

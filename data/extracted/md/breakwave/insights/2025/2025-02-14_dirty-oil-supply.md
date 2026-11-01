@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/14/dirty-oil-supply"
 tags: ["Tankers", "Markets", "Crude"]
 images_count: 10
-word_count: 1438
+word_count: 1448
 source_file: "corpus/03-breakwave/insights/2025/2025-02-14_dirty-oil-supply.html"
 ---
 

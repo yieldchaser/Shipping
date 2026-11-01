@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/18/no-signs-of-weakening-steel-demand"
 tags: ["Steel", "Commodities", "Shipping"]
 images_count: 2
-word_count: 889
+word_count: 891
 source_file: "corpus/03-breakwave/insights/2021/2021-06-18_no-signs-of-weakening-steel-demand.html"
 ---
 
@@ -26,7 +26,7 @@ Chinese steel prices are staging a modest comeback after performing a nose dive 
 
 ### Shanghai Steel Rebar Futures – Cny/tonne
 
-![A1](assets/2021-06-18_no-signs-of-weakening-steel-demand_img_a1_57d5a3b6c173.jpg)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-18_no-signs-of-weakening-steel-demand_img_a1_57d5a3b6c173.jpg)
 
 > **Figure 1: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-18_no-signs-of-weakening-steel-demand_img_a1_57d5a3b6c173.jpg)
@@ -35,7 +35,7 @@ With the news that China will not release iron ore or steel as part of the initi
 
 On the other side of the Pacific, the return to pre-pandemic levels of output in the US steel industry has, contrary to many analysts’ expectations, failed to put an end to the rally in US steel prices that began in August last year. According to the American Iron and Steel Institute, the capacity utilisation rate in the US steel industry has remained at, or above, pre-pandemic levels of 80 per cent for the past three weeks. Rising US demand for steel has so far offset the increasing output and supported the prices, which have almost quadrupled in ten months.
 
-![A2](assets/2021-06-18_no-signs-of-weakening-steel-demand_img_a2_09d24f76eac6.png)
+![A2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-18_no-signs-of-weakening-steel-demand_img_a2_09d24f76eac6.png)
 
 > **Figure 2: A2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-18_no-signs-of-weakening-steel-demand_img_a2_09d24f76eac6.png)

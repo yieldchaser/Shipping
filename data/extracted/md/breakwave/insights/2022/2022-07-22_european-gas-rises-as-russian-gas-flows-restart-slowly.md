@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/22/european-gas-rises-as-russian-gas-flows-restart-slowly"
 images_count: 1
-word_count: 688
+word_count: 689
 source_file: "corpus/03-breakwave/insights/2022/2022-07-22_european-gas-rises-as-russian-gas-flows-restart-slowly.html"
 ---
 

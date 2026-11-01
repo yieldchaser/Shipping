@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/8/grain-seaborne-trade-impact-on-the-dry-bulk-freight-market"
 tags: ["Drybulk", "Shipping"]
 images_count: 6
-word_count: 2521
+word_count: 2527
 source_file: "corpus/03-breakwave/insights/2024/2024-08-08_grain-seaborne-trade-impact-on-the-dry-bulk-freight-market.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-08-08_grain-seaborne-trade-
 ---
 
 ***Shifts in Global Grain Trade and Freight Market Dynamics***
-August, 2024
+ August, 2024
 
 ![Στιγμιότυπο Οθόνης 2024 08 08 134445](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-08_grain-seaborne-trade-impact-on-the-dry-bulk-freight-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5ec3264cc509.png)
 

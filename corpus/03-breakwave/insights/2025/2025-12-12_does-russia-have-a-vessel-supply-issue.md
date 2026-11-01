@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/12/does-russia-have-a-vessel-supply-issue"
 tags: ["Crude", "Shipping", "Markets"]
 images_count: 4
-word_count: 1342
+word_count: 1346
 source_file: "corpus/03-breakwave/insights/2025/2025-12-12_does-russia-have-a-vessel-supply-issue.html"
 ---
 

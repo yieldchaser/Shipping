@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/19/theres-a-difference-between-expensive-and-bubble"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 12
-word_count: 2670
+word_count: 2682
 source_file: "corpus/03-breakwave/insights/2024/2024-11-19_theres-a-difference-between-expensive-and-bubble.html"
 ---
 

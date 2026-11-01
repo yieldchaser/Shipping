@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/8/26/irans-bottleneck-is-hormuz-not-the-buyer"
 tags: ["Shipping", "China", "Crude"]
 images_count: 5
-word_count: 1368
+word_count: 1373
 source_file: "corpus/03-breakwave/insights/2026/2026-08-26_irans-bottleneck-is-hormuz-not-the-buyer.html"
 ---
 

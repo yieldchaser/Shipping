@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/16/capesizes-in-charge"
 tags: ["Drybulk", "Markets", "Shipping"]
 images_count: 1
-word_count: 1173
+word_count: 1174
 source_file: "corpus/03-breakwave/insights/2025/2025-06-16_capesizes-in-charge.html"
 ---
 

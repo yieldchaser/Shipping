@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/9/20/ongoing-growth-in-coal-indias-production"
 images_count: 2
-word_count: 256
+word_count: 258
 source_file: "corpus/03-breakwave/insights/2023/2023-09-20_ongoing-growth-in-coal-indias-production.html"
 ---
 

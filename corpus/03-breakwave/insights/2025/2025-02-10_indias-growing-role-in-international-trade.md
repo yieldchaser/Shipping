@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/10/indias-growing-role-in-international-trade"
 tags: ["Drybulk", "Capesize", "Markets"]
 images_count: 2
-word_count: 1013
+word_count: 1015
 source_file: "corpus/03-breakwave/insights/2025/2025-02-10_indias-growing-role-in-international-trade.html"
 ---
 

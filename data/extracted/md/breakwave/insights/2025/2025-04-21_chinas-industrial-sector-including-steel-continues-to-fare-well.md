@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/21/chinas-industrial-sector-including-steel-continues-to-fare-well"
 tags: ["China", "Shipping", "Economy"]
 images_count: 1
-word_count: 276
+word_count: 277
 source_file: "corpus/03-breakwave/insights/2025/2025-04-21_chinas-industrial-sector-including-steel-continues-to-fare-well.html"
 ---
 

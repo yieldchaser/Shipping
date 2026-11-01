@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/9/16/gold-slumps-amid-the-spectre-of-more-aggressive-rate-hikes"
 images_count: 1
-word_count: 670
+word_count: 671
 source_file: "corpus/03-breakwave/insights/2022/2022-09-16_gold-slumps-amid-the-spectre-of-more-aggressive-rate-hikes.html"
 ---
 
@@ -36,6 +36,6 @@ Commodity markets suffered further losses as mixed economic data did nothing to 
 
 **Copper** fell as investors remained concerned about the economic backdrop amid high inflation. US Steel, Alcoa and Nucro all warned that deliveries are waning across all sectors. However, aluminium gained amid speculation of wide cuts to Chinese output. Some aluminium smelters in Yunnan may cut capacity by 20-30%, according to Shanghai Metals Market. That follows orders from the local electricity authority to cut 10% of production since the weekend. This is added to supply issues in Europe, where soaring energy costs are forcing smelter closures.
 
-**Iron ore**futures were steady as easing curbs in Chengdu aided the demand outlook. The megacity has relaxed restrictions in some areas, spurring optimism that there won’t be a repeat of Shanghai’s two-month lockdown. A report on measures to revive China’s real estate sector also helped sentiment. More than 120 cities have loosened their policies around housing finance this year, the Securities Daily reported.
+**Iron ore** futures were steady as easing curbs in Chengdu aided the demand outlook. The megacity has relaxed restrictions in some areas, spurring optimism that there won’t be a repeat of Shanghai’s two-month lockdown. A report on measures to revive China’s real estate sector also helped sentiment. More than 120 cities have loosened their policies around housing finance this year, the Securities Daily reported.
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)

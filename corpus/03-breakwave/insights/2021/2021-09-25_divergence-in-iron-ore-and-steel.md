@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/25/divergence-in-iron-ore-and-steel"
 tags: ["Economy", "Steel", "Iron Ore"]
 images_count: 4
-word_count: 463
+word_count: 467
 source_file: "corpus/03-breakwave/insights/2021/2021-09-25_divergence-in-iron-ore-and-steel.html"
 ---
 

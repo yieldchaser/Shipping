@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/17/xe0w1y2vf6moz785r26cww9pgzqoig"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 7
-word_count: 1280
+word_count: 1287
 source_file: "corpus/03-breakwave/insights/2024/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig.html"
 ---
 
@@ -70,36 +70,36 @@ source_file: "corpus/03-breakwave/insights/2024/2024-04-17_xe0w1y2vf6moz785r26cw
 
 ### Tanker Asset Markets
 
-**NB orders**jumped in the first quarter of 2024, particularly for VLCCs, which saw 29 orders placed, well above the 10-year average of 12 per quarter.
+**NB orders** jumped in the first quarter of 2024, particularly for VLCCs, which saw 29 orders placed, well above the 10-year average of 12 per quarter.
 
-**Tanker deliveries**were unusually low, with only 29 vessels (>25,000 dwt) delivered compared to a 10-year average of 51 vessels per quarter.
+**Tanker deliveries** were unusually low, with only 29 vessels (>25,000 dwt) delivered compared to a 10-year average of 51 vessels per quarter.
 
 **Tanker scrapping**. Given the strong prevailing market it was another very quiet quarter for tanker scrapping, with nothing larger than flexi tonnage scrapped.
 
-**Second hand asset**values increased slightly during the quarter, despite sales volumes relaxing slightly after 18 months of heightened activity.
+**Second hand asset** values increased slightly during the quarter, despite sales volumes relaxing slightly after 18 months of heightened activity.
 
-**NB prices**continued to increase for all tanker sizes.
+**NB prices** continued to increase for all tanker sizes.
 
 ### Freight Markets
 
-**The tanker spot market**has performed well during the first quarter of 2024. Braemar’s spot tanker Index for Q1 2024 was 20% up YoY, 53% up on the previous quarter, and 211% above the 9-year average.
+**The tanker spot market** has performed well during the first quarter of 2024. Braemar’s spot tanker Index for Q1 2024 was 20% up YoY, 53% up on the previous quarter, and 211% above the 9-year average.
 
-**VLCCs**experienced a volatile quarter, with spot TCE earnings fluctuating between 40k $/day and 73k $/day, but average earnings for Q1-24 remained almost unchanged from the previous quarter at 48k $/day.
+**VLCCs** experienced a volatile quarter, with spot TCE earnings fluctuating between 40k $/day and 73k $/day, but average earnings for Q1-24 remained almost unchanged from the previous quarter at 48k $/day.
 
-**Aframax and Suezmax**sectors struggled to maintain their strong performance in Q4 2023 into Q1, with earnings gradually declining from around 70k $/day to around 40k $/day by the end of the quarter.
+**Aframax and Suezmax** sectors struggled to maintain their strong performance in Q4 2023 into Q1, with earnings gradually declining from around 70k $/day to around 40k $/day by the end of the quarter.
 
-Average earnings for**LR2**tankers jumped at the start of February, peaking at 100k $/day before decreasing to 54k $/day in early March. They closed the quarter up at 90k $/day per day.
+Average earnings for **LR2** tankers jumped at the start of February, peaking at 100k $/day before decreasing to 54k $/day in early March. They closed the quarter up at 90k $/day per day.
 
-**LR1s**broadly mirrored the peaks and troughs of the LR2s. The robust CPP market boosted the number of LR2s shifting from dirty to clean trades, with a net migration of 10 vessels to clean in Q1-24.
+**LR1s** broadly mirrored the peaks and troughs of the LR2s. The robust CPP market boosted the number of LR2s shifting from dirty to clean trades, with a net migration of 10 vessels to clean in Q1-24.
 
-**MRs**had a reasonably consistent quarter. Average sector earnings picked up from 35k $/day at the start of January to 51k $/day by the end, and then hovered around 50k $/day for the remainder of the quarter. MR clean tankers trading in the West outperformed clean MRs trading in the East by approximately 23k $/day. This is down from an average premium of 29k $/day in 2023.
+**MRs** had a reasonably consistent quarter. Average sector earnings picked up from 35k $/day at the start of January to 51k $/day by the end, and then hovered around 50k $/day for the remainder of the quarter. MR clean tankers trading in the West outperformed clean MRs trading in the East by approximately 23k $/day. This is down from an average premium of 29k $/day in 2023.
 
 ![Market Chart 7](assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image004_2781a5a86408.png)
 
 > **Figure 7: Market Chart 7**  
 > [Local Asset](assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image004_2781a5a86408.png)
 
-**Time charter markets**were busy in Q1 2024, particularly for MRs. One year TC rates improved across the board, with the exception of Suezmax rates, which slipped slightly from a very strong start to the year. The biggest improvements were seen by MRs, which saw 1 yr. TC rates lift by 3.5k $/day during the quarter.
+**Time charter markets** were busy in Q1 2024, particularly for MRs. One year TC rates improved across the board, with the exception of Suezmax rates, which slipped slightly from a very strong start to the year. The biggest improvements were seen by MRs, which saw 1 yr. TC rates lift by 3.5k $/day during the quarter.
 
 ---
 

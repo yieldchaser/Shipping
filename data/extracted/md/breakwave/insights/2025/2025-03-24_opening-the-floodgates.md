@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/24/opening-the-floodgates"
 tags: ["Shipping", "Crude", "Tankers"]
 images_count: 1
-word_count: 689
+word_count: 690
 source_file: "corpus/03-breakwave/insights/2025/2025-03-24_opening-the-floodgates.html"
 ---
 

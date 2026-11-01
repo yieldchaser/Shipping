@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/13/global-economy-the-recovery-is-still-on-track"
 tags: ["Global Economy", "Commodities", "Shipping"]
 images_count: 3
-word_count: 920
+word_count: 923
 source_file: "corpus/03-breakwave/insights/2021/2021-07-14_global-economy-the-recovery-is-still-on-track.html"
 ---
 

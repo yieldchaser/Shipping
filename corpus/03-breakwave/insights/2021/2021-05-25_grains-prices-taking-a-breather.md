@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/25/grains-prices-taking-a-breather"
 tags: ["Corn"]
 images_count: 4
-word_count: 908
+word_count: 912
 source_file: "corpus/03-breakwave/insights/2021/2021-05-25_grains-prices-taking-a-breather.html"
 ---
 

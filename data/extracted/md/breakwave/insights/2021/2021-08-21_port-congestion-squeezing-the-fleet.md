@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/21/port-congestion-squeezing-the-fleet"
 tags: ["Dry Bulk", "Shipping", "Rates"]
 images_count: 4
-word_count: 1146
+word_count: 1150
 source_file: "corpus/03-breakwave/insights/2021/2021-08-21_port-congestion-squeezing-the-fleet.html"
 ---
 
@@ -28,7 +28,7 @@ A surge in the number of ships waiting outside ports in China is tightening effe
 
 At the global level, queues of bulk carriers at ports and anchorages hit a peak of almost 142m dwt over the weekend, the highest level we have on record and about 15% higher YoY. However, drilling into this data by region, elevated congestion in China appears to be the driving force behind this trend. Accounting for more than a third of total congestion, bulker capacity queuing in China hit an all time high of 52.7m dwt on the weekend, representing 6% of the global trading fleet. This figure also represents a spike of 28% MoM and 23% versus this time last year, which was itself a busy period for ports in China. Outside of China, congestion remains relatively high, but is behaving in line with its usual seasonal pattern, which is dictated by the various crop harvesting periods and weather related factors.
 
-![A0](assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a0_16dc3b62f70c.png)
+![A0](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a0_16dc3b62f70c.png)
 
 > **Figure 1: A0**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a0_16dc3b62f70c.png)
@@ -37,7 +37,7 @@ A major driver of the uptick in China has been a tightening in COVID-19 restrict
 
 Based on the latest information from port agents, the only blanket quarantine measures at most Chinese ports is for ships which have called to Indian ports or have taken on Indian crew members in the previous 30 days.
 
-![A1](assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a1_24f12f6d4edd.png)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a1_24f12f6d4edd.png)
 
 > **Figure 2: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a1_24f12f6d4edd.png)
@@ -50,7 +50,7 @@ Regardless of how long vessels have been at sea since their last port call, thei
 
 For the Panamaxes specifically, another key driver of congestion has been a lack of grain storage capacity in China. The country’s binge on foreign grain supplies over the last few months has translated to a spike in the number of laden vessels arriving, but terminals’ infrastructure has not been able to keep up, and ships are facing lengthy stays outside ports before being able to discharge.
 
-![A2 (002)](assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a22800229_79146a888c4c.png)
+![A2 (002)](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a22800229_79146a888c4c.png)
 
 > **Figure 3: A2 (002)**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a22800229_79146a888c4c.png)
@@ -63,7 +63,7 @@ Meanwhile, effective fleet capacity is being squeezed further by a recent uptick
 
 With the carrying capacity of the fleet being trimmed, the market is clearly receiving support. After underperforming relative to the smaller ships, average Capesize rates are now approaching the $50,000 per day mark (not seen since June 2010), while near-term freight futures have rocketed by about 47% in the space of a month, implying further rises in freight. Meanwhile, strength is continuing to build on the smaller ships too, with Handies seeing 2008-level rates, and the Baltic’s 58k Supramax index surpassing $35,000 per day for the first time since it began printing in 2015.
 
-![A3 (002)](assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a32800229_ccddf696361b.png)
+![A3 (002)](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a32800229_ccddf696361b.png)
 
 > **Figure 4: A3 (002)**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a32800229_ccddf696361b.png)

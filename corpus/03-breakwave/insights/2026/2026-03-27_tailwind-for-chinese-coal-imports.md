@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/27/tailwind-for-chinese-coal-imports"
 tags: ["Coal", "China", "Commodities"]
 images_count: 3
-word_count: 347
+word_count: 350
 source_file: "corpus/03-breakwave/insights/2026/2026-03-27_tailwind-for-chinese-coal-imports.html"
 ---
 

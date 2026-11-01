@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/20/diversification-is-a-protection-against-ignorance"
 tags: ["Diversification", "Asset Management", "Investing"]
 images_count: 2
-word_count: 632
+word_count: 634
 source_file: "corpus/03-breakwave/insights/2021/2021-10-21_diversification-is-a-protection-against-ignorance.html"
 ---
 

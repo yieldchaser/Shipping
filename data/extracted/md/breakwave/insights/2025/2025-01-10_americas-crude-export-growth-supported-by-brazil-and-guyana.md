@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/10/americas-crude-export-growth-supported-by-brazil-and-guyana"
 tags: ["Crudeoil", "Tankers", "Markets"]
 images_count: 3
-word_count: 932
+word_count: 935
 source_file: "corpus/03-breakwave/insights/2025/2025-01-10_americas-crude-export-growth-supported-by-brazil-and-guyana.html"
 ---
 

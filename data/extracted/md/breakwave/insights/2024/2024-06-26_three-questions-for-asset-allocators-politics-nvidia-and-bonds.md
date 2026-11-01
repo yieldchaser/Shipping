@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/26/three-questions-for-asset-allocators-politics-nvidia-and-bonds"
 tags: ["Markets", "Economy", "Macro"]
 images_count: 4
-word_count: 1273
+word_count: 1277
 source_file: "corpus/03-breakwave/insights/2024/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-06-26_three-questions-for-a
 2. Can anything stop Nvidia?
 3. Is a 4.5% yield an opportunity or the new normal?
 
-By[George Lagarias](https://www.linkedin.com/in/george-lagarias-mba-3baa769/)
+By [George Lagarias](https://www.linkedin.com/in/george-lagarias-mba-3baa769/)
 
 ### Summary
 

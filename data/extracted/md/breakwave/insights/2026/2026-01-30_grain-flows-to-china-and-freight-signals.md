@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/30/grain-flows-to-china-and-freight-signals"
 tags: ["Capesize", "Drybulk", "Markets"]
 images_count: 12
-word_count: 1682
+word_count: 1694
 source_file: "corpus/03-breakwave/insights/2026/2026-01-30_grain-flows-to-china-and-freight-signals.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/30/the-big-picture-dry-bulk-fundamentals"
 tags: ["Shipping", "Dry Bulk", "COVID-19", "Coal", "Grains"]
 images_count: 4
-word_count: 1335
+word_count: 1339
 source_file: "corpus/03-breakwave/insights/2020/2020-11-01_the-big-picture-dry-bulk-fundamentals.html"
 ---
 

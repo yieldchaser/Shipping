@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/10/strait-of-hormuz-spotlight"
 tags: ["Crude", "Shipping", "Tankers"]
 images_count: 3
-word_count: 1361
+word_count: 1364
 source_file: "corpus/03-breakwave/insights/2026/2026-03-10_strait-of-hormuz-spotlight.html"
 ---
 

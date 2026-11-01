@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/17/iron-ore-chinese-steel-production-under-pressure"
 tags: ["China", "Steel", "Economy"]
 images_count: 5
-word_count: 1033
+word_count: 1038
 source_file: "corpus/03-breakwave/insights/2021/2021-09-17_iron-ore-chinese-steel-production-under-pressure.html"
 ---
 

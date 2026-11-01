@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/2/big-three-oil-exporters-add-tightness-to-global-supplies-in-march"
 tags: ["Tankers", "Shipping", "Crude Oil"]
 images_count: 2
-word_count: 949
+word_count: 951
 source_file: "corpus/03-breakwave/insights/2024/2024-04-02_big-three-oil-exporters-add-tightness-to-global-supplies-in-march.html"
 ---
 

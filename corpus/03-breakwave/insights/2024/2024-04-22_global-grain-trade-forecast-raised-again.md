@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/22/global-grain-trade-forecast-raised-again"
 tags: ["Drybulk", "Economy", "Grains"]
 images_count: 4
-word_count: 617
+word_count: 621
 source_file: "corpus/03-breakwave/insights/2024/2024-04-22_global-grain-trade-forecast-raised-again.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/6/iron-ore-stockpiles-continue-to-rise-but-so-too-are-iron-ore-prices"
 tags: ["Ironore", "Shipping", "Drybulk"]
 images_count: 2
-word_count: 312
+word_count: 314
 source_file: "corpus/03-breakwave/insights/2026/2026-01-06_iron-ore-stockpiles-continue-to-rise-but-so-too-are-iron-ore-prices.html"
 ---
 

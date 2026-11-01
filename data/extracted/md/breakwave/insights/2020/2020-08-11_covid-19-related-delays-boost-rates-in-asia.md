@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/8/11/covid-19-related-delays-boost-rates-in-asia"
 images_count: 2
-word_count: 529
+word_count: 531
 source_file: "corpus/03-breakwave/insights/2020/2020-08-11_covid-19-related-delays-boost-rates-in-asia.html"
 ---
 

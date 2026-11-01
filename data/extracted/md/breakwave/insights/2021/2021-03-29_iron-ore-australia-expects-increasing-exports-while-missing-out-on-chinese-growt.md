@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/29/iron-ore-australia-expects-increasing-exports-while-missing-out-on-chinese-growth"
 tags: ["Australia", "China"]
 images_count: 2
-word_count: 829
+word_count: 831
 source_file: "corpus/03-breakwave/insights/2021/2021-03-29_iron-ore-australia-expects-increasing-exports-while-missing-out-on-chinese-growt.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-03-29_iron-ore-australia-ex
 
 *By Ulf Bergman*
 
-![Iron Roe 2](assets/2021-03-29_iron-ore-australia-expects-increasing-exports-while-missing-out-on-chinese-growt_img_ironroe2_9e95a4cdceb6.jpg)
+![Iron Roe 2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-29_iron-ore-australia-expects-increasing-exports-while-missing-out-on-chinese-growt_img_ironroe2_9e95a4cdceb6.jpg)
 
 > **Figure 1: Iron Roe 2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-29_iron-ore-australia-expects-increasing-exports-while-missing-out-on-chinese-growt_img_ironroe2_9e95a4cdceb6.jpg)
@@ -33,7 +33,7 @@ In the report, which was published on Monday, the Australian government also exp
 
 The bullish projections for Australian iron ore exports are perhaps somewhat at odds with the recent Chinese customs data, which suggests that Chinese purchasers may have been directed towards Brazilian producers. The combined data for the first two months of the year saw Chinese imports of iron ore increasing by almost three per cent compared to the previous year and customs data suggest that much of the growth was covered by cargoes from Brazil. It is too early to say if the data for the first two months are representing a permanent change in trade patterns, with Australian iron ore exports facing the short end of the stick. However, China’s ambitions to diversify supplies and decrease its dependency on the global supply chains are well documented, with major investments in Guinea’s burgeoning iron ore mines underway. Also, the ongoing trade and diplomatic frictions with Australia do not look like they are going to be resolved anytime soon. Hence, the optimistic assessment of the future of iron ore exports by the Australian government may suggest that they see the potential for growth elsewhere in the world, with longer distances involved.
 
-![Unsplash Image Ov9hp8wxkpe](assets/2021-03-29_iron-ore-australia-expects-increasing-exports-while-missing-out-on-chinese-growt_img_unsplash-image-ov9hp8wxkpe_311956586950.jpg)
+![Unsplash Image Ov9hp8wxkpe](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-29_iron-ore-australia-expects-increasing-exports-while-missing-out-on-chinese-growt_img_unsplash-image-ov9hp8wxkpe_311956586950.jpg)
 
 > **Figure 2: Unsplash Image Ov9hp8wxkpe**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-29_iron-ore-australia-expects-increasing-exports-while-missing-out-on-chinese-growt_img_unsplash-image-ov9hp8wxkpe_311956586950.jpg)

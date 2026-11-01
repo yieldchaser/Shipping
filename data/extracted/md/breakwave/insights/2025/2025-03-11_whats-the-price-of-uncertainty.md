@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/11/whats-the-price-of-uncertainty"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 5
-word_count: 1599
+word_count: 1604
 source_file: "corpus/03-breakwave/insights/2025/2025-03-11_whats-the-price-of-uncertainty.html"
 ---
 

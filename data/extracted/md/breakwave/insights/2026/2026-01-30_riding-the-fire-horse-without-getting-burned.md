@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/30/riding-the-fire-horse-without-getting-burned"
 tags: ["Shipping", "Markets"]
 images_count: 1
-word_count: 547
+word_count: 548
 source_file: "corpus/03-breakwave/insights/2026/2026-01-30_riding-the-fire-horse-without-getting-burned.html"
 ---
 

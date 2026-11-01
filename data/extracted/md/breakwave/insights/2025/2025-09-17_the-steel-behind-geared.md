@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/17/the-steel-behind-geared"
 tags: ["Drybulk", "Commodities", "Shipping"]
 images_count: 4
-word_count: 1397
+word_count: 1401
 source_file: "corpus/03-breakwave/insights/2025/2025-09-17_the-steel-behind-geared.html"
 ---
 

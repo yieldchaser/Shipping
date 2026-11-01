@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/15/tankers-research-update"
 tags: ["Shipping", "China", "Ustr"]
 images_count: 1
-word_count: 779
+word_count: 780
 source_file: "corpus/03-breakwave/insights/2025/2025-10-15_tankers-research-update.html"
 ---
 

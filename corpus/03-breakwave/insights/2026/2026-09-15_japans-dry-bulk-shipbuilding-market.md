@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/14/japans-dry-bulk-shipbuilding-market"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 1
-word_count: 700
+word_count: 701
 source_file: "corpus/03-breakwave/insights/2026/2026-09-15_japans-dry-bulk-shipbuilding-market.html"
 ---
 

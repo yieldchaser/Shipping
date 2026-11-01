@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/1/10/signal-dru-bulk-annual-review"
 images_count: 1
-word_count: 684
+word_count: 685
 source_file: "corpus/03-breakwave/insights/2024/2024-01-10_signal-dru-bulk-annual-review.html"
 ---
 

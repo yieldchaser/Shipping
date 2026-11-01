@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/22/chinas-coal-and-iron-ore-imports-remain-in-contraction"
 tags: ["China", "Coal", "Iron Ore"]
 images_count: 2
-word_count: 416
+word_count: 418
 source_file: "corpus/03-breakwave/insights/2022/2022-08-22_chinas-coal-and-iron-ore-imports-remain-in-contraction.html"
 ---
 

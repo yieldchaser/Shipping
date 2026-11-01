@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/9/eadwinds-for-most-commodities"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 1
-word_count: 1179
+word_count: 1180
 source_file: "corpus/03-breakwave/insights/2024/2024-10-09_eadwinds-for-most-commodities.html"
 ---
 

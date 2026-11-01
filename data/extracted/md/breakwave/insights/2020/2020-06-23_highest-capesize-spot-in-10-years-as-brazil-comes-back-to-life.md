@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/23/highest-capesize-spot-in-10-years-as-brazil-comes-back-to-life"
 tags: ["Shipping", "Capesize", "Australia", "Brazil", "Dry Bulk"]
 images_count: 2
-word_count: 804
+word_count: 806
 source_file: "corpus/03-breakwave/insights/2020/2020-06-23_highest-capesize-spot-in-10-years-as-brazil-comes-back-to-life.html"
 ---
 

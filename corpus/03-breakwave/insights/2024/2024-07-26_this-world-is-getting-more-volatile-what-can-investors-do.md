@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/26/this-world-is-getting-more-volatile-what-can-investors-do"
 tags: ["Markets", "Economy", "Macro"]
 images_count: 5
-word_count: 1994
+word_count: 1999
 source_file: "corpus/03-breakwave/insights/2024/2024-07-26_this-world-is-getting-more-volatile-what-can-investors-do.html"
 ---
 

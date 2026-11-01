@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/22/market-comment-paradigm-shift-deferred-but-not-for-long"
 images_count: 2
-word_count: 983
+word_count: 985
 source_file: "corpus/03-breakwave/insights/2022/2022-08-22_market-comment-paradigm-shift-deferred-but-not-for-long.html"
 ---
 
@@ -21,15 +21,15 @@ source_file: "corpus/03-breakwave/insights/2022/2022-08-22_market-comment-paradi
 
 *By*[*George Lagarias*](https://www.linkedin.com/in/george-lagarias-mba-3baa769/)
 
-Frank Herbert’s ‘[Dune](https://en.wikipedia.org/wiki/Dune_(novel))’, one of the most epic sci-fi novels of all time (and the subject of a less-great 1984 Kyle MacLachlan[movie](https://www.imdb.com/title/tt0087182/)), featured, amongst other things, a mystical far-future sisterhood, called the Bene Gesserit. The Sisterhood had developed a secret sign language, to be used alongside real spoken words. So while two Sisters would publicly discuss embroidery, their hand sign signals would be about plans to take down their enemies who would blithely sit at the next table.
+Frank Herbert’s ‘[Dune](https://en.wikipedia.org/wiki/Dune_(novel))’, one of the most epic sci-fi novels of all time (and the subject of a less-great 1984 Kyle MacLachlan [movie](https://www.imdb.com/title/tt0087182/)), featured, amongst other things, a mystical far-future sisterhood, called the Bene Gesserit. The Sisterhood had developed a secret sign language, to be used alongside real spoken words. So while two Sisters would publicly discuss embroidery, their hand sign signals would be about plans to take down their enemies who would blithely sit at the next table.
 
 The more I listen to the Fed and watch market reactions, the more I’m getting the feeling that this is what we have been witnessing all summer.
 
-We have often said that for investors, interest rates mattered less than quantitative easing (or tightening). Market action during this summer confirms that finding. The S&P 500 has rebounded 15% from its lows and is now near 10% from its highs. This movement is difficult to reconcile with a looming recession, slower earnings, especially for Big Tech, an energy crunch in Europe, wobbly real estate markets and a China still in[obvious trouble](https://www.ft.com/content/17fb88ca-d648-4670-a292-bbf93c1fed0a).
+We have often said that for investors, interest rates mattered less than quantitative easing (or tightening). Market action during this summer confirms that finding. The S&P 500 has rebounded 15% from its lows and is now near 10% from its highs. This movement is difficult to reconcile with a looming recession, slower earnings, especially for Big Tech, an energy crunch in Europe, wobbly real estate markets and a China still in [obvious trouble](https://www.ft.com/content/17fb88ca-d648-4670-a292-bbf93c1fed0a).
 
 To the world, the Fed talks with open and very hawkish statements. It tightens interest rates faster and faster, to the point that consecutive triple rate hikes are becoming a norm.
 
-But, at the very same time, it talks to investors in a second language, beyond headlines and statements. It is a complex language of signalling, founded on years of[operant conditioning](assets/2022-08-22_market-comment-paradigm-shift-deferred-but-not-for-long_operant-conditioning_dd3c33fd816b.html)by the US central bank. And in that language, Fed officials signal to investors: “relax, we’re still on your side”.
+But, at the very same time, it talks to investors in a second language, beyond headlines and statements. It is a complex language of signalling, founded on years of [operant conditioning](assets/2022-08-22_market-comment-paradigm-shift-deferred-but-not-for-long_operant-conditioning_dd3c33fd816b.html) by the US central bank. And in that language, Fed officials signal to investors: “relax, we’re still on your side”.
 
 In the past few months markets have been fixated with oil prices. Higher oil prices drive asset prices down and vice versa.
 

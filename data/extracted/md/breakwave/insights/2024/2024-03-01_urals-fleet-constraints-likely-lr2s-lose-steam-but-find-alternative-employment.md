@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/1/urals-fleet-constraints-likely-lr2s-lose-steam-but-find-alternative-employment"
 tags: ["Shipping", "Crude Oil", "Tankers"]
 images_count: 5
-word_count: 1224
+word_count: 1229
 source_file: "corpus/03-breakwave/insights/2024/2024-03-01_urals-fleet-constraints-likely-lr2s-lose-steam-but-find-alternative-employment.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/3/vlcc-recovery-and-spillovers"
 tags: ["Tankers", "Crude", "Markets"]
 images_count: 11
-word_count: 1912
+word_count: 1923
 source_file: "corpus/03-breakwave/insights/2025/2025-10-03_vlcc-recovery-and-spillovers.html"
 ---
 

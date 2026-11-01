@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/28/northeast-asias-refineries-face-uncertainties-with-ramp-ups-post-turnaround"
 tags: ["China", "Economy", "Crude"]
 images_count: 2
-word_count: 825
+word_count: 827
 source_file: "corpus/03-breakwave/insights/2024/2024-05-28_northeast-asias-refineries-face-uncertainties-with-ramp-ups-post-turnaround.html"
 ---
 

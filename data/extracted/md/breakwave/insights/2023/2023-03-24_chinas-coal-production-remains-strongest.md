@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/3/24/chinas-coal-production-remains-strongest"
 images_count: 4
-word_count: 431
+word_count: 435
 source_file: "corpus/03-breakwave/insights/2023/2023-03-24_chinas-coal-production-remains-strongest.html"
 ---
 

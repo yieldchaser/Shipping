@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/25/a-changing-reality-for-the-european-coal-trade"
 images_count: 2
-word_count: 1240
+word_count: 1242
 source_file: "corpus/03-breakwave/insights/2022/2022-07-25_a-changing-reality-for-the-european-coal-trade.html"
 ---
 

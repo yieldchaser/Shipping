@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/3/9/vortexa-freight-weekly"
 images_count: 2
-word_count: 595
+word_count: 597
 source_file: "corpus/03-breakwave/insights/2023/2023-03-10_vortexa-freight-weekly.html"
 ---
 

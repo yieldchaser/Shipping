@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/3/global-dry-bulk-market-and-chinese-coal-market-remain-bullish"
 tags: ["China", "Coal"]
 images_count: 3
-word_count: 619
+word_count: 622
 source_file: "corpus/03-breakwave/insights/2021/2021-05-03_global-dry-bulk-market-and-chinese-coal-market-remain-bullish.html"
 ---
 

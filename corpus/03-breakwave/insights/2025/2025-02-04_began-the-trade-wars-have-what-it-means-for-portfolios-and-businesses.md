@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/3/began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 6
-word_count: 2319
+word_count: 2325
 source_file: "corpus/03-breakwave/insights/2025/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses.html"
 ---
 

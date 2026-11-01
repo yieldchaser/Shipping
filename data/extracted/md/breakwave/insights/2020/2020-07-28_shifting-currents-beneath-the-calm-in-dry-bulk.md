@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/7/28/shifting-currents-beneath-the-calm-in-dry-bulk"
 tags: ["Shipping", "Dry Bulk", "Capesize", "Panamax"]
 images_count: 3
-word_count: 643
+word_count: 646
 source_file: "corpus/03-breakwave/insights/2020/2020-07-28_shifting-currents-beneath-the-calm-in-dry-bulk.html"
 ---
 

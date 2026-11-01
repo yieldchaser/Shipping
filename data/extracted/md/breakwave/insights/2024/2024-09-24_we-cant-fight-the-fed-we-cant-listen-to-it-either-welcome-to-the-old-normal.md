@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/24/we-cant-fight-the-fed-we-cant-listen-to-it-either-welcome-to-the-old-normal"
 tags: ["Markets", "Economy", "Macro"]
 images_count: 1
-word_count: 1564
+word_count: 1565
 source_file: "corpus/03-breakwave/insights/2024/2024-09-24_we-cant-fight-the-fed-we-cant-listen-to-it-either-welcome-to-the-old-normal.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/4/9/middle-east-is-not-the-place-to-look-at-for-european-re-supply"
 images_count: 4
-word_count: 1472
+word_count: 1476
 source_file: "corpus/03-breakwave/insights/2022/2022-04-09_middle-east-is-not-the-place-to-look-at-for-european-re-supply.html"
 ---
 

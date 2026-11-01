@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/6/india-likely-to-experience-largest-ever-blackouts-soon"
 tags: ["Energycrisis", "India", "Coal"]
 images_count: 1
-word_count: 548
+word_count: 549
 source_file: "corpus/03-breakwave/insights/2021/2021-10-07_india-likely-to-experience-largest-ever-blackouts-soon.html"
 ---
 

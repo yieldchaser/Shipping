@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/11/13/coal-indias-production-continues-to-grow-stockpiles-continue-to-declinenbsp"
 images_count: 2
-word_count: 283
+word_count: 285
 source_file: "corpus/03-breakwave/insights/2023/2023-11-13_coal-indias-production-continues-to-grow-stockpiles-continue-to-declinenbsp.html"
 ---
 

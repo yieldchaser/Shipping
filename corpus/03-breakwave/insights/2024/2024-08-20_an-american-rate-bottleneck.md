@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/20/an-american-rate-bottleneck"
 tags: ["Markets", "Economy", "Macro"]
 images_count: 8
-word_count: 1298
+word_count: 1306
 source_file: "corpus/03-breakwave/insights/2024/2024-08-20_an-american-rate-bottleneck.html"
 ---
 

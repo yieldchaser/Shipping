@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/7/10/v437ovio1v3vh8uqmk11rdyp5x6fur"
 images_count: 10
-word_count: 1362
+word_count: 1372
 source_file: "corpus/03-breakwave/insights/2023/2023-07-10_v437ovio1v3vh8uqmk11rdyp5x6fur.html"
 ---
 
@@ -70,7 +70,7 @@ The first week of July ends with a mixed picture of the dynamics as dirty oil fr
 > **Figure 5: Market Chart 5**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-07-10_v437ovio1v3vh8uqmk11rdyp5x6fur_img_unnamed-2023-07-10t125929936_a66c25caf5d1.png)
 
-- **MR1**rates for the**Baltic continent**are now around 130WS, 18 points lower than the levels of week 25
+- **MR1** rates for the **Baltic continent** are now around 130WS, 18 points lower than the levels of week 25
 
 - **MR2 rates for shipments from the continent to the U.S. rose to a level of about WS 170 at the beginning of the week, but in the following days the good mood was disappointed and the level fell to about WS 155.**
 
@@ -109,7 +109,7 @@ Crude oil tanker supply painted a mixed picture in the first few days of July, a
 > **Figure 9: ​​‘Dirty’tonne Days Mixed**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-07-10_v437ovio1v3vh8uqmk11rdyp5x6fur_img_unnamed-2023-07-10t130700372_678aa39b1990.png)
 
-- **Dirty**Tonne Days: Mixed dynamics are also evident in crude oil tanker demand trends, as the percentage increase in VLCC ton-miles now appears to be declining after a sustained increase in week 20 through the previous week. A downward trend can also be observed in the Aramax segment, while the downward trend in the Suezmax segment seems to have been overcome with a slight increase from the low in week 26.
+- **Dirty** Tonne Days: Mixed dynamics are also evident in crude oil tanker demand trends, as the percentage increase in VLCC ton-miles now appears to be declining after a sustained increase in week 20 through the previous week. A downward trend can also be observed in the Aramax segment, while the downward trend in the Suezmax segment seems to have been overcome with a slight increase from the low in week 26.
 
 ![‘Clean’tonne Days Panamax Increasing - MR Decreasing](assets/2023-07-10_v437ovio1v3vh8uqmk11rdyp5x6fur_img_unnamed-2023-07-10t130800394_f7358795ad29.png)
 

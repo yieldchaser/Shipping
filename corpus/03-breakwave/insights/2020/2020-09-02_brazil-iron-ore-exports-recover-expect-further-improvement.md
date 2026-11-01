@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/9/2/brazil-iron-ore-exports-recover-expect-further-improvement"
 tags: ["Brazil", "Capesize"]
 images_count: 3
-word_count: 454
+word_count: 457
 source_file: "corpus/03-breakwave/insights/2020/2020-09-02_brazil-iron-ore-exports-recover-expect-further-improvement.html"
 ---
 

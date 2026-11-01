@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/8/the-shipfix-blog-ukrainian-grain-exports-facing-renewed-uncertainty"
 images_count: 3
-word_count: 999
+word_count: 1002
 source_file: "corpus/03-breakwave/insights/2022/2022-11-08_the-shipfix-blog-ukrainian-grain-exports-facing-renewed-uncertainty.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/4/3/mazars-commentthe-mini-banking-crisis-is-mostly-over-thats-no-reason-to-relax"
 images_count: 3
-word_count: 1230
+word_count: 1233
 source_file: "corpus/03-breakwave/insights/2023/2023-04-03_mazars-commentthe-mini-banking-crisis-is-mostly-over-thats-no-reason-to-relax.html"
 ---
 

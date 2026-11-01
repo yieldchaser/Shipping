@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/19/trouble-in-tehran"
 tags: ["Tankers", "Crude", "Geopolitics"]
 images_count: 2
-word_count: 702
+word_count: 704
 source_file: "corpus/03-breakwave/insights/2026/2026-01-19_trouble-in-tehran.html"
 ---
 

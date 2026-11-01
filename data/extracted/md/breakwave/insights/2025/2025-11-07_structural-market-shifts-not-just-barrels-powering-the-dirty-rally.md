@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/7/structural-market-shifts-not-just-barrels-powering-the-dirty-rally"
 tags: ["Tankers", "Markets", "Shipping"]
 images_count: 9
-word_count: 1867
+word_count: 1876
 source_file: "corpus/03-breakwave/insights/2025/2025-11-07_structural-market-shifts-not-just-barrels-powering-the-dirty-rally.html"
 ---
 

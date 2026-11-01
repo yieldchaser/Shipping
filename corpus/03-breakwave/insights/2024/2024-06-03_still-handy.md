@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/3/still-handy"
 tags: ["Tankers", "Shipping", "Crude Oil"]
 images_count: 2
-word_count: 512
+word_count: 514
 source_file: "corpus/03-breakwave/insights/2024/2024-06-03_still-handy.html"
 ---
 

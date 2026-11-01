@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/8/31/no-margin-for-error"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 2
-word_count: 894
+word_count: 896
 source_file: "corpus/03-breakwave/insights/2026/2026-08-31_no-margin-for-error.html"
 ---
 

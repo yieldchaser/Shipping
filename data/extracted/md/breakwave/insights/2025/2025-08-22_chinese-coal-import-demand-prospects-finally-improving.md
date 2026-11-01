@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/22/chinese-coal-import-demand-prospects-finally-improving"
 tags: ["China", "Coal", "Drybulk"]
 images_count: 3
-word_count: 349
+word_count: 352
 source_file: "corpus/03-breakwave/insights/2025/2025-08-22_chinese-coal-import-demand-prospects-finally-improving.html"
 ---
 

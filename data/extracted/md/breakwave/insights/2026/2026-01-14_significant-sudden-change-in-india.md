@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/14/significant-sudden-change-in-india"
 tags: ["Drybulk", "Coal", "Capesizes"]
 images_count: 1
-word_count: 324
+word_count: 325
 source_file: "corpus/03-breakwave/insights/2026/2026-01-14_significant-sudden-change-in-india.html"
 ---
 

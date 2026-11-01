@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/4/6/signal-dry-bulk-weekly-report"
 tags: ["Shipping", "Dry Bulk", "Freight", "Rates"]
 images_count: 4
-word_count: 1222
+word_count: 1226
 source_file: "corpus/03-breakwave/insights/2022/2022-04-06_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -39,10 +39,10 @@ In the meantime, the grain market continues to face severe challenges in the sup
 
 A weaker sentiment of freight rates is mainly reflected in the smaller vessel size categories for this week, while freight rates for Capesize vessels are firmed up.
 
-- **Capesize**Brazil-to-North China freight rates increased above $26/t, while the past peak was Week 50, 2021 at levels of around $50/t.
-- **Panamax**Continent-to-Far East freight rates dropped to levels less than $55/t, but still keep robust levels compared to the bottom of $39/t during Week 4.
-- **Supramax**Indo-to-ECI freight rates appear in a free-fall with levels below $27/t.
-- **Handysize**NOPAC-to-Far East freight rates have continued their accelerated decline of the previous three weeks into the beginning of April and dropped to $63/t, which is almost $7/t down from the peak of Week 11.
+- **Capesize** Brazil-to-North China freight rates increased above $26/t, while the past peak was Week 50, 2021 at levels of around $50/t.
+- **Panamax** Continent-to-Far East freight rates dropped to levels less than $55/t, but still keep robust levels compared to the bottom of $39/t during Week 4.
+- **Supramax** Indo-to-ECI freight rates appear in a free-fall with levels below $27/t.
+- **Handysize** NOPAC-to-Far East freight rates have continued their accelerated decline of the previous three weeks into the beginning of April and dropped to $63/t, which is almost $7/t down from the peak of Week 11.
 
 ## Section 2 - Supply - Ballasters View
 
@@ -57,10 +57,10 @@ Supply Trend Lines for Key Load Areas
 
 The uptick of ballasters signals an increasing trend for all vessel size categories for the first days of April, however, the number of ballasters for the bigger vessels has grown at a comparatively slower pace.
 
-- **Capesize**SE Africa: The number of vessels sailing in ballast increased slightly this week to around 72 vessels, compared to around 69 during the last days of March. The number is now around 8 vessels less than the one-year average.
-- **Panamax**SE Africa: The number of vessels sailing in ballast is now around 75 vessels, which is 4 vessels more than the previous week. It remains at significantly lower levels over the last six weeks, however, it seems that the acceleration of decline is almost over, for now.
-- **Supramax**SE Asia: The number of vessels sailing in ballast recorded a sharp upward trajectory for the first days of April, with an increase to above 100 vessels, when last week ended with around 83 vessels in ballast status.
-- **Handysize**NOPAC: The number of vessels sailing in ballast keeps soaring levels for two consecutive weeks and it is now around 80 vessels, compared to less than 60 during the previous week.
+- **Capesize** SE Africa: The number of vessels sailing in ballast increased slightly this week to around 72 vessels, compared to around 69 during the last days of March. The number is now around 8 vessels less than the one-year average.
+- **Panamax** SE Africa: The number of vessels sailing in ballast is now around 75 vessels, which is 4 vessels more than the previous week. It remains at significantly lower levels over the last six weeks, however, it seems that the acceleration of decline is almost over, for now.
+- **Supramax** SE Asia: The number of vessels sailing in ballast recorded a sharp upward trajectory for the first days of April, with an increase to above 100 vessels, when last week ended with around 83 vessels in ballast status.
+- **Handysize** NOPAC: The number of vessels sailing in ballast keeps soaring levels for two consecutive weeks and it is now around 80 vessels, compared to less than 60 during the previous week.
 
 ## Section 3 - Demand - In Ton Days
 
@@ -73,11 +73,11 @@ The uptick of ballasters signals an increasing trend for all vessel size categor
 
 The overall trend of demand ton-days is decreasing, while the accelerated growth evidenced in the Panamax segment during the previous two weeks seems now to have paused.
 
-- **Capesize**demand ton-days: There is a sharp dropdown in the first days of April following the last peak during the previous week.
+- **Capesize** demand ton-days: There is a sharp dropdown in the first days of April following the last peak during the previous week.
 
-- **Panamax**demand ton-days: The accelerated growth of March has now paused for the beginning of this week, however, it eventually fetched the percentage level of increase of the Supramax.
-- **Supramax**demand ton-days: We see almost stability with no signs of spikes.
-- **Handysize**demand ton-days: Ton days growth continues slowing for a second consecutive week and we remain cautious about an increase in the short term.
+- **Panamax** demand ton-days: The accelerated growth of March has now paused for the beginning of this week, however, it eventually fetched the percentage level of increase of the Supramax.
+- **Supramax** demand ton-days: We see almost stability with no signs of spikes.
+- **Handysize** demand ton-days: Ton days growth continues slowing for a second consecutive week and we remain cautious about an increase in the short term.
 
 ## Section 4 - Chinese Port Congestions -
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/17/supply-recap-2025-the-silent-hand"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 8
-word_count: 1664
+word_count: 1672
 source_file: "corpus/03-breakwave/insights/2025/2025-12-17_supply-recap-2025-the-silent-hand.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/6/15/signal-dry-bulk-weekly-report"
 images_count: 4
-word_count: 1178
+word_count: 1182
 source_file: "corpus/03-breakwave/insights/2022/2022-06-15_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -42,10 +42,10 @@ In the grain market, the situation is still crucial with India emerging as an ac
 
 A weaker sentiment of freight rates persisted in all vessel size categories, with the Capesize and Handysize segments recording a noticeable downward trend following the last peak of Week 20.
 
-- **Capesize**Brazil-to-North China freight rates dropped to $32.5/t, $5.5/t less than the ending of Week 20.
-- **Panamax**Continent-to-Far East freight recorded a slight decrease to $55/t, while rates seemed to follow the pace of Week 10.
-- **Supramax**Indo-to-ECI freight rates held almost similar levels to one week ago at around $28/t, however, slightly weaker than Week 20.
-- **Handysize**NOPAC-to-Far East freight rates fell to $61/t with room for a further decrease. The current levels are now in a steep fall of $10/t less than the levels of Week 10.
+- **Capesize** Brazil-to-North China freight rates dropped to $32.5/t, $5.5/t less than the ending of Week 20.
+- **Panamax** Continent-to-Far East freight recorded a slight decrease to $55/t, while rates seemed to follow the pace of Week 10.
+- **Supramax** Indo-to-ECI freight rates held almost similar levels to one week ago at around $28/t, however, slightly weaker than Week 20.
+- **Handysize** NOPAC-to-Far East freight rates fell to $61/t with room for a further decrease. The current levels are now in a steep fall of $10/t less than the levels of Week 10.
 
 ## Section 2 - Supply - Ballasters View
 
@@ -58,10 +58,10 @@ A weaker sentiment of freight rates persisted in all vessel size categories, wit
 
 The number of ballasters increased over the last two weeks, with the number of ships standing nearly at the one-year average for the Capesize and Panamax segments.
 
-- **Capesize**SE Africa: The number of vessels sailing in ballast increased to 78 vessels, 23 vessels more than the ending of Week 20.
-- **Panamax**SE Africa: The number of vessels sailing in ballast is standing at nearly the one-year average, around 105 vessels, over the last two weeks.
-- **Supramax**SE Asia: The number of vessels sailing in ballast increased to 77 vessels, 4 vessels more than the last week, however, 10% down from the one-year average trend.
-- **Handysize**NOPAC: The number of vessels sustained very low levels over the last three weeks and stood at 49 vessels, 18% down from the peak of Week 21.
+- **Capesize** SE Africa: The number of vessels sailing in ballast increased to 78 vessels, 23 vessels more than the ending of Week 20.
+- **Panamax** SE Africa: The number of vessels sailing in ballast is standing at nearly the one-year average, around 105 vessels, over the last two weeks.
+- **Supramax** SE Asia: The number of vessels sailing in ballast increased to 77 vessels, 4 vessels more than the last week, however, 10% down from the one-year average trend.
+- **Handysize** NOPAC: The number of vessels sustained very low levels over the last three weeks and stood at 49 vessels, 18% down from the peak of Week 21.
 
 ## Section 3 - Demand - In Ton Days
 
@@ -74,10 +74,10 @@ The number of ballasters increased over the last two weeks, with the number of s
 
 The overall trend of demand ton-days sustained a decreasing trend except for signs of recovered demand growth in the Capesize segment.
 
-- **Capesize**demand ton-days: There are signs of revival over the last two weeks following the Chinese economy's return from lockdown.
-- **Panamax**demand ton-days: There is a downward revision following the last peak of Week 22, however, the current growth is significantly higher than the low of Week 20.
-- **Supramax**demand ton-days: There is a noticeable drop down in the last week, while the current levels seemed to be the weakest since the ending of Week 4, for the current year.
-- **Handysize**demand ton-days: There is a sustained decrease week over week, and seems likely to continue through the end of the current month.
+- **Capesize** demand ton-days: There are signs of revival over the last two weeks following the Chinese economy's return from lockdown.
+- **Panamax** demand ton-days: There is a downward revision following the last peak of Week 22, however, the current growth is significantly higher than the low of Week 20.
+- **Supramax** demand ton-days: There is a noticeable drop down in the last week, while the current levels seemed to be the weakest since the ending of Week 4, for the current year.
+- **Handysize** demand ton-days: There is a sustained decrease week over week, and seems likely to continue through the end of the current month.
 
 ## Section 4 - Chinese Port Congestions -
 

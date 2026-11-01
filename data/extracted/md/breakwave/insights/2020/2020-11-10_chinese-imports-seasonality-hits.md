@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/11/10/chinese-imports-seasonality-hits"
 tags: ["China", "Trade"]
 images_count: 3
-word_count: 639
+word_count: 642
 source_file: "corpus/03-breakwave/insights/2020/2020-11-10_chinese-imports-seasonality-hits.html"
 ---
 

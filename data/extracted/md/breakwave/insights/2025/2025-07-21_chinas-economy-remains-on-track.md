@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/21/chinas-economy-remains-on-track"
 tags: ["Ironore", "China", "Economy"]
 images_count: 2
-word_count: 1227
+word_count: 1229
 source_file: "corpus/03-breakwave/insights/2025/2025-07-21_chinas-economy-remains-on-track.html"
 ---
 

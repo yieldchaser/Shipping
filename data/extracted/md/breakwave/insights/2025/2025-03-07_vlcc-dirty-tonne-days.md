@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/7/vlcc-dirty-tonne-days"
 tags: ["Tankers", "Crude", "Markets"]
 images_count: 10
-word_count: 1478
+word_count: 1488
 source_file: "corpus/03-breakwave/insights/2025/2025-03-07_vlcc-dirty-tonne-days.html"
 ---
 

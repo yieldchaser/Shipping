@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/28/trade-tensions-back-on-the-trans-pacific-agenda"
 tags: ["China", "Australia", "Trade"]
 images_count: 3
-word_count: 872
+word_count: 875
 source_file: "corpus/03-breakwave/insights/2021/2021-05-28_trade-tensions-back-on-the-trans-pacific-agenda.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-05-28_trade-tensions-back-o
 
 *By Ulf Bergman*
 
-![Us China1](assets/2021-05-28_trade-tensions-back-on-the-trans-pacific-agenda_img_uschina1_5900e6b585e3.jpg)
+![Us China1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-28_trade-tensions-back-on-the-trans-pacific-agenda_img_uschina1_5900e6b585e3.jpg)
 
 > **Figure 1: Us China1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-28_trade-tensions-back-on-the-trans-pacific-agenda_img_uschina1_5900e6b585e3.jpg)
@@ -31,7 +31,7 @@ The trade tensions between the US and China of recent years have been largely ab
 
 The ambitious commitments made by China during the phase-one trade negotiations at the beginning of last year are yet to be met. While some progress has been made and, compared to last year, Chinese imports of US products have increased, they are still well below the agreed targets. According to the latest monthly analysis by the Peterson Institute for International Economics (PIIE), China has made only 73 per cent of its year-to-date targets for purchases of all covered products outlined in the agreement. There is also quite a difference between different product types, with agricultural imports doing relatively better than manufactured goods and energy. As of the end of April, the imports of US agricultural products had reached 87 per cent of their year-to-date targets, with manufactured products and energy at 71 and 56 per cent of their targets respectively.
 
-![Data Source:the Peterson Institute for International Economics](assets/2021-05-28_trade-tensions-back-on-the-trans-pacific-agenda_img_ulf528_02ee6a566f12.png)
+![Data Source:the Peterson Institute for International Economics](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-28_trade-tensions-back-on-the-trans-pacific-agenda_img_ulf528_02ee6a566f12.png)
 
 > **Figure 2: Data Source:the Peterson Institute for International Economics**  
 > *Data source:the Peterson Institute for International Economics*  
@@ -43,7 +43,7 @@ The high commodity prices, despite recent corrections, have helped China getting
 
 There is also a concern that the high commodity prices will drive inflation higher in China. Producer prices are on the rise, but consumer prices are still only registering modest increases. Beijing’s various attempts to try to control the commodity prices and inflationary pressures may however be aided by the strengthening of its currency. The yuan has been rallying since late March, amid the improving outlook for China’s economy, strong capital inflows and general dollar weakness. Although a stronger yuan will help to curb the imported inflation and rising commodity costs, it will also increase the price of exported goods. Hence, the Chinese central bank may act against the strengthening currency if it is starting to harm exports. In the meantime, the strength of the yuan is likely to contribute to a continued strong Chinese demand for commodities.
 
-![Ulf 2 5.28](assets/2021-05-28_trade-tensions-back-on-the-trans-pacific-agenda_img_ulf2528_7f895e768317.jpg)
+![Ulf 2 5.28](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-28_trade-tensions-back-on-the-trans-pacific-agenda_img_ulf2528_7f895e768317.jpg)
 
 > **Figure 3: Ulf 2 5.28**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-28_trade-tensions-back-on-the-trans-pacific-agenda_img_ulf2528_7f895e768317.jpg)

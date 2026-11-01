@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/14/chinas-outstanding-loan-growth-sets-another-record-low"
 tags: ["China", "Economy", "Markets"]
 images_count: 2
-word_count: 341
+word_count: 343
 source_file: "corpus/03-breakwave/insights/2025/2025-11-14_chinas-outstanding-loan-growth-sets-another-record-low.html"
 ---
 

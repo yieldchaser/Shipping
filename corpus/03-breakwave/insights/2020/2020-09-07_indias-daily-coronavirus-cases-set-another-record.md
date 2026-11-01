@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/9/4/indias-daily-coronavirus-cases-set-another-record"
 tags: ["Coronavirus", "India"]
 images_count: 1
-word_count: 177
+word_count: 178
 source_file: "corpus/03-breakwave/insights/2020/2020-09-07_indias-daily-coronavirus-cases-set-another-record.html"
 ---
 

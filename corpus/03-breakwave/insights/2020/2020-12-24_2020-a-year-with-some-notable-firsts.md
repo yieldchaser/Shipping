@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/12/23/2020-a-year-with-some-notable-firsts"
 tags: ["Crude Oil", "Dry Bulk", "Capesize"]
 images_count: 2
-word_count: 784
+word_count: 786
 source_file: "corpus/03-breakwave/insights/2020/2020-12-24_2020-a-year-with-some-notable-firsts.html"
 ---
 

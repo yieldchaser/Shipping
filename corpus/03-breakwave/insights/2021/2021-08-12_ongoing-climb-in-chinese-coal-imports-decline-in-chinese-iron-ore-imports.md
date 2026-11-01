@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/12/ongoing-climb-in-chinese-coal-imports-decline-in-chinese-iron-ore-imports"
 tags: ["Coal", "Shipping", "China"]
 images_count: 2
-word_count: 507
+word_count: 509
 source_file: "corpus/03-breakwave/insights/2021/2021-08-12_ongoing-climb-in-chinese-coal-imports-decline-in-chinese-iron-ore-imports.html"
 ---
 

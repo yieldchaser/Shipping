@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/15/panamax-market-insights"
 tags: ["Drybulk", "Shipping", "Freightrates"]
 images_count: 5
-word_count: 1157
+word_count: 1162
 source_file: "corpus/03-breakwave/insights/2024/2024-05-15_panamax-market-insights.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-05-15_panamax-market-insigh
 ---
 
 **Dry Weekly Market Monitor - Week 20.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 May 15, 2024
 
 ![Στιγμιότυπο Οθόνης 2024 05 15 170056](assets/2024-05-15_panamax-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_860880412a05.png)
@@ -29,7 +29,7 @@ May 15, 2024
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 15 170056**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ess-ahead-of-fridays-data-html/2q68qh/408050057/h/sVNa-wsIgJzQVaN4if93yG9I0CcX6ScLPI2OsAdl8dM) | [Local Asset](assets/2024-05-15_panamax-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_860880412a05.png)
 
-The month of May presents challenges for the Capesize freight market prices, as uncertainties loom over Chinese macroeconomic fundamentals, potentially impacting future growth and demand. As China moves into the second quarter,[various indicators](https://go.signalocean.com/e/983831/ess-ahead-of-fridays-data-html/2q68qh/408050057/h/sVNa-wsIgJzQVaN4if93yG9I0CcX6ScLPI2OsAdl8dM)hint at the possibility of sluggish economic expansion unless conditions improve, leading to heightened expectations for monetary policy adjustments. Over the weekend, the People’s Bank of China disclosed April’s new loan data, revealing a significant decline in demand. Several metrics hit their lowest levels in at least two decades, painting a concerning picture of the economic landscape. Moreover, on Friday, China is slated to issue its inaugural 30-year ultra-long bond, signalling the commencement of a previously announced initiative aimed at raising 1 trillion yuan ($138.25 billion) for pivotal strategic projects.
+The month of May presents challenges for the Capesize freight market prices, as uncertainties loom over Chinese macroeconomic fundamentals, potentially impacting future growth and demand. As China moves into the second quarter,[various indicators](https://go.signalocean.com/e/983831/ess-ahead-of-fridays-data-html/2q68qh/408050057/h/sVNa-wsIgJzQVaN4if93yG9I0CcX6ScLPI2OsAdl8dM) hint at the possibility of sluggish economic expansion unless conditions improve, leading to heightened expectations for monetary policy adjustments. Over the weekend, the People’s Bank of China disclosed April’s new loan data, revealing a significant decline in demand. Several metrics hit their lowest levels in at least two decades, painting a concerning picture of the economic landscape. Moreover, on Friday, China is slated to issue its inaugural 30-year ultra-long bond, signalling the commencement of a previously announced initiative aimed at raising 1 trillion yuan ($138.25 billion) for pivotal strategic projects.
 
 This week's chart delves into the correlation between the number of ballast Panamax vessels for the Baltic Panamax P6_82 Singapore route via the Atlantic and the performance of Baltic freight assessments for this route since January 2022. As depicted in the graph above, the count of Panamax ballasters in ECSA has exhibited a continuous upward trend since the end of January 2024, exerting downward pressure on the evolution of freight assessments. While the end of the third quarter of the year saw a somewhat more stable environment, it remained weaker than the peak observed in mid-March.
 
@@ -40,10 +40,10 @@ This week's chart delves into the correlation between the number of ballast Pana
 
 In the second week of May, there is a mixed outlook in the evolution of market prices. The Panamax Continent FE route shows signs of recovery, while rates in the Capesize Brazil-N China route remain under a negative pressure.
 
-- **Capesize**vessel freight rates for shipments from Brazil to North China currently stand at approximately $26 per ton, reflecting a 4% decrease compared to the previous week. Nonetheless, it's noteworthy that present levels are still 19% higher than they were a year ago.
-- **Panamax**vessel freight rates from the Continent to the Far East have remained robust, around $46 per ton. Recent data indicates a notable 23% surge compared to levels observed a year ago.
-- **Supramax**vessel freight rates on the Indo-ECI route rose to $13 per ton, marking a 44% increase compared to a comparable week from a year ago.
-- **Handysize**freight rates for the NOPAC Far East route experienced a decline of approximately $35 per ton. Despite this, they exhibit a notable 20% annual upswing.
+- **Capesize** vessel freight rates for shipments from Brazil to North China currently stand at approximately $26 per ton, reflecting a 4% decrease compared to the previous week. Nonetheless, it's noteworthy that present levels are still 19% higher than they were a year ago.
+- **Panamax** vessel freight rates from the Continent to the Far East have remained robust, around $46 per ton. Recent data indicates a notable 23% surge compared to levels observed a year ago.
+- **Supramax** vessel freight rates on the Indo-ECI route rose to $13 per ton, marking a 44% increase compared to a comparable week from a year ago.
+- **Handysize** freight rates for the NOPAC Far East route experienced a decline of approximately $35 per ton. Despite this, they exhibit a notable 20% annual upswing.
 
 ![Στιγμιότυπο Οθόνης 2024 05 15 170452](assets/2024-05-15_panamax-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c46539435eef.png)
 

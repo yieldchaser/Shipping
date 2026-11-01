@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/20/a-lot-can-happen-in-a-week"
 tags: ["Tankers", "Shipping", "Crude"]
 images_count: 2
-word_count: 699
+word_count: 701
 source_file: "corpus/03-breakwave/insights/2025/2025-01-20_a-lot-can-happen-in-a-week.html"
 ---
 

@@ -27,7 +27,7 @@ Summary
 
 - *However, markets didn’t cheer. Unlike her predecessor, Mr Draghi, Ms Lagarde was careful to properly caveat the endeavour. But a careful read through, suggests that there was no need for bold words. The ECB is much better equipped now to face crises.*
 
-- *Since the onset of this new crisis, the Euro has been the biggest risk on our radar. It still is. The European bond market is stressed, and so is the currency. But so far, it is not* ***di****stressed. We feel that markets might eventually try to test Ms Lagarde. Having said that, following last Thursday’s policy announcement we feel more confident that attacks on the Euro might be thwarted.*
+- *Since the onset of this new crisis, the Euro has been the biggest risk on our radar. It still is. The European bond market is stressed, and so is the currency. But so far, it is not* ***di*** *stressed. We feel that markets might eventually try to test Ms Lagarde. Having said that, following last Thursday’s policy announcement we feel more confident that attacks on the Euro might be thwarted.*
 
 In 2012, Mario Draghi, then Chair of the ECB, was staring down the barrel of the the total collapse of the Euro. At the height of the crisis, he stood up and boldly [pronounced](https://www.youtube.com/watch?v=tB2CM2ngpQg):
 
@@ -74,4 +74,4 @@ As investors, we think there are two conclusions after the ECB’s heavily cavea
 
 **Since the onset of this new crisis, the Euro has been the biggest risk on our radar. It still is.**
 
-**The European bond market is stressed, and so is the currency. But so far, it is not *di*stressed. We feel that markets might eventually try to test Ms Lagarde. Having said that, following last Thursday’s policy announcement we feel more confident that attacks on the Euro might be thwarted.**
+**The European bond market is stressed, and so is the currency. But so far, it is not *di* stressed. We feel that markets might eventually try to test Ms Lagarde. Having said that, following last Thursday’s policy announcement we feel more confident that attacks on the Euro might be thwarted.**

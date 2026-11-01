@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/2/10/lunar-new-year-and-container-rates-nothing-like-we-have-witnessed-before"
 tags: ["Shipping", "Cargo", "Containers"]
 images_count: 2
-word_count: 945
+word_count: 947
 source_file: "corpus/03-breakwave/insights/2022/2022-02-10_lunar-new-year-and-container-rates-nothing-like-we-have-witnessed-before.html"
 ---
 

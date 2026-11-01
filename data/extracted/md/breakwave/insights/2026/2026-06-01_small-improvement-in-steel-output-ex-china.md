@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/6/1/small-improvement-in-steel-output-ex-china"
 tags: ["Ironore", "Shipping", "Markets"]
 images_count: 3
-word_count: 315
+word_count: 318
 source_file: "corpus/03-breakwave/insights/2026/2026-06-01_small-improvement-in-steel-output-ex-china.html"
 ---
 

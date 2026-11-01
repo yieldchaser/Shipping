@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/11/5/iron-ore-hero-to-zero-yet-again"
 tags: ["Iron Ore", "Steel", "Price", "Economy"]
 images_count: 4
-word_count: 835
+word_count: 839
 source_file: "corpus/03-breakwave/insights/2021/2021-11-05_iron-ore-hero-to-zero-yet-again.html"
 ---
 

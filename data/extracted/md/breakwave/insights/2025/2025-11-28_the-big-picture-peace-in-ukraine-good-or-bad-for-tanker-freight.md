@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/28/the-big-picture-peace-in-ukraine-good-or-bad-for-tanker-freight"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 1
-word_count: 1152
+word_count: 1153
 source_file: "corpus/03-breakwave/insights/2025/2025-11-28_the-big-picture-peace-in-ukraine-good-or-bad-for-tanker-freight.html"
 ---
 

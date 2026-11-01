@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/29/iron-ore-the-australian-government-expects-softer-prices-but-with-continued-growth-in-global-trade-volumes"
 tags: ["China"]
 images_count: 3
-word_count: 932
+word_count: 935
 source_file: "corpus/03-breakwave/insights/2021/2021-06-29_iron-ore-the-australian-government-expects-softer-prices-but-with-continued-grow.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/11/28/shipfix-global-market-update"
 images_count: 3
-word_count: 1473
+word_count: 1476
 source_file: "corpus/03-breakwave/insights/2023/2023-11-28_shipfix-global-market-update.html"
 ---
 

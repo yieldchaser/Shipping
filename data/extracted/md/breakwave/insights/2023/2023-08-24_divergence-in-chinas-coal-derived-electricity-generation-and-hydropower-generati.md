@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/8/23/divergence-in-chinas-coal-derived-electricity-generation-and-hydropower-generation-continues"
 images_count: 2
-word_count: 312
+word_count: 314
 source_file: "corpus/03-breakwave/insights/2023/2023-08-24_divergence-in-chinas-coal-derived-electricity-generation-and-hydropower-generati.html"
 ---
 

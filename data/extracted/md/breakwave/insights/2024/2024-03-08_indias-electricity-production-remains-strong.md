@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/8/indias-electricity-production-remains-strong"
 tags: ["India", "Economy", "Energy"]
 images_count: 3
-word_count: 362
+word_count: 365
 source_file: "corpus/03-breakwave/insights/2024/2024-03-08_indias-electricity-production-remains-strong.html"
 ---
 

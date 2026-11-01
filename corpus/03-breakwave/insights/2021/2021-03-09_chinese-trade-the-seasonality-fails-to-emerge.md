@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/8/chinese-trade-the-seasonality-fails-to-emerge"
 tags: ["China"]
 images_count: 2
-word_count: 817
+word_count: 819
 source_file: "corpus/03-breakwave/insights/2021/2021-03-09_chinese-trade-the-seasonality-fails-to-emerge.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/5/chinas-consumer-sector-remains-weak"
 tags: ["China", "Economy", "Markets"]
 images_count: 1
-word_count: 172
+word_count: 173
 source_file: "corpus/03-breakwave/insights/2026/2026-02-05_chinas-consumer-sector-remains-weak.html"
 ---
 

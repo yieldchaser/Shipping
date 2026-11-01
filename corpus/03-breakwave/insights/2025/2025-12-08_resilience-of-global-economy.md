@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/7/resilience-of-global-economy"
 tags: ["Markets", "Economy"]
 images_count: 1
-word_count: 1163
+word_count: 1164
 source_file: "corpus/03-breakwave/insights/2025/2025-12-08_resilience-of-global-economy.html"
 ---
 

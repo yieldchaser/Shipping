@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/5/ongoing-global-industrial-improvement"
 tags: ["Commodities", "Markets", "Economies"]
 images_count: 3
-word_count: 410
+word_count: 413
 source_file: "corpus/03-breakwave/insights/2026/2026-03-05_ongoing-global-industrial-improvement.html"
 ---
 

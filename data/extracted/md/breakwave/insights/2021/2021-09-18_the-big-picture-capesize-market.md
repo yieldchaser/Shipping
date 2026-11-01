@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/17/the-big-picture-capesize-market"
 tags: ["Shipping", "Economy", "Capesize"]
 images_count: 4
-word_count: 1015
+word_count: 1019
 source_file: "corpus/03-breakwave/insights/2021/2021-09-18_the-big-picture-capesize-market.html"
 ---
 
@@ -30,7 +30,7 @@ The Cape index is back above $50,000 mark, and sentiment for the coming months r
 
 This week, average Capesize rates hit a fresh milestone, soaring again past the $50,000 mark to a high of $53,692 per day. This figure is almost three times higher than average rates over the past decade and marks the highest level of earnings since June 2010.
 
-![Ch1](assets/2021-09-18_the-big-picture-capesize-market_img_ch1_f22dd2290282.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-18_the-big-picture-capesize-market_img_ch1_f22dd2290282.png)
 
 > **Figure 1: Ch1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-18_the-big-picture-capesize-market_img_ch1_f22dd2290282.png)
@@ -45,7 +45,7 @@ And as we have also covered previously, underlying the Cape market we still have
 
 The FFA market has also been extremely hot and equally sensitive to these changes, though the ongoing surge in freight appears to have been priced into the forward curve for several weeks. The September contract, for example, is currently trading around where it was about a month ago.
 
-![Ch2](assets/2021-09-18_the-big-picture-capesize-market_img_ch2_a38c823374b1.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-18_the-big-picture-capesize-market_img_ch2_a38c823374b1.png)
 
 > **Figure 2: Ch2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-18_the-big-picture-capesize-market_img_ch2_a38c823374b1.png)
@@ -56,12 +56,12 @@ There has however been a significant movement in futures for Q1 2022, which are 
 
 Amid this frenzy, we are at the same time receiving alarming signals from China, which is by far the most important driver of the dry market. Yesterday we learned that steel output dropped by more than 12% YoY in August to 83.2m tonnes, the greatest YoY slump in percentage terms since the Global Financial Crisis. Over the first half of the year, authorities failed to meet targets of flat output levels relative to 2020, but over the last couple of months capacity cuts have been far more aggressive than we expected. In absolute terms, August’s YoY drop of 11.6m tonnes marked the greatest ever.
 
-![Ch3](assets/2021-09-18_the-big-picture-capesize-market_img_ch3_c57e43c3a321.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-18_the-big-picture-capesize-market_img_ch3_c57e43c3a321.png)
 
 > **Figure 3: Ch3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-18_the-big-picture-capesize-market_img_ch3_c57e43c3a321.png)
 
-![Ch4](assets/2021-09-18_the-big-picture-capesize-market_img_ch4_45055e79f5a5.png)
+![Ch4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-18_the-big-picture-capesize-market_img_ch4_45055e79f5a5.png)
 
 > **Figure 4: Ch4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-18_the-big-picture-capesize-market_img_ch4_45055e79f5a5.png)

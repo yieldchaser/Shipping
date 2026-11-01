@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/19/weekly-insights-review"
 tags: ["Shipping", "Economy", "Markets"]
 images_count: 13
-word_count: 1368
+word_count: 1381
 source_file: "corpus/03-breakwave/insights/2024/2024-07-19_weekly-insights-review.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/28/weekly-insights-review"
 tags: ["Drybulk", "Tankers", "Economy"]
 images_count: 14
-word_count: 1348
+word_count: 1362
 source_file: "corpus/03-breakwave/insights/2024/2024-06-28_weekly-insights-review.html"
 ---
 
@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-06-28_weekly-insights-revie
 
 ## Breakwave Tanker Report
 
-**Volatility Declines as Spot Rates Remain Rangebound**– Not much has changed over the past fortnight, as Capesize spot rates hover in the mid/low-20,000s range and the**futures**curve remains relatively**flat to spot.**
+**Volatility Declines as Spot Rates Remain Rangebound**– Not much has changed over the past fortnight, as Capesize spot rates hover in the mid/low-20,000s range and the **futures** curve remains relatively **flat to spot.**
 
 ![Στιγμιότυπο Οθόνης 2024 06 25 122324](assets/2024-06-28_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f0721b611ce5.png)
 

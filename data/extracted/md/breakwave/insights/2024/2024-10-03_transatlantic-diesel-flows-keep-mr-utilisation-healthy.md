@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/3/transatlantic-diesel-flows-keep-mr-utilisation-healthy"
 tags: ["Tankers", "Shipping", "Crude"]
 images_count: 4
-word_count: 1279
+word_count: 1283
 source_file: "corpus/03-breakwave/insights/2024/2024-10-03_transatlantic-diesel-flows-keep-mr-utilisation-healthy.html"
 ---
 

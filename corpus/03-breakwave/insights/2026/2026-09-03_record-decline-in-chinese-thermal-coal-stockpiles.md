@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/3/record-decline-in-chinese-thermal-coal-stockpiles"
 tags: ["China", "Coal", "Commodities"]
 images_count: 1
-word_count: 187
+word_count: 188
 source_file: "corpus/03-breakwave/insights/2026/2026-09-03_record-decline-in-chinese-thermal-coal-stockpiles.html"
 ---
 

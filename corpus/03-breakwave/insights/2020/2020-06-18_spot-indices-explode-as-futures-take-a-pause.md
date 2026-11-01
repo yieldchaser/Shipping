@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/18/spot-indices-explode-as-futures-take-a-pause"
 tags: ["Shipping", "Dry Bulk", "Capesize", "Panamax"]
 images_count: 2
-word_count: 335
+word_count: 337
 source_file: "corpus/03-breakwave/insights/2020/2020-06-18_spot-indices-explode-as-futures-take-a-pause.html"
 ---
 

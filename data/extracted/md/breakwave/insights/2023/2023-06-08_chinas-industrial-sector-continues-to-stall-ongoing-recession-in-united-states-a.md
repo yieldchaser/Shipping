@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/6/8/chinas-industrial-sector-continues-to-stall-ongoing-recession-in-united-states-and-other-nations"
 images_count: 3
-word_count: 467
+word_count: 470
 source_file: "corpus/03-breakwave/insights/2023/2023-06-08_chinas-industrial-sector-continues-to-stall-ongoing-recession-in-united-states-a.html"
 ---
 

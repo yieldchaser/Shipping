@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/7/10/indias-drastic-improvement-continues"
 tags: ["Coal", "Commodities", "Drybulk"]
 images_count: 3
-word_count: 368
+word_count: 371
 source_file: "corpus/03-breakwave/insights/2026/2026-07-10_indias-drastic-improvement-continues.html"
 ---
 

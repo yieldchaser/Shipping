@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/21/declining-trend-in-vlcc-ballast-speeds"
 tags: ["Shipping", "Tankers", "Crude"]
 images_count: 10
-word_count: 1627
+word_count: 1637
 source_file: "corpus/03-breakwave/insights/2024/2024-06-21_declining-trend-in-vlcc-ballast-speeds.html"
 ---
 

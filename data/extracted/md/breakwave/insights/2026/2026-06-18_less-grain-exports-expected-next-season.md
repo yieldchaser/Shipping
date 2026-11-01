@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/6/18/less-grain-exports-expected-next-season"
 tags: ["Commodities", "Markets", "Grains"]
 images_count: 1
-word_count: 285
+word_count: 286
 source_file: "corpus/03-breakwave/insights/2026/2026-06-18_less-grain-exports-expected-next-season.html"
 ---
 

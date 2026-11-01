@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/24/more-chinese-infrastructure-investments-will-benefit-tonnage-demand"
 tags: ["Economy", "China", "Investments"]
 images_count: 1
-word_count: 752
+word_count: 753
 source_file: "corpus/03-breakwave/insights/2021/2021-09-24_more-chinese-infrastructure-investments-will-benefit-tonnage-demand.html"
 ---
 
@@ -36,7 +36,7 @@ The seaborne volumes of iron ore are unlikely to continue to grow at the spectac
 
 The current congestion in and around many ports in China have contributed to the Baltic Dry Index reaching its highest level since 2009. A record number of vessels are currently waiting to discharge their cargo, but pandemic-related delays keep the ships idle. The extended waiting times is reducing the tonnage supply and push freight rates higher. As long as the coronavirus remains a problem, port closures will create supply-chain bottlenecks and congestion, which is terrible news for the shippers. Still, great news for the shipowners as tonnage supply gets decimated. Hence, the outlook for dry bulk charter rates remains positive.
 
-![Ch1](assets/2021-09-24_more-chinese-infrastructure-investments-will-benefit-tonnage-demand_img_ch1_2bdda01cb55c.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-24_more-chinese-infrastructure-investments-will-benefit-tonnage-demand_img_ch1_2bdda01cb55c.png)
 
 > **Figure 1: Ch1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-24_more-chinese-infrastructure-investments-will-benefit-tonnage-demand_img_ch1_2bdda01cb55c.png)

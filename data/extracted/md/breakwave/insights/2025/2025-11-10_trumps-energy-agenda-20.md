@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/10/trumps-energy-agenda-20"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 2
-word_count: 889
+word_count: 891
 source_file: "corpus/03-breakwave/insights/2025/2025-11-10_trumps-energy-agenda-20.html"
 ---
 

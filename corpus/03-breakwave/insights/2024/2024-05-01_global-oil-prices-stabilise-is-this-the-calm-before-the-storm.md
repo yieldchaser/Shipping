@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/1/global-oil-prices-stabilise-is-this-the-calm-before-the-storm"
 tags: ["Shipping", "Crude Oil", "Tankers"]
 images_count: 2
-word_count: 940
+word_count: 942
 source_file: "corpus/03-breakwave/insights/2024/2024-05-01_global-oil-prices-stabilise-is-this-the-calm-before-the-storm.html"
 ---
 

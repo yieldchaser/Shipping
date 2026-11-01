@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/10/mazars-how-to-invest-in-an-unbalanced-world"
 images_count: 4
-word_count: 1244
+word_count: 1248
 source_file: "corpus/03-breakwave/insights/2022/2022-10-10_mazars-how-to-invest-in-an-unbalanced-world.html"
 ---
 

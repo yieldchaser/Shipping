@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/8/14/oil-retraces-amid-a-stalemate-in-us-iran-talks"
 tags: ["Commodities", "Shipping", "Markets"]
 images_count: 2
-word_count: 872
+word_count: 874
 source_file: "corpus/03-breakwave/insights/2026/2026-08-14_oil-retraces-amid-a-stalemate-in-us-iran-talks.html"
 ---
 
@@ -31,7 +31,7 @@ Energy fell as oil supplies find their way out of the Persian Gulf. Precious met
 
 ### Market Commentary
 
-**Crude oil**prices fell as traders weighed up the limited progress of talks on reopening the Strait of Hormuz with signs of oil flows rising. Earlier this week US Energy Secretary, Chris Wright, said flows have averaged 9mb/d over the past week, well above what ship tracking data suggest. Persian Gulf producers such as the UAE and Saudi Arabia are said to be doing what they can to keep exports flowing, including switching transponders to move cargo through the strait without detection. This has led to an increased amount of crude from the Middle East finding its way to the US. At least 9mbbl are set to arrive at US ports in August, according to maritime analytics firm Kpler. This comes as US imports from Venezuela rise to their highest in nine years.
+**Crude oil** prices fell as traders weighed up the limited progress of talks on reopening the Strait of Hormuz with signs of oil flows rising. Earlier this week US Energy Secretary, Chris Wright, said flows have averaged 9mb/d over the past week, well above what ship tracking data suggest. Persian Gulf producers such as the UAE and Saudi Arabia are said to be doing what they can to keep exports flowing, including switching transponders to move cargo through the strait without detection. This has led to an increased amount of crude from the Middle East finding its way to the US. At least 9mbbl are set to arrive at US ports in August, according to maritime analytics firm Kpler. This comes as US imports from Venezuela rise to their highest in nine years.
 
 However, oil pared back some of the earlier losses after reports emerged that the Iranian-backed Houthi militant group had targeted Saudi Aramco’s oil refinery in Jazan on the Red Sea Coast. It’s the second such attack by the group on the refinery in less than a week. Progress on talks to reopen Hormuz have also stalled. Both sides claim they have control of the waterway and are demanding concessions that are unlikely to be met, leaving a durable peace elusive. According to the International Energy Agency, the global oil market will subsequently face a shortfall of 1.8mb/d this quarter, more than double an earlier projection.
 

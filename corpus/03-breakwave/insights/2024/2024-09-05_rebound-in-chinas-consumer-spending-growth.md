@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/5/rebound-in-chinas-consumer-spending-growth"
 tags: ["Markets", "China", "Economy"]
 images_count: 3
-word_count: 348
+word_count: 351
 source_file: "corpus/03-breakwave/insights/2024/2024-09-05_rebound-in-chinas-consumer-spending-growth.html"
 ---
 

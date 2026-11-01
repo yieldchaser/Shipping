@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/9/will-the-second-half-of-the-year-see-seasonality-returning"
 tags: ["Commodities", "Shipping"]
 images_count: 4
-word_count: 1030
+word_count: 1034
 source_file: "corpus/03-breakwave/insights/2021/2021-07-09_will-the-second-half-of-the-year-see-seasonality-returning.html"
 ---
 
@@ -28,7 +28,7 @@ The year has so far seen seasonality taking an extended leave of absence across 
 
 Iron ore has received much of the attention since China embarked on its post-COVID recovery, as the country’s seemingly insatiable appetite for the commodity pushed prices ever higher. Recent attempts by the Chinese authorities to control the soaring prices have to date only been modestly successful, with prices only marginally below the highs recorded in May. Rising global demand has offset much of the Chinese efforts and, according to some pundits, it is questionable if the price controls will have any long-term effect. According to data from Oceanbolt, the first six months of the year saw 772 million tonnes of iron ore shipped across the oceans, which is a record for the period. During the period 2015 to 2020 seaborne iron ore volumes were on average ten per cent higher during the second half of the year compared to the first half. Hence, it can be expected that the iron ore trade will continue to support the freight rates with increasing tonnage demand.
 
-![A1](assets/2021-07-09_will-the-second-half-of-the-year-see-seasonality-returning_img_a1_213a6d892f3e.png)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-09_will-the-second-half-of-the-year-see-seasonality-returning_img_a1_213a6d892f3e.png)
 
 > **Figure 1: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-09_will-the-second-half-of-the-year-see-seasonality-returning_img_a1_213a6d892f3e.png)
@@ -37,19 +37,19 @@ A simplistic approach to modelling the seaborne volumes for the coming six month
 
 The increasing export volumes from Brazil in recent months suggest that the much-anticipated recovery for the country’s iron ore production is starting to gain some traction, after a long period of sub-par output levels. July has also started strongly, with around eight million tonnes exported during the first eight days and putting it on track of matching the previous months. The increasing Brazilian production is good news for the shipping sector, with China likely to buy most of it to reduce its reliance on Australian iron ore with increasing the tonne-mile demand as a result. At the same time as the Brazilian output has been on the increase, Australian export volumes declined in June compared to the same month a year ago suggesting that there is additional capacity available should global demand increase further.
 
-![A2](assets/2021-07-09_will-the-second-half-of-the-year-see-seasonality-returning_img_a2_1bffadac0b16.png)
+![A2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-09_will-the-second-half-of-the-year-see-seasonality-returning_img_a2_1bffadac0b16.png)
 
 > **Figure 2: A2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-09_will-the-second-half-of-the-year-see-seasonality-returning_img_a2_1bffadac0b16.png)
 
-Adding to the bullish case for the second half of the year is the**low inventory levels of iron ore**in many Chinese ports. Data from Tathya.earth covering the two largest iron ore ports, Caofeidian and Jingtang, highlights the downward trajectory for the stockpiles. While the data is volatile by nature, the trend has been building since April/May for the two ports and could indicate that we will see increasing Chinese iron ore imports in the near future.
+Adding to the bullish case for the second half of the year is the **low inventory levels of iron ore** in many Chinese ports. Data from Tathya.earth covering the two largest iron ore ports, Caofeidian and Jingtang, highlights the downward trajectory for the stockpiles. While the data is volatile by nature, the trend has been building since April/May for the two ports and could indicate that we will see increasing Chinese iron ore imports in the near future.
 
-![A3](assets/2021-07-09_will-the-second-half-of-the-year-see-seasonality-returning_img_a3_7e7b87f3832d.png)
+![A3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-09_will-the-second-half-of-the-year-see-seasonality-returning_img_a3_7e7b87f3832d.png)
 
 > **Figure 3: A3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-09_will-the-second-half-of-the-year-see-seasonality-returning_img_a3_7e7b87f3832d.png)
 
-![A4](assets/2021-07-09_will-the-second-half-of-the-year-see-seasonality-returning_img_a4_f75021b87316.png)
+![A4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-09_will-the-second-half-of-the-year-see-seasonality-returning_img_a4_f75021b87316.png)
 
 > **Figure 4: A4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-09_will-the-second-half-of-the-year-see-seasonality-returning_img_a4_f75021b87316.png)

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/7/excess-housing-supply-remains-extreme-in-china"
 tags: ["Markets", "China", "Economy"]
 images_count: 3
-word_count: 271
+word_count: 274
 source_file: "corpus/03-breakwave/insights/2025/2025-07-07_excess-housing-supply-remains-extreme-in-china.html"
 ---
 

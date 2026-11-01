@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/10/19/will-us-product-exports-continue-at-current-levels-as-refining-margins-fall"
 images_count: 3
-word_count: 1157
+word_count: 1160
 source_file: "corpus/03-breakwave/insights/2023/2023-10-19_will-us-product-exports-continue-at-current-levels-as-refining-margins-fall.html"
 ---
 
@@ -36,7 +36,7 @@ US transportation fuel exports have remained above seasonal averages so far in t
 
 ## Refinery Throughputs and Utilizations Keep Falling
 
-According to weekly data released by the EIA,[crude oil inputs to refineries and utilizations](assets/2023-10-19_will-us-product-exports-continue-at-current-levels-as-refining-margins-fall_pet-pnp-wiup-dcu-nus-w_71176a83c0b4.htm)have been falling for five consecutive weeks with utilization falling below 90%. Along with seasonal maintenance, unplanned outages in PADD 3 and PADD 5 refineries could only serve to impact product exports. As discussed above, refining margins have fallen across most of the PADDs in the US apart from PADD 2 where diesel demand remains high due to the annual harvest season and supply tightness due to ongoing turnarounds.
+According to weekly data released by the EIA,[crude oil inputs to refineries and utilizations](assets/2023-10-19_will-us-product-exports-continue-at-current-levels-as-refining-margins-fall_pet-pnp-wiup-dcu-nus-w_71176a83c0b4.htm) have been falling for five consecutive weeks with utilization falling below 90%. Along with seasonal maintenance, unplanned outages in PADD 3 and PADD 5 refineries could only serve to impact product exports. As discussed above, refining margins have fallen across most of the PADDs in the US apart from PADD 2 where diesel demand remains high due to the annual harvest season and supply tightness due to ongoing turnarounds.
 
 ![Us Ref Products Oct 2 1](assets/2023-10-19_will-us-product-exports-continue-at-current-levels-as-refining-margins-fall_img_us-ref-products-oct-2-1_354dd1ec55ad.png)
 

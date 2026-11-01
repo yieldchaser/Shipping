@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/27/the-us-economy-remains-on-the-path-to-recovery-and-beyond"
 tags: ["Usa", "Economy", "Shipping"]
 images_count: 2
-word_count: 858
+word_count: 860
 source_file: "corpus/03-breakwave/insights/2021/2021-08-28_the-us-economy-remains-on-the-path-to-recovery-and-beyond.html"
 ---
 
@@ -28,14 +28,14 @@ The US corporate profits also surged during the second quarter to a new record, 
 
 US exports can also be expected to pick up during the second half of the year, as the new harvest of grains is getting ready to ship. The dominance of agricultural commodities in the dry bulk trade out of the US gives a significant seasonal variation, especially when inventories are as low as they are currently.
 
-![A1](assets/2021-08-28_the-us-economy-remains-on-the-path-to-recovery-and-beyond_img_a1_425052088335.png)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-28_the-us-economy-remains-on-the-path-to-recovery-and-beyond_img_a1_425052088335.png)
 
 > **Figure 1: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-28_the-us-economy-remains-on-the-path-to-recovery-and-beyond_img_a1_425052088335.png)
 
 While the number of shipments of US coal to Chinese ports is on the rise, as buyers in China are seeking to replace the banned Australian coal, the average monthly volumes of coal still only account for a bit more than half of the volumes of the grains. However, the coal shipments tend to lack the seasonality that the exports of agricultural commodities are exhibiting and remain reasonably stable throughout the year. The important role of the grains in the dry bulk trade out of US ports and the smaller shipments of coal has resulted in the trade being dominated by the smaller and mid-sized vessels, while the largest tonnage barely features in the transportation mix. Hence, once the shipments of the new harvest get underway it can be expected to provide support to the Panamax and Supramax freight rates.
 
-![A2](assets/2021-08-28_the-us-economy-remains-on-the-path-to-recovery-and-beyond_img_a2_c077c40e0656.png)
+![A2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-28_the-us-economy-remains-on-the-path-to-recovery-and-beyond_img_a2_c077c40e0656.png)
 
 > **Figure 2: A2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-28_the-us-economy-remains-on-the-path-to-recovery-and-beyond_img_a2_c077c40e0656.png)

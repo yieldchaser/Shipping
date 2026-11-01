@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/7/trumps-election-win-sparks-selloff"
 tags: ["Shipping", "Markets", "Commodities"]
 images_count: 2
-word_count: 667
+word_count: 669
 source_file: "corpus/03-breakwave/insights/2024/2024-11-07_trumps-election-win-sparks-selloff.html"
 ---
 
@@ -32,7 +32,7 @@ Trump’s win saw a stronger USD weigh on investor appetite. This was exacerbate
 
 ### Market Commentary
 
-**European gas**edged lower as traders pondered the impact of a Trump White House. He has vowed to end the Biden administration’s pause on new LNG export licences, which raises concerns around a wave of new supply, as a host of new projects are poised to apply. However, determining the impact of his foreign policy on global gas markets is not as clear. A trade war with China could see US LNG exports lose a key buyer. On the flip side, more Russian supply is a distinct possibility. Outside of the US election, the market is watching weather forecasts that suggest colder temperatures for Europe in coming weeks. Hurricane Rafael could also reduce US supply.**North Asian LNG** prices were lower, with buyers pulling back from the spot market amid recent gains.
+**European gas** edged lower as traders pondered the impact of a Trump White House. He has vowed to end the Biden administration’s pause on new LNG export licences, which raises concerns around a wave of new supply, as a host of new projects are poised to apply. However, determining the impact of his foreign policy on global gas markets is not as clear. A trade war with China could see US LNG exports lose a key buyer. On the flip side, more Russian supply is a distinct possibility. Outside of the US election, the market is watching weather forecasts that suggest colder temperatures for Europe in coming weeks. Hurricane Rafael could also reduce US supply.**North Asian LNG** prices were lower, with buyers pulling back from the spot market amid recent gains.
 
 **Gold** prices fell the most since June as Trump’s victory rippled through global markets. The USD surged and US Treasury yields rose as the market priced in the impact of Trump policies on the US economy. This crimped investor demand for the precious metal. The fact that the Republicans will also regain control of the Senate removed some of the political uncertainty that had been driving demand in recent months. The selloff was exacerbated by heavily bullish positions in the market, with speculative net long positions recently hitting a four year high. Nevertheless, we see a bullish impact on gold in the long run. The spectre of a ballooning federal deficit should see gold’s appeal as a hedge against rising prices. Safe haven demand may also rise in the event of any trade tensions.
 

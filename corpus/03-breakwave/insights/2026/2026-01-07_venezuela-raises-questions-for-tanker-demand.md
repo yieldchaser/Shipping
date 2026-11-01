@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/7/venezuela-raises-questions-for-tanker-demand"
 tags: ["Tankers", "Shipping", "Oil"]
 images_count: 3
-word_count: 1117
+word_count: 1120
 source_file: "corpus/03-breakwave/insights/2026/2026-01-07_venezuela-raises-questions-for-tanker-demand.html"
 ---
 

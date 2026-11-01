@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/9/chasing-the-rally-analysts-raising-their-iron-ore-forecasts"
 images_count: 3
-word_count: 674
+word_count: 677
 source_file: "corpus/03-breakwave/insights/2020/2020-06-09_chasing-the-rally-analysts-raising-their-iron-ore-forecasts.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/15/chinese-economy-an-uneven-recovery-highlights-the-need-to-support-the-domestic-demand"
 tags: ["China", "Dry Bulk", "COVID-19"]
 images_count: 2
-word_count: 699
+word_count: 701
 source_file: "corpus/03-breakwave/insights/2021/2021-03-16_chinese-economy-an-uneven-recovery-highlights-the-need-to-support-the-domestic-d.html"
 ---
 

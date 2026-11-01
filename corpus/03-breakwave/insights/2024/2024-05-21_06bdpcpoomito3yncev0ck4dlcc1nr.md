@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/21/06bdpcpoomito3yncev0ck4dlcc1nr"
 tags: ["Economy", "Markets", "Macro"]
 images_count: 11
-word_count: 1606
+word_count: 1617
 source_file: "corpus/03-breakwave/insights/2024/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr.html"
 ---
 
@@ -69,7 +69,7 @@ So this is the picture thus far:
 
 In other words, this is the perfect macroeconomic environment for traders. So what can go wrong? What is the key risk to the current bout of exuberance? The market isn’t presently flashing any red signs.
 
-Despite the meme-stock rally (“Roaring Kitty” a.k.a. Keith Gill made an anodyne tweet which caused GameStop and AMC to[rally](https://www.bloomberg.com/news/articles/2024-05-17/gamestop-amc-hertz-meme-stocks-are-back-or-are-they?srnd=all)), there’s no evidence of “irrational exuberance”. Equity valuations are not too high versus history (earnings in the US[rising by 5.7%](../pdfs/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_earningsinsight-051724a_4efa5c0c717a.pdf)for the year have been supportive), and leveraged bets on the S&P are barely net short.
+Despite the meme-stock rally (“Roaring Kitty” a.k.a. Keith Gill made an anodyne tweet which caused GameStop and AMC to [rally](https://www.bloomberg.com/news/articles/2024-05-17/gamestop-amc-hertz-meme-stocks-are-back-or-are-they?srnd=all)), there’s no evidence of “irrational exuberance”. Equity valuations are not too high versus history (earnings in the US [rising by 5.7%](../pdfs/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_earningsinsight-051724a_4efa5c0c717a.pdf)for the year have been supportive), and leveraged bets on the S&P are barely net short.
 
 ![Market Chart 6](assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image017_361b661ae454.jpg)
 
@@ -99,7 +99,7 @@ A recent flair-up in geopolitical turbulence has not translated into any sort of
 
 So what can go wrong? Very few of the known knowns to be sure (valuations, earnings, Fed). It’s down to the known unknowns (war, inflation) to take a bad turn and of course the unknown unknowns.
 
-But here’s the shocker. For all the analysis, we don’t invest by predicting the future. Why? Well. For one we don’t know it. Twelve thousand years of recorded human civilization (and possibly a multitude in unrecorded history) have established the existence of and trust in[soothsayers](https://www.pipelinecomics.com/asterix-v19-asterix-and-the-soothsayer/). But we don’t have one recorded instance of a person knowing the future. So we can’t invest like we do.
+But here’s the shocker. For all the analysis, we don’t invest by predicting the future. Why? Well. For one we don’t know it. Twelve thousand years of recorded human civilization (and possibly a multitude in unrecorded history) have established the existence of and trust in [soothsayers](https://www.pipelinecomics.com/asterix-v19-asterix-and-the-soothsayer/). But we don’t have one recorded instance of a person knowing the future. So we can’t invest like we do.
 
 More importantly, we don’t know what we don’t know. We assume some risk is there. Instinctively, the more exuberance, the more we suspect that something is lurking in the corner.
 
@@ -127,7 +127,7 @@ Well, again things are less clear. Corporate bond spreads, a determinant of the 
 
 So we are left with Developed Market sovereign debt. Is that worth the risk?
 
-While yields are definitely higher than they have been in over a decade, there we are faced with long risks, namely the twin slow-moving trains of exponentially rising debt and uncertainty over inflation. China might be exporting deflation now, but last week’s[new tariffs](https://www.bbc.com/news/business-69004520)by the Biden administration are inherently inflationary, even if this takes some time for the figures to be priced in.
+While yields are definitely higher than they have been in over a decade, there we are faced with long risks, namely the twin slow-moving trains of exponentially rising debt and uncertainty over inflation. China might be exporting deflation now, but last week’s[new tariffs](https://www.bbc.com/news/business-69004520) by the Biden administration are inherently inflationary, even if this takes some time for the figures to be priced in.
 
 And therein lies the conundrum. We don’t see major risks playing out, but we aren’t certain investors are paid enough to materially increase risk either. The environment for major tactical asset allocation decisions is, to say the least, difficult. Outperforming the index will probably still rest on long-term strategic choices (Strategic Asset Allocation) and careful security selection.
 

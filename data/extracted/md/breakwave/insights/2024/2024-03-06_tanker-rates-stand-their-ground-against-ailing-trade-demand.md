@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/6/tanker-rates-stand-their-ground-against-ailing-trade-demand"
 tags: ["Tankers", "Shipping", "Freightrates"]
 images_count: 3
-word_count: 1069
+word_count: 1072
 source_file: "corpus/03-breakwave/insights/2024/2024-03-06_tanker-rates-stand-their-ground-against-ailing-trade-demand.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/12/14/zler9kwha8m413zqrl4k40stes4zcm"
 images_count: 1
-word_count: 541
+word_count: 542
 source_file: "corpus/03-breakwave/insights/2023/2023-12-14_zler9kwha8m413zqrl4k40stes4zcm.html"
 ---
 

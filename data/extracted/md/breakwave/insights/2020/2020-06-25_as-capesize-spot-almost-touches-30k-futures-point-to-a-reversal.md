@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/25/as-capesize-spot-almost-touches-30k-futures-point-to-a-reversal"
 tags: ["Shipping", "Panamax", "Dry Bulk"]
 images_count: 3
-word_count: 820
+word_count: 823
 source_file: "corpus/03-breakwave/insights/2020/2020-06-25_as-capesize-spot-almost-touches-30k-futures-point-to-a-reversal.html"
 ---
 

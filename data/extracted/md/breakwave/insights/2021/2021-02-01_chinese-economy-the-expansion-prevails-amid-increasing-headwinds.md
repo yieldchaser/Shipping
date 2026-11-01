@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/1/chinese-economy-the-expansion-prevails-amid-increasing-headwinds"
 tags: ["Dry Bulk", "Global Economy", "China"]
 images_count: 3
-word_count: 705
+word_count: 708
 source_file: "corpus/03-breakwave/insights/2021/2021-02-01_chinese-economy-the-expansion-prevails-amid-increasing-headwinds.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-02-01_chinese-economy-the-e
 
 The first sets of data measuring the health of the Chinese economy during the initial month of the year have been released. While the headline numbers remain bullish, a deeper analysis of the underlying data signal that the Chinese economy may sail into some headwinds, at least temporarily. The manufacturing purchasing managers index (PMI) released on Monday by Caixin/IHS Markit signals that Chinese manufacturing are still expanding, but at a slower rate and with the reading at the lowest since June last year. The index has indicated softening business conditions since its decade high in November, as the pandemic worsened in many parts of the world and put the global recovery under pressure.
 
-![Ulf 300](assets/2021-02-01_chinese-economy-the-expansion-prevails-amid-increasing-headwinds_img_ulf300_760a323d6e06.png)
+![Ulf 300](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-01_chinese-economy-the-expansion-prevails-amid-increasing-headwinds_img_ulf300_760a323d6e06.png)
 
 > **Figure 1: Ulf 300**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-01_chinese-economy-the-expansion-prevails-amid-increasing-headwinds_img_ulf300_760a323d6e06.png)
@@ -33,7 +33,7 @@ The slowdown in economic recovery is greatly influenced by weaker export orders,
 
 The survey also highlighted rising prices for industrial inputs in China, which is hardly surprising given the recent surge in commodity prices. The rising prices, in combination with supply issues and shortages, could potentially be the trigger for a lifting of the current import ban on many Australian commodities. The recent outbreaks of COVID-19 in Mongolia have also seen Chinese coal imports from the country fall, amid border closures to limit the spread of the coronavirus. Since the unofficial ban on Australian coal imports was put in place, steel producers have been forced to find replacements elsewhere. The rising commodity prices and supply problems could potentially pose a threat to the ongoing industrial expansion. The Chinese leaders may, hence, deem the ban to be too costly, both economically and politically, to maintain and could allow Australian imports to enter the country yet again.
 
-![Market Chart 2](assets/2021-02-01_chinese-economy-the-expansion-prevails-amid-increasing-headwinds_img_image-asset_6f173395efe7.jpeg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-01_chinese-economy-the-expansion-prevails-amid-increasing-headwinds_img_image-asset_6f173395efe7.jpeg)
 
 > **Figure 2: Market Chart 2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-01_chinese-economy-the-expansion-prevails-amid-increasing-headwinds_img_image-asset_6f173395efe7.jpeg)
@@ -42,7 +42,7 @@ China has also seen an increase in COVID-19 infection rates in recent weeks, whi
 
 Industrial output could on the other hand increase, during what is traditionally a quiet period. With new restrictions on travel and celebrations, many industries look set to maintain production through the holidays to keep up with their export demand. The year has so far been abnormal for commodity imports and dry bulk shipping, with the usual lull ahead of the Lunar New Year failing to materialise to the usual extent. The unusual high demand for commodities and tonnage have kept the Baltic Dry Index above the weak levels usually observed in January.
 
-![Ulf 301](assets/2021-02-01_chinese-economy-the-expansion-prevails-amid-increasing-headwinds_img_ulf301_3551ee598ce8.png)
+![Ulf 301](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-01_chinese-economy-the-expansion-prevails-amid-increasing-headwinds_img_ulf301_3551ee598ce8.png)
 
 > **Figure 3: Ulf 301**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-01_chinese-economy-the-expansion-prevails-amid-increasing-headwinds_img_ulf301_3551ee598ce8.png)

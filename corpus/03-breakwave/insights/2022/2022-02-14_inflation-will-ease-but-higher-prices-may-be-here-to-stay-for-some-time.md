@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/2/14/inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time"
 tags: ["Inflation", "Global", "Markets"]
 images_count: 4
-word_count: 1281
+word_count: 1285
 source_file: "corpus/03-breakwave/insights/2022/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/1/18/crude-oil-gains-as-opec-casts-an-optimistic-tone-on-demand"
 images_count: 1
-word_count: 575
+word_count: 576
 source_file: "corpus/03-breakwave/insights/2023/2023-01-18_crude-oil-gains-as-opec-casts-an-optimistic-tone-on-demand.html"
 ---
 

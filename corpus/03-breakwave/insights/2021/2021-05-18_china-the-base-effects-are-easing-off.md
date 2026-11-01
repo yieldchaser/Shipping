@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/18/china-the-base-effects-are-easing-off"
 tags: ["China", "Economics"]
 images_count: 2
-word_count: 787
+word_count: 789
 source_file: "corpus/03-breakwave/insights/2021/2021-05-18_china-the-base-effects-are-easing-off.html"
 ---
 

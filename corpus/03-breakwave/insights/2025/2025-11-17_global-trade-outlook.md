@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/17/global-trade-outlook"
 tags: ["Markets", "Economy", "Shipping"]
 images_count: 1
-word_count: 1057
+word_count: 1058
 source_file: "corpus/03-breakwave/insights/2025/2025-11-17_global-trade-outlook.html"
 ---
 

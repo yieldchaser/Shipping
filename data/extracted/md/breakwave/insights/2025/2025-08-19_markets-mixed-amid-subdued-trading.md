@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/19/markets-mixed-amid-subdued-trading"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 2
-word_count: 791
+word_count: 793
 source_file: "corpus/03-breakwave/insights/2025/2025-08-19_markets-mixed-amid-subdued-trading.html"
 ---
 
@@ -31,7 +31,7 @@ A lack of progress towards a peace deal in Ukraine pushed oil higher. However, a
 
 ### Market Commentary
 
-**Crude oil**prices gained as expectations of a ceasefire in Ukraine fell. Zelenskiy said during a meeting with Trump at the White House that Russia and Ukraine would need to find diplomatic ways to end the war. A quick resolution to the conflict with Russia now seems unlikely. Prices had been under pressure late last week as he planned meeting between Trump and Putin raised hopes of a peace deal. Putin praised Trump’s efforts to broker an end to the three-year conflict. While the summit ultimately ended without any agreement, there was enough progress to suggest supply risks are even lower. However, the apparent pushback from Ukraine suggests progress on a peace deal is still some way off. This brings back the risk of additional US sanctions on Russia. For the moment, Trump has singled out India for buying Russian crude. Peter Navaro, the White House counsellor for trade and manufacturing, criticised India’s purchases of Moscow’s barrels of oil in an editorial in the Financial Times.
+**Crude oil** prices gained as expectations of a ceasefire in Ukraine fell. Zelenskiy said during a meeting with Trump at the White House that Russia and Ukraine would need to find diplomatic ways to end the war. A quick resolution to the conflict with Russia now seems unlikely. Prices had been under pressure late last week as he planned meeting between Trump and Putin raised hopes of a peace deal. Putin praised Trump’s efforts to broker an end to the three-year conflict. While the summit ultimately ended without any agreement, there was enough progress to suggest supply risks are even lower. However, the apparent pushback from Ukraine suggests progress on a peace deal is still some way off. This brings back the risk of additional US sanctions on Russia. For the moment, Trump has singled out India for buying Russian crude. Peter Navaro, the White House counsellor for trade and manufacturing, criticised India’s purchases of Moscow’s barrels of oil in an editorial in the Financial Times.
 
 **Global gas** prices followed oil prices higher amid the uncertain geopolitical backdrop. This was exacerbated by rising trade tensions. Several LNG tankers from a Russian export facility that is sanctioned by the US are heading to Asia, potentially testing the US administration’s resolve to crack down on the trade, amid high level talks over the war in Ukraine. After being idle for weeks, the Iris and Voskhod vessels, carrying gas from the Artic LNG 2 plant in Siberia, began travelling to North Asia on 15 August. The most likely destination is China. This comes as Beijing ramps up its purchases of the fuel amid stronger demand. The 30-day average for LNG imports has been above the five-year average so far for August, according to ship tracking data. However, prices in the North Asian LNG market could come under pressure amid a surge in supply in the Pacific Basin. Canada has joined as the newest exporter alongside new supply from Mexico and Australia.
 

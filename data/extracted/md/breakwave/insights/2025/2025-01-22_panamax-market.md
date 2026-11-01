@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/22/panamax-market"
 tags: ["Shipping", "Drybulk", "Markets"]
 images_count: 5
-word_count: 1115
+word_count: 1120
 source_file: "corpus/03-breakwave/insights/2025/2025-01-22_panamax-market.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-01-22_panamax-market.html"
 ---
 
 **Dry Weekly Market Monitor - Week 04, 2025**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 January 22, 2025
 
 ## Chart of the Week: Panamax Market (Ecsa Ballasters & Demand)

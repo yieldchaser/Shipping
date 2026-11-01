@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/9/lack-of-new-stimulus-measures-triggers-selloff"
 tags: ["Markets", "Commodities", "Shipping"]
 images_count: 2
-word_count: 689
+word_count: 691
 source_file: "corpus/03-breakwave/insights/2024/2024-10-09_lack-of-new-stimulus-measures-triggers-selloff.html"
 ---
 

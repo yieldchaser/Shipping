@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/2/china-closed-2025-with-headline-economic-growth"
 tags: ["Macro", "Shipping", "China"]
 images_count: 1
-word_count: 1060
+word_count: 1061
 source_file: "corpus/03-breakwave/insights/2026/2026-02-02_china-closed-2025-with-headline-economic-growth.html"
 ---
 

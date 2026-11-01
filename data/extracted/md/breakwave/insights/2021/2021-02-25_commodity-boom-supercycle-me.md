@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/25/commodity-boom-supercycle-me"
 tags: ["Global Economy", "Shipping"]
 images_count: 4
-word_count: 1820
+word_count: 1824
 source_file: "corpus/03-breakwave/insights/2021/2021-02-25_commodity-boom-supercycle-me.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-02-25_commodity-boom-superc
 
 *by Maria Bertzeletou*
 
-![Market Chart 1](assets/2021-02-25_commodity-boom-supercycle-me_img_image-asset_5bad4ba19148.jpeg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-25_commodity-boom-supercycle-me_img_image-asset_5bad4ba19148.jpeg)
 
 > **Figure 1: Market Chart 1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-25_commodity-boom-supercycle-me_img_image-asset_5bad4ba19148.jpeg)
@@ -41,7 +41,7 @@ While the demand for commodities worldwide has been depressed by the pandemic, s
 
 Today, each commodity has its own story, but supply constraints versus rising demand in Asia feature in many of them. Copper, for instance, is in a squeeze, with uncertainty over forthcoming spring elections and labor negotiations in Chile and Peru – the world’s largest copper producing nations – adding to existing concerns over pandemic-inspired mine closures. Demand, on the other hand, is only expected to increase, both from China and a growing electric vehicles industry.
 
-![Maria 1](assets/2021-02-25_commodity-boom-supercycle-me_img_maria1_07fd407a3529.png)
+![Maria 1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-25_commodity-boom-supercycle-me_img_maria1_07fd407a3529.png)
 
 > **Figure 2: Maria 1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-25_commodity-boom-supercycle-me_img_maria1_07fd407a3529.png)
@@ -58,7 +58,7 @@ Overcoming the US restrictions on technology has become a major policy priority 
 
 The upcoming decades are in front of new trends in major dry bulk commodities that will reshape the freight market and investment decisions of shipping players. As climate change rises up the global political agenda and many governments commit to ambitious environmental targets, a race against time is on to develop low-carbon versions of this strong and versatile material.
 
-![Market Chart 3](assets/2021-02-25_commodity-boom-supercycle-me_img_image-asset_7f9934305566.jpeg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-25_commodity-boom-supercycle-me_img_image-asset_7f9934305566.jpeg)
 
 > **Figure 3: Market Chart 3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-25_commodity-boom-supercycle-me_img_image-asset_7f9934305566.jpeg)
@@ -77,7 +77,7 @@ China’s Baowu Group, along with ArcelorMittal, Thyssenkrupp and other big stee
 
 Under the new goals of carbon neutrality, China’s top diplomat says Beijing seeks to US to join forces on new energy and new technologies. Analysts say groundbreaking technologies and global cooperation are needed to achieve Xi Jinping’s ambitious targets on emissions and carbon neutrality.
 
-![China Factory](assets/2021-02-25_commodity-boom-supercycle-me_img_chinafactory_f6e9320cf5fc.jpeg)
+![China Factory](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-25_commodity-boom-supercycle-me_img_chinafactory_f6e9320cf5fc.jpeg)
 
 > **Figure 4: China Factory**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-25_commodity-boom-supercycle-me_img_chinafactory_f6e9320cf5fc.jpeg)

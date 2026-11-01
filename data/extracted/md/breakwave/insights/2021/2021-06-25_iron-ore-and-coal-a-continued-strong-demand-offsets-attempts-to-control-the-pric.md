@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/25/iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-prices"
 tags: ["Coal", "Iron Ore", "China"]
 images_count: 4
-word_count: 1101
+word_count: 1105
 source_file: "corpus/03-breakwave/insights/2021/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-06-25_iron-ore-and-coal-a-c
 
 *By Ulf Bergman*
 
-![Unsplash Image Ib7jwp7m0ia](assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_unsplash-image-ib7jwp7m0ia_f5edd8adff46.jpg)
+![Unsplash Image Ib7jwp7m0ia](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_unsplash-image-ib7jwp7m0ia_f5edd8adff46.jpg)
 
 > **Figure 1: Unsplash Image Ib7jwp7m0ia**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_unsplash-image-ib7jwp7m0ia_f5edd8adff46.jpg)
@@ -35,7 +35,7 @@ While the agricultural commodities have been obliging, industrial commodities ha
 
 Despite the output restrictions and the ongoing political tensions, preliminary trade data from Australia show that iron ore sales to China surged by a respectable twenty per cent during May. This represents the third consecutive month of record exports, despite Beijing’s efforts to reduce the country’s dependence on imports from Australia. The iron ore exports from Australia are also continuing to show strength in June, reportedly increasing to 19.4 million tonnes during last week. Cargo tracking data from Oceanbolt for Chinese seaborne imports of iron ore also suggest that the Chinese appetite for the commodity remains strong, with volumes for the first half of the year already marginally above last year’s and that is with six days still remaining of June. Iron ore inventories in the two largest import ports also remain under pressure, according to data from Tathya.earth, suggesting Chinese demand will remain firm.
 
-![Ulf 1 6.25](assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_ulf1625_49a1a36269a4.png)
+![Ulf 1 6.25](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_ulf1625_49a1a36269a4.png)
 
 > **Figure 2: Ulf 1 6.25**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_ulf1625_49a1a36269a4.png)
@@ -44,14 +44,14 @@ If iron ore price developments failed to meet Beijing’s expectations of a larg
 
 ### Coal Usd/tonne
 
-![Ulf 2 6.25](assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_ulf2625_4607217f6290.jpg)
+![Ulf 2 6.25](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_ulf2625_4607217f6290.jpg)
 
 > **Figure 3: Ulf 2 6.25**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_ulf2625_4607217f6290.jpg)
 
 The ongoing restrictions on coal production in numerous Chinese mines, either due to safety inspections or environmental curbs, could force the country to increase its imports of the commodity. There are already indications of below-average inventories for this time of the year and, with last winter’s shortages in mind, China’s state planning agency, the National Development and Reform Commission, has urged the coal industry to build infrastructure to store reserves of coal. China’s position as the triple crown holder for coal (i.e. largest producer, largest importer and largest consumer) could prove beneficial for dry bulk shipping should the domestic production continue to suffer from safety and environmental curbs. Given that a large part of the coal consumed in China is domestically produced at the moment, even a modest increase in the proportion of overseas sourced coal could have a considerable positive impact on the tonnage demand. According to cargo tracking data from Oceanbolt, Chinese seaborne imports of coal year-to-date are already above of previous years.
 
-![Ulf 3 6.25](assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_ulf3625_9633f1ec263c.png)
+![Ulf 3 6.25](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_ulf3625_9633f1ec263c.png)
 
 > **Figure 4: Ulf 3 6.25**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_ulf3625_9633f1ec263c.png)

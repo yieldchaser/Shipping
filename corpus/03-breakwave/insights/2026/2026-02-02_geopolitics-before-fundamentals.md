@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/2/geopolitics-before-fundamentals"
 tags: ["Oil", "Markets", "Tankers"]
 images_count: 2
-word_count: 737
+word_count: 739
 source_file: "corpus/03-breakwave/insights/2026/2026-02-02_geopolitics-before-fundamentals.html"
 ---
 

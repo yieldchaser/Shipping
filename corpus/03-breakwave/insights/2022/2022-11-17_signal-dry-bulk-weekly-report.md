@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/17/signal-dry-bulk-weekly-report"
 images_count: 5
-word_count: 1058
+word_count: 1063
 source_file: "corpus/03-breakwave/insights/2022/2022-11-17_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -31,7 +31,7 @@ Meanwhile, there are reports that Russia will extend the Black Sea Grain Export 
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-canals-congestion/2kwxjt/285397797?h=AX4TG7bNSzHdHZ1N7CRZ20n0Ry1F3W1CN1opMKcgT5o) | [Local Asset](assets/2022-11-17_signal-dry-bulk-weekly-report_img_unnamed-2022-11-17t123041984_d36ca7122ed1.png)
 
 Data Source: The Signal Ocean Platform, Dry Bulk Canals Congestion
-[Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-canals-congestion/2kwxjt/285397797?h=AX4TG7bNSzHdHZ1N7CRZ20n0Ry1F3W1CN1opMKcgT5o)
+ [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-canals-congestion/2kwxjt/285397797?h=AX4TG7bNSzHdHZ1N7CRZ20n0Ry1F3W1CN1opMKcgT5o)
 
 ## Section 1/ Freight -Market Rates ($/T) Weaker
 
@@ -44,10 +44,10 @@ Data Source: The Signal Ocean Platform, Dry Bulk Canals Congestion
 
 The Capesize segment continues to show an upward trend, while the weaker outlook for freight rates in the other size classes emerged in the last days of November.
 
-- **Capesize**freight rates are now approaching $21/tonne, up nearly $2/tonne from two weeks ago, but still $6/tonne lower than week 40.
-- **Panamax**freight rates fromtheContinent to the Far East fell below $37/tonne, down nearly $7/tonne from the week 40 peak.
-- **Supramax**freight rates for the Indo-ECI route reached their lowest level of the year at less than $14/tonne, down nearly $7/tonne from the week 34 peak.
-- **Handysize**freight rates from NOPAC to the Far East fell to $32.5/tonne, down 50% from the week 21 peak.
+- **Capesize** freight rates are now approaching $21/tonne, up nearly $2/tonne from two weeks ago, but still $6/tonne lower than week 40.
+- **Panamax** freight rates fromtheContinent to the Far East fell below $37/tonne, down nearly $7/tonne from the week 40 peak.
+- **Supramax** freight rates for the Indo-ECI route reached their lowest level of the year at less than $14/tonne, down nearly $7/tonne from the week 34 peak.
+- **Handysize** freight rates from NOPAC to the Far East fell to $32.5/tonne, down 50% from the week 21 peak.
 
 ## Section 2/ Supply -Ballasters (# Vessels) Increasing
 
@@ -58,10 +58,10 @@ The Capesize segment continues to show an upward trend, while the weaker outlook
 
 The number of ships in ballast remains above the annual average in November for the smaller ship categories, while a downward trend is observed in the Capesize and Panamax segments.
 
-- **Capesize**SE Africa: The number of vessels is now close to the annual average of 81, 3 more than the previous week, after peaking in week 43.
-- **Panamax**SE Africa: The number of ships has dropped to 74, continuing the downward trend since the beginning of the previous week, while the numbers are below the annual average since the end of week 36.
-- **Supramax**SE Asia: The number of vessels has risen to more than 100, almost 15 above the annual average.
-- **Handysize**NOPAC: The number of vessels continues to increase at an accelerated pace, reaching around 75 vessels, almost 30% above the annual average, with a steady upward trend.
+- **Capesize** SE Africa: The number of vessels is now close to the annual average of 81, 3 more than the previous week, after peaking in week 43.
+- **Panamax** SE Africa: The number of ships has dropped to 74, continuing the downward trend since the beginning of the previous week, while the numbers are below the annual average since the end of week 36.
+- **Supramax** SE Asia: The number of vessels has risen to more than 100, almost 15 above the annual average.
+- **Handysize** NOPAC: The number of vessels continues to increase at an accelerated pace, reaching around 75 vessels, almost 30% above the annual average, with a steady upward trend.
 
 ## Section 3/ Demand -TonDays Decreasing
 
@@ -72,10 +72,10 @@ The number of ships in ballast remains above the annual average in November for 
 
 Demand growth continues to decline with the exception of the Capesize segment, while the small ship categories are facing further weakness.
 
-- **Capesize**demand ton-days: The percentage increase remained at the highest level since the last peak in week 27.
-- **Panamax**demand ton-days: The upward trend began at the end of last week and continued in the third week of September with a slower pace of growth.
-- **Supramax**demand ton-days: After peaking in the first days of September, there seems to have been a steady percentage increase over the last three weeks.
-- **Handysize**demand ton-days: There is a downward trend, while it seemed that the previous week was the last firmness after the low of week 32.
+- **Capesize** demand ton-days: The percentage increase remained at the highest level since the last peak in week 27.
+- **Panamax** demand ton-days: The upward trend began at the end of last week and continued in the third week of September with a slower pace of growth.
+- **Supramax** demand ton-days: After peaking in the first days of September, there seems to have been a steady percentage increase over the last three weeks.
+- **Handysize** demand ton-days: There is a downward trend, while it seemed that the previous week was the last firmness after the low of week 32.
 
 ## Section 4/ Port Congestion -No of Vesselsincreasing
 

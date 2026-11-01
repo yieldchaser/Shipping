@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/3/3/strong-economic-data-in-china-boosts-sentiment"
 images_count: 1
-word_count: 582
+word_count: 583
 source_file: "corpus/03-breakwave/insights/2023/2023-03-03_strong-economic-data-in-china-boosts-sentiment.html"
 ---
 
@@ -30,7 +30,7 @@ Better than expected economic data in China saw commodities rally across the boa
 
 **Base metals** rallied. Economic data highlight a stronger recovery in demand is imminent. China’s Purchasing Manufacturers Index for February hit its highest level since 2012, beating most estimates, as factory’s reopened after the Lunar New Year holiday. This was the first set of comprehensive data released since COVID-19 restrictions ended late last year. It comes ahead of next week’s National People’s Congress where a new growth target will be disclosed. Expectations of lower demand from the electric vehicle sector may need to be reset, after Deputy Finance Minister Xu said China will extend the sales-tax exemption for new energy vehicles and is looking at new policies to further support the sector. The Ministry of Commerce is also looking at measures to expand consumption.
 
-**Iron ore**futures were also up sharply after home sales by major developers rose in February for the first time in 20 months, aided by positive signs of demand in the steel sector. Almost two-thirds of steel companies expect sales to improve this month, according to Mysteel. Data released yesterday revealed how weak the sector was in 2022, with total output falling 1.7% to 1.018bn tonnes.
+**Iron ore** futures were also up sharply after home sales by major developers rose in February for the first time in 20 months, aided by positive signs of demand in the steel sector. Almost two-thirds of steel companies expect sales to improve this month, according to Mysteel. Data released yesterday revealed how weak the sector was in 2022, with total output falling 1.7% to 1.018bn tonnes.
 
 **Crude oil** edged higher amid signs of stronger demand in Asia and Europe. US commercial crude oil inventories gained less than expected last week, rising only 1,166kbbl. However, US exports of crude hit a record high of 5,629kbbl last week (+22.4% w/w). Apparent demand subsequently rose, driven by strong gains in gasoline and jet fuel oil. This help offset concerns that the US economy is slipping into recession. Federal Reserve officials said interest rates will need to increase further and stay elevated into next year to curb inflation. Supply side issues also lent some support. Bloomberg tanker tracker data showed large drops in oil exports from Brazil, Iraq and Russia last month. Shipments from Qatar also hit a three-month high. Russia said it will take a pragmatic approach when deciding on potential cuts in oil output beyond March, said Deputy Energy Minister, Pavel Sorokin. Russia announced last month that it will reduce output by 500kb/d, outside of the lower quotas that the OPEC+ allowance agreed late last year.
 

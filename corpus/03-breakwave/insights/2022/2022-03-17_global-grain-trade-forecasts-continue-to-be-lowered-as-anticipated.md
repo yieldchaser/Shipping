@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/3/17/global-grain-trade-forecasts-continue-to-be-lowered-as-anticipated"
 tags: ["Economy", "Shipping", "Dry Bulk", "Grains"]
 images_count: 4
-word_count: 598
+word_count: 602
 source_file: "corpus/03-breakwave/insights/2022/2022-03-17_global-grain-trade-forecasts-continue-to-be-lowered-as-anticipated.html"
 ---
 

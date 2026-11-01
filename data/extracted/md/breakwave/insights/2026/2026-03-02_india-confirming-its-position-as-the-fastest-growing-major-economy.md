@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/2/india-confirming-its-position-as-the-fastest-growing-major-economy"
 tags: ["India", "Economy", "Markets"]
 images_count: 2
-word_count: 1155
+word_count: 1157
 source_file: "corpus/03-breakwave/insights/2026/2026-03-02_india-confirming-its-position-as-the-fastest-growing-major-economy.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/5/running-out-of-room"
 tags: ["Tankers", "Shipping", "Crude"]
 images_count: 2
-word_count: 706
+word_count: 708
 source_file: "corpus/03-breakwave/insights/2026/2026-10-05_running-out-of-room.html"
 ---
 

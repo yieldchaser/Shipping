@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/11/20/the-big-picture-north-american-grain-trade"
 tags: ["Dry Bulk", "Grains", "Corn", "Soybeans", "Wheat"]
 images_count: 5
-word_count: 1229
+word_count: 1234
 source_file: "corpus/03-breakwave/insights/2020/2020-11-22_the-big-picture-north-american-grain-trade.html"
 ---
 

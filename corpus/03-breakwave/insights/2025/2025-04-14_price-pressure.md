@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/13/price-pressure"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 2
-word_count: 824
+word_count: 826
 source_file: "corpus/03-breakwave/insights/2025/2025-04-14_price-pressure.html"
 ---
 

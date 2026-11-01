@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/11/30/chinese-imports-from-the-us-are-still-lagging-behind-the-deal"
 tags: ["China", "Usa", "Economy", "Imports"]
 images_count: 2
-word_count: 741
+word_count: 743
 source_file: "corpus/03-breakwave/insights/2021/2021-11-30_chinese-imports-from-the-us-are-still-lagging-behind-the-deal.html"
 ---
 

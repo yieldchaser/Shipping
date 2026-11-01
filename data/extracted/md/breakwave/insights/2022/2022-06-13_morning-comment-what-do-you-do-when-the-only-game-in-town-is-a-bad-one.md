@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/6/13/morning-comment-what-do-you-do-when-the-only-game-in-town-is-a-bad-one"
 images_count: 1
-word_count: 613
+word_count: 614
 source_file: "corpus/03-breakwave/insights/2022/2022-06-13_morning-comment-what-do-you-do-when-the-only-game-in-town-is-a-bad-one.html"
 ---
 

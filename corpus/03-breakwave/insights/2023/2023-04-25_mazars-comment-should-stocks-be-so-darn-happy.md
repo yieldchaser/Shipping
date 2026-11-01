@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/4/25/mazars-comment-should-stocks-be-so-darn-happy"
 images_count: 5
-word_count: 1361
+word_count: 1366
 source_file: "corpus/03-breakwave/insights/2023/2023-04-25_mazars-comment-should-stocks-be-so-darn-happy.html"
 ---
 
@@ -26,8 +26,8 @@ source_file: "corpus/03-breakwave/insights/2023/2023-04-25_mazars-comment-should
 *The three things I would tell my clients on a Monday morning:*
 
 1. *Credit conditions are tighter and they are bound to keep tightening for at least a year after rate hikes are done. As such, there’s a****considerable risk build-up****. We spent too many years assuming rates wouldn’t go much higher, and no one was ready for such tightening. Further weaknesses will probably be revealed.*
-2. *But this is****not reflected in the movement of risk assets****. Equities are up just south of 10%, bonds are up nearly 3%. This is somewhat to be expected because.*
-3. *There’s****nothing wrong with a spot of Bullishness****. Traders and Fast Money need to make profits too. But****longer term investors can’t******afford to ignore******risks****, so their portfolio should be positioned to reflect it.*
+2. *But this is* ***not reflected in the movement of risk assets****. Equities are up just south of 10%, bonds are up nearly 3%. This is somewhat to be expected because.*
+3. *There’s****nothing wrong with a spot of Bullishness****. Traders and Fast Money need to make profits too. But* ***longer term investors can’t******afford to ignore*** ***risks****, so their portfolio should be positioned to reflect it.*
 
 In the past few months, we have rung the bell often (perhaps too often) about simmering risks in financial markets as interest rates remain high. The collapse of SVB and Credit Suisse seemed to be one of those watershed moments where it became clear that tightening conditions were claiming their first victims: problematic banks. And it is given that conditions will continue to tighten. Inflation remains too high for comfort (especially in the UK), and interest rates are set to tighten further across developed markets.
 
@@ -78,6 +78,6 @@ Let’s start with the good ones.
 However, there’s also some bad news.
 
 - **This generation of investors, primed by central bank interventions over the years, have essentially been conditioned to be optimistic.**On the one hand, this is good. It skews outcomes upwards. On the other, however, there’s no telling how the “slow money” run by optimist investors may react if a particular crisis seems to be getting out of hand. Bullishness is always welcome. But unless tempered with caution, it tends to amplify risks.
-- At some point, we need to let go of the myth of “efficient markets”. Market efficiency is like a pendulum. The higher the policy uncertainty, the lower the efficiency. This happens because**the less we get certainty, the more we need to make up with speculation.**And as different investors have different views, the market’s power to predict any outcome diminishes. To be fair, bond markets tend to be more proactive. But if one looks at how rate expectations have moved over the past two months, and also how bond markets have consistently ignored the Fed’s warning for higher rates last year (a sign that speculation was more potent than clear policy directions) one naturally comes to the conclusion that markets right now are non-directional and not really efficient. And this means that they may not be pricing-in risks correctly.
+- At some point, we need to let go of the myth of “efficient markets”. Market efficiency is like a pendulum. The higher the policy uncertainty, the lower the efficiency. This happens because **the less we get certainty, the more we need to make up with speculation.**And as different investors have different views, the market’s power to predict any outcome diminishes. To be fair, bond markets tend to be more proactive. But if one looks at how rate expectations have moved over the past two months, and also how bond markets have consistently ignored the Fed’s warning for higher rates last year (a sign that speculation was more potent than clear policy directions) one naturally comes to the conclusion that markets right now are non-directional and not really efficient. And this means that they may not be pricing-in risks correctly.
 
 So no, there’s nothing wrong with a spot of Bullishness. “Fast Money” and traders need to be profitable as well. But they can afford to ignore building risks, as they can very quickly take profit from their positions and hope that when -and if- the markets turn, they will have made more than they stand to lose. But for those investors who are longer-term, the build-up of longer-term risks relating to tighter credit can’t be ignored, even if present market conditions don’t necessarily reflect them. Portfolios and strategies need to be positioned to account for all possible outcomes.

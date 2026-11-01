@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/3/seaborne-coal-suffers-in-2025-as-china-burns-less-and-produces-more"
 tags: ["China", "Coal", "Drybulk"]
 images_count: 3
-word_count: 853
+word_count: 856
 source_file: "corpus/03-breakwave/insights/2026/2026-02-03_seaborne-coal-suffers-in-2025-as-china-burns-less-and-produces-more.html"
 ---
 

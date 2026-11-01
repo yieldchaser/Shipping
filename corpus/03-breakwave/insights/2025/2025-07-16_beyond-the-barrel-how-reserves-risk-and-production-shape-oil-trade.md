@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/16/beyond-the-barrel-how-reserves-risk-and-production-shape-oil-trade"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 1
-word_count: 1190
+word_count: 1191
 source_file: "corpus/03-breakwave/insights/2025/2025-07-16_beyond-the-barrel-how-reserves-risk-and-production-shape-oil-trade.html"
 ---
 

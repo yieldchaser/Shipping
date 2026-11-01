@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/9/the-panamax-market"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 1
-word_count: 1073
+word_count: 1074
 source_file: "corpus/03-breakwave/insights/2026/2026-02-09_the-panamax-market.html"
 ---
 

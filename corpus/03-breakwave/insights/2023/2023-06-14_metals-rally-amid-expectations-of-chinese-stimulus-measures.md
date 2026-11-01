@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/6/14/metals-rally-amid-expectations-of-chinese-stimulus-measures"
 images_count: 1
-word_count: 581
+word_count: 582
 source_file: "corpus/03-breakwave/insights/2023/2023-06-14_metals-rally-amid-expectations-of-chinese-stimulus-measures.html"
 ---
 
@@ -19,7 +19,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-06-14_metals-rally-amid-exp
 
 ---
 
-By[Daniel Hynes](https://www.linkedin.com/in/dahynes/)
+By [Daniel Hynes](https://www.linkedin.com/in/dahynes/)
 
 Energy and metals jumped amid anticipation of Chinese stimulus. This was aided by a risk on tone across markets following a lower-than-expected inflation print in the US.
 

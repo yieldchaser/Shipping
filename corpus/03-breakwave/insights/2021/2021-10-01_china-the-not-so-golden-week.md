@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/1/china-the-not-so-golden-week"
 tags: ["China", "Economy", "Crisis"]
 images_count: 2
-word_count: 753
+word_count: 755
 source_file: "corpus/03-breakwave/insights/2021/2021-10-01_china-the-not-so-golden-week.html"
 ---
 

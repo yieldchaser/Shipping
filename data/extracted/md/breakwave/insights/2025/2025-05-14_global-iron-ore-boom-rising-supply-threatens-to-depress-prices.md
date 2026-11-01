@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/14/global-iron-ore-boom-rising-supply-threatens-to-depress-prices"
 tags: ["Ironore", "Shipping", "Markets"]
 images_count: 3
-word_count: 715
+word_count: 718
 source_file: "corpus/03-breakwave/insights/2025/2025-05-14_global-iron-ore-boom-rising-supply-threatens-to-depress-prices.html"
 ---
 

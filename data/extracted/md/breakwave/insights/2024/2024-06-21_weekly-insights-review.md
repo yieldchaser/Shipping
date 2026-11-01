@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/21/weekly-insights-review"
 tags: ["Drybulk", "Tankers", "Economy"]
 images_count: 12
-word_count: 1247
+word_count: 1259
 source_file: "corpus/03-breakwave/insights/2024/2024-06-21_weekly-insights-review.html"
 ---
 

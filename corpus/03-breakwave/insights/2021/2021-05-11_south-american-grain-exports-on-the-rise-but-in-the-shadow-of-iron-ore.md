@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/11/south-american-grain-exports-on-the-rise-but-in-the-shadow-of-iron-ore"
 tags: ["Soybeans", "Brazil", "Argentina"]
 images_count: 1
-word_count: 632
+word_count: 633
 source_file: "corpus/03-breakwave/insights/2021/2021-05-11_south-american-grain-exports-on-the-rise-but-in-the-shadow-of-iron-ore.html"
 ---
 

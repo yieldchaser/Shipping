@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/11/decreasing-vlcc-mileage-likely-to-continue-aframax-outlook-bleak-in-the-atlantic-basin"
 tags: ["Shipping", "Crude Oil", "Tankers"]
 images_count: 5
-word_count: 1187
+word_count: 1192
 source_file: "corpus/03-breakwave/insights/2024/2024-04-12_decreasing-vlcc-mileage-likely-to-continue-aframax-outlook-bleak-in-the-atlantic.html"
 ---
 

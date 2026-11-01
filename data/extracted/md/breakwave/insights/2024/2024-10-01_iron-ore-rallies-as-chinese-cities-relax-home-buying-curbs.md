@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/1/iron-ore-rallies-as-chinese-cities-relax-home-buying-curbs"
 tags: ["Markets", "Commodities", "Shipping"]
 images_count: 2
-word_count: 714
+word_count: 716
 source_file: "corpus/03-breakwave/insights/2024/2024-10-01_iron-ore-rallies-as-chinese-cities-relax-home-buying-curbs.html"
 ---
 
@@ -31,7 +31,7 @@ Metals gained in early Asia trading as Chinese provinces implemented measures to
 
 ### Market Commentary
 
-**Iron ore**futures rallied as top Chinese cities rushed to ease home buying curbs. Shanghai, Guangzhou and Shenzhen loosened rules following Beijing’s calls to prop up the property sector. They lowered the minimum down-payment ratio required for first and second homes to 15% and 20% respectively. In Guangzhou, officials said they would stop reviewing homebuyers’ eligibility and no longer limit the number of homes owned. Both Shanghai and Shenzhen said they will allow more people to purchase residences in suburban areas. The moves boosted sentiment across broader markets, with a gauge of Chinese property stocks rising as much as 14% on Monday morning. This was despite data showing that the property slump continues to worsen. The value of new homes sales from the 100 biggest real estate companies fell 37.7% y/y, faster than the 26.8% decline in August, according to data from the China Real Estate Information Corp. Markets are now closed until 8 October for the National Day holiday.
+**Iron ore** futures rallied as top Chinese cities rushed to ease home buying curbs. Shanghai, Guangzhou and Shenzhen loosened rules following Beijing’s calls to prop up the property sector. They lowered the minimum down-payment ratio required for first and second homes to 15% and 20% respectively. In Guangzhou, officials said they would stop reviewing homebuyers’ eligibility and no longer limit the number of homes owned. Both Shanghai and Shenzhen said they will allow more people to purchase residences in suburban areas. The moves boosted sentiment across broader markets, with a gauge of Chinese property stocks rising as much as 14% on Monday morning. This was despite data showing that the property slump continues to worsen. The value of new homes sales from the 100 biggest real estate companies fell 37.7% y/y, faster than the 26.8% decline in August, according to data from the China Real Estate Information Corp. Markets are now closed until 8 October for the National Day holiday.
 
 **Copper** and most other base metals were also up strongly in Asian trading, as the market reacted positively to the stimulus measures announced last week by Beijing. This was supported by data showing factory output beat expectations, with China’s official manufacturing purchasing managers index coming in at 49.8 in September. While this is still in contractionary territory, it’s the highest in four months. However, the sector failed to hold those gains as a stronger USD weakened investor appetite. This was triggered by comments from Fed Chair Powell that he expects two further 25bp cuts this year if the economy performs as expected. Sentiment wasn’t helped by data showing output from Chile, the world’s largest producer, rose 7.1% y/y in September. Production is starting to recover as state-owned producer, Codelco overcomes disruptions at mines and delays at development projects.
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/16/falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilience-to-a-test-of-elasticity"
 tags: ["Drybulk", "Shipping", "Capesize"]
 images_count: 5
-word_count: 1219
+word_count: 1224
 source_file: "corpus/03-breakwave/insights/2026/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie.html"
 ---
 
@@ -20,14 +20,14 @@ source_file: "corpus/03-breakwave/insights/2026/2026-10-16_falling-cape-freight-
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram L](assets/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+![Rgb Color Brs Shipbrokers Monogram L](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram L**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 One notable development in the recent dry bulk market has been the sharp retreat in Capesize freight rates from elevated levels, contrasting with the relatively steady to firmer performance of Panamaxes and Supramaxes. According to Baltic Exchange indices, Cape 5TC (182k) fell from a high of $58,294/day on 4 Sep to $37,618/day across one month, a decline of 35%. By comparison, the Panamax and Supramax indices fell 1% and rose 15%, respectively, thus significantly outperforming Capesize in the same time period (4 Sep – 12 Oct).
 
-![2 Tow 1](assets/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie_img_2tow1_7386d007e555.png)
+![2 Tow 1](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie_img_2tow1_7386d007e555.png)
 
 > **Figure 2: 2 Tow 1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie_img_2tow1_7386d007e555.png)
@@ -36,7 +36,7 @@ While views remain divided whether this is a temporary correction or a gradual r
 
 Recent shipment trends from major Atlantic cargo origins provide some context. According to AXSMarine data, for the first time since the second half of 2024, Brazilian iron ore shipments declined for three consecutive months, from 35.35 mln mt in June to 33.12 mln mt in September. The monthly change in Guinea’s bauxite shipments was more pronounced: September shipments reached 15.61 mln mt, down 2.13 mln mt, or 12.0%, from August’s 17.74 mln mt and this downward trend is expected to continue into October. Seasonally, September and October typically mark the end of Guinea’s rainy season, supporting a significant month-on-month recovery in shipments. However, elevated freight rates have discouraged shipments from Guinean mines, particularly those operated by higher-cost, non-mainstream producers.
 
-![3 Tow 2](assets/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie_img_3tow2_de275ac78c48.png)
+![3 Tow 2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie_img_3tow2_de275ac78c48.png)
 
 > **Figure 3: 3 Tow 2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie_img_3tow2_de275ac78c48.png)
@@ -45,7 +45,7 @@ Recent shipment trends from major Atlantic cargo origins provide some context. A
 
 For Guinean bauxite, transportation costs at one point accounted for more than 50% of the ore’s CFR price, becoming a significant factor affecting miners’ shipment margins. Over the past month, Baltic C3, the Brazil/Guinea-to-China freight benchmark, remained above $40/t while Mysteel data show that the CFR price of Guinean bauxite at Shandong ports has remained broadly stable at $71–72/t over the past few months.
 
-![4 Tow 3](assets/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie_img_4tow3_3ce7371cbd92.png)
+![4 Tow 3](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie_img_4tow3_3ce7371cbd92.png)
 
 > **Figure 4: 4 Tow 3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie_img_4tow3_3ce7371cbd92.png)
@@ -62,7 +62,7 @@ While lower freight costs are important for miners, lower CFR prices are equally
 
 As new processing capacity has come on stream and previously idled capacity has restarted since early May, alumina operating rates have recovered, putting further pressure on industry profitability, particularly at coastal refineries using imported bauxite. Shandong and Guizhou, key regional users of imported and domestic bauxite respectively, offer a useful comparison of the recent pressures facing imported ore. According to Mysteel’s margin indicators, alumina refineries in Shandong recorded losses of RMB261.8/t in September, compared with RMB48.7/t in Guizhou, highlighting the greater profitability pressure on imported-bauxite users. As freight rates decline, the economics of using imported bauxite should improve at the margin. Even if this only means moving from deeper losses to smaller losses, it could encourage some alumina refineries to resume or increase purchases of imported ore. For the shipping market, any increase in demand for imported bauxites would provide some support for long haul seaborne demand.
 
-![5 Tow 4](assets/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie_img_5tow4_e0aef53c5eb9.png)
+![5 Tow 4](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie_img_5tow4_e0aef53c5eb9.png)
 
 > **Figure 5: 5 Tow 4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie_img_5tow4_e0aef53c5eb9.png)

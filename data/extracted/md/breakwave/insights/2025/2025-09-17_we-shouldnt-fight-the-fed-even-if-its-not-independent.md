@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/17/we-shouldnt-fight-the-fed-even-if-its-not-independent"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 2
-word_count: 1132
+word_count: 1134
 source_file: "corpus/03-breakwave/insights/2025/2025-09-17_we-shouldnt-fight-the-fed-even-if-its-not-independent.html"
 ---
 

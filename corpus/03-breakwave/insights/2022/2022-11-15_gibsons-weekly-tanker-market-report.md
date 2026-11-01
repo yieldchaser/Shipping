@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/15/gibsons-weekly-tanker-market-report"
 images_count: 2
-word_count: 787
+word_count: 789
 source_file: "corpus/03-breakwave/insights/2022/2022-11-15_gibsons-weekly-tanker-market-report.html"
 ---
 

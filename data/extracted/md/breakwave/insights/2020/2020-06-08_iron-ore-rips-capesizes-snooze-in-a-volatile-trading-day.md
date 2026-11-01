@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/8/iron-ore-rips-capesizes-snooze-in-a-volatile-trading-day"
 images_count: 2
-word_count: 421
+word_count: 423
 source_file: "corpus/03-breakwave/insights/2020/2020-06-08_iron-ore-rips-capesizes-snooze-in-a-volatile-trading-day.html"
 ---
 

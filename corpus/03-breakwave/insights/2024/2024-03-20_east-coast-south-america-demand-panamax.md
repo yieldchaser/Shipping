@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/20/east-coast-south-america-demand-panamax"
 tags: ["Drybulk", "Shipping", "Freightrates"]
 images_count: 5
-word_count: 1218
+word_count: 1223
 source_file: "corpus/03-breakwave/insights/2024/2024-03-20_east-coast-south-america-demand-panamax.html"
 ---
 
@@ -38,10 +38,10 @@ Consequently, it becomes apparent that the momentum in Baltic rates isn't solely
 
 Capesize Brazil to North China rates have continued their upward trend for the third consecutive week, while there's been a notable increase in momentum across other vessel size categories, exemplified by the Panamax Continent FE rates reaching a new peak.
 
-- **Capesize**vessel freight rates for shipments from Brazil to North China remained steady at approximately $31 per ton, representing a substantial 30% increase compared to rates observed just a month ago.
-- **Panamax**vessel freight rates from the Continent to the Far East surged to a new peak, surpassing $50 per ton and bolstering the optimism witnessed in the previous week, signalling a robust rebound in the market.
-- **Supramax**vessel freight rates on the Indo-ECI route held sentiment around $14/ton, 30% higher than a comparable week of a month ago.
-- **Handysize**freight rates for the NOPAC Far East route remained above $40 per ton for the second consecutive week, marking a 10% increase compared to rates recorded during a similar week last year.
+- **Capesize** vessel freight rates for shipments from Brazil to North China remained steady at approximately $31 per ton, representing a substantial 30% increase compared to rates observed just a month ago.
+- **Panamax** vessel freight rates from the Continent to the Far East surged to a new peak, surpassing $50 per ton and bolstering the optimism witnessed in the previous week, signalling a robust rebound in the market.
+- **Supramax** vessel freight rates on the Indo-ECI route held sentiment around $14/ton, 30% higher than a comparable week of a month ago.
+- **Handysize** freight rates for the NOPAC Far East route remained above $40 per ton for the second consecutive week, marking a 10% increase compared to rates recorded during a similar week last year.
 
 ![Screenshot 2024 03 20 18.16.25](assets/2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181625_2c4a791c7b51.png)
 

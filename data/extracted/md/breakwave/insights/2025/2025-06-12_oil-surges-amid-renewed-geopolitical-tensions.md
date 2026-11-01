@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/12/oil-surges-amid-renewed-geopolitical-tensions"
 tags: ["Commodities", "Shipping", "Markets"]
 images_count: 2
-word_count: 722
+word_count: 724
 source_file: "corpus/03-breakwave/insights/2025/2025-06-12_oil-surges-amid-renewed-geopolitical-tensions.html"
 ---
 
@@ -31,7 +31,7 @@ Rising geopolitical tensions lifted energy markets. Easing trade tension elicite
 
 ### Market Commentary
 
-**Crude oil**prices surged as geopolitical tension rose in the Middle East. The US government ordered a partial evacuation of its embassy in Iraq due to rising security concerns. The UK Navy also issued a rare warning to mariners that rising tension in the Middle East could affect shipping. This was compounded by speculation about possible supply disruptions in the region, after Agence France-Presse reported that Iran threatened to target US military bases in the region if conflict breaks out. Expectations of a new US-Iran nuclear are slowly evaporating. President Trump said he’s less confident about whether he can convince Tehran to agree on shutting down its nuclear program. Events in the Middle East overshadowed data showing signs of weakening US demand. Distillate demand plunged to all time seasonal lows (excluding 2020) based on the four-week average of product supplied, according to Energy Information Administration data. Gasoline inventories rose 1.5mbbl last week to their highest level in two months, as the US heads into the peak summer driving season. Overall, EIA’s weekly inventory report showed that crude oil inventories fell 3,644kbbl last week.
+**Crude oil** prices surged as geopolitical tension rose in the Middle East. The US government ordered a partial evacuation of its embassy in Iraq due to rising security concerns. The UK Navy also issued a rare warning to mariners that rising tension in the Middle East could affect shipping. This was compounded by speculation about possible supply disruptions in the region, after Agence France-Presse reported that Iran threatened to target US military bases in the region if conflict breaks out. Expectations of a new US-Iran nuclear are slowly evaporating. President Trump said he’s less confident about whether he can convince Tehran to agree on shutting down its nuclear program. Events in the Middle East overshadowed data showing signs of weakening US demand. Distillate demand plunged to all time seasonal lows (excluding 2020) based on the four-week average of product supplied, according to Energy Information Administration data. Gasoline inventories rose 1.5mbbl last week to their highest level in two months, as the US heads into the peak summer driving season. Overall, EIA’s weekly inventory report showed that crude oil inventories fell 3,644kbbl last week.
 
 **Global gas** prices lifted in response to moves in the oil market. However, the recent fall in prices also induced increased activity in Asia.**North Asian LNG** prices pushed higher as Chinese importers returned to the spot market. China’s CNOOC Ltd has already purchased a shipment for July delivery this week, with other enquiring about cargoes later this summer. The nation was the world’s biggest importer of the fuel in 2024 but has cut back this year due to high prices.**European gas** futures gained as much as 4%, as warm weather across the region increases the use of air conditioning.
 

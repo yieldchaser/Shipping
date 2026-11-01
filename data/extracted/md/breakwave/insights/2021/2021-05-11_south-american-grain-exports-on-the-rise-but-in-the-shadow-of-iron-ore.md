@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/11/south-american-grain-exports-on-the-rise-but-in-the-shadow-of-iron-ore"
 tags: ["Soybeans", "Brazil", "Argentina"]
 images_count: 1
-word_count: 632
+word_count: 633
 source_file: "corpus/03-breakwave/insights/2021/2021-05-11_south-american-grain-exports-on-the-rise-but-in-the-shadow-of-iron-ore.html"
 ---
 
@@ -28,7 +28,7 @@ Beyond statistical anomalies, soybeans look set to lose the crown as Brazil’s 
 
 ### Iron Ore 62% Fe (Usd/tonne)
 
-![A1](assets/2021-05-11_south-american-grain-exports-on-the-rise-but-in-the-shadow-of-iron-ore_img_a1_48f2bd5430a3.jpg)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-11_south-american-grain-exports-on-the-rise-but-in-the-shadow-of-iron-ore_img_a1_48f2bd5430a3.jpg)
 
 > **Figure 1: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-11_south-american-grain-exports-on-the-rise-but-in-the-shadow-of-iron-ore_img_a1_48f2bd5430a3.jpg)

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/25/geopolitics-and-trade-mixed-messages"
 tags: ["Geopolitics", "Global Economy", "Dry Bulk"]
 images_count: 2
-word_count: 767
+word_count: 769
 source_file: "corpus/03-breakwave/insights/2021/2021-01-25_geopolitics-and-trade-mixed-messages.html"
 ---
 
@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-01-25_geopolitics-and-trade
 
 ---
 
-![By Ulf Bergman](assets/2021-01-25_geopolitics-and-trade-mixed-messages_img_image-asset_45c90355786e.jpeg)
+![By Ulf Bergman](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-25_geopolitics-and-trade-mixed-messages_img_image-asset_45c90355786e.jpeg)
 
 > **Figure 1: By Ulf Bergman**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-25_geopolitics-and-trade-mixed-messages_img_image-asset_45c90355786e.jpeg)
@@ -37,7 +37,7 @@ The new president is also set to reinforce the “buy American” policy for the
 
 Despite the US elections are recently over, the race for the midterm elections is very much in full swing. The big prize is the Senate-majority, which given the current 50/50 split, could easily go either way in 2022. Hence, it is likely that the Biden-administration will promote and support the manufacturing industry in many swing-states that previously voted for Trump, hoping to secure a continued control of the Senate.
 
-![Water2](assets/2021-01-25_geopolitics-and-trade-mixed-messages_img_water2_2d0df1bd3969.jpg)
+![Water2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-25_geopolitics-and-trade-mixed-messages_img_water2_2d0df1bd3969.jpg)
 
 > **Figure 2: Water2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-25_geopolitics-and-trade-mixed-messages_img_water2_2d0df1bd3969.jpg)

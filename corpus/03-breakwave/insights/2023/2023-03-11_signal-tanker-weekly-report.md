@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/3/10/signal-tanker-weekly-report"
 images_count: 9
-word_count: 1226
+word_count: 1235
 source_file: "corpus/03-breakwave/insights/2023/2023-03-11_signal-tanker-weekly-report.html"
 ---
 
@@ -25,8 +25,8 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-11_signal-tanker-weekly-
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-reports-toncharts-trade/2nq6bx/306623343?h=peUdQrUawvxIYaF--sijeEvPracsW6atxQ4ADWeuSJQ) | [Local Asset](assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t175700958_9aa03037365f.png)
 
 Data Source: The Signal Ocean Platform, Toncharts - Demand
-[Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-reports-toncharts-trade/2nq6bx/306623343?h=peUdQrUawvxIYaF--sijeEvPracsW6atxQ4ADWeuSJQ)
-[Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-reports-vesselSpeeds/2nq6c4/306623343?h=peUdQrUawvxIYaF--sijeEvPracsW6atxQ4ADWeuSJQ)
+ [Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-reports-toncharts-trade/2nq6bx/306623343?h=peUdQrUawvxIYaF--sijeEvPracsW6atxQ4ADWeuSJQ)
+ [Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-reports-vesselSpeeds/2nq6c4/306623343?h=peUdQrUawvxIYaF--sijeEvPracsW6atxQ4ADWeuSJQ)
 
 The second week of March confirmed stronger momentum in VLCC rates, with demand growth paving the way for further optimism as supply also follows a declining trend.
 
@@ -46,9 +46,9 @@ Freight Market, Supply and Demand
 
 - Crude oil freight rate sentiment improved in the second week of March with a steady increase in the VLCC and Aframax segments.
 
-- **VLCC**AG-FE freight rates were at WS72, almost 27 points higher than at the end of the second week.
-- **Suezmax**freight rates from West Africa to continental Europe are now at 135 WS, nearly 20 points higher than two weeks ago and nearly 36 points higher than earlier this year.
-- **Aframax**Med freight rates surpassed WS 190, 14 points higher than week 7.
+- **VLCC** AG-FE freight rates were at WS72, almost 27 points higher than at the end of the second week.
+- **Suezmax** freight rates from West Africa to continental Europe are now at 135 WS, nearly 20 points higher than two weeks ago and nearly 36 points higher than earlier this year.
+- **Aframax** Med freight rates surpassed WS 190, 14 points higher than week 7.
 
 ## ‘Product’ LR2 - Firmer | LR1 -Weaker
 
@@ -57,13 +57,13 @@ Freight Market, Supply and Demand
 > **Figure 3: Weaker**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t175942308_b4eb7735a591.png)
 
-- **LR2**AG freight rates rose to WS195, 20 points higher than two weeks ago.
+- **LR2** AG freight rates rose to WS195, 20 points higher than two weeks ago.
 
-- **LR1**MEG -to-Japan freight rates posted a weaker trend, falling below WS190 in the first two weeks of March.
+- **LR1** MEG -to-Japan freight rates posted a weaker trend, falling below WS190 in the first two weeks of March.
 
 ## ‘Product’ Panamax -Firmer
 
-- **Panamax**Carib-to-USG rates rose steadily in the first days of March to about 338 WS, with a tendency to continue rising through the end of the week.
+- **Panamax** Carib-to-USG rates rose steadily in the first days of March to about 338 WS, with a tendency to continue rising through the end of the week.
 
 ## ‘Clean’ MR2, MR1 - Weaker
 
@@ -72,10 +72,10 @@ Freight Market, Supply and Demand
 > **Figure 4: Clean**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t180017084_544bc73811ea.png)
 
-- **MR1**rates Algeria-to-Med are now at WS180, 30 points lower than at the end of February.
+- **MR1** rates Algeria-to-Med are now at WS180, 30 points lower than at the end of February.
 
-- **MR1**rates Baltic-to-Cont are now at WS173 and have dropped to levels similar to mid-February.
-- **MR2**rates Cont-to-US are now at WS195, indicating stronger momentum in the second week of March, following a decline to around WS160 in the days before
+- **MR1** rates Baltic-to-Cont are now at WS173 and have dropped to levels similar to mid-February.
+- **MR2** rates Cont-to-US are now at WS195, indicating stronger momentum in the second week of March, following a decline to around WS160 in the days before
 
 ## Section 2/ Supply -(# Vessels)
 
@@ -127,7 +127,7 @@ Freight Market, Supply and Demand
 > **Figure 9: Market Chart 9**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t180407000_d61e199b025d.png)
 
-- **Dirty**demand ton-days: March began with slowing momentum in the crude oil tanker segment for Aframax vessels but with significant strength in the VLCC and Suezmax segments.
+- **Dirty** demand ton-days: March began with slowing momentum in the crude oil tanker segment for Aframax vessels but with significant strength in the VLCC and Suezmax segments.
 
 - demand ton-days / Panamax demand: After several consecutive increases in the second half of February, there was a sharp decline with a tendency for a further decline in the coming days.
 - MR: The growth of MR follows a downward trend, with the last peak in week 5, and it remains to be seen whether the decline will continue at a similar pace until the end of the month.

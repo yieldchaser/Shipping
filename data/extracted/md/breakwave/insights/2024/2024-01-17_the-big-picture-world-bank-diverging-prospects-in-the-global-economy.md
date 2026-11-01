@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/1/15/the-big-picture-world-bank-diverging-prospects-in-the-global-economy"
 images_count: 3
-word_count: 731
+word_count: 734
 source_file: "corpus/03-breakwave/insights/2024/2024-01-17_the-big-picture-world-bank-diverging-prospects-in-the-global-economy.html"
 ---
 

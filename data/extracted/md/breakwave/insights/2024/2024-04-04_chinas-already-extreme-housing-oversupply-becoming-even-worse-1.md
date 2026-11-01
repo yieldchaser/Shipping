@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/4/chinas-already-extreme-housing-oversupply-becoming-even-worse-1"
 tags: ["China", "Drybulk", "Ironore"]
 images_count: 4
-word_count: 578
+word_count: 582
 source_file: "corpus/03-breakwave/insights/2024/2024-04-04_chinas-already-extreme-housing-oversupply-becoming-even-worse-1.html"
 ---
 

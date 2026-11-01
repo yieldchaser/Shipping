@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/5/19/signal-tanker-weekly-report"
 images_count: 9
-word_count: 1714
+word_count: 1723
 source_file: "corpus/03-breakwave/insights/2023/2023-05-19_signal-tanker-weekly-report.html"
 ---
 
@@ -29,8 +29,8 @@ source_file: "corpus/03-breakwave/insights/2023/2023-05-19_signal-tanker-weekly-
 > **Interactive Data & Source:** [Signal Ocean Dynamic Market Prices](https://go.signalocean.com/e/983831/-dynamic-market-prices-tankers/2nymrj/320259852?h=h4z-JkOpuQ4cUrF-0OfQzFHPdhbyrNEH_2qh4Rfh39k) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-19_signal-tanker-weekly-report_img_unnamed-2023-05-19t113718701_c62e331ceaed.png)
 
 Data Source: The Signal Ocean Platform- Supply / Demand Ton Charts
-[Signal Ocean Dynamic Market Prices](https://go.signalocean.com/e/983831/-dynamic-market-prices-tankers/2nymrj/320259852?h=h4z-JkOpuQ4cUrF-0OfQzFHPdhbyrNEH_2qh4Rfh39k)
-[Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-reports-vesselSpeeds/2nymrm/320259852?h=h4z-JkOpuQ4cUrF-0OfQzFHPdhbyrNEH_2qh4Rfh39k)
+ [Signal Ocean Dynamic Market Prices](https://go.signalocean.com/e/983831/-dynamic-market-prices-tankers/2nymrj/320259852?h=h4z-JkOpuQ4cUrF-0OfQzFHPdhbyrNEH_2qh4Rfh39k)
+ [Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-reports-vesselSpeeds/2nymrm/320259852?h=h4z-JkOpuQ4cUrF-0OfQzFHPdhbyrNEH_2qh4Rfh39k)
 
 The sustained decline in Very Large Crude Carrier (VLCC) freight rates from the Middle East Gulf (MEG) to China continues, despite expectations of increased Chinese oil demand this year, as projected by the latest estimates from the International Energy Agency (IEA). The sustained decrease in rates throughout May reflects the prevailing market conditions and suggests a notable shift in the supply and demand dynamics in this particular trade route.The left chart above illustrates this downward trend, with freight rates (WS rates) currently at their lowest level since the start of the year. Consequently, this has led to a reduction in high seagoing ballast speeds, as depicted in the right chart above, compared to the earlier recorded levels earlier this year.
 

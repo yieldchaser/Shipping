@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/1/19/strong-growth-in-indias-electricity-production-o3NPe"
 images_count: 3
-word_count: 360
+word_count: 363
 source_file: "corpus/03-breakwave/insights/2023/2023-01-20_strong-growth-in-indias-electricity-production-o3npe.html"
 ---
 

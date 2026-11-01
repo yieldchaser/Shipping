@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/1/18/russian-crude-red-sea-transits-stabilise-for-now-aframax-med-exodus"
 images_count: 2
-word_count: 725
+word_count: 727
 source_file: "corpus/03-breakwave/insights/2024/2024-01-18_russian-crude-red-sea-transits-stabilise-for-now-aframax-med-exodus.html"
 ---
 

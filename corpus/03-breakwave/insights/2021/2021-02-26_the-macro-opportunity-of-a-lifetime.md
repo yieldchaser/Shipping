@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/24/the-macro-opportunity-of-a-lifetime-"
 tags: ["Shipping", "Global Economy"]
 images_count: 5
-word_count: 1762
+word_count: 1767
 source_file: "corpus/03-breakwave/insights/2021/2021-02-26_the-macro-opportunity-of-a-lifetime.html"
 ---
 
@@ -29,13 +29,13 @@ The value proposition for buying commodities and selling stocks has never been s
 > **Figure 1: Crescat Capital**  
 > **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/2/10/the-un-correlated-nature-of-dry-bulk-stocks) | [Local Asset](assets/2021-02-26_the-macro-opportunity-of-a-lifetime_img_image-asset_2210568c8be1.jpeg)
 
-Everyone fromto**Bank of America**to**Ospraie Management**are calling for a commodities bull market as government stimulus kicks in and vaccines are deployed around the world to fight the coronavirus. Investing luminaries from**Point72**to**Pimco**are calling for commodity prices to move higher.
+Everyone fromto **Bank of America** to **Ospraie Management** are calling for a commodities bull market as government stimulus kicks in and vaccines are deployed around the world to fight the coronavirus. Investing luminaries from **Point72** to **Pimco** are calling for commodity prices to move higher.
 
 With agricultural prices soaring, metal prices hitting some of the highest levels in years and oil now well above $50 per barrel,**JPMorgan Chase & Co.**is also calling it: Commodities appear to have begun a new supercycle expected to last many years.
 
 A long-term boom across the commodities complex appears likely with Wall Street betting on a strong economic recovery from the pandemic but also looking to hedge against inflation. On top of that, prices might also jump as an “unintended consequence” of the fight against climate change, which threatens to constrain oil supplies while boosting demand for metals needed to build renewable energy infrastructure, batteries and electric vehicles.
 
-According to**Daniel Sullivan**, Head of Global Natural Resources at**Janus Henderson Investors**, there have been six commodity peaks in the past 227 years, with the most recent peak in June 2008. Analysis shows that the current supercycle is following the average path of these historic supercycles, pointing to a turn in commodities through the 2020’s.
+According to **Daniel Sullivan**, Head of Global Natural Resources at **Janus Henderson Investors**, there have been six commodity peaks in the past 227 years, with the most recent peak in June 2008. Analysis shows that the current supercycle is following the average path of these historic supercycles, pointing to a turn in commodities through the 2020’s.
 
 ### Us Commodity Price Index 1795 to Present
 
@@ -58,13 +58,13 @@ In China, rising infrastructure spending, rate cuts, increasing pressure to the 
 
 Many market experts single out iron ore, the main ingredient for steel, as a commodity heading for an inflection point when prices stay at elevated levels for a considerable period of time.
 
-Analysts at**Morgan Stanley**also hold to a bullish scenario for iron ore prices in the years ahead. They laid out a ‘plausible scenario’ in a recent report of iron ore prices trading at more than $US165 per tonne for a three-year period out to 2024.
+Analysts at **Morgan Stanley** also hold to a bullish scenario for iron ore prices in the years ahead. They laid out a ‘plausible scenario’ in a recent report of iron ore prices trading at more than $US165 per tonne for a three-year period out to 2024.
 
 Australia accounts for the lion’s share of supply for the seaborne market for iron ore, with the balance largely made up by Brazil which has suffered some recent supply setbacks.
 
 Steel production in China seen as robust and growing in years ahead. China’s urbanization levels are currently around 50% compared to a level of 80% in Europe and North America, indicating the Asian country still has some way to go to equal urbanization rates in Western countries.
 
-Current steel production in China is around 1.1 billion tonnes per year and has increased by around 200 million tonnes in the past few years. “That means another 300 million tonnes a year of iron ore is needed”,**Magnetite Mines**directorsaid.
+Current steel production in China is around 1.1 billion tonnes per year and has increased by around 200 million tonnes in the past few years. “That means another 300 million tonnes a year of iron ore is needed”,**Magnetite Mines** directorsaid.
 
 ![Mark Eames](assets/2021-02-26_the-macro-opportunity-of-a-lifetime_img_image-asset_6d2194c6d3b4.png)
 
@@ -77,13 +77,13 @@ The long era of monetary-policy dominance is over, leading to a heightening of i
 
 Prices have already jumped from their low point in the spring. Copper, iron ore and soybeans have risen to their highest levels in more than six years, spurred by a Chinese buying spree.
 
-“We very much believe that the fundamentals are now in place for a new, structural, bull market to begin,” said**Robert Howell**, senior research strategist at**Gresham Investment Management**, the commodities-focused unit of**Nuveen**with $5.8 billion in assets in the sector. “In the years to come, it’s highly probable that a great many investors will look back on 2020 and wonder how they missed these signs of a new commodity bull market.”
+“We very much believe that the fundamentals are now in place for a new, structural, bull market to begin,” said **Robert Howell**, senior research strategist at **Gresham Investment Management**, the commodities-focused unit of **Nuveen** with $5.8 billion in assets in the sector. “In the years to come, it’s highly probable that a great many investors will look back on 2020 and wonder how they missed these signs of a new commodity bull market.”
 
 Commodities are stereotypical cyclical assets, rising and falling in synchrony with the global economy. That puts them first in line to benefit from the recovery that could be unleashed by virus vaccines.
 
-“We are optimistic on commodities overall, as recovering global economic growth and the possibility of higher inflation should be supportive for prices,” says**Evy Hambro**, who helps manage $16 billion as global head of thematic and sector investing at**BlackRock**Inc.
+“We are optimistic on commodities overall, as recovering global economic growth and the possibility of higher inflation should be supportive for prices,” says **Evy Hambro**, who helps manage $16 billion as global head of thematic and sector investing at **BlackRock** Inc.
 
-**Nic Johnson**, who manages about $20 billion of commodity index investments as well as a separate hedge fund at**Pimco**, believes commodities “will benefit from the global reflationary theme.”
+**Nic Johnson**, who manages about $20 billion of commodity index investments as well as a separate hedge fund at **Pimco**, believes commodities “will benefit from the global reflationary theme.”
 
 **Obtain dry bulk shipping exposure. Diversify into an uncorrelated, global macro theme.**
 
@@ -98,7 +98,7 @@ Erling Naess
 
 It will, however, probably not be alone. Governments around the globe have already made their intentions plain on to drive a recovery from the pandemic through spending on aging or missing infrastructure, which will create additional demand for industrial commodities like iron ore and copper.
 
-Shipping is the lifeblood but also the workhorse of global economy. Norwegian shipping tycoon**Erling Naess**put it nicely a few year ago: “God must have been a shipowner. He placed the raw materials far from where they were needed and covered two thirds of the earth with water."
+Shipping is the lifeblood but also the workhorse of global economy. Norwegian shipping tycoon **Erling Naess** put it nicely a few year ago: “God must have been a shipowner. He placed the raw materials far from where they were needed and covered two thirds of the earth with water."
 
 An allocation into dry bulk shipping may improve overall portfolio risk-adjusted returns due to the uncorrelated nature of the sector at a period when the industry is experiencing a cyclical upturn.
 
@@ -110,7 +110,7 @@ For pure dry bulk exposure, one needs to consider instruments that directly corr
 
 BDRY, the ETF that invests in freight futures is the only instrument globally through which an investor can access freight futures in an easy and convenient way similar to buying any other stock. Absent this option, there is no other simple way for an investor to directly participate in the dry bulk market.
 
-Have a look at the latest Breakwave Advisors’ insights[here](https://www.breakwaveadvisors.com/insights/2021/2/10/the-un-correlated-nature-of-dry-bulk-stocks).
+Have a look at the latest Breakwave Advisors’ insights [here](https://www.breakwaveadvisors.com/insights/2021/2/10/the-un-correlated-nature-of-dry-bulk-stocks).
 
 ---
 

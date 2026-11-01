@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/30/the-big-picture-q3-2021-forecast"
 tags: ["Dry Bulk", "Shipping", "Forecast"]
 images_count: 4
-word_count: 2091
+word_count: 2095
 source_file: "corpus/03-breakwave/insights/2021/2021-07-31_the-big-picture-q3-2021-forecast.html"
 ---
 

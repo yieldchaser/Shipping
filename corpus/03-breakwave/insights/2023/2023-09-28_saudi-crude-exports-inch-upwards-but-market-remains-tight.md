@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/9/28/saudi-crude-exports-inch-upwards-but-market-remains-tight"
 images_count: 2
-word_count: 1051
+word_count: 1053
 source_file: "corpus/03-breakwave/insights/2023/2023-09-28_saudi-crude-exports-inch-upwards-but-market-remains-tight.html"
 ---
 

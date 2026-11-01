@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/20/the-equity-rally-and-the-perilous-promises-of-artificial-intelligence"
 tags: ["Markets", "Economy", "Macro"]
 images_count: 9
-word_count: 2031
+word_count: 2040
 source_file: "corpus/03-breakwave/insights/2024/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence.html"
 ---
 

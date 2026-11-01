@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/4/the-capesize-segment-stood-out-for-its-volatility"
 tags: ["China", "Drybulk", "Ironore"]
 images_count: 3
-word_count: 935
+word_count: 938
 source_file: "corpus/03-breakwave/insights/2024/2024-11-04_the-capesize-segment-stood-out-for-its-volatility.html"
 ---
 

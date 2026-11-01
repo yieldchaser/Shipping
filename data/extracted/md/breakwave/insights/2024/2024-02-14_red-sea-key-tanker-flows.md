@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/14/red-sea-key-tanker-flows"
 tags: ["Shipping", "Tankers", "Redsea"]
 images_count: 2
-word_count: 710
+word_count: 712
 source_file: "corpus/03-breakwave/insights/2024/2024-02-14_red-sea-key-tanker-flows.html"
 ---
 

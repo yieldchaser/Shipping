@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/12/5/cargo-demand-and-fleet-supply-issues-continue"
 images_count: 3
-word_count: 405
+word_count: 408
 source_file: "corpus/03-breakwave/insights/2022/2022-12-05_cargo-demand-and-fleet-supply-issues-continue.html"
 ---
 

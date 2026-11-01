@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/21/signal-dry-bulk-weekly-report"
 images_count: 6
-word_count: 1153
+word_count: 1159
 source_file: "corpus/03-breakwave/insights/2022/2022-07-21_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -54,10 +54,10 @@ Data Source: The Signal Ocean Platform, Dry Bulk Flows, Coal, from South Africa 
 
 Freight sentiment remained unchanged compared to the previous weeks of July, as a downward trend continued to be observed in the smaller vessel categories. The Capesize segment continued its ongoing upward trend in July, while the Panamax and Handysize segments recorded a steady decline.
 
-- **Capesize**Brazil-to-North China freight rates increased to $33/tonne, up $2/tonne from the previous week, with the upward trend now in its third week.
-- **Panamax**Continent-to-Far East freight rates fell to $44.5/tonne, down $3.5/tonne from last week.
-- **Supramax**Indo-to-ECI freight rates fell to $23/tonne, and the decline continued from the peak in week 24.
-- **Handysize**NOPAC-to-Far East freight rates appeared to have reached a low of about $53/tonne over the past two weeks, down $12/tonne from week 21.
+- **Capesize** Brazil-to-North China freight rates increased to $33/tonne, up $2/tonne from the previous week, with the upward trend now in its third week.
+- **Panamax** Continent-to-Far East freight rates fell to $44.5/tonne, down $3.5/tonne from last week.
+- **Supramax** Indo-to-ECI freight rates fell to $23/tonne, and the decline continued from the peak in week 24.
+- **Handysize** NOPAC-to-Far East freight rates appeared to have reached a low of about $53/tonne over the past two weeks, down $12/tonne from week 21.
 
 ## Section 2 - Supply - Ballasters View
 
@@ -70,10 +70,10 @@ Freight sentiment remained unchanged compared to the previous weeks of July, as 
 
 In the Supramax segment, the number of ships continued to increase, while, there was also a clear upward trend in the number of Capesize vessels.
 
-- **Capesize**SE Africa: The number of vessels increased to 88, 23 more than week 26.
-- **Panamax**SE Africa: The number of ships recorded a slight decrease to 114 vessels, 6 above the annual average.
-- **Supramax**SE Asia: The number of vessels is approaching the annual average of 86 ships, with a downward trend expected in the coming days.
-- **Handysize**NOPAC: The number of vessels reached a high of 70, up 24 from two weeks ago.
+- **Capesize** SE Africa: The number of vessels increased to 88, 23 more than week 26.
+- **Panamax** SE Africa: The number of ships recorded a slight decrease to 114 vessels, 6 above the annual average.
+- **Supramax** SE Asia: The number of vessels is approaching the annual average of 86 ships, with a downward trend expected in the coming days.
+- **Handysize** NOPAC: The number of vessels reached a high of 70, up 24 from two weeks ago.
 
 ## Section 3 - Demand - In Ton Days
 
@@ -86,10 +86,10 @@ In the Supramax segment, the number of ships continued to increase, while, there
 
 The downward trend continued in the third week of July, with the Handysize, Panamax, and Capesize segments recording significantly lower growth.
 
-- **Capesize**demand ton-days: The percentage increase this week shows another clear downward trend, approaching the low point in weeks 21 and 22.
-- **Panamax**demand ton-days: The growth persisted slower than the peak in Week 26 with a sustained decrease over the last three weeks.
-- **Supramax**demand ton-days: Percentage growth seems to have settled at a weaker level in the last two weeks than in weeks 25 and 27.
-- **Handysize**demand ton-days: The downward trend continues and there are no signs of recovery since Week 27.
+- **Capesize** demand ton-days: The percentage increase this week shows another clear downward trend, approaching the low point in weeks 21 and 22.
+- **Panamax** demand ton-days: The growth persisted slower than the peak in Week 26 with a sustained decrease over the last three weeks.
+- **Supramax** demand ton-days: Percentage growth seems to have settled at a weaker level in the last two weeks than in weeks 25 and 27.
+- **Handysize** demand ton-days: The downward trend continues and there are no signs of recovery since Week 27.
 
 ## Section 4 - Chinese Port Congestions -
 

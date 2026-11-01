@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/7/floating-storage-hits-three-year-high"
 tags: ["Markets", "Shipping", "Tankers"]
 images_count: 7
-word_count: 1086
+word_count: 1093
 source_file: "corpus/03-breakwave/insights/2025/2025-12-08_floating-storage-hits-three-year-high.html"
 ---
 
@@ -22,14 +22,14 @@ source_file: "corpus/03-breakwave/insights/2025/2025-12-08_floating-storage-hits
 
 ### Offshore Volumes Rise Amid Growing Oversupply Signals
 
-A data-driven review facilitated by the[Floating Storage platform report](https://go.signalocean.com/e/983831/anker-dynamic-floating-storage/2rnw86/558252008/h/0BoY9QFVOFor9hBgpfYGSDEEmD4pDWRYJYdhEmHd8Tc)shows the seasonality of floating storage since 2022 across VLCC, Suezmax, and Aframax fleets, the surge in Iranian-linked storage off Malaysia, and future outlooks marked by persistent oversupply risks and declining oil price estimates.
+A data-driven review facilitated by the [Floating Storage platform report](https://go.signalocean.com/e/983831/anker-dynamic-floating-storage/2rnw86/558252008/h/0BoY9QFVOFor9hBgpfYGSDEEmD4pDWRYJYdhEmHd8Tc) shows the seasonality of floating storage since 2022 across VLCC, Suezmax, and Aframax fleets, the surge in Iranian-linked storage off Malaysia, and future outlooks marked by persistent oversupply risks and declining oil price estimates.
 
 ![Market Chart 1](assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed_63c196dcf1fe.png)
 
 > **Figure 1: Market Chart 1**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/anker-dynamic-floating-storage/2rnw86/558252008/h/0BoY9QFVOFor9hBgpfYGSDEEmD4pDWRYJYdhEmHd8Tc) | [Local Asset](assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed_63c196dcf1fe.png)
 
-[Floating](https://go.signalocean.com/e/983831/anker-dynamic-floating-storage/2rnw86/558252008/h/0BoY9QFVOFor9hBgpfYGSDEEmD4pDWRYJYdhEmHd8Tc)storage is rising sharply across the tanker segments, VLCC, Suezmax, and Aframax, signalling a market increasingly shaped by oversupply concerns. The latest readings point to a decisive break higher through late 2025, with floating barrels approaching the 150 million bbl threshold peak recorded back in November 2022.
+[Floating](https://go.signalocean.com/e/983831/anker-dynamic-floating-storage/2rnw86/558252008/h/0BoY9QFVOFor9hBgpfYGSDEEmD4pDWRYJYdhEmHd8Tc) storage is rising sharply across the tanker segments, VLCC, Suezmax, and Aframax, signalling a market increasingly shaped by oversupply concerns. The latest readings point to a decisive break higher through late 2025, with floating barrels approaching the 150 million bbl threshold peak recorded back in November 2022.
 
 ![Market Chart 2](assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed28129_8d3a7efb2b87.png)
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/16/the-cape-trifecta-part-ii-chinese-coal-appetite"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 6
-word_count: 1382
+word_count: 1388
 source_file: "corpus/03-breakwave/insights/2025/2025-01-16_the-cape-trifecta-part-ii-chinese-coal-appetite.html"
 ---
 

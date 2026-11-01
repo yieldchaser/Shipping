@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/5/20/taking-stock-of-gender-diversity-in-shipping-for-womens-history-month"
 images_count: 2
-word_count: 1717
+word_count: 1719
 source_file: "corpus/03-breakwave/insights/2022/2022-05-21_taking-stock-of-gender-diversity-in-shipping-for-womens-history-month.html"
 ---
 

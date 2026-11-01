@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/7/7/weekly-insights-review"
 images_count: 10
-word_count: 1198
+word_count: 1208
 source_file: "corpus/03-breakwave/insights/2023/2023-07-10_weekly-insights-review.html"
 ---
 

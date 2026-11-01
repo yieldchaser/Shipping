@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/1/on-your-marks-get-set-dig"
 tags: ["Shipping", "Markets", "Drybulk"]
 images_count: 4
-word_count: 1322
+word_count: 1326
 source_file: "corpus/03-breakwave/insights/2025/2025-04-01_on-your-marks-get-set-dig.html"
 ---
 

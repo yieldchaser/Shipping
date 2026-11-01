@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/17/open-for-business"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 2
-word_count: 601
+word_count: 603
 source_file: "corpus/03-breakwave/insights/2025/2025-11-17_open-for-business.html"
 ---
 

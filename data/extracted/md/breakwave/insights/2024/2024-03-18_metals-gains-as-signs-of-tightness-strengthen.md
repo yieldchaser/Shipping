@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/18/metals-gains-as-signs-of-tightness-strengthen"
 tags: ["Commodities", "Crude Oil", "Ironore"]
 images_count: 1
-word_count: 678
+word_count: 679
 source_file: "corpus/03-breakwave/insights/2024/2024-03-18_metals-gains-as-signs-of-tightness-strengthen.html"
 ---
 

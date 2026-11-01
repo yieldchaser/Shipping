@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/11/11/capesize-market-turnaround-thanksgiving"
 tags: ["Capesize", "Dry Bulk", "Brazil"]
 images_count: 4
-word_count: 851
+word_count: 855
 source_file: "corpus/03-breakwave/insights/2020/2020-11-11_capesize-market-turnaround-thanksgiving.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/5/11/retail-sale-growth-in-china-has-been-exceeding-inflation"
 images_count: 2
-word_count: 331
+word_count: 333
 source_file: "corpus/03-breakwave/insights/2023/2023-05-11_retail-sale-growth-in-china-has-been-exceeding-inflation.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/11/17/rebound-in-indian-electricity-production"
 tags: ["India", "Energy", "Electricity", "Coal"]
 images_count: 4
-word_count: 570
+word_count: 574
 source_file: "corpus/03-breakwave/insights/2021/2021-11-17_rebound-in-indian-electricity-production.html"
 ---
 

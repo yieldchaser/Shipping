@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/3/24/coal-indias-production-remains-strong"
 tags: ["Coal", "India", "Exports"]
 images_count: 4
-word_count: 397
+word_count: 401
 source_file: "corpus/03-breakwave/insights/2022/2022-03-24_coal-indias-production-remains-strong.html"
 ---
 

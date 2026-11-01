@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/28/agricultural-commodities-demand-for-us-exports-to-remain-strong-driving-rising-imports-of-soybeans"
 tags: ["Soybeans", "Corn", "Wheat"]
 images_count: 3
-word_count: 760
+word_count: 763
 source_file: "corpus/03-breakwave/insights/2021/2021-01-28_agricultural-commodities-demand-for-us-exports-to-remain-strong-driving-rising-i.html"
 ---
 
@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-01-28_agricultural-commodit
 
 ---
 
-![By Ulf Bergman](assets/2021-01-28_agricultural-commodities-demand-for-us-exports-to-remain-strong-driving-rising-i_img_image-asset_71408ade43d1.jpeg)
+![By Ulf Bergman](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-28_agricultural-commodities-demand-for-us-exports-to-remain-strong-driving-rising-i_img_image-asset_71408ade43d1.jpeg)
 
 > **Figure 1: By Ulf Bergman**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-28_agricultural-commodities-demand-for-us-exports-to-remain-strong-driving-rising-i_img_image-asset_71408ade43d1.jpeg)
@@ -29,7 +29,7 @@ The shortage of available containers in many export ports, especially in China, 
 
 Chinese purchases of US soybeans spiked in the latter parts of last year to levels not seen for four years. There are also no indications that the Chinese appetite for American soybeans will decrease anytime soon, as the country is rebuilding its pig herd after the devastating impact of the African swine fever a few years ago. The depletion of Brazilian inventories, following strong demand from China, and last year’s Phase One deal have pushed Chinese buyers to increase their acquisitions in the US.
 
-![Ulf 220](assets/2021-01-28_agricultural-commodities-demand-for-us-exports-to-remain-strong-driving-rising-i_img_ulf220_879beed206c5.png)
+![Ulf 220](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-28_agricultural-commodities-demand-for-us-exports-to-remain-strong-driving-rising-i_img_ulf220_879beed206c5.png)
 
 > **Figure 2: Ulf 220**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-28_agricultural-commodities-demand-for-us-exports-to-remain-strong-driving-rising-i_img_ulf220_879beed206c5.png)
@@ -38,7 +38,7 @@ A continued strong demand for imported soybeans in China could see American inve
 
 The strong Chinese demand, in combination with dwindling US inventories, are also pushing prices at The Chicago Board of Trade to levels last seen in 2014, after spending much of the last few years around the decade lows.
 
-![Ulf 221](assets/2021-01-28_agricultural-commodities-demand-for-us-exports-to-remain-strong-driving-rising-i_img_ulf221_b1b3ca056aad.jpg)
+![Ulf 221](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-28_agricultural-commodities-demand-for-us-exports-to-remain-strong-driving-rising-i_img_ulf221_b1b3ca056aad.jpg)
 
 > **Figure 3: Ulf 221**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-28_agricultural-commodities-demand-for-us-exports-to-remain-strong-driving-rising-i_img_ulf221_b1b3ca056aad.jpg)

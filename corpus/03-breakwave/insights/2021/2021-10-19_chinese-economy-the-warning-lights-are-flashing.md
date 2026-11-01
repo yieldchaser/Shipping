@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/19/chinese-economy-the-warning-lights-are-flashing"
 tags: ["China", "Economy", "Crisis"]
 images_count: 3
-word_count: 949
+word_count: 952
 source_file: "corpus/03-breakwave/insights/2021/2021-10-19_chinese-economy-the-warning-lights-are-flashing.html"
 ---
 

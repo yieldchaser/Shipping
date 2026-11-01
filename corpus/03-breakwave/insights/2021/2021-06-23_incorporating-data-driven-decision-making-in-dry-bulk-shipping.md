@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/23/incorporating-data-driven-decision-making-in-dry-bulk-shipping"
 tags: ["Datadriven", "Decisionmaking", "Shipping"]
 images_count: 3
-word_count: 1864
+word_count: 1867
 source_file: "corpus/03-breakwave/insights/2021/2021-06-23_incorporating-data-driven-decision-making-in-dry-bulk-shipping.html"
 ---
 

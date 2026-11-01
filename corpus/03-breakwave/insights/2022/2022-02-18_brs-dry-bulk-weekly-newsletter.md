@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/2/18/brs-dry-bulk-weekly-newsletter"
 tags: ["Shipping", "Dry Bulk", "Global", "Price"]
 images_count: 5
-word_count: 1373
+word_count: 1378
 source_file: "corpus/03-breakwave/insights/2022/2022-02-18_brs-dry-bulk-weekly-newsletter.html"
 ---
 

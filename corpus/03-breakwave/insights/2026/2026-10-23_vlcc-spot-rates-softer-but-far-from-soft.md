@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/23/vlcc-spot-rates-softer-but-far-from-soft"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 1
-word_count: 1260
+word_count: 1261
 source_file: "corpus/03-breakwave/insights/2026/2026-10-23_vlcc-spot-rates-softer-but-far-from-soft.html"
 ---
 

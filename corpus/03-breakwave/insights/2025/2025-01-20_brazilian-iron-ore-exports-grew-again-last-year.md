@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/20/brazilian-iron-ore-exports-grew-again-last-year"
 tags: ["Shipping", "Drybulk", "Ironore"]
 images_count: 1
-word_count: 332
+word_count: 333
 source_file: "corpus/03-breakwave/insights/2025/2025-01-20_brazilian-iron-ore-exports-grew-again-last-year.html"
 ---
 

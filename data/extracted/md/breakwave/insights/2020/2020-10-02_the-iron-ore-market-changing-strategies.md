@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/2/the-iron-ore-market-changing-strategies"
 tags: ["Dry Bulk", "Brazil", "Australia"]
 images_count: 4
-word_count: 1267
+word_count: 1271
 source_file: "corpus/03-breakwave/insights/2020/2020-10-02_the-iron-ore-market-changing-strategies.html"
 ---
 

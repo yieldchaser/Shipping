@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/18/china-the-base-effects-are-easing-off"
 tags: ["China", "Economics"]
 images_count: 2
-word_count: 787
+word_count: 789
 source_file: "corpus/03-breakwave/insights/2021/2021-05-18_china-the-base-effects-are-easing-off.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-05-18_china-the-base-effect
 
 The first few months of last year saw many parts of the Chinese economy severely impacted by the early stages of the global pandemic, something that has had considerable base effects as the strong recovery continued into this year. However, as the year progresses these effects will disappear with the points of reference now being after the Chinese economy started its strong recovery. Given the strength of the recovery during last autumn, numbers may even start to look underwhelming for the casual observer during the second half of the year. For now, though, Chinese industrial production continues to perform well and grew by 9.8 per cent in April compared to a year ago, which was only marginally below the ten per cent median forecast in a Bloomberg survey. While not on par with March’s 14.4 per cent growth, the diminishing base effect suggests that the Chinese manufacturing growth is still strong.
 
-![Data Source: National Bureau of Statistics of China](assets/2021-05-18_china-the-base-effects-are-easing-off_img_ulfmay18_1d50ff0240fe.png)
+![Data Source: National Bureau of Statistics of China](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-18_china-the-base-effects-are-easing-off_img_ulfmay18_1d50ff0240fe.png)
 
 > **Figure 1: Data Source: National Bureau of Statistics of China**  
 > *Data source: National Bureau of Statistics of China*  
@@ -34,7 +34,7 @@ Although the industrial production was broadly in line with pundits’ expectati
 
 The continued strength of the Chinese industrial production suggests that China will remain an important driver for global economic growth and commodity demand, but the present dominance may diminish somewhat. The unbalanced nature of the latest data release also underlines the challenges the policymakers in Beijing are facing, to increase consumer spending and the strength of the domestic economy while controlling the industrial growth and scaling back infrastructure stimulus spending. The data release also suggests that economic expansion probably peaked during the first quarter, with decelerating growth rates during the rest of the year. However, while the growth rates may become modest by recent Chinese standards, the sheer extent of Chinese commodity consumption will continue to contribute to a robust demand.
 
-![Unsplash Image Lh Q8dbkgz0](assets/2021-05-18_china-the-base-effects-are-easing-off_img_unsplash-image-lh-q8dbkgz0_6e05ddc62797.jpg)
+![Unsplash Image Lh Q8dbkgz0](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-18_china-the-base-effects-are-easing-off_img_unsplash-image-lh-q8dbkgz0_6e05ddc62797.jpg)
 
 > **Figure 2: Unsplash Image Lh Q8dbkgz0**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-18_china-the-base-effects-are-easing-off_img_unsplash-image-lh-q8dbkgz0_6e05ddc62797.jpg)

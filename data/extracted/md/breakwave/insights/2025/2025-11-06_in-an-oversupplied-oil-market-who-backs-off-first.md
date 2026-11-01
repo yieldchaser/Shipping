@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/6/in-an-oversupplied-oil-market-who-backs-off-first"
 tags: ["Crude", "Markets", "Tankers"]
 images_count: 4
-word_count: 1053
+word_count: 1057
 source_file: "corpus/03-breakwave/insights/2025/2025-11-06_in-an-oversupplied-oil-market-who-backs-off-first.html"
 ---
 

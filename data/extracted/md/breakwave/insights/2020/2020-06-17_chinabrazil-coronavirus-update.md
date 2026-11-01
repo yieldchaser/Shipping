@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/17/chinabrazil-coronavirus-update"
 tags: ["Brazil", "China", "Shipping", "Coronavirus"]
 images_count: 1
-word_count: 277
+word_count: 278
 source_file: "corpus/03-breakwave/insights/2020/2020-06-17_chinabrazil-coronavirus-update.html"
 ---
 

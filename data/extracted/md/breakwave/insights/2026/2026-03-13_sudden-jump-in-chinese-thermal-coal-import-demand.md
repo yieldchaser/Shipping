@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/13/sudden-jump-in-chinese-thermal-coal-import-demand"
 tags: ["Coal", "China", "Commodities"]
 images_count: 1
-word_count: 179
+word_count: 180
 source_file: "corpus/03-breakwave/insights/2026/2026-03-13_sudden-jump-in-chinese-thermal-coal-import-demand.html"
 ---
 

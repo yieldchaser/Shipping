@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/4/7/one-of-the-most-active-sampp-periods-in-recent-memory"
 tags: ["Shipping Drybulk Tankers"]
 images_count: 1
-word_count: 675
+word_count: 676
 source_file: "corpus/03-breakwave/insights/2026/2026-04-07_one-of-the-most-active-sampp-periods-in-recent-memory.html"
 ---
 

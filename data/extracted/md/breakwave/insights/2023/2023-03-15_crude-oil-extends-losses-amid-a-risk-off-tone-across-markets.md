@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/3/15/crude-oil-extends-losses-amid-a-risk-off-tone-across-markets"
 images_count: 1
-word_count: 566
+word_count: 567
 source_file: "corpus/03-breakwave/insights/2023/2023-03-15_crude-oil-extends-losses-amid-a-risk-off-tone-across-markets.html"
 ---
 
@@ -36,6 +36,6 @@ Flight to safety was the dominant theme, although panic selling of risk assets e
 
 **European gas** extended Monday’s selloff, as forecasts for the final two weeks of March turned milder. Dutch front month futures fell nearly 11% to trade at EUR44.15/MWh, while European power prices also tracked lower. Attention on strikes in France remain. LNG imports remain halted, with the strike extended until 21 March. Issues with nuclear energy also remain high. The recent fall in **North Asian LNG** prices continued to attract interest from buyers in Southeast Asia. Two companies in the Philippines are racing to import the nation’s first LNG shipments, highlighting the renewed interest.
 
-**Iron ore**futures were steady as traders take stock amid signs of stronger demand in China. The country is heading towards its peak construction period, which has drawn on inventories of both iron ore an steel in recent weeks.
+**Iron ore** futures were steady as traders take stock amid signs of stronger demand in China. The country is heading towards its peak construction period, which has drawn on inventories of both iron ore an steel in recent weeks.
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)

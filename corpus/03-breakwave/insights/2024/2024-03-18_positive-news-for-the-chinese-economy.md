@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/18/positive-news-for-the-chinese-economy"
 tags: ["Markets", "Shipping", "Commodities"]
 images_count: 1
-word_count: 1327
+word_count: 1328
 source_file: "corpus/03-breakwave/insights/2024/2024-03-18_positive-news-for-the-chinese-economy.html"
 ---
 

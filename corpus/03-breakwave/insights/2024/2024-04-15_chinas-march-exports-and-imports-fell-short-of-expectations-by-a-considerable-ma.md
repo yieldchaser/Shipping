@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/15/chinas-march-exports-and-imports-fell-short-of-expectations-by-a-considerable-margin-underscoring-challenges-for-the-worlds-secondlargest-economy"
 tags: ["Drybulk", "Shipping", "China"]
 images_count: 3
-word_count: 992
+word_count: 995
 source_file: "corpus/03-breakwave/insights/2024/2024-04-15_chinas-march-exports-and-imports-fell-short-of-expectations-by-a-considerable-ma.html"
 ---
 

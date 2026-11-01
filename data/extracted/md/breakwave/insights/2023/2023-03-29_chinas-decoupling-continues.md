@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/3/29/chinas-decoupling-continues"
 images_count: 2
-word_count: 483
+word_count: 485
 source_file: "corpus/03-breakwave/insights/2023/2023-03-29_chinas-decoupling-continues.html"
 ---
 

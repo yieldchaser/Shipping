@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/12/14/european-coal-imports-on-the-rise-as-winter-arrives-early"
 tags: ["Coal", "Imports", "Europe", "Energy"]
 images_count: 5
-word_count: 1037
+word_count: 1042
 source_file: "corpus/03-breakwave/insights/2021/2021-12-14_european-coal-imports-on-the-rise-as-winter-arrives-early.html"
 ---
 

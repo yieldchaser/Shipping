@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/23/it-is-dry-bulk-shipping-market-where-there-continues-to-be-very-real-and-impressive-profits"
 tags: ["Shipping", "Dry Bulk", "Economy"]
 images_count: 1
-word_count: 489
+word_count: 490
 source_file: "corpus/03-breakwave/insights/2021/2021-09-23_it-is-dry-bulk-shipping-market-where-there-continues-to-be-very-real-and-impress.html"
 ---
 

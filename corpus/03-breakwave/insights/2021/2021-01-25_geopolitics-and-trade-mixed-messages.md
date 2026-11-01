@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/25/geopolitics-and-trade-mixed-messages"
 tags: ["Geopolitics", "Global Economy", "Dry Bulk"]
 images_count: 2
-word_count: 767
+word_count: 769
 source_file: "corpus/03-breakwave/insights/2021/2021-01-25_geopolitics-and-trade-mixed-messages.html"
 ---
 

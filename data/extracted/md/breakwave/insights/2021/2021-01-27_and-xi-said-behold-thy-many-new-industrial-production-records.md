@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/25/and-xi-said-behold-thy-many-new-industrial-production-records"
 tags: ["China", "Steel"]
 images_count: 2
-word_count: 527
+word_count: 529
 source_file: "corpus/03-breakwave/insights/2021/2021-01-27_and-xi-said-behold-thy-many-new-industrial-production-records.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-01-27_and-xi-said-behold-th
 
 [*By Jeffrey Landsberg*](mailto:jeffrey@commodore-research.com)
 
-![Vale Iron Ore 2](assets/2021-01-27_and-xi-said-behold-thy-many-new-industrial-production-records_img_valeironore2_073efe0c6191.jpg)
+![Vale Iron Ore 2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-27_and-xi-said-behold-thy-many-new-industrial-production-records_img_valeironore2_073efe0c6191.jpg)
 
 > **Figure 1: Vale Iron Ore 2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-27_and-xi-said-behold-thy-many-new-industrial-production-records_img_valeironore2_073efe0c6191.jpg)
@@ -33,7 +33,7 @@ Even more impressive in China has been the recent electricity production record 
 
 Noteworthy for the dry bulk shipping and seaborne coal markets is that China's domestic coal production also set a new record in December, but the growth in China's coal production has continued to pale in comparison to the growth in China's coal-derived electricity generation. China's coal production totaled a record 351.9 million tons last month, which has marked year-on-year growth of 6%. China's coal-derived electricity generation last month totaled a record 564.7 billion kilowatt hours, though, which is 11% higher than the previous record that was set in August and (as with overall electricity production) has marked year-on-year growth of 11%.
 
-![Chart 2](assets/2021-01-27_and-xi-said-behold-thy-many-new-industrial-production-records_img_chart2_1c91e09ed8fd.jpg)
+![Chart 2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-27_and-xi-said-behold-thy-many-new-industrial-production-records_img_chart2_1c91e09ed8fd.jpg)
 
 > **Figure 2: Chart 2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-27_and-xi-said-behold-thy-many-new-industrial-production-records_img_chart2_1c91e09ed8fd.jpg)

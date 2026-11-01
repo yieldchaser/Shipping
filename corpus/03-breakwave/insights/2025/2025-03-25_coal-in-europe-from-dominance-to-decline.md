@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/25/coal-in-europe-from-dominance-to-decline"
 tags: ["Shipping", "Markets", "Drybulk"]
 images_count: 5
-word_count: 1597
+word_count: 1602
 source_file: "corpus/03-breakwave/insights/2025/2025-03-25_coal-in-europe-from-dominance-to-decline.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/3/cpp-tanker-rates-are-bottoming-out-supported-by-volumes-and-distances"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 4
-word_count: 1225
+word_count: 1229
 source_file: "corpus/03-breakwave/insights/2025/2025-04-03_cpp-tanker-rates-are-bottoming-out-supported-by-volumes-and-distances.html"
 ---
 

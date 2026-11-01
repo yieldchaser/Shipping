@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/5/15/braemar-weekly-dry-market-report"
 images_count: 3
-word_count: 1119
+word_count: 1122
 source_file: "corpus/03-breakwave/insights/2023/2023-05-15_braemar-weekly-dry-market-report.html"
 ---
 

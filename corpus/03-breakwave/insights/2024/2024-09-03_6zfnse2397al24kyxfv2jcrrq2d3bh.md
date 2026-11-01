@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/3/6zfnse2397al24kyxfv2jcrrq2d3bh"
 tags: ["Markets", "Economy", "Macro"]
 images_count: 9
-word_count: 2056
+word_count: 2065
 source_file: "corpus/03-breakwave/insights/2024/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh.html"
 ---
 
@@ -36,7 +36,7 @@ A quick look at the market justifies a modicum, at least, of buoyance, in at lea
 
 ### Why We Can Be More Positive
 
-1**. Rates are finally coming down.**Last week the Federal Reserve confirmed that it’s on a growth rather than an inflation path, which means that it is not willing to sustain interest rates are 5.5%. While our base case has consistently been that the US central bank will not be off to a strong start, we see potential for more in 2025. Apollo Asset Management[calculated](https://www.apolloacademy.com/quantifying-what-fed-cuts-mean-for-gdp-and-inflation/)that bringing rates down to 3% would, all other things being equal, lead to a 2.2% bump in GDP (and 1% in inflation). More importantly for British and European consumers, US rates coming down will allow the EU and UK central banks who struggle with much lower growth to follow with more steep cuts.
+1**. Rates are finally coming down.**Last week the Federal Reserve confirmed that it’s on a growth rather than an inflation path, which means that it is not willing to sustain interest rates are 5.5%. While our base case has consistently been that the US central bank will not be off to a strong start, we see potential for more in 2025. Apollo Asset Management [calculated](https://www.apolloacademy.com/quantifying-what-fed-cuts-mean-for-gdp-and-inflation/) that bringing rates down to 3% would, all other things being equal, lead to a 2.2% bump in GDP (and 1% in inflation). More importantly for British and European consumers, US rates coming down will allow the EU and UK central banks who struggle with much lower growth to follow with more steep cuts.
 
 The Fed has been preparing the ground for some time by reducing the pace at which it is withdrawing liquidity from the markets.**Quantitative Tightening has been averaging $52bn in the last three months, down from $91bn average since October 2022 (ex Peripheral bank crisis).**
 
@@ -61,7 +61,7 @@ So the Fed is probably right to focus on slowing growth at this particular junct
 > **Figure 3: Market Chart 3**  
 > **Interactive Data & Source:** [Cfr](https://www.cfr.org/expert/zongyuan-zoe-liu) | [Local Asset](assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image003_d618fc61de32.png)
 
-I have often complained that headline inflation numbers depend on China continuing to deflate the world and that a spike in Chinese producer prices could cause major headaches to central bankers. But a great article by[Zongyuan Zoe Liu](https://www.cfr.org/expert/zongyuan-zoe-liu)([China’s Real Economic Crisis](assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_content_4caca47a6ee5.html)) in Foreign Affairs Magazine, convinced me that the risk isn’t as great as I previously thought, for now at least. The Chinese economy, according to the brilliant Ms Liu, is a forceful deflation-generating mechanism. As long as its borders are open and trade wars don’t get too hot, developed markets can enjoy some deflation in goods, possibly even for long enough to see their own services inflation come down.
+I have often complained that headline inflation numbers depend on China continuing to deflate the world and that a spike in Chinese producer prices could cause major headaches to central bankers. But a great article by [Zongyuan Zoe Liu](https://www.cfr.org/expert/zongyuan-zoe-liu)([China’s Real Economic Crisis](assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_content_4caca47a6ee5.html)) in Foreign Affairs Magazine, convinced me that the risk isn’t as great as I previously thought, for now at least. The Chinese economy, according to the brilliant Ms Liu, is a forceful deflation-generating mechanism. As long as its borders are open and trade wars don’t get too hot, developed markets can enjoy some deflation in goods, possibly even for long enough to see their own services inflation come down.
 
 3.. For most of the year, the equity rally was extremely concentrated to the so-called Magnificent 7, and mostly Nvidia. Yet for the last two months, the rally has been mostly about the 493 or so US Large Caps who are not the Magnificent 7.
 
@@ -93,7 +93,7 @@ US large caps at their all-time highs, as the result of a wider rally, are cause
 > **Figure 7: Market Chart 7**  
 > **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=c1jWMHjg4vw) | [Local Asset](assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image007_cb0fb6baf763.png)
 
-5**. The UK’s quiet re-approach with Europe.**The UK’s new Prime Minister has, quietly, set about smoothing things out with the country’s 2/3 of trade relations, i.e. the European Union. The timing of his charm campaign to Europe, exactly at the end of the Summer Holidays and close to his election, is immaculate and**sends a very clear message to markets that re-approaching the EU a priority**. Our House View has long been that, while[Brexit can’t really be undone](https://www.youtube.com/watch?v=c1jWMHjg4vw), some of its more controversial aspects can be mitigated. Investors have long been looking for cues of a more realistic approach with the country’s largest trade partner in order to re-evaluate the country’s equities (and even debt). At the very least, the move justifies UK equity valuations at par with their own history. Possibly, a positive rerating could be argued for UK stocks if the course remains positive.
+5**. The UK’s quiet re-approach with Europe.**The UK’s new Prime Minister has, quietly, set about smoothing things out with the country’s 2/3 of trade relations, i.e. the European Union. The timing of his charm campaign to Europe, exactly at the end of the Summer Holidays and close to his election, is immaculate and **sends a very clear message to markets that re-approaching the EU a priority**. Our House View has long been that, while [Brexit can’t really be undone](https://www.youtube.com/watch?v=c1jWMHjg4vw), some of its more controversial aspects can be mitigated. Investors have long been looking for cues of a more realistic approach with the country’s largest trade partner in order to re-evaluate the country’s equities (and even debt). At the very least, the move justifies UK equity valuations at par with their own history. Possibly, a positive rerating could be argued for UK stocks if the course remains positive.
 
 ![Market Chart 8](assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image008_e505508fc50f.png)
 

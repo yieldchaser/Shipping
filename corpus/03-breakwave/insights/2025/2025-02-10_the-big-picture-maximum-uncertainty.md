@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/10/the-big-picture-maximum-uncertainty"
 tags: ["Crude", "Shipping", "Markets"]
 images_count: 3
-word_count: 1177
+word_count: 1180
 source_file: "corpus/03-breakwave/insights/2025/2025-02-10_the-big-picture-maximum-uncertainty.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/14/geopolitics-matter-for-businesses-the-fed-matters-for-portfolios"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 8
-word_count: 2263
+word_count: 2271
 source_file: "corpus/03-breakwave/insights/2026/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios.html"
 ---
 
@@ -47,7 +47,7 @@ Yet, markets seem unfazed by these events. Are our portfolios oblivious to risin
 > **Figure 1: Market Chart 1**  
 > **Interactive Data & Source:** [Newyorkfed](https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/treasury-securities/treasury-securities-operational-details#:~:text=Based%20on%20the%20December%2010,and%2C%20if%20needed%2C%20other%20Treasury) | [Local Asset](assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image009_fe8b567f8d48.jpg)
 
-while the US Federal Reserve is once again buying securities in the open market, to[make sure that market turbulence](https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/treasury-securities/treasury-securities-operational-details#:~:text=Based%20on%20the%20December%2010,and%2C%20if%20needed%2C%20other%20Treasury), as it stabilises its reserves, remains well managed (to be sure, this is risk management, not Quantitative Easing, as reserves may drop as well as rise).
+while the US Federal Reserve is once again buying securities in the open market, to [make sure that market turbulence](https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/treasury-securities/treasury-securities-operational-details#:~:text=Based%20on%20the%20December%2010,and%2C%20if%20needed%2C%20other%20Treasury), as it stabilises its reserves, remains well managed (to be sure, this is risk management, not Quantitative Easing, as reserves may drop as well as rise).
 
 ![Market Chart 2](assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image010_efaee7357e05.jpg)
 
@@ -82,7 +82,7 @@ Adding to inflation worries is China, which is seeing a resurgence in inflation.
 > **Figure 6: Market Chart 6**  
 > **Interactive Data & Source:** [Cfobrew](https://www.cfobrew.com/stories/2026/01/06/how-cfos-should-be-approaching-tariffs-in-2026) | [Local Asset](assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image014_ac8dc381ce58.jpg)
 
-Companies may also want to increase the amount of tariffs they pass on to their customers, as their pre-tariff inventories run out. Morgan Stanley, Goldman Sachs and other investment firms have said that their thesis for 2026 is that prices will increase as consumers will be called upon to pay more than[37% of the cost of tariffs](https://www.cfobrew.com/stories/2026/01/06/how-cfos-should-be-approaching-tariffs-in-2026), which they did in 2025.
+Companies may also want to increase the amount of tariffs they pass on to their customers, as their pre-tariff inventories run out. Morgan Stanley, Goldman Sachs and other investment firms have said that their thesis for 2026 is that prices will increase as consumers will be called upon to pay more than [37% of the cost of tariffs](https://www.cfobrew.com/stories/2026/01/06/how-cfos-should-be-approaching-tariffs-in-2026), which they did in 2025.
 
 Of course, to be clear, there remains one big disinflationary force: lower employment in the United States. Despite the Trade War, we feel that a jobless boom will likely not be an inflationary boom.
 

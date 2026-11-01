@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/20/sanctions-prove-effective-slashing-vessel-availability-for-russian-crude"
 tags: ["Crude", "Markets", "Shipping"]
 images_count: 4
-word_count: 1263
+word_count: 1267
 source_file: "corpus/03-breakwave/insights/2025/2025-02-20_sanctions-prove-effective-slashing-vessel-availability-for-russian-crude.html"
 ---
 

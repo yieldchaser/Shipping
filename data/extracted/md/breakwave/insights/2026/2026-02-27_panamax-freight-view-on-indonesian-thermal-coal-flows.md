@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/27/panamax-freight-view-on-indonesian-thermal-coal-flows"
 tags: ["Capesize", "Drybulk", "Shipping"]
 images_count: 17
-word_count: 2478
+word_count: 2495
 source_file: "corpus/03-breakwave/insights/2026/2026-02-27_panamax-freight-view-on-indonesian-thermal-coal-flows.html"
 ---
 

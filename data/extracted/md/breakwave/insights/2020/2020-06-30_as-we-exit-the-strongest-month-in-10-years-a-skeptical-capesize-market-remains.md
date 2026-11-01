@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/30/as-we-exit-the-strongest-month-in-10-years-a-skeptical-capesize-market-remains"
 images_count: 3
-word_count: 872
+word_count: 875
 source_file: "corpus/03-breakwave/insights/2020/2020-06-30_as-we-exit-the-strongest-month-in-10-years-a-skeptical-capesize-market-remains.html"
 ---
 

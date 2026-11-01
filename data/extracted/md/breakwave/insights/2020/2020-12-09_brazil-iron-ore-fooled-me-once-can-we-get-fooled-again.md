@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/12/8/brazil-iron-ore-fooled-me-once-can-we-get-fooled-again"
 tags: ["Brazil", "Capesize", "Environment"]
 images_count: 5
-word_count: 1692
+word_count: 1697
 source_file: "corpus/03-breakwave/insights/2020/2020-12-09_brazil-iron-ore-fooled-me-once-can-we-get-fooled-again.html"
 ---
 

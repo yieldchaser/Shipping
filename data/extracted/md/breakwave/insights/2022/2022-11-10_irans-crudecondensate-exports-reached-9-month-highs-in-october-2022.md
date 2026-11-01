@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/10/irans-crudecondensate-exports-reached-9-month-highs-in-october-2022"
 images_count: 4
-word_count: 1579
+word_count: 1583
 source_file: "corpus/03-breakwave/insights/2022/2022-11-10_irans-crudecondensate-exports-reached-9-month-highs-in-october-2022.html"
 ---
 

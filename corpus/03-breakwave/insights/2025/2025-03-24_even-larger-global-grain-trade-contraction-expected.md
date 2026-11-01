@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/24/even-larger-global-grain-trade-contraction-expected"
 tags: ["Grains", "Drybulk", "Shipping"]
 images_count: 1
-word_count: 317
+word_count: 318
 source_file: "corpus/03-breakwave/insights/2025/2025-03-24_even-larger-global-grain-trade-contraction-expected.html"
 ---
 

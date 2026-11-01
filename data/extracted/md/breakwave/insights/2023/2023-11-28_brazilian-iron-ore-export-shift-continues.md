@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/11/24/brazilian-iron-ore-export-shift-continues"
 images_count: 3
-word_count: 370
+word_count: 373
 source_file: "corpus/03-breakwave/insights/2023/2023-11-28_brazilian-iron-ore-export-shift-continues.html"
 ---
 

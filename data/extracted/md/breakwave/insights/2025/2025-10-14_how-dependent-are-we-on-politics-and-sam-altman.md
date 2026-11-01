@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/13/how-dependent-are-we-on-politics-and-sam-altman"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 5
-word_count: 1609
+word_count: 1614
 source_file: "corpus/03-breakwave/insights/2025/2025-10-14_how-dependent-are-we-on-politics-and-sam-altman.html"
 ---
 

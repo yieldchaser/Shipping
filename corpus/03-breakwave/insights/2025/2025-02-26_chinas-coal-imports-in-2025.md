@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/26/chinas-coal-imports-in-2025"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 4
-word_count: 785
+word_count: 789
 source_file: "corpus/03-breakwave/insights/2025/2025-02-26_chinas-coal-imports-in-2025.html"
 ---
 
@@ -28,9 +28,9 @@ source_file: "corpus/03-breakwave/insights/2025/2025-02-26_chinas-coal-imports-i
 
 The practice in China of producing combined customs data for January and February (to offset changes in New Year holidays) means shipment data takes the spotlight.
 
-The chart, below, indicates that**China’s coal imports in January**experienced a seasonal monthly drop, typical of recent years. At 31.9m tonnes, the AXS estimate for seaborne imports is**in line with the same month of 2024**and some**7m tonnes above January 2023**.
+The chart, below, indicates that **China’s coal imports in January** experienced a seasonal monthly drop, typical of recent years. At 31.9m tonnes, the AXS estimate for seaborne imports is **in line with the same month of 2024** and some **7m tonnes above January 2023**.
 
-Incomplete shipment data for**February**suggest a**year-on-year shortfall**, however.
+Incomplete shipment data for **February** suggest a**year-on-year shortfall**, however.
 
 ![Declining Domestic Thermal Coal Prices in China Have Helped](assets/2025-02-26_chinas-coal-imports-in-2025_img_46df-image-0-1740500920119_a6a4688b189a.png)
 
@@ -55,7 +55,7 @@ The spread between the Chinese domestic price of 5,500kc NAR thermal coal and th
 
 A desire to minimise costs has also been attributed to import interest in “ultra low-rank” coal. Indonesia has been a leading source of low-cv coal. Heavy rainfall has limited supply from Indonesia this quarter.
 
-**Domestic coking coal prices**in China have also suffered falls since October.
+**Domestic coking coal prices** in China have also suffered falls since October.
 
 In the absence of January data from the National Bureau of Statistics, the World Steel Association (worldsteel) has estimated Chinese crude steel output at 81.9m tonnes, up 7.8% on the previous month, but down -5.6% YoY.
 

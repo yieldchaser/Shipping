@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/11/19/dry-bulk-contracting-activity-and-price-trends"
 tags: ["Dry Bulk", "Shipping", "China"]
 images_count: 2
-word_count: 1053
+word_count: 1055
 source_file: "corpus/03-breakwave/insights/2021/2021-11-20_dry-bulk-contracting-activity-and-price-trends.html"
 ---
 
@@ -38,7 +38,7 @@ At a quick glance at the newbuilding pricing sentiment of Chinese shipyards, Cap
 
 Our Dry Bulk Newbuilding Chartpack illustrates the annual increase in the Chinese newbuilding price assessments, which is indeed noticeable not only in the Capesize segment, but also in the Kamsarmax and Ultramax ship sizes. The higher contracting activity has pushed the pricing sentiment upward with October and November signalling strong flow of new orders.
 
-![Market Chart 1](assets/2021-11-20_dry-bulk-contracting-activity-and-price-trends_img_unnamed28129_cdf3379c5ac6.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-20_dry-bulk-contracting-activity-and-price-trends_img_unnamed28129_cdf3379c5ac6.png)
 
 > **Figure 1: Market Chart 1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-20_dry-bulk-contracting-activity-and-price-trends_img_unnamed28129_cdf3379c5ac6.png)
@@ -47,7 +47,7 @@ What is also interesting is that the annual rise of newbuilding prices in the Ha
 
 In the Ultramax segment, we saw the order for eight 64,000 dwt Ultramax bulk carriers at a cost of US$32m per unit placed at Zhoushan based Cosco Shipping Heavy Industry from BoComm Financial Leasing. New Dayang Shipyard has signed an order for nine 60,000 dwt dry bulkers from CDB Leasing for just US$29m per vessel, which is said to have been signed a few months ago. Between these two newbuilding contracts, the upward momentum of contract prices is indeed evident as both have been placed at the same yard within this year.
 
-![Market Chart 2](assets/2021-11-20_dry-bulk-contracting-activity-and-price-trends_img_unnamed28229_ac163b3d79fe.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-20_dry-bulk-contracting-activity-and-price-trends_img_unnamed28229_ac163b3d79fe.png)
 
 > **Figure 2: Market Chart 2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-20_dry-bulk-contracting-activity-and-price-trends_img_unnamed28229_ac163b3d79fe.png)

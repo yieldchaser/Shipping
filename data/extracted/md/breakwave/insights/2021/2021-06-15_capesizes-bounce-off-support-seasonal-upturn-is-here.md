@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/14/capesizes-bounce-off-support-seasonal-upturn-is-here"
 tags: ["Dry Bulk", "Capesize"]
 images_count: 4
-word_count: 1097
+word_count: 1101
 source_file: "corpus/03-breakwave/insights/2021/2021-06-15_capesizes-bounce-off-support-seasonal-upturn-is-here.html"
 ---
 
@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-06-15_capesizes-bounce-off-
 
 ---
 
-![Capesize Spot Rate Seasonality](assets/2021-06-15_capesizes-bounce-off-support-seasonal-upturn-is-here_img_unsplash-image-ndfqqq-7qwm_4903a6031f50.jpg)
+![Capesize Spot Rate Seasonality](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-15_capesizes-bounce-off-support-seasonal-upturn-is-here_img_unsplash-image-ndfqqq-7qwm_4903a6031f50.jpg)
 
 > **Figure 1: Capesize Spot Rate Seasonality**  
 > *Capesize Spot Rate Seasonality, 2015-2021*  
@@ -28,11 +28,11 @@ source_file: "corpus/03-breakwave/insights/2021/2021-06-15_capesizes-bounce-off-
 
 It is not often during any given year that inflection points in dry bulk can be identified, as the sector is well known for the high volatility and its unexpected twists and turns. However, as we have stressed in the last few months, especially as the spot market peaked, it was one of this instances that the bottom was easier to identify due to the timing of the rally.
 
-Indeed, as we discussed[here](https://www.breakwaveadvisors.com/insights/2021/6/1/capesizes-have-high-hopes-as-rest-of-dry-bulk-thrives)and[here](https://www.breakwaveadvisors.com/insights/2021/5/15/cyrss784gxo0bb24onzv496l56gstx), the predicted level of the most recent bottom was a combination of the average drawdown for the index over the last several years but also the seasonal uptick in demand during the second week of June. The Capesize index bottomed at just below 20,000, declining some 56% from its most recent high with the low print being on June 8. Both of those levels were approximately in line with what we thought would be the magnitude of the correction as well as the timing of the bottoming.
+Indeed, as we discussed [here](https://www.breakwaveadvisors.com/insights/2021/6/1/capesizes-have-high-hopes-as-rest-of-dry-bulk-thrives) and [here](https://www.breakwaveadvisors.com/insights/2021/5/15/cyrss784gxo0bb24onzv496l56gstx), the predicted level of the most recent bottom was a combination of the average drawdown for the index over the last several years but also the seasonal uptick in demand during the second week of June. The Capesize index bottomed at just below 20,000, declining some 56% from its most recent high with the low print being on June 8. Both of those levels were approximately in line with what we thought would be the magnitude of the correction as well as the timing of the bottoming.
 
 All these is now behind us, and looking forward, the near term future now looks quite promising for the Capesize sector. As the chart below shows, the second half of the year has generally been more volatile and, on average, stronger that the first half during the last several years (also note the early/mid June inflection point). The major difference this time around is the strong spring rally that the Capesize sector (combined with every other dry bulk segment) has already experienced. The bounce off the early June lows was definitely stronger and more intense than other years and sentiment is definitely more constructive this time around.
 
-![Capesize Spot Index](assets/2021-06-15_capesizes-bounce-off-support-seasonal-upturn-is-here_img_capesseasonalilty_aa9fbc635068.jpg)
+![Capesize Spot Index](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-15_capesizes-bounce-off-support-seasonal-upturn-is-here_img_capesseasonalilty_aa9fbc635068.jpg)
 
 > **Figure 2: Capesize Spot Index**  
 > *Capesize Spot Index, 2016-2021*  
@@ -42,7 +42,7 @@ Which brings us to the freight futures market. For weeks now, Capesize near-date
 
 Yet, futures are indicating even a stronger improvement in spot rates over the next several weeks. And this is definitely in the sphere of possible outcomes, especially as easily shown in the previous graph. The recent range of ~20,000 to roughly 45,000 for the Capesize spot index is now the levels that traders will be focusing, and given the seasonality strength, the upper end of the range seems more likely in the near future. However, this is more or less already priced in, and sequential improvements in Capesize spot rates might not really mean much for the futures market, at least once one looks at percentage changes and not absolute numbers.
 
-![Difference Between Front Month Futures Contract and Spot Index](assets/2021-06-15_capesizes-bounce-off-support-seasonal-upturn-is-here_img_capesspot_560e87608eb6.jpg)
+![Difference Between Front Month Futures Contract and Spot Index](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-15_capesizes-bounce-off-support-seasonal-upturn-is-here_img_capesspot_560e87608eb6.jpg)
 
 > **Figure 3: Difference Between Front Month Futures Contract and Spot Index**  
 > *Difference between front month futures contract and spot index, Capesizes*  
@@ -50,7 +50,7 @@ Yet, futures are indicating even a stronger improvement in spot rates over the n
 
 Currently, the front month futures contract on Capesizes (July contract) is trading at the highest premium versus recent years (chart below). However, this has been the case for the last several weeks, and so far the optimism holds well. In addition, the spot market is rising, and thus traders have no reason to doubt that such premiums will not eventually be met by the rising spot market.
 
-![1m Premiums](assets/2021-06-15_capesizes-bounce-off-support-seasonal-upturn-is-here_img_1mpremiums_0c47d092c3d5.jpg)
+![1m Premiums](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-15_capesizes-bounce-off-support-seasonal-upturn-is-here_img_1mpremiums_0c47d092c3d5.jpg)
 
 > **Figure 4: 1m Premiums**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-15_capesizes-bounce-off-support-seasonal-upturn-is-here_img_1mpremiums_0c47d092c3d5.jpg)

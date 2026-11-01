@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/8/13/the-2026-freight-recovery"
 tags: ["Commodities", "Drybulk", "Shipping"]
 images_count: 1
-word_count: 680
+word_count: 681
 source_file: "corpus/03-breakwave/insights/2026/2026-08-13_the-2026-freight-recovery.html"
 ---
 

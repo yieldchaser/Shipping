@@ -26,7 +26,7 @@ As the week comes to a close, take a moment to review the key insights from the 
 
 ## Breakwave Shipping Report
 
-**Optimism Drives Futures Higher As Spot Remains Dormant**– The**recent uptick****in optimism**regarding a sharp recovery in spot rates has led to a**rise in the futures curve**over the past week.
+**Optimism Drives Futures Higher As Spot Remains Dormant**– The **recent uptick** **in optimism** regarding a sharp recovery in spot rates has led to a**rise in the futures curve** over the past week.
 
 [Read More](https://www.breakwaveadvisors.com/insights/202524dry-87w52k8-bjj68)
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/3/11/the-big-picture-replacing-black-sea-grain"
 tags: ["Shipping", "Grains", "Wheat", "Corn"]
 images_count: 4
-word_count: 1245
+word_count: 1249
 source_file: "corpus/03-breakwave/insights/2022/2022-03-12_the-big-picture-replacing-black-sea-grain.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/20/chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-generation"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 4
-word_count: 516
+word_count: 520
 source_file: "corpus/03-breakwave/insights/2024/2024-11-20_chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen.html"
 ---
 

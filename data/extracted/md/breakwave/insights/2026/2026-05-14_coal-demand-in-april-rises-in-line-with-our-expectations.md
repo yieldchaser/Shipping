@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/14/coal-demand-in-april-rises-in-line-with-our-expectations"
 tags: ["Coal", "Drybulk", "Markets"]
 images_count: 3
-word_count: 824
+word_count: 827
 source_file: "corpus/03-breakwave/insights/2026/2026-05-14_coal-demand-in-april-rises-in-line-with-our-expectations.html"
 ---
 

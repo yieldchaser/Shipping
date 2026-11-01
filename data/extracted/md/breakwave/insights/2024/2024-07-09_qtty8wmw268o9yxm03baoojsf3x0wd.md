@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/9/qtty8wmw268o9yxm03baoojsf3x0wd"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 1
-word_count: 1530
+word_count: 1531
 source_file: "corpus/03-breakwave/insights/2024/2024-07-09_qtty8wmw268o9yxm03baoojsf3x0wd.html"
 ---
 

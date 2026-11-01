@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/30/the-big-picture-q3-2021-forecast"
 tags: ["Dry Bulk", "Shipping", "Forecast"]
 images_count: 4
-word_count: 2091
+word_count: 2095
 source_file: "corpus/03-breakwave/insights/2021/2021-07-31_the-big-picture-q3-2021-forecast.html"
 ---
 
@@ -40,7 +40,7 @@ On top of weakening producer margins (partly driven by extremely high input cost
 
 As such, we expect output growth over July-December to slow to 8.7% YoY, with output for 2021 as a whole reaching record 1.16bn tonnes, up by 10% YoY. In 2022, we expect these pressures and a cooling economy to weigh on growth further, with output rising by 3.0%, and then easing by 1.5% in 2023 as the economy’s steel intensity also starts to decline. As the government steps up efforts to boost recycling’s share of output, in line with targets set out in the most recent five -year plan, we forecast blast furnace production steel production in 2022 to be virtually flat on this year’s levels.
 
-![A1](assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a1_c90276fa11b5.png)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a1_c90276fa11b5.png)
 
 > **Figure 1: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a1_c90276fa11b5.png)
@@ -55,7 +55,7 @@ Coal trade has surprised us so far this year, bouncing back far quicker than we 
 
 Part of this is a natural recovery in demand as economies reopen and require more power, but a recent global surge in energy prices is also giving coal a lift. In China, shortages of hydro power and a boost in air conditioning demand have left stockpiles extremely low. But elsewhere soaring natural gas prices are also raising coal burn rates. In Europe for example, even after accounting for the pollution costs under the emissions trading scheme, spot and forward prices justify switching to coal for power generation. On top of this, as we have covered recently, the shake-up in trade flows due to frosty Australia-China trade relations has also had a positive effect on demand for some vessel types, by increasing average voyage lengths.
 
-![A2](assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a2_ea48c9ee88df.png)
+![A2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a2_ea48c9ee88df.png)
 
 > **Figure 2: A2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a2_ea48c9ee88df.png)
@@ -68,7 +68,7 @@ Agribulk commodities have been the star performers of 2021, as unrelenting Chine
 
 While we remain very positive on the growth prospects for grain, this year does represent an anomaly, driven by depleted stockpiles in China and a thawing in trade relations with the US. With the US’ export inventories being drawn down, it is unlikely that a surge in exports on the same scale as this year’s will be repeated in 2022. Based on the USDA’s analysis of the various producers’ export potential over the next marketing year, we forecast trade growth over 2022 to fall to 2.7%, picking up to a CAGR of 3.2% out to 2025.
 
-![A3](assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a3_c75ee451730d.png)
+![A3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a3_c75ee451730d.png)
 
 > **Figure 3: A3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a3_c75ee451730d.png)
@@ -83,7 +83,7 @@ With the demand picture mixed across the different commodities, a common theme f
 
 Given the current orderbook, age profile of the fleet and expectations for future orders, the total fleet is on track to grow by about 2.8% this year, to just shy of 900m dwt. This is down from a rate of 4.0% in 2020. We had previously expected a lower growth rate in 2021 but scrapping numbers have been curtailed by the strong returns in today’s spot market. We see this dynamic continuing in 2022, with the fleet growing by 2.7%, and by 2023, an extremely limited orderbook brings growth down to 1.4%.
 
-![A4](assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a4_489fdd2ac6e1.png)
+![A4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a4_489fdd2ac6e1.png)
 
 > **Figure 4: A4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a4_489fdd2ac6e1.png)

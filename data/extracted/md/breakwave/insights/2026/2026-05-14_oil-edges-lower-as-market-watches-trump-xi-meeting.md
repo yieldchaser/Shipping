@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/14/oil-edges-lower-as-market-watches-trump-xi-meeting"
 tags: ["Markets", "Shipping", "Commodities"]
 images_count: 2
-word_count: 757
+word_count: 759
 source_file: "corpus/03-breakwave/insights/2026/2026-05-14_oil-edges-lower-as-market-watches-trump-xi-meeting.html"
 ---
 
@@ -31,7 +31,7 @@ Energy fell as the market awaits the Trump-Xi meeting. Industrial metals extende
 
 ### Market Commentary
 
-**Crude oil**prices dipped, as the market awaits a pivotal meeting between Trump and Xi. That is despite Trump downplaying the amount of attention the Middle East conflict would get during the summit. Xi said he would prioritise trade negotiations and that “we have Iran very much under control”. Prices eased earlier in the session after US government data showed that distillate inventories rose last week for the first time since March. While the build was relatively low at 190kbbl, it allayed fears the supply cushion is reaching its limit. Even so, the EIA weekly inventory report did show that crude oil stockpiles fell by 4,306kbbl last week. The US Strategic Petroleum Reserve saw another sharp drawdown, falling 8,605kbbl to 384.1mbbl.
+**Crude oil** prices dipped, as the market awaits a pivotal meeting between Trump and Xi. That is despite Trump downplaying the amount of attention the Middle East conflict would get during the summit. Xi said he would prioritise trade negotiations and that “we have Iran very much under control”. Prices eased earlier in the session after US government data showed that distillate inventories rose last week for the first time since March. While the build was relatively low at 190kbbl, it allayed fears the supply cushion is reaching its limit. Even so, the EIA weekly inventory report did show that crude oil stockpiles fell by 4,306kbbl last week. The US Strategic Petroleum Reserve saw another sharp drawdown, falling 8,605kbbl to 384.1mbbl.
 
 The International Energy Agency (IEA) warned that around the world oil inventories are falling at a record pace. Global observed oil inventories declined at a rate of about 4mb/d in March and April. It also reported that as of 8 May, about 164mbbl of oil have been released from emergency stockpiles in IEA countries. The closure of the Strait of Hormuz continues to impact Persian Gulf producers. Saudi Arabia reported that its oil production fell 6.316mb/d in April, according to OPEC’s monthly market report. The output is now down 42% since February. Overall OPEC member output slumped 1.727mb/d to average 18.98mb/d.
 

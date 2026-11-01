@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/10/breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustainable-road-map"
 tags: ["Rightship", "Shipping", "Zerocarbon"]
 images_count: 6
-word_count: 909
+word_count: 915
 source_file: "corpus/03-breakwave/insights/2021/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain.html"
 ---
 

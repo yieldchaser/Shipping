@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/29/dry-bulks-hydropower-amp-coal-mining-saviors-in-china"
 tags: ["Coal", "Drybulk", "China"]
 images_count: 4
-word_count: 492
+word_count: 516
 source_file: "corpus/03-breakwave/insights/2026/2026-10-29_dry-bulks-hydropower-amp-coal-mining-saviors-in-china.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/3/chinas-coal-imports-slide-amp-what-it-means-for-capes-and-panamaxes"
 tags: ["Drybulk", "Commodities", "Coal"]
 images_count: 4
-word_count: 1023
+word_count: 1027
 source_file: "corpus/03-breakwave/insights/2025/2025-12-03_chinas-coal-imports-slide-amp-what-it-means-for-capes-and-panamaxes.html"
 ---
 

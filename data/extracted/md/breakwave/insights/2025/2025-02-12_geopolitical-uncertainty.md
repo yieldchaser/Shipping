@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/12/geopolitical-uncertainty"
 tags: ["Shipping", "Markets", "Economy"]
 images_count: 2
-word_count: 629
+word_count: 631
 source_file: "corpus/03-breakwave/insights/2025/2025-02-12_geopolitical-uncertainty.html"
 ---
 

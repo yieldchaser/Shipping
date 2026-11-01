@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/1/31/russian-urals-sts-activity-resurfacing-in-med"
 tags: ["Tankers", "Crude", "Oil"]
 images_count: 3
-word_count: 845
+word_count: 848
 source_file: "corpus/03-breakwave/insights/2024/2024-01-31_russian-urals-sts-activity-resurfacing-in-med.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/12/steep-fall-in-chinas-crude-imports-reinforces-gloomy-demand-outlook"
 tags: ["China", "Crude", "Tankers"]
 images_count: 3
-word_count: 819
+word_count: 822
 source_file: "corpus/03-breakwave/insights/2024/2024-08-12_steep-fall-in-chinas-crude-imports-reinforces-gloomy-demand-outlook.html"
 ---
 

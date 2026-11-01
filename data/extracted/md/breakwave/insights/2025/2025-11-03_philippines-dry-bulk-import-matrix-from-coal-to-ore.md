@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/3/philippines-dry-bulk-import-matrix-from-coal-to-ore"
 tags: ["Drybulk", "Commodities", "Shipping"]
 images_count: 7
-word_count: 1642
+word_count: 1649
 source_file: "corpus/03-breakwave/insights/2025/2025-11-03_philippines-dry-bulk-import-matrix-from-coal-to-ore.html"
 ---
 

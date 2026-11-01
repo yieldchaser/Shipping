@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/22/uschina-agri-trade-battle-rekindled"
 tags: ["China", "Grains", "Drybulk"]
 images_count: 3
-word_count: 1253
+word_count: 1256
 source_file: "corpus/03-breakwave/insights/2025/2025-10-22_uschina-agri-trade-battle-rekindled.html"
 ---
 

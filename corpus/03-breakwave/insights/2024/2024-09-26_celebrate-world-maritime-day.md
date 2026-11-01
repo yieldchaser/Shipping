@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/26/celebrate-world-maritime-day"
 images_count: 2
-word_count: 258
+word_count: 260
 source_file: "corpus/03-breakwave/insights/2024/2024-09-26_celebrate-world-maritime-day.html"
 ---
 

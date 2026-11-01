@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/7/high-crude-voyage-distances-due-to-reshuffling-meg-utilisation-and-speeds-rise"
 tags: ["Shipping", "Crude Oil", "Tankers"]
 images_count: 5
-word_count: 1176
+word_count: 1181
 source_file: "corpus/03-breakwave/insights/2024/2024-03-07_high-crude-voyage-distances-due-to-reshuffling-meg-utilisation-and-speeds-rise.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/12/17/wait-china-enjoys-purchasing-imported-iron-ore-cargoes-at-cheaper-prices"
 tags: ["China", "Imports", "Iron Ore"]
 images_count: 2
-word_count: 404
+word_count: 406
 source_file: "corpus/03-breakwave/insights/2021/2021-12-17_wait-china-enjoys-purchasing-imported-iron-ore-cargoes-at-cheaper-prices.html"
 ---
 

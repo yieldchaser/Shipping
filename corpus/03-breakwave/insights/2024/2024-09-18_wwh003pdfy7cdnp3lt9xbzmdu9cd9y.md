@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/18/wwh003pdfy7cdnp3lt9xbzmdu9cd9y"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 1
-word_count: 600
+word_count: 601
 source_file: "corpus/03-breakwave/insights/2024/2024-09-18_wwh003pdfy7cdnp3lt9xbzmdu9cd9y.html"
 ---
 

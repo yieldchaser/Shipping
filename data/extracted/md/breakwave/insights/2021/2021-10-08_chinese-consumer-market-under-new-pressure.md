@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/8/chinese-consumer-market-under-new-pressure"
 tags: ["China", "Economy", "Market"]
 images_count: 3
-word_count: 390
+word_count: 393
 source_file: "corpus/03-breakwave/insights/2021/2021-10-08_chinese-consumer-market-under-new-pressure.html"
 ---
 
@@ -26,21 +26,21 @@ As has been widely reported, China’s retail sales in August grew year-on-year 
 
 Of particular note is that furniture, clothing, and household appliance sales in China — which had previously been enjoying a turnaround — all contracted on a year-on-year basis last month. Furniture sales in China totaled approximately 13.7 billion yuan, which has marked a year-on-year contraction of 1%. Furniture sales in China had previously increased on a year-on-year basis during six of the previous seven months.
 
-![Chart 1 (1)](assets/2021-10-08_chinese-consumer-market-under-new-pressure_img_chart128129_904c67a529e1.jpg)
+![Chart 1 (1)](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-08_chinese-consumer-market-under-new-pressure_img_chart128129_904c67a529e1.jpg)
 
 > **Figure 1: Chart 1 (1)**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-08_chinese-consumer-market-under-new-pressure_img_chart128129_904c67a529e1.jpg)
 
 Clothing sales (which includes garments, footwear, hats, and knitwear) in China have contracted by an even larger amount. Clothing sales in China in August totaled approximately 90 billion yuan, which has marked marked a year-on-year contraction of 7%. China’s domestic clothing sales had previously increased on a year-on-year basis for twelve consecutive months.
 
-![Chart 2](assets/2021-10-08_chinese-consumer-market-under-new-pressure_img_chart2_1ee895a1bb35.jpg)
+![Chart 2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-08_chinese-consumer-market-under-new-pressure_img_chart2_1ee895a1bb35.jpg)
 
 > **Figure 2: Chart 2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-08_chinese-consumer-market-under-new-pressure_img_chart2_1ee895a1bb35.jpg)
 
 Household appliance sales totaled approximately 67.7 billion yuan in August, which has marked a year-on-year contraction of 5%. Household appliance sales had previously grown on a year-on-year basis for ten consecutive months.
 
-![Chart 3](assets/2021-10-08_chinese-consumer-market-under-new-pressure_img_chart3_89c3c0308a3b.jpg)
+![Chart 3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-08_chinese-consumer-market-under-new-pressure_img_chart3_89c3c0308a3b.jpg)
 
 > **Figure 3: Chart 3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-08_chinese-consumer-market-under-new-pressure_img_chart3_89c3c0308a3b.jpg)

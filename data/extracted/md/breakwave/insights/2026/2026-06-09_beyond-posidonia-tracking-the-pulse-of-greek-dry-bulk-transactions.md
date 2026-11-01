@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/6/9/beyond-posidonia-tracking-the-pulse-of-greek-dry-bulk-transactions"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 1
-word_count: 680
+word_count: 681
 source_file: "corpus/03-breakwave/insights/2026/2026-06-09_beyond-posidonia-tracking-the-pulse-of-greek-dry-bulk-transactions.html"
 ---
 

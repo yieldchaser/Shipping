@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/1/growth-in-steel-output-outside-of-china"
 tags: ["Drybulk", "Ironore", "Shipping"]
 images_count: 4
-word_count: 474
+word_count: 478
 source_file: "corpus/03-breakwave/insights/2024/2024-08-01_growth-in-steel-output-outside-of-china.html"
 ---
 

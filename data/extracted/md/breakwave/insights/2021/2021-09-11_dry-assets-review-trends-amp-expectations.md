@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/11/dry-assets-review-trends-amp-expectations"
 tags: ["Dry Bulk", "Shipping", "Investments"]
 images_count: 3
-word_count: 1059
+word_count: 1062
 source_file: "corpus/03-breakwave/insights/2021/2021-09-11_dry-assets-review-trends-amp-expectations.html"
 ---
 
@@ -36,7 +36,7 @@ This was the first contraction in factory activity since April 2020, dragged dow
 
 Overall, August brought a lot of activity in the Handysize segment for vessels built 2012-2016 and 2007-2011. In the Capesize and Panamax segments, there was some activity but not at the same firm levels of Handysize secondhand purchases. Supramax bulkers continue to attract investors’ interest at the same age preferences with Handysizes.
 
-![Market Chart 1](assets/2021-09-11_dry-assets-review-trends-amp-expectations_img_image006_43c0fbbf9370.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-11_dry-assets-review-trends-amp-expectations_img_image006_43c0fbbf9370.png)
 
 > **Figure 1: Market Chart 1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-11_dry-assets-review-trends-amp-expectations_img_image006_43c0fbbf9370.png)
@@ -49,7 +49,7 @@ In the meantime, newbuilding prices have also peaked to levels not seen for at l
 
 Overall, there was a flow of new orders in August mainly by Asian players. Firm activity in newbuilding contracting meant an incoming volume of new units added to the orderbook, while Kamsarmaxes attracted the most interest. Five new orders came to light for Newcastlemax bulkers, 8 in the Kamsarmax, 4 in the Panamax, 2 in the Ultramax, 2 in the Supramax and 6 in the Handy segment.
 
-![In Our Infographic Below](assets/2021-09-11_dry-assets-review-trends-amp-expectations_img_image009_5544ac38328f.png)
+![In Our Infographic Below](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-11_dry-assets-review-trends-amp-expectations_img_image009_5544ac38328f.png)
 
 > **Figure 2: In Our Infographic Below**  
 > *In our infographic below, you can view the evolution of secondhand bulkers’ values this year:*  
@@ -67,7 +67,7 @@ The current picture of the dry bulk orderbook stands at around 54m deadweight, d
 
 In conclusion, the overall fleet-to-orderbook picture provides a promising outlook for freight earnings and elevated price assessments, both for secondhand and newbuilding tonnage, going forward. There are expectations that the rebound of the Chinese economy will trigger demand growth which is possibly going to absorb most of the available tonnage supply. Fleet utilisation projections are also very positive and although last year’s figures remain sub 85%, far below the high utilisation achieved in 2008 (~98%), they are suggestive of new record levels to be achieved (~90) by 2022 as orderbook capacity is standing at historical lows.
 
-![Market Chart 3](assets/2021-09-11_dry-assets-review-trends-amp-expectations_img_image012_0eb97b9977c6.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-11_dry-assets-review-trends-amp-expectations_img_image012_0eb97b9977c6.png)
 
 > **Figure 3: Market Chart 3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-11_dry-assets-review-trends-amp-expectations_img_image012_0eb97b9977c6.png)

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/25/breakwave-weekend-read-4cn8n-wg9gj-jk5sb-4ckhh-cagw9"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 9
-word_count: 1108
+word_count: 1117
 source_file: "corpus/03-breakwave/insights/2024/2024-12-21_breakwave-weekend-read-4cn8n-wg9gj-jk5sb-4ckhh-cagw9.html"
 ---
 
@@ -28,7 +28,7 @@ As we conclude the workweek and head into the weekend, take a moment to review t
 
 ## Breakwave Tanker Report
 
-**Clouded Horizons: Crude Tanker Freight Market Struggles Amid Weak Demand and Geopolitical Uncertainty**– December continues to cast a**shadow of pessimism**over the crude tanker freight market, with VLCC (Very Large Crude Carrier) rates**struggling to gain momentum**during what is typically the peak winter demand season.
+**Clouded Horizons: Crude Tanker Freight Market Struggles Amid Weak Demand and Geopolitical Uncertainty**– December continues to cast a**shadow of pessimism** over the crude tanker freight market, with VLCC (Very Large Crude Carrier) rates **struggling to gain momentum** during what is typically the peak winter demand season.
 
 [Read More](https://www.breakwaveadvisors.com/insights/20241217wet-kji289)
 

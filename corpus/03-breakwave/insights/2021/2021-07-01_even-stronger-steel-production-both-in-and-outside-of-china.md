@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/30/even-stronger-steel-production-both-in-and-outside-of-china"
 tags: ["Steel"]
 images_count: 2
-word_count: 640
+word_count: 642
 source_file: "corpus/03-breakwave/insights/2021/2021-07-01_even-stronger-steel-production-both-in-and-outside-of-china.html"
 ---
 

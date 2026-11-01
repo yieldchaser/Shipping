@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/6/27/morning-market-comment-pressure-points"
 images_count: 2
-word_count: 1365
+word_count: 1367
 source_file: "corpus/03-breakwave/insights/2022/2022-06-27_morning-market-comment-pressure-points.html"
 ---
 

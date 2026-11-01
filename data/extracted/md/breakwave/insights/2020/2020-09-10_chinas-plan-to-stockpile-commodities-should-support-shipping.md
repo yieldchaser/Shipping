@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/9/10/chinas-plan-to-stockpile-commodities-should-support-shipping"
 tags: ["China"]
 images_count: 2
-word_count: 820
+word_count: 822
 source_file: "corpus/03-breakwave/insights/2020/2020-09-10_chinas-plan-to-stockpile-commodities-should-support-shipping.html"
 ---
 

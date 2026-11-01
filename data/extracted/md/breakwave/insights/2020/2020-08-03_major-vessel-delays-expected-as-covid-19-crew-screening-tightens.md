@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/8/3/major-vessel-delays-expected-as-covid-19-crew-screening-tightens"
 tags: ["Dry Bulk", "Shipping", "Capesize", "China", "Coronavirus"]
 images_count: 2
-word_count: 300
+word_count: 302
 source_file: "corpus/03-breakwave/insights/2020/2020-08-03_major-vessel-delays-expected-as-covid-19-crew-screening-tightens.html"
 ---
 

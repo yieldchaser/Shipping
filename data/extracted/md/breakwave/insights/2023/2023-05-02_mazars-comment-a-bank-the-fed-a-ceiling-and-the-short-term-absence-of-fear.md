@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/5/2/mazars-comment-a-bank-the-fed-a-ceiling-and-the-short-term-absence-of-fear"
 images_count: 4
-word_count: 1521
+word_count: 1525
 source_file: "corpus/03-breakwave/insights/2023/2023-05-02_mazars-comment-a-bank-the-fed-a-ceiling-and-the-short-term-absence-of-fear.html"
 ---
 

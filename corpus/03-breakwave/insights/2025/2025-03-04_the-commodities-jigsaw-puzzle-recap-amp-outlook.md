@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/4/the-commodities-jigsaw-puzzle-recap-amp-outlook"
 tags: ["Shipping", "Markets", "Drybulk"]
 images_count: 8
-word_count: 1904
+word_count: 1912
 source_file: "corpus/03-breakwave/insights/2025/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook.html"
 ---
 

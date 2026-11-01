@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/18/thermal-coal-prices-in-china-at-highest-level-in-three-years"
 tags: ["Commodities", "Markets", "Coal"]
 images_count: 2
-word_count: 197
+word_count: 199
 source_file: "corpus/03-breakwave/insights/2026/2026-10-19_thermal-coal-prices-in-china-at-highest-level-in-three-years.html"
 ---
 

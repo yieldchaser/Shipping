@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/23/dry-bulk-market-on-solid-footing"
 tags: ["Drybulk", "Shipping", "Capesize"]
 images_count: 1
-word_count: 188
+word_count: 189
 source_file: "corpus/03-breakwave/insights/2025/2025-12-23_dry-bulk-market-on-solid-footing.html"
 ---
 

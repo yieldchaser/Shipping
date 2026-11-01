@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/21/metals-gains-as-trade-tensions-ease"
 tags: ["Shipping", "Markets", "Commodities"]
 images_count: 2
-word_count: 730
+word_count: 732
 source_file: "corpus/03-breakwave/insights/2025/2025-01-21_metals-gains-as-trade-tensions-ease.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/18/headwinds-for-capesizes"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 1
-word_count: 1298
+word_count: 1299
 source_file: "corpus/03-breakwave/insights/2024/2024-06-18_headwinds-for-capesizes.html"
 ---
 

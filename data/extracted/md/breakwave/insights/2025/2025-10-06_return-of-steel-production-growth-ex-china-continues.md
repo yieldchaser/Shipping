@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/6/return-of-steel-production-growth-ex-china-continues"
 tags: ["China", "Drybulk", "Ironore"]
 images_count: 2
-word_count: 313
+word_count: 315
 source_file: "corpus/03-breakwave/insights/2025/2025-10-06_return-of-steel-production-growth-ex-china-continues.html"
 ---
 

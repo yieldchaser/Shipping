@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/8/22/ongoing-decline-in-indian-power-plant-stockpiles"
 images_count: 1
-word_count: 159
+word_count: 160
 source_file: "corpus/03-breakwave/insights/2020/2020-08-24_ongoing-decline-in-indian-power-plant-stockpiles.html"
 ---
 

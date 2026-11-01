@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/19/global-grain-trade-forecast-raised-yet-again"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 1
-word_count: 325
+word_count: 326
 source_file: "corpus/03-breakwave/insights/2025/2025-12-19_global-grain-trade-forecast-raised-yet-again.html"
 ---
 

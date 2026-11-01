@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/9/8/signal-tanker-weekly-report"
 images_count: 10
-word_count: 1449
+word_count: 1459
 source_file: "corpus/03-breakwave/insights/2023/2023-09-08_signal-tanker-weekly-report.html"
 ---
 
@@ -48,16 +48,16 @@ Freight Market, Supply and Demand
 
 Weaker sentiment in crude oil freight rates, while the VLCC MEG - China route has seen a sustained downward trend since August. Whether there will be an upturn in September with the end of the summer season is still uncertain.
 
-- **VLCC MEG-China**freight rates fell to a level of around WS 37, down 25% month-on-month and the lowest level since the beginning of the year.
-- **Suezmax**freight rates for shipments from**West Africa**to**continental Europe**held at levels around WS70, with similar dynamics emerging on the**Suez-Baltic-Med**route and relatively flat dynamics in the first days of September.
-- **Aframax**Med freight rates fell below 100WS, down 7 points from two weeks ago, while we last saw weaker levels around 90 WS five weeks ago.
+- **VLCC MEG-China** freight rates fell to a level of around WS 37, down 25% month-on-month and the lowest level since the beginning of the year.
+- **Suezmax** freight rates for shipments from **West Africa** to **continental Europe** held at levels around WS70, with similar dynamics emerging on the **Suez-Baltic-Med** route and relatively flat dynamics in the first days of September.
+- **Aframax** Med freight rates fell below 100WS, down 7 points from two weeks ago, while we last saw weaker levels around 90 WS five weeks ago.
 
 ![‘Product’ Wslr Steady](assets/2023-09-08_signal-tanker-weekly-report_img_unnamed-2023-09-08t131234943_d332cd3e5889.png)
 
 > **Figure 3: ‘Product’ Wslr Steady**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-09-08_signal-tanker-weekly-report_img_unnamed-2023-09-08t131234943_d332cd3e5889.png)
 
-- **LR2**AG freight rates have been holding around WS130 since the end of week 34, while the last peak was recorded in week 31.
+- **LR2** AG freight rates have been holding around WS130 since the end of week 34, while the last peak was recorded in week 31.
 
 ![PANAMAX (Sentiment: Weaker)](assets/2023-09-08_signal-tanker-weekly-report_img_unnamed-2023-09-08t131401798_dcf3545883d7.png)
 
@@ -71,8 +71,8 @@ Weaker sentiment in crude oil freight rates, while the VLCC MEG - China route ha
 > **Figure 5: Panamax**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-09-08_signal-tanker-weekly-report_img_unnamed-2023-09-08t131529648_ed37a6ae4138.png)
 
-- **MR1**rates for the**Baltic**continent have firmed since late August with levels above the WS190, while the upswing has strengthened weekly since the last low in week 28.
-- **MR2**rates for shipments from the continent to the U.S. have suddenly dropped to 170 WS from over 200 WS last week.
+- **MR1** rates for the **Baltic** continent have firmed since late August with levels above the WS190, while the upswing has strengthened weekly since the last low in week 28.
+- **MR2** rates for shipments from the continent to the U.S. have suddenly dropped to 170 WS from over 200 WS last week.
 
 ## Section 2/ Supplysupply Trend Lines for Key Load Areas
 

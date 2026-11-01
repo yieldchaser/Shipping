@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/6/26/strong-electricity-production-in-china"
 tags: ["Coal", "China", "Drybulk"]
 images_count: 3
-word_count: 343
+word_count: 346
 source_file: "corpus/03-breakwave/insights/2026/2026-06-26_strong-electricity-production-in-china.html"
 ---
 

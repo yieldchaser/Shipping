@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/20/dry-bulk-spot-chartering-activity-falls-back-down-to-earth"
 tags: ["Drybulk", "Markets", "Shipping"]
 images_count: 2
-word_count: 259
+word_count: 261
 source_file: "corpus/03-breakwave/insights/2026/2026-03-20_dry-bulk-spot-chartering-activity-falls-back-down-to-earth.html"
 ---
 

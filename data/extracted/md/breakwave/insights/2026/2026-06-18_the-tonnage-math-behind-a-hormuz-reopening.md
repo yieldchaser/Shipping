@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/6/18/the-tonnage-math-behind-a-hormuz-reopening"
 tags: ["Crude", "Markets", "Tankers"]
 images_count: 2
-word_count: 1033
+word_count: 1035
 source_file: "corpus/03-breakwave/insights/2026/2026-06-18_the-tonnage-math-behind-a-hormuz-reopening.html"
 ---
 

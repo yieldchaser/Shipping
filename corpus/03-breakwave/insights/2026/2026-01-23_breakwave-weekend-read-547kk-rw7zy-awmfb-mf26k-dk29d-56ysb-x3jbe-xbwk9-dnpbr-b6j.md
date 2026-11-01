@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/25/breakwave-weekend-read-547kk-rw7zy-awmfb-mf26k-dk29d-56ysb-x3jbe-xbwk9-dnpbr-b6jhc-l4mb2-d4l2e-f7l54"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 14
-word_count: 1660
+word_count: 1674
 source_file: "corpus/03-breakwave/insights/2026/2026-01-23_breakwave-weekend-read-547kk-rw7zy-awmfb-mf26k-dk29d-56ysb-x3jbe-xbwk9-dnpbr-b6j.html"
 ---
 
@@ -36,7 +36,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-01-23_breakwave-weekend-rea
 
 ## Breakwave Shipping Report
 
-**Spot Rates Bounce as Capesize Market Finds Short-Term Bottom**– Following a dramatic**64% decline**in spot rates since early December, which saw the Capesize Index lose approximately 28,000 points, the market appears to have reached a tentative bottom.
+**Spot Rates Bounce as Capesize Market Finds Short-Term Bottom**– Following a dramatic **64% decline** in spot rates since early December, which saw the Capesize Index lose approximately 28,000 points, the market appears to have reached a tentative bottom.
 
 [Read More](https://www.breakwaveadvisors.com/insights/162026db-reportjukl47o85)
 

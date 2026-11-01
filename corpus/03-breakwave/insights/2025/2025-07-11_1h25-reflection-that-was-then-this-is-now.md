@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/11/1h25-reflection-that-was-then-this-is-now"
 tags: ["Drybulk", "Capesize", "Markets"]
 images_count: 6
-word_count: 1843
+word_count: 1849
 source_file: "corpus/03-breakwave/insights/2025/2025-07-11_1h25-reflection-that-was-then-this-is-now.html"
 ---
 

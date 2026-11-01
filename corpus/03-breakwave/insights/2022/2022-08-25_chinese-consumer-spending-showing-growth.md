@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/25/chinese-consumer-spending-showing-growth"
 images_count: 3
-word_count: 383
+word_count: 386
 source_file: "corpus/03-breakwave/insights/2022/2022-08-25_chinese-consumer-spending-showing-growth.html"
 ---
 

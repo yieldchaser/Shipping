@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/12/21/what-does-2023-hold-for-the-oil-market"
 images_count: 2
-word_count: 1294
+word_count: 1296
 source_file: "corpus/03-breakwave/insights/2022/2022-12-21_what-does-2023-hold-for-the-oil-market.html"
 ---
 

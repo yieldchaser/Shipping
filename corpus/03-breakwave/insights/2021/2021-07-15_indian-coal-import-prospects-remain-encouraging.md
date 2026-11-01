@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/15/indian-coal-import-prospects-remain-encouraging"
 tags: ["India", "Coal"]
 images_count: 4
-word_count: 698
+word_count: 702
 source_file: "corpus/03-breakwave/insights/2021/2021-07-15_indian-coal-import-prospects-remain-encouraging.html"
 ---
 

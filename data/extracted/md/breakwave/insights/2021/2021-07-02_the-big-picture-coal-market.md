@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/1/the-big-picture-coal-market"
 images_count: 4
-word_count: 1170
+word_count: 1174
 source_file: "corpus/03-breakwave/insights/2021/2021-07-02_the-big-picture-coal-market.html"
 ---
 
@@ -29,7 +29,7 @@ Since we last focused on the volatile global coal market a couple of months ago,
 
 With the ban on Australian coal imports still in place, Chinese buyers have upped their purchases from other suppliers such as Indonesia, Russia and the Philippines. But even so, these volumes have not been enough to offset an apparent shortfall in domestic supply. As many as one hundred mines have reportedly been temporarily closed over safety issues ahead of the Chinese Communist Party’s centennial, while border restrictions have throttled the flow of Mongolian coal into the country. All of this comes during a key restocking period ahead of the summer months. Inventories of coal have remained low, and this, combined with expectations of lower rainfall and weaker hydro power generation this year, has added to fears of an even tighter market over the second half of the year.
 
-![Bmr 1 7.1](assets/2021-07-02_the-big-picture-coal-market_img_bmr171_6aa4899b6dc5.png)
+![Bmr 1 7.1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-02_the-big-picture-coal-market_img_bmr171_6aa4899b6dc5.png)
 
 > **Figure 1: Bmr 1 7.1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-02_the-big-picture-coal-market_img_bmr171_6aa4899b6dc5.png)
@@ -38,7 +38,7 @@ To ease some of this pressure, which has been weighing on China’s power utilit
 
 Total coal imports in June reached an estimated 29.5m tonnes, a record monthly total and a 14% improvement on June 2020. Since the Australian ban, we’ve also seen a sharp increase in supply coming from Russia, in the form of both short trips from the country’s east coast, and longer-haul trips from the European continent via the Arctic route. The majority of China’s increased import volume has been hauled by Panamaxes. These ships discharged about 15.2m tonnes of coal in China last month, an increase of 111% versus June 2019, before the pandemic and trade disputes disrupted flows. Supramaxes have also seen a meaningful increase in trade, shipping 8.2m tonnes of coal to China last month, up by 15% on June 2019.
 
-![Bmr 2 7.1](assets/2021-07-02_the-big-picture-coal-market_img_bmr271_cb45e091842c.png)
+![Bmr 2 7.1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-02_the-big-picture-coal-market_img_bmr271_cb45e091842c.png)
 
 > **Figure 2: Bmr 2 7.1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-02_the-big-picture-coal-market_img_bmr271_cb45e091842c.png)
@@ -55,12 +55,12 @@ China isn’t the only place where energy prices are affecting the dry market. I
 
 According to Refinitiv’s calculations, which compare the costs of electricity generation from different fuels on a like-for-like basis, natural gas prices in Europe have crossed the average threshold where coal becomes a more attractive option. This is after accounting for efficiency rates of power plants and the carbon costs that they incur. Based on forward prices of these commodities, this situation is expected to be sustained through the remainder of this year.
 
-![Bmr 3 7.1](assets/2021-07-02_the-big-picture-coal-market_img_bmr371_f746de557cd7.png)
+![Bmr 3 7.1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-02_the-big-picture-coal-market_img_bmr371_f746de557cd7.png)
 
 > **Figure 3: Bmr 3 7.1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-02_the-big-picture-coal-market_img_bmr371_f746de557cd7.png)
 
-![Bmr 4 7.1](assets/2021-07-02_the-big-picture-coal-market_img_bmr471_9311eecf9017.png)
+![Bmr 4 7.1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-02_the-big-picture-coal-market_img_bmr471_9311eecf9017.png)
 
 > **Figure 4: Bmr 4 7.1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-02_the-big-picture-coal-market_img_bmr471_9311eecf9017.png)

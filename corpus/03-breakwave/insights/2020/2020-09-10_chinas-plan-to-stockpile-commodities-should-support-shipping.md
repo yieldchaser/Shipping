@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/9/10/chinas-plan-to-stockpile-commodities-should-support-shipping"
 tags: ["China"]
 images_count: 2
-word_count: 820
+word_count: 822
 source_file: "corpus/03-breakwave/insights/2020/2020-09-10_chinas-plan-to-stockpile-commodities-should-support-shipping.html"
 ---
 
@@ -30,7 +30,7 @@ Although the day-to-day drivers of freight rates are usually dominating shipping
 
 By now, most people that have looked at shipping investments know that China has and will be the main driver of demand, as the country continues to absorb vast quantities of commodities with much higher growth rates versus the rest of the world. Although China’s economic growth has gradually declined as the absolute size has increased, market pundits have for years called for a peak in commodity demand and a maturing economy, something that partly played out in the last few years.
 
-Yet, shipping demand is mostly concerned with transportation and not outright consumption (though the two are highly correlated during normal times). To that front, an unexpected twist might be in the horizon that could break down such correlation in favor of shipping demand. As Bloomberg reports,**China is about to unveil a new stockpiling initiative of critical commodities in their upcoming 5-year plan,**something that should support shipping demand for the foreseeable future at above trend rates even if consumption growth slows down. Commodities will include**crude oil, strategic metals and farm products**, all of which are mainly transported by sea from far away destinations.
+Yet, shipping demand is mostly concerned with transportation and not outright consumption (though the two are highly correlated during normal times). To that front, an unexpected twist might be in the horizon that could break down such correlation in favor of shipping demand. As Bloomberg reports,**China is about to unveil a new stockpiling initiative of critical commodities in their upcoming 5-year plan,**something that should support shipping demand for the foreseeable future at above trend rates even if consumption growth slows down. Commodities will include **crude oil, strategic metals and farm products**, all of which are mainly transported by sea from far away destinations.
 
 Bloomberg writes:
 
@@ -44,7 +44,7 @@ Bloomberg writes:
 
 If one considers that the Capesize forward curve for the next 3 years is in the 13,000 region, which is in line with the 10-year trailing average (a period of significant oversupply and a few years of flat demand growth),**the odds of a tighter market and thus higher realized rates for the next 2-5 years is skewed to the upside.**
 
-Finally, the incentives of such a potential move by China are anybody’s guess. Geopolitics might play a role as well as relative currency moves given the recent volatility in CNY. The fresh souring in[Australia-China relations](https://www.scmp.com/economy/china-economy/article/3091182/why-has-china-australia-relationship-deteriorated-what-some)and the two-year long trade dispute with the US are prime examples of why Beijing might want to actually initiate such a strategic stockpiling. Whatever China’s motivations end up being, commodities are located far away from China’s shores and thus more ships will be needed, providing some much needed hope for shipowners that could potentially see their earnings potential move higher in another major, China’s driven shipping cycle.
+Finally, the incentives of such a potential move by China are anybody’s guess. Geopolitics might play a role as well as relative currency moves given the recent volatility in CNY. The fresh souring in [Australia-China relations](https://www.scmp.com/economy/china-economy/article/3091182/why-has-china-australia-relationship-deteriorated-what-some) and the two-year long trade dispute with the US are prime examples of why Beijing might want to actually initiate such a strategic stockpiling. Whatever China’s motivations end up being, commodities are located far away from China’s shores and thus more ships will be needed, providing some much needed hope for shipowners that could potentially see their earnings potential move higher in another major, China’s driven shipping cycle.
 
 ---
 

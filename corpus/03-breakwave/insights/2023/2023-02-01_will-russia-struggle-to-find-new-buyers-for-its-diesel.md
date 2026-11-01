@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/2/1/will-russia-struggle-to-find-new-buyers-for-its-diesel"
 images_count: 3
-word_count: 2065
+word_count: 2068
 source_file: "corpus/03-breakwave/insights/2023/2023-02-01_will-russia-struggle-to-find-new-buyers-for-its-diesel.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/12/13/china-continues-to-be-afforded-luxury-of-more-safely-being-able-to-carry-out-inflationary-stimulus-measures"
 tags: ["China", "Ironore", "Drybulk"]
 images_count: 2
-word_count: 264
+word_count: 266
 source_file: "corpus/03-breakwave/insights/2024/2024-12-13_china-continues-to-be-afforded-luxury-of-more-safely-being-able-to-carry-out-inf.html"
 ---
 

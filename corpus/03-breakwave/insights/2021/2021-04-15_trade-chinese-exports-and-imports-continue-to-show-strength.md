@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/15/trade-chinese-exports-and-imports-continue-to-show-strength"
 tags: ["China"]
 images_count: 2
-word_count: 866
+word_count: 868
 source_file: "corpus/03-breakwave/insights/2021/2021-04-15_trade-chinese-exports-and-imports-continue-to-show-strength.html"
 ---
 

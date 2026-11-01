@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/27/spotlight-on-indonesian-thermal-coal-shipments"
 tags: ["Drybulk", "Shipping", "Capesize"]
 images_count: 13
-word_count: 1787
+word_count: 1800
 source_file: "corpus/03-breakwave/insights/2025/2025-06-27_spotlight-on-indonesian-thermal-coal-shipments.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-06-27_spotlight-on-indonesi
 ---
 
 **WEEKLY DRY MARKET MONITOR**
-*Spot Rates | Supply-Demand Trends | Port Congestion Overview*
+ *Spot Rates | Supply-Demand Trends | Port Congestion Overview*
 
 Week 26, 2025 | Date: June 26, 2025
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/8/rising-trade-distortions-and-geopolitical-fragmentation-are-expected-to-weigh-on-global-trade-going-forward"
 tags: ["Drybulk", "Shipping", "Economy"]
 images_count: 1
-word_count: 1103
+word_count: 1104
 source_file: "corpus/03-breakwave/insights/2024/2024-04-08_rising-trade-distortions-and-geopolitical-fragmentation-are-expected-to-weigh-on.html"
 ---
 

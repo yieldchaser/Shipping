@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/26/just-how-much-should-we-be-afraid"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 5
-word_count: 1556
+word_count: 1561
 source_file: "corpus/03-breakwave/insights/2025/2025-03-26_just-how-much-should-we-be-afraid.html"
 ---
 

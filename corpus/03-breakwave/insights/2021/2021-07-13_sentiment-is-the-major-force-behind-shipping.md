@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/13/sentiment-is-the-major-force-behind-shipping"
 images_count: 5
-word_count: 1285
+word_count: 1290
 source_file: "corpus/03-breakwave/insights/2021/2021-07-13_sentiment-is-the-major-force-behind-shipping.html"
 ---
 

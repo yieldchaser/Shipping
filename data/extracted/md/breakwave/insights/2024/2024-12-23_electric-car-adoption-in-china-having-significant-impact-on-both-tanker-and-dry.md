@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/12/23/electric-car-adoption-in-china-having-significant-impact-on-both-tanker-and-dry-bulk-shipping-markets"
 tags: ["China", "Drybulk", "Commodities"]
 images_count: 1
-word_count: 266
+word_count: 267
 source_file: "corpus/03-breakwave/insights/2024/2024-12-23_electric-car-adoption-in-china-having-significant-impact-on-both-tanker-and-dry.html"
 ---
 

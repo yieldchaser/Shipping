@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/26/diesel-drones-and-donald"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 2
-word_count: 713
+word_count: 725
 source_file: "corpus/03-breakwave/insights/2026/2026-10-26_diesel-drones-and-donald.html"
 ---
 
@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-10-26_diesel-drones-and-don
 
 ---
 
-![Tankerrr 2](assets/2026-10-26_diesel-drones-and-donald_img_tankerrr-2_89290ba50318.jpg)
+![Tankerrr 2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-26_diesel-drones-and-donald_img_tankerrr-2_89290ba50318.jpg)
 
 > **Figure 1: Tankerrr 2**  
 > **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/report/clean-slate/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-26_diesel-drones-and-donald_img_tankerrr-2_89290ba50318.jpg)
@@ -35,7 +35,7 @@ The legal side is another stumbling block. The licence does not cover sanctioned
 
 In the near term, volumes are unlikely to amount to anything meaningful unless attacks on Russian refineries stop. However, if Ukraine is successfully pressed to halt the attacks, the implications would be considerably bigger, as that would eventually allow Russia to export more to its usual trading partners, not just the US. Politically, Trump appears to be warming to Russia, although his position can change quickly. With this shift in Washington and parts of Europe grappling with social unrest amidst mass migration, rising living costs, soaring fuel prices and the growing influence of right-wing political parties, could Europe be forced to also reconsider its position?
 
-![Στιγμιότυπο Οθόνης 2026 10 26 095336](assets/2026-10-26_diesel-drones-and-donald_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b9e547c0c2bb.png)
+![Στιγμιότυπο Οθόνης 2026 10 26 095336](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-26_diesel-drones-and-donald_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b9e547c0c2bb.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 10 26 095336**  
 > **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-26_diesel-drones-and-donald_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b9e547c0c2bb.png)

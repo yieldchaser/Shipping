@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/11/25/chinese-consumer-spending-has-improved-but-further-contraction-in-domestic-furniture-sales"
 tags: ["Sales", "Retail", "China", "Economy"]
 images_count: 4
-word_count: 567
+word_count: 571
 source_file: "corpus/03-breakwave/insights/2021/2021-11-25_chinese-consumer-spending-has-improved-but-further-contraction-in-domestic-furni.html"
 ---
 

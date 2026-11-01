@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/12/17/chinese-teapots-face-challenges-in-securing-crude-imports-despite-fresh-quotas"
 tags: ["Shipping", "Markets", "Crude"]
 images_count: 3
-word_count: 1191
+word_count: 1194
 source_file: "corpus/03-breakwave/insights/2024/2024-12-17_chinese-teapots-face-challenges-in-securing-crude-imports-despite-fresh-quotas.html"
 ---
 

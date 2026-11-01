@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/18/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry"
 tags: ["Shipping", "Crude", "Tankers"]
 images_count: 7
-word_count: 2684
+word_count: 2691
 source_file: "corpus/03-breakwave/insights/2025/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke.html"
 ---
 

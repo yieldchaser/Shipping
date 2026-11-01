@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/25/breakwave-weekend-read-547kk-rw7zy-awmfb-mf26k-dk29d-56ysb-x3jbe-xbwk9-dnpbr-b6jhc-l4mb2-d4l2e-f7l54-fsr59"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 13
-word_count: 1640
+word_count: 1653
 source_file: "corpus/03-breakwave/insights/2026/2026-01-30_breakwave-weekend-read-547kk-rw7zy-awmfb-mf26k-dk29d-56ysb-x3jbe-xbwk9-dnpbr-b6j.html"
 ---
 
@@ -153,7 +153,7 @@ Signal Ocean Dry Weekly Market Monitor
 
 Each Lunar New Year is characterized by one of 12 animals which appear in the Chinese zodiac.
 
-Feng Shui analysis for the**Year of the Horse**
+Feng Shui analysis for the **Year of the Horse**
 
 ## Asia Adjusts to Shifts in Heavy Crude Availability
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/23/weaker-demand-and-higher-chinese-production"
 tags: ["Commodities", "Shipping", "Markets"]
 images_count: 1
-word_count: 1222
+word_count: 1223
 source_file: "corpus/03-breakwave/insights/2024/2024-10-23_weaker-demand-and-higher-chinese-production.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/12/4/iron-ore-another-bounce-as-demand-is-expected-to-recover"
 tags: ["Economy", "Iron Ore", "China", "Imports"]
 images_count: 3
-word_count: 984
+word_count: 987
 source_file: "corpus/03-breakwave/insights/2021/2021-12-04_iron-ore-another-bounce-as-demand-is-expected-to-recover.html"
 ---
 
@@ -26,7 +26,7 @@ Iron ore prices are continuing their volatile journey. November saw the steel-ma
 
 ### Iron Ore – 63.5% (Usd/tonne)
 
-![Ch1](assets/2021-12-04_iron-ore-another-bounce-as-demand-is-expected-to-recover_img_ch1_945ef8cf9667.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-04_iron-ore-another-bounce-as-demand-is-expected-to-recover_img_ch1_945ef8cf9667.png)
 
 > **Figure 1: Ch1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-04_iron-ore-another-bounce-as-demand-is-expected-to-recover_img_ch1_945ef8cf9667.png)
@@ -35,7 +35,7 @@ At the same time, as a rebound in Chinese demand offers some support, the Brazil
 
 At the same time, as prices recovered some lost ground, global seaborne import volumes declined during November compared to the previous month. According to cargo tracking data from Oceanbolt, 131 million tonnes of iron ore were discharged in ports globally last month, some eleven per cent below October’s levels. Despite an extensive drop in imports, on a month-on-month basis, the volumes shipped in November were broadly in line with what is usually recorded during the penultimate month of the year. While four per cent below the same month last year, global imports were at par with pre-pandemic levels. However, the declining imports were not just a result of softening global demand. During the previous two months, adverse weather conditions in Brazil have seen the country’s exports decline by several million tonnes.
 
-![Ch2](assets/2021-12-04_iron-ore-another-bounce-as-demand-is-expected-to-recover_img_ch2_e2c7a50f8bbf.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-04_iron-ore-another-bounce-as-demand-is-expected-to-recover_img_ch2_e2c7a50f8bbf.png)
 
 > **Figure 2: Ch2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-04_iron-ore-another-bounce-as-demand-is-expected-to-recover_img_ch2_e2c7a50f8bbf.png)
@@ -44,7 +44,7 @@ In recent months, the weaker Chinese demand for iron ore has been widely seen as
 
 With Chinese steel production under pressure in recent months, port side inventories of iron have been building up. Stockpiles in one of the largest Chinese iron ore ports, Caofeidian, are at the highest levels since the middle of July, according to satellite data from Tathya. However, more forward-looking export data suggest that volumes heading for Chinese ports declined considerably during November, and inventories may decrease if the steel mills ramp up their production as expected.
 
-![Ch3](assets/2021-12-04_iron-ore-another-bounce-as-demand-is-expected-to-recover_img_ch3_39a5dbed48fb.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-04_iron-ore-another-bounce-as-demand-is-expected-to-recover_img_ch3_39a5dbed48fb.png)
 
 > **Figure 3: Ch3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-04_iron-ore-another-bounce-as-demand-is-expected-to-recover_img_ch3_39a5dbed48fb.png)

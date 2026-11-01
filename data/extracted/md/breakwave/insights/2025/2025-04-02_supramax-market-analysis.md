@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/2/supramax-market-analysis"
 tags: ["Shipping", "Drybulk", "Markets"]
 images_count: 5
-word_count: 1200
+word_count: 1205
 source_file: "corpus/03-breakwave/insights/2025/2025-04-02_supramax-market-analysis.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-04-02_supramax-market-analy
 ---
 
 **Dry Weekly Market Monitor - Week 14, 2025**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 April 02, 2025
 
 ![Στιγμιότυπο Οθόνης 2025 04 02 150735](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-02_supramax-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_963a79d1fa82.png)

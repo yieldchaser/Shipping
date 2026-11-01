@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/4/11/large-number-of-coal-mine-deaths-in-china-recently"
 tags: ["China", "Coal", "Exports", "Commodities", "Economy"]
 images_count: 2
-word_count: 425
+word_count: 427
 source_file: "corpus/03-breakwave/insights/2022/2022-04-11_large-number-of-coal-mine-deaths-in-china-recently.html"
 ---
 

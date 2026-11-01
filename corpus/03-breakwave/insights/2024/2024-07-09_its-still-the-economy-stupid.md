@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/9/its-still-the-economy-stupid"
 tags: ["Markets", "Economy", "Macro"]
 images_count: 2
-word_count: 1846
+word_count: 1848
 source_file: "corpus/03-breakwave/insights/2024/2024-07-09_its-still-the-economy-stupid.html"
 ---
 
@@ -85,7 +85,7 @@ Either taxes or borrowing.
 
 Avoiding a significant raise in taxes has been the cornerstone of the winner’s platforms across the board. Where the politics of anger have not yet prevailed, breaking that promise and taking even more money out of people’s pockets than inflation has, is a certain way for economies to reach a boiling point.
 
-Certainly,[some taxes can be levied](https://www.ft.com/content/96c77095-8a73-46c8-9b09-3ce5f9b2e956?sharetype=blocked)on the ultra-high net worth, capital gains and possibly inheritance. But that won’t be enough to deliver growth back to the West, as income re-distribution can only go so far in improving efficiencies beyond a short-lived consumption boost.
+Certainly,[some taxes can be levied](https://www.ft.com/content/96c77095-8a73-46c8-9b09-3ce5f9b2e956?sharetype=blocked) on the ultra-high net worth, capital gains and possibly inheritance. But that won’t be enough to deliver growth back to the West, as income re-distribution can only go so far in improving efficiencies beyond a short-lived consumption boost.
 
 In an era of stagnant demographics and lower productivity, the best way to increase marginal wealth is to create it through debt, and not only for the West. Since Covid-19, debt in the US has increased by 2.7% per annum, in the UK 3.2%, in Japan 3.3% per annum (one way to get the economy out of its own “Japanisation” has been even more debt), and in China a whopping 8.1%. This later number, even if it’s halved, will bring the world’s second-largest economy’s debt to GDP at 106% by 2028, almost where the US was in the turn of the decade.
 

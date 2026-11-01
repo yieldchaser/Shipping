@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/20/the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows"
 tags: ["Commodities", "Drybulk", "Shipping"]
 images_count: 3
-word_count: 795
+word_count: 798
 source_file: "corpus/03-breakwave/insights/2026/2026-10-20_the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows.html"
 ---
 
@@ -27,7 +27,7 @@ Chinese front-loading is expected to have run its course, pointing to softer bau
 - Flows arriving in the UAE fell by over 60.0% in September.
 - Bauxite arriving in India declined by 37.0% y/y in September, the largest y/y decrease of any month in 2026 so far.
 
-![Market Chart 1](assets/2026-10-20_the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows_img_unnamed_5d19234ef6b4.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-20_the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows_img_unnamed_5d19234ef6b4.png)
 
 > **Figure 1: Market Chart 1**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-20_the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows_img_unnamed_5d19234ef6b4.png)
@@ -38,7 +38,7 @@ China received a surge of seaborne bauxite inflows during September, reaching 19
 
 India has been a key landing spot for seaborne bauxite that could not reach the Arabian Gulf, with Q1 and Q2 arrivals well ahead of the previous year. 2026 Q3 finished with a decrease y/y of 13.8%. This was driven by several factors, such as adequate stocks not requiring additional material and monsoons affecting domestic logistics operations.
 
-![Market Chart 2](assets/2026-10-20_the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows_img_unnamed28129_f0484f4a2a50.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-20_the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows_img_unnamed28129_f0484f4a2a50.png)
 
 > **Figure 2: Market Chart 2**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-20_the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows_img_unnamed28129_f0484f4a2a50.png)
@@ -47,7 +47,7 @@ The outlook for global bauxite flows is softer in Q4 2026, with Guinea’s expor
 
 Demand growth elsewhere is unlikely to offset this reduction. India remains well supplied, limiting the need for stronger year-on-year imports, while persistent regional tensions and disruption are expected to constrain demand recovery in the Arabian Gulf. Chinese demand should remain comparatively resilient, but significant upside appears limited: bauxite arrivals were flat year-on-year in Q3, suggesting little underlying growth in import requirements. With Guinea accounting for the majority of China’s imported bauxite, lower Guinean loadings are likely to translate into weaker Chinese arrivals, although existing inventories and cargoes already in transit may cushion the initial impact. Overall, the balance of risks points to softer global bauxite flows in Q4.
 
-![Market Chart 3](assets/2026-10-20_the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows_img_unnamed28229_1b91add3f984.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-20_the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows_img_unnamed28229_1b91add3f984.png)
 
 > **Figure 3: Market Chart 3**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-20_the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows_img_unnamed28229_1b91add3f984.png)

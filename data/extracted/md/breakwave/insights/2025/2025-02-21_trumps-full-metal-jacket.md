@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/21/trumps-full-metal-jacket"
 tags: ["Shipping", "Markets", "Drybulk"]
 images_count: 3
-word_count: 934
+word_count: 937
 source_file: "corpus/03-breakwave/insights/2025/2025-02-21_trumps-full-metal-jacket.html"
 ---
 

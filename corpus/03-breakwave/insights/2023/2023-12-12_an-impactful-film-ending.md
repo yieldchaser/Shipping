@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/12/11/an-impactful-film-ending"
 images_count: 2
-word_count: 1013
+word_count: 1015
 source_file: "corpus/03-breakwave/insights/2023/2023-12-12_an-impactful-film-ending.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/6/29/russian-crude-in-transit-at-record-highs"
 images_count: 4
-word_count: 1689
+word_count: 1693
 source_file: "corpus/03-breakwave/insights/2022/2022-06-29_russian-crude-in-transit-at-record-highs.html"
 ---
 

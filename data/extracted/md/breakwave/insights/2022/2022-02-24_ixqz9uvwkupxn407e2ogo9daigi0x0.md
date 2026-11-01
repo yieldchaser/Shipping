@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/2/24/ixqz9uvwkupxn407e2ogo9daigi0x0"
 tags: ["Ukraine", "Inflation", "Commodities", "Economy"]
 images_count: 1
-word_count: 808
+word_count: 809
 source_file: "corpus/03-breakwave/insights/2022/2022-02-24_ixqz9uvwkupxn407e2ogo9daigi0x0.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/17/seaborne-coal-volumes-not-aligning-with-decarbonization"
 images_count: 4
-word_count: 994
+word_count: 998
 source_file: "corpus/03-breakwave/insights/2021/2021-08-18_seaborne-coal-volumes-not-aligning-with-decarbonization.html"
 ---
 
@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-08-18_seaborne-coal-volumes
 
 For proponents of decarbonization, the volumes of coal shipped by sea so far during the third quarter are unlikely to be a cause for celebrations. After declining last year when the Covid pandemic resulted in falling economic activities in many parts of the world, there has been a recovery in the seaborne coal volumes during 2021. While volumes are still lagging behind the record levels of 2019, the current year could be on track to match the volumes logged in 2018. Volumes imported by sea during July grew by nineteen per cent, compared to the same month last year, and broadly equaling the pre-pandemic levels of 2018 and 2019. For August, with half of the month already behind us, imported quantities have been strong and suggesting a new monthly record could be in the making. If the rest of the month continues to develop in line with previous weeks, the year-on-year increase would be 26 per cent and see the monthly volumes topping the pre-pandemic record from 2019 by around three million tonnes.
 
-![A1](assets/2021-08-18_seaborne-coal-volumes-not-aligning-with-decarbonization_img_a1_c97f77d5882b.png)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-18_seaborne-coal-volumes-not-aligning-with-decarbonization_img_a1_c97f77d5882b.png)
 
 > **Figure 1: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-18_seaborne-coal-volumes-not-aligning-with-decarbonization_img_a1_c97f77d5882b.png)
@@ -32,21 +32,21 @@ Under normal circumstances, assumptions of linearity can be quite helpful based 
 
 Despite decelerating economic growth in China and the global economic recovery coming under pressure, coal prices have continued to rise as demand remains strong while supplies have faced obstacles. Very hot weather conditions across some of China’s most important industrial provinces and growing industrial production has driven thermal coal demand higher, despite the government’s ambitions to cut carbon emissions. While China recently has authorised several coal mines in the northern provinces to resume production to alleviate some of the shortage, historically low inventories and supply problems across Indonesia, Australia and Colombia have pushed coal prices ever higher. In addition to continued strong demand in China, warm weather in other large consumers in the Northern Hemisphere, such as Japan and South Korea has contributed to the demand growth and higher prices.
 
-![A2](assets/2021-08-18_seaborne-coal-volumes-not-aligning-with-decarbonization_img_a2_9ae7efadd700.jpg)
+![A2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-18_seaborne-coal-volumes-not-aligning-with-decarbonization_img_a2_9ae7efadd700.jpg)
 
 > **Figure 2: A2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-18_seaborne-coal-volumes-not-aligning-with-decarbonization_img_a2_9ae7efadd700.jpg)
 
 Demand for seaborne coal has recovered across all the major importers in recent months. The world’s largest consumer of coal, China, is traditionally only sourcing a minor part of its requirements from overseas, as it is also the world’s largest producer of the commodity. However, rising demand in combination with output restrictions, due to safety inspections and emission controls, have forced Chinese buyers to increase their purchases from other countries. While volumes discharged in Chinese ports were down in July compared to June, on a year-on-year basis the seaborne import grew by eighteen per cent and exceeded the pre-pandemic levels. The momentum has persisted into August, which can also be expected to deliver strong year-on-year growth and surpass its pre-pandemic levels. Likewise, in the world’s other major importers of coal, e.g. India and Japan, seaborne volumes have continued to recover during July and August, with pre-pandemic levels being matched.
 
-![A3](assets/2021-08-18_seaborne-coal-volumes-not-aligning-with-decarbonization_img_a3_5760faafcff7.png)
+![A3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-18_seaborne-coal-volumes-not-aligning-with-decarbonization_img_a3_5760faafcff7.png)
 
 > **Figure 3: A3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-18_seaborne-coal-volumes-not-aligning-with-decarbonization_img_a3_5760faafcff7.png)
 
 The recovering global coal trade has not altered the market share among the main producers in any material way. The current Chinese import ban on Australian coal has seen Australia shedding some of its market share to Indonesia, but with the change being rather marginal it highlights the country’s success in finding alternative markets for its output. The Chinese embargo has also seen Russian and US coal exports increasing in importance.
 
-![A4](assets/2021-08-18_seaborne-coal-volumes-not-aligning-with-decarbonization_img_a4_023eb43496de.png)
+![A4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-18_seaborne-coal-volumes-not-aligning-with-decarbonization_img_a4_023eb43496de.png)
 
 > **Figure 4: A4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-18_seaborne-coal-volumes-not-aligning-with-decarbonization_img_a4_023eb43496de.png)

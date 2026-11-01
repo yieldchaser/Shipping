@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/20/breakwave-weekend-read"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 12
-word_count: 1289
+word_count: 1301
 source_file: "corpus/03-breakwave/insights/2024/2024-09-21_breakwave-weekend-read.html"
 ---
 
@@ -22,11 +22,11 @@ source_file: "corpus/03-breakwave/insights/2024/2024-09-21_breakwave-weekend-rea
 
 ## Welcome Tobreakwave Advisorsweekend Read
 
-As we conclude the workweek and head into the weekend, take a moment to review the key articles from this week, including those you've highlighted.[The dry bulk market enters a more cautious phase](https://www.breakwaveadvisors.com/insights/2024/9/16/the-dry-bulk-market-enters-a-more-cautious-phase),[Grain dry bulk flows to China](https://www.breakwaveadvisors.com/insights/2024/9/19/grain-dry-bulk-flows-to-china),[Small impact on VLCCs from OPEC+ production cuts phase-out delay](https://www.breakwaveadvisors.com/insights/2024/9/19/small-impact-on-vlccs-from-opec-production-cuts-phase-out-delay)and more.
+As we conclude the workweek and head into the weekend, take a moment to review the key articles from this week, including those you've highlighted.[The dry bulk market enters a more cautious phase](https://www.breakwaveadvisors.com/insights/2024/9/16/the-dry-bulk-market-enters-a-more-cautious-phase),[Grain dry bulk flows to China](https://www.breakwaveadvisors.com/insights/2024/9/19/grain-dry-bulk-flows-to-china),[Small impact on VLCCs from OPEC+ production cuts phase-out delay](https://www.breakwaveadvisors.com/insights/2024/9/19/small-impact-on-vlccs-from-opec-production-cuts-phase-out-delay) and more.
 
 ## Breakwave Dry Bulk Report
 
-**Capesize Rally Fizzles Out as Iron Ore Prices Drop**– Capesize rates**eased**after hitting**two-month highs**, as lower iron ore prices combined with recent soft Chinese economic data weighed on sentiment.
+**Capesize Rally Fizzles Out as Iron Ore Prices Drop**– Capesize rates **eased** after hitting **two-month highs**, as lower iron ore prices combined with recent soft Chinese economic data weighed on sentiment.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2024917dry-87w547)
 

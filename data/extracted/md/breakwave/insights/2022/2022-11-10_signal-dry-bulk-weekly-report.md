@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/10/signal-dry-bulk-weekly-report"
 images_count: 5
-word_count: 1018
+word_count: 1023
 source_file: "corpus/03-breakwave/insights/2022/2022-11-10_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -31,7 +31,7 @@ Meanwhile, Reuters news agency reported that iron ore futures in Singapore retre
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-c3/2ktgym/284263092?h=YH4CC3tPt1D5dkuz7gb4I3GK8H7cwlGXQ8XuSEd99ss) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-10_signal-dry-bulk-weekly-report_img_unnamed-2022-11-10t121121923_d2d4d14c222f.png)
 
 Data Source: The Signal Ocean Platform, Capesize Brazil to China (C3) Dashboard
-[Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-c3/2ktgym/284263092?h=YH4CC3tPt1D5dkuz7gb4I3GK8H7cwlGXQ8XuSEd99ss)
+ [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-c3/2ktgym/284263092?h=YH4CC3tPt1D5dkuz7gb4I3GK8H7cwlGXQ8XuSEd99ss)
 
 ## Section 1/ Freight -Market Rates ($/T) Weaker
 

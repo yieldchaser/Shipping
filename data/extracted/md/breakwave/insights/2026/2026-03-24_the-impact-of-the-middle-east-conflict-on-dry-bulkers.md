@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/24/the-impact-of-the-middle-east-conflict-on-dry-bulkers"
 tags: ["Shipping", "Markets", "Geopolitics"]
 images_count: 6
-word_count: 1343
+word_count: 1349
 source_file: "corpus/03-breakwave/insights/2026/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers.html"
 ---
 

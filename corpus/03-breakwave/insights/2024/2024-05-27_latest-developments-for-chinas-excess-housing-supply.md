@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/27/latest-developments-for-chinas-excess-housing-supply"
 tags: ["Drybulk", "Economy", "Markets"]
 images_count: 2
-word_count: 363
+word_count: 365
 source_file: "corpus/03-breakwave/insights/2024/2024-05-27_latest-developments-for-chinas-excess-housing-supply.html"
 ---
 

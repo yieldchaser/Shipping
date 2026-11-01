@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/9/beijing-to-issue-consumption-vouchers"
 tags: ["Shipping", "Dry Bulk", "China"]
 images_count: 1
-word_count: 179
+word_count: 180
 source_file: "corpus/03-breakwave/insights/2020/2020-06-09_beijing-to-issue-consumption-vouchers.html"
 ---
 

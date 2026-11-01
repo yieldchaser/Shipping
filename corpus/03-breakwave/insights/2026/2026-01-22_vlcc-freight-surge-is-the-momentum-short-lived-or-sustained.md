@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/22/vlcc-freight-surge-is-the-momentum-short-lived-or-sustained"
 tags: ["VLCC", "Tankers", "Crude"]
 images_count: 2
-word_count: 1099
+word_count: 1101
 source_file: "corpus/03-breakwave/insights/2026/2026-01-22_vlcc-freight-surge-is-the-momentum-short-lived-or-sustained.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-01-22_vlcc-freight-surge-is
 
 The VLCC market saw strong return in rates, but it's unlikely to be sustainable as the trade rebalances
 
-By[Wanying Zhang](https://www.linkedin.com/in/wanying-zhang/)
+By [Wanying Zhang](https://www.linkedin.com/in/wanying-zhang/)
 
 The VLCC sector opened 2026 with a dramatic recovery in spot rates. Earnings are rapidly approaching the $100,000 per day benchmark, signaling a strong V-shaped bounce. The underlying market dynamics suggest this is more than a momentary post-holiday bounce.
 
@@ -50,7 +50,7 @@ However, despite this operational tightness, the current demand trend may not be
 
 Vessel tracking supports this view of a pending correction. A snapshot of the fleet on January 19 revealed that out of ballasting VLCCs, close to half of them are currently located in Northeast and Southeast Asia. Given the expectation of more oil exports coming out of the Middle East, these vessels are well-positioned to handle those shorter regional voyages. As the market shifts back to these shorter routes, the overall tonne-mile demand will decrease, likely causing freight rates to slowly adjust downwards from their current highs.
 
-The current VLCC freight market sits at a similar level as to November 2025 period, but the backdrop is notably different. In Q4 2025, the rates were well supported by[extraordinary oil on water level](https://analytics.vortexa.com/Flows?dateRange=2024-01-01T00%3A00%3A00.000Z__2026-01-17T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra_d%22%2C%22sts_o%22%2C%22c_o%22%2C%22w%22%5D&frequency=day&geoBreakdownOriginGlobal=shipping_region_v2&intraMovementDropdown=all&metric=bpd&movementEvent=cargo_on_water_state&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&tabId=2f64f3da-736f-4499-8fcb-1c7434a015f3&timeSeriesChartView=seasonal&v=3)and[high crude liftings](https://analytics.vortexa.com/Flows?dateRange=2024-01-01T00%3A00%3A00.000Z__2026-01-18T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22intra_d%22%2C%22sts_o%22%2C%22c_o%22%2C%22v%22%2C%22w%22%5D&geoBreakdownOriginGlobal=shipping_region_v2&intraMovementDropdown=all&metric=bpd&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&sortField=unloading_start&tabId=492ffbfe-39d5-4d3c-9e15-1b6387a6df5f&timeSeriesChartView=seasonal&timeSeriesSeasonalToggle=1&v=3). While since the new year, the fundamental support has faded as the market emerges with oil on water level settling and declining in crude liftings.
+The current VLCC freight market sits at a similar level as to November 2025 period, but the backdrop is notably different. In Q4 2025, the rates were well supported by [extraordinary oil on water level](https://analytics.vortexa.com/Flows?dateRange=2024-01-01T00%3A00%3A00.000Z__2026-01-17T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra_d%22%2C%22sts_o%22%2C%22c_o%22%2C%22w%22%5D&frequency=day&geoBreakdownOriginGlobal=shipping_region_v2&intraMovementDropdown=all&metric=bpd&movementEvent=cargo_on_water_state&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&tabId=2f64f3da-736f-4499-8fcb-1c7434a015f3&timeSeriesChartView=seasonal&v=3) and [high crude liftings](https://analytics.vortexa.com/Flows?dateRange=2024-01-01T00%3A00%3A00.000Z__2026-01-18T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22intra_d%22%2C%22sts_o%22%2C%22c_o%22%2C%22v%22%2C%22w%22%5D&geoBreakdownOriginGlobal=shipping_region_v2&intraMovementDropdown=all&metric=bpd&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&sortField=unloading_start&tabId=492ffbfe-39d5-4d3c-9e15-1b6387a6df5f&timeSeriesChartView=seasonal&timeSeriesSeasonalToggle=1&v=3). While since the new year, the fundamental support has faded as the market emerges with oil on water level settling and declining in crude liftings.
 
 In summary, the VLCC market is currently caught between two opposing forces. On one side, fleet consolidation and long-term chartering have successfully raised the market floor, giving owners leverage. On the other hand, the shifting economics of the oil trade point toward shorter voyages. While the supply squeeze has driven rates to impressive highs, the return to standard Middle East-to-Asia trade flows will likely act as a natural brake, gradually adjust the market downward in the coming weeks.
 

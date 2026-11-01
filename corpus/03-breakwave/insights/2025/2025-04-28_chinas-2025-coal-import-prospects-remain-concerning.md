@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/27/chinas-2025-coal-import-prospects-remain-concerning"
 tags: ["Coal", "Markets", "China"]
 images_count: 2
-word_count: 293
+word_count: 295
 source_file: "corpus/03-breakwave/insights/2025/2025-04-28_chinas-2025-coal-import-prospects-remain-concerning.html"
 ---
 

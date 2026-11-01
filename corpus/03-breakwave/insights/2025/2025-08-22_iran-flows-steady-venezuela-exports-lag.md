@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/22/iran-flows-steady-venezuela-exports-lag"
 tags: ["Crude", "Markets", "Tankers"]
 images_count: 2
-word_count: 889
+word_count: 891
 source_file: "corpus/03-breakwave/insights/2025/2025-08-22_iran-flows-steady-venezuela-exports-lag.html"
 ---
 
@@ -32,18 +32,18 @@ It follows a July decline from June’s surge to nearly 2 mbd, when Tehran rushe
 
 While some market reports may publish higher Iranian export figures, bigger is not necessarily more accurate. Differences often come down to methodology. Including for example the following aspects:
 
-- **Double-counting cargoes**by recording both the initial port loading*and*the subsequent ship-to-ship transfer as separate “exports”
-- **Double-counting volumes**when vessel revisit the load port with a residual cargo on board after an STS of only a partial cargo
-- **Prematurely assigning destinations and closing voyages**based on partial AIS pings before the cargo is actually discharged
-- **Miss-judging evasive tactics**such as spoofing, loitering, or circuitous routing, leading to misclassification or overstatement of flows
+- **Double-counting cargoes** by recording both the initial port loading *and* the subsequent ship-to-ship transfer as separate “exports”
+- **Double-counting volumes** when vessel revisit the load port with a residual cargo on board after an STS of only a partial cargo
+- **Prematurely assigning destinations and closing voyages** based on partial AIS pings before the cargo is actually discharged
+- **Miss-judging evasive tactics** such as spoofing, loitering, or circuitous routing, leading to misclassification or overstatement of flows
 
 Vortexa’s methodology is designed to avoid these pitfalls by combining multiple, cross-verified sources:
 
-- **Global AIS tracking**continuously cleaned and enriched, supported by proprietary feeds with stronger coverage in high-risk regions
-- **High-resolution satellite imagery**to confirm tanker loadings, discharges, and offshore transfers
-- **Specialist analysis**that interprets evasive shipping behaviors typical of sanctioned flows
+- **Global AIS tracking** continuously cleaned and enriched, supported by proprietary feeds with stronger coverage in high-risk regions
+- **High-resolution satellite imagery** to confirm tanker loadings, discharges, and offshore transfers
+- **Specialist analysis** that interprets evasive shipping behaviors typical of sanctioned flows
 
-This layered approach means our figures may sometimes appear lower than competing reports, but they more accurately capture*delivered barrels*rather than inflated volumes caught mid-transfer. The result: consistent, dependable numbers that give confidence in both the scale and direction of Iranian exports.
+This layered approach means our figures may sometimes appear lower than competing reports, but they more accurately capture *delivered barrels* rather than inflated volumes caught mid-transfer. The result: consistent, dependable numbers that give confidence in both the scale and direction of Iranian exports.
 
 With Asian demand steady and China absorbing the bulk of flows, exports are expected to settle the month of August above**1.2 mbd**.
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/7/recovering-cargo-order-volumes"
 tags: ["Shipping", "Markets", "Commodities"]
 images_count: 1
-word_count: 1358
+word_count: 1359
 source_file: "corpus/03-breakwave/insights/2025/2025-02-07_recovering-cargo-order-volumes.html"
 ---
 

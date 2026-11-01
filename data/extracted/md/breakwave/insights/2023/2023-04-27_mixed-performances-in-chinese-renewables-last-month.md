@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/4/27/mixed-performances-in-chinese-renewables-last-month"
 images_count: 4
-word_count: 367
+word_count: 371
 source_file: "corpus/03-breakwave/insights/2023/2023-04-27_mixed-performances-in-chinese-renewables-last-month.html"
 ---
 

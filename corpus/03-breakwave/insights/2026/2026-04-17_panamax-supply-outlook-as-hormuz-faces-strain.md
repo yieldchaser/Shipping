@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/4/17/panamax-supply-outlook-as-hormuz-faces-strain"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 3
-word_count: 858
+word_count: 861
 source_file: "corpus/03-breakwave/insights/2026/2026-04-17_panamax-supply-outlook-as-hormuz-faces-strain.html"
 ---
 

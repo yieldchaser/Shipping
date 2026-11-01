@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/7/metals-gain-as-lme-places-restrictions-on-russian-zinc-and-aluminium"
 images_count: 1
-word_count: 688
+word_count: 689
 source_file: "corpus/03-breakwave/insights/2022/2022-10-07_metals-gain-as-lme-places-restrictions-on-russian-zinc-and-aluminium.html"
 ---
 
@@ -35,6 +35,6 @@ Supply side issues dominated sentiment. The spectre of further disruptions saw m
 
 **Gold** also slipped as fresh data painted a mixed picture on the US economy. There is also a view that OPEC’s production cut might keep the Fed on an aggressive rate hike cycle longer as it battles to contain inflation.
 
-**Iron ore**futures were steady in Singapore following gains earlier this week amid increased support for the China’s property sector. Trading in China has been closed this week due to Golden Week holidays.
+**Iron ore** futures were steady in Singapore following gains earlier this week amid increased support for the China’s property sector. Trading in China has been closed this week due to Golden Week holidays.
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)

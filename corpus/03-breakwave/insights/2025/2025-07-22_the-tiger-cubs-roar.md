@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/21/the-tiger-cubs-roar"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 2
-word_count: 689
+word_count: 691
 source_file: "corpus/03-breakwave/insights/2025/2025-07-22_the-tiger-cubs-roar.html"
 ---
 

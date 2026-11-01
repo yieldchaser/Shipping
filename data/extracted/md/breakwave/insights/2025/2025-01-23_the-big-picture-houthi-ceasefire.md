@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/23/the-big-picture-houthi-ceasefire"
 tags: ["Markets", "Shipping", "Tankers"]
 images_count: 4
-word_count: 916
+word_count: 920
 source_file: "corpus/03-breakwave/insights/2025/2025-01-23_the-big-picture-houthi-ceasefire.html"
 ---
 

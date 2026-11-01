@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/4/crude-oil-gains-following-further-drawdowns-in-inventories"
 images_count: 1
-word_count: 655
+word_count: 656
 source_file: "corpus/03-breakwave/insights/2022/2022-11-04_crude-oil-gains-following-further-drawdowns-in-inventories.html"
 ---
 

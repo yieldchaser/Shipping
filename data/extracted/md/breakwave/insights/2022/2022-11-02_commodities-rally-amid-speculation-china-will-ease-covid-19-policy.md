@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/2/commodities-rally-amid-speculation-china-will-ease-covid-19-policy"
 images_count: 1
-word_count: 706
+word_count: 707
 source_file: "corpus/03-breakwave/insights/2022/2022-11-02_commodities-rally-amid-speculation-china-will-ease-covid-19-policy.html"
 ---
 

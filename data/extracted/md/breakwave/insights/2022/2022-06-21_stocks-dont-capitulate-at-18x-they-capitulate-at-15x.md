@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/6/21/stocks-dont-capitulate-at-18x-they-capitulate-at-15x"
 images_count: 1
-word_count: 862
+word_count: 863
 source_file: "corpus/03-breakwave/insights/2022/2022-06-21_stocks-dont-capitulate-at-18x-they-capitulate-at-15x.html"
 ---
 

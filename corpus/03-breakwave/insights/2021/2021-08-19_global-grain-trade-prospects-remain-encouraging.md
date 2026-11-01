@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/19/global-grain-trade-prospects-remain-encouraging"
 tags: ["Shipping", "Soybeans"]
 images_count: 4
-word_count: 454
+word_count: 458
 source_file: "corpus/03-breakwave/insights/2021/2021-08-19_global-grain-trade-prospects-remain-encouraging.html"
 ---
 

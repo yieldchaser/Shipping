@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/9/28/energy-markets-rally-as-risk-of-disruptions-rise"
 images_count: 1
-word_count: 690
+word_count: 691
 source_file: "corpus/03-breakwave/insights/2022/2022-09-28_energy-markets-rally-as-risk-of-disruptions-rise.html"
 ---
 

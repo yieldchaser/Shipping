@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/18/orderbooks-old-ships-and-sanctions"
 tags: ["Crude", "Markets", "Tankers"]
 images_count: 2
-word_count: 736
+word_count: 738
 source_file: "corpus/03-breakwave/insights/2025/2025-07-18_orderbooks-old-ships-and-sanctions.html"
 ---
 

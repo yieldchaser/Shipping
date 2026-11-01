@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/1/22/the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture"
 images_count: 3
-word_count: 691
+word_count: 694
 source_file: "corpus/03-breakwave/insights/2024/2024-01-23_the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture.html"
 ---
 

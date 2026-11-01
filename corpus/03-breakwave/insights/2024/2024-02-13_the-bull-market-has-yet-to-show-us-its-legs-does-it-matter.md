@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/12/the-bull-market-has-yet-to-show-us-its-legs-does-it-matter"
 tags: ["Economy", "Markets"]
 images_count: 9
-word_count: 1552
+word_count: 1561
 source_file: "corpus/03-breakwave/insights/2024/2024-02-13_the-bull-market-has-yet-to-show-us-its-legs-does-it-matter.html"
 ---
 

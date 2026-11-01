@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/20/dirty-tonne-days-demand"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 10
-word_count: 1688
+word_count: 1698
 source_file: "corpus/03-breakwave/insights/2024/2024-09-20_dirty-tonne-days-demand.html"
 ---
 

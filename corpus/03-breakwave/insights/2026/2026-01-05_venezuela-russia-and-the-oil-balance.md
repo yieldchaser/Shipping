@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/5/venezuela-russia-and-the-oil-balance"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 3
-word_count: 1648
+word_count: 1651
 source_file: "corpus/03-breakwave/insights/2026/2026-01-05_venezuela-russia-and-the-oil-balance.html"
 ---
 

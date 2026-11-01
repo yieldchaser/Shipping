@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/18/stabilising-development-for-global-markets"
 tags: ["Drybulk", "China", "Shipping"]
 images_count: 2
-word_count: 999
+word_count: 1001
 source_file: "corpus/03-breakwave/insights/2026/2026-05-18_stabilising-development-for-global-markets.html"
 ---
 

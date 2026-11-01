@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/9/why-the-vlcc-market-had-one-of-the-strongest-years-in-a-decade-and-what-could-lie-ahead"
 tags: ["Tankers", "Markets", "Crude"]
 images_count: 1
-word_count: 1006
+word_count: 1007
 source_file: "corpus/03-breakwave/insights/2026/2026-01-09_why-the-vlcc-market-had-one-of-the-strongest-years-in-a-decade-and-what-could-li.html"
 ---
 

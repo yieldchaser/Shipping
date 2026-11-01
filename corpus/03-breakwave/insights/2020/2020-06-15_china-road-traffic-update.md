@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/15/china-road-traffic-update"
 images_count: 1
-word_count: 386
+word_count: 387
 source_file: "corpus/03-breakwave/insights/2020/2020-06-15_china-road-traffic-update.html"
 ---
 

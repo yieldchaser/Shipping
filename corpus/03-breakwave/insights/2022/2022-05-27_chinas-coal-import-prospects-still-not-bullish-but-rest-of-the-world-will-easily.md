@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/5/27/chinas-coal-import-prospects-still-not-bullish-but-rest-of-the-world-will-easily-compensate"
 images_count: 2
-word_count: 631
+word_count: 633
 source_file: "corpus/03-breakwave/insights/2022/2022-05-27_chinas-coal-import-prospects-still-not-bullish-but-rest-of-the-world-will-easily.html"
 ---
 

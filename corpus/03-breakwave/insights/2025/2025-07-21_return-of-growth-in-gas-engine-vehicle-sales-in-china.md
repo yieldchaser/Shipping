@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/21/return-of-growth-in-gas-engine-vehicle-sales-in-china"
 tags: ["China", "Coal", "Commodities"]
 images_count: 2
-word_count: 326
+word_count: 328
 source_file: "corpus/03-breakwave/insights/2025/2025-07-21_return-of-growth-in-gas-engine-vehicle-sales-in-china.html"
 ---
 

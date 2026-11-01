@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/9/27/broader-risk-off-tone-weighs-on-sentiment"
 images_count: 1
-word_count: 491
+word_count: 492
 source_file: "corpus/03-breakwave/insights/2023/2023-09-27_broader-risk-off-tone-weighs-on-sentiment.html"
 ---
 
@@ -28,7 +28,7 @@ Commodity prices drifted lower amid a broad sell-off. A rally in the US dollar k
 > **Figure 1: 1695769016356**  
 > **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-27_broader-risk-off-tone-weighs-on-sentiment_img_1695769016356_b24f8eadaba5.png)
 
-**Crude oil**prices fell below USD90/bbl in early trading session before recovering back to USD93/bbl. Prospects of higher interest rates for longer weighed on the market sentiment during early trading hours, while tighter fundamentals reversed the losses. Saudi Arabia extended its voluntary oil production cuts to the end of this year, producing 2mb/d less than a year ago. Further, recent Russian exports ban on gasoline and diesel means upward pressure on crude oil demand from refineries. While oil demand looks strong in China, some softening is visible in oil products which is seeing margins retreat.
+**Crude oil** prices fell below USD90/bbl in early trading session before recovering back to USD93/bbl. Prospects of higher interest rates for longer weighed on the market sentiment during early trading hours, while tighter fundamentals reversed the losses. Saudi Arabia extended its voluntary oil production cuts to the end of this year, producing 2mb/d less than a year ago. Further, recent Russian exports ban on gasoline and diesel means upward pressure on crude oil demand from refineries. While oil demand looks strong in China, some softening is visible in oil products which is seeing margins retreat.
 
 Renewed risk of Norwegian supply saw **European gas** prices extending its gains towards EUR41/MWh. Production outages are increasing at Norwegian facilities. Skarv gas field production capacity is reduced due to operating challenges, and this is likely to continue for some time yet. Further, there are new issues propping up at Troll field, delaying its restart. Meanwhile, US gas exports from the Corpus Christi terminal are estimated to have fallen by 33% on Tuesday, according to BNEF data.**North Asian LNG** prices rose above USD15/MMBtu amid strong spot demand as winter restocking picked up in Japan and South Korea.
 

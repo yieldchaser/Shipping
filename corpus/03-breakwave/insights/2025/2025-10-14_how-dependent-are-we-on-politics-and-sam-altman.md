@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/13/how-dependent-are-we-on-politics-and-sam-altman"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 5
-word_count: 1609
+word_count: 1614
 source_file: "corpus/03-breakwave/insights/2025/2025-10-14_how-dependent-are-we-on-politics-and-sam-altman.html"
 ---
 
@@ -91,7 +91,7 @@ Except one. Sam Altman. OpenAI’s boss has often said he wants to invest trilli
 
 It is not in the realm of the impossible that the high-stakes financing around OpenAI’s global domination plans does not deliver. A potential AI crash will make headlines and will likely affect investment in the industry. Companies should not be stirred. The fate of one company does not change the fact that we are steering towards the next industrial revolution. If anything, a pullback would allow boards to spend time thinking about and carefully designing their knowledge management strategy, instead of blindly pouring money into AI, hoping to help profitability.
 
-Investors should be reminded that the 2000 bubble was not really a[dot.com](http://dot.com/)crash, but rather a corporate governance crash, around Enron’s collapse. Tech, eventually, rebounded and won its high valuations. Today is not then. Valuations for key companies are not at the triple digits. NVIDIA, the world’s biggest company, is trading at 32x times its projected earnings. High, to be sure, but really at par with most high-growth firms. As long as investors try to identify who the winners of the next trend will be (more hardware right now than software), they can still come out on top if they are patient enough.
+Investors should be reminded that the 2000 bubble was not really a[dot.com](http://dot.com/) crash, but rather a corporate governance crash, around Enron’s collapse. Tech, eventually, rebounded and won its high valuations. Today is not then. Valuations for key companies are not at the triple digits. NVIDIA, the world’s biggest company, is trading at 32x times its projected earnings. High, to be sure, but really at par with most high-growth firms. As long as investors try to identify who the winners of the next trend will be (more hardware right now than software), they can still come out on top if they are patient enough.
 
 ---
 

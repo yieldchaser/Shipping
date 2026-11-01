@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/14/iraq-crude-exports-amp-dirty-oil-flows"
 tags: ["Shipping", "Crude", "Tankers"]
 images_count: 2
-word_count: 1486
+word_count: 1488
 source_file: "corpus/03-breakwave/insights/2025/2025-08-15_iraq-crude-exports-amp-dirty-oil-flows.html"
 ---
 

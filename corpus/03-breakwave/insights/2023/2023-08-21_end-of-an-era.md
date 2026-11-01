@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/8/21/end-of-an-era"
 tags: ["Tankers", "Shipping", "Crude"]
 images_count: 1
-word_count: 462
+word_count: 463
 source_file: "corpus/03-breakwave/insights/2023/2023-08-21_end-of-an-era.html"
 ---
 

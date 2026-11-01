@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/3/28/mazars-comment-a-war-on-two-fronts"
 images_count: 3
-word_count: 1296
+word_count: 1299
 source_file: "corpus/03-breakwave/insights/2023/2023-03-28_mazars-comment-a-war-on-two-fronts.html"
 ---
 
@@ -27,11 +27,11 @@ The old adage says:*“The Fed will continue to hike until it breaks something�
 
 Most of this sentence has already become a reality. The first major casualty of the central banks’ rapid hike cycle is the regional banking system in the US.
 
-But, after a week of rate hikes on both sides of the Atlantic, central banks have shown that they are willing to continue to hike rates, even*after*something has clearly been broken, and while there’s no assurance that the storm is over.
+But, after a week of rate hikes on both sides of the Atlantic, central banks have shown that they are willing to continue to hike rates, even *after* something has clearly been broken, and while there’s no assurance that the storm is over.
 
-SVB and Signature, two arguably big players in the US regional banking space, are consigned to the regulator, and history, while First Republic is being kept alive by its bigger rivals, in a bid to stave off contagion. Credit Suisse, one of Switzerland’s two biggest institutions, standing for 166 years also collapsed. Deutsche Bank, which at this point suffers more because of its tarnished history[than because of its present position](https://www.economist.com/finance-and-economics/2023/03/24/after-credit-suisses-demise-attention-turns-to-deutsche-bank), is also in peril.
+SVB and Signature, two arguably big players in the US regional banking space, are consigned to the regulator, and history, while First Republic is being kept alive by its bigger rivals, in a bid to stave off contagion. Credit Suisse, one of Switzerland’s two biggest institutions, standing for 166 years also collapsed. Deutsche Bank, which at this point suffers more because of its tarnished history [than because of its present position](https://www.economist.com/finance-and-economics/2023/03/24/after-credit-suisses-demise-attention-turns-to-deutsche-bank), is also in peril.
 
-Since SVB’s collapse, roughly $120bn in cash has been pulled from the American regional banking system. About half of that money went to bigger systemic banks and the other half to money market funds which experienced the[biggest month](https://www.ft.com/content/032523bc-3b92-4b94-b6b8-ebbe1d606b2c)of inflows since the Covid-19 crisis.[Fractional reserve banking](https://www.investopedia.com/terms/f/fractionalreservebanking.asp), the system by which a bank keeps only a fraction of deposits available for withdrawal, makes banking a Trust business. If trust is eroded, no bank can stand.
+Since SVB’s collapse, roughly $120bn in cash has been pulled from the American regional banking system. About half of that money went to bigger systemic banks and the other half to money market funds which experienced the [biggest month](https://www.ft.com/content/032523bc-3b92-4b94-b6b8-ebbe1d606b2c) of inflows since the Covid-19 crisis.[Fractional reserve banking](https://www.investopedia.com/terms/f/fractionalreservebanking.asp), the system by which a bank keeps only a fraction of deposits available for withdrawal, makes banking a Trust business. If trust is eroded, no bank can stand.
 
 ![This Time Around](assets/2023-03-28_mazars-comment-a-war-on-two-fronts_img_image00428529_91ff457ff715.jpg)
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/19/aging-fleet"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 2
-word_count: 824
+word_count: 826
 source_file: "corpus/03-breakwave/insights/2025/2025-05-20_aging-fleet.html"
 ---
 

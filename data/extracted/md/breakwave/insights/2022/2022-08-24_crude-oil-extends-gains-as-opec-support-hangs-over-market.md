@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/24/crude-oil-extends-gains-as-opec-support-hangs-over-market"
 images_count: 1
-word_count: 671
+word_count: 672
 source_file: "corpus/03-breakwave/insights/2022/2022-08-24_crude-oil-extends-gains-as-opec-support-hangs-over-market.html"
 ---
 
@@ -36,7 +36,7 @@ The surge in **European natural gas** prices paused as traders took stock of the
 
 **Copper** gained as Beijing rolled out measures to ease the prolonged property crisis. The PBoC urged the country’s lenders to expand credit in the latest move to boost growth, from rate cuts to special loans. Sentiment was supported by a weaker USD, which helped support investor appetite.**Aluminium** also gained as concerns of further cuts to output in China rose. A searing heat wave and subsequent drought has seen hydro power in Sichuan fall sharply. This has already led to restrictions on power use on heavy industry. This could lead to aluminium production from China falling in August. This comes amid a backdrop of low inventories.
 
-**Iron ore**futures gained following the additional support measures for China’s beleaguered property sector. The government is making moves to aid the sector, including offering CNY200bn in special loans to complete unfinished projects. This could be offset by lower steel output. Power shortages in Sichuan could led to steel mills being forced to suspend operations.
+**Iron ore** futures gained following the additional support measures for China’s beleaguered property sector. The government is making moves to aid the sector, including offering CNY200bn in special loans to complete unfinished projects. This could be offset by lower steel output. Power shortages in Sichuan could led to steel mills being forced to suspend operations.
 
 The weaker USD helped push **gold** prices higher. Haven demand was also prevalent following data showing US business activity contracted in August.
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/2/10/artificial-intelligence-and-machine-learning-offer-value-to-the-shipping-community"
 tags: ["Artificialinteligence", "Shipping", "Industry"]
 images_count: 2
-word_count: 868
+word_count: 870
 source_file: "corpus/03-breakwave/insights/2022/2022-02-12_artificial-intelligence-and-machine-learning-offer-value-to-the-shipping-communi.html"
 ---
 

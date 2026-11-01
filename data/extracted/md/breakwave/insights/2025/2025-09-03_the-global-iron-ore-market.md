@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/3/the-global-iron-ore-market"
 tags: ["Markets", "Drybulk", "Ironore"]
 images_count: 1
-word_count: 655
+word_count: 656
 source_file: "corpus/03-breakwave/insights/2025/2025-09-03_the-global-iron-ore-market.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/3/20/the-big-picture-the-capesizes"
 tags: ["Shipping", "Dry Bulk", "Capesize"]
 images_count: 5
-word_count: 1297
+word_count: 1302
 source_file: "corpus/03-breakwave/insights/2022/2022-03-20_the-big-picture-the-capesizes.html"
 ---
 

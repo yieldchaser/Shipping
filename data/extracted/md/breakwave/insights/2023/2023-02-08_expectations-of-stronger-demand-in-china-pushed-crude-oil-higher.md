@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/2/8/expectations-of-stronger-demand-in-china-pushed-crude-oil-higher"
 images_count: 1
-word_count: 561
+word_count: 562
 source_file: "corpus/03-breakwave/insights/2023/2023-02-08_expectations-of-stronger-demand-in-china-pushed-crude-oil-higher.html"
 ---
 

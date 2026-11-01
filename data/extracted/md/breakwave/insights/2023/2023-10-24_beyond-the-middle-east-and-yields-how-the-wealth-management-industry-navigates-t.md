@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/10/24/beyond-the-middle-east-and-yields-how-the-wealth-management-industry-navigates-turmoil"
 images_count: 1
-word_count: 1303
+word_count: 1304
 source_file: "corpus/03-breakwave/insights/2023/2023-10-24_beyond-the-middle-east-and-yields-how-the-wealth-management-industry-navigates-t.html"
 ---
 

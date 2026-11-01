@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/2/17/mazars-commenthow-chat-gpt-will-change-the-world-and-financial-advice-writtenbyahuman-external-inbox"
 images_count: 2
-word_count: 2039
+word_count: 2041
 source_file: "corpus/03-breakwave/insights/2023/2023-02-17_mazars-commenthow-chat-gpt-will-change-the-world-and-financial-advice-writtenbya.html"
 ---
 

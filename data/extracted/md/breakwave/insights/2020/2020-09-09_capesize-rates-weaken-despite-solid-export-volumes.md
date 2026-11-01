@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/9/9/capesize-rates-weaken-despite-solid-export-volumes"
 tags: ["Capesize", "Dry Bulk", "Brazil", "Australia"]
 images_count: 4
-word_count: 810
+word_count: 814
 source_file: "corpus/03-breakwave/insights/2020/2020-09-09_capesize-rates-weaken-despite-solid-export-volumes.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/8/oil-gains-amid-tightening-supplies"
 tags: ["Economy", "Markets", "Commodities"]
 images_count: 2
-word_count: 642
+word_count: 644
 source_file: "corpus/03-breakwave/insights/2024/2024-07-08_oil-gains-amid-tightening-supplies.html"
 ---
 

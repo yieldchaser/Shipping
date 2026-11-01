@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/11/29/death-and-taxes-it-takes-a-village-to-maintain-wealth"
 images_count: 5
-word_count: 1033
+word_count: 1038
 source_file: "corpus/03-breakwave/insights/2023/2023-11-29_death-and-taxes-it-takes-a-village-to-maintain-wealth.html"
 ---
 

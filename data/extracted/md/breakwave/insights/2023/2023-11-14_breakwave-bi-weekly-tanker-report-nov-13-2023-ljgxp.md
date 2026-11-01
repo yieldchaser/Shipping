@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/11/14/breakwave-bi-weekly-tanker-report-nov-13-2023-ljgxp"
 images_count: 3
-word_count: 684
+word_count: 687
 source_file: "corpus/03-breakwave/insights/2023/2023-11-14_breakwave-bi-weekly-tanker-report-nov-13-2023-ljgxp.html"
 ---
 

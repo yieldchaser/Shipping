@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/14/mazars-note-what-does-a-fed-pivot-look-like"
 images_count: 3
-word_count: 988
+word_count: 991
 source_file: "corpus/03-breakwave/insights/2022/2022-11-14_mazars-note-what-does-a-fed-pivot-look-like.html"
 ---
 

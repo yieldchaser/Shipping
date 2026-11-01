@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/10/coal-indias-production-returns-to-contraction"
 tags: ["Coal", "India", "Drybulk"]
 images_count: 3
-word_count: 329
+word_count: 332
 source_file: "corpus/03-breakwave/insights/2025/2025-10-10_coal-indias-production-returns-to-contraction.html"
 ---
 

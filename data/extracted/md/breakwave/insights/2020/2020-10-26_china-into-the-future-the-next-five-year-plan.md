@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/26/china-into-the-future-the-next-five-year-plan"
 tags: ["China", "Global Economy"]
 images_count: 3
-word_count: 831
+word_count: 834
 source_file: "corpus/03-breakwave/insights/2020/2020-10-26_china-into-the-future-the-next-five-year-plan.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/2/24/brs-dry-bulk-weekly-newsletter"
 images_count: 7
-word_count: 1228
+word_count: 1235
 source_file: "corpus/03-breakwave/insights/2023/2023-02-27_brs-dry-bulk-weekly-newsletter.html"
 ---
 

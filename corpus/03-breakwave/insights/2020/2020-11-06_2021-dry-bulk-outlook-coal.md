@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/11/6/2021-dry-bulk-outlook-coal"
 tags: ["Coal", "China", "India", "Dry Bulk"]
 images_count: 7
-word_count: 2750
+word_count: 2757
 source_file: "corpus/03-breakwave/insights/2020/2020-11-06_2021-dry-bulk-outlook-coal.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-11-06_2021-dry-bulk-outlook
 
 In the following weeks Klaveness Research will in a series of articles have a look at how we believe the fundamentals impacting dry bulk freight rates are shaping up for 2021.
 
-In[the first article](https://www.breakwaveadvisors.com/insights/2020/10/22/2021-dry-bulk-outlook)we started off by having a look at the big picture. In[last week’s article](https://www.breakwaveadvisors.com/insights/2020/10/29/2021-dry-bulk-outlook-iron-ore)we drilled further down into the details of iron ore. This week’s article will be on the seaborne coal trade. In subsequent reports we will drill further down into the other commodity groups of grains, minor bulks and bauxite before we finish off with a look at the supply side.
+In [the first article](https://www.breakwaveadvisors.com/insights/2020/10/22/2021-dry-bulk-outlook) we started off by having a look at the big picture. In [last week’s article](https://www.breakwaveadvisors.com/insights/2020/10/29/2021-dry-bulk-outlook-iron-ore) we drilled further down into the details of iron ore. This week’s article will be on the seaborne coal trade. In subsequent reports we will drill further down into the other commodity groups of grains, minor bulks and bauxite before we finish off with a look at the supply side.
 
 ### The Link Between the Coal Trade and Dry Bulk Freight Rates
 

@@ -38,13 +38,13 @@ For one,**expectations on future cuts will probably build up from this point for
 
 Second,**investors will have to consider whether the US economy and corporate earnings are more stressed than what they appear to be**. A central bank cutting aggressively could, even inadvertently, emit a distress signal to markets and investors. One could point to Chairman Powell’s comments about a “strong economy” during the press conference. But as the Fed has changed course time and again, those comments reflect their thinking now, rather than consistent forward guidance. In short, and this is important,**the US central bank has chosen a strategy of “surprising markets”, in order to retain some flexibility. The downside is that statements about the future are now less reliable, and market speculation will increase.****The Fed will thus be able to rely less on “directing” markets with statements, and instead will be more often forced to act. In a sense, “Fedwatching”, monitoring every word out of the mouth of every Fed official, a practice since 2008, is now dead.**
 
-Third, the move will likely become an issue in the very polarised**presidential campaign**, further fuelling a discussion as to future of the central bank’s independence.
+Third, the move will likely become an issue in the very polarised **presidential campaign**, further fuelling a discussion as to future of the central bank’s independence.
 
 **Fourth, it will send a signal to the Bank of England and the European Central Bank that they should feel free to also cut aggressively, as they try to deal with weak growth conditions.**
 
 **The Fed took a bold step, considering that services inflation is still much higher than average and that the US economy depends on China to continue deflating goods. The US central bank is now committed, in the eyes of markets, to reduce rates quickly. A paced approach would have allowed it to manoeuvre in case prices didn’t stabilise at the desirable pace. A double cut necessitates further aggressive moves or risks upsetting markets, and leaves little room to manoeuvre in case prices rebound.**
 
-Meanwhile,**the Bank of England**maintained rates despite a clear “green light” for more aggressive cuts the Fed’s move. Unlike its US counterpart, the British central bank is not quick to declare victory against inflation, despite facing significantly more restrictive economic growth conditions. Having said that, we would expect the Bank to pick up the pace in the next few meetings, as both the US and the ECB are on steeper rate cut cycles.
+Meanwhile,**the Bank of England** maintained rates despite a clear “green light” for more aggressive cuts the Fed’s move. Unlike its US counterpart, the British central bank is not quick to declare victory against inflation, despite facing significantly more restrictive economic growth conditions. Having said that, we would expect the Bank to pick up the pace in the next few meetings, as both the US and the ECB are on steeper rate cut cycles.
 
 ---
 

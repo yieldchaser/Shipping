@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/25/breakwave-weekend-read-547kk-rw7zy-awmfb-mf26k-dk29d-56ysb-x3jbe-xbwk9-dnpbr"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 11
-word_count: 1237
+word_count: 1248
 source_file: "corpus/03-breakwave/insights/2025/2025-07-18_breakwave-weekend-read-547kk-rw7zy-awmfb-mf26k-dk29d-56ysb-x3jbe-xbwk9-dnpbr.html"
 ---
 
@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-07-18_breakwave-weekend-rea
 
 ## Breakwave Shipping Report
 
-**VLCC Freight Market Stabilizes Amid Geopolitics and Tariff Uncertainty**– The VLCC market continues to be**highly susceptible**to external**shocks**arising from geopolitical risks, escalating marine insurance costs, and potential tariff threats.
+**VLCC Freight Market Stabilizes Amid Geopolitics and Tariff Uncertainty**– The VLCC market continues to be **highly susceptible** to external **shocks** arising from geopolitical risks, escalating marine insurance costs, and potential tariff threats.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2025157wreport114kio-j14)
 

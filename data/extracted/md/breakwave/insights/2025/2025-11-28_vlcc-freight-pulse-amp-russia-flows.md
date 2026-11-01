@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/28/vlcc-freight-pulse-amp-russia-flows"
 tags: ["Markets", "Shipping", "Tankers"]
 images_count: 5
-word_count: 1265
+word_count: 1270
 source_file: "corpus/03-breakwave/insights/2025/2025-11-28_vlcc-freight-pulse-amp-russia-flows.html"
 ---
 

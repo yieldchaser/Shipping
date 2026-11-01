@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/13/tanker-big-picture-mideast-state-fleet-boom"
 tags: ["Tankers", "Shipping", "Crude"]
 images_count: 2
-word_count: 1215
+word_count: 1217
 source_file: "corpus/03-breakwave/insights/2026/2026-09-14_tanker-big-picture-mideast-state-fleet-boom.html"
 ---
 

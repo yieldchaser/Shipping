@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/15/meg-vlcc-rates-rise-usg-aframax-demand-declines"
 tags: ["Tankers", "Crude", "Oil"]
 images_count: 2
-word_count: 633
+word_count: 635
 source_file: "corpus/03-breakwave/insights/2024/2024-02-15_meg-vlcc-rates-rise-usg-aframax-demand-declines.html"
 ---
 

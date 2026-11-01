@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/30/the-capesizes-propelled-the-baltic-dry-index-higher"
 images_count: 1
-word_count: 1244
+word_count: 1245
 source_file: "corpus/03-breakwave/insights/2024/2024-09-30_the-capesizes-propelled-the-baltic-dry-index-higher.html"
 ---
 

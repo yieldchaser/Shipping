@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/6/14/metals-rally-amid-expectations-of-chinese-stimulus-measures"
 images_count: 1
-word_count: 581
+word_count: 582
 source_file: "corpus/03-breakwave/insights/2023/2023-06-14_metals-rally-amid-expectations-of-chinese-stimulus-measures.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/19/chinas-coal-imports-from-the-united-states-could-now-increase"
 tags: ["Coal", "Economy", "Markets"]
 images_count: 1
-word_count: 311
+word_count: 312
 source_file: "corpus/03-breakwave/insights/2025/2025-05-19_chinas-coal-imports-from-the-united-states-could-now-increase.html"
 ---
 

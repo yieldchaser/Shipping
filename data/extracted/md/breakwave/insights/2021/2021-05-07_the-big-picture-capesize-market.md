@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/7/the-big-picture-capesize-market"
 tags: ["Capesize", "Dry Bulk", "Coal"]
 images_count: 5
-word_count: 1098
+word_count: 1103
 source_file: "corpus/03-breakwave/insights/2021/2021-05-07_the-big-picture-capesize-market.html"
 ---
 
@@ -28,7 +28,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-05-07_the-big-picture-capes
 
 It’s only been three weeks since our last report on the Capesize market, but the blistering surge in freight to decade-high levels warrants taking a step back and giving an update on the drivers of this bull run. The Baltic’s Capesize average hit $44,817 per day yesterday, up by $33,000 since the start of March (280%) and the highest since 2010, before falling back to $42,852 per day today. This peak is nearly $10,000 higher than that of last October’s rally, and given how unseasonal the movement has been, rates are nearly three times higher than average for this period over the last five years.
 
-![This Activity](assets/2021-05-07_the-big-picture-capesize-market_img_bmr1a_48cc19958b8a.png)
+![This Activity](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-07_the-big-picture-capesize-market_img_bmr1a_48cc19958b8a.png)
 
 > **Figure 1: This Activity**  
 > *This activity, compounded with the inefficiencies that we have seen emerge in the Pacific due to crew changes and quarantine requirements (seeThe Big Pictureon April 15th), have continued to support this basin. Our assessed TCE for a Pacific round voyage (C5) has held an average premium of $4,600 over that for a Brazil - China round voyage (C3) since the beginning of April.*  
@@ -40,7 +40,7 @@ Before today’s wobble, FFAs were also on a tear, helping to fuel the physical 
 
 Positive news has continued to come from the Pacific. As the iron ore price breaches $200 per tonne, shippers in West Australia are trying to maximise their sales, with healthy steel margins in China supporting demand. For some, the approaching Australian financial year close provides an extra incentive to boost shipments over the coming weeks. Australian iron ore exports totalled more than A$14bn last month, the highest ever and made up the largest component of Australia’s total bulk commodity exports.
 
-![Bmr 2a](assets/2021-05-07_the-big-picture-capesize-market_img_bmr2a_edac3a2509e9.png)
+![Bmr 2a](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-07_the-big-picture-capesize-market_img_bmr2a_edac3a2509e9.png)
 
 > **Figure 2: Bmr 2a**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-07_the-big-picture-capesize-market_img_bmr2a_edac3a2509e9.png)
@@ -53,14 +53,14 @@ Capesize coal demand grew by 37% last month versus April last year, and reached 
 
 Capesize coal shipments from Russia hit 3.5m tonnes in April, 57% higher YoY, while we recorded 3.0m tonnes of coal shipped from the USA, 140% higher YoY, underpinned by strong Chinese demand for high quality coal. US coal exports, for example, are almost 80% more demand-intensive versus those from Australia, so this increase has helped to tighten the market.
 
-![Bmr 3a](assets/2021-05-07_the-big-picture-capesize-market_img_bmr3a_3f82c648a13a.png)
+![Bmr 3a](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-07_the-big-picture-capesize-market_img_bmr3a_3f82c648a13a.png)
 
 > **Figure 3: Bmr 3a**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-07_the-big-picture-capesize-market_img_bmr3a_3f82c648a13a.png)
 
 Meanwhile, Australian coal exports, though still banned in China, are becoming more demand-intensive as they find their way into more distant markets. India’s share of Australia’s shipments, for example, has grown to 16% so far this year, up from 5% over the same period last year. As such Australian coal is traveling further and tying ships up for longer. The average laden leg for a Cape hauling Australian coal has been 32 days so far this year, six days longer YoY.
 
-![Bmr 4a](assets/2021-05-07_the-big-picture-capesize-market_img_bmr4a_8fdf32de0ade.png)
+![Bmr 4a](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-07_the-big-picture-capesize-market_img_bmr4a_8fdf32de0ade.png)
 
 > **Figure 4: Bmr 4a**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-07_the-big-picture-capesize-market_img_bmr4a_8fdf32de0ade.png)
@@ -69,7 +69,7 @@ Meanwhile, Australian coal exports, though still banned in China, are becoming m
 
 Following today’s correction, many are questioning whether we’ve hit the peak and are heading back down to ‘normal’ Q2 levels. The neck-breaking rally to yesterday’s high may have been unsustainable, but worsening tensions between Australia and China have also spooked participants, with the prospect of Chinese restrictions on Australian iron ore supply weighing on sentiment.
 
-![Bmr 5a](assets/2021-05-07_the-big-picture-capesize-market_img_bmr5a_3a2607439972.png)
+![Bmr 5a](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-07_the-big-picture-capesize-market_img_bmr5a_3a2607439972.png)
 
 > **Figure 5: Bmr 5a**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-07_the-big-picture-capesize-market_img_bmr5a_3a2607439972.png)

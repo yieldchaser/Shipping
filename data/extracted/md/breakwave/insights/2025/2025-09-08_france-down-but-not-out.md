@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/8/france-down-but-not-out"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 1
-word_count: 959
+word_count: 960
 source_file: "corpus/03-breakwave/insights/2025/2025-09-08_france-down-but-not-out.html"
 ---
 

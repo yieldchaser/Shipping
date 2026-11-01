@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/7/6/flow-recovers"
 tags: ["VLCC", "Tankers", "Shipping"]
 images_count: 2
-word_count: 972
+word_count: 974
 source_file: "corpus/03-breakwave/insights/2026/2026-07-06_flow-recovers.html"
 ---
 

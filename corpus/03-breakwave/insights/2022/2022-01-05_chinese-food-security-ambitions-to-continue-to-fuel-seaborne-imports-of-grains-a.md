@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/1/4/chinese-food-security-ambitions-to-continue-to-fuel-seaborne-imports-of-grains-and-oilseeds"
 tags: ["Economy", "Shipping", "China", "Imports"]
 images_count: 2
-word_count: 800
+word_count: 802
 source_file: "corpus/03-breakwave/insights/2022/2022-01-05_chinese-food-security-ambitions-to-continue-to-fuel-seaborne-imports-of-grains-a.html"
 ---
 

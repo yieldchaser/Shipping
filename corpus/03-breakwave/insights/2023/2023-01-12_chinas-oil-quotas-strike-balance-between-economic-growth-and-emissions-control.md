@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/1/12/chinas-oil-quotas-strike-balance-between-economic-growth-and-emissions-control"
 images_count: 2
-word_count: 1278
+word_count: 1280
 source_file: "corpus/03-breakwave/insights/2023/2023-01-12_chinas-oil-quotas-strike-balance-between-economic-growth-and-emissions-control.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/6/tanker-rates-stand-their-ground-against-ailing-trade-demand"
 tags: ["Tankers", "Shipping", "Freightrates"]
 images_count: 3
-word_count: 1069
+word_count: 1072
 source_file: "corpus/03-breakwave/insights/2024/2024-03-06_tanker-rates-stand-their-ground-against-ailing-trade-demand.html"
 ---
 
@@ -28,7 +28,7 @@ Despite the weaker trade fundamentals that have been observed over the past 4 mo
 
 ### Eu Operators Are Exiting the Russian Trade, But Could Continued Sanctioning of the Dark Fleet Reverse the Trend?
 
-The most recent fleet behaviour of vessels linked with the Russian trade – detailed in this[blog](https://www.vortexa.com/insights/freight/urals-fleet-constraints-more-likely-as-sanctions-enforcement-ramps-up/)– indicates that vessels with Western links are exiting the Russian trades, wary of sanctions. Naturally, this instigates a rigidity between tiers, creating increasing difficulty for tankers to shift between Russian and non-Russian oil trades. This can be a double-edged sword in the tanker market as tonnage cannot easily move back to the mainstream trade to uplift tonnage availability and vice versa.
+The most recent fleet behaviour of vessels linked with the Russian trade – detailed in this [blog](https://www.vortexa.com/insights/freight/urals-fleet-constraints-more-likely-as-sanctions-enforcement-ramps-up/)– indicates that vessels with Western links are exiting the Russian trades, wary of sanctions. Naturally, this instigates a rigidity between tiers, creating increasing difficulty for tankers to shift between Russian and non-Russian oil trades. This can be a double-edged sword in the tanker market as tonnage cannot easily move back to the mainstream trade to uplift tonnage availability and vice versa.
 
 ![Screenshot 2024 03 06 11.57.31](assets/2024-03-06_tanker-rates-stand-their-ground-against-ailing-trade-demand_img_screenshot2024-03-06115731_9f6bf40750a1.png)
 

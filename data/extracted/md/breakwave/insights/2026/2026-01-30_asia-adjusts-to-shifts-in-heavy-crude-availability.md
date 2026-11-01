@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/30/asia-adjusts-to-shifts-in-heavy-crude-availability"
 tags: ["Oil", "Tankers", "Crude"]
 images_count: 3
-word_count: 1369
+word_count: 1372
 source_file: "corpus/03-breakwave/insights/2026/2026-01-30_asia-adjusts-to-shifts-in-heavy-crude-availability.html"
 ---
 

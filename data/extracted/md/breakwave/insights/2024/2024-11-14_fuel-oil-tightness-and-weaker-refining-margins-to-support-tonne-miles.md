@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/14/fuel-oil-tightness-and-weaker-refining-margins-to-support-tonne-miles"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 4
-word_count: 1274
+word_count: 1278
 source_file: "corpus/03-breakwave/insights/2024/2024-11-14_fuel-oil-tightness-and-weaker-refining-margins-to-support-tonne-miles.html"
 ---
 

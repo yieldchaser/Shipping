@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/7/the-big-picture-tanker-ordering"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 3
-word_count: 1208
+word_count: 1211
 source_file: "corpus/03-breakwave/insights/2025/2025-01-07_the-big-picture-tanker-ordering.html"
 ---
 

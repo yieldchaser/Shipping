@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/22/arabian-gulf-dirty-oil-shipments-to-all-destinations"
 images_count: 4
-word_count: 1391
+word_count: 1395
 source_file: "corpus/03-breakwave/insights/2024/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations.html"
 ---
 

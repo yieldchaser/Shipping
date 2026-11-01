@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/22/can-cockroaches-fly-solo"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 6
-word_count: 1383
+word_count: 1389
 source_file: "corpus/03-breakwave/insights/2025/2025-10-22_can-cockroaches-fly-solo.html"
 ---
 
@@ -82,7 +82,7 @@ Still, investors may rightly be worried about stresses appearing in other areas.
 > **Figure 4: Market Chart 4**  
 > [Local Asset](assets/2025-10-22_can-cockroaches-fly-solo_img_image010_c9eacb5a97be.jpg)
 
-Which brings us to our**Second point. Systemic balancers and tailwinds.**In the 2023 peripheral banking crisis, larger banks stepped in to alleviate the pressure. JP Morgan estimates that the top 13 US banks have $200bn in excess capital. And considering a wide push for deregulation, the number could rise significantly, easing the pressure for both the core and the peripheral banking systems.
+Which brings us to our **Second point. Systemic balancers and tailwinds.**In the 2023 peripheral banking crisis, larger banks stepped in to alleviate the pressure. JP Morgan estimates that the top 13 US banks have $200bn in excess capital. And considering a wide push for deregulation, the number could rise significantly, easing the pressure for both the core and the peripheral banking systems.
 
 ![Market Chart 5](assets/2025-10-22_can-cockroaches-fly-solo_img_image011_333c4851589c.jpg)
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/17/5xjj5vdn5fijgvrqwinpd3m9demwgj"
 images_count: 3
-word_count: 1668
+word_count: 1671
 source_file: "corpus/03-breakwave/insights/2022/2022-10-17_5xjj5vdn5fijgvrqwinpd3m9demwgj.html"
 ---
 

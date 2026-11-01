@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/9/why-the-vlcc-market-had-one-of-the-strongest-years-in-a-decade-and-what-could-lie-ahead"
 tags: ["Tankers", "Markets", "Crude"]
 images_count: 1
-word_count: 1006
+word_count: 1007
 source_file: "corpus/03-breakwave/insights/2026/2026-01-09_why-the-vlcc-market-had-one-of-the-strongest-years-in-a-decade-and-what-could-li.html"
 ---
 
@@ -54,7 +54,7 @@ Sanctions have also reshaped trade flows. Earlier this year, US tariffs prompted
 
 ### Newbuildings vs. Effective Tonnage Supply
 
-At first glance, the scheduled delivery of 40 new VLCCs in 2026 might seem like a clear threat to freight rates. However,*effective*fleet growth tells a more nuanced story. Nearly 20% of the global VLCC fleet is now 20 years or older, and utilisation typically begins to decline from around age 15, slipping further each year. Many of these ageing vessels are moving permanently into the shadow fleet, never returning to compete with modern tonnage. Once these dynamics are accounted for, effective fleet growth remains comfortably below 3%, which is modest in comparison to historical averages.
+At first glance, the scheduled delivery of 40 new VLCCs in 2026 might seem like a clear threat to freight rates. However,*effective* fleet growth tells a more nuanced story. Nearly 20% of the global VLCC fleet is now 20 years or older, and utilisation typically begins to decline from around age 15, slipping further each year. Many of these ageing vessels are moving permanently into the shadow fleet, never returning to compete with modern tonnage. Once these dynamics are accounted for, effective fleet growth remains comfortably below 3%, which is modest in comparison to historical averages.
 
 ### A Market Driven by Fundamentals and a Watchlist for 2026
 

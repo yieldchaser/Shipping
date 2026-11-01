@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/1/oils-rally-takes-a-pause-as-hormuz-stalemate-persists"
 tags: ["Oil", "Shipping", "Markets"]
 images_count: 2
-word_count: 800
+word_count: 802
 source_file: "corpus/03-breakwave/insights/2026/2026-05-01_oils-rally-takes-a-pause-as-hormuz-stalemate-persists.html"
 ---
 
@@ -31,7 +31,7 @@ Energy markets were unchanged. Industrial metals were steady despite positive ec
 
 ### Market Commentary
 
-The rally in **crude oil**prices paused as the market contemplated a protracted conflict in the Middle East. Dated Brent, the benchmark for the spot physical market eased back below USD123/bbl, while front-month futures fell to USD114/bbl ahead of the expiry of the June contract. This was in line with the next lower-priced July contract. The gap between the paper and physical markets is narrowing as tightness begins to materialise for the first time since the conflict began. US crude oil exports surged last week to a record high as buyers tapped American producers to replace lost barrels from the Middle East. The drawdown of product inventories such as gasoline and distillate also accelerated.
+The rally in **crude oil** prices paused as the market contemplated a protracted conflict in the Middle East. Dated Brent, the benchmark for the spot physical market eased back below USD123/bbl, while front-month futures fell to USD114/bbl ahead of the expiry of the June contract. This was in line with the next lower-priced July contract. The gap between the paper and physical markets is narrowing as tightness begins to materialise for the first time since the conflict began. US crude oil exports surged last week to a record high as buyers tapped American producers to replace lost barrels from the Middle East. The drawdown of product inventories such as gasoline and distillate also accelerated.
 
 The market is concerned that the ongoing closure of the Strait of Hormuz will extend production shut-ins at Persian Gulf producers. Iran’s new supreme leader, Mojtaba Khamenei, gave a rare statement yesterday, vowing not to give up the country’s nuclear or missile technologies. He also siglnalled that Iran will keep control of the Strait of Hormuz. The US is also ramping up pressure on Iran through its blockade of Iranian ports. Despite the move helping push oil prices to a record high, President Trump said he’s sticking with the blockade. Moreover, there are concerns that the US is preparing for renewed hostilities. Axios reported that Trump has been recently briefed on options including some short and powerful strikes, as well as military action to seize control of the Strait of Hormuz.
 

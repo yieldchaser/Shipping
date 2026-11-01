@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/8/remaining-extremely-bullish-china-supports-dry-bulk-bullishness"
 tags: ["Drybulk", "Markets", "China"]
 images_count: 2
-word_count: 305
+word_count: 307
 source_file: "corpus/03-breakwave/insights/2026/2026-05-08_remaining-extremely-bullish-china-supports-dry-bulk-bullishness.html"
 ---
 

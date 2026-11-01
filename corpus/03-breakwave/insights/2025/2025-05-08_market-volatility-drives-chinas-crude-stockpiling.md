@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/8/market-volatility-drives-chinas-crude-stockpiling"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 2
-word_count: 878
+word_count: 880
 source_file: "corpus/03-breakwave/insights/2025/2025-05-08_market-volatility-drives-chinas-crude-stockpiling.html"
 ---
 

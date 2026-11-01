@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/27/the-2025-outlook-for-dry-bulk-and-tanker-markets"
 tags: ["Shipping", "Markets", "Commodities"]
 images_count: 1
-word_count: 1008
+word_count: 1009
 source_file: "corpus/03-breakwave/insights/2025/2025-01-27_the-2025-outlook-for-dry-bulk-and-tanker-markets.html"
 ---
 

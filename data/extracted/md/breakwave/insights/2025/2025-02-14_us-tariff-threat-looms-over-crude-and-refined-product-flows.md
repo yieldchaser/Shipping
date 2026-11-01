@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/14/us-tariff-threat-looms-over-crude-and-refined-product-flows"
 tags: ["Crudeoil", "Markets", "Shipping"]
 images_count: 3
-word_count: 1096
+word_count: 1099
 source_file: "corpus/03-breakwave/insights/2025/2025-02-14_us-tariff-threat-looms-over-crude-and-refined-product-flows.html"
 ---
 

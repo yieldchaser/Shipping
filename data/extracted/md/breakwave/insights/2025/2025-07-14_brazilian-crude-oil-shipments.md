@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/14/brazilian-crude-oil-shipments"
 tags: ["Tankers", "Markets", "Crude"]
 images_count: 11
-word_count: 1814
+word_count: 1825
 source_file: "corpus/03-breakwave/insights/2025/2025-07-14_brazilian-crude-oil-shipments.html"
 ---
 

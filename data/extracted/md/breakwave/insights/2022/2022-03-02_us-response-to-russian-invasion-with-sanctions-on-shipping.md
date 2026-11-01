@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/3/2/us-response-to-russian-invasion-with-sanctions-on-shipping"
 tags: ["Russia", "Ukraine", "Shipping", "Economy"]
 images_count: 6
-word_count: 2471
+word_count: 2477
 source_file: "corpus/03-breakwave/insights/2022/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping.html"
 ---
 

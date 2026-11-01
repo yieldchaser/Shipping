@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/10/25/back-in-black"
 images_count: 2
-word_count: 609
+word_count: 611
 source_file: "corpus/03-breakwave/insights/2023/2023-10-26_back-in-black.html"
 ---
 

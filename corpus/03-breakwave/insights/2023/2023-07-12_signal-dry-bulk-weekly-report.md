@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/7/12/signal-dry-bulk-weekly-report"
 images_count: 5
-word_count: 1200
+word_count: 1205
 source_file: "corpus/03-breakwave/insights/2023/2023-07-12_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -41,7 +41,7 @@ Freight Market, Supply, Demand and Port Congestion
 ## Section 1/ Freight​​​
 
 ‘The Big Picture’ - Capesize and Panamax Bulkers and Smaller Ship Sizes
-**Market Rates ($/t) Weaker**
+ **Market Rates ($/t) Weaker**
 
 ![Market Chart 2](assets/2023-07-12_signal-dry-bulk-weekly-report_img_unnamed-2023-07-12t132317045_817a8bfb7a61.png)
 

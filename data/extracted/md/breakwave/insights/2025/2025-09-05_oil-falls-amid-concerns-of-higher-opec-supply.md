@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/5/oil-falls-amid-concerns-of-higher-opec-supply"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 2
-word_count: 767
+word_count: 769
 source_file: "corpus/03-breakwave/insights/2025/2025-09-05_oil-falls-amid-concerns-of-higher-opec-supply.html"
 ---
 
@@ -37,7 +37,7 @@ Commodity markets pushed lower as a stronger USD weighed on investor appetite. E
 
 **Copper** led the base metals lower. This was exacerbated by concerns of weaker demand in China. Electric vehicle maker, BYD, slashed its sales targets for this year due to intense competition in its home market. The world’s biggest seller of EVs now plans to deliver 4.6m units this year, down 16% from its previous expectation of 5.5m. Demand for copper and other battery metals has been well supported by the EV sector in China in recent years. However, the losses were limited as the market continues to face supply side issues. Codelco said that Chile’s copper production could stagnate at approximately 5.5mt/y as the industry confronts mounting operational challenges.
 
-**Iron ore**futures extended recent gains as recent production restrictions lifted. Steel mills in northern China had been told to reduce operations to reduce pollution as foreign dignitaries arrived for a military parade. Demand should now start to pick up.
+**Iron ore** futures extended recent gains as recent production restrictions lifted. Steel mills in northern China had been told to reduce operations to reduce pollution as foreign dignitaries arrived for a military parade. Demand should now start to pick up.
 
 **Gold’s**recent rally took a breather as traders await the release of US jobs data tonight. They also took the opportunity to lock in profits after a seven-day rally that was fuelled by strong haven demand and expectations of rate cuts by the Fed.
 

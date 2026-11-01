@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/26/diesel-drones-and-donald"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 2
-word_count: 713
+word_count: 725
 source_file: "corpus/03-breakwave/insights/2026/2026-10-26_diesel-drones-and-donald.html"
 ---
 

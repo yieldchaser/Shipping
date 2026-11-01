@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/13/is-the-dirty-tanker-rally-coming-to-an-end"
 tags: ["Tankers", "Markets", "Shipping"]
 images_count: 2
-word_count: 843
+word_count: 845
 source_file: "corpus/03-breakwave/insights/2025/2025-11-13_is-the-dirty-tanker-rally-coming-to-an-end.html"
 ---
 
@@ -28,7 +28,7 @@ The dirty tanker market continues to ride strong momentum, supported by a[surge 
 
 VLCC utilisation now stands at around 57% — the highest level since 2020, when the price shock triggered a floating storage boom. Employment has been robust across both sanctioned and non-sanctioned grades, underscoring the market's buoyancy.
 
-Freight rates tell a similar story. VLCC rates are hovering near their strongest levels since 2020, though they have recently eased by[about 20% from last week’s highs](https://analytics.vortexa.com/AnywhereFreightPricing?page=AnywhereFreightPricing&routes=%5B%222ef1b342-454e-47d0-8c09-f9ec8cad6e33-1%22%2C%22e981bd2e-943a-47ae-9fc8-fa5d575bffb2-2%22%2C%2298b7b3f8-b051-431a-82af-f45a67ba9257-2%22%2C%22a31d1c67-e9c1-4cd2-a36e-7a41249d87f6-2%22%5D&routesSelected=%5B0%2C1%2C2%2C3%5D&tabId=693f3224-be92-4532-9bb8-95ed4d551e94&timeSeriesDateRange=6-months). Is this signaling the beginning of the end for the dirty tanker freight rate rally?
+Freight rates tell a similar story. VLCC rates are hovering near their strongest levels since 2020, though they have recently eased by [about 20% from last week’s highs](https://analytics.vortexa.com/AnywhereFreightPricing?page=AnywhereFreightPricing&routes=%5B%222ef1b342-454e-47d0-8c09-f9ec8cad6e33-1%22%2C%22e981bd2e-943a-47ae-9fc8-fa5d575bffb2-2%22%2C%2298b7b3f8-b051-431a-82af-f45a67ba9257-2%22%2C%22a31d1c67-e9c1-4cd2-a36e-7a41249d87f6-2%22%5D&routesSelected=%5B0%2C1%2C2%2C3%5D&tabId=693f3224-be92-4532-9bb8-95ed4d551e94&timeSeriesDateRange=6-months). Is this signaling the beginning of the end for the dirty tanker freight rate rally?
 
 ![Στιγμιότυπο Οθόνης 2025 11 13 153222](assets/2025-11-13_is-the-dirty-tanker-rally-coming-to-an-end_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7276eb1bbb6b.png)
 

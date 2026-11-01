@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/11/signs-of-subdued-demand-weighs-on-oil-prices"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 2
-word_count: 728
+word_count: 730
 source_file: "corpus/03-breakwave/insights/2024/2024-11-11_signs-of-subdued-demand-weighs-on-oil-prices.html"
 ---
 
@@ -31,7 +31,7 @@ Commodity prices fell across sectors after Trump’s US election win. The strong
 
 ### Market Commentary
 
-**Crude oil**prices fell late week after hitting a high of USD75/bbl. Higher than expected US oil inventories and subdued Chinese oil imports outweighed OPEC’s decision to delay planned output hikes by a month. Investors also remained concerned around the impacts of Trump’s promised tariffs on China’s economic growth, which may crimp oil demand. Even the purchase of 2.4mbbl of oil by the Biden administration for the Strategic Petroleum Reserve went unnoticed. Trump’s re-election may increase the chance of more US oil production, though this remains a long-term story and depends on the economics of oil drilling. US oil production hit a record high of 13.5mb/d for the week ending 1 November, while Hurricane Rafael impacted nearly 1.1mb/d of production since 6 November. Chevron has shuttered its production facility in the Gulf of Mexico. Further, expectations that the next US administration will renew a clampdown on Iran via tighter sanctions has raised supply concerns in the short-term with tensions intensifying in the Middle East. Investors have increased bullish bets on oil amid increasing supply uncertainty.
+**Crude oil** prices fell late week after hitting a high of USD75/bbl. Higher than expected US oil inventories and subdued Chinese oil imports outweighed OPEC’s decision to delay planned output hikes by a month. Investors also remained concerned around the impacts of Trump’s promised tariffs on China’s economic growth, which may crimp oil demand. Even the purchase of 2.4mbbl of oil by the Biden administration for the Strategic Petroleum Reserve went unnoticed. Trump’s re-election may increase the chance of more US oil production, though this remains a long-term story and depends on the economics of oil drilling. US oil production hit a record high of 13.5mb/d for the week ending 1 November, while Hurricane Rafael impacted nearly 1.1mb/d of production since 6 November. Chevron has shuttered its production facility in the Gulf of Mexico. Further, expectations that the next US administration will renew a clampdown on Iran via tighter sanctions has raised supply concerns in the short-term with tensions intensifying in the Middle East. Investors have increased bullish bets on oil amid increasing supply uncertainty.
 
 **Global gas** prices edged lower amid uncertainty around the impact of the US election outcome on the market. Trump has vowed to end the Biden administration’s pause on new LNG export licences, which raises concerns around a wave of new supply. While determining the impact of his foreign policy on global gas markets is not as clear, rising gas stockpiles in the US weighed on Henry Hub gas prices. Hurricane Rafael could also reduce US supply in days ahead. The market is watching weather forecasts that suggest colder temperatures for Europe over coming weeks. Gas withdrawals are rising as winter sets in.**North Asian LNG** prices inched lower, with buyers pulling back from the spot market amid recent gains.
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/4/sudan-crude-oil-exports-via-bashayer"
 tags: ["Tankers", "Markets", "Crude"]
 images_count: 10
-word_count: 1660
+word_count: 1670
 source_file: "corpus/03-breakwave/insights/2025/2025-07-04_sudan-crude-oil-exports-via-bashayer.html"
 ---
 
@@ -48,7 +48,7 @@ Nonetheless, a functional operational status quo has emerged, allowing oil flows
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 07 04 124014**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/n-the-tanker-shipping-industry/2r829t/507767388/h/f9m3A8O5KOz9xHDqE0RVS3MRS5-z4lnLQrwYJaLkuG8) | [Local Asset](assets/2025-07-04_sudan-crude-oil-exports-via-bashayer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9de7d78e768c.png)
 
-The Baltic Dirty Tanker Index (BDTI) has declined by 15% compared to the same period last year, with a noticeable drop in VLCC AG–China rates. Market sentiment is gradually returning to normalized levels after the extraordinary spike triggered by the Iran–Israel tensions. At the time, we had already mapped out[scenarios](https://go.signalocean.com/e/983831/n-the-tanker-shipping-industry/2r829t/507767388/h/f9m3A8O5KOz9xHDqE0RVS3MRS5-z4lnLQrwYJaLkuG8), with the expectation that a full closure of the Strait was unlikely. Now, as we enter the summer season, which typically exerts downward pressure on rates, the freight market is adjusting accordingly. Meanwhile, AG supply counts have been rising since the end of Week 25.
+The Baltic Dirty Tanker Index (BDTI) has declined by 15% compared to the same period last year, with a noticeable drop in VLCC AG–China rates. Market sentiment is gradually returning to normalized levels after the extraordinary spike triggered by the Iran–Israel tensions. At the time, we had already mapped out [scenarios](https://go.signalocean.com/e/983831/n-the-tanker-shipping-industry/2r829t/507767388/h/f9m3A8O5KOz9xHDqE0RVS3MRS5-z4lnLQrwYJaLkuG8), with the expectation that a full closure of the Strait was unlikely. Now, as we enter the summer season, which typically exerts downward pressure on rates, the freight market is adjusting accordingly. Meanwhile, AG supply counts have been rising since the end of Week 25.
 
 VLCC freight rates on the MEG–China route have declined to WS 49, marking an 11% drop week-on-week but remaining 5% higher on a monthly basis. Suezmax rates on the West Africa–Europe route stand at WS 85, reflecting sentiment similar to that of a month ago, while Baltic–Mediterranean rates have fallen to WS 95, down 7% week-on-week. A weakening trend is also evident in Aframax rates in the Mediterranean, which have slipped below WS 135.
 
@@ -57,21 +57,21 @@ VLCC freight rates on the MEG–China route have declined to WS 49, marking an 1
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 07 04 124025**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-07-04_sudan-crude-oil-exports-via-bashayer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_82d46aa1a1d9.png)
 
-**LR2**clean freight rates on the AG route dropped to WS 130, a 22% decline in a week, after reaching their highest point this year. The shift in freight sentiment appears to be driven by a rising number of vessels, as shown in the supply section.
+**LR2** clean freight rates on the AG route dropped to WS 130, a 22% decline in a week, after reaching their highest point this year. The shift in freight sentiment appears to be driven by a rising number of vessels, as shown in the supply section.
 
 ![Στιγμιότυπο Οθόνης 2025 07 04 124032](assets/2025-07-04_sudan-crude-oil-exports-via-bashayer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d59bc52ba007.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 07 04 124032**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-07-04_sudan-crude-oil-exports-via-bashayer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d59bc52ba007.png)
 
-**Panamax**Carib-to-USG rates rose to WS190, marking a 10% week-on-week increase. The last notable spike occurred shortly after mid-April, when rates briefly surged above WS200.
+**Panamax** Carib-to-USG rates rose to WS190, marking a 10% week-on-week increase. The last notable spike occurred shortly after mid-April, when rates briefly surged above WS200.
 
 ![Στιγμιότυπο Οθόνης 2025 07 04 124041](assets/2025-07-04_sudan-crude-oil-exports-via-bashayer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_00ec339a4289.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 07 04 124041**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-07-04_sudan-crude-oil-exports-via-bashayer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_00ec339a4289.png)
 
-**Baltic–Continent****MR1**freight rates have dropped to WS 120, extending last week's decline and reflecting a 29% decrease on a monthly basis.**Continent–USAC MR2**freight rates also fell to WS 100, down 13% week-on-week. In contrast, a positive trend is observed on the**MR2 USG–Continent**route, with rates exceeding WS 200.
+**Baltic–Continent** **MR1** freight rates have dropped to WS 120, extending last week's decline and reflecting a 29% decrease on a monthly basis.**Continent–USAC MR2** freight rates also fell to WS 100, down 13% week-on-week. In contrast, a positive trend is observed on the **MR2 USG–Continent** route, with rates exceeding WS 200.
 
 ![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](assets/2025-07-04_sudan-crude-oil-exports-via-bashayer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c967ddaf9df.png)
 
@@ -90,21 +90,21 @@ The recent bearish outlook for VLCC crude oil freight is being reinforced by a s
 > **Figure 8: Στιγμιότυπο Οθόνης 2025 07 04 124108**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-07-04_sudan-crude-oil-exports-via-bashayer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c78626c37ec3.png)
 
-Clean tanker supply showed signs of increasing toward the end of June, particularly for**LR2**vessels in the**Arabian Gulf**and**MR2**vessels in**Amsterdam**. In both regions, ship counts are hovering above their respective annual averages, with**LR2**availability in the**AG**peaking at nearly 14 vessels and**MR2**counts in**Amsterdam**reaching around 60. In contrast,**MR1**vessel activity at**Skikda**hovered just above the annual average of 32, following a notable spike in Week 19.
+Clean tanker supply showed signs of increasing toward the end of June, particularly for **LR2** vessels in the **Arabian Gulf** and **MR2** vessels in **Amsterdam**. In both regions, ship counts are hovering above their respective annual averages, with **LR2** availability in the **AG** peaking at nearly 14 vessels and **MR2** counts in **Amsterdam** reaching around 60. In contrast,**MR1** vessel activity at **Skikda** hovered just above the annual average of 32, following a notable spike in Week 19.
 
 ![Στιγμιότυπο Οθόνης 2025 07 04 124117](assets/2025-07-04_sudan-crude-oil-exports-via-bashayer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_303acb008c96.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 07 04 124117**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-07-04_sudan-crude-oil-exports-via-bashayer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_303acb008c96.png)
 
-**Dirty**tonne days: The seasonal development of**dirty**tonne-days remains below the growth rate seen in the same week of July 2024 for the**VLCC**segment, with**Suezmax**also falling below the annual trend. In the**Aframax**segment, despite signs of a decline from the peak recorded at the end of Week 17, activity remains above the average trend.
+**Dirty** tonne days: The seasonal development of **dirty** tonne-days remains below the growth rate seen in the same week of July 2024 for the **VLCC** segment, with **Suezmax** also falling below the annual trend. In the **Aframax** segment, despite signs of a decline from the peak recorded at the end of Week 17, activity remains above the average trend.
 
 ![Στιγμιότυπο Οθόνης 2025 07 04 124125](assets/2025-07-04_sudan-crude-oil-exports-via-bashayer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_61bbc3620096.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 07 04 124125**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-07-04_sudan-crude-oil-exports-via-bashayer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_61bbc3620096.png)
 
-The seasonal development of tonne-days in the clean tanker segment continues to show a significant decline from the levels seen at the end of Week 15 for the**MR1**vessel size. In contrast, the**MR2**segment appears to be following a firmer trend. Meanwhile,**Panamax**tonne-days are also weakening, now falling to their lowest level so far this year
+The seasonal development of tonne-days in the clean tanker segment continues to show a significant decline from the levels seen at the end of Week 15 for the **MR1** vessel size. In contrast, the **MR2** segment appears to be following a firmer trend. Meanwhile,**Panamax** tonne-days are also weakening, now falling to their lowest level so far this year
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)
 

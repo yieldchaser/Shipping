@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/8/30/1v71f81xvhwp37vgvkzuib4y2pipv3"
 tags: ["China", "Soybeans", "Dry Bulk", "Steel"]
 images_count: 1
-word_count: 400
+word_count: 401
 source_file: "corpus/03-breakwave/insights/2020/2020-08-31_1v71f81xvhwp37vgvkzuib4y2pipv3.html"
 ---
 

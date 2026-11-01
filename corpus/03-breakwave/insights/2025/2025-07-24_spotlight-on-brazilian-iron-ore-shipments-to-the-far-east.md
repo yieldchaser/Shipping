@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/24/spotlight-on-brazilian-iron-ore-shipments-to-the-far-east"
 tags: ["Drybulk", "Shipping", "Ironore"]
 images_count: 12
-word_count: 1823
+word_count: 1835
 source_file: "corpus/03-breakwave/insights/2025/2025-07-24_spotlight-on-brazilian-iron-ore-shipments-to-the-far-east.html"
 ---
 
@@ -21,8 +21,8 @@ source_file: "corpus/03-breakwave/insights/2025/2025-07-24_spotlight-on-brazilia
 ---
 
 WEEKLY DRY MARKET MONITOR
-*Spot Rates | Supply-Demand Trends | Port Congestion Overview*
-Week 30, 2025 | Date: July 23, 2025
+ *Spot Rates | Supply-Demand Trends | Port Congestion Overview*
+ Week 30, 2025 | Date: July 23, 2025
 
 ![Στιγμιότυπο Οθόνης 2025 07 24 105540](assets/2025-07-24_spotlight-on-brazilian-iron-ore-shipments-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc976ff0ad79.png)
 
@@ -45,7 +45,7 @@ On the C3 and C5 routes, we've seen signs of firmness, with rates surpassing $20
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 07 24 105559**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/arket-monitor-dry-week-28-2025/2r9glq/512506263/h/B4MxWYD48xyrlMU9kXCx2v5i6glIc1dFB6m2XVRdddI) | [Local Asset](assets/2025-07-24_spotlight-on-brazilian-iron-ore-shipments-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ef7cde932a61.png)
 
-Panamax - ECSA / Far East**Softer**
+Panamax - ECSA / Far East **Softer**
 
 Panamax spot rates from East Coast South America (ECSA) to the Far East, after peaking in mid-July, have started to gradually soften, although levels remain significantly higher than the lows recorded at the beginning of June. ECSA–Far East rates are still around 9% higher than a month ago, which can be partially supported by forward optimism linked to the U.S. summer crop season. Additionally, Panamax vessel supply to ECSA has seen a continuous downward trend since March, while the daily loaded volume has remained consistently noticeable throughout the year.
 
@@ -106,9 +106,9 @@ Toward the end of Q2 this year, we began to observe a rise in Capesize tonne-day
 > **Figure 12: Στιγμιότυπο Οθόνης 2025 07 24 105715**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/arket-monitor-dry-week-28-2025/2r9glq/512506263/h/B4MxWYD48xyrlMU9kXCx2v5i6glIc1dFB6m2XVRdddI) | [Local Asset](assets/2025-07-24_spotlight-on-brazilian-iron-ore-shipments-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7115cd782e4c.png)
 
-As highlighted in our[previous report](https://go.signalocean.com/e/983831/arket-monitor-dry-week-28-2025/2r9glq/512506263/h/B4MxWYD48xyrlMU9kXCx2v5i6glIc1dFB6m2XVRdddI), Chittagong showed elevated congestion levels for Supramax vessels, particularly those in waiting status.
+As highlighted in our [previous report](https://go.signalocean.com/e/983831/arket-monitor-dry-week-28-2025/2r9glq/512506263/h/B4MxWYD48xyrlMU9kXCx2v5i6glIc1dFB6m2XVRdddI), Chittagong showed elevated congestion levels for Supramax vessels, particularly those in waiting status.
 
-This week, we observed a gradual increase in congestion at Huanghua, reaching levels rarely seen over the past year. The Supramax segment, in particular, appears to be experiencing growing port congestion pressures. While[Typhoon Wipha](https://go.signalocean.com/e/983831/m-south-china-mainland-5248901/2r9glt/512506263/h/B4MxWYD48xyrlMU9kXCx2v5i6glIc1dFB6m2XVRdddI)primarily impacted southern China affecting Guangdong, Hong Kong, and nearby coastal provinces, weather alerts this week also noted heavy rainfall and localized flooding in parts of eastern and northern China. Although Huanghua was not directly mentioned in weather reports, its proximity to the Bohai Sea means it could be indirectly affected by broader regional weather disruptions. These conditions may be contributing to operational delays or vessel backlogs. We will continue to monitor the situation to determine whether this congestion is temporary or signals a sustained trend.
+This week, we observed a gradual increase in congestion at Huanghua, reaching levels rarely seen over the past year. The Supramax segment, in particular, appears to be experiencing growing port congestion pressures. While [Typhoon Wipha](https://go.signalocean.com/e/983831/m-south-china-mainland-5248901/2r9glt/512506263/h/B4MxWYD48xyrlMU9kXCx2v5i6glIc1dFB6m2XVRdddI) primarily impacted southern China affecting Guangdong, Hong Kong, and nearby coastal provinces, weather alerts this week also noted heavy rainfall and localized flooding in parts of eastern and northern China. Although Huanghua was not directly mentioned in weather reports, its proximity to the Bohai Sea means it could be indirectly affected by broader regional weather disruptions. These conditions may be contributing to operational delays or vessel backlogs. We will continue to monitor the situation to determine whether this congestion is temporary or signals a sustained trend.
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)
 

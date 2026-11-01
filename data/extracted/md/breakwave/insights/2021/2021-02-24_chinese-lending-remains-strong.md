@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/21/chinese-lending-remains-strong"
 tags: ["China"]
 images_count: 2
-word_count: 483
+word_count: 485
 source_file: "corpus/03-breakwave/insights/2021/2021-02-24_chinese-lending-remains-strong.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-02-24_chinese-lending-remai
 
 *By*[*Jeffrey Landsberg*](mailto:jeffrey@commodore-research.com)
 
-![In Recent Months We Have Been Coming Across Articles and Reports](assets/2021-02-24_chinese-lending-remains-strong_img_image-asset_311956586950.jpeg)
+![In Recent Months We Have Been Coming Across Articles and Reports](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-24_chinese-lending-remains-strong_img_image-asset_311956586950.jpeg)
 
 > **Figure 1: In Recent Months We Have Been Coming Across Articles and Reports**  
 > *In recent months we have been coming across articles and reports stating that the Chinese government is significantly pulling back on their accommodative stance on lending, but we must continue to stress that this is not very accurate. A significant changecouldoccur later this year (we do not expect that it will), but so far this year the central government is acting in a similar manner as was seen during much of last year.*  
@@ -30,7 +30,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-02-24_chinese-lending-remai
 
 Data released earlier this month showed that new lending set another all-time high in January, with year-on-year growth also easily exceeding the year-on-year growth seen during the second half of last year.
 
-![Comodore Lending](assets/2021-02-24_chinese-lending-remains-strong_img_comodorelending_d2d8fac4a0c6.jpg)
+![Comodore Lending](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-24_chinese-lending-remains-strong_img_comodorelending_d2d8fac4a0c6.jpg)
 
 > **Figure 2: Comodore Lending**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-24_chinese-lending-remains-strong_img_comodorelending_d2d8fac4a0c6.jpg)

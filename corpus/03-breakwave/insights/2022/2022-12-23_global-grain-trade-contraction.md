@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/12/23/global-grain-trade-contraction"
 images_count: 4
-word_count: 430
+word_count: 434
 source_file: "corpus/03-breakwave/insights/2022/2022-12-23_global-grain-trade-contraction.html"
 ---
 

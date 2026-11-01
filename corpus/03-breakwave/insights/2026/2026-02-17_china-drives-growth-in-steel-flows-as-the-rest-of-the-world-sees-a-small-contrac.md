@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/17/china-drives-growth-in-steel-flows-as-the-rest-of-the-world-sees-a-small-contraction"
 tags: ["Ironore", "Shipping", "Commodities"]
 images_count: 3
-word_count: 762
+word_count: 765
 source_file: "corpus/03-breakwave/insights/2026/2026-02-17_china-drives-growth-in-steel-flows-as-the-rest-of-the-world-sees-a-small-contrac.html"
 ---
 

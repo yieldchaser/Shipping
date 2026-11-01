@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/11/coal-and-the-freight-market-policy-direction-vs-market-reality"
 tags: ["Coal", "Drybulk", "Markets"]
 images_count: 1
-word_count: 708
+word_count: 709
 source_file: "corpus/03-breakwave/insights/2026/2026-02-11_coal-and-the-freight-market-policy-direction-vs-market-reality.html"
 ---
 

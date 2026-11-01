@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/15/cargo-demand-and-vessel-supply-dynamics-remain-favorable-for-dry-bulk-market"
 tags: ["Dry Bulk", "Capesize", "Panamax", "Supramax"]
 images_count: 1
-word_count: 489
+word_count: 490
 source_file: "corpus/03-breakwave/insights/2021/2021-02-17_cargo-demand-and-vessel-supply-dynamics-remain-favorable-for-dry-bulk-market.html"
 ---
 
@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-02-17_cargo-demand-and-vess
 
 ---
 
-By[Jeffrey Landsberg](mailto:jeffrey@commodore-research.com)
+By [Jeffrey Landsberg](mailto:jeffrey@commodore-research.com)
 
 Dry bulk rates were mixed last week, with capesize rates declining while rates in the other segments all increased. Of note, though, is that capesize rates were basically flat on Friday and capesize FFA values also found significant support during the second half the week. Going forward, we remain bullish for the overall dry bulk market for this year. The spot market has slowed due to the Lunar New Year holiday, but the recent surge in Chinese grain purchases has added bullishness to the market. The United States Department of Agriculture has also raised its overall global grain trade projections even higher.
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/31/tankers-research-update"
 tags: ["Tankers", "Crude", "Shipping"]
 images_count: 2
-word_count: 1559
+word_count: 1561
 source_file: "corpus/03-breakwave/insights/2025/2025-07-31_tankers-research-update.html"
 ---
 

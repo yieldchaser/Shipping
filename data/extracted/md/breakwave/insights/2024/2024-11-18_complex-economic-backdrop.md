@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/18/complex-economic-backdrop"
 tags: ["Shipping", "Drybulk", "Economy"]
 images_count: 2
-word_count: 1045
+word_count: 1047
 source_file: "corpus/03-breakwave/insights/2024/2024-11-18_complex-economic-backdrop.html"
 ---
 

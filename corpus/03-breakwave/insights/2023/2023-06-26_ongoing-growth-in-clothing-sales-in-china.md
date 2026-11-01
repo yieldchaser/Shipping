@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/6/26/ongoing-growth-in-clothing-sales-in-china"
 images_count: 3
-word_count: 293
+word_count: 296
 source_file: "corpus/03-breakwave/insights/2023/2023-06-26_ongoing-growth-in-clothing-sales-in-china.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/29/consumer-strength-in-china-continues-to-lessen"
 tags: ["Drybulk", "China", "Economy"]
 images_count: 2
-word_count: 330
+word_count: 332
 source_file: "corpus/03-breakwave/insights/2024/2024-04-30_consumer-strength-in-china-continues-to-lessen.html"
 ---
 

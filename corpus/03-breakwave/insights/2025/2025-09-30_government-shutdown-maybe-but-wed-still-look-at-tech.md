@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/30/government-shutdown-maybe-but-wed-still-look-at-tech"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 3
-word_count: 1218
+word_count: 1221
 source_file: "corpus/03-breakwave/insights/2025/2025-09-30_government-shutdown-maybe-but-wed-still-look-at-tech.html"
 ---
 
@@ -63,14 +63,14 @@ At the same time, markets are by and large dismissing the effects of what looks 
 
 Having said that, the more relevant is the December 2018-early 19 shutdown, which occurred during the previous Trump administration. This was the least anodyne. It lasted a record 35 days and it is estimated to have caused the total loss of $3bn from the ($29.2tn economy), in lost government contracts and R&D spending. Additionally, it contributed to a repo crisis in September 2019, a money market freeze which forced the Fed to intervene. The Treasury had initially depleted 20% of its operating account with the Fed ($100bn out of $500), and when the government was restored, it sought aggressively to build a $750bn buffer, draining liquidity from money market funds. The Fed intervened very quickly, but the market remained jittery. In the end, the pandemic forced a much bigger intervention by the central bank, so the consequences of this (and all manner of economic sin) were ultimately overshadowed by the Covid-19 crisis.
 
-So shutdowns are not**usually**consequential, but they**can**be.
+So shutdowns are not **usually** consequential, but they **can** be.
 
 Why is 2018-19 more relevant?
 
-1. Because the**President**is the same and has pursued an even more aggressive domestic agenda.
-2. Because, like then,**neither side shows any willingness to negotiate**or compromise.
-3. Because the**White House**has indicated that it**may take the opportunity to dismiss**, rather than furlough, key government employees.
-4. Last year, when Senate minority leader**Chuck Schumer**cooperated to get a funding resolution passed, he was widely lambasted by his own party. That could make Democrats more militant this time around.
+1. Because the **President** is the same and has pursued an even more aggressive domestic agenda.
+2. Because, like then,**neither side shows any willingness to negotiate** or compromise.
+3. Because the **White House** has indicated that it **may take the opportunity to dismiss**, rather than furlough, key government employees.
+4. Last year, when Senate minority leader **Chuck Schumer** cooperated to get a funding resolution passed, he was widely lambasted by his own party. That could make Democrats more militant this time around.
 
 However, there is one key difference. In 2018, the Democrats had just won a midterm election in the House (Republicans still controlled the Senate) and were empowered to shut down the government. The House controls the budget, and it was Democratic. This time around, they are a minority in both chambers with only the power of the filibuster (a procedural obstacle in the Senate), which may not legitimise such radical action in the eyes of voters, and set an even worse precedent for lack of bipartisan cooperation. So, while many signs point to a consequential shutdown, we would remain more reserved as to how far the Democratic Party is willing to drag this out.
 

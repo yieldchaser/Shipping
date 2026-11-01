@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/2/28/mazars-comment-sticky-growth-or-a-wiley-e-consumer-moment"
 images_count: 5
-word_count: 1573
+word_count: 1578
 source_file: "corpus/03-breakwave/insights/2023/2023-02-28_mazars-comment-sticky-growth-or-a-wiley-e-consumer-moment.html"
 ---
 

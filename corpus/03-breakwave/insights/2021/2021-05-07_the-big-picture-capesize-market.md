@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/7/the-big-picture-capesize-market"
 tags: ["Capesize", "Dry Bulk", "Coal"]
 images_count: 5
-word_count: 1098
+word_count: 1103
 source_file: "corpus/03-breakwave/insights/2021/2021-05-07_the-big-picture-capesize-market.html"
 ---
 

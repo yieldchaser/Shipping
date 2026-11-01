@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/22/the-big-picture-global-economic-outlook"
 images_count: 3
-word_count: 1168
+word_count: 1171
 source_file: "corpus/03-breakwave/insights/2021/2021-10-23_the-big-picture-global-economic-outlook.html"
 ---
 
@@ -31,7 +31,7 @@ Since the IMF’s last World Economic Outlook (WEO) in April there have been mod
 
 2022 growth, however, has now been pegged at 5.2%, up from 3.5% previously. This significant upward revision incorporates hefty infrastructure spending, and a stronger vaccine-fuelled rebound in the first half of the year. Compared to the forecasts made before COVID hit, these long-term upward revisions are even more stark: in October 2019, the IMF expected the US economy to grow by just 1.6% in 2022. The most recent expectations of 2023 growth at 2.2% are also 0.6 percentage points higher than the pre-pandemic numbers.
 
-![Market Chart 1](assets/2021-10-23_the-big-picture-global-economic-outlook_img_image028229_e2d63fbe7a53.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-23_the-big-picture-global-economic-outlook_img_image028229_e2d63fbe7a53.png)
 
 > **Figure 1: Market Chart 1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-23_the-big-picture-global-economic-outlook_img_image028229_e2d63fbe7a53.png)
@@ -44,7 +44,7 @@ Growth expectations in the Euro Area meanwhile have been raised for both this ye
 
 Despite the optimistic figures for the US and other economic heavyweights, the outlook for regions that make up the lion’s share of dry bulk demand seems a little shakier. China, the world’s second largest economy, directly accounted for more than 56% of bulk carrier employment last year, and it is here that the long-term prospects have dimmed slightly.
 
-![Market Chart 2](assets/2021-10-23_the-big-picture-global-economic-outlook_img_image128129_0cf54b0dcdf8.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-23_the-big-picture-global-economic-outlook_img_image128129_0cf54b0dcdf8.png)
 
 > **Figure 2: Market Chart 2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-23_the-big-picture-global-economic-outlook_img_image128129_0cf54b0dcdf8.png)
@@ -57,7 +57,7 @@ China has recently been grappling with energy shortages, which have hamstrung pr
 
 Meanwhile, the property and infrastructure sectors have recently been rocked by credit issues and a string of defaults across large property developers. Last month, new residential construction, derived from cumulative increases initiated floor space, dropped by more than 14% YoY and over 17% percent versus September 2019 to 126.1 km², while real-estate sales slumped.
 
-![Market Chart 3](assets/2021-10-23_the-big-picture-global-economic-outlook_img_image228129_7a197bd027d6.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-23_the-big-picture-global-economic-outlook_img_image228129_7a197bd027d6.png)
 
 > **Figure 3: Market Chart 3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-23_the-big-picture-global-economic-outlook_img_image228129_7a197bd027d6.png)

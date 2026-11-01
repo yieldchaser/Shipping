@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/14/soybeans-global-production-and-trade-set-to-continue-to-grow"
 tags: ["Soybeans", "Dry Bulk"]
 images_count: 2
-word_count: 693
+word_count: 695
 source_file: "corpus/03-breakwave/insights/2021/2021-05-14_soybeans-global-production-and-trade-set-to-continue-to-grow.html"
 ---
 

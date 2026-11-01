@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/5/ongoing-climb-in-coal-indias-production-and-offtake"
 tags: ["Coal", "India"]
 images_count: 1
-word_count: 273
+word_count: 274
 source_file: "corpus/03-breakwave/insights/2020/2020-10-05_ongoing-climb-in-coal-indias-production-and-offtake.html"
 ---
 

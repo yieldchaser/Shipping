@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/18/this-wasnt-about-the-economy-the-next-one-could-be"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 7
-word_count: 2068
+word_count: 2075
 source_file: "corpus/03-breakwave/insights/2025/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be.html"
 ---
 
@@ -85,7 +85,7 @@ So, the question better put is:**will exponentially growing economic and policy 
 
 No, we don’t have a definitive answer for these. We have opinions, strong even, but we don’t have answers. Right now the world is too much in flux. To come closer to an answering we must first answer two other questions:
 
-Does Washington’s plan have a**feasible endgame**or is an interconnected global economy too unmanageable, in which case we are simply looking at increased macroeconomic and financial volatility without a clear exit strategy?Will the US Dollar remain the world’s dominant currency? And can it do so even if it is significantly debased? Will US Dollar debasement trigger a global currency race to the bottom, as other countries will seek to do the same? (Since these are relative, the value of Dollar and Gold will become a key gauge)
+Does Washington’s plan have a**feasible endgame** or is an interconnected global economy too unmanageable, in which case we are simply looking at increased macroeconomic and financial volatility without a clear exit strategy?Will the US Dollar remain the world’s dominant currency? And can it do so even if it is significantly debased? Will US Dollar debasement trigger a global currency race to the bottom, as other countries will seek to do the same? (Since these are relative, the value of Dollar and Gold will become a key gauge)
 
 **While we believe that many of Washington’s strategies make sense on their own, it is the sum of the parts and the execution which make success questionable.**
 
@@ -98,7 +98,7 @@ In case you missed it, last week was not just about the February inflation numbe
 > **Figure 6: Market Chart 6**  
 > **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=IGj24KHhMFw) | [Local Asset](assets/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be_img_image006_83f5401f19b2.png)
 
-Take steel. Over the shorter term, local producers will try to cover extra demand, for, say, steel, but that assumes that they have been working well below capacity. This is true enough for the US steel industry which operates at[**74%-75%**](https://www.youtube.com/watch?v=IGj24KHhMFw)[**capacity**](https://www.steel.org/industry-data/). However, a[Fred Stlouisfed](https://fred.stlouisfed.org/series/CAPUTLG3311A2S)suggests that after 2008, the sector, which previously operated at 80% to 90%, hasn’t operated above 80% capacity.
+Take steel. Over the shorter term, local producers will try to cover extra demand, for, say, steel, but that assumes that they have been working well below capacity. This is true enough for the US steel industry which operates at[**74%-75%**](https://www.youtube.com/watch?v=IGj24KHhMFw)[**capacity**](https://www.steel.org/industry-data/). However, a[Fred Stlouisfed](https://fred.stlouisfed.org/series/CAPUTLG3311A2S) suggests that after 2008, the sector, which previously operated at 80% to 90%, hasn’t operated above 80% capacity.
 
 ![Careful Examination](assets/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be_img_image007_e343ce6a959f.png)
 

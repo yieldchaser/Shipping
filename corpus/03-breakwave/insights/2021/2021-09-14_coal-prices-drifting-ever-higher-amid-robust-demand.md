@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/14/coal-prices-drifting-ever-higher-amid-robust-demand"
 tags: ["Coal", "Economy", "Global"]
 images_count: 4
-word_count: 892
+word_count: 896
 source_file: "corpus/03-breakwave/insights/2021/2021-09-14_coal-prices-drifting-ever-higher-amid-robust-demand.html"
 ---
 

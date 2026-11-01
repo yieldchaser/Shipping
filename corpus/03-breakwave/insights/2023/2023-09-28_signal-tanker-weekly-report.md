@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/9/28/signal-tanker-weekly-report"
 images_count: 10
-word_count: 1425
+word_count: 1435
 source_file: "corpus/03-breakwave/insights/2023/2023-09-28_signal-tanker-weekly-report.html"
 ---
 
@@ -50,32 +50,32 @@ VLCC - Suezmax - Aframax Mixed**
 > *​​​​​​The crude freight sentiment appears to be recovering for the second week in a row on the VLCC MEG -China route, while stable levels are being maintained on the Suezmax Wafr-Cont route, and stronger momentum is being seen on the Aframax-Med route.*  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-09-28_signal-tanker-weekly-report_img_unnamed-2023-09-28t131153572_7a65bcbb6ec4.png)
 
-- **VLCC MEG-China**freight rates rose by 20% from the previous week, WS 51, with signs for a further rise at the end of the month
-- **Suezmax**freight rates for shipments from West Africa to continental Europe recorded a downward revision to WS70, down 10% from a month ago, while rates on the Suez-Baltic-Med route remained unchanged at WS72 for three consecutive weeks.
-- **Aframax**Med freight rates have exhibited an unexpected surge, reaching WS115 levels, marking a significant 30% increase compared to the preceding week.
+- **VLCC MEG-China** freight rates rose by 20% from the previous week, WS 51, with signs for a further rise at the end of the month
+- **Suezmax** freight rates for shipments from West Africa to continental Europe recorded a downward revision to WS70, down 10% from a month ago, while rates on the Suez-Baltic-Med route remained unchanged at WS72 for three consecutive weeks.
+- **Aframax** Med freight rates have exhibited an unexpected surge, reaching WS115 levels, marking a significant 30% increase compared to the preceding week.
 
 ![‘Product’ Wslr2 Weaker](assets/2023-09-28_signal-tanker-weekly-report_img_unnamed-2023-09-28t131237700_ff54cd6b6aa5.png)
 
 > **Figure 3: ‘Product’ Wslr2 Weaker**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-09-28_signal-tanker-weekly-report_img_unnamed-2023-09-28t131237700_ff54cd6b6aa5.png)
 
-- **LR2**AG freight rates fell to 125 WS, down 7% week-on-week, while a weaker trend appears to be emerging for the end of the month.
+- **LR2** AG freight rates fell to 125 WS, down 7% week-on-week, while a weaker trend appears to be emerging for the end of the month.
 
 ![PANAMAX (Sentiment: Weaker)](assets/2023-09-28_signal-tanker-weekly-report_img_unnamed-2023-09-28t131341050_a7e2a87c0f5d.png)
 
 > **Figure 4: PANAMAX (Sentiment: Weaker)**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-09-28_signal-tanker-weekly-report_img_unnamed-2023-09-28t131341050_a7e2a87c0f5d.png)
 
-- **Panamax**Carib-to-USG rates fell to 131 WS, down 60% from a year ago, with the downward trend continuing since the end of Week 27.
+- **Panamax** Carib-to-USG rates fell to 131 WS, down 60% from a year ago, with the downward trend continuing since the end of Week 27.
 
 ![‘Clean’mr Mixed](assets/2023-09-28_signal-tanker-weekly-report_img_unnamed-2023-09-28t131501789_4cbd3d78d839.png)
 
 > **Figure 5: ‘Clean’mr Mixed**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-09-28_signal-tanker-weekly-report_img_unnamed-2023-09-28t131501789_4cbd3d78d839.png)
 
-- **MR1**rates for the Baltic continent increased to WS 200, up 12% from the previous week, but rates are still well below those of a year ago, up 45%.
+- **MR1** rates for the Baltic continent increased to WS 200, up 12% from the previous week, but rates are still well below those of a year ago, up 45%.
 
-- **MR2**rates for shipments from the continent to the U.S. remained at relatively flat levels around WS180, with no significant weekly downward revisions, while overall momentum appears to have slowed in September.
+- **MR2** rates for shipments from the continent to the U.S. remained at relatively flat levels around WS180, with no significant weekly downward revisions, while overall momentum appears to have slowed in September.
 
 ## Section 2/ Supply
 
@@ -116,7 +116,7 @@ Crude oil tanker supply showed the first signs of decline, with the Ras Tanuara 
 > **Figure 9: ​​‘Dirty’ Decreasing**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-09-28_signal-tanker-weekly-report_img_unnamed-2023-09-28t132448264_9dadf6c567ae.png)
 
-- **Dirty**tonne days: At the end of September, the percentage increase in demand (in tonne days) was down for all crude oil vessel categories; despite signs of an upturn in Aframax, there was eventually a downward correction. In the VLCC segment, growth rates continued to be much steeper than eight weeks earlier.
+- **Dirty** tonne days: At the end of September, the percentage increase in demand (in tonne days) was down for all crude oil vessel categories; despite signs of an upturn in Aframax, there was eventually a downward correction. In the VLCC segment, growth rates continued to be much steeper than eight weeks earlier.
 
 ![‘Clean’ Panamax / MR Decreasing](assets/2023-09-28_signal-tanker-weekly-report_img_unnamed-2023-09-28t132538173_6025ba74dd29.png)
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/14/soybeans-global-production-and-trade-set-to-continue-to-grow"
 tags: ["Soybeans", "Dry Bulk"]
 images_count: 2
-word_count: 693
+word_count: 695
 source_file: "corpus/03-breakwave/insights/2021/2021-05-14_soybeans-global-production-and-trade-set-to-continue-to-grow.html"
 ---
 
@@ -26,7 +26,7 @@ Soybean futures are trading within striking distance of the all-time high set in
 
 ### Soybean Prices 1996-2021 (Us Cents/bushel)
 
-![Ulf 5.14](assets/2021-05-14_soybeans-global-production-and-trade-set-to-continue-to-grow_img_ulf514_747e3e2e5ac5.jpg)
+![Ulf 5.14](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-14_soybeans-global-production-and-trade-set-to-continue-to-grow_img_ulf514_747e3e2e5ac5.jpg)
 
 > **Figure 1: Ulf 5.14**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-14_soybeans-global-production-and-trade-set-to-continue-to-grow_img_ulf514_747e3e2e5ac5.jpg)
@@ -39,7 +39,7 @@ The USDA is expecting US soybean exports to decrease by 5.6 million tonnes to 56
 
 Global seaborne volumes of soybeans could be on course for eclipsing the previous high set in 2018. According to data from Oceanbolt, last year’s volumes were approximately two million tonnes below the ones recorded during 2018. The rising Brazilian exports more than offset the reduction in shipments from the US, potentially pushing total volumes above the previous high. The soybean trade is traditionally dominated by the Panamax segment, with vessels capable of carrying between 68,000 and 110,000 tonnes accounting for 87 per cent of the trade. Stable, or increasing, volumes in an otherwise tight market could lend support to Panamax charter rates when the US harvest and the second Brazilian harvest get underway during the third quarter.
 
-![Ulf 5.14b](assets/2021-05-14_soybeans-global-production-and-trade-set-to-continue-to-grow_img_ulf514b_8997bc4ed3f6.png)
+![Ulf 5.14b](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-14_soybeans-global-production-and-trade-set-to-continue-to-grow_img_ulf514b_8997bc4ed3f6.png)
 
 > **Figure 2: Ulf 5.14b**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-14_soybeans-global-production-and-trade-set-to-continue-to-grow_img_ulf514b_8997bc4ed3f6.png)

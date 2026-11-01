@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/8/12/chinese-port-stocks-rise-further-as-steel-demand-softens"
 tags: ["China", "Commodities", "Ironore"]
 images_count: 3
-word_count: 783
+word_count: 786
 source_file: "corpus/03-breakwave/insights/2026/2026-08-12_chinese-port-stocks-rise-further-as-steel-demand-softens.html"
 ---
 

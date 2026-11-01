@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/17/crude-laden-tankers-build-in-hormuz-as-production-cuts-loom"
 tags: ["Crude", "Shipping", "Tankers"]
 images_count: 11
-word_count: 1669
+word_count: 1680
 source_file: "corpus/03-breakwave/insights/2026/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom.html"
 ---
 
@@ -46,11 +46,11 @@ Recent AIS data show a sharp reversal in the typical ballast–laden balance in 
 
 **Historical**~135 ballast vs ~85 laden vessels
 
-**Typical gap**50 vessels in favor of ballast traffic
+**Typical gap** 50 vessels in favor of ballast traffic
 
 **Recent**~75 ballast vessels vs ~145 laden
 
-**Latest crude tanker snapshot**85 laden vs 25 ballast vessels in the latest observations
+**Latest crude tanker snapshot** 85 laden vs 25 ballast vessels in the latest observations
 
 ![Στιγμιότυπο Οθόνης 2026 03 17 132950](assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91eca8f6c43e.png)
 

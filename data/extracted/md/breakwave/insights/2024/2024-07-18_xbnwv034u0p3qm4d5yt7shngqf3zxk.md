@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/18/xbnwv034u0p3qm4d5yt7shngqf3zxk"
 tags: ["Drybulk", "Shipping", "Capesize"]
 images_count: 5
-word_count: 1344
+word_count: 1349
 source_file: "corpus/03-breakwave/insights/2024/2024-07-18_xbnwv034u0p3qm4d5yt7shngqf3zxk.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-07-18_xbnwv034u0p3qm4d5yt7s
 ---
 
 **Dry Weekly Market Monitor - Week 29.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 July 18, 2024
 
 This week's chart illustrates the increase in the monthly volume of Ukrainian grain shipments during the first half of this year (left chart), following Russia's withdrawal from the [Black Sea Grain Initiative](https://go.signalocean.com/e/983831/ack-sea-grain-deal-2023-06-16-/2qd9tx/424453770/h/SxogwAUFzPHOSlglpbTUxe5tUH4pv7EsojFAS0t1yFw) in the summer of 2023. Despite the heightened security risks and logistical challenges, Ukraine has managed to significantly boost its grain exports through alternative routes and increased efficiency.

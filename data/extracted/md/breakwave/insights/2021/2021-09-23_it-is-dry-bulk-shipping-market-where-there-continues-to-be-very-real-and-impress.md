@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/23/it-is-dry-bulk-shipping-market-where-there-continues-to-be-very-real-and-impressive-profits"
 tags: ["Shipping", "Dry Bulk", "Economy"]
 images_count: 1
-word_count: 489
+word_count: 490
 source_file: "corpus/03-breakwave/insights/2021/2021-09-23_it-is-dry-bulk-shipping-market-where-there-continues-to-be-very-real-and-impress.html"
 ---
 
@@ -26,7 +26,7 @@ Sentiment in the dry bulk market became extremely bearish at the start of this w
 
 In our view, the Evergrande situation remains more than anything a stark reflection of current government policy in China and is a reminder of longstanding problems lying under the surface of the Chinese economy (and also the global economy at large). The Chinese government has been continuing to stress this year that it is working to reduce speculative excess in the economy, but the government of course does not want a wave of defaults. Commodore's view has been that the government will do what is needed to ensure that no systemic spillover occurs. Regarding the housing market, the government also has continued to focus on reigning in the housing sector, but the government of course does not want a sudden collapse in the housing market. Our view has been that we expect the government will continue to work on fostering more moderate growth in the overall housing market.
 
-![Unsplash Image Do5nh0hxngo](assets/2021-09-23_it-is-dry-bulk-shipping-market-where-there-continues-to-be-very-real-and-impress_img_unsplash-image-do5nh0hxngo_f9456d0f547f.jpg)
+![Unsplash Image Do5nh0hxngo](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-23_it-is-dry-bulk-shipping-market-where-there-continues-to-be-very-real-and-impress_img_unsplash-image-do5nh0hxngo_f9456d0f547f.jpg)
 
 > **Figure 1: Unsplash Image Do5nh0hxngo**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-23_it-is-dry-bulk-shipping-market-where-there-continues-to-be-very-real-and-impress_img_unsplash-image-do5nh0hxngo_f9456d0f547f.jpg)

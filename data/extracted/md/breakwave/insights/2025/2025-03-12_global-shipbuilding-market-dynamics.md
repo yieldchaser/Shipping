@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/12/global-shipbuilding-market-dynamics"
 tags: ["Markets", "Shipping", "Economy"]
 images_count: 1
-word_count: 623
+word_count: 624
 source_file: "corpus/03-breakwave/insights/2025/2025-03-12_global-shipbuilding-market-dynamics.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/19/dry-bulk-market-on-a-firmer-footing"
 tags: ["Capesize", "Drybulk", "Markets"]
 images_count: 1
-word_count: 684
+word_count: 685
 source_file: "corpus/03-breakwave/insights/2026/2026-02-19_dry-bulk-market-on-a-firmer-footing.html"
 ---
 

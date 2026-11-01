@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/9/the-us-governments-poison-pill"
 tags: ["Markets", "Economy", "Macro"]
 images_count: 7
-word_count: 1245
+word_count: 1252
 source_file: "corpus/03-breakwave/insights/2024/2024-04-09_the-us-governments-poison-pill.html"
 ---
 

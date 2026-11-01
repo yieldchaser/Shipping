@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/11/decline-in-indias-electricity-production"
 images_count: 3
-word_count: 342
+word_count: 345
 source_file: "corpus/03-breakwave/insights/2022/2022-11-11_decline-in-indias-electricity-production.html"
 ---
 

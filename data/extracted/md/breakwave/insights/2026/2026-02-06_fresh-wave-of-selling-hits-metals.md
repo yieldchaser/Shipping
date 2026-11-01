@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/6/fresh-wave-of-selling-hits-metals"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 2
-word_count: 802
+word_count: 804
 source_file: "corpus/03-breakwave/insights/2026/2026-02-06_fresh-wave-of-selling-hits-metals.html"
 ---
 

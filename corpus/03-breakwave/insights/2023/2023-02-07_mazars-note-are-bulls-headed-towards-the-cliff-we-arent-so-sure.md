@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/2/7/mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure"
 images_count: 7
-word_count: 1447
+word_count: 1454
 source_file: "corpus/03-breakwave/insights/2023/2023-02-07_mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure.html"
 ---
 

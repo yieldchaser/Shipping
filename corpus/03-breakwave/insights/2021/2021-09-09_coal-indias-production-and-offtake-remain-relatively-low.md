@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/9/coal-indias-production-and-offtake-remain-relatively-low"
 tags: ["India", "Coal", "Shipping"]
 images_count: 3
-word_count: 414
+word_count: 417
 source_file: "corpus/03-breakwave/insights/2021/2021-09-09_coal-indias-production-and-offtake-remain-relatively-low.html"
 ---
 

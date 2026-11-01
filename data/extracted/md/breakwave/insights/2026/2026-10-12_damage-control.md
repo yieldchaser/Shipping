@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/12/damage-control"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 2
-word_count: 632
+word_count: 634
 source_file: "corpus/03-breakwave/insights/2026/2026-10-12_damage-control.html"
 ---
 
@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-10-12_damage-control.html"
 
 ---
 
-![1 Tanker Smoke](assets/2026-10-12_damage-control_img_1-tanker-smoke_32eb2229ad66.jpg)
+![1 Tanker Smoke](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-12_damage-control_img_1-tanker-smoke_32eb2229ad66.jpg)
 
 > **Figure 1: 1 Tanker Smoke**  
 > **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-12_damage-control_img_1-tanker-smoke_32eb2229ad66.jpg)
@@ -37,7 +37,7 @@ The Middle East has not been the only region where tankers have been targeted. I
 
 So long as tensions persist, tankers will remain vulnerable. Growing risks in the Middle East threaten to keep freight rates sky-high, while the delivered cost of oil will also remain inflated from higher insurance costs and logistical challenges. Rising attacks also threaten tanker supply. Even in cases where damage is limited, the temporary downtime whilst condition assessments are conducted further adds operational inefficiencies.
 
-![Στιγμιότυπο Οθόνης 2026 10 12 101055](assets/2026-10-12_damage-control_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98bdb4f1f7e8.png)
+![Στιγμιότυπο Οθόνης 2026 10 12 101055](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-12_damage-control_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98bdb4f1f7e8.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 10 12 101055**  
 > **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-12_damage-control_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98bdb4f1f7e8.png)

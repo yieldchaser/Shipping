@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/1/recent-surge-in-indonesian-coal-exports-to-china"
 images_count: 4
-word_count: 533
+word_count: 537
 source_file: "corpus/03-breakwave/insights/2021/2021-02-03_recent-surge-in-indonesian-coal-exports-to-china.html"
 ---
 

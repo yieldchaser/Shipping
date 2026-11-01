@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/20/breakwave-weekend-read-4cn8n-a7kaz"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 11
-word_count: 1190
+word_count: 1201
 source_file: "corpus/03-breakwave/insights/2024/2024-10-18_breakwave-weekend-read-4cn8n-a7kaz.html"
 ---
 
@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-10-18_breakwave-weekend-rea
 ## Welcome Tobreakwave Advisorsweekend Read
 
 As we conclude the workweek and head into the weekend, take a moment to review the key articles from this week, including those you've highlighted.[Is a world gone mad still investible? Absolutely.](https://www.breakwaveadvisors.com/insights/2024/10/15/is-a-world-gone-mad-still-investible-absolutely),[The weakening of corn exports from Brazil](https://www.breakwaveadvisors.com/insights/2024/10/16/xd0hszrlqqd9t2h47ahawopwfmn204),[Adding Salt on the Ground](https://www.breakwaveadvisors.com/insights/2024/10/16/adding-salt-on-the-ground),[Iron Ore Flows](https://www.breakwaveadvisors.com/insights/2024/10/17/iron-ore-flows)
-and more.
+ and more.
 
 ## Breakwave Dry Bulk Report
 

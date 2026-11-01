@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/27/supply-dynamics-capesize-c3-amp-c5-routes"
 tags: ["Drybulk", "Shipping", "Capesize"]
 images_count: 5
-word_count: 1243
+word_count: 1248
 source_file: "corpus/03-breakwave/insights/2024/2024-06-27_supply-dynamics-capesize-c3-amp-c5-routes.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-06-27_supply-dynamics-capes
 ---
 
 **Dry Weekly Market Monitor - Week 26.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 June 26, 2024
 
 ![Στιγμιότυπο Οθόνης 2024 06 27 111713](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-27_supply-dynamics-capesize-c3-amp-c5-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a1274e7895d6.png)

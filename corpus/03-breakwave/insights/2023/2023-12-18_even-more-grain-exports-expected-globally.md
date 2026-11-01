@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/12/15/even-more-grain-exports-expected-globally"
 images_count: 4
-word_count: 430
+word_count: 434
 source_file: "corpus/03-breakwave/insights/2023/2023-12-18_even-more-grain-exports-expected-globally.html"
 ---
 

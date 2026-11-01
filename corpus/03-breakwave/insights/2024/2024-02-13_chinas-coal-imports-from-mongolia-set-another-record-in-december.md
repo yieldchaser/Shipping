@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/12/chinas-coal-imports-from-mongolia-set-another-record-in-december"
 tags: ["Coal", "Drybulk", "China"]
 images_count: 4
-word_count: 400
+word_count: 404
 source_file: "corpus/03-breakwave/insights/2024/2024-02-13_chinas-coal-imports-from-mongolia-set-another-record-in-december.html"
 ---
 

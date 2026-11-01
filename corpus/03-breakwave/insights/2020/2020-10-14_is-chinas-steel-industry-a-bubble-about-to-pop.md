@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/13/is-chinas-steel-industry-a-bubble-about-to-pop"
 tags: ["Shipping", "Dry Bulk", "Steel", "China"]
 images_count: 4
-word_count: 1231
+word_count: 1235
 source_file: "corpus/03-breakwave/insights/2020/2020-10-14_is-chinas-steel-industry-a-bubble-about-to-pop.html"
 ---
 
@@ -58,7 +58,7 @@ The fact of the matter is that steel mills in China are struggling, and such a l
 
 Add to the above the potential for high coking coal prices given the ongoing dispute between China and Australia, (Australia is a major supplier of coking coal to Chinese steel mills) and a storm is brewing for an industry that is so vital for shipping.
 
-All of the above leaves once again the future growth of China’s steel industry into question. But this is not the first time and most likely won’t be the last. The probabilities of overcoming such obstacles and post new highs in terms of apparent demand have been stacked against China for years now, and such a trend might not be about to change anytime soon. As[BHP more recently stated](https://www.bhp.com/media-and-insights/prospects/2020/08/bhps-economic-and-commodity-outlook/#chineseeconomicgrowth):
+All of the above leaves once again the future growth of China’s steel industry into question. But this is not the first time and most likely won’t be the last. The probabilities of overcoming such obstacles and post new highs in terms of apparent demand have been stacked against China for years now, and such a trend might not be about to change anytime soon. As [BHP more recently stated](https://www.bhp.com/media-and-insights/prospects/2020/08/bhps-economic-and-commodity-outlook/#chineseeconomicgrowth):
 
 Betting against China’s steel industry has been a loosing proposition for many years. Old habits die hard, and steel is such a significant part of China’s economy that there might be more years of solid growth still ahead of us.
 

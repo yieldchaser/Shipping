@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/3/the-big-picture-supramax-market"
 tags: ["Supramax", "Dry Bulk"]
 images_count: 5
-word_count: 1238
+word_count: 1243
 source_file: "corpus/03-breakwave/insights/2021/2021-06-04_the-big-picture-supramax-market.html"
 ---
 
@@ -28,7 +28,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-06-04_the-big-picture-supra
 
 The Supramax market has gone from strength to strength so far this year, with these vessels now earning a premium over all of the other designs assessed by the Baltic Exchange. Since the start of the year, freight rates for these ships have surged by 138%to over $27,000 per day. This is the greatest YTD percentage gain of all of the dry asset classes, and while these ships often outperform Capes in weak markets, this kind of premium while the wider market is so strong is almost unheard of. Over the last few weeks, the Baltic’s assessed 58k dwt ship has also clawed back a premium to the 38k dwt Handy, after trading at near-parity last year.
 
-![Bmr 1 6.3](assets/2021-06-04_the-big-picture-supramax-market_img_bmr163_dcdac14a1202.png)
+![Bmr 1 6.3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-04_the-big-picture-supramax-market_img_bmr163_dcdac14a1202.png)
 
 > **Figure 1: Bmr 1 6.3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-04_the-big-picture-supramax-market_img_bmr163_dcdac14a1202.png)
@@ -37,7 +37,7 @@ The Supramax market has gone from strength to strength so far this year, with th
 
 Naturally, underlying the surge in freight has been a jump in raw material trade. Total dry bulk shipments on geared vessels hit a record 155.7m tonnes last month, an improvement of 4% MoM and 16% YoY, according to our cargo tracking, which excludes cabotage trade. Trade on ships in our Supramax group category (see p.15) specifically grew by 5% MoM and 17% YoY to over 102m tonnes in May. Within this increase, there are a few specific commodities worth mentioning. We have covered the boost in steel trade and subsequent growth in long-haul employment on these ships extensively over the last few weeks, but some of the less glamorous commodities are also in high demand.
 
-![Volumes of Aggregates on Supras](assets/2021-06-04_the-big-picture-supramax-market_img_bmr263_2ceb40b9fb1d.png)
+![Volumes of Aggregates on Supras](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-04_the-big-picture-supramax-market_img_bmr263_2ceb40b9fb1d.png)
 
 > **Figure 2: Volumes of Aggregates on Supras**  
 > *Volumes of aggregates on Supras, another relatively low-value commodity group, have also made gains. Some market share has been lost to the bigger ships, given that stem sizes for this type of good can be upped relatively easily (seeThe Big Pictureon 20 May), but liftings grew by 11% YoY in the last five months to almost 30m tonnes, underpinned again by growth from developing regions.*  
@@ -51,7 +51,7 @@ In absolute terms, the agribulks have also been a major driver of growth in tonn
 
 Wheat exports from Australia, for example, have also surged so far this year, with volumes on Supras hitting a record 1.5m tonnes in April. YTD, wheat liftings on these ships are up by 170% YoY at 5.7m tonnes. (113 shipments), and have mostly headed to buyers in Southeast Asia. This is in part driven by favourable crop conditions, but also a lack of drought in East Australia, which in the past few years has restricted total volumes available for export. Meanwhile, Australian Barley exports, which were hammered by Chinese tariffs last year, have now recovered back to 2018 levels as Saudi Arabia, Vietnam and Thailand emerge as buyers of this crop.
 
-![Bmr 3 6.3](assets/2021-06-04_the-big-picture-supramax-market_img_bmr363_ff4453cb5d9e.png)
+![Bmr 3 6.3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-04_the-big-picture-supramax-market_img_bmr363_ff4453cb5d9e.png)
 
 > **Figure 3: Bmr 3 6.3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-04_the-big-picture-supramax-market_img_bmr363_ff4453cb5d9e.png)
@@ -62,14 +62,14 @@ As metal prices surge across the board, heightened demand for their raw ores and
 
 Indian iron ore exports on Supras have boomed, which is partly down to lower domestic demand there, but we’ve also recorded an uptick from other producers such as Liberia and Norway, and from distribution hubs such as Bahrain.
 
-![Bmr 4 6.3](assets/2021-06-04_the-big-picture-supramax-market_img_bmr463_b8a279843ec3.png)
+![Bmr 4 6.3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-04_the-big-picture-supramax-market_img_bmr463_b8a279843ec3.png)
 
 > **Figure 4: Bmr 4 6.3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-04_the-big-picture-supramax-market_img_bmr463_b8a279843ec3.png)
 
 There are plenty of other positive growth stories across the smaller commodities, but the bottom line is that the geared fleet is well placed to supply re-opening economies with the wide variety of raw materials needed to get growth back on track. This is also evident in rapidly rising vessel speeds, which indicate that spare capacity is being squeezed out of the fleet where it can be.
 
-![Bmr 5 6.3](assets/2021-06-04_the-big-picture-supramax-market_img_bmr563_f8c76b0bd92d.png)
+![Bmr 5 6.3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-04_the-big-picture-supramax-market_img_bmr563_f8c76b0bd92d.png)
 
 > **Figure 5: Bmr 5 6.3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-04_the-big-picture-supramax-market_img_bmr563_f8c76b0bd92d.png)

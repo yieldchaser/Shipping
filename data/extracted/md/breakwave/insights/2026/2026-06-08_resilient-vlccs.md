@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/6/8/resilient-vlccs"
 tags: ["Tankers", "Shipping", "Crude"]
 images_count: 2
-word_count: 775
+word_count: 777
 source_file: "corpus/03-breakwave/insights/2026/2026-06-08_resilient-vlccs.html"
 ---
 

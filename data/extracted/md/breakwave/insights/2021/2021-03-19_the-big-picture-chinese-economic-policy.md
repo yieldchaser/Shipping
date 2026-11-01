@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/18/the-big-picture-chinese-economic-policy"
 tags: ["China", "Economics", "Global Economy"]
 images_count: 3
-word_count: 1379
+word_count: 1382
 source_file: "corpus/03-breakwave/insights/2021/2021-03-19_the-big-picture-chinese-economic-policy.html"
 ---
 
@@ -30,7 +30,7 @@ Five-Year Plans (FYPs) are not an exact blueprint for how China’s economy will
 
 Policy changes in this particular economy are especially relevant to the dry market, given China’s enormous (and growing) share of dry bulk employment. As we have written previously, Chinese imports accounted for around 46% of total bulk carrier demand in 2020, up from about 36% in 2015. In this calculation we account for durations of all voyages completed, including time spent ballasting. For the Capes, this figure is significantly higher: the country accounted for two-thirds of demand last year, up from 54% in 2015. Across all sectors, this share hit record highs in Q3 2020. With industrial activity around the world still subdued with the pandemic, China was firmly in the driving seat in terms of global raw material demand.
 
-![Nick 1](assets/2021-03-19_the-big-picture-chinese-economic-policy_img_nick1_73e07cee538a.png)
+![Nick 1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-19_the-big-picture-chinese-economic-policy_img_nick1_73e07cee538a.png)
 
 > **Figure 1: Nick 1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-19_the-big-picture-chinese-economic-policy_img_nick1_73e07cee538a.png)
@@ -41,7 +41,7 @@ Absent from the most recent FYP was an explicit goal for GDP growth over the nex
 
 This time, officials will only set GDP targets annually, giving them more flexibility to adapt to macroeconomic trends. The FYP has also sketched out how GDP growth should be split by sector. Manufacturing, a key driver of raw material requirements has fallen as a share of GDP since 2015, being squeezed by a rising portion of growth driven by the service industry. Services have helped to keep growth rates high, but the increased weight of industries such as finance and technology have also increased the levels of economic and political risk in the economy.
 
-![Nick 2](assets/2021-03-19_the-big-picture-chinese-economic-policy_img_nick2_3afd9fb77ad4.png)
+![Nick 2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-19_the-big-picture-chinese-economic-policy_img_nick2_3afd9fb77ad4.png)
 
 > **Figure 2: Nick 2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-19_the-big-picture-chinese-economic-policy_img_nick2_3afd9fb77ad4.png)
@@ -68,7 +68,7 @@ Property, another key market for Chinese steel, is on a similar trajectory. Pled
 
 Authorities have repeatedly stated their aims to limit speculation on housing and have tightened their grip on mortgage and development lending.
 
-![Nick 3](assets/2021-03-19_the-big-picture-chinese-economic-policy_img_nick3_5a5db6bef8f7.png)
+![Nick 3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-19_the-big-picture-chinese-economic-policy_img_nick3_5a5db6bef8f7.png)
 
 > **Figure 3: Nick 3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-19_the-big-picture-chinese-economic-policy_img_nick3_5a5db6bef8f7.png)

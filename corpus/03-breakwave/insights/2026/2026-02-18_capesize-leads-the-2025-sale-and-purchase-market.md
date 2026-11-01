@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/18/capesize-leads-the-2025-sale-and-purchase-market"
 tags: ["Capesize", "Shipping", "Markets"]
 images_count: 5
-word_count: 1442
+word_count: 1447
 source_file: "corpus/03-breakwave/insights/2026/2026-02-18_capesize-leads-the-2025-sale-and-purchase-market.html"
 ---
 

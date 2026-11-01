@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/26/china-economy-2021-how-is-the-world-second-largest-economy-really-doing"
 tags: ["China", "Economy"]
 images_count: 11
-word_count: 2041
+word_count: 2052
 source_file: "corpus/03-breakwave/insights/2021/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/25/crude-tanker-rates-below-2023-levels"
 tags: ["Shipping", "Crude Oil", "Tankers"]
 images_count: 5
-word_count: 1252
+word_count: 1257
 source_file: "corpus/03-breakwave/insights/2024/2024-07-25_crude-tanker-rates-below-2023-levels.html"
 ---
 

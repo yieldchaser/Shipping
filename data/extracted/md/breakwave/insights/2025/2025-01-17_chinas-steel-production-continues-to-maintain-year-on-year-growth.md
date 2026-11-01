@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/17/chinas-steel-production-continues-to-maintain-year-on-year-growth"
 tags: ["China", "Drybulk", "Ironore"]
 images_count: 2
-word_count: 317
+word_count: 319
 source_file: "corpus/03-breakwave/insights/2025/2025-01-17_chinas-steel-production-continues-to-maintain-year-on-year-growth.html"
 ---
 

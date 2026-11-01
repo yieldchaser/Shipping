@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/20/breakwave-weekend-read-4cn8n"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 13
-word_count: 1445
+word_count: 1458
 source_file: "corpus/03-breakwave/insights/2024/2024-10-12_breakwave-weekend-read-4cn8n.html"
 ---
 
@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-10-12_breakwave-weekend-rea
 ## Welcome Tobreakwave Advisorsweekend Read
 
 As we conclude the workweek and head into the weekend, take a moment to review the key articles from this week, including those you've highlighted.[Ηeadwinds for most commodities](https://www.breakwaveadvisors.com/insights/2024/10/9/eadwinds-for-most-commodities),[The Strait of Hormuz, a critical transit point for global oil supplies](https://www.breakwaveadvisors.com/insights/2024/10/9/the-strait-of-hormuz-a-critical-transit-point-for-global-oil-supplies),[Chinese Stimulus](https://www.breakwaveadvisors.com/insights/2024/10/8/chinese-stimulus),[The Big Picture: Australian coal exports](https://www.breakwaveadvisors.com/insights/2024/10/11/5g6huiyoj4tv3nu87bh0muhzpbk4mo)
-and more.
+ and more.
 
 ## Breakwave Tanker Report
 

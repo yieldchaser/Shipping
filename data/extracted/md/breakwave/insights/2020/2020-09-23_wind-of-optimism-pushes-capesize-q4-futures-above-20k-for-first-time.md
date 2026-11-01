@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/9/23/wind-of-optimism-pushes-capesize-q4-futures-above-20k-for-first-time"
 tags: ["Capesize", "Dry Bulk", "China"]
 images_count: 3
-word_count: 882
+word_count: 885
 source_file: "corpus/03-breakwave/insights/2020/2020-09-23_wind-of-optimism-pushes-capesize-q4-futures-above-20k-for-first-time.html"
 ---
 

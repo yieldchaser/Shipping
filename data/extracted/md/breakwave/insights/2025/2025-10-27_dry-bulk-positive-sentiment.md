@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/27/dry-bulk-positive-sentiment"
 tags: ["China", "Commodities", "Drybulk"]
 images_count: 1
-word_count: 1097
+word_count: 1098
 source_file: "corpus/03-breakwave/insights/2025/2025-10-27_dry-bulk-positive-sentiment.html"
 ---
 

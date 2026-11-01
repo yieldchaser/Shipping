@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/24/all-segments-remain-in-the-red"
 tags: ["Shipping", "Drybulk", "Economy"]
 images_count: 2
-word_count: 1074
+word_count: 1076
 source_file: "corpus/03-breakwave/insights/2024/2024-11-25_all-segments-remain-in-the-red.html"
 ---
 

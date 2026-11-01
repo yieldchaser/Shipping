@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/11/19/iron-ore-under-pressure-amid-recovering-production-and-softening-demand"
 tags: ["Iron Ore", "Global", "China", "Imports"]
 images_count: 4
-word_count: 1115
+word_count: 1119
 source_file: "corpus/03-breakwave/insights/2021/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand.html"
 ---
 

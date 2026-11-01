@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/8/powering-ahead"
 tags: ["Drybulk", "Shipping", "Posidonia2024"]
 images_count: 2
-word_count: 984
+word_count: 986
 source_file: "corpus/03-breakwave/insights/2024/2024-06-10_powering-ahead.html"
 ---
 

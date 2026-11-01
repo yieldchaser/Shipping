@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/7/24/chinese-steel-export-peak-thesis-so-far-validated"
 images_count: 1
-word_count: 377
+word_count: 378
 source_file: "corpus/03-breakwave/insights/2023/2023-07-24_chinese-steel-export-peak-thesis-so-far-validated.html"
 ---
 

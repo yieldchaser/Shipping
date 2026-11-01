@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/17/global-economy-appears-to-be-stabilizing-in-early-2024"
 tags: ["Drybulk", "Shipping", "Economy"]
 images_count: 1
-word_count: 859
+word_count: 860
 source_file: "corpus/03-breakwave/insights/2024/2024-06-17_global-economy-appears-to-be-stabilizing-in-early-2024.html"
 ---
 

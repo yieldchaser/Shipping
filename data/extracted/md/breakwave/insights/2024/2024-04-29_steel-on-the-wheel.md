@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/29/steel-on-the-wheel"
 tags: ["Shipping", "Economy", "Drybulk"]
 images_count: 7
-word_count: 1781
+word_count: 1788
 source_file: "corpus/03-breakwave/insights/2024/2024-04-29_steel-on-the-wheel.html"
 ---
 

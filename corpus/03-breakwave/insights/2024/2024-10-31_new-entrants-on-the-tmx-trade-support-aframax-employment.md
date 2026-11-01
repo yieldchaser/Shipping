@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/31/new-entrants-on-the-tmx-trade-support-aframax-employment"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 4
-word_count: 1248
+word_count: 1252
 source_file: "corpus/03-breakwave/insights/2024/2024-10-31_new-entrants-on-the-tmx-trade-support-aframax-employment.html"
 ---
 

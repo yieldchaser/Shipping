@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/6/23/irans-crudecondensate-exports-reach-record-high-under-sanctions"
 images_count: 3
-word_count: 1217
+word_count: 1220
 source_file: "corpus/03-breakwave/insights/2023/2023-06-23_irans-crudecondensate-exports-reach-record-high-under-sanctions.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/3/14/mazars-comment-svb-is-not-a-lehman-moment-and-probably-wont-become-one"
 images_count: 2
-word_count: 1219
+word_count: 1221
 source_file: "corpus/03-breakwave/insights/2023/2023-03-14_mazars-comment-svb-is-not-a-lehman-moment-and-probably-wont-become-one.html"
 ---
 

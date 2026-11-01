@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/19/china-drives-increased-bauxite-flows-but-guineas-cutback-could-drag-on-growth"
 tags: ["Capesize", "Drybulk", "Commodities"]
 images_count: 3
-word_count: 781
+word_count: 784
 source_file: "corpus/03-breakwave/insights/2026/2026-05-19_china-drives-increased-bauxite-flows-but-guineas-cutback-could-drag-on-growth.html"
 ---
 

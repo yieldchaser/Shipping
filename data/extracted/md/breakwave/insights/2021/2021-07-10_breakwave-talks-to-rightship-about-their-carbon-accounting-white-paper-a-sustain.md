@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/10/breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustainable-road-map"
 tags: ["Rightship", "Shipping", "Zerocarbon"]
 images_count: 6
-word_count: 909
+word_count: 915
 source_file: "corpus/03-breakwave/insights/2021/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-07-10_breakwave-talks-to-ri
 
 *By Thanos Sofios*
 
-![Leading Maritime Risk and Due Diligence Firm Rightship Has Been](assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_rightship_a64f85dd57c6.jpg)
+![Leading Maritime Risk and Due Diligence Firm Rightship Has Been](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_rightship_a64f85dd57c6.jpg)
 
 > **Figure 1: Leading Maritime Risk and Due Diligence Firm Rightship Has Been**  
 > *Leading maritime risk and due diligence firm RightShip has been looking closely at the tools required for the industry to meet IMO emissions reductions targets. It recently completed research into the potential impact of Carbon Accounting. The many insights can be found in the company’s white paper:A Sustainable Road Map.*  
@@ -44,17 +44,17 @@ RightShip established its Carbon Accounting tool in 2016, which enables customer
 
 Carbon Accounting insights include Cargo and voyage EEOI spread, emissions per cargo type, goal tracker, supplier comparisons, sophisticated reporting and goal setting.
 
-![A1.jpg](assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a1jpg_409eb9ee54a4.png)
+![A1.jpg](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a1jpg_409eb9ee54a4.png)
 
 > **Figure 2: A1.jpg**  
 > **Interactive Data & Source:** [Explore Rightship](https://explore.rightship.com/A_Sustainable_Roadmap) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a1jpg_409eb9ee54a4.png)
 
-![A2](assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a2_2c1ef9810170.png)
+![A2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a2_2c1ef9810170.png)
 
 > **Figure 3: A2**  
 > **Interactive Data & Source:** [Explore Rightship](https://explore.rightship.com/A_Sustainable_Roadmap) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a2_2c1ef9810170.png)
 
-![A3](assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a3_b918a23586ad.png)
+![A3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a3_b918a23586ad.png)
 
 > **Figure 4: A3**  
 > **Interactive Data & Source:** [Explore Rightship](https://explore.rightship.com/A_Sustainable_Roadmap) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a3_b918a23586ad.png)
@@ -63,12 +63,12 @@ Within the white paper, RightShip also considers world events and their impact o
 
 A key component of the white paper is a case study from RightShip customer Ixom Operations Pty Ltd, which highlights the exploration of two of the company’s trade lanes operating from Asia, Australia and New Zealand. Through trade lane efficiency analysis, it was found that a great deal of efficiency could be achieved by combining the routes for maximum impact.
 
-![A4](assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a4_12617c81d57b.png)
+![A4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a4_12617c81d57b.png)
 
 > **Figure 5: A4**  
 > **Interactive Data & Source:** [Explore Rightship](https://explore.rightship.com/A_Sustainable_Roadmap) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a4_12617c81d57b.png)
 
-![Download Rightship’s White Papera Sustainable Road Map](assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a5_63465fd11979.png)
+![Download Rightship’s White Papera Sustainable Road Map](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a5_63465fd11979.png)
 
 > **Figure 6: Download Rightship’s White Papera Sustainable Road Map**  
 > *Download RightShip’s white paperA Sustainable Road Map*  

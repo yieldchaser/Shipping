@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/18/a-new-year-same-old-story"
 tags: ["China", "Global Economy"]
 images_count: 2
-word_count: 574
+word_count: 576
 source_file: "corpus/03-breakwave/insights/2021/2021-01-18_a-new-year-same-old-story.html"
 ---
 
@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-01-18_a-new-year-same-old-s
 
 ---
 
-![By Ulf Bergman](assets/2021-01-18_a-new-year-same-old-story_img_image-asset_54014a3fb1ad.jpeg)
+![By Ulf Bergman](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-18_a-new-year-same-old-story_img_image-asset_54014a3fb1ad.jpeg)
 
 > **Figure 1: By Ulf Bergman**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-18_a-new-year-same-old-story_img_image-asset_54014a3fb1ad.jpeg)
@@ -29,7 +29,7 @@ Only a few weeks into the new year and it is already looking extraordinarily sim
 
 The data for the final quarter of last year also pointed towards a strong economy with continued momentum. The growth levels are back at pre-pandemic levels, exhibiting an almost V-shaped recovery. The published fourth quarter and December GDP data were, like the full year growth, stronger than expected and the December industrial output surged by 7.3 percent compared to the previous year.
 
-![Ulf 210](assets/2021-01-18_a-new-year-same-old-story_img_ulf210_61a818d0cb5c.png)
+![Ulf 210](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-18_a-new-year-same-old-story_img_ulf210_61a818d0cb5c.png)
 
 > **Figure 2: Ulf 210**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-18_a-new-year-same-old-story_img_ulf210_61a818d0cb5c.png)

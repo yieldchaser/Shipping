@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/28/a-recovery-for-the-ukrainian-grains-trade"
 images_count: 2
-word_count: 733
+word_count: 735
 source_file: "corpus/03-breakwave/insights/2022/2022-07-28_a-recovery-for-the-ukrainian-grains-trade.html"
 ---
 

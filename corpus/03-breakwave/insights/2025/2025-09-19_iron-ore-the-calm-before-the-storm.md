@@ -49,9 +49,9 @@ History shows iron ore doesn’t stay quiet forever. A few things could quickly 
 
 ### What This Means for Different Players
 
-- **Steelmakers**benefit the most right now. Stable prices make it easier to plan and protect profit margins.
-- **Miners**are more exposed. With fewer price spikes, their profits depend more on efficiency and keeping costs low.
-- **Traders and investors**have less to do. The market isn’t offering many short-term opportunities, so the focus shifts to longer-term trends and smaller pricing differences like freight spreads or ore quality.
+- **Steelmakers** benefit the most right now. Stable prices make it easier to plan and protect profit margins.
+- **Miners** are more exposed. With fewer price spikes, their profits depend more on efficiency and keeping costs low.
+- **Traders and investors** have less to do. The market isn’t offering many short-term opportunities, so the focus shifts to longer-term trends and smaller pricing differences like freight spreads or ore quality.
 
 Eventually, iron ore may look boring at the moment, but that calm could be misleading. Stability is being engineered by China’s centralized buying and steady supplies from major exporters. If policy, weather, or trade flows shift, today’s quiet market could turn turbulent very quickly. For steelmakers, that calm is a gift. For miners and traders, it’s a warning to stay sharp.
 

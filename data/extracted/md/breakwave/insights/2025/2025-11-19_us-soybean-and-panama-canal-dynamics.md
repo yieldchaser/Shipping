@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/19/us-soybean-and-panama-canal-dynamics"
 tags: ["Drybulk", "Shipping", "Economy"]
 images_count: 5
-word_count: 1367
+word_count: 1372
 source_file: "corpus/03-breakwave/insights/2025/2025-11-19_us-soybean-and-panama-canal-dynamics.html"
 ---
 

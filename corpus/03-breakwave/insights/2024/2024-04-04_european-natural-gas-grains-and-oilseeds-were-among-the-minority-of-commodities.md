@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/4/european-natural-gas-grains-and-oilseeds-were-among-the-minority-of-commodities-that-recorded-declines"
 tags: ["Markets", "Shipping", "Commodities"]
 images_count: 1
-word_count: 1347
+word_count: 1348
 source_file: "corpus/03-breakwave/insights/2024/2024-04-04_european-natural-gas-grains-and-oilseeds-were-among-the-minority-of-commodities.html"
 ---
 

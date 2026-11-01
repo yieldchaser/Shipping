@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/20/world-remains-hungry-for-iron-ore"
 tags: ["Dry Bulk", "Commodities"]
 images_count: 2
-word_count: 602
+word_count: 604
 source_file: "corpus/03-breakwave/insights/2021/2021-06-21_world-remains-hungry-for-iron-ore.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-06-21_world-remains-hungry-
 
 Iron ore consumption has continued to fare very well both in and outside of China, as steel output has remained robust. The most recent data from China shows daily crude steel output at large and medium-sized mills averaged 2.34 million tons during June 1 - June 10. This is up by 2% from late May and is up year-on-year by 11%. China remains the world's largest producer of steel and largest consumer of iron ore.
 
-![Comm 1 6.20](assets/2021-06-21_world-remains-hungry-for-iron-ore_img_comm1620_177d971944fd.jpg)
+![Comm 1 6.20](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-21_world-remains-hungry-for-iron-ore_img_comm1620_177d971944fd.jpg)
 
 > **Figure 1: Comm 1 6.20**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-21_world-remains-hungry-for-iron-ore_img_comm1620_177d971944fd.jpg)
@@ -33,7 +33,7 @@ As we have long been stressing in our Weekly Dry Bulk Reports and Weekly China R
 
 In addition to steel production in China continuing to surge and most recently growing year-on-year by 11%, of note is that steel output in other major producing nations has also stayed strong. May production data is still pending, but of note is that April's data showed significant growth. Crude steel output in India totaled approximately 8.3 million tons, which marked year-on-year growth of 165%. Crude steel output in the Middle East/Africa totaled 4.8 million tons, which marked year-on-year growth of 52%. Crude steel output in the United States totaled 6.9 million tons, which marked year-on-year growth of 39%. Crude steel output in Russia totaled 6.5 million tons, which marked year-on-year growth of 38%. Crude steel output in the European Union totaled 12.9 million tons, which marked year-on-year growth of 20%. Crude steel output in Japan totaled 7.8 million tons, which marked year-on-year growth of 18%.
 
-![Comm2 6.20](assets/2021-06-21_world-remains-hungry-for-iron-ore_img_comm2620_3c4d5649ce2a.jpg)
+![Comm2 6.20](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-21_world-remains-hungry-for-iron-ore_img_comm2620_3c4d5649ce2a.jpg)
 
 > **Figure 2: Comm2 6.20**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-21_world-remains-hungry-for-iron-ore_img_comm2620_3c4d5649ce2a.jpg)

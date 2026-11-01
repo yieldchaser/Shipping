@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/8/16/coal-india-continues-to-destock-its-stockpiles"
 tags: ["India", "Coal", "Shipping"]
 images_count: 2
-word_count: 271
+word_count: 273
 source_file: "corpus/03-breakwave/insights/2023/2023-08-16_coal-india-continues-to-destock-its-stockpiles.html"
 ---
 

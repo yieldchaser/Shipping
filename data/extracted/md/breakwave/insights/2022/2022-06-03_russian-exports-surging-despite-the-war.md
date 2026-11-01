@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/6/3/russian-exports-surging-despite-the-war"
 images_count: 5
-word_count: 1317
+word_count: 1322
 source_file: "corpus/03-breakwave/insights/2022/2022-06-03_russian-exports-surging-despite-the-war.html"
 ---
 

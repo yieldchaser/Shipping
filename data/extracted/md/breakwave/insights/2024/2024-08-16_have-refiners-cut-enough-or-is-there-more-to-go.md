@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/16/have-refiners-cut-enough-or-is-there-more-to-go"
 tags: ["Shipping", "Crude Oil", "Tankers"]
 images_count: 5
-word_count: 1130
+word_count: 1135
 source_file: "corpus/03-breakwave/insights/2024/2024-08-16_have-refiners-cut-enough-or-is-there-more-to-go.html"
 ---
 

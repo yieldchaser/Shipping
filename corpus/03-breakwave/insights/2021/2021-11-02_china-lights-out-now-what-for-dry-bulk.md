@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/11/2/china-lights-out-now-what-for-dry-bulk"
 tags: ["China", "Capesize", "Coal", "Energy"]
 images_count: 4
-word_count: 1025
+word_count: 1029
 source_file: "corpus/03-breakwave/insights/2021/2021-11-02_china-lights-out-now-what-for-dry-bulk.html"
 ---
 

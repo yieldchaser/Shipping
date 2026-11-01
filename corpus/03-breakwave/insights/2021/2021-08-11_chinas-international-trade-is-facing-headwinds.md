@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/10/chinas-international-trade-is-facing-headwinds"
 tags: ["Shipping", "Coal", "China"]
 images_count: 4
-word_count: 1009
+word_count: 1013
 source_file: "corpus/03-breakwave/insights/2021/2021-08-11_chinas-international-trade-is-facing-headwinds.html"
 ---
 

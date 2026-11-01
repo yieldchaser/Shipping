@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/9/1/china-buying-even-more-russia-coal"
 images_count: 3
-word_count: 410
+word_count: 413
 source_file: "corpus/03-breakwave/insights/2022/2022-09-01_china-buying-even-more-russia-coal.html"
 ---
 

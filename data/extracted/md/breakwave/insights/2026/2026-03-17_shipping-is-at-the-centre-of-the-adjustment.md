@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/17/shipping-is-at-the-centre-of-the-adjustment"
 tags: ["Shipping", "Markets", "Geopolitics"]
 images_count: 1
-word_count: 680
+word_count: 681
 source_file: "corpus/03-breakwave/insights/2026/2026-03-17_shipping-is-at-the-centre-of-the-adjustment.html"
 ---
 

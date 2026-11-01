@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/11/not-quite-fimbulwinter-but-more-cold-weather-on-the-way"
 tags: ["Coal"]
 images_count: 2
-word_count: 513
+word_count: 515
 source_file: "corpus/03-breakwave/insights/2021/2021-01-11_not-quite-fimbulwinter-but-more-cold-weather-on-the-way.html"
 ---
 

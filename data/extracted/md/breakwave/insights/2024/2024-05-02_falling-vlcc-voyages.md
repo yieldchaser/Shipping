@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/2/falling-vlcc-voyages"
 tags: ["Shipping", "Crude Oil", "Tankers"]
 images_count: 5
-word_count: 1221
+word_count: 1226
 source_file: "corpus/03-breakwave/insights/2024/2024-05-02_falling-vlcc-voyages.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/18/growth-in-global-grain-trade-still-expected"
 tags: ["Markets", "Drybulk", "Shipping"]
 images_count: 1
-word_count: 290
+word_count: 291
 source_file: "corpus/03-breakwave/insights/2025/2025-07-18_growth-in-global-grain-trade-still-expected.html"
 ---
 

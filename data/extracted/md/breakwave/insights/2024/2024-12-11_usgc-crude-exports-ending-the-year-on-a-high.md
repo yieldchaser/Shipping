@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/12/11/usgc-crude-exports-ending-the-year-on-a-high"
 tags: ["Shipping", "Markets", "Crude"]
 images_count: 3
-word_count: 913
+word_count: 916
 source_file: "corpus/03-breakwave/insights/2024/2024-12-11_usgc-crude-exports-ending-the-year-on-a-high.html"
 ---
 

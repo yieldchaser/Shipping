@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/23/vlcc-spot-rates-softer-but-far-from-soft"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 1
-word_count: 1260
+word_count: 1261
 source_file: "corpus/03-breakwave/insights/2026/2026-10-23_vlcc-spot-rates-softer-but-far-from-soft.html"
 ---
 
@@ -44,7 +44,7 @@ Asian buyers can substitute shorter-haul Middle East crude for Atlantic barrels,
 
 The large volume of crude on the water destined for Asia reduces the urgency for Asian buyers to pay almost any delivered price to secure additional barrels. The daily average of crude on the water towards Asia is 933m bbls so far this month, according to Vortexa. This is 45m bbls higher than in February before the Iran war began. So far this month, crude on the water from the Middle East to Asia is at the highest level since July, while crude on the water from the Atlantic to Asia is at the highest level since June.
 
-![40fb Image 0 1792683586332](assets/2026-10-23_vlcc-spot-rates-softer-but-far-from-soft_img_40fb-image-0-1792683586332_ac79f6734297.png)
+![40fb Image 0 1792683586332](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-23_vlcc-spot-rates-softer-but-far-from-soft_img_40fb-image-0-1792683586332_ac79f6734297.png)
 
 > **Figure 1: 40fb Image 0 1792683586332**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-23_vlcc-spot-rates-softer-but-far-from-soft_img_40fb-image-0-1792683586332_ac79f6734297.png)

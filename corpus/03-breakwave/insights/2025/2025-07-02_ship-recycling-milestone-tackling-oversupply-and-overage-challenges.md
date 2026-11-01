@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/2/ship-recycling-milestone-tackling-oversupply-and-overage-challenges"
 tags: ["Shipping", "Markets", "Oversupply"]
 images_count: 3
-word_count: 562
+word_count: 565
 source_file: "corpus/03-breakwave/insights/2025/2025-07-02_ship-recycling-milestone-tackling-oversupply-and-overage-challenges.html"
 ---
 

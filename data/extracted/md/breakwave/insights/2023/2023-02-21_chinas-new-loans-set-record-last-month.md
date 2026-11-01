@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/2/21/chinas-new-loans-set-record-last-month"
 images_count: 2
-word_count: 338
+word_count: 340
 source_file: "corpus/03-breakwave/insights/2023/2023-02-21_chinas-new-loans-set-record-last-month.html"
 ---
 

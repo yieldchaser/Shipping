@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/17/commodity-markets-volatility"
 tags: ["Commodities", "Markets", "Shipping"]
 images_count: 1
-word_count: 1366
+word_count: 1367
 source_file: "corpus/03-breakwave/insights/2025/2025-02-17_commodity-markets-volatility.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/26/the-war-in-iran-will-have-knock-on-effects-for-the-steel-markets-in-the-upcoming-months"
 tags: ["China", "Ironore", "Shipping"]
 images_count: 3
-word_count: 971
+word_count: 974
 source_file: "corpus/03-breakwave/insights/2026/2026-03-26_the-war-in-iran-will-have-knock-on-effects-for-the-steel-markets-in-the-upcoming.html"
 ---
 

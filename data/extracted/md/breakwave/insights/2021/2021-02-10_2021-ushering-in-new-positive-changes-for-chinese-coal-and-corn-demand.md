@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/8/2021-ushering-in-new-positive-changes-for-chinese-coal-and-corn-demand"
 tags: ["Coal", "Corn", "China"]
 images_count: 3
-word_count: 866
+word_count: 869
 source_file: "corpus/03-breakwave/insights/2021/2021-02-10_2021-ushering-in-new-positive-changes-for-chinese-coal-and-corn-demand.html"
 ---
 
@@ -20,18 +20,18 @@ source_file: "corpus/03-breakwave/insights/2021/2021-02-10_2021-ushering-in-new-
 
 ---
 
-By[Jeffrey Landsberg](mailto:jeffrey@commodore-research.com)
+By [Jeffrey Landsberg](mailto:jeffrey@commodore-research.com)
 
 Dry bulk prospects for this year remain promising. While the upcoming Lunar New Year holiday has ushered in a normal cooling in spot cargo demand, China’s overall economy remains very encouraging. In addition, SHIBOR lending rates fell significantly last week. As we discussed in our most recent Weekly China Report, the overnight SHIBOR (Shanghai Interbank Offered Rate) closed last week at 1.91%, which marks a decrease of one hundred and thirty-seven basis points from the previous week. The one-month SHIBOR closed last week at 2.75%, which marks a decrease of eight basis points from the previous week. China’s massive corn purchases seen in recent weeks also remain very encouraging for the dry bulk market looking forward.
 
-![Ship19](assets/2021-02-10_2021-ushering-in-new-positive-changes-for-chinese-coal-and-corn-demand_img_ship19_27f3d0a7611d.jpg)
+![Ship19](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-10_2021-ushering-in-new-positive-changes-for-chinese-coal-and-corn-demand_img_ship19_27f3d0a7611d.jpg)
 
 > **Figure 1: Ship19**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-10_2021-ushering-in-new-positive-changes-for-chinese-coal-and-corn-demand_img_ship19_27f3d0a7611d.jpg)
 
 Also encouraging is that Chinese steel production has remained very strong in recent weeks. Daily crude steel production at large and medium-sized mills averaged 2.18 million tons during January 21 - January 31. This is 2% less than the record 2.22 million ton production average that was seen during the previous ten days, but it is still up year-on-year by 10%. It remains encouraging that China’s steel production stayed robust in January despite last month's surge in global iron ore prices. Chinese steel prices have also remained at very high levels even as a large amount of steel has continued to be produced. The average price of hot rolled coil in China, for example, ended last week at 4,595 yuan/ton. This has marked a week-on-week decline of just 15 yuan and is up year-on-year by 635 yuan (16%). Chinese steel stockpiles have also continued to climb in recent weeks (as in the norm for this time of year), but the stockpile growth is not having any adverse impact on Chinese steel prices and steel production.
 
-![Market Chart 2](assets/2021-02-10_2021-ushering-in-new-positive-changes-for-chinese-coal-and-corn-demand_img_image-asset_93812272bb7f.jpeg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-10_2021-ushering-in-new-positive-changes-for-chinese-coal-and-corn-demand_img_image-asset_93812272bb7f.jpeg)
 
 > **Figure 2: Market Chart 2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-10_2021-ushering-in-new-positive-changes-for-chinese-coal-and-corn-demand_img_image-asset_93812272bb7f.jpeg)
@@ -40,7 +40,7 @@ Also of note in China is that electricity consumption growth remains likely to b
 
 Thermal coal-derived electricity generation is poised to remain China’s primary source of electricity generation. Thermal coal-derived electricity generation contributed to 71% of China’s total electricity production last year. In comparison, it contributed to 72% in 201 as there recently has been almost no shift away from thermal coal consumption in China. Overall, coal has remained a relatively dirty word throughout the world — but, as we have been continuing to stress in our work, it has still remained king in China. Of note is that for years China's central government has been working to increase nuclear power generation as one way to help reduce coal burn, but China's nuclear power goals are still not being met. This is a very significant issue that we continue to examine in our Weekly China Reports.
 
-![Coal Comm](assets/2021-02-10_2021-ushering-in-new-positive-changes-for-chinese-coal-and-corn-demand_img_coalcomm_173e1708d732.jpg)
+![Coal Comm](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-10_2021-ushering-in-new-positive-changes-for-chinese-coal-and-corn-demand_img_coalcomm_173e1708d732.jpg)
 
 > **Figure 3: Coal Comm**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-10_2021-ushering-in-new-positive-changes-for-chinese-coal-and-corn-demand_img_coalcomm_173e1708d732.jpg)

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/31/autumn-in-the-northern-hemisphere-back-to-business"
 tags: ["Shipping", "China"]
 images_count: 7
-word_count: 1099
+word_count: 1106
 source_file: "corpus/03-breakwave/insights/2021/2021-08-31_autumn-in-the-northern-hemisphere-back-to-business.html"
 ---
 

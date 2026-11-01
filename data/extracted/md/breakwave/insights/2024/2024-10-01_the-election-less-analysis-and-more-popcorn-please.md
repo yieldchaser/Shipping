@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/1/the-election-less-analysis-and-more-popcorn-please"
 tags: ["Markets", "Economy", "Macro"]
 images_count: 6
-word_count: 1814
+word_count: 1820
 source_file: "corpus/03-breakwave/insights/2024/2024-10-01_the-election-less-analysis-and-more-popcorn-please.html"
 ---
 
@@ -55,28 +55,28 @@ The reality is, that politics matter but possibly over the longer term, and it i
 > **Figure 3: Market Chart 3**  
 > **Interactive Data & Source:** [Vanderbilt](https://www.vanderbilt.edu/unity/vanderbilt-unity-index/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image009_553d4774e75d.jpg)
 
-One way to possibly see the election is not to guess who will win (it’s currently very near a coin toss) but rather what the political picture as a whole looks like. And the picture is one of extreme division. Vanderbilt University[built](https://www.vanderbilt.edu/unity/vanderbilt-unity-index/)an index in 2021 to look at what political divisions looked like. As one would guess, these run very high.
+One way to possibly see the election is not to guess who will win (it’s currently very near a coin toss) but rather what the political picture as a whole looks like. And the picture is one of extreme division. Vanderbilt University [built](https://www.vanderbilt.edu/unity/vanderbilt-unity-index/) an index in 2021 to look at what political divisions looked like. As one would guess, these run very high.
 
 ![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image010_4f64cd3f6079.jpg)
 
 > **Figure 4: Market Chart 4**  
 > **Interactive Data & Source:** [Weforum](https://www.weforum.org/agenda/2024/07/global-democracy-charts-2024-trends-insights-election/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image010_4f64cd3f6079.jpg)
 
-This is why, over the short term, the World Economic Forum has[decreed](https://www.weforum.org/agenda/2024/07/global-democracy-charts-2024-trends-insights-election/)that misinformation and disinformation, along with social polarisation are two of the three biggest short-term risks (the other is climate change, which is no longer a long-term risk). Americans feel universally “[losing](https://www.pewresearch.org/short-reads/2024/02/12/most-americans-continue-to-say-their-side-in-politics-is-losing-more-often-than-it-is-winning/)” in politics, on either side of the aisle. The picture is one where the world’s biggest economy (and military) is risking its cohesion. So maybe the larger question is whether events will play out for US risk assets to lose their natural primacy over global risk assets.
+This is why, over the short term, the World Economic Forum has [decreed](https://www.weforum.org/agenda/2024/07/global-democracy-charts-2024-trends-insights-election/) that misinformation and disinformation, along with social polarisation are two of the three biggest short-term risks (the other is climate change, which is no longer a long-term risk). Americans feel universally “[losing](https://www.pewresearch.org/short-reads/2024/02/12/most-americans-continue-to-say-their-side-in-politics-is-losing-more-often-than-it-is-winning/)” in politics, on either side of the aisle. The picture is one where the world’s biggest economy (and military) is risking its cohesion. So maybe the larger question is whether events will play out for US risk assets to lose their natural primacy over global risk assets.
 
 ![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image011_35c721c4fde1.jpg)
 
 > **Figure 5: Market Chart 5**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image011_35c721c4fde1.jpg)
 
-Maybe it’s not the politics at all, but the central bank which determines the course of financial markets. Our textbooks certainly suggest as much. However, some experts argue back. Aswath Damodaran, author of many such a textbook,[suggests](assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_fed-up-with-fed-talk-central-banks_c7e8af43139b.html)that the correlation between bond prices and central bank decisions is very low. The Fed can influence things during a crisis, but outside of it, its power is limited. FT’s Martin Sandbu[authored](https://www.ft.com/content/5fdb1180-142e-4b0e-b4ae-b068f2b3cf00?emailId=92722ecf-df9e-4f10-90ee-3e3661377e27&segmentId=38af067e-f67a-09ef-7f9d-cb40b4153a58)a piece in a similar vein. With China slowing possibly precipitously, developed central banks can afford to ignore high service inflation and cut interest rates more aggressively.
+Maybe it’s not the politics at all, but the central bank which determines the course of financial markets. Our textbooks certainly suggest as much. However, some experts argue back. Aswath Damodaran, author of many such a textbook,[suggests](assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_fed-up-with-fed-talk-central-banks_c7e8af43139b.html) that the correlation between bond prices and central bank decisions is very low. The Fed can influence things during a crisis, but outside of it, its power is limited. FT’s Martin Sandbu [authored](https://www.ft.com/content/5fdb1180-142e-4b0e-b4ae-b068f2b3cf00?emailId=92722ecf-df9e-4f10-90ee-3e3661377e27&segmentId=38af067e-f67a-09ef-7f9d-cb40b4153a58)a piece in a similar vein. With China slowing possibly precipitously, developed central banks can afford to ignore high service inflation and cut interest rates more aggressively.
 
 ![Market Chart 6](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image012_bc3c68698fed.jpg)
 
 > **Figure 6: Market Chart 6**  
 > **Interactive Data & Source:** [Papers Ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4965616) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image012_bc3c68698fed.jpg)
 
-But the problem remains: we see the risks, but don’t know the outcomes. What if we knew the future? Even then, a paper argues, there would be precious little we could do about it. A[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4965616)by Victor Haghani and James White suggests that even when traders know exactly what will happen in the future (traders were given past newspapers, with all the events on particular dates, except actual market prices) it’s still extremely difficult to make any money, except if you are experienced enough and lucky enough to know in which events one should “bet big”. So not only would it require foreknowledge of the future, but also luck to assess its impact properly.
+But the problem remains: we see the risks, but don’t know the outcomes. What if we knew the future? Even then, a paper argues, there would be precious little we could do about it. A[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4965616) by Victor Haghani and James White suggests that even when traders know exactly what will happen in the future (traders were given past newspapers, with all the events on particular dates, except actual market prices) it’s still extremely difficult to make any money, except if you are experienced enough and lucky enough to know in which events one should “bet big”. So not only would it require foreknowledge of the future, but also luck to assess its impact properly.
 
 To be sure, all decisions have consequences, but it’s nearly impossible to predict when and how those consequences will play out. It is the confluence of decisions, unique at every time, that creates different and unpredictable outcomes.
 

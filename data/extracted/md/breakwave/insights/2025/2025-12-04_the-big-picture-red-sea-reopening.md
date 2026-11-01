@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/4/the-big-picture-red-sea-reopening"
 tags: ["Tankers", "Crude", "Shipping"]
 images_count: 2
-word_count: 1918
+word_count: 1920
 source_file: "corpus/03-breakwave/insights/2025/2025-12-04_the-big-picture-red-sea-reopening.html"
 ---
 

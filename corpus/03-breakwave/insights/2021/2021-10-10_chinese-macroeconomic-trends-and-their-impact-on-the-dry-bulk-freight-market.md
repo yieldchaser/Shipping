@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/10/chinese-macroeconomic-trends-and-their-impact-on-the-dry-bulk-freight-market"
 tags: ["China", "Economy", "Shipping", "Dry Bulk"]
 images_count: 1
-word_count: 1738
+word_count: 1739
 source_file: "corpus/03-breakwave/insights/2021/2021-10-10_chinese-macroeconomic-trends-and-their-impact-on-the-dry-bulk-freight-market.html"
 ---
 

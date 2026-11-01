@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/19/cyclone-disruptions-hit-australian-iron-ore-exports"
 tags: ["Shipping", "Drybulk", "Markets"]
 images_count: 5
-word_count: 1098
+word_count: 1103
 source_file: "corpus/03-breakwave/insights/2025/2025-02-19_cyclone-disruptions-hit-australian-iron-ore-exports.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-02-19_cyclone-disruptions-h
 ---
 
 **Dry Weekly Market Monitor - Week 08, 2025**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 February 19, 2025
 
 ![Στιγμιότυπο Οθόνης 2025 02 19 143306](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-19_cyclone-disruptions-hit-australian-iron-ore-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b11897c92029.png)

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/21/the-big-picture-all-about-handies"
 tags: ["Handysize", "Supramax", "Panamax", "Capesize"]
 images_count: 5
-word_count: 1270
+word_count: 1275
 source_file: "corpus/03-breakwave/insights/2021/2021-01-22_the-big-picture-all-about-handies.html"
 ---
 

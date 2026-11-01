@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/9/22/more-improvement-in-china"
 images_count: 2
-word_count: 357
+word_count: 359
 source_file: "corpus/03-breakwave/insights/2022/2022-09-22_more-improvement-in-china.html"
 ---
 

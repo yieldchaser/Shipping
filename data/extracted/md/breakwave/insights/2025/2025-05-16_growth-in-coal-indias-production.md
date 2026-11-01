@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/16/growth-in-coal-indias-production"
 tags: ["Coal", "Economy", "Markets"]
 images_count: 2
-word_count: 237
+word_count: 239
 source_file: "corpus/03-breakwave/insights/2025/2025-05-16_growth-in-coal-indias-production.html"
 ---
 

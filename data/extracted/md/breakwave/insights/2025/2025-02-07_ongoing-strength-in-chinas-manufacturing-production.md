@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/7/ongoing-strength-in-chinas-manufacturing-production"
 tags: ["Economy", "Markets", "China"]
 images_count: 6
-word_count: 471
+word_count: 477
 source_file: "corpus/03-breakwave/insights/2025/2025-02-07_ongoing-strength-in-chinas-manufacturing-production.html"
 ---
 

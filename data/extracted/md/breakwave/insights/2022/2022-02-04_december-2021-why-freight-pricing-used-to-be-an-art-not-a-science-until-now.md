@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/2/4/december-2021-why-freight-pricing-used-to-be-an-art-not-a-science-until-now"
 tags: ["Tankers", "Freight", "Price"]
 images_count: 2
-word_count: 1606
+word_count: 1608
 source_file: "corpus/03-breakwave/insights/2022/2022-02-04_december-2021-why-freight-pricing-used-to-be-an-art-not-a-science-until-now.html"
 ---
 

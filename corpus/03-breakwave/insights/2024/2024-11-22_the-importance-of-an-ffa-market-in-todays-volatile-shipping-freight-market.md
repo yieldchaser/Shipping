@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/22/the-importance-of-an-ffa-market-in-todays-volatile-shipping-freight-market"
 tags: ["Markets", "Shipping", "Economy"]
 images_count: 2
-word_count: 3051
+word_count: 3053
 source_file: "corpus/03-breakwave/insights/2024/2024-11-22_the-importance-of-an-ffa-market-in-todays-volatile-shipping-freight-market.html"
 ---
 

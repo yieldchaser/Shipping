@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/30/india-resilient-coal-imports-and-the-new-market-for-australia"
 tags: ["Coal", "India", "Australia", "China"]
 images_count: 3
-word_count: 775
+word_count: 778
 source_file: "corpus/03-breakwave/insights/2021/2021-07-30_india-resilient-coal-imports-and-the-new-market-for-australia.html"
 ---
 

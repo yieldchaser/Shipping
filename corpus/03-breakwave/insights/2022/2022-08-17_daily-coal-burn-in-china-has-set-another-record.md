@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/17/daily-coal-burn-in-china-has-set-another-record"
 images_count: 1
-word_count: 412
+word_count: 413
 source_file: "corpus/03-breakwave/insights/2022/2022-08-17_daily-coal-burn-in-china-has-set-another-record.html"
 ---
 

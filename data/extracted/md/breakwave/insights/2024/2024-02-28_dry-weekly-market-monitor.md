@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/28/dry-weekly-market-monitor"
 tags: ["Drybulk", "Shipping", "Freightrates"]
 images_count: 5
-word_count: 1169
+word_count: 1174
 source_file: "corpus/03-breakwave/insights/2024/2024-02-28_dry-weekly-market-monitor.html"
 ---
 

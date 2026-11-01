@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/30/the-end-of-the-beginning"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 4
-word_count: 1191
+word_count: 1195
 source_file: "corpus/03-breakwave/insights/2025/2025-04-30_the-end-of-the-beginning.html"
 ---
 

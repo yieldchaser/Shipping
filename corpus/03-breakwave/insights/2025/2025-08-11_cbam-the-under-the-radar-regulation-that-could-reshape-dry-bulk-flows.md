@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/11/cbam-the-under-the-radar-regulation-that-could-reshape-dry-bulk-flows"
 tags: ["Drybulk", "Shipping", "Decarbonization"]
 images_count: 1
-word_count: 352
+word_count: 353
 source_file: "corpus/03-breakwave/insights/2025/2025-08-11_cbam-the-under-the-radar-regulation-that-could-reshape-dry-bulk-flows.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-08-11_cbam-the-under-the-ra
 
 EU regulations have become a central theme for dry bulk market participants, with the rollout of EU ETS and FuelEU Maritime already influencing vessel deployment and chartering strategies. But there’s another piece of legislation on the horizon that’s received far less attention—despite its potential to significantly reshape trade flows.
 
-Enter**CBAM (Carbon Border Adjustment Mechanism)**, set to be enforced from 2026. It’s a climate policy tool that effectively places a carbon price on imported goods into the EU, based on the emissions generated during their production. The objective is twofold: discourage carbon leakage and push non-EU exporters toward cleaner industrial processes by aligning their carbon costs with those paid by EU-based producers.
+Enter **CBAM (Carbon Border Adjustment Mechanism)**, set to be enforced from 2026. It’s a climate policy tool that effectively places a carbon price on imported goods into the EU, based on the emissions generated during their production. The objective is twofold: discourage carbon leakage and push non-EU exporters toward cleaner industrial processes by aligning their carbon costs with those paid by EU-based producers.
 
 CBAM will initially apply to imports of:
 

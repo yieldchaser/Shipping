@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/2/big-picture-tankers-in-2025"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 7
-word_count: 2080
+word_count: 2087
 source_file: "corpus/03-breakwave/insights/2024/2024-05-02_big-picture-tankers-in-2025.html"
 ---
 

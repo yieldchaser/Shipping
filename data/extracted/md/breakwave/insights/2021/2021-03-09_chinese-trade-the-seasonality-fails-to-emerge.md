@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/8/chinese-trade-the-seasonality-fails-to-emerge"
 tags: ["China"]
 images_count: 2
-word_count: 817
+word_count: 819
 source_file: "corpus/03-breakwave/insights/2021/2021-03-09_chinese-trade-the-seasonality-fails-to-emerge.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-03-09_chinese-trade-the-sea
 
 *By Ulf Bergman*
 
-![Unsplash Image Kdvafjoqf4m](assets/2021-03-09_chinese-trade-the-seasonality-fails-to-emerge_img_unsplash-image-kdvafjoqf4m_fd895671a043.jpg)
+![Unsplash Image Kdvafjoqf4m](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-09_chinese-trade-the-seasonality-fails-to-emerge_img_unsplash-image-kdvafjoqf4m_fd895671a043.jpg)
 
 > **Figure 1: Unsplash Image Kdvafjoqf4m**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-09_chinese-trade-the-seasonality-fails-to-emerge_img_unsplash-image-kdvafjoqf4m_fd895671a043.jpg)
@@ -31,7 +31,7 @@ The release of Chinese import and export data for the first two months of the ye
 
 The official data for January and February are normally combined to smooth out the impact of the Lunar New Year holiday, which falls at different times during the two months over the years. Due to the holiday, the period is also typically the quiet period in Chinese trade. However, this year the normal off-season sentiment failed to materialise driven by strong domestic and export demand. It is also something that has manifested itself in unseasonally strong rates in the dry bulk shipping sector during the period.
 
-![Source: The General Administration of Customs of the People’s](assets/2021-03-09_chinese-trade-the-seasonality-fails-to-emerge_img_ulf1a_79dfd05538eb.png)
+![Source: The General Administration of Customs of the People’s](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-09_chinese-trade-the-seasonality-fails-to-emerge_img_ulf1a_79dfd05538eb.png)
 
 > **Figure 2: Source: The General Administration of Customs of the People’s**  
 > *Source: The General Administration of Customs of the People’s Republic of China*  

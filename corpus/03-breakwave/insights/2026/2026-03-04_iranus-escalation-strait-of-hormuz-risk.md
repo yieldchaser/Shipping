@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/4/iranus-escalation-strait-of-hormuz-risk"
 tags: ["Tankers", "Geopolitics", "Shipping"]
 images_count: 4
-word_count: 1615
+word_count: 1619
 source_file: "corpus/03-breakwave/insights/2026/2026-03-04_iranus-escalation-strait-of-hormuz-risk.html"
 ---
 

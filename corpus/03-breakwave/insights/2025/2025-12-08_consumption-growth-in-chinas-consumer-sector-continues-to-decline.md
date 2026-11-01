@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/7/consumption-growth-in-chinas-consumer-sector-continues-to-decline"
 tags: ["China", "Markets", "Economy"]
 images_count: 1
-word_count: 189
+word_count: 190
 source_file: "corpus/03-breakwave/insights/2025/2025-12-08_consumption-growth-in-chinas-consumer-sector-continues-to-decline.html"
 ---
 

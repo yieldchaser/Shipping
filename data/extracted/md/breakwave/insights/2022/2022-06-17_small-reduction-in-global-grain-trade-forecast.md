@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/6/17/small-reduction-in-global-grain-trade-forecast"
 images_count: 4
-word_count: 475
+word_count: 479
 source_file: "corpus/03-breakwave/insights/2022/2022-06-17_small-reduction-in-global-grain-trade-forecast.html"
 ---
 

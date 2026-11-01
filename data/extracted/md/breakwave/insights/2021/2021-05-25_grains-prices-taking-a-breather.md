@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/25/grains-prices-taking-a-breather"
 tags: ["Corn"]
 images_count: 4
-word_count: 908
+word_count: 912
 source_file: "corpus/03-breakwave/insights/2021/2021-05-25_grains-prices-taking-a-breather.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-05-25_grains-prices-taking-
 
 *By Ulf Bergman*
 
-![Unsplash Image Joovc9d Jis](assets/2021-05-25_grains-prices-taking-a-breather_img_unsplash-image-joovc9d-jis_5c14dba7e653.jpg)
+![Unsplash Image Joovc9d Jis](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-25_grains-prices-taking-a-breather_img_unsplash-image-joovc9d-jis_5c14dba7e653.jpg)
 
 > **Figure 1: Unsplash Image Joovc9d Jis**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-25_grains-prices-taking-a-breather_img_unsplash-image-joovc9d-jis_5c14dba7e653.jpg)
@@ -31,7 +31,7 @@ In the nine months between the middle of last August and the middle of May this 
 
 ### Chicago Corn Futures – Us Cents per Bushel
 
-![Ulf1 5.25](assets/2021-05-25_grains-prices-taking-a-breather_img_ulf1525_4b8bae13cbda.jpg)
+![Ulf1 5.25](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-25_grains-prices-taking-a-breather_img_ulf1525_4b8bae13cbda.jpg)
 
 > **Figure 2: Ulf1 5.25**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-25_grains-prices-taking-a-breather_img_ulf1525_4b8bae13cbda.jpg)
@@ -42,14 +42,14 @@ Perhaps a bit lost in the excitement over China’s recent buying spree of the c
 
 As Ukraine’s seaborne grain and oilseed exports have grown in recent years, the Chinese market has become increasingly important. According to data from Oceanbolt, Ukraine shipped 17.6 million tonnes to China last year, which was an increase of 113 per cent compared to 2019. A comparison with the preceding years provides even more impressive numbers. In the years prior to the sharp increase in export volumes to China, the destinations for Ukraine’s agricultural commodities were rather diverse without any market being dominant. However, last year and so far this year, grain shipments to China have accounted for approximately a third of the total seaborne exports, as the Asian nation has rebuilt its decimated hog herd.
 
-![Ulf2 5.25](assets/2021-05-25_grains-prices-taking-a-breather_img_ulf2525_30b8066e3459.png)
+![Ulf2 5.25](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-25_grains-prices-taking-a-breather_img_ulf2525_30b8066e3459.png)
 
 > **Figure 3: Ulf2 5.25**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-25_grains-prices-taking-a-breather_img_ulf2525_30b8066e3459.png)
 
 With the increasing flow of seaborne agricultural commodities from Ukraine to China, the nature of the trade has changed. The Panamax segment has become the tonnage of choice for many charterers and has edged out both Supramaxes and Capesizes, which previously handled large portions of the grain cargoes. While the evolution of the market shares may look dramatic, in absolute terms it is more a question of the Panamax segment growing while the volumes shipped on Supramaxes or Capesizes remaining fairly stable.
 
-![Ulf3 5.25](assets/2021-05-25_grains-prices-taking-a-breather_img_ulf3525_61946acae4f8.png)
+![Ulf3 5.25](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-25_grains-prices-taking-a-breather_img_ulf3525_61946acae4f8.png)
 
 > **Figure 4: Ulf3 5.25**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-25_grains-prices-taking-a-breather_img_ulf3525_61946acae4f8.png)

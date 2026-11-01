@@ -50,8 +50,8 @@ source_file: "corpus/03-breakwave/insights/2026/2026-06-18_the-three-things-busi
 
 - For one, we aren’t looking at a final agreement, but**a tentative pre-deal**. The signature in a few days will be followed by another 60 days of negotiation, during which the two parties will have to agree on how to treat Iran’s nuclear material.
 
-- Second, there are major questions surrounding the exact**enforcement mechanisms**for both nuclear parameters and the Strait. Specifically, it remains unknown who will step up to guarantee the Strait, or whether the final signed agreement will effectively hamstring Iran’s military nuclear capabilities.
-- Third, even if it is signed, we don’t yet have a picture of**how oil will flow back to markets**, at what pace and at what costs.
+- Second, there are major questions surrounding the exact **enforcement mechanisms** for both nuclear parameters and the Strait. Specifically, it remains unknown who will step up to guarantee the Strait, or whether the final signed agreement will effectively hamstring Iran’s military nuclear capabilities.
+- Third, even if it is signed, we don’t yet have a picture of **how oil will flow back to markets**, at what pace and at what costs.
 
 **Worst case: The deal collapses.**We must maintain a non-zero probability that the deal collapses.
 

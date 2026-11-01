@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/15/the-big-picture-of-the-dry-bulk-market"
 tags: ["Drybulk", "Shipping", "Commodities"]
 images_count: 1
-word_count: 1071
+word_count: 1072
 source_file: "corpus/03-breakwave/insights/2025/2025-09-15_the-big-picture-of-the-dry-bulk-market.html"
 ---
 

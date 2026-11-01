@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/5/port-congestion-a-shifting-focus"
 tags: ["Ports", "Congestion", "Capesize", "Panamax"]
 images_count: 2
-word_count: 790
+word_count: 792
 source_file: "corpus/03-breakwave/insights/2021/2021-02-08_port-congestion-a-shifting-focus.html"
 ---
 
@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-02-08_port-congestion-a-shi
 
 ---
 
-![By Ulf Bergman](assets/2021-02-08_port-congestion-a-shifting-focus_img_image-asset_8d3486498e9d.jpeg)
+![By Ulf Bergman](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-08_port-congestion-a-shifting-focus_img_image-asset_8d3486498e9d.jpeg)
 
 > **Figure 1: By Ulf Bergman**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-08_port-congestion-a-shifting-focus_img_image-asset_8d3486498e9d.jpeg)
@@ -35,7 +35,7 @@ As noted in a previous Insights contribution, the rising input prices for Chines
 
 While an ease of a ban on Australian coal imports would alleviate the human cost for the crews onboard the affected vessels and reduce the number of large dry bulk carriers waiting in Chinese waters, congestion is likely to be a theme for the months ahead. Last year’s deal between China and Indonesia, aiming at increasing Chinese imports by 200 million tonnes per year, have already resulted in increasing congestion for panamaxes both in Indonesian and Chinese ports as the trade have increased considerably.
 
-![Market Chart 2](assets/2021-02-08_port-congestion-a-shifting-focus_img_image-asset_0a14b290097c.jpeg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-08_port-congestion-a-shifting-focus_img_image-asset_0a14b290097c.jpeg)
 
 > **Figure 2: Market Chart 2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-08_port-congestion-a-shifting-focus_img_image-asset_0a14b290097c.jpeg)

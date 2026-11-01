@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/9/13/signal-dry-bulk-weekly-report"
 images_count: 5
-word_count: 1226
+word_count: 1231
 source_file: "corpus/03-breakwave/insights/2023/2023-09-13_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -29,7 +29,7 @@ Brazilian iron ore export volumes increased in August, leading to a boost in Cap
 > **Interactive Data & Source:** [Signal Ocean Dynamic Timeseries](https://go.signalocean.com/e/983831/ic-timeseries-dry-downloadable/2pcmrx/345557934?h=zKu4Vss9Wc8o2XS2Y9d2XrwkpRGmFsNmN7lY_Ni-IB4) | [Local Asset](assets/2023-09-13_signal-dry-bulk-weekly-report_img_unnamed-2023-09-13t115530524_4d7c928e9fc3.png)
 
 [Signal Ocean Dynamic Timeseries](https://go.signalocean.com/e/983831/ic-timeseries-dry-downloadable/2pcmrx/345557934?h=zKu4Vss9Wc8o2XS2Y9d2XrwkpRGmFsNmN7lY_Ni-IB4)
-[Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2pcms1/345557934?h=zKu4Vss9Wc8o2XS2Y9d2XrwkpRGmFsNmN7lY_Ni-IB4)
+ [Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2pcms1/345557934?h=zKu4Vss9Wc8o2XS2Y9d2XrwkpRGmFsNmN7lY_Ni-IB4)
 
 In the second week of September, despite the ongoing challenges surrounding China's economic recovery and uncertainties regarding grain trade negotiations between Ukraine and Russia, we observed a continued firm momentum of freight rates. It is uncertain if the current situation will continue, as there has been a decline in the growth rate of tonne days demand and an increase in the number of ballast vessels. Based on recent supply and demand figures, there may be a decrease in freight rates towards the end of the third quarter this year.
 
@@ -53,10 +53,10 @@ Market Rates ($/t) Firmer
 
 The second week of September saw Panamax rates continuing to recover and sentiment remaining buoyant, while signs of a weekly revamp emerged in the Capesize market.
 
-- **Capesize**vessel freight rates from Brazil to North China exceeded $17/tonne, representing a 3% w-o-w increase, although still below early summer levels.
-- **Panamax**vessel freight rates from the Continent to the Far East reached $38 per tonne, maintaining the same peak as a month ago and displaying a continued upward trend.
-- **Supramax**vessel freight rates on the Indo-ECI route rose to $11.4/tonne, a 3% weekly increase. Monthly rates are up 9% compared to a similar week in August.
-- **Handysize**freight rates for the NOPAC Far East route remained stable at $29.8/tonne, the highest level since week 22, and up 6% month over month.
+- **Capesize** vessel freight rates from Brazil to North China exceeded $17/tonne, representing a 3% w-o-w increase, although still below early summer levels.
+- **Panamax** vessel freight rates from the Continent to the Far East reached $38 per tonne, maintaining the same peak as a month ago and displaying a continued upward trend.
+- **Supramax** vessel freight rates on the Indo-ECI route rose to $11.4/tonne, a 3% weekly increase. Monthly rates are up 9% compared to a similar week in August.
+- **Handysize** freight rates for the NOPAC Far East route remained stable at $29.8/tonne, the highest level since week 22, and up 6% month over month.
 
 ## Section 2/ Supply ​​​
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/22/commodity-prices-inflation-and-shipping-profits"
 tags: ["Commodities", "Dry Bulk"]
 images_count: 2
-word_count: 895
+word_count: 897
 source_file: "corpus/03-breakwave/insights/2021/2021-06-22_commodity-prices-inflation-and-shipping-profits.html"
 ---
 

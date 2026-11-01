@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/27/improvement-in-chinas-consumer-strength"
 tags: ["China", "Economy"]
 images_count: 4
-word_count: 452
+word_count: 456
 source_file: "corpus/03-breakwave/insights/2024/2024-06-27_improvement-in-chinas-consumer-strength.html"
 ---
 

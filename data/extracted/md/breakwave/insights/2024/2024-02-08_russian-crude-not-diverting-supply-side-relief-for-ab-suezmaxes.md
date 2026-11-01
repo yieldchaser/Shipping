@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/8/russian-crude-not-diverting-supply-side-relief-for-ab-suezmaxes"
 tags: ["Crude", "Tankers", "Oil"]
 images_count: 2
-word_count: 636
+word_count: 638
 source_file: "corpus/03-breakwave/insights/2024/2024-02-08_russian-crude-not-diverting-supply-side-relief-for-ab-suezmaxes.html"
 ---
 

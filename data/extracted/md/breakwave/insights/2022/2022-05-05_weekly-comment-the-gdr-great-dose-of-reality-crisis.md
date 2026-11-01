@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/5/4/weekly-comment-the-gdr-great-dose-of-reality-crisis"
 images_count: 3
-word_count: 1398
+word_count: 1401
 source_file: "corpus/03-breakwave/insights/2022/2022-05-05_weekly-comment-the-gdr-great-dose-of-reality-crisis.html"
 ---
 

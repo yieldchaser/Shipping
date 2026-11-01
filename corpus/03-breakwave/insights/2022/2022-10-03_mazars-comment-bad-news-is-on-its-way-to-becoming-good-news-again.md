@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/3/mazars-comment-bad-news-is-on-its-way-to-becoming-good-news-again"
 images_count: 7
-word_count: 1455
+word_count: 1462
 source_file: "corpus/03-breakwave/insights/2022/2022-10-03_mazars-comment-bad-news-is-on-its-way-to-becoming-good-news-again.html"
 ---
 
@@ -80,7 +80,7 @@ While residual liquidity is enough, it remains locked by Private Equities and in
 
 ### So These Are the Three Things Investors Need to Know:
 
-1. **We****are near a turning point where more liquidity may be added to markets by the Fed**. Central banks are close to prioritise market stability to tempering inflation. Besides there’s no evidence that quantitative easing, when used to provide emergency liquidity, is inflationary. If the Fed starts printing again, we would not be surprised if risk assets rebound sharply.
+1. **We** **are near a turning point where more liquidity may be added to markets by the Fed**. Central banks are close to prioritise market stability to tempering inflation. Besides there’s no evidence that quantitative easing, when used to provide emergency liquidity, is inflationary. If the Fed starts printing again, we would not be surprised if risk assets rebound sharply.
 
 **2. The News cycle may remain particularly worrying**. The combination of UK economic and possibly political instability, the ongoing war in Ukraine, rising inflation and pressures on business models may persist well beyond the end of the year. Portfolios, where a lot of bad news is already discounted, could begin to rebound despite a persistently bad newsflow.
 

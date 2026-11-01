@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/11/india-remains-a-bright-spot-in-the-global-economy-and-for-the-dry-bulk-market"
 tags: ["Drybulk", "India", "Coal"]
 images_count: 6
-word_count: 916
+word_count: 922
 source_file: "corpus/03-breakwave/insights/2024/2024-08-12_india-remains-a-bright-spot-in-the-global-economy-and-for-the-dry-bulk-market.html"
 ---
 

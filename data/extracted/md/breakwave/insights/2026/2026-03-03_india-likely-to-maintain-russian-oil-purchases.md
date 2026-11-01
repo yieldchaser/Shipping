@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/3/india-likely-to-maintain-russian-oil-purchases"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 3
-word_count: 1602
+word_count: 1605
 source_file: "corpus/03-breakwave/insights/2026/2026-03-03_india-likely-to-maintain-russian-oil-purchases.html"
 ---
 

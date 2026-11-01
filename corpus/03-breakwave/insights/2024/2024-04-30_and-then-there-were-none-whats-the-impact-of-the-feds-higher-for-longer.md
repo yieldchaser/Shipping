@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/29/and-then-there-were-none-whats-the-impact-of-the-feds-higher-for-longer"
 tags: ["Economy", "Markets"]
 images_count: 5
-word_count: 1766
+word_count: 1771
 source_file: "corpus/03-breakwave/insights/2024/2024-04-30_and-then-there-were-none-whats-the-impact-of-the-feds-higher-for-longer.html"
 ---
 
@@ -30,7 +30,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-04-30_and-then-there-were-n
 
 Of ancient soothsayers,[Pythia](https://en.wikipedia.org/wiki/Pythia), the high priestess of Apollo at Delphi, was considered the more reliable. Why? Because she was clever. She understood forecasting to be a dangerous business. Forecast the future too accurately, people might get angry, or they might pressure you to do it again until you eventually fail. In both cases, they end up hating you. Forecast the future too loosely, and they don’t trust you from the start. Forecast good news that don’t play out or they miss expectations or just forecast bad news, independent of whether they play out or not, people still hate you. Only forecasting good news early and always right will make anyone like you. All other outcomes are bad, The problem was that so many bad outcomes don’t make for a good business model. And Apollo’s priests needed money.
 
-Thus did Pythia chew psychotropic leaves and give very wide predictions, for people to read into them their own desires. The late[Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman)would call this “[confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias)”.
+Thus did Pythia chew psychotropic leaves and give very wide predictions, for people to read into them their own desires. The late [Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman) would call this “[confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias)”.
 
 Rich merchants were the best clients. A lot of money, no complaints, lest one risk upsetting the vengeful and prickly God. But once in a blue moon, there came a real crisis, and Pythia needed to be extra careful. In 480 BCE, a few weeks after Xerxes defeated Leonidas and his 300 (more like 1500 but why mess with a[good movie](https://www.imdb.com/title/tt0416449/)) in Thermopylae, he marched on Athens. The city was doomed. So officials run to Pythia and asked her what to do:
 
@@ -38,7 +38,7 @@ Rich merchants were the best clients. A lot of money, no complaints, lest one ri
 
 Half of them understood “Wooden walls” to mean Athens’ powerful navy. The other half took it literally, barricaded themselves on the Acropolis and build wooden walls around it. The first cohort emerged victorious in the famous battle of Salamis, which turned the tide of the Persian Wars and preserved western civilisation. The other ended up ridiculed by Herodotus, not to mention unceremoniously barbecued. Old Pythia smiled. She was right either way.
 
-The point is that forecasting is, for the most part, little more than a brain exercise of little consequence. Wide predictions serve marketing purposes. Accurate predictions, done properly, must always update the forecast with[new information](https://en.wikipedia.org/wiki/Bayes%27_theorem). “When the data changes, I change my mind. What do you do?”, John Maynard Keynes famously said. But once a while, a forecast is so important that needs to be right from the start, exposing the limits of this brain exercise.
+The point is that forecasting is, for the most part, little more than a brain exercise of little consequence. Wide predictions serve marketing purposes. Accurate predictions, done properly, must always update the forecast with [new information](https://en.wikipedia.org/wiki/Bayes%27_theorem). “When the data changes, I change my mind. What do you do?”, John Maynard Keynes famously said. But once a while, a forecast is so important that needs to be right from the start, exposing the limits of this brain exercise.
 
 What is the forecast the world has been waiting for? When will American rates come down. Little is more important, or more difficult, than trying to predict interest rates in an age of unstable inflation.
 

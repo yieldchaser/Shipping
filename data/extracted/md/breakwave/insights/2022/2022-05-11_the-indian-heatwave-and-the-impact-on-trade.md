@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/5/11/the-indian-heatwave-and-the-impact-on-trade"
 images_count: 2
-word_count: 1062
+word_count: 1064
 source_file: "corpus/03-breakwave/insights/2022/2022-05-11_the-indian-heatwave-and-the-impact-on-trade.html"
 ---
 

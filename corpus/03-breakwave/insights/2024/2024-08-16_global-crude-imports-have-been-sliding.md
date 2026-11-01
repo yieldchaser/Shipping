@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/16/global-crude-imports-have-been-sliding"
 tags: ["Tankers", "China", "Shipping"]
 images_count: 3
-word_count: 661
+word_count: 664
 source_file: "corpus/03-breakwave/insights/2024/2024-08-16_global-crude-imports-have-been-sliding.html"
 ---
 

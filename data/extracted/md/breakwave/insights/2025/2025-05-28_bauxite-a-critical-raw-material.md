@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/28/bauxite-a-critical-raw-material"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 1
-word_count: 651
+word_count: 652
 source_file: "corpus/03-breakwave/insights/2025/2025-05-28_bauxite-a-critical-raw-material.html"
 ---
 

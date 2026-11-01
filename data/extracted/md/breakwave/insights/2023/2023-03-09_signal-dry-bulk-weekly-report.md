@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/3/9/signal-dry-bulk-weekly-report"
 images_count: 5
-word_count: 1111
+word_count: 1116
 source_file: "corpus/03-breakwave/insights/2023/2023-03-09_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -29,7 +29,7 @@ Signs of an increase in the number of vessels for the 1st quarter higher than in
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ry-dynamic-area-congestion-dry/2nq26g/306387475?h=lLbLT9oTUGTfhE8c3-OpF-vRG8yMJ4jhzKfVGqTVTTw) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-09_signal-dry-bulk-weekly-report_img_unnamed-2023-03-09t103355746_ce36ca1dfcc0.png)
 
 Data Source: The Signal Ocean Platform, Dry bulk flows
-[Signal Ocean Platform](https://go.signalocean.com/e/983831/ry-dynamic-area-congestion-dry/2nq26g/306387475?h=lLbLT9oTUGTfhE8c3-OpF-vRG8yMJ4jhzKfVGqTVTTw)​​​​
+ [Signal Ocean Platform](https://go.signalocean.com/e/983831/ry-dynamic-area-congestion-dry/2nq26g/306387475?h=lLbLT9oTUGTfhE8c3-OpF-vRG8yMJ4jhzKfVGqTVTTw)​​​​
 
 The first half of March began with stronger momentum compared to the previous two months of the first quarter, and recent demand growth rates confers optimism for a rebound in rates. It is interesting to note, however, that the number of ballast vessels has increased in recent days, and it is questionable whether recent demand will be sufficient to provide adequate employment opportunities for vessels waiting for fixtures at the increased rates. On the supply side, there has been an increase in the number of vessels congested in Chinese and Indian ports. In particular, congestion at Indian ports (see Chart of the Week) for Panamax vessels has risen to a two-year peak. In addition, estimated waiting days for Panamax vessels in Indian ports are now higher than in a similar period last year.
 

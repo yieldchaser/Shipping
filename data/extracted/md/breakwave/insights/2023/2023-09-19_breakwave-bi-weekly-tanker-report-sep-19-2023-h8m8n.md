@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/9/19/breakwave-bi-weekly-tanker-report-sep-19-2023-h8m8n"
 images_count: 3
-word_count: 681
+word_count: 684
 source_file: "corpus/03-breakwave/insights/2023/2023-09-19_breakwave-bi-weekly-tanker-report-sep-19-2023-h8m8n.html"
 ---
 

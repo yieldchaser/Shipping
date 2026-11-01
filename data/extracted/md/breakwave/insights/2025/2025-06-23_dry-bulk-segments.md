@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/23/dry-bulk-segments"
 tags: ["Drybulk", "Markets", "Shipping"]
 images_count: 4
-word_count: 1236
+word_count: 1240
 source_file: "corpus/03-breakwave/insights/2025/2025-06-23_dry-bulk-segments.html"
 ---
 

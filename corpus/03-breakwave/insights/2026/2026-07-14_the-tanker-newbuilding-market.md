@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/7/14/the-tanker-newbuilding-market"
 tags: ["Tanker", "Markets", "Shipping"]
 images_count: 1
-word_count: 647
+word_count: 648
 source_file: "corpus/03-breakwave/insights/2026/2026-07-14_the-tanker-newbuilding-market.html"
 ---
 

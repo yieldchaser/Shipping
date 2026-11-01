@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/24/the-global-economy-in-a-nutshell"
 tags: ["Economy", "Shipping"]
 images_count: 1
-word_count: 1151
+word_count: 1152
 source_file: "corpus/03-breakwave/insights/2025/2025-03-24_the-global-economy-in-a-nutshell.html"
 ---
 

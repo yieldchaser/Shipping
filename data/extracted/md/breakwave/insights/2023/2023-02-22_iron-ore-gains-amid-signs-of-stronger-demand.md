@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/2/22/iron-ore-gains-amid-signs-of-stronger-demand"
 images_count: 1
-word_count: 577
+word_count: 578
 source_file: "corpus/03-breakwave/insights/2023/2023-02-22_iron-ore-gains-amid-signs-of-stronger-demand.html"
 ---
 

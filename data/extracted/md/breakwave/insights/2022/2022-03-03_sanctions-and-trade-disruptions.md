@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/3/3/sanctions-and-trade-disruptions"
 tags: ["Russia", "Ukraine", "War", "Shipping"]
 images_count: 2
-word_count: 1194
+word_count: 1196
 source_file: "corpus/03-breakwave/insights/2022/2022-03-03_sanctions-and-trade-disruptions.html"
 ---
 

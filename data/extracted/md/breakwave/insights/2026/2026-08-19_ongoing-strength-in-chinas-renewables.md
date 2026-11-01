@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/8/19/ongoing-strength-in-chinas-renewables"
 tags: ["China", "Energy", "Economy"]
 images_count: 4
-word_count: 417
+word_count: 421
 source_file: "corpus/03-breakwave/insights/2026/2026-08-19_ongoing-strength-in-chinas-renewables.html"
 ---
 

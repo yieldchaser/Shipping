@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/9/10/its-the-time-of-the-season-the-tankers"
 tags: ["Tankers", "Shipping", "Crude", "Oil"]
 images_count: 1
-word_count: 638
+word_count: 639
 source_file: "corpus/03-breakwave/insights/2023/2023-09-10_its-the-time-of-the-season-the-tankers.html"
 ---
 

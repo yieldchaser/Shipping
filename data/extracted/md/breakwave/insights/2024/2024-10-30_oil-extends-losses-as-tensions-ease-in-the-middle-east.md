@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/30/oil-extends-losses-as-tensions-ease-in-the-middle-east"
 tags: ["Shipping", "Markets", "Commodities"]
 images_count: 2
-word_count: 756
+word_count: 758
 source_file: "corpus/03-breakwave/insights/2024/2024-10-30_oil-extends-losses-as-tensions-ease-in-the-middle-east.html"
 ---
 
@@ -37,7 +37,7 @@ Easing geopolitical risks continued to weigh on oil markets. Prospects of additi
 
 **Copper** was up sharply in early trade after reports that China is weighing up approving over CNY10trn in additional borrowing in the coming years to shore up the economy and address local government debt risks. The fiscal stimulus may be approved at a meeting by China’s top legislative body to be held on 4‒8 November. Sentiment was also boosted by increased support for EVs. In addition to the edict to increase EV purchases by government agencies, support for the increase construction of charging infrastructure, to make EV usage easier, is also being considered. Such infrastructure requires large amounts of various metals including copper. The rally across the base metals complex eventually petered out, with mixed economic data in the US raising questions over the Fed’s outlook for monetary policy.
 
-**Iron ore**futures were steady as the market was reminded of its supply side issues. Fortescue Ltd said there are hurdles in ramping up overall supply as output as output from existing mines wanes. CEO, Dino Otranto, warned that the investment community has misjudged the supply challenges, with new supply likely to only just counterbalance supply that is coming out.
+**Iron ore** futures were steady as the market was reminded of its supply side issues. Fortescue Ltd said there are hurdles in ramping up overall supply as output as output from existing mines wanes. CEO, Dino Otranto, warned that the investment community has misjudged the supply challenges, with new supply likely to only just counterbalance supply that is coming out.
 
 ### Chart of the Day
 

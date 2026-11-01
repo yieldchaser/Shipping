@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/12/13/mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio"
 images_count: 7
-word_count: 1850
+word_count: 1857
 source_file: "corpus/03-breakwave/insights/2022/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio.html"
 ---
 

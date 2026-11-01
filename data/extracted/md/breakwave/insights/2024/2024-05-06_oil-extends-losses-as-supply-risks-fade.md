@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/6/oil-extends-losses-as-supply-risks-fade"
 tags: ["Commodities", "Economy", "Markets"]
 images_count: 2
-word_count: 704
+word_count: 706
 source_file: "corpus/03-breakwave/insights/2024/2024-05-06_oil-extends-losses-as-supply-risks-fade.html"
 ---
 

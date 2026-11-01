@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/15/signal-dry-bulk-weekly-report"
 images_count: 5
-word_count: 915
+word_count: 920
 source_file: "corpus/03-breakwave/insights/2022/2022-07-15_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -48,10 +48,10 @@ Data Source: The Signal Ocean Platform, Dry Bulk Flows, Coal, from ALL Countries
 
 The Capesize segment showed a sustained upward trend, while the other vessel categories continued to show a downward trend over the last three weeks.
 
-- **Capesize**Brazil-to-North China freight rates held at a level of about $31/tonne with an upward trend.
-- **Panamax**Continent-to-Far East freight rates fell to $48/tonne, down $8/tonne from week 24.
-- **Supramax**Indo-to-ECI freight rates fell to $24.5 per tonne, and the decline was significant this week compared to levels recorded in weeks 24 and 25.
-- **Handysize**NOPAC-to-Far East freight rates fell to $54/tonne, down $10/tonne from week 21.
+- **Capesize** Brazil-to-North China freight rates held at a level of about $31/tonne with an upward trend.
+- **Panamax** Continent-to-Far East freight rates fell to $48/tonne, down $8/tonne from week 24.
+- **Supramax** Indo-to-ECI freight rates fell to $24.5 per tonne, and the decline was significant this week compared to levels recorded in weeks 24 and 25.
+- **Handysize** NOPAC-to-Far East freight rates fell to $54/tonne, down $10/tonne from week 21.
 
 ## Section 2 - Supply - Ballasters View
 
@@ -64,10 +64,10 @@ The Capesize segment showed a sustained upward trend, while the other vessel cat
 
 The number of ships sailing ballast increased sharply in the Supramax segment, while there was a sudden drop in Handysize.
 
-- **Capesize**SE Africa: The number of vessels increased to 73, 7 more than week 26.
-- **Panamax**SE Africa: The number of ships remained at the high level of the previous week, with 120 ships, 12 above the annual average.
-- **Supramax**SE Asia: The number of vessels increased to 100, 13 more than the previous week.
-- **Handysize**NOPAC: The number of vessels decreased to 47, 24% below the annual average.
+- **Capesize** SE Africa: The number of vessels increased to 73, 7 more than week 26.
+- **Panamax** SE Africa: The number of ships remained at the high level of the previous week, with 120 ships, 12 above the annual average.
+- **Supramax** SE Asia: The number of vessels increased to 100, 13 more than the previous week.
+- **Handysize** NOPAC: The number of vessels decreased to 47, 24% below the annual average.
 
 ## Section 3 - Demand - In Ton Days
 
@@ -80,10 +80,10 @@ The number of ships sailing ballast increased sharply in the Supramax segment, w
 
 A downward trend emerged in the second week of July, with the Handysize and Capesize segments showing significantly lower growth.
 
-- **Capesize**demand ton-days: The percentage increase this week shows a downward trend and disappoints expectations for an upturn in July.
-- **Panamax**demand ton-days: There is no further impetus for recovery as growth has slowed since last week.
-- **Supramax**demand ton-days: Percentage growth also shows a continued downward trend, which has intensified since late last week.
-- **Handysize**demand ton-days: After the sudden increase in week 25, the percentage growth has weakened in the last three weeks.
+- **Capesize** demand ton-days: The percentage increase this week shows a downward trend and disappoints expectations for an upturn in July.
+- **Panamax** demand ton-days: There is no further impetus for recovery as growth has slowed since last week.
+- **Supramax** demand ton-days: Percentage growth also shows a continued downward trend, which has intensified since late last week.
+- **Handysize** demand ton-days: After the sudden increase in week 25, the percentage growth has weakened in the last three weeks.
 
 ## Section 4 - Chinese Port Congestions -
 

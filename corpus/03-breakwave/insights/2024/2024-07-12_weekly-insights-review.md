@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/12/weekly-insights-review"
 tags: ["Shipping", "Economy", "Markets"]
 images_count: 14
-word_count: 1421
+word_count: 1435
 source_file: "corpus/03-breakwave/insights/2024/2024-07-12_weekly-insights-review.html"
 ---
 
@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-07-12_weekly-insights-revie
 
 ## Breakwave Dry Bulk Report
 
-**Freight Futures Volatility Drops to 5-Year Lows as Spot Rates Remain Rangebound**– Volatility has all but disappeared in the**usually highly volatile**freight futures market, as**spot rates**have remained relatively**steady**and any tightness or slackness in the tonnage supply have so far appeared temporary in nature.
+**Freight Futures Volatility Drops to 5-Year Lows as Spot Rates Remain Rangebound**– Volatility has all but disappeared in the **usually highly volatile** freight futures market, as **spot rates** have remained relatively **steady** and any tightness or slackness in the tonnage supply have so far appeared temporary in nature.
 
 ![Στιγμιότυπο Οθόνης 2024 07 09 114111](assets/2024-07-12_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_19b37e1009d9.png)
 

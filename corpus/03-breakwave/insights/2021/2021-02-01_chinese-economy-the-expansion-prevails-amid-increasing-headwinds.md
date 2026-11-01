@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/1/chinese-economy-the-expansion-prevails-amid-increasing-headwinds"
 tags: ["Dry Bulk", "Global Economy", "China"]
 images_count: 3
-word_count: 705
+word_count: 708
 source_file: "corpus/03-breakwave/insights/2021/2021-02-01_chinese-economy-the-expansion-prevails-amid-increasing-headwinds.html"
 ---
 

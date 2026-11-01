@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/9/bdi-vs-bci-ahead-of-the-lunar-new-year"
 tags: ["Crude", "Tankers", "Geopolitics"]
 images_count: 3
-word_count: 746
+word_count: 749
 source_file: "corpus/03-breakwave/insights/2026/2026-02-09_bdi-vs-bci-ahead-of-the-lunar-new-year.html"
 ---
 
@@ -35,7 +35,7 @@ The BDI closed on 6 February at more than double its level on Chinese New Year 2
 
 ### Seasonal Context
 
-Attention is focused on the late timing of the 2026 Lunar New Year, which falls on February 17th. Historically, the holiday has fallen after 10 February roughly once every three to four years, while particularly late occurrences around 19–20 February are observed about once per decade. The most relevant historical comparison is 2015, when the Lunar New Year fell on 19 February, and the BDI reached[multi-decade lows](https://go.signalocean.com/e/983831/0-fESQvJa2FM4Sof8m1WN36VYpqbtQ/2rtyyv/577090996/h/UVPJkJTTUXffOw9NT6O9oql2rRkTS_wNWb8sSs5k-_8)(approx 500 points). That downturn was triggered by a sharp contraction in vessel demand, severe fleet oversupply following heavy newbuilding deliveries between 2008 and 2014, and record-low Chinese imports.
+Attention is focused on the late timing of the 2026 Lunar New Year, which falls on February 17th. Historically, the holiday has fallen after 10 February roughly once every three to four years, while particularly late occurrences around 19–20 February are observed about once per decade. The most relevant historical comparison is 2015, when the Lunar New Year fell on 19 February, and the BDI reached [multi-decade lows](https://go.signalocean.com/e/983831/0-fESQvJa2FM4Sof8m1WN36VYpqbtQ/2rtyyv/577090996/h/UVPJkJTTUXffOw9NT6O9oql2rRkTS_wNWb8sSs5k-_8)(approx 500 points). That downturn was triggered by a sharp contraction in vessel demand, severe fleet oversupply following heavy newbuilding deliveries between 2008 and 2014, and record-low Chinese imports.
 
 ### China and Iron Ore
 

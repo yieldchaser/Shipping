@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/22/year-in-review"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 2
-word_count: 1159
+word_count: 1161
 source_file: "corpus/03-breakwave/insights/2025/2025-12-22_year-in-review.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/28/india-crude-imports-to-rebound-in-september-and-october"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 4
-word_count: 977
+word_count: 981
 source_file: "corpus/03-breakwave/insights/2025/2025-08-28_india-crude-imports-to-rebound-in-september-and-october.html"
 ---
 

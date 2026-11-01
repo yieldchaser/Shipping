@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/5/dry-bulk-supply-trends-ballasters-view-over-time"
 tags: ["Shipping", "Dry Bulk", "Capesize", "Panamax"]
 images_count: 2
-word_count: 747
+word_count: 749
 source_file: "corpus/03-breakwave/insights/2021/2021-10-05_dry-bulk-supply-trends-ballasters-view-over-time.html"
 ---
 
@@ -36,14 +36,14 @@ Signal Ocean data reveal the evolution of the number of vessels sailing in balla
 
 ## Panamax 67-85kt DWT
 
-![Signal1](assets/2021-10-05_dry-bulk-supply-trends-ballasters-view-over-time_img_signal1_08498c9cce03.png)
+![Signal1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-05_dry-bulk-supply-trends-ballasters-view-over-time_img_signal1_08498c9cce03.png)
 
 > **Figure 1: Signal1**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supply-trends-ballasters-view-over-time?fbclid=IwAR1UheGex6kiZfuv1fOFvWT7kDsb6qhlpmC1xirWpuwznsDFumWhEtCvpcY) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-05_dry-bulk-supply-trends-ballasters-view-over-time_img_signal1_08498c9cce03.png)
 
 ## Capesize 120-220kt DWT
 
-![Signal2](assets/2021-10-05_dry-bulk-supply-trends-ballasters-view-over-time_img_signal2_852dcbef8786.png)
+![Signal2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-05_dry-bulk-supply-trends-ballasters-view-over-time_img_signal2_852dcbef8786.png)
 
 > **Figure 2: Signal2**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supply-trends-ballasters-view-over-time?fbclid=IwAR1UheGex6kiZfuv1fOFvWT7kDsb6qhlpmC1xirWpuwznsDFumWhEtCvpcY) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-05_dry-bulk-supply-trends-ballasters-view-over-time_img_signal2_852dcbef8786.png)

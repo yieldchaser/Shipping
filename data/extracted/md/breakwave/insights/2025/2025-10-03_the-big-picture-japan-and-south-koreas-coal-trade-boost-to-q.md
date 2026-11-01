@@ -30,7 +30,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-10-03_the-big-picture-japan
 
 At the same time, though positive, coking coal has been a less significant part of the import story.
 
-In its*Coal Mid-Year Update*, the International Energy Agency (IEA) noted **South Korean coal consumption was down 17%**during the 1H 2025.
+In its *Coal Mid-Year Update*, the International Energy Agency (IEA) noted **South Korean coal consumption was down 17%**during the 1H 2025.
 
 Moreover, at 15.5m tonnes, South Korean coking coal imports in the first eight months of the year lagged the year-ago level by 1.0m tonnes, while crude steel output fell -3.5%.
 

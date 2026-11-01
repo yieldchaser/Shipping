@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/22/indonesian-exports-of-raw-materials-under-threat"
 tags: ["Indonesia", "Exports", "Economy"]
 images_count: 3
-word_count: 1021
+word_count: 1024
 source_file: "corpus/03-breakwave/insights/2021/2021-10-22_indonesian-exports-of-raw-materials-under-threat.html"
 ---
 

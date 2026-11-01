@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/26/floating-oil-storage-trends"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 2
-word_count: 2590
+word_count: 2592
 source_file: "corpus/03-breakwave/insights/2025/2025-03-26_floating-oil-storage-trends.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/29/ustr-proposal-more-clarity-or-not"
 tags: ["Shipping", "Drybulk", "Markets"]
 images_count: 6
-word_count: 1367
+word_count: 1373
 source_file: "corpus/03-breakwave/insights/2025/2025-04-29_ustr-proposal-more-clarity-or-not.html"
 ---
 

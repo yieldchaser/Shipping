@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/1/shenhua-shift-coal-dynamics-whats-the-rationale"
 tags: ["Coal", "China", "Drybulk"]
 images_count: 4
-word_count: 1104
+word_count: 1108
 source_file: "corpus/03-breakwave/insights/2025/2025-09-01_shenhua-shift-coal-dynamics-whats-the-rationale.html"
 ---
 

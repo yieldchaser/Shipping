@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/30/iron-ore-coal-and-grains-chinese-demand-spikes"
 tags: ["Ironore", "Drybulk", "Markets"]
 images_count: 14
-word_count: 1918
+word_count: 1932
 source_file: "corpus/03-breakwave/insights/2025/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes.html"
 ---
 

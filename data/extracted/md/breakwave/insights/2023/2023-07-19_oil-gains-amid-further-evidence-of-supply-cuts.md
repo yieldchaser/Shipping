@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/7/19/oil-gains-amid-further-evidence-of-supply-cuts"
 tags: ["Commodities", "Markets", "Economy"]
 images_count: 1
-word_count: 580
+word_count: 581
 source_file: "corpus/03-breakwave/insights/2023/2023-07-19_oil-gains-amid-further-evidence-of-supply-cuts.html"
 ---
 
@@ -32,7 +32,7 @@ Early losses following weak economic data were reversed as the spectre of an end
 
 **Base metals** edged lower following Monday’s sell-off as concerns over Chinese demand continue to emanate across the sector. China’s Q2 GDP grew 6.3% y/y, posing challenges to growth in the second half of this year. The focus is now likely to shift to the next Politburo meeting, which is likely to be held before the end of July. Policy makers have intensified their communication with the market, and expectations for a stimulus package are building. That may support already positive signs in infrastructure spending, with growth picking up in June to 6.4% y/y.
 
-**Iron ore**futures managed to edge higher, led by gains in the steel market. The resilience of the fixed asset investment has boosted sentiment, aided by the spectre of further stimulus measures. In another positive sign, iron ore inventories at Chinese ports were drawn down further last week and are at their lowest level since late 2020. Meanwhile, iron ore exports from Brazil reached 1.46mt/d in the first 10 days of July. This was down from 1.48mt/d a year ago.
+**Iron ore** futures managed to edge higher, led by gains in the steel market. The resilience of the fixed asset investment has boosted sentiment, aided by the spectre of further stimulus measures. In another positive sign, iron ore inventories at Chinese ports were drawn down further last week and are at their lowest level since late 2020. Meanwhile, iron ore exports from Brazil reached 1.46mt/d in the first 10 days of July. This was down from 1.48mt/d a year ago.
 
 **Gold** rose late in the session following dovish commentary from central bankers. ECB Governing Council member Klaas Knot said monetary tightening beyond next week’s meeting is anything but guaranteed. This saw bond yields fall, including in US Treasuries following the comments. Investor demand was also supported by weak US economic data, with retail sales rising less than expected. This is a welcome sign for the Fed as it seeks to cool inflation.
 

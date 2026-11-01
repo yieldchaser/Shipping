@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/17/seaborne-coal-volumes-not-aligning-with-decarbonization"
 images_count: 4
-word_count: 994
+word_count: 998
 source_file: "corpus/03-breakwave/insights/2021/2021-08-18_seaborne-coal-volumes-not-aligning-with-decarbonization.html"
 ---
 

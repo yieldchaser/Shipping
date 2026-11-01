@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-07-02_three-reasons-why-pol
 
 ---
 
-By[George Lagarias](https://www.linkedin.com/in/george-lagarias-mba-3baa769/)
+By [George Lagarias](https://www.linkedin.com/in/george-lagarias-mba-3baa769/)
 
 ‘There are no dead ends in democracy’, a popular quote says. The democratic processes in at least 3 G7 countries are certainly grabbing all the attention.
 

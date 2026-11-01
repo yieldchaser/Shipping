@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/26/dry-bulk-market-on-a-stronger-footing"
 tags: ["Economy", "Shipping", "Drybulk"]
 images_count: 1
-word_count: 1085
+word_count: 1086
 source_file: "corpus/03-breakwave/insights/2026/2026-01-26_dry-bulk-market-on-a-stronger-footing.html"
 ---
 

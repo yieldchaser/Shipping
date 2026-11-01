@@ -37,7 +37,7 @@ Vessels servicing exports that are handled without EU/UK shipping-related servic
 
 ## Tier 3
 
-These are vessels servicing exports that are actually in breach of US, EU or UK sanctions. This would include the unlikely case of Russian crude exports to these markets however, it would also include cases where EU/UK shipping services are used to export Russian crude to third-party countries**above**the price cap set under the mechanism.
+These are vessels servicing exports that are actually in breach of US, EU or UK sanctions. This would include the unlikely case of Russian crude exports to these markets however, it would also include cases where EU/UK shipping services are used to export Russian crude to third-party countries **above** the price cap set under the mechanism.
 
 For the coming months the crucial questions are 1) whether Russia can find sufficient buyers for its crude oil and whether 2) there is a sufficient fleet to export Russian oil to international waters. The segmentation of the fleet could lead to significant inefficiencies of the market, however, the size of the 3rd tier could prove to be critical in the way the latter question is addressed.
 

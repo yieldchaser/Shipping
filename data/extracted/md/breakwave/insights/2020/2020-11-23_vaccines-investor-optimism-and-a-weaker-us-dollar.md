@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/11/23/vaccines-investor-optimism-and-a-weaker-us-dollar"
 tags: ["COVID-19", "Vaccine", "Dry Bulk"]
 images_count: 2
-word_count: 604
+word_count: 606
 source_file: "corpus/03-breakwave/insights/2020/2020-11-23_vaccines-investor-optimism-and-a-weaker-us-dollar.html"
 ---
 

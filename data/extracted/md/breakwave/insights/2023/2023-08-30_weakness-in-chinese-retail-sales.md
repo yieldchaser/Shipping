@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/8/29/weakness-in-chinese-retail-sales"
 images_count: 3
-word_count: 270
+word_count: 273
 source_file: "corpus/03-breakwave/insights/2023/2023-08-30_weakness-in-chinese-retail-sales.html"
 ---
 

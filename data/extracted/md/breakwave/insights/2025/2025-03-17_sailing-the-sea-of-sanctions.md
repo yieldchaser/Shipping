@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/17/sailing-the-sea-of-sanctions"
 tags: ["Shipping", "Crude", "Tankers"]
 images_count: 2
-word_count: 631
+word_count: 633
 source_file: "corpus/03-breakwave/insights/2025/2025-03-17_sailing-the-sea-of-sanctions.html"
 ---
 

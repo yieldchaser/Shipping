@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/9/crude-oil-gains-amid-a-broader-rally-across-risk-asset-classes"
 tags: ["Commodities", "Economy", "Shipping"]
 images_count: 2
-word_count: 706
+word_count: 708
 source_file: "corpus/03-breakwave/insights/2024/2024-08-09_crude-oil-gains-amid-a-broader-rally-across-risk-asset-classes.html"
 ---
 
@@ -36,7 +36,7 @@ A risk-on tone across broader financial markets helped push commodity markets hi
 
 **Copper** steadied near its four-month low as a worsening economic outlook keep sentiment depressed. Fear of a US recession added to concerns over soft industrial activity in China. Prices for copper and the broader base metal market were hit hard earlier this week by a selloff across risk assets. The unwinding of the JPY carry trade could have unexpected implications for **copper**. The use of cheap funding in Japan appears to have fuelled a rally across risk assets over the past couple of years. Copper hit a record high earlier this year; but this month’s sharp moves lower in the JPY combined with concerns of a hard economic landing in the US could lead to further downside for copper in the short term.
 
-**Iron ore**futures fell sharply as sentiment continues to be battered by strong supply and weak demand. Futures on the Singapore Exchange fell below USD100/t, a level the market has tested, but ultimately pushed back above several times this year. Shipments from Australia reached 16.5mt in the week to 26 July, according to Bloomberg data. This is up from 15.6mt in the previous week. Exporters have largely overcome the operational issues that impacted output earlier in the year. This comes as the outlook for demand in China remains bleak. Steel prices continue to fall as construction activity remains soft. Chinese steel mill losses are worsening, with profitability likely below 10%.
+**Iron ore** futures fell sharply as sentiment continues to be battered by strong supply and weak demand. Futures on the Singapore Exchange fell below USD100/t, a level the market has tested, but ultimately pushed back above several times this year. Shipments from Australia reached 16.5mt in the week to 26 July, according to Bloomberg data. This is up from 15.6mt in the previous week. Exporters have largely overcome the operational issues that impacted output earlier in the year. This comes as the outlook for demand in China remains bleak. Steel prices continue to fall as construction activity remains soft. Chinese steel mill losses are worsening, with profitability likely below 10%.
 
 **Gold** snapped a five-day losing streak amid a broader rally across risk assets. Despite its haven status, the precious metal was caught up in Monday’s plunge across broader markets. A subsequent relief rally allowed gold to tag along.
 

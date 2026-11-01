@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/12/15/commodity-prices-the-pressure-is-on"
 tags: ["Us Dollar", "Global Economy", "China"]
 images_count: 2
-word_count: 713
+word_count: 715
 source_file: "corpus/03-breakwave/insights/2020/2020-12-15_commodity-prices-the-pressure-is-on.html"
 ---
 

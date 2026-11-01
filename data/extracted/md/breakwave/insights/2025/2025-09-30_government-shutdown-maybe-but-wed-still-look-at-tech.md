@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/30/government-shutdown-maybe-but-wed-still-look-at-tech"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 3
-word_count: 1218
+word_count: 1221
 source_file: "corpus/03-breakwave/insights/2025/2025-09-30_government-shutdown-maybe-but-wed-still-look-at-tech.html"
 ---
 

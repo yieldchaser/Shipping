@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/8/coal-import-restrictions-reportedly-being-lifted-at-various-chinese-provinces"
 tags: ["Coal", "China", "Safety"]
 images_count: 1
-word_count: 341
+word_count: 342
 source_file: "corpus/03-breakwave/insights/2021/2021-06-08_coal-import-restrictions-reportedly-being-lifted-at-various-chinese-provinces.html"
 ---
 

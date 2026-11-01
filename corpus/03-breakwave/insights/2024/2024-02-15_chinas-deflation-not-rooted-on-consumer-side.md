@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/15/chinas-deflation-not-rooted-on-consumer-side"
 tags: ["China", "Economy", "Commodities"]
 images_count: 4
-word_count: 476
+word_count: 480
 source_file: "corpus/03-breakwave/insights/2024/2024-02-15_chinas-deflation-not-rooted-on-consumer-side.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/7/12/metals-gain-as-chinas-power-issues-threaten-to-curb-supply"
 images_count: 1
-word_count: 528
+word_count: 529
 source_file: "corpus/03-breakwave/insights/2023/2023-07-12_metals-gain-as-chinas-power-issues-threaten-to-curb-supply.html"
 ---
 

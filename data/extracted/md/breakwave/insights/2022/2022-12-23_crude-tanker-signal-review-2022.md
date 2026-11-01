@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/12/23/crude-tanker-signal-review-2022"
 images_count: 8
-word_count: 2258
+word_count: 2266
 source_file: "corpus/03-breakwave/insights/2022/2022-12-23_crude-tanker-signal-review-2022.html"
 ---
 

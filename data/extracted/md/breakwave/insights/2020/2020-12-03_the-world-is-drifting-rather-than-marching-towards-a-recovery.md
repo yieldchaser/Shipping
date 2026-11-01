@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/12/3/the-world-is-drifting-rather-than-marching-towards-a-recovery"
 tags: ["Global Economy"]
 images_count: 2
-word_count: 733
+word_count: 735
 source_file: "corpus/03-breakwave/insights/2020/2020-12-03_the-world-is-drifting-rather-than-marching-towards-a-recovery.html"
 ---
 

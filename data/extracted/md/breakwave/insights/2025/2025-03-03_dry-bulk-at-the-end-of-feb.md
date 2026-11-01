@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/3/dry-bulk-at-the-end-of-feb"
 tags: ["India", "China", "Shipping"]
 images_count: 2
-word_count: 1020
+word_count: 1022
 source_file: "corpus/03-breakwave/insights/2025/2025-03-03_dry-bulk-at-the-end-of-feb.html"
 ---
 

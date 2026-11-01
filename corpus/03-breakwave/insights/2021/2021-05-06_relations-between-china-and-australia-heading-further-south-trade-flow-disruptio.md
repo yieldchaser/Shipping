@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/6/relations-between-china-and-australia-heading-further-south-trade-flow-disruptions-set-to-continue"
 tags: ["China", "Australia"]
 images_count: 2
-word_count: 792
+word_count: 794
 source_file: "corpus/03-breakwave/insights/2021/2021-05-06_relations-between-china-and-australia-heading-further-south-trade-flow-disruptio.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/1/12/chinese-consumers-buying-less-still-just-paying-more"
 images_count: 1
-word_count: 261
+word_count: 262
 source_file: "corpus/03-breakwave/insights/2023/2023-01-13_chinese-consumers-buying-less-still-just-paying-more.html"
 ---
 

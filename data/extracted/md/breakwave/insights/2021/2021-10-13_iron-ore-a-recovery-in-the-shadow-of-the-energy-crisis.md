@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/13/iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis"
 tags: ["Economy", "Energycrisis", "Iron Ore"]
 images_count: 4
-word_count: 947
+word_count: 951
 source_file: "corpus/03-breakwave/insights/2021/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis.html"
 ---
 
@@ -28,28 +28,28 @@ Somewhat in the shadow of events in the energy markets, iron ore has unexpectedl
 
 While the developing energy crisis may curtail steel production and, by extension, iron ore demand, the Chinese seaborne imports of the ore appears to have recovered in October. After volumes in September declined both month-on-month and year-on-year, data from Oceanbolt suggest October could post some awe-inspiring numbers. During the first third of the month, around 41 million tonnes were discharged in Chinese ports, already representing 45 per cent of the entire volumes of September. Assuming the early month volumes are representative for the whole of the month, it suggests that the total for October could reach a new record of 116 million tonnes.
 
-![Ch1](assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch1_69c184316f1f.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch1_69c184316f1f.png)
 
 > **Figure 1: Ch1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch1_69c184316f1f.png)
 
 At the same time as China could be on course for record-breaking iron ore imports during October, global exports during the same month may turn out to be a bit of a disappointment. The early parts of October have seen some 46 million tonnes of iron ore exported globally, suggesting that volumes for the whole month may struggle to match the ones of September and the same month last year. Given the lead time involved in iron ore shipping, the decreasing export volumes may suggest that Chinese imports will soften in the coming months.
 
-![Ch2](assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch2_3afb665a6530.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch2_3afb665a6530.png)
 
 > **Figure 2: Ch2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch2_3afb665a6530.png)
 
 The reduced Chinese imports during September, following a month-on-month decline of six per cent, has seen inventory levels in some ports continuing their downward trend. In the largest Chinese port for iron ore imports, Caofeidian, the stockpiles have shrunk sharply since their peak in July and are at some of the lowest levels observed since the beginning of 2019.
 
-![Ch3](assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch3_e805f21961e8.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch3_e805f21961e8.png)
 
 > **Figure 3: Ch3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch3_e805f21961e8.png)
 
 Jingtang, the second-largest iron ore port in China last year, has also seen its inventory levels trending south in recent months. However, the decline is less pronounced than in Caofeidian, and the stockpiles remain above their historical average. For some of the smaller iron ore ports, such as Qingdao and Rizhao, inventories have, on the other hand, been building, according to satellite data from Tathya. earth.
 
-![Ch4](assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch4_582ef24865e7.png)
+![Ch4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch4_582ef24865e7.png)
 
 > **Figure 4: Ch4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch4_582ef24865e7.png)

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/9/30/signal-dry-bulk-weekly-report"
 images_count: 4
-word_count: 1044
+word_count: 1048
 source_file: "corpus/03-breakwave/insights/2022/2022-09-30_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -36,10 +36,10 @@ In the grain segment, Chicago wheat futures fell below their three-month high of
 
 During the last week of September, freight rate sentiment remained stable across all vessel categories, with a clear upward trend for Capesize vessels.
 
-- **Capesize**freight rates from Brazil to North China rose to $25/tonne, up $5/tonne from the week 35 low.
-- **Panamax**freight rates from the Continent to the Far Eastfor the second week in a row, with rates falling below $40/tonne, while sentiment remains better than four weeks ago.
-- **Supramax**freight rates for the Indo-ECI route rose to $19/tonne, with an upward trend for late September.
-- **Handysize**vessel freight rates from NOPAC to the Far East are still hovering below $42/tonne over the past three weeks, with no signs of a sharp decline yet.
+- **Capesize** freight rates from Brazil to North China rose to $25/tonne, up $5/tonne from the week 35 low.
+- **Panamax** freight rates from the Continent to the Far Eastfor the second week in a row, with rates falling below $40/tonne, while sentiment remains better than four weeks ago.
+- **Supramax** freight rates for the Indo-ECI route rose to $19/tonne, with an upward trend for late September.
+- **Handysize** vessel freight rates from NOPAC to the Far East are still hovering below $42/tonne over the past three weeks, with no signs of a sharp decline yet.
 
 ## Section 2/ Supply -Ballasters (# Vessels) Decreasing
 
@@ -50,10 +50,10 @@ During the last week of September, freight rate sentiment remained stable across
 
 The number of Capesize and Panamax vessels sailing with ballast has gradually declined over the past three weeks, while the number of Supramax and Handysize vessels has slowly declined after peaking last week.
 
-- **Capesize**SE Africa: The number of vessels dropped to 68, a 44% decrease from the peak in week 32.
-- **Panamax**SE Africa: The number of vessels continued the downward trend of the previous week and stood at 71, down 36% from week 33.
-- **Supramax**SE Asia: The number of vessels increased again, although the trend was down last week. The final vessel count was 96, an increase of 10 vessels from the previous week.
-- **Handysize**NOPAC: The number of vessels increased to 63,7 less than the previous week.
+- **Capesize** SE Africa: The number of vessels dropped to 68, a 44% decrease from the peak in week 32.
+- **Panamax** SE Africa: The number of vessels continued the downward trend of the previous week and stood at 71, down 36% from week 33.
+- **Supramax** SE Asia: The number of vessels increased again, although the trend was down last week. The final vessel count was 96, an increase of 10 vessels from the previous week.
+- **Handysize** NOPAC: The number of vessels increased to 63,7 less than the previous week.
 
 ## Section 3/ Demand -TonDays Increasing
 
@@ -64,10 +64,10 @@ The number of Capesize and Panamax vessels sailing with ballast has gradually de
 
 At the end of September, the surprising upward trend in Capesize vessels continued, while some firmness remained in the Supramax segment.
 
-- **Capesize**demand ton-days: The percentage increase recorded its highest level since the beginning of the year.​​​​​​
-- **Panamax**demand ton-days: The upward trend observed in the previous two weeks weakened, and weaker growth was recorded in the last week of September.
-- **Supramax**demand ton-days: The percentage increase remains stable, with some downward correction observed towards the end of September.
-- **Handysize**demand ton-days: Continued firmness is observed at levels above the week 32 low.
+- **Capesize** demand ton-days: The percentage increase recorded its highest level since the beginning of the year.​​​​​​
+- **Panamax** demand ton-days: The upward trend observed in the previous two weeks weakened, and weaker growth was recorded in the last week of September.
+- **Supramax** demand ton-days: The percentage increase remains stable, with some downward correction observed towards the end of September.
+- **Handysize** demand ton-days: Continued firmness is observed at levels above the week 32 low.
 
 ## Section 4/ Port Congestion -No of Vesselsincreasing
 

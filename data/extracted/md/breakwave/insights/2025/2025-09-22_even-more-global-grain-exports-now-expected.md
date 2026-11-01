@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/22/even-more-global-grain-exports-now-expected"
 tags: ["Grains", "Drybulk", "Markets"]
 images_count: 1
-word_count: 304
+word_count: 305
 source_file: "corpus/03-breakwave/insights/2025/2025-09-22_even-more-global-grain-exports-now-expected.html"
 ---
 

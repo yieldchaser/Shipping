@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/7/geopolitical-risk-disconnects-vlcc-freight-from-demand"
 tags: ["VLCC", "Tankers", "Crude"]
 images_count: 4
-word_count: 1682
+word_count: 1686
 source_file: "corpus/03-breakwave/insights/2026/2026-09-07_geopolitical-risk-disconnects-vlcc-freight-from-demand.html"
 ---
 

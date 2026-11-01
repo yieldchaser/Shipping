@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/10/2/improvement-in-chinese-consumer-spending"
 images_count: 1
-word_count: 244
+word_count: 245
 source_file: "corpus/03-breakwave/insights/2023/2023-10-02_improvement-in-chinese-consumer-spending.html"
 ---
 

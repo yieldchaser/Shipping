@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/3/17/signal-tanker-weekly-report"
 images_count: 8
-word_count: 1293
+word_count: 1301
 source_file: "corpus/03-breakwave/insights/2023/2023-03-17_signal-tanker-weekly-report.html"
 ---
 
@@ -27,7 +27,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-17_signal-tanker-weekly-
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-dynamic-oilflows/2nr2jx/308109267?h=p1xmSLqTiy2avUK-112PL1_Kghc4XUSNUuNqwTqVMIw) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-17_signal-tanker-weekly-report_img_unnamed-2023-03-17t124141652_cd68b8124bb3.png)
 
 Data Source: The Signal Ocean Platform, Toncharts - Oil Flows
-[Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-dynamic-oilflows/2nr2jx/308109267?h=p1xmSLqTiy2avUK-112PL1_Kghc4XUSNUuNqwTqVMIw)​​​​​
+ [Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-dynamic-oilflows/2nr2jx/308109267?h=p1xmSLqTiy2avUK-112PL1_Kghc4XUSNUuNqwTqVMIw)​​​​​
 
 Crude oil freight rates continue higher, as crude oil tanker supply declines in the first half of March. Interestingly, there is an upward trend in the clean segment for product and MR tankers, which is expected to continue in the coming days of March. Demand for crude oil from Asian countries surprisingly increased in February, with the U.S. playing a key role in imports to Korea, China and India (see image above). The recent trend fuels optimism for further firming of crude oil freight rates as oil demand remains persistently higher and the U.S. plays a critical role in displacing Russian oil exports toward European and non-European countries.
 

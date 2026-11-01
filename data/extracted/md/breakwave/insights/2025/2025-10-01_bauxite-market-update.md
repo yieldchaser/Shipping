@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/1/bauxite-market-update"
 tags: ["China", "Ironore", "Drybulk"]
 images_count: 4
-word_count: 1313
+word_count: 1317
 source_file: "corpus/03-breakwave/insights/2025/2025-10-01_bauxite-market-update.html"
 ---
 

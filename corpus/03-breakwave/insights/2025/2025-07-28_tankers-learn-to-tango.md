@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/28/tankers-learn-to-tango"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 2
-word_count: 727
+word_count: 729
 source_file: "corpus/03-breakwave/insights/2025/2025-07-28_tankers-learn-to-tango.html"
 ---
 

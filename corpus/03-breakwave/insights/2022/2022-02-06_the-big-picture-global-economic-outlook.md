@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/2/6/the-big-picture-global-economic-outlook"
 tags: ["Global", "Economy", "Imf", "Review"]
 images_count: 4
-word_count: 887
+word_count: 891
 source_file: "corpus/03-breakwave/insights/2022/2022-02-06_the-big-picture-global-economic-outlook.html"
 ---
 

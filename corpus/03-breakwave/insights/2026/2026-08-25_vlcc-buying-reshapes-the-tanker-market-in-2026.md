@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/8/25/vlcc-buying-reshapes-the-tanker-market-in-2026"
 tags: ["Tankers", "Markets", "Shipping"]
 images_count: 1
-word_count: 664
+word_count: 665
 source_file: "corpus/03-breakwave/insights/2026/2026-08-25_vlcc-buying-reshapes-the-tanker-market-in-2026.html"
 ---
 

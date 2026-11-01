@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/30/a-longer-view"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 2
-word_count: 841
+word_count: 843
 source_file: "corpus/03-breakwave/insights/2025/2025-06-30_a-longer-view.html"
 ---
 

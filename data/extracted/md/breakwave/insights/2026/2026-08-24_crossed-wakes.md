@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/8/24/crossed-wakes"
 tags: ["Shipping", "Markets", "Tankers"]
 images_count: 2
-word_count: 916
+word_count: 918
 source_file: "corpus/03-breakwave/insights/2026/2026-08-24_crossed-wakes.html"
 ---
 

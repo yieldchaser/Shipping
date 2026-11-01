@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/6/16/a-bumpy-road-to-recovery-for-chinese-refiners"
 images_count: 3
-word_count: 1258
+word_count: 1261
 source_file: "corpus/03-breakwave/insights/2022/2022-06-16_a-bumpy-road-to-recovery-for-chinese-refiners.html"
 ---
 
@@ -48,7 +48,7 @@ China’s overall refining run rates are expected to extend gains in the coming 
 
 ## Aframax Rates Up While Vlccs Struggle
 
-Growing imports of Russian crude have squeezed imports of the more expensive spot barrels from West of Suez, which has impacted shipping demand.[China’s crude imports from Africa, Brazil and Norway](https://analytics.vortexa.com/?dateRange=2020-01-01T00%3A00%3A00.000Z__2022-06-15T23%3A59%3A59.999Z&from=%5B%22c4a371acd7c3df8bd70e49805e76cb39b1309ccac3d0f4289120079a9ad68bcd%22%2C%226ac49669e238276d51719480fddfee2e18cf265f43678ed995071d363ee943f5%22%2C%22459d056652a0b7aa7f630bd2a26c97d192a61154e4c2c7afeaa06ce2880fc91f%22%5D&metric=bpd&movementEvent=unloading_start&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&tabId=a973444c-c834-4af9-b649-efe99b8a6877&timeSeriesHiddenSeries=%5B%22seasonal_comparison_24%22%5D&timeSeriesProperty=origin_country&to=%5B%22b5fafce6e20de2dc307fb7e0b89978ee91a49a7b6ec6f5461daf2633f3c56674%22%5D)registered a m-o-m decline for a fourth consecutive month in the first half of June, down nearly 30% from a year ago. This has seen VLCC demand for these long-haul voyages cooling significantly over the past few months, putting downward pressures on tanker rates.
+Growing imports of Russian crude have squeezed imports of the more expensive spot barrels from West of Suez, which has impacted shipping demand.[China’s crude imports from Africa, Brazil and Norway](https://analytics.vortexa.com/?dateRange=2020-01-01T00%3A00%3A00.000Z__2022-06-15T23%3A59%3A59.999Z&from=%5B%22c4a371acd7c3df8bd70e49805e76cb39b1309ccac3d0f4289120079a9ad68bcd%22%2C%226ac49669e238276d51719480fddfee2e18cf265f43678ed995071d363ee943f5%22%2C%22459d056652a0b7aa7f630bd2a26c97d192a61154e4c2c7afeaa06ce2880fc91f%22%5D&metric=bpd&movementEvent=unloading_start&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&tabId=a973444c-c834-4af9-b649-efe99b8a6877&timeSeriesHiddenSeries=%5B%22seasonal_comparison_24%22%5D&timeSeriesProperty=origin_country&to=%5B%22b5fafce6e20de2dc307fb7e0b89978ee91a49a7b6ec6f5461daf2633f3c56674%22%5D) registered a m-o-m decline for a fourth consecutive month in the first half of June, down nearly 30% from a year ago. This has seen VLCC demand for these long-haul voyages cooling significantly over the past few months, putting downward pressures on tanker rates.
 
 In contrast, Aframax rates have risen almost four-fold compared to pre-war levels as most Russian crude cargoes, whether from the east or the west travel on the relatively small vessel class, amid constrained vessel supply as some ship owners are reluctant to get involved in shipping Russian oil.
 

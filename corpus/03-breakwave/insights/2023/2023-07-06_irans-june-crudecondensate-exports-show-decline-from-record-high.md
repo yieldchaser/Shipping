@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/7/6/irans-june-crudecondensate-exports-show-decline-from-record-high"
 images_count: 3
-word_count: 1171
+word_count: 1174
 source_file: "corpus/03-breakwave/insights/2023/2023-07-06_irans-june-crudecondensate-exports-show-decline-from-record-high.html"
 ---
 

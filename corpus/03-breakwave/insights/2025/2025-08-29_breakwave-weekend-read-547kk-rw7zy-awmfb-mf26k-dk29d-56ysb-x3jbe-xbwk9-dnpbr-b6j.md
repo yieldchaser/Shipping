@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/25/breakwave-weekend-read-547kk-rw7zy-awmfb-mf26k-dk29d-56ysb-x3jbe-xbwk9-dnpbr-b6jhc-l4mb2"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 11
-word_count: 1410
+word_count: 1421
 source_file: "corpus/03-breakwave/insights/2025/2025-08-29_breakwave-weekend-read-547kk-rw7zy-awmfb-mf26k-dk29d-56ysb-x3jbe-xbwk9-dnpbr-b6j.html"
 ---
 
@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-08-29_breakwave-weekend-rea
 
 ## Breakwave Shipping Report
 
-**VLCC Market Closes August on a Stronger Footing**– In the final week of August, MEG**activity strengthened**sharply as cargo flows accelerated, with rates in some cases climbing nearly 10 points in a single day.
+**VLCC Market Closes August on a Stronger Footing**– In the final week of August, MEG **activity strengthened** sharply as cargo flows accelerated, with rates in some cases climbing nearly 10 points in a single day.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2025826wetreportkil145)
 
@@ -44,7 +44,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-08-29_breakwave-weekend-rea
 
 ## Dry Bulk Ffas Pull Back After Hitting Highest Levels of 2025
 
-“As we look into the rest of the year, both Capes and Panamax spot rates are elevated versus recent history and if the seasonal pattern of stronger Q4 demand plays out this year, then 𝘄𝗲 𝗺𝗶𝗴𝗵𝘁 𝗯𝗲 𝗳𝗮𝗰𝗶𝗻𝗴 𝗮𝗻𝗼𝘁𝗵𝗲𝗿 𝘀𝘂𝗿𝗽𝗿𝗶𝘀𝗶𝗻𝗴𝗹𝘆 𝘀𝘁𝗿𝗼𝗻𝗴 𝗽𝗲𝗿𝗶𝗼𝗱 something that is not in the mind of traders right now as the futures curve is essentially flattish”,**Breakwave Advisors**' managing partner**John Kartsonas**told Tradewinds.
+“As we look into the rest of the year, both Capes and Panamax spot rates are elevated versus recent history and if the seasonal pattern of stronger Q4 demand plays out this year, then 𝘄𝗲 𝗺𝗶𝗴𝗵𝘁 𝗯𝗲 𝗳𝗮𝗰𝗶𝗻𝗴 𝗮𝗻𝗼𝘁𝗵𝗲𝗿 𝘀𝘂𝗿𝗽𝗿𝗶𝘀𝗶𝗻𝗴𝗹𝘆 𝘀𝘁𝗿𝗼𝗻𝗴 𝗽𝗲𝗿𝗶𝗼𝗱 something that is not in the mind of traders right now as the futures curve is essentially flattish”,**Breakwave Advisors**' managing partner **John Kartsonas** told Tradewinds.
 
 ## Macroeconomic Forces and Structural Realignment: An Analysis of the Maritime Asset Markets (2025)
 

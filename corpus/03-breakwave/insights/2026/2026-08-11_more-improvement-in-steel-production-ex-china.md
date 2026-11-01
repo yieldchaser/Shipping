@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/8/7/more-improvement-in-steel-production-ex-china"
 tags: ["Drybulk", "Ironore", "Commodities"]
 images_count: 3
-word_count: 308
+word_count: 311
 source_file: "corpus/03-breakwave/insights/2026/2026-08-11_more-improvement-in-steel-production-ex-china.html"
 ---
 

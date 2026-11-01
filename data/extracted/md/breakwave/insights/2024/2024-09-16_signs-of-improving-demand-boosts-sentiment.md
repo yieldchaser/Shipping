@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/16/signs-of-improving-demand-boosts-sentiment"
 tags: ["Markets", "Commodities", "Shipping"]
 images_count: 2
-word_count: 695
+word_count: 697
 source_file: "corpus/03-breakwave/insights/2024/2024-09-16_signs-of-improving-demand-boosts-sentiment.html"
 ---
 

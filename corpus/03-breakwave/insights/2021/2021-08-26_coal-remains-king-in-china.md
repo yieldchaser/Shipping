@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/26/coal-remains-king-in-china"
 tags: ["China", "Coal", "Hydropower", "Windpower", "Nuclear Power", "Solar Power"]
 images_count: 6
-word_count: 567
+word_count: 573
 source_file: "corpus/03-breakwave/insights/2021/2021-08-26_coal-remains-king-in-china.html"
 ---
 

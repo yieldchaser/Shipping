@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/14/geopolitics-matter-for-businesses-the-fed-matters-for-portfolios"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 8
-word_count: 2263
+word_count: 2271
 source_file: "corpus/03-breakwave/insights/2026/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios.html"
 ---
 

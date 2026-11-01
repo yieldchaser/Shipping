@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/1/waiting-for-godot"
 tags: ["Drybulk", "Shipping", "Commodities"]
 images_count: 2
-word_count: 1006
+word_count: 1008
 source_file: "corpus/03-breakwave/insights/2024/2024-07-01_waiting-for-godot.html"
 ---
 

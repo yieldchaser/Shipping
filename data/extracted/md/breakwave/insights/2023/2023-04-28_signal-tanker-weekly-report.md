@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/4/28/signal-tanker-weekly-report"
 images_count: 9
-word_count: 1246
+word_count: 1255
 source_file: "corpus/03-breakwave/insights/2023/2023-04-28_signal-tanker-weekly-report.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/9/5/weekly-comment-enter-the-fall"
 images_count: 2
-word_count: 509
+word_count: 511
 source_file: "corpus/03-breakwave/insights/2022/2022-09-05_weekly-comment-enter-the-fall.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/27/global-grain-trade-prospects-remain-encouraging"
 tags: ["Global", "Economy", "Gain"]
 images_count: 4
-word_count: 423
+word_count: 427
 source_file: "corpus/03-breakwave/insights/2021/2021-10-27_global-grain-trade-prospects-remain-encouraging.html"
 ---
 

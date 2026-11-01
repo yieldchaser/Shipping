@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/10/12/signal-dry-bulk-weekly-report"
 images_count: 5
-word_count: 1128
+word_count: 1133
 source_file: "corpus/03-breakwave/insights/2023/2023-10-12_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -48,10 +48,10 @@ Market Rates ($/t) Firmer
 
 **The second week of October recorded a notable rise in Capesize rates for Brazil to North China, while downward pressure emerged in the Panmax Cont-FE route.**
 
-- **Capesize**vessel freight rates from Brazil to North China rose to almost $24/ton, marking a 11% weekly increase and 37% monthly gain.
-- **Panamax**vessel freight rates from the Continent to the Far East have dipped below the $39 per tonne mark, displaying indications of persisting at levels weaker than those observed two weeks ago.
-- **Supramax**vessel freight rates on the Indo-ECI route fell by 3% to $12 per tonne on a weekly basis, with a 12% monthly increase compared to the same week in October.
-- **Handysize**freight rates for the NOPAC Far East route fell below $31/tonne, while the previous week appears to have been the last peak for the smaller ship size segment.
+- **Capesize** vessel freight rates from Brazil to North China rose to almost $24/ton, marking a 11% weekly increase and 37% monthly gain.
+- **Panamax** vessel freight rates from the Continent to the Far East have dipped below the $39 per tonne mark, displaying indications of persisting at levels weaker than those observed two weeks ago.
+- **Supramax** vessel freight rates on the Indo-ECI route fell by 3% to $12 per tonne on a weekly basis, with a 12% monthly increase compared to the same week in October.
+- **Handysize** freight rates for the NOPAC Far East route fell below $31/tonne, while the previous week appears to have been the last peak for the smaller ship size segment.
 
 ## Section 2/ Supply
 

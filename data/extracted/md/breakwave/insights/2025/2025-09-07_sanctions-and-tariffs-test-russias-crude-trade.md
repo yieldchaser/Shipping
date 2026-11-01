@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/7/sanctions-and-tariffs-test-russias-crude-trade"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 2
-word_count: 667
+word_count: 669
 source_file: "corpus/03-breakwave/insights/2025/2025-09-07_sanctions-and-tariffs-test-russias-crude-trade.html"
 ---
 

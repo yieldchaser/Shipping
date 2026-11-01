@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/6/9/even-greater-weakness-in-chinas-home-sales-recently"
 images_count: 2
-word_count: 384
+word_count: 386
 source_file: "corpus/03-breakwave/insights/2022/2022-06-09_even-greater-weakness-in-chinas-home-sales-recently.html"
 ---
 

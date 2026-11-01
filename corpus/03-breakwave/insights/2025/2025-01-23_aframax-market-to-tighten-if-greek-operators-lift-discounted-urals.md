@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/23/aframax-market-to-tighten-if-greek-operators-lift-discounted-urals"
 tags: ["Crude", "Markets", "Shipping"]
 images_count: 4
-word_count: 1315
+word_count: 1319
 source_file: "corpus/03-breakwave/insights/2025/2025-01-23_aframax-market-to-tighten-if-greek-operators-lift-discounted-urals.html"
 ---
 

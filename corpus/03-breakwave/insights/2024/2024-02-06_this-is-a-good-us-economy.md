@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/6/this-is-a-good-us-economy"
 tags: ["Economy", "Markets"]
 images_count: 12
-word_count: 1868
+word_count: 1880
 source_file: "corpus/03-breakwave/insights/2024/2024-02-06_this-is-a-good-us-economy.html"
 ---
 
@@ -108,7 +108,7 @@ Meanwhile, acting quickly, the Fed avoided “the inflation mindset”, i.e. the
 > **Figure 9: 249**  
 > **Interactive Data & Source:** [Ft](https://www.ft.com/content/4c78d236-5af7-40ad-9188-6f37a6223f36) | [Local Asset](assets/2024-02-06_this-is-a-good-us-economy_img_249_513aaf1b0939.png)
 
-So, in this environment, the Fed is[now saying](https://www.ft.com/content/4c78d236-5af7-40ad-9188-6f37a6223f36)it will perform three cuts this year, and qualifies this statement by intoning that the fight against inflation can’t be[considered won yet](https://www.youtube.com/watch?v=OPO7S8WimSc).
+So, in this environment, the Fed is [now saying](https://www.ft.com/content/4c78d236-5af7-40ad-9188-6f37a6223f36) it will perform three cuts this year, and qualifies this statement by intoning that the fight against inflation can’t be [considered won yet](https://www.youtube.com/watch?v=OPO7S8WimSc).
 
 ### What Does It All Mean for Investors?
 

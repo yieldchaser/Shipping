@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/8/the-global-economy-dark-clouds-on-the-horizon"
 tags: ["Global", "Economy", "Crisis"]
 images_count: 3
-word_count: 993
+word_count: 996
 source_file: "corpus/03-breakwave/insights/2021/2021-10-08_the-global-economy-dark-clouds-on-the-horizon.html"
 ---
 

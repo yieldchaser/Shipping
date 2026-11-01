@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/5/25/asias-refining-margins-rebound-but-how-sustainable-is-this-emerging-recovery"
 images_count: 3
-word_count: 1187
+word_count: 1190
 source_file: "corpus/03-breakwave/insights/2023/2023-05-26_asias-refining-margins-rebound-but-how-sustainable-is-this-emerging-recovery.html"
 ---
 

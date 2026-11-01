@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/7/capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades"
 tags: ["China", "Guinea", "Brazil", "Capesize", "Geopolitics"]
 images_count: 4
-word_count: 1666
+word_count: 1670
 source_file: "corpus/03-breakwave/insights/2021/2021-09-08_capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades.html"
 ---
 
@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-09-08_capesize-forecasts-ch
 
 ---
 
-![Capesize Spot Index](assets/2021-09-08_capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades_img_unsplash-image-54o0oppz4a0_54428dfb171c.jpg)
+![Capesize Spot Index](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-08_capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades_img_unsplash-image-54o0oppz4a0_54428dfb171c.jpg)
 
 > **Figure 1: Capesize Spot Index**  
 > *Capesize Spot Index, 2017-Today*  
@@ -36,32 +36,32 @@ The dry bulk market has so far experienced its own rollercoaster. Interestingly,
 
 Although achieving spot rates of $50,000 per day should not be dismissed, the Capesize market is faced with specific obstacles that do not exist in other sub-segments of dry bulk, at least to the same degree. The reliance on Chinese-consumed iron ore is the most important one, which combined with a handful of countries and regions where Capesizes operate, makes it particularly vulnerable to geopolitical changes and risk concentration.
 
-![Capes Sep 3](assets/2021-09-08_capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades_img_capessep3_e04cf44f6e33.jpg)
+![Capes Sep 3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-08_capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades_img_capessep3_e04cf44f6e33.jpg)
 
 > **Figure 2: Capes Sep 3**  
 > **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/9/7/bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-08_capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades_img_capessep3_e04cf44f6e33.jpg)
 
-In the midst of all the above, additional unforeseen events add to the uncertainty. Without trying to become experts in West African politics (for us as for most,**Guinea**was a quiet country with lots of bauxite just a few days back) the recent coup in Guinea brought to the table another risk for future Capesize demand from a region that a few years back was irrelevant to shipping but that currently accounts for almost 5% of Capesize loadings. It would be foolish to disregard the situation and pretend the future will look like the past. And yet, given our ignorance, we can not make any intelligent analysis on the political stability for that part of the world without sounding like “cocktail hour experts”. Ulf Bergman from Ocean Analytics has an excellent piece[here](https://www.breakwaveadvisors.com/insights/2021/9/7/bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies)on the issue and the fine relationships associated with the events.
+In the midst of all the above, additional unforeseen events add to the uncertainty. Without trying to become experts in West African politics (for us as for most,**Guinea** was a quiet country with lots of bauxite just a few days back) the recent coup in Guinea brought to the table another risk for future Capesize demand from a region that a few years back was irrelevant to shipping but that currently accounts for almost 5% of Capesize loadings. It would be foolish to disregard the situation and pretend the future will look like the past. And yet, given our ignorance, we can not make any intelligent analysis on the political stability for that part of the world without sounding like “cocktail hour experts”. Ulf Bergman from Ocean Analytics has an excellent piece [here](https://www.breakwaveadvisors.com/insights/2021/9/7/bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies) on the issue and the fine relationships associated with the events.
 
-![China Steel Production Yoy Growth](assets/2021-09-08_capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades_img_s111dvale_99bd5738a0bf.png)
+![China Steel Production Yoy Growth](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-08_capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades_img_s111dvale_99bd5738a0bf.png)
 
 > **Figure 3: China Steel Production Yoy Growth**  
 > *China Steel Production YoY Growth, 2015-Current*  
 > **Interactive Data & Source:** [Reuters](https://www.reuters.com/world/americas/brazil-braces-pro-bolsonaro-rallies-tuesday-2021-09-06/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-08_capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades_img_s111dvale_99bd5738a0bf.png)
 
-**Brazil**is also another area where recent developments are becoming more concerning: Political stability is important when half of Capesize demand originates from that country. The[news flow has been concerning](https://www.reuters.com/world/americas/brazil-braces-pro-bolsonaro-rallies-tuesday-2021-09-06/)and once again political predictions are a fool’s game, especially when it comes to Latin America politics (we still remember the early 2000s forecasts of Venezuela surpassing Saudi Arabia in oil production; today, Venezuela’s oil industry is decimated and oil output from the country represents a rounding error in the global oil markets).
+**Brazil** is also another area where recent developments are becoming more concerning: Political stability is important when half of Capesize demand originates from that country. The [news flow has been concerning](https://www.reuters.com/world/americas/brazil-braces-pro-bolsonaro-rallies-tuesday-2021-09-06/) and once again political predictions are a fool’s game, especially when it comes to Latin America politics (we still remember the early 2000s forecasts of Venezuela surpassing Saudi Arabia in oil production; today, Venezuela’s oil industry is decimated and oil output from the country represents a rounding error in the global oil markets).
 
-Last but not least,**China**has recently been pushing aggressively its own steel industry in a direction that can conservatively described as unfriendly to global trade. Under the umbrella of a cleaner environmental policy, steel mills are forced to curtail production and reduce exports, hurting iron ore demand (iron ore prices haven been halved in the last few months) and potentially impacting iron ore imports.
+Last but not least,**China** has recently been pushing aggressively its own steel industry in a direction that can conservatively described as unfriendly to global trade. Under the umbrella of a cleaner environmental policy, steel mills are forced to curtail production and reduce exports, hurting iron ore demand (iron ore prices haven been halved in the last few months) and potentially impacting iron ore imports.
 On the opposite spectrum, coal trade remains a shinning area, ironically reflecting strong competition from energy-thirsty countries ex-China that have for years dismissed the “dirty” fuel only to recently see energy costs skyrocketing. Combine the above with the increasing inefficiencies in trading as it relates to China’s own trade dispute with Australia, and coal trading is back with a vengeance although by no means this should be considered a trend.
 
-![China Steel Growth (3)](assets/2021-09-08_capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades_img_chinasteelgrowth28329_be3b245e14fc.jpg)
+![China Steel Growth (3)](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-08_capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades_img_chinasteelgrowth28329_be3b245e14fc.jpg)
 
 > **Figure 4: China Steel Growth (3)**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-08_capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades_img_chinasteelgrowth28329_be3b245e14fc.jpg)
 
-All of the above are**red flags when it comes to**Capesize demand. Such an environment, especially as it relates to China, sounds at best challenging. And yet, here we are with the spot index at ~$40,000 (though on the way down) after reaching decade highs a few weeks back, and with most market participants optimistic enough to be bidding physical ships to multi-year highs.
+All of the above are **red flags when it comes to** Capesize demand. Such an environment, especially as it relates to China, sounds at best challenging. And yet, here we are with the spot index at ~$40,000 (though on the way down) after reaching decade highs a few weeks back, and with most market participants optimistic enough to be bidding physical ships to multi-year highs.
 
-The good news is that the freight market is demand driven but supply enabled. And vessel**supply growth is low**,**multi-decade low**. As long as demand growth remains positive, the future balance continues to point to strong rates.
+The good news is that the freight market is demand driven but supply enabled. And vessel **supply growth is low**,**multi-decade low**. As long as demand growth remains positive, the future balance continues to point to strong rates.
 
 As once again we look at what we previously described as relatively inaccurate calculations (i.e. supply and demand figures) in order to predict the future state of the dry bulk shipping market, we remain very conscious of the limitations that such an approach has. However, undoubtedly shipping operates more profitably in a “tight” environment and that’s what such predictions are useful for. Timing on the other hand, takes a life of its own in the volatile and complicated world we live in.
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/6/1/oil-slump-amid-signs-of-weak-physical-demand"
 images_count: 1
-word_count: 597
+word_count: 598
 source_file: "corpus/03-breakwave/insights/2023/2023-06-01_oil-slump-amid-signs-of-weak-physical-demand.html"
 ---
 

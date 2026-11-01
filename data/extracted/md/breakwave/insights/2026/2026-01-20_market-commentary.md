@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/20/market-commentary"
 tags: ["Crude", "Shipping", "Markets"]
 images_count: 1
-word_count: 627
+word_count: 628
 source_file: "corpus/03-breakwave/insights/2026/2026-01-20_market-commentary.html"
 ---
 

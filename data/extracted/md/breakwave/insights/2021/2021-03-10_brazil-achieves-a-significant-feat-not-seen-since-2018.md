@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/7/brazil-achieves-a-significant-feat-not-seen-since-2018"
 tags: ["Brazil"]
 images_count: 1
-word_count: 430
+word_count: 431
 source_file: "corpus/03-breakwave/insights/2021/2021-03-10_brazil-achieves-a-significant-feat-not-seen-since-2018.html"
 ---
 
@@ -26,7 +26,7 @@ Brazilian iron ore exports totaled approximately 24.1 million tons last month, w
 
 Brazil’s iron ore exports are likely to increase year-on-year by at the very least 20 million tons this year — and an increase exceeding even 40 million tons would not at all be surprising. As we have discussed in our recent Weekly Dry Bulk Reports, Vale on its own is guiding that its production this year will rise year-on-year by approximately 15 - 35 million tons. Samarco production also resumed last year, and Samarco is expected to provide an additional 8 million tons of new Brazilian iron ore to the market this year. Anglo American’s Minas Rio mine is also expected to see its production rise by as much as 2 million tons this year.
 
-![Commodore 3](assets/2021-03-10_brazil-achieves-a-significant-feat-not-seen-since-2018_img_commodore3_d38e2f26d472.jpg)
+![Commodore 3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-10_brazil-achieves-a-significant-feat-not-seen-since-2018_img_commodore3_d38e2f26d472.jpg)
 
 > **Figure 1: Commodore 3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-10_brazil-achieves-a-significant-feat-not-seen-since-2018_img_commodore3_d38e2f26d472.jpg)

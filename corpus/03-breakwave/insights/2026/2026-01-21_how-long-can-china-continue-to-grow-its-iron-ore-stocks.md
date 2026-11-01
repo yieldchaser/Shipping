@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/21/how-long-can-china-continue-to-grow-its-iron-ore-stocks"
 tags: ["Ironore", "Drybulk", "Shipping"]
 images_count: 3
-word_count: 919
+word_count: 922
 source_file: "corpus/03-breakwave/insights/2026/2026-01-21_how-long-can-china-continue-to-grow-its-iron-ore-stocks.html"
 ---
 

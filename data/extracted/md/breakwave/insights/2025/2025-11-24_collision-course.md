@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/24/collision-course"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 2
-word_count: 630
+word_count: 632
 source_file: "corpus/03-breakwave/insights/2025/2025-11-24_collision-course.html"
 ---
 

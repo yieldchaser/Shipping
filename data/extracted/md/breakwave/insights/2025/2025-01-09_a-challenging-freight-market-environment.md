@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/9/a-challenging-freight-market-environment"
 tags: ["Shipping", "Drybulk", "Markets"]
 images_count: 5
-word_count: 1318
+word_count: 1323
 source_file: "corpus/03-breakwave/insights/2025/2025-01-09_a-challenging-freight-market-environment.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-01-09_a-challenging-freight
 ---
 
 **Dry Weekly Market Monitor - Week 02,2025**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 January 09, 2025
 
 ## Chart of the Week: Capesize Market (Iron Ore Shipments, Market Rates, South Atlantic Ballasters)

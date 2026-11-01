@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/11/28/breakwave-bi-weekly-tanker-report-nov-28-2023-mmg34"
 images_count: 5
-word_count: 754
+word_count: 759
 source_file: "corpus/03-breakwave/insights/2023/2023-11-28_breakwave-bi-weekly-tanker-report-nov-28-2023-mmg34.html"
 ---
 

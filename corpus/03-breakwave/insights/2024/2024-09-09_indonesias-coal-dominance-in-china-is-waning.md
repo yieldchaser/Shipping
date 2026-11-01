@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/9/indonesias-coal-dominance-in-china-is-waning"
 tags: ["Drybulk", "China", "Coal"]
 images_count: 4
-word_count: 426
+word_count: 430
 source_file: "corpus/03-breakwave/insights/2024/2024-09-09_indonesias-coal-dominance-in-china-is-waning.html"
 ---
 

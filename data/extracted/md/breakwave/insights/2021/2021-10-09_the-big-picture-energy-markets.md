@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/9/the-big-picture-energy-markets"
 tags: ["Global Economy", "Energy", "Coal"]
 images_count: 4
-word_count: 1324
+word_count: 1328
 source_file: "corpus/03-breakwave/insights/2021/2021-10-09_the-big-picture-energy-markets.html"
 ---
 
@@ -32,7 +32,7 @@ Another day, another supply chain crisis. Since we last wrote about coal a few w
 
 However prices dramatically corrected downwards yesterday on news of imminent increased Russian supply. At the time of writing, futures have swung below €100 per MWh. This appears to have put a dent in Coal prices in the region too, which slumped to $190 per tonne earlier today and have since stabilised around $214.
 
-![Market Chart 1](assets/2021-10-09_the-big-picture-energy-markets_img_image028129_774475b828b5.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-09_the-big-picture-energy-markets_img_image028129_774475b828b5.png)
 
 > **Figure 1: Market Chart 1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-09_the-big-picture-energy-markets_img_image028129_774475b828b5.png)
@@ -47,7 +47,7 @@ As we have written for much of this year, China has been facing extremely high c
 
 Despite the official ban on Australian cargoes still being in place, China’s total coal imports over Q3 surged by 47% YoY to 27.2m tonnes, buoyed by a surge in volumes from nearby suppliers Indonesia and Russia. But these volumes have not been able to satisfy demand, especially for higher-grade material. As a result, we’ve also seen a jump in imports from further afield, such the US, volumes of which were up almost seven-fold YoY in Q3 at 1.2m tonnes. Imports from Canada, Colombia and Mozambique were also up by 74%, 189% and 341% YoY respectively. And even more indicative of scarce supply is, this week we heard of coal from Kazakhstan being shipped to China in a Cape (via Russia).
 
-![Market Chart 2](assets/2021-10-09_the-big-picture-energy-markets_img_image1_db9be6a5efb8.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-09_the-big-picture-energy-markets_img_image1_db9be6a5efb8.png)
 
 > **Figure 2: Market Chart 2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-09_the-big-picture-energy-markets_img_image1_db9be6a5efb8.png)
@@ -60,7 +60,7 @@ More recently, India has joined the ranks of countries experiencing fuel shortag
 
 In the longer-term, a recovery in domestic output and the winter slowdown in power demand will likely ease shortages, but with short-term domestic supply becoming extremely tight, the government may act to bolster imported volumes. Based on the latest government reports, 80% of Indian coal power stations are operating at ‘critical’ or ‘super-critical’ levels of inventories, meaning their stocks are below 3 to 9 days of supply, depending how far the utility is from a coal mine.
 
-![Market Chart 3](assets/2021-10-09_the-big-picture-energy-markets_img_image2_fbeb65074389.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-09_the-big-picture-energy-markets_img_image2_fbeb65074389.png)
 
 > **Figure 3: Market Chart 3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-09_the-big-picture-energy-markets_img_image2_fbeb65074389.png)
@@ -69,7 +69,7 @@ In the longer-term, a recovery in domestic output and the winter slowdown in pow
 
 Amid this coal rush, freight rates have also surged for the larger bulk carriers, with Capesize utilisation rates now at the extremely high levels that the geared ships have been at for the last few months. The bump in demand has come on top of healthy volumes of iron ore shipments in both basins and continued congestion issues in China, which are currently sapping about 6.6% of Capesize supply. Headlines were made this week when average Cape earnings surged to $86,870 per day, levels last seen in 2009, and with rates in exponential territory, a push above the $100,000 mark is not out of the question.
 
-![Market Chart 4](assets/2021-10-09_the-big-picture-energy-markets_img_image3_29b3a68679ca.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-09_the-big-picture-energy-markets_img_image3_29b3a68679ca.png)
 
 > **Figure 4: Market Chart 4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-09_the-big-picture-energy-markets_img_image3_29b3a68679ca.png)

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/4/the-dry-bulk-sector-amidst-a-pervasive-sense-of-euphoria"
 tags: ["Drybulk", "Shipping"]
 images_count: 3
-word_count: 968
+word_count: 971
 source_file: "corpus/03-breakwave/insights/2024/2024-03-04_the-dry-bulk-sector-amidst-a-pervasive-sense-of-euphoria.html"
 ---
 

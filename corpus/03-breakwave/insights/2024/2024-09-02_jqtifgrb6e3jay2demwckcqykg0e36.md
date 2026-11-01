@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/2/jqtifgrb6e3jay2demwckcqykg0e36"
 tags: ["Shipping", "Capesize", "Drybulk"]
 images_count: 4
-word_count: 1170
+word_count: 1174
 source_file: "corpus/03-breakwave/insights/2024/2024-09-02_jqtifgrb6e3jay2demwckcqykg0e36.html"
 ---
 

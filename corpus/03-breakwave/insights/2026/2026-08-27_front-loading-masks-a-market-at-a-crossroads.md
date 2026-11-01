@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/8/27/front-loading-masks-a-market-at-a-crossroads"
 tags: ["Commodities", "Drybulk", "Shipping"]
 images_count: 3
-word_count: 774
+word_count: 777
 source_file: "corpus/03-breakwave/insights/2026/2026-08-27_front-loading-masks-a-market-at-a-crossroads.html"
 ---
 

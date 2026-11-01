@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/8/dry-bulk-demand-tonne-days"
 images_count: 5
-word_count: 1208
+word_count: 1213
 source_file: "corpus/03-breakwave/insights/2024/2024-11-08_dry-bulk-demand-tonne-days.html"
 ---
 
@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-11-08_dry-bulk-demand-tonne
 ---
 
 **Dry Weekly Market Monitor - Week 45.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 November 07, 2024
 
 ## Chart of the Week: Dry Bulk Demand - Tonne Days

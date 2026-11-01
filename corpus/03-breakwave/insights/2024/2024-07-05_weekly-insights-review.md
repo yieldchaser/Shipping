@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/5/weekly-insights-review"
 tags: ["Shipping", "Drybulk", "Tankers", "Economy"]
 images_count: 12
-word_count: 1289
+word_count: 1301
 source_file: "corpus/03-breakwave/insights/2024/2024-07-05_weekly-insights-review.html"
 ---
 
@@ -37,7 +37,7 @@ A second Trump presidency will very likely also affect global geopolitics and oc
 
 ## Breakwave Tanker Report
 
-**The VLCC Market Steadies Following a Month of Constant Pressure, as a Rare Positive Factor Emerges**– The VLCC market remained**relatively stable**in the final week of June, following persistent downward pressure recorded earlier in the month.
+**The VLCC Market Steadies Following a Month of Constant Pressure, as a Rare Positive Factor Emerges**– The VLCC market remained **relatively stable** in the final week of June, following persistent downward pressure recorded earlier in the month.
 
 ![Στιγμιότυπο Οθόνης 2024 07 02 095559](assets/2024-07-05_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_87b965fd3605.png)
 

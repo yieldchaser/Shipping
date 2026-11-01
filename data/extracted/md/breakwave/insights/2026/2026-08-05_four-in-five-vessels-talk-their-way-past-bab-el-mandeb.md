@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/8/5/four-in-five-vessels-talk-their-way-past-bab-el-mandeb"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 1
-word_count: 1482
+word_count: 1483
 source_file: "corpus/03-breakwave/insights/2026/2026-08-05_four-in-five-vessels-talk-their-way-past-bab-el-mandeb.html"
 ---
 

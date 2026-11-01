@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/17/china-emerging-from-pandemic-with-stronger-economy-and-having-not-experienced-newfound-shift-to-some-degree-of-authoritarianism"
 tags: ["China", "Usa", "Us Dollar"]
 images_count: 3
-word_count: 943
+word_count: 946
 source_file: "corpus/03-breakwave/insights/2021/2021-01-20_china-emerging-from-pandemic-with-stronger-economy-and-having-not-experienced-ne.html"
 ---
 

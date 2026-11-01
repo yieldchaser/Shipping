@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/7/relations-between-australia-and-china-as-frozen-as-the-northern-hemisphere"
 tags: ["China", "Trade"]
 images_count: 2
-word_count: 643
+word_count: 645
 source_file: "corpus/03-breakwave/insights/2021/2021-01-08_relations-between-australia-and-china-as-frozen-as-the-northern-hemisphere.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-01-08_relations-between-aus
 
 *By Ulf Bergman*
 
-![Australia China](assets/2021-01-08_relations-between-australia-and-china-as-frozen-as-the-northern-hemisphere_img_australiachina_ef1989f91ba4.jpg)
+![Australia China](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-08_relations-between-australia-and-china-as-frozen-as-the-northern-hemisphere_img_australiachina_ef1989f91ba4.jpg)
 
 > **Figure 1: Australia China**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-08_relations-between-australia-and-china-as-frozen-as-the-northern-hemisphere_img_australiachina_ef1989f91ba4.jpg)
@@ -31,7 +31,7 @@ The Northern hemisphere is currently facing a colder than usual winter, which pr
 
 The cold weather has exacerbated an already tight energy situation in China, as demand has been steadily rising in the wake of a rapidly expanding industrial production. Recently there have been reports of power cuts and that some cities have allegedly gone black, as power producers struggle to keep up with demand as the need for heating increases. An additional challenge for Chinese energy producers is the high dependence on thermal coal, which currently is in short supply in China. While global international coal prices have retreated from the high recorded in late December, domestic coal prices have surged in China and the national coal indices have stopped being updated in an effort to control the gains.
 
-![Market Chart 2](assets/2021-01-08_relations-between-australia-and-china-as-frozen-as-the-northern-hemisphere_img_image-asset_894485408bb5.jpeg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-08_relations-between-australia-and-china-as-frozen-as-the-northern-hemisphere_img_image-asset_894485408bb5.jpeg)
 
 > **Figure 2: Market Chart 2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-08_relations-between-australia-and-china-as-frozen-as-the-northern-hemisphere_img_image-asset_894485408bb5.jpeg)

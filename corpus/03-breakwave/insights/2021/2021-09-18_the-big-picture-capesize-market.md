@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/17/the-big-picture-capesize-market"
 tags: ["Shipping", "Economy", "Capesize"]
 images_count: 4
-word_count: 1015
+word_count: 1019
 source_file: "corpus/03-breakwave/insights/2021/2021-09-18_the-big-picture-capesize-market.html"
 ---
 

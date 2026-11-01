@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/9/20/key-takeaways-from-energy-day-at-vortexa-innovation-week"
 images_count: 2
-word_count: 1159
+word_count: 1161
 source_file: "corpus/03-breakwave/insights/2022/2022-09-20_key-takeaways-from-energy-day-at-vortexa-innovation-week.html"
 ---
 

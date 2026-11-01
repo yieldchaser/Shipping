@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/6/india-likely-to-experience-largest-ever-blackouts-soon"
 tags: ["Energycrisis", "India", "Coal"]
 images_count: 1
-word_count: 548
+word_count: 549
 source_file: "corpus/03-breakwave/insights/2021/2021-10-07_india-likely-to-experience-largest-ever-blackouts-soon.html"
 ---
 
@@ -26,7 +26,7 @@ Global Market Possibly Could Ultimately See "Coal At Any Price" / "Freight At An
 
 India’s power plant coal stockpiles now stand at only 7.7 million tons. This is 500,000 tons (-6%) less than was stockpiled at the end of last week, down year-on-year by 26.3 million tons (-77%), and marks the lowest amount stockpiled since October 2017. The stockpiles collectively are still able to meet only 4 days of demand, even though the normal requirement for this time of year is to meet 21 days of demand. We are unaware of any other time when India's stockpiles have been able to meet only 4 days of demand. Also of note is that among the nation's power plants, 14 power plants can meet only 3 days of demand, 20 can meet only 2 days of demand, 25 can meet only 1 day of demand, and 16 are not able to meet any demand. This issue will be discussed in greater detail in Commodore's next Weekly Dry Bulk Report.
 
-![Chart 1](assets/2021-10-07_india-likely-to-experience-largest-ever-blackouts-soon_img_chart1_30f7976d9e51.jpg)
+![Chart 1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-07_india-likely-to-experience-largest-ever-blackouts-soon_img_chart1_30f7976d9e51.jpg)
 
 > **Figure 1: Chart 1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-07_india-likely-to-experience-largest-ever-blackouts-soon_img_chart1_30f7976d9e51.jpg)

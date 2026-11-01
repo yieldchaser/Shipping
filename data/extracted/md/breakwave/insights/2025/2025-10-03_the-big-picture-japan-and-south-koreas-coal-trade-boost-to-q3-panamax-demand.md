@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/3/the-big-picture-japan-and-south-koreas-coal-trade-boost-to-q3-panamax-demand"
 tags: ["Drybulk", "Freightrates", "Markets"]
 images_count: 2
-word_count: 717
+word_count: 719
 source_file: "corpus/03-breakwave/insights/2025/2025-10-03_the-big-picture-japan-and-south-koreas-coal-trade-boost-to-q3-panamax-demand.html"
 ---
 

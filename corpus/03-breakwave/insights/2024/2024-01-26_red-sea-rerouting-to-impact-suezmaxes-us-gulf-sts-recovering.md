@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/1/26/red-sea-rerouting-to-impact-suezmaxes-us-gulf-sts-recovering"
 images_count: 2
-word_count: 750
+word_count: 752
 source_file: "corpus/03-breakwave/insights/2024/2024-01-26_red-sea-rerouting-to-impact-suezmaxes-us-gulf-sts-recovering.html"
 ---
 

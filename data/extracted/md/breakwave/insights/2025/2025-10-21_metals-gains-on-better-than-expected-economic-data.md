@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/21/metals-gains-on-better-than-expected-economic-data"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 2
-word_count: 839
+word_count: 841
 source_file: "corpus/03-breakwave/insights/2025/2025-10-21_metals-gains-on-better-than-expected-economic-data.html"
 ---
 
@@ -35,7 +35,7 @@ Easing trade tensions helped support sentiment, with all sectors ending the sess
 
 Easing trade tensions failed to dampen investor demand for haven assets, such as **gold**, with the precious which finished the session just shy of its record high of USD4,379/oz. Instead, traders took advantage of a selloff on Friday to buy more gold. This highlights the strong underlying factors behind gold’s rise. Mounting geopolitical, economic and financial uncertainties along with the Fed’s easing should see the metal continue to break new highs in 2026. Rising prices have also done little to douse retail demand. Diwali, the Hindu festival of light, kicked off in India with the public rushing to purchase gold.
 
-**Iron ore**futures fell as further weakness in China’s property sector raised concerns over demand. Home prices fell more steeply in September, despite recent easing measures introduced by major cities to revive the struggling sector. New home prices in 70 cities dropped 0.4% m/m, the biggest decline in 11 months. Real estate investment tumbled 13.9% in the first three quarters, marking a new low since 2014. Outside of property, fixed asset investment was also weaker, notching up a rare contraction in the nine months to September. Capital spending on infrastructure and manufacturing also slowed.
+**Iron ore** futures fell as further weakness in China’s property sector raised concerns over demand. Home prices fell more steeply in September, despite recent easing measures introduced by major cities to revive the struggling sector. New home prices in 70 cities dropped 0.4% m/m, the biggest decline in 11 months. Real estate investment tumbled 13.9% in the first three quarters, marking a new low since 2014. Outside of property, fixed asset investment was also weaker, notching up a rare contraction in the nine months to September. Capital spending on infrastructure and manufacturing also slowed.
 
 **Crude oil** edged lower amid mounting evidence that the long-awaited surplus is finally starting to emerge. Crude oil held in tankers traversing the world’s oceans expanded to a fresh high, hitting 1.24mbbl in the week to 17 October, according to data from analytics firm Vortexa. Geopolitical pressure was also at play. Trump urged Ukraine’s President Zelenskiy to accept President Putin’s terms for a peace deal or be destroyed by Russia. This was amid a tense meeting in the White House, which appears to reflect the US president’s shifting position on the war. This eased concerns that the US would increase pressure on Russia by increasing sanctions on its oil industry.
 

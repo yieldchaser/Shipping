@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/22/breakwave-bi-weekly-dry-bulk-report-november-22-2022"
 images_count: 3
-word_count: 714
+word_count: 717
 source_file: "corpus/03-breakwave/insights/2022/2022-11-22_breakwave-bi-weekly-dry-bulk-report-november-22-2022.html"
 ---
 

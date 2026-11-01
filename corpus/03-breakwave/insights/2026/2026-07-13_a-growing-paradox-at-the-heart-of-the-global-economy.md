@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/7/13/a-growing-paradox-at-the-heart-of-the-global-economy"
 tags: ["Drybulk", "Markets", "Economy"]
 images_count: 1
-word_count: 1057
+word_count: 1058
 source_file: "corpus/03-breakwave/insights/2026/2026-07-13_a-growing-paradox-at-the-heart-of-the-global-economy.html"
 ---
 

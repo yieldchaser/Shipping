@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/7/31/near-term-prospects-for-chinas-coal-imports-remain-bullish"
 tags: ["Drybulk", "China", "Coal"]
 images_count: 3
-word_count: 366
+word_count: 369
 source_file: "corpus/03-breakwave/insights/2026/2026-07-31_near-term-prospects-for-chinas-coal-imports-remain-bullish.html"
 ---
 

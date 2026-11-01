@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/6/3/long-voyages-in-a-fragmented-world-the-evolution-of-tankers"
 tags: ["Tankers", "Shipping", "Crude"]
 images_count: 4
-word_count: 2009
+word_count: 2013
 source_file: "corpus/03-breakwave/insights/2026/2026-06-03_long-voyages-in-a-fragmented-world-the-evolution-of-tankers.html"
 ---
 

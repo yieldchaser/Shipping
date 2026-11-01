@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/4/seaborne-volumes-of-iron-ore-and-coal-on-the-rise-in-may"
 tags: ["Coal", "China"]
 images_count: 4
-word_count: 907
+word_count: 911
 source_file: "corpus/03-breakwave/insights/2021/2021-06-07_seaborne-volumes-of-iron-ore-and-coal-on-the-rise-in-may.html"
 ---
 

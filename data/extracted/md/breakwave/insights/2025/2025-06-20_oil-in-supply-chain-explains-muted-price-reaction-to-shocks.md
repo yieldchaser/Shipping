@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/20/oil-in-supply-chain-explains-muted-price-reaction-to-shocks"
 tags: ["Crude", "Tankers", "Market"]
 images_count: 1
-word_count: 835
+word_count: 836
 source_file: "corpus/03-breakwave/insights/2025/2025-06-20_oil-in-supply-chain-explains-muted-price-reaction-to-shocks.html"
 ---
 

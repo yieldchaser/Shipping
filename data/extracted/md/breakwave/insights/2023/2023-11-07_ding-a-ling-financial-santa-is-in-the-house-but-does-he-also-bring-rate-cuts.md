@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/11/7/ding-a-ling-financial-santa-is-in-the-house-but-does-he-also-bring-rate-cuts"
 images_count: 4
-word_count: 1495
+word_count: 1499
 source_file: "corpus/03-breakwave/insights/2023/2023-11-07_ding-a-ling-financial-santa-is-in-the-house-but-does-he-also-bring-rate-cuts.html"
 ---
 

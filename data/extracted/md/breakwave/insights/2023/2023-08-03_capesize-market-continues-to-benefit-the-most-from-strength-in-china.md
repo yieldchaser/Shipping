@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/8/3/capesize-market-continues-to-benefit-the-most-from-strength-in-china"
 images_count: 1
-word_count: 386
+word_count: 387
 source_file: "corpus/03-breakwave/insights/2023/2023-08-03_capesize-market-continues-to-benefit-the-most-from-strength-in-china.html"
 ---
 

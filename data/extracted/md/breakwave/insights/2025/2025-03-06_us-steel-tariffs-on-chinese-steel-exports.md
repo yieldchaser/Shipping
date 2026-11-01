@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/6/us-steel-tariffs-on-chinese-steel-exports"
 tags: ["Shipping", "Drybulk", "Markets"]
 images_count: 5
-word_count: 1329
+word_count: 1334
 source_file: "corpus/03-breakwave/insights/2025/2025-03-06_us-steel-tariffs-on-chinese-steel-exports.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-03-06_us-steel-tariffs-on-c
 ---
 
 **Dry Weekly Market Monitor - Week 10, 2025**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 March 05, 2025
 
 ![Στιγμιότυπο Οθόνης 2025 03 06 133350](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_us-steel-tariffs-on-chinese-steel-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d3921b91598a.png)

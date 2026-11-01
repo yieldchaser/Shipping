@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/9/7/russian-urals-sts-activity-declines-85-from-q1-peak"
 images_count: 3
-word_count: 1157
+word_count: 1160
 source_file: "corpus/03-breakwave/insights/2023/2023-09-07_russian-urals-sts-activity-declines-85-from-q1-peak.html"
 ---
 

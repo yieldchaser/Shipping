@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/15/the-big-picture-capesize-market"
 tags: ["Capesize", "Dry Bulk"]
 images_count: 4
-word_count: 1168
+word_count: 1172
 source_file: "corpus/03-breakwave/insights/2021/2021-04-16_the-big-picture-capesize-market.html"
 ---
 
@@ -28,7 +28,7 @@ Capesize rates surged this week, late to the party that the Panamaxes and geared
 
 The FFA market has been even hotter, in turn fuelling the physical market in a virtuous cycle. May futures hit as high as $31,600 today, more than doubling since the beginning of March. But optimism in the paper market seems to stretch beyond the front months and even contracts for the next few years have seen sizeable gains. Cal22 futures are currently trading at $18,725 gaining over $4,750 since the start of the year.
 
-![Braemar 10](assets/2021-04-16_the-big-picture-capesize-market_img_braemar10_ccc820f36edb.png)
+![Braemar 10](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-16_the-big-picture-capesize-market_img_braemar10_ccc820f36edb.png)
 
 > **Figure 1: Braemar 10**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-16_the-big-picture-capesize-market_img_braemar10_ccc820f36edb.png)
@@ -41,7 +41,7 @@ One of these is the minimum ballast requirement that is still in place on some t
 
 Since the minimum ballast requirement was imposed, Capes on C5 trades spent on average 24 days ballasting towards or waiting outside Australian ports. This contrasts a fairly stable average of 20 days in the years prior to 2020, with vessels either slowing down during the unladen trip to Australia or waiting offshore for an extra couple of days. The logistics of crew changes during a pandemic have added to these inefficiencies. Many Capes have been able to perform these changes in the Philippines, a relatively convenient stop-over on Pacific round voyages, but the visit resets the clock on the 14-day quarantine, meaning ships which have changed crew on a ballast voyage have had to wait even longer off Western Australia.
 
-![Braemar 11](assets/2021-04-16_the-big-picture-capesize-market_img_braemar11_9798991ba353.png)
+![Braemar 11](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-16_the-big-picture-capesize-market_img_braemar11_9798991ba353.png)
 
 > **Figure 2: Braemar 11**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-16_the-big-picture-capesize-market_img_braemar11_9798991ba353.png)
@@ -58,7 +58,7 @@ On a global level, ignoring any other inefficiencies that have emerged during th
 
 Volumes of trade over the last few months have been mixed. Shipments from the major miners in Australia and Brazil have been steady, and grew by 5% YoY in March, but the pace has since weakened and they are on track to fall both MoM and YoY in April.
 
-![Braemar 12](assets/2021-04-16_the-big-picture-capesize-market_img_braemar12_5ee005cc6c60.png)
+![Braemar 12](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-16_the-big-picture-capesize-market_img_braemar12_5ee005cc6c60.png)
 
 > **Figure 3: Braemar 12**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-16_the-big-picture-capesize-market_img_braemar12_5ee005cc6c60.png)
@@ -71,7 +71,7 @@ Meanwhile, other coal exporters also saw a jump in Capesize exports last month, 
 
 Since the boom in scrubber retrofits in early-2020, we haven’t written very much about shipyard activity, but the volume of Capesize tonnage in yards has gradually edged upwards so far this year, constraining the fleet further. There is currently 6.9m dwt of Cape capacity in yard, up by 46% MoM and the highest since July last year. In contrast to 2019 and 2020, the vast majority of these ships are not fitting scrubbers and are instead mostly units requiring special surveys. 2011 was the biggest delivery year for the Capes, and this year, 28% of the Cape fleet turns five, ten or fifteen years old, requiring a yard visit. This amounts to 517 vessels versus 449 last year.
 
-![Braemar 13](assets/2021-04-16_the-big-picture-capesize-market_img_braemar13_5e399b1e5bc0.png)
+![Braemar 13](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-16_the-big-picture-capesize-market_img_braemar13_5e399b1e5bc0.png)
 
 > **Figure 4: Braemar 13**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-16_the-big-picture-capesize-market_img_braemar13_5e399b1e5bc0.png)

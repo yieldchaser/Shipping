@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/19/reality-check-chinas-appetite-for-a-new-stockpiling-wave"
 tags: ["Crude", "Markets", "China"]
 images_count: 3
-word_count: 998
+word_count: 1001
 source_file: "corpus/03-breakwave/insights/2025/2025-09-19_reality-check-chinas-appetite-for-a-new-stockpiling-wave.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/4/21/the-dry-bulk-sector-is-exhibiting-a-fundamentally-different-dynamic"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 1
-word_count: 676
+word_count: 677
 source_file: "corpus/03-breakwave/insights/2026/2026-04-21_the-dry-bulk-sector-is-exhibiting-a-fundamentally-different-dynamic.html"
 ---
 

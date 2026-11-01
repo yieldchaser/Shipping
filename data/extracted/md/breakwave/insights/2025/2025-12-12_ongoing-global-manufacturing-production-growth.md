@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/12/ongoing-global-manufacturing-production-growth"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 4
-word_count: 472
+word_count: 476
 source_file: "corpus/03-breakwave/insights/2025/2025-12-12_ongoing-global-manufacturing-production-growth.html"
 ---
 

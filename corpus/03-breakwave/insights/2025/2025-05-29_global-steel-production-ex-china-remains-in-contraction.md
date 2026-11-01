@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/29/global-steel-production-ex-china-remains-in-contraction"
 tags: ["Drybulk", "Economy", "Markets"]
 images_count: 1
-word_count: 210
+word_count: 211
 source_file: "corpus/03-breakwave/insights/2025/2025-05-29_global-steel-production-ex-china-remains-in-contraction.html"
 ---
 

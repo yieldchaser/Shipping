@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/16/freight-market-vlcc-ag-supply-vs-demand"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 7
-word_count: 1058
+word_count: 1065
 source_file: "corpus/03-breakwave/insights/2026/2026-01-16_freight-market-vlcc-ag-supply-vs-demand.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-01-16_freight-market-vlcc-a
 ---
 
 **Tanker Market Monitor**
-Ballast positioning | Supply Vs Cargo Demand | Tonne-day dynamics
+ Ballast positioning | Supply Vs Cargo Demand | Tonne-day dynamics
 
 *Week 03 | January 15, 2025*
 

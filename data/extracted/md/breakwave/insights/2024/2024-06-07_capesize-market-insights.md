@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/7/capesize-market-insights"
 tags: ["Drybulk", "Shipping", "Capesize"]
 images_count: 5
-word_count: 1132
+word_count: 1137
 source_file: "corpus/03-breakwave/insights/2024/2024-06-07_capesize-market-insights.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-06-07_capesize-market-insig
 ---
 
 **Dry Weekly Market Monitor - Week 23.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 June 06, 2024
 
 ![Screenshot 2024 06 07 13.41.05](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-07_capesize-market-insights_img_screenshot2024-06-07134105_750548e23f62.png)

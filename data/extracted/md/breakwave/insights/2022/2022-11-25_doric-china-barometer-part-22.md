@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/25/doric-china-barometer-part-22"
 images_count: 7
-word_count: 1273
+word_count: 1280
 source_file: "corpus/03-breakwave/insights/2022/2022-11-25_doric-china-barometer-part-22.html"
 ---
 

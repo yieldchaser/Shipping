@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/11/this-is-a-feds-world-so-what-happens-if-markets-dont-like-the-next-chair"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 1
-word_count: 1803
+word_count: 1804
 source_file: "corpus/03-breakwave/insights/2025/2025-12-11_this-is-a-feds-world-so-what-happens-if-markets-dont-like-the-next-chair.html"
 ---
 
@@ -34,7 +34,7 @@ In the next few days or weeks, the US President will announce his pick for Fed C
 
 This November, I officially entered my third decade of investing.
 
-The first decade was about seeing a full cycle. And what a cycle it was. I went from “a child of the boom” to “a child of the Global Financial Crisis”, the most severe economic and financial challenge since 1929, in less than three years. The lesson I learned from the first decade is that**history is a guide, not a map.**As Edmurk, the father of modern conservatism, put it, “you can never plan the future by the past”. That cycles, economic and financial, don’t repeat themselves, they don’t last 5 years (this will be the subject of a future discussion), and similar investment and economic decisions may yield completely different results. Investing and business are about knowing the past and understanding the underlying principles, not trying to relive it.
+The first decade was about seeing a full cycle. And what a cycle it was. I went from “a child of the boom” to “a child of the Global Financial Crisis”, the most severe economic and financial challenge since 1929, in less than three years. The lesson I learned from the first decade is that **history is a guide, not a map.**As Edmurk, the father of modern conservatism, put it, “you can never plan the future by the past”. That cycles, economic and financial, don’t repeat themselves, they don’t last 5 years (this will be the subject of a future discussion), and similar investment and economic decisions may yield completely different results. Investing and business are about knowing the past and understanding the underlying principles, not trying to relive it.
 
 The second decade was about learning another lesson:**don’t fight the Fed (or generally the government)**. By 2015, I, along with 95% of active fund managers who were underperforming their benchmarks, was giving up on the foolish (it proved) notion that Quantitative Easing was bound to become inflationary and that the government couldn’t simply decide asset prices. It didn’t, and they could. Around that year, I also learned not to fight the European Central Bank either. The ECB had finally joined the printing-money party, and the Eurozone would live to fight another day, no matter how flawed the currency union and incomplete the banking union.
 

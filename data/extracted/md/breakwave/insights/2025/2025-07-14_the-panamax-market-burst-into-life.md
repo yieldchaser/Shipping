@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/14/the-panamax-market-burst-into-life"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 2
-word_count: 1039
+word_count: 1041
 source_file: "corpus/03-breakwave/insights/2025/2025-07-14_the-panamax-market-burst-into-life.html"
 ---
 

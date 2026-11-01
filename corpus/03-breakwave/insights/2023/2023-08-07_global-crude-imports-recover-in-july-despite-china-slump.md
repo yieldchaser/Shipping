@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/8/7/global-crude-imports-recover-in-july-despite-china-slump"
 images_count: 3
-word_count: 963
+word_count: 966
 source_file: "corpus/03-breakwave/insights/2023/2023-08-07_global-crude-imports-recover-in-july-despite-china-slump.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/3/18/india-key-to-changing-trade-flows"
 tags: ["Global", "Economy", "Trade"]
 images_count: 4
-word_count: 1244
+word_count: 1248
 source_file: "corpus/03-breakwave/insights/2022/2022-03-18_india-key-to-changing-trade-flows.html"
 ---
 

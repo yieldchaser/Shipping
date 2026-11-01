@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/8/10/positive-developments-in-india-and-brazil"
 tags: ["Shipping", "Dry Bulk"]
 images_count: 1
-word_count: 422
+word_count: 423
 source_file: "corpus/03-breakwave/insights/2020/2020-08-10_positive-developments-in-india-and-brazil.html"
 ---
 

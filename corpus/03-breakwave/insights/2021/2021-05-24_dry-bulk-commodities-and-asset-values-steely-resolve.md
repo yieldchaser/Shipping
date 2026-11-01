@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/24/dry-bulk-commodities-and-asset-values-steely-resolve"
 tags: ["Dry Bulk", "Shipping"]
 images_count: 2
-word_count: 1065
+word_count: 1067
 source_file: "corpus/03-breakwave/insights/2021/2021-05-24_dry-bulk-commodities-and-asset-values-steely-resolve.html"
 ---
 

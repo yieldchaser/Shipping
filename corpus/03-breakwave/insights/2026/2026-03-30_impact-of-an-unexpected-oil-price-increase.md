@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/29/impact-of-an-unexpected-oil-price-increase"
 tags: ["Economy", "Shipping", "Markets"]
 images_count: 1
-word_count: 1221
+word_count: 1222
 source_file: "corpus/03-breakwave/insights/2026/2026-03-30_impact-of-an-unexpected-oil-price-increase.html"
 ---
 

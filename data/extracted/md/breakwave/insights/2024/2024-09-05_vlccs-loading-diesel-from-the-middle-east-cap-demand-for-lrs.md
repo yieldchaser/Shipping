@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/5/vlccs-loading-diesel-from-the-middle-east-cap-demand-for-lrs"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 4
-word_count: 1327
+word_count: 1331
 source_file: "corpus/03-breakwave/insights/2024/2024-09-05_vlccs-loading-diesel-from-the-middle-east-cap-demand-for-lrs.html"
 ---
 

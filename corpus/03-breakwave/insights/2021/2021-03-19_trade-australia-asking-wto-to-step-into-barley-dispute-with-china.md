@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/19/trade-australia-asking-wto-to-step-into-barley-dispute-with-china"
 tags: ["Grains", "China"]
 images_count: 2
-word_count: 836
+word_count: 838
 source_file: "corpus/03-breakwave/insights/2021/2021-03-19_trade-australia-asking-wto-to-step-into-barley-dispute-with-china.html"
 ---
 

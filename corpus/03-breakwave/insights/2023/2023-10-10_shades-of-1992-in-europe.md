@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/10/9/shades-of-1992-in-europe"
 images_count: 2
-word_count: 297
+word_count: 299
 source_file: "corpus/03-breakwave/insights/2023/2023-10-10_shades-of-1992-in-europe.html"
 ---
 

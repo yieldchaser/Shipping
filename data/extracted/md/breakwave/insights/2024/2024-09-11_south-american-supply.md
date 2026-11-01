@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/11/south-american-supply"
 tags: ["Tankers", "Crude", "Shipping"]
 images_count: 2
-word_count: 571
+word_count: 573
 source_file: "corpus/03-breakwave/insights/2024/2024-09-11_south-american-supply.html"
 ---
 

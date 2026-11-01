@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/19/a-week-for-the-records-for-dry-bulk-shipping"
 images_count: 3
-word_count: 889
+word_count: 892
 source_file: "corpus/03-breakwave/insights/2020/2020-06-19_a-week-for-the-records-for-dry-bulk-shipping.html"
 ---
 
@@ -47,7 +47,7 @@ Braemar continues:
 
 However, with futures at sharp discounts to spot, a pause in the downward direction and volatility will be back with a vengeance, thus futures should remain range bound, at least during most of next week.
 
-Finally, the market has now move to a new level, and the next leg upward will start from a much higher base (though the market needs to first establish such base), thus the upside potential has generally increased. The second half of 2020 should be one of the best periods for dry bulk owners in quite sometime, as the macroeconomic picture (see[stimulus spending](https://www.scmp.com/economy/china-economy/article/3086569/china-pledges-largest-ever-economic-rescue-package-save-jobs)in the trillions around the globe) is supportive, inventories for raw materials are low ([iron ore inventories at 4-year lows](assets/2020-06-19_a-week-for-the-records-for-dry-bulk-shipping_china-iron-ore-set-7th-053009865_8f19a9f2ded6.html)), and pend up demand for shipping due to delays in the first half is increasing quite rapidly.
+Finally, the market has now move to a new level, and the next leg upward will start from a much higher base (though the market needs to first establish such base), thus the upside potential has generally increased. The second half of 2020 should be one of the best periods for dry bulk owners in quite sometime, as the macroeconomic picture (see [stimulus spending](https://www.scmp.com/economy/china-economy/article/3086569/china-pledges-largest-ever-economic-rescue-package-save-jobs) in the trillions around the globe) is supportive, inventories for raw materials are low ([iron ore inventories at 4-year lows](assets/2020-06-19_a-week-for-the-records-for-dry-bulk-shipping_china-iron-ore-set-7th-053009865_8f19a9f2ded6.html)), and pend up demand for shipping due to delays in the first half is increasing quite rapidly.
 
 ![Weighted Average Index of Near-Dated Dry Bulk Futures](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-19_a-week-for-the-records-for-dry-bulk-shipping_img_bdryff_2709f16e0a74.jpg)
 

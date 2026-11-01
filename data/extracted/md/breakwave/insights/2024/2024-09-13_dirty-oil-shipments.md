@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/13/dirty-oil-shipments"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 3
-word_count: 957
+word_count: 960
 source_file: "corpus/03-breakwave/insights/2024/2024-09-13_dirty-oil-shipments.html"
 ---
 

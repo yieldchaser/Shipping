@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/24/newfound-growth-in-gas-engine-vehicle-sales-in-china-continues"
 tags: ["China", "Crude", "Commodities"]
 images_count: 2
-word_count: 290
+word_count: 292
 source_file: "corpus/03-breakwave/insights/2025/2025-10-24_newfound-growth-in-gas-engine-vehicle-sales-in-china-continues.html"
 ---
 

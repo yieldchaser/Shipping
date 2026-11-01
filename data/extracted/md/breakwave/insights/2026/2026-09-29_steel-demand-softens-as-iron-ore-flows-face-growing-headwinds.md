@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/29/steel-demand-softens-as-iron-ore-flows-face-growing-headwinds"
 tags: ["Commodities", "Drybulk", "Ironore"]
 images_count: 3
-word_count: 764
+word_count: 767
 source_file: "corpus/03-breakwave/insights/2026/2026-09-29_steel-demand-softens-as-iron-ore-flows-face-growing-headwinds.html"
 ---
 

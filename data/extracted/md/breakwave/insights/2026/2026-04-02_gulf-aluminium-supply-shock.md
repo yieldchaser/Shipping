@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/4/2/gulf-aluminium-supply-shock"
 tags: ["Aluminum", "Drybulk", "Shipping"]
 images_count: 1
-word_count: 967
+word_count: 968
 source_file: "corpus/03-breakwave/insights/2026/2026-04-02_gulf-aluminium-supply-shock.html"
 ---
 

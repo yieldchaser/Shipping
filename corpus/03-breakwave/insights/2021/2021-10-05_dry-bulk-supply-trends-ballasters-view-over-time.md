@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/5/dry-bulk-supply-trends-ballasters-view-over-time"
 tags: ["Shipping", "Dry Bulk", "Capesize", "Panamax"]
 images_count: 2
-word_count: 747
+word_count: 749
 source_file: "corpus/03-breakwave/insights/2021/2021-10-05_dry-bulk-supply-trends-ballasters-view-over-time.html"
 ---
 

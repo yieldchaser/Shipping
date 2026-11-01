@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/23/dry-bulk-flows"
 tags: ["Dry Bulk", "Shipping"]
 images_count: 5
-word_count: 1325
+word_count: 1330
 source_file: "corpus/03-breakwave/insights/2024/2024-05-23_dry-bulk-flows.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-05-23_dry-bulk-flows.html"
 ---
 
 **Dry Weekly Market Monitor - Week 21.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 May 21, 2024
 
 ![Στιγμιότυπο Οθόνης 2024 05 23 101057](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-23_dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f03a2297a254.png)

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/12/28/a-quiet-week-for-dry-bulk-while-futures-fairly-priced-based-on-history"
 tags: ["Dry Bulk", "Capesize", "Baltic Dry Index"]
 images_count: 2
-word_count: 645
+word_count: 647
 source_file: "corpus/03-breakwave/insights/2020/2020-12-29_a-quiet-week-for-dry-bulk-while-futures-fairly-priced-based-on-history.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/22/smaller-contraction-in-chinese-home-sales"
 images_count: 3
-word_count: 327
+word_count: 330
 source_file: "corpus/03-breakwave/insights/2022/2022-11-22_smaller-contraction-in-chinese-home-sales.html"
 ---
 

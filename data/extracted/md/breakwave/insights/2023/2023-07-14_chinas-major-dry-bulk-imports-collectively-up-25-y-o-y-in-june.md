@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/7/14/chinas-major-dry-bulk-imports-collectively-up-25-y-o-y-in-june"
 images_count: 1
-word_count: 392
+word_count: 393
 source_file: "corpus/03-breakwave/insights/2023/2023-07-14_chinas-major-dry-bulk-imports-collectively-up-25-y-o-y-in-june.html"
 ---
 

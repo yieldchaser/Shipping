@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/18/mixed-session-for-commodities"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 1
-word_count: 1176
+word_count: 1177
 source_file: "corpus/03-breakwave/insights/2024/2024-07-18_mixed-session-for-commodities.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/26/chinas-coal-imports-in-2025"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 4
-word_count: 785
+word_count: 789
 source_file: "corpus/03-breakwave/insights/2025/2025-02-26_chinas-coal-imports-in-2025.html"
 ---
 

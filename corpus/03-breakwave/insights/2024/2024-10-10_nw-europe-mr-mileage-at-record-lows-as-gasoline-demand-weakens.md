@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/9/nw-europe-mr-mileage-at-record-lows-as-gasoline-demand-weakens"
 tags: ["Tankers", "Shipping", "Crude"]
 images_count: 4
-word_count: 1269
+word_count: 1273
 source_file: "corpus/03-breakwave/insights/2024/2024-10-10_nw-europe-mr-mileage-at-record-lows-as-gasoline-demand-weakens.html"
 ---
 

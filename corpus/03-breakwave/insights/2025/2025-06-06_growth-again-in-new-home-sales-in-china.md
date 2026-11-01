@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/6/growth-again-in-new-home-sales-in-china"
 tags: ["China", "Markets", "Economy"]
 images_count: 3
-word_count: 290
+word_count: 293
 source_file: "corpus/03-breakwave/insights/2025/2025-06-06_growth-again-in-new-home-sales-in-china.html"
 ---
 

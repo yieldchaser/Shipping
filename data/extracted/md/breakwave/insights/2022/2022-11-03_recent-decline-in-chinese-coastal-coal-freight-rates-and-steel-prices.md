@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/3/recent-decline-in-chinese-coastal-coal-freight-rates-and-steel-prices"
 images_count: 2
-word_count: 275
+word_count: 277
 source_file: "corpus/03-breakwave/insights/2022/2022-11-03_recent-decline-in-chinese-coastal-coal-freight-rates-and-steel-prices.html"
 ---
 

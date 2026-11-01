@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/9/21/chinas-coal-derived-electricity-output-remain-strong-hydropower-output-has-returned-to-finding-growth"
 images_count: 2
-word_count: 375
+word_count: 377
 source_file: "corpus/03-breakwave/insights/2023/2023-09-22_chinas-coal-derived-electricity-output-remain-strong-hydropower-output-has-retur.html"
 ---
 

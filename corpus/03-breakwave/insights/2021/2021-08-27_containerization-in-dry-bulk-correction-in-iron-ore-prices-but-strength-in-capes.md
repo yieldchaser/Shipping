@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/27/containerization-in-dry-bulk-correction-in-iron-ore-prices-but-strength-in-capesize-rates"
 tags: ["Shipping", "Containers"]
 images_count: 1
-word_count: 505
+word_count: 506
 source_file: "corpus/03-breakwave/insights/2021/2021-08-27_containerization-in-dry-bulk-correction-in-iron-ore-prices-but-strength-in-capes.html"
 ---
 

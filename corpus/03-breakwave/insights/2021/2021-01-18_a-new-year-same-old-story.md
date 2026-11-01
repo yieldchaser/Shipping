@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/18/a-new-year-same-old-story"
 tags: ["China", "Global Economy"]
 images_count: 2
-word_count: 574
+word_count: 576
 source_file: "corpus/03-breakwave/insights/2021/2021-01-18_a-new-year-same-old-story.html"
 ---
 

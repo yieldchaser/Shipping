@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/12/14/chappells-shipping-show-as-we-wrap-up-2022-its-important-to-keep-perspective"
 images_count: 1
-word_count: 487
+word_count: 488
 source_file: "corpus/03-breakwave/insights/2022/2022-12-14_chappells-shipping-show-as-we-wrap-up-2022-its-important-to-keep-perspective.html"
 ---
 

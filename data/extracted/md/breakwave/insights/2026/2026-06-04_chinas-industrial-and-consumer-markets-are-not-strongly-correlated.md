@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/6/4/chinas-industrial-and-consumer-markets-are-not-strongly-correlated"
 tags: ["Ironore", "Markets", "China"]
 images_count: 3
-word_count: 441
+word_count: 444
 source_file: "corpus/03-breakwave/insights/2026/2026-06-04_chinas-industrial-and-consumer-markets-are-not-strongly-correlated.html"
 ---
 

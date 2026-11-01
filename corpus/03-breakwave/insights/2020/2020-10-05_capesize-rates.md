@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/5/capesize-rates"
 tags: ["Shipping", "Dry Bulk", "Brazil", "China"]
 images_count: 4
-word_count: 973
+word_count: 977
 source_file: "corpus/03-breakwave/insights/2020/2020-10-05_capesize-rates.html"
 ---
 
@@ -38,7 +38,7 @@ But first, how unusually high are Capesize freight rates today? As we discussed 
 > *Iron Ore Price minus Freight, Brazil*  
 > **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/9/16/are-we-at-an-inflection-point-for-capesize-rates) | [Local Asset](assets/2020-10-05_capesize-rates_img_capes10-5_6e2f08bb4a51.jpg)
 
-However, the absolute time charter equivalent rate does not really tell the whole story. After all, what matters is the price the major miners pay for freight, and such price tells a whole different story. In fact, one can argue that we are**sitting at multi-year lows**in such relative pricing for the major Australian and Brazilian miners.
+However, the absolute time charter equivalent rate does not really tell the whole story. After all, what matters is the price the major miners pay for freight, and such price tells a whole different story. In fact, one can argue that we are **sitting at multi-year lows** in such relative pricing for the major Australian and Brazilian miners.
 
 How is that possible with Capesize rates in the mid-30,000?
 
@@ -50,7 +50,7 @@ Most of the Capesize freight market reflects the price a miner pay to transport 
 > *Iron Ore Price minus Freight, Australia*  
 > **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/9/16/are-we-at-an-inflection-point-for-capesize-rates) | [Local Asset](assets/2020-10-05_capesize-rates_img_iominusc3_044c632a1a0d.jpg)
 
-A similar picture is also painted for Australian miners, where the**profitability**(iron ore net of freight) is also at**multi-year highs**:
+A similar picture is also painted for Australian miners, where the **profitability**(iron ore net of freight) is also at **multi-year highs**:
 
 ![Io Minus C5](assets/2020-10-05_capesize-rates_img_iominusc5_49b596d78873.jpg)
 
@@ -61,7 +61,7 @@ Obviously, it is supply and demand that drives the price of freight, and the abo
 
 However, as one looks at today’s rates and makes assumptions about the future especially when it relates to freight market tops, it is useful to keep in mind that iron ore prices and market balance are vastly different than a few years ago and given than iron ore prices are usually reported on a CFR basis (including the cost of freight) the market dynamics have also shifted probably in favor of shipowners.
 
-Finally, the fourth quarter is here, and as we have stressed[again](https://www.breakwaveadvisors.com/insights/2020/9/16/are-we-at-an-inflection-point-for-capesize-rates)and[again](https://www.breakwaveadvisors.com/insights/2020/9/3/capesize-rates-where-do-we-stand-vs-the-past), the market balance tends to tighten as we progress towards the end of the calendar year. The freight futures curve is**steeply backwardated**reflecting traders expectations for an imminent correction. This is inevitable at some point, but once again is the averages that matter and if the correction is shallow enough or further out versus expectations, then futures prices are too conservative.
+Finally, the fourth quarter is here, and as we have stressed [again](https://www.breakwaveadvisors.com/insights/2020/9/16/are-we-at-an-inflection-point-for-capesize-rates) and [again](https://www.breakwaveadvisors.com/insights/2020/9/3/capesize-rates-where-do-we-stand-vs-the-past), the market balance tends to tighten as we progress towards the end of the calendar year. The freight futures curve is **steeply backwardated** reflecting traders expectations for an imminent correction. This is inevitable at some point, but once again is the averages that matter and if the correction is shallow enough or further out versus expectations, then futures prices are too conservative.
 
 Icarus flew too close to the sun, and as a result his wings melted and fell apart. Capesize rates are flying high at the moment, but iron ore prices are there for support.**Can Capes fly even higher?**
 

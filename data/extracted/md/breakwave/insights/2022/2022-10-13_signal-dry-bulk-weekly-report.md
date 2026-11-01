@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/13/signal-dry-bulk-weekly-report"
 images_count: 5
-word_count: 1027
+word_count: 1032
 source_file: "corpus/03-breakwave/insights/2022/2022-10-13_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -29,7 +29,7 @@ The second week saw a continued upswing in Panamax freight rates, with signs of 
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-c3/2k55p8/278585659?h=ybNRDUe8Nxf_zQZCLT8QrqtW2x13A7qbMkwusTK9FpA) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-13_signal-dry-bulk-weekly-report_img_unnamed289029_fbe696fd36b0.png)
 
 Data Source: The Signal Ocean Platform, C3 Dashboard, Demand
-[Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-c3/2k55p8/278585659?h=ybNRDUe8Nxf_zQZCLT8QrqtW2x13A7qbMkwusTK9FpA)
+ [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-c3/2k55p8/278585659?h=ybNRDUe8Nxf_zQZCLT8QrqtW2x13A7qbMkwusTK9FpA)
 
 Meanwhile, iron ore prices recorded a rise on Monday as stocks at Chinese ports fell to the lowest level after the Golden Week holidays. Mining.com news reported earlier this week that the mostactively traded January iron ore contract on the Dalian Commodity Exchange ended the trading day up 2.2% at 739.50 yuan ($103.93) per tonne, having previously been at 744.50 yuan, the highest level since August 9. In addition, there are supply concerns stemming from intense floodings in Australia that will potentially influence the pricing levels over the next few days.
 

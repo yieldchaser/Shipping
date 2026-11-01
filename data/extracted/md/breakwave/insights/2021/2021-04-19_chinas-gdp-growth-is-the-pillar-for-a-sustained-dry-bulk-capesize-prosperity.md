@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/19/chinas-gdp-growth-is-the-pillar-for-a-sustained-dry-bulk-capesize-prosperity"
 tags: ["Shipping", "China", "Economy"]
 images_count: 2
-word_count: 1718
+word_count: 1720
 source_file: "corpus/03-breakwave/insights/2021/2021-04-19_chinas-gdp-growth-is-the-pillar-for-a-sustained-dry-bulk-capesize-prosperity.html"
 ---
 
@@ -26,7 +26,7 @@ China’s economy grew at the slowest pace in more than four decades last year d
 
 The figure was a marked slowdown from 2019 growth of 6.1% – itself already the lowest in decades – with the country hit by weak domestic demand and trade tensions.
 
-![A](assets/2021-04-19_chinas-gdp-growth-is-the-pillar-for-a-sustained-dry-bulk-capesize-prosperity_img_a_c665497be100.png)
+![A](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-19_chinas-gdp-growth-is-the-pillar-for-a-sustained-dry-bulk-capesize-prosperity_img_a_c665497be100.png)
 
 > **Figure 1: A**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-19_chinas-gdp-growth-is-the-pillar-for-a-sustained-dry-bulk-capesize-prosperity_img_a_c665497be100.png)
@@ -69,7 +69,7 @@ However, in the longer term, the Chinese steel industry is very emissions heavy,
 
 In a sign of falling appetite in terms of volume alone, shipments of iron ore from Australia to China have dropped every month since September. In February, imports stood at 51.5m tonnes, compared with 70.6m in July, according to Census and Economic Information Center data. As the chart below shows, broader Chinese demand for iron ore has eased off its recent highs, though the fall has been less dramatic than that experienced by Australia.
 
-![Aa](assets/2021-04-19_chinas-gdp-growth-is-the-pillar-for-a-sustained-dry-bulk-capesize-prosperity_img_aa_af769dc6a721.png)
+![Aa](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-19_chinas-gdp-growth-is-the-pillar-for-a-sustained-dry-bulk-capesize-prosperity_img_aa_af769dc6a721.png)
 
 > **Figure 2: Aa**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-19_chinas-gdp-growth-is-the-pillar-for-a-sustained-dry-bulk-capesize-prosperity_img_aa_af769dc6a721.png)

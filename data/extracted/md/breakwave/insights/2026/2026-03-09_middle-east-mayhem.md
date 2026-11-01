@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/9/middle-east-mayhem"
 tags: ["Crude", "Markets", "Shipping"]
 images_count: 2
-word_count: 644
+word_count: 646
 source_file: "corpus/03-breakwave/insights/2026/2026-03-09_middle-east-mayhem.html"
 ---
 

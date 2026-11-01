@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/23/the-big-picture-ustr-port-fees-watered-down"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 3
-word_count: 809
+word_count: 812
 source_file: "corpus/03-breakwave/insights/2025/2025-04-23_the-big-picture-ustr-port-fees-watered-down.html"
 ---
 

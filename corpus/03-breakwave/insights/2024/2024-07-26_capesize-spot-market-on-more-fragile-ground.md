@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/26/capesize-spot-market-on-more-fragile-ground"
 tags: ["China", "Coal", "Drybulk"]
 images_count: 2
-word_count: 454
+word_count: 456
 source_file: "corpus/03-breakwave/insights/2024/2024-07-26_capesize-spot-market-on-more-fragile-ground.html"
 ---
 

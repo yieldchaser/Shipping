@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/11/2/coal-prices-taking-a-tumble"
 images_count: 2
-word_count: 763
+word_count: 765
 source_file: "corpus/03-breakwave/insights/2021/2021-11-02_coal-prices-taking-a-tumble.html"
 ---
 
@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-11-02_coal-prices-taking-a-
 
 The new month has started rather dramatically for the coal markets. In the shadow of the United Nations’ COP26 summit on climate change, market prices for what is perceived to be one of the largest culprits are tumbling. The first trading session of the month saw gC Newcastle thermal coal futures dropping by a third to 150 dollars per tonne, which is the lowest since the end of July. In Europe, the price drop has been somewhat more modest. While parts of the continent saw markets closed on Monday due to All Saints’ Day, coal prices recorded a weekly decline of 24 per cent, bringing prices below 100 dollars per tonne for the first time since early August. Increasing output in Chinese mines has shifted the narrative, with markets turning increasingly bearish.
 
-![Ch1](assets/2021-11-02_coal-prices-taking-a-tumble_img_ch1_c976271a2b38.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-02_coal-prices-taking-a-tumble_img_ch1_c976271a2b38.png)
 
 > **Figure 1: Ch1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-02_coal-prices-taking-a-tumble_img_ch1_c976271a2b38.png)
@@ -36,7 +36,7 @@ The improving supply situation is unlikely to signal the end of the energy crunc
 
 Perhaps somewhat ironic, European coal imports have rebounded during the build-up to the COP26 summit. The continent is often seen as a leading force in the decarbonisation campaign. However, after having declined for several years, monthly imports recovered during the early parts of the year, with last year’s total likely to be matched by the middle of November.
 
-![Ch2](assets/2021-11-02_coal-prices-taking-a-tumble_img_ch2_590942f6c6f7.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-02_coal-prices-taking-a-tumble_img_ch2_590942f6c6f7.png)
 
 > **Figure 2: Ch2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-02_coal-prices-taking-a-tumble_img_ch2_590942f6c6f7.png)

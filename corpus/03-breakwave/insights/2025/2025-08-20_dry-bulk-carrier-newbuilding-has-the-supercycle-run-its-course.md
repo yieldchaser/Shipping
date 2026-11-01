@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/20/dry-bulk-carrier-newbuilding-has-the-supercycle-run-its-course"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 5
-word_count: 1333
+word_count: 1338
 source_file: "corpus/03-breakwave/insights/2025/2025-08-20_dry-bulk-carrier-newbuilding-has-the-supercycle-run-its-course.html"
 ---
 
@@ -69,10 +69,10 @@ Newbuilding prices surged across the board in 2024, with Capesize prices rising 
 - Structural yard capacity constraints: The surge in tanker and container orders in 2024 occupied significant yard slots. Since dry bulk carriers offer lower margins, they were deprioritized under the "high-value vessel first" yard allocation strategy which saw yards prioritise the building of higher value added ships such as natural gas carriers. Therefore bulker owners were forced to pay higher prices if they wanted to obtain a slot.
 
 2.**Regulatory and Technological Uncertainty**
-Although the IMO clarified its decarbonisation roadmap and the policies which will be employed, the industry’s green transition faces major hurdles, particularly the lack of consensus on alternative fuels. While some leading owners have reserved dual-fuel conversion space in newbuilding, the slow rollout of dual-fuel engines and high green fuel costs have hindered progress. These uncertainties have made owners cautious, leading many to delay ordering while awaiting policy and technological clarity.
+ Although the IMO clarified its decarbonisation roadmap and the policies which will be employed, the industry’s green transition faces major hurdles, particularly the lack of consensus on alternative fuels. While some leading owners have reserved dual-fuel conversion space in newbuilding, the slow rollout of dual-fuel engines and high green fuel costs have hindered progress. These uncertainties have made owners cautious, leading many to delay ordering while awaiting policy and technological clarity.
 
 3.**Geopolitical and Trade Policy Shocks**
-The US government’s proposal to impose additional port fees on Chinese-built and Chinese-owned vessels appears to have disproportionately impacted Supramax, Panamax, Ultramax and Kamsarmax, markets which account for the majority of dry bulker calls at US ports. Although these USTR fees only remain proposals, they have potentially prompted some owners to hold off on orders at Chinese yards where constructing a dry bulker can be on average 15% cheaper than constructing the same ship at a Japanese yard. Furthermore, these proposals have led Chinese lessors which are an increasingly important source of maritime finance to pivot toward "safe assets" such as LNG carriers or explore RMB-denominated closed-loop transaction systems to circumvent sanctions.
+ The US government’s proposal to impose additional port fees on Chinese-built and Chinese-owned vessels appears to have disproportionately impacted Supramax, Panamax, Ultramax and Kamsarmax, markets which account for the majority of dry bulker calls at US ports. Although these USTR fees only remain proposals, they have potentially prompted some owners to hold off on orders at Chinese yards where constructing a dry bulker can be on average 15% cheaper than constructing the same ship at a Japanese yard. Furthermore, these proposals have led Chinese lessors which are an increasingly important source of maritime finance to pivot toward "safe assets" such as LNG carriers or explore RMB-denominated closed-loop transaction systems to circumvent sanctions.
 
 With these overlapping challenges, it appears that dry bulker owners are adopting a wait-and-see approach. As the saying goes, "Measure twice, cut once." Despite many dry bulk owners sitting on cash reserves, most prefer to wait for clearer market and policy signals rather than rush into orders. Although newbuilding prices are expected to continue their decline, the drop may be gradual. Nonetheless, the sharp order contraction in 2025 reflects a market correction, whereby geopolitical tensions, tightening environmental regulations, and energy transition dynamics are once again reshaping present ship ordering behaviour which will form the foundation for fleet fundamentals in 2-3 years’ time.
 

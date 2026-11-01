@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/10/31/breakwave-bi-weekly-drybulk-report-nov-21-2023-3r233"
 images_count: 3
-word_count: 710
+word_count: 713
 source_file: "corpus/03-breakwave/insights/2023/2023-11-21_breakwave-bi-weekly-drybulk-report-nov-21-2023-3r233.html"
 ---
 

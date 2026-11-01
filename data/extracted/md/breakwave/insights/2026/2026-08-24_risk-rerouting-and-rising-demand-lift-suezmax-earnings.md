@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/8/24/risk-rerouting-and-rising-demand-lift-suezmax-earnings"
 tags: ["Tankers", "Shipping", "Crude"]
 images_count: 1
-word_count: 704
+word_count: 705
 source_file: "corpus/03-breakwave/insights/2026/2026-08-24_risk-rerouting-and-rising-demand-lift-suezmax-earnings.html"
 ---
 

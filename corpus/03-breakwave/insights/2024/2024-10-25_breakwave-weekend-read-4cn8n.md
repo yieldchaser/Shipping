@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/25/breakwave-weekend-read-4cn8n"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 12
-word_count: 1387
+word_count: 1399
 source_file: "corpus/03-breakwave/insights/2024/2024-10-25_breakwave-weekend-read-4cn8n.html"
 ---
 
@@ -26,7 +26,7 @@ As we conclude the workweek and head into the weekend, take a moment to review t
 
 ## Breakwave Tanker Report
 
-**VLCC Market Strengthens as Geopolitical Tensions Rise and Winter Demand Looms**– The third week of October closed with signs of firmer market sentiment for VLCC owners in both the East and West regions, as**geopolitical tensions**in the Middle East**persisted**despite oil prices edging lower.
+**VLCC Market Strengthens as Geopolitical Tensions Rise and Winter Demand Looms**– The third week of October closed with signs of firmer market sentiment for VLCC owners in both the East and West regions, as **geopolitical tensions** in the Middle East **persisted** despite oil prices edging lower.
 
 [Read More](https://www.breakwaveadvisors.com/insights/20241022wet-87574l)
 

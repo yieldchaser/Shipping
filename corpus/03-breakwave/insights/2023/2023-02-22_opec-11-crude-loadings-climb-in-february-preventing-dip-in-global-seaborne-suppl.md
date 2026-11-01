@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/2/22/opec-11-crude-loadings-climb-in-february-preventing-dip-in-global-seaborne-supply"
 images_count: 3
-word_count: 1217
+word_count: 1220
 source_file: "corpus/03-breakwave/insights/2023/2023-02-22_opec-11-crude-loadings-climb-in-february-preventing-dip-in-global-seaborne-suppl.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/3/riding-the-dragon"
 tags: ["Fengshui", "Chinesenewyear", "2024"]
 images_count: 2
-word_count: 727
+word_count: 729
 source_file: "corpus/03-breakwave/insights/2024/2024-02-09_riding-the-dragon.html"
 ---
 

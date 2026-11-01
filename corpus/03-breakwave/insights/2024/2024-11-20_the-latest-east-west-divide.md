@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/20/the-latest-east-west-divide"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 2
-word_count: 673
+word_count: 675
 source_file: "corpus/03-breakwave/insights/2024/2024-11-20_the-latest-east-west-divide.html"
 ---
 

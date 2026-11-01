@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/26/ballast-speed-dry-all-vessel-classes-vs-capesize"
 tags: ["Drybulk", "Capesize", "Shipping"]
 images_count: 5
-word_count: 1415
+word_count: 1420
 source_file: "corpus/03-breakwave/insights/2024/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-09-26_ballast-speed-dry-all
 ---
 
 **Dry Weekly Market Monitor - Week 39.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 September 26, 2024
 
 ## Chart of the Week: Ballast Speed Dry All Vessel Classes vs Capesize

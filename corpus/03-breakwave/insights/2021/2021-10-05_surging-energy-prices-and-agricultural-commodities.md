@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/5/surging-energy-prices-and-agricultural-commodities"
 tags: ["Global", "Economy", "Energycrunch"]
 images_count: 4
-word_count: 1040
+word_count: 1044
 source_file: "corpus/03-breakwave/insights/2021/2021-10-05_surging-energy-prices-and-agricultural-commodities.html"
 ---
 

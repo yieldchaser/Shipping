@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/25/dry-bulk-sector-has-remained-firmly-anchored-to-the-realities-of-spot-market"
 tags: ["Drybulk", "Shipping", "China"]
 images_count: 3
-word_count: 1125
+word_count: 1128
 source_file: "corpus/03-breakwave/insights/2025/2025-05-26_dry-bulk-sector-has-remained-firmly-anchored-to-the-realities-of-spot-market.html"
 ---
 

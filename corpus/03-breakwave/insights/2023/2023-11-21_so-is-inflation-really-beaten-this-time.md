@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/11/21/so-is-inflation-really-beaten-this-time"
 images_count: 5
-word_count: 1166
+word_count: 1171
 source_file: "corpus/03-breakwave/insights/2023/2023-11-21_so-is-inflation-really-beaten-this-time.html"
 ---
 

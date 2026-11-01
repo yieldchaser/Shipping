@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/1/13/gold-rallies-amid-expectations-of-slower-rate-hikes-from-fed"
 images_count: 1
-word_count: 550
+word_count: 551
 source_file: "corpus/03-breakwave/insights/2023/2023-01-13_gold-rallies-amid-expectations-of-slower-rate-hikes-from-fed.html"
 ---
 

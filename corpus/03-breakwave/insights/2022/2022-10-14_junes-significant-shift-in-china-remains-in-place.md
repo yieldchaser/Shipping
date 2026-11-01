@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/14/junes-significant-shift-in-china-remains-in-place"
 images_count: 3
-word_count: 292
+word_count: 295
 source_file: "corpus/03-breakwave/insights/2022/2022-10-14_junes-significant-shift-in-china-remains-in-place.html"
 ---
 

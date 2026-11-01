@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/5/mired-in-mrs"
 tags: ["Tankers", "Shipping", "Crude Oil"]
 images_count: 2
-word_count: 646
+word_count: 648
 source_file: "corpus/03-breakwave/insights/2024/2024-07-05_mired-in-mrs.html"
 ---
 

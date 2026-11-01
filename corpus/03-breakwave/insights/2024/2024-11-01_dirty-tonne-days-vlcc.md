@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/1/dirty-tonne-days-vlcc"
 tags: ["Tankers", "Crude", "Shipping"]
 images_count: 10
-word_count: 1663
+word_count: 1673
 source_file: "corpus/03-breakwave/insights/2024/2024-11-01_dirty-tonne-days-vlcc.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-11-01_dirty-tonne-days-vlcc
 ---
 
 **Tanker - Weekly Market Monitor**
-Snapshot of Crude and Product Freight Rates, Supply-Demand
+ Snapshot of Crude and Product Freight Rates, Supply-Demand
 Week 44, November 01, 2024
 
 ### Chart of the Week: Dirty Tonne Days VLCC
@@ -46,30 +46,30 @@ Looking ahead, the impact of winter demand in November will be crucial in determ
 
 ​​​​​Sentiment in the dirty freight market indicated a weak sentiment at the end of the month with signs of improvement in the Suezmax segment.
 
-- The**VLCC**MEG-China freight rates have dropped to 52 WS, reflecting a 28% year-over-year decline. Recent monthly trends indicate a continuation of this downward momentum, highlighting the market's ongoing struggle to establish a stronger footing as the fourth quarter progresses.
-- Suezmax freight rates for shipments from**West Africa to continental Europe**have trended downward to 90 WS, though they still reflect a 27% increase over the past month. On the Suezmax**Baltic-Mediterranean**route, rates remained above 100 WS, up 27% compared to the same period last month and exceeding last week's levels.
-- Aframax**Mediterranean**freight rates have fallen sharply from last week's highs, currently at WS 120. This marks a 28% decrease over the past week and represents a 50% decline compared to the same period last year.
+- The **VLCC** MEG-China freight rates have dropped to 52 WS, reflecting a 28% year-over-year decline. Recent monthly trends indicate a continuation of this downward momentum, highlighting the market's ongoing struggle to establish a stronger footing as the fourth quarter progresses.
+- Suezmax freight rates for shipments from **West Africa to continental Europe** have trended downward to 90 WS, though they still reflect a 27% increase over the past month. On the Suezmax **Baltic-Mediterranean** route, rates remained above 100 WS, up 27% compared to the same period last month and exceeding last week's levels.
+- Aframax **Mediterranean** freight rates have fallen sharply from last week's highs, currently at WS 120. This marks a 28% decrease over the past week and represents a 50% decline compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2024 11 01 133917](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8fd8310571f3.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 11 01 133917**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8fd8310571f3.png)
 
-- **LR2**AG freight rates held levels around WS105 over the last two weeks of October, representing a 34% decline compared to the same period last year.
+- **LR2** AG freight rates held levels around WS105 over the last two weeks of October, representing a 34% decline compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2024 11 01 134008](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5931a50104d7.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 11 01 134008**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5931a50104d7.png)
 
-- **Panamax**Carib-to-USG rates have remained stable for over four consecutive weeks, consistently hovering around WS 148. Recent levels reflect a 40% decrease compared to the same period last year.
+- **Panamax** Carib-to-USG rates have remained stable for over four consecutive weeks, consistently hovering around WS 148. Recent levels reflect a 40% decrease compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2024 11 01 134055](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0acf4d7d9e69.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 11 01 134055**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0acf4d7d9e69.png)
 
-- **MR1**rates for shipments from the Baltic to the continent have displayed a softening trend, closing the month at around WS 140. Despite signs of steady market sentiment, this represents a 20% decline compared to the previous year. Meanwhile,**MR2**rates for shipments from the continent to the US Atlantic Coast (USAC) have dropped to WS 90, reflecting a 40% annual decrease. In contrast, MR2 rates on the US Gulf to Continent route surged to WS 170, demonstrating a 38% increase compared to the same period last year.
+- **MR1** rates for shipments from the Baltic to the continent have displayed a softening trend, closing the month at around WS 140. Despite signs of steady market sentiment, this represents a 20% decline compared to the previous year. Meanwhile,**MR2** rates for shipments from the continent to the US Atlantic Coast (USAC) have dropped to WS 90, reflecting a 40% annual decrease. In contrast, MR2 rates on the US Gulf to Continent route surged to WS 170, demonstrating a 38% increase compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2024 11 01 134142](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d66469a63e41.png)
 
@@ -95,23 +95,23 @@ Looking ahead, the impact of winter demand in November will be crucial in determ
 
 - **Clean LR2 AG Jubail**: The end-of-month trend is hovering at levels nearly to surpass the annual average of 12—down by 4 points compared to the peak of week 40.
 
-- **Clean MR**: At**Algeria's Skikda**port, the number of vessels has shown an upward movement at the end of the month, rising to 35 after a decline in the previous two weeks. However, this figure remains 8 vessels lower than the peak observed in week 40.**MR2 activity in Amsterdam**indicated a notable increase, with confirmed levels surpassing the annual average. By the end of the month, the vessel count reached 53, approximately 20 vessels above the annual average.
+- **Clean MR**: At **Algeria's Skikda** port, the number of vessels has shown an upward movement at the end of the month, rising to 35 after a decline in the previous two weeks. However, this figure remains 8 vessels lower than the peak observed in week 40.**MR2 activity in Amsterdam** indicated a notable increase, with confirmed levels surpassing the annual average. By the end of the month, the vessel count reached 53, approximately 20 vessels above the annual average.
 
 ![Στιγμιότυπο Οθόνης 2024 11 01 134622](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cbd4e11b6fee.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2024 11 01 134622**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cbd4e11b6fee.png)
 
-- **Dirty**tonne days: The first month of the fourth quarter concludes with a declining growth rate in tonne days, with levels remaining below the annual average across all large vessel size categories. The sole positive aspect amid this weakness is that the lowest point was reached in the third quarter. Recent growth estimates indicate a more robust outlook, though they still fall short of sustaining the annual average momentum.
+- **Dirty** tonne days: The first month of the fourth quarter concludes with a declining growth rate in tonne days, with levels remaining below the annual average across all large vessel size categories. The sole positive aspect amid this weakness is that the lowest point was reached in the third quarter. Recent growth estimates indicate a more robust outlook, though they still fall short of sustaining the annual average momentum.
 
 ![Στιγμιότυπο Οθόνης 2024 11 01 134716](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f3e7dc2c5ca4.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2024 11 01 134716**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f3e7dc2c5ca4.png)
 
-- **Panamax**tonne days: The growth rate has reached its lowest level of the year, maintaining a downward trajectory below the annual average since the end of week 19. As of now, there are no indications of a shift in momentum as we approach early November.
+- **Panamax** tonne days: The growth rate has reached its lowest level of the year, maintaining a downward trajectory below the annual average since the end of week 19. As of now, there are no indications of a shift in momentum as we approach early November.
 
-- **MR**tonne-days: The growth rate for MR1 vessel size has been declining since the end of week 40. In contrast, the growth rate for MR2 exhibits mixed sentiment from week to week, with indications of a potential increase above the annual trend; however, this remains to be confirmed in the coming days.
+- **MR** tonne-days: The growth rate for MR1 vessel size has been declining since the end of week 40. In contrast, the growth rate for MR2 exhibits mixed sentiment from week to week, with indications of a potential increase above the annual trend; however, this remains to be confirmed in the coming days.
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)
 

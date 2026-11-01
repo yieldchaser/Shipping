@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/7/6/chinas-h1-crude-imports-post-sharpest-drop-since-war-began"
 tags: ["Crude", "Markets", "Tankers"]
 images_count: 8
-word_count: 1598
+word_count: 1606
 source_file: "corpus/03-breakwave/insights/2026/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began.html"
 ---
 

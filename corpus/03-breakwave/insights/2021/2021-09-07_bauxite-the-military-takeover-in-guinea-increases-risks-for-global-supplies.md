@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/7/bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies"
 tags: ["Guinea", "Shipping"]
 images_count: 4
-word_count: 1011
+word_count: 1015
 source_file: "corpus/03-breakwave/insights/2021/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies.html"
 ---
 

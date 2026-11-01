@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/28/qlfqeso3o94yx8gthwvlu4sor04h5m"
 tags: ["Markets", "Economy", "Macro"]
 images_count: 6
-word_count: 1190
+word_count: 1196
 source_file: "corpus/03-breakwave/insights/2024/2024-08-28_qlfqeso3o94yx8gthwvlu4sor04h5m.html"
 ---
 

@@ -259,8 +259,9 @@ def process_single_article(html_path):
         rel_asset_norm = os.path.normpath(os.path.join(rel_html_dir, src)).replace('\\', '/')
         file_uri = f"{REPO_ROOT_TOKEN}{rel_asset_norm}"
 
-        # Relative path for standard inline markdown rendering
-        rel_img_path = src if not src.startswith(('http://', 'https://')) else file_uri
+        # Inline image: a local asset goes through _relink like the Local Asset link (the HTML's own 'assets/...'
+        # resolved only next to the corpus copy, so every data/extracted/md copy had a broken image)
+        rel_img_path = file_uri if not src.startswith(('http://', 'https://')) else src
 
         caption = ''
         source_url = ''

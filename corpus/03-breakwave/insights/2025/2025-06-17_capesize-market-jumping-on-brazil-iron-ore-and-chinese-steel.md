@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/17/capesize-market-jumping-on-brazil-iron-ore-and-chinese-steel"
 tags: ["Ironore", "Capesize", "Shipping"]
 images_count: 2
-word_count: 331
+word_count: 333
 source_file: "corpus/03-breakwave/insights/2025/2025-06-17_capesize-market-jumping-on-brazil-iron-ore-and-chinese-steel.html"
 ---
 

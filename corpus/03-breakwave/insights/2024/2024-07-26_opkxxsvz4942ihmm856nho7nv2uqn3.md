@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/26/opkxxsvz4942ihmm856nho7nv2uqn3"
 tags: ["Drybulk", "China", "Iron Ore"]
 images_count: 3
-word_count: 674
+word_count: 677
 source_file: "corpus/03-breakwave/insights/2024/2024-07-26_opkxxsvz4942ihmm856nho7nv2uqn3.html"
 ---
 
@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-07-26_opkxxsvz4942ihmm856nh
 - *There were also some massive differences in performance by geography.*
 - *With dry bulk import demand in mind, we have charted three separate growth trends in crude steel output outside of China: (1) Northeast Asia, (2) India and Vietnam and (3) the EU and Turkey.*
 
-Combined,**Japan, South Korea and Taiwan**were on course to import around 93m tonnes of iron ore in the 1H 2024, plus 37m tonnes of coking coal, according to customs data. This represents a slight year-on-year fall.
+Combined,**Japan, South Korea and Taiwan** were on course to import around 93m tonnes of iron ore in the 1H 2024, plus 37m tonnes of coking coal, according to customs data. This represents a slight year-on-year fall.
 
 The first chart displays a YoY contraction in steel output in both Japan and South Korea, with mills in Taiwan only recently seeing a return to growth.
 
@@ -53,7 +53,7 @@ However, while Japan, South Korea and Taiwan imported in the region of 130m tonn
 
 Moreover, Vietnamese steelmakers (as with other regional steel mills) face ongoing competition from cheap imported steel products from China.
 
-Our final chart compares crude steel production in the**EU-27**with that of**Turkey**, the world’s largest importer of ferrous scrap. When imports of coking coal, iron ore and steel scrap into the EU and Turkey are aggregated, the 1H 2024 total is more than 76m tonnes.
+Our final chart compares crude steel production in the **EU-27** with that of **Turkey**, the world’s largest importer of ferrous scrap. When imports of coking coal, iron ore and steel scrap into the EU and Turkey are aggregated, the 1H 2024 total is more than 76m tonnes.
 
 Following steep contraction in 2022-23, production in the EU-27 has made comparatively modest gains.
 

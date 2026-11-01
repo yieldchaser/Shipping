@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/27/simandou-shipments-surge-in-april-as-logistics-constraints-begin-to-ease"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 4
-word_count: 1270
+word_count: 1274
 source_file: "corpus/03-breakwave/insights/2026/2026-05-27_simandou-shipments-surge-in-april-as-logistics-constraints-begin-to-ease.html"
 ---
 

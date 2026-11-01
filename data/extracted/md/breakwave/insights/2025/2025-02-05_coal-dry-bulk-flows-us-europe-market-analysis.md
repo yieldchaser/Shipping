@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/5/coal-dry-bulk-flows-us-europe-market-analysis"
 tags: ["Shipping", "Drybulk", "Markets"]
 images_count: 5
-word_count: 1256
+word_count: 1261
 source_file: "corpus/03-breakwave/insights/2025/2025-02-05_coal-dry-bulk-flows-us-europe-market-analysis.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-02-05_coal-dry-bulk-flows-u
 ---
 
 **Dry Weekly Market Monitor - Week 06, 2025**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 February 05, 2025
 
 ## Chart of the Week: Coal Dry Bulk Flows | U.s. - Europe Market Analysis

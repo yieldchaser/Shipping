@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/29/iron-ore-australia-expects-increasing-exports-while-missing-out-on-chinese-growth"
 tags: ["Australia", "China"]
 images_count: 2
-word_count: 829
+word_count: 831
 source_file: "corpus/03-breakwave/insights/2021/2021-03-29_iron-ore-australia-expects-increasing-exports-while-missing-out-on-chinese-growt.html"
 ---
 

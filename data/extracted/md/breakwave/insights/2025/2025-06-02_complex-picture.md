@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/1/complex-picture"
 tags: ["Drybulk", "China", "Shipping"]
 images_count: 1
-word_count: 1191
+word_count: 1192
 source_file: "corpus/03-breakwave/insights/2025/2025-06-02_complex-picture.html"
 ---
 

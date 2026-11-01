@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/5/23/mazars-comment-all-quiet-on-the-western-front-perhaps-too-quiet"
 images_count: 3
-word_count: 1304
+word_count: 1307
 source_file: "corpus/03-breakwave/insights/2023/2023-05-23_mazars-comment-all-quiet-on-the-western-front-perhaps-too-quiet.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/13/sentiment-is-the-major-force-behind-shipping"
 images_count: 5
-word_count: 1285
+word_count: 1290
 source_file: "corpus/03-breakwave/insights/2021/2021-07-13_sentiment-is-the-major-force-behind-shipping.html"
 ---
 
@@ -19,7 +19,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-07-13_sentiment-is-the-majo
 
 ---
 
-![Beijing 2008](assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_beijing2008_3cd25c13a0d2.png)
+![Beijing 2008](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_beijing2008_3cd25c13a0d2.png)
 
 > **Figure 1: Beijing 2008**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_beijing2008_3cd25c13a0d2.png)
@@ -34,7 +34,7 @@ The future is unknown and risks remain high, but forecasts are meant to provide 
 
 To that extent, it is easy to understand why dry bulk owners expect a bright future for the next 12-18 months. Seaborne trade has reached new record highs, surpassing even the 2019 previous peak. Although the rate of increase will naturally moderate from here as comparisons become less favorable (i.e. demand growth normalizes following the very weak levels of 2020), growth should remain stronger versus the pre-pandemic trend, aided mainly by minor bulks and coal. And this time around it is not only China. The rest of the world is thirsty for commodities and that is aiding shipping at its core. As the chart below shows, it is regions ex-China that is now the driving force behind commodity prices and shipping rates alike.
 
-![Source: Arrow Shipbrokering](assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_pngimage_d8f63c9ec292.png)
+![Source: Arrow Shipbrokering](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_pngimage_d8f63c9ec292.png)
 
 > **Figure 2: Source: Arrow Shipbrokering**  
 > *Source: Arrow Shipbrokering*  
@@ -42,14 +42,14 @@ To that extent, it is easy to understand why dry bulk owners expect a bright fut
 
 How long will such strong demand growth lasts? Well, for one it is not difficult to argue about the cyclicality of commodities. As inventories rebuilt, demand will slowly ease, leading to a gradual turn of the cycle. Yet, the world is flooded with money, and government stimulus is still playing a major role in economic growth. Whether that trend has peaked or not is arguable, but as we stand today there are very few signs (ex-China at least, given that in China credit impulse is now pointing down, a bad omen for industrial activity) that such a trend is about to come to a halt. Thus, we expect for the next year demand to remain at above-trend levels, supporting commodity shipping.
 
-![China Credit Impulse](assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_chinacreditimpulse_8c777614cfa3.png)
+![China Credit Impulse](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_chinacreditimpulse_8c777614cfa3.png)
 
 > **Figure 3: China Credit Impulse**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_chinacreditimpulse_8c777614cfa3.png)
 
 Geopolitics has also been a major source of incremental tonne-mile demand and the Australia-China trade dispute has been front a center of such a trend. It is also the major force behind the very strong coal trading market this year, and as the chart below shows, trade routes are shifting to the benefit of dry bulk shipping.
 
-![Source: Ssy](assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_pngimage28129_248198bdfd2e.png)
+![Source: Ssy](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_pngimage28129_248198bdfd2e.png)
 
 > **Figure 4: Source: Ssy**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_pngimage28129_248198bdfd2e.png)
@@ -60,7 +60,7 @@ Then, there is the supply side. There, more secular fundamental trends are slowl
 
 It is easy to see why the industry is optimistic about the medium term. Assuming an average demand growth of around 3% (keep in mind, long term historical averages have been close to 5%) and supply growth of ~1,5%, utilization will continue to tick higher for the years to come. Throw on top of that inefficiencies (port delays, COVID-related slowdowns, etc.) and the upcoming emission-related potential speed reductions, and the dry bulk upcycle can easily extend for a few more years.
 
-![Source: Braemar Acm](assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_image328129_d25d8fae5e7c.png)
+![Source: Braemar Acm](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_image328129_d25d8fae5e7c.png)
 
 > **Figure 5: Source: Braemar Acm**  
 > *Source: Braemar ACM*  

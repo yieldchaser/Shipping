@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/27/spot-the-surge"
 tags: ["Tankers", "Crude", "Shipping"]
 images_count: 1
-word_count: 1048
+word_count: 1049
 source_file: "corpus/03-breakwave/insights/2025/2025-08-27_spot-the-surge.html"
 ---
 
@@ -35,12 +35,12 @@ Momentum is building for a full reversal of OPEC+’s 2.2 million barrels per da
 
 This current surge in the spot market centres on the Middle East Gulf, with the dominant loading hub for VLCCs. Each additional barrel from the region translates into greater need for long-haul capacity to Asia, and VLCCs are uniquely positioned to absorb this trade. With 85% of crude and condensate from the Middle East in 2024-2025 already carried by VLCCs, and 75% of the recent production increase coming from this region, the scale of the opportunity is obvious.
 
-The increase in the Middle East volumes alone is striking. Based on a typical 60-day roundtrip to the Far East, once the full 2.2 million b/d is restored and reintroduced,[the market is projected to require an additional 55 VLCCs](https://tankersinternational.com/2024/11/05/data-spotlight-opec-delays-return-of-supply-cuts/)just to meet baseline demand for transporting the oil to markets in the Far East. As a result, this is more than a temporary boost, it marks a structural shift in market fundamentals.
+The increase in the Middle East volumes alone is striking. Based on a typical 60-day roundtrip to the Far East, once the full 2.2 million b/d is restored and reintroduced,[the market is projected to require an additional 55 VLCCs](https://tankersinternational.com/2024/11/05/data-spotlight-opec-delays-return-of-supply-cuts/) just to meet baseline demand for transporting the oil to markets in the Far East. As a result, this is more than a temporary boost, it marks a structural shift in market fundamentals.
 
 However, despite these demand signals, the VLCC freight futures curve remains relatively flat. Spot rates are starting to firm, but the forward curve has not yet caught up. This undervaluing suggests that the market is still underestimating near-term fundamentals. Therefore, this presents an opportunity and an advantage for owners to become first-movers.
 
 **DIFFERENCES BETWEEN POOLING AND TIME CHARTERS**
-While time charters provide income certainty at today’s rates, they are starting to look like a cautious move in an improving and ever-evolving market. Committing to fixed contracts now could mean missing out on higher spot returns ahead. In response, leading owners are pivoting. VLCC pooling is emerging as the strategy of choice for those seeking exposure, scale, and commercial agility. Tankers International is seeing a notable increase in interest in pool participation, particularly among quality owners with a clear view of where the market is headed.
+ While time charters provide income certainty at today’s rates, they are starting to look like a cautious move in an improving and ever-evolving market. Committing to fixed contracts now could mean missing out on higher spot returns ahead. In response, leading owners are pivoting. VLCC pooling is emerging as the strategy of choice for those seeking exposure, scale, and commercial agility. Tankers International is seeing a notable increase in interest in pool participation, particularly among quality owners with a clear view of where the market is headed.
 
 There is a clear rational behind this shift; while time charters provide income stability, they also restrict the ability to benefit from market upswings and significant changes. Pooling, on the other hand, keeps vessels active in the spot market, allowing them to take advantage of rising demand. It also helps with earnings by averaging performance across a large, globally deployed fleet – helping to reduce volatility. More importantly, the pool’s chartering desk actively manages positioning and voyage strategy to maximise returns, something that individual owners may struggle to achieve at scale. Pooling doesn’t just provide access; it offers strategic positioning to outperform the market. This is especially critical in periods of rapid change when agility and intelligence matter most.
 
@@ -53,7 +53,7 @@ The pool’s scale and integration create further value through access to exclus
 Being part of a tanker pool can also help ensure that financial returns are both strong and predictable. The pool’s structured distribution model provides steady cash flow, while transparent analytics let owners track vessel performance across the fleet. Working capital support mechanisms allow for early cash distributions, supporting liquidity in both bullish and transitional periods.
 
 **LOOKING AHEAD**
-As regulatory pressures intensify, pooling also helps owners navigate complex compliance demands. Tankers International’s VLCC pool can offer expert guidance on evolving IMO regulations, EU ETS requirements, and CII performance. Fleet-wide deployment strategies are calibrated to optimise emissions profiles and sustain compliance ratings. With OPEC+ restoring production faster than expected, the market is undervaluing the impact of this. Demand for VLCCs is rising and freight rates are poised to follow. For owners ready to move, the time to be in the spot market is now, and the most effective way to do it is through pooling.
+ As regulatory pressures intensify, pooling also helps owners navigate complex compliance demands. Tankers International’s VLCC pool can offer expert guidance on evolving IMO regulations, EU ETS requirements, and CII performance. Fleet-wide deployment strategies are calibrated to optimise emissions profiles and sustain compliance ratings. With OPEC+ restoring production faster than expected, the market is undervaluing the impact of this. Demand for VLCCs is rising and freight rates are poised to follow. For owners ready to move, the time to be in the spot market is now, and the most effective way to do it is through pooling.
 
 Data source:[Tankers International](https://tankersinternational.com)
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/9/a-review-of-q1-24-the-red-sea-living-in-a-vuca-world"
 tags: ["Shipping", "Economy"]
 images_count: 6
-word_count: 2338
+word_count: 2344
 source_file: "corpus/03-breakwave/insights/2024/2024-04-09_a-review-of-q1-24-the-red-sea-living-in-a-vuca-world.html"
 ---
 

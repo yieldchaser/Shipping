@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/8/21/chinas-coal-production-hits-five-year-low"
 tags: ["Coal", "China", "Commodities"]
 images_count: 2
-word_count: 251
+word_count: 253
 source_file: "corpus/03-breakwave/insights/2026/2026-08-21_chinas-coal-production-hits-five-year-low.html"
 ---
 

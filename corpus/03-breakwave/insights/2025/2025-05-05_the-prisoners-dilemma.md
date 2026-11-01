@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/5/the-prisoners-dilemma"
 tags: ["Economy", "Markets", "Shipping"]
 images_count: 1
-word_count: 1012
+word_count: 1013
 source_file: "corpus/03-breakwave/insights/2025/2025-05-05_the-prisoners-dilemma.html"
 ---
 

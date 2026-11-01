@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/4/the-big-picture-market-cycles"
 tags: ["Dry Bulk"]
 images_count: 3
-word_count: 1323
+word_count: 1326
 source_file: "corpus/03-breakwave/insights/2021/2021-03-05_the-big-picture-market-cycles.html"
 ---
 

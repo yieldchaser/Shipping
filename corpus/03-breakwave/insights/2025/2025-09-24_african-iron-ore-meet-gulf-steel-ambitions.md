@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/24/african-iron-ore-meet-gulf-steel-ambitions"
 tags: ["Drybulk", "Commodities", "Shipping"]
 images_count: 5
-word_count: 1233
+word_count: 1238
 source_file: "corpus/03-breakwave/insights/2025/2025-09-24_african-iron-ore-meet-gulf-steel-ambitions.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/13/ongoing-growth-in-coal-indias-stockpiles"
 tags: ["Economy", "Markets", "Coal"]
 images_count: 3
-word_count: 260
+word_count: 263
 source_file: "corpus/03-breakwave/insights/2025/2025-02-13_ongoing-growth-in-coal-indias-stockpiles.html"
 ---
 

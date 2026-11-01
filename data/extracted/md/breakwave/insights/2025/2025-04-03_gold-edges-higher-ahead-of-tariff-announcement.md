@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/3/gold-edges-higher-ahead-of-tariff-announcement"
 tags: ["Commodities", "Markets", "Shipping"]
 images_count: 2
-word_count: 704
+word_count: 706
 source_file: "corpus/03-breakwave/insights/2025/2025-04-03_gold-edges-higher-ahead-of-tariff-announcement.html"
 ---
 

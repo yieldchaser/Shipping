@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/8/3/a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus"
 tags: ["Drybulk", "Shipping", "Capesize"]
 images_count: 6
-word_count: 1273
+word_count: 1279
 source_file: "corpus/03-breakwave/insights/2026/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus.html"
 ---
 

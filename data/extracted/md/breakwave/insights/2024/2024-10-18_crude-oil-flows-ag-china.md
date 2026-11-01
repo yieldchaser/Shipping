@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/18/crude-oil-flows-ag-china"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 10
-word_count: 1710
+word_count: 1720
 source_file: "corpus/03-breakwave/insights/2024/2024-10-18_crude-oil-flows-ag-china.html"
 ---
 

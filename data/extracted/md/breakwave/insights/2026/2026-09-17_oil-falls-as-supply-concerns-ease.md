@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/17/oil-falls-as-supply-concerns-ease"
 tags: ["Commodities", "Shipping", "Markets"]
 images_count: 2
-word_count: 849
+word_count: 851
 source_file: "corpus/03-breakwave/insights/2026/2026-09-17_oil-falls-as-supply-concerns-ease.html"
 ---
 
@@ -31,7 +31,7 @@ Energy markets dipped, as supply disruption concerns in the Middle East eased. P
 
 ### Market Commentary
 
-**Crude oil**prices gave back recent gains as recent supply disruptions began to resolve. Saudi Arabia said it expects to return about half of the capacity of its East-West pipeline within days after shutting it last week when it was attacked by drones. State-owned Saudi Aramco is said to be working to by-pass a damaged section. However, it could take up to six weeks for the pipeline to be back to full capacity, according to a Bloomberg report. In the meantime, Saudi Arabia is ramping up prompt sales of crude from outside the Strait of Hormuz. It has sold about 20mbbl to Asian refiners this week, according to traders. Compounding matters was reports that Libya was able to restore its normal output levels after outages at oil fields earlier this week.
+**Crude oil** prices gave back recent gains as recent supply disruptions began to resolve. Saudi Arabia said it expects to return about half of the capacity of its East-West pipeline within days after shutting it last week when it was attacked by drones. State-owned Saudi Aramco is said to be working to by-pass a damaged section. However, it could take up to six weeks for the pipeline to be back to full capacity, according to a Bloomberg report. In the meantime, Saudi Arabia is ramping up prompt sales of crude from outside the Strait of Hormuz. It has sold about 20mbbl to Asian refiners this week, according to traders. Compounding matters was reports that Libya was able to restore its normal output levels after outages at oil fields earlier this week.
 
 The selling was briefly interrupted following the release of US inventory data that showed further drawdowns. Crude oil inventories fell 640kbbl last week, compared with a large build forecast by the American Petroleum Institute. This was likely due to a sharp rise in US exports. Nearly 5mb/d was exported last week, which was its biggest weekly increase since late May. There was relief in the diesel sector, with distillate fuel stockpiles rising by 1.6mbbl. Exports also ticked up last week by 1.6mb/d. Nevertheless, stockpiles remain at their lowest seasonal level in history heading into peak demand season which starts in October.
 
@@ -41,7 +41,7 @@ The selling was briefly interrupted following the release of US inventory data t
 
 The **base metals** sector also found some support from investors as US stocks and bonds found some relief ahead of the FOMC meeting.**Copper** led the sector higher, despite signs of easing tightness. Cash contracts are trading at a discount of USD37/t to three months futures. This is a reversal of the premium they have been trading at in previous weeks. This may be due to US traders paring back buying following reports that the White House is delaying a decision on import tariffs on refined metal due to concerns it would worsen the inflationary backdrop.
 
-**Iron ore**futures found some support on expectations that steel mills in China could look to boost buying of raw materials head of the National Day holiday. That’s despite concerns over steel production cuts and weak steel mill margins weighing on sentiment over the past few weeks. Industry data showed ironmaking activity in China increased in early September, with pig iron output from China Iron & Steel Association members reaching 17.95mt during 1-10 September. That was up 1.7% on the previous ten-day period.
+**Iron ore** futures found some support on expectations that steel mills in China could look to boost buying of raw materials head of the National Day holiday. That’s despite concerns over steel production cuts and weak steel mill margins weighing on sentiment over the past few weeks. Industry data showed ironmaking activity in China increased in early September, with pig iron output from China Iron & Steel Association members reaching 17.95mt during 1-10 September. That was up 1.7% on the previous ten-day period.
 
 ### Chart of the Day
 

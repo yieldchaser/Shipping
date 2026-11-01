@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/21/pbem9g3dlump0vlwezuuwygmwbdanr"
 tags: ["China", "Drybulk", "Economy"]
 images_count: 4
-word_count: 479
+word_count: 483
 source_file: "corpus/03-breakwave/insights/2024/2024-06-21_pbem9g3dlump0vlwezuuwygmwbdanr.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-06-21_pbem9g3dlump0vlwezuuw
 
 *By*[*Jeffrey Landsberg*](https://www.linkedin.com/in/jeffrey-landsberg-70ab957/)
 
-Dry bulk rates were mixed last week, with panamax and supramax rates rising while capesize and handysize rates declined. Those declines were small, though, and overall rates still remain at healthy levels across the board. Much bigger news to come out last week is that China’s steel production has climbed even further, is now at the**highest level seen since July**, and is continuing to maintain a small amount of year-on-year growth. As we have continued to stress in Commodore Research's Weekly Dry Bulk Reports and Weekly China Reports, strong manufacturing output in China this year has been contributing to significant steel consumption and, along with robust steel export volume, continues to support China’s steel production. Steel prices fell again last week, however, and the strength in China’s steel production remains fragile.
+Dry bulk rates were mixed last week, with panamax and supramax rates rising while capesize and handysize rates declined. Those declines were small, though, and overall rates still remain at healthy levels across the board. Much bigger news to come out last week is that China’s steel production has climbed even further, is now at the **highest level seen since July**, and is continuing to maintain a small amount of year-on-year growth. As we have continued to stress in Commodore Research's Weekly Dry Bulk Reports and Weekly China Reports, strong manufacturing output in China this year has been contributing to significant steel consumption and, along with robust steel export volume, continues to support China’s steel production. Steel prices fell again last week, however, and the strength in China’s steel production remains fragile.
 
 ![Chart 1](assets/2024-06-21_pbem9g3dlump0vlwezuuwygmwbdanr_img_chart1_5a189ef6df58.jpg)
 

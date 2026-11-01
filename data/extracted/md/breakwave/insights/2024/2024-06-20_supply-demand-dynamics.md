@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/20/supply-demand-dynamics"
 tags: ["Drybulk", "Shipping", "Capesize"]
 images_count: 5
-word_count: 1353
+word_count: 1358
 source_file: "corpus/03-breakwave/insights/2024/2024-06-20_supply-demand-dynamics.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-06-20_supply-demand-dynamic
 ---
 
 **Dry Weekly Market Monitor - Week 25.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 June 19, 2024
 
 ![Στιγμιότυπο Οθόνης 2024 06 20 122301](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a6c6be4f48e4.png)

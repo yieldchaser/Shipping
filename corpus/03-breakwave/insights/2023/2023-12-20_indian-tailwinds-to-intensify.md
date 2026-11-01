@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/12/20/indian-tailwinds-to-intensify"
 images_count: 2
-word_count: 408
+word_count: 410
 source_file: "corpus/03-breakwave/insights/2023/2023-12-20_indian-tailwinds-to-intensify.html"
 ---
 

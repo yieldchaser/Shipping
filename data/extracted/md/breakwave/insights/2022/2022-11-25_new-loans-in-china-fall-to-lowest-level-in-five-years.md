@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/25/new-loans-in-china-fall-to-lowest-level-in-five-years"
 images_count: 3
-word_count: 426
+word_count: 429
 source_file: "corpus/03-breakwave/insights/2022/2022-11-25_new-loans-in-china-fall-to-lowest-level-in-five-years.html"
 ---
 

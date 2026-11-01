@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/5/russian-crude-oil-shipments"
 tags: ["Shipping", "Tankers", "Crude"]
 images_count: 10
-word_count: 1633
+word_count: 1643
 source_file: "corpus/03-breakwave/insights/2024/2024-08-05_russian-crude-oil-shipments.html"
 ---
 

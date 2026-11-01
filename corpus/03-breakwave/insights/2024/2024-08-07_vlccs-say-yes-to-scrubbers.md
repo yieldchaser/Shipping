@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/7/vlccs-say-yes-to-scrubbers"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 2
-word_count: 589
+word_count: 591
 source_file: "corpus/03-breakwave/insights/2024/2024-08-07_vlccs-say-yes-to-scrubbers.html"
 ---
 

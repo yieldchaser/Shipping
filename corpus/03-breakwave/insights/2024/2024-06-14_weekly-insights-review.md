@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/14/weekly-insights-review"
 tags: ["Shipping", "Markets", "Economy"]
 images_count: 13
-word_count: 1388
+word_count: 1401
 source_file: "corpus/03-breakwave/insights/2024/2024-06-14_weekly-insights-review.html"
 ---
 
@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-06-14_weekly-insights-revie
 
 ## Breakwave Dry Bulk Report
 
-**Steady as it goes while curve inverses and sentiment moderates –**The past few weeks have been**uncharacteristically calm**for the otherwise volatile dry bulk market.
+**Steady as it goes while curve inverses and sentiment moderates –**The past few weeks have been **uncharacteristically calm** for the otherwise volatile dry bulk market.
 
 ![Dry+report+top](assets/2024-06-14_weekly-insights-review_img_dry2breport2btop_e1683f2a3964.png)
 

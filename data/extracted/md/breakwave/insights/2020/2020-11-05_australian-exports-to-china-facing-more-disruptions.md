@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/11/5/australian-exports-to-china-facing-more-disruptions"
 tags: ["China", "Australia", "Coal"]
 images_count: 3
-word_count: 830
+word_count: 833
 source_file: "corpus/03-breakwave/insights/2020/2020-11-05_australian-exports-to-china-facing-more-disruptions.html"
 ---
 

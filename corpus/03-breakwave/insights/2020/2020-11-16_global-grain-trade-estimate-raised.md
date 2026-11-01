@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/11/16/global-grain-trade-estimate-raised"
 tags: ["Grains", "Corn", "Soybeans", "Wheat"]
 images_count: 5
-word_count: 556
+word_count: 561
 source_file: "corpus/03-breakwave/insights/2020/2020-11-16_global-grain-trade-estimate-raised.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/27/signal-dry-bulk-weekly-report"
 images_count: 5
-word_count: 1001
+word_count: 1006
 source_file: "corpus/03-breakwave/insights/2022/2022-10-27_signal-dry-bulk-weekly-report.html"
 ---
 

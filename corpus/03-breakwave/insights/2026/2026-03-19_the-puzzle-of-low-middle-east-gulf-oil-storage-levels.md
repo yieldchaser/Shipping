@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/19/the-puzzle-of-low-middle-east-gulf-oil-storage-levels"
 tags: ["Crude", "Geopolitics", "Shipping"]
 images_count: 1
-word_count: 556
+word_count: 557
 source_file: "corpus/03-breakwave/insights/2026/2026-03-19_the-puzzle-of-low-middle-east-gulf-oil-storage-levels.html"
 ---
 
@@ -34,14 +34,14 @@ That would be only days, perhaps even a week, after the fact, thereby delaying t
 
 It makes more sense to maintain significant spare storage capacity to allow for an immediate and well-managed production restarting process, once and if the Strait of Hormuz is free to pass.
 
-And in fact,[Vortexa](https://www.linkedin.com/company/vortexa/)onshore inventory data for the West of Hormuz polygon (full Middle East looks similar) shows storage levels at a seasonal low close to the levels of the last two years (see chart).
+And in fact,[Vortexa](https://www.linkedin.com/company/vortexa/) onshore inventory data for the West of Hormuz polygon (full Middle East looks similar) shows storage levels at a seasonal low close to the levels of the last two years (see chart).
 
 ![Στιγμιότυπο Οθόνης 2026 03 19 105249](assets/2026-03-19_the-puzzle-of-low-middle-east-gulf-oil-storage-levels_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_67737b3ebf32.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 03 19 105249**  
 > **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/InsightsHubPage?articleId=a5MUutWBPveyQ9D7NL40l&articleType=report&categoryFilters=%5B%22report%22%5D&page=InsightsHubPage&productFilters=%5B%227Gl8wR81ACDZf4DIdJWpul%22%5D&searchTerm=&tabId=345e97a0-0c9c-4c82-b05b-46c70d5d0894) | [Local Asset](assets/2026-03-19_the-puzzle-of-low-middle-east-gulf-oil-storage-levels_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_67737b3ebf32.png)
 
-You can also see how stocks have been drawn markedly in the second half of February, as Saudi Arabia, UAE and Iran all hiked their exports in the weeks ahead of the war as we pointed out in the[Vortexa Crude Monthly Report](https://analytics.vortexa.com/InsightsHubPage?articleId=a5MUutWBPveyQ9D7NL40l&articleType=report&categoryFilters=%5B%22report%22%5D&page=InsightsHubPage&productFilters=%5B%227Gl8wR81ACDZf4DIdJWpul%22%5D&searchTerm=&tabId=345e97a0-0c9c-4c82-b05b-46c70d5d0894), published ahead of the current escalation on 25 February. Then there has been a short spike before volumes fell back to the typical levels of the last two years.
+You can also see how stocks have been drawn markedly in the second half of February, as Saudi Arabia, UAE and Iran all hiked their exports in the weeks ahead of the war as we pointed out in the [Vortexa Crude Monthly Report](https://analytics.vortexa.com/InsightsHubPage?articleId=a5MUutWBPveyQ9D7NL40l&articleType=report&categoryFilters=%5B%22report%22%5D&page=InsightsHubPage&productFilters=%5B%227Gl8wR81ACDZf4DIdJWpul%22%5D&searchTerm=&tabId=345e97a0-0c9c-4c82-b05b-46c70d5d0894), published ahead of the current escalation on 25 February. Then there has been a short spike before volumes fell back to the typical levels of the last two years.
 
 In sum, I think it is more relevant to look at two following two indicators rather than storage levels:
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/5/the-big-picture-chinas-steel-sector-and-export-outlook"
 tags: ["Drybulk", "China", "Coal"]
 images_count: 4
-word_count: 706
+word_count: 710
 source_file: "corpus/03-breakwave/insights/2024/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook.html"
 ---
 

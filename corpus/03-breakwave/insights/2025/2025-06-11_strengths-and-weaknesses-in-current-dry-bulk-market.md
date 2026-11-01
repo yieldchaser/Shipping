@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/11/strengths-and-weaknesses-in-current-dry-bulk-market"
 tags: ["China", "Drybulk", "Shipping"]
 images_count: 1
-word_count: 406
+word_count: 407
 source_file: "corpus/03-breakwave/insights/2025/2025-06-11_strengths-and-weaknesses-in-current-dry-bulk-market.html"
 ---
 

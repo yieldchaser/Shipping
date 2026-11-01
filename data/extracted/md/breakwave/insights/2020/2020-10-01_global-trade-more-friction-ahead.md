@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/1/global-trade-more-friction-ahead"
 images_count: 3
-word_count: 603
+word_count: 606
 source_file: "corpus/03-breakwave/insights/2020/2020-10-01_global-trade-more-friction-ahead.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/6/10/storm-after-the-calm-for-vlcc-rates"
 tags: ["Tankers", "Shipping", "Freightrates"]
 images_count: 2
-word_count: 459
+word_count: 461
 source_file: "corpus/03-breakwave/insights/2023/2023-06-10_storm-after-the-calm-for-vlcc-rates.html"
 ---
 

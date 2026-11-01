@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/28/surge-in-canadian-crude-oil-exports-to-europe"
 tags: ["Tankers", "Crude", "Markets"]
 images_count: 10
-word_count: 1574
+word_count: 1584
 source_file: "corpus/03-breakwave/insights/2025/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe.html"
 ---
 

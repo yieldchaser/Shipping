@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/9/14/higher-than-expected-inflation-pushes-commodities-lower"
 images_count: 1
-word_count: 712
+word_count: 713
 source_file: "corpus/03-breakwave/insights/2022/2022-09-14_higher-than-expected-inflation-pushes-commodities-lower.html"
 ---
 

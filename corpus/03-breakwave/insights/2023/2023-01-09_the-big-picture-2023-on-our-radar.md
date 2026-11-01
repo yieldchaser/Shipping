@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/1/9/the-big-picture-2023-on-our-radar"
 images_count: 2
-word_count: 895
+word_count: 897
 source_file: "corpus/03-breakwave/insights/2023/2023-01-09_the-big-picture-2023-on-our-radar.html"
 ---
 

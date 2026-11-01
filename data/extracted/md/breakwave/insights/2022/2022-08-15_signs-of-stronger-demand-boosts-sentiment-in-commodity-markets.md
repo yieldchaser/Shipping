@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/15/signs-of-stronger-demand-boosts-sentiment-in-commodity-markets"
 tags: ["Commodities", "Shipping", "Demand"]
 images_count: 1
-word_count: 741
+word_count: 742
 source_file: "corpus/03-breakwave/insights/2022/2022-08-15_signs-of-stronger-demand-boosts-sentiment-in-commodity-markets.html"
 ---
 

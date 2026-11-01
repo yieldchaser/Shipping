@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/23/another-contraction-in-chinas-coal-derived-electricity-generation"
 tags: ["China", "Coal", "Drybulk"]
 images_count: 2
-word_count: 264
+word_count: 266
 source_file: "corpus/03-breakwave/insights/2026/2026-01-23_another-contraction-in-chinas-coal-derived-electricity-generation.html"
 ---
 

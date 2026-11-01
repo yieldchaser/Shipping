@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/12/venezuela-reset"
 tags: ["Tankers", "Crude", "Geopolitics"]
 images_count: 2
-word_count: 810
+word_count: 812
 source_file: "corpus/03-breakwave/insights/2026/2026-01-12_venezuela-reset.html"
 ---
 

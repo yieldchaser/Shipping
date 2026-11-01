@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/25/is-brazil-about-to-unleash-a-tsunami-of-iron-ore-and-push-capes-to-new-highs"
 tags: ["Shipping", "Australia", "Vale", "Dry Bulk", "Brazil"]
 images_count: 2
-word_count: 787
+word_count: 789
 source_file: "corpus/03-breakwave/insights/2020/2020-06-26_is-brazil-about-to-unleash-a-tsunami-of-iron-ore-and-push-capes-to-new-highs.html"
 ---
 
@@ -30,7 +30,7 @@ Much ink has been spent on the importance of Brazil in the dry bulk market. The 
 
 COVID-19 has thrown some cold water on market’s expectations for significant increases in bulk exports, and more specifically for iron ore. Although soybean export volumes to China already set new highs this year, the futures curve in Capesize rates points to weaker iron ore export volumes over the next few months, which in combination with relatively strong expected iron ore prices till the end of the year (albeit in a backwarded curve to be fair), lead us to believe that the market does not trust Brazil, and more precisely Vale the largest iron ore miner in the world, on its promises to deliver enough iron ore to the seaborne market as provided in their most recent annual guidance.
 
-To that subject, Bloomberg comes with some comments that seem contradictory to such market expectations. Quoting Credit Suisse analysts, Bloomberg says that Vale expects to meet its annual guidance of 310-330 million tons of iron ore and thus Vale expects**weaker**iron ore prices down the road because of the additional supply of their product into the seaborne market.
+To that subject, Bloomberg comes with some comments that seem contradictory to such market expectations. Quoting Credit Suisse analysts, Bloomberg says that Vale expects to meet its annual guidance of 310-330 million tons of iron ore and thus Vale expects **weaker** iron ore prices down the road because of the additional supply of their product into the seaborne market.
 
 Although such comments should be taken with a grain of salt given Vale’s disappointing performance for several years in a row, if such amount of iron ore manages to hit the water during the second half of the year, it will certainly have a material positive impact on Capesize rates and a material negative impact on iron ore prices.
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/8/29/breakwave-bi-weekly-dry-report-7x7sebulk"
 images_count: 3
-word_count: 661
+word_count: 664
 source_file: "corpus/03-breakwave/insights/2023/2023-08-29_breakwave-bi-weekly-dry-report-7x7sebulk.html"
 ---
 

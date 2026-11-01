@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/28/a-tech-correction"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 2
-word_count: 838
+word_count: 840
 source_file: "corpus/03-breakwave/insights/2025/2025-01-28_a-tech-correction.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/21/chinese-lending-remains-strong"
 tags: ["China"]
 images_count: 2
-word_count: 483
+word_count: 485
 source_file: "corpus/03-breakwave/insights/2021/2021-02-24_chinese-lending-remains-strong.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/11/indian-thermal-coal-demand-growth-returns"
 tags: ["Drybulk", "Coal", "Markets"]
 images_count: 3
-word_count: 351
+word_count: 354
 source_file: "corpus/03-breakwave/insights/2026/2026-05-11_indian-thermal-coal-demand-growth-returns.html"
 ---
 

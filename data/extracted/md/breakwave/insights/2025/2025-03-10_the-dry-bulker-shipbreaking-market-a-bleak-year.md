@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/10/the-dry-bulker-shipbreaking-market-a-bleak-year"
 tags: ["Shipping", "Markets", "Drybulk"]
 images_count: 5
-word_count: 1005
+word_count: 1010
 source_file: "corpus/03-breakwave/insights/2025/2025-03-10_the-dry-bulker-shipbreaking-market-a-bleak-year.html"
 ---
 

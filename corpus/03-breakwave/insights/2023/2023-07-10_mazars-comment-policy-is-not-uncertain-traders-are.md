@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/7/10/mazars-comment-policy-is-not-uncertain-traders-are"
 images_count: 4
-word_count: 1294
+word_count: 1298
 source_file: "corpus/03-breakwave/insights/2023/2023-07-10_mazars-comment-policy-is-not-uncertain-traders-are.html"
 ---
 

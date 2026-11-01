@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/19/the-pandemic-is-still-here-and-we-are-all-out-of-patience-and-money"
 tags: ["Economy", "Inflation", "Asset Management"]
 images_count: 1
-word_count: 566
+word_count: 567
 source_file: "corpus/03-breakwave/insights/2021/2021-07-19_the-pandemic-is-still-here-and-we-are-all-out-of-patience-and-money.html"
 ---
 

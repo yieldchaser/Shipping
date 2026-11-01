@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/29/seaborne-coal-a-tale-of-two-countries"
 tags: ["Economy", "Coal", "Pricerecord"]
 images_count: 3
-word_count: 904
+word_count: 907
 source_file: "corpus/03-breakwave/insights/2021/2021-10-29_seaborne-coal-a-tale-of-two-countries.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-10-29_seaborne-coal-a-tale-
 
 Thermal coal prices have in recent days given up some of the spectacular gains the commodity has recorded since September last year. At its peak at the beginning of October, the fossil fuel had seen an increase of 450 per cent in thirteen months. However, since then, gC Newcastle coal futures have retreated almost fifteen per cent to just above 220 dollars per tonne. Although the supply and demand balance remains tight with the unravelling of the global energy crisis, prices have been heading on a downward path since the beginning of October. This is partially the result of authorities in the world’s largest coal consumer, China, increasing their efforts to stabilise the market and boost domestic output. The National Development and Reform Commission, China’s top economic planning body, plans to limit domestic miners’ pricing power for thermal coal as it seeks to ease the power crunch that has prompted electricity rationing and affected industrial production.
 
-![Ch1](assets/2021-10-29_seaborne-coal-a-tale-of-two-countries_img_ch1_429bf5ea65fe.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-29_seaborne-coal-a-tale-of-two-countries_img_ch1_429bf5ea65fe.png)
 
 > **Figure 1: Ch1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-29_seaborne-coal-a-tale-of-two-countries_img_ch1_429bf5ea65fe.png)
@@ -35,14 +35,14 @@ In India, the world’s second-largest consumer of coal, the previous supply cru
 
 In light of rising international prices and a resurgent pandemic, Indian seaborne imports of coal have been falling in recent months. Since May, volumes have shrunk from 21.8 million tonnes to 13.8 million tonnes in September. The current month, however, looks set to break the downward trend and top fifteen million tonnes. Despite volumes picking up month-on-month, they are still around a third below last October’s imports. Indian coal imports look likely to increase as the Indian economy continues to recover. The International Monetary Fund and the Indian central bank expect it to expand by 9.5 per cent in the year ending in March. After a deadly outbreak of the coronavirus limited economic activities, the economy is firmly on track to regain the designation as the world’s fastest-growing major economy.
 
-![Ch2](assets/2021-10-29_seaborne-coal-a-tale-of-two-countries_img_ch2_5d360a3e151b.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-29_seaborne-coal-a-tale-of-two-countries_img_ch2_5d360a3e151b.png)
 
 > **Figure 2: Ch2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-29_seaborne-coal-a-tale-of-two-countries_img_ch2_5d360a3e151b.png)
 
 Unlike India, the Chinese seaborne imports have shown solid year-on-year growth in recent months. While volumes have decreased since the peak of 32 million tonnes in August, imports during the last two months remained well above the same months last year. The total for the year-to-date is also higher than the previous year’s total, with 272 million tonnes compared to 259 million tonnes for the whole of 2020.
 
-![Ch3](assets/2021-10-29_seaborne-coal-a-tale-of-two-countries_img_ch3_8c4afefb727e.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-29_seaborne-coal-a-tale-of-two-countries_img_ch3_8c4afefb727e.png)
 
 > **Figure 3: Ch3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-29_seaborne-coal-a-tale-of-two-countries_img_ch3_8c4afefb727e.png)

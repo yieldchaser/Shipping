@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/4/rising-australian-ore-loadings-keep-upward-pressure-on-wachina-freight"
 tags: ["Ironore", "Drybulk", "Markets"]
 images_count: 4
-word_count: 1025
+word_count: 1029
 source_file: "corpus/03-breakwave/insights/2025/2025-12-05_rising-australian-ore-loadings-keep-upward-pressure-on-wachina-freight.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/31/chinas-ban-on-australian-coal-imports-remains-intact-restrictions-on-mongolian-coal-trucks-remain-in-place"
 tags: ["Australia", "Coal", "China"]
 images_count: 2
-word_count: 550
+word_count: 552
 source_file: "corpus/03-breakwave/insights/2021/2021-03-31_chinas-ban-on-australian-coal-imports-remains-intact-restrictions-on-mongolian-c.html"
 ---
 
@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-03-31_chinas-ban-on-austral
 
 ---
 
-By[Jeffrey Landsberg](mailto:jeffrey@commodore-research.com)
+By [Jeffrey Landsberg](mailto:jeffrey@commodore-research.com)
 
 ![Compass](assets/2021-03-31_chinas-ban-on-australian-coal-imports-remains-intact-restrictions-on-mongolian-c_img_compass_839c0120ad15.jpeg)
 

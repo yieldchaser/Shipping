@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/23/inflation-not-iran"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 4
-word_count: 1263
+word_count: 1267
 source_file: "corpus/03-breakwave/insights/2025/2025-06-23_inflation-not-iran.html"
 ---
 

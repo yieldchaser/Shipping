@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/8/the-rise-of-data-driven-decisions-in-tramp-shipping"
 tags: ["Shipping", "Data", "Intelligence"]
 images_count: 2
-word_count: 1870
+word_count: 1872
 source_file: "corpus/03-breakwave/insights/2021/2021-05-08_the-rise-of-data-driven-decisions-in-tramp-shipping.html"
 ---
 
@@ -118,7 +118,7 @@ That is if they adopt appropriate frameworks for data analysis and engage with t
 
 [4] TensorFlow is an end-to-end open source platform for machine learning.
 
-***Niclas Priess**is the co-founder of**Oceanbolt**. Oceanbolt is a data-as-a-service company leveraging geospatial analytics to provide real-time intelligence for the dry bulk markets. Learn more about Oceanbolt on its website:[Oceanbolt](https://www.oceanbolt.com/)
+***Niclas Priess** is the co-founder of **Oceanbolt**. Oceanbolt is a data-as-a-service company leveraging geospatial analytics to provide real-time intelligence for the dry bulk markets. Learn more about Oceanbolt on its website:[Oceanbolt](https://www.oceanbolt.com/)
 
 ---
 

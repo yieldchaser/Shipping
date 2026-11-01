@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/23/incorporating-data-driven-decision-making-in-dry-bulk-shipping"
 tags: ["Datadriven", "Decisionmaking", "Shipping"]
 images_count: 3
-word_count: 1864
+word_count: 1867
 source_file: "corpus/03-breakwave/insights/2021/2021-06-23_incorporating-data-driven-decision-making-in-dry-bulk-shipping.html"
 ---
 
@@ -44,14 +44,14 @@ Some initial application examples indicate that the machine learning models don�
 
 The main reason for the success is because ML models need to be good on average or their signals can be applied in specific higher tolerance parts of the Chartering/Hedging workflow. Out of the 10-12 or so spot fixtures of a Capesize Vessel in the last 12 months, fixing it for a longer period just twice (when ML model indicates) leads to beating the generic spot fixing by over 7% (fix 40 day business instead of 30), so offering a greater ability to beat the Baltic Index, especially on a portfolio basis. These results when applied to a fleet could be pushed higher subject to risk appetite.
 
-![A1](assets/2021-06-23_incorporating-data-driven-decision-making-in-dry-bulk-shipping_img_a1_e70979221632.jpg)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-23_incorporating-data-driven-decision-making-in-dry-bulk-shipping_img_a1_e70979221632.jpg)
 
 > **Figure 1: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-23_incorporating-data-driven-decision-making-in-dry-bulk-shipping_img_a1_e70979221632.jpg)
 
 The ML models appear to be back testing well also in the management of the nearby exposure of freight. When one is evaluating potential spot business for a vessel’s next fixture, they get a completely different evaluation and perspective when using the FFA and when using the ML forecast:
 
-![A2](assets/2021-06-23_incorporating-data-driven-decision-making-in-dry-bulk-shipping_img_a2_a1e33849fcd6.jpg)
+![A2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-23_incorporating-data-driven-decision-making-in-dry-bulk-shipping_img_a2_a1e33849fcd6.jpg)
 
 > **Figure 2: A2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-23_incorporating-data-driven-decision-making-in-dry-bulk-shipping_img_a2_a1e33849fcd6.jpg)
@@ -60,7 +60,7 @@ Business 1 has a duration of 30 days and a Time Charter Equivalent of $22,000. W
 
 If a Machine Learning model forecasts correctly the trend (irrespective of the level) in the Dollar per Ton price of a Route or the trend of the Average Time Charter Index, a Charterer/Grain Trader can take the longer/ shorter spot business, or he/she can take the said business unhedged, or even take a small leveraged risk on the FFA market. The implications to a Fleet or a Cargo book are significant. Similar applications exist when applying ML and linear model signals on hedging one’s forward market exposure using averages, it is highly successful in calibrating future income within management set bounds. The applications of the good quality driven signals have numerous applications depending on one’s market exposure. One could postpone cover; another can postpone execution and so on. The possibilities in applying ML models to shipping are numerous. That is until we get to the point that we cover all possible uses and all possible decisions. This most likely means we have arrived at the self-fixing, self-managing fleet, self-executing cargo book.
 
-![A3](assets/2021-06-23_incorporating-data-driven-decision-making-in-dry-bulk-shipping_img_a3_a2e8a885b8ed.jpg)
+![A3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-23_incorporating-data-driven-decision-making-in-dry-bulk-shipping_img_a3_a2e8a885b8ed.jpg)
 
 > **Figure 3: A3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-23_incorporating-data-driven-decision-making-in-dry-bulk-shipping_img_a3_a2e8a885b8ed.jpg)

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/12/the-dragons-black-gold-china-seaborne-coal-import-shows-divergence-in-1h24"
 tags: ["Economy", "Drybulk", "Iron Ore"]
 images_count: 5
-word_count: 1436
+word_count: 1441
 source_file: "corpus/03-breakwave/insights/2024/2024-08-13_the-dragons-black-gold-china-seaborne-coal-import-shows-divergence-in-1h24.html"
 ---
 

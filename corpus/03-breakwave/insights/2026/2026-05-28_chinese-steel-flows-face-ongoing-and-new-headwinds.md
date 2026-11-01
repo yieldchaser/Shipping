@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/28/chinese-steel-flows-face-ongoing-and-new-headwinds"
 tags: ["China", "Ironore", "Drybulk"]
 images_count: 3
-word_count: 787
+word_count: 790
 source_file: "corpus/03-breakwave/insights/2026/2026-05-28_chinese-steel-flows-face-ongoing-and-new-headwinds.html"
 ---
 

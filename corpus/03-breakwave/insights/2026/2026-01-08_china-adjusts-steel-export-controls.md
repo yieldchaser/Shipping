@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/8/china-adjusts-steel-export-controls"
 tags: ["Drybulk", "China", "Shipping"]
 images_count: 4
-word_count: 1348
+word_count: 1352
 source_file: "corpus/03-breakwave/insights/2026/2026-01-08_china-adjusts-steel-export-controls.html"
 ---
 

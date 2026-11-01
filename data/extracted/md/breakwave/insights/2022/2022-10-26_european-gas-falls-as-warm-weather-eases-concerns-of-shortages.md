@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/26/european-gas-falls-as-warm-weather-eases-concerns-of-shortages"
 images_count: 1
-word_count: 673
+word_count: 674
 source_file: "corpus/03-breakwave/insights/2022/2022-10-26_european-gas-falls-as-warm-weather-eases-concerns-of-shortages.html"
 ---
 
@@ -34,7 +34,7 @@ Sentiment remained weak in commodity markets as concerns over Chinese growth rem
 
 **Base metals** remained under pressure as economic weakness in China weighs on sentiment. A rout in Chinese equities earlier this week reflected broader concerns about the nation’s economic prospects after President Xi strengthened his control. These concerns are outweighing signs of tightness in physical markets. Copper inventories in LME warehouses plunged to its lowest level since April, driven by declines in Asia. Spot premiums also remain high. Aluminium bucked the trend, gaining nearly 2% amid increasing fears of sanctions on Russian supplies. Norsk Hydro said that US and EU should stop importing Russian aluminium. This comes as the LME continues to look into a proposal to stop expecting Russian metal into its warehouses.
 
-**Iron ore**futures extended losses on pessimism over the demand outlook in China. Major steel mills in China have seen their stockpiles rise by 8.6% m/m in October amid subdued demand and rising output. Sentiment remains fragile as concerns persist over the property sector. Home prices in major cities fell for the 13th consecutive month, despite government policies to support the market.
+**Iron ore** futures extended losses on pessimism over the demand outlook in China. Major steel mills in China have seen their stockpiles rise by 8.6% m/m in October amid subdued demand and rising output. Sentiment remains fragile as concerns persist over the property sector. Home prices in major cities fell for the 13th consecutive month, despite government policies to support the market.
 
 The weaker USD helped push **gold** higher. Focus is now switching to the Fed, who are expected to raise rate by 75bps next week.
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/11/india-continues-to-heat-up"
 tags: ["Coal", "Commodities", "Markets"]
 images_count: 2
-word_count: 338
+word_count: 340
 source_file: "corpus/03-breakwave/insights/2026/2026-09-11_india-continues-to-heat-up.html"
 ---
 

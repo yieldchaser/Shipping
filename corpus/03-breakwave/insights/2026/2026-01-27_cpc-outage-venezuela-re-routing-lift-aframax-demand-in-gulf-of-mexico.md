@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/27/-cpc-outage-venezuela-re-routing-lift-aframax-demand-in-gulf-of-mexico"
 tags: ["Tankers", "Shipping", "Oil"]
 images_count: 4
-word_count: 777
+word_count: 781
 source_file: "corpus/03-breakwave/insights/2026/2026-01-27_cpc-outage-venezuela-re-routing-lift-aframax-demand-in-gulf-of-mexico.html"
 ---
 

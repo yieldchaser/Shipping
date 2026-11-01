@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/22/what-venezuela-means-for-todays-vlcc-market"
 tags: ["Tankers", "Markets", "Geopolitics"]
 images_count: 1
-word_count: 1020
+word_count: 1021
 source_file: "corpus/03-breakwave/insights/2026/2026-01-22_what-venezuela-means-for-todays-vlcc-market.html"
 ---
 

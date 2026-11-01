@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/17/oil-spike-challenges-dry-bulk-fuel-equation"
 tags: ["Shipping", "Markets", "Geopolitics"]
 images_count: 5
-word_count: 1176
+word_count: 1181
 source_file: "corpus/03-breakwave/insights/2026/2026-03-17_oil-spike-challenges-dry-bulk-fuel-equation.html"
 ---
 

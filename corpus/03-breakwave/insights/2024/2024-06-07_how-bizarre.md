@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/7/how-bizarre"
 tags: ["Coal", "Electricity", "China"]
 images_count: 2
-word_count: 444
+word_count: 446
 source_file: "corpus/03-breakwave/insights/2024/2024-06-07_how-bizarre.html"
 ---
 

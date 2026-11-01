@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/17/iron-ore-chinese-steel-production-under-pressure"
 tags: ["China", "Steel", "Economy"]
 images_count: 5
-word_count: 1033
+word_count: 1038
 source_file: "corpus/03-breakwave/insights/2021/2021-09-17_iron-ore-chinese-steel-production-under-pressure.html"
 ---
 
@@ -30,35 +30,35 @@ However, the sharp decline in steel production grabbed most of the headlines and
 
 ### Iron Ore Prices 2011-2021 (Usd/tonne)
 
-![Ch1](assets/2021-09-17_iron-ore-chinese-steel-production-under-pressure_img_ch1_b2a1a3789fb0.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-17_iron-ore-chinese-steel-production-under-pressure_img_ch1_b2a1a3789fb0.png)
 
 > **Figure 1: Ch1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-17_iron-ore-chinese-steel-production-under-pressure_img_ch1_b2a1a3789fb0.png)
 
 The considerable drop in steel production is yet to translate into a significant fall in seaborne imports of iron ore. According to data from Oceanbolt, volumes discharged in Chinese ports during August fell by five per cent compared to the same month last year. Notwithstanding the year-on-year decline, the iron ore flow into the Chinese ports was the highest since March. The trend of annual decline looks set to continue, following last year’s strong import growth. So far, some fifty million tonnes have shipped to Chinese ports in September, which suggests the month’s annual decline will be approximately ten per cent. Despite the drop, the volumes discharged are in line with the year’s monthly average.
 
-![Ch2](assets/2021-09-17_iron-ore-chinese-steel-production-under-pressure_img_ch2_a43085f6ce45.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-17_iron-ore-chinese-steel-production-under-pressure_img_ch2_a43085f6ce45.png)
 
 > **Figure 2: Ch2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-17_iron-ore-chinese-steel-production-under-pressure_img_ch2_a43085f6ce45.png)
 
 Recent months have seen Brazil increasing its Chinese iron ore market share as production has recovered. At the same time, the Australian stake has returned to its long-term average. The iron ore volumes imported from Australia have remained relatively stable despite the ongoing diplomatic friction between Beijing and Canberra. The combined market share for Australia and Brazil has also been increasing, with only ten per cent of the Chinese demand catered for by other exporters
 
-![Ch3](assets/2021-09-17_iron-ore-chinese-steel-production-under-pressure_img_ch3_a18c20aeffc9.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-17_iron-ore-chinese-steel-production-under-pressure_img_ch3_a18c20aeffc9.png)
 
 > **Figure 3: Ch3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-17_iron-ore-chinese-steel-production-under-pressure_img_ch3_a18c20aeffc9.png)
 
 The drastic drop in Chinese steel output and somewhat less dramatic decline in iron ore imports could suggest that inventories are building up. Data from Tathya.earth highlight a mixed picture for Chinese portside stockpiles, with two of the largest iron ore ports, Caofeidian and Jingtang, seeing inventories trending downwards.
 
-![Ch4](assets/2021-09-17_iron-ore-chinese-steel-production-under-pressure_img_ch4_9741d07023cf.png)
+![Ch4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-17_iron-ore-chinese-steel-production-under-pressure_img_ch4_9741d07023cf.png)
 
 > **Figure 4: Ch4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-17_iron-ore-chinese-steel-production-under-pressure_img_ch4_9741d07023cf.png)
 
 For some smaller ports, such as Rizhao and Quingdao, portside stocks have been building up during the summer, suggesting that the clampdown on steel production may have some effects on inventories. However, Mysteel has recently reported that the iron ore stockpiles of the Chinese steel mills are at a seventeen-month low, leaving room for a shift of portside stocks and complicating any analysis.
 
-![Ch5](assets/2021-09-17_iron-ore-chinese-steel-production-under-pressure_img_ch5_abfa57d04077.png)
+![Ch5](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-17_iron-ore-chinese-steel-production-under-pressure_img_ch5_abfa57d04077.png)
 
 > **Figure 5: Ch5**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-17_iron-ore-chinese-steel-production-under-pressure_img_ch5_abfa57d04077.png)

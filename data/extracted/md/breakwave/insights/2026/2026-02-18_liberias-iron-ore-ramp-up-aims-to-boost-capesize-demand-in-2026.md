@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/18/liberias-iron-ore-ramp-up-aims-to-boost-capesize-demand-in-2026"
 tags: ["Drybulk", "Capesize", "Ironore"]
 images_count: 1
-word_count: 528
+word_count: 529
 source_file: "corpus/03-breakwave/insights/2026/2026-02-18_liberias-iron-ore-ramp-up-aims-to-boost-capesize-demand-in-2026.html"
 ---
 

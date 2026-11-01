@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/3/a-positive-note-for-the-capesize"
 tags: ["Drybulk", "Shipping", "Capesize"]
 images_count: 5
-word_count: 1522
+word_count: 1527
 source_file: "corpus/03-breakwave/insights/2024/2024-07-03_a-positive-note-for-the-capesize.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-07-03_a-positive-note-for-t
 ---
 
 **Dry Weekly Market Monitor - Week 27.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 July 02, 2024
 
 ![Στιγμιότυπο Οθόνης 2024 07 03 103239](assets/2024-07-03_a-positive-note-for-the-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0e53dba4576b.png)
@@ -31,7 +31,7 @@ July 02, 2024
 
 The first week of July began on a positive note for the Capesize dry freight market, with rates for Brazil to North China reaching one of the highest points for the year, surpassing the previous peak recorded in week 10. This rise is particularly noteworthy as it coincides with a decreasing trend in the number of Capesize ballasters in Southeast Africa, which fell below the annual average at the end of June.
 
-In our previous[Weekly Market Monitor](https://go.signalocean.com/e/983831/arket-monitor-dry-week-26-2024/2qbw4l/420830975/h/s_Tqppxu6WuXBlb3qMCVOzuEWgcvI4Hwp5DWJOQ6ABM), we illustrated the relationship between the number of ballasters and the strengthening of the freight market on the C3 route. This analysis was supported by the[Capesize Insights market report](https://go.signalocean.com/e/983831/ic-capes-insights-downloadable/2qbw4p/420830975/h/s_Tqppxu6WuXBlb3qMCVOzuEWgcvI4Hwp5DWJOQ6ABM), which confirmed the firmness of the market in early July. The report highlighted how a reduction in the number of ballasters led to tighter vessel availability, which in turn drove up freight rates.
+In our previous [Weekly Market Monitor](https://go.signalocean.com/e/983831/arket-monitor-dry-week-26-2024/2qbw4l/420830975/h/s_Tqppxu6WuXBlb3qMCVOzuEWgcvI4Hwp5DWJOQ6ABM), we illustrated the relationship between the number of ballasters and the strengthening of the freight market on the C3 route. This analysis was supported by the [Capesize Insights market report](https://go.signalocean.com/e/983831/ic-capes-insights-downloadable/2qbw4p/420830975/h/s_Tqppxu6WuXBlb3qMCVOzuEWgcvI4Hwp5DWJOQ6ABM), which confirmed the firmness of the market in early July. The report highlighted how a reduction in the number of ballasters led to tighter vessel availability, which in turn drove up freight rates.
 
 This relationship underscores the importance of supply dynamics in the Capesize segment. As fewer ballasters head to loading areas, the reduced supply can cause freight rates to climb, reflecting the supply-demand balance. Our data showed a noticeable decline in ballasters in the South Atlantic, aligning with the observed increase in freight rates on the C3 route from Brazil to China.
 
@@ -39,7 +39,7 @@ Additionally, there was an upswing in tonne-days demand growth just before the e
 
 Furthermore, improved factory output in China and hopes for more stimulus measures have supported a firmer market for iron ore prices. Last week, Beijing introduced measures to reduce the cost of buying homes, including cutting mortgage interest rates and lowering the minimum down payment ratio. As a result, iron ore futures prices rose on Monday to their highest levels in nearly two weeks, buoyed by better-than-expected factory data from China and expectations of additional stimulus measures in the world's second-largest economy later this month.
 
-The[most-traded September iron ore contract](https://go.signalocean.com/e/983831/ter-china-data-stimulus-hopes-/2qbw4s/420830975/h/s_Tqppxu6WuXBlb3qMCVOzuEWgcvI4Hwp5DWJOQ6ABM)on China’s Dalian Commodity Exchange (DCE) ended daytime trading 2.5% higher at 840 yuan ($115.58) per metric ton, the highest level since June 18. The benchmark August iron ore on the Singapore Exchange was nearly 1.7% higher at $108.4 per ton as of 0707 GMT, marking the highest point since June 20.
+The [most-traded September iron ore contract](https://go.signalocean.com/e/983831/ter-china-data-stimulus-hopes-/2qbw4s/420830975/h/s_Tqppxu6WuXBlb3qMCVOzuEWgcvI4Hwp5DWJOQ6ABM) on China’s Dalian Commodity Exchange (DCE) ended daytime trading 2.5% higher at 840 yuan ($115.58) per metric ton, the highest level since June 18. The benchmark August iron ore on the Singapore Exchange was nearly 1.7% higher at $108.4 per ton as of 0707 GMT, marking the highest point since June 20.
 
 In June, the Caixin/S&P Global manufacturing purchasing managers’ index (PMI) rose to 51.8 from 51.7 in May, marking the fastest pace since May 2021 and surpassing analysts’ forecasts of 51.2. This positive manufacturing data, coupled with the anticipated economic measures, suggests continued strength in the market for the near term.
 
@@ -50,10 +50,10 @@ In June, the Caixin/S&P Global manufacturing purchasing managers’ index (PMI) 
 
 In the first week of July, the dry bulk freight market experienced gains, driven by a significant boost in Capesize rates for the Brazil to North China route. Meanwhile, the sentiment in the smaller vessel size categories remained relatively steady.
 
-- **Capesize**vessel freight rates shipments from Brazil to North China remained rose $32 per ton, reflecting a notable 35% increase from a comparable week a month ago.
-- **Panamax**vessel freight rates from the Continent to the Far East dropped to $40 per ton. Despite this decline, recent data shows these rates are still 29% higher than those recorded a year ago.
-- **Supramax**vessel freight rates on the Indo-ECI route remained steady at around $11 per ton throughout June and the first days of July. This represents a 37% increase compared to the same period last year.
-- **Handysize**freight rates for the NOPAC Far East route have remained consistent over the past seven weeks, holding steady at approximately $36 per ton. This marks a notable 36% increase compared to rates observed one year ago.
+- **Capesize** vessel freight rates shipments from Brazil to North China remained rose $32 per ton, reflecting a notable 35% increase from a comparable week a month ago.
+- **Panamax** vessel freight rates from the Continent to the Far East dropped to $40 per ton. Despite this decline, recent data shows these rates are still 29% higher than those recorded a year ago.
+- **Supramax** vessel freight rates on the Indo-ECI route remained steady at around $11 per ton throughout June and the first days of July. This represents a 37% increase compared to the same period last year.
+- **Handysize** freight rates for the NOPAC Far East route have remained consistent over the past seven weeks, holding steady at approximately $36 per ton. This marks a notable 36% increase compared to rates observed one year ago.
 
 ![Στιγμιότυπο Οθόνης 2024 07 03 103946](assets/2024-07-03_a-positive-note-for-the-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6bc4c3dd7b16.png)
 

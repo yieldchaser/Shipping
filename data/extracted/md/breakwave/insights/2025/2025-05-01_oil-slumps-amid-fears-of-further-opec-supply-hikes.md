@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/1/oil-slumps-amid-fears-of-further-opec-supply-hikes"
 tags: ["Commodities", "Markets", "Shipping"]
 images_count: 2
-word_count: 692
+word_count: 694
 source_file: "corpus/03-breakwave/insights/2025/2025-05-01_oil-slumps-amid-fears-of-further-opec-supply-hikes.html"
 ---
 
@@ -31,7 +31,7 @@ Weak economic data in China weighed on sentiment across the commodity complex. P
 
 ### Market Commentary
 
-**Crude oil**prices slumped further amid concerns of further OPEC supply hikes. A Reuters report said that Saudi Arabian officials have been telling allies and industry experts that the Kingdom can endure sustained period of depressed prices. This added to existing concerns that Saudi Arabia, the de facto leader of the OPEC+ alliance, is planning to steer the group to agree to another increase in supply next week. Sentiment wasn’t helped by signs that the possibility of a quick breakthrough in US trade negotiations is fading. President Trump said China deserved the steep tariffs he imposed. The market shrugged off data showing slightly better demand. US crude oil inventories fell 2,696kbbl last week, according to the EIA data. More importantly, gasoline stockpiles fell by 4,003kbbl, suggesting demand is relatively robust despite weak economic data in recent weeks.
+**Crude oil** prices slumped further amid concerns of further OPEC supply hikes. A Reuters report said that Saudi Arabian officials have been telling allies and industry experts that the Kingdom can endure sustained period of depressed prices. This added to existing concerns that Saudi Arabia, the de facto leader of the OPEC+ alliance, is planning to steer the group to agree to another increase in supply next week. Sentiment wasn’t helped by signs that the possibility of a quick breakthrough in US trade negotiations is fading. President Trump said China deserved the steep tariffs he imposed. The market shrugged off data showing slightly better demand. US crude oil inventories fell 2,696kbbl last week, according to the EIA data. More importantly, gasoline stockpiles fell by 4,003kbbl, suggesting demand is relatively robust despite weak economic data in recent weeks.
 
 **North Asian LNG** prices slumped to their lowest in a year due to weak demand. The Japan-Korea LNG benchmark fell to USD10.614/mmBtu as concerns the ongoing US-China trade war would curb consumption in the region. The industrial sector makes up about 30% of overall demand, making in sensitive to changes in economic growth. China has been slashing imports, while Indian consumers are switching to cheaper oil products. This soft demand is outweighing concerns over supply disruptions in Malaysia, Australia and Brunei.**European benchmark gas** **futures** ended the session higher, breaking a six-day stretch of losses as traders viewed the selloff as overdone.
 

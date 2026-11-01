@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/11/27/2021-dry-bulk-outlook-bauxite"
 tags: ["Bauxite", "Aluminum", "Dry Bulk"]
 images_count: 5
-word_count: 1626
+word_count: 1631
 source_file: "corpus/03-breakwave/insights/2020/2020-11-27_2021-dry-bulk-outlook-bauxite.html"
 ---
 

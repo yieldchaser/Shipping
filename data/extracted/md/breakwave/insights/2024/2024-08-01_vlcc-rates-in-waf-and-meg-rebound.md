@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/1/vlcc-rates-in-waf-and-meg-rebound"
 tags: ["Shipping", "Crude Oil", "Tankers"]
 images_count: 5
-word_count: 1182
+word_count: 1187
 source_file: "corpus/03-breakwave/insights/2024/2024-08-01_vlcc-rates-in-waf-and-meg-rebound.html"
 ---
 

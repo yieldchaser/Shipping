@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/16/headwinds-for-the-chinese-economy"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 1
-word_count: 1483
+word_count: 1484
 source_file: "corpus/03-breakwave/insights/2024/2024-07-16_headwinds-for-the-chinese-economy.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/1/chinas-coal-import-prospects-for-this-year-remain-bleak"
 tags: ["Coal", "China", "Drybulk"]
 images_count: 2
-word_count: 281
+word_count: 283
 source_file: "corpus/03-breakwave/insights/2025/2025-06-02_chinas-coal-import-prospects-for-this-year-remain-bleak.html"
 ---
 

@@ -36,7 +36,7 @@ Then again, maybe the fact that utilization is quite high has something to do wi
 
 Furthermore, calls for a reduction in steel production by the Chinese authorities could provide an additional boost to steel prices while at the same time dampen the demand for iron ore and coking coal in the process leading to lower input costs.
 
-As[Bloomberg recently reported](https://www.bloomberg.com/news/articles/2020-12-19/china-steel-group-executive-expects-decline-in-iron-ore-price), China has been attempting to cool down the hot iron ore market for 2021:
+As [Bloomberg recently reported](https://www.bloomberg.com/news/articles/2020-12-19/china-steel-group-executive-expects-decline-in-iron-ore-price), China has been attempting to cool down the hot iron ore market for 2021:
 
 *The recent speculation-driven surge in the value of iron ore is unsustainable and the trend will be reversed when the market settles, a senior executive at China’s top industry body said.*
 

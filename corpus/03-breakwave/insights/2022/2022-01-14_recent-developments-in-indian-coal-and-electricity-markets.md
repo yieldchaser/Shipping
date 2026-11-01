@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/1/13/recent-developments-in-indian-coal-and-electricity-markets"
 tags: ["India", "Coal", "Energy", "Electricity"]
 images_count: 5
-word_count: 635
+word_count: 640
 source_file: "corpus/03-breakwave/insights/2022/2022-01-14_recent-developments-in-indian-coal-and-electricity-markets.html"
 ---
 

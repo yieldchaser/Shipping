@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/5/25/greater-weakness-recently-in-chinese-lending-and-spending"
 images_count: 4
-word_count: 634
+word_count: 638
 source_file: "corpus/03-breakwave/insights/2022/2022-05-25_greater-weakness-recently-in-chinese-lending-and-spending.html"
 ---
 

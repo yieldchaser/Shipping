@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/7/the-big-picture-on-our-radar-for-2021"
 tags: ["Steel", "Dry Bulk", "Panamax", "Capesize"]
 images_count: 3
-word_count: 1424
+word_count: 1427
 source_file: "corpus/03-breakwave/insights/2021/2021-01-08_the-big-picture-on-our-radar-for-2021.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/25/global-crude-oil-market-overview"
 tags: ["Markets", "Crude", "Tankers"]
 images_count: 4
-word_count: 665
+word_count: 669
 source_file: "corpus/03-breakwave/insights/2025/2025-03-25_global-crude-oil-market-overview.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/4/5/fertiliser-trade-under-pressure"
 tags: ["Trade", "Economy", "Ukraine", "Russia"]
 images_count: 3
-word_count: 1133
+word_count: 1136
 source_file: "corpus/03-breakwave/insights/2022/2022-04-05_fertiliser-trade-under-pressure.html"
 ---
 

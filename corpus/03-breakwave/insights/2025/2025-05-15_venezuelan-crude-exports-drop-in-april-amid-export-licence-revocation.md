@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/15/venezuelan-crude-exports-drop-in-april-amid-export-licence-revocation"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 2
-word_count: 1028
+word_count: 1030
 source_file: "corpus/03-breakwave/insights/2025/2025-05-15_venezuelan-crude-exports-drop-in-april-amid-export-licence-revocation.html"
 ---
 
@@ -30,7 +30,7 @@ Venezuela’s crude exports fell 7% m-o-m in April, following the Trump administ
 
 The relationship between the Trump administration and Venezuela’s government is the most critical factor shaping Venezuela’s oil exports outlook. As it currently stands, Chevron is expected to wind down operations by 27 May, per the Office of Foreign Assets Control’s latest mandate. Vortexa data shows that US imports of Venezuelan crude peaked at 340kbd in December 2024 – a record high since the Biden administration authorised Chevron to restart production in November 2022 – but have gradually declined since then.
 
-By April, exports had dropped by 62% from that November peak. The steep decline in April can be especially attributed to PDVSA’s concerns over payment processing issues arising from US sanctions. In response, PDVSA suspended loadings and ordered two vessels,[Carina Voyager](https://analytics.vortexa.com/Map?page=Map&tabId=7cc9105c-6759-4a20-a839-900da43c803d&v=3)and[Dubai Attraction](https://analytics.vortexa.com/Map?page=Map&tabId=7cc9105c-6759-4a20-a839-900da43c803d&v=3)that were en route to the US to return their cargoes.
+By April, exports had dropped by 62% from that November peak. The steep decline in April can be especially attributed to PDVSA’s concerns over payment processing issues arising from US sanctions. In response, PDVSA suspended loadings and ordered two vessels,[Carina Voyager](https://analytics.vortexa.com/Map?page=Map&tabId=7cc9105c-6759-4a20-a839-900da43c803d&v=3) and [Dubai Attraction](https://analytics.vortexa.com/Map?page=Map&tabId=7cc9105c-6759-4a20-a839-900da43c803d&v=3) that were en route to the US to return their cargoes.
 
 ![Στιγμιότυπο Οθόνης 2025 05 15 161323](assets/2025-05-15_venezuelan-crude-exports-drop-in-april-amid-export-licence-revocation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7dea4068dd06.png)
 
@@ -58,7 +58,7 @@ China has been the main buyer for nearly half of Venezuela’s exports in the la
 
 Since the sanctions imposed in 2019, Venezuela has been relying heavily on the dark fleet to export oil to China. According to Vortexa’s data, some common methods used by the dark tankers include AIS disabling, where the signal goes dark, making it difficult to track. AIS spoofing disguises the Venezuelan origin, falsely labelling the oil as originating from other countries, particularly Malaysia and Brazil.
 
-Additionally, the fleet is increasingly using zombie tankers, which use the identities of scrapped tankers to appear legitimate and avoid scrutiny. Despite the sanctions and logistics hurdles, China’s demand for discounted barrels is expected to remain[structurally robust](https://www.vortexa.com/insights/crude/market-volatility-drives-chinas-crude-stockpiling/)due to its prioritisation for supply security, making China Venezuela’s last resort.
+Additionally, the fleet is increasingly using zombie tankers, which use the identities of scrapped tankers to appear legitimate and avoid scrutiny. Despite the sanctions and logistics hurdles, China’s demand for discounted barrels is expected to remain [structurally robust](https://www.vortexa.com/insights/crude/market-volatility-drives-chinas-crude-stockpiling/) due to its prioritisation for supply security, making China Venezuela’s last resort.
 
 Going forward, we should see Venezuela increasing exports to China since it will likely be the only buyer in the market. While there are still two weeks until Chevron officially ends operations in Venezuela, some negotiations between Chevron and the US government are still possible. Looking ahead, US Gulf refiners could source their heavy sour barrels from elsewhere, while Venezuela’s exports will solely head to China.
 

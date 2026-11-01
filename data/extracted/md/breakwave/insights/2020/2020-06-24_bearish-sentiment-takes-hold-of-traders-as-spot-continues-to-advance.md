@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/24/bearish-sentiment-takes-hold-of-traders-as-spot-continues-to-advance"
 images_count: 3
-word_count: 789
+word_count: 792
 source_file: "corpus/03-breakwave/insights/2020/2020-06-24_bearish-sentiment-takes-hold-of-traders-as-spot-continues-to-advance.html"
 ---
 

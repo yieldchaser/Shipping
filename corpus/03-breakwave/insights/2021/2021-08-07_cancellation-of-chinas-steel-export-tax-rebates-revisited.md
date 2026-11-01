@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/7/cancellation-of-chinas-steel-export-tax-rebates-revisited"
 tags: ["China", "Steel", "Shipping"]
 images_count: 2
-word_count: 693
+word_count: 695
 source_file: "corpus/03-breakwave/insights/2021/2021-08-07_cancellation-of-chinas-steel-export-tax-rebates-revisited.html"
 ---
 

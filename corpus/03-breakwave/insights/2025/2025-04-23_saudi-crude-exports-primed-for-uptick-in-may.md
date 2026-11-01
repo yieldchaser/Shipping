@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/23/saudi-crude-exports-primed-for-uptick-in-may"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 2
-word_count: 815
+word_count: 817
 source_file: "corpus/03-breakwave/insights/2025/2025-04-23_saudi-crude-exports-primed-for-uptick-in-may.html"
 ---
 

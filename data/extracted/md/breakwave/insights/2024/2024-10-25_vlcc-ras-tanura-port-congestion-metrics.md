@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/25/vlcc-ras-tanura-port-congestion-metrics"
 tags: ["Tankers", "Crude", "Shipping"]
 images_count: 10
-word_count: 1861
+word_count: 1871
 source_file: "corpus/03-breakwave/insights/2024/2024-10-25_vlcc-ras-tanura-port-congestion-metrics.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/12/oil-gains-as-length-middle-east-conflict-looms"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 2
-word_count: 826
+word_count: 828
 source_file: "corpus/03-breakwave/insights/2026/2026-03-12_oil-gains-as-length-middle-east-conflict-looms.html"
 ---
 
@@ -31,7 +31,7 @@ Energy markets pushed higher despite plans to release emergency supplies of oil.
 
 ### Market Commentary
 
-**Crude oil**prices pushed higher as President Trump increased pressure on Iran. He warned that the US could strike even more targets in Iran “if we want”. This followed comments earlier in the week that the operation could end soon. Expectations of additional Russian oil hitting the market were also squashed. The European Union called for the continued enforcement of the price cap on Russia’s oil. Trump has already waived some oil-related sanctions, which has seen an increased number of oil tankers with Russian crude head to India, according to ship tracking data. The current price cap on Russian seaborne crude oil is approximately USD44.10/bbl.
+**Crude oil** prices pushed higher as President Trump increased pressure on Iran. He warned that the US could strike even more targets in Iran “if we want”. This followed comments earlier in the week that the operation could end soon. Expectations of additional Russian oil hitting the market were also squashed. The European Union called for the continued enforcement of the price cap on Russia’s oil. Trump has already waived some oil-related sanctions, which has seen an increased number of oil tankers with Russian crude head to India, according to ship tracking data. The current price cap on Russian seaborne crude oil is approximately USD44.10/bbl.
 
 This offset news that the IEA is coordinating a release of oil from the strategic reserves of its members. It suggested this release could be as large as 400mbbl – the largest in its history. A meeting of G7 leaders will discuss the stockpile release separately, but they have, in principle, said they will support such “proactive measures”. Prime Minister Takaichi said Japan will release oil from its strategic reserve, as soon as 16 March. The IEA has said its 32 members hold more than 1,200mbbl, which includes the US strategic petroleum reserve. Another 600mbbl of industry stocks are under government obligation. The pace and duration of the release will be key. The dribbling of oil will do little to offset the millions of barrels that are being lost due to the effective closure of the Strait of Hormuz. The waterway carries approximately 20mb/d. The maximum drawdown capability of the US Strategic Petroleum Reserve is 4.4mb/d, and it takes 13 days for the oil to reach the open market after a presidential decision.
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/5/consumer-growth-in-china-continues-to-increase"
 tags: ["China", "Economy", "Markets"]
 images_count: 1
-word_count: 182
+word_count: 183
 source_file: "corpus/03-breakwave/insights/2025/2025-05-05_consumer-growth-in-china-continues-to-increase.html"
 ---
 

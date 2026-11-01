@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/27/are-the-stars-aligning-for-the-world-economy"
 tags: ["Global Economy"]
 images_count: 2
-word_count: 917
+word_count: 919
 source_file: "corpus/03-breakwave/insights/2021/2021-04-27_are-the-stars-aligning-for-the-world-economy.html"
 ---
 

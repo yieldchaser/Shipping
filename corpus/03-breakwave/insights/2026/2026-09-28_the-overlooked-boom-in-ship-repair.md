@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/28/the-overlooked-boom-in-ship-repair"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 4
-word_count: 1151
+word_count: 1155
 source_file: "corpus/03-breakwave/insights/2026/2026-09-28_the-overlooked-boom-in-ship-repair.html"
 ---
 

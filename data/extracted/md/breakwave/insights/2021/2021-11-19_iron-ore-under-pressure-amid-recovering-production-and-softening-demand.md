@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/11/19/iron-ore-under-pressure-amid-recovering-production-and-softening-demand"
 tags: ["Iron Ore", "Global", "China", "Imports"]
 images_count: 4
-word_count: 1115
+word_count: 1119
 source_file: "corpus/03-breakwave/insights/2021/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-11-19_iron-ore-under-pressu
 
 After an extensive slide, iron ore prices have found some support at an eighteen-month low. Iron ore with 63.5 per cent iron content for delivery in Tianjin is currently trading at 85 dollars per tonne, a level that was last seen in May 2020 when China embarked on its spectacular V-shaped post-pandemic recovery. The recent travails of the Chinese economy, with softening demand for steel from a sluggish real estate and property sector, and the curbs on the country’s steel production have received much of the blame for the bearish sentiment in the iron ore markets. The close link between the iron ore prices and the fortunes of the Chinese economy is a function of the country’s dominant position as an importer. According to data from Oceanbolt, since 2015, 69 per cent of all seaborne iron ore was destined for Chinese ports, and the share rose to 74 per cent during last year’s pandemic.
 
-![Ch1](assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch1_516e1ee890ad.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch1_516e1ee890ad.png)
 
 > **Figure 1: Ch1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch1_516e1ee890ad.png)
@@ -39,21 +39,21 @@ From a shipping perspective, it is easy to get caught up in the bearish narrativ
 
 Last month saw the largest ever volume of seaborne iron ore discharged in ports globally, according to cargo tracking data from Oceanbolt. The 146.5 million tonnes narrowly beat the previous record set in October last year. November is also showing robust volumes globally, with projected full-month imports only marginally below last month’s. However, the fact that November is a day shorter than October is the primary reason for the projection falling short of a new monthly record.
 
-![Ch2](assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch2_93a7e7798d6d.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch2_93a7e7798d6d.png)
 
 > **Figure 2: Ch2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch2_93a7e7798d6d.png)
 
 Despite the negative newsflow emitting from China, iron ore keeps flowing into the ports in the world’s second-largest economy. Last month saw volumes only second to October 2020 discharged in Chinese ports, and November looks set to match the 106 million tonnes offloaded despite the month being one day shorter.
 
-![Ch3](assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch3_26f00fbe6ceb.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch3_26f00fbe6ceb.png)
 
 > **Figure 3: Ch3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch3_26f00fbe6ceb.png)
 
 In light of weakening steel demand from the beleaguered construction sector and curbs on steel production to ease pollution levels, iron ore inventories have been building up in many Chinese ports. Stockpiles are typically expected to start building during the winter in the Northern Hemisphere, as steel mills want to safeguard sufficient supplies ahead of the pick up in construction activities in the spring. However, the current port inventories are around ten per cent above what has been recorded at the point in recent years. Satellite data from Tathya.earth also shows a rapid recovery in inventories in China’s largest iron ore port, Caofeidian, following a drop during the third quarter.
 
-![Ch4](assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch4_df7347cb991f.png)
+![Ch4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch4_df7347cb991f.png)
 
 > **Figure 4: Ch4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch4_df7347cb991f.png)

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/9/suez-canal-post-ceasefire-outlook-for-capesize-transits"
 tags: ["Capesize", "Drybulk", "Ironore"]
 images_count: 6
-word_count: 1531
+word_count: 1537
 source_file: "corpus/03-breakwave/insights/2025/2025-12-09_suez-canal-post-ceasefire-outlook-for-capesize-transits.html"
 ---
 

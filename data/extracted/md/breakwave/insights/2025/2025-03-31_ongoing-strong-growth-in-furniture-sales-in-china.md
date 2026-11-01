@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/31/ongoing-strong-growth-in-furniture-sales-in-china"
 tags: ["China", "Economy"]
 images_count: 2
-word_count: 238
+word_count: 240
 source_file: "corpus/03-breakwave/insights/2025/2025-03-31_ongoing-strong-growth-in-furniture-sales-in-china.html"
 ---
 

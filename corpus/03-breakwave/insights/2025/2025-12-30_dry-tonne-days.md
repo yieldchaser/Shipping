@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/30/dry-tonne-days"
 tags: ["Ironore", "Drybulk", "Markets"]
 images_count: 8
-word_count: 1421
+word_count: 1429
 source_file: "corpus/03-breakwave/insights/2025/2025-12-30_dry-tonne-days.html"
 ---
 
@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-12-30_dry-tonne-days.html"
 
 ---
 
-The final Dry Market Monitor of the year focuses on tonne-day demand growth as a leading indicator for freight market evolution and an early signal for market direction at the start of next year. You can find further end-of-year insights on geopolitical and freight trends in our[Annual Review](https://go.signalocean.com/e/983831/-commodities-geopolitical-risk/2rqj1n/564103489/h/TrnIACz1JOKYqZCsE97Kz8wuhEW39b93m1ywp4XxEbs).
+The final Dry Market Monitor of the year focuses on tonne-day demand growth as a leading indicator for freight market evolution and an early signal for market direction at the start of next year. You can find further end-of-year insights on geopolitical and freight trends in our [Annual Review](https://go.signalocean.com/e/983831/-commodities-geopolitical-risk/2rqj1n/564103489/h/TrnIACz1JOKYqZCsE97Kz8wuhEW39b93m1ywp4XxEbs).
 
 ![Market Chart 1](assets/2025-12-30_dry-tonne-days_img_unnamed_32552bcbd2cb.png)
 
@@ -30,7 +30,7 @@ The final Dry Market Monitor of the year focuses on tonne-day demand growth as a
 - Dry bulk tonne-days reached record highs in 2025, exceeding previous historical peaks, up around 4% year on year and close to 9% compared with 2023, highlighting the role of distance-driven demand in supporting vessel utilisation.
 
 - The increase in tonne-days has been driven primarily by iron ore trade, reflecting the impact of long-haul Atlantic basin exports on Capesize demand.
-- [Freight](https://go.signalocean.com/e/983831/dry-dynamic-market-prices-dry/2rqj1r/564103489/h/TrnIACz1JOKYqZCsE97Kz8wuhEW39b93m1ywp4XxEbs)market trends ahead of the Christmas period indicate strengthening momentum on Brazil–China and South Africa–China Capesize routes, pointing to a firmer tone into year-end. Although Brazil–China Capesize rates peaked on 3 December at nearly $26/ton, the subsequent pullback has been contained, with current levels holding at about $24/ton rather than signaling a broader deterioration, supported by ongoing long-haul cargo demand
+- [Freight](https://go.signalocean.com/e/983831/dry-dynamic-market-prices-dry/2rqj1r/564103489/h/TrnIACz1JOKYqZCsE97Kz8wuhEW39b93m1ywp4XxEbs) market trends ahead of the Christmas period indicate strengthening momentum on Brazil–China and South Africa–China Capesize routes, pointing to a firmer tone into year-end. Although Brazil–China Capesize rates peaked on 3 December at nearly $26/ton, the subsequent pullback has been contained, with current levels holding at about $24/ton rather than signaling a broader deterioration, supported by ongoing long-haul cargo demand
 
 ![Στιγμιότυπο Οθόνης 2025 12 30 102120](assets/2025-12-30_dry-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d60c94a05a93.png)
 

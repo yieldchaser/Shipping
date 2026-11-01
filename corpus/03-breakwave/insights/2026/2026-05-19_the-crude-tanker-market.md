@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/19/the-crude-tanker-market"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 1
-word_count: 634
+word_count: 635
 source_file: "corpus/03-breakwave/insights/2026/2026-05-19_the-crude-tanker-market.html"
 ---
 

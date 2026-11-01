@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/6/28/chinas-coal-output-remains-very-strong"
 images_count: 3
-word_count: 449
+word_count: 452
 source_file: "corpus/03-breakwave/insights/2022/2022-06-28_chinas-coal-output-remains-very-strong.html"
 ---
 

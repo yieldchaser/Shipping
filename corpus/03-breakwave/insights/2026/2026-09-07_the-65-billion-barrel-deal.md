@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/7/the-65-billion-barrel-deal"
 tags: ["Tankers", "Shipping", "Crude"]
 images_count: 2
-word_count: 789
+word_count: 791
 source_file: "corpus/03-breakwave/insights/2026/2026-09-07_the-65-billion-barrel-deal.html"
 ---
 

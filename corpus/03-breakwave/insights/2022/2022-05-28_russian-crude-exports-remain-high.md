@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/5/28/russian-crude-exports-remain-high"
 images_count: 3
-word_count: 1134
+word_count: 1137
 source_file: "corpus/03-breakwave/insights/2022/2022-05-28_russian-crude-exports-remain-high.html"
 ---
 

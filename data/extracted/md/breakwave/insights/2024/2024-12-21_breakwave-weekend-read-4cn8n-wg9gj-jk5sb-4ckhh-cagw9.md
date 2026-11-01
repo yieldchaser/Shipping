@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/25/breakwave-weekend-read-4cn8n-wg9gj-jk5sb-4ckhh-cagw9"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 9
-word_count: 1108
+word_count: 1117
 source_file: "corpus/03-breakwave/insights/2024/2024-12-21_breakwave-weekend-read-4cn8n-wg9gj-jk5sb-4ckhh-cagw9.html"
 ---
 

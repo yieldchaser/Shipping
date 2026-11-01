@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/25/breakwave-weekend-read-547kk-rw7zy-awmfb-mf26k-dk29d-56ysb-x3jbe"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 12
-word_count: 1332
+word_count: 1344
 source_file: "corpus/03-breakwave/insights/2025/2025-07-04_breakwave-weekend-read-547kk-rw7zy-awmfb-mf26k-dk29d-56ysb-x3jbe.html"
 ---
 
@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-07-04_breakwave-weekend-rea
 
 ## Breakwave Shipping Report
 
-**VLCC Rates Face Reality Amid De-escalation, Lack of Disruptions**– Following weeks of geopolitical tensions, the VLCC market is entering a**phase of normalization**after the landmark ceasefire agreement between Iran and Israel.
+**VLCC Rates Face Reality Amid De-escalation, Lack of Disruptions**– Following weeks of geopolitical tensions, the VLCC market is entering a**phase of normalization** after the landmark ceasefire agreement between Iran and Israel.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2025177wreport114kio)
 

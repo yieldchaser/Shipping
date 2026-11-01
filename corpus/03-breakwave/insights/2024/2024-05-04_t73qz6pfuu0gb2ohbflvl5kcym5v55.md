@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/4/t73qz6pfuu0gb2ohbflvl5kcym5v55"
 tags: ["Shipping", "Markets", "Economy"]
 images_count: 12
-word_count: 1354
+word_count: 1366
 source_file: "corpus/03-breakwave/insights/2024/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-05-04_t73qz6pfuu0gb2ohbflvl
 
 ## Read Here Everything You Need to Know
 
-**Spot Dry Bulk Rates Continue to Underperform Although Expectations Remain High –**The month of April proved to be a disappointment for freight futures traders as earlier**expectations**for a rebound in rates failed to materialize.
+**Spot Dry Bulk Rates Continue to Underperform Although Expectations Remain High –**The month of April proved to be a disappointment for freight futures traders as earlier **expectations** for a rebound in rates failed to materialize.
 
 ![Στιγμιότυπο Οθόνης 2024 05 04 135545](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3e1bb54a7be.png)
 

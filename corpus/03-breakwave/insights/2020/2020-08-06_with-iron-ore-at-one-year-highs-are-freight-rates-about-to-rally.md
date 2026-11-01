@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/8/6/with-iron-ore-at-one-year-highs-are-freight-rates-about-to-rally"
 tags: ["Shipping", "Capesize", "China", "Dry Bulk", "Panamax"]
 images_count: 4
-word_count: 923
+word_count: 927
 source_file: "corpus/03-breakwave/insights/2020/2020-08-06_with-iron-ore-at-one-year-highs-are-freight-rates-about-to-rally.html"
 ---
 
@@ -37,7 +37,7 @@ So far this year, China has been the driving force behind the relentless demand 
 
 Dow Jones quoting Citi Research also agrees, and is out with similar comments earlier today describing such a development in more detail:
 
-Citi is not alone. Iron ore is supported by real buying activity, and as[Platts discusses further](https://www.spglobal.com/platts/en/market-insights/latest-news/metals/080620-capesize-rates-stage-v-shaped-recovery-on-china-iron-ore-demand-vessel-delays), demand for the material remains robust:
+Citi is not alone. Iron ore is supported by real buying activity, and as [Platts discusses further](https://www.spglobal.com/platts/en/market-insights/latest-news/metals/080620-capesize-rates-stage-v-shaped-recovery-on-china-iron-ore-demand-vessel-delays), demand for the material remains robust:
 
 *“China is buying all the iron ore that they can find, and supply of iron ore is tight," a ship chartering source with a miner said. "Also, the fact that they have turned a net importer of steel shows there is demand for steel within China," the source added.”*
 

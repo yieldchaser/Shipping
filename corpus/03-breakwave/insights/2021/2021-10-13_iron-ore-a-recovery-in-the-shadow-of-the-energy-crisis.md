@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/13/iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis"
 tags: ["Economy", "Energycrisis", "Iron Ore"]
 images_count: 4
-word_count: 947
+word_count: 951
 source_file: "corpus/03-breakwave/insights/2021/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis.html"
 ---
 

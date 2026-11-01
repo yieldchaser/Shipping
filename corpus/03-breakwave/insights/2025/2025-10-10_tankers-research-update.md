@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/10/tankers-research-update"
 tags: ["Tankers", "Markets", "Crude"]
 images_count: 2
-word_count: 2407
+word_count: 2409
 source_file: "corpus/03-breakwave/insights/2025/2025-10-10_tankers-research-update.html"
 ---
 

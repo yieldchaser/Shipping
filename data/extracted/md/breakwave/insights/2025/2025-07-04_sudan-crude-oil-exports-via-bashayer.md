@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/4/sudan-crude-oil-exports-via-bashayer"
 tags: ["Tankers", "Markets", "Crude"]
 images_count: 10
-word_count: 1660
+word_count: 1670
 source_file: "corpus/03-breakwave/insights/2025/2025-07-04_sudan-crude-oil-exports-via-bashayer.html"
 ---
 

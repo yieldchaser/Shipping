@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/4/21/brs-group-annual-review-2022"
 images_count: 3
-word_count: 772
+word_count: 775
 source_file: "corpus/03-breakwave/insights/2022/2022-04-21_brs-group-annual-review-2022.html"
 ---
 

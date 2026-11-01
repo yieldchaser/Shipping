@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/9/15/vlcc-supply-and-demand-analysis"
 images_count: 5
-word_count: 1541
+word_count: 1546
 source_file: "corpus/03-breakwave/insights/2022/2022-09-15_vlcc-supply-and-demand-analysis.html"
 ---
 

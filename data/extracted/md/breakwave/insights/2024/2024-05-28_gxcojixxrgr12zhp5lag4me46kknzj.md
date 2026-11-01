@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/28/gxcojixxrgr12zhp5lag4me46kknzj"
 tags: ["Commodities", "Economy", "Markets"]
 images_count: 2
-word_count: 704
+word_count: 706
 source_file: "corpus/03-breakwave/insights/2024/2024-05-28_gxcojixxrgr12zhp5lag4me46kknzj.html"
 ---
 
@@ -39,7 +39,7 @@ A more dovish tone from central banks helped push **gold** prices higher. The EC
 
 **Base metals** didn’t trade with markets closed in the US and UK. However, data from China is likely to weigh on sentiment when they open later today. Copper stockpiles rose by 9,400t last week to 424,500t, according to SMM. Despite warnings of output cuts amid weak processing fees, Chinese smelters have maintained relatively high production rates. This may be in light of strengthening international demand. In a sign of strengthening economic growth, daily spot rates for a 40-foot container to the US West Coast from Asia jumped more than 13% last week to USD4,915. That’s more than triple the rate seen in December 2023.
 
-**Iron ore**futures retreated as investors weighed up recent measures by Beijing to stabilise the property sector against signs of rising supply from exporters.
+**Iron ore** futures retreated as investors weighed up recent measures by Beijing to stabilise the property sector against signs of rising supply from exporters.
 
 ![Στιγμιότυπο Οθόνης 2024 05 28 112941](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-28_gxcojixxrgr12zhp5lag4me46kknzj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0d7c6dfc5f38.png)
 

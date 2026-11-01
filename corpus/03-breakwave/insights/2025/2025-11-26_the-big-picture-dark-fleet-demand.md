@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/26/the-big-picture-dark-fleet-demand"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 4
-word_count: 1568
+word_count: 1572
 source_file: "corpus/03-breakwave/insights/2025/2025-11-26_the-big-picture-dark-fleet-demand.html"
 ---
 

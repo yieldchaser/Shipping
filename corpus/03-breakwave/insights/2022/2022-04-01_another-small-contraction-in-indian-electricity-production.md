@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/4/1/another-small-contraction-in-indian-electricity-production"
 images_count: 3
-word_count: 313
+word_count: 316
 source_file: "corpus/03-breakwave/insights/2022/2022-04-01_another-small-contraction-in-indian-electricity-production.html"
 ---
 

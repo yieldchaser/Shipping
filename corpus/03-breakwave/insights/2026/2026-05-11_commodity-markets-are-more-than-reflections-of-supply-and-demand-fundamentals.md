@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/11/commodity-markets-are-more-than-reflections-of-supply-and-demand-fundamentals"
 tags: ["Crude", "Markets", "Commodities"]
 images_count: 1
-word_count: 1168
+word_count: 1169
 source_file: "corpus/03-breakwave/insights/2026/2026-05-11_commodity-markets-are-more-than-reflections-of-supply-and-demand-fundamentals.html"
 ---
 

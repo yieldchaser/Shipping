@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/31/weekly-insights-review"
 tags: ["Shipping", "Markets", "Economy"]
 images_count: 13
-word_count: 1287
+word_count: 1300
 source_file: "corpus/03-breakwave/insights/2024/2024-05-31_weekly-insights-review.html"
 ---
 
@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-05-31_weekly-insights-revie
 
 ## Breakwave Dry Bulk Report
 
-**Dry bulk spot rates move closer to seasonal averages as summer begins –**With the**strongest first quarter for Capesizes in 14 years**behind us, dry bulk rates have**now moved closer to the typical**rate for this time of the year, with the Baltic Dry Index sitting at roughly 15% above the 7-year average.
+**Dry bulk spot rates move closer to seasonal averages as summer begins –**With the **strongest first quarter for Capesizes in 14 years** behind us, dry bulk rates have **now moved closer to the typical** rate for this time of the year, with the Baltic Dry Index sitting at roughly 15% above the 7-year average.
 
 ![Dry+report+top](assets/2024-05-31_weekly-insights-review_img_dry2breport2btop_c29fc0ecfd5d.png)
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/5/11/signal-dry-bulk-weekly-report"
 images_count: 5
-word_count: 1096
+word_count: 1101
 source_file: "corpus/03-breakwave/insights/2023/2023-05-11_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -29,7 +29,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-05-11_signal-dry-bulk-weekl
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2nxs9j/318228156?h=tvCjPtFa1TyZ3zwi3M09OjbqdQVP3ptBWqufiBTbdnM) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-11_signal-dry-bulk-weekly-report_img_unnamed-2023-05-11t114744350_8e75df027a17.png)
 
 Data Source: The Signal Ocean Platform, Dry Bulk Flows
-[Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2nxs9j/318228156?h=tvCjPtFa1TyZ3zwi3M09OjbqdQVP3ptBWqufiBTbdnM)
+ [Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2nxs9j/318228156?h=tvCjPtFa1TyZ3zwi3M09OjbqdQVP3ptBWqufiBTbdnM)
 
 In the second week of May, we saw weaker dynamics in freight rates, with the Capesize segment registering some firmness. Interestingly, the Indian economy is seeing strong South African coal imports, with the Capesize segment gaining strength in this type of trade, with recent weekly volumes reaching their highest levels in the last year. (See chart of 25-day moving average above left). In the previous month, the Capesize and Panamax segments reached peak levels in shipments of South African coal for the Indian economy.
 

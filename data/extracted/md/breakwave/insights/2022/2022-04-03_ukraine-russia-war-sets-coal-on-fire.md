@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/4/3/ukraine-russia-war-sets-coal-on-fire"
 tags: ["Coal", "Ukraine", "Russia", "Economy"]
 images_count: 3
-word_count: 1721
+word_count: 1724
 source_file: "corpus/03-breakwave/insights/2022/2022-04-03_ukraine-russia-war-sets-coal-on-fire.html"
 ---
 

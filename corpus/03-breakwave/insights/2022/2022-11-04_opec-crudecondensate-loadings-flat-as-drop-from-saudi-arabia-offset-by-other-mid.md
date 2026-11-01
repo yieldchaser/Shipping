@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/4/opec-crudecondensate-loadings-flat-as-drop-from-saudi-arabia-offset-by-other-middle-east-and-africa-1"
 images_count: 2
-word_count: 831
+word_count: 833
 source_file: "corpus/03-breakwave/insights/2022/2022-11-04_opec-crudecondensate-loadings-flat-as-drop-from-saudi-arabia-offset-by-other-mid.html"
 ---
 

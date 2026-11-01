@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/5/19/preliminary-202223-grain-trade-forecast"
 images_count: 4
-word_count: 449
+word_count: 453
 source_file: "corpus/03-breakwave/insights/2022/2022-05-19_preliminary-202223-grain-trade-forecast.html"
 ---
 

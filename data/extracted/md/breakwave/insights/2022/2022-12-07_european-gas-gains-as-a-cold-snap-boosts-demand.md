@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/12/7/european-gas-gains-as-a-cold-snap-boosts-demand"
 images_count: 1
-word_count: 686
+word_count: 687
 source_file: "corpus/03-breakwave/insights/2022/2022-12-07_european-gas-gains-as-a-cold-snap-boosts-demand.html"
 ---
 

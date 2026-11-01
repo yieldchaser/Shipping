@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/8/20/dry-bulk-deals-gather-pace"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 1
-word_count: 634
+word_count: 635
 source_file: "corpus/03-breakwave/insights/2026/2026-08-20_dry-bulk-deals-gather-pace.html"
 ---
 

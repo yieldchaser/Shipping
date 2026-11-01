@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/8/the-greatest-economic-gambit-of-our-time"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 5
-word_count: 2210
+word_count: 2215
 source_file: "corpus/03-breakwave/insights/2025/2025-04-08_the-greatest-economic-gambit-of-our-time.html"
 ---
 

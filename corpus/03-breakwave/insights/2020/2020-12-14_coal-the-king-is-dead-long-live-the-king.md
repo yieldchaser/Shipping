@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/12/13/coal-the-king-is-dead-long-live-the-king"
 tags: ["Coal", "Dry Bulk", "Capesize", "Panamax", "China", "India", "Usa"]
 images_count: 4
-word_count: 1531
+word_count: 1535
 source_file: "corpus/03-breakwave/insights/2020/2020-12-14_coal-the-king-is-dead-long-live-the-king.html"
 ---
 
@@ -36,11 +36,11 @@ Such dynamics could potentially lead to another mini boom in coal mining, as pri
 > *“China domestic coal prices have moved northwards since their nadir April, and this rally has sharpened over the past few weeks as concerns are mounting around China’s stockpiles for the winter ahead. From the domestic supply side, the outlook is not particularly bright. Central government probes into over-production, licensing and safety are discouraging miners from maximizing output, at a time when power plants are calling for output expansion. Production is at similar levels to last year, not ideal if you want to ween yourself off imports during both a potentially cold winter and a booming economic recovery.”*  
 > **Interactive Data & Source:** [Globaltimes](https://www.globaltimes.cn/content/1209840.shtml) | [Local Asset](assets/2020-12-14_coal-the-king-is-dead-long-live-the-king_img_coalprice2crb28229_1747dafed242.jpg)
 
-Then there are the near term trade dynamics that are having a profound impact on prices and are distorting trade flows.[Yesterday’s announcement](https://www.globaltimes.cn/content/1209840.shtml)by China that it is temporarily suspending the annual quota system that has been in place for years in order to bring coal prices down, reflects such a shifting trade dynamics, especially with Australian coal now[officially shut out](https://www.theguardian.com/australia-news/2020/dec/14/china-formalises-cut-to-australias-coal-imports-state-media-reports)from China. New trade patters and cargoes from far away are slowly entering the arena and will impact both prices for the material as well as freight, especially given the current hot iron ore market. Competition for ships is good for shipowners, and the increasing demand for both coal and iron ore at the same time bodes well for Capesize rates in the near future.
+Then there are the near term trade dynamics that are having a profound impact on prices and are distorting trade flows.[Yesterday’s announcement](https://www.globaltimes.cn/content/1209840.shtml) by China that it is temporarily suspending the annual quota system that has been in place for years in order to bring coal prices down, reflects such a shifting trade dynamics, especially with Australian coal now [officially shut out](https://www.theguardian.com/australia-news/2020/dec/14/china-formalises-cut-to-australias-coal-imports-state-media-reports) from China. New trade patters and cargoes from far away are slowly entering the arena and will impact both prices for the material as well as freight, especially given the current hot iron ore market. Competition for ships is good for shipowners, and the increasing demand for both coal and iron ore at the same time bodes well for Capesize rates in the near future.
 
 Arrow Research focuses on China and the challenges that the world’s largest coal consumer is facing:
 
-But it is not only China. Other regions are actually growing in terms of coal demand, with countries like[Vietnam](https://en.wikipedia.org/wiki/List_of_coal-fired_power_stations_in_Vietnam)and[Pakistan](https://en.wikipedia.org/wiki/List_of_power_stations_in_Pakistan)in the process of adding coal-fired generation capacity over the next several years.
+But it is not only China. Other regions are actually growing in terms of coal demand, with countries like [Vietnam](https://en.wikipedia.org/wiki/List_of_coal-fired_power_stations_in_Vietnam) and [Pakistan](https://en.wikipedia.org/wiki/List_of_power_stations_in_Pakistan) in the process of adding coal-fired generation capacity over the next several years.
 
 Vietnam is an interesting example, that should see increasing imports over the next several years, in line with recent trends, as the chart below, courtesy of Braemar ACM, shows:
 
@@ -66,7 +66,7 @@ Arrow Research continues:
 > *﻿With China now on a global hunt for coal, especially metallurgical coal, regions that historically have been priced out in terms of (coking) coal supplies, are suddenly becoming relevant. The US is a prime example, with coking coal prices on the East Coast rising sharply and with buyers around the world rushing to secure cargoes as the steel market is struggling to keep up with rising costs of materials, from iron ore, to coking coal to scrap.*  
 > **Interactive Data & Source:** [Argusmedia](https://www.argusmedia.com/en/news/2167048-atlantic-coking-coal-chinese-appetite-grows) | [Local Asset](assets/2020-12-14_coal-the-king-is-dead-long-live-the-king_img_coalpremiumchrt_f4bdc2a17ca3.jpg)
 
-[Argus has more](https://www.argusmedia.com/en/news/2167048-atlantic-coking-coal-chinese-appetite-grows)on the subject:
+[Argus has more](https://www.argusmedia.com/en/news/2167048-atlantic-coking-coal-chinese-appetite-grows) on the subject:
 
 *US coking coal prices have firmed further this week as Chinese demand continues to extend into 2021 with buyers seeking year-long supply deals with US mining firms. The Argus fob daily assessment for low-volatile coking coal held steady at $127.50/t fob Hampton Roads today but rose by $2.50/t yesterday, driven by Chinese demand and supply limitations for December and January loadings.*
 

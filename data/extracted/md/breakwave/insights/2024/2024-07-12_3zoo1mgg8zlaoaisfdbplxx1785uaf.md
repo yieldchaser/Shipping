@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/12/3zoo1mgg8zlaoaisfdbplxx1785uaf"
 tags: ["Economy", "Drybulk", "Energy"]
 images_count: 3
-word_count: 253
+word_count: 256
 source_file: "corpus/03-breakwave/insights/2024/2024-07-12_3zoo1mgg8zlaoaisfdbplxx1785uaf.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/6/5/disconnect-between-chinese-iron-ore-imports-and-steel-production-widens"
 tags: ["Ironore", "Drybulk", "China"]
 images_count: 3
-word_count: 723
+word_count: 726
 source_file: "corpus/03-breakwave/insights/2026/2026-06-05_disconnect-between-chinese-iron-ore-imports-and-steel-production-widens.html"
 ---
 

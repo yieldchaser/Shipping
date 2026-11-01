@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/13/global-economy-the-recovery-is-still-on-track"
 tags: ["Global Economy", "Commodities", "Shipping"]
 images_count: 3
-word_count: 920
+word_count: 923
 source_file: "corpus/03-breakwave/insights/2021/2021-07-14_global-economy-the-recovery-is-still-on-track.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-07-14_global-economy-the-re
 
 The world’s developed economies are showing a continued vigour as they are emerging from the grip of the pandemic, according to the OECD. The Paris-based organisation’s Composite Leading Indicators, which typically are predicting the strength of the economic growth cycle six months to nine months into the future, continue to expand for the group’s 38 members on aggregate and in some larger emerging-market economies as well. At the same time as the organisation’s leading indicators are pointing towards a continued global economic recovery that will carry on into next year at least, the threat of new coronavirus outbreaks and variants should not be underestimated according to the OECD. Supporting the bullish outlook, the French government upgraded its growth projection for the year from five to six per cent on Monday, as the economy is rebounding faster than expected following the end of most restrictions.
 
-![A1.pnj](assets/2021-07-14_global-economy-the-recovery-is-still-on-track_img_a1pnj_af3241a9756b.png)
+![A1.pnj](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-14_global-economy-the-recovery-is-still-on-track_img_a1pnj_af3241a9756b.png)
 
 > **Figure 1: A1.pnj**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-14_global-economy-the-recovery-is-still-on-track_img_a1pnj_af3241a9756b.png)
@@ -35,7 +35,7 @@ Perhaps somewhat ironic, the combination of increasing economic headwinds in Chi
 
 A return to more stimulus-driven growth in China and a continued rebound in the developed economies of the world would support a seasonal increase in seaborne iron ore volumes during the second half of the year, as outlined in Ocean Analytics’ previous contribution. For the other major commodity, coal, the picture may be somewhat more complex. According to cargo tracking data from Oceanbolt, the seasonal increase in seaborne coal during the second half of the year has largely disappeared during recent years. Volumes have become evenly matched between the two halves of the year.
 
-![A2.pnj](assets/2021-07-14_global-economy-the-recovery-is-still-on-track_img_a2pnj_6a275a8742cd.png)
+![A2.pnj](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-14_global-economy-the-recovery-is-still-on-track_img_a2pnj_6a275a8742cd.png)
 
 > **Figure 2: A2.pnj**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-14_global-economy-the-recovery-is-still-on-track_img_a2pnj_6a275a8742cd.png)
@@ -44,7 +44,7 @@ The disappearance of the seasonal effect on the seaborne coal flows is likely to
 
 Chinese seaborne coal imports have over the last few years not shown any coherent seasonal effects between the two halves of the year. Last year even showed a considerable drop in imported volumes during the second half, as the diplomatic tensions with Australia developed and new sources were sought.
 
-![A3.pnj](assets/2021-07-14_global-economy-the-recovery-is-still-on-track_img_a3pnj_01846577c28e.png)
+![A3.pnj](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-14_global-economy-the-recovery-is-still-on-track_img_a3pnj_01846577c28e.png)
 
 > **Figure 3: A3.pnj**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-14_global-economy-the-recovery-is-still-on-track_img_a3pnj_01846577c28e.png)

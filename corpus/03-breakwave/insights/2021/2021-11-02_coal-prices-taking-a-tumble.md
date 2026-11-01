@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/11/2/coal-prices-taking-a-tumble"
 images_count: 2
-word_count: 763
+word_count: 765
 source_file: "corpus/03-breakwave/insights/2021/2021-11-02_coal-prices-taking-a-tumble.html"
 ---
 

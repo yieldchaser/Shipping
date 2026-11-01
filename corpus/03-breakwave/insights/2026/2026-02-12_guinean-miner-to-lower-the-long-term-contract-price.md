@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/12/guinean-miner-to-lower-the-long-term-contract-price"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 4
-word_count: 1240
+word_count: 1244
 source_file: "corpus/03-breakwave/insights/2026/2026-02-12_guinean-miner-to-lower-the-long-term-contract-price.html"
 ---
 

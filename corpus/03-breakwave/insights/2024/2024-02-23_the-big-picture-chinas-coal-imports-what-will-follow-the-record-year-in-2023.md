@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/23/the-big-picture-chinas-coal-imports-what-will-follow-the-record-year-in-2023"
 tags: ["Drybulk", "China", "Coal"]
 images_count: 3
-word_count: 731
+word_count: 734
 source_file: "corpus/03-breakwave/insights/2024/2024-02-23_the-big-picture-chinas-coal-imports-what-will-follow-the-record-year-in-2023.html"
 ---
 
@@ -26,22 +26,22 @@ source_file: "corpus/03-breakwave/insights/2024/2024-02-23_the-big-picture-china
 
 - *Drivers of coal imports into China remain diverse and include (1) fluctuations in seasonal demand, (2) underlying industrial demand, (3) inventory levels, (4) hydropower availability, (5) gas prices, (6) international coal pricing and (7) government policy.*
 
-This month,**two positives for coal demand**emerged in China.
+This month,**two positives for coal demand** emerged in China.
 
-Firstly,**snow**in southern and central regions prompted five generating companies to tender for thermal coal on the spot market, McCloskey reported.
+Firstly,**snow** in southern and central regions prompted five generating companies to tender for thermal coal on the spot market, McCloskey reported.
 
-Secondly, media reports this week suggested China’s government will intensify its**mine safety campaign**in three leading coal producing provinces, ahead of the National People’s Congress meeting in March.
+Secondly, media reports this week suggested China’s government will intensify its **mine safety campaign** in three leading coal producing provinces, ahead of the National People’s Congress meeting in March.
 
 ![241](assets/2024-02-23_the-big-picture-chinas-coal-imports-what-will-follow-the-record-year-in-2023_img_241_af30364a4af8.png)
 
 > **Figure 1: 241**  
 > [Local Asset](assets/2024-02-23_the-big-picture-chinas-coal-imports-what-will-follow-the-record-year-in-2023_img_241_af30364a4af8.png)
 
-McCloskey comments that**Shanxi has been the first province**to issue an official statement, outlining a review of “rampant” overproduction at the province’s mines.
+McCloskey comments that **Shanxi has been the first province** to issue an official statement, outlining a review of “rampant” overproduction at the province’s mines.
 
 In Shanxi province, companies suspected of lifting coal production targets beyond approved mine capacity will fall under scrutiny, with safety procedures in focus. The whole process is scheduled to last to end-May.
 
-A governor from Shanxi has called on coal production to fall by an implied**50-70m tonnes**(both thermal and coking coal mines are found in Shanxi).
+A governor from Shanxi has called on coal production to fall by an implied **50-70m tonnes**(both thermal and coking coal mines are found in Shanxi).
 
 This move follows a State Council decree, effective 1 May 2024, that “local Party and government officials are obligated to carry our strict supervision of production safety.” The National Mine Safety Administration head warned earlier this month that “those suspected of illegal crimes should [face] criminal prosecution.”
 
@@ -51,7 +51,7 @@ According to the National Bureau of Statistics (NBS), domestic output gained 2.9
 
 Efforts to gauge the impact on coal prices from the announced production cuts are complicated, as post-Lunar New Year price rallies are (1) not unusual and (2) followed a spell of fairly sideways movement early in the calendar year.
 
-**International thermal coal prices have been in retreat for six months**. In February a basket of Australian, Indonesian and South African thermal prices (6,000kn NAR) sank to its**lowest point since May 2021**.
+**International thermal coal prices have been in retreat for six months**. In February a basket of Australian, Indonesian and South African thermal prices (6,000kn NAR) sank to its **lowest point since May 2021**.
 
 As Chinese customs data for January and February are usually released together, we look to shipment data for guidance on coal imports in the Q1 2024.
 
@@ -66,7 +66,7 @@ Of course, these figures exclude the sizeable overland component of mainly cokin
 
 One of the few sources of Chinese imports to see any kind of monthly increase in January was Colombia, with inbound volumes rising to 0.8m tonnes, one of the highest such months recorded in the shipment data.
 
-However,**to see a repeat**of last year’s extraordinary record in 2024 would require a monthly average higher than our estimate for January.
+However,**to see a repeat** of last year’s extraordinary record in 2024 would require a monthly average higher than our estimate for January.
 
 For that to happen would require an alignment of drivers, influenced by weather conditions, economic and industrial performance, competition from other fuel types, as well as domestic coal production.
 

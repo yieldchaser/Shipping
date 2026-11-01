@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/4/8/review-part-i-commodities"
 tags: ["Shipping", "Commodities", "Exports", "Economy"]
 images_count: 6
-word_count: 1085
+word_count: 1091
 source_file: "corpus/03-breakwave/insights/2022/2022-04-08_review-part-i-commodities.html"
 ---
 

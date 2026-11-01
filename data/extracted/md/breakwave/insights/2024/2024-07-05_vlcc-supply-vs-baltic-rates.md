@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/5/vlcc-supply-vs-baltic-rates"
 tags: ["Shipping", "Tankers", "Crude"]
 images_count: 10
-word_count: 1762
+word_count: 1772
 source_file: "corpus/03-breakwave/insights/2024/2024-07-05_vlcc-supply-vs-baltic-rates.html"
 ---
 

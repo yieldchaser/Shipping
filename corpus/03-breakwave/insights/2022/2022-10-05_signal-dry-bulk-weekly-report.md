@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/5/signal-dry-bulk-weekly-report"
 images_count: 5
-word_count: 1049
+word_count: 1054
 source_file: "corpus/03-breakwave/insights/2022/2022-10-05_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -43,10 +43,10 @@ Data Source: The Signal Ocean Platform, Dry Bulk Flows, From Ukraine to ALL Coun
 
 ​​​​​​In the first week of October, sentiment increased for Panamax ship freight rates, while a downward trend was observed for other ship size classes
 
-- **Capesize**freight rates from Brazil to North China fell to less than $24/tonne, and it appears that the downward trend will continue in the coming days.
-- **Panamax**freight rates from the Continent to the Far East rose to $42/tonne, up $7/tonne from the week 35 low.​​​​​​
-- **Supramax**freight rates for the Indo-ECI route remained at a level of $19/tonne, with no signs of a downward trend yet.
-- **Handysize**vessel freight rates from NOPAV to the far East continue to hover below $42/tonne over the past 4 weeks, with a sustained decline emerging in the first days of October.
+- **Capesize** freight rates from Brazil to North China fell to less than $24/tonne, and it appears that the downward trend will continue in the coming days.
+- **Panamax** freight rates from the Continent to the Far East rose to $42/tonne, up $7/tonne from the week 35 low.​​​​​​
+- **Supramax** freight rates for the Indo-ECI route remained at a level of $19/tonne, with no signs of a downward trend yet.
+- **Handysize** vessel freight rates from NOPAV to the far East continue to hover below $42/tonne over the past 4 weeks, with a sustained decline emerging in the first days of October.
 
 ## Section 2/ Supply -Ballasters (# Vessels) Increasing
 
@@ -57,10 +57,10 @@ Data Source: The Signal Ocean Platform, Dry Bulk Flows, From Ukraine to ALL Coun
 
 The number of Capesize and Panamax vessels sailing with ballast is still below the annual average for the past four weeks, while the number of Supramax and Handysize vessels jumped, with Supramax vessels reaching their highest level in the past year.
 
-- **Capesize**SE Africa: The number of vessels dropped to 64, a 48% decrease from the peak in week 32.
-- **Panamax**SE Africa: The number of vessels was 77, up 7 from two weeks ago, but still well below the yearly average of 105 vessels.
-- **Supramax**SE Asia: The number of vessels increased to 117, up 40% from the low in week 38.
-- **Handysize**NOPAC: The number of vessels increased to 69, 12 more than the previous week.
+- **Capesize** SE Africa: The number of vessels dropped to 64, a 48% decrease from the peak in week 32.
+- **Panamax** SE Africa: The number of vessels was 77, up 7 from two weeks ago, but still well below the yearly average of 105 vessels.
+- **Supramax** SE Asia: The number of vessels increased to 117, up 40% from the low in week 38.
+- **Handysize** NOPAC: The number of vessels increased to 69, 12 more than the previous week.
 
 ## Section 3/ Demand -TonDays Increasing
 
@@ -71,10 +71,10 @@ The number of Capesize and Panamax vessels sailing with ballast is still below t
 
 The surprising upward trend in Capesize vessels recorded a gradual slowdown for the first days of October, while we have seen an upturn in the Handysize segment and a clear downward trend in the Supramax.
 
-- **Capesize**demand ton-days: The percentage increase recorded its highest level this year in the last week of September, with a downward correction in early October.
-- **Panamax**demand ton-days: The weaker growth recorded in the last week of September continued, and it remains to be seen whether there will be a recovery in the coming days.
-- **Supramax**demand ton-days: The stable outlook of the last few days was undermined by a sudden drop to the lowest level since week 35.
-- **Handysize**demand ton-days: The percentage increase in early October appears to be the highest since the beginning of the second quarter of this year.
+- **Capesize** demand ton-days: The percentage increase recorded its highest level this year in the last week of September, with a downward correction in early October.
+- **Panamax** demand ton-days: The weaker growth recorded in the last week of September continued, and it remains to be seen whether there will be a recovery in the coming days.
+- **Supramax** demand ton-days: The stable outlook of the last few days was undermined by a sudden drop to the lowest level since week 35.
+- **Handysize** demand ton-days: The percentage increase in early October appears to be the highest since the beginning of the second quarter of this year.
 
 ## Section 4/ Port Congestion -No of Vesselsincreasing
 

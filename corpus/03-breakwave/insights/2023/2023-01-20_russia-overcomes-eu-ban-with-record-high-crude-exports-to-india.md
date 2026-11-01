@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/1/19/russia-overcomes-eu-ban-with-record-high-crude-exports-to-india"
 images_count: 2
-word_count: 1006
+word_count: 1008
 source_file: "corpus/03-breakwave/insights/2023/2023-01-20_russia-overcomes-eu-ban-with-record-high-crude-exports-to-india.html"
 ---
 

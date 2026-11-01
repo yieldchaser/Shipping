@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/2/chinas-economic-stimulus"
 tags: ["Tankers", "China", "Shipping"]
 images_count: 4
-word_count: 904
+word_count: 908
 source_file: "corpus/03-breakwave/insights/2024/2024-10-02_chinas-economic-stimulus.html"
 ---
 

@@ -24,9 +24,9 @@ source_file: "corpus/03-breakwave/insights/2025/2025-05-29_tariffs-halted.html"
 
 The US Court of International Trade deemed the tariffs illegal under the International Emergency Economic Powers Act. so the government must take all “Liberation Day” tariffs back. The ruling gives the administration 10 days to halt tariff collection (but not return the money already collected). This affects tariffs on Canada, Mexico, China and the 10% global tariff.
 
-It**does not affect sectoral tariffs**(autos, steel, aluminium).
+It **does not affect sectoral tariffs**(autos, steel, aluminium).
 
-The White House may appeal all the way up to the Supreme Court, but in the interim it will have to comply**within 10 days**.
+The White House may appeal all the way up to the Supreme Court, but in the interim it will have to comply **within 10 days**.
 
 Going forward, the US administration will probably use temporary legislation to maintain tariffs (up to 15% for 150 days), but needs Congressional approval to extend them. For this to happen, it will need to build a case against separate nations within the next few months. Sectoral tariffs meanwhile, remain and may be broadened.
 
@@ -41,7 +41,7 @@ The most likely outcome is
 
 We would expect a positive market and business reaction on the news.**At the very least, the ruling paves the way to dent some of the sharp economic impact of tariffs and give businesses further time to prepare**. It could also help with retail sales, reducing crisis-level consumer pessimism especially in the US.
 
-Assuming that an appeal does not succeed in the next few days, the main win is**time to prepare, and also a cap on the breadth of tariffs – which can’t exceed 15% for the time being.**
+Assuming that an appeal does not succeed in the next few days, the main win is **time to prepare, and also a cap on the breadth of tariffs – which can’t exceed 15% for the time being.**
 
 **Still, we are very far from addressing the broader economic and business uncertainty.**The White House can explore different legal avenues, including temporary measures. A 10% to 15% 150-day global tariff is still 4-6 times higher the previous average and can significantly slow down the global economy. The US administration can also broaden sector tariffs, agree with Congress to quickly build cases and approve tariffs just against America’s biggest trading partners, or it could simply win the appeals.
 

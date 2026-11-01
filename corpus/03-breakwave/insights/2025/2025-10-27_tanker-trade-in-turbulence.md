@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/27/tanker-trade-in-turbulence"
 tags: ["Tankers", "Markets", "Shipping"]
 images_count: 4
-word_count: 1258
+word_count: 1262
 source_file: "corpus/03-breakwave/insights/2025/2025-10-27_tanker-trade-in-turbulence.html"
 ---
 

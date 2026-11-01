@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/21/us-corn-exports-in-2025-a-banner-year-amid-shifting-trade-dynamics"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 2
-word_count: 993
+word_count: 995
 source_file: "corpus/03-breakwave/insights/2025/2025-05-21_us-corn-exports-in-2025-a-banner-year-amid-shifting-trade-dynamics.html"
 ---
 

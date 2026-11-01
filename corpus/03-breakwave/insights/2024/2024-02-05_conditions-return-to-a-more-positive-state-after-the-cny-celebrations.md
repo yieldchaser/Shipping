@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/3/conditions-return-to-a-more-positive-state-after-the-cny-celebrations"
 tags: ["Drybulk", "Shipping", "Commodities"]
 images_count: 1
-word_count: 1021
+word_count: 1022
 source_file: "corpus/03-breakwave/insights/2024/2024-02-05_conditions-return-to-a-more-positive-state-after-the-cny-celebrations.html"
 ---
 

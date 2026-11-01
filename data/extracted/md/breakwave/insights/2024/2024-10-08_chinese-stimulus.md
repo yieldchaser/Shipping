@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/8/chinese-stimulus"
 tags: ["Tankers", "Crude", "Shipping"]
 images_count: 2
-word_count: 573
+word_count: 575
 source_file: "corpus/03-breakwave/insights/2024/2024-10-08_chinese-stimulus.html"
 ---
 

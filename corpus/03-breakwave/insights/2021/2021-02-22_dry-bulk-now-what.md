@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/21/dry-bulk-now-what"
 tags: ["Dry Bulk", "Capesize", "Panamax"]
 images_count: 4
-word_count: 1212
+word_count: 1216
 source_file: "corpus/03-breakwave/insights/2021/2021-02-22_dry-bulk-now-what.html"
 ---
 

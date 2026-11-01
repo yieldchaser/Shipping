@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/10/indias-coal-derived-electricity-generation-sets-another-record-as-predicted"
 tags: ["Drybulk", "Economy", "Energy"]
 images_count: 3
-word_count: 456
+word_count: 459
 source_file: "corpus/03-breakwave/insights/2024/2024-05-10_indias-coal-derived-electricity-generation-sets-another-record-as-predicted.html"
 ---
 

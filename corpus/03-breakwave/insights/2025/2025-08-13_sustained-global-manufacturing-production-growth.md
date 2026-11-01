@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/13/sustained-global-manufacturing-production-growth"
 tags: ["China", "Markets", "Economy"]
 images_count: 7
-word_count: 515
+word_count: 522
 source_file: "corpus/03-breakwave/insights/2025/2025-08-13_sustained-global-manufacturing-production-growth.html"
 ---
 

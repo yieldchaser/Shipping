@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/7/20/summer-blues-for-dry-bulk-freight"
 tags: ["Shipping", "Dry Bulk", "Capesize", "Vale"]
 images_count: 2
-word_count: 596
+word_count: 598
 source_file: "corpus/03-breakwave/insights/2020/2020-07-20_summer-blues-for-dry-bulk-freight.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/3/strong-tanker-market"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 1
-word_count: 659
+word_count: 660
 source_file: "corpus/03-breakwave/insights/2026/2026-03-03_strong-tanker-market.html"
 ---
 

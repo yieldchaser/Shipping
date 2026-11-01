@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/6/27/mazars-comment-the-bank-of-england-should-be-worried-about-russia"
 images_count: 3
-word_count: 1251
+word_count: 1254
 source_file: "corpus/03-breakwave/insights/2023/2023-06-27_mazars-comment-the-bank-of-england-should-be-worried-about-russia.html"
 ---
 

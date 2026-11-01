@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/6/dissecting-the-market-correction-the-carry-trade-unravelling"
 tags: ["Markets", "Economy", "Macro"]
 images_count: 11
-word_count: 1983
+word_count: 1994
 source_file: "corpus/03-breakwave/insights/2024/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling.html"
 ---
 

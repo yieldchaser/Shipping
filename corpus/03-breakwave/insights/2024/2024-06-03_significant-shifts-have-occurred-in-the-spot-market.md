@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/3/significant-shifts-have-occurred-in-the-spot-market"
 tags: ["Shipping", "Drybulk", "China"]
 images_count: 1
-word_count: 897
+word_count: 898
 source_file: "corpus/03-breakwave/insights/2024/2024-06-03_significant-shifts-have-occurred-in-the-spot-market.html"
 ---
 

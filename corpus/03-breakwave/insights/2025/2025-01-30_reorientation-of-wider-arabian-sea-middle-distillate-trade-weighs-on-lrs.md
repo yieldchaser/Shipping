@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/30/reorientation-of-wider-arabian-sea-middle-distillate-trade-weighs-on-lrs"
 tags: ["Crude", "Markets", "Shipping"]
 images_count: 4
-word_count: 1251
+word_count: 1255
 source_file: "corpus/03-breakwave/insights/2025/2025-01-30_reorientation-of-wider-arabian-sea-middle-distillate-trade-weighs-on-lrs.html"
 ---
 

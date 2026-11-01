@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/15/the-chinese-economy-continues-to-show-strength-exports-and-imports-on-the-rise"
 tags: ["China", "Economics"]
 images_count: 4
-word_count: 731
+word_count: 735
 source_file: "corpus/03-breakwave/insights/2020/2020-10-15_the-chinese-economy-continues-to-show-strength-exports-and-imports-on-the-rise.html"
 ---
 

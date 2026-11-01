@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/5/big-picture-india-us-trade-deal"
 tags: ["Tankers", "Crude", "VLCC"]
 images_count: 4
-word_count: 1531
+word_count: 1535
 source_file: "corpus/03-breakwave/insights/2026/2026-02-05_big-picture-india-us-trade-deal.html"
 ---
 

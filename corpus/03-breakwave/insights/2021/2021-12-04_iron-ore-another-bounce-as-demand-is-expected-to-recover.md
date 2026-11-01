@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/12/4/iron-ore-another-bounce-as-demand-is-expected-to-recover"
 tags: ["Economy", "Iron Ore", "China", "Imports"]
 images_count: 3
-word_count: 984
+word_count: 987
 source_file: "corpus/03-breakwave/insights/2021/2021-12-04_iron-ore-another-bounce-as-demand-is-expected-to-recover.html"
 ---
 

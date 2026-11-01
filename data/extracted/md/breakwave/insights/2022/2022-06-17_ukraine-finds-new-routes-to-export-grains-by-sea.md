@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/6/17/ukraine-finds-new-routes-to-export-grains-by-sea"
 images_count: 1
-word_count: 538
+word_count: 539
 source_file: "corpus/03-breakwave/insights/2022/2022-06-17_ukraine-finds-new-routes-to-export-grains-by-sea.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/20/dirty-oil-flows-from-ag"
 tags: ["Tankers", "Crude", "Markets"]
 images_count: 10
-word_count: 1668
+word_count: 1678
 source_file: "corpus/03-breakwave/insights/2025/2025-03-20_dirty-oil-flows-from-ag.html"
 ---
 

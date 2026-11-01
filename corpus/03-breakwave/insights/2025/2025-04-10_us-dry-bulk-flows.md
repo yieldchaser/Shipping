@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/9/us-dry-bulk-flows"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 5
-word_count: 1333
+word_count: 1338
 source_file: "corpus/03-breakwave/insights/2025/2025-04-10_us-dry-bulk-flows.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-04-10_us-dry-bulk-flows.htm
 ---
 
 **Dry Weekly Market Monitor - Week 15, 2025**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 April 09, 2025
 
 ![Στιγμιότυπο Οθόνης 2025 04 09 171300](assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_96c3b37ca480.png)
@@ -51,7 +51,7 @@ While China is not the top importer of U.S. coal, it does source 10.3% of U.S. c
 - ### -1.46% Qoq
 - ### -2.52% Yoy
 
-Coal exports primarily rely on**Panamax (46.1%), Supramax (22.8%), and Capesize (15.2%)**vessels, making the trade more diverse in both cargo type and ship class. However, the imposition of tariffs could make U.S. coal less competitive in Asia, especially as China already has strong import ties with Australia, Russia, and Indonesia.
+Coal exports primarily rely on **Panamax (46.1%), Supramax (22.8%), and Capesize (15.2%)**vessels, making the trade more diverse in both cargo type and ship class. However, the imposition of tariffs could make U.S. coal less competitive in Asia, especially as China already has strong import ties with Australia, Russia, and Indonesia.
 
 Following China's announcement of retaliatory tariffs—34% on U.S. imports including key agricultural goods—grain markets reacted sharply. U.S. soybean futures dropped by 4% as traders anticipated a significant reduction in Chinese demand. The tariffs, combined with China's move to curb foreign grain purchases like barley and sorghum, added downward pressure on prices. Meanwhile, exporters such as Brazil have seen increased demand, boosting their market share and insulating Chinese buyers from U.S. supply disruptions.
 
@@ -64,10 +64,10 @@ In the coal market, the immediate price reaction was more muted. Despite a 15% t
 
 ​​​​The freight market sentiment for the Capesize vessel segment is being revised downward as the number of ballasters increases, while we observe soft signs of a slight downward revision in the Panamax market, along with firmness in the smaller vessel sizes segments.
 
-- **Capesize**vessel freight rates from Brazil to North China closed at $20 per tonne, showing a 10% decrease compared to last month.
-- **Panamax**from the Continent remained above $30 per tonne, showing a 6% weekly decrease, and an 8% increase compared to last month.
-- **Supramax**vessel freight rates on the Indo-ECI route rose by 13% compared to last month, reaching almost $9 per tonne.
-- **Handysize**freight rates for the NOPAC Far East route have remained above $30 per tonne since late February, rising by 8% over the past month.
+- **Capesize** vessel freight rates from Brazil to North China closed at $20 per tonne, showing a 10% decrease compared to last month.
+- **Panamax** from the Continent remained above $30 per tonne, showing a 6% weekly decrease, and an 8% increase compared to last month.
+- **Supramax** vessel freight rates on the Indo-ECI route rose by 13% compared to last month, reaching almost $9 per tonne.
+- **Handysize** freight rates for the NOPAC Far East route have remained above $30 per tonne since late February, rising by 8% over the past month.
 
 ![Στιγμιότυπο Οθόνης 2025 04 09 171538](assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d2ba665bf7b.png)
 

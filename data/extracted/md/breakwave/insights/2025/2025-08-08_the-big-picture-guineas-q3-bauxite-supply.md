@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/8/the-big-picture-guineas-q3-bauxite-supply"
 tags: ["Bauxite", "Drybulk", "Shipping"]
 images_count: 3
-word_count: 799
+word_count: 802
 source_file: "corpus/03-breakwave/insights/2025/2025-08-08_the-big-picture-guineas-q3-bauxite-supply.html"
 ---
 

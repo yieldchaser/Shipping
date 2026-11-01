@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/11/17/china-continues-to-be-the-economic-outlier"
 tags: ["China", "Economics"]
 images_count: 2
-word_count: 550
+word_count: 552
 source_file: "corpus/03-breakwave/insights/2020/2020-11-17_china-continues-to-be-the-economic-outlier.html"
 ---
 

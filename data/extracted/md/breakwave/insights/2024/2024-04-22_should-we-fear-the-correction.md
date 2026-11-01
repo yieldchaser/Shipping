@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/22/should-we-fear-the-correction"
 tags: ["Markets", "Economy", "Macro"]
 images_count: 11
-word_count: 1846
+word_count: 1857
 source_file: "corpus/03-breakwave/insights/2024/2024-04-22_should-we-fear-the-correction.html"
 ---
 

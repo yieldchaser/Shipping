@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/27/are-the-stars-aligning-for-the-world-economy"
 tags: ["Global Economy"]
 images_count: 2
-word_count: 917
+word_count: 919
 source_file: "corpus/03-breakwave/insights/2021/2021-04-27_are-the-stars-aligning-for-the-world-economy.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-04-27_are-the-stars-alignin
 
 *By Ulf Bergman*
 
-![Unsplash Image Ncmd8ule8h0](assets/2021-04-27_are-the-stars-aligning-for-the-world-economy_img_unsplash-image-ncmd8ule8h0_0f5120b520b3.jpg)
+![Unsplash Image Ncmd8ule8h0](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-27_are-the-stars-aligning-for-the-world-economy_img_unsplash-image-ncmd8ule8h0_0f5120b520b3.jpg)
 
 > **Figure 1: Unsplash Image Ncmd8ule8h0**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-27_are-the-stars-aligning-for-the-world-economy_img_unsplash-image-ncmd8ule8h0_0f5120b520b3.jpg)
@@ -35,7 +35,7 @@ The strengthening momentum in the developed economies, in combination with the c
 
 ### Copper (Usd/lbs)
 
-![Ulf April 27](assets/2021-04-27_are-the-stars-aligning-for-the-world-economy_img_ulfapril27_2e73a0e9a466.jpg)
+![Ulf April 27](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-27_are-the-stars-aligning-for-the-world-economy_img_ulfapril27_2e73a0e9a466.jpg)
 
 > **Figure 2: Ulf April 27**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-27_are-the-stars-aligning-for-the-world-economy_img_ulfapril27_2e73a0e9a466.jpg)

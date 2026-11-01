@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/8/29/irrational-consumption-can-only-last-so-long"
 images_count: 3
-word_count: 1410
+word_count: 1413
 source_file: "corpus/03-breakwave/insights/2023/2023-08-29_irrational-consumption-can-only-last-so-long.html"
 ---
 
@@ -43,7 +43,7 @@ GDP, the standard measure of growth is a fairly simple calculation. Its roots da
 
 The standard formula is Government Expenditure + Investment + Consumption + Exports – Imports.
 
-One can ascertain government expenditure as the powers that be are usually on a budget. Investment also follows seasonal trends, as do exports and imports. But the problem, what makes GDP so unpredictable, is consumption. Not only is[consumption a psychological process](https://hbr.org/2002/09/pricing-and-the-psychology-of-consumption), it is also by far the biggest component of GDP. In the Western world, it accounts for 70%-85% of GDP.
+One can ascertain government expenditure as the powers that be are usually on a budget. Investment also follows seasonal trends, as do exports and imports. But the problem, what makes GDP so unpredictable, is consumption. Not only is [consumption a psychological process](https://hbr.org/2002/09/pricing-and-the-psychology-of-consumption), it is also by far the biggest component of GDP. In the Western world, it accounts for 70%-85% of GDP.
 
 ![Market Chart 1](assets/2023-08-29_irrational-consumption-can-only-last-so-long_img_image00428629_2c9f4f0b1cf9.jpg)
 

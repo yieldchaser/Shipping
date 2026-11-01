@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/7/brazil-achieves-a-significant-feat-not-seen-since-2018"
 tags: ["Brazil"]
 images_count: 1
-word_count: 430
+word_count: 431
 source_file: "corpus/03-breakwave/insights/2021/2021-03-10_brazil-achieves-a-significant-feat-not-seen-since-2018.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/7/11/bi-weekly-dry-report-aug-1-2023-maecp"
 images_count: 3
-word_count: 642
+word_count: 645
 source_file: "corpus/03-breakwave/insights/2023/2023-08-01_bi-weekly-dry-report-aug-1-2023-maecp.html"
 ---
 

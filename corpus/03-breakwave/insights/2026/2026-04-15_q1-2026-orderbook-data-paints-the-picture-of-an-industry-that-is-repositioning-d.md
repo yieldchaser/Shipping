@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/4/15/q1-2026-orderbook-data-paints-the-picture-of-an-industry-that-is-repositioning-decisively"
 tags: ["Shipping", "Drybulk", "Tankers"]
 images_count: 1
-word_count: 617
+word_count: 618
 source_file: "corpus/03-breakwave/insights/2026/2026-04-15_q1-2026-orderbook-data-paints-the-picture-of-an-industry-that-is-repositioning-d.html"
 ---
 

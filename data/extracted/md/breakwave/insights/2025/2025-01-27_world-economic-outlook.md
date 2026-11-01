@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/26/world-economic-outlook"
 tags: ["Economy", "Drybulk", "Shipping"]
 images_count: 1
-word_count: 872
+word_count: 873
 source_file: "corpus/03-breakwave/insights/2025/2025-01-27_world-economic-outlook.html"
 ---
 

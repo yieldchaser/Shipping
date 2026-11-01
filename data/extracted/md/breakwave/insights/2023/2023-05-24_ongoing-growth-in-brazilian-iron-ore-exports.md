@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/5/24/ongoing-growth-in-brazilian-iron-ore-exports"
 images_count: 1
-word_count: 187
+word_count: 188
 source_file: "corpus/03-breakwave/insights/2023/2023-05-24_ongoing-growth-in-brazilian-iron-ore-exports.html"
 ---
 

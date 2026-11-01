@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/3/4/latest-vessels-hit-in-black-sea-ukrainian-harvest-all-but-certain-to-be-significantly-affected"
 tags: ["Ukraine", "Shipping", "Dry Bulk"]
 images_count: 1
-word_count: 551
+word_count: 552
 source_file: "corpus/03-breakwave/insights/2022/2022-03-04_latest-vessels-hit-in-black-sea-ukrainian-harvest-all-but-certain-to-be-signific.html"
 ---
 

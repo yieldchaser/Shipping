@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/14/capesizes-bounce-off-support-seasonal-upturn-is-here"
 tags: ["Dry Bulk", "Capesize"]
 images_count: 4
-word_count: 1097
+word_count: 1101
 source_file: "corpus/03-breakwave/insights/2021/2021-06-15_capesizes-bounce-off-support-seasonal-upturn-is-here.html"
 ---
 
@@ -28,7 +28,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-06-15_capesizes-bounce-off-
 
 It is not often during any given year that inflection points in dry bulk can be identified, as the sector is well known for the high volatility and its unexpected twists and turns. However, as we have stressed in the last few months, especially as the spot market peaked, it was one of this instances that the bottom was easier to identify due to the timing of the rally.
 
-Indeed, as we discussed[here](https://www.breakwaveadvisors.com/insights/2021/6/1/capesizes-have-high-hopes-as-rest-of-dry-bulk-thrives)and[here](https://www.breakwaveadvisors.com/insights/2021/5/15/cyrss784gxo0bb24onzv496l56gstx), the predicted level of the most recent bottom was a combination of the average drawdown for the index over the last several years but also the seasonal uptick in demand during the second week of June. The Capesize index bottomed at just below 20,000, declining some 56% from its most recent high with the low print being on June 8. Both of those levels were approximately in line with what we thought would be the magnitude of the correction as well as the timing of the bottoming.
+Indeed, as we discussed [here](https://www.breakwaveadvisors.com/insights/2021/6/1/capesizes-have-high-hopes-as-rest-of-dry-bulk-thrives) and [here](https://www.breakwaveadvisors.com/insights/2021/5/15/cyrss784gxo0bb24onzv496l56gstx), the predicted level of the most recent bottom was a combination of the average drawdown for the index over the last several years but also the seasonal uptick in demand during the second week of June. The Capesize index bottomed at just below 20,000, declining some 56% from its most recent high with the low print being on June 8. Both of those levels were approximately in line with what we thought would be the magnitude of the correction as well as the timing of the bottoming.
 
 All these is now behind us, and looking forward, the near term future now looks quite promising for the Capesize sector. As the chart below shows, the second half of the year has generally been more volatile and, on average, stronger that the first half during the last several years (also note the early/mid June inflection point). The major difference this time around is the strong spring rally that the Capesize sector (combined with every other dry bulk segment) has already experienced. The bounce off the early June lows was definitely stronger and more intense than other years and sentiment is definitely more constructive this time around.
 

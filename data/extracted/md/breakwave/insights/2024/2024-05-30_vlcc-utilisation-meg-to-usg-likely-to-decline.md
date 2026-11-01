@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/30/vlcc-utilisation-meg-to-usg-likely-to-decline"
 tags: ["Shipping", "Crude Oil", "Tankers"]
 images_count: 5
-word_count: 1138
+word_count: 1143
 source_file: "corpus/03-breakwave/insights/2024/2024-05-30_vlcc-utilisation-meg-to-usg-likely-to-decline.html"
 ---
 

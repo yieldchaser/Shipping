@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/4/23/seaborne-grain-1q26-recap-beyond-the-next-harvest"
 tags: ["Drybulk", "Shipping", "Commodities"]
 images_count: 6
-word_count: 1834
+word_count: 1840
 source_file: "corpus/03-breakwave/insights/2026/2026-04-23_seaborne-grain-1q26-recap-beyond-the-next-harvest.html"
 ---
 

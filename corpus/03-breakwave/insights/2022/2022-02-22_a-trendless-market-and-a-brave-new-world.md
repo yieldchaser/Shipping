@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/2/22/a-trendless-market-and-a-brave-new-world"
 tags: ["Inflation", "Global", "Markets"]
 images_count: 2
-word_count: 938
+word_count: 940
 source_file: "corpus/03-breakwave/insights/2022/2022-02-22_a-trendless-market-and-a-brave-new-world.html"
 ---
 

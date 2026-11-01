@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/8/19/crude-markets-underpricing-an-impending-supply-tightness"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 3
-word_count: 1133
+word_count: 1136
 source_file: "corpus/03-breakwave/insights/2026/2026-08-19_crude-markets-underpricing-an-impending-supply-tightness.html"
 ---
 

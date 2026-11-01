@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/9/dry-bulk-fleet-growth-remains-moderate"
 tags: ["Drybulk", "Shipping", "Capesize"]
 images_count: 1
-word_count: 208
+word_count: 209
 source_file: "corpus/03-breakwave/insights/2025/2025-05-09_dry-bulk-fleet-growth-remains-moderate.html"
 ---
 

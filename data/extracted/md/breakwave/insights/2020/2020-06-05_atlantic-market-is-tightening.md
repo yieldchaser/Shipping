@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/5/atlantic-market-is-tightening"
 tags: ["Shipping", "Dry Bulk"]
 images_count: 1
-word_count: 149
+word_count: 150
 source_file: "corpus/03-breakwave/insights/2020/2020-06-05_atlantic-market-is-tightening.html"
 ---
 

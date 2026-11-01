@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/6/15/too-much-of-a-good-thing"
 tags: ["Tankers", "Crude", "Shipping"]
 images_count: 2
-word_count: 656
+word_count: 658
 source_file: "corpus/03-breakwave/insights/2026/2026-06-15_too-much-of-a-good-thing.html"
 ---
 

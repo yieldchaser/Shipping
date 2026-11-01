@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/12/16/chinas-dry-bulk-imports-continue-to-meet-our-very-bullish-expectations"
 tags: ["China", "Drybulk", "Commodities"]
 images_count: 4
-word_count: 447
+word_count: 451
 source_file: "corpus/03-breakwave/insights/2024/2024-12-16_chinas-dry-bulk-imports-continue-to-meet-our-very-bullish-expectations.html"
 ---
 

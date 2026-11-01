@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/11/chinas-iranian-imports-rebound-while-russian-flows-wane"
 tags: ["Crude", "Shipping", "Tankers"]
 images_count: 3
-word_count: 822
+word_count: 825
 source_file: "corpus/03-breakwave/insights/2025/2025-03-11_chinas-iranian-imports-rebound-while-russian-flows-wane.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/4/china-coal"
 tags: ["China", "Coal", "Shipping"]
 images_count: 2
-word_count: 303
+word_count: 305
 source_file: "corpus/03-breakwave/insights/2025/2025-08-04_china-coal.html"
 ---
 

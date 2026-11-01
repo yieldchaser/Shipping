@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/5/china-stays-hungry-for-iron-ore-as-simandou-ramps-up"
 tags: ["Ironore", "Shipping", "Commodities"]
 images_count: 3
-word_count: 809
+word_count: 812
 source_file: "corpus/03-breakwave/insights/2026/2026-03-05_china-stays-hungry-for-iron-ore-as-simandou-ramps-up.html"
 ---
 
@@ -37,9 +37,9 @@ China continues to fill its iron ore stocks as Simandou export starts to climb, 
 
 ● Despite the broader sentiment of lower demand from the steel production sector, and already very high iron ore port stock levels, March flows of iron ore into China currently look to be up y/y.
 
-Global iron ore flows reached 8% higher in both January and February 2026 than in the same month a year ago. Growth was driven by an 11% increase in flows to China, marking a record high for Chinese iron ore imports on the[Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/al-ocean-signal-ocean-platform/2rwv45/582912754/h/4s2PFpf7gHCWo26iS_SoJ3KD4JiEgjqRxmBozBrIZpc). Outside China, flows grew by only 1% in January due to weaker demand for steel in Japan, Korea, and Europe. In February, however, demand surged in these regions, and Signal Ocean recorded an 11% increase in flows.
+Global iron ore flows reached 8% higher in both January and February 2026 than in the same month a year ago. Growth was driven by an 11% increase in flows to China, marking a record high for Chinese iron ore imports on the [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/al-ocean-signal-ocean-platform/2rwv45/582912754/h/4s2PFpf7gHCWo26iS_SoJ3KD4JiEgjqRxmBozBrIZpc). Outside China, flows grew by only 1% in January due to weaker demand for steel in Japan, Korea, and Europe. In February, however, demand surged in these regions, and Signal Ocean recorded an 11% increase in flows.
 
-Flows from Australia surged in January 13% y/y, while flows from Brazil remained relatively flat with growth of less than 1%. Many in the market were looking to see what flows from Guinea would look like as the Simandou project began exports in late 2025. The[Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/al-ocean-signal-ocean-platform/2rwv45/582912754/h/4s2PFpf7gHCWo26iS_SoJ3KD4JiEgjqRxmBozBrIZpc)recorded January shipments at 344kt, a little over a third of the 1mt expected to be shipped monthly once the mine is fully ramped-up. All of the tonnage from Guinea flowed to China.
+Flows from Australia surged in January 13% y/y, while flows from Brazil remained relatively flat with growth of less than 1%. Many in the market were looking to see what flows from Guinea would look like as the Simandou project began exports in late 2025. The [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/al-ocean-signal-ocean-platform/2rwv45/582912754/h/4s2PFpf7gHCWo26iS_SoJ3KD4JiEgjqRxmBozBrIZpc) recorded January shipments at 344kt, a little over a third of the 1mt expected to be shipped monthly once the mine is fully ramped-up. All of the tonnage from Guinea flowed to China.
 
 ![Signal Ocean Platform](assets/2026-03-05_china-stays-hungry-for-iron-ore-as-simandou-ramps-up_img_unnamed_2ef2d6509d9a.png)
 

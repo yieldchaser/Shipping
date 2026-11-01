@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/10/spotlight-on-brazilian-corn-shipments"
 tags: ["Drybulk", "Commodities", "Shipping"]
 images_count: 13
-word_count: 1838
+word_count: 1851
 source_file: "corpus/03-breakwave/insights/2025/2025-07-10_spotlight-on-brazilian-corn-shipments.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-07-10_spotlight-on-brazilia
 ---
 
 **WEEKLY DRY MARKET MONITOR**
-*Spot Rates | Supply-Demand Trends | Port Congestion Overview*
+ *Spot Rates | Supply-Demand Trends | Port Congestion Overview*
 
 Week 28, 2025 | Date: July 9, 2025
 

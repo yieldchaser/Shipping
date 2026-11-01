@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/26/outstanding-loan-growth-in-china-sets-another-record-low"
 tags: ["China", "Markets", "Economies"]
 images_count: 3
-word_count: 278
+word_count: 281
 source_file: "corpus/03-breakwave/insights/2026/2026-02-26_outstanding-loan-growth-in-china-sets-another-record-low.html"
 ---
 

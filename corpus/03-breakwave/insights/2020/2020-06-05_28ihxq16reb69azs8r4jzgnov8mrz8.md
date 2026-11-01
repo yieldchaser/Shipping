@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/5/28ihxq16reb69azs8r4jzgnov8mrz8"
 tags: ["Dry Bulk", "Shipping"]
 images_count: 1
-word_count: 183
+word_count: 184
 source_file: "corpus/03-breakwave/insights/2020/2020-06-05_28ihxq16reb69azs8r4jzgnov8mrz8.html"
 ---
 

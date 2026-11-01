@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/16/the-shipping-logistics-behind-reshuffling-russian-crude"
 images_count: 3
-word_count: 1157
+word_count: 1160
 source_file: "corpus/03-breakwave/insights/2022/2022-11-16_the-shipping-logistics-behind-reshuffling-russian-crude.html"
 ---
 
@@ -23,7 +23,7 @@ Russian crude exports are having to travel farther as the country redirects flow
 
 *By*[*Dylan Simpson*](https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACDtdn0BzHNR8syu_G8WxL-JXL-9PRT5AP4&keywords=dylan%20simpson&origin=RICH_QUERY_SUGGESTION&position=0&searchId=9f4e911f-2dd1-4040-aa4a-1c65b4ae44da&sid=1M1)
 
-Ιn the past, Russian crude exports have largely been sent to relatively short-haul destinations. Specifically, Vortexa’s historical [flows](https://analytics.vortexa.com/?dateRange=2019-01-01T00%3A00%3A00.000Z__2022-11-10T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra%22%2C%22sts_o%22%2C%22c_o%22%2C%22w%22%2C%22sts%22%2C%22v_o%22%5D&from=%5B%22b996521be9c996db3560ca234a56286ac38f798d34be229437555fab4f12a6a5%22%5D&metric=t&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&productsExcluded=%5B%22578b0722570521d64e6a1527e1fb88ddb1a064cc15afe1d6023d2a0b6d66be6b%22%2C%22bb70cf56200f5b72ba69a90bda2c6b47ba29da23945c6f1994cfd4c2ef2fe0ff%22%5D&tabId=9bd621ca-e761-485b-b308-18da5cc93ef0&timeSeriesProperty=destination_shipping_region)data shows that the main short-haul destinations for Russian crude (UK Cont, Baltic and Black Sea) represented – on average – a combined 45% of monthly Russian crude exports from January 2019 to February 2022. During Russia’s conflict with Ukraine, reshuffling due to sanctions has already seen this figure decline to just 20% on average. This highlights that Russia is already having to travel further to export its crude.
+Ιn the past, Russian crude exports have largely been sent to relatively short-haul destinations. Specifically, Vortexa’s historical [flows](https://analytics.vortexa.com/?dateRange=2019-01-01T00%3A00%3A00.000Z__2022-11-10T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra%22%2C%22sts_o%22%2C%22c_o%22%2C%22w%22%2C%22sts%22%2C%22v_o%22%5D&from=%5B%22b996521be9c996db3560ca234a56286ac38f798d34be229437555fab4f12a6a5%22%5D&metric=t&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&productsExcluded=%5B%22578b0722570521d64e6a1527e1fb88ddb1a064cc15afe1d6023d2a0b6d66be6b%22%2C%22bb70cf56200f5b72ba69a90bda2c6b47ba29da23945c6f1994cfd4c2ef2fe0ff%22%5D&tabId=9bd621ca-e761-485b-b308-18da5cc93ef0&timeSeriesProperty=destination_shipping_region) data shows that the main short-haul destinations for Russian crude (UK Cont, Baltic and Black Sea) represented – on average – a combined 45% of monthly Russian crude exports from January 2019 to February 2022. During Russia’s conflict with Ukraine, reshuffling due to sanctions has already seen this figure decline to just 20% on average. This highlights that Russia is already having to travel further to export its crude.
 
 ![Russian Crude Exports (Excl](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-16_the-shipping-logistics-behind-reshuffling-russian-crude_img_chart-1-5-1024x715_7bb04140cf21.png)
 

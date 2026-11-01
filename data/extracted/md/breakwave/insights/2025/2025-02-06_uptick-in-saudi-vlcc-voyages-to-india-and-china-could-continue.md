@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/6/uptick-in-saudi-vlcc-voyages-to-india-and-china-could-continue"
 tags: ["Crude", "Markets", "Shipping"]
 images_count: 4
-word_count: 1216
+word_count: 1220
 source_file: "corpus/03-breakwave/insights/2025/2025-02-06_uptick-in-saudi-vlcc-voyages-to-india-and-china-could-continue.html"
 ---
 

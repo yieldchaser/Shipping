@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/12/29/signal-weekly-report"
 tags: ["Shipping", "Rates", "Dry Bulk"]
 images_count: 4
-word_count: 817
+word_count: 821
 source_file: "corpus/03-breakwave/insights/2021/2021-12-29_signal-weekly-report.html"
 ---
 
@@ -30,7 +30,7 @@ The challenges from the Chinese economy are even more pronounced with iron ore p
 
 ‘The Big Picture’ - Capesize and Panamax Bulkers and Smaller Ship Sizes
 
-![Ch1](assets/2021-12-29_signal-weekly-report_img_ch1_1e28ef25af57.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-29_signal-weekly-report_img_ch1_1e28ef25af57.png)
 
 > **Figure 1: Ch1**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-29_signal-weekly-report_img_ch1_1e28ef25af57.png)
@@ -43,7 +43,7 @@ The challenges from the Chinese economy are even more pronounced with iron ore p
 
 Supply Trend Lines for Key Load Areas
 
-![Ch2](assets/2021-12-29_signal-weekly-report_img_ch2_956eec786f86.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-29_signal-weekly-report_img_ch2_956eec786f86.png)
 
 > **Figure 2: Ch2**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-29_signal-weekly-report_img_ch2_956eec786f86.png)
@@ -56,7 +56,7 @@ Supply Trend Lines for Key Load Areas
 
 Increasing Evolution of Demand -% Growth
 
-![Ch3](assets/2021-12-29_signal-weekly-report_img_ch3_8f2ca6d143d8.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-29_signal-weekly-report_img_ch3_8f2ca6d143d8.png)
 
 > **Figure 3: Ch3**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-29_signal-weekly-report_img_ch3_8f2ca6d143d8.png)
@@ -68,7 +68,7 @@ Increasing Evolution of Demand -% Growth
 
 Dry bulk ships congested around Chinese ports
 
-![Ch4](assets/2021-12-29_signal-weekly-report_img_ch4_e81d258f897b.png)
+![Ch4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-29_signal-weekly-report_img_ch4_e81d258f897b.png)
 
 > **Figure 4: Ch4**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-29_signal-weekly-report_img_ch4_e81d258f897b.png)

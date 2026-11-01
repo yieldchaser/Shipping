@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/12/24/vlcc-rates-languish-despite-chinese-import-growth-and-a-recent-swing-to-compliant-fleet"
 tags: ["Tankers", "Markets", "Crude"]
 images_count: 3
-word_count: 1037
+word_count: 1040
 source_file: "corpus/03-breakwave/insights/2024/2024-12-24_vlcc-rates-languish-despite-chinese-import-growth-and-a-recent-swing-to-complian.html"
 ---
 

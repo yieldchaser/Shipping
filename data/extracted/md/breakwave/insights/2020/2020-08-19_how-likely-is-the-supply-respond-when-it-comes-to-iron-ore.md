@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/8/19/how-likely-is-the-supply-respond-when-it-comes-to-iron-ore"
 tags: ["Shipping", "Rio Tinto", "Vale", "Dry Bulk", "Bhp"]
 images_count: 5
-word_count: 1508
+word_count: 1513
 source_file: "corpus/03-breakwave/insights/2020/2020-08-19_how-likely-is-the-supply-respond-when-it-comes-to-iron-ore.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/6/29/chinas-consumer-sector-has-become-even-weaker"
 tags: ["China", "Markets", "Economy"]
 images_count: 2
-word_count: 250
+word_count: 252
 source_file: "corpus/03-breakwave/insights/2026/2026-06-29_chinas-consumer-sector-has-become-even-weaker.html"
 ---
 

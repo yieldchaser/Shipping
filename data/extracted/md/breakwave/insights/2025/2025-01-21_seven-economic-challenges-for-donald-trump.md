@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/21/seven-economic-challenges-for-donald-trump"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 4
-word_count: 1738
+word_count: 1742
 source_file: "corpus/03-breakwave/insights/2025/2025-01-21_seven-economic-challenges-for-donald-trump.html"
 ---
 

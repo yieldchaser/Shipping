@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/24/from-coal-to-bauxite-africas-growing-role-in-chinas-dry-bulk-supply-chain"
 tags: ["Ironore", "Drybulk", "Commodities"]
 images_count: 2
-word_count: 1035
+word_count: 1037
 source_file: "corpus/03-breakwave/insights/2025/2025-07-24_from-coal-to-bauxite-africas-growing-role-in-chinas-dry-bulk-supply-chain.html"
 ---
 

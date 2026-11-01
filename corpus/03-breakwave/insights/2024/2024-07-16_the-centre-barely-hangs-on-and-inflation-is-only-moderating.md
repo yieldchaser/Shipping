@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/16/the-centre-barely-hangs-on-and-inflation-is-only-moderating"
 tags: ["Markets", "Economy", "Macro"]
 images_count: 3
-word_count: 1443
+word_count: 1446
 source_file: "corpus/03-breakwave/insights/2024/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating.html"
 ---
 
@@ -61,7 +61,7 @@ On paper, US consumer inflation is coming down to 3%. This breeds hopes for cent
 > **Figure 3: Market Chart 3**  
 > [Local Asset](assets/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating_img_image003_4dfd946457b4.jpg)
 
-So, the world might not be as disinflationary as the narrative suggests. Also, if the last two weekends showed us anything (in the UK, France but also in the US were political acrimony turned into political violence), is that**centrist democracy, the kind that breeds economic and financial stability, is more likely hanging on by its fingernails than staging a comeback.**
+So, the world might not be as disinflationary as the narrative suggests. Also, if the last two weekends showed us anything (in the UK, France but also in the US were political acrimony turned into political violence), is that **centrist democracy, the kind that breeds economic and financial stability, is more likely hanging on by its fingernails than staging a comeback.**
 
 In this world,**asset allocators need to leave ample room for economic and financial surprises in their portfolios.**What does this mean? Despite lower financial volatility, this may not be the time to exhaust to test the limits of portfolio risk thresholds.
 

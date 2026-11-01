@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/2/2/building-sales-in-china-climb-to-six-month-high"
 tags: ["Economy", "China", "Sales"]
 images_count: 2
-word_count: 386
+word_count: 388
 source_file: "corpus/03-breakwave/insights/2022/2022-02-03_building-sales-in-china-climb-to-six-month-high.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/24/bauxite-helps-to-hold-the-capesize-market"
 tags: ["Ironore", "Drybulk", "Shipping"]
 images_count: 4
-word_count: 877
+word_count: 881
 source_file: "corpus/03-breakwave/insights/2025/2025-12-24_bauxite-helps-to-hold-the-capesize-market.html"
 ---
 

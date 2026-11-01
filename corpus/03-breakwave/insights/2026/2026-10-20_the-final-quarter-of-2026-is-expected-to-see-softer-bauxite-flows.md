@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/20/the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows"
 tags: ["Commodities", "Drybulk", "Shipping"]
 images_count: 3
-word_count: 795
+word_count: 798
 source_file: "corpus/03-breakwave/insights/2026/2026-10-20_the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows.html"
 ---
 

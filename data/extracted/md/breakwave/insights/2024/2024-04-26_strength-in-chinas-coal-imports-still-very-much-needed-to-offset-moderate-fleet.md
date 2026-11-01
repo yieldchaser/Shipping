@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/26/strength-in-chinas-coal-imports-still-very-much-needed-to-offset-moderate-fleet-growth"
 tags: ["Drybulk", "Coal", "Economy"]
 images_count: 3
-word_count: 450
+word_count: 453
 source_file: "corpus/03-breakwave/insights/2024/2024-04-26_strength-in-chinas-coal-imports-still-very-much-needed-to-offset-moderate-fleet.html"
 ---
 

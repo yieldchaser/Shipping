@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/29/uschina-commodity-trade-and-the-atlantic-freight-outlook"
 tags: ["Drybulk", "China", "Commodities"]
 images_count: 3
-word_count: 1204
+word_count: 1222
 source_file: "corpus/03-breakwave/insights/2026/2026-10-29_uschina-commodity-trade-and-the-atlantic-freight-outlook.html"
 ---
 
@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-10-29_uschina-commodity-tra
 
 ---
 
-![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](assets/2026-10-29_uschina-commodity-trade-and-the-atlantic-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6bcd443af080.png)
+![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-29_uschina-commodity-trade-and-the-atlantic-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6bcd443af080.png)
 
 > **Figure 1: Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-29_uschina-commodity-trade-and-the-atlantic-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6bcd443af080.png)
@@ -39,7 +39,7 @@ Key Takeaways
 
 • Freight outlook: Additional US coal shipments from 2027 would support Atlantic Panamax and Supramax employment, particularly if Chinese purchases generate new export volumes rather than redirect existing US coal cargoes from other destinations.
 
-![Στιγμιότυπο Οθόνης 2026 10 29 095047](assets/2026-10-29_uschina-commodity-trade-and-the-atlantic-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cf2944030291.png)
+![Στιγμιότυπο Οθόνης 2026 10 29 095047](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-29_uschina-commodity-trade-and-the-atlantic-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cf2944030291.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 10 29 095047**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-29_uschina-commodity-trade-and-the-atlantic-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cf2944030291.png)
@@ -48,7 +48,7 @@ Key Takeaways
 
 Under the new US–China Board of Trade, the two governments have recommended more favourable tariff treatment for approximately $30 billion of non-sensitive goods in each direction, measured against 2024 trade. USTR states that the US side covers about 30% of US exports to China. China's Ministry of Commerce states that more than 90% of covered products would return to most-favoured-nation treatment once additional bilateral duties are removed, with implementation conditional on domestic legal procedures and simultaneous action by both sides. The broader trade truce has been extended by two months, from 10 November 2026 to 10 January 2027.
 
-![Στιγμιότυπο Οθόνης 2026 10 29 095057](assets/2026-10-29_uschina-commodity-trade-and-the-atlantic-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d4b4aa66eb9.png)
+![Στιγμιότυπο Οθόνης 2026 10 29 095057](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-29_uschina-commodity-trade-and-the-atlantic-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d4b4aa66eb9.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 10 29 095057**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-29_uschina-commodity-trade-and-the-atlantic-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d4b4aa66eb9.png)

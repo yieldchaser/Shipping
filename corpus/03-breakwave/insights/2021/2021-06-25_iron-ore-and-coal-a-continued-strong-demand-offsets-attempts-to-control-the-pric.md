@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/25/iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-prices"
 tags: ["Coal", "Iron Ore", "China"]
 images_count: 4
-word_count: 1101
+word_count: 1105
 source_file: "corpus/03-breakwave/insights/2021/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric.html"
 ---
 

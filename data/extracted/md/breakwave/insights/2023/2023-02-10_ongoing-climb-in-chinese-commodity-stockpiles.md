@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/2/10/ongoing-climb-in-chinese-commodity-stockpiles"
 images_count: 3
-word_count: 317
+word_count: 320
 source_file: "corpus/03-breakwave/insights/2023/2023-02-10_ongoing-climb-in-chinese-commodity-stockpiles.html"
 ---
 

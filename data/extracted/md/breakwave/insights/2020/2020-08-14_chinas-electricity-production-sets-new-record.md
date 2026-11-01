@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/8/14/chinas-electricity-production-sets-new-record"
 tags: ["China"]
 images_count: 1
-word_count: 209
+word_count: 210
 source_file: "corpus/03-breakwave/insights/2020/2020-08-14_chinas-electricity-production-sets-new-record.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/29/copper-hovers-near-record-high-amid-market-tightness"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 2
-word_count: 773
+word_count: 775
 source_file: "corpus/03-breakwave/insights/2025/2025-10-29_copper-hovers-near-record-high-amid-market-tightness.html"
 ---
 
@@ -35,7 +35,7 @@ Optimism surrounding easing US-China trade tensions and the signing of a new ASE
 
 Progress in US-China trade talks continues to sap demand for haven assets such as **gold**, which extended a pullback as tension eased. Gold-backed exchange traded funds saw 448,7006oz cut from their holdings on Monday, the biggest daily decline in six months. However, the mood at this week’s London Bullion Market Association annual gathering has been bullish. A survey of over 10 attendees projected that gold will be trading near USD5,000/oz in a year. The recent declines may provide an opportunity for central banks to ramp up purchases.
 
-**Crude oil**prices fell as signs of oversupply quelled a rally triggered by US sanctions on Russian oil companies. The amount of oil being shipped across the world’s oceans hit a record high. About 1.4mbbl are now aboard oil tankers, according to data from Vortexa. That is the highest level in figures going back to 2016. This comes as the OPEC+ alliance looks to meet this weekend to discuss its production plans. Another modest increase in output of 137kb/d is the base case, according to two delegates in a Bloomberg report. There could also be a political consideration in the decision. Saudi Arabian Crown Prince, Mohammed bin Salman, is scheduled to visit the White House on 18 November.
+**Crude oil** prices fell as signs of oversupply quelled a rally triggered by US sanctions on Russian oil companies. The amount of oil being shipped across the world’s oceans hit a record high. About 1.4mbbl are now aboard oil tankers, according to data from Vortexa. That is the highest level in figures going back to 2016. This comes as the OPEC+ alliance looks to meet this weekend to discuss its production plans. Another modest increase in output of 137kb/d is the base case, according to two delegates in a Bloomberg report. There could also be a political consideration in the decision. Saudi Arabian Crown Prince, Mohammed bin Salman, is scheduled to visit the White House on 18 November.
 
 **European gas** futures steadied amid risks to domestic production. Ukraine’s Naftogaz said its gas facilities were hit again overnight. This is the seventh strike on gas infrastructure in October. This could force Ukraine to increase its gas imports and tighten the European market. The region’s supply balance remains fragile this winter and is heavily reliant on weather and volatile LNG flows. North Asian LNG prices were steady, although buyers remain on sidelines waiting for further falls before buying.
 

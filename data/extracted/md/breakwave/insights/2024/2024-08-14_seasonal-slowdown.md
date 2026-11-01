@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/14/seasonal-slowdown"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 2
-word_count: 733
+word_count: 735
 source_file: "corpus/03-breakwave/insights/2024/2024-08-14_seasonal-slowdown.html"
 ---
 

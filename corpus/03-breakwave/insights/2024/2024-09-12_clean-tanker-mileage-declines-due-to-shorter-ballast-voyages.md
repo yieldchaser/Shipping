@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/12/clean-tanker-mileage-declines-due-to-shorter-ballast-voyages"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 4
-word_count: 1301
+word_count: 1305
 source_file: "corpus/03-breakwave/insights/2024/2024-09-12_clean-tanker-mileage-declines-due-to-shorter-ballast-voyages.html"
 ---
 

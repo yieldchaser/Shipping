@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/25/breakwave-weekend-read-547kk"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 12
-word_count: 1184
+word_count: 1196
 source_file: "corpus/03-breakwave/insights/2025/2025-05-23_breakwave-weekend-read-547kk.html"
 ---
 
@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-05-23_breakwave-weekend-rea
 
 ## Breakwave Shipping Report
 
-**Stability Brings Optimism**– The VLCC market has shown signs of**stabilization**, particularly on Eastern routes.
+**Stability Brings Optimism**– The VLCC market has shown signs of **stabilization**, particularly on Eastern routes.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2025205wet855547pp)
 

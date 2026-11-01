@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/4/1/steel-production-ex-china-returns-to-contraction"
 tags: ["China", "Steel", "Commodities"]
 images_count: 3
-word_count: 382
+word_count: 385
 source_file: "corpus/03-breakwave/insights/2026/2026-04-01_steel-production-ex-china-returns-to-contraction.html"
 ---
 

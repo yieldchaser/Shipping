@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/4/20/chinas-coal-output-sets-another-record-hydropower-output-remains-low"
 tags: ["Drybulk", "Shipping"]
 images_count: 1
-word_count: 408
+word_count: 409
 source_file: "corpus/03-breakwave/insights/2023/2023-04-21_chinas-coal-output-sets-another-record-hydropower-output-remains-low.html"
 ---
 

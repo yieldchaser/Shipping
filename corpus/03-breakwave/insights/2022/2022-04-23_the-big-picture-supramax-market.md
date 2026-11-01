@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/4/22/the-big-picture-supramax-market"
 images_count: 3
-word_count: 1090
+word_count: 1093
 source_file: "corpus/03-breakwave/insights/2022/2022-04-23_the-big-picture-supramax-market.html"
 ---
 
@@ -19,7 +19,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-04-23_the-big-picture-supra
 
 ---
 
-By[Mark Nugent](https://www.linkedin.com/in/mark-nugent-3724a3192/)
+By [Mark Nugent](https://www.linkedin.com/in/mark-nugent-3724a3192/)
 
 ### Holding Steady
 

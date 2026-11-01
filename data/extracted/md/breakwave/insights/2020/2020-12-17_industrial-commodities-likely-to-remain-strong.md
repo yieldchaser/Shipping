@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/12/17/industrial-commodities-likely-to-remain-strong"
 tags: ["Global Economy", "China", "Copper"]
 images_count: 2
-word_count: 556
+word_count: 558
 source_file: "corpus/03-breakwave/insights/2020/2020-12-17_industrial-commodities-likely-to-remain-strong.html"
 ---
 

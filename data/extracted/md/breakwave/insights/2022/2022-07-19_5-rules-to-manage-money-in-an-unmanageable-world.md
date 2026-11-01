@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/18/5-rules-to-manage-money-in-an-unmanageable-world"
 tags: ["Economy", "Investing", "Markets"]
 images_count: 3
-word_count: 1420
+word_count: 1423
 source_file: "corpus/03-breakwave/insights/2022/2022-07-19_5-rules-to-manage-money-in-an-unmanageable-world.html"
 ---
 

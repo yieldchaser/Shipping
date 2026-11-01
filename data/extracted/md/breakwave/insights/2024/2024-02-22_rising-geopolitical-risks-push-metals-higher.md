@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/22/rising-geopolitical-risks-push-metals-higher"
 tags: ["Commodities", "Crude Oil", "Ironore"]
 images_count: 1
-word_count: 563
+word_count: 564
 source_file: "corpus/03-breakwave/insights/2024/2024-02-22_rising-geopolitical-risks-push-metals-higher.html"
 ---
 

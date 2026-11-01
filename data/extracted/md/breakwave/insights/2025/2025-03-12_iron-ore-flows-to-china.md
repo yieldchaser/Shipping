@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/12/iron-ore-flows-to-china"
 tags: ["Shipping", "Drybulk", "Markets"]
 images_count: 5
-word_count: 1137
+word_count: 1142
 source_file: "corpus/03-breakwave/insights/2025/2025-03-12_iron-ore-flows-to-china.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-03-12_iron-ore-flows-to-chi
 ---
 
 **Dry Weekly Market Monitor - Week 11, 2025**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 March 12, 2025
 
 ![Στιγμιότυπο Οθόνης 2025 03 12 124851](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-12_iron-ore-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d3d54763a5d0.png)

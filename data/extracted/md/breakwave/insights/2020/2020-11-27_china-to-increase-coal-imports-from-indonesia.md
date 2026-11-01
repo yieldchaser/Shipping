@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/11/27/china-to-increase-coal-imports-from-indonesia"
 tags: ["Coal", "Australia", "China", "Indonesia"]
 images_count: 2
-word_count: 656
+word_count: 658
 source_file: "corpus/03-breakwave/insights/2020/2020-11-27_china-to-increase-coal-imports-from-indonesia.html"
 ---
 

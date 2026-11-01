@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/20/ongoing-divergence-in-chinese-steel-production-and-iron-ore-imports"
 tags: ["China", "Steel", "Iron Ore"]
 images_count: 2
-word_count: 521
+word_count: 523
 source_file: "corpus/03-breakwave/insights/2021/2021-10-20_ongoing-divergence-in-chinese-steel-production-and-iron-ore-imports.html"
 ---
 
@@ -24,14 +24,14 @@ source_file: "corpus/03-breakwave/insights/2021/2021-10-20_ongoing-divergence-in
 
 One issue very much worthy of conversation but still often ignored is that China's iron ore imports and steel production have been diverging recently. China's steel production peaked back in May at 99.5 million tons, and then fell each month in June, July, August, and September (with September seeing production reach a low of 73.8 million tons).
 
-![Chart 1 (3)](assets/2021-10-20_ongoing-divergence-in-chinese-steel-production-and-iron-ore-imports_img_chart128329_0bac125c57dc.jpg)
+![Chart 1 (3)](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-20_ongoing-divergence-in-chinese-steel-production-and-iron-ore-imports_img_chart128329_0bac125c57dc.jpg)
 
 > **Figure 1: Chart 1 (3)**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-20_ongoing-divergence-in-chinese-steel-production-and-iron-ore-imports_img_chart128329_0bac125c57dc.jpg)
 
 However, July has marked this year's low in monthly iron ore import volume. China's iron ore imports peaked this year at 102.1 million tons back in March, and then fell each month in April, May, June, and July (with July seeing imports reach a low of 88.5 million tons). Iron ore imports then increased to 97.5 million tons in August, and in September they remained well above July's low as they came in at 95.6 million tons.
 
-![Chart2](assets/2021-10-20_ongoing-divergence-in-chinese-steel-production-and-iron-ore-imports_img_chart228229_b5acd5bd5076.jpg)
+![Chart2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-20_ongoing-divergence-in-chinese-steel-production-and-iron-ore-imports_img_chart228229_b5acd5bd5076.jpg)
 
 > **Figure 2: Chart2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-20_ongoing-divergence-in-chinese-steel-production-and-iron-ore-imports_img_chart228229_b5acd5bd5076.jpg)

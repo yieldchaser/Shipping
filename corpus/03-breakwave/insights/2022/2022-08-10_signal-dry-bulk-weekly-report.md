@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/10/signal-dry-bulk-weekly-report"
 images_count: 4
-word_count: 1054
+word_count: 1058
 source_file: "corpus/03-breakwave/insights/2022/2022-08-10_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -40,10 +40,10 @@ In the grain segment, the pace of Ukrainian shipments is picking up, as six more
 
 Weaker freight rate sentiment persisted across all ship size categories in the second week of August.
 
-- **Capesize**freight rates from Brazil to North China fell to $22/tonne, down $10/tonne from the week 29 peak.
-- **Panamax**freight rates from the Continent to the Far East fell slightly to $44/tonne, with a slower downward trend than other vessel sizes.
-- **Supramax**freight rates for the Indo-ECI route fell to $19/tonne in the second week of August, down nearly $10/tonne from week 25.
-- **Handysize**vessel freight rates from NOPAC to the Far East fell to $45/tonne, down $7/tonne from week 30.
+- **Capesize** freight rates from Brazil to North China fell to $22/tonne, down $10/tonne from the week 29 peak.
+- **Panamax** freight rates from the Continent to the Far East fell slightly to $44/tonne, with a slower downward trend than other vessel sizes.
+- **Supramax** freight rates for the Indo-ECI route fell to $19/tonne in the second week of August, down nearly $10/tonne from week 25.
+- **Handysize** vessel freight rates from NOPAC to the Far East fell to $45/tonne, down $7/tonne from week 30.
 
 ## Section 2 - Supply (#Vessels) - Ballasters View
 
@@ -58,10 +58,10 @@ Supply Trend Lines for Key Load Areas
 
 The number of Capesize vessels sailing ballast continued to increase significantly in August, while the number of Handysize and Supramax vessels increased at a similar rate. Panamax appears to be the only size class in which the number of ships sailing in ballast approaches the annual average.
 
-- **Capesize**SE Africa: The number of vessels has increased to 123, a 50% increase from week 29.
-- **Panamax**SE Africa: The number of vessels is approaching the annual average of 107 ships, an increase of 20% from week 30.
-- **Supramax**SE Asia: The number of vessels increased to 96, up 17% from week 30.
-- **Handysize**NOPAC: The number of vessels exceeded 60, 10 more than the previous week.
+- **Capesize** SE Africa: The number of vessels has increased to 123, a 50% increase from week 29.
+- **Panamax** SE Africa: The number of vessels is approaching the annual average of 107 ships, an increase of 20% from week 30.
+- **Supramax** SE Asia: The number of vessels increased to 96, up 17% from week 30.
+- **Handysize** NOPAC: The number of vessels exceeded 60, 10 more than the previous week.
 
 ## Section 3 - Demand - In Ton Days
 
@@ -74,10 +74,10 @@ The number of Capesize vessels sailing ballast continued to increase significant
 
 The downward trend in the Capesize segment continued in the second week of August, while Panamax and Supramax have been trending upward since late July.
 
-- **Capesize**demand ton-days: The percentage increase remains at the lowest level since the end of week 6.
-- **Panamax**demand ton days: The upward trend that started last week is now confirmed with signs of further recovery in the second half of August.
-- **Supramax**demand ton-days: The percentage increase remained firmer than the low in week 27.
-- **Handysize**demand ton-days: The downward trend continues and has now approached the weakest point this year.
+- **Capesize** demand ton-days: The percentage increase remains at the lowest level since the end of week 6.
+- **Panamax** demand ton days: The upward trend that started last week is now confirmed with signs of further recovery in the second half of August.
+- **Supramax** demand ton-days: The percentage increase remained firmer than the low in week 27.
+- **Handysize** demand ton-days: The downward trend continues and has now approached the weakest point this year.
 
 ## Section 4 - Chinese Port Congestions -
 

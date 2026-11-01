@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/7/chinese-steel-production-remains-strong-beijings-air-pollution-remains-moderate"
 tags: ["China", "Steel"]
 images_count: 2
-word_count: 413
+word_count: 415
 source_file: "corpus/03-breakwave/insights/2021/2021-06-07_chinese-steel-production-remains-strong-beijings-air-pollution-remains-moderate.html"
 ---
 
@@ -26,14 +26,14 @@ Chinese steel prices remain high and finally rebounded last week. The average pr
 
 Regarding steel production, the most recently released data shows daily crude steel production at large and medium-sized mills in China averaged 2.29 million tons during May 21 - May 31. This is down by 4% from mid-May but is up year-on-year by 9%. As we have been continuing to stress in our Weekly Dry Bulk Reports and Weekly China Reports, China’s steel production has long been poised to remain strong even as the government has been working to place limitations on heavy polluting mills near Beijing. We remain of our view that China’s total steel production will not come close to contracting this year.
 
-![Jeff 1 6.7](assets/2021-06-07_chinese-steel-production-remains-strong-beijings-air-pollution-remains-moderate_img_jeff167_f902c6d49c9f.jpg)
+![Jeff 1 6.7](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-07_chinese-steel-production-remains-strong-beijings-air-pollution-remains-moderate_img_jeff167_f902c6d49c9f.jpg)
 
 > **Figure 1: Jeff 1 6.7**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-07_chinese-steel-production-remains-strong-beijings-air-pollution-remains-moderate_img_jeff167_f902c6d49c9f.jpg)
 
 Regarding air pollution, air pollution levels in Beijing were moderate again last week. As we discussed in this week's Weekly China Report, average PM 2.5 levels in Beijing reached a high of only 125 last week. A reading of 200 or higher is considered "unhealthy", but fortunately Beijing's air pollution has mostly remained below that level in recent weeks.
 
-![Jeff 2 6.7](assets/2021-06-07_chinese-steel-production-remains-strong-beijings-air-pollution-remains-moderate_img_jeff267_e48ffd8e6057.jpg)
+![Jeff 2 6.7](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-07_chinese-steel-production-remains-strong-beijings-air-pollution-remains-moderate_img_jeff267_e48ffd8e6057.jpg)
 
 > **Figure 2: Jeff 2 6.7**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-07_chinese-steel-production-remains-strong-beijings-air-pollution-remains-moderate_img_jeff267_e48ffd8e6057.jpg)

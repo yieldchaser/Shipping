@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/9/23/metals-gain-as-supply-issues-offset-demand-concerns"
 images_count: 1
-word_count: 669
+word_count: 670
 source_file: "corpus/03-breakwave/insights/2022/2022-09-23_metals-gain-as-supply-issues-offset-demand-concerns.html"
 ---
 

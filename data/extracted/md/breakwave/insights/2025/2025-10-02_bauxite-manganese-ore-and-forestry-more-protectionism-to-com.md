@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-10-02_bauxite-manganese-ore
 Minor bulk, made up of all dry cargo types that are not categorized as iron ore, coal, or grains, has consistently outperformed the previous year in terms of total tonnage exported. In August, this trend continued as the total tonnage of minor bulk exports increased by 7% compared to the same period last year. Through 2025 H2, there have been several protectionist policies announced that will impact vessel demand going forward. Signal Ocean will continue to monitor and report as the outcomes become more visible.
 
 **Economic Environment**
-**Manufacturing PMI’s**
+ **Manufacturing PMI’s**
 
 ### Exchange Rates
 

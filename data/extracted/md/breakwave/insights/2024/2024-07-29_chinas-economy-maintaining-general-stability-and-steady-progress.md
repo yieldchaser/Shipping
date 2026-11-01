@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/29/chinas-economy-maintaining-general-stability-and-steady-progress"
 tags: ["China", "Drybulk", "Economy"]
 images_count: 2
-word_count: 988
+word_count: 990
 source_file: "corpus/03-breakwave/insights/2024/2024-07-29_chinas-economy-maintaining-general-stability-and-steady-progress.html"
 ---
 

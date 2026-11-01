@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/27/chinese-iron-ore-imports-on-the-rise-in-the-shadow-of-a-worsening-economic-outlook"
 tags: ["China", "Economy", "Imports"]
 images_count: 2
-word_count: 829
+word_count: 831
 source_file: "corpus/03-breakwave/insights/2021/2021-10-27_chinese-iron-ore-imports-on-the-rise-in-the-shadow-of-a-worsening-economic-outlo.html"
 ---
 

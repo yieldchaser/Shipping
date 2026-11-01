@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/11/iron-ore-flows-amp-capesize-tonne-days"
 tags: ["Drybulk", "Shipping", "Capesize"]
 images_count: 5
-word_count: 1228
+word_count: 1233
 source_file: "corpus/03-breakwave/insights/2024/2024-07-11_iron-ore-flows-amp-capesize-tonne-days.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-07-11_iron-ore-flows-amp-ca
 ---
 
 **Dry Weekly Market Monitor - Week 28.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 July 10, 2024
 
 ![Στιγμιότυπο Οθόνης 2024 07 11 085051](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8de26d31dde3.png)

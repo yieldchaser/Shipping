@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/13/indias-coal-derived-electricity-generation-remains-strong"
 tags: ["India", "Coal", "Shipping"]
 images_count: 4
-word_count: 474
+word_count: 478
 source_file: "corpus/03-breakwave/insights/2021/2021-08-13_indias-coal-derived-electricity-generation-remains-strong.html"
 ---
 

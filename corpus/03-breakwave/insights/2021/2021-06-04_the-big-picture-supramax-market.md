@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/3/the-big-picture-supramax-market"
 tags: ["Supramax", "Dry Bulk"]
 images_count: 5
-word_count: 1238
+word_count: 1243
 source_file: "corpus/03-breakwave/insights/2021/2021-06-04_the-big-picture-supramax-market.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/20/china-sources-wheat-from-argentina"
 tags: ["Capesize", "Drybulk", "Shipping"]
 images_count: 16
-word_count: 2440
+word_count: 2456
 source_file: "corpus/03-breakwave/insights/2026/2026-02-20_china-sources-wheat-from-argentina.html"
 ---
 

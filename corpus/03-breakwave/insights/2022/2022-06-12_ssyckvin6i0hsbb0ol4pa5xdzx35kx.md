@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/6/11/ssyckvin6i0hsbb0ol4pa5xdzx35kx"
 images_count: 6
-word_count: 663
+word_count: 669
 source_file: "corpus/03-breakwave/insights/2022/2022-06-12_ssyckvin6i0hsbb0ol4pa5xdzx35kx.html"
 ---
 
@@ -57,7 +57,7 @@ One of the most famous cats in the world was one owned by Erwin Schrodinger. In 
 > **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/6/9/even-greater-weakness-in-chinas-home-sales-recently) | [Local Asset](assets/2022-06-12_ssyckvin6i0hsbb0ol4pa5xdzx35kx_img_unsplash-image-uqmob8z9yvm_870ad3f57c30.jpg)
 
 As we have been highlighting in Commodore's recent Weekly China Reports, sales of commercial buildings in China (the vast majority of which are residential homes) came under renewed pressure in January/February after previously rising to a six-month high in December
-[Read More](https://www.breakwaveadvisors.com/insights/2022/6/9/even-greater-weakness-in-chinas-home-sales-recently)
+ [Read More](https://www.breakwaveadvisors.com/insights/2022/6/9/even-greater-weakness-in-chinas-home-sales-recently)
 
 ## Oil Gains Amid Increasingly Bullish Fundamentals
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/22/can-cockroaches-fly-solo"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 6
-word_count: 1383
+word_count: 1389
 source_file: "corpus/03-breakwave/insights/2025/2025-10-22_can-cockroaches-fly-solo.html"
 ---
 

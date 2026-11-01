@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/9/11/capesize-market-back-to-school"
 tags: ["Capesize", "China", "Dry Bulk", "India", "Shipping"]
 images_count: 8
-word_count: 1316
+word_count: 1324
 source_file: "corpus/03-breakwave/insights/2020/2020-09-11_capesize-market-back-to-school.html"
 ---
 

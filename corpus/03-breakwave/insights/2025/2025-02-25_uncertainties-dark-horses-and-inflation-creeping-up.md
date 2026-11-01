@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/25/uncertainties-dark-horses-and-inflation-creeping-up"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 8
-word_count: 1927
+word_count: 1935
 source_file: "corpus/03-breakwave/insights/2025/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up.html"
 ---
 

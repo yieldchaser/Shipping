@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/12/dry-bulk-performance"
 tags: ["Drybulk", "Ironore", "Shipping"]
 images_count: 1
-word_count: 1090
+word_count: 1091
 source_file: "corpus/03-breakwave/insights/2026/2026-01-12_dry-bulk-performance.html"
 ---
 

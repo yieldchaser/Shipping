@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/15/december-record-trade-surplus-and-changing-commodity-trade-flows"
 tags: ["Copper", "China", "Indonesia"]
 images_count: 3
-word_count: 747
+word_count: 750
 source_file: "corpus/03-breakwave/insights/2021/2021-01-15_december-record-trade-surplus-and-changing-commodity-trade-flows.html"
 ---
 

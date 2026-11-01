@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/11/13/a-rally-a-head-fake-or-just-a-good-story"
 images_count: 6
-word_count: 1750
+word_count: 1756
 source_file: "corpus/03-breakwave/insights/2023/2023-11-13_a-rally-a-head-fake-or-just-a-good-story.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/26/the-fix-global-market-update-from-shipfix"
 tags: ["Macro", "Shipping", "Commodities"]
 images_count: 1
-word_count: 1261
+word_count: 1262
 source_file: "corpus/03-breakwave/insights/2024/2024-02-26_the-fix-global-market-update-from-shipfix.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/5/chinas-consumer-market-continues-to-turn-corner"
 tags: ["China"]
 images_count: 3
-word_count: 462
+word_count: 465
 source_file: "corpus/03-breakwave/insights/2021/2021-04-07_chinas-consumer-market-continues-to-turn-corner.html"
 ---
 
@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-04-07_chinas-consumer-marke
 
 ---
 
-By[Jeffrey Landsberg](mailto:jeffrey@commodore-research.com)
+By [Jeffrey Landsberg](mailto:jeffrey@commodore-research.com)
 
 Various segments of China’s consumer market (which previously had long been showing signs of recession well before the coronavirus pandemic) continue to turn a corner. In fact, furniture sales, clothing sales, and household appliance sales have finally all experienced year-on-year growth (but of course the growth has certainly been enhanced by comparing to last year’s coronavirus-weakened sales totals). Previously, only clothing sales and household appliance sales were experiencing growth.
 

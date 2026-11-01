@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/22/the-big-picture-global-economic-outlook"
 images_count: 3
-word_count: 1168
+word_count: 1171
 source_file: "corpus/03-breakwave/insights/2021/2021-10-23_the-big-picture-global-economic-outlook.html"
 ---
 

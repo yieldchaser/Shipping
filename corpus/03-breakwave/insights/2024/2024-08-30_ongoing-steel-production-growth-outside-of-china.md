@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/30/ongoing-steel-production-growth-outside-of-china"
 tags: ["Drybulk", "Economy", "Shipping"]
 images_count: 6
-word_count: 758
+word_count: 764
 source_file: "corpus/03-breakwave/insights/2024/2024-08-30_ongoing-steel-production-growth-outside-of-china.html"
 ---
 

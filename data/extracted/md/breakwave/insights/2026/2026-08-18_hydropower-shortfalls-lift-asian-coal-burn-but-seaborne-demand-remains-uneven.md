@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/8/18/hydropower-shortfalls-lift-asian-coal-burn-but-seaborne-demand-remains-uneven"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 4
-word_count: 1302
+word_count: 1306
 source_file: "corpus/03-breakwave/insights/2026/2026-08-18_hydropower-shortfalls-lift-asian-coal-burn-but-seaborne-demand-remains-uneven.html"
 ---
 

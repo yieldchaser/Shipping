@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/23/seaborne-coal-first-half-of-the-year-in-the-rear-view-mirror"
 tags: ["China", "Coal", "Shipping"]
 images_count: 5
-word_count: 1159
+word_count: 1164
 source_file: "corpus/03-breakwave/insights/2021/2021-07-23_seaborne-coal-first-half-of-the-year-in-the-rear-view-mirror.html"
 ---
 

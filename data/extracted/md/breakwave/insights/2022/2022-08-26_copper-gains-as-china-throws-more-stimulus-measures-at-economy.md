@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/26/copper-gains-as-china-throws-more-stimulus-measures-at-economy"
 images_count: 1
-word_count: 688
+word_count: 689
 source_file: "corpus/03-breakwave/insights/2022/2022-08-26_copper-gains-as-china-throws-more-stimulus-measures-at-economy.html"
 ---
 

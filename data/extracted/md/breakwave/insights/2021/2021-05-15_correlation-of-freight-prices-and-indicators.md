@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/15/correlation-of-freight-prices-and-indicators"
 tags: ["Bdry", "Correlation", "Freight Rates"]
 images_count: 5
-word_count: 1038
+word_count: 1043
 source_file: "corpus/03-breakwave/insights/2021/2021-05-15_correlation-of-freight-prices-and-indicators.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-05-15_correlation-of-freigh
 
 The article was originally posted as part of Oceanbolt’s Python SDK Learning Series, but given the relevance for the Breakwave Dry Bulk Shipping ETF, this is a repost to a relevant audience.
 
-In recent weeks dry bulk rates have rallied and attracted the World's attention. Most of the articles written on this topic explore the underlying causes for the rally. In this blog post, we explore which freight indicators are correlated to the price development. We use some of the freight indicators that are available via the Oceanbolt Data Platform, e.g.**fleet utilization, volume exported, congestion, fleet speed**and**port calls.**
+In recent weeks dry bulk rates have rallied and attracted the World's attention. Most of the articles written on this topic explore the underlying causes for the rally. In this blog post, we explore which freight indicators are correlated to the price development. We use some of the freight indicators that are available via the Oceanbolt Data Platform, e.g.**fleet utilization, volume exported, congestion, fleet speed** and **port calls.**
 
 As a proxy for freight prices, we use the Breakwave Dry Bulk Shipping ETF. The ETF is described as follows: "The Breakwave Dry Bulk Shipping ETF (BDRY) is an exchange-traded fund (ETF) designed to reflect the daily price movements of the near-dated dry bulk freight futures. BDRY offers investors unlevered exposure to dry bulk freight ..." (source:[Etfmg](https://etfmg.com/funds/bdry/)). You can learn more about it by visiting the link. As evident by the description, this ETF should follow the dry bulk freight price development closely and will therefore serve as a great proxy for our purposes. Using the BDRY price as a proxy for freight prices has an additional advantage that it is available via the Yahoo Finance API, which allows us to quickly grab the price development using `yfinance` in our Python script.
 
@@ -38,21 +38,21 @@ As discussed in [Lesson 1] ([Oceanbolt](https://www.oceanbolt.com/blog/oceanbolt
 
 Here is a sample of the code from the [Jupyter Notebook] ([Github](https://github.com/oceanbolt/oceanbolt-python-sdk/blob/master/docs/examples/18_utilization_correlation.ipynb)).
 
-![A1](assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a1_5cb84c7b86ea.jpg)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a1_5cb84c7b86ea.jpg)
 
 > **Figure 1: A1**  
 > **Interactive Data & Source:** [Github](https://github.com/oceanbolt/oceanbolt-python-sdk/blob/master/docs/examples/18_utilization_correlation.ipynb) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a1_5cb84c7b86ea.jpg)
 
 When visualizing these results, we get the chart below.
 
-![A2](assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a2_ed56fdf8e4ca.png)
+![A2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a2_ed56fdf8e4ca.png)
 
 > **Figure 2: A2**  
 > **Interactive Data & Source:** [Github](https://github.com/oceanbolt/oceanbolt-python-sdk/blob/master/docs/examples/18_utilization_correlation.ipynb) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a2_ed56fdf8e4ca.png)
 
 Arguably, this is not a perfect indicator, but let us calculate the Pearson correlation using Scipy.
 
-![A3](assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a3_de2e4eb5a4bc.jpg)
+![A3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a3_de2e4eb5a4bc.jpg)
 
 > **Figure 3: A3**  
 > **Interactive Data & Source:** [Github](https://github.com/oceanbolt/oceanbolt-python-sdk/blob/master/docs/examples/18_utilization_correlation.ipynb) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a3_de2e4eb5a4bc.jpg)
@@ -72,14 +72,14 @@ As suggested, we move onto test correlation of volume exported, congestion, flee
 
 See the [Jupyter Notebook] ([Github](https://github.com/oceanbolt/oceanbolt-python-sdk/blob/master/docs/examples/18_utilization_correlation.ipynb)) for the code that we run to get these indicators. We construct a correlation matrix and correlation heatmap of the indicators.
 
-![A4](assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a4_423e54b1e98b.png)
+![A4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a4_423e54b1e98b.png)
 
 > **Figure 4: A4**  
 > **Interactive Data & Source:** [Oceanbolt](https://www.oceanbolt.com/demo/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a4_423e54b1e98b.png)
 
 Correlation matrix of freight indicators
 
-![A5](assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a5_557410094024.png)
+![A5](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a5_557410094024.png)
 
 > **Figure 5: A5**  
 > **Interactive Data & Source:** [Oceanbolt](https://www.oceanbolt.com/demo/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a5_557410094024.png)
@@ -90,7 +90,7 @@ From this, it is certainly evident that some of these indicators have stronger c
 
 Thanks for reading this! If you are interested in getting access to our data, sign up for a [product demo] ([Oceanbolt](https://www.oceanbolt.com/demo/)) and stay tuned for future lessons!
 
-***Niclas Priess**is the co-founder of Oceanbolt, a data-as-a-service company leveraging geospatial analytics to provide real-time intelligence for the dry bulk markets. Learn more about Oceanbolt on its website:[Oceanbolt](https://www.oceanbolt.com/)
+***Niclas Priess** is the co-founder of Oceanbolt, a data-as-a-service company leveraging geospatial analytics to provide real-time intelligence for the dry bulk markets. Learn more about Oceanbolt on its website:[Oceanbolt](https://www.oceanbolt.com/)
 
 ---
 

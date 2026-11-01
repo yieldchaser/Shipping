@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/6/23/dry-bulk-asset-values-surge-as-diversified-trade-growth-reshapes-the-market"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 1
-word_count: 707
+word_count: 708
 source_file: "corpus/03-breakwave/insights/2026/2026-06-23_dry-bulk-asset-values-surge-as-diversified-trade-growth-reshapes-the-market.html"
 ---
 

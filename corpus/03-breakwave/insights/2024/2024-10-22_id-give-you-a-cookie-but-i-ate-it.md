@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/22/id-give-you-a-cookie-but-i-ate-it"
 tags: ["Economy", "Shipping", "Drybulk"]
 images_count: 4
-word_count: 1281
+word_count: 1285
 source_file: "corpus/03-breakwave/insights/2024/2024-10-22_id-give-you-a-cookie-but-i-ate-it.html"
 ---
 

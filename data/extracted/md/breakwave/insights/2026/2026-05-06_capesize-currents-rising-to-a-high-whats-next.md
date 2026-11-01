@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/6/capesize-currents-rising-to-a-high-whats-next"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 9
-word_count: 2077
+word_count: 2086
 source_file: "corpus/03-breakwave/insights/2026/2026-05-06_capesize-currents-rising-to-a-high-whats-next.html"
 ---
 

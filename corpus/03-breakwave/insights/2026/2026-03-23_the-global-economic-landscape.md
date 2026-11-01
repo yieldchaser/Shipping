@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/22/the-global-economic-landscape"
 tags: ["Economy", "Shipping", "Markets"]
 images_count: 1
-word_count: 1048
+word_count: 1049
 source_file: "corpus/03-breakwave/insights/2026/2026-03-23_the-global-economic-landscape.html"
 ---
 

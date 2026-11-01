@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/4/the-big-picture-market-cycles"
 tags: ["Dry Bulk"]
 images_count: 3
-word_count: 1323
+word_count: 1326
 source_file: "corpus/03-breakwave/insights/2021/2021-03-05_the-big-picture-market-cycles.html"
 ---
 
@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-03-05_the-big-picture-marke
 
 Across the board, commodity prices are booming. Crude has surprised many by climbing back to pre-pandemic levels, iron ore prices are at their highest levels in a decade, and prices of agricultural commodities have soared by more than 50% since mid-2020, sparking concerns over food price inflation.
 
-![“It Wont Be Plain Sailing and We Do Not Expect a Cycle Like](assets/2021-03-05_the-big-picture-market-cycles_img_bmr90_d23d37591f67.png)
+![“It Wont Be Plain Sailing and We Do Not Expect a Cycle Like](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-05_the-big-picture-market-cycles_img_bmr90_d23d37591f67.png)
 
 > **Figure 1: “It Wont Be Plain Sailing and We Do Not Expect a Cycle Like**  
 > *“It wont be plain sailing and we do not expect a cycle like 2004-2010, in height or duration, but the path of pricing does suggest that for freight and bulk commodities, the cycle has at last moved into the next phase.”*  
@@ -42,7 +42,7 @@ For many raw materials, the most recent medium-term cycle started from a trough 
 
 This indeed turned out to be the case, with prices picking up over the following couple of years. Taking the World Bank’s metals and minerals price index as an example, the one-year and five-year averages let us clearly see these long and medium-term cyclical patterns.
 
-![Bmr 91](assets/2021-03-05_the-big-picture-market-cycles_img_bmr91_0251078154be.png)
+![Bmr 91](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-05_the-big-picture-market-cycles_img_bmr91_0251078154be.png)
 
 > **Figure 2: Bmr 91**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-05_the-big-picture-market-cycles_img_bmr91_0251078154be.png)
@@ -53,7 +53,7 @@ Dry bulk shipping markets naturally have a close relationship with these cycles.
 
 Superimposed on this pattern, China’s massive raw material demand growth in the 2000s drove a radical increase in seaborne trade, and a shipping supercycle that peaked in 2008. The upswing saw a trebling in Chinese steel production, which helped to push rates to record highs, but also excessive ordering of new ships, creating a glut of tonnage that is still weighing on the market today. Even through the medium-term cyclical uptick in 2017, this oversupply acted as a ceiling to rates. Again, using the long and medium-term moving averages of real timecharter rates, these trends are clear.
 
-![As Always](assets/2021-03-05_the-big-picture-market-cycles_img_bmr92_9b8e94b9798c.png)
+![As Always](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-05_the-big-picture-market-cycles_img_bmr92_9b8e94b9798c.png)
 
 > **Figure 3: As Always**  
 > *As always, for a more in-depth view of how we see the different bulker markets developing, please get in touch through your broker.*  

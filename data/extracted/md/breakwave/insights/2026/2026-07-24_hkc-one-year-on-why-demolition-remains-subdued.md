@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/7/24/hkc-one-year-on-why-demolition-remains-subdued"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 3
-word_count: 1324
+word_count: 1327
 source_file: "corpus/03-breakwave/insights/2026/2026-07-24_hkc-one-year-on-why-demolition-remains-subdued.html"
 ---
 

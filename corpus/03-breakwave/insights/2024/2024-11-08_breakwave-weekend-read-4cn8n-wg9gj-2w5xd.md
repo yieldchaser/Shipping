@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/25/breakwave-weekend-read-4cn8n-wg9gj-2w5xd"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 11
-word_count: 1259
+word_count: 1270
 source_file: "corpus/03-breakwave/insights/2024/2024-11-08_breakwave-weekend-read-4cn8n-wg9gj-2w5xd.html"
 ---
 
@@ -26,7 +26,7 @@ As we conclude the workweek and head into the weekend, take a moment to review t
 
 ## Breakwave Tanker Report
 
-**VLCC Market Sees Unseasonal Downturn Amid Overcapacity and Rising Preference for Chinese Shipowners**– The VLCC (Very Large Crude Carrier) market is experiencing**an unusual downturn**for this time of year, marked by**low activity**and a**persistent**drop in rates across both Eastern and Western markets.
+**VLCC Market Sees Unseasonal Downturn Amid Overcapacity and Rising Preference for Chinese Shipowners**– The VLCC (Very Large Crude Carrier) market is experiencing **an unusual downturn** for this time of year, marked by **low activity** and a**persistent** drop in rates across both Eastern and Western markets.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2024115wet-875587)
 

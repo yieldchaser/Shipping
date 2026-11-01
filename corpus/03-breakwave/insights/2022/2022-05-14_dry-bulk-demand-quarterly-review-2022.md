@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/5/13/dry-bulk-demand-quarterly-review-2022"
 images_count: 7
-word_count: 1675
+word_count: 1682
 source_file: "corpus/03-breakwave/insights/2022/2022-05-14_dry-bulk-demand-quarterly-review-2022.html"
 ---
 
@@ -67,7 +67,7 @@ With a focus on the evolution of this year, we can see in Graph 4 that the Capes
 > *Graph 4| Data Source: The Signal Ocean Platform, Major Dry Bulk Vessel Class Categories, Ton Days, Period 2021-22*  
 > **Interactive Data & Source:** [Nepia](https://www.nepia.com/industry-news/russia-ukraine-military-action-impact-on-shipping/) | [Local Asset](assets/2022-05-14_dry-bulk-demand-quarterly-review-2022_img_627a275db337a1442c86ec8e-image282872_f4c2251917f2.png)
 
-Looking at the**cargo flows**, (Graph 5), we noticed that in the Capesize segment, there is an improved flow from Brazil to China in March-April, while monthly cargo volumes from Australia stood at similar monthly levels to last year. The latest estimates on cargo flow support the revival we have seen lately in the demand for Capesize vessels in the seaborne iron ore transportation with a positive impact on the direction of freight rates.
+Looking at the **cargo flows**, (Graph 5), we noticed that in the Capesize segment, there is an improved flow from Brazil to China in March-April, while monthly cargo volumes from Australia stood at similar monthly levels to last year. The latest estimates on cargo flow support the revival we have seen lately in the demand for Capesize vessels in the seaborne iron ore transportation with a positive impact on the direction of freight rates.
 
 ![Data Source: The Signal Ocean Platform](assets/2022-05-14_dry-bulk-demand-quarterly-review-2022_img_627a278d5a5be52a094e0c53-image282882_5981e4078ea7.png)
 

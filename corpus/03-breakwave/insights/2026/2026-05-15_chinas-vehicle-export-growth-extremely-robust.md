@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/15/chinas-vehicle-export-growth-extremely-robust"
 tags: ["China", "Markets", "Economy"]
 images_count: 5
-word_count: 486
+word_count: 491
 source_file: "corpus/03-breakwave/insights/2026/2026-05-15_chinas-vehicle-export-growth-extremely-robust.html"
 ---
 

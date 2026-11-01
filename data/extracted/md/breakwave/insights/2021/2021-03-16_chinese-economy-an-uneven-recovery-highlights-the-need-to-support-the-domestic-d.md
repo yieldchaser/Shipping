@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/15/chinese-economy-an-uneven-recovery-highlights-the-need-to-support-the-domestic-demand"
 tags: ["China", "Dry Bulk", "COVID-19"]
 images_count: 2
-word_count: 699
+word_count: 701
 source_file: "corpus/03-breakwave/insights/2021/2021-03-16_chinese-economy-an-uneven-recovery-highlights-the-need-to-support-the-domestic-d.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-03-16_chinese-economy-an-un
 
 *By Ulf Bergman*
 
-![Unsplash Image C1ebdhnxmdk](assets/2021-03-16_chinese-economy-an-uneven-recovery-highlights-the-need-to-support-the-domestic-d_img_unsplash-image-c1ebdhnxmdk_ce7921162b84.jpg)
+![Unsplash Image C1ebdhnxmdk](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-16_chinese-economy-an-uneven-recovery-highlights-the-need-to-support-the-domestic-d_img_unsplash-image-c1ebdhnxmdk_ce7921162b84.jpg)
 
 > **Figure 1: Unsplash Image C1ebdhnxmdk**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-16_chinese-economy-an-uneven-recovery-highlights-the-need-to-support-the-domestic-d_img_unsplash-image-c1ebdhnxmdk_ce7921162b84.jpg)
@@ -31,7 +31,7 @@ Hot on the heels of Chinese Premier Li Keqiang’s speech, announcing that the c
 
 However, unlike the data for industrial production and retail sales, investments volumes in fixed assets, such as infrastructure, property, machinery and equipment, failed to impress. It grew by 35 per cent in January and February compared to a year earlier and was well below the consensus projection of around 41 per cent. The unemployment data also showed unexpected weakness. Furthermore, seasonally adjusted month-on-month data showed that retail sales growth fell in January and February, likely due to both the imposed travel restrictions and the ongoing weakness in the labour market.
 
-![Unsplash Image 5h Dmux 7re](assets/2021-03-16_chinese-economy-an-uneven-recovery-highlights-the-need-to-support-the-domestic-d_img_unsplash-image-5h-dmux-7re_b45c71c85b5e.jpg)
+![Unsplash Image 5h Dmux 7re](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-16_chinese-economy-an-uneven-recovery-highlights-the-need-to-support-the-domestic-d_img_unsplash-image-5h-dmux-7re_b45c71c85b5e.jpg)
 
 > **Figure 2: Unsplash Image 5h Dmux 7re**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-16_chinese-economy-an-uneven-recovery-highlights-the-need-to-support-the-domestic-d_img_unsplash-image-5h-dmux-7re_b45c71c85b5e.jpg)

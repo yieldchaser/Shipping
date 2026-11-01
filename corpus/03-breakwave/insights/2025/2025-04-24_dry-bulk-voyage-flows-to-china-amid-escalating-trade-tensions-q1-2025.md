@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/24/dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 5
-word_count: 1531
+word_count: 1536
 source_file: "corpus/03-breakwave/insights/2025/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-04-24_dry-bulk-voyage-flows
 ---
 
 **Dry Weekly Market Monitor - Week 17, 2025**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 April 23, 2025
 
 ![Στιγμιότυπο Οθόνης 2025 04 24 102233](assets/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fa1cee0b4b89.png)
@@ -33,7 +33,7 @@ The first quarter of 2025 has shown mixed signals in China's dry bulk import pro
 
 ### Iron Ore From Brazil to China: +20.89% Yoy (Mar25 vs Mar24)
 
-The significant increase in iron ore imports from Brazil aligns with China's intensified[urban renewal initiatives](https://go.signalocean.com/e/983831/cts-in-2025-1CpmmqaT8ju-p-html/2r2mp3/488812493/h/57cwcipGOoUiIlXmjkNLOC01LYKS4tz0q0iEa1GzjPY). According to the Chinese Ministry of Finance, the central government will continue to support urban renewal projects in 2025, focusing on addressing pressing concerns of the people and driving high-quality urban development. These projects, particularly in mega and super-large cities along key river basins, are expected to boost demand for construction materials, including steel, thereby increasing iron ore imports.​ Increased volumes from Brazil also underscore a preference for long-haul Capesize shipments, boosting tonne-mile demand and providing upward support to freight rates on routes like C3 (Brazil-China).
+The significant increase in iron ore imports from Brazil aligns with China's intensified [urban renewal initiatives](https://go.signalocean.com/e/983831/cts-in-2025-1CpmmqaT8ju-p-html/2r2mp3/488812493/h/57cwcipGOoUiIlXmjkNLOC01LYKS4tz0q0iEa1GzjPY). According to the Chinese Ministry of Finance, the central government will continue to support urban renewal projects in 2025, focusing on addressing pressing concerns of the people and driving high-quality urban development. These projects, particularly in mega and super-large cities along key river basins, are expected to boost demand for construction materials, including steel, thereby increasing iron ore imports.​ Increased volumes from Brazil also underscore a preference for long-haul Capesize shipments, boosting tonne-mile demand and providing upward support to freight rates on routes like C3 (Brazil-China).
 
 ### Coal From Indonesia to China: -18.35% Yoy (Mar25 vs Mar24)
 
@@ -60,10 +60,10 @@ The data reveals a clear shift in China’s commodity sourcing strategy, driven 
 
 Sentiment in the Capesize freight market is softening amid a rising number of ballasters, while recent indicators suggest a weakening outlook for the Handy NOPAC Far East market.
 
-- **Capesize**vessel freight rates from Brazil to North China closed below $19 per tonne, showing a 24% decrease compared to last month.
-- **Panamax**from the Continent held near $30 per tonne, reflecting a 4% decline month-on-month and a 30% drop year-on-year.
-- **Supramax**vessel freight rates on the Indonesia–East Coast India (ECI) route remained steady at around $9 per tonne, registering a modest 1.4% month-on-month decline.
-- **Handysize**freight rates for the NOPAC Far East route slipped slightly below $29 per tonne, recording a 9% decline month-on-month.
+- **Capesize** vessel freight rates from Brazil to North China closed below $19 per tonne, showing a 24% decrease compared to last month.
+- **Panamax** from the Continent held near $30 per tonne, reflecting a 4% decline month-on-month and a 30% drop year-on-year.
+- **Supramax** vessel freight rates on the Indonesia–East Coast India (ECI) route remained steady at around $9 per tonne, registering a modest 1.4% month-on-month decline.
+- **Handysize** freight rates for the NOPAC Far East route slipped slightly below $29 per tonne, recording a 9% decline month-on-month.
 
 ![Στιγμιότυπο Οθόνης 2025 04 24 102618](assets/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fb548a7d34e0.png)
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/17/china-emerging-from-pandemic-with-stronger-economy-and-having-not-experienced-newfound-shift-to-some-degree-of-authoritarianism"
 tags: ["China", "Usa", "Us Dollar"]
 images_count: 3
-word_count: 943
+word_count: 946
 source_file: "corpus/03-breakwave/insights/2021/2021-01-20_china-emerging-from-pandemic-with-stronger-economy-and-having-not-experienced-ne.html"
 ---
 
@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-01-20_china-emerging-from-p
 
 ---
 
-![By Jeffrey Landsberg](assets/2021-01-20_china-emerging-from-pandemic-with-stronger-economy-and-having-not-experienced-ne_img_image-asset_8e8ade94a453.jpeg)
+![By Jeffrey Landsberg](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-20_china-emerging-from-pandemic-with-stronger-economy-and-having-not-experienced-ne_img_image-asset_8e8ade94a453.jpeg)
 
 > **Figure 1: By Jeffrey Landsberg**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-20_china-emerging-from-pandemic-with-stronger-economy-and-having-not-experienced-ne_img_image-asset_8e8ade94a453.jpeg)
@@ -31,14 +31,14 @@ As we have continued to highlight in our Weekly China Reports, China’s central
 
 Most recently, December 2020 saw new lending grow year-on-year by 11%. This has marked the strongest growth seen since September and continues to signal post-coronavirus support. Also of note is that outstanding loan growth last month came in again at 12.8%. The last ten months have now seen China’s outstanding loan growth average 13%. In comparison, the previous eight months (July 2019 through February 2020) saw outstanding loan growth average 12.4%, which marked the lowest outstanding loan growth seen since 2001.
 
-![Commodore 1](assets/2021-01-20_china-emerging-from-pandemic-with-stronger-economy-and-having-not-experienced-ne_img_commodore1_4fff9f30b704.jpg)
+![Commodore 1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-20_china-emerging-from-pandemic-with-stronger-economy-and-having-not-experienced-ne_img_commodore1_4fff9f30b704.jpg)
 
 > **Figure 2: Commodore 1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-20_china-emerging-from-pandemic-with-stronger-economy-and-having-not-experienced-ne_img_commodore1_4fff9f30b704.jpg)
 
 It was very significant that the government allowed outstanding loan growth during July 2019 through February 2020 to fall to its lowest level since 2001. It also, of course, has been very significant that the government reversed course starting in March 2020. The pivot in policy that occurred then has been helping to propel the economy and has remained a driving force behind China’s robust commodity demand this year. Both China’s overall economy and demand for commodities continue to fare very well as the government has not deviated from its March pivot. Globally, much has continued to change (including more turmoil in the United States recently), but internally Xi has continued to strengthen party control and his own authority while also continuing to significantly support China’s economy. China’s ambitious Belt and Road plans are resuming as the world continues to turn a corner from the coronavirus pandemic, and the central government this year is unlikely to make any significant changes that would alter its current course of enhancing its power and influence globally.
 
-![Market Chart 3](assets/2021-01-20_china-emerging-from-pandemic-with-stronger-economy-and-having-not-experienced-ne_img_image-asset_d9e35faff2f9.jpeg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-20_china-emerging-from-pandemic-with-stronger-economy-and-having-not-experienced-ne_img_image-asset_d9e35faff2f9.jpeg)
 
 > **Figure 3: Market Chart 3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-20_china-emerging-from-pandemic-with-stronger-economy-and-having-not-experienced-ne_img_image-asset_d9e35faff2f9.jpeg)

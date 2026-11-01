@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/15/bdi-softens-at-year-start-as-capesize-weakness-persists"
 tags: ["Ironore", "Drybulk", "Markets"]
 images_count: 5
-word_count: 1202
+word_count: 1207
 source_file: "corpus/03-breakwave/insights/2026/2026-01-15_bdi-softens-at-year-start-as-capesize-weakness-persists.html"
 ---
 
@@ -43,7 +43,7 @@ The start of the year has seen the BDI come under renewed pressure, with Capesiz
 
 Despite the recent weakness, the market pulse remains stronger than it was a year ago. Looking ahead, sentiment is expected to improve gradually. Iron ore prices have strengthened in recent sessions amid growing expectations that the Chinese cabinet will announce a new package of stimulus measures aimed at supporting economic growth and infrastructure activity. If confirmed, such policy support could help strengthen Capesize earnings and provide a near-term floor for the BDI as the quarter progresses.
 
-**Brazilian Iron Ore Shipments |**Early-Year[Flows](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2rrq4n/568934524/h/1BrB9nWGcHf2Hw_CjRXlPZ8V0fDWdccwSmUW-RZVnjs)Turning Lower
+**Brazilian Iron Ore Shipments |**Early-Year [Flows](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2rrq4n/568934524/h/1BrB9nWGcHf2Hw_CjRXlPZ8V0fDWdccwSmUW-RZVnjs) Turning Lower
 
 As of 12 January, Brazilian iron ore shipments on a 7-day moving-average basis are estimated to be ~2.6% lower year-on-year versus the same early-January period in 2024. The latest 7-day average also suggests early-2026 shipments are running ~16% below early-2025 levels and ~18% below early-2024, based on Signal Ocean data.
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025310-weekly-gytlo115-xhbxa-ycgyh"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 10
-word_count: 1076
+word_count: 1086
 source_file: "corpus/03-breakwave/insights/2025/2025-11-07_2025310-weekly-gytlo115-xhbxa-ycgyh.html"
 ---
 

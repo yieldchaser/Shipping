@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/5/port-congestion-a-shifting-focus"
 tags: ["Ports", "Congestion", "Capesize", "Panamax"]
 images_count: 2
-word_count: 790
+word_count: 792
 source_file: "corpus/03-breakwave/insights/2021/2021-02-08_port-congestion-a-shifting-focus.html"
 ---
 

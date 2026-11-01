@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/10/brent-tops-usd100bbl-as-us-iran-attacks-escalate"
 tags: ["Commodities", "Shipping", "Markets"]
 images_count: 2
-word_count: 839
+word_count: 841
 source_file: "corpus/03-breakwave/insights/2026/2026-09-10_brent-tops-usd100bbl-as-us-iran-attacks-escalate.html"
 ---
 

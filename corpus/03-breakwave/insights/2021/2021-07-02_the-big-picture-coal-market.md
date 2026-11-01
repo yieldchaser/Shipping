@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/1/the-big-picture-coal-market"
 images_count: 4
-word_count: 1170
+word_count: 1174
 source_file: "corpus/03-breakwave/insights/2021/2021-07-02_the-big-picture-coal-market.html"
 ---
 

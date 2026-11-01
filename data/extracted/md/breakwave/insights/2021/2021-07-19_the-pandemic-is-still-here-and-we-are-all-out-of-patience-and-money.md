@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/19/the-pandemic-is-still-here-and-we-are-all-out-of-patience-and-money"
 tags: ["Economy", "Inflation", "Asset Management"]
 images_count: 1
-word_count: 566
+word_count: 567
 source_file: "corpus/03-breakwave/insights/2021/2021-07-19_the-pandemic-is-still-here-and-we-are-all-out-of-patience-and-money.html"
 ---
 
@@ -28,7 +28,7 @@ However, the important news of the week is reflected in the dichotomy between th
 
 On the one hand, the Delta variant is spreading across the globe and vaccination levels are low. Scientists remind us that it takes both shots of a vaccine to be meaningfully protected. Globally, only 13% of people are privileged enough to have been vaccinated twice, with a skew towards older age groups which contribute less to economic growth. The number drops to 9.5% in Asia, the world’s most populous continent, where doubts have been raised that the prevalent Sinopharm and Sinovac vaccines are as effective against the new Covid variants. Two-dose vaccination figures are dismal in Africa (1.43%), very low in Latin America (16%), improving in Europe (34%), and much better in the US (48%). Yet considering that the new variant is now affecting the UK, where 53% of people have had two doses of provenly effective vaccines, endangering the economic re-opening, it is easy to understand that for the rest of the planet things are looking more precarious. And while richer countries may feel safer in terms of their own public health, investors should be reminded that global supply chains are mostly based in those lower-income countries with very low vaccination rates. It may be no coincidence that OPEC+ decided to increase oil production to stabilise its price, suggesting that its members believe that supply pressures will persist. This means that supply-side inflation may persist a bit more than the Fed lets on.
 
-![A3](assets/2021-07-19_the-pandemic-is-still-here-and-we-are-all-out-of-patience-and-money_img_a3_0aca220b9a4c.jpg)
+![A3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-19_the-pandemic-is-still-here-and-we-are-all-out-of-patience-and-money_img_a3_0aca220b9a4c.jpg)
 
 > **Figure 1: A3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-19_the-pandemic-is-still-here-and-we-are-all-out-of-patience-and-money_img_a3_0aca220b9a4c.jpg)

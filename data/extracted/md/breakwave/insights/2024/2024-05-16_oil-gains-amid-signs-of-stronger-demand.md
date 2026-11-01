@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/16/oil-gains-amid-signs-of-stronger-demand"
 tags: ["Commodities", "Economy", "Markets"]
 images_count: 2
-word_count: 698
+word_count: 700
 source_file: "corpus/03-breakwave/insights/2024/2024-05-16_oil-gains-amid-signs-of-stronger-demand.html"
 ---
 

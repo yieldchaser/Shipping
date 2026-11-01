@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/6/22/signal-dry-bulk-weekly-report"
 images_count: 3
-word_count: 1067
+word_count: 1070
 source_file: "corpus/03-breakwave/insights/2022/2022-06-22_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -40,10 +40,10 @@ In the grain market, Chicago wheat futures slid to $10 per bushel in June, the l
 
 This week sees a continued drop in freight rates, while small signs of a rebound could be seen in the Panamax segment.
 
-- **Capesize**Brazil-to-North China freight rates dropped further to $32/t, $6/t less than the end of Week 20.
-- **Panamax**Continent-to-Far East freight rates climbed to $56/t. The current levels stand higher than the end of Week 20.
-- **Supramax**Indo-to-ECI freight rates remained steady in the last three weeks, still holding at around $28/t.
-- **Handysize**NOPAC-to-Far East freight rates slipped to under $60/t for the first time since the end of Week 18.
+- **Capesize** Brazil-to-North China freight rates dropped further to $32/t, $6/t less than the end of Week 20.
+- **Panamax** Continent-to-Far East freight rates climbed to $56/t. The current levels stand higher than the end of Week 20.
+- **Supramax** Indo-to-ECI freight rates remained steady in the last three weeks, still holding at around $28/t.
+- **Handysize** NOPAC-to-Far East freight rates slipped to under $60/t for the first time since the end of Week 18.
 
 ## Section 2 - Supply - Ballasters View
 
@@ -56,10 +56,10 @@ This week sees a continued drop in freight rates, while small signs of a rebound
 
 The number of ballasters kept rising, as seen in the last couple of weeks, with the exception of the handysize segment, where the last three weeks have seen a sharp drop.
 
-- **Capesize**SE Africa: The number of vessels sailing in ballast stayed at the yearly average of 78 vessels, 23 more than the end of Week 20.
-- **Panamax**SE Africa: The number of vessels sailing in ballast did not really fluctuate much, holding at 105, close to the one-year average.
-- **Supramax**SE Asia: The number of vessels sailing in ballast increased to 91 vessels, 19 more than the end of Week 23, and 6% above the one-year average.
-- **Handysize**NOPAC: The number of vessels kept dropping, reaching the low of 48, 18% down from the peak of Week 21.
+- **Capesize** SE Africa: The number of vessels sailing in ballast stayed at the yearly average of 78 vessels, 23 more than the end of Week 20.
+- **Panamax** SE Africa: The number of vessels sailing in ballast did not really fluctuate much, holding at 105, close to the one-year average.
+- **Supramax** SE Asia: The number of vessels sailing in ballast increased to 91 vessels, 19 more than the end of Week 23, and 6% above the one-year average.
+- **Handysize** NOPAC: The number of vessels kept dropping, reaching the low of 48, 18% down from the peak of Week 21.
 
 ## Section 3 - Demand - In Ton Days
 
@@ -72,10 +72,10 @@ The number of ballasters kept rising, as seen in the last couple of weeks, with 
 
 The third week of June saw demand growth recovering in the Capesize segment, whereas there is still a decrease in ton days growth for the other vessel class categories.
 
-- **Capesize**demand ton-days: The last four weeks have seen a steady increase; having said that, the current levels are still lower than the high of Week 20.
-- **Panamax**demand ton-days: The downward trend of the last few weeks remains unchanged, perhaps even steeper than recently; this means that June will probably close at a low level, lower than recent weeks.
-- **Supramax**demand ton-days: The drop seen last week was maintained in recent days; at the same time, the current levels are still higher than the low seen in Week 20.
-- **Handysize**demand ton-days: A negative trend is still visible, similar to the levels of Week 23.
+- **Capesize** demand ton-days: The last four weeks have seen a steady increase; having said that, the current levels are still lower than the high of Week 20.
+- **Panamax** demand ton-days: The downward trend of the last few weeks remains unchanged, perhaps even steeper than recently; this means that June will probably close at a low level, lower than recent weeks.
+- **Supramax** demand ton-days: The drop seen last week was maintained in recent days; at the same time, the current levels are still higher than the low seen in Week 20.
+- **Handysize** demand ton-days: A negative trend is still visible, similar to the levels of Week 23.
 
 ## Section 4 - Chinese Port Congestions -
 

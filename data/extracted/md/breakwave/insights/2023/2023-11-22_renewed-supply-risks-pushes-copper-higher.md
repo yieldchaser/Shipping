@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/11/22/renewed-supply-risks-pushes-copper-higher"
 images_count: 1
-word_count: 551
+word_count: 552
 source_file: "corpus/03-breakwave/insights/2023/2023-11-22_renewed-supply-risks-pushes-copper-higher.html"
 ---
 

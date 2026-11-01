@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/8/supertanker-clean-up-peaks-whilst-suezmax-crude-demand-falls"
 tags: ["Shipping", "Crude Oil", "Tankers"]
 images_count: 3
-word_count: 1143
+word_count: 1146
 source_file: "corpus/03-breakwave/insights/2024/2024-08-08_supertanker-clean-up-peaks-whilst-suezmax-crude-demand-falls.html"
 ---
 

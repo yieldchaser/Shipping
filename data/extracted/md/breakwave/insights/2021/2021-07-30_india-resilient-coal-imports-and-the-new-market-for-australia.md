@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/30/india-resilient-coal-imports-and-the-new-market-for-australia"
 tags: ["Coal", "India", "Australia", "China"]
 images_count: 3
-word_count: 775
+word_count: 778
 source_file: "corpus/03-breakwave/insights/2021/2021-07-30_india-resilient-coal-imports-and-the-new-market-for-australia.html"
 ---
 
@@ -28,7 +28,7 @@ As the second wave of infections is starting to recede, the economic activity is
 
 Despite the severity of the recent coronavirus outbreak, Indian seaborne imports of coal have held up remarkably well in the last two months. Both months recorded healthy year-on-year gains and are only marginally below the levels seen in 2019.
 
-![A1](assets/2021-07-30_india-resilient-coal-imports-and-the-new-market-for-australia_img_a1_c4adabfab423.png)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-30_india-resilient-coal-imports-and-the-new-market-for-australia_img_a1_c4adabfab423.png)
 
 > **Figure 1: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-30_india-resilient-coal-imports-and-the-new-market-for-australia_img_a1_c4adabfab423.png)
@@ -39,14 +39,14 @@ The ongoing diplomatic fracas between China and Australia shows no signs of impr
 
 The Indian market has so far proved to be a good alternative market for Australian miners, with large parts of the coal volumes normally destined for China now shipped there instead. In the first seven months of the year, Australia has shipped 50 million tonnes of coal to Indian ports. The volumes are equivalent to what has been dispatched during a whole in the past. Indonesia on the other hand has lost its previously dominant position in the Indian market, with export volumes to India looking set to fall well below the 118 million tonnes shipped in 2019. Indonesian coal is now increasingly shipped to China, as a replacement for the banned Australian coal.
 
-![A2](assets/2021-07-30_india-resilient-coal-imports-and-the-new-market-for-australia_img_a2_9f2a8e7493c6.png)
+![A2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-30_india-resilient-coal-imports-and-the-new-market-for-australia_img_a2_9f2a8e7493c6.png)
 
 > **Figure 2: A2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-30_india-resilient-coal-imports-and-the-new-market-for-australia_img_a2_9f2a8e7493c6.png)
 
 The ongoing diplomatic spat between China and Australia has not only altered the trade flows of coal, but also the deployment of vessel types. Previously, the Panamaxes were the most common tonnage for bringing coal to India, but in the last year, the crown has shifted to the Capesizes. Likewise, China’s increasing reliance on Indonesia for its seaborne coal imports have shifted the focus to Panamaxes in that trade.
 
-![A3](assets/2021-07-30_india-resilient-coal-imports-and-the-new-market-for-australia_img_a3_d92dda798758.png)
+![A3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-30_india-resilient-coal-imports-and-the-new-market-for-australia_img_a3_d92dda798758.png)
 
 > **Figure 3: A3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-30_india-resilient-coal-imports-and-the-new-market-for-australia_img_a3_d92dda798758.png)

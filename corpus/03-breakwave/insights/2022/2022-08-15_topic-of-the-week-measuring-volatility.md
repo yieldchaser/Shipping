@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/12/topic-of-the-week-measuring-volatility"
 tags: ["Volatility", "Shipping", "Rates"]
 images_count: 6
-word_count: 795
+word_count: 801
 source_file: "corpus/03-breakwave/insights/2022/2022-08-15_topic-of-the-week-measuring-volatility.html"
 ---
 

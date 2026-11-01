@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/11/indias-coal-derived-electricity-production-remains-strong"
 tags: ["India", "Coal"]
 images_count: 1
-word_count: 440
+word_count: 441
 source_file: "corpus/03-breakwave/insights/2021/2021-06-16_indias-coal-derived-electricity-production-remains-strong.html"
 ---
 

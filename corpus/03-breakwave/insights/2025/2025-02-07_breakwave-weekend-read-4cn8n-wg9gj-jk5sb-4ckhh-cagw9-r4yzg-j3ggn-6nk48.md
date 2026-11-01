@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/25/breakwave-weekend-read-4cn8n-wg9gj-jk5sb-4ckhh-cagw9-r4yzg-j3ggn-6nk48"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 11
-word_count: 1445
+word_count: 1456
 source_file: "corpus/03-breakwave/insights/2025/2025-02-07_breakwave-weekend-read-4cn8n-wg9gj-jk5sb-4ckhh-cagw9-r4yzg-j3ggn-6nk48.html"
 ---
 
@@ -26,7 +26,7 @@ As the week comes to a close, take a moment to review the key insights from the 
 
 ## Breakwave Shipping Report
 
-**Optimism Drives Futures Higher As Spot Remains Dormant**– The**recent uptick****in optimism**regarding a sharp recovery in spot rates has led to a**rise in the futures curve**over the past week.
+**Optimism Drives Futures Higher As Spot Remains Dormant**– The **recent uptick** **in optimism** regarding a sharp recovery in spot rates has led to a**rise in the futures curve** over the past week.
 
 [Read More](https://www.breakwaveadvisors.com/insights/202524dry-87w52k8-bjj68)
 

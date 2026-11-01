@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/29/more-grain-expected-to-be-exported"
 images_count: 4
-word_count: 442
+word_count: 446
 source_file: "corpus/03-breakwave/insights/2022/2022-08-29_more-grain-expected-to-be-exported.html"
 ---
 

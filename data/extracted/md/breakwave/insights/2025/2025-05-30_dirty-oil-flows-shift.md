@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/30/dirty-oil-flows-shift"
 tags: ["Tankers", "Markets", "Crude"]
 images_count: 11
-word_count: 1829
+word_count: 1840
 source_file: "corpus/03-breakwave/insights/2025/2025-05-30_dirty-oil-flows-shift.html"
 ---
 

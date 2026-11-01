@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/14/brazil-iron-ore-contraction-continues-eventual-china-improvement-likely"
 images_count: 2
-word_count: 514
+word_count: 516
 source_file: "corpus/03-breakwave/insights/2022/2022-07-14_brazil-iron-ore-contraction-continues-eventual-china-improvement-likely.html"
 ---
 

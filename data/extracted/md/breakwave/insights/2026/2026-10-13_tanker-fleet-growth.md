@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/13/tanker-fleet-growth"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 1
-word_count: 734
+word_count: 735
 source_file: "corpus/03-breakwave/insights/2026/2026-10-13_tanker-fleet-growth.html"
 ---
 
@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-10-13_tanker-fleet-growth.h
 
 ---
 
-![Byeirini Diamantara&dimitris Roumeliotis](assets/2026-10-13_tanker-fleet-growth_img_unsplash-image-983knf8azec_cdfb4f4e523c.jpg)
+![Byeirini Diamantara&dimitris Roumeliotis](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-13_tanker-fleet-growth_img_unsplash-image-983knf8azec_cdfb4f4e523c.jpg)
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  

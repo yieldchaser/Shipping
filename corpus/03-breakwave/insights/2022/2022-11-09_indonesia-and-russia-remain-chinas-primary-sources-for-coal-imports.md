@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/9/indonesia-and-russia-remain-chinas-primary-sources-for-coal-imports"
 images_count: 2
-word_count: 347
+word_count: 349
 source_file: "corpus/03-breakwave/insights/2022/2022-11-09_indonesia-and-russia-remain-chinas-primary-sources-for-coal-imports.html"
 ---
 

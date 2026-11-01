@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/1/14/iron-ore-prices-benefitting-from-supply-disruptions-and-lower-chinese-inflation"
 tags: ["Iron Ore", "Supply", "Exports", "Price"]
 images_count: 5
-word_count: 1155
+word_count: 1160
 source_file: "corpus/03-breakwave/insights/2022/2022-01-15_iron-ore-prices-benefitting-from-supply-disruptions-and-lower-chinese-inflation.html"
 ---
 

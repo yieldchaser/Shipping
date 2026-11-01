@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/1/liberation-day-inflation-now-but-gone-tomorrow"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 4
-word_count: 1646
+word_count: 1650
 source_file: "corpus/03-breakwave/insights/2025/2025-04-01_liberation-day-inflation-now-but-gone-tomorrow.html"
 ---
 

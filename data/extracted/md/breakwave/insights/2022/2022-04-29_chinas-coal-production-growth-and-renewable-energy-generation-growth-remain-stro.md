@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/4/28/chinas-coal-production-growth-and-renewable-energy-generation-growth-remain-strong"
 images_count: 6
-word_count: 711
+word_count: 717
 source_file: "corpus/03-breakwave/insights/2022/2022-04-29_chinas-coal-production-growth-and-renewable-energy-generation-growth-remain-stro.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/6/24/the-big-picture-thermal-coal-outlook"
 images_count: 4
-word_count: 1089
+word_count: 1093
 source_file: "corpus/03-breakwave/insights/2022/2022-06-25_the-big-picture-thermal-coal-outlook.html"
 ---
 

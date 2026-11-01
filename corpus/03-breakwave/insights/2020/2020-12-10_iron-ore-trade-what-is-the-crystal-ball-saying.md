@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/12/10/iron-ore-trade-what-is-the-crystal-ball-saying"
 tags: ["Capesize"]
 images_count: 3
-word_count: 768
+word_count: 771
 source_file: "corpus/03-breakwave/insights/2020/2020-12-10_iron-ore-trade-what-is-the-crystal-ball-saying.html"
 ---
 

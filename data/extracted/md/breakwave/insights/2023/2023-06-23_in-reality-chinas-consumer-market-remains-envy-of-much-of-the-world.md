@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/6/23/in-reality-chinas-consumer-market-remains-envy-of-much-of-the-world"
 images_count: 1
-word_count: 392
+word_count: 393
 source_file: "corpus/03-breakwave/insights/2023/2023-06-23_in-reality-chinas-consumer-market-remains-envy-of-much-of-the-world.html"
 ---
 

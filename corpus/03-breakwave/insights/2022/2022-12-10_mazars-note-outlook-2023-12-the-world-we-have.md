@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/12/9/mazars-note-outlook-2023-12-the-world-we-have"
 images_count: 1
-word_count: 924
+word_count: 925
 source_file: "corpus/03-breakwave/insights/2022/2022-12-10_mazars-note-outlook-2023-12-the-world-we-have.html"
 ---
 

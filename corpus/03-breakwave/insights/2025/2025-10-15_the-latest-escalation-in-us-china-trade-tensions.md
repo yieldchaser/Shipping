@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/15/the-latest-escalation-in-us-china-trade-tensions"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 1
-word_count: 702
+word_count: 703
 source_file: "corpus/03-breakwave/insights/2025/2025-10-15_the-latest-escalation-in-us-china-trade-tensions.html"
 ---
 

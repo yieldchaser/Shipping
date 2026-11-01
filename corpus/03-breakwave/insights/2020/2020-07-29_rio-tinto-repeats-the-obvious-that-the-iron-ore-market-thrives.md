@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/7/29/rio-tinto-repeats-the-obvious-that-the-iron-ore-market-thrives"
 tags: ["Shipping", "Rio Tinto", "Capesize"]
 images_count: 1
-word_count: 294
+word_count: 295
 source_file: "corpus/03-breakwave/insights/2020/2020-07-29_rio-tinto-repeats-the-obvious-that-the-iron-ore-market-thrives.html"
 ---
 

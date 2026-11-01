@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/23/demand-recap-2025-3cs-countries-commodities-capacity"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 10
-word_count: 2046
+word_count: 2056
 source_file: "corpus/03-breakwave/insights/2025/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity.html"
 ---
 

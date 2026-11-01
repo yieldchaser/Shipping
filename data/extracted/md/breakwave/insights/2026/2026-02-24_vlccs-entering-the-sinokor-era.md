@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/24/vlccs-entering-the-sinokor-era"
 tags: ["VLCC", "Tankers", "Markets"]
 images_count: 6
-word_count: 1299
+word_count: 1305
 source_file: "corpus/03-breakwave/insights/2026/2026-02-24_vlccs-entering-the-sinokor-era.html"
 ---
 

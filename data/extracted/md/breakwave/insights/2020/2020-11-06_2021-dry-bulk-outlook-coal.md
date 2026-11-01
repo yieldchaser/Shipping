@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/11/6/2021-dry-bulk-outlook-coal"
 tags: ["Coal", "China", "India", "Dry Bulk"]
 images_count: 7
-word_count: 2750
+word_count: 2757
 source_file: "corpus/03-breakwave/insights/2020/2020-11-06_2021-dry-bulk-outlook-coal.html"
 ---
 

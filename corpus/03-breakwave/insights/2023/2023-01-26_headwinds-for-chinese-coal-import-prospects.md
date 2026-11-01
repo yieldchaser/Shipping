@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/1/26/headwinds-for-chinese-coal-import-prospects"
 images_count: 2
-word_count: 357
+word_count: 359
 source_file: "corpus/03-breakwave/insights/2023/2023-01-26_headwinds-for-chinese-coal-import-prospects.html"
 ---
 

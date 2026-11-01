@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/2/strength-in-chinese-coal-imports"
 tags: ["China", "Drybulk", "Coal"]
 images_count: 4
-word_count: 273
+word_count: 277
 source_file: "corpus/03-breakwave/insights/2025/2025-01-02_strength-in-chinese-coal-imports.html"
 ---
 

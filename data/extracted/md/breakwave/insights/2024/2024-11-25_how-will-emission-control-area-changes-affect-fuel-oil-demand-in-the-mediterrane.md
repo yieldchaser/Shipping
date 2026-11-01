@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/25/how-will-emission-control-area-changes-affect-fuel-oil-demand-in-the-mediterranean"
 tags: ["Shipping", "Markets", "Crude"]
 images_count: 3
-word_count: 1006
+word_count: 1009
 source_file: "corpus/03-breakwave/insights/2024/2024-11-25_how-will-emission-control-area-changes-affect-fuel-oil-demand-in-the-mediterrane.html"
 ---
 

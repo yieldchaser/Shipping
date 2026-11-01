@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/23/dry-bulk-flows"
 tags: ["Dry Bulk", "Shipping"]
 images_count: 5
-word_count: 1325
+word_count: 1330
 source_file: "corpus/03-breakwave/insights/2024/2024-05-23_dry-bulk-flows.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-05-23_dry-bulk-flows.html"
 ---
 
 **Dry Weekly Market Monitor - Week 21.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 May 21, 2024
 
 ![Στιγμιότυπο Οθόνης 2024 05 23 101057](assets/2024-05-23_dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f03a2297a254.png)
@@ -31,7 +31,7 @@ May 21, 2024
 
 In the third week of May, there are indications that the Capesize market segment is showing resistance, with rates in the Brazil to North China route seemingly holding firm and not expected to drop before the end of the month. However, there's a growing number of ballasters in Southeast Africa, introducing uncertainty regarding the segment's firmness for the summer season.
 
-A positive development in the iron segment is the demand growth for Capesize ship services, driven by news of Chinese stimulus measures aimed at bolstering the property sector. The week began with[iron ore prices climbing to a three-month high](https://go.signalocean.com/e/983831/s-of-improved-property-demand-/2q6x1d/410333720/h/ZpY_Tkl0lheBod39mK9O1FTRi24uH-W2DhT7pAqOz4A). Iron ore futures surged to their highest level in three months on Monday, with the most-traded September iron ore on China’s Dalian Commodity Exchange (DCE) closing 1.1% higher at 894.50 yuan ($123.72) per metric ton. Earlier in the session, the contract reached as high as 906 yuan, the highest since Feb. 20.
+A positive development in the iron segment is the demand growth for Capesize ship services, driven by news of Chinese stimulus measures aimed at bolstering the property sector. The week began with [iron ore prices climbing to a three-month high](https://go.signalocean.com/e/983831/s-of-improved-property-demand-/2q6x1d/410333720/h/ZpY_Tkl0lheBod39mK9O1FTRi24uH-W2DhT7pAqOz4A). Iron ore futures surged to their highest level in three months on Monday, with the most-traded September iron ore on China’s Dalian Commodity Exchange (DCE) closing 1.1% higher at 894.50 yuan ($123.72) per metric ton. Earlier in the session, the contract reached as high as 906 yuan, the highest since Feb. 20.
 
 China's announcement of "historic" steps on Friday to stabilise its property sector contributed to this upward trend. The central bank is facilitating 1 trillion yuan in additional funding and easing mortgage rules, while local governments are set to purchase "some" apartments. These measures are expected to positively impact iron ore demand and shipping activity in the Capesize segment.
 
@@ -46,10 +46,10 @@ Recent estimates for May suggest a further uptick, with Chinese coal imports fro
 
 In the third week of May, there are signs of a downward trend in the Panamax Cont-FE route, while there seems to be a flat momentum for the Capesize, Supramax and Handysize vessel segments.
 
-- **Capesize**vessel freight rates shipments from Brazil to North China are presently at around $25 per ton, marking a 2% increase from the previous week. However, these rates are currently $7 per ton lower than the peak observed in mid-March0.
-- **Panamax**vessel freight rates from the Continent to the Far East stood around $40 per ton. Recent data indicates a 20% surge compared to levels observed a year ago.
-- **Supramax**vessel freight rates on the Indo-ECI route held levels around $12 per ton, marking a 39% increase compared to a comparable week from a year ago.
-- **Handysize**freight rates for the NOPAC Far East route remained consistent with the sentiment of the previous week, standing at approximately $35 per ton. This marks a notable 20% increase compared to levels observed a year ago.
+- **Capesize** vessel freight rates shipments from Brazil to North China are presently at around $25 per ton, marking a 2% increase from the previous week. However, these rates are currently $7 per ton lower than the peak observed in mid-March0.
+- **Panamax** vessel freight rates from the Continent to the Far East stood around $40 per ton. Recent data indicates a 20% surge compared to levels observed a year ago.
+- **Supramax** vessel freight rates on the Indo-ECI route held levels around $12 per ton, marking a 39% increase compared to a comparable week from a year ago.
+- **Handysize** freight rates for the NOPAC Far East route remained consistent with the sentiment of the previous week, standing at approximately $35 per ton. This marks a notable 20% increase compared to levels observed a year ago.
 
 ![Στιγμιότυπο Οθόνης 2024 05 23 101501](assets/2024-05-23_dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_010519186c5a.png)
 

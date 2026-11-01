@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/7/28/chinas-consumption-remains-stronger-than-consumption-in-many-other-nations"
 images_count: 1
-word_count: 321
+word_count: 322
 source_file: "corpus/03-breakwave/insights/2023/2023-07-28_chinas-consumption-remains-stronger-than-consumption-in-many-other-nations.html"
 ---
 

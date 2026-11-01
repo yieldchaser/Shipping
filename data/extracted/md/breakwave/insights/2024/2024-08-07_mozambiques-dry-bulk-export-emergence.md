@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/7/mozambiques-dry-bulk-export-emergence"
 tags: ["Drybulk", "Coal", "Shipping"]
 images_count: 2
-word_count: 536
+word_count: 538
 source_file: "corpus/03-breakwave/insights/2024/2024-08-07_mozambiques-dry-bulk-export-emergence.html"
 ---
 

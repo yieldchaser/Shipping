@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/29/chinas-coal-imports-from-russia-continue-to-climb-as-predicted"
 images_count: 2
-word_count: 465
+word_count: 467
 source_file: "corpus/03-breakwave/insights/2022/2022-08-01_chinas-coal-imports-from-russia-continue-to-climb-as-predicted.html"
 ---
 

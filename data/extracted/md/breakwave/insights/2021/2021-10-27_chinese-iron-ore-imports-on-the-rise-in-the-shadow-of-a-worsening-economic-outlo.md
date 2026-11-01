@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/27/chinese-iron-ore-imports-on-the-rise-in-the-shadow-of-a-worsening-economic-outlook"
 tags: ["China", "Economy", "Imports"]
 images_count: 2
-word_count: 829
+word_count: 831
 source_file: "corpus/03-breakwave/insights/2021/2021-10-27_chinese-iron-ore-imports-on-the-rise-in-the-shadow-of-a-worsening-economic-outlo.html"
 ---
 
@@ -30,14 +30,14 @@ There are also some suggestions that President Xi may consider a broader restruc
 
 It is perhaps surprising to see iron ore imports increase against such a backdrop of growing headwinds for the Chinese economy. Nevertheless, according to data from Oceanbolt, last week saw a record 28.7 million tonnes of iron ore discharged in Chinese ports. The robust volumes during the month to date indicate that the whole month will only narrowly miss last year's record levels. With a week left of October, month to date volumes are also only marginally below the total for September
 
-![Ch1](assets/2021-10-27_chinese-iron-ore-imports-on-the-rise-in-the-shadow-of-a-worsening-economic-outlo_img_ch1_538cdc34c333.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-27_chinese-iron-ore-imports-on-the-rise-in-the-shadow-of-a-worsening-economic-outlo_img_ch1_538cdc34c333.png)
 
 > **Figure 1: Ch1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-27_chinese-iron-ore-imports-on-the-rise-in-the-shadow-of-a-worsening-economic-outlo_img_ch1_538cdc34c333.png)
 
 While October often is a strong month for Chinese iron ore imports, the recent clampdown on the steel industry and power shortages would imply a softening demand for the commodity from the Chinese buyers. However, some of the increases in discharged iron ore may be due to congestion clearing somewhat around the Chinese ports and more vessels discharging their cargo. In recent weeks, the number of ships waiting off the Chinese coast and the waiting times has been steadily decreasing. While the number of dry bulkers at anchor remains high historically, current numbers are the lowest since July.
 
-![Ch2](assets/2021-10-27_chinese-iron-ore-imports-on-the-rise-in-the-shadow-of-a-worsening-economic-outlo_img_ch2_0305753997c2.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-27_chinese-iron-ore-imports-on-the-rise-in-the-shadow-of-a-worsening-economic-outlo_img_ch2_0305753997c2.png)
 
 > **Figure 2: Ch2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-27_chinese-iron-ore-imports-on-the-rise-in-the-shadow-of-a-worsening-economic-outlo_img_ch2_0305753997c2.png)

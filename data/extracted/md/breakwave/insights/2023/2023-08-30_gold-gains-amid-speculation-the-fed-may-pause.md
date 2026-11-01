@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/8/30/gold-gains-amid-speculation-the-fed-may-pause"
 images_count: 1
-word_count: 546
+word_count: 547
 source_file: "corpus/03-breakwave/insights/2023/2023-08-30_gold-gains-amid-speculation-the-fed-may-pause.html"
 ---
 

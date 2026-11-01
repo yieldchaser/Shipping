@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/28/oil-selloff-continues-over-peace-deal-optimism"
 tags: ["Crude", "Commodities", "Shipping"]
 images_count: 2
-word_count: 816
+word_count: 818
 source_file: "corpus/03-breakwave/insights/2026/2026-05-28_oil-selloff-continues-over-peace-deal-optimism.html"
 ---
 
@@ -31,7 +31,7 @@ The energy sector fell on reports the US and Iran are close to an interim peace 
 
 ### Market Commentary
 
-**Crude oil**prices sold off, as markets became increasingly convinced that a US-Iran deal was imminent. The confidence was triggered by an Iranian state television report on the draft interim peace agreement, which said maritime traffic through the Strait of Hormuz could return to normal within a month of a pact coming into effect. The US denied the report, and President Trump said he was not satisfied with negotiations to end the three-month long conflict. Traders have become increasingly cautious about holding long exposure to the oil market ahead of headlines showing progress in ending the conflict. This has seen a wave of selling in recent days, exacerbated by thin trading in Brent’s July contract, which is due to expire at the end of the week.
+**Crude oil** prices sold off, as markets became increasingly convinced that a US-Iran deal was imminent. The confidence was triggered by an Iranian state television report on the draft interim peace agreement, which said maritime traffic through the Strait of Hormuz could return to normal within a month of a pact coming into effect. The US denied the report, and President Trump said he was not satisfied with negotiations to end the three-month long conflict. Traders have become increasingly cautious about holding long exposure to the oil market ahead of headlines showing progress in ending the conflict. This has seen a wave of selling in recent days, exacerbated by thin trading in Brent’s July contract, which is due to expire at the end of the week.
 
 Oil supply remains constrained, and key sticking points have yet to be resolved. Iran appears determined to see its USD24bn of frozen assets released and wants to maintain control of the Strait of Hormuz. That is a red line for the US, with Trump saying that no one nation should control the strait, but the US would “watch over it”. He also downplayed the possibility of Iranian sanctions relief, saying “we’re not talking about any easing of sanctions, no money, no nothing”.
 

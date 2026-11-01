@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/3/6/mazars-comment"
 images_count: 1
-word_count: 1742
+word_count: 1743
 source_file: "corpus/03-breakwave/insights/2023/2023-03-06_mazars-comment.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/2/15/gibsons-tanker-market-report"
 images_count: 1
-word_count: 568
+word_count: 569
 source_file: "corpus/03-breakwave/insights/2023/2023-02-15_gibsons-tanker-market-report.html"
 ---
 

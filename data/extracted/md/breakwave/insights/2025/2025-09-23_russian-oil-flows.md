@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/22/russian-oil-flows"
 tags: ["Tankers", "Crude", "Markets"]
 images_count: 12
-word_count: 1399
+word_count: 1411
 source_file: "corpus/03-breakwave/insights/2025/2025-09-23_russian-oil-flows.html"
 ---
 

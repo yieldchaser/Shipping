@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/6/14/metals-fall-sharply-amid-a-broader-risk-off-across-markets"
 images_count: 1
-word_count: 756
+word_count: 757
 source_file: "corpus/03-breakwave/insights/2022/2022-06-14_metals-fall-sharply-amid-a-broader-risk-off-across-markets.html"
 ---
 

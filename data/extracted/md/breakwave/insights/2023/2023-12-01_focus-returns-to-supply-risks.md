@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/11/30/focus-returns-to-supply-risks"
 images_count: 1
-word_count: 565
+word_count: 566
 source_file: "corpus/03-breakwave/insights/2023/2023-12-01_focus-returns-to-supply-risks.html"
 ---
 

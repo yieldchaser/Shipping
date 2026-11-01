@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/9/5/capitalism-101-watch-the-fed-buy-the-dips"
 images_count: 3
-word_count: 1034
+word_count: 1037
 source_file: "corpus/03-breakwave/insights/2023/2023-09-05_capitalism-101-watch-the-fed-buy-the-dips.html"
 ---
 
@@ -34,7 +34,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-09-05_capitalism-101-watch-
 > **Figure 1: Market Chart 1**  
 > **Interactive Data & Source:** [Searchenginejournal](https://www.searchenginejournal.com/is-chatgpt-getting-dumber-usage-drops-as-users-complain/491659/#close) | [Local Asset](assets/2023-09-05_capitalism-101-watch-the-fed-buy-the-dips_img_image00228429_f995fc5b79d6.jpg)
 
-Despite robots doing much of the work these days, trading volumes in the summer were quite muted. Their human masters, it seems, don’t quite trust them with the shop while they are away. Why would they, by the way? ChatGPT, the face of the AI revolution, is losing subscribers and some of its[lustre](https://www.searchenginejournal.com/is-chatgpt-getting-dumber-usage-drops-as-users-complain/491659/#close), as users complain that the model gives more wrong answers. To be sure, OpenAI says that’s not the case, they are just using it more and noticing stuff they didn’t before. Others say that the world experienced through the internet and social media is bound to make any intelligence dumber. I’m no expert either way (primarily because no human would admit they have gotten dumber by being glued to their phone), but it seems that we are at the “peak of inflated expectations”, the phase where the tech hype is wearing off and practical realities set in.
+Despite robots doing much of the work these days, trading volumes in the summer were quite muted. Their human masters, it seems, don’t quite trust them with the shop while they are away. Why would they, by the way? ChatGPT, the face of the AI revolution, is losing subscribers and some of its [lustre](https://www.searchenginejournal.com/is-chatgpt-getting-dumber-usage-drops-as-users-complain/491659/#close), as users complain that the model gives more wrong answers. To be sure, OpenAI says that’s not the case, they are just using it more and noticing stuff they didn’t before. Others say that the world experienced through the internet and social media is bound to make any intelligence dumber. I’m no expert either way (primarily because no human would admit they have gotten dumber by being glued to their phone), but it seems that we are at the “peak of inflated expectations”, the phase where the tech hype is wearing off and practical realities set in.
 
 ![Market Chart 2](assets/2023-09-05_capitalism-101-watch-the-fed-buy-the-dips_img_image00328129_3d5dddb4c579.png)
 
@@ -43,7 +43,7 @@ Despite robots doing much of the work these days, trading volumes in the summer 
 
 But I digress. As we approach the final third of the year, let us look at where we are and how we got here. The first half was supposed to be bleak. Yet global economic growth far outperformed expectations. This was due to China reopening and a long-time needed inventory buildup. Consumers were also much more resilient than anticipated. Markets also performed very well, as the AI craze gripped traders until the summer, so press headlines added to the optimism.
 
-Yet now the situation is reversing. China is slowing down significantly. Although we don’t know by how much (the Chinese[are telling us less and less](https://www.bbc.com/news/business-66506132)about all that), we are seeing[more stimulus](assets/2023-09-05_capitalism-101-watch-the-fed-buy-the-dips_index_621e3e57420e.html)to keep the real estate sector afloat. Meanwhile, in the US, employment data[deteriorated](https://www.ft.com/content/203c925e-3f65-44b1-b3aa-a86caa416d0c)somewhat, the inventory buildup is done, and irrational consumption[may be on its last legs,](assets/2023-09-05_capitalism-101-watch-the-fed-buy-the-dips_high-rates-will-lead-to-a-consumer-l_bead5f1e076d.html)according to Wall Street legend David Rosenberg (and also our own research). And as we said, the AI craze is probably over for markets. Now the time has come for capital expenditure to meet bloated investor expectations.
+Yet now the situation is reversing. China is slowing down significantly. Although we don’t know by how much (the Chinese [are telling us less and less](https://www.bbc.com/news/business-66506132) about all that), we are seeing [more stimulus](assets/2023-09-05_capitalism-101-watch-the-fed-buy-the-dips_index_621e3e57420e.html) to keep the real estate sector afloat. Meanwhile, in the US, employment data [deteriorated](https://www.ft.com/content/203c925e-3f65-44b1-b3aa-a86caa416d0c) somewhat, the inventory buildup is done, and irrational consumption [may be on its last legs,](assets/2023-09-05_capitalism-101-watch-the-fed-buy-the-dips_high-rates-will-lead-to-a-consumer-l_bead5f1e076d.html)according to Wall Street legend David Rosenberg (and also our own research). And as we said, the AI craze is probably over for markets. Now the time has come for capital expenditure to meet bloated investor expectations.
 
 If September is usually a bad month for stocks, we can see how the immediate data may help uphold the pattern.
 

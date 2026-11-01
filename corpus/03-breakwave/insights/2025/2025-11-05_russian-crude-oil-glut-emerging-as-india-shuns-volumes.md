@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/5/russian-crude-oil-glut-emerging-as-india-shuns-volumes"
 tags: ["Ankers", "Crude", "Markets"]
 images_count: 2
-word_count: 787
+word_count: 789
 source_file: "corpus/03-breakwave/insights/2025/2025-11-05_russian-crude-oil-glut-emerging-as-india-shuns-volumes.html"
 ---
 

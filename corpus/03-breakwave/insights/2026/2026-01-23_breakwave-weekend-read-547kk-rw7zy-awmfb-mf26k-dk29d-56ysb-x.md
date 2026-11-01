@@ -26,15 +26,15 @@ source_file: "corpus/03-breakwave/insights/2026/2026-01-23_breakwave-weekend-rea
 
 ## Highlight of the Week
 
-**John Kartsonas**, Founder and Managing partner of**Breakwave Advisors,**on**Crude delights?:**Tanker market fundamentals remain**supportive**.
+**John Kartsonas**, Founder and Managing partner of **Breakwave Advisors,**on **Crude delights?:**Tanker market fundamentals remain **supportive**.
 
-Click below and listen to the latest**TradeWinds Wavelength**podcast,*Crude delights?,*from**1:03 to 5:40**.
+Click below and listen to the latest **TradeWinds Wavelength** podcast,*Crude delights?,*from**1:03 to 5:40**.
 
 [Click Here](https://shows.acast.com/65e16a5bcedd730017a1ff82/episodes/696a2339f0f57e95a0cc9bec?)
 
 ## Breakwave Shipping Report
 
-**Spot Rates Bounce as Capesize Market Finds Short-Term Bottom**– Following a dramatic**64% decline**in spot rates since early December, which saw the Capesize Index lose approximately 28,000 points, the market appears to have reached a tentative bottom.
+**Spot Rates Bounce as Capesize Market Finds Short-Term Bottom**– Following a dramatic **64% decline** in spot rates since early December, which saw the Capesize Index lose approximately 28,000 points, the market appears to have reached a tentative bottom.
 
 [Read More](https://www.breakwaveadvisors.com/insights/162026db-reportjukl47o85)
 

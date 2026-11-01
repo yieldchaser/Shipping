@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/1/26/divergence-in-clothing-purchases-and-furniture-purchases-in-china"
 images_count: 3
-word_count: 442
+word_count: 445
 source_file: "corpus/03-breakwave/insights/2024/2024-01-26_divergence-in-clothing-purchases-and-furniture-purchases-in-china.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/20/the-trans-pacific-trade-war-is-heating-up-again"
 tags: ["Usa", "China", "Tradewar"]
 images_count: 1
-word_count: 882
+word_count: 883
 source_file: "corpus/03-breakwave/insights/2021/2021-07-20_the-trans-pacific-trade-war-is-heating-up-again.html"
 ---
 

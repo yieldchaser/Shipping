@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/14/why-are-we-starting-the-year-with-a-bond-rout"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 4
-word_count: 1346
+word_count: 1350
 source_file: "corpus/03-breakwave/insights/2025/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout.html"
 ---
 

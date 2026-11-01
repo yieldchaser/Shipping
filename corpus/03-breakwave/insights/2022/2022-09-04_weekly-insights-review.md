@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/9/4/weekly-insights-review"
 images_count: 7
-word_count: 857
+word_count: 864
 source_file: "corpus/03-breakwave/insights/2022/2022-09-04_weekly-insights-review.html"
 ---
 
@@ -101,7 +101,7 @@ There had been a shortage of power supply caused by high temperatures and worsen
 ## Where Are Diesel Cracks Heading To?
 
 We try to put some structure to this highly complex question, comparing the evident upside for diesel from power and heat generation to already obvious supply and demand-side adjustments
-[Read More](https://www.breakwaveadvisors.com/insights/2022/8/31/where-are-diesel-cracks-heading-to)
+ [Read More](https://www.breakwaveadvisors.com/insights/2022/8/31/where-are-diesel-cracks-heading-to)
 
 ![Unsplash Image Zpx0k6hdbc4](assets/2022-09-04_weekly-insights-review_img_unsplash-image-zpx0k6hdbc4_8f2e71035deb.jpg)
 

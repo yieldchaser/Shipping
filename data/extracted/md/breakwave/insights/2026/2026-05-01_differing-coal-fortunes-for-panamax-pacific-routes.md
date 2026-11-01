@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/4/30/differing-coal-fortunes-for-panamax-pacific-routes"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 5
-word_count: 1225
+word_count: 1230
 source_file: "corpus/03-breakwave/insights/2026/2026-05-01_differing-coal-fortunes-for-panamax-pacific-routes.html"
 ---
 

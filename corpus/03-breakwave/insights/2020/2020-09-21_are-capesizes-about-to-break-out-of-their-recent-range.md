@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/9/21/are-capesizes-about-to-break-out-of-their-recent-range"
 tags: ["Capesize", "Dry Bulk"]
 images_count: 3
-word_count: 625
+word_count: 628
 source_file: "corpus/03-breakwave/insights/2020/2020-09-21_are-capesizes-about-to-break-out-of-their-recent-range.html"
 ---
 
@@ -39,7 +39,7 @@ China’s demand for steel also fundamentally supports improving flows over the 
 > **Figure 2: Chian Steel Production**  
 > **Interactive Data & Source:** [Ssyonline](https://www.ssyonline.com/) | [Local Asset](assets/2020-09-21_are-capesizes-about-to-break-out-of-their-recent-range_img_chiansteelproduction_bf1097322bd9.jpg)
 
-Although Capesize futures have also remained rangebound, there has been a more positive bias throughout last week and near dated prices have been slowly drifting higher. So far nothing has really materialized in the actual physical market, but when such optimism is reflected in the freight futures market, it is often a precursor of an upward move in spot rates. The Capesize ballast list (Capesize vessels steaming from Asia towards the Atlantic) is the lowest it has been for at least a year now according to[SSY](https://www.ssyonline.com/), which is quite promising for further tightening the Capesize market in the Atlantic region.
+Although Capesize futures have also remained rangebound, there has been a more positive bias throughout last week and near dated prices have been slowly drifting higher. So far nothing has really materialized in the actual physical market, but when such optimism is reflected in the freight futures market, it is often a precursor of an upward move in spot rates. The Capesize ballast list (Capesize vessels steaming from Asia towards the Atlantic) is the lowest it has been for at least a year now according to [SSY](https://www.ssyonline.com/), which is quite promising for further tightening the Capesize market in the Atlantic region.
 
 ![Source: Ssy](assets/2020-09-21_are-capesizes-about-to-break-out-of-their-recent-range_img_ssyballastlist_d3d8265d6b47.jpeg)
 

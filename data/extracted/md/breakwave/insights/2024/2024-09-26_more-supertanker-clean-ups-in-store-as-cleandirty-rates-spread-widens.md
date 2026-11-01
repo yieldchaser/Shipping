@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/26/more-supertanker-clean-ups-in-store-as-cleandirty-rates-spread-widens"
 tags: ["Tankers", "Shipping", "Crude"]
 images_count: 4
-word_count: 1299
+word_count: 1303
 source_file: "corpus/03-breakwave/insights/2024/2024-09-26_more-supertanker-clean-ups-in-store-as-cleandirty-rates-spread-widens.html"
 ---
 

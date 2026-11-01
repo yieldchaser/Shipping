@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/12/19/doric-weekly-market-insight"
 images_count: 2
-word_count: 668
+word_count: 670
 source_file: "corpus/03-breakwave/insights/2022/2022-12-19_doric-weekly-market-insight.html"
 ---
 

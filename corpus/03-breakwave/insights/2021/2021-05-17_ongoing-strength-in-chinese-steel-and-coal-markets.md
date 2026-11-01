@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/17/ongoing-strength-in-chinese-steel-and-coal-markets"
 tags: ["China", "Steel"]
 images_count: 1
-word_count: 553
+word_count: 554
 source_file: "corpus/03-breakwave/insights/2021/2021-05-17_ongoing-strength-in-chinese-steel-and-coal-markets.html"
 ---
 

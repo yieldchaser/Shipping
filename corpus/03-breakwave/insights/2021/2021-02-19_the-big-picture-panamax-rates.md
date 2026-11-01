@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/18/the-big-picture-panamax-rates"
 tags: ["Panamax", "Capesize", "Coal", "Grains"]
 images_count: 4
-word_count: 1277
+word_count: 1281
 source_file: "corpus/03-breakwave/insights/2021/2021-02-19_the-big-picture-panamax-rates.html"
 ---
 

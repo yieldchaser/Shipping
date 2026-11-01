@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/4/coal-demand-remains-strong-with-decarbonization-goals-yet-to-make-an-impact"
 tags: ["China", "Decarbonization", "Coal"]
 images_count: 2
-word_count: 850
+word_count: 852
 source_file: "corpus/03-breakwave/insights/2021/2021-05-04_coal-demand-remains-strong-with-decarbonization-goals-yet-to-make-an-impact.html"
 ---
 

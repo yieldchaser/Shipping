@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/6/this-is-a-good-us-economy"
 tags: ["Economy", "Markets"]
 images_count: 12
-word_count: 1868
+word_count: 1880
 source_file: "corpus/03-breakwave/insights/2024/2024-02-06_this-is-a-good-us-economy.html"
 ---
 

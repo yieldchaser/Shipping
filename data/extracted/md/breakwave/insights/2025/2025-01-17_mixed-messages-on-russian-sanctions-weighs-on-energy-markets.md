@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/17/mixed-messages-on-russian-sanctions-weighs-on-energy-markets"
 tags: ["Shipping", "Markets", "Commodities"]
 images_count: 2
-word_count: 731
+word_count: 733
 source_file: "corpus/03-breakwave/insights/2025/2025-01-17_mixed-messages-on-russian-sanctions-weighs-on-energy-markets.html"
 ---
 

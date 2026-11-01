@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/7/relations-between-australia-and-china-as-frozen-as-the-northern-hemisphere"
 tags: ["China", "Trade"]
 images_count: 2
-word_count: 643
+word_count: 645
 source_file: "corpus/03-breakwave/insights/2021/2021-01-08_relations-between-australia-and-china-as-frozen-as-the-northern-hemisphere.html"
 ---
 

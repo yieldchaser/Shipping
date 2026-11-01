@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/12/9/chinese-imports-on-the-rise-despite-signs-of-an-economic-slowdown"
 tags: ["Economy", "Imports", "China"]
 images_count: 1
-word_count: 863
+word_count: 864
 source_file: "corpus/03-breakwave/insights/2021/2021-12-09_chinese-imports-on-the-rise-despite-signs-of-an-economic-slowdown.html"
 ---
 
@@ -32,7 +32,7 @@ Despite the darkening outlook for the Chinese economy, its international trade c
 
 The volumes of imported dry bulk commodities have also remained strong in the first eleven months of the year. Despite the Chinese authorities’ clampdown on many commodity trades during much of the year, aggregate imports could be on course for yet another annual record. According to cargo tracking data from Oceanbolt, 1.9 billion tonnes of dry bulk commodities were discharged in Chinese between January and November, some 80 million tonnes, or four per cent, more than the same period last year. The first week of December also showed robust volumes, suggesting that last year’s record remains firmly under threat.
 
-![Ch1](assets/2021-12-09_chinese-imports-on-the-rise-despite-signs-of-an-economic-slowdown_img_ch1_62bd3986eca2.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-09_chinese-imports-on-the-rise-despite-signs-of-an-economic-slowdown_img_ch1_62bd3986eca2.png)
 
 > **Figure 1: Ch1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-09_chinese-imports-on-the-rise-despite-signs-of-an-economic-slowdown_img_ch1_62bd3986eca2.png)

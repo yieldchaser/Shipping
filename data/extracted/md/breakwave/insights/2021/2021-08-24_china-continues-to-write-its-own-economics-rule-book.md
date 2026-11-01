@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/24/china-continues-to-write-its-own-economics-rule-book"
 tags: ["China", "Shipping", "Economy"]
 images_count: 4
-word_count: 1194
+word_count: 1198
 source_file: "corpus/03-breakwave/insights/2021/2021-08-24_china-continues-to-write-its-own-economics-rule-book.html"
 ---
 
@@ -26,7 +26,7 @@ After “dual-circulation” comes “cross-cyclical” as a motto for Beijing�
 
 The recent move by the Chinese central bank, which caught many pundits off-guard, to lower the reserve requirement ratio for the banking system to increase liquidity, is likely to be seen in hindsight as the first policy under the new scheme. Especially in light of policies for controlling rising real estate prices remaining in place at the same time. There are also suggestions that the policy shift will allow for greater amounts of private capital to be invested in the supply side of the economy, where quality investors have been in short supply. The disappointing recovery for the domestic economy after the pandemic has increased the country’s dependence on the export industry, despite the current five-year plan aiming for the opposite effect, and is likely to be the cause of the new policy initiative.
 
-![Unsplash Image Gy Dn08336u](assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_unsplash-image-gy-dn08336u_986a0f597bc7.jpg)
+![Unsplash Image Gy Dn08336u](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_unsplash-image-gy-dn08336u_986a0f597bc7.jpg)
 
 > **Figure 1: Unsplash Image Gy Dn08336u**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_unsplash-image-gy-dn08336u_986a0f597bc7.jpg)
@@ -37,7 +37,7 @@ News that China is looking to merge two of its largest steel mills, Ansteel and 
 
 ### Steel Rebar– Shanghai Futures Exchange (Cny/tonne)
 
-![A1](assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_a1_1b14fe53dab4.jpg)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_a1_1b14fe53dab4.jpg)
 
 > **Figure 2: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_a1_1b14fe53dab4.jpg)
@@ -46,14 +46,14 @@ There has been much focus on Chinese attempts to limit surging demand for many c
 
 With the double impact of steel output restrictions and a resurgent pandemic, Chinese seaborne iron ore imports dropped in July by over ten per cent compared to the same month last year and were marginally below the volumes recorded in 2019 and 2018 as well. According to cargo tracking data from Oceanbolt, Chinese imports have recovered during the current month and, assuming a degree of linearity in the deliveries, could be on track for a new record for August at around 106 million tonnes.
 
-![A2](assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_a2_c6946f82089b.png)
+![A2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_a2_c6946f82089b.png)
 
 > **Figure 3: A2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_a2_c6946f82089b.png)
 
 Much to the delight of Capesize owners, Brazilian iron ore exports are continuing to recover and large parts of the increasing volumes are finding their way to the Chinese shores. The volumes shipped from Brazilian ports during August look set to be marginally below last month’s and also lower than in the same month in previous years. Nevertheless, this month’s exports can be expected to be well above 30 million tonnes. A level that is likely to provide continued support for freight rates in the larger tonnage segment.
 
-![A3](assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_a3_9e8d425f10da.png)
+![A3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_a3_9e8d425f10da.png)
 
 > **Figure 4: A3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_a3_9e8d425f10da.png)

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/9/tanker-demand-growth"
 tags: ["Shipping", "Tankers", "Crude"]
 images_count: 10
-word_count: 1511
+word_count: 1521
 source_file: "corpus/03-breakwave/insights/2024/2024-08-09_tanker-demand-growth.html"
 ---
 

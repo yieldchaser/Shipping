@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/10/interpreting-the-recent-strength-in-chinese-trade"
 tags: ["China", "Economy", "Shipping"]
 images_count: 2
-word_count: 1176
+word_count: 1178
 source_file: "corpus/03-breakwave/insights/2025/2025-08-10_interpreting-the-recent-strength-in-chinese-trade.html"
 ---
 

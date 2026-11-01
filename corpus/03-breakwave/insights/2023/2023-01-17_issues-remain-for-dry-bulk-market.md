@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/1/17/issues-remain-for-dry-bulk-market"
 images_count: 2
-word_count: 497
+word_count: 499
 source_file: "corpus/03-breakwave/insights/2023/2023-01-17_issues-remain-for-dry-bulk-market.html"
 ---
 

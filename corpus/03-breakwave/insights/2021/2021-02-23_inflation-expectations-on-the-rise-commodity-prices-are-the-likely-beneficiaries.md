@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/22/inflation-expectations-on-the-rise-commodity-prices-are-the-likely-beneficiaries"
 tags: ["Global Economy"]
 images_count: 2
-word_count: 650
+word_count: 652
 source_file: "corpus/03-breakwave/insights/2021/2021-02-23_inflation-expectations-on-the-rise-commodity-prices-are-the-likely-beneficiaries.html"
 ---
 

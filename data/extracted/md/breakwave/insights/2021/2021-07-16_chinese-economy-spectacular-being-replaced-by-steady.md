@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/16/chinese-economy-spectacular-being-replaced-by-steady"
 tags: ["China", "Commodities", "Economy"]
 images_count: 2
-word_count: 1007
+word_count: 1009
 source_file: "corpus/03-breakwave/insights/2021/2021-07-16_chinese-economy-spectacular-being-replaced-by-steady.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-07-16_chinese-economy-spect
 
 The economic data coming out of China in recent weeks have painted a rather mixed picture of the current state of the Chinese economy. The GDP growth for the second quarter fell short of the consensus expectations of 8.1 per cent, prompting some pundits to question the momentum of the economy as we enter the second half of the year. While the second-quarter growth disappointed many observers, the 7.9 per cent growth achieved will allow China to comfortably meet its annual target of a GDP expansion of more than six per cent. That the Chinese economy can continue to grow at the spectacular rates seen in recent months seemed a bit farfetched, especially as base effects accounted for a large portion of the previous quarters’ strong growth and are now all but exhausted. A return to more normal Chinese growth levels is likely to be the case, which will also put less upward pressure on commodity prices with reduced inflationary pressures in the economy as a result. Additionally, a somewhat more sedate pace of economic expansion is likely to please the leadership in Beijing. One of the central goals of the current five-year plan is to maintain sustainable and stable growth, rather than seeking spectacular growth at any cost.
 
-![A1](assets/2021-07-16_chinese-economy-spectacular-being-replaced-by-steady_img_a1_56dc9ee35cc2.png)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-16_chinese-economy-spectacular-being-replaced-by-steady_img_a1_56dc9ee35cc2.png)
 
 > **Figure 1: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-16_chinese-economy-spectacular-being-replaced-by-steady_img_a1_56dc9ee35cc2.png)
@@ -39,7 +39,7 @@ Alongside the economic data, it has been widely reported that Chinese iron ore i
 
 Beyond China, demand for industrial commodities is likely to improve, with more and more economies regaining their momentum as vaccination rates are rising and extensive stimulus programmes are starting to take effect. The world’s second and third largest importers of seaborne iron ore, Japan and South Korea, will also add to the tonnage demand. According to data from Oceanbolt, South Korean imports of iron ore have since the end of last year been stable around the pre-pandemic levels, while Japanese volumes are still in the recovery phase. The third quarter has also started reasonably strong, with July looking set to match the 8.2 million tonnes imported by Japan in June. If that level is achieved it would represent a year-on-year increase of two million tonnes or 32 per cent.
 
-![A2.pnj](assets/2021-07-16_chinese-economy-spectacular-being-replaced-by-steady_img_a2pnj_71c1c82c181d.png)
+![A2.pnj](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-16_chinese-economy-spectacular-being-replaced-by-steady_img_a2pnj_71c1c82c181d.png)
 
 > **Figure 2: A2.pnj**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-16_chinese-economy-spectacular-being-replaced-by-steady_img_a2pnj_71c1c82c181d.png)

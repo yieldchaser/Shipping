@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/3/8/sentiment-dented-by-hawkish-comments-from-fed"
 images_count: 1
-word_count: 559
+word_count: 560
 source_file: "corpus/03-breakwave/insights/2023/2023-03-08_sentiment-dented-by-hawkish-comments-from-fed.html"
 ---
 
@@ -36,6 +36,6 @@ Hawkish comments from central bankers weighed on sentiment across markets. The s
 
 **Base metals** headed lower amid mixed signals from China. Imports of key commodities for the first two months of the year showed an uneven recovery in demand. Mined **copper** ore imports increase but inflows of refined copper declined. Supply side issues could also ease. The Peruvian government expects shipments of copper and zinc will normalise with days, following months of social unrest prompted by the impeachment of former President Pedro Castillo. MMG Ltd’s Las Bambas copper mines could restart shipments by the end of the week.
 
-**Iron ore**futures gained amid optimism steel demand is picking up ahead of China’s peak construction period. Rio Tinto said it is seeing good demand from China as COVID-19 restrictions are eased. Imports of iron ore rose 7.3% y/y in Jan-Feb, as steel mills look to restock as warmer weather encourages construction work.
+**Iron ore** futures gained amid optimism steel demand is picking up ahead of China’s peak construction period. Rio Tinto said it is seeing good demand from China as COVID-19 restrictions are eased. Imports of iron ore rose 7.3% y/y in Jan-Feb, as steel mills look to restock as warmer weather encourages construction work.
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)

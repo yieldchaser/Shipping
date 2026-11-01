@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/7/27/structural-checkmate"
 tags: ["Crude", "Geopolitics", "Tankers"]
 images_count: 2
-word_count: 920
+word_count: 922
 source_file: "corpus/03-breakwave/insights/2026/2026-07-27_structural-checkmate.html"
 ---
 

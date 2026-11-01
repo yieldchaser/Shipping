@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/5/iran-usaisrael-conflict-impact-on-bulk"
 tags: ["Shipping", "Markets", "Geopolitics"]
 images_count: 5
-word_count: 1118
+word_count: 1123
 source_file: "corpus/03-breakwave/insights/2026/2026-03-05_iran-usaisrael-conflict-impact-on-bulk.html"
 ---
 

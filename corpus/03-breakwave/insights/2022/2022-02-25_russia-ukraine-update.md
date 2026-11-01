@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/2/25/russia-ukraine-update"
 tags: ["Ukraine", "Russia", "Shipping"]
 images_count: 1
-word_count: 872
+word_count: 873
 source_file: "corpus/03-breakwave/insights/2022/2022-02-25_russia-ukraine-update.html"
 ---
 

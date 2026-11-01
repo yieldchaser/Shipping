@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/11/10/drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on"
 tags: ["Shipping", "Freight", "Dry Bulk"]
 images_count: 11
-word_count: 2436
+word_count: 2447
 source_file: "corpus/03-breakwave/insights/2021/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on.html"
 ---
 

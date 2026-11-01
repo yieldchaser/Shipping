@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/2/india-becoming-more-of-an-issue-for-dry-bulk"
 tags: ["India", "Coal", "Markets"]
 images_count: 1
-word_count: 269
+word_count: 270
 source_file: "corpus/03-breakwave/insights/2026/2026-03-02_india-becoming-more-of-an-issue-for-dry-bulk.html"
 ---
 

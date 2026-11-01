@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/7/11/template-breakwave-bi-weekly-tanker-report-july-11-2023-ndecc"
 images_count: 3
-word_count: 678
+word_count: 681
 source_file: "corpus/03-breakwave/insights/2023/2023-07-18_template-breakwave-bi-weekly-tanker-report-july-11-2023-ndecc.html"
 ---
 

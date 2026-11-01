@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/26/vlcc-tonne-days"
 tags: ["Tankers", "Markets", "Shipping"]
 images_count: 10
-word_count: 1492
+word_count: 1502
 source_file: "corpus/03-breakwave/insights/2025/2025-05-26_vlcc-tonne-days.html"
 ---
 

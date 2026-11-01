@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/15/iron-ore-was-one-of-the-session-losers"
 tags: ["Markets", "Shipping", "Commodities"]
 images_count: 1
-word_count: 1305
+word_count: 1306
 source_file: "corpus/03-breakwave/insights/2024/2024-05-15_iron-ore-was-one-of-the-session-losers.html"
 ---
 

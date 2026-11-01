@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-04-24_dry-bulk-voyage-flows
 ---
 
 **Dry Weekly Market Monitor - Week 17, 2025**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 April 23, 2025
 
 The first quarter of 2025 has shown mixed signals in China's dry bulk import profile, reflecting commodity-specific trends and the broader strategic shifts underway amid the U.S.-China trade war. The above charts reveal YoY volume comparisons for March 2025 vs. March 2024, highlighting divergent patterns in iron ore, coal, and grain flows to China.

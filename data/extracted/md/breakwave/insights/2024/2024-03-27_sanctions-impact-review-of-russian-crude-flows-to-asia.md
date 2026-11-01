@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/27/sanctions-impact-review-of-russian-crude-flows-to-asia"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 9
-word_count: 1436
+word_count: 1445
 source_file: "corpus/03-breakwave/insights/2024/2024-03-27_sanctions-impact-review-of-russian-crude-flows-to-asia.html"
 ---
 

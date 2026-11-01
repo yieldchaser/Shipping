@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/22/russia-far-east-fleet-unconstrained-strong-intra-china-cpp-flows"
 tags: ["Tankers", "Crude", "Energy"]
 images_count: 4
-word_count: 1226
+word_count: 1230
 source_file: "corpus/03-breakwave/insights/2024/2024-02-22_russia-far-east-fleet-unconstrained-strong-intra-china-cpp-flows.html"
 ---
 

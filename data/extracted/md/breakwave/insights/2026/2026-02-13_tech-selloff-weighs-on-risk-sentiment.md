@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/13/tech-selloff-weighs-on-risk-sentiment"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 2
-word_count: 813
+word_count: 815
 source_file: "corpus/03-breakwave/insights/2026/2026-02-13_tech-selloff-weighs-on-risk-sentiment.html"
 ---
 

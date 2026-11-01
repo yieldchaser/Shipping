@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/11/cbam-the-under-the-radar-regulation-that-could-reshape-dry-bulk-flows"
 tags: ["Drybulk", "Shipping", "Decarbonization"]
 images_count: 1
-word_count: 352
+word_count: 353
 source_file: "corpus/03-breakwave/insights/2025/2025-08-11_cbam-the-under-the-radar-regulation-that-could-reshape-dry-bulk-flows.html"
 ---
 

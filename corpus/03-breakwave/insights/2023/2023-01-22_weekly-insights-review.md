@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/1/21/weekly-insights-review"
 images_count: 11
-word_count: 1341
+word_count: 1352
 source_file: "corpus/03-breakwave/insights/2023/2023-01-22_weekly-insights-review.html"
 ---
 
@@ -92,7 +92,7 @@ One key theme we have been stressing in recent work is that passenger travel in 
 
 ## Macro/geopolitics, Commodity Markets, Freight and Bunker Markets
 
-Chinese growth during last year’s final quarter proved more resilient than most economists had expected.[**Read More**](https://www.breakwaveadvisors.com/insights/2023/1/18/shipfix-global-market-update)
+Chinese growth during last year’s final quarter proved more resilient than most economists had expected. [**Read More**](https://www.breakwaveadvisors.com/insights/2023/1/18/shipfix-global-market-update)
 
 ## Breakwave Bi-Weekly Dry Bulk Report
 

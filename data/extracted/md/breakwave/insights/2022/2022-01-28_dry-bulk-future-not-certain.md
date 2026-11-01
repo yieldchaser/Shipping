@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/1/27/dry-bulk-future-not-certain"
 tags: ["Shipping", "Dry Bulk", "Vessels"]
 images_count: 2
-word_count: 513
+word_count: 515
 source_file: "corpus/03-breakwave/insights/2022/2022-01-28_dry-bulk-future-not-certain.html"
 ---
 

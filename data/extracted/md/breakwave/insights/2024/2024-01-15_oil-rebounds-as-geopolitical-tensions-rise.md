@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/1/15/oil-rebounds-as-geopolitical-tensions-rise"
 images_count: 1
-word_count: 577
+word_count: 578
 source_file: "corpus/03-breakwave/insights/2024/2024-01-15_oil-rebounds-as-geopolitical-tensions-rise.html"
 ---
 

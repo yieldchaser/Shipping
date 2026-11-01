@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/3/china-mixed-news-and-more-stimulus"
 tags: ["China", "Economy", "Shipping"]
 images_count: 2
-word_count: 926
+word_count: 928
 source_file: "corpus/03-breakwave/insights/2021/2021-08-04_china-mixed-news-and-more-stimulus.html"
 ---
 
@@ -32,7 +32,7 @@ The stronger rhetoric has also spilt over into the steel and iron ore markets. B
 
 Is this the end of the world, as we know it? We will probably be spared such drama, but as it is both prices and emissions that Beijing wants to control there is obviously room for disruptions. However, if the steel production is allowed to match last year’s record output then there is still a considerable amount of iron ore that needs to be shipped to Chinese ports during the second half of the year. While there is not a perfect correlation between iron ore imports and steel production, existing inventories and the building of stockpiles can obscure the analysis, volumes during the first seven months of the year are evenly matched with last year’s. Cargo tracking data from Oceanbolt show that year-to-date only an additional two million tonnes have been discharged in Chinese ports compared to last year. Hence, if last year’s year’s production is allowed to be equalled, the last five months of the year could see average imported volumes of 100 million tonnes.
 
-![A1](assets/2021-08-04_china-mixed-news-and-more-stimulus_img_a1_fcc066a0b0a1.png)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-04_china-mixed-news-and-more-stimulus_img_a1_fcc066a0b0a1.png)
 
 > **Figure 1: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-04_china-mixed-news-and-more-stimulus_img_a1_fcc066a0b0a1.png)
@@ -41,7 +41,7 @@ There is also a degree of contradiction in the ambition to control steel product
 
 The volumes of iron ore discharged in non-Chinese ports suffered during last year, as the pandemic curtailed demand. Unlike China, where volumes recovered quickly, imported volumes in the rest of the world have recovered slowly and are still below the levels witnessed in the years prior to the pandemic. A combination of global recovery and restrictions on Chinese steel exports could, however, see the recovery in volumes accelerate during the second half of the year.
 
-![A2](assets/2021-08-04_china-mixed-news-and-more-stimulus_img_a2_c0e82764cc7a.png)
+![A2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-04_china-mixed-news-and-more-stimulus_img_a2_c0e82764cc7a.png)
 
 > **Figure 2: A2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-04_china-mixed-news-and-more-stimulus_img_a2_c0e82764cc7a.png)

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/19/90-day-trade-truce"
 tags: ["Economy", "Markets", "Shipping"]
 images_count: 2
-word_count: 1161
+word_count: 1163
 source_file: "corpus/03-breakwave/insights/2025/2025-05-19_90-day-trade-truce.html"
 ---
 

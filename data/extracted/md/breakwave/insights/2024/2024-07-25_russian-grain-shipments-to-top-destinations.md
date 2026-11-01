@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/25/russian-grain-shipments-to-top-destinations"
 tags: ["Drybulk", "Shipping", "Capesize"]
 images_count: 5
-word_count: 1401
+word_count: 1406
 source_file: "corpus/03-breakwave/insights/2024/2024-07-25_russian-grain-shipments-to-top-destinations.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-07-25_russian-grain-shipmen
 ---
 
 **Dry Weekly Market Monitor - Week 30.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 July 25, 2024
 
 *This week's chart highlights the notable increase in the monthly volume of Russian grain shipments during the first two quarters of this year. By the end of the second quarter, shipments had risen by 15% compared to the previous quarter. Notably, Egypt emerged as the leading destination for Russian grain, accounting for 20% of the total shipments this year. This marks a significant shift, as Turkey held the top spot last year with a 15% share. The shift in destination preferences underscores changing market dynamics and may reflect evolving trade relationships or demand patterns. In our previous*[*weekly market monitor*](https://go.signalocean.com/e/983831/ry-market-monitor-week-29-2024/2qdzbt/426211137/h/XTW8nKYxYqzXLC1DuNrGO3evTsJH-bZX7hky4DjGurw)*, we closely examined the increase in monthly Ukrainian grain shipments this year, highlighting Spain and China as the top destinations.*

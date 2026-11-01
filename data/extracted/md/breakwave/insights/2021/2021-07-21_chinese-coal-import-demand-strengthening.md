@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/19/chinese-coal-import-demand-strengthening"
 tags: ["China", "Shipping", "Coal"]
 images_count: 1
-word_count: 468
+word_count: 469
 source_file: "corpus/03-breakwave/insights/2021/2021-07-21_chinese-coal-import-demand-strengthening.html"
 ---
 
@@ -30,7 +30,7 @@ As we recently discussed in our July 5th Weekly China Report, much of southern C
 
 Going forward, the prospects for Chinese coal imports remain promising. China's coal import demand has continued to increase this month and is poised to strengthen further. Of note is that the government has been releasing some state coal reserves into the market in recent months, but they will be unable to meet China’s coal shortage. State reserves now total only approximately 40 million tons and the nation needs a great deal more coal. Also of note is that yet another coal mine accident occurred last week, and the nation's coal production is all but certain to remain under government-directed pressure in the near term.
 
-![A1.png Twra](assets/2021-07-21_chinese-coal-import-demand-strengthening_img_a1pngtwra_a7d56f222322.png)
+![A1.png Twra](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-21_chinese-coal-import-demand-strengthening_img_a1pngtwra_a7d56f222322.png)
 
 > **Figure 1: A1.png Twra**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-21_chinese-coal-import-demand-strengthening_img_a1pngtwra_a7d56f222322.png)

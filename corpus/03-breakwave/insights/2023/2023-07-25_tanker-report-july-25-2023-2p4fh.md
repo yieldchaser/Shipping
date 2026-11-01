@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/7/tanker-report-july-25-2023-2p4fh"
 images_count: 3
-word_count: 625
+word_count: 628
 source_file: "corpus/03-breakwave/insights/2023/2023-07-25_tanker-report-july-25-2023-2p4fh.html"
 ---
 

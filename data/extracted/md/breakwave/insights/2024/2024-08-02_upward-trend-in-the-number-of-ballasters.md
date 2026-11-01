@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/2/upward-trend-in-the-number-of-ballasters"
 tags: ["Drybulk", "Shipping", "Capesize"]
 images_count: 5
-word_count: 1322
+word_count: 1327
 source_file: "corpus/03-breakwave/insights/2024/2024-08-02_upward-trend-in-the-number-of-ballasters.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-08-02_upward-trend-in-the-n
 ---
 
 **Dry Weekly Market Monitor - Week 31.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 July 31, 2024
 
 *This week's chart illustrates the increase in the monthly volume of Brazilian iron ore shipments during May, June, and July this year (left chart), following a notable drop recorded during the first quarter. In July, there was a 13.4% increase in the monthly quantity of iron ore sent from Brazil to China compared to the same month last year. Similarly, in June, the volume saw a 4% increase compared to June 2023 levels.*

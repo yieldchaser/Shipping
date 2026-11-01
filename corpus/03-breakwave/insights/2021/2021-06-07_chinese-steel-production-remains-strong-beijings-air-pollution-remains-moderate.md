@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/7/chinese-steel-production-remains-strong-beijings-air-pollution-remains-moderate"
 tags: ["China", "Steel"]
 images_count: 2
-word_count: 413
+word_count: 415
 source_file: "corpus/03-breakwave/insights/2021/2021-06-07_chinese-steel-production-remains-strong-beijings-air-pollution-remains-moderate.html"
 ---
 

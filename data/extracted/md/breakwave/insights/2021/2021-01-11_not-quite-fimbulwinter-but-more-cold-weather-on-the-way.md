@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/11/not-quite-fimbulwinter-but-more-cold-weather-on-the-way"
 tags: ["Coal"]
 images_count: 2
-word_count: 513
+word_count: 515
 source_file: "corpus/03-breakwave/insights/2021/2021-01-11_not-quite-fimbulwinter-but-more-cold-weather-on-the-way.html"
 ---
 
@@ -26,7 +26,7 @@ The year has begun in a dramatic fashion for the dry bulk sector, with the Balti
 
 ### Iron Ore (Usd/t)
 
-![Ulf 201](assets/2021-01-11_not-quite-fimbulwinter-but-more-cold-weather-on-the-way_img_ulf201_f0c2d556c73f.jpg)
+![Ulf 201](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-11_not-quite-fimbulwinter-but-more-cold-weather-on-the-way_img_ulf201_f0c2d556c73f.jpg)
 
 > **Figure 1: Ulf 201**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-11_not-quite-fimbulwinter-but-more-cold-weather-on-the-way_img_ulf201_f0c2d556c73f.jpg)
@@ -35,7 +35,7 @@ The current weather situation in the Northern Hemisphere, with temperatures well
 
 ### Coal (Usd/t)
 
-![Fimbulwinter: The Harsh Winter That Precedes the End of The](assets/2021-01-11_not-quite-fimbulwinter-but-more-cold-weather-on-the-way_img_ulf202_ad95d8569546.jpg)
+![Fimbulwinter: The Harsh Winter That Precedes the End of The](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-11_not-quite-fimbulwinter-but-more-cold-weather-on-the-way_img_ulf202_ad95d8569546.jpg)
 
 > **Figure 2: Fimbulwinter: The Harsh Winter That Precedes the End of The**  
 > ** Fimbulwinter: the harsh winter that precedes the end of the world in Norse mythology.*  

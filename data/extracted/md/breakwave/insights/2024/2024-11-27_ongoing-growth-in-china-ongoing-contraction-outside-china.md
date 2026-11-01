@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/27/ongoing-growth-in-china-ongoing-contraction-outside-china"
 tags: ["China", "Ironore", "Drybulk"]
 images_count: 3
-word_count: 421
+word_count: 424
 source_file: "corpus/03-breakwave/insights/2024/2024-11-27_ongoing-growth-in-china-ongoing-contraction-outside-china.html"
 ---
 

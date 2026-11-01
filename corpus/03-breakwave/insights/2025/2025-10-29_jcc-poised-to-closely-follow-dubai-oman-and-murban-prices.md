@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/29/jcc-poised-to-closely-follow-dubai-oman-and-murban-prices"
 tags: ["Crude", "Markets", "Tankers"]
 images_count: 4
-word_count: 1019
+word_count: 1023
 source_file: "corpus/03-breakwave/insights/2025/2025-10-29_jcc-poised-to-closely-follow-dubai-oman-and-murban-prices.html"
 ---
 

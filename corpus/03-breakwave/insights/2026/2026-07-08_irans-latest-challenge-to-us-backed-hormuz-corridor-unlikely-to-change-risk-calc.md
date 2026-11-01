@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/7/8/irans-latest-challenge-to-us-backed-hormuz-corridor-unlikely-to-change-risk-calculus"
 tags: ["Tankers", "Markets", "Crude"]
 images_count: 2
-word_count: 1129
+word_count: 1131
 source_file: "corpus/03-breakwave/insights/2026/2026-07-08_irans-latest-challenge-to-us-backed-hormuz-corridor-unlikely-to-change-risk-calc.html"
 ---
 

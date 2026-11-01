@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/3/choosing-a-side"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 2
-word_count: 705
+word_count: 707
 source_file: "corpus/03-breakwave/insights/2025/2025-08-03_choosing-a-side.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/12/2/growth-remains-robust"
 tags: ["Shipping", "Drybulk", "Economy"]
 images_count: 1
-word_count: 945
+word_count: 946
 source_file: "corpus/03-breakwave/insights/2024/2024-12-02_growth-remains-robust.html"
 ---
 

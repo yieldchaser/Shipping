@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/9/7/steel-and-industrial-weakness-outside-of-china"
 images_count: 3
-word_count: 441
+word_count: 444
 source_file: "corpus/03-breakwave/insights/2023/2023-09-07_steel-and-industrial-weakness-outside-of-china.html"
 ---
 

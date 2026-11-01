@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/28/ongoing-industrial-improvement-in-china"
 tags: ["China", "Economy", "Growth"]
 images_count: 2
-word_count: 343
+word_count: 345
 source_file: "corpus/03-breakwave/insights/2024/2024-02-28_ongoing-industrial-improvement-in-china.html"
 ---
 

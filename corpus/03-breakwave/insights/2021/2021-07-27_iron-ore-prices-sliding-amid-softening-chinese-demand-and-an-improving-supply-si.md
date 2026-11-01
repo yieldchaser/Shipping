@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/27/iron-ore-prices-sliding-amid-softening-chinese-demand-and-an-improving-supply-situation"
 tags: ["Shipping", "China", "Brazil"]
 images_count: 4
-word_count: 845
+word_count: 849
 source_file: "corpus/03-breakwave/insights/2021/2021-07-27_iron-ore-prices-sliding-amid-softening-chinese-demand-and-an-improving-supply-si.html"
 ---
 

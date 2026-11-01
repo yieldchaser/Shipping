@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/6/30/arrow-to-the-point"
 images_count: 4
-word_count: 685
+word_count: 689
 source_file: "corpus/03-breakwave/insights/2023/2023-06-30_arrow-to-the-point.html"
 ---
 

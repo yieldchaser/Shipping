@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/8/6/with-iron-ore-at-one-year-highs-are-freight-rates-about-to-rally"
 tags: ["Shipping", "Capesize", "China", "Dry Bulk", "Panamax"]
 images_count: 4
-word_count: 923
+word_count: 927
 source_file: "corpus/03-breakwave/insights/2020/2020-08-06_with-iron-ore-at-one-year-highs-are-freight-rates-about-to-rally.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/9/irans-oil-network-matures-under-sanctions-pressure"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 3
-word_count: 1043
+word_count: 1046
 source_file: "corpus/03-breakwave/insights/2025/2025-10-09_irans-oil-network-matures-under-sanctions-pressure.html"
 ---
 

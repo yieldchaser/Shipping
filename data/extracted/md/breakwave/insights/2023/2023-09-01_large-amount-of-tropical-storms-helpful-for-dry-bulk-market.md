@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/9/1/large-amount-of-tropical-storms-helpful-for-dry-bulk-market"
 images_count: 1
-word_count: 275
+word_count: 276
 source_file: "corpus/03-breakwave/insights/2023/2023-09-01_large-amount-of-tropical-storms-helpful-for-dry-bulk-market.html"
 ---
 

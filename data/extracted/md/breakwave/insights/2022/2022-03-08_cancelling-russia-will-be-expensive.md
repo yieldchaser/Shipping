@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/3/8/cancelling-russia-will-be-expensive"
 tags: ["Global", "Markets", "Russia", "Ukraine"]
 images_count: 1
-word_count: 1310
+word_count: 1311
 source_file: "corpus/03-breakwave/insights/2022/2022-03-08_cancelling-russia-will-be-expensive.html"
 ---
 

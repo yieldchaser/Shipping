@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/27/indias-crude-intake-changes-towards-middle-east-barrels-while-refined-product-exports-pivot-to-east-of-suez"
 tags: ["Crudeoil", "Tankers", "Markets"]
 images_count: 2
-word_count: 894
+word_count: 896
 source_file: "corpus/03-breakwave/insights/2025/2025-01-27_indias-crude-intake-changes-towards-middle-east-barrels-while-refined-product-ex.html"
 ---
 

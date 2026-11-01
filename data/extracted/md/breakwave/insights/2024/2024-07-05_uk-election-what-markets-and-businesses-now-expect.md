@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-07-05_uk-election-what-mark
 
 ---
 
-By[George Lagarias](https://www.linkedin.com/in/george-lagarias-mba-3baa769/)
+By [George Lagarias](https://www.linkedin.com/in/george-lagarias-mba-3baa769/)
 
 Elections often hold surprises. However, this British general election did not. Rarely has a landslide victory for one party been so thoroughly predicted across political pundits and financial markets. As predicted,**Labour won a significant majority, roughly 170 seats at the time of writing.**Conservatives survived as the opposition party, and Liberal Democrats picked up a significant number of votes, especially in former Tory strongholds.
 

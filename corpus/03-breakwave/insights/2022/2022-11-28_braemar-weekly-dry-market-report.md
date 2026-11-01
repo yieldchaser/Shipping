@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/27/braemar-weekly-dry-market-report"
 images_count: 5
-word_count: 1157
+word_count: 1162
 source_file: "corpus/03-breakwave/insights/2022/2022-11-28_braemar-weekly-dry-market-report.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/4/weakness-recently-in-both-brazilian-and-australian-spot-iron-ore-cargo-volume"
 tags: ["Ironore", "Capesize", "Shipping"]
 images_count: 2
-word_count: 201
+word_count: 203
 source_file: "corpus/03-breakwave/insights/2025/2025-07-04_weakness-recently-in-both-brazilian-and-australian-spot-iron-ore-cargo-volume.html"
 ---
 

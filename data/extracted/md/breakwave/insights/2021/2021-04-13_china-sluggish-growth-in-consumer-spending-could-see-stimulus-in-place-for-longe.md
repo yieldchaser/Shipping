@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/13/china-sluggish-growth-in-consumer-spending-could-see-stimulus-in-place-for-longer"
 tags: ["China"]
 images_count: 3
-word_count: 894
+word_count: 897
 source_file: "corpus/03-breakwave/insights/2021/2021-04-13_china-sluggish-growth-in-consumer-spending-could-see-stimulus-in-place-for-longe.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-04-13_china-sluggish-growth
 
 *By Ulf Bergman*
 
-![Unsplash Image Vdohqluywy8](assets/2021-04-13_china-sluggish-growth-in-consumer-spending-could-see-stimulus-in-place-for-longe_img_unsplash-image-vdohqluywy8_132a7e04e4b2.jpg)
+![Unsplash Image Vdohqluywy8](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-13_china-sluggish-growth-in-consumer-spending-could-see-stimulus-in-place-for-longe_img_unsplash-image-vdohqluywy8_132a7e04e4b2.jpg)
 
 > **Figure 1: Unsplash Image Vdohqluywy8**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-13_china-sluggish-growth-in-consumer-spending-could-see-stimulus-in-place-for-longe_img_unsplash-image-vdohqluywy8_132a7e04e4b2.jpg)
@@ -33,7 +33,7 @@ Additionally, debt levels in the Chinese economy was already a concern for the g
 
 ### Shanghai Shenzhen Csi 300 Index
 
-![Ulf 2a](assets/2021-04-13_china-sluggish-growth-in-consumer-spending-could-see-stimulus-in-place-for-longe_img_ulf2a_43e8c71a770b.jpg)
+![Ulf 2a](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-13_china-sluggish-growth-in-consumer-spending-could-see-stimulus-in-place-for-longe_img_ulf2a_43e8c71a770b.jpg)
 
 > **Figure 2: Ulf 2a**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-13_china-sluggish-growth-in-consumer-spending-could-see-stimulus-in-place-for-longe_img_ulf2a_43e8c71a770b.jpg)
@@ -42,7 +42,7 @@ The Chinese economy has gone beyond the recovery phase and is currently larger t
 
 The ambition of the Chinese government in the current five-year plan to reduce the country’s reliance on the global market has increased the importance of domestic consumption, but many economists argue that it will not be sufficient for meeting the economic growth targets. While household spending is widely expected to bounce back once the pandemic is over, it is unlikely to generate the required traction in the economy. A prominent Chinese economist and former advisor to the central bank, Yu Yongding, contended in a recently published article that consumption cannot become the main driver of economic growth on its own. Hence, there is a strong argument for maintaining an expansionary fiscal stance and invest in infrastructure projects, which he maintained was “too low”. While investments in fixed asset grew by an impressive 35 per cent in the first two months of the year compared to the same period in 2020, it was mainly due to a very low base. Compared to the same period in the last normal year, 2019, the growth in investments was considerably more modest at 3.5 per cent.
 
-![Unsplash Image B3ihwcthvcg](assets/2021-04-13_china-sluggish-growth-in-consumer-spending-could-see-stimulus-in-place-for-longe_img_unsplash-image-b3ihwcthvcg_cfb1963dbbaf.jpg)
+![Unsplash Image B3ihwcthvcg](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-13_china-sluggish-growth-in-consumer-spending-could-see-stimulus-in-place-for-longe_img_unsplash-image-b3ihwcthvcg_cfb1963dbbaf.jpg)
 
 > **Figure 3: Unsplash Image B3ihwcthvcg**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-13_china-sluggish-growth-in-consumer-spending-could-see-stimulus-in-place-for-longe_img_unsplash-image-b3ihwcthvcg_cfb1963dbbaf.jpg)

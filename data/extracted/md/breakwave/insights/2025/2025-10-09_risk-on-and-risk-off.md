@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/9/risk-on-and-risk-off"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 7
-word_count: 1615
+word_count: 1622
 source_file: "corpus/03-breakwave/insights/2025/2025-10-09_risk-on-and-risk-off.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/8/the-rise-of-data-driven-decisions-in-tramp-shipping"
 tags: ["Shipping", "Data", "Intelligence"]
 images_count: 2
-word_count: 1870
+word_count: 1872
 source_file: "corpus/03-breakwave/insights/2021/2021-05-08_the-rise-of-data-driven-decisions-in-tramp-shipping.html"
 ---
 
@@ -46,7 +46,7 @@ Shipping companies should leverage existing automation opportunities brought by 
 
 Embracing automation faces the challenge of upskilling the existing teams with new tools, e.g. Python[[3]](https://www.breakwaveadvisors.com/insights/2021/5/8/the-rise-of-data-driven-decisions-in-tramp-shipping#_ftn3). Modern datasets have outgrown the capabilities of spreadsheet tools. With a corporate agenda of digitization, the pioneers will choose to invest in employees to learn fundamental building blocks of modern data science (e.g. learning Python) to work with data at scale. Heuristically, managers can think about upskilling employees as moving up the “Data Adoption Ladder” as depicted in Figure 1.
 
-![Data Adoption Ladder](assets/2021-05-08_the-rise-of-data-driven-decisions-in-tramp-shipping_img_a1_b6ba2339ca3e.png)
+![Data Adoption Ladder](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-08_the-rise-of-data-driven-decisions-in-tramp-shipping_img_a1_b6ba2339ca3e.png)
 
 > **Figure 1: Data Adoption Ladder**  
 > *Figure 1 - Data Adoption Ladder*  
@@ -92,7 +92,7 @@ Modern data providers should have a transparent methodology that provides users 
 
 Auren Hoffmann is a thought leader within data-as-a-service businesses and a central idea of his work is that data in itself is not very valuable, but that its value increases as a function of the possibilities to join it with other data. Auren summarizes this nicely on Twitter:
 
-![-Data Rots Quickly When Markets Move Fast:](assets/2021-05-08_the-rise-of-data-driven-decisions-in-tramp-shipping_img_a2_f34e166e108e.png)
+![-Data Rots Quickly When Markets Move Fast:](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-08_the-rise-of-data-driven-decisions-in-tramp-shipping_img_a2_f34e166e108e.png)
 
 > **Figure 2: -Data Rots Quickly When Markets Move Fast:**  
 > *-Data rots quickly when markets move fast:*  
@@ -118,7 +118,7 @@ That is if they adopt appropriate frameworks for data analysis and engage with t
 
 [4] TensorFlow is an end-to-end open source platform for machine learning.
 
-***Niclas Priess**is the co-founder of**Oceanbolt**. Oceanbolt is a data-as-a-service company leveraging geospatial analytics to provide real-time intelligence for the dry bulk markets. Learn more about Oceanbolt on its website:[Oceanbolt](https://www.oceanbolt.com/)
+***Niclas Priess** is the co-founder of **Oceanbolt**. Oceanbolt is a data-as-a-service company leveraging geospatial analytics to provide real-time intelligence for the dry bulk markets. Learn more about Oceanbolt on its website:[Oceanbolt](https://www.oceanbolt.com/)
 
 ---
 

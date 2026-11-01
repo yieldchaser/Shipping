@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/12/would-you-still-buy-a-us-treasury-at-5-probably-yes"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 3
-word_count: 1157
+word_count: 1160
 source_file: "corpus/03-breakwave/insights/2025/2025-06-12_would-you-still-buy-a-us-treasury-at-5-probably-yes.html"
 ---
 

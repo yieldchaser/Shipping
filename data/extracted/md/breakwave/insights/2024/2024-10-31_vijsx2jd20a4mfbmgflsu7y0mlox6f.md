@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/31/vijsx2jd20a4mfbmgflsu7y0mlox6f"
 tags: ["Drybulk", "Shipping", "Capesize"]
 images_count: 5
-word_count: 1317
+word_count: 1322
 source_file: "corpus/03-breakwave/insights/2024/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-10-31_vijsx2jd20a4mfbmgflsu
 ---
 
 **Dry Weekly Market Monitor - Week 44.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 October 29, 2024
 
 ## Chart of the Week: Dry Bulk Grain Flows - U.s. vs Brazilian

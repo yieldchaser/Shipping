@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/12/cargo-core-petcoke-cement-clinker"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 4
-word_count: 1491
+word_count: 1495
 source_file: "corpus/03-breakwave/insights/2025/2025-08-12_cargo-core-petcoke-cement-clinker.html"
 ---
 

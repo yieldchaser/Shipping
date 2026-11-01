@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/1/11/dry-bulk-annual-review-2022"
 images_count: 13
-word_count: 2411
+word_count: 2424
 source_file: "corpus/03-breakwave/insights/2023/2023-01-11_dry-bulk-annual-review-2022.html"
 ---
 
@@ -116,7 +116,7 @@ Overall, 2022 was a year of strong growth in freight rates for the larger vessel
 
 ### Iv. Vessel Speeds
 
-The geopolitical crisis prompted shipowners to reduce the ballast speed of ships at sea, and 2022 ended with a record low ballast speed for bulk carriers. It is estimated that last year's levels are the lowest compared to 2021 and 2020 (**image**9), as the larger vessel categories continue to have lower ballast speeds at sea (**image**10). The fourth quarter suggests a similar slowdown in ballast speeds as freight rates enter a downward cycle at the start of the new year.
+The geopolitical crisis prompted shipowners to reduce the ballast speed of ships at sea, and 2022 ended with a record low ballast speed for bulk carriers. It is estimated that last year's levels are the lowest compared to 2021 and 2020 (**image**9), as the larger vessel categories continue to have lower ballast speeds at sea (**image** 10). The fourth quarter suggests a similar slowdown in ballast speeds as freight rates enter a downward cycle at the start of the new year.
 
 ![Image 9 - Data Source: The Signal Ocean Platform](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-11_dry-bulk-annual-review-2022_img_63bc1f227fd5073bfc1db28d-image9balla_6ef85cdd9354.png)
 
@@ -134,7 +134,7 @@ The geopolitical crisis prompted shipowners to reduce the ballast speed of ships
 
 ### V. Vessel Supply - Ballasters’ View
 
-Finally, looking at the weekly trends of ballast vessels in the main vessel categories (**image**11), we see that the number of vessels in ballast increases in the New Year in the Capesize and Panamax segments, but remains below the average trend. In the Handysize segment, the number of ballasted vessels remains above the average trend, and there is also an increase in the Supramax segment.
+Finally, looking at the weekly trends of ballast vessels in the main vessel categories (**image** 11), we see that the number of vessels in ballast increases in the New Year in the Capesize and Panamax segments, but remains below the average trend. In the Handysize segment, the number of ballasted vessels remains above the average trend, and there is also an increase in the Supramax segment.
 
 Overall, the weekly trends for ballast vessels show an upward trend, suggesting a continuation of the weakening trend in freight rates for the first few days of the new year. It remains to be seen how the January days will play out for vessel employment given the economic uncertainty in China and the challenges to the smooth flow of grain shipments.
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/1/global-economy-the-momentum-keeps-building-but-the-focus-is-shifting"
 tags: ["Global Economy"]
 images_count: 2
-word_count: 867
+word_count: 869
 source_file: "corpus/03-breakwave/insights/2021/2021-06-01_global-economy-the-momentum-keeps-building-but-the-focus-is-shifting.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-06-01_global-economy-the-mo
 
 *By Ulf Bergman*
 
-![Unsplash Image Hkjnx0edbje](assets/2021-06-01_global-economy-the-momentum-keeps-building-but-the-focus-is-shifting_img_unsplash-image-hkjnx0edbje_0af07a24e2bd.jpg)
+![Unsplash Image Hkjnx0edbje](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-01_global-economy-the-momentum-keeps-building-but-the-focus-is-shifting_img_unsplash-image-hkjnx0edbje_0af07a24e2bd.jpg)
 
 > **Figure 1: Unsplash Image Hkjnx0edbje**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-01_global-economy-the-momentum-keeps-building-but-the-focus-is-shifting_img_unsplash-image-hkjnx0edbje_0af07a24e2bd.jpg)
@@ -37,7 +37,7 @@ May was also the month of extensive efforts by Beijing to rein in on the soaring
 
 ### Iron Ore (Usd/tonne)
 
-![Ulf 6.1](assets/2021-06-01_global-economy-the-momentum-keeps-building-but-the-focus-is-shifting_img_ulf61_5ad8a9ee6e83.jpg)
+![Ulf 6.1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-01_global-economy-the-momentum-keeps-building-but-the-focus-is-shifting_img_ulf61_5ad8a9ee6e83.jpg)
 
 > **Figure 2: Ulf 6.1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-01_global-economy-the-momentum-keeps-building-but-the-focus-is-shifting_img_ulf61_5ad8a9ee6e83.jpg)

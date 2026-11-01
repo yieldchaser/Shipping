@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/15/soybean-dry-bulk-flows"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 5
-word_count: 1492
+word_count: 1497
 source_file: "corpus/03-breakwave/insights/2025/2025-05-15_soybean-dry-bulk-flows.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-05-15_soybean-dry-bulk-flow
 ---
 
 **Dry Weekly Market Monitor - Week 20, 2025**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 May 14, 2025
 
 ![Στιγμιότυπο Οθόνης 2025 05 15 104113](assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e679e142b1f7.png)
@@ -48,10 +48,10 @@ Although we have seen strong volumes of soybean voyage shipments to China, Balti
 
 Capesize freight market sentiment continued to weaken, while the Panamax market on the Continent–Far East route records a noticeable upward trend.
 
-- **Capesize**vessel freight rates from Brazil to North China hovered around $18 per tonne, showing a 4% decrease compared to last month.
-- **Panamax**from the Continent held recovered levels at nearly $31 per tonne, showing an 8% monthly increase.
-- **Supramax**vessel freight rates for the Indonesia to East Coast remained stable at approximately $9 per tonne. This figure reflects a 20% increase over the last quarter.
-- **Handysize**freight rates for the NOPAC Far East route held similar sentiment to the previous week at around $28 per tonne, registering a 4% decline month-on-month.
+- **Capesize** vessel freight rates from Brazil to North China hovered around $18 per tonne, showing a 4% decrease compared to last month.
+- **Panamax** from the Continent held recovered levels at nearly $31 per tonne, showing an 8% monthly increase.
+- **Supramax** vessel freight rates for the Indonesia to East Coast remained stable at approximately $9 per tonne. This figure reflects a 20% increase over the last quarter.
+- **Handysize** freight rates for the NOPAC Far East route held similar sentiment to the previous week at around $28 per tonne, registering a 4% decline month-on-month.
 
 ![Στιγμιότυπο Οθόνης 2025 05 15 104315](assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7893606f7464.png)
 

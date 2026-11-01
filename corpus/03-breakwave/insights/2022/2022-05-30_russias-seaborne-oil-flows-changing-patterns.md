@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/5/30/russias-seaborne-oil-flows-changing-patterns"
 images_count: 11
-word_count: 3630
+word_count: 3641
 source_file: "corpus/03-breakwave/insights/2022/2022-05-30_russias-seaborne-oil-flows-changing-patterns.html"
 ---
 

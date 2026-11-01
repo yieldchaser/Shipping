@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/4/14/coal-india-stockpiles-and-the-nations-power-plant-stockpiles-each-continue-to-grow"
 images_count: 3
-word_count: 447
+word_count: 450
 source_file: "corpus/03-breakwave/insights/2023/2023-04-14_coal-india-stockpiles-and-the-nations-power-plant-stockpiles-each-continue-to-gr.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/12/2/additional-improvement-in-chinese-steel-market"
 images_count: 3
-word_count: 357
+word_count: 360
 source_file: "corpus/03-breakwave/insights/2022/2022-12-02_additional-improvement-in-chinese-steel-market.html"
 ---
 

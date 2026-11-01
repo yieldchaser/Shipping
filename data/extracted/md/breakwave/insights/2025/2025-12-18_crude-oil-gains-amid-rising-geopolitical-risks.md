@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/18/crude-oil-gains-amid-rising-geopolitical-risks"
 tags: ["Markets", "Commodities", "Economy"]
 images_count: 2
-word_count: 797
+word_count: 799
 source_file: "corpus/03-breakwave/insights/2025/2025-12-18_crude-oil-gains-amid-rising-geopolitical-risks.html"
 ---
 

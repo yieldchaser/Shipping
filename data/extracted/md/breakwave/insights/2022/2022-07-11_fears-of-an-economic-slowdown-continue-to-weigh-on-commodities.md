@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/11/fears-of-an-economic-slowdown-continue-to-weigh-on-commodities"
 images_count: 1
-word_count: 716
+word_count: 717
 source_file: "corpus/03-breakwave/insights/2022/2022-07-11_fears-of-an-economic-slowdown-continue-to-weigh-on-commodities.html"
 ---
 

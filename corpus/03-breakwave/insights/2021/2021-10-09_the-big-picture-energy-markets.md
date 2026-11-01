@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/9/the-big-picture-energy-markets"
 tags: ["Global Economy", "Energy", "Coal"]
 images_count: 4
-word_count: 1324
+word_count: 1328
 source_file: "corpus/03-breakwave/insights/2021/2021-10-09_the-big-picture-energy-markets.html"
 ---
 

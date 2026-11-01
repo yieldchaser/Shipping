@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/29/capes-on-a-high"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 1
-word_count: 659
+word_count: 660
 source_file: "corpus/03-breakwave/insights/2026/2026-09-29_capes-on-a-high.html"
 ---
 

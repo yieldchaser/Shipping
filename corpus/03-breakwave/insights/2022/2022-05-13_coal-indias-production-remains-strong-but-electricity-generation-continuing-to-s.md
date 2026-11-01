@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/5/12/coal-indias-production-remains-strong-but-electricity-generation-continuing-to-set-new-records"
 images_count: 3
-word_count: 537
+word_count: 540
 source_file: "corpus/03-breakwave/insights/2022/2022-05-13_coal-indias-production-remains-strong-but-electricity-generation-continuing-to-s.html"
 ---
 

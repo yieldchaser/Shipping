@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/20/vale-where-is-all-the-iron-ore-going-to"
 tags: ["Shipping"]
 images_count: 2
-word_count: 530
+word_count: 532
 source_file: "corpus/03-breakwave/insights/2020/2020-10-20_vale-where-is-all-the-iron-ore-going-to.html"
 ---
 

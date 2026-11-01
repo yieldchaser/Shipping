@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/30/chinas-coal-import-shift-continues"
 tags: ["Economy", "Coal", "Imports", "China"]
 images_count: 6
-word_count: 543
+word_count: 549
 source_file: "corpus/03-breakwave/insights/2021/2021-09-30_chinas-coal-import-shift-continues.html"
 ---
 

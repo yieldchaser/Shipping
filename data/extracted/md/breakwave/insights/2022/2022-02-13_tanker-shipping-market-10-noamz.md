@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/2/11/tanker-shipping-market-10-noaMZ"
 tags: ["Tankers", "Shipping", "Rates"]
 images_count: 8
-word_count: 1577
+word_count: 1585
 source_file: "corpus/03-breakwave/insights/2022/2022-02-13_tanker-shipping-market-10-noamz.html"
 ---
 

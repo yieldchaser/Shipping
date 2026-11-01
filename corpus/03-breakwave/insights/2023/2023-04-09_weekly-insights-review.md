@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/4/9/weekly-insights-review"
 images_count: 10
-word_count: 1133
+word_count: 1143
 source_file: "corpus/03-breakwave/insights/2023/2023-04-09_weekly-insights-review.html"
 ---
 
@@ -127,7 +127,7 @@ Often in our Weekly China Reports last year, we discussed Chinese efforts to end
 ## OPEC Cuts Expose Vlccs|| USG Dirty Rates Slide
 
 OPEC+ cuts could shape up the VLCC trade, while leaving the rest of the vessel classes unscathed
-[Read More](https://www.breakwaveadvisors.com/insights/2023/4/6/vortexa-freight-weekly)
+ [Read More](https://www.breakwaveadvisors.com/insights/2023/4/6/vortexa-freight-weekly)
 
 ## Shipfix - Global Market Update
 

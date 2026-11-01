@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/22/ndias-coal-production-and-thermal-coal-derived-electricity-generation-both-remain-strong"
 images_count: 3
-word_count: 515
+word_count: 518
 source_file: "corpus/03-breakwave/insights/2022/2022-07-22_ndias-coal-production-and-thermal-coal-derived-electricity-generation-both-remai.html"
 ---
 

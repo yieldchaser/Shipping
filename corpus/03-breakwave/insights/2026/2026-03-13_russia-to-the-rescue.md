@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/13/russia-to-the-rescue"
 tags: ["Tankers", "Crude", "Markets"]
 images_count: 1
-word_count: 942
+word_count: 943
 source_file: "corpus/03-breakwave/insights/2026/2026-03-13_russia-to-the-rescue.html"
 ---
 

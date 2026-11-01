@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/27/doric-china-arometer-part-22"
 images_count: 6
-word_count: 1209
+word_count: 1215
 source_file: "corpus/03-breakwave/insights/2022/2022-10-28_doric-china-arometer-part-22.html"
 ---
 

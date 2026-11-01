@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/4/13/coal-indias-stockpiles-set-another-record"
 tags: ["India", "Coal", "Shipping"]
 images_count: 3
-word_count: 317
+word_count: 320
 source_file: "corpus/03-breakwave/insights/2026/2026-04-13_coal-indias-stockpiles-set-another-record.html"
 ---
 

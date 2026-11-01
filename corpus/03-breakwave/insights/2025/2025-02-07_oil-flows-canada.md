@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/7/oil-flows-canada"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 10
-word_count: 1719
+word_count: 1729
 source_file: "corpus/03-breakwave/insights/2025/2025-02-07_oil-flows-canada.html"
 ---
 
@@ -52,31 +52,31 @@ As for vessel utilization, Aframax tankers play a dominant role in Canadian oil 
 
 ​​​​​Sentiment in the dirty freight market has shown signs of volatility, with spikes emerging on the VLCC MEG-China and Suezmax West Africa-to-Continent routes, while the Aframax Mediterranean market remains steady.
 
-- VLCC freight rates for**MEG-China**routes surged to WS70, marking a 30% weekly increase and a 63% rise compared to the same week last month. Suezmax rates for**West Africa to continental Europe**reached WS90, reflecting a 30% monthly gain. Meanwhile, Suezmax rates on the Baltic-Mediterranean route have remained slightly above WS90 for the past three weeks, up 12% month-over-month.
-- Aframax freight rates in the**Mediterranean**have maintained last week's momentum at WS120, though they remain 30% lower year-over-year.
+- VLCC freight rates for **MEG-China** routes surged to WS70, marking a 30% weekly increase and a 63% rise compared to the same week last month. Suezmax rates for **West Africa to continental Europe** reached WS90, reflecting a 30% monthly gain. Meanwhile, Suezmax rates on the Baltic-Mediterranean route have remained slightly above WS90 for the past three weeks, up 12% month-over-month.
+- Aframax freight rates in the **Mediterranean** have maintained last week's momentum at WS120, though they remain 30% lower year-over-year.
 
 ![Στιγμιότυπο Οθόνης 2025 02 07 113846](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_adf7fa378c7e.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 02 07 113846**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_adf7fa378c7e.png)
 
-- **LR2**AG freight rates continued to decrease over the last weeks and dropped to WS 100, marking a 60% decrease compared to the same period last year.
+- **LR2** AG freight rates continued to decrease over the last weeks and dropped to WS 100, marking a 60% decrease compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2025 02 07 114119](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7f170905968f.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 02 07 114119**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7f170905968f.png)
 
-- **Panamax**Carib-to-USG rates have remained weak for another week since the start of the year, now falling below WS120. This marks a decline of over 60% compared to the same period last year.
+- **Panamax** Carib-to-USG rates have remained weak for another week since the start of the year, now falling below WS120. This marks a decline of over 60% compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2025 02 07 114220](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1d6c4925b71d.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 02 07 114220**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1d6c4925b71d.png)
 
-- **MR1**freight rates for Baltic-to-Continent shipments remained under downward pressure, hovering around WS160—a 50% decline from the same week last year.
+- **MR1** freight rates for Baltic-to-Continent shipments remained under downward pressure, hovering around WS160—a 50% decline from the same week last year.
 
-- Meanwhile,**MR2**rates for shipments from the Continent to the US Atlantic Coast (USAC) surged past WS 200, marking a 47% month-over-month increase. In contrast,**MR2**rates on the US Gulf-to-Continent route remained weak, holding at the low levels seen in previous weeks of January and falling below WS 120—a 28% decline compared to the same period last year.
+- Meanwhile,**MR2** rates for shipments from the Continent to the US Atlantic Coast (USAC) surged past WS 200, marking a 47% month-over-month increase. In contrast,**MR2** rates on the US Gulf-to-Continent route remained weak, holding at the low levels seen in previous weeks of January and falling below WS 120—a 28% decline compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2025 02 07 114317](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f46ccae890f3.png)
 
@@ -109,16 +109,16 @@ As for vessel utilization, Aframax tankers play a dominant role in Canadian oil 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 02 07 114548**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_04703e8ac909.png)
 
-- **Dirty**tonne days: The growth rate of dirty tonne-days remains well below the annual trend for the VLCC and Suezmax markets, reflecting subdued freight sentiment. However, Aframax tonne-days show signs of a mild recovery, now approaching their highest level since the lows at the start of the year.
+- **Dirty** tonne days: The growth rate of dirty tonne-days remains well below the annual trend for the VLCC and Suezmax markets, reflecting subdued freight sentiment. However, Aframax tonne-days show signs of a mild recovery, now approaching their highest level since the lows at the start of the year.
 
 ![Στιγμιότυπο Οθόνης 2025 02 07 114644](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f4876aea510b.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 02 07 114644**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f4876aea510b.png)
 
-- **Panamax**tonne days: The growth rate remained significantly below the annual average of previous weeks, with no clear signs of recovery yet.
+- **Panamax** tonne days: The growth rate remained significantly below the annual average of previous weeks, with no clear signs of recovery yet.
 
-- **MR**tonne-days: The growth rate for the MR2 segment remains solid, though it has softened slightly following last week’s peak. Meanwhile, MR1 demand continues to decline, with rates falling below the annual trend for the second consecutive week.
+- **MR** tonne-days: The growth rate for the MR2 segment remains solid, though it has softened slightly following last week’s peak. Meanwhile, MR1 demand continues to decline, with rates falling below the annual trend for the second consecutive week.
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/14/low-rainfall-remains-saving-grace-for-thermal-coal-in-china"
 tags: ["China", "Coal", "Drybulk"]
 images_count: 1
-word_count: 243
+word_count: 244
 source_file: "corpus/03-breakwave/insights/2025/2025-08-15_low-rainfall-remains-saving-grace-for-thermal-coal-in-china.html"
 ---
 

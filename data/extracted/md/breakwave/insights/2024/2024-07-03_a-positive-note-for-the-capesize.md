@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/3/a-positive-note-for-the-capesize"
 tags: ["Drybulk", "Shipping", "Capesize"]
 images_count: 5
-word_count: 1522
+word_count: 1527
 source_file: "corpus/03-breakwave/insights/2024/2024-07-03_a-positive-note-for-the-capesize.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-07-03_a-positive-note-for-t
 ---
 
 **Dry Weekly Market Monitor - Week 27.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 July 02, 2024
 
 ![Στιγμιότυπο Οθόνης 2024 07 03 103239](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-03_a-positive-note-for-the-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0e53dba4576b.png)

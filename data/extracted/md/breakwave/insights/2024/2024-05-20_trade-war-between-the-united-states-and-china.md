@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/20/trade-war-between-the-united-states-and-china"
 tags: ["Shipping", "Economy", "Drybulk"]
 images_count: 2
-word_count: 1036
+word_count: 1038
 source_file: "corpus/03-breakwave/insights/2024/2024-05-20_trade-war-between-the-united-states-and-china.html"
 ---
 

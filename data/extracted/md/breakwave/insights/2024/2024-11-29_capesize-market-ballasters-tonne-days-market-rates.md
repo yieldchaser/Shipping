@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/29/capesize-market-ballasters-tonne-days-market-rates"
 tags: ["Shipping", "Drybulk", "Markets"]
 images_count: 5
-word_count: 1299
+word_count: 1304
 source_file: "corpus/03-breakwave/insights/2024/2024-11-29_capesize-market-ballasters-tonne-days-market-rates.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-11-29_capesize-market-balla
 ---
 
 **Dry Weekly Market Monitor - Week 48.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 November 28, 2024
 
 ## Chart of the Week: Capesize Market (Ballasters, Tonne Days, Market Rates)

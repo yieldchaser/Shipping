@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/30/fragility-beneath-apparent-stability"
 tags: ["Capesizes", "China", "Shipping"]
 images_count: 2
-word_count: 1024
+word_count: 1026
 source_file: "corpus/03-breakwave/insights/2025/2025-06-30_fragility-beneath-apparent-stability.html"
 ---
 

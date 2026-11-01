@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/11/5/iron-ore-hero-to-zero-yet-again"
 tags: ["Iron Ore", "Steel", "Price", "Economy"]
 images_count: 4
-word_count: 835
+word_count: 839
 source_file: "corpus/03-breakwave/insights/2021/2021-11-05_iron-ore-hero-to-zero-yet-again.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-11-05_iron-ore-hero-to-zero
 
 Following iron ore’s well-publicised two-month slide from the end of July to the end of September, when the commodity dropped more than fifty per cent, the price recovered, and the steel-making ingredient was again, for a time, one of the better performers among the commodities. However, after gaining some thirteen per cent in three weeks, the party ended yet again in the middle of October. Since then, iron ore prices have rejoined the journey south, with the price dropping a further 28 per cent. The latest plunge has brought iron ore below 100 dollars per tonne for the first time since the end of May last year.
 
-![Ch1](assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch1_717edb328145.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch1_717edb328145.png)
 
 > **Figure 1: Ch1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch1_717edb328145.png)
@@ -35,21 +35,21 @@ According to reports from Mysteel, daily steel production during the latter part
 
 Softening steel demand has also seen the metal’s prices falling. Steel rebar futures in Shanghai have fallen by almost a quarter during the last month. The demand from the Chinese construction sector, which usually accounts for around a quarter of domestic steel demand, remains under pressure after home sales fell and Beijing stepped up its borrowing clampdown. Futures on stainless steel has also retreated in recent days. However, unlike for rebar, the drop is due to an expectation of increasing supplies rather than falling demand. The Chinese stainless steel production is widely expected to increase during November, as some key producing provinces have relaxed their power curbs, with some analysts predicting a fifteen per cent increase.
 
-![Ch2](assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch2_1476546c46f0.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch2_1476546c46f0.png)
 
 > **Figure 2: Ch2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch2_1476546c46f0.png)
 
 Despite the lacklustre Chinese demand for steel, imports of iron ore remain surprisingly robust. According to data from Oceanbolt, the volumes of iron ore discharged in Chinese ports in October were among the highest on record at 108.3 million tonnes. Weekly imports show no signs of abating as we move into November, with the current week on track to be one of the strongest on record.
 
-![Ch3](assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch3_141185e05804.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch3_141185e05804.png)
 
 > **Figure 3: Ch3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch3_141185e05804.png)
 
 While the iron ore imports have remained surprisingly strong in recent weeks and months. Exports bound for Chinese ports have been trending lower in recent weeks, suggesting that volumes discharged in Chinese ports will start to ease in the coming weeks. It typically takes between two and five weeks for a cargo of iron ore to reach the Chinese ports. Hence, there is a delay in how quickly changes in demand will translate into discharged volumes.
 
-![Ch4](assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch4_ab74f3ab5c3f.png)
+![Ch4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch4_ab74f3ab5c3f.png)
 
 > **Figure 4: Ch4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch4_ab74f3ab5c3f.png)

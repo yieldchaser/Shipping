@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/15/steel-price-decline-in-china-is-intensifying"
 tags: ["China", "Ironore", "Shipping"]
 images_count: 2
-word_count: 266
+word_count: 268
 source_file: "corpus/03-breakwave/insights/2024/2024-08-15_steel-price-decline-in-china-is-intensifying.html"
 ---
 

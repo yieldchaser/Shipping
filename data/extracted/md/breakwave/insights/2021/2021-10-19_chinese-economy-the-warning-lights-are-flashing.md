@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/19/chinese-economy-the-warning-lights-are-flashing"
 tags: ["China", "Economy", "Crisis"]
 images_count: 3
-word_count: 949
+word_count: 952
 source_file: "corpus/03-breakwave/insights/2021/2021-10-19_chinese-economy-the-warning-lights-are-flashing.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-10-19_chinese-economy-the-w
 
 The latest release of gross domestic product (GDP) data from the Chinese National Bureau of Statistics made for sobering reading. While the 4.9 per cent year-on-year growth during the third quarter would be impressive for most countries, it must be considered meagre in the context of the Chinese economy. In addition, the latest reading failed to meet the 5.0 to 5.2 per cent consensus expectations published by different news outlets. Many economists have been expecting China’s year-over-year growth to trend lower during the second half of 2021, partially due to base effects from last year’s remarkable recovery kicking in. A repeat of the strong growth during the first half of the year has also looked increasingly unlikely as the quarter progressed and third-quarter growth was only marginally higher than the preceding three months.
 
-![Ch1](assets/2021-10-19_chinese-economy-the-warning-lights-are-flashing_img_ch1_b4bb7e76403c.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-19_chinese-economy-the-warning-lights-are-flashing_img_ch1_b4bb7e76403c.png)
 
 > **Figure 1: Ch1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-19_chinese-economy-the-warning-lights-are-flashing_img_ch1_b4bb7e76403c.png)
@@ -41,14 +41,14 @@ The combination of rising prices and growth rates under pressure has led some ec
 
 As the Chinese economy is coming under pressure, the country’s appetite for imported commodities is waning. After robust volumes being shipped to Chinese ports during the second quarter and the first part of the third quarter, exports took a nosedive in September. Last month saw the lowest levels of exports to China since February, with a year-on-year drop of twelve per cent. Volumes dropped by 29 million tonnes, or seventeen per cent, from August. All the major commodities faced declining quantities, with iron ore the largest in absolute terms with a drop of almost eleven million tonnes. However, in relative terms, gains faced the most significant decline. Given the time lag in seaborne transportation, Chinese imports look set to decline in the coming months with more pressure on growth. The current month does not give much hope of a rapid turnaround either. Almost two-thirds into the month, only 52 per cent of September’s export volumes have been matched, suggesting the month will show yet another decline.
 
-![Ch2](assets/2021-10-19_chinese-economy-the-warning-lights-are-flashing_img_ch2_f4e202805863.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-19_chinese-economy-the-warning-lights-are-flashing_img_ch2_f4e202805863.png)
 
 > **Figure 2: Ch2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-19_chinese-economy-the-warning-lights-are-flashing_img_ch2_f4e202805863.png)
 
 Despite the significant drop in dry bulk shipments heading for China, seaborne exports to other destinations have held up well. While global export volumes fell by 21 million tonnes between August and September, the drop was less than the exports for China, with the rest of the world offsetting eight million tonnes of the Chinese losses. The current month also appears to be on course to match last month’s volumes, suggesting that the momentum behind the continued global recovery is shifting away from China.
 
-![Ch3](assets/2021-10-19_chinese-economy-the-warning-lights-are-flashing_img_ch3_5dcdd6c9580f.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-19_chinese-economy-the-warning-lights-are-flashing_img_ch3_5dcdd6c9580f.png)
 
 > **Figure 3: Ch3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-19_chinese-economy-the-warning-lights-are-flashing_img_ch3_5dcdd6c9580f.png)

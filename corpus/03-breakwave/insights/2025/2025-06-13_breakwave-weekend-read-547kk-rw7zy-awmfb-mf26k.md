@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/25/breakwave-weekend-read-547kk-rw7zy-awmfb-mf26k"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 13
-word_count: 1413
+word_count: 1426
 source_file: "corpus/03-breakwave/insights/2025/2025-06-13_breakwave-weekend-read-547kk-rw7zy-awmfb-mf26k.html"
 ---
 
@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-06-13_breakwave-weekend-rea
 
 ## Breakwave Shipping Report
 
-**Physical Leads the Way as Traders Remain Cautious**– A resurgence in activity across all asset classes has propelled dry bulk spot rates to multi-month highs, with**Capesize rates reaching their best levels of the year**and Panamax spot rates surpassing $10,000 once again.
+**Physical Leads the Way as Traders Remain Cautious**– A resurgence in activity across all asset classes has propelled dry bulk spot rates to multi-month highs, with **Capesize rates reaching their best levels of the year** and Panamax spot rates surpassing $10,000 once again.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2025610-dry5kji55547l)
 

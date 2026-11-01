@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/26/mainstream-trade-demand-supports-crude-supertanker-rates-so-far-in-2025"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 4
-word_count: 1270
+word_count: 1274
 source_file: "corpus/03-breakwave/insights/2025/2025-03-27_mainstream-trade-demand-supports-crude-supertanker-rates-so-far-in-2025.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/27/critical-scrubber-study-released"
 images_count: 1
-word_count: 347
+word_count: 348
 source_file: "corpus/03-breakwave/insights/2022/2022-10-28_critical-scrubber-study-released.html"
 ---
 

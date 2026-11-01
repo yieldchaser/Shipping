@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/14/coal-prices-drifting-ever-higher-amid-robust-demand"
 tags: ["Coal", "Economy", "Global"]
 images_count: 4
-word_count: 892
+word_count: 896
 source_file: "corpus/03-breakwave/insights/2021/2021-09-14_coal-prices-drifting-ever-higher-amid-robust-demand.html"
 ---
 
@@ -28,28 +28,28 @@ Despite global efforts to decarbonize, the appetite for coal remains as strong a
 
 ### Natural Gas (Usd/mmbtu)
 
-![Ch1](assets/2021-09-14_coal-prices-drifting-ever-higher-amid-robust-demand_img_ch1_5eb9a0cce282.jpg)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-14_coal-prices-drifting-ever-higher-amid-robust-demand_img_ch1_5eb9a0cce282.jpg)
 
 > **Figure 1: Ch1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-14_coal-prices-drifting-ever-higher-amid-robust-demand_img_ch1_5eb9a0cce282.jpg)
 
 It is not only the spill-over effects of the short supply of natural gas and rising gas prices that are driving thermal coal prices higher. The global supply of coal remains under pressure and the volumes shipped so far this month are unlikely to match what was dispatched during August. If the second half of September behaves like the first, the global seaborne exports will fall well short of what was shipped during August. According to data from Oceanbolt, some 42 million tonnes have been shipped so far during the month which would indicate that the full month volumes would fall just short of 100 million tonnes. This would be an eighteen per cent decline on the preceding month and two per cent less than the same month a year ago.
 
-![Ch2](assets/2021-09-14_coal-prices-drifting-ever-higher-amid-robust-demand_img_ch2_351032d2e3ff.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-14_coal-prices-drifting-ever-higher-amid-robust-demand_img_ch2_351032d2e3ff.png)
 
 > **Figure 2: Ch2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-14_coal-prices-drifting-ever-higher-amid-robust-demand_img_ch2_351032d2e3ff.png)
 
 Much of the month-on-month decline in global seaborne exports can be explained by a drop in Indonesian volumes. Adverse weather conditions and disruptions following one of Asia’s worst outbreaks of the coronavirus have put Indonesian coal exports on track for a drop by a third, compared to the previous month and some five per cent below the volumes during the same month last year. However, the infection rates in the country have been improving rapidly in recent weeks and should benefit export volumes.
 
-![Ch3](assets/2021-09-14_coal-prices-drifting-ever-higher-amid-robust-demand_img_ch3_ae095bf8fb6c.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-14_coal-prices-drifting-ever-higher-amid-robust-demand_img_ch3_ae095bf8fb6c.png)
 
 > **Figure 3: Ch3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-14_coal-prices-drifting-ever-higher-amid-robust-demand_img_ch3_ae095bf8fb6c.png)
 
 The other behemoth in the global coal trade, Australia, has fared generally better than Indonesia. Despite the ongoing diplomatic fracas with what used to be the largest market for Australian coal, China, the country’s coal export volumes have held up remarkably well. Assuming a degree of linearity for the rest of the month, Australian coal exports would only be less than two per cent below the same month last year, which was before the import ban was imposed by Beijing.
 
-![Ch4](assets/2021-09-14_coal-prices-drifting-ever-higher-amid-robust-demand_img_ch4_4f6bfd7acec4.png)
+![Ch4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-14_coal-prices-drifting-ever-higher-amid-robust-demand_img_ch4_4f6bfd7acec4.png)
 
 > **Figure 4: Ch4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-14_coal-prices-drifting-ever-higher-amid-robust-demand_img_ch4_4f6bfd7acec4.png)

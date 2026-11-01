@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/2/8/chinas-housing-market-has-long-been-slowing"
 images_count: 3
-word_count: 476
+word_count: 479
 source_file: "corpus/03-breakwave/insights/2023/2023-02-08_chinas-housing-market-has-long-been-slowing.html"
 ---
 
@@ -42,4 +42,4 @@ The sales total is designated in yuan, which is of course affected by inflation,
 > **Figure 3: Chart 3 (44)**  
 > [Local Asset](assets/2023-02-08_chinas-housing-market-has-long-been-slowing_img_chart3284429_24a3e98bb671.jpg)
 
-**The last time that floor space of commercial buildings sold grew in double digits was back in 2016**. Also of note is that last year ended with 564 million square meters of floor space in commercial buildings available, which marks the**largest amount of floor space available since 2017**. Overall, China’s housing market has been facing headwinds for years, and the coronavirus pandemic has only exasperated the issue. If the pandemic and restrictions do finally come to an end this year, significant oversupply in housing is still set to remain a problem for the market. This is an issue that continues to be analyzed more extensively in Commodore Research's Weekly Dry Bulk Reports and Weekly China Reports.
+**The last time that floor space of commercial buildings sold grew in double digits was back in 2016**. Also of note is that last year ended with 564 million square meters of floor space in commercial buildings available, which marks the **largest amount of floor space available since 2017**. Overall, China’s housing market has been facing headwinds for years, and the coronavirus pandemic has only exasperated the issue. If the pandemic and restrictions do finally come to an end this year, significant oversupply in housing is still set to remain a problem for the market. This is an issue that continues to be analyzed more extensively in Commodore Research's Weekly Dry Bulk Reports and Weekly China Reports.

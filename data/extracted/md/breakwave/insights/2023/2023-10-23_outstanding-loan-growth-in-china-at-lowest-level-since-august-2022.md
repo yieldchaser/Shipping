@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/10/23/outstanding-loan-growth-in-china-at-lowest-level-since-august-2022"
 images_count: 2
-word_count: 359
+word_count: 361
 source_file: "corpus/03-breakwave/insights/2023/2023-10-23_outstanding-loan-growth-in-china-at-lowest-level-since-august-2022.html"
 ---
 

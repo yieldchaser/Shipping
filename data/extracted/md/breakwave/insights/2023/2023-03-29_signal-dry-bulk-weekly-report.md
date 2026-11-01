@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/3/29/signal-dry-bulk-weekly-report"
 images_count: 6
-word_count: 1238
+word_count: 1244
 source_file: "corpus/03-breakwave/insights/2023/2023-03-29_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -33,7 +33,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-29_signal-dry-bulk-weekl
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2ns4zj/310311216?h=dK61XiFkJ1HZh7nEatsGvRnM2ODFNDVsRo4yHjyhWjc) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-29_signal-dry-bulk-weekly-report_img_unnamed-2023-03-29t122925354_ae718f4a2140.png)
 
 Data Source: The Signal Ocean Platform, Dry Bulk Flows
-[Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2ns4zj/310311216?h=dK61XiFkJ1HZh7nEatsGvRnM2ODFNDVsRo4yHjyhWjc)
+ [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2ns4zj/310311216?h=dK61XiFkJ1HZh7nEatsGvRnM2ODFNDVsRo4yHjyhWjc)
 
 The last few days of March brought positive momentum for the smaller vessel categories as we have begun to see clearer signs of demand growth, with grain flows supporting firmness in the second quarter of the year. We have already indicated that the extension of the Black Sea grain trade for the next few days in April and May will boost demand-side sentiment. However, port congestion and vessel supply will challenge the euphoria, as the number of ballast vessels in the Handysize segment is still excessive. Interestingly, Russian grain exports to Egypt and Turkey recorded very high volumes in the first quarter of the year, especially in March when Handysize vessels reached a 48% share of Russian grain exports to Turkey and Panamax vessels reached a 45% share of exports to Egypt. (see image above)
 

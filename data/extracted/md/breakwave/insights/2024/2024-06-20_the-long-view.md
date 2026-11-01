@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/20/the-long-view"
 tags: ["Tankers", "Shipping", "Crude Oil"]
 images_count: 2
-word_count: 804
+word_count: 806
 source_file: "corpus/03-breakwave/insights/2024/2024-06-20_the-long-view.html"
 ---
 

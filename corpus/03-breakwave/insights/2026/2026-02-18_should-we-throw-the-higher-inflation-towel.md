@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/18/should-we-throw-the-higher-inflation-towel"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 4
-word_count: 1218
+word_count: 1222
 source_file: "corpus/03-breakwave/insights/2026/2026-02-18_should-we-throw-the-higher-inflation-towel.html"
 ---
 

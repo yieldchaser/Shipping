@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/9/26/global-grain-trade-forecast-lowered"
 images_count: 4
-word_count: 428
+word_count: 432
 source_file: "corpus/03-breakwave/insights/2022/2022-09-26_global-grain-trade-forecast-lowered.html"
 ---
 

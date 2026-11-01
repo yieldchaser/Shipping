@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/11/chinas-imports-and-exports-have-surpassed-expectations"
 tags: ["Drybulk", "Shipping", "China"]
 images_count: 2
-word_count: 1111
+word_count: 1113
 source_file: "corpus/03-breakwave/insights/2024/2024-03-11_chinas-imports-and-exports-have-surpassed-expectations.html"
 ---
 

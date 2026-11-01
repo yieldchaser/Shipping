@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/4/challenging-outlook-for-the-chinese-economy"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 1
-word_count: 1360
+word_count: 1361
 source_file: "corpus/03-breakwave/insights/2024/2024-09-04_challenging-outlook-for-the-chinese-economy.html"
 ---
 

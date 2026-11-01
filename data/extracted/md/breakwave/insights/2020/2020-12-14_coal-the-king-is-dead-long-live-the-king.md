@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/12/13/coal-the-king-is-dead-long-live-the-king"
 tags: ["Coal", "Dry Bulk", "Capesize", "Panamax", "China", "India", "Usa"]
 images_count: 4
-word_count: 1531
+word_count: 1535
 source_file: "corpus/03-breakwave/insights/2020/2020-12-14_coal-the-king-is-dead-long-live-the-king.html"
 ---
 

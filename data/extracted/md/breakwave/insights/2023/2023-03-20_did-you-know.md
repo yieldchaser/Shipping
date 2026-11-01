@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/3/20/did-you-know"
 images_count: 3
-word_count: 245
+word_count: 248
 source_file: "corpus/03-breakwave/insights/2023/2023-03-20_did-you-know.html"
 ---
 

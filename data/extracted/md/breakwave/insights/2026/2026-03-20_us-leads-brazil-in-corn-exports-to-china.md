@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/20/us-leads-brazil-in-corn-exports-to-china"
 tags: ["Capesize", "Drybulk", "Shipping"]
 images_count: 19
-word_count: 2354
+word_count: 2373
 source_file: "corpus/03-breakwave/insights/2026/2026-03-20_us-leads-brazil-in-corn-exports-to-china.html"
 ---
 

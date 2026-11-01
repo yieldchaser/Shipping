@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/27/dry-bulk-coal-flows-to-china"
 tags: ["Drybulk", "Shipping", "Freightrates"]
 images_count: 5
-word_count: 1254
+word_count: 1259
 source_file: "corpus/03-breakwave/insights/2024/2024-03-27_dry-bulk-coal-flows-to-china.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-27_dry-bulk-coal-flows-t
 ---
 
 **Dry Weekly Market Monitor - Week 13.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 March 27, 2024
 
 ![Screenshot 2024 03 27 16.11.23](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-27_dry-bulk-coal-flows-to-china_img_screenshot2024-03-27161123_fedf2352f79d.png)

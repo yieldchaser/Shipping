@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/16/sudden-strong-growth-in-coal-indias-output"
 tags: ["Coal", "Markets", "Commodities"]
 images_count: 3
-word_count: 376
+word_count: 379
 source_file: "corpus/03-breakwave/insights/2025/2025-09-16_sudden-strong-growth-in-coal-indias-output.html"
 ---
 

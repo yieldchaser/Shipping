@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/27/yyohoiqouts9djbnetmy8855aanuzp"
 tags: ["China", "Economy", "Markets"]
 images_count: 3
-word_count: 370
+word_count: 373
 source_file: "corpus/03-breakwave/insights/2024/2024-09-27_yyohoiqouts9djbnetmy8855aanuzp.html"
 ---
 

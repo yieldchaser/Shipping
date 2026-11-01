@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/21/sidi-kerir-demand-impact-muted-crude-tanker-mileage-decline-driven-by-vlccs"
 tags: ["Tankers", "Shipping", "Crude Oil"]
 images_count: 5
-word_count: 1208
+word_count: 1213
 source_file: "corpus/03-breakwave/insights/2024/2024-03-21_sidi-kerir-demand-impact-muted-crude-tanker-mileage-decline-driven-by-vlccs.html"
 ---
 

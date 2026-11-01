@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/11/2/china-the-success-story-maintains-its-momentum"
 tags: ["China", "Shipping"]
 images_count: 3
-word_count: 621
+word_count: 624
 source_file: "corpus/03-breakwave/insights/2020/2020-11-02_china-the-success-story-maintains-its-momentum.html"
 ---
 

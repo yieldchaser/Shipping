@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/11/ar4nqv0geb3d0on6zju7b9atkni2r6"
 tags: ["Capesize", "Dry Bulk"]
 images_count: 4
-word_count: 1042
+word_count: 1046
 source_file: "corpus/03-breakwave/insights/2021/2021-01-12_ar4nqv0geb3d0on6zju7b9atkni2r6.html"
 ---
 
@@ -36,7 +36,7 @@ As we have frequently done here though, we would try to put some context on the 
 > **Figure 2: Ice Vessel 1**  
 > **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/12/28/a-quiet-week-for-dry-bulk-while-futures-fairly-priced-based-on-history) | [Local Asset](assets/2021-01-12_ar4nqv0geb3d0on6zju7b9atkni2r6_img_icevessel1_0bd540f114ea.jpg)
 
-In late December, as we discussed[here](https://www.breakwaveadvisors.com/insights/2020/12/28/a-quiet-week-for-dry-bulk-while-futures-fairly-priced-based-on-history)and[here](../pdfs/2021-01-12_ar4nqv0geb3d0on6zju7b9atkni2r6_breakwavedecember222020report_2864b3322715.pdf), the necessary ingredients were in place for a winter rally in Capesize rates that could propel the spot market into the 20,000 range. The market reached such level faster than we expected and obviously overshoot (as it always does) on the back of mainly the catalysts that we identified: Strong demand from Australia as a result of record-high iron ore prices (that also have put a[lot of political pressure to miners](https://www.scmp.com/economy/china-economy/article/3114234/china-australia-relations-miner-rio-tinto-questioned-china)to bring such prices down to earth) and a dwelling supply of ships in the Atlantic as owners expected the same abysmal market like in the past few years thus refused to sail to Brazil and preferred to stay in the Asia region.
+In late December, as we discussed [here](https://www.breakwaveadvisors.com/insights/2020/12/28/a-quiet-week-for-dry-bulk-while-futures-fairly-priced-based-on-history) and [here](../pdfs/2021-01-12_ar4nqv0geb3d0on6zju7b9atkni2r6_breakwavedecember222020report_2864b3322715.pdf), the necessary ingredients were in place for a winter rally in Capesize rates that could propel the spot market into the 20,000 range. The market reached such level faster than we expected and obviously overshoot (as it always does) on the back of mainly the catalysts that we identified: Strong demand from Australia as a result of record-high iron ore prices (that also have put a[lot of political pressure to miners](https://www.scmp.com/economy/china-economy/article/3114234/china-australia-relations-miner-rio-tinto-questioned-china) to bring such prices down to earth) and a dwelling supply of ships in the Atlantic as owners expected the same abysmal market like in the past few years thus refused to sail to Brazil and preferred to stay in the Asia region.
 
 However, the great majority of market participants remained convinced that seasonality will once again plunge spot rates back to cash-breakeven levels in the single digit region no matter what.
 

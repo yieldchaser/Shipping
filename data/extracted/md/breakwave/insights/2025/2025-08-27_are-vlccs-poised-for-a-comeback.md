@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/27/are-vlccs-poised-for-a-comeback"
 tags: ["Tankers", "Markets", "Shipping"]
 images_count: 1
-word_count: 346
+word_count: 347
 source_file: "corpus/03-breakwave/insights/2025/2025-08-27_are-vlccs-poised-for-a-comeback.html"
 ---
 

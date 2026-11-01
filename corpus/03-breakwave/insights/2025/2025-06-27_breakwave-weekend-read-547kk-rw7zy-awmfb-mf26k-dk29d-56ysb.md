@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/25/breakwave-weekend-read-547kk-rw7zy-awmfb-mf26k-dk29d-56ysb"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 11
-word_count: 1211
+word_count: 1222
 source_file: "corpus/03-breakwave/insights/2025/2025-06-27_breakwave-weekend-read-547kk-rw7zy-awmfb-mf26k-dk29d-56ysb.html"
 ---
 
@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-06-27_breakwave-weekend-rea
 
 ## Breakwave Shipping Report
 
-**Capesize Spike Fades as Market Balance Loosens**– The recent rally that pushed spot**Capesize rates to the $30,000**mark is beginning to lose steam, with signs of weakness emerging in the Pacific market.
+**Capesize Spike Fades as Market Balance Loosens**– The recent rally that pushed spot **Capesize rates to the $30,000** mark is beginning to lose steam, with signs of weakness emerging in the Pacific market.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2025624-drybulk)
 

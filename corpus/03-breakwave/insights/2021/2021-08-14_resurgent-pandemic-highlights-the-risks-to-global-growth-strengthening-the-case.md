@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/13/resurgent-pandemic-highlights-the-risks-to-global-growth-strengthening-the-case-for-continued-economic-stimulus"
 tags: ["Economy", "Shipping", "Pandemic"]
 images_count: 2
-word_count: 774
+word_count: 776
 source_file: "corpus/03-breakwave/insights/2021/2021-08-14_resurgent-pandemic-highlights-the-risks-to-global-growth-strengthening-the-case.html"
 ---
 

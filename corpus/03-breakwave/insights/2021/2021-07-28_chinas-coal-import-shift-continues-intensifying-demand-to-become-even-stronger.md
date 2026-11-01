@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/26/chinas-coal-import-shift-continues-intensifying-demand-to-become-even-stronger"
 tags: ["China", "Coal", "Electricity"]
 images_count: 1
-word_count: 592
+word_count: 593
 source_file: "corpus/03-breakwave/insights/2021/2021-07-28_chinas-coal-import-shift-continues-intensifying-demand-to-become-even-stronger.html"
 ---
 

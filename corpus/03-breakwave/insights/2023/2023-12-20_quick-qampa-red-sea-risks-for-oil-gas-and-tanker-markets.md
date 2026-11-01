@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/12/20/quick-qampa-red-sea-risks-for-oil-gas-and-tanker-markets"
 images_count: 1
-word_count: 947
+word_count: 948
 source_file: "corpus/03-breakwave/insights/2023/2023-12-20_quick-qampa-red-sea-risks-for-oil-gas-and-tanker-markets.html"
 ---
 

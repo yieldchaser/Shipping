@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/30/the-dry-bulk-freight-market-remains-a-tale"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 1
-word_count: 1505
+word_count: 1506
 source_file: "corpus/03-breakwave/insights/2024/2024-07-30_the-dry-bulk-freight-market-remains-a-tale.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/17/ongoing-strength-in-chinese-steel-and-coal-markets"
 tags: ["China", "Steel"]
 images_count: 1
-word_count: 553
+word_count: 554
 source_file: "corpus/03-breakwave/insights/2021/2021-05-17_ongoing-strength-in-chinese-steel-and-coal-markets.html"
 ---
 
@@ -26,7 +26,7 @@ Dry bulk rates were mixed last week, with capesize rates declining while rates i
 
 In China, the most recent data shows that daily crude steel output at large and medium-sized mills averaged a record 2.42 million tons during May 1 - May 10. This is up by 1% from late April’s production average (which at the time set a record) and is up year-on-year by 18%. As we have long been stressing in our Weekly Dry Bulk Reports this year, China’s steel output has been poised to stay strong even as the government has been working to place limitations on heavy polluting mills near Beijing. We remain of our view that China’s total steel output this year will not come close to contracting.
 
-![Comm May 17](assets/2021-05-17_ongoing-strength-in-chinese-steel-and-coal-markets_img_commmay17_0b95b32518e6.jpg)
+![Comm May 17](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-17_ongoing-strength-in-chinese-steel-and-coal-markets_img_commmay17_0b95b32518e6.jpg)
 
 > **Figure 1: Comm May 17**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-17_ongoing-strength-in-chinese-steel-and-coal-markets_img_commmay17_0b95b32518e6.jpg)

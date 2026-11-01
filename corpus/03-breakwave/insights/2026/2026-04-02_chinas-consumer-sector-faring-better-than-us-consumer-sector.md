@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/4/2/chinas-consumer-sector-faring-better-than-us-consumer-sector"
 tags: ["China", "Economy", "Markets"]
 images_count: 3
-word_count: 330
+word_count: 333
 source_file: "corpus/03-breakwave/insights/2026/2026-04-02_chinas-consumer-sector-faring-better-than-us-consumer-sector.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/13/metals-gain-as-supply-side-issues-re-emerge"
 tags: ["China", "Commodities", "Markets"]
 images_count: 2
-word_count: 779
+word_count: 781
 source_file: "corpus/03-breakwave/insights/2025/2025-03-13_metals-gain-as-supply-side-issues-re-emerge.html"
 ---
 

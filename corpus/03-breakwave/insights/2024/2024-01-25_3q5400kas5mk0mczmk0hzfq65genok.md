@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/1/25/3q5400kas5mk0mczmk0hzfq65genok"
 images_count: 1
-word_count: 1237
+word_count: 1238
 source_file: "corpus/03-breakwave/insights/2024/2024-01-25_3q5400kas5mk0mczmk0hzfq65genok.html"
 ---
 

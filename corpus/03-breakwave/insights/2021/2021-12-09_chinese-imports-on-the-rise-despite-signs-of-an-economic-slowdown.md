@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/12/9/chinese-imports-on-the-rise-despite-signs-of-an-economic-slowdown"
 tags: ["Economy", "Imports", "China"]
 images_count: 1
-word_count: 863
+word_count: 864
 source_file: "corpus/03-breakwave/insights/2021/2021-12-09_chinese-imports-on-the-rise-despite-signs-of-an-economic-slowdown.html"
 ---
 

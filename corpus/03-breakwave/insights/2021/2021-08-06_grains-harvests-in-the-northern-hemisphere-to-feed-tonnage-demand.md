@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/6/grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-demand"
 tags: ["Shipping", "Rates"]
 images_count: 3
-word_count: 1126
+word_count: 1129
 source_file: "corpus/03-breakwave/insights/2021/2021-08-06_grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-demand.html"
 ---
 

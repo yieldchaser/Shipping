@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/12/17/chinese-teapots-face-challenges-in-securing-crude-imports-despite-fresh-quotas"
 tags: ["Shipping", "Markets", "Crude"]
 images_count: 3
-word_count: 1191
+word_count: 1194
 source_file: "corpus/03-breakwave/insights/2024/2024-12-17_chinese-teapots-face-challenges-in-securing-crude-imports-despite-fresh-quotas.html"
 ---
 
@@ -28,7 +28,7 @@ China recently issued an additional crude oil import quota of over 6mt to some i
 
 However, not all qualified refiners have applied for the additional allocations. Many have been operating at low rates this year due to weak domestic demand, and the usual end-of-year quota shortage has fortuitously not materialised this time. Now, refiners who have been granted additional quotas may face challenges in completing the required volumes in time.
 
-While Yulong’s start-up boosts overall refinery runs in Shandong, crude reloads from Shandong’s storage tanks for refiners outside the province have been increasing in recent months (earlier[China blog](https://www.vortexa.com/insights/crude/a-close-eye-on-iranian-oil-flows-to-china-amid-heightened-geopolitical-risks/)). Shandong’s net feedstock (crude and residual fuel oil) imports stood at 2.7mbd in November, compared to the two-year average of 3.1 mbd, and this weakness is expected to continue into December.
+While Yulong’s start-up boosts overall refinery runs in Shandong, crude reloads from Shandong’s storage tanks for refiners outside the province have been increasing in recent months (earlier [China blog](https://www.vortexa.com/insights/crude/a-close-eye-on-iranian-oil-flows-to-china-amid-heightened-geopolitical-risks/)). Shandong’s net feedstock (crude and residual fuel oil) imports stood at 2.7mbd in November, compared to the two-year average of 3.1 mbd, and this weakness is expected to continue into December.
 
 ![Στιγμιότυπο Οθόνης 2024 12 17 123544](assets/2024-12-17_chinese-teapots-face-challenges-in-securing-crude-imports-despite-fresh-quotas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bf4c7468dc1b.png)
 
@@ -37,7 +37,7 @@ While Yulong’s start-up boosts overall refinery runs in Shandong, crude reload
 
 ## Spr Stockpile Reduces Russian Espo Supplies to Shandong Teapots
 
-China’s stockpiling under the latest SPR mandate accelerated in November, with more Russian ESPO Blend crude and non-Iranian Middle Eastern grades added to[majors-owned commercial storage tanks](https://analytics.vortexa.com/OnShoreCrudeInventories?dateRange=2023-01-01T00%3A00%3A00.000Z__2024-12-01T23%3A59%3A59.999Z&onshoreInventoriesLocations=%5B%225e0cb0b66780a00576309aecff1b65934fc580d775bab29ac2a79397d8544e04%22%2C%22b5fafce6e20de2dc307fb7e0b89978ee91a49a7b6ec6f5461daf2633f3c56674%22%2C%220fddbfd0d90bad306a92fcb483a19276f101a5f7f0783363f9f2a9d40c10558d%22%5D&owners=%5B%220378fb82d2401de13a59bd08bb385f1a20adf21e2da07db44a946af23130f729%22%2C%229cc2c2bd3dd7dd76abc9c2f444f9f9982f35f1a351d7063b1b10d96b5b5ad930%22%2C%22656b4e8dc3c37a0efdd7a38c901d4f215dbcae10c19687c16de1ab8455cf127a%22%2C%2283752cdf35981ccf2eb235ff37a86354de4b66e32511a822a5442a8f9a636f63%22%2C%225973f00db1db3a658ee24b7e061503949b8c93d845d6f11a8c9ed059b377b3d7%22%5D&page=OnShoreCrudeInventories&selectedRegion=%5B%22b5fafce6e20de2dc307fb7e0b89978ee91a49a7b6ec6f5461daf2633f3c56674%22%5D&tabId=528ba9e9-41ee-4054-bea2-ab8d7bee1d65&tankCrude=%5B%22confirmed%22%2C%22probable%22%5D&tankStorageType=%5B%22commercial%22%5D). Since the program began in late September, approximately 25mb of crude oil have been added to the tanks by the end of November, surpassing the total increase in the country’s overall onshore crude stock levels.
+China’s stockpiling under the latest SPR mandate accelerated in November, with more Russian ESPO Blend crude and non-Iranian Middle Eastern grades added to [majors-owned commercial storage tanks](https://analytics.vortexa.com/OnShoreCrudeInventories?dateRange=2023-01-01T00%3A00%3A00.000Z__2024-12-01T23%3A59%3A59.999Z&onshoreInventoriesLocations=%5B%225e0cb0b66780a00576309aecff1b65934fc580d775bab29ac2a79397d8544e04%22%2C%22b5fafce6e20de2dc307fb7e0b89978ee91a49a7b6ec6f5461daf2633f3c56674%22%2C%220fddbfd0d90bad306a92fcb483a19276f101a5f7f0783363f9f2a9d40c10558d%22%5D&owners=%5B%220378fb82d2401de13a59bd08bb385f1a20adf21e2da07db44a946af23130f729%22%2C%229cc2c2bd3dd7dd76abc9c2f444f9f9982f35f1a351d7063b1b10d96b5b5ad930%22%2C%22656b4e8dc3c37a0efdd7a38c901d4f215dbcae10c19687c16de1ab8455cf127a%22%2C%2283752cdf35981ccf2eb235ff37a86354de4b66e32511a822a5442a8f9a636f63%22%2C%225973f00db1db3a658ee24b7e061503949b8c93d845d6f11a8c9ed059b377b3d7%22%5D&page=OnShoreCrudeInventories&selectedRegion=%5B%22b5fafce6e20de2dc307fb7e0b89978ee91a49a7b6ec6f5461daf2633f3c56674%22%5D&tabId=528ba9e9-41ee-4054-bea2-ab8d7bee1d65&tankCrude=%5B%22confirmed%22%2C%22probable%22%5D&tankStorageType=%5B%22commercial%22%5D). Since the program began in late September, approximately 25mb of crude oil have been added to the tanks by the end of November, surpassing the total increase in the country’s overall onshore crude stock levels.
 
 Oil majors are expected to achieve the 60mb target by March if the current stockpiling rate of 350kbd continues.
 

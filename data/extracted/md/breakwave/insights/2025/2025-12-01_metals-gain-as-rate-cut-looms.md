@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/1/metals-gain-as-rate-cut-looms"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 2
-word_count: 826
+word_count: 828
 source_file: "corpus/03-breakwave/insights/2025/2025-12-01_metals-gain-as-rate-cut-looms.html"
 ---
 

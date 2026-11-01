@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/8/vlcc-market"
 tags: ["Crude", "Markets", "Tankers"]
 images_count: 2
-word_count: 259
+word_count: 261
 source_file: "corpus/03-breakwave/insights/2026/2026-05-08_vlcc-market.html"
 ---
 

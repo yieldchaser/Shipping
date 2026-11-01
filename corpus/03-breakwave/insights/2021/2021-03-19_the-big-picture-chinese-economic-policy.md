@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/18/the-big-picture-chinese-economic-policy"
 tags: ["China", "Economics", "Global Economy"]
 images_count: 3
-word_count: 1379
+word_count: 1382
 source_file: "corpus/03-breakwave/insights/2021/2021-03-19_the-big-picture-chinese-economic-policy.html"
 ---
 

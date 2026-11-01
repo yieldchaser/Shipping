@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/7/9/oil-extends-gains-on-renewed-us-and-iran-attacks"
 tags: ["Commodities", "Shipping", "Markets"]
 images_count: 2
-word_count: 855
+word_count: 857
 source_file: "corpus/03-breakwave/insights/2026/2026-07-09_oil-extends-gains-on-renewed-us-and-iran-attacks.html"
 ---
 

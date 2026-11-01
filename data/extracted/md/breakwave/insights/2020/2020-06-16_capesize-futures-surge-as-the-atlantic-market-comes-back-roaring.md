@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/16/capesize-futures-surge-as-the-atlantic-market-comes-back-roaring"
 tags: ["Shipping", "Capesize", "China", "Dry Bulk", "Australia", "Brazil"]
 images_count: 3
-word_count: 826
+word_count: 829
 source_file: "corpus/03-breakwave/insights/2020/2020-06-16_capesize-futures-surge-as-the-atlantic-market-comes-back-roaring.html"
 ---
 

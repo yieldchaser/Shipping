@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/24/aframax-dirty-tonne-days"
 tags: ["Tankers", "Crude Oil", "Shipping"]
 images_count: 10
-word_count: 1474
+word_count: 1484
 source_file: "corpus/03-breakwave/insights/2024/2024-05-24_aframax-dirty-tonne-days.html"
 ---
 

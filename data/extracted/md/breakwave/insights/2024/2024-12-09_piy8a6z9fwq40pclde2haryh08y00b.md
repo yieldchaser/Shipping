@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/12/9/piy8a6z9fwq40pclde2haryh08y00b"
 tags: ["Coal", "China", "Drybulk"]
 images_count: 4
-word_count: 296
+word_count: 300
 source_file: "corpus/03-breakwave/insights/2024/2024-12-09_piy8a6z9fwq40pclde2haryh08y00b.html"
 ---
 

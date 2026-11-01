@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/1/8/a-new-year-and-a-return-to-normality"
 tags: ["Shipping", "Dry Bulk", "COVID-19"]
 images_count: 1
-word_count: 905
+word_count: 906
 source_file: "corpus/03-breakwave/insights/2022/2022-01-08_a-new-year-and-a-return-to-normality.html"
 ---
 

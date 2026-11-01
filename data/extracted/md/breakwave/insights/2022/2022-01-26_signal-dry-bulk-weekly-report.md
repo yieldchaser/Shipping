@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/1/26/signal-dry-bulk-weekly-report"
 tags: ["Shipping", "Dry Bulk", "Freight", "Rates"]
 images_count: 4
-word_count: 946
+word_count: 950
 source_file: "corpus/03-breakwave/insights/2022/2022-01-26_signal-dry-bulk-weekly-report.html"
 ---
 

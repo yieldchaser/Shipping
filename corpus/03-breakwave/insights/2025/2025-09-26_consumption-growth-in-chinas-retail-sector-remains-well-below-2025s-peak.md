@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/26/consumption-growth-in-chinas-retail-sector-remains-well-below-2025s-peak"
 tags: ["China", "Economy", "Markets"]
 images_count: 2
-word_count: 352
+word_count: 354
 source_file: "corpus/03-breakwave/insights/2025/2025-09-26_consumption-growth-in-chinas-retail-sector-remains-well-below-2025s-peak.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/12/damage-control"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 2
-word_count: 632
+word_count: 634
 source_file: "corpus/03-breakwave/insights/2026/2026-10-12_damage-control.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/8/13/indias-dramatic-improvement-continues"
 tags: ["Coal", "Commodities", "Drybulk"]
 images_count: 2
-word_count: 276
+word_count: 278
 source_file: "corpus/03-breakwave/insights/2026/2026-08-13_indias-dramatic-improvement-continues.html"
 ---
 
@@ -29,7 +29,7 @@ As we discussed in Commodore Research's most recent Weekly Executive Report, Ind
 > **Figure 1: Chart 1**  
 > [Local Asset](assets/2026-08-13_indias-dramatic-improvement-continues_img_chart1_1217d55051d4.jpg)
 
-Coal-derived electricity generation totaled approximately 113.7 billion kilowatt hours. This is down month-on-month by 8.7 billion kilowatt hours (-7%), up year-on-year by 7.6 billion kilowatt hours (7%), and is the largest amount ever produced in July. Generation has grown year-on-year for four straight months. Previously, it had fallen on a year-on-year basis in nine of the prior twelve months, which marked the**only time this decade**that such an event had occurred. As we have stressed in our work, the Iran war has been aiding thermal coal demand. Temperatures have also been warmer than usual and hydropower output has been in contraction.
+Coal-derived electricity generation totaled approximately 113.7 billion kilowatt hours. This is down month-on-month by 8.7 billion kilowatt hours (-7%), up year-on-year by 7.6 billion kilowatt hours (7%), and is the largest amount ever produced in July. Generation has grown year-on-year for four straight months. Previously, it had fallen on a year-on-year basis in nine of the prior twelve months, which marked the **only time this decade** that such an event had occurred. As we have stressed in our work, the Iran war has been aiding thermal coal demand. Temperatures have also been warmer than usual and hydropower output has been in contraction.
 
 ![Chart 2](assets/2026-08-13_indias-dramatic-improvement-continues_img_chart2_6793495e3b8a.jpg)
 

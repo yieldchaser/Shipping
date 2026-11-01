@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/8/3/prisoners-of-geography"
 tags: ["Shipping", "Markets", "Tankers"]
 images_count: 2
-word_count: 818
+word_count: 820
 source_file: "corpus/03-breakwave/insights/2026/2026-08-03_prisoners-of-geography.html"
 ---
 

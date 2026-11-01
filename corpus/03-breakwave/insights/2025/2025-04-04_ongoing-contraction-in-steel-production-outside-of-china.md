@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/4/ongoing-contraction-in-steel-production-outside-of-china"
 tags: ["China", "Economy", "Markets"]
 images_count: 2
-word_count: 240
+word_count: 242
 source_file: "corpus/03-breakwave/insights/2025/2025-04-04_ongoing-contraction-in-steel-production-outside-of-china.html"
 ---
 

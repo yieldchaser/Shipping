@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/31/chinas-ban-on-australian-coal-imports-remains-intact-restrictions-on-mongolian-coal-trucks-remain-in-place"
 tags: ["Australia", "Coal", "China"]
 images_count: 2
-word_count: 550
+word_count: 552
 source_file: "corpus/03-breakwave/insights/2021/2021-03-31_chinas-ban-on-australian-coal-imports-remains-intact-restrictions-on-mongolian-c.html"
 ---
 
@@ -20,9 +20,9 @@ source_file: "corpus/03-breakwave/insights/2021/2021-03-31_chinas-ban-on-austral
 
 ---
 
-By[Jeffrey Landsberg](mailto:jeffrey@commodore-research.com)
+By [Jeffrey Landsberg](mailto:jeffrey@commodore-research.com)
 
-![Compass](assets/2021-03-31_chinas-ban-on-australian-coal-imports-remains-intact-restrictions-on-mongolian-c_img_compass_839c0120ad15.jpeg)
+![Compass](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-31_chinas-ban-on-australian-coal-imports-remains-intact-restrictions-on-mongolian-c_img_compass_839c0120ad15.jpeg)
 
 > **Figure 1: Compass**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-31_chinas-ban-on-australian-coal-imports-remains-intact-restrictions-on-mongolian-c_img_compass_839c0120ad15.jpeg)
@@ -33,7 +33,7 @@ China’s coal imports from Indonesia totaled 28.6 million tons in January/Febru
 
 Mongolia and the United States were the only two major exporters to experience year-on-year growth in their coal exports to China in January/February. Again, though, exports from Mongolia are now coming under significant pressure. Mongolia exported a total of 4.5 million tons of coal to China in January/February. While this is up year-on-year by 1.3 million tons (41%), China’s imports from Mongolia will be coming under significant pressure for as long as the Mongolian coal truck limitations are in place. Also up in January/February were exports from the United States. The United States exported a total of 600,000 tons of coal to China in January/February, which has marked a year-on-year increase of 500,000 tons (500%).
 
-![Commod 3](assets/2021-03-31_chinas-ban-on-australian-coal-imports-remains-intact-restrictions-on-mongolian-c_img_commod3_5e8b0be02d71.jpg)
+![Commod 3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-31_chinas-ban-on-australian-coal-imports-remains-intact-restrictions-on-mongolian-c_img_commod3_5e8b0be02d71.jpg)
 
 > **Figure 2: Commod 3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-31_chinas-ban-on-australian-coal-imports-remains-intact-restrictions-on-mongolian-c_img_commod3_5e8b0be02d71.jpg)

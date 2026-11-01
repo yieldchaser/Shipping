@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/25/a-system-under-stress"
 tags: ["Shipping", "Markets", "Geopolitics"]
 images_count: 1
-word_count: 667
+word_count: 668
 source_file: "corpus/03-breakwave/insights/2026/2026-03-25_a-system-under-stress.html"
 ---
 

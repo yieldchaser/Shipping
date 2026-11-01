@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/2/17/inventory-drawdowns-boosts-sentiment-across-metals"
 images_count: 1
-word_count: 558
+word_count: 559
 source_file: "corpus/03-breakwave/insights/2023/2023-02-17_inventory-drawdowns-boosts-sentiment-across-metals.html"
 ---
 

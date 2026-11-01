@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/2/india-buoying-global-steel-production"
 tags: ["China", "India", "Steel"]
 images_count: 3
-word_count: 293
+word_count: 296
 source_file: "corpus/03-breakwave/insights/2025/2025-08-02_india-buoying-global-steel-production.html"
 ---
 

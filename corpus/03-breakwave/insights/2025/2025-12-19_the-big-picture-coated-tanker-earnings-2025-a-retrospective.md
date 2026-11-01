@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/19/the-big-picture-coated-tanker-earnings-2025-a-retrospective"
 tags: ["Tankers", "Crude", "Shipping"]
 images_count: 4
-word_count: 2039
+word_count: 2043
 source_file: "corpus/03-breakwave/insights/2025/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective.html"
 ---
 
@@ -101,13 +101,13 @@ A widening gulf between supply in the East versus the Atlantic through Q3 accent
 > **Figure 4: 64a6 Image 3 1766079308490**  
 > [Local Asset](assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_64a6-image-3-1766079308490_047dfb77141e.png)
 
-**Time charter**rates for LR2s have improved since an April low of $29k/day for one year. The one-year rate is now up to $36.5k/day. By the end of 2025, MR one year TC rates were back to where they started at just over $23k/day.
+**Time charter** rates for LR2s have improved since an April low of $29k/day for one year. The one-year rate is now up to $36.5k/day. By the end of 2025, MR one year TC rates were back to where they started at just over $23k/day.
 
-**Asset values**for uncoated tankers were on a downward trajectory for most of the year but recovered in November as spot rates improved. 5-year-old MRs started the year at $44m, dropped to 40m by September, and recovered to $45m since November. 5-year-old LR2s reached $71.5m in February before weakening to $63m during the Northern Hemisphere summer, rising to $70m by November. Newbuilding prices ended the year lower than they started, despite a small rally at the very end of the year.
+**Asset values** for uncoated tankers were on a downward trajectory for most of the year but recovered in November as spot rates improved. 5-year-old MRs started the year at $44m, dropped to 40m by September, and recovered to $45m since November. 5-year-old LR2s reached $71.5m in February before weakening to $63m during the Northern Hemisphere summer, rising to $70m by November. Newbuilding prices ended the year lower than they started, despite a small rally at the very end of the year.
 
-**NB ordering**activity has been historically strong this year in the coated tanker sector, with another 47.3m DWT ordered, down the near-record ordering activity of 60.7m DWT last year.
+**NB ordering** activity has been historically strong this year in the coated tanker sector, with another 47.3m DWT ordered, down the near-record ordering activity of 60.7m DWT last year.
 
-2025 was a busy year for**second hand sales**of coated tankers. Sales in DWT terms were up 11% on 2024, but still just 64% of the average annual activity in the 3 years from 2021 to 2023.
+2025 was a busy year for **second hand sales** of coated tankers. Sales in DWT terms were up 11% on 2024, but still just 64% of the average annual activity in the 3 years from 2021 to 2023.
 
 ---
 

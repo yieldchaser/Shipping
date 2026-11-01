@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/4/big-3-lose-share-of-global-crude-exports-in-august"
 tags: ["Tankers", "Markets", "Crude"]
 images_count: 3
-word_count: 967
+word_count: 970
 source_file: "corpus/03-breakwave/insights/2024/2024-09-04_big-3-lose-share-of-global-crude-exports-in-august.html"
 ---
 

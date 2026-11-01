@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/2/vlcc-second-hand-prices-at-decade-highs"
 tags: ["Oil", "Tankers", "Crude"]
 images_count: 14
-word_count: 2625
+word_count: 2639
 source_file: "corpus/03-breakwave/insights/2026/2026-03-02_vlcc-second-hand-prices-at-decade-highs.html"
 ---
 
@@ -141,11 +141,11 @@ The clean segment is concluding the final week of February with a clear upward m
 
 ## Supply Market Trends
 
-Previous weekly market monitors concentrated on routes where our[Signal Ocean Platform](https://go.signalocean.com/e/983831/al-ocean-signal-ocean-platform/2rwkyr/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ)signals indicated an oversupplied market. This week, however, we shift our focus from oversupply to routes showing an undersupplied picture.
+Previous weekly market monitors concentrated on routes where our [Signal Ocean Platform](https://go.signalocean.com/e/983831/al-ocean-signal-ocean-platform/2rwkyr/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) signals indicated an oversupplied market. This week, however, we shift our focus from oversupply to routes showing an undersupplied picture.
 
 ## VLCC | AG & Wafr
 
-The latest[Signal Ocean Platform](https://go.signalocean.com/e/983831/al-ocean-signal-ocean-platform/2rwkyr/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ)figures indicate an undersupplied market on the TD3 route (-27% WoW ~80 Vessels).
+The latest [Signal Ocean Platform](https://go.signalocean.com/e/983831/al-ocean-signal-ocean-platform/2rwkyr/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) figures indicate an undersupplied market on the TD3 route (-27% WoW ~80 Vessels).
 
 **AG:**The vessel count has fallen sharply to one of the lowest levels recorded in the first two months of the year, accelerating its decline since the end of January.
 
@@ -163,7 +163,7 @@ The spike in the availability of spot/relet vessels on the TD15 route has now dr
 
 ## Suezmax | Wafr
 
-Spot/relet vessels on the TD20 route reversed the upward trend recorded in our latest[**Tanker Market Monitor**](https://go.signalocean.com/e/983831/er-market-monitor-week-07-2026/2rwkyn/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ), and the current[Signal Ocean Platform](https://go.signalocean.com/e/983831/al-ocean-signal-ocean-platform/2rwkyr/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ)data indicate that the TD20 route is now undersupplied (-30% vs the 3-month average), with a 29% weekly increase in freight rates.
+Spot/relet vessels on the TD20 route reversed the upward trend recorded in our latest[**Tanker Market Monitor**](https://go.signalocean.com/e/983831/er-market-monitor-week-07-2026/2rwkyn/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ), and the current [Signal Ocean Platform](https://go.signalocean.com/e/983831/al-ocean-signal-ocean-platform/2rwkyr/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) data indicate that the TD20 route is now undersupplied (-30% vs the 3-month average), with a 29% weekly increase in freight rates.
 
 ![Signal Ocean Platform](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282629_18c610805063.png)
 

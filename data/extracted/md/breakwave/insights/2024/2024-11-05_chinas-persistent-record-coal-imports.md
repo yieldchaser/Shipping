@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/5/chinas-persistent-record-coal-imports"
 tags: ["Economy", "Shipping", "Drybulk"]
 images_count: 5
-word_count: 1349
+word_count: 1354
 source_file: "corpus/03-breakwave/insights/2024/2024-11-05_chinas-persistent-record-coal-imports.html"
 ---
 

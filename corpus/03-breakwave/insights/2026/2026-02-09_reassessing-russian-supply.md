@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/9/reassessing-russian-supply"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 2
-word_count: 648
+word_count: 650
 source_file: "corpus/03-breakwave/insights/2026/2026-02-09_reassessing-russian-supply.html"
 ---
 

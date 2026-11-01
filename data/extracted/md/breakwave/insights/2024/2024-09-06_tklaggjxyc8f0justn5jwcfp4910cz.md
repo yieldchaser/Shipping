@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/6/tklaggjxyc8f0justn5jwcfp4910cz"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 10
-word_count: 1687
+word_count: 1697
 source_file: "corpus/03-breakwave/insights/2024/2024-09-06_tklaggjxyc8f0justn5jwcfp4910cz.html"
 ---
 

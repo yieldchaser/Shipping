@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/12/dirty-amp-clean-tonne-days"
 tags: ["Shipping", "Tankers", "Crude"]
 images_count: 12
-word_count: 1701
+word_count: 1713
 source_file: "corpus/03-breakwave/insights/2024/2024-07-12_dirty-amp-clean-tonne-days.html"
 ---
 

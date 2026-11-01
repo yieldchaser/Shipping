@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/16/chinas-crude-purchase-priority-in-a-highfreight-environment"
 tags: ["Tankers", "Markets", "Crude"]
 images_count: 3
-word_count: 1312
+word_count: 1315
 source_file: "corpus/03-breakwave/insights/2026/2026-09-16_chinas-crude-purchase-priority-in-a-highfreight-environment.html"
 ---
 

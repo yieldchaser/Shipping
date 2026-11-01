@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/2/2/the-end-of-the-indonesian-ban-on-thermal-coal-exports"
 tags: ["Coal", "Indonesia", "Exports"]
 images_count: 2
-word_count: 832
+word_count: 834
 source_file: "corpus/03-breakwave/insights/2022/2022-02-03_the-end-of-the-indonesian-ban-on-thermal-coal-exports.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/19/the-big-picture-russias-challenges"
 tags: ["Tankers", "Crude", "Markets"]
 images_count: 2
-word_count: 1449
+word_count: 1451
 source_file: "corpus/03-breakwave/insights/2025/2025-11-19_the-big-picture-russias-challenges.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/1/19/signal-weekly-report"
 images_count: 4
-word_count: 736
+word_count: 740
 source_file: "corpus/03-breakwave/insights/2022/2022-01-19_signal-weekly-report.html"
 ---
 

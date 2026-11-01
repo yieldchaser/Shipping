@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/3/tensions-and-weakness-in-the-world-outside-of-china"
 images_count: 1
-word_count: 436
+word_count: 437
 source_file: "corpus/03-breakwave/insights/2022/2022-08-04_tensions-and-weakness-in-the-world-outside-of-china.html"
 ---
 

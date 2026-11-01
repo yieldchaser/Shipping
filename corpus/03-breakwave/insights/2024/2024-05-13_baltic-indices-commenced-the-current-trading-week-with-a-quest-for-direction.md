@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/13/baltic-indices-commenced-the-current-trading-week-with-a-quest-for-direction"
 tags: ["Shipping", "Economy", "Drybulk"]
 images_count: 1
-word_count: 1141
+word_count: 1142
 source_file: "corpus/03-breakwave/insights/2024/2024-05-13_baltic-indices-commenced-the-current-trading-week-with-a-quest-for-direction.html"
 ---
 

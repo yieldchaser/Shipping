@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/25/irans-resilient-oil-exports-and-emerging-pressures-in-2025"
 tags: ["Tankers", "Crude", "Markets"]
 images_count: 10
-word_count: 1638
+word_count: 1648
 source_file: "corpus/03-breakwave/insights/2025/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025.html"
 ---
 
@@ -52,31 +52,31 @@ In essence, while Iran has proven remarkably resourceful in maintaining oil expo
 
 Crude oil freight market sentiment strengthened toward the end of April, highlighted by a notable rebound in the Aframax Mediterranean market
 
-- **VLCC**freight rates on the**MEG–China**route climbed to WS68, marking a 6% increase month-on-month. Suezmax rates from**West Africa to continental Europe**remained strong, holding above WS100 and marking a 20% month-on-month increase. Meanwhile, rates on the**Baltic–Mediterranean**route held steady at WS130, reflecting the same firm sentiment seen a week ago and standing 17% higher than a year ago.
-- **Aframax**freight rates in the**Mediterranean**stood at WS180, representing an 8% decline week-on-week, yet remaining 30% higher than the levels recorded last month.
+- **VLCC** freight rates on the **MEG–China** route climbed to WS68, marking a 6% increase month-on-month. Suezmax rates from **West Africa to continental Europe** remained strong, holding above WS100 and marking a 20% month-on-month increase. Meanwhile, rates on the **Baltic–Mediterranean** route held steady at WS130, reflecting the same firm sentiment seen a week ago and standing 17% higher than a year ago.
+- **Aframax** freight rates in the **Mediterranean** stood at WS180, representing an 8% decline week-on-week, yet remaining 30% higher than the levels recorded last month.
 
 ![Στιγμιότυπο Οθόνης 2025 04 25 112245](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca24bea1cfa9.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 04 25 112245**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca24bea1cfa9.png)
 
-- **LR2**AG freight rates continued a soft downward trend from the end of March, with rates at WS127, reflecting a 15% monthly decrease.
+- **LR2** AG freight rates continued a soft downward trend from the end of March, with rates at WS127, reflecting a 15% monthly decrease.
 
 ![Στιγμιότυπο Οθόνης 2025 04 25 112332](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c111ed86da02.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 04 25 112332**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c111ed86da02.png)
 
-- **Panamax**Carib-to-USG settled at approximately 200 WS, reflecting a 30% monthly increase.
+- **Panamax** Carib-to-USG settled at approximately 200 WS, reflecting a 30% monthly increase.
 
 ![Στιγμιότυπο Οθόνης 2025 04 25 112446](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5dd17de66c21.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 04 25 112446**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5dd17de66c21.png)
 
-- **MR1**freight rates for Baltic-to-Continent shipments hovered around WS178, representing a 15% monthly decrease.
+- **MR1** freight rates for Baltic-to-Continent shipments hovered around WS178, representing a 15% monthly decrease.
 
-- **MR2**freight rates for shipments from the Continent to the US Atlantic Coast (USAC) reached WS140. Meanwhile, MR2 rates on the US Gulf–to–Continent route hover around WS100, marking a 20% weekly decrease.
+- **MR2** freight rates for shipments from the Continent to the US Atlantic Coast (USAC) reached WS140. Meanwhile, MR2 rates on the US Gulf–to–Continent route hover around WS100, marking a 20% weekly decrease.
 
 ![Στιγμιότυπο Οθόνης 2025 04 25 112537](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f1180cb75a99.png)
 
@@ -116,9 +116,9 @@ Crude oil freight market sentiment strengthened toward the end of April, highlig
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 04 25 112822**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_57e45310ae89.png)
 
-- **Panamax**tonne days: The growth rate remains below this year’s weekly average, though tentative signs of an upward trend have emerged over the past two weeks.
+- **Panamax** tonne days: The growth rate remains below this year’s weekly average, though tentative signs of an upward trend have emerged over the past two weeks.
 
-- **MR**tonne-days: The MR segment has seen a sustained decline in growth rate since the end of week 5, with the onset of the second quarter further reinforcing this downward momentum.
+- **MR** tonne-days: The MR segment has seen a sustained decline in growth rate since the end of week 5, with the onset of the second quarter further reinforcing this downward momentum.
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/1/divergence-in-chinas-coal-output-and-coal-derived-electricity-generation"
 tags: ["China", "Coal", "Drybulk"]
 images_count: 3
-word_count: 442
+word_count: 445
 source_file: "corpus/03-breakwave/insights/2024/2024-04-01_divergence-in-chinas-coal-output-and-coal-derived-electricity-generation.html"
 ---
 

@@ -50,7 +50,7 @@ Iron ore ton miles are expected to grow by about 5% annually in both 2026 and 20
 
 Taken together, demand across all major Capesize commodities and raw materials remains robust and well-supported by global infrastructure, energy consumption, and manufacturing needs.**With extremely low fleet growth and structural efficiencies, such as slow speeds and increased dry dockings, Capesize utilization is projected to tighten progressively.**”
 
-**Note:**The above insight is part of**Stamatis Tsantanis**opening statement during Seanergy Maritime Holdings Corp. Q1 2025 Earnings Call, last week. Stamatis is the Chairman and CEO of**Seanergy (NASDAQ: SHIP)**, the only pure-play Capesize shipping company listed in the US capital markets.
+**Note:**The above insight is part of **Stamatis Tsantanis** opening statement during Seanergy Maritime Holdings Corp. Q1 2025 Earnings Call, last week. Stamatis is the Chairman and CEO of **Seanergy (NASDAQ: SHIP)**, the only pure-play Capesize shipping company listed in the US capital markets.
 
 ---
 

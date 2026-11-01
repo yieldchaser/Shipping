@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/24/spotlight-on-brazilian-iron-ore-shipments-to-the-far-east"
 tags: ["Drybulk", "Shipping", "Ironore"]
 images_count: 12
-word_count: 1823
+word_count: 1835
 source_file: "corpus/03-breakwave/insights/2025/2025-07-24_spotlight-on-brazilian-iron-ore-shipments-to-the-far-east.html"
 ---
 
@@ -21,8 +21,8 @@ source_file: "corpus/03-breakwave/insights/2025/2025-07-24_spotlight-on-brazilia
 ---
 
 WEEKLY DRY MARKET MONITOR
-*Spot Rates | Supply-Demand Trends | Port Congestion Overview*
-Week 30, 2025 | Date: July 23, 2025
+ *Spot Rates | Supply-Demand Trends | Port Congestion Overview*
+ Week 30, 2025 | Date: July 23, 2025
 
 ![Στιγμιότυπο Οθόνης 2025 07 24 105540](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-24_spotlight-on-brazilian-iron-ore-shipments-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc976ff0ad79.png)
 

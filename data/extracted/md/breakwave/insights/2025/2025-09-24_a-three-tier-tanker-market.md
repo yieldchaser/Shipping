@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/24/a-three-tier-tanker-market"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 2
-word_count: 1064
+word_count: 1066
 source_file: "corpus/03-breakwave/insights/2025/2025-09-24_a-three-tier-tanker-market.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/16/well-well-well-30k-capesizes-again-but-is-this-time-different"
 tags: ["Capesize", "Dry Bulk"]
 images_count: 2
-word_count: 1072
+word_count: 1074
 source_file: "corpus/03-breakwave/insights/2021/2021-04-21_well-well-well-30k-capesizes-again-but-is-this-time-different.html"
 ---
 

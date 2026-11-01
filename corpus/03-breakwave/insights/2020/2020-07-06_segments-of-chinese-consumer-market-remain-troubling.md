@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/7/5/segments-of-chinese-consumer-market-remain-troubling"
 tags: ["China"]
 images_count: 1
-word_count: 455
+word_count: 456
 source_file: "corpus/03-breakwave/insights/2020/2020-07-06_segments-of-chinese-consumer-market-remain-troubling.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/12/23/small-growth-in-indian-electricity-production"
 tags: ["Electricity", "Production", "Energy", "India"]
 images_count: 3
-word_count: 479
+word_count: 482
 source_file: "corpus/03-breakwave/insights/2021/2021-12-23_small-growth-in-indian-electricity-production.html"
 ---
 

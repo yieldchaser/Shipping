@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/4/capes-lead-the-way"
 tags: ["Shipping", "Dry Bulk"]
 images_count: 1
-word_count: 183
+word_count: 184
 source_file: "corpus/03-breakwave/insights/2020/2020-06-04_capes-lead-the-way.html"
 ---
 

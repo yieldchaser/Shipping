@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/10/the-cuts-are-coming-but-how-many-and-how-fast"
 tags: ["Markets", "Economy", "Macro"]
 images_count: 13
-word_count: 2217
+word_count: 2230
 source_file: "corpus/03-breakwave/insights/2024/2024-09-10_the-cuts-are-coming-but-how-many-and-how-fast.html"
 ---
 
@@ -41,7 +41,7 @@ This is a low-probability event. At the time of writing, markets are pricing in 
 > **Figure 1: No Cut:**  
 > **Interactive Data & Source:** [Ftadviser](https://www.ftadviser.com/opinion/2024/09/05/is-nvidia-in-an-ai-bubble/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-10_the-cuts-are-coming-but-how-many-and-how-fast_img_image005_dde523289107.jpg)
 
-**Hawkish Cut:**A hawkish cut is the next possible outcome. The Fed would perform one cut, but communicate firmly that this cut is not just the first of many, and it would be closely monitoring inflation data to determine the next one. Given the volatility of the past few days, with popular trades[Ftadviser](https://www.ftadviser.com/opinion/2024/09/05/is-nvidia-in-an-ai-bubble/)unravelling, this event too could be negative for risk assets. The combination of just one cut and hawkishness would probably go against the current dovish consensus.
+**Hawkish Cut:**A hawkish cut is the next possible outcome. The Fed would perform one cut, but communicate firmly that this cut is not just the first of many, and it would be closely monitoring inflation data to determine the next one. Given the volatility of the past few days, with popular trades [Ftadviser](https://www.ftadviser.com/opinion/2024/09/05/is-nvidia-in-an-ai-bubble/) unravelling, this event too could be negative for risk assets. The combination of just one cut and hawkishness would probably go against the current dovish consensus.
 
 ![Such As Nvidia](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-10_the-cuts-are-coming-but-how-many-and-how-fast_img_image015_446102ef986d.jpg)
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/9/1/weather-normalization-negatively-affecting-rates"
 tags: ["Shipping", "Dry Bulk", "Capesize", "Panamax"]
 images_count: 3
-word_count: 458
+word_count: 461
 source_file: "corpus/03-breakwave/insights/2020/2020-09-01_weather-normalization-negatively-affecting-rates.html"
 ---
 

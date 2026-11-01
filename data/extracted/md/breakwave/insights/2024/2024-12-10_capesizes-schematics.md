@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/12/10/capesizes-schematics"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 5
-word_count: 1030
+word_count: 1035
 source_file: "corpus/03-breakwave/insights/2024/2024-12-10_capesizes-schematics.html"
 ---
 

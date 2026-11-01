@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/28/chinese-coal-demand-to-remain-strong"
 tags: ["China", "Coal"]
 images_count: 2
-word_count: 539
+word_count: 541
 source_file: "corpus/03-breakwave/insights/2021/2021-04-28_chinese-coal-demand-to-remain-strong.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-04-28_chinese-coal-demand-t
 
 [*By Jeffrey Landsberg*](mailto:jeffrey@commodore-research.com)
 
-![Klav Pic](assets/2021-04-28_chinese-coal-demand-to-remain-strong_img_klavpic_edbb3f50e3f5.png)
+![Klav Pic](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-28_chinese-coal-demand-to-remain-strong_img_klavpic_edbb3f50e3f5.png)
 
 > **Figure 1: Klav Pic**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-28_chinese-coal-demand-to-remain-strong_img_klavpic_edbb3f50e3f5.png)
@@ -35,7 +35,7 @@ Also of note is hydropower production (which is China’s largest source of rene
 
 Going forward, we remain bullish for China’s near-term coal import prospects. Also of note is that domestic thermal and coking coal prices have climbed further (with thermal continuing to fare the best), as demand has stayed strong while port and power plant stockpiles also continue to decline. The price of benchmark Qinhuangdao thermal coal ended last week at approximately 790 yuan/ton, which has marked a week-on-week increase of 5% and is up year-on-year by 68%. The price of benchmark Shanxi coking coal ended last week at approximately 1,585 yuan/ton, which has marked a week-on-week increase of 4% and is up year-on-year by 20%.
 
-![Commodore April 26](assets/2021-04-28_chinese-coal-demand-to-remain-strong_img_commodoreapril26_ed6d89d7e9aa.jpg)
+![Commodore April 26](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-28_chinese-coal-demand-to-remain-strong_img_commodoreapril26_ed6d89d7e9aa.jpg)
 
 > **Figure 2: Commodore April 26**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-28_chinese-coal-demand-to-remain-strong_img_commodoreapril26_ed6d89d7e9aa.jpg)

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/8/additional-coal-mine-accidents-in-china-in-may"
 tags: ["China", "Coal", "Drybulk"]
 images_count: 2
-word_count: 306
+word_count: 308
 source_file: "corpus/03-breakwave/insights/2024/2024-06-10_additional-coal-mine-accidents-in-china-in-may.html"
 ---
 

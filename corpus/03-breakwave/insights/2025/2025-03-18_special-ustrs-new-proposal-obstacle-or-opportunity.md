@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/18/special-ustrs-new-proposal-obstacle-or-opportunity"
 tags: ["Shipping", "Markets", "Drybulk"]
 images_count: 4
-word_count: 1481
+word_count: 1485
 source_file: "corpus/03-breakwave/insights/2025/2025-03-18_special-ustrs-new-proposal-obstacle-or-opportunity.html"
 ---
 

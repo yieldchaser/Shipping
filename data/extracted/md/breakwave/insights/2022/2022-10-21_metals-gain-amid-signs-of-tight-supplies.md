@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/21/metals-gain-amid-signs-of-tight-supplies"
 images_count: 1
-word_count: 656
+word_count: 657
 source_file: "corpus/03-breakwave/insights/2022/2022-10-21_metals-gain-amid-signs-of-tight-supplies.html"
 ---
 
@@ -35,6 +35,6 @@ Base metals gained amid signs of strong demand.**Copper** gained after Freeport�
 
 **Gold** rose strongly early in the session as a weaker USD boosted investor appetite. This wasn’t enough to placate the broader investment community, with outflows from gold-backed exchange traded funds accelerating. Holdings fell by 12.5t on Wednesday, according to Bloomberg data.
 
-**Iron ore**futures in Singapore fell below USD90/t amid concerns that China’s real estate crisis looks poised to extend well into 2023. Hopes that China’s National Peoples’ Congress would bring some easing of its policy have faded quickly.
+**Iron ore** futures in Singapore fell below USD90/t amid concerns that China’s real estate crisis looks poised to extend well into 2023. Hopes that China’s National Peoples’ Congress would bring some easing of its policy have faded quickly.
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)

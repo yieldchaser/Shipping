@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/20/demolition-activity"
 tags: ["Shipping", "Markets", "Economy"]
 images_count: 1
-word_count: 563
+word_count: 564
 source_file: "corpus/03-breakwave/insights/2024/2024-11-20_demolition-activity.html"
 ---
 

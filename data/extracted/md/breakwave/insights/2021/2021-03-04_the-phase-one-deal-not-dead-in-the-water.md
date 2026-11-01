@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/4/the-phase-one-deal-not-dead-in-the-water"
 tags: ["China", "Global Economy"]
 images_count: 3
-word_count: 767
+word_count: 770
 source_file: "corpus/03-breakwave/insights/2021/2021-03-04_the-phase-one-deal-not-dead-in-the-water.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-03-04_the-phase-one-deal-no
 
 *By Ulf Bergman*
 
-![Rope Dock](assets/2021-03-04_the-phase-one-deal-not-dead-in-the-water_img_ropedock_96c25106592d.jpeg)
+![Rope Dock](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-04_the-phase-one-deal-not-dead-in-the-water_img_ropedock_96c25106592d.jpeg)
 
 > **Figure 1: Rope Dock**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-04_the-phase-one-deal-not-dead-in-the-water_img_ropedock_96c25106592d.jpeg)
@@ -33,7 +33,7 @@ In recent days, members of the incoming Biden administration have pledged a cont
 
 The start of the year has continued broadly in line with last year, with US agricultural exports to China continuing to do relatively better than energy and manufacturing exports. In January, the US exported 3.9 billion dollars worth of agricultural products to China, which is 82 per cent of the target. At the same time, US exports of manufactured goods and energy commodities to China languished at 50 and 66 per cent of targets respectively.
 
-![Source: Peterson Institute for International Economics](assets/2021-03-04_the-phase-one-deal-not-dead-in-the-water_img_ulf300_9de99baf9f53.png)
+![Source: Peterson Institute for International Economics](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-04_the-phase-one-deal-not-dead-in-the-water_img_ulf300_9de99baf9f53.png)
 
 > **Figure 2: Source: Peterson Institute for International Economics**  
 > *Source: Peterson Institute for International Economics*  
@@ -43,7 +43,7 @@ Under the terms of the agreement, US exports of covered products to China should
 
 A continued strong Chinese demand for US agricultural commodities, with soybeans being the dominant one, will keep prices high in the US, as inventories are dwindling. The delayed Brazilian soybean harvest is also supporting the current multi-year highs. If Chinese purchases will match the ambitious targets of the Phase One agreement for 2021 remains to be seen, but political pressure is likely to see Chinese demand remaining strong and adding to the continued strength of the agricultural markets.
 
-![Ulf 301](assets/2021-03-04_the-phase-one-deal-not-dead-in-the-water_img_ulf301_f6b73696fa76.jpg)
+![Ulf 301](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-04_the-phase-one-deal-not-dead-in-the-water_img_ulf301_f6b73696fa76.jpg)
 
 > **Figure 3: Ulf 301**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-04_the-phase-one-deal-not-dead-in-the-water_img_ulf301_f6b73696fa76.jpg)

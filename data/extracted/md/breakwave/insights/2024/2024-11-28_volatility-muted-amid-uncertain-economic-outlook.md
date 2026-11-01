@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/28/volatility-muted-amid-uncertain-economic-outlook"
 tags: ["Shipping", "Markets", "Commodities"]
 images_count: 2
-word_count: 681
+word_count: 683
 source_file: "corpus/03-breakwave/insights/2024/2024-11-28_volatility-muted-amid-uncertain-economic-outlook.html"
 ---
 
@@ -37,7 +37,7 @@ A weaker USD and signs of improvement in China’s economy helped boost sentimen
 
 **Gold** edge higher as the US dollar extended losses, boosting investor demand. That followed data showing inflation picked up last month. The 2.8% y/y rise in the core personal consumption expenditure price index reinforces expectations that the Federal Reserve will adopt a measured approach to lower interest rates.
 
-**Crude oil**prices were steady as the market contemplates the next move by OPEC. The producer group is due to meet on Sunday to discuss its plan to phase out its 2.2mb/d of voluntary production cuts. Earlier this week reports emerged suggesting key members have been discussing about further delaying the production hikes that are scheduled to commence in January. Delegates are said to be concerned they can go ahead with the 180kb/d increase amid signs of a global oversupply in the oil market. This comes as the geopolitical backdrop remains uncertain. While Israel started a ceasefire with the Iranian-backed group Hezbollah, comments from Israel’s Prime Minister Benjamin Netanyahu raised uncertainty that and end to fighting will endure. The PM said that Israel will maintain full freedom to act in Lebanon. Fundamental data was also supportive. In the US, crude oil stockpiles fell by 1.84mbbls last week, according to government data. However, the drawdown was lower than the 5.9mbbls that an industry group projected earlier in the week. Offsetting that was a buildup in gasoline inventories (+3.3mbbls).
+**Crude oil** prices were steady as the market contemplates the next move by OPEC. The producer group is due to meet on Sunday to discuss its plan to phase out its 2.2mb/d of voluntary production cuts. Earlier this week reports emerged suggesting key members have been discussing about further delaying the production hikes that are scheduled to commence in January. Delegates are said to be concerned they can go ahead with the 180kb/d increase amid signs of a global oversupply in the oil market. This comes as the geopolitical backdrop remains uncertain. While Israel started a ceasefire with the Iranian-backed group Hezbollah, comments from Israel’s Prime Minister Benjamin Netanyahu raised uncertainty that and end to fighting will endure. The PM said that Israel will maintain full freedom to act in Lebanon. Fundamental data was also supportive. In the US, crude oil stockpiles fell by 1.84mbbls last week, according to government data. However, the drawdown was lower than the 5.9mbbls that an industry group projected earlier in the week. Offsetting that was a buildup in gasoline inventories (+3.3mbbls).
 
 **European gas** extended recent losses as fears of tighter supplies diminished. Nevertheless, forecasts indicate Europe could be set for the coldest winter since Russia’s invasion of Ukraine, boosting demand for LNG and keeping energy costs high.
 

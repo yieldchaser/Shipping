@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/29/even-stronger-steel-production-growth-ex-china"
 tags: ["Ironore", "China", "Drybulk"]
 images_count: 3
-word_count: 346
+word_count: 349
 source_file: "corpus/03-breakwave/insights/2026/2026-01-29_even-stronger-steel-production-growth-ex-china.html"
 ---
 

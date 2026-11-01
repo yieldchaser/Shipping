@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/9/16/are-we-at-an-inflection-point-for-capesize-rates"
 tags: ["Capesize", "Shipping", "Dry Bulk"]
 images_count: 5
-word_count: 899
+word_count: 904
 source_file: "corpus/03-breakwave/insights/2020/2020-09-16_are-we-at-an-inflection-point-for-capesize-rates.html"
 ---
 

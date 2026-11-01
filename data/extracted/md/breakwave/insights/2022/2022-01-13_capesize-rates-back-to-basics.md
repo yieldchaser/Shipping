@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/1/11/capesize-rates-back-to-basics"
 tags: ["Shipping", "Dry Bulk", "Capesize", "Rates"]
 images_count: 4
-word_count: 1161
+word_count: 1165
 source_file: "corpus/03-breakwave/insights/2022/2022-01-13_capesize-rates-back-to-basics.html"
 ---
 

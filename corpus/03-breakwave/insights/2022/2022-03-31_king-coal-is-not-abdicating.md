@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/3/31/king-coal-is-not-abdicating"
 tags: ["Coal", "Market", "Price", "Economy"]
 images_count: 3
-word_count: 980
+word_count: 983
 source_file: "corpus/03-breakwave/insights/2022/2022-03-31_king-coal-is-not-abdicating.html"
 ---
 

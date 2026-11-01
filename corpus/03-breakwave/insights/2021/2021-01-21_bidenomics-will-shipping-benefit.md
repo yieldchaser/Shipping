@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/21/bidenomics-will-shipping-benefit"
 images_count: 3
-word_count: 1001
+word_count: 1004
 source_file: "corpus/03-breakwave/insights/2021/2021-01-21_bidenomics-will-shipping-benefit.html"
 ---
 

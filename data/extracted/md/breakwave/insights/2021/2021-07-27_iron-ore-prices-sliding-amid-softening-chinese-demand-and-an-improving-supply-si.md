@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/27/iron-ore-prices-sliding-amid-softening-chinese-demand-and-an-improving-supply-situation"
 tags: ["Shipping", "China", "Brazil"]
 images_count: 4
-word_count: 845
+word_count: 849
 source_file: "corpus/03-breakwave/insights/2021/2021-07-27_iron-ore-prices-sliding-amid-softening-chinese-demand-and-an-improving-supply-si.html"
 ---
 
@@ -26,28 +26,28 @@ The last week has seen iron ore prices dropping to readings not seen since early
 
 ### Iron Ore (Usd/tonne)
 
-![A1](assets/2021-07-27_iron-ore-prices-sliding-amid-softening-chinese-demand-and-an-improving-supply-si_img_a1_9ca72061b301.jpg)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-27_iron-ore-prices-sliding-amid-softening-chinese-demand-and-an-improving-supply-si_img_a1_9ca72061b301.jpg)
 
 > **Figure 1: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-27_iron-ore-prices-sliding-amid-softening-chinese-demand-and-an-improving-supply-si_img_a1_9ca72061b301.jpg)
 
 The softening demand for steel has led to iron ore inventories building up in many Chinese ports, with Mysteel reporting that total portside stockpiles are approaching 130 million tonnes. While the number may appear large, it is the equivalent of approximately six weeks of seaborne imports. According to data from Tathya.earth, inventories in China’s largest iron ore port, Caofeidian, have been trending upwards during the last month and are currently at the highest level since the middle of April. The inventory levels in the port are also currently among the highest recorded since the beginning of 2019.
 
-![A2](assets/2021-07-27_iron-ore-prices-sliding-amid-softening-chinese-demand-and-an-improving-supply-si_img_a2_4f8bf321f825.png)
+![A2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-27_iron-ore-prices-sliding-amid-softening-chinese-demand-and-an-improving-supply-si_img_a2_4f8bf321f825.png)
 
 > **Figure 2: A2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-27_iron-ore-prices-sliding-amid-softening-chinese-demand-and-an-improving-supply-si_img_a2_4f8bf321f825.png)
 
 In another major iron ore import hub, Jingtang, the inventory situation is, however, more ambiguous, with levels below what has been generally seen during the last few months and on a declining trend. Nevertheless, compared to previous years the stockpiles are well above what has been registered in the port.
 
-![A3](assets/2021-07-27_iron-ore-prices-sliding-amid-softening-chinese-demand-and-an-improving-supply-si_img_a3_be7edcc9d38b.png)
+![A3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-27_iron-ore-prices-sliding-amid-softening-chinese-demand-and-an-improving-supply-si_img_a3_be7edcc9d38b.png)
 
 > **Figure 3: A3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-27_iron-ore-prices-sliding-amid-softening-chinese-demand-and-an-improving-supply-si_img_a3_be7edcc9d38b.png)
 
 The seasonal softening of Chinese iron ore demand is not the only reason for falling iron ore prices, with an improving outlook for production being a contributor as well. So far this year, Brazilian output growth has fallen below expectations, but a recent steady improvement in export volumes has provided hope for a better-supplied market among analysts and traders. According to cargo tracking data from Oceanbolt, Brazilian seaborne exports of iron ore have been improving throughout the year, with monthly volumes improving on a year-on-year basis. The current month also looks set to contribute to the trend. However, volumes are still below the levels achieved in the years before the dam accident in 2019, suggesting there is considerable potential for improving exports during the second half of the year.
 
-![A4](assets/2021-07-27_iron-ore-prices-sliding-amid-softening-chinese-demand-and-an-improving-supply-si_img_a4_f32fdcb49a07.png)
+![A4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-27_iron-ore-prices-sliding-amid-softening-chinese-demand-and-an-improving-supply-si_img_a4_f32fdcb49a07.png)
 
 > **Figure 4: A4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-27_iron-ore-prices-sliding-amid-softening-chinese-demand-and-an-improving-supply-si_img_a4_f32fdcb49a07.png)

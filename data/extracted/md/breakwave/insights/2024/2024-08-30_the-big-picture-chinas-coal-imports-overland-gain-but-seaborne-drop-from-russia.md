@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/30/the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia"
 tags: ["Drybulk", "Coal", "Shipping"]
 images_count: 3
-word_count: 745
+word_count: 748
 source_file: "corpus/03-breakwave/insights/2024/2024-08-30_the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia.html"
 ---
 

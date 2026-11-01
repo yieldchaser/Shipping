@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/12/20/trumps-wall-of-tariffs"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 4
-word_count: 1669
+word_count: 1673
 source_file: "corpus/03-breakwave/insights/2024/2024-12-20_trumps-wall-of-tariffs.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/30/dry-bulk-half-way-into-a-record-year-but-the-fun-part-is-ahead-of-us"
 tags: ["Capesize", "Dry Bulk"]
 images_count: 2
-word_count: 1048
+word_count: 1050
 source_file: "corpus/03-breakwave/insights/2021/2021-06-30_dry-bulk-half-way-into-a-record-year-but-the-fun-part-is-ahead-of-us.html"
 ---
 

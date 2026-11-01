@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/13/saudi-us-and-russian-crude-flows-drive-tanker-momentum"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 4
-word_count: 799
+word_count: 803
 source_file: "corpus/03-breakwave/insights/2025/2025-10-13_saudi-us-and-russian-crude-flows-drive-tanker-momentum.html"
 ---
 
@@ -43,7 +43,7 @@ This week’s analysis examines evolving dirty freight and supply trends across 
 
 ​​
 
-**FREIGHT**|**VLCC**weaker,mixed in early October
+**FREIGHT**|**VLCC** weaker,mixed in early October
 
 ![Suezmax](assets/2025-10-13_saudi-us-and-russian-crude-flows-drive-tanker-momentum_img_unnamed28129_5899eab06ee8.png)
 

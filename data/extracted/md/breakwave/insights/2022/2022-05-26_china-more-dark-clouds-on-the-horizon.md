@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/5/26/china-more-dark-clouds-on-the-horizon"
 images_count: 3
-word_count: 1386
+word_count: 1389
 source_file: "corpus/03-breakwave/insights/2022/2022-05-26_china-more-dark-clouds-on-the-horizon.html"
 ---
 

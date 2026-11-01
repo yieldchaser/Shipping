@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/12/simandou-and-australian-supply-expansion-promise-a-boost-to-capesize-tonnage-but-iron-ore-prices-face-china-headwinds"
 tags: ["Ironore", "Drybulk", "Markets"]
 images_count: 4
-word_count: 911
+word_count: 915
 source_file: "corpus/03-breakwave/insights/2025/2025-11-12_simandou-and-australian-supply-expansion-promise-a-boost-to-capesize-tonnage-but.html"
 ---
 

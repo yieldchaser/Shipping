@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/21/are-we-in-a-debt-crisis"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 5
-word_count: 1528
+word_count: 1533
 source_file: "corpus/03-breakwave/insights/2026/2026-05-21_are-we-in-a-debt-crisis.html"
 ---
 

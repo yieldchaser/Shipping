@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/11/freight-rates-push-higher-as-oil-slumps"
 tags: ["Dry Bulk", "Shipping", "Capesize"]
 images_count: 2
-word_count: 501
+word_count: 503
 source_file: "corpus/03-breakwave/insights/2020/2020-06-11_freight-rates-push-higher-as-oil-slumps.html"
 ---
 

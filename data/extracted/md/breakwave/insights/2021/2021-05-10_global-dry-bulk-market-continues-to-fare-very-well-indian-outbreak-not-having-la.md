@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/10/global-dry-bulk-market-continues-to-fare-very-well-indian-outbreak-not-having-large-detrimental-impact"
 tags: ["Capesize", "Dry Bulk"]
 images_count: 2
-word_count: 669
+word_count: 671
 source_file: "corpus/03-breakwave/insights/2021/2021-05-10_global-dry-bulk-market-continues-to-fare-very-well-indian-outbreak-not-having-la.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-05-10_global-dry-bulk-marke
 
 [*By Jeffrey Landsberg*](mailto:jeffrey@commodore-research.com)
 
-![Vale Iron Ore 2](assets/2021-05-10_global-dry-bulk-market-continues-to-fare-very-well-indian-outbreak-not-having-la_img_valeironore2_073efe0c6191.jpg)
+![Vale Iron Ore 2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-10_global-dry-bulk-market-continues-to-fare-very-well-indian-outbreak-not-having-la_img_valeironore2_073efe0c6191.jpg)
 
 > **Figure 1: Vale Iron Ore 2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-10_global-dry-bulk-market-continues-to-fare-very-well-indian-outbreak-not-having-la_img_valeironore2_073efe0c6191.jpg)
@@ -35,7 +35,7 @@ Overall, the coronavirus surge in India tragically continues to intensify and ne
 
 We remain very bullish for the entire dry bulk shipping market and are most bullish for the Capesize market for the rest of this year. As we have been stressing in our Weekly Dry Bulk Reports this year, it has remained particularly encouraging that Brazil's iron ore exports have continued to climb on a year-on-year basis. Most recently, Brazil’s iron ore exports totaled 25.8 million tons in April which is up year-on-year by 8%. Brazil’s iron ore exports have now increased on a year-on-year basis for six consecutive months, which marks a feat not seen since 2018. All signs going forward are that the year-on-year strength will continue, and so too will normal Brazilian iron ore export seasonality.
 
-![Comm 2ab](assets/2021-05-10_global-dry-bulk-market-continues-to-fare-very-well-indian-outbreak-not-having-la_img_comm2ab_0fff1bfc92a9.jpg)
+![Comm 2ab](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-10_global-dry-bulk-market-continues-to-fare-very-well-indian-outbreak-not-having-la_img_comm2ab_0fff1bfc92a9.jpg)
 
 > **Figure 2: Comm 2ab**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-10_global-dry-bulk-market-continues-to-fare-very-well-indian-outbreak-not-having-la_img_comm2ab_0fff1bfc92a9.jpg)

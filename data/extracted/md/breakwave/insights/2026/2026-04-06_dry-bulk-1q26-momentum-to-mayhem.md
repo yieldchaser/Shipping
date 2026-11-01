@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/4/6/dry-bulk-1q26-momentum-to-mayhem"
 tags: ["Drybulk", "Shipping", "Commodities"]
 images_count: 3
-word_count: 1479
+word_count: 1482
 source_file: "corpus/03-breakwave/insights/2026/2026-04-06_dry-bulk-1q26-momentum-to-mayhem.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/12/grey-shift"
 tags: ["Tankers", "Shipping", "Crude Oil"]
 images_count: 2
-word_count: 621
+word_count: 623
 source_file: "corpus/03-breakwave/insights/2024/2024-03-12_grey-shift.html"
 ---
 

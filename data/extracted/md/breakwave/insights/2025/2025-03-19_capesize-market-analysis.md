@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/19/capesize-market-analysis"
 tags: ["Shipping", "Drybulk", "Markets"]
 images_count: 5
-word_count: 1292
+word_count: 1297
 source_file: "corpus/03-breakwave/insights/2025/2025-03-19_capesize-market-analysis.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-03-19_capesize-market-analy
 ---
 
 **Dry Weekly Market Monitor - Week 12, 2025**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 March 18, 2025
 
 ![Στιγμιότυπο Οθόνης 2025 03 19 225910](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-19_capesize-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_704a663f6f9d.png)

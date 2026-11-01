@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/28/can-q1-dry-bulk-rates-surprise"
 images_count: 5
-word_count: 1022
+word_count: 1027
 source_file: "corpus/03-breakwave/insights/2020/2020-10-28_can-q1-dry-bulk-rates-surprise.html"
 ---
 

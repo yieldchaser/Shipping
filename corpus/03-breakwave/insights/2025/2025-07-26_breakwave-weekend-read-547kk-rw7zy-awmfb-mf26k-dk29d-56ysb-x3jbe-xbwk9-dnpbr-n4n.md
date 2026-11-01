@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/25/breakwave-weekend-read-547kk-rw7zy-awmfb-mf26k-dk29d-56ysb-x3jbe-xbwk9-dnpbr-n4n83"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 11
-word_count: 1376
+word_count: 1387
 source_file: "corpus/03-breakwave/insights/2025/2025-07-26_breakwave-weekend-read-547kk-rw7zy-awmfb-mf26k-dk29d-56ysb-x3jbe-xbwk9-dnpbr-n4n.html"
 ---
 
@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-07-26_breakwave-weekend-rea
 
 ## Breakwave Shipping Report
 
-**Panamaxes Steal the Spotlight as Dry Bulk Rallies**– Over the past two weeks, Panamax spot rates have demonstrated an**impressive**and largely**unexpected**performance, with the Index reaching its highest levels in over a year and currently hovering around the 16,000 mark.
+**Panamaxes Steal the Spotlight as Dry Bulk Rallies**– Over the past two weeks, Panamax spot rates have demonstrated an **impressive** and largely **unexpected** performance, with the Index reaching its highest levels in over a year and currently hovering around the 16,000 mark.
 
 [Read More](../pdfs/2025-07-26_breakwave-weekend-read-547kk-rw7zy-awmfb-mf26k-dk29d-56ysb-x3jbe-xbwk9-dnpbr-n4n_breakwavedryjuly222025report_101100e3e7a5.pdf)
 

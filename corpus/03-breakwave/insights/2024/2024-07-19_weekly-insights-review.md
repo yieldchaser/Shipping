@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/19/weekly-insights-review"
 tags: ["Shipping", "Economy", "Markets"]
 images_count: 13
-word_count: 1368
+word_count: 1381
 source_file: "corpus/03-breakwave/insights/2024/2024-07-19_weekly-insights-review.html"
 ---
 
@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-07-19_weekly-insights-revie
 
 ## Breakwave Tanker Report
 
-**VLCCs remain weak as activity plummets**– The first half of July reflected an almost identical sentiment to the end of June, with the VLCC market experiencing**steady yet sluggish**activity.
+**VLCCs remain weak as activity plummets**– The first half of July reflected an almost identical sentiment to the end of June, with the VLCC market experiencing **steady yet sluggish** activity.
 
 ![Στιγμιότυπο Οθόνης 2024 07 16 135454](assets/2024-07-19_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f71bf146bda.png)
 
@@ -149,7 +149,7 @@ Headwinds for the capesizes weighed on the Baltic Dry Index the day before yeste
 
 Signal Ocean - Dry Weekly Market Monitor
 
-This week's chart illustrates the increase in the monthly volume of Ukrainian grain shipments during the first half of this year, following Russia's withdrawal from the[Black Sea Grain Initiative](https://go.signalocean.com/e/983831/ack-sea-grain-deal-2023-06-16-/2qd9tx/424453770/h/SxogwAUFzPHOSlglpbTUxe5tUH4pv7EsojFAS0t1yFw)in the summer of 2023.
+This week's chart illustrates the increase in the monthly volume of Ukrainian grain shipments during the first half of this year, following Russia's withdrawal from the [Black Sea Grain Initiative](https://go.signalocean.com/e/983831/ack-sea-grain-deal-2023-06-16-/2qd9tx/424453770/h/SxogwAUFzPHOSlglpbTUxe5tUH4pv7EsojFAS0t1yFw) in the summer of 2023.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2024/7/18/xbnwv034u0p3qm4d5yt7shngqf3zxk)
 

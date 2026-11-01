@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/22/what-venezuela-means-for-todays-vlcc-market"
 tags: ["Tankers", "Markets", "Geopolitics"]
 images_count: 1
-word_count: 1020
+word_count: 1021
 source_file: "corpus/03-breakwave/insights/2026/2026-01-22_what-venezuela-means-for-todays-vlcc-market.html"
 ---
 
@@ -36,7 +36,7 @@ For the tanker market, the stabilisation scenario matters less than the question
 
 If the US were to step in and effectively take control of the Venezuelan oil sector, a significant share of exports would likely be absorbed into the US system. That would support shorter-haul flows and shift vessel demand back toward smaller segments, especially Aframaxes, rather than reinforcing today’s Venezuela-to-China VLCC trade. There is also scope for Europe to take some of these volumes, and that would point in the same direction: a greater weighting toward short-haul demand and smaller ships. The implication of such a shift is that China would be left short by roughly 600 thousand barrels per day. Those barrels would need to be replaced from elsewhere, and this is where the VLCC market impact becomes apparent.
 
-From a fixtures perspective, Venezuela has increasingly become a shadow-market VLCC trade.[Our fixtures data](http://app.tankersinternational.com/)shows around eight VLCC fixtures per month in Venezuela during 2025, with most vessels discharging in China. These cargoes are sanctioned, and the vessels involved operate within the shadow fleet, even if they are not formally sanctioned themselves.
+From a fixtures perspective, Venezuela has increasingly become a shadow-market VLCC trade.[Our fixtures data](http://app.tankersinternational.com/) shows around eight VLCC fixtures per month in Venezuela during 2025, with most vessels discharging in China. These cargoes are sanctioned, and the vessels involved operate within the shadow fleet, even if they are not formally sanctioned themselves.
 
 The age profile of the VLCCs lifting these cargoes in 2025 is heavily skewed toward older tonnage. We count around 70 individual VLCCs involved during the year, with a strong weighting toward vessels aged 20 years and above. This detail is important because it highlights a practical limitation in any trade normalisation scenario. If Venezuelan barrels were to re-enter the mainstream market, they would need to be carried on mainstream, compliant tankers. The ships currently servicing Venezuelan liftings are tainted by shadow fleet history and would struggle to re-enter commercial trading, particularly given the age profile of the fleet involved. In other words, even if the barrels normalise, the ships that have been carrying them are not automatically released back into the fully compliant trading pool in a way that improves mainstream supply availability.
 

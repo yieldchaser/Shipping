@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/4/vancouver-crude-gains-in-vlcc-market"
 tags: ["Shipping", "Crude Oil", "Tankers"]
 images_count: 5
-word_count: 1447
+word_count: 1452
 source_file: "corpus/03-breakwave/insights/2024/2024-07-04_vancouver-crude-gains-in-vlcc-market.html"
 ---
 

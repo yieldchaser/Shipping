@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/14/businesses-and-investors-wont-hold-their-breath-forever"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 3
-word_count: 1907
+word_count: 1910
 source_file: "corpus/03-breakwave/insights/2025/2025-04-15_businesses-and-investors-wont-hold-their-breath-forever.html"
 ---
 

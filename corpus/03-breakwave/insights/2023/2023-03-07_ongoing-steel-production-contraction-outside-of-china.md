@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/3/7/ongoing-steel-production-contraction-outside-of-china"
 images_count: 2
-word_count: 297
+word_count: 299
 source_file: "corpus/03-breakwave/insights/2023/2023-03-07_ongoing-steel-production-contraction-outside-of-china.html"
 ---
 

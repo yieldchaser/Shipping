@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/10/the-un-correlated-nature-of-dry-bulk-stocks"
 tags: ["Shipping Stocks", "Dry Bulk", "Freight Futures"]
 images_count: 5
-word_count: 1469
+word_count: 1474
 source_file: "corpus/03-breakwave/insights/2021/2021-02-12_the-un-correlated-nature-of-dry-bulk-stocks.html"
 ---
 
@@ -36,7 +36,7 @@ Then, there are stocks. Oil producing equities might also increase in value, but
 
 In shipping, equities behave in an unpredictable fashion as well. Indeed, shipping rates are by far the most important element when it comes to valuation. However, shipping equities are still stocks and subject to various external factors that affect performance other than shipping rates. A spike in rates might be good for the short run and will most likely have a positive impact on profitability, but if investors expect that to be short lived, then the impact on valuation will be small. As a result, our investor who accurately predicted the rise in rates is left without a meaningful profit.
 
-Freight futures that settle against shipping rates exist, but are out of reach for the great majority of investors.[BDRY, the ETF that invests in freight futures](https://etfmg.com/funds/bdry/)is the only instrument globally through which an investor can access freight futures in an easy and convenient way similar to buying any other stock. Absent this option, there is no other simple way for an investor to directly participate in the dry bulk market.
+Freight futures that settle against shipping rates exist, but are out of reach for the great majority of investors.[BDRY, the ETF that invests in freight futures](https://etfmg.com/funds/bdry/) is the only instrument globally through which an investor can access freight futures in an easy and convenient way similar to buying any other stock. Absent this option, there is no other simple way for an investor to directly participate in the dry bulk market.
 
 Over time, correlations between spot shipping rates, equities and freight futures vary, but more recently correlations have been particularly weak. As an example, if we look at the last eight months (from June 1, 2020 to February 1, 2021) a number of conclusions can be made:
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/20/weekly-insights-review"
 images_count: 10
-word_count: 1107
+word_count: 1117
 source_file: "corpus/03-breakwave/insights/2022/2022-11-20_weekly-insights-review.html"
 ---
 

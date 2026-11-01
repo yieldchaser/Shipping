@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/26/coal-market-insights"
 tags: ["Drybulk", "Shipping", "Coal"]
 images_count: 9
-word_count: 1602
+word_count: 1611
 source_file: "corpus/03-breakwave/insights/2025/2025-09-26_coal-market-insights.html"
 ---
 

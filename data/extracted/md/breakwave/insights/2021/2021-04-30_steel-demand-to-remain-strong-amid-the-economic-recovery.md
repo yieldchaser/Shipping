@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/30/steel-demand-to-remain-strong-amid-the-economic-recovery"
 tags: ["Steel", "Iron Ore"]
 images_count: 2
-word_count: 815
+word_count: 817
 source_file: "corpus/03-breakwave/insights/2021/2021-04-30_steel-demand-to-remain-strong-amid-the-economic-recovery.html"
 ---
 
@@ -28,7 +28,7 @@ The strong rebound for the global economy, especially in China and the US, has s
 
 ### Steel Rebar - Shanghai Futures Exchange (Cny/tonne)
 
-![Ulf 2b](assets/2021-04-30_steel-demand-to-remain-strong-amid-the-economic-recovery_img_ulf2b_94ff83659608.jpg)
+![Ulf 2b](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-30_steel-demand-to-remain-strong-amid-the-economic-recovery_img_ulf2b_94ff83659608.jpg)
 
 > **Figure 1: Ulf 2b**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-30_steel-demand-to-remain-strong-amid-the-economic-recovery_img_ulf2b_94ff83659608.jpg)
@@ -37,7 +37,7 @@ Some of the price appreciation can be attributed to the environmental restrictio
 
 Steel production has become an early target in Bejing’s push to lower emissions and reach net-zero carbon by 2060. The industry, which produces more than half of the world’s steel, accounts for around 15 per cent of China’s greenhouse gas emissions, making it one of the largest industrial contributors to the country’s carbon footprint. In addition to nationwide inspections of the steel industry to make sure that capacity cuts ordered over the past five years have been enforced, the authorities will make exporting steel more expensive by removing tax rebates on exports from May. Beijing is also easing some input costs by cutting import tariffs on steelmaking materials, such as semi-finished products and scrap, which could weigh somewhat on the country’s demand for iron ore but increase imports of recycled steel. The change in taxation could to some extent alter the steel-related global trade-flows during the emerging boom and force international buyers to find alternatives to Chinese steel. Hence, demand for iron ore may increase in the other steel-producing countries, such as India and Japan.
 
-![Unsplash Image Slifi67jv5k](assets/2021-04-30_steel-demand-to-remain-strong-amid-the-economic-recovery_img_unsplash-image-slifi67jv5k_e499fbb95073.jpg)
+![Unsplash Image Slifi67jv5k](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-30_steel-demand-to-remain-strong-amid-the-economic-recovery_img_unsplash-image-slifi67jv5k_e499fbb95073.jpg)
 
 > **Figure 2: Unsplash Image Slifi67jv5k**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-30_steel-demand-to-remain-strong-amid-the-economic-recovery_img_unsplash-image-slifi67jv5k_e499fbb95073.jpg)

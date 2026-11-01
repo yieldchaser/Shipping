@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/27/are-vlccs-poised-for-a-comeback"
 tags: ["Tankers", "Markets", "Shipping"]
 images_count: 1
-word_count: 346
+word_count: 347
 source_file: "corpus/03-breakwave/insights/2025/2025-08-27_are-vlccs-poised-for-a-comeback.html"
 ---
 
@@ -51,7 +51,7 @@ VLCCs are structurally better positioned than ever:
 
 - **Trade patterns are shifting toward longer haul flows**, boosting tonne-mile demand.
 
-- **Spot market fundamentals and loadings suggest pricing power is returning**to the largest vessels.
+- **Spot market fundamentals and loadings suggest pricing power is returning** to the largest vessels.
 
 For investors monitoring shipping cycles, VLCC-centric strategies or exposure to freight rate-linked instruments may offer compelling upside as we move into Q4.
 

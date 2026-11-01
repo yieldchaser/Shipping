@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/1/shipfix-global-market-update"
 tags: ["Geopolitics", "Commodities", "Shipping"]
 images_count: 1
-word_count: 1258
+word_count: 1259
 source_file: "corpus/03-breakwave/insights/2024/2024-02-01_shipfix-global-market-update.html"
 ---
 

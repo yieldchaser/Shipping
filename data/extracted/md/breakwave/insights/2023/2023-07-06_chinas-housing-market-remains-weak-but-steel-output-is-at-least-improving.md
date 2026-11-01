@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/7/6/chinas-housing-market-remains-weak-but-steel-output-is-at-least-improving"
 images_count: 3
-word_count: 393
+word_count: 396
 source_file: "corpus/03-breakwave/insights/2023/2023-07-06_chinas-housing-market-remains-weak-but-steel-output-is-at-least-improving.html"
 ---
 

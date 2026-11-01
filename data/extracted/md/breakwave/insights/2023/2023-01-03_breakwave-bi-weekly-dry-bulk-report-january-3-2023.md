@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/1/2/breakwave-bi-weekly-dry-bulk-report-january-3-2023"
 images_count: 3
-word_count: 725
+word_count: 728
 source_file: "corpus/03-breakwave/insights/2023/2023-01-03_breakwave-bi-weekly-dry-bulk-report-january-3-2023.html"
 ---
 

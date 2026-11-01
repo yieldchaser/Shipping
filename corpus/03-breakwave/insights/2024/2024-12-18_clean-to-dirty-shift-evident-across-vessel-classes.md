@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/12/18/clean-to-dirty-shift-evident-across-vessel-classes"
 tags: ["Crude", "Markets", "Shipping"]
 images_count: 4
-word_count: 1285
+word_count: 1289
 source_file: "corpus/03-breakwave/insights/2024/2024-12-18_clean-to-dirty-shift-evident-across-vessel-classes.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/26/concerns-have-been-growing-that-global-supplies-will-be-insufficient-to-cover-future-demand-levels"
 tags: ["Markets", "Shipping", "Commodities"]
 images_count: 1
-word_count: 1148
+word_count: 1149
 source_file: "corpus/03-breakwave/insights/2024/2024-04-26_concerns-have-been-growing-that-global-supplies-will-be-insufficient-to-cover-fu.html"
 ---
 

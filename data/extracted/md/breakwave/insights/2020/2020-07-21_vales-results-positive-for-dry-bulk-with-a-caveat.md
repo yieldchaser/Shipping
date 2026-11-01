@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/7/21/vales-results-positive-for-dry-bulk-with-a-caveat"
 tags: ["Dry Bulk", "China", "Brazil", "Capesize", "Australia", "Shipping", "Vale"]
 images_count: 2
-word_count: 576
+word_count: 578
 source_file: "corpus/03-breakwave/insights/2020/2020-07-21_vales-results-positive-for-dry-bulk-with-a-caveat.html"
 ---
 

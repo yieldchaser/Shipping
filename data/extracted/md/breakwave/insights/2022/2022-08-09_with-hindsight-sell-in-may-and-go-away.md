@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/8/with-hindsight-sell-in-may-and-go-away"
 tags: ["Shipping", "Freight", "Rates"]
 images_count: 3
-word_count: 1241
+word_count: 1244
 source_file: "corpus/03-breakwave/insights/2022/2022-08-09_with-hindsight-sell-in-may-and-go-away.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/12/26/poseidon-principles"
 tags: ["Hipping", "Markets", "Economy"]
 images_count: 3
-word_count: 652
+word_count: 655
 source_file: "corpus/03-breakwave/insights/2024/2024-12-26_poseidon-principles.html"
 ---
 

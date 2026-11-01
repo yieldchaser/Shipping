@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/22/weakness-across-all-dry-bulk-vessel-segments"
 tags: ["Shipping", "Markets", "Commodities"]
 images_count: 1
-word_count: 1154
+word_count: 1155
 source_file: "corpus/03-breakwave/insights/2024/2024-11-22_weakness-across-all-dry-bulk-vessel-segments.html"
 ---
 

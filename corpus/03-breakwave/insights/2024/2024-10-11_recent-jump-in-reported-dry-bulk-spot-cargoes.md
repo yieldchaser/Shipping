@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/11/recent-jump-in-reported-dry-bulk-spot-cargoes"
 tags: ["Drybulk", "Shipping", "China"]
 images_count: 2
-word_count: 352
+word_count: 354
 source_file: "corpus/03-breakwave/insights/2024/2024-10-11_recent-jump-in-reported-dry-bulk-spot-cargoes.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/11/16/the-global-fertilizer-trade-under-pressure-in-the-wake-of-the-energy-crisis"
 tags: ["Global Economy", "Trade", "Shipping", "Energycrisis"]
 images_count: 3
-word_count: 860
+word_count: 863
 source_file: "corpus/03-breakwave/insights/2021/2021-11-16_the-global-fertilizer-trade-under-pressure-in-the-wake-of-the-energy-crisis.html"
 ---
 

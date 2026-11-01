@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/11/12/2021-dry-bulk-outlook-grains"
 tags: ["Grains", "Soybeans", "Corn", "China", "India", "Dry Bulk"]
 images_count: 8
-word_count: 3171
+word_count: 3179
 source_file: "corpus/03-breakwave/insights/2020/2020-11-13_2021-dry-bulk-outlook-grains.html"
 ---
 

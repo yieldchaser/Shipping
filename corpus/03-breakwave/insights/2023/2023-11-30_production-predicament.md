@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/11/29/production-predicament"
 images_count: 3
-word_count: 630
+word_count: 633
 source_file: "corpus/03-breakwave/insights/2023/2023-11-30_production-predicament.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/1/31/recent-weakness-in-chinese-consumer-spending"
 images_count: 3
-word_count: 342
+word_count: 345
 source_file: "corpus/03-breakwave/insights/2023/2023-01-31_recent-weakness-in-chinese-consumer-spending.html"
 ---
 

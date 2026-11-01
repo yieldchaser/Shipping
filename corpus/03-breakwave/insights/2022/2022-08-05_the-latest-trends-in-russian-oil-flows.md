@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/4/the-latest-trends-in-russian-oil-flows"
 tags: ["Crude Oil", "Tankers", "Freight Rates"]
 images_count: 5
-word_count: 2069
+word_count: 2074
 source_file: "corpus/03-breakwave/insights/2022/2022-08-05_the-latest-trends-in-russian-oil-flows.html"
 ---
 

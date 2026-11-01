@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/12/4/2021-dry-bulk-outlook-supply-growth"
 tags: ["Dry Bulk", "Shipping", "Supply", "Capesize", "Panamax", "Supramax"]
 images_count: 5
-word_count: 2110
+word_count: 2115
 source_file: "corpus/03-breakwave/insights/2020/2020-12-04_2021-dry-bulk-outlook-supply-growth.html"
 ---
 

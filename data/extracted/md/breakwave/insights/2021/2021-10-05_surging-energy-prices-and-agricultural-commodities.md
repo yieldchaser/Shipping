@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/5/surging-energy-prices-and-agricultural-commodities"
 tags: ["Global", "Economy", "Energycrunch"]
 images_count: 4
-word_count: 1040
+word_count: 1044
 source_file: "corpus/03-breakwave/insights/2021/2021-10-05_surging-energy-prices-and-agricultural-commodities.html"
 ---
 
@@ -26,7 +26,7 @@ The global energy crunch continues to evolve, with international competition for
 
 ### Coal - Usd/tonne
 
-![Ch1](assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch1_6130a8831a0f.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch1_6130a8831a0f.png)
 
 > **Figure 1: Ch1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch1_6130a8831a0f.png)
@@ -35,7 +35,7 @@ Beyond rising energy costs in general, agricultural production and food prices c
 
 ### Wheat – Us Cents per Bushel
 
-![Ch2](assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch2_c3c6f55eb5f3.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch2_c3c6f55eb5f3.png)
 
 > **Figure 2: Ch2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch2_c3c6f55eb5f3.png)
@@ -46,14 +46,14 @@ During the last twelve months, a domestic shortage has forced China to import re
 
 On the other side of the Pacific, US farmers are facing different challenges. The lingering impact of Hurricane Ida in the Gulf of Mexico has kept disrupting port operations, with congestion remaining high and creating bottlenecks in the supply chain inland. In addition, the collapse of a crane in Grays Harbor, which handles approximately twenty per cent of the soybean meal shipments from the US West Coast, is adding to the global supply chain disruptions. The crane repairs are expected to take several months, with vessels initially diverted to a grain terminal in Longview, Washington. The late September incident also saw an increase in congestion on the US West Coast.
 
-![Ch3](assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch3_2ac7854f36e2.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch3_2ac7854f36e2.png)
 
 > **Figure 3: Ch3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch3_2ac7854f36e2.png)
 
 The last year has seen US agricultural exports to China surging. While the aggregate year to date numbers remain impressive, much of the shipments took place during the first quarter. During the last two quarters, monthly import volumes have remained stable at around 3.5 million tonnes. However, as the fourth quarter progress, it can be expected that the numbers will pick up as the new harvest reaches the Chinese ports. The disruptions in the US ports, combined with extensive congestion around the Chinese ports, may increase import volumes later than last year. There are also concerns that China is failing to live up to its commitments under the Phase One trade agreement, with the US Trade Representative, Katherine Tai, set to bring up the subject with Chinese Vice Premier Liu He. As of August, Chinese imports of US agricultural products were 30 billion dollars short of the full-year goal of 80 billion dollars.
 
-![Ch4](assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch4_f3d6ff31e7ab.png)
+![Ch4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch4_f3d6ff31e7ab.png)
 
 > **Figure 4: Ch4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch4_f3d6ff31e7ab.png)

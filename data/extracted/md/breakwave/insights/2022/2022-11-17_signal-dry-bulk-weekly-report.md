@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/17/signal-dry-bulk-weekly-report"
 images_count: 5
-word_count: 1058
+word_count: 1063
 source_file: "corpus/03-breakwave/insights/2022/2022-11-17_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -31,7 +31,7 @@ Meanwhile, there are reports that Russia will extend the Black Sea Grain Export 
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-canals-congestion/2kwxjt/285397797?h=AX4TG7bNSzHdHZ1N7CRZ20n0Ry1F3W1CN1opMKcgT5o) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-17_signal-dry-bulk-weekly-report_img_unnamed-2022-11-17t123041984_d36ca7122ed1.png)
 
 Data Source: The Signal Ocean Platform, Dry Bulk Canals Congestion
-[Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-canals-congestion/2kwxjt/285397797?h=AX4TG7bNSzHdHZ1N7CRZ20n0Ry1F3W1CN1opMKcgT5o)
+ [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-canals-congestion/2kwxjt/285397797?h=AX4TG7bNSzHdHZ1N7CRZ20n0Ry1F3W1CN1opMKcgT5o)
 
 ## Section 1/ Freight -Market Rates ($/T) Weaker
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/12/ongoing-climb-in-chinese-coal-imports-decline-in-chinese-iron-ore-imports"
 tags: ["Coal", "Shipping", "China"]
 images_count: 2
-word_count: 507
+word_count: 509
 source_file: "corpus/03-breakwave/insights/2021/2021-08-12_ongoing-climb-in-chinese-coal-imports-decline-in-chinese-iron-ore-imports.html"
 ---
 
@@ -26,7 +26,7 @@ China imported 30.2 million tons of coal in July. This has marked a month-on-mon
 
 China's near-term coal import prospects remain promising. As we have continued to discuss in our Weekly Dry Bulk Reports and Weekly China Reports, China's thermal coal-derived electricity generation continues to far outpace domestic coal production. At the same time, China's power plant coal stockpiles are low and have continued to fall in recent weeks. Yet another new coal mine accident has also tragically occurred this week as well. China's coal port stockpiles also remain down considerably on a year-on-year basis.
 
-![A1](assets/2021-08-12_ongoing-climb-in-chinese-coal-imports-decline-in-chinese-iron-ore-imports_img_a1_16dbcb22a57e.jpg)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-12_ongoing-climb-in-chinese-coal-imports-decline-in-chinese-iron-ore-imports_img_a1_16dbcb22a57e.jpg)
 
 > **Figure 1: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-12_ongoing-climb-in-chinese-coal-imports-decline-in-chinese-iron-ore-imports_img_a1_16dbcb22a57e.jpg)
@@ -35,7 +35,7 @@ China imported 88.5 million tons of iron ore last month, which marks a month-on-
 
 The Chinese government has been unsuccessful in driving down coal prices, but it finally has had success in the iron ore sector. We expect that iron ore imports will find support soon and continue to note some are unaware that China's iron ore imports historically climb when steel output experiences lower growth or even contracts. During the last ten years, there have been three years where China's steel output did not grow by at least 5% (2012, 2015, and 2016) — and during all of these years iron ore imports set new records. This included 2015 which saw steel output fall by 2%, but iron ore imports that year nevertheless still set a new record.
 
-![A2](assets/2021-08-12_ongoing-climb-in-chinese-coal-imports-decline-in-chinese-iron-ore-imports_img_a2_65d3d40238e1.jpg)
+![A2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-12_ongoing-climb-in-chinese-coal-imports-decline-in-chinese-iron-ore-imports_img_a2_65d3d40238e1.jpg)
 
 > **Figure 2: A2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-12_ongoing-climb-in-chinese-coal-imports-decline-in-chinese-iron-ore-imports_img_a2_65d3d40238e1.jpg)

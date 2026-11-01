@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/9/its-still-the-economy-stupid"
 tags: ["Markets", "Economy", "Macro"]
 images_count: 2
-word_count: 1846
+word_count: 1848
 source_file: "corpus/03-breakwave/insights/2024/2024-07-09_its-still-the-economy-stupid.html"
 ---
 

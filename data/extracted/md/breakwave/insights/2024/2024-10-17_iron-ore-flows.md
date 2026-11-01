@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/17/iron-ore-flows"
 tags: ["Drybulk", "Capesize", "Shipping"]
 images_count: 5
-word_count: 1407
+word_count: 1412
 source_file: "corpus/03-breakwave/insights/2024/2024-10-17_iron-ore-flows.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-10-17_iron-ore-flows.html"
 ---
 
 **Dry Weekly Market Monitor - Week 42.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 October 16, 2024
 
 ## Chart of the Week: Dry Bulk Iron Ore Flows, Brazil Port Congestion, Market Rates
@@ -37,7 +37,7 @@ This week's focus highlights the softening trend observed in Capesize market rat
 
 The contrast is stark when looking at April 2024, which saw a 28% annual decline in iron ore shipments compared to the same month in the previous year. This sharp rebound demonstrates the renewed vitality in iron ore exports, with Brazil playing a central role in China’s steel making supply chain. The increase in shipments also correlates with recent news from major iron ore producers,[Rio Tinto Group and Vale SA](https://go.signalocean.com/e/983831/se-output-even-as-china-slows-/2qmrnb/442077924/h/F7k8XZt1CdG08Afa3uHcXGhXFuCy33Dt73St-N4hF90), both of which ramped up production in the last quarter. This rise comes despite ongoing challenges in China's domestic demand, particularly due to the nation’s ongoing property crisis, which has tempered some market expectations.
 
-If the current momentum in iron ore exports from Brazil persists, it could lead to higher levels of Capesize vessel congestion at Brazilian ports, particularly for those loading iron ore. This increase in port congestion, already on the rise since early October, may soon translate into upward pressure on C3 market rates. According to the latest insights from[Signal Ocean](https://go.signalocean.com/e/983831/congestion-report-dry-download/2qmrnf/442077924/h/F7k8XZt1CdG08Afa3uHcXGhXFuCy33Dt73St-N4hF90), vessel congestion at Brazilian ports has nearly doubled since the end of September. The first half of October has already recorded an uptick in iron ore shipments moving from Brazil to China, further supporting the potential for a rate rebound as market fundamentals strengthen.
+If the current momentum in iron ore exports from Brazil persists, it could lead to higher levels of Capesize vessel congestion at Brazilian ports, particularly for those loading iron ore. This increase in port congestion, already on the rise since early October, may soon translate into upward pressure on C3 market rates. According to the latest insights from [Signal Ocean](https://go.signalocean.com/e/983831/congestion-report-dry-download/2qmrnf/442077924/h/F7k8XZt1CdG08Afa3uHcXGhXFuCy33Dt73St-N4hF90), vessel congestion at Brazilian ports has nearly doubled since the end of September. The first half of October has already recorded an uptick in iron ore shipments moving from Brazil to China, further supporting the potential for a rate rebound as market fundamentals strengthen.
 
 This dynamic interplay between vessel availability, congestion levels, and commodity flows will be key to watch in the coming weeks as the Capesize market adjusts to these evolving factors.
 

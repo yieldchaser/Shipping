@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/31/gains-for-the-capesizes"
 tags: ["Markets", "Shipping", "Commodities"]
 images_count: 1
-word_count: 1257
+word_count: 1258
 source_file: "corpus/03-breakwave/insights/2024/2024-05-31_gains-for-the-capesizes.html"
 ---
 
@@ -28,7 +28,7 @@ Gains for the capesizes amid improving demand were broadly offset by continued w
 
 Industrial activities unexpectedly contracted over the past month in China, dealing a blow to the recent positive momentum of the world’s second-largest economy. According to the country’s statistical authority, the Purchasing Managers’ Index for the manufacturing sector fell to 49.5 in May, signalling a modest decline in industrial production. The reading was the lowest since February and well below the market’s expectations of 50.5. The gauge for the non-manufacturing sector also failed to impress, as it edged down instead of rising as analysts had expected. Still, the latter indicator remained in expansionary territory with a reading of 51.1, but it was the weakest showing since January.
 
-The latest Chinese economic data renew concerns over the outlook for the Chinese economy. In light of the continued travails of the country’s real estate sector, the Chinese leadership viewed the manufacturing sector as the engine that would keep growth on track. However, as highlighted in a recent Shipfix[research blog post](https://quotes.shipfix.com/e3t/Ctc/5B+113/cvs2t04/VWp3yp1JcjbXW1XPP5B6YzDtNW4jRtpV5fM2Y0N4gTlLd3qgyTW95jsWP6lZ3mSW5D7sLZ4Wlh-fW6YWhTJ3PM4qGW5dYPPq8Y-PhvW7F-nDT9fTv6PW8YFXvT2vsrFRW4_Zyf68-d89PW8yRswH4qf-q0N61qyXH5hmDbW2cyCmr5WDRxCW3mp7WT63fZ0ZV2pV733S9rchW6mTyk42Q-yN3W5NtkZc2C8QFSW6p-y2H2q7WSgW3NywYc4zSyL4F5nl153ZXkqVMkX8T7djKLXW75RJJN2n19v8W325krk3jx2vsMC5Kd7x1qwZW2rDksT7tcGSTVDtFGj4xrgG2W4nYNZ95Yy0GJW8514PR64Z9l-N9kk_HqwzsJsW1gdqZC7jGb9QW412zkg8JjPtGN45qX9_x2nhdW3jhp7j5VZ-l_W5c7Vjk8gnm9sf4bFSKs04), the weakness may prove short-lived as Chinese copper demand remains robust and steel exports decline.
+The latest Chinese economic data renew concerns over the outlook for the Chinese economy. In light of the continued travails of the country’s real estate sector, the Chinese leadership viewed the manufacturing sector as the engine that would keep growth on track. However, as highlighted in a recent Shipfix [research blog post](https://quotes.shipfix.com/e3t/Ctc/5B+113/cvs2t04/VWp3yp1JcjbXW1XPP5B6YzDtNW4jRtpV5fM2Y0N4gTlLd3qgyTW95jsWP6lZ3mSW5D7sLZ4Wlh-fW6YWhTJ3PM4qGW5dYPPq8Y-PhvW7F-nDT9fTv6PW8YFXvT2vsrFRW4_Zyf68-d89PW8yRswH4qf-q0N61qyXH5hmDbW2cyCmr5WDRxCW3mp7WT63fZ0ZV2pV733S9rchW6mTyk42Q-yN3W5NtkZc2C8QFSW6p-y2H2q7WSgW3NywYc4zSyL4F5nl153ZXkqVMkX8T7djKLXW75RJJN2n19v8W325krk3jx2vsMC5Kd7x1qwZW2rDksT7tcGSTVDtFGj4xrgG2W4nYNZ95Yy0GJW8514PR64Z9l-N9kk_HqwzsJsW1gdqZC7jGb9QW412zkg8JjPtGN45qX9_x2nhdW3jhp7j5VZ-l_W5c7Vjk8gnm9sf4bFSKs04), the weakness may prove short-lived as Chinese copper demand remains robust and steel exports decline.
 
 ### Commodity Markets
 

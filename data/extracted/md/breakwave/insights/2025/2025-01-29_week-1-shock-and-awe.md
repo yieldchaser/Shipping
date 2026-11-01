@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/27/week-1-shock-and-awe"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 3
-word_count: 1681
+word_count: 1684
 source_file: "corpus/03-breakwave/insights/2025/2025-01-29_week-1-shock-and-awe.html"
 ---
 

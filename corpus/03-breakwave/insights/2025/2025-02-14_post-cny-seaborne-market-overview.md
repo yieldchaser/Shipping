@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/14/post-cny-seaborne-market-overview"
 tags: ["China", "Shipping", "Markets"]
 images_count: 3
-word_count: 1015
+word_count: 1018
 source_file: "corpus/03-breakwave/insights/2025/2025-02-14_post-cny-seaborne-market-overview.html"
 ---
 

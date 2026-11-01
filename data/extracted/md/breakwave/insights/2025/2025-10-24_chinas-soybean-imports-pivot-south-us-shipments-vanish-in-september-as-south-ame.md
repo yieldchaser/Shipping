@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/24/chinas-soybean-imports-pivot-south-us-shipments-vanish-in-september-as-south-america-fills-the-gap"
 tags: ["Drybulk", "Soybean", "Markets"]
 images_count: 4
-word_count: 656
+word_count: 660
 source_file: "corpus/03-breakwave/insights/2025/2025-10-24_chinas-soybean-imports-pivot-south-us-shipments-vanish-in-september-as-south-ame.html"
 ---
 

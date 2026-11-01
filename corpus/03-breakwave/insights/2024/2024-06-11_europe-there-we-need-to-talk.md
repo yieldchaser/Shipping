@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/10/europe-there-we-need-to-talk"
 tags: ["Markets", "Economy", "Macro"]
 images_count: 6
-word_count: 1798
+word_count: 1804
 source_file: "corpus/03-breakwave/insights/2024/2024-06-11_europe-there-we-need-to-talk.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-06-11_europe-there-we-need-
 2. The European Election confirmed the rise of euro-scepticism, causing elections in France and Belgium and threatening the coalition in Germany.
 3. Europe has been putting off a debate about its future for too long. Markets, who have always been uneasy with the imperfections of the monetary union are looking for answers.
 
-By[George Lagarias](https://www.linkedin.com/in/george-lagarias-mba-3baa769/)
+By [George Lagarias](https://www.linkedin.com/in/george-lagarias-mba-3baa769/)
 
 ### Summary
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/17/china-remains-uniquely-positioned-to-carry-out-stimulus"
 tags: ["China", "Economy", "Markets"]
 images_count: 2
-word_count: 255
+word_count: 257
 source_file: "corpus/03-breakwave/insights/2025/2025-03-17_china-remains-uniquely-positioned-to-carry-out-stimulus.html"
 ---
 

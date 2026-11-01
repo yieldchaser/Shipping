@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/26/indian-salt-across-asian-waters"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 5
-word_count: 1357
+word_count: 1362
 source_file: "corpus/03-breakwave/insights/2025/2025-08-26_indian-salt-across-asian-waters.html"
 ---
 

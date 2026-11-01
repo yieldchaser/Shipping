@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/5/27/jong4q8e6zzsf15wk9r1i5xczl1fey"
 images_count: 4
-word_count: 1180
+word_count: 1184
 source_file: "corpus/03-breakwave/insights/2022/2022-05-27_jong4q8e6zzsf15wk9r1i5xczl1fey.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/9/the-big-picture-events-shaping-bauxite-trades"
 tags: ["Bauxite", "Guinea", "Drybulk"]
 images_count: 3
-word_count: 726
+word_count: 729
 source_file: "corpus/03-breakwave/insights/2024/2024-02-09_the-big-picture-events-shaping-bauxite-trades.html"
 ---
 

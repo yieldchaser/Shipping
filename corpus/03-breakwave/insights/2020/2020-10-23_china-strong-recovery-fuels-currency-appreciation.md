@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/22/china-strong-recovery-fuels-currency-appreciation"
 tags: ["China", "Yuan", "Economics"]
 images_count: 2
-word_count: 601
+word_count: 603
 source_file: "corpus/03-breakwave/insights/2020/2020-10-23_china-strong-recovery-fuels-currency-appreciation.html"
 ---
 

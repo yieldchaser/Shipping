@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/12/very-rare-contraction-in-coal-indias-production"
 tags: ["Drybulk", "India", "Coal"]
 images_count: 2
-word_count: 302
+word_count: 304
 source_file: "corpus/03-breakwave/insights/2024/2024-09-12_very-rare-contraction-in-coal-indias-production.html"
 ---
 

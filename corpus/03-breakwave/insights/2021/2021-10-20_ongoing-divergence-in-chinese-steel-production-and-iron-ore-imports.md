@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/20/ongoing-divergence-in-chinese-steel-production-and-iron-ore-imports"
 tags: ["China", "Steel", "Iron Ore"]
 images_count: 2
-word_count: 521
+word_count: 523
 source_file: "corpus/03-breakwave/insights/2021/2021-10-20_ongoing-divergence-in-chinese-steel-production-and-iron-ore-imports.html"
 ---
 

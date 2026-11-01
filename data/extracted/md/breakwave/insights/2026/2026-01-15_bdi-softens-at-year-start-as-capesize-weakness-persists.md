@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/15/bdi-softens-at-year-start-as-capesize-weakness-persists"
 tags: ["Ironore", "Drybulk", "Markets"]
 images_count: 5
-word_count: 1202
+word_count: 1207
 source_file: "corpus/03-breakwave/insights/2026/2026-01-15_bdi-softens-at-year-start-as-capesize-weakness-persists.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/12/31/96js5yd6hq8huua00m6ymh2ffppulh"
 tags: ["Shipping", "Dry Bulk", "Capesize"]
 images_count: 2
-word_count: 1579
+word_count: 1581
 source_file: "corpus/03-breakwave/insights/2021/2021-12-31_96js5yd6hq8huua00m6ymh2ffppulh.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-12-31_96js5yd6hq8huua00m6ym
 
 **This is the most read article of 2021 in Breakwave insights. Thank you for following our work! Stay tuned for even more interesting stuff ahead! Happy 2022!**
 
-![25% Represents the Daily Roundtrip Earnings for Ships in The](assets/2021-12-31_96js5yd6hq8huua00m6ymh2ffppulh_img_ship18_0f9f548e5142.jpg)
+![25% Represents the Daily Roundtrip Earnings for Ships in The](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-31_96js5yd6hq8huua00m6ymh2ffppulh_img_ship18_0f9f548e5142.jpg)
 
 > **Figure 1: 25% Represents the Daily Roundtrip Earnings for Ships in The**  
 > *25% represents the daily roundtrip earnings for ships in the Australia to China route*  
@@ -56,7 +56,7 @@ A great example is what is currently happening in the Capesize market. The curre
 
 ### Atlantic Roundtrip Rates Minus the 5tc Average
 
-![Atl+ +5tc](assets/2021-12-31_96js5yd6hq8huua00m6ymh2ffppulh_img_atl2b-2b5tc_535e37f984aa.jpg)
+![Atl+ +5tc](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-31_96js5yd6hq8huua00m6ymh2ffppulh_img_atl2b-2b5tc_535e37f984aa.jpg)
 
 > **Figure 2: Atl+ +5tc**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-31_96js5yd6hq8huua00m6ymh2ffppulh_img_atl2b-2b5tc_535e37f984aa.jpg)

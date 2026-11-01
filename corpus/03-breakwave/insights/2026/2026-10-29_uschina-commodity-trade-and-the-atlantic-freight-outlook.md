@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/29/uschina-commodity-trade-and-the-atlantic-freight-outlook"
 tags: ["Drybulk", "China", "Commodities"]
 images_count: 3
-word_count: 1204
+word_count: 1222
 source_file: "corpus/03-breakwave/insights/2026/2026-10-29_uschina-commodity-trade-and-the-atlantic-freight-outlook.html"
 ---
 

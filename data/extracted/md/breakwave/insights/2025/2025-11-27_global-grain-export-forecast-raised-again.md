@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/27/global-grain-export-forecast-raised-again"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 1
-word_count: 324
+word_count: 325
 source_file: "corpus/03-breakwave/insights/2025/2025-11-27_global-grain-export-forecast-raised-again.html"
 ---
 

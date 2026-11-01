@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/28/iranian-crude-exports-rise-lifting-its-ranking-in-opec"
 tags: ["Shipping", "Crude Oil", "Tankers"]
 images_count: 1
-word_count: 433
+word_count: 434
 source_file: "corpus/03-breakwave/insights/2024/2024-06-28_iranian-crude-exports-rise-lifting-its-ranking-in-opec.html"
 ---
 

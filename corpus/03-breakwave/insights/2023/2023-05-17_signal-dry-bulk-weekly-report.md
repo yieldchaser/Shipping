@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/5/17/signal-dry-bulk-weekly-report"
 images_count: 5
-word_count: 1158
+word_count: 1163
 source_file: "corpus/03-breakwave/insights/2023/2023-05-17_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -78,9 +78,9 @@ As far as the number of ballast ships is concerned, an upward trend can be obser
 **In the third week of May, there is a significant downward correction in the Panamax and Supramax segments, while the Capesize segment continues to show a firm trend.**
 
 - **Capesize demand ton-days: The upward trend has continued since the end of week 16, and this week's increase is now at the high of five weeks ago.**
-- **Panamax**demand ton-days: Growth slowed in the third week of May, falling to the lowest level since the last peak in week 14.
+- **Panamax** demand ton-days: Growth slowed in the third week of May, falling to the lowest level since the last peak in week 14.
 - **Supramax demand ton-days: The growth trend in demand for Supramax vessels has now dropped to the low level of week 14, with still a severe weakening trend throughout May.**
-- **Handysize**demand ton-days: In the third week of May, a significant downward correction is observed, while the current growth is at the lowest level of week 14.
+- **Handysize** demand ton-days: In the third week of May, a significant downward correction is observed, while the current growth is at the lowest level of week 14.
 
 ## Section 4/ Port Congestion - No of Vessels Increasingdry Bulk Ships Congested at Chinese Ports
 

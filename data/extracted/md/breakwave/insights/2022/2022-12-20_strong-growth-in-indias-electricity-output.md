@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/12/20/strong-growth-in-indias-electricity-output"
 images_count: 3
-word_count: 372
+word_count: 375
 source_file: "corpus/03-breakwave/insights/2022/2022-12-20_strong-growth-in-indias-electricity-output.html"
 ---
 

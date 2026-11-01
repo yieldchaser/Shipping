@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/13/global-trade-growth"
 tags: ["China", "Economy", "Markets"]
 images_count: 1
-word_count: 970
+word_count: 971
 source_file: "corpus/03-breakwave/insights/2025/2025-10-13_global-trade-growth.html"
 ---
 

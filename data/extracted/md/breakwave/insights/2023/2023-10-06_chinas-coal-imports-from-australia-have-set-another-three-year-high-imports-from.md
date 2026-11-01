@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/10/5/chinas-coal-imports-from-australia-have-set-another-three-year-high-imports-from-mongolia-have-set-a-record"
 images_count: 4
-word_count: 456
+word_count: 460
 source_file: "corpus/03-breakwave/insights/2023/2023-10-06_chinas-coal-imports-from-australia-have-set-another-three-year-high-imports-from.html"
 ---
 

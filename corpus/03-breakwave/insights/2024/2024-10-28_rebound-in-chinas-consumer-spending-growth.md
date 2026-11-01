@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/28/rebound-in-chinas-consumer-spending-growth"
 tags: ["Drybulk", "China", "Markets"]
 images_count: 2
-word_count: 293
+word_count: 295
 source_file: "corpus/03-breakwave/insights/2024/2024-10-28_rebound-in-chinas-consumer-spending-growth.html"
 ---
 

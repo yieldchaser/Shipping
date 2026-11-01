@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/14/global-crude-exports-recover-in-may-but-atlantic-basin-loses-share"
 tags: ["Shipping", "Crude Oil", "Tankers"]
 images_count: 2
-word_count: 716
+word_count: 718
 source_file: "corpus/03-breakwave/insights/2024/2024-06-14_global-crude-exports-recover-in-may-but-atlantic-basin-loses-share.html"
 ---
 

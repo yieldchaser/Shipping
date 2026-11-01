@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/16/adding-salt-on-the-ground"
 tags: ["Economy", "Shipping", "Drybulk"]
 images_count: 3
-word_count: 1282
+word_count: 1285
 source_file: "corpus/03-breakwave/insights/2024/2024-10-16_adding-salt-on-the-ground.html"
 ---
 

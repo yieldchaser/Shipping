@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/19/grain-dry-bulk-flows-to-china"
 tags: ["Drybulk", "Capesize", "Shipping"]
 images_count: 5
-word_count: 1465
+word_count: 1470
 source_file: "corpus/03-breakwave/insights/2024/2024-09-19_grain-dry-bulk-flows-to-china.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-09-19_grain-dry-bulk-flows-
 ---
 
 **Dry Weekly Market Monitor - Week 38.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 September 18, 2024
 
 ![Στιγμιότυπο Οθόνης 2024 09 19 095621](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-19_grain-dry-bulk-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98e49b663911.png)

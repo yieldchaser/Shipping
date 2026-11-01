@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/12/5/the-big-picture-2021-in-review-pt1"
 tags: ["Shipping", "Dry Bulk", "Capesize", "Economy"]
 images_count: 6
-word_count: 1217
+word_count: 1223
 source_file: "corpus/03-breakwave/insights/2021/2021-12-05_the-big-picture-2021-in-review-pt1.html"
 ---
 

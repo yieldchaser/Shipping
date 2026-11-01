@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/2/indian-and-chinese-thermal-coal-demand-remain-strong"
 tags: ["India", "China", "Coal"]
 images_count: 2
-word_count: 281
+word_count: 283
 source_file: "corpus/03-breakwave/insights/2026/2026-10-02_indian-and-chinese-thermal-coal-demand-remain-strong.html"
 ---
 
@@ -29,7 +29,7 @@ As we discussed in Commodore Research's most recent Weekly Executive Report, dry
 > **Figure 1: $1.png**  
 > [Local Asset](assets/2026-10-02_indian-and-chinese-thermal-coal-demand-remain-strong_img_241png_8125a60661c5.jpg)
 
-In India, stockpiles have fallen even further, and**80 power plants now hold critically low stockpiles**. Just four weeks ago, it was 47. India’s power plant coal stockpiles ended last week at approximately 22.3 million tons, which is 1.1 million tons (-5%) less than a week ago and down year-on-year by 24.8 million tons (-53%). India's power plant coal stockpiles have now declined in twenty-three of the last twenty-four weeks.
+In India, stockpiles have fallen even further, and **80 power plants now hold critically low stockpiles**. Just four weeks ago, it was 47. India’s power plant coal stockpiles ended last week at approximately 22.3 million tons, which is 1.1 million tons (-5%) less than a week ago and down year-on-year by 24.8 million tons (-53%). India's power plant coal stockpiles have now declined in twenty-three of the last twenty-four weeks.
 
 ![242](assets/2026-10-02_indian-and-chinese-thermal-coal-demand-remain-strong_img_242_7ff115c4669d.jpg)
 

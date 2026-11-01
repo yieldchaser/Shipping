@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/11/port-congestions-arent-dealt-with-interest-rate-hikes"
 tags: ["Economy", "Inflation", "Shipping"]
 images_count: 1
-word_count: 660
+word_count: 661
 source_file: "corpus/03-breakwave/insights/2021/2021-10-11_port-congestions-arent-dealt-with-interest-rate-hikes.html"
 ---
 
@@ -45,7 +45,7 @@ Policy makers should question whether these two tenants hold. Milton Friedman di
 
 A system we attacked politically, before Covid-19 attacked it physically, and without a credible alternative. Hiking interest rates might have worked in the late 70’s, but a tool with a nine-month horizon is too slow to solve the port congestion problem. According to global shipping behemoth Maersk, this congestion is unlikely to resolve itself before 2022. And even if it does, higher rates on top of soaring energy prices could seriously inhibit the confidence of a consumer tempered by two decades of secular stagnation.
 
-As for inflation expectations needing to fall, apologies, but in the[words](../pdfs/2021-10-11_port-congestions-arent-dealt-with-interest-rate-hikes_2021062pap_6ecd13a8e172.pdf)of Fed researcher Jeremy B. Rudd, “mainstream economics is replete with ideas that “everyone knows” to be true, but that are actually arrant nonsense”. The link between inflation and inflation expectations is backwards. Expectations, surveys really, reflect what has already transpired, not what is newly expected. So ‘talking’ future rates up might steepen the yield curve enough to keep pension funds afloat, but beyond that it has little to do with actually fighting inflation.
+As for inflation expectations needing to fall, apologies, but in the [words](../pdfs/2021-10-11_port-congestions-arent-dealt-with-interest-rate-hikes_2021062pap_6ecd13a8e172.pdf) of Fed researcher Jeremy B. Rudd, “mainstream economics is replete with ideas that “everyone knows” to be true, but that are actually arrant nonsense”. The link between inflation and inflation expectations is backwards. Expectations, surveys really, reflect what has already transpired, not what is newly expected. So ‘talking’ future rates up might steepen the yield curve enough to keep pension funds afloat, but beyond that it has little to do with actually fighting inflation.
 
 **If major central banks meaningfully raise rates before any serious fiscal easing in the US and the EU, we fear that we could be staring down the barrel of a policy mistake.**
 

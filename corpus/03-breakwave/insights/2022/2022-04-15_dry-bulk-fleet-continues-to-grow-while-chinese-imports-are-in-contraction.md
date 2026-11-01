@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/4/15/dry-bulk-fleet-continues-to-grow-while-chinese-imports-are-in-contraction"
 tags: ["Exports", "China", "Shipping", "Dry Bulk"]
 images_count: 1
-word_count: 523
+word_count: 524
 source_file: "corpus/03-breakwave/insights/2022/2022-04-15_dry-bulk-fleet-continues-to-grow-while-chinese-imports-are-in-contraction.html"
 ---
 

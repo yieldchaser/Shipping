@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/2/4/iron-ore-prices-and-seaborne-volumes-on-the-rise"
 tags: ["Iron Ore", "Economy", "Price", "Global"]
 images_count: 4
-word_count: 936
+word_count: 940
 source_file: "corpus/03-breakwave/insights/2022/2022-02-08_iron-ore-prices-and-seaborne-volumes-on-the-rise.html"
 ---
 

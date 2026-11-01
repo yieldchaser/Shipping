@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/5/26/weekly-insights-review"
 images_count: 10
-word_count: 1128
+word_count: 1138
 source_file: "corpus/03-breakwave/insights/2023/2023-05-28_weekly-insights-review.html"
 ---
 
@@ -57,7 +57,7 @@ In our earlier issue dated 13th April, we dissected several talking points that 
 ## Despite the Upward Movement in Stocks, Risks Remain Elevated.
 
 Last week saw some positive momentum in markets. This was because of two reasons
-[Read More](https://www.breakwaveadvisors.com/insights/2023/5/23/mazars-comment-all-quiet-on-the-western-front-perhaps-too-quiet)
+ [Read More](https://www.breakwaveadvisors.com/insights/2023/5/23/mazars-comment-all-quiet-on-the-western-front-perhaps-too-quiet)
 
 ## Breakwave Bi-Weekly Dry Bulk Report
 
@@ -101,7 +101,7 @@ In spite of the cheerful tone in the soybean market, the main carriers of grains
 ## Suezmaxes Set for Short Hail Trade in June
 
 Chinese inspection has not triggered congestion, but intense scrutiny could impact Aframax and Suezmax opaque fleet supply
-[Read More](https://www.breakwaveadvisors.com/insights/2023/5/25/vortexa-freight-weekly)
+ [Read More](https://www.breakwaveadvisors.com/insights/2023/5/25/vortexa-freight-weekly)
 
 ## Shipfix-Global Market Update
 

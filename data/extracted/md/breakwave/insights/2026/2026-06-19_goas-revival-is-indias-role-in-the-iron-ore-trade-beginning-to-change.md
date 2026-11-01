@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/6/19/goas-revival-is-indias-role-in-the-iron-ore-trade-beginning-to-change"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 4
-word_count: 1398
+word_count: 1402
 source_file: "corpus/03-breakwave/insights/2026/2026-06-19_goas-revival-is-indias-role-in-the-iron-ore-trade-beginning-to-change.html"
 ---
 

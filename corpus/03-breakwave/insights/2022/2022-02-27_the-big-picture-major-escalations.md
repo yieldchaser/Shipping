@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/2/27/the-big-picture-major-escalations"
 tags: ["Ukraine", "Russia", "Shipping", "Economy"]
 images_count: 5
-word_count: 1105
+word_count: 1110
 source_file: "corpus/03-breakwave/insights/2022/2022-02-27_the-big-picture-major-escalations.html"
 ---
 

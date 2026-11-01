@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/24/lr-transits-around-the-cape-of-good-hope-increase-but-is-it-short-lived"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 4
-word_count: 1379
+word_count: 1383
 source_file: "corpus/03-breakwave/insights/2024/2024-10-24_lr-transits-around-the-cape-of-good-hope-increase-but-is-it-short-lived.html"
 ---
 

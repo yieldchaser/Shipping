@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/10/24/beyond-the-middle-east-and-yields-how-the-wealth-management-industry-navigates-turmoil"
 images_count: 1
-word_count: 1303
+word_count: 1304
 source_file: "corpus/03-breakwave/insights/2023/2023-10-24_beyond-the-middle-east-and-yields-how-the-wealth-management-industry-navigates-t.html"
 ---
 
@@ -39,7 +39,7 @@ As returns are no longer as easy to come by, and 2023 hasn’t been the big rebo
 
 The wealth management industry, though, is different. Asset managers are companies managing funds. Wealth managers manage wealth.
 
-Typically, asset managers create a range of mutual funds, build research and management teams, infuse a philosophy and charge a management fee. The end of the bull market and low returns over the past two years have caused an unprecedented retreat from mutual funds and into passive funds in 2022, according to a must-read weekend[article](https://www.bloomberg.com/news/features/2023-10-22/active-vs-passive-investing-money-managers-confront-end-of-bull-market?sref=EiJDOcNbhttps://www.bloomberg.com/news/features/2023-10-22/active-vs-passive-investing-money-managers-confront-end-of-bull-market?sref=EiJDOcNb)by Bloomberg.
+Typically, asset managers create a range of mutual funds, build research and management teams, infuse a philosophy and charge a management fee. The end of the bull market and low returns over the past two years have caused an unprecedented retreat from mutual funds and into passive funds in 2022, according to a must-read weekend [article](https://www.bloomberg.com/news/features/2023-10-22/active-vs-passive-investing-money-managers-confront-end-of-bull-market?sref=EiJDOcNbhttps://www.bloomberg.com/news/features/2023-10-22/active-vs-passive-investing-money-managers-confront-end-of-bull-market?sref=EiJDOcNb) by Bloomberg.
 
 ![Market Chart 1](assets/2023-10-24_beyond-the-middle-east-and-yields-how-the-wealth-management-industry-navigates-t_img_image00228629_0e16db25ca7f.jpg)
 
@@ -48,7 +48,7 @@ Typically, asset managers create a range of mutual funds, build research and man
 
 For the past few years, after the 2009 crisis and the imposition of the MiFID II standards, expense ratios for actively managed equity funds have gone from 1% to 0.65%, and for bond funds from 0.65% to nearly 0.4%. Even index funds are now squeezed, charging a quarter of what they did in 2007. Fund managers are reportedly quitting, where the industry is shifting from one trend to another to find some profitability.
 
-Let’s not mince words. ETFs have commoditised the asset management industry, and clients are acknowledging that. A PwC[report](https://www.ft.com/content/24ca8149-816e-4263-816b-30be7ea52c0c)in July suggested that one in six asset managers will disappear by 2027.
+Let’s not mince words. ETFs have commoditised the asset management industry, and clients are acknowledging that. A PwC [report](https://www.ft.com/content/24ca8149-816e-4263-816b-30be7ea52c0c) in July suggested that one in six asset managers will disappear by 2027.
 
 However, not all is lost. Asset Managers provide the building blocks of portfolios. And despite the attrition, there are good long-term managers out there. In fact, it is probably because of the attrition that it will become easier to spot those who provide the more stable Alpha (returns above the benchmark, and cheap ETFs).
 

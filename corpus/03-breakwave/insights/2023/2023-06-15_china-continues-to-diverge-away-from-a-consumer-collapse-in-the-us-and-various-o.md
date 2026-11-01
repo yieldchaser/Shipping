@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/6/15/china-continues-to-diverge-away-from-a-consumer-collapse-in-the-us-and-various-other-nations-1"
 images_count: 1
-word_count: 394
+word_count: 395
 source_file: "corpus/03-breakwave/insights/2023/2023-06-15_china-continues-to-diverge-away-from-a-consumer-collapse-in-the-us-and-various-o.html"
 ---
 

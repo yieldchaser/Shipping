@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/19/is-the-dry-bulk-winter-rally-over"
 tags: ["Shipping", "Dry Bulk", "Capesize"]
 images_count: 4
-word_count: 971
+word_count: 975
 source_file: "corpus/03-breakwave/insights/2020/2020-10-19_is-the-dry-bulk-winter-rally-over.html"
 ---
 

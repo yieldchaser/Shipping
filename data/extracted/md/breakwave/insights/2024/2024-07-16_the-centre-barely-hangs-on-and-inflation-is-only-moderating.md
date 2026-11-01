@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/16/the-centre-barely-hangs-on-and-inflation-is-only-moderating"
 tags: ["Markets", "Economy", "Macro"]
 images_count: 3
-word_count: 1443
+word_count: 1446
 source_file: "corpus/03-breakwave/insights/2024/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating.html"
 ---
 

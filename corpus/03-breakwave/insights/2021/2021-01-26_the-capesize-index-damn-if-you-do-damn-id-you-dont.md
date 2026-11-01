@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/25/the-capesize-index-damn-if-you-do-damn-id-you-dont"
 images_count: 2
-word_count: 1592
+word_count: 1594
 source_file: "corpus/03-breakwave/insights/2021/2021-01-26_the-capesize-index-damn-if-you-do-damn-id-you-dont.html"
 ---
 

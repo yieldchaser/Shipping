@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/24/china-very-uniquely-positioned"
 tags: ["China", "Markets", "Economy"]
 images_count: 1
-word_count: 269
+word_count: 270
 source_file: "corpus/03-breakwave/insights/2025/2025-04-24_china-very-uniquely-positioned.html"
 ---
 

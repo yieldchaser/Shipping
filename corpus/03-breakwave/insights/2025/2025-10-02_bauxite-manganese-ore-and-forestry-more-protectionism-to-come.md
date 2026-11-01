@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/2/bauxite-manganese-ore-and-forestry-more-protectionism-to-come"
 tags: ["Commodities", "Drybulk", "Shipping"]
 images_count: 14
-word_count: 1936
+word_count: 1950
 source_file: "corpus/03-breakwave/insights/2025/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come.html"
 ---
 

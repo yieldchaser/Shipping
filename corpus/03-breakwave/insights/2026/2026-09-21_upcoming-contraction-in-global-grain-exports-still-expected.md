@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/21/upcoming-contraction-in-global-grain-exports-still-expected"
 tags: ["Drybulk", "Commodities", "Markets"]
 images_count: 1
-word_count: 307
+word_count: 308
 source_file: "corpus/03-breakwave/insights/2026/2026-09-21_upcoming-contraction-in-global-grain-exports-still-expected.html"
 ---
 

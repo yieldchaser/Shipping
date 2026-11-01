@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/622026wetreportkjujune2kjm"
 images_count: 3
-word_count: 555
+word_count: 558
 source_file: "corpus/03-breakwave/insights/2026/2026-06-02_622026wetreportkjujune2kjm.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/6/the-geopolitical-turbulence-seen-so-far-in-2025-benefits-vlccs-most"
 tags: ["Crude", "Markets", "Shipping"]
 images_count: 4
-word_count: 1321
+word_count: 1325
 source_file: "corpus/03-breakwave/insights/2025/2025-03-06_the-geopolitical-turbulence-seen-so-far-in-2025-benefits-vlccs-most.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/10/china-is-maintaining-its-gdp-growth-target-for-2025"
 tags: ["China", "Shipping", "Ironore"]
 images_count: 2
-word_count: 890
+word_count: 892
 source_file: "corpus/03-breakwave/insights/2025/2025-03-10_china-is-maintaining-its-gdp-growth-target-for-2025.html"
 ---
 

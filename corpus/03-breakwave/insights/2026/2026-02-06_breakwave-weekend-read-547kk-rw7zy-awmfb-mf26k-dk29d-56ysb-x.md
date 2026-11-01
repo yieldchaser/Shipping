@@ -106,7 +106,7 @@ Braemar Research
 
 ## Dry Bulk Markets Stay Firm Ahead of Lunar New Year Pressure Points
 
-While the**WAUS–China**trade remains the largest by volume, the Africa–North China Capesize route has seen a larger increase in tonne-mile demand over the last year than the Brazil–China route.
+While the **WAUS–China** trade remains the largest by volume, the Africa–North China Capesize route has seen a larger increase in tonne-mile demand over the last year than the Brazil–China route.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2026/2/5/dry-bulk-markets-stay-firm-ahead-of-lunar-new-year-pressure-points)
 

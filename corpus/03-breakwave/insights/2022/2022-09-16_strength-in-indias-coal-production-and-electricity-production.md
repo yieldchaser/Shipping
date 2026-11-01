@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/9/16/strength-in-indias-coal-production-and-electricity-production"
 images_count: 3
-word_count: 423
+word_count: 426
 source_file: "corpus/03-breakwave/insights/2022/2022-09-16_strength-in-indias-coal-production-and-electricity-production.html"
 ---
 

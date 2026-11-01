@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/8/the-big-picture-us-election-tariffs-to-the-fore"
 tags: ["Drybulk", "Markets", "Commodities"]
 images_count: 3
-word_count: 925
+word_count: 928
 source_file: "corpus/03-breakwave/insights/2024/2024-11-08_the-big-picture-us-election-tariffs-to-the-fore.html"
 ---
 
@@ -28,7 +28,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-11-08_the-big-picture-us-el
 
 ### Us Tariffs: The Example of 2018
 
-The first round of import tariffs (25% on steel and 10% on aluminium) in March 2018, eventually ruled illegal by the World Trade Organisation (WTO) in 2022, had a profound effect on**US steel imports, which dropped from 35.3m tonnes in 2017 to 20.1m tonnes by 2020**(see chart below).
+The first round of import tariffs (25% on steel and 10% on aluminium) in March 2018, eventually ruled illegal by the World Trade Organisation (WTO) in 2022, had a profound effect on **US steel imports, which dropped from 35.3m tonnes in 2017 to 20.1m tonnes by 2020**(see chart below).
 
 ![As Indicated in Our360 Degreesof 29 October](assets/2024-11-08_the-big-picture-us-election-tariffs-to-the-fore_img_image0_705d163f817c.png)
 
@@ -36,15 +36,15 @@ The first round of import tariffs (25% on steel and 10% on aluminium) in March 2
 > *As indicated in our360 Degreesof 29 October, moves towardssteel trade protectionism are certainly not limited to the US and China, with the EU and others considering steps against a range of exporters.*  
 > [Local Asset](assets/2024-11-08_the-big-picture-us-election-tariffs-to-the-fore_img_image0_705d163f817c.png)
 
-Although Section 232 tariffs (on grounds of national security) were mostly retained by the Biden administration, US steel imports are**now running at an annual rate of around 27.5m tonnes**(with Canada’s share at 6-7m tonnes).
+Although Section 232 tariffs (on grounds of national security) were mostly retained by the Biden administration, US steel imports are **now running at an annual rate of around 27.5m tonnes**(with Canada’s share at 6-7m tonnes).
 
-**US steel imports from China**slipped from 1.1m tonnes in 2017 to 545,000 tonnes by 2020 (and annualising to 0.7m tonnes this year—2.5% of US imports).
+**US steel imports from China** slipped from 1.1m tonnes in 2017 to 545,000 tonnes by 2020 (and annualising to 0.7m tonnes this year—2.5% of US imports).
 
-Accompanying falls into the US between 2017 and 2020 were seen from Japan (-1.0m tonnes to 0.7m tonnes), South Korea (-1.6m tonnes to 1.8m tonnes) and Turkey (-1.5m tonnes to 0.5m tonnes), while steel imports from Vietnam slumped -0.7m tonnes from 2018 to just 0.3m tonnes by 2020. The**largest rebound has been from Vietnam**, now running at an annual rate of 1.3m tonnes.
+Accompanying falls into the US between 2017 and 2020 were seen from Japan (-1.0m tonnes to 0.7m tonnes), South Korea (-1.6m tonnes to 1.8m tonnes) and Turkey (-1.5m tonnes to 0.5m tonnes), while steel imports from Vietnam slumped -0.7m tonnes from 2018 to just 0.3m tonnes by 2020. The **largest rebound has been from Vietnam**, now running at an annual rate of 1.3m tonnes.
 
-Unusually,**Australia was exempted**from US tariffs on steel in 2018. Imports from Australia were marginally higher in 2020 than in 2017 (albeit at a relatively small 285,000 tonnes).
+Unusually,**Australia was exempted** from US tariffs on steel in 2018. Imports from Australia were marginally higher in 2020 than in 2017 (albeit at a relatively small 285,000 tonnes).
 
-As outlined in the second chart below, it can be argued that a greater impact on dry bulk imports came from**retaliatory measures from China**, in particular, its. China’s soybean imports not only retreated in 2018, but buyers showed a clear preference for beans from Brazil. This was not solely the consequence of US trade protectionism, however, as it coincided with bird flu outbreaks in China.
+As outlined in the second chart below, it can be argued that a greater impact on dry bulk imports came from **retaliatory measures from China**, in particular, its. China’s soybean imports not only retreated in 2018, but buyers showed a clear preference for beans from Brazil. This was not solely the consequence of US trade protectionism, however, as it coincided with bird flu outbreaks in China.
 
 ![20% Tariff on Imported Us Soybeans](assets/2024-11-08_the-big-picture-us-election-tariffs-to-the-fore_img_image1_9f903f46a363.png)
 
@@ -53,7 +53,7 @@ As outlined in the second chart below, it can be argued that a greater impact on
 
 ### Us Soybean Exports: October Peak
 
-**October has been the peak month for US soybean exports**in each of the previous four years. With East Asia the dominant destination, it has represented a strong month for Panamax grain loading from the US Gulf and West Coast. Vessel tracking data from AXS showed a 4.6m tonne monthly gain in October for Panamax (70-99.9k dwt) US grain shipments to 7.1m tonnes, the strongest month since 2022.
+**October has been the peak month for US soybean exports** in each of the previous four years. With East Asia the dominant destination, it has represented a strong month for Panamax grain loading from the US Gulf and West Coast. Vessel tracking data from AXS showed a 4.6m tonne monthly gain in October for Panamax (70-99.9k dwt) US grain shipments to 7.1m tonnes, the strongest month since 2022.
 
 For comparison, US grain shipments on geared bulkers saw only a slight monthly gain. On this trade, geared bulkers serve a range of destinations in the Americas, North Africa and East Asia.
 
@@ -68,9 +68,9 @@ With a nod towards the US presidential election, US-based consultants AgResource
 
 The IGC also forecast a 4m tonne gain in US soybean exports in 2024/25 (Oct-Sep). Even if achieved, this would fall short of both 2021/22 and 2022/23.
 
-**Brazil’s soybean availability**next year will receive a boost from a record production, according to the IGC and other forecasters.
+**Brazil’s soybean availability** next year will receive a boost from a record production, according to the IGC and other forecasters.
 
-Soyabeans were the focus of China’s retaliatory tariffs in 2018, but since then the country has**raised imports of corn and wheat**substantially. That said, shipments of US corn and wheat to China have been reducing in volume through the course of the year, judging by shipment and official trade data.
+Soyabeans were the focus of China’s retaliatory tariffs in 2018, but since then the country has **raised imports of corn and wheat** substantially. That said, shipments of US corn and wheat to China have been reducing in volume through the course of the year, judging by shipment and official trade data.
 
 ---
 

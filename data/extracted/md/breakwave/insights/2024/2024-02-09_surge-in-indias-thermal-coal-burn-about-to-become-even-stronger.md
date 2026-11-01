@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/9/surge-in-indias-thermal-coal-burn-about-to-become-even-stronger"
 tags: ["India", "Coal", "Drybulk"]
 images_count: 3
-word_count: 509
+word_count: 512
 source_file: "corpus/03-breakwave/insights/2024/2024-02-09_surge-in-indias-thermal-coal-burn-about-to-become-even-stronger.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/5/tightness-in-panamax-not-capesize-atlantic-basin-chinese-coal-and-brazilian-iron-ore-prospects-remain-encouraging"
 tags: ["Panamax", "Coal"]
 images_count: 1
-word_count: 547
+word_count: 548
 source_file: "corpus/03-breakwave/insights/2021/2021-07-05_tightness-in-panamax-not-capesize-atlantic-basin-chinese-coal-and-brazilian-iron.html"
 ---
 
@@ -26,7 +26,7 @@ Dry bulk freight rates were mixed last week, with capesize rates declining while
 
 Of note is that Brazil’s iron ore exports have continued to enjoy significant strength. As we discussed in this week's Weekly Dry Bulk Report, exports have now increased on a year-on-year basis for eight consecutive months which marks a feat never before seen in the last ten years. Brazil’s iron ore exports totaled 33.7 million tons last month. This is up month-on-month by 7 million tons (26%) and up year-on-year by 3.7 million tons (12%). All signs going forward are that the year-on-year strength and normal seasonality will continue. If exports do maintain their current strength and normal seasonality, then sporadic periods of significant tightening in the capesize Atlantic basin remain likely to occur at various times this year.
 
-![Comm 7.5](assets/2021-07-05_tightness-in-panamax-not-capesize-atlantic-basin-chinese-coal-and-brazilian-iron_img_comm75_e560b6318d49.jpg)
+![Comm 7.5](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-05_tightness-in-panamax-not-capesize-atlantic-basin-chinese-coal-and-brazilian-iron_img_comm75_e560b6318d49.jpg)
 
 > **Figure 1: Comm 7.5**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-05_tightness-in-panamax-not-capesize-atlantic-basin-chinese-coal-and-brazilian-iron_img_comm75_e560b6318d49.jpg)

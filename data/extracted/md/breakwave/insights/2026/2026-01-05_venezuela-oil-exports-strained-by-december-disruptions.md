@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/5/venezuela-oil-exports-strained-by-december-disruptions"
 tags: ["Oil", "Markets", "Tankers"]
 images_count: 1
-word_count: 721
+word_count: 722
 source_file: "corpus/03-breakwave/insights/2026/2026-01-05_venezuela-oil-exports-strained-by-december-disruptions.html"
 ---
 

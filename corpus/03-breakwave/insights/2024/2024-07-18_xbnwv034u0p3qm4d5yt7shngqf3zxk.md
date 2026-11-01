@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/18/xbnwv034u0p3qm4d5yt7shngqf3zxk"
 tags: ["Drybulk", "Shipping", "Capesize"]
 images_count: 5
-word_count: 1344
+word_count: 1349
 source_file: "corpus/03-breakwave/insights/2024/2024-07-18_xbnwv034u0p3qm4d5yt7shngqf3zxk.html"
 ---
 
@@ -21,10 +21,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-07-18_xbnwv034u0p3qm4d5yt7s
 ---
 
 **Dry Weekly Market Monitor - Week 29.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 July 18, 2024
 
-This week's chart illustrates the increase in the monthly volume of Ukrainian grain shipments during the first half of this year (left chart), following Russia's withdrawal from the[Black Sea Grain Initiative](https://go.signalocean.com/e/983831/ack-sea-grain-deal-2023-06-16-/2qd9tx/424453770/h/SxogwAUFzPHOSlglpbTUxe5tUH4pv7EsojFAS0t1yFw)in the summer of 2023. Despite the heightened security risks and logistical challenges, Ukraine has managed to significantly boost its grain exports through alternative routes and increased efficiency.
+This week's chart illustrates the increase in the monthly volume of Ukrainian grain shipments during the first half of this year (left chart), following Russia's withdrawal from the [Black Sea Grain Initiative](https://go.signalocean.com/e/983831/ack-sea-grain-deal-2023-06-16-/2qd9tx/424453770/h/SxogwAUFzPHOSlglpbTUxe5tUH4pv7EsojFAS0t1yFw) in the summer of 2023. Despite the heightened security risks and logistical challenges, Ukraine has managed to significantly boost its grain exports through alternative routes and increased efficiency.
 
 The data reveal that Spain and China have become the top destinations for Ukrainian grain, each accounting for 20% of the total exports, followed by Egypt with a 10% share (right chart). This diversification of export destinations highlights Ukraine's efforts to maintain its agricultural trade flows amidst geopolitical disruptions.
 
@@ -39,7 +39,7 @@ The third week of July concluded with a notable decline in the Capesize Brazil t
 
 In the grain segment, recent data illustrates a robust uptrend in the monthly volume of Ukrainian grain shipments during the first half of this year, surpassing figures from the same period last year. This growth trend presents promising trading opportunities, particularly benefiting the Handysize vessel size segment.
 
-In the[iron ore market,](https://go.signalocean.com/e/983831/st-estimates-in-second-quarter/2qd9v1/424453770/h/SxogwAUFzPHOSlglpbTUxe5tUH4pv7EsojFAS0t1yFw)Vale SA’s iron ore production in the second quarter was stronger than expected, driven by robust output at its biggest mine in the north of Brazil. The world’s second-biggest iron ore supplier said the quarter’s performance reinforces its confidence in achieving the upper end of its 2024 production guidance for the steelmaking ingredient.
+In the [iron ore market,](https://go.signalocean.com/e/983831/st-estimates-in-second-quarter/2qd9v1/424453770/h/SxogwAUFzPHOSlglpbTUxe5tUH4pv7EsojFAS0t1yFw)Vale SA’s iron ore production in the second quarter was stronger than expected, driven by robust output at its biggest mine in the north of Brazil. The world’s second-biggest iron ore supplier said the quarter’s performance reinforces its confidence in achieving the upper end of its 2024 production guidance for the steelmaking ingredient.
 
 ![Στιγμιότυπο Οθόνης 2024 07 18 135604](assets/2024-07-18_xbnwv034u0p3qm4d5yt7shngqf3zxk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d191274e38bb.png)
 
@@ -48,10 +48,10 @@ In the[iron ore market,](https://go.signalocean.com/e/983831/st-estimates-in-sec
 
 In the third week of July, the dry bulk freight market witnessed a decline in rates for the Cape Brazil to North China routes. In contrast, the Panamax Continental Far East rates showed a stronger performance. Meanwhile, the smaller vessel size segments maintained resistance, suggesting a stable or stronger outlook.
 
-- **Capesize**vessel freight rates for shipments from Brazil to North China have dipped below $26 per ton, though they still reflect a 34% increase compared to the same week last year.
-- **Panamax**vessel freight rates from the Continent to the Far East held levels around $40 per ton, 25% higher than those recorded a year ago.
-- **Supramax**vessel freight rates on the Indo-ECI route held steady around $10 per ton, reflecting similar sentiment to the previous week. These rates remain 35% higher compared to the same period last year.
-- **Handysize**freight rates for the NOPAC Far East route have remained consistent over the past nine weeks, holding steady at approximately $36 per ton. This marks a notable 36% increase compared to rates observed one year ago.
+- **Capesize** vessel freight rates for shipments from Brazil to North China have dipped below $26 per ton, though they still reflect a 34% increase compared to the same week last year.
+- **Panamax** vessel freight rates from the Continent to the Far East held levels around $40 per ton, 25% higher than those recorded a year ago.
+- **Supramax** vessel freight rates on the Indo-ECI route held steady around $10 per ton, reflecting similar sentiment to the previous week. These rates remain 35% higher compared to the same period last year.
+- **Handysize** freight rates for the NOPAC Far East route have remained consistent over the past nine weeks, holding steady at approximately $36 per ton. This marks a notable 36% increase compared to rates observed one year ago.
 
 ![Στιγμιότυπο Οθόνης 2024 07 18 135617](assets/2024-07-18_xbnwv034u0p3qm4d5yt7shngqf3zxk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f3b9e1ae8fa0.png)
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/6/grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-demand"
 tags: ["Shipping", "Rates"]
 images_count: 3
-word_count: 1126
+word_count: 1129
 source_file: "corpus/03-breakwave/insights/2021/2021-08-06_grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-demand.html"
 ---
 
@@ -26,7 +26,7 @@ The last fifteen months have been rather eventful for the grains and oilseeds ma
 
 ### Soybeans – Us Cent per Bushel
 
-![A3](assets/2021-08-06_grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-demand_img_a3_87b859aa954f.jpg)
+![A3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-06_grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-demand_img_a3_87b859aa954f.jpg)
 
 > **Figure 1: A3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-06_grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-demand_img_a3_87b859aa954f.jpg)
@@ -37,7 +37,7 @@ The global production of soybeans in the 2021/22 marketing year is predicted by 
 
 So far this year, 41 million tonnes of Brazilian grains and oilseeds have been discharged in Chinese ports. This has allowed Brazil to reclaim its traditional top spot among the exporters of agricultural commodities to China, at least temporarily. At the same time, US exports to China have dwindled during recent months, as inventories have been exhausted and the next harvest is still some weeks into the future. A considerable pick up in US grain shipments can be expected once the harvest gets underway, as Chinese purchases are still falling short of the levels implied by the Phase One trade deal. The Biden administration has also adopted, perhaps surprisingly, a hawkish stance on the trade with China and has publicly stated that it expects China to honour its commitments under the agreement. Hence, increasing Chinese imports of US grains can be expected during the latter part of the fourth quarter, as this will take into account the long voyage from US ports to China following the new harvest. The elevated import levels of US agricultural commodities can then be expected to carry on into the first quarter of next year.
 
-![A4](assets/2021-08-06_grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-demand_img_a4_313a693d09b5.png)
+![A4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-06_grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-demand_img_a4_313a693d09b5.png)
 
 > **Figure 2: A4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-06_grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-demand_img_a4_313a693d09b5.png)
@@ -46,7 +46,7 @@ Beyond the giants of the grains trade, Argentina is stating that the country is 
 
 The Black Sea region is also expected to see increasing export shipments of agricultural commodities, which is primarily driven by the rising output in Russia. The authorities in the Krasnodar region in Southern Russia, which is one of the country's largest wheat producers and exporters, said recently that the territory had harvested a record grain crop of 12.4 million tonnes. Traditionally, the portion of the harvests in the Black Sea that went on exports headed for shores in the vicinity, such as Egypt and Spain. The North African nation has been the largest market for the region, accounting for fifteen per cent of export volumes since 2015. However, China’s extensive appetite for agricultural commodities as it rebuilt its hog herd saw it clinching the top spot last year, with eighteen per cent of the export market. So far this year, China has retained the top spot ahead of Egypt. However, a limited resurgence of the African swine flu and the high feed costs eating into the profits of the Chinese pork industry has reduced the demand for feedstock, which could affect future shipments from the Black Sea region to China. The increasing volumes shipped to more distant shores also saw the Panamax segment gaining market share in the grains trade out of the Black Sea, increasing to 38 per cent last year from just below 30 per cent previously.
 
-![A5](assets/2021-08-06_grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-demand_img_a5_fb8ec0d5ae79.png)
+![A5](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-06_grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-demand_img_a5_fb8ec0d5ae79.png)
 
 > **Figure 3: A5**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-06_grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-demand_img_a5_fb8ec0d5ae79.png)

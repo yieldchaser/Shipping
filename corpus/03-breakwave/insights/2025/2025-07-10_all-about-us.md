@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/10/all-about-us"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 2
-word_count: 1543
+word_count: 1545
 source_file: "corpus/03-breakwave/insights/2025/2025-07-10_all-about-us.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/7/cancellation-of-chinas-steel-export-tax-rebates-revisited"
 tags: ["China", "Steel", "Shipping"]
 images_count: 2
-word_count: 693
+word_count: 695
 source_file: "corpus/03-breakwave/insights/2021/2021-08-07_cancellation-of-chinas-steel-export-tax-rebates-revisited.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-08-07_cancellation-of-china
 
 Back in our May 3rd Weekly Dry Bulk Report, we discussed how rebates being cancelled on the value-added tax on exports on over 100 Chinese steel products was likely to cause exports to come under some pressure but was unlikely to lead to a devastating change in volume. At the time, some analysts had concerns that Chinese steel exports could start contracting on a year-on-year basis -- but as we stressed in that report and in subsequent reports, our view was that Chinese steel exports were extremely unlikely to contract as global steel demand has been set to stay strong. Later in our June 14th Weekly China Report, we examined the latest export volume at the time and discussed how exports totaled 5.3 million tons in May which marked a month-on-month decline of 2.7 million tons (-34%) but was up year-on-year by 900,000 tons (20%). In our July 19th Weekly China Report, we then examined how exports rose to 6.5 million tons in June, which marked a month-on-month increase of 1.2 million tons (23%) and a year-on-year increase of 2.8 million tons (76%).
 
-![A1](assets/2021-08-07_cancellation-of-chinas-steel-export-tax-rebates-revisited_img_a1_854d4f636065.jpg)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-07_cancellation-of-chinas-steel-export-tax-rebates-revisited_img_a1_854d4f636065.jpg)
 
 > **Figure 1: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-07_cancellation-of-chinas-steel-export-tax-rebates-revisited_img_a1_854d4f636065.jpg)
@@ -35,7 +35,7 @@ As we also discussed most recently in our August 2nd Weekly Dry Bulk Report, we 
 
 The most recently released production data has shown that global crude steel production outside of China totaled a very robust 74 million tons in June (data is still pending for July). 74 million tons is just below the all-time high of 75.2 million tons produced in March. It is also just 900,000 tons (-1%) less than was produced in May and 17.3 million tons (31%) more than was reported last year for June 2020's production. Overall, the ongoing strength in steel production (and iron ore consumption) globally remains yet another positive issue in the dry bulk market. We continue to expect that global steel production outside of China will stay strong, and that China will continue to export a significant amount of steel abroad. If China's steel exports do manage to start coming under drastic pressure, however, then more steel would simply be likely to be produced outside of China.
 
-![A2](assets/2021-08-07_cancellation-of-chinas-steel-export-tax-rebates-revisited_img_a2_fca00614719d.jpg)
+![A2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-07_cancellation-of-chinas-steel-export-tax-rebates-revisited_img_a2_fca00614719d.jpg)
 
 > **Figure 2: A2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-07_cancellation-of-chinas-steel-export-tax-rebates-revisited_img_a2_fca00614719d.jpg)

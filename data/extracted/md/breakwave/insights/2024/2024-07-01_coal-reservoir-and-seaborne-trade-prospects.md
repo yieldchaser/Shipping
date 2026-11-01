@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/1/coal-reservoir-and-seaborne-trade-prospects"
 tags: ["Economy", "Drybulk", "Coal"]
 images_count: 6
-word_count: 1541
+word_count: 1547
 source_file: "corpus/03-breakwave/insights/2024/2024-07-01_coal-reservoir-and-seaborne-trade-prospects.html"
 ---
 

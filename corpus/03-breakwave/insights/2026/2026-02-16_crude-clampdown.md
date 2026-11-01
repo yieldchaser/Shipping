@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/16/crude-clampdown"
 tags: ["Crude", "Markets", "Shipping"]
 images_count: 2
-word_count: 801
+word_count: 803
 source_file: "corpus/03-breakwave/insights/2026/2026-02-16_crude-clampdown.html"
 ---
 

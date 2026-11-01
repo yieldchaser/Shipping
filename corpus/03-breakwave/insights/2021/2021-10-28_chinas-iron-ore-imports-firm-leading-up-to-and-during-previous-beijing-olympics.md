@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/27/chinas-iron-ore-imports-firm-leading-up-to-and-during-previous-beijing-olympics"
 tags: ["Economy", "China", "Iron Ore"]
 images_count: 2
-word_count: 613
+word_count: 615
 source_file: "corpus/03-breakwave/insights/2021/2021-10-28_chinas-iron-ore-imports-firm-leading-up-to-and-during-previous-beijing-olympics.html"
 ---
 

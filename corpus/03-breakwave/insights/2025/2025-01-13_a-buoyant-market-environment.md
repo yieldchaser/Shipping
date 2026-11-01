@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/13/a-buoyant-market-environment"
 tags: ["Economy", "Drybulk", "Shipping"]
 images_count: 1
-word_count: 934
+word_count: 935
 source_file: "corpus/03-breakwave/insights/2025/2025-01-13_a-buoyant-market-environment.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/12/22/dry-weekly-market-monitor"
 tags: ["Shipping", "Dry Bulk", "Capesize", "Panamax"]
 images_count: 4
-word_count: 889
+word_count: 893
 source_file: "corpus/03-breakwave/insights/2021/2021-12-22_dry-weekly-market-monitor.html"
 ---
 
@@ -30,7 +30,7 @@ In another positive sign for growth in the Chinese economy, the People’s Bank 
 
 ‘The Big Picture’ - Capesize and Panamax Bulkers and Smaller Ship Sizes
 
-![Ch1](assets/2021-12-22_dry-weekly-market-monitor_img_ch1_0692ffa70397.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-22_dry-weekly-market-monitor_img_ch1_0692ffa70397.png)
 
 > **Figure 1: Ch1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-22_dry-weekly-market-monitor_img_ch1_0692ffa70397.png)
@@ -43,7 +43,7 @@ In the handysize segment, NOPAC to FE rates hold the upward trend of previous we
 
 Supply Trend Lines for Key Load Areas
 
-![Ch2](assets/2021-12-22_dry-weekly-market-monitor_img_ch2_de187638418a.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-22_dry-weekly-market-monitor_img_ch2_de187638418a.png)
 
 > **Figure 2: Ch2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-22_dry-weekly-market-monitor_img_ch2_de187638418a.png)
@@ -60,7 +60,7 @@ It is very interesting to see that although the number of ships sailing in balla
 
 Evolution of Demand -% Growth
 
-![Ch3](assets/2021-12-22_dry-weekly-market-monitor_img_ch3_59441311fddb.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-22_dry-weekly-market-monitor_img_ch3_59441311fddb.png)
 
 > **Figure 3: Ch3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-22_dry-weekly-market-monitor_img_ch3_59441311fddb.png)
@@ -73,7 +73,7 @@ In the Capesize segment, the momentum has now started to decrease with challenge
 
 Dry bulk ships congested around Chinese ports
 
-![Ch4](assets/2021-12-22_dry-weekly-market-monitor_img_ch4_b51bfe5ab752.png)
+![Ch4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-22_dry-weekly-market-monitor_img_ch4_b51bfe5ab752.png)
 
 > **Figure 4: Ch4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-22_dry-weekly-market-monitor_img_ch4_b51bfe5ab752.png)

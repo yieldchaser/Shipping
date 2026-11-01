@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/10/chinese-macroeconomic-trends-and-their-impact-on-the-dry-bulk-freight-market"
 tags: ["China", "Economy", "Shipping", "Dry Bulk"]
 images_count: 1
-word_count: 1738
+word_count: 1739
 source_file: "corpus/03-breakwave/insights/2021/2021-10-10_chinese-macroeconomic-trends-and-their-impact-on-the-dry-bulk-freight-market.html"
 ---
 
@@ -50,7 +50,7 @@ The energy-driven decline in steel output and China’s changing economy hint th
 
 Indeed, Chinese iron ore imports have remained elevated as supply recovers. China’s ore imports in September are estimated at 111 million tonnes, up 14% m/m. Overall, the supply side of the alloy appears recovered compared to earlier in the year, when we saw weather disruptions in top exporter Australia and coronavirus outbreaks in number two shipper Brazil. Iron ore exports of the Brazilian giant Vale are accelerating pace during the last quarter of the year, expected to positively affect tonne-mile demand for the larger asset class of Capesizes, being the vehicles that primarily transport the commodity.
 
-![Chinese Authorities Are Intensively Trying to Meet Their Annual](assets/2021-10-10_chinese-macroeconomic-trends-and-their-impact-on-the-dry-bulk-freight-market_img_ch1_76c6fefc01b6.png)
+![Chinese Authorities Are Intensively Trying to Meet Their Annual](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-10_chinese-macroeconomic-trends-and-their-impact-on-the-dry-bulk-freight-market_img_ch1_76c6fefc01b6.png)
 
 > **Figure 1: Chinese Authorities Are Intensively Trying to Meet Their Annual**  
 > *The Chinese authorities are intensively trying to meet their annual carbon reduction targets and are also trying to limit pollution levels ahead of the Winter Olympics which will take place in February next year.*  

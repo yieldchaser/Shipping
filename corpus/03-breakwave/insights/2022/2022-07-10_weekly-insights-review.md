@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/10/weekly-insights-review"
 images_count: 7
-word_count: 854
+word_count: 861
 source_file: "corpus/03-breakwave/insights/2022/2022-07-10_weekly-insights-review.html"
 ---
 
@@ -76,7 +76,7 @@ A stronger USD also weighed on investor sentiment.
 ## Commodity Markets Rebounded
 
 Commodity markets rebounded as the focus returned to tightness in physical markets
-[Read More](https://www.breakwaveadvisors.com/insights/2022/7/8/metals-rebound-as-china-plans-further-stimulus-measures)
+ [Read More](https://www.breakwaveadvisors.com/insights/2022/7/8/metals-rebound-as-china-plans-further-stimulus-measures)
 
 ![Unsplash Image P Qvsf7yodw](assets/2022-07-10_weekly-insights-review_img_unsplash-image-p-qvsf7yodw_571ac05a8d82.jpg)
 

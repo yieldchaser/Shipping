@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/1/global-economy-the-momentum-keeps-building-but-the-focus-is-shifting"
 tags: ["Global Economy"]
 images_count: 2
-word_count: 867
+word_count: 869
 source_file: "corpus/03-breakwave/insights/2021/2021-06-01_global-economy-the-momentum-keeps-building-but-the-focus-is-shifting.html"
 ---
 

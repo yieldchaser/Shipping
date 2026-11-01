@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/9/11/from-stagflation-to-goldilocks-portfolio-managers-start-thinking-small"
 images_count: 2
-word_count: 1219
+word_count: 1221
 source_file: "corpus/03-breakwave/insights/2023/2023-09-11_from-stagflation-to-goldilocks-portfolio-managers-start-thinking-small.html"
 ---
 

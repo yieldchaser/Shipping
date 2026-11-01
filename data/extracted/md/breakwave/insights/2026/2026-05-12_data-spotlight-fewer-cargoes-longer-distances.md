@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/12/data-spotlight-fewer-cargoes-longer-distances"
 tags: ["Tankers", "Geopolitics", "VLCC"]
 images_count: 2
-word_count: 442
+word_count: 444
 source_file: "corpus/03-breakwave/insights/2026/2026-05-12_data-spotlight-fewer-cargoes-longer-distances.html"
 ---
 

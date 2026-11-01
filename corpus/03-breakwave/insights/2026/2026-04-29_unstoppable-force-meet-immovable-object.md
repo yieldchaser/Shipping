@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/4/29/unstoppable-force-meet-immovable-object"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 3
-word_count: 1270
+word_count: 1273
 source_file: "corpus/03-breakwave/insights/2026/2026-04-29_unstoppable-force-meet-immovable-object.html"
 ---
 

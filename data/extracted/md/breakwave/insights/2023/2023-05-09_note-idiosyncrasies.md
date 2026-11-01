@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/5/9/note-idiosyncrasies"
 images_count: 4
-word_count: 1045
+word_count: 1049
 source_file: "corpus/03-breakwave/insights/2023/2023-05-09_note-idiosyncrasies.html"
 ---
 

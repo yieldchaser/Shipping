@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/1/3/overall-consumption-in-china-remains-strong-but-furniture-sales-continue-to-contract"
 images_count: 2
-word_count: 369
+word_count: 371
 source_file: "corpus/03-breakwave/insights/2024/2024-01-03_overall-consumption-in-china-remains-strong-but-furniture-sales-continue-to-cont.html"
 ---
 

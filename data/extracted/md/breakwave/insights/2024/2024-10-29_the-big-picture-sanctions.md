@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/29/the-big-picture-sanctions"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 1
-word_count: 947
+word_count: 948
 source_file: "corpus/03-breakwave/insights/2024/2024-10-29_the-big-picture-sanctions.html"
 ---
 

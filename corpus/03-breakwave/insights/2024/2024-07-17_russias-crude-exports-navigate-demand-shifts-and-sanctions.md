@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/17/russias-crude-exports-navigate-demand-shifts-and-sanctions"
 images_count: 2
-word_count: 803
+word_count: 805
 source_file: "corpus/03-breakwave/insights/2024/2024-07-17_russias-crude-exports-navigate-demand-shifts-and-sanctions.html"
 ---
 

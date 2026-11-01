@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/2/3/chinas-coal-imports-from-russia-jumped-by-19-last-year"
 images_count: 3
-word_count: 337
+word_count: 340
 source_file: "corpus/03-breakwave/insights/2023/2023-02-03_chinas-coal-imports-from-russia-jumped-by-19-last-year.html"
 ---
 

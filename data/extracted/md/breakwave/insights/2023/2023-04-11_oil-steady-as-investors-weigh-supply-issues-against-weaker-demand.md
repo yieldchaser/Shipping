@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/4/11/oil-steady-as-investors-weigh-supply-issues-against-weaker-demand"
 images_count: 1
-word_count: 581
+word_count: 582
 source_file: "corpus/03-breakwave/insights/2023/2023-04-11_oil-steady-as-investors-weigh-supply-issues-against-weaker-demand.html"
 ---
 

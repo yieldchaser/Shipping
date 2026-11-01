@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/1/24/aluminium-rallies-as-russian-sanctions-loom"
 images_count: 1
-word_count: 537
+word_count: 538
 source_file: "corpus/03-breakwave/insights/2024/2024-01-24_aluminium-rallies-as-russian-sanctions-loom.html"
 ---
 
@@ -30,7 +30,7 @@ Supply side issues were back in focus amid a dearth of economic data. Geopolitic
 
 **Aluminium** led the base metals sector higher as supply side issues came back into focus. The lightweight metal rallied after reports that the European Union is considering sanctions on Russian supply ahead of the second anniversary of the invasion of Ukraine. Metal from Russia has escaped broad sanctions until December, when the UK block citizens from trading physical metal from the country. While the LME received a licence to continue trading, the risks of being left holding unwanted Russia metal remains high. The latest move raises this risk further. The rest of the complex was dragged along by the move, with recent closures of copper, nickel and zinc operations also providing some support.
 
-**Iron ore**futures rallied as the spectre of stronger demand after the Lunar New Year holiday boosted sentiment. Chinese Premier Li Qiang called for more rigours and effective measures to stabilise the slumping stock market. The market took this as a sign that new measures to support the economy may be forthcoming. This may be offset by rising supply, with exports from Australia and Brazil showing signs of recovery in recent weeks.
+**Iron ore** futures rallied as the spectre of stronger demand after the Lunar New Year holiday boosted sentiment. Chinese Premier Li Qiang called for more rigours and effective measures to stabilise the slumping stock market. The market took this as a sign that new measures to support the economy may be forthcoming. This may be offset by rising supply, with exports from Australia and Brazil showing signs of recovery in recent weeks.
 
 **Gold** edged higher as traders waited for key economic data that may provide a guide to the outlook for interest rates. US GDP, jobless claims and durable goods data may help provide some clarity around the timing and pace of future rate cuts.
 

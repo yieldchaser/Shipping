@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/10/mazars-how-to-invest-in-an-unbalanced-world"
 images_count: 4
-word_count: 1244
+word_count: 1248
 source_file: "corpus/03-breakwave/insights/2022/2022-10-10_mazars-how-to-invest-in-an-unbalanced-world.html"
 ---
 
@@ -50,10 +50,10 @@ And round it goes. Every decision, whichever way, causes further instability. La
 
 Through the noise and the constant surprise, which now happen on a weekly basis, we can see the shifting background.
 
-- The**United States**, the global economic and financial leader, pursuing more nationalistic policies after a decade of retreating from its role as the ‘global police force’. As a result, global autocracy has been on the rise. America’s decision to weaponize the Dollar and the financial system against Russia is causing further instability amongst its allies.
-- **China**attempting to prevent businesses from taking hold of its larger economic agenda and, at the same time, retreating from its own role as the ‘global manufacturer’. As a result, global supply chains remain unbalanced and inflation persists.
-- **European**growth suffering from a monetary union that has been left politically and regulatorily unfinished.
-- And in the very background of it all, the reverberations from the 2008**Global Financial Crisis**are still with us. They are causing consumers to be conservative and at the same time raging against a system that spent years funnelling trillions into financial markets, but keeping headline growth at sub-par levels, for fear of high inflation that came anyway.
+- The **United States**, the global economic and financial leader, pursuing more nationalistic policies after a decade of retreating from its role as the ‘global police force’. As a result, global autocracy has been on the rise. America’s decision to weaponize the Dollar and the financial system against Russia is causing further instability amongst its allies.
+- **China** attempting to prevent businesses from taking hold of its larger economic agenda and, at the same time, retreating from its own role as the ‘global manufacturer’. As a result, global supply chains remain unbalanced and inflation persists.
+- **European** growth suffering from a monetary union that has been left politically and regulatorily unfinished.
+- And in the very background of it all, the reverberations from the 2008 **Global Financial Crisis** are still with us. They are causing consumers to be conservative and at the same time raging against a system that spent years funnelling trillions into financial markets, but keeping headline growth at sub-par levels, for fear of high inflation that came anyway.
 
 Economic decisions, like the US trying to isolate Russia economically, have, in history caused much bigger trouble. Responding to an American embargo in oil, Japan in 1941 simply destroyed a large part of the American fleet in Pearl Harbor. In fact, war was usually humanity’s preferred way of solving things for aeons.
 

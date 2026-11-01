@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/6/dry-bulk-supply-heavier-deliveries-but-ageing-fleet-offers-a-buffer"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 1
-word_count: 711
+word_count: 712
 source_file: "corpus/03-breakwave/insights/2026/2026-10-08_dry-bulk-supply-heavier-deliveries-but-ageing-fleet-offers-a-buffer.html"
 ---
 

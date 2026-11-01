@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/10/a-survivors-guide-to-navigating-the-market-under-the-new-presidency"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 3
-word_count: 1830
+word_count: 1833
 source_file: "corpus/03-breakwave/insights/2025/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency.html"
 ---
 
@@ -52,11 +52,11 @@ But, truth be told, the deluge of information makes analysis difficult. The mode
 
 How can money managers even approach that level of chaos?
 
-One way would be to**start pricing in eventualities**. But with**too many possible outcomes**, no one scenario would weigh enough to be worth an overweight. So that would mean business as usual.
+One way would be to **start pricing in eventualities**. But with **too many possible outcomes**, no one scenario would weigh enough to be worth an overweight. So that would mean business as usual.
 
-Another way would be to**wait and observe the outcome**. Markets are a mechanism of separating the signal from the noise, so they remain unperturbed. This means that they will likely dismiss concerns as noise until they become actual signals. So markets, and the central bank, will become more reactive and less proactive, as they will likely not price in various policy announcements until they actually happen.
+Another way would be to **wait and observe the outcome**. Markets are a mechanism of separating the signal from the noise, so they remain unperturbed. This means that they will likely dismiss concerns as noise until they become actual signals. So markets, and the central bank, will become more reactive and less proactive, as they will likely not price in various policy announcements until they actually happen.
 
-The problem with that approach**is that it would not leave much room for “Alpha” (a strategy’s ability to generate excess returns versus benchmark) in the portfolio, as the whole market would move simultaneously, usually in a very volatile way, one that may even invite interventions from central banks**. This is what happened during the COVID-19 crisis in February 2020. Initially, it was dismissed as a “SARS-like” risk, which would be dealt with like it was in 2002-2003 with some population curbs and rapid development of anti-viral drugs. Then, even when China was entering lockdowns, markets were largely calm, as the country had a good track record of border control. However, even when it was obvious that full containment was impossible, markets had remained fairly unperturbed. Only when actual evidence of containment failure became apparent when deaths began to spread beyond Chinese borders, did US and global large caps move. They lost a third of their value within a month, forcing the Fed to intervene.
+The problem with that approach **is that it would not leave much room for “Alpha” (a strategy’s ability to generate excess returns versus benchmark) in the portfolio, as the whole market would move simultaneously, usually in a very volatile way, one that may even invite interventions from central banks**. This is what happened during the COVID-19 crisis in February 2020. Initially, it was dismissed as a “SARS-like” risk, which would be dealt with like it was in 2002-2003 with some population curbs and rapid development of anti-viral drugs. Then, even when China was entering lockdowns, markets were largely calm, as the country had a good track record of border control. However, even when it was obvious that full containment was impossible, markets had remained fairly unperturbed. Only when actual evidence of containment failure became apparent when deaths began to spread beyond Chinese borders, did US and global large caps move. They lost a third of their value within a month, forcing the Fed to intervene.
 
 The best way to approach things, thus,**is to focus on the undeniable parts of the agenda where there’s broader political support, at least within the ruling party**.
 
@@ -81,7 +81,7 @@ As for the economy? As we said, all eventualities are open. We have already focu
 > **Figure 1: Market Chart 1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_img_image004_ddaf980098cf.jpg)
 
-If tariffs are not imposed on an industrial scale, then lower prices at the pump may well bring down long-term inflation expectations, at least according to the[Treasury Secretary](assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_bessent-says-trump-is-focused-on-the_c6ef896c03bf.html). Treasury yields were already down last week to below 4.5% and rate cut expectations picked up.
+If tariffs are not imposed on an industrial scale, then lower prices at the pump may well bring down long-term inflation expectations, at least according to the [Treasury Secretary](assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_bessent-says-trump-is-focused-on-the_c6ef896c03bf.html). Treasury yields were already down last week to below 4.5% and rate cut expectations picked up.
 
 ![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_img_image005_98a66950d6a4.jpg)
 
@@ -95,7 +95,7 @@ And pressing allies to increase their meagre defence spending to match the US’
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 02 10 162229**  
 > **Interactive Data & Source:** [Reuters](https://www.reuters.com/world/europe/is-reform-germanys-debt-brake-cards-2024-11-12/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1a6842961acd.png)
 
-That should help Germany out of its recession, even[at the cost of](https://www.reuters.com/world/europe/is-reform-germanys-debt-brake-cards-2024-11-12/)its 0.35% borrowing cap.
+That should help Germany out of its recession, even [at the cost of](https://www.reuters.com/world/europe/is-reform-germanys-debt-brake-cards-2024-11-12/) its 0.35% borrowing cap.
 
 Bottom line, the key to survival in the next four years, is not to ignore, deflect, consider business as usual, be too data-driven, or front-run the powers that be. As fund managers with fiduciary duties, it is “[not ours to reason why](https://www.poetryfoundation.org/poems/45319/the-charge-of-the-light-brigade)” or judge the politics in political and communication terms.**It is to find the economic and investment “signal” which will hide much deeper than in the past within what we know will be a deluge of “noise”. Especially if we consider noise generation as a purposeful strategy, or at least a necessary part of the journey, that would take some of the public pressure off Washington, where the deeper changes are likely to happen.**
 

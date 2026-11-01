@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/8/war-in-ukraine-continues-to-divide-the-world"
 images_count: 1
-word_count: 590
+word_count: 591
 source_file: "corpus/03-breakwave/insights/2022/2022-07-08_war-in-ukraine-continues-to-divide-the-world.html"
 ---
 

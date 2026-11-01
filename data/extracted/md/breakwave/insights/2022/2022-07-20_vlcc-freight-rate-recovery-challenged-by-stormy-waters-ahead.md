@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/17/vlcc-freight-rate-recovery-challenged-by-stormy-waters-ahead"
 tags: ["Tankers", "Shipping", "Investing"]
 images_count: 2
-word_count: 1066
+word_count: 1068
 source_file: "corpus/03-breakwave/insights/2022/2022-07-20_vlcc-freight-rate-recovery-challenged-by-stormy-waters-ahead.html"
 ---
 

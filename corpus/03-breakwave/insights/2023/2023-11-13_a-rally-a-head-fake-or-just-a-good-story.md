@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/11/13/a-rally-a-head-fake-or-just-a-good-story"
 images_count: 6
-word_count: 1750
+word_count: 1756
 source_file: "corpus/03-breakwave/insights/2023/2023-11-13_a-rally-a-head-fake-or-just-a-good-story.html"
 ---
 
@@ -25,9 +25,9 @@ source_file: "corpus/03-breakwave/insights/2023/2023-11-13_a-rally-a-head-fake-o
 
 *By*[*George Lagarias*](https://www.linkedin.com/in/george-lagarias-mba-3baa769/)
 
-I love a good story. I really do. I’m one of those people who love movies not for the effects or the acting but for the quality of the story. Shawshank Redemption, check. Godfather Part II, check. Network (1976), check (if you want to understand today’s economy, one of the[best movies](https://www.youtube.com/watch?v=GFzlm9wQ4MI)ever). Pulp Fiction, Check. Goodfellas, check. Avengers… well, not really. I love good stories so much, that I prefer them to reality, at least for a little. My better half prefers to pause every 20’, to feed the little one, and discuss, and problem-solve, and… ugh.. communicate. The love of my life to be sure, but literally the movie companion F-r-o-m H-e-l-l.
+I love a good story. I really do. I’m one of those people who love movies not for the effects or the acting but for the quality of the story. Shawshank Redemption, check. Godfather Part II, check. Network (1976), check (if you want to understand today’s economy, one of the [best movies](https://www.youtube.com/watch?v=GFzlm9wQ4MI) ever). Pulp Fiction, Check. Goodfellas, check. Avengers… well, not really. I love good stories so much, that I prefer them to reality, at least for a little. My better half prefers to pause every 20’, to feed the little one, and discuss, and problem-solve, and… ugh.. communicate. The love of my life to be sure, but literally the movie companion F-r-o-m H-e-l-l.
 
-It seems that many people love stories. That’s why we (incredibly) still have bookshops, and the most content ever created. Since 2013 when Netflix’s first in-house series, House of Cards, came out, film and TV content spending has[doubled](https://www.statista.com/statistics/1248429/global-film-tv-content-spending/), to nearly $243 billion per annum. And despite that, the book publishing industry is holding its own with a market size of $30bn per annum, nearly as much as a decade ago.
+It seems that many people love stories. That’s why we (incredibly) still have bookshops, and the most content ever created. Since 2013 when Netflix’s first in-house series, House of Cards, came out, film and TV content spending has [doubled](https://www.statista.com/statistics/1248429/global-film-tv-content-spending/), to nearly $243 billion per annum. And despite that, the book publishing industry is holding its own with a market size of $30bn per annum, nearly as much as a decade ago.
 
 Stories are good for learning too. Yesterday, the little one woke up at 03.00 in the AM because she wanted to hear more about Odysseus and the Cyclops.
 
@@ -88,9 +88,9 @@ But to achieve this, governments ramped up borrowing. Especially the US governme
 > **Figure 5: Market Chart 5**  
 > **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2023-11-10/us-s-credit-rating-outlook-changed-to-negative-by-moody-s) | [Local Asset](assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image01328329_4d79027d892d.jpg)
 
-It’s no wonder that Moody’s followed Fitch last week,[downgrading](https://www.bloomberg.com/news/articles/2023-11-10/us-s-credit-rating-outlook-changed-to-negative-by-moody-s)US debt.
+It’s no wonder that Moody’s followed Fitch last week,[downgrading](https://www.bloomberg.com/news/articles/2023-11-10/us-s-credit-rating-outlook-changed-to-negative-by-moody-s) US debt.
 
-And there’s the geopolitical risk premium to think about. Getting an above-zero return in a world of zero-rates and relative geopolitical stability wasn’t a big ask. But now, investors should ask for more. It’s not bad enough that we have two ongoing conflicts with potentially global implications. Last week, the largest bank in China, ICBC,[was hacked](https://www.bloomberg.com/news/articles/2023-11-10/world-s-biggest-bank-forced-to-trade-via-usb-stick-after-hack?sref=EiJDOcNb)at exactly the time that it would participate in an auction of the US 30y bond. Failure to show up led to higher yields across the board. Wars are not just bombs. They are hybrid.
+And there’s the geopolitical risk premium to think about. Getting an above-zero return in a world of zero-rates and relative geopolitical stability wasn’t a big ask. But now, investors should ask for more. It’s not bad enough that we have two ongoing conflicts with potentially global implications. Last week, the largest bank in China, ICBC,[was hacked](https://www.bloomberg.com/news/articles/2023-11-10/world-s-biggest-bank-forced-to-trade-via-usb-stick-after-hack?sref=EiJDOcNb) at exactly the time that it would participate in an auction of the US 30y bond. Failure to show up led to higher yields across the board. Wars are not just bombs. They are hybrid.
 
 If you are looking at UK GDP, then look beyond the 0.2% rise headline. September’s uptick was mostly due to a rise in demand for professional services and healthcare. Consumption, the sustainable driver of GDP, was subdued.
 
@@ -101,6 +101,6 @@ If you are looking at UK GDP, then look beyond the 0.2% rise headline. September
 
 *Source: ONS.*
 
-There are plenty of reasons to be worried. As investment managers, this is, in fact, what we are paid for. We are paid to question the story, the narrative of the eternal bull market. It’s not the time to sink into the news stories. It is the time for hard metrics and difficult questions. If our scruples are justified, we protect investors. If they are not strong enough, we should up the risk. Make no mistake. Uncertainty is not bad. In fact, it is the best friend to informed and sage investors. The more uncertainty, the more[opinions differ](https://www.bloomberg.com/news/articles/2023-11-13/goldman-sachs-morgan-stanley-diverge-on-fed-rate-cut-forecasts?sref=EiJDOcNb)the more positioning will differ, and the better the payoff if things work out. An investor who has done their homework, who has a philosophy, who has applied thinking and experience should be ahead of the pack in this market. An investor who asks, “is my portfolio making enough to compensate you for the risk?”, “is it diversified and hedged enough” is asking the right questions.
+There are plenty of reasons to be worried. As investment managers, this is, in fact, what we are paid for. We are paid to question the story, the narrative of the eternal bull market. It’s not the time to sink into the news stories. It is the time for hard metrics and difficult questions. If our scruples are justified, we protect investors. If they are not strong enough, we should up the risk. Make no mistake. Uncertainty is not bad. In fact, it is the best friend to informed and sage investors. The more uncertainty, the more [opinions differ](https://www.bloomberg.com/news/articles/2023-11-13/goldman-sachs-morgan-stanley-diverge-on-fed-rate-cut-forecasts?sref=EiJDOcNb) the more positioning will differ, and the better the payoff if things work out. An investor who has done their homework, who has a philosophy, who has applied thinking and experience should be ahead of the pack in this market. An investor who asks, “is my portfolio making enough to compensate you for the risk?”, “is it diversified and hedged enough” is asking the right questions.
 
 This market is uncertain, and as such, it is very investible. Investors just have to be prepared for the boat to rock often.

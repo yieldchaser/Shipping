@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/13/recovery-for-capesizes"
 tags: ["Shipping", "Markets", "Commodities"]
 images_count: 1
-word_count: 1199
+word_count: 1200
 source_file: "corpus/03-breakwave/insights/2024/2024-11-13_recovery-for-capesizes.html"
 ---
 

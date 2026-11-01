@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/4/20/signal-dry-bulk-weekly-report"
 tags: ["Shipping", "Dry Bulk", "Freight", "Rates"]
 images_count: 4
-word_count: 1301
+word_count: 1305
 source_file: "corpus/03-breakwave/insights/2022/2022-04-20_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -39,10 +39,10 @@ In the grain market, record-high prices were posted. Chicago wheat futures rose 
 
 A firmer sentiment of freight rates emerged for the third week of April, however, the Handysize segment sustained the sharp decrease of the previous three weeks.
 
-- **Capesize**Brazil-to-North China freight rates gained further ground and increased to $25.5/t, $7.5/t above the lows of Week 10 of this year ($18/t).
-- **Panamax**Continent-to-Far East freight surpassed the barrier of $56/t, and it is the second-highest point for this year since Week 10. The bottom low remains at the end of Week 4 ($39/t).
-- **Supramax**Indo-to-ECI freight rates seemed to hold levels around $24/t, following a free-fall over the last few days. The last high remains the Week 12 ~ $30/t.
-- **Handysize**NOPAC-to-Far East freight rates continued their accelerated decrease since the ending of Week 11. Rates decreased to around $55/t, which is almost $15/t down from the peak of Week 11.
+- **Capesize** Brazil-to-North China freight rates gained further ground and increased to $25.5/t, $7.5/t above the lows of Week 10 of this year ($18/t).
+- **Panamax** Continent-to-Far East freight surpassed the barrier of $56/t, and it is the second-highest point for this year since Week 10. The bottom low remains at the end of Week 4 ($39/t).
+- **Supramax** Indo-to-ECI freight rates seemed to hold levels around $24/t, following a free-fall over the last few days. The last high remains the Week 12 ~ $30/t.
+- **Handysize** NOPAC-to-Far East freight rates continued their accelerated decrease since the ending of Week 11. Rates decreased to around $55/t, which is almost $15/t down from the peak of Week 11.
 
 ## Section 2 - Supply - Ballasters View
 
@@ -55,10 +55,10 @@ A firmer sentiment of freight rates emerged for the third week of April, however
 
 The number of ballasters signals an increasing trend for all vessel size categories, but the levels are still below the one-year average for Capesize, Panamax, and Supramax segments. The Handysize is still in a sharp increasing trend with the third week of April showing an even higher volume than the weak figure of Week 12.
 
-- **Capesize**SE Africa: The number of vessels sailing in ballast still holds a pace of around 70 vessels, since the ending of Week 12 with one or two vessels more or less week on week.
-- **Panamax**SE Africa: The number of vessels sailing in ballast is now around 82 vessels, 5 vessels more than last week, 48% down from the accelerated figure during Week 5.
-- **Supramax**SE Asia: The number of vessels sailing in ballast increased to 84 vessels, 6 vessels more than last week, while it seems that the trend is reversing upward over the last few days.
-- **Handysize**NOPAC: The number of vessels sailing in ballast increased to 77 vessels, 10 vessels more than last week and 20% above the one-year average.
+- **Capesize** SE Africa: The number of vessels sailing in ballast still holds a pace of around 70 vessels, since the ending of Week 12 with one or two vessels more or less week on week.
+- **Panamax** SE Africa: The number of vessels sailing in ballast is now around 82 vessels, 5 vessels more than last week, 48% down from the accelerated figure during Week 5.
+- **Supramax** SE Asia: The number of vessels sailing in ballast increased to 84 vessels, 6 vessels more than last week, while it seems that the trend is reversing upward over the last few days.
+- **Handysize** NOPAC: The number of vessels sailing in ballast increased to 77 vessels, 10 vessels more than last week and 20% above the one-year average.
 
 ## Section 3 - Demand - In Ton Days
 
@@ -71,10 +71,10 @@ The number of ballasters signals an increasing trend for all vessel size categor
 
 The overall trend of demand ton-days keeps decreasing, however, we are gradually seeing signs of an upward correction in the Capesize and Panamax segment compared to the sharp downward direction one week ago.
 
-- **Capesize**demand ton-days: There is a soft upward trend compared to the lows of two weeks ago.
-- **Panamax**demand ton-days: We see signs of a steady momentum after almost three weeks of constant decrease.
-- **Supramax**demand ton-days: There is also a sustained momentum of a downward trend with insignificant spikes or lows over the last weeks.
-- **Handysize**demand ton-days: Ton days growth holds the slower growth with no signs of a rebound since the ending of Week 10.
+- **Capesize** demand ton-days: There is a soft upward trend compared to the lows of two weeks ago.
+- **Panamax** demand ton-days: We see signs of a steady momentum after almost three weeks of constant decrease.
+- **Supramax** demand ton-days: There is also a sustained momentum of a downward trend with insignificant spikes or lows over the last weeks.
+- **Handysize** demand ton-days: Ton days growth holds the slower growth with no signs of a rebound since the ending of Week 10.
 
 ## Section 4 - Chinese Port Congestions -
 

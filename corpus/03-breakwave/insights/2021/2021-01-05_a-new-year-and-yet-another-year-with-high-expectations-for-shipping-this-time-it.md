@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/4/a-new-year-and-yet-another-year-with-high-expectations-for-shipping-this-time-it-might-turn-out-to-be-right"
 tags: ["China", "India", "Global Economy"]
 images_count: 2
-word_count: 792
+word_count: 794
 source_file: "corpus/03-breakwave/insights/2021/2021-01-05_a-new-year-and-yet-another-year-with-high-expectations-for-shipping-this-time-it.html"
 ---
 

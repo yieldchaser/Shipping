@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/19/chinese-coal-import-demand-strengthening"
 tags: ["China", "Shipping", "Coal"]
 images_count: 1
-word_count: 468
+word_count: 469
 source_file: "corpus/03-breakwave/insights/2021/2021-07-21_chinese-coal-import-demand-strengthening.html"
 ---
 

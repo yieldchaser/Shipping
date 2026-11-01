@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/1/6/energy-prices-the-catalyst-of-revolution"
 tags: ["Energy", "Crisis", "Coal", "Shipping"]
 images_count: 1
-word_count: 691
+word_count: 692
 source_file: "corpus/03-breakwave/insights/2022/2022-01-06_energy-prices-the-catalyst-of-revolution.html"
 ---
 

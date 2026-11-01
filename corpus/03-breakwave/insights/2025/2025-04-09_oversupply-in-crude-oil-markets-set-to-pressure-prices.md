@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/9/oversupply-in-crude-oil-markets-set-to-pressure-prices"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 3
-word_count: 965
+word_count: 968
 source_file: "corpus/03-breakwave/insights/2025/2025-04-09_oversupply-in-crude-oil-markets-set-to-pressure-prices.html"
 ---
 

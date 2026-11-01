@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/10/china-the-growth-is-under-pressure-but-indicators-remain-mixed"
 tags: ["China", "Economy", "Shipping"]
 images_count: 2
-word_count: 909
+word_count: 911
 source_file: "corpus/03-breakwave/insights/2021/2021-09-10_china-the-growth-is-under-pressure-but-indicators-remain-mixed.html"
 ---
 
@@ -26,7 +26,7 @@ The Chinese economy is, after a long period of exceptional growth, showing signs
 
 The outlook for the Chinese economy is currently dominated by mixed signals. While the domestic economy continues to struggle to regain its momentum, China’s international trade continues to defy analysts’ projections. In August, Chinese exports grew by 25.6 per cent compared to a year ago, while imports grew by a third. The strong growth of the latter was partly due to base effects, as imports fell by 2.1 per cent in August last year. For the first eight months of the year, Chinese exports have expanded by a third year-on-year to 2.1 trillion dollars, while imports have risen by almost 35 per cent to 1.7 trillion dollars. The strength of the exports has also seen the surplus in the trade with the rest of the world expanding by almost two billion dollars compared to July and passing 58 billion dollars.
 
-![20210910 143828](assets/2021-09-10_china-the-growth-is-under-pressure-but-indicators-remain-mixed_img_20210910-143828_e7fa2f810cfb.jpg)
+![20210910 143828](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-10_china-the-growth-is-under-pressure-but-indicators-remain-mixed_img_20210910-143828_e7fa2f810cfb.jpg)
 
 > **Figure 1: 20210910 143828**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-10_china-the-growth-is-under-pressure-but-indicators-remain-mixed_img_20210910-143828_e7fa2f810cfb.jpg)
@@ -35,7 +35,7 @@ The Chinese property market has long been a source of concern for many economist
 
 Adding to the mixed economic picture, the iron ore volumes discharged in Chinese ports have been on the rise in recent weeks. While four per cent below the same month last year, August has nevertheless shown a strong recovery from the weak volumes registered in July. According to data from Oceanbolt, the amount discharged in Chinese ports were also the highest since the beginning of the year. The current month has so far seen healthy import levels, with a good chance of matching last month’s volumes.
 
-![Ch4](assets/2021-09-10_china-the-growth-is-under-pressure-but-indicators-remain-mixed_img_ch4_b73525d3afc1.png)
+![Ch4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-10_china-the-growth-is-under-pressure-but-indicators-remain-mixed_img_ch4_b73525d3afc1.png)
 
 > **Figure 2: Ch4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-10_china-the-growth-is-under-pressure-but-indicators-remain-mixed_img_ch4_b73525d3afc1.png)

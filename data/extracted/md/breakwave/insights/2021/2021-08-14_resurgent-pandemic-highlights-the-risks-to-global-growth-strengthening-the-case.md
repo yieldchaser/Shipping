@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/13/resurgent-pandemic-highlights-the-risks-to-global-growth-strengthening-the-case-for-continued-economic-stimulus"
 tags: ["Economy", "Shipping", "Pandemic"]
 images_count: 2
-word_count: 774
+word_count: 776
 source_file: "corpus/03-breakwave/insights/2021/2021-08-14_resurgent-pandemic-highlights-the-risks-to-global-growth-strengthening-the-case.html"
 ---
 
@@ -24,14 +24,14 @@ source_file: "corpus/03-breakwave/insights/2021/2021-08-14_resurgent-pandemic-hi
 
 The news that Chinese authorities have ordered a partial closure of the world’s third-largest container port, following the discovery of COVID-19 infection among the workforce at one of the terminals, serves as a timely reminder that the pandemic and the disruptions are far from consigned to the history books. If the new infection is part of a broader outbreak in the region surrounding the port of Ningbo-Zhoushan, the disruptions to the cargo operations in the port could move beyond temporary and cause empty shelves in many shops in time for the Christmas shopping season in Europe and the US. Such new disruptions are likely to add to the ongoing congestion in container ports in many export markets for Chinese goods, such as on the US West Coast, and exacerbate the already tight supply of available containers. Beyond the expectation of the terminal closure driving container freight rates higher, there are fears that a prolonged closure at Ningbo could dampen global growth and feed inflation rates. A similar development in the port of Yantian back in May led to a month-long build-up of goods in factories and storage yards, which contributed to soaring container freight rates and global inflation rates drifting higher.
 
-![Unsplash Image Nndkt2kf1l4](assets/2021-08-14_resurgent-pandemic-highlights-the-risks-to-global-growth-strengthening-the-case_img_unsplash-image-nndkt2kf1l4_f5fd9f56e9a2.jpg)
+![Unsplash Image Nndkt2kf1l4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-14_resurgent-pandemic-highlights-the-risks-to-global-growth-strengthening-the-case_img_unsplash-image-nndkt2kf1l4_f5fd9f56e9a2.jpg)
 
 > **Figure 1: Unsplash Image Nndkt2kf1l4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-14_resurgent-pandemic-highlights-the-risks-to-global-growth-strengthening-the-case_img_unsplash-image-nndkt2kf1l4_f5fd9f56e9a2.jpg)
 
 While the recent headlines have been focused on container shipping, the resurgent Covid pandemic in China has also affected cargo operations beyond that sector. The last few weeks have seen increasing congestion in and around many ports handling dry bulk commodities in China. According to cargo tracking data from Oceanbolt, there are currently around one thousand dry bulk vessels idling of the coast of China, representing 80 million DWT. Port congestion was a developing subject during the tail-end of last year and the early parts of the current year, but the first quarter of the year saw a rapid decline in the numbers of vessels awaiting cargo operations when Chinese demand for commodities stabilised. However, a seasonal increase in commodity imports saw port congestion return to the levels which the year began at. The recent increase in infection rates in China, notably with the more contagious delta-variant, has continued to increase congestion in Chinese ports and driven the number of vessels waiting to a multi-year high.
 
-![A1](assets/2021-08-14_resurgent-pandemic-highlights-the-risks-to-global-growth-strengthening-the-case_img_a1_1159239d73dc.png)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-14_resurgent-pandemic-highlights-the-risks-to-global-growth-strengthening-the-case_img_a1_1159239d73dc.png)
 
 > **Figure 2: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-14_resurgent-pandemic-highlights-the-risks-to-global-growth-strengthening-the-case_img_a1_1159239d73dc.png)

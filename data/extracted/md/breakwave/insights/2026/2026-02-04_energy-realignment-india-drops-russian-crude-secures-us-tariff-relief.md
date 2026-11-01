@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/4/energy-realignment-india-drops-russian-crude-secures-us-tariff-relief"
 tags: ["Crude", "Tankers", "Geopolitics"]
 images_count: 2
-word_count: 805
+word_count: 807
 source_file: "corpus/03-breakwave/insights/2026/2026-02-04_energy-realignment-india-drops-russian-crude-secures-us-tariff-relief.html"
 ---
 

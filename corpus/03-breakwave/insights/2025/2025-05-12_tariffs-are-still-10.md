@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/12/tariffs-are-still-10"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 3
-word_count: 1424
+word_count: 1427
 source_file: "corpus/03-breakwave/insights/2025/2025-05-12_tariffs-are-still-10.html"
 ---
 
@@ -48,7 +48,7 @@ And it may not necessarily be a blueprint of what is to come. The UK, having los
 
 Still, it took nearly a month to get to the first deal, the “low-hanging fruit”. There are 184 such deals waiting between today and the 8th of July, when the 90-day moratorium for “extra reciprocal tariffs” ends.
 
-However, let’s keep an open mind. The real resource required is experienced trade negotiators. Let us assume that the US can produce enough trade delegations to reach similar deals with the EU, China, Japan and other major blocks within a matter of weeks. This is after all, the country that less than a century ago, in the hight of WWII, produced 1,852 aircraft and 6.7 new warships**per week**. It would certainly be in the Guiness Book of Records for “most complex bureaucratic task ever achieved”, but let us assume it came to pass and by the 8th of July similar deals were in place with many other key trading partners. Or that the moratorium will be extended.
+However, let’s keep an open mind. The real resource required is experienced trade negotiators. Let us assume that the US can produce enough trade delegations to reach similar deals with the EU, China, Japan and other major blocks within a matter of weeks. This is after all, the country that less than a century ago, in the hight of WWII, produced 1,852 aircraft and 6.7 new warships **per week**. It would certainly be in the Guiness Book of Records for “most complex bureaucratic task ever achieved”, but let us assume it came to pass and by the 8th of July similar deals were in place with many other key trading partners. Or that the moratorium will be extended.
 
 What are we left with?
 

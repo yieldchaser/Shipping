@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/13/dirty-tonne-days-vlcc"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 10
-word_count: 1425
+word_count: 1435
 source_file: "corpus/03-breakwave/insights/2025/2025-01-13_dirty-tonne-days-vlcc.html"
 ---
 
@@ -42,29 +42,29 @@ Meanwhile, crude oil prices are on track for their third consecutive week of gai
 
 ​​​​​Sentiment in the dirty freight market showed weakness at the start of the month, with no signs of improvement yet.
 
-- The**VLCC**MEG-China freight rates have dropped to 47 WS, reflecting a 30% year-over-year decline. Suezmax freight rates for shipments from**West Africa to continental Europe**have trended downward to 65 WS, a 28% decrease over the past month. On the Suezmax**Baltic-Mediterranean**route, rates dropped below 80 WS, down 48% compared to the same period last year.
-- Aframax**Mediterranean**freight rates have fallen sharply to WS 98. This marks a 30% decrease over the past month and represents a 47% decline compared to the same period last year.
+- The **VLCC** MEG-China freight rates have dropped to 47 WS, reflecting a 30% year-over-year decline. Suezmax freight rates for shipments from **West Africa to continental Europe** have trended downward to 65 WS, a 28% decrease over the past month. On the Suezmax **Baltic-Mediterranean** route, rates dropped below 80 WS, down 48% compared to the same period last year.
+- Aframax **Mediterranean** freight rates have fallen sharply to WS 98. This marks a 30% decrease over the past month and represents a 47% decline compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2025 01 13 142101](assets/2025-01-13_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4733113fbf4c.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 01 13 142101**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-13_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4733113fbf4c.png)
 
-- **LR2**AG freight rates rose to around WS 130, reflecting a 13% monthly increase compared to the same period last year.
+- **LR2** AG freight rates rose to around WS 130, reflecting a 13% monthly increase compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2025 01 13 142159](assets/2025-01-13_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ad3ce6147fc4.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 01 13 142159**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-13_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ad3ce6147fc4.png)
 
-- **Panamax**Carib-to-USG rates have remained stable from the end of the previous year, hovering around WS 145. Recent levels reflect a 40% decrease compared to the same period last year.
+- **Panamax** Carib-to-USG rates have remained stable from the end of the previous year, hovering around WS 145. Recent levels reflect a 40% decrease compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2025 01 13 142308](assets/2025-01-13_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e7b1e932af19.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 01 13 142308**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-13_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e7b1e932af19.png)
 
-- **MR1**rates for shipments from the Baltic to the continent fell to 145 WS, marking a 20% monthly decline and a 20% drop compared to the same week last year. Meanwhile,**MR2**rates for shipments from the continent to the US Atlantic Coast (USAC) have dropped to WS 105, reflecting a 20% monthly decrease. Additionally, MR2 rates on the US Gulf to Continent route remained at similarly weaker levels of WS 100, reflecting a 40% decrease compared to the same period last year.
+- **MR1** rates for shipments from the Baltic to the continent fell to 145 WS, marking a 20% monthly decline and a 20% drop compared to the same week last year. Meanwhile,**MR2** rates for shipments from the continent to the US Atlantic Coast (USAC) have dropped to WS 105, reflecting a 20% monthly decrease. Additionally, MR2 rates on the US Gulf to Continent route remained at similarly weaker levels of WS 100, reflecting a 40% decrease compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2025 01 13 142355](assets/2025-01-13_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5fa3d9f5b6df.png)
 
@@ -90,23 +90,23 @@ The supply of crude tankers presents a mixed landscape of signals: a steady pace
 
 - **Clean LR2 AG Jubail**: The start-of-month trend has fallen significantly below the annual average of 11, dropping to 3. This is a stark contrast to the spikes observed at the end of September and October in the previous year.
 
-- **Clean MR**: At**Algeria's Skikda**port, the number of vessels has shown an upward movement, rising to 43, almost 10 higher than the annual average.**MR2 activity in Amsterdam**indicated signs of a dropdown to 40, but still significantly higher than the annual average of 30.
+- **Clean MR**: At **Algeria's Skikda** port, the number of vessels has shown an upward movement, rising to 43, almost 10 higher than the annual average.**MR2 activity in Amsterdam** indicated signs of a dropdown to 40, but still significantly higher than the annual average of 30.
 
 ![Στιγμιότυπο Οθόνης 2025 01 13 142615](assets/2025-01-13_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7dd9b436bf60.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 01 13 142615**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-13_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7dd9b436bf60.png)
 
-- **Dirty**tonne days: The first month of the year shows a declining growth rate in dirty tonne days, with levels remaining below the annual average across all major vessel size categories. Recent growth estimates suggest a fragile outlook for the freight market, with any potential rebound after the Chinese New Year yet to be seen.
+- **Dirty** tonne days: The first month of the year shows a declining growth rate in dirty tonne days, with levels remaining below the annual average across all major vessel size categories. Recent growth estimates suggest a fragile outlook for the freight market, with any potential rebound after the Chinese New Year yet to be seen.
 
 ![Στιγμιότυπο Οθόνης 2025 01 13 142837](assets/2025-01-13_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_56255742823b.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 01 13 142837**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-13_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_56255742823b.png)
 
-- **Panamax**tonne days: The growth rate exhibited an upward trend in January; however, it remains below the annual average.
+- **Panamax** tonne days: The growth rate exhibited an upward trend in January; however, it remains below the annual average.
 
-- **MR**tonne-days: The growth rate for the MR vessel size segment has been declining since the beginning of the year, defying expectations for stronger growth by year-end. Recent market estimates indicate a drop below the annual average.
+- **MR** tonne-days: The growth rate for the MR vessel size segment has been declining since the beginning of the year, defying expectations for stronger growth by year-end. Recent market estimates indicate a drop below the annual average.
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)
 

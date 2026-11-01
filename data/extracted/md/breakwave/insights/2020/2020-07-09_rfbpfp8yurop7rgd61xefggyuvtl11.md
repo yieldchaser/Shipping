@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/7/9/rfbpfp8yurop7rgd61xefggyuvtl11"
 tags: ["Shipping", "China", "Australia", "Vale", "Dry Bulk"]
 images_count: 3
-word_count: 520
+word_count: 523
 source_file: "corpus/03-breakwave/insights/2020/2020-07-09_rfbpfp8yurop7rgd61xefggyuvtl11.html"
 ---
 

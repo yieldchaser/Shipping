@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/28/dry-weekly-market-monitor"
 tags: ["Drybulk", "Shipping", "Freightrates"]
 images_count: 5
-word_count: 1169
+word_count: 1174
 source_file: "corpus/03-breakwave/insights/2024/2024-02-28_dry-weekly-market-monitor.html"
 ---
 
@@ -36,10 +36,10 @@ In the realm of the world's second-largest economy, China, this week saw intrigu
 
 The Capesize Brazil to North China rates experienced an uptick towards the end of the month, with indications suggesting a continual increase over the past four weeks. Conversely, there appears to be a downward correction in the Panamax rates during the same period.
 
-- **Capesize**vessel freight rates for shipments from Brazil to North China rose to $24 per ton, showcasing a 20% increase compared to the rates observed a month ago.
-- **Panamax**vessel freight rates from the Continent to the Far East dropped below $38 per ton, marking a 6% decrease compared to the rates recorded during the same week last year.
-- **Supramax**vessel freight rates on the Indo-ECI route rose for the first time following three weeks ago levels and rates now stood at $12/ton, 13% higher than a month ago.
-- **Handysize**freight rates for the NOPAC Far East route fell to $32 per ton, marking a $6 per ton decrease from the previous week, yet remaining 12% stronger than rates observed a month ago.
+- **Capesize** vessel freight rates for shipments from Brazil to North China rose to $24 per ton, showcasing a 20% increase compared to the rates observed a month ago.
+- **Panamax** vessel freight rates from the Continent to the Far East dropped below $38 per ton, marking a 6% decrease compared to the rates recorded during the same week last year.
+- **Supramax** vessel freight rates on the Indo-ECI route rose for the first time following three weeks ago levels and rates now stood at $12/ton, 13% higher than a month ago.
+- **Handysize** freight rates for the NOPAC Far East route fell to $32 per ton, marking a $6 per ton decrease from the previous week, yet remaining 12% stronger than rates observed a month ago.
 
 ![Screenshot 2024 02 28 12.35.21](assets/2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123521_e9021dc3c77f.png)
 

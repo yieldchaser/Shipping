@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/21/the-big-picture-all-about-handies"
 tags: ["Handysize", "Supramax", "Panamax", "Capesize"]
 images_count: 5
-word_count: 1270
+word_count: 1275
 source_file: "corpus/03-breakwave/insights/2021/2021-01-22_the-big-picture-all-about-handies.html"
 ---
 
@@ -28,7 +28,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-01-22_the-big-picture-all-a
 
 As we covered last week, the dry market has started 2021 on good footing, as a rarely-seen January rally extends into the second half of the month. And the Handy market has been no exception. The Baltic Exchange’s 38k dwt Handysize index has averaged over $11,835/day so far this year, 63% higher versus the same period in 2020. Based on the 28k dwt index, which has been published for longer, current rates are 70% higher than average January levels over the last five years.
 
-![One Can Debate Whether These Indices Are Accurate Measures Of](assets/2021-01-22_the-big-picture-all-about-handies_img_bmr200_b6ff46f77adf.png)
+![One Can Debate Whether These Indices Are Accurate Measures Of](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-22_the-big-picture-all-about-handies_img_bmr200_b6ff46f77adf.png)
 
 > **Figure 1: One Can Debate Whether These Indices Are Accurate Measures Of**  
 > *One can debate whether these indices are accurate measures of the rates that owners of these shipsactuallyreceive, but we see the same trend occurring in the period market. Based on our one-year timecharter assessments for ships of the same specifications, Supramax returns averaged only $713/day more than the Handies in 2020. This is down from $975/day in 2019 and $1,815 /day in 2018.*  
@@ -36,7 +36,7 @@ As we covered last week, the dry market has started 2021 on good footing, as a r
 
 However, while the Supramaxes are also performing well, the premium that they typically earn over Handies has continued to erode, a trend we have seen emerge over the past couple of years. The Supra-Handy spread swings in the short-run, due to fluctuating strength in regional markets, but in 2020, Supramaxes earned on average just $185/day over the 38k dwt Handies, down from $656/day in 2019 and $1,162/day in 2018.
 
-![Bmr 201](assets/2021-01-22_the-big-picture-all-about-handies_img_bmr201_ccc3f56222c4.png)
+![Bmr 201](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-22_the-big-picture-all-about-handies_img_bmr201_ccc3f56222c4.png)
 
 > **Figure 2: Bmr 201**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-22_the-big-picture-all-about-handies_img_bmr201_ccc3f56222c4.png)
@@ -47,7 +47,7 @@ A clue as to why this differential has narrowed may lie in the supply-side of th
 
 Looking only at recent history, 2020 saw hefty fleet additions in the dry market, but again Handy deliveries have been vastly outpaced by those of the bigger ships. Last year we recorded 138 new ships come onto the water within our broader Supramax Category boosting the size of this fleet in dwt terms by 3.6%. Within this, the relatively new Ultramax fleet grew by 13.6%. Meanwhile, Handysize additions in 2020 only pushed this fleet’s carrying capacity up by 1.6%.
 
-![Bmr 202](assets/2021-01-22_the-big-picture-all-about-handies_img_bmr202_f5418511b22d.png)
+![Bmr 202](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-22_the-big-picture-all-about-handies_img_bmr202_f5418511b22d.png)
 
 > **Figure 3: Bmr 202**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-22_the-big-picture-all-about-handies_img_bmr202_f5418511b22d.png)
@@ -58,14 +58,14 @@ This mismatch could in part explain why average Handy rates have been closing in
 
 The demand-side of the equation also likely plays a role in this relationship. By aggregating all Handysize and Supramax trade flows, including ballast voyages, we can measure the relative importance of different commodities to demand for each shipping sector. The most stark difference between the Handies and Supras in this demand breakdown is on coal. The Supramax market is heavily exposed to this good, which accounted for around a quarter of demand over 2019-20. The Handysizes meanwhile only depended on coal for about 10% of their demand over this period. Instead, Handies appear to be much more focused on the grains, which accounted for 26% of demand over the last two years, versus 19% for the Supramaxes.
 
-![Bmr 203](assets/2021-01-22_the-big-picture-all-about-handies_img_bmr203_e2726099fb90.png)
+![Bmr 203](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-22_the-big-picture-all-about-handies_img_bmr203_e2726099fb90.png)
 
 > **Figure 4: Bmr 203**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-22_the-big-picture-all-about-handies_img_bmr203_e2726099fb90.png)
 
 Given how these different commodities have been impacted by the pandemic, it is unsurprising that demand for Handies has been somewhat more robust than for Supramaxes over the last few months. Global coal trade slumped by almost 10% YoY in 2020, as we saw a sharp drop in both power demand and steel production outside of China. Being more dependent on this commodity, the Supramax markets took a relatively greater hit to demand. In addition, for most of 2020 China imposed strict import controls on thermal coal imports while it tried to boost domestic production. This disproportionately hit imports from Indonesia, a key demand region for Supras.
 
-![Bmr 204](assets/2021-01-22_the-big-picture-all-about-handies_img_bmr204_77697dea0741.png)
+![Bmr 204](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-22_the-big-picture-all-about-handies_img_bmr204_77697dea0741.png)
 
 > **Figure 5: Bmr 204**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-22_the-big-picture-all-about-handies_img_bmr204_77697dea0741.png)

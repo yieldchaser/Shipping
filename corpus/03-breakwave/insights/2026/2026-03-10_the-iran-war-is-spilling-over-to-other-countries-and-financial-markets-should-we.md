@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/10/the-iran-war-is-spilling-over-to-other-countries-and-financial-markets-should-we-be-worried"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 4
-word_count: 1693
+word_count: 1697
 source_file: "corpus/03-breakwave/insights/2026/2026-03-10_the-iran-war-is-spilling-over-to-other-countries-and-financial-markets-should-we.html"
 ---
 

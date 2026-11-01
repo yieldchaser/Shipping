@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/16/the-big-questions-asking-the-owners"
 tags: ["Dry Bulk", "China", "Baltic Dry Index", "Shipping"]
 images_count: 3
-word_count: 1155
+word_count: 1158
 source_file: "corpus/03-breakwave/insights/2020/2020-10-16_the-big-questions-asking-the-owners.html"
 ---
 

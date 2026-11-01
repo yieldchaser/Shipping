@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/6/1/chinas-commodity-markets"
 tags: ["China", "Commodities", "Shipping"]
 images_count: 1
-word_count: 1242
+word_count: 1243
 source_file: "corpus/03-breakwave/insights/2026/2026-06-01_chinas-commodity-markets.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/7/he-market-feels-stable"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 1
-word_count: 961
+word_count: 962
 source_file: "corpus/03-breakwave/insights/2025/2025-07-07_he-market-feels-stable.html"
 ---
 

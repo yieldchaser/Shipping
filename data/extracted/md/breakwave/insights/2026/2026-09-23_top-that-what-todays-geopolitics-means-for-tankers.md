@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/23/top-that-what-todays-geopolitics-means-for-tankers"
 tags: ["Tankers", "Markets", "Shipping"]
 images_count: 9
-word_count: 4460
+word_count: 4469
 source_file: "corpus/03-breakwave/insights/2026/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers.html"
 ---
 

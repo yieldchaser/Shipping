@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/17/is-the-sun-setting-on-russias-crude-exports-to-india"
 tags: ["Oil", "Shipping", "Tankers"]
 images_count: 2
-word_count: 875
+word_count: 877
 source_file: "corpus/03-breakwave/insights/2024/2024-04-17_is-the-sun-setting-on-russias-crude-exports-to-india.html"
 ---
 

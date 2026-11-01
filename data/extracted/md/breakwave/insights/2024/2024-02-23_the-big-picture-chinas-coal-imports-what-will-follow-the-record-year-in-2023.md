@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/23/the-big-picture-chinas-coal-imports-what-will-follow-the-record-year-in-2023"
 tags: ["Drybulk", "China", "Coal"]
 images_count: 3
-word_count: 731
+word_count: 734
 source_file: "corpus/03-breakwave/insights/2024/2024-02-23_the-big-picture-chinas-coal-imports-what-will-follow-the-record-year-in-2023.html"
 ---
 

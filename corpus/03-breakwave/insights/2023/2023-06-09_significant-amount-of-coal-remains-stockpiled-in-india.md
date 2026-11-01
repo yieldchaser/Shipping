@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/6/9/significant-amount-of-coal-remains-stockpiled-in-india"
 images_count: 3
-word_count: 355
+word_count: 358
 source_file: "corpus/03-breakwave/insights/2023/2023-06-09_significant-amount-of-coal-remains-stockpiled-in-india.html"
 ---
 

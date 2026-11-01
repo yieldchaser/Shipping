@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/8/3/2unrs5w9vbna7njjpbkdo4loy7xx78"
 tags: ["China", "Brazil", "Panamax", "Supramax"]
 images_count: 1
-word_count: 344
+word_count: 345
 source_file: "corpus/03-breakwave/insights/2020/2020-08-03_2unrs5w9vbna7njjpbkdo4loy7xx78.html"
 ---
 

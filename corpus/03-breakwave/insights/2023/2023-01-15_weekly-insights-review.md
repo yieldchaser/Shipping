@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/1/15/weekly-insights-review"
 images_count: 10
-word_count: 1214
+word_count: 1224
 source_file: "corpus/03-breakwave/insights/2023/2023-01-15_weekly-insights-review.html"
 ---
 
@@ -64,7 +64,7 @@ The IMO’s carbon intensity regulations, specifically the carbon intensity indi
 ## Grim Economic Picture at the Start of the Year
 
 Opportunities need swift entry and a lot of patience
-[Read More](https://www.breakwaveadvisors.com/insights/2023/1/10/mazars-note-opportunities-need-swift-entry-and-a-lot-of-patience)
+ [Read More](https://www.breakwaveadvisors.com/insights/2023/1/10/mazars-note-opportunities-need-swift-entry-and-a-lot-of-patience)
 
 ![Unsplash Image Cv1izqkjqzu](assets/2023-01-15_weekly-insights-review_img_unsplash-image-cv1izqkjqzu_0448557f8cb1.jpg)
 

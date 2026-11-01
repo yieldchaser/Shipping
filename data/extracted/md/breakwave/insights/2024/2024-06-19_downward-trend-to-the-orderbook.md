@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/19/downward-trend-to-the-orderbook"
 tags: ["Tankers", "Drybulk", "Shipping"]
 images_count: 2
-word_count: 589
+word_count: 591
 source_file: "corpus/03-breakwave/insights/2024/2024-06-19_downward-trend-to-the-orderbook.html"
 ---
 

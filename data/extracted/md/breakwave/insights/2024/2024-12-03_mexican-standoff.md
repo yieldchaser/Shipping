@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/12/3/mexican-standoff"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 2
-word_count: 629
+word_count: 631
 source_file: "corpus/03-breakwave/insights/2024/2024-12-03_mexican-standoff.html"
 ---
 

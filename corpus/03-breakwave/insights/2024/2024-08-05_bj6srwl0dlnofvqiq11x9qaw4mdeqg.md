@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/5/bj6srwl0dlnofvqiq11x9qaw4mdeqg"
 tags: ["Capesize", "Ironore", "China"]
 images_count: 3
-word_count: 888
+word_count: 891
 source_file: "corpus/03-breakwave/insights/2024/2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg.html"
 ---
 

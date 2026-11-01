@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/18/allied-weekly-market-report"
 images_count: 2
-word_count: 717
+word_count: 719
 source_file: "corpus/03-breakwave/insights/2022/2022-10-18_allied-weekly-market-report.html"
 ---
 

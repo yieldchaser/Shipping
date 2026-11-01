@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/5/23/market-comment-how-long-will-the-downturn-last"
 images_count: 1
-word_count: 934
+word_count: 935
 source_file: "corpus/03-breakwave/insights/2022/2022-05-23_market-comment-how-long-will-the-downturn-last.html"
 ---
 

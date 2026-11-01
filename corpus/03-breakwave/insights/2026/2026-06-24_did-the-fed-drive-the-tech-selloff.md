@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/6/24/did-the-fed-drive-the-tech-selloff"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 3
-word_count: 1575
+word_count: 1578
 source_file: "corpus/03-breakwave/insights/2026/2026-06-24_did-the-fed-drive-the-tech-selloff.html"
 ---
 

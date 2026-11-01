@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/21/vlccs-rewrite-the-record-books"
 tags: ["Tankers", "Shipping", "Crude"]
 images_count: 2
-word_count: 988
+word_count: 990
 source_file: "corpus/03-breakwave/insights/2026/2026-09-21_vlccs-rewrite-the-record-books.html"
 ---
 

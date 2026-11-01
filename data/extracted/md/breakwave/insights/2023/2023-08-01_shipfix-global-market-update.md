@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/8/1/shipfix-global-market-update"
 tags: ["Commodities", "Shipping", "Freightrates"]
 images_count: 1
-word_count: 1290
+word_count: 1291
 source_file: "corpus/03-breakwave/insights/2023/2023-08-01_shipfix-global-market-update.html"
 ---
 

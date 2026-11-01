@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/27/oil-gains-amid-signs-of-stronger-demand"
 tags: ["Commodities", "Markets", "Shipping"]
 images_count: 2
-word_count: 653
+word_count: 655
 source_file: "corpus/03-breakwave/insights/2025/2025-03-27_oil-gains-amid-signs-of-stronger-demand.html"
 ---
 
@@ -31,7 +31,7 @@ The changing geopolitical landscape continues to keep volatility high in commodi
 
 ### Market Commentary
 
-**Crude oil**prices gained amid signs of strong demand. US crude oil inventories fell by 3.34mbbls last week and now sit at the lowest levels in about a month. Moreover, product fuel inventories also fell. Distillate stockpiles dropped 421kbbls while gasoline was down 1446kbbls. This comes as traders become increasingly concerned about near term tightness in the physical market. The Trump administration has recently placed additional sanctions on Chinese buyers and shippers of Iranian oil. The White House also removed Chevron’s licence to operate and export oil from Venezuela. Trump warned that any nation purchasing oil and natural gas from Venezuela could be slapped with 25% tariffs. Even so, a sober mood at an industry conference suggested the risks aren’t all skewed one way. Rising supplies, particularly from outside the OPEC+ alliance would likely keep a lid on prices. The outlook is also likely to be impacted by trade tariffs and sanctions.
+**Crude oil** prices gained amid signs of strong demand. US crude oil inventories fell by 3.34mbbls last week and now sit at the lowest levels in about a month. Moreover, product fuel inventories also fell. Distillate stockpiles dropped 421kbbls while gasoline was down 1446kbbls. This comes as traders become increasingly concerned about near term tightness in the physical market. The Trump administration has recently placed additional sanctions on Chinese buyers and shippers of Iranian oil. The White House also removed Chevron’s licence to operate and export oil from Venezuela. Trump warned that any nation purchasing oil and natural gas from Venezuela could be slapped with 25% tariffs. Even so, a sober mood at an industry conference suggested the risks aren’t all skewed one way. Rising supplies, particularly from outside the OPEC+ alliance would likely keep a lid on prices. The outlook is also likely to be impacted by trade tariffs and sanctions.
 
 **European gas** extended losses due to ample supplies of LNG and warmer weather. Monthly imports of LNG into northwest Europe are set to jump more than 25% y/y, according to Bloomberg ship tracking data. Lower demand from China may be fuelling the increased availability of cargo. Chinese traders have been active in redirecting cargo into the European market in recent weeks. European prices found some support late in the session after Russia suggested the Sudzha cross-border gas point would require lengthy repairs.**North Asian LNG** prices managed to eke out a small gain despite Chinese buyers rapidly cutting back on seaborne imports. Buyers from smaller nations remain active in the spot market.
 

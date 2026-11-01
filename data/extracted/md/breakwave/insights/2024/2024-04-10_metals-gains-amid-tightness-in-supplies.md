@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/10/metals-gains-amid-tightness-in-supplies"
 tags: ["Commodities", "Crude Oil", "Ironore"]
 images_count: 2
-word_count: 634
+word_count: 636
 source_file: "corpus/03-breakwave/insights/2024/2024-04-10_metals-gains-amid-tightness-in-supplies.html"
 ---
 

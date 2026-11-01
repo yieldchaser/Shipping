@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/4/geopolitical-backdrop-drives-freight-rate-resilience"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 2
-word_count: 834
+word_count: 836
 source_file: "corpus/03-breakwave/insights/2025/2025-04-04_geopolitical-backdrop-drives-freight-rate-resilience.html"
 ---
 

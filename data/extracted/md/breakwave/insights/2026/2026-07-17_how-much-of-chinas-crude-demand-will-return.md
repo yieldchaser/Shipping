@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/7/17/how-much-of-chinas-crude-demand-will-return"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 4
-word_count: 1620
+word_count: 1624
 source_file: "corpus/03-breakwave/insights/2026/2026-07-17_how-much-of-chinas-crude-demand-will-return.html"
 ---
 

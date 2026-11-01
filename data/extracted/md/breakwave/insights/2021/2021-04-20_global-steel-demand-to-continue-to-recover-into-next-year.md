@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/20/global-steel-demand-to-continue-to-recover-into-next-year"
 tags: ["China"]
 images_count: 1
-word_count: 739
+word_count: 740
 source_file: "corpus/03-breakwave/insights/2021/2021-04-20_global-steel-demand-to-continue-to-recover-into-next-year.html"
 ---
 
@@ -34,7 +34,7 @@ Recent data from China have also shown a healthy increase in iron ore imports by
 
 ### Iron Ore One-Year Performance (Usd/tonne)
 
-![Ulf 2c](assets/2021-04-20_global-steel-demand-to-continue-to-recover-into-next-year_img_ulf2c_77aa2b6442bd.jpg)
+![Ulf 2c](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-20_global-steel-demand-to-continue-to-recover-into-next-year_img_ulf2c_77aa2b6442bd.jpg)
 
 > **Figure 1: Ulf 2c**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-20_global-steel-demand-to-continue-to-recover-into-next-year_img_ulf2c_77aa2b6442bd.jpg)

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/7/1/first-day-of-quarter-prints-almost-31000-on-capes-with-futures-at-35-discount"
 tags: ["Dry Bulk", "Shipping", "Australia", "Capesize"]
 images_count: 2
-word_count: 353
+word_count: 355
 source_file: "corpus/03-breakwave/insights/2020/2020-07-01_first-day-of-quarter-prints-almost-31000-on-capes-with-futures-at-35-discount.html"
 ---
 

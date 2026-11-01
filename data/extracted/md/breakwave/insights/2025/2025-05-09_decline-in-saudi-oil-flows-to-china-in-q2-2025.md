@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/9/decline-in-saudi-oil-flows-to-china-in-q2-2025"
 tags: ["Tankers", "Markets", "Shipping"]
 images_count: 10
-word_count: 1934
+word_count: 1944
 source_file: "corpus/03-breakwave/insights/2025/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025.html"
 ---
 

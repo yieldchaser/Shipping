@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/8/capesize-iron-ore-freight-market-trends"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 12
-word_count: 1563
+word_count: 1575
 source_file: "corpus/03-breakwave/insights/2025/2025-06-09_capesize-iron-ore-freight-market-trends.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-06-09_capesize-iron-ore-fre
 ---
 
 **Dry Weekly Market Monitor - Week 23, 2025**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 June 06, 2025
 
 ![Στιγμιότυπο Οθόνης 2025 06 09 005152](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-09_capesize-iron-ore-freight-market-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7a0457027570.png)

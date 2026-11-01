@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/15/panamax-market-insights"
 tags: ["Drybulk", "Shipping", "Freightrates"]
 images_count: 5
-word_count: 1157
+word_count: 1162
 source_file: "corpus/03-breakwave/insights/2024/2024-05-15_panamax-market-insights.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-05-15_panamax-market-insigh
 ---
 
 **Dry Weekly Market Monitor - Week 20.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 May 15, 2024
 
 ![Στιγμιότυπο Οθόνης 2024 05 15 170056](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-15_panamax-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_860880412a05.png)

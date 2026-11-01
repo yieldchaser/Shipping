@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/20/commodity-inflation-china-increases-the-pressure"
 tags: ["China", "Commodities", "Inflation"]
 images_count: 3
-word_count: 971
+word_count: 974
 source_file: "corpus/03-breakwave/insights/2021/2021-05-21_commodity-inflation-china-increases-the-pressure.html"
 ---
 

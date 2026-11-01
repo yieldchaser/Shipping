@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/30/arabian-gulf-crude-freight-outlook"
 tags: ["Tankers", "Crude", "Markets"]
 images_count: 6
-word_count: 1836
+word_count: 1842
 source_file: "corpus/03-breakwave/insights/2026/2026-10-01_arabian-gulf-crude-freight-outlook.html"
 ---
 

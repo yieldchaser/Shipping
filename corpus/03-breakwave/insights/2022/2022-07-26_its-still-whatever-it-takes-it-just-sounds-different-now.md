@@ -27,9 +27,9 @@ Summary
 
 - *However, markets didn’t cheer. Unlike her predecessor, Mr Draghi, Ms Lagarde was careful to properly caveat the endeavour. But a careful read through, suggests that there was no need for bold words. The ECB is much better equipped now to face crises.*
 
-- *Since the onset of this new crisis, the Euro has been the biggest risk on our radar. It still is. The European bond market is stressed, and so is the currency. But so far, it is not****di****stressed. We feel that markets might eventually try to test Ms Lagarde. Having said that, following last Thursday’s policy announcement we feel more confident that attacks on the Euro might be thwarted.*
+- *Since the onset of this new crisis, the Euro has been the biggest risk on our radar. It still is. The European bond market is stressed, and so is the currency. But so far, it is not* ***di*** *stressed. We feel that markets might eventually try to test Ms Lagarde. Having said that, following last Thursday’s policy announcement we feel more confident that attacks on the Euro might be thwarted.*
 
-In 2012, Mario Draghi, then Chair of the ECB, was staring down the barrel of the the total collapse of the Euro. At the height of the crisis, he stood up and boldly[pronounced](https://www.youtube.com/watch?v=tB2CM2ngpQg):
+In 2012, Mario Draghi, then Chair of the ECB, was staring down the barrel of the the total collapse of the Euro. At the height of the crisis, he stood up and boldly [pronounced](https://www.youtube.com/watch?v=tB2CM2ngpQg):
 
 **‘We will save the Euro, whatever it takes’.**
 
@@ -52,7 +52,7 @@ Then, she introduced the Transmission Protection Instrument (TPI). This tool wil
 - Their debt trajectory must be sustainable
 - Their macro policies also need to be sustainable
 
-This means that the ECB would still decide whether a country ‘deserves’ to be saved. This is important. No matter how big Italy is, if election was held today,[polls suggest](https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Italian_general_election)that Eurosceptic parties would get 52% of the vote. Italy itself would have to decide whether it wants to play by the rules.
+This means that the ECB would still decide whether a country ‘deserves’ to be saved. This is important. No matter how big Italy is, if election was held today,[polls suggest](https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Italian_general_election) that Eurosceptic parties would get 52% of the vote. Italy itself would have to decide whether it wants to play by the rules.
 
 Markets were sceptical. This was not a big grandiose statement, despite Ms Lagarde’s pledge that there’s no upper limit to those instruments. There were caveats. The Euro remained weak. Italian spreads remained high.
 
@@ -70,8 +70,8 @@ Mr. Draghi spoke bravely, but he bluffed. Those of the Anglo-Saxon conviction sh
 As investors, we think there are two conclusions after the ECB’s heavily caveated rate hike yesterday:
 
 1. **The ECB is serious about throwing money around to save the Euro**. We will see political wrangling, but then again when is that not a feature of Eurozone politics?
-2. Gambles may sometimes work. But they are hardly an investment strategy. Investors need to look past bold policy statements, understand that different people express themselves differently, and**focus on actual policies**, as well as the ability and dependability of those in charge to implement them.
+2. Gambles may sometimes work. But they are hardly an investment strategy. Investors need to look past bold policy statements, understand that different people express themselves differently, and **focus on actual policies**, as well as the ability and dependability of those in charge to implement them.
 
 **Since the onset of this new crisis, the Euro has been the biggest risk on our radar. It still is.**
 
-**The European bond market is stressed, and so is the currency. But so far, it is not*di*stressed. We feel that markets might eventually try to test Ms Lagarde. Having said that, following last Thursday’s policy announcement we feel more confident that attacks on the Euro might be thwarted.**
+**The European bond market is stressed, and so is the currency. But so far, it is not *di* stressed. We feel that markets might eventually try to test Ms Lagarde. Having said that, following last Thursday’s policy announcement we feel more confident that attacks on the Euro might be thwarted.**

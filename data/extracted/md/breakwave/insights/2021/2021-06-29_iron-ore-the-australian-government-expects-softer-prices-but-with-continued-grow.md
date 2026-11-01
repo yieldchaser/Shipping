@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/29/iron-ore-the-australian-government-expects-softer-prices-but-with-continued-growth-in-global-trade-volumes"
 tags: ["China"]
 images_count: 3
-word_count: 932
+word_count: 935
 source_file: "corpus/03-breakwave/insights/2021/2021-06-29_iron-ore-the-australian-government-expects-softer-prices-but-with-continued-grow.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-06-29_iron-ore-the-australi
 
 *By Ulf Bergman*
 
-![Iron Ore Pellets](assets/2021-06-29_iron-ore-the-australian-government-expects-softer-prices-but-with-continued-grow_img_ironorepellets_4b0e8ee8bb20.jpg)
+![Iron Ore Pellets](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-29_iron-ore-the-australian-government-expects-softer-prices-but-with-continued-grow_img_ironorepellets_4b0e8ee8bb20.jpg)
 
 > **Figure 1: Iron Ore Pellets**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-29_iron-ore-the-australian-government-expects-softer-prices-but-with-continued-grow_img_ironorepellets_4b0e8ee8bb20.jpg)
@@ -33,14 +33,14 @@ While the stimulus-driven economic recovery is the principal reason for the dry 
 
 From a miner’s or trader’s perspective, the Australian government’s latest projections may prove to be sobering reading. While the projections now point to a softer landing for the iron ore prices, compared to three months ago, the Australian government nevertheless do not see much more upside. Prices are expected to start to soften during the second half of the year and continue the process during the following two years. This is perhaps somewhat in contrast to the expectations among many analysts and traders, but such a development would no doubt please Beijing as it would match their desire for lower commodity prices. The anticipation of softer prices is a function of increasing production in Brazil and Australia, but also due to an expectation of a decrease in demand from China due to government interventions and tighter control of Chinese steel exports.
 
-![Ulf1629](assets/2021-06-29_iron-ore-the-australian-government-expects-softer-prices-but-with-continued-grow_img_ulf1629_77a0239d97fc.png)
+![Ulf1629](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-29_iron-ore-the-australian-government-expects-softer-prices-but-with-continued-grow_img_ulf1629_77a0239d97fc.png)
 
 > **Figure 2: Ulf1629**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-29_iron-ore-the-australian-government-expects-softer-prices-but-with-continued-grow_img_ulf1629_77a0239d97fc.png)
 
 The projections may not be what most miners would like to hear, but profitability is likely to be maintained for most miners albeit at less spectacular levels than at present. While profit margins for the miners may shrink, the seaborne volumes are expected to keep growing and support the tonnage demand. Despite a downgrade of the Australian export volumes, due to a weaker than expected first quarter and the potential for supply disruptions during the second half of the year, the global export volumes are projected to grow by almost six per cent this year. Increasing production in South Africa, Brazil, Canada and India will primarily be responsible for the global growth.
 
-![Ulf2629](assets/2021-06-29_iron-ore-the-australian-government-expects-softer-prices-but-with-continued-grow_img_ulf2629_315d945d67d8.png)
+![Ulf2629](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-29_iron-ore-the-australian-government-expects-softer-prices-but-with-continued-grow_img_ulf2629_315d945d67d8.png)
 
 > **Figure 3: Ulf2629**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-29_iron-ore-the-australian-government-expects-softer-prices-but-with-continued-grow_img_ulf2629_315d945d67d8.png)

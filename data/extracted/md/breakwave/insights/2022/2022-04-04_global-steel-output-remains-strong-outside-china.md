@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/4/4/global-steel-output-remains-strong-outside-china"
 tags: ["Economy", "Exports", "Steel", "China"]
 images_count: 5
-word_count: 546
+word_count: 551
 source_file: "corpus/03-breakwave/insights/2022/2022-04-04_global-steel-output-remains-strong-outside-china.html"
 ---
 

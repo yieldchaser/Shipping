@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/24/global-grain-export-forecast-raised-yet-again"
 tags: ["Drybulk", "Markets", "Commodities"]
 images_count: 1
-word_count: 296
+word_count: 297
 source_file: "corpus/03-breakwave/insights/2026/2026-02-24_global-grain-export-forecast-raised-yet-again.html"
 ---
 

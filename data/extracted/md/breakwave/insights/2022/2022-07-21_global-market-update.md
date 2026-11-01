@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/21/global-market-update"
 images_count: 1
-word_count: 907
+word_count: 908
 source_file: "corpus/03-breakwave/insights/2022/2022-07-21_global-market-update.html"
 ---
 

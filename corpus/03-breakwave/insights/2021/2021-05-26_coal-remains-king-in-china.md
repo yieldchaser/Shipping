@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/26/coal-remains-king-in-china"
 tags: ["Coal", "China"]
 images_count: 1
-word_count: 333
+word_count: 334
 source_file: "corpus/03-breakwave/insights/2021/2021-05-26_coal-remains-king-in-china.html"
 ---
 

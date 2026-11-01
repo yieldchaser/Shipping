@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/10/16/60egsxwobcgroizsuhqxbx395x86an"
 images_count: 1
-word_count: 1009
+word_count: 1010
 source_file: "corpus/03-breakwave/insights/2023/2023-10-16_60egsxwobcgroizsuhqxbx395x86an.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/3/mazars-comment-bad-news-is-on-its-way-to-becoming-good-news-again"
 images_count: 7
-word_count: 1455
+word_count: 1462
 source_file: "corpus/03-breakwave/insights/2022/2022-10-03_mazars-comment-bad-news-is-on-its-way-to-becoming-good-news-again.html"
 ---
 

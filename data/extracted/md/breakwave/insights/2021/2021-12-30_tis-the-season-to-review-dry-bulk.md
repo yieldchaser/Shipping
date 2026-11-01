@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/12/30/tis-the-season-to-review-dry-bulk"
 tags: ["Shipping", "Dry Bulk", "2021recap"]
 images_count: 4
-word_count: 1542
+word_count: 1546
 source_file: "corpus/03-breakwave/insights/2021/2021-12-30_tis-the-season-to-review-dry-bulk.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-12-30_tis-the-season-to-rev
 
 In any case, 2021 has offered an admittedly interesting ride for dry bulk stakeholders and industry players and, for one thing, kept us all on our toes. What 2022 has in store for all of us is anyone’s guess, but we can attempt an informed projection as to what we can expect after we return to the usual January’s blues following a festive period with warm hearts and full bellies.
 
-![Ch1](assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_ch1_4e50b3fae039.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_ch1_4e50b3fae039.png)
 
 > **Figure 1: Ch1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_ch1_4e50b3fae039.png)
@@ -41,7 +41,7 @@ The effort to reduce pollution ahead of the Winter Olympics in February 2022 has
 
 On the other end, China’s struggling property sector and the indebted giant Evergrande (officially now a defaulter for the first time) can mean either one of two things: the construction activity (that consumes about a third of the domestic steel output) will be much lower in 2022 or China will again resort to feeding its economy with more government funding. Still, forecasts for China’s iron ore imports over the next year remain positive (up nearly 3% y/y) but this saga of high-risk factors that are going to affect the commodity’s supply and demand fundamentals does not allow for much speculation.
 
-![A1](assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_a1_c9ed662c037f.png)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_a1_c9ed662c037f.png)
 
 > **Figure 2: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_a1_c9ed662c037f.png)
@@ -58,7 +58,7 @@ With gas price futures remaining relatively high until 2024, it is logical to an
 
 And although China has set the ambitious net zero target by 2060, current reality is far from that. Infrastructure is not there to seriously support alternative energy sources and China keeps investing in new coal plants, domestically and overseas. Estimates for 2022 suggest that China’s thermal coal imports will remain flat y/y (circa 258million mts), while India’s imports next year are expected to grow by 8.5% to 164 million mts.
 
-![A2](assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_a2_590177d75053.png)
+![A2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_a2_590177d75053.png)
 
 > **Figure 3: A2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_a2_590177d75053.png)
@@ -73,7 +73,7 @@ The longhaul grain trade generously improves the tonne-mile demand for the mediu
 
 Brazil expects to have an early harvest next year which can mean grain cargoes will be put in the market relatively early in Q1. But we do maintain our reservations regarding the actual supply of the commodity since dryness in South Brazil points to smaller soy and corn crops this season. Still, Brazil’s soybeans exports during 2021/22 are projected to improve by 15% y/y to 94 million mts, somewhat offsetting the lower exports outlook for US: down nearly 10% to 56 million mts.
 
-![Ch4](assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_ch4_e7b73ac7de11.png)
+![Ch4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_ch4_e7b73ac7de11.png)
 
 > **Figure 4: Ch4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_ch4_e7b73ac7de11.png)

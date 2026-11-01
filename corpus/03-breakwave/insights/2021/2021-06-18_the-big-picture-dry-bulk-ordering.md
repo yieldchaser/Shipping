@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/17/the-big-picture-dry-bulk-ordering"
 tags: ["Dry Bulk", "Orderbook"]
 images_count: 5
-word_count: 1669
+word_count: 1674
 source_file: "corpus/03-breakwave/insights/2021/2021-06-18_the-big-picture-dry-bulk-ordering.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/16/iron-ore-shipments-to-china-are-gaining-stronger-momentum"
 tags: ["Ironore", "Drybulk", "Markets"]
 images_count: 12
-word_count: 1539
+word_count: 1551
 source_file: "corpus/03-breakwave/insights/2025/2025-09-16_iron-ore-shipments-to-china-are-gaining-stronger-momentum.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/6/22/fourteen-points"
 tags: ["Tankers", "Crude", "Shipping"]
 images_count: 2
-word_count: 752
+word_count: 754
 source_file: "corpus/03-breakwave/insights/2026/2026-06-22_fourteen-points.html"
 ---
 

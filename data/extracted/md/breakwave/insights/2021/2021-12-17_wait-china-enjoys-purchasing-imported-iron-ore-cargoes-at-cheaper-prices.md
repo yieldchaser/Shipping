@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/12/17/wait-china-enjoys-purchasing-imported-iron-ore-cargoes-at-cheaper-prices"
 tags: ["China", "Imports", "Iron Ore"]
 images_count: 2
-word_count: 404
+word_count: 406
 source_file: "corpus/03-breakwave/insights/2021/2021-12-17_wait-china-enjoys-purchasing-imported-iron-ore-cargoes-at-cheaper-prices.html"
 ---
 
@@ -26,14 +26,14 @@ Yes. China enjoys purchasing imported iron ore cargoes at cheaper prices. We con
 
 The most recently released data shows that China's crude steel production at large and medium-sized mills in China averaged 1.72 million tons during the last ten days of November. This is down by 3% from the previous ten days, down year-on-year by 17%, and marks the lowest level seen all year.
 
-![Chart 1 (6)](assets/2021-12-17_wait-china-enjoys-purchasing-imported-iron-ore-cargoes-at-cheaper-prices_img_chart128629_2ba585bfe609.jpg)
+![Chart 1 (6)](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-17_wait-china-enjoys-purchasing-imported-iron-ore-cargoes-at-cheaper-prices_img_chart128629_2ba585bfe609.jpg)
 
 > **Figure 1: Chart 1 (6)**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-17_wait-china-enjoys-purchasing-imported-iron-ore-cargoes-at-cheaper-prices_img_chart128629_2ba585bfe609.jpg)
 
 China’s iron ore imports most recently totaled 105 million tons in November. This is up month-on-month by 15%, up year-on-year by 7%, and marks the largest amount imported all year.
 
-![Chart 2 (5)](assets/2021-12-17_wait-china-enjoys-purchasing-imported-iron-ore-cargoes-at-cheaper-prices_img_chart228529_c2c371c7c871.jpg)
+![Chart 2 (5)](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-17_wait-china-enjoys-purchasing-imported-iron-ore-cargoes-at-cheaper-prices_img_chart228529_c2c371c7c871.jpg)
 
 > **Figure 2: Chart 2 (5)**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-17_wait-china-enjoys-purchasing-imported-iron-ore-cargoes-at-cheaper-prices_img_chart228529_c2c371c7c871.jpg)

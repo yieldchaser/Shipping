@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/2/17/global-grain-trade-prospects-remain-promising"
 tags: ["Global", "Economy", "Grains", "Trade"]
 images_count: 4
-word_count: 547
+word_count: 551
 source_file: "corpus/03-breakwave/insights/2022/2022-02-17_global-grain-trade-prospects-remain-promising.html"
 ---
 

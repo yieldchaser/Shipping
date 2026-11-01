@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/25/breakwave-weekend-read-547kk-rw7zy"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 12
-word_count: 1217
+word_count: 1229
 source_file: "corpus/03-breakwave/insights/2025/2025-05-30_breakwave-weekend-read-547kk-rw7zy.html"
 ---
 
@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-05-30_breakwave-weekend-rea
 
 ## Breakwave Shipping Report
 
-**Stability Persists Albeit Nervousness Amongst Market Participants**– Since early April, the dry bulk market has seen**limited activity,**with spot indices remaining within a broad range and freight futures gradually declining toward spot rates.
+**Stability Persists Albeit Nervousness Amongst Market Participants**– Since early April, the dry bulk market has seen **limited activity,**with spot indices remaining within a broad range and freight futures gradually declining toward spot rates.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2025527-dry5kji5547)
 

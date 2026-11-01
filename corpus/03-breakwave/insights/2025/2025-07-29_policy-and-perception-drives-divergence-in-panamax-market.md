@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/28/policy-and-perception-drives-divergence-in-panamax-market"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 5
-word_count: 1253
+word_count: 1258
 source_file: "corpus/03-breakwave/insights/2025/2025-07-29_policy-and-perception-drives-divergence-in-panamax-market.html"
 ---
 

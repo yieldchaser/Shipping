@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/2/optimism-over-the-demand"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 1
-word_count: 1573
+word_count: 1574
 source_file: "corpus/03-breakwave/insights/2024/2024-08-02_optimism-over-the-demand.html"
 ---
 

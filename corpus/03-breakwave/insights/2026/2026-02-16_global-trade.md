@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/16/global-trade"
 tags: ["China", "Markets", "Economy"]
 images_count: 1
-word_count: 1149
+word_count: 1150
 source_file: "corpus/03-breakwave/insights/2026/2026-02-16_global-trade.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/25/and-xi-said-behold-thy-many-new-industrial-production-records"
 tags: ["China", "Steel"]
 images_count: 2
-word_count: 527
+word_count: 529
 source_file: "corpus/03-breakwave/insights/2021/2021-01-27_and-xi-said-behold-thy-many-new-industrial-production-records.html"
 ---
 

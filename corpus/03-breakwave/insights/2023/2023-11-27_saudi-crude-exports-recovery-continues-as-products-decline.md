@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/11/27/saudi-crude-exports-recovery-continues-as-products-decline"
 images_count: 4
-word_count: 994
+word_count: 998
 source_file: "corpus/03-breakwave/insights/2023/2023-11-27_saudi-crude-exports-recovery-continues-as-products-decline.html"
 ---
 

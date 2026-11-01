@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/12/22/panamax-bulkers-set-to-benefit-from-the-strong-chinese-grain-demand-in-2021"
 tags: ["Dry Bulk", "Panamax", "Grains"]
 images_count: 3
-word_count: 775
+word_count: 778
 source_file: "corpus/03-breakwave/insights/2020/2020-12-23_panamax-bulkers-set-to-benefit-from-the-strong-chinese-grain-demand-in-2021.html"
 ---
 

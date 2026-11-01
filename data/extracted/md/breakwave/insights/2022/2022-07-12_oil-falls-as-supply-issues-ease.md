@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/12/oil-falls-as-supply-issues-ease"
 images_count: 1
-word_count: 727
+word_count: 728
 source_file: "corpus/03-breakwave/insights/2022/2022-07-12_oil-falls-as-supply-issues-ease.html"
 ---
 

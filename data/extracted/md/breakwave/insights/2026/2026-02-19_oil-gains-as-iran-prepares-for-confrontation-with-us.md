@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/19/oil-gains-as-iran-prepares-for-confrontation-with-us"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 2
-word_count: 676
+word_count: 678
 source_file: "corpus/03-breakwave/insights/2026/2026-02-19_oil-gains-as-iran-prepares-for-confrontation-with-us.html"
 ---
 
@@ -31,7 +31,7 @@ A broad risk-on sentiment has returned to commodity markets, with prices rising 
 
 ### Market Commentary
 
-**Crude oil**prices rose on investor concerns over the final agreement between the US and Iran, which hinges on a potential nuclear deal. Iran is expected to present a comprehensive proposal within the next two weeks, while a report suggested that American military intervention could come sooner than expected. Elsewhere, President Zelenskyy has accused Russia of delaying peace talks. Operations at Russian refineries have been disrupted by Ukrainian air strikes, resulting increased crude oil exports. Russian oil production also declined towards the end of last year following attacks on oil infrastructure. A prevailing risk-on sentiment in the market helped prices to move higher.
+**Crude oil** prices rose on investor concerns over the final agreement between the US and Iran, which hinges on a potential nuclear deal. Iran is expected to present a comprehensive proposal within the next two weeks, while a report suggested that American military intervention could come sooner than expected. Elsewhere, President Zelenskyy has accused Russia of delaying peace talks. Operations at Russian refineries have been disrupted by Ukrainian air strikes, resulting increased crude oil exports. Russian oil production also declined towards the end of last year following attacks on oil infrastructure. A prevailing risk-on sentiment in the market helped prices to move higher.
 
 **European natural gas** pared recent losses, as traders fear disruptions to gas flows if Iran closes the Strait of Hormuz. While forecasts of warmer weather increase the prospect of softening demand, investors are watching depleted European gas inventories which are now at 34%, their lowest since 2022. Gas flows remain steady despite production outages in Norway. Renewable power generation is picking up in Germany, with mild weather helping solar power generation, with strong winds supporting wind power generation.
 

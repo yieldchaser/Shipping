@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/10/global-dry-bulk-market-continues-to-fare-very-well-indian-outbreak-not-having-large-detrimental-impact"
 tags: ["Capesize", "Dry Bulk"]
 images_count: 2
-word_count: 669
+word_count: 671
 source_file: "corpus/03-breakwave/insights/2021/2021-05-10_global-dry-bulk-market-continues-to-fare-very-well-indian-outbreak-not-having-la.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/8/stepping-back"
 images_count: 2
-word_count: 724
+word_count: 726
 source_file: "corpus/03-breakwave/insights/2024/2024-02-08_stepping-back.html"
 ---
 

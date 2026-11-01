@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/4/potential-developments-in-the-ag-tanker-market"
 tags: ["Shipping", "Tankers", "Crude"]
 images_count: 2
-word_count: 414
+word_count: 416
 source_file: "corpus/03-breakwave/insights/2024/2024-10-04_potential-developments-in-the-ag-tanker-market.html"
 ---
 

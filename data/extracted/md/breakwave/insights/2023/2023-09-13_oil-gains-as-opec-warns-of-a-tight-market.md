@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/9/13/oil-gains-as-opec-warns-of-a-tight-market"
 images_count: 1
-word_count: 594
+word_count: 595
 source_file: "corpus/03-breakwave/insights/2023/2023-09-13_oil-gains-as-opec-warns-of-a-tight-market.html"
 ---
 
@@ -33,6 +33,6 @@ A loss in momentum in China’s property sector weighed on industrial metals. Oi
 
 **European gas** took a breather from recent gains as the market weighs up supply disruptions with weak demand. Workers at LNG facilities in Australia remained at a loggerhead with Chevron over wages and conditions. The LNG exporter has applied to the regulators to help resolve the dispute with unions; however, the case is not scheduled to be heard until 22 September. Before then, it’s expected workers will move to full-scale walkouts which is likely to see output impacted. Meanwhile, supplies from Norway also remain curbed. Maintenance has persisted longer than expected, resulting in the shortfall in supply. This has been mitigated by the high level of inventories.**North Asian LNG** spot prices edged higher amid signs China is returning to the market. Unipec released a tender for more than a dozen LNG cargoes this winter. If China’s appetite for the fuel is rising, this could create competitive tensions in the global LNG market just as supply risks rise.
 
-**Industrial metals** fell as the outlook for China’s property sector weakened. Investor sentiment remains bleak, with holders of yuan bonds issued by Sino-Ocean Capital rejecting a motion to extend principal and interest payments. Home sales in the nation’s cities are also losing steam despite curbs on mortgages being loosened recently. In Beijing, sales of existing homes plunged 35% to about 1700 units last weekend, from 2,600 in the week prior. Across China, transactions continued to drop, falling up to 20% according to China Index Holdings.**Copper** edged lower on the weaker sentiment.**Iron ore**futures manage to buck the trend and extend gains as traders look through the weak home sales to focus on stronger credit that should provide some support for steel demand.
+**Industrial metals** fell as the outlook for China’s property sector weakened. Investor sentiment remains bleak, with holders of yuan bonds issued by Sino-Ocean Capital rejecting a motion to extend principal and interest payments. Home sales in the nation’s cities are also losing steam despite curbs on mortgages being loosened recently. In Beijing, sales of existing homes plunged 35% to about 1700 units last weekend, from 2,600 in the week prior. Across China, transactions continued to drop, falling up to 20% according to China Index Holdings.**Copper** edged lower on the weaker sentiment.**Iron ore** futures manage to buck the trend and extend gains as traders look through the weak home sales to focus on stronger credit that should provide some support for steel demand.
 
 **Gold** moved further lower after a breach of key technical support sparked selling. The market is also cautious ahead of US CPI data. Any surprises to the upside could raise expectations of another rate hike, which would be negative for the precious metal.

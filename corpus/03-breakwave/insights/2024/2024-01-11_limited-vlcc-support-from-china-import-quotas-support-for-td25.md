@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/1/11/limited-vlcc-support-from-china-import-quotas-support-for-td25"
 images_count: 2
-word_count: 728
+word_count: 730
 source_file: "corpus/03-breakwave/insights/2024/2024-01-11_limited-vlcc-support-from-china-import-quotas-support-for-td25.html"
 ---
 

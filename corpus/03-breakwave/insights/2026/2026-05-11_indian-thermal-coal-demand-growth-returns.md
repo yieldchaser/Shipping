@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/11/indian-thermal-coal-demand-growth-returns"
 tags: ["Drybulk", "Coal", "Markets"]
 images_count: 3
-word_count: 351
+word_count: 354
 source_file: "corpus/03-breakwave/insights/2026/2026-05-11_indian-thermal-coal-demand-growth-returns.html"
 ---
 
@@ -29,7 +29,7 @@ As we discussed in Commodore Research's most recent Weekly Executive Report, Ind
 > **Figure 1: Chart 1**  
 > [Local Asset](assets/2026-05-11_indian-thermal-coal-demand-growth-returns_img_chart1_ea3a107c0acc.jpg)
 
-Coal-derived electricity generation totaled approximately 121.1 billion kilowatt hours. This is up month-on-month by 1.2 billion kilowatt hours (1%) and is up year-on-year by 2 billion kilowatt hours (2%). Previously, India’s coal-derived generation had declined on a year-on-year basis during nine of the prior twelve months, which had marked the**only time this decade**that such an event had occurred. As we have been stressing in our work, the war in Iran has been drastically changing thermal coal demand in India (and globally). Indian coal import prospects have suddenly become bullish again.
+Coal-derived electricity generation totaled approximately 121.1 billion kilowatt hours. This is up month-on-month by 1.2 billion kilowatt hours (1%) and is up year-on-year by 2 billion kilowatt hours (2%). Previously, India’s coal-derived generation had declined on a year-on-year basis during nine of the prior twelve months, which had marked the **only time this decade** that such an event had occurred. As we have been stressing in our work, the war in Iran has been drastically changing thermal coal demand in India (and globally). Indian coal import prospects have suddenly become bullish again.
 
 ![Chart 2](assets/2026-05-11_indian-thermal-coal-demand-growth-returns_img_chart2_71c52c6e08fc.jpg)
 

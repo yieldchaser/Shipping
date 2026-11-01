@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/21/the-big-picture-global-steel-trades-and-chinas-steel-sector"
 tags: ["Drybulk", "China", "Iron Ore"]
 images_count: 3
-word_count: 1058
+word_count: 1061
 source_file: "corpus/03-breakwave/insights/2024/2024-06-21_the-big-picture-global-steel-trades-and-chinas-steel-sector.html"
 ---
 

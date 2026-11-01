@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/4/6/06m5d20vesu5oj8syk3lxfg9not6vv"
 images_count: 13
-word_count: 2543
+word_count: 2556
 source_file: "corpus/03-breakwave/insights/2023/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv.html"
 ---
 
@@ -171,7 +171,7 @@ In the clean segment, we have noticed a trend of more exports from Qatar to the 
 
 ## Increasing VLCC Seagoing Ballast Speed to Adjust to the Recent Mood in the Freight Market
 
-The first quarter of the year ended with the highest sea speed ever recorded for VLCC tankers since the beginning of 2021. In the last days of March, VLCC tanker ballast speed exceeded the 12 knot ceiling as rates from WS MEG /China peaked before the end of the month. It appears that the remarkable upward cycle of rates seen in March is now gradually cooling, but the upward trend remains to support higher ballast speed nodes for crude oil tankers. (**Image**12)
+The first quarter of the year ended with the highest sea speed ever recorded for VLCC tankers since the beginning of 2021. In the last days of March, VLCC tanker ballast speed exceeded the 12 knot ceiling as rates from WS MEG /China peaked before the end of the month. It appears that the remarkable upward cycle of rates seen in March is now gradually cooling, but the upward trend remains to support higher ballast speed nodes for crude oil tankers. (**Image** 12)
 
 ![Image 12: Vessel Speeds & WS Rates](assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afe2bf77a0c69133b4f57-image12vess_5f6d05e76202.png)
 

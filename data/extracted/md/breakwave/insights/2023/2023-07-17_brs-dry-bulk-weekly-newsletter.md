@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/7/17/brs-dry-bulk-weekly-newsletter"
 tags: ["Drybulk", "Shipping", "Supplychain"]
 images_count: 6
-word_count: 1321
+word_count: 1327
 source_file: "corpus/03-breakwave/insights/2023/2023-07-17_brs-dry-bulk-weekly-newsletter.html"
 ---
 

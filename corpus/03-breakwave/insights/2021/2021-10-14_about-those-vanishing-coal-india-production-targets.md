@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/13/about-those-vanishing-coal-india-production-targets"
 tags: ["Economy", "Coal", "India"]
 images_count: 3
-word_count: 633
+word_count: 636
 source_file: "corpus/03-breakwave/insights/2021/2021-10-14_about-those-vanishing-coal-india-production-targets.html"
 ---
 

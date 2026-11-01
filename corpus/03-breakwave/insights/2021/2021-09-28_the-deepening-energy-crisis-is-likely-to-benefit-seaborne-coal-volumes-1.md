@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/28/the-deepening-energy-crisis-is-likely-to-benefit-seaborne-coal-volumes-1"
 tags: ["Economy", "Coal", "Crisis"]
 images_count: 4
-word_count: 918
+word_count: 922
 source_file: "corpus/03-breakwave/insights/2021/2021-09-28_the-deepening-energy-crisis-is-likely-to-benefit-seaborne-coal-volumes-1.html"
 ---
 

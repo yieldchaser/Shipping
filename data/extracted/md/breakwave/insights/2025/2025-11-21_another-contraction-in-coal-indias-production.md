@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/21/another-contraction-in-coal-indias-production"
 tags: ["Coal", "Shipping", "Drybulk"]
 images_count: 3
-word_count: 336
+word_count: 339
 source_file: "corpus/03-breakwave/insights/2025/2025-11-21_another-contraction-in-coal-indias-production.html"
 ---
 

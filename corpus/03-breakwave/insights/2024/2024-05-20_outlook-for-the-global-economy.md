@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/20/outlook-for-the-global-economy"
 tags: ["Markets", "Shipping", "Commodities"]
 images_count: 1
-word_count: 1434
+word_count: 1435
 source_file: "corpus/03-breakwave/insights/2024/2024-05-20_outlook-for-the-global-economy.html"
 ---
 

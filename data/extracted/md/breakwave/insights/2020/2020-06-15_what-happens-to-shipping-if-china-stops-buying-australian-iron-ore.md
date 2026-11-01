@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/15/what-happens-to-shipping-if-china-stops-buying-australian-iron-ore"
 tags: ["Shipping", "Capesize", "Dry Bulk", "China", "Brazil", "Australia"]
 images_count: 2
-word_count: 790
+word_count: 792
 source_file: "corpus/03-breakwave/insights/2020/2020-06-15_what-happens-to-shipping-if-china-stops-buying-australian-iron-ore.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/24/vlccs-freight-boom-reprices-the-fleet"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 1
-word_count: 668
+word_count: 669
 source_file: "corpus/03-breakwave/insights/2026/2026-09-24_vlccs-freight-boom-reprices-the-fleet.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/7/has-vlcc-mileage-bottomed-out"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 4
-word_count: 1264
+word_count: 1268
 source_file: "corpus/03-breakwave/insights/2024/2024-11-07_has-vlcc-mileage-bottomed-out.html"
 ---
 

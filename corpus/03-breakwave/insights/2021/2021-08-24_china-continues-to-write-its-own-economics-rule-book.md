@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/24/china-continues-to-write-its-own-economics-rule-book"
 tags: ["China", "Shipping", "Economy"]
 images_count: 4
-word_count: 1194
+word_count: 1198
 source_file: "corpus/03-breakwave/insights/2021/2021-08-24_china-continues-to-write-its-own-economics-rule-book.html"
 ---
 

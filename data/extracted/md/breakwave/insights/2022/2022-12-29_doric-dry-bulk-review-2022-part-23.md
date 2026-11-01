@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-23"
 images_count: 19
-word_count: 12689
+word_count: 12708
 source_file: "corpus/03-breakwave/insights/2022/2022-12-29_doric-dry-bulk-review-2022-part-23.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/22/iran-flows-steady-venezuela-exports-lag"
 tags: ["Crude", "Markets", "Tankers"]
 images_count: 2
-word_count: 889
+word_count: 891
 source_file: "corpus/03-breakwave/insights/2025/2025-08-22_iran-flows-steady-venezuela-exports-lag.html"
 ---
 

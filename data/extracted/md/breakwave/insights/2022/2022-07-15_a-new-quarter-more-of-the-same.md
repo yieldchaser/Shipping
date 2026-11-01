@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/15/a-new-quarter-more-of-the-same"
 images_count: 3
-word_count: 1437
+word_count: 1440
 source_file: "corpus/03-breakwave/insights/2022/2022-07-15_a-new-quarter-more-of-the-same.html"
 ---
 

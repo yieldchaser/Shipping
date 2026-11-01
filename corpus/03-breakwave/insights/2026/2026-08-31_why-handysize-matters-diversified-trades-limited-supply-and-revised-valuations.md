@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/8/31/why-handysize-matters-diversified-trades-limited-supply-and-revised-valuations"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 5
-word_count: 1492
+word_count: 1497
 source_file: "corpus/03-breakwave/insights/2026/2026-08-31_why-handysize-matters-diversified-trades-limited-supply-and-revised-valuations.html"
 ---
 

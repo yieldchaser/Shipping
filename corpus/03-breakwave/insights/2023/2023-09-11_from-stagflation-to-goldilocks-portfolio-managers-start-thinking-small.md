@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/9/11/from-stagflation-to-goldilocks-portfolio-managers-start-thinking-small"
 images_count: 2
-word_count: 1219
+word_count: 1221
 source_file: "corpus/03-breakwave/insights/2023/2023-09-11_from-stagflation-to-goldilocks-portfolio-managers-start-thinking-small.html"
 ---
 
@@ -27,7 +27,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-09-11_from-stagflation-to-g
 2. *The Fed is entering officially a “wait and see mode”. We may have already seen the end of US rate hikes. A September hike will probably be skipped. One more rate hike could be in store, but data would have to worsen from where we are today.*
 3. *Fund managers can take “bets” on the general outcome of the market, to be sure, but currently, they would be low-confidence bets. More high-value calls may be found below the first layer of asset allocation, in the geographies, industries and security selection.*
 
-Going into the final stretch of the year, the one thing we can tell with any level of certainty is that we now know even less than I did going into it. To be sure, our theme from the beginning of 2023 was “[prolonged disruption](https://www.mazars.co.uk/Home/Services/Financial-Planning/Latest-economic-market-and-investment-news/Quarterly-investment-outlook-Q1-2023)”. But deep down, I had hoped that I was wrong. That as the year progressed and we climbed the peak of the interest rate[mountain](https://www.artsy.net/article/artsy-editorial-unraveling-mysteries-caspar-david-friedrichs-wanderer), we would look around and gain clarity. Alas, the view keeps shifting and the landscape looks like a perma-crisis. Some days I feel like Dante who found himself travelling down nine circles of Hell, only to figure out that climbing Purgatory came next.
+Going into the final stretch of the year, the one thing we can tell with any level of certainty is that we now know even less than I did going into it. To be sure, our theme from the beginning of 2023 was “[prolonged disruption](https://www.mazars.co.uk/Home/Services/Financial-Planning/Latest-economic-market-and-investment-news/Quarterly-investment-outlook-Q1-2023)”. But deep down, I had hoped that I was wrong. That as the year progressed and we climbed the peak of the interest rate [mountain](https://www.artsy.net/article/artsy-editorial-unraveling-mysteries-caspar-david-friedrichs-wanderer), we would look around and gain clarity. Alas, the view keeps shifting and the landscape looks like a perma-crisis. Some days I feel like Dante who found himself travelling down nine circles of Hell, only to figure out that climbing Purgatory came next.
 
 The pandemic, which came on the tales of a raging trade war and geopolitical tectonic shifts (see “India is the new China”), has upended the stable post-GFC regime and thrown the global economy in turmoil. In this environment, everyone sees what they want to see.
 

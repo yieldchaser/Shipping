@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/7/chinas-steel-production-continues-to-grow-air-pollution-recently-up-too"
 tags: ["China", "Economy", "Markets"]
 images_count: 3
-word_count: 345
+word_count: 348
 source_file: "corpus/03-breakwave/insights/2025/2025-03-07_chinas-steel-production-continues-to-grow-air-pollution-recently-up-too.html"
 ---
 

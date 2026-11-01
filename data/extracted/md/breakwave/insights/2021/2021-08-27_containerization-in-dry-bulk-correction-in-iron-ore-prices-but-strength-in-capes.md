@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/27/containerization-in-dry-bulk-correction-in-iron-ore-prices-but-strength-in-capesize-rates"
 tags: ["Shipping", "Containers"]
 images_count: 1
-word_count: 505
+word_count: 506
 source_file: "corpus/03-breakwave/insights/2021/2021-08-27_containerization-in-dry-bulk-correction-in-iron-ore-prices-but-strength-in-capes.html"
 ---
 
@@ -30,7 +30,7 @@ At present, the dry bulk market continues to fare very well and prospects for al
 
 Going forward, there is a solid chance that China’s iron ore import demand will increase soon as long as global iron ore miners continue to ramp up production. If demand for imports does ultimately increase, capesize rates will likely reach extremely high levels this year. Miners still very much want to sell iron ore even with prices remaining well below this year's high of $221/ton.
 
-![A1](assets/2021-08-27_containerization-in-dry-bulk-correction-in-iron-ore-prices-but-strength-in-capes_img_a1_8ab51351d185.jpg)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-27_containerization-in-dry-bulk-correction-in-iron-ore-prices-but-strength-in-capes_img_a1_8ab51351d185.jpg)
 
 > **Figure 1: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-27_containerization-in-dry-bulk-correction-in-iron-ore-prices-but-strength-in-capes_img_a1_8ab51351d185.jpg)

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/1/27/rising-tensions-in-eastern-europe-and-dry-bulk-shipping"
 tags: ["Shipping", "Dry Bulk", "Easterneurope", "Russia"]
 images_count: 4
-word_count: 1191
+word_count: 1195
 source_file: "corpus/03-breakwave/insights/2022/2022-01-27_rising-tensions-in-eastern-europe-and-dry-bulk-shipping.html"
 ---
 

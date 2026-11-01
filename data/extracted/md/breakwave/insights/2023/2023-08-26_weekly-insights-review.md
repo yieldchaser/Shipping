@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/8/26/weekly-insights-review"
 images_count: 7
-word_count: 882
+word_count: 889
 source_file: "corpus/03-breakwave/insights/2023/2023-08-26_weekly-insights-review.html"
 ---
 
@@ -77,7 +77,7 @@ Commodity markets edged higher after Beijing slightly eased monetary policy to h
 ## Divergence in China's Coal-Derived Electricity Generation and Hydropower Generation Continues
 
 Thermal coal-derived electricity generation continues to make up the bulk of China's electricity production
-[Read More](https://www.breakwaveadvisors.com/insights/2023/8/23/divergence-in-chinas-coal-derived-electricity-generation-and-hydropower-generation-continues)
+ [Read More](https://www.breakwaveadvisors.com/insights/2023/8/23/divergence-in-chinas-coal-derived-electricity-generation-and-hydropower-generation-continues)
 
 ![Third Week of August Began with More Robust Sentiment](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-26_weekly-insights-review_img_unnamed284129_863a02ee88ea.jpg)
 

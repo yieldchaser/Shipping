@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/6/30/global-steel-contraction-continues"
 images_count: 2
-word_count: 407
+word_count: 409
 source_file: "corpus/03-breakwave/insights/2022/2022-06-30_global-steel-contraction-continues.html"
 ---
 

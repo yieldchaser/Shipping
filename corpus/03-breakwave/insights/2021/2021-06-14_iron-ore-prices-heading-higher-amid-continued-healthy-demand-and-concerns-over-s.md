@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/14/iron-ore-prices-heading-higher-amid-continued-healthy-demand-and-concerns-over-supply"
 tags: ["Capesize", "Dry Bulk"]
 images_count: 4
-word_count: 944
+word_count: 948
 source_file: "corpus/03-breakwave/insights/2021/2021-06-14_iron-ore-prices-heading-higher-amid-continued-healthy-demand-and-concerns-over-s.html"
 ---
 

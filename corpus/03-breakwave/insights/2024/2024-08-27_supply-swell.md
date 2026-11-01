@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/27/supply-swell"
 tags: ["Tankers", "Crude", "Shipping"]
 images_count: 2
-word_count: 755
+word_count: 757
 source_file: "corpus/03-breakwave/insights/2024/2024-08-27_supply-swell.html"
 ---
 

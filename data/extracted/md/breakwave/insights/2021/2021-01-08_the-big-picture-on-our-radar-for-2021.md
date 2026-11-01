@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/7/the-big-picture-on-our-radar-for-2021"
 tags: ["Steel", "Dry Bulk", "Panamax", "Capesize"]
 images_count: 3
-word_count: 1424
+word_count: 1427
 source_file: "corpus/03-breakwave/insights/2021/2021-01-08_the-big-picture-on-our-radar-for-2021.html"
 ---
 
@@ -40,7 +40,7 @@ While iron ore futures are pricing in expectations of tight supply, there are si
 
 Worsening relations between China and Australia spilled into the dry market towards the end of last year, in the form of an official ban on imports of Australian coking coal. 23 Capes and 52 Panamaxes remain outside Chinese ports, unable to discharge, with a median waiting duration of over 90 days so far. As a result, coking coal prices in China have surged, and the ban has already reshaped trade flows. We saw some of the cargoes waiting in China diverted to nearby countries such as Vietnam and South Korea, while India’s share of Australian exports grew over the last few months.
 
-![Bmr 60](assets/2021-01-08_the-big-picture-on-our-radar-for-2021_img_bmr60_feecb4143cd5.png)
+![Bmr 60](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-08_the-big-picture-on-our-radar-for-2021_img_bmr60_feecb4143cd5.png)
 
 > **Figure 1: Bmr 60**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-08_the-big-picture-on-our-radar-for-2021_img_bmr60_feecb4143cd5.png)
@@ -55,7 +55,7 @@ The elephant in the room is of course iron ore trade. China relies extremely hea
 
 Though it was overshadowed by the pandemic, the dry market enjoyed better trade relations between the US and China in 2020, which saw grain trade between the two countries more than double YoY to almost 36m tonnes. As US soybean exports appear to have recovered, weather-related crop destruction in China in 2020 also increased the country’s appetite for corn imports. US - China corn trade on bulkers hit a record 2.7m tonnes over Q4 last year and has remained strong so far this year, helping to push Supramax and Panamax rates to multi-year highs for January.
 
-![Bmr 61](assets/2021-01-08_the-big-picture-on-our-radar-for-2021_img_bmr61_ccb1f6ca5722.png)
+![Bmr 61](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-08_the-big-picture-on-our-radar-for-2021_img_bmr61_ccb1f6ca5722.png)
 
 > **Figure 2: Bmr 61**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-08_the-big-picture-on-our-radar-for-2021_img_bmr61_ccb1f6ca5722.png)
@@ -70,7 +70,7 @@ We’re also seeing shake-ups elsewhere in the grain market. Argentina recently 
 
 Removals of over-age ships last year took longer to get going than we had expected at the start of 2020, owing to a combination of shuttered demolition yards in the first half and a strong freight environment in the second. However towards the end of the year we saw a meaningful increase in removals of these vessels. Aside from the converted VLOC fleet, which was gradually demolished over the year, in Q4 we recorded 6 Panamax removals.
 
-![Bmr 62](assets/2021-01-08_the-big-picture-on-our-radar-for-2021_img_bmr62_653a0fc34950.png)
+![Bmr 62](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-08_the-big-picture-on-our-radar-for-2021_img_bmr62_653a0fc34950.png)
 
 > **Figure 3: Bmr 62**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-08_the-big-picture-on-our-radar-for-2021_img_bmr62_653a0fc34950.png)

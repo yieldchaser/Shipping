@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/11/24/coal-seaborne-volumes-in-record-territory"
 tags: ["Coal", "Price", "Energy", "Energycrisis"]
 images_count: 7
-word_count: 1179
+word_count: 1186
 source_file: "corpus/03-breakwave/insights/2021/2021-11-24_coal-seaborne-volumes-in-record-territory.html"
 ---
 

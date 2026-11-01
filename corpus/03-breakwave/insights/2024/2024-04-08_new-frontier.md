@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/8/new-frontier"
 tags: ["Tankers", "Shipping"]
 images_count: 2
-word_count: 540
+word_count: 542
 source_file: "corpus/03-breakwave/insights/2024/2024-04-08_new-frontier.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/19/rumor-falsified-on-mongolia-coal-tariff"
 tags: ["Coal", "Shipping", "Markets"]
 images_count: 5
-word_count: 1194
+word_count: 1199
 source_file: "corpus/03-breakwave/insights/2025/2025-06-19_rumor-falsified-on-mongolia-coal-tariff.html"
 ---
 

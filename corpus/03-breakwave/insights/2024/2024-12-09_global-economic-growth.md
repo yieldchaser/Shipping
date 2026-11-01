@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/12/9/global-economic-growth"
 tags: ["Shipping", "Drybulk", "Economy"]
 images_count: 2
-word_count: 1066
+word_count: 1068
 source_file: "corpus/03-breakwave/insights/2024/2024-12-09_global-economic-growth.html"
 ---
 

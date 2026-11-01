@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/2/tanker-1h-2026-strong-vlcc-earnings-drive-newbuilding-and-secondhand-investment"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 7
-word_count: 1213
+word_count: 1220
 source_file: "corpus/03-breakwave/insights/2026/2026-09-02_tanker-1h-2026-strong-vlcc-earnings-drive-newbuilding-and-secondhand-investment.html"
 ---
 

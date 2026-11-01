@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/12/opec-crude-exports-rise-in-january-while-non-opec-dips"
 tags: ["Crudeoil", "Markets", "Shipping"]
 images_count: 2
-word_count: 926
+word_count: 928
 source_file: "corpus/03-breakwave/insights/2025/2025-02-12_opec-crude-exports-rise-in-january-while-non-opec-dips.html"
 ---
 

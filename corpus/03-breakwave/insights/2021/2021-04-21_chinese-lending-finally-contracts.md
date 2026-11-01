@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/19/chinese-lending-finally-contracts"
 tags: ["China"]
 images_count: 2
-word_count: 330
+word_count: 332
 source_file: "corpus/03-breakwave/insights/2021/2021-04-21_chinese-lending-finally-contracts.html"
 ---
 

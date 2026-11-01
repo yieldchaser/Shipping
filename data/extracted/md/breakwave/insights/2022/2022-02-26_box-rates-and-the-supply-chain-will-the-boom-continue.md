@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/2/24/box-rates-and-the-supply-chain-will-the-boom-continue"
 tags: ["Containers", "Box", "Rates", "Supplychain"]
 images_count: 2
-word_count: 932
+word_count: 934
 source_file: "corpus/03-breakwave/insights/2022/2022-02-26_box-rates-and-the-supply-chain-will-the-boom-continue.html"
 ---
 

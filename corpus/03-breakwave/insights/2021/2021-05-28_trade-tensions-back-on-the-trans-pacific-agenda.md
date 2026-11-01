@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/28/trade-tensions-back-on-the-trans-pacific-agenda"
 tags: ["China", "Australia", "Trade"]
 images_count: 3
-word_count: 872
+word_count: 875
 source_file: "corpus/03-breakwave/insights/2021/2021-05-28_trade-tensions-back-on-the-trans-pacific-agenda.html"
 ---
 

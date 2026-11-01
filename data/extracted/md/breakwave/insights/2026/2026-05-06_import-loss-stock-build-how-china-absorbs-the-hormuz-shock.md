@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/6/import-loss-stock-build-how-china-absorbs-the-hormuz-shock"
 tags: ["China", "Crude", "Markets"]
 images_count: 4
-word_count: 1897
+word_count: 1901
 source_file: "corpus/03-breakwave/insights/2026/2026-05-06_import-loss-stock-build-how-china-absorbs-the-hormuz-shock.html"
 ---
 

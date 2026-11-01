@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/21/9dcienhj117wywf4e4wsa6g5a5enpk"
 tags: ["Dry Bulk", "Capesize", "Panamax"]
 images_count: 3
-word_count: 900
+word_count: 903
 source_file: "corpus/03-breakwave/insights/2021/2021-03-22_9dcienhj117wywf4e4wsa6g5a5enpk.html"
 ---
 
@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-03-22_9dcienhj117wywf4e4wsa
 > **Figure 1: Unsplash Image Knxqv2d2pgi**  
 > **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/3/5/in-dry-bulk-nothing-goes-straight-up) | [Local Asset](assets/2021-03-22_9dcienhj117wywf4e4wsa6g5a5enpk_img_unsplash-image-knxqv2d2pgi_807fc5208684.jpg)
 
-A few weeks ago,[we predicted](https://www.breakwaveadvisors.com/insights/2021/3/5/in-dry-bulk-nothing-goes-straight-up)that rates across dry bulk will start to top out and possibly even turn lower as we head towards the end of the month. We forecasted relatively stable Capesize rates which could lead to a convergence of the higher futures curve towards spot levels while the sub-cape sector was set for flattish to lower spot rates as seasonality would weight on South American grain cargo flow.
+A few weeks ago,[we predicted](https://www.breakwaveadvisors.com/insights/2021/3/5/in-dry-bulk-nothing-goes-straight-up) that rates across dry bulk will start to top out and possibly even turn lower as we head towards the end of the month. We forecasted relatively stable Capesize rates which could lead to a convergence of the higher futures curve towards spot levels while the sub-cape sector was set for flattish to lower spot rates as seasonality would weight on South American grain cargo flow.
 
 **So far, we have clearly been wrong.**
 

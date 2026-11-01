@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/6/2/aging-sanctioned-and-stranded-the-new-structural-reality-in-the-market"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 1
-word_count: 657
+word_count: 658
 source_file: "corpus/03-breakwave/insights/2026/2026-06-02_aging-sanctioned-and-stranded-the-new-structural-reality-in-the-market.html"
 ---
 

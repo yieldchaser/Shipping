@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/29/ustr-proposal-more-clarity-or-not"
 tags: ["Shipping", "Drybulk", "Markets"]
 images_count: 6
-word_count: 1367
+word_count: 1373
 source_file: "corpus/03-breakwave/insights/2025/2025-04-29_ustr-proposal-more-clarity-or-not.html"
 ---
 
@@ -34,11 +34,11 @@ The Office of the United States Trade Representative (USTR), following extensive
 
 In a nutshell, under the revised terms, a vessel will now be subject to either: (a) one of the three fees directed under Annex I, II, or III; or (b) a requirement under Annex IV. In addition, there is a preferential order for applying these fees as follows: Annex IV > III > I > II, and on a non-cumulative basis.
 
-For the purpose of bulkers, only**Annex I (Service Fee on Chinese Vessel Operators and Vessel Owners of China)**&**Annex II (Service Fee on Vessel Operators of Chinese-Built Vessels)**are applicable, Annex III and IV does not.
+For the purpose of bulkers, only **Annex I (Service Fee on Chinese Vessel Operators and Vessel Owners of China)**&**Annex II (Service Fee on Vessel Operators of Chinese-Built Vessels)**are applicable, Annex III and IV does not.
 
 **Annex I**– Annex I fees are solely based on ownership or operator, not on technical or voyage specifications. A bulker that meets the conditions of Annex I, e.g., a vessel operated by a Chinese entity or owned by a Chinese entity, will be subject to the fees imposed under Annex I. Once Annex I fees apply to a bulker, there is no need to consider Annex IIfees or its exemptions.
 
-**Annex II**- A Chinese-built bulker under non-Chinese control is exempted from Annex II if it 1) US-owned, 2) equal or under 80,000 Dwt, 3) Arriving in ballast**or**4) Incoming voyage is within 2,000 nautical miles. If all these exemptions are not applicable, then the Chinese-built bulker under non-Chinese control will face the (less steeper) Annex II fees.
+**Annex II**- A Chinese-built bulker under non-Chinese control is exempted from Annex II if it 1) US-owned, 2) equal or under 80,000 Dwt, 3) Arriving in ballast **or**4) Incoming voyage is within 2,000 nautical miles. If all these exemptions are not applicable, then the Chinese-built bulker under non-Chinese control will face the (less steeper) Annex II fees.
 
 Nonetheless, the most fuss-free way to totally avoid Annex I and Annex II penalties is to simply use tonnage of
 

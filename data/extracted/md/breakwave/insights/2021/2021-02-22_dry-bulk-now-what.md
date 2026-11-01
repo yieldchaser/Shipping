@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/21/dry-bulk-now-what"
 tags: ["Dry Bulk", "Capesize", "Panamax"]
 images_count: 4
-word_count: 1212
+word_count: 1216
 source_file: "corpus/03-breakwave/insights/2021/2021-02-22_dry-bulk-now-what.html"
 ---
 
@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-02-22_dry-bulk-now-what.htm
 
 ---
 
-![Baltic Dry Index](assets/2021-02-22_dry-bulk-now-what_img_container-ship-in-harbor-472138673-3_ed5a47ca136f.jpeg)
+![Baltic Dry Index](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-22_dry-bulk-now-what_img_container-ship-in-harbor-472138673-3_ed5a47ca136f.jpeg)
 
 > **Figure 1: Baltic Dry Index**  
 > *Baltic Dry Index, 10-Year Seasonality and Current Implied Futures*  
@@ -30,7 +30,7 @@ As spot rate volatility seems to be cooling off and futures have now gradually r
 
 Interestingly, for believers of a new upcycle in shipping, the more of a dismissal of such a potential state for the market the better, as all relevant investments (futures, assets, stocks) will continue to reflect low expectations thus providing an opportunity for further bullish positioning into the cycle as the year progresses.
 
-![Brazilian Capesize Demand Remains Below Trend](assets/2021-02-22_dry-bulk-now-what_img_bdiseasonality_c364f4b6f42c.jpg)
+![Brazilian Capesize Demand Remains Below Trend](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-22_dry-bulk-now-what_img_bdiseasonality_c364f4b6f42c.jpg)
 
 > **Figure 2: Brazilian Capesize Demand Remains Below Trend**  
 > *Brazilian Capesize demand remains below trend*  
@@ -44,7 +44,7 @@ Consequently, our attention turns to Capesizes, which, despite the recent signif
 
 Although the high iron ore prices (overnight, Chinese iron ore futures reached a new all time high) are overall pushing more iron ore in the water, while relatively strong demand for bauxite out West Africa and coal cargoes to Asia are adding to tonne-miles, the market needs even more iron ore exports out of Brazil to see a substantial increase in Capesize demand. On top of the lackluster current iron ore cargo flow, a large number of Capesize vessels are now steaming towards the Atlantic basin to take advantage of the relatively stronger rates there, which should limit any near term potential. As a result, for now, a major rally in Capesize rates should be on hold, despite the fact that Panamax rates would be pointing to almost 30,000 spot Capesize rates all else equal, based on the historical relationship between the two (Note: this is also by far the consensus view, and although we tend to agree with consensus, any indication of strengthening in rates will lead to a significant squeeze in the futures market given the current traders positioning, in our view)
 
-![Brazil to China Freight Cost As a % of Spot Iron Ore Price](assets/2021-02-22_dry-bulk-now-what_img_briofixtures_f69a8a69a319.png)
+![Brazil to China Freight Cost As a % of Spot Iron Ore Price](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-22_dry-bulk-now-what_img_briofixtures_f69a8a69a319.png)
 
 > **Figure 3: Brazil to China Freight Cost As a % of Spot Iron Ore Price**  
 > *Brazil to China Freight Cost as a % of Spot Iron Ore Price*  
@@ -54,7 +54,7 @@ Not all is bad though for Capesize rates. As it is always the case, once the sup
 
 We have again and again made predictions about the direction and level of rates which sometimes were wrong but more times were right. With less than two months into 2021, our thesis of the strongest year for dry bulk in a decade has so far been proven correct. It is early, but all signs continue to point to a material change in both sentiment towards commodities, and thus shipping, but also a fundamental shift in the industry’s supply/demand balance that should only further tighten in the next several years. Volatility will remain elevated for dry bulk rates, and we anticipate that the Capesize spot index will, at some point this year, print north of 50,000, something that has not been seen since late 2010. Although such level might sound quite high, one has to remember that as a percentage of the current delivered iron ore price of some $175/t, such a prediction translates to a freight cost just above the historical average.
 
-![C3 vs Iron Ore Spot](assets/2021-02-22_dry-bulk-now-what_img_c3vsironorespot_569df8baee21.jpg)
+![C3 vs Iron Ore Spot](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-22_dry-bulk-now-what_img_c3vsironorespot_569df8baee21.jpg)
 
 > **Figure 4: C3 vs Iron Ore Spot**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-22_dry-bulk-now-what_img_c3vsironorespot_569df8baee21.jpg)

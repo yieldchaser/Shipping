@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/29/argentina-soybeans-to-china"
 tags: ["Tankers", "Crude", "Markets"]
 images_count: 17
-word_count: 1825
+word_count: 1842
 source_file: "corpus/03-breakwave/insights/2025/2025-09-29_argentina-soybeans-to-china.html"
 ---
 

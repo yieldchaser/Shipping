@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/12/data-spotlight-fewer-cargoes-longer-distances"
 tags: ["Tankers", "Geopolitics", "VLCC"]
 images_count: 2
-word_count: 442
+word_count: 444
 source_file: "corpus/03-breakwave/insights/2026/2026-05-12_data-spotlight-fewer-cargoes-longer-distances.html"
 ---
 
@@ -27,7 +27,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-05-12_data-spotlight-fewer-
 
 The disruption to Middle East crude exports continues to reshape the VLCC market, but headline cargo losses only tell part of the story.
 
-While global VLCC fixture volumes have declined amid restrictions to traditional Middle East crude flows, the impact on tonnemiles has been far more resilient. Our analysis of[April fixture activity](http://app.tankersinternational.com/)shows that mainstream global VLCC tonnemiles have recovered to levels comparable with the period before the conflict disrupted regional exports.
+While global VLCC fixture volumes have declined amid restrictions to traditional Middle East crude flows, the impact on tonnemiles has been far more resilient. Our analysis of [April fixture activity](http://app.tankersinternational.com/) shows that mainstream global VLCC tonnemiles have recovered to levels comparable with the period before the conflict disrupted regional exports.
 
 The explanation lies in changing trade patterns. As Middle East barrels have become inaccessible, Asian buyers are increasingly sourcing crude from the Atlantic Basin, particularly the US Gulf, West Africa and South America. These replacement trades require significantly longer voyages, keeping vessels employed for extended periods and materially increasing tonnemile demand despite lower overall cargo counts.
 

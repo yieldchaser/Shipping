@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/11/20/2021-dry-bulk-outlook-minor-bulks"
 tags: ["Minor Bulks", "COVID-19"]
 images_count: 4
-word_count: 1524
+word_count: 1528
 source_file: "corpus/03-breakwave/insights/2020/2020-11-20_2021-dry-bulk-outlook-minor-bulks.html"
 ---
 

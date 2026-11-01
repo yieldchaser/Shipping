@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/15/venezuelan-crude-exports-drop-in-april-amid-export-licence-revocation"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 2
-word_count: 1028
+word_count: 1030
 source_file: "corpus/03-breakwave/insights/2025/2025-05-15_venezuelan-crude-exports-drop-in-april-amid-export-licence-revocation.html"
 ---
 

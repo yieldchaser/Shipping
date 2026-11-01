@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/4/chinas-year-end-crude-quota-release"
 tags: ["Crude", "Shipping", "Markets"]
 images_count: 3
-word_count: 802
+word_count: 805
 source_file: "corpus/03-breakwave/insights/2025/2025-12-05_chinas-year-end-crude-quota-release.html"
 ---
 

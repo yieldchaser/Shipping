@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/9/21/large-number-of-us-grain-sales-to-china-continue"
 tags: ["China", "Grains"]
 images_count: 1
-word_count: 175
+word_count: 176
 source_file: "corpus/03-breakwave/insights/2020/2020-09-21_large-number-of-us-grain-sales-to-china-continue.html"
 ---
 

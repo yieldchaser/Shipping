@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/15/usac-gasoline-demand-looking-better-than-margins-are-suggesting"
 tags: ["Economy", "Markets"]
 images_count: 3
-word_count: 858
+word_count: 861
 source_file: "corpus/03-breakwave/insights/2024/2024-05-15_usac-gasoline-demand-looking-better-than-margins-are-suggesting.html"
 ---
 

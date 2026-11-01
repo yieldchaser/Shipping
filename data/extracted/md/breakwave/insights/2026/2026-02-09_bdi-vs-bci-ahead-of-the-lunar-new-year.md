@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/9/bdi-vs-bci-ahead-of-the-lunar-new-year"
 tags: ["Crude", "Tankers", "Geopolitics"]
 images_count: 3
-word_count: 746
+word_count: 749
 source_file: "corpus/03-breakwave/insights/2026/2026-02-09_bdi-vs-bci-ahead-of-the-lunar-new-year.html"
 ---
 

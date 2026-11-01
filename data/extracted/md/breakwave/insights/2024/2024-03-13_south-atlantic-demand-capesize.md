@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/13/south-atlantic-demand-capesize"
 tags: ["Drybulk", "Shipping", "Freightrates"]
 images_count: 5
-word_count: 1071
+word_count: 1076
 source_file: "corpus/03-breakwave/insights/2024/2024-03-13_south-atlantic-demand-capesize.html"
 ---
 

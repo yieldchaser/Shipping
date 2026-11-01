@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/15/soybean-dry-bulk-flows"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 5
-word_count: 1492
+word_count: 1497
 source_file: "corpus/03-breakwave/insights/2025/2025-05-15_soybean-dry-bulk-flows.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-05-15_soybean-dry-bulk-flow
 ---
 
 **Dry Weekly Market Monitor - Week 20, 2025**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 May 14, 2025
 
 ![Στιγμιότυπο Οθόνης 2025 05 15 104113](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e679e142b1f7.png)

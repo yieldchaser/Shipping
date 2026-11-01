@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/19/private-credit-still-quite-far-from-a-2008-event"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 6
-word_count: 1777
+word_count: 1783
 source_file: "corpus/03-breakwave/insights/2026/2026-03-19_private-credit-still-quite-far-from-a-2008-event.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/4/29/the-simandou-effect-the-story-so-far"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 2
-word_count: 1082
+word_count: 1084
 source_file: "corpus/03-breakwave/insights/2026/2026-04-29_the-simandou-effect-the-story-so-far.html"
 ---
 

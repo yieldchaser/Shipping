@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/12/dirty-amp-clean-tonne-days"
 tags: ["Shipping", "Tankers", "Crude"]
 images_count: 12
-word_count: 1701
+word_count: 1713
 source_file: "corpus/03-breakwave/insights/2024/2024-07-12_dirty-amp-clean-tonne-days.html"
 ---
 
@@ -44,30 +44,30 @@ In June, OPEC+ crude production, as reported by secondary sources, declined by 1
 
 ​​​​The downward trend in VLCC MEG-China freight rates persisted for another week, while there appears to be resistance in the Aframax Med route, although rates remain weaker compared to a month ago.
 
-- The**VLCC**MEG-China freight rates have dropped to 46 WS, marking a 13% decrease compared to rates observed one month ago.
-- Suezmax freight rates for shipments from**West Africa to continental****Europe**have dropped below 100 WS, indicating an 11% decrease compared to levels observed a month ago. Similarly, rates on the**Suez Baltic Med route**have decreased below 120 WS, but they indicate an 18% increase compared to levels from the same week a year ago.
-- Aframax**Mediterranean**freight rates have remained steady, with indications of an increase to around WS160, marking a 26% rise compared to a year ago.
+- The **VLCC** MEG-China freight rates have dropped to 46 WS, marking a 13% decrease compared to rates observed one month ago.
+- Suezmax freight rates for shipments from **West Africa to continental** **Europe** have dropped below 100 WS, indicating an 11% decrease compared to levels observed a month ago. Similarly, rates on the **Suez Baltic Med route** have decreased below 120 WS, but they indicate an 18% increase compared to levels from the same week a year ago.
+- Aframax **Mediterranean** freight rates have remained steady, with indications of an increase to around WS160, marking a 26% rise compared to a year ago.
 
 ![Στιγμιότυπο Οθόνης 2024 07 12 123136](assets/2024-07-12_dirty-amp-clean-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9bb37cbe4634.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 07 12 123136**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-07-12_dirty-amp-clean-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9bb37cbe4634.png)
 
-- **LR2**AG freight rates have dropped to WS180, reflecting a 10-point decrease from rates observed a week ago. Recent sentiment suggests a 7% increase compared to the same week last year.
+- **LR2** AG freight rates have dropped to WS180, reflecting a 10-point decrease from rates observed a week ago. Recent sentiment suggests a 7% increase compared to the same week last year.
 
 ![Στιγμιότυπο Οθόνης 2024 07 12 123151](assets/2024-07-12_dirty-amp-clean-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f9ea66b3551b.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 07 12 123151**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-07-12_dirty-amp-clean-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f9ea66b3551b.png)
 
-- **Panamax**Carib-to-USG rates remained unchanged from the previous week, hovering around WS 165, which is 16% weaker compared to rates observed during a similar week last year.
+- **Panamax** Carib-to-USG rates remained unchanged from the previous week, hovering around WS 165, which is 16% weaker compared to rates observed during a similar week last year.
 
 ![Στιγμιότυπο Οθόνης 2024 07 12 123203](assets/2024-07-12_dirty-amp-clean-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f00e9940971.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 07 12 123203**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-07-12_dirty-amp-clean-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f00e9940971.png)
 
-- **MR1**rates for shipments from the**Baltic to the continent**have shown weaker momentum since the end of June, reaching nearly 240 WS and indicating an 18% decrease compared to levels observed a month ago. Meanwhile,**MR2 rates**for shipments from the**continent to the USAC**climbed to 185 WS, reflecting a 20% annual increase. On the USG-Cont route, MR2 rates eased from last week's peaks to 150 WS, still marking a 30% annual increase.
+- **MR1** rates for shipments from the **Baltic to the continent** have shown weaker momentum since the end of June, reaching nearly 240 WS and indicating an 18% decrease compared to levels observed a month ago. Meanwhile,**MR2 rates** for shipments from the **continent to the USAC** climbed to 185 WS, reflecting a 20% annual increase. On the USG-Cont route, MR2 rates eased from last week's peaks to 150 WS, still marking a 30% annual increase.
 
 ![Στιγμιότυπο Οθόνης 2024 07 12 123952](assets/2024-07-12_dirty-amp-clean-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8ef7334a6c61.png)
 
@@ -102,22 +102,22 @@ The supply trend for crude tankers at the VLCC Ras Tanura has begun to indicate 
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-07-12_dirty-amp-clean-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e0b70299d30.png)
 
 - **Clean LR2 AG Jubail**: The downward trend in the number of vessels observed in the last days of June has reversed to an upward movement in the first two weeks of July. The count is now nearing 12, indicating a potential increase above the annual trend in the coming days.
-- **Clean MR:**Vessel activity for**MR1**at Algeria's Skikda port has increased to 29, marking a rise of nearly 6 from the low observed last week. Meanwhile,**MR2**activity in Amsterdam climbed above 40 but has since shown signs of a downward revision to nearly 30, still higher than the low point observed in week 18.
+- **Clean MR:**Vessel activity for **MR1** at Algeria's Skikda port has increased to 29, marking a rise of nearly 6 from the low observed last week. Meanwhile,**MR2** activity in Amsterdam climbed above 40 but has since shown signs of a downward revision to nearly 30, still higher than the low point observed in week 18.
 
 ![Στιγμιότυπο Οθόνης 2024 07 12 124443](assets/2024-07-12_dirty-amp-clean-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b45973eca6d4.png)
 
 > **Figure 11: Στιγμιότυπο Οθόνης 2024 07 12 124443**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-07-12_dirty-amp-clean-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b45973eca6d4.png)
 
-- **Dirty**tonne days: The growth of VLCC tonne-days slowed, though there are signs of a slight upward shift in the second week of July. In the Suezmax segment, early indications of a potential upward reversal at the end of June were not confirmed, resulting in a downward correction in the first half of July. The Aframax segment, which saw a potential upward trend reaching a peak two weeks ago, has since decreased. It remains to be seen how this growth will evolve for the rest of the month.
+- **Dirty** tonne days: The growth of VLCC tonne-days slowed, though there are signs of a slight upward shift in the second week of July. In the Suezmax segment, early indications of a potential upward reversal at the end of June were not confirmed, resulting in a downward correction in the first half of July. The Aframax segment, which saw a potential upward trend reaching a peak two weeks ago, has since decreased. It remains to be seen how this growth will evolve for the rest of the month.
 
 ![Στιγμιότυπο Οθόνης 2024 07 12 124455](assets/2024-07-12_dirty-amp-clean-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cd99f5719d81.png)
 
 > **Figure 12: Στιγμιότυπο Οθόνης 2024 07 12 124455**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-07-12_dirty-amp-clean-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cd99f5719d81.png)
 
-- **Panamax**tonne days: Despite signs of improvement, growth rates remain significantly weaker compared to the peak observed in week 13.
-- For**Clean MR**tonne days, MR1 vessels appear to have reached their lowest growth point and are now gradually recording a firmer pace, although this remains weaker than the growth seen four weeks ago. Meanwhile, the growth in tonne-days for MR2 vessels continues to follow a similar trend as observed in the previous weeks of June
+- **Panamax** tonne days: Despite signs of improvement, growth rates remain significantly weaker compared to the peak observed in week 13.
+- For **Clean MR** tonne days, MR1 vessels appear to have reached their lowest growth point and are now gradually recording a firmer pace, although this remains weaker than the growth seen four weeks ago. Meanwhile, the growth in tonne-days for MR2 vessels continues to follow a similar trend as observed in the previous weeks of June
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/3/ustr-suspension-impact-on-dry-bulk-newbuilding"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 5
-word_count: 1445
+word_count: 1450
 source_file: "corpus/03-breakwave/insights/2026/2026-02-03_ustr-suspension-impact-on-dry-bulk-newbuilding.html"
 ---
 

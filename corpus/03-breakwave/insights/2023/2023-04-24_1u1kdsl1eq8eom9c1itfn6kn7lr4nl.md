@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/4/24/1u1kdsl1eq8eom9c1itfn6kn7lr4nl"
 images_count: 7
-word_count: 1534
+word_count: 1541
 source_file: "corpus/03-breakwave/insights/2023/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl.html"
 ---
 
@@ -98,7 +98,7 @@ The shift had already emerged in recent years, according to an IMF analysis that
 
 Last month’s improvement are mainly led by exports to ASEAN countries. However, it is unlikely that ASEAN’s appetite can completely replace China’s main trading partners - the US and the EU down the stretch. The real challenge will likely surface in 2H2023 when the US economy might languish and the effects of monetary policy tightening by the FED on China’s exports will materialize.
 
-Lastly, with consumption weak, domestic and foreign investment lackluster, and exports on a limp, the only reliable option left would be**government**-led infrastructure spending.
+Lastly, with consumption weak, domestic and foreign investment lackluster, and exports on a limp, the only reliable option left would be **government**-led infrastructure spending.
 
 To fund such expenditure, either tax is raised, or debt is issued. It has been well reported that China has been suffering from a budget deficit with local provinces needing help from the central government to tide through tough times. In the future, the possibility of a top-down bailout by Beijing seems remote, as local governments are left to their own devices to solve their debt problems. It appears that issuance of debt is a no-brainer as multiple reports of China selling Infrastructure bonds in 2022 surfaced.
 

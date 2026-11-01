@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/25/breakwave-weekend-read-547kk-rw7zy-awmfb-mf26k-dk29d-56ysb-x3jbe-xbwk9-dnpbr-b6jhc-l4mb2-d4l2e-f7l54-fsr59-y9ckz"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 13
-word_count: 1714
+word_count: 1727
 source_file: "corpus/03-breakwave/insights/2026/2026-02-06_breakwave-weekend-read-547kk-rw7zy-awmfb-mf26k-dk29d-56ysb-x3jbe-xbwk9-dnpbr-b6j.html"
 ---
 
@@ -150,7 +150,7 @@ Braemar Research
 > **Figure 12: Unsplash Image 3j1kq7kf6ka**  
 > **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2026/2/5/dry-bulk-markets-stay-firm-ahead-of-lunar-new-year-pressure-points) | [Local Asset](assets/2026-02-06_breakwave-weekend-read-547kk-rw7zy-awmfb-mf26k-dk29d-56ysb-x3jbe-xbwk9-dnpbr-b6j_img_unsplash-image-3j1kq7kf6ka_0a106d587a4e.jpg)
 
-While the**WAUS–China**trade remains the largest by volume, the Africa–North China Capesize route has seen a larger increase in tonne-mile demand over the last year than the Brazil–China route.
+While the **WAUS–China** trade remains the largest by volume, the Africa–North China Capesize route has seen a larger increase in tonne-mile demand over the last year than the Brazil–China route.
 
 Signal Ocean Dry Weekly Market Monitor
 

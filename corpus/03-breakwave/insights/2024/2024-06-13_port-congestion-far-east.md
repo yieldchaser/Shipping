@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/13/port-congestion-far-east"
 tags: ["Drybulk", "Shipping", "Capesize"]
 images_count: 5
-word_count: 1170
+word_count: 1175
 source_file: "corpus/03-breakwave/insights/2024/2024-06-13_port-congestion-far-east.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-06-13_port-congestion-far-e
 ---
 
 **Dry Weekly Market Monitor - Week 24, 2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 June 12, 2024
 
 ![Στιγμιότυπο Οθόνης 2024 06 13 130424](assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d76b54dabdab.png)
@@ -29,7 +29,7 @@ June 12, 2024
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 06 13 130424**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/s-over-weakening-china-demand-/2q91zt/415707861/h/rlzV8UeXeX9LMvM2EW9G_E9XjJUsKkiklV1iZ0hJ2lg) | [Local Asset](assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d76b54dabdab.png)
 
-In the second week of June, there's a notable development in Capesize vessel rates on the Brazil to North China route, indicating a firmer momentum. Concurrently, the count of ballast ships has been steadily decreasing, nearing the annual average trend. However, it remains uncertain whether this firmness will persist for the rest of the month, given that the growth in demand tonne days has yet to show signs of a surprising rise. Meanwhile, concerns persist about Chinese economic prosperity, particularly regarding firm demand for[iron ore](https://go.signalocean.com/e/983831/s-over-weakening-china-demand-/2q91zt/415707861/h/rlzV8UeXeX9LMvM2EW9G_E9XjJUsKkiklV1iZ0hJ2lg). Although signs point to a strong appetite for coal, clouds hover over China's economic outlook. Import data from customs and Reuters revealed that China's coal imports surged by 11% in May compared to the previous year. Lower domestic output has necessitated increased shipments of international coal.
+In the second week of June, there's a notable development in Capesize vessel rates on the Brazil to North China route, indicating a firmer momentum. Concurrently, the count of ballast ships has been steadily decreasing, nearing the annual average trend. However, it remains uncertain whether this firmness will persist for the rest of the month, given that the growth in demand tonne days has yet to show signs of a surprising rise. Meanwhile, concerns persist about Chinese economic prosperity, particularly regarding firm demand for [iron ore](https://go.signalocean.com/e/983831/s-over-weakening-china-demand-/2q91zt/415707861/h/rlzV8UeXeX9LMvM2EW9G_E9XjJUsKkiklV1iZ0hJ2lg). Although signs point to a strong appetite for coal, clouds hover over China's economic outlook. Import data from customs and Reuters revealed that China's coal imports surged by 11% in May compared to the previous year. Lower domestic output has necessitated increased shipments of international coal.
 
 According to customs data, China imported 43.82 million metric tons of coal in May, compared to 39.58 million tons in May 2023, as recorded by Reuters. These developments underscore the intricate interplay between global trade dynamics and China's economic trajectory, with implications for the broader maritime industry.
 

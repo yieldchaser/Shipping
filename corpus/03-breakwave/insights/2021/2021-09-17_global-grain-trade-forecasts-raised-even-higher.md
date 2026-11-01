@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/17/global-grain-trade-forecasts-raised-even-higher"
 tags: ["Global", "Grains", "Trade"]
 images_count: 4
-word_count: 436
+word_count: 440
 source_file: "corpus/03-breakwave/insights/2021/2021-09-17_global-grain-trade-forecasts-raised-even-higher.html"
 ---
 

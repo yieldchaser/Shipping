@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/4/seaborne-volumes-of-iron-ore-and-coal-on-the-rise-in-may"
 tags: ["Coal", "China"]
 images_count: 4
-word_count: 907
+word_count: 911
 source_file: "corpus/03-breakwave/insights/2021/2021-06-07_seaborne-volumes-of-iron-ore-and-coal-on-the-rise-in-may.html"
 ---
 
@@ -22,21 +22,21 @@ source_file: "corpus/03-breakwave/insights/2021/2021-06-07_seaborne-volumes-of-i
 
 *By Ulf Bergman*
 
-![Vale Iron Ore](assets/2021-06-07_seaborne-volumes-of-iron-ore-and-coal-on-the-rise-in-may_img_valeironore_8df1d54c5aac.jpg)
+![Vale Iron Ore](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-07_seaborne-volumes-of-iron-ore-and-coal-on-the-rise-in-may_img_valeironore_8df1d54c5aac.jpg)
 
 > **Figure 1: Vale Iron Ore**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-07_seaborne-volumes-of-iron-ore-and-coal-on-the-rise-in-may_img_valeironore_8df1d54c5aac.jpg)
 
 The recent attempts by the Chinese authorities to control rising commodity prices have so far only resulted in limited lasting effects. Iron ore prices were singled out early on, following the spectacular gains in the last year. By making life more difficult for the steel producers with extended environmental controls and announcing a clampdown on speculation and hoarding, the Chinese leaderships hoped to reduce demand and by extension prices. The iron ore prices fell initially when the measures were announced, but have since recuperated some of the losses and are now approximately ten per cent below the highs recorded during the first half of May. Despite the efforts, the amount of iron ore discharged in Chinese ports increased in May to a new record for the month. Compared to the same month last year, the amount of iron ore arriving increased by two per cent and the volumes were five per cent higher than in April, according to data from Oceanbolt. It is worth bearing in mind that when using seaborne tracking statistics it is unlikely that it will correspond perfectly with official customs data, as there are differences concerning when cargoes are deemed as having been discharged.
 
-![Ulf 1 6.4](assets/2021-06-07_seaborne-volumes-of-iron-ore-and-coal-on-the-rise-in-may_img_ulf164_024df4f190ed.png)
+![Ulf 1 6.4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-07_seaborne-volumes-of-iron-ore-and-coal-on-the-rise-in-may_img_ulf164_024df4f190ed.png)
 
 > **Figure 2: Ulf 1 6.4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-07_seaborne-volumes-of-iron-ore-and-coal-on-the-rise-in-may_img_ulf164_024df4f190ed.png)
 
 While it may be too early to judge if the measures to control the prices through the demand side will eventually prevail, Beijing may get assistance in its quest from the supply side. Adverse weather conditions in Australia and coronavirus-related disruptions in Brazil have affected the iron ore output volumes in recent months. The Brazilian exports showed a healthy increase in May, compared to the preceding month, but the volumes were still lower than what can be achieved. The second half of last year saw iron ore shipments of between 30 million and 35 million tonnes per month, which suggest that there is potential for even more supplies once the disruptions have dissipated. Additionally, Australian mining giant, BHP, commenced production in its South Flank mine in Western Australia during the latter part of May. The new site is expected to produce 80 million tonnes per annum and is set to eventually replace the Yandi mine, which is nearing the end of its productive life.
 
-![Ulf 2 6.4](assets/2021-06-07_seaborne-volumes-of-iron-ore-and-coal-on-the-rise-in-may_img_ulf264_f89cd9bcf9a6.png)
+![Ulf 2 6.4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-07_seaborne-volumes-of-iron-ore-and-coal-on-the-rise-in-may_img_ulf264_f89cd9bcf9a6.png)
 
 > **Figure 3: Ulf 2 6.4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-07_seaborne-volumes-of-iron-ore-and-coal-on-the-rise-in-may_img_ulf264_f89cd9bcf9a6.png)
@@ -45,7 +45,7 @@ While increasing exports from both Brazil and Australia are likely to be welcome
 
 It is not only iron ore that is recovering globally, demand for coal is also rebounding. While still not back at pre-pandemic levels, global seaborne export volumes grew by thirteen per cent in May, compared to the same month last year. Coal prices have also recently benefited from increasing demand as high temperatures across North Asia have increased the use of air conditioning and driven the electricity consumption higher. The heatwave is adding to the already strong growth in demand with the industrial recovery from the pandemic is spreading beyond China.
 
-![Ulf 3 6.4](assets/2021-06-07_seaborne-volumes-of-iron-ore-and-coal-on-the-rise-in-may_img_ulf364_581746207975.png)
+![Ulf 3 6.4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-07_seaborne-volumes-of-iron-ore-and-coal-on-the-rise-in-may_img_ulf364_581746207975.png)
 
 > **Figure 4: Ulf 3 6.4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-07_seaborne-volumes-of-iron-ore-and-coal-on-the-rise-in-may_img_ulf364_581746207975.png)

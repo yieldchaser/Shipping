@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/7/23/capesize-decline-to-slow-down-but-turnaround-still-weeks-away"
 tags: ["Shipping", "Capesize", "Dry Bulk"]
 images_count: 2
-word_count: 563
+word_count: 565
 source_file: "corpus/03-breakwave/insights/2020/2020-07-23_capesize-decline-to-slow-down-but-turnaround-still-weeks-away.html"
 ---
 

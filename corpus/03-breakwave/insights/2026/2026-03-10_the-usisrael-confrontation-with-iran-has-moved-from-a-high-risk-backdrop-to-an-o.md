@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/10/the-usisrael-confrontation-with-iran-has-moved-from-a-high-risk-backdrop-to-an-operational-shipping-event"
 tags: ["Tankers", "Markets", "Shipping"]
 images_count: 1
-word_count: 674
+word_count: 675
 source_file: "corpus/03-breakwave/insights/2026/2026-03-10_the-usisrael-confrontation-with-iran-has-moved-from-a-high-risk-backdrop-to-an-o.html"
 ---
 

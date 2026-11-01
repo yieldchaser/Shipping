@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/5/dry-bulk-fleet-composition-in-the-first-nine-months-of-2025"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 7
-word_count: 1325
+word_count: 1332
 source_file: "corpus/03-breakwave/insights/2025/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025.html"
 ---
 

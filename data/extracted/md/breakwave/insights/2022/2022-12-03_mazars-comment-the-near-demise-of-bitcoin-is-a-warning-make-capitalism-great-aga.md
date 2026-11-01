@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/12/3/mazars-comment-the-near-demise-of-bitcoin-is-a-warning-make-capitalism-great-again"
 images_count: 2
-word_count: 1387
+word_count: 1389
 source_file: "corpus/03-breakwave/insights/2022/2022-12-03_mazars-comment-the-near-demise-of-bitcoin-is-a-warning-make-capitalism-great-aga.html"
 ---
 

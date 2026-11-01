@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/5/17/the-big-picture-iron-ore-improving"
 images_count: 4
-word_count: 1313
+word_count: 1317
 source_file: "corpus/03-breakwave/insights/2022/2022-05-17_the-big-picture-iron-ore-improving.html"
 ---
 

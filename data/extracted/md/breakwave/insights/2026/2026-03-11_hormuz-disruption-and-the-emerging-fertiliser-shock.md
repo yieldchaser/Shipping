@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/11/hormuz-disruption-and-the-emerging-fertiliser-shock"
 tags: ["Markets", "Shipping", "Commodities"]
 images_count: 2
-word_count: 1731
+word_count: 1733
 source_file: "corpus/03-breakwave/insights/2026/2026-03-11_hormuz-disruption-and-the-emerging-fertiliser-shock.html"
 ---
 

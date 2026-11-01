@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/5/the-impact-of-proposed-tariffs"
 tags: ["Shipping", "Markets", "China"]
 images_count: 1
-word_count: 543
+word_count: 544
 source_file: "corpus/03-breakwave/insights/2025/2025-03-05_the-impact-of-proposed-tariffs.html"
 ---
 

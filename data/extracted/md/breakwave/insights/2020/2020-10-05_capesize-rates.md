@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/5/capesize-rates"
 tags: ["Shipping", "Dry Bulk", "Brazil", "China"]
 images_count: 4
-word_count: 973
+word_count: 977
 source_file: "corpus/03-breakwave/insights/2020/2020-10-05_capesize-rates.html"
 ---
 

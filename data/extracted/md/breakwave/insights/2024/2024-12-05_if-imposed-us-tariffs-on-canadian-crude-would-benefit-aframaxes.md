@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/12/5/if-imposed-us-tariffs-on-canadian-crude-would-benefit-aframaxes"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 4
-word_count: 1204
+word_count: 1208
 source_file: "corpus/03-breakwave/insights/2024/2024-12-05_if-imposed-us-tariffs-on-canadian-crude-would-benefit-aframaxes.html"
 ---
 

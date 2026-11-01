@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/28/chinas-coastal-surge-amp-an-unprecedented-lunar-new-year"
 tags: ["China", "Steel"]
 images_count: 2
-word_count: 576
+word_count: 578
 source_file: "corpus/03-breakwave/insights/2021/2021-03-02_chinas-coastal-surge-amp-an-unprecedented-lunar-new-year.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-03-02_chinas-coastal-surge-
 
 [*by Jeffrey Landsberg*](mailto:jeffrey@commodore-research.com)
 
-![Soya Panamax](assets/2021-03-02_chinas-coastal-surge-amp-an-unprecedented-lunar-new-year_img_soyapanamax_9058e861a1ed.jpg)
+![Soya Panamax](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-02_chinas-coastal-surge-amp-an-unprecedented-lunar-new-year_img_soyapanamax_9058e861a1ed.jpg)
 
 > **Figure 1: Soya Panamax**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-02_chinas-coastal-surge-amp-an-unprecedented-lunar-new-year_img_soyapanamax_9058e861a1ed.jpg)
@@ -33,7 +33,7 @@ For now, China’s spot coal cargo demand remains lower than was seen earlier th
 
 Chinese steel prices, though, continue to find impressive support. The average price of hot rolled coil, for example, ended last week at approximately 4,980 yuan/ton. This is up week-on-week by 3% and has marked yet another new high for this year. Overall, it remains very positive that Chinese steel prices have been maintaining their strength even as a robust amount of steel is being produced. The most recently released data shows daily crude steel production at large and medium-sized mills in China averaged a record 2.28 million tons during February 11 - February 20. This is 6% higher than was seen during the previous ten days and has far exceeded the prior record of 2.22 million tons.
 
-![Commodore 2](assets/2021-03-02_chinas-coastal-surge-amp-an-unprecedented-lunar-new-year_img_commodore2_c5f14acf3e90.jpg)
+![Commodore 2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-02_chinas-coastal-surge-amp-an-unprecedented-lunar-new-year_img_commodore2_c5f14acf3e90.jpg)
 
 > **Figure 2: Commodore 2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-02_chinas-coastal-surge-amp-an-unprecedented-lunar-new-year_img_commodore2_c5f14acf3e90.jpg)

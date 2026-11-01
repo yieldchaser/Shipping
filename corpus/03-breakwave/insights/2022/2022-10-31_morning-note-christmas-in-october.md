@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/31/morning-note-christmas-in-october"
 images_count: 4
-word_count: 1076
+word_count: 1080
 source_file: "corpus/03-breakwave/insights/2022/2022-10-31_morning-note-christmas-in-october.html"
 ---
 

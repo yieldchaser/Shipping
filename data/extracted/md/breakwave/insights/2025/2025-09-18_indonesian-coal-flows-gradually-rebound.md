@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/18/indonesian-coal-flows-gradually-rebound"
 tags: ["Coal", "Drybulk", "Markets"]
 images_count: 13
-word_count: 1699
+word_count: 1712
 source_file: "corpus/03-breakwave/insights/2025/2025-09-18_indonesian-coal-flows-gradually-rebound.html"
 ---
 

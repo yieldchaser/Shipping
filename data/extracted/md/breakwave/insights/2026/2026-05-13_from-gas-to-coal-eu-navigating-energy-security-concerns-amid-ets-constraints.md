@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/13/from-gas-to-coal-eu-navigating-energy-security-concerns-amid-ets-constraints"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 5
-word_count: 1365
+word_count: 1370
 source_file: "corpus/03-breakwave/insights/2026/2026-05-13_from-gas-to-coal-eu-navigating-energy-security-concerns-amid-ets-constraints.html"
 ---
 

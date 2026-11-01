@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/6/5/the-big-ai-test-is-ahead-of-us"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 2
-word_count: 1625
+word_count: 1627
 source_file: "corpus/03-breakwave/insights/2026/2026-06-05_the-big-ai-test-is-ahead-of-us.html"
 ---
 

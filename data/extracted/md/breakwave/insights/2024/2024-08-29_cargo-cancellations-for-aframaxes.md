@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/29/cargo-cancellations-for-aframaxes"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 2
-word_count: 882
+word_count: 884
 source_file: "corpus/03-breakwave/insights/2024/2024-08-29_cargo-cancellations-for-aframaxes.html"
 ---
 

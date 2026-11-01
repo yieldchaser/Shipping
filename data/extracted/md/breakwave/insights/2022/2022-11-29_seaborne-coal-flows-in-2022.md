@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/29/seaborne-coal-flows-in-2022"
 images_count: 7
-word_count: 1959
+word_count: 1966
 source_file: "corpus/03-breakwave/insights/2022/2022-11-29_seaborne-coal-flows-in-2022.html"
 ---
 

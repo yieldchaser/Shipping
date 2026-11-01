@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/16/turkish-delight"
 tags: ["Tankers", "Shipping"]
 images_count: 2
-word_count: 582
+word_count: 584
 source_file: "corpus/03-breakwave/insights/2024/2024-04-16_turkish-delight.html"
 ---
 

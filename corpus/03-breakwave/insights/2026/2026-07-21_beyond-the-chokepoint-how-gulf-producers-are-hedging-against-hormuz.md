@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/7/21/beyond-the-chokepoint-how-gulf-producers-are-hedging-against-hormuz"
 tags: ["Tanker", "Markets", "Shipping"]
 images_count: 1
-word_count: 676
+word_count: 677
 source_file: "corpus/03-breakwave/insights/2026/2026-07-21_beyond-the-chokepoint-how-gulf-producers-are-hedging-against-hormuz.html"
 ---
 

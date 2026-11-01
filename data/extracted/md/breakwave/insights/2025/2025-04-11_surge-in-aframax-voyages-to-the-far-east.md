@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/11/surge-in-aframax-voyages-to-the-far-east"
 tags: ["Tankers", "Crude", "Markets"]
 images_count: 10
-word_count: 1741
+word_count: 1751
 source_file: "corpus/03-breakwave/insights/2025/2025-04-11_surge-in-aframax-voyages-to-the-far-east.html"
 ---
 

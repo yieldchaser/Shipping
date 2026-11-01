@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/17/gold-hits-record-high-amid-rising-expectations-of-rate-cuts"
 tags: ["Commodities", "Economy", "Shipping"]
 images_count: 2
-word_count: 729
+word_count: 731
 source_file: "corpus/03-breakwave/insights/2024/2024-07-17_gold-hits-record-high-amid-rising-expectations-of-rate-cuts.html"
 ---
 
@@ -37,7 +37,7 @@ The stronger USD has also weighed on investors across the metals complex.**Coppe
 
 **Battery metals** remained under pressure, despite recent supply side issues. BHP announced earlier this week that it was closing its WA nickel operations due to low prices. The market is also watching the impact of the proposed EU tariffs on China EV imports. The move is gaining bloc support, a secret non-binding ballot shows. A number of key governments, including Germany, abstained, with some planning to form a firmer position at a later date.
 
-**Iron ore**futures fell amid concerns of weak demand in China just as supply increases. Rio Tinto reported a 1.5% y/y rise in second quarter shipments of iron ore. In Brazil, exports averaged 1.66mt/d in the first 10 days of July, up 14% from the full month pace of July 2023. This comes following weak economic data released earlier this week. The value of home sales decreased by 26.9% y/y YTD in June, compared with a 30.5% decline over the first five months. The property investment sector remains weak, -10.1%y/y YTD.
+**Iron ore** futures fell amid concerns of weak demand in China just as supply increases. Rio Tinto reported a 1.5% y/y rise in second quarter shipments of iron ore. In Brazil, exports averaged 1.66mt/d in the first 10 days of July, up 14% from the full month pace of July 2023. This comes following weak economic data released earlier this week. The value of home sales decreased by 26.9% y/y YTD in June, compared with a 30.5% decline over the first five months. The property investment sector remains weak, -10.1%y/y YTD.
 
 **Crude oil** fell as a weaker USD and sign of softening demand triggered algorithmic selling. WTI futures are now testing their 100-day moving average, a key support level. Russia’s Deputy Prime Minister Alexander Novak said that the global oil market will remain balanced even when some members of the OPEC+ alliance gradually start to increase production. In the meantime, Russia plans to make extra crude output cuts to compensate for pumping above its quota, Bloomberg reported. The nation’s four-week average of oil exports fell to their lowest level since January.
 

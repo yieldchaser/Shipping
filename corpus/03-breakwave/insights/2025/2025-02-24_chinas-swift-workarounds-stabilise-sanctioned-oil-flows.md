@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/23/chinas-swift-workarounds-stabilise-sanctioned-oil-flows"
 tags: ["Crudeoil", "Markets", "Shipping"]
 images_count: 4
-word_count: 1582
+word_count: 1586
 source_file: "corpus/03-breakwave/insights/2025/2025-02-24_chinas-swift-workarounds-stabilise-sanctioned-oil-flows.html"
 ---
 
@@ -24,7 +24,7 @@ China’s sanctioned oil imports are rebounding as supply chain adaptations take
 
 *By*[*Emma Li*](https://www.linkedin.com/in/emma-li-73003443/)
 
-In the weeks immediately following[Shandong’s shipping ban and the new OFAC sanctions](https://www.vortexa.com/insights/crude/shandongs-ban-on-ofac-sanctioned-tankers-put-teapots-crude-arrivals-at-risk/)on tankers involved in Russian and Iranian trade, Shandong teapot refiners—the main buyers of discounted sanctioned oil—reduced refinery runs even during the Spring Festival travel rush prep season. Meanwhile, Shandong’s onshore crude inventories rapidly declined, as teapots largely stuck to sanctioned oil despite port discharge slowdowns at state-run Shandong Port Group (SPG) terminals.
+In the weeks immediately following [Shandong’s shipping ban and the new OFAC sanctions](https://www.vortexa.com/insights/crude/shandongs-ban-on-ofac-sanctioned-tankers-put-teapots-crude-arrivals-at-risk/) on tankers involved in Russian and Iranian trade, Shandong teapot refiners—the main buyers of discounted sanctioned oil—reduced refinery runs even during the Spring Festival travel rush prep season. Meanwhile, Shandong’s onshore crude inventories rapidly declined, as teapots largely stuck to sanctioned oil despite port discharge slowdowns at state-run Shandong Port Group (SPG) terminals.
 
 ![Στιγμιότυπο Οθόνης 2025 02 23 212408](assets/2025-02-24_chinas-swift-workarounds-stabilise-sanctioned-oil-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8325f73b1f48.png)
 
@@ -70,9 +70,9 @@ Due to the quick response of new entrants, the Kozmino-to-Shandong freight rate 
 
 However, this focus on ESPO has significantly tightened non-sanctioned Aframax availability on other Russian routes, leading to a surge in stranded volumes on sanctioned tankers. This impact is particularly pronounced near ports facing Western scrutiny, where sanctioned tankers are now holding record-high volumes of crude with limited prospects of being accepted by Asian buyers.
 
-While some Far East Sokol cargoes on sanctioned tankers have discharged at non-Shandong ports,[one non-sanctioned VLCC](https://analytics.vortexa.com/Historical?dateRange=2025-01-01T00%3A00%3A00.000Z__2025-02-28T23%3A59%3A59.999Z&metric=t&page=Historical&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%2C%225de0b00094e0fd7542c10f9f8a71b4008d55750f21dc905cda9b0f7f5f76bc08%22%5D&tabId=0bbf96e8-e0ac-4e55-abb9-b77745cb51ab&v=3&vessels=%5B%225f898da6ead4d4933397ffdaaae7441f767facdc44b108b5b06a338409202a03%22%5D)was deployed to transfer cargos from three sanctioned Aframaxes originally bound for India to Shandong refiners. This development also signals a potential uptick in Shandong’s demand for Russian Far East barrels, provided pricing becomes more favourable.
+While some Far East Sokol cargoes on sanctioned tankers have discharged at non-Shandong ports,[one non-sanctioned VLCC](https://analytics.vortexa.com/Historical?dateRange=2025-01-01T00%3A00%3A00.000Z__2025-02-28T23%3A59%3A59.999Z&metric=t&page=Historical&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%2C%225de0b00094e0fd7542c10f9f8a71b4008d55750f21dc905cda9b0f7f5f76bc08%22%5D&tabId=0bbf96e8-e0ac-4e55-abb9-b77745cb51ab&v=3&vessels=%5B%225f898da6ead4d4933397ffdaaae7441f767facdc44b108b5b06a338409202a03%22%5D) was deployed to transfer cargos from three sanctioned Aframaxes originally bound for India to Shandong refiners. This development also signals a potential uptick in Shandong’s demand for Russian Far East barrels, provided pricing becomes more favourable.
 
-VLCCs may also step in to ease Aframax tightness in Russia’s Baltic and Black Sea routes. At least[three non-sanctioned VLCCs](https://analytics.vortexa.com/Map?page=Map&tabId=9ad2e045-fa1a-485e-92b4-e6b1bd5da3f4&v=3&vessels=%5B%22ff3411ca76c050a3813608d2f32f27679f0d8d079aca5599f01d3d3504b88c37%22%2C%227233d2849bf0137298fcac95eb2c24fb854d36b4956e8bf81e43692d3ae8191c%22%2C%2267e8d02861b71be607e2c09f8c8294f0c58571f1b914361ee8cab922248db0c7%22%5D)are currently ballasting toward Baltics, after delivering Russian Urals or Arctic crude to Asian buyers last year. This suggests a likely resumption of STS-to-VLCC transfers for long-haul Russian deliveries, as non-sanctioned Aframax and Suezmax availability continues to tighten.
+VLCCs may also step in to ease Aframax tightness in Russia’s Baltic and Black Sea routes. At least [three non-sanctioned VLCCs](https://analytics.vortexa.com/Map?page=Map&tabId=9ad2e045-fa1a-485e-92b4-e6b1bd5da3f4&v=3&vessels=%5B%22ff3411ca76c050a3813608d2f32f27679f0d8d079aca5599f01d3d3504b88c37%22%2C%227233d2849bf0137298fcac95eb2c24fb854d36b4956e8bf81e43692d3ae8191c%22%2C%2267e8d02861b71be607e2c09f8c8294f0c58571f1b914361ee8cab922248db0c7%22%5D) are currently ballasting toward Baltics, after delivering Russian Urals or Arctic crude to Asian buyers last year. This suggests a likely resumption of STS-to-VLCC transfers for long-haul Russian deliveries, as non-sanctioned Aframax and Suezmax availability continues to tighten.
 
 ## China to Revert to Russian Urals Amid Retaliatory Tariffs and Narrowing Brent-Dubai Spread
 

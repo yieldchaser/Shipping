@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/12/4/2021-dry-bulk-outlook-supply-growth"
 tags: ["Dry Bulk", "Shipping", "Supply", "Capesize", "Panamax", "Supramax"]
 images_count: 5
-word_count: 2110
+word_count: 2115
 source_file: "corpus/03-breakwave/insights/2020/2020-12-04_2021-dry-bulk-outlook-supply-growth.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-12-04_2021-dry-bulk-outlook
 
 This is the 7th and final article in a series of articles where Klaveness Research goes through how the fundamentals impacting dry bulk freight rates are shaping up for 2021.
 
-In the first article we started off by having a look at the[big picture](https://www.breakwaveadvisors.com/insights/2020/10/22/2021-dry-bulk-outlook). In the subsequent five articles we drilled further down into the details of the demand side:[iron ore](https://www.breakwaveadvisors.com/insights/2020/10/29/2021-dry-bulk-outlook-iron-ore),[coal](https://www.breakwaveadvisors.com/insights/2020/11/6/2021-dry-bulk-outlook-coal),[grains](https://www.breakwaveadvisors.com/insights/2020/11/12/2021-dry-bulk-outlook-grains),[minor bulks](https://www.breakwaveadvisors.com/insights/2020/11/20/2021-dry-bulk-outlook-minor-bulks)and[bauxite](https://www.breakwaveadvisors.com/insights/2020/11/27/2021-dry-bulk-outlook-bauxite). We finish off the series in this article by having a look at the fleet growth.
+In the first article we started off by having a look at the [big picture](https://www.breakwaveadvisors.com/insights/2020/10/22/2021-dry-bulk-outlook). In the subsequent five articles we drilled further down into the details of the demand side:[iron ore](https://www.breakwaveadvisors.com/insights/2020/10/29/2021-dry-bulk-outlook-iron-ore),[coal](https://www.breakwaveadvisors.com/insights/2020/11/6/2021-dry-bulk-outlook-coal),[grains](https://www.breakwaveadvisors.com/insights/2020/11/12/2021-dry-bulk-outlook-grains),[minor bulks](https://www.breakwaveadvisors.com/insights/2020/11/20/2021-dry-bulk-outlook-minor-bulks) and [bauxite](https://www.breakwaveadvisors.com/insights/2020/11/27/2021-dry-bulk-outlook-bauxite). We finish off the series in this article by having a look at the fleet growth.
 
 ### The Link Between Freight Rates and Newbuild Orders, Walking Down the Memory Lane
 

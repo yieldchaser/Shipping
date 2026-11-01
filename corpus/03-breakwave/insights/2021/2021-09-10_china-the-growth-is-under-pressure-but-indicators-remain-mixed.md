@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/10/china-the-growth-is-under-pressure-but-indicators-remain-mixed"
 tags: ["China", "Economy", "Shipping"]
 images_count: 2
-word_count: 909
+word_count: 911
 source_file: "corpus/03-breakwave/insights/2021/2021-09-10_china-the-growth-is-under-pressure-but-indicators-remain-mixed.html"
 ---
 

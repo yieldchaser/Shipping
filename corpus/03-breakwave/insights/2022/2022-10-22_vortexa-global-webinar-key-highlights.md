@@ -19,7 +19,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-10-22_vortexa-global-webina
 
 ---
 
-The global oil market is about to enter a new phase of uncharted territory, characterized by significant supply and demand-side risks. From our Global Webinar on 20 October, we distill the top questions on the minds of the market and offer our views below using Vortexa’s real-time cargo and freight analytics data. You may access the full webinar from the link[here](https://www.vortexa.com/events/vortexa-global-webinar/).
+The global oil market is about to enter a new phase of uncharted territory, characterized by significant supply and demand-side risks. From our Global Webinar on 20 October, we distill the top questions on the minds of the market and offer our views below using Vortexa’s real-time cargo and freight analytics data. You may access the full webinar from the link [here](https://www.vortexa.com/events/vortexa-global-webinar/).
 
 ## 1. Are We Short on Oil or Not?
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/13/sale-and-purchase-activity-of-dry-bulk-comparatively-tanker"
 tags: ["Dry Bulk", "Shipping", "Tankers"]
 images_count: 2
-word_count: 473
+word_count: 475
 source_file: "corpus/03-breakwave/insights/2024/2024-06-13_sale-and-purchase-activity-of-dry-bulk-comparatively-tanker.html"
 ---
 

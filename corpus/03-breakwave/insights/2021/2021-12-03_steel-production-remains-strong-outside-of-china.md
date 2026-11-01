@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/12/2/steel-production-remains-strong-outside-of-china"
 tags: ["Steel", "Global", "China", "Production"]
 images_count: 5
-word_count: 603
+word_count: 608
 source_file: "corpus/03-breakwave/insights/2021/2021-12-03_steel-production-remains-strong-outside-of-china.html"
 ---
 

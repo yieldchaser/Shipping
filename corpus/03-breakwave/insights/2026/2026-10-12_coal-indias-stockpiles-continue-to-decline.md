@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/12/coal-indias-stockpiles-continue-to-decline"
 tags: ["Commodities", "Markets", "Coal"]
 images_count: 3
-word_count: 334
+word_count: 337
 source_file: "corpus/03-breakwave/insights/2026/2026-10-12_coal-indias-stockpiles-continue-to-decline.html"
 ---
 

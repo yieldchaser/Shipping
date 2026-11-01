@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/10/26/mmmjn1vp686t5gw19v01lp9djrplwb"
 images_count: 1
-word_count: 556
+word_count: 557
 source_file: "corpus/03-breakwave/insights/2023/2023-10-26_mmmjn1vp686t5gw19v01lp9djrplwb.html"
 ---
 
@@ -28,7 +28,7 @@ Rising geopolitical risks triggered a rerating of the risk premium in energy mar
 > **Figure 1: 1698271976878**  
 > **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-26_mmmjn1vp686t5gw19v01lp9djrplwb_img_1698271976878_26aeac13e2f3.png)
 
-**Crude oil**prices were under pressure early in the session after reports suggest Israel was delaying its ground invasion as the US readied air defence to protect American troops in the region. This has eased concerns that the conflict would escalate across the sector and disrupt oil supplies from major Middle East producers. Reports that the US and Saudi Arabia agreed to pursue diplomatic efforts to maintain stability across the Middle East also added to this belief. Compounding sentiment was a surprise gain in US inventories. Commercial crude oil stockpiles rose by 1,372kbbl last week. However, prices rallied sharply after a speech by Israel’s prime minister, Benjamin Netanyahu, warning that Israel is in a battle for its existence, but he wouldn’t explain the reasons for the timing of the planned ground assault. The market subsequently injected a fresh risk-war premium, with Brent quickly gaining more than USD3/bbl to break above USD90/bbl.
+**Crude oil** prices were under pressure early in the session after reports suggest Israel was delaying its ground invasion as the US readied air defence to protect American troops in the region. This has eased concerns that the conflict would escalate across the sector and disrupt oil supplies from major Middle East producers. Reports that the US and Saudi Arabia agreed to pursue diplomatic efforts to maintain stability across the Middle East also added to this belief. Compounding sentiment was a surprise gain in US inventories. Commercial crude oil stockpiles rose by 1,372kbbl last week. However, prices rallied sharply after a speech by Israel’s prime minister, Benjamin Netanyahu, warning that Israel is in a battle for its existence, but he wouldn’t explain the reasons for the timing of the planned ground assault. The market subsequently injected a fresh risk-war premium, with Brent quickly gaining more than USD3/bbl to break above USD90/bbl.
 
 **European gas** prices were steady as traders look for signs of colder weather in the coming weeks. Despite strong storage levels, the market remains vulnerable to supply disruptions as it heads towards the heating season. Russia’s threat to further constrain supplies was heightened after Vladimir Putin oversaw drills of Russia’s strategic nuclear forces, raising the stakes in the confrontation with the US and its allies over the war in Ukraine. This adds to concerns that LNG supply may be disrupted if the Israel-Hamas war spreads across the region, which is a key source of gas for the continent. Egypt’s LNG exports appear to be already impacted by the war, with ship tracking data showing them lagging season averages. This helped push North Asian LNG prices although gains were limited by data showing LNG inventories at Japanese utilities rose to 2.23mt.
 

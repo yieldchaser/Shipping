@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/1/2/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis"
 tags: ["Shipping", "Dry Bulk", "Tankers"]
 images_count: 10
-word_count: 2950
+word_count: 2960
 source_file: "corpus/03-breakwave/insights/2022/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis.html"
 ---
 

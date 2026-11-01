@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/11/19/dry-bulk-contracting-activity-and-price-trends"
 tags: ["Dry Bulk", "Shipping", "China"]
 images_count: 2
-word_count: 1053
+word_count: 1055
 source_file: "corpus/03-breakwave/insights/2021/2021-11-20_dry-bulk-contracting-activity-and-price-trends.html"
 ---
 

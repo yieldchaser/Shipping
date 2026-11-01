@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/1/oil-falls-as-focus-returns-to-economic-slowdown"
 images_count: 1
-word_count: 726
+word_count: 727
 source_file: "corpus/03-breakwave/insights/2022/2022-07-01_oil-falls-as-focus-returns-to-economic-slowdown.html"
 ---
 

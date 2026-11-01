@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/10/chinas-consumer-market-continues-to-turn-corner"
 tags: ["Sales", "Economy", "China"]
 images_count: 3
-word_count: 409
+word_count: 412
 source_file: "corpus/03-breakwave/insights/2021/2021-09-10_chinas-consumer-market-continues-to-turn-corner.html"
 ---
 

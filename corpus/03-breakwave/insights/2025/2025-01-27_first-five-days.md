@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/26/first-five-days"
 tags: ["Tankers", "Shipping", "Crude"]
 images_count: 2
-word_count: 971
+word_count: 973
 source_file: "corpus/03-breakwave/insights/2025/2025-01-27_first-five-days.html"
 ---
 

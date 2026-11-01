@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/16/capesize-futures-surge-as-the-atlantic-market-comes-back-roaring"
 tags: ["Shipping", "Capesize", "China", "Dry Bulk", "Australia", "Brazil"]
 images_count: 3
-word_count: 826
+word_count: 829
 source_file: "corpus/03-breakwave/insights/2020/2020-06-16_capesize-futures-surge-as-the-atlantic-market-comes-back-roaring.html"
 ---
 
@@ -25,9 +25,9 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-16_capesize-futures-surg
 > **Figure 1: Market Chart 1**  
 > **Interactive Data & Source:** [Braemarscreen](https://braemarscreen.com/home) | [Local Asset](assets/2020-06-16_capesize-futures-surge-as-the-atlantic-market-comes-back-roaring_img_image-asset_da8729e3150a.jpeg)
 
-A mad day in[freight futures today](https://braemarscreen.com/home), as improving spot rates across the globe and better sentiment in macroeconomic fundamentals (see[infrastructure spending](https://www.foxbusiness.com/markets/us-stocks-june-16-2020)) pushed freight futures higher, aided by significant short covering of bearish bets made earlier in the year.
+A mad day in [freight futures today](https://braemarscreen.com/home), as improving spot rates across the globe and better sentiment in macroeconomic fundamentals (see [infrastructure spending](https://www.foxbusiness.com/markets/us-stocks-june-16-2020)) pushed freight futures higher, aided by significant short covering of bearish bets made earlier in the year.
 
-As the spot Capesize market is repeating its year ago pattern (with a brief interruption in May), and with significant volume expected out of[Brazil in the second half of the year](https://www.argusmedia.com/en/news/2112224-vale-keeps-iron-ore-guidance-after-itabira-halted), physical players seem to have been caught short freight (i.e. not enough chartered-in vessels to ship the anticipated higher volume), rushing into the futures market to take cover. At the same time, a number of owners/operators that have sold futures to hedge their positions earlier in the year due to fears of the COVID-19 trade disruptions, rushed to cover their positions, causing in the process one of the biggest upward moves in freight futures in quite sometime.
+As the spot Capesize market is repeating its year ago pattern (with a brief interruption in May), and with significant volume expected out of [Brazil in the second half of the year](https://www.argusmedia.com/en/news/2112224-vale-keeps-iron-ore-guidance-after-itabira-halted), physical players seem to have been caught short freight (i.e. not enough chartered-in vessels to ship the anticipated higher volume), rushing into the futures market to take cover. At the same time, a number of owners/operators that have sold futures to hedge their positions earlier in the year due to fears of the COVID-19 trade disruptions, rushed to cover their positions, causing in the process one of the biggest upward moves in freight futures in quite sometime.
 
 [BDRY, the dry bulk ETF](https://etfmg.com/funds/bdry/), is having its best two weeks on record, up ~44%, on high volume and is up more than 90% from the recent lows just only a month ago:
 
@@ -37,7 +37,7 @@ As the spot Capesize market is repeating its year ago pattern (with a brief inte
 > *Brazil is shipping more iron ore, with the last count this week pointing to more than 30 million tons in exports for June, by far the highest number in six months*  
 > **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/6/10/what-is-driving-capesize-rates-higher) | [Local Asset](assets/2020-06-16_capesize-futures-surge-as-the-atlantic-market-comes-back-roaring_img_bdryroc_7d17bcc33e0f.jpg)
 
-The drivers for the higher activity, and thus, stronger rates, remain the same (also see our comment from last week[here](https://www.breakwaveadvisors.com/insights/2020/6/10/what-is-driving-capesize-rates-higher)):
+The drivers for the higher activity, and thus, stronger rates, remain the same (also see our comment from last week [here](https://www.breakwaveadvisors.com/insights/2020/6/10/what-is-driving-capesize-rates-higher)):
 
 - *Australia has absorbed a lot of ships, as their iron ore shipments have also been close to record highs, on the back of*[*iron ore prices*](https://www.australianmining.com.au/news/iron-ore-prices-soar-as-vale-shuts-mines-down/)*that are hovering around $100/ton*
 - *Macro data is improving, with strong stimulus across every major economy around the world: China new loan activity is booming, Chinese steel production in May was record high (China produced more steel in the month of May that the US is producing in a year) while new infrastructure projects are accelerating across the country*

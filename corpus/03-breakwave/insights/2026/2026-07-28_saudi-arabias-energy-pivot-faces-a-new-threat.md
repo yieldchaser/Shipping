@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/7/28/saudi-arabias-energy-pivot-faces-a-new-threat"
 tags: ["Tanker", "Markets", "Shipping"]
 images_count: 1
-word_count: 662
+word_count: 663
 source_file: "corpus/03-breakwave/insights/2026/2026-07-28_saudi-arabias-energy-pivot-faces-a-new-threat.html"
 ---
 

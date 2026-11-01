@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/25/lower-consumption-growth-in-china-but-appliance-sales-set-record"
 tags: ["China", "Markets", "Economy"]
 images_count: 2
-word_count: 251
+word_count: 253
 source_file: "corpus/03-breakwave/insights/2025/2025-07-25_lower-consumption-growth-in-china-but-appliance-sales-set-record.html"
 ---
 

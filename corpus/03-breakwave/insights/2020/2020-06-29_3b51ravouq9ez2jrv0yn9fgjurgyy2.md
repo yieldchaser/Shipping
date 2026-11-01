@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/28/3b51ravouq9ez2jrv0yn9fgjurgyy2"
 tags: ["Coal", "Dry Bulk", "Shipping", "China"]
 images_count: 4
-word_count: 791
+word_count: 795
 source_file: "corpus/03-breakwave/insights/2020/2020-06-29_3b51ravouq9ez2jrv0yn9fgjurgyy2.html"
 ---
 
@@ -28,13 +28,13 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-29_3b51ravouq9ez2jrv0yn9
 
 For almost a decade now and year after year, analysts have predicted the death of coal as a fossil fuel, and as a result, the structural decline in global coal trading. And yet, although still unpredictable from year to year, over the past decade coal trading has seen strong periods of activity pushing dry bulk rates higher in the process.
 
-China remains the main driver when it comes to coal demand and trade, with roughly 10% of its annual consumption coming from imports. As the[Financial Times reports](https://www.ft.com/content/cdcd8a02-81b5-48f1-a4a5-60a93a6ffa1e), such trend is alive a well, especially following the plunge in economic activity due to COVID-19 and the country’s initiatives for recovery:
+China remains the main driver when it comes to coal demand and trade, with roughly 10% of its annual consumption coming from imports. As the [Financial Times reports](https://www.ft.com/content/cdcd8a02-81b5-48f1-a4a5-60a93a6ffa1e), such trend is alive a well, especially following the plunge in economic activity due to COVID-19 and the country’s initiatives for recovery:
 
 Although such increase in capacity won’t be stimulative for dry bulk in the near term, it bodes well longer term especially given the decline in coal demand from Europe that historically has been the second most important demand center globally. As the FT continues, “*China approved the construction of more coal power plant capacity in the period to mid-June than in all of 2018 and 2019 combined” .*
 
 Such a rate in coal power plant capacity increase is not unprecedented for China, but still impressive given the common perception that coal demand is in structural decline. Yet, with roughly 77% of global consumption coming from Asia-Pacific and with average growth over the last decade exceeding 2% per year, the death of coal as a fossil fuel has been greatly exaggerated.
 
-As BP reported last week in their[annual energy review](../pdfs/2020-06-29_3b51ravouq9ez2jrv0yn9fgjurgyy2_bp-stats-review-2020-full-report_17716e30cf9d.pdf), coal consumption in the Asia-Pacific is indeed off its all time high set 2013, but only marginally while the developed world has seen drop of 26% during the same period.
+As BP reported last week in their [annual energy review](../pdfs/2020-06-29_3b51ravouq9ez2jrv0yn9fgjurgyy2_bp-stats-review-2020-full-report_17716e30cf9d.pdf), coal consumption in the Asia-Pacific is indeed off its all time high set 2013, but only marginally while the developed world has seen drop of 26% during the same period.
 
 ![Consumption Production Bp](assets/2020-06-29_3b51ravouq9ez2jrv0yn9fgjurgyy2_img_consumptionproductionbp_abef532cfa49.png)
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/24/in-a-positive-week-for-the-spot-market"
 tags: ["Drybulk", "Shipping", "Economy"]
 images_count: 4
-word_count: 945
+word_count: 949
 source_file: "corpus/03-breakwave/insights/2024/2024-06-24_in-a-positive-week-for-the-spot-market.html"
 ---
 

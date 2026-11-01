@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/7/chinas-coal-black-box-for-shipping"
 tags: ["Coal", "China"]
 images_count: 5
-word_count: 1051
+word_count: 1056
 source_file: "corpus/03-breakwave/insights/2020/2020-10-07_chinas-coal-black-box-for-shipping.html"
 ---
 

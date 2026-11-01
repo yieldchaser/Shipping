@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/4/energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario"
 tags: ["Markets", "Shipping", "Geopolitics"]
 images_count: 7
-word_count: 1348
+word_count: 1355
 source_file: "corpus/03-breakwave/insights/2025/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario.html"
 ---
 

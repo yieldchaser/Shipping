@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/11/10/drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on"
 tags: ["Shipping", "Freight", "Dry Bulk"]
 images_count: 11
-word_count: 2436
+word_count: 2447
 source_file: "corpus/03-breakwave/insights/2021/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on.html"
 ---
 
@@ -26,12 +26,12 @@ Drybulk freight rates have been hammered down lately. In this article we will lo
 
 Let’s start by looking at how dry bulk freight rates have developed in the last couple of years.
 
-![Ch1](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch1_43f4a4edd0ac.jpg)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch1_43f4a4edd0ac.jpg)
 
 > **Figure 1: Ch1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch1_43f4a4edd0ac.jpg)
 
-![Ch1](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch1_fff339dcef2d.jpg)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch1_fff339dcef2d.jpg)
 
 > **Figure 2: Ch1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch1_fff339dcef2d.jpg)
@@ -46,17 +46,17 @@ As we entered Q3, congestion started to increase quickly and meant that effectiv
 
 Since mid-October we have seen a steep correction in spot rates and forward values.
 
-![Ch2 (2)](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch228229_e8091adf1c00.png)
+![Ch2 (2)](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch228229_e8091adf1c00.png)
 
 > **Figure 3: Ch2 (2)**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch228229_e8091adf1c00.png)
 
-![Ch2 (3)](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch228329_0d9a750f5aef.png)
+![Ch2 (3)](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch228329_0d9a750f5aef.png)
 
 > **Figure 4: Ch2 (3)**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch228329_0d9a750f5aef.png)
 
-![Ch2 (4)](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch228429_92c95358a7bf.png)
+![Ch2 (4)](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch228429_92c95358a7bf.png)
 
 > **Figure 5: Ch2 (4)**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch228429_92c95358a7bf.png)
@@ -83,17 +83,17 @@ In the first ten months of this year, global iron ore export is up a meagre 0.7%
 
 However, except for Vale there are not many mine expansions in the pipeline either, so we expect global volume growth in the iron ore trade to be muted. Nevertheless, the growth in the long-distance trade from Brazil to China will add a lot of ton mile and we think the iron ore derived demand growth will exceed the fleet growth.
 
-![Ch3 (2)](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch328229_7da3985b4b52.png)
+![Ch3 (2)](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch328229_7da3985b4b52.png)
 
 > **Figure 6: Ch3 (2)**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch328229_7da3985b4b52.png)
 
-![Ch3 (3)](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch328329_45f94b2d443a.png)
+![Ch3 (3)](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch328329_45f94b2d443a.png)
 
 > **Figure 7: Ch3 (3)**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch328329_45f94b2d443a.png)
 
-![Ch3 (3)](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch328329_45f94b2d443a.png)
+![Ch3 (3)](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch328329_45f94b2d443a.png)
 
 > **Figure 8: Ch3 (3)**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch328329_45f94b2d443a.png)
@@ -108,17 +108,17 @@ As for now the Chinese government has succeeded in bringing the coal price down 
 
 Is there any reason for coal prices to increase from here? We think so. While the Chinese government has succeeded in increasing domestic coal production considerably in a short period of time, this has happened in a period where demand has been (fairly) stable.Now winter is coming. Thus, we believe there still will be a deficit of coal in China and the rest of the world in the coming months and years. As with iron ore, we argue that the bottleneck for the seaborne trade of coal is supply, not demand. Thus, we expect the seaborne trade of coal to be resilient in the coming year. However, as with iron ore we do not expect a big growth in the seaborne trade either, as the number of greenfield or expansion projects are limited. Nevertheless, we expect the coal driven vessel demand to exceed the all-time low fleet growth in the coming two years.
 
-![Ch4 (2)](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch428229_bae9cc800dcd.png)
+![Ch4 (2)](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch428229_bae9cc800dcd.png)
 
 > **Figure 9: Ch4 (2)**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch428229_bae9cc800dcd.png)
 
-![Ch4 (3)](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch428329_c4f0f1d367e7.png)
+![Ch4 (3)](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch428329_c4f0f1d367e7.png)
 
 > **Figure 10: Ch4 (3)**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch428329_c4f0f1d367e7.png)
 
-![Ch4 (3)](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch428329_c4f0f1d367e7.png)
+![Ch4 (3)](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch428329_c4f0f1d367e7.png)
 
 > **Figure 11: Ch4 (3)**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch428329_c4f0f1d367e7.png)

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/19/trade-australia-asking-wto-to-step-into-barley-dispute-with-china"
 tags: ["Grains", "China"]
 images_count: 2
-word_count: 836
+word_count: 838
 source_file: "corpus/03-breakwave/insights/2021/2021-03-19_trade-australia-asking-wto-to-step-into-barley-dispute-with-china.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-03-19_trade-australia-askin
 
 *By Ulf Bergman*
 
-![Unsplash Image Jkfnpgk8onw](assets/2021-03-19_trade-australia-asking-wto-to-step-into-barley-dispute-with-china_img_unsplash-image-jkfnpgk8onw_0b4be0ca6d69.jpg)
+![Unsplash Image Jkfnpgk8onw](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-19_trade-australia-asking-wto-to-step-into-barley-dispute-with-china_img_unsplash-image-jkfnpgk8onw_0b4be0ca6d69.jpg)
 
 > **Figure 1: Unsplash Image Jkfnpgk8onw**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-19_trade-australia-asking-wto-to-step-into-barley-dispute-with-china_img_unsplash-image-jkfnpgk8onw_0b4be0ca6d69.jpg)
@@ -35,7 +35,7 @@ Notwithstanding the restrictions on Chinese imports of grains from Australia, th
 
 With the Australian barley crops remaining off-limits for the Chinese buyers, substitutes have to be found elsewhere. Some of the main alternative sources of barley are Canada, France and Ukraine. France has shipped almost two million tonnes to China so far in 2020/21 and already surpassing the 1.5 million tonnes in the preceding marketing year. Full-year imports of French barley could potentially reach a near-record 2.8 million tonnes. Likewise, volumes shipped from Canada to China in the first half of the 2020/21 season have already matched last season’s total volume.
 
-![Unsplash Image G Z4 2nnxcc](assets/2021-03-19_trade-australia-asking-wto-to-step-into-barley-dispute-with-china_img_unsplash-image-g-z4-2nnxcc_b351cf0d5e8a.jpg)
+![Unsplash Image G Z4 2nnxcc](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-19_trade-australia-asking-wto-to-step-into-barley-dispute-with-china_img_unsplash-image-g-z4-2nnxcc_b351cf0d5e8a.jpg)
 
 > **Figure 2: Unsplash Image G Z4 2nnxcc**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-19_trade-australia-asking-wto-to-step-into-barley-dispute-with-china_img_unsplash-image-g-z4-2nnxcc_b351cf0d5e8a.jpg)

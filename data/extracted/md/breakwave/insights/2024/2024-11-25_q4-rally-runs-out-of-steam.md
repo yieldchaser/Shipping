@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/24/q4-rally-runs-out-of-steam"
 tags: ["Tankers", "Markets", "Crude"]
 images_count: 3
-word_count: 880
+word_count: 883
 source_file: "corpus/03-breakwave/insights/2024/2024-11-25_q4-rally-runs-out-of-steam.html"
 ---
 

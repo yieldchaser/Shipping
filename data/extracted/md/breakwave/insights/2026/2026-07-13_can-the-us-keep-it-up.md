@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/7/13/can-the-us-keep-it-up"
 tags: ["Crude", "Geopolitics", "Tankers"]
 images_count: 2
-word_count: 875
+word_count: 877
 source_file: "corpus/03-breakwave/insights/2026/2026-07-13_can-the-us-keep-it-up.html"
 ---
 

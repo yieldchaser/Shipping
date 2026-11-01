@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/25/economic-data-a-good-days-harvest"
 tags: ["Global Economy"]
 images_count: 4
-word_count: 795
+word_count: 799
 source_file: "corpus/03-breakwave/insights/2021/2021-03-01_economic-data-a-good-days-harvest.html"
 ---
 

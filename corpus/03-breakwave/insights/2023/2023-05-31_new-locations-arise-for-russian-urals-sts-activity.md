@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/5/31/new-locations-arise-for-russian-urals-sts-activity"
 images_count: 2
-word_count: 1344
+word_count: 1346
 source_file: "corpus/03-breakwave/insights/2023/2023-05-31_new-locations-arise-for-russian-urals-sts-activity.html"
 ---
 

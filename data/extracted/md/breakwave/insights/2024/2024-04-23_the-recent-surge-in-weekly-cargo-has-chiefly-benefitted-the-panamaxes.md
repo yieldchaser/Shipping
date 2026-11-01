@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/22/the-recent-surge-in-weekly-cargo-has-chiefly-benefitted-the-panamaxes"
 tags: ["Markets", "Shipping", "Commodities"]
 images_count: 1
-word_count: 1232
+word_count: 1233
 source_file: "corpus/03-breakwave/insights/2024/2024-04-23_the-recent-surge-in-weekly-cargo-has-chiefly-benefitted-the-panamaxes.html"
 ---
 

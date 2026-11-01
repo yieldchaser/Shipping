@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/6/us-china-trade-deal-reshaping-grain-and-coal-trade-flows"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 6
-word_count: 1656
+word_count: 1662
 source_file: "corpus/03-breakwave/insights/2026/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows.html"
 ---
 

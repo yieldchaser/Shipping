@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/8/metals-rebound-as-china-plans-further-stimulus-measures"
 images_count: 1
-word_count: 758
+word_count: 759
 source_file: "corpus/03-breakwave/insights/2022/2022-07-08_metals-rebound-as-china-plans-further-stimulus-measures.html"
 ---
 

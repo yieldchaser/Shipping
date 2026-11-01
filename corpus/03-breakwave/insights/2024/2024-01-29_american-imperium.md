@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/1/29/american-imperium"
 images_count: 1
-word_count: 1226
+word_count: 1227
 source_file: "corpus/03-breakwave/insights/2024/2024-01-29_american-imperium.html"
 ---
 
@@ -56,7 +56,7 @@ The world’s first democracy (not Republic which is representative) was Athens.
 
 Fast forward five centuries and the Roman Republic struggled with its imperial destiny too. Victories over Carthage, the Teutons, Spain, Greece and Gaul gave the Republic a lot of power. The Senate decided against the empire and promptly stabbed Julius Caesar in the back (and the front for that matter). Seventeen years later, Caesar’s adopted son, Augustus, became emperor anyway.
 
-The next major democracy sprung two millennia later. The French Revolution, which preached liberty, equality, brotherhood*and ownership*(liberte, egalite, fraternite et propriete), quickly turned into an empire under Napoleon.
+The next major democracy sprung two millennia later. The French Revolution, which preached liberty, equality, brotherhood *and ownership*(liberte, egalite, fraternite et propriete), quickly turned into an empire under Napoleon.
 
 The victor of the Napoleonic wars, the world’s oldest parliamentary monarchy, the United Kingdom, did not shun empire either. At its height, the British Empire ruled over 13% of the world’s land mass, literally the empire where the sun never set.
 

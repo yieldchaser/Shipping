@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/28/russian-diesel-returns-a-new-atlantic-trade-dynamic"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 1
-word_count: 705
+word_count: 711
 source_file: "corpus/03-breakwave/insights/2026/2026-10-28_russian-diesel-returns-a-new-atlantic-trade-dynamic.html"
 ---
 

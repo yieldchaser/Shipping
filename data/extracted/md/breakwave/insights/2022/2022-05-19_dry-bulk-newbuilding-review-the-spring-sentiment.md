@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/5/19/dry-bulk-newbuilding-review-the-spring-sentiment"
 images_count: 7
-word_count: 1299
+word_count: 1306
 source_file: "corpus/03-breakwave/insights/2022/2022-05-19_dry-bulk-newbuilding-review-the-spring-sentiment.html"
 ---
 

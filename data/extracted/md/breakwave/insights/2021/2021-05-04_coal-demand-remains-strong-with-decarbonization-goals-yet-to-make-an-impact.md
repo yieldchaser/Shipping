@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/4/coal-demand-remains-strong-with-decarbonization-goals-yet-to-make-an-impact"
 tags: ["China", "Decarbonization", "Coal"]
 images_count: 2
-word_count: 850
+word_count: 852
 source_file: "corpus/03-breakwave/insights/2021/2021-05-04_coal-demand-remains-strong-with-decarbonization-goals-yet-to-make-an-impact.html"
 ---
 
@@ -26,7 +26,7 @@ The much-maligned global trade in coal trade shows no signs of diminishing, desp
 
 The central position of Chinese buyers in the market is likely to keep seaborne coal volumes high during the foreseeable future. While the pandemic had a negative impact on the quantity of coal transported across the oceans, the strong economic recovery, especially in China, has seen a strong rebound in shipped volumes. Data from dry bulk cargo tracking platform Oceanbolt show that monthly seaborne export volumes of coal currently are around their five-year average, albeit below the long-term linear trend.
 
-![A1](assets/2021-05-04_coal-demand-remains-strong-with-decarbonization-goals-yet-to-make-an-impact_img_a1_72396520a36c.png)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-04_coal-demand-remains-strong-with-decarbonization-goals-yet-to-make-an-impact_img_a1_72396520a36c.png)
 
 > **Figure 1: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-04_coal-demand-remains-strong-with-decarbonization-goals-yet-to-make-an-impact_img_a1_72396520a36c.png)
@@ -37,7 +37,7 @@ The continued strong demand, in combination with a tight supply situation, has k
 
 ### Coal – 5-Year Price Development (Usd/tonne)
 
-![A2](assets/2021-05-04_coal-demand-remains-strong-with-decarbonization-goals-yet-to-make-an-impact_img_a2_a5a663f306dd.jpg)
+![A2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-04_coal-demand-remains-strong-with-decarbonization-goals-yet-to-make-an-impact_img_a2_a5a663f306dd.jpg)
 
 > **Figure 2: A2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-04_coal-demand-remains-strong-with-decarbonization-goals-yet-to-make-an-impact_img_a2_a5a663f306dd.jpg)

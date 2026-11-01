@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/11/17/capesize-spot-market-haunted-by-accidents-cursed-by-majors"
 tags: ["Brazil", "Capesize", "Vloc"]
 images_count: 4
-word_count: 1088
+word_count: 1092
 source_file: "corpus/03-breakwave/insights/2020/2020-11-18_capesize-spot-market-haunted-by-accidents-cursed-by-majors.html"
 ---
 

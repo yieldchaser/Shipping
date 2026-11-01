@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/1/12/the-most-important-chart-moving-from-2023-into-2024"
 images_count: 1
-word_count: 706
+word_count: 707
 source_file: "corpus/03-breakwave/insights/2024/2024-01-12_the-most-important-chart-moving-from-2023-into-2024.html"
 ---
 
@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-01-12_the-most-important-ch
 
 *By*[*David Wech*](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACdbGu4B25CFPSM8gOGM562N0GXP-oL0T1Y&keywords=david%20wech&origin=RICH_QUERY_SUGGESTION&position=0&searchId=b175ebeb-efa1-48b7-b4ba-63f6a6ac7777&sid=X%29%21&spellCorrectionEnabled=false)
 
-Εarlier this month, I was honoured to speak at the[HC Insider Podcast](https://www.hcgroup.global/hc-insider/hc-insider-podcast/the-oil-market-with-david-wech)on key features of the oil market in 2023 as well as the outlook for 2024. While a lot of relevant things happened last year with knock-on effects into 2024 and new issues are popping up, I would say the most important current feature and chart is the substantial slowdown in motor fuel import demand over the last couple of months.
+Εarlier this month, I was honoured to speak at the [HC Insider Podcast](https://www.hcgroup.global/hc-insider/hc-insider-podcast/the-oil-market-with-david-wech) on key features of the oil market in 2023 as well as the outlook for 2024. While a lot of relevant things happened last year with knock-on effects into 2024 and new issues are popping up, I would say the most important current feature and chart is the substantial slowdown in motor fuel import demand over the last couple of months.
 
 11 out of 12 months over H2 2022/H1 2023 had shown record arrivals of diesel into the Top-100 import ports (ports where at least 90% of all flows are imports, excluding therefore trading hubs). This was driven by the post-Covid recovery, the rerouting of Russian diesel away from Europe, the emergence of replacement supplies and related stockbuilding ahead of what some had coined to be “the worst winter for Europe since WW2”.
 

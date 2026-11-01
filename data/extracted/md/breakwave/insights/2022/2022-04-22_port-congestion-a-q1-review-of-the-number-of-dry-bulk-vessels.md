@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/4/22/port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels"
 images_count: 8
-word_count: 1467
+word_count: 1475
 source_file: "corpus/03-breakwave/insights/2022/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels.html"
 ---
 

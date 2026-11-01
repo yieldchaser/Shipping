@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/5/in-dry-bulk-nothing-goes-straight-up"
 tags: ["Dry Bulk", "Capesize", "Panamax", "Supramax"]
 images_count: 3
-word_count: 1086
+word_count: 1089
 source_file: "corpus/03-breakwave/insights/2021/2021-03-08_in-dry-bulk-nothing-goes-straight-up.html"
 ---
 
@@ -30,11 +30,11 @@ The dry bulk market is currently enjoying a renaissance, with spot rates at the 
 > *Front-month Capesize futures minus spot Brazil-China spot rates*  
 > **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/1/11/ar4nqv0geb3d0on6zju7b9atkni2r6) | [Local Asset](assets/2021-03-08_in-dry-bulk-nothing-goes-straight-up_img_bdiseasonalitymar_492e39364205.jpg)
 
-A lot has been said and[written](https://www.breakwaveadvisors.com/insights/2021/1/11/ar4nqv0geb3d0on6zju7b9atkni2r6)about the reasons for the recent rally in dry bulk, but as we look forward, the natural question for such a cyclical industry is what’s next.
+A lot has been said and [written](https://www.breakwaveadvisors.com/insights/2021/1/11/ar4nqv0geb3d0on6zju7b9atkni2r6) about the reasons for the recent rally in dry bulk, but as we look forward, the natural question for such a cyclical industry is what’s next.
 
 We believe the near term outlook is less optimistic, but this is always based in the context of a broader upturn in dry bulk that we expect to materialize and last at least a few years, so a correction from current levels would only represent the natural volatility of the industry and should be seen as such rather as any meaningful change in the fundamental picture.
 
-High freight costs is already causing issues in the[supply chain](https://www.spglobal.com/platts/en/market-insights/latest-news/agriculture/030521-firm-supramax-rates-force-east-coast-india-iron-ore-pellet-cargoes-on-capesizes-sources), and although near term this is inevitable, the market has a way of bringing such inefficiencies under control, until once again supply and demand gets out of sync. The fact that charterers are seeking Capesize ships to transport cargoes destined for Supramax ships that are almost 1/4 the size of Capesizes just to save on costs, is a great testament of the rapidly increasing importance of freight costs, the impact on shippers and eventually on consumers alike.
+High freight costs is already causing issues in the [supply chain](https://www.spglobal.com/platts/en/market-insights/latest-news/agriculture/030521-firm-supramax-rates-force-east-coast-india-iron-ore-pellet-cargoes-on-capesizes-sources), and although near term this is inevitable, the market has a way of bringing such inefficiencies under control, until once again supply and demand gets out of sync. The fact that charterers are seeking Capesize ships to transport cargoes destined for Supramax ships that are almost 1/4 the size of Capesizes just to save on costs, is a great testament of the rapidly increasing importance of freight costs, the impact on shippers and eventually on consumers alike.
 
 For the larger Capesize ships, the supply and demand balance does not look favorable near term. There is still a large number of available ships in the Atlantic while in the Pacific, some weather-related disruptions that have recently caused a mini rally in rates should soon correct. Intra-asset pair trading and relevant correlations have pushed freight futures for Capesizes higher following the more fundamental-driven rally in Panamax and Supramax futures, but we view such a move unwarranted given the above market fundamentals. After all, the Brazil-China roundtrip rate is still less than 11,000 with April futures priced now at almost 19,000. That is a staggering premium to the most important route in the Capesize market, even for shipping standards. In fact, this is the highest such premium in our most recent time series and almost 30% above the previous high.
 

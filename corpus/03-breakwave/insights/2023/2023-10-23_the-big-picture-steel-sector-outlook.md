@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/10/23/the-big-picture-steel-sector-outlook"
 images_count: 4
-word_count: 866
+word_count: 870
 source_file: "corpus/03-breakwave/insights/2023/2023-10-23_the-big-picture-steel-sector-outlook.html"
 ---
 

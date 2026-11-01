@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/7/27/recent-increase-in-dry-bulk-spot-cargo-volume-last"
 tags: ["Shipping", "Dry Bulk", "Capesize", "Panamax"]
 images_count: 1
-word_count: 332
+word_count: 333
 source_file: "corpus/03-breakwave/insights/2020/2020-07-27_recent-increase-in-dry-bulk-spot-cargo-volume-last.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/2/second-hand-vessels-continue-to-be-strongly-favored"
 tags: ["Dry Bulk", "Fleet"]
 images_count: 2
-word_count: 575
+word_count: 577
 source_file: "corpus/03-breakwave/insights/2021/2021-06-02_second-hand-vessels-continue-to-be-strongly-favored.html"
 ---
 
@@ -24,14 +24,14 @@ source_file: "corpus/03-breakwave/insights/2021/2021-06-02_second-hand-vessels-c
 
 Despite dry bulk rates having set new multi-year highs this year, newbuilding orders have fortunately stayed at only a moderate level as owners have continued to significantly favor second hand vessel purchases. Most recently, last month saw only approximately 24 new dry bulk vessels ordered.
 
-![Chart 1 Comm](assets/2021-06-02_second-hand-vessels-continue-to-be-strongly-favored_img_chart1comm_6fba2809aac9.jpg)
+![Chart 1 Comm](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-02_second-hand-vessels-continue-to-be-strongly-favored_img_chart1comm_6fba2809aac9.jpg)
 
 > **Figure 1: Chart 1 Comm**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-02_second-hand-vessels-continue-to-be-strongly-favored_img_chart1comm_6fba2809aac9.jpg)
 
 In comparison, approximately 84 existing dry bulk vessels exchanged hands in the second hand market.
 
-![Chart 2 Comm](assets/2021-06-02_second-hand-vessels-continue-to-be-strongly-favored_img_chart2comm_67f1189bb6fb.jpg)
+![Chart 2 Comm](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-02_second-hand-vessels-continue-to-be-strongly-favored_img_chart2comm_67f1189bb6fb.jpg)
 
 > **Figure 2: Chart 2 Comm**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-02_second-hand-vessels-continue-to-be-strongly-favored_img_chart2comm_67f1189bb6fb.jpg)

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/20/commodity-prices-drop-on-concerns-over-federal-reserve-stimulus-tapering"
 tags: ["Shipping"]
 images_count: 3
-word_count: 1301
+word_count: 1304
 source_file: "corpus/03-breakwave/insights/2021/2021-08-20_commodity-prices-drop-on-concerns-over-federal-reserve-stimulus-tapering.html"
 ---
 

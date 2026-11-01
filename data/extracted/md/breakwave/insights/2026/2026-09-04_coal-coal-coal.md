@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/4/coal-coal-coal"
 tags: ["Coal", "Drybulk", "Commodities"]
 images_count: 2
-word_count: 268
+word_count: 270
 source_file: "corpus/03-breakwave/insights/2026/2026-09-04_coal-coal-coal.html"
 ---
 

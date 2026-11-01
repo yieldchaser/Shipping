@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/19/downward-trajectory-for-crude-oil-freight-rates"
 tags: ["Shipping", "Tankers", "Crude"]
 images_count: 10
-word_count: 1784
+word_count: 1794
 source_file: "corpus/03-breakwave/insights/2024/2024-07-19_downward-trajectory-for-crude-oil-freight-rates.html"
 ---
 
@@ -27,7 +27,7 @@ Snapshot of Crude and Product Freight Rates, Supply-Demand
 Week 29, July 19, 2024
 
 **Chart of the Week: Dirty & Clean Tonne Days**
-*This week's chart underscores the decline in the growth of crude oil shipments to China from all origin countries during the second quarter of the year, with the monthly quantity in June recording an 8% drop compared to the same month in the previous year (left chart). This decline reflects a broader trend influenced by various factors including economic slowdowns, changes in demand, and strategic stockpiling. Looking specifically at crude oil flows from the Arabian Gulf to China, we observe that May and June recorded significantly lower levels than in the previous year (left chart). Despite the noticeable dip in May and June, the overall trend for the first half of the year shows that the monthly volume of crude oil shipments from all origin countries to China maintained a higher pace than the levels recorded in 2022 (right chart). In*[*March 2024*](https://go.signalocean.com/e/983831/et-monitor-tanker-week-12-2024/2qdfc4/424874322/h/y58T4qP-BSCIOTA4cTe_s4k2y5JhQgrbqA6sEmweTW8)*, we noted a decline in the monthly volume of Russian crude oil shipments to China. This drop was observed at the end of the month, following the highs recorded in January and February.*
+ *This week's chart underscores the decline in the growth of crude oil shipments to China from all origin countries during the second quarter of the year, with the monthly quantity in June recording an 8% drop compared to the same month in the previous year (left chart). This decline reflects a broader trend influenced by various factors including economic slowdowns, changes in demand, and strategic stockpiling. Looking specifically at crude oil flows from the Arabian Gulf to China, we observe that May and June recorded significantly lower levels than in the previous year (left chart). Despite the noticeable dip in May and June, the overall trend for the first half of the year shows that the monthly volume of crude oil shipments from all origin countries to China maintained a higher pace than the levels recorded in 2022 (right chart). In*[*March 2024*](https://go.signalocean.com/e/983831/et-monitor-tanker-week-12-2024/2qdfc4/424874322/h/y58T4qP-BSCIOTA4cTe_s4k2y5JhQgrbqA6sEmweTW8)*, we noted a decline in the monthly volume of Russian crude oil shipments to China. This drop was observed at the end of the month, following the highs recorded in January and February.*
 
 ![Στιγμιότυπο Οθόνης 2024 07 19 123512](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-19_downward-trajectory-for-crude-oil-freight-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e34dc2786273.png)
 

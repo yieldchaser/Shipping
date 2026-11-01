@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/29/and-then-there-were-none-whats-the-impact-of-the-feds-higher-for-longer"
 tags: ["Economy", "Markets"]
 images_count: 5
-word_count: 1766
+word_count: 1771
 source_file: "corpus/03-breakwave/insights/2024/2024-04-30_and-then-there-were-none-whats-the-impact-of-the-feds-higher-for-longer.html"
 ---
 

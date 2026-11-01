@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/4/29/the-bigger-picture-shipping-in-the-next-decade"
 images_count: 6
-word_count: 1815
+word_count: 1821
 source_file: "corpus/03-breakwave/insights/2022/2022-04-30_the-bigger-picture-shipping-in-the-next-decade.html"
 ---
 

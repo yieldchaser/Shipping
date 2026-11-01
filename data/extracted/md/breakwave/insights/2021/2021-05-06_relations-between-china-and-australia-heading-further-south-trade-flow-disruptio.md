@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/6/relations-between-china-and-australia-heading-further-south-trade-flow-disruptions-set-to-continue"
 tags: ["China", "Australia"]
 images_count: 2
-word_count: 792
+word_count: 794
 source_file: "corpus/03-breakwave/insights/2021/2021-05-06_relations-between-china-and-australia-heading-further-south-trade-flow-disruptio.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-05-06_relations-between-chi
 
 *By Ulf Bergman*
 
-![Australia China](assets/2021-05-06_relations-between-china-and-australia-heading-further-south-trade-flow-disruptio_img_australiachina_ef1989f91ba4.jpg)
+![Australia China](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-06_relations-between-china-and-australia-heading-further-south-trade-flow-disruptio_img_australiachina_ef1989f91ba4.jpg)
 
 > **Figure 1: Australia China**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-06_relations-between-china-and-australia-heading-further-south-trade-flow-disruptio_img_australiachina_ef1989f91ba4.jpg)
@@ -35,7 +35,7 @@ The continued deterioration of the bilateral relationship looks set to cement th
 
 As mentioned in Ocean Analytics’ previous Insights contribution, the number of vessels heading to Chinese ports with Australian coal has been reduced to virtually zero. At the same time, Indonesia, Russia and the US have increased their shipments of coal to China. With one of their main markets off-limits, Australian coal miners have been forced to find alternative markets for their output. While exported volumes have declined somewhat in the first four months of the year compared to the same period in previous years, the damage is not quite as severe as expected. Exports to other Asian nations have increased and made up for parts of the shortfall created by the Chinese import embargo, with data from Oceanbolt indicating that India, Japan and South Korea are increasing their purchases of Australian coal.
 
-![Ulf 3a](assets/2021-05-06_relations-between-china-and-australia-heading-further-south-trade-flow-disruptio_img_ulf3a_cfdda753b60f.png)
+![Ulf 3a](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-06_relations-between-china-and-australia-heading-further-south-trade-flow-disruptio_img_ulf3a_cfdda753b60f.png)
 
 > **Figure 2: Ulf 3a**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-06_relations-between-china-and-australia-heading-further-south-trade-flow-disruptio_img_ulf3a_cfdda753b60f.png)

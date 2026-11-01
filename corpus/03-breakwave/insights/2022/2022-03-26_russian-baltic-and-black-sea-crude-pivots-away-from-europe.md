@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/3/26/russian-baltic-and-black-sea-crude-pivots-away-from-europe"
 images_count: 1
-word_count: 688
+word_count: 689
 source_file: "corpus/03-breakwave/insights/2022/2022-03-26_russian-baltic-and-black-sea-crude-pivots-away-from-europe.html"
 ---
 

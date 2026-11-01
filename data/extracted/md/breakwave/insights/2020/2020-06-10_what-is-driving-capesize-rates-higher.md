@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/10/what-is-driving-capesize-rates-higher"
 tags: ["Capesize", "Dry Bulk", "Shipping", "Brazil"]
 images_count: 6
-word_count: 1030
+word_count: 1036
 source_file: "corpus/03-breakwave/insights/2020/2020-06-10_what-is-driving-capesize-rates-higher.html"
 ---
 

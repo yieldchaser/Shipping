@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/21/9dcienhj117wywf4e4wsa6g5a5enpk"
 tags: ["Dry Bulk", "Capesize", "Panamax"]
 images_count: 3
-word_count: 900
+word_count: 903
 source_file: "corpus/03-breakwave/insights/2021/2021-03-22_9dcienhj117wywf4e4wsa6g5a5enpk.html"
 ---
 
@@ -20,12 +20,12 @@ source_file: "corpus/03-breakwave/insights/2021/2021-03-22_9dcienhj117wywf4e4wsa
 
 ---
 
-![Unsplash Image Knxqv2d2pgi](assets/2021-03-22_9dcienhj117wywf4e4wsa6g5a5enpk_img_unsplash-image-knxqv2d2pgi_807fc5208684.jpg)
+![Unsplash Image Knxqv2d2pgi](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-22_9dcienhj117wywf4e4wsa6g5a5enpk_img_unsplash-image-knxqv2d2pgi_807fc5208684.jpg)
 
 > **Figure 1: Unsplash Image Knxqv2d2pgi**  
 > **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/3/5/in-dry-bulk-nothing-goes-straight-up) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-22_9dcienhj117wywf4e4wsa6g5a5enpk_img_unsplash-image-knxqv2d2pgi_807fc5208684.jpg)
 
-A few weeks ago,[we predicted](https://www.breakwaveadvisors.com/insights/2021/3/5/in-dry-bulk-nothing-goes-straight-up)that rates across dry bulk will start to top out and possibly even turn lower as we head towards the end of the month. We forecasted relatively stable Capesize rates which could lead to a convergence of the higher futures curve towards spot levels while the sub-cape sector was set for flattish to lower spot rates as seasonality would weight on South American grain cargo flow.
+A few weeks ago,[we predicted](https://www.breakwaveadvisors.com/insights/2021/3/5/in-dry-bulk-nothing-goes-straight-up) that rates across dry bulk will start to top out and possibly even turn lower as we head towards the end of the month. We forecasted relatively stable Capesize rates which could lead to a convergence of the higher futures curve towards spot levels while the sub-cape sector was set for flattish to lower spot rates as seasonality would weight on South American grain cargo flow.
 
 **So far, we have clearly been wrong.**
 
@@ -33,7 +33,7 @@ The dry bulk market, if anything, is stronger today, with both sentiment and fun
 
 Yet, as one sees the market today, it is quite impressive the fact that owners, especially in the Capesize segment, have remained so resilient and have managed to maintain the upper hand in the spot market, despite a relatively soft cargo flow. Although Brazilian iron ore fixtures have just touched the 10-year average run rate (see chart below), so far this year they have been running well below trend.
 
-![Baltic Dry Index](assets/2021-03-22_9dcienhj117wywf4e4wsa6g5a5enpk_img_brfixtures_dc6a0437365a.png)
+![Baltic Dry Index](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-22_9dcienhj117wywf4e4wsa6g5a5enpk_img_brfixtures_dc6a0437365a.png)
 
 > **Figure 2: Baltic Dry Index**  
 > *Baltic Dry Index, Spot, 10-Year Range and Implied Futures*  
@@ -47,7 +47,7 @@ For Capesize spot rates, the current setup supports the idea of a meangiful spik
 
 On the other hand, if the Brazilian miners stay put for another week or two, then we can not find a fundamental reason for the spot market to move higher, and that means futures prices are clearly too high (although as mentioned, we believed the same a few weeks back).
 
-![Source: Bloomberg and Breakwave Advisors](assets/2021-03-22_9dcienhj117wywf4e4wsa6g5a5enpk_img_bdiandfutures_7e61d1d8f708.jpg)
+![Source: Bloomberg and Breakwave Advisors](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-22_9dcienhj117wywf4e4wsa6g5a5enpk_img_bdiandfutures_7e61d1d8f708.jpg)
 
 > **Figure 3: Source: Bloomberg and Breakwave Advisors**  
 > *Source: Bloomberg and Breakwave Advisors*  

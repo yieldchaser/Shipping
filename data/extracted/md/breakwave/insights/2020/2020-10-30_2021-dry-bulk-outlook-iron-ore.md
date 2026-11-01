@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/29/2021-dry-bulk-outlook-iron-ore"
 tags: ["Shipping", "Dry Bulk", "Capesize"]
 images_count: 7
-word_count: 2107
+word_count: 2114
 source_file: "corpus/03-breakwave/insights/2020/2020-10-30_2021-dry-bulk-outlook-iron-ore.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/10/13/signal-tanker-weekly-report"
 images_count: 10
-word_count: 1307
+word_count: 1317
 source_file: "corpus/03-breakwave/insights/2023/2023-10-13_signal-tanker-weekly-report.html"
 ---
 
@@ -76,7 +76,7 @@ VLCC - Suezmax - Aframax Firmer
 
 - **MR1 rate**s for the Baltic continent dropped to WS 190, down 19% from the previous week.
 
-- **MR2 rates**for shipments from the continent to the U.S. fell to WS170, 30% lower than a year ago in a similar week, but at the same level as a month ago.
+- **MR2 rates** for shipments from the continent to the U.S. fell to WS170, 30% lower than a year ago in a similar week, but at the same level as a month ago.
 
 ## Section 2/ Supply
 
@@ -120,7 +120,7 @@ VLCC - Suezmax - Aframax Firmer
 > **Figure 10: ‘Clean’ Decreasing**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-10-13_signal-tanker-weekly-report_img_unnamed-2023-10-13t131930224_ef8833f29987.png)
 
-- Pa**namax tonne days**: The growth rate has continued to decline since the end of the 39th week, and there are still no signs of an imminent recovery.
+- Pa **namax tonne days**: The growth rate has continued to decline since the end of the 39th week, and there are still no signs of an imminent recovery.
 
 - **Clean MR tonne days:**The MR1 continues to experience record low growth rates, while MR2 demand has experienced a softer downward correction and is struggling for steady growth.
 

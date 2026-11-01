@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/12/7/chinese-exports-pushing-ahead-as-australia-expects-trade-to-weaken"
 tags: ["Global Economy", "Australia", "China"]
 images_count: 2
-word_count: 679
+word_count: 681
 source_file: "corpus/03-breakwave/insights/2020/2020-12-07_chinese-exports-pushing-ahead-as-australia-expects-trade-to-weaken.html"
 ---
 

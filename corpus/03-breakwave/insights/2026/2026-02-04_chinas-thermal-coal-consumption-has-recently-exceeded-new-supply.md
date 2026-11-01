@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/2/4/chinas-thermal-coal-consumption-has-recently-exceeded-new-supply"
 tags: ["Coal", "China", "Commoditites"]
 images_count: 2
-word_count: 319
+word_count: 321
 source_file: "corpus/03-breakwave/insights/2026/2026-02-04_chinas-thermal-coal-consumption-has-recently-exceeded-new-supply.html"
 ---
 

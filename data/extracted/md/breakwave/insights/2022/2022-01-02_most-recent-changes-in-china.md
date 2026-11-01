@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/12/30/most-recent-changes-in-china"
 tags: ["Economy", "China", "Steel", "Iron Ore"]
 images_count: 3
-word_count: 665
+word_count: 668
 source_file: "corpus/03-breakwave/insights/2022/2022-01-02_most-recent-changes-in-china.html"
 ---
 

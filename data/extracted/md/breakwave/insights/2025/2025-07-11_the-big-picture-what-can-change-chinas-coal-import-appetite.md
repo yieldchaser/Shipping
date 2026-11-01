@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/11/the-big-picture-what-can-change-chinas-coal-import-appetite"
 tags: ["Coal", "China", "Shipping"]
 images_count: 2
-word_count: 641
+word_count: 643
 source_file: "corpus/03-breakwave/insights/2025/2025-07-11_the-big-picture-what-can-change-chinas-coal-import-appetite.html"
 ---
 

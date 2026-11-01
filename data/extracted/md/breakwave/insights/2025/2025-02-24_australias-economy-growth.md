@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/23/australias-economy-growth"
 tags: ["Shipping", "Markets", "Drybulk"]
 images_count: 1
-word_count: 1329
+word_count: 1330
 source_file: "corpus/03-breakwave/insights/2025/2025-02-24_australias-economy-growth.html"
 ---
 

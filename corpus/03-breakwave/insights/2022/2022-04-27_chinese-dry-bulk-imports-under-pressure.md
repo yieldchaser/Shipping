@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/4/27/chinese-dry-bulk-imports-under-pressure"
 tags: ["China", "Shipping", "Dry Bulk", "Exports"]
 images_count: 3
-word_count: 1249
+word_count: 1252
 source_file: "corpus/03-breakwave/insights/2022/2022-04-27_chinese-dry-bulk-imports-under-pressure.html"
 ---
 

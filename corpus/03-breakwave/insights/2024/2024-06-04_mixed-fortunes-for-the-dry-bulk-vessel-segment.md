@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/4/mixed-fortunes-for-the-dry-bulk-vessel-segment"
 tags: ["Markets", "Shipping", "Commodities"]
 images_count: 1
-word_count: 1431
+word_count: 1432
 source_file: "corpus/03-breakwave/insights/2024/2024-06-04_mixed-fortunes-for-the-dry-bulk-vessel-segment.html"
 ---
 

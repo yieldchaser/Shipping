@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/23/the-weather-gods-are-siding-with-the-shipowners"
 tags: ["Shipping", "Brazil", "Australia"]
 images_count: 2
-word_count: 762
+word_count: 764
 source_file: "corpus/03-breakwave/insights/2021/2021-03-23_the-weather-gods-are-siding-with-the-shipowners.html"
 ---
 

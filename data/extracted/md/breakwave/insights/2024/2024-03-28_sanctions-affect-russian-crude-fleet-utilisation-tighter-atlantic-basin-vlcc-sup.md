@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/28/sanctions-affect-russian-crude-fleet-utilisation-tighter-atlantic-basin-vlcc-supply"
 tags: ["Tankers", "Shipping", "Crude Oil"]
 images_count: 5
-word_count: 1446
+word_count: 1451
 source_file: "corpus/03-breakwave/insights/2024/2024-03-28_sanctions-affect-russian-crude-fleet-utilisation-tighter-atlantic-basin-vlcc-sup.html"
 ---
 

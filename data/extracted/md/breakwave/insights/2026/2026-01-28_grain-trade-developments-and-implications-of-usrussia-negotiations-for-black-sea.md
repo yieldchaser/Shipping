@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/28/grain-trade-developments-and-implications-of-usrussia-negotiations-for-black-sea-shipping"
 tags: ["Shipping", "Drybulk", "Markets"]
 images_count: 1
-word_count: 921
+word_count: 922
 source_file: "corpus/03-breakwave/insights/2026/2026-01-28_grain-trade-developments-and-implications-of-usrussia-negotiations-for-black-sea.html"
 ---
 

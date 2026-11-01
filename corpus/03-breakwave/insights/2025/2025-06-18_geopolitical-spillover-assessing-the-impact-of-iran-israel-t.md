@@ -100,7 +100,7 @@ Iran, a significant global oil exporter, primarily sends its oil to China, a cru
 [**https://app.signalocean.com/tanker/dynamic/oilflows|
 ‍**](https://app.signalocean.com/tanker/dynamic/oilflows)
 
-While the dashboard indicates that the**primary discharge area is "Singapore/Malaysia" (64.7%)**, this does**not reflect the final destination**of the cargo. In reality, most of this oil is**transshipped to China**, using Singapore and Malaysian ports as intermediate storage or blending points.
+While the dashboard indicates that the **primary discharge area is "Singapore/Malaysia" (64.7%)**, this does **not reflect the final destination** of the cargo. In reality, most of this oil is **transshipped to China**, using Singapore and Malaysian ports as intermediate storage or blending points.
 ‍
 
 ## 5. Bypassing the Strait: Strategic Alternatives and Pipeline Options

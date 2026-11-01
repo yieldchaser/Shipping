@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/2/small-growth-in-steel-production-outside-of-china"
 tags: ["Ironore", "China", "Commodities"]
 images_count: 3
-word_count: 305
+word_count: 308
 source_file: "corpus/03-breakwave/insights/2025/2025-05-02_small-growth-in-steel-production-outside-of-china.html"
 ---
 

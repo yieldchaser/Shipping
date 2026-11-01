@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/10/r6zy3v2jjyft4oqxbk6oifpkstiry0"
 tags: ["Coal", "China"]
 images_count: 3
-word_count: 1011
+word_count: 1014
 source_file: "corpus/03-breakwave/insights/2021/2021-06-11_r6zy3v2jjyft4oqxbk6oifpkstiry0.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-06-11_r6zy3v2jjyft4oqxbk6oi
 
 *By Ulf Bergman*
 
-![Ship26](assets/2021-06-11_r6zy3v2jjyft4oqxbk6oifpkstiry0_img_ship26_5f0b2d91676d.jpg)
+![Ship26](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-11_r6zy3v2jjyft4oqxbk6oifpkstiry0_img_ship26_5f0b2d91676d.jpg)
 
 > **Figure 1: Ship26**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-11_r6zy3v2jjyft4oqxbk6oifpkstiry0_img_ship26_5f0b2d91676d.jpg)
@@ -35,14 +35,14 @@ There has been a recent surge in reported COVID-19 deaths in the Asian nation, b
 
 Despite the recent bad news coming out of India, the country’s imported volumes of coal have been recovering in recent months. The world’s second-largest importer of seaborne coal saw volumes almost back at the pre-pandemic levels of 2019 in May, with a year-on-year increase of 68 per cent. So far this month, volumes are approaching 80 per cent of the total for June last year. If the flow of coal discharged in Indian ports continue at the same pace for the rest of the month, imported volumes could be greater than what was seen during the same month in 2019.
 
-![Ulf 1 6.11](assets/2021-06-11_r6zy3v2jjyft4oqxbk6oifpkstiry0_img_ulf1611_3365e04d0d24.png)
+![Ulf 1 6.11](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-11_r6zy3v2jjyft4oqxbk6oifpkstiry0_img_ulf1611_3365e04d0d24.png)
 
 > **Figure 2: Ulf 1 6.11**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-11_r6zy3v2jjyft4oqxbk6oifpkstiry0_img_ulf1611_3365e04d0d24.png)
 
 The ongoing diplomatic tensions between China and Australia have seen Australian coal shipments to Chinese ports reduced to virtually zero, with producers forced to find alternative markets. As a result, Indonesia has lost its previously dominant position in India’s market for imported coal. Prior to the Chinese ban on imports of Australian coal, Indonesian coal exports to India were more than twice as large as Australia's. However, so far this year, Australia has doubled its market share and grabbed the top spot, slightly ahead of Indonesia. The 39 million tonnes of Australian coal discharged in Indian ports year-to-date, represents 79 per cent of the average of the preceding six full years.
 
-![Ulf 2 6.11](assets/2021-06-11_r6zy3v2jjyft4oqxbk6oifpkstiry0_img_ulf2611_f4359ceae009.png)
+![Ulf 2 6.11](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-11_r6zy3v2jjyft4oqxbk6oifpkstiry0_img_ulf2611_f4359ceae009.png)
 
 > **Figure 3: Ulf 2 6.11**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-11_r6zy3v2jjyft4oqxbk6oifpkstiry0_img_ulf2611_f4359ceae009.png)

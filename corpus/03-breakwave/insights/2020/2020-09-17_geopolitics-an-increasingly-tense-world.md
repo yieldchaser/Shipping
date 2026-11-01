@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/9/17/geopolitics-an-increasingly-tense-world"
 tags: ["Shipping", "Trade", "Soybeans", "Economics", "China", "Us"]
 images_count: 3
-word_count: 627
+word_count: 630
 source_file: "corpus/03-breakwave/insights/2020/2020-09-17_geopolitics-an-increasingly-tense-world.html"
 ---
 

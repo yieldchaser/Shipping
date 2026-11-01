@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/20/the-trans-pacific-trade-war-is-heating-up-again"
 tags: ["Usa", "China", "Tradewar"]
 images_count: 1
-word_count: 882
+word_count: 883
 source_file: "corpus/03-breakwave/insights/2021/2021-07-20_the-trans-pacific-trade-war-is-heating-up-again.html"
 ---
 
@@ -32,7 +32,7 @@ The U.S. exports of agricultural commodities has, despite the latest move, been 
 
 According to cargo tracking data from Oceanbolt, the first half of the year has seen large volumes of grains and oilseeds shipped to China from ports in the U.S. However, the shipments in June approached more normal levels, as inventories fell and buyers awaited the new harvest. The seaborne volumes of agricultural commodities heading for Chinese ports are likely to pick up again when the U.S. harvest gets underway in the coming months.
 
-![A1](assets/2021-07-20_the-trans-pacific-trade-war-is-heating-up-again_img_a1_a7556c919475.png)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-20_the-trans-pacific-trade-war-is-heating-up-again_img_a1_a7556c919475.png)
 
 > **Figure 1: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-20_the-trans-pacific-trade-war-is-heating-up-again_img_a1_a7556c919475.png)

@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-07-26_breakwave-weekend-rea
 
 ## Breakwave Shipping Report
 
-**Panamaxes Steal the Spotlight as Dry Bulk Rallies**– Over the past two weeks, Panamax spot rates have demonstrated an**impressive**and largely**unexpected**performance, with the Index reaching its highest levels in over a year and currently hovering around the 16,000 mark.
+**Panamaxes Steal the Spotlight as Dry Bulk Rallies**– Over the past two weeks, Panamax spot rates have demonstrated an **impressive** and largely **unexpected** performance, with the Index reaching its highest levels in over a year and currently hovering around the 16,000 mark.
 
 [Read More](https://static1.squarespace.com/static/5a4d1d26e5dd5b537a6647c5/t/687ec9a654e400246250ec36/1753139623176/Breakwave+Dry+July+22+2025+Report.pdf)
 

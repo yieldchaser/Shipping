@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/4/17/the-current-week-has-shown-some-early-promise"
 tags: ["Markets", "Shipping", "Commodities"]
 images_count: 1
-word_count: 1297
+word_count: 1298
 source_file: "corpus/03-breakwave/insights/2024/2024-04-17_the-current-week-has-shown-some-early-promise.html"
 ---
 

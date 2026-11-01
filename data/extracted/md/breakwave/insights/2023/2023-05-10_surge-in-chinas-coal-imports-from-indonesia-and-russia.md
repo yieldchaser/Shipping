@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/5/9/surge-in-chinas-coal-imports-from-indonesia-and-russia"
 images_count: 2
-word_count: 279
+word_count: 281
 source_file: "corpus/03-breakwave/insights/2023/2023-05-10_surge-in-chinas-coal-imports-from-indonesia-and-russia.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/27/unexpected-revocation-a-guinea-tale"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 4
-word_count: 1044
+word_count: 1048
 source_file: "corpus/03-breakwave/insights/2025/2025-05-27_unexpected-revocation-a-guinea-tale.html"
 ---
 

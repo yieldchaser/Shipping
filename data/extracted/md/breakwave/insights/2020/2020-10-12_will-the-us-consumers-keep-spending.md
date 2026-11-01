@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/12/will-the-us-consumers-keep-spending"
 tags: ["Economics", "Global Economy"]
 images_count: 3
-word_count: 577
+word_count: 580
 source_file: "corpus/03-breakwave/insights/2020/2020-10-12_will-the-us-consumers-keep-spending.html"
 ---
 

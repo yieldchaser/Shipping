@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/21/port-congestion-squeezing-the-fleet"
 tags: ["Dry Bulk", "Shipping", "Rates"]
 images_count: 4
-word_count: 1146
+word_count: 1150
 source_file: "corpus/03-breakwave/insights/2021/2021-08-21_port-congestion-squeezing-the-fleet.html"
 ---
 

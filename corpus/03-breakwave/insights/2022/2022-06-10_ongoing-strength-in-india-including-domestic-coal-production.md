@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/6/10/ongoing-strength-in-india-including-domestic-coal-production"
 images_count: 3
-word_count: 512
+word_count: 515
 source_file: "corpus/03-breakwave/insights/2022/2022-06-10_ongoing-strength-in-india-including-domestic-coal-production.html"
 ---
 

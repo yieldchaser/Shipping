@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/30/capesize-market-insights"
 tags: ["Shipping", "Drybulk", "Markets"]
 images_count: 5
-word_count: 1212
+word_count: 1217
 source_file: "corpus/03-breakwave/insights/2025/2025-01-30_capesize-market-insights.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-01-30_capesize-market-insig
 ---
 
 **Dry Weekly Market Monitor - Week 05, 2025**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 January 29, 2025
 
 ## Chart of the Week: Capesize Market Insights
@@ -46,10 +46,10 @@ Meanwhile, when it comes to iron ore supply, output levels from major producer V
 
 The dry bulk freight market experienced a weakening momentum at the end of January; however, recent sentiment in the freight market remained stronger than at the end of the previous year, despite the Chinese New Year holidays.
 
-- **Capesize**vessel freight rates for shipments from Brazil to North China have stabilized around $17 per ton, reflecting a 5% decline from the previous month and a 22% drop compared to the same period last year.
-- **Panamax**vessel freight rates from the Continent to the Far East dropped below $29 per ton, showing a 30% decline compared to the same period last year.
-- **Supramax**vessel freight rates on the Indo-ECI route remained below $7 per ton, marking a 20% decrease from the previous month.
-- **Handysize**freight rates for the NOPAC Far East route have fallen to $25 per ton, representing a 16% month-on-month decline.
+- **Capesize** vessel freight rates for shipments from Brazil to North China have stabilized around $17 per ton, reflecting a 5% decline from the previous month and a 22% drop compared to the same period last year.
+- **Panamax** vessel freight rates from the Continent to the Far East dropped below $29 per ton, showing a 30% decline compared to the same period last year.
+- **Supramax** vessel freight rates on the Indo-ECI route remained below $7 per ton, marking a 20% decrease from the previous month.
+- **Handysize** freight rates for the NOPAC Far East route have fallen to $25 per ton, representing a 16% month-on-month decline.
 
 ![Στιγμιότυπο Οθόνης 2025 01 30 111832](assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_36d0d612d220.png)
 

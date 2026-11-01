@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/12/27/chinas-manufacturing-growth-has-climbed-further"
 tags: ["China", "Drybulk", "Commodities"]
 images_count: 1
-word_count: 166
+word_count: 167
 source_file: "corpus/03-breakwave/insights/2024/2024-12-27_chinas-manufacturing-growth-has-climbed-further.html"
 ---
 

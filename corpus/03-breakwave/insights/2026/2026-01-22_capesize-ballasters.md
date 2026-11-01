@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/22/capesize-ballasters"
 tags: ["Capesize", "Drybulk", "Markets"]
 images_count: 8
-word_count: 1229
+word_count: 1237
 source_file: "corpus/03-breakwave/insights/2026/2026-01-22_capesize-ballasters.html"
 ---
 

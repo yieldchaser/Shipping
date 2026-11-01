@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/9/7/weekly-tanker-market-report"
 images_count: 1
-word_count: 685
+word_count: 686
 source_file: "corpus/03-breakwave/insights/2022/2022-09-07_weekly-tanker-market-report.html"
 ---
 

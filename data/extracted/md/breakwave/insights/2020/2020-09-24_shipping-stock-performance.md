@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/9/24/shipping-stock-performance"
 tags: ["Shipping Stocks", "Tankers"]
 images_count: 2
-word_count: 631
+word_count: 633
 source_file: "corpus/03-breakwave/insights/2020/2020-09-24_shipping-stock-performance.html"
 ---
 

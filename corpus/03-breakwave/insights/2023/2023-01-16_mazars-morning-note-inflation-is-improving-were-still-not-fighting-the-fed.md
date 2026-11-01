@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/1/16/mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed"
 images_count: 5
-word_count: 1270
+word_count: 1275
 source_file: "corpus/03-breakwave/insights/2023/2023-01-16_mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed.html"
 ---
 

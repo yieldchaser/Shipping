@@ -46,7 +46,7 @@ Vance trip cancelled. Ceasefire extended indefinitely. US seizes first Iranian v
 
 ## Imo Humanitarian Evacuation Plan – ~20,000 Seafarers Trapped
 
-IMO Secretary-General Arsenio Dominguez revealed the plan at Singapore Maritime Week. Approximately**~20,000 seafarers**are currently affected, confined in the Persian Gulf unable to depart.
+IMO Secretary-General Arsenio Dominguez revealed the plan at Singapore Maritime Week. Approximately**~20,000 seafarers** are currently affected, confined in the Persian Gulf unable to depart.
 
 ### De-Escalation Signals
 

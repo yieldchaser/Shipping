@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/8/27/economic-d-day-more-bark-than-bite-but-hormuz-risks-rise-with-irans-blacklist"
 tags: ["Tankers", "Shipping", "Crude"]
 images_count: 2
-word_count: 1192
+word_count: 1194
 source_file: "corpus/03-breakwave/insights/2026/2026-08-27_economic-d-day-more-bark-than-bite-but-hormuz-risks-rise-with-irans-blacklist.html"
 ---
 

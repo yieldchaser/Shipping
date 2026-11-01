@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/4/22/usiran-negotiations-and-the-case-for-crude-tanker-capacity"
 tags: ["Markers", "Geopolitics", "Shipping"]
 images_count: 1
-word_count: 920
+word_count: 921
 source_file: "corpus/03-breakwave/insights/2026/2026-04-22_usiran-negotiations-and-the-case-for-crude-tanker-capacity.html"
 ---
 

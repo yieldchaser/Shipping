@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/1/8/a-year-ahead"
 images_count: 2
-word_count: 997
+word_count: 999
 source_file: "corpus/03-breakwave/insights/2024/2024-01-08_a-year-ahead.html"
 ---
 

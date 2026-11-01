@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/1/the-big-picture-the-capesize-market"
 images_count: 4
-word_count: 1048
+word_count: 1052
 source_file: "corpus/03-breakwave/insights/2022/2022-07-02_the-big-picture-the-capesize-market.html"
 ---
 

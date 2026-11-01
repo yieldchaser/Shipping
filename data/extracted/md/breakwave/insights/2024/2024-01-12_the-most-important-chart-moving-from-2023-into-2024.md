@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/1/12/the-most-important-chart-moving-from-2023-into-2024"
 images_count: 1
-word_count: 706
+word_count: 707
 source_file: "corpus/03-breakwave/insights/2024/2024-01-12_the-most-important-chart-moving-from-2023-into-2024.html"
 ---
 

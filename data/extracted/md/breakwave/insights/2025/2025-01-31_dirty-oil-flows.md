@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/31/dirty-oil-flows"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 10
-word_count: 1508
+word_count: 1518
 source_file: "corpus/03-breakwave/insights/2025/2025-01-31_dirty-oil-flows.html"
 ---
 

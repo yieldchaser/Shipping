@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/11/12/increase-in-coal-indias-production-and-offtake"
 tags: ["India", "Coal", "Energy"]
 images_count: 3
-word_count: 388
+word_count: 391
 source_file: "corpus/03-breakwave/insights/2021/2021-11-12_increase-in-coal-indias-production-and-offtake.html"
 ---
 

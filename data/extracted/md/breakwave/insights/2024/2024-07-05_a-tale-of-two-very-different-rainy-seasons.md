@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/5/a-tale-of-two-very-different-rainy-seasons"
 tags: ["Coal", "China", "Economy"]
 images_count: 4
-word_count: 554
+word_count: 558
 source_file: "corpus/03-breakwave/insights/2024/2024-07-05_a-tale-of-two-very-different-rainy-seasons.html"
 ---
 

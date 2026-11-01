@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/8/17/chinese-lending-remains-well-above-last-years-level"
 tags: ["China"]
 images_count: 1
-word_count: 215
+word_count: 216
 source_file: "corpus/03-breakwave/insights/2020/2020-08-17_chinese-lending-remains-well-above-last-years-level.html"
 ---
 

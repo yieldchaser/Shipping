@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/5/india-crude-imports-set-to-increase-with-higher-refining-capacity-in-h2-2025"
 tags: ["Crude", "Tankers", "Market"]
 images_count: 3
-word_count: 1072
+word_count: 1075
 source_file: "corpus/03-breakwave/insights/2025/2025-06-05_india-crude-imports-set-to-increase-with-higher-refining-capacity-in-h2-2025.html"
 ---
 

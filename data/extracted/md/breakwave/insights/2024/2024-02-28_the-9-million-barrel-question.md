@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/28/the-9-million-barrel-question"
 tags: ["India", "Crude Oil", "Tankers"]
 images_count: 2
-word_count: 546
+word_count: 548
 source_file: "corpus/03-breakwave/insights/2024/2024-02-28_the-9-million-barrel-question.html"
 ---
 

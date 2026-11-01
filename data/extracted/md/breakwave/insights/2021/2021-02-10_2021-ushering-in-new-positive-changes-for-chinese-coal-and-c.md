@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-02-10_2021-ushering-in-new-
 
 ---
 
-By[Jeffrey Landsberg](mailto:jeffrey@commodore-research.com)
+By [Jeffrey Landsberg](mailto:jeffrey@commodore-research.com)
 
 Dry bulk prospects for this year remain promising. While the upcoming Lunar New Year holiday has ushered in a normal cooling in spot cargo demand, China’s overall economy remains very encouraging. In addition, SHIBOR lending rates fell significantly last week. As we discussed in our most recent Weekly China Report, the overnight SHIBOR (Shanghai Interbank Offered Rate) closed last week at 1.91%, which marks a decrease of one hundred and thirty-seven basis points from the previous week. The one-month SHIBOR closed last week at 2.75%, which marks a decrease of eight basis points from the previous week. China’s massive corn purchases seen in recent weeks also remain very encouraging for the dry bulk market looking forward.
 

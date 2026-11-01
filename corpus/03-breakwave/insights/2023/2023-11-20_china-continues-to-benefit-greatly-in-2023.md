@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/11/20/china-continues-to-benefit-greatly-in-2023"
 images_count: 5
-word_count: 430
+word_count: 435
 source_file: "corpus/03-breakwave/insights/2023/2023-11-20_china-continues-to-benefit-greatly-in-2023.html"
 ---
 

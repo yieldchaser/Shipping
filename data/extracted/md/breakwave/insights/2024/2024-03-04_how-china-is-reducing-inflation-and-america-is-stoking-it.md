@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/4/how-china-is-reducing-inflation-and-america-is-stoking-it"
 tags: ["Markets", "Economy", "Macro"]
 images_count: 5
-word_count: 1724
+word_count: 1729
 source_file: "corpus/03-breakwave/insights/2024/2024-03-04_how-china-is-reducing-inflation-and-america-is-stoking-it.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/11/4/recent-rebound-in-chinese-dry-bulk-import-volume-routinely-overlooked"
 tags: ["China", "Imports", "Dry Bulk", "Economy"]
 images_count: 3
-word_count: 550
+word_count: 553
 source_file: "corpus/03-breakwave/insights/2021/2021-11-04_recent-rebound-in-chinese-dry-bulk-import-volume-routinely-overlooked.html"
 ---
 

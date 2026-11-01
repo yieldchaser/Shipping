@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/2/dry-bulk-trade-from-the-black-sea-has-moved-into-a-markedly-weaker-phase"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 1
-word_count: 637
+word_count: 638
 source_file: "corpus/03-breakwave/insights/2026/2026-09-02_dry-bulk-trade-from-the-black-sea-has-moved-into-a-markedly-weaker-phase.html"
 ---
 

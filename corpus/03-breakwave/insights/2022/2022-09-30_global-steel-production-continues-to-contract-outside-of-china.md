@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/9/30/global-steel-production-continues-to-contract-outside-of-china"
 images_count: 3
-word_count: 448
+word_count: 451
 source_file: "corpus/03-breakwave/insights/2022/2022-09-30_global-steel-production-continues-to-contract-outside-of-china.html"
 ---
 

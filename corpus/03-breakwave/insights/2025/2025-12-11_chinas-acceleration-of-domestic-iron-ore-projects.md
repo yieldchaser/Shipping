@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/11/chinas-acceleration-of-domestic-iron-ore-projects"
 tags: ["Ironore", "Drybulk", "Shipping"]
 images_count: 3
-word_count: 1211
+word_count: 1214
 source_file: "corpus/03-breakwave/insights/2025/2025-12-11_chinas-acceleration-of-domestic-iron-ore-projects.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/29/oil-glut-looms"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 2
-word_count: 656
+word_count: 658
 source_file: "corpus/03-breakwave/insights/2025/2025-09-29_oil-glut-looms.html"
 ---
 

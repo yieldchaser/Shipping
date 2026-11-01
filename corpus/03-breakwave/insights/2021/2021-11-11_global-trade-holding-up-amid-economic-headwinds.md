@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/11/11/global-trade-holding-up-amid-economic-headwinds"
 tags: ["Global", "Economy", "Trade", "China"]
 images_count: 3
-word_count: 753
+word_count: 756
 source_file: "corpus/03-breakwave/insights/2021/2021-11-11_global-trade-holding-up-amid-economic-headwinds.html"
 ---
 

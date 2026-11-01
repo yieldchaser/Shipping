@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/29/the-big-picture-dry-bulk-360-degrees"
 tags: ["Drybulk", "China", "Iron Ore"]
 images_count: 2
-word_count: 661
+word_count: 663
 source_file: "corpus/03-breakwave/insights/2024/2024-05-29_the-big-picture-dry-bulk-360-degrees.html"
 ---
 

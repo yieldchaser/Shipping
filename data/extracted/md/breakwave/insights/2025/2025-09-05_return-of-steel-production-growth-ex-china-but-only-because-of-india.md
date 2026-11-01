@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/5/return-of-steel-production-growth-ex-china-but-only-because-of-india"
 tags: ["China", "Ironore", "Markets"]
 images_count: 3
-word_count: 346
+word_count: 349
 source_file: "corpus/03-breakwave/insights/2025/2025-09-05_return-of-steel-production-growth-ex-china-but-only-because-of-india.html"
 ---
 

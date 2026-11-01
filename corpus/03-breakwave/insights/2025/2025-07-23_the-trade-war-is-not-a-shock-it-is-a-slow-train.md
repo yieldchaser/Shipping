@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/22/the-trade-war-is-not-a-shock-it-is-a-slow-train"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 9
-word_count: 1794
+word_count: 1803
 source_file: "corpus/03-breakwave/insights/2025/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train.html"
 ---
 
@@ -34,9 +34,9 @@ Despite rising U.S. inflation and heightened trade tensions, markets remain stab
 
 Another week passed that felt like a month.
 
-- Trade[negotiations](https://www.ft.com/content/43c98c4b-8772-4279-ad55-e46bd22409de)are taking place between the US and the EU, which essentially boils down to Europeans trying to come to some sort of a solution as to what tribute they need to pay to avoid some of the unavoidable economic pain.
-- The White House yet again[threatens to fire Powell](https://edition.cnn.com/2025/07/19/business/powell-trump-interest-rates-fed)– before denying it, in the old “will he, won’t he?” pattern. At the same time, when the White House destabilises the Fed, with external threats and internal undermining of Powell (see[Christopher Waller,](https://www.msn.com/en-us/money/markets/fed-s-waller-pushes-rate-cut-to-neutral-3-citing-slower-inflation-labor-market-risks/ar-AA1IXhY8?ocid=finance-verthp-feeds)a Republican-appointed former hawk who now insists on quick rate cuts),[US inflation](assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_cpi-inflation-report-june-2025_e76536489f64.html)is -finally- picking up as a result of tariffs and with pre-tariff inventories nowhere near depletion yet.
-- The first[cryptocurrency legislation](https://www.euronews.com/business/2025/07/18/win-for-the-crypto-industry-us-passed-the-first-major-bill-to-regulate-digital-assets)in the US, which, amongst other things, represents an effort to increase internal demand for US Treasuries (as they can be collateral for stablecoin funds).
+- Trade [negotiations](https://www.ft.com/content/43c98c4b-8772-4279-ad55-e46bd22409de) are taking place between the US and the EU, which essentially boils down to Europeans trying to come to some sort of a solution as to what tribute they need to pay to avoid some of the unavoidable economic pain.
+- The White House yet again [threatens to fire Powell](https://edition.cnn.com/2025/07/19/business/powell-trump-interest-rates-fed)– before denying it, in the old “will he, won’t he?” pattern. At the same time, when the White House destabilises the Fed, with external threats and internal undermining of Powell (see [Christopher Waller,](https://www.msn.com/en-us/money/markets/fed-s-waller-pushes-rate-cut-to-neutral-3-citing-slower-inflation-labor-market-risks/ar-AA1IXhY8?ocid=finance-verthp-feeds)a Republican-appointed former hawk who now insists on quick rate cuts),[US inflation](assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_cpi-inflation-report-june-2025_e76536489f64.html) is -finally- picking up as a result of tariffs and with pre-tariff inventories nowhere near depletion yet.
+- The first [cryptocurrency legislation](https://www.euronews.com/business/2025/07/18/win-for-the-crypto-industry-us-passed-the-first-major-bill-to-regulate-digital-assets) in the US, which, amongst other things, represents an effort to increase internal demand for US Treasuries (as they can be collateral for stablecoin funds).
 
 The most important issue of the time is, of course, US inflation.
 

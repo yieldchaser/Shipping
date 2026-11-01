@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/28/weekly-insights-review"
 images_count: 9
-word_count: 1147
+word_count: 1156
 source_file: "corpus/03-breakwave/insights/2022/2022-08-28_weekly-insights-review.html"
 ---
 
@@ -39,7 +39,7 @@ Waste-based biofuels could be a key driver of the energy transition transforming
 
 ## The Fed Is Still ‘the Only Game in Town’ for Markets
 
-Frank Herbert’s ‘[Dune](https://en.wikipedia.org/wiki/Dune_(novel))’, one of the most epic sci-fi novels of all time (and the subject of a less-great 1984 Kyle MacLachlan[movie](https://www.imdb.com/title/tt0087182/)), featured, amongst other things, a mystical far-future sisterhood, called the Bene Gesserit.
+Frank Herbert’s ‘[Dune](https://en.wikipedia.org/wiki/Dune_(novel))’, one of the most epic sci-fi novels of all time (and the subject of a less-great 1984 Kyle MacLachlan [movie](https://www.imdb.com/title/tt0087182/)), featured, amongst other things, a mystical far-future sisterhood, called the Bene Gesserit.
 [Read More](https://www.breakwaveadvisors.com/insights/2022/8/22/market-comment-paradigm-shift-deferred-but-not-for-long)
 
 ![243](assets/2022-08-28_weekly-insights-review_img_243_26511b74f458.jpeg)

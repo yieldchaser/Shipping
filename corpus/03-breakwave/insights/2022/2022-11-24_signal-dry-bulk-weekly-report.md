@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/23/signal-dry-bulk-weekly-report"
 images_count: 6
-word_count: 1170
+word_count: 1176
 source_file: "corpus/03-breakwave/insights/2022/2022-11-24_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -49,10 +49,10 @@ Data Source: The Signal Ocean Platform, Vessel Speed
 
 In the last days of November, the weaker sentiment from the beginning of the month continues, while a sustained downward trend seems to emerge in the following days.
 
-- **Capesize**vessel freight rates are approaching $18/tonne, down nearly $2/tonne from two weeks ago and down $7/tonne from week 40.
-- **Panamax**vessel freight rates fromtheContinent to the Far East fell to $35/tonne, down nearly $7/tonne from the week 40 peak.
-- **Supramax**freight rates for the Indo-ECI route continued the previous accelerated decline, falling to $13/tonne, down nearly $7/tonne from the week 34 peak.
-- **Handysize**freight rates from NOPAC to the Far East appeared to represent a pause in the ongoing decline and remained at around $32.6/tonne, down 50% from the week 21 peak.
+- **Capesize** vessel freight rates are approaching $18/tonne, down nearly $2/tonne from two weeks ago and down $7/tonne from week 40.
+- **Panamax** vessel freight rates fromtheContinent to the Far East fell to $35/tonne, down nearly $7/tonne from the week 40 peak.
+- **Supramax** freight rates for the Indo-ECI route continued the previous accelerated decline, falling to $13/tonne, down nearly $7/tonne from the week 34 peak.
+- **Handysize** freight rates from NOPAC to the Far East appeared to represent a pause in the ongoing decline and remained at around $32.6/tonne, down 50% from the week 21 peak.
 
 ## Section 2/ Supply -Ballasters (# Vessels) Increasing
 
@@ -63,10 +63,10 @@ In the last days of November, the weaker sentiment from the beginning of the mon
 
 The number of ships in ballast was down only in the Panamax segment, while the other ship size classes showed an accelerated increase compared to the previous weeks of November.
 
-- **Capesize**SE Africa: The number of vessels now stands at 87, 10 more than in Week 45 and 7 above the annual average.
-- **Panamax**SE Africa: The number of ships has dropped to 67, continuing the downward trend since the beginning of November, while the numbers are still below the annual average since the end of week 36.
-- **Supramax**SE Asia: The number of ships increased to 112, almost 17 more than the previous week. The last time the number exceeded 110 was in week 40.
-- **Handysize**NOPAC: The number of vessels has continued to accelerate to 92, almost 40% above the average for the year, with a steady upward trend.
+- **Capesize** SE Africa: The number of vessels now stands at 87, 10 more than in Week 45 and 7 above the annual average.
+- **Panamax** SE Africa: The number of ships has dropped to 67, continuing the downward trend since the beginning of November, while the numbers are still below the annual average since the end of week 36.
+- **Supramax** SE Asia: The number of ships increased to 112, almost 17 more than the previous week. The last time the number exceeded 110 was in week 40.
+- **Handysize** NOPAC: The number of vessels has continued to accelerate to 92, almost 40% above the average for the year, with a steady upward trend.
 
 ## Section 3/ Demand -TonDays Decreasing
 
@@ -77,10 +77,10 @@ The number of ships in ballast was down only in the Panamax segment, while the o
 
 Demand growth continues to decline, with stronger signs in the Panamax segment, while the trend in the Capesize segment is clearly downward.
 
-- **Capesize**demand ton-days: Compared to the highs of week 41, the trend has not yet recovered in the fourth week of November.
-- **Panamax**demand ton-days: The current outlook continues the strong volatility of the last days with a slight upward trend until the end of November.
-- **Supramax**demand ton-days: The overall trend continues to decline in November, and there are no signs of recovery in the coming month.
-- **Handysize**demand ton-days: The decline is similar to the previous November days, with increasing signs of a further downward correction.
+- **Capesize** demand ton-days: Compared to the highs of week 41, the trend has not yet recovered in the fourth week of November.
+- **Panamax** demand ton-days: The current outlook continues the strong volatility of the last days with a slight upward trend until the end of November.
+- **Supramax** demand ton-days: The overall trend continues to decline in November, and there are no signs of recovery in the coming month.
+- **Handysize** demand ton-days: The decline is similar to the previous November days, with increasing signs of a further downward correction.
 
 ## Section 4/ Port Congestion -No of Vesselsincreasing
 

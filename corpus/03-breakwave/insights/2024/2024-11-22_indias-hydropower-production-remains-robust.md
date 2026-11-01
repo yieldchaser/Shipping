@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/22/indias-hydropower-production-remains-robust"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 3
-word_count: 350
+word_count: 353
 source_file: "corpus/03-breakwave/insights/2024/2024-11-22_indias-hydropower-production-remains-robust.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/29/seaborne-coal-a-tale-of-two-countries"
 tags: ["Economy", "Coal", "Pricerecord"]
 images_count: 3
-word_count: 904
+word_count: 907
 source_file: "corpus/03-breakwave/insights/2021/2021-10-29_seaborne-coal-a-tale-of-two-countries.html"
 ---
 

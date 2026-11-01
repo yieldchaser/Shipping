@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/28/tankers-research-update"
 images_count: 3
-word_count: 2340
+word_count: 2343
 source_file: "corpus/03-breakwave/insights/2025/2025-02-28_tankers-research-update.html"
 ---
 

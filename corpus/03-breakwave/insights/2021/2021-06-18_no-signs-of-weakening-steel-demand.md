@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/18/no-signs-of-weakening-steel-demand"
 tags: ["Steel", "Commodities", "Shipping"]
 images_count: 2
-word_count: 889
+word_count: 891
 source_file: "corpus/03-breakwave/insights/2021/2021-06-18_no-signs-of-weakening-steel-demand.html"
 ---
 

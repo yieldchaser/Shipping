@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/8/8/capesPacvsAtl"
 tags: ["Capesize", "Australia", "China", "Brazil"]
 images_count: 3
-word_count: 996
+word_count: 999
 source_file: "corpus/03-breakwave/insights/2021/2021-08-10_capespacvsatl.html"
 ---
 
@@ -24,7 +24,7 @@ One of the main characteristics of the shipping market is the dynamic changes in
 
 ***USD differential in freight rate, Brazil-China spot rate minus Australia-China spot rate***
 
-![Australia Monthly Iron Ore Exports](assets/2021-08-10_capespacvsatl_img_atlminuspac_9532529e0ea8.jpg)
+![Australia Monthly Iron Ore Exports](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-10_capespacvsatl_img_atlminuspac_9532529e0ea8.jpg)
 
 > **Figure 1: Australia Monthly Iron Ore Exports**  
 > *Australia monthly iron ore exports*  
@@ -34,7 +34,7 @@ Now, a few months does not constitute a trend, but one can easily see how the Pa
 
 Naturally, to explain such a trend, the mind of most dry bulk observers will go to stronger cargo flows. However, data does not clearly support that. Year-to-date, Australian iron ore exports have been relatively flat compared to last year, albeit with the expected month to month fluctuations.
 
-![Aus Iron Ore Exports](assets/2021-08-10_capespacvsatl_img_ausironoreexports_b764d89e7cd7.png)
+![Aus Iron Ore Exports](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-10_capespacvsatl_img_ausironoreexports_b764d89e7cd7.png)
 
 > **Figure 2: Aus Iron Ore Exports**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-10_capespacvsatl_img_ausironoreexports_b764d89e7cd7.png)
@@ -49,7 +49,7 @@ Then, there is the recent ban on coal cargoes from Australia to China. As availa
 
 Finally, with iron ore prices and a backwardated iron ore futures curve, the closest to China origin for physical iron ore is Australia, so for physical traders that are trying to capture such a high iron ore price the willingness to pay up for relatively fast physical cargo delivery versus a cargo coming from Brazil is stronger.
 
-![Img 5174](assets/2021-08-10_capespacvsatl_img_img-5174_26346ae9f48d.jpg)
+![Img 5174](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-10_capespacvsatl_img_img-5174_26346ae9f48d.jpg)
 
 > **Figure 3: Img 5174**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-10_capespacvsatl_img_img-5174_26346ae9f48d.jpg)

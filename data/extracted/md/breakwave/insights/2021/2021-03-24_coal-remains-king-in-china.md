@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/22/coal-remains-king-in-china"
 tags: ["China", "Coal"]
 images_count: 1
-word_count: 456
+word_count: 457
 source_file: "corpus/03-breakwave/insights/2021/2021-03-24_coal-remains-king-in-china.html"
 ---
 
@@ -26,7 +26,7 @@ Recently released data has shown that China's coal production totaled 617.6 mill
 
 Coal-derived electricity generation in January/February totaled 939 billion kilowatt hours. This is up year-on-year by 20% -- which is of course extremely robust growth -- but this does mark the first time since October where China's coal-derived electricity generation growth has not exceeded coal production growth. It previously had been very advantageous for the dry bulk market that China's coal-derived electricity generation growth was exceeding its coal production growth. This is a significant issue that we will be continuing to monitor in our Weekly China Reports.
 
-![Comm 2](assets/2021-03-24_coal-remains-king-in-china_img_comm2_7b6ce736964d.jpg)
+![Comm 2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-24_coal-remains-king-in-china_img_comm2_7b6ce736964d.jpg)
 
 > **Figure 1: Comm 2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-24_coal-remains-king-in-china_img_comm2_7b6ce736964d.jpg)

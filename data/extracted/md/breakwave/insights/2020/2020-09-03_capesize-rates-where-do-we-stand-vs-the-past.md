@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/9/3/capesize-rates-where-do-we-stand-vs-the-past"
 tags: ["Shipping", "Capesize", "Brazil", "Australia"]
 images_count: 4
-word_count: 710
+word_count: 714
 source_file: "corpus/03-breakwave/insights/2020/2020-09-03_capesize-rates-where-do-we-stand-vs-the-past.html"
 ---
 

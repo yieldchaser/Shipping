@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/27/energy-markets-surge-higher-amid-further-curbs-on-russian-gas"
 images_count: 1
-word_count: 740
+word_count: 741
 source_file: "corpus/03-breakwave/insights/2022/2022-07-27_energy-markets-surge-higher-amid-further-curbs-on-russian-gas.html"
 ---
 

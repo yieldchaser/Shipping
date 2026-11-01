@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/11/dry-assets-review-trends-amp-expectations"
 tags: ["Dry Bulk", "Shipping", "Investments"]
 images_count: 3
-word_count: 1059
+word_count: 1062
 source_file: "corpus/03-breakwave/insights/2021/2021-09-11_dry-assets-review-trends-amp-expectations.html"
 ---
 

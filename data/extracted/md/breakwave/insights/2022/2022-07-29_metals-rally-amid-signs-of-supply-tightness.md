@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/29/metals-rally-amid-signs-of-supply-tightness"
 images_count: 1
-word_count: 669
+word_count: 670
 source_file: "corpus/03-breakwave/insights/2022/2022-07-29_metals-rally-amid-signs-of-supply-tightness.html"
 ---
 

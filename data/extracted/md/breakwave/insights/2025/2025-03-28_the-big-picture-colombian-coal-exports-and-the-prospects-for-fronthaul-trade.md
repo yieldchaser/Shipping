@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/28/the-big-picture-colombian-coal-exports-and-the-prospects-for-fronthaul-trade"
 tags: ["Coal", "Drybulk", "Shipping"]
 images_count: 2
-word_count: 535
+word_count: 537
 source_file: "corpus/03-breakwave/insights/2025/2025-03-28_the-big-picture-colombian-coal-exports-and-the-prospects-for-fronthaul-trade.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/26/crude-tanker-ffas-backing-the-vlccs"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 2
-word_count: 2006
+word_count: 2008
 source_file: "corpus/03-breakwave/insights/2024/2024-03-26_crude-tanker-ffas-backing-the-vlccs.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/30/steel-demand-to-remain-strong-amid-the-economic-recovery"
 tags: ["Steel", "Iron Ore"]
 images_count: 2
-word_count: 815
+word_count: 817
 source_file: "corpus/03-breakwave/insights/2021/2021-04-30_steel-demand-to-remain-strong-amid-the-economic-recovery.html"
 ---
 

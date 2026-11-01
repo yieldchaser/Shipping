@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/25/breakwave-weekend-read-547kk-rw7zy-awmfb-mf26k-dk29d-56ysb-x3jbe-xbwk9-dnpbr-b6jhc"
 tags: ["Shipping", "Tankers", "Drybulk"]
 images_count: 10
-word_count: 1151
+word_count: 1161
 source_file: "corpus/03-breakwave/insights/2025/2025-08-22_breakwave-weekend-read-547kk-rw7zy-awmfb-mf26k-dk29d-56ysb-x3jbe-xbwk9-dnpbr-b6j.html"
 ---
 
@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-08-22_breakwave-weekend-rea
 
 ## Breakwave Shipping Report
 
-**August Blues Depress Volatility but Rates Hold Strong**– An**uneventful****fortnight**in terms of cargo flow has reduced near-term activity, contributing to a**decline**in spot rate**volatility**.
+**August Blues Depress Volatility but Rates Hold Strong**– An **uneventful** **fortnight** in terms of cargo flow has reduced near-term activity, contributing to a**decline** in spot rate **volatility**.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2025819db-5cnlk458)
 

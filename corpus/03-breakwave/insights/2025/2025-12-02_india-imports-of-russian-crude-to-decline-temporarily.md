@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/2/india-imports-of-russian-crude-to-decline-temporarily"
 tags: ["Tankers", "Markets", "Shipping"]
 images_count: 6
-word_count: 1554
+word_count: 1560
 source_file: "corpus/03-breakwave/insights/2025/2025-12-02_india-imports-of-russian-crude-to-decline-temporarily.html"
 ---
 

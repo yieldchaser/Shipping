@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/9/irans-oil-network-matures-under-sanctions-pressure"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 3
-word_count: 1043
+word_count: 1046
 source_file: "corpus/03-breakwave/insights/2025/2025-10-09_irans-oil-network-matures-under-sanctions-pressure.html"
 ---
 
@@ -30,7 +30,7 @@ The result: Iran’s oil keeps moving, but through a tighter, more efficient sha
 
 ## What the Un Snapback Actually Does
 
-The snapback mechanism, part of[UN Resolution 2231](https://www.un.org/securitycouncil/content/resolutions-adopted-security-council-2015), reinstates prior UN sanctions if Iran breaches its nuclear commitments.
+The snapback mechanism, part of [UN Resolution 2231](https://www.un.org/securitycouncil/content/resolutions-adopted-security-council-2015), reinstates prior UN sanctions if Iran breaches its nuclear commitments.
 
 Triggered in August 2025 by France, Germany, and the United Kingdom, it restored restrictions on arms, finance and shipping that were originally due to expire on October 18, 2025.
 
@@ -42,7 +42,7 @@ Russia and China have rejected the move, and enforcement remains uneven, meaning
 
 Vortexa data shows Iran’s crude and condensate loadings ranged between 1.3–1.6 mbd since late 2023, with several peaks above 1.8 mbd in early 2025 — the highest since 2018.
 
-Roughly 85–90% of those volumes head to China, driven by deep[discounts](https://www.vortexa.com/insights/chinas-appetite-for-stockpiling)and reported barter-style payment arrangements.
+Roughly 85–90% of those volumes head to China, driven by deep [discounts](https://www.vortexa.com/insights/chinas-appetite-for-stockpiling) and reported barter-style payment arrangements.
 
 ![Στιγμιότυπο Οθόνης 2025 10 09 095957](assets/2025-10-09_irans-oil-network-matures-under-sanctions-pressure_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0fc553a61a85.png)
 

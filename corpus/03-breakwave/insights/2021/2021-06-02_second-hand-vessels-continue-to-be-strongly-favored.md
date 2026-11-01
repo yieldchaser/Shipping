@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/2/second-hand-vessels-continue-to-be-strongly-favored"
 tags: ["Dry Bulk", "Fleet"]
 images_count: 2
-word_count: 575
+word_count: 577
 source_file: "corpus/03-breakwave/insights/2021/2021-06-02_second-hand-vessels-continue-to-be-strongly-favored.html"
 ---
 

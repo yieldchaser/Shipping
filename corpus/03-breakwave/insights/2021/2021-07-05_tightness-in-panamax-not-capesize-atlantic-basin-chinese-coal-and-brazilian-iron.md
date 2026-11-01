@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/5/tightness-in-panamax-not-capesize-atlantic-basin-chinese-coal-and-brazilian-iron-ore-prospects-remain-encouraging"
 tags: ["Panamax", "Coal"]
 images_count: 1
-word_count: 547
+word_count: 548
 source_file: "corpus/03-breakwave/insights/2021/2021-07-05_tightness-in-panamax-not-capesize-atlantic-basin-chinese-coal-and-brazilian-iron.html"
 ---
 

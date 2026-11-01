@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/11/7/mazars-comment-fed-pivot-if-not-now-when"
 images_count: 4
-word_count: 2007
+word_count: 2011
 source_file: "corpus/03-breakwave/insights/2022/2022-11-07_mazars-comment-fed-pivot-if-not-now-when.html"
 ---
 
@@ -92,7 +92,7 @@ Meanwhile, pressures in the global bond market continue to build up and the prob
 
 Policy errors do happen, and the consequences can be severe. In 1929, US Treasury Secretary Andrew Mellon allowed banks to fail, believing that the ‘invisible hand of the market’ will remedy stock volatility. The world sank into depression and the road towards the second world war was paved. In 2008, Alastair Darling, the UK Chancellor of the Exchequer scuttled Barclays’ deal to buy Lehman. “We will not import your cancer,” he said to Hank Paulson. The Global Financial Crisis was underway…
 
-Jay Powell could end up being hailed as the “New Paul Volker” who broke inflation’s back or decried as the “New Marriner Eccles”, the US central banker that almost collapsed the economy recovering from the Great Depression by[mistakenly hiking rates](https://libertystreeteconomics.newyorkfed.org/2011/06/commodity-prices-and-the-mistake-of-1937-would-modern-economists-make-the-same-mistake/)in 1937.
+Jay Powell could end up being hailed as the “New Paul Volker” who broke inflation’s back or decried as the “New Marriner Eccles”, the US central banker that almost collapsed the economy recovering from the Great Depression by [mistakenly hiking rates](https://libertystreeteconomics.newyorkfed.org/2011/06/commodity-prices-and-the-mistake-of-1937-would-modern-economists-make-the-same-mistake/) in 1937.
 
 The question in everyone’s mind is: Is the Fed making a policy mistake now? And if yes, is there still time to reverse it, before something breaks that can’t be mended?
 

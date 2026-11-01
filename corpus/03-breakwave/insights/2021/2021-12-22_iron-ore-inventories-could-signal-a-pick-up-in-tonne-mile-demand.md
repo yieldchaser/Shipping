@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/12/22/iron-ore-inventories-could-signal-a-pick-up-in-tonne-mile-demand"
 tags: ["Iron Ore", "China", "Production"]
 images_count: 5
-word_count: 1054
+word_count: 1059
 source_file: "corpus/03-breakwave/insights/2021/2021-12-22_iron-ore-inventories-could-signal-a-pick-up-in-tonne-mile-demand.html"
 ---
 

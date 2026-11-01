@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/2/the-big-picture-steel-production-outside-china-stagnation-or-recovery"
 tags: ["Steel", "China", "Shipping"]
 images_count: 3
-word_count: 717
+word_count: 720
 source_file: "corpus/03-breakwave/insights/2024/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery.html"
 ---
 

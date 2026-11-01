@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/9/20/commodities-edge-higher-as-the-market-braces-for-further-rate-hikes"
 images_count: 1
-word_count: 729
+word_count: 730
 source_file: "corpus/03-breakwave/insights/2022/2022-09-20_commodities-edge-higher-as-the-market-braces-for-further-rate-hikes.html"
 ---
 

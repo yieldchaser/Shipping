@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/3/7dm0lkx6wwi6hahl8sv0qhm4o9tvgl"
 tags: ["Drybulk", "China", "Economy"]
 images_count: 3
-word_count: 375
+word_count: 378
 source_file: "corpus/03-breakwave/insights/2024/2024-05-03_7dm0lkx6wwi6hahl8sv0qhm4o9tvgl.html"
 ---
 

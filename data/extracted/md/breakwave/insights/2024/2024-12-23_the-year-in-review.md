@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/12/23/the-year-in-review"
 tags: ["Tankers", "Shipping", "Crude"]
 images_count: 6
-word_count: 1161
+word_count: 1167
 source_file: "corpus/03-breakwave/insights/2024/2024-12-23_the-year-in-review.html"
 ---
 

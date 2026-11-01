@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/6/9/red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels"
 tags: ["Tankers", "Oil", "VLCC"]
 images_count: 6
-word_count: 1674
+word_count: 1680
 source_file: "corpus/03-breakwave/insights/2026/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels.html"
 ---
 

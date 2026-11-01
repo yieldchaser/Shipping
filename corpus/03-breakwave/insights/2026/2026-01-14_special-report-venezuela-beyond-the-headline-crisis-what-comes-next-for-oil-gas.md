@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/14/special-report-venezuela-beyond-the-headline-crisis-what-comes-next-for-oil-gas-mining-and-shipping"
 tags: ["Crudeoil", "Tankers", "Markets"]
 images_count: 1
-word_count: 1187
+word_count: 1188
 source_file: "corpus/03-breakwave/insights/2026/2026-01-14_special-report-venezuela-beyond-the-headline-crisis-what-comes-next-for-oil-gas.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/7/sanctions-tickle-the-chinese-giants-favour-the-teapots"
 tags: ["Tankers", "Markets", "Shipping"]
 images_count: 4
-word_count: 1280
+word_count: 1284
 source_file: "corpus/03-breakwave/insights/2025/2025-11-07_sanctions-tickle-the-chinese-giants-favour-the-teapots.html"
 ---
 

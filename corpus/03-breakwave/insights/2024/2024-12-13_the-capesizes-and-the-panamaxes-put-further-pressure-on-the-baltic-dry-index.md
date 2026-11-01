@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/12/13/the-capesizes-and-the-panamaxes-put-further-pressure-on-the-baltic-dry-index"
 tags: ["Shipping", "Markets", "Commodities"]
 images_count: 1
-word_count: 1171
+word_count: 1172
 source_file: "corpus/03-breakwave/insights/2024/2024-12-13_the-capesizes-and-the-panamaxes-put-further-pressure-on-the-baltic-dry-index.html"
 ---
 

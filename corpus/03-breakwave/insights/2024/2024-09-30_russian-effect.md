@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/30/russian-effect"
 tags: ["Tankers", "Crude", "Shipping"]
 images_count: 2
-word_count: 574
+word_count: 576
 source_file: "corpus/03-breakwave/insights/2024/2024-09-30_russian-effect.html"
 ---
 

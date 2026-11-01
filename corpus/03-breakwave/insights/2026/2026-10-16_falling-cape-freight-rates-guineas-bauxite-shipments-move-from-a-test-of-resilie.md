@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/16/falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilience-to-a-test-of-elasticity"
 tags: ["Drybulk", "Shipping", "Capesize"]
 images_count: 5
-word_count: 1219
+word_count: 1224
 source_file: "corpus/03-breakwave/insights/2026/2026-10-16_falling-cape-freight-rates-guineas-bauxite-shipments-move-from-a-test-of-resilie.html"
 ---
 

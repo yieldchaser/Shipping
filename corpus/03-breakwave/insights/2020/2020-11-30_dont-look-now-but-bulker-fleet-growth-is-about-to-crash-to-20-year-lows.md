@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/11/30/dont-look-now-but-bulker-fleet-growth-is-about-to-crash-to-20-year-lows"
 tags: ["Shipping", "Dry Bulk", "Fleet"]
 images_count: 2
-word_count: 811
+word_count: 813
 source_file: "corpus/03-breakwave/insights/2020/2020-11-30_dont-look-now-but-bulker-fleet-growth-is-about-to-crash-to-20-year-lows.html"
 ---
 
@@ -34,9 +34,9 @@ But such trend is about to change. A slew of new regulations relating to environ
 > **Figure 2: Orderbook**  
 > [Local Asset](assets/2020-11-30_dont-look-now-but-bulker-fleet-growth-is-about-to-crash-to-20-year-lows_img_orderbook_2f6aad0098c4.png)
 
-Dry bulk shipping remains an “old economy” sector, transporting such “dirty” materials as coal and iron ore. The relative price paid for such service has remained low as the value-added portion of oceangoing shipping has also been very low. However, in the last few years, performance and, more importantly,[safety and the environment](../pdfs/2020-11-30_dont-look-now-but-bulker-fleet-growth-is-about-to-crash-to-20-year-lows_imo20action20to20reduce20ghg20emissi_78e149dda3a4.pdf)is entering the picture with a vengeance and with that, sector-wide price inflation tends to follow. With investor appetite extremely low, an all-time low orderbook and an ever-changing regulatory environment, it is a sector ripe for transformation.
+Dry bulk shipping remains an “old economy” sector, transporting such “dirty” materials as coal and iron ore. The relative price paid for such service has remained low as the value-added portion of oceangoing shipping has also been very low. However, in the last few years, performance and, more importantly,[safety and the environment](../pdfs/2020-11-30_dont-look-now-but-bulker-fleet-growth-is-about-to-crash-to-20-year-lows_imo20action20to20reduce20ghg20emissi_78e149dda3a4.pdf) is entering the picture with a vengeance and with that, sector-wide price inflation tends to follow. With investor appetite extremely low, an all-time low orderbook and an ever-changing regulatory environment, it is a sector ripe for transformation.
 
-And such a transformation is not going to be a first. One of the most impressive such transformations happened in the US railroad industry that has experienced a renaissance over the past two decades, driving shareholder returns and profitability to spectacular levels with major improvements in service, safety and its impact on the environment. Today, railroads are owned by some of the most prominent investors in the world (See[Warren Buffet’s Berkshire Hathaway](https://en.wikipedia.org/wiki/BNSF_Railway)).
+And such a transformation is not going to be a first. One of the most impressive such transformations happened in the US railroad industry that has experienced a renaissance over the past two decades, driving shareholder returns and profitability to spectacular levels with major improvements in service, safety and its impact on the environment. Today, railroads are owned by some of the most prominent investors in the world (See [Warren Buffet’s Berkshire Hathaway](https://en.wikipedia.org/wiki/BNSF_Railway)).
 
 It is really tough to see such a progress in dry bulk from where we stand today, as the global nature of the industry combined with the current commoditized approach towards shipping by commodity traders leave little room for such a development. But that was the case also in the railroad industry in the early years and competition combined with ever increasing regulations but also a shrinking supply of railroad availability, gradually changed the sector for the better.
 

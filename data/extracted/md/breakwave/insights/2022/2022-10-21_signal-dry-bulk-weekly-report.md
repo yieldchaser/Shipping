@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/21/signal-dry-bulk-weekly-report"
 images_count: 4
-word_count: 817
+word_count: 821
 source_file: "corpus/03-breakwave/insights/2022/2022-10-21_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-10-21_signal-dry-bulk-weekl
 Freight rates in the Capesize and Panamax segments, as well as in the smaller vessel categories, weakened in the third week of October, indicating slower percentage demand growth. However, dry bulk coal flows continue to see an increase in shipments to Europe, with the Netherlands, Germany, Italy, and Spain as the main destinations, and Russia still considered the main country of origin.
 
 **Chart of the Week Dry Bulk Flows: Europe continues to import coal**
-*The Netherlands at the top*
+ *The Netherlands at the top*
 
 ![Data Source: The Signal Ocean Platform](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-21_signal-dry-bulk-weekly-report_img_unnamed289829_dcccc4aa9408.png)
 

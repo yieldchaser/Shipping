@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/23/the-cape-trifecta-part-iii-bauxite"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 4
-word_count: 1194
+word_count: 1198
 source_file: "corpus/03-breakwave/insights/2025/2025-01-23_the-cape-trifecta-part-iii-bauxite.html"
 ---
 

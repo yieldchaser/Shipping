@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/30/coal-power-expansion-china-in-global-context"
 tags: ["Coal", "Drybulk", "Shipping"]
 images_count: 2
-word_count: 693
+word_count: 695
 source_file: "corpus/03-breakwave/insights/2025/2025-05-30_coal-power-expansion-china-in-global-context.html"
 ---
 

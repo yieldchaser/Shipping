@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/5/30/stronger-growth-in-chinas-coal-derived-electricity-production"
 images_count: 3
-word_count: 381
+word_count: 384
 source_file: "corpus/03-breakwave/insights/2023/2023-05-31_stronger-growth-in-chinas-coal-derived-electricity-production.html"
 ---
 

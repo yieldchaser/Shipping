@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/9/the-capesize-market"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 1
-word_count: 640
+word_count: 641
 source_file: "corpus/03-breakwave/insights/2026/2026-09-09_the-capesize-market.html"
 ---
 

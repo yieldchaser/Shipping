@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/23/headwinds-for-the-capesizes-and-supply-disruptions"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 1
-word_count: 1398
+word_count: 1399
 source_file: "corpus/03-breakwave/insights/2024/2024-07-23_headwinds-for-the-capesizes-and-supply-disruptions.html"
 ---
 

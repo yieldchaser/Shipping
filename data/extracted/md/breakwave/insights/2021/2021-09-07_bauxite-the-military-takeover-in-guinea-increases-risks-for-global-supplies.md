@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/7/bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies"
 tags: ["Guinea", "Shipping"]
 images_count: 4
-word_count: 1011
+word_count: 1015
 source_file: "corpus/03-breakwave/insights/2021/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies.html"
 ---
 
@@ -26,21 +26,21 @@ The coup d’etat in Guinea over the weekend has resulted in freight rates falli
 
 ### Aluminium – Usd per Tonne
 
-![A1](assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a1_e5de8a98ede1.jpg)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a1_e5de8a98ede1.jpg)
 
 > **Figure 1: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a1_e5de8a98ede1.jpg)
 
 The bauxite exports of Guinea have been a real success story over the last few years, with volumes more than quadrupling between 2015 and 2020 and reaching 86 million tonnes last year. The volumes shipped so far this year have also suggested that a new record could be on the cards, with year-to-date exports at 59 million tonnes. However, the evolving situation in Guinea has the potential of derailing such a development.
 
-![A2](assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a2_b69f4cfc2602.png)
+![A2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a2_b69f4cfc2602.png)
 
 > **Figure 2: A2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a2_b69f4cfc2602.png)
 
 For China, the developments over the weekend in the West African nation are particularly serious and could have significant consequences, as it has rapidly become the largest supplier at the same time as the Chinese demand for imported bauxite has increased significantly. The West African nation only started to supply any substantial quantities to China in 2016 but has since dethroned Australia from the top spot. While China has a respectable domestic production at around 70 million tonnes, its demand for imported bauxite has more than doubled in the last five years. According to data from Oceanbolt, so far this year 68 per cent of last year’s record seaborne imports of 115 million tonnes has been matched, which could put the record in jeopardy. Guinea has also seen its share of the Chinese market growing further during the first eight months of the year, with volumes already at 76 per cent of last year’s volumes and a market share of 55 per cent.
 
-![A3](assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a3_95eec2a6efc6.png)
+![A3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a3_95eec2a6efc6.png)
 
 > **Figure 3: A3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a3_95eec2a6efc6.png)
@@ -51,7 +51,7 @@ Indonesian bauxite exports have recovered in recent years, following the law in 
 
 At the same time as the importance of West African bauxite has grown for the Chinese importers, the nature of the seaborne trade has also changed. From being virtually the exclusive domain of the Panamaxes in the middle of the last decade, the increasing importance of the supplies from Guinea has shifted much of the trade flow to the Capesizes. More than half of the Chinese imports are now transported by vessels in the larger tonnage segment. For the trade in the rest of the world, the shift is somewhat less pronounced but Capesizes have become the dominant segment globally as well. If Chinese purchasers are forced to scour the globe for substitutes to the West African bauxite the trend towards increasing importance for the larger tonnage could reverse, as distances and consignment sizes could shrink. Any prolonged disruptions to the exports of bauxite from Guinea are likely to be bad news for the freight rates and tonnage demand, especially in the largest segment. However, if Chinese buyers are successful in sourcing replacement volumes elsewhere, such as Indonesia and Australia, some of the tonnage demand could on the other hand shift to the Panamax segment.
 
-![A4](assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a4_c159659ebb00.png)
+![A4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a4_c159659ebb00.png)
 
 > **Figure 4: A4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a4_c159659ebb00.png)

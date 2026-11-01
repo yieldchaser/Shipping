@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/6/japan-shipbuilding-craft-over-quantity"
 tags: ["Shipping", "Markets", "Economy"]
 images_count: 5
-word_count: 1672
+word_count: 1677
 source_file: "corpus/03-breakwave/insights/2025/2025-05-06_japan-shipbuilding-craft-over-quantity.html"
 ---
 
@@ -68,7 +68,7 @@ However, new global bulk carrier orders are expected to drop 26% in 2025 due to 
 In Japan’s 2023-2024 maritime sector, Handysize vessels led demand, with orders jumping from 52 to 91 and deliveries from 52 to 70, serving regional trade routes in Asia (Southeast Asia, China, South Korea) for dry bulk commodities like steel, cement, grains, and fertilizers, fuelled by a 26% rise in meat exports and robust logistics. Panamax vessels showed stable demand, with orders slightly up from 19 to 21 and deliveries steady at 21, supporting balanced trade in grains and coal across Indo-Pacific routes. Capesize/Neo vessels, however, saw growing demand with orders rising from 18 to 25, but deliveries fell from 18 to 14, reflecting Japan’s need for large bulk carriers to import coal and iron ore, though supply constraints hinder fulfilment.
 
 **US - China Trade Tensions**
-The US has introduced escalating fees on Chinese-owned ($50/NT) and Chinese-built ($18/NT) vessels, aiming to reduce reliance on China's shipyards, which currently control over 67% of the global orderbook. These measures could prompt shipowners—particularly those involved in US trade—to reassess their procurement strategies and potentially shift towards Japanese shipyards, which specialize in bulkers due to their higher delivery volumes. However, such a shift presents challenges. Japan's shipyards may face capacity constraints, and decisions will likely depend on each owner's risk tolerance, cost analysis, and broader fleet strategy. Nevertheless, the added risks and rising costs could gradually diminish China's recent dominance in the shipbuilding sector, potentially creating space for Japan to focus more on bulker construction.
+ The US has introduced escalating fees on Chinese-owned ($50/NT) and Chinese-built ($18/NT) vessels, aiming to reduce reliance on China's shipyards, which currently control over 67% of the global orderbook. These measures could prompt shipowners—particularly those involved in US trade—to reassess their procurement strategies and potentially shift towards Japanese shipyards, which specialize in bulkers due to their higher delivery volumes. However, such a shift presents challenges. Japan's shipyards may face capacity constraints, and decisions will likely depend on each owner's risk tolerance, cost analysis, and broader fleet strategy. Nevertheless, the added risks and rising costs could gradually diminish China's recent dominance in the shipbuilding sector, potentially creating space for Japan to focus more on bulker construction.
 
 ### Policy and Structural Challenges
 

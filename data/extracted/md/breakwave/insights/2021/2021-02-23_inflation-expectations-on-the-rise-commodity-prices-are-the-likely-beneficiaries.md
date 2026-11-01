@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/22/inflation-expectations-on-the-rise-commodity-prices-are-the-likely-beneficiaries"
 tags: ["Global Economy"]
 images_count: 2
-word_count: 650
+word_count: 652
 source_file: "corpus/03-breakwave/insights/2021/2021-02-23_inflation-expectations-on-the-rise-commodity-prices-are-the-likely-beneficiaries.html"
 ---
 
@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-02-23_inflation-expectation
 
 ---
 
-![By Ulf Bergman](assets/2021-02-23_inflation-expectations-on-the-rise-commodity-prices-are-the-likely-beneficiaries_img_image-asset_8fbb0fd6d30e.jpeg)
+![By Ulf Bergman](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-23_inflation-expectations-on-the-rise-commodity-prices-are-the-likely-beneficiaries_img_image-asset_8fbb0fd6d30e.jpeg)
 
 > **Figure 1: By Ulf Bergman**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-23_inflation-expectations-on-the-rise-commodity-prices-are-the-likely-beneficiaries_img_image-asset_8fbb0fd6d30e.jpeg)
@@ -31,7 +31,7 @@ The rising inflation prospects have seen bond yields recovering, with US 10-year
 
 While it is probably a bit premature to start worrying about high inflation rates, investors are nevertheless starting to look for ways to hedge against future rises in prices. Especially, as the Federal Reserve is unlikely to act anytime soon with rate hikes to moderate rising prices. Hence, there is a risk the economy could see a degree of over-heating as a result. If history is any guide, commodities are well placed to cater for any hedging needs against rising inflation.
 
-![Ulf 70](assets/2021-02-23_inflation-expectations-on-the-rise-commodity-prices-are-the-likely-beneficiaries_img_ulf70_0b48ea3c3a05.jpg)
+![Ulf 70](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-23_inflation-expectations-on-the-rise-commodity-prices-are-the-likely-beneficiaries_img_ulf70_0b48ea3c3a05.jpg)
 
 > **Figure 2: Ulf 70**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-23_inflation-expectations-on-the-rise-commodity-prices-are-the-likely-beneficiaries_img_ulf70_0b48ea3c3a05.jpg)

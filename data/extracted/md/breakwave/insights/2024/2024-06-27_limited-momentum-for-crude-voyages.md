@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/27/limited-momentum-for-crude-voyages"
 tags: ["Shipping", "Crude Oil", "Tankers"]
 images_count: 5
-word_count: 1309
+word_count: 1314
 source_file: "corpus/03-breakwave/insights/2024/2024-06-27_limited-momentum-for-crude-voyages.html"
 ---
 

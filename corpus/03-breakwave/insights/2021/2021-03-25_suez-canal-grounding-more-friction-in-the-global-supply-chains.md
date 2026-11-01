@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/25/suez-canal-grounding-more-friction-in-the-global-supply-chains"
 tags: ["Suez Canal"]
 images_count: 2
-word_count: 843
+word_count: 845
 source_file: "corpus/03-breakwave/insights/2021/2021-03-25_suez-canal-grounding-more-friction-in-the-global-supply-chains.html"
 ---
 

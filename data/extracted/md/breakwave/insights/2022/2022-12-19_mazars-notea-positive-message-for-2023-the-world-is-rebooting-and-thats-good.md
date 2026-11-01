@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/12/19/mazars-notea-positive-message-for-2023-the-world-is-rebooting-and-thats-good"
 images_count: 1
-word_count: 1054
+word_count: 1055
 source_file: "corpus/03-breakwave/insights/2022/2022-12-19_mazars-notea-positive-message-for-2023-the-world-is-rebooting-and-thats-good.html"
 ---
 

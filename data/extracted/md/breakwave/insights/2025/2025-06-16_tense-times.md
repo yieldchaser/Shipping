@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/16/tense-times"
 tags: ["Crude", "Tankers", "Markets"]
 images_count: 2
-word_count: 586
+word_count: 588
 source_file: "corpus/03-breakwave/insights/2025/2025-06-16_tense-times.html"
 ---
 

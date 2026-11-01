@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/3/16/vortexa-freight-weekly"
 images_count: 2
-word_count: 667
+word_count: 669
 source_file: "corpus/03-breakwave/insights/2023/2023-03-16_vortexa-freight-weekly.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-16_vortexa-freight-weekl
 
 This week, we look at how sustainable the recent rally in VLCC rates towards China is, and examine the drivers behind declining Pacific MR freight rates. In the West, Aframax rates have begun to cool, and freight fundamentals may not be there to catch them.
 
-By[Dylan Simpson](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=false&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACDtdn0BzHNR8syu_G8WxL-JXL-9PRT5AP4&keywords=dylan%20simpson&origin=RICH_QUERY_SUGGESTION&position=0&searchId=55ecee69-a408-47b2-8686-68f172e21af1&sid=mVl)
+By [Dylan Simpson](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=false&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACDtdn0BzHNR8syu_G8WxL-JXL-9PRT5AP4&keywords=dylan%20simpson&origin=RICH_QUERY_SUGGESTION&position=0&searchId=55ecee69-a408-47b2-8686-68f172e21af1&sid=mVl)
 
 ## Analysis / East of Suez / Dirty
 

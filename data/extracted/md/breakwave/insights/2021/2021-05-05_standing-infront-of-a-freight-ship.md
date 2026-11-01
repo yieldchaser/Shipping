@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/5/standing-infront-of-a-freight-ship"
 tags: ["Shipping", "Dry Bulk"]
 images_count: 2
-word_count: 1052
+word_count: 1054
 source_file: "corpus/03-breakwave/insights/2021/2021-05-05_standing-infront-of-a-freight-ship.html"
 ---
 
@@ -24,7 +24,7 @@ With Fronthaul Capesize time charter rates today closing on 100,000/day, the nar
 
 ### Baltic Dry Index, 2010-Present
 
-![Bdi1](assets/2021-05-05_standing-infront-of-a-freight-ship_img_bdi1_ee1e0b71dfa1.jpg)
+![Bdi1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-05_standing-infront-of-a-freight-ship_img_bdi1_ee1e0b71dfa1.jpg)
 
 > **Figure 1: Bdi1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-05_standing-infront-of-a-freight-ship_img_bdi1_ee1e0b71dfa1.jpg)
@@ -38,7 +38,7 @@ We have discussed the fundamental reasons for a strong dry bulk market for 2021 
 - **Cost of freight is still below average versus history:**Of course, it is all about how one measures the cost of freight and what historical period one uses. For dry bulk freight, the fact that the underlying commodities prices have increased considerably, the implied cost of freight has actually remained low despite the recent increases. Take iron ore as an example: with spot prices at $190 per tonne, the current cost of freight from Australia to China stands at around $15 per tonne, leaving a net-of-freight price of about $175 per tonne. This time last year, the corresponding values were $80 per ton for iron ore and ~$5 per tonne for freight, leaving a net-of-freight price of close to $75 per tonne. Despite the tripling of freight prices, the miner actually makes a much greater profit today because of the significant move in the iron ore price. Similar calculations can be done for numerous commodities today.
 - **Sentiment is important:**In a world of computerized trading, fast on-the-go online access to investing platforms and cryptocurrency trading, the human element of dealmaking has all but disappeared. Yet, in shipping, the vast majority of trading involves human interaction. As a result, sentiment plays a major role in pricing. Shipowners today are in the driving seat and in order to lose such an advantage, something has to meaningfully alter their perception of the power they currently possess. Such a parameter can not be quantified or measured. It is the feeling that one gets once involved in the industry. And currently it feels good to own a ship.
 
-![Unsplash Image Gzc4fnqsawq](assets/2021-05-05_standing-infront-of-a-freight-ship_img_unsplash-image-gzc4fnqsawq_ec7981ef1a06.jpg)
+![Unsplash Image Gzc4fnqsawq](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-05_standing-infront-of-a-freight-ship_img_unsplash-image-gzc4fnqsawq_ec7981ef1a06.jpg)
 
 > **Figure 2: Unsplash Image Gzc4fnqsawq**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-05_standing-infront-of-a-freight-ship_img_unsplash-image-gzc4fnqsawq_ec7981ef1a06.jpg)

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/14/dry-bulk-market-amp-chinese-steel-prices-and-production-continue-to-fare-well"
 tags: ["Dry Bulk", "Steel"]
 images_count: 2
-word_count: 505
+word_count: 507
 source_file: "corpus/03-breakwave/insights/2021/2021-03-15_dry-bulk-market-amp-chinese-steel-prices-and-production-continue-to-fare-well.html"
 ---
 
@@ -24,7 +24,7 @@ By[*Jeffrey Landsberg*](mailto:jeffrey@commodore-research.com)
 
 Dry bulk rates increased across the board again last week, with Capesize rates and handysize rates finding the largest amount of support. Capesize rates — while still lagging the strength in the rest of the market — are at firm levels and iron ore trade prospects remain encouraging for this year as a whole. Brazilian iron ore export prospects remain particularly encouraging, and we continue to expect that Brazilian iron ore exports this year will rise by anywhere from 20 to 45 million tons.
 
-![Bull3](assets/2021-03-15_dry-bulk-market-amp-chinese-steel-prices-and-production-continue-to-fare-well_img_bull3_d89e486941bf.jpg)
+![Bull3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-15_dry-bulk-market-amp-chinese-steel-prices-and-production-continue-to-fare-well_img_bull3_d89e486941bf.jpg)
 
 > **Figure 1: Bull3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-15_dry-bulk-market-amp-chinese-steel-prices-and-production-continue-to-fare-well_img_bull3_d89e486941bf.jpg)
@@ -35,7 +35,7 @@ Spooking the market last week, though, was the announcement that authorities in 
 
 Chinese steel prices continue to find support. The average price of hot rolled coil, for example, ended last week at approximately 5,065 yuan/ton ($779), which is 65 yuan (1%) more than a week ago. Prices have continued to set new highs for this year and have now increased for five consecutive weeks. Overall, it remains very positive that Chinese steel prices have been maintaining their strength this year even as a very robust amount of steel is being produced. Steel stockpiles in China also remain down a year-on-year basis.
 
-![Comm 1](assets/2021-03-15_dry-bulk-market-amp-chinese-steel-prices-and-production-continue-to-fare-well_img_comm1_d2c14432c8f4.jpg)
+![Comm 1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-15_dry-bulk-market-amp-chinese-steel-prices-and-production-continue-to-fare-well_img_comm1_d2c14432c8f4.jpg)
 
 > **Figure 2: Comm 1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-15_dry-bulk-market-amp-chinese-steel-prices-and-production-continue-to-fare-well_img_comm1_d2c14432c8f4.jpg)

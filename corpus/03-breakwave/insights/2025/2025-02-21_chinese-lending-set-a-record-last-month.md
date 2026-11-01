@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/21/chinese-lending-set-a-record-last-month"
 tags: ["China", "Shipping", "Economy"]
 images_count: 2
-word_count: 300
+word_count: 302
 source_file: "corpus/03-breakwave/insights/2025/2025-02-21_chinese-lending-set-a-record-last-month.html"
 ---
 

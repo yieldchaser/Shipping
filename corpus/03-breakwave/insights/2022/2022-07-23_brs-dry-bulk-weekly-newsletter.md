@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/22/brs-dry-bulk-weekly-newsletter"
 images_count: 4
-word_count: 1760
+word_count: 1764
 source_file: "corpus/03-breakwave/insights/2022/2022-07-23_brs-dry-bulk-weekly-newsletter.html"
 ---
 
@@ -51,9 +51,9 @@ The data published by The European Association for Coal and Lignite (Euracoal) s
 > **Figure 2: Screenshot 20220722 141839 Samsung Notes**  
 > [Local Asset](assets/2022-07-23_brs-dry-bulk-weekly-newsletter_img_screenshot-20220722-141839-samsungno_0df95fe1fa6d.jpg)
 
-The above graph depicts the total coal import of the EU members from different origins. Surprisingly, the**Netherlands**scores the top as it is the major source for the transshipment of coal to other European nations (mainly out of the USA). In addition, economic growth has increased the energy demand in the Netherlands. The government’s plans to phase out gas production from Groningen coupled with high prices of imported LNG have created a favorable position for coal in the power generation mix of the nation.
+The above graph depicts the total coal import of the EU members from different origins. Surprisingly, the **Netherlands** scores the top as it is the major source for the transshipment of coal to other European nations (mainly out of the USA). In addition, economic growth has increased the energy demand in the Netherlands. The government’s plans to phase out gas production from Groningen coupled with high prices of imported LNG have created a favorable position for coal in the power generation mix of the nation.
 
-**Germany**is completely reliant on imported coal, mainly from Russia since the end of coal mining in 2018. German energy consumption recovered in 2021 with the easing of pandemic control measures and is estimated to import more coal on account of lower wind output and higher gas prices. Subsequently, Germany has announced the creation of a coal reserve to secure supply and is delaying the final closure of some coal plants “until further notice”, keeping them on standby for longer. In fact, Germany's coal importer's association said Russian coal could be completely replaced from the U.S., South Africa, Colombia, and Mozambique by next winter even at higher prices.
+**Germany** is completely reliant on imported coal, mainly from Russia since the end of coal mining in 2018. German energy consumption recovered in 2021 with the easing of pandemic control measures and is estimated to import more coal on account of lower wind output and higher gas prices. Subsequently, Germany has announced the creation of a coal reserve to secure supply and is delaying the final closure of some coal plants “until further notice”, keeping them on standby for longer. In fact, Germany's coal importer's association said Russian coal could be completely replaced from the U.S., South Africa, Colombia, and Mozambique by next winter even at higher prices.
 
 Besides, Italy, Greece, Poland, Romania, and the Czech Republic have announced to delay the closure of their coal-fired power plants to cover eventual shortfalls in energy in the short to medium term.
 

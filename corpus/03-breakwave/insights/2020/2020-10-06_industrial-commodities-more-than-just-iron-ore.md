@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/5/industrial-commodities-more-than-just-iron-ore"
 tags: ["China", "Coal", "Copper"]
 images_count: 3
-word_count: 557
+word_count: 560
 source_file: "corpus/03-breakwave/insights/2020/2020-10-06_industrial-commodities-more-than-just-iron-ore.html"
 ---
 

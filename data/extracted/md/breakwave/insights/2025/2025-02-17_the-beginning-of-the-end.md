@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/17/the-beginning-of-the-end"
 tags: ["Tankers", "Shipping", "Crude"]
 images_count: 2
-word_count: 1365
+word_count: 1367
 source_file: "corpus/03-breakwave/insights/2025/2025-02-17_the-beginning-of-the-end.html"
 ---
 

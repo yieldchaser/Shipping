@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/1/dirty-tonne-days-vlcc"
 tags: ["Tankers", "Crude", "Shipping"]
 images_count: 10
-word_count: 1663
+word_count: 1673
 source_file: "corpus/03-breakwave/insights/2024/2024-11-01_dirty-tonne-days-vlcc.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-11-01_dirty-tonne-days-vlcc
 ---
 
 **Tanker - Weekly Market Monitor**
-Snapshot of Crude and Product Freight Rates, Supply-Demand
+ Snapshot of Crude and Product Freight Rates, Supply-Demand
 Week 44, November 01, 2024
 
 ### Chart of the Week: Dirty Tonne Days VLCC

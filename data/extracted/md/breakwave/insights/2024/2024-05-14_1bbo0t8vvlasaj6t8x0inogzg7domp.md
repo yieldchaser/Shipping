@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/14/1bbo0t8vvlasaj6t8x0inogzg7domp"
 tags: ["Commodities", "Economy", "Markets"]
 images_count: 2
-word_count: 674
+word_count: 676
 source_file: "corpus/03-breakwave/insights/2024/2024-05-14_1bbo0t8vvlasaj6t8x0inogzg7domp.html"
 ---
 
@@ -37,7 +37,7 @@ Supply side issues were the focus for energy and metals markets. The prospect of
 
 **Copper** rallied as prospect of further stimulus in China boosted sentiment. The contraction in credit issued in China last month prompted the government to ramp up spending. The Finance Ministry said it will start selling the first batch of CNY1trn of special bonds, which will be used on infrastructure investment. This follows the easing of restrictions on residential property purchases in the major cities of Hangzhou and Xi’an last week. Supply tightness also remains in focus. New data from the Chilean copper commission, Cochilco, shows the country’s output fell 0.7% y/y to 433.3kt in March. The difficulty in finding large world-class greenfield copper projects is likely behind BHP’s proposed takeover offer for Anglo American. However, an offer from BHP was rebuffed yesterday. Even when potential projects are discovered, current copper prices are still too low to make them economically viable. We estimate developers need at least USD12,000/t to proceed.
 
-**Iron ore**futures are likely to find support after a train collision at Rio Tinto’s Western Australian operations. An autonomous train used to deliver ore to port collided with a set of stationary wagons. The potential disruption to supply comes as the outlook for demand picks up. China’s increase spending on infrastructure, as well as the loosening of restrictions on residential housing builds should boost demand for steel and iron ore.
+**Iron ore** futures are likely to find support after a train collision at Rio Tinto’s Western Australian operations. An autonomous train used to deliver ore to port collided with a set of stationary wagons. The potential disruption to supply comes as the outlook for demand picks up. China’s increase spending on infrastructure, as well as the loosening of restrictions on residential housing builds should boost demand for steel and iron ore.
 
 **Gold** pulled back from a three-week high amidst ongoing inflationary pressures. The Fed’s Lorie Logan said it’s still too early to think about reducing rates, while Michelle Bowman said she doesn’t expect it will be appropriate to cut rates in 2024. However, a potential slowdown in the US economy could force the Fed’s hand. A report showed that US consumer sentiment declined to a six-month low, suggesting key parts of the economy are cooling.
 

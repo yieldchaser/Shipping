@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/5/2/contraction-in-indias-electricity-production"
 images_count: 3
-word_count: 334
+word_count: 337
 source_file: "corpus/03-breakwave/insights/2023/2023-05-03_contraction-in-indias-electricity-production.html"
 ---
 

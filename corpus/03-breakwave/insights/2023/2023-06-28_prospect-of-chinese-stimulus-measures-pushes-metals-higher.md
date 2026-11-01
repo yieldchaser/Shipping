@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/6/28/prospect-of-chinese-stimulus-measures-pushes-metals-higher"
 images_count: 1
-word_count: 569
+word_count: 570
 source_file: "corpus/03-breakwave/insights/2023/2023-06-28_prospect-of-chinese-stimulus-measures-pushes-metals-higher.html"
 ---
 

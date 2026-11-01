@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/3/14/the-great-commodity-crisis-gcc-may-force-the-feds-hand"
 tags: ["Commodities", "Economy", "Volatility"]
 images_count: 3
-word_count: 1093
+word_count: 1096
 source_file: "corpus/03-breakwave/insights/2022/2022-03-14_the-great-commodity-crisis-gcc-may-force-the-feds-hand.html"
 ---
 

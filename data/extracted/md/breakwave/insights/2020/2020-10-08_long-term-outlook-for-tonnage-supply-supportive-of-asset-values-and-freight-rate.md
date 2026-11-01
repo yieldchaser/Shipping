@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/8/long-term-outlook-for-tonnage-supply-supportive-of-asset-values-and-freight-rates"
 tags: ["Shipping"]
 images_count: 3
-word_count: 696
+word_count: 699
 source_file: "corpus/03-breakwave/insights/2020/2020-10-08_long-term-outlook-for-tonnage-supply-supportive-of-asset-values-and-freight-rate.html"
 ---
 

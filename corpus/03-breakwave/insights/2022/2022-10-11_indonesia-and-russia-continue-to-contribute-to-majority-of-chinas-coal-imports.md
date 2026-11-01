@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/11/indonesia-and-russia-continue-to-contribute-to-majority-of-chinas-coal-imports"
 images_count: 3
-word_count: 419
+word_count: 422
 source_file: "corpus/03-breakwave/insights/2022/2022-10-11_indonesia-and-russia-continue-to-contribute-to-majority-of-chinas-coal-imports.html"
 ---
 

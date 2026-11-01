@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-07-05_uk-election-what-mark
 
 ---
 
-By[George Lagarias](https://www.linkedin.com/in/george-lagarias-mba-3baa769/)
+By [George Lagarias](https://www.linkedin.com/in/george-lagarias-mba-3baa769/)
 
 Elections often hold surprises. However, this British general election did not. Rarely has a landslide victory for one party been so thoroughly predicted across political pundits and financial markets. As predicted,**Labour won a significant majority, roughly 170 seats at the time of writing.**Conservatives survived as the opposition party, and Liberal Democrats picked up a significant number of votes, especially in former Tory strongholds.
 
@@ -34,7 +34,7 @@ For UK risk assets, markets perceive that a positive catalyst for a revaluation 
 
 **For markets, thus, the catalyst for a reaction will probably come in the next few days. A Labour government seeking a closer relationship with the EU would possibly translate into improved economic performance and be well-received by markets. It’s opposite, ignoring the matter altogether, could come as a disappointment for investors.**
 
-**The other key issue is growth.**To maintain its lead, the Labour Party chose a general positive message of “hope” on economic growth. Hope isn’t a strategy, is often said. It may have won votes, but now it**needs to be translated into a structured plan for governing**. With a deficit of 4.5% and Debt / GDP at 108%, fiscal space is very limited. UK governments have learned to be careful with the budget, after Liz Truss’s debacle in 2022. Yet Labour leaders have suggested that they will not be aggressive on taxation either.**So, free from the constraints of campaigning, investors are now keen to figure out where growth will come from.**
+**The other key issue is growth.**To maintain its lead, the Labour Party chose a general positive message of “hope” on economic growth. Hope isn’t a strategy, is often said. It may have won votes, but now it **needs to be translated into a structured plan for governing**. With a deficit of 4.5% and Debt / GDP at 108%, fiscal space is very limited. UK governments have learned to be careful with the budget, after Liz Truss’s debacle in 2022. Yet Labour leaders have suggested that they will not be aggressive on taxation either.**So, free from the constraints of campaigning, investors are now keen to figure out where growth will come from.**
 
 **The election wasn’t the catalyst for market reaction. It is what comes right after that will probably affect UK risk assets.**
 

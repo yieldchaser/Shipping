@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/12/22/consumer-spending-in-china-continues-to-improve-but-furniture-sales-remain-in-contraction-search-for-all-messages-with-label-inbox"
 images_count: 2
-word_count: 341
+word_count: 343
 source_file: "corpus/03-breakwave/insights/2023/2023-12-22_consumer-spending-in-china-continues-to-improve-but-furniture-sales-remain-in-co.html"
 ---
 

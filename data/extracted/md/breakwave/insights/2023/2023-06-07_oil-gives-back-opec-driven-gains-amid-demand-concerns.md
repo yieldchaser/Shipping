@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/6/7/oil-gives-back-opec-driven-gains-amid-demand-concerns"
 images_count: 1
-word_count: 563
+word_count: 564
 source_file: "corpus/03-breakwave/insights/2023/2023-06-07_oil-gives-back-opec-driven-gains-amid-demand-concerns.html"
 ---
 
@@ -33,7 +33,7 @@ Concerns over demand continue to weigh on commodity markets. Macro headwinds wer
 
 **European gas** gave back some of yesterday’s gains amid signs of weak demand. Inventories continue to build despite recent supply disruptions. Gas Infrastructure Europe estimate they are now 70% full on average. This eased concerns that the ongoing outage at the Norne field in Norway could tighten the market. This helped take the focus off the move by US exporters to target Asia due to higher prices in that region. LNG imports into Europe were about 25% lower last week than a month earlier, according to Bloomberg data. North Asian LNG futures were also lower. Qatar has stepped up its efforts to secure more customers for its expansion plans by offering shorter and cheaper LNG contracts.
 
-**Iron ore**futures extended its recent rally amid hopes of further support from China. Chinese authorities have asked the nation’s banks to lower their deposit rates for at least the second time in less than a year. The chance of another cut to the reserve requirement ratio is also rising, following an opinion piece in the state-run China Securities Journal. This comes after Beijing introduced measures to support the property market, such as reducing the down payment on properties and further relaxing restrictions on residential purchases.
+**Iron ore** futures extended its recent rally amid hopes of further support from China. Chinese authorities have asked the nation’s banks to lower their deposit rates for at least the second time in less than a year. The chance of another cut to the reserve requirement ratio is also rising, following an opinion piece in the state-run China Securities Journal. This comes after Beijing introduced measures to support the property market, such as reducing the down payment on properties and further relaxing restrictions on residential purchases.
 
 These measures also boosted sentiment in the base metals market, with copper and zinc moving higher. Further drawdowns in inventories is also providing some support.
 

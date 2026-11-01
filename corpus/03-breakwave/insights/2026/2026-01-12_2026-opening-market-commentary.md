@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/12/2026-opening-market-commentary"
 tags: ["Shipping", "Markets"]
 images_count: 1
-word_count: 620
+word_count: 621
 source_file: "corpus/03-breakwave/insights/2026/2026-01-12_2026-opening-market-commentary.html"
 ---
 

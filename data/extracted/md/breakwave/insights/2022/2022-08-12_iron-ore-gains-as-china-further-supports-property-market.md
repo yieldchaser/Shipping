@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/12/iron-ore-gains-as-china-further-supports-property-market"
 images_count: 1
-word_count: 710
+word_count: 711
 source_file: "corpus/03-breakwave/insights/2022/2022-08-12_iron-ore-gains-as-china-further-supports-property-market.html"
 ---
 
@@ -30,7 +30,7 @@ Signs of strong demand boosted sentiment across commodity markets. This was aide
 
 **Crude oil** gained as hopes of stronger demand rose. The International Energy Agency (IEA) lifted its consumption estimate by 380kb/d, saying soaring gas prices amid strong demand for electricity is driving utilities to switch to oil. This could be aided by lower gasoline prices, which have dented demand during the US driving season. Prices fell below USD4/gallon for the first time since March. IEA data showed that US gasoline demand rose by 582kb/d to 9.12mb/d last week. The IEA also warned about impending supply disruptions. It’s forecasting a further 20% fall in Russian output by the start of 2023 as European sanctions bite. This comes as short-term issues impact the market. Six oil and gas fields in the Gulf of Mexico were shut after a leak at a Louisiana booster station halted two pipelines. OPEC may struggle to raise output in coming months due to limited spare capacity.
 
-**European natural gas**edged higher as the continent grapples with strong demand and tighter supply. A heatwave across the region has seen cooking oil demand surge. However, it is facing severe shortages of gas as Russian flows diminish. Concerns of running out of gas over winter has prompted Germany to raise its target for natural gas storage to 95% full by 1 November, compared with 90% previously. Alternative sources may be difficult to find. Extreme weather has seen the Rhine River become almost impassable. It’s forecast to drop below the critical depth of 40cm on 12 August. At that level, barges hauling everything from diesel to coal are effectively unable to transit the river. This resulted in German day-ahead power prices surging more than 12% to EUR398/MWh.
+**European natural gas** edged higher as the continent grapples with strong demand and tighter supply. A heatwave across the region has seen cooking oil demand surge. However, it is facing severe shortages of gas as Russian flows diminish. Concerns of running out of gas over winter has prompted Germany to raise its target for natural gas storage to 95% full by 1 November, compared with 90% previously. Alternative sources may be difficult to find. Extreme weather has seen the Rhine River become almost impassable. It’s forecast to drop below the critical depth of 40cm on 12 August. At that level, barges hauling everything from diesel to coal are effectively unable to transit the river. This resulted in German day-ahead power prices surging more than 12% to EUR398/MWh.
 
 **North Asian LNG** followed European gas markets higher. The high prices have even prompted one Chinese buyer to resell a previously purchased cargo for profit. Nevertheless, interest in the spot market remains strong as utilities look to secure supply ahead of increased competition from Europe.
 

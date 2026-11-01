@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/9/13/decrease-in-indian-electricity-production"
 tags: ["India", "Power"]
 images_count: 1
-word_count: 325
+word_count: 326
 source_file: "corpus/03-breakwave/insights/2020/2020-09-14_decrease-in-indian-electricity-production.html"
 ---
 

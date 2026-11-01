@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/29/metals-gain-amid-renewed-supply-restrictions"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 2
-word_count: 825
+word_count: 827
 source_file: "corpus/03-breakwave/insights/2025/2025-08-29_metals-gain-amid-renewed-supply-restrictions.html"
 ---
 

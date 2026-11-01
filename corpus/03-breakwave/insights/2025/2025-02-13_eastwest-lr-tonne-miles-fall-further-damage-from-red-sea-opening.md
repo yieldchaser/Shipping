@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/13/eastwest-lr-tonne-miles-fall-further-damage-from-red-sea-opening"
 tags: ["Crude", "Markets", "Shipping"]
 images_count: 4
-word_count: 1295
+word_count: 1299
 source_file: "corpus/03-breakwave/insights/2025/2025-02-13_eastwest-lr-tonne-miles-fall-further-damage-from-red-sea-opening.html"
 ---
 

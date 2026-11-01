@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/4/5/gold-gains-amid-weak-economic-data"
 images_count: 2
-word_count: 611
+word_count: 613
 source_file: "corpus/03-breakwave/insights/2023/2023-04-05_gold-gains-amid-weak-economic-data.html"
 ---
 

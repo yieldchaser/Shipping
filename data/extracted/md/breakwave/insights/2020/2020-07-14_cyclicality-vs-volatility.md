@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/7/14/cyclicality-vs-volatility"
 tags: ["Shipping", "Dry Bulk", "Capesize"]
 images_count: 2
-word_count: 442
+word_count: 444
 source_file: "corpus/03-breakwave/insights/2020/2020-07-14_cyclicality-vs-volatility.html"
 ---
 

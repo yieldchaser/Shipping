@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/9/the-global-economy-continues-to-navigate-a-patchy-recovery"
 tags: ["Ironore", "Economy", "Shipping"]
 images_count: 1
-word_count: 1230
+word_count: 1231
 source_file: "corpus/03-breakwave/insights/2025/2025-06-09_the-global-economy-continues-to-navigate-a-patchy-recovery.html"
 ---
 

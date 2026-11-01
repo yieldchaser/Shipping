@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/20/east-coast-south-america-demand-panamax"
 tags: ["Drybulk", "Shipping", "Freightrates"]
 images_count: 5
-word_count: 1218
+word_count: 1223
 source_file: "corpus/03-breakwave/insights/2024/2024-03-20_east-coast-south-america-demand-panamax.html"
 ---
 

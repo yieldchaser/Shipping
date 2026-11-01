@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/5/6/crude-oil-gains-as-opec-struggles-to-raise-output"
 images_count: 1
-word_count: 625
+word_count: 626
 source_file: "corpus/03-breakwave/insights/2022/2022-05-06_crude-oil-gains-as-opec-struggles-to-raise-output.html"
 ---
 

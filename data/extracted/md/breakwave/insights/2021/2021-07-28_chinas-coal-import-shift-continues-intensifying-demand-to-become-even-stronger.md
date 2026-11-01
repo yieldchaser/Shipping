@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/26/chinas-coal-import-shift-continues-intensifying-demand-to-become-even-stronger"
 tags: ["China", "Coal", "Electricity"]
 images_count: 1
-word_count: 592
+word_count: 593
 source_file: "corpus/03-breakwave/insights/2021/2021-07-28_chinas-coal-import-shift-continues-intensifying-demand-to-become-even-stronger.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-07-28_chinas-coal-import-sh
 
 China's coal import data for June by origin was released recently and shows imports from Indonesia have remained the primary source of coal imports while the ban on Australia remains in place. June has marked the seventh straight month where China has not imported any Australian coal.
 
-![A1](assets/2021-07-28_chinas-coal-import-shift-continues-intensifying-demand-to-become-even-stronger_img_a1_ea14c25e0ee0.jpg)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-28_chinas-coal-import-shift-continues-intensifying-demand-to-become-even-stronger_img_a1_ea14c25e0ee0.jpg)
 
 > **Figure 1: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-28_chinas-coal-import-shift-continues-intensifying-demand-to-become-even-stronger_img_a1_ea14c25e0ee0.jpg)

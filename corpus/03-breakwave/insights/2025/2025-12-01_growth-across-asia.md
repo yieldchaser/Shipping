@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/1/growth-across-asia"
 tags: ["Markets", "Economy", "Shipping"]
 images_count: 1
-word_count: 1111
+word_count: 1112
 source_file: "corpus/03-breakwave/insights/2025/2025-12-01_growth-across-asia.html"
 ---
 

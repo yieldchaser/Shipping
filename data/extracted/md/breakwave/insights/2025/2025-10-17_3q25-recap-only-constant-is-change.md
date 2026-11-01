@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/17/3q25-recap-only-constant-is-change"
 tags: ["Shipping", "Markets", "Commodities"]
 images_count: 5
-word_count: 1498
+word_count: 1503
 source_file: "corpus/03-breakwave/insights/2025/2025-10-17_3q25-recap-only-constant-is-change.html"
 ---
 

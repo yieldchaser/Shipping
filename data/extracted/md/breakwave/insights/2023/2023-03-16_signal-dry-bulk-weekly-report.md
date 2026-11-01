@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/3/16/signal-dry-bulk-weekly-report"
 images_count: 5
-word_count: 1067
+word_count: 1072
 source_file: "corpus/03-breakwave/insights/2023/2023-03-16_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -62,7 +62,7 @@ The number of ballast ships has increased in all size classes, with only suprama
 - **Capesize** SE Africa: The number of vessels now stands at 103, which is 16% more than in week 7 and 29% more than the annual average.
 - **Panamax** SE Africa: The number of vessels increased to 113, 26 more than two weeks ago, with a tendency to increase further in the second half of March.
 - **Supramax** SE Asia: The number of vessels decreased to 100, 10 less than a week ago and 15% above the year-end 2022 low.
-- **Handys**ize NOPAC: The number of vessels now stands at 88, which is 11 above the annual average and has been rising steadily since week 6.
+- **Handys** ize NOPAC: The number of vessels now stands at 88, which is 11 above the annual average and has been rising steadily since week 6.
 
 ## Section 3/ Demand -TonDays Increasing
 

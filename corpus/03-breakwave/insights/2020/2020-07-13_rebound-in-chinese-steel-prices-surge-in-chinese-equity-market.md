@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/7/11/rebound-in-chinese-steel-prices-surge-in-chinese-equity-market"
 tags: ["China", "Steel", "Coronavirus"]
 images_count: 1
-word_count: 351
+word_count: 352
 source_file: "corpus/03-breakwave/insights/2020/2020-07-13_rebound-in-chinese-steel-prices-surge-in-chinese-equity-market.html"
 ---
 

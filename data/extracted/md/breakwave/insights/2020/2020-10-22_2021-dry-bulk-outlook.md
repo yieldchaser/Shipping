@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/22/2021-dry-bulk-outlook"
 tags: ["Dry Bulk", "Shipping", "China"]
 images_count: 6
-word_count: 1175
+word_count: 1181
 source_file: "corpus/03-breakwave/insights/2020/2020-10-22_2021-dry-bulk-outlook.html"
 ---
 

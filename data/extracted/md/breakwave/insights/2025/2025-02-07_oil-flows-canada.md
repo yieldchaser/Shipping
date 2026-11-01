@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/7/oil-flows-canada"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 10
-word_count: 1719
+word_count: 1729
 source_file: "corpus/03-breakwave/insights/2025/2025-02-07_oil-flows-canada.html"
 ---
 

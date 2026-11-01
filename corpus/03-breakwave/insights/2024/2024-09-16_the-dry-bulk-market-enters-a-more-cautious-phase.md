@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/16/the-dry-bulk-market-enters-a-more-cautious-phase"
 tags: ["Shipping", "Drybulk", "Markets"]
 images_count: 3
-word_count: 1143
+word_count: 1146
 source_file: "corpus/03-breakwave/insights/2024/2024-09-16_the-dry-bulk-market-enters-a-more-cautious-phase.html"
 ---
 

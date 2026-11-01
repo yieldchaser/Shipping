@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/17/ongoing-global-manufacturing-production-growth"
 tags: ["Economy", "Markets", "China"]
 images_count: 3
-word_count: 355
+word_count: 358
 source_file: "corpus/03-breakwave/insights/2025/2025-10-17_ongoing-global-manufacturing-production-growth.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/9/coal-contradictions-define-chinese-demand"
 tags: ["Coal"]
 images_count: 2
-word_count: 922
+word_count: 924
 source_file: "corpus/03-breakwave/insights/2021/2021-04-09_coal-contradictions-define-chinese-demand.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/10/white-house-in-spotlight-again"
 tags: ["Tankers", "Shipping", "Crude"]
 images_count: 2
-word_count: 866
+word_count: 868
 source_file: "corpus/03-breakwave/insights/2025/2025-02-10_white-house-in-spotlight-again.html"
 ---
 

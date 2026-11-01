@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/3/us-port-strikes-new-orleans-congestion"
 tags: ["Drybulk", "Capesize", "Shipping"]
 images_count: 5
-word_count: 1418
+word_count: 1423
 source_file: "corpus/03-breakwave/insights/2024/2024-10-03_us-port-strikes-new-orleans-congestion.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-10-03_us-port-strikes-new-o
 ---
 
 **Dry Weekly Market Monitor - Week 40.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 October 03, 2024
 
 ## Chart of the Week: Us Port Strikes - New Orleans Congestion

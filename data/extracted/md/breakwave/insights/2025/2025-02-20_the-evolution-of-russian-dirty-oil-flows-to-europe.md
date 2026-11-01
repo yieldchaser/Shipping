@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/20/the-evolution-of-russian-dirty-oil-flows-to-europe"
 tags: ["Shipping", "Crude", "Tankers"]
 images_count: 10
-word_count: 1825
+word_count: 1835
 source_file: "corpus/03-breakwave/insights/2025/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe.html"
 ---
 

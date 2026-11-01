@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/25/coal-situation-in-china-still-bullish"
 tags: ["China", "Coal", "Drybulk"]
 images_count: 3
-word_count: 398
+word_count: 401
 source_file: "corpus/03-breakwave/insights/2026/2026-09-25_coal-situation-in-china-still-bullish.html"
 ---
 

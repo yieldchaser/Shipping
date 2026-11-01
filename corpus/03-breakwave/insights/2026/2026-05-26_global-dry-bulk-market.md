@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/26/global-dry-bulk-market"
 tags: ["Capesize", "Drybulk", "Shipping"]
 images_count: 1
-word_count: 666
+word_count: 667
 source_file: "corpus/03-breakwave/insights/2026/2026-05-26_global-dry-bulk-market.html"
 ---
 

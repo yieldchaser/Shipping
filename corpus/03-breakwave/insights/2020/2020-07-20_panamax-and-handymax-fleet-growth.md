@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/7/20/panamax-and-handymax-fleet-growth"
 tags: ["Shipping", "China", "Capesize", "Panamax", "Supramax"]
 images_count: 1
-word_count: 324
+word_count: 325
 source_file: "corpus/03-breakwave/insights/2020/2020-07-20_panamax-and-handymax-fleet-growth.html"
 ---
 

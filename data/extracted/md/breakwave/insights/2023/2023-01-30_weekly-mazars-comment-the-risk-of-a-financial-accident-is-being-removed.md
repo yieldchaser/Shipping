@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/1/30/weekly-mazars-comment-the-risk-of-a-financial-accident-is-being-removed"
 images_count: 3
-word_count: 1487
+word_count: 1490
 source_file: "corpus/03-breakwave/insights/2023/2023-01-30_weekly-mazars-comment-the-risk-of-a-financial-accident-is-being-removed.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/2/3/weekly-insights-review"
 images_count: 10
-word_count: 1252
+word_count: 1262
 source_file: "corpus/03-breakwave/insights/2023/2023-02-05_weekly-insights-review.html"
 ---
 
@@ -111,7 +111,7 @@ One of the slowest weeks of the year in terms of Chinese activity is now behind 
 ## “Politicians Urged to Set More Ambitious Green Fuel Regulations”
 
 More than 40 signatories,representing the entire green fuels value chain, have written a joint letter urging policymakers to seek proactive and ambitious measures in the FuelEU Maritime discussions
-[Read More](https://www.breakwaveadvisors.com/insights/2023/2/2/breakwave-maritime-decarbonization-report-january-in-review)
+ [Read More](https://www.breakwaveadvisors.com/insights/2023/2/2/breakwave-maritime-decarbonization-report-january-in-review)
 
 ![Market Chart 8](assets/2023-02-05_weekly-insights-review_img_unnamed-2023-02-03t134146315_df6fcbfccdb5.png)
 
@@ -128,7 +128,7 @@ More than 40 signatories,representing the entire green fuels value chain, have w
 ## Indonesia Have Remained China’s Primary Source
 
 Coal import data for December by origin has been released
-[Read More](https://www.breakwaveadvisors.com/insights/2023/2/3/chinas-coal-imports-from-russia-jumped-by-19-last-year)
+ [Read More](https://www.breakwaveadvisors.com/insights/2023/2/3/chinas-coal-imports-from-russia-jumped-by-19-last-year)
 
 ![Unsplash Image 54vugilazhu](assets/2023-02-05_weekly-insights-review_img_unsplash-image-54vugilazhu_733b8af95f96.jpg)
 

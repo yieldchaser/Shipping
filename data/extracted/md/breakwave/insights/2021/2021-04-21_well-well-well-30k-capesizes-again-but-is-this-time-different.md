@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/16/well-well-well-30k-capesizes-again-but-is-this-time-different"
 tags: ["Capesize", "Dry Bulk"]
 images_count: 2
-word_count: 1072
+word_count: 1074
 source_file: "corpus/03-breakwave/insights/2021/2021-04-21_well-well-well-30k-capesizes-again-but-is-this-time-different.html"
 ---
 
@@ -24,7 +24,7 @@ As the spot Capesize index propels past the 30,000 mark once again and the futur
 
 ### Capesize Rates, Spot and 200 Sma; 2014-Present
 
-![Capes April 21](assets/2021-04-21_well-well-well-30k-capesizes-again-but-is-this-time-different_img_capesapril21_cd2c653d308f.jpg)
+![Capes April 21](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-21_well-well-well-30k-capesizes-again-but-is-this-time-different_img_capesapril21_cd2c653d308f.jpg)
 
 > **Figure 1: Capes April 21**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-21_well-well-well-30k-capesizes-again-but-is-this-time-different_img_capesapril21_cd2c653d308f.jpg)
@@ -37,7 +37,7 @@ Then there is the camp that sees the current rally as temporary, fueled by senti
 
 **We think the reality lies somewhere in the middle**. We believe there is a serious restocking cycle underway, mainly coming from ex-China consumers and producers. The logistical chain is a mess, not only in dry bulk but across shipping (see containers) and that is pushing the price of freight higher. New routes, longer waiting times and trip durations and a more diverse cargo base due to significant price differences (a great example is lumber prices across the world) are generating a very positive sentiment in the shipping cycles that is driving prices higher.
 
-![Ship18](assets/2021-04-21_well-well-well-30k-capesizes-again-but-is-this-time-different_img_ship18_12cd82abb0df.jpg)
+![Ship18](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-21_well-well-well-30k-capesizes-again-but-is-this-time-different_img_ship18_12cd82abb0df.jpg)
 
 > **Figure 2: Ship18**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-21_well-well-well-30k-capesizes-again-but-is-this-time-different_img_ship18_12cd82abb0df.jpg)

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/2/indian-and-chinese-thermal-coal-demand-remain-strong"
 tags: ["India", "China", "Coal"]
 images_count: 2
-word_count: 281
+word_count: 283
 source_file: "corpus/03-breakwave/insights/2026/2026-10-02_indian-and-chinese-thermal-coal-demand-remain-strong.html"
 ---
 

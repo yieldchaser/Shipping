@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/11/12/vaccine-hopes-and-india-facing-recession"
 tags: ["COVID-19", "India", "China"]
 images_count: 2
-word_count: 541
+word_count: 543
 source_file: "corpus/03-breakwave/insights/2020/2020-11-12_vaccine-hopes-and-india-facing-recession.html"
 ---
 

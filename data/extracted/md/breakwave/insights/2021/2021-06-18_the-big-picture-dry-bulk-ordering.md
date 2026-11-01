@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/17/the-big-picture-dry-bulk-ordering"
 tags: ["Dry Bulk", "Orderbook"]
 images_count: 5
-word_count: 1669
+word_count: 1674
 source_file: "corpus/03-breakwave/insights/2021/2021-06-18_the-big-picture-dry-bulk-ordering.html"
 ---
 
@@ -32,7 +32,7 @@ The first five months of 2021 saw 189 bulkers added to the orderbook, compared t
 
 There have been several popular designs within this recent ordering spell. Within our Capesize group category (see p.16 for fleet definitions), contracting so far this quarter is already 27% higher YoY at little under 5m dwt.
 
-![Bmr 1 6.17](assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr1617_dcc95464f483.png)
+![Bmr 1 6.17](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr1617_dcc95464f483.png)
 
 > **Figure 1: Bmr 1 6.17**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr1617_dcc95464f483.png)
@@ -41,7 +41,7 @@ Of these newbuildings, 46% (11 vessels) are Newcastlemaxes, and despite this cla
 
 The Panamax sector has however proved the most attractive for investors recently, with April seeing 2.4m dwt in orders. This is the highest monthly figure for this sector since August 2017, largely down to continued popularity of Kamsarmax designs. There has also been a resurgence in Post-Panamax ordering this year, with orders over 2021 so far already totalling 32 ships, 33% higher than 2020’s total and greater than total orders in each year dating back to 2009. Many of these have been contracted as dedicated coal carriers, with a shallow draft and greater intake than the Kamsarmaxes making them optimised for these trades.
 
-![Bmr 2 6.17](assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr2617_4d672a493870.png)
+![Bmr 2 6.17](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr2617_4d672a493870.png)
 
 > **Figure 2: Bmr 2 6.17**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr2617_4d672a493870.png)
@@ -56,7 +56,7 @@ But despite contracting activity picking up across these markets over the last f
 
 Shipyards have experienced a surge in total demand for newbuildings so far in 2021. Across the different shipping markets, 954 vessels were ordered in the first five months of the year, an increase of 80% YoY and the highest since 2014. But new bulk carriers have taken a backseat, with other types of ships seeing far greater additions to the delivery schedule. Containership newbuildings, especially the bigger classes, have so far dominated the total orderbook this year. As global retail and manufacturing activity recovers from the pandemic, rates for these ships have surged by as much as 360% YoY, pushing owners to expand fleets. Falling to 34% in Q2, over half of total orders placed in Q1 of this year are for these kind of vessels, the highest share of orders for 15 years and the greatest absolute number of orders since Q1 2008. On the tanker side, an already-large orderbook means that new orders for VLCCs and Suezmaxes are reportedly being pushed out to as far as 2024 for delivery. These ships accounted for 21% of orders in Q2.
 
-![Bmr3 6.17](assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr3617_76675224213b.png)
+![Bmr3 6.17](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr3617_76675224213b.png)
 
 > **Figure 3: Bmr3 6.17**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr3617_76675224213b.png)
@@ -69,7 +69,7 @@ Given the varying newbuilding prices across the shipping markets, it is also uns
 
 The massive rise in steel prices in 2021 has also seen bulker prices sharply increase over just a few months. Many buyers have seen quotes on their ships rise by as much as 21% since February of this year in the case of a Japanese-built Kamsarmax. As a result, some investors have taken a step back from the newbuilding market for the time being. Steel prices on the Shanghai futures exchange for Hot-Rolled Coil (HRC) and Rebar reached all time highs in May to RMB 5,975/t and RMB 4,779/t rising 36% and 75% YoY respectively.
 
-![Bmr4 6.17](assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr4617_770a1874b08b.png)
+![Bmr4 6.17](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr4617_770a1874b08b.png)
 
 > **Figure 4: Bmr4 6.17**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr4617_770a1874b08b.png)
@@ -84,7 +84,7 @@ The IMO has this week agreed to improve carbon intensity of the overall fleet by
 
 Green financing, outlined by the Green Bond Principles (GBP), has incentivised buyers to consider purchasing new vessels with LNG dual-fuel engines. The reputational gain for companies investing in this technology is attractive, but the hefty price tag and uncertainty over bunkering infrastructure and pricing means that uptake has been limited to the larger ships. In these markets, orders are often backed by long-term charters and trading routes are known in advance.
 
-![Bmr 5 6.17](assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr5617_15dfa8357f78.png)
+![Bmr 5 6.17](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr5617_15dfa8357f78.png)
 
 > **Figure 5: Bmr 5 6.17**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr5617_15dfa8357f78.png)

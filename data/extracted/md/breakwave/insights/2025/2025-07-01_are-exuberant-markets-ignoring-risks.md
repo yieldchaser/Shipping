@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/1/are-exuberant-markets-ignoring-risks"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 9
-word_count: 1790
+word_count: 1799
 source_file: "corpus/03-breakwave/insights/2025/2025-07-01_are-exuberant-markets-ignoring-risks.html"
 ---
 

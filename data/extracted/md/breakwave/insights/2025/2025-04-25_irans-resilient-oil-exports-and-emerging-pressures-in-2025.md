@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/25/irans-resilient-oil-exports-and-emerging-pressures-in-2025"
 tags: ["Tankers", "Crude", "Markets"]
 images_count: 10
-word_count: 1638
+word_count: 1648
 source_file: "corpus/03-breakwave/insights/2025/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025.html"
 ---
 

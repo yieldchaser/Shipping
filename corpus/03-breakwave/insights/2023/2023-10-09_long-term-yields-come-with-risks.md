@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/10/9/long-term-yields-come-with-risks"
 images_count: 5
-word_count: 1262
+word_count: 1267
 source_file: "corpus/03-breakwave/insights/2023/2023-10-09_long-term-yields-come-with-risks.html"
 ---
 

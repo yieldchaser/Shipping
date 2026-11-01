@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/18/stronger-usd-weighs-on-sentiment"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 2
-word_count: 813
+word_count: 815
 source_file: "corpus/03-breakwave/insights/2025/2025-09-18_stronger-usd-weighs-on-sentiment.html"
 ---
 

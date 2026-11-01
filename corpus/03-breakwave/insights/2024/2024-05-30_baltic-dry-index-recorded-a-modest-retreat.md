@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/30/baltic-dry-index-recorded-a-modest-retreat"
 tags: ["Markets", "Shipping", "Commodities"]
 images_count: 1
-word_count: 1225
+word_count: 1226
 source_file: "corpus/03-breakwave/insights/2024/2024-05-30_baltic-dry-index-recorded-a-modest-retreat.html"
 ---
 

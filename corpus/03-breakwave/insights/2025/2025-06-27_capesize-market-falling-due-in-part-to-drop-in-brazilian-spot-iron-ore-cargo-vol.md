@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/27/capesize-market-falling-due-in-part-to-drop-in-brazilian-spot-iron-ore-cargo-volume"
 tags: ["Ironore", "Capesize", "Shipping"]
 images_count: 1
-word_count: 301
+word_count: 302
 source_file: "corpus/03-breakwave/insights/2025/2025-06-27_capesize-market-falling-due-in-part-to-drop-in-brazilian-spot-iron-ore-cargo-vol.html"
 ---
 

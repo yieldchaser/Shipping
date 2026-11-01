@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/25/commodity-boom-supercycle-me"
 tags: ["Global Economy", "Shipping"]
 images_count: 4
-word_count: 1820
+word_count: 1824
 source_file: "corpus/03-breakwave/insights/2021/2021-02-25_commodity-boom-supercycle-me.html"
 ---
 

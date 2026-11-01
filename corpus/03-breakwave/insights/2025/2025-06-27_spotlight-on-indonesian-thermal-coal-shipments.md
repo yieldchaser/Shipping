@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/27/spotlight-on-indonesian-thermal-coal-shipments"
 tags: ["Drybulk", "Shipping", "Capesize"]
 images_count: 13
-word_count: 1787
+word_count: 1800
 source_file: "corpus/03-breakwave/insights/2025/2025-06-27_spotlight-on-indonesian-thermal-coal-shipments.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-06-27_spotlight-on-indonesi
 ---
 
 **WEEKLY DRY MARKET MONITOR**
-*Spot Rates | Supply-Demand Trends | Port Congestion Overview*
+ *Spot Rates | Supply-Demand Trends | Port Congestion Overview*
 
 Week 26, 2025 | Date: June 26, 2025
 
@@ -30,13 +30,13 @@ Week 26, 2025 | Date: June 26, 2025
 > **Figure 1: Chart of the Week: Spotlight on Indonesian Thermal Coal Shipments**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2r7gxx/506106936/h/1cCf1HbH259FoyN5B7cgGryYlEgqZv4_op4HzRuDMm4) | [Local Asset](assets/2025-06-27_spotlight-on-indonesian-thermal-coal-shipments_img_unnamed_b50df50c3246.png)
 
-This week’s**Market Monitor**highlights a notable shift in thermal coal trade flows, particularly in the evolving import strategies of China and India. According to the latest dry bulk flow data, Indonesia continues to account for 48% of global thermal coal exports, with Taboneo and Muara Berau remaining the most active origin terminals. However, Chinese and Indian buyers are increasingly turning to higher-grade coal alternatives from countries such as Australia and Russia. This trend appears to be mainly driven by the current downturn in global coal prices, which has made energy-dense coal from non-Indonesian sources more cost-competitive.
+This week’s**Market Monitor** highlights a notable shift in thermal coal trade flows, particularly in the evolving import strategies of China and India. According to the latest dry bulk flow data, Indonesia continues to account for 48% of global thermal coal exports, with Taboneo and Muara Berau remaining the most active origin terminals. However, Chinese and Indian buyers are increasingly turning to higher-grade coal alternatives from countries such as Australia and Russia. This trend appears to be mainly driven by the current downturn in global coal prices, which has made energy-dense coal from non-Indonesian sources more cost-competitive.
 
-**World Bank**data confirms that Australia’s Newcastle 6,300 kcal/kg FOB coal price averaged $104.41/t in May 2025, up approximately 6% from $98.61 in April, but down about 26.5% compared to $142.01 in May 2024. Meanwhile, as early as March, trends indicated that railborne coal imports from[Mongolia](https://go.signalocean.com/e/983831/-523718-utm-source-chatgpt-com/2r7gy1/506106936/h/1cCf1HbH259FoyN5B7cgGryYlEgqZv4_op4HzRuDMm4)and Russia were gaining share, as improved infrastructure made land transport cheaper than seaborne alternatives.
+**World Bank** data confirms that Australia’s Newcastle 6,300 kcal/kg FOB coal price averaged $104.41/t in May 2025, up approximately 6% from $98.61 in April, but down about 26.5% compared to $142.01 in May 2024. Meanwhile, as early as March, trends indicated that railborne coal imports from [Mongolia](https://go.signalocean.com/e/983831/-523718-utm-source-chatgpt-com/2r7gy1/506106936/h/1cCf1HbH259FoyN5B7cgGryYlEgqZv4_op4HzRuDMm4) and Russia were gaining share, as improved infrastructure made land transport cheaper than seaborne alternatives.
 
-**China**continues to dominate, receiving 42% of Indonesian coal shipments, followed by India at 19%. However, both nations are showing a clear shift toward sourcing coal with higher calorific values. At the same time, Chinese seaborne coal imports are being gradually displaced by rising domestic coal production, which is a trend reinforced by policy support and the continued approval of new coal-fired power plants.
+**China** continues to dominate, receiving 42% of Indonesian coal shipments, followed by India at 19%. However, both nations are showing a clear shift toward sourcing coal with higher calorific values. At the same time, Chinese seaborne coal imports are being gradually displaced by rising domestic coal production, which is a trend reinforced by policy support and the continued approval of new coal-fired power plants.
 
-In**Q1**2025,**China**approved 11.3 GW of new coal plant capacity, surpassing the 10.3 GW approved in the entire first half of 2024, signaling continued support for domestic coal infrastructure. In early June, the China Coal Transportation & Distribution Association projected that[coal imports](https://go.signalocean.com/e/983831/p-says--utm-source-chatgpt-com/2r7gy4/506106936/h/1cCf1HbH259FoyN5B7cgGryYlEgqZv4_op4HzRuDMm4)could decline by 50–100 million tonnes in 2025, stemming from significantly higher domestic production and state directives to reduce imports and stockpile local coal.
+In **Q1** 2025,**China** approved 11.3 GW of new coal plant capacity, surpassing the 10.3 GW approved in the entire first half of 2024, signaling continued support for domestic coal infrastructure. In early June, the China Coal Transportation & Distribution Association projected that [coal imports](https://go.signalocean.com/e/983831/p-says--utm-source-chatgpt-com/2r7gy4/506106936/h/1cCf1HbH259FoyN5B7cgGryYlEgqZv4_op4HzRuDMm4) could decline by 50–100 million tonnes in 2025, stemming from significantly higher domestic production and state directives to reduce imports and stockpile local coal.
 
 ![Στιγμιότυπο Οθόνης 2025 06 27 114010](assets/2025-06-27_spotlight-on-indonesian-thermal-coal-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2f7c4fc5648.png)
 
@@ -52,7 +52,7 @@ vessel freight rates on the Brazil–North China route fell by 6% week-on-week, 
 > **Figure 3: Capesize**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ic-capes-insights-downloadable/2r7gyf/506106936/h/1cCf1HbH259FoyN5B7cgGryYlEgqZv4_op4HzRuDMm4) | [Local Asset](assets/2025-06-27_spotlight-on-indonesian-thermal-coal-shipments_img_unnamed28129_17cce30461f1.png)
 
-Panamax - ECSA / Far East**Weaker**
+Panamax - ECSA / Far East **Weaker**
 
 vessel freight rates from the ECSA to the Far East have dropped to $32 per tonne, though they remain above the late-May low of $29 per tonne. This weakening trend is expected to persist, as the number of Panamax ballasters heading to the ECSA holds above 260, while daily loading volumes in the region are trending downward, falling below 0.8 million metric tons.
 

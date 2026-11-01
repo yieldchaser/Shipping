@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/9/22/the-shipfix-blog-is-the-capesize-recovery-sustainable"
 images_count: 3
-word_count: 1188
+word_count: 1191
 source_file: "corpus/03-breakwave/insights/2022/2022-09-22_the-shipfix-blog-is-the-capesize-recovery-sustainable.html"
 ---
 

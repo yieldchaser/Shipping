@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/15/smaller-dry-bulk-vessel-classes-continue-to-benefit-from-robust-coarse-grain-trade"
 tags: ["Drybulk", "Shipping", "Grains"]
 images_count: 2
-word_count: 405
+word_count: 407
 source_file: "corpus/03-breakwave/insights/2024/2024-03-15_smaller-dry-bulk-vessel-classes-continue-to-benefit-from-robust-coarse-grain-tra.html"
 ---
 

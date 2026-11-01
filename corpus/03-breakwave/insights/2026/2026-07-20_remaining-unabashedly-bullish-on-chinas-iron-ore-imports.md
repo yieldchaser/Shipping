@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/7/20/remaining-unabashedly-bullish-on-chinas-iron-ore-imports"
 tags: ["China", "Ironore", "Drybulk"]
 images_count: 2
-word_count: 398
+word_count: 400
 source_file: "corpus/03-breakwave/insights/2026/2026-07-20_remaining-unabashedly-bullish-on-chinas-iron-ore-imports.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/26/weekly-dry-market-report"
 images_count: 4
-word_count: 884
+word_count: 888
 source_file: "corpus/03-breakwave/insights/2022/2022-08-27_weekly-dry-market-report.html"
 ---
 

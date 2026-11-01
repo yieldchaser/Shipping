@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/3/28/mazars-comment-a-war-on-two-fronts"
 images_count: 3
-word_count: 1296
+word_count: 1299
 source_file: "corpus/03-breakwave/insights/2023/2023-03-28_mazars-comment-a-war-on-two-fronts.html"
 ---
 

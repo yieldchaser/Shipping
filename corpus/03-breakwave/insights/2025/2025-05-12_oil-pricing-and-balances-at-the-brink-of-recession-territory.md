@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/12/oil-pricing-and-balances-at-the-brink-of-recession-territory"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 2
-word_count: 1361
+word_count: 1363
 source_file: "corpus/03-breakwave/insights/2025/2025-05-12_oil-pricing-and-balances-at-the-brink-of-recession-territory.html"
 ---
 

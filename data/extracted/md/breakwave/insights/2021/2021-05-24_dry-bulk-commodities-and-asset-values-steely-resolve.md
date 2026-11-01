@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/24/dry-bulk-commodities-and-asset-values-steely-resolve"
 tags: ["Dry Bulk", "Shipping"]
 images_count: 2
-word_count: 1065
+word_count: 1067
 source_file: "corpus/03-breakwave/insights/2021/2021-05-24_dry-bulk-commodities-and-asset-values-steely-resolve.html"
 ---
 
@@ -28,7 +28,7 @@ Thus, market expectations of 2021 economic bounce back were blended with commodi
 
 Mining commodities, especially iron ore and copper, have skyrocketed with iron ore to have hit a record high shy of US$230/t by mid-May, before retreating to sub US$200/t levels, albeit with fundamentals on its bench. Iron ore June contracts are also trading at below US$200/t lately as China stepped up to cool surging commodity prices by intensifying inspections on spot and futures markets.
 
-![Unsplash Image Satnyod77jg](assets/2021-05-24_dry-bulk-commodities-and-asset-values-steely-resolve_img_unsplash-image-satnyod77jg_496bbc674692.jpg)
+![Unsplash Image Satnyod77jg](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-24_dry-bulk-commodities-and-asset-values-steely-resolve_img_unsplash-image-satnyod77jg_496bbc674692.jpg)
 
 > **Figure 1: Unsplash Image Satnyod77jg**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-24_dry-bulk-commodities-and-asset-values-steely-resolve_img_unsplash-image-satnyod77jg_496bbc674692.jpg)
@@ -43,7 +43,7 @@ With soaring commodity prices feeding into steel prices (over US$1,000/t with ru
 
 Nevertheless, the situation is posing significant headaches for the yards which are not able to hedge their steel cost successfully and, in any case, are being forced to temporize new marketing slots since they have no pressure to sign loss making business unless quote prices that are advancing to levels that really bite so as to cover the incorporated steel cost component of final price.
 
-![Unsplash Image S15r4vsqhy](assets/2021-05-24_dry-bulk-commodities-and-asset-values-steely-resolve_img_unsplash-image-s15r4vsqhy_be3468aa17a6.jpg)
+![Unsplash Image S15r4vsqhy](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-24_dry-bulk-commodities-and-asset-values-steely-resolve_img_unsplash-image-s15r4vsqhy_be3468aa17a6.jpg)
 
 > **Figure 2: Unsplash Image S15r4vsqhy**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-24_dry-bulk-commodities-and-asset-values-steely-resolve_img_unsplash-image-s15r4vsqhy_be3468aa17a6.jpg)

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/5/11/simandou-ships-record-quantity-of-iron-ore-swelling-chinese-stocks"
 tags: ["Ironore", "Drybulk", "Shipping"]
 images_count: 3
-word_count: 790
+word_count: 793
 source_file: "corpus/03-breakwave/insights/2026/2026-05-11_simandou-ships-record-quantity-of-iron-ore-swelling-chinese-stocks.html"
 ---
 

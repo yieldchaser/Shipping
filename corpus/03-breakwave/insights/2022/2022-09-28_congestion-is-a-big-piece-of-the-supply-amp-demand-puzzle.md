@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/9/28/congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle"
 images_count: 5
-word_count: 2143
+word_count: 2148
 source_file: "corpus/03-breakwave/insights/2022/2022-09-28_congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle.html"
 ---
 

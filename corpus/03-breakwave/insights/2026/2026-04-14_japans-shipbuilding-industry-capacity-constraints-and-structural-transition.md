@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/4/14/japans-shipbuilding-industry-capacity-constraints-and-structural-transition"
 tags: ["Drybulk", "Shipping", "Commodities"]
 images_count: 4
-word_count: 1452
+word_count: 1456
 source_file: "corpus/03-breakwave/insights/2026/2026-04-14_japans-shipbuilding-industry-capacity-constraints-and-structural-transition.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/1/21/bidenomics-will-shipping-benefit"
 images_count: 3
-word_count: 1001
+word_count: 1004
 source_file: "corpus/03-breakwave/insights/2021/2021-01-21_bidenomics-will-shipping-benefit.html"
 ---
 
@@ -19,7 +19,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-01-21_bidenomics-will-shipp
 
 ---
 
-![By Ulf Bergman](assets/2021-01-21_bidenomics-will-shipping-benefit_img_image-asset_24ca9c380554.jpeg)
+![By Ulf Bergman](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-21_bidenomics-will-shipping-benefit_img_image-asset_24ca9c380554.jpeg)
 
 > **Figure 1: By Ulf Bergman**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-21_bidenomics-will-shipping-benefit_img_image-asset_24ca9c380554.jpeg)
@@ -34,14 +34,14 @@ The second phase, which is expected to be presented in the early parts of Februa
 
 Depending on the extent of the new infrastructure investments, the ramped-up demand for construction materials may require increasing imports as domestic production may not be able to expand sufficiently. Shipping, and in particular dry bulk, will benefit from an increase in demand for tonnage to import the construction material to the US. While the US is the fourth largest producer of cement in the world, its output is dwarfed by the Chinese production. A large increase in demand for cement, if the investment programme is sizeable, would probably force the US to find additional sources overseas. China is the dominant producer, with almost seventy percent of global output, and is a likely candidate for providing additional volumes required. Such a development would add some additional tonne-mile demand for the mid-sized vessels in the dry bulk sector for the voyage across the Pacific.
 
-![Market Chart 2](assets/2021-01-21_bidenomics-will-shipping-benefit_img_image-asset_d37e847872ea.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-21_bidenomics-will-shipping-benefit_img_image-asset_d37e847872ea.png)
 
 > **Figure 2: Market Chart 2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-21_bidenomics-will-shipping-benefit_img_image-asset_d37e847872ea.png)
 
 Another striking aspect of the inauguration speech was how the new president sees the country’s place in the world. The customary American approach of working with its allies and international organisations, promoting global trade among other things, has returned and is likely to benefit the shipping industry. The growing protectionism that the world has seen for the last few years is not beneficial for shipping in the longer-term, with less goods moving around the world. However, with the world’s largest economy now back in a more traditional role, the process of increasing protectionism may not disappear but retreat to some extent.
 
-![China Us](assets/2021-01-21_bidenomics-will-shipping-benefit_img_chinaus_43a996c352d2.jpeg)
+![China Us](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-21_bidenomics-will-shipping-benefit_img_chinaus_43a996c352d2.jpeg)
 
 > **Figure 3: China Us**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-21_bidenomics-will-shipping-benefit_img_chinaus_43a996c352d2.jpeg)

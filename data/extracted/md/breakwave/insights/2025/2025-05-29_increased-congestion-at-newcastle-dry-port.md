@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/29/increased-congestion-at-newcastle-dry-port"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 5
-word_count: 1459
+word_count: 1464
 source_file: "corpus/03-breakwave/insights/2025/2025-05-29_increased-congestion-at-newcastle-dry-port.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-05-29_increased-congestion-
 ---
 
 **Dry Weekly Market Monitor - Week 22, 2025**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 May 28, 2025
 
 ![Στιγμιότυπο Οθόνης 2025 05 29 142322](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-29_increased-congestion-at-newcastle-dry-port_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc50a80eff72.png)

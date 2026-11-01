@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/5/30/mazars-comment-very-slow-growth-higher-than-average-inflation-stagflation"
 images_count: 3
-word_count: 1279
+word_count: 1282
 source_file: "corpus/03-breakwave/insights/2023/2023-05-30_mazars-comment-very-slow-growth-higher-than-average-inflation-stagflation.html"
 ---
 

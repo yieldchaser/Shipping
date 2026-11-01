@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/3/2/vlcc-second-hand-prices-at-decade-highs"
 tags: ["Oil", "Tankers", "Crude"]
 images_count: 14
-word_count: 2625
+word_count: 2639
 source_file: "corpus/03-breakwave/insights/2026/2026-03-02_vlcc-second-hand-prices-at-decade-highs.html"
 ---
 

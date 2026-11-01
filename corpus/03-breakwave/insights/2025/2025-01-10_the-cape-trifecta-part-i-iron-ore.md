@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/10/the-cape-trifecta-part-i-iron-ore"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 4
-word_count: 1156
+word_count: 1160
 source_file: "corpus/03-breakwave/insights/2025/2025-01-10_the-cape-trifecta-part-i-iron-ore.html"
 ---
 

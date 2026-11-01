@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/5/chinese-oil-imports-continue-to-suffer"
 tags: ["China", "Shipping", "Crude"]
 images_count: 1
-word_count: 191
+word_count: 192
 source_file: "corpus/03-breakwave/insights/2025/2025-02-05_chinese-oil-imports-continue-to-suffer.html"
 ---
 

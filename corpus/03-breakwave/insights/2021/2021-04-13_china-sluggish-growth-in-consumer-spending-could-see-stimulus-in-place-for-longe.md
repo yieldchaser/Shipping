@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/13/china-sluggish-growth-in-consumer-spending-could-see-stimulus-in-place-for-longer"
 tags: ["China"]
 images_count: 3
-word_count: 894
+word_count: 897
 source_file: "corpus/03-breakwave/insights/2021/2021-04-13_china-sluggish-growth-in-consumer-spending-could-see-stimulus-in-place-for-longe.html"
 ---
 

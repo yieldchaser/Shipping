@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/9/7/nigerias-comeback-oil-flows-rise-as-production-hits-a-record-in-july"
 tags: ["Tankers", "Crude", "Markets"]
 images_count: 13
-word_count: 1627
+word_count: 1640
 source_file: "corpus/03-breakwave/insights/2025/2025-09-07_nigerias-comeback-oil-flows-rise-as-production-hits-a-record-in-july.html"
 ---
 

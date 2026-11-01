@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/7/19/signal-dry-bulk-weekly-report"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 5
-word_count: 1176
+word_count: 1181
 source_file: "corpus/03-breakwave/insights/2023/2023-07-19_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -42,7 +42,7 @@ Freight Market, Supply, Demand and Port Congestion
 ## Section 1/ Freight​​​
 
 ‘The Big Picture’ - Capesize and Panamax Bulkers and Smaller Ship Sizes
-**Market Rates ($/t) Weaker**
+ **Market Rates ($/t) Weaker**
 
 ![242](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-19_signal-dry-bulk-weekly-report_img_242_c8e07ea97658.png)
 
@@ -59,7 +59,7 @@ The third week of July begins with a still weaker sentiment of freight rates, wh
 ## Section 2/ Supply ​​​
 
 Supply Trend Lines for Key Load Areas
-**Ballasters (# vessels) Increasing**
+ **Ballasters (# vessels) Increasing**
 
 ![243](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-19_signal-dry-bulk-weekly-report_img_243_f48003792f1a.png)
 
@@ -76,7 +76,7 @@ The third week of July saw a strengthening of the upward trend of the previous w
 ## Section 3/ Demand
 
 Summary of Dry Bulk Demand, per Ship Size
-**TonneDays Decreasing**
+ **TonneDays Decreasing**
 
 ![244](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-19_signal-dry-bulk-weekly-report_img_244_9118ef6b0979.png)
 
@@ -93,7 +93,7 @@ The third week of July persisted with the similar downward trend of the previous
 ## Section 4/ Port Congestion ​​​​​
 
 Dry bulk ships congested at Chinese ports
-**No of VesselsDecreasing**
+ **No of VesselsDecreasing**
 
 ![Data Source:signal Ocean Platform](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-19_signal-dry-bulk-weekly-report_img_245_d2a83ef8cb2f.png)
 

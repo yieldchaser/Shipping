@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/8/5/chokepoints-calculus-uneven-fees-risks-amp-consequences"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 4
-word_count: 1562
+word_count: 1566
 source_file: "corpus/03-breakwave/insights/2026/2026-08-05_chokepoints-calculus-uneven-fees-risks-amp-consequences.html"
 ---
 

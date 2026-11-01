@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/13/chevron-licence-revocation-could-hurt-aframax-rates-in-ec-americas"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 4
-word_count: 1260
+word_count: 1264
 source_file: "corpus/03-breakwave/insights/2025/2025-03-13_chevron-licence-revocation-could-hurt-aframax-rates-in-ec-americas.html"
 ---
 

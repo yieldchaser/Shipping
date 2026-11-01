@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/25/european-coal-prices-gaining-30-over-the-past-five-weeks"
 tags: ["Markets", "Shipping", "Commodities"]
 images_count: 1
-word_count: 1355
+word_count: 1356
 source_file: "corpus/03-breakwave/insights/2024/2024-03-25_european-coal-prices-gaining-30-over-the-past-five-weeks.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/5/19/more-grain-exports-expected-next-season"
 images_count: 1
-word_count: 315
+word_count: 316
 source_file: "corpus/03-breakwave/insights/2023/2023-05-19_more-grain-exports-expected-next-season.html"
 ---
 

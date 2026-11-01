@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/24/dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 5
-word_count: 1531
+word_count: 1536
 source_file: "corpus/03-breakwave/insights/2025/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-04-24_dry-bulk-voyage-flows
 ---
 
 **Dry Weekly Market Monitor - Week 17, 2025**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 April 23, 2025
 
 ![Στιγμιότυπο Οθόνης 2025 04 24 102233](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fa1cee0b4b89.png)

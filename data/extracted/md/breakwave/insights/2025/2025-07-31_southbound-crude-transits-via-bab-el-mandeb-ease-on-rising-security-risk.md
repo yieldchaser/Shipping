@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/31/southbound-crude-transits-via-bab-el-mandeb-ease-on-rising-security-risk"
 tags: ["Crude", "Markets", "Tankers"]
 images_count: 2
-word_count: 1338
+word_count: 1340
 source_file: "corpus/03-breakwave/insights/2025/2025-07-31_southbound-crude-transits-via-bab-el-mandeb-ease-on-rising-security-risk.html"
 ---
 

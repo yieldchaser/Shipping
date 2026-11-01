@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/12/6/the-big-picture-sanctions-and-irans-elderly-vlccs"
 tags: ["Tankers", "Markets", "Crude"]
 images_count: 2
-word_count: 1000
+word_count: 1002
 source_file: "corpus/03-breakwave/insights/2024/2024-12-06_the-big-picture-sanctions-and-irans-elderly-vlccs.html"
 ---
 

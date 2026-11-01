@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/2/2/vlccs-in-vogue"
 tags: ["Tankers", "Shipping", "Crude"]
 images_count: 2
-word_count: 845
+word_count: 847
 source_file: "corpus/03-breakwave/insights/2025/2025-02-02_vlccs-in-vogue.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/17/latam-crudecondensates-exports-slow-in-august-after-highs-in-july"
 tags: ["Shipping", "Crude", "Tankers"]
 images_count: 3
-word_count: 839
+word_count: 842
 source_file: "corpus/03-breakwave/insights/2022/2022-08-18_latam-crudecondensates-exports-slow-in-august-after-highs-in-july.html"
 ---
 
@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-08-18_latam-crudecondensate
 
 ---
 
-By[Rohit Rathod](https://www.linkedin.com/in/rathodrohit/)
+By [Rohit Rathod](https://www.linkedin.com/in/rathodrohit/)
 
 LatAm crude/condensates exports (excluding Venezuela) for the first half of August came in at 3.1mbd – a sharp decline from the multiyear high seen in July. Lower Brazilian exports are responsible for the majority of this decline (see chart below), while exports from Mexico and Colombia also fell to a smaller extent. Guyana and Argentina have been the only LatAm nations with growing exports so far in August.
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/12/dry-bulk-seasonal-weakness"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 1
-word_count: 1276
+word_count: 1277
 source_file: "corpus/03-breakwave/insights/2024/2024-06-12_dry-bulk-seasonal-weakness.html"
 ---
 

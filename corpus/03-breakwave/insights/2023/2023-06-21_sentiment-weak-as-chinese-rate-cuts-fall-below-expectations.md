@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/6/21/sentiment-weak-as-chinese-rate-cuts-fall-below-expectations"
 images_count: 1
-word_count: 559
+word_count: 560
 source_file: "corpus/03-breakwave/insights/2023/2023-06-21_sentiment-weak-as-chinese-rate-cuts-fall-below-expectations.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/7/26/metals-extend-gains-as-china-boost-support-for-property-sector"
 images_count: 1
-word_count: 567
+word_count: 568
 source_file: "corpus/03-breakwave/insights/2023/2023-07-26_metals-extend-gains-as-china-boost-support-for-property-sector.html"
 ---
 

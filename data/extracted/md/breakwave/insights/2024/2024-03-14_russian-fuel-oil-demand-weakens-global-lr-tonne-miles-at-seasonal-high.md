@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/3/14/russian-fuel-oil-demand-weakens-global-lr-tonne-miles-at-seasonal-high"
 tags: ["Tankers", "Shipping", "Crude Oil"]
 images_count: 5
-word_count: 1310
+word_count: 1315
 source_file: "corpus/03-breakwave/insights/2024/2024-03-14_russian-fuel-oil-demand-weakens-global-lr-tonne-miles-at-seasonal-high.html"
 ---
 

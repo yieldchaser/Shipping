@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/23/oil-falls-as-opec-considers-further-supply-hikes"
 tags: ["Commodities", "Markets", "Shipping"]
 images_count: 2
-word_count: 771
+word_count: 773
 source_file: "corpus/03-breakwave/insights/2025/2025-05-23_oil-falls-as-opec-considers-further-supply-hikes.html"
 ---
 

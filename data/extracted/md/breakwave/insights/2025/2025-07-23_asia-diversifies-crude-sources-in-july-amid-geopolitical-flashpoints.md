@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/7/22/asia-diversifies-crude-sources-in-july-amid-geopolitical-flashpoints"
 tags: ["Crude", "Markets", "Tankers"]
 images_count: 3
-word_count: 1195
+word_count: 1198
 source_file: "corpus/03-breakwave/insights/2025/2025-07-23_asia-diversifies-crude-sources-in-july-amid-geopolitical-flashpoints.html"
 ---
 

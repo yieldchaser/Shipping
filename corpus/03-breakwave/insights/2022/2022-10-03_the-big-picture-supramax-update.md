@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/3/the-big-picture-supramax-update"
 images_count: 3
-word_count: 880
+word_count: 883
 source_file: "corpus/03-breakwave/insights/2022/2022-10-03_the-big-picture-supramax-update.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/12/1/chinese-industrial-expansion-likely-to-continue-into-the-new-year"
 tags: ["Economics", "Global Economy", "Dry Bulk", "China"]
 images_count: 2
-word_count: 575
+word_count: 577
 source_file: "corpus/03-breakwave/insights/2020/2020-12-01_chinese-industrial-expansion-likely-to-continue-into-the-new-year.html"
 ---
 

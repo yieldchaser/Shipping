@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/4/us-demand-shock-possibly-recession-too-early-to-tell"
 tags: ["Macro", "Economy", "Markets"]
 images_count: 7
-word_count: 2121
+word_count: 2128
 source_file: "corpus/03-breakwave/insights/2025/2025-03-04_us-demand-shock-possibly-recession-too-early-to-tell.html"
 ---
 

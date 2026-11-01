@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/30/ongoing-growth-in-brazils-iron-ore-exports"
 tags: ["Ironore", "Shipping", "Drybulk"]
 images_count: 1
-word_count: 208
+word_count: 209
 source_file: "corpus/03-breakwave/insights/2025/2025-12-30_ongoing-growth-in-brazils-iron-ore-exports.html"
 ---
 

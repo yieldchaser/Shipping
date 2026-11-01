@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/20/vlcc-and-suezmaxes-cleaning-up"
 tags: ["Shipping", "Crude Oil", "Tankers"]
 images_count: 5
-word_count: 1335
+word_count: 1340
 source_file: "corpus/03-breakwave/insights/2024/2024-06-20_vlcc-and-suezmaxes-cleaning-up.html"
 ---
 

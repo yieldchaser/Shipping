@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/20/easing-geopolitical-risks-weigh-on-energy-markets"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 2
-word_count: 797
+word_count: 799
 source_file: "corpus/03-breakwave/insights/2025/2025-11-20_easing-geopolitical-risks-weigh-on-energy-markets.html"
 ---
 
@@ -31,7 +31,7 @@ Easing geopolitical tensions weighed on energy markets, with oil and gas ending 
 
 ### Market Commentary
 
-**Crude oil**prices plunged amid signs of weaker demand and easing supply concerns. Geopolitical risks appeared to ease after it was reported that Ukraine’s President Zelensky had arrived in Turkey to reinvigorate negotiations regarding its war with Russia, despite rising tension between the two nations. An Axios report that the US has been consulting with the Kremlin to draft a new plan eased supply concerns. These developments helped cushion the impact of US sanctions against two of Russia’s largest oil companies, Rosneft and Lukoil. The US Treasury claimed the restrictions are already undermining Russia’s funding capacity. Signs of weaker demand in the US also weighed on sentiment. The Energy Information Administration’s weekly inventory report showed gasoline and distillate stockpiles in the US built for the first time in over a month. The rise in gasoline inventories was driven by a drop in weekly consumption, with the implied demand down 500kb/d to 8.53mb/d last week. Total crude oil inventories fell 3,426kbbl to 424,155kbbl.
+**Crude oil** prices plunged amid signs of weaker demand and easing supply concerns. Geopolitical risks appeared to ease after it was reported that Ukraine’s President Zelensky had arrived in Turkey to reinvigorate negotiations regarding its war with Russia, despite rising tension between the two nations. An Axios report that the US has been consulting with the Kremlin to draft a new plan eased supply concerns. These developments helped cushion the impact of US sanctions against two of Russia’s largest oil companies, Rosneft and Lukoil. The US Treasury claimed the restrictions are already undermining Russia’s funding capacity. Signs of weaker demand in the US also weighed on sentiment. The Energy Information Administration’s weekly inventory report showed gasoline and distillate stockpiles in the US built for the first time in over a month. The rise in gasoline inventories was driven by a drop in weekly consumption, with the implied demand down 500kb/d to 8.53mb/d last week. Total crude oil inventories fell 3,426kbbl to 424,155kbbl.
 
 Easing geopolitical risks weighed on the natural gas markets, with **European gas** futures falling 2.4%. While Russia covers just over 10% of the European Union’s gas needs, down from 40% before its invasion of Ukraine. The prospect of a major peace deal brokered by US between Russia and Ukraine still eased concerns of tightness in the market. The fall was exacerbated by the European Centre for Medium-Range Weather’s forecast for less dramatically cold conditions across Europe next week.**North Asia LNG** prices were steady, with inventories in the spotlight. Japanese utilities are holding their highest level in more than five months, raising concerns that they will reduce their spot purchases in coming weeks.
 

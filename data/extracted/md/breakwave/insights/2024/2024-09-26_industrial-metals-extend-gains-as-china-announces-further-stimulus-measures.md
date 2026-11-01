@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/26/industrial-metals-extend-gains-as-china-announces-further-stimulus-measures"
 tags: ["Markets", "Commodities", "Shipping"]
 images_count: 2
-word_count: 663
+word_count: 665
 source_file: "corpus/03-breakwave/insights/2024/2024-09-26_industrial-metals-extend-gains-as-china-announces-further-stimulus-measures.html"
 ---
 

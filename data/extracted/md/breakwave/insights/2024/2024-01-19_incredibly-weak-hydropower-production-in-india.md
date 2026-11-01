@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/1/19/incredibly-weak-hydropower-production-in-india"
 images_count: 3
-word_count: 507
+word_count: 510
 source_file: "corpus/03-breakwave/insights/2024/2024-01-19_incredibly-weak-hydropower-production-in-india.html"
 ---
 

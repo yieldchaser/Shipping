@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/7/2/stronger-growth-in-steel-production-outside-of-china"
 tags: ["Steel", "Ironore", "Drybulk"]
 images_count: 3
-word_count: 328
+word_count: 331
 source_file: "corpus/03-breakwave/insights/2026/2026-07-02_stronger-growth-in-steel-production-outside-of-china.html"
 ---
 

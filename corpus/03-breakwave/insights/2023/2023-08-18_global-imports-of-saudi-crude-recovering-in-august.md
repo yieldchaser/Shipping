@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/8/17/global-imports-of-saudi-crude-recovering-in-august"
 tags: ["Crude", "Oil", "Tankers"]
 images_count: 2
-word_count: 943
+word_count: 945
 source_file: "corpus/03-breakwave/insights/2023/2023-08-18_global-imports-of-saudi-crude-recovering-in-august.html"
 ---
 

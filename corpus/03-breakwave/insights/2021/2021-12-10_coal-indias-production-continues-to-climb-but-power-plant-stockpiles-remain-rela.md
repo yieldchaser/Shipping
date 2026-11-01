@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/12/10/coal-indias-production-continues-to-climb-but-power-plant-stockpiles-remain-relatively-low"
 tags: ["India", "Coal", "Imports", "Production"]
 images_count: 3
-word_count: 442
+word_count: 445
 source_file: "corpus/03-breakwave/insights/2021/2021-12-10_coal-indias-production-continues-to-climb-but-power-plant-stockpiles-remain-rela.html"
 ---
 

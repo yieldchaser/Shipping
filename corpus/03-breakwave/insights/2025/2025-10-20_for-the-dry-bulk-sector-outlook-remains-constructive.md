@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/20/for-the-dry-bulk-sector-outlook-remains-constructive"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 1
-word_count: 1143
+word_count: 1144
 source_file: "corpus/03-breakwave/insights/2025/2025-10-20_for-the-dry-bulk-sector-outlook-remains-constructive.html"
 ---
 

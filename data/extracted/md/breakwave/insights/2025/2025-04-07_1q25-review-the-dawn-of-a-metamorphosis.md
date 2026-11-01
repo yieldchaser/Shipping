@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/7/1q25-review-the-dawn-of-a-metamorphosis"
 tags: ["Shipping", "Markets", "Drybulk"]
 images_count: 7
-word_count: 1569
+word_count: 1576
 source_file: "corpus/03-breakwave/insights/2025/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis.html"
 ---
 

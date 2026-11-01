@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/9/the-big-picture-slower-start-to-2025-for-global-trade-in-iron-ore"
 tags: ["Ironore", "Drybulk", "Shipping"]
 images_count: 2
-word_count: 653
+word_count: 655
 source_file: "corpus/03-breakwave/insights/2025/2025-05-09_the-big-picture-slower-start-to-2025-for-global-trade-in-iron-ore.html"
 ---
 

@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/5/31/dead-cats-dont-bounce"
 images_count: 4
-word_count: 731
+word_count: 735
 source_file: "corpus/03-breakwave/insights/2022/2022-05-31_dead-cats-dont-bounce.html"
 ---
 

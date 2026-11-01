@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/7/7/indias-refiners-face-headwinds-after-months-of-windfall-profits"
 images_count: 3
-word_count: 1311
+word_count: 1314
 source_file: "corpus/03-breakwave/insights/2022/2022-07-07_indias-refiners-face-headwinds-after-months-of-windfall-profits.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/4/8/indian-electricity-production-remains-weak"
 tags: ["India", "Energy", "Shipping"]
 images_count: 3
-word_count: 352
+word_count: 355
 source_file: "corpus/03-breakwave/insights/2026/2026-04-08_indian-electricity-production-remains-weak.html"
 ---
 

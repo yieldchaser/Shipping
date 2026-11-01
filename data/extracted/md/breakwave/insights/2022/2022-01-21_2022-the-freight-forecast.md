@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/1/21/2022-the-freight-forecast"
 tags: ["Tankers", "Freight", "2022developments"]
 images_count: 4
-word_count: 2760
+word_count: 2764
 source_file: "corpus/03-breakwave/insights/2022/2022-01-21_2022-the-freight-forecast.html"
 ---
 

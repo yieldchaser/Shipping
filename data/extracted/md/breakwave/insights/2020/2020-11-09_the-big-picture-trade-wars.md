@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/11/9/the-big-picture-trade-wars"
 tags: ["Australia", "China", "Coal", "Grains"]
 images_count: 4
-word_count: 1240
+word_count: 1244
 source_file: "corpus/03-breakwave/insights/2020/2020-11-09_the-big-picture-trade-wars.html"
 ---
 

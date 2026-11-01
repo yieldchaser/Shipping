@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/13/trump-presidency-to-target-iran-but-ultimately-it-is-chinas-decision-that-matters"
 tags: ["Crude", "Tankers", "Shipping"]
 images_count: 2
-word_count: 1016
+word_count: 1018
 source_file: "corpus/03-breakwave/insights/2024/2024-11-13_trump-presidency-to-target-iran-but-ultimately-it-is-chinas-decision-that-matter.html"
 ---
 

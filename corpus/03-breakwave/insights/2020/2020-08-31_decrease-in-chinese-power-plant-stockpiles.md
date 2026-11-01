@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/8/31/decrease-in-chinese-power-plant-stockpiles"
 tags: ["China", "Coal"]
 images_count: 1
-word_count: 285
+word_count: 286
 source_file: "corpus/03-breakwave/insights/2020/2020-08-31_decrease-in-chinese-power-plant-stockpiles.html"
 ---
 

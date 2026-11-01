@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/23/the-weather-gods-are-siding-with-the-shipowners"
 tags: ["Shipping", "Brazil", "Australia"]
 images_count: 2
-word_count: 762
+word_count: 764
 source_file: "corpus/03-breakwave/insights/2021/2021-03-23_the-weather-gods-are-siding-with-the-shipowners.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-03-23_the-weather-gods-are-
 
 *By Ulf Bergman*
 
-![Unsplash Image 5mh8iz9vqpy](assets/2021-03-23_the-weather-gods-are-siding-with-the-shipowners_img_unsplash-image-5mh8iz9vqpy_0e2e6df1211d.jpg)
+![Unsplash Image 5mh8iz9vqpy](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-23_the-weather-gods-are-siding-with-the-shipowners_img_unsplash-image-5mh8iz9vqpy_0e2e6df1211d.jpg)
 
 > **Figure 1: Unsplash Image 5mh8iz9vqpy**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-23_the-weather-gods-are-siding-with-the-shipowners_img_unsplash-image-5mh8iz9vqpy_0e2e6df1211d.jpg)
@@ -35,7 +35,7 @@ On the other side of the world, in Australian New South Wales, storms that local
 
 The Australian Bureau of Meteorology does expect the storms to ease during the middle of the week, but more rain can be expected to follow suit. Hence, the situation with extensive flooding can be anticipated to remain for some time, with continued supply problems for the Port of Newcastle as a result. The storms are also moving south and have the potential to disrupt deliveries and coal shipments from Port Kembla at Wollongong, which could contribute to additional tonnage being tied up in port congestion. The extended waiting times in and around some Australian ports are likely to provide support for freight rates until the backlog has cleared, which may not be imminent depending on the extent of any damages to the infrastructure.
 
-![Unsplash Image Dasq9zhroxy](assets/2021-03-23_the-weather-gods-are-siding-with-the-shipowners_img_unsplash-image-dasq9zhroxy_e7f75dce38c1.jpg)
+![Unsplash Image Dasq9zhroxy](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-23_the-weather-gods-are-siding-with-the-shipowners_img_unsplash-image-dasq9zhroxy_e7f75dce38c1.jpg)
 
 > **Figure 2: Unsplash Image Dasq9zhroxy**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-23_the-weather-gods-are-siding-with-the-shipowners_img_unsplash-image-dasq9zhroxy_e7f75dce38c1.jpg)

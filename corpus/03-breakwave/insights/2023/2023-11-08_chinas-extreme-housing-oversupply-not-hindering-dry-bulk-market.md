@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/11/8/chinas-extreme-housing-oversupply-not-hindering-dry-bulk-market"
 images_count: 2
-word_count: 393
+word_count: 395
 source_file: "corpus/03-breakwave/insights/2023/2023-11-08_chinas-extreme-housing-oversupply-not-hindering-dry-bulk-market.html"
 ---
 

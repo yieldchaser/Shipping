@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/8/the-global-economy-dark-clouds-on-the-horizon"
 tags: ["Global", "Economy", "Crisis"]
 images_count: 3
-word_count: 993
+word_count: 996
 source_file: "corpus/03-breakwave/insights/2021/2021-10-08_the-global-economy-dark-clouds-on-the-horizon.html"
 ---
 
@@ -34,21 +34,21 @@ The immediate effects of the energy crisis are blackouts and electricity rationi
 
 The more problematic outlook for the global economy saw global seaborne volumes of the major dry bulk commodities coming under pressure in September. After a strong reading in August, iron ore imports fell back in September to the lowest levels since 2016, according to data from Oceanbolt. The reduction was, to a great extent, the result of the Chinese clampdown on steel production. However, the final quarter has begun strongly, with the first week of October implying a monthly volume in line with the same month last year.
 
-![Ch1](assets/2021-10-08_the-global-economy-dark-clouds-on-the-horizon_img_ch1_10b5ac1e2ae5.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-08_the-global-economy-dark-clouds-on-the-horizon_img_ch1_10b5ac1e2ae5.png)
 
 > **Figure 1: Ch1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-08_the-global-economy-dark-clouds-on-the-horizon_img_ch1_10b5ac1e2ae5.png)
 
 For coal, the picture is similar, with volumes falling during September compared to the previous month. Unlike for iron ore, last month's seaborne quantities were larger than a year ago. Assuming a degree of linearity, volumes in the early part of October suggest that around 120 million tonnes of coal will be discharged in ports during the month. This would be at par with the highs of previous years. However, the global rush to restock coal inventories could see August's record volumes challenged in the coming months.
 
-![Ch2](assets/2021-10-08_the-global-economy-dark-clouds-on-the-horizon_img_ch2_e76b0f3da0d3.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-08_the-global-economy-dark-clouds-on-the-horizon_img_ch2_e76b0f3da0d3.png)
 
 > **Figure 2: Ch2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-08_the-global-economy-dark-clouds-on-the-horizon_img_ch2_e76b0f3da0d3.png)
 
 India could contribute to record seaborne coal volumes, as the country's coal inventories are critically low. Although the problem has been known for some time, the quantities of imported thermal coal have declined in recent months. The trend appears to have reversed, with October volumes already matching 30 per cent of the previous month. Given the low stockpiles in India, there are concerns that extensive powercuts could damage the prospects for what is widely expected to be one of the best performing economies this year.
 
-![Ch3](assets/2021-10-08_the-global-economy-dark-clouds-on-the-horizon_img_ch3_5e42386cf272.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-08_the-global-economy-dark-clouds-on-the-horizon_img_ch3_5e42386cf272.png)
 
 > **Figure 3: Ch3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-08_the-global-economy-dark-clouds-on-the-horizon_img_ch3_5e42386cf272.png)

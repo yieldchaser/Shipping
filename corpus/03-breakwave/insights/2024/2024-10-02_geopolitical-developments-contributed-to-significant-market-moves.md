@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/2/geopolitical-developments-contributed-to-significant-market-moves"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 1
-word_count: 1300
+word_count: 1301
 source_file: "corpus/03-breakwave/insights/2024/2024-10-02_geopolitical-developments-contributed-to-significant-market-moves.html"
 ---
 

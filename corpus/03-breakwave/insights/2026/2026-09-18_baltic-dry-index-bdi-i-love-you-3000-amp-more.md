@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/18/baltic-dry-index-bdi-i-love-you-3000-amp-more"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 8
-word_count: 1899
+word_count: 1907
 source_file: "corpus/03-breakwave/insights/2026/2026-09-18_baltic-dry-index-bdi-i-love-you-3000-amp-more.html"
 ---
 

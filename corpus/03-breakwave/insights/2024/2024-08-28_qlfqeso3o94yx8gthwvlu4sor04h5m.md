@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/8/28/qlfqeso3o94yx8gthwvlu4sor04h5m"
 tags: ["Markets", "Economy", "Macro"]
 images_count: 6
-word_count: 1190
+word_count: 1196
 source_file: "corpus/03-breakwave/insights/2024/2024-08-28_qlfqeso3o94yx8gthwvlu4sor04h5m.html"
 ---
 
@@ -76,7 +76,7 @@ In the US, smaller caps have seen a rise in the number of zombie companies (comp
 > **Figure 6: Market Chart 6**  
 > **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2024-06-11/most-private-equity-investors-fear-cash-is-stuck-in-zombie-funds?sref=EiJDOcNb) | [Local Asset](assets/2024-08-28_qlfqeso3o94yx8gthwvlu4sor04h5m_img_image006_69c5d3eaf33e.png)
 
-Meanwhile, a recent[survey](https://www.bloomberg.com/news/articles/2024-06-11/most-private-equity-investors-fear-cash-is-stuck-in-zombie-funds?sref=EiJDOcNb)suggested that almost half of investors, especially pension funds, have money in funds that have little hope of making any returns to their shareholders. Lower cost of capital could allow some of these smaller companies to devote some of their earnings to business development and thus improving the profitability, removing themselves from zombie lists and allowing them to make some returns for their equity and bond holders.
+Meanwhile, a recent [survey](https://www.bloomberg.com/news/articles/2024-06-11/most-private-equity-investors-fear-cash-is-stuck-in-zombie-funds?sref=EiJDOcNb) suggested that almost half of investors, especially pension funds, have money in funds that have little hope of making any returns to their shareholders. Lower cost of capital could allow some of these smaller companies to devote some of their earnings to business development and thus improving the profitability, removing themselves from zombie lists and allowing them to make some returns for their equity and bond holders.
 
 ### Consumers and Governments
 

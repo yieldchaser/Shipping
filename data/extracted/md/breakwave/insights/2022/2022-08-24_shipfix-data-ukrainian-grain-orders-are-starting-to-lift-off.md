@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/23/shipfix-data-ukrainian-grain-orders-are-starting-to-lift-off"
 tags: ["Grains", "Ukraine", "Shipping"]
 images_count: 3
-word_count: 502
+word_count: 505
 source_file: "corpus/03-breakwave/insights/2022/2022-08-24_shipfix-data-ukrainian-grain-orders-are-starting-to-lift-off.html"
 ---
 

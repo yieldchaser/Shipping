@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/15/ja9xr2is43etm19efflv9xqvfcfhpu"
 tags: ["Economy", "China", "Shipping"]
 images_count: 2
-word_count: 1027
+word_count: 1029
 source_file: "corpus/03-breakwave/insights/2024/2024-07-15_ja9xr2is43etm19efflv9xqvfcfhpu.html"
 ---
 

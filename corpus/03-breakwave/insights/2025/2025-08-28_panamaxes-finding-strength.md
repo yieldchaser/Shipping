@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/8/28/panamaxes-finding-strength"
 tags: ["Coal", "Drybulk", "China"]
 images_count: 1
-word_count: 309
+word_count: 310
 source_file: "corpus/03-breakwave/insights/2025/2025-08-28_panamaxes-finding-strength.html"
 ---
 

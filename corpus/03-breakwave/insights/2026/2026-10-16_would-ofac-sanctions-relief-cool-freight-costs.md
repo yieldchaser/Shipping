@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/16/would-ofac-sanctions-relief-cool-freight-costs"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 2
-word_count: 604
+word_count: 606
 source_file: "corpus/03-breakwave/insights/2026/2026-10-16_would-ofac-sanctions-relief-cool-freight-costs.html"
 ---
 

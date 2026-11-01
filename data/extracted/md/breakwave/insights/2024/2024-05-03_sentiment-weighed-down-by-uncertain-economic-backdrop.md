@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/3/sentiment-weighed-down-by-uncertain-economic-backdrop"
 tags: ["Commodities", "Economy", "Markets"]
 images_count: 2
-word_count: 684
+word_count: 686
 source_file: "corpus/03-breakwave/insights/2024/2024-05-03_sentiment-weighed-down-by-uncertain-economic-backdrop.html"
 ---
 
@@ -33,9 +33,9 @@ A risk-off tone across markets weighed on sentiment across the commodity complex
 
 **Gold** eased lower in the fallout from yesterday’s FOMC meeting. The Fed decided to leave rates unchanged, citing the lack of progress on inflation. The market latched onto the fact they kept the language referring to a future reduction in rates. However, the realisation that interest rates are likely to remain higher for longer eventually weighed on sentiment.
 
-**Iron ore**futures eased lower amid rising supply and weaker demand. Australian iron ore exports rose 26% m/m to 78.41mt in April. Operations have overcome recent maintenance issues and weather events which had been impacting exports. Reports that China may look to tweak its production limits for steel amid oversupply and declining prices also weighed on sentiment.
+**Iron ore** futures eased lower amid rising supply and weaker demand. Australian iron ore exports rose 26% m/m to 78.41mt in April. Operations have overcome recent maintenance issues and weather events which had been impacting exports. Reports that China may look to tweak its production limits for steel amid oversupply and declining prices also weighed on sentiment.
 
-**Crude oil**prices were little changed as the market contemplates the geopolitical and economic backdrop. The prospect of interest rates remaining higher for longer could see demand come under pressure. With the US driving season almost upon us, high inflation may see consumers opt for shorter drives over the holiday period. This comes following the surprise build in oil inventories in the US last week, suggesting demand is already deteriorating. Geopolitical risks are also fading. Reports suggest Hamas is studying a proposal for a temporary ceasefire in a “positive spirit” and plans to send a delegation to Egypt to continue talks. Yesterday a Bloomberg report suggested the US and Saudi Arabia are nearing a historic pact that would offer the kingdom security guarantees and lay out a possible pathway to diplomatic ties with Israel.
+**Crude oil** prices were little changed as the market contemplates the geopolitical and economic backdrop. The prospect of interest rates remaining higher for longer could see demand come under pressure. With the US driving season almost upon us, high inflation may see consumers opt for shorter drives over the holiday period. This comes following the surprise build in oil inventories in the US last week, suggesting demand is already deteriorating. Geopolitical risks are also fading. Reports suggest Hamas is studying a proposal for a temporary ceasefire in a “positive spirit” and plans to send a delegation to Egypt to continue talks. Yesterday a Bloomberg report suggested the US and Saudi Arabia are nearing a historic pact that would offer the kingdom security guarantees and lay out a possible pathway to diplomatic ties with Israel.
 
 **Global gas** prices rose as emerging supply side issues threaten to suppress next winter’s inventory rebuild. Egypt, traditionally an LNG exporter, signed a deal with Norway to rent a floating LNG storage terminal as it tries to procure more fuel to deal with strong domestic demand. This comes as demand in Asia rises amid sweltering heat.
 

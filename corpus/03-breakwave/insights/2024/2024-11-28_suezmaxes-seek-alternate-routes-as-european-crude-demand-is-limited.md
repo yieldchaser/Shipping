@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/11/28/suezmaxes-seek-alternate-routes-as-european-crude-demand-is-limited"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 4
-word_count: 1227
+word_count: 1231
 source_file: "corpus/03-breakwave/insights/2024/2024-11-28_suezmaxes-seek-alternate-routes-as-european-crude-demand-is-limited.html"
 ---
 

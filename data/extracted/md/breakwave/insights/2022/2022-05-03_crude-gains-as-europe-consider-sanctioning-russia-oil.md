@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/5/3/crude-gains-as-europe-consider-sanctioning-russia-oil"
 tags: ["Crude Oil", "Commodities", "Market"]
 images_count: 1
-word_count: 718
+word_count: 719
 source_file: "corpus/03-breakwave/insights/2022/2022-05-03_crude-gains-as-europe-consider-sanctioning-russia-oil.html"
 ---
 

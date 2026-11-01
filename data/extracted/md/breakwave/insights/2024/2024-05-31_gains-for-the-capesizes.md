@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/31/gains-for-the-capesizes"
 tags: ["Markets", "Shipping", "Commodities"]
 images_count: 1
-word_count: 1257
+word_count: 1258
 source_file: "corpus/03-breakwave/insights/2024/2024-05-31_gains-for-the-capesizes.html"
 ---
 

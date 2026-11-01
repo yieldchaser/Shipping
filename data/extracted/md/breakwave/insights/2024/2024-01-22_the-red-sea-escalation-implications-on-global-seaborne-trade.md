@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/1/22/the-red-sea-escalation-implications-on-global-seaborne-trade"
 images_count: 2
-word_count: 749
+word_count: 751
 source_file: "corpus/03-breakwave/insights/2024/2024-01-22_the-red-sea-escalation-implications-on-global-seaborne-trade.html"
 ---
 

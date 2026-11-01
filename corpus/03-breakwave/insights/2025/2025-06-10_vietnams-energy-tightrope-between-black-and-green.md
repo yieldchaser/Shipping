@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/10/vietnams-energy-tightrope-between-black-and-green"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 5
-word_count: 1695
+word_count: 1700
 source_file: "corpus/03-breakwave/insights/2025/2025-06-10_vietnams-energy-tightrope-between-black-and-green.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/11/2/australia-coal-import-ban-update"
 tags: ["Coal", "Australia"]
 images_count: 1
-word_count: 270
+word_count: 271
 source_file: "corpus/03-breakwave/insights/2020/2020-11-02_australia-coal-import-ban-update.html"
 ---
 

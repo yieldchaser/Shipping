@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/7/2/china-increasing-headwinds-for-the-economy-could-keep-stimulus-in-place-for-longer"
 tags: ["China"]
 images_count: 2
-word_count: 751
+word_count: 753
 source_file: "corpus/03-breakwave/insights/2021/2021-07-05_china-increasing-headwinds-for-the-economy-could-keep-stimulus-in-place-for-long.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-07-05_china-increasing-head
 
 *By Ulf Bergman*
 
-![Unsplash Image Bafphvdh9ik](assets/2021-07-05_china-increasing-headwinds-for-the-economy-could-keep-stimulus-in-place-for-long_img_unsplash-image-bafphvdh9ik_58c2abc73488.jpg)
+![Unsplash Image Bafphvdh9ik](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-05_china-increasing-headwinds-for-the-economy-could-keep-stimulus-in-place-for-long_img_unsplash-image-bafphvdh9ik_58c2abc73488.jpg)
 
 > **Figure 1: Unsplash Image Bafphvdh9ik**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-05_china-increasing-headwinds-for-the-economy-could-keep-stimulus-in-place-for-long_img_unsplash-image-bafphvdh9ik_58c2abc73488.jpg)
@@ -35,7 +35,7 @@ The continued perception of a domestic Chinese economy still not firing on all c
 
 The Chinese National Bureau of Statistics also highlighted supply chain problems as contributing factors to the weaker numbers, with semiconductor, coal and power shortages affecting output in some sectors. A surge in electricity demand following hot weather, alongside continued high steel production, has seen the nation’s coal inventories dwindling despite rising seaborne imports during the last few months. According to cargo tracking data from Oceanbolt, June also saw a record level of coal being discharged in Chinese ports.
 
-![Ulf 7.2](assets/2021-07-05_china-increasing-headwinds-for-the-economy-could-keep-stimulus-in-place-for-long_img_ulf72_c7b5c379ece9.png)
+![Ulf 7.2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-05_china-increasing-headwinds-for-the-economy-could-keep-stimulus-in-place-for-long_img_ulf72_c7b5c379ece9.png)
 
 > **Figure 2: Ulf 7.2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-05_china-increasing-headwinds-for-the-economy-could-keep-stimulus-in-place-for-long_img_ulf72_c7b5c379ece9.png)

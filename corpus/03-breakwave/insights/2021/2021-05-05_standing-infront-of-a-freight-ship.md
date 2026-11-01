@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/5/standing-infront-of-a-freight-ship"
 tags: ["Shipping", "Dry Bulk"]
 images_count: 2
-word_count: 1052
+word_count: 1054
 source_file: "corpus/03-breakwave/insights/2021/2021-05-05_standing-infront-of-a-freight-ship.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/3/25/suez-canal-grounding-more-friction-in-the-global-supply-chains"
 tags: ["Suez Canal"]
 images_count: 2
-word_count: 843
+word_count: 845
 source_file: "corpus/03-breakwave/insights/2021/2021-03-25_suez-canal-grounding-more-friction-in-the-global-supply-chains.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-03-25_suez-canal-grounding-
 
 *By Ulf Bergman*
 
-![Source: Airbus Space](assets/2021-03-25_suez-canal-grounding-more-friction-in-the-global-supply-chains_img_suez_bfcd4046b3e5.jpg)
+![Source: Airbus Space](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-25_suez-canal-grounding-more-friction-in-the-global-supply-chains_img_suez_bfcd4046b3e5.jpg)
 
 > **Figure 1: Source: Airbus Space**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-25_suez-canal-grounding-more-friction-in-the-global-supply-chains_img_suez_bfcd4046b3e5.jpg)
@@ -35,7 +35,7 @@ Given the importance of the canal to world trade and the volume of traffic passi
 
 The extent of the impact on the shipping industry is a function of how quickly the situation can be resolved. A successful refloating very soon would mean that the impact would be limited, as the canal can accommodate the transit of more than a hundred vessels a day and the current congestion could be cleared in a matter of days. However, the more gloomy stance expressed by the salvage company is likely to make many routing decisions more difficult, as a recovery operation taking weeks would make a case for going the long way around Africa. A re-routing around the Cape of Good Hope will add ten to fourteen days to a voyage and generate additional fuel costs, although saving on the considerable canal fees. There are already close to 200 vessels waiting to sail through the canal and, assuming an average flow of tonnage, the weekly build-up of vessels awaiting transit is 364. Clearing such a backlog would take quite some time and, hence, many vessel operators have announced that they are starting to evaluate their options.
 
-![Suez 1](assets/2021-03-25_suez-canal-grounding-more-friction-in-the-global-supply-chains_img_suez1_8688be3c74cc.jpg)
+![Suez 1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-25_suez-canal-grounding-more-friction-in-the-global-supply-chains_img_suez1_8688be3c74cc.jpg)
 
 > **Figure 2: Suez 1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-25_suez-canal-grounding-more-friction-in-the-global-supply-chains_img_suez1_8688be3c74cc.jpg)

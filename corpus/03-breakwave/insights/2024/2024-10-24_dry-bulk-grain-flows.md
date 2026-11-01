@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/24/dry-bulk-grain-flows"
 tags: ["Drybulk", "Shipping", "Capesize"]
 images_count: 5
-word_count: 1557
+word_count: 1562
 source_file: "corpus/03-breakwave/insights/2024/2024-10-24_dry-bulk-grain-flows.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-10-24_dry-bulk-grain-flows.
 ---
 
 **Dry Weekly Market Monitor - Week 43.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 October 23, 2024
 
 ## Chart of the Week: Dry Bulk Grain Flows - The Russian Aspect
@@ -45,7 +45,7 @@ As Russia ramps up its grain exports, industry stakeholders are closely monitori
 
 Furthermore, as Egypt continues to depend on Russian grain to meet its domestic needs, the situation highlights the need for diversifying sources to enhance food security. Should disruptions occur in the future, it could significantly affect Egypt’s ability to maintain stable wheat supplies, prompting discussions about alternative suppliers and strategies to mitigate risks. Overall, the evolving landscape of Russian grain exports is crucial not only for Egypt but for global food markets as well.
 
-Meanwhile, the outlook for earnings in the[iron ore market](https://go.signalocean.com/e/983831/outlook-china-growth-forecasts/2qn9rj/443613990/h/K8SfdPk44A3HKdezbGRd5ecARg-OZ1GAxsdAmTejVbk), particularly for the large Capesize vessel segment, remains uncertain due to a fragile steel market and slow economic growth in China. Iron ore futures extended their losses for a second consecutive session on Wednesday, as a lacklustre global steel market outlook and soft forecasts for China’s economic recovery overshadowed the latest stimulus measures announced by the top consumer. The most actively traded January iron ore contract on China’s Dalian Commodity Exchange (DCE) closed the morning session down 1.91%, settling at 746.0 yuan ($104.60) per metric ton. Similarly, the benchmark November iron ore price on the Singapore Exchange fell 2.0% to $98.60 per ton as of 0702 GMT. Data from the World Steel Association revealed that global crude steel production in September decreased by 4.7% year-on-year, totaling 143.6 million tons. Notably, China’s output dropped by 6.1%, amounting to 77.1 million tons, highlighting ongoing challenges in the steel industry and the impact on iron ore demand.
+Meanwhile, the outlook for earnings in the [iron ore market](https://go.signalocean.com/e/983831/outlook-china-growth-forecasts/2qn9rj/443613990/h/K8SfdPk44A3HKdezbGRd5ecARg-OZ1GAxsdAmTejVbk), particularly for the large Capesize vessel segment, remains uncertain due to a fragile steel market and slow economic growth in China. Iron ore futures extended their losses for a second consecutive session on Wednesday, as a lacklustre global steel market outlook and soft forecasts for China’s economic recovery overshadowed the latest stimulus measures announced by the top consumer. The most actively traded January iron ore contract on China’s Dalian Commodity Exchange (DCE) closed the morning session down 1.91%, settling at 746.0 yuan ($104.60) per metric ton. Similarly, the benchmark November iron ore price on the Singapore Exchange fell 2.0% to $98.60 per ton as of 0702 GMT. Data from the World Steel Association revealed that global crude steel production in September decreased by 4.7% year-on-year, totaling 143.6 million tons. Notably, China’s output dropped by 6.1%, amounting to 77.1 million tons, highlighting ongoing challenges in the steel industry and the impact on iron ore demand.
 
 ![Στιγμιότυπο Οθόνης 2024 10 24 092845](assets/2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ca29a208262.png)
 
@@ -54,10 +54,10 @@ Meanwhile, the outlook for earnings in the[iron ore market](https://go.signaloce
 
 ​​​​The dry bulk freight market is experiencing a weakening momentum in the large vessel size categories, with Capesize rates from Brazil to North China showing the weakest trend since the peak in week 39.
 
-- **Capesize**vessel freight rates for shipments from Brazil to North China have settled at $20 per ton, marking a 14% decline from the previous week and a 24% drop compared to the previous month.
-- **Panamax**vessel freight rates from the Continent to the Far East held steady at approximately $35 per ton, reflecting a monthly decline of 9%.
-- **Supramax**vessel freight rates on the Indo-ECI route remain around $10.5 per ton, reflecting a monthly decrease of 7%.
-- **Handysize**freight rates for the NOPAC Far East route have remained steady at $35 per ton since April, marking a 13% increase compared to the same period last year.
+- **Capesize** vessel freight rates for shipments from Brazil to North China have settled at $20 per ton, marking a 14% decline from the previous week and a 24% drop compared to the previous month.
+- **Panamax** vessel freight rates from the Continent to the Far East held steady at approximately $35 per ton, reflecting a monthly decline of 9%.
+- **Supramax** vessel freight rates on the Indo-ECI route remain around $10.5 per ton, reflecting a monthly decrease of 7%.
+- **Handysize** freight rates for the NOPAC Far East route have remained steady at $35 per ton since April, marking a 13% increase compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2024 10 24 092950](assets/2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db67b1feba03.png)
 

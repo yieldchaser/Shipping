@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/25/is-brazil-about-to-unleash-a-tsunami-of-iron-ore-and-push-capes-to-new-highs"
 tags: ["Shipping", "Australia", "Vale", "Dry Bulk", "Brazil"]
 images_count: 2
-word_count: 787
+word_count: 789
 source_file: "corpus/03-breakwave/insights/2020/2020-06-26_is-brazil-about-to-unleash-a-tsunami-of-iron-ore-and-push-capes-to-new-highs.html"
 ---
 

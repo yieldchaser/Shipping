@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/16/shift-in-cpc-crude-exports-towards-suezmax-utilisation"
 tags: ["Tankers", "Markets", "Shipping"]
 images_count: 10
-word_count: 1607
+word_count: 1617
 source_file: "corpus/03-breakwave/insights/2025/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation.html"
 ---
 

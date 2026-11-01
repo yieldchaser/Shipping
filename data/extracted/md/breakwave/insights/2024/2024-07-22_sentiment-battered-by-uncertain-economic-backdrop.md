@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/22/sentiment-battered-by-uncertain-economic-backdrop"
 tags: ["Commodities", "Economy", "Shipping"]
 images_count: 2
-word_count: 632
+word_count: 634
 source_file: "corpus/03-breakwave/insights/2024/2024-07-22_sentiment-battered-by-uncertain-economic-backdrop.html"
 ---
 
@@ -39,7 +39,7 @@ A broader risk-off tone across markets weighed on sentiment, and was exacerbated
 
 **Gold** recorded its first weekly loss in a month, as investors locked-in gains following its strong run. The gold price surged to a record high of USD2,483/oz as investors ramped up bets on Fed rate cuts. This followed data showing inflation was falling faster than expected. However, ETFs backed by physical gold continue to see strong inflows, adding 87.7koz of gold to holdings on Friday alone.
 
-**Crude oil**prices fell for a second consecutive week on a broad risk-off tone across markets. Nevertheless, short-term supply concerns minimised losses. Canadian wildfires are again threatening 400kb/d of oil production. Several major Russian commodity exporters say trade with China is increasingly difficult as direct payments made in CNY are being frozen or delayed. This comes ahead of a meeting of OPEC’s monitoring committee, which will review the progress of the supply agreement between it and OPEC allies made earlier this year. Russia is also yet to outline its plan to reduce output to make up for overproducing under the current agreement.
+**Crude oil** prices fell for a second consecutive week on a broad risk-off tone across markets. Nevertheless, short-term supply concerns minimised losses. Canadian wildfires are again threatening 400kb/d of oil production. Several major Russian commodity exporters say trade with China is increasingly difficult as direct payments made in CNY are being frozen or delayed. This comes ahead of a meeting of OPEC’s monitoring committee, which will review the progress of the supply agreement between it and OPEC allies made earlier this year. Russia is also yet to outline its plan to reduce output to make up for overproducing under the current agreement.
 
 **European gas** prices pared some of the week’s gains as traders assessed the impact of supply risks. There are growing concerns about deliveries from the Freeport LNG export terminal as it struggles to restart following Hurricane Beryl. North Asia LNG prices remained elevated amid strong demand, as a heatwave boosts cooling requirements. Supply tightness is also evident. Egypt’s gas output has dropped to its lowest level in six years.
 

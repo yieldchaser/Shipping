@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/7/impact-of-us-port-fees-on-dry-bulk-vessel-economics-and-fleet-strategy"
 tags: ["Economy", "Shipping", "Markets"]
 images_count: 3
-word_count: 823
+word_count: 826
 source_file: "corpus/03-breakwave/insights/2025/2025-05-07_impact-of-us-port-fees-on-dry-bulk-vessel-economics-and-fleet-strategy.html"
 ---
 

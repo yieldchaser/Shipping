@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/8/31/where-are-diesel-cracks-heading-to"
 images_count: 3
-word_count: 2579
+word_count: 2582
 source_file: "corpus/03-breakwave/insights/2022/2022-09-03_where-are-diesel-cracks-heading-to.html"
 ---
 

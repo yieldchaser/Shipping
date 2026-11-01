@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/6/decades-where-nothing-happens-and-weeks-when-decades-happen"
 images_count: 1
-word_count: 480
+word_count: 481
 source_file: "corpus/03-breakwave/insights/2022/2022-10-06_decades-where-nothing-happens-and-weeks-when-decades-happen.html"
 ---
 

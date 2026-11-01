@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/9/8/ongoing-weakness-outside-of-china"
 images_count: 1
-word_count: 505
+word_count: 506
 source_file: "corpus/03-breakwave/insights/2022/2022-09-08_ongoing-weakness-outside-of-china.html"
 ---
 

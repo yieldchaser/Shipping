@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/6/10/the-big-picture-supply-update"
 images_count: 4
-word_count: 1275
+word_count: 1279
 source_file: "corpus/03-breakwave/insights/2022/2022-06-10_the-big-picture-supply-update.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/5/ongoing-growth-in-steel-production-ex-china"
 tags: ["Commodities", "Markets", "Drybulk"]
 images_count: 7
-word_count: 685
+word_count: 692
 source_file: "corpus/03-breakwave/insights/2026/2026-10-05_ongoing-growth-in-steel-production-ex-china.html"
 ---
 

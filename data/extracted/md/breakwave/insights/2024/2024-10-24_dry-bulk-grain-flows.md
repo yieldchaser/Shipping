@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/24/dry-bulk-grain-flows"
 tags: ["Drybulk", "Shipping", "Capesize"]
 images_count: 5
-word_count: 1557
+word_count: 1562
 source_file: "corpus/03-breakwave/insights/2024/2024-10-24_dry-bulk-grain-flows.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-10-24_dry-bulk-grain-flows.
 ---
 
 **Dry Weekly Market Monitor - Week 43.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 October 23, 2024
 
 ## Chart of the Week: Dry Bulk Grain Flows - The Russian Aspect

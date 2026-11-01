@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/7/30/from-products-to-crude-how-the-strikes-reshaped-russias-seaborne-exports"
 tags: ["Crude", "Markets", "Tankers"]
 images_count: 7
-word_count: 1051
+word_count: 1058
 source_file: "corpus/03-breakwave/insights/2026/2026-07-30_from-products-to-crude-how-the-strikes-reshaped-russias-seaborne-exports.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/19/small-impact-on-vlccs-from-opec-production-cuts-phase-out-delay"
 tags: ["Tankers", "Shipping", "Crude"]
 images_count: 4
-word_count: 1279
+word_count: 1283
 source_file: "corpus/03-breakwave/insights/2024/2024-09-19_small-impact-on-vlccs-from-opec-production-cuts-phase-out-delay.html"
 ---
 

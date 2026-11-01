@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/9/coal-contradictions-define-chinese-demand"
 tags: ["Coal"]
 images_count: 2
-word_count: 922
+word_count: 924
 source_file: "corpus/03-breakwave/insights/2021/2021-04-09_coal-contradictions-define-chinese-demand.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-04-09_coal-contradictions-d
 
 *By Ulf Bergman*
 
-![Unsplash Image Dqgiay0k08o](assets/2021-04-09_coal-contradictions-define-chinese-demand_img_unsplash-image-dqgiay0k08o_06ec6c295fef.jpg)
+![Unsplash Image Dqgiay0k08o](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-09_coal-contradictions-define-chinese-demand_img_unsplash-image-dqgiay0k08o_06ec6c295fef.jpg)
 
 > **Figure 1: Unsplash Image Dqgiay0k08o**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-09_coal-contradictions-define-chinese-demand_img_unsplash-image-dqgiay0k08o_06ec6c295fef.jpg)
@@ -37,7 +37,7 @@ It is widely expected among analysts that China’s coal imports will decrease t
 
 ### Coal (Usd/tonne)
 
-![Ulf 1a](assets/2021-04-09_coal-contradictions-define-chinese-demand_img_ulf1a_5e864d796c76.jpg)
+![Ulf 1a](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-09_coal-contradictions-define-chinese-demand_img_ulf1a_5e864d796c76.jpg)
 
 > **Figure 2: Ulf 1a**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-09_coal-contradictions-define-chinese-demand_img_ulf1a_5e864d796c76.jpg)

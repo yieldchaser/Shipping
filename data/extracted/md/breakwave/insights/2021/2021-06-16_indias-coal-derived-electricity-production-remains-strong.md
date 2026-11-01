@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/11/indias-coal-derived-electricity-production-remains-strong"
 tags: ["India", "Coal"]
 images_count: 1
-word_count: 440
+word_count: 441
 source_file: "corpus/03-breakwave/insights/2021/2021-06-16_indias-coal-derived-electricity-production-remains-strong.html"
 ---
 
@@ -26,7 +26,7 @@ India’s electricity production has stayed strong in recent months and has cont
 
 Also very noteworthy for the dry bulk shipping market is that India’s coal-derived electricity production growth in May again experienced even stronger year-on-year growth than the nation’s total electricity production. India produced approximately 87.7 billion kilowatt hours of coal-derived electricity last month. This has marked a month-on-month decline of 16.1 billion kilowatt hours (-16%) but is up year-on-year by 36.2 billion kilowatt hours (13%). As with in China, India’s coal-derived electricity production growth has continued to far exceed domestic coal production growth. Overall, the last three months have seen India’s coal-derived electricity production increase year-on-year by approximately 30% while coal production has contracted year-on-year by approximately 1%. The last two months have seen China’s coal-derived electricity production increase year-on-year by approximately 20% while coal production growth has been flat (Chinese data is still pending for May). These divergences have remained very supportive for coal import demand in these two nations. Also of note in India is that hydropower output contracted on a year-on-year basis again last month. India’s hydropower output totaled approximately 11.8 billion kilowatt hours. This has marked a month-on-month increase of 3.5 billion kilowatt hours (42%) but is down year-on-year by 2.2 billion kilowatt hours (-16%). India’s hydropower output has now contracted on a year-on-year basis for ten consecutive months.
 
-![Comodore 6.11](assets/2021-06-16_indias-coal-derived-electricity-production-remains-strong_img_comodore611_0ac769914170.jpg)
+![Comodore 6.11](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-16_indias-coal-derived-electricity-production-remains-strong_img_comodore611_0ac769914170.jpg)
 
 > **Figure 1: Comodore 6.11**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-16_indias-coal-derived-electricity-production-remains-strong_img_comodore611_0ac769914170.jpg)

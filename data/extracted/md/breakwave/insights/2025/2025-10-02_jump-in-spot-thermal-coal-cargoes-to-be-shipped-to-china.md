@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/10/2/jump-in-spot-thermal-coal-cargoes-to-be-shipped-to-china"
 tags: ["China", "Coal", "Drybulk"]
 images_count: 1
-word_count: 230
+word_count: 231
 source_file: "corpus/03-breakwave/insights/2025/2025-10-02_jump-in-spot-thermal-coal-cargoes-to-be-shipped-to-china.html"
 ---
 

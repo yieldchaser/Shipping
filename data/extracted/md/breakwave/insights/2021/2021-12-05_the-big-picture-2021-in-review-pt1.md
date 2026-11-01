@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/12/5/the-big-picture-2021-in-review-pt1"
 tags: ["Shipping", "Dry Bulk", "Capesize", "Economy"]
 images_count: 6
-word_count: 1217
+word_count: 1223
 source_file: "corpus/03-breakwave/insights/2021/2021-12-05_the-big-picture-2021-in-review-pt1.html"
 ---
 
@@ -30,7 +30,7 @@ Ramping up
 
 2021 started with an unseasonable jump in Cape rates in January, boosted by a surge in congestion in the Far East (a recurring theme this year). This was driven by extreme weather in key discharge ports, residual queues from China’s ban on Australian coal and the COVID-related delays to port operations that we have now become accustomed to.
 
-![Market Chart 1](assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image0_2550cf225a23.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image0_2550cf225a23.png)
 
 > **Figure 1: Market Chart 1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image0_2550cf225a23.png)
@@ -43,26 +43,26 @@ On the flip side, Cape demand from the iron ore trades was relatively muted duri
 
 The ferrous market fundamentals were however rocked a few weeks later as Chinese economic planners appeared to take steps to curb steel output and meet the previously-stated goal of keeping 2021’s production flat versus 2020. Since May, we have seen some of the greatest ever falls in output. By October, monthly production had fallen by 28% from May’s levels and 22% YoY to 71.6m tonnes. Despite this sharp change of tack for Chinese steel, the party was far from over for the Capes. Iron ore reversed into a bear market, shedding as much as 60% of value in the months that followed, but Chinese buyers capitalised on lower prices (which were still well above the major producers’ unit costs) to replenish depleted stockpiles, keeping volumes from Australian shippers particularly strong.
 
-![Market Chart 2](assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image1_3e46c3e5ef32.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image1_3e46c3e5ef32.png)
 
 > **Figure 2: Market Chart 2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image1_3e46c3e5ef32.png)
 
 This set the stage for the highlight of this year: the scorching bull-run that sent average Cape rates just shy of $87,000 in Q3, the highest levels seen since 2009. Congestion in China became an even greater driving force of the market, with queues jumping to record levels which translated to over 5% of the trading fleet, with other factors such as Australia’s fourteen-day quarantine requirement and deviations for crew changes layering on additional inefficiencies. China’s intensified scramble for coal added to the heat, and with utilisation rates already at extremely high levels, rates pushed into exponential territory, brushing off the brewing concerns over China’s property sector and long-term economic growth prospects. The spike, however, had to correct eventually, and October saw rates slide back to ‘normal’ levels, losing about $60,000 in the space of a month. The freight derivatives market saw a similarly savage sell off in October, for both near-term and deferred contracts. December FFAs had plunged by 64% by mid-November, but have since reclaimed about half of this loss to trade at $34,875 at the time of writing. Calendar-year 2022 contracts dropped by 40% to a low of $18,000 and have since climbed back up to $22,750.
 
-![Market Chart 3](assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image2_2cbc8011ed70.jpg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image2_2cbc8011ed70.jpg)
 
 > **Figure 3: Market Chart 3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image2_2cbc8011ed70.jpg)
 
-![Market Chart 4](assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image2_83cea02d96bc.jpg)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image2_83cea02d96bc.jpg)
 
 > **Figure 4: Market Chart 4**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image2_83cea02d96bc.jpg)
 
 On the supply side, 2021 has so far seen 81 new ships join the Cape fleet, though within this, additions have focused heavily in the Newcastlemax segment. 21 vessels have been removed, but in dwt terms, 70% of this capacity has been old VLOCs built in the early 90s. The remaining 1.5m dwt removed was made up of sub-180k dwt designs with an average age of 22.5 years at demolition. The net effect of these changes has been a 3.5% YTD increase in Capesize capacity, the highest of all of the bulk carrier segments.
 
-![Market Chart 5](assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image3_5c811f9a6b7c.png)
+![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image3_5c811f9a6b7c.png)
 
 > **Figure 5: Market Chart 5**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image3_5c811f9a6b7c.png)
@@ -71,7 +71,7 @@ Where do we stand?
 
 Although rates are still well below Q3’s levels, they remain extremely firm. Today’s Capesize index printed at $37,604, which, excluding this year, is not far off the strongest levels we’ve seen since 2013. Looking forward, we remain fairly conservative on the growth prospects of coal trade and Chinese iron ore demand, but expect that a historically low delivery schedule will provide a floor to rates. As such, even though we think 2022 will average lower than this year, we believe the long-term underlying freight cycle (indicated by the 5-year moving average in the chart below) is trending upwards and the days of heavy oversupply are behind us.
 
-![Market Chart 6](assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image4_694d9d7616cb.png)
+![Market Chart 6](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image4_694d9d7616cb.png)
 
 > **Figure 6: Market Chart 6**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image4_694d9d7616cb.png)

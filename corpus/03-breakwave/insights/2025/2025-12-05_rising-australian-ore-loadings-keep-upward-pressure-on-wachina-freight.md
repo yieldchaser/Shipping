@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/12/4/rising-australian-ore-loadings-keep-upward-pressure-on-wachina-freight"
 tags: ["Ironore", "Drybulk", "Markets"]
 images_count: 4
-word_count: 1025
+word_count: 1029
 source_file: "corpus/03-breakwave/insights/2025/2025-12-05_rising-australian-ore-loadings-keep-upward-pressure-on-wachina-freight.html"
 ---
 
@@ -29,8 +29,8 @@ source_file: "corpus/03-breakwave/insights/2025/2025-12-05_rising-australian-ore
 
 - C5 assessments have climbed back to the peak levels last seen in 4Q23, the highest in nearly a year.
 
-- The momentum from October carried straight into November. Even with the[Australian cyclone](https://go.signalocean.com/e/983831/cyclone-7dayforecast-/2rnrvc/557647939/h/XwUT-xFBexjapYiVHTA0UodrQ7qS_f9TPak_SXsViR0)season beginning in November and running through April, and with no cyclone disruptions so far, sentiment remained firm.
-- Chinese demand remains a key driver: despite the drag from the[property sector](https://go.signalocean.com/e/983831/ty-market-is-somehow-worsening/2rnrvg/557647939/h/XwUT-xFBexjapYiVHTA0UodrQ7qS_f9TPak_SXsViR0), iron ore imports continued to rise through October and November, with Port Hedland at the forefront of the increase.
+- The momentum from October carried straight into November. Even with the [Australian cyclone](https://go.signalocean.com/e/983831/cyclone-7dayforecast-/2rnrvc/557647939/h/XwUT-xFBexjapYiVHTA0UodrQ7qS_f9TPak_SXsViR0) season beginning in November and running through April, and with no cyclone disruptions so far, sentiment remained firm.
+- Chinese demand remains a key driver: despite the drag from the [property sector](https://go.signalocean.com/e/983831/ty-market-is-somehow-worsening/2rnrvg/557647939/h/XwUT-xFBexjapYiVHTA0UodrQ7qS_f9TPak_SXsViR0), iron ore imports continued to rise through October and November, with Port Hedland at the forefront of the increase.
 - Iron ore stockpiles across China’s 45 major ports (tracked by Mysteel) increased by 1.6 million tonnes, or 1%, in the week of Nov 21–27, reaching 152.1 million tonnes, the highest level in nine months and 1% above last year’s level, marking the first year-on-year increase since mid-April.
 
 **Spotlight on West Australian Iron Ore**[**Flows**](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2rnrvk/557647939/h/XwUT-xFBexjapYiVHTA0UodrQ7qS_f9TPak_SXsViR0)**| China**

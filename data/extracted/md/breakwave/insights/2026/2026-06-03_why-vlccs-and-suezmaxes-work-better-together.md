@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/6/3/why-vlccs-and-suezmaxes-work-better-together"
 tags: ["Tankers", "Markets", "Geopolitics"]
 images_count: 1
-word_count: 792
+word_count: 793
 source_file: "corpus/03-breakwave/insights/2026/2026-06-03_why-vlccs-and-suezmaxes-work-better-together.html"
 ---
 

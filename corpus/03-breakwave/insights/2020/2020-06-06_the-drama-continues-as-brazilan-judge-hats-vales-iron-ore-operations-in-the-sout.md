@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/6/the-drama-continues-as-brazilan-judge-hats-vales-iron-ore-operations-in-the-south"
 tags: ["Shipping", "Dry Bulk", "Vale"]
 images_count: 2
-word_count: 697
+word_count: 699
 source_file: "corpus/03-breakwave/insights/2020/2020-06-06_the-drama-continues-as-brazilan-judge-hats-vales-iron-ore-operations-in-the-sout.html"
 ---
 

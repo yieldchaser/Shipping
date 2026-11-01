@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/13/the-big-picture-ofac-sanctions"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 2
-word_count: 828
+word_count: 830
 source_file: "corpus/03-breakwave/insights/2025/2025-01-13_the-big-picture-ofac-sanctions.html"
 ---
 

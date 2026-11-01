@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/11/27/2021-dry-bulk-outlook-bauxite"
 tags: ["Bauxite", "Aluminum", "Dry Bulk"]
 images_count: 5
-word_count: 1626
+word_count: 1631
 source_file: "corpus/03-breakwave/insights/2020/2020-11-27_2021-dry-bulk-outlook-bauxite.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-11-27_2021-dry-bulk-outlook
 
 This article is the 6th in a series of seven where Klaveness Research goes through how the fundamentals impacting dry bulk freight rates are shaping up for 2021.
 
-In the first article we started off by having a look at the[big picture](https://www.breakwaveadvisors.com/insights/2020/10/30/the-big-picture-dry-bulk-fundamentals). In the subsequent four articles we drilled further down into the details of the seaborne[iron ore](https://www.klaveness.com/news/2020/10/30/2021-dry-bulk-outlook-will-iron-ore-export-be-able-to-meet-demand),[coal](https://www.breakwaveadvisors.com/insights/2020/11/6/2021-dry-bulk-outlook-coal),[grains](https://www.breakwaveadvisors.com/insights/2020/11/12/2021-dry-bulk-outlook-grains)and[minor bulks](https://www.breakwaveadvisors.com/insights/2020/11/20/2021-dry-bulk-outlook-minor-bulks)trade. This week’s article will be on the bauxite trade. We will finish off the series next week with a look at the fleet growth.
+In the first article we started off by having a look at the [big picture](https://www.breakwaveadvisors.com/insights/2020/10/30/the-big-picture-dry-bulk-fundamentals). In the subsequent four articles we drilled further down into the details of the seaborne [iron ore](https://www.klaveness.com/news/2020/10/30/2021-dry-bulk-outlook-will-iron-ore-export-be-able-to-meet-demand),[coal](https://www.breakwaveadvisors.com/insights/2020/11/6/2021-dry-bulk-outlook-coal),[grains](https://www.breakwaveadvisors.com/insights/2020/11/12/2021-dry-bulk-outlook-grains) and [minor bulks](https://www.breakwaveadvisors.com/insights/2020/11/20/2021-dry-bulk-outlook-minor-bulks) trade. This week’s article will be on the bauxite trade. We will finish off the series next week with a look at the fleet growth.
 
 ### The Link Between the Bauxite Trade and Dry Bulk Freight Rates
 

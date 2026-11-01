@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/12/29/signal-weekly-report"
 tags: ["Shipping", "Rates", "Dry Bulk"]
 images_count: 4
-word_count: 817
+word_count: 821
 source_file: "corpus/03-breakwave/insights/2021/2021-12-29_signal-weekly-report.html"
 ---
 

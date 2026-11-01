@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/21/signal-dry-bulk-weekly-report"
 images_count: 4
-word_count: 817
+word_count: 821
 source_file: "corpus/03-breakwave/insights/2022/2022-10-21_signal-dry-bulk-weekly-report.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-10-21_signal-dry-bulk-weekl
 Freight rates in the Capesize and Panamax segments, as well as in the smaller vessel categories, weakened in the third week of October, indicating slower percentage demand growth. However, dry bulk coal flows continue to see an increase in shipments to Europe, with the Netherlands, Germany, Italy, and Spain as the main destinations, and Russia still considered the main country of origin.
 
 **Chart of the Week Dry Bulk Flows: Europe continues to import coal**
-*The Netherlands at the top*
+ *The Netherlands at the top*
 
 ![Data Source: The Signal Ocean Platform](assets/2022-10-21_signal-dry-bulk-weekly-report_img_unnamed289829_dcccc4aa9408.png)
 
@@ -43,10 +43,10 @@ In the iron ore market, Mining.com news reported a drop in prices as China's zer
 
 The third week of October began with a downward trend in all size categories, with Panamax and Capesize rates still firmer than in September despite the recent slump.
 
-- **Capesize**freight rates from Brazil to North China fell to $23.5/tonne, down nearly $2/tonne from week 40.
-- **Panamax**freight rates from the Continent to the Far East fell below $43/tonne, but are still $8/tonne above the week 35 low.
-- **Supramax**freight rates for the Indo-ECI route were below $19/tonne for the first time since the end of week 37, continuing a trend of falling rates.
-- **Handysize**vessel freight rates from NOPAC to the Far East fell to $49/tonne,which appears to be the lowest since January last year.
+- **Capesize** freight rates from Brazil to North China fell to $23.5/tonne, down nearly $2/tonne from week 40.
+- **Panamax** freight rates from the Continent to the Far East fell below $43/tonne, but are still $8/tonne above the week 35 low.
+- **Supramax** freight rates for the Indo-ECI route were below $19/tonne for the first time since the end of week 37, continuing a trend of falling rates.
+- **Handysize** vessel freight rates from NOPAC to the Far East fell to $49/tonne,which appears to be the lowest since January last year.
 
 ## Section 2/ Supply -Ballasters (# Vessels) Increasing
 
@@ -57,10 +57,10 @@ The third week of October began with a downward trend in all size categories, wi
 
 The trend has decreased significantly in the Capesize segment, while a strong downward correction is observed in the Supramax segment.
 
-- **Capesize**demand ton-days: The percentage increase is now at its lowest level in a month, while freight rates showed a weaker picture in the October days.
-- **Panamax**demand ton-days: The volatility of the recorded growth remains with an insignificant upward or downward trend, but with a gradually slower rate of increase.
-- **Supramax**demand ton-days: The slower growth rate followed the last peak of week 38 while maintaining the weaker outlook of the previous days.
-- **Handysize**demand ton-days: The sudden decline seen since week 40 continued in the following days and is now even lower, with no signs of recovery.
+- **Capesize** demand ton-days: The percentage increase is now at its lowest level in a month, while freight rates showed a weaker picture in the October days.
+- **Panamax** demand ton-days: The volatility of the recorded growth remains with an insignificant upward or downward trend, but with a gradually slower rate of increase.
+- **Supramax** demand ton-days: The slower growth rate followed the last peak of week 38 while maintaining the weaker outlook of the previous days.
+- **Handysize** demand ton-days: The sudden decline seen since week 40 continued in the following days and is now even lower, with no signs of recovery.
 
 ## Section 4/ Port Congestion -No of Vesselsdecreasing
 

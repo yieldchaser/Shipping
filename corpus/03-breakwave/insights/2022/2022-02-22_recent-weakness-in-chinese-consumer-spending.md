@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/2/22/recent-weakness-in-chinese-consumer-spending"
 tags: ["China", "Sales", "Economy"]
 images_count: 3
-word_count: 424
+word_count: 427
 source_file: "corpus/03-breakwave/insights/2022/2022-02-22_recent-weakness-in-chinese-consumer-spending.html"
 ---
 

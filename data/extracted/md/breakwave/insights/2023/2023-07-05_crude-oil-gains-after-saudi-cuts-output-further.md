@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/7/5/crude-oil-gains-after-saudi-cuts-output-further"
 images_count: 1
-word_count: 581
+word_count: 582
 source_file: "corpus/03-breakwave/insights/2023/2023-07-05_crude-oil-gains-after-saudi-cuts-output-further.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/8/12/brazil-dry-bulk-export-driver"
 tags: ["Drybulk", "Shipping", "Brazil"]
 images_count: 4
-word_count: 775
+word_count: 779
 source_file: "corpus/03-breakwave/insights/2023/2023-08-13_brazil-dry-bulk-export-driver.html"
 ---
 

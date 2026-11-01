@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/10/1/china-the-not-so-golden-week"
 tags: ["China", "Economy", "Crisis"]
 images_count: 2
-word_count: 753
+word_count: 755
 source_file: "corpus/03-breakwave/insights/2021/2021-10-01_china-the-not-so-golden-week.html"
 ---
 
@@ -32,14 +32,14 @@ The disappointing manufacturing activity suggests that Chinese authorities will 
 
 The Chinese economy's restrictive policies and problems have also impacted the volumes of commodities discharged in Chinese ports. Both iron ore and coal saw weakening volumes in September compared to the preceding month. While the decline was modest for iron ore, coal discharged in Chinese ports during September fell by nineteen per cent compared to August.
 
-![Ch1](assets/2021-10-01_china-the-not-so-golden-week_img_ch1_f510d3cda946.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-01_china-the-not-so-golden-week_img_ch1_f510d3cda946.png)
 
 > **Figure 1: Ch1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-01_china-the-not-so-golden-week_img_ch1_f510d3cda946.png)
 
 Despite the weakening Chinese iron ore and coal imports, global export volumes have kept up rather well. Both iron ore and coal export shipments during the third quarter are broadly in line with the same quarter in 2019 before the pandemic hit. However, iron ore shipments are two per cent below last year's blockbuster third quarter when the Chinese recovery was in full swing. Coal exports during the third quarter, on the other hand, rose by seventeen per cent compared to the previous year.
 
-![Ch2](assets/2021-10-01_china-the-not-so-golden-week_img_ch2_8dc7ed870f46.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-01_china-the-not-so-golden-week_img_ch2_8dc7ed870f46.png)
 
 > **Figure 2: Ch2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-01_china-the-not-so-golden-week_img_ch2_8dc7ed870f46.png)

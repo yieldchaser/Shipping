@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/12/global-crude-exports-fall-in-june-non-opec-gains-share"
 tags: ["Tankers", "Shipping", "Crude Oil"]
 images_count: 2
-word_count: 721
+word_count: 723
 source_file: "corpus/03-breakwave/insights/2024/2024-07-12_global-crude-exports-fall-in-june-non-opec-gains-share.html"
 ---
 

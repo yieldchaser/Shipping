@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/11/24/iron-ore-freight-market-trends"
 tags: ["Ironore", "Drybulk", "Markets"]
 images_count: 3
-word_count: 1125
+word_count: 1128
 source_file: "corpus/03-breakwave/insights/2025/2025-11-24_iron-ore-freight-market-trends.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/5/20/commodity-inflation-china-increases-the-pressure"
 tags: ["China", "Commodities", "Inflation"]
 images_count: 3
-word_count: 971
+word_count: 974
 source_file: "corpus/03-breakwave/insights/2021/2021-05-21_commodity-inflation-china-increases-the-pressure.html"
 ---
 
@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-05-21_commodity-inflation-c
 
 *By Ulf Bergman*
 
-![Unsplash Image P Er1ghmtyy](assets/2021-05-21_commodity-inflation-china-increases-the-pressure_img_unsplash-image-p-er1ghmtyy_529fcb5f3a40.jpg)
+![Unsplash Image P Er1ghmtyy](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-21_commodity-inflation-china-increases-the-pressure_img_unsplash-image-p-er1ghmtyy_529fcb5f3a40.jpg)
 
 > **Figure 1: Unsplash Image P Er1ghmtyy**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-21_commodity-inflation-china-increases-the-pressure_img_unsplash-image-p-er1ghmtyy_529fcb5f3a40.jpg)
@@ -35,14 +35,14 @@ As the world’s preeminent consumer of many commodities, such as iron ore, non-
 
 Any attempts by Beijing to control the rising commodity prices by reducing demand may take some time to pay a dividend. The more forceful rhetoric may reduce the appetite for iron ore futures among investors who use it as a proxy for the Chinese economic growth and introduce a degree of price control this way. However, the effect on imported volumes of iron ore may take some time to materialise. So far this month import volumes have been strong and could be on track to beat the record for May set last year. Assuming a degree of linearity on the iron ore deliveries to Chinese ports, data from Oceanbolt suggest that the volumes could edge above those recorded in May last year. With two-thirds of the month already behind us, around 62 million tonnes of iron ore have been discharged in Chinese ports putting the month on track for approximately 96 million tonnes delivered, but not necessarily customs cleared.
 
-![Ulf 5.20](assets/2021-05-21_commodity-inflation-china-increases-the-pressure_img_ulf520_780752ac04bd.png)
+![Ulf 5.20](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-21_commodity-inflation-china-increases-the-pressure_img_ulf520_780752ac04bd.png)
 
 > **Figure 2: Ulf 5.20**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-21_commodity-inflation-china-increases-the-pressure_img_ulf520_780752ac04bd.png)
 
 The nature of seaborne transportation means that any changes to import and export policies could take quite some time to turn up in the data. The potential record-breaking volumes for May is a result of transactions taking place during the preceding months. Hence, the effectiveness of any measures from the Chinese authorities will show up in the import data during the coming months. While this week’s statement from China’s State Council was strong, the issue of rising commodity prices has undoubtedly been on the minds of the leadership for the last month(s). Hence, it could be useful to consider the volumes loaded onto vessels heading for Chinese ports during April and May. Given the distances involved, much of it is still en route. Based on data from Oceanbolt, the volumes of iron ore heading for China do not match last year’s record levels. Iron ore exports heading for China in April this year was in line with the average for the month, while volumes shipped during May could be on course for the lowest since 2015 (again assuming linearity). Given the modest numbers, imported volumes may start to decrease in the coming months.
 
-![Ulf 2 5.20](assets/2021-05-21_commodity-inflation-china-increases-the-pressure_img_ulf2520_126f7369a99d.png)
+![Ulf 2 5.20](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-21_commodity-inflation-china-increases-the-pressure_img_ulf2520_126f7369a99d.png)
 
 > **Figure 3: Ulf 2 5.20**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-21_commodity-inflation-china-increases-the-pressure_img_ulf2520_126f7369a99d.png)

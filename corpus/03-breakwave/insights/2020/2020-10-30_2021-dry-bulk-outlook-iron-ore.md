@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/10/29/2021-dry-bulk-outlook-iron-ore"
 tags: ["Shipping", "Dry Bulk", "Capesize"]
 images_count: 7
-word_count: 2107
+word_count: 2114
 source_file: "corpus/03-breakwave/insights/2020/2020-10-30_2021-dry-bulk-outlook-iron-ore.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-10-30_2021-dry-bulk-outlook
 
 In the following weeks Klaveness Research will in a series of articles have a look at how we believe the fundamentals impacting dry bulk freight rates are shaping up for 2021.
 
-In[last week’s article](https://www.breakwaveadvisors.com/insights/2020/10/22/2021-dry-bulk-outlook)we started off by having a look at the big picture. In this week’s article we will drill further into the details of the fundamental drivers for iron ore, which is the single biggest dry bulk commodity. In subsequent reports we will drill further down into the other major dry bulk commodity groups of coal, grains, bauxite and minor bulks before we finish off with a look at the supply side.
+In [last week’s article](https://www.breakwaveadvisors.com/insights/2020/10/22/2021-dry-bulk-outlook) we started off by having a look at the big picture. In this week’s article we will drill further into the details of the fundamental drivers for iron ore, which is the single biggest dry bulk commodity. In subsequent reports we will drill further down into the other major dry bulk commodity groups of coal, grains, bauxite and minor bulks before we finish off with a look at the supply side.
 
 ### The Link Between the Iron Ore Trade and Dry Bulk Freight Rates
 
@@ -43,7 +43,7 @@ Iron ore’s high market share in Capesize demand makes the link between the sea
 
 Steel is primarily produced using one of two methods: Blast Furnace or Electric Arc Furnace. 98%** of the mined iron ore is linked to blast furnace steel production which uses coke, iron ore and limestone to produce pig iron. The competing Electric Arc Furnace method uses scrap steel and electricity to produce molten steel.
 
-As we touched upon in[last week’s article](https://www.breakwaveadvisors.com/insights/2020/10/22/2021-dry-bulk-outlook)the biggest iron ore importer in the world is by far China. China’s market share in global steel production year to date is 58%. The fact that more than 90% of Chinese steel production is based on the blast furnace method, while the percentage for the rest of the world is around 55% (2019 data is not available) means that China’s demand for iron ore exceeds the Chinese share in global steel production. Combined with a low quality in the domestic iron ore, the vast majority of China’s demand is covered through imports. 71% of all seaborne export of iron ore in 2019 was destined for China. In the first 9 months of this year the market share of China has increased further to 76% as steel production in the country has increased 3.9% year on year, while steel production in the rest of the world collectively is down 13.3%.
+As we touched upon in [last week’s article](https://www.breakwaveadvisors.com/insights/2020/10/22/2021-dry-bulk-outlook) the biggest iron ore importer in the world is by far China. China’s market share in global steel production year to date is 58%. The fact that more than 90% of Chinese steel production is based on the blast furnace method, while the percentage for the rest of the world is around 55% (2019 data is not available) means that China’s demand for iron ore exceeds the Chinese share in global steel production. Combined with a low quality in the domestic iron ore, the vast majority of China’s demand is covered through imports. 71% of all seaborne export of iron ore in 2019 was destined for China. In the first 9 months of this year the market share of China has increased further to 76% as steel production in the country has increased 3.9% year on year, while steel production in the rest of the world collectively is down 13.3%.
 
 ![Klav 21](assets/2020-10-30_2021-dry-bulk-outlook-iron-ore_img_klav21_c2fd1136c2b5.png)
 
@@ -67,7 +67,7 @@ Australia is by far the largest iron ore exporter in the world with a 65% market
 > **Figure 3: Klav 22**  
 > **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/Brumadinho_dam_disaster) | [Local Asset](assets/2020-10-30_2021-dry-bulk-outlook-iron-ore_img_klav22_cbeb861d00f7.png)
 
-The[Brumadinho dam disaster](https://en.wikipedia.org/wiki/Brumadinho_dam_disaster)was a negative shock for the dry bulk market as the long-distance iron ore export out of Brazil contracted about 13%* year on year (yoy) in 2019.
+The [Brumadinho dam disaster](https://en.wikipedia.org/wiki/Brumadinho_dam_disaster) was a negative shock for the dry bulk market as the long-distance iron ore export out of Brazil contracted about 13%* year on year (yoy) in 2019.
 
 The Brazilian iron ore export has a seasonality where exports tends to start off at low pace in Q1 due to adverse weather before increasing through the year, a pattern that coincides with the seasonality in the Capesize freight market. This year’s Q1 suffered from torrential rain which together with the prevailing negative effects from the Brumadinho disaster resulted in the weakest Q1 export performance since 2015. Since then, Brazilian iron ore exports have been trending higher resulting in year to date exports on par with last year. Vale has clear ambitions to increase their production from about 310Mt in 2020 to 400Mt in a couple of years’ time. We believe that the ton mile intensity of iron ore exports from Brazil will increase in the region of 20-30Mt in 2021.
 

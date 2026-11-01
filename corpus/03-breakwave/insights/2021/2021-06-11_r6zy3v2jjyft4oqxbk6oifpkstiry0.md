@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/6/10/r6zy3v2jjyft4oqxbk6oifpkstiry0"
 tags: ["Coal", "China"]
 images_count: 3
-word_count: 1011
+word_count: 1014
 source_file: "corpus/03-breakwave/insights/2021/2021-06-11_r6zy3v2jjyft4oqxbk6oifpkstiry0.html"
 ---
 

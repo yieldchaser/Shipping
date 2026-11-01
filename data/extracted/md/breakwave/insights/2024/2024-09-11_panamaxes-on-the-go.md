@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/11/panamaxes-on-the-go"
 tags: ["Shipping", "Commodities", "Markets"]
 images_count: 1
-word_count: 1191
+word_count: 1192
 source_file: "corpus/03-breakwave/insights/2024/2024-09-11_panamaxes-on-the-go.html"
 ---
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/3/14/vlcc-ag-supply"
 tags: ["Tankers", "Crude", "Markets"]
 images_count: 9
-word_count: 1420
+word_count: 1429
 source_file: "corpus/03-breakwave/insights/2025/2025-03-14_vlcc-ag-supply.html"
 ---
 
@@ -54,31 +54,31 @@ Given China's dominance in crude oil imports, any shifts in refinery throughput,
 
 VLCC MEG/China routes continue to face challenges in building momentum, while the Suezmax segment shows signs of strengthening as we enter the latter half of the month.
 
-- **VLCC**freight rates for**MEG-China**routes remained below WS60, with market sentiment mirroring levels seen during the same period last year. Suezmax rates for**West Africa to continental**Europe rose WS100, reflecting an 11% monthly increase. Meanwhile, Suezmax rates on the Baltic-Mediterranean route rose above WS120, up 19% weekly.
-- **Aframax**freight rates in the**Mediterranean**fell below WS125, extending their decline since late February. The latest trend reflects an 18% drop month-on-month.
+- **VLCC** freight rates for **MEG-China** routes remained below WS60, with market sentiment mirroring levels seen during the same period last year. Suezmax rates for **West Africa to continental** Europe rose WS100, reflecting an 11% monthly increase. Meanwhile, Suezmax rates on the Baltic-Mediterranean route rose above WS120, up 19% weekly.
+- **Aframax** freight rates in the **Mediterranean** fell below WS125, extending their decline since late February. The latest trend reflects an 18% drop month-on-month.
 
 ![Στιγμιότυπο Οθόνης 2025 03 14 135819](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db455e194626.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 03 14 135819**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db455e194626.png)
 
-- **LR2**AG freight rates held firmer levels of the previous week at around WS140, reflecting a 14% monthly increase.
+- **LR2** AG freight rates held firmer levels of the previous week at around WS140, reflecting a 14% monthly increase.
 
 ![Στιγμιότυπο Οθόνης 2025 03 14 135902](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7c0ac5d671d.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 03 14 135902**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7c0ac5d671d.png)
 
-- **Panamax**Carib-to-USG remained at around 150 WS, which corresponds to an increase of 25 % compared to the previous month.
+- **Panamax** Carib-to-USG remained at around 150 WS, which corresponds to an increase of 25 % compared to the previous month.
 
 ![Στιγμιότυπο Οθόνης 2025 03 14 135944](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88e82d7ae6da.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 03 14 135944**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88e82d7ae6da.png)
 
-- **MR1**freight rates for Baltic-to-Continent shipments hovered around WS190, reflecting a similar momentum of the previous week.
+- **MR1** freight rates for Baltic-to-Continent shipments hovered around WS190, reflecting a similar momentum of the previous week.
 
-- **MR2**rates for shipments from the Continent to the US Atlantic Coast (USAC) remained steady at WS145, maintaining last week's sentiment and marking a 26% month-over-month increase. Meanwhile, MR2 rates on the US Gulf-to-Continent route declined to WS85, reflecting an 11% monthly drop.
+- **MR2** rates for shipments from the Continent to the US Atlantic Coast (USAC) remained steady at WS145, maintaining last week's sentiment and marking a 26% month-over-month increase. Meanwhile, MR2 rates on the US Gulf-to-Continent route declined to WS85, reflecting an 11% monthly drop.
 
 ![Στιγμιότυπο Οθόνης 2025 03 14 140250](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23974a957b95.png)
 
@@ -106,16 +106,16 @@ VLCC MEG/China routes continue to face challenges in building momentum, while th
 > **Figure 8: Στιγμιότυπο Οθόνης 2025 03 14 141001**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fce6889cb64a.png)
 
-- **Dirty**tonne days: The growth rate of dirty tonne-days for VLCCs remained sluggish for another week, reaching its lowest level in the past year. In contrast, the Suezmax segment experienced a remarkable recovery starting in the first week of March, while Aframax activity has been gaining momentum since late February, though it continues to hover around the annual average growth trend.
+- **Dirty** tonne days: The growth rate of dirty tonne-days for VLCCs remained sluggish for another week, reaching its lowest level in the past year. In contrast, the Suezmax segment experienced a remarkable recovery starting in the first week of March, while Aframax activity has been gaining momentum since late February, though it continues to hover around the annual average growth trend.
 
 ![Στιγμιότυπο Οθόνης 2025 03 14 141111](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_67bcfb177185.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 03 14 141111**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_67bcfb177185.png)
 
-- **Panamax**tonne days: The growth rate remains below the weekly annual average recorded since the beginning of the year, although it has recovered from its low point recorded six weeks ago.
+- **Panamax** tonne days: The growth rate remains below the weekly annual average recorded since the beginning of the year, although it has recovered from its low point recorded six weeks ago.
 
-- **MR**tonne-days: The growth rate of the MR segment has continued to decline and is now close to the annual average. In the meantime, the peak observed in week 5 appears to be further away from the current momentum.
+- **MR** tonne-days: The growth rate of the MR segment has continued to decline and is now close to the annual average. In the meantime, the peak observed in week 5 appears to be further away from the current momentum.
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)
 

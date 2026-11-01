@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/22/panamax-market"
 tags: ["Shipping", "Drybulk", "Markets"]
 images_count: 5
-word_count: 1115
+word_count: 1120
 source_file: "corpus/03-breakwave/insights/2025/2025-01-22_panamax-market.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-01-22_panamax-market.html"
 ---
 
 **Dry Weekly Market Monitor - Week 04, 2025**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 January 22, 2025
 
 ## Chart of the Week: Panamax Market (Ecsa Ballasters & Demand)
@@ -35,7 +35,7 @@ January 22, 2025
 
 As January draws to a close, the Capesize Brazil–North China freight market maintains a relatively stable sentiment. Although highs have yet to be achieved, the market remains steady. In contrast, the Panamax Continent–Far East route shows weaker sentiment, weighed down by an oversupply of tonnage that continues to depress freight rates. Shifting focus to the ECSA market for the Panamax vessel size category, there has been a notable surge in the number of ballasters. Meanwhile, the P6 route has plummeted to record lows, revisiting the bottom levels seen in mid-February 2023.
 
-As the month progresses, the iron ore market is showing signs of recovery.[Iron ore prices](https://go.signalocean.com/e/983831/commodity-iron-ore/2qv7dj/463409181/h/cOmmvUfXvGEEdyKUTQk14KJh-mcQ1FCkXoG38H0UVEU)for cargoes with 62% iron content surged above $101 per ton in mid-January, reaching a two-week high. This rise reflects market optimism fueled by potential stimulus measures from Beijing. China’s Ministry of Commerce has announced plans to bolster consumption, stabilize foreign trade, and promote investment throughout the year, further lifting market sentiment.
+As the month progresses, the iron ore market is showing signs of recovery.[Iron ore prices](https://go.signalocean.com/e/983831/commodity-iron-ore/2qv7dj/463409181/h/cOmmvUfXvGEEdyKUTQk14KJh-mcQ1FCkXoG38H0UVEU) for cargoes with 62% iron content surged above $101 per ton in mid-January, reaching a two-week high. This rise reflects market optimism fueled by potential stimulus measures from Beijing. China’s Ministry of Commerce has announced plans to bolster consumption, stabilize foreign trade, and promote investment throughout the year, further lifting market sentiment.
 
 On the geopolitical front, international trade dynamics remain uncertain. While the US administration under President Donald Trump refrained from imposing new tariffs on its first day, directives have been issued to investigate and address ongoing trade deficits. Furthermore, there are looming threats of tariffs targeting Mexico, Canada, China, and the EU, stemming from various trade-related concerns. These developments could have implications for global trade flows and market sentiment in the coming months.
 
@@ -46,10 +46,10 @@ On the geopolitical front, international trade dynamics remain uncertain. While 
 
 The dry bulk freight market continued a mixed momentum from the previous weeks of January, with a notable decline in Panamax rates from the Continent to the Far East.
 
-- **Capesize**vessel freight rates for shipments from Brazil to North China have stabilized at approximately $18 per ton, marking an 8% increase month-on-month. However, on an annual basis, rates remain 20% lower.
-- **Panamax**vessel freight rates from the Continent to the Far East dropped below $320 per ton, showing a 25% decline compared to the same period last year.
-- **Supramax**vessel freight rates on the Indo-ECI route dropped below $7 per ton, reflecting a monthly decrease of 18%.
-- **Handysize**freight rates for the NOPAC Far East route have fallen to $27 per ton, representing an 8% month-on-month decline. The downward trend has persisted into the final days of January.
+- **Capesize** vessel freight rates for shipments from Brazil to North China have stabilized at approximately $18 per ton, marking an 8% increase month-on-month. However, on an annual basis, rates remain 20% lower.
+- **Panamax** vessel freight rates from the Continent to the Far East dropped below $320 per ton, showing a 25% decline compared to the same period last year.
+- **Supramax** vessel freight rates on the Indo-ECI route dropped below $7 per ton, reflecting a monthly decrease of 18%.
+- **Handysize** freight rates for the NOPAC Far East route have fallen to $27 per ton, representing an 8% month-on-month decline. The downward trend has persisted into the final days of January.
 
 ![Στιγμιότυπο Οθόνης 2025 01 22 151911](assets/2025-01-22_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_edd465065d2e.png)
 

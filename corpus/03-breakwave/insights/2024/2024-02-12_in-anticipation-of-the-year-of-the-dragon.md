@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/2/12/in-anticipation-of-the-year-of-the-dragon"
 tags: ["Drybulk", "Shipping", "China"]
 images_count: 1
-word_count: 800
+word_count: 801
 source_file: "corpus/03-breakwave/insights/2024/2024-02-12_in-anticipation-of-the-year-of-the-dragon.html"
 ---
 

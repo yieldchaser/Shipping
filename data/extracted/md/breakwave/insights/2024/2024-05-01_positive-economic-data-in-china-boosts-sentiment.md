@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/5/1/positive-economic-data-in-china-boosts-sentiment"
 tags: ["Commodities", "Economy", "China"]
 images_count: 2
-word_count: 699
+word_count: 701
 source_file: "corpus/03-breakwave/insights/2024/2024-05-01_positive-economic-data-in-china-boosts-sentiment.html"
 ---
 
@@ -33,7 +33,7 @@ Ongoing inflationary pressures in the US put further doubts on imminent rate cut
 
 **Gold** slumped back below USD2,300/oz amid easing expectations of rate cuts. The ongoing signs of inflation come as the FOMC meet to discuss whether to cut rates. However, the market is bracing for the possibility that central bankers may backtrack from previous hints of swifter rate cuts. Swap traders are now pricing in two rate cuts by year end, the fewest number of expected reductions since November 2023. A stronger USD also weighed on investor demand.
 
-**Iron ore**futures rallied on hopes of further government support for China’s ailing property sector. The Communist Party vowed to explore new measures to tackle the protracted housing crisis, including ways to deal with unsold properties. The official Xinhua News Agency also reported that the 24-main Politburo are also looking at ways to lower borrowing costs. The steel market was also buoyed by the manufacturing data which showed new orders rose. The steel industry’s purchasing managers index reached 47.9 in April, up from 44.2 in March.
+**Iron ore** futures rallied on hopes of further government support for China’s ailing property sector. The Communist Party vowed to explore new measures to tackle the protracted housing crisis, including ways to deal with unsold properties. The official Xinhua News Agency also reported that the 24-main Politburo are also looking at ways to lower borrowing costs. The steel market was also buoyed by the manufacturing data which showed new orders rose. The steel industry’s purchasing managers index reached 47.9 in April, up from 44.2 in March.
 
 **Crude oil** fell to its lowest level in a month as tensions in the Middle East continue to ease. The potential for a ceasefire agreement between Israel and Hamas has eased concerns of an escalation of the conflict and any possible disruptions to supply. US Secretary of State Antony Blinken, who is currently in the Middle East, continues to urge leaders of the Hamas militant group to quickly reach a decision on Israeli conditions for a ceasefire. Continued signs of inflation also raised concerns about demand for crude oil. This comes ahead of the US driving season, where demand for gasoline rises strongly.
 

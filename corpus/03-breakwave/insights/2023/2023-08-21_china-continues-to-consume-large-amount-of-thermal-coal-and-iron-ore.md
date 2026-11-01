@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2023/8/21/china-continues-to-consume-large-amount-of-thermal-coal-and-iron-ore"
 images_count: 2
-word_count: 389
+word_count: 391
 source_file: "corpus/03-breakwave/insights/2023/2023-08-21_china-continues-to-consume-large-amount-of-thermal-coal-and-iron-ore.html"
 ---
 

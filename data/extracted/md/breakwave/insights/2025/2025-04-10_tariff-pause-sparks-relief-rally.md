@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/4/10/tariff-pause-sparks-relief-rally"
 tags: ["Commodities", "Markets", "Shipping"]
 images_count: 2
-word_count: 832
+word_count: 834
 source_file: "corpus/03-breakwave/insights/2025/2025-04-10_tariff-pause-sparks-relief-rally.html"
 ---
 

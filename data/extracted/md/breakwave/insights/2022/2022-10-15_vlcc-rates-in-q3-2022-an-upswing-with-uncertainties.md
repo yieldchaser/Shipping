@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/10/14/vlcc-rates-in-q3-2022-an-upswing-with-uncertainties"
 images_count: 9
-word_count: 3027
+word_count: 3036
 source_file: "corpus/03-breakwave/insights/2022/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties.html"
 ---
 
@@ -75,7 +75,7 @@ Current rates remain at much firmer levels than the rest of the year, and the 90
 
 ‍
 
-Routes:**AG**to the Far East - Spore - USG |**WAfr**to East
+Routes:**AG** to the Far East - Spore - USG |**WAfr** to East
 
 ![63468ea4ab7fc228948304eb Image 1 VLCC Market Rates](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties_img_63468ea4ab7fc228948304eb-image1vlccm_094568ad9b56.png)
 
@@ -106,7 +106,7 @@ It should be noted that despite fears of supply shortages, monthly crude oil shi
 
 ‍
 
-‍*2. Focus on****China****&****India****:*
+‍*2. Focus on* ***China****&****India****:*
 
 *‍*‍
 
@@ -114,7 +114,7 @@ It is interesting to note the increase in the monthly volume of shipments from t
 
 ‍
 
-*a.****VLCC****Monthly volume of shipments from the U.S*
+*a.****VLCC*** *Monthly volume of shipments from the U.S*
 
 ![Image 4 Data Source: The Signal Ocean Platform](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties_img_63468f407b634d4860c3a9ce-image4vlccf_ed071525a20f.png)
 
@@ -148,7 +148,7 @@ Demand showed spectacular growth in both ton-miles and days through the end of t
 
 ‍
 
-*2.****VLCC****- Ton Miles / Ton Days Focus on****China****from USG*
+*2.****VLCC****- Ton Miles / Ton Days Focus on* ***China*** *from USG*
 
 ‍
 

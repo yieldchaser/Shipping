@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/15/trade-chinese-exports-and-imports-continue-to-show-strength"
 tags: ["China"]
 images_count: 2
-word_count: 866
+word_count: 868
 source_file: "corpus/03-breakwave/insights/2021/2021-04-15_trade-chinese-exports-and-imports-continue-to-show-strength.html"
 ---
 
@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-04-15_trade-chinese-exports
 
 This week saw yet another set of bullish data coming out of China, with both imports and exports in rude health. The strong showing indicates that the global post-pandemic economic recovery is well on track, as vaccine rollouts around the world pick up the pace. Strong US retail sales and employment data are further contributing to a picture of a recovering global economy. Parts of the strong Chinese numbers can be attributed to base effects, as last year’s data were severely affected by the accelerating pandemic. Nonetheless, the continued growth, in both exports and imports, is impressive and the World Trade Organization (WTO) is also expecting global trade to grow by eight per cent during 2021, which would be the strongest growth since 2010.
 
-![Source: China General Administration of Customs](assets/2021-04-15_trade-chinese-exports-and-imports-continue-to-show-strength_img_ulf1d_8128731c7c7e.png)
+![Source: China General Administration of Customs](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-15_trade-chinese-exports-and-imports-continue-to-show-strength_img_ulf1d_8128731c7c7e.png)
 
 > **Figure 1: Source: China General Administration of Customs**  
 > *Source: China General Administration of Customs*  
@@ -36,7 +36,7 @@ Chinese imports, on the other hand, rose more than what was widely expected. An 
 
 During the first quarter of the year, the exports to both the US and Europe grew more than the imports, despite a narrowing of the Chinese trade surplus in March. The current congestion in the Port of Los Angeles is a good illustration of the 75 per cent jump in exports to the US during the first three months. It is also worth noting that despite the current Chinese import ban on many Australian products, trade between the two nations grew and Chinese imports increased by 21 per cent while exports jumped 51 per cent. However, it is debatable if China can maintain the strong growth in exports in the near term as more and more countries will start to return to some form of normality with the continued rollout of vaccination programmes. The shift is likely to see consumers starting to spend more on services, such as restaurants and travel, rather than manufactured goods.
 
-![Unsplash Image 1wz5i0yhhia](assets/2021-04-15_trade-chinese-exports-and-imports-continue-to-show-strength_img_unsplash-image-1wz5i0yhhia_a400fc88c94a.jpg)
+![Unsplash Image 1wz5i0yhhia](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-15_trade-chinese-exports-and-imports-continue-to-show-strength_img_unsplash-image-1wz5i0yhhia_a400fc88c94a.jpg)
 
 > **Figure 2: Unsplash Image 1wz5i0yhhia**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-15_trade-chinese-exports-and-imports-continue-to-show-strength_img_unsplash-image-1wz5i0yhhia_a400fc88c94a.jpg)

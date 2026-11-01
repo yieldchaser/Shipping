@@ -7,7 +7,7 @@ category: "insights"
 source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/1/29/american-imperium"
 images_count: 1
-word_count: 1226
+word_count: 1227
 source_file: "corpus/03-breakwave/insights/2024/2024-01-29_american-imperium.html"
 ---
 

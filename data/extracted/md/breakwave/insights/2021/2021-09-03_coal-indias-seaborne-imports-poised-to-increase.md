@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/9/3/coal-indias-seaborne-imports-poised-to-increase"
 tags: ["Shipping", "Coal", "India"]
 images_count: 3
-word_count: 918
+word_count: 921
 source_file: "corpus/03-breakwave/insights/2021/2021-09-03_coal-indias-seaborne-imports-poised-to-increase.html"
 ---
 
@@ -28,14 +28,14 @@ Notwithstanding an ambition to increase the use of renewable energy, coal-powere
 
 Despite the country being home to the fourth-largest coal deposits in the world, India has to import a considerable amount to cover its demand. It is the world’s second-largest importer of the commodity, behind China, with approximately 245 million tonnes being discharged in Indian ports during the pre-pandemic peak in 2019. So far this year, 150 million tonnes of seaborne coal has found its way to Indian ports which may not imply a new record year. However, Indian coal imports often increase during the latter part of the calendar year. In addition, the authorities have asked the utilities to increase imports to alleviate the developing supply squeeze, which runs contrary to recent attempts by the Indian government to reduce overseas coal purchases.
 
-![A1](assets/2021-09-03_coal-indias-seaborne-imports-poised-to-increase_img_a1_a3671b2069f5.png)
+![A1](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-03_coal-indias-seaborne-imports-poised-to-increase_img_a1_a3671b2069f5.png)
 
 > **Figure 1: A1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-03_coal-indias-seaborne-imports-poised-to-increase_img_a1_a3671b2069f5.png)
 
 It has been highlighted in Ocean Analytics’ previous Insights contributions that the ongoing diplomatic tensions between China and Australia have seen large parts of the Australian coal exports being diverted to India following the Chinese import embargo. This trend has remained in place throughout the year and the Australian miners have usurped the top spot previously held by the Indonesian suppliers. The news that India is likely to increase the import of coal is likely to delight the Australian coal miners, who can hope to ship an even greater part of the coal they previously dispatched to China. During the first eight months of the year, India has already imported more coal from down under than it did in a whole year previously. At the same time, Indonesia has lost its previously dominant position in the Indian market but much of its output is now going to China instead and is replacing the banned Australian imports.
 
-![A2](assets/2021-09-03_coal-indias-seaborne-imports-poised-to-increase_img_a2_21911dcd3c31.png)
+![A2](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-03_coal-indias-seaborne-imports-poised-to-increase_img_a2_21911dcd3c31.png)
 
 > **Figure 2: A2**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-03_coal-indias-seaborne-imports-poised-to-increase_img_a2_21911dcd3c31.png)
@@ -44,7 +44,7 @@ South Africa has long been the third-largest source of imported coal for the Ind
 
 The unrest affected the rail lines serving Richards Bay, reducing the amount of coal that reached the port and depleted stocks. According to data from Tathya.earth, coal inventories in the port have recovered somewhat since the immediate aftermath of the riots. However, the stockpiles remain below average and have also seen a negative trend in recent months. This would suggest that South Africa is unlikely to, at least in the short term, cater to the increasing Indian coal demand. While Indonesian export volumes to India remain well below what has been provided in the past, China’s continued robust demand for imported coal implies that the additional volumes available for the Indian market could be limited. Hence, leaving Australia as the main contender to meet the increasing Indian demand for coal.
 
-![A3](assets/2021-09-03_coal-indias-seaborne-imports-poised-to-increase_img_a3_bf8a6fd814f1.png)
+![A3](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-03_coal-indias-seaborne-imports-poised-to-increase_img_a3_bf8a6fd814f1.png)
 
 > **Figure 3: A3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-03_coal-indias-seaborne-imports-poised-to-increase_img_a3_bf8a6fd814f1.png)

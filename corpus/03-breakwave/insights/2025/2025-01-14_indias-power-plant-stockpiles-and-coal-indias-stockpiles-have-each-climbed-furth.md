@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/1/14/indias-power-plant-stockpiles-and-coal-indias-stockpiles-have-each-climbed-further"
 tags: ["China", "Drybulk", "Coal"]
 images_count: 3
-word_count: 394
+word_count: 397
 source_file: "corpus/03-breakwave/insights/2025/2025-01-14_indias-power-plant-stockpiles-and-coal-indias-stockpiles-have-each-climbed-furth.html"
 ---
 

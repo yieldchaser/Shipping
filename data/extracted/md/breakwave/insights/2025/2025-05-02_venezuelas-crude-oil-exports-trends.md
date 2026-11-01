@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/2/venezuelas-crude-oil-exports-trends"
 tags: ["Tankers", "Crude", "Markets"]
 images_count: 10
-word_count: 1593
+word_count: 1603
 source_file: "corpus/03-breakwave/insights/2025/2025-05-02_venezuelas-crude-oil-exports-trends.html"
 ---
 

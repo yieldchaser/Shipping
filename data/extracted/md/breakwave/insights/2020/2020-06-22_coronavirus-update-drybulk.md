@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/6/22/coronavirus-update-drybulk"
 tags: ["Dry Bulk", "Shipping"]
 images_count: 1
-word_count: 223
+word_count: 224
 source_file: "corpus/03-breakwave/insights/2020/2020-06-22_coronavirus-update-drybulk.html"
 ---
 

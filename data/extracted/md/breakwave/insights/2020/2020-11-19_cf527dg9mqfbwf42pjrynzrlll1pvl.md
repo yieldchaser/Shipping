@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2020/11/19/cf527dg9mqfbwf42pjrynzrlll1pvl"
 tags: ["Global Economy", "COVID-19", "Shipping"]
 images_count: 3
-word_count: 1001
+word_count: 1004
 source_file: "corpus/03-breakwave/insights/2020/2020-11-19_cf527dg9mqfbwf42pjrynzrlll1pvl.html"
 ---
 

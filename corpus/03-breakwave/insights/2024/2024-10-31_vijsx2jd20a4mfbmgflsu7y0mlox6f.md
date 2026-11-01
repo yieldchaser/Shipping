@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/10/31/vijsx2jd20a4mfbmgflsu7y0mlox6f"
 tags: ["Drybulk", "Shipping", "Capesize"]
 images_count: 5
-word_count: 1317
+word_count: 1322
 source_file: "corpus/03-breakwave/insights/2024/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-10-31_vijsx2jd20a4mfbmgflsu
 ---
 
 **Dry Weekly Market Monitor - Week 44.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 October 29, 2024
 
 ## Chart of the Week: Dry Bulk Grain Flows - U.s. vs Brazilian
@@ -39,7 +39,7 @@ This shift has seen the U.S. gradually lose its share in the global grain market
 
 The result is a distinct competitive edge for Brazil in the Panamax vessel market, where almost 90% of the Brazil-China trade in soybeans is conducted, signalling a strong demand for larger, bulk vessels that cater to Brazil’s sizable exports. In contrast, U.S. grain exports to China seemed to lean more on the Supramax vessel market, with 24% share compared to 10% share from Brazil to China.
 
-Meanwhile, looking at the evolution of freight market trends at the end of the month, there is still a significant weakening trend in the Capesize Brazil to North China route, while,[iron ore price](https://go.signalocean.com/e/983831/-despite-china-s-stimulus-push/2qnvy7/445143696/h/BN2l6-ynLMPGERnMpD7Yyp96UE_UpWiisnh92_lZ8_Y)trends remain highly volatile, influenced by both the complex economic environment and China’s periodic economic stimulus measures aimed at revitalising its industrial sector. Recent stimulus packages have injected fresh optimism into the market, with the potential to stabilise demand for iron ore, which would benefit the freight market. However, the pace and scale of recovery remain uncertain, creating a mixed outlook for Capesize freight rates.
+Meanwhile, looking at the evolution of freight market trends at the end of the month, there is still a significant weakening trend in the Capesize Brazil to North China route, while,[iron ore price](https://go.signalocean.com/e/983831/-despite-china-s-stimulus-push/2qnvy7/445143696/h/BN2l6-ynLMPGERnMpD7Yyp96UE_UpWiisnh92_lZ8_Y) trends remain highly volatile, influenced by both the complex economic environment and China’s periodic economic stimulus measures aimed at revitalising its industrial sector. Recent stimulus packages have injected fresh optimism into the market, with the potential to stabilise demand for iron ore, which would benefit the freight market. However, the pace and scale of recovery remain uncertain, creating a mixed outlook for Capesize freight rates.
 
 ![Στιγμιότυπο Οθόνης 2024 10 31 092503](assets/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc405ba1b372.png)
 
@@ -48,10 +48,10 @@ Meanwhile, looking at the evolution of freight market trends at the end of the m
 
 The dry bulk freight market is still experiencing a weakening momentum in the large vessel size categories, with Capesize rates from Brazil to North China showing the weakest trend since the peak in week 39.
 
-- **Capesize**vessel freight rates for shipments from Brazil to North China appear to have hit a bottom, stabilising at $21 per ton by the end of last week. This represents a significant 24% decline compared to rates from the previous month, reflecting ongoing challenges in the market and shifting demand dynamics.
-- **Panamax**vessel freight rates from the Continent to the Far East stood around $33 per ton, reflecting a monthly decline of 10%.
-- **Supramax**vessel freight rates on the Indo-ECI route dropped around $10 per ton, reflecting a monthly decrease of 10%.
-- **Handysize**freight rates for the NOPAC Far East route have recently fallen below $35 per ton, marking a shift after several consecutive weeks of relatively steady sentiment since the end of the first quarter. This decline signals a change in market dynamics, as factors influencing supply and demand continue to evolve.
+- **Capesize** vessel freight rates for shipments from Brazil to North China appear to have hit a bottom, stabilising at $21 per ton by the end of last week. This represents a significant 24% decline compared to rates from the previous month, reflecting ongoing challenges in the market and shifting demand dynamics.
+- **Panamax** vessel freight rates from the Continent to the Far East stood around $33 per ton, reflecting a monthly decline of 10%.
+- **Supramax** vessel freight rates on the Indo-ECI route dropped around $10 per ton, reflecting a monthly decrease of 10%.
+- **Handysize** freight rates for the NOPAC Far East route have recently fallen below $35 per ton, marking a shift after several consecutive weeks of relatively steady sentiment since the end of the first quarter. This decline signals a change in market dynamics, as factors influencing supply and demand continue to evolve.
 
 ![Στιγμιότυπο Οθόνης 2024 10 31 092547](assets/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a9d4934c1e4a.png)
 

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/3/10/substitutions-and-shortages"
 tags: ["Russia", "Ukraine", "Exports", "Shipping"]
 images_count: 3
-word_count: 1205
+word_count: 1208
 source_file: "corpus/03-breakwave/insights/2022/2022-03-10_substitutions-and-shortages.html"
 ---
 

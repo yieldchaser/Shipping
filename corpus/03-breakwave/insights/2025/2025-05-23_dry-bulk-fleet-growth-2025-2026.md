@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/5/23/dry-bulk-fleet-growth-2025-2026"
 tags: ["Drybulk", "Shipping", "Markets"]
 images_count: 5
-word_count: 1208
+word_count: 1213
 source_file: "corpus/03-breakwave/insights/2025/2025-05-23_dry-bulk-fleet-growth-2025-2026.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-05-23_dry-bulk-fleet-growth
 ---
 
 **Dry Weekly Market Monitor - Week 21, 2025**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 May 22, 2025
 
 ![Στιγμιότυπο Οθόνης 2025 05 23 110855](assets/2025-05-23_dry-bulk-fleet-growth-2025-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c161033b6b57.png)
@@ -48,10 +48,10 @@ While the fleet is still projected to grow by nearly 500 vessels by the end of 2
 
 Capesize freight market sentiment held a relatively flat momentum, while the Panamax market on the Continent–Far East route recorded a soft downward trend.
 
-- **Capesize**vessel freight rates from Brazil to North China held sentiment below $18 per tonne, showing a 1.6% decrease compared to last month.
-- **Panamax**from the Continent held recovered levels at nearly $31 per tonne, showing a 2% monthly decrease.
-- **Supramax**vessel freight rates for the Indonesia to East Coast remained stable at approximately $9 per tonne over the last four weeks.
-- **Handysize**freight rates for the NOPAC Far East route held similar sentiment to the previous two weeks at around $28 per tonne.
+- **Capesize** vessel freight rates from Brazil to North China held sentiment below $18 per tonne, showing a 1.6% decrease compared to last month.
+- **Panamax** from the Continent held recovered levels at nearly $31 per tonne, showing a 2% monthly decrease.
+- **Supramax** vessel freight rates for the Indonesia to East Coast remained stable at approximately $9 per tonne over the last four weeks.
+- **Handysize** freight rates for the NOPAC Far East route held similar sentiment to the previous two weeks at around $28 per tonne.
 
 ![Στιγμιότυπο Οθόνης 2025 05 23 111907](assets/2025-05-23_dry-bulk-fleet-growth-2025-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fd7d4d80b0bb.png)
 

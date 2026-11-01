@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/4/28/chinese-coal-demand-to-remain-strong"
 tags: ["China", "Coal"]
 images_count: 2
-word_count: 539
+word_count: 541
 source_file: "corpus/03-breakwave/insights/2021/2021-04-28_chinese-coal-demand-to-remain-strong.html"
 ---
 

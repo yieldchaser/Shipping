@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2022/1/10/935dp1ga04w23r3nszondofnfu4egu"
 tags: ["Economy", "COVID-19", "Globalmarket"]
 images_count: 5
-word_count: 1225
+word_count: 1230
 source_file: "corpus/03-breakwave/insights/2022/2022-01-10_935dp1ga04w23r3nszondofnfu4egu.html"
 ---
 

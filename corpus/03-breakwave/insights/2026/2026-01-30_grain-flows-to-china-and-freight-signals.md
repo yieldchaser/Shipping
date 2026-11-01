@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/1/30/grain-flows-to-china-and-freight-signals"
 tags: ["Capesize", "Drybulk", "Markets"]
 images_count: 12
-word_count: 1682
+word_count: 1694
 source_file: "corpus/03-breakwave/insights/2026/2026-01-30_grain-flows-to-china-and-freight-signals.html"
 ---
 
@@ -131,7 +131,7 @@ Handysize supply pressure remained elevated week-on-week, with increases seen in
 > **Figure 12: | Increasing**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/1340541-utm-source-chatgpt-com/2rt3g3/574016420/h/Zt4fpHYcEnnvWUMirYJugB8ngUHLVkGdvEYGutBCMYw) | [Local Asset](assets/2026-01-30_grain-flows-to-china-and-freight-signals_img_unnamed281929_a697fa97e6d8.png)
 
-In January 2026, Chittagong experienced a notable increase in vessels anchored offshore, indicative of ongoing port congestion. This backlog aligns with recent[news](https://go.signalocean.com/e/983831/1340541-utm-source-chatgpt-com/2rt3g3/574016420/h/Zt4fpHYcEnnvWUMirYJugB8ngUHLVkGdvEYGutBCMYw)detailing slow discharge operations and limited unloading capacity, which have caused prolonged vessel turnaround times. The strain on berth and yard efficiency is evident, with sources indicating that importers are being pressed to clear cargo within a five-day window.
+In January 2026, Chittagong experienced a notable increase in vessels anchored offshore, indicative of ongoing port congestion. This backlog aligns with recent [news](https://go.signalocean.com/e/983831/1340541-utm-source-chatgpt-com/2rt3g3/574016420/h/Zt4fpHYcEnnvWUMirYJugB8ngUHLVkGdvEYGutBCMYw) detailing slow discharge operations and limited unloading capacity, which have caused prolonged vessel turnaround times. The strain on berth and yard efficiency is evident, with sources indicating that importers are being pressed to clear cargo within a five-day window.
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)
 

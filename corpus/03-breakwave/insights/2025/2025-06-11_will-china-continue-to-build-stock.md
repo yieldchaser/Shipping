@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2025/6/11/will-china-continue-to-build-stock"
 tags: ["Crude", "Tankers", "Market"]
 images_count: 3
-word_count: 1047
+word_count: 1050
 source_file: "corpus/03-breakwave/insights/2025/2025-06-11_will-china-continue-to-build-stock.html"
 ---
 

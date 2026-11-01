@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/10/16/would-ofac-sanctions-relief-cool-freight-costs"
 tags: ["Tankers", "Shipping", "Markets"]
 images_count: 2
-word_count: 604
+word_count: 606
 source_file: "corpus/03-breakwave/insights/2026/2026-10-16_would-ofac-sanctions-relief-cool-freight-costs.html"
 ---
 
@@ -36,12 +36,12 @@ Almost 170 VLCCs are currently sanctioned by OFAC. Of these, 33 are over 25 year
 
 OFAC has also sanctioned 64 Suezmaxes; 174 Aframax/LR2s; 48 Panamax/LR1s; 94 MRs and 31 Handies. Lifting sanctions on these vessels will have little meaningful impact on vessel availability in the Middle East as most are actively engaged in Russian oil trades. Many are therefore also concurrently sanctioned by Europe, which puts them out of reach to G7 importers. This is particularly true of the Aframax/LR2 OFAC-sanctioned fleet.
 
-![663f Image 0 1792085396183](assets/2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_663f-image-0-1792085396183_32d43d1bbb0f.png)
+![663f Image 0 1792085396183](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_663f-image-0-1792085396183_32d43d1bbb0f.png)
 
 > **Figure 1: 663f Image 0 1792085396183**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_663f-image-0-1792085396183_32d43d1bbb0f.png)
 
-![C2d3 Image 1 1792085404797](assets/2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_c2d3-image-1-1792085404797_b79ed10c0dff.png)
+![C2d3 Image 1 1792085404797](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_c2d3-image-1-1792085404797_b79ed10c0dff.png)
 
 > **Figure 2: C2d3 Image 1 1792085404797**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_c2d3-image-1-1792085404797_b79ed10c0dff.png)

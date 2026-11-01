@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/7/24/humbled-by-hurricanes"
 tags: ["Crudeoil", "Tankers", "Shipping"]
 images_count: 2
-word_count: 662
+word_count: 664
 source_file: "corpus/03-breakwave/insights/2024/2024-07-24_humbled-by-hurricanes.html"
 ---
 

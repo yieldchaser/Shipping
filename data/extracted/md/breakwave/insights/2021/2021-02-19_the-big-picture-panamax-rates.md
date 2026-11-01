@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2021/2/18/the-big-picture-panamax-rates"
 tags: ["Panamax", "Capesize", "Coal", "Grains"]
 images_count: 4
-word_count: 1277
+word_count: 1281
 source_file: "corpus/03-breakwave/insights/2021/2021-02-19_the-big-picture-panamax-rates.html"
 ---
 
@@ -28,7 +28,7 @@ The Panamax market has made headlines this week after a spectacular rally. Not o
 
 Movements in the paper markets have been even more extreme. Since the start of the week, the March Panamax FFA contract gained more than $10,000 in value, hitting a high of more than $27,000 yesterday, before retreating back down to $17,500 at the time of writing. Despite the fall, these price expectations still represent a 163% improvement versus March 2020.
 
-![Bmr 80](assets/2021-02-19_the-big-picture-panamax-rates_img_bmr80_597306c8959e.png)
+![Bmr 80](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-19_the-big-picture-panamax-rates_img_bmr80_597306c8959e.png)
 
 > **Figure 1: Bmr 80**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-19_the-big-picture-panamax-rates_img_bmr80_597306c8959e.png)
@@ -37,14 +37,14 @@ Movements in the paper markets have been even more extreme. Since the start of t
 
 The driver of this rally, which has been gathering pace since November last year, appears to be a surge in grain volumes from the US. After two seasons of depressed shipments, owing to a tit-for-tat trade dispute between Washington D.C. and Beijing, Q4 2020 saw American agricultural sales surge, surpassing pre-trade-war levels. US grain shipments on Panamaxes over the last three months, which represent the seasonal peak in exports, totalled 31m tonnes. This is more than double versus the period a year earlier and 56% greater than volumes shipped over this portion of the 2017/18 season. Liftings from the US’ Atlantic coastlines have shone the brightest, soaring by 133% YoY over this November-January period.
 
-![Bmr 81](assets/2021-02-19_the-big-picture-panamax-rates_img_bmr81_1ae3c6b9c475.png)
+![Bmr 81](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-19_the-big-picture-panamax-rates_img_bmr81_1ae3c6b9c475.png)
 
 > **Figure 2: Bmr 81**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-19_the-big-picture-panamax-rates_img_bmr81_1ae3c6b9c475.png)
 
 With pork prices rapidly rising in China, its grain crushers have shown unrelenting demand for US soybeans and corn. Prices of these goods have been propelled to their highest levels since 2014, and still, the profitability of processing them has reached record levels. Soybean crush margins in Dalian, for example, have recently hit an all-time high of 1,250 RMB/t. American exporters have also been able to capitalise on weather-related weakness in Black Sea grain crops, in addition to the seasonal dip in available cargoes from South America.
 
-![2bmr 81](assets/2021-02-19_the-big-picture-panamax-rates_img_2bmr81_bc9377e871e0.png)
+![2bmr 81](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-19_the-big-picture-panamax-rates_img_2bmr81_bc9377e871e0.png)
 
 > **Figure 3: 2bmr 81**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-19_the-big-picture-panamax-rates_img_2bmr81_bc9377e871e0.png)
@@ -53,7 +53,7 @@ With pork prices rapidly rising in China, its grain crushers have shown unrelent
 
 Increased flows from the US to the Far East seem to have caught the Panamax market off guard, adding to an existing tonnage imbalance between the Atlantic and Pacific Basins. With demand becoming more concentrated on China, and grain supply outside of North America constrained, vessels are having to ballast longer distances to load ports. 60% of Panamaxes loading in the US Gulf since October came from the Far East. This is up from an average of 33% during the exporting seasons of the two years prior to the trade dispute.
 
-![32bmr 81](assets/2021-02-19_the-big-picture-panamax-rates_img_32bmr81_27f84c4d6605.png)
+![32bmr 81](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-19_the-big-picture-panamax-rates_img_32bmr81_27f84c4d6605.png)
 
 > **Figure 4: 32bmr 81**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-19_the-big-picture-panamax-rates_img_32bmr81_27f84c4d6605.png)

@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/9/5/capesize-ballasters-view-vs-baltic-rates"
 tags: ["Drybulk", "Capesize", "Shipping"]
 images_count: 5
-word_count: 1324
+word_count: 1329
 source_file: "corpus/03-breakwave/insights/2024/2024-09-05_capesize-ballasters-view-vs-baltic-rates.html"
 ---
 
@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-09-05_capesize-ballasters-v
 ---
 
 **Dry Weekly Market Monitor - Week 36.2024**
-Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
+ Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 September 04, 2024
 
 ![Στιγμιότυπο Οθόνης 2024 09 05 105402](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-05_capesize-ballasters-view-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3784d5db4a43.png)

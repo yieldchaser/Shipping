@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2026/9/16/chinas-crude-purchase-priority-in-a-highfreight-environment"
 tags: ["Tankers", "Markets", "Crude"]
 images_count: 3
-word_count: 1312
+word_count: 1315
 source_file: "corpus/03-breakwave/insights/2026/2026-09-16_chinas-crude-purchase-priority-in-a-highfreight-environment.html"
 ---
 
@@ -26,7 +26,7 @@ When freight rates surge more dramatically than oil, controlling freight costs b
 
 As China’s refinery strategy has shifted towards revenue recovery following Beijing’s removal of transportation fuel export restrictions in late June, refiners — particularly state-run oil majors that still have substantial unused fuel export quotas — are increasingly prioritising crude cost control rather than simply maximising crude imports.
 
-As highlighted in our[previous insight [last session]](https://analytics.vortexa.com/InsightsHubPage?articleId=3Zw2zubrznHMJI8KAwrkl2&articleType=article&authorFilters=%5B%22mMo3A9IJjPQ7ExzLLqLIu%22%5D&categoryFilters=%5B%22webinar%22%2C%22report%22%2C%22article%22%2C%22highlight%22%2C%22briefing%22%5D&page=InsightsHubPage&tabId=40173c18-c403-400d-85fa-180fff870c86), China’s crude demand recovery should be accompanied by a return to baseload Middle Eastern supplies, particularly Saudi and Iraqi medium-to-heavy grades, via relatively short-haul routes through Hormuz.
+As highlighted in our [previous insight [last session]](https://analytics.vortexa.com/InsightsHubPage?articleId=3Zw2zubrznHMJI8KAwrkl2&articleType=article&authorFilters=%5B%22mMo3A9IJjPQ7ExzLLqLIu%22%5D&categoryFilters=%5B%22webinar%22%2C%22report%22%2C%22article%22%2C%22highlight%22%2C%22briefing%22%5D&page=InsightsHubPage&tabId=40173c18-c403-400d-85fa-180fff870c86), China’s crude demand recovery should be accompanied by a return to baseload Middle Eastern supplies, particularly Saudi and Iraqi medium-to-heavy grades, via relatively short-haul routes through Hormuz.
 
 Indeed, China returned to Hormuz-linked barrels in August, but increasingly relied on FOB cargoes picked up from STS zones east of Hormuz, rather than sending its own tankers into the Gulf to load directly at production ports.
 

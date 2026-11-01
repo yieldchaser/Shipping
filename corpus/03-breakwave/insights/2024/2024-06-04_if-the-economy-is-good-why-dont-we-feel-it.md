@@ -8,7 +8,7 @@ source: "Breakwave Advisors"
 url: "https://www.breakwaveadvisors.com/insights/2024/6/4/if-the-economy-is-good-why-dont-we-feel-it"
 tags: ["Economy", "Markets", "Macro"]
 images_count: 5
-word_count: 1345
+word_count: 1350
 source_file: "corpus/03-breakwave/insights/2024/2024-06-04_if-the-economy-is-good-why-dont-we-feel-it.html"
 ---
 
@@ -27,9 +27,9 @@ source_file: "corpus/03-breakwave/insights/2024/2024-06-04_if-the-economy-is-goo
 3. ***As long as the Fed remains unclear about the potential for further tightening, markets will likely remain nervous.***
 4. *This market offers very few tactical opportunities, as a lack of clear direction is accompanied by low volatility.*
 
-By[George Lagarias](https://www.linkedin.com/in/george-lagarias-mba-3baa769/)
+By [George Lagarias](https://www.linkedin.com/in/george-lagarias-mba-3baa769/)
 
-First and foremost, let me share the wonderful news, that this newsletter now comes from a new entity, a global top-ten network, Forvis Mazars, which brings together Mazars and Forvis. You can find out all about it[here](https://www.forvismazars.com/group/en).
+First and foremost, let me share the wonderful news, that this newsletter now comes from a new entity, a global top-ten network, Forvis Mazars, which brings together Mazars and Forvis. You can find out all about it [here](https://www.forvismazars.com/group/en).
 
 Now to our weekly.
 
@@ -37,7 +37,7 @@ Alcibiades (450-404 BCE), a personal hero, was a student of Socrates. He was als
 
 The lesson here? The world is a complex place, which makes it difficult for people to understand their best interests.
 
-Case in point, a recent Bloomberg podcast (you can find it[here](https://www.bloomberg.com/news/articles/2024-05-28/fed-s-kashkari-says-rate-hike-not-entirely-ruled-out?sref=EiJDOcNb)) suggested that although the US economy is doing better, people don’t ‘feel it’. If anything, middle and lower-income consumers are extremely disappointed. Is it because they lack intellect? No. It is because prices haven’t come down to pre-covid levels.
+Case in point, a recent Bloomberg podcast (you can find it [here](https://www.bloomberg.com/news/articles/2024-05-28/fed-s-kashkari-says-rate-hike-not-entirely-ruled-out?sref=EiJDOcNb)) suggested that although the US economy is doing better, people don’t ‘feel it’. If anything, middle and lower-income consumers are extremely disappointed. Is it because they lack intellect? No. It is because prices haven’t come down to pre-covid levels.
 
 The US economy is doing better, to be sure, but on the margins.**There’s no solid economic narrative to support optimism.**Making things worse, an election year would tend to polarise people more and skew any objective basis of economic perceptions.
 
