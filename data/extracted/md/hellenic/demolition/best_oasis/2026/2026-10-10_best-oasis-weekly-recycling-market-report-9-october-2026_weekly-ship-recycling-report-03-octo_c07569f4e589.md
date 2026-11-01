@@ -6,7 +6,7 @@ issue_date: '2026-10-10'
 document_header_date: null
 issue_date_conflict: false
 year: 2026
-source_file: .claude/worktrees/maritime-audit-docs-review-a8b612/corpus/02-hellenic/demolition/pdfs/2026-10-10_best-oasis-weekly-recycling-market-report-9-october-2026_weekly-ship-recycling-report-03-octo_c07569f4e589.pdf
+source_file: corpus/02-hellenic/demolition/pdfs/2026-10-10_best-oasis-weekly-recycling-market-report-9-october-2026_weekly-ship-recycling-report-03-octo_c07569f4e589.pdf
 source_sha256: 642852ef1e1d7173921f618ffb900f3619ca719793df35ccbece754d481f4a17
 pages_total: 4
 pages_parsed: 1-4

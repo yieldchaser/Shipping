@@ -10,7 +10,7 @@ quote_of_the_week: He that can have patience, can have what he will. — Benjami
 document_header_date: '2026-10-09'
 issue_date_conflict: false
 year: 2026
-source_file: .claude/worktrees/maritime-audit-docs-review-a8b612/corpus/02-hellenic/demolition/pdfs/2026-10-10_gms-week-41-owners-hold-all-the-cards_ship-recycling-market-insight-week-4_4b3a42f129d0.pdf
+source_file: corpus/02-hellenic/demolition/pdfs/2026-10-10_gms-week-41-owners-hold-all-the-cards_ship-recycling-market-insight-week-4_4b3a42f129d0.pdf
 source_sha256: c298f3a284a90079693470649916993d5b2d81be6c5c7ff662787f5689ea7103
 pages_total: 8
 pages_parsed: 1-8
