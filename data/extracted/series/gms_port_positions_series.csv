@@ -57,38 +57,38 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2021-12-03,50,"December 03, 2021",Gadani,7,Red Sea Pearl,"1,894",Tanker,Beached November 30,2021-12-07_December-3rd-2021.pdf
 2021-12-03,50,"December 03, 2021",Gadani,8,Sir Gee,770,Tug,Arrived November 30,2021-12-07_December-3rd-2021.pdf
 2021-12-03,50,"December 03, 2021",Gadani,9,Vagabon,"3,024",Tanker,Arrived December 01,2021-12-07_December-3rd-2021.pdf
-2021-12-10,49,"December 11, 2021",Alang,1,Banyan Pride,"9,495",Oil Tanker,Beached December 09,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 11, 2021",Alang,2,Coral,"2,763",Chemical Tanker,Arrived December 03,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 11, 2021",Alang,3,Harriet,"2,292",Tanker,Arrived December 09,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 11, 2021",Alang,4,Hero (Under Tow),"9,082",Jack-up,Beached December 11,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 11, 2021",Alang,5,Maple,"5,409",Tanker,Arrived December 10,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 11, 2021",Alang,6,Melati Dua,"10,169",Tanker,Arrived December 09,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 11, 2021",Alang,7,Raj,"13,828",Tanker,Arrived December 11,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 11, 2021",Alang,8,Sea Golden,"2,830",Chemical Tanker,Arrived December 03,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 11, 2021",Alang,9,Swiftchem,"4,489",Tanker,Beached December 11,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 11, 2021",Alang,10,Video,554,Fishing Vessel,Beached December 08,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 10, 2021",Chattogram,1,Altair,"6,395",RoRo,Beached December 04,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 10, 2021",Chattogram,2,BNS Shah Amanat,345,Landing Craft,Arrived October 29,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 10, 2021",Chattogram,3,Bull Sumbawa,"7,842",Tanker,Beached December 05,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 10, 2021",Chattogram,4,Chang Li,"2,771",Tanker,Beached December 08,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 10, 2021",Chattogram,5,EM Longevity,"46,657",VLCC,Arrived December 09,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 10, 2021",Chattogram,6,Ever Luck,"3,683",Tanker,Beached December 09,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 10, 2021",Chattogram,7,Global,"42,152",Tanker,Beached December 03,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 10, 2021",Chattogram,8,Jubilant,"42,760",FSO,Beached December 06,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 10, 2021",Chattogram,9,Laris,"11,443",Tanker,Beached December 03,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 10, 2021",Chattogram,10,LCT-101,83,Landing Craft,Arrived October 29,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 10, 2021",Chattogram,11,Marine One,"1,457",Reefer,Beached December 07,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 10, 2021",Chattogram,12,Mega Reefer,"1,445",Reefer,Beached December 07,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 10, 2021",Chattogram,13,Ocean 68,"2,369",General Cargo,Arrived November 23,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 10, 2021",Chattogram,14,Oriental Chilan,"1,548",Reefer,Beached December 04,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 10, 2021",Chattogram,15,Sea Fortune (Under Tow),"1,339",Tanker,Arrived December 07,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 10, 2021",Chattogram,16,Win Lotus,"2,871",Tanker,Arrived December 06,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 10, 2021",Chattogram,17,Yuan Sheng,"1,880",Tanker,Beached December 08,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 10, 2021",Gadani,1,Atlantic Enterprise,"4,083",Accommodation Ship,Arrived December 07,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 10, 2021",Gadani,2,Lord Gee,"1,033",Tug,Beached December 08,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 10, 2021",Gadani,3,Ocean Sharm,"1,357",Tug,Beached December 09,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 10, 2021",Gadani,4,Sir Gee,770,Tug,Beached December 08,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,"December 10, 2021",Gadani,5,Vagabon,"3,024",Tanker,Beached December 08,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 11, 2021",Alang,1,Banyan Pride,"9,495",Oil Tanker,Beached December 09,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 11, 2021",Alang,2,Coral,"2,763",Chemical Tanker,Arrived December 03,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 11, 2021",Alang,3,Harriet,"2,292",Tanker,Arrived December 09,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 11, 2021",Alang,4,Hero (Under Tow),"9,082",Jack-up,Beached December 11,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 11, 2021",Alang,5,Maple,"5,409",Tanker,Arrived December 10,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 11, 2021",Alang,6,Melati Dua,"10,169",Tanker,Arrived December 09,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 11, 2021",Alang,7,Raj,"13,828",Tanker,Arrived December 11,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 11, 2021",Alang,8,Sea Golden,"2,830",Chemical Tanker,Arrived December 03,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 11, 2021",Alang,9,Swiftchem,"4,489",Tanker,Beached December 11,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 11, 2021",Alang,10,Video,554,Fishing Vessel,Beached December 08,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 10, 2021",Chattogram,1,Altair,"6,395",RoRo,Beached December 04,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 10, 2021",Chattogram,2,BNS Shah Amanat,345,Landing Craft,Arrived October 29,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 10, 2021",Chattogram,3,Bull Sumbawa,"7,842",Tanker,Beached December 05,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 10, 2021",Chattogram,4,Chang Li,"2,771",Tanker,Beached December 08,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 10, 2021",Chattogram,5,EM Longevity,"46,657",VLCC,Arrived December 09,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 10, 2021",Chattogram,6,Ever Luck,"3,683",Tanker,Beached December 09,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 10, 2021",Chattogram,7,Global,"42,152",Tanker,Beached December 03,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 10, 2021",Chattogram,8,Jubilant,"42,760",FSO,Beached December 06,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 10, 2021",Chattogram,9,Laris,"11,443",Tanker,Beached December 03,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 10, 2021",Chattogram,10,LCT-101,83,Landing Craft,Arrived October 29,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 10, 2021",Chattogram,11,Marine One,"1,457",Reefer,Beached December 07,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 10, 2021",Chattogram,12,Mega Reefer,"1,445",Reefer,Beached December 07,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 10, 2021",Chattogram,13,Ocean 68,"2,369",General Cargo,Arrived November 23,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 10, 2021",Chattogram,14,Oriental Chilan,"1,548",Reefer,Beached December 04,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 10, 2021",Chattogram,15,Sea Fortune (Under Tow),"1,339",Tanker,Arrived December 07,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 10, 2021",Chattogram,16,Win Lotus,"2,871",Tanker,Arrived December 06,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 10, 2021",Chattogram,17,Yuan Sheng,"1,880",Tanker,Beached December 08,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 10, 2021",Gadani,1,Atlantic Enterprise,"4,083",Accommodation Ship,Arrived December 07,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 10, 2021",Gadani,2,Lord Gee,"1,033",Tug,Beached December 08,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 10, 2021",Gadani,3,Ocean Sharm,"1,357",Tug,Beached December 09,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 10, 2021",Gadani,4,Sir Gee,770,Tug,Beached December 08,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,"December 10, 2021",Gadani,5,Vagabon,"3,024",Tanker,Beached December 08,2021-12-15_December-10th-2021.pdf
 2021-12-31,52,"December 31, 2021",Alang,1,Bratya Stoyanovy,"3,484",Fishing,Arrived December 24,2022-01-03_2022-01-03PaE_org.pdf
 2021-12-31,52,"December 31, 2021",Alang,2,Coral,"2,763",Chemical Tanker,Arrived December 03,2022-01-03_2022-01-03PaE_org.pdf
 2021-12-31,52,"December 31, 2021",Alang,3,Dodo,"3,484",Vehicle Carrier,Arrived December 16,2022-01-03_2022-01-03PaE_org.pdf

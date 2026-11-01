@@ -91,10 +91,10 @@ issue_date,report_week,volume,issue,rank,location,sentiment,dry_bulk_usd_ldt,tan
 2021-12-03,50,232,1008,2,Pakistan,Declining,590 / LDT,600 / LDT,610 / LDT,2021-12-07_December-3rd-2021.pdf
 2021-12-03,50,232,1008,3,India,Declining,560 / LDT,570 / LDT,580 / LDT,2021-12-07_December-3rd-2021.pdf
 2021-12-03,50,232,1008,4,Turkey,Steady,330 / LDT,340 / LDT,350 / LDT,2021-12-07_December-3rd-2021.pdf
-2021-12-10,49,232,1009,1,Bangladesh,Declining,590 / LDT,600 / LDT,610 / LDT,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,232,1009,2,Pakistan,Declining,580 / LDT,590 / LDT,600 / LDT,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,232,1009,3,India,Declining,550 / LDT,560 / LDT,570 / LDT,2021-12-15_December-10th-2021.pdf
-2021-12-10,49,232,1009,4,Turkey,Weakening,330 / LDT,340 / LDT,350 / LDT,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,232,1009,1,Bangladesh,Declining,590 / LDT,600 / LDT,610 / LDT,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,232,1009,2,Pakistan,Declining,580 / LDT,590 / LDT,600 / LDT,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,232,1009,3,India,Declining,550 / LDT,560 / LDT,570 / LDT,2021-12-15_December-10th-2021.pdf
+2021-12-10,51,232,1009,4,Turkey,Weakening,330 / LDT,340 / LDT,350 / LDT,2021-12-15_December-10th-2021.pdf
 2021-12-20,52,,,1,Bangladesh,Declining,590 / LDT,600 / LDT,610 / LDT,2021-12-20_gms-week-52-drama-queens.html
 2021-12-20,52,,,2,Pakistan,Declining,580 / LDT,590 / LDT,600 / LDT,2021-12-20_gms-week-52-drama-queens.html
 2021-12-20,52,,,3,India,Declining,550 / LDT,560 / LDT,570 / LDT,2021-12-20_gms-week-52-drama-queens.html

@@ -3,7 +3,7 @@ title: GMS Week 49 – TENTATIVELY POISED!
 publisher: GMS Inc.
 source: gms
 issue_date: '2021-12-10'
-report_week: 49
+report_week: 51
 volume: 232
 issue: 1009
 quote_of_the_week: If you are working on something that you really care about, you don’t have to be pushed. The vision pulls you. — Steve Jobs
