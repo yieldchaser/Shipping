@@ -95,7 +95,8 @@ def upsert_rows_to_csv(
     # Filter incoming
     to_add: List[Dict[str, Any]] = []
     for nr in new_rows:
-        k = tuple(str(nr.get(kf, "")).strip().lower() for kf in key_fields)
+        # None is written as an empty cell, so it must key like one (str(None) = "none" never matched)
+        k = tuple(("" if nr.get(kf) is None else str(nr.get(kf))).strip().lower() for kf in key_fields)
         if k not in existing_keys:
             existing_keys.add(k)
             to_add.append(nr)
@@ -333,6 +334,11 @@ def extract_advanced_shipping(pdf_path: Path, dry_run: bool = False) -> Dict[str
     """Specialized extraction for Advanced Shipping & Trading."""
     import run_advanced_shipping_tables as adv
     res = adv.process_document(pdf_path)
+    # the batch writer (adv.write_series_csvs) sets "issue" = issue date; the upserts below key on it, so a row
+    # without it would be appended again on every re-run
+    for key in ("sales_rows", "demo_prices_rows"):
+        for r in res.get(key, []):
+            r["issue"] = r.get("issue") or r.get("issue_date", "")
     if not dry_run:
         upsert_rows_to_csv(
             SERIES_DIR / "advanced_shipping_sales_series.csv",
