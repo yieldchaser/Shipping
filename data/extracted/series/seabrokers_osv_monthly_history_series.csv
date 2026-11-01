@@ -3899,6 +3899,8 @@ report_date,year,month,period,vessel_class,metric,value,unit,source,source_page
 2022-12-01,2022,12,2022-10,PSVs > 900m2,monthly_avg_spot_dayrate,10248.0,GBP/day,seabrokers,3.0
 2022-12-01,2022,12,2022-11,PSVs > 900m2,monthly_avg_spot_dayrate,8756.0,GBP/day,seabrokers,3.0
 2022-12-01,2022,12,2022-12,PSVs > 900m2,monthly_avg_spot_dayrate,6793.0,GBP/day,seabrokers,3.0
+2022-12-01,2022,12,2021-01,"AHTS > 22,000 bhp",monthly_avg_spot_dayrate,8442.0,GBP/day,seabrokers,3.0
+2022-12-01,2022,12,2022-01,"AHTS > 22,000 bhp",monthly_avg_spot_dayrate,13428.0,GBP/day,seabrokers,3.0
 2023-01-01,2023,1,2022-01,"AHTS < 22,000 bhp",monthly_avg_spot_dayrate,10544.0,GBP/day,seabrokers,6.0
 2023-01-01,2023,1,2022-02,"AHTS < 22,000 bhp",monthly_avg_spot_dayrate,22765.0,GBP/day,seabrokers,6.0
 2023-01-01,2023,1,2022-03,"AHTS < 22,000 bhp",monthly_avg_spot_dayrate,38879.0,GBP/day,seabrokers,6.0
@@ -6415,6 +6417,8 @@ report_date,year,month,period,vessel_class,metric,value,unit,source,source_page
 2026-02-01,2026,2,2025-12,PSVs > 900m2,monthly_avg_spot_dayrate,7775.0,GBP/day,seabrokers,6.0
 2026-02-01,2026,2,2026-01,PSVs > 900m2,monthly_avg_spot_dayrate,5691.0,GBP/day,seabrokers,6.0
 2026-02-01,2026,2,2026-02,PSVs > 900m2,monthly_avg_spot_dayrate,12221.0,GBP/day,seabrokers,6.0
+2026-02-01,2026,2,2025-01,"AHTS < 22,000 bhp",monthly_avg_spot_dayrate,28169.0,GBP/day,seabrokers,6.0
+2026-02-01,2026,2,2026-01,"AHTS < 22,000 bhp",monthly_avg_spot_dayrate,75902.0,GBP/day,seabrokers,6.0
 2026-03-01,2026,3,2025-01,PSVs < 900m2,monthly_avg_spot_dayrate,5770.0,GBP/day,seabrokers,6.0
 2026-03-01,2026,3,2026-01,PSVs < 900m2,monthly_avg_spot_dayrate,4243.0,GBP/day,seabrokers,6.0
 2026-03-01,2026,3,2025-02,PSVs < 900m2,monthly_avg_spot_dayrate,6431.0,GBP/day,seabrokers,6.0
@@ -6574,6 +6578,8 @@ report_date,year,month,period,vessel_class,metric,value,unit,source,source_page
 2026-05-01,2026,5,2026-03,PSVs > 900m2,monthly_avg_spot_dayrate,13625.0,GBP/day,seabrokers,6.0
 2026-05-01,2026,5,2026-04,PSVs > 900m2,monthly_avg_spot_dayrate,25392.0,GBP/day,seabrokers,6.0
 2026-05-01,2026,5,2026-05,PSVs > 900m2,monthly_avg_spot_dayrate,20040.0,GBP/day,seabrokers,6.0
+2026-05-01,2026,5,2025-01,"AHTS < 22,000 bhp",monthly_avg_spot_dayrate,28169.0,GBP/day,seabrokers,6.0
+2026-05-01,2026,5,2026-01,"AHTS < 22,000 bhp",monthly_avg_spot_dayrate,75902.0,GBP/day,seabrokers,6.0
 2026-06-01,2026,6,2025-01,"AHTS < 22,000 bhp",monthly_avg_spot_dayrate,28169.0,GBP/day,seabrokers,6.0
 2026-06-01,2026,6,2025-02,"AHTS < 22,000 bhp",monthly_avg_spot_dayrate,17999.0,GBP/day,seabrokers,6.0
 2026-06-01,2026,6,2025-03,"AHTS < 22,000 bhp",monthly_avg_spot_dayrate,33856.0,GBP/day,seabrokers,6.0
