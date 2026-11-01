@@ -8,15 +8,17 @@ Implements the 4-channel zero-touch architecture defined in AGENT_HANDOFF.md §2
   - Channel C: SMM (Shanghai Metals Market) reports via Google News RSS for partner tonnes.
                Handles month names without year (infers from article pubDate).
                Strictly rejects cumulative / YTD sentences.
-  - Channel D: Calibrated value-share fallback for Guinea bauxite tonnes:
-               guinea_t = china_total_t * (guinea_usd / china_total_usd) * 0.982
-               labeled method = derived_value_share. (Never applied to alumina).
+  - Channel D: value-share estimate of Guinea tonnes (total tonnes x Guinea USD share). It is a SANITY
+               BASELINE only and is never written: an estimate is not a published figure.
+
+chinadata.live retired its API in 2026-10 (404). Channel A failing no longer aborts the run: the SMM
+channel still runs for the last three months.
 
 Sanity Check & Precedence:
   1. GACC official export / UN Comtrade (provenance = GACC)
-  2. SMM quote (provenance = SMM/GACC), sanity-checked against Channel D:
-     if SMM diverges by >10% from derived Channel D, log warning and prefer derived.
-  3. Derived value share (provenance = derived_value_share, bauxite only).
+  2. SMM quote (provenance = SMM/GACC), rejected when it diverges >25% from the baseline (Channel D or the
+     trailing 3-month mirror average).
+  3. Nothing else is written; a month with no published figure stays missing.
   4. Alumina: null tonnes if SMM has no quantity; never derived from USD.
 """
 
@@ -310,18 +312,19 @@ def parse_smm_bauxite_article(title: str, body: str, pub_date: str = "") -> dict
         return None
 
     full_text = f"{title}\n{body}"
-    sentences = [s.strip() for s in re.split(r"[.\n]+", full_text) if s.strip()]
+    sentences = [s.strip() for s in re.split(r"(?<!\d)\.|\.(?!\d)|\n+", full_text) if s.strip()]
 
     # Patterns for monthly Guinea bauxite
     patterns = [
         r"(?:imported|imports\s+from\s+Guinea\s+(?:reached|were|totaled)?)\s+([\d,]+(?:\.\d+)?)\s*(?:million|mil)?\s*(?:mt|tonnes|t)\s+(?:of\s+bauxite\s+)?from\s+Guinea",
-        r"Guinea\s*[^.]*?([\d,]+(?:\.\d+)?)\s*(?:million|mil)\s*(?:mt|tonnes|t)",
+        # (a loose "Guinea ... N million mt" pattern was removed: it read "nearly 10 million mt" from a sentence
+        #  about supply sentiment as the September 2026 import figure)
         r"([\d,]+(?:\.\d+)?)\s*(?:million|mil)\s*(?:mt|tonnes|t)\s+(?:of\s+bauxite\s+)?from\s+Guinea",
     ]
 
     for s in sentences:
         # Strictly reject cumulative, YTD, quarterly, H1, net imports, forecasts
-        if re.search(r"january[-–\s]+[a-z]+|first\s+\d+\s+months|cumulative|ytd|in the first \w+ months|h1|h2|quarter|q[1-4]|net\s+imports|forecast|estimate|projected", s, re.IGNORECASE):
+        if re.search(r"january[-–\s]+[a-z]+|first\s+\d+\s+months|cumulative|ytd|in the first \w+ months|h1|h2|quarter|q[1-4]|net\s+imports|forecast|estimate|projected|nearly|about|around|approximately|roughly|more than|less than|close to", s, re.IGNORECASE):
             continue
 
         for pat in patterns:
@@ -360,7 +363,7 @@ def parse_smm_alumina_article(title: str, body: str, pub_date: str = "") -> dict
         return None
 
     full_text = f"{title}\n{body}"
-    sentences = [s.strip() for s in re.split(r"[.\n]+", full_text) if s.strip()]
+    sentences = [s.strip() for s in re.split(r"(?<!\d)\.|\.(?!\d)|\n+", full_text) if s.strip()]
 
     # Gross imports only — reject net imports
     patterns = [
@@ -557,12 +560,14 @@ def run_pipeline(target_period: str | None = None):
     """
     logger.info("=== Starting GACC Bauxite & Alumina Ingestion Pipeline (§2.6) ===")
 
-    # Channel A: Fetch chinadata.live 8-digit USD
-    bauxite_data = fetch_chinadata_hs("26060000", flow="import", period="all")
-    alumina_data = fetch_chinadata_hs("28182000", flow="import", period="all")
-
-    # Sync partner USD table
-    partner_history = sync_partner_usd_history(bauxite_data)
+    # Channel A: Fetch chinadata.live 8-digit USD (API retired 2026-10; a failure must not stop channel C)
+    try:
+        bauxite_data = fetch_chinadata_hs("26060000", flow="import", period="all")
+        alumina_data = fetch_chinadata_hs("28182000", flow="import", period="all")
+        partner_history = sync_partner_usd_history(bauxite_data)
+    except Exception as e:  # noqa: BLE001
+        logger.error(f"[Channel A] chinadata.live unavailable ({e}); continuing with the SMM channel only")
+        bauxite_data, alumina_data, partner_history = {}, {}, {}
 
     all_bauxite_months = [m["month"] for m in bauxite_data.get("monthly", []) if "month" in m]
     all_alumina_months = [m["month"] for m in alumina_data.get("monthly", []) if "month" in m]
@@ -571,9 +576,11 @@ def run_pipeline(target_period: str | None = None):
         eval_bauxite_months = [target_period]
         eval_alumina_months = [target_period]
     else:
-        # Re-evaluate last 3 months
-        eval_bauxite_months = all_bauxite_months[-3:] if len(all_bauxite_months) >= 3 else all_bauxite_months
-        eval_alumina_months = all_alumina_months[-3:] if len(all_alumina_months) >= 3 else all_alumina_months
+        # Re-evaluate last 3 months (calendar months before this one when chinadata gave no month list)
+        now = datetime.now()
+        recent = [f"{(now.year * 12 + now.month - 1 - k) // 12}-{(now.month - 1 - k) % 12 + 1:02d}" for k in (3, 2, 1)]
+        eval_bauxite_months = all_bauxite_months[-3:] if all_bauxite_months else recent
+        eval_alumina_months = all_alumina_months[-3:] if all_alumina_months else []
 
     logger.info(f"Evaluating bauxite months: {eval_bauxite_months}")
     logger.info(f"Evaluating alumina months: {eval_alumina_months}")
@@ -621,8 +628,8 @@ def run_pipeline(target_period: str | None = None):
         derived_tonnes = None
         china_tot_tonnes = fetch_gacc_table14_playwright(dt.year, dt.month)
         if china_tot_tonnes and guinea_usd and china_tot_usd:
-            derived_tonnes = china_tot_tonnes * (float(guinea_usd) / float(china_tot_usd)) * 0.982
-            logger.info(f"[Channel D] Calibrated derived Guinea bauxite tonnes for {m_str}: {derived_tonnes:,.0f} t (factor 0.982)")
+            derived_tonnes = china_tot_tonnes * (float(guinea_usd) / float(china_tot_usd))
+            logger.info(f"[Channel D] Sanity baseline (not written) for Guinea bauxite {m_str}: {derived_tonnes:,.0f} t")
 
         # 3. Trailing 3m average from mirror series
         trailing_3m = None
@@ -646,34 +653,6 @@ def run_pipeline(target_period: str | None = None):
                     f"from baseline ({baseline:,.0f}). Rejecting SMM candidate."
                 )
                 smm_bauxite = None
-                if derived_tonnes:
-                    cif = float(guinea_usd) / derived_tonnes if guinea_usd else None
-                    update_guinea_bauxite_mirror(
-                        period=m_str,
-                        tonnes=derived_tonnes,
-                        method="derived_value_share",
-                        publisher="chinadata.live + GACC Table 14 (derived)",
-                        source_url="http://www.customs.gov.cn",
-                        quote=f"Derived after SMM divergence: {china_tot_tonnes:,.0f} total tonnes * ({guinea_usd}/{china_tot_usd}) * 0.982",
-                        avg_cif=cif
-                    )
-                    continue
-            elif diff_pct > 0.10 and derived_tonnes:
-                logger.info(
-                    f"[Sanity Check] SMM tonnes ({smm_bauxite['tonnes']:,.0f}) diverges by {diff_pct:.1%} (>10%) "
-                    f"from derived Channel D ({derived_tonnes:,.0f}). Preferring derived Channel D."
-                )
-                cif = float(guinea_usd) / derived_tonnes if guinea_usd else None
-                update_guinea_bauxite_mirror(
-                    period=m_str,
-                    tonnes=derived_tonnes,
-                    method="derived_value_share",
-                    publisher="chinadata.live + GACC Table 14 (derived)",
-                    source_url="http://www.customs.gov.cn",
-                    quote=f"Derived after SMM divergence: {china_tot_tonnes:,.0f} total tonnes * ({guinea_usd}/{china_tot_usd}) * 0.982",
-                    avg_cif=cif
-                )
-                continue
             else:
                 logger.info(f"[Sanity Check] SMM tonnes and baseline agree within {diff_pct:.1%}.")
 
@@ -687,19 +666,6 @@ def run_pipeline(target_period: str | None = None):
                 publisher="Shanghai Metals Market (SMM) / GACC",
                 source_url=smm_bauxite.get("link", "https://news.metal.com"),
                 quote=f"SMM quote: {smm_bauxite['quote']}",
-                avg_cif=cif
-            )
-            continue
-
-        if derived_tonnes:
-            cif = float(guinea_usd) / derived_tonnes if guinea_usd else None
-            update_guinea_bauxite_mirror(
-                period=m_str,
-                tonnes=derived_tonnes,
-                method="derived_value_share",
-                publisher="chinadata.live + GACC Table 14 (derived)",
-                source_url="http://www.customs.gov.cn",
-                quote=f"Derived: {china_tot_tonnes:,.0f} total tonnes * ({guinea_usd}/{china_tot_usd}) * 0.982",
                 avg_cif=cif
             )
             continue

@@ -105,11 +105,13 @@ jobs:
         timeout-minutes: 15
         run: python scripts/scrapers/fetch_world_steel_production.py
 
-      - name: Scrape China Customs Demand
+      # chinadata.live (fetch_china_customs_demand.py) retired its API in 2026-10; the GACC monthly bulletin
+      # continues the same-scope HS lines and carries the bulletin tonnage and value series
+      - name: Scrape China Customs Monthly Bulletin (GACC)
         id: step_china_demand
         continue-on-error: true
         timeout-minutes: 15
-        run: python scripts/scrapers/fetch_china_customs_demand.py
+        run: python scripts/scrapers/fetch_gacc_monthly_bulletin.py
 
       - name: Scrape Argentina Grain
         id: step_argentina_grain
@@ -190,7 +192,7 @@ jobs:
             'TurkStat Bulk': '${{ steps.step_turkstat.outcome }}',
             'Minor Bulks': '${{ steps.step_minor_bulks.outcome }}',
             'World Steel': '${{ steps.step_world_steel.outcome }}',
-            'China Customs Demand': '${{ steps.step_china_demand.outcome }}',
+            'China Customs Bulletin': '${{ steps.step_china_demand.outcome }}',
             'Argentina Grain': '${{ steps.step_argentina_grain.outcome }}',
             'PSA Nickel': '${{ steps.step_psa_nickel.outcome }}',
             'India TradeStat': '${{ steps.step_india_tradestat.outcome }}',

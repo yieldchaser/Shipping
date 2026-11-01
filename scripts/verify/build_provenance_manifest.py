@@ -206,6 +206,7 @@ def find_producing_script(rel_path):
         "data/geospatial/voyage_history_packed.json": ("scripts/geospatial/build_voyage_history.py", "Fearnleys fixtures x PortWatch ports", "Internal Pipeline", "Dashboard view of the resolved legs", "Voyages"),
         "data/derived/predictive_freight_signals.json": ("scripts/congestion/build_predictive_signals.py", "Port stress matrix x Baltic indices", "Internal Pipeline", "Derived", "Alerts"),
         # Commodities & Demands
+        "data/commodities/china_customs_major_trade_gacc.csv": ("scripts/scrapers/fetch_gacc_monthly_bulletin.py", "GACC Monthly Bulletin (tables 5/6)", "http://english.customs.gov.cn/Statistics/Statistics?ColumnId=1", "Web Scraping", "Tonnes / USD"),
         "data/commodities/brazil_comexstat_exports.csv": ("scripts/scrapers/fetch_comexstat_brazil.py", "MDIC ComexStat API", "https://balanca.mdic.gov.br", "REST API", "Metric Tonnes / USD FOB"),
         "data/commodities/australia_ppa_iron_ore.csv": ("scripts/scrapers/fetch_australia_ppa.py", "Pilbara Ports Authority Wayback PDF", "https://www.pilbaraports.com.au", "Wayback PDF Parse", "Throughput MT"),
         "data/commodities/major_miners_quarterly_shipments.csv": ("scripts/scrapers/fetch_major_miners_production.py", "Corporate Production Reports", "https://www.sec.gov", "Filing Extraction", "Production MT"),

@@ -474,6 +474,33 @@ def validate_china_customs_demand():
     logger.info("  [OK] china_customs_demand: %d rows validated", len(df))
 
 
+def validate_china_customs_bulletin():
+    fname = "china_customs_major_trade_gacc.csv"
+    fpath = COMMODITIES_DIR / fname
+    if not fpath.exists():
+        record_error(fname, "FILE_EXISTS", "File not found")
+        return
+    df = pd.read_csv(fpath)
+    future = df[pd.to_datetime(df["date"], errors="coerce") > pd.Timestamp(TODAY)]
+    if not future.empty:
+        record_error(fname, "NO_FUTURE_DATES", f"Found future dates: {list(future['date'].unique())}")
+    dups = df[df.duplicated(subset=["date", "flow", "commodity"], keep=False)]
+    if not dups.empty:
+        record_error(fname, "NO_DUPLICATES", f"Found {len(dups)} duplicate (date, flow, commodity) rows")
+    bad = df[pd.to_numeric(df["value_usd"], errors="coerce").fillna(0) <= 0]
+    if not bad.empty:
+        record_error(fname, "ZERO_VALUE_USD", f"{len(bad)} rows with zero/null value_usd")
+    # the month figure can never exceed the year-to-date figure printed next to it
+    q, yq = pd.to_numeric(df["quantity_tonnes"], errors="coerce"), pd.to_numeric(df["ytd_quantity_tonnes"], errors="coerce")
+    over = df[(q > yq * 1.0005) & q.notna() & yq.notna()]
+    if not over.empty:
+        record_error(fname, "MONTH_LE_YTD", f"{len(over)} rows where the month quantity exceeds year-to-date")
+    lost = df[df["qty_unit_printed"].astype(str).str.contains("Ton", case=False) & q.isna() & df["value_usd"].notna()]
+    if not lost.empty:
+        record_error(fname, "TONNES_PARSED", f"{len(lost)} tonnage rows without a quantity (unit not understood?)")
+    logger.info("  [OK] china_customs_bulletin: %d rows validated", len(df))
+
+
 # =====================================================================
 # 11. TurkStat Bulk (Cement / Scrap) in minor_bulks_monthly.csv
 # =====================================================================
@@ -584,6 +611,7 @@ def validate_cargo_datasets():
     validate_usda_inspections()
     validate_usda_fas_and_queues()
     validate_china_customs_demand()
+    validate_china_customs_bulletin()
     validate_turkstat_bulk()
     validate_guinea_partner_usd()
     validate_time_series_outliers()

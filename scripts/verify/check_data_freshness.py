@@ -138,6 +138,21 @@ def evaluate_freshness(today: date | None = None) -> list[dict]:
         "detail": f"Latest week: {latest_val} ({days_lag} days ago)"
     })
 
+    # 3b. Capital Link maritime equity indices (daily close; within 5 days of today)
+    # ------------------------------------------------------------------------------
+    latest_val = get_latest_csv_date(COMMODITIES_DIR.parent / "indices" / "capital_link_container_clci.csv")[:10]
+    days_lag = (today - datetime.strptime(latest_val, "%Y-%m-%d").date()).days if latest_val else None
+    results.append({
+        "name": "Capital Link Indices (CLCI etc.)",
+        "file": "capital_link_container_clci.csv",
+        "category": "Daily",
+        "rule": "Within 5 days of today",
+        "latest_stored": latest_val,
+        "expected": f"<= 5 days lag (current lag: {days_lag}d)",
+        "is_fresh": days_lag is not None and days_lag <= 5,
+        "detail": f"Latest close: {latest_val} ({days_lag} days ago)"
+    })
+
     # 4. Newcastle Coal (TfNSW CKAN) (M-1 expected after ~20th of M+1)
     # ----------------------------------------------------------------
     exp_month = get_prev_month(today, 1) if today.day >= 21 else get_prev_month(today, 2)
@@ -391,6 +406,21 @@ def evaluate_freshness(today: date | None = None) -> list[dict]:
         "latest_stored": latest_val,
         "expected": exp_month,
         "is_fresh": is_fresh,
+        "detail": f"Latest: {latest_val} | Expected: {exp_month}"
+    })
+
+    # 14b. China Customs Monthly Bulletin (GACC tables 5/6, ~20th of M+1)
+    # --------------------------------------------------------------------
+    exp_month = get_prev_month(today, 1) if today.day >= 26 else get_prev_month(today, 2)
+    latest_val = get_latest_csv_date(COMMODITIES_DIR / "china_customs_major_trade_gacc.csv")[:7]
+    results.append({
+        "name": "China Customs Monthly Bulletin (GACC)",
+        "file": "china_customs_major_trade_gacc.csv",
+        "category": "Monthly",
+        "rule": "M-1 after ~25th of month",
+        "latest_stored": latest_val,
+        "expected": exp_month,
+        "is_fresh": latest_val >= exp_month if latest_val else False,
         "detail": f"Latest: {latest_val} | Expected: {exp_month}"
     })
 

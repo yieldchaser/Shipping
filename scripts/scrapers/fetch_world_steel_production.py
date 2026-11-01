@@ -75,6 +75,8 @@ def fetch_release(date_str, year, m_code, url):
     """Fetch and parse single worldsteel press release."""
     cache_file = CACHE_DIR / f"ws_{date_str}.html"
     html_text = ""
+    month_name = dict(MONTHS_MAP)[m_code]
+    wanted = f"{month_name} {year} crude steel production"
 
     if cache_file.exists():
         try:
@@ -82,10 +84,14 @@ def fetch_release(date_str, year, m_code, url):
                 html_text = f.read()
         except Exception:
             pass
+        title = re.search(r"<title>([^<]*)", html_text, re.IGNORECASE)
+        if not title or wanted not in title.group(1).lower():
+            html_text = ""      # a cached redirect target (homepage), not the release: fetch again
 
     if not html_text:
         try:
-            r = requests.get(url, headers=HEADERS, timeout=10)
+            # an unpublished month answers 301 -> the homepage, which quotes the latest release: never follow it
+            r = requests.get(url, headers=HEADERS, timeout=10, allow_redirects=False)
             if r.status_code == 200:
                 html_text = r.text
                 with open(cache_file, "w", encoding="utf-8", errors="ignore", newline="\n") as f:
@@ -96,6 +102,15 @@ def fetch_release(date_str, year, m_code, url):
             return None
 
     if not html_text:
+        return None
+
+    # the page must be the release of the requested month (title "<Month> <year> crude steel production")
+    title = re.search(r"<title>([^<]*)", html_text, re.IGNORECASE)
+    if not title or wanted not in title.group(1).lower():
+        logging.warning("worldsteel %s: page is not the %s %s release (title %r); skipped", date_str,
+                        month_name, year, title.group(1).strip() if title else None)
+        if cache_file.exists():
+            cache_file.unlink()
         return None
 
     soup = BeautifulSoup(html_text, "html.parser")

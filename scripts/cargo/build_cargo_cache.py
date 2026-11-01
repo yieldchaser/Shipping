@@ -1003,6 +1003,11 @@ def process_who_feeds_china():
             by_cmd[r["commodity"]].append(r)
             all_dates.append(r["date"][:10])
 
+    # Partner shares are monthly figures from the partners summary (latest_partners, dated latest_month). The
+    # per-row top_partner columns of the CSV held the all-time share stamped on every month and are not used.
+    psum_path = COMMODITIES_DIR / "china_customs_partners_summary.json"
+    psum = json.loads(psum_path.read_text(encoding="utf-8")).get("commodities", {}) if psum_path.exists() else {}
+
     commodities = {}
     for cmd, rows in by_cmd.items():
         rows.sort(key=lambda r: r["date"])
@@ -1010,14 +1015,9 @@ def process_who_feeds_china():
         vals_usd_m = [round(float(r["value_usd"])/1e6, 2) for r in rows]
 
         latest = rows[-1]
-        partners = []
-        for p_key in ["top_partner_1", "top_partner_2", "top_partner_3"]:
-            val = latest.get(p_key, "")
-            if val:
-                m = val.split(" (")
-                p_name = m[0]
-                pct = float(m[1].replace("%)", "")) if len(m) > 1 else 0.0
-                partners.append({"country": p_name, "share_pct": pct})
+        pinfo = psum.get(latest.get("hs_code", ""), {})
+        partners = [{"country": p["partner"], "share_pct": p["share_pct"]}
+                    for p in (pinfo.get("latest_partners") or [])[:3]]
 
         note = ""
         if cmd == "Iron ore":
@@ -1034,6 +1034,7 @@ def process_who_feeds_china():
             "values_usd_m": vals_usd_m,
             "latest_value_usd_m": vals_usd_m[-1] if vals_usd_m else 0,
             "top_partners": partners,
+            "partners_month": pinfo.get("latest_month") if partners else None,
             "shipping_class": latest.get("shipping_class", ""),
             "hs_code": latest.get("hs_code", ""),
             "freight_note": note
@@ -1044,18 +1045,22 @@ def process_who_feeds_china():
     latest_as_of = max(all_cmd_dates) if all_cmd_dates else ""
     span_str = f"{min_date[:4]}–{latest_as_of[:4]}"
 
+    # rows written by fetch_gacc_monthly_bulletin.py carry the bulletin publisher; earlier rows are chinadata.live
+    bulletin_from = min((r["date"][:7] for rs in by_cmd.values() for r in rs
+                         if "Monthly Bulletin" in (r.get("publisher") or "")), default=None)
     provenance = {
-        "source": "China General Administration of Customs (GACC) / chinadata.live API v2",
+        "source": "China GACC customs statistics: chinadata.live HS series"
+                  + (f", continued from {bulletin_from} by the GACC Monthly Bulletin (same-scope lines)" if bulletin_from else ""),
         "publisher": "General Administration of Customs of the People's Republic of China",
-        "method": "Monthly Customs Trade Ingest (USD value only pending GACC query platform continuation)",
-        "source_url": "http://stats.customs.gov.cn/",
+        "method": "Monthly customs import value by HS code (USD)",
+        "source_url": "http://english.customs.gov.cn/Statistics/Statistics?ColumnId=1",
         "span": span_str,
         "min_date": min_date,
         "max_date": latest_as_of,
         "as_of": latest_as_of,
         "row_count": total_rows,
         "status": "LIVE_USD_DISCLAIMER",
-        "disclaimer": "USD value — not tonnage (GACC query platform pending operator network inspection)",
+        "disclaimer": "USD value, not tonnage (tonnage for the bulletin lines is in china_customs_bulletin)",
         "unit": "USD Millions ($M/mo)"
     }
 
@@ -1063,6 +1068,77 @@ def process_who_feeds_china():
         "provenance": provenance,
         "commodities": commodities
     }
+
+
+# GACC Monthly Bulletin lines shown on the dashboard: (flow, names GACC printed for the line over the years, label).
+# GACC re-words its lines (2021, 2026); month-to-month continuity across each re-wording was checked on the stored
+# values. The name printed for each month is kept in the series (lines_printed).
+BULLETIN_LINES = [
+    ("import", ["Iron ores and concentrates", "Iron ore and concentrates"], "Iron ore imports"),
+    ("import", ["Coal and lignite"], "Coal & lignite imports"),
+    ("import", ["Crude petroleum oils", "Crude Petroleum Oil"], "Crude oil imports"),
+    ("import", ["Soya beans", "Soya Beans", "Soybeans"], "Soybean imports"),
+    ("import", ["Grain food", "Grain", "Cereals and cereal flour"], "Grain imports"),
+    ("import", ["Copper ores and concentrates", "Copper ore and concentrates"], "Copper ore imports"),
+    ("import", ["Natural gases", "Natural Gas"], "Natural gas imports"),
+    ("import", ["Paper pulp", "Paper Pulp"], "Pulp imports"),
+    ("import", ["Fertilizers", "Mineral Fertilizers and Chemical Fertilizers"], "Fertilizer imports"),
+    ("export", ["Products, of steel or iron", "Steel products", "Steel Products"], "Steel products exports"),
+    ("import", ["Products, of steel or iron", "Steel Products"], "Steel products imports"),
+    ("export", ["Refined petroleum products", "Petroleum products", "Refined Petroleum Products"],
+     "Refined products exports"),
+    ("export", ["Fertilizers", "Mineral Fertilizers and Chemical Fertilizers"], "Fertilizer exports"),
+    ("export", ["Grain food", "Grain"], "Grain exports"),
+    ("export", ["Unwrought aluminium and aluminium products", "Unwrought Aluminum and Aluminum Products"],
+     "Aluminium exports"),
+]
+
+
+def process_china_customs_bulletin():
+    """China customs monthly bulletin (GACC tables 5/6): quantity and value per line exactly as printed.
+
+    Some years GACC publishes January and February as one table; the scraper stores it under February with
+    period_months=2. Such rows are flagged ("jan_feb_combined") so the chart labels them as two months.
+    """
+    fpath = COMMODITIES_DIR / "china_customs_major_trade_gacc.csv"
+    if not fpath.exists():
+        return {"provenance": {"status": "MISSING", "row_count": 0}, "lines": {}}
+    rows = list(csv.DictReader(open(fpath, encoding="utf-8")))
+    lines = {}
+    for flow, names, label in BULLETIN_LINES:
+        rs = sorted((r for r in rows if r["flow"] == flow and r["commodity"] in names), key=lambda r: r["date"])
+        if not rs:
+            continue
+        if len({r["date"] for r in rs}) != len(rs):
+            raise ValueError(f"bulletin line {label}: two printed names in one month - alias list is wrong")
+        dates, qty, val, combined = [], [], [], []
+        for r in rs:
+            m = r["date"][:7]
+            q = float(r["quantity_tonnes"]) / 1e6 if r["quantity_tonnes"] else None
+            dates.append(m)
+            qty.append(round(q, 3) if q is not None else None)
+            val.append(round(float(r["value_usd"]) / 1e6, 1) if r["value_usd"] else None)
+            combined.append(r.get("period_months") == "2")
+        lines[f"{flow}:{label}"] = {
+            "label": label, "flow": flow, "line_printed": rs[-1]["commodity"], "qty_unit_printed": rs[-1]["qty_unit_printed"],
+            "lines_printed": [r["commodity"] for r in rs],
+            "dates": dates, "quantity_mt": qty, "value_usd_m": val, "jan_feb_combined": combined,
+        }
+    all_dates = sorted({r["date"][:7] for r in rows})
+    provenance = {
+        "source": "GACC Monthly Bulletin, tables (5) Major Exports and (6) Major Imports by Quantity and Value (USD)",
+        "publisher": "General Administration of Customs of the People's Republic of China",
+        "method": "HTML table per month; quantity printed in 10,000 tonnes converted to Mt, value in USD million",
+        "source_url": "http://english.customs.gov.cn/Statistics/Statistics?ColumnId=1",
+        "span": f"{all_dates[0][:4]}–{all_dates[-1][:4]}" if all_dates else "",
+        "min_date": all_dates[0] if all_dates else "",
+        "max_date": all_dates[-1] if all_dates else "",
+        "as_of": all_dates[-1] if all_dates else "",
+        "row_count": len(rows),
+        "status": "LIVE",
+        "unit": "Mt and USD million per month",
+    }
+    return {"provenance": provenance, "lines": lines}
 
 
 def process_indonesia_coal():
@@ -1621,7 +1697,7 @@ def build_provenance_registry(datasets, flow_matrix, baltic_rates):
             "version": "2.0.0",
             "generated_at": now_utc.strftime("%Y-%m-%dT%H:%M:%SZ"),
             "as_of": now_utc.strftime("%Y-%m-%d"),
-            "total_datasets": 17,
+            "total_datasets": None,     # set below from the datasets registered
             "architecture": "Centralized Dynamic Live Ingest Registry"
         },
         "datasets": {
@@ -1635,6 +1711,7 @@ def build_provenance_registry(datasets, flow_matrix, baltic_rates):
             "australia_req": datasets["australia_req"]["provenance"],
             "guinea_bauxite": datasets["guinea_bauxite"]["provenance"],
             "who_feeds_china": datasets["who_feeds_china"]["provenance"],
+            "china_customs_bulletin": datasets["china_customs_bulletin"]["provenance"],
             "indonesia_coal": datasets["indonesia_coal"]["provenance"],
             "argentina_grain": datasets["argentina_grain"]["provenance"],
             "world_steel": datasets["world_steel"]["provenance"],
@@ -1676,6 +1753,7 @@ def build_provenance_registry(datasets, flow_matrix, baltic_rates):
             }
         }
     }
+    registry["registry_metadata"]["total_datasets"] = len(registry["datasets"])
     return registry
 
 
@@ -1692,6 +1770,7 @@ def main():
     req_data = process_australia_req()
     guinea_data = process_guinea_bauxite()
     who_feeds_china_data = process_who_feeds_china()
+    china_bulletin_data = process_china_customs_bulletin()
     indonesia_coal_data = process_indonesia_coal()
     argentina_grain_data = process_argentina_grain()
     world_steel_data = process_world_steel()
@@ -1714,6 +1793,7 @@ def main():
         "australia_req": req_data,
         "guinea_bauxite": guinea_data,
         "who_feeds_china": who_feeds_china_data,
+        "china_customs_bulletin": china_bulletin_data,
         "indonesia_coal": indonesia_coal_data,
         "argentina_grain": argentina_grain_data,
         "world_steel": world_steel_data,
@@ -1744,6 +1824,7 @@ def main():
         "australia_req": req_data,
         "guinea_bauxite": guinea_data,
         "who_feeds_china": who_feeds_china_data,
+        "china_customs_bulletin": china_bulletin_data,
         "indonesia_coal": indonesia_coal_data,
         "argentina_grain": argentina_grain_data,
         "world_steel": world_steel_data,

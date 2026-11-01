@@ -339,7 +339,11 @@ def run_pipeline(backfill: bool = False, dry_run: bool = False, include_baltic: 
         update_master_time_series(cl_dfs, master_path)
 
     print("\n" + "=" * 85)
-    print(f"SUMMARY: Successfully processed {len(results)} indices with ZERO errors.")
+    missing = [c for c in CAPITAL_LINK_INDICES if c not in results]
+    if missing:
+        print(f"SUMMARY: {len(results)} indices processed; FAILED: {', '.join(missing)} (files kept as-is)")
+    else:
+        print(f"SUMMARY: Successfully processed {len(results)} indices with ZERO errors.")
     print("=" * 85)
     return results
 
@@ -352,7 +356,11 @@ def main():
     parser.add_argument('--include-baltic', action='store_true', help="Also fetch the 7 Baltic Exchange indices")
     args = parser.parse_args()
 
-    run_pipeline(backfill=args.backfill, dry_run=args.dry_run, include_baltic=args.include_baltic)
+    results = run_pipeline(backfill=args.backfill, dry_run=args.dry_run, include_baltic=args.include_baltic)
+    # non-silent: capitallinkshipping.com has refused scripted clients since 2026-10-09 (connection closed);
+    # a run that updates no Capital Link index must show as a failed step, not as success
+    if not any(c in results for c in CAPITAL_LINK_INDICES):
+        sys.exit(1)
 
 
 if __name__ == '__main__':

@@ -22,7 +22,7 @@ Every single test connects live over the network and asserts against real publis
   16. usda_fgis_inspections: Downloads FGIS CY2026.csv and compares 2026-09-10 Gulf total with CSV
   17. usda_vessel_queues: USDA AMS GTR Table 19 grain ocean vessel activity workbook
   18. world_steel: World Steel Association monthly press release (world total >= 100 Mt)
-  19. china_customs_demand: chinadata.live HS 2601 iron ore import demand series
+  19. china_customs_demand: GACC monthly bulletin, latest imports table (iron ore line)
   20. major_miners: Full primary filing verification suite (SEC EDGAR & ASX) via subprocess
 """
 
@@ -741,31 +741,30 @@ def test_world_steel_live():
 
 
 # =====================================================================
-# 19. China Customs Demand (chinadata.live HS 2601)
+# 19. China Customs Monthly Bulletin (GACC English site, table (6) imports in USD)
 # =====================================================================
 def test_china_customs_demand_live():
-    source = "China Iron Ore Demand (GACC)"
-    stored = get_stored_period("china_customs_monthly_imports.csv")
+    """chinadata.live (the old source) retired its API in 2026-10; the GACC bulletin is the live source now."""
+    source = "China Customs Bulletin (GACC)"
+    stored = get_stored_period("china_customs_major_trade_gacc.csv")
     expected = get_expected_period(2)
-    logger.info("[19. China Customs Demand] Testing live HS 2601 demand API...")
-    url = "https://chinadata.live/api/v2/trade/hs/2601?flow=import&period=all"
+    logger.info("[19. China Customs Bulletin] Testing the GACC monthly bulletin list and latest imports table...")
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": "ShippingIntel/1.0"})
-        with urllib.request.urlopen(req, timeout=25) as resp:
-            http_status = str(resp.status)
-            data = json.loads(resp.read().decode("utf-8"))
-
-        assert data.get("success") is True, "API success is not True"
-        series = data.get("monthly", [])
-        assert len(series) > 0, "Empty monthly series"
-        latest = data.get("latest", {})
-        month_str = latest.get("month", series[-1].get("month", "2026-07"))
-        val_usd = latest.get("value_usd", series[-1].get("value_usd", 0))
-        logger.info("  Latest China Iron Ore import demand: %s = $%s USD", month_str, f"{val_usd:,.0f}")
-        record_result(source, True, http_status, stored, expected, f"Latest month: ${val_usd:,.0f} USD")
+        sys.path.insert(0, str(ROOT / "scripts" / "scrapers"))
+        import fetch_gacc_monthly_bulletin as gacc
+        tables = gacc.list_bulletins(pages=2)
+        imports = sorted(k for k in tables if k[1] == "import")
+        assert imports, "no (6) imports table on the first list pages"
+        month, _ = imports[-1]
+        url, span = tables[imports[-1]]
+        rows = gacc.parse_table(url, month, "import", span)
+        ore = [r for r in rows if r["commodity"].lower().startswith("iron ore")]
+        assert ore, "iron ore line missing"
+        note = f"Latest {month}: iron ore {ore[0]['quantity_tonnes'] / 1e6:,.1f} Mt, ${ore[0]['value_usd'] / 1e6:,.1f}M"
+        record_result(source, True, "200", stored, expected, note)
         return True
     except Exception as e:
-        logger.error("  China Customs Demand live test failed: %s", e)
+        logger.error("  China Customs Bulletin live test failed: %s", e)
         record_result(source, False, "ERROR", stored, expected, str(e))
         return False
 
