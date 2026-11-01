@@ -23,7 +23,7 @@ The model below consists of factors like the global ballast/laden vessel ratio, 
 
 The models are now in neutral territory, and thus do not give a clear suggestion for the near-term. However, as written last week, the bullish signals are "live" through the third week of November. Therefore, a rising market still seems more likely than a falling market.
 
-In the last 6 weeks, total South Atlantic shipment volumes were up 4.7%% compared to the corresponding weeks last year, which is an improvement on the last weeks' growth rate. Brazil iron ore exports growth has been negative for six straight weeks, but Guinea bauxite exports increased last week, which explains most of the relative improvement in total South Atlantic flows growth.
+In the last 6 weeks, total South Atlantic shipment volumes were up 4.7% compared to the corresponding weeks last year, which is an improvement on the last weeks' growth rate. Brazil iron ore exports growth has been negative for six straight weeks, but Guinea bauxite exports increased last week, which explains most of the relative improvement in total South Atlantic flows growth.
 
 ![Cape/Newc Composite Model](../../../../../corpus/01-brokers/fearnleys-md/images/8714678e-77de-41b2-886e-f2468e99d352/Cape%20Composite%20Model.png)
 *Chart: Cape/Newc Composite Model*

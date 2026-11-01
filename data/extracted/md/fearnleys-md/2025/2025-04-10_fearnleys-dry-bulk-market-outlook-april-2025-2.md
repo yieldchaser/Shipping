@@ -280,7 +280,7 @@ Exports
 
 Australia: -8.4%
 
-Canada:  0%%
+Canada:  0%
 
 Colombia: -19.7%
 

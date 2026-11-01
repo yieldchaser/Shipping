@@ -7,6 +7,7 @@ publisher: "Fearnleys"
 category: "bespoke_research"
 report_id: "afbebada-a565-491d-a70d-11ac1790e6a0"
 images_count: 26
+local_pdf: "../pdfs/2026/2026-10-02_lng-shipping-quarterly-report-q3-2026.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/afbebada-a565-491d-a70d-11ac1790e6a0/report.pdf"
 ---
 # LNG Shipping - Quarterly Report Q3 2026
