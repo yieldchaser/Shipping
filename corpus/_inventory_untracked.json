@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2954,
-      "untracked_bytes": 2297733998
+      "untracked_files": 2951,
+      "untracked_bytes": 2297446628
     },
     {
       "path": "corpus/02-hellenic",
@@ -47,16 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "path": "corpus/01-brokers/_digests/affinity/2026/affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.md",
-      "bytes": 12708,
-      "sha256": "3c9c8e81f4a963d52380fc8cd679d1770795145c8e036838fd27010672ab0782"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/gibson/2026/gibson_31_10_2026_gibson_tanker_report_freight_squeezes_naphtha_arb.md",
-      "bytes": 818,
-      "sha256": "cb0e153846ea92e72a1fb1e59d76219767cdade699471179efecf76ec11eb0be"
-    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -2611,11 +2601,6 @@
       "path": "corpus/01-brokers/affinity/2026/affinity_26_09_2026_affinity_tanker_weekly_25_september_2026.pdf",
       "bytes": 273401,
       "sha256": "8a67890265f1ebe52080804ede7fa77ceb875c633ac51a542c1da65010fae052"
-    },
-    {
-      "path": "corpus/01-brokers/affinity/2026/affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf",
-      "bytes": 273844,
-      "sha256": "bbd92ce9033801ff7c2899051e5011b4845aaa173af12be7de00d4123abcd472"
     },
     {
       "path": "corpus/01-brokers/agora/2021/agora_2021_W25_AGORA.-Week-25.-2021.-Snapshot-of-Commercial-Indicators.pdf",
