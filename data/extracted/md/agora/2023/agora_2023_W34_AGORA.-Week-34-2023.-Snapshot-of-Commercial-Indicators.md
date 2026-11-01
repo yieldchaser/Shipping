@@ -1,7 +1,7 @@
 ---
 title: "Agora Snapshot of Commercial Indicators - Week 34 / 2023"
 year: 2023
-report_week: 34
+report_week: 34
 issue_date: "2023-08-29"
 issue_date_basis: "pdf_creation_date"
 publisher: "Agora Shipbroking Corporation"

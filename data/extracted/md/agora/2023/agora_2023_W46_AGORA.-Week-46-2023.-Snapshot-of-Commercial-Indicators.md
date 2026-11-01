@@ -1,7 +1,7 @@
 ---
 title: "Agora Snapshot of Commercial Indicators - Week 46 / 2023"
 year: 2023
-report_week: 46
+report_week: 46
 issue_date: "2023-11-17"
 issue_date_basis: "pdf_creation_date"
 publisher: "Agora Shipbroking Corporation"
