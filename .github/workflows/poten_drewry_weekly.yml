@@ -44,7 +44,9 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 pandas pymupdf==1.28.2 pillow openpyxl llama-parse nace-sdk
+        run: |
+          pip install requests beautifulsoup4 pandas pymupdf==1.28.2 pillow openpyxl llama-parse nace-sdk pytesseract
+          sudo apt-get install -y -qq tesseract-ocr   # Poten X-image fallback OCR
 
       - name: Configure Git identity
         run: |
@@ -81,6 +83,8 @@ jobs:
           python scripts/extract/publishers/run_drewry_ais_charts.py || true
           python scripts/extract/publishers/run_drewry_ais.py || true
           python scripts/extract/publishers/run_poten.py || true
+          # issues Poten has emailed but not put online: page image posted on X (owner's archive repo), prose OCR only
+          python scripts/scrapers/fetch_poten_x_fallback.py || true
           # Poten charts are images: caption each exhibit with its printed title/unit/series/source (new issues only)
           python scripts/md_cleanup/poten_chart_captions.py --untracked --parse -j 2 || true
           python scripts/md_cleanup/poten_chart_captions.py --untracked --apply || true
@@ -91,6 +95,8 @@ jobs:
       - name: Commit & Push New Data
         run: |
           python scripts/ci/protect_accepted_md.py
+          # after the guard (which restores deleted tracked MDs): drop OCR fallbacks the official PDF MD now replaces
+          python scripts/scrapers/fetch_poten_x_fallback.py --retire-only || true
           python scripts/ci/fidelity_gate.py || true
           for fpath in corpus/06-drewry corpus/04-poten data/extracted/charts reports/drewry/ais_manifest.csv; do
             if [ -e "$fpath" ]; then
