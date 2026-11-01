@@ -75,3 +75,7 @@ Newbuild and Second Hand Benchmark Values ($ million) vs Historical Average Valu
 | Kamsarmax | 37.50^ | 39 | 30 | 17 | 70% |
 | Ultramax / Supramax | 34.00^ | 37 | 29 | 15 | 95% |
 | Handysize | 30.50^ | 29 | 21 | 12 | 74% |
+
+^ = Chinese price (otherwise based upon Japanese / Korean country of build)
+
+~ = 10 year old vessel over 10 years (basis standard contemporaneous Dwt/spec for each type).
