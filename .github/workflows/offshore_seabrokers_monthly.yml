@@ -38,7 +38,7 @@ jobs:
           cache-dependency-path: requirements_knowledge.txt
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 pymupdf pandas numpy lxml openpyxl llama-parse nace-sdk pillow
+        run: pip install requests beautifulsoup4 pymupdf==1.28.2 pandas numpy lxml openpyxl llama-parse nace-sdk pillow
 
       - name: Configure Git identity
         run: |

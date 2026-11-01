@@ -42,7 +42,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 pandas pymupdf pillow openpyxl llama-parse nace-sdk
+        run: pip install requests beautifulsoup4 pandas pymupdf==1.28.2 pillow openpyxl llama-parse nace-sdk
 
       - name: Configure Git identity
         run: |

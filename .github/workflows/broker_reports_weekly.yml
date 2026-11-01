@@ -34,7 +34,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 pypdf pandas firecrawl-anydoc pymupdf pillow llama-parse nace-sdk openpyxl liteparse
+          pip install requests beautifulsoup4 pypdf pandas firecrawl-anydoc pymupdf==1.28.2 pillow llama-parse nace-sdk openpyxl liteparse
           npm install -g @llamaindex/liteparse || true
 
       - name: Configure Git identity

@@ -30,7 +30,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 pandas pillow openpyxl pymupdf
+        run: pip install requests beautifulsoup4 pandas pillow openpyxl pymupdf==1.28.2
 
       - name: Configure Git identity
         run: |

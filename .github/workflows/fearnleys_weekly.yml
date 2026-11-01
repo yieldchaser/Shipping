@@ -34,7 +34,7 @@ jobs:
           cache-dependency-path: requirements_knowledge.txt
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 pandas lxml holidays numpy playwright pymupdf pillow openpyxl
+        run: pip install requests beautifulsoup4 pandas lxml holidays numpy playwright pymupdf==1.28.2 pillow openpyxl
 
       - name: Pull latest before run
         run: git pull --rebase --autostash origin main

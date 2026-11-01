@@ -28,7 +28,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install pandas requests numpy pymupdf
+        run: pip install pandas requests numpy pymupdf==1.28.2
 
       - name: Verify Miners Provenance & Upstream Filings
         run: python scripts/verify/verify_miners_provenance.py
