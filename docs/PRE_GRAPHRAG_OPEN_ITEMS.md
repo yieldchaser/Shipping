@@ -190,7 +190,7 @@ Build plan (layers, schema, DeepSeek runner, budget, phases and gates): `docs/GR
       the error JSON was read as "0 records". The hub slice is now cut from port_calls_daily.csv (kept current by
       expansion_portwatch.py, all 2,065 ports): 43 ports to 2026-10-23, tonnage columns that were blank since 2019
       filled, runs in 5 s, exits 1 if the source is >14 days old; freshness guard entry 6b.
-- [ ] Capital Link indices (CLCI, CLDBI, CLLG, CLMFI, CLMI, CLMLP, CLTI) stop at 2026-10-08: capitallinkshipping.com
+- [x] (Closed 2026-11-01 by commit 65e317504f on main: indices refreshed to 2026-10-30.) Capital Link indices (CLCI, CLDBI, CLLG, CLMFI, CLMI, CLMLP, CLTI) stop at 2026-10-08: capitallinkshipping.com
       closes the connection on Python clients since then (a browser/curl still gets the page), so this is client
       filtering and is not bypassed. The daily step was `continue-on-error` and printed "ZERO errors": it now exits 1
       when no index updates, and the freshness guard checks CLCI (5-day rule). Needs a permitted source (data
