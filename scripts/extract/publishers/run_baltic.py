@@ -434,6 +434,10 @@ def process_single_baltic_report(html_path):
                         'weekly_change_pct': change_pct
                     })
 
+                    # A draft page (2023-01-06 '-16122') prints the previous week only; its current column is empty
+                    # and the real issue page carries the same previous values, so no series row comes from it
+                    if val_curr is None:
+                        continue
                     ncfi_series_rows.append({
                         'issue_date': date_iso,
                         'year': year,
