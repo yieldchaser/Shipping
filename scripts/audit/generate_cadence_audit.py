@@ -182,9 +182,9 @@ REGISTRY_DATA = [
         "image_count": 0,
         "md_count": 523,
         "total_files": 262,
-        "charts_extracted": "Yes (Tanker spot WS, Dry bulk BDI & TC, LPG/LNG)",
-        "chart_engine": "Specialized 6-pillar normalized parser (run_fearnleys_normalized.py)",
-        "series_csvs": "fearnleys_rates_series.csv (14,669 rows)",
+        "charts_extracted": "No (weekly MDs are commentary; rates come from the Fearnpulse API)",
+        "chart_engine": "Fearnpulse API (no card parse: it was ~7% wrong against the PDFs, removed 2026-11-01)",
+        "series_csvs": "fearnpulse_rates_full.csv (308,767 rows), fearnpulse_dry_routes_full.csv (35,258 rows)",
         "primary_script": "run_fearnleys_normalized.py",
         "notes": "Ingested live for Week 40. 419 weekly commentary reports generated across all 9 years (2018-2026) in reports/fearnleys/commentary/<year>/ and data/reports/fearnleys/commentary/<year>/. 182 bespoke research reports mirrored into reports/fearnleys/<year>/."
     },
@@ -1394,6 +1394,7 @@ def count_csv_rows(csv_name: str) -> Optional[int]:
         ROOT / "data" / "extracted" / "series",
         ROOT / "data" / "indices",
         ROOT / "data" / "commodities",
+        ROOT / "data" / "derived",
         ROOT / "data",
     ]:
         p = search_dir / csv_name
