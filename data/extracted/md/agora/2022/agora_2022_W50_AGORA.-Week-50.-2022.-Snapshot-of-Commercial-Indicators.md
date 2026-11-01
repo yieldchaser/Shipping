@@ -1,7 +1,9 @@
 ---
 title: "Agora Snapshot of Commercial Indicators - Week 50 / 2022"
 year: 2022
-report_week: 50
+report_week: 50
+issue_date: "2022-12-16"
+issue_date_basis: "pdf_creation_date"
 publisher: "Agora Shipbroking Corporation"
 source_file: "corpus/01-brokers/agora/2022/agora_2022_W50_AGORA.-Week-50.-2022.-Snapshot-of-Commercial-Indicators.pdf"
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Agora Snapshot of Commercial Indicators - Week 6 / 2025"
 year: 2025
-report_week: 6
+report_week: 6
+issue_date: "2025-02-07"
+issue_date_basis: "pdf_creation_date"
 publisher: "Agora Shipbroking Corporation"
 source_file: "corpus/01-brokers/agora/2025/agora_2025_W06_AGORA.-Week-06-2025.-Snapshot-of-Commercial-Indicators.pdf"
 ---

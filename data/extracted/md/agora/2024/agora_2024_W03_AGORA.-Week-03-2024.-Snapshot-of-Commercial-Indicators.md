@@ -1,7 +1,9 @@
 ---
 title: "Agora Snapshot of Commercial Indicators - Week 3 / 2024"
 year: 2024
-report_week: 3
+report_week: 3
+issue_date: "2024-01-19"
+issue_date_basis: "pdf_creation_date"
 publisher: "Agora Shipbroking Corporation"
 source_file: "corpus/01-brokers/agora/2024/agora_2024_W03_AGORA.-Week-03-2024.-Snapshot-of-Commercial-Indicators.pdf"
 ---

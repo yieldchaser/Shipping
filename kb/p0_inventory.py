@@ -164,6 +164,8 @@ def main() -> int:
             d = parse_date(fm, body) if kind != "reference" else "n/a"
             # R3
             src = fm.get("source_file", "")
+            if not src and fm.get("local_pdf"):          # Fearnleys bespoke research: PDF path relative to the MD
+                src = (p.parent / fm["local_pdf"]).resolve().relative_to(ROOT.resolve()).as_posix()
             r3 = ""
             if kind != "reference":
                 found = next((r / src for r in roots if src and (r / src).exists()), None)

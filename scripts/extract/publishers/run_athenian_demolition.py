@@ -535,7 +535,12 @@ def main():
             json_out_path = year_md_dir / f"{stem}.tables.json"
 
             # 1. Generate Markdown
-            md_content = generate_markdown(meta, fname)
+            # repo-relative path, not the bare name: the GraphRAG P0 check (R3) resolves source_file from the repo root
+            try:
+                src_rel = pdf_path.resolve().relative_to(PROJECT_ROOT.resolve()).as_posix()
+            except ValueError:
+                src_rel = fname
+            md_content = generate_markdown(meta, src_rel)
             md_out_path.write_text(md_content, encoding="utf-8")
 
             # 2. Generate JSON sidecar

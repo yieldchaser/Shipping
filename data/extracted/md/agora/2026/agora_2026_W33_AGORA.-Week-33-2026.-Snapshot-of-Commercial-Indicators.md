@@ -1,7 +1,9 @@
 ---
 title: "Agora Snapshot of Commercial Indicators - Week 33 / 2026"
 year: 2026
-report_week: 33
+report_week: 33
+issue_date: "2026-08-24"
+issue_date_basis: "pdf_creation_date"
 publisher: "Agora Shipbroking Corporation"
 source_file: "corpus/01-brokers/agora/2026/agora_2026_W33_AGORA.-Week-33-2026.-Snapshot-of-Commercial-Indicators.pdf"
 ---

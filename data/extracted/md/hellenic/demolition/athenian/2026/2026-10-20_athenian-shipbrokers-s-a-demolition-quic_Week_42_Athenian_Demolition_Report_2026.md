@@ -5,7 +5,7 @@ report_week: 42
 date_range: "12th October 2026 to 18th October 2026"
 weekly_trend: "Downwards"
 publisher: "Athenian Shipbrokers S.A."
-source_file: "2026-10-20_athenian-shipbrokers-s-a-demolition-quic_Week_42_Athenian_Demolition_Report_2026.pdf"
+source_file: "corpus/02-hellenic/demolition/pdfs/athenian/2026-10-20_athenian-shipbrokers-s-a-demolition-quic_Week_42_Athenian_Demolition_Report_2026.pdf"
 prices_count: 12
 ---
 
