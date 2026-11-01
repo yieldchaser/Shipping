@@ -193,6 +193,23 @@ def is_financial_number(cell: str) -> bool:
 
 
 
+_HEADER_ONLY_DIGITS = re.compile(
+    r'(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2}(?!\d),?'
+    r'|(?<!\d)(?:19|20)\d\d(?!\d)|(?<![A-Za-z])[QH][1-4](?!\d)|(?<!\d)\d[MQH](?![A-Za-z])'
+    r'|\(\d{1,2}\)|Notes?\s+\d+',
+    re.I,
+)
+
+
+def has_value_token(cell: str) -> bool:
+    """
+    True if the cell carries a data value (amounts like "$17,200,000 — $19,200,000", "5,800 TEU", "3.81 % to 4.38 %")
+    rather than only header digits (years, "March 31", "Q4", footnote marks). Used to stop a header from swallowing
+    the data rows below it when those values are ranges or have units, which is_financial_number() cannot parse.
+    """
+    return bool(re.search(r'\d', _HEADER_ONLY_DIGITS.sub(' ', cell)))
+
+
 def is_footnote_or_item_marker(cell: str) -> bool:
     """Check if cell is an exhibit marker, footnote marker, or list item number like (*), (1), 1., 31.1, 101, (a)."""
     s = cell.strip()
@@ -382,11 +399,17 @@ def repair_table_block(table_lines: List[str]) -> List[str]:
 
     # Step 1B: Detect and merge sub-item columns (e.g. 'a)', 'b)' in TOC tables)
     # Only search columns c >= 1 to protect primary key / footnote marker columns at c = 0
+    # A number in the next column ("(814)" over "(858)", "(5)" over "12") is a value, never a sub-item title:
+    # merging it stacked whole statement rows into one cell.
     for c in range(1, max_cols - 1):
-        has_subitem = any(re.match(r'^(?:[a-z]\)|\([a-z\d]+\))$', r[c].strip(), re.I) and r[c + 1].strip() for r in content_rows)
+        has_subitem = any(
+            re.match(r'^(?:[a-z]\)|\([a-z\d]+\))$', r[c].strip(), re.I)
+            and r[c + 1].strip() and not is_numeric_value(r[c + 1])
+            for r in content_rows
+        )
         if has_subitem:
             for r in content_rows:
-                if r[c + 1].strip():
+                if r[c + 1].strip() and not is_numeric_value(r[c + 1]):
                     r[c] = f"{r[c]} {r[c + 1]}".strip()
                     r[c + 1] = ''
 
@@ -450,7 +473,7 @@ def repair_table_block(table_lines: List[str]) -> List[str]:
             header_end_idx = idx
             break
         # Check if row has financial numbers
-        if any(is_financial_number(c) for c in r[1:]):
+        if any(is_financial_number(c) or has_value_token(c) for c in r[1:]):
             header_end_idx = idx
             break
         # Check if row looks like a data row
@@ -459,6 +482,7 @@ def repair_table_block(table_lines: List[str]) -> List[str]:
                 re.search(r'\b(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{4}\b', c)
                 or c in ('Voyage', 'Spot', 'Bareboat', 'Time Charter')
                 or is_financial_number(c)
+                or has_value_token(c)
                 for c in r
             )
             if has_data:
