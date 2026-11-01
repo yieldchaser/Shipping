@@ -6,6 +6,8 @@ GraphRAG build while any **Blocker** remains open.
 GraphRAG inputs: `data/extracted/md/` (19,269 broker MDs, 27 publishers), `corpus/10-companies/` (1,339 SEC filing
 MD files), `corpus/books/` (12 books). 166 series in `data/extracted/series/`. `knowledge/` is legacy and not an input.
 
+Build plan (layers, schema, DeepSeek runner, budget, phases and gates): `docs/GRAPHRAG_BUILD_PLAN.md`.
+
 ## Owner's audit question: status per part
 
 | Part | Status |
@@ -162,9 +164,28 @@ MD files), `corpus/books/` (12 books). 166 series in `data/extracted/series/`. `
       - Provenance manifest rebuilt at the end of `daily_update.yml` (ETF/futures/SGX row counts lagged a day).
       - Dashboard markup typed stale values (59.4 Mt/mo, 547k fixtures, 38.9 Mt/mo, 182.8 Mt...) and the JS used
         them as fallbacks when data was missing: placeholders are now a dash and every value comes from the caches.
-- [ ] chinadata.live retired its per-HS JSON API (`/api/v2/trade/hs/...` 404; the HS pages answer 403 to scripts).
-      `fetch_china_customs_demand.py` and `fetch_gacc_bauxite_alumina.py` stay at 2026-08 until a new source is
-      wired (GACC direct or UN Comtrade). The smoke test stays red on these two checks until then.
+- [x] chinadata.live retired its per-HS JSON API (`/api/v2/trade/hs/...` 404). Replaced (2026-11-01) by the GACC
+      English monthly bulletin (`fetch_gacc_monthly_bulletin.py`, tables (5)/(6) by quantity and value in USD,
+      plain HTML): `china_customs_major_trade_gacc.csv` 2019-01..2026-09 (Jan-Feb tables flagged
+      `period_months=2`; 2018-11/12 pages carry no table). Iron ore 2601, soybeans 1201 and crude 2709 continue the
+      HS series (the bulletin lines matched the chinadata values to 0.1 USD M for 2026-08); coal-and-lignite,
+      natural gas, fertilizers and steel products are a different scope and live only in the bulletin CSV and its
+      dashboard panel. UN Comtrade China monthly lags over a year; stats.customs.gov.cn answers scripts with a JS
+      challenge (not bypassed).
+- [ ] Open from the same retirement: HS 2606 bauxite (Guinea mirror) and HS 2818 alumina, and per-month partner
+      shares, are not in the bulletin. They stay at 2026-08 (mirror 2026-07) until a GACC query export is supplied
+      (as on 2026-09-17) or another published source exists. `fetch_gacc_bauxite_alumina.py` no longer aborts on the
+      dead API and no longer writes value-share estimates (its 0.982-calibrated "derived" tonnes were an estimate);
+      its SMM parser read "nearly 10 million mt" as the Sep 2026 import and split decimals as sentence ends: fixed.
+- [ ] Capital Link indices (CLCI, CLDBI, CLLG, CLMFI, CLMI, CLMLP, CLTI) stop at 2026-10-08: capitallinkshipping.com
+      closes the connection on Python clients since then (a browser/curl still gets the page), so this is client
+      filtering and is not bypassed. The daily step was `continue-on-error` and printed "ZERO errors": it now exits 1
+      when no index updates, and the freshness guard checks CLCI (5-day rule). Needs a permitted source (data
+      licence / Capital Link feed). The FBX view of the container chart was clipped to the CLCI dates (looked stuck
+      at 10-08 although FBX runs to 10-30): fixed.
+- [x] worldsteel: unpublished months answered 301 to the homepage, which quotes the latest release, so CI wrote the
+      September numbers as October and November 2026 (the validator caught it). Redirects are no longer followed and
+      the page title must name the month; September 2026 (142.4 Mt) added.
 - [ ] SEC tables: 208 of 1,339 MDs (GLBS, RIO, SFL, FRO, BHP, VALE ...) have statement rows stacked into one cell
       ("Net operating revenue Cost of goods sold ... | 54,462 56,701 (40,798) ..."); values present, row structure
       lost. 8 MDs hold a PDF-origin exhibit as one text line (RIO 20-F 2022/2023, VALE 6-K 2026-07/10). New filings
@@ -174,7 +195,8 @@ MD files), `corpus/books/` (12 books). 166 series in `data/extracted/series/`. `
 
 - LlamaCloud key rotation at the very end, then update the CI secret.
 - Copyrighted books in the public repo (Lloyd's atlas and others): decision pending.
-- EIA feed needs a CI secret.
+- EIA: no longer needs a CI secret; without `EIA_API_KEY` the weekly crude export series is read from EIA's own
+  history workbook (`WCREXUS2w.xls`).
 
 ## Decided
 
