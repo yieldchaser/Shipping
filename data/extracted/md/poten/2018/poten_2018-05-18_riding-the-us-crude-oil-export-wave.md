@@ -43,3 +43,11 @@ In conclusion, the changes in the oil trades involving the U.S. since late 2014/
 > Series: Production, WTI ($/bbl)  
 > *Source: EIA*  
 > [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-05-18_riding-the-us-crude-oil-export-wave_chart1.png)
+
+![Exhibit 2: U.S. Related Shipping Demand: Grand Total](../../../charts/poten/2018/poten_2018-05-18_riding-the-us-crude-oil-export-wave_chart2.png)
+
+> **Exhibit 2: U.S. Related Shipping Demand: Grand Total**  
+> Unit: Bn TonMiles · X-axis: Jan-14 to Jan-18  
+> Series: Intra U.S., Exports, Imports  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-05-18_riding-the-us-crude-oil-export-wave_chart2.png)

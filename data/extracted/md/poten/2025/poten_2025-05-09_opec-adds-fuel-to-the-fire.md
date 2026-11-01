@@ -32,6 +32,13 @@ Since the production increases have been announced, we have seen some more expor
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: Seaborne OPEC-8 Crude & Condensates Exports by Origin](../../../charts/poten/2025/poten_2025-05-09_opec-adds-fuel-to-the-fire_chart1.png)
+
+> **Exhibit 1: Seaborne OPEC-8 Crude & Condensates Exports by Origin**  
+> Unit: Mb/d · X-axis: 1-Jan-24 to 21-Apr-25  
+> Series: Saudi Arabia, Russia, Iraq, United Arab Emirates, Kuwait, Oman, Algeria, Kazakhstan  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-05-09_opec-adds-fuel-to-the-fire_chart1.png)
+
 ![Exhibit 2: Seaborne OPEC-8 Crude & Condensates Exports by Vessel Class](../../../charts/poten/2025/poten_2025-05-09_opec-adds-fuel-to-the-fire_chart2.png)
 
 > **Exhibit 2: Seaborne OPEC-8 Crude & Condensates Exports by Vessel Class**  

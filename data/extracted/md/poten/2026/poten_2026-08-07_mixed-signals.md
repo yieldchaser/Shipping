@@ -36,4 +36,15 @@ As Chart 2 shows, U.S. refined product exports have remained at record highs thr
 
 ![Exhibit 1: US Crude & Dirty Prod. Exports by Destination](../../../charts/poten/2026/poten_2026-08-07_mixed-signals_chart1.png)
 
+> **Exhibit 1: US Crude & Dirty Prod. Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-21 to Jul-26  
+> Series: Europe, Asia, North America, South America, Central America, Caribbean, Africa, Oceania, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-08-07_mixed-signals_chart1.png)
+
 ![Exhibit 2: US Clean Product Exports by Destination (Excl LPG & Chem.)](../../../charts/poten/2026/poten_2026-08-07_mixed-signals_chart2.png)
+
+> **Exhibit 2: US Clean Product Exports by Destination (Excl LPG & Chem.)**  
+> Unit: Kb/d · X-axis: Jan-21 to Jul-26  
+> Series: Central America, South America, North America, Europe, Caribbean, Asia, Africa, Oceania, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-08-07_mixed-signals_chart2.png)

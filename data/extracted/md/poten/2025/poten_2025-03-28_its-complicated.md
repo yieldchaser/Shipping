@@ -36,4 +36,15 @@ While the tanker industry can probably adjust to the potential port fees by resh
 
 ![Exhibit 1: Tanker Fleet by Country of Built](../../../charts/poten/2025/poten_2025-03-28_its-complicated_chart1.png)
 
+> **Exhibit 1: Tanker Fleet by Country of Built**  
+> Unit: % · X-axis: Pre1990 to 2025  
+> Series: China, South Korea, Japan, Croatia, Turkiye, U.S.A., Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-03-28_its-complicated_chart1.png)
+
 ![Exhibit 2: Tanker Orderbook By Country of Built](../../../charts/poten/2025/poten_2025-03-28_its-complicated_chart2.png)
+
+> **Exhibit 2: Tanker Orderbook By Country of Built**  
+> Unit: Number of Ships · X-axis: VLCC to Smaller  
+> Series: China, South Korea, Japan, Croatia, Vietnam, U.S.A., Other  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-03-28_its-complicated_chart2.png)

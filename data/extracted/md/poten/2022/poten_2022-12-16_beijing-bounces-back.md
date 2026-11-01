@@ -38,6 +38,14 @@ In recent years, we have seen a major pandemic and a significant geopolitical co
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: Seaborne Crude Import Volumes Into People's Republic of China](../../../charts/poten/2022/poten_2022-12-16_beijing-bounces-back_chart1.png)
+
+> **Exhibit 1: Seaborne Crude Import Volumes Into People's Republic of China**  
+> Unit: Kbbl/Day · X-axis: Jan-17 to Oct-22  
+> Series: Saudi Arabia, Iraq, Oth. M.East, Russia (FE), Oth. Asia, W Africa, Brazil, Oth. Amer. (Atl), Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-12-16_beijing-bounces-back_chart1.png)
+
 ![Exhibit 2: Petroleum Product Exports By: China](../../../charts/poten/2022/poten_2022-12-16_beijing-bounces-back_chart2.png)
 
 > **Exhibit 2: Petroleum Product Exports By: China**  

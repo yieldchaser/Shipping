@@ -42,3 +42,11 @@ Overall, we believe this “truce” will have a net positive effect on the tank
 > Unit: Kb/d · X-axis: Jan-17 to Sep-25  
 > Series: South Korea, Netherlands, United Kingdom, Canada, India, China, Taiwan, Italy, Other  
 > [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-10-31_the-big-deal_chart1.png)
+
+![Exhibit 2: Crude Tanker Freight Rates](../../../charts/poten/2025/poten_2025-10-31_the-big-deal_chart2.png)
+
+> **Exhibit 2: Crude Tanker Freight Rates**  
+> Unit: US$/day · X-axis: 2-Jun-25 to 27-Oct-25  
+> Series: VLCC (AG-FE), Suezmax (WAF-UKC), Aframax (USG-UKC)  
+> *Source: Vortexa; Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-10-31_the-big-deal_chart2.png)

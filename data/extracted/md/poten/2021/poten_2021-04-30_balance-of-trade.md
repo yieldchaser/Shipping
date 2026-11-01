@@ -38,6 +38,13 @@ We expect both imports and exports on VLCCs to grow in the coming years, making 
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: VLCC Balance Americas, Pacific](../../../charts/poten/2021/poten_2021-04-30_balance-of-trade_chart1.png)
+
+> **Exhibit 1: VLCC Balance Americas, Pacific**  
+> Unit: Number of Voyages · X-axis: Jan-17 to Apr-21  
+> Series: Discharge Americas Pac, Loading C America  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-04-30_balance-of-trade_chart1.png)
+
 ![Exhibit 2: VLCC Export Voyages from C America - Pacific](../../../charts/poten/2021/poten_2021-04-30_balance-of-trade_chart2.png)
 
 > **Exhibit 2: VLCC Export Voyages from C America - Pacific**  

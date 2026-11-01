@@ -34,6 +34,13 @@ Saudi Arabia is a key player in the global refined product market. The countries
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: Clean Product Exports By Saudi Arabia By Destination](../../../charts/poten/2023/poten_2023-08-18_multitasking-in-the-desert_chart1.png)
+
+> **Exhibit 1: Clean Product Exports By Saudi Arabia By Destination**  
+> Unit: Kb/d · X-axis: Jan-20 to Jul-23  
+> Series: Middle East, Europe, Far East, Africa, SE Asia, South Asia, North America, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-08-18_multitasking-in-the-desert_chart1.png)
+
 ![Exhibit 2: Clean Product Imports By Saudi Arabia By Origin](../../../charts/poten/2023/poten_2023-08-18_multitasking-in-the-desert_chart2.png)
 
 > **Exhibit 2: Clean Product Imports By Saudi Arabia By Origin**  

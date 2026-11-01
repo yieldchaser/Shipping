@@ -40,3 +40,10 @@ The Middle East will also be an interesting market to observe, especially since 
 > Unit: Kbbl / Day · X-axis: Jan-17 to Jul-22  
 > Series: UKC/Baltic, Mediterranean, Americas. Atlantic, Asia/Australia, Americas. Pacific, Middle East/E Africa, Other  
 > [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-10-14_the-battle-for-african-barrels_chart1.png)
+
+![Exhibit 2: Crude Exports from Angola](../../../charts/poten/2022/poten_2022-10-14_the-battle-for-african-barrels_chart2.png)
+
+> **Exhibit 2: Crude Exports from Angola**  
+> Unit: Kbbl / Day · X-axis: Jan-17 to Jul-22  
+> Series: UKC/Baltic, Mediterranean, Americas. Atlantic, Asia/Australia, Americas. Pacific, Middle East/E Africa, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-10-14_the-battle-for-african-barrels_chart2.png)

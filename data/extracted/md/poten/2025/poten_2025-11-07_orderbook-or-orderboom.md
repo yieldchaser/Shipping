@@ -34,6 +34,13 @@ The most recent orderbook spike occurred in 2015/2016 after OPEC decided to floo
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: Total Tanker Fleet Size vs Orderbook](../../../charts/poten/2025/poten_2025-11-07_orderbook-or-orderboom_chart1.png)
+
+> **Exhibit 1: Total Tanker Fleet Size vs Orderbook**  
+> Unit: Mln DWT | Orderbook% · X-axis: 1976 to 2025ytd  
+> Series: Tanker Fleet, Tanker Orderbook, Orderbook %  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-11-07_orderbook-or-orderboom_chart1.png)
+
 ![Exhibit 2: Tanker Orderbook % vs VLCC 1 Yr TC Rate](../../../charts/poten/2025/poten_2025-11-07_orderbook-or-orderboom_chart2.png)
 
 > **Exhibit 2: Tanker Orderbook % vs VLCC 1 Yr TC Rate**  

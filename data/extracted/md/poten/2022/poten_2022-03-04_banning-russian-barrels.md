@@ -34,6 +34,14 @@ However, if the conflict continues, the uncertainty around the implications of t
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: US Crude Oil Imports From Russia](../../../charts/poten/2022/poten_2022-03-04_banning-russian-barrels_chart1.png)
+
+> **Exhibit 1: US Crude Oil Imports From Russia**  
+> Unit: Kbbl/day · X-axis: Jan-15 to Oct-21  
+> Series: PADD1, PADD3, PADD5  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-03-04_banning-russian-barrels_chart1.png)
+
 ![Exhibit 2: US Petroleum Product Imports From Russia](../../../charts/poten/2022/poten_2022-03-04_banning-russian-barrels_chart2.png)
 
 > **Exhibit 2: US Petroleum Product Imports From Russia**  

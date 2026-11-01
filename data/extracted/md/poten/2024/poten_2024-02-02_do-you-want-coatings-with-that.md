@@ -34,6 +34,13 @@ It will be interesting to see if some of the LR2s that switched to move dirty pr
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: LR2 Tankers Trading Cargo](../../../charts/poten/2024/poten_2024-02-02_do-you-want-coatings-with-that_chart1.png)
+
+> **Exhibit 1: LR2 Tankers Trading Cargo**  
+> Unit: Ships | % · X-axis: Jan-22 to Feb-24  
+> Series: Clean, Crude, Dirty, Clean %  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-02-02_do-you-want-coatings-with-that_chart1.png)
+
 ![Exhibit 2: Clean Vs Dirty Aframax Freight Rates](../../../charts/poten/2024/poten_2024-02-02_do-you-want-coatings-with-that_chart2.png)
 
 > **Exhibit 2: Clean Vs Dirty Aframax Freight Rates**  

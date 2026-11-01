@@ -46,3 +46,11 @@ For the VLCC market, this means that more tonnage will likely be employed on the
 > Unit: Kbbl / Day · X-axis: Jan-18 to Jan-23  
 > Series: China/Korea, India, Other Asia, UKC/Baltic, Mediterranean, Americas (Atl), Other  
 > [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-02-24_the-next-wave_chart1.png)
+
+![Exhibit 2: US Gulf Crude Exports by Vessel Class To Europe](../../../charts/poten/2023/poten_2023-02-24_the-next-wave_chart2.png)
+
+> **Exhibit 2: US Gulf Crude Exports by Vessel Class To Europe**  
+> Unit: Kb/d · X-axis: Mar-15 to Dec-22  
+> Series: VLCC, Suezmax, Aframax, Smaller  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-02-24_the-next-wave_chart2.png)

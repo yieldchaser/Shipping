@@ -40,4 +40,15 @@ Shipowners have pinned their hopes on restocking of inventories globally and in 
 
 ![Exhibit 1: China: Seaborne Crude Oil Imports by Origin](../../../charts/poten/2026/poten_2026-08-14_china-to-the-rescue_chart1.png)
 
+> **Exhibit 1: China: Seaborne Crude Oil Imports by Origin**  
+> Unit: Kb/d · X-axis: Jan-21 to Jul-26  
+> Series: Saudi Arabia, Russia, Iraq, Iran, Angola, Brazil, Oman, United Arab Emirates, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-08-14_china-to-the-rescue_chart1.png)
+
 ![Exhibit 2: China Clean Products Exports by Destination](../../../charts/poten/2026/poten_2026-08-14_china-to-the-rescue_chart2.png)
+
+> **Exhibit 2: China Clean Products Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-21 to Jul-26  
+> Series: Singapore, Malaysia, Philippines, Australia, South Korea, Bangladesh, Pakistan, Netherlands, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-08-14_china-to-the-rescue_chart2.png)

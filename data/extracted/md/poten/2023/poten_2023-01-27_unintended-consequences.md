@@ -36,4 +36,15 @@ Trade flows will continue to evolve in 2023 as Europe implements a permanent shi
 
 ![Exhibit 1: Crude Import Volumes Into Europe](../../../charts/poten/2023/poten_2023-01-27_unintended-consequences_chart1.png)
 
+> **Exhibit 1: Crude Import Volumes Into Europe**  
+> Unit: Kbbl/Day · X-axis: Jan-18 to Jan-23  
+> Series: Russia (Balt), Russia (Blk Sea), Oth UKC/Balt, Oth. Med, US Gulf, Oth. Americas Atl., W. Africa, Middle East, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-01-27_unintended-consequences_chart1.png)
+
 ![Exhibit 2: Crude Oil Imports to Europe by Vessel Class](../../../charts/poten/2023/poten_2023-01-27_unintended-consequences_chart2.png)
+
+> **Exhibit 2: Crude Oil Imports to Europe by Vessel Class**  
+> Unit: Mb/day · X-axis: Jan-15 to Sep-22  
+> Series: VLCC, Suezmax, Aframax, Other  
+> *Source: Poten & Partners, Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-01-27_unintended-consequences_chart2.png)

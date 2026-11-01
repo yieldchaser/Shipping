@@ -24,6 +24,7 @@ import subprocess
 import sys
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import date, timedelta
 from difflib import SequenceMatcher
 from pathlib import Path
 
@@ -46,7 +47,18 @@ def git_files() -> list[str]:
     if "--untracked" in sys.argv:   # CI: only the issues this run just extracted
         out = subprocess.run(["git", "-c", "core.quotepath=off", "ls-files", "-z", "--others", "--exclude-standard",
                               "data/extracted/md/poten"], cwd=ROOT, capture_output=True, text=True, encoding="utf-8").stdout
-        return sorted(x for x in out.split("\0") if x.endswith(".md"))
+        files = {x for x in out.split("\0") if x.endswith(".md")}
+        # ... plus the last 28 days' issues still holding an uncaptioned exhibit: a LlamaParse call that returned
+        # no chart blocks (2026-10-09/10-16 in CI) is retried next week instead of never
+        cutoff = (date.today() - timedelta(days=28)).isoformat()
+        for p in (ROOT / "data/extracted/md/poten").glob("*/poten_*.md"):
+            m = re.match(r"poten_(\d{4}-\d{2}-\d{2})_", p.name)
+            if not m or m.group(1) < cutoff:
+                continue
+            md = p.read_text(encoding="utf-8")
+            if EXHIBIT_IMG.search(md) and "> [Chart image (200 DPI PNG)]" not in md and "No image crop of this chart" not in md:
+                files.add(p.relative_to(ROOT).as_posix())
+        return sorted(files)
     out = subprocess.run(["git", "-c", "core.quotepath=off", "grep", "-lz", "-E", r"^!\[Exhibit", "--", "data/extracted/md/poten/*.md"],
                          cwd=ROOT, capture_output=True, text=True, encoding="utf-8").stdout
     return sorted(x for x in out.split("\0") if x)
@@ -279,6 +291,7 @@ def main() -> int:
             stat["files changed"] += 1
             if apply:
                 path.write_bytes((new.replace("\n", "\r\n") if crlf else new).encode("utf-8"))
+    (ROOT / ".reparse_staging").mkdir(exist_ok=True)   # absent on a CI checkout: the write crashed there
     (ROOT / ".reparse_staging" / "poten_chart_captions_report.json").write_text(json.dumps(report, indent=1), encoding="utf-8")
     for k, v in sorted(stat.items()):
         print(f"{v:6}  {k}")

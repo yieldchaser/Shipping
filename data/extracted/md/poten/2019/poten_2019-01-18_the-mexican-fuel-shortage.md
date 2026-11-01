@@ -38,6 +38,14 @@ Short term factors such as weather and the current crackdown on fuel theft will 
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: MR: USG - EC Mexico Freight Rates](../../../charts/poten/2019/poten_2019-01-18_the-mexican-fuel-shortage_chart1.png)
+
+> **Exhibit 1: MR: USG - EC Mexico Freight Rates**  
+> Unit: Lumpsum · X-axis: 1 to 51  
+> Series: 2019, 2018, 2017, 2016  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-01-18_the-mexican-fuel-shortage_chart1.png)
+
 ![Exhibit 2: US Product Exports to Mexico](../../../charts/poten/2019/poten_2019-01-18_the-mexican-fuel-shortage_chart2.png)
 
 > **Exhibit 2: US Product Exports to Mexico**  

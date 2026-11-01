@@ -34,4 +34,15 @@ While the immediate impact of the OPEC+ decision is limited to higher oil prices
 
 ![Exhibit 1: Rotterdam: VLSFO Prices vs HSFO](../../../charts/poten/2021/poten_2021-03-05_not-so-fast_chart1.png)
 
+> **Exhibit 1: Rotterdam: VLSFO Prices vs HSFO**  
+> Unit: $/ton · X-axis: Jul-19 to Feb-21  
+> Series: Spread, Rotterdam VLSFO, Rotterdam HSFO  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-03-05_not-so-fast_chart1.png)
+
 ![Exhibit 2: Seaborne US Gulf and Saudi Arabia Crude Exports](../../../charts/poten/2021/poten_2021-03-05_not-so-fast_chart2.png)
+
+> **Exhibit 2: Seaborne US Gulf and Saudi Arabia Crude Exports**  
+> Unit: Kb/d · X-axis: Jan-17 to Jan-21  
+> Series: USG, Saudi Arabia  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-03-05_not-so-fast_chart2.png)

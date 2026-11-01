@@ -38,4 +38,15 @@ While it is still not operating at full capacity, it can already be said that Mr
 
 ![Exhibit 1: Clean Product Imports into Nigeria](../../../charts/poten/2025/poten_2025-01-31_gaining-momentum_chart1.png)
 
+> **Exhibit 1: Clean Product Imports into Nigeria**  
+> Unit: Kb/d · X-axis: Jan-20 to Jan-25  
+> Series: Belgium, Netherlands, Norway, Latvia, Russia, France, India, United Kingdom, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-01-31_gaining-momentum_chart1.png)
+
 ![Exhibit 2: Dangote Crude Sourcing (Weekly)](../../../charts/poten/2025/poten_2025-01-31_gaining-momentum_chart2.png)
+
+> **Exhibit 2: Dangote Crude Sourcing (Weekly)**  
+> Unit: Kb/d · X-axis: 1-Jan-24 to 13-Jan-25  
+> Series: Nigeria, United States, Angola  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-01-31_gaining-momentum_chart2.png)

@@ -38,4 +38,15 @@ In September 2021, OPEC+ produced 37.97 Mb/d of crude oil. This was 930,000 b/d 
 
 ![Exhibit 1: Global Oil Supply, Demand and Stock Change](../../../charts/poten/2021/poten_2021-10-29_back-in-control_chart1.png)
 
+> **Exhibit 1: Global Oil Supply, Demand and Stock Change**  
+> Unit: Supply / Demand MB/d | Stock Change MB/d · X-axis: 1Q2018 to 4Q2022  
+> Series: Stock Change, Oil Demand, Oil Supply  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-10-29_back-in-control_chart1.png)
+
 ![Exhibit 2: OPEC+ Production Vs Target](../../../charts/poten/2021/poten_2021-10-29_back-in-control_chart2.png)
+
+> **Exhibit 2: OPEC+ Production Vs Target**  
+> Unit: MB/d | Mb/d · X-axis: Algeria to Venezuela  
+> Series: Production, Target, Over/Under Prod  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-10-29_back-in-control_chart2.png)

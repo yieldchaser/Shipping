@@ -36,4 +36,15 @@ It is difficult to project what will happen for the remainder of 2025. Normal se
 
 ![Exhibit 1: OPEC-8: Change in Quota, Crude Production and Exports](../../../charts/poten/2025/poten_2025-08-08_opec-remains-opaque_chart1.png)
 
+> **Exhibit 1: OPEC-8: Change in Quota, Crude Production and Exports**  
+> Unit: Kb/d · X-axis: Apr-25 to Jul-25  
+> Series: Quota, Production, Exports  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-08-08_opec-remains-opaque_chart1.png)
+
 ![Exhibit 2: Monthly Change In Seaborne Crude Oil Exports From OPEC-8](../../../charts/poten/2025/poten_2025-08-08_opec-remains-opaque_chart2.png)
+
+> **Exhibit 2: Monthly Change In Seaborne Crude Oil Exports From OPEC-8**  
+> Unit: Kb/d · X-axis: Jan-24 to Jul-25  
+> Series: Saudi Arabia, Russia (Excl CPC Blend), Iraq, United Arab Emirates, Kuwait, Kazakhstan (incl CPC Blend), Oman, Algeria, Total  
+> *Source: OPEC, IEA, Vortexa; Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-08-08_opec-remains-opaque_chart2.png)

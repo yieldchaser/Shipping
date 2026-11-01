@@ -42,3 +42,11 @@ China’s oil demand is likely to peak within the next decade. As strategic rese
 > Unit: Kb/d · X-axis: Jan-16 to Oct-25  
 > Series: Saudi Arabia, Iraq, Russia, Angola, Oman, Iran, Brazil, United Arab Emirates, Other  
 > [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-11-14_no-more-chinese-tailwinds_chart1.png)
+
+![Exhibit 2: China Seaborne Crude Oil Exports](../../../charts/poten/2025/poten_2025-11-14_no-more-chinese-tailwinds_chart2.png)
+
+> **Exhibit 2: China Seaborne Crude Oil Exports**  
+> Unit: Kb/d · X-axis: Jan-16 to Sep-25  
+> Series: South Korea, Singapore, Japan, Malaysia, China, United States, India, Thailand, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-11-14_no-more-chinese-tailwinds_chart2.png)

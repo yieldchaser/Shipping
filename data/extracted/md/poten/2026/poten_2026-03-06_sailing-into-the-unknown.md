@@ -36,4 +36,16 @@ Tanker rates are at record highs due to a significant geopolitical risk premium 
 
 ![Exhibit 1: Daily Oil Cargoes Transiting the Strait of Hormuz in 2026](../../../charts/poten/2026/poten_2026-03-06_sailing-into-the-unknown_chart1.png)
 
+> **Exhibit 1: Daily Oil Cargoes Transiting the Strait of Hormuz in 2026**  
+> Unit: Cargo Count · X-axis: 1-Jan to 2-Mar  
+> Series: Crude/Condensates, Dirty Petroleum Products, Clean Petroleum Products  
+> *Source: Vortexa, Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-03-06_sailing-into-the-unknown_chart1.png)
+
 ![Exhibit 2: Tanker Freight Rates in 2026](../../../charts/poten/2026/poten_2026-03-06_sailing-into-the-unknown_chart2.png)
+
+> **Exhibit 2: Tanker Freight Rates in 2026**  
+> Unit: US$/Ton · X-axis: 1-Jan to 5-Mar  
+> Series: VLCC: AG-FE (270Kt), Suezmax WAF-UKC (130 Kt), Aframax Caribs-USG (70 Kt)  
+> *Source: Vortexa, Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-03-06_sailing-into-the-unknown_chart2.png)

@@ -42,6 +42,14 @@ It is understandable that owners opt to pay a few million more for a coated Afra
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: Aframax / LR2 Cargoes By Age Bracket In 2024ytd](../../../charts/poten/2024/poten_2024-08-09_do-you-want-coatings-with-that_chart1.png)
+
+> **Exhibit 1: Aframax / LR2 Cargoes By Age Bracket In 2024ytd**  
+> Unit: Voyages · X-axis: 0-5 Yrs to 25+ Yrs  
+> Series: Clean, Crude, Dirty  
+> *Source: Vortexa/Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-08-09_do-you-want-coatings-with-that_chart1.png)
+
 ![Exhibit 2: Clean vs Dirty Freight Rates](../../../charts/poten/2024/poten_2024-08-09_do-you-want-coatings-with-that_chart2.png)
 
 > **Exhibit 2: Clean vs Dirty Freight Rates**  

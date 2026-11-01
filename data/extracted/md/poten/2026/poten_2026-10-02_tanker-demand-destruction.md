@@ -34,4 +34,15 @@ Even in a crazy market, shipowners tend to make rational decisions. A VLCC owner
 
 ![Exhibit 1: Crude Oil Tanker Rates](../../../charts/poten/2026/poten_2026-10-02_tanker-demand-destruction_chart1.png)
 
+> **Exhibit 1: Crude Oil Tanker Rates**  
+> Unit: $/Day · X-axis: Jan-19 to Oct-26  
+> Series: VLCC (AG-FE), Suezmax (WAF-UKC), Aframax (CARIBS-USG)  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-10-02_tanker-demand-destruction_chart1.png)
+
 ![Exhibit 2: Brent Crude Versus VLCC Freight](../../../charts/poten/2026/poten_2026-10-02_tanker-demand-destruction_chart2.png)
+
+> **Exhibit 2: Brent Crude Versus VLCC Freight**  
+> Unit: US$/Barrel | % · X-axis: Jan 02, 2026 to Oct 02, 2026  
+> Series: Brent Crude, Freight AG-Asia (VLCC), Freight as % of Crude  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-10-02_tanker-demand-destruction_chart2.png)

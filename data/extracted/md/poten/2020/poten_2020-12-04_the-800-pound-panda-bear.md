@@ -38,4 +38,16 @@ On the crude oil side, China is going from strength to strength and we see no re
 
 ![Exhibit 1: Chinese Clean Petroleum Product Trade](../../../charts/poten/2020/poten_2020-12-04_the-800-pound-panda-bear_chart1.png)
 
+> **Exhibit 1: Chinese Clean Petroleum Product Trade**  
+> Unit: Kb/d · X-axis: Jan-05 to Jan-20  
+> Series: Product Imports, Product Exports, Net Trade  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-12-04_the-800-pound-panda-bear_chart1.png)
+
 ![Exhibit 2: Chinese Seaborne Crude Oil Imports](../../../charts/poten/2020/poten_2020-12-04_the-800-pound-panda-bear_chart2.png)
+
+> **Exhibit 2: Chinese Seaborne Crude Oil Imports**  
+> Unit: Kb/d · X-axis: Jan-15 to Jul-20  
+> Series: AG, Oth. M. East, W Africa, S America (Atl), US Gulf, Oth Americas (Atl), Asia/Aust., Med, Americas (Pac), NW Europe  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-12-04_the-800-pound-panda-bear_chart2.png)

@@ -34,4 +34,15 @@ While this still happens now, currently more Aframaxes are making the direct voy
 
 ![Exhibit 1: Crude & Condensate Exports From Vancouver](../../../charts/poten/2024/poten_2024-10-11_smooth-sailing_chart1.png)
 
+> **Exhibit 1: Crude & Condensate Exports From Vancouver**  
+> Unit: Kb/d · X-axis: Jan-20 to Sep-24  
+> Series: United States, China, South Korea, India, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-10-11_smooth-sailing_chart1.png)
+
 ![Exhibit 2: USWC Seaborne Crude Sourcing By Origin](../../../charts/poten/2024/poten_2024-10-11_smooth-sailing_chart2.png)
+
+> **Exhibit 2: USWC Seaborne Crude Sourcing By Origin**  
+> Unit: Kb/d · X-axis: Jan-21 to Sep-24  
+> Series: United States, Iraq, Panama, Brazil, Saudi Arabia, Ecuador, Canada, Argentina, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-10-11_smooth-sailing_chart2.png)

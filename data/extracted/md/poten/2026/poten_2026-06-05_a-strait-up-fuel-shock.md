@@ -36,4 +36,15 @@ What happens next will largely depend on the timing of the opening of the Strait
 
 ![Exhibit 1: Weekly Petroleum Product Stocks](../../../charts/poten/2026/poten_2026-06-05_a-strait-up-fuel-shock_chart1.png)
 
+> **Exhibit 1: Weekly Petroleum Product Stocks**  
+> Unit: Mbbl · X-axis: 3-Jan-20 to 22-May-26  
+> Series: Gasoline, Distillates, Residual Fuel, Kerosene Jet Fuel  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-06-05_a-strait-up-fuel-shock_chart1.png)
+
 ![Exhibit 2: US Gulf Clean Product Exports by Destination (Excl LPG & Chem.)](../../../charts/poten/2026/poten_2026-06-05_a-strait-up-fuel-shock_chart2.png)
+
+> **Exhibit 2: US Gulf Clean Product Exports by Destination (Excl LPG & Chem.)**  
+> Unit: Kb/d · X-axis: Jan-22 to May-26  
+> Series: Central America, South America, Europe, Caribbean, Asia, North America, Africa, Oceania, Other  
+> *Source: EIA; Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-06-05_a-strait-up-fuel-shock_chart2.png)

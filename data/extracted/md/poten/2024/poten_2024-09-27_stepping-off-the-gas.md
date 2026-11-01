@@ -42,4 +42,15 @@ see which barrels they replace. In any case, product flows in the Atlantic Basin
 
 ![Exhibit 1: US Gulf Gasoline Exports by Destination](../../../charts/poten/2024/poten_2024-09-27_stepping-off-the-gas_chart1.png)
 
+> **Exhibit 1: US Gulf Gasoline Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-21 to Jul-24  
+> Series: Mexico, Colombia, Chile, Japan, Guatemala, Brazil, Peru, Costa Rica, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-09-27_stepping-off-the-gas_chart1.png)
+
 ![Exhibit 2: US Atlantic Coast Gasoline Imports by Origin](../../../charts/poten/2024/poten_2024-09-27_stepping-off-the-gas_chart2.png)
+
+> **Exhibit 2: US Atlantic Coast Gasoline Imports by Origin**  
+> Unit: Kb/d · X-axis: Jan-21 to Jul-24  
+> Series: Canada, Netherlands, India, United Kingdom, Italy, Norway, Belgium, Portugal, Other  
+> *Source: Vortexa / Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-09-27_stepping-off-the-gas_chart2.png)

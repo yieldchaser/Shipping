@@ -40,4 +40,16 @@ The prospects for 2024 and beyond are somewhat uncertain, but generally bullish.
 
 ![Exhibit 1: US Crude Oil Imports by API Gravity](../../../charts/poten/2023/poten_2023-11-10_not-all-crude-is-created-equal_chart1.png)
 
+> **Exhibit 1: US Crude Oil Imports by API Gravity**  
+> Unit: Percentage · X-axis: Jan-1983 to Jan-2023  
+> Series: API Gravity <20, API Gravity 20-25, API Gravity 25-30, API Gravity 30-35, API Gravity 35-40, API Gravity 40-45, API Gravity >45, Unknown  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-11-10_not-all-crude-is-created-equal_chart1.png)
+
 ![Exhibit 2: Seaborne US Crude Imports & Exports Ton-Miles](../../../charts/poten/2023/poten_2023-11-10_not-all-crude-is-created-equal_chart2.png)
+
+> **Exhibit 2: Seaborne US Crude Imports & Exports Ton-Miles**  
+> Unit: Mln Ton-Miles · X-axis: Jan-16 to Sep-23  
+> Series: PADD1 - Imports, PADD3 - Imports, PADD5 - Imports, PADD1 - Exports, PADD3 - Exports, PADD5 - Exports  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-11-10_not-all-crude-is-created-equal_chart2.png)

@@ -34,6 +34,14 @@ While the situation in Gabon remains extremely uncertain and it has been reporte
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: Gabon Crude Exports By Destination](../../../charts/poten/2023/poten_2023-09-01_chaos-in-gabon_chart1.png)
+
+> **Exhibit 1: Gabon Crude Exports By Destination**  
+> Unit: Kb/d · X-axis: Jan-20 to Jul-23  
+> Series: China, Israel, Indonesia, South Korea, Netherlands, India, Australia, Italy, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-09-01_chaos-in-gabon_chart1.png)
+
 ![Exhibit 2: Gabon Crude Exports By Vessel Class](../../../charts/poten/2023/poten_2023-09-01_chaos-in-gabon_chart2.png)
 
 > **Exhibit 2: Gabon Crude Exports By Vessel Class**  

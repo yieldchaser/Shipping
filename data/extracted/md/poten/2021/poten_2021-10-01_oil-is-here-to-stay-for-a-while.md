@@ -40,3 +40,11 @@ If the OPEC projections come to fruition, the tanker market could have a few mor
 > Unit: Mb/d · X-axis: 2019 to 2045  
 > Series: OECD Americas, OECD Europe, OECD Asia Oceania, Latin America, Middle East & Africa, India, China, Other Asia, Russia/Eurasia  
 > [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-10-01_oil-is-here-to-stay-for-a-while_chart1.png)
+
+![Exhibit 2: Inter-Regional Crude & Condensate Exports By Origin](../../../charts/poten/2021/poten_2021-10-01_oil-is-here-to-stay-for-a-while_chart2.png)
+
+> **Exhibit 2: Inter-Regional Crude & Condensate Exports By Origin**  
+> Unit: Mb/d | % · X-axis: 2019 to 2045  
+> Series: US & Canada, Latin America, Africa, Europe, Russia & Caspian, Middle East, Asia-Pacific, Middle East %  
+> *Source: OPEC (World Oil Outlook 2045)*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-10-01_oil-is-here-to-stay-for-a-while_chart2.png)

@@ -43,3 +43,10 @@ In summary, restricting U.S. product exports would likely raise ton-mile demand 
 > Series: Europe, FSU, Asia, Middle East, Africa, Latin America, Australia, North America  
 > *Source: EIA*  
 > *No image crop of this chart was saved; caption read from the PDF.*
+
+![Exhibit 1: Hurricane Impact on Refining and Offshore Crude Production](../../../charts/poten/2022/poten_2022-09-01_calm-before-the-storm_chart1.png)
+
+> **Exhibit 1: Hurricane Impact on Refining and Offshore Crude Production**  
+> Unit: Kb/d · X-axis: Jan-2005 to Jan-2022  
+> Series: Refining: PADD3 Crude Throughput, Offshore Crude Production  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-09-01_calm-before-the-storm_chart1.png)

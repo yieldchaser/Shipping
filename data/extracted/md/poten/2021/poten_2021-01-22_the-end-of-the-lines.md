@@ -45,3 +45,11 @@ The policies of the Biden administration towards the fossil fuel industry and th
 > Series: Production, Forecast  
 > *Source: EIA*  
 > *No image crop of this chart was saved; caption read from the PDF.*
+
+![Exhibit 1: Canada: Crude Oil Exports by Rail](../../../charts/poten/2021/poten_2021-01-22_the-end-of-the-lines_chart1.png)
+
+> **Exhibit 1: Canada: Crude Oil Exports by Rail**  
+> Unit: Kb/d · X-axis: Jan-14 to Sep-20  
+> Series: Exports  
+> *Source: Canada Energy Regulator*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-01-22_the-end-of-the-lines_chart1.png)

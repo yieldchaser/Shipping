@@ -44,4 +44,14 @@ This prediction was right on the mark. VLCCs outperformed the smaller crude tank
 
 ![Exhibit 1: Iranian Crude Oil Exports by Destination](../../../charts/poten/2025/poten_2025-12-19_our-2025-forecast-review_chart1.png)
 
+> **Exhibit 1: Iranian Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-17 to Sep-25  
+> Series: China, India, South Korea, United Arab Emirates, Syria, Turkey, Italy, Japan, Other/Undetermined  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-12-19_our-2025-forecast-review_chart1.png)
+
 ![Exhibit 2: Crude Tanker Spot Rates (Selected Routes, HSFO)](../../../charts/poten/2025/poten_2025-12-19_our-2025-forecast-review_chart2.png)
+
+> **Exhibit 2: Crude Tanker Spot Rates (Selected Routes, HSFO)**  
+> Unit: TCE ($/day) · X-axis: 2016 to 2022-2024  
+> Series: VLCC (AG-FE), Suezmax (WAF-UKC), Aframax (avg 3 routes)  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-12-19_our-2025-forecast-review_chart2.png)

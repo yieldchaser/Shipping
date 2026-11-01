@@ -39,3 +39,11 @@ The impact on the tanker market will generally be positive, in particular if the
 > Series: Other (Laden), Iran (Laden), Russia (Laden), India (Laden), China (Laden), Other (Ballast), Iran (Ballast), Venezuela (Ballast), Russia (Ballast)  
 > *Source: Vortexa*  
 > [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-02-14_the-end-of-the-dark-fleet_chart1.png)
+
+![Exhibit 2: Age Profile Of The Sanctioned Fleet](../../../charts/poten/2025/poten_2025-02-14_the-end-of-the-dark-fleet_chart2.png)
+
+> **Exhibit 2: Age Profile Of The Sanctioned Fleet**  
+> Unit: Dwt · X-axis: Older to 0  
+> Series: VLCC+, Suezmax, Aframax, Smaller  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-02-14_the-end-of-the-dark-fleet_chart2.png)

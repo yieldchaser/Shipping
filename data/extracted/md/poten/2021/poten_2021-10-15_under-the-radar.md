@@ -34,6 +34,13 @@ Japan will remain an important market for crude oil tankers (in particular VLCCs
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: Crude Import Volumes Into Japan](../../../charts/poten/2021/poten_2021-10-15_under-the-radar_chart1.png)
+
+> **Exhibit 1: Crude Import Volumes Into Japan**  
+> Unit: KBbl/day · X-axis: Jan-16 to Oct-21  
+> Series: Saudi Arabia, UAE, Qatar, Oth. M East, Russia (FE), SE Asia, US Gulf, Med., Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-10-15_under-the-radar_chart1.png)
+
 ![Exhibit 2: Japan Crude Oil Imports - Tanker Demand](../../../charts/poten/2021/poten_2021-10-15_under-the-radar_chart2.png)
 
 > **Exhibit 2: Japan Crude Oil Imports - Tanker Demand**  

@@ -38,4 +38,14 @@ and increase their market share, if they thought that would be in their interest
 
 ![Exhibit 1: Saudi Arabia (AG) Crude Oil Exports by Destination](../../../charts/poten/2024/poten_2024-10-25_the-kingdom-has-options_chart1.png)
 
+> **Exhibit 1: Saudi Arabia (AG) Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-20 to Sep-24  
+> Series: China, Japan, South Korea, India, Saudi Arabia, United States, Taiwan, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-10-25_the-kingdom-has-options_chart1.png)
+
 ![Exhibit 2: Saudi Arabia (Red Sea) Crude Oil Exports by Destination](../../../charts/poten/2024/poten_2024-10-25_the-kingdom-has-options_chart2.png)
+
+> **Exhibit 2: Saudi Arabia (Red Sea) Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-20 to Sep-24  
+> Series: Egypt, Saudi Arabia, South Korea, Japan, United States, Canada, Jordan, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-10-25_the-kingdom-has-options_chart2.png)

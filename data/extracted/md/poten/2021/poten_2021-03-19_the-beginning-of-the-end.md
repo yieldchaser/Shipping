@@ -36,4 +36,16 @@ The downstream industry continues to expand East of Suez, where 90% of the new c
 
 ![Exhibit 1: IEA Global Oil Demand](../../../charts/poten/2021/poten_2021-03-19_the-beginning-of-the-end_chart1.png)
 
+> **Exhibit 1: IEA Global Oil Demand**  
+> Unit: Mb/d · X-axis: 2019 World to 2026 World  
+> Series: 2019 World, N America, C & S America, Europe, Eurasia, Africa, Middle East, Asia Pacific, 2020 World, N America, C & S America, Europe, Eurasia, Africa, Middle East, Asia Pacific, 2026 World  
+> *Source: IEA: Oil 2021*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-03-19_the-beginning-of-the-end_chart1.png)
+
 ![Exhibit 2: IEA Global Oil Supply](../../../charts/poten/2021/poten_2021-03-19_the-beginning-of-the-end_chart2.png)
+
+> **Exhibit 2: IEA Global Oil Supply**  
+> Unit: Mb/d · X-axis: 2019 World to 2026 World  
+> Series: 2019 World, US, OPEC+, Others, 2020 World, US, Brazil, Canada, Guyana, Russia, Saudi, UAE, Iraq, Kuwait, Others, 2026 World  
+> *Source: IEA: Oil 2021*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-03-19_the-beginning-of-the-end_chart2.png)

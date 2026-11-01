@@ -42,6 +42,13 @@ So, our forecasting record for 2024 was a mixed bag. We nailed two predictions b
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: Crude Tanker Ordering](../../../charts/poten/2024/poten_2024-12-20_our-2024-forecast-review_chart1.png)
+
+> **Exhibit 1: Crude Tanker Ordering**  
+> Unit: M Dwt · X-axis: 2015 to 2024  
+> Series: VLCC, Suezmax, Aframax, Panamax  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-12-20_our-2024-forecast-review_chart1.png)
+
 ![Exhibit 2: OPEC+ Crude Exports by Origin](../../../charts/poten/2024/poten_2024-12-20_our-2024-forecast-review_chart2.png)
 
 > **Exhibit 2: OPEC+ Crude Exports by Origin**  

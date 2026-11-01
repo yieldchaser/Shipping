@@ -41,3 +41,11 @@ In theory, the tanker market should benefit from the increased output of the OPE
 > Series: Saudi Arabia, Russia (Excl CPC Blend), Iraq, United Arab Emirates, Kuwait, Kazakhstan (incl CPC Blend), Oman, Algeria  
 > *Source: Vortexa*  
 > [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-04-04_opec-springs-a-surprise_chart1.png)
+
+![Exhibit 2: Seaborne Crude Oil Exports From OPEC-8 By Vessel Class](../../../charts/poten/2025/poten_2025-04-04_opec-springs-a-surprise_chart2.png)
+
+> **Exhibit 2: Seaborne Crude Oil Exports From OPEC-8 By Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-18 to Jan-25  
+> Series: VLCC, Suezmax, Aframax/LR2, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-04-04_opec-springs-a-surprise_chart2.png)

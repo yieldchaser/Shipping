@@ -34,6 +34,13 @@ In the highly competitive oil transportation market, a tanker that is subject to
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: Number of Tanker Voyages Loading or Discharging in the United States in 2024](../../../charts/poten/2025/poten_2025-02-28_chinese-shipping-in-the-crosshairs_chart1.png)
+
+> **Exhibit 1: Number of Tanker Voyages Loading or Discharging in the United States in 2024**  
+> Unit: Number of Voyages · X-axis: VLCC to Smaller  
+> Series: Loading, Discharging  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-02-28_chinese-shipping-in-the-crosshairs_chart1.png)
+
 ![Exhibit 2: Trading Tanker Fleet By Built Country](../../../charts/poten/2025/poten_2025-02-28_chinese-shipping-in-the-crosshairs_chart2.png)
 
 > **Exhibit 2: Trading Tanker Fleet By Built Country**  

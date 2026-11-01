@@ -32,6 +32,18 @@ The market shows eye-popping numbers for secondhand tonnage, but based on curren
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Price Is Right](../../../charts/poten/2026/poten_2026-10-16_the-price-is-right_chart1.png)
+![Exhibit 1: VLCC Rates AG-FE (TCE $/day)](../../../charts/poten/2026/poten_2026-10-16_the-price-is-right_chart1.png)
 
-![Exhibit 2: The Price Is Right](../../../charts/poten/2026/poten_2026-10-16_the-price-is-right_chart2.png)
+> **Exhibit 1: VLCC Rates AG-FE (TCE $/day)**  
+> Unit: $/day · X-axis: Jan-08 to Jan-26  
+> Series: VLCC Rates AG-FE  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-10-16_the-price-is-right_chart1.png)
+
+![Exhibit 2: VLCC Prices (US$ Million)](../../../charts/poten/2026/poten_2026-10-16_the-price-is-right_chart2.png)
+
+> **Exhibit 2: VLCC Prices (US$ Million)**  
+> Unit: US$ Million · X-axis: Jan-2008 to Jan-2026  
+> Series: Newbuilding Contract, Newbuilding Resale, Secondhand 5-Yr Old, Secondhand 10-Yr Old, Secondhand 15-Yr Old  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-10-16_the-price-is-right_chart2.png)

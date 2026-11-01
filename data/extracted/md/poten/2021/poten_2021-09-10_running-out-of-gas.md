@@ -40,3 +40,11 @@ Going forward, it appears South Africa will closely resemble other countries (su
 > Unit: Kb/day · X-axis: Jan-16 to Oct-21  
 > Series: S. Arabia, UAE, Oth. ME, Angola, Nigeria, Oth. WAFR, Americas, Atl., Med, Other  
 > [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-09-10_running-out-of-gas_chart1.png)
+
+![Exhibit 2: Crude Imports/Exports Saldanha Bay](../../../charts/poten/2021/poten_2021-09-10_running-out-of-gas_chart2.png)
+
+> **Exhibit 2: Crude Imports/Exports Saldanha Bay**  
+> Unit: Kb/d · X-axis: 1/1/2015 to 7/1/2021  
+> Series: Imports, Exports  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-09-10_running-out-of-gas_chart2.png)

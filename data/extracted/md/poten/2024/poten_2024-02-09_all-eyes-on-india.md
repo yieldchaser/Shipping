@@ -36,6 +36,13 @@ Stable refined product exports and increasing crude oil imports will enhance Ind
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: India Clean Product Exports by Vessel Class](../../../charts/poten/2024/poten_2024-02-09_all-eyes-on-india_chart1.png)
+
+> **Exhibit 1: India Clean Product Exports by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-21 to Jan-24  
+> Series: LR2, LR1, MR, Handysize, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-02-09_all-eyes-on-india_chart1.png)
+
 ![Exhibit 2: India Crude Oil Imports by Vessel Class](../../../charts/poten/2024/poten_2024-02-09_all-eyes-on-india_chart2.png)
 
 > **Exhibit 2: India Crude Oil Imports by Vessel Class**  

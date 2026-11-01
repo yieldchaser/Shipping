@@ -36,4 +36,16 @@ It is too early to draw any major conclusion from these new measures. The expans
 
 ![Exhibit 1: Crude (excl CPC & Kazakh blends) Exports From Russia To India By Discharge Port](../../../charts/poten/2025/poten_2025-07-18_try-try-try-and-try-again_chart1.png)
 
+> **Exhibit 1: Crude (excl CPC & Kazakh blends) Exports From Russia To India By Discharge Port**  
+> Unit: Kb/d · X-axis: Jan-20 to Apr-25  
+> Series: Sikka [IN], Vadinar [IN], Mundra [IN], Cochin (Kochi) [IN], Paradip [IN], New Mangalore [IN], Vizag (Visakhapatnam) [IN], Mumbai [IN], Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-07-18_try-try-try-and-try-again_chart1.png)
+
 ![Exhibit 2: Indian Product Exports to the EU By Load Port](../../../charts/poten/2025/poten_2025-07-18_try-try-try-and-try-again_chart2.png)
+
+> **Exhibit 2: Indian Product Exports to the EU By Load Port**  
+> Unit: Kb/d · X-axis: Jan-20 to Apr-25  
+> Series: Sikka [IN], Vadinar [IN], New Mangalore [IN], Kandla [IN], Mumbai [IN], Jaigarh [IN], Hazira (Magdalla) [IN], Karwar [IN], Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-07-18_try-try-try-and-try-again_chart2.png)

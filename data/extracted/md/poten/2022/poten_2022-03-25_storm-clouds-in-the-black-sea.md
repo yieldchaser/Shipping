@@ -42,4 +42,16 @@ So, what are the potential implications for the tanker market? Most of the expor
 
 ![Exhibit 1: Crude Exports from Novorossiysk CPC By Destination](../../../charts/poten/2022/poten_2022-03-25_storm-clouds-in-the-black-sea_chart1.png)
 
+> **Exhibit 1: Crude Exports from Novorossiysk CPC By Destination**  
+> Unit: Kbbl / day · X-axis: Jan-17 to Jan-22  
+> Series: Italy, France, Turkey, Oth. Med, Asia, Netherlands, Oth NW Europe, Other  
+> *Source: Lloyd's List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-03-25_storm-clouds-in-the-black-sea_chart1.png)
+
 ![Exhibit 2: Freight Rates: Black Sea - Mediterranean](../../../charts/poten/2022/poten_2022-03-25_storm-clouds-in-the-black-sea_chart2.png)
+
+> **Exhibit 2: Freight Rates: Black Sea - Mediterranean**  
+> Unit: $/day (VLSFO) · X-axis: 3-Jan-22 to 21-Mar-22  
+> Series: Suezmax 135,000, Aframax 80,000  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-03-25_storm-clouds-in-the-black-sea_chart2.png)

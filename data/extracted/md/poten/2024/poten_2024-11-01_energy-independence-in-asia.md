@@ -38,6 +38,14 @@ If Vietnam builds up its refining capacity, it will require more crude oil impor
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: Vietnam: Crude Oil Imports by Origin](../../../charts/poten/2024/poten_2024-11-01_energy-independence-in-asia_chart1.png)
+
+> **Exhibit 1: Vietnam: Crude Oil Imports by Origin**  
+> Unit: KB/d · X-axis: Jan-21 to Sep-24  
+> Series: Kuwait, Libya, Azerbaijan, Nigeria, United States, Iran, Angola, Brazil, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-11-01_energy-independence-in-asia_chart1.png)
+
 ![Exhibit 2: Vietnam: Clean Product Imports by Origin](../../../charts/poten/2024/poten_2024-11-01_energy-independence-in-asia_chart2.png)
 
 > **Exhibit 2: Vietnam: Clean Product Imports by Origin**  

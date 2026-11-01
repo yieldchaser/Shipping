@@ -38,6 +38,14 @@ hoping for.
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: Change in Value of Oil Exports By OPEC Countries](../../../charts/poten/2018/poten_2018-06-08_will-opec-cut-a-deal_chart1.png)
+
+> **Exhibit 1: Change in Value of Oil Exports By OPEC Countries**  
+> Unit: Bn USD · X-axis: Algeria to Venezuela  
+> Series: 2014, 2015, 2016, 2017  
+> *Source: OPEC*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-06-08_will-opec-cut-a-deal_chart1.png)
+
 ![Exhibit 2: Ton-Mile Demand Related to OPEC Crude Exports](../../../charts/poten/2018/poten_2018-06-08_will-opec-cut-a-deal_chart2.png)
 
 > **Exhibit 2: Ton-Mile Demand Related to OPEC Crude Exports**  

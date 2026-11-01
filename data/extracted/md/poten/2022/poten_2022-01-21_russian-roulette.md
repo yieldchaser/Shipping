@@ -40,4 +40,16 @@ Even though a conflict may still be averted, the geopolitical tension between so
 
 ![Exhibit 1: Russian Seaborne Crude Oil Exports by Load Area](../../../charts/poten/2022/poten_2022-01-21_russian-roulette_chart1.png)
 
+> **Exhibit 1: Russian Seaborne Crude Oil Exports by Load Area**  
+> Unit: Kb/d · X-axis: Jan-16 to Oct-21  
+> Series: Black Sea, Far East, Baltic  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-01-21_russian-roulette_chart1.png)
+
 ![Exhibit 2: Seaborne Russian Crude Oil Exports By Destination](../../../charts/poten/2022/poten_2022-01-21_russian-roulette_chart2.png)
+
+> **Exhibit 2: Seaborne Russian Crude Oil Exports By Destination**  
+> Unit: Kbbl / Day · X-axis: Jan-16 to Oct-21  
+> Series: China, Korea, Other Asia, UKC/Baltic, Mediterranean, Americas. Atlantic, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-01-21_russian-roulette_chart2.png)

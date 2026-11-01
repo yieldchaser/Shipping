@@ -32,6 +32,13 @@ The key question is: What will happen if, at some point in the future, sanctions
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: Tanker Fleet Removal History](../../../charts/poten/2025/poten_2025-06-27_from-scrapping-to-recycling_chart1.png)
+
+> **Exhibit 1: Tanker Fleet Removal History**  
+> Unit: M Dwt · X-axis: 2002 to 2025  
+> Series: VLCC, Suezmax, Aframax, Panamax, MR, Handy  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-06-27_from-scrapping-to-recycling_chart1.png)
+
 ![Exhibit 2: Tanker Recycling Prices](../../../charts/poten/2025/poten_2025-06-27_from-scrapping-to-recycling_chart2.png)
 
 > **Exhibit 2: Tanker Recycling Prices**  

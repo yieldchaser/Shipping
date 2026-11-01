@@ -38,4 +38,16 @@ We are only in January and President Trump is not even in office yet. It is time
 
 ![Exhibit 1: Sanctioned Tankers Involved in Russia Trades](../../../charts/poten/2025/poten_2025-01-17_navigating-uncertainty_chart1.png)
 
+> **Exhibit 1: Sanctioned Tankers Involved in Russia Trades**  
+> Unit: Number of Tankers · X-axis: 12-Oct-23 to 10-Jan-25  
+> Series: US Sanctions, UK Sanctions, EU Sanctions, Total Sanctioned  
+> *Source: US Treasury dept., UK Treasury, EU; Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-01-17_navigating-uncertainty_chart1.png)
+
 ![Exhibit 2: Dirty Routes Freight Rates (HFO)](../../../charts/poten/2025/poten_2025-01-17_navigating-uncertainty_chart2.png)
+
+> **Exhibit 2: Dirty Routes Freight Rates (HFO)**  
+> Unit: TCE (US$/day) · X-axis: 2-Sep-24 to 13-Jan-25  
+> Series: VLCC (270 KT, AG-FE), Suezmax (130Kt, WAF-UKC)  
+> *Source: US Treasury dept., UK Treasury, EU; Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-01-17_navigating-uncertainty_chart2.png)

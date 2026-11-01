@@ -38,4 +38,15 @@ Looking ahead, it appears that a continued recovery in U.S. oil demand will like
 
 ![Exhibit 1: Seaborne Crude Imports Into US Gulf & USAC](../../../charts/poten/2021/poten_2021-08-06_stranger-things_chart1.png)
 
+> **Exhibit 1: Seaborne Crude Imports Into US Gulf & USAC**  
+> Unit: KB/Day · X-axis: Jan-16 to Oct-21  
+> Series: Mexico, Colombia, Oth. Americas Atl, Middle East, WAF, Med., UKC/Balt., Americas Pac., Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-08-06_stranger-things_chart1.png)
+
 ![Exhibit 2: Seaborne Crude Imports Into US West Coast](../../../charts/poten/2021/poten_2021-08-06_stranger-things_chart2.png)
+
+> **Exhibit 2: Seaborne Crude Imports Into US West Coast**  
+> Unit: KB/Day · X-axis: Jan-16 to Oct-21  
+> Series: US WC, Canada (Pac), C. Am. Pac, Middle East, WAF, Asia/Aus., Americas Atl., Med, Other  
+> *Source: Lloyd’s List Intelligence; Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-08-06_stranger-things_chart2.png)

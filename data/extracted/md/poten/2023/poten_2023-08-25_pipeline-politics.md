@@ -36,6 +36,13 @@ Turkey and Iraq are still negotiating and it is not clear when the flows will re
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: Iraq Crude Exports Via Ceyhan By Destination](../../../charts/poten/2023/poten_2023-08-25_pipeline-politics_chart1.png)
+
+> **Exhibit 1: Iraq Crude Exports Via Ceyhan By Destination**  
+> Unit: Kb/d · X-axis: Jan-20 to Jul-23  
+> Series: Italy, Greece, Croatia, Turkey, Israel, China, Spain, Romania, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-08-25_pipeline-politics_chart1.png)
+
 ![Exhibit 2: Iraq Crude Exports Via Ceyhan By Vessel Class](../../../charts/poten/2023/poten_2023-08-25_pipeline-politics_chart2.png)
 
 > **Exhibit 2: Iraq Crude Exports Via Ceyhan By Vessel Class**  

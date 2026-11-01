@@ -34,6 +34,12 @@ For the tanker market, U.S. crude oil exports will remain an important source of
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: Change in U.S Crude Oil Production (Compared To Prior Year)](../../../charts/poten/2025/poten_2025-05-23_the-end-of-an-era_chart1.png)
+
+> **Exhibit 1: Change in U.S Crude Oil Production (Compared To Prior Year)**  
+> Unit: Mb/d · X-axis: 1-Jan-21 to 1-Oct-26  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-05-23_the-end-of-an-era_chart1.png)
+
 ![Exhibit 2: US Gulf Crude Exports by Destination](../../../charts/poten/2025/poten_2025-05-23_the-end-of-an-era_chart2.png)
 
 > **Exhibit 2: US Gulf Crude Exports by Destination**  

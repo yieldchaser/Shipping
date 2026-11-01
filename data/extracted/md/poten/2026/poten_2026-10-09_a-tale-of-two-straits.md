@@ -36,10 +36,17 @@ The situation in the Strait of Hormuz will likely continue to ebb and flow until
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: A Tale Of Two Straits](../../../charts/poten/2026/poten_2026-10-09_a-tale-of-two-straits_chart1.png)
+![Exhibit 1: Seaborne Middle East Exports by Origin](../../../charts/poten/2026/poten_2026-10-09_a-tale-of-two-straits_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2026/poten_2026-10-09_a-tale-of-two-straits_chart1.png)
+> **Exhibit 1: Seaborne Middle East Exports by Origin**  
+> Unit: Kb/d · X-axis: Jan-20 to Jul-26  
+> Series: Saudi Arabia, Iraq, United Arab Emirates, Kuwait, Iran, Qatar  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-10-09_a-tale-of-two-straits_chart1.png)
 
-![Exhibit 2: A Tale Of Two Straits](../../../charts/poten/2026/poten_2026-10-09_a-tale-of-two-straits_chart2.png)
+![Exhibit 2: Iranian Crude Oil Exports by Destination](../../../charts/poten/2026/poten_2026-10-09_a-tale-of-two-straits_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2026/poten_2026-10-09_a-tale-of-two-straits_chart2.png)
+> **Exhibit 2: Iranian Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-20 to Oct-26  
+> Series: China, India, South Korea, United Arab Emirates, Syria, Turkey, Japan, Italy, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-10-09_a-tale-of-two-straits_chart2.png)

@@ -46,4 +46,16 @@ As the above illustrates, demand prospects for aviation fuel look positive for t
 
 ![Exhibit 1: Global Jet Fuel & Kerosene Demand](../../../charts/poten/2024/poten_2024-04-19_jet-fuel-taking-off_chart1.png)
 
+> **Exhibit 1: Global Jet Fuel & Kerosene Demand**  
+> Unit: Mb/d · X-axis: 2015 to 2025  
+> Series: OECD, Non OECD (Excl China), China  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-04-19_jet-fuel-taking-off_chart1.png)
+
 ![Exhibit 2: Global Jet Fuel / Kerosene Trade By Origin](../../../charts/poten/2024/poten_2024-04-19_jet-fuel-taking-off_chart2.png)
+
+> **Exhibit 2: Global Jet Fuel / Kerosene Trade By Origin**  
+> Unit: KB/d · X-axis: Jan-18 to Jan-24  
+> Series: South Korea, Kuwait, India, China, United States, Saudi Arabia, United Arab Emirates, Singapore, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-04-19_jet-fuel-taking-off_chart2.png)

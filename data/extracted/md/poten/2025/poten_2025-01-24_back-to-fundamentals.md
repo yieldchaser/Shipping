@@ -32,6 +32,13 @@ Overall, based on global oil demand and supply fundamentals, the 2025 outlook fo
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: Forecast Oil Demand Developments in 2025](../../../charts/poten/2025/poten_2025-01-24_back-to-fundamentals_chart1.png)
+
+> **Exhibit 1: Forecast Oil Demand Developments in 2025**  
+> Unit: Mb/d · X-axis: North America to World  
+> Series: EIA, IEA  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-01-24_back-to-fundamentals_chart1.png)
+
 ![Exhibit 2: Forecast Oil Supply Developments in 2025](../../../charts/poten/2025/poten_2025-01-24_back-to-fundamentals_chart2.png)
 
 > **Exhibit 2: Forecast Oil Supply Developments in 2025**  

@@ -42,6 +42,14 @@ Crude oil and product exports from Saudi Arabia have experienced significant cha
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: Crude Exports from Saudi Arabia By Destination](../../../charts/poten/2021/poten_2021-12-10_saudi-arabia-the-kingdom-of-oil_chart1.png)
+
+> **Exhibit 1: Crude Exports from Saudi Arabia By Destination**  
+> Unit: Kbbl / day · X-axis: Jan-16 to Oct-21  
+> Series: China, Japan, Korea, Korea, Oth. Asia, Americas, Atl., Middle East, Other, Saudi Production (EIA)  
+> *Source: Lloyd’s List Intelligence, EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-12-10_saudi-arabia-the-kingdom-of-oil_chart1.png)
+
 ![Exhibit 2: Petroleum Product Exports By: Saudi Arabia](../../../charts/poten/2021/poten_2021-12-10_saudi-arabia-the-kingdom-of-oil_chart2.png)
 
 > **Exhibit 2: Petroleum Product Exports By: Saudi Arabia**  

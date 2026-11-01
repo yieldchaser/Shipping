@@ -38,4 +38,14 @@ Indian refiners were able to benefit from discounted crude prices while selling 
 
 ![Exhibit 1: India Crude Oil Imports by Origin](../../../charts/poten/2025/poten_2025-08-15_indias-catch-22_chart1.png)
 
+> **Exhibit 1: India Crude Oil Imports by Origin**  
+> Unit: Kb/d · X-axis: Jan-17 to May-25  
+> Series: Russia, Iraq, Saudi Arabia, United Arab Emirates, Nigeria, United States, Kuwait, Venezuela, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-08-15_indias-catch-22_chart1.png)
+
 ![Exhibit 2: India Clean Products Exports by Destination](../../../charts/poten/2025/poten_2025-08-15_indias-catch-22_chart2.png)
+
+> **Exhibit 2: India Clean Products Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-17 to Jul-24  
+> Series: Northwest Europe, Mediterranean, Southeast Asia, Middle East Gulf, Northeast Asia, East and South Africa, US Atlantic Coast, West Africa, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-08-15_indias-catch-22_chart2.png)

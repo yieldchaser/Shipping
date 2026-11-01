@@ -36,4 +36,15 @@ The booming crude oil and refined product exports from the U.S. have benefited a
 
 ![Exhibit 1: Weekly Seaborne Crude Exports From The United States](../../../charts/poten/2026/poten_2026-04-17_energy-dominance-in-action_chart1.png)
 
+> **Exhibit 1: Weekly Seaborne Crude Exports From The United States**  
+> Unit: Kb/d · X-axis: 30-Dec-24 to 20-Apr-26  
+> Series: Europe, Asia, North America, South America, Africa, Oceania, Other, Asia (Future), Undetermined (Future)  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-04-17_energy-dominance-in-action_chart1.png)
+
 ![Exhibit 2: Weekly Seaborne Clean Product Exports (excl LPG, Chem, Lubes) From The United States](../../../charts/poten/2026/poten_2026-04-17_energy-dominance-in-action_chart2.png)
+
+> **Exhibit 2: Weekly Seaborne Clean Product Exports (excl LPG, Chem, Lubes) From The United States**  
+> Unit: Kb/d · X-axis: 30-Dec-24 to 20-Apr-26  
+> Series: Central America, South America, Europe, Asia, Caribbean, Africa, Other, Total Future Exports  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-04-17_energy-dominance-in-action_chart2.png)

@@ -36,4 +36,15 @@ So, what’s next for the VLCC market? Opinions differ. Some people look at the 
 
 ![Exhibit 1: VLCC Rates AG-FE (TCE $/day)](../../../charts/poten/2026/poten_2026-09-11_a-tanker-market-on-steroids-will-it-last_chart1.png)
 
+> **Exhibit 1: VLCC Rates AG-FE (TCE $/day)**  
+> Unit: TCE $/day · X-axis: Jan-08 to Sep-26  
+> Series: VLCC Rates AG-FE  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-09-11_a-tanker-market-on-steroids-will-it-last_chart1.png)
+
 ![Exhibit 2: VLCC Fleet Age Profile and Orderbook](../../../charts/poten/2026/poten_2026-09-11_a-tanker-market-on-steroids-will-it-last_chart2.png)
+
+> **Exhibit 2: VLCC Fleet Age Profile and Orderbook**  
+> Unit: Number of vessels · X-axis: 1990 to 2030  
+> Series: Trading, On Order  
+> *Source: Poten, Lloyds List Intelligence, Signal Ocean*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-09-11_a-tanker-market-on-steroids-will-it-last_chart2.png)

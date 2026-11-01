@@ -40,4 +40,15 @@ If the changes in import patterns will become permanent, this will add significa
 
 ![Exhibit 1: Pakistan: Seaborne Crude Oil Imports by Origin](../../../charts/poten/2025/poten_2025-09-26_pakistans-promise_chart1.png)
 
+> **Exhibit 1: Pakistan: Seaborne Crude Oil Imports by Origin**  
+> Unit: Kb/d · X-axis: Jan-16 to May-25  
+> Series: Saudi Arabia, United Arab Emirates, Kuwait, Russia, Qatar, South Korea, Oman, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-09-26_pakistans-promise_chart1.png)
+
 ![Exhibit 2: Pakistan: Seaborne Crude Oil Imports by Vessel Class](../../../charts/poten/2025/poten_2025-09-26_pakistans-promise_chart2.png)
+
+> **Exhibit 2: Pakistan: Seaborne Crude Oil Imports by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-16 to May-25  
+> Series: VLCC+, Suezmax / LR3, Aframax / LR2, Smaller  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-09-26_pakistans-promise_chart2.png)

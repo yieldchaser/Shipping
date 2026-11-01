@@ -38,4 +38,16 @@ A close review of the exports from Venezuela in recent years and months (Chart 2
 
 ![Exhibit 1: Long term Oil Production of Major Producers](../../../charts/poten/2020/poten_2020-06-19_over-a-barrel_chart1.png)
 
+> **Exhibit 1: Long term Oil Production of Major Producers**  
+> Unit: Mb/d · X-axis: 1965 to 2019  
+> Series: Venezuela, US, Total CIS, Saudi Arabia  
+> *Source: BP Statistical Review 2020*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-06-19_over-a-barrel_chart1.png)
+
 ![Exhibit 2: Venezuela Crude Oil Exports](../../../charts/poten/2020/poten_2020-06-19_over-a-barrel_chart2.png)
+
+> **Exhibit 2: Venezuela Crude Oil Exports**  
+> Unit: Kb/d · X-axis: Jan-14 to Apr-20  
+> Series: USA, China, India, S Europe, NW Europe, Other  
+> *Source: Lloyds List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-06-19_over-a-barrel_chart2.png)

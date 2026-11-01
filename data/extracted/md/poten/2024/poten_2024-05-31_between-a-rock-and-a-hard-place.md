@@ -36,4 +36,15 @@ So, how does all this impact the tanker market? The many variables and uncertain
 
 ![Exhibit 1: OPEC Crude Export by Vessel Class](../../../charts/poten/2024/poten_2024-05-31_between-a-rock-and-a-hard-place_chart1.png)
 
+> **Exhibit 1: OPEC Crude Export by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-16 to Jan-24  
+> Series: VLCC, Suezmax, Aframax/LR2, Panamax/LR1, Smaller  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-05-31_between-a-rock-and-a-hard-place_chart1.png)
+
 ![Exhibit 2: Seaborne PLUS Countries Crude Exports by Vessel Class](../../../charts/poten/2024/poten_2024-05-31_between-a-rock-and-a-hard-place_chart2.png)
+
+> **Exhibit 2: Seaborne PLUS Countries Crude Exports by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-16 to Jan-24  
+> Series: VLCC, Suezmax, Aframax/LR2, Panamax/LR1, Smaller  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-05-31_between-a-rock-and-a-hard-place_chart2.png)

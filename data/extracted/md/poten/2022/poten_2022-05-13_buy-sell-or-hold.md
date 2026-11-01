@@ -38,4 +38,15 @@ Because of the low earnings, high prices and the uncertainty around the fuels of
 
 ![Exhibit 1: World Orderbook](../../../charts/poten/2022/poten_2022-05-13_buy-sell-or-hold_chart1.png)
 
+> **Exhibit 1: World Orderbook**  
+> Unit: Gross Tons · X-axis: 2014 to 2022ytd  
+> Series: Oil/Chem Tankers, Bulkers, LNG Tankers, LPG Tankers, Container Ships, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-05-13_buy-sell-or-hold_chart1.png)
+
 ![Exhibit 2: Tanker Newbuilding Prices](../../../charts/poten/2022/poten_2022-05-13_buy-sell-or-hold_chart2.png)
+
+> **Exhibit 2: Tanker Newbuilding Prices**  
+> Unit: Mln USD · X-axis: Jan-09 to Jan-22  
+> Series: VLCC, Suezmax, Aframax, LR2, LR1, MR  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-05-13_buy-sell-or-hold_chart2.png)

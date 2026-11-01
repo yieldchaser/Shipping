@@ -45,3 +45,11 @@ Replacing condensate barrels from the Atlantic with volumes from Iran will not, 
 > Series: OPEC: Other Liquids Production  
 > *Source: DOE Energy Information Administration*  
 > [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-06-25_the-light-end-of-the-barrel-1_chart1.png)
+
+![Exhibit 2: 2020 / 2021 Condensate Spot Fixtures By Vessel Class](../../../charts/poten/2021/poten_2021-06-25_the-light-end-of-the-barrel-1_chart2.png)
+
+> **Exhibit 2: 2020 / 2021 Condensate Spot Fixtures By Vessel Class**  
+> Unit: % · X-axis: Vessel Class  
+> Series: Handymax, Small, Suezmax, Panamax, Aframax  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-06-25_the-light-end-of-the-barrel-1_chart2.png)

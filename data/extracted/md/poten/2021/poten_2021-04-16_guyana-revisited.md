@@ -38,4 +38,16 @@ Suezmaxes have been the main beneficiaries of Guyana’s nascent crude oil expor
 
 ![Exhibit 1: Crude Oil Exports from Guyana By Destination](../../../charts/poten/2021/poten_2021-04-16_guyana-revisited_chart1.png)
 
+> **Exhibit 1: Crude Oil Exports from Guyana By Destination**  
+> Unit: Barrels Per Day · X-axis: Jan-20 to Mar-21  
+> Series: Panama, USA, Virgin Islands, Other Caribbean, China, India, UKC, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-04-16_guyana-revisited_chart1.png)
+
 ![Exhibit 2: Crude Oil Exports From Guyana By Vessel Class](../../../charts/poten/2021/poten_2021-04-16_guyana-revisited_chart2.png)
+
+> **Exhibit 2: Crude Oil Exports From Guyana By Vessel Class**  
+> Unit: Barrels Per Day · X-axis: Jan-20 to Mar-21  
+> Series: Aframax, Suezmax, VLCC  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-04-16_guyana-revisited_chart2.png)

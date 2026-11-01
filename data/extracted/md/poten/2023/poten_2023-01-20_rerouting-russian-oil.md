@@ -40,3 +40,10 @@ The overall impact on the tanker market has been positive with longer voyages dr
 > Unit: Kbbl / Day · X-axis: Jan-17 to Oct-22  
 > Series: China, India, Other Asia, UKC/Baltic, Turkey, Oth. Med, Other  
 > [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-01-20_rerouting-russian-oil_chart1.png)
+
+![Exhibit 2: Ton Mile Demand From Russian Crude Oil Exports by Vessel Class](../../../charts/poten/2023/poten_2023-01-20_rerouting-russian-oil_chart2.png)
+
+> **Exhibit 2: Ton Mile Demand From Russian Crude Oil Exports by Vessel Class**  
+> Unit: Mln TM/day · X-axis: Jan-15 to Oct-22  
+> Series: Suezmax, Aframax, Smaller  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-01-20_rerouting-russian-oil_chart2.png)

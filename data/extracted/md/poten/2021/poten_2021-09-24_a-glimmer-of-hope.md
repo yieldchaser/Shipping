@@ -42,4 +42,16 @@ What does all this mean for the tanker market in the next six months or so? We e
 
 ![Exhibit 1: US Crude Oil Production](../../../charts/poten/2021/poten_2021-09-24_a-glimmer-of-hope_chart1.png)
 
+> **Exhibit 1: US Crude Oil Production**  
+> Unit: Kb/day · X-axis: Jan-19 to Sep-21  
+> Series: US Crude Oil Production  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-09-24_a-glimmer-of-hope_chart1.png)
+
 ![Exhibit 2: Regional Electricity Generation By Fuel (2020)](../../../charts/poten/2021/poten_2021-09-24_a-glimmer-of-hope_chart2.png)
+
+> **Exhibit 2: Regional Electricity Generation By Fuel (2020)**  
+> Unit: % · X-axis: North America to Asia Pacific  
+> Series: Oil, Natural Gas, Coal, Nuclear energy, Hydro electric, Renewables, Other  
+> *Source: BP*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-09-24_a-glimmer-of-hope_chart2.png)

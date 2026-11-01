@@ -36,6 +36,14 @@ Mexico’s targets are highly ambitious, and it remains to be seen what can be a
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: Crude Oil Exports from Mexico](../../../charts/poten/2022/poten_2022-01-14_mexico-dreams-of-energy-independence_chart1.png)
+
+> **Exhibit 1: Crude Oil Exports from Mexico**  
+> Unit: Kbbl / Day · X-axis: Jan-16 to Oct-21  
+> Series: US Gulf, Other Americas Atl, South Asia, Korea, Other Asia, Mediterranean, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-01-14_mexico-dreams-of-energy-independence_chart1.png)
+
 ![Exhibit 2: Petroleum Product Imports By Mexico](../../../charts/poten/2022/poten_2022-01-14_mexico-dreams-of-energy-independence_chart2.png)
 
 > **Exhibit 2: Petroleum Product Imports By Mexico**  

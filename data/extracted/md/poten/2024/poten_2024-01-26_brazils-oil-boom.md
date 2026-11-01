@@ -36,6 +36,14 @@ The future of Brazilian production and exports is bright. Based on recent trends
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: Brazil Crude Oil Exports by Destination](../../../charts/poten/2024/poten_2024-01-26_brazils-oil-boom_chart1.png)
+
+> **Exhibit 1: Brazil Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-21 to Nov-23  
+> Series: China, United States, Chile, Spain, Singapore, Netherlands, Portugal, India, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-01-26_brazils-oil-boom_chart1.png)
+
 ![Exhibit 2: Brazil Crude Exports by Vessel Class](../../../charts/poten/2024/poten_2024-01-26_brazils-oil-boom_chart2.png)
 
 > **Exhibit 2: Brazil Crude Exports by Vessel Class**  

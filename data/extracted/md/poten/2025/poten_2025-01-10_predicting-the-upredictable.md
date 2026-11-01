@@ -46,4 +46,14 @@ Prior to the Russian invasion of Ukraine in 2022, the relative earnings of the v
 
 ![Exhibit 1: Iranian Crude Oil Exports by Destination](../../../charts/poten/2025/poten_2025-01-10_predicting-the-upredictable_chart1.png)
 
+> **Exhibit 1: Iranian Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-17 to Oct-24  
+> Series: China, India, United Arab Emirates, South Korea, Syria, Turkey, Italy, Japan, Other/Undetermined  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-01-10_predicting-the-upredictable_chart1.png)
+
 ![Exhibit 2: Crude Tanker Spot Rates (Selected Routes, HSFO)](../../../charts/poten/2025/poten_2025-01-10_predicting-the-upredictable_chart2.png)
+
+> **Exhibit 2: Crude Tanker Spot Rates (Selected Routes, HSFO)**  
+> Unit: TCE ($/day) · X-axis: 2016 to 2022-2024  
+> Series: VLCC (AG-FE), Suezmax (WAF-UKC), Aframax (avg 3 routes)  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-01-10_predicting-the-upredictable_chart2.png)

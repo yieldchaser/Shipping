@@ -40,6 +40,14 @@ Based on recent experience, more crude oil exports from West Africa will mostly 
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: W Africa Crude Oil Exports by Destination](../../../charts/poten/2024/poten_2024-05-03_another-african-powerhouse_chart1.png)
+
+> **Exhibit 1: W Africa Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-20 to Mar-24  
+> Series: China, India, Spain, Netherlands, France, United States, Indonesia, Italy, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-05-03_another-african-powerhouse_chart1.png)
+
 ![Exhibit 2: Crude Exports from W Africa by Vessel Class](../../../charts/poten/2024/poten_2024-05-03_another-african-powerhouse_chart2.png)
 
 > **Exhibit 2: Crude Exports from W Africa by Vessel Class**  

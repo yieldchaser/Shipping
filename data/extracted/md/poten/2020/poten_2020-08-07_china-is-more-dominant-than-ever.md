@@ -44,6 +44,24 @@ For the health of the VLCC market going forward it is critical that China’s ec
 
 ![Exhibit 1: 2020 VLCC Export Volumes from the Middle East](../../../charts/poten/2020/poten_2020-08-07_china-is-more-dominant-than-ever_chart1.png)
 
+> **Exhibit 1: 2020 VLCC Export Volumes from the Middle East**  
+> Unit: Number Of Voyages · X-axis: Jan to Dec  
+> Series: 2019, China, Korea, Taiwan, India, Singapore, Other Asia, UKC/Baltic, Other  
+> *Source: Lloyds List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-08-07_china-is-more-dominant-than-ever_chart1.png)
+
 ![Exhibit 2: 2020 VLCC Export Voyages from the US Gulf](../../../charts/poten/2020/poten_2020-08-07_china-is-more-dominant-than-ever_chart2.png)
 
+> **Exhibit 2: 2020 VLCC Export Voyages from the US Gulf**  
+> Unit: Number Of Voyages · X-axis: Jan to Dec  
+> Series: 2019, Korea, Taiwan, Japan, India, China, Other Asia, UKC/Baltic, Other  
+> *Source: Lloyds List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-08-07_china-is-more-dominant-than-ever_chart2.png)
+
 ![Exhibit 3: 2020 VLCC Export Voyages from West Africa](../../../charts/poten/2020/poten_2020-08-07_china-is-more-dominant-than-ever_chart3.png)
+
+> **Exhibit 3: 2020 VLCC Export Voyages from West Africa**  
+> Unit: Number Of Voyages · X-axis: Jan to Dec  
+> Series: 2019, China, India, Taiwan, Malaysia, Singapore, Other Asia, UKC/Baltic, Other  
+> *Source: Lloyds List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-08-07_china-is-more-dominant-than-ever_chart3.png)

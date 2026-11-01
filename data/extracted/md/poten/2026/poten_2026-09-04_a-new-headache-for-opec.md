@@ -40,4 +40,16 @@ The relentless rise of the Americas is a potential headache for OPEC. It will ma
 
 ![Exhibit 1: Seaborne Crude Oil Exports from US, Brazil, Venezuela, Canada, Guyana and Argentina By Origin](../../../charts/poten/2026/poten_2026-09-04_a-new-headache-for-opec_chart1.png)
 
+> **Exhibit 1: Seaborne Crude Oil Exports from US, Brazil, Venezuela, Canada, Guyana and Argentina By Origin**  
+> Unit: Kb/d · X-axis: Jan-16 to May-26  
+> Series: United States, Brazil, Venezuela, Canada, Guyana, Argentina  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-09-04_a-new-headache-for-opec_chart1.png)
+
 ![Exhibit 2: Seaborne Crude Oil Exports from US, Brazil, Venezuela, Canada, Guyana and Argentina By Vessel Class](../../../charts/poten/2026/poten_2026-09-04_a-new-headache-for-opec_chart2.png)
+
+> **Exhibit 2: Seaborne Crude Oil Exports from US, Brazil, Venezuela, Canada, Guyana and Argentina By Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-16 to May-26  
+> Series: VLCC+, Suezmax / LR3, Aframax / LR2, Panamax / LR1, Smaller  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-09-04_a-new-headache-for-opec_chart2.png)

@@ -34,4 +34,15 @@ Overall, global ton-mile demand for MRs has increased since the conflict in Ukra
 
 ![Exhibit 1: European (excl Turkey) Seaborne Diesel/Gasoil Imports by Origin](../../../charts/poten/2023/poten_2023-08-11_transatlantic-balancing-act_chart1.png)
 
+> **Exhibit 1: European (excl Turkey) Seaborne Diesel/Gasoil Imports by Origin**  
+> Unit: Kb/d · X-axis: Jan-20 to Jul-23  
+> Series: Russia, Saudi Arabia, India, United States, United Arab Emirates, Qatar, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-08-11_transatlantic-balancing-act_chart1.png)
+
 ![Exhibit 2: US PADD1 Seaborne Gasoline Imports](../../../charts/poten/2023/poten_2023-08-11_transatlantic-balancing-act_chart2.png)
+
+> **Exhibit 2: US PADD1 Seaborne Gasoline Imports**  
+> Unit: Kb/d · X-axis: 1-Jan-20 to 1-Jul-23  
+> Series: Canada, Netherlands, India, United Kingdom, Belgium, Italy, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-08-11_transatlantic-balancing-act_chart2.png)

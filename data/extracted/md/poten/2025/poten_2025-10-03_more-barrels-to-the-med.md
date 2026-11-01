@@ -36,4 +36,16 @@ It will take some time to determine the ultimate impact on seaborne trade flows,
 
 ![Exhibit 1: Iraq Crude Oil Exports Via Ceyhan By Destination](../../../charts/poten/2025/poten_2025-10-03_more-barrels-to-the-med_chart1.png)
 
+> **Exhibit 1: Iraq Crude Oil Exports Via Ceyhan By Destination**  
+> Unit: Kb/d · X-axis: Jan-16 to Sep-25  
+> Series: Italy, Greece, Israel, Croatia, Spain, Turkey, China, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-10-03_more-barrels-to-the-med_chart1.png)
+
 ![Exhibit 2: Iraq Crude Oil Exports Via Ceyhan by Vessel Class](../../../charts/poten/2025/poten_2025-10-03_more-barrels-to-the-med_chart2.png)
+
+> **Exhibit 2: Iraq Crude Oil Exports Via Ceyhan by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-16 to Sep-25  
+> Series: VLCC+, Suezmax / LR3, Aframax / LR2, Smaller  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-10-03_more-barrels-to-the-med_chart2.png)

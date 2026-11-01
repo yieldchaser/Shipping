@@ -38,6 +38,14 @@ What does all this mean for shipping? Lower exports from Mexico will negatively 
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: Crude Oil Exports From Mexico by Destination](../../../charts/poten/2024/poten_2024-05-10_much-to-do-about-mexico_chart1.png)
+
+> **Exhibit 1: Crude Oil Exports From Mexico by Destination**  
+> Unit: Kb/d · X-axis: Jan-21 to Mar-24  
+> Series: United States, Spain, South Korea, India, China, Cuba, Japan, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-05-10_much-to-do-about-mexico_chart1.png)
+
 ![Exhibit 2: Crude Oil Exports From Mexico by Vessel Class](../../../charts/poten/2024/poten_2024-05-10_much-to-do-about-mexico_chart2.png)
 
 > **Exhibit 2: Crude Oil Exports From Mexico by Vessel Class**  

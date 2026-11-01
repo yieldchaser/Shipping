@@ -36,4 +36,15 @@ In conclusion, while diesel demand in Europe seems to be under pressure, it has 
 
 ![Exhibit 1: Europe (excl Turkey) Diesel/Gasoil Imports by Origin](../../../charts/poten/2024/poten_2024-08-30_end-of-the-road-for-european-diesel_chart1.png)
 
+> **Exhibit 1: Europe (excl Turkey) Diesel/Gasoil Imports by Origin**  
+> Unit: Kb/d · X-axis: Jan-16 to May-24  
+> Series: Russia, Saudi Arabia, United States, India, Qatar, United Arab Emirates, Egypt, Kuwait, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-08-30_end-of-the-road-for-european-diesel_chart1.png)
+
 ![Exhibit 2: Europe-US Gasoline Trade vs US-Europe Diesel/Gasoil Trade](../../../charts/poten/2024/poten_2024-08-30_end-of-the-road-for-european-diesel_chart2.png)
+
+> **Exhibit 2: Europe-US Gasoline Trade vs US-Europe Diesel/Gasoil Trade**  
+> Unit: Kb/d · X-axis: Jan-16 to May-24  
+> Series: Europe - US (Gasoline), US - Europe (Gasoil/Diesel)  
+> *Source: Vortexa/Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-08-30_end-of-the-road-for-european-diesel_chart2.png)

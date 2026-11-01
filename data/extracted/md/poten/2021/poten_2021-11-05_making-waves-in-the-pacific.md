@@ -38,4 +38,15 @@ Aframax trades from North America (Pacific) have been dominated by the Jones Act
 
 ![Exhibit 1: Aframax Crude Voyages Loading in Asia/Australia By Load Area](../../../charts/poten/2021/poten_2021-11-05_making-waves-in-the-pacific_chart1.png)
 
+> **Exhibit 1: Aframax Crude Voyages Loading in Asia/Australia By Load Area**  
+> Unit: Number of Voyages · X-axis: Jan-16 to Oct-21  
+> Series: Malaysia, Indonesia, Singapore, Other SE Asea, Russia (FE), Other China Sea, Australia, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-11-05_making-waves-in-the-pacific_chart1.png)
+
 ![Exhibit 2: Aframax Crude Voyages Loading in Americas, Pacific By Load Country](../../../charts/poten/2021/poten_2021-11-05_making-waves-in-the-pacific_chart2.png)
+
+> **Exhibit 2: Aframax Crude Voyages Loading in Americas, Pacific By Load Country**  
+> Unit: Number of Voyages · X-axis: Jan-16 to Oct-21  
+> Series: US, Canada, Panama, Ecuador  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-11-05_making-waves-in-the-pacific_chart2.png)

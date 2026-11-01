@@ -38,4 +38,15 @@ create additional employment opportunities for the mainstream tanker fleet.
 
 ![Exhibit 1: US Crude Oil Production](../../../charts/poten/2024/poten_2024-11-08_hes-back_chart1.png)
 
+> **Exhibit 1: US Crude Oil Production**  
+> Unit: Kb/d · X-axis: Jan-10 to Jul-24  
+> Series: Obama Administration, Trump Administration, Biden Administration, PADD1 (USAC), PADD2 (Midwest), PADD3 (US Gulf), PADD4 (Mountain), PADD5 (USWC)  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-11-08_hes-back_chart1.png)
+
 ![Exhibit 2: Iranian Crude Oil Exports by Destination](../../../charts/poten/2024/poten_2024-11-08_hes-back_chart2.png)
+
+> **Exhibit 2: Iranian Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-17 to Jul-24  
+> Series: Trump Administration, Biden Administration, China, India, United Arab Emirates, South Korea, Syria, Turkey, Italy, Japan, Other  
+> *Source: EIA, Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-11-08_hes-back_chart2.png)

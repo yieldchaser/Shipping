@@ -41,3 +41,11 @@ The tanker market is benefiting from the current situation. The escalating confl
 ![Exhibit 1: Running Out Of Options](../../../charts/poten/2026/poten_2026-09-18_running-out-of-options_chart1.png)
 
 > **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2026/poten_2026-09-18_running-out-of-options_chart1.png)
+
+![Exhibit 2: Crude Oil Exports From Saudi Arabia By Main Export Terminal](../../../charts/poten/2026/poten_2026-09-18_running-out-of-options_chart2.png)
+
+> **Exhibit 2: Crude Oil Exports From Saudi Arabia By Main Export Terminal**  
+> Unit: Kb/d · X-axis: 29-Dec-25 to 7-Sep-26  
+> Series: Yanbu Industrial Port [Red Sea], Ras Al Khafji [AG], Ras Tanura [AG], Juaymah Terminal [AG]  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-09-18_running-out-of-options_chart2.png)

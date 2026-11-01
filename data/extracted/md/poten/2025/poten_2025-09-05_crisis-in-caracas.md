@@ -34,4 +34,16 @@ It is worth mentioning an alternative scenario. If the “maximum pressure” ca
 
 ![Exhibit 1: Venezuela Crude Exports by Destination](../../../charts/poten/2025/poten_2025-09-05_crisis-in-caracas_chart1.png)
 
+> **Exhibit 1: Venezuela Crude Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-17 to May-25  
+> Series: China, United States, India, Curacao, Cuba, Spain, Malaysia, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-09-05_crisis-in-caracas_chart1.png)
+
 ![Exhibit 2: Venezuela Crude Exports by Vessel Class](../../../charts/poten/2025/poten_2025-09-05_crisis-in-caracas_chart2.png)
+
+> **Exhibit 2: Venezuela Crude Exports by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-17 to May-25  
+> Series: VLCC, Suezmax, Aframax/LR2, Panamax/LR1, Smaller  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-09-05_crisis-in-caracas_chart2.png)

@@ -38,4 +38,15 @@ In summary, the outlook for the tanker market looks strong. Geopolitical tailwin
 
 ![Exhibit 1: Atlantic Basin Exports to the Pacific Basin By Origin](../../../charts/poten/2024/poten_2024-04-12_a-goldilocks-outlook-for-tankers_chart1.png)
 
+> **Exhibit 1: Atlantic Basin Exports to the Pacific Basin By Origin**  
+> Unit: Kb/d · X-axis: Jan-21 to Mar-24  
+> Series: United States, Russia, Brazil, Angola, Nigeria, Venezuela, Libya, Republic of the Congo, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-04-12_a-goldilocks-outlook-for-tankers_chart1.png)
+
 ![Exhibit 2: Pacific Basin Exports to the Atlantic Basin By Origin](../../../charts/poten/2024/poten_2024-04-12_a-goldilocks-outlook-for-tankers_chart2.png)
+
+> **Exhibit 2: Pacific Basin Exports to the Atlantic Basin By Origin**  
+> Unit: Kb/d · X-axis: Jan-21 to Mar-24  
+> Series: Iraq, Saudi Arabia, Iran, United Arab Emirates, Kuwait, Sudan, Ecuador, Egypt, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-04-12_a-goldilocks-outlook-for-tankers_chart2.png)

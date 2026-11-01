@@ -34,4 +34,16 @@ With 20-20 hindsight, it always seems that you can make a fortune in shipping bu
 
 ![Exhibit 2: VLCC TCE Rates (AG-FE)](../../../charts/poten/2026/poten_2026-02-20_does-the-buy-and-hold-strategy-still-work_chart2.png)
 
+> **Exhibit 2: VLCC TCE Rates (AG-FE)**  
+> Unit: TCE (USD/day) · X-axis: Jan-04 to Oct-25  
+> Series: VLCC TCE Rates (AG-FE)  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-02-20_does-the-buy-and-hold-strategy-still-work_chart2.png)
+
 ![Exhibit 1: VLCC Asset Values](../../../charts/poten/2026/poten_2026-02-20_does-the-buy-and-hold-strategy-still-work_chart1.png)
+
+> **Exhibit 1: VLCC Asset Values**  
+> Unit: Value (Mln USD) · X-axis: Jan-04 to Oct-25  
+> Series: Newbuilding, NB At Delivery, 5 Yr Old, 10 Yr Old, 15 Yr Old  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-02-20_does-the-buy-and-hold-strategy-still-work_chart1.png)

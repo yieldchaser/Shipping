@@ -40,4 +40,14 @@ The U.S. oil industry is resilient and both production and refining will recover
 
 ![Exhibit 1: US Gulf Aframax Freight Market (70Kt Car-USG)](../../../charts/poten/2021/poten_2021-09-03_weathering-the-storm_chart1.png)
 
+> **Exhibit 1: US Gulf Aframax Freight Market (70Kt Car-USG)**  
+> Unit: TCE (VLSFO) · X-axis: 1-Apr-21 to 2-Sep-21  
+> Series: US Gulf Aframax Freight Market (70Kt Car-USG)  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-09-03_weathering-the-storm_chart1.png)
+
 ![Exhibit 2: US Gulf Product Freight Market (38Kt USG - UKC)](../../../charts/poten/2021/poten_2021-09-03_weathering-the-storm_chart2.png)
+
+> **Exhibit 2: US Gulf Product Freight Market (38Kt USG - UKC)**  
+> Unit: TCE (VLSFO) · X-axis: 1-Apr-21 to 2-Sep-21  
+> Series: US Gulf Product Freight Market (38Kt USG - UKC)  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-09-03_weathering-the-storm_chart2.png)

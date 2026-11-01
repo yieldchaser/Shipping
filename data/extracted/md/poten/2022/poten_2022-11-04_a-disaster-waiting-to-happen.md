@@ -38,6 +38,14 @@ So far, Russian exports have only been impacted by limited sanctions. However, t
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: Age Brackets Of Tankers Involved in Iranian Trade](../../../charts/poten/2022/poten_2022-11-04_a-disaster-waiting-to-happen_chart1.png)
+
+> **Exhibit 1: Age Brackets Of Tankers Involved in Iranian Trade**  
+> Unit: % · X-axis: 0-5 Years to 25+ Years  
+> Series: 0-5 Years, 6-10 Years, 11-15 years, 16-20 Years, 20-25 Years, 25+ Years  
+> *Source: United Against Nuclear Iran*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-11-04_a-disaster-waiting-to-happen_chart1.png)
+
 ![Exhibit 2: Age Brackets Of Aframax Tankers Loading In Russia](../../../charts/poten/2022/poten_2022-11-04_a-disaster-waiting-to-happen_chart2.png)
 
 > **Exhibit 2: Age Brackets Of Aframax Tankers Loading In Russia**  

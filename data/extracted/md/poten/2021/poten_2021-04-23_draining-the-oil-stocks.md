@@ -42,4 +42,16 @@ Another factor that has a significant impact on tanker rates is market psycholog
 
 ![Exhibit 1: Floating Storage Over Time](../../../charts/poten/2021/poten_2021-04-23_draining-the-oil-stocks_chart1.png)
 
+> **Exhibit 1: Floating Storage Over Time**  
+> Unit: Mln Bbl | TCE · X-axis: Jan-19 to Apr-21  
+> Series: VLCC, Suezmax, Aframax, VLCC AG-FE TCE  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-04-23_draining-the-oil-stocks_chart1.png)
+
 ![Exhibit 2: OECD Industrial Oil Inventories vs Prior Year](../../../charts/poten/2021/poten_2021-04-23_draining-the-oil-stocks_chart2.png)
+
+> **Exhibit 2: OECD Industrial Oil Inventories vs Prior Year**  
+> Unit: Million bbl · X-axis: Jan-20 to Feb-21  
+> Series: Americas Crude, Americas Products, Europe Crude, Europe Products, Asia Oceania Crude, Asia Oceania Products, Total  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-04-23_draining-the-oil-stocks_chart2.png)

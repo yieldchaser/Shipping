@@ -38,4 +38,15 @@ We expect that the resumption of oil demand growth in China, combined with the m
 
 ![Exhibit 1: Seaborne Chinese Crude Oil Imports by Vessel Class](../../../charts/poten/2022/poten_2022-07-22_upwards-and-onwards_chart1.png)
 
+> **Exhibit 1: Seaborne Chinese Crude Oil Imports by Vessel Class**  
+> Unit: Kb/day · X-axis: Jan-15 to Jul-22  
+> Series: VLCC, Suezmax, Aframax, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-07-22_upwards-and-onwards_chart1.png)
+
 ![Exhibit 2: Seaborne Chinese Crude Oil Imports by Origin](../../../charts/poten/2022/poten_2022-07-22_upwards-and-onwards_chart2.png)
+
+> **Exhibit 2: Seaborne Chinese Crude Oil Imports by Origin**  
+> Unit: % · X-axis: Jan-17 to Jul-22  
+> Series: Middle East, Asia/Aus, Americas Pac, W Africa, Med, Americas Atl, UKC/Baltic  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-07-22_upwards-and-onwards_chart2.png)

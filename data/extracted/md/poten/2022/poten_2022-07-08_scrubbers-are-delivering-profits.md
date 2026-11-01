@@ -34,6 +34,13 @@ Charterers do not prefer one vessel type over another. They just want the cheape
 
 ## Market Exhibits & Charts
 
+![Exhibit 1: VLSFO - HFO Price Spread In Main Bunker Ports](../../../charts/poten/2022/poten_2022-07-08_scrubbers-are-delivering-profits_chart1.png)
+
+> **Exhibit 1: VLSFO - HFO Price Spread In Main Bunker Ports**  
+> Unit: USD · X-axis: Nov-19 to Jul-22  
+> Series: Houston, Rotterdam, Singapore, Fujairah  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-07-08_scrubbers-are-delivering-profits_chart1.png)
+
 ![Exhibit 2: TCE Spread: Scrubber Ship vs Non-Scrubber Ship](../../../charts/poten/2022/poten_2022-07-08_scrubbers-are-delivering-profits_chart2.png)
 
 > **Exhibit 2: TCE Spread: Scrubber Ship vs Non-Scrubber Ship**  
