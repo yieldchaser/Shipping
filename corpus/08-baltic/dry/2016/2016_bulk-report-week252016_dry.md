@@ -49,6 +49,8 @@ Levels continued to creep up in Asia with the Draftdodger 66,000 dwt fixed deliv
 
 ### Handysize
 
+ 
+
 US Gulf and east coast South America were the firmer areas for the smaller sizes. Small gains were made but with little definitive fixtures reported. A BHSI 28,000 tonner was fixed delivery Indonesia trip to Japan at $4,100 daily.
 
 Owners with tonnage on the Continent, Black Sea and Mediterranean faced tough trading opportunities. A 34,000 dwt fixed delivery Odessa for a trip to the US Gulf at $2,250 daily for the first 47 days and the balance at $5,000 daily. The same size achieved $7,000 daily for delivery South Brazil for trip to the Continent. A 32,000 tonner managed a healthy $10,250 daily delivery Texas Gulf for a trip to the Mediterranean with petcoke.

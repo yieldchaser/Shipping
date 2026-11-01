@@ -34,7 +34,7 @@ Owners remained positive and rates in West Africa were steady between WS77.5 and
 
 A disappointing week for owners, as rates for 80,000 tonnes in the Mediterranean dipped below [WS 100](x-apple-data-detectors://7), with an attractive Algeria/Trieste trip fixed at [WS 90](x-apple-data-detectors://8). The softening here led Black Sea rates to drop 15 points to WS 107.5. In the Baltic, significant activity enabled owners to push rates up around 17 points to [WS 90](x-apple-data-detectors://9) basis100,000 tonnes and rates in the  80,000 tonnes cross North Sea trade followed suit up 12.5 points to [WS 110](x-apple-data-detectors://10) region.
 
-Thanksgiving holidays in the US led to a flurry of enquiry in the 70,000 tonnes Caribbean/up coast trade, with the market now at [WS 145](x-apple-data-detectors://11)representing a 32.5 WS point gain over the week.
+Thanksgiving holidays in the US led to a flurry of enquiry in the 70,000 tonnes Caribbean/up coast trade, with the market now at [WS 145](x-apple-data-detectors://11) representing a 32.5 WS point gain over the week.
 
 ### Panamaxes
 

@@ -46,7 +46,7 @@ There was some increased interest for US east coast loaders and fewer prompt shi
 
 ### Supramax
 
-Activity remains, although rates in both theatres are down with decreases on all index routes on a daily basis. The east coast South America market particularly slipped with the *Four Kitakami*2009-built 55,668-dwt having covered basis delivery east coast South America redelivery Singapore-Japan at $10,250 daily plus $130,000 ballast bonus which was down  on last week. From the US Gulf levels eased with the *Santa Julia* 55,701-dwt 2009-built having been fixed at around $15,250 for a trip to Singapore-Japan.
+Activity remains, although rates in both theatres are down with decreases on all index routes on a daily basis. The east coast South America market particularly slipped with the *Four Kitakami* 2009-built 55,668-dwt having covered basis delivery east coast South America redelivery Singapore-Japan at $10,250 daily plus $130,000 ballast bonus which was down  on last week. From the US Gulf levels eased with the *Santa Julia* 55,701-dwt 2009-built having been fixed at around $15,250 for a trip to Singapore-Japan.
 
 In the East rates eased with reports of a supramax covering at an easier $7,500 daily plus $160,000 ballast bonus.
 

@@ -24,7 +24,7 @@ source_file: "corpus/08-baltic/tanker/2015/2015-05-01_revised-tanker-benchmarksp
 
 Following previous discussions with panellists, users and the market, the BEISL board has approved the following proposed amendments to the benchmark tanker descriptions for speeds & consumptions, the port consumptions and associated TCE calculations.
 
-These changes are in line with the revised [Guide To Market Benchmarks](http://www.balticexchange.com/dyn/_assets/_forms/guide-to-market-benchmarks.shtml)and our intention is to implement these changes from **1 May 2015**.
+These changes are in line with the revised [Guide To Market Benchmarks](http://www.balticexchange.com/dyn/_assets/_forms/guide-to-market-benchmarks.shtml) and our intention is to implement these changes from **1 May 2015**.
 
 ### VLCC
 

@@ -30,7 +30,7 @@ Owners have seen their earnings drop in West Africa where rates for 260,000 tonn
 
 ### Suezmaxes
 
-A healthy supply of tonnage in West Africa has seen rates stuck in the low WS 70s for Europe, although owners did manage to push rates up marginally from WS 72.5 to  WS 73.75  while a short run to Spain is said to have been fixed by Repsol at WS 75.  In the Black Sea there is very much a sense of déjà vu with rates for 135,000 tonnes unchanged at WS 85. In the Mediterranean, BP paid WS 75 for 130,000 tonnes from Algeria to UKCont , while UML took *Aegean Dignity* for 135,000 tonnes from Ceyhan to UKC-Med at WS 75-80 respectively.
+A healthy supply of tonnage in West Africa has seen rates stuck in the low WS 70s for Europe, although owners did manage to push rates up marginally from WS 72.5 to  WS 73.75  while a short run to Spain is said to have been fixed by Repsol at WS 75.  In the Black Sea there is very much a sense of déjà vu with rates for 135,000 tonnes unchanged at WS 85. In the Mediterranean, BP paid WS 75 for 130,000 tonnes from Algeria to UKCont , while UML took *Aegean Dignity*  for 135,000 tonnes from Ceyhan to UKC-Med at WS 75-80 respectively.
 
 ### Aframaxes
 

@@ -26,7 +26,7 @@ source_file: "corpus/08-baltic/dry/2015/2015_week-24_dry.html"
 
 Early this week the market started with a slightly softer tone of minimal drops and has finished with only the Atlantic showing any slight improvement. The benchmark C3 Brazil/China fell almost 50 cents to a shade under $10.25 and on the C5 west Australia/China it has hovered around $4.95 level all week, a rate that was said to have been fixed on several vessels in the last 2 days by BHP Billiton, Rio Tinto & FMG. The Robusto 175,000 dwt built 2006 classic vessel was rumoured to have fixed Seven Islands to Qingdao for early July dates at $11.85 with Rio Tinto. Oldendorff tonnage fixed Tubarao/Rotterdam for 1/15 July at $5.25 with TKS earlier in the week.
 
-Timecharter fixtures have been less visible, the Swissmarine vessel *Cologny*180,643 dwt built 2011 fixed delivery Yuzhny for prompt dates for a trip to Singapore-Japan at $16,500 with Aquavita, whilst the Mineral Kyoto 180,310 dwt built 2004 fixed delivery Gibraltar 13 June for a trans-Atlantic round voyage at $6,500.
+Timecharter fixtures have been less visible, the Swissmarine vessel *Cologny* 180,643 dwt built 2011 fixed delivery Yuzhny for prompt dates for a trip to Singapore-Japan at $16,500 with Aquavita, whilst the Mineral Kyoto 180,310 dwt built 2004 fixed delivery Gibraltar 13 June for a trans-Atlantic round voyage at $6,500.
 
 ### Panamax
 

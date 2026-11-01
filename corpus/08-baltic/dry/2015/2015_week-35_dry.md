@@ -40,7 +40,7 @@ In the Pacific the *Red Rose* fixed with Marubeni delivery Onahama for a Nopac r
 
 Still an active market but some drops this week on the Index.
 
-Period volume about the same with reports a 61,000 dwt vessel fixing 4/6 months from the Far East at $9,250 levels. While a Tess 58 rumoured to be fixing short period in the mid/high 8000s for an enquiry ex Nopac 20th September. Another Tess 58 fixed delivery Singapore for 10/15 months at $6,000 first 30 days $8,100 for 11 months and $8,500 for the balance period. In the Middle East the *Akili* 2001 built 52,301 dwt concluded a month’s charter at $8,250 per day. The *Thor Fortune* 54,123 dwt 2011 built reported for a  4/6 months with delivery US Gulf at $13,500 daily.
+Period volume about the same with reports a 61,000 dwt vessel fixing 4/6 months from the Far East at $9,250 levels. While a Tess 58 rumoured to be fixing short period in the mid/high 8000s for an enquiry ex Nopac 20th September. Another Tess 58 fixed delivery Singapore for 10/15 months at $6,000 first 30 days $8,100 for 11 months and $8,500 for the balance period. In the Middle East the *Akili* 2001 built 52,301 dwt concluded a month’s charter at $8,250 per day. The *Thor Fortune*  54,123 dwt 2011 built reported for a  4/6 months with delivery US Gulf at $13,500 daily.
 
 In the Atlantic US Gulf tonnage faring the best with top rates being paid. A 57,000 dwt fixed for a trip to east Mediterranean at $19,000 daily and a 61,000 dwt achieved a trip to Japan at $21,000. A 56,000 dwt went at $22,000 basis India at $22,000 and 58,761 dwt taking a petcoke cargo to the Continent at $19,000 daily. For slightly longer a Chinese owned 52,828 dwt vessel reported to have covered 2/3 laden legs redelivery worldwide at $15,000 daily.
 

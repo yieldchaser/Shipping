@@ -28,7 +28,7 @@ The week ended with further losses on all the routes, as the published Cape 5TC 
 
 In the Atlantic, the lack of fresh cargo severely affected rate levels with the timecharter rates now being assessed at almost half what they were one week ago at under US$15,000, but little was officially reported fixed.
 
-There has been some period activity with rates linked to the Cape 5TC published rates, the *New Dalian*(180,371-dwt 2010-built) open CJK end January fixing for 12 months at 105% of the 5TC with Cargill who also fixed the *Tiger Jiangsu* (180,096-dwt 2010-built) delivery China 15/28 Feb for 11-13 months at 102% 5TC.
+There has been some period activity with rates linked to the Cape 5TC published rates, the *New Dalian* (180,371-dwt 2010-built) open CJK end January fixing for 12 months at 105% of the 5TC with Cargill who also fixed the *Tiger Jiangsu* (180,096-dwt 2010-built) delivery China 15/28 Feb for 11-13 months at 102% 5TC.
 
 ### Panamax
 

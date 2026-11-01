@@ -30,7 +30,7 @@ This news should have a positive impact for the liner industry as shippers will 
 
 Liner companies that had suspended some services, would be expected to resume normal loop programmes in the next couple of weeks.
 
-Consequently, transpacific container rates on **FBX01**(China/East Asia – USA West Coast) have creeped up this week, ending the week at $2,718/FEU $307 higher than last Friday. **FBX02** (USA West Coast – China/East Asia) rates were flat over the week finishing at $438/FEU. **FBX03**(China/East Asia – USA East Coast) also saw a week-on-week increase of $354 finishing the week at $3,784/FEU. **FBX11** (China/East Asia – North Europe) rates increased $173/FEU, finishing the week at $2,578/FEU. **FBX12** (North Europe – China / East Asia) increased to $452/FEU. **FBX13** (China/East Asia – Mediterranean) increased by $73 ending the week at $3,009/FEU.
+Consequently, transpacific container rates on **FBX01** (China/East Asia – USA West Coast) have creeped up this week, ending the week at $2,718/FEU $307 higher than last Friday. **FBX02** (USA West Coast – China/East Asia) rates were flat over the week finishing at $438/FEU. **FBX03** (China/East Asia – USA East Coast) also saw a week-on-week increase of $354 finishing the week at $3,784/FEU. **FBX11** (China/East Asia – North Europe) rates increased $173/FEU, finishing the week at $2,578/FEU. **FBX12** (North Europe – China / East Asia) increased to $452/FEU. **FBX13** (China/East Asia – Mediterranean) increased by $73 ending the week at $3,009/FEU.
 
 ---
 

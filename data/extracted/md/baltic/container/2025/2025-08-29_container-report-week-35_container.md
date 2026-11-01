@@ -28,7 +28,7 @@ Rates on the key FBX routes ex Far East have all slipped lower by varying amount
 
 **FBX03** (China/East Asia – US East Coast) ended the week at $2,703/FEU, down $23 compared with last Friday.
 
-**FBX11**(China/East Asia – North Europe) ended the week at $2,846/FEU, down $107 from last Friday.
+**FBX11** (China/East Asia – North Europe) ended the week at $2,846/FEU, down $107 from last Friday.
 
 **FBX13** (China/East Asia – Mediterranean) ended the week at $2,999/FEU, down $81 from last Friday.
 

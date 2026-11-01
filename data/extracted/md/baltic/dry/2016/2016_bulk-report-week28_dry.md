@@ -64,6 +64,8 @@ Brokers advised South Africa to China paid $7,000 daily with a 45,000 tonner. An
 
 ### Handysize
 
+ 
+
 This was another active week for the handy contingent and levels moving up still in Far East while the Atlantic dropped off slightly in US Gulf and East Coast South American theatres. The Continent witnessed a positive week and the Black Sea followed the larger sizes and went up but not as dramatically so far. Overall the BHSI index showed a daily plus ‘sign’ but only two points for Monday, Tuesday and Wednesday with Thursday only one point.
 
 For daily dry bulk assessments from the Baltic Exchange please visit [www.balticexchange.com/market-information/](http://www.balticexchange.com/market-information/)

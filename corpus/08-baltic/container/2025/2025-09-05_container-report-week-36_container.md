@@ -26,13 +26,13 @@ The tariff saga continues with a US federal appeals court upholding a ruling tha
 
 As we entered into September we have seen increases on container freight rates for Far East to US East Coast and US West Coast ports. This could perhaps be in preparation for expected USTR port call costs from mid-October. We have seen rates Far East to North Europe coming off about a $1,000 from the start of the month.
 
-**FBX01 (China/East Asia – USA West Coast)**ended the week at $2,313/FEU, up $585/FEU from last Friday.
+**FBX01 (China/East Asia – USA West Coast)** ended the week at $2,313/FEU, up $585/FEU from last Friday.
 
 **FBX03 (China/East Asia – USA East Coast)** ended the week at $3,239/FEU, up $536 compared with last Friday.
 
-**FBX11 (China/East Asia – North Europe)**ended the week at $2,541/FEU, down $305 from last Friday.
+**FBX11 (China/East Asia – North Europe)** ended the week at $2,541/FEU, down $305 from last Friday.
 
-**FBX13 (China/East Asia – Mediterranean)**ended the week at $2,918/FEU, down $81 from last Friday.
+**FBX13 (China/East Asia – Mediterranean)** ended the week at $2,918/FEU, down $81 from last Friday.
 
 ---
 

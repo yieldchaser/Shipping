@@ -24,9 +24,9 @@ source_file: "corpus/08-baltic/container/2025/2025-07-04_container-report-week-2
 
 Next Tuesday sees the end of the pause in Tariffs on imports to the United States as the world waits to see what will happen. The 90-day pause has certainly seen some lively freight rates as shippers have taken advantage to move their goods tariff free into the US and the liner companies have taken the chance to temporarily charge more for these shipments.
 
-**FBX01**(WC) and **FBX03** (EC) saw a continued decline in freight rates over the past four weeks, down by $3,444 and $2,089, respectively.
+**FBX01** (WC) and **FBX03** (EC) saw a continued decline in freight rates over the past four weeks, down by $3,444 and $2,089, respectively.
 
-**FBX01**(China/East Asia – USA West Coast)ended the week at $2,571/FEU, down $700/FEU from last Friday.
+**FBX01** (China/East Asia – USA West Coast) ended the week at $2,571/FEU, down $700/FEU from last Friday.
 
 **FBX03** (China/East Asia – USA East Coast) is today at $5,001/FEU off by $974 in a week.
 

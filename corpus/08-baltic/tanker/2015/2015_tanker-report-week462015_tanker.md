@@ -28,7 +28,7 @@ It has been a quieter week in the Middle East Gulf, November requirements seem t
 
 It has been a similar story of softening in West Africa. PTT paid WS 70 for a run to Thailand, while China discharge has now nudged below WS 70.
 
-Off the Continent, rates for fuel oil from Rotterdam to Singapore have varied from $5.90 million to $6.375 million paid by Shell for *Olympic Trust,*with last seen here being *Al Kout* to Total at  $6.2 million. Crude oil has been fixed at $8.35 million for Hound Point to Korea.
+Off the Continent, rates for fuel oil from Rotterdam to Singapore have varied from $5.90 million to $6.375 million paid by Shell for *Olympic Trust,* with last seen here being *Al Kout* to Total at  $6.2 million. Crude oil has been fixed at $8.35 million for Hound Point to Korea.
 
 Rates in the Caribbean have eased with west coast India discharge being covered at $5.95 million while the US Gulf to Singapore is said to have been fixed at around $6.95 million.
 

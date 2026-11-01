@@ -50,6 +50,8 @@ From Asia backhaul rates looked more attractive. A 55,000 dwt was understood bei
 
 ### Handysize
 
+ 
+
 Not wholly surprising, of all the sizes this remains the least talked about. Brokers feeling that it remained ‘steady as she goes’. It was a little quiet from the Continent with rates remaining steady, however the *Lord Wellintgon* 2005 built 31,921 dwt open UK-Cont was fixed for a trip via the Continent redelivery Persian Gulf excluding Iran / Iraq at $9,500 daily. From the Mediterranean a 32,000 dwt was rumoured covered in the $4,000s for a trip to the Continent and for trips across to the US, rates seemed to be hovering around the low/mid $3,000s depending on vessel specs and position. From Asia rates improved slightly with a 28,000 dwt 2015 built open Singapore understood to be covered for a trip via Mauritius redelivery Durban in the low $5,000s, whilst a similar size vessel was rumoured basis delivery China redelivery West Africa in the upper $4,000’s for the first 50 days and mid $5,000s for the balance.
 
 For daily dry bulk assessments from the Baltic Exchange please visit [www.balticexchange.com/market-information/](http://www.balticexchange.com/market-information/)

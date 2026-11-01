@@ -22,7 +22,7 @@ source_file: "corpus/08-baltic/dry/2022/2022-11-11_bulk-report-week-45_dry.html"
 
 ---
 
-**Capesize**
+**Capesize** 
 
 Activity in the Capesize market had the 5TC pushing in value over a few days in midweek. However, pessimism prevailed as the rates dropped down to close the week -895, settling at $12,807. Some chatter in the market expects an improvement in rates to end the year, although this is yet to eventuate. Charterers out of Brazil and the Atlantic were constantly seen to lower past last done, while market cargoes are said to be dwindling in the region. The Transatlantic C8 commands a premium over the Transpacific C10 yet the gap narrowed significantly this week as they stand at $16,889 and $12,636 respectively. Flurries of West Australia to China C5 fixing was heard midweek. The reasoning behind the activity was not heard - although miners were noticeably quieter in the later part of the week. Coming closer to the Christmas period owners will be very aware of the potential seasonal low period that looms in Q1. On more than one occasion this period has surprised with reasonable activity. However, all are likely preparing for more of the same from this market unless some fresh stimulus is forthcoming.
 

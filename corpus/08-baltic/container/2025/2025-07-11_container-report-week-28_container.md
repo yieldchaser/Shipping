@@ -26,7 +26,7 @@ With the pause in US tariffs over for now, we have seen a further gradual declin
 
 Interestingly trade to the Continent has grown in volume and freight costs, and look to be seeing a shift in trade dynamics as a side effect of the US tariffs, which will be worth watching in the coming months.
 
-**FBX01 (China/East Asia – USA West Coast)**ended the week at $2,346/FEU, down $225/FEU from last Friday.
+**FBX01 (China/East Asia – USA West Coast)** ended the week at $2,346/FEU, down $225/FEU from last Friday.
 
 **FBX03 (China/East Asia – USA East Coast)** is today at $4,880/FEU, down $121 compared with last Friday.
 

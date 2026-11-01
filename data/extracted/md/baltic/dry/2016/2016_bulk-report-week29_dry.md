@@ -48,6 +48,8 @@ The extra amount of nickel ore, sand, coal and steel cargoes assisted the area t
 
 ### Handysize
 
+ 
+
 A daily increase in the Asian indices and better levels assisting owners’ balance sheets. The Index routes for Continent and Mediterranean fared well recording daily increases with a distinct lack of tonnage available in some areas. A 34,650 dwt was booked from Murmansk for a trip to Brazil with fertilizer at $8,500 daily. Brokers reported a scrap cargo fixed with a 34,409 dwt delivery Continent trip to eastern Mediterranean at $8,000 daily.
 
 Intermed/Black Sea business seemed to be moving around the $7,000-$7,500 levels while a good 37,000 tonner achieved a healthy $8,500 per day for a trip from the Black Sea to the US Gulf. Two trips were reported fixed delivery US Gulf to the Continent, one 32,000 at $8,000 daily for a prompt delivery and another 32,500 dwt at $7,500 daily.

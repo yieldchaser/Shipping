@@ -32,7 +32,7 @@ West Africa came under pressure with rates for 130,000mt to UK-Continent easing
 
 ### Aframax
 
-With markets elsewhere continuing to ease, owners active in the 80,000mt cross-Mediterranean trade had few choices and the market from Ceyhan now sits at around [WS](x-apple-data-detectors://7)100, with Black Sea covered at WS 110, in contrast to low WS 120s the previous week. In the Baltic, rates for 100,000mt eased 12.5 points to WS 75, with the 80,000mt cross North Sea market following suit, losing 7.5 points to high WS 90s.
+With markets elsewhere continuing to ease, owners active in the 80,000mt cross-Mediterranean trade had few choices and the market from Ceyhan now sits at around [WS](x-apple-data-detectors://7) 100, with Black Sea covered at WS 110, in contrast to low WS 120s the previous week. In the Baltic, rates for 100,000mt eased 12.5 points to WS 75, with the 80,000mt cross North Sea market following suit, losing 7.5 points to high WS 90s.
 
 ### Clean
 

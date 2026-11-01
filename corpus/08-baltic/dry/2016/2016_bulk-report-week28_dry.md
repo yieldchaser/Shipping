@@ -52,7 +52,7 @@ The *Western Heroya* 2015 built 61,297-dwt fixed delivery Conakry trip Black Sea
 
 There were a variety of fixtures from Black Sea and Eastern Mediterranean with trips Chittagong paying $12,350 for a 58,000-dwt and an earlier fixture of a 57,000-dwt went at $10,350. Brokers advised a trip to South East Asia paid $14,000 for a 61,600 tonner.  Earlier in the week the same kind of ship fixed $12,750 which was a good rate at the time. Ships even started to fix delivery Red Sea via Black Sea with one achieving $6,250 daily redelivery Chittagong and another going to Singapore-Japan at $6,500 with sizes of 50,341-dwt and 53,206-dwt respectively.
 
-Scrap from Continent to Turkey was reported at $9,500 on the *New Kosmos*56,011-dwt built 2005.
+Scrap from Continent to Turkey was reported at $9,500 on the *New Kosmos* 56,011-dwt built 2005.
  
 Chinese coal and nickel ore cargoes are a plenty this week and a number of deals just kept improving on those last achieved. A couple of smaller vessels about 49,000-dwt fixed delivery Manila trip China at $8,000 daily and the other delivery Singapore trip via Indonesia to CJK at $7,000 daily.
 
@@ -63,6 +63,8 @@ A Dolphin 57 concluded a trip delivery CJK redelivery US Gulf at $2,900 daily fo
 Brokers advised South Africa to China paid $7,000 daily with a 45,000 tonner. An inter PG trip secured $5,500 daily for a 53,000-dwt 2007 built.
 
 ### Handysize
+
+ 
 
 This was another active week for the handy contingent and levels moving up still in Far East while the Atlantic dropped off slightly in US Gulf and East Coast South American theatres. The Continent witnessed a positive week and the Black Sea followed the larger sizes and went up but not as dramatically so far. Overall the BHSI index showed a daily plus ‘sign’ but only two points for Monday, Tuesday and Wednesday with Thursday only one point.
 

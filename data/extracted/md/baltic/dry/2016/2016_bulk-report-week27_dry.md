@@ -58,6 +58,8 @@ The *Aliki Perotis* 2015 built 60,897 dwt was booked delivery Singapore trip via
 
 ### Handysize
 
+ 
+
 A 32,000 tonner fixed and failed delivery east Coast South America to Algeria at $7,500 daily. Brokers reported the *Cassiopeia Star* 32,328 dwt built 2005 secured $7,250 daily delivery Rio Grande trip South Spain and a 28,000 tonner was taken for delivery Tampa for a trip Singapore-Japan at $8,000 daily.
 
 Another 32,000 tonner was said booked for delivery Black Sea trip Spain at $3,500 daily and yet another 32,000 dwt was on subjects for delivery Canakkale trip western Mediterranean at $4,500 daily.

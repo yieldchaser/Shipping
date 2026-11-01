@@ -28,11 +28,11 @@ The conflict in the Middle East has calmed down for now with a Ceasefire in plac
 
 FBX continued to see a weakening of rates on services from Far East to both coasts of the USA.
 
-**FBX01**(China/East Asia – USA West Coast) ended the week at $3,271/FEU, down $1,245/FEU from the same time last week and down $2,660 on a fortnight ago. **FBX03**(China/East Asia – USA East Coast) is today at $5,975/FEU down from $7,177/FEU last Friday, off by $1,202 in a week.
+**FBX01** (China/East Asia – USA West Coast) ended the week at $3,271/FEU, down $1,245/FEU from the same time last week and down $2,660 on a fortnight ago. **FBX03** (China/East Asia – USA East Coast) is today at $5,975/FEU down from $7,177/FEU last Friday, off by $1,202 in a week.
 
 FBX rates to the Continent and Med from the Far East remained pretty steady all week, with just the Med slightly off.
 
-**FBX11**(China/East Asia – North Europe), finished the week at $2,971/FEU, up $5 on last week and **FBX13**(China/East Asia to Mediterranean) rates ended at $4,171/FEU down $189 on the end of last week.
+**FBX11** (China/East Asia – North Europe), finished the week at $2,971/FEU, up $5 on last week and **FBX13** (China/East Asia to Mediterranean) rates ended at $4,171/FEU down $189 on the end of last week.
 
 ---
 

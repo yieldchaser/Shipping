@@ -57,7 +57,7 @@ A few owners took period cover and fixtures included the *Crystal Confidence* 20
 
 *Atlantic*
 
-The *Nordic Skagen* 2010 33,741-dwt fixed a coal cargo from Baltic to ARA-Ghent/north Spain at $9,500 daily while the *Laser Ace*2007 28,416-dwt accepted $6,750 per day delivery Continent for a trip to Brazil. The *Tanta T* 2011 32,527-dwt went to Ultrabulk dop Iskenderun for one trip to the US Gulf/Caribbean at $7,500 for the first 55 days and the balance at $8,900. Canfornav fixed a 35,000-dwt basis delivery St Lawrence for a trip to East Coast UK at $10,000 daily.
+The *Nordic Skagen* 2010 33,741-dwt fixed a coal cargo from Baltic to ARA-Ghent/north Spain at $9,500 daily while the *Laser Ace* 2007 28,416-dwt accepted $6,750 per day delivery Continent for a trip to Brazil. The *Tanta T* 2011 32,527-dwt went to Ultrabulk dop Iskenderun for one trip to the US Gulf/Caribbean at $7,500 for the first 55 days and the balance at $8,900. Canfornav fixed a 35,000-dwt basis delivery St Lawrence for a trip to East Coast UK at $10,000 daily.
 
 There was talk a 34,000-tonner was taken delivery South West Pass at $10,250 daily for a trip to Morocco but this might have been from last week. A 23,000-tonner was linked to a trip delivery Maceio to the Continent at $9,000. The *Cielo di Dublino* 37,064-dwt 2011 built was apparently booked for a transatlantic trip delivery Rio Grande at $11,500 daily. The *Strategic Fortitude* 2016-built 37,829-dwt was linked to a fixture delivery Aratu 4-9 April for a trip via Brazil with redelivery west coast Mexico at $10,000 daily. The Gail 2011-built 29,966-dwt fixed to Amaggi at $10,400 from Brazil via River Plate to Israel.
 
