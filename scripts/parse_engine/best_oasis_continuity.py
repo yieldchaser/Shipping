@@ -130,8 +130,10 @@ def run(staging: Path) -> dict[str, int]:
         cur = issues[d]
         md_path = cur["path"].with_name(cur["path"].name[: -len(".tables.json")] + ".md")
         val_path = md_path.with_suffix(".validation.json")
-        md = md_path.read_text(encoding="utf-8")
         val = json.loads(val_path.read_text(encoding="utf-8"))
+        if val.get("continuity_ran"):
+            continue    # done in an earlier run (markers already stripped); it still serves as a neighbour above
+        md = md_path.read_text(encoding="utf-8")
         demoted = []
         for key, t in list(cur["charts"].items()):
             if t.get("series_basis") != "legend_order":
