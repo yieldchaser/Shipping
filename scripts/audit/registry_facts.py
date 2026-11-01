@@ -161,20 +161,45 @@ def collect(root: Path, registry: List[dict], untracked: List[str], parse_date, 
             "fallback_examples": [p.name for p in fallback[:3]],
             "backlog": len(backlog), "backlog_examples": [Path(b).name for b in backlog[:3]],
         }
+        if e.get("series_date_csv"):         # series-only sources: newest row date of the series the scraper writes
+            sd = _series_max_date(root / e["series_date_csv"], today)
+            out[cid]["latest_series_date"] = sd
+            out[cid]["latest_series_file"] = f"{Path(e['series_date_csv']).name} (row {sd})" if sd else ""
         out[cid]["status"], out[cid]["days_ago"] = status_for(e, out[cid], today)
     return out
 
 
+def _series_max_date(csv_path: Path, today: date) -> str:
+    """Newest ISO date in the first column of a series CSV (not after today), or ''."""
+    best = ""
+    try:
+        with open(csv_path, encoding="utf-8") as fh:
+            next(fh, None)
+            for line in fh:
+                d = line[:10]
+                if re.fullmatch(r"\d{4}-\d{2}-\d{2}", d) and d > best and d <= today.isoformat():
+                    best = d
+    except OSError:
+        return ""
+    return best
+
+
 def status_for(entry: dict, f: dict, today: date) -> Tuple[str, int]:
     freq = entry.get("frequency", "")
-    latest = max(f["latest_raw_date"], f["latest_md_date"])   # ISO strings; some raw names carry no date
+    # ISO strings; some raw names carry no date
+    latest = max(f["latest_raw_date"], f["latest_md_date"], f.get("latest_series_date", ""))
     if freq.startswith("Static"):
         return "REFERENCE", 0
     if entry.get("superseded_by"):
         return f"SUPERSEDED (new issues arrive via {entry['superseded_by']})", 0
     if not latest:
         return "NO DATED ISSUES", -1
-    days = max(0, (today - date.fromisoformat(latest)).days)
+    due_from = date.fromisoformat(latest)
+    if entry.get("issue_dated_covered_month"):
+        # issues are dated the 1st of the month they cover and published at the start of the NEXT month
+        # (Seabrokers: the 2026-09-01 issue appears ~2026-10-01), so the clock starts at that publication date
+        due_from = (due_from.replace(day=1) + timedelta(days=32)).replace(day=1)
+    days = max(0, (today - due_from).days)
     gap = ALLOWED_GAP.get(freq, 10)
     if f["backlog"]:
         return f"PARSE BEHIND ({f['backlog']} recent issue(s) without MD)", days

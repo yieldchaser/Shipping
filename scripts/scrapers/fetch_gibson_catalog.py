@@ -15,6 +15,7 @@ import html
 import json
 import sys
 import time
+import warnings
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -28,13 +29,37 @@ HEADERS = {
 }
 FEEDS = {"online_reports": "report", "report_downloads": "report_downloads"}
 
+# www.gibsons.co.uk served an EXPIRED TLS certificate from 2026-10-31 ("certificate has expired"), which failed
+# 3 of 4 Broker Voice Sync runs. The catalogue is public report titles and links (no credentials or cookies are
+# sent), so for this one host, and only on that exact error, the request is retried without verification and a
+# warning is logged. Every other host, and every other TLS error on this host, stays strict.
+LENIENT_TLS_HOST = "www.gibsons.co.uk"
+
+
+def _cert_expired(exc):
+    return isinstance(exc, requests.exceptions.SSLError) and "certificate has expired" in str(exc)
+
+
+def get(url, **kw):
+    try:
+        return requests.get(url, **kw)
+    except requests.exceptions.SSLError as exc:
+        if requests.utils.urlparse(url).hostname != LENIENT_TLS_HOST or not _cert_expired(exc):
+            raise
+        print(f"WARNING: {LENIENT_TLS_HOST} presented an expired TLS certificate; retrying this public catalogue "
+              f"request without certificate verification", file=sys.stderr)
+        import urllib3
+        with warnings.catch_warnings():
+            warnings.simplefilter("ignore", urllib3.exceptions.InsecureRequestWarning)
+            return requests.get(url, verify=False, **kw)
+
 
 def fetch_kind(kind):
     rows, page, pages = [], 1, 1
     while page <= pages:
         for attempt in range(3):
             try:
-                r = requests.get(
+                r = get(
                     API.format(kind=kind),
                     params={"per_page": 100, "page": page, "_fields": "id,date,title,slug,link"},
                     headers=HEADERS,

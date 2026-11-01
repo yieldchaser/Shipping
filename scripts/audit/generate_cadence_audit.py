@@ -289,9 +289,11 @@ REGISTRY_DATA = [
         "publisher": "ISM Coasters & Mini-Bulkers",
         "folder": "corpus/01-brokers/ism",
         "md_dir": "data/extracted/md/ism",
-        "cadence": "Weekly (Monday)",
+        # one issue every other Monday on Hellenic Shipping News, alternating Handy / coaster editions
+        # (WP API 2026: 07-06 W26, 07-20 W29, 08-03 W31 ... 09-28 W39, 10-12 W41)
+        "cadence": "Bi-weekly (every other Monday, alternating Handy / coaster editions)",
         "pub_day": "Monday",
-        "frequency": "Weekly",
+        "frequency": "Bi-weekly",
         "earliest_date": "2021-07-05",
         "latest_date": "2026-09-28",
         "latest_report": "ism_28_09_2026_ism_coasters_and_mini_bulkers_week_39.pdf",
@@ -605,8 +607,9 @@ REGISTRY_DATA = [
         "publisher": "Seabrokers (Seabreeze Monthly Offshore)",
         "folder": "corpus/05-seabrokers",
         "md_dir": "data/extracted/md/seabrokers",
-        "cadence": "Monthly (1st of Month)",
+        "cadence": "Monthly (issue dated 1st of the month covered; published start of next month)",
         "pub_day": "1st of Month",
+        "issue_dated_covered_month": True,
         "frequency": "Monthly",
         "earliest_date": "2018-05-01",
         "latest_date": "2026-09-01",
@@ -725,9 +728,13 @@ REGISTRY_DATA = [
         "publisher": "Pilbara Ports Authority (PPA)",
         "folder": "corpus/09-ppa",
         "md_dir": "data/commodities",
-        "cadence": "Monthly (20th of Month)",
+        "cadence": "Monthly (month M figures published ~20th of M+1)",
         "pub_day": "20th of Month",
         "frequency": "Monthly",
+        # the CI scraper caches PDFs under hash names (no date in them), so the issue date is read from the series
+        # it writes; rows are dated the 1st of the month they cover, published in the next month
+        "series_date_csv": "data/commodities/australia_ppa_iron_ore.csv",
+        "issue_dated_covered_month": True,
         "earliest_date": "2016-03-11",
         "latest_date": "2026-07-28",
         "latest_report": "PPA Shipping Figures - July 2026.pdf",
@@ -1475,10 +1482,11 @@ def refresh_registry_data(today: date) -> None:
     for item in REGISTRY_DATA:
         f = facts[item["category_id"]]
         item.update(f)
-        latest = max(f["latest_raw_date"], f["latest_md_date"])
+        latest = max(f["latest_raw_date"], f["latest_md_date"], f.get("latest_series_date", ""))
         item["latest_date"] = latest or "n/a"
         item["latest_report"] = (f["latest_raw_file"] if latest and latest == f["latest_raw_date"]
-                                 else f["latest_md_file"]) or "n/a"
+                                 else f["latest_md_file"] if latest and latest == f["latest_md_date"]
+                                 else f.get("latest_series_file", "")) or "n/a"
         item["earliest_date"] = f["earliest_md_date"] or item.get("earliest_date", "n/a")
 
         # 3. Dynamically update row counts in series_csvs
