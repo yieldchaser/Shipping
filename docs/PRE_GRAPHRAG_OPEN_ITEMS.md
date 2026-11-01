@@ -148,6 +148,28 @@ MD files), `corpus/books/` (12 books). 166 series in `data/extracted/series/`. `
       - CI chained a twin PDF to itself (b36..b47, 1,705 duplicate rows) and the full merge sorted free-text
         dates: both gone with the rebuild. `ssy_capesize_series.csv` (orphan older copy) deleted earlier.
 
+- [x] Scheduled-pipeline wiring (2026-11-01). `tests/test_freshness_and_wiring.py` 19/19:
+      - `upstream_commodity_flows` dropped its data every week since 10-05: `validate_cargo_data.py` failed the run
+        (steel rule flagged months not yet published; USDA rule demanded the 77,695 rows that held 27,706
+        duplicates), so the commit step never ran. Rules now check what can be true. ComexStat: a commodity
+        answering only 429s raised KeyError and killed the run; now logged, others written, exit 1 for the report.
+      - `voyage_history_packed.json` had no writer (frozen 09-19): `build_voyage_history.py` now writes it daily
+        (legs with at least one end resolved to a port; 37,502 legs, 4,446 vessels). It also carries the LOCODE /
+        portid fields: the port-page fixture panel matched on them and found nothing before.
+      - `predictive_freight_signals.json`: scheduled in `data_expansion.yml`. Its `correlation_r` (0.72 x a hub
+        weight) and lead times were invented, not computed: removed.
+      - `cape_ffa_distribution.json` writer was never scheduled: now in `daily_update.yml`; dated by its data.
+      - Provenance manifest rebuilt at the end of `daily_update.yml` (ETF/futures/SGX row counts lagged a day).
+      - Dashboard markup typed stale values (59.4 Mt/mo, 547k fixtures, 38.9 Mt/mo, 182.8 Mt...) and the JS used
+        them as fallbacks when data was missing: placeholders are now a dash and every value comes from the caches.
+- [ ] chinadata.live retired its per-HS JSON API (`/api/v2/trade/hs/...` 404; the HS pages answer 403 to scripts).
+      `fetch_china_customs_demand.py` and `fetch_gacc_bauxite_alumina.py` stay at 2026-08 until a new source is
+      wired (GACC direct or UN Comtrade). The smoke test stays red on these two checks until then.
+- [ ] SEC tables: 208 of 1,339 MDs (GLBS, RIO, SFL, FRO, BHP, VALE ...) have statement rows stacked into one cell
+      ("Net operating revenue Cost of goods sold ... | 54,462 56,701 (40,798) ..."); values present, row structure
+      lost. 8 MDs hold a PDF-origin exhibit as one text line (RIO 20-F 2022/2023, VALE 6-K 2026-07/10). New filings
+      come out the same way (VALE 3Q26 6-Ks of 2026-10-30), so it is a converter fix plus a re-render, not new damage.
+
 ## Owner actions (not code)
 
 - LlamaCloud key rotation at the very end, then update the CI secret.
