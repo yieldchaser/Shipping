@@ -185,6 +185,11 @@ Build plan (layers, schema, DeepSeek runner, budget, phases and gates): `docs/GR
       challenge, stats.customs.gov.cn answers with a JS challenge, UN Comtrade China monthly stops at 2024-12. The
       dashboard labels the partner month. A tonnage split by country exists in news for some lines (SMM bauxite,
       alumina, chrome, manganese) but is a different metric from the USD shares and is not mixed into them.
+      2026-11-02: docs/CHINA_PARTNER_DATA_GAP.md says exactly what is missing and where it is published; a GACC
+      query export dropped in data/commodities/inbox/ is imported by import_china_partner_inbox.py (the upstream
+      workflow runs on a push to that folder). Origin side automated meanwhile: Brazil exports by destination
+      (ComexStat, iron ore / soybeans / crude / sugar, 2018 to live, tonnes) with its own Cargo tab panel.
+- [x] Star Asia deals series: 28 dates printed with year 2206 parsed as 2206; read as 2026 (raw kept).
 - [x] PortWatch hub file stopped at 2026-09-11 while the step reported success, and the weekly run hit its 15-minute
       limit: the script re-downloaded full history in date order, the FeatureServer errors on the third page, and
       the error JSON was read as "0 records". The hub slice is now cut from port_calls_daily.csv (kept current by
