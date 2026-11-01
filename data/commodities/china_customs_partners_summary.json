@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-19T08:03:26.128503+00:00",
+  "generated_at": "2026-11-01T19:50:48.861816+00:00",
   "source": "General Administration of Customs of the People's Republic of China (GACC)",
-  "api_provider": "chinadata.live / api/v2",
+  "api_provider": "chinadata.live / api/v2 to 2026-08; GACC query exports via inbox after",
   "commodities": {
     "2601": {
       "commodity": "Iron ore",
@@ -10,7 +10,7 @@
       "rationale": "Primary Capesize driver; captures Australia C5 vs Brazil C3 origin split",
       "coverage": {
         "first_month": "2018-01",
-        "latest_month": "2026-08",
+        "latest_month": "2026-09",
         "rows": 3527,
         "partner_count": 42,
         "total_value_usd": 1087320273514,
@@ -19,7 +19,7 @@
         "updated_at": null
       },
       "total_monthly_points": 104,
-      "latest_month": "2026-08",
+      "latest_month": "2026-09",
       "top_partners_all_time": [
         {
           "partner": "Australia",
@@ -50,36 +50,66 @@
       "latest_partners": [
         {
           "partner": "Australia",
-          "share_pct": 55.5,
-          "value_usd": 5751779666,
+          "share_pct": 59.23,
+          "value_usd": 6186000000,
           "rank": 1
         },
         {
           "partner": "Brazil",
-          "share_pct": 25.58,
-          "value_usd": 2651207144,
+          "share_pct": 22.98,
+          "value_usd": 2400000000,
           "rank": 2
         },
         {
           "partner": "South Africa",
-          "share_pct": 3.09,
-          "value_usd": 320694653,
+          "share_pct": 4.25,
+          "value_usd": 444258700,
           "rank": 3
         },
         {
           "partner": "Peru",
-          "share_pct": 2.01,
-          "value_usd": 208271399,
+          "share_pct": 2.26,
+          "value_usd": 236071600,
           "rank": 4
         },
         {
           "partner": "Guinea",
-          "share_pct": 1.93,
-          "value_usd": 200191976,
+          "share_pct": 1.99,
+          "value_usd": 208295600,
           "rank": 5
+        },
+        {
+          "partner": "Others",
+          "share_pct": 1.56,
+          "value_usd": 162618400,
+          "rank": 6
+        },
+        {
+          "partner": "India",
+          "share_pct": 1.29,
+          "value_usd": 134211500,
+          "rank": 7
+        },
+        {
+          "partner": "Mongolia",
+          "share_pct": 1.11,
+          "value_usd": 115900000,
+          "rank": 8
+        },
+        {
+          "partner": "Canada",
+          "share_pct": 1.07,
+          "value_usd": 112100000,
+          "rank": 9
+        },
+        {
+          "partner": "Mauritania",
+          "share_pct": 0.96,
+          "value_usd": 99750000,
+          "rank": 10
         }
       ],
-      "source_url": "https://chinadata.live/api/v2/trade/hs/2601?flow=import&period=all"
+      "source_url": "http://stats.customs.gov.cn/"
     },
     "2701": {
       "commodity": "Coal",
@@ -88,7 +118,7 @@
       "rationale": "Key Panamax/Supramax lane; Indonesia & Australia thermal/coking coal imports",
       "coverage": {
         "first_month": "2018-01",
-        "latest_month": "2026-08",
+        "latest_month": "2026-09",
         "rows": 1287,
         "partner_count": 19,
         "total_value_usd": 241297805080,
@@ -97,7 +127,7 @@
         "updated_at": null
       },
       "total_monthly_points": 104,
-      "latest_month": "2026-08",
+      "latest_month": "2026-09",
       "top_partners_all_time": [
         {
           "partner": "Russia",
@@ -127,37 +157,55 @@
       ],
       "latest_partners": [
         {
-          "partner": "Russia",
-          "share_pct": 32.31,
-          "value_usd": 1053704700,
+          "partner": "Australia",
+          "share_pct": 26.99,
+          "value_usd": 1226250000,
           "rank": 1
         },
         {
-          "partner": "Australia",
-          "share_pct": 29.76,
-          "value_usd": 970432222,
+          "partner": "Indonesia",
+          "share_pct": 25.1,
+          "value_usd": 1140360000,
           "rank": 2
         },
         {
-          "partner": "Mongolia",
-          "share_pct": 21.08,
-          "value_usd": 687577806,
+          "partner": "Russia",
+          "share_pct": 24.91,
+          "value_usd": 1131600000,
           "rank": 3
         },
         {
-          "partner": "Indonesia",
-          "share_pct": 8.02,
-          "value_usd": 261540502,
+          "partner": "Mongolia",
+          "share_pct": 20.73,
+          "value_usd": 941600000,
           "rank": 4
         },
         {
-          "partner": "Canada",
-          "share_pct": 5.3,
-          "value_usd": 172913519,
+          "partner": "Philippines",
+          "share_pct": 1.04,
+          "value_usd": 47250000,
           "rank": 5
+        },
+        {
+          "partner": "Colombia",
+          "share_pct": 0.68,
+          "value_usd": 30800000,
+          "rank": 6
+        },
+        {
+          "partner": "United States",
+          "share_pct": 0.4,
+          "value_usd": 18000000,
+          "rank": 7
+        },
+        {
+          "partner": "Canada",
+          "share_pct": 0.15,
+          "value_usd": 7040000,
+          "rank": 8
         }
       ],
-      "source_url": "https://chinadata.live/api/v2/trade/hs/2701?flow=import&period=all"
+      "source_url": "http://stats.customs.gov.cn/"
     },
     "26060000": {
       "commodity": "Bauxite",
@@ -166,7 +214,7 @@
       "rationale": "Validates Guinea mirror from demand side; Guinea SMB/Chalco destination",
       "coverage": {
         "first_month": "2021-01",
-        "latest_month": "2026-08",
+        "latest_month": "2026-09",
         "rows": 630,
         "partner_count": 18,
         "total_value_usd": 57241192809,
@@ -175,7 +223,7 @@
         "updated_at": null
       },
       "total_monthly_points": 68,
-      "latest_month": "2026-08",
+      "latest_month": "2026-09",
       "top_partners_all_time": [
         {
           "partner": "Guinea",
@@ -206,36 +254,54 @@
       "latest_partners": [
         {
           "partner": "Guinea",
-          "share_pct": 78.33,
-          "value_usd": 793937233,
+          "share_pct": 78.09,
+          "value_usd": 943195176,
           "rank": 1
         },
         {
           "partner": "Australia",
-          "share_pct": 17.95,
-          "value_usd": 181937359,
+          "share_pct": 20.16,
+          "value_usd": 243549147,
           "rank": 2
         },
         {
-          "partner": "Guyana",
-          "share_pct": 1.52,
-          "value_usd": 15392209,
+          "partner": "Laos",
+          "share_pct": 0.54,
+          "value_usd": 6519020,
           "rank": 3
         },
         {
-          "partner": "Laos",
-          "share_pct": 0.81,
-          "value_usd": 8189409,
+          "partner": "Ivory Coast",
+          "share_pct": 0.49,
+          "value_usd": 5877253,
           "rank": 4
         },
         {
-          "partner": "T\u00fcrkiye",
-          "share_pct": 0.69,
-          "value_usd": 7030913,
+          "partner": "Turkey",
+          "share_pct": 0.26,
+          "value_usd": 3090200,
           "rank": 5
+        },
+        {
+          "partner": "Guyana",
+          "share_pct": 0.25,
+          "value_usd": 3045533,
+          "rank": 6
+        },
+        {
+          "partner": "Malaysia",
+          "share_pct": 0.2,
+          "value_usd": 2372643,
+          "rank": 7
+        },
+        {
+          "partner": "Ghana",
+          "share_pct": 0.02,
+          "value_usd": 251028,
+          "rank": 8
         }
       ],
-      "source_url": "https://chinadata.live/api/v2/trade/hs/26060000?flow=import&period=all"
+      "source_url": "http://stats.customs.gov.cn/"
     },
     "28182000": {
       "commodity": "Alumina",
@@ -244,7 +310,7 @@
       "rationale": "Pairs with bauxite; smelter feed imports",
       "coverage": {
         "first_month": "2021-01",
-        "latest_month": "2026-08",
+        "latest_month": "2026-09",
         "rows": 1397,
         "partner_count": 24,
         "total_value_usd": 5689600004,
@@ -253,7 +319,7 @@
         "updated_at": null
       },
       "total_monthly_points": 68,
-      "latest_month": "2026-08",
+      "latest_month": "2026-09",
       "top_partners_all_time": [
         {
           "partner": "Australia",
@@ -284,36 +350,30 @@
       "latest_partners": [
         {
           "partner": "Australia",
-          "share_pct": 51.8,
-          "value_usd": 72311282,
+          "share_pct": 90.27,
+          "value_usd": 30240000,
           "rank": 1
         },
         {
           "partner": "Indonesia",
-          "share_pct": 34.99,
-          "value_usd": 48841297,
+          "share_pct": 4.59,
+          "value_usd": 1536000,
           "rank": 2
         },
         {
           "partner": "Japan",
-          "share_pct": 7.0,
-          "value_usd": 9777619,
+          "share_pct": 3.06,
+          "value_usd": 1024000,
           "rank": 3
         },
         {
           "partner": "Germany",
-          "share_pct": 2.52,
-          "value_usd": 3521197,
+          "share_pct": 2.09,
+          "value_usd": 700000,
           "rank": 4
-        },
-        {
-          "partner": "France",
-          "share_pct": 2.08,
-          "value_usd": 2909166,
-          "rank": 5
         }
       ],
-      "source_url": "https://chinadata.live/api/v2/trade/hs/28182000?flow=import&period=all"
+      "source_url": "http://stats.customs.gov.cn/"
     },
     "1201": {
       "commodity": "Soybeans",
@@ -322,7 +382,7 @@
       "rationale": "Major Panamax agricultural demand; Brazil vs US seasonal swing",
       "coverage": {
         "first_month": "2018-01",
-        "latest_month": "2026-08",
+        "latest_month": "2026-09",
         "rows": 876,
         "partner_count": 12,
         "total_value_usd": 423760435364,
@@ -331,7 +391,7 @@
         "updated_at": null
       },
       "total_monthly_points": 104,
-      "latest_month": "2026-08",
+      "latest_month": "2026-09",
       "top_partners_all_time": [
         {
           "partner": "Brazil",
@@ -362,36 +422,36 @@
       "latest_partners": [
         {
           "partner": "Brazil",
-          "share_pct": 87.41,
-          "value_usd": 5112115282,
+          "share_pct": 90.09,
+          "value_usd": 5329000000,
           "rank": 1
         },
         {
           "partner": "Argentina",
-          "share_pct": 7.17,
-          "value_usd": 419434087,
+          "share_pct": 6.31,
+          "value_usd": 373000000,
           "rank": 2
         },
         {
-          "partner": "Uruguay",
-          "share_pct": 2.37,
-          "value_usd": 138398449,
+          "partner": "United States",
+          "share_pct": 2.99,
+          "value_usd": 177000000,
           "rank": 3
         },
         {
-          "partner": "United States",
-          "share_pct": 1.66,
-          "value_usd": 97237326,
+          "partner": "Uruguay",
+          "share_pct": 0.42,
+          "value_usd": 25000000,
           "rank": 4
         },
         {
-          "partner": "Russia",
-          "share_pct": 1.13,
-          "value_usd": 66049557,
+          "partner": "Canada",
+          "share_pct": 0.19,
+          "value_usd": 11000000,
           "rank": 5
         }
       ],
-      "source_url": "https://chinadata.live/api/v2/trade/hs/1201?flow=import&period=all"
+      "source_url": "http://stats.customs.gov.cn/"
     },
     "2709": {
       "commodity": "Crude oil",
@@ -400,7 +460,7 @@
       "rationale": "Key VLCC driver; Arabian Gulf & Atlantic Basin flows into China",
       "coverage": {
         "first_month": "2018-01",
-        "latest_month": "2026-08",
+        "latest_month": "2026-09",
         "rows": 3187,
         "partner_count": 41,
         "total_value_usd": 2441158142557,
@@ -409,7 +469,7 @@
         "updated_at": null
       },
       "total_monthly_points": 104,
-      "latest_month": "2026-08",
+      "latest_month": "2026-09",
       "top_partners_all_time": [
         {
           "partner": "Russia",
@@ -440,36 +500,66 @@
       "latest_partners": [
         {
           "partner": "Russia",
-          "share_pct": 28.49,
-          "value_usd": 6473746820,
+          "share_pct": 26.78,
+          "value_usd": 6590000000,
           "rank": 1
         },
         {
-          "partner": "Brazil",
-          "share_pct": 10.22,
-          "value_usd": 2322575270,
+          "partner": "Iraq",
+          "share_pct": 12.94,
+          "value_usd": 3184000000,
           "rank": 2
         },
         {
-          "partner": "Saudi Arabia",
-          "share_pct": 8.41,
-          "value_usd": 1910341446,
+          "partner": "Brazil",
+          "share_pct": 12.13,
+          "value_usd": 2985000000,
           "rank": 3
         },
         {
-          "partner": "Indonesia",
-          "share_pct": 8.19,
-          "value_usd": 1861592636,
+          "partner": "Saudi Arabia",
+          "share_pct": 7.28,
+          "value_usd": 1791000000,
           "rank": 4
         },
         {
-          "partner": "UAE",
-          "share_pct": 7.92,
-          "value_usd": 1798921140,
+          "partner": "Malaysia",
+          "share_pct": 6.74,
+          "value_usd": 1658000000,
           "rank": 5
+        },
+        {
+          "partner": "United Arab Emirates",
+          "share_pct": 6.47,
+          "value_usd": 1592000000,
+          "rank": 6
+        },
+        {
+          "partner": "Oman",
+          "share_pct": 6.2,
+          "value_usd": 1526000000,
+          "rank": 7
+        },
+        {
+          "partner": "Angola",
+          "share_pct": 4.85,
+          "value_usd": 1194000000,
+          "rank": 8
+        },
+        {
+          "partner": "Others",
+          "share_pct": 4.75,
+          "value_usd": 1169900000,
+          "rank": 9
+        },
+        {
+          "partner": "Kuwait",
+          "share_pct": 4.31,
+          "value_usd": 1061000000,
+          "rank": 10
         }
       ],
-      "source_url": "https://chinadata.live/api/v2/trade/hs/2709?flow=import&period=all"
+      "source_url": "http://stats.customs.gov.cn/"
     },
     "2711": {
       "commodity": "LNG / LPG",
@@ -478,7 +568,7 @@
       "rationale": "Seaborne LNG and LPG import demand from Australia, Qatar, US",
       "coverage": {
         "first_month": "2018-01",
-        "latest_month": "2026-08",
+        "latest_month": "2026-09",
         "rows": 2865,
         "partner_count": 34,
         "total_value_usd": 607007364459,
@@ -487,7 +577,7 @@
         "updated_at": null
       },
       "total_monthly_points": 104,
-      "latest_month": "2026-08",
+      "latest_month": "2026-09",
       "top_partners_all_time": [
         {
           "partner": "Australia",
@@ -517,37 +607,43 @@
       ],
       "latest_partners": [
         {
-          "partner": "Russia",
-          "share_pct": 21.22,
-          "value_usd": 1634390259,
+          "partner": "Australia",
+          "share_pct": 31.75,
+          "value_usd": 2015000000,
           "rank": 1
         },
         {
-          "partner": "Australia",
-          "share_pct": 19.57,
-          "value_usd": 1507267712,
+          "partner": "Qatar",
+          "share_pct": 21.62,
+          "value_usd": 1372000000,
           "rank": 2
         },
         {
-          "partner": "United States",
-          "share_pct": 12.77,
-          "value_usd": 983080131,
+          "partner": "Russia",
+          "share_pct": 19.79,
+          "value_usd": 1256000000,
           "rank": 3
         },
         {
           "partner": "Turkmenistan",
-          "share_pct": 10.21,
-          "value_usd": 785859398,
+          "share_pct": 17.02,
+          "value_usd": 1080000000,
           "rank": 4
         },
         {
           "partner": "Malaysia",
-          "share_pct": 9.29,
-          "value_usd": 715718348,
+          "share_pct": 5.99,
+          "value_usd": 380000000,
           "rank": 5
+        },
+        {
+          "partner": "Indonesia",
+          "share_pct": 3.84,
+          "value_usd": 243400000,
+          "rank": 6
         }
       ],
-      "source_url": "https://chinadata.live/api/v2/trade/hs/2711?flow=import&period=all"
+      "source_url": "http://stats.customs.gov.cn/"
     },
     "3102": {
       "commodity": "Fertiliser (Nitrogenous)",
@@ -556,7 +652,7 @@
       "rationale": "Minor bulk chemical fertilisers",
       "coverage": {
         "first_month": "2018-01",
-        "latest_month": "2026-08",
+        "latest_month": "2026-09",
         "rows": 1493,
         "partner_count": 20,
         "total_value_usd": 285168895,
@@ -565,7 +661,7 @@
         "updated_at": null
       },
       "total_monthly_points": 104,
-      "latest_month": "2026-08",
+      "latest_month": "2026-09",
       "top_partners_all_time": [
         {
           "partner": "Germany",
@@ -595,37 +691,31 @@
       ],
       "latest_partners": [
         {
-          "partner": "Poland",
-          "share_pct": 22.69,
-          "value_usd": 200819,
+          "partner": "Norway",
+          "share_pct": 37.5,
+          "value_usd": 69375000,
           "rank": 1
         },
         {
-          "partner": "Germany",
-          "share_pct": 19.19,
-          "value_usd": 169858,
+          "partner": "Russia",
+          "share_pct": 30.21,
+          "value_usd": 55885000,
           "rank": 2
         },
         {
-          "partner": "United Kingdom",
-          "share_pct": 14.68,
-          "value_usd": 129955,
+          "partner": "Egypt",
+          "share_pct": 19.79,
+          "value_usd": 36610000,
           "rank": 3
         },
         {
-          "partner": "Netherlands",
-          "share_pct": 11.61,
-          "value_usd": 102795,
+          "partner": "Oman",
+          "share_pct": 12.5,
+          "value_usd": 23130000,
           "rank": 4
-        },
-        {
-          "partner": "Italy",
-          "share_pct": 7.78,
-          "value_usd": 68846,
-          "rank": 5
         }
       ],
-      "source_url": "https://chinadata.live/api/v2/trade/hs/3102?flow=import&period=all"
+      "source_url": "http://stats.customs.gov.cn/"
     },
     "3105": {
       "commodity": "Fertilisers (NPK)",
@@ -634,7 +724,7 @@
       "rationale": "Minor bulk compound fertilisers",
       "coverage": {
         "first_month": "2018-01",
-        "latest_month": "2026-08",
+        "latest_month": "2026-09",
         "rows": 2958,
         "partner_count": 34,
         "total_value_usd": 6526596306,
@@ -643,7 +733,7 @@
         "updated_at": null
       },
       "total_monthly_points": 104,
-      "latest_month": "2026-08",
+      "latest_month": "2026-09",
       "top_partners_all_time": [
         {
           "partner": "Norway",
@@ -673,37 +763,31 @@
       ],
       "latest_partners": [
         {
-          "partner": "Norway",
-          "share_pct": 49.88,
-          "value_usd": 34414273,
+          "partner": "Belgium",
+          "share_pct": 39.96,
+          "value_usd": 156250000,
           "rank": 1
         },
         {
-          "partner": "Belgium",
-          "share_pct": 21.15,
-          "value_usd": 14589978,
+          "partner": "Russia",
+          "share_pct": 35.09,
+          "value_usd": 137200000,
           "rank": 2
         },
         {
-          "partner": "Russia",
-          "share_pct": 8.7,
-          "value_usd": 5999013,
+          "partner": "Jordan",
+          "share_pct": 15.1,
+          "value_usd": 59045000,
           "rank": 3
         },
         {
           "partner": "Israel",
-          "share_pct": 6.05,
-          "value_usd": 4173844,
+          "share_pct": 9.85,
+          "value_usd": 38505000,
           "rank": 4
-        },
-        {
-          "partner": "Italy",
-          "share_pct": 3.43,
-          "value_usd": 2365741,
-          "rank": 5
         }
       ],
-      "source_url": "https://chinadata.live/api/v2/trade/hs/3105?flow=import&period=all"
+      "source_url": "http://stats.customs.gov.cn/"
     },
     "72": {
       "commodity": "Steel products",
@@ -714,13 +798,45 @@
         "first_period": "2018-01",
         "latest_period": "2026-08",
         "row_count": 104,
-        "scope": "Versioned release: HS2 monthly exports/imports across public partner countries from the pinned GACC source."
+        "scope": "Versioned release: HS2 monthly exports/imports across public partner countries from the pinned GACC source.",
+        "latest_month": "2026-09"
       },
       "total_monthly_points": 104,
-      "latest_month": null,
+      "latest_month": "2026-09",
       "top_partners_all_time": [],
-      "latest_partners": [],
-      "source_url": "https://chinadata.live/api/v2/trade/hs/72?flow=export&period=all"
+      "latest_partners": [
+        {
+          "partner": "Japan",
+          "share_pct": 44.69,
+          "value_usd": 416000000,
+          "rank": 1
+        },
+        {
+          "partner": "South Korea",
+          "share_pct": 34.97,
+          "value_usd": 325500000,
+          "rank": 2
+        },
+        {
+          "partner": "Taiwan",
+          "share_pct": 9.16,
+          "value_usd": 85300000,
+          "rank": 3
+        },
+        {
+          "partner": "Germany",
+          "share_pct": 6.1,
+          "value_usd": 56800000,
+          "rank": 4
+        },
+        {
+          "partner": "Others",
+          "share_pct": 5.07,
+          "value_usd": 47200000,
+          "rank": 5
+        }
+      ],
+      "source_url": "http://stats.customs.gov.cn/"
     }
   }
 }

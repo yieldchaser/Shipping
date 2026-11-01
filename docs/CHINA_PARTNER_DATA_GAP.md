@@ -23,8 +23,9 @@ with both **quantity** (as declared, first unit: kg / tonnes) and **value in USD
 
 One row per (month, HS code, partner country): `month, hs_code, partner, quantity, quantity_unit, value_usd`.
 The dashboard uses it for the "Who feeds China" panel (partner shares) and the Guinea/Australia bauxite split.
-History up to 2026-08 is already stored in `data/commodities/china_customs_monthly_imports.csv` and
-`china_customs_partners_summary.json`; only new months are needed.
+History up to 2026-09 is already stored in `data/commodities/china_customs_monthly_imports.csv` and
+`china_customs_partners_summary.json` (September 2026 was ingested via `china_partner_imports_2026-09.csv`);
+only future new months (2026-10 onward) are needed.
 
 ## Where it is published (all free)
 

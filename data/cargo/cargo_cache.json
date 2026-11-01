@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-01T18:46:35Z",
+    "generated_at": "2026-11-01T19:51:54Z",
     "as_of": "2026-11-01",
     "version": "2.0.0",
     "tab": "Cargo & Trade Flows"
@@ -8,7 +8,7 @@
   "provenance_registry": {
     "registry_metadata": {
       "version": "2.0.0",
-      "generated_at": "2026-11-01T18:46:35Z",
+      "generated_at": "2026-11-01T19:51:54Z",
       "as_of": "2026-11-01",
       "total_datasets": 19,
       "architecture": "Centralized Dynamic Live Ingest Registry"
@@ -139,7 +139,7 @@
         "freight_note": "Guinea-to-China bauxite requires Capesize vessels traversing ~11,000 nautical miles via Cape of Good Hope, generating sustained long-haul ton-mile absorption for Atlantic Capesizes compared to shorter Pacific routes."
       },
       "who_feeds_china": {
-        "source": "China GACC customs statistics: chinadata.live HS series, continued from 2026-09 by the GACC Monthly Bulletin (same-scope lines)",
+        "source": "China GACC customs statistics: chinadata.live HS series",
         "publisher": "General Administration of Customs of the People's Republic of China",
         "method": "Monthly customs import value by HS code (USD)",
         "source_url": "http://english.customs.gov.cn/Statistics/Statistics?ColumnId=1",
@@ -147,7 +147,7 @@
         "min_date": "2018-01",
         "max_date": "2026-09",
         "as_of": "2026-09",
-        "row_count": 971,
+        "row_count": 978,
         "status": "LIVE_USD_DISCLAIMER",
         "disclaimer": "USD value, not tonnage (tonnage for the bulletin lines is in china_customs_bulletin)",
         "unit": "USD Millions ($M/mo)"
@@ -106902,7 +106902,8 @@
       "2026-04": 62.15,
       "2026-05": 64.69,
       "2026-06": 66.21,
-      "2026-07": 66.73
+      "2026-07": 66.73,
+      "2026-09": 68.2
     },
     "annual_totals": [
       {
@@ -107139,7 +107140,7 @@
   },
   "who_feeds_china": {
     "provenance": {
-      "source": "China GACC customs statistics: chinadata.live HS series, continued from 2026-09 by the GACC Monthly Bulletin (same-scope lines)",
+      "source": "China GACC customs statistics: chinadata.live HS series",
       "publisher": "General Administration of Customs of the People's Republic of China",
       "method": "Monthly customs import value by HS code (USD)",
       "source_url": "http://english.customs.gov.cn/Statistics/Statistics?ColumnId=1",
@@ -107147,7 +107148,7 @@
       "min_date": "2018-01",
       "max_date": "2026-09",
       "as_of": "2026-09",
-      "row_count": 971,
+      "row_count": 978,
       "status": "LIVE_USD_DISCLAIMER",
       "disclaimer": "USD value, not tonnage (tonnage for the bulletin lines is in china_customs_bulletin)",
       "unit": "USD Millions ($M/mo)"
@@ -107222,7 +107223,8 @@
           "2026-05",
           "2026-06",
           "2026-07",
-          "2026-08"
+          "2026-08",
+          "2026-09"
         ],
         "values_usd_m": [
           115.46,
@@ -107292,24 +107294,25 @@
           166.59,
           173.47,
           142.55,
-          139.59
+          139.59,
+          33.5
         ],
-        "latest_value_usd_m": 139.59,
+        "latest_value_usd_m": 33.5,
         "top_partners": [
           {
             "country": "Australia",
-            "share_pct": 51.8
+            "share_pct": 90.27
           },
           {
             "country": "Indonesia",
-            "share_pct": 34.99
+            "share_pct": 4.59
           },
           {
             "country": "Japan",
-            "share_pct": 7.0
+            "share_pct": 3.06
           }
         ],
-        "partners_month": "2026-08",
+        "partners_month": "2026-09",
         "shipping_class": "Handymax / Supramax",
         "hs_code": "28182000",
         "freight_note": ""
@@ -107383,7 +107386,8 @@
           "2026-05",
           "2026-06",
           "2026-07",
-          "2026-08"
+          "2026-08",
+          "2026-09"
         ],
         "values_usd_m": [
           362.09,
@@ -107453,24 +107457,25 @@
           1461.12,
           1305.98,
           1223.52,
-          1013.55
+          1013.55,
+          1207.9
         ],
-        "latest_value_usd_m": 1013.55,
+        "latest_value_usd_m": 1207.9,
         "top_partners": [
           {
             "country": "Guinea",
-            "share_pct": 78.33
+            "share_pct": 78.09
           },
           {
             "country": "Australia",
-            "share_pct": 17.95
+            "share_pct": 20.16
           },
           {
-            "country": "Guyana",
-            "share_pct": 1.52
+            "country": "Laos",
+            "share_pct": 0.54
           }
         ],
-        "partners_month": "2026-08",
+        "partners_month": "2026-09",
         "shipping_class": "Capesize / Supramax",
         "hs_code": "26060000",
         "freight_note": "Guinea vs Australia origin split; Guinea long-haul cape demand absorbs ~11,000 nm per voyage vs ~3,500 nm Pacific routes."
@@ -107580,7 +107585,8 @@
           "2026-05",
           "2026-06",
           "2026-07",
-          "2026-08"
+          "2026-08",
+          "2026-09"
         ],
         "values_usd_m": [
           1826.35,
@@ -107686,24 +107692,25 @@
           2076.44,
           2793.57,
           3278.49,
-          3261.1
+          3261.1,
+          4542.9
         ],
-        "latest_value_usd_m": 3261.1,
+        "latest_value_usd_m": 4542.9,
         "top_partners": [
           {
-            "country": "Russia",
-            "share_pct": 32.31
-          },
-          {
             "country": "Australia",
-            "share_pct": 29.76
+            "share_pct": 26.99
           },
           {
-            "country": "Mongolia",
-            "share_pct": 21.08
+            "country": "Indonesia",
+            "share_pct": 25.1
+          },
+          {
+            "country": "Russia",
+            "share_pct": 24.91
           }
         ],
-        "partners_month": "2026-08",
+        "partners_month": "2026-09",
         "shipping_class": "Panamax / Supramax",
         "hs_code": "2701",
         "freight_note": "Indonesia/Australia/Russia seaborne supply vs Mongolia overland rail/truck (non-seaborne trade corridor)."
@@ -107927,18 +107934,18 @@
         "top_partners": [
           {
             "country": "Russia",
-            "share_pct": 28.49
+            "share_pct": 26.78
+          },
+          {
+            "country": "Iraq",
+            "share_pct": 12.94
           },
           {
             "country": "Brazil",
-            "share_pct": 10.22
-          },
-          {
-            "country": "Saudi Arabia",
-            "share_pct": 8.41
+            "share_pct": 12.13
           }
         ],
-        "partners_month": "2026-08",
+        "partners_month": "2026-09",
         "shipping_class": "VLCC",
         "hs_code": "2709",
         "freight_note": ""
@@ -108048,7 +108055,8 @@
           "2026-05",
           "2026-06",
           "2026-07",
-          "2026-08"
+          "2026-08",
+          "2026-09"
         ],
         "values_usd_m": [
           1.24,
@@ -108154,24 +108162,25 @@
           1.19,
           1.0,
           0.93,
-          0.89
+          0.89,
+          185.0
         ],
-        "latest_value_usd_m": 0.89,
+        "latest_value_usd_m": 185.0,
         "top_partners": [
           {
-            "country": "Poland",
-            "share_pct": 22.69
+            "country": "Norway",
+            "share_pct": 37.5
           },
           {
-            "country": "Germany",
-            "share_pct": 19.19
+            "country": "Russia",
+            "share_pct": 30.21
           },
           {
-            "country": "United Kingdom",
-            "share_pct": 14.68
+            "country": "Egypt",
+            "share_pct": 19.79
           }
         ],
-        "partners_month": "2026-08",
+        "partners_month": "2026-09",
         "shipping_class": "Handysize / Supramax",
         "hs_code": "3102",
         "freight_note": ""
@@ -108281,7 +108290,8 @@
           "2026-05",
           "2026-06",
           "2026-07",
-          "2026-08"
+          "2026-08",
+          "2026-09"
         ],
         "values_usd_m": [
           74.92,
@@ -108387,24 +108397,25 @@
           63.02,
           65.89,
           71.58,
-          68.99
+          68.99,
+          391.0
         ],
-        "latest_value_usd_m": 68.99,
+        "latest_value_usd_m": 391.0,
         "top_partners": [
           {
-            "country": "Norway",
-            "share_pct": 49.88
-          },
-          {
             "country": "Belgium",
-            "share_pct": 21.15
+            "share_pct": 39.96
           },
           {
             "country": "Russia",
-            "share_pct": 8.7
+            "share_pct": 35.09
+          },
+          {
+            "country": "Jordan",
+            "share_pct": 15.1
           }
         ],
-        "partners_month": "2026-08",
+        "partners_month": "2026-09",
         "shipping_class": "Handysize / Supramax",
         "hs_code": "3105",
         "freight_note": ""
@@ -108622,24 +108633,24 @@
           11637.98,
           10876.33,
           10363.54,
-          10444.1
+          10444.06
         ],
-        "latest_value_usd_m": 10444.1,
+        "latest_value_usd_m": 10444.06,
         "top_partners": [
           {
             "country": "Australia",
-            "share_pct": 55.5
+            "share_pct": 59.23
           },
           {
             "country": "Brazil",
-            "share_pct": 25.58
+            "share_pct": 22.98
           },
           {
             "country": "South Africa",
-            "share_pct": 3.09
+            "share_pct": 4.25
           }
         ],
-        "partners_month": "2026-08",
+        "partners_month": "2026-09",
         "shipping_class": "Capesize",
         "hs_code": "2601",
         "freight_note": "Australia vs Brazil origin split directly dictates C5 (Pacific) vs C3 (Atlantic) Capesize demand; long-haul Atlantic voyages generate substantial ton-mile absorption."
@@ -108749,7 +108760,8 @@
           "2026-05",
           "2026-06",
           "2026-07",
-          "2026-08"
+          "2026-08",
+          "2026-09"
         ],
         "values_usd_m": [
           4271.73,
@@ -108855,24 +108867,25 @@
           6565.1,
           7111.04,
           8037.76,
-          7700.65
+          7700.65,
+          6346.4
         ],
-        "latest_value_usd_m": 7700.65,
+        "latest_value_usd_m": 6346.4,
         "top_partners": [
           {
-            "country": "Russia",
-            "share_pct": 21.22
-          },
-          {
             "country": "Australia",
-            "share_pct": 19.57
+            "share_pct": 31.75
           },
           {
-            "country": "United States",
-            "share_pct": 12.77
+            "country": "Qatar",
+            "share_pct": 21.62
+          },
+          {
+            "country": "Russia",
+            "share_pct": 19.79
           }
         ],
-        "partners_month": "2026-08",
+        "partners_month": "2026-09",
         "shipping_class": "Gas carrier",
         "hs_code": "2711",
         "freight_note": ""
@@ -109096,18 +109109,18 @@
         "top_partners": [
           {
             "country": "Brazil",
-            "share_pct": 87.41
+            "share_pct": 90.09
           },
           {
             "country": "Argentina",
-            "share_pct": 7.17
+            "share_pct": 6.31
           },
           {
-            "country": "Uruguay",
-            "share_pct": 2.37
+            "country": "United States",
+            "share_pct": 2.99
           }
         ],
-        "partners_month": "2026-08",
+        "partners_month": "2026-09",
         "shipping_class": "Panamax",
         "hs_code": "1201",
         "freight_note": "Seasonal origin flip: Brazilian export peak (Mar-Jul) gives way to US Gulf/PNW harvest export season (Sep-Jan)."
@@ -109217,7 +109230,8 @@
           "2026-05",
           "2026-06",
           "2026-07",
-          "2026-08"
+          "2026-08",
+          "2026-09"
         ],
         "values_usd_m": [
           3133.95,
@@ -109323,11 +109337,25 @@
           6627.32,
           7279.92,
           7057.39,
-          6793.66
+          6793.66,
+          930.8
         ],
-        "latest_value_usd_m": 6793.66,
-        "top_partners": [],
-        "partners_month": null,
+        "latest_value_usd_m": 930.8,
+        "top_partners": [
+          {
+            "country": "Japan",
+            "share_pct": 44.69
+          },
+          {
+            "country": "South Korea",
+            "share_pct": 34.97
+          },
+          {
+            "country": "Taiwan",
+            "share_pct": 9.16
+          }
+        ],
+        "partners_month": "2026-09",
         "shipping_class": "Supramax / Handysize",
         "hs_code": "72",
         "freight_note": ""
@@ -130182,7 +130210,7 @@
       "Alumina": {
         "vessel_class": "Handymax / Supramax",
         "trade_flow": "China Imports",
-        "source": "China GACC (HS 28182000) as published by SMM: On a monthly basis, in September China imported 69,800 tons of alumina and exported 237,800 tons, resulting in net exports of 168,000 tons, a further expansion of 122.6% compared with net exports of 75,500 tons in August",
+        "source": "China GACC (HS 28182000, query export via inbox)",
         "envelope": {
           "months": [
             "Jan",

@@ -180,7 +180,7 @@ Build plan (layers, schema, DeepSeek runner, budget, phases and gates): `docs/GR
       11.551 / 13.8298 Mt; alumina 349,500 / 69,800 t). Guards: customs-quoting articles only, single-month import
       sentences, Guinea kept only beside the China total of the same article (a weekly review's 4.99 Mt "shipments"
       was caught this way). Playwright channel and value-share estimate removed.
-- [ ] Per-country partner shares (USD) for iron ore, coal, crude, LNG, soybeans and fertilizers stop at 2026-08: the
+- [x] Per-country partner shares (USD) for iron ore, coal, crude, LNG, soybeans and fertilizers stop at 2026-08: the
       GACC bulletin has no country split, chinadata.live's trade API is retired and its pages sit behind a
       challenge, stats.customs.gov.cn answers with a JS challenge, UN Comtrade China monthly stops at 2024-12. The
       dashboard labels the partner month. A tonnage split by country exists in news for some lines (SMM bauxite,
@@ -189,6 +189,10 @@ Build plan (layers, schema, DeepSeek runner, budget, phases and gates): `docs/GR
       query export dropped in data/commodities/inbox/ is imported by import_china_partner_inbox.py (the upstream
       workflow runs on a push to that folder). Origin side automated meanwhile: Brazil exports by destination
       (ComexStat, iron ore / soybeans / crude / sugar, 2018 to live, tonnes) with its own Cargo tab panel.
+      2026-11-02: 2026-09 GACC bilateral partner imports ingested across all 10 core commodities (Iron Ore 2601,
+      Coal 2701, Crude Oil 2709, Natural Gas 2711, Soybeans 1201, Fertilizers 3102 & 3105, Steel 72, Bauxite 26060000,
+      Alumina 28182000) via data/commodities/inbox/china_partner_imports_2026-09.csv. china_customs_monthly_imports.csv,
+      china_customs_partners_summary.json, guinea_bauxite_exports.csv, minor_bulks_monthly.csv and cargo cache updated.
 - [x] Star Asia deals series: 28 dates printed with year 2206 parsed as 2206; read as 2026 (raw kept).
 - [x] PortWatch hub file stopped at 2026-09-11 while the step reported success, and the weekly run hit its 15-minute
       limit: the script re-downloaded full history in date order, the FeatureServer errors on the third page, and
