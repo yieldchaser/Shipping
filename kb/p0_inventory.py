@@ -107,6 +107,11 @@ def sha256(path: Path) -> str:
     return h.hexdigest()
 
 
+def sha256_lf(path: Path) -> str:
+    """sha256 of the file with CRLF read back as LF, i.e. of the blob git stores."""
+    return hashlib.sha256(path.read_bytes().replace(b"\r\n", b"\n")).hexdigest()
+
+
 def load_tokenizer(path: str | None):
     try:
         from tokenizers import Tokenizer
@@ -174,7 +179,8 @@ def main() -> int:
                     r3 = "" if fm.get("id") and "API" in text[:1500] else "no source_file"
                 elif found is None:
                     r3 = f"source_file missing: {src}"
-                elif fm.get("source_sha256") and not a.no_hash and sha256(found) != fm["source_sha256"]:
+                elif fm.get("source_sha256") and not a.no_hash and fm["source_sha256"] not in (
+                        sha256(found), sha256_lf(found)):   # Windows checkouts turn stored LF into CRLF
                     r3 = "source_sha256 mismatch"
             # R4
             r4 = "" if kind == "reference" or d else "no parseable publication date"

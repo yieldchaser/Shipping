@@ -2,8 +2,10 @@ name: Weekly Poten Opinions & Drewry WCI Ingest
 
 on:
   schedule:
-    # Every Friday at 17:00 UTC (following Poten & Drewry weekly publication)
-    - cron: '0 17 * * 5'
+    # Daily 17:00 UTC. Poten emails the Friday opinion to subscribers and posts it on poten.com days or weeks
+    # later (Oct 16 2026 issue online Oct 19; Oct 23 / Oct 30 not online by Nov 2), so a Friday-only run caught
+    # a Monday posting a week late. Both steps are idempotent (Poten known-set, WCI date dedupe).
+    - cron: '0 17 * * *'
   workflow_dispatch:
     # One-shot Wayback backfill wiring (no auto-run): default weekly run only
     # appends the latest assessed print. Set backfill_2011=true to run
