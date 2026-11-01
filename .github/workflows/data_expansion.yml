@@ -107,12 +107,15 @@ jobs:
         # compute_port_stress_matrix reads data/congestion/port_calls_daily.csv
         # (written by the PortWatch step above) and rewrites only its own two
         # outputs; build_port_stress_cache derives only from that matrix CSV.
+        # build_predictive_signals writes data/derived/predictive_freight_signals.json.
         # Idempotent: pure recompute from the same inputs; graceful-fail guarded.
         continue-on-error: true
         timeout-minutes: 20
         run: |
           if [ -f scripts/compute_port_stress_matrix.py ]; then python scripts/compute_port_stress_matrix.py; fi
           if [ -f scripts/congestion/build_port_stress_cache.py ]; then python scripts/congestion/build_port_stress_cache.py; fi
+          # hub anomalies from the fresh stress summary, paired with the latest Baltic index prints
+          if [ -f scripts/congestion/build_predictive_signals.py ]; then python scripts/congestion/build_predictive_signals.py; fi
 
       - name: PortWatch expanded universe (2065 ports) refresh
         # scripts/scrapers/fetch_portwatch_ports_expanded.py --refresh:

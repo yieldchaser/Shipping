@@ -59,7 +59,7 @@ def test_bix_archive_badge_dates_from_cache():
     assert "Archive begins 2026-08-24" not in C
     assert "'Archive ' + d0 + ' to ' + d1" in C
     # honest loading placeholder until the cache lands
-    assert "Archive span: computing from bix history" in C
+    assert ">Archive: computing…</span>" in C
 
 
 def test_only_labeled_design_constant_dates():
@@ -79,7 +79,8 @@ def test_scenario_horizon_input_follows_snapshot():
 def test_coverage_engine_covers_tables_charts_and_roll_badges():
     # table-header branch with per-column copy + honest generic fallback
     assert "panel.querySelectorAll('th')" in C
-    assert "Column of this table; every cell is computed from the cache section backing the table" in C
+    # 6143e04b0d reworded the generic fallback; the branch itself must stay
+    assert "if (!h) h = wrapT(key) + rowT('Data Series'" in C
     # named chart overrides for the canvases the sweep flagged
     for cid in ["drawdownChart", "spaghettiChart", "monthlySpaghettiChart",
                 "deconstContractChart", "fearnFxMonthly", "zSparkDry", "zSparkTanker"]:

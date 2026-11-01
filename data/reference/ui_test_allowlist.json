@@ -13,6 +13,14 @@
       "reason": "Standard time window filter control label"
     },
     {
+      "text": "Last 30 Days",
+      "reason": "Time window filter option label (capitalised variant)"
+    },
+    {
+      "text": "Last 90 Days",
+      "reason": "Time window filter option label (capitalised variant)"
+    },
+    {
       "text": "+10% All",
       "reason": "Curve shifter macro control button label"
     },

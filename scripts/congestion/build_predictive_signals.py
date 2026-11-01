@@ -5,11 +5,10 @@ Ultra-Fast Predictive Freight Signal Compiler
 Binds physical port congestion anomalies (Z >= +1.5 sigma from port_stress_matrix.csv)
 directly to commercial Baltic Exchange freight index prints (BCI, BPI, BSI, BDTI, BLNG, BLPG).
 
-Models fleet absorption and lead-lag forward rate elasticity:
-  - Congestion surges in major loading hubs (e.g. Port Hedland, Tubarão, Richards Bay)
-    tie up spot tonnage in berthing and loading queues.
-  - Reduced basin supply transmits into upward spot charter rate pressure with a
-    7–14 day forward lead time.
+Each alert is a measured port-call anomaly (z-score from the port stress matrix) paired with the Baltic index of
+that hub's trade and the index's latest print. No correlation or lead time is estimated: none is computed from
+data, so none is written (the earlier correlation_r = 0.72 x hub weight and fixed 7/10/12-day lead times were
+invented and are gone).
 
 Outputs lean, low-latency JSON cache:
   data/derived/predictive_freight_signals.json
@@ -199,8 +198,6 @@ def compute_signals() -> dict:
 
         if is_surge:
             bullish_count += 1
-            correlation_r = round(min(0.88, 0.72 * weight), 2)
-            lead_days = 7 if weight > 1.1 else 10
             impact_desc = (
                 f"Severe vessel queuing and berthing delays at {port_name} (Z-Score +{z:.2f}σ). "
                 f"Concentrated tonnage detention constrains prompt fleet supply across the {asset_class} basin, "
@@ -221,16 +218,12 @@ def compute_signals() -> dict:
                 "correlated_ticker": ticker,
                 "ticker_name": idx_info.get("name", ticker),
                 "current_index_value": curr_val,
-                "lead_time_days": lead_days,
-                "correlation_r": correlation_r,
                 "projected_impact": impact_desc,
-                "recommendation": f"Anticipate spot rate surge across {ticker} benchmarks over {lead_days}d window."
+                "recommendation": f"Watch {ticker} for spot rate pressure."
             })
         elif is_collapse and weight >= 1.15:
             # Significant strategic supply collapse
             bearish_count += 1
-            correlation_r = round(min(0.85, 0.68 * weight), 2)
-            lead_days = 12
             impact_desc = (
                 f"Sharp arrival slowdown at {port_name} (Z-Score {z:.2f}σ). "
                 f"Terminal export reduction or weather shutdown dampens cargo stems, softening prompt demand for {ticker}."
@@ -250,8 +243,6 @@ def compute_signals() -> dict:
                 "correlated_ticker": ticker,
                 "ticker_name": idx_info.get("name", ticker),
                 "current_index_value": curr_val,
-                "lead_time_days": lead_days,
-                "correlation_r": correlation_r,
                 "projected_impact": impact_desc,
                 "recommendation": f"Monitor forward cargo fixtures for {ticker} softening."
             })
@@ -261,10 +252,10 @@ def compute_signals() -> dict:
 
     payload = {
         "metadata": {
-            "source": "Port Stress Matrix x Baltic Exchange Spot Indices Correlation Engine",
+            "source": "Port Stress Matrix x Baltic Exchange spot indices",
             "as_of": now_utc,
             "total_signals": len(alerts),
-            "methodology": "Physical port queue Z-Score mapped to spot freight rate elasticity (+1 to +2 weeks forward lead time)"
+            "methodology": "Port-call z-score anomaly (port stress matrix) paired with the Baltic index of the hub trade; no correlation or lead time is estimated"
         },
         "summary": {
             "total_alerts": len(alerts),

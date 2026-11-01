@@ -182,6 +182,7 @@ def find_producing_script(rel_path):
         "data/futures/sgx_iron_ore_lump_lpf.csv": ("scripts/scrapers/fetch_sgx_iron_ore.py", "Singapore Exchange (SGX)", "https://www.sgx.com", "REST API", "USD/MT"),
         "data/futures/sgx_iron_ore_m65f.csv": ("scripts/scrapers/fetch_sgx_iron_ore.py", "Singapore Exchange (SGX)", "https://www.sgx.com", "REST API", "USD/MT"),
         "data/commodities/sgx_iron_ore_forward_curve.csv": ("scripts/scrapers/fetch_sgx_iron_ore.py", "Singapore Exchange (SGX)", "https://www.sgx.com", "REST API", "USD/MT"),
+        "data/commodities/sgx_iron_ore_continuous_daily.csv": ("scripts/scrapers/fetch_sgx_iron_ore.py", "Singapore Exchange (SGX)", "https://www.sgx.com", "REST API", "USD/MT"),
         # ETF Holdings, Flows & Snapshots
         "data/etf/bdry_holdings.csv": ("scripts/update_etf_holdings.py", "Amplify ETFs", "https://amplifyetfs.com/bdry", "CSV Download", "Lots/USD"),
         "data/etf/bwet_holdings.csv": ("scripts/update_etf_holdings.py", "Amplify ETFs", "https://amplifyetfs.com/bwet", "CSV Download", "Lots/USD"),
@@ -202,9 +203,11 @@ def find_producing_script(rel_path):
         "data/congestion/portwatch_disruptions.csv": ("scripts/scrapers/fetch_portwatch_ports_expanded.py", "IMF PortWatch ArcGIS API", "https://portwatch.imf.org", "REST API", "Disruptions"),
         "data/geospatial/portwatch_ports_master.csv": ("scripts/scrapers/fetch_portwatch_ports_expanded.py", "IMF PortWatch FeatureServer", "https://portwatch.imf.org", "Reference Directory", "Port Master"),
         "data/geospatial/voyage_history_fixturegrounded.csv": ("scripts/geospatial/build_voyage_history.py", "PortWatch AIS & Fixtures", "Internal Pipeline", "Corridor Inference", "Voyages"),
+        "data/geospatial/voyage_history_packed.json": ("scripts/geospatial/build_voyage_history.py", "Fearnleys fixtures x PortWatch ports", "Internal Pipeline", "Dashboard view of the resolved legs", "Voyages"),
+        "data/derived/predictive_freight_signals.json": ("scripts/congestion/build_predictive_signals.py", "Port stress matrix x Baltic indices", "Internal Pipeline", "Derived", "Alerts"),
         # Commodities & Demands
         "data/commodities/brazil_comexstat_exports.csv": ("scripts/scrapers/fetch_comexstat_brazil.py", "MDIC ComexStat API", "https://balanca.mdic.gov.br", "REST API", "Metric Tonnes / USD FOB"),
-        "data/commodities/australia_ppa_iron_ore.csv": ("scripts/scrapers/fetch_ppa_iron_ore.py", "Pilbara Ports Authority Wayback PDF", "https://www.pilbaraports.com.au", "Wayback PDF Parse", "Throughput MT"),
+        "data/commodities/australia_ppa_iron_ore.csv": ("scripts/scrapers/fetch_australia_ppa.py", "Pilbara Ports Authority Wayback PDF", "https://www.pilbaraports.com.au", "Wayback PDF Parse", "Throughput MT"),
         "data/commodities/major_miners_quarterly_shipments.csv": ("scripts/scrapers/fetch_major_miners_production.py", "Corporate Production Reports", "https://www.sec.gov", "Filing Extraction", "Production MT"),
         "data/commodities/us_eia_weekly_crude_exports.csv": ("scripts/scrapers/fetch_eia_petroleum_exports.py", "US EIA API v2", "https://api.eia.gov", "REST API", "kbpd"),
         "data/commodities/newcastle_coal_exports.csv": ("scripts/scrapers/fetch_newcastle_coal.py", "Transport for NSW OpenData", "https://opendata.transport.nsw.gov.au", "XLSX Parsing", "Tonnes MT"),

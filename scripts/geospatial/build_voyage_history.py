@@ -10,6 +10,8 @@ Rebuilds the voyage-history layer from reported Fearnleys fixture legs ONLY:
             portname / fullname / lat / lon / LOCODE, produced by
             scripts/scrapers/fetch_portwatch_ports_expanded.py)
   output: data/geospatial/voyage_history_fixturegrounded.csv (+ .parquet)
+          data/geospatial/voyage_history_packed.json (dashboard view: the legs with
+            at least one end resolved to a port, grouped by vessel)
 
 One row per reported fixture leg. Kept (real, as reported):
   - vessel name, imo AS REPORTED (blank stays blank - NO generated IMOs),
@@ -39,6 +41,7 @@ voyages - not AIS positions" downstream). Nothing is synthesized.
 from __future__ import annotations
 
 import difflib
+import json
 import logging
 import math
 import re
@@ -63,6 +66,9 @@ FIXTURES_PATH = ROOT / "data" / "derived" / "fearnleys_fixtures_full.csv"
 PORTS_MASTER_PATH = ROOT / "data" / "geospatial" / "portwatch_ports_master.csv"
 OUT_CSV = ROOT / "data" / "geospatial" / "voyage_history_fixturegrounded.csv"
 OUT_PARQUET = ROOT / "data" / "geospatial" / "voyage_history_fixturegrounded.parquet"
+OUT_PACKED = ROOT / "data" / "geospatial" / "voyage_history_packed.json"
+PACKED_COLS = ["date", "load", "disch", "class", "dist", "load_match",
+               "load_locode", "load_portid", "disch_locode", "disch_portid", "disch_match"]
 
 COLUMNS = [
     "leg_sequence", "vessel", "imo", "vessel_class", "commodity",
@@ -273,6 +279,7 @@ def build() -> pd.DataFrame:
                                   kind="stable").reset_index(drop=True)
     out.to_csv(OUT_CSV, index=False, lineterminator="\n")
     out.to_parquet(OUT_PARQUET, compression="zstd", index=False)
+    write_packed(out)
     resolved_load = int((out["load_match"] != "").sum())
     resolved_disc = int((out["discharge_match"] != "").sum())
     both = int(((out["load_match"] != "") & (out["discharge_match"] != "")).sum())
@@ -286,6 +293,39 @@ def build() -> pd.DataFrame:
         n = int((out["load_match"] == q).sum() + (out["discharge_match"] == q).sum())
         logging.info("  match quality %-6s (both sides): %d", q, n)
     return out
+
+
+def _txt(v) -> str:
+    return "" if v is None or (isinstance(v, float) and math.isnan(v)) else str(v).strip()
+
+
+def write_packed(out: pd.DataFrame) -> None:
+    """Dashboard view of the CSV (index.html ensureVoyageHistory): one list of legs per vessel.
+
+    Only legs with at least one end resolved to a port LOCODE or portid are kept - the port pages and the
+    vessel timeline can only place those. Port strings carry the LOCODE in brackets as before; the match
+    fields are the CSV's own (blank when that end is unresolved), nothing is filled in.
+    """
+    ends = ("load_locode", "load_portid", "discharge_locode", "discharge_portid")
+    keep = out[out[list(ends)].fillna("").astype(str).apply(lambda c: c.str.strip() != "").any(axis=1)]
+    vessels: dict[str, list] = {}
+    for r in keep.itertuples(index=False):
+        name = _txt(r.vessel)
+        if len(name) < 3 or name == "-":
+            continue
+        ll, dl = _txt(r.load_locode), _txt(r.discharge_locode)
+        d = r.distance_nm
+        vessels.setdefault(name, []).append([
+            _txt(r.leg_date),
+            _txt(r.load_port) + (f" ({ll})" if ll else ""),
+            _txt(r.discharge_port) + (f" ({dl})" if dl else ""),
+            _txt(r.vessel_class),
+            0 if d is None or pd.isna(d) else int(round(float(d))),
+            _txt(r.load_match), ll, _txt(r.load_portid), dl, _txt(r.discharge_portid), _txt(r.discharge_match),
+        ])
+    OUT_PACKED.write_text(json.dumps({"cols": PACKED_COLS, "vessels": vessels}, separators=(",", ":"),
+                                     ensure_ascii=False), encoding="utf-8")
+    logging.info("[ok] %s: %d legs (%d vessels)", OUT_PACKED.name, sum(map(len, vessels.values())), len(vessels))
 
 
 if __name__ == "__main__":

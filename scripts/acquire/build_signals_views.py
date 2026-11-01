@@ -2,7 +2,8 @@
 Build Cape FFA vs Realized Spot Distribution View Manifest.
 
 Computes historical realized monthly, quarterly, and annual settlement distributions
-from Baltic Capesize spot history (2008-2026, 4,335 trading days) alongside SGX FFA settlement history.
+from the Baltic Capesize spot history (data/indices/cape_historical.csv), against which the dashboard
+benchmarks the SGX FFA tenors it loads itself.
 Provides box/percentile parameters (P10, P25, P50, P75, P90, min, max, mean) for tenor benchmarking.
 Outputs to data/views/signals/cape_ffa_distribution.json.
 """
@@ -22,6 +23,7 @@ def build_cape_ffa_distribution():
     monthly_spot = collections.defaultdict(list)
     quarter_acc = collections.defaultdict(list)
     all_monthly_settlements = []
+    spot_dates = []
 
     with open(spot_file, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
@@ -32,6 +34,7 @@ def build_cape_ffa_distribution():
                 val = float(val_str)
                 dt = datetime.strptime(d_str, '%Y-%m-%d')
                 monthly_spot[(dt.year, dt.month)].append(val)
+                spot_dates.append(d_str)
             except Exception:
                 continue
 
@@ -69,7 +72,10 @@ def build_cape_ffa_distribution():
 
     dist = {
         'generated_at': datetime.now(timezone.utc).isoformat(),
-        'source': 'Baltic Capesize Spot Historical Settlements (2008-2026, 4,335 trading days) & SGX FFA History',
+        'source': (f"Baltic Capesize spot index, {min(spot_dates)} to {max(spot_dates)} "
+                   f"({len(spot_dates):,} trading days)") if spot_dates else 'Baltic Capesize spot index',
+        'first_date': min(spot_dates) if spot_dates else None,
+        'data_through': max(spot_dates) if spot_dates else None,
         'by_month': {month_names[m]: get_stats(realized_by_month[m]) for m in range(1, 13)},
         'by_quarter': {f"Q{q}": get_stats(realized_by_quarter[q]) for q in range(1, 5)},
         'cal': get_stats(all_monthly_settlements)

@@ -481,9 +481,12 @@ class TestAdditionalAuditItems:
         assert "illustrative_prior_estimate" in index_html_content or "illustrative" in index_html_content.lower()
 
     def test_audit_item_12_cargo_hud_like_for_like(self, index_html_content):
-        """Audit Item 12: Pilbara HUD iron ore run-rate like-for-like (59.4 Mt/mo) and USDA in Mt."""
-        assert "59.4 Mt/mo" in index_html_content or "59.4 Mt" in index_html_content
-        assert "38.1 Mt" in index_html_content or "Mt" in index_html_content
+        """Audit Item 12: Pilbara HUD iron ore run-rate like-for-like (Mt/mo from the monthly Pilbara series) and
+        USDA in Mt. The values come from the cargo summary; the markup carries no typed figure."""
+        assert "pilbara_iron_ore_monthly_raw" in index_html_content
+        assert "pVal.toFixed(1) + ' Mt/mo'" in index_html_content
+        assert "totalCommitmentsMt.toFixed(1) + ' Mt'" in index_html_content
+        assert "59.4 Mt/mo" not in index_html_content
 
     def test_audit_item_13_spot_rate_bounds(self, index_html_content):
         """Audit Item 13: Capesize spot chart clamped with min: 0 on yLeft axis."""
