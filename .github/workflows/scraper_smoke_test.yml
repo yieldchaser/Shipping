@@ -57,6 +57,9 @@ jobs:
           sudo apt-get update && sudo apt-get install -y poppler-utils
 
       - name: Run Real-Data Smoke Tests
+        env:
+          # same secret bps_monthly.yml uses; without it the BPS check is always a 401
+          BPS_API_KEY: ${{ secrets.BPS_API_KEY }}
         run: |
           TARGET="${{ inputs.target }}"
           if [ -z "$TARGET" ]; then TARGET="all"; fi
