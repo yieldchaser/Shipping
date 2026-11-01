@@ -127,3 +127,10 @@ def test_no_cliff_drops():
         max_chg = df_2026['change_pct'].abs().max()
         assert max_chg < 25.0, f"Extreme 1-day outlier ({max_chg}%) found in 2026 for {code}"
 
+def test_scraper_fails_loudly_on_empty(monkeypatch):
+    """Verify that run_pipeline raises RuntimeError when indices fail to fetch."""
+    from scripts.scrapers.fetch_capital_link_indices import run_pipeline
+    monkeypatch.setattr('scripts.scrapers.fetch_capital_link_indices.fetch_capital_link_official', lambda code, meta: pd.DataFrame())
+    with pytest.raises(RuntimeError) as excinfo:
+        run_pipeline(dry_run=True)
+    assert "Capital Link scraper failed to retrieve" in str(excinfo.value)

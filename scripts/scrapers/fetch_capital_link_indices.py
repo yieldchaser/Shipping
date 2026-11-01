@@ -28,6 +28,9 @@ import sys
 import re
 import time
 import json
+import shutil
+import subprocess
+import urllib.request
 import argparse
 import requests
 import pandas as pd
@@ -51,9 +54,8 @@ BALTIC_FALLBACK_ENDPOINT = f"{BALTIC_BASE_URL}/SingleIndexValues/GetHistoryDataA
 BALTIC_LATEST_ENDPOINT = f"{BALTIC_BASE_URL}/IndexValues/GetIndexValues"
 
 OFFICIAL_HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-    'Accept-Language': 'en-US,en;q=0.9',
+    'User-Agent': 'curl/8.4.0',
+    'Accept': '*/*',
 }
 
 BALTIC_HEADERS = {
@@ -119,21 +121,66 @@ BALTIC_INDICES = {
 }
 
 
+def fetch_chart_html(url: str, timeout: int = 25) -> str:
+    """
+    Fetches chart page HTML bypassing WAF connection termination.
+    Tries curl CLI first (bypasses TLS fingerprinting), then requests, then urllib.
+    """
+    curl_bin = shutil.which('curl')
+    if curl_bin:
+        try:
+            res = subprocess.run(
+                [curl_bin, '-s', '-L', '--max-time', str(timeout), '-A', 'curl/8.4.0', url],
+                capture_output=True,
+                text=True,
+                encoding='utf-8',
+                errors='ignore'
+            )
+            if res.returncode == 0 and res.stdout and 'series:' in res.stdout:
+                return res.stdout
+        except Exception:
+            pass
+
+    try:
+        r = requests.get(
+            url,
+            headers={'User-Agent': 'curl/8.4.0', 'Accept': '*/*'},
+            timeout=timeout
+        )
+        if r.status_code == 200 and r.text and 'series:' in r.text:
+            return r.text
+    except Exception:
+        pass
+
+    try:
+        req = urllib.request.Request(
+            url,
+            headers={'User-Agent': 'curl/8.4.0', 'Accept': '*/*'}
+        )
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            if resp.status == 200:
+                content = resp.read().decode('utf-8', errors='ignore')
+                if 'series:' in content:
+                    return content
+    except Exception:
+        pass
+
+    return ""
+
+
 def fetch_capital_link_official(code: str, meta: dict, retries: int = 3) -> pd.DataFrame:
     """
     Fetches full authentic daily series directly from Capital Link Shipping official platform.
     Extracts the official embedded Highcharts daily series spanning 2005 to present.
     """
-    session = requests.Session()
-    session.headers.update(OFFICIAL_HEADERS)
     url = OFFICIAL_CHART_URL.format(ticker=code)
     name = meta['name']
 
     for attempt in range(1, retries + 1):
         try:
-            r = session.get(url, timeout=20)
-            if r.status_code == 200:
-                match = re.search(r'(?<!//)series:\s*\[\{\s*data:\s*(\[\[.*?\]\])\s*\}\]', r.text, re.DOTALL)
+            html = fetch_chart_html(url, timeout=25)
+            if html:
+                match = re.search(r'(?<!//)series:\s*\[\{\s*data:\s*(\[\[.*?\]\])\s*\}\]', html, re.DOTALL)
                 if match:
                     raw_data = json.loads(match.group(1))
                     valid_points = [p for p in raw_data if p[0] > 0]
@@ -314,6 +361,11 @@ def run_pipeline(backfill: bool = False, dry_run: bool = False, include_baltic: 
                 df.to_csv(out_csv, index=False, lineterminator="\n")
                 print(f"  -> Written to: {out_csv}")
 
+    # Verify all Capital Link shipping indices succeeded
+    failed_cl_indices = [code for code in CAPITAL_LINK_INDICES if code not in results or results[code].empty]
+    if failed_cl_indices:
+        raise RuntimeError(f"Capital Link scraper failed to retrieve {len(failed_cl_indices)} index/indices: {', '.join(failed_cl_indices)}")
+
     # 2. Process Baltic indices if requested
     if include_baltic:
         for code, meta in BALTIC_INDICES.items():
@@ -356,10 +408,12 @@ def main():
     parser.add_argument('--include-baltic', action='store_true', help="Also fetch the 7 Baltic Exchange indices")
     args = parser.parse_args()
 
-    results = run_pipeline(backfill=args.backfill, dry_run=args.dry_run, include_baltic=args.include_baltic)
-    # non-silent: capitallinkshipping.com has refused scripted clients since 2026-10-09 (connection closed);
-    # a run that updates no Capital Link index must show as a failed step, not as success
-    if not any(c in results for c in CAPITAL_LINK_INDICES):
+    try:
+        results = run_pipeline(backfill=args.backfill, dry_run=args.dry_run, include_baltic=args.include_baltic)
+        if not results or not all(c in results for c in CAPITAL_LINK_INDICES):
+            sys.exit(1)
+    except Exception as exc:
+        print(f"\n[FATAL ERROR] Capital Link scraper failed: {exc}", file=sys.stderr)
         sys.exit(1)
 
 

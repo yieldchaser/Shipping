@@ -49,7 +49,6 @@ jobs:
       run: python scripts/alibra_poller.py --integrate
 
     - name: Run Capital Link shipping indices scraper
-      continue-on-error: true
       run: python scripts/scrapers/fetch_capital_link_indices.py
 
     - name: Run SGX Iron Ore forward curve & restocking sync
