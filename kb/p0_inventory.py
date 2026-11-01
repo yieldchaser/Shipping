@@ -175,8 +175,10 @@ def main() -> int:
             if kind != "reference":
                 found = next((r / src for r in roots if src and (r / src).exists()), None)
                 if not src:
-                    # API-origin records (Fearnleys voice) have no file: their provenance is the API record id
-                    r3 = "" if fm.get("id") and "API" in text[:1500] else "no source_file"
+                    # API-origin records (Fearnleys voice, Fearnleys app reports without a PDF) have no file: their
+                    # provenance is the API record id
+                    api = (fm.get("id") and "API" in text[:1500]) or fm.get("report_id")
+                    r3 = "" if api else "no source_file"
                 elif found is None:
                     r3 = f"source_file missing: {src}"
                 elif fm.get("source_sha256") and not a.no_hash and fm["source_sha256"] not in (

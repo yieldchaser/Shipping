@@ -208,6 +208,21 @@ Build plan (layers, schema, DeepSeek runner, budget, phases and gates): `docs/GR
       ("Net operating revenue Cost of goods sold ... | 54,462 56,701 (40,798) ..."); values present, row structure
       lost. 8 MDs hold a PDF-origin exhibit as one text line (RIO 20-F 2022/2023, VALE 6-K 2026-07/10). New filings
       come out the same way (VALE 3Q26 6-Ks of 2026-10-30), so it is a converter fix plus a re-render, not new damage.
+      2026-11-02: converter fixed (`scripts/acquire/standardize_sec_markdown.py`, tests in
+      `tests/test_sec_stacked_tables.py`); 151 MDs re-rendered by `scripts/acquire/rerender_sec_stacked_tables.py`
+      with 0 number differences (placeholder `Col N` headers aside). 45 left for review: 9 PDF-origin exhibits and 36
+      where the re-render's numbers differ from the stored MD (`scripts/audit/detect_sec_stacked_tables.py` lists them).
+- [ ] Two Fearnleys app reports of 2024-03-25 (`fearnleys-md/2024/2024-03-25_hogne-aasjords-rapport.md`, `..._rapport-2.md`)
+      are empty test posts (a heading; "Test / Hallo"), no PDF. Owner: exclude from the GraphRAG input or delete.
+- [ ] Poten issues that are emailed but not yet online (2026-10-23, 10-30 not on poten.com on 11-02).
+      `scripts/scrapers/fetch_poten_x_fallback.py` (daily in `poten_drewry_weekly.yml`) OCRs the page image @ed_fin
+      posts on X, from the owner's archive repo yieldchaser/Twitter-Image-Download-, into
+      `poten_<date>_<slug>_x-ocr.md` (prose only, `extraction: "ocr_x_image"`), and deletes it once the PDF MD exists.
+      Scored on 6 issues with an official MD: precision 0.96-1.00, titles all right, recall 0.76-0.98 (07-10: 0.49).
+      Blocked upstream: the archive's X download fails on GitHub runners since gallery-dl 1.32.12 because X serves a
+      Cloudflare challenge (403) for x.com/home, which gallery-dl loads to build the client transaction id; there is
+      no setting to skip it. The ed_fin archive stops at 2026-09-23. Not bypassed. Options for the owner: run the
+      downloader from a home connection (local scheduled run), or wait for a gallery-dl change.
 
 ## Owner actions (not code)
 
@@ -225,6 +240,7 @@ Build plan (layers, schema, DeepSeek runner, budget, phases and gates): `docs/GR
 
 ## Notes
 
-- Seabrokers is monthly and publishes at the start of the following month. It is not lagging.
+- Seabrokers is monthly and publishes around the end of the month it covers. September 2026 is the latest on its
+  site (checked 2026-11-02) and is stored. It is not lagging.
 - By-design exclusions: Carriers Greek equities page; Advanced last FX/stocks/contacts pages; Intermodal final market
   page; Fearnleys weekly rate cards (Fearnpulse API series); Xclusiv contacts page; staff mobile numbers.

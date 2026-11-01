@@ -7,6 +7,7 @@ publisher: "Fearnleys"
 category: "bespoke_research"
 report_id: "116a644a-73ea-4c4f-acea-193900281e3d"
 images_count: 24
+source_file: "corpus/01-brokers/fearnleys-md/pdfs/2026/2026-10-30_fearnleys-tanker-market-wrap-up-oct-2026.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/report.pdf"
 ---
 # Fearnleys Tanker Market Wrap-up Oct 2026

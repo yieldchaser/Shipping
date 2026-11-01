@@ -1,0 +1,295 @@
+{
+ "generated": "2026-11-02",
+ "token_count_method": "estimated (--no-tokens)",
+ "hash_check": "source_sha256 verified where present",
+ "totals": {
+  "files": 20630,
+  "bytes": 401569073,
+  "table_bytes": 86212474,
+  "prose_bytes": 307523380,
+  "tokens": 111365867,
+  "with_sha256": 1066
+ },
+ "checks": {
+  "R3": {
+   "pass": true,
+   "failures": 0
+  },
+  "R4": {
+   "pass": true,
+   "failures": 0
+  },
+  "R7": {
+   "pass": true,
+   "failures": 0
+  }
+ },
+ "groups": {
+  "SEC 10-K": {
+   "files": 39,
+   "bytes": 20174223,
+   "table_bytes": 2789018,
+   "prose_bytes": 17375051,
+   "tokens": 5459370,
+   "min_date": "2015-03-02",
+   "max_date": "2026-05-27"
+  },
+  "SEC 10-Q": {
+   "files": 54,
+   "bytes": 8744159,
+   "table_bytes": 2513334,
+   "prose_bytes": 6216767,
+   "tokens": 2559527,
+   "min_date": "2020-11-02",
+   "max_date": "2026-08-10"
+  },
+  "SEC 20-F": {
+   "files": 261,
+   "bytes": 168511155,
+   "table_bytes": 23680319,
+   "prose_bytes": 144763804,
+   "tokens": 45663076,
+   "min_date": "2015-03-06",
+   "max_date": "2026-08-18"
+  },
+  "SEC 6-K": {
+   "files": 804,
+   "bytes": 42575148,
+   "table_bytes": 9524293,
+   "prose_bytes": 32835496,
+   "tokens": 12018586,
+   "min_date": "2022-02-15",
+   "max_date": "2026-10-30"
+  },
+  "SEC 8-K": {
+   "files": 188,
+   "bytes": 4622341,
+   "table_bytes": 1143244,
+   "prose_bytes": 3427985,
+   "tokens": 1314289,
+   "min_date": "2020-10-22",
+   "max_date": "2026-10-30"
+  },
+  "advanced_shipping": {
+   "files": 254,
+   "bytes": 3441927,
+   "table_bytes": 2025592,
+   "prose_bytes": 1342134,
+   "tokens": 1145772,
+   "min_date": "2021-07-02",
+   "max_date": "2026-10-23"
+  },
+  "affinity": {
+   "files": 252,
+   "bytes": 2117020,
+   "table_bytes": 343585,
+   "prose_bytes": 1658905,
+   "tokens": 552154,
+   "min_date": "2021-07-02",
+   "max_date": "2026-10-30"
+  },
+  "agora": {
+   "files": 216,
+   "bytes": 1643536,
+   "table_bytes": 630931,
+   "prose_bytes": 948543,
+   "tokens": 489498,
+   "min_date": "2021-06-25",
+   "max_date": "2026-10-22"
+  },
+  "baltic": {
+   "files": 2249,
+   "bytes": 9153344,
+   "table_bytes": 299571,
+   "prose_bytes": 7717463,
+   "tokens": 2049185,
+   "min_date": "2015-01-09",
+   "max_date": "2026-10-30"
+  },
+  "banchero_costa": {
+   "files": 251,
+   "bytes": 12010204,
+   "table_bytes": 4408736,
+   "prose_bytes": 7523102,
+   "tokens": 3644276,
+   "min_date": "2021-07-02",
+   "max_date": "2026-10-26"
+  },
+  "breakwave": {
+   "files": 3538,
+   "bytes": 24656218,
+   "table_bytes": 326308,
+   "prose_bytes": 22752977,
+   "tokens": 5818763,
+   "min_date": "2018-07-03",
+   "max_date": "2026-10-30"
+  },
+  "carriers": {
+   "files": 136,
+   "bytes": 934030,
+   "table_bytes": 788775,
+   "prose_bytes": 98372,
+   "tokens": 340105,
+   "min_date": "2021-11-19",
+   "max_date": "2026-10-26"
+  },
+  "clarksons": {
+   "files": 183,
+   "bytes": 870126,
+   "table_bytes": 320529,
+   "prose_bytes": 451868,
+   "tokens": 241179,
+   "min_date": "2021-07-02",
+   "max_date": "2026-10-30"
+  },
+  "companies": {
+   "files": 1,
+   "bytes": 13859,
+   "table_bytes": 1117,
+   "prose_bytes": 12462,
+   "tokens": 3562,
+   "min_date": "2026-10-09",
+   "max_date": "2026-10-09"
+  },
+  "drewry": {
+   "files": 862,
+   "bytes": 4493485,
+   "table_bytes": 2736,
+   "prose_bytes": 4119139,
+   "tokens": 1030873,
+   "min_date": "2017-11-09",
+   "max_date": "2026-10-30"
+  },
+  "fearnleys": {
+   "files": 5056,
+   "bytes": 9226036,
+   "table_bytes": 2633,
+   "prose_bytes": 7826521,
+   "tokens": 1957702,
+   "min_date": "2018-07-18",
+   "max_date": "2026-10-29"
+  },
+  "fearnleys-md": {
+   "files": 190,
+   "bytes": 2205656,
+   "table_bytes": 43785,
+   "prose_bytes": 2062934,
+   "tokens": 533253,
+   "min_date": "2024-03-25",
+   "max_date": "2026-10-30"
+  },
+  "gibson": {
+   "files": 265,
+   "bytes": 4648710,
+   "table_bytes": 675318,
+   "prose_bytes": 3884505,
+   "tokens": 1241257,
+   "min_date": "2021-07-02",
+   "max_date": "2026-10-30"
+  },
+  "hellenic": {
+   "files": 2758,
+   "bytes": 36450020,
+   "table_bytes": 25905791,
+   "prose_bytes": 9291764,
+   "tokens": 12685256,
+   "min_date": "2021-07-02",
+   "max_date": "2026-10-31"
+  },
+  "intermodal": {
+   "files": 259,
+   "bytes": 7384679,
+   "table_bytes": 3748129,
+   "prose_bytes": 3569823,
+   "tokens": 2391711,
+   "min_date": "2021-07-06",
+   "max_date": "2026-10-27"
+  },
+  "ism": {
+   "files": 113,
+   "bytes": 597251,
+   "table_bytes": 0,
+   "prose_bytes": 569715,
+   "tokens": 142431,
+   "min_date": "2023-01-01",
+   "max_date": "2026-10-12"
+  },
+  "lion": {
+   "files": 51,
+   "bytes": 651498,
+   "table_bytes": 228733,
+   "prose_bytes": 397902,
+   "tokens": 190970,
+   "min_date": "2025-10-03",
+   "max_date": "2026-10-30"
+  },
+  "poten": {
+   "files": 1092,
+   "bytes": 5536485,
+   "table_bytes": 102322,
+   "prose_bytes": 5092884,
+   "tokens": 1314159,
+   "min_date": "2004-01-02",
+   "max_date": "2026-10-16"
+  },
+  "reference": {
+   "files": 12,
+   "bytes": 10079119,
+   "table_bytes": 588050,
+   "prose_bytes": 9479599,
+   "tokens": 2605120,
+   "min_date": "",
+   "max_date": ""
+  },
+  "seabrokers": {
+   "files": 98,
+   "bytes": 4152596,
+   "table_bytes": 1138347,
+   "prose_bytes": 2975140,
+   "tokens": 1199126,
+   "min_date": "2018-05-01",
+   "max_date": "2026-09-01"
+  },
+  "signal": {
+   "files": 456,
+   "bytes": 3720979,
+   "table_bytes": 3810,
+   "prose_bytes": 3483493,
+   "tokens": 872405,
+   "min_date": "2018-06-06",
+   "max_date": "2026-10-29"
+  },
+  "ssy": {
+   "files": 525,
+   "bytes": 1142569,
+   "table_bytes": 587674,
+   "prose_bytes": 409714,
+   "tokens": 337517,
+   "min_date": "2021-07-05",
+   "max_date": "2026-10-23"
+  },
+  "star_asia": {
+   "files": 200,
+   "bytes": 5463752,
+   "table_bytes": 1641260,
+   "prose_bytes": 3762494,
+   "tokens": 1597123,
+   "min_date": "2022-07-24",
+   "max_date": "2026-10-23"
+  },
+  "xclusiv": {
+   "files": 267,
+   "bytes": 6348948,
+   "table_bytes": 2748534,
+   "prose_bytes": 3472824,
+   "tokens": 1967622,
+   "min_date": "2021-07-26",
+   "max_date": "2026-10-26"
+  }
+ },
+ "failures": {
+  "R3": [],
+  "R4": [],
+  "R7": []
+ }
+}

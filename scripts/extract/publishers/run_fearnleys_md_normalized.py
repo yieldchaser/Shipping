@@ -98,6 +98,8 @@ def parse_blocks_to_markdown(report: dict, rep_slug: Optional[str] = None) -> Tu
     ]
     if local_pdf_rel:
         fm.append(f'local_pdf: "{local_pdf_rel}"')
+        # repo-relative, as every other publisher writes it (local_pdf is relative to the corpus folder, not the MD)
+        fm.append(f'source_file: "{expected_pdf.relative_to(ROOT).as_posix()}"')
     if pdf_url:
         fm.append(f'pdf_url: "{pdf_url}"')
     fm.append("---\n")
