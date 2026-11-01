@@ -1,29 +1,30 @@
 #!/usr/bin/env python3
 """
-IMF PortWatch Port Activity Engine (REAL DATA ONLY)
-Pulls daily per-port observations (port calls by class, import/export tonnages)
-from the IMF PortWatch public ArcGIS FeatureServer:
-  https://services9.arcgis.com/weJ1QsnbMYJlCHdG/arcgis/rest/services/Daily_Ports_Data/FeatureServer
-Dataset catalog: https://portwatch.imf.org/ (Daily_Ports_Data, IMF PortWatch).
+IMF PortWatch Port Activity - hub-port slice (REAL DATA ONLY)
+Builds data/congestion/portwatch_port_congestion.csv (the 43 hub ports the dashboard charts) from
+data/congestion/port_calls_daily.csv, which scripts/expansion_portwatch.py keeps current from the IMF PortWatch
+Daily_Ports_Data FeatureServer (https://portwatch.imf.org/, Daily_Ports_Data).
+
+Why no network call here (2026-11-01): this script used to re-download every hub port's full history from 2019
+in date order. The FeatureServer now times out on the third page of such a query and answers with an error JSON,
+which was read as "0 records", so the newest rows were never reached: the file stopped at 2026-09-11 while the
+step logged success, and the weekly run hit its 15-minute limit. port_calls_daily.csv already holds the same
+service rows for all 2,065 PortWatch ports (fetched incrementally, ObjectId-keyset paging), so the hub slice is
+cut from it instead.
 
 IMPORTANT PROVENANCE NOTE (2026-08-25 audit):
 An earlier version of this file SYNTHESIZED waiting-time and anchorage-queue series
 with a seeded random walk (np.random AR(1)). That output was removed from the
 platform: waiting-days / vessels-at-anchorage are NOT published in the open
-PortWatch feature service and are NOT fabricated here anymore. This engine now
+PortWatch feature service and are NOT fabricated here anymore. This engine
 writes only measured fields served by IMF PortWatch.
 
-Outputs:
-  data/congestion/port_calls_daily.csv        - real daily port calls + import/export kt
-  data/congestion/portwatch_port_congestion.csv - DEPRECATED alias of the same real data
-        (columns waiting_days_7dma / avg_waiting_days intentionally ABSENT).
+Upsert: rows already stored are kept; rows present in port_calls_daily.csv replace them (PortWatch revises the
+latest weeks). Exit 1 when the source has nothing newer than 14 days, so a stalled feed fails the step.
 """
-import json
 import logging
-import time
-import urllib.parse
-import urllib.request
-import ssl
+import sys
+from datetime import date, timedelta
 from pathlib import Path
 
 import pandas as pd
@@ -31,192 +32,66 @@ import pandas as pd
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 ROOT = Path(__file__).resolve().parent.parent.parent
 DATA_DIR = ROOT / "data" / "congestion"
-DATA_DIR.mkdir(parents=True, exist_ok=True)
+SOURCE = DATA_DIR / "port_calls_daily.csv"
+OUT = DATA_DIR / "portwatch_port_congestion.csv"
+MAX_LAG_DAYS = 14      # PortWatch publishes weekly (Tuesdays) with a few days' lag
 
-LAYER_URL = ("https://services9.arcgis.com/weJ1QsnbMYJlCHdG/"
-             "arcgis/rest/services/Daily_Ports_Data/FeatureServer/0/query")
-
-# portid values verified against the live service (2026-08-25) and present in the
-# committed history CSV. Used as a stable fallback so the scraper never aborts
-# (and never drops history) when the ESRI discovery query is region-blocked on
-# CI runners.
+# the dashboard's core hubs; every other portid already in the output file is kept as well
 KNOWN_HUBS = {
-    "port1069": {"portname": "Qingdao Port", "country": "China"},
-    "port824":  {"portname": "Ningbo", "country": "China"},
-    "port955":  {"portname": "Port Hedland", "country": "Australia"},
-    "port816":  {"portname": "Newcastle", "country": "Australia"},
-    "port1201": {"portname": "Singapore", "country": "Singapore"},
-    "port1114": {"portname": "Rotterdam", "country": "Netherlands"},
-    "port481":  {"portname": "Houston (US-TX)", "country": "United States"},
-    "port1328": {"portname": "Tubarao", "country": "Brazil"},
-    "port458":  {"portname": "Hay Point", "country": "Australia"},
-    "port1072": {"portname": "Qinhuangdao", "country": "China"},
-    "port1105": {"portname": "Rizhao", "country": "China"},
-    "port1160": {"portname": "Santos", "country": "Brazil"},
+    "port1069": "Qingdao Port", "port824": "Ningbo", "port955": "Port Hedland", "port816": "Newcastle",
+    "port1201": "Singapore", "port1114": "Rotterdam", "port481": "Houston (US-TX)", "port1328": "Tubarao",
+    "port458": "Hay Point", "port1072": "Qinhuangdao", "port1105": "Rizhao", "port1160": "Santos",
 }
-
-FIELDS = ("date,portid,portname,country,portcalls,portcalls_dry_bulk,portcalls_tanker,"
-          "portcalls_container,import_dry_bulk,export_dry_bulk,import_tanker,export_tanker,"
-          "import_cargo,export_cargo")
-
-_CTX = ssl.create_default_context()
-_CTX.check_hostname = False
-_CTX.verify_mode = ssl.CERT_NONE
-
-
-def _http_json(url: str, retries: int = 3) -> dict:
-    last = None
-    for attempt in range(retries):
-        try:
-            req = urllib.request.Request(url, headers={"User-Agent": "shipping-dashboard/1.0"})
-            with urllib.request.urlopen(req, timeout=60, context=_CTX) as r:
-                return json.loads(r.read().decode("utf-8", "replace"))
-        except Exception as e:  # noqa: BLE001
-            last = e
-            time.sleep(2 * (attempt + 1))
-    raise RuntimeError(f"PortWatch query failed after {retries} attempts: {last}")
+RENAME = {
+    "portcalls": "daily_port_calls_total",
+    "portcalls_dry_bulk": "daily_port_calls_dry_bulk",
+    "portcalls_tanker": "daily_port_calls_tanker",
+    "portcalls_container": "daily_port_calls_container",
+}
+COLS = ["date", "portid", "portname", "country", "hub_code",
+        "daily_port_calls_total", "daily_port_calls_dry_bulk",
+        "daily_port_calls_tanker", "daily_port_calls_container",
+        "import_dry_bulk_kt", "export_dry_bulk_kt",
+        "import_tanker_kt", "export_tanker_kt"]
 
 
-def discover_hub_portids() -> dict:
-    """Resolve portid for each hub name via server-side LIKE query.
+def main() -> int:
+    prev = pd.read_csv(OUT, dtype={"portid": str}) if OUT.exists() else pd.DataFrame(columns=COLS)
+    hubs = set(KNOWN_HUBS) | set(prev["portid"].dropna())
 
-    Falls back to the verified KNOWN_HUBS map when the ESRI discovery query is
-    region-blocked (GitHub runners routinely get zero results), so the run never
-    aborts and never drops the committed history.
-    """
-    found = {}
-    for name in ["Qingdao", "Ningbo", "Hedland", "Newcastle",
-                 "Singapore", "Rotterdam", "Houston",
-                 "Tubarao", "Hay Point", "Qinhuangdao", "Rizhao", "Santos"]:
-        params = urllib.parse.urlencode({
-            "f": "json", "where": f"portname LIKE '%{name}%'",
-            "outFields": "portid,portname,country",
-            "returnGeometry": "false", "resultRecordCount": "5",
-        })
-        try:
-            d = _http_json(f"{LAYER_URL}?{params}")
-            feats = d.get("features") or []
-            if feats:
-                a = feats[0]["attributes"]
-                found[a["portid"]] = {"portname": a.get("portname"), "country": a.get("country")}
-        except Exception as e:  # noqa: BLE001
-            logging.warning("Discovery failed for %s: %s", name, e)
-    if not found:
-        logging.warning("Discovery returned no hubs (region-blocked?). Using verified KNOWN_HUBS.")
-        return dict(KNOWN_HUBS)
-    # merge verified metadata so names/countries are always correct
-    for pid, meta in KNOWN_HUBS.items():
-        found.setdefault(pid, meta)
-    return found
-
-
-def fetch_port_history(port_id: str, max_records: int = 1000) -> list[dict]:
-    """Fetch full daily history for one portid (paged at server max page size)."""
-    rows: list[dict] = []
-    offset = 0
-    while True:
-        params = urllib.parse.urlencode({
-            "f": "json", "where": f"portid='{port_id}'",
-            "outFields": FIELDS, "returnGeometry": "false",
-            "orderByFields": "date ASC", "resultRecordCount": str(max_records),
-            "resultOffset": str(offset),
-        })
-        d = _http_json(f"{LAYER_URL}?{params}")
-        feats = d.get("features") or []
-        rows += [f["attributes"] for f in feats]
-        got = len(feats)
-        if got == 0:
-            break
-        offset += got
-        if not d.get("exceededTransferLimit") and got < max_records:
-            break
-    return rows
-
-
-def main() -> pd.DataFrame:
-    hubs = {}
-    for pid, meta in discover_hub_portids().items():
-        hubs[pid] = meta
-    if not hubs:
-        raise SystemExit("No hub ports resolved - aborting rather than writing synthetic data.")
-
-    frames = []
-    for pid, meta in hubs.items():
-        logging.info("Fetching %s (%s)...", meta.get("portname"), pid)
-        hist = fetch_port_history(pid)
-        if not hist:
-            # transient server behavior observed: retry once after a pause
-            time.sleep(5)
-            hist = fetch_port_history(pid)
-        logging.info("  %d daily records", len(hist))
-        df = pd.DataFrame(hist)
-        if df.empty:
-            continue
-        df["hub_code"] = pid
-        frames.append(df)
-
-    if not frames:
-        raise SystemExit("No data returned for any hub - aborting.")
-
-    fresh = pd.concat(frames, ignore_index=True)
-
-    # Upsert semantics: existing real observations are never downgraded by a
-    # partial re-fetch (the FeatureServer occasionally serves short pages).
-    prev_path = DATA_DIR / "portwatch_port_congestion.csv"
-    if prev_path.exists():
-        try:
-            prev = pd.read_csv(prev_path, dtype={"portid": str})
-            # Normalise the historical half to the SAME canonical column names as
-            # `fresh` BEFORE concat. Otherwise pandas silently creates ".1" twin
-            # columns for any name mismatch, and PapaParse in the frontend then
-            # lets the empty twin shadow the filled base column (blank-chart bug,
-            # 2026-08-26). Coalesce: twin value wins only where base is empty.
-            rename_map = {
-                "portcalls": "daily_port_calls_total",
-                "portcalls_dry_bulk": "daily_port_calls_dry_bulk",
-                "portcalls_tanker": "daily_port_calls_tanker",
-                "portcalls_container": "daily_port_calls_container",
-            }
-            prev = prev.rename(columns={k: v for k, v in rename_map.items() if k in prev.columns})
-            for base in rename_map.values():
-                twin = base + ".1"
-                if twin in prev.columns and base in prev.columns:
-                    a = pd.to_numeric(prev[base], errors="coerce")
-                    b = pd.to_numeric(prev[twin], errors="coerce")
-                    prev[base] = a.fillna(b)
-                if twin in prev.columns:
-                    prev = prev.drop(columns=[twin])
-            fresh = pd.concat([prev, fresh.rename(columns=rename_map)], ignore_index=True)
-        except Exception as e:  # noqa: BLE001
-            logging.warning("Could not merge previous file: %s", e)
-
-    out = fresh.drop_duplicates(subset=["portid", "date"], keep="last").sort_values(["portid", "date"])
-    keep = out.rename(columns={
-        "portcalls": "daily_port_calls_total",
-        "portcalls_dry_bulk": "daily_port_calls_dry_bulk",
-        "portcalls_tanker": "daily_port_calls_tanker",
-        "portcalls_container": "daily_port_calls_container",
-    })
+    usecols = ["date", "portid", "portname", "country", *RENAME, "import_dry_bulk", "export_dry_bulk",
+               "import_tanker", "export_tanker"]
+    src = pd.read_csv(SOURCE, dtype={"portid": str}, usecols=usecols)
+    src = src[src["portid"].isin(hubs)].rename(columns=RENAME)
+    if src.empty:
+        logging.error("No hub-port rows in %s", SOURCE.name)
+        return 1
+    src["hub_code"] = src["portid"]
     # tonnages come as metric tons; report kilotonnes for chart scale
     for c in ("import_dry_bulk", "export_dry_bulk", "import_tanker", "export_tanker"):
-        if c in keep.columns:
-            keep[c + "_kt"] = (pd.to_numeric(keep[c], errors="coerce") / 1000.0).round(2)
+        src[c + "_kt"] = (pd.to_numeric(src[c], errors="coerce") / 1000.0).round(2)
+    src = src[COLS]
 
-    cols = ["date", "portid", "portname", "country", "hub_code",
-            "daily_port_calls_total", "daily_port_calls_dry_bulk",
-            "daily_port_calls_tanker", "daily_port_calls_container",
-            "import_dry_bulk_kt", "export_dry_bulk_kt",
-            "import_tanker_kt", "export_tanker_kt"]
-    cols = [c for c in cols if c in keep.columns]
-    keep = keep[cols].drop_duplicates(subset=["portid", "date"])
+    out = (pd.concat([prev[COLS], src], ignore_index=True)
+           .drop_duplicates(subset=["portid", "date"], keep="last")
+           .sort_values(["portid", "date"]))
+    out.to_csv(OUT, index=False, lineterminator="\n")
 
-    # primary output: real measured fields only
-    keep.to_csv(DATA_DIR / "portwatch_port_congestion.csv", index=False, lineterminator="\n")
-    # port_calls_daily_v2.csv retired 2026-09-09: was a byte-identical duplicate
-    # of the canonical portwatch_port_congestion.csv (same 43-port slice).
-    logging.info("Wrote %d rows to %s", len(keep), "portwatch_port_congestion.csv")
-    return keep
+    latest = src["date"].max()
+    stale = sorted(p for p, d in src.groupby("portid")["date"].max().items() if d < latest)
+    logging.info("Wrote %d rows for %d ports to %s (latest %s, previous file ended %s)", len(out),
+                 out["portid"].nunique(), OUT.name, latest, prev["date"].max() if len(prev) else "-")
+    if stale:
+        logging.warning("Ports behind %s: %s", latest, ", ".join(stale))
+    missing = sorted(hubs - set(src["portid"]))
+    if missing:
+        logging.warning("Hub ports absent from %s: %s", SOURCE.name, ", ".join(missing))
+    if date.fromisoformat(latest) < date.today() - timedelta(days=MAX_LAG_DAYS):
+        logging.error("%s ends %s (> %d days old): the PortWatch collector is not updating", SOURCE.name,
+                      latest, MAX_LAG_DAYS)
+        return 1
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

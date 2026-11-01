@@ -1,680 +1,323 @@
 """
-GACC / China Customs Bauxite & Alumina Ingestion Pipeline (§2.6)
-==============================================================
-Implements the 4-channel zero-touch architecture defined in AGENT_HANDOFF.md §2.6:
-  - Channel A: chinadata.live 8-digit USD totals and partner breakdown (HS 26060000, HS 28182000).
-               Stores monthly Guinea USD to data/commodities/china_customs_guinea_bauxite_partner_usd.csv.
-  - Channel B: GACC Table (14) via Playwright headless Chromium for official total bauxite tonnes.
-  - Channel C: SMM (Shanghai Metals Market) reports via Google News RSS for partner tonnes.
-               Handles month names without year (infers from article pubDate).
-               Strictly rejects cumulative / YTD sentences.
-  - Channel D: value-share estimate of Guinea tonnes (total tonnes x Guinea USD share). It is a SANITY
-               BASELINE only and is never written: an estimate is not a published figure.
+China bauxite (HS 26060000) and alumina (HS 28182000) imports - GACC figures as published by SMM
+=================================================================================================
+GACC releases the detailed (8-digit, by-country) customs data around the 20th of the following month. The
+only places it is printed are stats.customs.gov.cn (a JavaScript challenge answers every scripted client) and
+chinadata.live (its trade API was retired in 2026-10 and its product pages now sit behind a challenge too).
 
-chinadata.live retired its API in 2026-10 (404). Channel A failing no longer aborts the run: the SMM
-channel still runs for the last three months.
+Shanghai Metals Market (news.metal.com) publishes the GACC figures the same day, as text:
+  "According to General Administration of Customs data, domestic bauxite imports totalled 19.04 million
+   tonnes in July 2026 ... Domestic imports of Guinean bauxite stood at 14.88 million tonnes in July 2026"
+  "... alumina imports stood at 367,000 tonnes"
+Checked against the GACC query export for 2026-07 (Guinea 14,879,453.5 t; alumina 366,577.68 t): equal at the
+precision SMM prints (2026-04 Guinea: SMM 16.423 Mt, the later export 16,370,579 t - an early print). Articles are found through SMM's own monthly sitemaps (robots.txt allows them), so no
+search engine sits in between.
 
-Sanity Check & Precedence:
-  1. GACC official export / UN Comtrade (provenance = GACC)
-  2. SMM quote (provenance = SMM/GACC), rejected when it diverges >25% from the baseline (Channel D or the
-     trailing 3-month mirror average).
-  3. Nothing else is written; a month with no published figure stays missing.
-  4. Alumina: null tonnes if SMM has no quantity; never derived from USD.
+Outputs:
+  data/commodities/guinea_bauxite_exports.csv   monthly_bilateral_mirror row: China imports from Guinea (t);
+                                                the source quote also carries the China total and Australia
+  data/commodities/minor_bulks_monthly.csv      Alumina / China imports: metric_tonnes
+
+Rules:
+  - single-month figures only: sentences about cumulative, year-to-date or year-earlier figures are skipped, and
+    the patterns read gross imports only ("alumina imports stood at", "imported N t of alumina"), never net ones
+  - the article must be published after the month it reports and name that month
+  - a figure is written as printed (SMM rounds some months to 10 kt); rows from a GACC query export are never
+    overwritten, an SMM row is replaced only by a more precise SMM figure for the same month
+  - nothing is derived: no value-share or USD-based tonnes
+
+Usage: fetch_gacc_bauxite_alumina.py [--months N]   (default: the last 4 complete months)
 """
 
-import sys
-import os
-import re
 import csv
-import json
-import gzip
+import html
 import logging
-from datetime import datetime
+import re
+import sys
+import time
+from datetime import date
 from pathlib import Path
-import urllib.request
-import urllib.parse
-import xml.etree.ElementTree as ET
-import email.utils
+
+import requests
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 logger = logging.getLogger("gacc_bauxite_alumina")
 
 BASE_DIR = Path(__file__).resolve().parent.parent.parent
 COMMODITIES_DIR = BASE_DIR / "data" / "commodities"
-
 GUINEA_CSV = COMMODITIES_DIR / "guinea_bauxite_exports.csv"
 MINOR_BULKS_CSV = COMMODITIES_DIR / "minor_bulks_monthly.csv"
-PARTNER_USD_CSV = COMMODITIES_DIR / "china_customs_guinea_bauxite_partner_usd.csv"
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-}
+SITEMAP_URL = "https://news.metal.com/sitemap/sitemap-newscontent-{ym}.xml"
+HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+PUBLISHER = "Shanghai Metals Market (SMM), quoting GACC customs data"
 
-MONTH_MAP = {
-    "january": 1, "february": 2, "march": 3, "april": 4, "may": 5, "june": 6,
-    "july": 7, "august": 8, "september": 9, "october": 10, "november": 11, "december": 12
-}
-
-
-# =====================================================================
-# Channel A: chinadata.live USD API
-# =====================================================================
-def fetch_chinadata_hs(hs_code: str, flow: str = "import", period: str = "all") -> dict:
-    """Fetch trade data from chinadata.live for an 8-digit or 4-digit HS code."""
-    url = f"https://chinadata.live/api/v2/trade/hs/{hs_code}?flow={flow}&period={period}"
-    logger.info(f"[Channel A] Fetching chinadata.live HS {hs_code} (flow={flow}, period={period})")
-    req = urllib.request.Request(url, headers={"User-Agent": "ShippingIntel/1.0 (partner-harvest)"})
-    with urllib.request.urlopen(req, timeout=20) as resp:
-        return json.loads(resp.read().decode("utf-8"))
+MONTHS = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october",
+          "november", "december"]
+# sentences that do not carry a single-month import figure
+SKIP_SENTENCE = re.compile(r"cumulative|year[- ]to[- ]date|\bytd\b|first \w+ months|january\s*(?:[-–‑]|to\b)|jan\s*[-–‑]|"
+                           r"\bh1\b|\bh2\b|quarter|same period|year earlier|last year|forecast|expected|"
+                           r"estimate", re.I)
+# capitalised month names only, and "May" only with a year or after "in" (the modal verb is not a month)
+MONTH_RE = re.compile(r"\b(January|February|March|April|June|July|August|September|October|November|December|"
+                      r"(?<=in )May\b|May(?= \d{4}))(?:\s+(\d{4}))?")
+VERB = r"(?:totall?ed|stood at|reached|were|was|hit|amounted to|came in at|of)"
+QTY = r"([\d,]+(?:\.\d+)?)\s*(million\s+)?(?:metric\s+)?(?:tonnes|tons|mt)\b"
 
 
-def sync_partner_usd_history(bauxite_data: dict) -> dict:
-    """Ensure data/commodities/china_customs_guinea_bauxite_partner_usd.csv is up-to-date."""
-    PARTNER_USD_CSV.parent.mkdir(parents=True, exist_ok=True)
-    existing = {}
-    if PARTNER_USD_CSV.exists():
-        with open(PARTNER_USD_CSV, "r", encoding="utf-8") as f:
-            for r in csv.DictReader(f):
-                existing[r["period"]] = r
-
-    # Seed from existing guinea_bauxite_exports.csv if partner file is empty
-    if not existing and GUINEA_CSV.exists():
-        logger.info("Seeding partner USD history from guinea_bauxite_exports.csv mirror rows...")
-        with open(GUINEA_CSV, "r", encoding="utf-8") as f:
-            for r in csv.DictReader(f):
-                if r.get("granularity") == "monthly_bilateral_mirror":
-                    d = str(r.get("date", ""))[:7]
-                    quote = str(r.get("source_quote", ""))
-                    m_usd = re.search(r"US\$\s*([\d,]+)", quote)
-                    g_usd = None
-                    if m_usd:
-                        g_usd = float(m_usd.group(1).replace(",", ""))
-                    elif r.get("tonnes") and r.get("avg_cif_usd_t"):
-                        try:
-                            g_usd = float(r["tonnes"]) * float(r["avg_cif_usd_t"])
-                        except ValueError:
-                            pass
-                    if d and g_usd:
-                        existing[d] = {
-                            "period": d,
-                            "date": f"{d}-01",
-                            "guinea_usd": g_usd,
-                            "china_total_usd": "",
-                            "guinea_value_share": "",
-                            "source": r.get("publisher", "GACC")
-                        }
-
-    # Match with chinadata.live monthly totals
-    monthly_totals = {m["month"]: m["value_usd"] for m in bauxite_data.get("monthly", [])}
-    for m_str, tot in monthly_totals.items():
-        if m_str in existing:
-            existing[m_str]["china_total_usd"] = tot
-            g_usd = existing[m_str].get("guinea_usd")
-            if g_usd:
-                try:
-                    existing[m_str]["guinea_value_share"] = round(float(g_usd) / float(tot), 6)
-                except (ValueError, ZeroDivisionError):
-                    pass
-
-    # Check latest_partners from chinadata
-    latest_partners = bauxite_data.get("latest_partners", [])
-    for p in latest_partners:
-        if str(p.get("partner_code")) == "221" or "Guinea" in str(p.get("partner_name", "")):
-            latest_m = str(p.get("latest_month", ""))
-            if len(latest_m) == 6:
-                m_str = f"{latest_m[:4]}-{latest_m[4:6]}"
-            else:
-                m_str = bauxite_data.get("monthly", [{}])[-1].get("month")
-
-            tot_usd = monthly_totals.get(m_str, "")
-            g_usd = p.get("value_usd")
-            share = p.get("share")
-            logger.info(f"[Channel A] Found Guinea partner USD for {m_str}: ${g_usd:,.0f} (share: {share:.2%})")
-            existing[m_str] = {
-                "period": m_str,
-                "date": f"{m_str}-01",
-                "guinea_usd": g_usd,
-                "china_total_usd": tot_usd,
-                "guinea_value_share": round(float(share), 6) if share else "",
-                "source": "chinadata.live (partner_code 221)"
-            }
-
-    # Write sorted CSV
-    sorted_periods = sorted(existing.keys())
-    with open(PARTNER_USD_CSV, "w", newline="", encoding="utf-8") as f:
-        fieldnames = ["period", "date", "guinea_usd", "china_total_usd", "guinea_value_share", "source"]
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        for p in sorted_periods:
-            writer.writerow(existing[p])
-
-    logger.info(f"Updated {PARTNER_USD_CSV} ({len(sorted_periods)} months recorded)")
-    return existing
-
-
-# =====================================================================
-# Channel B: GACC Table 14 via Playwright Headless Chromium
-# =====================================================================
-def fetch_gacc_table14_playwright(year: int, month: int) -> float | None:
-    """
-    Attempt to scrape official total bauxite import tonnes from GACC Table 14.
-    Link text: （14）{year}年{month}月进口主要商品量值表（美元值）
-    Row: 铝矿砂及其精矿 (万吨 -> tonnes = 万吨 * 10,000)
-    """
-    try:
-        from playwright.sync_api import sync_playwright
-    except ImportError:
-        logger.warning("[Channel B] Playwright not installed. Skipping Table 14 scrape.")
-        return None
-
-    logger.info(f"[Channel B] Attempting Playwright navigation for GACC Table 14 ({year}-{month:02d})...")
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
+def _get(url: str) -> str:
+    for attempt in range(3):
         try:
-            page = browser.new_page()
-            init_url = "http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/302274/index.html"
-            try:
-                page.goto(init_url, timeout=20000, wait_until="domcontentloaded")
-                page.wait_for_timeout(6000)
-            except Exception as e:
-                logger.warning(f"[Channel B] Initial handshake challenge timeout/error: {e}")
-
-            target_idx_url = f"http://www.customs.gov.cn/customs/302249/zfxxgk/fdzdgknr/302274/302277/{year}/index.html"
-            page.goto(target_idx_url, timeout=20000, wait_until="domcontentloaded")
-            page.wait_for_timeout(3000)
-
-            target_pattern = f"14.*{month}月进口主要商品量值表"
-            links = page.query_selector_all("a")
-            table_url = None
-            for l in links:
-                txt = (l.inner_text() or "").strip()
-                if re.search(target_pattern, txt):
-                    href = l.get_attribute("href")
-                    if href:
-                        table_url = urllib.parse.urljoin(page.url, href)
-                        logger.info(f"[Channel B] Found Table 14 link: {txt} -> {table_url}")
-                        break
-
-            if not table_url:
-                logger.warning(f"[Channel B] Table 14 link for {year}-{month:02d} not found on index page.")
-                return None
-
-            page.goto(table_url, timeout=25000, wait_until="domcontentloaded")
-            page.wait_for_timeout(3000)
-
-            content = page.content()
-            m = re.search(r"铝矿砂及其精矿\s*</td>\s*<td[^>]*>\s*万吨\s*</td>\s*<td[^>]*>\s*([\d,]+(?:\.\d+)?)", content)
-            if m:
-                wan_tonnes = float(m.group(1).replace(",", ""))
-                total_tonnes = wan_tonnes * 10000.0
-                logger.info(f"[Channel B] Successfully parsed bauxite total from Table 14: {wan_tonnes} 万吨 ({total_tonnes:,.0f} t)")
-                return total_tonnes
-            else:
-                logger.warning("[Channel B] Row '铝矿砂及其精矿' not found in Table 14 content.")
-                return None
-        except Exception as e:
-            logger.warning(f"[Channel B] Failed to scrape Table 14 via Playwright: {e}")
-            return None
-        finally:
-            browser.close()
+            r = requests.get(url, headers=HEADERS, timeout=40)
+            r.raise_for_status()
+            return r.content.decode("utf-8", errors="ignore")
+        except Exception as exc:  # noqa: BLE001
+            logger.warning("GET %s failed (%s), attempt %d", url, exc, attempt + 1)
+            time.sleep(5 * (attempt + 1))
+    raise RuntimeError(f"unavailable: {url}")
 
 
-# =====================================================================
-# Channel C: SMM (Shanghai Metals Market) via Google News RSS
-# =====================================================================
-def fetch_smm_news_rss(query: str, max_items: int = 15) -> list[dict]:
-    """Search Google News RSS for SMM articles and return title, link, pubDate."""
-    encoded_q = urllib.parse.quote(query)
-    rss_url = f"https://news.google.com/rss/search?q={encoded_q}&hl=en-US&gl=US&ceid=US:en"
-    logger.info(f"[Channel C] Querying Google News RSS: {query}")
-
-    req = urllib.request.Request(rss_url, headers=HEADERS)
-    items = []
-    try:
-        with urllib.request.urlopen(req, timeout=20) as resp:
-            tree = ET.fromstring(resp.read())
-            for item in tree.findall(".//item")[:max_items]:
-                title = item.find("title").text or ""
-                link = item.find("link").text or ""
-                pub_date = item.find("pubDate").text or ""
-                items.append({"title": title, "link": link, "pubDate": pub_date})
-    except Exception as e:
-        logger.warning(f"[Channel C] Error querying Google News RSS: {e}")
-    return items
+def _shift(ym: tuple[int, int], k: int) -> tuple[int, int]:
+    n = ym[0] * 12 + ym[1] - 1 + k
+    return n // 12, n % 12 + 1
 
 
-def fetch_article_text(url: str) -> str:
-    """Fetch article body handling gzip and redirects."""
-    try:
-        from playwright.sync_api import sync_playwright
-        with sync_playwright() as p:
-            b = p.chromium.launch(headless=True)
-            page = b.new_page()
-            page.goto(url, timeout=25000, wait_until="domcontentloaded")
-            page.wait_for_timeout(2500)
-            text = page.locator("body").inner_text()
-            b.close()
-            return text
-    except Exception:
-        # Fallback to urllib
-        req = urllib.request.Request(url, headers={**HEADERS, "Accept-Encoding": "gzip, deflate"})
+def article_urls(publish_months: list[tuple[int, int]]) -> list[str]:
+    """English bauxite / alumina trade articles listed in SMM's monthly sitemaps."""
+    urls = []
+    for y, m in publish_months:
         try:
-            with urllib.request.urlopen(req, timeout=15) as resp:
-                content = resp.read()
-                if resp.info().get("Content-Encoding") == "gzip":
-                    content = gzip.decompress(content)
-                return content.decode("utf-8", errors="ignore")
-        except Exception as e:
-            logger.debug(f"[Channel C] Failed to fetch article {url}: {e}")
-            return ""
-
-
-def extract_period_from_smm(title: str, body: str, pub_date: str = "") -> str | None:
-    """
-    Extract YYYY-MM period from SMM article.
-    Handles month names without year by inferring year from pubDate or current year.
-    """
-    # 1. Check title and body for Month + 4-digit year
-    m = re.search(r"\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{4})\b", f"{title}\n{body}", re.IGNORECASE)
-    if m:
-        mon = m.group(1).lower()
-        yr = int(m.group(2))
-        return f"{yr:04d}-{MONTH_MAP[mon]:02d}"
-
-    # 2. Check for month name alone, inferring year from pubDate
-    m_mon = re.search(r"\b(January|February|March|April|May|June|July|August|September|October|November|December)\b", f"{title}\n{body[:200]}", re.IGNORECASE)
-    if m_mon:
-        mon = m_mon.group(1).lower()
-        yr = None
-        if pub_date:
-            try:
-                parsed_dt = email.utils.parsedate_to_datetime(pub_date)
-                yr = parsed_dt.year
-            except Exception:
-                m_yr = re.search(r"\b(20\d\d)\b", pub_date)
-                if m_yr:
-                    yr = int(m_yr.group(1))
-        if not yr:
-            yr = datetime.now().year
-        return f"{yr:04d}-{MONTH_MAP[mon]:02d}"
-
-    return None
-
-
-def parse_smm_bauxite_article(title: str, body: str, pub_date: str = "") -> dict | None:
-    """
-    Parse Guinea bauxite tonnes from an SMM article.
-    Strictly single-month gross imports only; rejects H1, quarterly, net imports, cumulative/YTD, first N months, forecast.
-    Clamps units to 3–40 Mt.
-    """
-    period_str = extract_period_from_smm(title, body, pub_date)
-    if not period_str:
-        return None
-
-    full_text = f"{title}\n{body}"
-    sentences = [s.strip() for s in re.split(r"(?<!\d)\.|\.(?!\d)|\n+", full_text) if s.strip()]
-
-    # Patterns for monthly Guinea bauxite
-    patterns = [
-        r"(?:imported|imports\s+from\s+Guinea\s+(?:reached|were|totaled)?)\s+([\d,]+(?:\.\d+)?)\s*(?:million|mil)?\s*(?:mt|tonnes|t)\s+(?:of\s+bauxite\s+)?from\s+Guinea",
-        # (a loose "Guinea ... N million mt" pattern was removed: it read "nearly 10 million mt" from a sentence
-        #  about supply sentiment as the September 2026 import figure)
-        r"([\d,]+(?:\.\d+)?)\s*(?:million|mil)\s*(?:mt|tonnes|t)\s+(?:of\s+bauxite\s+)?from\s+Guinea",
-    ]
-
-    for s in sentences:
-        # Strictly reject cumulative, YTD, quarterly, H1, net imports, forecasts
-        if re.search(r"january[-–\s]+[a-z]+|first\s+\d+\s+months|cumulative|ytd|in the first \w+ months|h1|h2|quarter|q[1-4]|net\s+imports|forecast|estimate|projected|nearly|about|around|approximately|roughly|more than|less than|close to", s, re.IGNORECASE):
+            xml = _get(SITEMAP_URL.format(ym=f"{y}{m:02d}"))
+        except RuntimeError as exc:
+            logger.warning("%s", exc)
             continue
-
-        for pat in patterns:
-            m = re.search(pat, s, re.IGNORECASE)
-            if m:
-                val_str = m.group(1).replace(",", "")
-                val = float(val_str)
-                if "million" in m.group(0).lower() or "mil" in m.group(0).lower() or val < 100.0:
-                    tonnes = val * 1e6
-                else:
-                    tonnes = val
-
-                # Clamp units: Guinea bauxite must be strictly 3 Mt – 40 Mt
-                if tonnes < 3_000_000 or tonnes > 40_000_000:
-                    logger.warning(f"Rejecting SMM bauxite tonnes outside 3-40 Mt clamp: {tonnes:,.0f} t (quote: {m.group(0)})")
-                    continue
-
-                return {
-                    "period": period_str,
-                    "date": f"{period_str}-01",
-                    "tonnes": tonnes,
-                    "quote": m.group(0).strip(),
-                    "title": title
-                }
-    return None
+        for u in re.findall(r"<loc>([^<]+)</loc>", xml):
+            slug = u.rsplit("/", 1)[-1].lower()
+            if re.search(r"news\.metal\.com/[a-z]{2}/newscontent", u):
+                continue     # translated copies
+            if "traded" in slug or re.search(r"(?:^|-)ports?(?:-|$)", slug):
+                continue     # spot deal notes, port inventories
+            if ("bauxite" in slug and "import" in slug) or ("alumina" in slug and re.search(r"import|export|trade", slug)):
+                urls.append(u)
+    return urls
 
 
-def parse_smm_alumina_article(title: str, body: str, pub_date: str = "") -> dict | None:
-    """
-    Parse Alumina import tonnes from an SMM article.
-    Strictly single-month gross imports only; rejects H1, quarterly, net imports, cumulative/YTD, first N months, forecast.
-    Clamps units to 10 kt – 3 Mt.
-    """
-    period_str = extract_period_from_smm(title, body, pub_date)
-    if not period_str:
-        return None
+def article_text(url: str) -> tuple[date | None, str]:
+    """(publish date, body text) of an SMM news page."""
+    s = _get(url)
+    t = re.sub(r"<script.*?</script>|<style.*?</style>", " ", s, flags=re.S)
+    t = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", t)))
+    m = re.search(r"Published\s*:\s*([A-Z][a-z]{2}) (\d{1,2}), (\d{4})", t)
+    if not m:
+        return None, ""
+    pub = date(int(m[3]), [x[:3] for x in MONTHS].index(m[1].lower()) + 1, int(m[2]))
+    body = re.sub(r"^\s*\d{1,2}:\d{2} \(GMT[^)]*\)\s*(?:Source\s*:\s*\S+\s*)?(?:Share\s*)*(?:Save\s*)?", "",
+                  t[m.end():])
+    end = min([i for i in (body.find("Data Source Statement"), body.find("Related News")) if i > 0] or [len(body)])
+    return pub, body[:end]
 
-    full_text = f"{title}\n{body}"
-    sentences = [s.strip() for s in re.split(r"(?<!\d)\.|\.(?!\d)|\n+", full_text) if s.strip()]
 
-    # Gross imports only — reject net imports
-    patterns = [
-        r"alumina\s+imports\s+(?:reached|totaled|were)?\s*([\d,]+(?:\.\d+)?)\s*(?:mt|tonnes|t)",
-        r"imported\s+([\d,]+(?:\.\d+)?)\s*(?:mt|tonnes|t)\s+(?:of\s+alumina)",
-        r"([\d,]+(?:\.\d+)?)\s*(?:million|mil)\s*(?:mt|tonnes|t)\s+(?:of\s+alumina)",
-    ]
+def _sentences(body: str) -> list[str]:
+    return [s.strip() for s in re.split(r"(?<!\d)\.(?!\d)|\.(?=\s)", body) if s.strip()]
 
-    for s in sentences:
-        if re.search(r"january[-–\s]+[a-z]+|first\s+\d+\s+months|cumulative|ytd|in the first \w+ months|h1|h2|quarter|q[1-4]|net\s+imports|forecast|estimate|projected", s, re.IGNORECASE):
+
+def _tonnes(num: str, million: str | None) -> float:
+    v = float(num.replace(",", ""))
+    return v * 1e6 if million else v
+
+
+def _decimals(num: str) -> int:
+    return len(num.split(".")[1]) if "." in num else 0
+
+
+def report_month(pub: date, body: str) -> tuple[int, int] | None:
+    """The month an article reports: the month named in it that is before the publish month (latest such)."""
+    named = set()
+    for mon, yr in MONTH_RE.findall(body):
+        idx = MONTHS.index(mon.lower()) + 1
+        y = int(yr) if yr else (pub.year if idx < pub.month else pub.year - 1)
+        named.add((y, idx))
+    before = [ym for ym in named if ym < (pub.year, pub.month) and ym >= _shift((pub.year, pub.month), -3)]
+    return max(before) if before else None
+
+
+def _month_ok(sentence: str, ym: tuple[int, int]) -> bool:
+    """A figure counts when its sentence names the reported month, or names no month at all ("that month")."""
+    names = [n for n, _ in MONTH_RE.findall(sentence)]
+    return not names or any(n.lower() == MONTHS[ym[1] - 1] for n in names)
+
+
+def _customs(body: str) -> bool:
+    """Only articles that quote the customs release (weekly reviews quote shipments and port arrivals)."""
+    return bool(re.search(r"General Administration of Customs|customs data", body, re.I))
+
+
+def parse_bauxite(body: str, ym: tuple[int, int]) -> dict:
+    """{total, guinea[, australia]} or {}: the Guinea figure is kept only next to the China total of the same
+    article, and both must be import sentences."""
+    if not _customs(body):
+        return {}
+    out = {}
+    pats = {
+        "total": r"bauxite imports(?: \w+){0,3}? " + VERB + r"\s+" + QTY,
+        "guinea": r"Guinea(?:n bauxite)?\b[^.;%]{0,60}?(?:with|" + VERB[3:-1] + r")\s+" + QTY,
+        "australia": r"Australia(?:n bauxite)?\b[^.;%]{0,60}?(?:with|" + VERB[3:-1] + r")\s+" + QTY,
+    }
+    for s in _sentences(body):
+        if SKIP_SENTENCE.search(s) or not _month_ok(s, ym) or "import" not in s.lower():
             continue
+        for key, pat in pats.items():
+            m = re.search(pat, s, re.I)
+            if m and key not in out:
+                out[key] = {"tonnes": _tonnes(m[1], m[2]), "decimals": _decimals(m[1]), "quote": s}
+    g, tot = out.get("guinea"), out.get("total")
+    if not (g and tot):
+        return {}
+    if not (3e6 <= g["tonnes"] <= 40e6 and 5e6 <= tot["tonnes"] <= 50e6) or g["tonnes"] > tot["tonnes"]:
+        logger.warning("bauxite figures out of range or Guinea above the total, article dropped: %s | %s",
+                       g["quote"], tot["quote"])
+        return {}
+    return out
 
-        for pat in patterns:
-            m = re.search(pat, s, re.IGNORECASE)
+
+def parse_alumina(body: str, ym: tuple[int, int]) -> dict | None:
+    if not _customs(body):
+        return None
+    pats = [r"alumina imports(?: \w+){0,2}? " + VERB + r"\s+" + QTY,
+            r"imported\s+" + QTY + r" of alumina"]
+    for s in _sentences(body):
+        if SKIP_SENTENCE.search(s) or not _month_ok(s, ym):
+            continue
+        for pat in pats:
+            m = re.search(pat, s, re.I)
             if m:
-                val_str = m.group(1).replace(",", "")
-                val = float(val_str)
-                if "million" in m.group(0).lower() or "mil" in m.group(0).lower() or val < 50.0:
-                    tonnes = val * 1e6
-                else:
-                    tonnes = val
-
-                # Clamp units: Alumina imports must be strictly 10 kt – 3 Mt (10,000 to 3,000,000 t)
-                if tonnes < 10_000 or tonnes > 3_000_000:
-                    logger.warning(f"Rejecting SMM alumina tonnes outside 10kt-3Mt clamp: {tonnes:,.0f} t (quote: {m.group(0)})")
-                    continue
-
-                return {
-                    "period": period_str,
-                    "date": f"{period_str}-01",
-                    "metric_tonnes": tonnes,
-                    "quote": m.group(0).strip(),
-                    "title": title
-                }
+                t = _tonnes(m[1], m[2])
+                if 10_000 <= t <= 3_000_000:
+                    return {"tonnes": t, "decimals": _decimals(m[1]) - (6 if m[2] else 0), "quote": s}
+                logger.warning("alumina figure outside 10 kt-3 Mt, dropped: %s", s)
     return None
 
 
-# =====================================================================
-# Updating CSV Datasets
-# =====================================================================
-def update_guinea_bauxite_mirror(period: str, tonnes: float, method: str, publisher: str,
-                                 source_url: str, quote: str, avg_cif: float | None = None) -> bool:
-    """
-    Insert or overwrite a mirror row in guinea_bauxite_exports.csv.
-    Enforces precedence: GACC > SMM/GACC > derived_value_share.
-    """
-    if not GUINEA_CSV.exists():
-        logger.error(f"{GUINEA_CSV} does not exist.")
-        return False
-
-    date_str = f"{period}-01"
-    rows = []
-    updated = False
-    priority = {"GACC": 3, "SMM/GACC": 2, "derived_value_share": 1}
-
-    with open(GUINEA_CSV, "r", encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        fieldnames = reader.fieldnames or [
-            "date", "tonnes", "vessels", "company", "source_url", "publisher",
-            "source_quote", "method", "import_volume_t", "avg_cif_usd_t", "granularity"
-        ]
-        for r in reader:
-            if r.get("date") == date_str and r.get("granularity") == "monthly_bilateral_mirror":
-                curr_method = str(r.get("method", ""))
-                curr_pub = str(r.get("publisher", ""))
-                is_curr_gacc = "gacc" in curr_method.lower() or "customs" in curr_method.lower() or "gacc" in curr_pub.lower()
-
-                # GACC export rows strictly outrank SMM and derived rows; NEVER overwrite GACC rows
-                if is_curr_gacc and method != "GACC":
-                    logger.info(f"Retaining official GACC row over candidate {method} for {period}")
-                    rows.append(r)
-                    updated = True
-                    continue
-
-                curr_prio = priority.get("GACC" if is_curr_gacc else ("SMM/GACC" if "SMM" in curr_method else "derived_value_share"), 1)
-                new_prio = priority.get(method, 1)
-
-                if new_prio >= curr_prio:
-                    logger.info(f"Updating {period} mirror row: {curr_method} ({r.get('tonnes')}) -> {method} ({tonnes:.1f})")
-                    r["tonnes"] = f"{tonnes:.1f}"
-                    r["import_volume_t"] = f"{tonnes:.1f}"
-                    r["method"] = method
-                    r["publisher"] = publisher
-                    r["source_url"] = source_url
-                    r["source_quote"] = quote
-                    if avg_cif:
-                        r["avg_cif_usd_t"] = f"{avg_cif:.2f}"
-                    updated = True
-                else:
-                    logger.info(f"Retaining higher precedence {curr_method} over candidate {method} for {period}")
-            rows.append(r)
-
-    if not updated:
-        exists = any(r.get("date") == date_str and r.get("granularity") == "monthly_bilateral_mirror" for r in rows)
-        if not exists:
-            logger.info(f"Appending new mirror row for {period}: {tonnes:,.0f} t via {method}")
-            rows.append({
-                "date": date_str,
-                "tonnes": f"{tonnes:.1f}",
-                "vessels": "",
-                "company": "Bilateral Mirror (China Imports from Guinea)",
-                "source_url": source_url,
-                "publisher": publisher,
-                "source_quote": quote,
-                "method": method,
-                "import_volume_t": f"{tonnes:.1f}",
-                "avg_cif_usd_t": f"{avg_cif:.2f}" if avg_cif else "",
-                "granularity": "monthly_bilateral_mirror"
-            })
-            updated = True
-
-    rows.sort(key=lambda x: x.get("date", ""))
-    with open(GUINEA_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(rows)
-    return updated
+def _read(path: Path) -> tuple[list[str], list[dict]]:
+    with open(path, encoding="utf-8", newline="") as fh:
+        rd = csv.DictReader(fh)
+        return list(rd.fieldnames or []), list(rd)
 
 
-def update_minor_bulks_alumina(period: str, metric_tonnes: float | None, value_usd: float | None,
-                               source_str: str, source_url: str) -> bool:
-    """
-    Insert or update China Alumina row in minor_bulks_monthly.csv.
-    Tonnes can be None if SMM did not report it; value_usd is exact from chinadata.
-    NEVER derives tonnes from USD value.
-    """
-    if not MINOR_BULKS_CSV.exists():
-        logger.error(f"{MINOR_BULKS_CSV} does not exist.")
-        return False
+def _write(path: Path, fields: list[str], rows: list[dict]) -> None:
+    with open(path, "w", encoding="utf-8", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=fields, lineterminator="\n")
+        w.writeheader()
+        w.writerows(rows)
 
-    date_str = f"{period}-01"
-    period_int = int(period.replace("-", ""))
-    rows = []
-    found = False
 
-    with open(MINOR_BULKS_CSV, "r", encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        fieldnames = reader.fieldnames or [
-            "date", "period", "commodity", "trade_flow", "reporter_country",
-            "partner_country", "hs_code", "metric_tonnes", "value_usd",
-            "vessel_demand_impact", "source", "source_url"
-        ]
-        for r in reader:
-            if (r.get("commodity") == "Alumina" and
-                r.get("reporter_country") == "China" and
-                r.get("date") == date_str):
-                found = True
-                curr_src = str(r.get("source", "")).lower()
-                is_gacc_export = "user export" in curr_src or "gacc query" in curr_src
-                if is_gacc_export and "user export" not in source_str.lower():
-                    logger.info(f"Retaining official GACC Alumina row over candidate for {period}")
-                    rows.append(r)
-                    continue
-                if metric_tonnes is not None:
-                    r["metric_tonnes"] = f"{metric_tonnes:.2f}"
-                if value_usd is not None:
-                    r["value_usd"] = f"{value_usd:.1f}"
-                r["source"] = source_str
-                r["source_url"] = source_url
-            rows.append(r)
-
-    if not found:
-        logger.info(f"Appending new Alumina row for {period}: tonnes={metric_tonnes}, value_usd={value_usd}")
-        rows.append({
-            "date": date_str,
-            "period": period_int,
-            "commodity": "Alumina",
-            "trade_flow": "Imports",
-            "reporter_country": "China",
-            "partner_country": "World",
-            "hs_code": "2818",
-            "metric_tonnes": f"{metric_tonnes:.2f}" if metric_tonnes is not None else "",
-            "value_usd": f"{value_usd:.1f}" if value_usd is not None else "",
-            "vessel_demand_impact": "Handymax / Supramax",
-            "source": source_str,
-            "source_url": source_url
-        })
-
-    rows.sort(key=lambda x: (x.get("commodity", ""), x.get("date", "")))
-    with open(MINOR_BULKS_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(rows)
+def write_guinea(period: str, rec: dict, url: str) -> bool:
+    fields, rows = _read(GUINEA_CSV)
+    g = rec["guinea"]
+    quote = g["quote"]
+    for k in ("total", "australia"):
+        if k in rec and rec[k]["quote"] != quote:
+            quote += " | " + rec[k]["quote"]
+    new = {k: "" for k in fields}
+    new.update({"date": f"{period}-01", "tonnes": f"{g['tonnes']:.1f}", "import_volume_t": f"{g['tonnes']:.1f}",
+                "company": "Bilateral Mirror (China Imports from Guinea)", "source_url": url, "publisher": PUBLISHER,
+                "source_quote": f"SMM: {quote}", "method": f"SMM report of GACC customs data (HS 26060000), "
+                f"printed to {g['decimals']} decimals", "granularity": "monthly_bilateral_mirror"})
+    for i, r in enumerate(rows):
+        if r.get("granularity") == "monthly_bilateral_mirror" and r.get("date") == new["date"]:
+            if not r.get("method", "").startswith("SMM"):
+                return False                      # GACC query export / older official row: keep
+            old_dec = int(re.search(r"(\d+) decimals", r["method"])[1]) if "decimals" in r["method"] else 0
+            if g["decimals"] <= old_dec:
+                return False
+            rows[i] = new
+            break
+    else:
+        rows.append(new)
+    rows.sort(key=lambda r: r.get("date", ""))
+    _write(GUINEA_CSV, fields, rows)
+    logger.info("Guinea bauxite %s: %s t (%s)", period, new["tonnes"], url)
     return True
 
 
-# =====================================================================
-# Main Orchestrator
-# =====================================================================
-def run_pipeline(target_period: str | None = None):
-    """
-    Run bauxite and alumina ingestion pipeline across all channels.
-    Re-evaluates the last 3 periods to capture late publications and revisions.
-    """
-    logger.info("=== Starting GACC Bauxite & Alumina Ingestion Pipeline (§2.6) ===")
-
-    # Channel A: Fetch chinadata.live 8-digit USD (API retired 2026-10; a failure must not stop channel C)
-    try:
-        bauxite_data = fetch_chinadata_hs("26060000", flow="import", period="all")
-        alumina_data = fetch_chinadata_hs("28182000", flow="import", period="all")
-        partner_history = sync_partner_usd_history(bauxite_data)
-    except Exception as e:  # noqa: BLE001
-        logger.error(f"[Channel A] chinadata.live unavailable ({e}); continuing with the SMM channel only")
-        bauxite_data, alumina_data, partner_history = {}, {}, {}
-
-    all_bauxite_months = [m["month"] for m in bauxite_data.get("monthly", []) if "month" in m]
-    all_alumina_months = [m["month"] for m in alumina_data.get("monthly", []) if "month" in m]
-
-    if target_period:
-        eval_bauxite_months = [target_period]
-        eval_alumina_months = [target_period]
+def write_alumina(period: str, rec: dict, url: str) -> bool:
+    fields, rows = _read(MINOR_BULKS_CSV)
+    src = f"China GACC (HS 28182000) as published by SMM: {rec['quote']}"
+    for r in rows:
+        if r.get("commodity") == "Alumina" and r.get("reporter_country") == "China" and r["date"] == f"{period}-01":
+            if r.get("metric_tonnes"):
+                return False                      # tonnes already stored (GACC export or earlier SMM read)
+            r["metric_tonnes"] = f"{rec['tonnes']:.2f}"
+            r["source"] = (r["source"] + "; tonnes: " if r.get("source") else "") + src
+            r["source_url"] = url
+            break
     else:
-        # Re-evaluate last 3 months (calendar months before this one when chinadata gave no month list)
-        now = datetime.now()
-        recent = [f"{(now.year * 12 + now.month - 1 - k) // 12}-{(now.month - 1 - k) % 12 + 1:02d}" for k in (3, 2, 1)]
-        eval_bauxite_months = all_bauxite_months[-3:] if all_bauxite_months else recent
-        eval_alumina_months = all_alumina_months[-3:] if all_alumina_months else []
+        new = {k: "" for k in fields}
+        new.update({"date": f"{period}-01", "period": period.replace("-", ""), "commodity": "Alumina",
+                    "trade_flow": "Imports", "reporter_country": "China", "partner_country": "World",
+                    "hs_code": "2818", "metric_tonnes": f"{rec['tonnes']:.2f}",
+                    "vessel_demand_impact": "Handymax / Supramax", "source": src, "source_url": url})
+        rows.append(new)
+    rows.sort(key=lambda x: (x.get("commodity", ""), x.get("date", "")))
+    _write(MINOR_BULKS_CSV, fields, rows)
+    logger.info("Alumina %s: %.0f t (%s)", period, rec["tonnes"], url)
+    return True
 
-    logger.info(f"Evaluating bauxite months: {eval_bauxite_months}")
-    logger.info(f"Evaluating alumina months: {eval_alumina_months}")
 
-    # Process Alumina for evaluation months
-    alumina_totals = {m["month"]: m["value_usd"] for m in alumina_data.get("monthly", [])}
-    for m_str in eval_alumina_months:
-        val_usd = alumina_totals.get(m_str)
-        if val_usd:
-            logger.info(f"Processing Alumina {m_str}: chinadata.live USD = ${val_usd:,.0f}")
-            smm_alumina = None
-            rss_items = fetch_smm_news_rss(f"China alumina imports {m_str[:4]} site:news.metal.com")
-            for it in rss_items:
-                body = fetch_article_text(it["link"])
-                parsed = parse_smm_alumina_article(it["title"], body, it.get("pubDate", ""))
-                if parsed and parsed["period"] == m_str:
-                    smm_alumina = parsed
-                    smm_alumina["link"] = it["link"]
-                    break
+def run(n_months: int = 4) -> int:
+    today = date.today()
+    targets = [_shift((today.year, today.month), -k) for k in range(n_months, 0, -1)]
+    publish = sorted({_shift(t, k) for t in targets for k in (1, 2) if _shift(t, k) <= (today.year, today.month)})
+    urls = article_urls(publish)
+    logger.info("SMM candidate articles: %d (sitemaps %s)", len(urls), [f"{y}-{m:02d}" for y, m in publish])
 
-            tonnes = smm_alumina["metric_tonnes"] if smm_alumina else None
-            src_str = "China GACC via chinadata.live (HS 28182000)" + (f"; tonnes via SMM ({smm_alumina['title'][:50]}...)" if smm_alumina else "")
-            src_url = smm_alumina["link"] if smm_alumina else "https://chinadata.live/api/v2/trade/hs/28182000"
-            update_minor_bulks_alumina(m_str, tonnes, val_usd, src_str, src_url)
-
-    # Process Guinea Bauxite for evaluation months
-    for m_str in eval_bauxite_months:
-        dt = datetime.strptime(f"{m_str}-01", "%Y-%m-%d")
-        partner_info = partner_history.get(m_str, {})
-        guinea_usd = partner_info.get("guinea_usd")
-        china_tot_usd = partner_info.get("china_total_usd")
-
-        # 1. Try SMM Quote (Channel C)
-        smm_bauxite = None
-        rss_items = fetch_smm_news_rss(f"China bauxite imports Guinea {m_str[:4]} site:news.metal.com")
-        for it in rss_items:
-            body = fetch_article_text(it["link"])
-            parsed = parse_smm_bauxite_article(it["title"], body, it.get("pubDate", ""))
-            if parsed and parsed["period"] == m_str:
-                smm_bauxite = parsed
-                smm_bauxite["link"] = it["link"]
-                break
-
-        # 2. Try Table 14 via Playwright (Channel B) + Calibrated Value-Share (Channel D)
-        derived_tonnes = None
-        china_tot_tonnes = fetch_gacc_table14_playwright(dt.year, dt.month)
-        if china_tot_tonnes and guinea_usd and china_tot_usd:
-            derived_tonnes = china_tot_tonnes * (float(guinea_usd) / float(china_tot_usd))
-            logger.info(f"[Channel D] Sanity baseline (not written) for Guinea bauxite {m_str}: {derived_tonnes:,.0f} t")
-
-        # 3. Trailing 3m average from mirror series
-        trailing_3m = None
-        if GUINEA_CSV.exists():
-            try:
-                df_g = pd.read_csv(GUINEA_CSV)
-                m_sub = df_g[(df_g["granularity"] == "monthly_bilateral_mirror") & (df_g["date"] < f"{m_str}-01")]
-                if len(m_sub) >= 3:
-                    trailing_3m = m_sub.tail(3)["tonnes"].astype(float).mean()
-            except Exception:
-                pass
-
-        baseline = derived_tonnes or trailing_3m
-
-        # 4. Sanity check SMM vs Channel D / trailing 3m average (reject >25% deviation)
-        if smm_bauxite and baseline:
-            diff_pct = abs(smm_bauxite["tonnes"] - baseline) / baseline
-            if diff_pct > 0.25:
-                logger.warning(
-                    f"[Sanity Check] SMM tonnes ({smm_bauxite['tonnes']:,.0f}) diverges by {diff_pct:.1%} (>25%) "
-                    f"from baseline ({baseline:,.0f}). Rejecting SMM candidate."
-                )
-                smm_bauxite = None
-            else:
-                logger.info(f"[Sanity Check] SMM tonnes and baseline agree within {diff_pct:.1%}.")
-
-        if smm_bauxite:
-            logger.info(f"[Channel C] Found SMM Guinea bauxite tonnes for {m_str}: {smm_bauxite['tonnes']:,.0f} t")
-            cif = (float(guinea_usd) / smm_bauxite["tonnes"]) if guinea_usd else None
-            update_guinea_bauxite_mirror(
-                period=m_str,
-                tonnes=smm_bauxite["tonnes"],
-                method="SMM/GACC",
-                publisher="Shanghai Metals Market (SMM) / GACC",
-                source_url=smm_bauxite.get("link", "https://news.metal.com"),
-                quote=f"SMM quote: {smm_bauxite['quote']}",
-                avg_cif=cif
-            )
+    baux: dict[tuple[int, int], tuple[dict, str]] = {}
+    alum: dict[tuple[int, int], tuple[dict, str]] = {}
+    for u in urls:
+        try:
+            pub, body = article_text(u)
+        except RuntimeError as exc:
+            logger.warning("%s", exc)
             continue
+        ym = report_month(pub, body) if pub else None
+        if ym not in targets:
+            continue
+        slug = u.rsplit("/", 1)[-1].lower()
+        if "bauxite" in slug:
+            rec = parse_bauxite(body, ym)
+            if "guinea" in rec and ("guinea" not in baux.get(ym, ({}, ""))[0]
+                                    or rec["guinea"]["decimals"] > baux[ym][0]["guinea"]["decimals"]):
+                baux[ym] = (rec, u)
+        else:
+            rec = parse_alumina(body, ym)
+            if rec and (ym not in alum or rec["decimals"] > alum[ym][0]["decimals"]):
+                alum[ym] = (rec, u)
+        time.sleep(1)
 
-        logger.info(f"No new volume data for Guinea bauxite {m_str}; retained existing data.")
-
-    logger.info("=== GACC Pipeline run complete ===")
+    changed = 0
+    for ym in targets:
+        period = f"{ym[0]}-{ym[1]:02d}"
+        if ym in baux:
+            changed += write_guinea(period, *baux[ym])
+        else:
+            logger.info("Guinea bauxite %s: no SMM article with a single-month figure yet", period)
+        if ym in alum:
+            changed += write_alumina(period, *alum[ym])
+        else:
+            logger.info("Alumina %s: no SMM article with a single-month import figure yet", period)
+    logger.info("Done: %d row(s) written", changed)
+    # GACC publishes month M around the 20th of M+1; fail only when month M-2 is still missing after that
+    due = _shift((today.year, today.month), -2 if today.day < 25 else -1)
+    if due in targets and (due not in baux or due not in alum):
+        _, grows = _read(GUINEA_CSV)
+        have = any(r.get("granularity") == "monthly_bilateral_mirror" and r["date"][:7] == f"{due[0]}-{due[1]:02d}"
+                   for r in grows)
+        if not have:
+            logger.error("Guinea bauxite %d-%02d is due and was not found", *due)
+            return 1
+    return 0
 
 
 if __name__ == "__main__":
-    target = sys.argv[1] if len(sys.argv) > 1 else None
-    run_pipeline(target)
+    n = int(sys.argv[sys.argv.index("--months") + 1]) if "--months" in sys.argv else 4
+    sys.exit(run(n))

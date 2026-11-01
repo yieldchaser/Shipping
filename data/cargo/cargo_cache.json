@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-01T15:35:58Z",
+    "generated_at": "2026-11-01T17:22:01Z",
     "as_of": "2026-11-01",
     "version": "2.0.0",
     "tab": "Cargo & Trade Flows"
@@ -8,7 +8,7 @@
   "provenance_registry": {
     "registry_metadata": {
       "version": "2.0.0",
-      "generated_at": "2026-11-01T15:35:58Z",
+      "generated_at": "2026-11-01T17:22:01Z",
       "as_of": "2026-11-01",
       "total_datasets": 18,
       "architecture": "Centralized Dynamic Live Ingest Registry"
@@ -128,9 +128,9 @@
         "source_url": "https://www.guineamininginsights.com/data-hub",
         "span": "2017\u20132026",
         "min_date": "2017-01",
-        "max_date": "2026-07",
-        "as_of": "2026-07",
-        "row_count": 155,
+        "max_date": "2026-09",
+        "as_of": "2026-09",
+        "row_count": 157,
         "status": "LIVE_MIRROR",
         "mirror_notice": "Bilateral trade flow: China-reported imports (GACC / UN Comtrade & SMM HS 260600 mirror) cross-referenced with Republic of Guinea Ministry of Mines direct releases.",
         "direct_source_status": "PARTIAL",
@@ -214,7 +214,7 @@
         "min_date": "2013-01-01",
         "max_date": "2026-09-01",
         "as_of": "2026-09",
-        "row_count": 668,
+        "row_count": 669,
         "status": "LIVE",
         "unit": "Million Tonnes (Mt/mo)"
       },
@@ -86407,7 +86407,9 @@
         "2026-04",
         "2026-05",
         "2026-06",
-        "2026-07"
+        "2026-07",
+        "2026-08",
+        "2026-09"
       ],
       "volume_label": "China Import of Guinea Bauxite (Mt/mo)",
       "volume_unit": "Mt",
@@ -86526,11 +86528,15 @@
         16.37,
         19.56,
         15.84,
-        14.88
+        14.88,
+        11.55,
+        13.83
       ],
       "freight_label": null,
       "freight_unit": null,
       "freight_data": [
+        null,
+        null,
         null,
         null,
         null,
@@ -86654,9 +86660,9 @@
         "status": "LIVE_MIRROR",
         "mirror_notice": "Mirror trade flow. Bilateral GACC China import mirror cross-referenced with Guinea Ministry of Mines direct releases.",
         "span": "2017\u20132026",
-        "as_of": "2026-07",
+        "as_of": "2026-09",
         "min_month": "2017-01",
-        "max_month": "2026-07"
+        "max_month": "2026-09"
       }
     }
   },
@@ -106639,9 +106645,9 @@
       "source_url": "https://www.guineamininginsights.com/data-hub",
       "span": "2017\u20132026",
       "min_date": "2017-01",
-      "max_date": "2026-07",
-      "as_of": "2026-07",
-      "row_count": 155,
+      "max_date": "2026-09",
+      "as_of": "2026-09",
+      "row_count": 157,
       "status": "LIVE_MIRROR",
       "mirror_notice": "Bilateral trade flow: China-reported imports (GACC / UN Comtrade & SMM HS 260600 mirror) cross-referenced with Republic of Guinea Ministry of Mines direct releases.",
       "direct_source_status": "PARTIAL",
@@ -106764,7 +106770,9 @@
       "2026-04": 16.37,
       "2026-05": 19.56,
       "2026-06": 15.84,
-      "2026-07": 14.88
+      "2026-07": 14.88,
+      "2026-08": 11.55,
+      "2026-09": 13.83
     },
     "avg_cif_usd_t": {
       "2017-01": 50.46,
@@ -128072,7 +128080,7 @@
       "min_date": "2013-01-01",
       "max_date": "2026-09-01",
       "as_of": "2026-09",
-      "row_count": 668,
+      "row_count": 669,
       "status": "LIVE",
       "unit": "Million Tonnes (Mt/mo)"
     },
@@ -128080,7 +128088,7 @@
       "Alumina": {
         "vessel_class": "Handymax / Supramax",
         "trade_flow": "China Imports",
-        "source": "China GACC via chinadata.live (HS 28182000)",
+        "source": "China GACC (HS 28182000) as published by SMM: On a monthly basis, in September China imported 69,800 tons of alumina and exported 237,800 tons, resulting in net exports of 168,000 tons, a further expansion of 122.6% compared with net exports of 75,500 tons in August",
         "envelope": {
           "months": [
             "Jan",
@@ -128209,8 +128217,8 @@
               0.44,
               0.45,
               0.37,
-              null,
-              null,
+              0.35,
+              0.07,
               null,
               null,
               null
@@ -128273,9 +128281,11 @@
           "2026-04": 0.6111,
           "2026-05": 0.4384,
           "2026-06": 0.4495,
-          "2026-07": 0.3666
+          "2026-07": 0.3666,
+          "2026-08": 0.3495,
+          "2026-09": 0.0698
         },
-        "latest_mt": 0.3666
+        "latest_mt": 0.0698
       },
       "Cement / Clinker": {
         "vessel_class": "Handysize",

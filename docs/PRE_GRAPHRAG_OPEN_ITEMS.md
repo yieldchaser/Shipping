@@ -172,11 +172,24 @@ Build plan (layers, schema, DeepSeek runner, budget, phases and gates): `docs/GR
       natural gas, fertilizers and steel products are a different scope and live only in the bulletin CSV and its
       dashboard panel. UN Comtrade China monthly lags over a year; stats.customs.gov.cn answers scripts with a JS
       challenge (not bypassed).
-- [ ] Open from the same retirement: HS 2606 bauxite (Guinea mirror) and HS 2818 alumina, and per-month partner
-      shares, are not in the bulletin. They stay at 2026-08 (mirror 2026-07) until a GACC query export is supplied
-      (as on 2026-09-17) or another published source exists. `fetch_gacc_bauxite_alumina.py` no longer aborts on the
-      dead API and no longer writes value-share estimates (its 0.982-calibrated "derived" tonnes were an estimate);
-      its SMM parser read "nearly 10 million mt" as the Sep 2026 import and split decimals as sentence ends: fixed.
+- [x] HS 2606 bauxite (Guinea mirror) and HS 2818 alumina are back on an automated source: SMM (news.metal.com)
+      prints the GACC figures the day they are released ("domestic imports of Guinean bauxite were 11.551 million
+      tonnes"), found through SMM's own monthly sitemaps (robots.txt allows them). Checked against the 2026-09-17
+      GACC query export: 2026-06/07 Guinea and 2026-07 alumina equal at SMM's precision; 2026-04/05 SMM Guinea is an
+      early print 0.2-0.3% off the later export (export rows are never overwritten). Filled 2026-08/09 (Guinea
+      11.551 / 13.8298 Mt; alumina 349,500 / 69,800 t). Guards: customs-quoting articles only, single-month import
+      sentences, Guinea kept only beside the China total of the same article (a weekly review's 4.99 Mt "shipments"
+      was caught this way). Playwright channel and value-share estimate removed.
+- [ ] Per-country partner shares (USD) for iron ore, coal, crude, LNG, soybeans and fertilizers stop at 2026-08: the
+      GACC bulletin has no country split, chinadata.live's trade API is retired and its pages sit behind a
+      challenge, stats.customs.gov.cn answers with a JS challenge, UN Comtrade China monthly stops at 2024-12. The
+      dashboard labels the partner month. A tonnage split by country exists in news for some lines (SMM bauxite,
+      alumina, chrome, manganese) but is a different metric from the USD shares and is not mixed into them.
+- [x] PortWatch hub file stopped at 2026-09-11 while the step reported success, and the weekly run hit its 15-minute
+      limit: the script re-downloaded full history in date order, the FeatureServer errors on the third page, and
+      the error JSON was read as "0 records". The hub slice is now cut from port_calls_daily.csv (kept current by
+      expansion_portwatch.py, all 2,065 ports): 43 ports to 2026-10-23, tonnage columns that were blank since 2019
+      filled, runs in 5 s, exits 1 if the source is >14 days old; freshness guard entry 6b.
 - [ ] Capital Link indices (CLCI, CLDBI, CLLG, CLMFI, CLMI, CLMLP, CLTI) stop at 2026-10-08: capitallinkshipping.com
       closes the connection on Python clients since then (a browser/curl still gets the page), so this is client
       filtering and is not bypassed. The daily step was `continue-on-error` and printed "ZERO errors": it now exits 1

@@ -185,22 +185,37 @@ def evaluate_freshness(today: date | None = None) -> list[dict]:
         "detail": f"Latest: {latest_val} | Expected: {exp_month}"
     })
 
-    # 6. Guinea Bauxite Mirror (chinadata / GACC) (M-1 after ~25th of M+1)
-    # --------------------------------------------------------------------
+    # 6. Guinea Bauxite Mirror (GACC, as published by SMM) (M-1 after ~25th of M+1)
+    # ------------------------------------------------------------------------------
     exp_month = get_prev_month(today, 1) if today.day >= 26 else get_prev_month(today, 2)
-    latest_val = get_latest_csv_date(COMMODITIES_DIR / "china_customs_guinea_bauxite_partner_usd.csv", date_col="period")
-    if not latest_val:
-        latest_val = get_latest_csv_date(COMMODITIES_DIR / "guinea_bauxite_exports.csv")[:7]
+    gb = pd.read_csv(COMMODITIES_DIR / "guinea_bauxite_exports.csv")
+    gb = gb[gb["granularity"] == "monthly_bilateral_mirror"]
+    latest_val = str(gb["date"].max())[:7] if len(gb) else ""
     is_fresh = latest_val >= exp_month if latest_val else False
     results.append({
-        "name": "Guinea Bauxite Mirror (GACC / chinadata)",
-        "file": "china_customs_guinea_bauxite_partner_usd.csv",
+        "name": "Guinea Bauxite Mirror (GACC via SMM)",
+        "file": "guinea_bauxite_exports.csv",
         "category": "Monthly",
         "rule": "M-1 after ~25th of month",
         "latest_stored": latest_val,
         "expected": exp_month,
         "is_fresh": is_fresh,
         "detail": f"Latest: {latest_val} | Expected: {exp_month}"
+    })
+
+    # 6b. IMF PortWatch hub ports (weekly release, a few days' lag): <= 14 days
+    # -------------------------------------------------------------------------
+    latest_val = get_latest_csv_date(ROOT / "data" / "congestion" / "portwatch_port_congestion.csv")
+    days_lag = (today - date.fromisoformat(latest_val)).days if latest_val else None
+    results.append({
+        "name": "IMF PortWatch Hub Ports",
+        "file": "portwatch_port_congestion.csv",
+        "category": "Weekly",
+        "rule": "<= 14 days lag",
+        "latest_stored": latest_val,
+        "expected": f"<= 14 days lag (current lag: {days_lag}d)",
+        "is_fresh": days_lag is not None and days_lag <= 14,
+        "detail": f"Latest: {latest_val} ({days_lag} days ago)"
     })
 
     # 7. Minor Bulks (TurkStat Cement/Scrap, TradeStat Urea, PSA Nickel, Sugar, NPK)

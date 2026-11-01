@@ -166,7 +166,7 @@ def generate_report():
     lines.append("| `fetch_australia_ppa.py` | Iron Ore (Port Hedland & Dampier) | Clamped (10 Mt -> 70 Mt/mo) | Playwright live -> Wayback CDX | Pilbara Ports Authority |")
     lines.append("| `fetch_newcastle_coal.py` | Newcastle Coal (Exports) | Clamped (5 Mt -> 25 Mt/mo) | Transport for NSW CKAN API -> XLSX | TfNSW Open Data |")
     lines.append("| `fetch_bps_exim.py` | Indonesia Coal | Clamped (10 Mt -> 60 Mt/mo) | BPS Live API -> Historical cache | Badan Pusat Statistik (BPS) |")
-    lines.append("| `fetch_gacc_bauxite_alumina.py` | Guinea Bauxite & Alumina | Clamped (3-40 Mt Bauxite; 10kt-3Mt Alumina) | GACC Primary Table 14 -> chinadata.live -> SMM RSS (News) | China Customs (GACC) / chinadata.live |")
+    lines.append("| `fetch_gacc_bauxite_alumina.py` | Guinea Bauxite & Alumina | Clamped (3-40 Mt Bauxite; 10kt-3Mt Alumina); Guinea kept only beside the China total | GACC figures as printed by SMM (news.metal.com monthly sitemaps) | China Customs (GACC) via SMM |")
     lines.append("| `fetch_india_tradestat.py` | Urea / Fertiliser (India) | Clamped (0.01 Mt -> 5 Mt/mo; rejects <=0) | DGCI&S Live Portal -> Monthly queries | India Dept of Commerce TradeStat |")
     lines.append("| `fetch_psa_nickel.py` | Nickel Ore (Philippines) | Clamped (0.1 Mt -> 10 Mt/mo) | OpenSTAT PXWeb API (2022-2026 px) | Philippine Statistics Authority |")
     lines.append("| `fetch_turkstat_bulk.py` | Cement / Clinker & Scrap Steel | Clamped (0.1 Mt -> 5 Mt/mo) | Playwright Qlik -> SteelOrbis RSS fallback | TurkStat (TUIK) / SteelOrbis |")
