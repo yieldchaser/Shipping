@@ -1,0 +1,133 @@
+{
+  "report_id": "116a644a-73ea-4c4f-acea-193900281e3d",
+  "issue_date": "2026-10-30",
+  "year": 2026,
+  "department": "TANK",
+  "report_title": "Fearnleys Tanker Market Wrap-up Oct 2026",
+  "source_markdown": "2026-10-30_fearnleys-tanker-market-wrap-up-oct-2026.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 24,
+  "charts": [
+    {
+      "section": "Summary and outlook",
+      "title": "Monthly average rates - keep adjusting that Y-axis",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/rates.png"
+    },
+    {
+      "section": "Volumes above pre-war - demand at all-time-high",
+      "title": "Global crude oil loadings vs. Dec'25 baseline",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/volc.png"
+    },
+    {
+      "section": "Volumes above pre-war - demand at all-time-high",
+      "title": "Global products loadings vs. Dec'25 baseline",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/volp.png"
+    },
+    {
+      "section": "Volumes above pre-war - demand at all-time-high",
+      "title": "Total tanker tonne-days +2% YTD",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/TDT.png"
+    },
+    {
+      "section": "Volumes above pre-war - demand at all-time-high",
+      "title": "Crude tanker tonne-days +6% YTD",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/TDC.png"
+    },
+    {
+      "section": "Volumes above pre-war - demand at all-time-high",
+      "title": "Product tanker tonne-days -3% YTD",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/TDP.png"
+    },
+    {
+      "section": "Volumes above pre-war - demand at all-time-high",
+      "title": "VLCC tonne-days -2% YTD",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/TDV.png"
+    },
+    {
+      "section": "Volumes above pre-war - demand at all-time-high",
+      "title": "Suezmax tonne-days +6% YTD",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/TDS.png"
+    },
+    {
+      "section": "Volumes above pre-war - demand at all-time-high",
+      "title": "Afra/LR2 tonne-days +5% YTD",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/TDA.png"
+    },
+    {
+      "section": "Volumes above pre-war - demand at all-time-high",
+      "title": "MR tonne-days +5% YTD",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/TDM.png"
+    },
+    {
+      "section": "When freight dominates the oil price",
+      "title": "Brent Dated vs. Futures",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/dated.png"
+    },
+    {
+      "section": "When freight dominates the oil price",
+      "title": "WTI vs. Brent and Murban",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/arb.png"
+    },
+    {
+      "section": "When freight dominates the oil price",
+      "title": "NWE gasoil crack spread vs. Atlantic MR rates",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/crackmr.png"
+    },
+    {
+      "section": "When freight dominates the oil price",
+      "title": "Global refinery runs",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/refrun.png"
+    },
+    {
+      "section": "When freight dominates the oil price",
+      "title": "U.S. Gulf Coast crack spreads",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/cracksus.png"
+    },
+    {
+      "section": "When freight dominates the oil price",
+      "title": "Northwest Europe crack spreads",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/cracks.png"
+    },
+    {
+      "section": "When freight dominates the oil price",
+      "title": "China Bohai Bay crack spreads",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/cracksch.png"
+    },
+    {
+      "section": "More oil to come",
+      "title": "Americas quarterly production change",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/americas.png"
+    },
+    {
+      "section": "More oil to come",
+      "title": "UAE expected to ramp up more",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/UAE.png"
+    },
+    {
+      "section": "More oil to come",
+      "title": "OPEC production targets vs. actual production",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/opec.png"
+    },
+    {
+      "section": "Fleet growth continues, but somewhat offset by Hormuz attacks",
+      "title": "Net fleet growth",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/fleet growth.png"
+    },
+    {
+      "section": "Fleet growth continues, but somewhat offset by Hormuz attacks",
+      "title": "Annual tanker deliveries",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/fleet.png"
+    },
+    {
+      "section": "Fleet growth continues, but somewhat offset by Hormuz attacks",
+      "title": "Tanker attacks in the Hormuz strait",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/hits.png"
+    },
+    {
+      "section": "Fleet growth continues, but somewhat offset by Hormuz attacks",
+      "title": "VLCC fleet composition",
+      "image": "116a644a-73ea-4c4f-acea-193900281e3d/share.png"
+    }
+  ]
+}
