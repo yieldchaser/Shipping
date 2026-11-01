@@ -35,11 +35,11 @@ In September we borrowed aLed Zeppelin title to describe China's crude stockpile
 China's customs crudeimports were 9.03 mbpd in September, broadly flat on August, while refineryruns climbed to 13.99 mbpd, the highest since March. Hence China drew on itsstocks for the fourth time in five months, a net 0.60 mbpd after crude exports (Figure1). Of the 121.5 million barrels built by April, only 31 million remain. At theMay to September pace of 0.59 mbpd, that would be gone by late November.Arrivals picked up in October, but those cargoes were bought in the summer, andwith Brent around US$ 100 since early September, the refill is likely to slow.
 
 
-![China Crude Available (Customs Imports + Domestic Output) Against Refinery Runs, Mbpd, and Cumulative Stock Change Since 1 January, Net of Crude Exports, Mbbl](../../images/6ae3120711b7a64b9634be1e_9f79098b.png)
+![China Crude Available (Customs Imports + Domestic Output) Against Refinery Runs, Mbpd, and Cumulative Stock Change Since 1 January, Net of Crude Exports, Mbbl](../../../../../../corpus/07-signal/images/6ae3120711b7a64b9634be1e_9f79098b.png)
 
 > **Figure 1: China Crude Available (Customs Imports + Domestic Output) Against Refinery Runs, Mbpd, and Cumulative Stock Change Since 1 January, Net of Crude Exports, Mbbl**  
 > *Figure 1: China crude available (customs imports + domestic output) against refinery runs, mbpd, and cumulative stock change since 1 January, net of crude exports, Mbbl. Implied stock change = imports + domestic output - refinery runs. Source: GACC, NBS.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ramble-on-who-pays-the-freight) | [Local Asset](../../images/6ae3120711b7a64b9634be1e_9f79098b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ramble-on-who-pays-the-freight) | [Local Asset](../../../../../../corpus/07-signal/images/6ae3120711b7a64b9634be1e_9f79098b.png)
 
 
 ## From the Red Sea to the Relay: Two Bypasses in Six Months
@@ -56,11 +56,11 @@ The attack on the East-West pipeline in August threw a spanner in the works. The
 Meanwhile, the cheapest barrels have gone. After the US blockade in April, Iranian crude largely stopped leaving the Gulf, and the Iranian barrels floating off Malaysia and Singapore are close to exhausted by our count (Figure 2). China's choice narrows to its stockpile or Gulf crude.
 
 
-![Iranian Crude on Tankers Idle for More Than 30 Days in Asia-Pacific Waters, Million Barrels; Tankers Whose Draft Shows Them Empty Are Excluded](../../images/6ae3153b2bd44e5831d57ae6_95603e71.png)
+![Iranian Crude on Tankers Idle for More Than 30 Days in Asia-Pacific Waters, Million Barrels; Tankers Whose Draft Shows Them Empty Are Excluded](../../../../../../corpus/07-signal/images/6ae3153b2bd44e5831d57ae6_95603e71.png)
 
 > **Figure 2: Iranian Crude on Tankers Idle for More Than 30 Days in Asia-Pacific Waters, Million Barrels; Tankers Whose Draft Shows Them Empty Are Excluded**  
 > *Figure 2: Iranian crude on tankers idle for more than 30 days in Asia-Pacific waters, million barrels; tankers whose draft shows them empty are excluded. Source: Signal Ocean (vessel tracking).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ramble-on-who-pays-the-freight) | [Local Asset](../../images/6ae3153b2bd44e5831d57ae6_95603e71.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ramble-on-who-pays-the-freight) | [Local Asset](../../../../../../corpus/07-signal/images/6ae3153b2bd44e5831d57ae6_95603e71.png)
 
 
 ## Why Has Freight Not Decided Where Asia Buys?
@@ -70,11 +70,11 @@ VLCC earnings on the MEG/China route (TD3C) moved from parity with West Africa/C
 However, earnings overstate what the buyer pays. At the Baltic's standard speeds of 13 knots laden and 12 knots in ballast, a VLCC needs about 46 days for the round voyage from Ras Tanura to Ningbo, against about 76 days from West Africa, so the lower daily rate on TD15 is billed for longer. Take a VLCC carrying about 2 million barrels to Ningbo in September. Loaded at Ras Tanura, inside the Strait, the cargo paid about US$ 52 million in freight, or US$ 26/bbl. Loaded in West Africa it paid about US$ 35 million, or US$ 17.5/bbl, even though TD3C earned 2.5 times as much per day as TD15. Loaded at Mina al Fahal in Oman, outside the Strait, it paid about US$ 30 million, or US$ 15/bbl, the cheapest of the three. By October the order was the same and the gaps wider: about US$ 34/bbl from Ras Tanura, US$ 28 from West Africa and US$ 19 from Mina al Fahal.
 
 
-![TD3C and TD15 VLCC Earnings, Us$/day TCE, Monthly Average (October 1 to 26), and TD3C as a Multiple of TD15](../../images/6ae3156102de6ef484c796fe_587ac579.png)
+![TD3C and TD15 VLCC Earnings, Us$/day TCE, Monthly Average (October 1 to 26), and TD3C as a Multiple of TD15](../../../../../../corpus/07-signal/images/6ae3156102de6ef484c796fe_587ac579.png)
 
 > **Figure 3: TD3C and TD15 VLCC Earnings, Us$/day TCE, Monthly Average (October 1 to 26), and TD3C as a Multiple of TD15**  
 > *Figure 3: TD3C and TD15 VLCC earnings, US$/day TCE, monthly average (October 1 to 26), and TD3C as a multiple of TD15. Source: Signal Ocean.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ramble-on-who-pays-the-freight) | [Local Asset](../../images/6ae3156102de6ef484c796fe_587ac579.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ramble-on-who-pays-the-freight) | [Local Asset](../../../../../../corpus/07-signal/images/6ae3156102de6ef484c796fe_587ac579.png)
 
 Furthermore, as the relay off Fujairah, priced on TD34, took over after the pipeline attack, China's imports recovered with it. The TD3C premium, in turn, priced the difficulty of leaving the Gulf. Whenever a route out of the Gulf opened, Asia bought. Our numbers show who paid that premium: cargoes loaded inside the Strait, on TD3C, and buyers avoided those wherever they could. A VLCC loading in the Gulf of Oman, meanwhile, cost less to send to China than one loading in West Africa. Crude prices set how much it bought: Brent rose from US$ 72.48 before the war to an intraday high of about US$ 126 on 30 April, and Chinese buying only recovered once it fell below US$ 80 in the summer. Gulf producers' discounts, and the fit of Gulf medium sour grades with Asia's complex refineries, explain why buyers returned so quickly.
 

@@ -36,7 +36,7 @@ Chinese front-loading is expected to have run its course, pointing to softer bau
 - Bauxite arriving in India declined by 37.0% y/y in September, the largest y/y decrease of any month in 2026 so far.
 
 
-![Source: Tonne-Miles and Tonne-Days of Bauxite Carrying Vessels From Signal Ocean Https://app.signalocean.com/dry/dynamic/timeseriesdry](../../images/6ad619555aaab1391e7e7674_9f3acce2.png)
+![Source: Tonne-Miles and Tonne-Days of Bauxite Carrying Vessels From Signal Ocean Https://app.signalocean.com/dry/dynamic/timeseriesdry](../../../../../../corpus/07-signal/images/6ad619555aaab1391e7e7674_9f3acce2.png)
 
 > **Figure 1: Source: Tonne-Miles and Tonne-Days of Bauxite Carrying Vessels From Signal Ocean Https://app.signalocean.com/dry/dynamic/timeseriesdry**  
 > *Source: Tonne-miles and Tonne-days of bauxite carrying vessels from Signal Ocean https://app.signalocean.com/dry/dynamic/timeseries_dry*  
@@ -49,7 +49,7 @@ China received a surge of seaborne bauxite inflows during September, reaching 19
 India has been a key landing spot for seaborne bauxite that could not reach the Arabian Gulf, with Q1 and Q2 arrivals well ahead of the previous year. 2026 Q3 finished with a decrease y/y of 13.8%. This was driven by several factors, such as adequate stocks not requiring additional material and monsoons affecting domestic logistics operations.
 
 
-![Source: Seaborne Bauxite Flows From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows](../../images/6ad63161427de9b2eb8d9977_7d25cfb5.png)
+![Source: Seaborne Bauxite Flows From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows](../../../../../../corpus/07-signal/images/6ad63161427de9b2eb8d9977_7d25cfb5.png)
 
 > **Figure 2: Source: Seaborne Bauxite Flows From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Seaborne bauxite flows from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
@@ -60,7 +60,7 @@ The outlook for global bauxite flows is softer in Q4 2026, with Guinea’s expor
 Demand growth elsewhere is unlikely to offset this reduction. India remains well supplied, limiting the need for stronger year-on-year imports, while persistent regional tensions and disruption are expected to constrain demand recovery in the Arabian Gulf. Chinese demand should remain comparatively resilient, but significant upside appears limited: bauxite arrivals were flat year-on-year in Q3, suggesting little underlying growth in import requirements. With Guinea accounting for the majority of China’s imported bauxite, lower Guinean loadings are likely to translate into weaker Chinese arrivals, although existing inventories and cargoes already in transit may cushion the initial impact. Overall, the balance of risks points to softer global bauxite flows in Q4.
 
 
-![Source: Monthly Exports of Bauxite From Guinea in 2026 From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows](../../images/6ad63199a3a181a6f3c7c894_cd5e39c8.png)
+![Source: Monthly Exports of Bauxite From Guinea in 2026 From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows](../../../../../../corpus/07-signal/images/6ad63199a3a181a6f3c7c894_cd5e39c8.png)
 
 > **Figure 3: Source: Monthly Exports of Bauxite From Guinea in 2026 From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Monthly exports of bauxite from Guinea in 2026 from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  

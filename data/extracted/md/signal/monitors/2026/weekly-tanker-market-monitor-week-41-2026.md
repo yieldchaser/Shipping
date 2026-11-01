@@ -31,7 +31,7 @@ tags:
 This week’s Tanker Market Monitor examines divergence in VLCC sailing speeds, regional vessel supply, and freight earnings. In the Arabian Gulf, ballast vessels are accelerating while laden ships are slowing, with no clear improvement in overall voyage turnaround. Meanwhile, the western VLCC ballast surplus has narrowed, in contrast to rising ballast numbers East of Suez. Despite this increase in eastern vessel supply, Gulf VLCC earnings remain exceptionally high, and dirty-tanker freight continues to outperform the clean market by a substantial margin. The findings highlight why faster repositioning and higher ballast counts have yet to translate into meaningful freight relief.
 
 
-![Dashboard View](../../images/6ad214c0b6e71e957bb6e7a5_61464ba3.png)
+![Dashboard View](../../../../../../corpus/07-signal/images/6ad214c0b6e71e957bb6e7a5_61464ba3.png)
 
 > **Figure 1: Dashboard View**  
 > *Dashboard view. Signal Ocean Platform, VLCC ballast and laden speeds in the Arabian Gulf; trend panels use a seven-day moving average.Snapshot of 15 October 2026 with dashboard week-over-week changes; not calendar Week 40–41 averages.*  
@@ -47,7 +47,7 @@ Arabian Gulf VLCC ballast speed reached **12.00 knots, up 2.5%** from the previo
 The **Baltic Dirty Tanker Index (BDTI) rose 32% to a Week 41 average of 7,625 points**, significantly outpacing the **2% increase in the Baltic Clean Tanker Index (BCTI) to 2,388 points**. VLCC freight on the Arabian Gulf–China route (TD3C) also strengthened, averaging **WS1,288, up 12%** from the previous week. By 14 October, the BDTI stood at **7,922 points**, easing from its **13 October peak of 7,999**, the highest reading in the supplied 12-month series and almost seven times its level a year earlier. The modest pullback leaves crude tanker freight at historically elevated levels, with little indication of a meaningful reversal in the recent upward trend.
 
 
-![Baltic Dirty Tanker Index and VLCC Ag–china (TD3C), Daily, 15 October 2025–14 October 2026](../../images/6ad214c0b6e71e957bb6e79f_5e2b3977.png)
+![Baltic Dirty Tanker Index and VLCC Ag–china (TD3C), Daily, 15 October 2025–14 October 2026](../../../../../../corpus/07-signal/images/6ad214c0b6e71e957bb6e79f_5e2b3977.png)
 
 > **Chart 1: Baltic Dirty Tanker Index and VLCC Ag–china (TD3C), Daily, 15 October 2025–14 October 2026**  
 > *Chart 1. Baltic Dirty Tanker Index and VLCC AG–China (TD3C), daily, 15 October 2025–14 October 2026. Shading marks Weeks 40–41.Source: Baltic Exchange assessments via Signal Ocean, data through 14 October 2026.*  
@@ -71,7 +71,7 @@ The **Baltic Dirty Tanker Index (BDTI) rose 32% to a Week 41 average of 7,625 po
 **All four assessed Suezmax routes recorded weekly gains.** **Black Sea–Mediterranean (TD6) rose 11.7% to $903,854/day**, now above MEG–Mediterranean (TD23) at $765,675/day (+1.3%). West Africa–UK Continent (TD20) added 3.1% and Guyana–ARA (TD27) 1.8%.
 
 
-![Crude Tanker Spot TCE by Route and Vessel Class, East vs West of Suez, Current vs Previous Week ($/day).baltic Exchange TCE Assessments Via Signal Ocean, Snapshot Dated 15 October; Changes Against the Dashboard’s Prior-Week Reference.](../../images/6ad214c0b6e71e957bb6e7a2_cd218aaf.png)
+![Crude Tanker Spot TCE by Route and Vessel Class, East vs West of Suez, Current vs Previous Week ($/day).baltic Exchange TCE Assessments Via Signal Ocean, Snapshot Dated 15 October; Changes Against the Dashboard’s Prior-Week Reference.](../../../../../../corpus/07-signal/images/6ad214c0b6e71e957bb6e7a2_cd218aaf.png)
 
 > **Chart 2: Crude Tanker Spot TCE by Route and Vessel Class, East vs West of Suez, Current vs Previous Week ($/day).baltic Exchange TCE Assessments Via Signal Ocean, Snapshot Dated 15 October; Changes Against the Dashboard’s Prior-Week Reference.**  
 > *Chart 2. Crude tanker spot TCE by route and vessel class, East vs West of Suez, current vs previous week ($/day).Baltic Exchange TCE assessments via Signal Ocean, snapshot dated 15 October; changes against the dashboard’s prior-week reference.*  
@@ -113,7 +113,7 @@ East of Suez, **SE Asia–East Coast Australia (TD14) rose 19.2% to $271,465/day
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ad2147690ed3299eee29d1b_Screenshot 2026-10-16 at 13.09.32.png)
 
 
-![VLCCs at Sea, Ballast vs Laden, East and West of Suez, 1 June–14 October 2026](../../images/6ad214c0b6e71e957bb6e7a9_4cbefb52.png)
+![VLCCs at Sea, Ballast vs Laden, East and West of Suez, 1 June–14 October 2026](../../../../../../corpus/07-signal/images/6ad214c0b6e71e957bb6e7a9_4cbefb52.png)
 
 > **Chart 3: VLCCs at Sea, Ballast vs Laden, East and West of Suez, 1 June–14 October 2026**  
 > *Chart 3. VLCCs at sea, ballast vs laden, East and West of Suez, 1 June–14 October 2026. Shading marks Weeks 40–41.Source: Signal; exported smoothed daily at-sea measures, VLCC 200,000 dwt and above.*  
@@ -122,7 +122,7 @@ East of Suez, **SE Asia–East Coast Australia (TD14) rose 19.2% to $271,465/day
 Average VLCC counts declined across western regions in Week 41, led by Europe (**−26.3%, from 41 to 30**), the Atlantic Ocean (**−12.8%, from 45 to 39**) and the Americas (**−9.8%, from 68 to 62**). In contrast, counts increased in the Middle East Gulf (**+3.8%, from 189 to 196**) and Indian Ocean (**+6.9%, from 70 to 75**). The shift points to a greater concentration of VLCCs in eastern waters, although total vessel counts do not necessarily reflect prompt availability for charter.
 
 
-![Average VLCC Count by Area, Week 41 vs Week 40, All Statuses (Areas with Ten or More Vessels).source: Signal; Fleet Distribution by Zone, VLCC 200,000 DWT and Above.](../../images/6ad214c0b6e71e957bb6e7ac_20754b43.png)
+![Average VLCC Count by Area, Week 41 vs Week 40, All Statuses (Areas with Ten or More Vessels).source: Signal; Fleet Distribution by Zone, VLCC 200,000 DWT and Above.](../../../../../../corpus/07-signal/images/6ad214c0b6e71e957bb6e7ac_20754b43.png)
 
 > **Chart 4: Average VLCC Count by Area, Week 41 vs Week 40, All Statuses (Areas with Ten or More Vessels).source: Signal; Fleet Distribution by Zone, VLCC 200,000 DWT and Above.**  
 > *Chart 4. Average VLCC count by area, Week 41 vs Week 40, all statuses (areas with ten or more vessels).Source: Signal; fleet distribution by zone, VLCC 200,000 dwt and above.*  
@@ -134,7 +134,7 @@ Average VLCC counts declined across western regions in Week 41, led by Europe (*
 China’s VLCC waiting count averaged **12 vessels in Week 41, up 14%** from the previous week, while vessels at port remained close to seven. The combined average increased **7% to 19 vessels**, with the rise concentrated in the waiting queue. Congestion remained below the same week of 2025, when an average of 14 VLCCs were waiting, and 9 were at port. By 14 October, the daily count had eased to 9 waiting vessels, while 8 were at port, pointing to some moderation in the waiting queue.
 
 
-![VLCCs Waiting Off and at Port in China, Monday–sunday Averages, 2026 vs Same Week of 2025](../../images/6ad214c0b6e71e957bb6e7af_10605e37.png)
+![VLCCs Waiting Off and at Port in China, Monday–sunday Averages, 2026 vs Same Week of 2025](../../../../../../corpus/07-signal/images/6ad214c0b6e71e957bb6e7af_10605e37.png)
 
 > **Chart 5: VLCCs Waiting Off and at Port in China, Monday–sunday Averages, 2026 vs Same Week of 2025**  
 > *Chart 5. VLCCs waiting off and at port in China, Monday–Sunday averages, 2026 vs same week of 2025. Shading marks Weeks 40–41.Source: Signal; congestion data through 11 October 2026.*  

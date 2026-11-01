@@ -39,7 +39,7 @@ tags:
 **Recorded Black Sea steel loadings declined sharply in Q3 2026.** Volumes, including scrap, fell 65.6% y/y to **0.65 Mt** across 51 voyages, compared with 129 in Q3 2025. The year-on-year decline deepened through the quarter: July −28.0%, August −80.6%, and September −96.0%. September’s recorded volume totalled 20,690 t, comprising loadings from Turkey (12,750 t), Romania (4,970 t), and Ukraine (2,970 t). January–September volume reached **4.65 Mt**, down 31.0% y/y, across 314 voyages, down 34.3%.
 
 
-![Black Sea Steel Cargoes Including Scrap, by Load Month, January–september 2025 vs 2026; 2026 Split by Origin](../../images/6acf83c15da195f3a193f0c7_3eb58b12.png)
+![Black Sea Steel Cargoes Including Scrap, by Load Month, January–september 2025 vs 2026; 2026 Split by Origin](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0c7_3eb58b12.png)
 
 > **Figure 1: Black Sea Steel Cargoes Including Scrap, by Load Month, January–september 2025 vs 2026; 2026 Split by Origin**  
 > *Figure 1: Black Sea steel cargoes including scrap, by load month, January–September 2025 vs 2026; 2026 split by origin. Data to 30 September 2026; the latest recorded loading is 22 September, and recent voyages may still be added. Scope in Data & Definitions (Source: Signal).*  
@@ -50,14 +50,14 @@ tags:
 **Voyage risk and reported insurance costs are rising.** Four merchant vessels were reported sunk or damaged in the Black Sea on 5–6 October. Two further cargo vessels were struck off Bulgaria on 13 October: HS Dignity sank and Chelsea 3 sustained damage. Responsibility for some incidents remains disputed. Hull war-risk quotations reported by BPG Shipping through Ukrainian Shipping Magazine on 9 October were 0.6–1.0% of vessel value before discount, compared with 0.2–0.5% a week earlier, equivalent to 0.3–0.5% where a 50% no-claims discount applies. A subsequent broker report on 13 October indicated increased enquiries for war-risk cover for Ukrainian Black Sea ports and Danube-bound voyages, without providing an updated premium range.
 
 
-![Share of Recorded Steel Tonnes by Vessel Class, Jan–sep 2026](../../images/6acf83c15da195f3a193f0c4_e0aade9b.png)
+![Share of Recorded Steel Tonnes by Vessel Class, Jan–sep 2026](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0c4_e0aade9b.png)
 
 > **Figure 2: Share of Recorded Steel Tonnes by Vessel Class, Jan–sep 2026**  
 > *Figure 2: Share of recorded steel tonnes by vessel class, Jan–Sep 2026. Ukraine 0.489 Mt / 71 voyages; Russia 3.358 Mt / 139 voyages (Source: Signal).*  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0c4_e0aade9b.png)
 
 
-![Handysize Ballasters by Region, Week Ending 9 Oct 2026](../../images/6acf83c15da195f3a193f0cd_def8bac1.png)
+![Handysize Ballasters by Region, Week Ending 9 Oct 2026](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0cd_def8bac1.png)
 
 > **Figure 3: Handysize Ballasters by Region, Week Ending 9 Oct 2026**  
 > *Figure 3: Handysize ballasters by region, week ending 9 Oct 2026. Dashboard WoW tiles use a different basis from Table 2 (Source: Signal).*  
@@ -88,7 +88,7 @@ tags:
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6acf82ce2864b7b4b7f40201_Screenshot 2026-10-14 at 14.23.48.png)
 
 
-![Baltic Dry Index — Spot Rate Summary, Friday Close 9 Oct 2026; 52-Week High 3,628, Low 1,532, Average 2,519](../../images/6acf83c15da195f3a193f0ca_2ec5a053.png)
+![Baltic Dry Index — Spot Rate Summary, Friday Close 9 Oct 2026; 52-Week High 3,628, Low 1,532, Average 2,519](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0ca_2ec5a053.png)
 
 > **Figure 4: Baltic Dry Index — Spot Rate Summary, Friday Close 9 Oct 2026; 52-Week High 3,628, Low 1,532, Average 2,519**  
 > *Figure 4: Baltic Dry Index — spot rate summary, Friday close 9 Oct 2026; 52-week high 3,628, low 1,532, average 2,519 (Source: Signal).*  
@@ -112,14 +112,14 @@ The BDI fell 231 points to 2,917, its 2nd weekly decline, as the BCI lost 702 po
 **Freight.** The BCI fell 702 points to 4,340, C5TC(180) $6,368 to $35,860/day, and C5TC(182) to $39,363/day. All routes fell, led by the Atlantic: C8\_182 −$13,813 to $43,906/day, C14\_182 −$7,784 to $34,030/day, C16\_182 −$6,650 to $10,139/day, and C3 −$4.36 to $33.29/mt. The Pacific held: C10\_182 −$1,171 to $37,675/day and C5 −$0.19 to $14.24/mt. C9\_182 remains the top route at $78,528/day.
 
 
-![BCI — Spot Rate Summary, Friday Close 9 Oct 2026](../../images/6acf83c15da195f3a193f0d9_72b4cdd5.png)
+![BCI — Spot Rate Summary, Friday Close 9 Oct 2026](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0d9_72b4cdd5.png)
 
 > **Figure 5: BCI — Spot Rate Summary, Friday Close 9 Oct 2026**  
 > *Figure 5: BCI — spot rate summary, Friday close 9 Oct 2026 (Source: Signal).*  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0d9_72b4cdd5.png)
 
 
-![C3 & C5 Forward Balance — Supply, Supply Excl](../../images/6acf83c15da195f3a193f0d3_ffebf5e2.png)
+![C3 & C5 Forward Balance — Supply, Supply Excl](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0d3_ffebf5e2.png)
 
 > **Figure 6: C3 & C5 Forward Balance — Supply, Supply Excl**  
 > *Figure 6: C3 & C5 forward balance — Supply, Supply excl. laden, Expected Demand (Source: Signal).*  
@@ -128,14 +128,14 @@ The BDI fell 231 points to 2,917, its 2nd weekly decline, as the BCI lost 702 po
 **Forward balance.** C3 supply runs below expected demand to about day 16, then ends near 360 vessels against 290 by day 40 (excluding laden, about 345). C5 supply sits at or just above expected demand, reaching about 213 against 187 by day 15, while supply excluding laden vessels flattens from day 12 to about 152. Tonne-mile demand is provisionally 0.1% above a year ago while available tonnage is 1.0% higher, leaving the D/S ratio at 0.99.
 
 
-![Capesize Ballasters by Region; Dashboard WoW Basis Differs From Table 2](../../images/6acf83c15da195f3a193f0df_145633ea.png)
+![Capesize Ballasters by Region; Dashboard WoW Basis Differs From Table 2](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0df_145633ea.png)
 
 > **Figure 7: Capesize Ballasters by Region; Dashboard WoW Basis Differs From Table 2**  
 > *Figure 7: Capesize ballasters by region; dashboard WoW basis differs from Table 2 (Source: Signal).*  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0df_145633ea.png)
 
 
-![D/s Ratio (Bars) vs C5TC Weekly Average as Published in the D/s Series; Latest Six Weeks Provisional](../../images/6acf83c15da195f3a193f0d0_7b83f33b.png)
+![D/s Ratio (Bars) vs C5TC Weekly Average as Published in the D/s Series; Latest Six Weeks Provisional](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0d0_7b83f33b.png)
 
 > **Figure 8: D/s Ratio (Bars) vs C5TC Weekly Average as Published in the D/s Series; Latest Six Weeks Provisional**  
 > *Figure 8: D/S ratio (bars) vs C5TC weekly average as published in the D/S series; latest six weeks provisional (Source: Signal Research; Baltic Exchange).*  
@@ -147,14 +147,14 @@ The BDI fell 231 points to 2,917, its 2nd weekly decline, as the BCI lost 702 po
 **Freight.** The BPI rose 52 points to 2,424 and P5TC $464 to $21,813/day, with all routes higher. P3A\_82 led, +$739 to $21,336/day, followed by P1A\_82 (+$652 to $22,270/day) and P5\_82 (+$311 to $19,392/day); P2A\_82 remains the top route at $30,691/day. P7 and P8 firmed to $77.44/mt (+$0.56) and $57.48/mt (+$0.54).
 
 
-![BPI — Spot Rate Summary, Friday Close 9 Oct 2026](../../images/6acf83c15da195f3a193f0d6_6ae5ff0c.png)
+![BPI — Spot Rate Summary, Friday Close 9 Oct 2026](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0d6_6ae5ff0c.png)
 
 > **Figure 9: BPI — Spot Rate Summary, Friday Close 9 Oct 2026**  
 > *Figure 9: BPI — spot rate summary, Friday close 9 Oct 2026 (Source: Signal).*  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0d6_6ae5ff0c.png)
 
 
-![P1/p2/p7, P3, P5 & P6 Forward Balance — Supply, Supply Excl](../../images/6acf83c15da195f3a193f0dc_072db335.png)
+![P1/p2/p7, P3, P5 & P6 Forward Balance — Supply, Supply Excl](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0dc_072db335.png)
 
 > **Figure 10: P1/p2/p7, P3, P5 & P6 Forward Balance — Supply, Supply Excl**  
 > *Figure 10: P1/P2/P7, P3, P5 & P6 forward balance — Supply, Supply excl. laden, Expected Demand (Source: Signal).*  
@@ -163,14 +163,14 @@ The BDI fell 231 points to 2,917, its 2nd weekly decline, as the BCI lost 702 po
 **Forward balance.** Supply ends short of expected demand on all 4 panels: P1/P2/P7 about 75 against 97 at day 20, P3 61 against 76, P5 78 against 118 at day 10, and P6 258 against 315 at day 30, despite 807 ballasters globally (+27 vs the Week 40 count). Tonne-mile demand is provisionally 7.2% below a year ago while available tonnage is 2.2% lower, leaving the D/S ratio at 0.95.
 
 
-![Panamax Ballasters by Region; Dashboard WoW Basis Differs From Table 2](../../images/6acf83c15da195f3a193f0e5_43755bf2.png)
+![Panamax Ballasters by Region; Dashboard WoW Basis Differs From Table 2](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0e5_43755bf2.png)
 
 > **Figure 11: Panamax Ballasters by Region; Dashboard WoW Basis Differs From Table 2**  
 > *Figure 11: Panamax ballasters by region; dashboard WoW basis differs from Table 2 (Source: Signal).*  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0e5_43755bf2.png)
 
 
-![D/s Ratio (Bars) vs P5TC Weekly Average; Latest Three Weeks Provisional](../../images/6acf83c15da195f3a193f0e2_3c463b01.png)
+![D/s Ratio (Bars) vs P5TC Weekly Average; Latest Three Weeks Provisional](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0e2_3c463b01.png)
 
 > **Figure 12: D/s Ratio (Bars) vs P5TC Weekly Average; Latest Three Weeks Provisional**  
 > *Figure 12: D/S ratio (bars) vs P5TC weekly average; latest three weeks provisional (Source: Signal Research; Baltic Exchange).*  
@@ -182,14 +182,14 @@ The BDI fell 231 points to 2,917, its 2nd weekly decline, as the BCI lost 702 po
 **Freight.** The BSI rose 25 points to a 52-week high of 1,814 and S11TC $310 to $22,929/day, with S3TC\_63 +$948. Asia led: S2 +$1,525 to $22,969/day, S8 +$650 to $26,200/day and S10 +$410 to $16,953/day. The US Gulf eased: S4A −$332 to $31,706/day (still the top route) and S1C −$275 to $31,519/day; S1B −$565 to $25,221/day.
 
 
-![BSI — Spot Rate Summary, Friday Close 9 Oct 2026](../../images/6acf83c15da195f3a193f0e8_bf3a7c0d.png)
+![BSI — Spot Rate Summary, Friday Close 9 Oct 2026](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0e8_bf3a7c0d.png)
 
 > **Figure 13: BSI — Spot Rate Summary, Friday Close 9 Oct 2026**  
 > *Figure 13: BSI — spot rate summary, Friday close 9 Oct 2026 (Source: Signal).*  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0e8_bf3a7c0d.png)
 
 
-![S4a/s1c, S4B, S5 & S8/s10 Forward Balance — Supply, Supply Excl](../../images/6acf83c15da195f3a193f0eb_07e57bc0.png)
+![S4a/s1c, S4B, S5 & S8/s10 Forward Balance — Supply, Supply Excl](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0eb_07e57bc0.png)
 
 > **Figure 14: S4a/s1c, S4B, S5 & S8/s10 Forward Balance — Supply, Supply Excl**  
 > *Figure 14: S4A/S1C, S4B, S5 & S8/S10 forward balance — Supply, Supply excl. laden WAfr, Expected Demand (Source: Signal).*  
@@ -198,14 +198,14 @@ The BDI fell 231 points to 2,917, its 2nd weekly decline, as the BCI lost 702 po
 **Forward balance.** S4A/S1C (138 against 108) and S4B (111 against 75) stay well supplied by day 20. S5 runs short to about day 12 before ending at 165 against 110, and S8/S10 is short throughout, about 99 against 104 at day 10. Tonne-mile demand is provisionally 13.0% below a year ago while available tonnage is 5.5% higher, leaving the D/S ratio at 0.82.
 
 
-![Supramax Ballasters by Region; Dashboard WoW Basis Differs From Table 2](../../images/6acf83c15da195f3a193f0f2_963c36fd.png)
+![Supramax Ballasters by Region; Dashboard WoW Basis Differs From Table 2](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0f2_963c36fd.png)
 
 > **Figure 15: Supramax Ballasters by Region; Dashboard WoW Basis Differs From Table 2**  
 > *Figure 15: Supramax ballasters by region; dashboard WoW basis differs from Table 2 (Source: Signal).*  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0f2_963c36fd.png)
 
 
-![D/s Ratio (Bars) vs S11TC Weekly Average; Latest Three Weeks Provisional](../../images/6acf83c15da195f3a193f0ef_b585d9b7.png)
+![D/s Ratio (Bars) vs S11TC Weekly Average; Latest Three Weeks Provisional](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0ef_b585d9b7.png)
 
 > **Figure 16: D/s Ratio (Bars) vs S11TC Weekly Average; Latest Three Weeks Provisional**  
 > *Figure 16: D/S ratio (bars) vs S11TC weekly average; latest three weeks provisional (Source: Signal Research; Baltic Exchange).*  
@@ -217,14 +217,14 @@ The BDI fell 231 points to 2,917, its 2nd weekly decline, as the BCI lost 702 po
 **Freight.** The BHSI slipped 11 points to 996 and HS7TC $191 to $17,926/day. The Atlantic split: HS4\_38 (US Gulf) fell $2,671 to $21,436/day while HS3\_38 (South Atlantic to Skaw) rose $1,006 to $26,600/day, now the top route. Continent routes edged up (HS1\_38 +$243, HS2\_38 +$150); Asia eased (HS7\_38 −$156, HS5\_38 −$112).
 
 
-![BHSI — Spot Rate Summary, Friday Close 9 Oct 2026](../../images/6acf83c15da195f3a193f0f5_62648129.png)
+![BHSI — Spot Rate Summary, Friday Close 9 Oct 2026](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0f5_62648129.png)
 
 > **Figure 17: BHSI — Spot Rate Summary, Friday Close 9 Oct 2026**  
 > *Figure 17: BHSI — spot rate summary, Friday close 9 Oct 2026 (Source: Signal).*  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0f5_62648129.png)
 
 
-![Hs1/hs2, HS5, HS6 & HS7 Forward Balance — Supply, Supply Excl](../../images/6acf83c15da195f3a193f0fb_3629ca40.png)
+![Hs1/hs2, HS5, HS6 & HS7 Forward Balance — Supply, Supply Excl](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0fb_3629ca40.png)
 
 > **Figure 18: Hs1/hs2, HS5, HS6 & HS7 Forward Balance — Supply, Supply Excl**  
 > *Figure 18: HS1/HS2, HS5, HS6 & HS7 forward balance — Supply, Supply excl. laden WAfr, Expected Demand. No South Atlantic (HS3) panel is displayed (Source: Signal).*  
@@ -233,7 +233,7 @@ The BDI fell 231 points to 2,917, its 2nd weekly decline, as the BCI lost 702 po
 **Forward balance.** HS1/HS2 (167 against 128 at day 15), HS5 (72 against 47), and HS6 (49 against 24 at day 20) all end above expected demand. HS7 is the only displayed panel short throughout, about 165 against 183 at day 10. Tonne-mile demand is 17.7% below a year ago while available tonnage is 8.7% lower, leaving the D/S ratio at 0.90.
 
 
-![Handysize D/s Ratio (Bars) vs HS7TC Weekly Average; Latest Five Weeks Provisional](../../images/6acf83c15da195f3a193f0f8_8dfc90ed.png)
+![Handysize D/s Ratio (Bars) vs HS7TC Weekly Average; Latest Five Weeks Provisional](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0f8_8dfc90ed.png)
 
 > **Figure 19: Handysize D/s Ratio (Bars) vs HS7TC Weekly Average; Latest Five Weeks Provisional**  
 > *Figure 19: Handysize D/S ratio (bars) vs HS7TC weekly average; latest five weeks provisional. Ballaster chart: Figure 3 (Source: Signal Research; Baltic Exchange).*  

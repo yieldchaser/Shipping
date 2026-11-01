@@ -35,7 +35,7 @@ tags:
 Key factors in dry bulk include Chinese and Indian coal policies, Indonesian export authorizations, iron ore loading delays at Saldanha, and a resurgence in US soybean acquisitions. Meanwhile, oil cargo flows may be shaped by shifting product-export rules and updated sanctions policies, alongside loading schedule risks driven by refinery outages and the Petersburg terminal fire. **Ultimately, the location and timing of available cargoes will dictate the near-term freight trajectory.**
 
 
-![Maria Bertzeletou | Senior Market Analyst | 23 October 2026](../../images/6adb1156203c4cd3caa95aa6_929e61fd.png)
+![Maria Bertzeletou | Senior Market Analyst | 23 October 2026](../../../../../../corpus/07-signal/images/6adb1156203c4cd3caa95aa6_929e61fd.png)
 
 > **Figure 1: Maria Bertzeletou | Senior Market Analyst | 23 October 2026**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-commodity-freight-watch) | [Local Asset](../../../../../../corpus/07-signal/images/6adb1156203c4cd3caa95aa6_929e61fd.png)
@@ -46,7 +46,7 @@ Key factors in dry bulk include Chinese and Indian coal policies, Indonesian exp
 **US–China Grain: The Shipment Pattern Behind the New Purchases**
 
 
-![Spotlight of the Week | Grain](../../images/6adb11909b5c326f4e74be59_7e85302e.png)
+![Spotlight of the Week | Grain](../../../../../../corpus/07-signal/images/6adb11909b5c326f4e74be59_7e85302e.png)
 
 > **Figure 2: Spotlight of the Week | Grain**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-commodity-freight-watch) | [Local Asset](../../../../../../corpus/07-signal/images/6adb11909b5c326f4e74be59_7e85302e.png)
@@ -83,7 +83,7 @@ Worsening Black Sea security has increased reliance on alternative export corrid
 Geopolitical disruptions are reshaping the geography of seaborne crude trade, with changes in supply origins, loading terminals and destination markets becoming more pronounced in 2026. Signal Ocean data highlights a greater share of crude originating from Russia, the UAE and the United States, alongside a shift in loading activity towards Fujairah and away from Ras Tanura and Basrah. On the demand side, India's share has increased while China's has declined.
 
 
-![Oil | Crude Flows in Focus](../../images/6adb12a77f8279abadfd3bbb_371066af.png)
+![Oil | Crude Flows in Focus](../../../../../../corpus/07-signal/images/6adb12a77f8279abadfd3bbb_371066af.png)
 
 > **Figure 3: Oil | Crude Flows in Focus**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-commodity-freight-watch) | [Local Asset](../../../../../../corpus/07-signal/images/6adb12a77f8279abadfd3bbb_371066af.png)

@@ -148,7 +148,8 @@ def format_title_case(s):
 
 def format_heading(s):
     """Title-case a heading but keep tokens printed with digits or 2+ capitals (U.S., 1Q, TC14, USG) as printed."""
-    words = re.sub(r'[*_`]', '', s).split()
+    # Only edge markers go: a route code keeps its own underscore (HS4_38 as printed, not HS438)
+    words = [w for w in (re.sub(r'^[*_`]+|[*_`]+$', '', w) for w in s.split()) if w]
     out = format_title_case(s).split()
     if len(out) != len(words):
         return format_title_case(s)
@@ -372,11 +373,11 @@ def process_table_element(table):
         lines = []
         for elem in table.find_all(['h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'p', 'li']):
             if elem.name.startswith('h'):
-                txt = elem.get_text(strip=True)
-                txt = txt.replace('\u200d', '').replace('\ufeff', '').strip()
+                # Same heading rule as the page body: newsletter layout tables print PANAMAX | Firmer
+                txt = ' '.join(elem.get_text(' ', strip=True).replace('\u200d', '').replace('\ufeff', '').split())
                 if txt:
                     lvl = '#' * int(elem.name[1])
-                    clean_h = format_title_case(txt)
+                    clean_h = format_heading(txt)
                     clean_h = re.sub(r'(\w)_(\w)', r'\1\\_\2', clean_h)
                     lines.append(f"\n{lvl} {clean_h}\n")
             elif elem.name == 'p':
@@ -466,7 +467,7 @@ def convert_report_file(html_path, manifest_dict):
     all_data_tables = []
     images_count = 0
 
-    for elem in body_div.find_all(['h2', 'h3', 'h4', 'h5', 'h6', 'p', 'figure', 'table', 'ul', 'ol']):
+    for elem in body_div.find_all(['h2', 'h3', 'h4', 'h5', 'h6', 'p', 'blockquote', 'figure', 'table', 'ul', 'ol']):
         # If elem is inside another figure or table, skip to avoid double processing
         if elem.find_parent(['figure']) or (elem.find_parent('table') and elem.name in ['table', 'figure']):
             continue
@@ -479,9 +480,11 @@ def convert_report_file(html_path, manifest_dict):
                 clean_h = format_heading(raw_h)
                 clean_h = re.sub(r'(\w)_(\w)', r'\1\\_\2', clean_h)
                 md_content_blocks.append(f"\n{lvl} {clean_h}\n")
-        elif elem.name == 'p':
+        elif elem.name == 'p' or (elem.name == 'blockquote' and not elem.find('p')):
+            # a press quote printed as <blockquote><em>“...”</em> was dropped whole; one wrapping <p> comes via the p
             txt = clean_paragraph_text(elem)
-            if txt:
+            # a press release's media-contact mobile on its own line stays out (staff numbers are not corpus text)
+            if txt and not re.fullmatch(r'[*_\s]*\+?\d[\d\s().-]{7,}\d[*_\s]*', txt):
                 md_content_blocks.append(f"{txt}\n")
         elif elem.name == 'figure':
             img = elem.find('img')
@@ -523,12 +526,13 @@ def convert_report_file(html_path, manifest_dict):
                     fig_title = format_title_case(stem.replace('_', ' ').replace('-', ' ').title())
 
                 # relative, like the inline image: an absolute file:///C:/Users/... path only opens on one machine
-                file_uri = f"../../images/{local_name}"
+                # names keep the site's own escapes ('chart%20of...'): quote them, or the link decodes to a missing file
+                file_uri = f"../../images/{urllib.parse.quote(local_name)}"
                 interactive_url = url if (url and url.startswith('http')) else "https://app.signalocean.com"
                 anchor_lbl = "Signal Ocean Platform"
 
                 fig_lines = [
-                    f"![{fig_title}](../../images/{local_name})",
+                    f"![{fig_title}]({file_uri})",
                     "",
                     f"> **{fig_label}: {fig_title}**  "
                 ]
@@ -592,7 +596,9 @@ tags:
     os.makedirs(os.path.dirname(extracted_md_path), exist_ok=True)
 
     safe_write_text(corpus_md_path, final_markdown)
-    safe_write_text(extracted_md_path, final_markdown)
+    # '../../images/' resolves only next to the corpus copy; the data copy points back at corpus/07-signal/images
+    data_images = os.path.relpath(IMAGES_DIR, os.path.dirname(extracted_md_path)).replace(os.sep, '/')
+    safe_write_text(extracted_md_path, final_markdown.replace("](../../images/", f"]({data_images}/"))
 
     # Save table sidecar if tables exist
     if all_data_tables:

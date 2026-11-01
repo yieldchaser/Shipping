@@ -72,11 +72,11 @@ With Voyages Data API you can develop insights from where all ships on water hav
 - Combine vessels trading patterns with relevant Fixture data
 
 
-![An Indicative Dashboard Created by Voyages API Data](../../images/66eab29a53002021b08e8469_66eaafc7b96895f8d810d5b9_Screenshot%202024-09-18%20at%2011.47.15.avif)
+![An Indicative Dashboard Created by Voyages API Data](../../images/66eab29a53002021b08e8469_66eaafc7b96895f8d810d5b9_Screenshot%25202024-09-18%2520at%252011.47.15.avif)
 
 > **Figure 1: An Indicative Dashboard Created by Voyages API Data**  
 > *An indicative dashboard created by Voyages API data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](../../images/66eab29a53002021b08e8469_66eaafc7b96895f8d810d5b9_Screenshot%202024-09-18%20at%2011.47.15.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](../../images/66eab29a53002021b08e8469_66eaafc7b96895f8d810d5b9_Screenshot%25202024-09-18%2520at%252011.47.15.avif)
 
 
 ## Daily Vessel State API
@@ -91,10 +91,10 @@ The Daily Vessel State API provides historical data and real-time updates on the
 - Incident Response: Quickly identify and respond to incidents or anomalies in vessel operations.
 
 
-![Daily Vessel State API](../../images/66eab29a53002021b08e846c_66eab0dae06295ef0b06c99e_Screenshot%202024-09-18%20at%2011.50.26.avif)
+![Daily Vessel State API](../../images/66eab29a53002021b08e846c_66eab0dae06295ef0b06c99e_Screenshot%25202024-09-18%2520at%252011.50.26.avif)
 
 > **Figure 2: Daily Vessel State API**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](../../images/66eab29a53002021b08e846c_66eab0dae06295ef0b06c99e_Screenshot%202024-09-18%20at%2011.50.26.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](../../images/66eab29a53002021b08e846c_66eab0dae06295ef0b06c99e_Screenshot%25202024-09-18%2520at%252011.50.26.avif)
 
 
 ## Tonnage List API
@@ -147,11 +147,11 @@ With[maritime decarbonisation](https://www.thesignalgroup.com/newsroom/maritime-
 - Analyse EEOI, AER, CII, alignment scores, and rank vessels against the industry standards (IMO, Poseidon Principles, Sea Cargo Charterer)
 
 
-![An Indicative Dashboard Created by Vessel Emissions API Data](../../images/66eab29a53002021b08e8456_66eab135c22988d55d7ac897_Screenshot%202024-09-18%20at%2011.53.27.avif)
+![An Indicative Dashboard Created by Vessel Emissions API Data](../../images/66eab29a53002021b08e8456_66eab135c22988d55d7ac897_Screenshot%25202024-09-18%2520at%252011.53.27.avif)
 
 > **Figure 5: An Indicative Dashboard Created by Vessel Emissions API Data**  
 > *An indicative dashboard created by Vessel Emissions API data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](../../images/66eab29a53002021b08e8456_66eab135c22988d55d7ac897_Screenshot%202024-09-18%20at%2011.53.27.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](../../images/66eab29a53002021b08e8456_66eab135c22988d55d7ac897_Screenshot%25202024-09-18%2520at%252011.53.27.avif)
 
 
 ## Vessels API
@@ -200,10 +200,10 @@ The Market Rates API offers access to historical and current market rates across
 - Strategic Planning: Develop strategic plans for fleet deployment and chartering decisions based on comprehensive market data.
 
 
-![Market Rates API](../../images/66eab29a53002021b08e846f_66eab1b2acbe8b531f3d7cde_Screenshot%202024-09-18%20at%2011.55.15.avif)
+![Market Rates API](../../images/66eab29a53002021b08e846f_66eab1b2acbe8b531f3d7cde_Screenshot%25202024-09-18%2520at%252011.55.15.avif)
 
 > **Figure 8: Market Rates API**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](../../images/66eab29a53002021b08e846f_66eab1b2acbe8b531f3d7cde_Screenshot%202024-09-18%20at%2011.55.15.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](../../images/66eab29a53002021b08e846f_66eab1b2acbe8b531f3d7cde_Screenshot%25202024-09-18%2520at%252011.55.15.avif)
 
 
 ## Geos API
