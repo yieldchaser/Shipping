@@ -26,7 +26,8 @@ import json
 import re
 import sys
 from collections import defaultdict
-from datetime import date
+import subprocess
+from datetime import date, datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -39,6 +40,7 @@ INPUTS = [
 DATE_KEYS = ("issue_date", "filing_date", "date", "report_date", "publication_date", "published")
 SECRET_RE = re.compile(r"llx-[A-Za-z0-9]{8,}|\bsk-[A-Za-z0-9_]{12,}|ghp_[A-Za-z0-9]{20,}|AKIA[0-9A-Z]{16}|"
                        r"Bearer\s+[A-Za-z0-9._-]{20,}|nace_sk_[A-Za-z0-9]{8,}")
+PRINTED_RANGE = re.compile(r"\(\s*\d{1,2}\s*[-–]\s*(\d{1,2})\s+([A-Z][a-z]+)\s*\)")
 TABLE_ROW = re.compile(r"^\s*\|.*\|\s*$", re.M)
 TOKENIZER_REPO = "deepseek-ai/DeepSeek-V3"
 
@@ -57,7 +59,7 @@ def frontmatter(text: str) -> dict:
     return fm
 
 
-def parse_date(fm: dict) -> str:
+def parse_date(fm: dict, body: str = "") -> str:
     for k in DATE_KEYS:
         v = fm.get(k, "")
         m = re.match(r"(\d{4})-(\d{2})-(\d{2})", v)
@@ -66,7 +68,35 @@ def parse_date(fm: dict) -> str:
                 return date(int(m[1]), int(m[2]), int(m[3])).isoformat()
             except ValueError:
                 continue
+        try:                                            # Breakwave prints "July 3, 2018"
+            return datetime.strptime(v.strip(), "%B %d, %Y").date().isoformat()
+        except ValueError:
+            pass
+    if fm.get("year", "").isdigit() and body:
+        # issues that carry only year + broker week (Agora): the last day of the range printed on page 1, e.g.
+        # "Week 35 / 2021 (23-27 August)". The broker's week number is not the ISO week, so it is not used.
+        m = PRINTED_RANGE.search(body[:4000])
+        if m:
+            for fmt in ("%d %B %Y", "%d %b %Y"):
+                try:
+                    return datetime.strptime(f"{m[1]} {m[2]} {fm['year']}", fmt).date().isoformat()
+                except ValueError:
+                    pass
     return ""
+
+
+def source_roots() -> list[Path]:
+    """The worktree and the main checkout: source PDFs are gitignored and live only in the main checkout."""
+    roots = [ROOT]
+    try:
+        common = subprocess.run(["git", "rev-parse", "--path-format=absolute", "--git-common-dir"], cwd=ROOT,
+                                capture_output=True, text=True, check=True).stdout.strip()
+        main = Path(common).parent
+        if main.resolve() != ROOT.resolve():
+            roots.append(main)
+    except (OSError, subprocess.CalledProcessError):
+        pass
+    return roots
 
 
 def sha256(path: Path) -> str:
@@ -116,6 +146,7 @@ def main() -> int:
     if tok is None and not a.no_tokens:
         tok_note = "estimated: " + tok_note
     files, fails = [], defaultdict(list)
+    roots = source_roots()
     groups = defaultdict(lambda: {"files": 0, "bytes": 0, "table_bytes": 0, "prose_bytes": 0, "tokens": 0,
                                   "min_date": "", "max_date": ""})
     for kind, base in INPUTS:
@@ -130,16 +161,18 @@ def main() -> int:
             body = text[text.find("\n---", 3) + 4:] if fm else text
             tables = "\n".join(TABLE_ROW.findall(body))
             tb, pb = len(tables.encode()), len(body.encode()) - len(tables.encode())
-            d = parse_date(fm) if kind != "reference" else "n/a"
+            d = parse_date(fm, body) if kind != "reference" else "n/a"
             # R3
             src = fm.get("source_file", "")
             r3 = ""
             if kind != "reference":
+                found = next((r / src for r in roots if src and (r / src).exists()), None)
                 if not src:
-                    r3 = "no source_file"
-                elif not (ROOT / src).exists():
+                    # API-origin records (Fearnleys voice) have no file: their provenance is the API record id
+                    r3 = "" if fm.get("id") and "API" in text[:1500] else "no source_file"
+                elif found is None:
                     r3 = f"source_file missing: {src}"
-                elif fm.get("source_sha256") and not a.no_hash and sha256(ROOT / src) != fm["source_sha256"]:
+                elif fm.get("source_sha256") and not a.no_hash and sha256(found) != fm["source_sha256"]:
                     r3 = "source_sha256 mismatch"
             # R4
             r4 = "" if kind == "reference" or d else "no parseable publication date"
