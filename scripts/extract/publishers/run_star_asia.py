@@ -557,6 +557,7 @@ def anchorage_page_md(page: pymupdf.Page) -> str:
         if t in _HEADINGS:
             flush(); out.append(_HEADINGS[t] + "\n")
         elif t.startswith("TIDE DATES"):
+            t = re.sub(r"\s{2,}", " ", t)
             flush()
             if out and out[-1].startswith("## TIDE DATES"):
                 out[-1] = out[-1].rstrip("\n") + " " + t + "\n"
@@ -584,6 +585,12 @@ def prose_before(page: pymupdf.Page, stop_titles) -> str:
             if buf:
                 out.extend(_paragraphs(buf)); buf = []
             out.append(_HEADINGS[t])
+        elif t.startswith("TIDE DATES"):   # one heading line, as on the anchorage pages
+            if buf:
+                out.extend(_paragraphs(buf)); buf = []
+            out.append(f"## {t}")
+        elif re.match(r"^(Alang|Chattogram):\s", t) and out and out[-1].startswith("## TIDE DATES") and not buf:
+            out[-1] += " " + t
         else:
             buf.append((y, t))
     if buf:
@@ -1129,7 +1136,9 @@ def build_star_asia_clean_page(page: pymupdf.Page, lp_md: str = "") -> str:
         return "\n\n".join(parts)
 
     # 8. PAGE: Market Insights & Anchorage / Beaching Positions (pages 12-14): text layer + word geometry
-    elif "Anchorage & Beaching Position" in text:
+    elif "Anchorage & Beaching Position" in text or "TIDE DATES" in text:
+        # a page of the same section without a table (2026 W43 p14: Aliaga, tide dates, scrap markets) reads
+        # the same way; before, it fell back to the LiteParse dump
         return anchorage_page_md(page)
 
     # 9. PAGE: commodities commentary without tables (continues the scrap-market prose)
