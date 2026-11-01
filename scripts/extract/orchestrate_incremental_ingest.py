@@ -830,18 +830,12 @@ def extract_fearnleys(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
             "year": year, "report_week": week_num, "pages": page_count,
             "source_file": rel_source,
             "activity_levels": nb_activity, "newbuilding_prices": nb_prices,
-            "secondhand_prices": {"dry": sp_dry, "wet": sp_wet}, "rates": stamped_rows
+            "secondhand_prices": {"dry": sp_dry, "wet": sp_wet}
         }
         sidecar_str = json.dumps(sidecar_payload, indent=2, ensure_ascii=False)
         target_tables.write_text(sidecar_str, encoding="utf-8")
-
-        if stamped_rows:
-            upsert_rows_to_csv(
-                SERIES_DIR / "fearnleys_rates_series.csv",
-                stamped_rows,
-                ["issue_date", "report_week", "page", "chapter", "section", "label", "value", "size", "change", "source_file"],
-                ["issue_date", "chapter", "section", "label", "size"]
-            )
+        # No rates series or sidecar "rates": Fearnleys rates come from the Fearnpulse API, and the card parse was
+        # about 7% wrong against the PDFs (owner decision 2026-11-01; fearnleys_rates_series.csv deleted)
 
     return {"stem": stem, "issue_date": iso_date, "report_week": week_num, "rates_count": len(stamped_rows), "target_md": str(target_md)}
 

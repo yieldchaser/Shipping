@@ -980,8 +980,7 @@ def normalize_fearnleys():
                 "secondhand_prices": {
                     "dry": sp_dry,
                     "wet": sp_wet
-                },
-                "rates": stamped_rows
+                }
             }
             sidecar_str = json.dumps(sidecar_payload, indent=2, ensure_ascii=False)
             nested_tables.write_text(sidecar_str, encoding="utf-8")
@@ -993,8 +992,9 @@ def normalize_fearnleys():
         except Exception as e:
             print(f"Error processing {pdf.name}: {e}", flush=True)
 
-    # Write Master Stacked Series CSV (deduplicated on composite primary key)
-    if all_series_rows:
+    # Write Master Stacked Series CSV (deduplicated on composite primary key). Disabled 2026-11-01: Fearnleys rates
+    # come from the Fearnpulse API and this card parse was about 7% wrong against the PDFs; the CSV was deleted.
+    if False:
         fieldnames = [
             "issue_date", "report_week", "page", "chapter", "section",
             "label", "value", "size", "change", "source_file"
@@ -1030,7 +1030,7 @@ def normalize_fearnleys():
 
     print("\n=================================================================", flush=True)
     print(f"Successfully normalized {normalized_count} Fearnleys files.", flush=True)
-    print(f"Updated {SERIES_CSV} with deduplicated rows.", flush=True)
+    print("Rates series not written (Fearnpulse API is the rates source).", flush=True)
     print("=================================================================\n", flush=True)
 
 
