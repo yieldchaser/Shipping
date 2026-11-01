@@ -209,6 +209,13 @@ def main():
         # If on main, safely pull latest changes before commit/push
         if current_branch == "main":
             subprocess.run(["git", "pull", "--rebase", "--autostash", "origin", "main"], cwd=str(REPO_ROOT), check=False)
+            # A conflicting autostash pop leaves '<<<<<<< Updated upstream' markers in our outputs (2026-10-29 committed
+            # five unparseable data/views/signal JSONs that way). This run's output is the stashed side: keep it.
+            unmerged = subprocess.run(["git", "diff", "--name-only", "--diff-filter=U"], cwd=str(REPO_ROOT),
+                                      capture_output=True, text=True).stdout.split()
+            if unmerged:
+                logger.warning("Autostash conflict on %d file(s); keeping this run's output", len(unmerged))
+                subprocess.run(["git", "checkout", "--theirs", "--", *unmerged], cwd=str(REPO_ROOT), check=True)
 
         # Stage only data views and telemetry artifacts
         subprocess.run(
@@ -220,6 +227,12 @@ def main():
         if not status_res.stdout.strip():
             logger.info("No data changes detected to commit.")
             return 0
+        marked = [p for p in status_res.stdout.split()
+                  if (REPO_ROOT / p).is_file() and (REPO_ROOT / p).read_bytes()[:8] == b"<<<<<<< "]
+        if marked:
+            logger.error("Conflict markers in %s; not committing", marked)
+            subprocess.run(["git", "reset", "-q", "--", *marked], cwd=str(REPO_ROOT), check=False)
+            return 1
 
         commit_msg = f"data(fleet): automated {'full' if run_full else 'benchmark'} fleet sync {now.strftime('%Y-%m-%d')} [skip ci]"
         subprocess.run(["git", "commit", "-m", commit_msg], cwd=str(REPO_ROOT), check=True)
