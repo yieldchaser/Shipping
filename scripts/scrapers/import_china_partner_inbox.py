@@ -93,6 +93,26 @@ def read_inbox(path: Path) -> list[dict]:
     return out
 
 
+def not_an_export(rows: list[dict]) -> str:
+    """Reasons a file cannot be a customs export: plug rows, or one unit value shared by many partners.
+
+    A real GACC query export lists named partners only, and declared unit values differ by origin (Russian vs
+    Saudi crude, Indian vs Australian ore). A file where several partners share a unit value to the cent was
+    built from a total and a price, not exported, and is refused whole (2026-11-02: such a file was pushed).
+    """
+    if any(r["partner"].strip().lower() in ("others", "other", "rest of world", "其他") for r in rows):
+        return "an 'Others' row (GACC exports name every partner)"
+    by_key = defaultdict(list)
+    for r in rows:
+        if r["tonnes"]:
+            by_key[r["key"]].append(round(r["usd"] / r["tonnes"], 1))
+    for key, units in by_key.items():
+        top = max(units.count(u) for u in units)
+        if len(units) >= 4 and top >= 3:
+            return f"HS {key}: {top} of {len(units)} partners share one unit value (USD/t)"
+    return ""
+
+
 def main() -> int:
     files = sorted(INBOX.glob("*.csv")) if INBOX.exists() else []
     if not files:
@@ -101,6 +121,10 @@ def main() -> int:
     agg = defaultdict(lambda: defaultdict(lambda: {"usd": 0.0, "tonnes": 0.0, "has_t": True}))
     for f in files:
         rows = read_inbox(f)
+        problem = not_an_export(rows)
+        if problem:
+            logging.error("%s refused: %s. Nothing imported.", f.name, problem)
+            return 1
         logging.info("%s: %d usable rows", f.name, len(rows))
         for r in rows:
             a = agg[(r["month"], r["key"])][r["partner"]]
@@ -121,6 +145,10 @@ def main() -> int:
     for (month, key), partners in sorted(agg.items()):
         total = sum(p["usd"] for p in partners.values())
         if total <= 0 or key not in template:
+            continue
+        if template[key].get("flow", "import") != "import":
+            logging.warning("HS %s is stored as China %s, not imports: skipped", key, template[key]["flow"])
+            continue
             continue
         ranked = sorted(partners.items(), key=lambda kv: -kv[1]["usd"])
         top = [f"{n} ({100 * p['usd'] / total:.1f}%)" for n, p in ranked[:3]] + ["", "", ""]
