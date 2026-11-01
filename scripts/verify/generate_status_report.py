@@ -173,7 +173,7 @@ def generate_report():
     lines.append("| `fetch_australia_req.py` | Iron Ore, Metallurgical Coal, Thermal Coal, Bauxite, LNG | Clamped (Mt volumes, A$B values) | DISR Landing Discovery -> Wayback mirror -> Cached XLSX | DISR Office of the Chief Economist |")
     lines.append("| `fetch_argentina_grain.py` | Argentina Grain by Port & Commodity | Clamped (0.01 Mt -> 15 Mt/mo) | MAGyP Embarques Index -> Monthly HTML tables | Secretaría de Agricultura (MAGyP) |")
     lines.append("| `fetch_usda_fas_exports.py` | Corn, Soybeans, Wheat Export Sales | Clamped (Socrata Weekly Records) | AgTransport Socrata (885i-uek7) DESC pagination | USDA Foreign Agricultural Service |")
-    lines.append("| `fetch_usda_grains.py` | Grain Inspections by Port Region | Verified (5sxb-qe7q, 77,695+ rows) | AgTransport Socrata (5sxb-qe7q) | USDA Federal Grain Inspection Service |")
+    lines.append("| `fetch_usda_grains.py` | Grain Inspections by Port Region | Verified (5sxb-qe7q, ~50,000 unique rows; the earlier 77,695 held 27,706 duplicates) | AgTransport Socrata (5sxb-qe7q) | USDA Federal Grain Inspection Service |")
     lines.append("| `fetch_usda_grain_queues.py` | Grain Vessel Loading Queues | Clamped (Table 19 vessel counts & volume) | AMS GTR Datasets Portal -> Table 19 XLSX | USDA Agricultural Marketing Service |")
     lines.append("| `fetch_world_steel_production.py` | World Crude Steel Production | Clamped (>= 100.0 Mt global threshold) | Monthly press release URL pattern -> Table extraction | World Steel Association (worldsteel) |")
     lines.append("| `fetch_china_customs_demand.py` | China Iron Ore, Coal, Soybeans, Oil, LNG, Steel | Clamped by HS commodity specs | chinadata.live v2 API -> Monthly series | GACC / chinadata.live |")

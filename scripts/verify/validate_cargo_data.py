@@ -18,7 +18,7 @@ Enforces zero tolerance for:
       * Argentina Grain Exports Monthly
       * Indonesia Coal Exports Monthly (BPS 2026-07 = 38.94 Mt check)
       * Australia REQ Commodity Exports
-      * USDA FGIS Inspections (>= 77,695 rows)
+      * USDA FGIS Inspections (no unique row lost vs the committed file)
       * USDA FAS Outstanding Export Sales
       * USDA Grain Vessel Queues
       * China Customs Monthly Imports (HS 2601 iron ore demand)
@@ -187,10 +187,25 @@ def validate_world_crude_steel():
 
     df = pd.read_csv(fpath)
 
-    # Delete 2026-08 and 2026-09 check
-    bad_steel = df[df["date"].isin(["2026-08-01", "2026-09-01"])]
-    if not bad_steel.empty:
-        record_error(fname, "UNPUBLISHED_STEEL_MONTHS", f"Found unreleased/partial steel months: {list(bad_steel['date'])}")
+    # worldsteel releases month M around the 22nd of M+1, and every row cites its own month's press release. A row
+    # for a month whose release date has not come, or that cites another month's release, is not a published value.
+    # (This replaced a fixed ['2026-08-01', '2026-09-01'] list that kept failing after both months were released.)
+    today = datetime.now(timezone.utc).date()
+    month_names = ["january", "february", "march", "april", "may", "june", "july", "august", "september",
+                   "october", "november", "december"]
+    unreleased, wrong_src = [], []
+    for _, r in df.iterrows():
+        d = pd.Timestamp(str(r["date"])).date()
+        release = (pd.Timestamp(d) + pd.DateOffset(months=1, days=19)).date()   # the 20th of M+1
+        if today < release:
+            unreleased.append(str(r["date"]))
+        src = str(r.get("source_url") or "")
+        if "press-releases" in src and f"{month_names[d.month - 1]}-{d.year}" not in src:
+            wrong_src.append(str(r["date"]))
+    if unreleased:
+        record_error(fname, "UNPUBLISHED_STEEL_MONTHS", f"Months before their worldsteel release date: {unreleased}")
+    if wrong_src:
+        record_error(fname, "STEEL_SOURCE_MONTH_MISMATCH", f"Rows citing another month's press release: {wrong_src}")
 
     # Global total > 100 Mt for every month
     for idx, r in df.iterrows():
@@ -370,7 +385,7 @@ def validate_australia_req():
 
 
 # =====================================================================
-# 8. USDA FGIS Inspections Validation (>= 77,695 rows)
+# 8. USDA FGIS Inspections Validation (no unique row lost vs the committed file)
 # =====================================================================
 def validate_usda_inspections():
     fname = "usda_ytd_grain_inspections_top20.csv"
@@ -380,11 +395,21 @@ def validate_usda_inspections():
         return
 
     df = pd.read_csv(fpath, low_memory=False)
-    row_count = len(df)
-    if row_count < 77695:
-        record_error(fname, "ROW_COUNT_TOO_LOW", f"Expected >= 77,695 rows without deduplication, got {row_count:,}")
+    # The old floor (>= 77,695 rows) was the 2026-09-17 file, which held 27,706 exact duplicate rows; deduplicated it
+    # is 49,989 rows, all still present. What must hold is that no unique record is lost against the committed file.
+    unique_now = len(df.drop_duplicates())
+    floor = 49989
+    try:
+        import subprocess, io
+        head = subprocess.run(["git", "show", f"HEAD:data/commodities/{fname}"], cwd=str(ROOT),
+                              capture_output=True, check=True).stdout
+        floor = max(floor, len(pd.read_csv(io.BytesIO(head), low_memory=False).drop_duplicates()))
+    except Exception:
+        pass
+    if unique_now < floor:
+        record_error(fname, "ROW_COUNT_TOO_LOW", f"{unique_now:,} unique rows, fewer than the committed {floor:,}")
     else:
-        logger.info("  [OK] usda_inspections: verified %d rows (>= 77,695 threshold)", row_count)
+        logger.info("  [OK] usda_inspections: %d unique rows (committed: %d)", unique_now, floor)
 
 
 # =====================================================================
@@ -589,7 +614,7 @@ def main():
         print("    5. Argentina Grain Exports Monthly")
         print("    6. Indonesia Coal Exports Monthly (BPS 2026-07 = 38.94 Mt confirmed)")
         print("    7. Australia REQ Commodity Exports")
-        print("    8. USDA FGIS Inspections (>= 77,695 rows)")
+        print("    8. USDA FGIS Inspections (no unique row lost vs the committed file)")
         print("    9. USDA FAS Outstanding Sales & Vessel Queues")
         print("   10. China Customs Monthly Imports (Iron Ore Demand)")
         print("   11. TurkStat Bulk (Cement & Scrap in minor_bulks)")

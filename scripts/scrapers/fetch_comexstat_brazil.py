@@ -21,6 +21,7 @@ Behaviour (data-provenance policy):
 import json
 import logging
 import ssl
+import sys
 import time
 import urllib.error
 import urllib.request
@@ -203,6 +204,14 @@ def main() -> pd.DataFrame:
                 "source": "Brazil MDIC ComexStat API",
                 "method": "NCM 8-digit REST API",
             })
+        if not rows:
+            # every window answered 429 / empty: the groupby below raised KeyError and the whole run died, so the
+            # commodities already fetched were never written (2026-10-05..10-26)
+            logging.warning("ComexStat returned no rows for %-10s; keeping its existing history", commodity)
+            failures.append(f"{commodity}: no rows")
+            if i < len(COMMODITIES) - 1:
+                time.sleep(GAP_S)
+            continue
         # multiple NCMs may land in the same month -> aggregate
         df_c = (pd.DataFrame(rows)
                 .groupby(["date", "year", "month", "commodity", "ncm", "source", "method"], as_index=False)
@@ -243,10 +252,13 @@ def main() -> pd.DataFrame:
     df.to_csv(OUT_FILE, index=False, lineterminator="\n")
     logging.info("Wrote %d REAL API rows -> %s", len(df), OUT_FILE.name)
     if failures:
-        logging.warning("%d commodities FAILED this run (absent from CSV): %s",
+        logging.warning("%d commodities FAILED this run (existing history kept): %s",
                         len(failures), "; ".join(failures))
+    main.failures = failures
     return df
 
 
 if __name__ == "__main__":
     main()
+    # the fetched commodities are written above; a partial failure still exits non-zero for the health report
+    sys.exit(1 if getattr(main, "failures", None) else 0)
