@@ -631,6 +631,14 @@ def main():
         for err in errs:
             print(f"  ❌ {err}")
         print("=" * 80)
+        if "--rejected-out" in sys.argv:
+            # The CI commit step reverts exactly these files and commits every other dataset. Before this, one
+            # failing dataset (e.g. world steel 2026-10) made the whole commit step skip, so PPA September and
+            # every other freshly scraped series was thrown away each week (2026-10-05 .. 11-01).
+            out = Path(sys.argv[sys.argv.index("--rejected-out") + 1])
+            rejected = sorted({e[1:e.index("]")] for e in errs if e.startswith("[") and "]" in e})
+            out.write_text("".join(f"data/commodities/{n}\n" for n in rejected if "*" not in n), encoding="utf-8")
+            print(f"Rejected datasets written to {out}: {rejected}")
         sys.exit(1)
     else:
         print("SUCCESS: All cargo commodity datasets PASSED integrity validation!")

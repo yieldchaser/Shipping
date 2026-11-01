@@ -16606,6 +16606,32 @@ if (intelTabsContainer) {
           </div>
         </div>
 
+        <!-- BRAZIL EXPORTS BY DESTINATION (ComexStat): China share of iron ore / soybeans / crude / sugar -->
+        <div class="chart-container mb-20" id="brazilDestContainer">
+          <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+            <div>
+              <div class="chart-title" data-tt-type="cargo-generic-card" data-tt-title="Brazil Exports by Destination" data-tt-val="Monthly tonnes to China vs rest of world (chart)" data-tt-sub="Brazil MDIC ComexStat, exports by country" data-tt-vessel="Capesize (C3 Tubarao-Qingdao), Panamax (soybeans), VLCC (crude)" data-tt-source="Brazil MDIC SECEX ComexStat API" data-tt-note="Exporter-side tonnes as Brazil's customs record them (FOB, month of shipment). Cargo loaded in one month reaches China weeks later." style="display:flex;align-items:center;gap:8px;cursor:help;">
+                <span>Brazil Exports by Destination — China vs Rest of World</span>
+                <span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">Tonnage</span>
+              </div>
+              <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">
+                Official Brazilian customs tonnes by destination country: the origin side of China's iron ore, soybean and crude imports.
+              </div>
+            </div>
+            <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+              <select id="bdCommoditySelect" onchange="renderBrazilDestChart()" aria-label="Commodity" style="font-size:11px;padding:3px 6px;background:var(--card);color:var(--text);border:1px solid var(--border);border-radius:4px;font-family:inherit;"></select>
+              <div id="bdLatestBadge" class="kpi-badge">To China: —</div>
+              <div id="bdShareBadge" class="kpi-badge">China share: —</div>
+            </div>
+          </div>
+          <div class="chart-canvas-wrap" style="height:300px"><canvas id="brazilDestChart"></canvas></div>
+          <div id="bdTopList" style="display:flex;flex-wrap:wrap;gap:6px;margin:10px 0 4px;font-size:11px;"></div>
+          <div class="cargo-provenance-strip">
+            <div id="bdProvenance"><strong>Source:</strong> Brazil MDIC ComexStat · —</div>
+            <span class="cargo-badge-live">LIVE</span>
+          </div>
+        </div>
+
         <!-- WORLD CRUDE STEEL PRODUCTION (Megaprompt 14 C4) -->
         <div class="chart-container mb-20" id="worldSteelContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
@@ -32233,6 +32259,7 @@ function renderFearnleysSnpTable() {
       if (viewKey === 'demand' || viewKey === 'all') {
         if (typeof renderWhoFeedsChinaChart === 'function') renderWhoFeedsChinaChart();
         if (typeof renderChinaBulletinChart === 'function') renderChinaBulletinChart();
+        if (typeof renderBrazilDestChart === 'function') renderBrazilDestChart();
         if (typeof renderWorldSteelChart === 'function') renderWorldSteelChart();
         renderLandedCostChart();
         renderIronOreRestockingChart(window.currentProduct || 'cape');
@@ -33873,6 +33900,76 @@ function renderFearnleysSnpTable() {
     }
     window.renderChinaBulletinChart = renderChinaBulletinChart;
 
+    // C1c: BRAZIL EXPORTS BY DESTINATION (ComexStat): China vs rest of world, tonnes, China share
+    function renderBrazilDestChart() {
+      var canvas = document.getElementById('brazilDestChart');
+      if (!canvas || !window.DATA || !DATA.cargoSummary || !DATA.cargoSummary.brazil_destinations) return;
+      var bd = DATA.cargoSummary.brazil_destinations;
+      var cmds = bd.commodities || {};
+      var keys = Object.keys(cmds);
+      if (!keys.length) return;
+      var sel = document.getElementById('bdCommoditySelect');
+      if (sel && !sel.options.length) {
+        sel.innerHTML = keys.map(function(k) {
+          return '<option value="' + escapeHtml(k) + '"' + (k === 'Iron Ore' ? ' selected' : '') + '>' + escapeHtml(k) + '</option>';
+        }).join('');
+      }
+      var c = cmds[(sel && sel.value) || keys[0]];
+      var n = c.dates.length, from = Math.max(0, n - 60);
+      var labels = c.dates.slice(from);
+      var china = c.china_mt.slice(from);
+      var rest = c.total_mt.slice(from).map(function(t, i) { return Math.round((t - china[i]) * 1000) / 1000; });
+      var share = c.china_share_pct.slice(from);
+
+      var last = n - 1;
+      var lb = document.getElementById('bdLatestBadge');
+      if (lb) lb.innerHTML = 'To China: <strong>' + c.china_mt[last].toFixed(2) + ' Mt</strong> (' + escapeHtml(c.dates[last]) + ')';
+      var sb = document.getElementById('bdShareBadge');
+      if (sb) sb.innerHTML = 'China share: <strong>' + (c.china_share_pct[last] == null ? '—' : c.china_share_pct[last].toFixed(1) + '%') + '</strong> of ' + c.total_mt[last].toFixed(2) + ' Mt';
+      var tl = document.getElementById('bdTopList');
+      if (tl) {
+        tl.innerHTML = '<span style="color:var(--text-muted);align-self:center;">Top destinations, last 12 months:</span>' + c.top_12m.map(function(t) {
+          return '<span class="kpi-badge">' + escapeHtml(t.country) + ' <strong>' + t.mt.toFixed(1) + ' Mt</strong> · ' + t.share_pct.toFixed(1) + '%</span>';
+        }).join('');
+      }
+      var prov = document.getElementById('bdProvenance');
+      if (prov && bd.provenance) {
+        prov.innerHTML = '<strong>Source:</strong> Brazil MDIC ComexStat, exports by destination (HS ' + escapeHtml(c.hs_heading) + ') · ' +
+          escapeHtml(bd.provenance.min_date || '') + ' to ' + escapeHtml(bd.provenance.max_date || '') + ' · month of shipment, FOB';
+      }
+
+      destroyChart('brazilDestChart');
+      updateOrCreateChart('brazilDestChart', canvas, {
+        type: 'bar',
+        data: {
+          labels: labels,
+          datasets: [
+            { label: 'To China (Mt)', data: china, backgroundColor: 'rgba(248,113,113,0.65)', borderWidth: 0, stack: 'x', yAxisID: 'y', order: 2 },
+            { label: 'Rest of world (Mt)', data: rest, backgroundColor: 'rgba(88,166,255,0.45)', borderWidth: 0, stack: 'x', yAxisID: 'y', order: 2 },
+            { label: 'China share (%)', data: share, type: 'line', borderColor: '#f59e0b', backgroundColor: '#f59e0b', borderWidth: 1.5, pointRadius: 0, yAxisID: 'y1', order: 1 }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { position: 'top', labels: { font: { size: 11 } } },
+            tooltip: { callbacks: { label: function(t) {
+              var pct = t.dataset.yAxisID === 'y1';
+              return ' ' + t.dataset.label.replace(/ \(.*\)/, '') + ': ' + (t.parsed.y == null ? '—' : t.parsed.y.toFixed(pct ? 1 : 2) + (pct ? '%' : ' Mt'));
+            } } }
+          },
+          scales: {
+            x: { stacked: true, grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, maxTicksLimit: 14 } },
+            y: { stacked: true, title: { display: true, text: 'Mt per month', color: '#8b949e', font: { size: 10 } }, grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 } } },
+            y1: { position: 'right', min: 0, max: 100, title: { display: true, text: 'China share %', color: '#8b949e', font: { size: 10 } }, grid: { display: false }, ticks: { color: '#8b949e', font: { size: 11 } } }
+          }
+        }
+      });
+    }
+    window.renderBrazilDestChart = renderBrazilDestChart;
+
     // C4: WORLD CRUDE STEEL PRODUCTION (CHINA VS REST OF WORLD)
     function renderWorldSteelChart() {
       var canvas = document.getElementById('worldSteelChart');
@@ -34134,6 +34231,7 @@ function renderFearnleysSnpTable() {
       if (dead()) return;
       try { if (typeof renderWhoFeedsChinaChart === 'function') renderWhoFeedsChinaChart(); } catch (e) { console.error('[Cargo Who Feeds China]', e); }
       try { if (typeof renderChinaBulletinChart === 'function') renderChinaBulletinChart(); } catch (e) { console.error('[Cargo China Bulletin]', e); }
+      try { if (typeof renderBrazilDestChart === 'function') renderBrazilDestChart(); } catch (e) { console.error('[Cargo Brazil Destinations]', e); }
       try { if (typeof renderWorldSteelChart === 'function') renderWorldSteelChart(); } catch (e) { console.error('[Cargo World Steel]', e); }
       try { renderLandedCostChart(); } catch (e) { console.error('[Cargo LandedCost]', e); }
       try { renderIronOreRestockingChart(window.currentProduct || 'cape'); } catch (e) { console.error('[Cargo Restocking]', e); }

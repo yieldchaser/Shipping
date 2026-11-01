@@ -1141,6 +1141,50 @@ def process_china_customs_bulletin():
     return {"provenance": provenance, "lines": lines}
 
 
+def process_brazil_destinations():
+    """Brazil's exports by destination country (ComexStat): monthly totals, China tonnes and share, and the top
+    destinations of the latest month and of the last 12 months. Tonnes as served (kg / 1000), no derivation."""
+    fpath = COMMODITIES_DIR / "brazil_exports_by_destination.csv"
+    if not fpath.exists():
+        return {"provenance": {"status": "MISSING", "row_count": 0}, "commodities": {}}
+    rows = list(csv.DictReader(open(fpath, encoding="utf-8")))
+    out = {}
+    for cmd in sorted({r["commodity"] for r in rows}):
+        by_month = defaultdict(dict)
+        for r in rows:
+            if r["commodity"] == cmd:
+                by_month[r["date"][:7]][r["country"]] = by_month[r["date"][:7]].get(r["country"], 0.0) + float(r["metric_tonnes"] or 0)
+        months = sorted(by_month)
+        total = [round(sum(by_month[m].values()) / 1e6, 3) for m in months]
+        china = [round(by_month[m].get("China", 0.0) / 1e6, 3) for m in months]
+        share = [round(100 * c / t, 1) if t else None for c, t in zip(china, total)]
+
+        def top(ms, n=8):
+            agg = defaultdict(float)
+            for m in ms:
+                for k, v in by_month[m].items():
+                    agg[k] += v
+            tot = sum(agg.values())
+            return [{"country": k, "mt": round(v / 1e6, 3), "share_pct": round(100 * v / tot, 1) if tot else None}
+                    for k, v in sorted(agg.items(), key=lambda kv: -kv[1])[:n]]
+
+        out[cmd] = {"hs_heading": next(r["hs_heading"] for r in rows if r["commodity"] == cmd),
+                    "dates": months, "total_mt": total, "china_mt": china, "china_share_pct": share,
+                    "latest_month": months[-1], "top_latest": top(months[-1:]), "top_12m": top(months[-12:])}
+    all_dates = sorted({r["date"][:7] for r in rows})
+    provenance = {
+        "source": "Brazil MDIC SECEX ComexStat API, exports by destination country (HS heading)",
+        "publisher": "Ministerio do Desenvolvimento, Industria, Comercio e Servicos (MDIC), Brazil",
+        "method": "POST /general with details country+heading, monthDetail; metricKG / 1000 = tonnes",
+        "source_url": "https://comexstat.mdic.gov.br/",
+        "span": f"{all_dates[0][:4]}–{all_dates[-1][:4]}" if all_dates else "",
+        "min_date": all_dates[0] if all_dates else "", "max_date": all_dates[-1] if all_dates else "",
+        "as_of": all_dates[-1] if all_dates else "", "row_count": len(rows), "status": "LIVE",
+        "unit": "Mt per month (exporter-side, FOB)",
+    }
+    return {"provenance": provenance, "commodities": out}
+
+
 def process_indonesia_coal():
     """Process Indonesia BPS official seaborne coal exports."""
     fpath = COMMODITIES_DIR / "indonesia_coal_exports_monthly.csv"
@@ -1712,6 +1756,7 @@ def build_provenance_registry(datasets, flow_matrix, baltic_rates):
             "guinea_bauxite": datasets["guinea_bauxite"]["provenance"],
             "who_feeds_china": datasets["who_feeds_china"]["provenance"],
             "china_customs_bulletin": datasets["china_customs_bulletin"]["provenance"],
+            "brazil_destinations": datasets["brazil_destinations"]["provenance"],
             "indonesia_coal": datasets["indonesia_coal"]["provenance"],
             "argentina_grain": datasets["argentina_grain"]["provenance"],
             "world_steel": datasets["world_steel"]["provenance"],
@@ -1771,6 +1816,7 @@ def main():
     guinea_data = process_guinea_bauxite()
     who_feeds_china_data = process_who_feeds_china()
     china_bulletin_data = process_china_customs_bulletin()
+    brazil_dest_data = process_brazil_destinations()
     indonesia_coal_data = process_indonesia_coal()
     argentina_grain_data = process_argentina_grain()
     world_steel_data = process_world_steel()
@@ -1794,6 +1840,7 @@ def main():
         "guinea_bauxite": guinea_data,
         "who_feeds_china": who_feeds_china_data,
         "china_customs_bulletin": china_bulletin_data,
+        "brazil_destinations": brazil_dest_data,
         "indonesia_coal": indonesia_coal_data,
         "argentina_grain": argentina_grain_data,
         "world_steel": world_steel_data,
@@ -1825,6 +1872,7 @@ def main():
         "guinea_bauxite": guinea_data,
         "who_feeds_china": who_feeds_china_data,
         "china_customs_bulletin": china_bulletin_data,
+        "brazil_destinations": brazil_dest_data,
         "indonesia_coal": indonesia_coal_data,
         "argentina_grain": argentina_grain_data,
         "world_steel": world_steel_data,

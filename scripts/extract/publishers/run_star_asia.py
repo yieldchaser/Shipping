@@ -20,6 +20,7 @@ would both be WRONG here.
 """
 from __future__ import annotations
 
+import datetime
 import json
 import re
 import sys
@@ -1457,9 +1458,24 @@ def _num(s):
     return float(s) if re.fullmatch(r"\d+(\.\d+)?", s) else ""
 
 
+def _year_typo(y: str) -> str:
+    """A printed year outside 2015-2030 whose two middle digits are transposed ("2206" for 2026, W24-W33 2026
+    tables) is read as the plain year; anything else is not a date."""
+    if 2015 <= int(y) <= 2030:
+        return y
+    swapped = y[0] + y[2] + y[1] + y[3]
+    return swapped if 2015 <= int(swapped) <= 2030 else ""
+
+
 def _iso(s):
     m = re.fullmatch(r"(\d\d)\.(\d\d)\.(\d{4})", s)
-    return f"{m.group(3)}-{m.group(2)}-{m.group(1)}" if m else ""
+    if not m:
+        return ""
+    y = _year_typo(m.group(3))
+    try:
+        return datetime.date(int(y), int(m.group(2)), int(m.group(1))).isoformat() if y else ""
+    except ValueError:
+        return ""
 
 
 def series_rows(md_text: str, pdf_name: str, pdf_rel: str) -> dict:
@@ -1489,7 +1505,8 @@ def series_rows(md_text: str, pdf_name: str, pdf_rel: str) -> dict:
                 if not raw:
                     continue
                 if _iso(raw):
-                    row[f"{k}_date_note"] = "EU_DDMMYYYY"
+                    row[f"{k}_date_note"] = ("EU_DDMMYYYY" if _iso(raw)[:4] == raw[-4:]
+                                             else f"EU_DDMMYYYY; printed year {raw[-4:]} read as {_iso(raw)[:4]}")
                 else:
                     row[f"{k}_date_status"] = raw; row[f"{k}_date_note"] = "STATUS"
             deals.append(row)

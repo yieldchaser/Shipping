@@ -3,6 +3,9 @@ name: Upstream Physical Commodity Flows & Port Logistics
 on:
   schedule:
     - cron: '0 6 * * 1' # Runs every Monday at 06:00 UTC
+  push:
+    branches: [main]
+    paths: ['data/commodities/inbox/*.csv']   # a dropped GACC export is imported at once
   workflow_dispatch:
     inputs:
       comexstat_full:
@@ -139,6 +142,17 @@ jobs:
           COMEXSTAT_FULL_HISTORY: ${{ inputs.comexstat_full || '0' }}
         run: python scripts/scrapers/fetch_comexstat_brazil.py
 
+      - name: Scrape Brazil ComexStat exports by destination
+        id: step_comexstat_dest
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python scripts/scrapers/fetch_comexstat_brazil_destinations.py
+
+      - name: Import China partner files from the inbox
+        id: step_china_inbox
+        continue-on-error: true
+        timeout-minutes: 5
+        run: python scripts/scrapers/import_china_partner_inbox.py
 
       - name: Rebuild Frontend Cargo Cache
         if: always()
@@ -158,13 +172,25 @@ jobs:
       - name: Verify Miners Provenance
         run: python scripts/verify/verify_miners_provenance.py
 
+      # A failing dataset is reverted on its own (the validator lists it) and every other dataset still commits;
+      # the run is failed at the end. When this step blocked the commit, one bad series (world steel 2026-10)
+      # discarded every scraped dataset each week, PPA September 2026 among them (2026-10-19 .. 11-01).
       - name: Validate Commodity Data Quality & Provenance
-        run: python scripts/verify/validate_cargo_data.py
+        id: step_validate
+        continue-on-error: true
+        run: python scripts/verify/validate_cargo_data.py --rejected-out "$RUNNER_TEMP/rejected_datasets.txt"
 
       - name: Commit and Push Updated Data
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -s "$RUNNER_TEMP/rejected_datasets.txt" ]; then
+            while IFS= read -r f; do
+              [ -z "$f" ] && continue
+              echo "Validator rejected $f: keeping the committed version"
+              if git ls-files --error-unmatch "$f" >/dev/null 2>&1; then git checkout HEAD -- "$f"; else rm -f "$f"; fi
+            done < "$RUNNER_TEMP/rejected_datasets.txt"
+          fi
           git add data/commodities/ data/congestion/ data/derived/ data/cargo/ data/provenance/
           if git diff --staged --quiet; then
             echo "No changes to commit"
@@ -196,7 +222,9 @@ jobs:
             'Argentina Grain': '${{ steps.step_argentina_grain.outcome }}',
             'PSA Nickel': '${{ steps.step_psa_nickel.outcome }}',
             'India TradeStat': '${{ steps.step_india_tradestat.outcome }}',
-            'Brazil ComexStat': '${{ steps.step_comexstat.outcome }}'
+            'Brazil ComexStat': '${{ steps.step_comexstat.outcome }}',
+            'Brazil Destinations': '${{ steps.step_comexstat_dest.outcome }}',
+            'China Partner Inbox': '${{ steps.step_china_inbox.outcome }}'
           }
           print('=================================================================')
           print('UPSTREAM COMMODITY FLOW SCRAPERS EXECUTION SUMMARY')
@@ -218,6 +246,13 @@ jobs:
           else:
             print('All upstream commodity scrapers succeeded!')
           "
+
+      - name: Fail the run on rejected datasets
+        if: always() && steps.step_validate.outcome == 'failure'
+        run: |
+          echo "Validator rejected datasets (reverted, not committed): see the Validate Commodity Data Quality step."
+          cat "$RUNNER_TEMP/rejected_datasets.txt" 2>/dev/null || true
+          exit 1
 
       - name: Fail the run on stale datasets
         if: always() && steps.step_freshness.outcome == 'failure'
