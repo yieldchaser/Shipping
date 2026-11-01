@@ -1319,7 +1319,10 @@ SIDECAR_DEALS_COLS = DEALS_COLS[:20]
 def _md_tables_all(t, head):
     """Every pipe table under a heading starting with `head` (S&P tables recur per sector and as continuations)."""
     out = []
-    for m in re.finditer(rf"^#+ {re.escape(head)}[^\n]*", t, re.M):
+    # some MDs carry the values / history / metals title as plain text; S&P pages without a heading are mangled
+    # tables (split names), so they still need one
+    pre = r"#+ " if head == "Sale & Purchase" else r"(?:#+ )?"
+    for m in re.finditer(rf"^{pre}{re.escape(head)}[^\n]*", t, re.M):
         i = t.find("\n|", m.end())
         nxt = re.search(r"^#", t[m.end():], re.M)
         if i < 0 or (nxt and m.end() + nxt.start() < i):

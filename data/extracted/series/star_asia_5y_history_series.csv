@@ -127,10 +127,10 @@ issue_date,report_week,destination,year_2021,year_2022,year_2023,year_2024,year_
 2026-09-18,38,"CHATTOGRAM, BANGLADESH",580,620,510,510,410,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
 2026-09-18,38,"GADDANI, PAKISTAN",595,590,520,500,440,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
 2026-09-18,38,"ALIAGA, TURKEY",300,300,310,340,290,corpus/01-brokers/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.pdf
-2025-01-10,12,"ALANG, INDIA",810,570,530,500,,corpus/01-brokers/star_asia/2025/star_asia_2025_W01_Market-report-Week-12.pdf
-2025-01-10,12,"CHATTOGRAM, BANGLADESH",850,590,560,510,,corpus/01-brokers/star_asia/2025/star_asia_2025_W01_Market-report-Week-12.pdf
-2025-01-10,12,"GADDANI, PAKISTAN",800,580,520,520,,corpus/01-brokers/star_asia/2025/star_asia_2025_W01_Market-report-Week-12.pdf
-2025-01-10,12,"ALIAGA, TURKEY",300,300,320,320,,corpus/01-brokers/star_asia/2025/star_asia_2025_W01_Market-report-Week-12.pdf
+2025-01-10,1,"ALANG, INDIA",810,570,530,500,,corpus/01-brokers/star_asia/2025/star_asia_2025_W01_Market-report-Week-12.pdf
+2025-01-10,1,"CHATTOGRAM, BANGLADESH",850,590,560,510,,corpus/01-brokers/star_asia/2025/star_asia_2025_W01_Market-report-Week-12.pdf
+2025-01-10,1,"GADDANI, PAKISTAN",800,580,520,520,,corpus/01-brokers/star_asia/2025/star_asia_2025_W01_Market-report-Week-12.pdf
+2025-01-10,1,"ALIAGA, TURKEY",300,300,320,320,,corpus/01-brokers/star_asia/2025/star_asia_2025_W01_Market-report-Week-12.pdf
 2025-01-18,3,"ALANG, INDIA",810,570,530,510,,corpus/01-brokers/star_asia/2025/star_asia_2025_W03_Market-report-Week-3.pdf
 2025-01-18,3,"CHATTOGRAM, BANGLADESH",850,590,560,510,,corpus/01-brokers/star_asia/2025/star_asia_2025_W03_Market-report-Week-3.pdf
 2025-01-18,3,"GADDANI, PAKISTAN",800,580,520,520,,corpus/01-brokers/star_asia/2025/star_asia_2025_W03_Market-report-Week-3.pdf
@@ -787,3 +787,7 @@ issue_date,report_week,destination,year_2021,year_2022,year_2023,year_2024,year_
 2026-10-23,43,"CHATTOGRAM, BANGLADESH",610,600,480,460,400,corpus/01-brokers/star_asia/2026/star_asia_26_10_2026_star_asia_shipbroking_weekly_market_report_week_43.pdf
 2026-10-23,43,"GADDANI, PAKISTAN",600,580,510,480,420,corpus/01-brokers/star_asia/2026/star_asia_26_10_2026_star_asia_shipbroking_weekly_market_report_week_43.pdf
 2026-10-23,43,"ALIAGA, TURKEY",300,320,300,360,280,corpus/01-brokers/star_asia/2026/star_asia_26_10_2026_star_asia_shipbroking_weekly_market_report_week_43.pdf
+2026-05-09,19,"Alang, India",480,640,520,520,460,corpus/01-brokers/star_asia/2026/star_asia_2026_W19_Market-report-Week-19.pdf
+2026-05-09,19,"Chattogram, Bangladesh",530,660,550,540,460,corpus/01-brokers/star_asia/2026/star_asia_2026_W19_Market-report-Week-19.pdf
+2026-05-09,19,"Gaddani, Pakistan",530,670,0,530,460,corpus/01-brokers/star_asia/2026/star_asia_2026_W19_Market-report-Week-19.pdf
+2026-05-09,19,"Aliaga, Turkey",250,420,310,320,280,corpus/01-brokers/star_asia/2026/star_asia_2026_W19_Market-report-Week-19.pdf

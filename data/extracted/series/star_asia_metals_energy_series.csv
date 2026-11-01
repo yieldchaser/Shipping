@@ -1390,3 +1390,12 @@ issue_date,report_week,category,index_name,units,price,change,pct_change,contrac
 2026-10-23,43,Energy,Brent Crude (ICE),USD / bbl.,117.16,+3.99,+3.53%,DEC 2026,corpus/01-brokers/star_asia/2026/star_asia_26_10_2026_star_asia_shipbroking_weekly_market_report_week_43.pdf
 2026-10-23,43,Energy,Crude Oil (Tokyo),JPY / kl,"109,800.00","+1,910.00",+1.77%,OCT 2026,corpus/01-brokers/star_asia/2026/star_asia_26_10_2026_star_asia_shipbroking_weekly_market_report_week_43.pdf
 2026-10-23,43,Energy,Natural Gas (Nymex),USD / MMBtu,2.65,-0.14,-5.08%,NOV 2026,corpus/01-brokers/star_asia/2026/star_asia_26_10_2026_star_asia_shipbroking_weekly_market_report_week_43.pdf
+2025-04-11,15,Industrial Metals,Copper (Comex),USD / lb.,452.30,+18.65,,May 2025,corpus/01-brokers/star_asia/2025/star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Industrial Metals,3Mo Copper (L.M.E.),USD / MT,"9,154.50",+166.50,,N/A,corpus/01-brokers/star_asia/2025/star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Industrial Metals,3Mo Aluminum (L.M.E.),USD / MT,"2,396.50",+26.50,,N/A,corpus/01-brokers/star_asia/2025/star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Industrial Metals,3Mo Zinc (L.M.E.),USD / MT,"2,651.50",+10.50,,N/A,corpus/01-brokers/star_asia/2025/star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Industrial Metals,3Mo Tin (L.M.E.),USD / MT,"31,219.00",+561.00,,N/A,corpus/01-brokers/star_asia/2025/star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Energy,WTI Crude Oil (Nymex),USD / bbl.,61.50,+1.43,,May 2025,corpus/01-brokers/star_asia/2025/star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Energy,Brent Crude (ICE.),USD / bbl.,64.76,+1.43,,Jun 2025,corpus/01-brokers/star_asia/2025/star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Energy,Crude Oil (Tokyo),J.P.Y. / kl,"61,300.00","-1,150.00",,Apr 2025,corpus/01-brokers/star_asia/2025/star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Energy,Natural Gas (Nymex),USD / MMBtu,3.53,-0.03,,May 2025,corpus/01-brokers/star_asia/2025/star_asia_2025_W15_Market-report-Week-15.pdf
