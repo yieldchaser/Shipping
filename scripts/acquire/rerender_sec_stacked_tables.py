@@ -62,8 +62,64 @@ def table_blocks(lines):
     return out
 
 
+def stacked_cell_any(cells, stacked_cell) -> bool:
+    return any(stacked_cell(c) for c in cells)
+
+
 def block_is_stacked(block_lines, stacked_cell) -> bool:
     return any(stacked_cell(c) for ln in block_lines for c in ln.split("|")[1:-1])
+
+
+SEPARATOR = re.compile(r"^\|\s*:?-{3,}")
+
+
+def norm_label(cell: str) -> str:
+    return re.sub(r"[^a-z0-9]+", " ", cell.replace("\\", "").lower()).strip()
+
+
+def row_match(block, fresh_rows, used_rows):
+    """Fresh rows that hold exactly this stacked block's values.
+
+    Fresh tables do not always break where the stored ones do (2025 SBLK cash flow: one fresh table, three stored
+    blocks), so whole-block matching misses them. Anchor on the block's first line item: the fresh row whose label
+    starts the block's first cell, then take consecutive fresh rows while their numbers stay inside the block's
+    multiset; accept only when the two multisets are equal. Returns (start, end) in fresh_rows or None."""
+    bag = number_bag(block)
+    first = next((ln.split("|")[1] for ln in block if not SEPARATOR.match(ln)), "")
+    head = norm_label(first)
+    if not head:
+        return None
+    for i, (_ln, label, _b) in enumerate(fresh_rows):
+        if i in used_rows or not label or not head.startswith(label):
+            continue
+        acc = Counter()
+        for j in range(i, len(fresh_rows)):
+            if j in used_rows:
+                break
+            acc += fresh_rows[j][2]
+            if acc - bag:  # a value the block does not hold
+                break
+            if acc == bag:
+                return i, j + 1
+    return None
+
+
+VALUE = re.compile(r"^(?:\\?\$?\(?\d[\d,]*(?:\.\d+)?\)?%?|—|-|–)$")
+
+
+def split_short_row(row: str, ncol: int) -> str:
+    """A value cell that holds the values of the cells after it, e.g. "| Offering expenses paid | (96) — |  |" in a
+    3-column table (the converter put both years in one cell and left the next empty): the values are spread over
+    that cell and the empty or missing cells to its right. Applied only when the counts are exact."""
+    cells = row.split("|")[1:-1]
+    cells += [" "] * max(0, ncol - len(cells))
+    for k in range(1, len(cells)):
+        toks = cells[k].split()
+        rest = cells[k + 1:]
+        if len(toks) > 1 and all(VALUE.match(t) for t in toks) and len(rest) >= len(toks) - 1                 and all(not c.strip() for c in rest[:len(toks) - 1])                 and all(not c.strip() for c in cells[1:k]):
+            new = cells[:k] + [f" {t} " for t in toks] + rest[len(toks) - 1:]
+            return "|" + "|".join(new) + "|"
+    return row
 
 
 def fresh_markdown(meta: dict) -> str:
@@ -121,17 +177,43 @@ def rerender(path_str: str, dry_run: bool = False) -> dict:
         blk = new_lines[s:e]
         if not block_is_stacked(blk, stacked_cell):
             candidates.append((s, e, number_bag(blk)))
-    used = set()
+    # fresh data rows (no separators, no repeated "Line Item" header rows) for row-level matching
+    fresh_rows = []
+    for s, e in table_blocks(new_lines):
+        for ln in new_lines[s:e]:
+            cells = ln.split("|")[1:-1]
+            if SEPARATOR.match(ln) or not cells or cells[0].strip() == "Line Item" or stacked_cell_any(cells, stacked_cell):
+                continue
+            fresh_rows.append((ln, norm_label(cells[0]), number_bag([ln])))
+    used, used_rows = set(), set()
     replace = {}
     for s, e in stacked_blocks:
         bag = number_bag(lines[s:e])
         hit = next((k for k, (_s, _e, b) in enumerate(candidates) if k not in used and b == bag), None)
-        if hit is None:
+        if hit is not None:
+            used.add(hit)
+            cs, ce, _ = candidates[hit]
+            replace[s] = (e, new_lines[cs:ce])
+            continue
+        rows = row_match(lines[s:e], fresh_rows, used_rows)
+        if rows is None or not bag:
             st["unmatched"] += 1
             continue
-        used.add(hit)
-        cs, ce, _ = candidates[hit]
-        replace[s] = (e, new_lines[cs:ce])
+        r0, r1 = rows
+        # label-only rows (section headings such as "Changes in operating assets and liabilities:") that the
+        # stored block carries right after its values belong to it as well
+        block_text = norm_label(" ".join(lines[s:e]))
+        while (r1 < len(fresh_rows) and r1 not in used_rows and not fresh_rows[r1][2]
+               and fresh_rows[r1][1] and fresh_rows[r1][1] in block_text):
+            r1 += 1
+        used_rows.update(range(r0, r1))
+        body = [fresh_rows[k][0] for k in range(r0, r1)]
+        ncol = max(len(b.split("|")) - 2 for b in body)
+        body = [split_short_row(b, ncol) for b in body]
+        header = "| Line Item | " + " | ".join(f"Col {c}" for c in range(2, ncol + 1)) + " |"
+        sep = "| :--- | " + " | ".join("---:" for _ in range(2, ncol + 1)) + " |"
+        replace[s] = (e, [header, sep] + body)
+        st["row_matched"] = st.get("row_matched", 0) + 1
     st["replaced"] = len(replace)
 
     if not replace:
