@@ -6,7 +6,7 @@ week: 51
 date_range: "2020-12-14 to 2020-12-16"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-11-02 17:15:06"
+generated_at: "2026-11-02 23:58:39"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 51, 2020
