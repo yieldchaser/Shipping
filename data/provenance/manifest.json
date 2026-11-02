@@ -121,12 +121,12 @@
       "fetch_method": "Wayback PDF Parse",
       "fetch_script": "scripts/scrapers/fetch_australia_ppa.py",
       "output_file": "data/commodities/australia_ppa_iron_ore.csv",
-      "row_count": 423,
+      "row_count": 425,
       "date_span": [
         "2002-07-01",
-        "2026-08-01"
+        "2026-09-01"
       ],
-      "last_fetched_utc": "2026-11-02T13:12:55Z",
+      "last_fetched_utc": "2026-11-02T15:57:50.460776+00:00",
       "unit": "Throughput MT",
       "is_derived": false,
       "derivation": null,
@@ -2137,12 +2137,12 @@
       "fetch_method": "Multi-Source National Statistics Harvesters",
       "fetch_script": "scripts/scrapers/fetch_minor_bulks.py",
       "output_file": "data/commodities/minor_bulks_monthly.csv",
-      "row_count": 667,
+      "row_count": 672,
       "date_span": [
         "2013-01-01",
         "2026-09-01"
       ],
-      "last_fetched_utc": "2026-10-19T08:24:17.106091+00:00",
+      "last_fetched_utc": "2026-11-02T16:22:03.795379+00:00",
       "unit": "Tonnes / USD FOB/CIF",
       "is_derived": false,
       "derivation": null
@@ -2156,16 +2156,16 @@
       "fetch_method": "Official Monthly Production Press Releases Harvester",
       "fetch_script": "scripts/scrapers/fetch_world_steel_production.py",
       "output_file": "data/commodities/world_crude_steel_monthly.csv",
-      "row_count": 33,
+      "row_count": 31,
       "date_span": [
         "2024-01-01",
         "2026-09-01"
       ],
-      "last_fetched_utc": "2026-11-01T14:31:47.486705+00:00",
+      "last_fetched_utc": "2026-11-02T16:22:14.120518+00:00",
       "unit": "Mt / month",
       "is_derived": false,
       "derivation": null,
-      "notes": "Monthly world crude steel production across 70 reporting countries (~98% global output) spanning 2024-01-01 to 2026-09-01 (33 months). Key macro demand indicator for iron ore (Capesize) and coking coal (Panamax)."
+      "notes": "Monthly world crude steel production across 70 reporting countries (~98% global output) spanning 2024-01-01 to 2026-09-01 (31 months). Key macro demand indicator for iron ore (Capesize) and coking coal (Panamax)."
     },
     {
       "series_id": "commodities_argentina_grain_exports_monthly",
@@ -2181,7 +2181,7 @@
         "2022-01-01",
         "2026-09-01"
       ],
-      "last_fetched_utc": "2026-10-19T07:19:49.517660+00:00",
+      "last_fetched_utc": "2026-11-02T16:22:55.965145+00:00",
       "unit": "Mt / month",
       "is_derived": false,
       "derivation": null,
