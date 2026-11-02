@@ -225,3 +225,5 @@ ts_utc,segment,tenor,price,settle
 2026-11-02T12:59:04Z,panamax,Nov,17300,17264
 2026-11-02T13:07:07Z,supramax,Nov,20000,19604
 2026-11-02T13:09:08Z,panamax,Dec,17850,17786
+2026-11-02T13:31:14Z,supramax,Nov,20150,19604
+2026-11-02T13:31:14Z,supramax,Dec,19000,18639
