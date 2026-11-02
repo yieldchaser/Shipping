@@ -1,0 +1,80 @@
+---
+title: "Fearnleys Weekly Report - Week 41, 2026"
+issue_date: "2026-10-08"
+year: 2026
+report_week: 41
+publisher: "Fearnleys"
+category: "market_report"
+pages: 20
+source_file: "corpus/01-brokers/fearnleys/2026/fearnleys_08_10_2026_fearnleys_week_41_2026.pdf"
+---
+
+# Fearnleys Weekly Report - Week 41, 2026
+
+**Week 41 - October 7, 2026**
+
+source: `corpus/01-brokers/fearnleys/2026/fearnleys_08_10_2026_fearnleys_week_41_2026.pdf`  |  pages: 20
+
+## 01 Tankers
+
+### VLCC
+
+We’re finding it challenging to describe the same in a different way, but in the word of one player: “it’s soon WS 1000 in all segments for some enquires or another”. Said with the tongue in the cheek of course, but indicative of the sentiment, and a quick glance at the position lists does not bode much reprieve for charterers any time soon. These historical rates and corresponding earning might paradoxically be the only thing possibly capping continued upward movement. Do I push for another few points or do I take my USD Gazillion a day earnings and move on? Oil supply continues to increase, and shipping data shows regional crude exports from the Middle East actually exceeded pre-war levels on several days in late September. The VLCCs smaller sisters, Suez- and Aframaxes, are showing no sign of slowing down either so there’s really nowhere to hide right now.
+
+### Suezmax
+
+Despite further coverage ex-West Africa, we still have approx 10 mbbls left for 3rd decade. In terms of demand elsewhere, CPC should be largely closed out for Oct, with new stems released next week, while Guyana also has healthy coverage for Oct. From the USG, Aframaxes remain competitive against Suezmaxes on a USD/bbl basis. Supply wise, there are 7 FOC (2x20+) and 10 ETS next 7 days (2x18+ / 1x15+) that could make Oct dates agw. On the surface, this appears to be a manageable supply/demand ratio. However, those VLCCs willing to trade in the Atlantic for October/early November dates have been completely hoovered up, while Fujairah rates continue to provide sufficient pull to retain owners' attention in the East. As such, securing coverage now is of high importance, as November is poised to continue funnelling a high proportion of cargoes towards Suezmaxes. Additionally, we expect to see the full impact of the armada of tonnage already fixed East, leaving supply under extreme pressure in the West and further exacerbated by seasonal weather delays.
+
+### Aframax
+
+#### North Sea
+
+The Aframax tonnage list in the North Sea is not looking too tight on paper. But the actual candidates for North Sea loadings in the current fixing window are more or less close to nothing. Surrounding markets are offering better returns for owners and will as such ballast out of the area. We expect further upward pressure on rates moving forward in October.
+
+#### Mediterranean
+
+Rates for the local Mediterranean/Black Sea market is at all time high levels. Despite plenty of vessels on the front end of the list and still quite a few of cargoes still outstanding, there is a Mexican standoff at the moment as charterers are trying to repeat levels around last-done while most of the owners are still pushing for higher. Cashing out on some positions seems to be a good choice though but sentiment prevails now over fundamentals.
+
+> Rate, price and activity cards of this chapter are not reproduced: Fearnleys rates and prices come from the Fearnpulse API series.
+
+## 02 Dry Bulk
+
+### Capesize
+
+This week on Capesize, major trade routes in general have seen noticeable decline as Chinese National Holidays combined with a dip in Iron Ore prices sees less trading and weaker demand in certain regions. On C5 we saw slow activity early week with levels in the low USD 14s. Today tells a different story, with markets showing signs of improvement, triggering a flurry of fixtures for 2H October laycans ex Australia. So far today we have seen approximately 17 Pacific fixtures ranging from low USD 14s to mid-high 14 levels, with highest done at USD 14.7. On C3 Brazil/China however, recovery yet to be seen. The Baltic indicates a further dip on C3 to USD 34.66 as limited fresh activity combined with long tonnage lists head for Brazil. Owners have mostly remained quiet so far today, as many wait and watch the market - with hope of stabilization as seen in the Pacific. Some offers seen in the USD 35s and rumors of a fixture at USD 34.20 was reported this morning for an early November laycan. While FFAs show overall improvement, C3 remains bearish with limited fresh activity near term, while Pacific C5 regains traction, overtaking C3 as the higher daily earner. Daily Earnings (TCE) C5: 34860 vs C3: 31183
+
+### Panamax
+
+The Panamax market has traded broadly sideways through Golden Week in China, with the latest BPI gains pointing to selective firming rather than a sustained recovery. In the Atlantic, fresh NCSA grain inquiry is supporting TA business and October ECSA positions remain relatively tight, while FH activity is quieter and bid–offer spreads remain wide. The Pacific has regained some momentum on Aussie and NoPac business, although limited Indo inquiry continues to restrain the southern market. Period interest persists, and the FFA curve has firmed at the front end, but its discount into next year argues for a measured outlook; our in-house shipment research shows stronger Atlantic coal and Pacific grain flows against weaker Indian Ocean volumes, suggesting a position-led market rather than uniform tightening across both basins.
+
+### Supramax
+
+The Handy market has remained strong across both basins, where we see numerous strong fixtures for both transatlantic and transpacific trips. Still seeing a healthy amount of short-period and multiple laden-leg fixtures at healthy levels, with owners eager to fixing out whilst holding firm on rates.
+
+The Supra- and Ultramax market softened a touch in terms of longer periods, but owners are still generally holding firm and rather fixing trips than caving to softer numbers. Despite newly set sanctions by the US, the Supra- and Ultramaxes have been heavily supported by scrap out of ARAG to East Mediterranean and managed to keep a balanced supply and demand.
+
+> Rate, price and activity cards of this chapter are not reproduced: Fearnleys rates and prices come from the Fearnpulse API series.
+
+## 03 Gas
+
+### Chartering
+
+VLGC freight remains very firm with last deals reported around USD 345 HCvP, and still several potentially uncovered cargos ex US for 1H Nov window. We have seen 13 fixtures for Nov laycans thus far (7/6/0 by decade) versus a monthly average of 33-34 deals/month over the last 3 months. We count about 10+ open ships up until 20th Nov bss USG, and expect current levels to sustain for current fixing windows.
+
+> Rate, price and activity cards of this chapter are not reproduced: Fearnleys rates and prices come from the Fearnpulse API series.
+
+## 04 Newbuilding
+
+> Rate, price and activity cards of this chapter are not reproduced: Fearnleys rates and prices come from the Fearnpulse API series.
+
+## 05 Sale & Purchase
+
+> Rate, price and activity cards of this chapter are not reproduced: Fearnleys rates and prices come from the Fearnpulse API series.
+
+## 06 Market Brief
+
+> Rate, price and activity cards of this chapter are not reproduced: Fearnleys rates and prices come from the Fearnpulse API series.
+
+## Disclaimer
+
+All rates published in this report do not necessarily reflect actual transactions occurring in the market. Certain estimates may be based on prevailing market conditions. In some circumstances, rates for certain vessel types are based on theoretical assumptions of premium or discount for particular vessel versus other vessel types.'

@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2951,
-      "untracked_bytes": 2297446628
+      "untracked_files": 2955,
+      "untracked_bytes": 2299219220
     },
     {
       "path": "corpus/02-hellenic",
@@ -22,8 +22,8 @@
     },
     {
       "path": "corpus/05-seabrokers",
-      "untracked_files": 3,
-      "untracked_bytes": 17460175
+      "untracked_files": 1,
+      "untracked_bytes": 8208648
     },
     {
       "path": "corpus/06-drewry",
@@ -47,6 +47,16 @@
     }
   ],
   "entries": [
+    {
+      "path": "corpus/01-brokers/_digests/advanced_shipping/2026/advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.md",
+      "bytes": 17447,
+      "sha256": "36415e9af1b955f7635779b6a43f6c97d230531c9f6b26cf04144aff664abeca"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/star_asia/2026/star_asia_02_11_2026_star_asia_shipbroking_weekly_market_report_week_44.md",
+      "bytes": 33259,
+      "sha256": "4c666bfeefbca583e0036b4efeed7bb45ec0989587fdf7f417b5ffae1d5333ee"
+    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -1321,6 +1331,11 @@
       "path": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_26_09_2026_advanced_shipping_trading_weekly_shipping_marke.pdf",
       "bytes": 1050793,
       "sha256": "b182986ee6bc84bc699517cf0e25c7e609404ddda0a0b62242835932e02d99c7"
+    },
+    {
+      "path": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf",
+      "bytes": 1028747,
+      "sha256": "8efd0767ce29046bb1b6f384a1af128fd50062b1b7f37db47522797198c4e0b4"
     },
     {
       "path": "corpus/01-brokers/affinity/2021/affinity_2021_Affinity-Tanker-Weekly-01.10.2021-HSN.pdf",
@@ -13256,6 +13271,11 @@
       "path": "corpus/01-brokers/star_asia/2025/star_asia_2025_W52_Market-report-Week-52.pdf",
       "bytes": 857075,
       "sha256": "c4f145f6c5a35fb3be9aa6cb1d1777e3e8675bb4380eacc6c83fa96b875e36cc"
+    },
+    {
+      "path": "corpus/01-brokers/star_asia/2026/star_asia_02_11_2026_star_asia_shipbroking_weekly_market_report_week_44.pdf",
+      "bytes": 693139,
+      "sha256": "85b7d60551547dcc6287897bf5c4112e237970505dd6be8b41c898ffaec7502e"
     },
     {
       "path": "corpus/01-brokers/star_asia/2026/star_asia_05_10_2026_star_asia_shipbroking_weekly_market_report_week_40.pdf",
@@ -40558,19 +40578,9 @@
       "sha256": "73e017e6f01aa7ac5e9ab2de5e1c16b6c7bb3e4a7b351154ecef88926bed9a11"
     },
     {
-      "path": "corpus/05-seabrokers/2026/2026-10-01_market-report-october-2026.md",
-      "bytes": 51609,
-      "sha256": "95c3037ab6090cc5b0fa6a09dcab9748a8eccce1a3d111b093ff1efa4784efa7"
-    },
-    {
       "path": "corpus/05-seabrokers/pdfs/2026-09-01_market-report-september-2026.pdf",
       "bytes": 8208648,
       "sha256": "1e81904eaa453d2ac5b18de8bc2b336f77c00bbf46607a92f269820da515cf11"
-    },
-    {
-      "path": "corpus/05-seabrokers/pdfs/2026-10-01_market-report-october-2026.pdf",
-      "bytes": 9199918,
-      "sha256": "75c2a47879736639ba0ed564bc129781b234783037e9a87d1c2ad2d306173e84"
     },
     {
       "path": "corpus/06-drewry/ais/Drewry_AIS_Crude_Aframax_Week27_2026.pdf",

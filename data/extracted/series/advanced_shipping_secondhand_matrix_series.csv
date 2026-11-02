@@ -8188,3 +8188,35 @@ issue_date,report_week,sector,vessel_class,size_str,age,current_price_usd_mill,p
 2026-10-23,43,Tankers,MR,51k,5 years,53.5,51.5,3.88,advanced_shipping_24_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
 2026-10-23,43,Tankers,MR,47k,10 years,43.5,41.5,4.82,advanced_shipping_24_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
 2026-10-23,43,Tankers,MR,45k,15 years,31.5,29.5,6.78,advanced_shipping_24_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Bulkers,Capesize,180k,Resale,86.5,86.5,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Bulkers,Capesize,180k,5 years,75.5,75.5,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Bulkers,Capesize,180k,10 years,60.0,60.0,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Bulkers,Capesize,176k,15 years,40.5,40.5,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Bulkers,Kamsarmax,82k,Resale,46.5,46.5,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Bulkers,Kamsarmax,82k,5 years,41.5,41.5,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Bulkers,Kamsarmax,82k,10 years,33.0,33.0,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Bulkers,Kamsarmax,82k,15 years,22.5,22.5,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Bulkers,Ultramax,64k,Resale,44.5,43.5,2.3,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Bulkers,Ultramax,63k,5 years,38.5,38.5,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Bulkers,Ultramax,61k,10 years,30.0,30.0,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Bulkers,Supramax,56k,15 years,20.0,19.5,2.56,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Bulkers,Handysize,40k,Resale,37.5,37.5,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Bulkers,Handysize,37k,5 years,31.5,31.5,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Bulkers,Handysize,37k,10 years,25.0,25.0,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Bulkers,Handysize,32k,15 years,13.0,13.0,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Tankers,VLCC,310k,Resale,244.0,244.0,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Tankers,VLCC,310k,5 years,219.0,219.0,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Tankers,VLCC,300k,10 years,194.0,194.0,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Tankers,VLCC,300k,15 years,164.0,164.0,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Tankers,Suezmax,160k,Resale,169.0,169.0,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Tankers,Suezmax,160k,5 years,144.0,144.0,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Tankers,Suezmax,150k,10 years,124.0,124.0,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Tankers,Suezmax,150k,15 years,99.0,99.0,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Tankers,Aframax,110k,Resale,109.0,109.0,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Tankers,Aframax,110k,5 years,94.0,94.0,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Tankers,Aframax,105k,10 years,79.0,79.0,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Tankers,Aframax,105k,15 years,74.0,74.0,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Tankers,MR,52k,Resale,63.0,63.0,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Tankers,MR,51k,5 years,53.5,53.5,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Tankers,MR,47k,10 years,43.5,43.5,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Tankers,MR,45k,15 years,31.5,31.5,0.0,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf

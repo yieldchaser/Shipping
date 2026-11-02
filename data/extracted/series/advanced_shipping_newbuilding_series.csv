@@ -1928,3 +1928,10 @@ issue_date,report_week,section,units,capacity,capacity_raw,capacity_unit,yard,de
 2026-10-23,43,Containers,8,13000.0,13.000,teu,"Hyundai, Korea",2029/2030,"$ 187,5m",187.5,Korean (HMM),LNG DF,4,advanced_shipping_24_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
 2026-10-23,43,Gas,5,174000.0,174.000,cbm,"Hudong-Zhonghua, China",2030,Undisclosed,,Malaysian (MISC),"LNG, Options exercised, 20years T/C to Petronas",4,advanced_shipping_24_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
 2026-10-23,43,Gas,2+1,88000.0,88.000,cbm,"Hengli, China",2029,Undisclosed,,Greek (Alpha Gas),Ammonia,4,advanced_shipping_24_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Bulk Carriers,6,64500.0,64.500,dwt,"Nantong Xiangyu, China",2029/2030,Undisclosed,,Greek (Meadway Bulkers),,4,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Tankers,3,320000.0,320.000,dwt,"IMI, Saudi Arabia",2029/2030,"$ 150,3m",150.3,Saudi Arabian (Bahri),,4,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Tankers,2+2,306000.0,306.000,dwt,"Hengli, China",2029,Undisclosed,,Greek (Venergy),,4,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Tankers,2,50000.0,50.000,dwt,"GSI, China",2029,Undisclosed,,Monaco based (Transocean),,4,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Containers,2,9200.0,9.200,teu,"Hudong-Zhonghua, China",2029,$ 109m,109.0,Greek (Danaos),"Scrubber fitted, LNG/Methanol ready",4,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Containers,6,3100.0,3.100,teu,"Huangpu Wenchong, China",2029/2030,Undisclosed,,Korean (KMTC),,4,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Containers,2,1900.0,1.900,teu,"Guangzhou Wenchong, China",2029,"$ 33,5m",33.5,Vietnamese (Hai An Transport),Scrubber fitted,4,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
