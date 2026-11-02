@@ -52,6 +52,14 @@ jobs:
             | xargs -r python scripts/acquire/backfill_sec_exhibits.py || true
           git ls-files --others --exclude-standard corpus/10-companies | grep -E '\.md$' \
             | xargs -r python scripts/acquire/repair_sec_markdown_tables.py || true
+          # sec2md stacks some statements (VALE 6-Ks): re-render those blocks from the source rows. Writes only when
+          # the file's numbers are unchanged (or a lost value is restored from the source), else leaves it.
+          git ls-files --others --exclude-standard corpus/10-companies | grep -E '\.md$' > new_sec.txt || true
+          if [ -s new_sec.txt ]; then
+            python scripts/audit/detect_sec_stacked_tables.py --paths $(cat new_sec.txt) --list > stacked_sec.txt || true
+            [ -s stacked_sec.txt ] && python scripts/acquire/rerender_sec_stacked_tables.py --list stacked_sec.txt || true
+          fi
+          rm -f new_sec.txt stacked_sec.txt
 
       - name: Commit and push new filings
         run: |

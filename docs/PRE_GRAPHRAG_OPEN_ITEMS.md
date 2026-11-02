@@ -209,9 +209,18 @@ Build plan (layers, schema, DeepSeek runner, budget, phases and gates): `docs/GR
       lost. 8 MDs hold a PDF-origin exhibit as one text line (RIO 20-F 2022/2023, VALE 6-K 2026-07/10). New filings
       come out the same way (VALE 3Q26 6-Ks of 2026-10-30), so it is a converter fix plus a re-render, not new damage.
       2026-11-02: converter fixed (`scripts/acquire/standardize_sec_markdown.py`, tests in
-      `tests/test_sec_stacked_tables.py`); 151 MDs re-rendered by `scripts/acquire/rerender_sec_stacked_tables.py`
-      with 0 number differences (placeholder `Col N` headers aside). 45 left for review: 9 PDF-origin exhibits and 36
-      where the re-render's numbers differ from the stored MD (`scripts/audit/detect_sec_stacked_tables.py` lists them).
+      `tests/test_sec_stacked_tables.py`). `scripts/acquire/rerender_sec_stacked_tables.py` re-renders stacked
+      blocks from a fresh conversion, then row by row, then from the source HTML rows; the file's numbers must be
+      identical, except values the old conversion had LOST, which are put back from the SEC source and reported
+      (EDRY 20-F 2026 "Non-vested on January 1, 2024" 88,400 / 14.63; SFL 20-F 2021/2022 four vessel rows).
+      Done: 151 + 17 + 6 filings. `scripts/audit/detect_sec_stacked_tables.py` now lists 26 files, none of them
+      unexplained:
+      - 9 PDF-origin exhibits that are one text line (RIO 20-F 2022/2023, VALE 6-K): need a PDF table parse.
+      - 12 tables where the SEC source cell itself holds that text (BHP result boxes and KPI scorecards, TRMD vote
+        tables, GNK pay table, RIO property box, RIO 2023 pay-performance bars): nothing to repair.
+      - 1 false positive (VALE 20-F 2023 Salobo header: footnote markers read as numbers).
+      - 2 real stacked blocks left: VALE 20-F 2023 actuarial liabilities, VALE 6-K 2026-07-31 (second statement):
+        the header years sit inside the stacked row, so no matcher anchors. Values are present, rows merged.
 - [x] Two Fearnleys app reports of 2024-03-25 (`fearnleys-md/2024/2024-03-25_hogne-aasjords-rapport.md`, `..._rapport-2.md`)
       are empty test posts (a heading; "Test / Hallo"), no PDF. Deleted (owner, 2026-11-02); `run_fearnleys_md_normalized.py` skips their ids.
 - [ ] Poten issues that are emailed but not yet online (2026-10-23, 10-30 not on poten.com on 11-02).
