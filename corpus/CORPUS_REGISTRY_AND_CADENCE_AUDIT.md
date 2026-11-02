@@ -389,7 +389,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/ssy`](../data/extracted/md/ssy)
 - **Publication Cadence:** Weekly (Monday) (Expected day: Monday)
 - **Coverage Span:** `2021-07-05` to `2026-10-26`
-- **Latest Ingested Document:** `ssy_26_10_2026_ssy_atlantic_capesize_index_26_october_2026.pdf` (Status: **CURRENT (7d)**)
+- **Latest Ingested Document:** `ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.pdf` (Status: **CURRENT (7d)**)
 - **Sample Ingested Report (Corpus):** [`ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.pdf`](../corpus/01-brokers/ssy/2026/ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.pdf)
 - **Sample Extracted Markdown (Digest):** [`ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.md`](../data/extracted/md/ssy/2026/ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.md)
 - **Raw Corpus Inventory:** 542 PDFs
@@ -437,7 +437,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/hellenic/demolition`](../data/extracted/md/hellenic/demolition)
 - **Publication Cadence:** Weekly (Saturday/Sunday) (Expected day: Saturday)
 - **Coverage Span:** `2021-07-02` to `2026-10-31`
-- **Latest Ingested Document:** `2026-10-31_gms-week-44-buyers-raise-the-stakes.html` (Status: **CURRENT (2d)**)
+- **Latest Ingested Document:** `2026-10-31_best-oasis-weekly-recycling-market-report-30-october-2026.html` (Status: **CURRENT (2d)**)
 - **Sample Ingested Report (Corpus):** [`2026-10-31_gms-week-44-buyers-raise-the-stakes.html`](../corpus/02-hellenic/demolition/2026/2026-10-31_gms-week-44-buyers-raise-the-stakes.html)
 - **Sample Extracted Markdown (Digest):** [`gms_2026-10-30_week-44_buyers-raise-the-stakes.md`](../data/extracted/md/hellenic/demolition/gms/2026/gms_2026-10-30_week-44_buyers-raise-the-stakes.md)
 - **Raw Corpus Inventory:** 1,959 PDFs, 821 HTML files, 1,215 Images
@@ -485,7 +485,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/clarksons`](../data/extracted/md/clarksons)
 - **Publication Cadence:** Weekly (Friday) (Expected day: Friday)
 - **Coverage Span:** `2021-07-02` to `2026-07-31`
-- **Latest Ingested Document:** `2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf` (Status: **SUPERSEDED (new issues arrive via corpus/01-brokers/clarksons (since 2026-08; last issue on this channel 2026-07-31))**)
+- **Latest Ingested Document:** `2026-07-31_clarksons-hellas-snp-weekly-3.html` (Status: **SUPERSEDED (new issues arrive via corpus/01-brokers/clarksons (since 2026-08; last issue on this channel 2026-07-31))**)
 - **Sample Ingested Report (Corpus):** [`2026-10-27_breakwave-dry-bulk-shipping-report-10-27-2026.html`](../corpus/02-hellenic/shipbuilding/2026/2026-10-27_breakwave-dry-bulk-shipping-report-10-27-2026.html)
 - **Sample Extracted Markdown (Digest):** [`clarksons_23_10_2026_clarksons_hellas_snp_weekly.md`](../data/extracted/md/clarksons/2026/clarksons_23_10_2026_clarksons_hellas_snp_weekly.md)
 - **Raw Corpus Inventory:** 1,041 PDFs, 382 HTML files, 180 Images

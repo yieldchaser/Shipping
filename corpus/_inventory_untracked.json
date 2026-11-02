@@ -2,18 +2,18 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2952,
-      "untracked_bytes": 2297642832
+      "untracked_files": 2951,
+      "untracked_bytes": 2297446628
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4068,
-      "untracked_bytes": 2396656748
+      "untracked_files": 4057,
+      "untracked_bytes": 2389108169
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 23,
-      "untracked_bytes": 3012562
+      "untracked_files": 9,
+      "untracked_bytes": 2035986
     },
     {
       "path": "corpus/04-poten",
@@ -9553,11 +9553,6 @@
       "sha256": "f86b9372365acc1c84b173b9c93b85fd7d5b7eeeae00b44e0e962d6b429b07ff"
     },
     {
-      "path": "corpus/01-brokers/ism/2026/ism_2026_W44_ISM_coaster_week44.pdf",
-      "bytes": 196204,
-      "sha256": "feb9386685699cecf35c50e932c8d635fabed903f06f3c06f4e8e1b8ebd4c829"
-    },
-    {
       "path": "corpus/01-brokers/ism/2026/ism_28_09_2026_ism_coasters_and_mini_bulkers_week_39.pdf",
       "bytes": 204237,
       "sha256": "f86b9372365acc1c84b173b9c93b85fd7d5b7eeeae00b44e0e962d6b429b07ff"
@@ -14823,21 +14818,6 @@
       "sha256": "0bba66ef4bd0790e891d2fa8957aff2678eaaf35df892acb039919ba36270d07"
     },
     {
-      "path": "corpus/02-hellenic/demolition/2026/2026-10-31_best-oasis-weekly-recycling-market-report-30-october-2026.html",
-      "bytes": 3171,
-      "sha256": "0528530d27ef486f8c195c18e9efed9874d71316924afe57811edd2d214a1489"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/2026/2026-10-31_gms-week-44-buyers-raise-the-stakes.html",
-      "bytes": 6809,
-      "sha256": "08fbb32de383fa7254b1940bb88db9a4e743f8da0dd7f8a1b14db2d888e62512"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/2026/assets/2026-10-31_gms-week-44-buyers-raise-the-stakes_75574_09ffb7e49ab3.jpg",
-      "bytes": 43685,
-      "sha256": "cf9f684880a1e77e348357391d76807d23b71ae1631543acf30652a58cf33083"
-    },
-    {
       "path": "corpus/02-hellenic/demolition/pdfs/2024-04-15_Ship-recycling-market-insight-week-15-2024-Ramadan_Resurgence\u2026Or_Not.pdf",
       "bytes": 653148,
       "sha256": "a79a268821e132d8cdeb7fcd037d30c80ded62b9953ad0804fd3f7244207ab74"
@@ -14861,16 +14841,6 @@
       "path": "corpus/02-hellenic/demolition/pdfs/2026-08-15_best-oasis-weekly-recycling-market-report-14-august-2026_weekly-ship-recycling-report-08-augu_4ca6a14ecc27.pdf",
       "bytes": 1526416,
       "sha256": "52b23f9d42d155925f97c66cebc616237a05be249ba46e4de12f1473f63b3c70"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/pdfs/2026-10-31_best-oasis-weekly-recycling-market-report-30-october-2026_weekly-ship-recycling-report-24-octo_c24a971d78fe.pdf",
-      "bytes": 1505333,
-      "sha256": "4a2ce5921d9bdd7373aefcc2ee819d69ea6f2cb1704c207e40b97cd9bf53012a"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/pdfs/2026-10-31_gms-week-44-buyers-raise-the-stakes_ship-recycling-market-insight-week-4_54c17381d48e.pdf",
-      "bytes": 955475,
-      "sha256": "896ae3c6536177de93d35b90fe7df6e2c02bdc83201cf9feee32f272532d070d"
     },
     {
       "path": "corpus/02-hellenic/demolition/pdfs/athenian/2021-07-07_athenian-shipbrokers-s-a-demolition-quick-update-week-26-2021_ship-recycling-weekly-26-2021-atheni_3c137c5215b0.pdf",
@@ -17783,11 +17753,6 @@
       "sha256": "7a526abe182eb3180698b293ecab270c9013bd392dab9c82c8d27534dac96b4e"
     },
     {
-      "path": "corpus/02-hellenic/demolition/pdfs/best_oasis/2026-10-31_best-oasis-weekly-recycling-market-repor_Weekly-Ship-Recycling-Report-24-October-30-October-2026.pdf",
-      "bytes": 1505333,
-      "sha256": "4a2ce5921d9bdd7373aefcc2ee819d69ea6f2cb1704c207e40b97cd9bf53012a"
-    },
-    {
       "path": "corpus/02-hellenic/demolition/pdfs/gms/2021-07-05_gms-week-27-double-trouble_web_818af89830b3.pdf",
       "bytes": 92695,
       "sha256": "7e926d7c780688c2730e09f8d3b78f1f80cfcc722d8d092b87398031a9b35d29"
@@ -20298,24 +20263,9 @@
       "sha256": "94fe795675127664dd244b56e6220edc2549f31123d5660b14bc632eec0a1395"
     },
     {
-      "path": "corpus/02-hellenic/demolition/pdfs/gms/2026-10-31_gms-week-44-buyers-raise-the-stakes_Ship-recycling-market-insight-Week-44-10-30-2026-Buyers-Raise-The-Stakes.pdf",
-      "bytes": 955475,
-      "sha256": "896ae3c6536177de93d35b90fe7df6e2c02bdc83201cf9feee32f272532d070d"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/2024/assets/2024-07-12_mmi-daily-iron-ore-index-report-july-12-2024_img1_1207202\u03b4\u03c3_e133c3395525.jpg",
       "bytes": 469290,
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/2026-11-02_mmi-daily-iron-ore-index-report-november-2-2026.html",
-      "bytes": 4459,
-      "sha256": "f6c0357dca67c2d29b22049d830a06a68fdffb99dc37b8ffce3df11b76b2bf43"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-11-02_mmi-daily-iron-ore-index-report-november-2-2026_02112026chinese32_629cc541c975.jpg",
-      "bytes": 191745,
-      "sha256": "2c58445e4895bef616c47ae21133d677549d57ba653bb6782c1680c5b1ff19ee"
     },
     {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
@@ -30313,11 +30263,6 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-11-02_mmi-daily-iron-ore-index-report-november-2-2026_mmi-daily-iron-ore-report-for-2th-no_ce343ce2bb80.pdf",
-      "bytes": 1188547,
-      "sha256": "fe7032ba64efd69d47f5ed223f8dbf5820ba74b1658f95ede912086e708f08ff"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31706,11 +31651,6 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-11-02_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-2th-November-2026.pdf",
-      "bytes": 1188547,
-      "sha256": "fe7032ba64efd69d47f5ed223f8dbf5820ba74b1658f95ede912086e708f08ff"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -35148,26 +35088,6 @@
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
     },
     {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-02_china-shock-20-rethinking-its-role-in-dry-bulk.html",
-      "bytes": 10742,
-      "sha256": "50fa365eb2a6a817fbccd61771a9cf4647729fb0a42e1153d89a3382245c7eab"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-02_china-shock-20-rethinking-its-role-in-dry-bulk.md",
-      "bytes": 9643,
-      "sha256": "4a6aebde1b544e496e73bc50b995f011b373281b4e81bf6f8fd32319741c7136"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-02_improvement-but-recession-continues-in-china.html",
-      "bytes": 4252,
-      "sha256": "f289fa5d6251112ef859b010480069b1ec454582705408efd6e4340a6be136dd"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-02_improvement-but-recession-continues-in-china.md",
-      "bytes": 2820,
-      "sha256": "37d0fc3fab66f26c3aecb3a82057ac8ac1854c4dc07dd4bd8987f1fffe83b7df"
-    },
-    {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
       "bytes": 69365,
       "sha256": "9848c9a3aaba37a9e84f8cd2263fff62c7771135c466216f51114381d1621e5f"
@@ -35211,56 +35131,6 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-02_china-shock-20-rethinking-its-role-in-dry-bulk_img_2tow1_1192e000532b.png",
-      "bytes": 98167,
-      "sha256": "a0a61cfa8d3500b367a3a96c4046091890bb2949a7a99a916395b601042f4682"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-02_china-shock-20-rethinking-its-role-in-dry-bulk_img_3tow2_950d80534677.png",
-      "bytes": 131234,
-      "sha256": "cfc540120cf88c66481ceebda7f53edc7285f8f1e0f7e094b6ec2a029efb8837"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-02_china-shock-20-rethinking-its-role-in-dry-bulk_img_4tow3_97526768a46d.png",
-      "bytes": 133971,
-      "sha256": "12c98134a73a1d88e82b9c0dd7008fdfdea3d9bce08142f51f40b51479ff277c"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-02_china-shock-20-rethinking-its-role-in-dry-bulk_img_5tow4_b88ab60107f5.png",
-      "bytes": 132987,
-      "sha256": "8f0a05b28e1947c8197fd31301040ace08b8b5be581978d520b1789fb80247c2"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-02_china-shock-20-rethinking-its-role-in-dry-bulk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cee32912057d.png",
-      "bytes": 5766,
-      "sha256": "8875cea4f8b1af88f2b16d668efd0f990c76b464218f7122890a9506aa3c88ce"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-02_china-shock-20-rethinking-its-role-in-dry-bulk_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png",
-      "bytes": 187271,
-      "sha256": "a71e6d4f37fccf966018a1881470c6b0c2d6eb21234a5aa245a44a6f401ba0fe"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-02_improvement-but-recession-continues-in-china_img_chart1_54eac4bae376.jpg",
-      "bytes": 48475,
-      "sha256": "7f653ed3c85d681faf3464f909a410bf44c448f36e2c736a8e9c2fc43c717ee1"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-02_improvement-but-recession-continues-in-china_img_chart2_d8cf4f889009.jpg",
-      "bytes": 65954,
-      "sha256": "06b2977400f72becec15e3aed6883778efdb6a7a12195a46baf492895cf0d761"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-02_improvement-but-recession-continues-in-china_img_chart3_c09674346197.jpg",
-      "bytes": 65280,
-      "sha256": "36be8611bb137fc1b4c8e69414e316998b8b281b2a493c0e03baa28d1ee252ed"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-02_improvement-but-recession-continues-in-china_img_chart4_d403315aa26b.jpg",
-      "bytes": 80014,
-      "sha256": "fb49bb790c7f01a8a3f9fa97b78a5785c46ac154f78d34843777384f4892d0dd"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
