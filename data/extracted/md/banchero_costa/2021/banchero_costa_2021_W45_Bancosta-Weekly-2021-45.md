@@ -24,14 +24,16 @@ In the first 10 months of 2021, LPG imports from the USA to the EU declined by -
 
 | Source | 2019 (1-10) | 2020 (1-10) | 2021 (1-10) |
 | --- | --- | --- | --- |
-| USA | 4 | 5 | - |
-| EU27 | 3.6 | 3.6 | 4 |
-| Algeria | 2.6 | 2.7 | 3 |
-| Norway | 2.9 | 2.8 | 3 |
-| UK | 2 | 1.9 | 1.8 |
+| USA | 4 | 5 | 4 |
+| EU27 | 4 | 4 | 4 |
+| Algeria | 3 | 3 | 3 |
+| Norway | 3 | 3 | 3 |
+| UK | 2 | 2 | 2 |
 | Russia | 2 | 1 | 0 |
 | Libya | 0 | 0 | 0 |
 | Others/Unknown | 1 | 1 | 1 |
+
+> Values as printed on the chart (labels rounded to whole mln tonnes).
 
 ### European Union - Monthly LPG Imports - Seasonality (Nov 2021 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes)
 

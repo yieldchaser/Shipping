@@ -27,13 +27,15 @@ Australia is now back and the third largest supplier of coal into China with a s
 | Source | 2021 (1-5) | 2022 (1-5) | 2023 (1-5) |
 | --- | --- | --- | --- |
 | Indonesia | 56.9 | 41.7 | 76.7 |
-| Russia | 14.1 | 14.9 | 32.5 |
+| Russia |  | 14.9 | 32.5 |
 | Australia | 1.3 | 1.1 | 14.5 |
 | S Africa | 5.2 | 3.4 | 4.0 |
 | Mozamb. | 2.9 | 2.4 | 3.8 |
 | USA | 3.7 | 2.5 | 2.7 |
 | Canada | 3.3 | 3.2 | 2.3 |
 | Others/Unknown | 6.3 | 2.6 | 2.4 |
+
+> Blank cells: the data label is cut off on the page and not readable; values are not estimated from bar heights.
 
 ### China - Monthly Coal Imports - Seasonality (Jun 2023; source: refinitiv; seaborne only; in mln tonnes)
 

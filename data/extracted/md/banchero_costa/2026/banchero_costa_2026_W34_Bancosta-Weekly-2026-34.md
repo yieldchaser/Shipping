@@ -25,13 +25,15 @@ The second largest destination for Australian ore is now Japan, with a 5.6% shar
 | Destination | 2024 (1-7) | 2025 (1-7) | 2026 (1-7) |
 | --- | --- | --- | --- |
 | China | 447 | 455 | 460.1 |
-| Japan | 31.4 | 29.1 | 30.7 |
-| S Korea | 30.1 | 29.4 | 30.6 |
+| Japan |  | 29.1 | 30.7 |
+| S Korea |  | 29.4 | 30.6 |
 | Taiwan, CN | 8.4 | 7.4 | 8.5 |
 | Vietnam | 7.5 | 7.5 | 7.9 |
 | Indonesia | 6.1 | 4.8 | 5.3 |
 | Malaysia | 1.4 | 1.1 | 1.1 |
 | Others/ Unknown | 1.9 | 1.2 | 3.6 |
+
+> Blank cells: the data label is cut off on the page and not readable; values are not estimated from bar heights.
 
 ### Australia - Monthly Iron Ore Exports - Seasonality (aug 2026 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
 

@@ -24,14 +24,16 @@ The top loading port in Brazil for iron ore cargoes to China was Ponta da Madeir
 
 | Source | 2023 (1-5) | 2024 (1-5) | 2025 (1-5) |
 | --- | --- | --- | --- |
-| Australia | 321 | 321 | 312.4 |
+| Australia | 321 |  | 312.4 |
 | Brazil | 90.4 | 107 | 103.0 |
-| S Africa | 13.1 | 12.5 | 14.7 |
-| India | 17.2 | 21.2 | 11.9 |
+| S Africa |  |  | 14.7 |
+| India |  |  | 11.9 |
 | Peru | 9.9 | 10.0 | 7.7 |
 | Canada | 7.6 | 7.1 | 6.9 |
 | Sierra Leone | 4.7 | 4.6 | 5.7 |
-| Others/Unknown | 27.3 | 33.7 | 24.7 |
+| Others/Unknown | 27.3 |  | 24.7 |
+
+> Blank cells: the data label is cut off on the page and not readable; values are not estimated from bar heights.
 
 ### China - Monthly Iron Ore Imports - Seasonality (jun 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
 
