@@ -14,7 +14,8 @@ official MD is a new file and never an edit of a tracked one, which protect_acce
     off chart pictures never ship (the page image itself is kept and linked so every word can be checked)
   - once run_poten.py has written the official MD for that date, the fallback MD is deleted (--retire-only, which CI
     runs after protect_accepted_md.py so the deletion is kept)
-Opinions are one page, so page 1 is the whole issue.
+The image is page 1. Most opinions are one page; a longer issue (2026-07-10, the half-year charterer review) is
+partial until its PDF arrives (--check: recall 0.49 there, 0.95-0.98 on one-page issues).
 
 Usage: fetch_poten_x_fallback.py            write / retire fallback MDs
        fetch_poten_x_fallback.py --retire-only  only delete fallback MDs whose official MD now exists
@@ -44,6 +45,8 @@ SERIES = "poten-tanker-opinion"
 ACCOUNT = "ed_fin"
 MARK = 'extraction: "ocr_x_image"'
 MONTHS = "January|February|March|April|May|June|July|August|September|October|November|December"
+# page footer boilerplate, left out of the PDF-based MDs as well
+FOOTER = re.compile(r"Tanker Opinions are published by", re.I)
 WIN_TESSERACT = Path(r"C:\Program Files\Tesseract-OCR\tesseract.exe")
 if WIN_TESSERACT.exists():
     pytesseract.pytesseract.tesseract_cmd = str(WIN_TESSERACT)
@@ -68,10 +71,13 @@ def image_bytes(row: dict) -> bytes:
     raise FileNotFoundError(row.get("file"))
 
 
-def catalog_rows() -> list[dict]:
+def catalog_rows(filed_only: bool = True) -> list[dict]:
+    """@ed_fin images. The archive files new downloads under the bare account name until they are sorted, so the
+    write pass takes every recent image (filed_only=False) and lets the page header decide (build() needs
+    "TANKER OPINION" and a printed date)."""
     text = http_get(REPO_RAW + "library/catalog.csv").decode("utf-8")
     return [r for r in csv.DictReader(io.StringIO(text))
-            if r["account"] == ACCOUNT and SERIES in (r.get("final_series"), r.get("series"))]
+            if r["account"] == ACCOUNT and (not filed_only or SERIES in (r.get("final_series"), r.get("series")))]
 
 
 def official_md(issue: str) -> Path | None:
@@ -90,18 +96,17 @@ def official_dates() -> set[str]:
     return out
 
 
-def ocr(img: Image.Image) -> dict:
-    """Header date + title, and prose paragraphs in reading order (tesseract page segmentation)."""
-    d = pytesseract.image_to_data(img.convert("L"), config="--psm 3", output_type=pytesseract.Output.DICT)
-    h = img.height
+def paragraphs(img: Image.Image, dx: int = 0, dy: int = 0) -> list[dict]:
+    """Tesseract paragraphs of `img` (page segmentation), positions shifted by (dx, dy) into page coordinates."""
+    d = pytesseract.image_to_data(img, config="--psm 3", output_type=pytesseract.Output.DICT)
     pars: dict[tuple, list] = {}
     for i, w in enumerate(d["text"]):
         if not w.strip():
             continue
         key = (d["block_num"][i], d["par_num"][i])
-        pars.setdefault(key, []).append((d["line_num"][i], w, float(d["conf"][i]), d["top"][i], d["height"][i]))
-    paras = []
-    for key, words in pars.items():
+        pars.setdefault(key, []).append((d["line_num"][i], w, float(d["conf"][i]), d["top"][i] + dy, d["height"][i]))
+    out = []
+    for words in pars.values():
         lines: dict[int, list] = {}
         for ln, w, c, top, ht in words:
             lines.setdefault(ln, []).append(w)
@@ -109,14 +114,50 @@ def ocr(img: Image.Image) -> dict:
         for ln in sorted(lines):
             line = " ".join(lines[ln])
             text = text[:-1] + line if text.endswith("-") and text[-2:-1].isalpha() else (text + " " + line).strip()
-        paras.append({"text": text, "top": min(t for *_, t, _ in words), "nlines": len(lines),
-                      "height": sorted(ht for *_, ht in words)[len(words) // 2],
-                      "conf": sum(c for _, _, c, _, _ in words) / len(words)})
-    header = " ".join(p["text"] for p in paras if p["top"] < 0.12 * h)
+        out.append({"text": text, "top": min(t for *_, t, _ in words), "nlines": len(lines), "left": dx,
+                    "height": sorted(ht for *_, ht in words)[len(words) // 2],
+                    "conf": sum(c for _, _, c, _, _ in words) / len(words)})
+    return out
+
+
+def gutter(img: Image.Image, y0: int) -> int | None:
+    """x of the blank strip between the two page columns, if the body below y0 has one.
+    Whole-page segmentation can read a text column and the chart beside it as one block and lose the text
+    (2026-10-30: the first paragraph vanished), so two-column pages are read one column at a time."""
+    g = img.crop((0, y0, img.width, img.height)).point(lambda v: 255 if v < 160 else 0)
+    w = g.width
+    col_ink = [0] * w
+    px = g.load()
+    for x in range(int(0.3 * w), int(0.7 * w)):
+        col_ink[x] = sum(1 for y in range(0, g.height, 2) if px[x, y])
+    lo, hi = int(0.3 * w), int(0.7 * w)
+    x = min(range(lo, hi), key=lambda i: col_ink[i])
+    return x if col_ink[x] <= 2 else None
+
+
+def ocr(img: Image.Image) -> dict:
+    """Header date + title, and prose paragraphs in reading order (left column, then right)."""
+    grey = img.convert("L")
+    h = img.height
+    page = paragraphs(grey)
+    header = " ".join(p["text"] for p in page if p["top"] < 0.12 * h)
     m = re.search(rf"({MONTHS})\s+(\d{{1,2}})\D{{0,20}}?(20\d\d)", header)
     issue = datetime.strptime(f"{m[1]} {m[2]} {m[3]}", "%B %d %Y").date().isoformat() if m else ""
-    body = [p for p in paras if p["top"] >= 0.12 * h and "TANKER OPINION" not in p["text"].upper()]
-    return {"issue": issue, "is_poten": "TANKER OPINION" in " ".join(p["text"].upper() for p in paras), "paras": body}
+    # the banner is a short line near the top; body prose can say "this week's Tanker Opinion" too (2026-10-30)
+    banners = [p for p in page if "TANKER OPINION" in p["text"].upper() and len(p["text"].split()) <= 5
+               and p["top"] < 0.25 * h]
+    is_poten = bool(banners)
+    paras = page
+    if is_poten:
+        # the column body starts below the banner
+        y0 = max(p["top"] + p["height"] for p in banners) + int(0.01 * h)
+        x = gutter(grey, y0)
+        if x:
+            paras = ([p for p in page if p["top"] < y0] + paragraphs(grey.crop((0, y0, x, h)), 0, y0)
+                     + paragraphs(grey.crop((x, y0, img.width, h)), x, y0))
+    body = [p for p in paras if p["top"] >= 0.12 * h and not any(p is b for b in banners)
+            and not (len(p["text"].split()) <= 5 and "TANKER OPINION" in p["text"].upper())]
+    return {"issue": issue, "is_poten": is_poten, "paras": body}
 
 
 def is_prose(p: dict) -> bool:
@@ -138,7 +179,15 @@ def build(img: Image.Image) -> dict | None:
     title = max(tops, key=lambda p: p["height"])["text"] if tops else ""
     after = [p for p in paras if p["top"] > (max(tops, key=lambda p: p["height"])["top"] if tops else 0)]
     sub = next((p["text"] for p in after if p["nlines"] == 1 and len(p["text"].split()) <= 16 and p["text"] != title), "")
-    prose = [p["text"] for p in paras if is_prose(p) and p["text"] not in (title, sub)]
+    prose: list[str] = []
+    for p in paras:
+        if not is_prose(p) or p["text"] in (title, sub) or FOOTER.match(p["text"]):
+            continue
+        # a sentence running from the foot of one column to the head of the next is one paragraph
+        if prose and not re.search(r"[.!?:\"”’)]$", prose[-1]) and p["text"][:1].islower():
+            prose[-1] += " " + p["text"]
+        else:
+            prose.append(p["text"])
     return {"issue": o["issue"], "title": title.strip(), "subtitle": sub.strip(), "prose": prose}
 
 
@@ -206,25 +255,31 @@ def main() -> int:
     if a.retire_only:
         logging.info("fallback MDs retired %d", retire())
         return 0
-    rows = catalog_rows()
-    logging.info("%d @%s images filed as %s", len(rows), ACCOUNT, SERIES)
     if a.check:
+        rows = catalog_rows()
+        logging.info("%d @%s images filed as %s", len(rows), ACCOUNT, SERIES)
         return check(rows, a.check)
+    rows = catalog_rows(filed_only=False)
     retired = retire()
     have = official_dates()
     since = (date.today() - timedelta(days=a.days)).isoformat()
     written = 0
+    rows = [r for r in rows if r["date"] >= since]
+    logging.info("%d @%s images posted since %s", len(rows), ACCOUNT, since)
     for row in sorted(rows, key=lambda r: r["date"]):
-        if row["date"] < since:
-            continue
-        # issues are dated the Friday before the post; skip the OCR when an official MD covers that week
+        # an issue is dated the Friday before it is posted (next day to Monday): skip the OCR when an official MD is
+        # dated 0-3 days before the post. 8 days would also match the PREVIOUS week's issue (Oct 16 vs a post of Oct
+        # 24) and skip the one that is missing; later posts are OCR'd and settled by the printed date below.
         post = date.fromisoformat(row["date"])
-        if any((post - timedelta(days=k)).isoformat() in have for k in range(0, 9)):
+        if any((post - timedelta(days=k)).isoformat() in have for k in range(0, 4)):
             continue
         raw = image_bytes(row)
         r = build(Image.open(io.BytesIO(raw)))
-        if not r or not r["title"] or len(r["prose"]) < 3:
-            logging.warning("%s: not a readable Poten page (skipped)", row["file"])
+        if not r:
+            logging.debug("%s: not a Poten page", row["file"])
+            continue
+        if not r["title"] or len(r["prose"]) < 3:
+            logging.warning("%s: Poten page %s but the OCR is not readable (skipped)", row["file"], r["issue"])
             continue
         if official_md(r["issue"]):
             continue
