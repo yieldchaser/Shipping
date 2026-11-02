@@ -117,6 +117,12 @@ def collect(root: Path, registry: List[dict], untracked: List[str], parse_date, 
         if same_tree:                       # native-MD sources (SEC filings, books): the MDs are the corpus
             raw = {_rel(root, m[0]): m[1] for m in mds}
 
+        # raw files whose name carries no date (carriers_2026_W43_WK-43-26-...pdf): the issue date of the MD made
+        # from that file. Without it "latest raw" stopped at the last date-named file (Carriers 10-12 vs MD 10-26).
+        md_by_src = {m[2].replace("\\", "/").lstrip("./"): m[1] for m in mds if m[2] and m[1]}
+        for rp in [k for k, d in raw.items() if d is None]:
+            raw[rp] = md_by_src.get(rp)
+
         n_md = len(mds)
         sidecars = sum(1 for m in mds if m[0].with_name(m[0].name[:-3] + ".tables.json").exists())
         tiny = [m[0] for m in mds if m[4]]

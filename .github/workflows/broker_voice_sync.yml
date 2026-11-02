@@ -35,7 +35,8 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests pandas numpy pyarrow
+        # pymupdf/openpyxl/bs4: the Fearnleys-MD extraction and the corpus audit run here too (new reports land here)
+        run: pip install requests pandas numpy pyarrow beautifulsoup4 lxml pymupdf==1.28.2 pillow openpyxl
 
       - name: Pull latest
         run: git pull --rebase --autostash origin main
@@ -50,11 +51,25 @@ jobs:
           python scripts/fearnleys/build_comment_chunks.py || failed="$failed build_comment_chunks"
           python scripts/scrapers/fetch_gibson_catalog.py || failed="$failed fetch_gibson_catalog"
           echo "failed=$failed" >> "$GITHUB_OUTPUT"
+          # new Fearnleys reports arrive here twice a day: extract them and refresh the corpus audit in the same
+          # run (before, the MDs and the audit waited for the weekly Fearnleys job, up to 7 days)
+          python scripts/acquire/cache_fearnleys_report_images.py --download-pdfs || true
+          python scripts/extract/publishers/run_fearnleys_md_full_power.py || true
+          python scripts/verify/build_corpus_inventory.py --merge-existing || true
+          python scripts/sync_extraction_register.py || true
+          python scripts/audit/generate_cadence_audit.py || true
 
       - name: Commit and push
         run: |
+          python scripts/ci/protect_accepted_md.py
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          for tpath in data/extracted/md/fearnleys-md data/extracted/series data/extracted/charts \
+                       data/extracted/EXTRACTION_REGISTER.json docs/EXTRACTION_REGISTER.md \
+                       corpus/_inventory_untracked.json corpus/CORPUS_REGISTRY_AND_CADENCE_AUDIT.md \
+                       docs/CORPUS_CADENCE_AND_AUDIT.md corpus/CORPUS_PUBLICATION_CADENCE_AND_AUDIT.xlsx; do
+            [ -e "$tpath" ] && git add "$tpath" || true
+          done
           git add data/derived/fearnleys_broker_comments.csv \
                   data/derived/fearnleys_comments_tanker.json data/derived/fearnleys_comments_dry.json \
                   data/derived/fearnleys_comments_gas.json data/derived/fearnleys_comments_snp.json \
@@ -69,15 +84,8 @@ jobs:
             exit 0
           fi
           git commit -m "data(broker-voice): sync Fearnleys comments/reports and Gibson catalogue $(date -u +'%Y-%m-%d %H:%M') UTC [skip ci]"
-          for attempt in 1 2 3; do
-            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
-              echo "Push succeeded on attempt $attempt."
-              exit 0
-            fi
-            echo "Push race on attempt $attempt. Retrying in 10s..."
-            sleep 10
-          done
-          echo "Failed to push after 3 attempts."
+          # rebases over concurrent bot pushes; regenerated audit files may conflict, anything else fails
+          bash scripts/ci/push_rebase.sh && exit 0
           exit 1
 
       - name: Fail if a collector failed
