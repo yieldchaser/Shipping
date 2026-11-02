@@ -31,6 +31,9 @@ CATALOG_PATH = ROOT / "data" / "reports" / "fearnleys_reports_catalog.json"
 FMD_DIR = ROOT / "corpus" / "01-brokers" / "fearnleys-md"
 IMG_BASE_DIR = FMD_DIR / "images"
 PDF_BASE_DIR = FMD_DIR / "pdfs"
+# empty test posts in Fearnleys' app (2024-03-25 "Rapport #1" / "Rapport #2": a heading, "Test / Hallo"), not
+# research; kept in the catalog so the sync does not fetch them again, never written as MDs (owner, 2026-11-02)
+TEST_REPORT_IDS = {"6e9d6d29-5a5f-4cd0-9383-98da3803cd12", "c7ca5d42-c463-44ee-acfd-cbf723567508"}
 
 sys.path.insert(0, str(ROOT / "scripts" / "md_cleanup"))
 import fearnleys_md_rebuild  # noqa: E402
@@ -141,6 +144,8 @@ def normalize_all():
     index_entries = []
 
     for rep in catalog:
+        if rep.get("id") in TEST_REPORT_IDS:
+            continue
         rep_date = rep.get("date") or "undated"
         year_str = str(rep_date[:4]) if len(rep_date) >= 4 and rep_date[:4].isdigit() else "2024"
         title = (rep.get("title") or "report").strip()

@@ -212,8 +212,8 @@ Build plan (layers, schema, DeepSeek runner, budget, phases and gates): `docs/GR
       `tests/test_sec_stacked_tables.py`); 151 MDs re-rendered by `scripts/acquire/rerender_sec_stacked_tables.py`
       with 0 number differences (placeholder `Col N` headers aside). 45 left for review: 9 PDF-origin exhibits and 36
       where the re-render's numbers differ from the stored MD (`scripts/audit/detect_sec_stacked_tables.py` lists them).
-- [ ] Two Fearnleys app reports of 2024-03-25 (`fearnleys-md/2024/2024-03-25_hogne-aasjords-rapport.md`, `..._rapport-2.md`)
-      are empty test posts (a heading; "Test / Hallo"), no PDF. Owner: exclude from the GraphRAG input or delete.
+- [x] Two Fearnleys app reports of 2024-03-25 (`fearnleys-md/2024/2024-03-25_hogne-aasjords-rapport.md`, `..._rapport-2.md`)
+      are empty test posts (a heading; "Test / Hallo"), no PDF. Deleted (owner, 2026-11-02); `run_fearnleys_md_normalized.py` skips their ids.
 - [ ] Poten issues that are emailed but not yet online (2026-10-23, 10-30 not on poten.com on 11-02).
       `scripts/scrapers/fetch_poten_x_fallback.py` (daily in `poten_drewry_weekly.yml`) OCRs the page image @ed_fin
       posts on X, from the owner's archive repo yieldchaser/Twitter-Image-Download-, into

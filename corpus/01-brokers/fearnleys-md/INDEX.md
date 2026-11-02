@@ -3,18 +3,17 @@
 This directory contains Fearnleys's proprietary weekly research publications and sector wrap-ups harvested directly from Fearnleys's Hasura API (`custom_report`).
 
 ## Summary Statistics
-- **Total Research Reports:** 190
-- **Total Indicator & Correlation Charts:** 3308
-- **Date Coverage:** 2024-03-25 to 2026-10-30
+- **Total Research Reports:** 188
+- **Total Indicator & Correlation Charts:** 3307
+- **Date Coverage:** 2024-05-08 to 2026-10-30
 
 ### Reports by Year
-- **2024:** 47 reports
+- **2024:** 45 reports
 - **2025:** 74 reports
 - **2026:** 69 reports
 
 ### Reports by Department
 - **BULK:** 127 reports
-- **GENERAL:** 2 reports
 - **LNG:** 24 reports
 - **LPG:** 10 reports
 - **TANK:** 27 reports
@@ -213,5 +212,3 @@ This directory contains Fearnleys's proprietary weekly research publications and
 | 2024-05-22 | BULK | Fearnleys Dry Bulk Weekly | 11 | [2024/2024-05-22_fearnleys-dry-bulk-weekly-22nd-may-2024.md](2024/2024-05-22_fearnleys-dry-bulk-weekly-22nd-may-2024.md) | [PDF](pdfs/2024/2024-05-22_fearnleys-dry-bulk-weekly-22nd-may-2024.pdf) |
 | 2024-05-21 | TANK | Fearnleys Tanker Market Wrap-up May 2024 | 28 | [2024/2024-05-21_fearnleys-tanker-market-wrap-up-may-2024.md](2024/2024-05-21_fearnleys-tanker-market-wrap-up-may-2024.md) | [PDF](pdfs/2024/2024-05-21_fearnleys-tanker-market-wrap-up-may-2024.pdf) |
 | 2024-05-08 | BULK | Fearnleys Dry Bulk Weekly | 18 | [2024/2024-05-08_fearnleys-dry-bulk-weekly-8th-may-2024.md](2024/2024-05-08_fearnleys-dry-bulk-weekly-8th-may-2024.md) | [PDF](pdfs/2024/2024-05-08_fearnleys-dry-bulk-weekly-8th-may-2024.pdf) |
-| 2024-03-25 | GENERAL | Rapport #2 | 1 | [2024/2024-03-25_rapport-2.md](2024/2024-03-25_rapport-2.md) | - |
-| 2024-03-25 | GENERAL | Rapport #1 | 0 | [2024/2024-03-25_hogne-aasjords-rapport.md](2024/2024-03-25_hogne-aasjords-rapport.md) | - |
