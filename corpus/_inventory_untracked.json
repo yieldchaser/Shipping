@@ -17,8 +17,8 @@
     },
     {
       "path": "corpus/04-poten",
-      "untracked_files": 1085,
-      "untracked_bytes": 290831542
+      "untracked_files": 1087,
+      "untracked_bytes": 291117150
     },
     {
       "path": "corpus/05-seabrokers",
@@ -35133,6 +35133,11 @@
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
     },
     {
+      "path": "corpus/04-poten/2026/poten_2026-10-30_neither_peace_nor_war.md",
+      "bytes": 2098,
+      "sha256": "947d5c51dcc78f0be1c5ade1a624e954ac827c14561465feda3592d986d005e7"
+    },
+    {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
       "bytes": 101160,
       "sha256": "e5b57740021416658f4dc257269af8015b08548688b7282c7e12db11fd5c3e99"
@@ -40511,6 +40516,11 @@
       "path": "corpus/04-poten/pdfs/2026/Weekly Opinion - 30 Jan 2026 - Too Much Or Not Enough.pdf",
       "bytes": 238088,
       "sha256": "8048dc89e18b2a5f73732669717790fde78e8cbf191de2b81c1bc3122cee59b1"
+    },
+    {
+      "path": "corpus/04-poten/pdfs/2026/Weekly Opinion - 30 October 2026 - Neither War Nor Peace.pdf",
+      "bytes": 283510,
+      "sha256": "d8747e3fdb92eaed30315674e4ee3236118d98cd3cd2c319bbd1e25aa6c4dd16"
     },
     {
       "path": "corpus/04-poten/pdfs/2026/Weekly Opinion - 31 July 2026 - Surviving The Sanctions.pdf",

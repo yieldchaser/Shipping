@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 20:06:28Z",
+  "updated_at": "2026-11-02 23:54:03Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -3179,7 +3179,7 @@
     {
       "file": "poten_opinions_metadata.csv",
       "target_metric": "Tanker Opinions 2004\u20132026 catalog and full essay metadata",
-      "rows": 1096,
+      "rows": 1097,
       "columns": [
         "issue_date",
         "year",
@@ -3945,13 +3945,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 707332,
+  "total_master_stacked_rows": 707333,
   "total_master_series_csvs": 166,
-  "total_stacked_rows": 707332,
+  "total_stacked_rows": 707333,
   "total_series_csvs": 166,
   "total_master_workbooks": 1,
   "total_series_count": 166,
-  "total_rows_extracted": 707637,
+  "total_rows_extracted": 707638,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 609,
     "advanced_shipping_demolition_series.csv": 2040,
@@ -4078,7 +4078,7 @@
     "poten_fixtures_series.csv": 82,
     "poten_fleet_delivery_schedule_series.csv": 0,
     "poten_fleet_statistics_series.csv": 8,
-    "poten_opinions_metadata.csv": 1096,
+    "poten_opinions_metadata.csv": 1097,
     "poten_tanker_orderbook_age_series.csv": 12,
     "poten_top_charterers_series.csv": 756,
     "poten_vlcc_historical_rates_series.csv": 0,
