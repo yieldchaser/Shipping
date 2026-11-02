@@ -3138,3 +3138,10 @@ report_date,year,month,section,region,vessel_class,metric,value,value_text,unit,
 2026-09-01,2026,9,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-09,rig=WELL-SAFE PROTECTOR; type=JU; status=WARM STACK,seabrokers,13.0
 2026-09-01,2026,9,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-09,rig=WEST AQUARIUS; type=SS; status=COLD STACK,seabrokers,13.0
 2026-09-01,2026,9,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-09,rig=WEST PHOENIX; type=SS; status=COLD STACK,seabrokers,13.0
+2026-10-01,2026,10,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-10,rig=HERCULES; type=SS; status=WARM STACK,seabrokers,13.0
+2026-10-01,2026,10,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-10,rig=NOBLE INNOVATOR; type=JU; status=WARM STACK,seabrokers,13.0
+2026-10-01,2026,10,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-10,rig=VALARIS VIKING; type=JU; status=COLD STACK,seabrokers,13.0
+2026-10-01,2026,10,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-10,rig=WELL-SAFE DEFENDER; type=SS; status=WARM STACK,seabrokers,13.0
+2026-10-01,2026,10,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-10,rig=WELL-SAFE PROTECTOR; type=JU; status=WARM STACK,seabrokers,13.0
+2026-10-01,2026,10,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-10,rig=WEST AQUARIUS; type=SS; status=COLD STACK,seabrokers,13.0
+2026-10-01,2026,10,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2026-10,rig=WEST PHOENIX; type=SS; status=COLD STACK,seabrokers,13.0

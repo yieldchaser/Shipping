@@ -4829,3 +4829,50 @@ report_date,year,month,period,region,metric,value,unit,source,source_page
 2026-09-01,2026,9,2026-09,Northwest Europe,rig_utilisation,83.9,percent,seabrokers,13.0
 2026-09-01,2026,9,2026-09,South America,rig_utilisation,84.3,percent,seabrokers,13.0
 2026-09-01,2026,9,2026-09,US Gulf,rig_utilisation,52.6,percent,seabrokers,13.0
+2026-10-01,2026,10,2025-10,,brent_avg,64.65,USD/bbl,seabrokers,13.0
+2026-10-01,2026,10,2025-10,Northwest Europe,rig_utilisation,71.7,percent,seabrokers,13.0
+2026-10-01,2026,10,2025-10,South America,rig_utilisation,82.0,percent,seabrokers,13.0
+2026-10-01,2026,10,2025-10,US Gulf,rig_utilisation,51.6,percent,seabrokers,13.0
+2026-10-01,2026,10,2025-11,,brent_avg,63.61,USD/bbl,seabrokers,13.0
+2026-10-01,2026,10,2025-11,Northwest Europe,rig_utilisation,74.6,percent,seabrokers,13.0
+2026-10-01,2026,10,2025-11,South America,rig_utilisation,84.3,percent,seabrokers,13.0
+2026-10-01,2026,10,2025-11,US Gulf,rig_utilisation,52.6,percent,seabrokers,13.0
+2026-10-01,2026,10,2025-12,,brent_avg,62.72,USD/bbl,seabrokers,13.0
+2026-10-01,2026,10,2025-12,Northwest Europe,rig_utilisation,76.2,percent,seabrokers,13.0
+2026-10-01,2026,10,2025-12,South America,rig_utilisation,86.2,percent,seabrokers,13.0
+2026-10-01,2026,10,2025-12,US Gulf,rig_utilisation,55.1,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-01,,brent_avg,66.77,USD/bbl,seabrokers,13.0
+2026-10-01,2026,10,2026-01,Northwest Europe,rig_utilisation,75.0,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-01,South America,rig_utilisation,83.6,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-01,US Gulf,rig_utilisation,56.1,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-02,,brent_avg,71.11,USD/bbl,seabrokers,13.0
+2026-10-01,2026,10,2026-02,Northwest Europe,rig_utilisation,76.9,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-02,South America,rig_utilisation,79.5,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-02,US Gulf,rig_utilisation,55.0,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-03,Northwest Europe,rig_utilisation,79.6,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-03,South America,rig_utilisation,82.1,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-03,US Gulf,rig_utilisation,60.5,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-04,Northwest Europe,rig_utilisation,80.5,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-04,South America,rig_utilisation,86.3,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-04,US Gulf,rig_utilisation,60.5,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-05,Northwest Europe,rig_utilisation,83.0,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-05,South America,rig_utilisation,85.8,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-05,US Gulf,rig_utilisation,58.3,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-06,,brent_avg,84.49,USD/bbl,seabrokers,13.0
+2026-10-01,2026,10,2026-06,Northwest Europe,rig_utilisation,82.7,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-06,South America,rig_utilisation,85.0,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-06,US Gulf,rig_utilisation,58.3,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-07,,brent_avg,84.01,USD/bbl,seabrokers,13.0
+2026-10-01,2026,10,2026-07,Northwest Europe,rig_utilisation,82.0,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-07,South America,rig_utilisation,85.4,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-07,US Gulf,rig_utilisation,54.4,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-08,,brent_avg,87.97,USD/bbl,seabrokers,13.0
+2026-10-01,2026,10,2026-08,Northwest Europe,rig_utilisation,81.1,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-08,South America,rig_utilisation,84.1,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-08,US Gulf,rig_utilisation,52.9,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-09,Northwest Europe,rig_utilisation,83.9,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-09,South America,rig_utilisation,85.0,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-09,US Gulf,rig_utilisation,54.7,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-10,Northwest Europe,rig_utilisation,82.5,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-10,South America,rig_utilisation,84.6,percent,seabrokers,13.0
+2026-10-01,2026,10,2026-10,US Gulf,rig_utilisation,61.1,percent,seabrokers,13.0

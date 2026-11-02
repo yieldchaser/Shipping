@@ -22,8 +22,8 @@
     },
     {
       "path": "corpus/05-seabrokers",
-      "untracked_files": 1,
-      "untracked_bytes": 8208648
+      "untracked_files": 3,
+      "untracked_bytes": 17460175
     },
     {
       "path": "corpus/06-drewry",
@@ -40558,9 +40558,19 @@
       "sha256": "73e017e6f01aa7ac5e9ab2de5e1c16b6c7bb3e4a7b351154ecef88926bed9a11"
     },
     {
+      "path": "corpus/05-seabrokers/2026/2026-10-01_market-report-october-2026.md",
+      "bytes": 51609,
+      "sha256": "95c3037ab6090cc5b0fa6a09dcab9748a8eccce1a3d111b093ff1efa4784efa7"
+    },
+    {
       "path": "corpus/05-seabrokers/pdfs/2026-09-01_market-report-september-2026.pdf",
       "bytes": 8208648,
       "sha256": "1e81904eaa453d2ac5b18de8bc2b336f77c00bbf46607a92f269820da515cf11"
+    },
+    {
+      "path": "corpus/05-seabrokers/pdfs/2026-10-01_market-report-october-2026.pdf",
+      "bytes": 9199918,
+      "sha256": "75c2a47879736639ba0ed564bc129781b234783037e9a87d1c2ad2d306173e84"
     },
     {
       "path": "corpus/06-drewry/ais/Drewry_AIS_Crude_Aframax_Week27_2026.pdf",

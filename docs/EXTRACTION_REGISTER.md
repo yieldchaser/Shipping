@@ -29,7 +29,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 
 ---
 
-## 2. Master Stacked Series Inventory (707,186 Total Rows across 166 CSVs + 1 Master Workbook)
+## 2. Master Stacked Series Inventory (707,403 Total Rows across 166 CSVs + 1 Master Workbook)
 
 | Series CSV | Target Metric / Commodity / Segment | Total Stacked Rows | Status |
 | :--- | :--- | :---: | :---: |
@@ -162,16 +162,16 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [poten_tanker_orderbook_age_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/poten_tanker_orderbook_age_series.csv) |  | 12 | Verified |
 | [poten_top_charterers_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/poten_top_charterers_series.csv) | Top Spot Charterers annual and midterm rankings (2004–2026) | 756 | Verified |
 | [poten_vlcc_historical_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/poten_vlcc_historical_rates_series.csv) |  | 0 | Verified |
-| [seabrokers_catalog_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_catalog_metadata.csv) |  | 98 | Verified |
+| [seabrokers_catalog_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_catalog_metadata.csv) |  | 99 | Verified |
 | [seabrokers_feature_vessels_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_feature_vessels_series.csv) |  | 79 | Verified |
 | [seabrokers_fleet_moves_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_fleet_moves_series.csv) |  | 203 | Verified |
-| [seabrokers_osv_monthly_history_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_osv_monthly_history_series.csv) |  | 6,893 | Verified |
-| [seabrokers_osv_spot_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_osv_spot_rates_series.csv) |  | 1,920 | Verified |
-| [seabrokers_osv_utilisation_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_osv_utilisation_series.csv) |  | 2,352 | Verified |
+| [seabrokers_osv_monthly_history_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_osv_monthly_history_series.csv) |  | 6,981 | Verified |
+| [seabrokers_osv_spot_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_osv_spot_rates_series.csv) |  | 1,940 | Verified |
+| [seabrokers_osv_utilisation_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_osv_utilisation_series.csv) |  | 2,376 | Verified |
 | [seabrokers_renewables_and_ets_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_renewables_and_ets_series.csv) |  | 16 | Verified |
-| [seabrokers_rig_utilisation_monthly_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_rig_utilisation_monthly_series.csv) | Seabrokers Rig Utilisation Monthly historical structured dataset | 4,830 | Verified |
-| [seabrokers_rigs_market_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_rigs_market_series.csv) |  | 3,139 | Verified |
-| [seabrokers_snp_auctions_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_snp_auctions_series.csv) |  | 281 | Verified |
+| [seabrokers_rig_utilisation_monthly_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_rig_utilisation_monthly_series.csv) | Seabrokers Rig Utilisation Monthly historical structured dataset | 4,877 | Verified |
+| [seabrokers_rigs_market_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_rigs_market_series.csv) |  | 3,146 | Verified |
+| [seabrokers_snp_auctions_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/seabrokers_snp_auctions_series.csv) |  | 311 | Verified |
 | [signal_reports_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/signal_reports_metadata.csv) |  | 456 | Verified |
 | [signal_vessel_counts_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/signal_vessel_counts_series.csv) | Signal Ocean weekly commercial vessel counts and deployment monitors | 120 | Verified |
 | [singletons_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/singletons_sales_series.csv) | Week 38 singleton secondhand sales & demolition fixtures | 46 | Verified |
@@ -201,7 +201,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [xclusiv_secondhand_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_secondhand_series.csv) | Dry bulk & tanker secondhand price matrix ($M) | 8,668 | Verified |
 | [corpus_publication_cadence_and_audit.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/corpus_publication_cadence_and_audit.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [gibson_master_tanker_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_master_tanker_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
-| **TOTAL** | **Master Stacked Repository Footprint (166 CSVs + 1 Master Workbook)** | **707,186** | **100.0% Pass** |
+| **TOTAL** | **Master Stacked Repository Footprint (166 CSVs + 1 Master Workbook)** | **707,403** | **100.0% Pass** |
 
 ---
 
