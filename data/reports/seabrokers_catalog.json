@@ -10,11 +10,9 @@
     "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2026/11/Seabreeze-October.pdf",
     "file_size_bytes": 9199918,
     "status_code": 200,
-    "pages": 15,
-    "downloaded": true,
-    "digested": true,
-    "local_pdf": "/home/runner/work/Shipping/Shipping/corpus/05-seabrokers/pdfs/2026-10-01_market-report-october-2026.pdf",
-    "markdown_path": "corpus/05-seabrokers/2026/2026-10-01_market-report-october-2026.md"
+    "pages": 0,
+    "downloaded": false,
+    "digested": false
   },
   {
     "title": "Market Report September 2026",
