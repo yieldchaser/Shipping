@@ -6,7 +6,7 @@ week: 46
 date_range: "2024-11-13 to 2024-11-15"
 comments_count: 11
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-11-02 13:49:54"
+generated_at: "2026-11-02 17:15:10"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 46, 2024
