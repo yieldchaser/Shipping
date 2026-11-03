@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_tankers_2026-11-03__root",
+  "doc_id": "breakwave_tankers_2026-11-03",
+  "parent_id": null,
+  "title": "Tanker Shipping - November 3, 2026",
+  "section_path": [
+    "Tanker Shipping - November 3, 2026"
+  ],
+  "section_path_text": "Tanker Shipping - November 3, 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "VLCC Remain Strong on Low Vessel Availability, Geopolitics - The recovery in Short-term Indicators Middle Eastern crude exports has yet to restore normal tanker circulation, with Momentum: Negative October flows through Hormuz averaging approximately 11.7 million barrels/day, up from 9.8 million barrels/day in September but below the pre-war level of 14.5 million Sentiment: Positive barrels/day. Meanwhile, Middle Eastern VLCC tonne-miles remain 34% below Fundamentals: Positive 2025 levels and tonne-days 24% below pre-war levels, highlighting the disconnect between exceptionally high freight and underlying transportation demand. Around Breakwave Tanker 80 VLCCs remain engaged in Gulf-of-Oman shuttle operations, with average 18392 Futures Index: round voyages extending to 23 days against an optimal 9-10 days, while offshore 30D: -0.3% ↓ transfer bottlenecks and dedicated producer-controlled employment continue to constrain spot availability.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "yoy",
+    "ytd",
+    "oil",
+    "crude",
+    "supply",
+    "global"
+  ],
+  "page_start": 1,
+  "page_end": 2,
+  "token_count": 955,
+  "source_path": "reports/tankers/2026/2026-11-03_Breakwave_Tankers.pdf",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "breakwave_tankers_2026-11-03__s01_overview",
+      "doc_id": "breakwave_tankers_2026-11-03",
+      "parent_id": "breakwave_tankers_2026-11-03__root",
+      "title": "Overview",
+      "section_path": [
+        "Overview"
+      ],
+      "section_path_text": "Overview",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "- VLCC Remain Strong on Low Vessel Availability, Geopolitics - The recovery in Short-term Indicators Middle Eastern crude exports has yet to restore normal tanker circulation, with Momentum: Negative October flows through Hormuz averaging approximately 11.7 million barrels/day, up from 9.8 million barrels/day in September but below the pre-war level of 14.5 million Sentiment: Positive barrels/day. Meanwhile, Middle Eastern VLCC tonne-miles remain 34% below Fundamentals: Positive 2025 levels and tonne-days 24% below pre-war levels, highlighting the disconnect between exceptionally high freight and underlying transportation demand.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "remain",
+        "vessel",
+        "around",
+        "below",
+        "demand.",
+        "elevated"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "token_count": 674,
+      "section_type": "overview",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_tankers_2026-11-03__s02_fundamentals",
+      "doc_id": "breakwave_tankers_2026-11-03",
+      "parent_id": "breakwave_tankers_2026-11-03__root",
+      "title": "Fundamentals",
+      "section_path": [
+        "Fundamentals"
+      ],
+      "section_path_text": "Fundamentals",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "- World Oil Demand (YTD: 106,082 kbpd, YOY: 0.6%)\n- Oil Supply, OPEC (YTD: 20,710 kbpd, YOY: -28.6%)\n- Oil Supply, non-OPEC (YTD: 79,604 kbpd, YOY: 8.6%)\n- OECD Total Crude Oil Stocks (YTD: 1064.3 MMbls, YOY: 2.7%)\n- US Crude Oil Exports (YTD: 35.9 MMbls, YOY: 16.2%)\n- China Oil Imports (YTD: 358.5 MMbls, YOY: -15.4%)\n- Global Crude Oil On Water (YTD: 1364.0 MMbls, YOY: 0.9%)\n- Tanker Fleet (YTD: 740.9 mdwt, YOY: 4.7%)\n- VLCC Middle East-Asia, USD/ton (YTD: 103.58, YOY: 632.4%)\n- Suezmax West Africa-Europe, USD/ton (YTD: 52.76, YOY: 201.0%)",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "yoy",
+        "ytd"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "token_count": 280,
+      "section_type": "fundamentals",
+      "children": []
+    }
+  ]
+}
