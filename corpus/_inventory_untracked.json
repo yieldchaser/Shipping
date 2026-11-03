@@ -7,13 +7,13 @@
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4057,
-      "untracked_bytes": 2389108169
+      "untracked_files": 4061,
+      "untracked_bytes": 2391713443
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 9,
-      "untracked_bytes": 2035986
+      "untracked_files": 18,
+      "untracked_bytes": 3920177
     },
     {
       "path": "corpus/04-poten",
@@ -20268,6 +20268,16 @@
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
     },
     {
+      "path": "corpus/02-hellenic/iron_ore/2026/2026-11-03_mmi-daily-iron-ore-index-report-november-3-2026.html",
+      "bytes": 4399,
+      "sha256": "5fbcccd8657a590b75dc95c400003ae7cb0616b1715eac4a11f538a3814d9bc6"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-11-03_mmi-daily-iron-ore-index-report-november-3-2026_3112026chinese322_f91bada2082e.jpg",
+      "bytes": 185347,
+      "sha256": "9fc6231e4f7787ffcbc30601235c2221fa3b5ad2b0b594d8896c2e5716ec96e5"
+    },
+    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
       "bytes": 1106014,
       "sha256": "b82a5abf0415bdb8da87e942ca7a69caa92b9e22ff1373ec591775898b1b0aa3"
@@ -30263,6 +30273,11 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
+      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-11-03_mmi-daily-iron-ore-index-report-november-3-2026_mmi-daily-iron-ore-report-for-3th-no_5d6c389a1168.pdf",
+      "bytes": 1207764,
+      "sha256": "1195e29eb92cfcbfe509c883a7a6867d0ab9067aa624f53c924178ef8f471b96"
+    },
+    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31651,6 +31666,11 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-11-03_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-3th-November-2026.pdf",
+      "bytes": 1207764,
+      "sha256": "1195e29eb92cfcbfe509c883a7a6867d0ab9067aa624f53c924178ef8f471b96"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -35088,6 +35108,26 @@
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
     },
     {
+      "path": "corpus/03-breakwave/insights/2026/2026-11-03_112026wetreport311hyt67-o.html",
+      "bytes": 6142,
+      "sha256": "f90f50002c8b0adc0cc33ad49b7bdea821817ddf9ae5e8e4b03514129eb28a4a"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-11-03_112026wetreport311hyt67-o.md",
+      "bytes": 4667,
+      "sha256": "72fbe4a8fb603aaf7f9304e969c485b8c326d791bf60ba55edde64b5801c3e18"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-11-03_a-tale-of-two-markets.html",
+      "bytes": 6775,
+      "sha256": "8969e05a65f93a7fb2dbf17a26ea6f2b18bec4395805c40cfda3af26e2d8496b"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-11-03_a-tale-of-two-markets.md",
+      "bytes": 5051,
+      "sha256": "90be24fb2a84a74f07abee79d8ff6f52a146f7e19d54d576f181101d9565b37a"
+    },
+    {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
       "bytes": 69365,
       "sha256": "9848c9a3aaba37a9e84f8cd2263fff62c7771135c466216f51114381d1621e5f"
@@ -35131,6 +35171,31 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-03_112026wetreport311hyt67-o_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_762706be0106.png",
+      "bytes": 88641,
+      "sha256": "e86e5f8f008742a9dfd4dad942151ba97d4f108bf478ce7ccd178f9bed78599e"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-03_112026wetreport311hyt67-o_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_786898ef4ef3.png",
+      "bytes": 48497,
+      "sha256": "824d569f9095788415c7d6c304bc844e4ecf285d1208e15325bed1f71aaec00e"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-03_112026wetreport311hyt67-o_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8a96e18044b2.png",
+      "bytes": 207939,
+      "sha256": "1e0edeebb87a72de7d66a94b3bbe0fee23b4f27e27cab0b331ae218501f419d7"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-03_a-tale-of-two-markets_img_unsplash-image-0c1tukbehse_f6f011071c15.jpg",
+      "bytes": 982395,
+      "sha256": "44f5c9aff3e154f3168eddd0b5294fd1b5191f3ab5edd67007ee4a5d1d0e6ab8"
+    },
+    {
+      "path": "corpus/03-breakwave/tankers/2026/2026-11-03_Breakwave_Tankers.pdf",
+      "bytes": 534084,
+      "sha256": "765375dcd3de0e9866b0d4ab533be3479b38cabfd8a28eba1602b8b1e3fb6d05"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",

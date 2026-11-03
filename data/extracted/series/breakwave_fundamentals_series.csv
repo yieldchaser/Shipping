@@ -3393,3 +3393,13 @@ issue_date,sector,category,metric,ytd_value,yoy_change,source_file
 2026-10-27,drybulk,Freight Rates,"Capesize Spot Rates, Average","33,568",73.4%,corpus/03-breakwave/drybulk/2026/2026-10-27_Breakwave_Dry_Bulk.pdf
 2026-10-27,drybulk,Freight Rates,"Panamax Spot rates, Average","18,529",44.7%,corpus/03-breakwave/drybulk/2026/2026-10-27_Breakwave_Dry_Bulk.pdf
 2026-10-27,drybulk,Supply,Dry Bulk Fleet,1101 mdwt,3.8%,corpus/03-breakwave/drybulk/2026/2026-10-27_Breakwave_Dry_Bulk.pdf
+2026-11-03,tankers,Demand,China Oil Imports,358.5 MMbls,-15.4%,corpus/03-breakwave/tankers/2026/2026-11-03_Breakwave_Tankers.pdf
+2026-11-03,tankers,Demand,Global Crude Oil On Water,1364.0 MMbls,0.9%,corpus/03-breakwave/tankers/2026/2026-11-03_Breakwave_Tankers.pdf
+2026-11-03,tankers,Demand,OECD Total Crude Oil Stocks,1064.3 MMbls,2.7%,corpus/03-breakwave/tankers/2026/2026-11-03_Breakwave_Tankers.pdf
+2026-11-03,tankers,Demand,"Oil Supply, OPEC","20,710 kbpd",-28.6%,corpus/03-breakwave/tankers/2026/2026-11-03_Breakwave_Tankers.pdf
+2026-11-03,tankers,Demand,"Oil Supply, non-OPEC","79,604 kbpd",8.6%,corpus/03-breakwave/tankers/2026/2026-11-03_Breakwave_Tankers.pdf
+2026-11-03,tankers,Demand,US Crude Oil Exports,35.9 MMbls,16.2%,corpus/03-breakwave/tankers/2026/2026-11-03_Breakwave_Tankers.pdf
+2026-11-03,tankers,Demand,World Oil Demand,"106,082 kbpd",0.6%,corpus/03-breakwave/tankers/2026/2026-11-03_Breakwave_Tankers.pdf
+2026-11-03,tankers,Freight Rates,"Suezmax West Africa-Europe, USD/ton",52.76,201.0%,corpus/03-breakwave/tankers/2026/2026-11-03_Breakwave_Tankers.pdf
+2026-11-03,tankers,Freight Rates,"VLCC Middle East-Asia, USD/ton",103.58,632.4%,corpus/03-breakwave/tankers/2026/2026-11-03_Breakwave_Tankers.pdf
+2026-11-03,tankers,Supply,Tanker Fleet,740.9 mdwt,4.7%,corpus/03-breakwave/tankers/2026/2026-11-03_Breakwave_Tankers.pdf
