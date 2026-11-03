@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2951,
-      "untracked_bytes": 2297446628
+      "untracked_files": 2958,
+      "untracked_bytes": 2299547292
     },
     {
       "path": "corpus/02-hellenic",
@@ -17,8 +17,8 @@
     },
     {
       "path": "corpus/04-poten",
-      "untracked_files": 1087,
-      "untracked_bytes": 291117150
+      "untracked_files": 1085,
+      "untracked_bytes": 290831542
     },
     {
       "path": "corpus/05-seabrokers",
@@ -47,6 +47,26 @@
     }
   ],
   "entries": [
+    {
+      "path": "corpus/01-brokers/_digests/ism/2026/ism_02_11_2026_ism_coasters_and_mini_bulkers_week_44.md",
+      "bytes": 6689,
+      "sha256": "80270e33690722ff20297d564f90b655da1593d33567b7dbf4831c8a40f36510"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/ssy/2026/ssy_02_11_2026_ssy_atlantic_capesize_index_2_november_2026.md",
+      "bytes": 3145,
+      "sha256": "bc534c61190d2f8f831e17fc8cf22b7a843169c3cd2f8d08abf2e28bf25b8c63"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/ssy/2026/ssy_02_11_2026_ssy_pacific_capesize_index_2_november_2026.md",
+      "bytes": 3129,
+      "sha256": "f2c7ce3ccd52da95e41549cc27b11d9a29aafb9de8ff8ddd2801329b10b23a87"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/xclusiv/2026/xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.md",
+      "bytes": 24891,
+      "sha256": "452e5f8c4beec63710171c569eab48cb608198ec57fa9388a79eb182db0d1d6c"
+    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -12023,6 +12043,16 @@
       "sha256": "4f307388f563639b482b4c101ae054050a5575a0ca13e7dd1d8e12312277e8b8"
     },
     {
+      "path": "corpus/01-brokers/ssy/2026/ssy_02_11_2026_ssy_atlantic_capesize_index_2_november_2026.pdf",
+      "bytes": 191714,
+      "sha256": "c7c0f730259d0570b55b95ce895d2c90e1e9a37bffc1a684e08f35da53828341"
+    },
+    {
+      "path": "corpus/01-brokers/ssy/2026/ssy_02_11_2026_ssy_pacific_capesize_index_2_november_2026.pdf",
+      "bytes": 191528,
+      "sha256": "cada6b4259d4cfea8c2c69421fe3a9b21e788d5a3c7330db5aa7b8d099b64324"
+    },
+    {
       "path": "corpus/01-brokers/ssy/2026/ssy_14_09_2026_ssy_atlantic_capesize_index_14_september_2026.pdf",
       "bytes": 189215,
       "sha256": "8f7fdc77497604f10fbcd2b15822671c2d328fb968ee3a1c06d8fc47bb6c89e3"
@@ -14576,6 +14606,11 @@
       "path": "corpus/01-brokers/xclusiv/2025/xclusiv_2025_xclusiv-2025_12_22.pdf",
       "bytes": 1968821,
       "sha256": "b9cc0a93f34cb9daf613994c56c6911084ce7d118b4271c7afb165761940a7d0"
+    },
+    {
+      "path": "corpus/01-brokers/xclusiv/2026/xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf",
+      "bytes": 1679568,
+      "sha256": "b1e638cbad4b6b84fcd2cf016bade8a3ee13b44caa03c5eca906d22b787fd955"
     },
     {
       "path": "corpus/01-brokers/xclusiv/2026/xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf",
@@ -35133,11 +35168,6 @@
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
     },
     {
-      "path": "corpus/04-poten/2026/poten_2026-10-30_neither_peace_nor_war.md",
-      "bytes": 2098,
-      "sha256": "947d5c51dcc78f0be1c5ade1a624e954ac827c14561465feda3592d986d005e7"
-    },
-    {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
       "bytes": 101160,
       "sha256": "e5b57740021416658f4dc257269af8015b08548688b7282c7e12db11fd5c3e99"
@@ -40516,11 +40546,6 @@
       "path": "corpus/04-poten/pdfs/2026/Weekly Opinion - 30 Jan 2026 - Too Much Or Not Enough.pdf",
       "bytes": 238088,
       "sha256": "8048dc89e18b2a5f73732669717790fde78e8cbf191de2b81c1bc3122cee59b1"
-    },
-    {
-      "path": "corpus/04-poten/pdfs/2026/Weekly Opinion - 30 October 2026 - Neither War Nor Peace.pdf",
-      "bytes": 283510,
-      "sha256": "d8747e3fdb92eaed30315674e4ee3236118d98cd3cd2c319bbd1e25aa6c4dd16"
     },
     {
       "path": "corpus/04-poten/pdfs/2026/Weekly Opinion - 31 July 2026 - Surviving The Sanctions.pdf",

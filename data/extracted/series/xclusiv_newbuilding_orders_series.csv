@@ -1346,3 +1346,19 @@ issue_date,report_week,type,units,size,yard,buyer,price,delivery,comments,page,s
 2026-10-26,43,CONTAINER,2+2,"7,100 TEU",DSIC,NAMSUNG SHIPPING,89 EACH,2030-31,,4,xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf
 2026-10-26,43,CONTAINER,2,"3,200 TEU",HENGLI HEAVY,TSAKOS,48 EACH,N/A,,4,xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf
 2026-10-26,43,VLAC,2+1,"88,000 CBM",HENGLI HEAVY,ALPHA GAS,115 EACH,2029,LPG DF,4,xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf
+2026-11-02,44,BC,4,"212,000 DWT",ZHOUSHAN CHANGHONG,LAVINIA,78 EACH,2030,,4,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
+2026-11-02,44,BC,11,"87,000 DWT",FUJIAN MAWEI,ICBC LEASING,50 EACH,2029,MPP,4,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
+2026-11-02,44,BC,3,"87,000 DWT",FUJIAN MAWEI,ZHEJIANG LEASING,50 EACH,2029,MPP,4,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
+2026-11-02,44,BC,2,"87,000 DWT",FUJIAN MAWEI,YONGYING LEASING,50 EACH,2029,MPP,4,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
+2026-11-02,44,BC,4,"82,000 DWT",HENGLI,PAVIMAR,38 EACH,2029,,4,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
+2026-11-02,44,TANKER,2,"320,000 DWT",HANWHA OCEAN,GLOBAL MERIDIAN,133.5 EACH,2030,SCRUBBERS,4,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
+2026-11-02,44,TANKER,2+2,"306,000 DWT",HENGLI,VENERGY,N/A,2030,SCRUBBERS,4,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
+2026-11-02,44,TANKER,3,"320,000 DWT",IMI,BAHRI,150.5 EACH,2029-30,SCRUBBERS,4,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
+2026-11-02,44,TANKER,6,"13,000 DWT",NANTONG RAINBOW,REDERI AB VERITAS,39 EACH,N/A,STST,4,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
+2026-11-02,44,TANKER,2,"13,000 DWT",NANTONG RAINBOW,VERITAS TANKERS,N/A,2029,STST,4,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
+2026-11-02,44,VLEC,1,"102,000 CBM",JIANGNAN SHIPYARD,JIAHUA ENERGY,165,2030,,4,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
+2026-11-02,44,ETHYLENE,1,"9,000 CBM",COSCO DALIAN,CSET,50.2,2030,LNG DF,4,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
+2026-11-02,44,CONTAINER,3,"21,000 TEU",SWS,MSC,225 EACH,2030,LNG DF,4,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
+2026-11-02,44,CONTAINER,2,"9,200 TEU",HUDONG ZHONGHUA,DANAOS,109 EACH,2029,,4,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
+2026-11-02,44,CONTAINER,2+2,"7,100 TEU",DALIAN,NAMSUNG,89 EACH,2030-31,SCRUBBERS,4,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
+2026-11-02,44,CONTAINER,6,"3,100 TEU CSSC",HUANGPU WENCHONG,KMTC,50 EACH,2030-31,SCRUBBERS,4,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
