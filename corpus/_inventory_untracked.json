@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2951,
-      "untracked_bytes": 2297446628
+      "untracked_files": 2953,
+      "untracked_bytes": 2297836111
     },
     {
       "path": "corpus/02-hellenic",
@@ -47,6 +47,11 @@
     }
   ],
   "entries": [
+    {
+      "path": "corpus/01-brokers/_digests/carriers/2026/carriers_04_11_2026_carriers_sales_purchase_market_report_week_44.md",
+      "bytes": 8336,
+      "sha256": "2ecf293cd7a8c81a39e63662697839975a8dc5b664547c11c8c2554f3961dfd9"
+    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -5426,6 +5431,11 @@
       "path": "corpus/01-brokers/carriers/2026/15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf",
       "bytes": 319400,
       "sha256": "d614475e31d15e54029376f4c1d53053d6ff96ffd108a6eb646d2e88fc5149f9"
+    },
+    {
+      "path": "corpus/01-brokers/carriers/2026/carriers_04_11_2026_carriers_sales_purchase_market_report_week_44.pdf",
+      "bytes": 381147,
+      "sha256": "f29eee5a1552952e47cdc0e61e68fcc596e4235d15aea202f4e054c67c2d8bf1"
     },
     {
       "path": "corpus/01-brokers/carriers/2026/carriers_2026_W01_WK-1-26-CARRIERS_SP-MARKET-REPORT.pdf",
