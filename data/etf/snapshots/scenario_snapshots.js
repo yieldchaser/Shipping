@@ -2,7 +2,7 @@
 window.SCENARIO_SNAPSHOTS = {
   bdry: {
   "schema_version": "1.0.0",
-  "generation_timestamp_utc": "2026-11-02T22:43:35.897412+00:00",
+  "generation_timestamp_utc": "2026-11-03T12:42:38.075981+00:00",
   "fund_symbol": "BDRY",
   "contract_spec_version": "2026.08.14-VERIFIED-V1",
   "holdings_snapshot_as_of_date": "2026-11-02",
@@ -22,16 +22,16 @@ window.SCENARIO_SNAPSHOTS = {
     "immutable_archive_path": "data/etf/raw_holdings/BDRY/2026-11-02.csv",
     "expected_registry_sha256": "ec7f6d8efd30ef3b354e577a2b2f8f3da49c38132d7211e8f91106e8c47536f3",
     "computed_archive_sha256": "ec7f6d8efd30ef3b354e577a2b2f8f3da49c38132d7211e8f91106e8c47536f3",
-    "snapshot_content_sha256": "944ba707346b0be723863a01baad961c0dbe1b39b985b50b4c4b4f666571c25c",
-    "manifest_snapshot_sha256": "944ba707346b0be723863a01baad961c0dbe1b39b985b50b4c4b4f666571c25c",
+    "snapshot_content_sha256": "453aaae447049302912a9f54329854180da748658a488db8c88b68b898c0e6d4",
+    "manifest_snapshot_sha256": "453aaae447049302912a9f54329854180da748658a488db8c88b68b898c0e6d4",
     "provenance_verified": true,
     "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE"
   },
   "freshness_state": {
-    "business_day_age": 0,
+    "business_day_age": 1,
     "is_fresh": true,
     "max_freshness_limit_bdays": 3,
-    "reference_time_utc": "2026-11-02T22:43:35.897412+00:00"
+    "reference_time_utc": "2026-11-03T12:42:38.075981+00:00"
   },
   "baseline": {
     "as_of_date": "2026-11-02",
@@ -257,7 +257,7 @@ window.SCENARIO_SNAPSHOTS = {
 },
   bwet: {
   "schema_version": "1.0.0",
-  "generation_timestamp_utc": "2026-11-02T22:43:35.897412+00:00",
+  "generation_timestamp_utc": "2026-11-03T12:42:38.118424+00:00",
   "fund_symbol": "BWET",
   "contract_spec_version": "2026.08.14-VERIFIED-V1",
   "holdings_snapshot_as_of_date": "2026-11-02",
@@ -277,16 +277,16 @@ window.SCENARIO_SNAPSHOTS = {
     "immutable_archive_path": "data/etf/raw_holdings/BWET/2026-11-02.csv",
     "expected_registry_sha256": "7d253c3dd188349dc1ce86e3d6a8eb108bfae4f41296137327ea6dbdd67c0c1c",
     "computed_archive_sha256": "7d253c3dd188349dc1ce86e3d6a8eb108bfae4f41296137327ea6dbdd67c0c1c",
-    "snapshot_content_sha256": "90afcfdb8fbcc4239e8672c0c47073507c80bc9ebf0b186c7f52975355b71a3c",
-    "manifest_snapshot_sha256": "90afcfdb8fbcc4239e8672c0c47073507c80bc9ebf0b186c7f52975355b71a3c",
+    "snapshot_content_sha256": "817c6aefdf288fb6602c493213e2ac0e813bfe74ead2c9d66fdf973150713b89",
+    "manifest_snapshot_sha256": "817c6aefdf288fb6602c493213e2ac0e813bfe74ead2c9d66fdf973150713b89",
     "provenance_verified": true,
     "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE"
   },
   "freshness_state": {
-    "business_day_age": 0,
+    "business_day_age": 1,
     "is_fresh": true,
     "max_freshness_limit_bdays": 3,
-    "reference_time_utc": "2026-11-02T22:43:35.897412+00:00"
+    "reference_time_utc": "2026-11-03T12:42:38.118424+00:00"
   },
   "baseline": {
     "as_of_date": "2026-11-02",
