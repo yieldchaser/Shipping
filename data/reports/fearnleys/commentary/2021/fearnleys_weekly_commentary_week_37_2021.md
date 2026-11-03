@@ -6,7 +6,7 @@ week: 37
 date_range: "2021-09-13 to 2021-09-15"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-11-03 13:01:47"
+generated_at: "2026-11-03 15:22:30"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 37, 2021

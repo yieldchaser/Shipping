@@ -6,7 +6,7 @@ week: 11
 date_range: "2025-03-12 to 2025-03-14"
 comments_count: 11
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-11-03 13:01:51"
+generated_at: "2026-11-03 15:22:34"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 11, 2025
