@@ -4,13 +4,13 @@ source: "Fearnleys Hasura GraphQL API (fearnpulse.com)"
 year: 2026
 week: 45
 date_range: "2026-11-04 to 2026-11-04"
-comments_count: 5
+comments_count: 7
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-11-04 13:17:39"
+generated_at: "2026-11-04 15:35:48"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 45, 2026
-*Coverage Period: 2026-11-04 to 2026-11-04 | Total Notes: 5*
+*Coverage Period: 2026-11-04 to 2026-11-04 | Total Notes: 7*
 
 ## Executive Summary
 Institutional desk intelligence harvested directly from the Fearnleys Hasura GraphQL backend, covering global Dry Bulk, Crude & Product Tankers, Gas/LNG markets, and Secondhand S&P deals for Week 45 (2026).
@@ -20,6 +20,13 @@ Institutional desk intelligence harvested directly from the Fearnleys Hasura Gra
 **Date:** 2026-11-04 | **Subtype:** Dry Bulk Weekly Comment | **Desk:** Fearnleys Research
 
 After a slow start to the week, markets found new traction on Capesize, with big volumes being fixed on both Atlantic and Pacific trade routes over the last 24 hours. Pacific gained traction today with a 3.5% gain on paper, as Baltic prints 13.69 for C5 Waus/Qdao. So far today we have seen over 15 fixtures ex West Australia spanning between low USD 13s-High USD 13s with last done in the USD 13.8s. Similar momentum was also seen on C3 Brazil/China with owners offering in high USD 36-37 levels. A series of fixtures concluding today in USD 35.5 levels and unconfirmed rumors of a modern Cape fixing at USD 37 for an end November stem is yet to be confirmed. A handful of fresh stems in the North Atlantic sees some Transatlantic rounds being done, with most recent Erdemir tender fixing in the low USD 20s. After some quiet weeks in the North, renewed interest has seen rocketing rates on paper as the Baltic prints a gain of 15.89% for Transatlantic C8 round voyage. FFAs are in the green across the board, with more upside expected in the near term.
+
+---
+
+### Panamax Weekly Comment
+**Date:** 2026-11-04 | **Subtype:** Dry Bulk Weekly Comment | **Desk:** Fearnleys Research
+
+The Panamax market has begun to recover after a softer start to the week, with firmer Pacific fixtures leading the improvement. In the Atlantic, a shorter tonnage list and better NCSA grain demand are helping transatlantic rates find a floor, although US-origin fronthaul inquiry remains limited. ECSA has steadied, but available tonnage still outweighs fresh cargo, and December dates remain largely untested. The Pacific has picked up more clearly, with Aussie coal stems and Japanese tenders drawing charterers closer to owners’ offers and lifting fixture levels, while NoPac grain business remains quieter. We see scope for further near-term gains, but a sustained recovery still needs more Atlantic cargo to absorb the ships available.
 
 ---
 
@@ -60,4 +67,11 @@ The softening of the Mediterranean market continues as activity remains lacklust
 *No dedicated gas/LNG commentary published this week.*
 
 ## 4. Sale and Purchase (S&P) & Corporate Activity
-*No dedicated S&P commentary published this week.*
+### Chartering Weekly Comment
+**Date:** 2026-11-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+
+Coming close to the mid-point of this mid-term election week, freight has shown resilience. After seeing freight touching USD 300 flat last week, rates now appear to have stabilized just below the USD 320 level. At the time of writing, we are counting four confirmed spot fixtures in the USG so far this week, with at least one more active cargo in play. In addition to these, we are seeing cargoes being worked in West Africa, and fixtures being concluded both out of Vadinar and Australia.
+
+With nine December spot deals concluded so far, all in the first half, freight looks fairly balanced with what looks like less than 10 remaining ships before 15th of December, including a likely overhang of a couple of ships open on November dates. Freight is expected to remain largely arb-driven going forward. That said, with a fairly balanced to tight position list, rates are expected to remain robust.
+
+---
