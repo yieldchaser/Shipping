@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-11-04_2026_11_04_us_midterms_may_change_iran_war_stalemate_but_tanker_inefficiency_will_remain__root",
+  "doc_id": "breakwave_insights_insights_2026-11-04_2026_11_04_us_midterms_may_change_iran_war_stalemate_but_tanker_inefficiency_will_remain",
+  "parent_id": null,
+  "title": "US Midterms may change Iran war stalemate, but tanker inefficiency will remain",
+  "section_path": [
+    "US Midterms may change Iran war stalemate, but tanker inefficiency will remain"
+  ],
+  "section_path_text": "US Midterms may change Iran war stalemate, but tanker inefficiency will remain",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nPresident Trump has made much noise about possible action against Iran following the US Midterm elections. We see three broad scenarios for tanker markets. Large-scale escalation: initially bullish for rates, but then weakened by tanker demand destruction\nThe most extreme scenario would be a return to large-scale bombing or an escalation in warfare, with significant US attacks on Iranian military sites and infrastructure followed by Iranian retaliation against US strategic assets in the Middle East and/or other Middle East countries' infrastructure, including energy infrastructure.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "atlantic",
+    "meg",
+    "crude_oil",
+    "would",
+    "east",
+    "could",
+    "middle",
+    "but",
+    "trump"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1199,
+  "source_path": "reports/breakwave/2026/2026-11-04_us-midterms-may-change-iran-war-stalemate-but-tanker-inefficiency-will-remain.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/11/4/us-midterms-may-change-iran-war-stalemate-but-tanker-inefficiency-will-remain",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-11-04_2026_11_04_us_midterms_may_change_iran_war_stalemate_but_tanker_inefficiency_will_remain__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-11-04_2026_11_04_us_midterms_may_change_iran_war_stalemate_but_tanker_inefficiency_will_remain",
+      "parent_id": "breakwave_insights_insights_2026-11-04_2026_11_04_us_midterms_may_change_iran_war_stalemate_but_tanker_inefficiency_will_remain__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "President Trump has made much noise about possible action against Iran following the US Midterm elections. We see three broad scenarios for tanker markets.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "atlantic",
+        "meg",
+        "crude_oil",
+        "would",
+        "east"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1197,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

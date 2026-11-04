@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-11-04_2026_11_04_vlccs_more_cargoes_less_cover__root",
+  "doc_id": "breakwave_insights_insights_2026-11-04_2026_11_04_vlccs_more_cargoes_less_cover",
+  "parent_id": null,
+  "title": "VLCCs: More Cargoes, Less Cover",
+  "section_path": [
+    "VLCCs: More Cargoes, Less Cover"
+  ],
+  "section_path_text": "VLCCs: More Cargoes, Less Cover",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nGulf cargo activity has recovered, but incoming ships have matched the increase. Employment per stem has shortened, and peace talks introduce a fresh risk for owners: a shrinking security premium before cargo demand strengthens. By Per Barre\nMore stems have not tightened the Gulf.",
+  "keywords": [
+    "vlcc",
+    "cargo",
+    "could",
+    "but",
+    "demand",
+    "employment",
+    "incoming",
+    "owners",
+    "per",
+    "premium",
+    "risk",
+    "ships"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 400,
+  "source_path": "reports/breakwave/2026/2026-11-04_vlccs-more-cargoes-less-cover.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/11/4/vlccs-more-cargoes-less-cover",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-11-04_2026_11_04_vlccs_more_cargoes_less_cover__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-11-04_2026_11_04_vlccs_more_cargoes_less_cover",
+      "parent_id": "breakwave_insights_insights_2026-11-04_2026_11_04_vlccs_more_cargoes_less_cover__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Gulf cargo activity has recovered, but incoming ships have matched the increase. Employment per stem has shortened, and peace talks introduce a fresh risk for owners: a shrinking security premium before cargo demand strengthens.",
+      "keywords": [
+        "vlcc",
+        "cargo",
+        "could",
+        "but",
+        "demand",
+        "employment",
+        "incoming",
+        "owners"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 398,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
