@@ -30199,6 +30199,20 @@
       "flow_20d": -4861000.0,
       "regime": "BALANCED",
       "pressure": -7.1211
+    },
+    {
+      "date": "2026-11-03",
+      "usd_flow": 0.0,
+      "nav": 12.36,
+      "perf_pct": 0.0022,
+      "cumulative_flow": -42715000.0,
+      "daily_inflow": 0.0,
+      "daily_outflow": 0.0,
+      "flow_zscore": 0.1152,
+      "flow_5d": -930000.0,
+      "flow_20d": -4861000.0,
+      "regime": "BALANCED",
+      "pressure": -7.1211
     }
   ]
 }
