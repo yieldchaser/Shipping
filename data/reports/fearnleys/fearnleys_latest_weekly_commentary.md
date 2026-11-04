@@ -1,94 +1,63 @@
 ---
-title: "Fearnleys Weekly Broker Commentary - Week 44, 2026"
+title: "Fearnleys Weekly Broker Commentary - Week 45, 2026"
 source: "Fearnleys Hasura GraphQL API (fearnpulse.com)"
 year: 2026
-week: 44
-date_range: "2026-10-28 to 2026-10-30"
-comments_count: 9
+week: 45
+date_range: "2026-11-04 to 2026-11-04"
+comments_count: 5
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-11-03 22:49:29"
+generated_at: "2026-11-04 13:17:39"
 ---
 
-# Fearnleys Weekly Broker Commentary - Week 44, 2026
-*Coverage Period: 2026-10-28 to 2026-10-30 | Total Notes: 9*
+# Fearnleys Weekly Broker Commentary - Week 45, 2026
+*Coverage Period: 2026-11-04 to 2026-11-04 | Total Notes: 5*
 
 ## Executive Summary
-Institutional desk intelligence harvested directly from the Fearnleys Hasura GraphQL backend, covering global Dry Bulk, Crude & Product Tankers, Gas/LNG markets, and Secondhand S&P deals for Week 44 (2026).
+Institutional desk intelligence harvested directly from the Fearnleys Hasura GraphQL backend, covering global Dry Bulk, Crude & Product Tankers, Gas/LNG markets, and Secondhand S&P deals for Week 45 (2026).
 
 ## 1. Dry Bulk Sector
 ### Capesize Weekly Comment
-**Date:** 2026-10-28 | **Subtype:** Dry Bulk Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2026-11-04 | **Subtype:** Dry Bulk Weekly Comment | **Desk:** Fearnleys Research
 
-After a fairly flat start to the week, the Cape market surged following a flurry of fixtures since yesterday afternoon. Pacific C5 West Australia/China showed more buoyancy this morning after yesterday's late October and early November fixtures concluded in the low USD 14s range. Today some cargoes for early November were done in the mid-high USD 14s with one rumor of a fixture at USD 15 linked to Cargill (laycan to be confirmed). The Atlantic saw a similar story as the Baltic paper gained 5% today. A fresh wave of cargoes came to market, with charterers bidding in the USD 34-35s range for second half November laycans. December stems are bidding similarly in the USD 35 range. This morning we saw one fixture was reported at USD 35 for a 25 November stem from Cargill on a standard Cape, and a Newcastlemax fixed today at USD 34.25 for Brazil/China. More recently we hear reports of a fixture in the high USD 35s-36 range. Some owners are showing some reluctance to offer as bullish sentiment is expected to show some mild rate increases in the near term.
-
----
-
-### Panamax Weekly Comment
-**Date:** 2026-10-28 | **Subtype:** Dry Bulk Weekly Comment | **Desk:** Fearnleys Research
-
-The Panamax market has weakened across both basins this week, with lower fixtures confirming that the Pacific’s earlier support is giving way. In the Atlantic, fresh grain and mineral demand remains too thin to absorb available tonnage, while the long November ECSA ballaster list continues to push transatlantic and fronthaul rates lower. The Pacific is now following, as fewer Aussie and NoPac cargoes compete for the ships available, and softer Indo coal demand gives charterers more room to press rates. Period interest remains selective, with owners’ ideas still above buyers’ levels and the weaker forward curve limiting commitments. Our vessel-tightness indicators suggest scope for a bounce after this correction, but shipment growth still trails fleet growth, leaving us cautious about how far any recovery can run into winter.
+After a slow start to the week, markets found new traction on Capesize, with big volumes being fixed on both Atlantic and Pacific trade routes over the last 24 hours. Pacific gained traction today with a 3.5% gain on paper, as Baltic prints 13.69 for C5 Waus/Qdao. So far today we have seen over 15 fixtures ex West Australia spanning between low USD 13s-High USD 13s with last done in the USD 13.8s. Similar momentum was also seen on C3 Brazil/China with owners offering in high USD 36-37 levels. A series of fixtures concluding today in USD 35.5 levels and unconfirmed rumors of a modern Cape fixing at USD 37 for an end November stem is yet to be confirmed. A handful of fresh stems in the North Atlantic sees some Transatlantic rounds being done, with most recent Erdemir tender fixing in the low USD 20s. After some quiet weeks in the North, renewed interest has seen rocketing rates on paper as the Baltic prints a gain of 15.89% for Transatlantic C8 round voyage. FFAs are in the green across the board, with more upside expected in the near term.
 
 ---
 
 ### Supramax Weekly Comment
-**Date:** 2026-10-28 | **Subtype:** Dry Bulk Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2026-11-04 | **Subtype:** Dry Bulk Weekly Comment | **Desk:** Fearnleys Research
 
-The Supramax market remained relatively subdued, with limited fresh activity and most reported fixtures concluded earlier. The Continent and Mediterranean remain broadly balanced, while the USG and South Atlantic are softening amid cautious charterer demand. Asia continues to show positive sentiment, supported by tight tonnage and steady cargo demand, although rate increases are beginning to plateau. The Handy market was similarly quiet, with soft conditions across the Continent and Mediterranean. The South Atlantic remains relatively firm on tightening tonnage and fresh demand, while the USG is broadly stable. Asia continues to show resilience, supported by tight prompt tonnage and a steady cargo book. Overall, fresh enquiry will be key to sustaining momentum across both segments.
+The Supramax market remained under pressure across most regions, with Atlantic rates gradually softening and activity in the Indian Ocean weakening amid limited fresh enquiry and growing tonnage availability. The Pacific, which had shown resilience, also lost momentum as NoPac demand came off, while parts of the Pacific remained relatively steady. The Handysize market was generally quiet, with little activity across both basins and limited fresh enquiry. The Continent and Mediterranean remained largely stable, while the US Gulf and South Atlantic faced softer sentiment due to more tonnage.
 
 ---
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2026-10-28 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2026-11-04 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-It’s been a fixing frenzy in the week gone by and tonnage availability in the east and globally now is lower than at any stage during the last two weeks, and rates set to rise further. T34 paper has been traded at WS 650 for November and now asking higher, underpinning the general sentiment that the physical market is around the WS 650+ mark for same despite lack of “proof” that same has been concluded. However, a couple of reported fixtures Yanbu/east in the mid WS 700’s, a trade normally yielding a 100-point premium give or take over Fujairah/GOO, also support same. A Brazil export cargo destined for China was concluded at WS S55 yesterday, up 20 points from last done and further evidence of a strengthening market. Oil prices are also on an upward trajectory after a Houthi missile attack on Saudi Arabia's biggest oil refinery yesterday. Both oil and shipping markets are anxiously waiting for greater clarity on President Trump's next move toward Iran with strong rumours of a planned attack after the midterm election on November 3rd.
+Asia's imports of crude oil recovered in October to match levels prior to the Iran conflict which goes far in explaining the stronger sentiment last week. Alas, the rear-view mirror trumps real time information these days with owners and charterers alike having become masters of deflection and obfuscation with plenty of artful dissembling, which have taken a bit of the sting out of the market, and this week the market took a bit of a hit. Suezmaxes lead the charge down yesterday, and with now a considerable aperture between VLCC and Suezmax rates the former will be at a disadvantage and under pressure to narrow the gap, especially in the Atlantic. TD34 has seen a downward adjustment with WS 625 now reportedly concluded, albeit on a relet – and although there’s been a bit of a cleanup oil company- and trader relets are still dominating the position list. However, all said and done, we’re still talking historical high rates and corresponding returns, even if there should be a further correction, which appears likely.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2026-10-28 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2026-11-04 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-9 offers on one West Africa cargo is slightly misleading - a huge flat rate commanding the appetite - as overall FOC availabilities, particularly of non-compromised ships, are very low and supply constriction in the 2 week window is relevant again now that we are only fixing around 18 days forwards. CPC has only fixed down on a relet, and Guyana & USG business will not be afforded the additional buffer eastern ballasters give West Africa. Suezmax Share in West Africa has also returned after 1st decade activity on VLCC picked up a little after October placed a record 88MBBLS on Suezmaxes at the expense of VLCCs. East of Suez despite lengthening of availabilities we are on a collision course with a firmer VLCC market where availabilities have once again constricted. That could underpin the bottoming and potential firming of the Atlantic basin for the time being.
+Supply keeps lengthening in the Atlantic with 14 FOC excluding the flood of 18 FOC ex East that we are excluding from West Africa counts. Demand expectations remain solid with Guyana & West Africa still holding good volumes back, 25MBBLS expected from the latter for the balance of November. The working window keeps coming prompter and prompter however and a strong FOC availability, the weakness of the forward curve and the high RELET presence (10 ETA up to 20th for West Africa) may encourage charterers to be patient and allow it to move to a 2 week window. Oil price changes in the wake of the Mid Terms may alter this complexion & we are significantly more competitive than VLCCs bss last done levels. However USG crudes are priced better for TA moves - domain of the AFRAs - and JS into the East - domain of the VLCCs - and FFAs continue to erode, so don't hold your breath.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2026-10-28 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2026-11-04 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-NSEA
-Rates have remained relatively steady from last week with limited market activity.  With relets in position and what looks like a fairly light crude program in the first decade natural window should push beyond the 10th without much in the way of fixtures.  Tonnage in the early part of the list still has options to ballast to Med and US markets to avoid waiting time. There has been a lack of tonnage ballasting TA which we expect to increase heading into November which will even without market activity keep the available tonnage from growing to much. 
-MED
-It's a rollercoaster week so far in the Med with replacements jobs done well above the ws 900 mark but the normal fixing window is getting fixed back to where it was at the end of last week. Ceyhan should be done for the 1st decade of November with nothing close to ws 800 being paid with bigger flats than the Augusta. Expecting rates to remain north of ws 750 depending on min flat and dates.
+North Sea
+What a difference a week makes. Western Aframax markets have all fallen rapidly this week with limited activity allowing charterers to take freight down.  North Sea has seen market correct from freight in the WS 500’s down into the 300’s. Dates have pushed into the 2nd decade but we still have enough prompt free of cargo tonnage looking for employment. With US and Mediterranean markets also becoming weaker alternative options for owners are not as obvious at the moment. We are heading into the time of year where unpredictable weather does have an influence which may help owners find some stability although some more softening expected before that occurs.
+
+Mediterranean
+The softening of the Mediterranean market continues as activity remains lacklustre for the 1st half of November with more than enough tonnage. Owners are looking for alternatives, but we have only seen a handful of vessels ballasting out. As in the North Sea, returns are strong on the right dates but we need to find a new floor.
 
 ---
 
 ## 3. Gas & LNG Markets
-### LNG Market Report
-**Date:** 2026-10-28 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
-
-There are significant global events underway or on the horizon, not least of which are the with elections in Israel and the midterms in the U.S., and increasing tensions again in the Middle East; the LNG and LNG shipping markets also find themselves at a similarly uncertain juncture in the short-term. LNG prices have continued to rise and with Europe now entering the heating season withdrawals from storage have begun. Forward gas prices have risen sharply and this coincides with the announced extension of the Force Majeure out of Qatar. How high LNG prices will go and whether Asian buyers will complete at such levels will go a long way to shaping how the freight market will react in the coming weeks.
- 
-The spot market in the West has strengthened off the back of a number of fixtures and a slight drawdown on the position lists, although additional fresh requirements will be needed to maintain the momentum. Independent owners in the East have been actively targeting premium markets, resulting in a large clearout of prompt availability, with much of this tonnage unlikely to reappear before well into Q1 next year. Consequently, firm offers for non-Middle East business are becoming harder to extract, putting greater emphasis on sublet tonnage to provide liquidity and therefore set the pricing direction. In contrast to the Atlantic basin, November still looks broadly soft to flat from here, but the potential for upside increases into December. The firming cargo prices add another supportive element (subject to the impact on the arbitrage), while portfolios appear reluctant to release length too readily ahead of potential inter-basin swings further into Q1.
-
----
+*No dedicated gas/LNG commentary published this week.*
 
 ## 4. Sale and Purchase (S&P) & Corporate Activity
-### SnP Weekly Comment
-**Date:** 2026-10-30 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
-
-Tanker activity ramped up once again this week but with much more emphasis being placed on product carriers rather than crude, though one would be remiss to ignore the excellent prices achieved by two reported suezmax sales. Scrubber fitted CS FUJAIRAH/ROTTERDAM/SINGAPORE/HOUSTON (50k dwt Chengxi 2026/2027) achieved USD 55.75M each, which will help price modern resale tonnage, and displays the strength of earnings on offer for these units. Older MRs, particularly if they are equipped with COW, are in high demand given earnings to trade dirty, seen in 18-year-old MAYFAIR (49k dwt HMD 2008) selling at USD 27M. 
-
-As previously stated in this report, dry remains solid despite recent fluctuations in big ticket spot capesize earnings. Overall, values are elevated and sellers can pick and choose whether they cash in with willing suitors. It feels that sellers aren’t rushed but are safe in the knowledge a buyer is there if they do decide to put vessels on the chopping block. This week in the usually busy c.15-year-old Supramax sector, CHARADE (58k dwt Tess Cebu 2013) sold for USD 22.5M.
-
----
-
-### Chartering Weekly Comment
-**Date:** 2026-10-28 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
-
-After a brief rally that saw cargoes conclude around the USD 330/t level in the middle of last week, freight rates have gradually softened, with recent fixtures reported below USD 315/t. Market activity remains subdued and some of the fixing is occurring behind closed doors, contributing to an overall quieter sentiment.
-
-We have registered 28 fixtures for Nov thus far (7/9/12 by decade), and market attention is now shifting toward December, where three spot fixtures ex-US Gulf have been concluded so far.
-
-The East-West arbitrage remains open and continues to support cargo economics at current freight levels. While vessel availability remains broadly balanced against demand, the recent correction suggests charterers have regained some negotiating power. Going forward, participants will be closely monitoring fixture volumes and fresh cargo emergence to determine whether rates have found support or if further downside remains likely in the weeks ahead.
-
----
+*No dedicated S&P commentary published this week.*

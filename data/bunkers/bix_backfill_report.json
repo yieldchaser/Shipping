@@ -1,48 +1,48 @@
 {
   "archive": {
-    "date_max": "2026-11-02",
+    "date_max": "2026-11-03",
     "date_min": "2025-09-09",
-    "distinct_obs_dates": 296,
-    "new_keys_added": 15,
-    "prior_history_rows": 4425,
-    "total_rows": 4440
+    "distinct_obs_dates": 297,
+    "new_keys_added": 0,
+    "prior_history_rows": 4455,
+    "total_rows": 4455
   },
   "pages": [
     {
-      "date_max": "2026-11-02",
-      "date_min": "2025-11-04",
+      "date_max": "2026-11-03",
+      "date_min": "2025-11-05",
       "index_code": "BIX_World",
       "obs_days": 256,
       "rows": 768,
       "url": "https://www.bunkerindex.com/indices/world.php"
     },
     {
-      "date_max": "2026-11-02",
-      "date_min": "2025-11-04",
+      "date_max": "2026-11-03",
+      "date_min": "2025-11-05",
       "index_code": "BIX_World3",
       "obs_days": 256,
       "rows": 768,
       "url": "https://www.bunkerindex.com/indices/world-3.php"
     },
     {
-      "date_max": "2026-11-02",
-      "date_min": "2025-11-04",
+      "date_max": "2026-11-03",
+      "date_min": "2025-11-05",
       "index_code": "BIX_Americas",
       "obs_days": 256,
       "rows": 768,
       "url": "https://www.bunkerindex.com/indices/region.php?r=21&n=americas"
     },
     {
-      "date_max": "2026-11-02",
-      "date_min": "2025-11-04",
+      "date_max": "2026-11-03",
+      "date_min": "2025-11-05",
       "index_code": "BIX_APAC",
       "obs_days": 256,
       "rows": 768,
       "url": "https://www.bunkerindex.com/indices/region.php?r=7&n=apac"
     },
     {
-      "date_max": "2026-11-02",
-      "date_min": "2025-11-04",
+      "date_max": "2026-11-03",
+      "date_min": "2025-11-05",
       "index_code": "BIX_EMEA",
       "obs_days": 256,
       "rows": 768,
