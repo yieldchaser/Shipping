@@ -2,18 +2,18 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2951,
-      "untracked_bytes": 2297446628
+      "untracked_files": 2985,
+      "untracked_bytes": 2305924810
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4065,
-      "untracked_bytes": 2392952430
+      "untracked_files": 4057,
+      "untracked_bytes": 2389108169
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 13,
-      "untracked_bytes": 2060615
+      "untracked_files": 9,
+      "untracked_bytes": 2035986
     },
     {
       "path": "corpus/04-poten",
@@ -5668,6 +5668,131 @@
       "sha256": "ae4069231c5ba43de6b80c9312ef4d52770ecf74060768b1e66890a9067dbfd7"
     },
     {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/TDA.png",
+      "bytes": 163051,
+      "sha256": "56e7648bfcebff417845c2e361006569893f22cadb023f3fd204028c74c9eb19"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/TDC.png",
+      "bytes": 130078,
+      "sha256": "7cc18ae8643fdd9aa62ae68176e0c52938324221aa626f7c6e80b834cc9c1d2a"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/TDM.png",
+      "bytes": 148593,
+      "sha256": "0faa4c4401627d10f307d0e51743c00b85fcd0c2b375e3515d6c88ca9267bab6"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/TDP.png",
+      "bytes": 131892,
+      "sha256": "30b9108596248c9c4967026d3dcb14d33257ae9607779b1aa86c18f1e4a2db7f"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/TDS.png",
+      "bytes": 168210,
+      "sha256": "daa2c261198aaf41bddae1ca5e8861d9f25d85c3e16b16e253e176420a08332c"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/TDT.png",
+      "bytes": 83700,
+      "sha256": "f880e89e655f77a8b7c99d6feffd6056844d9e48f3d2c1834dcfd41c3327ed9a"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/TDV.png",
+      "bytes": 152136,
+      "sha256": "6da093586d7f29fb17979f86b044ba42513df3fae4e8a3d17c63b7a40798a04c"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/UAE.png",
+      "bytes": 124889,
+      "sha256": "b9c11773b7d54112f3284d5a96b44087d661dfd29643a5bccc149c6134487164"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/americas.png",
+      "bytes": 188393,
+      "sha256": "43f595c243c90519e2b93f3ca77ee101d142d8102a53d05b4b94234ec57d53f3"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/arb.png",
+      "bytes": 202841,
+      "sha256": "8af1194d1abd2fbee6d4b3d074c93f05df9f3c5dbea84e4cb8dcd726c9d8b90a"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/crackmr.png",
+      "bytes": 272997,
+      "sha256": "0570c011f7a9c8475984b840e6e3fe84d6a90b33b634395b01171624111f4385"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/cracks.png",
+      "bytes": 193484,
+      "sha256": "0968b81e733bd74fed939f1dbf1d2a7f7984b060342595ee7b3ed7ad57f49253"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/cracksch.png",
+      "bytes": 265550,
+      "sha256": "eeea5dee015c3006cfa215b2d671ca31adbfe5b3c57b0d5b86b95b0ff12046a1"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/cracksus.png",
+      "bytes": 251220,
+      "sha256": "b66d03016c8d7d70911c595d35af5f67fba08998a1739fbe56ef490b12b08ba1"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/dated.png",
+      "bytes": 166504,
+      "sha256": "3d97b9bc4f10ab0df29865165baa15457070702cafb6081f26adccb1ad4781c2"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/fleet growth.png",
+      "bytes": 241800,
+      "sha256": "92a7df7c6cff591f0976b32d11adf060c5a1abdec2cd03acaa9a7353e329fa07"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/fleet.png",
+      "bytes": 101788,
+      "sha256": "5b94839e2fc09cc6516cc115061a2bf9863514b5e952986b18d70cd5ad5bd34e"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/hits.png",
+      "bytes": 133868,
+      "sha256": "4099186688793490ea7b1dd99b132b0671af047b63c861a947fb04d919f930ea"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/opec.png",
+      "bytes": 159361,
+      "sha256": "6ab5d4712c43e0c95a7b5f13f4435681e6409460b1cb1e2f3e628a27c8073158"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/rates.png",
+      "bytes": 113412,
+      "sha256": "00cd0408601e33b5552a55e1dc3c08b5cb926b5640fd6a30921c2c8bce9972ec"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/refrun.png",
+      "bytes": 149900,
+      "sha256": "70b1c435324165cae5b657503fec6ab351e97579789426f7d2e0967161111904"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/share.png",
+      "bytes": 150689,
+      "sha256": "2d28e75e8047d88f770e98cf0c1cc77d094f64bed40b546297e58cc0df84abe7"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/volc.png",
+      "bytes": 194047,
+      "sha256": "74596aba9a5366e840f73f6d121d51770f1986062f10708b9b1dcd3df1a3210b"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/116a644a-73ea-4c4f-acea-193900281e3d/volp.png",
+      "bytes": 199307,
+      "sha256": "b81aaf9dcc9a7e402d0b02de9b2fb92c52cc3013b7a5869aac40fe671fb2b49e"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/pdfs/2026/2026-10-30_fearnleys-tanker-market-wrap-up-oct-2026.pdf",
+      "bytes": 4376400,
+      "sha256": "1f35a7bbdb8c07a7fbb2e084ca5a33dba333ae6a7606cf9cb3300f6bfcb91109"
+    },
+    {
       "path": "corpus/01-brokers/fearnleys/2018/fearnleys_2018_W29_fw_week_29_2018b.pdf",
       "bytes": 756383,
       "sha256": "06209ccb382a1cdca483a8268ff6fd682ff796f26b8543f971ce22cde17a8ed6"
@@ -7003,6 +7128,11 @@
       "sha256": "53c796aec96a41b1c644b0ab121ff2dc8f16c04e368e2d52b6aac23116aa3655"
     },
     {
+      "path": "corpus/01-brokers/fearnleys/voice/aframax/2026/2026-11-04_aframax_9668e78c.md",
+      "bytes": 1612,
+      "sha256": "32c87fb9ef6e04837f6aee4d203c29fbc5373436e6df004ac784e9de05a94ecb"
+    },
+    {
       "path": "corpus/01-brokers/fearnleys/voice/capesize/2026/2026-10-07_capesize_a7d21452.md",
       "bytes": 1805,
       "sha256": "aeaaf648c666f879fd095177f4982f4a4180521a0f6540ed8d7a47652e5e18a0"
@@ -7021,6 +7151,11 @@
       "path": "corpus/01-brokers/fearnleys/voice/capesize/2026/2026-10-28_capesize_bfecc53e.md",
       "bytes": 1652,
       "sha256": "d8c3bcf9f022e9017040b03f9ff912434e8892808b3b95a4b844f545a1680688"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys/voice/capesize/2026/2026-11-04_capesize_fb442653.md",
+      "bytes": 1643,
+      "sha256": "6be28cf79a3ede74a2c108292fa240ed08ecef63a9a3a43e9cd5e0b5536ce022"
     },
     {
       "path": "corpus/01-brokers/fearnleys/voice/chartering/2026/2026-10-07_chartering_25575d2a.md",
@@ -7043,6 +7178,11 @@
       "sha256": "7436fe47f90b62d62404aa9f62a8c104641057919c9244e2e748c86a0c3b5405"
     },
     {
+      "path": "corpus/01-brokers/fearnleys/voice/chartering/2026/2026-11-04_chartering_c02cc6cd.md",
+      "bytes": 1541,
+      "sha256": "09df3ac216a271eba29d96d5f4032c308ee4e74e4410ba7ca59ea3560f5e9706"
+    },
+    {
       "path": "corpus/01-brokers/fearnleys/voice/lng/2026/2026-10-07_lng_c95e1439.md",
       "bytes": 2680,
       "sha256": "918f2aee1427bf2ff48f748c288d0dc0c0bbabdf00ecf5beaa20a2c8813ea5be"
@@ -7061,6 +7201,11 @@
       "path": "corpus/01-brokers/fearnleys/voice/lng/2026/2026-10-28_lng_2633a1ee.md",
       "bytes": 2236,
       "sha256": "fb0ea983bf8e65b01b978cb14b94ad9d777b1f6ac1b5eeb66470af60a45ca406"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys/voice/lng/2026/2026-11-04_lng_27804c16.md",
+      "bytes": 1977,
+      "sha256": "485b4031857961aa42934ce2628f9e0ab9004a743a53d15e8f2f5c2741503451"
     },
     {
       "path": "corpus/01-brokers/fearnleys/voice/panamax/2026/2026-10-07_panamax_3c5c4b74.md",
@@ -7083,6 +7228,11 @@
       "sha256": "26bac0611a3cb4a1cb3bc08100ccd56e2325e15d2b553382de96eb032089f6a4"
     },
     {
+      "path": "corpus/01-brokers/fearnleys/voice/panamax/2026/2026-11-04_panamax_2c7f4747.md",
+      "bytes": 1325,
+      "sha256": "e0c923e4b772c682de245a9dbc6090ea5a8e6ce0847451cd427faa08e0ed8a70"
+    },
+    {
       "path": "corpus/01-brokers/fearnleys/voice/snp/2026/2026-10-16_snp_8435d822.md",
       "bytes": 1918,
       "sha256": "f9a99744d6ac3a35c03b087793b403d3fd09b72c54777a52d3682eea328897c0"
@@ -7091,6 +7241,11 @@
       "path": "corpus/01-brokers/fearnleys/voice/snp/2026/2026-10-23_snp_755e08e2.md",
       "bytes": 2105,
       "sha256": "ddc7e36ffeba41ec845646433372f68137e7ba74111679c1fb85790d2c6cb289"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys/voice/snp/2026/2026-10-30_snp_845ebb14.md",
+      "bytes": 1711,
+      "sha256": "554bcfae217af49e4efd4783d3308ad945f3c1652537954517aa39eca1013db1"
     },
     {
       "path": "corpus/01-brokers/fearnleys/voice/suezmax/2026/2026-10-07_suezmax_90cee00b.md",
@@ -7113,6 +7268,11 @@
       "sha256": "b18322dd210512fb11107f25d5fe509c398afb2a66d1fbb94b4a1c8f4f606835"
     },
     {
+      "path": "corpus/01-brokers/fearnleys/voice/suezmax/2026/2026-11-04_suezmax_15690250.md",
+      "bytes": 1471,
+      "sha256": "2ead693f6d43c7a8d8a72e698bddb4a95f641940f337196b92af5b8658431597"
+    },
+    {
       "path": "corpus/01-brokers/fearnleys/voice/supramax/2026/2026-10-07_supramax_3b64a519.md",
       "bytes": 1250,
       "sha256": "38a97c50a9269d585eb6a76a72e6bf296ac6b4daa6a9f5e9155a17f14d824f05"
@@ -7133,6 +7293,11 @@
       "sha256": "847d8170cca97a92ac766a24496e0e9669fc168573ced0a43f633580d39e6494"
     },
     {
+      "path": "corpus/01-brokers/fearnleys/voice/supramax/2026/2026-11-04_supramax_27da43f7.md",
+      "bytes": 1185,
+      "sha256": "16a42bb45e5ab03080fcab10ef8ea1293a9f4f94601a6262fafaaf220c47d644"
+    },
+    {
       "path": "corpus/01-brokers/fearnleys/voice/vlcc/2026/2026-10-07_vlcc_b1f018bd.md",
       "bytes": 1452,
       "sha256": "9c4f58988470eda15867f2a463a7a91df5887334685c95e38ec05df64fba0fa0"
@@ -7151,6 +7316,11 @@
       "path": "corpus/01-brokers/fearnleys/voice/vlcc/2026/2026-10-28_vlcc_20db6957.md",
       "bytes": 1628,
       "sha256": "4a70a834927fe1265b89b353ce715db66c069830c2bf13740401d00a278a736f"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys/voice/vlcc/2026/2026-11-04_vlcc_857c5b30.md",
+      "bytes": 1607,
+      "sha256": "99509a68436870f6129221b7b9666250af351e1092e54d0bfeac475e1a3ca013"
     },
     {
       "path": "corpus/01-brokers/gibson/2021/gibson_2021_2021-02-07-Oil-production-its-a-game-of-two-halves.pdf",
@@ -14818,11 +14988,6 @@
       "sha256": "0bba66ef4bd0790e891d2fa8957aff2678eaaf35df892acb039919ba36270d07"
     },
     {
-      "path": "corpus/02-hellenic/demolition/2026/2026-11-03_athenian-shipbrokers-s-a-demolition-quick-update-week-44-2026.html",
-      "bytes": 3122,
-      "sha256": "7583e55f9caab85a078481fa317b4e9b2fdb3ec33a4179075bf4e7362b8b9452"
-    },
-    {
       "path": "corpus/02-hellenic/demolition/pdfs/2024-04-15_Ship-recycling-market-insight-week-15-2024-Ramadan_Resurgence\u2026Or_Not.pdf",
       "bytes": 653148,
       "sha256": "a79a268821e132d8cdeb7fcd037d30c80ded62b9953ad0804fd3f7244207ab74"
@@ -14846,11 +15011,6 @@
       "path": "corpus/02-hellenic/demolition/pdfs/2026-08-15_best-oasis-weekly-recycling-market-report-14-august-2026_weekly-ship-recycling-report-08-augu_4ca6a14ecc27.pdf",
       "bytes": 1526416,
       "sha256": "52b23f9d42d155925f97c66cebc616237a05be249ba46e4de12f1473f63b3c70"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/pdfs/2026-11-03_athenian-shipbrokers-s-a-demolition-quick-update-week-44-2026_week-44-athenian-demolition-report-2_86c176f086fc.pdf",
-      "bytes": 628154,
-      "sha256": "823fedd4af84dc5ef7f5e78142d57f8d3cea5f18dfc75ebe412acd33142f4caf"
     },
     {
       "path": "corpus/02-hellenic/demolition/pdfs/athenian/2021-07-07_athenian-shipbrokers-s-a-demolition-quick-update-week-26-2021_ship-recycling-weekly-26-2021-atheni_3c137c5215b0.pdf",
@@ -16441,11 +16601,6 @@
       "path": "corpus/02-hellenic/demolition/pdfs/athenian/2026-09-08_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2026_week-36-athenian-demolition-report-2_2c3e38bed81c.pdf",
       "bytes": 628085,
       "sha256": "030e062e3637cde71b5e63a1b0b8f0ff517d5d9562568a2f5c7054fda79775ed"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/pdfs/athenian/2026-11-03_athenian-shipbrokers-s-a-demolition-quic_Week_44_Athenian_Demolition_Report_2026.pdf",
-      "bytes": 628154,
-      "sha256": "823fedd4af84dc5ef7f5e78142d57f8d3cea5f18dfc75ebe412acd33142f4caf"
     },
     {
       "path": "corpus/02-hellenic/demolition/pdfs/best_oasis/2021-07-03_Weekly-Ship-Recycling-Report.pdf",
@@ -20281,16 +20436,6 @@
       "path": "corpus/02-hellenic/iron_ore/2024/assets/2024-07-12_mmi-daily-iron-ore-index-report-july-12-2024_img1_1207202\u03b4\u03c3_e133c3395525.jpg",
       "bytes": 469290,
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/2026-11-04_mmi-daily-iron-ore-index-report-november-4-2026.html",
-      "bytes": 4485,
-      "sha256": "0a86d61f7fc55bb72b5adf140132b613a4c3df583abbe0557e18cdf8cd1ebb3e"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-11-04_mmi-daily-iron-ore-index-report-november-4-2026_04112026chinese87_c81214ac974d.jpg",
-      "bytes": 198547,
-      "sha256": "540c3d5a7d5f11a2fd1da432ce19af21c946c157ef65c511c7ac0cbb49957358"
     },
     {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
@@ -30288,11 +30433,6 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-11-04_mmi-daily-iron-ore-index-report-november-4-2026_mmi-daily-iron-ore-report-for-4th-no_1fe4a3602095.pdf",
-      "bytes": 1189544,
-      "sha256": "f23b5e18a5c12f8183efe46670ee50f832cc7911abb29d27095cd194d55c4a2d"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31681,16 +31821,6 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-11-04_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-4th-November-2026.pdf",
-      "bytes": 1189544,
-      "sha256": "f23b5e18a5c12f8183efe46670ee50f832cc7911abb29d27095cd194d55c4a2d"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/2026/2026-11-03_breakwave-tanker-report-11-3-2026.html",
-      "bytes": 2711,
-      "sha256": "47e7e476a98bd05071c453afe6127113ae05643789b4fbba2865bfbadee30ff0"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -35126,26 +35256,6 @@
       "path": "corpus/02-hellenic/vessel_valuations/2022/assets/2022-02-15_weekly-vessel-valuations-report-february-15-2022_\u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03ae-4_8c0794a8805a.jpg",
       "bytes": 52460,
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-04_us-midterms-may-change-iran-war-stalemate-but-tanker-inefficiency-will-remain.html",
-      "bytes": 9437,
-      "sha256": "7e501f87a7e6d17a7eb877641c470f4822df4d87706f03789b2048dc3a52c041"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-04_us-midterms-may-change-iran-war-stalemate-but-tanker-inefficiency-will-remain.md",
-      "bytes": 7554,
-      "sha256": "1f8f6d7ffe76e77fc74a48e781a972eb04cf6806f1795a26d341602afcc40d96"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-04_vlccs-more-cargoes-less-cover.html",
-      "bytes": 4717,
-      "sha256": "91fc28d8d63fd27c5d0096b83e3ac337cc9241cc28a988d2aa86b9d6b157b1c0"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-04_vlccs-more-cargoes-less-cover.md",
-      "bytes": 2921,
-      "sha256": "34f629c9eabc457cd4e161e89441450a7e67446a3364b6a50d31ccc2a43076ec"
     },
     {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
