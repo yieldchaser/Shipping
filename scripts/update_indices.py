@@ -103,7 +103,7 @@ def scrape_see_capital_index(code):
     try:
         r = _SESSION.get(url, params={'indexId': idx_id, 'years': 1}, headers=headers, timeout=20)
         if r.status_code == 200:
-            data = r.json().get('data', [])
+            data = r.json().get('data') or []
             records = []
             for i, item in enumerate(data):
                 dt = item.get('Date', '')[:10]
@@ -630,13 +630,19 @@ SGX_HISTORY_URL = (
     "https://api.sgx.com/derivatives/v1.0/history/symbol/{ticker}"
     "?days=5d&category=futures"
     "&params=base-date%2Ctotal-volume%2Cdaily-settlement-price-abs"
+    "%2Cpreliminary-settlement-price%2Cpreliminary-settlement-price-adj"
     "%2Copen-interest"
 )
 
+SGX_CONTRACT_CODE_URL = (
+    "https://api.sgx.com/derivatives/v1.0/contract-code/{product_code}?category=futures"
+)
+
 SGX_HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36',
     'Referer': 'https://www.sgx.com/',
     'Origin': 'https://www.sgx.com',
+    'Accept': 'application/json',
 }
 
 
@@ -644,7 +650,7 @@ def generate_sgx_tickers(product_code):
     """
     Generate all possible tickers from current month to Dec 2032.
     e.g. CWF + J + 26 = CWFJ26 (Capesize Apr 2026)
-    Returns list of (ticker, month_num, year, month_name, expiry_date_str)
+    Returns list of (ticker, month_num, year, month_name, expiry_date_str, expiry_date)
     """
     now = datetime.now()
     today = date.today()
@@ -660,6 +666,60 @@ def generate_sgx_tickers(product_code):
     return tickers
 
 
+def fetch_sgx_live_quotes(product_code):
+    """
+    Fetch current session forward curve snapshot from SGX delayed-prices endpoint.
+    Returns dict: {ticker: (date_str, price, volume, open_interest)}
+    This endpoint provides same-day preliminary settlement prices for the entire
+    curve in a single request, preventing multi-day lags when SGX's historical
+    batch archive has not yet posted settlement rows.
+    """
+    url = SGX_CONTRACT_CODE_URL.format(product_code=product_code)
+    try:
+        r = _SESSION.get(url, headers=SGX_HEADERS, timeout=20)
+        r.raise_for_status()
+        data = r.json().get('data') or []
+        quotes = {}
+        for entry in data:
+            sym = entry.get('symbol')
+            base_date = entry.get('base-date')
+            if not sym or not base_date:
+                continue
+
+            price = (
+                entry.get('daily-settlement-price-abs') or
+                entry.get('daily-settlement-price') or
+                entry.get('preliminary-settlement-price-adj') or
+                entry.get('preliminary-settlement-price') or
+                entry.get('last-traded-price-abs')
+            )
+            if price is None:
+                continue
+            try:
+                price_f = float(price)
+                if price_f <= 0:
+                    continue
+            except (ValueError, TypeError):
+                continue
+
+            volume = float(entry.get('total-volume') or 0.0)
+            oi = float(entry.get('open-interest') or 0.0)
+            try:
+                d = datetime.strptime(str(base_date), '%Y%m%d')
+                date_str = d.strftime('%Y-%m-%d')
+            except Exception:
+                continue
+
+            # In the response there can be multiple sessions (e.g. session 0 for day, 1 for T+1);
+            # select the session entry with valid price and largest volume/open interest.
+            if sym not in quotes or (volume > quotes[sym][2] or oi > quotes[sym][3]):
+                quotes[sym] = (date_str, price_f, volume, oi)
+        return quotes
+    except Exception as e:
+        print(f"  [{product_code}] Live quote fetch error: {e}")
+        return {}
+
+
 def fetch_sgx_latest(ticker):
     """
     Fetch last 5 days for ticker. Returns list of (date YYYY-MM-DD, price, volume, open_interest)
@@ -669,16 +729,22 @@ def fetch_sgx_latest(ticker):
     try:
         r = _SESSION.get(url, headers=SGX_HEADERS, timeout=20)
         r.raise_for_status()
-        data = r.json().get('data', [])
+        data = r.json().get('data') or []
         if not data:
             return None
         rows = []
         for entry in data:
-            price     = entry.get('daily-settlement-price-abs')
+            price = (
+                entry.get('daily-settlement-price-abs') or
+                entry.get('daily-settlement-price') or
+                entry.get('preliminary-settlement-price-adj') or
+                entry.get('preliminary-settlement-price') or
+                entry.get('last-traded-price-abs')
+            )
             volume    = entry.get('total-volume')
             oi        = entry.get('open-interest')
             base_date = entry.get('base-date')  # e.g. "20260826"
-            if price is None or base_date is None:
+            if price is None or base_date is None or float(price) <= 0:
                 continue
             d = datetime.strptime(str(base_date), '%Y%m%d')
             rows.append((d.strftime('%Y-%m-%d'), float(price), float(volume or 0), float(oi or 0)))
@@ -713,6 +779,11 @@ def update_sgx_csv(filename, product_code):
         existing_keys = set()
 
     tickers = generate_sgx_tickers(product_code)
+
+    # Step 1: Ingest live forward curve snapshot from SGX contract-code endpoint (single fast request)
+    live_quotes = fetch_sgx_live_quotes(product_code)
+    print(f"  [{product_code}] Live forward curve snapshot: {len(live_quotes)} active quotes retrieved")
+
     new_rows = []
     active_count = 0
     skipped_expired = 0
@@ -723,15 +794,28 @@ def update_sgx_csv(filename, product_code):
             skipped_expired += 1
             continue
 
-        results = fetch_sgx_latest(ticker)
-        if results is None:
-            continue  # not active — skip silently
-
         active_count += 1
-        for date_str, price, volume, oi in results:
-            if (ticker, date_str) in existing_keys:
-                continue
+        ticker_rows = []
 
+        # Check live quotes first
+        if ticker in live_quotes:
+            live_date_str, live_price, live_vol, live_oi = live_quotes[ticker]
+            if (ticker, live_date_str) not in existing_keys:
+                ticker_rows.append((live_date_str, live_price, live_vol, live_oi))
+                existing_keys.add((ticker, live_date_str))
+
+        # Check history endpoint to backfill any missing historical days
+        hist_results = fetch_sgx_latest(ticker)
+        if hist_results:
+            for d_str, p, v, o in hist_results:
+                if (ticker, d_str) not in existing_keys:
+                    ticker_rows.append((d_str, p, v, o))
+                    existing_keys.add((ticker, d_str))
+
+        if not ticker_rows:
+            continue
+
+        for date_str, price, volume, oi in ticker_rows:
             new_rows.append({
                 'contract':      ticker,
                 'expiry_month':  f"{month_name} {year}",
@@ -742,9 +826,8 @@ def update_sgx_csv(filename, product_code):
                 'open_interest': oi,
                 'expiry_date':   expiry_str,
             })
-            existing_keys.add((ticker, date_str))
-        print(f"  {ticker} ({month_name} {year}, exp {expiry_str}): {price}  vol={volume}  oi={oi}")
-        time.sleep(0.15)  # polite delay between calls
+            print(f"  {ticker} ({month_name} {year}, exp {expiry_str}): {price} ({date_str})  vol={volume}  oi={oi}")
+        time.sleep(0.05)  # polite delay between calls
 
     if skipped_expired:
         print(f"  Skipped {skipped_expired} already-expired contracts")
