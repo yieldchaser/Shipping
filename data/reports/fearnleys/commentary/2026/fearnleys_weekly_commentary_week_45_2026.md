@@ -4,13 +4,13 @@ source: "Fearnleys Hasura GraphQL API (fearnpulse.com)"
 year: 2026
 week: 45
 date_range: "2026-11-04 to 2026-11-04"
-comments_count: 7
+comments_count: 8
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-11-04 15:35:48"
+generated_at: "2026-11-04 22:45:17"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 45, 2026
-*Coverage Period: 2026-11-04 to 2026-11-04 | Total Notes: 7*
+*Coverage Period: 2026-11-04 to 2026-11-04 | Total Notes: 8*
 
 ## Executive Summary
 Institutional desk intelligence harvested directly from the Fearnleys Hasura GraphQL backend, covering global Dry Bulk, Crude & Product Tankers, Gas/LNG markets, and Secondhand S&P deals for Week 45 (2026).
@@ -64,7 +64,16 @@ The softening of the Mediterranean market continues as activity remains lacklust
 ---
 
 ## 3. Gas & LNG Markets
-*No dedicated gas/LNG commentary published this week.*
+### LNG Market Report
+**Date:** 2026-11-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+
+With mid-term results in, all eyes are on the US for any signs of changing foreign policy and the implications for energy shipping. Meanwhile, demand for LNG transit across the Strait of Hormuz continues to produce a “market within a market”, as a growing portion of the LNGC fleet embarks on Middle East trade, despite the ongoing risk.
+
+East of Suez has seen a week of relatively high fixing activity, with spot demand spanning Australia, Canada, Malaysia and Oman. While the availability lists seem well-stocked at first glance, there is a disconnect between vessels open on-paper and their owners’ actual trading preferences. By and large, the attention of independent owners remains focussed on premium Middle East business, leaving sublet tonnage to shoulder the demand from “open” terminals. However, with portfolios becoming shorter and more inclined to keep hold of vessels, supply is tightening and rates are climbing.
+
+The Atlantic has seen a creeping improvement in spot rates, despite subdued demand and a stubborn availability list. The latter has been somewhat curbed this week by portfolios and traders taking a “wait and see” approach (in part, in case of any dramatic actions after the midterms). The seasonal bullish sentiment isn’t really evident this year despite moving firmly into the winter fixing window, although the bid-offer spread is broadening and thus stifling liquidity.
+
+---
 
 ## 4. Sale and Purchase (S&P) & Corporate Activity
 ### Chartering Weekly Comment

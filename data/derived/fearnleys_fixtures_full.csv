@@ -584926,3 +584926,7 @@ id,date,charterer,owner,vessel,imo,rate,period,route,segment,department,commodit
 882207,2026-11-04,,,,,,,,Panamax,BULK,Coal,,,,
 882208,2026-11-04,,,,,,,,Panamax,BULK,Grain,,,,Via ECSA
 882209,2026-11-04,Grain Compass,,,,,,,Panamax,BULK,Urea,,,,APS LEKKI; ABT 55 DAYS WOG
+882210,2026-11-04,,,,,,,,Panamax,BULK,Calcined Petroleum Coke,,,,part cargo acceptable
+882211,2026-11-04,EXXON,Silverburn Shipping IOM Ltd,Arctic,9658288,W490,,,Suezmax,TANK,,SEME TERMINAL,UKCM,23-24/11,OO
+882212,2026-11-04,IRVING,EDH Shipowning Inc,Sea Avon,1058030,W400,,,Suezmax,TANK,,SIDI KERIR,CANAPORT,18/11,DEM USD 240
+882213,2026-11-04,SK,Summersea Shipping SA,Faithful Warrior,9750062,$24.75MILL,,,Suezmax,TANK,,USG,ROK,5-10/12,DEM USD 255
