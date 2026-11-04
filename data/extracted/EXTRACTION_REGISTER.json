@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 22:35:04Z",
+  "updated_at": "2026-11-04 23:11:27Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -929,7 +929,7 @@
     {
       "file": "bancosta_commodities_series.csv",
       "target_metric": "Energy, metals, agricultural benchmarks",
-      "rows": 8600,
+      "rows": 8627,
       "columns": [
         "issue_date",
         "report_week",
@@ -965,7 +965,7 @@
     {
       "file": "bancosta_demolition_series.csv",
       "target_metric": "Indicative demolition assessments ($/LDT)",
-      "rows": 1059,
+      "rows": 1065,
       "columns": [
         "issue_date",
         "report_week",
@@ -993,7 +993,7 @@
     {
       "file": "bancosta_ffa_series.csv",
       "target_metric": "Dry bulk FFA forward curve assessments ($/day)",
-      "rows": 7798,
+      "rows": 7834,
       "columns": [
         "issue_date",
         "report_week",
@@ -1011,7 +1011,7 @@
     {
       "file": "bancosta_freight_rates_series.csv",
       "target_metric": "Dry bulk & Tanker freight benchmark rates ($/day, WS)",
-      "rows": 20767,
+      "rows": 20855,
       "columns": [
         "issue_date",
         "report_week",
@@ -1029,7 +1029,7 @@
     {
       "file": "bancosta_fx_series.csv",
       "target_metric": "Foreign exchange rates (USD/EUR, JPY, KRW, CNY)",
-      "rows": 344,
+      "rows": 348,
       "columns": [
         "issue_date",
         "report_week",
@@ -1045,7 +1045,7 @@
     {
       "file": "bancosta_newbuilding_series.csv",
       "target_metric": "Indicative newbuilding prices ($/m)",
-      "rows": 2557,
+      "rows": 2573,
       "columns": [
         "issue_date",
         "report_week",
@@ -1073,7 +1073,7 @@
     {
       "file": "bancosta_sales_series.csv",
       "target_metric": "Secondhand sales transactions with 7-digit IMOs",
-      "rows": 3272,
+      "rows": 3293,
       "columns": [
         "issue_date",
         "report_week",
@@ -1098,7 +1098,7 @@
     {
       "file": "bancosta_secondhand_matrix_series.csv",
       "target_metric": "Baltic secondhand price assessment matrix ($/m)",
-      "rows": 1952,
+      "rows": 1959,
       "columns": [
         "issue_date",
         "report_week",
@@ -1115,7 +1115,7 @@
     {
       "file": "bancosta_vhss_series.csv",
       "target_metric": "VHSS Containership ConTex index & timecharter rates",
-      "rows": 651,
+      "rows": 658,
       "columns": [
         "issue_date",
         "report_week",
@@ -3945,13 +3945,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 707953,
+  "total_master_stacked_rows": 708165,
   "total_master_series_csvs": 166,
-  "total_stacked_rows": 707953,
+  "total_stacked_rows": 708165,
   "total_series_csvs": 166,
   "total_master_workbooks": 1,
   "total_series_count": 166,
-  "total_rows_extracted": 708258,
+  "total_rows_extracted": 708470,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 609,
     "advanced_shipping_demolition_series.csv": 2040,
@@ -3968,16 +3968,16 @@
     "athenian_yearly_demolition_volume_series.csv": 4122,
     "baltic_ncfi_series.csv": 2053,
     "baltic_reports_metadata.csv": 2249,
-    "bancosta_commodities_series.csv": 8600,
+    "bancosta_commodities_series.csv": 8627,
     "bancosta_container_fixtures_series.csv": 946,
-    "bancosta_demolition_series.csv": 1059,
-    "bancosta_ffa_series.csv": 7798,
-    "bancosta_freight_rates_series.csv": 20767,
-    "bancosta_fx_series.csv": 344,
-    "bancosta_newbuilding_series.csv": 2557,
-    "bancosta_sales_series.csv": 3272,
-    "bancosta_secondhand_matrix_series.csv": 1952,
-    "bancosta_vhss_series.csv": 651,
+    "bancosta_demolition_series.csv": 1065,
+    "bancosta_ffa_series.csv": 7834,
+    "bancosta_freight_rates_series.csv": 20855,
+    "bancosta_fx_series.csv": 348,
+    "bancosta_newbuilding_series.csv": 2573,
+    "bancosta_sales_series.csv": 3293,
+    "bancosta_secondhand_matrix_series.csv": 1959,
+    "bancosta_vhss_series.csv": 658,
     "best_oasis_deals_series.csv": 920,
     "best_oasis_demolition_series.csv": 878,
     "best_oasis_exchange_rates_series.csv": 173,
