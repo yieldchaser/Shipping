@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 22:59:00Z",
+  "updated_at": "2026-11-04 15:07:13Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -2660,7 +2660,7 @@
     {
       "file": "intermodal_baltic_indices_series.csv",
       "target_metric": "Baltic Dry indices (BDI, BCI, BPI, BSI, BHSI)",
-      "rows": 1275,
+      "rows": 1280,
       "columns": [
         "issue_date",
         "report_week",
@@ -2680,7 +2680,7 @@
     {
       "file": "intermodal_bunkers_series.csv",
       "target_metric": "Bunker prices across Rotterdam, Houston, Singapore ($/t)",
-      "rows": 2322,
+      "rows": 2331,
       "columns": [
         "issue_date",
         "report_week",
@@ -2696,7 +2696,7 @@
     {
       "file": "intermodal_currencies_series.csv",
       "target_metric": "Demolition cash currencies (BDT, INR, PKR, TRY)",
-      "rows": 700,
+      "rows": 704,
       "columns": [
         "issue_date",
         "report_week",
@@ -2712,7 +2712,7 @@
     {
       "file": "intermodal_demo_sales_series.csv",
       "target_metric": "Reported demolition scrap sales fixtures ($/LDT)",
-      "rows": 584,
+      "rows": 585,
       "columns": [
         "issue_date",
         "report_week",
@@ -2732,7 +2732,7 @@
     {
       "file": "intermodal_demolition_prices_series.csv",
       "target_metric": "Indicative demolition prices across subcontinent ($/LDT)",
-      "rows": 2072,
+      "rows": 2080,
       "columns": [
         "issue_date",
         "report_week",
@@ -2748,7 +2748,7 @@
     {
       "file": "intermodal_demolition_series.csv",
       "target_metric": "Indicative demolition prices & sales fixtures combined",
-      "rows": 2656,
+      "rows": 2665,
       "columns": [
         "issue_date",
         "report_week",
@@ -2775,7 +2775,7 @@
     {
       "file": "intermodal_indicative_values_series.csv",
       "target_metric": "Indicative secondhand 5Y asset values ()",
-      "rows": 2406,
+      "rows": 2415,
       "columns": [
         "issue_date",
         "report_week",
@@ -2795,7 +2795,7 @@
     {
       "file": "intermodal_macro_daily_series.csv",
       "target_metric": "Intermodal Macro Daily",
-      "rows": 23120,
+      "rows": 23210,
       "columns": [
         "issue_date",
         "report_week",
@@ -2813,7 +2813,7 @@
     {
       "file": "intermodal_macro_series.csv",
       "target_metric": "Macroeconomic indicators and energy commodity benchmarks",
-      "rows": 4898,
+      "rows": 4918,
       "columns": [
         "issue_date",
         "report_week",
@@ -2829,7 +2829,7 @@
     {
       "file": "intermodal_maritime_stocks_series.csv",
       "target_metric": "Maritime listed shipping equities & stock indices",
-      "rows": 3196,
+      "rows": 3207,
       "columns": [
         "issue_date",
         "report_week",
@@ -2846,7 +2846,7 @@
     {
       "file": "intermodal_newbuilding_orders_series.csv",
       "target_metric": "Reported newbuilding contracting orders & shipyard contracts",
-      "rows": 1939,
+      "rows": 1952,
       "columns": [
         "issue_date",
         "report_week",
@@ -2866,7 +2866,7 @@
     {
       "file": "intermodal_newbuilding_prices_series.csv",
       "target_metric": "Indicative newbuilding benchmark prices ()",
-      "rows": 3237,
+      "rows": 3249,
       "columns": [
         "issue_date",
         "report_week",
@@ -2883,7 +2883,7 @@
     {
       "file": "intermodal_newbuilding_series.csv",
       "target_metric": "Indicative newbuilding prices & reported orders combined",
-      "rows": 5176,
+      "rows": 5201,
       "columns": [
         "issue_date",
         "report_week",
@@ -2907,7 +2907,7 @@
     {
       "file": "intermodal_sales_series.csv",
       "target_metric": "Secondhand sales transactions ()",
-      "rows": 3870,
+      "rows": 3883,
       "columns": [
         "issue_date",
         "report_week",
@@ -2931,7 +2931,7 @@
     {
       "file": "intermodal_tanker_spot_series.csv",
       "target_metric": "Tanker spot market WS points & TCE ($/day)",
-      "rows": 3945,
+      "rows": 3960,
       "columns": [
         "issue_date",
         "report_week",
@@ -2951,7 +2951,7 @@
     {
       "file": "intermodal_tc_rates_series.csv",
       "target_metric": "Time charter rates across crude, product, and dry bulk",
-      "rows": 5313,
+      "rows": 5333,
       "columns": [
         "issue_date",
         "report_week",
@@ -3945,13 +3945,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 707611,
+  "total_master_stacked_rows": 707875,
   "total_master_series_csvs": 166,
-  "total_stacked_rows": 707611,
+  "total_stacked_rows": 707875,
   "total_series_csvs": 166,
   "total_master_workbooks": 1,
   "total_series_count": 166,
-  "total_rows_extracted": 707916,
+  "total_rows_extracted": 708180,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 609,
     "advanced_shipping_demolition_series.csv": 2040,
@@ -4052,22 +4052,22 @@
     "hellenic_vv_benchmark_sales_series.csv": 124,
     "hellenic_vv_matrix_series.csv": 20024,
     "hellenic_vv_sales_series.csv": 2102,
-    "intermodal_baltic_indices_series.csv": 1275,
-    "intermodal_bunkers_series.csv": 2322,
-    "intermodal_currencies_series.csv": 700,
-    "intermodal_demo_sales_series.csv": 584,
-    "intermodal_demolition_prices_series.csv": 2072,
-    "intermodal_demolition_series.csv": 2656,
-    "intermodal_indicative_values_series.csv": 2406,
-    "intermodal_macro_daily_series.csv": 23120,
-    "intermodal_macro_series.csv": 4898,
-    "intermodal_maritime_stocks_series.csv": 3196,
-    "intermodal_newbuilding_orders_series.csv": 1939,
-    "intermodal_newbuilding_prices_series.csv": 3237,
-    "intermodal_newbuilding_series.csv": 5176,
-    "intermodal_sales_series.csv": 3870,
-    "intermodal_tanker_spot_series.csv": 3945,
-    "intermodal_tc_rates_series.csv": 5313,
+    "intermodal_baltic_indices_series.csv": 1280,
+    "intermodal_bunkers_series.csv": 2331,
+    "intermodal_currencies_series.csv": 704,
+    "intermodal_demo_sales_series.csv": 585,
+    "intermodal_demolition_prices_series.csv": 2080,
+    "intermodal_demolition_series.csv": 2665,
+    "intermodal_indicative_values_series.csv": 2415,
+    "intermodal_macro_daily_series.csv": 23210,
+    "intermodal_macro_series.csv": 4918,
+    "intermodal_maritime_stocks_series.csv": 3207,
+    "intermodal_newbuilding_orders_series.csv": 1952,
+    "intermodal_newbuilding_prices_series.csv": 3249,
+    "intermodal_newbuilding_series.csv": 5201,
+    "intermodal_sales_series.csv": 3883,
+    "intermodal_tanker_spot_series.csv": 3960,
+    "intermodal_tc_rates_series.csv": 5333,
     "ism_coaster_freight_series.csv": 12491,
     "ism_handy_freight_series.csv": 17851,
     "lion_deals_series.csv": 1385,

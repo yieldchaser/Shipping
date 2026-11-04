@@ -3,7 +3,7 @@
     {
       "path": "corpus/01-brokers",
       "untracked_files": 2953,
-      "untracked_bytes": 2297836111
+      "untracked_bytes": 2298650186
     },
     {
       "path": "corpus/02-hellenic",
@@ -48,9 +48,9 @@
   ],
   "entries": [
     {
-      "path": "corpus/01-brokers/_digests/carriers/2026/carriers_04_11_2026_carriers_sales_purchase_market_report_week_44.md",
-      "bytes": 8336,
-      "sha256": "2ecf293cd7a8c81a39e63662697839975a8dc5b664547c11c8c2554f3961dfd9"
+      "path": "corpus/01-brokers/_digests/intermodal/2026/intermodal_04_11_2026_intermodal_weekly_market_report_week_44_2026_broker_s_insi.md",
+      "bytes": 26102,
+      "sha256": "5384831bac04082bc93f8a0619a176e5b6575aed9d2ed7d9d156dd1daea4d9b9"
     },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
@@ -5433,11 +5433,6 @@
       "sha256": "d614475e31d15e54029376f4c1d53053d6ff96ffd108a6eb646d2e88fc5149f9"
     },
     {
-      "path": "corpus/01-brokers/carriers/2026/carriers_04_11_2026_carriers_sales_purchase_market_report_week_44.pdf",
-      "bytes": 381147,
-      "sha256": "f29eee5a1552952e47cdc0e61e68fcc596e4235d15aea202f4e054c67c2d8bf1"
-    },
-    {
       "path": "corpus/01-brokers/carriers/2026/carriers_2026_W01_WK-1-26-CARRIERS_SP-MARKET-REPORT.pdf",
       "bytes": 337616,
       "sha256": "80c28b24644b6951bcc1e85b2445d628df622ba40758164b2f44e3953f70cd8b"
@@ -8801,6 +8796,11 @@
       "path": "corpus/01-brokers/intermodal/2025/intermodal_2025_W51_Intermodal-Report-Week-51-2025.pdf",
       "bytes": 1060310,
       "sha256": "c9fac24f50115f7a8d67584cb55124800745db44cb69b19d05fa0cd0a095b456"
+    },
+    {
+      "path": "corpus/01-brokers/intermodal/2026/intermodal_04_11_2026_intermodal_weekly_market_report_week_44_2026_broker_s_insi.pdf",
+      "bytes": 1177456,
+      "sha256": "20f87b303954179f1182a93c61f2928eaebf868cb688bdfe8eb09014df86f837"
     },
     {
       "path": "corpus/01-brokers/intermodal/2026/intermodal_2026_W02_Intermodal-Report-Week-02-2026.pdf",
