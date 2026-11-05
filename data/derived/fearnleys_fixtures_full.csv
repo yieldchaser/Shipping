@@ -585893,3 +585893,21 @@ id,date,charterer,owner,vessel,imo,rate,period,route,segment,department,commodit
 883201,2026-11-05,Spectrum,,,,,,,Panamax,BULK,Coal,,,,
 883202,2026-11-05,,,,,,,,Panamax,BULK,Equipments,,,,NOT STACKABLE; ON DECK IS OK
 883203,2026-11-05,,,,,,,,Panamax,BULK,Wheat,,,,sf 45'; Part cargo OK
+883204,2026-11-05,,,,,,LONG TERM,,Panamax,BULK,,,,,Oil tanker available for long-term charter. Proof of Contract REQUIRED with LOI to get an offer.
+883205,2026-11-05,,,,,,LONG TERM,,Panamax,BULK,oil,,,,"Proof of Contract REQUIRED with their LOI to get an offer. Interested Charterers are invited to submit their requirements, including intended cargo, trading area, charter period and hire indication."
+883206,2026-11-05,,,,,,LONG TERM,,Panamax,BULK,oil,,,,Oil tanker available for long term T/C
+883207,2026-11-05,,DryDel Shipping,ELEOVRYTISSA,,,,,Handymax,BULK,grain,,,,RIGHTSHIP SAFETY SCORE 3
+883208,2026-11-05,,,,,,,,Panamax,BULK,Coal,,,,
+883209,2026-11-05,,,,,,,,Panamax,BULK,Coal,,,,Via USEC
+883210,2026-11-05,Bunge,,,,,,,Panamax,BULK,Grain,,,,Via NCSA
+883211,2026-11-05,Bunge,,,,,,,Panamax,BULK,Grain,,,,Del APS
+883212,2026-11-05,LDC,,,,,,,Panamax,BULK,Grain,,,,Via ECSA
+883213,2026-11-05,,Hai Sheng No 37 Tianjin BOBFL,Badrinath,9608300,,,,VLGC,LPG,,,,,
+883214,2026-11-05,,Ocean Link Maritime SA,Legend Prestige,9773234,,,,VLGC,LPG,,,,,
+883215,2026-11-05,,Sunny Gas Transportation SA,Yuyo,9322657,,,,VLGC,LPG,,,,,
+883216,2026-11-05,,EDOLENA SHIPPING,YU RU,,,,,Handysize,BULK,chemical/oil products,,,,ETA/D Trincomalee(bunker) 15th/16th Nov 2026
+883217,2026-11-05,,,,,,,,Panamax,BULK,Ferts,,,,
+883218,2026-11-05,,EDOLENA SHIPPING,YU RU,,,,,Handysize,BULK,,,,,ETA/D HALDIA 19th/22nd Nov 2026
+883219,2026-11-05,,EDOLENA SHIPPING,CHASE OCEAN,,,,,Handymax,BULK,"Soybean oil, gasoil",,,,"last cargo: Soybean oil, gasoil, gasoil"
+883220,2026-11-05,,,,,,,,Panamax,BULK,Bulk Fertilizer,,,,
+883221,2026-11-05,,EDOLENA SHIPPING,MAXINE,,,Long-Term,,Handysize,BULK,,,,,Inspectable North Continent. Present enroute to Iceland.
