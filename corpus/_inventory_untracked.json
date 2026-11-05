@@ -7,13 +7,13 @@
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4069,
-      "untracked_bytes": 2392076140
+      "untracked_files": 4057,
+      "untracked_bytes": 2389108169
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 13,
-      "untracked_bytes": 2057608
+      "untracked_files": 9,
+      "untracked_bytes": 2035986
     },
     {
       "path": "corpus/04-poten",
@@ -20308,34 +20308,9 @@
       "sha256": "94fe795675127664dd244b56e6220edc2549f31123d5660b14bc632eec0a1395"
     },
     {
-      "path": "corpus/02-hellenic/dry_charter/2026/2026-11-04_weekly-dry-time-charter-estimates-november-4-2026.html",
-      "bytes": 2641,
-      "sha256": "cc8aa352a87e222e9609945fcb6a7aef7db7e3a23de2f7b0802f9377a4b76167"
-    },
-    {
-      "path": "corpus/02-hellenic/dry_charter/2026/assets/2026-11-04_weekly-dry-time-charter-estimates-november-4-2026_04112026dry.jpg",
-      "bytes": 71349,
-      "sha256": "652de2cd4729351ea262b16cdd06412b8a9864df0db43458fd2e4bc391c29e8e"
-    },
-    {
-      "path": "corpus/02-hellenic/dry_charter/2026/assets/2026-11-04_weekly-dry-time-charter-estimates-november-4-2026_04112026dry_e23699ebf60b.jpg",
-      "bytes": 71349,
-      "sha256": "652de2cd4729351ea262b16cdd06412b8a9864df0db43458fd2e4bc391c29e8e"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/2024/assets/2024-07-12_mmi-daily-iron-ore-index-report-july-12-2024_img1_1207202\u03b4\u03c3_e133c3395525.jpg",
       "bytes": 469290,
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/2026-11-05_mmi-daily-iron-ore-index-report-november-5-2026.html",
-      "bytes": 4276,
-      "sha256": "dbd572453ed9a5b020ebb7f7b161913c7df4fd03b56055505a35b9a61fd897b9"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-11-05_mmi-daily-iron-ore-index-report-november-5-2026_5112026chinese_45cffa27e26d.jpg",
-      "bytes": 188464,
-      "sha256": "b7abd8068aa6194d3e4cdd7936379bbae24c46f0c716182bd0859f096f3f1c33"
     },
     {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
@@ -30333,11 +30308,6 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-11-05_mmi-daily-iron-ore-index-report-november-5-2026_mmi-daily-iron-ore-report-for-5th-no_bfbf73a7e19e.pdf",
-      "bytes": 1187260,
-      "sha256": "ce36900d9f9db0b880583e99c8e3be139245d0b435d489361fcf1f3f3723bbce"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31726,11 +31696,6 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-11-05_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-5th-November-2026.pdf",
-      "bytes": 1187260,
-      "sha256": "ce36900d9f9db0b880583e99c8e3be139245d0b435d489361fcf1f3f3723bbce"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -35163,54 +35128,9 @@
       "sha256": "5c5179782527d5b5d012add55657c36a653c42ef6af6b1216b205122d751e410"
     },
     {
-      "path": "corpus/02-hellenic/tanker_charter/2026/2026-11-04_weekly-tanker-time-charter-estimates-november-4-2026.html",
-      "bytes": 2668,
-      "sha256": "ea8a36c61dfc1a401175ffdc4e5ff64913b67f022c0fea86d7fe59ed74f851ca"
-    },
-    {
-      "path": "corpus/02-hellenic/tanker_charter/2026/assets/2026-11-04_weekly-tanker-time-charter-estimates-november-4-2026_04112026tanker.jpg",
-      "bytes": 87039,
-      "sha256": "efc478fd7d6c91ae561cfb9930d91da5d61293455cb66e273d88f74172c4a884"
-    },
-    {
-      "path": "corpus/02-hellenic/tanker_charter/2026/assets/2026-11-04_weekly-tanker-time-charter-estimates-november-4-2026_04112026tanker_1d44dee6d434.jpg",
-      "bytes": 87039,
-      "sha256": "efc478fd7d6c91ae561cfb9930d91da5d61293455cb66e273d88f74172c4a884"
-    },
-    {
       "path": "corpus/02-hellenic/vessel_valuations/2022/assets/2022-02-15_weekly-vessel-valuations-report-february-15-2022_\u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03ae-4_8c0794a8805a.jpg",
       "bytes": 52460,
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
-    },
-    {
-      "path": "corpus/02-hellenic/vessel_valuations/2026/2026-11-04_weekly-vessel-valuations-report-november-3-2026.html",
-      "bytes": 2894,
-      "sha256": "0762e79a5669a720fe7e72c4d651754f4f404c7e28314e848ae3b2d6726b5254"
-    },
-    {
-      "path": "corpus/02-hellenic/vessel_valuations/2026/assets/2026-11-04_weekly-vessel-valuations-report-november-3-2026_04112026.jpg",
-      "bytes": 75732,
-      "sha256": "2f3482ca310c22cbf958bbeea9e8fae7b0cd678e4be84a6ce4d5fa1112c68335"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-05_how-many-of-the-88-will-fix.html",
-      "bytes": 4683,
-      "sha256": "341de231feb87471e3aa1bc73c97563f2d569d2c7a957392bf8c77b0b1b02274"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-05_how-many-of-the-88-will-fix.md",
-      "bytes": 2819,
-      "sha256": "26f7b86fbd2bf60b2bfaa4adc5205bc25532197fa579e5964e29e232757fa5d2"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-05_the-thermal-coal-market-is-benefiting-from-strengthening-demand.html",
-      "bytes": 7950,
-      "sha256": "b05bbad9d7c97a1c5bc5e651fb55797b7fa0381c03119765c400b200d6541fd7"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-05_the-thermal-coal-market-is-benefiting-from-strengthening-demand.md",
-      "bytes": 6170,
-      "sha256": "b410589af702b2bb4e406c5070bf81cdbadf3f5691a2e7a34a38b2354a213493"
     },
     {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
