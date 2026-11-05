@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated_at_utc": "2026-11-05T01:03:58.145085+00:00",
+  "updated_at_utc": "2026-11-05T02:02:51.926389+00:00",
   "quotes": {
     "BDRY": {
       "symbol": "BDRY",
@@ -8,7 +8,7 @@
       "previous_close": 12.4015,
       "change": 0.2085,
       "change_percent": 1.6812,
-      "regular_market_day_high": 12.93,
+      "regular_market_day_high": 12.95,
       "regular_market_day_low": 12.61,
       "regular_market_volume": 61305,
       "market_time_utc": "2026-11-04T21:00:00+00:00",
