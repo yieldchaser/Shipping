@@ -17952,3 +17952,14 @@ date,year,indicator,contract,value,unit,change,change_pct,as_of,source_file
 2026-11-04,2026,global_shipments_mt_million,,34.3119,mt_m,,,,2026-11-04_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-4th-November-2026.pdf
 2026-11-04,2026,hot_metal_daily_avg_mt_million,,2.3573,mt_m,,,,2026-11-04_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-4th-November-2026.pdf
 2026-11-04,2026,port_inventory_10_ports_mt_million,,104.0353,mt_m,,,,2026-11-04_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-4th-November-2026.pdf
+2026-11-05,2026,DCE Iron Ore Most-traded I2701,,691.0,yuan/mt,9.0,,,2026-11-05_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-5th-November-2026.pdf
+2026-11-05,2026,MMi 58% Port Spot,,609.0,yuan/wmt,2.0,,,2026-11-05_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-5th-November-2026.pdf
+2026-11-05,2026,MMi 61% Port Spot,,658.0,yuan/wmt,2.0,,,2026-11-05_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-5th-November-2026.pdf
+2026-11-05,2026,MMi 61% Seaborne Index,,91.75,USD/dmt,0.65,,,2026-11-05_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-5th-November-2026.pdf
+2026-11-05,2026,MMi 65% Port Spot,,820.0,yuan/wmt,2.0,,,2026-11-05_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-5th-November-2026.pdf
+2026-11-05,2026,MMi 65% Seaborne Index,,107.7,USD/dmt,0.95,,,2026-11-05_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-5th-November-2026.pdf
+2026-11-05,2026,SMM Domestic Ore Composite Index,,743.46,yuan/mt,0.0,,,2026-11-05_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-5th-November-2026.pdf
+2026-11-05,2026,bf_operating_rate_pct,,87.06,pct,,,,2026-11-05_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-5th-November-2026.pdf
+2026-11-05,2026,freight_c3_usd_mt,,35.84,USD/mt,,,,2026-11-05_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-5th-November-2026.pdf
+2026-11-05,2026,freight_c5_usd_mt,,13.35,USD/mt,,,,2026-11-05_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-5th-November-2026.pdf
+2026-11-05,2026,port_inventory_10_ports_mt_million,,104.6789,mt_m,,,,2026-11-05_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-5th-November-2026.pdf
