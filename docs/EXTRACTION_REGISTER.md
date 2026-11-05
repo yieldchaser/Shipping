@@ -29,7 +29,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 
 ---
 
-## 2. Master Stacked Series Inventory (708,655 Total Rows across 166 CSVs + 1 Master Workbook)
+## 2. Master Stacked Series Inventory (708,657 Total Rows across 166 CSVs + 1 Master Workbook)
 
 | Series CSV | Target Metric / Commodity / Segment | Total Stacked Rows | Status |
 | :--- | :--- | :---: | :---: |
@@ -92,8 +92,8 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [drewry_ais_lpg_fr_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_lpg_fr_series.csv) | LPG Fully Refrigerated fleet intelligence & trade flows | 33 | Verified |
 | [drewry_ais_product_lr1_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_product_lr1_series.csv) | LR1 Product tanker fleet intelligence & earnings | 36 | Verified |
 | [drewry_ais_product_lr2_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_ais_product_lr2_series.csv) | LR2 Product tanker fleet intelligence & earnings | 32 | Verified |
-| [drewry_opinions_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_opinions_metadata.csv) |  | 563 | Verified |
-| [drewry_wci_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_wci_series.csv) |  | 10 | Verified |
+| [drewry_opinions_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_opinions_metadata.csv) |  | 564 | Verified |
+| [drewry_wci_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/drewry_wci_series.csv) |  | 11 | Verified |
 | [fearnleys_drybulk_growth_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_drybulk_growth_series.csv) | Fearnleys Drybulk Growth historical structured dataset | 180 | Verified |
 | [gibson_bunker_prices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_bunker_prices_series.csv) |  | 1,040 | Verified |
 | [gibson_spot_chart_daily.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_spot_chart_daily.csv) | Gibson Spot Chart Daily.Csv historical structured dataset | 9,375 | Verified |
@@ -201,7 +201,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [xclusiv_secondhand_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_secondhand_series.csv) | Dry bulk & tanker secondhand price matrix ($M) | 8,700 | Verified |
 | [corpus_publication_cadence_and_audit.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/corpus_publication_cadence_and_audit.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [gibson_master_tanker_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_master_tanker_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
-| **TOTAL** | **Master Stacked Repository Footprint (166 CSVs + 1 Master Workbook)** | **708,655** | **100.0% Pass** |
+| **TOTAL** | **Master Stacked Repository Footprint (166 CSVs + 1 Master Workbook)** | **708,657** | **100.0% Pass** |
 
 ---
 

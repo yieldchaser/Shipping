@@ -1,17 +1,5 @@
 [
   {
-    "date": "2026-05-22",
-    "composite_iaci": null,
-    "shanghai_nehru_port": 1450.0,
-    "shanghai_tanjung_pelepas": 1591.0,
-    "shanghai_singapore": 947.0,
-    "shanghai_yokohama": 769.0,
-    "jakarta_shanghai": 77.0,
-    "busan_shanghai": 65.0,
-    "ho_chi_minh_shanghai": 70.0,
-    "yokohama_shanghai": 90.0
-  },
-  {
     "date": "2026-05-29",
     "composite_iaci": null,
     "shanghai_nehru_port": 1753.0,
@@ -285,6 +273,18 @@
     "jakarta_shanghai": 81.0,
     "busan_shanghai": 176.0,
     "ho_chi_minh_shanghai": 44.0,
+    "yokohama_shanghai": 127.0
+  },
+  {
+    "date": "2026-11-05",
+    "composite_iaci": null,
+    "shanghai_nehru_port": 3263.0,
+    "shanghai_tanjung_pelepas": 2123.0,
+    "shanghai_singapore": 2064.0,
+    "shanghai_yokohama": 1029.0,
+    "jakarta_shanghai": 90.0,
+    "busan_shanghai": 189.0,
+    "ho_chi_minh_shanghai": 50.0,
     "yokohama_shanghai": 127.0
   }
 ]
