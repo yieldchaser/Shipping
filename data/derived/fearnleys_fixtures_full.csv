@@ -585911,3 +585911,11 @@ id,date,charterer,owner,vessel,imo,rate,period,route,segment,department,commodit
 883219,2026-11-05,,EDOLENA SHIPPING,CHASE OCEAN,,,,,Handymax,BULK,"Soybean oil, gasoil",,,,"last cargo: Soybean oil, gasoil, gasoil"
 883220,2026-11-05,,,,,,,,Panamax,BULK,Bulk Fertilizer,,,,
 883221,2026-11-05,,EDOLENA SHIPPING,MAXINE,,,Long-Term,,Handysize,BULK,,,,,Inspectable North Continent. Present enroute to Iceland.
+883222,2026-11-05,L M,,,,,,,Panamax,BULK,Grains,,,,Handy/Handymax -25 years max/geared -sd/bc
+883223,2026-11-05,,,,,,,,Panamax,BULK,Minerals,,,,
+883224,2026-11-05,LHG,,,,,,,Panamax,BULK,Iron Ore/Manganese,,,,15 shipments one per month; followed by top-up at Alpha Zone and/or Piriápolis; Freight Payment: 100% passing Singapore; FRESH
+883225,2026-11-05,LHG,,,,,,,Panamax,BULK,Iron Ore/Manganese,,,,Freight Payment: 100% passing Singapore
+883226,2026-11-05,,,Fjardvagen,,,,,Panamax,BULK,,,,,Ice Class 1A SUPER. Vessel trading in Finland - Åland Islands where inspectable.
+883227,2026-11-05,,EDOLENA SHIPPING,Fjardvagen,,,,,Panamax,BULK,,,,,For sale following older RO-PAX but in well kept condition. Has been in EU based managers hands mainly all her life. Vessel trading in Finland - Åland Islands where inspectable.
+883228,2026-11-05,,,Fjardvagen,,,,,Panamax,BULK,,,,,Ice Class 1A SUPER. Vessel trading in Finland - Åland Islands where inspectable.
+883229,2026-11-05,,EDOLENA SHIPPING,CABINDA EXPRESS,,,,,Mini-Handysize,BULK,containers,,,,"Delivery South East Asia is possible, Trading in Owners own Container Liner Service, CII exempted as classed heavy load carrier"
