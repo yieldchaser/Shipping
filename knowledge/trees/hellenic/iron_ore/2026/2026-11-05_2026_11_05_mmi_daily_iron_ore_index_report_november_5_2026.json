@@ -1,0 +1,118 @@
+{
+  "node_id": "hellenic_iron_ore_2026-11-05_2026_11_05_mmi_daily_iron_ore_index_report_november_5_2026__root",
+  "doc_id": "hellenic_iron_ore_2026-11-05_2026_11_05_mmi_daily_iron_ore_index_report_november_5_2026",
+  "parent_id": null,
+  "title": "MMI Daily Iron Ore Index Report November 5 2026",
+  "section_path": [
+    "MMI Daily Iron Ore Index Report November 5 2026"
+  ],
+  "section_path_text": "MMI Daily Iron Ore Index Report November 5 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe price recovery continued today across futures, port indices and seaborne quotations.DCE most traded closed at 691.0 yuan/mt, up 1.32%; the 61%, 58% and 65% port indices rose to 658, 609 and 820 yuan/wmt. The seaborne indices reached USD 91.75/dmt for the 61% and 107.70 for the 65%, with all 12 brands higher, indicating improved short-term pricing sentiment. However, prices and physical balances are not fully aligned.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "steel",
+    "daily",
+    "fines",
+    "smm",
+    "ore",
+    "mmi",
+    "prices"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 4288,
+  "source_path": "reports/hellenic/iron_ore/2026/2026-11-05_mmi-daily-iron-ore-index-report-november-5-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-november-5-2026",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2026-11-05_2026_11_05_mmi_daily_iron_ore_index_report_november_5_2026__s01_main",
+      "doc_id": "hellenic_iron_ore_2026-11-05_2026_11_05_mmi_daily_iron_ore_index_report_november_5_2026",
+      "parent_id": "hellenic_iron_ore_2026-11-05_2026_11_05_mmi_daily_iron_ore_index_report_november_5_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The price recovery continued today across futures, port indices and seaborne quotations.DCE most traded closed at 691.0 yuan/mt, up 1.32%; the 61%, 58% and 65% port indices rose to 658, 609 and 820 yuan/wmt. The seaborne indices reached USD 91.75/dmt for the 61% and 107.70 for the 65%, with all 12 brands higher, indicating improved short-term pricing sentiment.",
+      "keywords": [
+        "china",
+        "indices",
+        "demand",
+        "port",
+        "prices",
+        "rather",
+        "recovery",
+        "seaborne"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 269,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2026-11-05_2026_11_05_mmi_daily_iron_ore_index_report_november_5_2026__s02_linked_asset_2026_11_05_mmi_daily_iron_ore_index_report_november_5_2026_5112026chinese_45cffa27e26d_jpg",
+      "doc_id": "hellenic_iron_ore_2026-11-05_2026_11_05_mmi_daily_iron_ore_index_report_november_5_2026",
+      "parent_id": "hellenic_iron_ore_2026-11-05_2026_11_05_mmi_daily_iron_ore_index_report_november_5_2026__root",
+      "title": "Linked asset: 2026-11-05_mmi-daily-iron-ore-index-report-november-5-2026_5112026chinese_45cffa27e26d.jpg",
+      "section_path": [
+        "Linked asset: 2026-11-05_mmi-daily-iron-ore-index-report-november-5-2026_5112026chinese_45cffa27e26d.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-11-05_mmi-daily-iron-ore-index-report-november-5-2026_5112026chinese_45cffa27e26d.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/2026/assets/2026-11-05_mmi-daily-iron-ore-index-report-november-5-2026_5112026chinese_45cffa27e26d.jpg\n\nLinked image asset: 2026-11-05_mmi-daily-iron-ore-index-report-november-5-2026_5112026chinese_45cffa27e26d.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n| us SMM Iron Ore Price Index Five MMi indices as of Nov 5\nMMi 61% Port Spot MMi 58% Port Spot MMi 65% Port Spot\nDaily Daily Daily\nyuan/wmt yuan/wmt yuan/wmt\nA+2 +0.30% Last 3 months A+2 +0.33% Last 3 months 4+2 +0.24% Last 3 months\nMTD avg 654 MTD avg 606 MTD avg 816\nSMM Domestic Ore\nMMi 61% Seaborne MMi 65% Seaborne Composite Index\nIndex Daily Index Daily Daily\n91.75 -\"\\_. 107.70 ~~~ _, 74346 >),\nUSD/dmt USD/dmt yuan/mt\n4+0.65 +0.71% Last 3 months 4+0.95 +0.89% Last 3 months -0.00 0.00% Last 3 months\nMTD avg 91.11 MTD avg 106.94 MTD avg 743.46\nAs of Nov 5 + vs Nov4\nwww.mmiprices.com jarek@mmiprices.com",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "avg",
+        "daily",
+        "last",
+        "mmi",
+        "months",
+        "mtd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 383,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2026-11-05_2026_11_05_mmi_daily_iron_ore_index_report_november_5_2026__s03_linked_asset_2026_11_05_mmi_daily_iron_ore_index_report_november_5_2026_mmi_daily_iron_ore_report_for_5th_no_bfbf73a7e19e_pdf",
+      "doc_id": "hellenic_iron_ore_2026-11-05_2026_11_05_mmi_daily_iron_ore_index_report_november_5_2026",
+      "parent_id": "hellenic_iron_ore_2026-11-05_2026_11_05_mmi_daily_iron_ore_index_report_november_5_2026__root",
+      "title": "Linked asset: 2026-11-05_mmi-daily-iron-ore-index-report-november-5-2026_mmi-daily-iron-ore-report-for-5th-no_bfbf73a7e19e.pdf",
+      "section_path": [
+        "Linked asset: 2026-11-05_mmi-daily-iron-ore-index-report-november-5-2026_mmi-daily-iron-ore-report-for-5th-no_bfbf73a7e19e.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-11-05_mmi-daily-iron-ore-index-report-november-5-2026_mmi-daily-iron-ore-report-for-5th-no_bfbf73a7e19e.pdf",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2026-11-05_mmi-daily-iron-ore-index-report-november-5-2026_mmi-daily-iron-ore-report-for-5th-no_bfbf73a7e19e.pdf\n\nSMM IRON ORE D A I LY\n\n2026-11-05 Thursday · Imported & Domestic Ore · Prices · Supply-Demand · Inventory · Commentary\n\nSource SMM / SGX\n\nSGX: latest price · DCE: close\n\n# Futures Contracts\n\n|SGX Iron Ore Near-month|DCE Iron Ore Most-traded I2701|\n|---|---|\n|Contract (2026-11)||\n|USD/dmt|yuan/mt|\n|FEFX26 · 2026-11 · SGX|▲ +9.0 +1.32%|\n|As of preparation: 2026-11-05 18:08:23 (UTC+8)|MTD avg 679.6|\n|Quote time: 11-05 17:50:53 (UTC+8)|As of Nov 5 · vs Nov 4|\n\nLatest price Daily\n\n## 93.40 691.0\n\nLast 3 months Last 3 months\n\nFive MMi indices as of Nov 5\n\n# SMM Iron Ore Price Index\n\nMMi 61% Port Spot MMi 58% Port Spot MMi 65% Port Spot Daily Daily Daily\n\nyuan/wmt yuan/wmt yuan/wmt\n\n|▲ +2|+0.30%|Last 3 months|▲ +2|+0.33%|Last 3 months|▲ +2|+0.24%|Last 3 months|\n|---|---|---|---|---|---|---|---|---|\n|MTD avg 654|||MTD avg 606|||MTD avg 816 SMM Domestic Ore|||\n|MMi 61% Seaborne|||MMi 65% Seaborne|||Composite Index|||\n|Index|||Index||||||\n|USD/dmt|||USD/dmt|||yuan/mt|||\n|▲ +0.65|+0.71%|Last 3 months|▲ +0.95|+0.89%|Last 3 months|- 0.00|",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal",
+        "steel",
+        "daily",
+        "fines"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3536,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}
