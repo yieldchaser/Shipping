@@ -1,43 +1,43 @@
 {
   "schema_version": "1.0.0",
-  "generation_timestamp_utc": "2026-11-06T12:47:49.938898+00:00",
+  "generation_timestamp_utc": "2026-11-06T20:35:23.976929+00:00",
   "fund_symbol": "BWET",
   "contract_spec_version": "2026.08.14-VERIFIED-V1",
-  "holdings_snapshot_as_of_date": "2026-11-05",
+  "holdings_snapshot_as_of_date": "2026-11-06",
   "is_official_as_of_date": true,
   "date_sourcing": "OFFICIAL_SOURCE_DISCLOSED",
   "source_urls": [
     "https://amplifyetfs.com/bwet-holdings/"
   ],
   "source_hashes": {
-    "expected_registry_sha256": "2d0241afdd81e1b5b946a78cb2f8b506f3ca04c53de7cedca20a7de5c5322974",
-    "computed_archive_sha256": "2d0241afdd81e1b5b946a78cb2f8b506f3ca04c53de7cedca20a7de5c5322974"
+    "expected_registry_sha256": "48907f0283258e973b502007b69555f3aa344ce32c48b9fefa59802800a25e4e",
+    "computed_archive_sha256": "48907f0283258e973b502007b69555f3aa344ce32c48b9fefa59802800a25e4e"
   },
   "provenance": {
     "official_source_url": "https://amplifyetfs.com/bwet-holdings/",
-    "raw_source_path": "data/etf/raw_sources/amplify_master_2026-11-05.csv",
-    "raw_source_sha256": "ed3328b9afdf29e4c80ce66637b69c94471070bd6c6038f11728a4e1bc67b8fe",
-    "immutable_archive_path": "data/etf/raw_holdings/BWET/2026-11-05.csv",
-    "expected_registry_sha256": "2d0241afdd81e1b5b946a78cb2f8b506f3ca04c53de7cedca20a7de5c5322974",
-    "computed_archive_sha256": "2d0241afdd81e1b5b946a78cb2f8b506f3ca04c53de7cedca20a7de5c5322974",
-    "snapshot_content_sha256": "718b26c31b144c1ce8704e2a4c925ec03385bfdcaed5421e620f9905da780fab",
-    "manifest_snapshot_sha256": "718b26c31b144c1ce8704e2a4c925ec03385bfdcaed5421e620f9905da780fab",
+    "raw_source_path": "data/etf/raw_sources/amplify_master_2026-11-06.csv",
+    "raw_source_sha256": "21c8a20b8fa6f33209b0a02d586a45984ea2926d9ae3a82473d0dcaeed4e8c82",
+    "immutable_archive_path": "data/etf/raw_holdings/BWET/2026-11-06.csv",
+    "expected_registry_sha256": "48907f0283258e973b502007b69555f3aa344ce32c48b9fefa59802800a25e4e",
+    "computed_archive_sha256": "48907f0283258e973b502007b69555f3aa344ce32c48b9fefa59802800a25e4e",
+    "snapshot_content_sha256": "9baa82446e4bbbd055f444a56a0885990608d7b856c8d7b07e33651b0841fe7b",
+    "manifest_snapshot_sha256": "9baa82446e4bbbd055f444a56a0885990608d7b856c8d7b07e33651b0841fe7b",
     "provenance_verified": true,
     "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE"
   },
   "freshness_state": {
-    "business_day_age": 1,
+    "business_day_age": 0,
     "is_fresh": true,
     "max_freshness_limit_bdays": 3,
-    "reference_time_utc": "2026-11-06T12:47:49.938898+00:00"
+    "reference_time_utc": "2026-11-06T20:35:23.976929+00:00"
   },
   "baseline": {
-    "as_of_date": "2026-11-05",
+    "as_of_date": "2026-11-06",
     "is_contemporaneous": true,
-    "total_nav_dollars": 118670481.31,
-    "shares_outstanding": 170100,
-    "nav_per_share": 697.6513,
-    "market_price": 691.6009,
+    "total_nav_dollars": 95420756.74,
+    "shares_outstanding": 140100,
+    "nav_per_share": 681.0903,
+    "market_price": 669.89,
     "source_description": "Official Amplified Disclosures & CFTC Statements"
   },
   "positions": [
@@ -45,29 +45,29 @@
       "contract_name": "TD3C FFA 270kt Middle East Gulf to China USD/MT M Nov 26",
       "ticker": "DD3CM X26 INDEX",
       "cusip": "DD3CM X26",
-      "lots": 162.0,
+      "lots": 127.0,
       "multiplier": 1000.0,
       "multiplier_unit": "1,000 Metric Tons (MT) of Crude Oil Cargo",
-      "price": 212.118,
+      "price": 208.169,
       "product_code": "TL (Monthly Futures), TLB (BALMO)",
       "rulebook_ref": "NYMEX Rulebook Chapter 684 (\"Freight Route TD3C (Baltic) Futures\")",
       "route_class": "VLCC",
       "exchange": "NYMEX (New York Mercantile Exchange) / CME ClearPort",
-      "position_notional": 34363116.0
+      "position_notional": 26437463.0
     },
     {
       "contract_name": "TD3C FFA 270kt Middle East Gulf to China USD/MT M Dec 26",
       "ticker": "DD3CM Z26 INDEX",
       "cusip": "DD3CM Z26",
-      "lots": 207.0,
+      "lots": 197.0,
       "multiplier": 1000.0,
       "multiplier_unit": "1,000 Metric Tons (MT) of Crude Oil Cargo",
-      "price": 176.133,
+      "price": 183.708,
       "product_code": "TL (Monthly Futures), TLB (BALMO)",
       "rulebook_ref": "NYMEX Rulebook Chapter 684 (\"Freight Route TD3C (Baltic) Futures\")",
       "route_class": "VLCC",
       "exchange": "NYMEX (New York Mercantile Exchange) / CME ClearPort",
-      "position_notional": 36459531.0
+      "position_notional": 36190476.0
     },
     {
       "contract_name": "TD3C FFA 270kt Middle East Gulf to China USD/MT M Jan 27",
@@ -76,12 +76,12 @@
       "lots": 135.0,
       "multiplier": 1000.0,
       "multiplier_unit": "1,000 Metric Tons (MT) of Crude Oil Cargo",
-      "price": 118.772,
+      "price": 112.335,
       "product_code": "TL (Monthly Futures), TLB (BALMO)",
       "rulebook_ref": "NYMEX Rulebook Chapter 684 (\"Freight Route TD3C (Baltic) Futures\")",
       "route_class": "VLCC",
       "exchange": "NYMEX (New York Mercantile Exchange) / CME ClearPort",
-      "position_notional": 16034220.000000002
+      "position_notional": 15165224.999999998
     },
     {
       "contract_name": "TD3C FFA 270kt Middle East Gulf to China USD/MT M Feb 27",
@@ -90,12 +90,12 @@
       "lots": 135.0,
       "multiplier": 1000.0,
       "multiplier_unit": "1,000 Metric Tons (MT) of Crude Oil Cargo",
-      "price": 112.073,
+      "price": 103.41,
       "product_code": "TL (Monthly Futures), TLB (BALMO)",
       "rulebook_ref": "NYMEX Rulebook Chapter 684 (\"Freight Route TD3C (Baltic) Futures\")",
       "route_class": "VLCC",
       "exchange": "NYMEX (New York Mercantile Exchange) / CME ClearPort",
-      "position_notional": 15129855.0
+      "position_notional": 13960350.0
     },
     {
       "contract_name": "TD3C FFA 270kt Middle East Gulf to China USD/MT Mar 27",
@@ -104,12 +104,12 @@
       "lots": 135.0,
       "multiplier": 1000.0,
       "multiplier_unit": "1,000 Metric Tons (MT) of Crude Oil Cargo",
-      "price": 105.698,
+      "price": 99.195,
       "product_code": "TL (Monthly Futures), TLB (BALMO)",
       "rulebook_ref": "NYMEX Rulebook Chapter 684 (\"Freight Route TD3C (Baltic) Futures\")",
       "route_class": "VLCC",
       "exchange": "NYMEX (New York Mercantile Exchange) / CME ClearPort",
-      "position_notional": 14269230.0
+      "position_notional": 13391324.999999998
     },
     {
       "contract_name": "TD20 FFA 130kt West Africa to Continent USD/MT M Nov 26",
@@ -118,12 +118,12 @@
       "lots": 45.0,
       "multiplier": 1000.0,
       "multiplier_unit": "1,000 Metric Tons (MT) of Crude Oil Cargo",
-      "price": 82.125,
+      "price": 75.91,
       "product_code": "T2D (Monthly Futures), T2B (BALMO), T2M (Mini)",
       "rulebook_ref": "NYMEX Rulebook Chapter 944 (\"Freight Route TD20 (Baltic) Futures\")",
       "route_class": "Suezmax",
       "exchange": "NYMEX (New York Mercantile Exchange) / CME ClearPort",
-      "position_notional": 3695625.0
+      "position_notional": 3415950.0
     },
     {
       "contract_name": "TD20 FFA 130kt West Africa to Continent USD/MT M Dec 26",
@@ -132,12 +132,12 @@
       "lots": 45.0,
       "multiplier": 1000.0,
       "multiplier_unit": "1,000 Metric Tons (MT) of Crude Oil Cargo",
-      "price": 63.439,
+      "price": 57.079,
       "product_code": "T2D (Monthly Futures), T2B (BALMO), T2M (Mini)",
       "rulebook_ref": "NYMEX Rulebook Chapter 944 (\"Freight Route TD20 (Baltic) Futures\")",
       "route_class": "Suezmax",
       "exchange": "NYMEX (New York Mercantile Exchange) / CME ClearPort",
-      "position_notional": 2854755.0
+      "position_notional": 2568555.0
     },
     {
       "contract_name": "TD20 FFA 130kt West Africa to Continent USD/MT M Jan 27",
@@ -146,12 +146,12 @@
       "lots": 45.0,
       "multiplier": 1000.0,
       "multiplier_unit": "1,000 Metric Tons (MT) of Crude Oil Cargo",
-      "price": 47.261,
+      "price": 49.438,
       "product_code": "T2D (Monthly Futures), T2B (BALMO), T2M (Mini)",
       "rulebook_ref": "NYMEX Rulebook Chapter 944 (\"Freight Route TD20 (Baltic) Futures\")",
       "route_class": "Suezmax",
       "exchange": "NYMEX (New York Mercantile Exchange) / CME ClearPort",
-      "position_notional": 2126745.0000000005
+      "position_notional": 2224710.0
     },
     {
       "contract_name": "TD20 FFA 130kt West Africa to Continent USD/MT M Feb 27",
@@ -160,12 +160,12 @@
       "lots": 45.0,
       "multiplier": 1000.0,
       "multiplier_unit": "1,000 Metric Tons (MT) of Crude Oil Cargo",
-      "price": 32.322,
+      "price": 33.561,
       "product_code": "T2D (Monthly Futures), T2B (BALMO), T2M (Mini)",
       "rulebook_ref": "NYMEX Rulebook Chapter 944 (\"Freight Route TD20 (Baltic) Futures\")",
       "route_class": "Suezmax",
       "exchange": "NYMEX (New York Mercantile Exchange) / CME ClearPort",
-      "position_notional": 1454490.0000000002
+      "position_notional": 1510245.0
     },
     {
       "contract_name": "TD20 FFA 130kt West Africa to Continent USD/MT M Mar 27",
@@ -174,12 +174,12 @@
       "lots": 45.0,
       "multiplier": 1000.0,
       "multiplier_unit": "1,000 Metric Tons (MT) of Crude Oil Cargo",
-      "price": 26.472,
+      "price": 29.502,
       "product_code": "T2D (Monthly Futures), T2B (BALMO), T2M (Mini)",
       "rulebook_ref": "NYMEX Rulebook Chapter 944 (\"Freight Route TD20 (Baltic) Futures\")",
       "route_class": "Suezmax",
       "exchange": "NYMEX (New York Mercantile Exchange) / CME ClearPort",
-      "position_notional": 1191240.0
+      "position_notional": 1327590.0
     }
   ]
 }
