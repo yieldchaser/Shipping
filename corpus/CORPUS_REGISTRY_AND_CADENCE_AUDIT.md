@@ -7,8 +7,8 @@
 
 ## 1. Executive Summary
 
-- **Raw corpus:** 58,540 files across 32 sources: 12,116 PDF, 9,105 HTML, 23,368 images, 13,517 native MD.
-- **Parsed Markdown:** 20,686 MDs.
+- **Raw corpus:** 58,574 files across 32 sources: 12,116 PDF, 9,107 HTML, 23,398 images, 13,519 native MD.
+- **Parsed Markdown:** 20,688 MDs.
   - Broker reports: 8,074 MDs from 16 brokers.
   - SEC filings: 1,346 MDs.
   - Reference books: 12 MDs for 12 PDFs.
@@ -55,7 +55,7 @@
 | **Seabrokers (Seabreeze Monthly Offshore)** | Monthly (issue dated 1st of the month covered; published start of next month) | `2026-10-01` | `2026-10-01` | **CURRENT (5d)** | 100 PDF, 100 MD | 99 | 100.0% | 0 / 0 | [`data/extracted/md/seabrokers`](../data/extracted/md/seabrokers) | Yes (OSV utilisation curves, rig dayrates, offshore wind) | `seabrokers_osv_monthly_history_series.csv (6,981 rows)` |
 | **Drewry Maritime AIS Fleet Performance** | Weekly (Tuesday) | `n/a` | `2026-10-27` | **CURRENT (10d)** | 300 PDF | 300 | 100.0% | 0 / 0 | [`data/extracted/md/drewry/ais`](../data/extracted/md/drewry/ais) | Yes (every left-axis chart line, read exactly from the vector paths; KPI tiles from the text layer) | `drewry_ais_chart_series.csv (83,699 rows)` |
 | **Drewry Opinions & World Container Index (WCI)** | Weekly (Thursday) | `n/a` | `2026-11-05` | **CURRENT (1d)** | 1,105 MD | 564 | 0.0% | 1 / 0 | [`data/extracted/md/drewry/opinions`](../data/extracted/md/drewry/opinions) | Yes (Global container freight rate time series) | `drewry_wci_historical.csv (141 rows)` |
-| **Signal Ocean (Fleet Telemetry & Monitors)** | Weekly (Friday) & Live Telemetry | `2026-08-28` | `2026-10-29` | **CURRENT (8d)** | 10 PDF, 525 HTML, 1,590 IMG, 456 MD | 456 | 0.9% | 0 / 0 | [`data/extracted/md/signal`](../data/extracted/md/signal) | Yes (Bauxite/Coal/Crude flow monitors, trade flow heatmaps) | `signal_reports_metadata.csv (456 rows)` |
+| **Signal Ocean (Fleet Telemetry & Monitors)** | Weekly (Friday) & Live Telemetry | `2026-08-28` | `2026-11-05` | **CURRENT (1d)** | 10 PDF, 527 HTML, 1,620 IMG, 458 MD | 458 | 0.9% | 0 / 0 | [`data/extracted/md/signal`](../data/extracted/md/signal) | Yes (Bauxite/Coal/Crude flow monitors, trade flow heatmaps) | `signal_reports_metadata.csv (458 rows)` |
 | **Baltic Exchange Weekly** | Weekly (Friday) | `2026-11-06` | `2026-11-06` | **CURRENT (0d)** | 3,074 HTML, 2,254 MD | 2,254 | 24.5% | 0 / 0 | [`data/extracted/md/baltic`](../data/extracted/md/baltic) | No (Detailed fixture narratives and route earnings) | `baltic_reports_metadata.csv (2,254 rows)` |
 | **Pilbara Ports Authority (PPA)** | Monthly (month M figures published ~20th of M+1) | `2026-07-28` | `n/a` | **CURRENT (36d)** | 518 PDF | 0 | 0.0% | 0 / 0 | [`data/commodities`](../data/commodities) | No (Port Hedland & Dampier iron ore export tonnage tables) | `australia_ppa_iron_ore.csv (425 rows)` |
 | **SEC EDGAR: Listed Shipping & Dry Bulk Corporates (26 Issuers)** | Continuous / Statutory Filing Triggers (10-K, 20-F, 10-Q, 6-K, Material 8-K) | `2026-10-30` | `2026-10-30` | **CURRENT (7d)** | 1,346 MD | 1,346 | 0.0% | 0 / 0 | [`corpus/10-companies`](../corpus/10-companies) | No (Complete tabular statutory financials, fleet lists, debt notes) | `Direct structured Markdown with standardized YAML frontmatter across 26 corporate subdirectories` |
@@ -116,7 +116,7 @@ Drewry AIS reports are published across 10 specialized maritime vessel classes. 
 | **Fearnleys Research Tables** | API data tables + printed Cape composite-model tables | `70 tables` | Markdown / JSON sidecars | Fleet deliveries/scrapping, Cape composite model buckets | `data/extracted/md/fearnleys-md/*.tables.json` | **56 API tables + 14 printed tables** | [`run_fearnleys_md_full_power.py`](../scripts/extract/publishers/run_fearnleys_md_full_power.py) |
 | **Poten & Partners** | Tanker Opinions & Top Charterers Series | `1,087 reports` | PDF full text | Narrative essays + 2005-2026 Top Dirty Spot Charterer annual volume rankings | `poten_top_charterers_series.csv` | **756 rows** | [`run_poten.py`](../scripts/extract/publishers/run_poten.py) |
 | **Seabrokers Seascope** | Offshore Support Vessels, Rigs & Subsea | `97 reports` | PDF monthly | North Sea OSV dayrates, rig utilization %, subsea & offshore wind | `seabrokers_osv_monthly_history_series.csv` | **6,981 rows** | [`run_seabrokers_llamaparse.py`](../scripts/extract/publishers/run_seabrokers_llamaparse.py) |
-| **Signal Ocean** | Weekly Monitors, Research & Live Fleet | `515 reports` | HTML / Telemetry | Dry & tanker weekly monitors, trade flows, live fleet positions & queues | `signal_reports_metadata.csv` | **456 rows** | [`run_signal.py`](../scripts/extract/publishers/run_signal.py) |
+| **Signal Ocean** | Weekly Monitors, Research & Live Fleet | `515 reports` | HTML / Telemetry | Dry & tanker weekly monitors, trade flows, live fleet positions & queues | `signal_reports_metadata.csv` | **458 rows** | [`run_signal.py`](../scripts/extract/publishers/run_signal.py) |
 | **Xclusiv Shipbrokers** | Comprehensive Tabular Market Intelligence | `271 reports` | PDF tables (9 pages) | S&P sales, scrap deals, secondhand matrix, newbuilding orders | `xclusiv_sales_series.csv` | **5,793 rows** | [`run_xclusiv_tables.py`](../scripts/extract/publishers/run_xclusiv_tables.py) |
 | **Advanced Shipping** | S&P, Secondhand Matrices, Demo & NB | `253 reports` | PDF tables (10 pages) | S&P sales, demolition rates & deals, secondhand valuation matrix | `advanced_shipping_sales_series.csv` | **6,921 rows** | [`run_advanced_shipping_tables.py`](../scripts/extract/publishers/run_advanced_shipping_tables.py) |
 | **Banchero Costa** | S&P Deals with IMO Numbers & Newbuilding | `243 reports` | PDF tables / LlamaParse | S&P deals with verified 7-digit IMO numbers, newbuilding orders & prices | `bancosta_sales_series.csv` | **3,293 rows** | [`run_banchero_costa_tables.py`](../scripts/extract/publishers/run_banchero_costa_tables.py) |
@@ -469,7 +469,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/hellenic/iron_ore_pdf`](../data/extracted/md/hellenic/iron_ore_pdf)
 - **Publication Cadence:** Daily (Mon-Fri) (Expected day: Daily)
 - **Coverage Span:** `2021-07-14` to `2026-11-06`
-- **Latest Ingested Document:** `2026-11-06_mmi-daily-iron-ore-index-report-november-6-2026_mmi-daily-iron-ore-report-for-6th-no_9e6a61da4341.pdf` (Status: **CURRENT (0d)**)
+- **Latest Ingested Document:** `2026-11-06_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-6th-November-2026.pdf` (Status: **CURRENT (0d)**)
 - **Sample Ingested Report (Corpus):** [`2026-11-06_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-6th-November-2026.pdf`](../corpus/02-hellenic/iron_ore/pdfs/2026/2026-11-06_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-6th-November-2026.pdf)
 - **Sample Extracted Markdown (Digest):** [`2026-11-06_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-6th-November-2026.md`](../data/extracted/md/hellenic/iron_ore_pdf/2026/2026-11-06_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-6th-November-2026.md)
 - **Raw Corpus Inventory:** 3,571 PDFs
@@ -533,7 +533,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/breakwave`](../data/extracted/md/breakwave)
 - **Publication Cadence:** Weekly (Tuesday) & Daily Insights (Expected day: Tuesday / Daily)
 - **Coverage Span:** `2018-07-03` to `2026-11-06`
-- **Latest Ingested Document:** `2026-11-06_vlccs-more-ships-head-for-the-gulf-as-cargoes-thin.html` (Status: **CURRENT (0d)**)
+- **Latest Ingested Document:** `2026-11-06_is-the-paper-market-sell-off-justified.html` (Status: **CURRENT (0d)**)
 - **Sample Ingested Report (Corpus):** [`2026-11-03_Breakwave_Tankers.pdf`](../corpus/03-breakwave/tankers/2026/2026-11-03_Breakwave_Tankers.pdf)
 - **Sample Extracted Markdown (Digest):** [`2026-11-03_Breakwave_Tankers.md`](../data/extracted/md/breakwave/tankers/2026/2026-11-03_Breakwave_Tankers.md)
 - **Raw Corpus Inventory:** 309 PDFs, 3,283 HTML files, 15,170 Images, 3,254 Native Markdown files
@@ -635,15 +635,15 @@ Drewry AIS reports are organized into 10 distinct vessel sectors, each with dedi
 - **Corpus Directory (Raw Source):** [`corpus/07-signal`](../corpus/07-signal)
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/signal`](../data/extracted/md/signal)
 - **Publication Cadence:** Weekly (Friday) & Live Telemetry (Expected day: Friday)
-- **Coverage Span:** `2018-06-06` to `2026-10-29`
-- **Latest Ingested Document:** `ramble-on-who-pays-the-freight.md` (Status: **CURRENT (8d)**)
+- **Coverage Span:** `2018-06-06` to `2026-11-05`
+- **Latest Ingested Document:** `weekly-dry-market-monitor-week-44-2026.md` (Status: **CURRENT (1d)**)
 - **Sample Ingested Report (Corpus):** [`revision-eu-ets_with-annex_en_0.pdf`](../corpus/07-signal/pdfs/revision-eu-ets_with-annex_en_0.pdf)
 - **Sample Extracted Markdown (Digest):** [`why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like.md`](../data/extracted/md/signal/newsroom/2026/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like.md)
-- **Raw Corpus Inventory:** 10 PDFs, 525 HTML files, 1,590 Images, 456 Native Markdown files
-- **Extracted Markdown Dossiers:** 456 Markdown files + 4 .tables.json sidecars
+- **Raw Corpus Inventory:** 10 PDFs, 527 HTML files, 1,620 Images, 458 Native Markdown files
+- **Extracted Markdown Dossiers:** 458 Markdown files + 4 .tables.json sidecars
 - **Chart Extraction:** Yes (Bauxite/Coal/Crude flow monitors, trade flow heatmaps)
 - **Chart Engine / Technique:** Playwright session scraper + static monitor markdown builder
-- **Stacked Series CSVs:** [`signal_reports_metadata.csv`](../data/extracted/series/signal_reports_metadata.csv) (456 rows), [`signal_vessel_counts_series.csv`](../data/extracted/series/signal_vessel_counts_series.csv) (120 rows), data/views/signal/live_fleet_positions.json (9,082 tracked hulls), data/views/signal/port_queues_active.json (1,932 ports)
+- **Stacked Series CSVs:** [`signal_reports_metadata.csv`](../data/extracted/series/signal_reports_metadata.csv) (458 rows), [`signal_vessel_counts_series.csv`](../data/extracted/series/signal_vessel_counts_series.csv) (120 rows), data/views/signal/live_fleet_positions.json (9,082 tracked hulls), data/views/signal/port_queues_active.json (1,932 ports)
 - **Extraction Script:** [`run_signal.py`](../scripts/extract/publishers/run_signal.py) & [`sync_live_fleet_pipeline.py`](../scripts/acquire/sync_live_fleet_pipeline.py)
 - **Notes & Rules Applied:** Live automated telemetry syncs active tanker queues and fleet AIS positions. All 446 articles segregated by year across monitors, newsroom, and newsletters.
 
@@ -652,7 +652,7 @@ Drewry AIS reports are organized into 10 distinct vessel sectors, each with dedi
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/baltic`](../data/extracted/md/baltic)
 - **Publication Cadence:** Weekly (Friday) (Expected day: Friday)
 - **Coverage Span:** `2015-01-09` to `2026-11-06`
-- **Latest Ingested Document:** `2026-11-06_W45_bulk-report-week-45_dry.html` (Status: **CURRENT (0d)**)
+- **Latest Ingested Document:** `2026-11-06_W45_container-report-week-45_container.html` (Status: **CURRENT (0d)**)
 - **Sample Ingested Report (Corpus):** [`2026_tanker-report-week-9_tanker.html`](../corpus/08-baltic/tanker/2026/2026_tanker-report-week-9_tanker.html)
 - **Sample Extracted Markdown (Digest):** [`2026_tanker-report-week-9_tanker.md`](../data/extracted/md/baltic/tanker/2026/2026_tanker-report-week-9_tanker.md)
 - **Raw Corpus Inventory:** 3,074 HTML files, 2,254 Native Markdown files
