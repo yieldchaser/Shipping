@@ -6,7 +6,7 @@ week: 6
 date_range: "2019-02-04 to 2019-02-04"
 comments_count: 12
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-11-06 15:13:04"
+generated_at: "2026-11-06 22:15:41"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 06, 2019

@@ -3,14 +3,14 @@ title: "Fearnleys Weekly Broker Commentary - Week 45, 2026"
 source: "Fearnleys Hasura GraphQL API (fearnpulse.com)"
 year: 2026
 week: 45
-date_range: "2026-11-04 to 2026-11-04"
-comments_count: 8
+date_range: "2026-11-04 to 2026-11-06"
+comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-11-06 15:13:12"
+generated_at: "2026-11-06 22:15:45"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 45, 2026
-*Coverage Period: 2026-11-04 to 2026-11-04 | Total Notes: 8*
+*Coverage Period: 2026-11-04 to 2026-11-06 | Total Notes: 9*
 
 ## Executive Summary
 Institutional desk intelligence harvested directly from the Fearnleys Hasura GraphQL backend, covering global Dry Bulk, Crude & Product Tankers, Gas/LNG markets, and Secondhand S&P deals for Week 45 (2026).
@@ -76,6 +76,15 @@ The Atlantic has seen a creeping improvement in spot rates, despite subdued dema
 ---
 
 ## 4. Sale and Purchase (S&P) & Corporate Activity
+### SnP Weekly Comment
+**Date:** 2026-11-06 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+
+With Geopolitical uncertainty showing no sign of resolve, Tanker markets remains highly disrupted. Despite some softening in parts of the market, buyers are still readily available for any sales candidates. Record prices are still being paid across the VLCC age spectrum, with this week 21-year-old RISING SUN 1 (297k dwt Dalian 2005) selling for USD 126M, the vessel appears to have been doing storage for the last year but will have been reactivated for prompt trading to warrant such a high price. In the products space, handytankers HELENE/HENNING MAERSK (38k dwt STX 2010) sold for USD 60M en bloc.
+ 
+Dry felt a bit quieter this week with much of the market convening in Hamburg for Eisbein. Otherwise not much has changed, and with the consistent rates on offer, buyers are still there to pay in line with current market expectations particularly when it comes to quality tonnage. On that note, this week Namura built Capesize NIGHTSKY (183k dwt Namura 2019) was acquired by Seanergy for USD 73M.
+
+---
+
 ### Chartering Weekly Comment
 **Date:** 2026-11-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
