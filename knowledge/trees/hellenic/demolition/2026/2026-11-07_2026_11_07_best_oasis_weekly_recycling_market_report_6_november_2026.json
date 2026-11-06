@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2026-11-07_2026_11_07_best_oasis_weekly_recycling_market_report_6_november_2026__root",
+  "doc_id": "hellenic_demolition_2026-11-07_2026_11_07_best_oasis_weekly_recycling_market_report_6_november_2026",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 6 November 2026",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 6 November 2026"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 6 November 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe Indian ship recycling market remains firm during the week, with buyers showing strong interest in acquiring suitable vessels\nSource: Best Oasis Limited\n\nLinked asset: 2026-11-07_best-oasis-weekly-recycling-market-report-6-november-2026_weekly-ship-recycling-report-31-octo_ff3a6475b421.pdf\nSource asset: reports/hellenic/demolition/pdfs/2026-11-07_best-oasis-weekly-recycling-market-report-6-november-2026_weekly-ship-recycling-report-31-octo_ff3a6475b421.pdf\n\n# WEEKLY SHIP RECYCLING REPORT\n\n## ( 31 OCTOBER - 06 NOVEMBER ) 2026\n\n## OUR OFFICES\n\n**Scan to view the Tide Table**\n\n**Head Office:** 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E **Contact**: +971 4575 4667 **Visit** : www.best-oasis.com **Email**: bol@bol.ae\n\n## MARKET SUMMARY\n\n## INDIA\n\nThe Indian ship recycling market remains firm during the week, with buyers showing strong interest in acquiring suitable vessels for recycling. Local steel markets have softened, although the decline in the USD/INR exchange rate has provided some support to buying sentiment. A sanctioned LPG carrier was reportedly sold for recycling into India during the week, with no other sales reported.",
+  "keywords": [
+    "lpg",
+    "china",
+    "europe",
+    "india",
+    "steel",
+    "gas",
+    "recycling",
+    "buying",
+    "firm",
+    "remains",
+    "ship",
+    "interest"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1114,
+  "source_path": "reports/hellenic/demolition/2026/2026-11-07_best-oasis-weekly-recycling-market-report-6-november-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-6-november-2026",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2026-11-07_2026_11_07_best_oasis_weekly_recycling_market_report_6_november_2026__s01_main",
+      "doc_id": "hellenic_demolition_2026-11-07_2026_11_07_best_oasis_weekly_recycling_market_report_6_november_2026",
+      "parent_id": "hellenic_demolition_2026-11-07_2026_11_07_best_oasis_weekly_recycling_market_report_6_november_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Indian ship recycling market remains firm during the week, with buyers showing strong interest in acquiring suitable vessels\nSource: Best Oasis Limited",
+      "keywords": [
+        "india",
+        "acquiring",
+        "best",
+        "buyers",
+        "during",
+        "firm",
+        "indian",
+        "interest"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 26,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-11-07_2026_11_07_best_oasis_weekly_recycling_market_report_6_november_2026__s02_linked_asset_2026_11_07_best_oasis_weekly_recycling_market_report_6_november_2026_weekly_ship_recycling_report_31_octo_ff3a6475b421_pdf",
+      "doc_id": "hellenic_demolition_2026-11-07_2026_11_07_best_oasis_weekly_recycling_market_report_6_november_2026",
+      "parent_id": "hellenic_demolition_2026-11-07_2026_11_07_best_oasis_weekly_recycling_market_report_6_november_2026__root",
+      "title": "Linked asset: 2026-11-07_best-oasis-weekly-recycling-market-report-6-november-2026_weekly-ship-recycling-report-31-octo_ff3a6475b421.pdf",
+      "section_path": [
+        "Linked asset: 2026-11-07_best-oasis-weekly-recycling-market-report-6-november-2026_weekly-ship-recycling-report-31-octo_ff3a6475b421.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-11-07_best-oasis-weekly-recycling-market-report-6-november-2026_weekly-ship-recycling-report-31-octo_ff3a6475b421.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2026-11-07_best-oasis-weekly-recycling-market-report-6-november-2026_weekly-ship-recycling-report-31-octo_ff3a6475b421.pdf\n\n# WEEKLY SHIP RECYCLING REPORT\n\n## ( 31 OCTOBER - 06 NOVEMBER ) 2026\n\n## OUR OFFICES\n\n**Scan to view the Tide Table**\n\n**Head Office:** 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E **Contact**: +971 4575 4667 **Visit** : www.best-oasis.com **Email**: bol@bol.ae\n\n## MARKET SUMMARY\n\n## INDIA\n\nThe Indian ship recycling market remains firm during the week, with buyers showing strong interest in acquiring suitable vessels for recycling. Local steel markets have softened, although the decline in the USD/INR exchange rate has provided some support to buying sentiment.",
+      "keywords": [
+        "lpg",
+        "china",
+        "europe",
+        "india",
+        "steel",
+        "gas",
+        "recycling",
+        "buying"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1037,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

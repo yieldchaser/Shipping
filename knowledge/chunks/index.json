@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T16:54:11Z",
+ "generated_at": "2026-11-06T22:28:39Z",
  "compiler_version": 2,
  "count": 106,
  "files": [
@@ -260,7 +260,7 @@
    "path": "knowledge/chunks/hellenic_demolition_2026.jsonl",
    "stem": "hellenic_demolition_2026",
    "year": 2026,
-   "bytes": 3427361
+   "bytes": 3492531
   },
   {
    "file": "hellenic_dry_charter.jsonl",
