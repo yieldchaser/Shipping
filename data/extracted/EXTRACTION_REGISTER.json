@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 22:05:22Z",
+  "updated_at": "2026-11-06 22:12:04Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -1132,7 +1132,7 @@
     {
       "file": "best_oasis_deals_series.csv",
       "target_metric": "Best Oasis Deals",
-      "rows": 920,
+      "rows": 924,
       "columns": [
         "issue_date",
         "vessel_name",
@@ -1153,7 +1153,7 @@
     {
       "file": "best_oasis_demolition_series.csv",
       "target_metric": "Best Oasis Demolition",
-      "rows": 878,
+      "rows": 882,
       "columns": [
         "issue_date",
         "location",
@@ -1170,7 +1170,7 @@
     {
       "file": "best_oasis_exchange_rates_series.csv",
       "target_metric": "Best Oasis Exchange Rates",
-      "rows": 173,
+      "rows": 174,
       "columns": [
         "issue_date",
         "usd_inr",
@@ -1469,7 +1469,7 @@
     {
       "file": "clarksons_sales_series.csv",
       "target_metric": "Clarksons Platou Hellas secondhand sales transactions ($M)",
-      "rows": 1393,
+      "rows": 1395,
       "columns": [
         "issue_date",
         "report_week",
@@ -1550,7 +1550,7 @@
     {
       "file": "compare_vs_clarksons_snp_sales_series.csv",
       "target_metric": "Compare Vs Clarksons Snp Sales",
-      "rows": 398,
+      "rows": 400,
       "columns": [
         "side",
         "issue_date",
@@ -2001,7 +2001,7 @@
     {
       "file": "gms_demolition_rankings_series.csv",
       "target_metric": "Gms Demolition Rankings",
-      "rows": 1100,
+      "rows": 1104,
       "columns": [
         "issue_date",
         "report_week",
@@ -2037,7 +2037,7 @@
     {
       "file": "gms_market_commentary_series.csv",
       "target_metric": "Gms Market Commentary",
-      "rows": 1286,
+      "rows": 1291,
       "columns": [
         "issue_date",
         "report_week",
@@ -2052,7 +2052,7 @@
     {
       "file": "gms_port_positions_series.csv",
       "target_metric": "Gms Port Positions",
-      "rows": 3020,
+      "rows": 3027,
       "columns": [
         "issue_date",
         "report_week",
@@ -2100,7 +2100,7 @@
     {
       "file": "hellenic_best_oasis_deals_series.csv",
       "target_metric": "Hellenic Best Oasis Deals",
-      "rows": 920,
+      "rows": 924,
       "columns": [
         "issue_date",
         "vessel_name",
@@ -2121,7 +2121,7 @@
     {
       "file": "hellenic_best_oasis_demolition_series.csv",
       "target_metric": "Hellenic Best Oasis Demolition",
-      "rows": 878,
+      "rows": 882,
       "columns": [
         "issue_date",
         "location",
@@ -2154,7 +2154,7 @@
     {
       "file": "hellenic_gms_demolition_series.csv",
       "target_metric": "Hellenic Gms Demolition",
-      "rows": 1100,
+      "rows": 1104,
       "columns": [
         "issue_date",
         "report_week",
@@ -2173,7 +2173,7 @@
     {
       "file": "hellenic_gms_port_positions_series.csv",
       "target_metric": "Hellenic Gms Port Positions",
-      "rows": 3020,
+      "rows": 3027,
       "columns": [
         "issue_date",
         "report_week",
@@ -3011,7 +3011,7 @@
     {
       "file": "lion_deals_series.csv",
       "target_metric": "Secondhand sales transactions & demo deals",
-      "rows": 1385,
+      "rows": 1431,
       "columns": [
         "issue_date",
         "report_week",
@@ -3041,7 +3041,7 @@
     {
       "file": "lion_demo_sales_series.csv",
       "target_metric": "Reported demolition scrap sales fixtures ($/LDT)",
-      "rows": 115,
+      "rows": 116,
       "columns": [
         "issue_date",
         "report_week",
@@ -3084,7 +3084,7 @@
     {
       "file": "lion_demometer_series.csv",
       "target_metric": "Lion's Demometer sentiment & price indices ($/LDT)",
-      "rows": 612,
+      "rows": 624,
       "columns": [
         "issue_date",
         "report_week",
@@ -3101,7 +3101,7 @@
     {
       "file": "lion_sales_series.csv",
       "target_metric": "Secondhand sales transactions ()",
-      "rows": 1270,
+      "rows": 1315,
       "columns": [
         "issue_date",
         "report_week",
@@ -3945,13 +3945,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 708411,
+  "total_master_stacked_rows": 708563,
   "total_master_series_csvs": 166,
-  "total_stacked_rows": 708411,
+  "total_stacked_rows": 708563,
   "total_series_csvs": 166,
   "total_master_workbooks": 1,
   "total_series_count": 166,
-  "total_rows_extracted": 708716,
+  "total_rows_extracted": 708868,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 609,
     "advanced_shipping_demolition_series.csv": 2040,
@@ -3978,9 +3978,9 @@
     "bancosta_sales_series.csv": 3293,
     "bancosta_secondhand_matrix_series.csv": 1959,
     "bancosta_vhss_series.csv": 658,
-    "best_oasis_deals_series.csv": 920,
-    "best_oasis_demolition_series.csv": 878,
-    "best_oasis_exchange_rates_series.csv": 173,
+    "best_oasis_deals_series.csv": 924,
+    "best_oasis_demolition_series.csv": 882,
+    "best_oasis_exchange_rates_series.csv": 174,
     "best_oasis_market_commentary_series.csv": 1031,
     "breakwave_fundamentals_series.csv": 3404,
     "breakwave_insights_metadata.csv": 3254,
@@ -3997,10 +3997,10 @@
     "clarksons_demolition_series.csv": 123,
     "clarksons_desk_talk_series.csv": 352,
     "clarksons_macro_series.csv": 165,
-    "clarksons_sales_series.csv": 1393,
+    "clarksons_sales_series.csv": 1395,
     "clarksons_snp_sales_series.csv": 1316,
     "compare_vs_clarksons_sales_series.csv": 0,
-    "compare_vs_clarksons_snp_sales_series.csv": 398,
+    "compare_vs_clarksons_snp_sales_series.csv": 400,
     "drewry_ais_chart_series.csv": 83699,
     "drewry_ais_crude_aframax_series.csv": 32,
     "drewry_ais_crude_suezmax_series.csv": 31,
@@ -4018,17 +4018,17 @@
     "gibson_bunker_prices_series.csv": 1040,
     "gibson_spot_chart_daily.csv": 9375,
     "gibson_tanker_spot_series.csv": 3640,
-    "gms_demolition_rankings_series.csv": 1100,
+    "gms_demolition_rankings_series.csv": 1104,
     "gms_demolition_sales_series.csv": 161,
-    "gms_market_commentary_series.csv": 1286,
-    "gms_port_positions_series.csv": 3020,
+    "gms_market_commentary_series.csv": 1291,
+    "gms_port_positions_series.csv": 3027,
     "hellenic_alibra_dry_tc_series.csv": 6635,
     "hellenic_alibra_tanker_tc_series.csv": 7560,
-    "hellenic_best_oasis_deals_series.csv": 920,
-    "hellenic_best_oasis_demolition_series.csv": 878,
+    "hellenic_best_oasis_deals_series.csv": 924,
+    "hellenic_best_oasis_demolition_series.csv": 882,
     "hellenic_capesize_c3_c5_series.csv": 1164,
-    "hellenic_gms_demolition_series.csv": 1100,
-    "hellenic_gms_port_positions_series.csv": 3020,
+    "hellenic_gms_demolition_series.csv": 1104,
+    "hellenic_gms_port_positions_series.csv": 3027,
     "hellenic_iron_ore_commentary_series.csv": 1211,
     "hellenic_iron_ore_daily_series.csv": 1203,
     "hellenic_iron_ore_pdf_averages_series.csv": 11852,
@@ -4070,11 +4070,11 @@
     "intermodal_tc_rates_series.csv": 5333,
     "ism_coaster_freight_series.csv": 12491,
     "ism_handy_freight_series.csv": 17851,
-    "lion_deals_series.csv": 1385,
-    "lion_demo_sales_series.csv": 115,
+    "lion_deals_series.csv": 1431,
+    "lion_demo_sales_series.csv": 116,
     "lion_demolition_series.csv": 612,
-    "lion_demometer_series.csv": 612,
-    "lion_sales_series.csv": 1270,
+    "lion_demometer_series.csv": 624,
+    "lion_sales_series.csv": 1315,
     "poten_fixtures_series.csv": 82,
     "poten_fleet_delivery_schedule_series.csv": 0,
     "poten_fleet_statistics_series.csv": 8,

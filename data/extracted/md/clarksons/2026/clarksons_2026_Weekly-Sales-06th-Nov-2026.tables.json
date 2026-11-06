@@ -1,0 +1,206 @@
+{
+  "schema": "parse_engine/v1",
+  "issue_date": "2026-11-06",
+  "report_week": 45,
+  "source_file": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-06th-Nov-2026.pdf",
+  "source_sha256": "fbcc743b8b5d2c9b9c98cadbab21e92be95c2ee3b0df38c733c0d5f3ad5cb60c",
+  "sales_count": 2,
+  "demo_count": 0,
+  "tables": [
+    {
+      "name": "Bulk Carriers",
+      "title": "Bulker Sales",
+      "page": 2,
+      "bbox": [
+        40.2,
+        158.79,
+        567.94,
+        269.85
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "MIAO ZHOU",
+          "58,595",
+          "2013",
+          "KAWASAKI SB",
+          "B. & W. 6S50MC-C8.2 C:4X30T",
+          "SS 03/31 DD 03/29",
+          "REG USD 23M",
+          "U/D"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "header-midpoints",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          2,
+          223.1,
+          263.3,
+          0
+        ]
+      ],
+      "column_bounds": [
+        0.0,
+        108.5,
+        179.1,
+        274.3,
+        375.8,
+        455.7,
+        521.9,
+        612.0
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Tankers - Chemicals - LPG/LNGs",
+      "title": "Tanker Sales",
+      "page": 2,
+      "bbox": [
+        40.92,
+        273.54,
+        565.66,
+        381.29
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "HAIMA",
+          "104,991",
+          "2009",
+          "MITSUI SB",
+          "B. & W. 7S60MC6.2",
+          "SS 03/29 DD 04/27",
+          "REG USD 65",
+          "U/D"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "header-midpoints",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          2,
+          337.7,
+          381.3,
+          0
+        ]
+      ],
+      "column_bounds": [
+        0.0,
+        120.1,
+        195.1,
+        285.8,
+        379.2,
+        451.6,
+        517.3,
+        612.0
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    }
+  ],
+  "sales": [
+    {
+      "issue_date": "2026-11-06",
+      "report_week": 45,
+      "source_file": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-06th-Nov-2026.pdf",
+      "source_sha256": "fbcc743b8b5d2c9b9c98cadbab21e92be95c2ee3b0df38c733c0d5f3ad5cb60c",
+      "section": "bulk",
+      "vessel": "MIAO ZHOU",
+      "page": 2,
+      "dwt_raw": "58,595",
+      "dwt": 58595,
+      "built_year": 2013,
+      "yard": "KAWASAKI SB",
+      "details": "B. & W. 6S50MC-C8.2 C:4X30T",
+      "ss_dd": "SS 03/31 DD 03/29",
+      "price_raw": "REG USD 23M",
+      "price_usd_m": 23.0,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "U/D",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2013",
+      "price_usd_m_per_vessel": 23.0,
+      "NAME": "MIAO ZHOU",
+      "DWT": 58595,
+      "BUILT": 2013,
+      "YARD": "KAWASAKI SB",
+      "PRICE": "REG USD 23M",
+      "BUYERS": "U/D",
+      "SS_DD": "SS 03/31 DD 03/29"
+    },
+    {
+      "issue_date": "2026-11-06",
+      "report_week": 45,
+      "source_file": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-06th-Nov-2026.pdf",
+      "source_sha256": "fbcc743b8b5d2c9b9c98cadbab21e92be95c2ee3b0df38c733c0d5f3ad5cb60c",
+      "section": "tanker",
+      "vessel": "HAIMA",
+      "page": 2,
+      "dwt_raw": "104,991",
+      "dwt": 104991,
+      "built_year": 2009,
+      "yard": "MITSUI SB",
+      "details": "B. & W. 7S60MC6.2",
+      "ss_dd": "SS 03/29 DD 04/27",
+      "price_raw": "REG USD 65",
+      "price_usd_m": 65.0,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "U/D",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2009",
+      "price_usd_m_per_vessel": 65.0,
+      "NAME": "HAIMA",
+      "DWT": 104991,
+      "BUILT": 2009,
+      "YARD": "MITSUI SB",
+      "PRICE": "REG USD 65",
+      "BUYERS": "U/D",
+      "SS_DD": "SS 03/29 DD 04/27"
+    }
+  ],
+  "demolitions": []
+}
