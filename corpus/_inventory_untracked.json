@@ -2,13 +2,13 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2963,
-      "untracked_bytes": 2298738144
+      "untracked_files": 2968,
+      "untracked_bytes": 2298808538
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4062,
-      "untracked_bytes": 2391846530
+      "untracked_files": 4057,
+      "untracked_bytes": 2389108169
     },
     {
       "path": "corpus/03-breakwave",
@@ -47,6 +47,36 @@
     }
   ],
   "entries": [
+    {
+      "path": "corpus/01-brokers/_digests/advanced_shipping/2026/advanced_shipping_07_11_2026_advanced_shipping_trading_weekly_shipping_marke.md",
+      "bytes": 17858,
+      "sha256": "2448af414f7beab30c172c5f78b6a60d6a19b6b770b149c8a2e03db280fc0e93"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/affinity/2026/affinity_07_11_2026_affinity_tanker_weekly_6_november_2026.md",
+      "bytes": 11800,
+      "sha256": "339f78f871d646423b2b52d3758599d4d0ce692b2a4d2e24f23bd0e2cba3fbf5"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/agora/2026/agora_06_11_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.md",
+      "bytes": 10217,
+      "sha256": "30edb2e5c3ef059bf4c22a9cb13a4421025ad67f95c98abe4d95a7b85800448b"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/clarksons/2026/clarksons_06_11_2026_clarksons_hellas_snp_weekly.md",
+      "bytes": 6894,
+      "sha256": "88ecab7497f5f0f5487f8ccac155a8f792bf72b9e3984d484265cd1f8500b5c8"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/gibson/2026/gibson_07_11_2026_gibson_tanker_report_mid_term_fallout.md",
+      "bytes": 766,
+      "sha256": "0315a59109e809c95fcc047907cd0dd646f713375762c03d0f53ea6afd99cf29"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/lion/2026/lion_06_11_2026_lion_shipbrokers_weekly_market_report_week_45_2026.md",
+      "bytes": 16079,
+      "sha256": "648ed7d81844424d3c8dbea59a3de86e90610984a96bc57fb1020041784381ab"
+    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -1121,6 +1151,11 @@
       "path": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_03_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf",
       "bytes": 1023184,
       "sha256": "65cfe5f2afb8feb3b295356965e488d620377b628bb791b70b7c8be282126764"
+    },
+    {
+      "path": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_07_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf",
+      "bytes": 1015373,
+      "sha256": "d6724f91f0f289e8b91d2478c8155989a35722ec81273c153532f9d422b1377d"
     },
     {
       "path": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_19_09_2026_advanced_shipping_trading_weekly_shipping_marke.pdf",
@@ -2401,6 +2436,11 @@
       "path": "corpus/01-brokers/affinity/2026/affinity_03_10_2026_affinity_tanker_weekly_2_october_2026.pdf",
       "bytes": 270530,
       "sha256": "dcbcb0dc5c0a7ae86f9b7a364ca86153b5c50566f99a9ec18c900db6839ef838"
+    },
+    {
+      "path": "corpus/01-brokers/affinity/2026/affinity_07_11_2026_affinity_tanker_weekly_6_november_2026.pdf",
+      "bytes": 268851,
+      "sha256": "6630864dcc7d123e42df2dbc30fdfd18005dc777a0c18a7649d8b103a72bb28c"
     },
     {
       "path": "corpus/01-brokers/affinity/2026/affinity_19_09_2026_affinity_tanker_weekly_18_september_2026.pdf",
@@ -3686,11 +3726,6 @@
       "path": "corpus/01-brokers/agora/2026/agora_2026_W40_AGORA.-Week-40-2026.-Snapshot-of-Commercial-Indicators.pdf",
       "bytes": 275539,
       "sha256": "695269dfd12759f94385168d9e2293a0ab370460908453c7d641ed8a018add3e"
-    },
-    {
-      "path": "corpus/01-brokers/agora/2026/agora_2026_W45_AGORA.-Week-45-2026.-Snapshot-of-Commercial-Indicators.pdf",
-      "bytes": 276224,
-      "sha256": "fa2c6115cb792e8db74aead9bf1395b4440a3d6e94b3bd043e4a1a85cc6c7ecf"
     },
     {
       "path": "corpus/01-brokers/agora/2026/agora_2026_w14.pdf",
@@ -5631,11 +5666,6 @@
       "path": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-04th-Sept-2026.pdf",
       "bytes": 193934,
       "sha256": "b53f09739818dc39859bef4dbe5d46c7e31684ec68eb58f08e08007055451de3"
-    },
-    {
-      "path": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-06th-Nov-2026.pdf",
-      "bytes": 197448,
-      "sha256": "fbcc743b8b5d2c9b9c98cadbab21e92be95c2ee3b0df38c733c0d5f3ad5cb60c"
     },
     {
       "path": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-11th-Sep-2026-.pdf",
@@ -9851,11 +9881,6 @@
       "path": "corpus/01-brokers/lion/2026/lion_2026_W40_Lion-Weekly-Report-02-October-2026-W40.pdf",
       "bytes": 1852449,
       "sha256": "f6f19434443cd370be0109bd415ee4c6c8063d2565c376703dcdcd5979194806"
-    },
-    {
-      "path": "corpus/01-brokers/lion/2026/lion_2026_W45_Lion-Weekly-Report-06-November-2026-W45.pdf",
-      "bytes": 803772,
-      "sha256": "6bcafaf33e458108b8e51b6ccb284b15e174877ec993b8c3829d61b8607efb2d"
     },
     {
       "path": "corpus/01-brokers/ssy/2021/ssy_2021_A20210705.pdf",
@@ -14878,21 +14903,6 @@
       "sha256": "0bba66ef4bd0790e891d2fa8957aff2678eaaf35df892acb039919ba36270d07"
     },
     {
-      "path": "corpus/02-hellenic/demolition/2026/2026-11-07_best-oasis-weekly-recycling-market-report-6-november-2026.html",
-      "bytes": 3157,
-      "sha256": "8360390357c731d1fedf35706e0172f8ae8d2baa5974f4e31a6a734a78a128e6"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/2026/2026-11-07_gms-week-45-bids-hold-fast-against-the-tide.html",
-      "bytes": 6699,
-      "sha256": "4b3baa79d924dbaefe6540dc27afeb5728e6f8381651c36e4fe297b24026a18c"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/2026/assets/2026-11-07_gms-week-45-bids-hold-fast-against-the-tide_5486_fc5118060676.jpg",
-      "bytes": 42316,
-      "sha256": "ed635b4abc6a80df696c290462427e26663142fefa96d5e7c11dd4e269cb092f"
-    },
-    {
       "path": "corpus/02-hellenic/demolition/pdfs/2024-04-15_Ship-recycling-market-insight-week-15-2024-Ramadan_Resurgence\u2026Or_Not.pdf",
       "bytes": 653148,
       "sha256": "a79a268821e132d8cdeb7fcd037d30c80ded62b9953ad0804fd3f7244207ab74"
@@ -14916,16 +14926,6 @@
       "path": "corpus/02-hellenic/demolition/pdfs/2026-08-15_best-oasis-weekly-recycling-market-report-14-august-2026_weekly-ship-recycling-report-08-augu_4ca6a14ecc27.pdf",
       "bytes": 1526416,
       "sha256": "52b23f9d42d155925f97c66cebc616237a05be249ba46e4de12f1473f63b3c70"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/pdfs/2026-11-07_best-oasis-weekly-recycling-market-report-6-november-2026_weekly-ship-recycling-report-31-octo_ff3a6475b421.pdf",
-      "bytes": 1728489,
-      "sha256": "0218aeeb01d5be5f9bd6db1200a8047ea0608593c93bff6f3be680b620a1e621"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/pdfs/2026-11-07_gms-week-45-bids-hold-fast-against-the-tide_ship-recycling-market-insight-week-4_2c6f505bba00.pdf",
-      "bytes": 957700,
-      "sha256": "e4de4b23742f86d4c930015bd87c61e9c8f0854c04c7d536769269770d97bdc1"
     },
     {
       "path": "corpus/02-hellenic/demolition/pdfs/athenian/2021-07-07_athenian-shipbrokers-s-a-demolition-quick-update-week-26-2021_ship-recycling-weekly-26-2021-atheni_3c137c5215b0.pdf",

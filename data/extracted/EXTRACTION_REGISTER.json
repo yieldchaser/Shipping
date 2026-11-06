@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 22:12:04Z",
+  "updated_at": "2026-11-06 22:44:05Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -666,7 +666,7 @@
     {
       "file": "advanced_shipping_demo_sales_series.csv",
       "target_metric": "Reported demolition sales fixtures ($/LDT)",
-      "rows": 609,
+      "rows": 611,
       "columns": [
         "issue_date",
         "report_week",
@@ -686,7 +686,7 @@
     {
       "file": "advanced_shipping_demolition_series.csv",
       "target_metric": "Indicative demolition prices ($/LDT)",
-      "rows": 2040,
+      "rows": 2048,
       "columns": [
         "issue_date",
         "issue",
@@ -701,7 +701,7 @@
     {
       "file": "advanced_shipping_newbuilding_series.csv",
       "target_metric": "Newbuilding reported contracting orders",
-      "rows": 1936,
+      "rows": 1946,
       "columns": [
         "issue_date",
         "report_week",
@@ -724,7 +724,7 @@
     {
       "file": "advanced_shipping_sales_series.csv",
       "target_metric": "Secondhand sales transactions ()",
-      "rows": 6899,
+      "rows": 6921,
       "columns": [
         "issue_date",
         "issue",
@@ -753,7 +753,7 @@
     {
       "file": "advanced_shipping_secondhand_matrix_series.csv",
       "target_metric": "Indicative secondhand price matrices ()",
-      "rows": 8221,
+      "rows": 8253,
       "columns": [
         "issue_date",
         "report_week",
@@ -771,7 +771,7 @@
     {
       "file": "affinity_bda_series.csv",
       "target_metric": "Baltic Demolition Assessments ($/LDT)",
-      "rows": 756,
+      "rows": 759,
       "columns": [
         "issue_date",
         "report_week",
@@ -785,7 +785,7 @@
     {
       "file": "affinity_indices_series.csv",
       "target_metric": "Baltic Clean & Dirty freight benchmark indices",
-      "rows": 504,
+      "rows": 506,
       "columns": [
         "issue_date",
         "report_week",
@@ -799,7 +799,7 @@
     {
       "file": "affinity_tce_series.csv",
       "target_metric": "Baltic TCE Dirty & Clean route earnings ($/day)",
-      "rows": 4115,
+      "rows": 4134,
       "columns": [
         "issue_date",
         "report_week",
@@ -816,7 +816,7 @@
     {
       "file": "agora_indicators_series.csv",
       "target_metric": "Commodities, FX, Bonds, Stocks, Bunkers",
-      "rows": 10143,
+      "rows": 10190,
       "columns": [
         "issue_date",
         "report_week",
@@ -3065,7 +3065,7 @@
     {
       "file": "lion_demolition_series.csv",
       "target_metric": "Indicative scrap price assessments ($/LDT)",
-      "rows": 612,
+      "rows": 624,
       "columns": [
         "report_date",
         "week",
@@ -3945,23 +3945,23 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 708563,
+  "total_master_stacked_rows": 708720,
   "total_master_series_csvs": 166,
-  "total_stacked_rows": 708563,
+  "total_stacked_rows": 708720,
   "total_series_csvs": 166,
   "total_master_workbooks": 1,
   "total_series_count": 166,
-  "total_rows_extracted": 708868,
+  "total_rows_extracted": 709025,
   "series_inventory": {
-    "advanced_shipping_demo_sales_series.csv": 609,
-    "advanced_shipping_demolition_series.csv": 2040,
-    "advanced_shipping_newbuilding_series.csv": 1936,
-    "advanced_shipping_sales_series.csv": 6899,
-    "advanced_shipping_secondhand_matrix_series.csv": 8221,
-    "affinity_bda_series.csv": 756,
-    "affinity_indices_series.csv": 504,
-    "affinity_tce_series.csv": 4115,
-    "agora_indicators_series.csv": 10143,
+    "advanced_shipping_demo_sales_series.csv": 611,
+    "advanced_shipping_demolition_series.csv": 2048,
+    "advanced_shipping_newbuilding_series.csv": 1946,
+    "advanced_shipping_sales_series.csv": 6921,
+    "advanced_shipping_secondhand_matrix_series.csv": 8253,
+    "affinity_bda_series.csv": 759,
+    "affinity_indices_series.csv": 506,
+    "affinity_tce_series.csv": 4134,
+    "agora_indicators_series.csv": 10190,
     "athenian_historical_demolition_prices_series.csv": 240,
     "athenian_indicative_demolition_series.csv": 3100,
     "athenian_market_commentary_series.csv": 6,
@@ -4072,7 +4072,7 @@
     "ism_handy_freight_series.csv": 17851,
     "lion_deals_series.csv": 1431,
     "lion_demo_sales_series.csv": 116,
-    "lion_demolition_series.csv": 612,
+    "lion_demolition_series.csv": 624,
     "lion_demometer_series.csv": 624,
     "lion_sales_series.csv": 1315,
     "poten_fixtures_series.csv": 82,
