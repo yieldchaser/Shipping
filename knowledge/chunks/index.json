@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T17:27:54Z",
+ "generated_at": "2026-11-06T16:54:11Z",
  "compiler_version": 2,
  "count": 106,
  "files": [
@@ -15,7 +15,7 @@
    "path": "knowledge/chunks/baltic_container_2026.jsonl",
    "stem": "baltic_container_2026",
    "year": 2026,
-   "bytes": 222306
+   "bytes": 224238
   },
   {
    "file": "baltic_dry.jsonl",
@@ -29,7 +29,7 @@
    "path": "knowledge/chunks/baltic_dry_2026.jsonl",
    "stem": "baltic_dry_2026",
    "year": 2026,
-   "bytes": 944667
+   "bytes": 954505
   },
   {
    "file": "baltic_gas.jsonl",
@@ -43,7 +43,7 @@
    "path": "knowledge/chunks/baltic_gas_2026.jsonl",
    "stem": "baltic_gas_2026",
    "year": 2026,
-   "bytes": 411927
+   "bytes": 415925
   },
   {
    "file": "baltic_ningbo.jsonl",
@@ -57,7 +57,7 @@
    "path": "knowledge/chunks/baltic_ningbo_2026.jsonl",
    "stem": "baltic_ningbo_2026",
    "year": 2026,
-   "bytes": 207774
+   "bytes": 210448
   },
   {
    "file": "baltic_tanker.jsonl",
@@ -71,7 +71,7 @@
    "path": "knowledge/chunks/baltic_tanker_2026.jsonl",
    "stem": "baltic_tanker_2026",
    "year": 2026,
-   "bytes": 948056
+   "bytes": 956878
   },
   {
    "file": "books.jsonl",
@@ -134,7 +134,7 @@
    "path": "knowledge/chunks/breakwave_insights_insights_2026.jsonl",
    "stem": "breakwave_insights_insights_2026",
    "year": 2026,
-   "bytes": 5095111
+   "bytes": 5107898
   },
   {
    "file": "breakwave_tankers.jsonl",
@@ -386,7 +386,7 @@
    "path": "knowledge/chunks/hellenic_iron_ore_2026.jsonl",
    "stem": "hellenic_iron_ore_2026",
    "year": 2026,
-   "bytes": 16304255
+   "bytes": 16342291
   },
   {
    "file": "hellenic_shipbuilding.jsonl",

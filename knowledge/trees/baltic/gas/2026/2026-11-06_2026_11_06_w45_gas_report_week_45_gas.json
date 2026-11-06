@@ -1,0 +1,90 @@
+{
+  "node_id": "baltic_gas_2026-11-06_2026_11_06_w45_gas_report_week_45_gas__root",
+  "doc_id": "baltic_gas_2026-11-06_2026_11_06_w45_gas_report_week_45_gas",
+  "parent_id": null,
+  "title": "Gas report - Week 45",
+  "section_path": [
+    "Gas report - Week 45"
+  ],
+  "section_path_text": "Gas report - Week 45",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "LNG\nThe LNG market strengthened this week, with relatively high fixing activity east of Suez helping to tighten vessel availability. The Atlantic also saw a gradual improvement in spot rates, although cargo demand remains relatively subdued and the tonnage list continues to limit further upside. On the BLNG1 Australia-Japan route, rates increased by $9,600 week-on-week to settle at $54,600/day.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "australia",
+    "atlantic",
+    "europe",
+    "us_gulf",
+    "japan",
+    "gas",
+    "day.",
+    "route",
+    "increased",
+    "activity"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 446,
+  "source_path": "reports/baltic/gas/2026/2026-11-06_W45_gas-report-week-45_gas.html",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "baltic_gas_2026-11-06_2026_11_06_w45_gas_report_week_45_gas__s01_lng",
+      "doc_id": "baltic_gas_2026-11-06_2026_11_06_w45_gas_report_week_45_gas",
+      "parent_id": "baltic_gas_2026-11-06_2026_11_06_w45_gas_report_week_45_gas__root",
+      "title": "LNG",
+      "section_path": [
+        "LNG"
+      ],
+      "section_path_text": "LNG",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The LNG market strengthened this week, with relatively high fixing activity east of Suez helping to tighten vessel availability. The Atlantic also saw a gradual improvement in spot rates, although cargo demand remains relatively subdued and the tonnage list continues to limit further upside.",
+      "keywords": [
+        "lng",
+        "australia",
+        "atlantic",
+        "europe",
+        "us_gulf",
+        "japan",
+        "gas",
+        "day."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 256,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_gas_2026-11-06_2026_11_06_w45_gas_report_week_45_gas__s02_lpg",
+      "doc_id": "baltic_gas_2026-11-06_2026_11_06_w45_gas_report_week_45_gas",
+      "parent_id": "baltic_gas_2026-11-06_2026_11_06_w45_gas_report_week_45_gas__root",
+      "title": "LPG",
+      "section_path": [
+        "LPG"
+      ],
+      "section_path_text": "LPG",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The LPG market firmed this week, with a healthy level of fixture activity in the West supporting rates. With further cargoes still being worked and vessel availability broadly balanced against demand, sentiment remains positive.",
+      "keywords": [
+        "lpg",
+        "gas",
+        "route",
+        "day.",
+        "per",
+        "tce",
+        "tonne",
+        "activity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 184,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

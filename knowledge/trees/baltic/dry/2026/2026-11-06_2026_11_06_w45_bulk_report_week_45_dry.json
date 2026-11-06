@@ -1,0 +1,146 @@
+{
+  "node_id": "baltic_dry_2026-11-06_2026_11_06_w45_bulk_report_week_45_dry__root",
+  "doc_id": "baltic_dry_2026-11-06_2026_11_06_w45_bulk_report_week_45_dry",
+  "parent_id": null,
+  "title": "Bulk report - Week 45",
+  "section_path": [
+    "Bulk report - Week 45"
+  ],
+  "section_path_text": "Bulk report - Week 45",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Capesize\nThe Capesize market experienced a mixed but ultimately firmer week, with an initial period of weakness giving way to improved sentiment and firmer conditions, although momentum remained uneven across the basins. The Pacific was the main source of pressure early on, with C5 falling from $13.80 to the low $13.00s as two miners remained active but consistently tested lower levels. Despite a midweek recovery in sentiment, activity remained selective, with Friday's miner business concluded at $13.25, leaving the route below Monday's opening levels.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "west_africa",
+    "europe",
+    "india"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1184,
+  "source_path": "reports/baltic/dry/2026/2026-11-06_W45_bulk-report-week-45_dry.html",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "baltic_dry_2026-11-06_2026_11_06_w45_bulk_report_week_45_dry__s01_capesize",
+      "doc_id": "baltic_dry_2026-11-06_2026_11_06_w45_bulk_report_week_45_dry",
+      "parent_id": "baltic_dry_2026-11-06_2026_11_06_w45_bulk_report_week_45_dry__root",
+      "title": "Capesize",
+      "section_path": [
+        "Capesize"
+      ],
+      "section_path_text": "Capesize",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Capesize market experienced a mixed but ultimately firmer week, with an initial period of weakness giving way to improved sentiment and firmer conditions, although momentum remained uneven across the basins. The Pacific was the main source of pressure early on, with C5 falling from $13.80 to the low $13.00s as two miners remained active but consistently tested lower levels.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "atlantic",
+        "pacific",
+        "west_africa",
+        "remained",
+        "firmer"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 281,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_dry_2026-11-06_2026_11_06_w45_bulk_report_week_45_dry__s02_panamax_kamsarmax",
+      "doc_id": "baltic_dry_2026-11-06_2026_11_06_w45_bulk_report_week_45_dry",
+      "parent_id": "baltic_dry_2026-11-06_2026_11_06_w45_bulk_report_week_45_dry__root",
+      "title": "Panamax-Kamsarmax",
+      "section_path": [
+        "Panamax-Kamsarmax"
+      ],
+      "section_path_text": "Panamax-Kamsarmax",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The market began the week on a subdued note before gathering momentum as improving demand and tightening tonnage availability supported firmer sentiment across both basins. In the Atlantic, transatlantic and fronthaul enquiry gradually increased, with rates strengthening as tonnage availability tightened, particularly off the West Mediterranean.",
+      "keywords": [
+        "china",
+        "australia",
+        "atlantic",
+        "pacific",
+        "europe",
+        "india",
+        "us_gulf",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 292,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_dry_2026-11-06_2026_11_06_w45_bulk_report_week_45_dry__s03_ultramax_supramax",
+      "doc_id": "baltic_dry_2026-11-06_2026_11_06_w45_bulk_report_week_45_dry",
+      "parent_id": "baltic_dry_2026-11-06_2026_11_06_w45_bulk_report_week_45_dry__root",
+      "title": "Ultramax/Supramax",
+      "section_path": [
+        "Ultramax/Supramax"
+      ],
+      "section_path_text": "Ultramax/Supramax",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "A subdued week with a few holidays and Eisbein this week saw rates under pressure. North America managed to turn the tide and rates began to recover with two 63,000-dwt vessels reported for petcoke to India at $34,000 and $34,500, and a 52,000-dwt achieving $28,000 from Port Arthur to Iskenderun with petcoke, having seen a 63,000-dwt fixed for grains to China at a disappointing $27,000 via Cape of Good Hope earlier in the week.",
+      "keywords": [
+        "capesize",
+        "china",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "india",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 352,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_dry_2026-11-06_2026_11_06_w45_bulk_report_week_45_dry__s04_handysize",
+      "doc_id": "baltic_dry_2026-11-06_2026_11_06_w45_bulk_report_week_45_dry",
+      "parent_id": "baltic_dry_2026-11-06_2026_11_06_w45_bulk_report_week_45_dry__root",
+      "title": "Handysize",
+      "section_path": [
+        "Handysize"
+      ],
+      "section_path_text": "Handysize",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The market remained generally quiet over the week, with limited fixing information and mixed regional sentiment. The Continent and Mediterranean gained support from fresh activity and tightening tonnage.",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "us_gulf",
+        "japan",
+        "grain",
+        "dwt",
+        "open",
+        "trip"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 237,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
