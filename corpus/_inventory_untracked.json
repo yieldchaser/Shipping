@@ -7,13 +7,13 @@
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4057,
-      "untracked_bytes": 2389108169
+      "untracked_files": 4061,
+      "untracked_bytes": 2391685211
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 9,
-      "untracked_bytes": 2035986
+      "untracked_files": 13,
+      "untracked_bytes": 2056492
     },
     {
       "path": "corpus/04-poten",
@@ -34,6 +34,11 @@
       "path": "corpus/07-signal",
       "untracked_files": 298,
       "untracked_bytes": 174706385
+    },
+    {
+      "path": "corpus/08-baltic",
+      "untracked_files": 10,
+      "untracked_bytes": 45412
     },
     {
       "path": "corpus/09-ppa",
@@ -20313,6 +20318,16 @@
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
     },
     {
+      "path": "corpus/02-hellenic/iron_ore/2026/2026-11-06_mmi-daily-iron-ore-index-report-november-6-2026.html",
+      "bytes": 4393,
+      "sha256": "833c66f7d56aa931d5767469a4114f8508e227207bebd10c1ee4935ca364f9ac"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-11-06_mmi-daily-iron-ore-index-report-november-6-2026_06112026chinese_a41af50a7b2a.jpg",
+      "bytes": 189169,
+      "sha256": "50515c9abbdb7a166940ace1097b52b73bac5789ac6a3ea3edc3f80d014ef42b"
+    },
+    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
       "bytes": 1106014,
       "sha256": "b82a5abf0415bdb8da87e942ca7a69caa92b9e22ff1373ec591775898b1b0aa3"
@@ -30308,6 +30323,11 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
+      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-11-06_mmi-daily-iron-ore-index-report-november-6-2026_mmi-daily-iron-ore-report-for-6th-no_9e6a61da4341.pdf",
+      "bytes": 1191740,
+      "sha256": "d6621630d4d9e2a68fb3d3909e2145abf1e6b317f26d54d8cde2082552971c1e"
+    },
+    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31696,6 +31716,11 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-11-06_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-6th-November-2026.pdf",
+      "bytes": 1191740,
+      "sha256": "d6621630d4d9e2a68fb3d3909e2145abf1e6b317f26d54d8cde2082552971c1e"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -35131,6 +35156,26 @@
       "path": "corpus/02-hellenic/vessel_valuations/2022/assets/2022-02-15_weekly-vessel-valuations-report-february-15-2022_\u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03ae-4_8c0794a8805a.jpg",
       "bytes": 52460,
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-11-06_is-the-paper-market-sell-off-justified.html",
+      "bytes": 5971,
+      "sha256": "e10d7b4682b221a61d5442c8a5ec6b1f6a1829cfd0fb751cf3d6f70b2c6178ac"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-11-06_is-the-paper-market-sell-off-justified.md",
+      "bytes": 4053,
+      "sha256": "5a82f62084845ea3b7ab34522281d85fc4e6f80cf28197187ea9efe4ec96ca10"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-11-06_vlccs-more-ships-head-for-the-gulf-as-cargoes-thin.html",
+      "bytes": 6157,
+      "sha256": "71b2fb5f48a8488720543df5a598ddfa32b8eba95912c482078ec10ee5ec41fc"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-11-06_vlccs-more-ships-head-for-the-gulf-as-cargoes-thin.md",
+      "bytes": 4325,
+      "sha256": "394e78cf0b99a877a5874e788827f900a0c1088a2be96f3dc1b460564557aab4"
     },
     {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
@@ -43536,6 +43581,56 @@
       "path": "corpus/07-signal/images/6aab9b1af1afff7802ecc95b_Weeklies (Tanker & Dry).png",
       "bytes": 1548138,
       "sha256": "85b4a55553187dc53bebf16853fd14f226ba445c55f28d3b698e48b7abf032de"
+    },
+    {
+      "path": "corpus/08-baltic/container/2026/2026-11-06_W45_container-report-week-45_container.html",
+      "bytes": 2916,
+      "sha256": "2c08384c6d8f2633b7db93db6dc10b226fcfa82350e4219706a5c0843eee3172"
+    },
+    {
+      "path": "corpus/08-baltic/container/2026/2026-11-06_W45_container-report-week-45_container.md",
+      "bytes": 1819,
+      "sha256": "fcfc3049677cd3392b33416941d07142076341a6df7e31009a052ab5eb480aa5"
+    },
+    {
+      "path": "corpus/08-baltic/dry/2026/2026-11-06_W45_bulk-report-week-45_dry.html",
+      "bytes": 7411,
+      "sha256": "adcdc80b1f00ec6de5978008d1fc3505a3fa199537aaf9f3be430f036518cecf"
+    },
+    {
+      "path": "corpus/08-baltic/dry/2026/2026-11-06_W45_bulk-report-week-45_dry.md",
+      "bytes": 6311,
+      "sha256": "711889fc3793dfb8c19a27a9747c3d03f1a15de8a92412ca575da03015db8e39"
+    },
+    {
+      "path": "corpus/08-baltic/gas/2026/2026-11-06_W45_gas-report-week-45_gas.html",
+      "bytes": 4006,
+      "sha256": "b28b25f61d38ef802ad085e6f1dd6fece656db0af4c140a6880a5bea1de5b8ae"
+    },
+    {
+      "path": "corpus/08-baltic/gas/2026/2026-11-06_W45_gas-report-week-45_gas.md",
+      "bytes": 2844,
+      "sha256": "d5502df7426930bd0a8f7703138105019611f3ee723f2e8d4a4262c511a3c4c8"
+    },
+    {
+      "path": "corpus/08-baltic/ningbo/2026/2026-11-06_ningbo-containerised-freight-index-30102_ningbo.html",
+      "bytes": 4977,
+      "sha256": "98873f241f309e10fdbc5ffa809ae34f475ae31591f942ac545e962e47a8c7bd"
+    },
+    {
+      "path": "corpus/08-baltic/ningbo/2026/2026-11-06_ningbo-containerised-freight-index-30102_ningbo.md",
+      "bytes": 3144,
+      "sha256": "2993cd38872d6c8d58a86e484cb2d3a82f89beb76e4e2a0c90d56f48a4af8cfb"
+    },
+    {
+      "path": "corpus/08-baltic/tanker/2026/2026-11-06_W45_tanker-report-week-45_tanker.html",
+      "bytes": 6585,
+      "sha256": "78fea47574c4018047c77ab77ad9d3c4a476258387d4d685e90ed61695105bb0"
+    },
+    {
+      "path": "corpus/08-baltic/tanker/2026/2026-11-06_W45_tanker-report-week-45_tanker.md",
+      "bytes": 5399,
+      "sha256": "67d584fb8e45da05cf1438afccf5356f556cc68cc9ee2629a5fe23d29ea57d74"
     },
     {
       "path": "corpus/09-ppa/_root_pdfs/dampier_2026_june.pdf",
