@@ -1,5 +1,5 @@
 ---
-generated_at: '2026-11-06T22:24:09Z'
+generated_at: '2026-11-07T19:43:41Z'
 high_severity_count: 0
 page_type: knowledge_health_summary
 warning_count: 4
@@ -18,20 +18,20 @@ warning_count: 4
 
 | Source | Latest | Age (days) | Cadence | Status | Latest Gap | Undated |
 |---|---|---:|---:|---|---:|---:|
-| breakwave/drybulk | 2026-10-27 | 10 | 14 | healthy | 14 | 0 |
-| breakwave/tankers | 2026-11-03 | 3 | 14 | healthy | 14 | 0 |
-| baltic/dry | 2026-11-06 | 0 | 7 | healthy | 7 | 8 |
-| baltic/tanker | 2026-11-06 | 0 | 7 | healthy | 7 | 12 |
-| baltic/gas | 2026-11-06 | 0 | 7 | healthy | 7 | 0 |
-| baltic/container | 2026-11-06 | 0 | 7 | healthy | 7 | 0 |
-| baltic/ningbo | 2026-11-06 | 0 | 7 | healthy | 7 | 0 |
-| breakwave_insights/insights | 2026-11-06 | 0 | 14 | healthy | 0 | 0 |
-| hellenic/dry_charter | 2026-11-04 | 2 | 14 | healthy | 7 | 1 |
-| hellenic/tanker_charter | 2026-11-04 | 2 | 14 | healthy | 7 | 0 |
-| hellenic/iron_ore | 2026-11-06 | 0 | 14 | healthy | 1 | 0 |
-| hellenic/vessel_valuations | 2026-09-29 | 38 | 14 | watch | 6 | 1 |
-| hellenic/demolition | 2026-11-07 | -1 | 21 | healthy | 0 | 2 |
-| hellenic/shipbuilding | 2026-11-03 | 3 | 21 | healthy | 7 | 0 |
+| breakwave/drybulk | 2026-10-27 | 11 | 14 | healthy | 14 | 0 |
+| breakwave/tankers | 2026-11-03 | 4 | 14 | healthy | 14 | 0 |
+| baltic/dry | 2026-11-06 | 1 | 7 | healthy | 7 | 8 |
+| baltic/tanker | 2026-11-06 | 1 | 7 | healthy | 7 | 12 |
+| baltic/gas | 2026-11-06 | 1 | 7 | healthy | 7 | 0 |
+| baltic/container | 2026-11-06 | 1 | 7 | healthy | 7 | 0 |
+| baltic/ningbo | 2026-11-06 | 1 | 7 | healthy | 7 | 0 |
+| breakwave_insights/insights | 2026-11-06 | 1 | 14 | healthy | 0 | 0 |
+| hellenic/dry_charter | 2026-11-04 | 3 | 14 | healthy | 7 | 1 |
+| hellenic/tanker_charter | 2026-11-04 | 3 | 14 | healthy | 7 | 0 |
+| hellenic/iron_ore | 2026-11-06 | 1 | 14 | healthy | 1 | 0 |
+| hellenic/vessel_valuations | 2026-09-29 | 39 | 14 | watch | 6 | 1 |
+| hellenic/demolition | 2026-11-07 | 0 | 21 | healthy | 0 | 2 |
+| hellenic/shipbuilding | 2026-11-03 | 4 | 21 | healthy | 7 | 0 |
 | books | undated | - | - | reference | - | 12 |
 
 ## Topic Coverage
@@ -50,7 +50,7 @@ warning_count: 4
 | Container and Ningbo Routes | 2026-11-06 | 215 | 250 | baltic, hellenic | - | healthy |
 
 ## Priority Warnings
-- `watch` hellenic/vessel_valuations is watch at 38 days since the latest dated document.
+- `watch` hellenic/vessel_valuations is watch at 39 days since the latest dated document.
 - `watch` Oil and OPEC shows recent tone divergence: breakwave reads cautiously_bullish while baltic reads neutral.
 - `watch` Tanker Market shows recent tone divergence: breakwave_insights reads cautiously_bullish while baltic reads neutral.
 - `watch` VLCC and Suezmax shows recent tone divergence: breakwave reads cautiously_bullish while baltic reads neutral.
