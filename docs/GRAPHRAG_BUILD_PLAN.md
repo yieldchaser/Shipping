@@ -58,15 +58,15 @@ filing_date, accession_number, source, source_file`.
 
 ### 1.3 Readiness checklist (run before P1; every box must pass)
 
-| # | Check | Command / source | State 2026-11-01 |
+| # | Check | Command / source | State 2026-11-08 |
 |---|---|---|---|
 | R1 | Knowledge validator PASS | `python scripts/validate_knowledge.py` (run alone, ~30 min) | PASS on this branch (last run before this plan) |
-| R2 | No open **Blocker** in `docs/PRE_GRAPHRAG_OPEN_ITEMS.md` | ledger | CI-ingest regression blocker closed (re-ingest proof for every publisher, 2026-11-01) |
-| R3 | Every MD has `source_file` that exists and `source_sha256` matching the PDF | P0 script `kb/p0_inventory.py` | **PASS 2026-11-02**: 20,630 MDs, 0 failing; 1,066 carry `source_sha256`, all match. PDFs are gitignored, so sources are looked up in the main checkout too; API records (Fearnleys voice/app) pass on their record id |
-| R4 | Every MD has a parseable publication date | same | **PASS 2026-11-02**, 0 failing (59 Agora issues dated from the PDF creation date, `issue_date_basis`) |
-| R5 | Series CSVs: no duplicate (series, date) keys, no future dates | `scripts/verify/validate_cargo_data.py` + series inventory audit | PASS for cargo datasets |
-| R6 | Known residuals recorded and routed | ledger "open" items | **SEC (2026-11-02): converter fixed; 174 filings re-rendered (numbers identical, or values the old conversion lost put back from the SEC source). 26 flagged files left: 9 PDF-origin exhibits, 12 source-faithful text tables, 1 false positive, 2 real stacked VALE blocks (values present, rows merged). Details in the ledger.** Route: SEC numbers come from XBRL (§4.3), not from those cells, so this does not block; the narrative text of those MDs is fine |
-| R7 | Secrets absent from MDs | grep `llx-`, `sk-`, `ghp_`, `AKIA`, `Bearer`, `nace_sk_` over the inputs | **PASS 2026-11-02**, 0 hits. Inventory: 401.6 MB, about 111M tokens (estimated: the DeepSeek tokenizer runs out of memory on the 7.7 GB box), `kb/reports/p0_inventory.json` |
+| R2 | No open **Blocker** in `docs/PRE_GRAPHRAG_OPEN_ITEMS.md` | ledger | **PASS 2026-11-08**: no open Blocker; the CI-ingest regression blocker closed 2026-11-01 (re-ingest proof for every publisher) |
+| R3 | Every MD has `source_file` that exists and `source_sha256` matching the PDF | P0 script `kb/p0_inventory.py` | **PASS 2026-11-08**: 20,687 MDs, 0 failing (2026-11-02: 20,630); 1,066 carry `source_sha256`, all match. PDFs are gitignored, so sources are looked up in the main checkout too; API records (Fearnleys voice/app) pass on their record id |
+| R4 | Every MD has a parseable publication date | same | **PASS 2026-11-08**, 0 failing (59 Agora issues dated from the PDF creation date, `issue_date_basis`) |
+| R5 | Series CSVs: no duplicate (series, date) keys, no future dates | `scripts/verify/validate_cargo_data.py` + series inventory audit | **PASS 2026-11-08**: 166 series, 0 future-dated rows; no duplicate (date, route) key in NCFI after the 11-08 fix; 5 identical rows left in deal tables (Advanced, Carriers, Clarksons, Star Asia x2), each printed twice in its PDF |
+| R6 | Known residuals recorded and routed | ledger "open" items | **SEC (2026-11-02): converter fixed; 174 filings re-rendered (numbers identical, or values the old conversion lost put back from the SEC source). 26 flagged files left: 9 PDF-origin exhibits, 12 source-faithful text tables, 1 false positive, 2 real stacked VALE blocks (values present, rows merged). Details in the ledger.** Route: SEC numbers come from XBRL (§4.3), not from those cells, so this does not block; the narrative text of those MDs is fine. **2026-11-08**: Xclusiv split rows, Banchero label tables (213/245 identical to the PDF text, rest render-checked), NCFI fixed; remaining residuals listed in the ledger |
+| R7 | Secrets absent from MDs | grep `llx-`, `sk-`, `ghp_`, `AKIA`, `Bearer`, `nace_sk_` over the inputs | **PASS 2026-11-08**, 0 hits. Inventory: 402.1 MB, about 111.5M tokens (estimated: the DeepSeek tokenizer runs out of memory on the 7.7 GB box), `kb/reports/p0_inventory.json` |
 
 Owner can start **P0 now**: it only reads the repo.
 
