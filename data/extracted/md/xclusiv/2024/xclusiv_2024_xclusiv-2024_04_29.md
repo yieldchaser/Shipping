@@ -9,7 +9,7 @@ source_file: "corpus/01-brokers/xclusiv/2024/xclusiv_2024_xclusiv-2024_04_29.pdf
 pages: 9
 useful_pages: 7
 editorial_title: "MARKET COMMENTARY:"
-sales_count: 28
+sales_count: 26
 demo_sales_count: 3
 secondhand_prices_count: 32
 newbuilding_prices_count: 9
@@ -206,10 +206,8 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Tankers | HENGLI DALIAN | Tankers |  |  |  |  | - | - | - |
-| Tankers | HLZG2023-T300K-1 | Tankers |  |  |  |  | GREEK | $244.0M | - |
-| Tankers | HENGLI DALIAN | Tankers |  |  |  |  | GREEK | $244.0M | - |
-| Tankers | HLZG2023-T300K-2 | Tankers |  |  |  |  | - | - | - |
+| Tankers | HENGLI DALIAN HLZG2023-T300K-1 | VLCC | 306,000 | 2025 | CHINA | HENGLI | GREEK | $244.0M | - |
+| Tankers | HENGLI DALIAN HLZG2023-T300K-2 | VLCC | 306,000 | 2025 | CHINA | HENGLI | GREEK | $244.0M | - |
 | Tankers | STIRLING | Aframax | 112,750 | 2021 | CHINA | COSCO ZHOUSHAN | GREEK | $70.0M | - |
 | Tankers | CLARET PRINCE | Aframax | 109,005 | 2010 | CHINA |  | CHINESE | $43.5M | SCRUBBER FITTED |
 | Tankers | ALPINE PERSEFONE | Panamax | 74,269 | 2008 | S. KOREA | SUNGDONG | GREEK | $29.0M | COATED, CPP |

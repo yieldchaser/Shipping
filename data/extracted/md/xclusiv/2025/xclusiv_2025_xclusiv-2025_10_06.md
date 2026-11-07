@@ -9,7 +9,7 @@ source_file: "corpus/01-brokers/xclusiv/2025/xclusiv_2025_xclusiv-2025_10_06.pdf
 pages: 9
 useful_pages: 7
 editorial_title: "MARKET COMMENTARY:"
-sales_count: 21
+sales_count: 20
 demo_sales_count: 5
 secondhand_prices_count: 32
 newbuilding_prices_count: 9
@@ -154,8 +154,7 @@ This week saw heightened activity across most dry segments, led by strong appeti
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | MINERAL SHOUGANG | Bulk Carriers |  |  |  |  | ZHENJIANG SHIPPING | $65.5M | SCRUBBER FITTED |
-| Bulk Carriers | INTERNATIONAL | Bulk Carriers |  |  |  |  | - | - | - |
+| Bulk Carriers | MINERAL SHOUGANG INTERNATIONAL | Capesize | 206,392 | 2019 | CHINA | QINGDAO | ZHENJIANG SHIPPING | $65.5M | SCRUBBER FITTED |
 | Bulk Carriers | SDTR DORIS | Kamsarmax | 84,998 | 2021 | CHINA | SHANHAIGUAN | UNDISCLOSED | $55.0M | - |
 | Bulk Carriers | SDTR CELESTE | Kamsarmax | 84,994 | 2021 | CHINA | SHANHAIGUAN | UNDISCLOSED | $55.0M | - |
 | Bulk Carriers | DUKE SANTOS | Kamsarmax | 81,982 | 2019 | CHINA | JIANGSU NEWYANGZI | UNDISCLOSED | $27.0M | - |

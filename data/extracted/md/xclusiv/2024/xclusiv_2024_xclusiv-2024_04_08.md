@@ -9,7 +9,7 @@ source_file: "corpus/01-brokers/xclusiv/2024/xclusiv_2024_xclusiv-2024_04_08.pdf
 pages: 9
 useful_pages: 7
 editorial_title: "MARKET COMMENTARY:"
-sales_count: 28
+sales_count: 26
 demo_sales_count: 4
 secondhand_prices_count: 32
 newbuilding_prices_count: 9
@@ -207,10 +207,8 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 |---|---|---|---|---|---|---|---|---|---|
 | Tankers | CALYPSO | Aframax | 111,930 | 2021 | JAPAN | SUMITOMO | LIBYAN | $79.0M | - |
 | Tankers | MINERVA HELEN | Aframax | 103,643 | 2004 | S. KOREA | SAMSUNG | CHINESE | $30.35M | - |
-| Tankers | JIANGSU NEWYANGZI | Tankers |  |  |  |  | - | - | - |
-| Tankers | YZJ2023-1515 | Tankers |  |  |  |  | THENAMARIS | $53.0M | - |
-| Tankers | JIANGSU NEWYANGZI | Tankers |  |  |  |  | - | - | - |
-| Tankers | YZJ2023-1516 | Tankers |  |  |  |  | - | - | - |
+| Tankers | JIANGSU NEWYANGZI YZJ2023-1515 | MR2 | 49,990 | 2025 | CHINA | JNS | THENAMARIS | $53.0M | - |
+| Tankers | JIANGSU NEWYANGZI YZJ2023-1516 | MR2 | 49,990 | 2025 | CHINA | JNS | THENAMARIS | $53.0M | - |
 | Tankers | LADY MALOU | MR2 | 51,486 | 2013 | S. KOREA | HMD | INDIAN | $36.0M | ELECTRONIC M/E |
 | Tankers | STOLT FACTO | MR2 | 46,105 | 2010 | S. KOREA | SLS | UNDISCLOSED | $28.0M | - |
 | Tankers | NYON EXPRESS | MR2 | 45,996 | 2010 | JAPAN | SHIN KURUSHIMA | UNDISCLOSED | $27.0M | - |

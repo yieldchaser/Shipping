@@ -154,9 +154,16 @@ def parse_price_mill(p_str: str) -> Optional[float]:
     if not p_str:
         return None
     s = p_str.replace("$", "").replace("USD", "").replace("usd", "").strip()
+    # '2015 Units: 120 each' (2026-08-03): the year names which units the price is for
+    s = re.sub(r"^(?:19|20)\d{2}\s+Units:\s*", "", s, flags=re.I)
     m = re.search(r"\d[\d.,]*", s)
     if not m:
         return None
+    # '1 BN ENBLOC' (2024-08-26, Bahri's 9 VLCCs): the cell is in billions, the column in millions
+    bn = re.match(r"\s*(?:BN|BILLION)\b", s[m.end():], re.I)
+    if bn:
+        v = parse_price_mill(m.group(0) + s[m.end() + bn.end():])
+        return None if v is None else round(v * 1000, 6)
     token = m.group(0).rstrip(".,")
     if "," in token:
         head, tail = token.rsplit(",", 1)
@@ -432,7 +439,7 @@ def extract_sales_tables(
                     line_buckets[matched] = []
                 line_buckets[matched].append(w)
 
-            last_valid_row = None
+            lines: List[Tuple[float, Dict[str, str]]] = []
             for by in sorted(line_buckets.keys()):
                 lw = sorted(line_buckets[by], key=lambda x: x[0])
                 row: Dict[str, List[str]] = {b[0]: [] for b in bounds}
@@ -442,8 +449,50 @@ def extract_sales_tables(
                         if b_left <= wx < b_right:
                             row[b_name].append(w[4])
                             break
+                lines.append((by, {k: clean_str(" ".join(v)) for k, v in row.items()}))
 
-                row_clean = {k: clean_str(" ".join(v)) for k, v in row.items()}
+            # Cells that wrap (resale hulls "ZHOUSHAN CHANGHONG" / "CHB3026", yards, buyers, "STRANGE AT-" /
+            # "TRACTOR") print their lines above and below the line that holds DWT/YEAR. Each line without
+            # DWT/YEAR joins the nearest such line within 9.5 pt (ties to the row above); lines further away keep the
+            # old handling (buyers/price/comments of a merged cell attach to the previous row).
+            anchors = [i for i, (_, ln) in enumerate(lines) if ln.get("DWT") or ln.get("YEAR")]
+            parts: Dict[int, List[int]] = {a: [a] for a in anchors}
+            loose: Dict[int, int] = {}
+            for i, (y, ln) in enumerate(lines):
+                if i in parts:
+                    continue
+                near = sorted(anchors, key=lambda a: (abs(lines[a][0] - y), lines[a][0]))
+                if near and abs(lines[near[0]][0] - y) <= 9.5:
+                    parts[near[0]].append(i)
+                else:
+                    loose[i] = i
+            # Only rows whose NAME wraps are joined; every other line keeps the line-by-line handling.
+            for a in [a for a, js in parts.items() if not any(lines[j][1].get("NAME") for j in js if j != a)]:
+                for j in parts.pop(a)[1:]:
+                    loose[j] = j
+                parts[a] = [a]
+            # Comments are left as before (a comment line attaches to the row above it): a comment cell can span
+            # several rows, and its extent is not recoverable from the words alone.
+            member = {j: a for a, js in parts.items() for j in js if j != a}
+            merged: List[Dict[str, str]] = []
+            for i in range(len(lines)):
+                if i in loose:
+                    merged.append(lines[i][1])
+                elif i in member:
+                    if lines[i][1].get("COMMENTS"):
+                        merged.append({"COMMENTS": lines[i][1]["COMMENTS"]})
+                elif i in parts:
+                    cell: Dict[str, str] = {}
+                    for j in sorted(parts[i]):
+                        for key, val in lines[j][1].items():
+                            if not val or (j != i and key == "COMMENTS"):
+                                continue
+                            prev = cell.get(key, "")
+                            cell[key] = (prev[:-1] + val) if prev.endswith("-") else f"{prev} {val}".strip()
+                    merged.append(cell)
+
+            last_valid_row = None
+            for row_clean in merged:
                 name = row_clean.get("NAME", "")
                 dwt = _norm_tonnage(row_clean.get("DWT", ""))
                 year = row_clean.get("YEAR", "")
@@ -525,6 +574,21 @@ def extract_sales_tables(
                     if comments:
                         last_valid_row["COMMENTS"] = (last_valid_row["COMMENTS"] + " " + comments).strip()
 
+    # A price cell merged over two rows prints its value and its qualifier ("244" / "ENBLOC", "32.5" / "EACH") on
+    # lines that fall to different rows; both rows carry the whole cell.
+    for k in range(1, len(sales_rows)):
+        cur, prev = sales_rows[k], sales_rows[k - 1]
+        qual = str(cur.get("PRICE", "")).strip().upper()
+        if (
+            qual in ("EACH", "ENBLOC", "EN BLOC")
+            and cur.get("section") == prev.get("section")
+            and prev.get("PRICE_USD_MILL") not in ("", None)
+            and not re.search(r"EACH|BLOC", str(prev.get("PRICE", "")), re.I)
+        ):
+            whole = f"{prev['PRICE']} {qual}"
+            for r in (prev, cur):
+                r["PRICE"] = whole
+                r["PRICE_USD_MILL"] = prev["PRICE_USD_MILL"]
     return propagate_enbloc_and_spans(sales_rows)
 
 

@@ -175,7 +175,7 @@
       "BUYERS": "CHINESE",
       "PRICE": "12.5",
       "PRICE_USD_MILL": 12.5,
-      "COMMENTS": "SS/DD : due 04/2029 - DD: 08/2027, ICE",
+      "COMMENTS": "SS/DD : due",
       "source_file": "xclusiv_2024_xclusiv-2024_09_02.pdf"
     },
     {
@@ -188,11 +188,11 @@
       "DWT": "74,052",
       "YEAR": "2014",
       "COUNTRY": "INDIA",
-      "YARD": "",
+      "YARD": "PAPAVAV DEFENCE & OFFSHORE",
       "BUYERS": "UNDISCLOSED",
       "PRICE": "21",
       "PRICE_USD_MILL": 21.0,
-      "COMMENTS": "CLASS 1C",
+      "COMMENTS": "SS: 04/2029 - DD: 08/2027, ICE CLASS 1C",
       "source_file": "xclusiv_2024_xclusiv-2024_09_02.pdf"
     },
     {
@@ -239,11 +239,11 @@
       "DWT": "74,999",
       "YEAR": "2004",
       "COUNTRY": "S. KOREA",
-      "YARD": "",
+      "YARD": "HYUNDAI HEAVY INDUSTRIES",
       "BUYERS": "CHINESE",
       "PRICE": "20.5",
       "PRICE_USD_MILL": 20.5,
-      "COMMENTS": "SS/DD : DUE, CPP 02/2028 - DD: 03/2026, ICE",
+      "COMMENTS": "SS/DD : DUE, CPP",
       "source_file": "xclusiv_2024_xclusiv-2024_09_02.pdf"
     },
     {
@@ -260,7 +260,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "30",
       "PRICE_USD_MILL": 30.0,
-      "COMMENTS": "CLASS 1A",
+      "COMMENTS": "SS: 02/2028 - DD: 03/2026, ICE CLASS 1A",
       "source_file": "xclusiv_2024_xclusiv-2024_09_02.pdf"
     },
     {
@@ -275,9 +275,9 @@
       "COUNTRY": "S. KOREA",
       "YARD": "STX",
       "BUYERS": "CHINESE",
-      "PRICE": "18.75 SS:",
+      "PRICE": "18.75",
       "PRICE_USD_MILL": 18.75,
-      "COMMENTS": "05/2029 - DD: 08/2027, CPP 03/2009 - DD: 01/2027, SCRUB-",
+      "COMMENTS": "SS: 05/2029 - DD: 08/2027, CPP",
       "source_file": "xclusiv_2024_xclusiv-2024_09_02.pdf"
     },
     {
@@ -294,7 +294,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "41",
       "PRICE_USD_MILL": 41.0,
-      "COMMENTS": "BER FITTED 06/2029 - DD: 07/2027, SCRUB-",
+      "COMMENTS": "SS: 03/2009 - DD: 01/2027, SCRUBBER FITTED",
       "source_file": "xclusiv_2024_xclusiv-2024_09_02.pdf"
     },
     {
@@ -311,7 +311,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "41",
       "PRICE_USD_MILL": 41.0,
-      "COMMENTS": "BER FITTED SS/DD : FRESHLY PASSED,",
+      "COMMENTS": "SS: 06/2029 - DD: 07/2027, SCRUBBER FITTED",
       "source_file": "xclusiv_2024_xclusiv-2024_09_02.pdf"
     },
     {
@@ -328,7 +328,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "17.8",
       "PRICE_USD_MILL": 17.8,
-      "COMMENTS": "DEEPWELL, ZINC COATED",
+      "COMMENTS": "SS/DD : FRESHLY PASSED, DEEPWELL, ZINC COATED",
       "source_file": "xclusiv_2024_xclusiv-2024_09_02.pdf"
     },
     {
@@ -343,9 +343,9 @@
       "COUNTRY": "JAPAN",
       "YARD": "SHIN KURUSHIMA",
       "BUYERS": "UNDISCLOSED",
-      "PRICE": "26.6 SS:",
+      "PRICE": "26.6",
       "PRICE_USD_MILL": 26.6,
-      "COMMENTS": "08/2026 - DD: 10/2024, STST",
+      "COMMENTS": "SS: 08/2026 - DD: 10/2024, STST",
       "source_file": "xclusiv_2024_xclusiv-2024_09_02.pdf"
     }
   ],

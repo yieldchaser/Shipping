@@ -9,7 +9,7 @@ source_file: "corpus/01-brokers/xclusiv/2026/xclusiv_2026_xclusiv-2026_02_09.pdf
 pages: 9
 useful_pages: 7
 editorial_title: "MARKET COMMENTARY:"
-sales_count: 23
+sales_count: 22
 demo_sales_count: 3
 secondhand_prices_count: 32
 newbuilding_prices_count: 9
@@ -201,8 +201,7 @@ Activity remained firm this week with a total of 10 tanker transactions reported
 | Tankers | MARAN PYTHIA | Suezmax | 158,266 | 2009 | S. KOREA | HHI | GREEK | $46.0M | SCRUBBER FITTED |
 | Tankers | ATHIRI | Panamax | 73,982 | 2010 | S. KOREA | SPP | GREEK | $24.5M | COATED COATED, BASIS DELIVERY |
 | Tankers | CABO FROWARD | Panamax | 74,543 | 2006 | JAPAN | SASEBO | UNDISCLOSED | $12.5M | JUNE 2026 |
-| Tankers | LIANYUNGANG WUZHOU | Tankers |  |  |  | LIANYUNGANG | ASYAD SHIPPING | $45.0M | SCRUBBER FITTED |
-| Tankers | WZ465 | Tankers |  |  |  | WUZHOU | - | - | - |
+| Tankers | LIANYUNGANG WUZHOU WZ465 | MR2 | 49,900 | 2026 | CHINA | LIANYUNGANG WUZHOU | ASYAD SHIPPING | $45.0M | SCRUBBER FITTED |
 | Tankers | CLEAROCEAN MARAUDER | MR2 | 49,999 | 2021 | S. KOREA | SAMSUNG | UNDISCLOSED | $42.5M | - |
 | Tankers | ELANDRA FJORD | MR2 | 51,408 | 2011 | S. KOREA | HMD | GREEK | $49.0M | ICE CLASS 1B |
 | Tankers | ELANDRA BALTIC | MR2 | 51,406 | 2011 | S. KOREA | HMD | GREEK | $49.0M | ICE CLASS 1B |

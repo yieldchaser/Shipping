@@ -9,7 +9,7 @@ source_file: "corpus/01-brokers/xclusiv/2026/xclusiv_2026_xclusiv-2026_06_15.pdf
 pages: 9
 useful_pages: 7
 editorial_title: "Beyond Posidonia: Tracking the Pulse of Greek Tanker  Transactions:"
-sales_count: 14
+sales_count: 13
 demo_sales_count: 4
 secondhand_prices_count: 32
 newbuilding_prices_count: 9
@@ -189,8 +189,7 @@ This week’s tanker S&P activity was led by firm interest in the Aframax/LR2 se
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Tankers | SHANHAIGUAN | Tankers |  |  |  |  | DITAS | $90.0M | SCRUBBER FITTED, COATED |
-| Tankers | P110K-70 | Tankers |  |  |  |  | - | - | - |
+| Tankers | SHANHAIGUAN P110K-70 | Aframax | 114,800 | 2026 | CHINA | SHANHAIGUAN | DITAS | $90.0M | SCRUBBER FITTED, COATED |
 | Tankers | SAMOS | Aframax | 104,649 | 2010 | JAPAN | SUMITOMO | UNDISCLOSED | $44.5M | COATED, BASIS OCT CANCELLING |
 | Tankers | SEAMUSIC | Aframax | 112,922 | 2009 | CHINA | NEW TIMES | UNDISCLOSED | $53.5M | COATED |
 | Tankers | CAPE TEMPEST | Panamax | 73,721 | 2008 | CHINA | NEW TIMES | UNDISCLOSED | $43.5M | - |

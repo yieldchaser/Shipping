@@ -9,7 +9,7 @@ source_file: "corpus/01-brokers/xclusiv/2025/xclusiv_2025_xclusiv-2025_11_10.pdf
 pages: 9
 useful_pages: 7
 editorial_title: "MARKET COMMENTARY:"
-sales_count: 33
+sales_count: 29
 demo_sales_count: 7
 secondhand_prices_count: 32
 newbuilding_prices_count: 9
@@ -217,14 +217,10 @@ Among modern Korean-built tonnage, Euroholdings purchased the â€œHellas Avatarâ€
 |---|---|---|---|---|---|---|---|---|---|
 | Tankers | PLATANOS | Aframax | 114,578 | 2019 | JAPAN | NAMURA | TANKERSKA PLOVIDBA | $66.5M | SCRUBBER FITTED, COATED |
 | Tankers | AMALIA | Panamax | 73,869 | 2006 | CHINA | NEW CENTURY | CHINESE | $11.5M | - |
-| Tankers | JINGJIANG NANYANG | Tankers |  |  |  | JINGJIANG | - | - | - |
-| Tankers | YZJF2024-004 | Tankers |  |  |  | NANYANG | - | - | - |
-| Tankers | JINGJIANG NANYANG | Tankers |  |  |  | JINGJIANG | - | - | - |
-| Tankers | YZJF2024-001 | Tankers |  |  |  | NANYANG | SCORPIO | $45.0M | - |
-| Tankers | JINGJIANG NANYANG | Tankers |  |  |  | JINGJIANG | - | - | - |
-| Tankers | YZJF2024-002 | Tankers |  |  |  | NANYANG | - | - | - |
-| Tankers | JINGJIANG NANYANG | Tankers |  |  |  | JINGJIANG | - | - | - |
-| Tankers | YZJF2024-003 | Tankers |  |  |  | NANYANG | - | - | - |
+| Tankers | JINGJIANG NANYANG YZJF2024-004 | MR2 | 49,800 | 2027 | CHINA | JINGJIANG NANYANG | SCORPIO | $45.0M | - |
+| Tankers | JINGJIANG NANYANG YZJF2024-001 | MR2 | 49,800 | 2026 | CHINA | JINGJIANG NANYANG | SCORPIO | $45.0M | - |
+| Tankers | JINGJIANG NANYANG YZJF2024-002 | MR2 | 49,800 | 2026 | CHINA | JINGJIANG NANYANG | SCORPIO | $45.0M | - |
+| Tankers | JINGJIANG NANYANG YZJF2024-003 | MR2 | 49,800 | 2026 | CHINA | JINGJIANG NANYANG | SCORPIO | $45.0M | - |
 | Tankers | AMFITRION | MR2 | 50,102 | 2017 | CHINA | SAMSUNG NINGBO | UNDISCLOSED | $34.0M | - |
 | Tankers | HELLAS AVATAR | MR2 | 49,997 | 2015 | S. KOREA | HMD | EUROHOLDINGS | $31.0M | - |
 | Tankers | STI BATTERY | MR2 | 49,990 | 2014 | S. KOREA | HMD | - | $31.0M | - |

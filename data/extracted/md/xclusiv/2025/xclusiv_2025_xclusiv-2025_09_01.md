@@ -9,7 +9,7 @@ source_file: "corpus/01-brokers/xclusiv/2025/xclusiv_2025_xclusiv-2025_09_01.pdf
 pages: 9
 useful_pages: 7
 editorial_title: "MARKET COMMENTARY:"
-sales_count: 20
+sales_count: 19
 demo_sales_count: 4
 secondhand_prices_count: 32
 newbuilding_prices_count: 9
@@ -153,8 +153,7 @@ This week saw robust activity in the dry S&P market, reflecting increased moment
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | KARADENIZ POWERSHIP RAUF | Bulk Carriers |  |  |  |  | CHINESE | $33.0M | - |
-| Bulk Carriers | OSMAN BEY | Bulk Carriers |  |  |  |  | - | - | - |
+| Bulk Carriers | KARADENIZ POWERSHIP RAUF OSMAN BEY | Capesize | 207,945 | 2010 | JAPAN | UNIVERSAL | CHINESE | $33.0M | - |
 | Bulk Carriers | COSTANZA | Kamsarmax | 92,672 | 2010 | JAPAN | OSHIMA | INDONESIAN | $16.1M | - |
 | Bulk Carriers | SEA VENUS | Kamsarmax | 80,888 | 2013 | CHINA | NEW CENTURY | UNDISCLOSED | $16.5M | - |
 | Bulk Carriers | YASA NESLIHAN | Kamsarmax | 82,849 | 2005 | JAPAN | TSUNEISHI | FAR EASTERN | $10.0M | - |

@@ -9,7 +9,7 @@ source_file: "corpus/01-brokers/xclusiv/2025/xclusiv_2025_xclusiv-2025_09_08.pdf
 pages: 9
 useful_pages: 7
 editorial_title: "MARKET COMMENTARY:"
-sales_count: 26
+sales_count: 24
 demo_sales_count: 4
 secondhand_prices_count: 32
 newbuilding_prices_count: 9
@@ -206,10 +206,8 @@ In the Suezmax sector, the “Jasmine Knutsen” - 149K/2005 Samsung was sold fo
 |---|---|---|---|---|---|---|---|---|---|
 | Tankers | SAMURAI | Suezmax | 149,993 | 2009 | JAPAN | UNIVERSAL | INDIAN | $39.0M | - |
 | Tankers | JASMINE KNUTSEN | Suezmax | 148,644 | 2005 | S. KOREA | SAMSUNG | UNDISCLOSED | $33.0M | SS/DD PASSED |
-| Tankers | ZHOUSHAN CHANGHONG | Tankers |  |  |  |  | - | - | - |
-| Tankers | CHB3026 | Tankers |  |  |  |  | NAVIOS MARITIME | $66.5M | - |
-| Tankers | ZHOUSHAN CHANGHONG | Tankers |  |  |  |  | - | - | - |
-| Tankers | CHB3027 | Tankers |  |  |  |  | - | - | - |
+| Tankers | ZHOUSHAN CHANGHONG CHB3026 | Aframax | 115,000 | 2027 | CHINA | ZHOUSHAN CHANGHONG | NAVIOS MARITIME | $66.5M | - |
+| Tankers | ZHOUSHAN CHANGHONG CHB3027 | Aframax | 115,000 | 2027 | CHINA | ZHOUSHAN CHANGHONG | NAVIOS MARITIME | $66.5M | - |
 | Tankers | EASTERN ORCHID | Small Tanker | 13,498 | 2018 | CHINA | ZHEJIANG SHENZHOU | UNDISCLOSED | $17.0M | - |
 
 ---

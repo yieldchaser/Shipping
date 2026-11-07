@@ -9,7 +9,7 @@ source_file: "corpus/01-brokers/xclusiv/2025/xclusiv_2025_xclusiv-2025_03_17.pdf
 pages: 9
 useful_pages: 7
 editorial_title: "MARKET COMMENTARY:"
-sales_count: 20
+sales_count: 19
 demo_sales_count: 7
 secondhand_prices_count: 32
 newbuilding_prices_count: 9
@@ -153,8 +153,7 @@ On the Cape Sector, the “Maran Odyssey” - 172K/2006 Daewoo and the “Maran 
 | Bulk Carriers | MARAN SAILOR | Capesize | 171,680 | 2006 | S. KOREA | DAEWOO | GMS | $19.0M | - |
 | Bulk Carriers | PORT MACAU | Supramax | 58,730 | 2008 | CHINA | TSUNEISHI ZHOUSHAN | CHINESE | $11.0M | - |
 | Bulk Carriers | DUBAI KNIGHT | Supramax | 55,418 | 2007 | JAPAN | OSHIMA | UNDISCLOSED | $10.5M | - |
-| Bulk Carriers | STRANGE AT- | Bulk Carriers |  |  |  |  | UNDISCLOSED | MID/HIGH | SCRUBBER FITTED |
-| Bulk Carriers | TRACTOR | Bulk Carriers |  |  |  |  | - | $9.0M | - |
+| Bulk Carriers | STRANGE ATTRACTOR | Supramax | 55,742 | 2006 | JAPAN | MITSUI | UNDISCLOSED | $9.0M | SCRUBBER FITTED |
 | Bulk Carriers | FORTUNE HERO | Handysize | 35,000 | 2012 | CHINA | HULUDAO BOHAI | UNDISCLOSED | $8.5M | - |
 | Bulk Carriers | TATE J | Handysize | 34,439 | 2012 | S. KOREA | SPP | UNDISCLOSED | $13.0M | - |
 | Bulk Carriers | PNOI | Handysize | 32,282 | 2009 | JAPAN | KANDA KAWAJIRI | UNDISCLOSED | $11.2M | - |

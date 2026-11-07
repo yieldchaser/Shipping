@@ -9,7 +9,7 @@ source_file: "corpus/01-brokers/xclusiv/2026/xclusiv_2026_xclusiv-2026_01_19.pdf
 pages: 9
 useful_pages: 7
 editorial_title: "MARKET COMMENTARY:"
-sales_count: 31
+sales_count: 30
 demo_sales_count: 2
 secondhand_prices_count: 32
 newbuilding_prices_count: 9
@@ -162,8 +162,7 @@ Dry bulk S&P activity this week was spread across all sizes, from Capesize down 
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | BERGE | Bulk Carriers |  |  |  |  | S. KOREAN BUYERS | $73.9M | SCRUBBER FITTED |
-| Bulk Carriers | MOLDOVEANU | Bulk Carriers |  |  |  |  | - | - | - |
+| Bulk Carriers | BERGE MOLDOVEANU | Capesize | 207,996 | 2020 | CHINA | BOHAI | S. KOREAN BUYERS | $73.9M | SCRUBBER FITTED |
 | Bulk Carriers | MIRACLE | Capesize | 180,643 | 2011 | PHILIPPINES | TSUNEISHI CEBU | F. EASTER BUYERS | $32.0M | - |
 | Bulk Carriers | FRONTIER KOTOBUKI | Capesize | 174,810 | 2011 | JAPAN | TSUNEISHI | EUROPEAN BUYERS | $31.4M | - |
 | Bulk Carriers | MIAO XIANG | Kamsarmax | 81,983 | 2013 | CHINA | JES | UNDISCLOSED | $16.8M | - |

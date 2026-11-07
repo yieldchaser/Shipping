@@ -9,7 +9,7 @@ source_file: "corpus/01-brokers/xclusiv/2026/xclusiv_2026_xclusiv-2026_02_16.pdf
 pages: 9
 useful_pages: 7
 editorial_title: "MARKET COMMENTARY:"
-sales_count: 29
+sales_count: 28
 demo_sales_count: 3
 secondhand_prices_count: 32
 newbuilding_prices_count: 9
@@ -165,8 +165,7 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 | Bulk Carriers | EPIC | Capesize | 182,060 | 2010 | DENMARK |  | EUROPEAN | $32.2M | - |
 | Bulk Carriers | CAPE BRAZIL | Capesize | 177,897 | 2010 | CHINA | SWS | UNDISCLOSED | $31.0M | - |
 | Bulk Carriers | BULK XAYMACA | Panamax | 76,561 | 2006 | JAPAN | IMABARI | UNDISCLOSED | $9.4M | - |
-| Bulk Carriers | QIDONG XIANGYU | Bulk Carriers |  |  |  |  | GREEK | $36.5M | BASIS DELIVERY EX-YARD |
-| Bulk Carriers | XY197 | Bulk Carriers |  |  |  |  | - | - | AUGUST 2026, ON SUBS |
+| Bulk Carriers | QIDONG XIANGYU XY197 | Ultramax | 63,800 | 2026 | CHINA | NANTONG XIANGYU | GREEK | $36.5M | AUGUST 2026, ON SUBS |
 | Bulk Carriers | BERGE TATEYAMA | Ultramax | 63,511 | 2020 | JAPAN | SHIN KASADO | UNDISCLOSED | $34.0M | - |
 | Bulk Carriers | EXPLORER AMERICA | Ultramax | 61,684 | 2011 | JAPAN | OSHIMA | UNDISCLOSED | $18.2M | - |
 | Bulk Carriers | FORTUNE TIGER | Supramax | 58,159 | 2013 | PHILIPPINES | TSUNEISHI CEBU | UNDISCLOSED | $19.0M | - |

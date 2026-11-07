@@ -9,7 +9,7 @@ source_file: "corpus/01-brokers/xclusiv/2025/xclusiv_2025_xclusiv-2025_12_08.pdf
 pages: 9
 useful_pages: 7
 editorial_title: "MARKET COMMENTARY:"
-sales_count: 18
+sales_count: 17
 demo_sales_count: 5
 secondhand_prices_count: 32
 newbuilding_prices_count: 9
@@ -194,8 +194,7 @@ Tanker S&P activity continued this week with six sales reported across the crude
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
 | Tankers | TOWADA | VLCC | 305,801 | 2006 | JAPAN | MITSUBISHI | CHINESE | $45.7M | - |
-| Tankers | ZHOUSHAN CHANG- | Tankers |  |  |  |  | UNDISCLOSED | $48.5M | - |
-| Tankers | HONG CHB5006 | Tankers |  |  |  |  | - | - | FS ICE CLASS |
+| Tankers | ZHOUSHAN CHANGHONG CHB5006 | MR2 | 50,000 | 2026 | CHINA | ZHOUSHAN CHANGHONG | UNDISCLOSED | $48.5M | FS ICE CLASS |
 | Tankers | AEGEA | MR2 | 51,371 | 2008 | S. KOREA | SLS | UNDISCLOSED | $14.5M | 1B |
 | Tankers | MINERVA LYDIA | MR2 | 47,999 | 2004 | JAPAN | IWAGI | CHINESE | $10.4M | - |
 | Tankers | SEA ADORE | MR2 | 47,803 | 2004 | S. KOREA | HMD | INDIAN | $10.5M | - |

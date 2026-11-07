@@ -9,7 +9,7 @@ source_file: "corpus/01-brokers/xclusiv/2024/xclusiv_2024_xclusiv-2024_01_08.pdf
 pages: 9
 useful_pages: 7
 editorial_title: "MARKET COMMENTARY:"
-sales_count: 17
+sales_count: 16
 demo_sales_count: 4
 secondhand_prices_count: 32
 newbuilding_prices_count: 9
@@ -161,8 +161,7 @@ CAPT TASOS 182,288 2023 JAPAN NAMURA NORDEN 70.5 SS: 10/2028 - DD: 10/2026
 | Bulk Carriers | THE EVOLUTION | Kamsarmax | 88,270 | 2010 | JAPAN | IMABARI | UNDISCLOSED | $17.4M | SS: 04/2028 - DD: 11/2025 |
 | Bulk Carriers | FLAG TRIAS | Kamsarmax | 93,492 | 2007 | JAPAN | NAMURA | UNDISCLOSED | $14.5M | SS: 01/2026 - DD: 02/2024 |
 | Bulk Carriers | SUPER LUNA | Kamsarmax | 81,517 | 2016 | CHINA | JINHAI HEAVY | GREEK | $22.6M | SS: 06/2026 - DD: 09/2024 SS/DD: 02/2025, ELECTRONIC M/E, |
-| Bulk Carriers | TOMINI | Bulk Carriers |  |  |  |  | UNDISCLOSED | $24.5M | ATTACHED TILL MAX MAY 2024 |
-| Bulk Carriers | BRAVERY | Bulk Carriers |  |  |  |  | - | - | AT USD 13.5K/DAY |
+| Bulk Carriers | TOMINI BRAVERY | Kamsarmax | 81,027 | 2015 | CHINA | JIANGSU JINLING | UNDISCLOSED | $24.5M | ATTACHED TILL MAX MAY 2024 AT USD 13.5K/DAY |
 | Bulk Carriers | ARTEMIS | Kamsarmax | 81,963 | 2013 | CHINA | COSCO DALIAN | UNDISCLOSED | $19.0M | SS: 02/2028 - DD: 02/2026 SS: 08/2027 - DD: 11/2025, BSS |
 | Bulk Carriers | SW PROSPEROUS | Supramax | 57,480 | 2012 | S. KOREA | STX | UNDISCLOSED | $16.0M | DELIVERY FEB-MARCH 2024 |
 | Bulk Carriers | IKAN PARANG | Supramax | 56,618 | 2011 | CHINA | TAIZHOU KOUAN | UNDISCLOSED | $11.0M | SS: 12/2025 - DD: 12/2025 |
