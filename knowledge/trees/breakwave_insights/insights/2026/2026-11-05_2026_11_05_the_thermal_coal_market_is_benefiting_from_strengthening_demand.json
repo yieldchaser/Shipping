@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-11-05_2026_11_05_the_thermal_coal_market_is_benefiting_from_strengthening_demand__root",
+  "doc_id": "breakwave_insights_insights_2026-11-05_2026_11_05_the_thermal_coal_market_is_benefiting_from_strengthening_demand",
+  "parent_id": null,
+  "title": "The thermal coal market is benefiting from strengthening demand",
+  "section_path": [
+    "The thermal coal market is benefiting from strengthening demand"
+  ],
+  "section_path_text": "The thermal coal market is benefiting from strengthening demand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Nikolaos Tagoulis\nWith the winter heating season underway, the thermal coal market is benefiting from strengthening demand, as elevated natural gas prices reinforce coal's cost competitiveness in power generation. Qatari LNG volumes remain sharply reduced, while European natural gas prices have returned to levels last seen during the 2022 energy crisis, with Dutch TTF prices recently exceeding €100/MWh and EU gas inventories below their 5-year average. These conditions have improved coalfired generation economics, encouraging gas-to-coal switching across parts of Europe and Asia.",
+  "keywords": [
+    "lng",
+    "china",
+    "australia",
+    "atlantic",
+    "europe",
+    "india",
+    "japan",
+    "coal",
+    "gas",
+    "demand",
+    "thermal",
+    "domestic"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 880,
+  "source_path": "reports/breakwave/2026/2026-11-05_the-thermal-coal-market-is-benefiting-from-strengthening-demand.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/11/4/the-thermal-coal-market-is-benefiting-from-strengthening-demand",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-11-05_2026_11_05_the_thermal_coal_market_is_benefiting_from_strengthening_demand__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-11-05_2026_11_05_the_thermal_coal_market_is_benefiting_from_strengthening_demand",
+      "parent_id": "breakwave_insights_insights_2026-11-05_2026_11_05_the_thermal_coal_market_is_benefiting_from_strengthening_demand__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Nikolaos Tagoulis\nWith the winter heating season underway, the thermal coal market is benefiting from strengthening demand, as elevated natural gas prices reinforce coal's cost competitiveness in power generation. Qatari LNG volumes remain sharply reduced, while European natural gas prices have returned to levels last seen during the 2022 energy crisis, with Dutch TTF prices recently exceeding €100/MWh and EU gas inventories below their 5-year average.",
+      "keywords": [
+        "lng",
+        "china",
+        "australia",
+        "atlantic",
+        "europe",
+        "india",
+        "japan",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 878,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

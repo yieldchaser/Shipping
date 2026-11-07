@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-11-06_2026_11_06_is_the_paper_market_sell_off_justified__root",
+  "doc_id": "breakwave_insights_insights_2026-11-06_2026_11_06_is_the_paper_market_sell_off_justified",
+  "parent_id": null,
+  "title": "Is the paper market sell-off justified?",
+  "section_path": [
+    "Is the paper market sell-off justified?"
+  ],
+  "section_path_text": "Is the paper market sell-off justified?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nTD34 Cal27 for a non-scrubber VLCC is down 40% since Tuesday, at $134k/day. Over the same period, the spot market dropped 8%. Mid-sized crude tanker FFAs have also fallen precipitously since Tuesday.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "meg",
+    "crude_oil",
+    "iran",
+    "are",
+    "trump",
+    "down",
+    "k/day.",
+    "congress",
+    "middle"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 662,
+  "source_path": "reports/breakwave/2026/2026-11-06_is-the-paper-market-sell-off-justified.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/11/6/is-the-paper-market-sell-off-justified",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-11-06_2026_11_06_is_the_paper_market_sell_off_justified__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-11-06_2026_11_06_is_the_paper_market_sell_off_justified",
+      "parent_id": "breakwave_insights_insights_2026-11-06_2026_11_06_is_the_paper_market_sell_off_justified__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "TD34 Cal27 for a non-scrubber VLCC is down 40% since Tuesday, at $134k/day. Over the same period, the spot market dropped 8%.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "meg",
+        "crude_oil",
+        "iran",
+        "are",
+        "trump"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 660,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

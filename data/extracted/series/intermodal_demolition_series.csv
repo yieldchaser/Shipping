@@ -2655,3 +2655,12 @@ issue_date,report_week,record_type,sector,country,price_current_usd_per_ldt,pric
 2026-10-27,43,indicative_price,Dry Bulk,Pakistan,475.0,475.0,0.0%,,,,,,,$475.0/ldt,475.0,,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
 2026-10-27,43,indicative_price,Dry Bulk,Turkey,280.0,280.0,0.0%,,,,,,,$280.0/ldt,280.0,,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
 2026-10-27,43,reported_sale,,Bangladeshi,512.0,,,LIAN YI DA 2 HAO,24132,5560,1998,"SAIKI, Japan",BC,$512/Ldt,512.0,Bangladeshi,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-11-03,44,indicative_price,Tanker,Bangladesh,515.0,505.0,2.0%,,,,,,,$515.0/ldt,515.0,,,intermodal_04_11_2026_intermodal_weekly_market_report_week_44_2026_broker_s_insi.pdf
+2026-11-03,44,indicative_price,Tanker,India,475.0,470.0,1.1%,,,,,,,$475.0/ldt,475.0,,,intermodal_04_11_2026_intermodal_weekly_market_report_week_44_2026_broker_s_insi.pdf
+2026-11-03,44,indicative_price,Tanker,Pakistan,505.0,495.0,2.0%,,,,,,,$505.0/ldt,505.0,,,intermodal_04_11_2026_intermodal_weekly_market_report_week_44_2026_broker_s_insi.pdf
+2026-11-03,44,indicative_price,Tanker,Turkey,290.0,290.0,0.0%,,,,,,,$290.0/ldt,290.0,,,intermodal_04_11_2026_intermodal_weekly_market_report_week_44_2026_broker_s_insi.pdf
+2026-11-03,44,indicative_price,Dry Bulk,Bangladesh,500.0,485.0,3.1%,,,,,,,$500.0/ldt,500.0,,,intermodal_04_11_2026_intermodal_weekly_market_report_week_44_2026_broker_s_insi.pdf
+2026-11-03,44,indicative_price,Dry Bulk,India,465.0,460.0,1.1%,,,,,,,$465.0/ldt,465.0,,,intermodal_04_11_2026_intermodal_weekly_market_report_week_44_2026_broker_s_insi.pdf
+2026-11-03,44,indicative_price,Dry Bulk,Pakistan,485.0,475.0,2.1%,,,,,,,$485.0/ldt,485.0,,,intermodal_04_11_2026_intermodal_weekly_market_report_week_44_2026_broker_s_insi.pdf
+2026-11-03,44,indicative_price,Dry Bulk,Turkey,280.0,280.0,0.0%,,,,,,,$280.0/ldt,280.0,,,intermodal_04_11_2026_intermodal_weekly_market_report_week_44_2026_broker_s_insi.pdf
+2026-11-03,44,reported_sale,,Bangledeshi,540.0,,,OCEANIC STAR,69043,9807,1994,"IMABARI, Japan",BC,$540/Ldt,540.0,Bangledeshi,incl 200 mt bunkers ROB,intermodal_04_11_2026_intermodal_weekly_market_report_week_44_2026_broker_s_insi.pdf

@@ -1,9 +1,16 @@
 {
-  "harvested_at": "2026-10-30T21:40:29.950947+00:00",
-  "total_reports": 556,
-  "online_reports_count": 161,
+  "harvested_at": "2026-11-07T14:11:36.264273+00:00",
+  "total_reports": 557,
+  "online_reports_count": 162,
   "report_downloads_count": 395,
   "online_reports": [
+    {
+      "id": 20883,
+      "date": "2026-11-06T17:15:07",
+      "title": "Mid Term Fallout",
+      "slug": "mid-term-fallout",
+      "link": "https://www.gibsons.co.uk/report/mid-term-fallout/"
+    },
     {
       "id": 20769,
       "date": "2026-10-30T17:30:53",

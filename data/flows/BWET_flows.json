@@ -1,6 +1,6 @@
 {
   "ticker": "BWET",
-  "updated": "2026-11-01",
+  "updated": "2026-11-07",
   "data": [
     {
       "date": "2023-05-04",
@@ -12265,6 +12265,62 @@
       "flow_20d": -34009000.0,
       "regime": "BALANCED",
       "pressure": 8.9541
+    },
+    {
+      "date": "2026-11-02",
+      "usd_flow": 0.0,
+      "nav": 919.01,
+      "perf_pct": -0.0363,
+      "cumulative_flow": -16565000.0,
+      "daily_inflow": 0.0,
+      "daily_outflow": 0.0,
+      "flow_zscore": 0.3239,
+      "flow_5d": -9359000.0,
+      "flow_20d": -29607000.0,
+      "regime": "BALANCED",
+      "pressure": -1.9024
+    },
+    {
+      "date": "2026-11-03",
+      "usd_flow": -8490000.0,
+      "nav": 849.01,
+      "perf_pct": -0.0762,
+      "cumulative_flow": -25055000.0,
+      "daily_inflow": 0.0,
+      "daily_outflow": -8490000.0,
+      "flow_zscore": -0.1976,
+      "flow_5d": -22371000.0,
+      "flow_20d": -52035000.0,
+      "regime": "BALANCED",
+      "pressure": -16.9412
+    },
+    {
+      "date": "2026-11-04",
+      "usd_flow": -6977000.0,
+      "nav": 697.63,
+      "perf_pct": -0.1783,
+      "cumulative_flow": -32032000.0,
+      "daily_inflow": 0.0,
+      "daily_outflow": -6977000.0,
+      "flow_zscore": -0.2911,
+      "flow_5d": -20235000.0,
+      "flow_20d": -68501000.0,
+      "regime": "BALANCED",
+      "pressure": -21.2782
+    },
+    {
+      "date": "2026-11-05",
+      "usd_flow": -20433000.0,
+      "nav": 681.07,
+      "perf_pct": -0.0237,
+      "cumulative_flow": -52465000.0,
+      "daily_inflow": 0.0,
+      "daily_outflow": -20433000.0,
+      "flow_zscore": -1.3685,
+      "flow_5d": -40668000.0,
+      "flow_20d": -98928000.0,
+      "regime": "BALANCED",
+      "pressure": -50.2128
     }
   ]
 }

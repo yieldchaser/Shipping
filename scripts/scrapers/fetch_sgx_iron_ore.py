@@ -107,18 +107,68 @@ def generate_contract_tickers(product_code, start_year=2018, end_year=None):
     return tickers
 
 
+def fetch_product_live_quotes(product_code):
+    """Fetch same-day forward curve snapshot from SGX contract-code endpoint."""
+    url = f"https://api.sgx.com/derivatives/v1.0/contract-code/{product_code}?category=futures"
+    try:
+        r = SESSION.get(url, timeout=15)
+        if r.status_code != 200:
+            return {}
+        data = r.json().get('data') or []
+        quotes = {}
+        for entry in data:
+            sym = entry.get('symbol')
+            bd = entry.get('base-date')
+            if not sym or not bd:
+                continue
+            p = (
+                entry.get('daily-settlement-price-abs') or
+                entry.get('daily-settlement-price') or
+                entry.get('preliminary-settlement-price-adj') or
+                entry.get('preliminary-settlement-price') or
+                entry.get('last-traded-price-abs')
+            )
+            if p is None:
+                continue
+            try:
+                p_val = float(p)
+                if p_val <= 0:
+                    continue
+            except (ValueError, TypeError):
+                continue
+            v = float(entry.get('total-volume') or 0.0)
+            oi = float(entry.get('open-interest') or 0.0)
+            try:
+                d_obj = datetime.strptime(str(bd), '%Y%m%d').date()
+                d_str = d_obj.strftime('%Y-%m-%d')
+            except Exception:
+                continue
+            if sym not in quotes or (v > quotes[sym]['volume'] or oi > quotes[sym]['open_interest']):
+                quotes[sym] = {
+                    'date': d_str,
+                    'date_obj': d_obj,
+                    'price': p_val,
+                    'volume': v,
+                    'open_interest': oi,
+                }
+        return quotes
+    except Exception as e:
+        print(f"  [{product_code}] Live quote fetch error: {e}")
+        return {}
+
+
 def fetch_symbol_history(ticker, days='2200d', retries=3):
     """Fetch history from SGX derivatives API."""
     url = (
         f"https://api.sgx.com/derivatives/v1.0/history/symbol/{ticker}"
         f"?days={days}&category=futures"
-        f"&params=base-date,daily-settlement-price-abs,total-volume,open-interest"
+        f"&params=base-date,daily-settlement-price-abs,preliminary-settlement-price-adj,preliminary-settlement-price,total-volume,open-interest"
     )
     for attempt in range(1, retries + 1):
         try:
             r = SESSION.get(url, timeout=15)
             if r.status_code == 200:
-                data = r.json().get('data', [])
+                data = r.json().get('data') or []
                 rows = []
                 for item in data:
                     bd = item.get('base-date')
@@ -129,7 +179,12 @@ def fetch_symbol_history(ticker, days='2200d', retries=3):
                         d_str = d_obj.strftime('%Y-%m-%d')
                     except Exception:
                         continue
-                    p = item.get('daily-settlement-price-abs')
+                    p = (
+                        item.get('daily-settlement-price-abs') or
+                        item.get('daily-settlement-price') or
+                        item.get('preliminary-settlement-price-adj') or
+                        item.get('preliminary-settlement-price')
+                    )
                     v = item.get('total-volume')
                     oi = item.get('open-interest')
                     rows.append({
@@ -180,7 +235,31 @@ def harvest_product_history(product_code, start_year=2018, end_year=None, days='
         
         if (i + 1) % 25 == 0 or (i + 1) == len(tickers):
             print(f"  -> Processed {i + 1}/{len(tickers)} contracts ({active_contracts} active, {len(records):,} daily records accumulated)")
-            
+
+    # Ingest live forward curve snapshot to ensure current day is never missing
+    live_quotes = fetch_product_live_quotes(product_code)
+    if live_quotes:
+        ticker_meta_map = {m['ticker']: m for m in tickers}
+        existing_keys = set((r['contract'], r['date']) for r in records)
+        live_added = 0
+        for ticker, lq in live_quotes.items():
+            if (ticker, lq['date']) not in existing_keys and ticker in ticker_meta_map:
+                meta = ticker_meta_map[ticker]
+                records.append({
+                    'contract': ticker,
+                    'product': product_code,
+                    'expiry_month': meta['expiry_month'],
+                    'expiry_year': meta['year'],
+                    'date': lq['date'],
+                    'price': lq['price'],
+                    'volume': lq['volume'],
+                    'open_interest': lq['open_interest'],
+                    'expiry_date': meta['expiry_str'],
+                })
+                existing_keys.add((ticker, lq['date']))
+                live_added += 1
+        print(f"  -> Ingested {live_added} live quotes from contract-code endpoint for {product_code}")
+
     df = pd.DataFrame(records)
     if not df.empty:
         # Sort chronologically by date, then contract

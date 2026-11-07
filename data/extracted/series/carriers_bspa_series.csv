@@ -806,3 +806,11 @@ issue_date,report_week,sector,vessel_class,size_dwt,price_usd_m,sentiment_arrow,
 2026-10-26,43,Bulkers,Panamax,82500,41.869,UP,carriers_2026_W43_WK-43-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-10-26,43,Bulkers,Ultramax,63500,39.032,UP,carriers_2026_W43_WK-43-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-10-26,43,Bulkers,Handysize,38200,30.935,DOWN,carriers_2026_W43_WK-43-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-11-04,44,Tankers,Vlcc,305000,210.886,UP,carriers_04_11_2026_carriers_sales_purchase_market_report_week_44.pdf
+2026-11-04,44,Tankers,Suezmax,158000,133.414,UP,carriers_04_11_2026_carriers_sales_purchase_market_report_week_44.pdf
+2026-11-04,44,Tankers,Aframax,115000,98.533,DOWN,carriers_04_11_2026_carriers_sales_purchase_market_report_week_44.pdf
+2026-11-04,44,Tankers,Mr Product,51000,52.717,UP,carriers_04_11_2026_carriers_sales_purchase_market_report_week_44.pdf
+2026-11-04,44,Bulkers,Capesize,180000,75.064,UP,carriers_04_11_2026_carriers_sales_purchase_market_report_week_44.pdf
+2026-11-04,44,Bulkers,Panamax,82500,41.946,UP,carriers_04_11_2026_carriers_sales_purchase_market_report_week_44.pdf
+2026-11-04,44,Bulkers,Ultramax,63500,39.068,UP,carriers_04_11_2026_carriers_sales_purchase_market_report_week_44.pdf
+2026-11-04,44,Bulkers,Handysize,38200,31.063,UP,carriers_04_11_2026_carriers_sales_purchase_market_report_week_44.pdf

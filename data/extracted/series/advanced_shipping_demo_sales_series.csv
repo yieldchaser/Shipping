@@ -607,3 +607,6 @@ issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,cou
 2026-09-25,39,Maestro 1,Bulker,23994.0,5142.0,1998,507.0,Pakistan,,6,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
 2026-10-23,43,Long Hu,Bulker,73937.0,9798.0,1998,540.0,Bangladesh,,5,advanced_shipping_24_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
 2026-10-23,43,Fotex,GC,8668.0,2600.0,1997,530.0,Bangladesh,,5,advanced_shipping_24_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-30,44,Lian Yi Da 2 Hao,Bulker,24132.0,5560.0,1998,512.0,Bangladesh,,5,advanced_shipping_31_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-06,45,Oceanic Star,Bulker,69043.0,9807.0,1994,540.0,Bangladesh,Incl. 200T bunkers ROB,5,advanced_shipping_07_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-06,45,Sparrow,Bulker,24176.0,5618.0,1998,500.0,Pakistan,,5,advanced_shipping_07_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf

@@ -1604,5 +1604,13 @@
     "pages": 16,
     "md_size": 55029,
     "timestamp": "2026-10-29T14:08:40.323838"
+  },
+  "banchero_costa_05_11_2026_banchero_costa_weekly_market_report_week_44_2026": {
+    "status": "success",
+    "account": "main_active",
+    "parser": "llama",
+    "pages": 16,
+    "md_size": 76144,
+    "timestamp": "2026-11-04T23:11:14.182500"
   }
 }

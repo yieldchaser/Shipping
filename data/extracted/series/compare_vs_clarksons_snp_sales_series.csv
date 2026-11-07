@@ -5,24 +5,16 @@ old_only,2021-07-23,BULL SUMBAWA,True
 old_only,2021-08-27,SKY SINO,True
 old_only,2021-09-17,BCI,True
 old_only,2021-09-17,BDI,True
-old_only,2021-09-17,BHSI,True
 old_only,2021-09-17,BPI,True
-old_only,2021-09-17,BSI,True
 old_only,2021-10-08,BCI,True
-old_only,2021-10-08,BDI,True
-old_only,2021-10-08,BHSI,True
 old_only,2021-10-08,BPI,True
 old_only,2021-10-08,BSI,True
 old_only,2022-02-11,BCI,True
-old_only,2022-02-11,BDI,True
-old_only,2022-02-11,BHSI,True
 old_only,2022-02-11,BPI,True
 old_only,2022-02-11,BSI,True
 old_only,2022-02-25,BCI,True
 old_only,2022-02-25,BDI,True
-old_only,2022-02-25,BHSI,True
 old_only,2022-02-25,BPI,True
-old_only,2022-02-25,BSI,True
 old_only,2022-04-22,CORAL TOPAZ,False
 old_only,2022-04-22,CORONA,False
 old_only,2022-04-22,DOLCE VITA,False
@@ -32,7 +24,6 @@ old_only,2022-04-22,TORM GYDA,False
 old_only,2022-05-13,"HL RICHARDS BAY""",True
 old_only,2022-06-10,BCI,True
 old_only,2022-06-10,BDI,True
-old_only,2022-06-10,BHSI,True
 old_only,2022-06-10,BPI,True
 old_only,2022-06-10,BSI,True
 old_only,2022-06-17,HIKARI,True
@@ -68,13 +59,11 @@ old_only,2023-01-09,KIRISHIMA SKY,False
 old_only,2023-01-09,SYRA,False
 old_only,2023-02-10,BCI,True
 old_only,2023-02-10,BDI,True
-old_only,2023-02-10,BHSI,True
 old_only,2023-02-10,BPI,True
 old_only,2023-02-10,BSI,True
 old_only,2023-03-17,CV VASI STAR,True
 old_only,2023-03-24,BCI,True
 old_only,2023-03-24,BDI,True
-old_only,2023-03-24,BHSI,True
 old_only,2023-03-24,BPI,True
 old_only,2023-03-24,BSI,True
 old_only,2023-04-11,BLACK FOREST,False
@@ -127,7 +116,6 @@ old_only,2023-10-06,MSC JAMSINE,True
 old_only,2023-10-13,MINERAL SHOU GANG INTERNATIONAL,True
 old_only,2023-11-17,BCI,True
 old_only,2023-11-17,BDI,True
-old_only,2023-11-17,BHSI,True
 old_only,2023-11-17,BPI,True
 old_only,2023-11-17,BSI,True
 old_only,2023-12-15,CV SILK,True
@@ -136,7 +124,6 @@ old_only,2024-01-12,CV MSC UMA,True
 old_only,2024-01-26,XIN XIANG AN,True
 old_only,2024-02-16,BCI,True
 old_only,2024-02-16,BDI,True
-old_only,2024-02-16,BHSI,True
 old_only,2024-02-16,BONTRUMP EMIRATES,True
 old_only,2024-02-16,BPI,True
 old_only,2024-02-16,BSI,True
@@ -410,3 +397,5 @@ new_only,2026-10-30,BAHAMAS L,False
 new_only,2026-10-30,CAPE ALLIANCE,False
 new_only,2026-10-30,CETUS TIGER,False
 new_only,2026-10-30,CHARADE,False
+new_only,2026-11-06,HAIMA,False
+new_only,2026-11-06,MIAO ZHOU,False

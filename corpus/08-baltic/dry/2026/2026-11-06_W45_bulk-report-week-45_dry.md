@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 45"
+date: "2026-11-06"
+display_date: "06 November 2026"
+year: 2026
+week: 45
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2026/bulk-report-week-45.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 899
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2026/2026-11-06_W45_bulk-report-week-45_dry.html"
+---
+
+# Bulk Report – Week 45
+
+**Date:** 06 November 2026  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2026/bulk-report-week-45.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2026/bulk-report-week-45.html)  
+
+---
+
+### Capesize
+
+The Capesize market experienced a mixed but ultimately firmer week, with an initial period of weakness giving way to improved sentiment and firmer conditions, although momentum remained uneven across the basins. The Pacific was the main source of pressure early on, with C5 falling from $13.80 to the low $13.00s as two miners remained active but consistently tested lower levels. Despite a midweek recovery in sentiment, activity remained selective, with Friday's miner business concluded at $13.25, leaving the route below Monday's opening levels. The South Brazil and West Africa to China markets saw a more pronounced turnaround, recovering from a lack of demand and bids in the early part of the week to a notably active Wednesday when more than 15 C3 fixtures were reported, pushing rates towards $37.00. However, the subsequent slowdown and lower fixtures on Thursday suggested owners were becoming more cautious. The North Atlantic remained the relative outperformer, with stronger transatlantic business lifting the C8 index to $41,000 by Friday, and fresh enquiry emerging across both TA and FH routes. Lower bunker prices also provided some support to TCE earnings towards the latter part of the week. Overall, the market finished the week on a firmer footing, with the BCI 182 opening at $35,944, dipping on Tuesday before recovering steadily to close at $39,395.
+
+### Panamax-Kamsarmax
+
+The market began the week on a subdued note before gathering momentum as improving demand and tightening tonnage availability supported firmer sentiment across both basins. In the Atlantic, transatlantic and fronthaul enquiry gradually increased, with rates strengthening as tonnage availability tightened, particularly off the West Mediterranean. However, the North Continent remained comparatively well supplied, limiting broader gains. An 82,000-dwt fixed a transatlantic trip at just below $30,000 basis delivery EC South America, while US Gulf fronthaul business was reported at $24,000 basis North Continent delivery and an EC South America fronthaul fixed at $18,750 basis delivery West Coast India. The Pacific also gained ground, supported primarily by healthy Australian mineral demand, with an 82,000-dwt fixing at $22,000 to South China, a 90,000-dwt fixing at $24,000 to Japan, and an 81,000-dwt fixing at $20,500. Indonesian activity remained steady, with a 76,000-dwt fixing at $17,000 for a trip to South China. North Pacific conditions showed signs of stabilising, although increasing tonnage availability tempered optimism, with an 82,000-dwt fixing at $19,750 for a round trip to Japan. Period activity remained limited, with an 83,000-dwt reportedly fixing for 11–13 months at around $19,500.
+
+### Ultramax/Supramax
+
+A subdued week with a few holidays and Eisbein this week saw rates under pressure. North America managed to turn the tide and rates began to recover with two 63,000-dwt vessels reported for petcoke to India at $34,000 and $34,500, and a 52,000-dwt achieving $28,000 from Port Arthur to Iskenderun with petcoke, having seen a 63,000-dwt fixed for grains to China at a disappointing $27,000 via Cape of Good Hope earlier in the week. Continent activity was greatly reduced compared to previous weeks, although a 60,000-dwt still agreed a strong $36,000 basis delivery Tilbury for scrap to the East Mediterranean, and the Mediterranean was also slow albeit with relatively low tonnage availability. The south Atlantic appeared devoid of early stems, although demand for end November/early December looked healthier. After supporting the market for weeks, Asia also saw increased tonnage with NoPac grains slowing and backhaul trades unable to support the market any longer, with a 63,000-dwt fixed from North China to West Africa with steels/generals at $26,000, whilst Southeast Asia saw tonnage from India/Chittagong increasingly competing and pushing rates lower. The Indian Ocean was hit hardest as it was bereft of fresh enquiry, with rates under severe pressure, with a 57,000-dwt fixed from Richards Bay to Pakistan with coal at $21,500 plus $215,000 ballast bonus. There was very little period chat, however a 61,000-dwt open West Coast India for mid-November was rumoured fixed for one year in the $18,000s.
+
+### Handysize
+
+The market remained generally quiet over the week, with limited fixing information and mixed regional sentiment. The Continent and Mediterranean gained support from fresh activity and tightening tonnage. A 36,000-dwt vessel open Constanza on 2–5 November was fixed for a trip via the Black Sea to Poland with urea at $12,250. The US Gulf also showed signs of strengthening as improving cargo flows and a shortage of prompt tonnage supported sentiment. A 39,000-dwt vessel open Wilmington was fixed for delivery Savannah in mid-November for a trip to the Continent with pellets at $21,000. By contrast, the South Atlantic remained soft throughout the week, with limited fresh demand keeping rates under pressure and prompting both owners and charterers to lower their expectations. A 28,000-dwt vessel open Tema on 1–7 November was fixed for a trip via Recalada to Algeria with grains at $14,000. In Asia, activity remained muted and rates were broadly flat, with little clear direction. A 35,000-dwt vessel open Thailand was placed on subjects for a trip to Japan in the $18,000s.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

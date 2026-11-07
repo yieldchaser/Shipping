@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2951,
-      "untracked_bytes": 2297446628
+      "untracked_files": 2960,
+      "untracked_bytes": 2297460700
     },
     {
       "path": "corpus/02-hellenic",
@@ -7003,6 +7003,11 @@
       "sha256": "53c796aec96a41b1c644b0ab121ff2dc8f16c04e368e2d52b6aac23116aa3655"
     },
     {
+      "path": "corpus/01-brokers/fearnleys/voice/aframax/2026/2026-11-04_aframax_9668e78c.md",
+      "bytes": 1612,
+      "sha256": "32c87fb9ef6e04837f6aee4d203c29fbc5373436e6df004ac784e9de05a94ecb"
+    },
+    {
       "path": "corpus/01-brokers/fearnleys/voice/capesize/2026/2026-10-07_capesize_a7d21452.md",
       "bytes": 1805,
       "sha256": "aeaaf648c666f879fd095177f4982f4a4180521a0f6540ed8d7a47652e5e18a0"
@@ -7021,6 +7026,11 @@
       "path": "corpus/01-brokers/fearnleys/voice/capesize/2026/2026-10-28_capesize_bfecc53e.md",
       "bytes": 1652,
       "sha256": "d8c3bcf9f022e9017040b03f9ff912434e8892808b3b95a4b844f545a1680688"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys/voice/capesize/2026/2026-11-04_capesize_fb442653.md",
+      "bytes": 1643,
+      "sha256": "6be28cf79a3ede74a2c108292fa240ed08ecef63a9a3a43e9cd5e0b5536ce022"
     },
     {
       "path": "corpus/01-brokers/fearnleys/voice/chartering/2026/2026-10-07_chartering_25575d2a.md",
@@ -7043,6 +7053,11 @@
       "sha256": "7436fe47f90b62d62404aa9f62a8c104641057919c9244e2e748c86a0c3b5405"
     },
     {
+      "path": "corpus/01-brokers/fearnleys/voice/chartering/2026/2026-11-04_chartering_c02cc6cd.md",
+      "bytes": 1541,
+      "sha256": "09df3ac216a271eba29d96d5f4032c308ee4e74e4410ba7ca59ea3560f5e9706"
+    },
+    {
       "path": "corpus/01-brokers/fearnleys/voice/lng/2026/2026-10-07_lng_c95e1439.md",
       "bytes": 2680,
       "sha256": "918f2aee1427bf2ff48f748c288d0dc0c0bbabdf00ecf5beaa20a2c8813ea5be"
@@ -7061,6 +7076,11 @@
       "path": "corpus/01-brokers/fearnleys/voice/lng/2026/2026-10-28_lng_2633a1ee.md",
       "bytes": 2236,
       "sha256": "fb0ea983bf8e65b01b978cb14b94ad9d777b1f6ac1b5eeb66470af60a45ca406"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys/voice/lng/2026/2026-11-04_lng_27804c16.md",
+      "bytes": 1977,
+      "sha256": "485b4031857961aa42934ce2628f9e0ab9004a743a53d15e8f2f5c2741503451"
     },
     {
       "path": "corpus/01-brokers/fearnleys/voice/panamax/2026/2026-10-07_panamax_3c5c4b74.md",
@@ -7083,6 +7103,11 @@
       "sha256": "26bac0611a3cb4a1cb3bc08100ccd56e2325e15d2b553382de96eb032089f6a4"
     },
     {
+      "path": "corpus/01-brokers/fearnleys/voice/panamax/2026/2026-11-04_panamax_2c7f4747.md",
+      "bytes": 1325,
+      "sha256": "e0c923e4b772c682de245a9dbc6090ea5a8e6ce0847451cd427faa08e0ed8a70"
+    },
+    {
       "path": "corpus/01-brokers/fearnleys/voice/snp/2026/2026-10-16_snp_8435d822.md",
       "bytes": 1918,
       "sha256": "f9a99744d6ac3a35c03b087793b403d3fd09b72c54777a52d3682eea328897c0"
@@ -7091,6 +7116,11 @@
       "path": "corpus/01-brokers/fearnleys/voice/snp/2026/2026-10-23_snp_755e08e2.md",
       "bytes": 2105,
       "sha256": "ddc7e36ffeba41ec845646433372f68137e7ba74111679c1fb85790d2c6cb289"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys/voice/snp/2026/2026-10-30_snp_845ebb14.md",
+      "bytes": 1711,
+      "sha256": "554bcfae217af49e4efd4783d3308ad945f3c1652537954517aa39eca1013db1"
     },
     {
       "path": "corpus/01-brokers/fearnleys/voice/suezmax/2026/2026-10-07_suezmax_90cee00b.md",
@@ -7113,6 +7143,11 @@
       "sha256": "b18322dd210512fb11107f25d5fe509c398afb2a66d1fbb94b4a1c8f4f606835"
     },
     {
+      "path": "corpus/01-brokers/fearnleys/voice/suezmax/2026/2026-11-04_suezmax_15690250.md",
+      "bytes": 1471,
+      "sha256": "2ead693f6d43c7a8d8a72e698bddb4a95f641940f337196b92af5b8658431597"
+    },
+    {
       "path": "corpus/01-brokers/fearnleys/voice/supramax/2026/2026-10-07_supramax_3b64a519.md",
       "bytes": 1250,
       "sha256": "38a97c50a9269d585eb6a76a72e6bf296ac6b4daa6a9f5e9155a17f14d824f05"
@@ -7133,6 +7168,11 @@
       "sha256": "847d8170cca97a92ac766a24496e0e9669fc168573ced0a43f633580d39e6494"
     },
     {
+      "path": "corpus/01-brokers/fearnleys/voice/supramax/2026/2026-11-04_supramax_27da43f7.md",
+      "bytes": 1185,
+      "sha256": "16a42bb45e5ab03080fcab10ef8ea1293a9f4f94601a6262fafaaf220c47d644"
+    },
+    {
       "path": "corpus/01-brokers/fearnleys/voice/vlcc/2026/2026-10-07_vlcc_b1f018bd.md",
       "bytes": 1452,
       "sha256": "9c4f58988470eda15867f2a463a7a91df5887334685c95e38ec05df64fba0fa0"
@@ -7151,6 +7191,11 @@
       "path": "corpus/01-brokers/fearnleys/voice/vlcc/2026/2026-10-28_vlcc_20db6957.md",
       "bytes": 1628,
       "sha256": "4a70a834927fe1265b89b353ce715db66c069830c2bf13740401d00a278a736f"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys/voice/vlcc/2026/2026-11-04_vlcc_857c5b30.md",
+      "bytes": 1607,
+      "sha256": "99509a68436870f6129221b7b9666250af351e1092e54d0bfeac475e1a3ca013"
     },
     {
       "path": "corpus/01-brokers/gibson/2021/gibson_2021_2021-02-07-Oil-production-its-a-game-of-two-halves.pdf",
