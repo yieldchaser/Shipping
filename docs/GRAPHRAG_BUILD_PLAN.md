@@ -60,7 +60,7 @@ filing_date, accession_number, source, source_file`.
 
 | # | Check | Command / source | State 2026-11-08 |
 |---|---|---|---|
-| R1 | Knowledge validator PASS | `python scripts/validate_knowledge.py` (run alone, ~30 min) | PASS on this branch (last run before this plan) |
+| R1 | Knowledge validator PASS | `python scripts/validate_knowledge.py` (run alone, ~30 min) | **PASS 2026-11-08** on this branch (content-gate failures 0) |
 | R2 | No open **Blocker** in `docs/PRE_GRAPHRAG_OPEN_ITEMS.md` | ledger | **PASS 2026-11-08**: no open Blocker; the CI-ingest regression blocker closed 2026-11-01 (re-ingest proof for every publisher) |
 | R3 | Every MD has `source_file` that exists and `source_sha256` matching the PDF | P0 script `kb/p0_inventory.py` | **PASS 2026-11-08**: 20,687 MDs, 0 failing (2026-11-02: 20,630); 1,066 carry `source_sha256`, all match. PDFs are gitignored, so sources are looked up in the main checkout too; API records (Fearnleys voice/app) pass on their record id |
 | R4 | Every MD has a parseable publication date | same | **PASS 2026-11-08**, 0 failing (59 Agora issues dated from the PDF creation date, `issue_date_basis`) |
