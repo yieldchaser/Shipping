@@ -29,7 +29,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 
 ---
 
-## 2. Master Stacked Series Inventory (709,027 Total Rows across 166 CSVs + 1 Master Workbook)
+## 2. Master Stacked Series Inventory (709,003 Total Rows across 166 CSVs + 1 Master Workbook)
 
 | Series CSV | Target Metric / Commodity / Segment | Total Stacked Rows | Status |
 | :--- | :--- | :---: | :---: |
@@ -46,7 +46,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [athenian_indicative_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/athenian_indicative_demolition_series.csv) |  | 3,100 | Verified |
 | [athenian_market_commentary_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/athenian_market_commentary_series.csv) |  | 6 | Verified |
 | [athenian_yearly_demolition_volume_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/athenian_yearly_demolition_volume_series.csv) |  | 4,122 | Verified |
-| [baltic_ncfi_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/baltic_ncfi_series.csv) |  | 2,057 | Verified |
+| [baltic_ncfi_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/baltic_ncfi_series.csv) |  | 2,052 | Verified |
 | [baltic_reports_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/baltic_reports_metadata.csv) |  | 2,254 | Verified |
 | [bancosta_commodities_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/bancosta_commodities_series.csv) | Energy, metals, agricultural benchmarks | 8,627 | Verified |
 | [bancosta_container_fixtures_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/bancosta_container_fixtures_series.csv) | Containership reported charter fixtures ($/day) | 946 | Verified |
@@ -197,11 +197,11 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [xclusiv_macro_bunkers_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_macro_bunkers_series.csv) | Macro commodity prices & bunker spreads ($/t) | 1,072 | Verified |
 | [xclusiv_newbuilding_orders_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_newbuilding_orders_series.csv) | Newbuilding reported contracts & orders | 1,363 | Verified |
 | [xclusiv_newbuilding_prices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_newbuilding_prices_series.csv) | Indicative newbuilding prices ($M) | 2,412 | Verified |
-| [xclusiv_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_sales_series.csv) | Secondhand sales transactions ($M) | 5,793 | Verified |
+| [xclusiv_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_sales_series.csv) | Secondhand sales transactions ($M) | 5,774 | Verified |
 | [xclusiv_secondhand_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_secondhand_series.csv) | Dry bulk & tanker secondhand price matrix ($M) | 8,700 | Verified |
 | [corpus_publication_cadence_and_audit.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/corpus_publication_cadence_and_audit.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [gibson_master_tanker_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_master_tanker_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
-| **TOTAL** | **Master Stacked Repository Footprint (166 CSVs + 1 Master Workbook)** | **709,027** | **100.0% Pass** |
+| **TOTAL** | **Master Stacked Repository Footprint (166 CSVs + 1 Master Workbook)** | **709,003** | **100.0% Pass** |
 
 ---
 

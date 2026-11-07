@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 14:37:13Z",
+  "updated_at": "2026-11-07 20:49:15Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -894,7 +894,7 @@
     {
       "file": "baltic_ncfi_series.csv",
       "target_metric": "Ningbo Containerised Freight Index (NCFI) weekly route benchmark index values and WoW changes",
-      "rows": 2057,
+      "rows": 2052,
       "columns": [
         "issue_date",
         "year",
@@ -3909,7 +3909,7 @@
     {
       "file": "xclusiv_sales_series.csv",
       "target_metric": "Secondhand sales transactions ()",
-      "rows": 5793,
+      "rows": 5774,
       "columns": [
         "issue_date",
         "report_week",
@@ -3945,13 +3945,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 708722,
+  "total_master_stacked_rows": 708698,
   "total_master_series_csvs": 166,
-  "total_stacked_rows": 708722,
+  "total_stacked_rows": 708698,
   "total_series_csvs": 166,
   "total_master_workbooks": 1,
   "total_series_count": 166,
-  "total_rows_extracted": 709027,
+  "total_rows_extracted": 709003,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 611,
     "advanced_shipping_demolition_series.csv": 2048,
@@ -3966,7 +3966,7 @@
     "athenian_indicative_demolition_series.csv": 3100,
     "athenian_market_commentary_series.csv": 6,
     "athenian_yearly_demolition_volume_series.csv": 4122,
-    "baltic_ncfi_series.csv": 2057,
+    "baltic_ncfi_series.csv": 2052,
     "baltic_reports_metadata.csv": 2254,
     "bancosta_commodities_series.csv": 8627,
     "bancosta_container_fixtures_series.csv": 946,
@@ -4117,7 +4117,7 @@
     "xclusiv_macro_bunkers_series.csv": 1072,
     "xclusiv_newbuilding_orders_series.csv": 1363,
     "xclusiv_newbuilding_prices_series.csv": 2412,
-    "xclusiv_sales_series.csv": 5793,
+    "xclusiv_sales_series.csv": 5774,
     "xclusiv_secondhand_series.csv": 8700
   }
 }
