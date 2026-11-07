@@ -32,8 +32,8 @@
     },
     {
       "path": "corpus/07-signal",
-      "untracked_files": 332,
-      "untracked_bytes": 178956715
+      "untracked_files": 298,
+      "untracked_bytes": 174706385
     },
     {
       "path": "corpus/09-ppa",
@@ -42048,16 +42048,6 @@
       "sha256": "cfb74c938d015edb12df749489317f64447354fc874abe5b10dbd3e604116a9e"
     },
     {
-      "path": "corpus/07-signal/html/market-insights-iron-ore-spotlight.html",
-      "bytes": 235192,
-      "sha256": "8a309f913080c0a371f763b857a91f6b1c2cc88164862c6a565506b2350f0d34"
-    },
-    {
-      "path": "corpus/07-signal/html/weekly-dry-market-monitor-week-44-2026.html",
-      "bytes": 234344,
-      "sha256": "d17577d315c4e7974aa2045cb1ad39032789ef2385d3169ba44cf8aa8557650e"
-    },
-    {
       "path": "corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png",
       "bytes": 298514,
       "sha256": "11bbc769a2164d34cbb31e7e4795412aeb91dc285fb7ee3376aa33bacc388c3b"
@@ -43546,166 +43536,6 @@
       "path": "corpus/07-signal/images/6aab9b1af1afff7802ecc95b_Weeklies (Tanker & Dry).png",
       "bytes": 1548138,
       "sha256": "85b4a55553187dc53bebf16853fd14f226ba445c55f28d3b698e48b7abf032de"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae99b3289cac6b14a2768df_e2875977.png",
-      "bytes": 245051,
-      "sha256": "704bebd5736f0b12c2b842584d2bde66bb577106bdd7cc6c6526ff304c4b4a72"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae99b7b6ffb3e8ad63013f0_8d9796f5.png",
-      "bytes": 59446,
-      "sha256": "8af94af8d8641bcc4ca4578c267b21e22307227e73488a5e81f208b51323a320"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae99bc895f47452ef6940df_07325d7c.png",
-      "bytes": 36596,
-      "sha256": "a30d15843e52376518e96bd4b64e1b9655f3804f602c52d1ce6ed6cf472cd8a1"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae99c7b0e8d38f57ee425b6_9e580527.png",
-      "bytes": 151142,
-      "sha256": "536159731d4255cb91e8e07b37368adf4b9583d75268a1d520f8d0eba32cadfd"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae99cac03d0a51107a2348c_970de7bc.png",
-      "bytes": 192395,
-      "sha256": "59edb8efb25fd3b8918d7a2d45f5a0a4b5d02e5fbb5d8013efc60b0f25a64ca4"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae99cd1191b1388171b3db2_60063bf9.png",
-      "bytes": 80275,
-      "sha256": "e9655d2a51177c6b50e5ed681d35c38a41b10c362dc783aa9f4407c9ce7271c6"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae99edc86cb06d5fe8c4481_e4f3ca72.png",
-      "bytes": 118945,
-      "sha256": "22da45536a97469549022206fc3da2545f7225bb760fdca472a82c3281126279"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae99f03cad4361360d2858c_be63b7fa.png",
-      "bytes": 80783,
-      "sha256": "dc6013b5dd2649c282fea88ff8a88496e1576aa313790535aa67c5429a3b4e8e"
-    },
-    {
-      "path": "corpus/07-signal/images/6aec48669dc65a9300adc582_e889722c.png",
-      "bytes": 37706,
-      "sha256": "12b9962eeeafdbf59cec5fbce585bc03a541eb740f3d80e07e15e7917a5e0c48"
-    },
-    {
-      "path": "corpus/07-signal/images/6aec48967f7d814441914953_1dddfd01.png",
-      "bytes": 351746,
-      "sha256": "58000899809fe79d36d23e9f25ab5d468c17157747d506b1f6d6ee07ebde370d"
-    },
-    {
-      "path": "corpus/07-signal/images/6aec48d624b79cc4ee5b306b_69eb2e67.png",
-      "bytes": 110387,
-      "sha256": "6fed98ef01dd5dd146c2771f1937595bcf75be19f7f8d0f23578a1ee1193c852"
-    },
-    {
-      "path": "corpus/07-signal/images/6aec491a28ea5fd000b46c42_732eaf7f.png",
-      "bytes": 31174,
-      "sha256": "8f809d962eba4f325da3bbb3bb92307d733cdaf80cfcd11631b675bf6aae4fc7"
-    },
-    {
-      "path": "corpus/07-signal/images/6aec494ef2609e8b655a47ca_a643db17.png",
-      "bytes": 39473,
-      "sha256": "c18f8efa831fed21d1329a105713ad14953137d7b5439c44f575699cf88ab00f"
-    },
-    {
-      "path": "corpus/07-signal/images/6aec4968213df78a144ce9e6_07469860.png",
-      "bytes": 54466,
-      "sha256": "c508b0289f16e6bc03a1d9bc28204cf0e4ebb45f9a4d4356866a8d0e34e72baa"
-    },
-    {
-      "path": "corpus/07-signal/images/6aec49992b82939fb5563d54_d24e64a7.png",
-      "bytes": 48869,
-      "sha256": "c442e11c7e64bc5f1e49e4566aee807f6e50b2ab5b41cbda82b156db7d0beb6d"
-    },
-    {
-      "path": "corpus/07-signal/images/6aec49d996675eaf1dd6fdea_b2d682ba.png",
-      "bytes": 77186,
-      "sha256": "c4df86ccd7994f280ecc71404d8107004a5187c19d4033d104bb2bbf2171d189"
-    },
-    {
-      "path": "corpus/07-signal/images/6aec49f5e5c87092c40cdddb_3443d0d4.png",
-      "bytes": 187277,
-      "sha256": "c0c0da3d2457cc384688621a7d21b417619a7800070ea533d5bf4ed787df278c"
-    },
-    {
-      "path": "corpus/07-signal/images/6aec4a0c5896a8c2c84b4daf_db58f4cb.png",
-      "bytes": 75783,
-      "sha256": "627abc64ad714911bcfe00e44775f94bfc380c239b15540617cec2da522bae6c"
-    },
-    {
-      "path": "corpus/07-signal/images/6aec4a2528ea5fd000b4df21_9ae0325d.png",
-      "bytes": 197179,
-      "sha256": "2f221011a67c4ac9dce3f05564b9323d728d9d9bfff05c49f389ecbfb3c2bf55"
-    },
-    {
-      "path": "corpus/07-signal/images/6aec4a56f9b56966fe125000_bcb2519c.png",
-      "bytes": 62054,
-      "sha256": "608956a3f77a00a9b8893512e4419ab58198e3ce9187ae9670ff1eac44d22cb7"
-    },
-    {
-      "path": "corpus/07-signal/images/6aec4a6265c5f03733fee2ca_9efc375f.png",
-      "bytes": 192293,
-      "sha256": "1f8c5f656abad14b8d0def96633d1ee69ada51dd644d2d43cd136a02447f12c0"
-    },
-    {
-      "path": "corpus/07-signal/images/6aec4a7ba63600b1ca9f2269_1d4f0f98.png",
-      "bytes": 148818,
-      "sha256": "3f4016946914d771104827bdd20cd9fc3d8fe7f884d9801504ea4d513ae66b60"
-    },
-    {
-      "path": "corpus/07-signal/images/6aec4a9565c5f03733fefa2a_91cf5316.png",
-      "bytes": 178517,
-      "sha256": "83ebb5d55208d60bda45a33a279660ec99aa38d8300a7154ab04fb9f62e7f7cd"
-    },
-    {
-      "path": "corpus/07-signal/images/6aec4ab8efa101c6a9d42d90_953fe207.png",
-      "bytes": 89093,
-      "sha256": "66affe05732088d8521bcf31bab9b2cf5017801bbdb69b475bad5dcc928b207f"
-    },
-    {
-      "path": "corpus/07-signal/images/6aec4acefaf3181ba29df8d7_f2d92e95.png",
-      "bytes": 194054,
-      "sha256": "b0bf6efa67498b02de539d5cc4814329f96c8456d86b527b7af4e66181d6bc80"
-    },
-    {
-      "path": "corpus/07-signal/images/6aec4adb739a22e10a90eb65_db0072b7.png",
-      "bytes": 137756,
-      "sha256": "d6950b771a23d2d399d903e3b6fdf5852fdc4b00fb4aecb396238bfcc0b3f569"
-    },
-    {
-      "path": "corpus/07-signal/images/6aec4af7d6831a328e7bfae2_119aeac7.png",
-      "bytes": 169336,
-      "sha256": "8f7a38f9ea62c50d41d7a3f7bd85f382d4cb910d8aaea0ba6594f4d7a706506c"
-    },
-    {
-      "path": "corpus/07-signal/images/6aec4b162c31a02c44dbc0af_5f475a79.png",
-      "bytes": 57138,
-      "sha256": "0f70612758a6f6e10db97f3d3d0a4636445a04d72a73a9b22e4dcf14c9d37e13"
-    },
-    {
-      "path": "corpus/07-signal/images/6aec4b336855a64d9e68cc8c_2b5505f7.png",
-      "bytes": 192982,
-      "sha256": "e1e09ec019e6cae5e17b99b589711b6f8768e27c8b5d410a8d663e611bf86d8b"
-    },
-    {
-      "path": "corpus/07-signal/images/6aec4b336855a64d9e68cc8f_0a672926.png",
-      "bytes": 145971,
-      "sha256": "d0ca5f0842d8550f46437ee819960b21cb9d62b4e547b8f9694fe75a2bfc7c33"
-    },
-    {
-      "path": "corpus/07-signal/monitors/2026/weekly-dry-market-monitor-week-44-2026.md",
-      "bytes": 21953,
-      "sha256": "46bbf101f62488b6d978ba0d85356b874cc389bcf4d0d722fa3184075add5403"
-    },
-    {
-      "path": "corpus/07-signal/newsroom/2026/market-insights-iron-ore-spotlight.md",
-      "bytes": 14950,
-      "sha256": "cfe5c1efd00096198a2f8223e5f63c7a01d760db2c23d5f7155731914efa26eb"
     },
     {
       "path": "corpus/09-ppa/_root_pdfs/dampier_2026_june.pdf",
