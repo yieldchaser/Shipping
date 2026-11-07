@@ -1,7 +1,7 @@
 """
 tests/test_benchmark_fleet.py
 =============================
-Validates the curated 800-Hull Macro Benchmark Core Fleet:
+Validates the curated (now 5,000-hull) Macro Benchmark Core Fleet:
 - Sector sizing: 250 Dry Bulk, 250 Tankers, 150 LNG, 150 LPG
 - 100% unique IMOs across all sectors
 - Strict adherence to Baltic index class and deadweight criteria
@@ -25,14 +25,15 @@ def benchmark_catalog():
 
 def test_benchmark_total_count_and_sectors(benchmark_catalog):
     meta = benchmark_catalog.get("metadata", {})
-    assert meta.get("total_hulls") == 800
-
+    # The catalogue was expanded from 800 to 5,000 hulls on 2026-09-20 (283f41de19); sizes are checked against the
+    # catalogue's own declared counts so a later expansion cannot silently drift from its metadata.
     sectors = benchmark_catalog.get("sectors", {})
     assert set(sectors.keys()) == {"dry_bulk", "tankers", "lng", "lpg"}
-    assert len(sectors["dry_bulk"]) == 250
-    assert len(sectors["tankers"]) == 250
-    assert len(sectors["lng"]) == 150
-    assert len(sectors["lpg"]) == 150
+    declared = meta.get("sectors", {})
+    for name, hulls in sectors.items():
+        assert len(hulls) == declared[name]["count"], name
+        assert sum(declared[name]["subclasses"].values()) == declared[name]["count"], name
+    assert meta.get("total_hulls") == sum(len(h) for h in sectors.values()) >= 800
 
 
 def test_benchmark_imo_uniqueness(benchmark_catalog):

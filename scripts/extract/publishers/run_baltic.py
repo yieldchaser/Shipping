@@ -426,6 +426,11 @@ def process_single_baltic_report(html_path):
                     val_curr = parse_float(cells[1])
                     val_prev = parse_float(cells[2])
                     change_pct = parse_float(cells[3])
+                    # 2023-05-26 Middle East: the page prints '961.210.28' in the previous-week cell and leaves the
+                    # change cell empty (previous 961.21 = the 05-19 current; 963.86/961.21 = +0.28%)
+                    glued = re.fullmatch(r'(-?\d+\.\d{2})(-?\d+\.\d{2})', cells[2].replace(' ', ''))
+                    if val_prev is None and change_pct is None and glued:
+                        val_prev, change_pct = float(glued.group(1)), float(glued.group(2))
 
                     parsed_rows.append({
                         'route': route_clean,
@@ -738,7 +743,8 @@ def run_baltic_pipeline():
     _deduped = []
     _dropped = 0
     for _r in combined_ncfi:
-        _k = (str(_r.get('issue_date', '')), str(_r.get('year', '')), str(_r.get('week', '')), str(_r.get('route', '')),
+        # year is not in the key: the 2021-01-01 page is archived twice (2020/ and 2021/), labelled year 2020 and 2021
+        _k = (str(_r.get('issue_date', '')), str(_r.get('week', '')), str(_r.get('route', '')),
               str(_r.get('index_current', '')), str(_r.get('index_prev', '')), str(_r.get('weekly_change_pct', '')))
         if _k not in _pos:
             _pos[_k] = len(_deduped)

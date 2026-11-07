@@ -534,3 +534,49 @@ on `intermodal_macro_series.csv` and found a defect neither had captured:
   key on its next pass; no reader consumes it today.
 * Register Intermodal row re-measured and corrected (16 counts, total **62,510** rows).
 * Evidence: `docs/intermodal_macro_verdict.md` (ADDENDUM 2026-10-03).
+
+
+---
+
+# CLOSED 2026-11-08 - xclusiv_sales_series: split hull rows, merged price cells, the 1 BN en bloc
+
+Found by sampling rows against the page renders. Before/after was diffed on all 278 Xclusiv PDFs
+(old vs new extractor, nothing written); the repair was then spliced into the stored artefacts
+(no whole-file regeneration; `main --file` rewrites the whole series and was not used).
+
+* **Wrapped vessel names split one sale into two rows.** Examples: a resale hull printed as
+  "ZHOUSHAN CHANGHONG" / "CHB3026", or "STRANGE AT-" / "TRACTOR". The first row carried
+  name and buyer; the second carried price and no DWT/year/yard. Fix in `extract_sales_tables`: a
+  line within 9.5 pt of a DWT/YEAR anchor joins that row, but only when the row's NAME wraps
+  (a broader merge was tried first; it swapped prices between sister ships and was narrowed).
+  16 issues affected; 38 broken series rows became 19 whole sales.
+* **Price cells merged over two rows** ("244" / "ENBLOC", "32.5" / "EACH") now give both rows
+  the whole cell, so en bloc and each prices propagate; 43 of 278 PDFs changed. Example: SEEB +
+  SAMAIL 2026-10-05 "160 ENBLOC" (was 80 on one row).
+* **"2015 Units: 120 each"** (2026-08-03 DELTA VLCCs) parsed as 2015 / 2012 mills. Now 120 / 116.
+* **2024-08-26 Bahri en bloc.** The nine Capital VLCCs, AMYNTAS -> APOLLONAS, sit under one
+  merged cell: buyer "BAHRI", price "1 BN ENBLOC". The series had 1.0 on two rows and blank on
+  seven, with comments shifted one row because each comment is printed centred on its row. Now
+  all nine read BAHRI / 1000.0. `parse_price_mill` reads BN as x1000. 2024-08-26 and 2024-09-02
+  comments, yards and "SS:" price bleed were corrected for 29 rows, transcribed from the 130-170
+  dpi renders. Every token was machine-checked as printed in the PDF text.
+* Verification: all 61 new/changed series rows have every name word, DWT, year and price number
+  present in the source PDF text (0 misses). Series 5,793 -> 5,774 rows; 15 MDs and their
+  sidecars spliced.
+* **Residual (disclosed, text only):** about 30 COMMENTS cells in other issues still carry a
+  wrapped comment's second half on the row below (e.g. "TC AT-" / next row). No number, price or
+  vessel field is affected. A generic fix needs nearest-row assignment for comment lines, which
+  changes the established behaviour on every page; not done in this pass.
+
+
+---
+
+# CLOSED 2026-11-08 - baltic_ncfi_series: one glued cell, one page archived twice
+
+* 2023-05-26 Ningbo - Middle East: the page prints `961.210.28` in the previous-week cell and leaves the change
+  cell empty, so the row had no previous / change and was stored twice. `run_baltic.py` now splits a cell of two
+  glued 2-decimal numbers when the change cell is empty: 961.21 (the 2023-05-19 current) and +0.28
+  (963.86 / 961.21 = +0.276%). Sidecar updated.
+* 2021-01-01: the same issue page sits in `ningbo/2020/` and `ningbo/2021/`, labelled year 2020 and 2021, so its
+  four routes were doubled. The upsert dedup key no longer includes `year`; the dated file's rows are kept.
+* 2,057 -> 2,052 rows; no duplicate (issue_date, route) key remains.
