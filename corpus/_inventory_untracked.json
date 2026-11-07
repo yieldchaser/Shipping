@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2960,
-      "untracked_bytes": 2297460700
+      "untracked_files": 2961,
+      "untracked_bytes": 2297462316
     },
     {
       "path": "corpus/02-hellenic",
@@ -7121,6 +7121,11 @@
       "path": "corpus/01-brokers/fearnleys/voice/snp/2026/2026-10-30_snp_845ebb14.md",
       "bytes": 1711,
       "sha256": "554bcfae217af49e4efd4783d3308ad945f3c1652537954517aa39eca1013db1"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys/voice/snp/2026/2026-11-06_snp_a3560ea9.md",
+      "bytes": 1616,
+      "sha256": "28bb6ed9632fcd65021b7517f9775aa4b45fb5742dcf638c2de425a2f2e506af"
     },
     {
       "path": "corpus/01-brokers/fearnleys/voice/suezmax/2026/2026-10-07_suezmax_90cee00b.md",
