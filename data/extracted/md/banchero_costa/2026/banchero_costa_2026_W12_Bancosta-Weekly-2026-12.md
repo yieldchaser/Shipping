@@ -25,13 +25,15 @@ Volumes to the European Union declined by -16.8% y-o-y to 8.2 mln t in 2025, fro
 | Destination | 2023 (1-12) | 2024 (1-12) | 2025 (1-12) |
 | --- | --- | --- | --- |
 | China | 16.8 | 18.3 | 19.6 |
-| India | 11.1 | 10.6 | 11.4 |
+| India |  | 10.6 | 11.4 |
 | EU | 12.5 | 9.8 | 8.2 |
 | Taiwan, CN | 5.7 | 5.7 | 8.2 |
 | S Korea | 8.7 | 8.9 | 6.8 |
 | Pakistan | 5.7 | 6.4 | 6.4 |
 | ASEAN | 4.2 | 4.2 | 5.6 |
 | Others/ Unknown | 14.7 | 13.2 | 15.0 |
+
+> Values transcribed from the chart image (no text layer) and checked against the page render 2026-11-08. Blank cells: the publisher's bar label is cut off by the neighbouring label, so no value is given.
 
 ### Qatar - Monthly LNG Exports - Seasonality
 

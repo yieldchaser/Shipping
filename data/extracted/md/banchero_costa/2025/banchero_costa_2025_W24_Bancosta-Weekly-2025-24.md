@@ -31,7 +31,9 @@ The top loading port in Brazil for iron ore cargoes to China was Ponta da Madeir
 | Peru | 9.9 | 10.0 | 7.7 |
 | Canada | 7.6 | 7.1 | 6.9 |
 | Sierra Leone | 4.7 | 4.6 | 5.7 |
-| Others/Unknown | 27.3 |  | 24.7 |
+| Others/Unknown |  |  | 24.7 |
+
+> Values transcribed from the chart image (no text layer) and checked against the page render 2026-11-08. Blank cells: the publisher's bar label is cut off by the neighbouring label, so no value is given.
 
 > Blank cells: the data label is cut off on the page and not readable; values are not estimated from bar heights.
 

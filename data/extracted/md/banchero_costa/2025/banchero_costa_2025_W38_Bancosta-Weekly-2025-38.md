@@ -24,7 +24,7 @@ In the 8 months of 2024, Turkish seaborne crude oil exports declined by -21.4% y
 
 | Destination | 2023 (1-8) | 2024 (1-8) | 2025 (1-8) |
 | --- | --- | --- | --- |
-| EU | 16.6 | 13.4 | 13.3 |
+| EU | 16.6 |  | 13.3 |
 | N Africa | 1.9 | 1.9 | 1.2 |
 | ASEAN | 1.0 | 0.4 | 0.5 |
 | NW Europe | 0.8 | 0.7 | 0.4 |
@@ -32,6 +32,8 @@ In the 8 months of 2024, Turkish seaborne crude oil exports declined by -21.4% y
 | AG | 0.1 | 0.0 | 0.1 |
 | China | 0.2 | 0.0 | 0.1 |
 | Others/ Unknown | 1.8 | 0.7 | 0.1 |
+
+> Values transcribed from the chart image (no text layer) and checked against the page render 2026-11-08. Blank cells: the publisher's bar label is cut off by the neighbouring label, so no value is given.
 
 ### Turkey - Monthly Crude Oil Exports - Seasonality (sep 2025 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
 

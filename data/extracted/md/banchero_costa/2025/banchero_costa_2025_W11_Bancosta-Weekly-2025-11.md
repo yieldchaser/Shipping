@@ -26,14 +26,14 @@ Tianjin (20.5 mln t in Jan-Dec 2024), Shanghai (10.2 mln t), Tangshan (7.1 mln t
 
 | Category | 2022 (1-12) | 2023 (1-12) | 2024 (1-12) |
 | --- | --- | --- | --- |
-| China | 38 | 41 | 55 |
-| Japan | 14 | 16 | 15 |
-| S Korea | 18 | 10 | 11 |
-| EU | 18 | 08 | 18 |
-| Russia | 10 | 18 | 07 |
-| Brazil | 02 | 01 | 00 |
-| Vietnam | 4 | 6 | 8 |
-| Others/Unknown | 28 | 25 | 32 |
+| China | 40 | 52 | 66 |
+| Japan | 25 | 27 | 26 |
+| S Korea | 20 | 21 | 22 |
+| EU | 20 | 19 | 20 |
+| Russia | 21 | 20 | 18 |
+| Brazil | 13 | 12 | 11 |
+| Vietnam | 5 | 7 | 9 |
+| Others/Unknown | 39 | 36 | 43 |
 
 ### China - Steel Products Exports by Destination in Jan-Dec (mar 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
 

@@ -24,7 +24,7 @@ In Jan-Dec 2025, shipments to Pakistan increased +58.8% y-o-y to 4.9 mln t, whil
 
 | Destination | 2023 (1-12) | 2024 (1-12) | 2025 (1-12) |
 | --- | --- | --- | --- |
-| India | 27.6 | 30.7 | 31.0 |
+| India | 27.6 |  | 31.0 |
 | Pakistan | 2.0 | 3.1 | 4.9 |
 | EU | 7.1 | 3.7 | 4.1 |
 | S Korea | 6.0 | 5.9 | 3.0 |
@@ -32,6 +32,8 @@ In Jan-Dec 2025, shipments to Pakistan increased +58.8% y-o-y to 4.9 mln t, whil
 | Japan | 3.1 | 2.7 | 2.2 |
 | Taiwan, CN | 3.4 | 2.1 | 2.1 |
 | Others/ Unknown | 10.4 | 13.1 | 14.7 |
+
+> Values transcribed from the chart image (no text layer) and checked against the page render 2026-11-08. Blank cells: the publisher's bar label is cut off by the neighbouring label, so no value is given.
 
 ### S Africa - Monthly Coal Exports - Seasonality
 

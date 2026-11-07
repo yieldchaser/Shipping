@@ -26,7 +26,7 @@ Imports from the USA surged by +29.0% y-o-y to 32.4 mln t in Jan-May 2026. Volum
 
 | Source | 2024 (1-5) | 2025 (1-5) | 2026 (1-5) |
 | --- | --- | --- | --- |
-| NW Europe | 36.2 | 35.3 | 39.6 |
+| NW Europe |  | 35.3 | 39.6 |
 | N Africa | 38.7 | 37.2 | 35.4 |
 | USA | 32.8 | 25.1 | 32.4 |
 | Russia | 26.7 | 24.9 | 21.7 |
@@ -34,6 +34,8 @@ Imports from the USA surged by +29.0% y-o-y to 32.4 mln t in Jan-May 2026. Volum
 | W Africa | 21.1 | 18.5 | 16.7 |
 | Turkey | 7.4 | 8.4 | 9.8 |
 | Others/ Unknown | 21.0 | 19.0 | 16.3 |
+
+> Values transcribed from the chart image (no text layer) and checked against the page render 2026-11-08. Blank cells: the publisher's bar label is cut off by the neighbouring label, so no value is given.
 
 ### EU - Monthly Crude Oil Imports - Seasonality (jun 2026 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
 

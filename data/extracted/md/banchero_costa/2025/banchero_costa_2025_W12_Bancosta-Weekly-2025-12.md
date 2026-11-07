@@ -40,13 +40,13 @@ In 2024, shipments to China from Australia increased by +17.2% y-o-y to 44.0 mln
 | Country | 2022 (1-12) | 2023 (1-12) | 2024 (1-12) |
 | --- | --- | --- | --- |
 | China | 138 | 146 | 166 |
-| EU | 23 | 8 | 10 |
+| EU | 12 | 8 | 10 |
 | UAE | 6 | 7 | 7 |
-| India | 3 | 5 | 8 |
-| Canada | 5 | 5 | 5 |
-| USA | 4 | 4 | 3 |
-| S Korea | 2 | 2 | 2 |
-| Others/Unknown | 3 | 3 | 2 |
+| India | 3 | 4 | 5 |
+| Canada | 4 | 4 | 4 |
+| USA | 3 | 3 | 2 |
+| S Korea | 1 | 1 | 1 |
+| Others/Unknown | 2 | 2 | 1 |
 
 # NEWS
 # COMMODITY NEWS – DRY BULK

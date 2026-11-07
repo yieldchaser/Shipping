@@ -26,12 +26,14 @@ The third top destination after the EU and the UK is South Korea, which accounte
 | --- | --- | --- | --- |
 | EU27 | 10.6 | 12.0 | 31.4 |
 | UK | 1.7 | 2.1 | 5.2 |
-| S Korea | 4.3 | 4.3 | 6.8 |
-| S America | 2.1 | 3.6 | 8.9 |
+| S Korea | 4.3 | 6.8 | 4.3 |
+| S America | 2.1 | 8.9 | 3.6 |
 | Japan | 3.3 | 5.2 | 2.9 |
 | Turkey | 1.9 | 1.7 | 2.5 |
 | India | 1.6 | 3.2 | 1.6 |
 | Others/ Unknown | 6.3 | 13.1 | 8.5 |
+
+> Values transcribed from the chart image (no text layer) and checked against the page render 2026-11-08. Blank cells: the publisher's bar label is cut off by the neighbouring label, so no value is given.
 
 ### United States - Monthly LNG Exports - Seasonality (Oct 2022 ; source: refinitiv ; seaborne only ; all tankers ; in mln tonnes)
 

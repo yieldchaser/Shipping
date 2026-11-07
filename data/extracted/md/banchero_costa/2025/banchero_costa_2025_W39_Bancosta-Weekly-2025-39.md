@@ -24,7 +24,7 @@ The European Union is still by far the top destination, accounting for 40.6% of 
 
 | Destination | 2023 (1-8) | 2024 (1-8) | 2025 (1-8) |
 | --- | --- | --- | --- |
-| EU | 13.3 | 15.1 | 15.1 |
+| EU | 13.3 |  | 15.1 |
 | China | 10.4 | 11.2 | 12.8 |
 | Japan | 4.9 | 4.2 | 3.5 |
 | S Korea | 2.5 | 2.6 | 1.3 |
@@ -32,6 +32,8 @@ The European Union is still by far the top destination, accounting for 40.6% of 
 | Bahrain | 0.7 | 0.7 | 1.0 |
 | Algeria | 0.3 | 1.2 | 1.0 |
 | Others/ Unknown | 2.7 | 2.0 | 3.2 |
+
+> Values transcribed from the chart image (no text layer) and checked against the page render 2026-11-08. Blank cells: the publisher's bar label is cut off by the neighbouring label, so no value is given.
 
 ### Canada - Monthly Iron Ore Exports - Seasonality (sep 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
 

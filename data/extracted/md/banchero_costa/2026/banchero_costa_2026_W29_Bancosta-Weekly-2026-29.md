@@ -26,14 +26,16 @@ Saudi Arabia also shipped 13.3 mln t this year to Japan, which represents a decl
 
 | Destination | 2024 (1-6) | 2025 (1-6) | 2026 (1-6) |
 | --- | --- | --- | --- |
-| China | 38.8 | 37.4 | 26.3 |
+| China |  | 37.4 | 26.3 |
 | S Korea | 22.5 | 25.2 | 18.7 |
-| N Africa | 20.4 | 18.1 | 18.1 |
+| N Africa | 20.4 |  | 18.1 |
 | ASEAN | 15.9 | 17.9 | 16.1 |
-| India | 16.1 | 15.7 | 15.3 |
-| Japan | 25.1 | 25.5 | 13.3 |
+| India |  |  | 15.3 |
+| Japan |  | 25.5 | 13.3 |
 | Taiwan, CN | 6.7 | 6.8 | 4.3 |
-| Others/ Unknown |  | 15.1 | 11.1 |
+| Others/ Unknown | 15.1 |  | 11.4 |
+
+> Values transcribed from the chart image (no text layer) and checked against the page render 2026-11-08. Blank cells: the publisher's bar label is cut off by the neighbouring label, so no value is given.
 
 ### Saudi Arabia - Monthly Crude Oil Exports - Seasonality (jul 2026 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
 

@@ -26,14 +26,16 @@ The third top destination was South Korea, with 47.0 mln t, down -2.7% y-o-y fro
 
 | Destination | 2021 (1-12) | 2022 (1-12) | 2023 (1-12) |
 | --- | --- | --- | --- |
-| China | 80.1 | 78.1 | 79.6 |
-| Japan | 51.6 | 54.7 |  |
-| S Korea | 40.7 | 48.1 | 47.0 |
-| ASEAN | 31.8 | 42.7 | 39.9 |
-| India | 33.4 | 33.9 | 33.9 |
-| N Africa | 20.4 | 28.1 | 30.3 |
-| USA | 18.5 | 21.2 | 15.2 |
-| Others/ Unknown | 33.1 |  | 45.3 |
+| China |  |  | 79.6 |
+| Japan | 51.6 | 59.0 | 54.7 |
+| S Korea | 40.7 |  | 47.0 |
+| ASEAN | 31.8 |  | 39.9 |
+| India | 33.4 | 39.9 | 33.9 |
+| N Africa | 20.4 |  | 30.3 |
+| USA |  | 21.2 | 15.2 |
+| Others/ Unknown | 33.1 | 45.3 | 35.9 |
+
+> Values transcribed from the chart image (no text layer) and checked against the page render 2026-11-08. Blank cells: the publisher's bar label is cut off by the neighbouring label, so no value is given.
 
 ### Saudi A. - Monthly Crude Oil Exports - Seasonality
 

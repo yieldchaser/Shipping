@@ -28,10 +28,12 @@ With the larger share of imports coming from Russia also the tonnage used for im
 | Russia | 1.6 | 5.3 | 30.5 |
 | USA | 9.2 | 7.6 | 5.1 |
 | W Africa | 10.2 | 9.3 | 4.4 |
-| EU | 0.3 | 3.0 | 0.4 |
+| EU | 0.3 | 0.4 | 3.0 |
 | S America | 2.7 | 2.8 | 2.7 |
 | S Korea | 0.0 | 0.0 | 2.2 |
 | Others/Unknown | 10.0 | 6.6 | 5.5 |
+
+> Values transcribed from the chart image (no text layer) and checked against the page render 2026-11-08. Blank cells: the publisher's bar label is cut off by the neighbouring label, so no value is given.
 
 ### India - Monthly Crude Oil Imports - Seasonality (Jun 2023; source: refinitiv; seaborne only; in mln tonnes)
 

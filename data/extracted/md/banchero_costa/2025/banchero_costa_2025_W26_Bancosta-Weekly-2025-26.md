@@ -24,8 +24,8 @@ This year, however, it is quite evident that China is holding out from buying US
 
 | Country | 2023 (1-5) | 2024 (1-5) | 2025 (1-5) |
 | --- | --- | --- | --- |
-| Brazil | 43 | 43 | 45 |
-| USA | 15 | 12 | 11 |
+| Brazil | 53 | 53 | 56 |
+| USA | 16 | 12 | 11 |
 | Argentina | 1 | 2 | 2 |
 | Uruguay | 0 | 1 | 1 |
 | Canada | 1 | 1 | 1 |

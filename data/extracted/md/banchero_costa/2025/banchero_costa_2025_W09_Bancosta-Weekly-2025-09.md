@@ -22,14 +22,14 @@ In an attempt to quantify the impact on dry bulk shipping from the upcoming trad
 
 | Destination | 2022 (1-12) | 2023 (1-12) | 2024 (1-12) |
 | --- | --- | --- | --- |
-| China | 54 | 41 | 41 |
-| EU | 34 | 28 | 25 |
-| Japan | 17 | 15 | 18 |
-| India | 08 | 18 | 17 |
-| Mexico | 04 | 03 | 06 |
-| Canada | 05 | 05 | 06 |
-| Brazil | 03 | 03 | 05 |
-| Others/Unknown | 80 | 78 | 004 |
+| China | 65 | 52 | 52 |
+| EU | 45 | 39 | 36 |
+| Japan | 28 | 26 | 29 |
+| India | 19 | 29 | 28 |
+| Mexico | 15 | 14 | 17 |
+| Canada | 16 | 16 | 17 |
+| Brazil | 14 | 14 | 16 |
+| Others/Unknown | 91 | 89 | 115 |
 
 > **Chart (not transcribed):** USA - All Bulkers Discharges by Commodity in Jan-Dec (mar 2025 ; source: axs marine ; seaborne only ; in mln tonnes ; 0-500k dwt only). The report prints no values for it.
 

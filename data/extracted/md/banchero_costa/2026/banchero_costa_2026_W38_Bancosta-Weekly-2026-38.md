@@ -33,13 +33,15 @@ Imports from ASEAN (which includes some trans-shipment of Iranian and Russian oi
 | Category | 2024 (1-8) | 2025 (1-8) | 2026 (1-8) |
 | :--- | :--- | :--- | :--- |
 | AG | 163.9 | 149.3 | 85.3 |
-| S America | 34.3 | 34.8 | 43.5 |
+| S America |  | 34.8 | 43.5 |
 | Russia | 34.9 | 27.2 | 35.7 |
-| W Africa | 34.1 | 36.2 | 28.5 |
-| ASEAN | 40.1 | 40.5 | 28.3 |
+| W Africa |  | 36.2 | 28.5 |
+| ASEAN |  | 40.5 | 28.3 |
 | HK, CN | 0.1 | 5.8 | 9.1 |
 | Canada | 0.7 | 6.6 | 8.5 |
-| Others/ Unknown | 30.4 | 26.5 | 22.8 |
+| Others/ Unknown |  |  | 22.8 |
+
+> Values transcribed from the chart image (no text layer) and checked against the page render 2026-11-08. Blank cells: the publisher's bar label is cut off by the neighbouring label, so no value is given.
 
 ### China - Monthly Crude Oil Imports - Seasonality (sep 2026 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
 

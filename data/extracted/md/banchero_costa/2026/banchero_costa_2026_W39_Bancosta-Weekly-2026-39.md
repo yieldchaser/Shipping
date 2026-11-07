@@ -70,14 +70,16 @@ With the peak Brazilian season now largely reflected in the Jan-Aug 2026 import 
 
 | Country | 2024 (1-8) | 2025 (1-8) | 2026 (1-8) |
 | --- | --- | --- | --- |
-| Brazil | 56.4 | 56.5 | 57.0 |
-| USA | 13.6 | 12.4 | 12.3 |
+| Brazil |  |  | 57.0 |
+| USA |  |  | 12.3 |
 | Argentina | 2.6 | 2.1 | 4.2 |
 | Canada | 0.8 | 0.4 | 1.2 |
-| Uruguay | 1.5 | 0.8 | 0.8 |
+| Uruguay | 0.5 | 0.8 | 0.8 |
 | India | 0.0 | 0.0 | 0.0 |
 | Russia | 0.0 | 0.0 | 0.0 |
 | Others/ Unknown | 0.0 | 0.1 | 0.0 |
+
+> Values transcribed from the chart image (no text layer) and checked against the page render 2026-11-08. Blank cells: the publisher's bar label is cut off by the neighbouring label, so no value is given.
 
 ## China - Monthly Soybeans Imports - Seasonality (sep 2026 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
 

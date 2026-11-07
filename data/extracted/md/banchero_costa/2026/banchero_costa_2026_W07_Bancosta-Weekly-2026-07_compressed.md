@@ -27,13 +27,15 @@ Imports from the USA crashed by -13.3% y-o-y to 64.8 mln t in Jan-Dec 2025. Volu
 | Source | 2023 (1-12) | 2024 (1-12) | 2025 (1-12) |
 | --- | --- | --- | --- |
 | N Africa | 81.8 | 87.3 | 91.1 |
-| NW Europe | 87.1 | 86.1 | 87.2 |
-| USA | 73.1 | 74.7 | 64.8 |
-| Russia | 58.1 | 58.4 | 60.6 |
-| W Africa | 54.1 | 50.1 | 48.0 |
-| S America | 31.6 | 42.1 | 41.2 |
+| NW Europe |  |  | 87.2 |
+| USA |  | 74.7 | 64.8 |
+| Russia |  |  | 60.6 |
+| W Africa | 54.1 |  | 48.0 |
+| S America | 31.6 |  | 41.2 |
 | AG | 45.3 | 34.7 | 25.2 |
-| Others/ Unknown | 40.4 | 39.5 | 42.6 |
+| Others/ Unknown |  | 39.5 | 42.6 |
+
+> Values transcribed from the chart image (no text layer) and checked against the page render 2026-11-08. Blank cells: the publisher's bar label is cut off by the neighbouring label, so no value is given.
 
 ### EU - Monthly Crude Oil Imports - Seasonality (feb 2026 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
 

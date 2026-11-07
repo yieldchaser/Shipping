@@ -27,13 +27,15 @@ Direction Asia, about 15.2 mln t were shipped from the USA to S. Korea in Jan-Ju
 | Destination | 2024 (1-7) | 2025 (1-7) | 2026 (1-7) |
 | --- | --- | --- | --- |
 | EU | 43.0 | 34.3 | 43.6 |
-| S Korea | 13.6 | 12.4 | 15.2 |
-| Japan | 1.0 | 2.2 | - |
+| S Korea |  | 12.4 | 15.2 |
+| Japan | 1.0 | 2.2 | 12.1 |
 | ASEAN | 11.3 | 9.5 | 8.3 |
 | Canada | 7.1 | 6.6 | 7.8 |
 | NW Europe | 10.4 | 8.2 | 7.0 |
 | Taiwan, CN | 7.4 | 6.9 | 5.6 |
-| Others/ Unknown | - | 25.5 | 23.1 |
+| Others/ Unknown | 25.5 |  | 21.2 |
+
+> Values transcribed from the chart image (no text layer) and checked against the page render 2026-11-08. Blank cells: the publisher's bar label is cut off by the neighbouring label, so no value is given.
 
 ### USA - Monthly Crude Oil Exports - Seasonality (aug 2026 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
 

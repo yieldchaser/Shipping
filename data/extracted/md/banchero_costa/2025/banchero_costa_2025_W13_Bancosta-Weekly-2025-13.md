@@ -26,14 +26,14 @@ Imports from the USA crashed by -19.5% y-o-y to 11.1 mln t. Shipments from South
 
 | Category | 2023 (1-2) | 2024 (1-2) | 2025 (1-2) |
 | --- | --- | --- | --- |
-| AG | 035 | 036 | 028 |
-| Russia | 27 | 28 | 25 |
-| S America | 15 | 21 | 21 |
-| USA | 18 | 23 | 28 |
-| W Africa | 17 | 18 | 16 |
-| N Africa | 07 | 07 | 18 |
-| NW Europe | 08 | 06 | 06 |
-| Others/Unknown | 43 | 40 | 34 |
+| AG | 146 | 147 | 139 |
+| Russia | 38 | 39 | 36 |
+| S America | 26 | 32 | 32 |
+| USA | 29 | 34 | 30 |
+| W Africa | 28 | 29 | 27 |
+| N Africa | 18 | 18 | 20 |
+| NW Europe | 19 | 17 | 17 |
+| Others/Unknown | 54 | 51 | 45 |
 
 ### EU - Crude Oil Imports by Source in Jan-Feb (apr 2025 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
 

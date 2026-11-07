@@ -24,14 +24,16 @@ West African crude oil exports are split almost evenly between the two largest v
 
 | Destination | 2024 (1-6) | 2025 (1-6) | 2026 (1-6) |
 | --- | --- | --- | --- |
-| EU | 24.8 | 23.7 | 19.8 |
+| EU |  | 23.7 | 19.8 |
 | China | 25.3 | 27.9 | 19.5 |
 | ASEAN | 8.7 | 8.6 | 11.4 |
 | India | 5.8 | 8.3 | 9.2 |
 | W Africa | 2.7 | 2.8 | 3.4 |
 | S Africa | 2.8 | 2.1 | 2.2 |
 | USA | 4.6 | 2.4 | 2.0 |
-| Others/Unknown | 8.9 | 10.1 | 10.4 |
+| Others/Unknown | 8.9 |  | 10.4 |
+
+> Values transcribed from the chart image (no text layer) and checked against the page render 2026-11-08. Blank cells: the publisher's bar label is cut off by the neighbouring label, so no value is given.
 
 ### W Africa - Monthly Crude Oil Exports - Seasonality (jul 2026 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
 

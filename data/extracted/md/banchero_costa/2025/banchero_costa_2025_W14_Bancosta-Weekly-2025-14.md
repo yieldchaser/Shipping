@@ -24,14 +24,14 @@ Shipments from the USA to Japan increased by +9.3% y-o-y last year to 6.7 mln to
 
 | Category | 2022 (1-12) | 2023 (1-12) | 2024 (1-12) |
 | --- | --- | --- | --- |
-| USA | 68 | 78 | 77 |
-| Australia | 70 | 70 | 71 |
-| Qatar | 78 | 68 | 66 |
-| ASEAN | 33 | 32 | 35 |
-| Russia | 22 | 20 | 21 |
-| W Africa | 11 | 10 | 11 |
-| Other AG | 05 | 05 | 06 |
-| Others/Unknown | 36 | 38 | 34 |
+| USA | 79 | 89 | 88 |
+| Australia | 81 | 81 | 82 |
+| Qatar | 80 | 79 | 77 |
+| ASEAN | 44 | 43 | 46 |
+| Russia | 33 | 31 | 32 |
+| W Africa | 22 | 21 | 22 |
+| Other AG | 16 | 16 | 17 |
+| Others/Unknown | 47 | 49 | 45 |
 
 ### USA - LNG Exports by Destination in Jan-Dec (apr 2025 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)
 

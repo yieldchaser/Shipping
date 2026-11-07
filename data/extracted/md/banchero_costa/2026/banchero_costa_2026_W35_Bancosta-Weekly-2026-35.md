@@ -31,7 +31,9 @@ Shipments from Qatar to China collapsed -57.6% y-o-y in Jan-Jul 2026 to just 4.7
 | Other AG | 1.5 | 0.7 | 1.5 |
 | W Africa | 1.0 | 0.5 | 1.4 |
 | Canada | 0.0 | 0.0 | 1.4 |
-| Others/ Unknown |  | 2.2 | 2.7 |
+| Others/ Unknown | 5.8 | 2.2 | 2.7 |
+
+> Values transcribed from the chart image (no text layer) and checked against the page render 2026-11-08. Blank cells: the publisher's bar label is cut off by the neighbouring label, so no value is given.
 
 ### China - Monthly LNG Imports - Seasonality (sep 2026 ; source: LSEG ; seaborne only ; in mln tonnes ; all tankers)
 
