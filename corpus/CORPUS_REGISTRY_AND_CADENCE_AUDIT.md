@@ -437,7 +437,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/hellenic/demolition`](../data/extracted/md/hellenic/demolition)
 - **Publication Cadence:** Weekly (Saturday/Sunday) (Expected day: Saturday)
 - **Coverage Span:** `2021-07-02` to `2026-11-07`
-- **Latest Ingested Document:** `2026-11-07_best-oasis-weekly-recycling-market-report-6-november-2026_weekly-ship-recycling-report-31-octo_ff3a6475b421.pdf` (Status: **CURRENT (0d)**)
+- **Latest Ingested Document:** `2026-11-07_best-oasis-weekly-recycling-market-report-6-november-2026.html` (Status: **CURRENT (0d)**)
 - **Sample Ingested Report (Corpus):** [`2026-11-07_gms-week-45-bids-hold-fast-against-the-tide.html`](../corpus/02-hellenic/demolition/2026/2026-11-07_gms-week-45-bids-hold-fast-against-the-tide.html)
 - **Sample Extracted Markdown (Digest):** [`gms_2026-11-06_week-45_bids-hold-fast-against-the-tide.md`](../data/extracted/md/hellenic/demolition/gms/2026/gms_2026-11-06_week-45_bids-hold-fast-against-the-tide.md)
 - **Raw Corpus Inventory:** 1,963 PDFs, 824 HTML files, 1,216 Images
@@ -485,7 +485,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/clarksons`](../data/extracted/md/clarksons)
 - **Publication Cadence:** Weekly (Friday) (Expected day: Friday)
 - **Coverage Span:** `2021-07-02` to `2026-07-31`
-- **Latest Ingested Document:** `2026-07-31_clarksons-hellas-snp-weekly-3.html` (Status: **SUPERSEDED (new issues arrive via corpus/01-brokers/clarksons (since 2026-08; last issue on this channel 2026-07-31))**)
+- **Latest Ingested Document:** `2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf` (Status: **SUPERSEDED (new issues arrive via corpus/01-brokers/clarksons (since 2026-08; last issue on this channel 2026-07-31))**)
 - **Sample Ingested Report (Corpus):** [`2026-11-03_breakwave-tanker-report-11-3-2026.html`](../corpus/02-hellenic/shipbuilding/2026/2026-11-03_breakwave-tanker-report-11-3-2026.html)
 - **Sample Extracted Markdown (Digest):** [`clarksons_23_10_2026_clarksons_hellas_snp_weekly.md`](../data/extracted/md/clarksons/2026/clarksons_23_10_2026_clarksons_hellas_snp_weekly.md)
 - **Raw Corpus Inventory:** 1,041 PDFs, 383 HTML files, 180 Images
@@ -652,7 +652,7 @@ Drewry AIS reports are organized into 10 distinct vessel sectors, each with dedi
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/baltic`](../data/extracted/md/baltic)
 - **Publication Cadence:** Weekly (Friday) (Expected day: Friday)
 - **Coverage Span:** `2015-01-09` to `2026-11-06`
-- **Latest Ingested Document:** `2026-11-06_ningbo-containerised-freight-index-30102_ningbo.html` (Status: **CURRENT (1d)**)
+- **Latest Ingested Document:** `2026-11-06_W45_container-report-week-45_container.html` (Status: **CURRENT (1d)**)
 - **Sample Ingested Report (Corpus):** [`2026_tanker-report-week-9_tanker.html`](../corpus/08-baltic/tanker/2026/2026_tanker-report-week-9_tanker.html)
 - **Sample Extracted Markdown (Digest):** [`2026_tanker-report-week-9_tanker.md`](../data/extracted/md/baltic/tanker/2026/2026_tanker-report-week-9_tanker.md)
 - **Raw Corpus Inventory:** 3,074 HTML files, 2,254 Native Markdown files
