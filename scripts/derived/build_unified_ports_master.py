@@ -14,7 +14,7 @@ import sys
 from pathlib import Path
 from datetime import datetime, timezone
 
-ROOT = Path(r"c:\Users\Dell\Github\Shipping")
+ROOT = Path(__file__).resolve().parents[2]
 GEO_DIR = ROOT / "data" / "geospatial"
 VIEWS_DIR = ROOT / "data" / "views" / "signal"
 VIEWS_DIR.mkdir(parents=True, exist_ok=True)

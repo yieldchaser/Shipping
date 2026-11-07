@@ -131,6 +131,8 @@ jobs:
         run: |
           if [ -f scripts/scrapers/fetch_portwatch_ports_expanded.py ]; then python scripts/scrapers/fetch_portwatch_ports_expanded.py --refresh; fi
           if [ -f scripts/geospatial/build_voyage_history.py ]; then python scripts/geospatial/build_voyage_history.py; fi
+          # the dashboard's ports view is built from the two masters refreshed above (it had no writer after 09-18)
+          python scripts/derived/build_unified_ports_master.py
 
       - name: Commit and push changes
         run: |
