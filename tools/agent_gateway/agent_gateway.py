@@ -2,11 +2,11 @@
 
 For every chat request, try the upstreams in this order:
 
-  1. Ultrafast (free DeepSeek V4.1 Flash 1017). It serves one request at a time.
+  1. Ultrafast (free DeepSeek V4.1 Flash 1017, thinking mode on). It serves one request at a time.
      A 429 with Retry-After means "you are in the queue". The gateway waits and
      retries by itself. While it waits on a streaming request, it sends SSE
      keep-alive comments so the client does not time out.
-  2. Enclave router (paid). Used when any of these is true:
+  2. Enclave router (paid, DeepSeek V4 Pro). Used when any of these is true:
        - Ultrafast waited longer than FALLBACK_AFTER_S,
        - Ultrafast failed 3 times,
        - the prompt is too large for Ultrafast,
@@ -41,10 +41,11 @@ UF_DAILY_OUT = int(os.environ.get("ULTRAFAST_DAILY_OUTPUT", "4800000"))  # site 
 UF_MAX_PROMPT_TOK = 120_000                                              # site limit: about 128k prompt tokens
 
 EN_BASE = os.environ.get("ENCLAVE_BASE_URL", "https://router.enclave.ai/v1")
-EN_MODEL = os.environ.get("ENCLAVE_MODEL", "cyberouter/deepseek-v4.1-flash")
-EN_PRICE_IN, EN_PRICE_OUT = 0.30, 1.20                                   # USD per 1M tokens
+EN_MODEL = os.environ.get("ENCLAVE_MODEL", "cyberouter/deepseek-v4-pro")      # stronger model for the paid fallback
+EN_PRICE_IN, EN_PRICE_OUT = 1.32, 3.96                                   # USD per 1M tokens
 AGENT_CAP_USD = float(os.environ.get("AGENT_CAP_USD", "35"))
 
+UF_THINKING = os.environ.get("ULTRAFAST_THINKING", "1") == "1"            # reasoning on: better code, free
 FALLBACK_AFTER_S = float(os.environ.get("FALLBACK_AFTER_S", "900"))
 KEEPALIVE_S = 15
 
@@ -130,6 +131,8 @@ class Usage:
 
 async def _open(session, base, key, model, body):
     b = dict(body, model=model)
+    if base == UF_BASE and UF_THINKING:
+        b["chat_template_kwargs"] = dict(b.get("chat_template_kwargs") or {}, thinking=True)
     if b.get("stream"):
         b["stream_options"] = dict(b.get("stream_options") or {}, include_usage=True)
     return await session.post(f"{base}/chat/completions", json=b, headers={"Authorization": f"Bearer {key}"})

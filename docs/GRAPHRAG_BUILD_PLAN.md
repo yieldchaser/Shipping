@@ -24,7 +24,7 @@ The executable instructions for the agent that builds this are in `docs/GRAPHRAG
 | D8 | **Identity comes from keys, never from names.** IMO for vessels, CIK/LEI for companies, the Baltic code for routes, UN/LOCODE for ports. A name alone never creates or merges a vessel. | Name collisions over 20+ years and 23 publishers are certain. |
 | D9 | **Deals are deduplicated into canonical transactions.** One S&P sale reported by six brokers over three weeks is one `transaction` with six `mention`s. Conflicting prices are kept as separate claims. | Without this, counts and "who bought the most" questions are wrong. |
 | D10 | **Known gaps are data.** A `corpus_known_gaps` table records them, and the agent answers "the corpus has a gap here" instead of guessing or saying "did not happen". | Several series stop early (partner-country shares end at 2026-08), and publishers have missing weeks. |
-| D11 | **The coding agent is DeepSeek Harness (dsh), and its calls go through `tools/agent_gateway/`.** The gateway uses the free Ultrafast DeepSeek V4.1 Flash queue first and falls back to Enclave `cyberouter/deepseek-v4.1-flash`, with a hard $35 cap enforced by the gateway, not by the agent. At most 4 subagents run at once. The pipeline runner gets $100 and $10 is never touched. The pipeline itself runs as plain Python, so the agent's own tokens go to writing and fixing code, not to watching long runs. | The owner decided (2026-11-08) not to use a Claude subscription for this. The router is the only credit available, so the split must be explicit, or the agent's own tokens eat the extraction budget. |
+| D11 | **The coding agent is DeepSeek Harness (dsh), and its calls go through `tools/agent_gateway/`.** The gateway uses the free Ultrafast DeepSeek V4.1 Flash queue first, with thinking mode on, and falls back to Enclave `cyberouter/deepseek-v4-pro`, with a hard $35 cap enforced by the gateway, not by the agent. At most 4 subagents run at once. The pipeline runner gets $100 and $10 is never touched. The pipeline itself runs as plain Python, so the agent's own tokens go to writing and fixing code, not to watching long runs. | The owner decided (2026-11-08) not to use a Claude subscription for this. The router is the only credit available, so the split must be explicit, or the agent's own tokens eat the extraction budget. |
 | D12 | **Book content stays out of every public artifact.** Books are indexed in the local knowledge base only. Their chunks, quotes and summaries are never committed and never published to a GitHub Release. | The repo is public and the books are copyrighted. Whether the book MDs themselves stay in the repo is still an open owner decision (ledger). |
 
 ---
@@ -508,10 +508,10 @@ USD per 1M tokens, input / output:
    - Where they agree, the label is accepted. Where they disagree, a third strong model (qwen3.8-max) decides, and the case is flagged.
    - All references go through the §7.4 gates.
    - The owner checkpoint (agent task, C1) reviews 30 flagged items.
-2. **Score the candidates:** deepseek-v4-flash, deepseek-v4.1-flash, glm-5.3-flash, gpt-oss-120b and minimax-m3, all with the same prompt.
+2. **Score the candidates:** deepseek-v4-flash, deepseek-v4.1-flash, glm-5.3-flash, gpt-oss-120b, minimax-m3, deepseek-v4-pro and glm-5.3, all with the same prompt. Also score **reasoning-on variants** of the best two, including Ultrafast V4.1 Flash with thinking, which is free.
 3. **Metrics:** gate pass rate, and precision and recall of edges, events and claims against the reference (matched on type, entities and sentence overlap). Also schema failures, latency, real cost per 1k chunks, and cached-token reporting.
-4. **Choose:**
-   - Bulk extractor = the cheapest candidate within 3 F1 points of the best, with precision at least 0.92.
+4. **Choose (the owner ruled on 2026-11-08 that quality beats saving dollars):**
+   - Bulk extractor = **the highest-F1 candidate whose projected full-scope cost fits the extraction plus escalation caps together**, with precision at least 0.92. Free capacity (Ultrafast) is used for it wherever the same model and settings are available. If the best model cannot cover the whole scope within the caps, it covers what it can and the rest waits for more capacity (partial coverage over lower quality).
    - Escalation model = the reference model with higher agreement with the adjudicated labels.
    - Judge (for eval and adjudication) = a model from a different family than the bulk extractor.
 
