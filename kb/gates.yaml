@@ -1,0 +1,66 @@
+# FROZEN quality gates for the GraphRAG build (docs/GRAPHRAG_BUILD_PLAN.md §11, §12).
+# Owner-approved on main, 2026-11-08. The build agent must NOT edit this file.
+# kb/tripwire.py fails if this file differs from origin/main.
+# Raising a threshold is allowed only through the owner. Lowering one never is.
+
+sampling:
+  seed_rule: "sha256(phase_name + '|' + 'kb-gates-v1') first 8 hex as int"  # samples are not chosen by the agent
+  min_strata: [publisher, doc_type, year]
+
+P0:
+  readiness_items_pass: [R1, R2, R3, R4, R5, R6, R7]
+P0_5:
+  docs_with_published_at: 1.0
+  docs_with_publisher_id: 1.0
+  sec_item_coverage_top25_10k_20f: 0.95
+  scope_frozen_file: kb/reports/scope_P0_5.json        # in-scope chunk ids; later phases compare against it
+P1:
+  row_counts_equal_P0_5: true
+  chunk_roundtrip_exact_sample: 50
+P2:
+  raw_cell_found_sample: 2000
+  raw_cell_found_all_sec: true
+  raw_cell_found_rate: 1.0
+  known_values_exact: 40
+  known_values_exact_rate: 1.0
+  transaction_cluster_audit: 50
+  transaction_cluster_precision: 0.96
+P3:
+  merge_audit_pairs: 300
+  merge_precision: 0.98
+  merges_with_conflicting_imo_or_cik: 0
+P4a:
+  retrieval_recall_at_20: 0.85
+P4b:
+  extraction_gold_chunks: 120
+  reference_models_distinct_families: 2
+  chosen_bulk_gate_pass_rate: 0.95
+  chosen_bulk_precision: 0.92
+  chosen_bulk_f1_within_best: 0.03
+P4c:
+  failure_queue_max: 0.02
+  random_audit_records: 200
+  random_audit_wrong_max: 0.03
+  judge_family_differs_from_extractor: true
+  coverage_of_frozen_scope_reported: true             # partial coverage is allowed only if declared, never hidden
+P5:
+  records_without_code_sliced_quote: 0
+  dangling_entity_ids: 0
+P6:
+  summary_number_check_rate: 1.0
+  summary_faithfulness_judge: 0.95
+  summary_nodes_judged: 60
+P7:
+  qa_gold_questions: 250
+  exact_match_numeric: 0.97
+  retrieval_recall_at_20: 0.85
+  multihop_f1: 0.75
+  refusal_gap_accuracy: 0.95
+  faithfulness: 0.95
+P8:
+  weekly_dry_run_cost_usd_max: 1.0
+
+budget:
+  pipeline_cap_usd: 100
+  agent_enclave_cap_usd: 35
+  untouched_usd: 10

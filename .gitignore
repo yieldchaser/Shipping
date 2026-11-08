@@ -113,3 +113,8 @@ data/.cache_citations/
 
 # tests/conftest.py keeps a copy of every data file it restores
 .pytest_restored/
+
+# agent gateway local usage log and state
+tools/agent_gateway/*.jsonl
+kb/state/
+kb/.venv/
