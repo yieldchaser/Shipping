@@ -53,11 +53,11 @@ jobs:
           echo "failed=$failed" >> "$GITHUB_OUTPUT"
           # new Fearnleys reports arrive here twice a day: extract them and refresh the corpus audit in the same
           # run (before, the MDs and the audit waited for the weekly Fearnleys job, up to 7 days)
-          python scripts/acquire/cache_fearnleys_report_images.py --download-pdfs || true
-          python scripts/extract/publishers/run_fearnleys_md_full_power.py || true
-          python scripts/verify/build_corpus_inventory.py --merge-existing || true
-          python scripts/sync_extraction_register.py || true
-          python scripts/audit/generate_cadence_audit.py || true
+          python scripts/acquire/cache_fearnleys_report_images.py --download-pdfs || echo "::warning::cache_fearnleys_report_images failed; the sync itself is committed, the extract/audit refresh waits for the next run"
+          python scripts/extract/publishers/run_fearnleys_md_full_power.py || echo "::warning::run_fearnleys_md_full_power failed; the sync itself is committed, the extract/audit refresh waits for the next run"
+          python scripts/verify/build_corpus_inventory.py --merge-existing || echo "::warning::build_corpus_inventory failed; the sync itself is committed, the extract/audit refresh waits for the next run"
+          python scripts/sync_extraction_register.py || echo "::warning::sync_extraction_register failed; the sync itself is committed, the extract/audit refresh waits for the next run"
+          python scripts/audit/generate_cadence_audit.py || echo "::warning::generate_cadence_audit failed; the sync itself is committed, the extract/audit refresh waits for the next run"
 
       - name: Commit and push
         run: |
@@ -68,7 +68,7 @@ jobs:
                        data/extracted/EXTRACTION_REGISTER.json docs/EXTRACTION_REGISTER.md \
                        corpus/_inventory_untracked.json corpus/CORPUS_REGISTRY_AND_CADENCE_AUDIT.md \
                        docs/CORPUS_CADENCE_AND_AUDIT.md corpus/CORPUS_PUBLICATION_CADENCE_AND_AUDIT.xlsx; do
-            [ -e "$tpath" ] && git add "$tpath" || true
+            if [ -e "$tpath" ]; then git add "$tpath"; fi
           done
           git add data/derived/fearnleys_broker_comments.csv \
                   data/derived/fearnleys_comments_tanker.json data/derived/fearnleys_comments_dry.json \

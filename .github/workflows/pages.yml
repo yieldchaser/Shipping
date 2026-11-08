@@ -27,6 +27,8 @@ on:
       - "Weekly Signal Ocean Intelligence Ingest"
       - "Monthly CFTC Statements Ingest"
       - "Live ETF Quotes Poller (BDRY/BWET)"
+      - "SEC Filings Weekly"
+      - "Test Health (regression ratchet)"
     types:
       - completed
 

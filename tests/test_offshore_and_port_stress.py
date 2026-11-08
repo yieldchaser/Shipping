@@ -176,7 +176,9 @@ def test_offshore_automation_pipeline_configured():
         wf_content = f.read()
 
     assert "fetch_seabrokers_reports.py --auto" in wf_content
-    assert "data/derived/offshore_summary.json" in wf_content
+    # the commit step stages the whole data/derived directory, which holds offshore_summary.json
+    assert "data/derived/offshore_summary.json" in wf_content or re.search(r"^\s*data/derived\s*\\?\s*$", wf_content, re.M)
+    assert "build_offshore_cache.py" in wf_content
     assert "cron:" in wf_content
     assert "workflow_dispatch:" in wf_content
 

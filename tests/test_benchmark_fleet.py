@@ -45,43 +45,58 @@ def test_benchmark_imo_uniqueness(benchmark_catalog):
             assert imo is not None and isinstance(imo, int)
             all_imos.append(imo)
 
-    assert len(all_imos) == 800
-    assert len(set(all_imos)) == 800, "Found duplicate IMOs in benchmark catalog"
+    total = benchmark_catalog["metadata"]["total_hulls"]
+    assert len(all_imos) == total
+    assert len(set(all_imos)) == total, "Found duplicate IMOs in benchmark catalog"
 
 
+def _by_class(vessels):
+    out = {}
+    for v in vessels:
+        out.setdefault(v.get("class"), []).append(v)
+    return out
+
+
+# Class counts come from the catalogue's declared subclasses (5,000-hull expansion, 283f41de19). The DWT floors are
+# the ones that expansion was built with (VLOC 200k+, VLCC 200k+), wider than the 800-hull Valemax/VLCC cut.
 def test_dry_bulk_benchmark_criteria(benchmark_catalog):
-    bulk_vessels = benchmark_catalog["sectors"]["dry_bulk"]
-    valemax = [v for v in bulk_vessels if v.get("class") == "VLOC"]
-    capes = [v for v in bulk_vessels if v.get("class") == "Capesize"]
-
-    assert len(valemax) == 73, f"Expected 73 Valemax, found {len(valemax)}"
-    assert len(capes) == 177, f"Expected 177 Capesize, found {len(capes)}"
-
-    for v in valemax:
-        assert v.get("dwt", 0) >= 350000, f"Valemax {v['name']} under 350k DWT: {v.get('dwt')}"
-
-    for v in capes:
-        assert 170000 <= v.get("dwt", 0) <= 190000, f"Cape {v['name']} outside 170-190k DWT: {v.get('dwt')}"
+    sub = benchmark_catalog["metadata"]["sectors"]["dry_bulk"]["subclasses"]
+    c = _by_class(benchmark_catalog["sectors"]["dry_bulk"])
+    assert len(c["VLOC"]) == sub["valemax_vloc"]
+    assert len(c["Capesize"]) == sub["capesize_newcastlemax"]
+    assert len(c["Post Panamax"]) == sub["post_panamax"]
+    assert len(c["Panamax"]) == sub["panamax_kamsarmax"]
+    assert len(c["Supramax"]) == sub["supramax_ultramax"]
+    for cls, lo, hi in [("VLOC", 200000, 450000), ("Capesize", 170000, 230000), ("Post Panamax", 90000, 125000),
+                        ("Panamax", 75000, 90000), ("Supramax", 50000, 70000)]:
+        for v in c[cls]:
+            assert lo <= v.get("dwt", 0) <= hi, f"{cls} {v['name']} outside {lo}-{hi} DWT: {v.get('dwt')}"
 
 
 def test_tanker_benchmark_criteria(benchmark_catalog):
-    tankers = benchmark_catalog["sectors"]["tankers"]
-    vlccs = [v for v in tankers if v.get("class") == "VLCC"]
-    suez = [v for v in tankers if v.get("class") == "Suezmax"]
-
-    assert len(vlccs) == 175, f"Expected 175 VLCCs, found {len(vlccs)}"
-    assert len(suez) == 75, f"Expected 75 Suezmaxes, found {len(suez)}"
-
-    for v in vlccs:
-        assert v.get("dwt", 0) >= 295000, f"VLCC {v['name']} under 295k DWT: {v.get('dwt')}"
-
-    for v in suez:
-        assert 150000 <= v.get("dwt", 0) <= 165000, f"Suezmax {v['name']} outside 150-165k DWT: {v.get('dwt')}"
+    sub = benchmark_catalog["metadata"]["sectors"]["tankers"]["subclasses"]
+    c = _by_class(benchmark_catalog["sectors"]["tankers"])
+    assert len(c["VLCC"]) == sub["vlcc"]
+    assert len(c["Suezmax"]) == sub["suezmax"]
+    assert len(c["Aframax"]) == sub["aframax"]
+    for cls, lo, hi in [("VLCC", 200000, 450000), ("Suezmax", 120000, 200000), ("Aframax", 80000, 130000)]:
+        for v in c[cls]:
+            assert lo <= v.get("dwt", 0) <= hi, f"{cls} {v['name']} outside {lo}-{hi} DWT: {v.get('dwt')}"
 
 
 def test_lpg_benchmark_criteria(benchmark_catalog):
     lpg = benchmark_catalog["sectors"]["lpg"]
-    assert len(lpg) == 150
+    assert len(lpg) == benchmark_catalog["metadata"]["sectors"]["lpg"]["count"]
     for v in lpg:
-        assert v.get("class") == "VLGC", f"Expected VLGC class, got {v.get('class')}"
-        assert v.get("dwt", 0) >= 50000, f"VLGC {v['name']} under 50k DWT: {v.get('dwt')}"
+        # sector is "vlgc_and_lgc": one 61k-dwt LGC (Gaz Pegasus) is classed "Small"
+        assert v.get("class") in ("VLGC", "Small"), f"Unexpected LPG class {v.get('class')}"
+        assert v.get("dwt", 0) >= 50000, f"LPG carrier {v['name']} under 50k DWT: {v.get('dwt')}"
+
+
+@pytest.mark.xfail(strict=True, reason="known catalogue defect (2026-11-08): the 5,000-hull expansion includes 86 "
+                   "floating units (FPSO/FSO/FSRU/FLNG/FSU) classed as trading VLCC/LNG/VLGC; they never sail a route")
+def test_no_floating_production_or_storage_units(benchmark_catalog):
+    import re
+    floating = [v["name"] for vs in benchmark_catalog["sectors"].values() for v in vs
+                if re.search(r"\b(FPSO|FSO|FSRU|FLNG|FSU)\b", v["name"], re.I)]
+    assert not floating, f"{len(floating)} floating units: {floating[:10]}"

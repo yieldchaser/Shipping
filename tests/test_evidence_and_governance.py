@@ -89,9 +89,12 @@ class TestFinalHardeningPass(unittest.TestCase):
         self.assertEqual(rep_bdry['genuinely_reconciled_sessions_count'], 0)
         self.assertEqual(rep_bwet['genuinely_reconciled_sessions_count'], 0)
         
-        # Form 10-Q quarter-end is PARTIAL_SCALING_ONLY (total fund NAV observed, but cash vouchers unobserved)
-        self.assertEqual(rep_bdry['partial_scaling_sessions_count'], 1)
-        self.assertEqual(rep_bwet['partial_scaling_sessions_count'], 1)
+        # Sessions whose prior-day total fund NAV is observed (SEC quarter-end / CFTC month-end) are
+        # PARTIAL_SCALING_ONLY: total NAV known, cash vouchers not. One such session in 2026-09; more as filings land.
+        for df, rep in ((df_bdry, rep_bdry), (df_bwet, rep_bwet)):
+            observed = int((df['prior_total_fund_nav_dollars'] > 0).sum())
+            self.assertGreaterEqual(rep['partial_scaling_sessions_count'], 1)
+            self.assertEqual(rep['partial_scaling_sessions_count'], observed)
         
         # Interim days are DESCRIPTIVE_UNRECONCILED
         self.assertGreater(rep_bdry['unreconciled_interim_sessions_count'], 30)

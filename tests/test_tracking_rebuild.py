@@ -167,12 +167,14 @@ def test_active_port_queues_dataset():
     assert len(ports) >= 100, f"Expected >= 100 queued ports, got {len(ports)}"
     
     # Verify structure of port queues
-    sample_key = next(iter(ports))
-    sample = ports[sample_key]
-    assert "anchored_total" in sample and "inbound_total" in sample
-    assert "rows" in sample and "normality" in sample
-    norm = sample["normality"]
-    assert "hist_mean" in norm and "hist_std" in norm and "zscore" in norm
+    for key, port in ports.items():
+        assert "anchored_total" in port and "inbound_total" in port, key
+        assert "rows" in port and "normality" in port, key
+    # build_port_queues.py sets normality only for ports with a port-stress baseline; the rest carry None
+    baselined = {k: p["normality"] for k, p in ports.items() if p["normality"] is not None}
+    assert len(baselined) >= 20, f"only {len(baselined)} ports have a normality baseline"
+    for key, norm in baselined.items():
+        assert "hist_mean" in norm and "hist_std" in norm and "zscore" in norm, key
 
 
 def test_commercial_vessel_registry_57k():

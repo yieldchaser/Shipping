@@ -503,7 +503,26 @@ def main():
 
     session = get_http_session()
     entries = discover_report_cards(session=session)
-    entries = resolve_pdf_urls_concurrently(entries, max_workers=args.workers)
+    # A PDF URL resolved once stays known. Re-resolving all ~100 every run hit rate limits and wrote pdf_url=None
+    # over 67 resolved entries (2026-11-03..07); only new or still-unresolved cards are resolved now.
+    known = {}
+    if os.path.exists(CATALOG_PATH_DATA):
+        try:
+            with open(CATALOG_PATH_DATA, "r", encoding="utf-8") as f:
+                known = {e["slug"]: e for e in json.load(f) if e.get("pdf_url") and e.get("status_code") == 200}
+        except (OSError, ValueError, KeyError) as exc:
+            print(f"[!] Previous catalog unreadable ({exc}); resolving every card")
+    pending = []
+    for e in entries:
+        old = known.get(e["slug"])
+        if old:
+            for k in ("pdf_url", "status_code", "file_size_bytes"):
+                e[k] = old.get(k)
+        else:
+            pending.append(e)
+    print(f"[+] {len(entries) - len(pending)} PDF URLs already known; resolving {len(pending)}")
+    if pending:
+        resolve_pdf_urls_concurrently(pending, max_workers=args.workers)
     save_catalog(entries)
 
     if args.auto:

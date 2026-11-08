@@ -137,10 +137,11 @@ def test_argentina_grain_exports_integrity_and_reconciliation():
     7. Specific audited invariant: 2025-10 must be 6.755 Mt (curing the 0.068 Mt corruption).
     """
     df_monthly = pd.read_csv(COMMODITIES / "argentina_grain_exports_monthly.csv")
-    assert len(df_monthly) == 55, f"Expected exactly 55 months, got {len(df_monthly)}"
-    assert df_monthly["date"].is_monotonic_increasing, "Monthly dates must be strictly monotonic increasing"
-    assert df_monthly["date"].iloc[0] == "2022-01-01", f"First month is {df_monthly['date'].iloc[0]}, expected 2022-01-01"
-    assert df_monthly["date"].iloc[-1] == "2026-07-01", f"Last month is {df_monthly['date'].iloc[-1]}, expected 2026-07-01"
+    # the monthly feed grows (2026-07 was the last month on 2026-09-12; 2026-09 by 2026-11): every month from
+    # 2022-01 to the latest is present exactly once, and at least the 55 audited months
+    months = pd.period_range("2022-01", pd.Period(df_monthly["date"].iloc[-1][:7], "M"), freq="M")
+    assert len(df_monthly) >= 55, f"Expected at least 55 months, got {len(df_monthly)}"
+    assert list(df_monthly["date"]) == [f"{m}-01" for m in months], "months must run 2022-01.. with no gap or repeat"
 
     assert "other_grains_mt" in df_monthly.columns, "argentina_grain_exports_monthly.csv must have other_grains_mt column"
     crops = ["corn_mt", "wheat_mt", "soybeans_mt", "soymeal_pellets_mt", "barley_mt", "sorghum_mt", "sunflower_mt", "other_grains_mt"]

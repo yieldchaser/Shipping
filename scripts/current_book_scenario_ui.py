@@ -64,15 +64,24 @@ def render_scenario_summary(res: Dict[str, Any]) -> str:
 def run_interactive_scenario(fund: str = 'BDRY', manual_shocks: Optional[Dict[str, float]] = None) -> Dict[str, Any]:
     snapshot = load_latest_official_snapshot(fund, max_stale_business_days=3)
     
-    # Default demonstration shocks (+5% on prompt strip contracts)
+    # Default demonstration shocks (percent, as calculate_manual_contract_shock reads them): +5% on the prompt strip, i.e. the three nearest contract months the book holds.
+    # (This was hardcoded to 'Jul'/'Aug'/'Sep'; once the book rolled past September the shock was $0.)
     if manual_shocks is None:
+        import re
+        from datetime import datetime as _dt
+        names = [p.get('contract_name') or p.get('name') or p.get('ticker') for p in snapshot['positions']]
+
+        def _month(name):
+            m = re.search(r"\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?\s*'?(\d{2,4})\b", name or "")
+            if not m:
+                return None
+            yr = int(m.group(2)) % 100
+            return _dt.strptime(f"{m.group(1)} {yr:02d}", "%b %y")
+
+        prompt = sorted({mo for mo in map(_month, names) if mo})[:3]
         manual_shocks = {}
-        for p in snapshot['positions']:
-            c_name = p.get('contract_name') or p.get('name') or p.get('ticker')
-            if any(m in c_name for m in ['Jul', 'Aug', 'Sep']):
-                manual_shocks[c_name] = round(p['price'] * 0.05, 2)
-            else:
-                manual_shocks[c_name] = 0.0
+        for p, c_name in zip(snapshot['positions'], names):
+            manual_shocks[c_name] = 5.0 if _month(c_name) in prompt else 0.0  # percent
                 
     result = calculate_manual_contract_shock(snapshot, manual_shocks)
     output_text = render_scenario_summary(result)
