@@ -1,3 +1,4 @@
+import os
 import http.server
 import socket
 import sys
@@ -72,6 +73,23 @@ def pytest_sessionfinish(session, exitstatus):
         return  # not a git checkout
     changed = sorted((_git_lines("diff", "--name-only", "--", *_GUARDED) or set()) - before_dirty)
     created = sorted((_git_lines("ls-files", "--others", "--exclude-standard", "--", *_GUARDED) or set()) - before_new)
+    if os.environ.get("PYTEST_KEEP_DATA") == "1":
+        if changed or created:
+            print(f"\n[conftest] PYTEST_KEEP_DATA=1: left {len(changed)} changed / {len(created)} new data file(s) as they are")
+        return
+    # The run cannot tell a test's write from an edit made in the same tree while it ran (2026-11-08: data repairs
+    # made during a background run were reverted). Every file about to be restored or removed is copied first.
+    if changed or created:
+        import shutil
+        import time
+        backup = _REPO / ".pytest_restored" / time.strftime("%Y%m%d-%H%M%S")
+        for rel in changed + created:
+            src = _REPO / rel
+            if src.is_file():
+                dst = backup / rel
+                dst.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(src, dst)
+        print(f"\n[conftest] copies of the files about to be restored/removed: {backup}")
     if changed:
         _subprocess.run(["git", "checkout", "--", *changed], cwd=_REPO, capture_output=True)
     for rel in created:

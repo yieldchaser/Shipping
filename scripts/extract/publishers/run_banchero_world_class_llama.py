@@ -814,7 +814,8 @@ parsed_engine: "{engine}"
         import banchero_chart_note
         banchero_chart_note.process(year_dir / f"{stem}.md", True, pdf=pdf_path)
     except Exception as e:
-        print(f"  [!] banchero_chart_note failed for {stem}: {e}")
+        # loud: without it the parse's eyeballed chart tables stay in the MD (W44 2026: fontTools missing in CI)
+        print(f"::error::banchero_chart_note failed for {stem}: {e} - chart tables NOT cleaned")
 
     # Extract tables into .tables.json sidecar
     tables_data = extract_structured_tables_from_md(cleaned_body, issue_date, report_week, pdf_path.name)

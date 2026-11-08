@@ -110,3 +110,6 @@ data/.cache_citations/
 # Document parse engine caches / staging
 .parse_cache/
 .reparse_staging/
+
+# tests/conftest.py keeps a copy of every data file it restores
+.pytest_restored/
