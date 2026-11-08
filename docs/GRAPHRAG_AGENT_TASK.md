@@ -16,6 +16,18 @@ The owner wants to hand over the build and come back only at the two checkpoints
 
 The design must therefore link every entity, event, claim, number and document across publishers, filings and time, so that one question can pull in all the related evidence. Breadth of links and depth of evidence are the measure of success. It must still never invent anything.
 
+**Required capabilities.** The design review (§0.1) must say exactly where each of these lives and how it is tested:
+
+1. **Cross-domain link map.** A deterministic chain links commodity → trade flow → load/discharge country and port → route (Baltic code) → vessel segment → vessels → owners/operators → listed companies (ticker, CIK) → their filings.
+   - Build it from the reference seeds and parsed tables, not from the LLM.
+   - Any question can then hop from "Brazilian iron ore exports" to "C3", "Capesize", "Star Bulk Q3" and back.
+2. **Computed relationships between series.** Correlation and lead/lag between related series, for example China iron ore imports vs C5/C3, orderbook vs rates, bunker prices vs TCE.
+   - Each relationship is stored with its window, method and sample size.
+   - It is always labelled `computed`, never presented as a cause unless a cited source says so.
+   - These are the non-obvious connections the owner wants surfaced.
+3. **Market-state snapshot.** For every segment and commodity, a "current state" node as of the latest data. It holds latest rates and their trend, latest broker views, the orderbook/fleet position and open events, each with its date. "What is the market doing now" is answered from it and says how fresh it is.
+4. **Forecast ledger.** Every forecast claim (who, what, horizon, direction, date) is matched to what happened later in layer-A data, where measurable. The system can answer "who called it right" and "what do brokers expect next" with a track record.
+
 Concretely, it must answer questions like these:
 
 - "What was the TD3C TCE in week 40 2025?"
