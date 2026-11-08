@@ -25165,6 +25165,23 @@ function buildMaster() {
       });
     }
     window.annotateCoverageGaps = annotateCoverageGaps;
+    (function watchLateControls() {
+      if (typeof MutationObserver !== 'function') return;
+      var timer = null;
+      var obs = new MutationObserver(function () {
+        if (timer) return;
+        timer = setTimeout(function () {
+          timer = null;
+          try { if (window.currentTab) annotateCoverageGaps(window.currentTab); } catch (e) {}
+        }, 250);
+      });
+      var hook = function () {
+        document.querySelectorAll('.tab-panel').forEach(function (panel) {
+          obs.observe(panel, { childList: true, subtree: true });
+        });
+      };
+      if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', hook); else hook();
+    })();
 
       // Trigger requestAnimationFrame resize and redraw on all charts in active tab to prevent 0px canvas squishing
       requestAnimationFrame(() => {
@@ -44191,6 +44208,8 @@ function canvasDoctorPass() {
     if (owner && !owner.classList.contains('active')) return;
     if (cv.closest('.leaflet-container')) return;
     if (cv.clientWidth <= 1 && cv.clientHeight <= 1) return;
+    var unmounted = cv.width === 300 && cv.height === 150 && typeof Chart !== 'undefined' && Chart.getChart && !Chart.getChart(cv);
+    if (unmounted) return;
     if (canvasIsBroken(cv) || canvasIsBlank(cv)) broken++;
   });
   // Leaflet maps hide paint defects behind tiles; a 0-size render container is the

@@ -275,11 +275,27 @@ Build plan (layers, schema, DeepSeek runner, budget, phases and gates): `docs/GR
 - [x] Test suite (2026-11-08): 19 of the 25 failures fixed (13 test files). Real code defects among them: the
       Seabrokers catalog above, the ETF scenario default shock (hardcoded Jul/Aug/Sep, dollar passed as percent),
       `|| true` in the broker-voice sync, Pages not redeploying after SEC filings, 9 glow/blur styles. The rest were
-      tests pinned to old data sizes or to code that was rewritten. Still failing (UI only, no GraphRAG input):
-      `test_ui_tabs` no_dash_kpis (Fearnleys "n/a", port-history latest date "-"), ui_copy_lint ("audit" and
-      "editorial estimate" on Tracking; the second is the Red Sea provenance another test requires: owner to pick
-      the wording), perf_budget (79.9 MB cumulative vs 58 MB, data growth), and `test_lf_writers` (about 650
-      hit lines: file writes without explicit LF). Benchmark catalogue: 86 FPSO/FSO/FSRU units classed as trading ships (strict xfail).
+      tests pinned to old data sizes or to code that was rewritten. Closed later the same day: no_dash_kpis
+      (Fearnleys 52W strip says "Under 1 yr" / "No data"; the port-history date stays hidden until loaded),
+      ui_copy_lint (Red Sea callout: "about +N days (our estimate, not a published figure)", provenance kept;
+      "ports with PortWatch call counts"), `test_lf_writers` (648 writers in 230 scripts set LF), benchmark
+      catalogue (86 floating units removed, 4,914 hulls).
+- [ ] `test_ui_tabs::test_perf_budget` still fails: boot 4.18 MB (budget 4.0; index.html alone is 3.3 MB) and
+      80 MB cumulative over all tabs (budget 58). Uncompressed, as the test's local server sends it; Pages gzips.
+      Largest: portwatch_port_congestion.csv 9.0 MB, signal vessel_lookup.json 7.1, fearnleys_fixtures_tape.json
+      6.4, sgx_iron_ore_fef_history.csv 5.7 (97k rows, every contract since 2018), ais_history_active.json 5.0.
+      Needs per-tab payload trimming (UI only, no GraphRAG input).
+- [x] Xclusiv sales COMMENTS (2026-11-08): comments printed over two lines were split across neighbouring rows.
+      The 2023-10+ tables draw every cell as a filled rectangle; the parser now gives each comment cell to every
+      row whose DWT cell lies inside it (`comments_from_cells`). Applied to the 142 issues of 2024+: 246 comment
+      cells corrected (random render checks: rows left empty are the ones whose text belonged to the neighbour).
+      Also 8 names whose last word spilled into the DWT column (AMANAH HALMAHERA AMC, UOG CONSTANTINE G, ...),
+      MP MR TANKER 1 (2026-10-05, dropped by the heading filter) and SPLENDOR TAIPEI (2021-12-27) restored.
+      2024-08-26 / 2024-09-02 keep their manual repairs. Residual: a full re-parse of 2021 and late-2023 issues
+      loses Tanker sections, so those years are not regenerated from the current parser.
+- [x] Cadence/audit workbook: `generate_cadence_audit.py` runs in 7 workflows and each stages
+      `corpus/CORPUS_PUBLICATION_CADENCE_AND_AUDIT.xlsx`; six ran it with `|| true` (a failure left the workbook
+      stale silently), now a `::warning::`. Last refresh 2026-11-07 21:02 UTC, dates computed from the MD folders.
 
 ## Owner actions (not code)
 
