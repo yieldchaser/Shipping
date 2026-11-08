@@ -29,7 +29,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 
 ---
 
-## 2. Master Stacked Series Inventory (709,003 Total Rows across 166 CSVs + 1 Master Workbook)
+## 2. Master Stacked Series Inventory (709,005 Total Rows across 166 CSVs + 1 Master Workbook)
 
 | Series CSV | Target Metric / Commodity / Segment | Total Stacked Rows | Status |
 | :--- | :--- | :---: | :---: |
@@ -197,11 +197,11 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [xclusiv_macro_bunkers_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_macro_bunkers_series.csv) | Macro commodity prices & bunker spreads ($/t) | 1,072 | Verified |
 | [xclusiv_newbuilding_orders_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_newbuilding_orders_series.csv) | Newbuilding reported contracts & orders | 1,363 | Verified |
 | [xclusiv_newbuilding_prices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_newbuilding_prices_series.csv) | Indicative newbuilding prices ($M) | 2,412 | Verified |
-| [xclusiv_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_sales_series.csv) | Secondhand sales transactions ($M) | 5,774 | Verified |
+| [xclusiv_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_sales_series.csv) | Secondhand sales transactions ($M) | 5,776 | Verified |
 | [xclusiv_secondhand_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_secondhand_series.csv) | Dry bulk & tanker secondhand price matrix ($M) | 8,700 | Verified |
 | [corpus_publication_cadence_and_audit.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/corpus_publication_cadence_and_audit.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [gibson_master_tanker_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_master_tanker_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
-| **TOTAL** | **Master Stacked Repository Footprint (166 CSVs + 1 Master Workbook)** | **709,003** | **100.0% Pass** |
+| **TOTAL** | **Master Stacked Repository Footprint (166 CSVs + 1 Master Workbook)** | **709,005** | **100.0% Pass** |
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 21:02:30Z",
+  "updated_at": "2026-11-08 14:43:13Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -3909,7 +3909,7 @@
     {
       "file": "xclusiv_sales_series.csv",
       "target_metric": "Secondhand sales transactions ()",
-      "rows": 5774,
+      "rows": 5776,
       "columns": [
         "issue_date",
         "report_week",
@@ -3945,13 +3945,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 708698,
+  "total_master_stacked_rows": 708700,
   "total_master_series_csvs": 166,
-  "total_stacked_rows": 708698,
+  "total_stacked_rows": 708700,
   "total_series_csvs": 166,
   "total_master_workbooks": 1,
   "total_series_count": 166,
-  "total_rows_extracted": 709003,
+  "total_rows_extracted": 709005,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 611,
     "advanced_shipping_demolition_series.csv": 2048,
@@ -4117,7 +4117,7 @@
     "xclusiv_macro_bunkers_series.csv": 1072,
     "xclusiv_newbuilding_orders_series.csv": 1363,
     "xclusiv_newbuilding_prices_series.csv": 2412,
-    "xclusiv_sales_series.csv": 5774,
+    "xclusiv_sales_series.csv": 5776,
     "xclusiv_secondhand_series.csv": 8700
   }
 }
