@@ -1,0 +1,381 @@
+{
+  "phase": "P0",
+  "sample_seed": 2280027823,
+  "generated": "2026-11-09",
+  "readiness": {
+    "R1": true,
+    "R2": true,
+    "R3": true,
+    "R4": true,
+    "R5": true,
+    "R6": true,
+    "R7": true
+  },
+  "readiness_notes": {
+    "R1": "scripts/validate_knowledge.py exit 0: Validation status PASS",
+    "R2": "0 open blockers in docs/PRE_GRAPHRAG_OPEN_ITEMS.md (all Blockers [x])",
+    "R3": "p0_inventory.json checks.R3 pass, failures 0 (source_file exists + sha256 match)",
+    "R4": "checks.R4 pass, failures 0 (parseable date)",
+    "R5": "NCFI 0 duplicate (issue_date,route) + 0 future; 5 deal tables carry 1-2 exact full-row dups each (printed twice at source, documented in plan note 2026-11-08)",
+    "R6": "4 open residuals routed in ledger (PRE_GRAPHRAG_OPEN_ITEMS.md L211/L235/L322/L326), not blockers",
+    "R7": "checks.R7 pass, failures 0 (no secrets)"
+  },
+  "tokens": {
+    "files": 20704,
+    "bytes": 402655330,
+    "table_bytes": 85446379,
+    "prose_bytes": 309347595,
+    "tokens": 102824299,
+    "with_sha256": 1070
+  },
+  "checks": {
+    "R3": {
+      "pass": true,
+      "failures": 0
+    },
+    "R4": {
+      "pass": true,
+      "failures": 0
+    },
+    "R7": {
+      "pass": true,
+      "failures": 0
+    }
+  },
+  "groups": {
+    "SEC 10-K": {
+      "files": 39,
+      "bytes": 19987432,
+      "table_bytes": 2602745,
+      "prose_bytes": 17374533,
+      "tokens": 4387078,
+      "min_date": "2015-03-02",
+      "max_date": "2026-05-27"
+    },
+    "SEC 10-Q": {
+      "files": 57,
+      "bytes": 8675764,
+      "table_bytes": 2095320,
+      "prose_bytes": 6565605,
+      "tokens": 2106079,
+      "min_date": "2020-11-02",
+      "max_date": "2026-11-05"
+    },
+    "SEC 20-F": {
+      "files": 261,
+      "bytes": 168053141,
+      "table_bytes": 23265431,
+      "prose_bytes": 144720678,
+      "tokens": 37065794,
+      "min_date": "2015-03-06",
+      "max_date": "2026-08-18"
+    },
+    "SEC 6-K": {
+      "files": 816,
+      "bytes": 43684772,
+      "table_bytes": 9704933,
+      "prose_bytes": 33761177,
+      "tokens": 10966199,
+      "min_date": "2022-02-15",
+      "max_date": "2026-11-06"
+    },
+    "SEC 8-K": {
+      "files": 191,
+      "bytes": 4660631,
+      "table_bytes": 1088048,
+      "prose_bytes": 3520639,
+      "tokens": 1157135,
+      "min_date": "2020-10-22",
+      "max_date": "2026-11-05"
+    },
+    "advanced_shipping": {
+      "files": 256,
+      "bytes": 3468529,
+      "table_bytes": 2039935,
+      "prose_bytes": 1353717,
+      "tokens": 1288667,
+      "min_date": "2021-07-02",
+      "max_date": "2026-11-06"
+    },
+    "affinity": {
+      "files": 253,
+      "bytes": 2125876,
+      "table_bytes": 345104,
+      "prose_bytes": 1665749,
+      "tokens": 514226,
+      "min_date": "2021-07-02",
+      "max_date": "2026-11-06"
+    },
+    "agora": {
+      "files": 217,
+      "bytes": 1743351,
+      "table_bytes": 633781,
+      "prose_bytes": 1045144,
+      "tokens": 591435,
+      "min_date": "2021-06-25",
+      "max_date": "2026-11-05"
+    },
+    "baltic": {
+      "files": 2254,
+      "bytes": 9172851,
+      "table_bytes": 300119,
+      "prose_bytes": 7733897,
+      "tokens": 2051056,
+      "min_date": "2015-01-09",
+      "max_date": "2026-11-06"
+    },
+    "banchero_costa": {
+      "files": 252,
+      "bytes": 12073505,
+      "table_bytes": 4426980,
+      "prose_bytes": 7567820,
+      "tokens": 4199459,
+      "min_date": "2021-07-02",
+      "max_date": "2026-11-02"
+    },
+    "breakwave": {
+      "files": 3549,
+      "bytes": 24712899,
+      "table_bytes": 327374,
+      "prose_bytes": 22803693,
+      "tokens": 6049160,
+      "min_date": "2018-07-03",
+      "max_date": "2026-11-06"
+    },
+    "carriers": {
+      "files": 137,
+      "bytes": 938507,
+      "table_bytes": 794081,
+      "prose_bytes": 97172,
+      "tokens": 364756,
+      "min_date": "2021-11-19",
+      "max_date": "2026-11-04"
+    },
+    "clarksons": {
+      "files": 184,
+      "bytes": 873237,
+      "table_bytes": 320942,
+      "prose_bytes": 454091,
+      "tokens": 248635,
+      "min_date": "2021-07-02",
+      "max_date": "2026-11-06"
+    },
+    "drewry": {
+      "files": 864,
+      "bytes": 4497320,
+      "table_bytes": 3009,
+      "prose_bytes": 4121961,
+      "tokens": 1037844,
+      "min_date": "2017-11-09",
+      "max_date": "2026-11-05"
+    },
+    "fearnleys": {
+      "files": 5067,
+      "bytes": 9255906,
+      "table_bytes": 2633,
+      "prose_bytes": 7853375,
+      "tokens": 1937455,
+      "min_date": "2018-07-18",
+      "max_date": "2026-11-05"
+    },
+    "fearnleys-md": {
+      "files": 189,
+      "bytes": 2214979,
+      "table_bytes": 43785,
+      "prose_bytes": 2072343,
+      "tokens": 598313,
+      "min_date": "2024-05-08",
+      "max_date": "2026-11-05"
+    },
+    "gibson": {
+      "files": 265,
+      "bytes": 4648709,
+      "table_bytes": 675318,
+      "prose_bytes": 3884504,
+      "tokens": 1172891,
+      "min_date": "2021-07-02",
+      "max_date": "2026-10-30"
+    },
+    "hellenic": {
+      "files": 2769,
+      "bytes": 36542896,
+      "table_bytes": 25931158,
+      "prose_bytes": 9353747,
+      "tokens": 14033559,
+      "min_date": "2021-07-02",
+      "max_date": "2026-11-07"
+    },
+    "intermodal": {
+      "files": 260,
+      "bytes": 7414625,
+      "table_bytes": 3763041,
+      "prose_bytes": 3584537,
+      "tokens": 2628508,
+      "min_date": "2021-07-06",
+      "max_date": "2026-11-03"
+    },
+    "ism": {
+      "files": 114,
+      "bytes": 602552,
+      "table_bytes": 0,
+      "prose_bytes": 574773,
+      "tokens": 145576,
+      "min_date": "2023-01-01",
+      "max_date": "2026-10-26"
+    },
+    "lion": {
+      "files": 52,
+      "bytes": 671492,
+      "table_bytes": 235333,
+      "prose_bytes": 410868,
+      "tokens": 243037,
+      "min_date": "2025-10-03",
+      "max_date": "2026-11-06"
+    },
+    "poten": {
+      "files": 1093,
+      "bytes": 5574794,
+      "table_bytes": 102322,
+      "prose_bytes": 5130858,
+      "tokens": 1213865,
+      "min_date": "2004-01-02",
+      "max_date": "2026-10-30"
+    },
+    "reference": {
+      "files": 12,
+      "bytes": 10082000,
+      "table_bytes": 587920,
+      "prose_bytes": 9482610,
+      "tokens": 2567668,
+      "min_date": "",
+      "max_date": ""
+    },
+    "seabrokers": {
+      "files": 99,
+      "bytes": 4204173,
+      "table_bytes": 1152517,
+      "prose_bytes": 3012146,
+      "tokens": 1049423,
+      "min_date": "2018-05-01",
+      "max_date": "2026-10-01"
+    },
+    "signal": {
+      "files": 458,
+      "bytes": 3759561,
+      "table_bytes": 3810,
+      "prose_bytes": 3521084,
+      "tokens": 872842,
+      "min_date": "2018-06-06",
+      "max_date": "2026-11-05"
+    },
+    "ssy": {
+      "files": 527,
+      "bytes": 1146910,
+      "table_bytes": 590031,
+      "prose_bytes": 411091,
+      "tokens": 398194,
+      "min_date": "2021-07-05",
+      "max_date": "2026-10-30"
+    },
+    "star_asia": {
+      "files": 201,
+      "bytes": 5493761,
+      "table_bytes": 1650709,
+      "prose_bytes": 3782725,
+      "tokens": 1558090,
+      "min_date": "2022-07-24",
+      "max_date": "2026-10-30"
+    },
+    "xclusiv": {
+      "files": 268,
+      "bytes": 6375157,
+      "table_bytes": 2760000,
+      "prose_bytes": 3487058,
+      "tokens": 2377355,
+      "min_date": "2021-07-26",
+      "max_date": "2026-11-02"
+    }
+  },
+  "sample": [
+    {
+      "file": "data/extracted/md/fearnleys/2023/fearnleys_2023_W12_Fearnleys-Weekly-Report-Week-11-March-15-2023.md",
+      "kind": "broker",
+      "group": "fearnleys",
+      "date": "2023-03-22",
+      "tokens": 1372,
+      "bytes": 6420
+    },
+    {
+      "file": "data/extracted/md/baltic/tanker/2022/2022-11-25_tanker-report-week-47_tanker.md",
+      "kind": "broker",
+      "group": "baltic",
+      "date": "2022-11-25",
+      "tokens": 1252,
+      "bytes": 5140
+    },
+    {
+      "file": "data/extracted/md/drewry/opinions/2026/2026-06-30_crude-tanker-scrapping-the-calm-before-the-storm.md",
+      "kind": "broker",
+      "group": "drewry",
+      "date": "2026-06-30",
+      "tokens": 1262,
+      "bytes": 6818
+    },
+    {
+      "file": "data/extracted/md/fearnleys/voice/dry_bulk/supramax/2025/2025-10-01_supramax_47d1ec21.md",
+      "kind": "broker",
+      "group": "fearnleys",
+      "date": "2025-10-01",
+      "tokens": 284,
+      "bytes": 1496
+    },
+    {
+      "file": "data/extracted/md/hellenic/dry_charter/2024/alibra_dry_2024-06-06.md",
+      "kind": "broker",
+      "group": "hellenic",
+      "date": "2024-06-06",
+      "tokens": 677,
+      "bytes": 1912
+    },
+    {
+      "file": "data/extracted/md/hellenic/demolition/best_oasis/2021/2021-09-25_best-oasis-weekly-recycling-market-report-24-september-2021_weekly-ship-recycling-report-3_75014cd0c6e1.md",
+      "kind": "broker",
+      "group": "hellenic",
+      "date": "2021-09-25",
+      "tokens": 1675,
+      "bytes": 7404
+    },
+    {
+      "file": "data/extracted/md/fearnleys/voice/chartering/chartering/2019/2019-02-04_chartering_59A7D331.md",
+      "kind": "broker",
+      "group": "fearnleys",
+      "date": "2019-02-04",
+      "tokens": 373,
+      "bytes": 1859
+    },
+    {
+      "file": "data/extracted/md/breakwave/insights/2020/2020-07-28_shifting-currents-beneath-the-calm-in-dry-bulk.md",
+      "kind": "broker",
+      "group": "breakwave",
+      "date": "2020-07-28",
+      "tokens": 1116,
+      "bytes": 5028
+    },
+    {
+      "file": "data/extracted/md/poten/2008/poten_2008-02-29_supremely-safe-sailing.md",
+      "kind": "broker",
+      "group": "poten",
+      "date": "2008-02-29",
+      "tokens": 620,
+      "bytes": 3120
+    },
+    {
+      "file": "data/extracted/md/poten/2011/poten_2011-10-28_tanker-prospects-2012-2016.md",
+      "kind": "broker",
+      "group": "poten",
+      "date": "2011-10-28",
+      "tokens": 1050,
+      "bytes": 5478
+    }
+  ]
+}

@@ -159,7 +159,9 @@ def main() -> int:
             continue
         for p in sorted(base.rglob("*.md")):
             rel = p.relative_to(base)
-            if kind == "broker" and rel.parts[0] in ("images",):
+            if kind == "broker" and rel.parts[0] in ("images", "books", "companies"):
+                # images/ are assets; books/ and companies/ are gitignored raw-extraction dumps whose canonical
+                # inputs live in corpus/books (reference) and corpus/10-companies (sec).
                 continue
             text = p.read_text(encoding="utf-8", errors="replace")
             fm = frontmatter(text)

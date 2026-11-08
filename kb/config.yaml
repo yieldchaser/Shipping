@@ -1,0 +1,49 @@
+# Provider pool and price table for kb/llm_runner.py (plan §7.5, §10.3).
+# Prices are USD per 1M tokens. Free capacity is used before paid.
+# A provider price of null means "measure in P-1 (router probe) before first chargeable pass".
+# The key is never stored here: the runner reads ROUTER_API_KEY (env) or
+# refs.ENCLAVE_API_KEY / refs.ULTRAFAST_API_KEY from ~/.dsh/.credentials.yaml.
+
+router:
+  base_url: "https://router.enclave.ai/v1"     # ROUTER_BASE_URL overrides
+  model_prefix: "cyberouter/"
+
+providers:
+  - id: enclave
+    kind: paid
+    base_url: "https://router.enclave.ai/v1"
+    key_source: ENCLAVE_API_KEY                # refs key name in credentials file
+    models:
+      - id: deepseek-v4-pro
+        price_in: 1.32
+        price_out: 3.96
+      - id: deepseek-v4-flash
+        price_in: null                          # measured in P-1
+        price_out: null
+    concurrency_max: 48
+
+  - id: ultrafast
+    kind: free
+    base_url: "https://ultrafast.trytokenfactory.dev/v1"
+    key_source: ULTRAFAST_API_KEY
+    daily_output_cap: 3000000                   # pipeline share of the 5M/day site budget (plan §11.1)
+    models:
+      - id: deepseek-v4.1-flash-1017-ultrafast
+        price_in: 0.0
+        price_out: 0.0
+    concurrency_max: 1
+
+# Pipeline hard caps (plan §10.3). The coding agent's own $45 is enforced by the gateway, not here.
+budget:
+  pipeline_cap_usd: 97
+  agent_cap_usd: 45
+  untouched_usd: 3
+  passes:
+    router_probe_plus_bakeoff: 7
+    p4c_bulk_extraction: 22
+    escalation_plus_gleaning: 17
+    entity_adjudication: 4
+    llm_prefixes: 1
+    period_summaries: 13
+    eval: 8
+    rerun_reserve: 9
