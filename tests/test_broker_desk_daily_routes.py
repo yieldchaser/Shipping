@@ -995,11 +995,14 @@ def test_no_code_speak_in_visible_copy():
     assert "gas_extra overlay on right axis" not in C
     # the two deal tables never print undefined/nan: fixed renderers guard them
     assert "String(x).trim().toLowerCase() === 'nan'" in C
-    assert "Number.isFinite(Number(FEARNLEYS_CONTROLLER.snpPage))" in C
+    # S&P pager (2026-09-21 rewrite): the page number is coerced and clamped before use
+    assert "let page = Number(FEARNLEYS_CONTROLLER.snpPage);" in C
+    assert "if (!Number.isFinite(page) || page < 1) page = 1;" in C
     # crisis callout speaks human: the stable invariant is the honest
     # "editorial estimate" attribution in the Red Sea callout region (the
     # exact sentence copy is free to evolve; the estimate provenance is not).
-    callout = re.search(r"Red Sea Rerouting Crisis.{0,600}", C, re.S)
+    # (the attribution sits in daysStr, built on the line before the sentence that prints it)
+    callout = re.search(r".{0,400}Red Sea Rerouting Crisis.{0,600}", C, re.S)
     assert callout, "Red Sea crisis callout missing"
     assert "editorial estimate" in callout.group(0).lower()
     assert "editorial estimate" in C  # JS-side estimate provenance string too

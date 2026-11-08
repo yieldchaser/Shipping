@@ -154,7 +154,8 @@ def test_port_stress_cache_write_path_idempotent():
 
 
 def test_frontend_fallback_matches_canonical():
-    """Frontend has no hub list of its own; its || 50 default matches truth."""
+    """Frontend has no hub list of its own and no typed hub count: it prints the cache's total or a dash."""
     html = (ROOT / "index.html").read_text(encoding="utf-8", errors="replace")
-    assert "sm.total_monitored || 50" in html
+    assert "sm.total_monitored || 50" not in html
+    assert "sm.total_monitored != null ? sm.total_monitored.toLocaleString('en-US') : '—'" in html
     assert "portStressSummaryPromise" in html

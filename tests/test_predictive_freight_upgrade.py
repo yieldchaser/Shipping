@@ -87,8 +87,9 @@ def test_wp3_predictive_signals_compiler_and_indices_correlation():
 def test_wp4_frontend_ui_wiring():
     """Verify index.html contains the predictive HUD badges, data loader, and Chart.js dual-axis."""
     # HUD badges and indicators
-    assert 'id="hudPredictiveAlerts"' in HTML
-    assert 'id="hudPredictiveAlertsSub"' in HTML
+    # The separate alerts KPI card went in the 6-KPI strip redesign (dad5206e7a, 2026-09-19); the count now shows in
+    # the header strip, and the renderer null-guards the retired card ids.
+    assert "if (hPred) hPred.textContent" in HTML and "if (hPredSub) hPredSub.textContent" in HTML
     assert 'id="hudPredictiveStrip"' in HTML
     assert 'id="hudPredictiveStripVal"' in HTML
 

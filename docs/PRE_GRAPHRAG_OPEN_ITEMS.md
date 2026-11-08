@@ -265,6 +265,22 @@ Build plan (layers, schema, DeepSeek runner, budget, phases and gates): `docs/GR
       catalogue's own criteria tests (IMO uniqueness, class limits) still fail; it is fleet-tracking reference
       data, not a GraphRAG input.
 
+- [x] Banchero W44 (2026-11-05) arrived and parsed in CI, but its 23 eyeballed chart tables stayed: CI lacked
+      `fonttools`, so `banchero_chart_note` failed silently. fonttools added to both workflows, the failure is now a
+      CI `::error::`, W44 cleaned (US LPG destination table kept: printed). All 782 W44 series values are printed.
+- [x] Poten 2004-2026: all 198 remaining tables checked number by number against the PDF text layer: 198 printed,
+      0 transcribed from a chart (the chart transcriptions were already replaced by notes).
+- [x] Seabrokers catalog (2026-11-08): each run re-resolved every PDF URL and wrote `pdf_url=None` over 67 entries
+      when rate-limited (11-03..07). Known URLs are now kept; the 67 restored (99/99).
+- [x] Test suite (2026-11-08): 19 of the 25 failures fixed (13 test files). Real code defects among them: the
+      Seabrokers catalog above, the ETF scenario default shock (hardcoded Jul/Aug/Sep, dollar passed as percent),
+      `|| true` in the broker-voice sync, Pages not redeploying after SEC filings, 9 glow/blur styles. The rest were
+      tests pinned to old data sizes or to code that was rewritten. Still failing (UI only, no GraphRAG input):
+      `test_ui_tabs` no_dash_kpis (Fearnleys "n/a", port-history latest date "-"), ui_copy_lint ("audit" and
+      "editorial estimate" on Tracking; the second is the Red Sea provenance another test requires: owner to pick
+      the wording), perf_budget (79.9 MB cumulative vs 58 MB, data growth), and `test_lf_writers` (about 650
+      hit lines: file writes without explicit LF). Benchmark catalogue: 86 FPSO/FSO/FSRU units classed as trading ships (strict xfail).
+
 ## Owner actions (not code)
 
 - LlamaCloud key rotation at the very end, then update the CI secret.
