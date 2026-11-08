@@ -21,6 +21,9 @@ ROOT = Path(__file__).resolve().parents[1]
 FROZEN = ["kb/gates.yaml", "kb/tripwire.py", "docs/GRAPHRAG_AGENT_TASK.md", "docs/GRAPHRAG_BUILD_PLAN.md"]
 PROTECTED = ["corpus", "data", "scripts", ".github/workflows"]
 ALLOWED_NEW_WORKFLOWS = ("kb_",)
+# Local run-state/log files that ingest scripts rewrite on every run; uncommitted changes to them are not edits.
+LOCAL_STATE_NAMES = ("_run_state.json",)
+LOCAL_STATE_SUFFIXES = (".log",)
 
 
 def git(*a):
@@ -40,6 +43,9 @@ def main():
     for line in git("diff", "--name-status", "origin/main", "--", *PROTECTED).splitlines():
         status, _, path = line.partition("\t")
         name = Path(path).name
+        committed = bool(git("diff", "--name-only", "origin/main", "HEAD", "--", path).strip())
+        if not committed and (name in LOCAL_STATE_NAMES or name.endswith(LOCAL_STATE_SUFFIXES)):
+            continue
         if path.startswith(".github/workflows/") and status == "A" and name.startswith(ALLOWED_NEW_WORKFLOWS):
             continue
         bad.append(f"protected path changed: {status} {path}")
