@@ -22,7 +22,8 @@ The owner wants to hand over the build and come back only at the two checkpoints
 |---|---|
 | Machine | Windows 11, i3-1215U, **8 GB RAM**, about 40 GB free |
 | Python | Python 3 is already installed with `duckdb`, `scipy`, `pydantic`, `openai`, `tiktoken`, `onnxruntime`. Install anything else into a venv at `kb/.venv` (git-ignored). |
-| LLM access | `ROUTER_BASE_URL` and `ROUTER_API_KEY` env vars, set by the owner. **Never read a key from any other place, print it, log it, write it to a file, or commit it.** If they are missing, stop (§6). |
+| Harness | You are running in DeepSeek Harness (dsh). Main model `cyberouter/deepseek-v4.1-flash` via the `enclave` provider; subagents may use `cyberouter/deepseek-v4-flash` or `cyberouter/deepseek-v4.1-flash`, at most 4 at once. Your own tokens are paid from the same router balance, so your share is capped at **$35** (§3 rule 5). |
+| LLM access for the pipeline | `kb/llm_runner.py` takes `ROUTER_API_KEY` from the environment if set, else `refs.ENCLAVE_API_KEY` from `~/.dsh/.credentials.yaml`. `ROUTER_BASE_URL` defaults to `https://router.enclave.ai/v1`. Model ids carry the `cyberouter/` prefix. **Never print, log, copy or commit the key**, and never open any other credentials file. If no key is found or the router returns 401/402/403, stop (§6). |
 | SEC requests | `SEC_USER_AGENT` env var. If it is missing, skip XBRL and log that, but do not invent a contact. |
 | State | All large state goes under `kb/state/`, which is git-ignored. Add it to `.gitignore` in your first commit. |
 | Repo | Public, and it stays public. |
@@ -34,8 +35,13 @@ The owner wants to hand over the build and come back only at the two checkpoints
 1. **Numbers never come from an LLM.** Layer-A facts come from CSVs, XBRL and table parsers only. LLM output numbers must appear in a code-sliced quote (plan §7.4).
 2. **Inputs are read-only.** Do not edit anything under `corpus/`, `data/`, `scripts/` or `.github/workflows/` (the one exception is the new `kb_*.yml` workflows). Write upstream defects to `kb/reports/upstream_defects.md`.
 3. **Pytest's conftest checks data dirs back out of git.** Never run pytest while another process is writing data. Your own tests go in `kb/tests/` and must not touch data dirs.
-4. **Budget.** Every LLM call goes through `kb/llm_runner.py` with its per-pass caps and the $135 global cap (plan §10.3). There are no direct API calls anywhere else.
-5. **You must not spend router credit on your own reasoning.** You are the coding agent and run on your own subscription. Do not route your own reasoning through the router.
+4. **Budget.** Every pipeline LLM call goes through `kb/llm_runner.py` with its per-pass caps and the $100 pipeline cap (plan §10.3). There are no direct API calls anywhere else.
+5. **Spend your own tokens carefully; they come out of the build budget.**
+   - Your share is $35. The pipeline's is $100.
+   - Never paste whole MD files, CSVs, logs or reports into your context. Read with `head`, `grep` and small samples; summarise long outputs with scripts.
+   - Do not watch long runs turn by turn. Start them in the background, then check `kb/logs/` at most every 20 minutes.
+   - Use subagents only for parallel coding of independent scripts or for reviewing a gate script, never to re-read the corpus.
+   - Record an estimate of your own spend in `STATUS.md` after every phase (turns × typical context). If the estimate passes $30, finish the current phase, then stop (§6) so the owner can check the dashboard balance.
 6. **Books** (`public_ok=false`) never appear in any committed file or any GitHub Release.
 7. **Secret scan before every commit.** Use `git diff --cached` and grep for `sk-`, `ghp_`, `AKIA`, `Bearer`, `llx-`, `nace_sk_` and anything that looks like a key or token. Abort the commit on a hit.
 8. **Git.** Work on branch `kb-build`. Commit after each phase passes its gate, with the phase report included. Do not push to `main`. Push `kb-build` to origin after each phase so the owner can follow progress.
@@ -80,7 +86,8 @@ Then stop and wait. Continue only when `kb/reports/C1_APPROVED.md` exists with t
 
 Stop, write `kb/reports/BLOCKED.md` (what happened, what you tried, what you need), commit, push and end the session when:
 
-- `ROUTER_API_KEY` or `ROUTER_BASE_URL` is missing, or the router returns 401/402/403;
+- no router key is found, or the router returns 401/402/403;
+- your own estimated spend passes $30 (rule 5);
 - a budget cap is reached and the remaining work for that pass is more than 5% of its scope;
 - a gate fails 3 times;
 - `model_returned` changes and re-scoring the gold set shows a drop of more than 2 F1 points;
@@ -95,6 +102,7 @@ A transient error (429, 5xx, timeout, network drop) is **not** a stop condition.
 
 | Step | Phase | Rough effort |
 |---|---|---|
+| 0 | Smoke test, before anything else: write the key loader in `kb/llm_runner.py` and send one 5-token request to `cyberouter/deepseek-v4-flash`. Record the `model` returned and the usage fields in `STATUS.md`. If it fails, stop (§6). | 10 minutes, < $0.01 |
 | 1 | P0 | 1 hour |
 | 2 | P0.5 | 1 day, mostly the frontmatter normaliser and the SEC sectioner |
 | 3 | P-1 | 1 hour, about $1 |

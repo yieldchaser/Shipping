@@ -24,7 +24,7 @@ The executable instructions for the agent that builds this are in `docs/GRAPHRAG
 | D8 | **Identity comes from keys, never from names.** IMO for vessels, CIK/LEI for companies, the Baltic code for routes, UN/LOCODE for ports. A name alone never creates or merges a vessel. | Name collisions over 20+ years and 23 publishers are certain. |
 | D9 | **Deals are deduplicated into canonical transactions.** One S&P sale reported by six brokers over three weeks is one `transaction` with six `mention`s. Conflicting prices are kept as separate claims. | Without this, counts and "who bought the most" questions are wrong. |
 | D10 | **Known gaps are data.** A `corpus_known_gaps` table records them, and the agent answers "the corpus has a gap here" instead of guessing or saying "did not happen". | Several series stop early (partner-country shares end at 2026-08), and publishers have missing weeks. |
-| D11 | **The code-writing agent must not spend the router credit.** The pipeline is written by a flat-rate coding agent and runs as plain Python. Router credit pays only for pipeline LLM calls. | A coding agent's own tokens (5–30M per day of work) would otherwise come out of the $145. |
+| D11 | **The coding agent is DeepSeek Harness (dsh) on the same router, with a ring-fenced share of $35.** Its main model is `cyberouter/deepseek-v4.1-flash`, subagents use v4-flash or v4.1-flash, and at most 4 run at once. The pipeline runner gets $100 and $10 is never touched. The pipeline itself runs as plain Python, so the agent's own tokens go to writing and fixing code, not to watching long runs. | The owner decided (2026-11-08) not to use a Claude subscription for this. The router is the only credit available, so the split must be explicit, or the agent's own tokens eat the extraction budget. |
 | D12 | **Book content stays out of every public artifact.** Books are indexed in the local knowledge base only. Their chunks, quotes and summaries are never committed and never published to a GitHub Release. | The repo is public and the books are copyrighted. Whether the book MDs themselves stay in the repo is still an open owner decision (ledger). |
 
 ---
@@ -432,10 +432,10 @@ The runner probes the router once to learn whether it accepts strict `tools`. If
 
 - **Ledger:** SQLite `jobs(job_key, pass, prompt_version, model, status, attempts, request_hash, in_tok, cached_tok, out_tok, cost_usd, finish_reason, latency_ms, model_returned, error, created_at)`. `job_key` = sha256(packed chunk shas + prompt_version + pass). Calls are idempotent and resumable, with a commit after every response.
 - **Concurrency:** asyncio. Start at 8 concurrent calls and ramp up to the highest level with error rate under 2% (cap 48). Exponential backoff with jitter on 429/5xx.
-- **Budget guard:** live spend is computed from the usage fields × the price table in `kb/config.yaml`. Each pass has its own hard cap (§10), and there is a global cap of **$135**, leaving $10 of credit untouched. The runner stops cleanly at any cap.
+- **Budget guard:** live spend is computed from the usage fields × the price table in `kb/config.yaml`. Each pass has its own hard cap (§10), and the pipeline's global cap is **$100** (the coding agent has its own $35 and $10 stays untouched). The runner stops cleanly at any cap.
 - **Drift guard:** `model_returned` is logged on every call. If it changes mid-run, the run pauses and the extraction gold set is re-scored before resuming.
 - **Ordering:** short documents and 6-Ks go first; the largest 20-F MD&A chunks go last. A cap stop then leaves the most coverage done.
-- **Keys:** read only from the environment variables `ROUTER_BASE_URL` and `ROUTER_API_KEY`. They are never written to a file, a log or the repo.
+- **Keys:** `ROUTER_API_KEY` from the environment if set; otherwise `refs.ENCLAVE_API_KEY` from `~/.dsh/.credentials.yaml` (the key dsh already uses). `ROUTER_BASE_URL` defaults to `https://router.enclave.ai/v1`. Model ids carry the `cyberouter/` prefix. The key is never printed, logged, copied to another file or committed.
 
 ### 7.6 Gleaning
 
@@ -517,19 +517,20 @@ USD per 1M tokens, input / output:
 
 | Pass | Planning volume | Cap |
 |---|---|---|
-| P-1 router probe + P4b bake-off + gold labels | ~1,200 calls | $8 |
-| P4c bulk extraction | 25–35M chunk tokens, ~9–11k packed calls, ~3.5k chunk + 2.5k prompt in, ~1.8k out | $45 (v4-flash ≈ $11–14, v4.1-flash ≈ $35–42) |
-| Escalation + targeted gleaning (≤ 10% of packed calls) | ~1k calls on the pro-tier model | $18 |
-| Entity adjudication (middle band only) | ~15k short calls | $5 |
-| LLM prefixes for generic chunks (only if more than 10%) | ≤ 15k short calls | $2 |
-| Period summaries (19 segments × ~150 months + parents) | ~3.5k leaf + ~700 parent calls | $14 |
-| Eval: gold Q&A generation + judging + 2 regression runs | | $10 |
-| Re-run reserve (one prompt fix over the failing slice) | | $15 |
-| Incremental reserve (left after the build; about 2–4 years at < $0.50/week) | | $18 |
+| **Coding agent (dsh) — writing, testing and fixing the pipeline** | main v4.1-flash, subagents v4-flash, ≤ 4 at once | **$35** (owner glances at the dashboard balance at C1) |
+| P-1 router probe + P4b bake-off + gold labels | ~1,200 calls | $7 |
+| P4c bulk extraction | 25–35M chunk tokens, ~9–11k packed calls, ~3.5k chunk + 2.5k prompt in, ~1.8k out | $22 (v4-flash ≈ $11–14; glm-5.3-flash ≈ $15–19; v4.1-flash only if its projection fits) |
+| Escalation + targeted gleaning (≤ 10% of packed calls) | ~1k calls on the pro-tier model | $17 |
+| Entity adjudication (middle band only) | ~15k short calls | $4 |
+| LLM prefixes for generic chunks (only if more than 10%) | ≤ 15k short calls | $1 |
+| Period summaries (19 segments × ~150 months + parents) | ~3.5k leaf + ~700 parent calls | $13 |
+| Eval: gold Q&A generation + judging + 2 regression runs | | $8 |
+| Re-run reserve (one prompt fix over the failing slice) | | $12 |
+| Incremental reserve (left after the build; about 1.5–3 years at < $0.50/week) | | $16 |
 | Untouched safety margin | | $10 |
-| **Total** | | **$145** |
+| **Total** | | **$145** (pipeline caps sum to $100) |
 
-If the bake-off picks the cheapest bulk model, about $30 of the bulk cap is released. It goes first to escalation, raising the share of escalated chunks to 25%, and then to the reserve.
+Money released by a cheaper bulk model goes first to escalation (raising the escalated share towards 25%), then to the reserve. It never goes to the coding agent.
 
 Embedding, BM25, resolution, PPR and all layer-A work cost $0: they run on runners or the laptop.
 
