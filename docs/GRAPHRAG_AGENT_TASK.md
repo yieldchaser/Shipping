@@ -6,7 +6,17 @@ The owner wants to hand over the build and come back only at the two checkpoints
 
 ## 0. End goal
 
-The finished system is a knowledge base over the whole maritime corpus that can answer questions like these:
+**Cross-connection and depth.** The owner must be able to ask *any* shipping question, shallow or deep, and get a right answer straight away, drawing on everything the corpus holds. Examples of the range:
+
+- A single rate on a single day.
+- A vessel's whole life: build, owners, names, charters, sale, scrapping.
+- A company's strategy across ten years of filings, and what brokers said about it at the time.
+- Why a market moved, linking events, rates, fleet, orderbook, commodities and trade flows.
+- Cycles and structural questions, connecting the books' concepts to the market data.
+
+The design must therefore link every entity, event, claim, number and document across publishers, filings and time, so that one question can pull in all the related evidence. Breadth of links and depth of evidence are the measure of success. It must still never invent anything.
+
+Concretely, it must answer questions like these:
 
 - "What was the TD3C TCE in week 40 2025?"
 - "Who bought the most Capesize resales in 2025, and what did they pay?"
