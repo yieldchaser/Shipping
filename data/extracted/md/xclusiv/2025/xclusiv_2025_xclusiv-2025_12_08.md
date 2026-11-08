@@ -152,14 +152,14 @@ On the Supramax sector, the OHBS and fitted with electronic M/E â€œGLOBAL PRIMEâ
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | ANTONIS ANGELICOUSSIS | Capesize | 177,855 | 2007 | CHINA | SWS | GREEK | $20.5M | BASIS DELIV- |
-| Bulk Carriers | POMPANO | Capesize | 174,219 | 2006 | CHINA | SWS | UNDISCLOSED | $17.0M | ERY IN MAY |
+| Bulk Carriers | ANTONIS ANGELICOUSSIS | Capesize | 177,855 | 2007 | CHINA | SWS | GREEK | $20.5M | - |
+| Bulk Carriers | POMPANO | Capesize | 174,219 | 2006 | CHINA | SWS | UNDISCLOSED | $17.0M | BASIS DELIVERY IN MAY |
 | Bulk Carriers | CLIA | Kamsarmax | 92,968 | 2012 | CHINA | AVIC WEIHAI | GREEK | $12.75M | - |
 | Bulk Carriers | PEACE ARK | Kamsarmax | 93,249 | 2010 | CHINA | JNS | CHINESE | $13.0M | - |
 | Bulk Carriers | URSULA MANX | Kamsarmax | 82,561 | 2021 | CHINA | TSUNEISHI ZHOUSHAN | BLUMENTHAL | $33.85M | - |
 | Bulk Carriers | ANNY PETRAKIS | Panamax | 75,181 | 2008 | CHINA | HUDONG | UNDISCLOSED | $10.0M | - |
-| Bulk Carriers | STAR EMILY | Panamax | 76,417 | 2004 | JAPAN | TSUNEISHI | CHINESE | $8.5M | OHBS, ELEC- |
-| Bulk Carriers | GLOBAL PRIME | Supramax | 56,013 | 2014 | JAPAN | OSHIMA | UNDISCLOSED | $21.0M | TRONIC M/E |
+| Bulk Carriers | STAR EMILY | Panamax | 76,417 | 2004 | JAPAN | TSUNEISHI | CHINESE | $8.5M | - |
+| Bulk Carriers | GLOBAL PRIME | Supramax | 56,013 | 2014 | JAPAN | OSHIMA | UNDISCLOSED | $21.0M | OHBS, ELECTRONIC M/E |
 | Bulk Carriers | JIN BI | Supramax | 56,361 | 2012 | CHINA | JIANGSU NEW HANTONG | XING LE INVESTMENTS | $14.4M | - |
 | Bulk Carriers | IOANNA D | Handysize | 34,816 | 2012 | CHINA | NANJING DONGZE | UNDISCLOSED | $10.5M | - |
 | Bulk Carriers | BAO SHUN | Handysize | 33,745 | 2005 | JAPAN | OSHIMA | MIDDLE EASTERN | $8.2M | - |
@@ -194,8 +194,8 @@ Tanker S&P activity continued this week with six sales reported across the crude
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
 | Tankers | TOWADA | VLCC | 305,801 | 2006 | JAPAN | MITSUBISHI | CHINESE | $45.7M | - |
-| Tankers | ZHOUSHAN CHANGHONG CHB5006 | MR2 | 50,000 | 2026 | CHINA | ZHOUSHAN CHANGHONG | UNDISCLOSED | $48.5M | FS ICE CLASS |
-| Tankers | AEGEA | MR2 | 51,371 | 2008 | S. KOREA | SLS | UNDISCLOSED | $14.5M | 1B |
+| Tankers | ZHOUSHAN CHANGHONG CHB5006 | MR2 | 50,000 | 2026 | CHINA | ZHOUSHAN CHANGHONG | UNDISCLOSED | $48.5M | - |
+| Tankers | AEGEA | MR2 | 51,371 | 2008 | S. KOREA | SLS | UNDISCLOSED | $14.5M | FS ICE CLASS 1B |
 | Tankers | MINERVA LYDIA | MR2 | 47,999 | 2004 | JAPAN | IWAGI | CHINESE | $10.4M | - |
 | Tankers | SEA ADORE | MR2 | 47,803 | 2004 | S. KOREA | HMD | INDIAN | $10.5M | - |
 | Tankers | ECO REVOLUTION | Small Tanker | 39,208 | 2016 | VIETNAM | HYUNDAI VINASHIN | NAVIGAZIONE MONTANARI | $32.0M | - |

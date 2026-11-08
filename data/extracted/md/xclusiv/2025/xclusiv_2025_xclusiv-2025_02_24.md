@@ -155,7 +155,7 @@ On the Newcastlemax sector, the “HL Frontier” - 208K/2010 Universal was sold
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | HL FRONTIER | Capesize | 207,945 | 2010 | JAPAN | UNIVERSAL | UNDISCLOSED | $32.5M | WITH SS/DD DUE |
+| Bulk Carriers | HL FRONTIER | Capesize | 207,945 | 2010 | JAPAN | UNIVERSAL | UNDISCLOSED | $32.5M | BASIS DELIVERY IN MAY WITH SS/DD DUE |
 | Bulk Carriers | BULK NORTHVILLE | Capesize | 169,126 | 2010 | S. KOREA | DAEHAN | UNDISCLOSED | $21.0M | - |
 | Bulk Carriers | CORA OLDENDORFF | Kamsarmax | 93,005 | 2012 | CHINA | TAIZHOU CATIC | CHINESE | $13.8M | - |
 | Bulk Carriers | PETALON | Kamsarmax | 87,328 | 2010 | CHINA | HUDONG ZHONGHUA | CHINESE | $10.9M | - |

@@ -66,7 +66,7 @@ jobs:
           python scripts/extract/publishers/seabrokers_series.py --new-only || true
           python scripts/verify/build_corpus_inventory.py --merge-existing || true
           python scripts/sync_extraction_register.py || true
-          python scripts/audit/generate_cadence_audit.py || true
+          python scripts/audit/generate_cadence_audit.py || echo "::warning::generate_cadence_audit failed; corpus cadence/audit xlsx not refreshed this run"
 
       - name: Commit and Push Offshore Updates
         env:

@@ -160,7 +160,7 @@ The Handymax “JIANG YUAN NAN JING”-49K/2003 NACKS was sold for USD 7.54 mill
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
 | Bulk Carriers | SEACON SHANGHAI | Kamsarmax | 80,811 | 2019 | CHINA CSSC | HUANGPU WENCHONG | DEXTER NAVIGATION | $26.7M | - |
-| Bulk Carriers | JIANG YUAN NAN | Supramax | JING 49,326 | 2003 | CHINA | NACKS | UNDISCLOSED | $7.54M | AUCTION |
+| Bulk Carriers | JIANG YUAN NAN JING | Supramax | 49,326 | 2003 | CHINA | NACKS | UNDISCLOSED | $7.54M | AUCTION |
 
 ### Tanker Secondhand Prices ($ mills)
 
@@ -191,8 +191,8 @@ On the VLCC sector, the sister vessels “DHT CHINA” – 317K/2007 Hyundai Sma
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Tankers | DHT CHINA | VLCC | 317,794 | 2007 | S. KOREA | HYUNDAI SAMHO | UNDISCLOSED | $101.6M | 2026 SCRUBBER FITTED, DELIVERY Q1 |
-| Tankers | DHT EUROPE | VLCC | 317,713 | 2007 | S. KOREA | HYUNDAI SAMHO | UNDISCLOSED | $101.6M | 2026 |
+| Tankers | DHT CHINA | VLCC | 317,794 | 2007 | S. KOREA | HYUNDAI SAMHO | UNDISCLOSED | $101.6M | SCRUBBER FITTED, DELIVERY Q1 2026 |
+| Tankers | DHT EUROPE | VLCC | 317,713 | 2007 | S. KOREA | HYUNDAI SAMHO | UNDISCLOSED | $101.6M | SCRUBBER FITTED, DELIVERY Q1 2026 |
 
 ---
 

@@ -160,13 +160,13 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | HL HARMONY | Capesize | 179,655 | 2015 | CHINA | DALIAN | JPM | $43.0M | 2026-JAN 2027 AT USD 24K/DAY |
+| Bulk Carriers | HL HARMONY | Capesize | 179,655 | 2015 | CHINA | DALIAN | JPM | $43.0M | SCRUBBER FITTED, ELECTRONIC M/E, TC TILL OCT 2026-JAN 2027 AT USD 24K/DAY |
 | Bulk Carriers | SPRING SAMCHEONPO | Capesize | 119,597 | 2009 | JAPAN | SANOYAS | CHINESE | $18.4M | - |
 | Bulk Carriers | FEDERICO II | Kamsarmax | 92,330 | 2009 | JAPAN | OSHIMA | CHINESE | $19.6M | - |
 | Bulk Carriers | SCARLET ISLAND | Kamsarmax | 81,842 | 2014 | PHILIPPINES | TSUNEISHI CEBU | GREEK | $29.0M | - |
 | Bulk Carriers | SAMMY | Kamsarmax | 82,167 | 2012 | JAPAN | TSUNEISHI | UNDISCLOSED | $24.0M | - |
-| Bulk Carriers | ARIES SUMIRE | Ultramax | 64,276 | 2020 | JAPAN | SHIN KURUSHIMA | UNDISCLOSED | $36.3M | ELECTRONIC M/E, TC AT |
-| Bulk Carriers | KMARIN GENOA | Ultramax | 63,253 | 2014 | CHINA | JIANGSU NEW HANTONG | UNDISCLOSED | $20.0M | USD 10.1K/DAY TILL SEP 2024/MAR 2025 |
+| Bulk Carriers | ARIES SUMIRE | Ultramax | 64,276 | 2020 | JAPAN | SHIN KURUSHIMA | UNDISCLOSED | $36.3M | - |
+| Bulk Carriers | KMARIN GENOA | Ultramax | 63,253 | 2014 | CHINA | JIANGSU NEW HANTONG | UNDISCLOSED | $20.0M | ELECTRONIC M/E, TC AT USD 10.1K/DAY TILL SEP 2024/MAR 2025 |
 | Bulk Carriers | RUI FU AN | Supramax | 56,578 | 2013 | CHINA | JIANGSU NEW HANTONG | UNDISCLOSED | $17.0M | ELECTRONIC M/E |
 | Bulk Carriers | DAIDAN MUSTIKAWATI | Supramax | 55,765 | 2005 | JAPAN | KAWASAKI | CHINESE | $11.0M | - |
 | Bulk Carriers | SUSANOO HARMONY | Handysize | 37,140 | 2020 | JAPAN | SAIKI | UNDISCLOSED | $29.5M | - |

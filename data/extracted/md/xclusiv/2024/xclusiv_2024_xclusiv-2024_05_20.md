@@ -161,15 +161,15 @@ Demand for Newcastlemax bulkers remains strong, with 3 vessels sold this week. S
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
 | Bulk Carriers | TRUST SHANGHAI | Capesize | 209,523 | 2021 | CHINA | SWS | NORDEN | $73.0M | SCRUBBER FITTED |
-| Bulk Carriers | TRUST QINGDAO | Capesize | 209,301 | 2021 | CHINA | SWS | NORDEN | EACH | SCRUBBER FITTED SCRUBBER FITTED, TC AT- TACHED AT 130% (LESS 3.75%) |
-| Bulk Carriers | FOMENTO ONE | Capesize | 206,810 | 2016 | S. KOREA | DAEHAN | GREEK | $55.0M | 5TC INDEX TO OLDENDORFF TILL LATEST AUG 2025 |
+| Bulk Carriers | TRUST QINGDAO | Capesize | 209,301 | 2021 | CHINA | SWS | NORDEN | $73.0M | SCRUBBER FITTED |
+| Bulk Carriers | FOMENTO ONE | Capesize | 206,810 | 2016 | S. KOREA | DAEHAN | GREEK | $55.0M | SCRUBBER FITTED, TC ATTACHED AT 130% (LESS 3.75%) 5TC INDEX TO OLDENDORFF TILL LATEST AUG 2025 |
 | Bulk Carriers | EL GRASSO | Capesize | 181,365 | 2012 | JAPAN | IMABARI | AGRICORE | $35.75M | - |
 | Bulk Carriers | VINCENT TALISMAN | Kamsarmax | 81,577 | 2020 | CHINA | JIANGSU HANTONG | GREEK | $33.0M | - |
 | Bulk Carriers | YING HAO 03 | Panamax | 76,037 | 2012 | CHINA | HUDONG ZHONGHUA | CHINESE | $17.0M | - |
 | Bulk Carriers | V RICH | Supramax | 56,546 | 2014 | CHINA | JIANGSU HANTONG | PIONEER MARINE | $18.0M | ELECTRONIC M/E |
 | Bulk Carriers | MARYLAKI | Supramax | 58,114 | 2010 | CHINA | TSUNEISHI ZHOUSHAN | UNDISCLOSED | $17.0M | - |
-| Bulk Carriers | TAWAKI | Handysize | 39,855 | 2014 | CHINA | CHENGXI | UNDISCLOSED | $19.0M | CLASS 1C, ELECTRONIC M/ |
-| Bulk Carriers | SEVGI | Handysize | 28,164 | 2012 | CHINA | HUANGHAI | UNDISCLOSED | $16.2M | AUCTION SALE, 1,746 TEU |
+| Bulk Carriers | TAWAKI | Handysize | 39,855 | 2014 | CHINA | CHENGXI | UNDISCLOSED | $19.0M | - |
+| Bulk Carriers | SEVGI | Handysize | 28,164 | 2012 | CHINA | HUANGHAI | UNDISCLOSED | $16.2M | ICE CLASS 1C, ELECTRONIC M/E, AUCTION SALE, 1,746 TEU |
 | Bulk Carriers | PERSENK | Handysize | 30,361 | 2010 | CHINA | CHENGXI | UNDISCLOSED | $10.3M | - |
 | Bulk Carriers | BELMEKEN | Handysize | 30,347 | 2010 | CHINA | CHENGXI | UNDISCLOSED | $10.3M | - |
 

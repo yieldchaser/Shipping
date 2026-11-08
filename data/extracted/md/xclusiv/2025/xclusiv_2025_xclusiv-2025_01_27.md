@@ -152,7 +152,7 @@ On the Capesize sector, the “Global Enterprise”- 177K/2010 Namura was sold v
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | GLOBAL ENTERPRISE | Capesize | 176,768 | 2010 | JAPAN | NAMURA | KOREAN | $29.0M | OPTION |
+| Bulk Carriers | GLOBAL ENTERPRISE | Capesize | 176,768 | 2010 | JAPAN | NAMURA | KOREAN | $29.0M | BASIS DD DUE, PURCHASE OPTION |
 | Bulk Carriers | KLEISOURA | Kamsarmax | 80,982 | 2017 | JAPAN | JMU | UNDISCLOSED | $28.0M | - |
 | Bulk Carriers | ATHINA II | Kamsarmax | 82,014 | 2015 | JAPAN | SANOYAS | UNDISCLOSED | $25.0M | - |
 | Bulk Carriers | VOLOS | Kamsarmax | 82,172 | 2014 | JAPAN | SANOYAS | GREEK | $24.5M | - |

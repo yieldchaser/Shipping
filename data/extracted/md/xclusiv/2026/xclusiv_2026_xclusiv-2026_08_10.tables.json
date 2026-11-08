@@ -135,7 +135,7 @@
       "BUYERS": "SEANERGY",
       "PRICE": "50",
       "PRICE_USD_MILL": 50.0,
-      "COMMENTS": "Q2 2029",
+      "COMMENTS": "BASIS DELIVERY Q4 2028 - Q2 2029",
       "source_file": "xclusiv_2026_xclusiv-2026_08_10.pdf"
     },
     {
@@ -271,7 +271,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "7.4",
       "PRICE_USD_MILL": 7.4,
-      "COMMENTS": "BASIS TC ATTACHED TILL END",
+      "COMMENTS": "",
       "source_file": "xclusiv_2026_xclusiv-2026_08_10.pdf"
     },
     {
@@ -288,7 +288,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "18.8",
       "PRICE_USD_MILL": 18.8,
-      "COMMENTS": "2026 AT USD 12K/DAY",
+      "COMMENTS": "BASIS TC ATTACHED TILL END 2026 AT USD 12K/DAY",
       "source_file": "xclusiv_2026_xclusiv-2026_08_10.pdf"
     }
   ],

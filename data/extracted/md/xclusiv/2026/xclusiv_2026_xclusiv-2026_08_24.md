@@ -158,8 +158,8 @@ On the Capesize sector, the “MOUNT DAMPIER” - 181K/2011 Imabari was sold for
 | Bulk Carriers | MOUNT DAMPIER | Capesize | 181,469 | 2011 | JAPAN | IMABARI | UNDISCLOSED | $38.0M | - |
 | Bulk Carriers | IVESTOS 9 | Panamax | 75,131 | 2008 | CHINA | HUDONG ZHONGHUA | UNDISCLOSED | $11.75M | - |
 | Bulk Carriers | AMARYLLIS | Ultramax | 63,500 | 2013 | CHINA | YANGZHOU DAYANG | CHINESE BUYERS | $24.3M | BASIS SS/DD PASSED |
-| Bulk Carriers | AFRICAN WAGTAIL | Supramax | 58,340 | 2013 | CHINA | DALIAN COSCO | UNDISCLOSED | $20.0M | AUCTION WITH IMME- |
-| Bulk Carriers | CBW LIAN YUN GANG | Supramax | 56,869 | 2011 | CHINA | XIAMEN | ERN BUYERS | $10.5M | DIATE DRYDOCK |
+| Bulk Carriers | AFRICAN WAGTAIL | Supramax | 58,340 | 2013 | CHINA | DALIAN COSCO | UNDISCLOSED | $20.0M | - |
+| Bulk Carriers | CBW LIAN YUN GANG | Supramax | 56,869 | 2011 | CHINA | XIAMEN | ERN BUYERS | $10.5M | AUCTION WITH IMMEDIATE DRYDOCK |
 | Bulk Carriers | ARKLOW SPIRIT | Handysize | 36,006 | 2013 | S. KOREA | DAESUN | GREEK BUYERS | $16.6M | ECO M/E |
 
 ### Tanker Secondhand Prices ($ mills)

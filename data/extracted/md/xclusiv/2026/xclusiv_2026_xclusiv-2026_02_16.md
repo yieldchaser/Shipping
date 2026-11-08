@@ -160,12 +160,12 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | STAR SCARLETT | Capesize | 175,649 | 2014 | CHINA | JINHAI | CHINESE | $36.0M | SCRUBBER FITTED SCRUBBER FITTED, BASIS TC |
-| Bulk Carriers | MICHALIS H | Capesize | 180,355 | 2012 | CHINA | DALIAN | CHINESE | $35.2M | ATTACHED AT USD 27,250/ DAY TILL Q4 2026 |
+| Bulk Carriers | STAR SCARLETT | Capesize | 175,649 | 2014 | CHINA | JINHAI | CHINESE | $36.0M | SCRUBBER FITTED |
+| Bulk Carriers | MICHALIS H | Capesize | 180,355 | 2012 | CHINA | DALIAN | CHINESE | $35.2M | SCRUBBER FITTED, BASIS TC ATTACHED AT USD 27,250/DAY TILL Q4 2026 |
 | Bulk Carriers | EPIC | Capesize | 182,060 | 2010 | DENMARK |  | EUROPEAN | $32.2M | - |
 | Bulk Carriers | CAPE BRAZIL | Capesize | 177,897 | 2010 | CHINA | SWS | UNDISCLOSED | $31.0M | - |
 | Bulk Carriers | BULK XAYMACA | Panamax | 76,561 | 2006 | JAPAN | IMABARI | UNDISCLOSED | $9.4M | - |
-| Bulk Carriers | QIDONG XIANGYU XY197 | Ultramax | 63,800 | 2026 | CHINA | NANTONG XIANGYU | GREEK | $36.5M | AUGUST 2026, ON SUBS |
+| Bulk Carriers | QIDONG XIANGYU XY197 | Ultramax | 63,800 | 2026 | CHINA | NANTONG XIANGYU | GREEK | $36.5M | BASIS DELIVERY EX-YARD AUGUST 2026, ON SUBS |
 | Bulk Carriers | BERGE TATEYAMA | Ultramax | 63,511 | 2020 | JAPAN | SHIN KASADO | UNDISCLOSED | $34.0M | - |
 | Bulk Carriers | EXPLORER AMERICA | Ultramax | 61,684 | 2011 | JAPAN | OSHIMA | UNDISCLOSED | $18.2M | - |
 | Bulk Carriers | FORTUNE TIGER | Supramax | 58,159 | 2013 | PHILIPPINES | TSUNEISHI CEBU | UNDISCLOSED | $19.0M | - |
@@ -218,8 +218,8 @@ In the Suezmax sector, Greek buyers were linked to the acquisition of the modern
 | Tankers | FS ENDEAVOR | Aframax | 108,994 | 2012 | JAPAN | NAMURA | GREEK | $86.0M | COATED, SCRUBBER FITTED |
 | Tankers | CAPE TEES | Panamax | 73,731 | 2009 | CHINA | NEW TIMES | TRAFIGURA | $42.0M | COATED |
 | Tankers | CAPE TALLIN | Panamax | 73,662 | 2008 | CHINA | NEW TIMES | TRAFIGURA | $42.0M | COATED |
-| Tankers | PGC ALEXANDRIA | Panamax | 74,996 | 2006 | JAPAN | ONOMICHI | UNDISCLOSED | $15.75M | COATED SCRUBBER FITTED, ZINC |
-| Tankers | CABO NEGRO II | MR2 | 47,236 | 2006 | JAPAN | SHIN KURUSHIMA | UNDISCLOSED | $14.0M | COATED |
+| Tankers | PGC ALEXANDRIA | Panamax | 74,996 | 2006 | JAPAN | ONOMICHI | UNDISCLOSED | $15.75M | COATED |
+| Tankers | CABO NEGRO II | MR2 | 47,236 | 2006 | JAPAN | SHIN KURUSHIMA | UNDISCLOSED | $14.0M | SCRUBBER FITTED, ZINC COATED |
 
 ---
 

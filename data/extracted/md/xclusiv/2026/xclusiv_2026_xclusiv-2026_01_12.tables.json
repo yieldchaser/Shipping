@@ -647,7 +647,7 @@
       "BUYERS": "GREEK",
       "PRICE": "39 EACH",
       "PRICE_USD_MILL": 39.0,
-      "COMMENTS": "ZINC COTATED ELECTRONIC M/E, BA-",
+      "COMMENTS": "ZINC COTATED",
       "source_file": "xclusiv_2026_xclusiv-2026_01_12.pdf"
     },
     {
@@ -664,7 +664,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "29.5",
       "PRICE_USD_MILL": 29.5,
-      "COMMENTS": "SIS DD DUE",
+      "COMMENTS": "ELECTRONIC M/E, BASIS DD DUE",
       "source_file": "xclusiv_2026_xclusiv-2026_01_12.pdf"
     },
     {

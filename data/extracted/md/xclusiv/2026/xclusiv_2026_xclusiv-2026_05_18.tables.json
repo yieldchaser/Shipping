@@ -290,7 +290,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "11",
       "PRICE_USD_MILL": 11.0,
-      "COMMENTS": "SCRUBBER FITTED,",
+      "COMMENTS": "",
       "source_file": "xclusiv_2026_xclusiv-2026_05_18.pdf"
     },
     {
@@ -307,7 +307,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "HIGH 9",
       "PRICE_USD_MILL": 9.0,
-      "COMMENTS": "DD DUE",
+      "COMMENTS": "SCRUBBER FITTED, DD DUE",
       "source_file": "xclusiv_2026_xclusiv-2026_05_18.pdf"
     },
     {
@@ -477,7 +477,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "EXCESS 70",
       "PRICE_USD_MILL": 70.0,
-      "COMMENTS": "SCRUBBER FITTED TC FREE DELIVERY AUGUST -",
+      "COMMENTS": "SCRUBBER FITTED",
       "source_file": "xclusiv_2026_xclusiv-2026_05_18.pdf"
     },
     {
@@ -494,7 +494,7 @@
       "BUYERS": "MARITIME",
       "PRICE": "28.45",
       "PRICE_USD_MILL": 28.45,
-      "COMMENTS": "NOVEMBER",
+      "COMMENTS": "TC FREE DELIVERY AUGUST - NOVEMBER",
       "source_file": "xclusiv_2026_xclusiv-2026_05_18.pdf"
     },
     {

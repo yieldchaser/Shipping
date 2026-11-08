@@ -247,9 +247,9 @@
       "report_week": 14,
       "section": "Bulk Carriers",
       "page": 5,
-      "NAME": "NANTONG XIANGYU",
-      "TYPE": "Handysize",
-      "DWT": "XY134 63,550",
+      "NAME": "NANTONG XIANGYU XY134",
+      "TYPE": "Ultramax",
+      "DWT": "63,550",
       "YEAR": "2025",
       "COUNTRY": "CHINA",
       "YARD": "NANTONG XIANGYU",
@@ -307,7 +307,7 @@
       "BUYERS": "CHINESE",
       "PRICE": "11.8",
       "PRICE_USD_MILL": 11.8,
-      "COMMENTS": "OHBS, BASIS DECEMBER",
+      "COMMENTS": "",
       "source_file": "xclusiv_2025_xclusiv-2025_04_07_compressed.pdf"
     },
     {
@@ -324,7 +324,7 @@
       "BUYERS": "GREEK",
       "PRICE": "20",
       "PRICE_USD_MILL": 20.0,
-      "COMMENTS": "CANCELLING",
+      "COMMENTS": "OHBS, BASIS DECEMBER CANCELLING",
       "source_file": "xclusiv_2025_xclusiv-2025_04_07_compressed.pdf"
     },
     {

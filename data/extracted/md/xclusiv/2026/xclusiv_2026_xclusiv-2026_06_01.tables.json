@@ -309,7 +309,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "HIGH 10",
       "PRICE_USD_MILL": 10.0,
-      "COMMENTS": "OHBS, BASIS DELIVERY EX-",
+      "COMMENTS": "",
       "source_file": "xclusiv_2026_xclusiv-2026_06_01.pdf"
     },
     {
@@ -326,7 +326,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "35.6",
       "PRICE_USD_MILL": 35.6,
-      "COMMENTS": "YARD JUNE-JULY 2026",
+      "COMMENTS": "OHBS, BASIS DELIVERY EX-YARD JUNE-JULY 2026",
       "source_file": "xclusiv_2026_xclusiv-2026_06_01.pdf"
     },
     {
@@ -341,7 +341,7 @@
       "COUNTRY": "S. KOREA",
       "YARD": "DAEHAN",
       "BUYERS": "UNDISCLOSED",
-      "PRICE": "ENBLOC",
+      "PRICE": "258.8 ENBLOC",
       "PRICE_USD_MILL": 258.8,
       "COMMENTS": "SCRUBBER FITTED, COATED",
       "source_file": "xclusiv_2026_xclusiv-2026_06_01.pdf"
@@ -358,7 +358,7 @@
       "COUNTRY": "S. KOREA",
       "YARD": "DAEHAN",
       "BUYERS": "UNDISCLOSED",
-      "PRICE": "258.8",
+      "PRICE": "258.8 ENBLOC",
       "PRICE_USD_MILL": 258.8,
       "COMMENTS": "SCRUBBER FITTED, COATED",
       "source_file": "xclusiv_2026_xclusiv-2026_06_01.pdf"
@@ -375,7 +375,7 @@
       "COUNTRY": "S. KOREA",
       "YARD": "DAEHAN",
       "BUYERS": "UNDISCLOSED",
-      "PRICE": "ENBLOC",
+      "PRICE": "258.8 ENBLOC",
       "PRICE_USD_MILL": 258.8,
       "COMMENTS": "SCRUBBER FITTED, COATED",
       "source_file": "xclusiv_2026_xclusiv-2026_06_01.pdf"
@@ -392,7 +392,7 @@
       "COUNTRY": "S. KOREA",
       "YARD": "HYUNDAI SAMHO",
       "BUYERS": "UNDISCLOSED",
-      "PRICE": "ENBLOC",
+      "PRICE": "258.8 ENBLOC",
       "PRICE_USD_MILL": 258.8,
       "COMMENTS": "SCRUBBER FITTED, COATED",
       "source_file": "xclusiv_2026_xclusiv-2026_06_01.pdf"

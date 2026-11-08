@@ -171,7 +171,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "10.5",
       "PRICE_USD_MILL": 10.5,
-      "COMMENTS": "BASIS SURVEYS",
+      "COMMENTS": "",
       "source_file": "xclusiv_2024_xclusiv-2024_12_09.pdf"
     },
     {
@@ -188,7 +188,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "LOW 7",
       "PRICE_USD_MILL": 7.0,
-      "COMMENTS": "DUE",
+      "COMMENTS": "BASIS SURVEYS DUE",
       "source_file": "xclusiv_2024_xclusiv-2024_12_09.pdf"
     },
     {
@@ -256,7 +256,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "24.8 TC",
       "PRICE_USD_MILL": 24.8,
-      "COMMENTS": "ATTACHED AT USD 20K TILL 04/2026",
+      "COMMENTS": "TC ATTACHED AT USD 20K TILL 04/2026",
       "source_file": "xclusiv_2024_xclusiv-2024_12_09.pdf"
     },
     {

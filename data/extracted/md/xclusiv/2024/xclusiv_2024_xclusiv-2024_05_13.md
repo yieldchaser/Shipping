@@ -166,8 +166,8 @@ Finally, the 2015-built OHBS Handysize “Cielo Di Valparaiso” – 39k/2015 - 
 | Bulk Carriers | NORD FERRUM | Capesize | 179,678 | 2011 | PHILIPPINES | HHIC | GREEK | $34.0M | SCRUBBER FITTED |
 | Bulk Carriers | VALIANT SUMMER | Kamsarmax | 81,920 | 2016 | CHINA | TSUNEISHI ZHOUSHAN | BLUMENTHAL | $32.5M | - |
 | Bulk Carriers | ASL URANUS | Kamsarmax | 82,372 | 2008 | JAPAN | OSHIMA | UNDISCLOSED | $17.0M | - |
-| Bulk Carriers | SSI PRIVILEGE | Ultramax | 63,566 | 2019 | CHINA | JINLING | UNDISCLOSED | $31.8M | BASIS TC FREE DELIVERY IN |
-| Bulk Carriers | PING HAI | Ultramax | 62,623 | 2017 | JAPAN | OSHIMA | TURKISH | $32.0M | JULY, DD DUE |
+| Bulk Carriers | SSI PRIVILEGE | Ultramax | 63,566 | 2019 | CHINA | JINLING | UNDISCLOSED | $31.8M | - |
+| Bulk Carriers | PING HAI | Ultramax | 62,623 | 2017 | JAPAN | OSHIMA | TURKISH | $32.0M | BASIS TC FREE DELIVERY IN JULY, DD DUE |
 | Bulk Carriers | BELFRIEND | Supramax | 57,679 | 2016 | PHILIPPINES | TSUNEISHI CEBU | UNDISCLOSED | $56.6M | - |
 | Bulk Carriers | BELTIDE | Supramax | 57,679 | 2016 | PHILIPPINES | TSUNEISHI CEBU | UNDISCLOSED | $56.6M | - |
 | Bulk Carriers | CHEVAL BLANC | Supramax | 56,732 | 2009 | CHINA | HANTONG | UNDISCLOSED | $11.0M | - |

@@ -237,9 +237,9 @@
       "COUNTRY": "JAPAN",
       "YARD": "UNIVERSAL",
       "BUYERS": "UNDISCLOSED",
-      "PRICE": "160",
+      "PRICE": "160 ENBLOC",
       "PRICE_USD_MILL": 160.0,
-      "COMMENTS": "OLD SALE, NOT DELIV-",
+      "COMMENTS": "OLD SALE, NOT DELIVERED YET",
       "source_file": "xclusiv_06_10_2026_xclusiv_shipbrokers_weekly_05th_october_2026.pdf"
     },
     {
@@ -254,9 +254,9 @@
       "COUNTRY": "S. KOREA",
       "YARD": "DAEWOO",
       "BUYERS": "UNDISCLOSED",
-      "PRICE": "ENBLOC",
-      "PRICE_USD_MILL": 80.0,
-      "COMMENTS": "ERED YET",
+      "PRICE": "160 ENBLOC",
+      "PRICE_USD_MILL": 160.0,
+      "COMMENTS": "OLD SALE, NOT DELIVERED YET",
       "source_file": "xclusiv_06_10_2026_xclusiv_shipbrokers_weekly_05th_october_2026.pdf"
     },
     {
@@ -307,7 +307,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "65",
       "PRICE_USD_MILL": 65.0,
-      "COMMENTS": "ELECTRONIC M/E,",
+      "COMMENTS": "",
       "source_file": "xclusiv_06_10_2026_xclusiv_shipbrokers_weekly_05th_october_2026.pdf"
     },
     {
@@ -324,7 +324,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "70",
       "PRICE_USD_MILL": 70.0,
-      "COMMENTS": "SCRUBBER FITTED ELECTRONIC M/E, ,",
+      "COMMENTS": "ELECTRONIC M/E, SCRUBBER FITTED",
       "source_file": "xclusiv_06_10_2026_xclusiv_shipbrokers_weekly_05th_october_2026.pdf"
     },
     {
@@ -341,7 +341,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "73",
       "PRICE_USD_MILL": 73.0,
-      "COMMENTS": "SCRUBBER FITTED",
+      "COMMENTS": "ELECTRONIC M/E, , SCRUBBER FITTED",
       "source_file": "xclusiv_06_10_2026_xclusiv_shipbrokers_weekly_05th_october_2026.pdf"
     },
     {
@@ -356,7 +356,7 @@
       "COUNTRY": "CHINA",
       "YARD": "NEW TIMES",
       "BUYERS": "UAE BUYERS",
-      "PRICE": "110",
+      "PRICE": "110 ENBLOC",
       "PRICE_USD_MILL": 110.0,
       "COMMENTS": "",
       "source_file": "xclusiv_06_10_2026_xclusiv_shipbrokers_weekly_05th_october_2026.pdf"
@@ -373,7 +373,7 @@
       "COUNTRY": "CHINA",
       "YARD": "NEW TIMES",
       "BUYERS": "UAE BUYERS",
-      "PRICE": "ENBLOC",
+      "PRICE": "110 ENBLOC",
       "PRICE_USD_MILL": 110.0,
       "COMMENTS": "",
       "source_file": "xclusiv_06_10_2026_xclusiv_shipbrokers_weekly_05th_october_2026.pdf"
@@ -451,6 +451,23 @@
       "report_week": 40,
       "section": "Tankers",
       "page": 6,
+      "NAME": "MP MR TANKER 1",
+      "TYPE": "MR2",
+      "DWT": "49,999",
+      "YEAR": "2011",
+      "COUNTRY": "S. KOREA",
+      "YARD": "HMD",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "29.3",
+      "PRICE_USD_MILL": 29.3,
+      "COMMENTS": "DELIVERY IN DEC",
+      "source_file": "xclusiv_06_10_2026_xclusiv_shipbrokers_weekly_05th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-05",
+      "report_week": 40,
+      "section": "Tankers",
+      "page": 6,
       "NAME": "LEON GRACE",
       "TYPE": "MR2",
       "DWT": "49,999",
@@ -477,7 +494,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "4.5",
       "PRICE_USD_MILL": 4.5,
-      "COMMENTS": "BASIS DECEMBER",
+      "COMMENTS": "",
       "source_file": "xclusiv_06_10_2026_xclusiv_shipbrokers_weekly_05th_october_2026.pdf"
     },
     {
@@ -494,7 +511,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "19",
       "PRICE_USD_MILL": 19.0,
-      "COMMENTS": "2026 CANCELLING",
+      "COMMENTS": "BASIS DECEMBER 2026 CANCELLING",
       "source_file": "xclusiv_06_10_2026_xclusiv_shipbrokers_weekly_05th_october_2026.pdf"
     },
     {

@@ -160,11 +160,11 @@ It was a very active week, with 16 vessels finding new owners. On the Capesize s
 | Bulk Carriers | NAUTILUS | Panamax | 73,389 | 2001 | JAPAN | SUMITOMO | UNDISCLOSED | $6.5M | - |
 | Bulk Carriers | IVS GLENEAGLES | Supramax | 58,071 | 2016 | JAPAN | SHIN KURUSHIMA | UNDISCLOSED | $23.0M | - |
 | Bulk Carriers | CS SONOMA | Supramax | 56,704 | 2010 | CHINA | JIANGSU HANTONG | S EAST ASIAN | $11.3M | SCRUBBER FITTED |
-| Bulk Carriers | NEW VENTURE | Supramax | 53,390 | 2009 | CHINA | CHENGXI | UNDISCLOSED | $10.0M | BASIS DELIVERY END APRIL/ |
-| Bulk Carriers | JIN SHUN | Supramax | 53,350 | 2007 | CHINA | SHANGHAI SHIPYARD | YUHE SHIPPING | $8.26M | MAY 2025 |
+| Bulk Carriers | NEW VENTURE | Supramax | 53,390 | 2009 | CHINA | CHENGXI | UNDISCLOSED | $10.0M | - |
+| Bulk Carriers | JIN SHUN | Supramax | 53,350 | 2007 | CHINA | SHANGHAI SHIPYARD | YUHE SHIPPING | $8.26M | BASIS DELIVERY END APRIL/MAY 2025 |
 | Bulk Carriers | MOONDANCE II | Supramax | 55,566 | 2005 | CHINA | NACKS | UNDISCLOSED | $8.0M | - |
-| Bulk Carriers | IZANAGI HARMONY | Handysize | 37,105 | 2021 | JAPAN | SAIKI | UNDISCLOSED | $24.0M | OHBS, BASIS FORWARD DE- |
-| Bulk Carriers | ATLANTIC BRAVE | Handysize | 33,407 | 2016 | JAPAN | SHIN KURUSHIMA | UNDISCLOSED | $17.8M | LIVERY WITH 15TH OCT CAN- CELLING |
+| Bulk Carriers | IZANAGI HARMONY | Handysize | 37,105 | 2021 | JAPAN | SAIKI | UNDISCLOSED | $24.0M | - |
+| Bulk Carriers | ATLANTIC BRAVE | Handysize | 33,407 | 2016 | JAPAN | SHIN KURUSHIMA | UNDISCLOSED | $17.8M | OHBS, BASIS FORWARD DELIVERY WITH 15TH OCT CANCELLING |
 | Bulk Carriers | QUEEN HARMONY | Handysize | 28,425 | 2011 | JAPAN | IMABARI | UNDISCLOSED | $10.0M | - |
 
 ### Tanker Secondhand Prices ($ mills)

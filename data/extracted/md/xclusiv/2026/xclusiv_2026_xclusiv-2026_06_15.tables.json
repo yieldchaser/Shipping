@@ -137,7 +137,7 @@
       "BUYERS": "CHINESE",
       "PRICE": "25.5",
       "PRICE_USD_MILL": 25.5,
-      "COMMENTS": "SS/DD NOVEMBER 2026 BASIS TC ATTACHED TO",
+      "COMMENTS": "SS/DD NOVEMBER 2026",
       "source_file": "xclusiv_2026_xclusiv-2026_06_15.pdf"
     },
     {
@@ -154,7 +154,7 @@
       "BUYERS": "GREEK",
       "PRICE": "LOW 26",
       "PRICE_USD_MILL": 26.0,
-      "COMMENTS": "OLDENDORFF AT 105% BPI FOR 11-14 MONTHS",
+      "COMMENTS": "BASIS TC ATTACHED TO OLDENDORFF AT 105% BPI FOR 11-14 MONTHS",
       "source_file": "xclusiv_2026_xclusiv-2026_06_15.pdf"
     },
     {
@@ -206,6 +206,23 @@
       "PRICE": "HIGH 9",
       "PRICE_USD_MILL": 9.0,
       "COMMENTS": "",
+      "source_file": "xclusiv_2026_xclusiv-2026_06_15.pdf"
+    },
+    {
+      "issue_date": "2026-06-15",
+      "report_week": 24,
+      "section": "Tankers",
+      "page": 6,
+      "NAME": "SHANHAIGUAN P110K-70",
+      "TYPE": "Aframax",
+      "DWT": "114,800",
+      "YEAR": "2026",
+      "COUNTRY": "CHINA",
+      "YARD": "SHANHAIGUAN",
+      "BUYERS": "DITAS",
+      "PRICE": "90",
+      "PRICE_USD_MILL": 90.0,
+      "COMMENTS": "SCRUBBER FITTED, COATED",
       "source_file": "xclusiv_2026_xclusiv-2026_06_15.pdf"
     },
     {
@@ -325,23 +342,6 @@
       "PRICE": "10.5",
       "PRICE_USD_MILL": 10.5,
       "COMMENTS": "CAP 1",
-      "source_file": "xclusiv_2026_xclusiv-2026_06_15.pdf"
-    },
-    {
-      "issue_date": "2026-06-15",
-      "report_week": 24,
-      "section": "Tankers",
-      "page": 6,
-      "NAME": "SHANHAIGUAN P110K-70",
-      "TYPE": "Aframax",
-      "DWT": "114,800",
-      "YEAR": "2026",
-      "COUNTRY": "CHINA",
-      "YARD": "SHANHAIGUAN",
-      "BUYERS": "DITAS",
-      "PRICE": "90",
-      "PRICE_USD_MILL": 90.0,
-      "COMMENTS": "SCRUBBER FITTED, COATED",
       "source_file": "xclusiv_2026_xclusiv-2026_06_15.pdf"
     }
   ],

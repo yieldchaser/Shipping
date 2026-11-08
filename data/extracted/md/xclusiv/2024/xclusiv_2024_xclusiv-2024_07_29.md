@@ -164,7 +164,7 @@ The demand for large vessels has been robust so far in 2024. Since January, a to
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | FOMENTO TWO | Capesize | 206,960 | 2017 | S. KOREA | DAEHAN | PAN OCEAN | $60.0M | WITH BALANCE OF 130% IN- DEX |
+| Bulk Carriers | FOMENTO TWO | Capesize | 206,960 | 2017 | S. KOREA | DAEHAN | PAN OCEAN | $60.0M | SCRUBBER FITTED, TC ATTACHED TO OLDENDORFF WITH BALANCE OF 130% INDEX |
 | Bulk Carriers | HERUN GLOBAL | Capesize | 181,056 | 2016 | CHINA | SWS | UNDISCLOSED | $49.5M | - |
 | Bulk Carriers | SEA TRIUMPH | Capesize | 181,415 | 2012 | JAPAN | KOYO | CHINESE | $36.0M | - |
 | Bulk Carriers | GREAT NAVIGATOR | Capesize | 176,303 | 2006 | JAPAN | UNIVERSAL | CHINESE | $19.0M | - |

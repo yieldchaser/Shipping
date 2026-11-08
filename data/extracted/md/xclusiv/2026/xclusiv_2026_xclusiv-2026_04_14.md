@@ -211,7 +211,7 @@ On the Suezmax sector, the “STENA SURPRISE” - 158K/2012 Sungdong was sold fo
 | Tankers | EVER VICTORY | Panamax | 70,426 | 2005 | JAPAN | UNIVERSAL | UNDISCLOSED | $14.68M | NOT COILED |
 | Tankers | ARDMORE ENGINEER | MR2 | 49,420 | 2014 | S. KOREA | STX | GESCO | $35.5M | SCRUBBER FITTED |
 | Tankers | JAG PRAKASH | MR2 | 47,848 | 2007 | S. KOREA | STX | FAR EASTERN | $17.5M | - |
-| Tankers | EAST COAST | Small Tanker | 37,515 | 2005 | S. KOREA | HMD | UNDISCLOSED | $11.0M | CLASS 1B, SCRUBBER FITTED |
+| Tankers | EAST COAST | Small Tanker | 37,515 | 2005 | S. KOREA | HMD | UNDISCLOSED | $11.0M | ICE CLASS 1B, SCRUBBER FITTED |
 | Tankers | CHEM STREAM | Small Tanker | 19,998 | 2010 | JAPAN | SHITANOE | UNDISCLOSED | $20.8M | StSt |
 | Tankers | JBU SAPPHIRE | Small Tanker | 19,860 | 2009 | JAPAN | KITANIHON | CHINESE | $18.7M | StSt |
 | Tankers | MTM SHANGHAI | Small Tanker | 19,885 | 2006 | JAPAN | FUKUOKA | CHINESE | $14.0M | StSt |

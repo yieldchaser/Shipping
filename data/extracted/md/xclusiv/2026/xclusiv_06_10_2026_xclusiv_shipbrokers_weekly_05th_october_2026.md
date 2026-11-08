@@ -9,7 +9,7 @@ source_file: "corpus/01-brokers/xclusiv/2026/xclusiv_06_10_2026_xclusiv_shipbrok
 pages: 9
 useful_pages: 7
 editorial_title: "Dry Bulk Supply: Heavier Deliveries, but Ageing Fleet  Offers a Buffer:"
-sales_count: 23
+sales_count: 24
 demo_sales_count: 3
 secondhand_prices_count: 32
 newbuilding_prices_count: 9
@@ -188,22 +188,23 @@ In VLCC sector there is only the old sale of “Seeb” - 319K/2011 Daewoo and �
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Tankers | SAMAIL | VLCC | 302,845 | 2011 | JAPAN | UNIVERSAL | UNDISCLOSED | $160.0M | OLD SALE, NOT DELIV- |
-| Tankers | SEEB | VLCC | 319,439 | 2011 | S. KOREA | DAEWOO | UNDISCLOSED | $80.0M | ERED YET |
+| Tankers | SAMAIL | VLCC | 302,845 | 2011 | JAPAN | UNIVERSAL | UNDISCLOSED | $160.0M | OLD SALE, NOT DELIVERED YET |
+| Tankers | SEEB | VLCC | 319,439 | 2011 | S. KOREA | DAEWOO | UNDISCLOSED | $160.0M | OLD SALE, NOT DELIVERED YET |
 | Tankers | ALMI GALAXY | Suezmax | 157,787 | 2012 | S. KOREA | DAEWOO | UNDISCLOSED | $80.0M | - |
 | Tankers | TIANLONG | Suezmax | 159,021 | 2009 | CHINA | BOHAI | UNDISCLOSED | $80.0M | - |
-| Tankers | NORDIC FREEDOM | Suezmax | 159,331 | 2005 | S. KOREA | DAEWOO | UNDISCLOSED | $65.0M | ELECTRONIC M/E, |
-| Tankers | STI VENETO | Aframax | 109,999 | 2015 | S. KOREA | HYUNDAI SAMHO | UNDISCLOSED | $70.0M | SCRUBBER FITTED ELECTRONIC M/E, , |
-| Tankers | STI ELYSEES | Aframax | 109,999 | 2014 | S. KOREA | HYUNDAI SAMHO | UNDISCLOSED | $73.0M | SCRUBBER FITTED |
+| Tankers | NORDIC FREEDOM | Suezmax | 159,331 | 2005 | S. KOREA | DAEWOO | UNDISCLOSED | $65.0M | - |
+| Tankers | STI VENETO | Aframax | 109,999 | 2015 | S. KOREA | HYUNDAI SAMHO | UNDISCLOSED | $70.0M | ELECTRONIC M/E, SCRUBBER FITTED |
+| Tankers | STI ELYSEES | Aframax | 109,999 | 2014 | S. KOREA | HYUNDAI SAMHO | UNDISCLOSED | $73.0M | ELECTRONIC M/E, , SCRUBBER FITTED |
 | Tankers | BLUEBIRD | Panamax | 74,074 | 2016 | CHINA | NEW TIMES | UAE BUYERS | $110.0M | - |
 | Tankers | STARLING | Panamax | 74,033 | 2016 | CHINA | NEW TIMES | UAE BUYERS | $110.0M | - |
 | Tankers | JAG SPARROW | Panamax | 74,999 | 2005 | S. KOREA | HHI | UNDISCLOSED | $23.0M | - |
 | Tankers | ANDES | Panamax | 68,439 | 2003 | JAPAN | KOYO | UNDISCLOSED | $13.5M | - |
 | Tankers | TORM LAURA | MR2 | 53,160 | 2008 | CHINA | GSI | UNDISCLOSED | $22.5M | ICE CLASS |
 | Tankers | GREEN PLANET | MR2 | 50,844 | 2014 | S. KOREA | DAE SUN | UNDISCLOSED | $36.5M | - |
+| Tankers | MP MR TANKER 1 | MR2 | 49,999 | 2011 | S. KOREA | HMD | UNDISCLOSED | $29.3M | DELIVERY IN DEC |
 | Tankers | LEON GRACE | MR2 | 49,999 | 2008 | S. KOREA | HYUNDAI MIPO | UNDISCLOSED | $22.9M | BASIS DD PASSED |
-| Tankers | AKAR WEST | MR2 | 47,199 | 2003 | RUSSIA | ADMIRALTEYSKIY | UNDISCLOSED | $4.5M | BASIS DECEMBER |
-| Tankers | EASTERLY JUPITER | Small Tanker | 36,677 | 2009 | S. KOREA | HYUNDAI MIPO | UNDISCLOSED | $19.0M | 2026 CANCELLING |
+| Tankers | AKAR WEST | MR2 | 47,199 | 2003 | RUSSIA | ADMIRALTEYSKIY | UNDISCLOSED | $4.5M | - |
+| Tankers | EASTERLY JUPITER | Small Tanker | 36,677 | 2009 | S. KOREA | HYUNDAI MIPO | UNDISCLOSED | $19.0M | BASIS DECEMBER 2026 CANCELLING |
 | Tankers | BOW VICTORY | Small Tanker | 21193 | 2016 | JAPAN | ASAKAWA | UNDISCLOSED | $30.0M | STST |
 
 ---

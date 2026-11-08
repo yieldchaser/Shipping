@@ -197,9 +197,9 @@ Tanker S&P activity focused on the MR and chemical segments this week, with nine
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Tankers | CASPER | Aframax | 108,870 | 2007 | CHINA | HUDONG-ZHONGHUA | UNDISCLOSED | $34.0M | COATED |
+| Tankers | CASPER | Aframax | 108,870 | 2007 | CHINA | HUDONG-ZHONGHUA | UNDISCLOSED | $34.0M | BASIS SURVEYS PASSED, COATED |
 | Tankers | MANTA GALATASARAY | MR2 | 50,083 | 2010 | JAPAN | ONOMICHI | GREEK | $17.0M | SS/DD DUE SHORTLY |
-| Tankers | UOG CONSTANTINE | MR2 | G 49,999 | 2010 | S. KOREA | SLS | UNDISCLOSED | $33.7M | IMO II/III |
+| Tankers | UOG CONSTANTINE G | MR2 | 49,999 | 2010 | S. KOREA | SLS | UNDISCLOSED | $33.7M | IMO II/III |
 | Tankers | UOG DESPINA V | MR2 | 49,999 | 2010 | S. KOREA | SLS | UNDISCLOSED | $33.7M | IMO II/III |
 | Tankers | UOG PHOENIX | MR2 | 47,367 | 2010 | JAPAN | ONOMICHI | UNDISCLOSED | $17.5M | - |
 | Tankers | HORIZON APHRODITE | MR2 | 49,996 | 2008 | S. KOREA | SPP | UNDISCLOSED | $16.0M | IMO III |

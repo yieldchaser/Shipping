@@ -193,8 +193,8 @@ Four South Korean, three Japanese, and only one Chinese tanker were sold this we
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
 | Tankers | NEREIDES | VLCC | 300,544 | 2004 | JAPAN | IHI | CHINESE | $29.0M | PROMPT DELIVERY IN SINGAPORE |
-| Tankers | MARE ORIENS | Aframax | 110,295 | 2008 | JAPAN | MITSUI | CHINESE | $42.0M | COATED, CLEAN COATED, DIRTY, INTERMEDIATE |
-| Tankers | WONDER SIRIUS | Aframax | 115,340 | 2005 | S. KOREA | SAMSUNG | TURKISH | $33.8M | PASSED |
+| Tankers | MARE ORIENS | Aframax | 110,295 | 2008 | JAPAN | MITSUI | CHINESE | $42.0M | COATED, CLEAN |
+| Tankers | WONDER SIRIUS | Aframax | 115,340 | 2005 | S. KOREA | SAMSUNG | TURKISH | $33.8M | COATED, DIRTY, INTERMEDIATE PASSED |
 | Tankers | STI TRIBECA | MR2 | 49,900 | 2015 | S. KOREA | SPP | KSS LINE | $39.1M | ECO M/E, SCRUBBER FITTED |
 | Tankers | LADY MALOU | MR2 | 51,486 | 2013 | S. KOREA | HMD | UNDISCLOSED | $36.0M | - |
 | Tankers | KING GREGORY | MR2 | 51,441 | 2012 | S. KOREA | HMD | UNDISCLOSED | $34.0M | - |

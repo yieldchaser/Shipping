@@ -198,7 +198,7 @@ This week saw significant activity in the VLCC and Suezmax sectors, with 5 and 4
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Tankers | IRIS | VLCC | 314,000 | 2012 | S. KOREA | HHI | MODEC | GENERATING A TOTAL CAP- | A CONVERSION PROJECT |
+| Tankers | IRIS | VLCC | 314,000 | 2012 | S. KOREA | HHI | MODEC | GENERATING A TOTAL CAP- | SCRUBBER FITTED, BASIS A CONVERSION PROJECT |
 | Tankers | HAKONE | VLCC | 302,624 | 2010 | JAPAN | UNIVERSAL | UNDISCLOSED | $96.7M | SCRUBBER FITTED |
 | Tankers | HAKATA | VLCC | 302,550 | 2010 | JAPAN | UNIVERSAL | UNDISCLOSED | $96.7M | SCRUBBER FITTED |
 | Tankers | PACIFIC LOYALTY | VLCC | 307,284 | 2006 | CHINA | DALIAN | UNDISCLOSED | $42.0M | - |
@@ -207,8 +207,8 @@ This week saw significant activity in the VLCC and Suezmax sectors, with 5 and 4
 | Tankers | LAUSANNE STAR | Suezmax | 158,000 | 2025 | S. KOREA | DAEHAN | UNDISCLOSED | $96.0M | - |
 | Tankers | NORTH STAR | Suezmax | 157,000 | 2025 | S. KOREA | DAEHAN | UNDISCLOSED | $96.0M | - |
 | Tankers | VIKING STAR | Suezmax | 157,000 | 2025 | S. KOREA | DAEHAN | UNDISCLOSED | $96.0M | - |
-| Tankers | CELSIUS PHILADELPHIA | MR2 | 50,303 | 2021 | CHINA | JNS | GREEK | $72.0M | BASIS TC ATTACHED TILL |
-| Tankers | CELSIUS PORTSMOUTH | MR2 | 50,299 | 2021 | CHINA | JNS | GREEK | $72.0M | THE END OF THE YEAR |
+| Tankers | CELSIUS PHILADELPHIA | MR2 | 50,303 | 2021 | CHINA | JNS | GREEK | $72.0M | BASIS TC ATTACHED TILL THE END OF THE YEAR |
+| Tankers | CELSIUS PORTSMOUTH | MR2 | 50,299 | 2021 | CHINA | JNS | GREEK | $72.0M | BASIS TC ATTACHED TILL THE END OF THE YEAR |
 | Tankers | MARITIME VANESSA | MR2 | 44,401 | 2002 | CHINA | DALIAN | CHINESE | $8.5M | - |
 | Tankers | MARITIME SUZANNE | MR2 | 44,363 | 2002 | CHINA | DALIAN | CHINESE | $8.5M | - |
 | Tankers | ZAGARA | Small Tanker | 37,320 | 2002 | S. KOREA | STX | UNDISCLOSED | $8.0M | - |

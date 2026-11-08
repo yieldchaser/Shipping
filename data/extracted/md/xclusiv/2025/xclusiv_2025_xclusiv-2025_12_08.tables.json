@@ -136,7 +136,7 @@
       "BUYERS": "GREEK",
       "PRICE": "20.5",
       "PRICE_USD_MILL": 20.5,
-      "COMMENTS": "BASIS DELIV-",
+      "COMMENTS": "",
       "source_file": "xclusiv_2025_xclusiv-2025_12_08.pdf"
     },
     {
@@ -153,7 +153,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "HIGH 17",
       "PRICE_USD_MILL": 17.0,
-      "COMMENTS": "ERY IN MAY",
+      "COMMENTS": "BASIS DELIVERY IN MAY",
       "source_file": "xclusiv_2025_xclusiv-2025_12_08.pdf"
     },
     {
@@ -238,7 +238,7 @@
       "BUYERS": "CHINESE",
       "PRICE": "8.5",
       "PRICE_USD_MILL": 8.5,
-      "COMMENTS": "OHBS, ELEC-",
+      "COMMENTS": "",
       "source_file": "xclusiv_2025_xclusiv-2025_12_08.pdf"
     },
     {
@@ -255,7 +255,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "EXCESS 21",
       "PRICE_USD_MILL": 21.0,
-      "COMMENTS": "TRONIC M/E",
+      "COMMENTS": "OHBS, ELECTRONIC M/E",
       "source_file": "xclusiv_2025_xclusiv-2025_12_08.pdf"
     },
     {
@@ -331,6 +331,23 @@
       "report_week": 49,
       "section": "Tankers",
       "page": 6,
+      "NAME": "ZHOUSHAN CHANGHONG CHB5006",
+      "TYPE": "MR2",
+      "DWT": "50,000",
+      "YEAR": "2026",
+      "COUNTRY": "CHINA",
+      "YARD": "ZHOUSHAN CHANGHONG",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "48.5",
+      "PRICE_USD_MILL": 48.5,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_12_08.pdf"
+    },
+    {
+      "issue_date": "2025-12-08",
+      "report_week": 49,
+      "section": "Tankers",
+      "page": 6,
       "NAME": "AEGEA",
       "TYPE": "MR2",
       "DWT": "51,371",
@@ -340,7 +357,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "14.5",
       "PRICE_USD_MILL": 14.5,
-      "COMMENTS": "1B",
+      "COMMENTS": "FS ICE CLASS 1B",
       "source_file": "xclusiv_2025_xclusiv-2025_12_08.pdf"
     },
     {
@@ -392,23 +409,6 @@
       "PRICE": "32",
       "PRICE_USD_MILL": 32.0,
       "COMMENTS": "",
-      "source_file": "xclusiv_2025_xclusiv-2025_12_08.pdf"
-    },
-    {
-      "issue_date": "2025-12-08",
-      "report_week": 49,
-      "section": "Tankers",
-      "page": 6,
-      "NAME": "ZHOUSHAN CHANGHONG CHB5006",
-      "TYPE": "MR2",
-      "DWT": "50,000",
-      "YEAR": "2026",
-      "COUNTRY": "CHINA",
-      "YARD": "ZHOUSHAN CHANGHONG",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "48.5",
-      "PRICE_USD_MILL": 48.5,
-      "COMMENTS": "FS ICE CLASS",
       "source_file": "xclusiv_2025_xclusiv-2025_12_08.pdf"
     }
   ],

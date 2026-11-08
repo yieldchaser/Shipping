@@ -153,8 +153,8 @@ On the Kamsarmax sector, the “Sea Pluto” - 81K/2013 New Times was sold for U
 | Bulk Carriers | SEA PLUTO | Kamsarmax | 81,007 | 2013 | CHINA | NEW TIMES | UNDISCLOSED | $16.5M | - |
 | Bulk Carriers | SEADUTY | Kamsarmax | 82,449 | 2008 | JAPAN | TSUNEISHI | UNDISCLOSED | $14.0M | - |
 | Bulk Carriers | EVANGELIA | Panamax | 74,381 | 2000 | JAPAN | SASEBO | CHINESE | $4.7M | SS/DD DUE 05/2025 |
-| Bulk Carriers | NORD MAMORE | Ultramax | 64,050 | 2020 | JAPAN | MITSUI | UNDISCLOSED | $30.6M | OLD SALE TC ATTACHED AT USD |
-| Bulk Carriers | VANTAGE LADY | Ultramax | 63,194 | 2015 | CHINA | JIANGSU NEW HANTONG | COSMOSHIP | $20.0M | 10,350/DAY TILL END 2026 |
+| Bulk Carriers | NORD MAMORE | Ultramax | 64,050 | 2020 | JAPAN | MITSUI | UNDISCLOSED | $30.6M | OLD SALE |
+| Bulk Carriers | VANTAGE LADY | Ultramax | 63,194 | 2015 | CHINA | JIANGSU NEW HANTONG | COSMOSHIP | $20.0M | TC ATTACHED AT USD 10,350/DAY TILL END 2026 |
 | Bulk Carriers | EL COMINO | Ultramax | 61,465 | 2012 | JAPAN | IWAGI | FAR EASTERN | $19.0M | - |
 | Bulk Carriers | RIVER PEARL | Supramax | 52,223 | 2008 | JAPAN | OSHIMA | UNDISCLOSED | $12.0M | OHBS |
 | Bulk Carriers | TAMARACK | Supramax | 50,344 | 2003 | JAPAN | KAWASAKI | UNDISCLOSED | $8.0M | - |

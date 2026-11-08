@@ -221,7 +221,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "11.5",
       "PRICE_USD_MILL": 11.5,
-      "COMMENTS": "SS/DD DUE BASIS FORWARD",
+      "COMMENTS": "SS/DD DUE",
       "source_file": "xclusiv_2024_xclusiv-2024_07_01.pdf"
     },
     {
@@ -238,7 +238,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "MID 12",
       "PRICE_USD_MILL": 12.0,
-      "COMMENTS": "DELIVERY",
+      "COMMENTS": "BASIS FORWARD DELIVERY",
       "source_file": "xclusiv_2024_xclusiv-2024_07_01.pdf"
     },
     {

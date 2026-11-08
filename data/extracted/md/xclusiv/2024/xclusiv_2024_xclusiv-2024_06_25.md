@@ -200,8 +200,8 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
 | Tankers | C. PROSPERITY | VLCC | 313,525 | 2009 | S. KOREA | HHI | GREEK | $53.5M | SCRUBBER FITTED, SURVEYS DUE |
-| Tankers | FRONT THOR | Suezmax | 156,719 | 2010 | CHINA | JIANGSU RONGSHENG | UNDISCLOSED | $48.0M | SCRUBBER FITTED TC AT USD 23.5K/DAY FOR 5 |
-| Tankers | AVON | MR2 | 49,999 | 2019 | S. KOREA | HMD | UNDISCLOSED | $45.5M | YEARS |
+| Tankers | FRONT THOR | Suezmax | 156,719 | 2010 | CHINA | JIANGSU RONGSHENG | UNDISCLOSED | $48.0M | SCRUBBER FITTED |
+| Tankers | AVON | MR2 | 49,999 | 2019 | S. KOREA | HMD | UNDISCLOSED | $45.5M | BASIS TC AT USD 23.5K/DAY FOR 5 YEARS |
 | Tankers | TORM PLATTE | MR2 | 46,959 | 2006 | S. KOREA | HMD | UNDISCLOSED | $23.5M | - |
 
 ---

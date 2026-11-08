@@ -168,8 +168,8 @@ Finally, in the Handysize sector, Greeks acquired the Japanese-built “Adrienne
 |---|---|---|---|---|---|---|---|---|---|
 | Bulk Carriers | MINERAL UTAMARO | Capesize | 207,469 | 2016 | JAPAN | IMABARI | UNDISCLOSED | $165.0M | - |
 | Bulk Carriers | MINERAL HOKUSAI | Capesize | 207,219 | 2015 | JAPAN | IMABARI | UNDISCLOSED | $165.0M | - |
-| Bulk Carriers | MINERAL EDO | Capesize | 207,219 | 2015 | JAPAN | IMABARI | UNDISCLOSED | $165.0M | SS DUE, SCRUBBER FIT- |
-| Bulk Carriers | ANGLO SAXON | Capesize | 114,135 | 2010 | CHINA | SHANGHAI SHIPYARD | INDIANS | $14.5M | TED |
+| Bulk Carriers | MINERAL EDO | Capesize | 207,219 | 2015 | JAPAN | IMABARI | UNDISCLOSED | $165.0M | - |
+| Bulk Carriers | ANGLO SAXON | Capesize | 114,135 | 2010 | CHINA | SHANGHAI SHIPYARD | INDIANS | $14.5M | SS DUE, SCRUBBER FITTED |
 | Bulk Carriers | KM NAGOYA | Kamsarmax | 95,349 | 2012 | JAPAN | IMABARI | UNDISCLOSED | $17.5M | - |
 | Bulk Carriers | PEDHOULAS MERCHANT | Kamsarmax | 82,214 | 2006 | JAPAN | TSUNEISHI | UNDISCLOSED | $11.5M | - |
 | Bulk Carriers | SHANDONG FU YUAN | Kamsarmax | 81,781 | 2018 | CHINA | JIANGSU JINLING | UNDISCLOSED | $25.08M | ONLINE AUCTION |

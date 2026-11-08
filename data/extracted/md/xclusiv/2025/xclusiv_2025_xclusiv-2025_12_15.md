@@ -163,8 +163,8 @@ In the the Ultramaxa/Supramax segment, Greek buyers took the “IVS WINDSOR” -
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
 | Bulk Carriers | ATLANTIC LION | Capesize | 209,205 | 2020 | CHINA | SWS | UNDISCLOSED | $73.5M | SCRUBBER FITTED |
-| Bulk Carriers | CAPE MERLIN | Capesize | 206,312 | 2005 | JAPAN | IMABARI | CHINESE | $23.5M | BASIS TC ATTACHED |
-| Bulk Carriers | DENSA SHARK | Capesize | 179,227 | 2012 | S. KOREA | HHI | CHINESE | $32.5M | ON 101% BCI180 TILL JUNE 2026 |
+| Bulk Carriers | CAPE MERLIN | Capesize | 206,312 | 2005 | JAPAN | IMABARI | CHINESE | $23.5M | - |
+| Bulk Carriers | DENSA SHARK | Capesize | 179,227 | 2012 | S. KOREA | HHI | CHINESE | $32.5M | BASIS TC ATTACHED ON 101% BCI180 TILL JUNE 2026 |
 | Bulk Carriers | OCEAN VENUS | Kamsarmax | 93,114 | 2010 | CHINA | JIANGSU JINLING | UNDISCLOSED | $11.5M | - |
 | Bulk Carriers | THERESA HAINAN | Kamsarmax | 81,635 | 2013 | CHINA | SAINTY SHIPBUILDING | UNDISCLOSED | $16.0M | - |
 | Bulk Carriers | SINOKOR SUNRISE | Panamax | 77,731 | 2011 | CHINA | JIANGSU EASTERN | GREEK | $12.5M | - |

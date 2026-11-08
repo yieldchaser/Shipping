@@ -155,8 +155,8 @@ The 36th week of 2025 was one of the busiest weeks of the year in bulker SnP act
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | FRONTIER NEIGE | Capesize | 182,737 | 2011 | JAPAN | KAWASAKI | GREEK | $25.0M | BASIS DELIVERY |
-| Bulk Carriers | CAPE JACARANDA | Capesize | 181,452 | 2011 | JAPAN | IMABARI | - | - | WITHIN 2026 |
+| Bulk Carriers | FRONTIER NEIGE | Capesize | 182,737 | 2011 | JAPAN | KAWASAKI | GREEK | $25.0M | BASIS DELIVERY WITHIN 2026 |
+| Bulk Carriers | CAPE JACARANDA | Capesize | 181,452 | 2011 | JAPAN | IMABARI | - | - | BASIS DELIVERY WITHIN 2026 |
 | Bulk Carriers | NBA RUBENS | Kamsarmax | 107,290 | 2011 | JAPAN | OSHIMA | GREEK | $15.0M | - |
 | Bulk Carriers | KAYA OLDENDORFF | Kamsarmax | 82,155 | 2024 | CHINA | JIANGSU NEW HANTONG | UNDISCLOSED | $34.0M | SCRUBBER FITTED |
 | Bulk Carriers | ULTRA JAGUAR | Kamsarmax | 81,922 | 2016 | CHINA | TSUNEISHI ZHOUSHAN | INDIAN | $24.0M | - |
@@ -172,8 +172,8 @@ The 36th week of 2025 was one of the busiest weeks of the year in bulker SnP act
 | Bulk Carriers | MADRID | Handysize | 30,976 | 2013 | CHINA | TSUJI HEAVY | TURKISH | $22.0M | - |
 | Bulk Carriers | MYKONOS | Handysize | 30,900 | 2013 | CHINA | TSUJI HEAVY | TURKISH | $22.0M | - |
 | Bulk Carriers | ZUDAR | Handysize | 38,273 | 2011 | JAPAN | IMABARI | UNDISCLOSED | $13.0M | - |
-| Bulk Carriers | PACIFIC HERO | Handysize | 28,440 | 2011 | CHINA | HUANGHAI | FIJIAN HIGHTON | $32.0M | ICE CLASS 1C, 1,642 |
-| Bulk Carriers | PACIFIC HONOUR | Handysize | 28,439 | 2011 | CHINA | HUANGHAI | FIJIAN HIGHTON | $32.0M | TEU |
+| Bulk Carriers | PACIFIC HERO | Handysize | 28,440 | 2011 | CHINA | HUANGHAI | FIJIAN HIGHTON | $32.0M | ICE CLASS 1C, 1,642 TEU |
+| Bulk Carriers | PACIFIC HONOUR | Handysize | 28,439 | 2011 | CHINA | HUANGHAI | FIJIAN HIGHTON | $32.0M | ICE CLASS 1C, 1,642 TEU |
 
 ### Tanker Secondhand Prices ($ mills)
 

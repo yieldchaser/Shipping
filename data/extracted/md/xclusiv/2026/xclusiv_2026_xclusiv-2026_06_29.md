@@ -159,14 +159,14 @@ Activity this week was spread across all dry bulk sectors, with notable transact
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | LADY DEENA | Capesize | 182,588 | 2020 | JAPAN | JMU | CHINESE | $70.0M | BSS DELIVERY NOV- DEC |
+| Bulk Carriers | LADY DEENA | Capesize | 182,588 | 2020 | JAPAN | JMU | CHINESE | $70.0M | SCRUBBER FITTED, BSS DELIVERY NOV-DEC |
 | Bulk Carriers | CORNELIE OLDENDORF | Kamsarmax | 93,246 | 2011 | CHINA | YANGFAN | GREEK | $15.75M | BSS DELIVERY OCT |
 | Bulk Carriers | SEACON HAMBURG | Kamsarmax | 85,505 | 2023 | CHINA CSSC | HUANGPU WENCHONG | GREEK | $37.5M | - |
 | Bulk Carriers | ETRON | Kamsarmax | 81,080 | 2016 | CHINA | JIANGSU JINLING | AGRICORE | $27.0M | - |
-| Bulk Carriers | UNITY MARIA | Supramax | 55,705 | 2012 | S. KOREA | HMD | UNDISCLOSED | $16.5M | BASIS DELIVERY WITH |
-| Bulk Carriers | DATO LUCKY | Supramax | 56,881 | 2011 | CHINA | TAIZHOU KOUAN | UNDISCLOSED | $13.5M | SURVEYS PASSED |
-| Bulk Carriers | VW TRUST | Supramax | 52,475 | 2002 | JAPAN | TSUNEISHI | CHINESE | $8.0M | SEMI-BOXED, DELIV- |
-| Bulk Carriers | ATLANTIC STAR | Handysize | 37,065 | 2018 | JAPAN | OSHIMA | UNDISCLOSED | $26.0M | ERY DECEMBER 2026 |
+| Bulk Carriers | UNITY MARIA | Supramax | 55,705 | 2012 | S. KOREA | HMD | UNDISCLOSED | $16.5M | - |
+| Bulk Carriers | DATO LUCKY | Supramax | 56,881 | 2011 | CHINA | TAIZHOU KOUAN | UNDISCLOSED | $13.5M | BASIS DELIVERY WITH SURVEYS PASSED |
+| Bulk Carriers | VW TRUST | Supramax | 52,475 | 2002 | JAPAN | TSUNEISHI | CHINESE | $8.0M | - |
+| Bulk Carriers | ATLANTIC STAR | Handysize | 37,065 | 2018 | JAPAN | OSHIMA | UNDISCLOSED | $26.0M | SEMI-BOXED, DELIVERY DECEMBER 2026 |
 | Bulk Carriers | DARYA KRISHNA | Handysize | 34,874 | 2016 | JAPAN | NAMURA | UNDISCLOSED | $20.0M | SEMI-BOXED |
 
 ### Tanker Secondhand Prices ($ mills)
@@ -198,7 +198,7 @@ The tanker sale and purchase market remained relative- ly quiet this week, with 
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Tankers | C. INNOVATOR | VLCC | 313,999 | 2012 | CHINA | DALIAN | UNDISCLOSED | $52.0M | 28K/DAY TILL MAXIMUM OCT 2027 |
+| Tankers | C. INNOVATOR | VLCC | 313,999 | 2012 | CHINA | DALIAN | UNDISCLOSED | $52.0M | TC TO MERCURIA AT AROUND USD 28K/DAY TILL MAXIMUM OCT 2027 |
 | Tankers | HANSA OSLO | MR2 | 51,215 | 2007 | S. KOREA | STX | UNDISCLOSED | $20.0M | - |
 | Tankers | LANIKAI | MR2 | 46,342 | 2002 | S. KOREA | STX | CHINESE | $19.0M | - |
 | Tankers | CAROLINE | MR2 | 45,999 | 2002 | S. KOREA | STX | CHINESE | $20.0M | - |

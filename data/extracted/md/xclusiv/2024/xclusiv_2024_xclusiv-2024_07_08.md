@@ -208,9 +208,9 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
 | Tankers | ENDLESS SUMMER | MR2 | 49,999 | 2010 | JAPAN | ONOMICHI | UNDISCLOSED | $30.0M | SS: 10/2025 - DD: 10/2025 |
-| Tankers | DAYTONA | MR2 | 47,407 | 2005 | JAPAN | ONOMICHI | UNDISCLOSED | $18.0M | SCRUBBER FITTED, INTERLINE |
-| Tankers | TRF MEMPHIS | Small Tanker | 37,596 | 2016 | S. KOREA | HMD | NORWEGIANS | $69.0M | COATING SCRUBBER FITTED, INTERLINE |
-| Tankers | TRF MOBILE | Small Tanker | 37,596 | 2016 | S. KOREA | HMD | NORWEGIANS | $69.0M | COATING |
+| Tankers | DAYTONA | MR2 | 47,407 | 2005 | JAPAN | ONOMICHI | UNDISCLOSED | $18.0M | - |
+| Tankers | TRF MEMPHIS | Small Tanker | 37,596 | 2016 | S. KOREA | HMD | NORWEGIANS | $69.0M | SCRUBBER FITTED, INTERLINE COATING |
+| Tankers | TRF MOBILE | Small Tanker | 37,596 | 2016 | S. KOREA | HMD | NORWEGIANS | $69.0M | SCRUBBER FITTED, INTERLINE COATING |
 
 ---
 

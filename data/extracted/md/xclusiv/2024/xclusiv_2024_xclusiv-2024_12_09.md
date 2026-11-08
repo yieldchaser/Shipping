@@ -156,8 +156,8 @@ Another active week on the dry S&P market passed. The Capesize “OTSL Athena”
 |---|---|---|---|---|---|---|---|---|---|
 | Bulk Carriers | OTSL ATHENA | Capesize | 174,109 | 2007 | CHINA | SWS | UNDISCLOSED | $24.5M | - |
 | Bulk Carriers | CENTURY WAVE | Kamsarmax | 91,686 | 2013 | JAPAN | OSHIMA | CHINESE | $22.0M | - |
-| Bulk Carriers | NAVIOS SAGITTARIUS | Panamax | 75,756 | 2006 | JAPAN | SANOYAS | UNDISCLOSED | $10.5M | BASIS SURVEYS |
-| Bulk Carriers | STRATTON | Panamax | 74,403 | 2004 | CHINA | HUDONG ZHONGHUA | UNDISCLOSED | $7.0M | DUE |
+| Bulk Carriers | NAVIOS SAGITTARIUS | Panamax | 75,756 | 2006 | JAPAN | SANOYAS | UNDISCLOSED | $10.5M | - |
+| Bulk Carriers | STRATTON | Panamax | 74,403 | 2004 | CHINA | HUDONG ZHONGHUA | UNDISCLOSED | $7.0M | BASIS SURVEYS DUE |
 | Bulk Carriers | SUMMER LADY | Panamax | 72,083 | 1999 | JAPAN | KANASASHI IHI | MIDDLE EASTERNS | $6.0M | - |
 | Bulk Carriers | PORTHOS | Supramax | 56,825 | 2010 | CHINA | JIANGSU HANTONG | BAHTERA ADHIGUNA | $13.0M | VIA TENDER |
 | Bulk Carriers | AKDENIZ-M | Handysize | 32,178 | 2002 | JAPAN | HAKODATE | UNDISCLOSED | $6.4M | - |
@@ -191,7 +191,7 @@ Tanker S&P activity was subdued this week. The “Songa Breeze”- 20K/2009 Fuku
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Tankers | SONGA BREEZE | Small Tanker | 19,999 | 2009 | JAPAN | FUKUOKA | UNDISCLOSED | $24.8M | ATTACHED AT USD 20K TILL 04/2026 |
+| Tankers | SONGA BREEZE | Small Tanker | 19,999 | 2009 | JAPAN | FUKUOKA | UNDISCLOSED | $24.8M | TC ATTACHED AT USD 20K TILL 04/2026 |
 | Tankers | WINTER | Small Tanker | 13,052 | 2009 | S. KOREA | 21st Century | VIETNAMESE | $13.0M | - |
 
 ---

@@ -150,7 +150,7 @@ On the Capesize sector, Seanergy acquired the “Asanagi” - 182K/2022 Tadotsu 
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | ASANAGI | Capesize | 182,162 | 2022 | JAPAN | TADOTSU | SEANERGY | $50.0M | Q2 2029 |
+| Bulk Carriers | ASANAGI | Capesize | 182,162 | 2022 | JAPAN | TADOTSU | SEANERGY | $50.0M | BASIS DELIVERY Q4 2028 - Q2 2029 |
 | Bulk Carriers | AANYA | Capesize | 179,628 | 2012 | PHILIPPINES | HHIC | CHINESE | $36.9M | - |
 | Bulk Carriers | ORANGE TIGER | Capesize | 181,395 | 2011 | JAPAN | IMABARI | EUROPEAN | $36.5M | - |
 | Bulk Carriers | AQUAVITA AIM | Kamsarmax | 82,192 | 2019 | JAPAN | OSHIMA | EUROPEAN | $38.2M | - |
@@ -158,8 +158,8 @@ On the Capesize sector, Seanergy acquired the “Asanagi” - 182K/2022 Tadotsu 
 | Bulk Carriers | ROYAL HOPE | Kamsarmax | 81,011 | 2015 | JAPAN | JMU | UNDISCLOSED | $31.2M | - |
 | Bulk Carriers | VELOS JASPER | Kamsarmax | 82,030 | 2012 | JAPAN | TSUNEISHI | UNDISCLOSED | $23.5M | SCRUBBER FITTED |
 | Bulk Carriers | UNION LOTUS | Ultramax | 63,685 | 2015 | CHINA | CHINA SHIPPING IND. | UNDISCLOSED | $26.0M | - |
-| Bulk Carriers | GLORY BRIDGE | Supramax | 50,077 | 2001 | JAPAN | MITSUI | UNDISCLOSED | $7.4M | BASIS TC ATTACHED TILL END |
-| Bulk Carriers | V DUE | Handysize | 37,877 | 2015 | CHINA | AVIC WEIHAI | UNDISCLOSED | $18.8M | 2026 AT USD 12K/DAY |
+| Bulk Carriers | GLORY BRIDGE | Supramax | 50,077 | 2001 | JAPAN | MITSUI | UNDISCLOSED | $7.4M | - |
+| Bulk Carriers | V DUE | Handysize | 37,877 | 2015 | CHINA | AVIC WEIHAI | UNDISCLOSED | $18.8M | BASIS TC ATTACHED TILL END 2026 AT USD 12K/DAY |
 
 ### Tanker Secondhand Prices ($ mills)
 

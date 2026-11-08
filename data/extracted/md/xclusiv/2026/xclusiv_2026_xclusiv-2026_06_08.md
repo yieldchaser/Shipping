@@ -162,8 +162,8 @@ On the Handysize sector, a notable en-bloc deal in- volved the OHBS sister vesse
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | TIANJIN VENTURE | Supramax | 53,600 | 2009 | CHINA | CHENGXI | UNDISCLOSED | $12.2M | DELIVERY JUL-AUG IN SIN- GAPORE/JAPAN RANGE |
-| Bulk Carriers | AE MARS | Supramax | 53,630 | 2006 | CHINA | YANGZHOU DAYANG | UNDISCLOSED | $9.0M | ONLINE BIDDING, BASIS |
+| Bulk Carriers | TIANJIN VENTURE | Supramax | 53,600 | 2009 | CHINA | CHENGXI | UNDISCLOSED | $12.2M | SCRUBBER FITTED, BASIS DELIVERY JUL-AUG IN SINGAPORE/JAPAN RANGE |
+| Bulk Carriers | AE MARS | Supramax | 53,630 | 2006 | CHINA | YANGZHOU DAYANG | UNDISCLOSED | $9.0M | VIA ONLINE BIDDING, BASIS |
 | Bulk Carriers | INTERLINK CELERITY | Handysize | 40,112 | 2017 | CHINA | TAIZHOU KOUAN | UNDISCLOSED | $22.0M | OHBS, ICE CLASS 1C |
 | Bulk Carriers | INTERLINK SOLIDITY | Handysize | 40,098 | 2017 | CHINA | TAIZHOU KOUAN | UNDISCLOSED | $22.0M | OHBS, ICE CLASS 1C |
 | Bulk Carriers | SIDER BEAR | Handysize | 40,484 | 2013 | CHINA | CHENGXI | MANTA | $17.7M | RTFLEX MAIN ENGINE |
@@ -197,11 +197,11 @@ The tanker S&P activity remained relatively quiet this week, with sales concentr
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Tankers | MAXIM | VLCC | 296,887 | 2011 | CHINA |  | SINOKOR | $82.0M | 2027 |
+| Tankers | MAXIM | VLCC | 296,887 | 2011 | CHINA |  | SINOKOR | $82.0M | SCRUBBER FITTED, DELIVERY Q1 2027 |
 | Tankers | OKEE JOHN T | MR2 | 53,712 | 2006 | JAPAN SHIN | KURUSHIMA | UNDISCLOSED | $16.5M | - |
 | Tankers | GOLDEN CURL | Small Tanker | 17,088 | 2008 | CHINA | JIUJIANG YINXING | UNDISCLOSED | $9.0M | - |
-| Tankers | SINAR MALAHAYATI | Small Tanker | 20,938 | 2006 | JAPAN SHIN | KURUSHIMA | UNDISCLOSED | StSt, | TC ATTACHED AT USD 14,700/ |
-| Tankers | SINAR MENDAWAI | Small Tanker | 19,998 | 2008 | JAPAN | USUKI | UNDISCLOSED | StSt, | TC ATTACHED AT USD 13,700/ |
+| Tankers | SINAR MALAHAYATI | Small Tanker | 20,938 | 2006 | JAPAN SHIN | KURUSHIMA | UNDISCLOSED | StSt, | StSt, TC ATTACHED AT USD 14,700/ |
+| Tankers | SINAR MENDAWAI | Small Tanker | 19,998 | 2008 | JAPAN | USUKI | UNDISCLOSED | StSt, | StSt, TC ATTACHED AT USD 13,700/ |
 
 ---
 

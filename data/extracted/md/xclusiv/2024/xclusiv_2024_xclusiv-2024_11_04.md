@@ -202,8 +202,8 @@ The VLCC “Taiga”- 311K/2007 Mitsui was sold for USD 44.5 mills to Chinese bu
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
 | Tankers | TAIGA | VLCC | 311,141 | 2007 | JAPAN | MITSUI | CHINESE | $44.5M | - |
-| Tankers | JAG PADMA | MR2 | 47,999 | 2005 | JAPAN | IWAGI | UNDISCLOSED | $16.0M | BASIS TC ATTACHED AT |
-| Tankers | NINA | MR2 | 40,401 | 2010 | ROMANIA SANTIERUL | NAVAL CONSTANTA | GREEK | $23.5M | USD 24K/DAY TILL DEC 2025 |
+| Tankers | JAG PADMA | MR2 | 47,999 | 2005 | JAPAN | IWAGI | UNDISCLOSED | $16.0M | - |
+| Tankers | NINA | MR2 | 40,401 | 2010 | ROMANIA SANTIERUL | NAVAL CONSTANTA | GREEK | $23.5M | BASIS TC ATTACHED AT USD 24K/DAY TILL DEC 2025 |
 | Tankers | ALLEGRA | MR2 | 40,408 | 2009 | ROMANIA SANTIERUL | NAVAL CONSTANTA | GREEK | $24.0M | - |
 | Tankers | GOLDEN OAK | Small Tanker | 13,168 | 2008 | S. KOREA | JINSE | UNDISCLOSED | $10.5M | - |
 

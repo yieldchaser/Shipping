@@ -159,8 +159,8 @@ Newcastlemax has performed exceptionally well so far this year, with 32 vessels 
 | Bulk Carriers | BRIGHT GEMINI | Kamsarmax | 82,073 | 2013 | CHINA | TSUNEISHI ZHOUSHAN | TOKYO CENTURY LEASING | $22.0M | SCRUBBER FITTED |
 | Bulk Carriers | AM HAMBURG | Kamsarmax | 81,792 | 2013 | CHINA | NEW TIMES | CHINESE | $18.0M | - |
 | Bulk Carriers | AM QUEBEC | Kamsarmax | 81,792 | 2013 | CHINA | NEW TIMES | CHINESE | $18.0M | - |
-| Bulk Carriers | NAVIOS HARMONY | Kamsarmax | 82,790 | 2006 | JAPAN | TSUNEISHI | UNDISCLOSED | $13.8M | 5 HO/HA, COAL |
-| Bulk Carriers | SEA PEARL | Panamax | 77,215 | 2007 | JAPAN | SASEBO | UNDISCLOSED | $12.5M | CARRIER |
+| Bulk Carriers | NAVIOS HARMONY | Kamsarmax | 82,790 | 2006 | JAPAN | TSUNEISHI | UNDISCLOSED | $13.8M | - |
+| Bulk Carriers | SEA PEARL | Panamax | 77,215 | 2007 | JAPAN | SASEBO | UNDISCLOSED | $12.5M | 5 HO/HA, COAL CARRIER |
 | Bulk Carriers | VISAYAS | Supramax | 56,136 | 2010 | JAPAN | MITSUI | UNDISCLOSED | $16.0M | SURVEYS DUE |
 | Bulk Carriers | YOCHOW | Handysize | 34,398 | 2015 | JAPAN | NAMURA | UNDISCLOSED | $19.0M | - |
 | Bulk Carriers | BELLE PLAINE | Handysize | 35,485 | 2014 | CHINA | QINGSHAN | UNDISCLOSED | $16.5M | ELECTRONIC M/E |
@@ -196,8 +196,8 @@ On the tanker S&P activity, the VLCC “Advantage Virtue” - 296K/2009 Bohai wa
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
 | Tankers | ADVANTAGE VIRTUE | VLCC | 296,481 | 2009 | CHINA | BOHAI | CHINESE | $51.0M | - |
-| Tankers | STI LILY | Aframax | 109,994 | 2019 | CHINA | NEW TIMES | PERTAMINA | $73.5M | SCRUBBER FITTED, COATED ICE CLASS 1A, COATED, |
-| Tankers | ALKINOOS | Aframax | 109,900 | 2019 | CHINA | SWS | PERTAMINA | $73.5M | SCRUBBER FITTED, CPP |
+| Tankers | STI LILY | Aframax | 109,994 | 2019 | CHINA | NEW TIMES | PERTAMINA | $73.5M | SCRUBBER FITTED, COATED |
+| Tankers | ALKINOOS | Aframax | 109,900 | 2019 | CHINA | SWS | PERTAMINA | $73.5M | ICE CLASS 1A, COATED, SCRUBBER FITTED, CPP |
 | Tankers | CARIBBEAN STAR | MR2 | 46,383 | 2004 | JAPAN | SHIN KURUSHIMA | UNDISCLOSED | $17.9M | - |
 | Tankers | HORIN TRADER | Small Tanker | 19,855 | 2015 | JAPAN | USUKI | WOOJIN | $31.0M | StSt |
 | Tankers | SONGA PEACE | Small Tanker | 19992 | 2009 | JAPAN | USUKI | HEUNG-A SHIPPING | $23.8M | StSt |

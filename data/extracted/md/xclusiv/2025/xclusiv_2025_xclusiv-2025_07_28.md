@@ -198,8 +198,8 @@ On the Capesize sector, the Scrubber fitted “Mineral Brussel”- 175K/2011 New
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Tankers | DUNE | Aframax | 113,667 | 2025 | CHINA | COSCO QIDONG | KAZMORTRANSFLOT | $144.0M | SCRUBBER FITTED ICE CLASS 1C, COATED, |
-| Tankers | LAMU | Aframax | 113,633 | 2025 | CHINA | COSCO QIDONG | KAZMORTRANSFLOT | $144.0M | SCRUBBER FITTED |
+| Tankers | DUNE | Aframax | 113,667 | 2025 | CHINA | COSCO QIDONG | KAZMORTRANSFLOT | $144.0M | ICE CLASS 1C, COATED, SCRUBBER FITTED |
+| Tankers | LAMU | Aframax | 113,633 | 2025 | CHINA | COSCO QIDONG | KAZMORTRANSFLOT | $144.0M | ICE CLASS 1C, COATED, SCRUBBER FITTED |
 | Tankers | ADVANTAGE AWARD | Aframax | 115,984 | 2011 | S. KOREA | SAMSUNG | UNDISCLOSED | $36.5M | - |
 | Tankers | AQUA PEARL | Aframax | 105,712 | 2005 | JAPAN | SUMITOMO | UNDISCLOSED | $24.0M | - |
 | Tankers | HAFNIA ANDROMEDA | MR2 | 49,999 | 2011 | CHINA | GSI | UNDISCLOSED | $36.5M | - |

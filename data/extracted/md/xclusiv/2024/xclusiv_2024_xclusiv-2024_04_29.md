@@ -166,8 +166,8 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 | Bulk Carriers | URJA | Capesize | 180,694 | 2013 | PHILIPPINES | TSUNEISHI CEBU | HAYFIN | $30.0M | ELECTRONIC M/E |
 | Bulk Carriers | LOWLANDS PROSPERITY | Capesize | 179,895 | 2012 | PHILIPPINES | HHIC | COSTAMARE | $30.5M | - |
 | Bulk Carriers | HENG SHAN | Capesize | 174,145 | 2007 | CHINA | SWS | CHINESE | $21.0M | - |
-| Bulk Carriers | HAITI | Capesize | 174,766 | 2004 | CHINA | SWS | JIANGSU STEAMSHIP | $15.0M | ATTACHED TO CARGILL |
-| Bulk Carriers | LOWLANDS SAGE | Kamsarmax | 82,577 | 2021 | JAPAN | TSUNEISHI | JAPANESE | AT | AROUND USD 16K/DAY TILL Q1 2025 |
+| Bulk Carriers | HAITI | Capesize | 174,766 | 2004 | CHINA | SWS | JIANGSU STEAMSHIP | $15.0M | - |
+| Bulk Carriers | LOWLANDS SAGE | Kamsarmax | 82,577 | 2021 | JAPAN | TSUNEISHI | JAPANESE | AT | TC ATTACHED TO CARGILL AT AROUND USD 16K/DAY TILL Q1 2025 |
 | Bulk Carriers | AUGUST OLDENDORFF | Ultramax | 61,090 | 2015 | JAPAN | JMU | UNDISCLOSED | $32.0M | SCRUBBER FITTED |
 | Bulk Carriers | ULTRA ROCANVILLE | Ultramax | 61,683 | 2012 | JAPAN | OSHIMA | TURKISH | $23.0M | - |
 | Bulk Carriers | GILLINGHAM | Supramax | 58,000 | 2010 | CHINA | YANGZHOU DAYANG | UNDISCLOSED | $13.8M | - |
@@ -213,11 +213,11 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 | Tankers | ALPINE PERSEFONE | Panamax | 74,269 | 2008 | S. KOREA | SUNGDONG | GREEK | $29.0M | COATED, CPP |
 | Tankers | SEAWAYS NIAGARA | MR2 | 51,257 | 2008 | S. KOREA | STX | DUBAI BASED | $25.0M | - |
 | Tankers | SEAWAYS NANTUCKET | MR2 | 51,225 | 2008 | S. KOREA | STX | DUBAI BASED | $25.0M | - |
-| Tankers | DAI MINH | MR2 | 47,148 | 2004 | JAPAN | ONOMICHI | UAE | $16.0M | StSt, against a TC and an- |
-| Tankers | GOLD TRADER III | Small Tanker | 33,338 | 2023 | CHINA | NANTONG XIANGYU | SFL CORPORATION | $57.0M | other being placed into the Stolt Pool. Understand the is 8 years +1+1+1 at rgn |
-| Tankers | GOLD TRADER II | Small Tanker | 33,324 | 2022 | CHINA | NANTONG XIANGYU | SFL CORPORATION | $57.0M | USD 26K/day |
+| Tankers | DAI MINH | MR2 | 47,148 | 2004 | JAPAN | ONOMICHI | UAE | $16.0M | - |
+| Tankers | GOLD TRADER III | Small Tanker | 33,338 | 2023 | CHINA | NANTONG XIANGYU | SFL CORPORATION | $57.0M | StSt, against a TC and another being placed into the Stolt Pool. Understand the TC is 8 years +1+1+1 at rgn USD 26K/day |
+| Tankers | GOLD TRADER II | Small Tanker | 33,324 | 2022 | CHINA | NANTONG XIANGYU | SFL CORPORATION | $57.0M | StSt, against a TC and another being placed into the Stolt Pool. Understand the TC is 8 years +1+1+1 at rgn USD 26K/day |
 | Tankers | TRF KOBE | Small Tanker | 19,997 | 2016 | JAPAN | KITANIHON | HANSA | $32.5M | StSt |
-| Tankers | TRF KRISTIANSAND | Small Tanker | 19,996 | 2016 | JAPAN | KITANIHON | HANSA | EACH | StSt |
+| Tankers | TRF KRISTIANSAND | Small Tanker | 19,996 | 2016 | JAPAN | KITANIHON | HANSA | $32.5M | StSt |
 | Tankers | IVORY RAY | Small Tanker | 19,991 | 2011 | JAPAN | FUKUOKA | UNDISCLOSED | $24.9M | StSt, BASIS DD DUE |
 
 ---

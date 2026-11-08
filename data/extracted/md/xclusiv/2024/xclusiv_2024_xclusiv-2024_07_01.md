@@ -162,8 +162,8 @@ The Electronic M/E Capesize, “Iron Phoenix” - 181K/2012 Tsuneishi Cebu was s
 | Bulk Carriers | LUNA ROSSA | Ultramax | 61,645 | 2010 | JAPAN | OSHIMA | CHINESE | $20.5M | - |
 | Bulk Carriers | TRISTAR PROSPERITY | Supramax | 56,824 | 2012 | CHINA | COSCO GUANGDONG | UNDISCLOSED | $15.0M | - |
 | Bulk Carriers | UM ELHANAYA | Supramax | 56,726 | 2010 | CHINA | QINGSHAN | UNDISCLOSED | $12.0M | - |
-| Bulk Carriers | FLC LONGIVITY | Supramax | 56,785 | 2009 | CHINA | TAIZHOU KOUAN | UNDISCLOSED | $11.5M | SS/DD DUE BASIS FORWARD |
-| Bulk Carriers | DL LILAC | Handysize | 33,752 | 2012 | CHINA | SAMJIN | UNDISCLOSED | $12.0M | DELIVERY |
+| Bulk Carriers | FLC LONGIVITY | Supramax | 56,785 | 2009 | CHINA | TAIZHOU KOUAN | UNDISCLOSED | $11.5M | SS/DD DUE |
+| Bulk Carriers | DL LILAC | Handysize | 33,752 | 2012 | CHINA | SAMJIN | UNDISCLOSED | $12.0M | BASIS FORWARD DELIVERY |
 | Bulk Carriers | HAINAN ISLAND | Handysize | 32,573 | 2004 | JAPAN | KANDA | CHINESE | $8.0M | - |
 | Bulk Carriers | KEN HOU | Handysize | 29,788 | 2004 | JAPAN | SHIKOKU | UNDISCLOSED | $8.6M | - |
 | Bulk Carriers | GOLD DUST | Handysize | 28,420 | 2012 | JAPAN | IMABARI | VIETNAMESE | $12.0M | - |

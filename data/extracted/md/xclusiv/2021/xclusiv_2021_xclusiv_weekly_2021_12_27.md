@@ -171,6 +171,7 @@ SPLENDOR TAIPEI 11,300 2007 JAPAN NISHI SOUTH KOREAN 7 SS: 01/2022 - DD: 01/2022
 | Section | Name | Size | Size Unit | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
 | General Cargo | HAYATE | 13,121 | DWT | 2011 | JAPAN | HAKATA | UNDISCLOSED | 10 | SS: 11/2026 - DD: 10/2024, BWTS FITTED |
+| General Cargo | SPLENDOR TAIPEI | 11,300 | DWT | 2007 | JAPAN | NISHI | SOUTH KOREAN | 7 | SS: 01/2022 - DD: 01/2022, BWTS FITTED, BASIS DELIVERY Q1 2022 |
 
 ## Demolition Market
 

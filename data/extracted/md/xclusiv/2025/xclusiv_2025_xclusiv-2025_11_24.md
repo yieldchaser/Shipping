@@ -169,9 +169,9 @@ On the Supramax segment, the “Vega Stetind” - 55K/2008 Oshima was sold to Ch
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | FORTUNE VIOLET | Capesize | 181,366 | 2012 | JAPAN | IMABARI | UNDISCLOSED | $34.0M | TWEEN FEB AND AUG 2026 |
-| Bulk Carriers | NBA REMBRANDT | Kamsarmax | 107,236 | 2012 | JAPAN | OSHIMA | UNDISCLOSED | $18.7M | VIA AUCTION BASIS DD |
-| Bulk Carriers | XIN TANG SHAN HAI 1 | Kamsarmax | 81,870 | 2013 | CHINA | COSCO DALIAN | UNDISCLOSED | $15.36M | PASSED |
+| Bulk Carriers | FORTUNE VIOLET | Capesize | 181,366 | 2012 | JAPAN | IMABARI | UNDISCLOSED | $34.0M | BASIS DELIVERY BETWEEN FEB AND AUG 2026 |
+| Bulk Carriers | NBA REMBRANDT | Kamsarmax | 107,236 | 2012 | JAPAN | OSHIMA | UNDISCLOSED | $18.7M | - |
+| Bulk Carriers | XIN TANG SHAN HAI 1 | Kamsarmax | 81,870 | 2013 | CHINA | COSCO DALIAN | UNDISCLOSED | $15.36M | VIA AUCTION BASIS DD PASSED |
 | Bulk Carriers | GNS HARMONY | Panamax | 77,509 | 2001 | JAPAN | SASEBO | UNDISCLOSED | $6.75M | - |
 | Bulk Carriers | GREAT VOYAGE | Ultramax | 61,088 | 2021 | CHINA | DACKS | UNDISCLOSED | $30.5M | AUCTION |
 | Bulk Carriers | DSI DRAMMEN | Ultramax | 63,379 | 2016 | JAPAN | IMABARI | UNDISCLOSED | $26.4M | - |

@@ -289,7 +289,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "HIGH 16",
       "PRICE_USD_MILL": 16.0,
-      "COMMENTS": "BASIS TC",
+      "COMMENTS": "",
       "source_file": "xclusiv_2024_xclusiv-2024_02_12.pdf"
     },
     {
@@ -306,7 +306,7 @@
       "BUYERS": "CHINESE",
       "PRICE": "31.25",
       "PRICE_USD_MILL": 31.25,
-      "COMMENTS": "ATTACHED TILL JUNE",
+      "COMMENTS": "BASIS TC ATTACHED TILL JUNE",
       "source_file": "xclusiv_2024_xclusiv-2024_02_12.pdf"
     },
     {
@@ -552,9 +552,9 @@
       "report_week": 6,
       "section": "Tankers",
       "page": 6,
-      "NAME": "CHANG HANG FA",
+      "NAME": "CHANG HANG FA XIAN",
       "TYPE": "MR2",
-      "DWT": "XIAN 45,841",
+      "DWT": "45,841",
       "YEAR": "2006",
       "COUNTRY": "CHINA",
       "YARD": "BOHAI",
@@ -593,7 +593,7 @@
       "COUNTRY": "S. KOREA",
       "YARD": "HMD",
       "BUYERS": "GREEK",
-      "PRICE": "EXCESS 22",
+      "PRICE": "EXCESS 22 EACH",
       "PRICE_USD_MILL": 22.0,
       "COMMENTS": "BASIS SS/DD DUE",
       "source_file": "xclusiv_2024_xclusiv-2024_02_12.pdf"
@@ -610,8 +610,8 @@
       "COUNTRY": "S. KOREA",
       "YARD": "HMD",
       "BUYERS": "GREEK",
-      "PRICE": "EACH",
-      "PRICE_USD_MILL": "",
+      "PRICE": "EXCESS 22 EACH",
+      "PRICE_USD_MILL": 22.0,
       "COMMENTS": "BASIS SS/DD DUE",
       "source_file": "xclusiv_2024_xclusiv-2024_02_12.pdf"
     }

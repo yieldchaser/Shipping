@@ -163,8 +163,8 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | IRENE II | Capesize | 180,184 | 2006 | JAPAN | IMABARI | CHINESE | $21.0M | SCRUBBER FITTED, DELIV- |
-| Bulk Carriers | ROBUSTO | Capesize | 173,949 | 2006 | CHINA | SWS | UNDISCLOSED | $19.0M | ERY FAR EAST APR/MAY 2026 |
+| Bulk Carriers | IRENE II | Capesize | 180,184 | 2006 | JAPAN | IMABARI | CHINESE | $21.0M | - |
+| Bulk Carriers | ROBUSTO | Capesize | 173,949 | 2006 | CHINA | SWS | UNDISCLOSED | $19.0M | SCRUBBER FITTED, DELIVERY FAR EAST APR/MAY 2026 |
 | Bulk Carriers | RIZE | Kamsarmax | 81,950 | 2012 | S. KOREA | HMD | GREEK | $17.7M | - |
 | Bulk Carriers | AYA | Kamsarmax | 82,992 | 2006 | JAPAN | TSUNEISHI | UNDISCLOSED | $10.7M | - |
 | Bulk Carriers | INDIGO SPICA | Supramax | 58,052 | 2014 | JAPAN | SHIN KURUSHIMA | GREEK | $21.0M | ELECTRONIC M/E |
@@ -211,7 +211,7 @@ On the VLCC sector, the “Agneta Pallas III” - 300K/2013 HHI was sold for low
 | Tankers | UOG OSLO | MR2 | 46,087 | 2010 | S. KOREA | HMD | INDIAN | $22.5M | SS/DD FRESHLY PASSED |
 | Tankers | LYSIAS | MR2 | 49,999 | 2008 | S. KOREA | STX | CHINESE | $16.0M | - |
 | Tankers | SEAWAYS GRACE | MR2 | 49,999 | 2008 | S. KOREA | HMD | UNDISCLOSED | $16.0M | - |
-| Tankers | SEAWAYS MADELEINE | MR2 | 49,999 | 2008 | S. KOREA | HMD | UNDISCLOSED | EACH | - |
+| Tankers | SEAWAYS MADELEINE | MR2 | 49,999 | 2008 | S. KOREA | HMD | UNDISCLOSED | $16.0M | - |
 
 ---
 

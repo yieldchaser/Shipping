@@ -152,7 +152,7 @@
       "COUNTRY": "CHINA",
       "YARD": "YZJ",
       "BUYERS": "UNDISCLOSED",
-      "PRICE": "REGION 11.5",
+      "PRICE": "REGION 11.5 EACH",
       "PRICE_USD_MILL": 11.5,
       "COMMENTS": "",
       "source_file": "xclusiv_2026_xclusiv-2026_03_02.pdf"
@@ -169,8 +169,8 @@
       "COUNTRY": "CHINA",
       "YARD": "YZJ",
       "BUYERS": "UNDISCLOSED",
-      "PRICE": "EACH",
-      "PRICE_USD_MILL": "",
+      "PRICE": "REGION 11.5 EACH",
+      "PRICE_USD_MILL": 11.5,
       "COMMENTS": "",
       "source_file": "xclusiv_2026_xclusiv-2026_03_02.pdf"
     },
@@ -509,7 +509,7 @@
       "COUNTRY": "S. KOREA",
       "YARD": "HMD",
       "BUYERS": "UNDISCLOSED",
-      "PRICE": "HIGH 44",
+      "PRICE": "HIGH 44 EACH",
       "PRICE_USD_MILL": 44.0,
       "COMMENTS": "",
       "source_file": "xclusiv_2026_xclusiv-2026_03_02.pdf"
@@ -526,8 +526,8 @@
       "COUNTRY": "S. KOREA",
       "YARD": "HMD",
       "BUYERS": "UNDISCLOSED",
-      "PRICE": "EACH",
-      "PRICE_USD_MILL": "",
+      "PRICE": "HIGH 44 EACH",
+      "PRICE_USD_MILL": 44.0,
       "COMMENTS": "",
       "source_file": "xclusiv_2026_xclusiv-2026_03_02.pdf"
     },

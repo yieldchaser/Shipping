@@ -162,8 +162,8 @@ On the Capesize sector, Chinese buyers acquired the “AASHNA” - 180K/2012 HHI
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
 | Bulk Carriers | AASHNA | Capesize | 179,523 | 2012 | PHILIPPINES | HHIC | CHINESE | $37.0M | - |
-| Bulk Carriers | NICHOLAS G.S | Capesize | 179,221 | 2010 | S. KOREA | SUNGDONG | CHINESE | $34.0M | SCRUBBER FITTED BASIS DD DUE AND |
-| Bulk Carriers | INDUS PROSPERITY | Kamsarmax | 92,988 | 2011 | CHINA | TAIZHOU SANFU | CHINESE | $11.5M | POOR CONDITION |
+| Bulk Carriers | NICHOLAS G.S | Capesize | 179,221 | 2010 | S. KOREA | SUNGDONG | CHINESE | $34.0M | SCRUBBER FITTED |
+| Bulk Carriers | INDUS PROSPERITY | Kamsarmax | 92,988 | 2011 | CHINA | TAIZHOU SANFU | CHINESE | $11.5M | BASIS DD DUE AND POOR CONDITION |
 | Bulk Carriers | BRITA OLDENDORFF | Ultramax | 62,623 | 2020 | JAPAN | OSHIMA | UNDISCLOSED | $37.5M | - |
 | Bulk Carriers | BENJAMIN OLDENDORFF | Ultramax | 62,623 | 2020 | JAPAN | OSHIMA | UNDISCLOSED | $37.5M | - |
 | Bulk Carriers | CMB JORDAENS | Ultramax | 63,447 | 2019 | JAPAN | TADOTSU | MEGHNA | $35.2M | - |

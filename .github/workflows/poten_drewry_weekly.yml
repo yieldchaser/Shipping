@@ -90,7 +90,7 @@ jobs:
           python scripts/md_cleanup/poten_chart_captions.py --untracked --apply || true
           python scripts/verify/build_corpus_inventory.py --merge-existing || true
           python scripts/sync_extraction_register.py || true
-          python scripts/audit/generate_cadence_audit.py || true
+          python scripts/audit/generate_cadence_audit.py || echo "::warning::generate_cadence_audit failed; corpus cadence/audit xlsx not refreshed this run"
 
       - name: Commit & Push New Data
         run: |

@@ -159,7 +159,7 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 |---|---|---|---|---|---|---|---|---|---|
 | Bulk Carriers | FRONTIER GARLAND | Capesize | 181,480 | 2011 | JAPAN | IMABARI | GREEK | $36.0M | - |
 | Bulk Carriers | TALIMEN | Kamsarmax | 81,056 | 2016 | CHINA | JIANGSU JINLING | UNDISCLOSED | $25.0M | SS DUE |
-| Bulk Carriers | AFRICAN WEAVER | Handysize | 34,369 | 2016 | JAPAN | NAMURA | UNDISCLOSED | REGION/EXCESS | 20 LOGS FITTED |
+| Bulk Carriers | AFRICAN WEAVER | Handysize | 34,369 | 2016 | JAPAN | NAMURA | UNDISCLOSED | REGION/EXCESS | LOGS FITTED |
 | Bulk Carriers | ATLANTIC SPIRIT | Handysize | 35,053 | 2013 | CHINA | NANJING DONGZE | UNDISCLOSED | $12.0M | - |
 | Bulk Carriers | DL OLIVE | Handysize | 35,194 | 2013 | S. KOREA | SPP | UNDISCLOSED | $15.3M | - |
 

@@ -173,7 +173,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "REGION/EXCESS",
       "PRICE_USD_MILL": "",
-      "COMMENTS": "20",
+      "COMMENTS": "",
       "source_file": "xclusiv_2026_xclusiv-2026_05_04.pdf"
     },
     {
@@ -258,7 +258,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "REGION/ EXCESS",
       "PRICE_USD_MILL": "",
-      "COMMENTS": "30 OHBS, BASIS 3-",
+      "COMMENTS": "",
       "source_file": "xclusiv_2026_xclusiv-2026_05_04.pdf"
     },
     {
@@ -275,7 +275,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "28.5",
       "PRICE_USD_MILL": 28.5,
-      "COMMENTS": "YEAR BBHP",
+      "COMMENTS": "OHBS, BASIS 3-YEAR BBHP",
       "source_file": "xclusiv_2026_xclusiv-2026_05_04.pdf"
     },
     {
@@ -309,7 +309,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "60.3",
       "PRICE_USD_MILL": 60.3,
-      "COMMENTS": "ELECTRONIC M/E SCRUBBER FITTED,",
+      "COMMENTS": "SCRUBBER FITTED, ELECTRONIC M/E",
       "source_file": "xclusiv_2026_xclusiv-2026_05_04.pdf"
     },
     {
@@ -326,7 +326,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "60.3",
       "PRICE_USD_MILL": 60.3,
-      "COMMENTS": "ELECTRONIC M/E",
+      "COMMENTS": "SCRUBBER FITTED, ELECTRONIC M/E",
       "source_file": "xclusiv_2026_xclusiv-2026_05_04.pdf"
     },
     {
@@ -343,7 +343,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "67",
       "PRICE_USD_MILL": 67.0,
-      "COMMENTS": "BASIS PROMPT DE-",
+      "COMMENTS": "",
       "source_file": "xclusiv_2026_xclusiv-2026_05_04.pdf"
     },
     {
@@ -360,7 +360,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "52",
       "PRICE_USD_MILL": 52.0,
-      "COMMENTS": "LIVERY EAST",
+      "COMMENTS": "BASIS PROMPT DELIVERY EAST",
       "source_file": "xclusiv_2026_xclusiv-2026_05_04.pdf"
     },
     {
@@ -411,7 +411,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "LOW 20s EACH",
       "PRICE_USD_MILL": 20.0,
-      "COMMENTS": "COILED, COATED BASIS PROMPT DE-",
+      "COMMENTS": "COILED, COATED",
       "source_file": "xclusiv_2026_xclusiv-2026_05_04.pdf"
     },
     {
@@ -428,7 +428,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "MID/HIGH 14",
       "PRICE_USD_MILL": 14.0,
-      "COMMENTS": "LIVERY MED AND SS/ DD DUE, ICE CLASS",
+      "COMMENTS": "BASIS PROMPT DELIVERY MED AND SS/DD DUE, ICE CLASS",
       "source_file": "xclusiv_2026_xclusiv-2026_05_04.pdf"
     },
     {

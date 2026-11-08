@@ -199,9 +199,9 @@ This week’s tanker activity was led by the sale of the “Saiq” - 300K/2011 
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Tankers | SAIQ | VLCC | 299,999 | 2011 | JAPAN | UNIVERSAL | UNDISCLOSED | $57.0M | DAY TILL APRIL 2026 |
+| Tankers | SAIQ | VLCC | 299,999 | 2011 | JAPAN | UNIVERSAL | UNDISCLOSED | $57.0M | BASIS TC ATTACHED AT USD 41K/DAY TILL APRIL 2026 |
 | Tankers | NAVE QUASAR | VLCC | 297,376 | 2010 | CHINA | DALIAN | UNDISCLOSED | $52.5M | - |
-| Tankers | YOSEMITE TRADER | MR2 | 47,980 | 2011 | JAPAN | IWAGI | VIETNAMESE | $21.0M | SS/DD PASSED PRIOR DELY |
+| Tankers | YOSEMITE TRADER | MR2 | 47,980 | 2011 | JAPAN | IWAGI | VIETNAMESE | $21.0M | BASIS SS/DD PASSED PRIOR DELY |
 | Tankers | STI BRIXTON | Small Tanker | 38,734 | 2014 | S. KOREA | HMD | UNDISCLOSED | $30.0M | - |
 | Tankers | GINOSTRA M | Small Tanker | 18,639 | 2024 | CHINA | FUJIAN | UNDISCLOSED | $27.0M | ICE CLASS 1B |
 | Tankers | KOBE PIONEER | Small Tanker | 3,499 | 2016 | S. KOREA | DAE SUN | UNDISCLOSED | $13.7M | StSt |

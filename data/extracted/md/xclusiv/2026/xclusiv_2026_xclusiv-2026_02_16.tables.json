@@ -137,7 +137,7 @@
       "BUYERS": "CHINESE",
       "PRICE": "36",
       "PRICE_USD_MILL": 36.0,
-      "COMMENTS": "SCRUBBER FITTED SCRUBBER FITTED, BASIS TC",
+      "COMMENTS": "SCRUBBER FITTED",
       "source_file": "xclusiv_2026_xclusiv-2026_02_16.pdf"
     },
     {
@@ -154,7 +154,7 @@
       "BUYERS": "CHINESE",
       "PRICE": "35.2",
       "PRICE_USD_MILL": 35.2,
-      "COMMENTS": "ATTACHED AT USD 27,250/ DAY TILL Q4 2026",
+      "COMMENTS": "SCRUBBER FITTED, BASIS TC ATTACHED AT USD 27,250/DAY TILL Q4 2026",
       "source_file": "xclusiv_2026_xclusiv-2026_02_16.pdf"
     },
     {
@@ -206,6 +206,23 @@
       "PRICE": "9.4",
       "PRICE_USD_MILL": 9.4,
       "COMMENTS": "",
+      "source_file": "xclusiv_2026_xclusiv-2026_02_16.pdf"
+    },
+    {
+      "issue_date": "2026-02-16",
+      "report_week": 7,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "QIDONG XIANGYU XY197",
+      "TYPE": "Ultramax",
+      "DWT": "63,800",
+      "YEAR": "2026",
+      "COUNTRY": "CHINA",
+      "YARD": "NANTONG XIANGYU",
+      "BUYERS": "GREEK",
+      "PRICE": "36.5",
+      "PRICE_USD_MILL": 36.5,
+      "COMMENTS": "BASIS DELIVERY EX-YARD AUGUST 2026, ON SUBS",
       "source_file": "xclusiv_2026_xclusiv-2026_02_16.pdf"
     },
     {
@@ -562,7 +579,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "15.75",
       "PRICE_USD_MILL": 15.75,
-      "COMMENTS": "COATED SCRUBBER FITTED, ZINC",
+      "COMMENTS": "COATED",
       "source_file": "xclusiv_2026_xclusiv-2026_02_16.pdf"
     },
     {
@@ -579,24 +596,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "LOW 14",
       "PRICE_USD_MILL": 14.0,
-      "COMMENTS": "COATED",
-      "source_file": "xclusiv_2026_xclusiv-2026_02_16.pdf"
-    },
-    {
-      "issue_date": "2026-02-16",
-      "report_week": 7,
-      "section": "Bulk Carriers",
-      "page": 5,
-      "NAME": "QIDONG XIANGYU XY197",
-      "TYPE": "Ultramax",
-      "DWT": "63,800",
-      "YEAR": "2026",
-      "COUNTRY": "CHINA",
-      "YARD": "NANTONG XIANGYU",
-      "BUYERS": "GREEK",
-      "PRICE": "36.5",
-      "PRICE_USD_MILL": 36.5,
-      "COMMENTS": "AUGUST 2026, ON SUBS",
+      "COMMENTS": "SCRUBBER FITTED, ZINC COATED",
       "source_file": "xclusiv_2026_xclusiv-2026_02_16.pdf"
     }
   ],

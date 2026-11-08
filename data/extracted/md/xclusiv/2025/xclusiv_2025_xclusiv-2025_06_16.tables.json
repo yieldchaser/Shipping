@@ -277,7 +277,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "34-35",
       "PRICE_USD_MILL": 34.0,
-      "COMMENTS": "COATED",
+      "COMMENTS": "BASIS SURVEYS PASSED, COATED",
       "source_file": "xclusiv_2025_xclusiv-2025_06_16.pdf"
     },
     {
@@ -302,14 +302,14 @@
       "report_week": 24,
       "section": "Tankers",
       "page": 6,
-      "NAME": "UOG CONSTANTINE",
+      "NAME": "UOG CONSTANTINE G",
       "TYPE": "MR2",
-      "DWT": "G 49,999",
+      "DWT": "49,999",
       "YEAR": "2010",
       "COUNTRY": "S. KOREA",
       "YARD": "SLS",
       "BUYERS": "UNDISCLOSED",
-      "PRICE": "33.7",
+      "PRICE": "33.7 ENBLOC",
       "PRICE_USD_MILL": 33.7,
       "COMMENTS": "IMO II/III",
       "source_file": "xclusiv_2025_xclusiv-2025_06_16.pdf"
@@ -326,7 +326,7 @@
       "COUNTRY": "S. KOREA",
       "YARD": "SLS",
       "BUYERS": "UNDISCLOSED",
-      "PRICE": "ENBLOC",
+      "PRICE": "33.7 ENBLOC",
       "PRICE_USD_MILL": 33.7,
       "COMMENTS": "IMO II/III",
       "source_file": "xclusiv_2025_xclusiv-2025_06_16.pdf"

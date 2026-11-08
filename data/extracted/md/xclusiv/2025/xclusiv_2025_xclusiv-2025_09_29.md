@@ -197,8 +197,8 @@ The LR2 “Yinghao Confidence” - 108K/2010 Tsuneishi was sold for USD 36.2 mil
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
 | Tankers | YINGHAO CONFIDENCE | Aframax | 107,600 | 2010 | JAPAN | TSUNEISHI | FLYNN VENTURES | $36.2M | - |
-| Tankers | GH MADISON | Panamax | 74,574 | 2010 | S. KOREA | HMD | ULTRATANK | $21.5M | COATED SS/DD DUE, BASIS TC AT- |
-| Tankers | T MATTERHORN | MR2 | 47,981 | 2010 | JAPAN | IWAGI | UNDISCLOSED | $20.0M | TACHED TILL Q1 2026 |
+| Tankers | GH MADISON | Panamax | 74,574 | 2010 | S. KOREA | HMD | ULTRATANK | $21.5M | COATED |
+| Tankers | T MATTERHORN | MR2 | 47,981 | 2010 | JAPAN | IWAGI | UNDISCLOSED | $20.0M | SS/DD DUE, BASIS TC ATTACHED TILL Q1 2026 |
 | Tankers | SILVER RAY | Small Tanker | 19,081 | 2013 | JAPAN | KITANIHON | UNDISCLOSED | $24.5M | - |
 
 ---

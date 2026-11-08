@@ -195,8 +195,8 @@ In the MR segment, the “NORD SUPERIOR” – 50K/2015 STX changed hands for US
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Tankers | STI GOAL | Aframax | 109,999 | 2016 | CHINA | GSI | UNDISCLOSED | $104.6M | LR2, SCRUBBER |
-| Tankers | STI GALLANTRY | Aframax | 109,999 | 2016 | CHINA | GSI | UNDISCLOSED | $104.6M | FITTED |
+| Tankers | STI GOAL | Aframax | 109,999 | 2016 | CHINA | GSI | UNDISCLOSED | $104.6M | LR2, SCRUBBER FITTED |
+| Tankers | STI GALLANTRY | Aframax | 109,999 | 2016 | CHINA | GSI | UNDISCLOSED | $104.6M | LR2, SCRUBBER FITTED |
 | Tankers | NORD SUPERIOR | MR2 | 49,573 | 2015 | S. KOREA | STX | UNDISCLOSED | $33.8M | - |
 | Tankers | LILAC | Small Tanker | 7,415 | 2009 | CHINA | QINGDAO QIANJIN | UNDISCLOSED | $4.5M | - |
 | Tankers | GINGA KITE | Small Tanker | 19,997 | 2001 | JAPAN | SHIN KURUSHIMA | CHINESE | $6.0M | - |

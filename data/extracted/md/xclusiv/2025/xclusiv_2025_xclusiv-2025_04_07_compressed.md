@@ -161,11 +161,11 @@ On the Mini-Capesize sector, the Scrubber fitted “Jubilant Devotion” - 118K/
 | Bulk Carriers | SANTA MARIA | Panamax | 78,825 | 2008 | CHINA | JIANGSU RONGSHENG | UNDISCLOSED | $10.5M | ICE CLASS 1C |
 | Bulk Carriers | MIYAMA | Panamax | 75,777 | 2005 | JAPAN | SANOYAS | UNDISCLOSED | $9.45M | - |
 | Bulk Carriers | SEA CHARM | Panamax | 75,932 | 2003 | JAPAN | TSUNEISHI | CHINESE | $7.7M | - |
-| Bulk Carriers | NANTONG XIANGYU | Handysize | XY134 63,550 | 2025 | CHINA | NANTONG XIANGYU | GREEK | $35.0M | - |
+| Bulk Carriers | NANTONG XIANGYU XY134 | Ultramax | 63,550 | 2025 | CHINA | NANTONG XIANGYU | GREEK | $35.0M | - |
 | Bulk Carriers | CL SEVEN | Supramax | 50,630 | 2011 | JAPAN | OSHIMA | UNDISCLOSED | $14.0M | OHBS |
 | Bulk Carriers | ARIETTA | Supramax | 55,818 | 2009 | JAPAN | IHI | CHINESE | $13.0M | - |
-| Bulk Carriers | EMMANUEL C | Supramax | 58,837 | 2008 | CHINA | TSUNEISHI ZHOUSHAN | CHINESE | $11.8M | OHBS, BASIS DECEMBER |
-| Bulk Carriers | ANSAC GREEN RIVER | Handysize | 33,358 | 2018 | JAPAN | SHIN KOCHI | GREEK | $20.0M | CANCELLING |
+| Bulk Carriers | EMMANUEL C | Supramax | 58,837 | 2008 | CHINA | TSUNEISHI ZHOUSHAN | CHINESE | $11.8M | - |
+| Bulk Carriers | ANSAC GREEN RIVER | Handysize | 33,358 | 2018 | JAPAN | SHIN KOCHI | GREEK | $20.0M | OHBS, BASIS DECEMBER CANCELLING |
 | Bulk Carriers | AFRICAN HALCYON | Handysize | 32,245 | 2007 | JAPAN | KANDA ZOSENSHO | UNDISCLOSED | $10.0M | OHBS |
 
 ### Tanker Secondhand Prices ($ mills)

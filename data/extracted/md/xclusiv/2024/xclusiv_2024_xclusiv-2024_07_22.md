@@ -164,17 +164,17 @@ Despite the northern hemisphere approaching the “heart” of the summer, dry b
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
 | Bulk Carriers | CAPE MATHILDE | Capesize | 178,831 | 2010 | JAPAN | MITSUI | CHINESE | $30.0M | - |
-| Bulk Carriers | GENCO HADRIAN | Capesize | 169,025 | 2008 | S. KOREA | SUNGDONG | CHINESE | $25.0M | SCRUBBER FITTED TC BACK AT USD 21K/ |
-| Bulk Carriers | HL BALTIMORE | Capesize | 177,489 | 2006 | JAPAN | MITSUI | CHINESE | $21.0M | DAY FOR 9/11 MONTHS |
+| Bulk Carriers | GENCO HADRIAN | Capesize | 169,025 | 2008 | S. KOREA | SUNGDONG | CHINESE | $25.0M | SCRUBBER FITTED |
+| Bulk Carriers | HL BALTIMORE | Capesize | 177,489 | 2006 | JAPAN | MITSUI | CHINESE | $21.0M | TC BACK AT USD 21K/DAY FOR 9/11 MONTHS |
 | Bulk Carriers | KRISTIAN OLDENDORFF | Kamsarmax | 82,143 | 2024 | CHINA | JIANGSU NEW HANTONG | UNDISCLOSED | $40.85M | SCRUBBER FITTED |
 | Bulk Carriers | YU QIANG | Kamsarmax | 81,608 | 2012 | CHINA | FUJIAN BAIMA | GREEK | $17.5M | ICE CLASS II |
 | Bulk Carriers | THE HOLY | Panamax | 76,623 | 2001 | JAPAN | IMABARI | UNDISCLOSED | $9.0M | - |
 | Bulk Carriers | TAI SHINE | Ultramax | 61,473 | 2012 | JAPAN | SHIN KASADO | UNDISCLOSED | $22.0M | - |
 | Bulk Carriers | ROYAL SAMURAI | Supramax | 58,091 | 2010 | PHILIPPINES | TSUNEISHI CEBU | BANGLADESHI | $17.75M | - |
 | Bulk Carriers | CEBIHAN | Supramax | 57,318 | 2009 | S. KOREA | STX | PVT, VIETNAM | $15.0M | - |
-| Bulk Carriers | SSI DARING | Handysize | 36,169 | 2017 | JAPAN | SHIKOKU | HMM | $26.7M | SCRUBBER, OHBS ICE CLASS 1C, ELEC- |
-| Bulk Carriers | LAGO DI CANCANO | Handysize | 37,666 | 2014 | CHINA | QINGSHAN | UNDISCLOSED | $36.5M | TRONIC M/E ICE CLASS 1C, ELEC- |
-| Bulk Carriers | LAGO DI COMO | Handysize | 37,653 | 2014 | CHINA | QINGSHAN | UNDISCLOSED | $36.5M | TRONIC M/E |
+| Bulk Carriers | SSI DARING | Handysize | 36,169 | 2017 | JAPAN | SHIKOKU | HMM | $26.7M | SCRUBBER, OHBS |
+| Bulk Carriers | LAGO DI CANCANO | Handysize | 37,666 | 2014 | CHINA | QINGSHAN | UNDISCLOSED | $36.5M | ICE CLASS 1C, ELECTRONIC M/E |
+| Bulk Carriers | LAGO DI COMO | Handysize | 37,653 | 2014 | CHINA | QINGSHAN | UNDISCLOSED | $36.5M | ICE CLASS 1C, ELECTRONIC M/E |
 | Bulk Carriers | SEA SMILE | Handysize | 38,109 | 2012 | JAPAN | SHIMANAMI | UNDISCLOSED | $17.0M | - |
 | Bulk Carriers | CORELEADER OL | Handysize | 37,118 | 2012 | JAPAN | SAIKI | TURKISH | $17.0M | OHBS |
 | Bulk Carriers | DARYA JAMUNA | Handysize | 36,845 | 2012 | S. KOREA | HMD | GREEK | $16.0M | - |
@@ -211,7 +211,7 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
 | Tankers | PACIFIC JEWELS | Aframax | 115,177 | 2016 | S. KOREA | DAEHAN | FGAS | $60.0M | SCRUBBER FITTED, COATED |
-| Tankers | PACIFIC TREASURES | Aframax | 115,063 | 2016 | S. KOREA | DAEHAN | FGAS | EACH | SCRUBBER FITTED, COATED |
+| Tankers | PACIFIC TREASURES | Aframax | 115,063 | 2016 | S. KOREA | DAEHAN | FGAS | $60.0M | SCRUBBER FITTED, COATED |
 | Tankers | BERYL | MR2 | 49,990 | 2015 | S. KOREA | SPP | FGAS | $340.0M | - |
 | Tankers | QUARTZ | MR2 | 49,990 | 2015 | S. KOREA | SPP | FGAS | $340.0M | - |
 | Tankers | SILVER HAGUE | MR2 | 49,680 | 2015 | S. KOREA | HMD | TORM | $238.0M | SCRUBBER FITTED |
@@ -222,7 +222,7 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 | Tankers | SILVER CARLA | MR2 | 49,680 | 2014 | S. KOREA | HMD | TORM | - | SCRUBBER FITTED |
 | Tankers | GREEN SEA | MR2 | 50,927 | 2014 | S. KOREA | DAE SUN | UNDISCLOSED | $38.0M | ELECTRONIC M/E |
 | Tankers | NAVE EQUATOR | MR2 | 49,999 | 2009 | S. KOREA | SPP | UNDISCLOSED | $26.0M | - |
-| Tankers | SHAN GANG RONG | Small Tanker | HE 38,615 | 2001 | ROMANIA | SANTIERUL NAVAL | CHINESE | $7.1M | - |
+| Tankers | SHAN GANG RONG HE | Small Tanker | 38,615 | 2001 | ROMANIA | SANTIERUL NAVAL | CHINESE | $7.1M | - |
 | Tankers | PEARL MAYA | Small Tanker | 7,999 | 2018 | CHINA | BOHAI | UNDISCLOSED | $16.5M | - |
 | Tankers | BRAVELY SINCERITY | Small Tanker | 14,445 | 2010 | CHINA | YANGZHOU KEJIN | UNDISCLOSED | $10.0M | - |
 | Tankers | AGARTHA | Small Tanker | 4,693 | 2003 | TURKEY | CEKSAN GEMI | UNDISCLOSED | $4.0M | ICE CLASS III |

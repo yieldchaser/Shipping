@@ -148,9 +148,9 @@
       "report_week": 1,
       "section": "Bulk Carriers",
       "page": 5,
-      "NAME": "JIANG YUAN NAN",
+      "NAME": "JIANG YUAN NAN JING",
       "TYPE": "Supramax",
-      "DWT": "JING 49,326",
+      "DWT": "49,326",
       "YEAR": "2003",
       "COUNTRY": "CHINA",
       "YARD": "NACKS",
@@ -174,7 +174,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "101.6 ENBLOC",
       "PRICE_USD_MILL": 101.6,
-      "COMMENTS": "2026 SCRUBBER FITTED, DELIVERY Q1",
+      "COMMENTS": "SCRUBBER FITTED, DELIVERY Q1 2026",
       "source_file": "xclusiv_2026_xclusiv-2026_01_05.pdf"
     },
     {
@@ -191,7 +191,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "101.6 ENBLOC",
       "PRICE_USD_MILL": 101.6,
-      "COMMENTS": "2026",
+      "COMMENTS": "SCRUBBER FITTED, DELIVERY Q1 2026",
       "source_file": "xclusiv_2026_xclusiv-2026_01_05.pdf"
     }
   ],

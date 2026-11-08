@@ -163,8 +163,8 @@ Activity in the dry bulk market remained healthy this week across all segments, 
 | Bulk Carriers | AEGIR SELMER | Supramax | 55,874 | 2011 | JAPAN | IHI | CHINESE | $15.9M | - |
 | Bulk Carriers | ST PAUL | Supramax | 57,982 | 2010 | PHILIPPINES | TSUNEISHI CEBU | UNDISCLOSED | $16.8M | - |
 | Bulk Carriers | BERMONDI | Supramax | 55,469 | 2009 | JAPAN | MITSUI | UNDISCLOSED | $15.3M | - |
-| Bulk Carriers | SEA ABIGAIL | Supramax | 53,343 | 2003 | JAPAN | TOYOHASHI | UNDISCLOSED | $8.0M | SCRUBBER FITTED, LOGS |
-| Bulk Carriers | AFRICAN PIPER | Handysize | 34,365 | 2015 | JAPAN | NAMURA | UNDISCLOSED | $20.0M | FITTED |
+| Bulk Carriers | SEA ABIGAIL | Supramax | 53,343 | 2003 | JAPAN | TOYOHASHI | UNDISCLOSED | $8.0M | - |
+| Bulk Carriers | AFRICAN PIPER | Handysize | 34,365 | 2015 | JAPAN | NAMURA | UNDISCLOSED | $20.0M | SCRUBBER FITTED, LOGS FITTED |
 | Bulk Carriers | TANIA | Handysize | 37,188 | 2014 | CHINA | YANGZHOU GUOYU | UNDISCLOSED | $17.0M | - |
 | Bulk Carriers | LILA TOCHIGI | Handysize | 28,354 | 2014 | JAPAN | IMABARI | VIETNAMESE | $12.0M | - |
 | Bulk Carriers | ASAHI OCEAN | Handysize | 32,085 | 2013 | JAPAN | HAKODATE | GREEK | $15.0M | SEMI BOXED |

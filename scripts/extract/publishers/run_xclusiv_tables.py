@@ -495,6 +495,11 @@ def extract_sales_tables(
             for row_clean in merged:
                 name = row_clean.get("NAME", "")
                 dwt = _norm_tonnage(row_clean.get("DWT", ""))
+                # a long name's last word can fall right of the NAME/DWT boundary ("AMANAH HALMAHERA" | "AMC 56,020",
+                # "UOG CONSTANTINE" | "G 49,999"): it belongs to the name
+                m_spill = re.fullmatch(r"(.*\S)\s+(\d{1,3}(?:[,.]\d{3})+)", dwt or "")
+                if name and m_spill and re.search(r"[A-Za-z]", m_spill.group(1)):
+                    name, dwt = f"{name} {m_spill.group(1)}", _norm_tonnage(m_spill.group(2))
                 year = row_clean.get("YEAR", "")
                 yard = row_clean.get("YARD", "")
                 buyers = row_clean.get("BUYERS", "")
@@ -502,10 +507,10 @@ def extract_sales_tables(
                 comments = row_clean.get("COMMENTS", "")
                 country = row_clean.get("COUNTRY", "")
 
-                if name and not any(
+                if name and (re.search(r"\d", dwt or "") or not any(
                     bad in name.upper()
                     for bad in ["BULK CARRIER", "TANKER", "SALES", "NAME", "WWW.", "PAGE", "WEEKLY"]
-                ):
+                )):
                     if re.match(r"^\d{1,2}(?:st|nd|rd|th)?\s+[A-Za-z]+", name, re.I):
                         continue
                     if re.search(r"\b(January|February|March|April|May|June|July|August|September|October|November|December)\b", name, re.I) and not dwt:
@@ -589,7 +594,123 @@ def extract_sales_tables(
             for r in (prev, cur):
                 r["PRICE"] = whole
                 r["PRICE_USD_MILL"] = prev["PRICE_USD_MILL"]
+    comments_from_cells(doc, sales_rows)
     return propagate_enbloc_and_spans(sales_rows)
+
+
+_KEEP_HYPHEN = re.compile(r"(?:^|\s)(JAN|FEB|MAR|APR|MAY|JUN|JUNE|JUL|JULY|AUG|AUGUST|SEP|SEPT|OCT|NOV|DEC|EX|MID|LOW|HIGH|\d+)-$", re.I)
+
+
+def _join_wrapped(a: str, b: str) -> str:
+    """Join two printed lines of one cell: 'DELIV-' + 'ERY' is a word break, 'JULY-' + 'OCTOBER' / '3-' + 'YEAR' /
+    'EX-' + 'YARD' keep their hyphen, 'USD 20K/' + 'DAY' joins without a space."""
+    if not a:
+        return b
+    if a.endswith(" -"):
+        return f"{a} {b}"
+    if a.endswith("-"):
+        return (a if _KEEP_HYPHEN.search(a) else a[:-1]) + b
+    if a.endswith("/"):
+        return a + b
+    return f"{a} {b}"
+
+
+def comments_from_cells(doc: pymupdf.Document, sales: List[Dict[str, Any]]) -> None:
+    """COMMENTS from the sales table's drawn cells (2023-10 onward; earlier layouts draw no cells and keep the
+    line-based reading).
+
+    A comment cell is often taller than its row (wrapped text centred on the row, or one cell merged over an
+    en bloc group), so its lines fell on the rows above and below: 'TC AT-' on one ship and 'TACHED AT RGN' on the
+    next. The table draws each cell as a filled rectangle (merged cells once, spanning their rows; some issues
+    draw only the shaded rows, the gaps between them are the white cells). Each row is the cell holding its DWT;
+    each comment cell's text goes to every row whose DWT cell centre lies inside it."""
+    groups: Dict[Tuple[int, str], List[Dict[str, Any]]] = {}
+    for r in sales:
+        groups.setdefault((int(r["page"]), r["section"]), []).append(r)
+    for (page, _sec), rows in groups.items():
+        pg = doc[page - 1]
+        ws = pg.get_text("words")
+        rects = [dr["rect"] for dr in pg.get_drawings()
+                 if dr.get("fill") is not None and dr["rect"].width > 15 and 6 < dr["rect"].height < 120]
+        if len(rects) < 8:
+            continue
+        used, anchors = set(), []
+        for r in rows:
+            first = (r.get("NAME") or " ").split()[0]
+            hit = [w for w in ws if w[4] == r.get("DWT") and id(w) not in used]
+            named = [w for w in hit if any(v[4] == first and v[0] < w[0] and abs((v[1] + v[3]) / 2 - (w[1] + w[3]) / 2) < 8
+                                           for v in ws)]
+            hit = named or hit
+            if not hit:
+                anchors = None
+                break
+            used.add(id(hit[0]))
+            anchors.append((r, hit[0]))
+        if not anchors:
+            continue
+        y_first = min((w[1] + w[3]) / 2 for _, w in anchors)
+        hdr = [w for w in ws if w[4] in ("COMMENTS", "NOTES/") and w[3] < y_first]
+        if not hdr:
+            continue
+        h = max(hdr, key=lambda w: w[1])
+
+        def column(x: float):
+            drawn = [rc for rc in rects if rc.x0 - 0.5 <= x <= rc.x1 + 0.5]
+            head = [rc for rc in drawn if rc.y0 - 0.5 <= (h[1] + h[3]) / 2 <= rc.y1 + 0.5]
+            y_top = max(rc.y1 for rc in head) if head else h[3] + 12
+            uniq: List[Any] = []
+            for rc in sorted((rc for rc in drawn if rc.y0 >= y_top - 0.5), key=lambda rc: (rc.y0, rc.y1)):
+                if not any(abs(rc.y0 - u.y0) < 0.3 and abs(rc.y1 - u.y1) < 0.3 for u in uniq):
+                    uniq.append(rc)
+            cells, y = [], y_top
+            for rc in uniq:
+                if rc.y0 - y > 3:
+                    cells.append(pymupdf.Rect(rc.x0, y, rc.x1, rc.y0))
+                cells.append(rc)
+                y = max(y, rc.y1)
+            return cells, y
+
+        dcells, dlast = column((anchors[0][1][0] + anchors[0][1][2]) / 2)
+        spans = []
+        for r, w in anchors:
+            yc = (w[1] + w[3]) / 2
+            nc = [rc for rc in dcells if rc.y0 - 0.5 <= yc <= rc.y1 + 0.5]
+            if not nc and yc > dlast:
+                nc = [pymupdf.Rect(0, dlast, 0, yc + (yc - dlast))]
+            if not nc:
+                spans = None
+                break
+            spans.append((r, min(nc, key=lambda rc: rc.height)))
+        if not spans:
+            continue
+        ccells, clast = column((h[0] + h[2]) / 2)
+        if not ccells:
+            continue
+        bottom = max(rc.y1 for _, rc in spans)
+        if bottom > clast + 3:
+            ccells.append(pymupdf.Rect(min(rc.x0 for rc in ccells), clast, max(rc.x1 for rc in ccells), bottom))
+        top = min(rc.y0 for _, rc in spans)
+        new: Dict[int, List[str]] = {id(r): [] for r, _ in spans}
+        for cc in ccells:
+            if cc.y1 > bottom + 0.5 or cc.y0 < top - 0.5:
+                continue
+            inside = [w for w in ws if cc.x0 - 1 <= (w[0] + w[2]) / 2 <= cc.x1 + 1
+                      and cc.y0 - 1 <= (w[1] + w[3]) / 2 <= cc.y1 + 1]
+            lines: List[List[Any]] = []
+            for w in sorted(inside, key=lambda w: ((w[1] + w[3]) / 2, w[0])):
+                y = (w[1] + w[3]) / 2
+                if lines and abs(lines[-1][0] - y) <= 2:
+                    lines[-1][1].append(w)
+                else:
+                    lines.append([y, [w]])
+            txt = ""
+            for _, lw in lines:
+                txt = _join_wrapped(txt, " ".join(w[4] for w in sorted(lw, key=lambda w: w[0])))
+            for r, nr in spans:
+                if cc.y0 - 0.6 <= (nr.y0 + nr.y1) / 2 <= cc.y1 + 0.6 and txt:
+                    new[id(r)].append(txt)
+        for r, _ in spans:
+            r["COMMENTS"] = clean_str(" ".join(new[id(r)]))
 
 
 # ---------------------------------------------------------------------------

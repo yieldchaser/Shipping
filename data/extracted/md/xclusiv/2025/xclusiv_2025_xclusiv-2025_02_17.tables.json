@@ -240,7 +240,7 @@
       "BUYERS": "GREEK",
       "PRICE": "143 ENBLOC",
       "PRICE_USD_MILL": 143.0,
-      "COMMENTS": "COATED TWIN M/E, SHALLOW",
+      "COMMENTS": "COATED",
       "source_file": "xclusiv_2025_xclusiv-2025_02_17.pdf"
     },
     {
@@ -257,7 +257,7 @@
       "BUYERS": "UNION MARITIME",
       "PRICE": "32.88",
       "PRICE_USD_MILL": 32.88,
-      "COMMENTS": "DRAFT",
+      "COMMENTS": "TWIN M/E, SHALLOW DRAFT",
       "source_file": "xclusiv_2025_xclusiv-2025_02_17.pdf"
     },
     {

@@ -153,7 +153,7 @@ On the Capesize sector, the “Golden Myrtalia” - 178K/2011 SWS was sold for U
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | GOLDEN MYRTALIA | Capesize | 177,979 | 2011 | CHINA | SWS | UNDISCLOSED | $40.0M | DELIVERY ON SUR- VEYS PASSED |
+| Bulk Carriers | GOLDEN MYRTALIA | Capesize | 177,979 | 2011 | CHINA | SWS | UNDISCLOSED | $40.0M | BASIS MID-NOVEMBER CHINA DELIVERY ON SURVEYS PASSED |
 | Bulk Carriers | WEI HE | Panamax | 79,440 | 2012 | CHINA | JINHAI | UNDISCLOSED | $16.0M | - |
 | Bulk Carriers | SHENLI | Supramax | 56,042 | 2004 | JAPAN | MITSUI TAMANO | UNDISCLOSED | $9.8M | - |
 | Bulk Carriers | ASL CRYSTAL | Handysize | 38,582 | 2019 | PHILIPPINNES | TSUNEISHI CEBU | THORESEN SHIPPING | $27.7M | LOGS FITTED, OHBS |
@@ -192,12 +192,12 @@ The tanker S&P market witnessed significant activity this week, particularly in 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
 | Tankers | MILITOS | Suezmax | 164,751 | 2012 | S. KOREA | HHI | UNDISCLOSED | $95.5M | - |
-| Tankers | NICOLAOS | Suezmax | 164,758 | 2010 | S. KOREA | HHI | UNDISCLOSED | $90.0M | SCRUBBER FITTED BASIS PROMPT MED DE- |
-| Tankers | ACHILLEAS | Suezmax | 157,883 | 2010 | S. KOREA | HHI | UNDISCLOSED | $98.0M | LIVERY BASIS DELIVERY WITHIN |
-| Tankers | ADVANTAGE SUMMER | Suezmax | 156,527 | 2010 | CHINA |  | UNDISCLOSED | $85.0M | JANUARY, SCRUBBER FIT- TED |
+| Tankers | NICOLAOS | Suezmax | 164,758 | 2010 | S. KOREA | HHI | UNDISCLOSED | $90.0M | SCRUBBER FITTED |
+| Tankers | ACHILLEAS | Suezmax | 157,883 | 2010 | S. KOREA | HHI | UNDISCLOSED | $98.0M | BASIS PROMPT MED DELIVERY |
+| Tankers | ADVANTAGE SUMMER | Suezmax | 156,527 | 2010 | CHINA |  | UNDISCLOSED | $85.0M | BASIS DELIVERY WITHIN JANUARY, SCRUBBER FITTED |
 | Tankers | TATAKI | Suezmax | 149,992 | 2010 | CHINA | NEW TIMES | UNDISCLOSED | $95.0M | SCRUBBER FITTED |
-| Tankers | TIANLONG | Suezmax | 159,021 | 2009 | CHINA | BOHAI | UNDISCLOSED | $80.0M | BASIS PROMPT MED DE- |
-| Tankers | KAROLOS | Suezmax | 149,991 | 2009 | CHINA | NEW TIMES | UNDISCLOSED | $90.0M | LIVERY, SCRUBBER FITTED |
+| Tankers | TIANLONG | Suezmax | 159,021 | 2009 | CHINA | BOHAI | UNDISCLOSED | $80.0M | - |
+| Tankers | KAROLOS | Suezmax | 149,991 | 2009 | CHINA | NEW TIMES | UNDISCLOSED | $90.0M | BASIS PROMPT MED DELIVERY, SCRUBBER FITTED |
 | Tankers | LXH | Suezmax | 151,174 | 2004 | S. KOREA | SAMSUNG | UNDISCLOSED | $61.5M | SHUTTLE |
 | Tankers | COPENHAGEN STAR | Aframax | 115,346 | 2025 | S. KOREA | DAEHAN | MIDDLE EASTERN | $125.0M | SCRUBBER FITTED |
 | Tankers | ASIAN PHOENIX | Panamax | 72,782 | 2006 | CHINA | DALIAN | UNDISCLOSED | $20.0M | COATED |

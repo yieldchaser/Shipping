@@ -162,8 +162,8 @@ Dry bulk S&P activity revs up after Posidonia week concluded. On the Newcastlema
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | HERMANN OLDENDORFF | Capesize | 209,243 | 2016 | CHINA | TAIZHOU CATIC | HMM | $55.0M | SCRUBBER FITTED SCRUBBER FITTED, TC ATTACHED AT USD 20K/ |
-| Bulk Carriers | CLASSIC ARO | Capesize | 206,331 | 2008 | JAPAN | IMABARI | CHINESE | $26.0M | DAY TILL MIN JUL 2025 - MAX JAN 2026 |
+| Bulk Carriers | HERMANN OLDENDORFF | Capesize | 209,243 | 2016 | CHINA | TAIZHOU CATIC | HMM | $55.0M | SCRUBBER FITTED |
+| Bulk Carriers | CLASSIC ARO | Capesize | 206,331 | 2008 | JAPAN | IMABARI | CHINESE | $26.0M | SCRUBBER FITTED, TC ATTACHED AT USD 20K/DAY TILL MIN JUL 2025 - MAX JAN 2026 |
 | Bulk Carriers | CORAL JASPER | Panamax | 78,087 | 2012 | JAPAN | SHIN KURUSHIMA | UNDISCLOSED | $22.0M | - |
 | Bulk Carriers | BEATE OLDENDORFF | Ultramax | 62,623 | 2020 | JAPAN | OSHIMA | EUROPEAN | $38.3M | SCRUBBER FITTED |
 | Bulk Carriers | WESTERN OSLO | Ultramax | 63,654 | 2019 | CHINA | NANTONG XIANGYU | KOREAN | $32.0M | SCRUBBER FITTED |

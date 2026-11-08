@@ -155,7 +155,7 @@
       "BUYERS": "CHINESE",
       "PRICE": "25",
       "PRICE_USD_MILL": 25.0,
-      "COMMENTS": "SCRUBBER FITTED TC BACK AT USD 21K/",
+      "COMMENTS": "SCRUBBER FITTED",
       "source_file": "xclusiv_2024_xclusiv-2024_07_22.pdf"
     },
     {
@@ -172,7 +172,7 @@
       "BUYERS": "CHINESE",
       "PRICE": "HIGH 21",
       "PRICE_USD_MILL": 21.0,
-      "COMMENTS": "DAY FOR 9/11 MONTHS",
+      "COMMENTS": "TC BACK AT USD 21K/DAY FOR 9/11 MONTHS",
       "source_file": "xclusiv_2024_xclusiv-2024_07_22.pdf"
     },
     {
@@ -291,7 +291,7 @@
       "BUYERS": "HMM",
       "PRICE": "26.7",
       "PRICE_USD_MILL": 26.7,
-      "COMMENTS": "SCRUBBER, OHBS ICE CLASS 1C, ELEC-",
+      "COMMENTS": "SCRUBBER, OHBS",
       "source_file": "xclusiv_2024_xclusiv-2024_07_22.pdf"
     },
     {
@@ -308,7 +308,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "36.5 ENBLOC",
       "PRICE_USD_MILL": 36.5,
-      "COMMENTS": "TRONIC M/E ICE CLASS 1C, ELEC-",
+      "COMMENTS": "ICE CLASS 1C, ELECTRONIC M/E",
       "source_file": "xclusiv_2024_xclusiv-2024_07_22.pdf"
     },
     {
@@ -325,7 +325,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "36.5 ENBLOC",
       "PRICE_USD_MILL": 36.5,
-      "COMMENTS": "TRONIC M/E",
+      "COMMENTS": "ICE CLASS 1C, ELECTRONIC M/E",
       "source_file": "xclusiv_2024_xclusiv-2024_07_22.pdf"
     },
     {
@@ -391,7 +391,7 @@
       "COUNTRY": "S. KOREA",
       "YARD": "DAEHAN",
       "BUYERS": "FGAS",
-      "PRICE": "HIGH 60's",
+      "PRICE": "HIGH 60's EACH",
       "PRICE_USD_MILL": 60.0,
       "COMMENTS": "SCRUBBER FITTED, COATED",
       "source_file": "xclusiv_2024_xclusiv-2024_07_22.pdf"
@@ -408,8 +408,8 @@
       "COUNTRY": "S. KOREA",
       "YARD": "DAEHAN",
       "BUYERS": "FGAS",
-      "PRICE": "EACH",
-      "PRICE_USD_MILL": "",
+      "PRICE": "HIGH 60's EACH",
+      "PRICE_USD_MILL": 60.0,
       "COMMENTS": "SCRUBBER FITTED, COATED",
       "source_file": "xclusiv_2024_xclusiv-2024_07_22.pdf"
     },
@@ -588,9 +588,9 @@
       "report_week": 29,
       "section": "Tankers",
       "page": 6,
-      "NAME": "SHAN GANG RONG",
+      "NAME": "SHAN GANG RONG HE",
       "TYPE": "Small Tanker",
-      "DWT": "HE 38,615",
+      "DWT": "38,615",
       "YEAR": "2001",
       "COUNTRY": "ROMANIA",
       "YARD": "SANTIERUL NAVAL",

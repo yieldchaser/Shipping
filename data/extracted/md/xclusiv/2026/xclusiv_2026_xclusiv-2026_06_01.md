@@ -174,8 +174,8 @@ This week saw increased activity across the larger bulk carrier segments, with C
 | Bulk Carriers | KAMARES | Panamax | 74,444 | 2004 | CHINA | HUDONG-ZHONGHUA | CHINESE | $8.6M | - |
 | Bulk Carriers | TIAN MU SHAN | Ultramax | 63,437 | 2017 | CHINA | SAINTY | UNDISCLOSED | $52.3M | VIA |
 | Bulk Carriers | YAN DANG SHAN | Ultramax | 63,301 | 2014 | CHINA | SAINTY | UNDISCLOSED | $52.3M | ONLINE AUCTION |
-| Bulk Carriers | AFRICA HOPE | Supramax | 53,416 | 2009 | CHINA | YANGZHOU DAYANG | UNDISCLOSED | $10.0M | OHBS, BASIS DELIVERY EX- |
-| Bulk Carriers | SEACON COLOMBO | Handysize | 40,400 | 2026 | CHINA | JIANGSU DAJIN | UNDISCLOSED | $35.6M | YARD JUNE-JULY 2026 |
+| Bulk Carriers | AFRICA HOPE | Supramax | 53,416 | 2009 | CHINA | YANGZHOU DAYANG | UNDISCLOSED | $10.0M | - |
+| Bulk Carriers | SEACON COLOMBO | Handysize | 40,400 | 2026 | CHINA | JIANGSU DAJIN | UNDISCLOSED | $35.6M | OHBS, BASIS DELIVERY EX-YARD JUNE-JULY 2026 |
 
 ### Tanker Secondhand Prices ($ mills)
 

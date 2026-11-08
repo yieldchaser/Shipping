@@ -166,7 +166,7 @@ In dry bulk, activity was spread mainly across the Ultra- max and Supramax secto
 | Bulk Carriers | KANCHANA NAREE | Supramax | 56,920 | 2011 | CHINA | TAIZHOU SANFU | UNDISCLOSED | $14.5M | - |
 | Bulk Carriers | FLC HAPPINESS | Supramax | 56,799 | 2009 | CHINA | TAIZHOU KOUAN | UNDISCLOSED | $12.0M | - |
 | Bulk Carriers | HARVEST | Supramax | 58,779 | 2008 | CHINA | TSUNEISHI ZHOUSHAN | CHINESE | $13.8M | SCRUBBER FITTED |
-| Bulk Carriers | AMANAH HALMAHERA | Supramax | AMC 56,020 | 2003 | JAPAN | MITSUI | UNDISCLOSED | $9.1M | - |
+| Bulk Carriers | AMANAH HALMAHERA AMC | Supramax | 56,020 | 2003 | JAPAN | MITSUI | UNDISCLOSED | $9.1M | - |
 | Bulk Carriers | DEVBULK SINEM | Handysize | 38,009 | 2013 | VIETNAM | PHA RUNG | TURKISH | $15.0M | - |
 | Bulk Carriers | T PRIME | Handysize | 32,451 | 2011 | CHINA | TAIZHOU MAPLE | UNDISCLOSED | $9.5M | - |
 
@@ -202,8 +202,8 @@ The tanker S&P market saw activity mainly across the MR sector. On the Suezmax s
 | Tankers | DAEHAN 5122 | Suezmax | 156,881 | 2028 | S. KOREA | DAEHAN | DELTA TANKERS | $107.0M | NOVATION BASIS |
 | Tankers | CAPE BENAT | Suezmax | 156,642 | 2010 | CHINA |  | LILA GLOBAL | $62.5M | SCRUBBER FITTED |
 | Tankers | MINERVA NOUNOU | Aframax | 114,850 | 2006 | S. KOREA | DAEWOO | CHINESE BUYERS | $40.0M | BASIS SS/DD PASSED |
-| Tankers | LUCTOR | MR2 | 50,383 | 2011 | JAPAN | ONOMICHI | UNDISCLOSED | $26.0M | SS/DD DUE, 3 YEAR BB– |
-| Tankers | TURMOIL | MR2 | 49,997 | 2011 | JAPAN | ONOMICHI | - | $26.0M | BACK AT USD 16,000/DAY |
+| Tankers | LUCTOR | MR2 | 50,383 | 2011 | JAPAN | ONOMICHI | UNDISCLOSED | $26.0M | SS/DD DUE, 3 YEAR BB– BACK AT USD 16,000/DAY |
+| Tankers | TURMOIL | MR2 | 49,997 | 2011 | JAPAN | ONOMICHI | - | $26.0M | SS/DD DUE, 3 YEAR BB– BACK AT USD 16,000/DAY |
 | Tankers | XING TONG 799 | MR2 | 49,962 | 2011 | JAPAN | ONOMICHI | INDONESIAN | $27.2M | - |
 | Tankers | RUI FU SHENG | MR2 | 46,846 | 2007 | S. KOREA | SUNGDONG | UNDISCLOSED | $19.0M | - |
 | Tankers | MINERVA XANTHE | MR2 | 50,922 | 2006 | S. KOREA | STX | CHINESE BUYERS | $16.0M | ICE CLASS 1A, EPOXY |

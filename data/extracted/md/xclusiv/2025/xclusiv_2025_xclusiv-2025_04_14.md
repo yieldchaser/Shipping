@@ -155,8 +155,8 @@ The USTR proposal seems to have affected S&P activity y-t-d, as weekly data reve
 | Bulk Carriers | CAPE ACACIA | Capesize | 206,237 | 2005 | JAPAN | IMABARI | UNDISCLOSED | $22.0M | DD DUE |
 | Bulk Carriers | CHINA PROGRESS | Capesize | 174,322 | 2006 | CHINA | SWS | CHINESE | $17.5M | - |
 | Bulk Carriers | SHUN FU DA | Kamsarmax | 82,849 | 2006 | JAPAN | TSUNEISHI | UNDISCLOSED | $11.4M | - |
-| Bulk Carriers | MAPLEGATE | Ultramax | 63,449 | 2019 | JAPAN | IWAGI | INDONESIANS | $62.0M | BASIS BUYER'S BEING |
-| Bulk Carriers | OAKGATE | Ultramax | 60,407 | 2018 | JAPAN | OSHIMA | INDONESIANS | $62.0M | AWARDED A TENDER |
+| Bulk Carriers | MAPLEGATE | Ultramax | 63,449 | 2019 | JAPAN | IWAGI | INDONESIANS | $62.0M | BASIS BUYER'S BEING AWARDED A TENDER |
+| Bulk Carriers | OAKGATE | Ultramax | 60,407 | 2018 | JAPAN | OSHIMA | INDONESIANS | $62.0M | BASIS BUYER'S BEING AWARDED A TENDER |
 | Bulk Carriers | AMIS WISDOM III | Ultramax | 61,527 | 2011 | JAPAN | SHIN KASADO | CHINESE | $17.5M | - |
 | Bulk Carriers | EQUINOX SEAS | Supramax | 52,009 | 2003 | CROATIA | BRODOSPLIT | CHINESE | $8.5M | - |
 | Bulk Carriers | IVS MAGPIE | Handysize | 28,240 | 2011 | JAPAN | IMABARI | UNDISCLOSED | $10.2M | - |
@@ -190,9 +190,9 @@ Mirroring the trend in dry bulk S&P activity, fewer Chinese-built vessels have c
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Tankers | EUROHOPE | VLCC | 306,506 | 2007 | S. KOREA | DAEWOO | CHINESE | $46.25M | DELIVERY WITHIN MAXIMUM |
-| Tankers | P. SOPHIA | Aframax | 105,071 | 2009 | S. KOREA | HHI | UNDISCLOSED | $36.05M | OF 120 DAYS EXTREMELY PROMPT DELIVERY |
-| Tankers | DAI AN | MR2 | 50,530 | 2007 | JAPAN | SHIN KURUSHIMA | VIETNAMESE | $14.75M | WITH DD IMMEDIATELY DUE |
+| Tankers | EUROHOPE | VLCC | 306,506 | 2007 | S. KOREA | DAEWOO | CHINESE | $46.25M | - |
+| Tankers | P. SOPHIA | Aframax | 105,071 | 2009 | S. KOREA | HHI | UNDISCLOSED | $36.05M | BASIS DELIVERY WITHIN MAXIMUM OF 120 DAYS |
+| Tankers | DAI AN | MR2 | 50,530 | 2007 | JAPAN | SHIN KURUSHIMA | VIETNAMESE | $14.75M | BASIS EXTREMELY PROMPT DELIVERY WITH DD IMMEDIATELY DUE |
 | Tankers | DH HONESTY | Small Tanker | 13,148 | 2021 | CHINA | NANTONG TONGBAO | UNDISCLOSED | $20.5M | ICE CLASS II, StSt, AUCTION |
 | Tankers | DH GLORY | Small Tanker | 13,121 | 2020 | CHINA | NANTONG TONGBAO | UNDISCLOSED | $20.54M | ICE CLASS II, StSt, AUCTION |
 | Tankers | SONGA KARI | Small Tanker | 13,148 | 2008 | S. KOREA | 21ST CENTURY | UNDISCLOSED | $11.0M | DPP TRADING |

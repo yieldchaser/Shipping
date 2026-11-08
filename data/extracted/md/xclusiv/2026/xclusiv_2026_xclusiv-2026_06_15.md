@@ -154,8 +154,8 @@ Activity in the dry bulk market this week was spread across all size segments, w
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | KERKIS | Capesize | 176,862 | 2007 | JAPAN | NAMURA | CHINESE | $25.5M | SS/DD NOVEMBER 2026 BASIS TC ATTACHED TO |
-| Bulk Carriers | VULCANIA | Kamsarmax | 82,036 | 2015 | CHINA | JIANGSU NEWYANGZI | GREEK | $26.0M | OLDENDORFF AT 105% BPI FOR 11-14 MONTHS |
+| Bulk Carriers | KERKIS | Capesize | 176,862 | 2007 | JAPAN | NAMURA | CHINESE | $25.5M | SS/DD NOVEMBER 2026 |
+| Bulk Carriers | VULCANIA | Kamsarmax | 82,036 | 2015 | CHINA | JIANGSU NEWYANGZI | GREEK | $26.0M | BASIS TC ATTACHED TO OLDENDORFF AT 105% BPI FOR 11-14 MONTHS |
 | Bulk Carriers | PROTEAS | Panamax | 76,454 | 2005 | JAPAN | TSUNEISHI | UNDISCLOSED | $11.75M | - |
 | Bulk Carriers | AFRICAN TERN | Supramax | 58,342 | 2013 | CHINA | DACKS | UNDISCLOSED | $19.0M | - |
 | Bulk Carriers | SAFI FORTUNE | Handysize | 28,467 | 2009 | JAPAN | IMABARI | TURKISH | $9.0M | - |

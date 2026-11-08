@@ -138,7 +138,7 @@
       "BUYERS": "CHINESE",
       "PRICE": "21",
       "PRICE_USD_MILL": 21.0,
-      "COMMENTS": "SCRUBBER FITTED, DELIV-",
+      "COMMENTS": "",
       "source_file": "xclusiv_2026_xclusiv-2026_02_02.pdf"
     },
     {
@@ -155,7 +155,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "MID 19",
       "PRICE_USD_MILL": 19.0,
-      "COMMENTS": "ERY FAR EAST APR/MAY 2026",
+      "COMMENTS": "SCRUBBER FITTED, DELIVERY FAR EAST APR/MAY 2026",
       "source_file": "xclusiv_2026_xclusiv-2026_02_02.pdf"
     },
     {
@@ -425,7 +425,7 @@
       "COUNTRY": "S. KOREA",
       "YARD": "HMD",
       "BUYERS": "UNDISCLOSED",
-      "PRICE": "HIGH 16",
+      "PRICE": "HIGH 16 EACH",
       "PRICE_USD_MILL": 16.0,
       "COMMENTS": "",
       "source_file": "xclusiv_2026_xclusiv-2026_02_02.pdf"
@@ -442,8 +442,8 @@
       "COUNTRY": "S. KOREA",
       "YARD": "HMD",
       "BUYERS": "UNDISCLOSED",
-      "PRICE": "EACH",
-      "PRICE_USD_MILL": "",
+      "PRICE": "HIGH 16 EACH",
+      "PRICE_USD_MILL": 16.0,
       "COMMENTS": "",
       "source_file": "xclusiv_2026_xclusiv-2026_02_02.pdf"
     }

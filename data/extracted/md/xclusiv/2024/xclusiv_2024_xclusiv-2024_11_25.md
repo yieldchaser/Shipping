@@ -205,7 +205,7 @@ The recent period of subdued activity has given way to a more active week. Asian
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
 | Tankers | XIDI | VLCC | 306,352 | 2004 | JAPAN | MITSUBISHI | ASIAN | $30.0M | - |
-| Tankers | TRICIA II | VLCC | 281,050 | 2000 | JAPAN | MITSUBISHI | UNDISCLOSED | $21.0M | PROMPT DELIVERY IN SINGAPORE |
+| Tankers | TRICIA II | VLCC | 281,050 | 2000 | JAPAN | MITSUBISHI | UNDISCLOSED | $21.0M | BASIS PROMPT DELIVERY IN SINGAPORE |
 | Tankers | UMNENGA II | Suezmax | 162,293 | 2006 | S. KOREA | DAEWOO | NIGERIAN | $36.0M | ICE CLASS 1A, CPP, DD PASSED |
 | Tankers | SOFIA II | Aframax | 105,400 | 2008 | JAPAN | SUMITOMO | UAE | $30.0M | - |
 | Tankers | VALLEY OAK | Small Tanker | 13,131 | 2008 | S. KOREA | SEKWANG | SINGAPOREAN | $10.5M | - |
@@ -215,7 +215,7 @@ The recent period of subdued activity has given way to a more active week. Asian
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Gas | MARVEL SWAN | Gas | 170,619 | 2021 | S. KOREA | SAMSUNG | UNDISCLOSED | $213.0M | YEARS IN EXTENSION OPTION TO SEAPEAK INNOVATION |
+| Gas | MARVEL SWAN | Gas | 170,619 | 2021 | S. KOREA | SAMSUNG | UNDISCLOSED | $213.0M | TC ATTACHED TILL 2030, WITH UP TO 2 YEARS IN EXTENSION OPTION TO SEAPEAK INNOVATION |
 | Gas | BW CEDAR | Gas | 80,616 | 2007 | S. KOREA | HHI | UNDISCLOSED | $65.0M | SS: 07/2027 - DD: 03/2025 |
 | Gas | LUIGI LAGRANGE | Gas | 37,655 | 2006 | S. KOREA | DAEWOO | UNDISCLOSED | $38.5M | SS: 01/2026 - DD: 01/2026 |
 

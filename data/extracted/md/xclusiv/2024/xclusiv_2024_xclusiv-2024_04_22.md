@@ -168,8 +168,8 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
 | Bulk Carriers | FRONTIER UNITY | Capesize | 181,415 | 2012 | JAPAN | KOYO | UNDISCLOSED | $35.0M | SCRUBBER FITTED |
-| Bulk Carriers | STAR PAOLA | Capesize | 115,259 | 2011 | CHINA | NEW TIMES | UNDISCLOSED | $23.5M | BACK AT USD 16K/DAY |
-| Bulk Carriers | HL IBT | Kamsarmax | 81,398 | 2011 | S. KOREA | HYUNDAI SAMHO | GNS, KOREA | $19.5M | TILL JUNE 2025 |
+| Bulk Carriers | STAR PAOLA | Capesize | 115,259 | 2011 | CHINA | NEW TIMES | UNDISCLOSED | $23.5M | - |
+| Bulk Carriers | HL IBT | Kamsarmax | 81,398 | 2011 | S. KOREA | HYUNDAI SAMHO | GNS, KOREA | $19.5M | TC BACK AT USD 16K/DAY TILL JUNE 2025 |
 | Bulk Carriers | ASL YANGPU | Panamax | 76,015 | 2002 | JAPAN | TSUNEISHI | UNDISCLOSED | $9.0M | - |
 | Bulk Carriers | FEDERAL ISLAND | Ultramax | 63,452 | 2017 | JAPAN | IMABARI | INCE SHIPPING GROUP | $32.6M | - |
 | Bulk Carriers | YI LONG SHAN | Supramax | 56,637 | 2013 | CHINA CHINA | SHIPPING IND | CHINESE | $15.0M | - |

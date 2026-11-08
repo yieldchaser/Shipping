@@ -215,16 +215,16 @@
       "report_week": 4,
       "section": "Bulk Carriers",
       "page": 5,
-      "NAME": "NANTONG XIANGYU",
-      "TYPE": "Handysize",
-      "DWT": "XY149 63,500",
+      "NAME": "NANTONG XIANGYU XY149",
+      "TYPE": "Ultramax",
+      "DWT": "63,500",
       "YEAR": "2026",
       "COUNTRY": "CHINA",
       "YARD": "NANTONG XIANGYU",
       "BUYERS": "SPAR SHIPPING",
       "PRICE": "36 EACH",
       "PRICE_USD_MILL": 36.0,
-      "COMMENTS": "DELIVERY Q3/4 2026",
+      "COMMENTS": "DELIVERY Q3/4 2026 DELIVERY Q3/4 2026",
       "source_file": "xclusiv_2026_xclusiv-2026_01_26.pdf"
     },
     {
@@ -232,16 +232,16 @@
       "report_week": 4,
       "section": "Bulk Carriers",
       "page": 5,
-      "NAME": "NANTONG XIANGYU",
-      "TYPE": "Handysize",
-      "DWT": "XY150 63,500",
+      "NAME": "NANTONG XIANGYU XY150",
+      "TYPE": "Ultramax",
+      "DWT": "63,500",
       "YEAR": "2026",
       "COUNTRY": "CHINA",
       "YARD": "NANTONG XIANGYU",
       "BUYERS": "SPAR SHIPPING",
       "PRICE": "36 EACH",
       "PRICE_USD_MILL": 36.0,
-      "COMMENTS": "DELIVERY Q3/4 2026",
+      "COMMENTS": "DELIVERY Q3/4 2026 DELIVERY Q3/4 2026",
       "source_file": "xclusiv_2026_xclusiv-2026_01_26.pdf"
     },
     {
@@ -309,7 +309,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "130",
       "PRICE_USD_MILL": 130.0,
-      "COMMENTS": "SCRUBBER FITTED SCRUBBER FITTED, TC AT-",
+      "COMMENTS": "SCRUBBER FITTED",
       "source_file": "xclusiv_2026_xclusiv-2026_01_26.pdf"
     },
     {
@@ -326,7 +326,7 @@
       "BUYERS": "GREEK",
       "PRICE": "112",
       "PRICE_USD_MILL": 112.0,
-      "COMMENTS": "TACHED TILL 05/26 AT 41K/ DAY SCRUBBER FITTED, DELIVERY",
+      "COMMENTS": "SCRUBBER FITTED, TC ATTACHED TILL 05/26 AT 41K/DAY",
       "source_file": "xclusiv_2026_xclusiv-2026_01_26.pdf"
     },
     {
@@ -343,7 +343,7 @@
       "BUYERS": "OKEANIS ECO TANKER",
       "PRICE": "99.3",
       "PRICE_USD_MILL": 99.3,
-      "COMMENTS": "Q2 SCRUBBER FITTED, DELIVERY",
+      "COMMENTS": "SCRUBBER FITTED, DELIVERY Q2",
       "source_file": "xclusiv_2026_xclusiv-2026_01_26.pdf"
     },
     {
@@ -360,7 +360,7 @@
       "BUYERS": "OKEANIS ECO TANKER",
       "PRICE": "99.3",
       "PRICE_USD_MILL": 99.3,
-      "COMMENTS": "Q2",
+      "COMMENTS": "SCRUBBER FITTED, DELIVERY Q2",
       "source_file": "xclusiv_2026_xclusiv-2026_01_26.pdf"
     },
     {
@@ -496,7 +496,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "15",
       "PRICE_USD_MILL": 15.0,
-      "COMMENTS": "DPP BASIS DELIVERY WITH SS/DD",
+      "COMMENTS": "DPP",
       "source_file": "xclusiv_2026_xclusiv-2026_01_26.pdf"
     },
     {
@@ -513,7 +513,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "LOW 10",
       "PRICE_USD_MILL": 10.0,
-      "COMMENTS": "DUE, COATED, DPP",
+      "COMMENTS": "BASIS DELIVERY WITH SS/DD DUE, COATED, DPP",
       "source_file": "xclusiv_2026_xclusiv-2026_01_26.pdf"
     },
     {

@@ -173,7 +173,7 @@ jobs:
           python scripts/md_cleanup/twin_guard.py --apply || true
           python scripts/verify/build_corpus_inventory.py --merge-existing || true
           python scripts/sync_extraction_register.py || true
-          python scripts/audit/generate_cadence_audit.py || true
+          python scripts/audit/generate_cadence_audit.py || echo "::warning::generate_cadence_audit failed; corpus cadence/audit xlsx not refreshed this run"
 
       - name: Guardrail - verify Breakwave scrape freshness
         if: github.event.inputs.dry_run != 'true'

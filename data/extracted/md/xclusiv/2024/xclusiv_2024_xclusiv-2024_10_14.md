@@ -154,8 +154,8 @@ On the Capesize sector, the “SG Express”- 180K/2009 Dalian was sold for USD 
 | Bulk Carriers | SG EXPRESS | Capesize | 180,157 | 2009 | CHINA | DALIAN | UNDISCLOSED | $27.0M | - |
 | Bulk Carriers | LILA COCHIN | Capesize | 174,398 | 2005 | CHINA | SWS | CHINESE | $18.0M | - |
 | Bulk Carriers | LOWLANDS ENERGY | Kamsarmax | 95,719 | 2013 | JAPAN | IMABARI | GREEK | $23.0M | - |
-| Bulk Carriers | NORD PLUTO | Kamsarmax | 81,944 | 2014 | JAPAN | TSUNEISHI | GREEK | $24.0M | ELECTRONIC M/E ELECTRONIC M/E, SCRUBBER |
-| Bulk Carriers | NORD VIRGO | Kamsarmax | 80,915 | 2014 | JAPAN | JMU | UNDISCLOSED | $26.0M | FITTED |
+| Bulk Carriers | NORD PLUTO | Kamsarmax | 81,944 | 2014 | JAPAN | TSUNEISHI | GREEK | $24.0M | ELECTRONIC M/E |
+| Bulk Carriers | NORD VIRGO | Kamsarmax | 80,915 | 2014 | JAPAN | JMU | UNDISCLOSED | $26.0M | ELECTRONIC M/E, SCRUBBER FITTED |
 | Bulk Carriers | BULK PORTUGAL | Kamsarmax | 82,224 | 2012 | JAPAN | TSUNEISHI | GERMAN | $22.5M | 5-YEAR BBHP |
 | Bulk Carriers | PS CADIZ | Kamsarmax | 82,256 | 2010 | CHINA | TSUNEISHI ZHOUSHAN | GREEK | $16.8M | - |
 | Bulk Carriers | THERESA PRIDE | Ultramax | 62,619 | 2021 | JAPAN | OSHIMA | MIDDLE EASTERN | $39.0M | - |

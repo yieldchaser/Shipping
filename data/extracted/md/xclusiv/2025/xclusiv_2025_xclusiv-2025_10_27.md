@@ -209,9 +209,9 @@ In the MR2 segment, the Ice Class 1A sisters “Seaways Gatun” - 48K/2007 HMD 
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Tankers | RYVINGEN SUN | Panamax | 74,032 | 2007 | CHINA | NEW CENTURY | UNDISCLOSED | $14.2M | BASIS TC ATTACHED AT USD |
-| Tankers | PTI NILE | MR2 | 49,999 | 2016 | S. KOREA | SPP | UNDISCLOSED | $66.0M | 18,750/DAY TILL END 2025 +1 YEAR CHOP AT USD 19,250/ |
-| Tankers | PTI HUDSON | MR2 | 49,999 | 2016 | S. KOREA | SPP | UNDISCLOSED | $66.0M | DAY |
+| Tankers | RYVINGEN SUN | Panamax | 74,032 | 2007 | CHINA | NEW CENTURY | UNDISCLOSED | $14.2M | - |
+| Tankers | PTI NILE | MR2 | 49,999 | 2016 | S. KOREA | SPP | UNDISCLOSED | $66.0M | BASIS TC ATTACHED AT USD 18,750/DAY TILL END 2025 +1 YEAR CHOP AT USD 19,250/DAY |
+| Tankers | PTI HUDSON | MR2 | 49,999 | 2016 | S. KOREA | SPP | UNDISCLOSED | $66.0M | BASIS TC ATTACHED AT USD 18,750/DAY TILL END 2025 +1 YEAR CHOP AT USD 19,250/DAY |
 | Tankers | SEAWAYS GATUN | MR2 | 47,834 | 2007 | S. KOREA | HMD | EUROPEAN | $12.5M | ICE CLASS 1A |
 | Tankers | SEAWAYS HURON | MR2 | 47,781 | 2007 | S. KOREA | HMD | EUROPEAN | $12.5M | ICE CLASS 1A |
 | Tankers | JAG POOJA | MR2 | 48,539 | 2005 | JAPAN | IWAGI | UNDISCLOSED | $11.0M | - |

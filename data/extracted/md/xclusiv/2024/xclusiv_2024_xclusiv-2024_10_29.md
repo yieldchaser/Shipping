@@ -154,8 +154,8 @@ Following the previous weeks high interest on the Capesize sector, this week, an
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | HERO | Capesize | 178,076 | 2010 | CHINA | SWS | UNDISCLOSED | $26.5M | SCRUBBER FITTED, BASIS TC |
-| Bulk Carriers | GREENWICH PIONEER | Ultramax | 63,674 | 2020 | CHINA | NANTONG XIANGYU | UNDISCLOSED | $32.0M | FREE DELIVERY Q1 2025 |
+| Bulk Carriers | HERO | Capesize | 178,076 | 2010 | CHINA | SWS | UNDISCLOSED | $26.5M | - |
+| Bulk Carriers | GREENWICH PIONEER | Ultramax | 63,674 | 2020 | CHINA | NANTONG XIANGYU | UNDISCLOSED | $32.0M | SCRUBBER FITTED, BASIS TC FREE DELIVERY Q1 2025 |
 | Bulk Carriers | AUGUST OLDENDORFF | Ultramax | 61,090 | 2015 | JAPAN | JMU | GREEK | $50.0M | SCRUBBER FITTED |
 | Bulk Carriers | ALWINE OLDENDORFF | Ultramax | 61,090 | 2014 | JAPAN | JMU | GREEK | $50.0M | SCTUBBER FITTED |
 | Bulk Carriers | VIRONO PRIDE | Supramax | 58,761 | 2009 | PHILIPPINES | TSUNEISHI CEBU | CHINESE | $15.2M | - |

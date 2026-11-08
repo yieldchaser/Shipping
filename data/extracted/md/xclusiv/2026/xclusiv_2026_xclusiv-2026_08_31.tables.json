@@ -248,9 +248,9 @@
       "report_week": 35,
       "section": "Bulk Carriers",
       "page": 5,
-      "NAME": "AMANAH HALMAHERA",
+      "NAME": "AMANAH HALMAHERA AMC",
       "TYPE": "Supramax",
-      "DWT": "AMC 56,020",
+      "DWT": "56,020",
       "YEAR": "2003",
       "COUNTRY": "JAPAN",
       "YARD": "MITSUI",
@@ -359,7 +359,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "26 EACH",
       "PRICE_USD_MILL": 26.0,
-      "COMMENTS": "SS/DD DUE, 3 YEAR BB–",
+      "COMMENTS": "SS/DD DUE, 3 YEAR BB– BACK AT USD 16,000/DAY",
       "source_file": "xclusiv_2026_xclusiv-2026_08_31.pdf"
     },
     {
@@ -376,7 +376,7 @@
       "BUYERS": "",
       "PRICE": "26 EACH",
       "PRICE_USD_MILL": 26.0,
-      "COMMENTS": "BACK AT USD 16,000/DAY",
+      "COMMENTS": "SS/DD DUE, 3 YEAR BB– BACK AT USD 16,000/DAY",
       "source_file": "xclusiv_2026_xclusiv-2026_08_31.pdf"
     },
     {

@@ -163,14 +163,14 @@ The dry S&P activity was particularly strong this week. The mini cape “HL BALI
 | Bulk Carriers | YARRA | Panamax | 78,184 | 2015 | JAPAN | SASEBO | CHINESE | $28.0M | - |
 | Bulk Carriers | IVESTOS 8 | Panamax | 75,239 | 2008 | CHINA | HUDONG-ZHONGHUA | UNDISCLOSED | $11.7M | SS/DD DUE |
 | Bulk Carriers | SEACON TOKYO | Ultramax | 66,628 | 2023 | CHINA |  | GREEKS | $41.0M | - |
-| Bulk Carriers | AMIS WISDOM VI | Ultramax | 61,456 | 2011 | JAPAN | SHIN KASADO | UNDISCLOSED | $22.3M | BASIS SS/DD PASSED BASIS DELIVERY SS/ |
-| Bulk Carriers | AMIS WISDOM II | Ultramax | 61,611 | 2010 | JAPAN | OSHIMA | UNDISCLOSED | $22.0M | DD PASSED |
+| Bulk Carriers | AMIS WISDOM VI | Ultramax | 61,456 | 2011 | JAPAN | SHIN KASADO | UNDISCLOSED | $22.3M | BASIS SS/DD PASSED |
+| Bulk Carriers | AMIS WISDOM II | Ultramax | 61,611 | 2010 | JAPAN | OSHIMA | UNDISCLOSED | $22.0M | BASIS DELIVERY SS/DD PASSED |
 | Bulk Carriers | HPC ATLANTIC | Supramax | 56,064 | 2013 | JAPAN | MINAMINIPPON | UNDISCLOSED | $19.0M | - |
 | Bulk Carriers | ST PAUL | Supramax | 57,982 | 2010 | PHILIPPINES | TSUNEISHI CEBU | VIETNAMESE | $16.0M | - |
 | Bulk Carriers | CAPT EUGENE | Supramax | 55,499 | 2010 | JAPAN | MITSUI | UNDISCLOSED | $16.6M | - |
 | Bulk Carriers | BLUE DIAMOND | Supramax | 53,521 | 2008 | VIETNAM | HA LONG | UNDISCLOSED | $11.0M | - |
-| Bulk Carriers | LUCKY FINDER | Handysize | 37,268 | 2009 | JAPAN | SAIKI HEAVY | UNDISCLOSED | $13.0M | OHBS LOGGER, SS/DD DUE |
-| Bulk Carriers | SEAMEC GALLANT | Handysize | 32,289 | 2011 | CHINA | JIANGMEN NANYANG | UNDISCLOSED | $9.5M | 10/2026 |
+| Bulk Carriers | LUCKY FINDER | Handysize | 37,268 | 2009 | JAPAN | SAIKI HEAVY | UNDISCLOSED | $13.0M | OHBS |
+| Bulk Carriers | SEAMEC GALLANT | Handysize | 32,289 | 2011 | CHINA | JIANGMEN NANYANG | UNDISCLOSED | $9.5M | LOGGER, SS/DD DUE 10/2026 |
 | Bulk Carriers | YU SHUN | Handysize | 3,595 | 2012 | CHINA | YANTAI YU'AN | UNDISCLOSED | UNDISCLOSED | - |
 
 ### Tanker Secondhand Prices ($ mills)
@@ -206,8 +206,8 @@ This week’s tanker S&P activity was spread across the VLCC, Aframax/LR2 and sm
 | Tankers | CALYPSO | Aframax | 111,930 | 2021 | JAPAN | SUMITOMO | UNDISCLOSED | UNDISCLOSED | SS/DD DUE 07/26 |
 | Tankers | ELLIE LADY | Aframax | 109,999 | 2009 | S. KOREA | SUNGDONG | TO CLIENTS OF TRAFIGURA | $47.5M | - |
 | Tankers | VELOS EMERALD | Aframax | 115,042 | 2008 | JAPAN | SASEBO HEAVY | UNDISCLOSED | $50.0M | - |
-| Tankers | EVA HONGKONG | Small Tanker | 19,861 | 2017 | JAPAN | USUKI | UNDISCLOSED | $30.0M | STST SOLD VIA ONLINE |
-| Tankers | HAI XIANG YOU 3 | Small Tanker | 5,326 | 2011 | CHINA | JIANGSU LONGHAI | UNDISCLOSED | $1.1M | AUCTION |
+| Tankers | EVA HONGKONG | Small Tanker | 19,861 | 2017 | JAPAN | USUKI | UNDISCLOSED | $30.0M | STST |
+| Tankers | HAI XIANG YOU 3 | Small Tanker | 5,326 | 2011 | CHINA | JIANGSU LONGHAI | UNDISCLOSED | $1.1M | SOLD VIA ONLINE AUCTION |
 
 ---
 

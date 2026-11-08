@@ -157,8 +157,8 @@ On the Capesize sector, the “Cape Alliance” - 206K/2007 Imabari was sold for
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | CAPE ALLIANCE | Capesize | 206,190 | 2007 | JAPAN | IMABARI | WINNING SHIPPING | $35.0M | SCRUBBER FITTED, |
-| Bulk Carriers | WILLIAM OLDENDORFF | Capesize | 179,120 | 2017 | CHINA | JINHAI HEAVY | GREEK | $49.0M | MC ENGINE, Q1 |
+| Bulk Carriers | CAPE ALLIANCE | Capesize | 206,190 | 2007 | JAPAN | IMABARI | WINNING SHIPPING | $35.0M | - |
+| Bulk Carriers | WILLIAM OLDENDORFF | Capesize | 179,120 | 2017 | CHINA | JINHAI HEAVY | GREEK | $49.0M | SCRUBBER FITTED, MC ENGINE, Q1 |
 | Bulk Carriers | DELMAX66 | Ultramax | 66,565 | 2026 | PHILIPPINES | TSUNEISHI CEBU | BULGARIAN | $47.0M | SCRUBBER FITTED |
 | Bulk Carriers | LIBRA CONFIDENCE | Ultramax | 63,220 | 2019 | CHINA | NEW DAYANG | UNDISCLOSED | $33.5M | THROUGH AUCTION |
 | Bulk Carriers | KRISTINITA | Supramax | 58,110 | 2011 | CHINA | TSUNEISHI ZHOUSHAN | ADNOC | $20.0M | - |

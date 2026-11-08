@@ -373,7 +373,7 @@
       "BUYERS": "VEGA BULK",
       "PRICE": "18.5",
       "PRICE_USD_MILL": 18.5,
-      "COMMENTS": "ELECTRONIC M/E, OHBS ELECTRONIC M/E,",
+      "COMMENTS": "ELECTRONIC M/E, OHBS",
       "source_file": "xclusiv_2024_xclusiv-2024_03_11.pdf"
     },
     {
@@ -390,7 +390,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "MID/HIGH 16",
       "PRICE_USD_MILL": 16.0,
-      "COMMENTS": "OHBS, 232 TEU CAP",
+      "COMMENTS": "ELECTRONIC M/E, OHBS, 232 TEU CAP",
       "source_file": "xclusiv_2024_xclusiv-2024_03_11.pdf"
     },
     {
@@ -441,7 +441,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "32",
       "PRICE_USD_MILL": 32.0,
-      "COMMENTS": "06/2024 SCRUBBER FITTED, BSS SURVEYS DUE",
+      "COMMENTS": "SCRUBBER FITTED, BSS SURVEYS DUE 06/2024",
       "source_file": "xclusiv_2024_xclusiv-2024_03_11.pdf"
     },
     {
@@ -458,7 +458,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "30",
       "PRICE_USD_MILL": 30.0,
-      "COMMENTS": "09/2024",
+      "COMMENTS": "SCRUBBER FITTED, BSS SURVEYS DUE 09/2024",
       "source_file": "xclusiv_2024_xclusiv-2024_03_11.pdf"
     },
     {

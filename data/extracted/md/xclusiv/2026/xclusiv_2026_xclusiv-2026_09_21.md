@@ -158,8 +158,8 @@ In dry bulk, activity was spread across all major size segments this week. On th
 | Bulk Carriers | HOUHENG 6 | Capesize | 261,838 | 2017 | CHINA | ZHOUSHAN CHANGHONG | UNDISCLOSED | $70.0M | - |
 | Bulk Carriers | HOUHENG 5 | Capesize | 261,761 | 2017 | CHINA | GSI | UNDISCLOSED | $70.0M | - |
 | Bulk Carriers | HIGHLAND | Capesize | 174,092 | 2006 | CHINA | SWS | UNDISCLOSED | $25.0M | - |
-| Bulk Carriers | BORA | Kamsarmax | 81,682 | 2014 | CHINA | SAINTY | UNDISCLOSED | $22.0M | MC MAIN ENGINE BASIS SURVEYS |
-| Bulk Carriers | KING LOONG | Panamax | 77,430 | 2006 | JAPAN | OSHIMA | UNDISCLOSED | $13.0M | PASSED |
+| Bulk Carriers | BORA | Kamsarmax | 81,682 | 2014 | CHINA | SAINTY | UNDISCLOSED | $22.0M | MC MAIN ENGINE |
+| Bulk Carriers | KING LOONG | Panamax | 77,430 | 2006 | JAPAN | OSHIMA | UNDISCLOSED | $13.0M | BASIS SURVEYS PASSED |
 | Bulk Carriers | AERIKO | Ultramax | 63,351 | 2013 | CHINA | YANGZHOU DAYANG | UNDISCLOSED | $24.0M | - |
 | Bulk Carriers | VELA | Supramax | 53,565 | 2007 | VIETNAM | NAM TRIEU | UNDISCLOSED | $10.0M | - |
 | Bulk Carriers | SIDER BELLEZZA | Handysize | 40,010 | 2026 | JAPAN | NAIKAI ZOSEN | UNDISCLOSED | $38.5M | OHBS |

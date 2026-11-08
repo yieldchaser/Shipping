@@ -149,8 +149,8 @@ The Newcastlemax and Capesize sectors were notably active this week. HMM acquire
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | LUISE OLDENDORFF | Capesize | 207,562 | 2015 | S. KOREA | HHI | HMM | $51.0M | SCRUBBER FITTED SCRUBBER FITTED, |
-| Bulk Carriers | THALASSINI AGATHA | Capesize | 182,307 | 2011 | JAPAN | UNIVERSAL | SINGAPOREAN | $28.8M | ELECTRONIC M/E |
+| Bulk Carriers | LUISE OLDENDORFF | Capesize | 207,562 | 2015 | S. KOREA | HHI | HMM | $51.0M | SCRUBBER FITTED |
+| Bulk Carriers | THALASSINI AGATHA | Capesize | 182,307 | 2011 | JAPAN | UNIVERSAL | SINGAPOREAN | $28.8M | SCRUBBER FITTED, ELECTRONIC M/E |
 | Bulk Carriers | TRADERSHIP | Capesize | 176,925 | 2006 | JAPAN | NAMURA | UNDISCLOSED | $18.5M | - |
 | Bulk Carriers | BRILLIANT JUPITER | Capesize | 119,480 | 2010 | JAPAN | SANOYAS | UNDISCLOSED | $16.0M | - |
 | Bulk Carriers | MEDI NAGOYA | Kamsarmax | 81,671 | 2018 | PHILIPPINES | TSUNEISHI CEBU | VIETNAMESE | $28.0M | SCRUBBER FITTED |
@@ -193,8 +193,8 @@ In the tanker S&P market, the Suezmax sector was particularly active. Nigeria ba
 | Tankers | CASCADE SPIRIT | Suezmax | 156,853 | 2009 | CHINA | JIANGSU RONGSHENG | NIGERIA | $75.0M | - |
 | Tankers | ASPEN SPIRIT | Suezmax | 156,813 | 2008 | CHINA | JIANGSU RONGSHENG | NIGERIA | $75.0M | - |
 | Tankers | ADVANTAGE SOLAR | Suezmax | 156,643 | 2009 | CHINA | JIANGSU RONGSHENG | CHINESE | $36.4M | SCRUBBER FITTED |
-| Tankers | NORDIC CASTOR | Suezmax | 150,249 | 2004 | JAPAN | UNIVERSAL | UNDISCLOSED | $22.5M | BASIS SURVEYS DUE, |
-| Tankers | CONQUEST | Panamax | 73,917 | 2006 | CHINA | NEW CENTURY | UNDISCLOSED | $11.0M | SS/DD: 07/2025, DPP |
+| Tankers | NORDIC CASTOR | Suezmax | 150,249 | 2004 | JAPAN | UNIVERSAL | UNDISCLOSED | $22.5M | - |
+| Tankers | CONQUEST | Panamax | 73,917 | 2006 | CHINA | NEW CENTURY | UNDISCLOSED | $11.0M | BASIS SURVEYS DUE, SS/DD: 07/2025, DPP |
 | Tankers | SEAWAYS FRONTIER | MR2 | 49,999 | 2007 | S. KOREA | HMD | UNDISCLOSED | $14.0M | CPP |
 | Tankers | SEAWAYS CITRON | MR2 | 49,999 | 2007 | S. KOREA | HMD | UNDISCLOSED | $14.0M | CPP |
 | Tankers | DING HENG 2 | Small Tanker | 4,199 | 2007 | CHINA | ZHOUSHAN DINGHENG | MIDDLE EASTERN | $4.0M | - |

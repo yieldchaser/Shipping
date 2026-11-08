@@ -357,7 +357,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "REGION/EXCESS",
       "PRICE_USD_MILL": "",
-      "COMMENTS": "19",
+      "COMMENTS": "",
       "source_file": "xclusiv_2026_xclusiv-2026_05_25_.pdf"
     },
     {
@@ -595,7 +595,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "TC",
       "PRICE_USD_MILL": "",
-      "COMMENTS": "ATTACHED FOR 12 MONTHS AT RGN USD",
+      "COMMENTS": "",
       "source_file": "xclusiv_2026_xclusiv-2026_05_25_.pdf"
     },
     {
@@ -612,7 +612,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "198 ENBLOC",
       "PRICE_USD_MILL": 198.0,
-      "COMMENTS": "21.5/DAY ATTACHED FOR 12 MONTHS AT RGN USD",
+      "COMMENTS": "TC ATTACHED FOR 12 MONTHS AT RGN USD 21.5/DAY",
       "source_file": "xclusiv_2026_xclusiv-2026_05_25_.pdf"
     },
     {
@@ -629,7 +629,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "198 ENBLOC",
       "PRICE_USD_MILL": 198.0,
-      "COMMENTS": "23.8/DAY",
+      "COMMENTS": "TC ATTACHED FOR 12 MONTHS AT RGN USD 23.8/DAY",
       "source_file": "xclusiv_2026_xclusiv-2026_05_25_.pdf"
     },
     {

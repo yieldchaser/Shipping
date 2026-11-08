@@ -163,7 +163,7 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 |---|---|---|---|---|---|---|---|---|---|
 | Bulk Carriers | CAPE KENSINGTON | Capesize | 203,512 | 2006 | TAIWAN | CSBC | UNDISCLOSED | $26.0M | - |
 | Bulk Carriers | ROZA | Kamsarmax | 93,386 | 2010 | CHINA | YZJ | UNDISCLOSED | $11.5M | - |
-| Bulk Carriers | TRINITY I | Kamsarmax | 93,280 | 2010 | CHINA | YZJ | UNDISCLOSED | EACH | - |
+| Bulk Carriers | TRINITY I | Kamsarmax | 93,280 | 2010 | CHINA | YZJ | UNDISCLOSED | $11.5M | - |
 | Bulk Carriers | THREE SASKIAS | Kamsarmax | 81,094 | 2014 | JAPAN | JMU | UNDISCLOSED | $26.8M | ELECTRONIC M/E |
 | Bulk Carriers | ASL MOON | Kamsarmax | 81,702 | 2008 | JAPAN | MITSUI | CHINESE | $13.6M | - |
 | Bulk Carriers | OCEAN LION | Panamax | 75,656 | 2005 | JAPAN | SANOYAS | UNDISCLOSED | $10.0M | - |
@@ -214,7 +214,7 @@ This week’s tanker sale and purchase activity was even- ly distributed across 
 | Tankers | HAFNIA YANGTZE | Panamax | 76,579 | 2009 | CHINA | DALIAN | UNDISCLOSED | $20.0M | COATED |
 | Tankers | CHEMTRANS TAURUS | Panamax | 72,782 | 2006 | CHINA | DALIAN | UNDISCLOSED | $12.5M | DPP |
 | Tankers | NORD MARVEL | MR2 | 50,185 | 2020 | S. KOREA | HMD | UNDISCLOSED | $44.0M | - |
-| Tankers | NORD MAVERICK | MR2 | 50,185 | 2020 | S. KOREA | HMD | UNDISCLOSED | EACH | - |
+| Tankers | NORD MAVERICK | MR2 | 50,185 | 2020 | S. KOREA | HMD | UNDISCLOSED | $44.0M | - |
 | Tankers | ALTAIR | MR2 | 50,583 | 2017 | S. KOREA | DAE SUN | UNDISCLOSED | $38.0M | - |
 | Tankers | FALCON MAJESTIC | MR2 | 47,097 | 2008 | S. KOREA | HMD | UNDISCLOSED | $17.75M | - |
 | Tankers | MARINER A | MR2 | 40,099 | 2005 | S. KOREA | SHINA | NIGERIAN | $12.0M | - |

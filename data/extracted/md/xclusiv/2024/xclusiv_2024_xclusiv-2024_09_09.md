@@ -162,7 +162,7 @@ The dry S&P activity remains robust, with the Capesize, Supramax, and Handysize 
 | Bulk Carriers | AMIS MIRACLE | Ultramax | 62,601 | 2018 | JAPAN | OSHIMA | UNDISCLOSED | $34.35M | - |
 | Bulk Carriers | ETERNAL HAKATA | Ultramax | 61,353 | 2014 | JAPAN | IMABARI | GREEK | $24.75M | ELECTRONIC M/E |
 | Bulk Carriers | NASCO PEARL | Supramax | 56,861 | 2010 | CHINA | ZHEJIANG ZHENGHE | UNDISCLOSED | $12.0M | - |
-| Bulk Carriers | NASCO JADE | Supramax | 56,316 | 2010 | CHINA | ZHEJIANG ZHENGHE | UNDISCLOSED | EACH | - |
+| Bulk Carriers | NASCO JADE | Supramax | 56,316 | 2010 | CHINA | ZHEJIANG ZHENGHE | UNDISCLOSED | $12.0M | - |
 | Bulk Carriers | TITAN I | Supramax | 58,090 | 2009 | PHILIPPINES | TSUNEISHI CEBU | INDONESIAN | $16.0M | - |
 | Bulk Carriers | SPARNA | Supramax | 54,881 | 2006 | JAPAN | OSHIMA | CHINESE | $14.0M | - |
 | Bulk Carriers | GLOBE EXPLORER | Handysize | 28,316 | 2015 | JAPAN | IMABARI | GREEK | $14.7M | - |

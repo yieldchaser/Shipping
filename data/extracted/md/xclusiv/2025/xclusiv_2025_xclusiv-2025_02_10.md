@@ -190,7 +190,7 @@ On the VLCC sector, the Scrubber fitted “FPMC C In- telligence” - 302K/2010 
 | Tankers | FPMC C INTELLIGENCE | VLCC | 301,861 | 2010 | JAPAN | IHI | CHINESE | $40.0M | SCRUBBER FITTED |
 | Tankers | JIAOLONG SPIRIT | Suezmax | 159,021 | 2009 | CHINA | BOHAI | GREEK | $35.0M | - |
 | Tankers | DILONG SPIRIT | Suezmax | 159,021 | 2009 | CHINA | BOHAI | GREEK | $35.0M | - |
-| Tankers | SHENLONG SPIRIT | Suezmax | 159,021 | 2009 | CHINA | BOHAI | GREEK | EACH | - |
+| Tankers | SHENLONG SPIRIT | Suezmax | 159,021 | 2009 | CHINA | BOHAI | GREEK | $35.0M | - |
 | Tankers | TIANLONG SPIRIT | Suezmax | 159,021 | 2009 | CHINA | BOHAI | GREEK | $35.0M | - |
 | Tankers | HORIZON ATHENA | MR2 | 50,242 | 2008 | S. KOREA | SPP | UNDISCLOSED | $20.0M | ON SUBS |
 | Tankers | SUNNY STAR | Small Tanker | 37,587 | 2010 | S. KOREA | HMD | GREEK | $17.5M | - |

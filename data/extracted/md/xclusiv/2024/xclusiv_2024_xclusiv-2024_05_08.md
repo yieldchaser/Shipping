@@ -160,11 +160,11 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | BALTIMORE | Capesize | 177,243 | 2005 | JAPAN | NAMURA | UNDISCLOSED | $18.25M | DAY TILL 15TH SEP 2024 |
+| Bulk Carriers | BALTIMORE | Capesize | 177,243 | 2005 | JAPAN | NAMURA | UNDISCLOSED | $18.25M | TC ATTACHED AT USD 22K/DAY TILL 15TH SEP 2024 |
 | Bulk Carriers | OASEA | Kamsarmax | 82,217 | 2010 | CHINA | TSUNEISHI ZHOUSHAN | GREEK | $20.25M | - |
 | Bulk Carriers | CUMA | Kamsarmax | 83,007 | 2006 | JAPAN | TSUNEISHI | UNDISCLOSED | $15.0M | - |
-| Bulk Carriers | MAGIC VELA | Panamax | 75,200 | 2011 | CHINA | PENGLAI JINGLU | TURKISH | $16.5M | TC ATTACHED TILL JULY- |
-| Bulk Carriers | CHAILEASE GLORY | Panamax | 76,633 | 2003 | JAPAN | IMABARI | UNDISCLOSED | $11.0M | OCTOBER |
+| Bulk Carriers | MAGIC VELA | Panamax | 75,200 | 2011 | CHINA | PENGLAI JINGLU | TURKISH | $16.5M | - |
+| Bulk Carriers | CHAILEASE GLORY | Panamax | 76,633 | 2003 | JAPAN | IMABARI | UNDISCLOSED | $11.0M | TC ATTACHED TILL JULY-OCTOBER |
 | Bulk Carriers | AC SHANGHAI | Panamax | 75,211 | 2001 | S. KOREA | SAMHO | CHINESE | $8.0M | ICE CLASS II, DD DUE |
 | Bulk Carriers | DONG JIANG YOU | Panamax | 75,265 | 1999 | ITALY | FINCANTIERI | UNDISCLOSED | $7.0M | - |
 | Bulk Carriers | FLORENTINE OETKER | Ultramax | 63,490 | 2017 | JAPAN | IMABARI | TURKISH | $33.0M | - |

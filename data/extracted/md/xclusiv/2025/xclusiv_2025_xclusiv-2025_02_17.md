@@ -192,8 +192,8 @@ This week, tanker S&P activity was subdued, with only four sales reported, two i
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
 | Tankers | ELYTIS | Aframax | 113,839 | 2024 | CHINA | SWS | GREEK | $143.0M | COATED |
-| Tankers | KAVAFIS | Aframax | 113,841 | 2023 | CHINA | SWS | GREEK | $143.0M | COATED TWIN M/E, SHALLOW |
-| Tankers | GOLDEN DAHLIA | Small Tanker | 34,834 | 2021 | CHINA | FUJIAN MAWEI | UNION MARITIME | $32.88M | DRAFT |
+| Tankers | KAVAFIS | Aframax | 113,841 | 2023 | CHINA | SWS | GREEK | $143.0M | COATED |
+| Tankers | GOLDEN DAHLIA | Small Tanker | 34,834 | 2021 | CHINA | FUJIAN MAWEI | UNION MARITIME | $32.88M | TWIN M/E, SHALLOW DRAFT |
 | Tankers | EASTERLY SIRIUS | Small Tanker | 36,677 | 2010 | S. KOREA | HMD | GREEK | $16.0M | SURVEYS DUE |
 
 ### Other Reported Sales (Gas / Containers)

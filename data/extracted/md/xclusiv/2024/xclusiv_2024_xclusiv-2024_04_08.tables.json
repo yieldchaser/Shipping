@@ -135,7 +135,7 @@
       "BUYERS": "JPM",
       "PRICE": "43",
       "PRICE_USD_MILL": 43.0,
-      "COMMENTS": "2026-JAN 2027 AT USD 24K/DAY",
+      "COMMENTS": "SCRUBBER FITTED, ELECTRONIC M/E, TC TILL OCT 2026-JAN 2027 AT USD 24K/DAY",
       "source_file": "xclusiv_2024_xclusiv-2024_04_08.pdf"
     },
     {
@@ -220,7 +220,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "36.3",
       "PRICE_USD_MILL": 36.3,
-      "COMMENTS": "ELECTRONIC M/E, TC AT",
+      "COMMENTS": "",
       "source_file": "xclusiv_2024_xclusiv-2024_04_08.pdf"
     },
     {
@@ -237,7 +237,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "20",
       "PRICE_USD_MILL": 20.0,
-      "COMMENTS": "USD 10.1K/DAY TILL SEP 2024/MAR 2025",
+      "COMMENTS": "ELECTRONIC M/E, TC AT USD 10.1K/DAY TILL SEP 2024/MAR 2025",
       "source_file": "xclusiv_2024_xclusiv-2024_04_08.pdf"
     },
     {
@@ -373,6 +373,40 @@
       "BUYERS": "CHINESE",
       "PRICE": "30.35",
       "PRICE_USD_MILL": 30.35,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2024_xclusiv-2024_04_08.pdf"
+    },
+    {
+      "issue_date": "2024-04-08",
+      "report_week": 14,
+      "section": "Tankers",
+      "page": 6,
+      "NAME": "JIANGSU NEWYANGZI YZJ2023-1515",
+      "TYPE": "MR2",
+      "DWT": "49,990",
+      "YEAR": "2025",
+      "COUNTRY": "CHINA",
+      "YARD": "JNS",
+      "BUYERS": "THENAMARIS",
+      "PRICE": "53 EACH",
+      "PRICE_USD_MILL": 53.0,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2024_xclusiv-2024_04_08.pdf"
+    },
+    {
+      "issue_date": "2024-04-08",
+      "report_week": 14,
+      "section": "Tankers",
+      "page": 6,
+      "NAME": "JIANGSU NEWYANGZI YZJ2023-1516",
+      "TYPE": "MR2",
+      "DWT": "49,990",
+      "YEAR": "2025",
+      "COUNTRY": "CHINA",
+      "YARD": "JNS",
+      "BUYERS": "THENAMARIS",
+      "PRICE": "53 EACH",
+      "PRICE_USD_MILL": 53.0,
       "COMMENTS": "",
       "source_file": "xclusiv_2024_xclusiv-2024_04_08.pdf"
     },
@@ -527,40 +561,6 @@
       "PRICE": "11.3 EACH",
       "PRICE_USD_MILL": 11.3,
       "COMMENTS": "ICE CLASS 1A",
-      "source_file": "xclusiv_2024_xclusiv-2024_04_08.pdf"
-    },
-    {
-      "issue_date": "2024-04-08",
-      "report_week": 14,
-      "section": "Tankers",
-      "page": 6,
-      "NAME": "JIANGSU NEWYANGZI YZJ2023-1515",
-      "TYPE": "MR2",
-      "DWT": "49,990",
-      "YEAR": "2025",
-      "COUNTRY": "CHINA",
-      "YARD": "JNS",
-      "BUYERS": "THENAMARIS",
-      "PRICE": "53 EACH",
-      "PRICE_USD_MILL": 53.0,
-      "COMMENTS": "",
-      "source_file": "xclusiv_2024_xclusiv-2024_04_08.pdf"
-    },
-    {
-      "issue_date": "2024-04-08",
-      "report_week": 14,
-      "section": "Tankers",
-      "page": 6,
-      "NAME": "JIANGSU NEWYANGZI YZJ2023-1516",
-      "TYPE": "MR2",
-      "DWT": "49,990",
-      "YEAR": "2025",
-      "COUNTRY": "CHINA",
-      "YARD": "JNS",
-      "BUYERS": "THENAMARIS",
-      "PRICE": "53 EACH",
-      "PRICE_USD_MILL": 53.0,
-      "COMMENTS": "",
       "source_file": "xclusiv_2024_xclusiv-2024_04_08.pdf"
     }
   ],

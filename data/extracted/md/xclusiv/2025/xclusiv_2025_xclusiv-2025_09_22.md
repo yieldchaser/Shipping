@@ -167,8 +167,8 @@ The dry S&P activity was strong this week, with the Ultramax/Supramax sector tak
 | Bulk Carriers | CMB TENIERS | Ultramax | 63,611 | 2021 | JAPAN | SHIN KASADO | HMM | $65.0M | - |
 | Bulk Carriers | CMB VAN DIJCK | Ultramax | 63,667 | 2020 | JAPAN | SHIN KASADO | HMM | $65.0M | - |
 | Bulk Carriers | ELIZABETH M II | Ultramax | 63,683 | 2020 | CHINA | NANTONG XIANGYU | UNDISCLOSED | $30.0M | SCRUBBER FITTED |
-| Bulk Carriers | BULK CASTOR | Ultramax | 66,624 | 2015 | JAPAN | MITSUI | UNDISCLOSED | $24.0M | ELECTRONIC M/E SCRUBBER FITTED, |
-| Bulk Carriers | AFRICAN CHEETAH | Ultramax | 66,684 | 2014 | JAPAN | MITSUI | BANGLADESH | $24.0M | ELECTRONIC M/E |
+| Bulk Carriers | BULK CASTOR | Ultramax | 66,624 | 2015 | JAPAN | MITSUI | UNDISCLOSED | $24.0M | ELECTRONIC M/E |
+| Bulk Carriers | AFRICAN CHEETAH | Ultramax | 66,684 | 2014 | JAPAN | MITSUI | BANGLADESH | $24.0M | SCRUBBER FITTED, ELECTRONIC M/E |
 | Bulk Carriers | EXPLORER EUROPE | Ultramax | 61,457 | 2012 | JAPAN | IWAGI | UNDISCLOSED | $18.0M | - |
 | Bulk Carriers | ULTRA COLONSAY | Ultramax | 61,470 | 2011 | JAPAN | SHIN KASADO | FAR EASTERN | $18.0M | - |
 | Bulk Carriers | QUEEN FLOWER | Supramax | 50,477 | 2013 | JAPAN | OSHIMA | DEVBULK | $16.0M | OHBS |

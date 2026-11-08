@@ -162,14 +162,14 @@ On the Newcastlemax sector, the Scrubber fitted “Bulk Santos” - 208K/2020 Ne
 |---|---|---|---|---|---|---|---|---|---|
 | Bulk Carriers | BULK SANTOS | Capesize | 208,445 | 2020 | CHINA | NEW TIMES | UNDISCLOSED | $145.5M | SCRUBBER FITTED |
 | Bulk Carriers | BULK SYDNEY | Capesize | 207,992 | 2020 | CHINA | NEW TIMES | UNDISCLOSED | $145.5M | SCRUBBER FITTED |
-| Bulk Carriers | SEACON AFRICA | Capesize | 206,291 | 2006 | JAPAN | IMABARI | CHINESE | $22.7M | BASIS TC ATTACHED AT |
-| Bulk Carriers | PIAVIA | Kamsarmax | 93,296 | 2011 | CHINA | YANGFAN | UNDISCLOSED | $11.75M | 102% OF BPI, MIN REDELY Dec 2025 |
+| Bulk Carriers | SEACON AFRICA | Capesize | 206,291 | 2006 | JAPAN | IMABARI | CHINESE | $22.7M | - |
+| Bulk Carriers | PIAVIA | Kamsarmax | 93,296 | 2011 | CHINA | YANGFAN | UNDISCLOSED | $11.75M | BASIS TC ATTACHED AT 102% OF BPI, MIN REDELY Dec 2025 |
 | Bulk Carriers | JAL KUMUD | Panamax | 76,302 | 2008 | JAPAN | IMABARI | CHINESE | $13.1M | - |
 | Bulk Carriers | IONIAN PRINCESS | Panamax | 76,596 | 2007 | JAPAN | IMABARI | UNDISCLOSED | $10.3M | - |
 | Bulk Carriers | BEAUTY JASMINE | Ultramax | 63,638 | 2015 | CHINA | CHINA SHIPBUILDING | UNDISCLOSED | $23.0M | - |
 | Bulk Carriers | GRACE HARMONY | Ultramax | 60,259 | 2015 | JAPAN | ONOMICHI | UNDISCLOSED | $24.0M | - |
-| Bulk Carriers | TRIDENT STAR | Supramax | 57,836 | 2015 | PHILIPPINES | TSUNEISHI CEBU | UNDISCLOSED | $18.4M | BASIS PROMPT DELIVERY |
-| Bulk Carriers | EMIL SELMER | Handysize | 32,626 | 2010 | CHINA | JIANGSU ZHENJIANG | UNDISCLOSED | $8.0M | WITH SS/DD DUE |
+| Bulk Carriers | TRIDENT STAR | Supramax | 57,836 | 2015 | PHILIPPINES | TSUNEISHI CEBU | UNDISCLOSED | $18.4M | - |
+| Bulk Carriers | EMIL SELMER | Handysize | 32,626 | 2010 | CHINA | JIANGSU ZHENJIANG | UNDISCLOSED | $8.0M | BASIS PROMPT DELIVERY WITH SS/DD DUE |
 | Bulk Carriers | KALLISTI GS | Handysize | 32,077 | 2010 | JAPAN | THE HAKODATE | UNDISCLOSED | $11.2M | - |
 
 ### Tanker Secondhand Prices ($ mills)

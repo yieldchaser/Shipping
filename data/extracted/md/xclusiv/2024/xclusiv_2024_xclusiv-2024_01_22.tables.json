@@ -271,7 +271,7 @@
       "BUYERS": "CHINESE",
       "PRICE": "42",
       "PRICE_USD_MILL": 42.0,
-      "COMMENTS": "COATED, CLEAN COATED, DIRTY, INTERMEDIATE",
+      "COMMENTS": "COATED, CLEAN",
       "source_file": "xclusiv_2024_xclusiv-2024_01_22.pdf"
     },
     {
@@ -288,7 +288,7 @@
       "BUYERS": "TURKISH",
       "PRICE": "33.8",
       "PRICE_USD_MILL": 33.8,
-      "COMMENTS": "PASSED",
+      "COMMENTS": "COATED, DIRTY, INTERMEDIATE PASSED",
       "source_file": "xclusiv_2024_xclusiv-2024_01_22.pdf"
     },
     {

@@ -171,7 +171,7 @@
       "BUYERS": "GREEK",
       "PRICE": "23.5",
       "PRICE_USD_MILL": 23.5,
-      "COMMENTS": "SCRUBBER FITTED BASIS TC ATTACHED AT USD",
+      "COMMENTS": "SCRUBBER FITTED",
       "source_file": "xclusiv_2025_xclusiv-2025_10_13.pdf"
     },
     {
@@ -188,7 +188,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "17.75",
       "PRICE_USD_MILL": 17.75,
-      "COMMENTS": "14,750/DAY TILL MIN DEC 2025 - MAX FEB 2025",
+      "COMMENTS": "BASIS TC ATTACHED AT USD 14,750/DAY TILL MIN DEC 2025 - MAX FEB 2025",
       "source_file": "xclusiv_2025_xclusiv-2025_10_13.pdf"
     },
     {
@@ -390,7 +390,7 @@
       "COUNTRY": "S. KOREA",
       "YARD": "HYUNDAI SAMHO",
       "BUYERS": "PERFORMANCE SHIPPING",
-      "PRICE": "75.438",
+      "PRICE": "75.438 EACH",
       "PRICE_USD_MILL": 75.438,
       "COMMENTS": "",
       "source_file": "xclusiv_2025_xclusiv-2025_10_13.pdf"
@@ -407,8 +407,8 @@
       "COUNTRY": "S. KOREA",
       "YARD": "HYUNDAI SAMHO",
       "BUYERS": "PERFORMANCE SHIPPING",
-      "PRICE": "EACH",
-      "PRICE_USD_MILL": "",
+      "PRICE": "75.438 EACH",
+      "PRICE_USD_MILL": 75.438,
       "COMMENTS": "",
       "source_file": "xclusiv_2025_xclusiv-2025_10_13.pdf"
     },
@@ -528,7 +528,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "20.75",
       "PRICE_USD_MILL": 20.75,
-      "COMMENTS": "ICE CLASS 1C,",
+      "COMMENTS": "",
       "source_file": "xclusiv_2025_xclusiv-2025_10_13.pdf"
     },
     {
@@ -545,7 +545,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "LOW 20's",
       "PRICE_USD_MILL": 20.0,
-      "COMMENTS": "COATED ICE CLASS 1B,",
+      "COMMENTS": "ICE CLASS 1C, COATED",
       "source_file": "xclusiv_2025_xclusiv-2025_10_13.pdf"
     },
     {
@@ -562,7 +562,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "LOW 20's",
       "PRICE_USD_MILL": 20.0,
-      "COMMENTS": "COATED SCRUBBER",
+      "COMMENTS": "ICE CLASS 1B, COATED",
       "source_file": "xclusiv_2025_xclusiv-2025_10_13.pdf"
     },
     {
@@ -579,7 +579,7 @@
       "BUYERS": "PAKISTAN NATIONAL SHIPPING",
       "PRICE": "44.15",
       "PRICE_USD_MILL": 44.15,
-      "COMMENTS": "FITTED",
+      "COMMENTS": "SCRUBBER FITTED",
       "source_file": "xclusiv_2025_xclusiv-2025_10_13.pdf"
     },
     {

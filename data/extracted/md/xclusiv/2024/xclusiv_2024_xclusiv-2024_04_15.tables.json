@@ -170,7 +170,7 @@
       "BUYERS": "MEGHNA",
       "PRICE": "36",
       "PRICE_USD_MILL": 36.0,
-      "COMMENTS": "SCRUBBER FITTED, ELECTRONIC",
+      "COMMENTS": "",
       "source_file": "xclusiv_2024_xclusiv-2024_04_15.pdf"
     },
     {
@@ -187,7 +187,7 @@
       "BUYERS": "GREEK",
       "PRICE": "24.5",
       "PRICE_USD_MILL": 24.5,
-      "COMMENTS": "M/E",
+      "COMMENTS": "SCRUBBER FITTED, ELECTRONIC M/E",
       "source_file": "xclusiv_2024_xclusiv-2024_04_15.pdf"
     },
     {
@@ -374,7 +374,7 @@
       "BUYERS": "TIME",
       "PRICE": "36 TWIN",
       "PRICE_USD_MILL": 36.0,
-      "COMMENTS": "M/E DESIGN, SHALLOW DRAFT TC ATTACHED AT USD 13K/DAY",
+      "COMMENTS": "TWIN M/E DESIGN, SHALLOW DRAFT",
       "source_file": "xclusiv_2024_xclusiv-2024_04_15.pdf"
     },
     {
@@ -391,7 +391,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "23",
       "PRICE_USD_MILL": 23.0,
-      "COMMENTS": "TILL JAN 2025",
+      "COMMENTS": "BASIS TC ATTACHED AT USD 13K/DAY TILL JAN 2025",
       "source_file": "xclusiv_2024_xclusiv-2024_04_15.pdf"
     }
   ],

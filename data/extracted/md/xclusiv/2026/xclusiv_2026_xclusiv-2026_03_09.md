@@ -155,7 +155,7 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Bulk Carriers | CAPE SANDRA | Capesize | 175,607 | 2011 | PHILIPPINES | HHIC | UNDISCLOSED | $32.0M | FITTED |
+| Bulk Carriers | CAPE SANDRA | Capesize | 175,607 | 2011 | PHILIPPINES | HHIC | UNDISCLOSED | $32.0M | SS/DD DUE, SCRUBBER FITTED |
 | Bulk Carriers | NORD AURIGA | Kamsarmax | 81,795 | 2020 | CHINA | JNS | UNDISCLOSED | $32.0M | SCRUBBER FITTED |
 | Bulk Carriers | SPIRIT OF HO-PING | Kamsarmax | 82,152 | 2011 | JAPAN | TSUNEISHI | UNDISCLOSED | $19.35M | - |
 | Bulk Carriers | GENCO PREDATOR | Supramax | 55,407 | 2005 | CHINA | NACKS | UNDISCLOSED | $21.0M | - |
@@ -201,8 +201,8 @@ On the Aframax sector, the “GREEN ATTITUDE” - 113K/2018 Cosco found new owne
 | Tankers | VOLTA RIVER | Aframax | 105,839 | 2007 | JAPAN | TSUNEISHI | UNDISCLOSED | $33.0M | - |
 | Tankers | STI OSCEOLA | MR2 | 49,990 | 2015 | S. KOREA | HMD | UNDISCLOSED | $35.0M | - |
 | Tankers | STI SENECA | MR2 | 49,990 | 2015 | S. KOREA | HMD | UNDISCLOSED | $35.0M | - |
-| Tankers | FJELLANGER | MR2 | 46,287 | 2010 | S. KOREA | HMD | UNDISCLOSED | ML | COATED, SCRUBBER FITTED |
-| Tankers | FINNANGER | MR2 | 46,251 | 2009 | S. KOREA | HMD | UNDISCLOSED | ML | COATED, SCRUBBER FITTED |
+| Tankers | FJELLANGER | MR2 | 46,287 | 2010 | S. KOREA | HMD | UNDISCLOSED | ML | ML COATED, SCRUBBER FITTED |
+| Tankers | FINNANGER | MR2 | 46,251 | 2009 | S. KOREA | HMD | UNDISCLOSED | ML | ML COATED, SCRUBBER FITTED |
 | Tankers | ASIA EVERGREEN | Small Tanker | 14,000 | 2012 | CHINA | FUJIAN SHENGLONG | UNDISCLOSED | $9.0M | - |
 
 ---

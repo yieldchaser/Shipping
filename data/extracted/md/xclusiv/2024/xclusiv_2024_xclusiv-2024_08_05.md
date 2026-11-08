@@ -173,10 +173,10 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 | Bulk Carriers | CENTURY ZHENGZHOU | Ultramax | 63,550 | 2024 | CHINA | NANTONG XIANGYU | NORWEGIAN | $38.3M | RESALE |
 | Bulk Carriers | JAL KAMAL | Ultramax | 63,319 | 2020 | JAPAN | IMABARI | EUROPEAN | $37.0M | SS: 02/2025 - DD: 02/2025 |
 | Bulk Carriers | DOLCE VITA | Ultramax | 61,616 | 2012 | JAPAN | OSHIMA | CHINESE | $23.5M | SS: 09/2027 - DD: 01/2026 |
-| Bulk Carriers | MONICA D | Supramax | 52,478 | 2001 | JAPAN | SHIN KURUSHIMA | UNDISCLOSED | $7.8M | SS: 12/2026 - DD: 12/2024 SS: 04/2026 - DD: 04/2026, |
-| Bulk Carriers | CIELO DI TAMPA | Handysize | 39,202 | 2016 | CHINA | YANGFAN | UNDISCLOSED | $23.0M | OHBS SS: 01/2028 - DD: 01/2026, |
-| Bulk Carriers | LIFE PASSION | Handysize | 37,332 | 2018 | CHINA | NANJING DONGZE | GERMAN | $22.0M | ICE CLASS 1C SS: 06/2027 - DD: 01/2025, |
-| Bulk Carriers | KEN RYU | Handysize | 31,949 | 2002 | JAPAN | SAIKI | UNDISCLOSED | $6.0M | OHBS |
+| Bulk Carriers | MONICA D | Supramax | 52,478 | 2001 | JAPAN | SHIN KURUSHIMA | UNDISCLOSED | $7.8M | SS: 12/2026 - DD: 12/2024 |
+| Bulk Carriers | CIELO DI TAMPA | Handysize | 39,202 | 2016 | CHINA | YANGFAN | UNDISCLOSED | $23.0M | SS: 04/2026 - DD: 04/2026, OHBS |
+| Bulk Carriers | LIFE PASSION | Handysize | 37,332 | 2018 | CHINA | NANJING DONGZE | GERMAN | $22.0M | SS: 01/2028 - DD: 01/2026, ICE CLASS 1C |
+| Bulk Carriers | KEN RYU | Handysize | 31,949 | 2002 | JAPAN | SAIKI | UNDISCLOSED | $6.0M | SS: 06/2027 - DD: 01/2025, OHBS |
 
 ### Tanker Secondhand Prices ($ mills)
 
@@ -209,8 +209,8 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Tankers | SEAQUEEN | Aframax | 115,369 | 2004 | S. KOREA | SAMSUNG | UNDISCLOSED | $30.0M | SS: 11/2024—D:11/2024 10/2024 - DD: 10/2024, FORWARD |
-| Tankers | NAVE ORBIT | MR2 | 50,469 | 2009 | S. KOREA | SPP | UNDISCLOSED | $26.0M | DELY |
+| Tankers | SEAQUEEN | Aframax | 115,369 | 2004 | S. KOREA | SAMSUNG | UNDISCLOSED | $30.0M | SS: 11/2024—D:11/2024 |
+| Tankers | NAVE ORBIT | MR2 | 50,469 | 2009 | S. KOREA | SPP | UNDISCLOSED | $26.0M | SS: 10/2024 - DD: 10/2024, FORWARD DELY |
 | Tankers | MTM GIBRALTAR | Small Tanker | 20,810 | 2003 | JAPAN | KITANIHON | UNDISCLOSED | $14.5M | SS: 08/2028 - DD: 08/2026, STST |
 | Tankers | SAMBONG HERA | Small Tanker | 11,416 | 2018 | S. KOREA | STX | UNDISCLOSED | $23.8M | SS: 10/2028 - DD: 10/2026 |
 

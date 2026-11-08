@@ -203,7 +203,7 @@ This week saw three VLCC transactions. “Papalemos” – 319K/2018 HHI was sol
 
 | Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
 |---|---|---|---|---|---|---|---|---|---|
-| Tankers | PAPALEMOS | VLCC | 319,191 | 2018 | S. KOREA | HHI | DHT | $108.0M | BER - NOVEMBER 2025 |
+| Tankers | PAPALEMOS | VLCC | 319,191 | 2018 | S. KOREA | HHI | DHT | $108.0M | BASIS DELIVERY SEPTEMBER - NOVEMBER 2025 |
 | Tankers | C. SPIRIT | VLCC | 313,998 | 2013 | S. KOREA | HHI | YASA SHIPPING | $67.0M | - |
 | Tankers | ALTER EGO | VLCC | 299,235 | 2006 | CHINA | NANTONG COSCO | UNDISCLOSED | $42.0M | - |
 | Tankers | NORDIC THUNDER | Suezmax | 157,374 | 2017 | S. KOREA | HYUNDAI SAMHO | DELTA TANKERS | $66.0M | - |

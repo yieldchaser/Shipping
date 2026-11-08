@@ -80,7 +80,7 @@ jobs:
           # TODO: quality gate script does not exist yet
           python scripts/verify/build_corpus_inventory.py --merge-existing || true
           python scripts/sync_extraction_register.py || true
-          python scripts/audit/generate_cadence_audit.py || true
+          python scripts/audit/generate_cadence_audit.py || echo "::warning::generate_cadence_audit failed; corpus cadence/audit xlsx not refreshed this run"
           # Series that stopped joining new issues (the auto-join gap) show as a run warning
           python scripts/verify/series_freshness.py || echo "::warning::series_freshness: live series lag their publisher's newest parsed issue (see log)"
 

@@ -156,7 +156,7 @@ On the Capesize sector, the “Mount Song”- 180K/2010 Koyo was sold for USD 27
 | Bulk Carriers | MOUNT AUSTIN | Capesize | 178,623 | 2010 | JAPAN | MITSUI | CHINESE | $27.5M | - |
 | Bulk Carriers | SALDANHA | Panamax | 75,707 | 2004 | JAPAN | SANOYAS | CHINESE | $7.0M | SCRUBBER FITTED |
 | Bulk Carriers | KMARIN OSLO | Ultramax | 63,099 | 2015 | CHINA JIANGSU | NEW HANTONG | UNDISCLOSED | $22.0M | - |
-| Bulk Carriers | FEDERAL LYRA | Supramax | 55,725 | 2014 | JAPAN | MITSUI | UNDISCLOSED | $18.5M | CLASS 1C, CONVENTIONAL M/E |
+| Bulk Carriers | FEDERAL LYRA | Supramax | 55,725 | 2014 | JAPAN | MITSUI | UNDISCLOSED | $18.5M | ICE CLASS 1C, CONVENTIONAL M/E |
 | Bulk Carriers | SEASTAR MERLIN | Handysize | 39,795 | 2025 | JAPAN | NAIKAI ZOSEN | KOREAN | $34.0M | DELIVERY EX-YARD MAY 2025 |
 | Bulk Carriers | JAUNTY JENNY | Handysize | 33,628 | 2012 | JAPAN | SHIN KURUSHIMA | UNDISCLOSED | $13.0M | OHBS |
 | Bulk Carriers | ACHILLES BULKER | Handysize | 32,729 | 2003 | JAPAN | KANDA | LEBANESE | $6.0M | - |

@@ -271,7 +271,7 @@
       "COUNTRY": "CHINA",
       "YARD": "ZHEJIANG ZHENGHE",
       "BUYERS": "UNDISCLOSED",
-      "PRICE": "HIGH 12",
+      "PRICE": "HIGH 12 EACH",
       "PRICE_USD_MILL": 12.0,
       "COMMENTS": "",
       "source_file": "xclusiv_2024_xclusiv-2024_09_09.pdf"
@@ -288,8 +288,8 @@
       "COUNTRY": "CHINA",
       "YARD": "ZHEJIANG ZHENGHE",
       "BUYERS": "UNDISCLOSED",
-      "PRICE": "EACH",
-      "PRICE_USD_MILL": "",
+      "PRICE": "HIGH 12 EACH",
+      "PRICE_USD_MILL": 12.0,
       "COMMENTS": "",
       "source_file": "xclusiv_2024_xclusiv-2024_09_09.pdf"
     },

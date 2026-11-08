@@ -168,7 +168,7 @@
       "COUNTRY": "CHINA",
       "YARD": "TAIZHOU SANFU",
       "BUYERS": "MSPL LTD",
-      "PRICE": "MID 11",
+      "PRICE": "MID 11 EACH",
       "PRICE_USD_MILL": 11.0,
       "COMMENTS": "",
       "source_file": "xclusiv_2025_xclusiv-2025_12_01.pdf"
@@ -185,8 +185,8 @@
       "COUNTRY": "CHINA",
       "YARD": "TAIZHOU SANFU",
       "BUYERS": "MSPL LTD",
-      "PRICE": "EACH",
-      "PRICE_USD_MILL": "",
+      "PRICE": "MID 11 EACH",
+      "PRICE_USD_MILL": 11.0,
       "COMMENTS": "",
       "source_file": "xclusiv_2025_xclusiv-2025_12_01.pdf"
     },
@@ -221,7 +221,7 @@
       "BUYERS": "CHINESE",
       "PRICE": "6.85",
       "PRICE_USD_MILL": 6.85,
-      "COMMENTS": "ON TC AT USD 13K/DAY BASIS PURCHASE OBLIGA-",
+      "COMMENTS": "",
       "source_file": "xclusiv_2025_xclusiv-2025_12_01.pdf"
     },
     {
@@ -238,7 +238,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "30",
       "PRICE_USD_MILL": 30.0,
-      "COMMENTS": "TION AND DELIVERY SEPT/ OCT 2026",
+      "COMMENTS": "ON TC AT USD 13K/DAY BASIS PURCHASE OBLIGATION AND DELIVERY SEPT/OCT 2026",
       "source_file": "xclusiv_2025_xclusiv-2025_12_01.pdf"
     },
     {

@@ -220,7 +220,24 @@
       "BUYERS": "GREEK",
       "PRICE": "22.6",
       "PRICE_USD_MILL": 22.6,
-      "COMMENTS": "SS: 06/2026 - DD: 09/2024 SS/DD: 02/2025, ELECTRONIC M/E,",
+      "COMMENTS": "SS: 06/2026 - DD: 09/2024",
+      "source_file": "xclusiv_2024_xclusiv-2024_01_08.pdf"
+    },
+    {
+      "issue_date": "2024-01-08",
+      "report_week": 1,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "TOMINI BRAVERY",
+      "TYPE": "Kamsarmax",
+      "DWT": "81,027",
+      "YEAR": "2015",
+      "COUNTRY": "CHINA",
+      "YARD": "JIANGSU JINLING",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "24.5 TC",
+      "PRICE_USD_MILL": 24.5,
+      "COMMENTS": "SS/DD: 02/2025, ELECTRONIC M/E, TC ATTACHED TILL MAX MAY 2024 AT USD 13.5K/DAY",
       "source_file": "xclusiv_2024_xclusiv-2024_01_08.pdf"
     },
     {
@@ -237,7 +254,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "LOW 19",
       "PRICE_USD_MILL": 19.0,
-      "COMMENTS": "SS: 02/2028 - DD: 02/2026 SS: 08/2027 - DD: 11/2025, BSS",
+      "COMMENTS": "SS: 02/2028 - DD: 02/2026",
       "source_file": "xclusiv_2024_xclusiv-2024_01_08.pdf"
     },
     {
@@ -254,7 +271,7 @@
       "BUYERS": "UNDISCLOSED",
       "PRICE": "LOW/MID 16",
       "PRICE_USD_MILL": 16.0,
-      "COMMENTS": "DELIVERY FEB-MARCH 2024",
+      "COMMENTS": "SS: 08/2027 - DD: 11/2025, BSS DELIVERY FEB-MARCH 2024",
       "source_file": "xclusiv_2024_xclusiv-2024_01_08.pdf"
     },
     {
@@ -374,23 +391,6 @@
       "PRICE": "66",
       "PRICE_USD_MILL": 66.0,
       "COMMENTS": "SS: 07/2028 - DD: 10/2026",
-      "source_file": "xclusiv_2024_xclusiv-2024_01_08.pdf"
-    },
-    {
-      "issue_date": "2024-01-08",
-      "report_week": 1,
-      "section": "Bulk Carriers",
-      "page": 5,
-      "NAME": "TOMINI BRAVERY",
-      "TYPE": "Kamsarmax",
-      "DWT": "81,027",
-      "YEAR": "2015",
-      "COUNTRY": "CHINA",
-      "YARD": "JIANGSU JINLING",
-      "BUYERS": "UNDISCLOSED",
-      "PRICE": "24.5 TC",
-      "PRICE_USD_MILL": 24.5,
-      "COMMENTS": "ATTACHED TILL MAX MAY 2024 AT USD 13.5K/DAY",
       "source_file": "xclusiv_2024_xclusiv-2024_01_08.pdf"
     }
   ],

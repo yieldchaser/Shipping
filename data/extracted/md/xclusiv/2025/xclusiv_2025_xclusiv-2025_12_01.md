@@ -164,10 +164,10 @@ Further activity includes the auction sale of the Supramax “SEACON 7” - 57K/
 | Bulk Carriers | PACIFIST | Capesize | 181,458 | 2011 | JAPAN | KOYO | UNDISCLOSED | $32.0M | - |
 | Bulk Carriers | LAKE DOLPHIN | Capesize | 179,418 | 2011 | S. KOREA | HANJIN HEAVY | UNDISCLOSED | $30.0M | - |
 | Bulk Carriers | INDUS PROSPERITY | Kamsarmax | 92,988 | 2011 | CHINA | TAIZHOU SANFU | MSPL LTD | $11.0M | - |
-| Bulk Carriers | INDUS FORTUNE | Kamsarmax | 92,928 | 2011 | CHINA | TAIZHOU SANFU | MSPL LTD | EACH | - |
+| Bulk Carriers | INDUS FORTUNE | Kamsarmax | 92,928 | 2011 | CHINA | TAIZHOU SANFU | MSPL LTD | $11.0M | - |
 | Bulk Carriers | KEY FRONTIER | Kamsarmax | 80,679 | 2011 | JAPAN | UNIVERSAL | UNDISCLOSED | $18.0M | - |
-| Bulk Carriers | THE STRONG | Panamax | 74,823 | 2004 | CHINA | HUDONG ZHONGHUA | CHINESE | $6.85M | ON TC AT USD 13K/DAY BASIS PURCHASE OBLIGA- |
-| Bulk Carriers | CMB JORDAENS | Ultramax | 63,447 | 2019 | JAPAN | TADOTSU | UNDISCLOSED | $30.0M | TION AND DELIVERY SEPT/ OCT 2026 |
+| Bulk Carriers | THE STRONG | Panamax | 74,823 | 2004 | CHINA | HUDONG ZHONGHUA | CHINESE | $6.85M | - |
+| Bulk Carriers | CMB JORDAENS | Ultramax | 63,447 | 2019 | JAPAN | TADOTSU | UNDISCLOSED | $30.0M | ON TC AT USD 13K/DAY BASIS PURCHASE OBLIGATION AND DELIVERY SEPT/OCT 2026 |
 | Bulk Carriers | SEACON 7 | Supramax | 57,000 | 2012 | CHINA | NINGBO | UNDISCLOSED | $12.58M | AUCTION |
 | Bulk Carriers | INCE KASTAMONU | Supramax | 56,925 | 2010 | CHINA | COSCO ZHOUSHAN | UNDISCLOSED | $12.75M | - |
 | Bulk Carriers | WARISA NAREE | Supramax | 53,840 | 2010 | INDIA | HINDUSTAN | UNDISCLOSED | $9.5M | - |

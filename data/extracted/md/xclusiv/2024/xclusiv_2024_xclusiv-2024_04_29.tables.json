@@ -220,7 +220,7 @@
       "BUYERS": "JIANGSU STEAMSHIP",
       "PRICE": "15",
       "PRICE_USD_MILL": 15.0,
-      "COMMENTS": "ATTACHED TO CARGILL",
+      "COMMENTS": "",
       "source_file": "xclusiv_2024_xclusiv-2024_04_29.pdf"
     },
     {
@@ -237,7 +237,7 @@
       "BUYERS": "JAPANESE",
       "PRICE": "AT",
       "PRICE_USD_MILL": "",
-      "COMMENTS": "AROUND USD 16K/DAY TILL Q1 2025",
+      "COMMENTS": "TC ATTACHED TO CARGILL AT AROUND USD 16K/DAY TILL Q1 2025",
       "source_file": "xclusiv_2024_xclusiv-2024_04_29.pdf"
     },
     {
@@ -347,6 +347,40 @@
       "report_week": 17,
       "section": "Tankers",
       "page": 6,
+      "NAME": "HENGLI DALIAN HLZG2023-T300K-1",
+      "TYPE": "VLCC",
+      "DWT": "306,000",
+      "YEAR": "2025",
+      "COUNTRY": "CHINA",
+      "YARD": "HENGLI",
+      "BUYERS": "GREEK",
+      "PRICE": "244 ENBLOC",
+      "PRICE_USD_MILL": 244.0,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2024_xclusiv-2024_04_29.pdf"
+    },
+    {
+      "issue_date": "2024-04-29",
+      "report_week": 17,
+      "section": "Tankers",
+      "page": 6,
+      "NAME": "HENGLI DALIAN HLZG2023-T300K-2",
+      "TYPE": "VLCC",
+      "DWT": "306,000",
+      "YEAR": "2025",
+      "COUNTRY": "CHINA",
+      "YARD": "HENGLI",
+      "BUYERS": "GREEK",
+      "PRICE": "244 ENBLOC",
+      "PRICE_USD_MILL": 244.0,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2024_xclusiv-2024_04_29.pdf"
+    },
+    {
+      "issue_date": "2024-04-29",
+      "report_week": 17,
+      "section": "Tankers",
+      "page": 6,
       "NAME": "STIRLING",
       "TYPE": "Aframax",
       "DWT": "112,750",
@@ -441,7 +475,7 @@
       "BUYERS": "UAE",
       "PRICE": "16",
       "PRICE_USD_MILL": 16.0,
-      "COMMENTS": "StSt, against a TC and an-",
+      "COMMENTS": "",
       "source_file": "xclusiv_2024_xclusiv-2024_04_29.pdf"
     },
     {
@@ -458,7 +492,7 @@
       "BUYERS": "SFL CORPORATION",
       "PRICE": "57 EACH",
       "PRICE_USD_MILL": 57.0,
-      "COMMENTS": "other being placed into the Stolt Pool. Understand the is 8 years +1+1+1 at rgn",
+      "COMMENTS": "StSt, against a TC and another being placed into the Stolt Pool. Understand the TC is 8 years +1+1+1 at rgn USD 26K/day",
       "source_file": "xclusiv_2024_xclusiv-2024_04_29.pdf"
     },
     {
@@ -475,7 +509,7 @@
       "BUYERS": "SFL CORPORATION",
       "PRICE": "57 EACH",
       "PRICE_USD_MILL": 57.0,
-      "COMMENTS": "USD 26K/day",
+      "COMMENTS": "StSt, against a TC and another being placed into the Stolt Pool. Understand the TC is 8 years +1+1+1 at rgn USD 26K/day",
       "source_file": "xclusiv_2024_xclusiv-2024_04_29.pdf"
     },
     {
@@ -490,7 +524,7 @@
       "COUNTRY": "JAPAN",
       "YARD": "KITANIHON",
       "BUYERS": "HANSA",
-      "PRICE": "32.5",
+      "PRICE": "32.5 EACH",
       "PRICE_USD_MILL": 32.5,
       "COMMENTS": "StSt",
       "source_file": "xclusiv_2024_xclusiv-2024_04_29.pdf"
@@ -507,8 +541,8 @@
       "COUNTRY": "JAPAN",
       "YARD": "KITANIHON",
       "BUYERS": "HANSA",
-      "PRICE": "EACH",
-      "PRICE_USD_MILL": "",
+      "PRICE": "32.5 EACH",
+      "PRICE_USD_MILL": 32.5,
       "COMMENTS": "StSt",
       "source_file": "xclusiv_2024_xclusiv-2024_04_29.pdf"
     },
@@ -527,40 +561,6 @@
       "PRICE": "24.9",
       "PRICE_USD_MILL": 24.9,
       "COMMENTS": "StSt, BASIS DD DUE",
-      "source_file": "xclusiv_2024_xclusiv-2024_04_29.pdf"
-    },
-    {
-      "issue_date": "2024-04-29",
-      "report_week": 17,
-      "section": "Tankers",
-      "page": 6,
-      "NAME": "HENGLI DALIAN HLZG2023-T300K-1",
-      "TYPE": "VLCC",
-      "DWT": "306,000",
-      "YEAR": "2025",
-      "COUNTRY": "CHINA",
-      "YARD": "HENGLI",
-      "BUYERS": "GREEK",
-      "PRICE": "244 ENBLOC",
-      "PRICE_USD_MILL": 244.0,
-      "COMMENTS": "",
-      "source_file": "xclusiv_2024_xclusiv-2024_04_29.pdf"
-    },
-    {
-      "issue_date": "2024-04-29",
-      "report_week": 17,
-      "section": "Tankers",
-      "page": 6,
-      "NAME": "HENGLI DALIAN HLZG2023-T300K-2",
-      "TYPE": "VLCC",
-      "DWT": "306,000",
-      "YEAR": "2025",
-      "COUNTRY": "CHINA",
-      "YARD": "HENGLI",
-      "BUYERS": "GREEK",
-      "PRICE": "244 ENBLOC",
-      "PRICE_USD_MILL": 244.0,
-      "COMMENTS": "",
       "source_file": "xclusiv_2024_xclusiv-2024_04_29.pdf"
     }
   ],

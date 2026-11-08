@@ -207,8 +207,8 @@ This week saw strong activity in the tanker S&P market, with 12 reported sales a
 | Tankers | CONCORD | Suezmax | 159,155 | 2005 | S. KOREA | HYUNDAI HEAVY | CHINA | $23.5M | - |
 | Tankers | MONTREAL SPIRIT | Suezmax | 149,997 | 2006 | JAPAN | UNIVERSAL | GREECE | $30.0M | - |
 | Tankers | PGC COMPANION | Panamax | 72,825 | 2005 | CHINA | HUDONG ZHONGHUA | UNDISCLOSED | $10.0M | - |
-| Tankers | PGC MARINA | Panamax | 72,807 | 2005 | CHINA | HUDONG ZHONGHUA | UNDISCLOSED | BASIS | DELIVERY IN 3-4 MONTHS, |
-| Tankers | PS VANCOUVER | MR2 | 50,922 | 2007 | S. KOREA | STX | UNDISCLOSED | $13.0M | ICE CLASS 1A, DPP |
+| Tankers | PGC MARINA | Panamax | 72,807 | 2005 | CHINA | HUDONG ZHONGHUA | UNDISCLOSED | BASIS | - |
+| Tankers | PS VANCOUVER | MR2 | 50,922 | 2007 | S. KOREA | STX | UNDISCLOSED | $13.0M | BASIS DELIVERY IN 3-4 MONTHS, ICE CLASS 1A, DPP |
 | Tankers | PTI HUANG HE | MR2 | 49,999 | 2016 | S. KOREA | SP | GREECE | $32.0M | - |
 | Tankers | PACIFIC QUARTZ | MR2 | 47,941 | 2011 | JAPAN | IWAGI ZOSEN | UNDISCLOSED | $18.2M | - |
 | Tankers | GRAND ACE7 | MR2 | 46,140 | 2007 | S. KOREA | STX | UAE | $15.0M | - |
