@@ -112,7 +112,12 @@ Then apply the improvements that **raise or keep** quality without lowering any 
 |---|---|
 | Machine | Windows 11, i3-1215U, **8 GB RAM**, about 40 GB free |
 | Python | Python 3 is already installed with `duckdb`, `scipy`, `pydantic`, `openai`, `tiktoken`, `onnxruntime`. Install anything else into a venv at `kb/.venv` (git-ignored). |
-| Harness | You are running in DeepSeek Harness (dsh), at most 4 subagents at once. Your model calls go through the local **agent gateway**, `tools/agent_gateway/agent_gateway.py`, on `127.0.0.1:4100`. It uses the free Ultrafast DeepSeek V4.1 Flash endpoint first, with thinking mode on, waits in its queue by itself, and falls back to Enclave DeepSeek V4 Pro with a hard **$35** cap that it enforces. Slow answers mean you are queued; that is normal. A `402 agent_gateway` error means your cap is reached: stop (§6). `GET http://127.0.0.1:4100/stats` shows your real spend. Never stop or modify the gateway. |
+| Harness | You are running in DeepSeek Harness (dsh), at most 4 subagents at once. Your model calls go through the local **agent gateway**, `tools/agent_gateway/agent_gateway.py`, on `127.0.0.1:4100`. It routes by model:
+  - **You (the main agent) use `deepseek-v4-pro`**: Enclave V4 Pro with reasoning, hard **$45** cap.
+  - **Subagents use `deepseek-v4.1-flash`**: the free Ultrafast queue with thinking on, waiting in the queue automatically.
+  - Each side falls back to the other when it is unavailable or its cap is used up.
+
+  Give subagents the bulk coding and test-writing. Keep design, review and gate judgments for yourself. Slow answers mean you are queued; that is normal. A `402 agent_gateway` error means both sides are unavailable: stop (§6). `GET http://127.0.0.1:4100/stats` shows your real spend. Never stop or modify the gateway. |
 | Pipeline providers | `kb/config.yaml` lists a provider pool, each entry with base URL, key source, model id, concurrency, daily token cap and price. It starts with Enclave (paid, concurrency ramped) and Ultrafast (free, concurrency 1, shared 5M output tokens/day with you: the pipeline may use at most 3M/day of it). An extraction pass uses **one model version**. A second provider of the *same* model may share the pass only after 50 identical chunks give the same gate pass rate within 2 points. Every record stores provider and model. |
 | LLM access for the pipeline | `kb/llm_runner.py` takes `ROUTER_API_KEY` from the environment if set, else `refs.ENCLAVE_API_KEY` from `~/.dsh/.credentials.yaml`. `ROUTER_BASE_URL` defaults to `https://router.enclave.ai/v1`. Model ids carry the `cyberouter/` prefix. **Never print, log, copy or commit the key**, and never open any other credentials file. If no key is found or the router returns 401/402/403, stop (§6). |
 | SEC requests | `SEC_USER_AGENT` env var. If it is missing, skip XBRL and log that, but do not invent a contact. |
@@ -297,3 +302,35 @@ Update it before starting any job that runs longer than 10 minutes, after every 
 - Embedding runs on GitHub Actions, so the laptop does not need to be on for it.
 - Start long LLM passes (P4c extraction, P6 summaries) when you can, and keep their units small (one packed call each), so an interruption loses at most one call.
 - Write the projected duration of each long run into `STATUS.md` before starting it.
+
+### 10.6 Enclave credit may expire
+The Enclave service may shut down. Unspent credit is lost, so:
+- Reach P4b and P4c (the pipeline's main LLM spend) as early as quality allows. Do the work that does not need P4c inputs in parallel or afterwards.
+- Store every raw response, so paid work survives even if Enclave disappears.
+- If Enclave starts failing for good (401/402/403 or DNS errors for more than an hour), switch the pipeline provider pool to Ultrafast and any other configured provider, record it in `STATUS.md`, and continue. This is not a stop condition.
+
+---
+
+## 11. How the work is organised: router and ticket workers (after dsh-superagent)
+
+You are the **router**: the main session on V4 Pro. Subagents are **workers**: V4.1 Flash with thinking, free.
+
+1. **Tickets.** Every unit of work is a ticket file `kb/tickets/T<nnn>-<slug>.md` with an immutable **Mandate**:
+   - goal;
+   - the exact files the worker may create or edit (file ownership is the isolation: no separate directories, worktrees or branches);
+   - the plan sections it implements;
+   - acceptance tests it must make pass;
+   - what it must not touch.
+2. **Slots.** At most **3 workers** at once. Keep the 4th subagent slot free for urgent fixes. Two tickets running at the same time never own the same file.
+3. **Lifecycle.** `open → running → ready | blocked → accepted | reopened`.
+   - Time limits per worker turn: prepare 10 min, turn 30 min. A shell command longer than 5 minutes goes to the background (`kb/run_job.py`).
+   - Three timeouts in a row mark the ticket `blocked`, with the reason.
+4. **Report.** A worker ends with a short report in the ticket: what changed, the test output, and open questions. It never claims "done" without test output.
+5. **Evaluation by you, not by the worker.** Before accepting a ticket:
+   - read the diff;
+   - run the tests yourself;
+   - check it against the Mandate and the integrity table (§9).
+
+   Reopen with written reasons if anything is missing. Design decisions, gate scripts, sampling, judging and checkpoint reports are **never** delegated: you write and run those.
+6. **Ledger.** `kb/tickets/INDEX.md` lists every ticket with its state, owner, files and result. `STATUS.md` links to it. A new session resumes open tickets from it.
+7. **Workers run as the owner's OS user and can read the home folder.** A worker must never open `~/.dsh`, `~/.nace`, `.env` files, browser data or any credentials file. Put that line in every Mandate.

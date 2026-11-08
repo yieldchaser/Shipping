@@ -24,7 +24,7 @@ The executable instructions for the agent that builds this are in `docs/GRAPHRAG
 | D8 | **Identity comes from keys, never from names.** IMO for vessels, CIK/LEI for companies, the Baltic code for routes, UN/LOCODE for ports. A name alone never creates or merges a vessel. | Name collisions over 20+ years and 23 publishers are certain. |
 | D9 | **Deals are deduplicated into canonical transactions.** One S&P sale reported by six brokers over three weeks is one `transaction` with six `mention`s. Conflicting prices are kept as separate claims. | Without this, counts and "who bought the most" questions are wrong. |
 | D10 | **Known gaps are data.** A `corpus_known_gaps` table records them, and the agent answers "the corpus has a gap here" instead of guessing or saying "did not happen". | Several series stop early (partner-country shares end at 2026-08), and publishers have missing weeks. |
-| D11 | **The coding agent is DeepSeek Harness (dsh), and its calls go through `tools/agent_gateway/`.** The gateway uses the free Ultrafast DeepSeek V4.1 Flash queue first, with thinking mode on, and falls back to Enclave `cyberouter/deepseek-v4-pro`, with a hard $35 cap enforced by the gateway, not by the agent. At most 4 subagents run at once. The pipeline runner gets $100 and $10 is never touched. The pipeline itself runs as plain Python, so the agent's own tokens go to writing and fixing code, not to watching long runs. | The owner decided (2026-11-08) not to use a Claude subscription for this. The router is the only credit available, so the split must be explicit, or the agent's own tokens eat the extraction budget. |
+| D11 | **The coding agent is DeepSeek Harness (dsh), and its calls go through `tools/agent_gateway/`.** The **main agent** uses Enclave `cyberouter/deepseek-v4-pro` (reasoning) first, with a hard $45 cap enforced by the gateway, not by the agent. **Subagents** (at most 4) use the free Ultrafast DeepSeek V4.1 Flash queue with thinking on. Each side falls back to the other. The pipeline runner gets $97; $3 covers overshoot. Enclave credit may expire (the service may shut down), so it is spent on quality early, never hoarded. The pipeline itself runs as plain Python, so the agent's own tokens go to writing and fixing code, not to watching long runs. | The owner decided (2026-11-08) not to use a Claude subscription for this. The router is the only credit available, so the split must be explicit, or the agent's own tokens eat the extraction budget. |
 | D12 | **Book content stays out of every public artifact.** Books are indexed in the local knowledge base only. Their chunks, quotes and summaries are never committed and never published to a GitHub Release. | The repo is public and the books are copyrighted. Whether the book MDs themselves stay in the repo is still an open owner decision (ledger). |
 
 ---
@@ -432,7 +432,7 @@ The runner probes the router once to learn whether it accepts strict `tools`. If
 
 - **Ledger:** SQLite `jobs(job_key, pass, prompt_version, model, status, attempts, request_hash, in_tok, cached_tok, out_tok, cost_usd, finish_reason, latency_ms, model_returned, error, created_at)`. `job_key` = sha256(packed chunk shas + prompt_version + pass). Calls are idempotent and resumable, with a commit after every response.
 - **Concurrency:** asyncio. Start at 8 concurrent calls and ramp up to the highest level with error rate under 2% (cap 48). Exponential backoff with jitter on 429/5xx.
-- **Budget guard:** live spend is computed from the usage fields × the price table in `kb/config.yaml`. Each pass has its own hard cap (§10), and the pipeline's global cap is **$100** (the coding agent has its own $35 and $10 stays untouched). The runner stops cleanly at any cap.
+- **Budget guard:** live spend is computed from the usage fields × the price table in `kb/config.yaml`. Each pass has its own hard cap (§10), and the pipeline's global cap is **$97** (the coding agent has its own $45; $3 covers overshoot). The runner stops cleanly at any cap.
 - **Drift guard:** `model_returned` is logged on every call. If it changes mid-run, the run pauses and the extraction gold set is re-scored before resuming.
 - **Provider pool:** `kb/config.yaml` lists providers (Enclave paid; Ultrafast free, concurrency 1, ≤ 3M output tokens/day for the pipeline; later NVIDIA NIM or other DeepSeek credits). One pass uses one model version. A second provider of the same model joins a pass only after it matches the gate pass rate within 2 points on the same 50 chunks. Free capacity is used before paid. Every record stores provider and model.
 - **Partial coverage beats lower quality:** if caps are hit, the pass stops with coverage declared. Remaining chunks wait for more capacity and are run with the same prompt, model and gates.
@@ -519,7 +519,7 @@ USD per 1M tokens, input / output:
 
 | Pass | Planning volume | Cap |
 |---|---|---|
-| **Coding agent (dsh) — writing, testing and fixing the pipeline** | main v4.1-flash, subagents v4-flash, ≤ 4 at once | **$35** (owner glances at the dashboard balance at C1) |
+| **Coding agent (dsh): writing, testing and fixing the pipeline** | main agent V4 Pro (Enclave), subagents V4.1 Flash thinking (Ultrafast, free), ≤ 4 at once | **$45** (enforced by the gateway) |
 | P-1 router probe + P4b bake-off + gold labels | ~1,200 calls | $7 |
 | P4c bulk extraction | 25–35M chunk tokens, ~9–11k packed calls, ~3.5k chunk + 2.5k prompt in, ~1.8k out | $22 (v4-flash ≈ $11–14; glm-5.3-flash ≈ $15–19; v4.1-flash only if its projection fits) |
 | Escalation + targeted gleaning (≤ 10% of packed calls) | ~1k calls on the pro-tier model | $17 |
@@ -527,10 +527,10 @@ USD per 1M tokens, input / output:
 | LLM prefixes for generic chunks (only if more than 10%) | ≤ 15k short calls | $1 |
 | Period summaries (19 segments × ~150 months + parents) | ~3.5k leaf + ~700 parent calls | $13 |
 | Eval: gold Q&A generation + judging + 2 regression runs | | $8 |
-| Re-run reserve (one prompt fix over the failing slice) | | $12 |
+| Re-run reserve (one prompt fix over the failing slice) | | $9 |
 | Incremental reserve (left after the build; about 1.5–3 years at < $0.50/week) | | $16 |
-| Untouched safety margin | | $10 |
-| **Total** | | **$145** (pipeline caps sum to $100) |
+| Overshoot margin | | $3 |
+| **Total** | | **$145** (pipeline caps sum to $97: the re-run reserve is $9) |
 
 Money released by a cheaper bulk model goes first to escalation (raising the escalated share towards 25%), then to the reserve. It never goes to the coding agent.
 

@@ -45,7 +45,12 @@ UF_LONG_WAIT_S = 300   # a Retry-After longer than this is not a queue turn (e.g
 EN_BASE = os.environ.get("ENCLAVE_BASE_URL", "https://router.enclave.ai/v1")
 EN_MODEL = os.environ.get("ENCLAVE_MODEL", "cyberouter/deepseek-v4-pro")      # stronger model for the paid fallback
 EN_PRICE_IN, EN_PRICE_OUT = 1.32, 3.96                                   # USD per 1M tokens
-AGENT_CAP_USD = float(os.environ.get("AGENT_CAP_USD", "35"))
+AGENT_CAP_USD = float(os.environ.get("AGENT_CAP_USD", "45"))
+# Routing by requested model id (owner 11-09):
+#   "deepseek-v4-pro"     -> Enclave V4 Pro first while the cap lasts, then Ultrafast  (main agent: planning/design)
+#   "deepseek-v4.1-flash" -> Ultrafast first (free, thinking on), then Enclave V4 Pro  (subagents: bulk coding)
+# AGENT_PRIMARY=enclave|ultrafast forces one order for every request.
+PRIMARY = os.environ.get("AGENT_PRIMARY", "")
 
 UF_THINKING = os.environ.get("ULTRAFAST_THINKING", "1") == "1"            # reasoning on: better code, free
 FALLBACK_AFTER_S = float(os.environ.get("FALLBACK_AFTER_S", "900"))
@@ -194,6 +199,21 @@ async def chat(request):
         return web.json_response(err, status=status)
 
     async with ClientSession(timeout=ClientTimeout(total=None, sock_read=600)) as s:
+        # 0) Enclave first while its cap lasts (PRIMARY == "enclave")
+        primary = PRIMARY or ("enclave" if "pro" in str(body.get("model", "")).lower() else "ultrafast")
+        if primary == "enclave" and EN_KEY and STATE["enclave_spent"] < AGENT_CAP_USD:
+            for attempt in range(3):
+                try:
+                    r = await _open(s, EN_BASE, EN_KEY, EN_MODEL, body)
+                except Exception:
+                    await asyncio.sleep(5 * (attempt + 1))
+                    continue
+                if r.status == 200:
+                    return await relay(r, "enclave", EN_MODEL)
+                r.release()
+                if r.status in (401, 402, 403):
+                    break          # key or credit problem: go to Ultrafast
+                await asyncio.sleep(5 * (attempt + 1))
         # 1) Ultrafast (free, queued, one at a time)
         uf_ok = (UF_KEY and _approx_prompt_tokens(body) <= UF_MAX_PROMPT_TOK
                  and STATE["uf_day_out"].get(_today(), 0) < UF_DAILY_OUT
@@ -258,6 +278,7 @@ async def chat(request):
 
 async def models(_):
     return web.json_response({"object": "list", "data": [
+        {"id": "deepseek-v4-pro", "object": "model", "owned_by": "agent-gateway"},
         {"id": "deepseek-v4.1-flash", "object": "model", "owned_by": "agent-gateway"}]})
 
 
@@ -266,6 +287,7 @@ async def stats(_):
         "enclave_spent_usd": round(STATE["enclave_spent"], 4), "enclave_cap_usd": AGENT_CAP_USD,
         "ultrafast_output_today": STATE["uf_day_out"].get(_today(), 0), "ultrafast_daily_cap": UF_DAILY_OUT,
         "ultrafast_blocked_for_s": max(0, int(STATE.get("uf_blocked_until", 0) - time.time())),
+        "primary": PRIMARY or "by model (pro -> enclave first, flash -> ultrafast first)",
         "ultrafast_key_found": bool(UF_KEY), "enclave_key_found": bool(EN_KEY)})
 
 

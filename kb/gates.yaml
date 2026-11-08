@@ -69,6 +69,6 @@ P8:
   weekly_dry_run_cost_usd_max: 1.0
 
 budget:
-  pipeline_cap_usd: 100
-  agent_enclave_cap_usd: 35
-  untouched_usd: 10
+  pipeline_cap_usd: 97
+  agent_enclave_cap_usd: 45
+  untouched_usd: 3
