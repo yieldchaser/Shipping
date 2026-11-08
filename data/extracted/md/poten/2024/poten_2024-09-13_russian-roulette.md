@@ -16,7 +16,9 @@ charts_count: 2
 
 OK
 
-*Chart*
+*Chart: Urals Crude Oil Price*
+
+*Chart: Dirty Tanker Freight Rates*
 
 *Source: Investing.com/Poten & Partners*
 

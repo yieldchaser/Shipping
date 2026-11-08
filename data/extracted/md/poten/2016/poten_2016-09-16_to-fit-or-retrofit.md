@@ -28,7 +28,7 @@ How frequently crude oil and product tankers will transit the Canal in the futur
 
 *Source: Panama Canal Authority*
 
-*Chart*
+*Chart: Chocks SWL and Panama Canal Net Tonnage Data*
 
 *Source: Q88*
 

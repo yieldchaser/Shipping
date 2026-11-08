@@ -24,7 +24,9 @@ And then there is the widespread cheating that is always a problem within OPEC+.
 
 At the end of the day, OPEC faces a difficult balancing act between price and volume. It needs to assess global oil demand, inventories in the various regions, non-OPEC production as well as the geopolitical landscape. Most OPEC+ members are highly dependent on oil revenues to balance their budget. If they want to increase revenues, they need to push up the price of oil and/or sell more barrels. However, global demand for oil is finite and non-OPEC producers will sell as much as they can based on the market price. OPEC is the balancing producer and satisfies that part of global demand that is not covered by non-OPEC producers, hence the term: “Call on OPEC” used in some forecasts. To some extent, OPEC+ can try to increase prices (and revenues) by cutting production and exports. However, in the short-term, this could invite more cheating from producers with spare capacity and in the long-term, higher prices will bring on more production from Non-OPEC.
 
-*Chart*
+*Chart: OPEC Crude Export by Vessel Class*
+
+*Chart: Seaborne PLUS Countries Crude Exports by Vessel Class*
 
 *Source: Vortexa*
 

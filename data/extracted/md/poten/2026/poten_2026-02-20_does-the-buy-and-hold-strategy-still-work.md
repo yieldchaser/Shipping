@@ -22,7 +22,9 @@ The volatile nature of earnings and asset prices as well as the relative liquidi
 
 The success of this strategy was illustrated by a recent transaction. A shipowner reportedly sold a 17-year-old VLCC for around $70 Million. This vessel had been owned and operated by the same owner since it was delivered from the shipyard in 2009. This VLCC was ordered in 2006/2007, in the middle of the tanker “super cycle”, during a period of sustained high average earnings. VLCC TCE’s on the benchmark AG-East route averaged $70,000/day over the period 2004-2006 (see Chart 2). High earnings and limited shipyard capacity had pushed newbuilding prices to $120-130 Million (Chart 1). With hindsight, the timing was not great: The vessel was delivered in 2009, right in the middle of the financial crisis. By the middle of 2009, TCE earnings had dropped to $10-15,000/day and the outlook was gloomy. However, selling the vessel in 2009 would have locked in a significant loss as newbuilding resale prices dropped below $100 million in the second half of 2009. But, the owner did not sell, stayed the course and rode the ups and downs of the spot market until it sold the VLCC in early 2026. While it is impossible to know exactly what earnings the owner generated over the 17-year holding period, a quick and dirty calculation suggests this vessel might have generated anywhere between $100 and $140 Million in free cash flow (before debt service). Add to this the $70 million in resale proceeds and this owner came out okay, despite the unfortunate timing of his original acquisition. To prove this point, the owner has just ordered several new VLCCs at similar prices to what he paid almost 20 years ago.
 
-*Chart*
+*Chart: VLCC Asset Values*
+
+*Chart: VLCC TCE Rates (AG-FE)*
 
 *Source: Poten*
 

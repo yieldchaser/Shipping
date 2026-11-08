@@ -22,11 +22,11 @@ The standoff in Turkey is causing problems for tanker owners and charterers and 
 
 As a result, some 21 southbound tankers, most of them laden with non-sanctioned crude from Kazakhstan, have been tied up in the Black Sea, unable to traverse the Bosporus Straits. The number of vessels waiting in the Mediterranean, waiting to sail to the Black Sea to load is growing as well. This is an example of the, sometimes, unintended consequences of government actions. The EU and the G7 probably did not expect that this would be the main headline after the implementation of their sanctions. The irony is that this impasse, which is caused by the Turks trying to protect themselves from the potential problems resulting from the EU ban and price cap, ends up primarily hurting the exports of Kazakhstan, not Russia. Negotiations are ongoing but have not yet resulted in a breakthrough. In the meantime, an estimated 15 million barrels of oil is not moving. This is expensive for the owners of the cargo who are paying financing costs and could face problems delivering their cargo on time. If delays persist, charterers may need to look for replacement cargoes. They are also possibly exposed to demurrage cost that could run into the millions of dollars if the owners are successful in claiming that they should be compensated for these delays. That is by no means certain though. Charterers could claim that the ships don’t have proper insurance, or an arbiter could decide that neither party can be liable for things that are out of either control.
 
-*Chart*
+*Chart: Daily Russian Crude Exports by Load Area (Excl CPC)*
 
 *Source: Lloyd’s List Intelligence*
 
-*Chart*
+*Chart: Tanker Freight Rates*
 
 *Source: Poten & Partners*
 

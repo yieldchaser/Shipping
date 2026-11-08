@@ -28,7 +28,7 @@ Anecdotal information seems to suggest that in select regions of the world, prod
 
 *Source: IEA*
 
-*Chart*
+*Chart: Chinese Diesel Exports (2011 – 2015)*
 
 *Source: JODI*
 

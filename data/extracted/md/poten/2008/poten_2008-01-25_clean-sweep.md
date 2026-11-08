@@ -16,7 +16,7 @@ charts_count: 1
 
 The complexity of the clean product trade can be seen by looking at the diversity of trades that have emerged in the market in recent years. The prevalence of traders in addition to the large trading programs of oil companies has served to increase the total volume of clean products that is traded in the market. Whether or not trades get reported can sometimes skew the true amount of volume moving in the market. The increase in reported spot fixtures to 5,574 in 2007 from 5,306 in 2006, serves as an indication that the clean product trade is thriving. Although the reported spot fixtures only represent part of the equation, it is fairly safe to assume that higher total volumes are also moving outside of the public arena. The chart below shows the amount of reported clean spot fixtures in 2007 for each vessel size.
 
-*Chart*
+*Chart: Reported Clean Spot Fixtures*
 
 \* Poten’s Panamax deadweight designation changed beginning in 2007 to 60,000-79,999 DWT
 
@@ -48,7 +48,7 @@ The top 10 charterers accounted for 36% of the total reported spot fixtures.
 
 2007 saw an increase in the total volume of reported spot clean Aframax fixtures of 34%. The largest spot charterer was Shell, followed by Vitol – the two largest spot charterers overall.
 
-*Chart*
+*Chart: Aframax*
 
 The primary trade for clean Aframaxes continues to be Arabian Gulf – Far East with 38% of the total volume. This trade saw an increase in fixture activity of 10% in 2007 from 2006.
 
@@ -56,7 +56,7 @@ The primary trade for clean Aframaxes continues to be Arabian Gulf – Far East 
 
 At the beginning of 2007, the deadweight designation for Panamaxes changed from between 50,000 – 79,999 DWT to between 60,000 – 79,999 DWT. With fewer vessels in this size range, it is not surprising that less fixture activity is being reported.
 
-*Chart*
+*Chart: Panamax*
 
 Same as the Aframax sector, the largest charterer is Shell followed by Vitol. The primary trades in the spot market for clean Panamaxes are Arabian Gulf – Far East and UK Continent – United States although these two trades in particular saw a decline in reported spot fixture volume of 9% and 40%, respectively.
 
@@ -64,7 +64,7 @@ Same as the Aframax sector, the largest charterer is Shell followed by Vitol. Th
 
 The total reported clean Handymax activity increased 13% in 2007 versus 2006. Part of the boost in the Handymax reported fixtures comes as a byproduct of the change in Panamax designation. The largest charterer in this size is Vitol. Several major oil companies maintain a presence in this sector such as Chevron, BP and ExxonMobil.
 
-*Chart*
+*Chart: Handymax*
 
 Litasco, the trading company for Lukoil, is also a large charterer of clean Handymaxes in the reported spot market.
 
@@ -72,7 +72,7 @@ Litasco, the trading company for Lukoil, is also a large charterer of clean Hand
 
 The leading presence of Litasco can be explained as the majority of clean small reported spot fixtures were in the Mediterranean. Traders Vitol and ST Shipping were also quite active in this sector.
 
-*Chart*
+*Chart: Small*
 
 While the spot market is admittedly not a full representation of the total volumes traded, it does serve as an indication as to who are the large charterers in the respective vessel sizes.
 

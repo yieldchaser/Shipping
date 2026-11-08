@@ -26,11 +26,11 @@ The common denominator for geopolitical events that have a significant impact on
 
 The current geopolitical landscape has some similarities with that of 2019. Oil prices have been volatile and generally elevated since Russia invaded Ukraine in February 2022. Production cuts by OPEC+, primarily Saudi Arabia and Russia, have tightened the oil markets. Global crude oil inventories are relatively low. In the U.S., commercial stock levels at Cushing, Oklahoma are close to the bottom of the five-year (2018-2022) range. After releasing 200+ million barrels of crude oil from the Strategic Petroleum Reserves (SPR) in 2022 in the wake of the Russian invasion, these government reserves are near their lowest levels since 1983. On the shipping side, markets have tightened as well since the Russia – Ukraine war started. Limited tanker deliveries and growing ton-mile demand have made the freight market more volatile and increased the upside potential for tanker rates.
 
-*Chart*
+*Chart: Seaborne Crude/Condensate Exports from the Arabian Gulf By Exporter*
 
 *Source: Vortexa*
 
-*Chart*
+*Chart: 2022/2023 Freight Rates (Scrubber Ships)*
 
 *Source: Poten & Partners*
 

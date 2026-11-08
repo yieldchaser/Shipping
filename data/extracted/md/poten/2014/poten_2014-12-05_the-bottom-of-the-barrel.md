@@ -34,7 +34,7 @@ esv
 
 *Source: Bloomberg, Poten*
 
-*Chart*
+*Chart: Fig. 2 VLCC Rates vs Middle East OPEC Production*
 
 *Source: Poten, IEA*
 

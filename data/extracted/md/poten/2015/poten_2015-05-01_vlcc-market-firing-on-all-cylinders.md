@@ -30,7 +30,7 @@ Fleet growth has been fairly limited. Six (6) VLCCs were delivered year to date,
 
 *Source: Poten & Partners*
 
-*Chart*
+*Chart: World Oil Production*
 
 *Source: IEA*
 

@@ -22,7 +22,9 @@ The United States is by far the largest oil producer in the world. In 2018 it su
 
 At the same time as exports surged, U.S. crude imports took a dive. Imports from Canada were at their lowest level for this year. Flows from Saudi Arabia and Iraq were down significantly as well, for obvious reasons. As a result, net imports of crude oil (the difference between imports and exports), narrowed to 66,000 barrels per day last week, the lowest on record in weekly data that goes back to 2001. This means that the U.S. nearly turned into a net crude exporter last week for the first time since World War II. Exports are expected to increase significantly in the coming weeks (see Chart 1) and this switch to a net exporter could become reality.
 
-*Chart*
+*Chart: Weekly Seaborne Crude Exports From The United States*
+
+*Chart: Weekly Seaborne Clean Product Exports (excl LPG, Chem, Lubes) From The United States*
 
 *Source: Vortexa*
 

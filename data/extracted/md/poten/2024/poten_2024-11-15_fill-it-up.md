@@ -16,7 +16,9 @@ charts_count: 2
 
 OK
 
-*Chart*
+*Chart: US Strategic Petroleum Reserve Crude Stocks*
+
+*Chart: US Gulf Crude Exports by Destination*
 
 *Source: EIA, Vortexa*
 

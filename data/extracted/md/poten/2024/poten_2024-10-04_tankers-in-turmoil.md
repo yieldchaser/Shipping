@@ -16,7 +16,9 @@ charts_count: 2
 
 OK
 
-*Chart*
+*Chart: Seaborne Crude & Condensates Exports from The Middle East by Load Country*
+
+*Chart: Freight Rates vs Oil Prices*
 
 *Source: Vortexa / Poten & Partners*
 

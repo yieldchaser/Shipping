@@ -38,7 +38,7 @@ Colombia is about five years away from making the transition to a net oil import
 
 Oil exploration in Egypt has been disappointing and has failed to increase reserves. Oil production peaked in 1995 at 925,000 bpd and has been in a steady decline since then. Oil production in 2004 was 710,000 bpd. The nation’s export potential is rapidly declining from falling production and increasing consumption.
 
-*Chart*
+*Chart: Egypt*
 
 ### The Big Picture
 

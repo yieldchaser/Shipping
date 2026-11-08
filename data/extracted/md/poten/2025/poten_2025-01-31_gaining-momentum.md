@@ -24,7 +24,9 @@ The plan for the Dangote refinery is to meet a number of key objectives. First o
 
 As the refinery is ramping up, Dangote is starting to fulfill this objective. If Dangote can increase the production of gasoline, diesel and jet fuel according to plan, it is entirely feasible that Nigeria’s net refined product imports (imports minus exports) will become negative as soon as 2026. Chart 1 shows that Nigeria’s clean product imports declined significantly in the summer of 2023. This decline was not related to the Dangote refinery, but due to the sudden removal of fuel subsidies in May 2023 by the new Nigerian President Bola Tinubu. In 2022, the Nigerian government spend $20 Billion on fuel subsidies, representing 40% of the government’s revenue. This was unsustainable, especially since the subsidies facilitated corruption and led to widespread smuggling of fuel across the border to neighboring countries. However, soaring inflation and currency devaluation forced the government to reverse course and partially reinstate the fuel subsidies in March 2024. Because Dangote started to produce domestic gasoline a few months later, these subsidies did not lead to a sustained increase in fuel imports.
 
-*Chart*
+*Chart: Clean Product Imports into Nigeria*
+
+*Chart: Dangote Crude Sourcing (Weekly)*
 
 *Source: Vortexa*
 

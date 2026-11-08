@@ -26,7 +26,9 @@ The changes in trade-flows as a result of the war in Ukraine are likely to persi
 
 Apart from the increase in ton-mile demand, which we discussed above, there are a number of other factors that support the strong Aframax/LR2 market. The efficiency of the Aframax fleet has been reduced since the Russian invasion of Ukraine, Western countries have imposed increasing sanctions on the regime in Moscow. Partly as a result of the EU import ban and the G7 price cap, which potentially limit the involvement of Western owners in the Russian trades, more Aframaxes have moved into the dark fleet. These vessels have a lower utilization rate because they typically don’t triangulate, but mostly ballast back after they deliver their cargo and they might incur more waiting time.
 
-*Chart*
+*Chart: Aframax / LR2 Ton Mile Demand*
+
+*Chart: Aframax / LR2 Freight Rates (Eco/Scrubber)*
 
 *Sources: Vortexa; Poten & Partners*
 

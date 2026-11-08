@@ -24,7 +24,9 @@ Refining output will likely take longer to return to pre-hurricane levels mainly
 
 Key infrastructure was also impacted by Hurricane Ida. Some of the key pipelines, such as the Colonial pipeline - which was shut down as a precaution - have reopened, but with many refineries still out, product pipelines could face a lack of product in the future. Most ports in the region, including the Port of New Orleans and Port Fourchon reopened, although only for daylight operations. Portions of the Mississippi River remain closed due a downed power line. According to the Coast Guard, the Louisiana Offshore Oil Port (LOOP) remains closed as well.
 
-*Chart*
+*Chart: US Gulf Aframax Freight Market (70Kt Car-USG)*
+
+*Chart: US Gulf Product Freight Market (38Kt USG - UKC)*
 
 *Source: Poten & Partners*
 

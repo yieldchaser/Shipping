@@ -26,11 +26,11 @@ In China, the pattern of refinery turnarounds is different, as can be seen from 
 
 The link between crude oil imports and refining turnarounds is tenuous at best. In the case of the United States, there is very little variation between the monthly imports throughout the year. Crude oil imports in the summer months (June, July,
 
-*Chart*
+*Chart: US: Refinery Outage*
 
 *Source: Bloomberg*
 
-*Chart*
+*Chart: China: Refinery Outage*
 
 *Source: Bloomberg*
 

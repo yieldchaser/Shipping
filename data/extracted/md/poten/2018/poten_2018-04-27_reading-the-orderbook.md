@@ -22,13 +22,13 @@ In the first four months of 2018, tanker rates have been depressed. Product carr
 
 There are a number of reasons for the continued ordering, the main ones being growth, fleet replacement and asset play. Let’s look at the VLCC orderbook for example. Since November 2017, 31 VLCCs have been ordered. One third of the total (11 vessels) were ordered by various Chinese entities. Not surprisingly these vessels were all ordered at Chinese shipyards (Dalian and Jinhai). The second largest group of VLCC owners visiting the shipyards were the traditional Greeks. All of these companies, most of them family owned, have a long shipping tradition. Some are building one or two vessels while others are making a more significant commitment to the industry. All the orders from the Greek owners (9 total from November 2017 – March 2018) were placed at shipyards in Korea. Some of the Greek orders are driven by fleet replacement in combination Korean owners placed several other orders at Korean yards. Of the remaining orders, three are from Japanese owners at – you guessed it – a Japanese shipyard.
 
-*Chart*
+*Chart: Tanker Spot Market Rates*
 
 *Source: Poten*
 
 *Source: Poten*
 
-*Chart*
+*Chart: Tanker Ordering*
 
 *Source: Poten*
 

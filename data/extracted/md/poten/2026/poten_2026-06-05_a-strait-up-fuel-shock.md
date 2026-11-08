@@ -22,7 +22,9 @@ Given the unprecedented disruptions in Middle East supply, it is no surprise tha
 
 The key difference between the U.S. stock draws and those of most other countries, is that the U.S. drawdowns coincided with a significant pickup in refined product exports (see Chart 2). Having access to large domestic crude oil suppliers and with a large installed base of refining capacity, the U.S. became the world’s marginal supplier of refined products. The U.S. maintained its exports to its traditional customers in Central and South America (Mexico, Brazil, Chile, Colombia, Peru, etc.) and increased supplies to Europe and Asia, areas that have been hit hard by the closure of the Strait of Hormuz. In recent months, U.S. refined products have been delivered to far flung destinations in Australia, Turkey and Namibia, countries that are usually sourcing their products from the Middle East or Asia and are typically not big customers of American refiners. The U.S. Jones Act waiver, allowing foreign flag vessels to (temporarily) move crude oil and refined products between U.S. ports, has further increased seaborne demand for U.S. refined products. California, for example, which became increasingly dependent on refined product imports from Asia after several refineries in the state closed, is now able to “import” product from the U.S. Gulf on foreign flag vessels.
 
-*Chart*
+*Chart: Weekly Petroleum Product Stocks*
+
+*Chart: US Gulf Clean Product Exports by Destination (Excl LPG & Chem.)*
 
 *Sources: EIA; Vortexa*
 

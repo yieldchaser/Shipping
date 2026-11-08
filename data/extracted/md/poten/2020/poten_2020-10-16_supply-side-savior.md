@@ -22,7 +22,7 @@ Let’s start with the current situation (October 1, 2020). The orderbook as a p
 
 Since the demand outlook for tankers is muted in the coming years, it is important to look at the age profile of the fleet to see how the orderbook compares with the pool of “scrapping candidates”, i.e. the vessels that are 20 years old or older by the end of 2022 (by the time the current orderbook is delivered). This paints a reasonably optimistic picture. Take VLCCs for example. There are 67 VLCCs on order for delivery through 2022. By the end of 2022, some 120 VLCCs will be 20 years old or older. Vessels that are older than 20 years are more difficult to trade and could face significant idle time (especially if there are ample modern units available). Unless
 
-*Chart*
+*Chart: Oil Tanker Fleet Profile*
 
 ### Fleet Statistics
 

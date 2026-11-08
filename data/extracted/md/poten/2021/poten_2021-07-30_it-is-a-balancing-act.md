@@ -24,7 +24,9 @@ The developments in 2019 are more difficult to explain as they involve factors t
 
 In February/March of 2020, it became clear that IMO 2020 was not creating the problems that some people expected, and the markets quickly came back to earth. That is, until Covid hit and the Saudi-Russian oil price war created another crisis. Rates spiked as tankers were used for floating storage. However, this boom was short-lived and tanker earnings fell rapidly when the OPEC+ countries cut production and ton-mile demand collapsed in the wake of widespread lockdowns and travel bans.
 
-*Chart*
+*Chart: VLCC Supply vs TM Demand*
+
+*Chart: Productivity (TM/VLCC) vs TCE*
 
 *Source: Lloyd’s List Intelligence; Poten*
 

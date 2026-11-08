@@ -22,7 +22,9 @@ Global oil demand is expected to grow from 90.6 million barrels per day (Mb/d) i
 
 On the supply side of the equation, OPEC’s analysts expect non-OPEC oil production to rebound in the medium-term. Non-OPEC production will increase from 62.9 Mb/d in 2020 to 69.8 Mb/d in 2025 (+6.9 Mb/d), recovering well above 2019 levels. Almost 40% (2.7 Mb/d) of the non-OPEC increase is forecast to come from the United States, where tight oil production is expected to rise from 11.5 Mb/d to 14.5 Mb/d (other U.S. output will decline slightly). OPEC expects much of the additional U.S. production to be exported, mostly to long-haul destinations in Asia. U.S. crude oil exports are forecast to reach 4.0 Mb/d in 2025. This would generate significant additional VLCC demand. At the same time as the U.S. is exporting more light (tight oil) crudes, OPEC expects higher imports of heavier grades (below 25 API) from Latin America and the Middle East. This will further boost ton-mile demand, especially the long-haul imports from the Middle East.
 
-*Chart*
+*Chart: Global Oil Demand Outlook*
+
+*Chart: Inter-Regional Crude & Condensate Exports By Origin*
 
 *Source: OPEC (World Oil Outlook 2045)*
 

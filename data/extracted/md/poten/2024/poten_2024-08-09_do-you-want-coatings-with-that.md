@@ -26,11 +26,11 @@ Coated or clean Aframaxes, known as Long Range 2 (LR2) tankers are a more recent
 
 Aframaxes and LR2s used to operate in different markets and the competition between these sectors was limited. LR2s are more sophisticated and more expensive to build, so they tended to operate in the “premium” clean trades. As these vessels aged and the maintenance of the coatings, as well as the tank cleaning systems became more expensive, the LR2s would gradually transition to the dirty trades. As Chart 1 shows, that is still largely the case. The youngest LR2s (0-5 Yrs old) traded almost 60% in clean, while 50% of the vessels were still trading products when 6-10 Yrs old. However, by the time LR2s are over the age of 10 Yrs, they have predominantly switched to the dirty trades, with only 25% still engaged in the transportation of clean products.
 
-*Chart*
+*Chart: Aframax / LR2 Cargoes By Age Bracket In 2024ytd*
 
 *Source: Vortexa/Poten & Partners*
 
-*Chart*
+*Chart: Clean vs Dirty Freight Rates*
 
 *Source: Poten & Partners*
 

@@ -24,7 +24,9 @@ In many of their trading areas, LR1s are competing with LR2s. By far the biggest
 
 The expansion of the Panama Canal is another factor that has had an impact. In June 2016, the Panama Canal Authority opened the new locks of its expanded Canal. Prior to that, only Panamax sized vessels could traverse the Canal. The addition of new expanded locks on both sides of the Canal allows tankers up to Suezmax size to use this shortcut. This effectively eliminates the raison d’être of Panamax sized tankers, including LR1s. Although this appeared to mostly affect the dirty product trade around the Panama Canal, it may also have reduced the appeal of the Panamax sized product tankers for owners.
 
-*Chart*
+*Chart: LR Trades: TonMile Demand*
+
+*Chart: 2021 LR1 Product Tanker Trade By Age*
 
 *Source: Lloyd’s List Intelligence*
 

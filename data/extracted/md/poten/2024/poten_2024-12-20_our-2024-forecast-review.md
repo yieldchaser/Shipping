@@ -30,7 +30,9 @@ It is hard to argue against this one as well. Major elections in important globa
 
 This forecast did not materialize. To the contrary, although the final numbers are not yet in, it is estimated that tanker recycling in 2024 was at the same low levels as in 2023, despite a rapidly ageing tanker fleet. The main drivers were relatively strong earnings and the continued availability of buyers that were willing to employ ageing vessels in the sanctioned, but lucrative, dark fleet. The increased scrutiny facing these dark fleet vessels, has limited their options in the recycling market. The cash buyers, acting as middlemen in these transactions, are unwilling to engage with the owners of the vessels in fear of facing sanctions.
 
-*Chart*
+*Chart: Crude Tanker Ordering*
+
+*Chart: OPEC+ Crude Exports by Origin*
 
 \4. OPEC+ will reverse some of their voluntary production cuts
 

@@ -26,9 +26,11 @@ Mexico, on the other hand, reduced their VLCC exports following President Andres
 
 North-West Europe added two VLCC import cargoes per month (from 4.3 to 6.3/month). They took two more cargoes per month from West Africa and one from the Middle East, partially offset by lower VLCC imports from the U.S. Gulf and the Med. Additionally, France imported two West African VLCC cargoes in the quarter, one from Nigeria and one from Angola. West African imports were likely attractive for Europe as these cargoes can be delivered relatively quickly, in contrast to the much longer voyage from the Middle East.
 
-*Chart*
+*Chart: TonMile Demand From VLCC Exports By Load Region*
 
 *Source: Lloyd’s List Intelligence*
+
+*Chart: VLCC TCE (AG - FE; 270,000t; Scrubber Equipped)*
 
 *Source: Poten & Partners*
 

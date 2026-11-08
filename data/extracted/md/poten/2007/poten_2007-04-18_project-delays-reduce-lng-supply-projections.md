@@ -30,7 +30,7 @@ A variety of reasons are behind the
 
 LNG supply projections continue to slide hold ups. OKLNG is only the latest in a series of ventures to suffer from higher-than-expected EPC offers, driven by factors such as rising raw material and equipment prices and continued tightness in the engineering services and construction sub-contractor sectors. The most recent bid rounds in Algeria, Angola and Nigeria resulted in costs between $600 and $1,000 per ton of installed capacity, well in excess of the $200 to $350 experienced only a few years ago (see LNGWM Nov ’05). These rises have led to longer project viability deliberations, additional pre-commitment cost-cutting efforts and, at Algeria’s El Andalus at least, a formal retendering of the EPC contract. Other factors are more project-specific. While it is also running way over budget, permitting delays and differences between the partners have compounded Gorgon’s problems.
 
-*Chart*
+*Chart: Global Liquefaction Capacity (MMt/y)*
 
 *Source: Poten & Partners*
 

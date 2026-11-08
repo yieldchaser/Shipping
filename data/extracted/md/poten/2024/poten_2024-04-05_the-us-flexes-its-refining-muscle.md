@@ -24,7 +24,9 @@ Last, but not least, there is the U.S. West Coast (PADD 5). Although its capacit
 
 Diesel and gasoline are the largest export products by volume from the U.S. Gulf, representing 46% and 30% of the total (2.0 Mb/d). The share of Naphtha is 13% and Jet Fuel is 4% of the U.S. Gulf exports. Historically, the U.S. exports a lot of refined products to its neighbors in Latin America. However, the destinations and the relative importance of the individual countries have changed in recent years due to a combination of factors. Mexico has traditionally been the largest customer of the U.S., mostly buying gasoline. In 2021, Mexico imported
 
-*Chart*
+*Chart: US Gulf Clean Product Exports by Destination (Excl LPG & Chem.)*
+
+*Chart: US West Coast Clean Product Exports by Destination*
 
 *Source: Vortexa*
 

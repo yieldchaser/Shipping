@@ -22,9 +22,11 @@ If an agreement is reached in the next few days and the focus switches to implem
 
 What will the impact be on the crude oil tanker market? First of all, an increase in total oil flows would be good for tanker tonmile demand. However, there are a few complications as it relates to Iran. First, Iran owns a significant tanker fleet, which can be used for international trade once sanctions are lifted. According to Lloyd’s List Intelligence (LLI), the Iranian owners operate 54 crude oil tankers (38 VLCCs, 9 Suezmaxes and 7 Aframaxes. Due to the sanctions, most of these tankers are being used for floating storage. LLI data for February shows that the Iranian fleet is currently storing about 51.3 million barrels of crude oil. This oil will likely be released into the market as soon as the sanctions are lifted. The Iranian fleet is relatively old and after spending several years being anchored and used as floating storage units, some of these vessels may not be tradeable anymore. Most of the other vessels will at least need to undergo some maintenance and repairs before they can rejoin the international market. This may take a few months.
 
-*Chart*
+*Chart: Identifiable Crude Exports from Iran By Destination*
 
 *Source: Lloyd’s List Intelligence*
+
+*Chart: Iranian & Rogue Tanker Fleets*
 
 *Source: Lloyd’s List Intelligence; United Against Nuclear Iran*
 

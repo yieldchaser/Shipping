@@ -26,9 +26,9 @@ The U.S. Energy statistics use geographical regions called Petroleum Administrat
 
 The region also exports some petroleum products, but the volumes are much smaller than the imports. A decade ago, diesel was the main export commodity as the refiners focused on gasoline production and they could sell surplus diesel to
 
-*Chart*
+*Chart: PADD 1 Petroleum Product Imports by Commodity*
 
-*Chart*
+*Chart: PADD 1 Petroleum Product Imports by Origin*
 
 *Source: EIA*
 

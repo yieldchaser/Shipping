@@ -22,7 +22,9 @@ Indonesia’s crude oil production has been gradually declining since its peak o
 
 Indonesia’s oil demand is estimated to be around 1.6 Mb/d. This is well in excess of the country’s refining output of around 800 - 900,000 b/d. This means that Indonesia is a significant refined product importer. Between 600 and 800,000 b/d of refined products are imported, about 52% of which is gasoline and another 20% diesel. Singapore is the major supplier with a 40% market share. Malaysia counts for 20% of the imports. Saudi Arabia, India, China and South Korea are smaller providers. Handy’s and MR’s are the main vessel classes used.
 
-*Chart*
+*Chart: Indonesia: Crude Oil Production and Imports And Refinery Intake*
+
+*Chart: Indonesia: Clean Products Imports by Origin*
 
 *Source: Jodi / Vortexa*
 

@@ -24,7 +24,9 @@ A review of the key LR2 trading routes shows that the Pacific is the dominant ex
 
 The war in Ukraine as well as the conflict in the Middle East have had an impact on LR2 product flows. Both events have scrambled trade flows and have had a major impact on ton-mile demand. Europe, for example sourced a significant share of clean petroleum products (mostly diesel) from Russia. This was primarily an MR trade. After the invasion of Ukraine, Europe switched to alternative sources, such as Kuwait, Saudi Arabia, the UAE as well as India and South Korea. This provided a massive boost to LR2 ton-mile demand, because the importers switched from MRs to the larger more economical Aframax sized vessels on these long-haul trades. LR2’s received another boost at the end of 2023 when the Houthi’s started to disrupt transits through the Red Sea and vessels were forced to take the long way around the Cape of Good Hope on their way from the Pacific to Europe. Both geopolitical events strongly supported LR2 freight rates.
 
-*Chart*
+*Chart: LR2 Clean Ton-Mile Demand by Destination*
+
+*Chart: LR2 Clean Tanker Freight Rates*
 
 *Source: Vortexa/Poten & Partners*
 

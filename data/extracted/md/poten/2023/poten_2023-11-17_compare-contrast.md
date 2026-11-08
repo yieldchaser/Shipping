@@ -22,9 +22,9 @@ Let’s take a look at the IEA numbers first. For full year 2023, they expect gl
 
 For 2024, however, the IEA expects a major slowdown in oil demand growth. Next year, oil demand will expand by only 928 Kb/d (0.9%). Demand will decline in the OECD countries (-340 Kb/d), while non-OECD demand will expand by only 1.27 Mb/d (1 Mb/d less growth than in 2023). Growth in China and other Asia in particular will slow dramatically. Only Naphtha demand will continue to expand in 2024 according to the IEA. After the rapid growth in 2023, the IEA expects jet fuel demand to be flat in 2024, quite a turnaround! The IEA also expects a slowdown in the U.S. and continued stagnation in Europe. The silver lining for the tanker industry is that non-OPEC supply will continue to grow in North America, Brazil and Guyana and the additional demand in Asia will be sourced from the long-haul sources in the Atlantic Basin.
 
-*Chart*
+*Chart: IEA vs OPEC Demand Growth (2023 & 2024)*
 
-*Chart*
+*Chart: IEA vs OPEC Oil Supply Growth (2023 & 2024)*
 
 *Source: IEA, OPEC*
 

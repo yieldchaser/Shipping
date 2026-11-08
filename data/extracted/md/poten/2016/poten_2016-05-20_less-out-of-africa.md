@@ -28,7 +28,7 @@ Our fixture data for 2015 and 2016 YTD confirms the changes in fixing patterns o
 
 *Source: Bloomberg*
 
-*Chart*
+*Chart: Crude Oil Spot Fixtures Loading In Nigeria (2015/2016 YTD)*
 
 *Source: Poten & Partners*
 

@@ -26,11 +26,11 @@ In addition to higher crude oil flows, there are also the typical seasonal patte
 
 There has been a significant pickup in the number of fixtures in the early weeks of October. Reports from Poten’s VLCC desk show at least 157 vessels fixed out of the Arabian Gulf in October 2018, the highest monthly volume since at least 2016. This compares to an average of 135 per month in 2018 YTD and 124 in 2017. Volumes from West Africa have picked up as well.
 
-*Chart*
+*Chart: VLCC 270,000: Ras Tanura - Ningpo*
 
 *Source: Poten & Partners*
 
-*Chart*
+*Chart: AG Fixture Count*
 
 *Source: Poten & Partners*
 

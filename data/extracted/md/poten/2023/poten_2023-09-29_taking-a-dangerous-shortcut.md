@@ -26,7 +26,9 @@ Because of the sanctions it is facing and the resulting shift in export destinat
 
 The chart shows that shipments mostly take place in the summer, from July – October. Even during that period, having an icebreaker escort is probably preferred since sea ice is unpredictable. If something goes wrong during the passage, it will be very difficult to respond to an oil spill. In addition to an icebreaker escort, the vessels that make the journey are usually ice-class tankers, strengthened to withstand the icy conditions during the NRS passage. Ice class vessels are a small subsector of the tanker fleet, and they are typically in high demand during the winter period in the northern hemisphere.
 
-*Chart*
+*Chart: Russian Northern Searoute Voyages (Clean & Dirty)*
+
+*Chart: Baltics Russia Crude Exports*
 
 *Source: Vortexa*
 

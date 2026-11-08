@@ -22,7 +22,9 @@ One of the key reasons for the dip in Suezmax exports from the Med in 2020 are t
 
 The other important factor that drove Med exports for Suezmax tankers down was off course the outbreak of Covid-19. The world economy was hit hard and the EU, the US and other countries immediately instituted lockdowns and travel restrictions which had a severe negative impact on global oil demand. Starting in May, the OPEC+ group of oil exporters instituted significant production cuts and this reduced flows from OPEC member Algeria as well as Black Sea exports from Russia (an OPEC+ participant). Now that we are starting to roll out Covid-19 vaccines, the recovery in global oil demand will gather pace and OPEC+ can reduce it export restrictions. For Russia, this could mean more Black Sea exports on Suezmaxes, especially since this trade was cut back disproportionately in 2020 (compared to seaborne exports from the Baltic and the Far East).
 
-*Chart*
+*Chart: Average Monthly Suezmax Voyages (By Load Area)*
+
+*Chart: 2020 Suezmax Voyages Loading In the Mediterranean (By Dest.)*
 
 *Source: Lloyd’s List intelligence*
 

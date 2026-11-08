@@ -26,7 +26,7 @@ The Chinese economy is maturing and as a result, the Chinese economy is not grow
 
 *Source: Bloomberg*
 
-*Chart*
+*Chart: Chinese Oil Demand versus Demand for Main Refined Products*
 
 *Source: JODI*
 

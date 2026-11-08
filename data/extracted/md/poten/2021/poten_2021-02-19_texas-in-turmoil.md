@@ -24,11 +24,11 @@ of the Energy Information Administration (EIA) came out just before the winter s
 
 More than 20 refineries in Texas, Oklahoma and Louisiana were shut down during the deep freeze, cutting refining output by as much as 5.5 Mb/d. The U.S. is a major exporter of refined product and this trade has temporarily stopped. It could take weeks for some of the refineries to come back on stream and resume production (and exports). Instead of exporting fuels, the U.S. is now raising its imports of refined products. Charterers rushed to fix MR product tankers with gasoline and diesel from Europe to fill the shortfall. The Time Charter Equivalent (TCE) earnings on the benchmark UKC – USAC route more than doubled from $5,000/day in the week ending February 12 to $12,500/day as of today. Until U.S. product exports resume, key importers of U.S. products will have to look elsewhere. For Latin American countries such as Mexico, Brazil, Panama, Peru, Guatemala, and Ecuador, this means longer haul imports from Europe, the Middle East or Asia. This will temporarily boost tonmile demand and support product tanker rates.
 
-*Chart*
+*Chart: PADD 3 Petroleum Product Imports / Exports*
 
 *Source: EIA*
 
-*Chart*
+*Chart: US Crude Oil Exports by Vessel Class*
 
 *Source: Lloyds List Intelligence*
 

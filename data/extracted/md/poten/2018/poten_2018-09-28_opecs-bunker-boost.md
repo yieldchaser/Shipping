@@ -24,11 +24,11 @@ Overall, OPEC is bullish about scrubbers. They expect that scrubber penetration 
 
 The OPEC report correctly points out that there remains a lot of uncertainty surrounding the bunker fuel mix. As a result, the global refining industry is reluctant to make significant investments to make more compliant fuel available. They will wait and see how the situation develops. Sophisticated refiners do have some flexibility to change their yields to maximize the output of middle distillates and LSFO. However, they will likely do this based on economic incentives and de-facto demand, rather than by anticipating uncertain future demand.
 
-*Chart*
+*Chart: Impact of IMO regulations on global oil demand growth*
 
 *Source: OPEC*
 
-*Chart*
+*Chart: Marine bunker demand by fuel type*
 
 *Source: OPEC*
 

@@ -53,7 +53,7 @@ Aframaxes, making up the largest segment in terms of number of ships, trading fl
 
 **VLCC (1,777)**
 
-*Chart*
+*Chart: 2003 Vessels by Fixture Type*
 
 ### VLCCs - Big Ships, Small Number of Charterers
 

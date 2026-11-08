@@ -26,11 +26,11 @@ More than 70% of total seaborne exports from Saudi Arabia have been shipped to A
 
 Tanker rates (in particular for large crude oil tankers) reacted quickly to the events in Saudi Arabia, although much of the freight rate increase was caused by higher bunker prices. VLCC rates from the Arabian Gulf to the Far East increased by
 
-*Chart*
+*Chart: Saudi Crude Oil Exports by Destination*
 
 *Source: Lloyd’s List Intelligence*
 
-*Chart*
+*Chart: VLCC & LR2 Freight Rates*
 
 *Source: Poten & Partners*
 

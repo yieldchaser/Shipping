@@ -30,7 +30,9 @@ Oil and tanker markets and geopolitical risks always seems to go hand in hand. T
 
 Tanker recycling was at a very low level in 2023. Data from Lloyd’s List Intelligence shows that only 14 tankers (>10,000 dwt) were recycled last year, down from 57 in 2022 and 95 in
 
-*Chart*
+*Chart: VLCC Fleet Age Profile and Orderbook*
+
+*Chart: Tanker Fleet Recycling History*
 
 \2021. This was the lowest level in at least 20 years. The tanker fleet is not young, as a matter of fact, it has been getting older. Since 2019, the average age of the tanker fleet has increased by four years (from 9.1 in Jan 2019 to 13.1 currently). With the limited deliveries scheduled over the next 2 years, the fleet will likely get even older. The main reason for the dearth in recycling is the premium valuations of older vessels. It was much more profitable for owners to sell vessels for further trading (mostly into the dark fleet) than to recycle them. We expect this to change in 2024. EU scrutiny on secondhand sales as part of a new set of sanctions on Russia could make owners more reluctant to sell ships to unknown buyers. However, more importantly, we think the dark fleet has reached a level where it is big enough to service the sanctioned trades. Furthermore, sanctions relief for Venezuela has reduced demand for these vessels and increased scrutiny of regulators will limit the trading options of these vessels. We expect tanker recycling in 2024 to reach at least 50 vessels.
 

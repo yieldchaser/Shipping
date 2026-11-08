@@ -16,9 +16,9 @@ charts_count: 1
 
 Now that the 2005 National Championship College Football (American style) have been settled it’s time to look at the Worldwide Chartering Championship for the oil and dirty petroleum (DPP) market. Surprisingly, the total activity in the sector is essentially unchanged from last year. Total dirty spot fixtures rose by just 19 fixtures from 10,412 in 2004 to 10,433 in 2005.
 
-*Chart*
+*Chart: 2004*
 
-*Chart*
+*Chart: 2005*
 
 Fixture volume for all vessel sizes largely unchanged in 2005 versus 2004: none of the vessel sizes carrying dirty cargoes saw volume changes of greater than 100 fixtures. Aframaxes gained the most ground, with 85 more reported fixtures in 2005 than in 2004. VLCCs lost the most ground, losing 78 reported fixtures in 2005 versus 2004.
 

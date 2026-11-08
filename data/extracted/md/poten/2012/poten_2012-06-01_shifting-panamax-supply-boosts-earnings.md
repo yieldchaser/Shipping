@@ -16,7 +16,7 @@ charts_count: 3
 
 Panamax spot earnings in the Atlantic basin have been climbing consistently over the past month, especially for Panamaxes trading in the Caribbean spot market. In fact, Panamax Caribbean earnings are currently exceeding $20,000 per day, a peak level usually only seen in winter months. This development is surprising given depressed earning levels at the beginning of the year. This development is even more surprising relative to the Aframax Caribbean market, where earnings are currently approximately one half of Panamax earnings.
 
-*Chart*
+*Chart: Panamax and Aframax Atlantic Basin Earnings*
 
 Three developments explain these elevated Panamax Caribbean earnings. First, reported spot fixture activity in the Caribbean has increased thus far this year. The chart on the next page shows the increased fixture volumes within the Caribbean basin, on the back of increased liftings out of Mexico, Trinidad and Tobago, and Colombia. If fixture volumes continue at their current pace, Panamax Caribbean basin spot activity should approach the highest levels seen since 2009.
 
@@ -24,13 +24,13 @@ Second, Panamax activity has increased west of the Panama Canal thus far in 2012
 
 A third development that has propped up Panamax earnings is a lack of tonnage supply from trans-Atlantic exports from Europe. Historically, charterers have fixed around 10-15 Panamaxes per month to load either in the Mediterranean, Baltic or UK/Continent, and to discharge in the US. Thus far in 2012, however, the frequency of reported fixtures has fallen to around 8 per month – should this trend continue, 2012 Panamax trans-Atlantic fixtures will be about half their 2009 volume. Much like those vessels currently employed west of the Panama Canal, the Panamaxes that cross the Atlantic typically spend some time trading in the Caribbean basin. With fixture volumes down sharply, however, there are fewer ships arriving into the Caribbean to compete for cargoes.
 
-*Chart*
+*Chart: Panamax Reported Fixture Patterns*
 
 Data from the Energy Information Administration (EIA) on US imports reflects this lower fixture activity. The chart on the next page shows PADD 3 import volumes from European countries for residual fuel oil and “Unfinished Oils,” which is predominantly Vacuum Gas Oil (VGO). VGO is an important feedstock for Fluid Catalytic Cracking units that produce high-quality motor gasoline. PADD 3 VGO imports from Europe have been falling steadily since end-2011, and reached their lowest levels in five years in March of this year. These lower volumes are due to a variety of factors, including the wider WTI/Brent spreads affecting VGO netbacks to Europe, cracker maintenance in the US, and availability of VGO out of Russia.
 
 These European exports to the US are typically handled by a combination of spot and controlled tonnage. Much like the spot-trading Panamaxes that traditionally have moved cargo from Europe to the US (and then fix Caribbean basin requirements), controlled tonnage will frequently move cargo to the US, then fix in the Caribbean basin for some time.
 
-*Chart*
+*Chart: USG DPP Imports from Europe, 2008-Present*
 
 *Source: EIA, Poten*
 

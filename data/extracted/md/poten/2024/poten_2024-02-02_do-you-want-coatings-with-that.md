@@ -24,7 +24,9 @@ Relative to Aframaxes, LR2s have gained popularity over the last 10-15 years as 
 
 It is important to note that not all LR2s are created equal. For LR2s to remain eligible to trade clean products, they have to maintain their coatings. As the vessels age, this becomes more important. When the vessels reach 10 or 15 years of age, renewing the coating of LR2s during their periodic special surveys can be time consuming and expensive, making it cost prohibitive. That is why most of the clean cargoes are moved on LR2’s that are less than 10 years old. As LR2s age, they transition more and more to the dirty trades, if their coatings are not well maintained. LR2s that are less than 5 years old are predominantly employed in the clean product trades, vessels from 5-10 years old are trading equally clean and dirty cargoes, while vessels older than 10 years mostly gravitate towards crude oil and dirty products. When the owner’s intention is to employ his vessel exclusively in the dirty oil trades, it still makes sense to order a conventional Aframax rather than a LR2. They are generally cheaper to build, less expensive to maintain and more efficient than their coated counterparts.
 
-*Chart*
+*Chart: LR2 Tankers Trading Cargo*
+
+*Chart: Clean Vs Dirty Aframax Freight Rates*
 
 *Source: Vortexa/Poten*
 

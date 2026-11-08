@@ -22,7 +22,7 @@ resulting in a modest amount of clean product exports. However, a trend of incre
 
 Quarterly, 2008-present
 
-*Chart*
+*Chart: Reported Spot Fixtures Discharging Brazil*
 
 | Label | Value |
 | --- | --- |
@@ -49,7 +49,7 @@ Another bearish factor in clean product imports into Brazil has been the use of 
 
 sugar cane harvest in the country. In the past, consumers returned to gasoline and diesel as price advantages melted away after depletion of the harvest.
 
-*Chart*
+*Chart: Clean Product Demand vs Refinery Capacity*
 
 Clean product demand may continue to rise, but refinery capacity forecast not guaranteed.
 
@@ -57,7 +57,7 @@ Source: IEA
 
 At least one factor, however, may be driving Brazil back to imports. Projected product demand and the production capacity of domestic refineries are converging on paper. But many of the longer term refinery projects, particularly those in 2017 and 2018 are uncertain, and the supply of clean product may not be as optimistic as the graph leads one to believe. Not all projects are fully funded, and many delays are predicted, particularly those beyond 2015.
 
-*Chart*
+*Chart: TC14 Rates moving in sync with US Exports to Brazil*
 
 *Source: Poten & Partners, EIA*
 

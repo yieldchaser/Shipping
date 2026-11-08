@@ -20,7 +20,7 @@ the rhetoric seen in 2012 when the country repeatedly threatened to close the St
 
 Iranian Crude Production Monthly Data 2009-2013 YTD
 
-*Chart*
+*Chart: Iranian Crude Production*
 
 *Source: EIA, IEA*
 
@@ -38,7 +38,7 @@ Relaxed sanctions could lead Iranian flows back to Europe, possibly boosting ref
 
 grades. The recent fluctuation in Libyan exports has introduced supply uncertainty for European refiners. This could help the relatively anemic crack spreads that European refiners have been experiencing, which would increase utilization rates, and ultimately help the clean product export markets from the Continent.
 
-*Chart*
+*Chart: Estimated unplanned crude oil production disruptions among OPEC producers*
 
 *Source: EIA*
 

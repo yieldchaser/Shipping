@@ -22,7 +22,9 @@ Not all crudes are the same. The oil industry uses many specifications to differ
 
 Geopolitical and other factors, such as geology and logistics, have also played a role in the changing U.S. crude oil landscape. Traditionally, Mexico maintained a strong position in the U.S. with significant exports of Maya crude to U.S. Gulf refiners. However, in recent years, Mexican production has started to decline, and the addition of new domestic refining capacity has further limited export availability of the heavier Mexican grades. The situation in Venezuela, one of the other major exporters of heavy crudes to the U.S. has become problematic due to mismanagement and U.S. sanctions. Venezuelan exports to the U.S. stopped completely from 2019 until 2023. Even after Chevron started producing and exporting again in 2023, volumes were only a fraction of the pre-2019 imports. The current situation is quite uncertain with the status of foreign oil licenses continuously changing.
 
-*Chart*
+*Chart: U.S. Heavy Crude Oil Imports By Origin*
+
+*Chart: Crude & Condensate Exports From Vancouver By Destination*
 
 *Source: EIA; Vortexa*
 

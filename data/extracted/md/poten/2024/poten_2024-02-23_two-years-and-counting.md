@@ -24,7 +24,9 @@ Initially, while sanctions were being developed, many tanker owners continued to
 
 Due to the G7 sanctions and price cap, customers of Russian oil and oil product could no longer rely on the large international fleet of tankers, many of which carry western insurance and/or have western ownership interests. This led to a rapid expansion of the so-called “dark fleet”, a group of tankers involved in clandestine activities to move sanctioned oil from Iran, Venezuela and Russia. These tankers are often old, not well maintained, operated by inexperienced crews and therefore considered unsafe. They also have murky ownership structures and obscure insurers. These vessels often employ tactics to hide their location, the origin of the crude they carry, and their ownership. The exact size of the dark fleet is impossible to determine, but it is widely estimated to have at least doubled and possibly tripled in size since the sanctions against Russia were implemented.
 
-*Chart*
+*Chart: TonMiles From Russian Crude Oil Exports by Destination*
+
+*Chart: Crude Oil and Product Tanker Freight Rates*
 
 *Sources: Vortexa / Poten & Partners*
 

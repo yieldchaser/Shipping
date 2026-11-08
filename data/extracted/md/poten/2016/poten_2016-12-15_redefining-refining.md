@@ -26,7 +26,7 @@ The outlook for refining in 2017 is mixed. In most of the OECD countries, clean 
 
 *Source: OPEC*
 
-*Chart*
+*Chart: Refinery Capacity Additions by Region*
 
 *Source: OPEC*
 

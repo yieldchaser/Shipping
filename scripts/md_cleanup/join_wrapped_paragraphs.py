@@ -187,6 +187,14 @@ def main(argv: list[str]) -> int:
     apply = "--apply" in argv
     roots = [a for a in argv if not a.startswith("--")]
     total = files = 0
+    if "--changed" in argv:
+        # CI: the MDs this run wrote or rewrote (untracked or modified), whichever extractor wrote them
+        import subprocess
+        out = subprocess.run(["git", "-c", "core.quotepath=off", "status", "--porcelain", "-z", "--untracked-files=all",
+                              "--", *(roots or ["data/extracted/md", "corpus"])],
+                             capture_output=True, text=True, encoding="utf-8").stdout
+        changed = sorted({e[3:] for e in out.split("\0") if e[3:].endswith(".md") and e[:2].strip() in ("??", "M", "A", "AM", "MM")})
+        roots = [p for p in changed if Path(p).is_file()]
     for root in roots:
         paths = [Path(root)] if Path(root).is_file() else sorted(Path(root).rglob("*.md"))
         for p in paths:

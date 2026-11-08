@@ -22,9 +22,11 @@ From a global perspective, it makes sense that ton-mile demand would increase wh
 
 By December 5, tanker owners that fly any EU flag or carry P&I insurance from an EU club can no longer have crude oil onboard that originated in Russia, unless Russia has sold the crude to the buyer at or under the agreed price cap. However, the level of the price cap has not yet been agreed and/or disclosed. That means that any vessel that has recently loaded in Russia (or will do so in the next few weeks) has until December 5 to discharge its cargo. Considering the long sailing distances, recent shipments from the Baltic to China are already at risk of not arriving on time. How will the oil market treat Russian oil when the price cap is not (yet) settled? Does this mean there is the blanket insurance ban and a large portion of Russian barrels will be stranded?
 
-*Chart*
+*Chart: Crude Oil Exports from Russia*
 
 *Source: Lloyd’s List Intelligence*
+
+*Chart: Aframax & Suezmax Freight Rates*
 
 *Source: Poten & Partners*
 

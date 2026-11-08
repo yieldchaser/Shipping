@@ -18,11 +18,11 @@ charts_count: 3
 
 Now that the 4th of July Holiday in the U.S. is behind us, it is time to make up the balance for the first half of the year. It was hard to get excited about the spot rates during the first six months, but the focus here is on the spot fixture volumes*.
 
-*Chart*
+*Chart: Top 10 VLCC Spot Charterers*
 
 In the VLCC segment, Unipec continues to be in a league of its own. In the first half of 2017, we counted 285 reported fixtures for the Chinese charterer, 32 more than over the same period in 2016. The top four VLCC charterers are based either in China or in India. However, while both of the large Chinese charterers logged more fixtures than in 2016, the Indian charterers remained roughly at last year’s level. The total number of reported VLCC spot fixtures increased from 981 in 2016 to 1,133 this year.
 
-*Chart*
+*Chart: Top 10 Suezmax Spot Charterers*
 
 Chevron was the largest Suezmax charterer in the first half of the year, just like they were last year, followed again by Repsol. Shell moved up to third, replacing Unipec, who fell out of the top 10 this year. The top four charterers all increased their number of spot fixtures compared to last year. In contrast to the VLCC market which is dominated by Asian charterers, the Suezmax market is still controlled by Western charterers, even though the Pacific Suezmax trades are gaining on the Atlantic. The total number of reported Suezmax fixtures in the first half of 2017 also increased: from 1,176 to 1,322.
 
@@ -52,7 +52,7 @@ Chevron was the largest Suezmax charterer in the first half of the year, just li
 |  | Others | 248,350 | 33.3% |  | 2,061 |
 |  | Total | 683,834 | 100.0% |  | 5,367 |
 
-*Chart*
+*Chart: Top 10 Aframax Spot Charterers*
 
 *Source: Poten & Partners*
 

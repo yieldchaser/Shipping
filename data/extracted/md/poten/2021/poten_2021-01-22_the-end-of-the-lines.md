@@ -30,7 +30,7 @@ Even if no new capacity can be added, some of the existing pipeline networks can
 
 *Source: EIA*
 
-*Chart*
+*Chart: Canada: Crude Oil Exports by Rail*
 
 *Source: Canada Energy Regulator*
 

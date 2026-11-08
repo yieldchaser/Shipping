@@ -32,7 +32,7 @@ In recent years, the Korean yards have rediscovered the tanker market. Among the
 
 *Source: Poten*
 
-*Chart*
+*Chart: Newbuilding Prices vs Steel Prices*
 
 *Source: Bloomberg, Poten*
 

@@ -28,7 +28,7 @@ As Figure 2 illustrates, owners have largely been in a position to hold on to th
 
 *Source: Bloomberg, Poten & Partners*
 
-*Chart*
+*Chart: AG-Japan; 270 Kt VLCC - Total Freight Costs*
 
 *Source: Poten & Partners*
 

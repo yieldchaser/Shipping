@@ -30,7 +30,7 @@ The current market shows a (temporary) decoupling of second hand values from the
 
 *Source: Poten and Partners*
 
-*Chart*
+*Chart: VLCC Second Hand Prices vs Newbuilding Contract Prices*
 
 *Source: Poten and Partners*
 

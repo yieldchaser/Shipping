@@ -20,11 +20,11 @@ According to the office of the U.S. Trade Representative (USTR), China is target
 
 The main elements of the proposals are as follows:
 
-*Chart*
+*Chart: Number of Tanker Voyages Loading or Discharging in the United States in 2024*
 
 Vessels from Chinese owners or operators will be charged a fee of up to $1 Million (or up to $1,000 per net ton of capacity) each time they enter a U.S. port Any operator of a Chinese-built vessel that enters a U.S. port will be charged a fee of up to $1.5 Million. If the operator’s fleet is >50% Chinese built, vessels of that operator will be charged a fee of up to $1 Million per entry; if the operator’s fleet is 25-50% Chinese built, the fee is up to $750,000 per entry; for fleets <25% Chinese built, the fee is up to $500,000 per entry. Additional fees are proposed for operators that have vessels on order at Chinese shipyards. If more than 50% of an operators’ orderbook (for delivery within the next 24 months) is from Chinese yards: $1.0 Million; more than 25% and less than 50%: $750,000; and $500,000 if more than 0% and less than 25%. Some of the fees can be refunded if operators use U.S. built vessels for entry into U.S. ports. In addition to the above, U.S. exports will need to increasingly use U.S.-flagged, and U.S. built vessels: 1% of all exports in year 1 will be restricted to U.S. flagged vessels by U.S. operators, growing to 5% after 3 years (of which 3% to be U.S. built) and ultimately (after 7 years) 15% U.S.-flagged and operated and 5% U.S. built.
 
-*Chart*
+*Chart: Trading Tanker Fleet By Built Country*
 
 *Source: Poten, Vortexa*
 

@@ -16,7 +16,7 @@ charts_count: 1
 
 The eventual fate of the single-hull tanker fleet is clear: these vessels must exit the market by 2015 or when they reach 25 years of age. However, with that date still several years off, the intermediate outlook for this fleet remains fairly uncertain. The recent spill off the coast of South Korea has prompted concerns that the phase-out schedule will rapidly accelerate. Although many companies have sworn off the use of non-double hull tonnage, single hull vessels are still finding a home. The chart below shows the historical reported spot fixtures for non-double hull VLCCs worldwide. The number of non-double hull fixtures has remained relatively steady for the past couple of years and represent 38% of total reported spot fixture volume in 2007.
 
-*Chart*
+*Chart: Non-Double Hull VLCC Reported Spot Fixtures*
 
 As the non-double hull market has been a sizeable percentage of the total spot market, it would seem that policy changes with regard to non-double hull tankers in 2008 could have widespread implications across the market. Although an accelerated phase-out of non-double hulls seems as though it would particularly affect the supply side of the equation, the repercussions could be smaller than anticipated.
 
@@ -24,11 +24,11 @@ As the non-double hull market has been a sizeable percentage of the total spot m
 
 The chart below shows the fleet profile for VLCCs by hull type. Out of a fleet of approximately 500 vessels trading today, 28% are non-double hull. It is important to keep in mind, however, that older vessels contribute lesser actual capacity to the overall fleet for a few different reasons.
 
-*Chart*
+*Chart: VLCC Fleet Hull Profile*
 
 The chart below shows the average deadweight of the VLCC fleet based on build year. Over time, the average size of these vessels has increased quite considerably.
 
-*Chart*
+*Chart: Average Size by Build Year*
 
 ### Apples to Apples
 

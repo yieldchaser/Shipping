@@ -24,9 +24,11 @@ For the large tanker market, OPEC output decisions continue to be very important
 
 It is clear from the chart that there is not always a direct correlation between OPEC production and VLCC rates. Sometimes there is a time lag, while at other times the two seem to be trending in the opposite direction. Throughout
 
-*Chart*
+*Chart: Brent Crude Oil Price*
 
 *Source: EIA*
+
+*Chart: Middle East OPEC Production vs TD3c TCE*
 
 *Source: Poten & Partners, IEA*
 

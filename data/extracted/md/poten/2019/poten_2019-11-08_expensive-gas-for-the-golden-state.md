@@ -28,9 +28,11 @@ Even though none of the refineries were directly impacted by the wildfires or th
 
 As a result of the outages, gasoline prices at the pump have increased to more than $4/gallon (see first graph) in recent weeks. While this might sound like a good price for many of our readers in Europe, the average gasoline price in the U.S. is currently around $2.55/gallon.
 
-*Chart*
+*Chart: California Gasoline Prices vs U.S. Average*
 
 *Source: EIA*
+
+*Chart: California Gasoline Imports by Origin*
 
 *Source: Poten & Partners*
 

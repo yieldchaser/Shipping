@@ -16,7 +16,9 @@ charts_count: 2
 
 OK
 
-*Chart*
+*Chart: Seaborne Crude Oil Imports into California*
+
+*Chart: Seaborne Clean Product Imports into California*
 
 *Source: Vortexa*
 

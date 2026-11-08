@@ -24,7 +24,9 @@ The Sunday announcement was dominated by one country only: Saudi Arabia. The Kin
 
 After the announcement of the Saudi cutback, oil prices initially rallied, but they have somewhat retreated since. The longer-term trajectory of global oil prices will probably be more driven by the demand side of the equation. The risk of a global recession and the somewhat lackluster recovery in China are often cited (also by OPEC) as the reasons for a conservative outlook for the second half of 2023.
 
-*Chart*
+*Chart: EIA: OPEC+ Russia Crude Oil Production*
+
+*Chart: Brent Crude Price Vs VLCC Rates*
 
 *Sources: Lloyd’s List Intelligence; Poten & Partners*
 

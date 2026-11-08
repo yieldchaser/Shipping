@@ -24,7 +24,9 @@ Our data from Q1 2015 through Q1 2017 shows a couple of interesting developments
 
 A second, and - we believe - related, development is the shift in destinations from West to East. Not surprisingly, there is a significant difference between VLCCs and smaller crude tankers. Traditionally, almost all West African exports on VLCCs were shipped East (to Asia). Throughout 2015, 2016 and in 2017 year-to-date, 95% of the VLCC voyages from West Africa went East and only 5% sailed West. There are a few obvious explanations for this phenomenon: West African exports of crude to the U.S. have traditionally been shipped to the country’s East Coast, where refiners have a greater appetite for the light sweet crude that is the staple of most West African producers. The only VLCC capable discharge facility in the U.S. is LOOP in the U.S. Gulf, but refiners in this region prefer to import cheaper, heavier grades from Latin America and the Middle East. Therefore, the vast majority of West African (mainly) Nigerian crude arrives in the U.S. in Suezmaxes on the East Coast. So while the East/West split has been stable for the VLCCs since 2015, the story for Suezmaxes has been different.
 
-*Chart*
+*Chart: W. Africa Crude Exports by Vessel Class*
+
+*Chart: W. Africa Crude Exports by Destination*
 
 *Source: Lloyd’s List Intelligence*
 

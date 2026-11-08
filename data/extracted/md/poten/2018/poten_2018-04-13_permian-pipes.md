@@ -26,7 +26,7 @@ Booming LTO production has led to a substantial increase in crude oil exports (s
 
 *Source: IEA*
 
-*Chart*
+*Chart: U.S. Seaborne Crude Oil Exports by Destination*
 
 *Source: Lloyd’s List Intelligence*
 

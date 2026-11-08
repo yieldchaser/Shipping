@@ -18,11 +18,11 @@ charts_count: 3
 
 The oil tanker markets are still largely driven by the Russian invasion of Ukraine and related sanctions and by the Red Sea crisis caused by Houthi attacks on ships travelling near the Red Sea. Fixtures related to Russian trades are usually not reported in the market but represent substantial volumes. Not unexpected, Unipec remains by far the largest charterer, even though the Chinese economy and oil demand growth is still below the trend of previous years. We recorded 8.7% less volume for Unipec spot fixtures while the total number of reported fixtures increased by 3.5% compared to the first half of 2023.
 
-*Chart*
+*Chart: Top 10 VLCC Spot Charterers*
 
 Unipec maintained its position at the top of the VLCC segment, despite a decrease in its number of VLCC fixtures from 369 in H1 2023 to 344 in H1 2024. Petrobras (52 fixtures) moved up from sixth position to second, reflecting their oil production growth. Shell and IOC share the third position with 43 fixtures each. Overall, the number of reported VLCC spot fixtures increased slightly from 1,561 in H1 2023 to 1,576 this year.
 
-*Chart*
+*Chart: Top 10 Suezmax Spot Charterers*
 
 Chevron takes top spot in the Suezmax segment with 51 fixtures, moving up from the number six spot last year, closely followed by Shell (48) and Exxon with 47. IOC re-appeared in the top 10 after dropping out last year.
 
@@ -52,7 +52,7 @@ Chevron takes top spot in the Suezmax segment with 51 fixtures, moving up from t
 |  | Others | 291,880 | 45.7% |  | 1,724 |
 |  | Total | 638,355 | 100.0% |  | 3,847 |
 
-*Chart*
+*Chart: Top 10 Aframax Spot Charterers*
 
 *Source: Poten & Partners*
 

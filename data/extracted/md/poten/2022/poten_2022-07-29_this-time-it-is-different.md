@@ -24,9 +24,9 @@ The current situation is quite different in many respects, although there are so
 
 Another significant difference is that the world is now very focused on addressing climate change and reducing global emissions, including from shipping. For tanker owners this means that the future of their business has become more uncertain (peak oil demand) and that investment decisions now need to incorporate choices around fuel and propulsion. None of these factors played a significant role when the previous generation of tankers were ordered 15-20 years ago. Vessels were pretty standard in terms of specifications and fuel consumption. The more fuel efficient “eco” design vessels only came into play 10 years ago.
 
-*Chart*
+*Chart: Newbuilding Tanker Prices*
 
-*Chart*
+*Chart: 5 Year Old Tanker Prices*
 
 Source: Poten & Partners
 

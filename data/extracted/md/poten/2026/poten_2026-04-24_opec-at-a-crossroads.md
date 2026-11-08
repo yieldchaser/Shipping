@@ -24,7 +24,9 @@ The 1973 oil embargo during the Yom Kippur War (carried out by the Arab members 
 
 The last 10-15 years, OPEC has been stuck in a strategic trap. Non-OPEC production has increased dramatically, driven in large part by the U.S. shale revolution, which has made the United States the world’s largest oil producer. Canada, Brazil and Guyana have also significantly expanded output. As OPEC’s market position has eroded, it can try to maintain prices or protect its market share, but it cannot do both. Even before the Iran war, OPEC faced multiple challenges: competition from flexible producers (U.S. shale); members with vastly different fiscal needs and political agendas; a complex set of targets/quotas that are hard to enforce consistently and, slower oil demand growth due to efficiency gains and the impact of the energy transition (renewables, EV’s and climate policies).
 
-*Chart*
+*Chart: OPEC vs Non-OPEC Oil Production*
+
+*Chart: Crude and Condensates Exports of AG OPEC Producers*
 
 *Sources: Energy Institute, Vortexa*
 

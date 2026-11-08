@@ -26,7 +26,9 @@ Many of these export routes are under-utilized, either due to geopolitical issue
 
 The CPC blend exported through the Black Sea port of Novorossiysk contains up to 20% of Russian crude, but does not fall under EU and US sanctions. Both Chevron and Exxon are involved in Kazakh oil production and they have every incentive to keep CPC exports outside of the sanctions. Novorossiysk has two load terminals (the CPC Pipeline terminal and the Northern Route Export Pipeline from Baku) and Russia also exports other crudes (about 430 Kb/d in 2023, predominantly Urals).
 
-*Chart*
+*Chart: Black Sea Crude Loadings by Grade*
+
+*Chart: Black Sea Crude Loadings by Destination*
 
 *Source: Vortexa*
 

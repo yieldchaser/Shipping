@@ -22,7 +22,9 @@ After the start of the hostilities, traffic through the Strait of Hormuz slowed 
 
 Attacks on vessels in the Straits of Hormuz as well as in the Arabian Gulf have caused freight rates to increase dramatically, both in the Middle East as well as in other regions (see Chart 2). This has made trips from the Arabian Gulf extremely profitable, even considering the much higher insurance premiums that are now being charged. It is important to highlight that war risk insurance is still available for tanker owners (and charterers) that are willing to take the risk. It is just a lot more expensive. Prior to the conflict premiums for vessels sailing into the Arabian Gulf were typically in the range of 0.1 – 0.15% of the value of the vessel. According to various sources, rates have now increased to 1.0%, and, if a vessel is affiliated with the U.S. or Israel, premiums could go up to 3%. However, transiting the Strait of Hormuz poses severe physical security risks that insurance cannot solve. Against that backdrop, the shipping industry is not sure what to make of the U.S. offer of “risk insurance” and – if needed – U.S. Navy escorts. Some shipowners that are trapped in the Arabian Gulf now benefit from the unprecedented freight environment by offering their vessels for floating storage. There are reports of VLCCs earning $400-500,000/day on short-term (30-90 day) floating storage contracts.
 
-*Chart*
+*Chart: Daily Oil Cargoes Transiting the Strait of Hormuz in 2026*
+
+*Chart: Tanker Freight Rates in 2026*
 
 *Source: Vortexa, Poten*
 

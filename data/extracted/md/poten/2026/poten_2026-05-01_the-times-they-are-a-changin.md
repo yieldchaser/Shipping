@@ -24,7 +24,9 @@ After the arrest of Maduro, interim President Delcy Rodriguez took over. In coor
 
 Production growth in Venezuela has been facilitated by a new legal framework implemented by interim President Rodriguez. Foreign companies can now operate, export, and commercialize oil independently, even as minority partners with PDVSA. Royalty rates have been made flexible, potentially dropping from 33% to as low as 15% for joint ventures. Most importantly, new contracts now permit dispute resolution through international arbitration, a major shift to provide legal certainty for global investors.
 
-*Chart*
+*Chart: Venezuela Weekly Crude Exports by Destination*
+
+*Chart: Venezuela Weekly Crude Exports by Vessel Class*
 
 *Source: Vortexa*
 

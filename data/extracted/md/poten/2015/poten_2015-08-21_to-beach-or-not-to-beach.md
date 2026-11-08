@@ -26,11 +26,11 @@ International regulations are slowly starting to address the issue, but as of ye
 
 In 2009, the International Maritime Organization (IMO) adopted the Hong Kong Convention for the Safe and Environmentally Sound Recycling of Ships. However, like all IMO Conventions, it will only come into force when the requisite number of member states has ratified it. At the moment, this convention has only been endorsed by three countries (one of them Norway). The European Union is expected to publish a list of ship recycling facilities globally that meet certain environmental and occupational health and safety standards and it is unlikely that any of the South Asian beaching yards will make the list.
 
-*Chart*
+*Chart: South Asian Scrap Prices versus Chinese Steel Prices*
 
 *Source: Bloomberg / Poten & Partners*
 
-*Chart*
+*Chart: Scrapping Activity by Country (2010 – 2015 YTD)*
 
 *Source: Poten & Partners*
 

@@ -22,7 +22,7 @@ In his three and a half years in office, President Trump has been a strong advoc
 
 The Biden platform will bring big changes to the oil industry. Even though Mr. Biden has denied that he will ban fracking outright, his administration will most likely increase regulatory oversight, tighten environmental regulations (e.g. put limitations on methane emissions and flaring) and change the permitting policy and/or royalty rates on federal lands, where 25% of U.S. oil is produced. A Biden administration will also propose to increase corporate tax rates and to eliminate subsidies for the oil and gas industry as well as withdraw the approval of the Keystone XL pipeline. On the foreign policy side, the Biden administration will re-enter the Paris Climate Accord as well as the Iran nuclear deal (if possible). A president Biden may not be as tough on Venezuela and could also pursue a de-escalation of the trade dispute with China. Overall, Mr. Biden is more focused on addressing climate change and promoting renewable energy and reducing America’s dependence on fossil fuels.
 
-*Chart*
+*Chart: US Oil Imports and Exports*
 
 *Source: EIA*
 

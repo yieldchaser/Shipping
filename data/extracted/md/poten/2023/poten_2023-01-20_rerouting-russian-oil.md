@@ -22,7 +22,9 @@ According to data from Lloyds List Intelligence, seaborne crude oil exports from
 
 It must be noted that the transparency of the Russian trade flow data has been somewhat reduced since the conflict started and sanctions have been imposed. Tankers leaving the Russian ports frequently don’t indicate their target destination until later in the voyage (if at all), and the increased use of ship-to-ship (STS) transfers makes it more difficult to track the ultimate destination of these Russian barrels. The increased use of the “shadow fleet” is a further complicating factor. After the invasion and in particular since sanctions were applied to Russian crude oil exports, a growing contingent of owners has declined to engage in moving Russian oil. Many of these owners are publicly traded companies which tend to have more modern vessels. The result of this trend has been an “ageing” of the tanker fleet calling on Russian ports. For example, in January 2022, 40% of the Aframax voyages ex-Russia were done on tankers that were younger than 10 years and only 28% on vessels that were older than 15 years. No vessels older than 20 years were utilized. By December, this age profile had changed dramatically: Only 22% of the Aframaxes were less than 10 years old and 50% was over 15 years old. Several voyages were performed on vessels older than 20 years and one Aframax employed was even older than 25 years!
 
-*Chart*
+*Chart: Seaborne Crude Oil Exports from Russia*
+
+*Chart: Ton Mile Demand From Russian Crude Oil Exports by Vessel Class*
 
 *Sources: Poten & Partners, Lloyd’s List Intelligence*
 

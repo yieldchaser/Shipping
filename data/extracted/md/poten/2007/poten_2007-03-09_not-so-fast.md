@@ -24,7 +24,7 @@ Although the stock markets have taken a dip, freight rates have remained firm an
 
 Volatility and sensitivity to momentum are two ubiquitous themes in the equity markets and are also constantly present in the freight markets. The chart below shows the Poten Tanker Index versus the Poten Tanker Equity Index.
 
-*Chart*
+*Chart: Poten Tanker Index versus the Poten Tanker Equity Index*
 
 The public tanker companies appear to be on an upward trend overall, despite being impacted by the stock market decline at the end of February. Even more recently, especially in the past week, the freight markets have been improving across the board for tankers.
 

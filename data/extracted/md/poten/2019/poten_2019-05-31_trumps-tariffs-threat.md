@@ -26,11 +26,11 @@ In 2018, Mexico exported about 1.2 Mb/d of crude oil. The U.S imported slightly 
 
 According to Bloomberg, Maya crude is currently trading at about $58 per barrel. At this price, a 5% tariff represents a price increase of about $3 and a 25% tariff would increase the price by about $15, which will make Mexican crude oil uncompetitive in the U.S. market. U.S refiners would need to look for alternative crude oil sources. Logical replacement crudes would be Western Canadian crudes which have similar properties to Mexican crude. However, pipeline capacity constraints have limited the availability of Canadian crudes, as Canada has had trouble to get additional export pipelines built. These constraints became so dire that the government of Alberta instituted a production cap in an effort to reduce the price discount of Western Canadian crude to other crudes. Canada could raise their export volumes by using more rail shipments but the growth potential will be limited.
 
-*Chart*
+*Chart: Mexican Crude Oil Exports*
 
 *Source: Lloyd’s List Intelligence*
 
-*Chart*
+*Chart: Mexican Crude Oil Imports By Company (Feb/Mar 2019)*
 
 *Source: EIA*
 

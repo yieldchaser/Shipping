@@ -18,11 +18,11 @@ Over the years, oil refineries along the US Northeast Coast have hit their share
 
 To help fill any product void left by these sidelined plants, the Colonial Pipeline intends to up its delivery rate into the Philadelphia, New Jersey and New York markets. These markets could see phased increases of refined product deliveries from the Colonial system totaling 125 kBD by 2014. Any potential shortfall of East Coast refined products after increased domestic transfers might be imported if price arbs warranted the movement. While ripples from the currently shuttered capacity are still moving through Mid‐Atlantic and Northeast oil markets, so far added product imports seem unnecessary. In fact, the following chart suggests that refined product imports were lower in 2011 than 2010.
 
-*Chart*
+*Chart: US Mid-Atlantic and North East Coast CPP Imports*
 
 Notwithstanding the absence of recent greater clean product import volumes into the US East Coast, time charter equivalent earnings for the standard size clean product tanker traveling from the UK Continent to the US Atlantic Coast have advanced from their third quarter 2011 levels.
 
-*Chart*
+*Chart: UKC to USAC 37kt Clean Tanker Earnings*
 
 Even though Sunoco’s self‐imposed deadline is only a few months away, the final fate of their 175 kBD Marcus Hook and 330 kBD Philadelphia refineries has not been made public. If these refineries are indeed permanently closed, refined products will still be needed to satisfy Sunoco’s extensive and thirsty network of gasoline stations. As oil logistics in the US Northeast continue to be hazy, some owners of MR clean tankers may be wondering if or when the window will open for added volumes of imports. Directionally, plans to increase flows through the Colonial Pipeline stand to crimp – but probably would not shut – any opening of the import window. Any tightening of supply in these markets might create price arbs sufficient to entice additional imports of clean product imports.
 

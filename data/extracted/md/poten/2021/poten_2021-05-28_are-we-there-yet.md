@@ -22,7 +22,9 @@ The American Automobile Association (AAA) expects that 37 million people will ta
 
 The impact of the summer driving season on the tanker market has diminished over the years. Under normal circumstances, the U.S. has abundant refining capacity and gasoline inventories as well as ample pipeline capacity to distribute the products to consumers, so the market should be well supplied. However, the last 16 months were not “normal circumstances”. As can be seen in figure 1, U.S. gasoline demand cratered in March/April
 
-*Chart*
+*Chart: U.S. Gasoline Demand*
+
+*Chart: U.S. Gasoline Imports & Exports*
 
 *Source: DOE Energy Information Administration*
 

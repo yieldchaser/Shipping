@@ -26,7 +26,9 @@ India has very limited domestic oil production (only around 700,000 b/d), so the
 
 For the purposes of this Opinion, we need to highlight what happened to India’s crude oil and refined product flows after Russia invaded Ukraine. Following the start of the conflict, the EU, UK, the United States and several other Western countries sanctioned Russia and eliminated crude oil and refined products imports from the country. Russia was forced to heavily discount its oil to make it attractive to other buyers. India was one of these buyers. As can be seen in Chart 1, India bought virtually no crude oil from Russia prior to the start of the war in Ukraine (February 2022), relying mostly on the Middle East, which makes sense given its geographical proximity. Since 2022, Russia has become India’s largest supplier of crude oil. India is now importing less on VLCCs, and more on Aframaxes.
 
-*Chart*
+*Chart: India Crude Oil Imports by Origin*
+
+*Chart: India Clean Products Exports by Destination*
 
 *Source: Vortexa*
 

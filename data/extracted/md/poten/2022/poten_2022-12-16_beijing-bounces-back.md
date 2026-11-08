@@ -22,11 +22,11 @@ The Russian invasion of Ukraine has had an impact on seaborne Chinese crude oil 
 
 While there may be short-term challenges for Chinese oil demand as the country wrestles with the unwinding of the covid-restrictions, the medium- to longer term prospects for crude oil imports into China look bright. The government has indicated that they will provide support to the construction sector and the property markets, crucial sectors for the Chinese economy. The expected economic rebound in China will underpin Chinese demand for petroleum products in 2023. In their latest Oil Market Report, the IEA forecasts that Chinese gasoline demand will increase 138,000 b/d in 2023 (+4.1%), compared to a 3% decline this year. Even more dramatic is the expected turnaround in jet fuel demand. The IEA expects that to be 211,000 b/d (33%!) higher in 2023 than this year as the Chinese travel industry rebounds. There is significant upside potential since Chinese air traffic had fallen to 35% of 2019 levels. Just a few days after the Chinese government started to unwind restrictions, domestic flight activity quickly rebounded to 65% of pre-pandemic levels. A surge in travel for the crucial Lunar New Year period in late January could provide a further boost, provided new Covid infections can be kept in check.
 
-*Chart*
+*Chart: Seaborne Crude Import Volumes Into People's Republic of China*
 
 *Source: Lloyd’s List Intelligence*
 
-*Chart*
+*Chart: Petroleum Product Exports By: China*
 
 *Source: JODI*
 

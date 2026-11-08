@@ -26,11 +26,11 @@ The move towards more coastal facilities has been going on for many years. Many 
 
 Asia is not the only region that has a major impact on product flows. Because it lacks refining capacity, Africa is the world’s largest net importer of refined products. It imports more gasoline than the United States and it has also become the world’s second-largest diesel/gasoil importer. A lot of the gasoline imports into West Africa are sourced from the U.S. and Europe and typically arrive in larger LR1 or LR2 product tankers before being distributed along the coast in smaller product tankers. Since the Middle East/India is long diesel, they are the most likely provider of middle distillates to Africa.
 
-*Chart*
+*Chart: 2018 Refinery Capacity and 2019-2024 Additions*
 
 *Source: IEA*
 
-*Chart*
+*Chart: China’s Refining Capacity Expansion*
 
 *Source: IEA*
 

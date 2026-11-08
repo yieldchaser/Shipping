@@ -30,7 +30,7 @@ Faced with bunker prices that seemingly command an ever-growing portion of voyag
 
 **Averages Can Be Misleading**
 
-*Chart*
+*Chart: Averages Can Be Misleading*
 
 Creating a yearly average of price can mask the magnitude between their high and low during a year.
 

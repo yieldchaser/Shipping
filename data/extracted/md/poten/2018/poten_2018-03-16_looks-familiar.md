@@ -22,9 +22,11 @@ Let’s first compare the fleet and the orderbook. In January 2013, there were 8
 
 The biggest discrepancy between 2013 and 2018 seems to be on the oil side. In early 2013, the effects of the global financial crisis were still felt. China, which accounted for nearly two-thirds of global oil demand growth during the period between 2007 and 2011, did not grow much at all for a large part of 2012 and oil demand in North America and Europe declined by a combined 900,000 b/d during 2012. These factors made the IEA rather conservative in their outlook. In March 2013, they forecast a modest 820,000 b/d (0.9%) growth year-over-year. High oil prices also tempered growth expectations. Brent was $110 per barrel in mid-March, while WTI was priced in the low to mid $90s. In the end, 2013 turned out much better than expected as oil demand grew by 1.23 mb/d (1.4%), some 50%(!) higher than forecast earlier in the year. The current IEA outlook for 2018 is more positive with demand growth of 1.39 mb/d (1.4%). Lower oil prices are now helping the world economy fire on all cylinders. Continued oil demand growth should help the tanker markets this year, just like it did toward the end of 2013.
 
-*Chart*
+*Chart: VLCC 270,000: Ras Tanura - Chiba*
 
 *Source: Poten*
+
+*Chart: Change in Oil Production: OPEC vs USA*
 
 *Source: IEA*
 

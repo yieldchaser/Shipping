@@ -36,7 +36,7 @@ EIA Data supports a general upward trend in imports since 2010, although imports
 
 Saudi Arabian exports to the US have followed a general upward trend since 2010. The drop in imports during the February to March time period appears to coincide with the refinery turnaround window in the US Gulf; normally between February and March. Crude inventory levels remain high in the US Gulf which has left the region short on spare storage.
 
-*Chart*
+*Chart: US Imports of Saudi Crude*
 
 *Source: EIA*
 

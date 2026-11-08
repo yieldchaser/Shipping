@@ -24,7 +24,9 @@ The second chart shows the development of U.S. crude oil exports. In the period 
 
 In conclusion, the growth in U.S. exports is real and the recent trend towards shipping the crude to longer haul destinations in Asia will provide a significant boost for ton-mile demand, not only for the traditional Aframax and Suezmax tankers, but increasingly to VLCCs as well. On the other hand, U.S. exports are different in the sense that they are driven by price differences. Unlike most oil exporters in the world, the U.S. is also a significant importer and in the total picture of U.S. crude oil supply and disposition, current export volumes remain fairly insignificant. The U.S. oil industry consists of a diverse group of private companies that each make individual decisions regarding how much they will produce and who they will sell it to. Their actions are driven by short term commercial factors rather than the long term strategic or political reasons that may influence the actions of the members of OPEC for example. While the expectation is that U.S. exports will continue to increase into 2018 on the back of higher tight oil production, it is important to remember that this can change quickly if (relative) prices move against producers and/or importers.
 
-*Chart*
+*Chart: U.S. Crude Oil Supply & Disposition*
+
+*Chart: U.S. Crude Oil Exports*
 
 *Source: DOE/EIA*
 

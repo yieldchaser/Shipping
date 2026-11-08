@@ -24,13 +24,13 @@ Venezuela also relies on U.S. refiners in a different way. The same economic tur
 
 What are the possible next steps? Maduro could step aside and facilitate a peaceful transition of power, but that seems unlikely. It is more probable that we will have a standoff for a period of
 
-*Chart*
+*Chart: Venezuela Crude Oil Exports*
 
 \*Including Caribbean Terminals
 
 *Source: Lloyd’s List Intelligence*
 
-*Chart*
+*Chart: U.S. Product Exports to Venezuela*
 
 *Source: EIA*
 

@@ -22,7 +22,9 @@ Just to provide a little context, VLCCs are large crude oil tankers, with a carr
 
 This brings us to the current rate spike. The war in the Middle East and the subsequent closure of the Strait of Hormuz, recently followed by significant restrictions transiting the Bab el-Mandeb Strait, have pushed VLCC rates to levels that we have never seen before. Earnings on the benchmark AG-Far East route averaged $600,000/day in August and reached more than $800,000/day in September to date. It should be noted that these rates are for voyages originating within the Arabian Gulf. Due to the hazards associated with traversing the Strait of Hormuz, only a few owners are willing to take that risk, leading to sky-high rates. However, VLCC rates on other key routes are very high as well. Vessels loading in the Gulf of Oman just outside the Strait of Hormuz, can earn $450,000/day. Even
 
-*Chart*
+*Chart: VLCC Rates AG-FE (TCE $/day)*
+
+*Chart: VLCC Fleet Age Profile and Orderbook*
 
 *Sources: Poten, Lloyds List Intelligence, Signal Ocean*
 

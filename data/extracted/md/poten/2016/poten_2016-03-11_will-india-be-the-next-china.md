@@ -28,7 +28,7 @@ Since India has limited oil reserves (domestic oil production is less than 900,0
 
 *Source: JODI*
 
-*Chart*
+*Chart: Indian Clean Product Imports and Exports*
 
 *Source: JODI*
 

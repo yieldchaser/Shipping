@@ -24,7 +24,9 @@ There are a number of reasons why jet fuel demand growth is lagging so far post-
 
 The situation in Europe and North America is much different from China but poses its own challenges. Apart from the restricted Russian airspace, European carriers are also facing a shortage of pilots and air traffic controllers. In the United States, travel has come back, but jet fuel demand still lags pre-pandemic levels. The IEA estimated U.S. jet fuel demand in April 2023 at 1.59 Mb/d, still about 150 Kb/d below the consumption in the same month in 2019 (1.74 Mb/d). The main reason for the lower consumption in the U.S. is the switch of U.S. carriers to more fuel-efficient airplanes.
 
-*Chart*
+*Chart: Jet Fuel & Kerosene Demand vs 2019*
+
+*Chart: Jet Fuel and Kerosene Demand Outlook*
 
 *Source: IEA*
 

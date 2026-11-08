@@ -24,7 +24,9 @@ The key question is how Chinese oil demand will develop in the future. Analysts 
 
 The major forecasting organizations all expect continued growth for China: IEA forecasts Chinese oil demand to increase by 0.5 Mb/d in 2024 and by 0.4 Mb/d in 2025. OPEC is more optimistic with growth of 0.7 Mb/d for 2024 and 0.4 MB/d for 2025 while the US EIA predicts 0.3 Mb/d growth for 2024 and 0.4 Mb/d for 2025. In the medium term, the IEA expects Chinese demand to continue growing until 2030, for a total growth of 2.5 Mb/d between 2023 and 2030. OPEC, which published their long-term outlook in October 2023, predicts 2.6 Mb/d of growth between 2022 and 2030 while the EIA forecasts (also in October 2023) 2.4 Mb/d of growth over the same period.
 
-*Chart*
+*Chart: China Petroleum Product Demand*
+
+*Chart: China Crude Oil Imports by Origin*
 
 *Source: Jodi; Vortexa*
 

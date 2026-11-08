@@ -26,7 +26,9 @@ As one would suspect, the seasonality patterns change under different market cir
 
 This year, we are facing a summer market again. Some of the factors that drove down rates were not necessarily seasonal.
 
-*Chart*
+*Chart: VLCC 270,000 KT: AG - FE*
+
+*Chart: VLCC: Historical Time Charter Rates*
 
 *Source: Poten & Partners*
 

@@ -26,7 +26,7 @@ The year 2022 was a down year for Chinese oil demand. The country’s strict zer
 
 Last year was a bumper year for secondhand transactions. A significant portion of the transactions involved older vessels, which captured premium valuations. This was based on the expectation of a growing need for a “shadow fleet” to transport sanctioned Russian barrels. The price-cap mechanism for Russian crude oil that was put in place by the G7 countries has effectively defanged the EU insurance ban and we expect that the same will happen when the refined products ban goes into effect on February 5th. A meaningful portion of the mainstream tanker fleet will continue to service Russian exports, diminishing the need for the shadow fleet. Strong earnings, supported by a depleted orderbook will rekindle the interest of tanker owners in new construction. After they were crowded out by Container vessels and LNG carriers in 2022, some earlier slots may start to open up, in particular for the smaller vessels.
 
-*Chart*
+*Chart: Seaborne Crude Oil Imports to China by Vessel Class*
 
 *Source: Lloyd’s List Intelligence*
 

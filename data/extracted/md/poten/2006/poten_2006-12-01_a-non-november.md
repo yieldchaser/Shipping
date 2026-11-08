@@ -22,11 +22,11 @@ Still Stocked
 
 The combination of low refinery utilization and high crude oil stocks has led to lower demand for crude oil imports in the US. The chart below shows refinery utilization. Currently, refinery utilization is 88%, versus 90% in November of 2005 and 94% in November 2004.
 
-*Chart*
+*Chart: Refinery Utilization (%)*
 
 Crude oil stocks in the United States are still well above historic levels at over 340 million barrels. The chart below shows crude oil stocks in the United States.
 
-*Chart*
+*Chart: Crude oil stocks in the United States*
 
 Demand for refined products remains strong in the United States. Low refinery utilization has led to a drawing down of product stocks. According to the EIA, gasoline demand is 9.3 million barrels per day, 100,000 barrels higher than demand a year ago. Strong demand has most recently led to increased activity in the product tanker market, especially in terms of gasoline movements from Europe.
 

@@ -20,11 +20,11 @@ It’s Lonely At The Top
 
 In the latest ranking of the largest dirty spot charterers we observe some small changes. Not at the top, where Unipec strengthened its position. Its share grew from 13.8% in 2017 to 14.7% last year. Shell remained a distant second. IOC and Vitol traded places with IOC moving up to 3rd and Vitol down to 4th. ExxonMobil pulled itself back into the top 10. Valero is a new entry into the top 20, while Equinor (former Statoil) dropped out.
 
-*Chart*
+*Chart: Top 10 VLCC Spot Charterers*
 
 In the VLCC segment, Unipec continued to grow. In 2018, we counted 703 reported fixtures for the Chinese charterer, more than the 2nd through 8th largest VLCC charterers combined. Shell moved up from 5th to 2nd, while PetroChina dropped a few places. Asian charterers and Western supermajors (Shell, ExxonMobil and Total) continued to dominate the VLCC segment. Hyundai moved into the top 10, replacing S Oil, another Korean charterer. The total number of reported VLCC spot fixtures increased from 2,119 in 2017 to 2,284 in 2018 (+7.8%).
 
-*Chart*
+*Chart: Top 10 Suezmax Spot Charterers*
 
 In 2018, we recorded 181 Suezmax fixtures for Repsol, one more than Chevron and five more than Shell. This was enough for Repsol to leapfrog both companies and land in first place. The rest of the top positions in the Suezmax segment remained largely the same. Compared to 2017, ENI and Unipec dropped out of the top 10, but they are still ranked
 
@@ -58,7 +58,7 @@ Source: Poten & Partners
 
 11th (Unipec) and 12th (ENI). They have been replaced in the top 10 by BPCL and ExxonMobil, who were just outside the top 10 in the prior year. The total number of reported Suezmax fixtures in 2018 increased by 15% from 2,560 to 2,944.
 
-*Chart*
+*Chart: Top 10 Aframax Spot Charterers*
 
 Vitol remained the largest Aframax charterer, while fellow traders Glencore (9th) and Trafigura (10th) lost some ground compared to 2017. The Western supermajors (Shell, BP, Total, Chevron and ExxonMobil) also maintained a strong presence in the Aframax segment. The number of reported Aframax spot fixtures in 2018 declined by 332 to 3,551 (-8.6%).
 

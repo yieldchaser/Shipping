@@ -30,7 +30,7 @@ If we assume that the proposal for a 100,000 b/d crude oil swap will be approved
 
 *Source: EIA*
 
-*Chart*
+*Chart: Fig. 2: Refined Product Exports from US to Mexico*
 
 *Source: EIA*
 

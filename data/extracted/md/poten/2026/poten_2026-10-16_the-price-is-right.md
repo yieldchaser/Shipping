@@ -20,7 +20,9 @@ In the United States there is a long running popular television game show called
 
 In a “normal” market, the cost of a newbuilding acts as the upper benchmark for the pricing of a secondhand vessel. However, a newbuilding ordered today will not be delivered until, at the earliest, 2029. So, in the current freight market, in which VLCCs can earn in excess of $1 million per day (see Chart 1), there is an extreme “prompt delivery premium.” Secondhand vessels, which can be employed immediately in the current (red hot) market, are much more valuable than newbuildings for which you have to wait three years. This is reflected in the current prices for secondhand tonnage (Chart 2). According to Poten’s Marine Project Report, you can order a newbuilding VLCC (Forward Delivery) for $130 Million. However, a prompt resale (delivery today) is valued at $235 Million, an 82% premium. If that is too expensive, you can try to buy a 5-Yr old VLCC for $210 Million or a 10-Yr old for $180 Million. Even a 15-Yr old VLCC is higher priced than a newbuilding contract. There are no bargains in this market. It is also important to note that the market for secondhand tonnage is very illiquid. While the shipping press is full of rumored transactions, relatively few deals are actually concluded, because the bid-ask spread is so wide. Shipowners with tonnage on the water make so much money that they are reluctant to sell their ship and with prices rising so much, so quickly, nobody wants to sell too soon. After all, prices may be higher tomorrow and, in the meantime, owners are collecting record earnings. One way to deal with that conundrum is to sell a ship forward, i.e. agree on a price now for delivery in 6 months. While you may not get the highest price, the owner will be able to continue to partake in the high freight market for a while longer. Publicly listed owners can use their (currently highly valued) shares as currency to facilitate transactions. That’s another way to create liquidity.
 
-*Chart*
+*Chart: VLCC Rates AG-FE (TCE $/day)*
+
+*Chart: VLCC Prices (US$ Million)*
 
 *Source: Poten*
 

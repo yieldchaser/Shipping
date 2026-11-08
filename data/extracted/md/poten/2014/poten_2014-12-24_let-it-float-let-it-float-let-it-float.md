@@ -30,7 +30,7 @@ Land based storage is cheaper than floating storage, and will thus be used first
 
 *Source: Bloomberg*
 
-*Chart*
+*Chart: Demand/Supply Balance until 2Q15*
 
 *Source: IEA*
 

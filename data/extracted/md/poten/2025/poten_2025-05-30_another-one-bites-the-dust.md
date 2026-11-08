@@ -24,7 +24,9 @@ There are a number of regulatory challenges facing refineries on the USWC, in pa
 
 It is important to remember that refining capacity on the USWC does not only service California, Oregon and Washington State.
 
-*Chart*
+*Chart: US West Coast: Clean Product Imports By Origin*
+
+*Chart: US West Coast: Clean Product Imports by Vessel Class*
 
 *Sources: Vortexa*
 

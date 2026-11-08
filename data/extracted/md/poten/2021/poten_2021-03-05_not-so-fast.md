@@ -22,7 +22,9 @@ In the short term, it is bad news. Tanker rates have been depressed since the mi
 
 The increase in bunker prices has also impacted the tanker market in another way: everything else being equal, vessels with scrubbers installed are earning significantly more than vessels that use VLSFO. Investments in scrubbers are paying off. As bunker prices have gone up, the differential between VLSFO and HFO has expanded again. From a low of $29/MT in April, it has now reached $120/MT. To illustrate the difference in the current market: Based on the current rate of WS 30.5 on the benchmark VLCC route TD3C (Ras Tanura – Ningbo), a VLCC with a scrubber earns around $2,100/day, while a vessel burning VLSFO has a TCE of -$5,800/day, a difference of almost $8,000/day. As of the start of 2021, we estimated that about
 
-*Chart*
+*Chart: Rotterdam: VLSFO Prices vs HSFO*
+
+*Chart: Seaborne US Gulf and Saudi Arabia Crude Exports*
 
 *Source: Lloyd’s List Intelligence*
 

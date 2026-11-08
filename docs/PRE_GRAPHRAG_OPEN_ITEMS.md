@@ -102,6 +102,16 @@ Build plan (layers, schema, DeepSeek runner, budget, phases and gates): `docs/GR
       ("CrudeOil-U.S.DollarsandCents..."): `run_agora.page_prose` now writes them from the PDF text blocks (staff contacts
       redacted); 211 stored MDs / 639 pages rebuilt by `agora_prose_rebuild.py` (characters checked vs the old text).
       `format_agora_properly.py` no longer emits a fixed intro paragraph when the cover's note is not found.
+- [x] Poten in-text chart placeholders were bare "*Chart*" although the chart's printed title had been read
+      (exhibit captions). `poten_inline_chart_titles.py` fills them from the cached page reads, in reading order,
+      only where the article's placeholders and the charts read agree in number and any source line agrees:
+      397 placeholders in 224 MDs; then the two layouts behind "1 placeholder, 2 charts": charts stacked in one
+      column (one "*Chart*" followed by each chart's "*Source:*" line; 27 titles placed above their own source) and
+      panels sharing one source line (167 MDs, 336 titles, listed above the shared source). 787 placeholders titled
+      in 418 MDs. Left bare (titles in the exhibit section): ~150 MDs whose count still disagrees (mostly charts the
+      page read missed), 42 with no page read, 8 where a printed title or source disagrees. Wired into poten_drewry_weekly after the caption step. The joiner also runs as
+      `join_wrapped_paragraphs.py --changed --apply` in every ingest workflow (extractors run directly there,
+      not only through the orchestrator).
 - [x] Numbered lists split from their labels ("1." / "Strategic Asset Management"): `join_lone_list_numbers.py`,
       27 items in 5 files (Duru Table 18.1, 4 SEC filings). Bare years / pages wrapped onto their own line are left.
 

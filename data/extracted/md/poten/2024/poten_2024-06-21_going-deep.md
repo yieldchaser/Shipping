@@ -26,7 +26,9 @@ Four different projects are currently being considered and at different stages i
 
 We created three shipping scenarios for VLCC voyages from the US Gulf to the Far East to analyze the transport economics of these projects: 1. VLCC loaded using 3 lightering cargoes, 2.
 
-*Chart*
+*Chart: US Gulf Crude Oil Exports by Vessel Class*
+
+*Chart: US Gulf VLCC Exports by Destination*
 
 *Source: Vortexa*
 

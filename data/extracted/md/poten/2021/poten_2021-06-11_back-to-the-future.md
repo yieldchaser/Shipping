@@ -24,7 +24,9 @@ In terms of oil balances, the big question is how much non-OPEC will add to glob
 
 According to the IEA, the “call on OPEC” for 2021 is 4.4 Mb/d higher than in 2020 and 2022 shows an increase of another 1.1 Mb/d. However, comparing 2021 with 2020 is somewhat misleading because OPEC (and non-OPEC) produced a lot more oil than required in the early stages of the pandemic (2020 Q2). This extra oil filled inventories worldwide (including floating storage). In other words, a significant portion of the 4.4 Mb/d increase was already produced in the first half of last year and then gradually released from storage in the second half of 2020 and the first half of this year. Pre-pandemic, year-over-year oil demand increases were primarily focused on Asia, but this year and next, a significant portion of the increase is due to a demand recovery in the OECD countries, which are able to vaccinate their population more quickly. In 2021, OECD oil demand growth is expected to be 6.4%, while non-OECD expands by “only” 5.4%. In 2022, this trend reverses again, with non-OECD demand growth (+3.4%) outpacing OECD expansion (+2.9%).
 
-*Chart*
+*Chart: Global Oil Demand vs Prior Year*
+
+*Chart: Non-OPEC Crude Oil Supply vs Prior Year*
 
 *Source: IEA, EIA*
 

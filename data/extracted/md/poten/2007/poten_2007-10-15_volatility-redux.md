@@ -46,7 +46,7 @@ VLCC timecharter equivalent rates for AG to Far East voyages are hovering at the
 
 Timecharter Equivalent for VLCCs AG to Far East
 
-*Chart*
+*Chart: Timecharter Equivalent for VLCCs AG to Far East*
 
 While both rate and volatility late-year statistical trends might repeat themselves again this year, they might not, either. Perhaps a more tangible hope can be placed in OPEC’s recent lifting of production quotas also lifting both VLCC fixture activity and rates.
 

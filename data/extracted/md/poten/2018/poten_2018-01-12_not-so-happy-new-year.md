@@ -24,11 +24,11 @@ If Middle East OPEC has reduced production (and exports), but oil demand remains
 
 When we focus on VLCCs for a moment, it becomes clear how the above changes impact tanker demand. The average monthly number of VLCC movements decreased by 18 cargoes between Q4 2016 and Q4 2017. The volume of VLCC cargoes originating from the Middle East was down by 24. Most of this reduction was directed towards the U.S. Gulf (-10), but Asia (-5) and NW Europe (-4) also received less crude from the Arabian Gulf. On the other hand, exports from the U.S. Gulf increased dramatically (+7.3). Overall, there was a noticeable reduction in monthly VLCC traffic, with a depressing effect on rates.
 
-*Chart*
+*Chart: VLCC 270,000: Ras Tanura - Chiba*
 
 *Source: Poten & Partners*
 
-*Chart*
+*Chart: Change in Monthly Voyages 2016Q4 vs 2017Q4*
 
 *Source: Lloyd’s List Intelligence*
 

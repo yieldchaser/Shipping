@@ -24,11 +24,11 @@ The availability of High Sulphur Fuel Oil (HSFO) is much less discussed and coul
 
 Owners that opted to install scrubbers on their vessels seem to have been vindicated in their decision. On the benchmark TD3 (Arabian Gulf – China) route, the Time Charter Equivalent (TCE) for a VLCC with a scrubber is $24,000/day higher than for a vessel that burns VLSFO. For a Suezmax tanker trading from West Africa to Rotterdam, the difference is $14,000/day. On shorter haul voyages, which are more typical for Aframax tankers, the differences are much smaller. The TCE premium for an Aframax with a scrubber trading in the Caribbean is “only” $7,000/day. When vessels trade a majority (or all) of their time in ECA zones, (requiring 0.1% sulphur fuels), the scrubber premium disappears altogether.
 
-*Chart*
+*Chart: Singapore Bunker Prices*
 
 *Source: Ship & Bunker / Peninsula*
 
-*Chart*
+*Chart: TCE Spread HSFO vs VLSFO (VLCC: AG -FE)*
 
 *Source: Poten & Partners*
 

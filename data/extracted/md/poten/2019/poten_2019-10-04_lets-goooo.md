@@ -26,7 +26,9 @@ There are other related impacts of IMO 2020. On the supply side, a significant n
 
 Floating storage has also been elevated. Since the U.S. sanctions against Iran were reinstated in 2018 and further tightened in 2019, Iranian exports have fallen and while they have tried to move more crude oil on their own tonnage, most export markets have dried up. This has led to an increase in floating storage of Iranian crude, mainly using vessels owned by the National Iranian Tanker Company (NITC). The sanctions on COSCO tankers (Dalian) are another example of the ever-tightening sanctions regime. While only targeting a subset of the massive COSCO tanker fleet, the opaque ownership structure of the COSCO fleet makes it difficult to determine exactly who owns and/or operates what vessel. This uncertainty means that many charterers, to play it safe, are avoiding all COSCO tankers.
 
-*Chart*
+*Chart: VLCC: AG - FE*
+
+*Chart: AG-China VLCC Freight Rates*
 
 *Source: Poten & Partners*
 

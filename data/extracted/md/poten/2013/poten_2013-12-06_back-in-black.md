@@ -16,7 +16,7 @@ charts_count: 1
 
 It is well documented that 2013 has been a far cry from a banner year as far as tanker earnings are concerned. However, it seems the market has somehow remembered its tradition of bringing seasonal tidings to the good boys and girls of the ship owning community. VLCCs have been earning north of $50,000 per day on the benchmark Arabian Gulf – Far East trade since mid-November. Perhaps even more striking is that VLCC earnings for the Arabian Gulf – US Gulf trade are now positive, when calculated on a round-trip basis. Even though the crude oil tanker market has been hobbling along at break-even levels for the better part of the past three years, the recent uptick in rates should not be seen as a sign that general conditions are poised for a full recovery. For those that have recently tuned into tanker market freight trends, the below gives some insight to historical rate seasonality.
 
-*Chart*
+*Chart: Spot VLCC Rates Arabian Gulf to Far East (260kt)*
 
 Freight rates in 2008 were a clear aberration and, as such, are represented separately. The data suggests that historically in the fourth quarter the market tends to strengthen.
 

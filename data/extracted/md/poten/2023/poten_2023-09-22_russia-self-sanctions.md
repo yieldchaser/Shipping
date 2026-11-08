@@ -24,7 +24,9 @@ The loss of these exports will likely further worsen the global diesel shortage 
 
 A key question is: How long is Russia going to maintain the export ban. According to JODI, Russia used about 665 Kb/d of diesel and gasoil in 2021, the last available data. While it is unclear what the current demand is, especially how much fuel is consumed in waging the war, it is clear that diesel production far exceeds domestic demand. The situation for gasoline demand is more balanced as Russia consumed 850Kb/d in 2021 and exported only about 114 Kb/d in 2023. Given the above, we believe it is likely that Russia will not maintain the diesel export ban for a long time or will not enforce the ban as it has been stated as they need the funds and they will likely run out of storage capacity for diesel relatively quickly.
 
-*Chart*
+*Chart: Russian Seaborne Diesel Exports By Destination*
+
+*Chart: Russian Seaborne Gasoline Exports By Destination*
 
 *Source: Vortexa*
 

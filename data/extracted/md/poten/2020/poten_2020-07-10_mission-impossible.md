@@ -24,7 +24,9 @@ Another alternative would be crude by rail. Crude by rail was widely used to tra
 
 The existence of significant spare crude by rail infrastructure will be useful if DAPL is (temporarily) closed. Up to 200,000 b/d of capacity could be added, provided that the railroads make the necessary railcars and locomotives available. Combining the spare pipeline capacity with the extra railcars will not provide enough capacity to replace DAPL in the short-term, so production in North Dakota may have to remain curtailed. In the long-term, additional tank cars could be introduced to move more Bakken barrels. However, this will come at a cost. Moving crude by rail is at least double the price of moving it via pipeline.
 
-*Chart*
+*Chart: Bakken Crude Oil Production*
+
+*Chart: Crude Exports By Rail From PADD2 (Midwest)*
 
 *Source: EIA*
 

@@ -22,9 +22,11 @@ The data for Chinese oil demand in the first quarter still shows healthy demand 
 
 Detailed import statistics for April are not yet available, but March 2017 data shows that Russia was the largest exporter of crude oil to China, at 4.689 million metric tons (mmt) up 0.9% year over year (y/y). Russia was closely followed by Angola, which increased exports to China by 29% y/y to 4.670 mmt. Saudi Arabia came in 3rd at 4.554 mmt (up 14.5%). These top 3 exporters represent 36% of China’s crude oil imports. In general, the year over year changes in import sources should have been beneficial for tanker demand since several long-haul trades, such as the ones from Angola, Brazil and the United Kingdom have all shown significant increases. The surge in U.S. crude oil exports to China, which is a relatively recent phenomenon has not shown up yet in the Chinese import statistics.
 
-*Chart*
+*Chart: China Seaborne Crude Oil Imports*
 
 *Source: Lloyd’s List Intelligence*
+
+*Chart: China Crude Oil Imports Top 10 Countries*
 
 *Source: China Customs General Administration*
 

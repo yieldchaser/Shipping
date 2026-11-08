@@ -24,9 +24,9 @@ Over the last 10 years, Pakistan’s seaborne crude oil imports have mostly rang
 
 So far this year, things have started to look up for Pakistan, to a large extent because of a closer relationship to the United States under President Donald Trump. Pakistan has a strategic location in Asia, close to the Middle East, bordering Iran, Afghanistan, India and China. In recent years, many Western countries, including the US have courted India, historically Pakistan’s archrival. However, since the brief conflict with India in May, relations with the US improved. Pakistan acknowledged Mr. Trumps role in defusing the conflict and its army chief had lunch with Donald Trump in June. The US did a trade deal with Pakistan, limiting their tariffs to 19%, while imposing 25% tariffs on India, which was later raised to 50%. The US and Pakistan are rebuilding ties to boost trade and investment. In August, following the announcement of the trade deal, President Trump made a statement that Pakistan and the United States will work together to develop their “massive oil reserves”. While this appears an overstatement and there is little proof of such undeveloped reserves, it does reinforce the warming relationships between the two countries.
 
-*Chart*
+*Chart: Pakistan: Seaborne Crude Oil Imports by Origin*
 
-*Chart*
+*Chart: Pakistan: Seaborne Crude Oil Imports by Vessel Class*
 
 *Sources: Vortexa*
 

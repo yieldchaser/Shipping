@@ -24,7 +24,9 @@ As a result of these governments policies and an economic slowdown, partly drive
 
 Despite these bearish demand signals, Chinese crude oil imports have held up remarkably well. Post-Covid, from January 2022 through 2025 YTD, Chinese imports have averaged about 10 Mb/d. Part of this Chinese import resilience has come from inventory building. China stopped providing official statistics about its SPR many years ago, but according to data from Ursa Space, reported by S&P Global, China’s crude oil inventories, including commercial and strategic petroleum reserves, hit a record 1.23 billion barrels in August 2025. Geopolitical uncertainty and a face-off with the United States on trade has reinforced the Chinese desire for economic independence. For geopolitical and economic reasons, China imports a significant portion of its crude oil from countries that are sanctioned by the West. Prior to the Russian invasion of Ukraine, China sourced less than 10% of its seaborne crude imports from Russia, Iran and Venezuela. In 2025 YTD, the market share of these countries had increased to 30%. In addition to showing to the world that China charts its own course in global politics, it also allows domestic refiners to take advantage of reduced prices since all these sanctioned barrels sell at significant discounts.
 
-*Chart*
+*Chart: China: Seaborne Crude Oil Imports by Origin*
+
+*Chart: China Seaborne Crude Oil Exports*
 
 *Source: Vortexa*
 

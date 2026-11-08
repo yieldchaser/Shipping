@@ -28,7 +28,7 @@ The situation as painted in the EIA Reference Case is a boon to the tanker marke
 
 *Source: EIA*
 
-*Chart*
+*Chart: U.S. Petroleum Product Trade (2014-2040)*
 
 *Source: EIA*
 

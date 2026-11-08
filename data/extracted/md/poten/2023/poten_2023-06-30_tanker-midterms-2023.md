@@ -18,11 +18,11 @@ charts_count: 3
 
 The Russian invasion of Ukraine in 2022 remains a key factor driving the rankings. Russian charterers have dropped out of the rankings completely because most of their business is not reported. The lacklustre recovery of the Chinese economy also shows up in the numbers. While Unipec remains by far the world’s largest dirty charterer, its share of the market has dropped from 19.2% in 2022 to 17.8% in the same period of 2023. The total number of reported fixtures for Unipec also declined from 490 in 2022H1 to 468 in 2023 to date.
 
-*Chart*
+*Chart: Top 10 VLCC Spot Charterers*
 
 Unipec maintained its position at the top of the VLCC segment, despite a decrease in its number of VLCC fixtures from 378 in H1 2022 to 368 in H1 2023. Shell (49 fixtures) and ExxonMobil (48) are both vying for the next best spot, albeit at a significant distance. Indian charterers took a step back from last year, which could be related to their increased crude oil purchases from Russia. IOC dropped from 3rd to 4th and Reliance, which ranked 6th last year, dropped out of the top 10 altogether. Bahri narrowly missed out on the top 10 (they ranked 11th).
 
-*Chart*
+*Chart: Top 10 Suezmax Spot Charterers*
 
 Total continued its march to the top of the Suezmax rankings. The French energy major ranked 10th in 2021, 2nd in 2022 and is now 1st, replacing ExxonMobil. Petrobras, which was 3rd last year, dropped out of top 10, as did IOC (4th last year).
 
@@ -52,7 +52,7 @@ Total continued its march to the top of the Suezmax rankings. The French energy 
 |  | Others | 263,160 | 43.0% |  | 1,587 |
 |  | Total | 612,277 | 100.0% |  | 3,681 |
 
-*Chart*
+*Chart: Top 10 Aframax Spot Charterers*
 
 *Source: Poten & Partners*
 

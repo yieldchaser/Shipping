@@ -26,7 +26,9 @@ After the 2008 global financial crisis, oil prices initially collapsed, but they
 
 However, this expanded cartel never became the market force OPEC anticipated: The 2020-2021 Covid-19 pandemic, the 2022 Russian invasion of Ukraine, the 2026 regime change in Venezuela and the U.S. – Iran war, closing the Strait of Hormuz, all severely reduced OPEC’s market influence. On top of that, several OPEC member states (Ecuador, Angola, and most recently the UAE) left the cartel and Venezuela may follow suit. The geopolitical tensions and export restrictions resulting from the wars in Europe and the Middle East have created a powerful incentive for growth in non-OPEC production. Nowhere has this potential presented itself more prominently than in the Americas. Crude oil production in Canada, the U.S. and South America (Guyana, Brazil, Argentina) expanded dramatically over the last decade. This production growth has translated directly into more seaborne exports (Chart 1). The U.S. remains an export powerhouse, Canada boosted exports through the expanded Trans Mountain pipeline, Guyana is adding one FPSO after the other, and Brazil keeps expanding its offshore output. At the same time, Argentina, with its vast shale reserves and Suriname, with a similar geology as neighboring Guyana, are waiting in the wings. Venezuela is in the early stages of its recovery, but has huge potential, which the U.S. is eager to explore and develop.
 
-*Chart*
+*Chart: Seaborne Crude Oil Exports from US, Brazil, Venezuela, Canada, Guyana and Argentina By Origin*
+
+*Chart: Seaborne Crude Oil Exports from US, Brazil, Venezuela, Canada, Guyana and Argentina By Vessel Class*
 
 *Sources: Vortexa*
 

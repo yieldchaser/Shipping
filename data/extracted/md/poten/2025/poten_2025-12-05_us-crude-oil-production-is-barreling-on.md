@@ -22,7 +22,9 @@ To answer the question above, we will not only look at shale oil, but also at co
 
 However, don’t count out shale just yet. As one shale CEO said in a letter to his shareholders: “Never underestimate the American engineer”. Drilling technology continues to improve, and companies keep finding ways to reduce break-even costs. One of the biggest potential advances in shale production could come from increasing the recovery rate. The recovery percentage of shale oil in the U.S. typically ranges from about 5% to 15% of the original oil in place, depending on the specific technology and formation characteristics. The CEO of Chevron recently emphasized that the next phase of the shale revolution is to increase the recovery rate. Every 1%-point increase in the recovery rate is worth billions and according to Chevron: “We know where the oil is. If we left 90% of the oil behind, it would be the first time in history that we didn't figure out how to do it”.
 
-*Chart*
+*Chart: US Crude Oil Production*
+
+*Chart: US Gulf Crude Oil Exports by Vessel Class*
 
 *Source: EIA, Vortexa*
 

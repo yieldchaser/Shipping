@@ -16,7 +16,7 @@ charts_count: 1
 
 Although the tanker market is accustomed to everyday fluctuations in rates and regular movements in the freight markets, there are some trends that develop over the longer-term. In general, the sizes of tankers within traditional designations have gotten larger. These larger vessels have larger engines increasing fuel consumption, but also allowing vessels to travel faster. An example of this increase in vessel sizes is shown below for Handymaxes.
 
-*Chart*
+*Chart: Handymaxes DWT Increase*
 
 Keeping Up
 

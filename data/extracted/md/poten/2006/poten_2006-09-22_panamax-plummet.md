@@ -16,7 +16,7 @@ charts_count: 1
 
 While most sectors in the tanker market have been experiencing firm rates for the summer and continuing through September, the earnings in the Panamax market have taken a tumble. Within a period of less than one week, worldscale rates fell from WS 225 to WS120 and corresponding earnings fell from $27,500 per day to $8,700 per day on the 50,000-ton on the Caribbean – USA trade. While a sustained market at these levels is unfathomable for the long-term, there are a few unique drivers in the Panamax market that will contribute to continued downward pressure on rates.
 
-*Chart*
+*Chart: Panamax Plummet*
 
 **2004**
 

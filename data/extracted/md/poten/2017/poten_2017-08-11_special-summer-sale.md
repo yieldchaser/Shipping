@@ -24,11 +24,11 @@ Based on current prices and using some basic assumptions* for operating expenses
 
 How about 5-year-old secondhand vessels? Based on similar assumptions as the newbuildings, 5-year-old vessels look slightly more attractive than newbuildings. Relative to an existing vessel, a newbuilding has some advantages that may be worth the additional cost: (1) an owner can order it today for delivery in 18-24 months, when the market may be better than it is now; (2) you have control over the vessel’s specifications, including options such as a ballast water treatment system or possibly a scrubber. Good quality secondhand vessels, on the other hand, may be cheaper, but could be hard to find.
 
-*Chart*
+*Chart: VLCC: Historical Newbuilding and Second Hand Values*
 
 *Source: Poten & Partners*
 
-*Chart*
+*Chart: Break Even Prices vs Spot & TC Rates*
 
 *Source: Poten & Partners*
 

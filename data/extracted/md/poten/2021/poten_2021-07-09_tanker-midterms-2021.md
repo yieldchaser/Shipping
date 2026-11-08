@@ -18,11 +18,11 @@ charts_count: 3
 
 Halfway into 2021, it is a good time to see what has happened in the crude oil tanker market to date. Overall dirty spot fixture volume is down slightly (-1%) compared to the same period of 2020, with a different impact on each segment. VLCC fixtures are down 21% (1H 2020 was very active for VLCCs) while Aframax volumes are 11% higher. The Suezmax fixture count was almost the same. The list of top 20 charterers did not change much, with one new entrant (No. 20 Hyundai), replacing Bahri, which was No. 12 last year.
 
-*Chart*
+*Chart: Top 10 VLCC Spot Charterers*
 
 While Unipec remains firmly in the top spot in the VLCC segment, it is notable that we recorded slightly fewer VLCC spot fixtures for the Chinese juggernaut in 1H 2021 than in the same period last year (327 versus 341). Bahri (a major force in the VLCC spot market last year) and Chevron dropped out of the top 10, replaced by ExxonMobil and Petrochina.
 
-*Chart*
+*Chart: Top 10 Suezmax Spot Charterers*
 
 In the Suezmax segment, we have seen some changes in the rankings. On top of the list Shell and ExxonMobil switched places again. More notably, the two Indian charterers, IOC and BPCL dropped out of the top 10. The Covid-19 surge in the 1st half of 2021 in India probably contributed to a decline in chartering activity. Lukoil (3) and Total (10) replaced them in the rankings. Overall Suezmax fixture activity in 1H 2021
 
@@ -56,7 +56,7 @@ Source: Poten & Partners
 
 (1,053) was very similar to 1H 2020 (1,057) but remains well below the numbers of the same period of 2019 (1,305).
 
-*Chart*
+*Chart: Top 10 Aframax Spot Charterers*
 
 In the Aframax segment, Vitol, BP and Shell maintained their position on top of the rankings, while Unipec (No. 3 last year) dropped to 8th. Clearlake, the shipping arm of Gunvor, was a new entry at No. 10, replacing fellow trader Glencore. The number of reported Aframax spot fixtures increased in 1H 2021 to 1,813, up from 1,635 in 1H 2020 (+11%).
 

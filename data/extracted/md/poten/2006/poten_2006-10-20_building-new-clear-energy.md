@@ -18,7 +18,7 @@ While worldwide crude oil demand remains near record levels driven by increased 
 
 U.S. Energy Consumption
 
-*Chart*
+*Chart: U.S. Energy Consumption*
 
 On the Horizon
 

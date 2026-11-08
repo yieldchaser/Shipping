@@ -24,7 +24,9 @@ While Maduro undoubtedly has an interest in Guyana’s oil fields, his short-ter
 
 The oil industries of Venezuela and Guyana are a study in contrasts. Venezuela boasts one of the largest oil reserves in the world, but its industry, which was nationalized in the 1970s, is in bad shape after decades of mismanagement and corruption and – in recent years – ever tightening sanctions. The country’s crude oil production, which was still above 3 Mb/d back in 2009, has dropped to 0.77 Mb/d currently. In
 
-*Chart*
+*Chart: Guyana Crude Oil Exports by Destination*
+
+*Chart: Venezuela Crude Exports by Destination*
 
 *Source: Vortexa*
 

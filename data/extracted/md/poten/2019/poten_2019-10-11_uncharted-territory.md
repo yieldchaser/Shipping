@@ -22,7 +22,9 @@ There is not one major reason why the market has increased so rapidly. A lot of 
 
 In addition to these fundamental factors, we have seen a quick succession of unrelated incidents and these unpredictable events have pushed the market up. The Abqaiq attacks and COSCO sanctions were followed by the announcement that several charterers have increased their scrutiny of tankers that called Venezuela in recent months. This has created additional uncertainty in an already tight market. A few days ago Ecuador declared force majeure on the majority of its crude oil exports as domestic unrest escalated. While the exports from this country are relatively small (around 350,000 b/d), it does create a problem for several refiners on the U.S. West Coast, which take about 50% of Ecuador’s output. They will have to source replacement barrels from the Middle East. This will create more long-haul VLCC demand.
 
-*Chart*
+*Chart: VLCC: AG - FE*
+
+*Chart: Estimated Modern Available Spot VLCC Fleet*
 
 *Source: Poten & Partners*
 

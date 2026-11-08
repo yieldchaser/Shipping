@@ -24,11 +24,11 @@ China and Iran have an increasingly close relationship. Last month they signed a
 
 What will happen to the tanker market if Iran and the U.S. come to an agreement and decide (together with the other JCPOA members) to restore the Iran Nuclear Deal and lift sanctions?
 
-*Chart*
+*Chart: Iran Crude Oil Exports by Destination*
 
 *Source: Poten / Lloyds List Intelligence*
 
-*Chart*
+*Chart: Iranian Tanker Fleet in Storage*
 
 *Source: Lloyds List Intelligence*
 

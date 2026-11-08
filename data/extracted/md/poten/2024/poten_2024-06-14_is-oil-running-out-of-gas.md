@@ -22,9 +22,9 @@ Let’s set the scene: The IEA forecasts in this report that global oil demand w
 
 What does all this mean for the tanker markets? For crude oil tankers, the long-term outlook is mixed. Moving more oil from the Atlantic to the Pacific will help ton-mile demand, as will the continuation of the Western sanctions against Russian crude exports, which means they will be most exported to Asia. More emphasis on long-haul movements typically benefits the larger crude carriers, but the situation in Russia and the growth in Canadian exports will support Suezmaxes and Aframaxes as well. However, if global demand is not growing, OPEC+ output has nowhere to go amid the expansion of Non-OPEC production. There could be some replenishment of global oil stocks, but that provides only a temporary boost. In the long-term, a flat lining of global oil demand does not represent a favorable outlook for the crude tanker sector. If the IEA predictions come to fruition, crude tankers that are being ordered now should be seen as replacement tonnage rather than growth capacity.
 
-*Chart*
+*Chart: Net crude oil exports versus Asian import requirement, 2019-2030*
 
-*Chart*
+*Chart: Regional balances for total refined products, 2023-2030*
 
 *Source: IEA*
 

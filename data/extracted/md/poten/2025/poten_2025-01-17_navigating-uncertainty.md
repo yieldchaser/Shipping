@@ -24,7 +24,9 @@ The first development that triggered a market reaction was the announcement in e
 
 The U.S. sanctions announced on January 10 are not limited to tankers. They also targeted two major oil producers, several traders and providers of marine insurance, in addition to a number of oil-service providers. The U.S. sanctions typically carry more weight than the UK/EU sanctions and this package had an immediate impact on the market (Chart 2). VLCCs and to a lesser extent Suezmaxes benefited as charterers fixed alternative tonnage to replace Russian barrels. The tankers sanctioned by the U.S. last week carried 1.6 Mb/d of Russian oil in 2024 (40% of Russia’s seaborne exports). The expectation is that the ability of these vessels to trade internationally will be significantly curtailed. Out of the 39 tankers that OFAC has sanctioned since late 2023, 33 (85%) have remained idle. In addition to the Shandong Port Group, India (the largest importer of Russian oil) also indicated that they will ban OFAC sanctioned vessels once the transition period on March 12, 2025, ends. If these sanctions hold and both China and India limit the use of these tankers, Russia will be looking for alternatives. They may be forced to sell their oil below the $60 price cap to encourage mainstream owners back into the trade. This would boost tanker utilization and rates.
 
-*Chart*
+*Chart: Sanctioned Tankers Involved in Russia Trades*
+
+*Chart: Dirty Routes Freight Rates (HFO)*
 
 *Sources: US Treasury dept., UK Treasury, EU; Poten & Partners*
 

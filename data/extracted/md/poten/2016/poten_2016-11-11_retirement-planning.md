@@ -28,7 +28,7 @@ For MR and Handysize product tankers, the numbers look more encouraging, althoug
 
 *Source: Poten & Partners*
 
-*Chart*
+*Chart: Change in Ton Mile Demand (2015 to 2016)*
 
 *Source: Lloyds List Intelligence*
 

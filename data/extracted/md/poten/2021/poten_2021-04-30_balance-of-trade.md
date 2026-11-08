@@ -24,9 +24,9 @@ We expect that VLCC traffic to the U.S. West Coast will recover to some extent i
 
 Some of the shortfall on the West Coast is made up by Canadian crude from Vancouver, exported through the Trans Mountain pipeline. The planned expansion of the Trans Mountain pipeline (from 300,000 b/d to 890,000 b/d) will significantly increase the availability of this crude in the future. We expect that some of this crude oil will end up in China. Several Chinese oil companies, including CNOOC, Petrochina and Sinopec have taken ownership interests in Canadian oil production and are eager to bring this crude home. The export facilities in Vancouver are limited to Aframax sized vessels, but offshore reverse lightering (similar to what is happening in the U.S. Gulf) could make this a VLCC trade.
 
-*Chart*
+*Chart: VLCC Balance Americas, Pacific*
 
-*Chart*
+*Chart: VLCC Export Voyages from C America - Pacific*
 
 *Source: Lloyd’s List Intelligence*
 

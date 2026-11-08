@@ -24,7 +24,7 @@ The most interesting fields are in the Orange Basin, where consortia led by Tota
 
 Just like most other countries in West Africa (with the exception of Nigeria with its giant Dangote refinery complex), it is expected that Namibia will export virtually all its crude oil production. This could lead to a recovery of West African crude oil exports and stimulate tonmile demand for tankers. Depending on the size and ultimate capacity of FPSOs, this could benefit Suezmaxes (most likely) and possibly VLCCs, especially since most of the oil will likely end up in Asian refineries.
 
-*Chart*
+*Chart: West Africa Crude Oil Export By Origin Country*
 
 *Sources: Poten & Partners, Vortexa*
 

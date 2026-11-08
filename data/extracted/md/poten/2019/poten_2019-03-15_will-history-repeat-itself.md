@@ -26,9 +26,9 @@ In Europe, Norway is also on the brink of another expansion. The IEA expects Nor
 
 Guyana is a new player in the crude oil market, but operator ExxonMobil and its partners continue to find new oil off the coast of this Latin American country. Oil will start flowing in 2020 at 120,000 b/d and is expected to ramp up to 500,000 by 2024.
 
-*Chart*
+*Chart: Change in Global Oil Production: 2018 vs 2024*
 
-*Chart*
+*Chart: Change in Global Oil Demand: 2018 vs 2024*
 
 *Source: IEA*
 

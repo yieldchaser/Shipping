@@ -24,7 +24,9 @@ Since the Russian invasion of Ukraine, China has increased its imports of seabor
 
 Most of China’s refineries are controlled by state oil companies, but there are also privately owned ones, often referred to as Teapot Refineries. Many of these independent refineries are located in Shandong province, on the East coast of China (although there are also some state-owned refineries in Shandong). Figure 2 shows the seaborne imports from sanctioned countries (Russia, Iran and Venezuela) into ports located in Shandong versus imports into other Chinese ports. Initially, the Teapot refineries increased their purchases of Russian crude to take advantage of the price differential between Russian grades and alternatives. Since the beginning of 2023, state refiners in other parts of the country have increased their imports as well, somewhat crowding out the Teapot refiners.
 
-*Chart*
+*Chart: Chinese Seaborne Crude Imports by Origin*
+
+*Chart: China and Shandong Seaborne Crude Imports from Russia, Iran and Venezuela*
 
 *Source: Vortexa / EIA*
 

@@ -24,11 +24,11 @@ Since most African countries lack significant refining capacity, a very large pr
 
 First of all, crude oil production in Nigeria and Angola may have peaked. Lack of investment and social unrest has led to material output declines in both countries. In Angola, most production comes from deepwater offshore fields that were developed by supermajors like Total, BP, ExxonMobil, Chevron and Eni. While it is likely that there is more oil to be found and fields to develop, the long lead times and high costs of deepwater offshore production will give these oil majors pause, especially in light of other recent developments. A number of well-known publicly listed western oil companies are being pressured, by the courts and by their shareholders to reduce their impact on climate change and pivot their focus (and investment dollars) from hydrocarbons to renewables. A retreat by the traditional majors from the region could pose significant problems for countries in Africa, since they don’t have the exploration, development and production experience in house. They will also need external funding. Other players, like Chinese oil companies could step in, but the transition will take time. Angola, which pioneered the concept of oil-backed loans as an easy way to access funding for infrastructure projects, is already heavily indebted to China.
 
-*Chart*
+*Chart: Nigeria & Angola: Crude Oil Production*
 
 *Source: DOE Energy Information Administration*
 
-*Chart*
+*Chart: Exports from West Africa by Vessel Size*
 
 *Source: Lloyd’s List Intelligence*
 

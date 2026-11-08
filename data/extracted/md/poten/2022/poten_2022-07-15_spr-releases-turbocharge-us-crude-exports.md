@@ -24,9 +24,11 @@ There are currently no restrictions where the winning bidders can take their cru
 
 However, it does not really matter where the SPR crude is being refined. The oil market is a global marketplace, and prices are driven by worldwide supply/demand dynamics. However, when we are looking at the tanker market implications of a 1 Mb/d SPR release and an additional 600 Kb/d of shale oil, it is important to know where the crude oil is going to.
 
-*Chart*
+*Chart: Crude Exports from United States of America*
 
 *Source: Lloyd’s List Intelligence*
+
+*Chart: EIA Short Term Energy Outlook*
 
 *Source: EIA*
 

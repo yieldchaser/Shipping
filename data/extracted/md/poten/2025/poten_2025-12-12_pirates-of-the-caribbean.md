@@ -22,7 +22,9 @@ As we discussed in previous Tanker Opinions, the relationship between the United
 
 The U.S. government has cited a number of reasons for their focus on Venezuela. The Trump administration sees Maduro’s regime as a socialist dictatorship that fuels illegal migration, supports drug trafficking and causes regional instability. A democratic Venezuela would likely make the country more liberal and pro-market, addressing most of these concerns. Sanctions would be lifted, foreign investment would return and the country would get back on its feet. Venezuela is blessed with abundant natural resources. Venezuela has world’s largest petroleum reserves (mainly in the Orinoco Belt, Maracaibo Basin), but it also has ample mineral deposits, including gold, bauxite, iron ore, coal, nickel and copper. However, mismanagement and underinvestment has severely limited crude oil production and exports from Venezuela. Despite U.S. sanctions, the Maduro regime has been able to continue to export about 900K – 1Mb/d of crude oil. Chevron, who is again operating in the country since its export license was reinstated in July 2025, exports around 200,000 b/d to the United States, while China imports most of the rest (directly or via Malaysia). While Chevron uses vessels from the mainstream fleet (mostly Aframaxes), the exports to China are largely done on sanctioned VLCCs from the shadow fleet (such as the VLCC that was seized this week). U.S. authorities have indicated that they could target more vessels. As a matter of fact, the U.S. Treasury’s Office of Foreign Assets Control (OFAC) yesterday issued new sanctions on the Venezuelan oil sector that included six shipping companies and six VLCCs associated with them. If the Venezuelans lose access to the dark fleet, and can no longer export meaningful volumes of crude oil, this will have a dramatic impact on the country’s foreign exchange revenues and cripple their economy.
 
-*Chart*
+*Chart: Venezuela Crude Exports by Destination*
+
+*Chart: Crude Exports from Venezuela by Vessel Class*
 
 *Source: Vortexa*
 

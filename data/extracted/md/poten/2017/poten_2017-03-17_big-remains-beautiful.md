@@ -26,7 +26,9 @@ It is not all positive for the VLCC trades. A few major routes experienced a dec
 
 An interesting development in 2016 was the emergence of VLCCs involved in crude oil exports from the United States. After the crude oil export ban was lifted, the U.S. has started to export crude oil to destinations in Europe, Latin America and Asia. The short-to-medium haul destinations are mostly served by Aframax and Suezmax tonnage, but to be competitive in long-haul destinations in Asia, charterers need to use VLCCs. In 2016, six cargoes of U.S. crude oil were loaded on VLCCs for shipment to Asia. Since the United States currently lacks the port infrastructure to accommodate VLCCs, these vessels were loaded by reverse lightering from Aframaxes. In the first quarter of 2017, another six vessels have already been loaded with U.S. crude, a clear indicator of the increased use of VLCCs in this trade.
 
-*Chart*
+*Chart: Ton Mile Demand (by Load Area) (Bln TM)*
+
+*Chart: Ton Mile Demand (by Discharge Area) (Bln TM)*
 
 As mentioned before, VLCCs discharge disproportionately in Asia. Imports into Asia/Australia represented 77% of total ton-mile demand in 2016, down slightly from 80% of the total in 2015. This small reduction is largely due to the partial shift of crude oil exports originating in the Caribbean and West Africa to the Middle East, lowering average distances.
 

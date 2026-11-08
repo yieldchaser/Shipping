@@ -20,7 +20,7 @@ The fuel oil industry will continue its pace of fast-changing developments. Fuel
 
 Singapore IFO-380
 
-*Chart*
+*Chart: Singapore IFO-380 July 2003 - July 2008*
 
 *Source: Platts*
 

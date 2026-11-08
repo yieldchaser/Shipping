@@ -22,11 +22,11 @@ To illustrate the potential impact of IMO 2020 we looked at a number of tanker s
 
 The results of our analysis are displayed in the second chart. For VLCCs, we used a TCE (Time Charter Equivalent) of $38,520 per day. On this basis, an owner of a VLCC consuming low sulphur MGO (@ $657/ton) would need to charge a charterer $14.87 per ton to move its cargo from the Arabian Gulf to the Far East. The owner of a vessel equipped with scrubbers only needs to charge $11.14 per ton to generate the same TCE of $38,250/day, because it can fuel its ship with much cheaper HFO (@ $326/ton). In this example, the charterer of a VLCC that runs MGO will need to pay a 33% premium. The differentials for the other segments are also significant, ranging from 16% for MR’s on the TC2 route to 41% for LR2’s on the TC1 route, with Suezmaxes and Aframaxes somewhere in between. As one would expect, the premium is higher on longer haul routes where bunker costs are a larger portion of the voyage expenses.
 
-*Chart*
+*Chart: HFO and MGO Bunkers Forward Curve*
 
 *Source: Bloomberg*
 
-*Chart*
+*Chart: 2020 Freight Rates: HFO vs MGO*
 
 *Source: Poten*
 

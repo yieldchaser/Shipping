@@ -30,7 +30,7 @@ Oil product demand in the other key Asian market, India, also remains robust. Ga
 
 *Source: JODI*
 
-*Chart*
+*Chart: VLCC and Suezmax Spot TCE's AG-East 2014 YTD*
 
 *Source: Poten*
 

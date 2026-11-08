@@ -22,11 +22,11 @@ For the tanker market, Venezuela has lost much of its luster in recent years. As
 
 After U.S. sanctions were tightened in early 2019, Venezuelan exports fell from 1,250 Kb/d in January to about 500 Kb/d in October. However, in the last few months of 2019, and into 2020, Venezuelan crude oil exports staged something of a recovery, increasing to about 1 Mb/d, primarily on the back of increased movements to India. Key buyers of Venezuelan
 
-*Chart*
+*Chart: U.S. Products Exports to Venezuela*
 
 *Source: EIA*
 
-*Chart*
+*Chart: Venezuela Crude Oil Exports*
 
 \*Including Caribbean Terminals
 

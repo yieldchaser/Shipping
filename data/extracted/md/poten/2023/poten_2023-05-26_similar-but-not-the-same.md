@@ -22,11 +22,11 @@ There are different ways of looking at the US driving season, which typically ru
 
 In their latest short-term energy outlook, the EIA also seems to indicate that 2023 will be a regular year for gasoline demand with normal seasonal trends. However, despite this, the expected volumes of “Motor Gasoline Product Supplied” for the summer of 2023 are significantly lower than the volumes in the pre-Covid years of 2018 and 2019. In 2023, gasoline demand is expected to average 9.1 Mb/d in the June – August period. This compares to 9.69 Mb/d in 2019 and 9.74 Mb/d in 2018 (more than 500,000 b/d less). As we mentioned previously, this reduction is not the result of lower VMT (Vehicle Miles Travelled). The lower gasoline consumption is due to the lower average fuel consumption of the cars that Americans drive. Even though the new vehicle market in the U.S. continues to move away from sedan/wagon vehicle types towards a combination of truck SUVs, car SUVs and pickup trucks, average fuel economy continues to improve according to the latest Automotive Trends Report of the United States Environmental Protection Agency (EPA), which was published in December
 
-*Chart*
+*Chart: U.S. Vehicle Miles Travelled*
 
 *Source: St Louis Fed*
 
-*Chart*
+*Chart: Weekly U.S. Gasoline Imports and Exports*
 
 *Source: EIA*
 

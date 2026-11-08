@@ -20,7 +20,9 @@ This week, President Trump announced that he talked to Russian President Putin a
 
 There is no official definition of the dark fleet (or shadow fleet). It is a term used to identify tankers that try to obscure their activities (such as disabling their AIS) because they engage in sanctioned trades with the countries identified above (Russia, Iran and Venezuela). The tankers in the dark fleet are often older ships without proper insurance and operated by inexperienced crews. Many of these vessels have unclear ownership structures and frequently change names and flag registrations to evade authorities. Estimates of the size of the dark fleet vary considerably. Some analysts count 600 tankers, while others estimate the fleet to be as large as 1,100 vessels. A subset of the dark fleet is the sanctioned fleet, i.e. the tankers that have been formally sanctioned by the governments of the U.S., the U.K. and/or the E.U. The fleet of sanctioned tankers is smaller, but unlike the dark fleet, these vessels have been listed by name and can be clearly identified. In their system, Vortexa identifies 476 sanctioned tankers (94 VLCCs, 68 Suezmaxes/LR3s, 179 Aframaxes/LR2s, 25 Panamaxes/LR1s, 78 MRs and 32 smaller tankers). The tankers on the sanctions list, especially the ones targeted by the U.S. have become increasingly difficult to trade because the countries receiving the oil (primarily China and India) do not want to run afoul of U.S. sanctions.
 
-*Chart*
+*Chart: Destination Of Sanctioned Vessels*
+
+*Chart: Age Profile Of The Sanctioned Fleet*
 
 *Source: Vortexa*
 

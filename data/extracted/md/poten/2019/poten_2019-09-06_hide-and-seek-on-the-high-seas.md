@@ -22,7 +22,9 @@ The relentless pressure from the U.S. authorities, who are continuously expandin
 
 During the previous sanctions period, which ended in January 2016, Iran was able to maintain crude oil exports above 1 million barrels per day (mb/d). When the U.S. decided to withdraw from the JCPOA (Iran Nuclear deal) in May 2018 and reimposed sanctions, Iran’s exports fell 66% in 6 months, from 2.5 mb/d in May to 850,000 b/d in November. After the U.S. announced that some countries (China, India, South Korea and Turkey among others) would receive partial waivers, exports recovered to 1.5 mb/d by March 2019. These waivers ended in April and the Trump administration has since then targeted 100% compliance to reduce Iranian exports to zero. Exports have collapsed as a result. Data from Lloyd’s List Intelligence shows that crude oil exports from Iran have averaged less than 300,000 b/d in the period May – August
 
-*Chart*
+*Chart: Iran Short Term Storage*
+
+*Chart: Iran Crude Oil Exports by Destination*
 
 *Source: Lloyd’s List Intelligence*
 

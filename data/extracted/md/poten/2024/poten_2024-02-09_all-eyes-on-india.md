@@ -24,7 +24,9 @@ India already has a large and sophisticated refining industry, currently assesse
 
 While this expansion is targeted towards satisfying increased domestic demand, India will remain a major product exporter. Since 2017, India has consistently exported 1.2 – 1.3 Mb/d of products and this is unlikely to change going forward. Chances are that more product will become available for export as new refining capacity comes on stream and demand takes some time catching up. This should benefit all product carrier segments, including LR1s and LR2s (see chart 1). Following Europe’s embargo on Russian oil imports in early 2023, India has become a major provider of middle distillates to the EU. However, the conflict in the Middle East has limited flows in recent months as the Suez Canal route has become increasingly dangerous. Indian products are less competitive in Europe if vessels have to take the long-haul route via the Cape of Good Hope, especially with the current elevated freight rates for LR1s and LR2s, so shipments to Europe started to decline. However, this is not expected to be a lasting situation.
 
-*Chart*
+*Chart: India Clean Product Exports by Vessel Class*
+
+*Chart: India Crude Oil Imports by Vessel Class*
 
 *Source: Vortexa*
 

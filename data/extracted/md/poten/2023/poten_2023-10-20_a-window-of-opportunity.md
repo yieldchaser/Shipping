@@ -24,7 +24,9 @@ Venezuela used to be an important player in the oil markets. It holds one of the
 
 For many years, India and China had been one of the largest customers of Venezuelan crude oil. When President Trump tightened sanctions in 2020, India stopped importing Venezuelan crude (September) and China became the dominant buyer. From October 2020 to date, China has bought about two thirds of all Venezuelan exports. Some of these moves are done directly to China on dedicated Chinese tankers, while other barrels are transported on vessels in the dark fleet, sometimes via Ship-To-Ship transfers offshore third countries.
 
-*Chart*
+*Chart: Venezuela Crude/Condensate Exports By Destination*
+
+*Chart: Venezuela Crude/Condensate Exports by Vesselclass*
 
 *Source: Vortexa*
 

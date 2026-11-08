@@ -61,13 +61,13 @@ The following chart notes last year’s most active charterers. ExxonMobil, Unip
 
 **VLCC**
 
-*Chart*
+*Chart: VLCC*
 
 ### Suezmax
 
 The top two active Suezmax charterers are again Shell and Sun. Clearlake has moved up from fourth place in 2006’s to displace BP from third position last year. The top ten Suezmax charterers account for nearly half – 48% – of the total reported dirty spot fixtures in this sector.
 
-*Chart*
+*Chart: Suezmax*
 
 ### Aframax
 

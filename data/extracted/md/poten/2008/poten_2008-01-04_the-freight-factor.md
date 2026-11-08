@@ -16,7 +16,7 @@ charts_count: 1
 
 This week crude oil prices touched the $100 per barrel mark and have continued to hover around that level. Regardless of the impact on physical demand and supply, this price does have some significance if only as a psychological threshold. With 2008 officially under way, many are trying to formulate outlooks on which direction the price of the barrel will ultimately head. Oil companies and traders could face higher stakes if the price of the barrel moves suddenly. Among the challenges these charterers’ face, managing freight volatility and rates will likely remain of concern in the future. The chart below shows the historical transportation costs on a dollar per barrel basis for the past 10 years on the common VLCC trade Arabian Gulf – Far East (260kt). Although the dollar price of crude oil has increased from the $10 per barrel to $100 per barrel, transportation costs have not increased on the same order of magnitude.
 
-*Chart*
+*Chart: Charterers' Transportation Cost Per Barrel*
 
 The 10-year average freight rate is $1.49 per barrel whereas the 2007 average freight rate is only 30% higher at $1.93 per barrel.
 
@@ -26,7 +26,7 @@ Although the average price of transportation has increased over the long-term hi
 
 The chart below shows the price of transportation as a percentage of the barrel price the benchmark West Texas Intermediate (WTI) spot crude oil on a monthly basis. On average over the past ten years, the price of transportation has been 4% of the price of the crude oil.
 
-*Chart*
+*Chart: Freight / Crude Oil Barrel Cost*
 
 Over 70% of the time, the price of transportation has stayed between 2-6% of the price of crude oil and as the chart shows above, however this percentage has primarily been in the 2-4% range in the past two years.
 

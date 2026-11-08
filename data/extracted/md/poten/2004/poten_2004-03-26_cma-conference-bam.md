@@ -49,7 +49,7 @@ Prestige
 
 **1**
 
-*Chart*
+*Chart: Why Are Tanker Rates Up? Because The World Is Falling Apart!*
 
 ### The New Commodore Honored
 

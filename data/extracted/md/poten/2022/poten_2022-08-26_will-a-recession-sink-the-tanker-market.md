@@ -28,9 +28,11 @@ The global financial crisis in 2007/08 was triggered by a housing debt crisis in
 
 The most recent recession was also the worst for oil demand. As Covid spread around the world in early 2020, global oil demand collapsed by 15.8 Mb/d within weeks. Shipping rates initially skyrocketed as Saudi Arabia started a price war by increasing oil production, which, in combination with the demand destruction, led to record storage demand for tankers.
 
-*Chart*
+*Chart: Global Oil Demand (Change from 1st Recession Month)*
 
 *Source: EIA*
+
+*Chart: TCE During Recessions (VLCC - AG-FE)*
 
 *Source: Poten & Partners*
 

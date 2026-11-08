@@ -24,9 +24,9 @@ In terms of vessel classes, the changes were not so dramatic. The US trade conti
 
 Prior to October 2023, the vast majority of Venezuelan exports went to China, with small volumes going to Cuba and Spain. In November 2022, the U.S. Treasury Department issued a license, authorizing Chevron to resume “limited natural resource extraction operations in Venezuela.” As a result, Chevron started importing Venezuelan crude oil into the US again for the first time since 2019. US imports grew from 77,000 b/d in January 2023 to 185,000 b/d in September. However, when the sanctions were lifted in October 2023, many other customers were interested in buying crude from the state-owned oil company PDVSA as well. Customers from all over the world (except Russia) were free to do oil business in Venezuela.
 
-*Chart*
+*Chart: Venezuela Crude Exports by Destination*
 
-*Chart*
+*Chart: Crude Exports from Venezuela by Vessel Class*
 
 *Source: Vortexa*
 

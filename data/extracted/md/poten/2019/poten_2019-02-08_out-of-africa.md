@@ -28,9 +28,9 @@ As U.S. production increased, more West African oil has moved to Asia. Shipment 
 
 While West Africa represents the majority of African production, changes in North Africa also have a significant impact on the tanker market. Algeria and Libya remain significant producers and exporters, each producing slightly more than 1 Mb/d. Algerian output is more or less steady, but Libyan production and exports have started to come back from their collapse during the revolution that ousted long-term leader Gaddafi in 2011. Libya’s production doubled over the last 2 years, although occasional eruptions of fighting still affect production and export capacity. The largest oil field in Libya remains closed after local fighters captured it last December, reducing exports by about 0.3 Mb/d in January. Production is likely to remain volatile.
 
-*Chart*
+*Chart: West African Crude Oil Exports By Destination*
 
-*Chart*
+*Chart: North African Crude Oil Exports By Destination*
 
 *Source: Lloyd’s List Intelligence*
 

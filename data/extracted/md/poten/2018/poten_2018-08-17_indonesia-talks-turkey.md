@@ -24,9 +24,9 @@ Indonesia’s export markets have traditionally been in Asia. Thailand, China an
 
 Crude oil imports into Indonesia have grown over time and in recent years have exceeded exports. Most of Indonesia’s crude oil imports originate from the Arabian Gulf and West Africa. The
 
-*Chart*
+*Chart: Indonesian Crude Oil Exports by Destination*
 
-*Chart*
+*Chart: Indonesian Crude Oil Imports by Origin*
 
 *Source: Lloyd’s List Intelligence*
 

@@ -24,11 +24,11 @@ To see which tanker segments may benefit the most, we need to look at size speci
 
 For Suezmaxes, the numbers are more modest. Since 2015, when a record 89 Suezmaxes were ordered (leading to record deliveries and fleet growth in 2017), newbuilding contracts in this segment have dropped dramatically. In the first half of 2019, 9 Suezmax tankers have been contracted. The current orderbook is a relatively modest 45 vessels (7.7% of the fleet). The Suezmax scrapping rate is running slightly ahead of the VLCCs this year (5 versus 4).
 
-*Chart*
+*Chart: Tanker Fleet Ordering History vs TCE*
 
 *Source: Poten & Partners*
 
-*Chart*
+*Chart: Tanker Fleet Removal History*
 
 *Source: Poten & Partners*
 

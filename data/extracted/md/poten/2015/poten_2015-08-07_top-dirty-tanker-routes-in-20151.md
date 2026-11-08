@@ -48,7 +48,7 @@ Top 15 Dirty Tanker Routes (2015 YTD vs Same Period 2014) in Million MT
 
 Source: Poten & Partners Dirty Tanker Routes Showing Largest Increases and Decreases (2015 vs 2014)
 
-*Chart*
+*Chart: Dirty Tanker Routes Showing Largest Increases and Decreases (2015 vs 2014)*
 
 *Source: Poten & Partners*
 

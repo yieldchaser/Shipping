@@ -24,11 +24,11 @@ There are several reasons for the shift in U.S. product trades. One is stagnatin
 
 U.S. refiners have been (and are) particularly well positioned to take advantage of opportunities in Latin America. The biggest growth area for U.S. refiners has been Mexico. A decade ago, refined product exports to our southern neighbor averaged some 330,000 b/d. In 2017, this reached almost 1.1 million b/d and in 2018 to-date, exports regularly exceeded 1.3 million b/d. Mexico is going through a change in government and president-elect Andres Manuel Lopez Obrador has ambitious plans to grow Mexico’s refining capacity by between 300,000 and 600,000 barrels per day. However, even if these plans are realized, it will be several years before any new capacity will come online.
 
-*Chart*
+*Chart: U.S. Product Imports and Exports (4 Wk MAvg)*
 
 *Source: DOE/EIA*
 
-*Chart*
+*Chart: U.S. Product Exports to Latin & Central America*
 
 *Source: DOE/EIA*
 

@@ -24,7 +24,9 @@ In the fall of 2023, US and EU authorities started to clamp down on Western ship
 
 India in particular seems to be keen to reduce their reliance on Russian oil. Indian imports of Russia’s Urals grade peaked in Mid-2023 and have gradually declined since then. Middle Eastern suppliers such as Iraq, Saudi Arabia and the UAE regained some of the market share they lost in 2022. India also reduced deliveries of ESPO barrels from Kozmino. However, the biggest relative decline has been in the shipments of Sokol crude to India. After the Sakhalin 1 project started up again in September/October 2022, India became the dominant buyer of this high quality (light-sweet) crude, buying the vast majority of its output. However, this all changed in November 2023, when the US slapped sanctions on several Russian tankers that were involved in these shipments. Since then, Russia has had a hard time delivering Sokol crude to Indian refiners, which have become increasingly wary of Russian crude because of increasing sanctions pressure. Indian refiners have also complained that Russian crudes have become less competitive.
 
-*Chart*
+*Chart: Russian Crude Exports by Destination*
+
+*Chart: Russian Sokhol Crude Exports by Destination*
 
 *Sources: Vortexa*
 

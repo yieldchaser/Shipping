@@ -26,13 +26,13 @@ Canada is another potential source of heavy crude oil replacing Venezuelan grade
 
 Venezuela’s problems have crippled its ability to transport and export crude oil. Production has slowed to a fraction of the country’s potential and lack of maintenance in ports and
 
-*Chart*
+*Chart: Venezuela Crude Oil Exports*
 
 \*Including Caribbean Terminals
 
 *Source: Lloyd’s List Intelligence*
 
-*Chart*
+*Chart: Aframax (TD9) vs VLCC (Car-Spore)*
 
 *Source: Poten & Partners*
 

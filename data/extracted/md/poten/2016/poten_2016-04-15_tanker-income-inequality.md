@@ -26,7 +26,7 @@ While the number of VLCC fixtures increased this year, total Suezmax fixtures de
 
 *Source: Poten & Partners*
 
-*Chart*
+*Chart: Reported Spot Fixtures VLCC vs Suezmax (Q1)*
 
 *Source: Poten & Partners*
 

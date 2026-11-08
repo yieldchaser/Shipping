@@ -24,11 +24,11 @@ As IMO 2020 is closing in, refiners worldwide are trying to reduce the output of
 
 Since the high sulphur fuel oil cracks collapsed in Q4 of 2019, a fuel oil arbitrage window opened up and over the last three months (September – November), U.S. refiners have imported some 242 Kb/d of fuel oil from Russia via the Baltic and the Black Sea, an increase of 100 Kb/d (70%) over the same period of 2018. Complex U.S. refiners can use these cheap fuels and blending stocks in their cokers to produce higher value products. Russia is long fuel oil and provided that the price is right, opportunistic refiners will replace (some) heavy crudes with fuel oil.
 
-*Chart*
+*Chart: Dirty Product Trade by Load Area*
 
 *Source: IEA*
 
-*Chart*
+*Chart: Dirty Product Ton-Miles (Bln) by Discharge Area (Sep-Nov)*
 
 *Source: Lloyd’s List Intelligence*
 

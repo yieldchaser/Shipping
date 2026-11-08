@@ -22,9 +22,11 @@ The refining industry in the U.S. continues to expand, assisted by strong produc
 
 A review of the U.S. petroleum product exports since 2000 (see chart) shows that export volumes started to take off a little more than 10 years ago, primarily driven by middle distillates (diesel). Middle distillates are still the largest export product. In 2017, the U.S. exported 1.4 million b/d according to the EIA, 17% more than the 2016 volumes. Gasoline is the no. 2 commodity with average daily exports of 747,000 barrels in 2017, 18% higher than in 2016. Other export products include jet fuel and residual fuel oil. Exports streams that are not included in the chart, because they are not moved on product tankers, are Liquified Petroleum Gas (LPG), ethanol and petroleum coke. Of these three, LPG (transported in cooled or pressurized gas carriers) is by far the largest and fastest growing. Over the last 5 years, LPG exports increased more than six-fold, from 196,000 b/d in 2012 to 1,225,000 b/d in 2017. Ethanol is a relatively small (90,000 b/d) export stream that moves on chemical tankers. Pet coke is exported on dry bulk carriers. The pet coke trade reached 586,000 b/d-equivalent in 2017.
 
-*Chart*
+*Chart: US Petroleum Product Exports (Oil Tanker Commodities)*
 
 *Source: EIA*
+
+*Chart: U.S. Petroleum Product Exports by Destination*
 
 *Source: EIA*
 

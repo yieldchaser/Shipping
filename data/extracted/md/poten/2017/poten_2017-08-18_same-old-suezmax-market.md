@@ -24,11 +24,11 @@ Let’s start with the demand side. Like last year, we have used data compiled b
 
 Suezmax voyages to the UKC decreased slightly, while those to the Mediterranean increased somewhat, balancing each other out. A significant contributor to the overall increase in ton miles has been the Far East. Its imports increased from an average of 61 cargoes per month in 2016 to 72 cargoes per month in 2017 (+18%). Imports into South Asia (India) decreased slightly, but the impact on ton-mile demand has been limited since these are primarily short haul voyages originating in the Middle East. In conclusion, Suezmax demand has held up well, so the problem might lie elsewhere.
 
-*Chart*
+*Chart: Suezmax 130,000: Bonny - Philadelphia*
 
 *Source: Poten*
 
-*Chart*
+*Chart: Average Monthly Suezmax Voyages by Import Area (Jan-Jul)*
 
 *Source: Lloyd’s List Intelligence*
 

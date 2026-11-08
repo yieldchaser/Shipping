@@ -40,11 +40,11 @@ The chart on the next page is the ratio of sales to inventory published by the U
 
 Inventory to Sales Ratio
 
-*Chart*
+*Chart: Inventory to Sales Ratio*
 
 Other indicators of economic activity are, generally speaking, on the optimistic side. One worrisome trend, however, is the U.S. balance of trade deficit.
 
-*Chart*
+*Chart: U.S. International Trade in Goods and Services*
 
 The growing deficit reflects higher cost oil imports and greater consumer goods imports from China. High oil prices can affect economic activity, as had occurred during the late 1970s and early 1980s. A revaluation of the Chinese yuan would increase the price of Chinese imports and tend to reduce demand and improve the trade imbalance. But it would also affect China’s exports, which could affect their economy, and increase inflation in the United States. Deciding on how this is played out probably explains why China is slow in floating the yuan.
 

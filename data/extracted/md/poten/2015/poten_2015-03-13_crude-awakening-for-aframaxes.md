@@ -28,7 +28,7 @@ In Asia, developments have shown less volatility. The key driver for dirty Afram
 
 *Source: Poten*
 
-*Chart*
+*Chart: Fig. 2: Reported Dirty Spot Aframax Fixtures (Main Trade Routes)*
 
 *Source: Poten*
 

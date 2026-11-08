@@ -55,7 +55,7 @@ Of the 418 fixtures, 64% or 268 loaded in the Arabian Gulf. Most were naphtha ca
 
 There were 1,487 Panamax spot fixtures, of which 938 were dirty. The ten leading charterers for the 549 clean spot fixtures are shown below. Collectively, these charterers also accounted for 43% of all Panamax clean spot fixtures during 2005.
 
-*Chart*
+*Chart: # of Spot Fixtures*
 
 298 of the 549 fixtures or 54% were AG liftings of which 51 were to northern Europe with most of the remainder to Japan and other Asian destinations. The next largest movement is 74 fixtures between the UKC and the US, again in response to growing U.S. imports. A whopping 82 of the 119 Panamaxes on order are coated indicating that the past employment trade of fuel oil and other dirty cargoes may be not where future employment lies.
 
@@ -63,7 +63,7 @@ There were 1,487 Panamax spot fixtures, of which 938 were dirty. The ten leading
 
 Of the total of 3,028 spot fixtures involving Handymaxes, 2,661 were clean. The top ten charterers of clean Handymax fixtures accounted for 43% of all fixtures.
 
-*Chart*
+*Chart: # of Spot Fixtures*
 
 The United States dominates Handymax employment with 432 fixtures between the UKC and the United States and 414 fixtures between the Caribbean and the United States accounting for nearly a third of all fixtures. The next largest category is intra-Asia that accounts for 641 or nearly one quarter of all fixtures.
 

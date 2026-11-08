@@ -24,11 +24,11 @@ In global oil markets, OPEC acts as the “swing supplier” and as a result, th
 
 First: There is a significant difference among the agencies: The latest OPEC forecast sees the 2020 call on OPEC at 29.6 Mb/d, while the IEA estimates it to be 700,000 b/d lower at 28.9 Mb/d. However, comparing these numbers can be misleading because these agencies have slightly different definitions for demand, supply, stock changes and the treatment of NGL’s, biofuels and processing gains how much NGL's are included in the numbers. When comparing the change in the call on OPEC from 2019 to 2020, the numbers for the IEA and OPEC are almost the same: a decline of about 1.1 Mb/d.
 
-*Chart*
+*Chart: OPEC Crude Oil Production*
 
 *Source: IEA*
 
-*Chart*
+*Chart: 2020 'Call On OPEC' Outlook*
 
 *Source: EIA, OPEC, IEA*
 

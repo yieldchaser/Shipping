@@ -24,11 +24,11 @@ Lack of maintenance and investment has accelerated the decline rates of some of 
 
 The ongoing crisis in Venezuela has already had an impact on the tanker market in the Caribbean this year. After reaching more than 2.1 mb/d in February of 2017, exports gradually declined because of falling production. In October, exports were slightly above 1.6 mb/d, some 500,000 b/d below the February number. Not surprisingly, exports to the U.S. accounted for the largest decline, down from 670,000 b/d to 410,000 b/d. October 2017 marked only the second time ever that China imported more Venezuelan crude than the U.S. Given the current political and economic situation, this is probably a sign of things to come.
 
-*Chart*
+*Chart: Venezuela: Crude Oil Production and Exports to U.S.*
 
 *Source: IEA, EIA*
 
-*Chart*
+*Chart: Venezuela: Crude Exports by Destination*
 
 *Note: Venezuela Exports Include Bonaire and Curacao Terminals*
 

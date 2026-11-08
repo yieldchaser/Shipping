@@ -24,13 +24,13 @@ After the U.S. banned Venezuelan crude oil from the U.S., China and India became
 
 Venezuelan crude oil exports have been declining over the last five years. In 2016, exports still averaged 1.9 million barrels per day (mb/d). In 2017 and 2018, this declined to 1.75 mb/d and 1.4 mb/d respectively. After the U.S. sanctioned PDVSA,
 
-*Chart*
+*Chart: Venezuela Crude Oil Exports*
 
 *Source: Lloyd’s List Intelligence*
 
 \*Includes Caribbean Terminals (Aruba, Bonaire, Curacao)
 
-*Chart*
+*Chart: Venezuelan Crude Oil Production*
 
 *Source: IEA*
 

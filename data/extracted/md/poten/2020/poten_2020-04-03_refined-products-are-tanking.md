@@ -24,7 +24,9 @@ We need to consider another factor for the refining industry. While it is a glob
 
 Ultimately, the global demand destruction will hit the product trades. After all, product tankers are distributing refined products across the globe and if the demand is not there, and stocks are full, there is no need to distribute product. Price differentials between markets would normally open up arbitrage opportunities. However, in a scenario where product demand is down and there is no storage capacity available to take advantage of the price contango, trade will be significantly reduced.
 
-*Chart*
+*Chart: LR2: AG - Japan*
+
+*Chart: MR: UKC - USA*
 
 *Source: Poten & Partners*
 

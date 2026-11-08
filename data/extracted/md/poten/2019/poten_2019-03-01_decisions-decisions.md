@@ -28,13 +28,13 @@ The owners of these older vessels will have to make a decision in the coming yea
 
 Additionally, on 1 January 2020, new sulfur emission regulations for ships will come into force. After this date, ships will have to switch to more expensive lower sulfur fuel or have exhaust gas cleaning equipment installed. Many of the older tankers have higher fuel consumption than modern vessels, so they will become less competitive when they are required to burn more expensive fuel. It is less likely that these vessels will have scrubbers installed as the age of the vessels will make it harder to recover the investment than with younger vessels.
 
-*Chart*
+*Chart: VLCC & Suezmax Scrapping History*
 
 *Source: Poten & Partners*
 
 *Chart: VLCC & Suezmax Age Profile*
 
-*Chart*
+*Chart: Suezmax Age Profile*
 
 *Source: Poten & Partners*
 

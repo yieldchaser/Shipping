@@ -28,9 +28,11 @@ For VLCCs, the two main destinations for North Sea crude in Asia are China and K
 
 Suezmaxes have a more diverse group of destinations. Most of the Suezmax cargoes end up in the United Kingdom and the
 
-*Chart*
+*Chart: North Sea Crude Oil Production*
 
 *Source: BP/IEA*
+
+*Chart: North Sea Tanker Loadings*
 
 *Source: Lloyd’s List Intelligence*
 

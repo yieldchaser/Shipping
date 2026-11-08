@@ -22,7 +22,9 @@ Comparing Chinese oil import data for the first 6 months of 2022 with the same p
 
 Unfortunately for the tanker market, the countries that increased sales are medium to short-haul suppliers from the Middle East and Asia, while the exporters that saw significant declines are the long-haul suppliers from the Atlantic Basin (West Africa, Brazil and the USA). As can be seen from Chart 2, this is not a recent development. This trend started during the pandemic. The increase in market share of the Asia/Australia region warrants further explanation: Despite the U.S. sanctions on Iran, China continues to import from this country. However, most of the imports are done in two steps: first the Iranian oil get shipped to a transfer point offshore Malaysia, from where it is then transported to China. That is why Malaysia shows up as one of the largest sources of Chinese crude oil imports. Malaysia is a crude oil producer and exporter in its own right, but most of the crude going to China originates from Iran (and previously Venezuela).
 
-*Chart*
+*Chart: Seaborne Chinese Crude Oil Imports by Vessel Class*
+
+*Chart: Seaborne Chinese Crude Oil Imports by Origin*
 
 *Source: Lloyd’s List Intelligence*
 

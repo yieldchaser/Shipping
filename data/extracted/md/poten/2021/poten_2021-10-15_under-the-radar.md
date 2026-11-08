@@ -22,7 +22,9 @@ In recent months, the world is starting to recover from Covid-19 and the global 
 
 At 30 GW (GigaWatts) Japan is the world’s largest user of oil-fired power capacity. On top of that, Japan has some 10 GW of dual-fired capacity that can switch from gas to oil and another 8-10 GW of deactivated powerplants which could use oil. Four of the seven largest oil-fired power plants in the world are located in Japan (the other three are in Saudi Arabia). In their October Oil Market Report, the IEA mentioned that “provisional August data already indicates that there is some unseasonably high demand for fuel oil, crude and middle distillates for power plants in a number of countries, including China, Japan and Pakistan in Asia.” The APEX data from Lloyd’s List Intelligence (Chart 1) seems to confirm the IEA observation, with a marked increase in Japanese oil imports in August, September, and October. Japanese imports in October are projected to reach almost 3.0 million barrels per day (Mb/d), the highest import volume since before the pandemic. If normal seasonal trends hold this year, November and December imports should be even higher. Since Japan sources about 80% of its crude oil from the Middle East (primarily Saudi Arabia and the United Arab Emirates), this bodes well for long-haul tanker demand.
 
-*Chart*
+*Chart: Crude Import Volumes Into Japan*
+
+*Chart: Japan Crude Oil Imports - Tanker Demand*
 
 *Source: Lloyd’s List Intelligence*
 

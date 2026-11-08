@@ -24,7 +24,9 @@ U.S. seaborne crude oil exports increased from 1.3 Mb/d in 2015H1 (mainly to Can
 
 What has been the impact on global trade volumes between 2015 and 2019? The total crude oil trade increased from 46.8 Mb/d in 2015 to 49.6 Mb/d in 2019, an increase of 5.8%, roughly in line with global oil demand growth of 5.2%. In contrast, global ton-mile demand increased twice as fast, by
 
-*Chart*
+*Chart: US Seaborne Crude Trade*
+
+*Chart: Crude Oil Ton-Mile Demand by Load Area*
 
 *Source: Lloyd’s List Intelligence*
 

@@ -22,11 +22,11 @@ India imports about 4.5 – 5.0 mb/d of crude oil by sea. In the 12 months prior
 
 So far, India has imported all Russian barrels on a spot basis. Most of these transactions are facilitated by Russian oil traders in Dubai who charge significant commissions for their services. Since the start of 2024, the discount of Urals relative to Brent has narrowed, which has made the trade less lucrative for Indian refiners. The transportation of Russian crude to India has also become more challenging. Sanctions from the G7 countries and the EU restrict the use of Western shipping services (shipowners, brokers and insurance companies, among others) when the price of Russian crude is above the “price-cap” level of $60/barrel. This has been the case for the majority of the time since the sanctions have been implemented and that means that Indian buyers have become highly dependent on the “dark fleet” for their transportation needs. The dark fleet contains many ageing, poorly maintained vessels with questionable insurance cover. As the U.S. and the E.U. are trying to tighten the noose around these sanction busting shipowners, the availability of suitable ships could become a problem, potentially limiting Russia’s export capabilities. The conflict in the Middle East has exacerbated these problems. Many tankers carrying crude oil from Russia to India still take the shortcut through the Suez Canal even though the Houthis are terrorizing the Red Sea and the Bab Al-Mandeb Straits, endangering vessels and crews alike. However, avoiding the Suez Canal significantly increases shipping costs.
 
-*Chart*
+*Chart: Urals Oil vs Brent*
 
 *Source: Trading Economics*
 
-*Chart*
+*Chart: India Ton-Miles By Origin*
 
 *Source: Vortexa*
 

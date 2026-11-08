@@ -26,7 +26,9 @@ The tanker industry is characterized by significant volatility in both earnings 
 
 Under normal circumstances, our industry should replace about 5% of the fleet every year. Since the lead time for new vessel construction is currently about 3 years (a vessel ordered today will be delivered in late 2028/early 2029), this means that an orderbook of around 15% of the fleet is about right. However, this also assumes that about 5% of the fleet ages-out every year, i.e. is recycled. That has not been the case in recent years. Despite limited newbuilding deliveries in recent years, the tanker fleet has grown steadily because recycling has been low. Older vessels are sold for further trading into the dark fleet rather than sent to the breakers.
 
-*Chart*
+*Chart: Total Tanker Fleet Size vs Orderbook*
+
+*Chart: Tanker Orderbook % vs VLCC 1 Yr TC Rate*
 
 *Source: Poten & Partners*
 

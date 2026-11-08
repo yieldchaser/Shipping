@@ -26,9 +26,9 @@ As the top graph shows, Canadian crude oil production expanded gradually over th
 
 The second graph shows that virtually all of Canadian exports are for the U.S. The majority of the exports are to PADD II (Midwest) and growing volumes are heading to PADD III (U.S. Gulf) to replace Venezuelan imports of heavy crude that were halted due to U.S. sanctions. The Keystone XL pipeline would allow Canada to efficiently ship more crude to the U.S Gulf region, helping Canada in two ways: It would reduce the discount between Western Canadian Select and WTI and it would also allow Canada to diversify its exports further.
 
-*Chart*
+*Chart: Canada - Crude Oil Production*
 
-*Chart*
+*Chart: Canadian Crude Oil Exports*
 
 *Source: Canada Energy Regulator (CER)*
 

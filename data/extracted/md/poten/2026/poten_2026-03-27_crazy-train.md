@@ -22,7 +22,9 @@ When the hostilities broke out on February 28, it took the tanker market by surp
 
 As the conflict dragged on, the global oil markets have tightened considerably, both for crude oil and refined products. Asian countries in particular were very reliant on supplies from the Middle East and are now desperate to procure replacement barrels. Exports from the U.S. Gulf, Caribbean and Latin America are increasingly moving to the Pacific. After most available VLCCs were fixed out of the area, charterers started to target Suezmaxes and even Aframaxes for long-haul trips to Asia. This spiked freight rates in the Caribbean / U.S. Gulf area to eyewatering levels. Reports were circulating of an Aframax fixed for a 3-day U.S. Gulf lightering business for $950,000/day! Another report showed a rate of WS 1,000 for an Aframax loading in Venezuela. The shortage of oil and products has opened up massive arbitrage windows all over the world. However, there are not enough cargoes to meet demand and charterers in Asia are willing to pay whatever it takes to get their hands on available barrels and the tonnage to move it.
 
-*Chart*
+*Chart: Dirty Tanker Freight Rates in 2026*
+
+*Chart: Clean Tanker Freight Rates in 2026*
 
 *Source: Poten & Partners*
 

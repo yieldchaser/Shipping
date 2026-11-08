@@ -16,7 +16,9 @@ charts_count: 3
 
 The oil industry is one that is often characterized by fast paced decision making. It is therefore sometimes easy to forget that executives at oil companies are also challenged with making long-term decisions that can and do often impact their companies many years in the future. ExxonMobil is a company that has been among the best at long-term planning and execution. This past week at Columbia University, Mr. Jack Buono, General Manager of ExxonMobil’s Marine Transportation group, presented ExxonMobil’s newly released long-term outlook for the energy markets. As shown below, ExxonMobil expects overall demand for energy to continue to grow with oil and gas playing a key role.
 
-*Chart*
+*Chart: By Sector*
+
+*Chart: By Fuel*
 
 *Source: ExxonMobil*
 
@@ -24,7 +26,9 @@ The oil industry is one that is often characterized by fast paced decision makin
 
 The outlook highlighted the significant role that OECD countries play given that they comprise approximately 80% of energy demand. However, since 1980, the growth rate in energy demand for non-OECD countries has been four times faster. As shown below, the analysis suggests that the most rapid growth will be in the transportation sector, with an overall increase of 1.7% per year through the outlook period.
 
-*Chart*
+*Chart: OECD MBDOE*
+
+*Chart: Non-OECD MBDOE*
 
 *Source: ExxonMobil*
 

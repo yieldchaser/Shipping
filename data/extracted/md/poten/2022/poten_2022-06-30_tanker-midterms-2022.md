@@ -18,11 +18,11 @@ charts_count: 3
 
 As we are getting ready to celebrate Independence Day in the United States this weekend, it is time to publish our midterm report. This year, the fixture counts appear to be influenced by two key events: (1) the global recovery from the Covid-19 pandemic and (2) the Russian invasion of Ukraine. Compared to the first half of 2021, the number of reported VLCC fixtures increased 19%, but Suezmax and Aframax transactions were down 8% and 20% respectively. The post-pandemic oil demand recovery helped the VLCCs, while the Western sanctions on Russia likely reduced the number of reported spot fixtures for the smaller crude oil tankers.
 
-*Chart*
+*Chart: Top 10 VLCC Spot Charterers*
 
 Unipec reinforced its position at the top of the VLCC segment, increasing its number of VLCC fixtures from 329 in H1 2021 to 378 in H1 2022. ExxonMobil moved up from 8th to 2nd, while Petrobras dropped out of the top 10 (down to 20th). PTT (the Petroleum Authority of Thailand is a new entrant at No. 9.
 
-*Chart*
+*Chart: Top 10 Suezmax Spot Charterers*
 
 Quite a few changes in the Suezmax segment, with ExxonMobil back on top. Shell dropped from 1st to 10th, while Total moved the other way, from 10th to 2nd in the rankings. IOC, one of the Indian charterers that dropped out of the top 10 last year, is back in 4th place in 1H 2022, helped by an increase in liftings from the Mediterranean and the Middle East.
 
@@ -52,7 +52,7 @@ Quite a few changes in the Suezmax segment, with ExxonMobil back on top. Shell d
 |  | Others | 260,237 | 42.5% |  | 1,714 |
 |  | Total | 590,392 | 100.0% |  | 3,978 |
 
-*Chart*
+*Chart: Top 10 Aframax Spot Charterers*
 
 *Source: Poten & Partners*
 

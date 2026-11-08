@@ -28,7 +28,7 @@ Figure 2 shows the sources of foreign imports for the last 10 years. West Africa
 
 *Source: EIA*
 
-*Chart*
+*Chart: PADD 1 Crude Oil Imports by Origin*
 
 *Source: EIA*
 

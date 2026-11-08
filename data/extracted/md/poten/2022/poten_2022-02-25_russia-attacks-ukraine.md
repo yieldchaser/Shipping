@@ -24,7 +24,9 @@ Shipowners, facing a fluid and uncertain situation are reluctant to charter vess
 
 The longer-term implications of the conflict for the oil and tanker markets are unclear at this point. Sanctions are still being implemented and further penalties could be announced down the road. The oil market was already tight and reduced export flows from Russia cannot easily be compensated for by other exporters. Short-term solutions, such as releases from the Strategic Petroleum Reserves, will only have a limited (and mostly psychological) impact. U.S. shale production can ramp up, but that will take time. Furthermore, these are private companies, so we cannot expect a “coordinated” approach. The only short-term sources of additional crude oil are the Middle East OPEC producers with spare capacity, like Saudi Arabia, Iraq, UAE and (if a deal can be struck) Iran. However, the OPEC+ group includes Russia and they will not appreciate OPEC helping their Western adversaries.
 
-*Chart*
+*Chart: Russian Seaborne Crude Oil Exports by Load Area*
+
+*Chart: Seaborne Russian Crude Oil Exports By Destination*
 
 *Source: Lloyd’s List Intelligence*
 

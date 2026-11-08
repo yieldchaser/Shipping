@@ -24,11 +24,11 @@ Global oil demand increased by 1.1% in Q1 2019 versus one year ago. Since OPEC o
 
 To determine the impact on the tanker market, we need to look at the changes in ton-mile demand. Comparing Q1 2019 with both Q1 2018 and Q4 2018 shows an interesting picture. Global ton-mile demand for crude oil and dirty petroleum products increased from 875 billion ton-miles per month in Q1 2018 to 920 billion ton-miles per month in Q4, a 5.1% increase. All major tanker segments contributed to the increase: VLCCs (+4%), Suezmaxes (+7%) and Aframaxes (+7%). Mainly because of the OPEC production cuts, total tanker ton-mile demand in
 
-*Chart*
+*Chart: Change in Ton Mile Demand*
 
 *Source: Lloyd’s List Intelligence*
 
-*Chart*
+*Chart: Tanker Freight Rates*
 
 *Source: Poten & Partners*
 

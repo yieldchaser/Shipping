@@ -24,7 +24,9 @@ During the war in Iran, China became a shock absorber. China’s large inventory
 
 For tanker markets, China’s reduction in imports have created a split effect. The war-risk premium and disrupted Persian Gulf logistics are bullish for rates, but lower Chinese spot buying reduces cargo count. That is why the market can show very high freight rates on constrained routes while actual Chinese import volumes fall. China’s import restraint has also had a moderating effect on oil prices, which would have probably been much higher if China tried to maintain imports at pre-war levels.
 
-*Chart*
+*Chart: China: Seaborne Crude Oil Imports by Origin*
+
+*Chart: Crude Oil Exports From Yanbu by Destination*
 
 *Source: Vortexa*
 

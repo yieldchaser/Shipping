@@ -22,9 +22,11 @@ Back in 1789, Benjamin Franklin said that in this world nothing is certain, exce
 
 Other factors that can impact tanker demolition are scrap prices and changes in regulations. Scrap prices can be a factor on the margin for owners that are debating whether to sell or scrap, especially when secondhand prices are under pressure and scrap prices are going up. Regulations can be a major factor. The switch from single hull to double hull tonnage ultimately forced all older tankers into retirement. The impending ballast water treatment regulations could have an impact on the life-expectancy of older vessels in the current fleet.
 
-*Chart*
+*Chart: Tanker Scrapping vs VLCC Rates*
 
 *Source: Poten & Partners*
+
+*Chart: Scrap Value vs 15 yr Old VLCC Prices*
 
 *Source: Poten & Partners*
 

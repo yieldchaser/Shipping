@@ -22,9 +22,9 @@ In the United States, it is important to differentiate between the two coasts, b
 
 As mentioned previously, seaborne crude oil imports into the U.S. Gulf and the U.S. East Coast have been declining since mid-2018 (chart 1). Increased access to domestic shale oil, sanctions on Venezuela and the closure of refining capacity on the U.S. East Coast all contributed to this. During their price war with Russia in March/April 2020, the Saudis sent large volumes of oil to the U.S. Gulf, but imports fell back to their previous levels after OPEC+ agreed to production cuts in the face of the Covid crisis. In recent months, imports have started to pick up as the U.S. economy is rebounding. U.S. crude oil imports into the U.S. East Coast and the U.S. Gulf are back to levels not seen since the first half of 2019. The reason for this increase is that while oil demand has increased post-Covid, production has not, so more imports are required. Shale oil producers have shown remarkable discipline in the face of higher oil prices. Rather than increasing production, they have focused on debt reduction and increased shareholder payouts. As long as this capital discipline is maintained, production growth is expected to remain limited. At the same time, U.S. exports remain steady as well.
 
-*Chart*
+*Chart: Seaborne Crude Imports Into US Gulf & USAC*
 
-*Chart*
+*Chart: Seaborne Crude Imports Into US West Coast*
 
 *Source: Lloyd’s List Intelligence; Poten*
 

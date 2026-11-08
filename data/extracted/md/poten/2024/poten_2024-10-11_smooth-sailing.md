@@ -16,7 +16,9 @@ charts_count: 2
 
 OK
 
-*Chart*
+*Chart: Crude & Condensate Exports From Vancouver*
+
+*Chart: USWC Seaborne Crude Sourcing By Origin*
 
 *Source: Vortexa*
 

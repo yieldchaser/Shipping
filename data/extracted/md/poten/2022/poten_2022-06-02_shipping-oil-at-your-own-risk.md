@@ -26,7 +26,9 @@ An EU/UK insurance ban would severely restrict Russia’s ability to export its 
 
 Using marine insurance as a sanctions weapon is not new. In 2012, a European Union oil embargo on Iran, prohibited EU insurers from covering Iranian oil exports anywhere in the world. This proved to be a very powerful tool. Iranian exports dropped 25-30% and it ultimately brought the country to the negotiating table. These are obviously different situations. Russia is a much larger producer (and exporter) than Iran and unlike the situation in 2012, countries like China and India are not on board with current sanctions.
 
-*Chart*
+*Chart: Russian Crude Oil Exports From The Baltic*
+
+*Chart: Russian Crude Oil Exports From The Black Sea*
 
 *Source: Lloyd’s List Intelligence*
 

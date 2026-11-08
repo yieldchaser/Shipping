@@ -18,11 +18,11 @@ charts_count: 3
 
 Following a disappointing 2021, the tanker market started 2022 with sustained low freight levels. However, the Russian invasion of Ukraine in February 2022 changed everything. Western countries unleashed a barrage of sanctions on Russian companies and buying and/or shipping Russian oil became controversial. This led to changes in chartering behaviour (an increase in off-market fixture activity) and a dramatic shift in global trade flows. Some of this is reflected in our annual ranking of spot charterers. Russia’s Lukoil has dropped out of the Top 20. The overall number of reported spot market fixtures in 2022 declined by almost 8% relative to 2021. However, the picture was quite different for the various segments: VLCC - up 23%, Suezmax - down 15% and Aframax - down 22%. The increase in VLCC fixtures was due to a significant increase in short-haul VLCC movements (e.g. USG-UKC), while we suspect that the drop in reported Aframax and Suezmax fixtures was related to the Russian sanctions (less intra-regional trade in the UKC and Mediterranean and more long-haul trips to Asia. Overall cargo volumes and ton-miles were up across the board.
 
-*Chart*
+*Chart: Top 10 VLCC Spot Charterers*
 
 Unipec remained the king of the VLCC market with 746 reported fixtures, more than the rest of the top 10 combined. ExxonMobil moved up to the #2 spot, relegating Shell to 3rd. SK Corp entered the top 10 and Equinor dropped out.
 
-*Chart*
+*Chart: Top 10 Suezmax Spot Charterers*
 
 | 2022 Rank | Charterer | Reported Total Cargo (MT 000's) | % of Total Dirty Cargoes | 2021 Rank | 2022 Fixtures |
 | --- | --- | --- | --- | --- | --- |
@@ -54,7 +54,7 @@ Source: Poten & Partners
 
 There was significant movement in the Suezmax segment. Total jumped to #1 (from 9 last year) and ExxonMobil went from 7th to 2nd. Russian charterer Lukoil dropped out of the top 10, being replaced by India’s IOC.
 
-*Chart*
+*Chart: Top 10 Aframax Spot Charterers*
 
 The Aframax segment showed a significant drop in reported fixtures in 2022. The #1 charterer (Shell) only registered 145 fixtures, versus 225 for last year’s #1 (Vitol). Overall Aframax movements (tons and ton-miles) were up in 2022, so we expect that a lot more market activity went unreported, especially fixtures involving Russian crude. Lukoil and Aramco did not make the top 10; PTT and Phillips 66 were new on the list in 2022.
 

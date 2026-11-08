@@ -24,9 +24,11 @@ On the U.S. Atlantic Coast, domestic supplies are supplemented by imports. In th
 
 Since there is strong demand for gasoline in the U.S., one would expect import volumes from Europe to be high. However, that has not been the case recently. At the moment the European gasoline market is in steep backwardation, which means that demand is outstripping supply. High crude oil and natural gas prices have lowered crack spreads, so despite higher prices, refiners in Europe are not incentivized to increase runs. On top of that, several European refineries went down for maintenance and as a result, gasoline inventories in Europe have been depleting. Because of this, Europe does not currently have surplus gasoline and exports have been more limited. This has pushed up prices and reduced gasoline arbitrage opportunities. This could be temporary and indications are that exports to the U.S. have increased again from a very low October number.
 
-*Chart*
+*Chart: Weekly US East Coast Product Imports*
 
 *Source: EIA*
+
+*Chart: MR Freight Rates: UKC - USAC (37Kt)*
 
 *Source: Poten & Partners*
 

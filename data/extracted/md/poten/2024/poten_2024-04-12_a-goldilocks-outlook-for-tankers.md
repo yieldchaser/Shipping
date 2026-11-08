@@ -24,7 +24,9 @@ While the demand growth rates are not very exciting for the tanker market, we ha
 
 The OPEC+ cuts have also reduced flows from the East to the West as can be seen in Chart 2. Overall, the Russian invasion and the voluntary production cuts by OPEC+ worked out in favor of tanker owners as they increased ton-mile demand. The conflict in the Middle East and the attacks on shipping in the Red Sea that followed created a further disruption to trade flows as commercial ships, including tankers, increasingly take the longer route around the Cape of Good Hope to avoid Houthi missiles. This further adds to tonnage demand.
 
-*Chart*
+*Chart: Atlantic Basin Exports to the Pacific Basin By Origin*
+
+*Chart: Pacific Basin Exports to the Atlantic Basin By Origin*
 
 *Source: Vortexa*
 

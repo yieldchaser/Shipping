@@ -24,7 +24,9 @@ All of South Africa’s refineries temporarily stopped production in April 2020 
 
 Since South Africa does not produce significant volumes of crude oil, the refiners historically had to import their feedstock. Most imports of crude oil come from the Middle East (Saudi Arabia and UAE) and West Africa (Nigeria and Angola). Occasionally, U.S. crude oil is shipped to South Africa as well. Prior to 2012, Iran was South Africa’s largest crude oil supplier, accounting for about 27% of the country’s total crude oil imports. After the U.S. and Europe imposed sanctions, South Africa halted imports from Iran and substituted their barrels with supplies from other OPEC countries. Over the last five years, South Africa imported an average of 350,000 b/d of crude oil, about 100,000 b/d in VLCCs and 250,000 b/d in Suezmaxes.
 
-*Chart*
+*Chart: Crude Import Volumes Into South Africa by Origin*
+
+*Chart: Crude Imports/Exports Saldanha Bay*
 
 *Source: Lloyd’s List Intelligence*
 

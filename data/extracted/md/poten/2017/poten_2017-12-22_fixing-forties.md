@@ -28,11 +28,11 @@ The shift from short haul moves to long haul exports to Asia has been a great de
 
 The unexpected closure of the pipeline led to a reduction of about 450 Kb/d of light sweet crude from the global market. This initially caused the price of Brent crude oil to increase by about $1.54 from Friday Dec. 8 to Monday Dec. 11 and WTI, another light sweet crude, increased by $0.63 during this period. The Brent-Dubai spread also increased from $3.50 to $4.25, reflecting the perceived shortage of light, sweet crude versus the heavier Dubai variety, making Middle Eastern crudes more attractive.
 
-*Chart*
+*Chart: Hound Point Loadings*
 
 *Source: Lloyd’s List Intelligence*
 
-*Chart*
+*Chart: 2017 Hound Point Exports by Destination*
 
 *Source: Lloyd’s List Intelligence*
 

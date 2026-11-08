@@ -22,7 +22,9 @@ In their latest Monthly Oil Market Report (OMR), the IEA expects that for 2023 a
 
 First, let’s take a look at the major Non-OPEC(+) producers and see how much growth is expected this year and if there may be upside to those projections. By far the largest non-OPEC+ producer is the United States. The IEA expects the US to grow production by 990 Kb/d in 2023. Most of this growth comes from the shale patch. In the past, higher prices would accelerate drilling and quickly bring on more capacity. That is no longer the case. Shale producers are much more disciplined and use higher prices to boost returns for shareholders. They are also facing higher costs and capacity constraints. Industry experts are increasingly suggesting that shale production is nearing its peak. While the IEA does not forecast beyond 2023 in their OMR, the U.S. Energy Information Administration (EIA) projects one year further out. They expect that US production will increase by 1.4 Mb/d in 2023 and 2024 combined. Higher prices, resulting from OPEC+ cutbacks could move some of the projected 2024 production increase into 2023, but given the restrictions mentioned before, the upside from the US seems limited. From a shipping perspective, the growth from the US is encouraging. It far outpaces domestic demand growth and therefore most of the additional production will likely be exported. At some point, the US will have to refill the Strategic Petroleum Reserves. However, US purchases will further tighten the oil markets. Prices have already increased and with no end in sight for the war in Ukraine, the US will be reluctant to embark on a significant SPR replenishment program. Elsewhere in North America, the EIA forecasts that Canadian output will grow 500 Kb/d by 2024, but most of that growth will come in 2024. By then, the Trans Mountain Expansion project should be complete as well, allowing an additional 600,000 b/d of exports from Canada’s West Coast, most likely headed to Asia and USWC.
 
-*Chart*
+*Chart: EIA: Crude Oil Production (Selected Non-OPEC Producers)*
+
+*Chart: EIA: Non-OPEC Oil Production Development*
 
 *Sources: US Energy Information Administration (EIA)*
 

@@ -22,7 +22,9 @@ A review of the main changes in Russian export flows shows that exports to the E
 
 Russia has been successful in finding alternative clients for its refined products. Countries that boosted imports from Russia this year include Turkey, Brazil, Nigeria and Ghana as well as nations in the Middle East (UAE and Saudi Arabia in particular. Some of these countries, like Turkey, Saudi Arabia and the UAE boosted imports as well as exports, which indicates that they benefited from a price arbitrage where they bought discounted Russian refined products and sold their own output at (higher) world market prices. Additional purchases from West African countries may have been driven by the discounted pricing of the products. In 2023, Ghana and Nigeria imported the majority of their refined petroleum products from Russia. In prior years, they imported almost nothing from Russia. Russian product shipments seem to have replaced barrels from the UAE and the United States. Brazil grew its imports from Russia at the same time as it reduced product purchases from the United States, traditionally its largest supplier. Russia’s new customers are located further away than its traditional clientele (Europe) and this also boosted ton-mile demand for product carriers.
 
-*Chart*
+*Chart: Russian Clean Product Exports By Destination*
+
+*Chart: Europe (excl Turkey) Clean Product Imports by Origin*
 
 *Source: Vortexa*
 

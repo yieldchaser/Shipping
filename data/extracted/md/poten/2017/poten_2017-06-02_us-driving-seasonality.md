@@ -24,11 +24,11 @@ In the short-term, further increases in gasoline demand are expected. While aver
 
 While the demand picture looks promising, whether higher gasoline use will translate into more transatlantic product tanker movements into the U.S. East Coast also depends on domestic production and inventories, both of which are also near record levels. U.S. gasoline stocks have been trending up over the last 10 years and currently stand at 68.4 million barrels in PADD 1, at the top of the 5-year range. At the same time, U.S. East Coast refiners are running at high utilization rates (close to 90%), so, barring any unexpected outages, we do not forecast a shortfall in gasoline supplies.
 
-*Chart*
+*Chart: Weekly U.S. Gasoline Sales*
 
 *Source: EIA*
 
-*Chart*
+*Chart: PADD 1 Gasoline Imports: Summer vs Other Months*
 
 *Source: EIA*
 

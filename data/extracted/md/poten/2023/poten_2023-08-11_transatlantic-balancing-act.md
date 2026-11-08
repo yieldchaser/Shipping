@@ -22,7 +22,9 @@ We will focus our analysis on the two main commodities mentioned before: diesel 
 
 Gasoline imports into the U.S. East Coast were less affected by the Russian invasion of Ukraine. Russian gasoline exports to the U.S. disappeared after the conflict, but volumes were already minor prior to the start of the hostilities. Chart 2 shows that Canada is the key gasoline supplier into the U.S. East Coast, with a 25% market share. The close proximity helps their competitiveness. Combined, the major European suppliers of gasoline into the U.S. East Coast (the Netherlands, U.K., Belgium and Italy) represent about one-third (33%) of the seaborne gasoline imports into the U.S. Atlantic Coast. Both Canada’s and Europe’s market share have remained stable over the last 4 years. Gasoline imports into the U.S. are noticeably more seasonal than diesel imports into Europe. Gasoline imports usually pick up in March and start to decline in August/September. The peaks are largely coinciding with the U.S. driving season. While Canadian supplies are generally stable, gasoline volumes from Europe fluctuate more with the seasonal patterns.
 
-*Chart*
+*Chart: European (excl Turkey) Seaborne Diesel/Gasoil Imports by Origin*
+
+*Chart: US PADD1 Seaborne Gasoline Imports*
 
 *Source: Vortexa*
 

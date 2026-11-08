@@ -24,7 +24,9 @@ It appears that the number of Aframax voyages from Malaysia has increased marked
 
 In contrast, export voyages from Indonesia have gradually declined over the last 5 years as Indonesia’s crude oil production has stagnated and increasing domestic demand has limited the potential for exports. In 2016, Indonesia registered an average of 41 Aframax export voyages per month. By 2019, it was down to 39 voyages and in 2021 to date Indonesia has exported less than 37 cargoes per month, a gradual decline.
 
-*Chart*
+*Chart: Aframax Crude Voyages Loading in Asia/Australia By Load Area*
+
+*Chart: Aframax Crude Voyages Loading in Americas, Pacific By Load Country*
 
 *Source: Lloyd’s List Intelligence*
 

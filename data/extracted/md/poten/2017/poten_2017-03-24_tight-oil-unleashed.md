@@ -26,7 +26,9 @@ The combination of lower costs and (since early 2016) increasing oil prices has 
 
 The latest long-term forecast of the EIA projects that U.S. oil production will peak at 10.55 mb/d in 2029, with 6.14 mb/d
 
-*Chart*
+*Chart: U.S. Crude Oil Production*
+
+*Chart: U.S. Exports of Crude Oil*
 
 *Source: EIA*
 

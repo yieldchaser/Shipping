@@ -22,7 +22,9 @@ The tanker industry is highly fragmented and has low barriers to entry. It does 
 
 Is such a low orderbook sustainable? The global pandemic was not kind to tanker owners and their earnings were low or negative in 2021. However, their fortunes turned around in 2022 and earnings rose rapidly. As shipowners accumulated cash, they started to pay off debt, bought back vessels that were on sale-lease backs and (public owners) increased their dividends. The potential for outsized earnings in the Russian trades encouraged new players to enter the market and scoop up secondhand vessels as ever-increasing prices, allowing traditional shipowners to dispose of their older tankers at significant premiums. Now many owners are sitting on a growing pile of cash, and they are evaluating what to do next.
 
-*Chart*
+*Chart: World Orderbook*
+
+*Chart: VLCC: Historical Newbuilding and Second Hand Values 2002-2023*
 
 *Source: Poten & Partners*
 

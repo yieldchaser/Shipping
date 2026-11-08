@@ -22,7 +22,9 @@ Nigeria has been the largest African oil producer since it surpassed Libya in th
 
 Suezmaxes have always been the key export tankers for Nigeria, with 70% market share over the last 5 years. VLCCs move about 27%, with the remainder transported on smaller vessels. The future outlook for Nigerian crude oil exports is rather dim. The country, which is a member of OPEC, produced at a 40-year low in 2022, well below its quota. Frequent sabotage and chronic underinvestment make a quick and sustainable recovery unlikely. The expected startup of the Dangote refinery later this year will have an even bigger impact. Fully operational, this refinery will process 600,000 b/d of crude, most of it expected to come from domestic sources. This will dramatically reduce the availability of barrels for export in 2024 and beyond.
 
-*Chart*
+*Chart: Nigeria Crude Exports by Vessel Class*
+
+*Chart: Angola Crude Exports by Vessel Class*
 
 *Source: Lloyd’s List Intelligence*
 

@@ -24,9 +24,9 @@ Guyana itself receives a portion of the crude oil output as part of the deal wit
 
 As can be seen in chart 1, Guyana’s crude, which is of high quality, has been shipped all over the world, although most of the cargoes remain in the Atlantic Basin (USA, Virgin Islands, Aruba, etc.). Several European oil companies have also taken (trial) cargoes to test the crude in their refineries. The Netherlands, France and Italy have all imported crude from Guyana. Outside the Atlantic Basin, most of the Liza crude seems to end up in China, courtesy of CNOOC, which is a member of the production consortium. However, according to the import statistics of the EIA, cargoes of crude from Guyana also regularly show up on the U.S. West Coast. This crude is most likely shipped via the Trans-Panama pipeline. According to the APEX data from Lloyd’s List Intelligence, the highest volume trade for the Liza crude is from Guyana to Chiriqui Grande in Panama, the location of the Atlantic terminal of the Trans-Panama pipeline. The crude then shipped from the
 
-*Chart*
+*Chart: Crude Oil Exports from Guyana By Destination*
 
-*Chart*
+*Chart: Crude Oil Exports From Guyana By Vessel Class*
 
 *Source: Lloyd’s List Intelligence*
 

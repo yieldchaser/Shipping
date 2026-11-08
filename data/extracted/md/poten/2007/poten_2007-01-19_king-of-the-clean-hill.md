@@ -46,25 +46,25 @@ Aframax
 
 In 2006, the total amount of reported clean spot market Aframax fixtures declined by 9% as compared to 2005. The clean market accounts for only 8% of the total spot market activity concluded on Aframaxes. The largest clean trade for Aframaxes continues to be Arabian Gulf – Far East with 65% of the total reported fixtures. The next largest trade is Arabian Gulf – UK Continent with 14% of the total fixtures.
 
-*Chart*
+*Chart: Aframax*
 
 Panamax
 
 Based on reported fixtures, clean activity accounts for a sizeable percentage of total Panamax fixtures, over 40%. The total amount of reported fixtures in 2006 increased by 35% as compared to 2005. The majority of clean Panamax fixtures are from the Arabian Gulf, but movements from the UK Continent and the Far East also comprise a large percentage of the market. The largest charterer of clean Aframaxes and Panamaxes in 2006 was Vitol, taking the majority of these cargoes from the Arabian Gulf and the Mediterranean
 
-*Chart*
+*Chart: Panamax*
 
 Handymax
 
 Clean activity significantly outweighs dirty activity in the Handymax sector, accounting for 88% of all reported spot fixture activity. There was an increase of 6% in reported spot fixtures from 2005 to 2006. A large percentage, 41% of the Handymax fixtures are bound for the United States, loading primarily in the UK Continent and the Caribbean
 
-*Chart*
+*Chart: Handymax*
 
 Small
 
 The total amount of reported clean spot fixtures increased 9% from 2005. The total number of reported spot fixtures in 2006 was 1,313 with Lukoil as the largest charterer. Most of the activity in this sector occurs in the Mediterranean.
 
-*Chart*
+*Chart: Small*
 
 Less Transparent
 

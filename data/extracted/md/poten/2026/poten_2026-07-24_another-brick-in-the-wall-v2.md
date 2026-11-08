@@ -26,7 +26,7 @@ The situation around the Bab el-Mandeb Strait is not straightforward. The Houthi
 
 Re-routing Saudi crude destined for Asia via the Mediterranean is an option, but it comes with obvious complications. Fully laden VLCCs cannot pass through the Suez Canal because they are draft restricted. That leaves two alternative approaches.
 
-*Chart*
+*Chart: Crude Oil Exports From Yanbu By Destination*
 
 *Sources: EIA, Vortexa*
 

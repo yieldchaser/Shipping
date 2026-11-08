@@ -22,11 +22,11 @@ Last week, just before the World Health Organization declared Omicron a new vari
 
 On Monday, Iran and the remaining parties to the Joint Comprehensive Plan of Action (JCPOA) – China, Russia, France, Germany and the U.K. – restarted negotiations on the possible return of the U.S. to this agreement, which limited Iran’s nuclear activities in return for the lifting of sanctions. The U.S. is (indirectly) participating in the negotiations. Getting the JCPOA back on track will be a tall order and how the negotiations progress in the coming weeks will indicate whether a deal is feasible. If no deal is reached, the door could open to other options which will likely create significant geopolitical tensions in the Middle East. The current situation is not beneficial for the tanker market. Iran’s exports are restricted by the sanctions and as a result, most of its tanker fleet remains inactive or is used for floating storage. The volumes that are smuggled out of the country are transported on a growing fleet of ageing “rogue” tankers that are widely considered a drag on the already depressed tanker market. If a deal is negotiated and the restrictions on Iran’s oil exports are lifted, this could add about 1-1.5 million barrels per day of oil to the market, a boost to the tanker market. This would also render the rogue tanker fleet obsolete and – lacking legitimate other employment opportunities – these tankers may well be retired, providing an additional boost to the market. If the negotiations are not successful (considered the more likely outcome), this would not necessarily mean a return to the status quo. To keep the pressure on the Iranian regime, we expect that the U.S. will step up its enforcement efforts to ensure compliance with the sanctions, making life more difficult for both Iran and the owners of the vessels plying these illegal trades.
 
-*Chart*
+*Chart: Oil Demand/Production and Stock Changes*
 
 *Source: EIA*
 
-*Chart*
+*Chart: Brent Oil Price vs TCE (TD3)*
 
 *Source: Poten & Partners*
 

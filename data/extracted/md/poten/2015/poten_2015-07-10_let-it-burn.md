@@ -26,7 +26,7 @@ In addition to production decreases, fuel oil imports are currently decreasing i
 
 *Source: Poten and Partners*
 
-*Chart*
+*Chart: Top Fuel Oil Exporting Regions Based on Reported Fixtures*
 
 *Source: Poten and Partners*
 

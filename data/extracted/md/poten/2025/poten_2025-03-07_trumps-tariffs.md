@@ -22,7 +22,9 @@ To put matters in perspective, Canada and Mexico are both significant providers 
 
 The vast majority of Canada’s crude oil exports to the U.S. are going via pipelines. This limits the potential to change flows if tariffs are introduced. For example, refiners in the U.S. Midwest are highly dependent on Canadian barrels and producers will likely pass on at least some of the added cost to the buyers. However, there are some seaborne flows that can be redirected if tariffs are introduced and maintained for an extended period of time. Newfoundland and Labrador, located on Canada’s East Coast produce about 250,000 b/d of crude from several offshore fields (Hebron, Hibernia, Terra Nova and White Rose). About 50% of this oil (125,000 b/d) ends up in the U.S., shipped directly or indirectly via the transshipment terminal at Wiffen Head. These barrels can be easily redirected to other destinations in the Atlantic Basin. Another seaborne export outlet for Canadian crude oil is the Westridge terminal in Vancouver, which is connected to the Trans Mountain pipeline. After the Trans Mountain Expansion (TMX) came online in May 2024, seaborne exports from Westridge were boosted from about 50,000 b/d in
 
-*Chart*
+*Chart: U.S. Seaborne Oil Imports From Canada*
+
+*Chart: U.S. Seaborne Oil Imports From Mexico*
 
 *Source: Vortexa*
 

@@ -30,7 +30,7 @@ By 2012, ethanol is projected to contribute about 5 percent volume to gasoline. 
 
 Shown in the graph below is the role of hydrocarbons in relation to the total gasoline supply expected in the next several years.
 
-*Chart*
+*Chart: US Gasoline Supply Expected Hydrocarbon Content*
 
 US Gasoline Supply Expected Hydrocarbon Content
 

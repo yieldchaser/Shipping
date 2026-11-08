@@ -22,7 +22,9 @@ U.S. crude oil exports are driven by a number of factors. The first, most obviou
 
 U.S. tight oil production is currently under pressure. Oil prices have come down as heightened global economic uncertainty resulted in lower demand growth. Recent OPEC+ production increases have added to the downward pressure on crude oil prices. U.S. shale plays are classic examples of short-cycle oil. They can be brought online rapidly, but require constant reinvestment to maintain production levels, which makes them very sensitive to price movements. WTI prices are currently in the $61-$62/barrel range, which is enough to maintain production. While breakeven prices vary considerably by company and geography, current consensus seems to be that if prices fall to the low-mid $50/barrel range, shale producers will be challenged, while prices at $70/barrel or more will encourage more production. If prices stay at current levels, U.S. tight oil production has probably peaked. The EIA, in their latest short-term energy outlook, expects only a small pickup in output later this year 2025, before U.S. crude oil production starts to decline in 2026 (Chart 1). A lot of this will depend on the development of oil prices though.
 
-*Chart*
+*Chart: Change in U.S Crude Oil Production (Compared To Prior Year)*
+
+*Chart: US Gulf Crude Exports by Destination*
 
 *Sources: EIA; Vortexa*
 

@@ -22,7 +22,9 @@ Saudi Arabia’s refining capacity is concentrated on the East and West Coasts o
 
 Let’s start with the exports of refined products. From 2020-2023, Saudi Arabia exported an average of 1.5 Mb/d of refined products. The volumes were lower in 2020 (around 1.3 Mb/d) as the Covid-19 pandemic reduced oil demand, but recovered in 2021. As can been seen in Chart 1, despite some month-to-month fluctuations, export volumes have been fairly stable. Destinations are varied, some are long-haul (China, Singapore, Japan, and various European countries) and some are short-haul (UAE, India and Egypt). Most exports to China are not your typical clean petroleum products. They are mainly chemicals (such as Monoethylene Glycol, Styrene and Acetone) which are most likely transported on chemical/parcel tankers, not regular product tankers. In contrast, Saudi exports to Europe, which is mostly diesel (66%), are utilizing regular Aframax-sized product carriers (LR2s). After invasion of Ukraine and in particular after the EU ban on Russian product imports went into effect, Saudi Arabia boosted its exports to Europe. It appears that Saudi Arabia replaced some of the diesel that Europe could no longer source from Russia. The same is true for fuel oil and refinery feedstocks. These “dirty” products never made it from Saudi Arabia to Europe prior to the conflict, but since May 2022, some 50 Kb/d are now moving on Aframaxes.
 
-*Chart*
+*Chart: Clean Product Exports By Saudi Arabia By Destination*
+
+*Chart: Clean Product Imports By Saudi Arabia By Origin*
 
 *Source: Vortexa*
 

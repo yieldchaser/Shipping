@@ -24,7 +24,7 @@ Oil companies started searching for oil in the late 1950s, but it took until 197
 
 The key to Sudanese oil exports (both Sudan and South Sudan) is the Greater Nile Oil pipeline, which commenced operations in 1999. This pipeline stretches 1,000 miles from the Unity and Helig oil fields in South Sudan to the Bashayer export terminal on the Red Sea, south of Port Sudan. The pipeline is capable of carrying 250,000 b/d, but the fighting in Sudan has caused frequent disruptions. In February of this year, South Sudan declared force majeure on several cargoes, because a rupture of the pipeline halted exports. Repairing the pipeline is difficult, because it runs through territory where the Sudanese army and the RSF are fighting. As a result of the disruption, exports from Bashayer have dropped from 195,000 b/d in January 2024 to 63,000 b/d in April. The government of landlocked South Sudan is evaluating potential alternative pipelines to ports in Djibouti or Kenya, but this would be expensive and take years to build.
 
-*Chart*
+*Chart: Crude Oil Exports From Sudan by Destination*
 
 *Source: Vortexa*
 

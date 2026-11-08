@@ -18,7 +18,7 @@ charts_count: 1
 
 We have reached the middle of the year. It is time to take stock of the fixture volumes in the tanker and see if we can observe any movements in the rankings of the largest dirty spot charterers (yes, Unipec is still on top). The overall volume of reported dirty spot fixtures in H1 2018 was only slightly higher (+0.6%) than in the same period last year (5,401 vs 5,367). However, the volume of cargo that was moved increased by 9%, indicating an underlying trend favouring the utilization of larger vessels (more VLCCs and Suezmaxes).
 
-*Chart*
+*Chart: Top 10 VLCC Spot Charterers*
 
 In the VLCC segment, Unipec continues to be in a league of its own. More reported VLCC fixtures are attributed to the Chinese giant than to the next eight largest VLCC charterers combined. It should be noted though that reported fixture activity does not equal market presence. Charterers with a large controlled fleet and/or a preference for private deals keep a low profile in these rankings. The total number of reported VLCC spot fixtures increased from 1,132 in H1 2017 to 1,190 in H1 2018 (+5.1%).
 

@@ -24,7 +24,9 @@ Compared to the previous administration of Mr. Bolsonaro, the current president,
 
 While Brazil has a sizeable domestic refining industry, oil production has been growing faster than domestic demand and crude oil exports have therefore been on an upward trajectory. Brazil has a strategic location and good port infrastructure and exports its crude oil to a variety of countries, both in the Atlantic Basin as well as in the Pacific (Chart 1). China is by far the most important buyer of Brazilian crude, taking almost 40% of seaborne exports over the last three years (2021-2023). The U.S. is a distant second with 11%. Chile takes 7% and the remainder mostly goes to a variety of countries in Europe and Asia. Europe became a more important customer for Brazilian crude after Russia’s invasion of Ukraine, replacing some of the Russian Urals. Exports to Europe increased from 193,000 b/d in 2021 to 347,000 b/d in 2023, an 80% rise in two years.
 
-*Chart*
+*Chart: Brazil Crude Oil Exports by Destination*
+
+*Chart: Brazil Crude Exports by Vessel Class*
 
 *Source: Vortexa*
 

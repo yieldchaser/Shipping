@@ -22,9 +22,9 @@ The risk of supply disruptions in an already tight market was one of the concern
 
 During the Covid-19 pandemic, global oil demand destruction led to widespread refinery closures and/or plant conversions. As the world recovered from the pandemic, oil demand rebounded, and refining capacity tightened. This boosted refining margins and utilization rates worldwide. Against the backdrop of this already tight refining situation, Russia invades Ukraine. Sanctions against the regime in Moscow further restrict the global availability of refined petroleum products. Not surprisingly, oil prices and refining margins go up even further. Falling global inventories and the product dislocations boost the product tanker market which just had the best quarterly earnings since the storage-induced freight boom of 2020.
 
-*Chart*
+*Chart: Hurricane Impact on Refining and Offshore Crude Production*
 
-*Chart*
+*Chart: U.S. Petroleum Product Exports by Destination*
 
 *Source: EIA*
 

@@ -24,7 +24,9 @@ Turkey halted flows on the pipeline in March 2023, after the International Court
 
 The tripartite agreement between the parties in Iraq calls for the KRG to commit to deliver at least 230,000 b/d to Iraq’s state oil marketer SOMO, while keeping an additional 50,000 b/d for local use. An independent trader would handle sales from Ceyhan. For each barrel sold, $16 would be transferred into an escrow account and be distributed proportionately to the international oil companies that produce the oil. The remainder of the revenue will go to SOMO. The producers are owed about $1 Billion in unpaid arrears, accumulated between September 2022 and March 2023. The oil companies that signed the deal and the Kurdish authorities have agreed to meet within 30 days of exports resuming to work on a mechanism to settling this outstanding debt.
 
-*Chart*
+*Chart: Iraq Crude Oil Exports Via Ceyhan By Destination*
+
+*Chart: Iraq Crude Oil Exports Via Ceyhan by Vessel Class*
 
 *Source: Vortexa*
 

@@ -22,7 +22,9 @@ Tanker orders were modest during 2021 and 2022, which led to the low deliveries 
 
 Tanker contracting activity is highly cyclical and is driven to a large extent by current cashflows and owners’ confidence in future markets. Unfortunately, tanker markets are notoriously hard to predict, and it always takes a leap of faith to commit many millions of dollars to build an asset that will only deliver several years into the future. The benefit of new construction is that shipyards offer installment plans allowing owners to spread out payments. Only a 10-20% payment is usually required upfront. Eye-popping freight rates, for VLCCs in particular, seem to have convinced at least some owners that new tonnage could be a good investment. Other factors that are often quoted are the age profile of the fleet. Limited recycling (scrapping) of older tankers has gradually increased the average age of the fleet, and the rationale is that these ships will eventually have to go. However, many of these older vessels are part of the dark fleet and employed in highly lucrative sanctioned trades. Only a part of this fleet will be recycled when these sanctions are lifted, and the timing of this sanction’s relief is highly uncertain.
 
-*Chart*
+*Chart: Total Tanker Fleet Size vs Orderbook*
+
+*Chart: Tanker Orderbook % vs VLCC 1 Yr TC Rate*
 
 *Source: Multiple Sources*
 

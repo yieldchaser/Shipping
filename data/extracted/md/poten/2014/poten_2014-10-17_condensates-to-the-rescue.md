@@ -34,7 +34,7 @@ Processed oil products such as gasoline and diesel can be legally exported from 
 
 *Source: IEA*
 
-*Chart*
+*Chart: Main US Condensate Growth Areas*
 
 *Source: APEC*
 

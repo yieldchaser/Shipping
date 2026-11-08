@@ -30,7 +30,9 @@ We expect that a ceasefire will be achieved in 2025 as President Trump will pres
 
 The Chinese economy went through a rough period in 2024. China’s GDP growth decelerated through 2024. The slowdown was driven by a downturn in the real estate sector, which also impacted consumer demand and private investment. GDP growth missed the government target of 5%. China’s crude oil imports in 2024 fell by an estimated 210,000 b/d, partly due to the economic headwinds, but also as a result of the increasing adoption of electric vehicles and the switching of trucking to natural gas from diesel. These developments are here to stay and even if China’s economy recovers, we expect that oil demand will continue to stagnate.
 
-*Chart*
+*Chart: Iranian Crude Oil Exports by Destination*
+
+*Chart: Crude Tanker Spot Rates (Selected Routes, HSFO)*
 
 \4. Iranian exports will decline from their recent highs
 

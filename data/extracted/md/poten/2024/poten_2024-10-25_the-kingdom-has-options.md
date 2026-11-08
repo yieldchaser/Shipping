@@ -16,7 +16,9 @@ charts_count: 2
 
 OK
 
-*Chart*
+*Chart: Saudi Arabia (AG) Crude Oil Exports by Destination*
+
+*Chart: Saudi Arabia (Red Sea) Crude Oil Exports by Destination*
 
 *Source: Vortexa*
 

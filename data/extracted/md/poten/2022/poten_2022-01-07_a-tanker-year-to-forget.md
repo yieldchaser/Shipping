@@ -18,11 +18,11 @@ charts_count: 3
 
 It would be an understatement to say that 2021 was a disappointing year for the tanker market. The recovery that many pundits expected did not materialize and average dirty tanker rates fell to multi-decade lows. The tanker malaise was primarily due to an oversupply of vessels in the face of a tepid increase in demand. We can see that in the rankings table. The cargo volume in 2021 was virtually unchanged from 2020. This is not good, since 2020 was 16% below 2019. Our data showed a marked difference in activity between the segments: VLCCs were down 200 spot fixtures (-9%) versus last year, Suezmax activity was about the same, while there was a noticeable pickup in reported Aframax fixtures (+189 or 6%). The main players did not change: 19 of the top 20 charterers were on the list last year, Hyundai was the only newcomer.
 
-*Chart*
+*Chart: Top 10 VLCC Spot Charterers*
 
 To nobody’s surprise, Unipec remains on top of the VLCC (and overall) rankings. With almost 700 reported fixtures, compared to 97 for the No. 2 and 70 for the No. 3 (IOC and Shell respectively), Unipec remains in a league of their own. Hyundai was a new entry in the top 10 and Bahri dropped out.
 
-*Chart*
+*Chart: Top 10 Suezmax Spot Charterers*
 
 The Suezmax sector showed significant movement in the relative rankings. Petrobras jumped from 7th in 2020 to 1st, a remarkable achievement. Petrobras was not even in the top
 
@@ -56,7 +56,7 @@ Source: Poten & Partners
 
 10 in 2019. Indian charterers IOC and BPCL, who typically feature near the top of the Suezmax rankings are now absent. IOC moved from 4th to 2nd in the VLCC rankings, so they may have replaced some Suezmaxes with VLCCs last year. In 2021 we recorded 2,130 Suezmax spot fixtures (2020: 2,124).
 
-*Chart*
+*Chart: Top 10 Aframax Spot Charterers*
 
 Vitol remained No. 1, while BP and Shell switched places on top of the rankings in the Aframax segment. Glencore dropped out of the top 10, making room for Aramco. The total number of reported Aframax spot fixtures increased 6% in 2021 to 3,451 fixtures.
 

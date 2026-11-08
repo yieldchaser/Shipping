@@ -24,7 +24,7 @@ At first glance, the picture looks bleak for the crude oil tanker industry: lowe
 
 There are a few glimmers of hope for tanker owners in the BP outlook. Firstly, they expect that U.S. shale will rebound from Covid-19 and take market share from OPEC until the early 2030s, when shale oil peaks. More crude from Guyana and Brazil will support non-OPEC production. More crude produced in the Atlantic Basin with demand growth continued to be concentrated in the Pacific bodes well for ton-mile demand.
 
-*Chart*
+*Chart: Liquid fuels consumption*
 
 *Source: BP*
 

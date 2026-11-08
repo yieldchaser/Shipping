@@ -24,9 +24,11 @@ Why did the UK not follow the EU, as they previously intended to do? Maybe the U
 
 The EU itself also tweaked its sanctions to allow European companies to transact with certain Russian state-owned entities, including Rosneft, Russia’s largest oil producer and exporter. The EU will allow European entities to get involved in the transportation of Russian oil to third countries, “to avoid any negative consequences for global energy security”. While this seems like a significant reversal, the insurance ban stays in place. To quote the Norwegian P&I Club Skuld: “Therefore, whilst a shipowner subject to the jurisdiction of the Regulation may be able to lawfully transport the products, an insurer subject to its jurisdiction will not be able to insure that trade. Most of the clubs that comprise the International Group (IG) are subject to the jurisdiction of the EU. All IG Clubs, including those that are domiciled outside the territory of the EU, rely on a reinsurance program that is heavily dependent on the participation of reinsurers that are domiciled within the EU.” So, maybe the UK reluctance and the EU relaxation of sanctions will not really impact the effectiveness of the sanctions?
 
-*Chart*
+*Chart: All Exports By Discharge Region - Loading in Russian Federation*
 
 *Source: Lloyd’s List Intelligence*
+
+*Chart: Suezmax & Aframax TCE's (Scrubber Equipped)*
 
 *Source: Poten & Partners*
 

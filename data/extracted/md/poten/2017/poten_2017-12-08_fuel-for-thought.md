@@ -24,9 +24,9 @@ However, there are still a number of greenfield refineries that are expected to 
 
 One would expect that the pace and the location of refinery investments will follow oil demand growth and this is generally the case. The majority of refinery investments in recent years and plans for the future are expected to take place in developing countries, but the level and timing of these investments is influenced by oil prices. According to data from OPEC’s World Oil Outlook 2017, refining additions were relatively stable from 2013-2015 at 1.2-1.3 Mb/d per annum. In 2016, growth dropped sharply to 0.85 Mb/d as companies responded to the oil price drop and reduced cashflow with a cut in investments. There was a recovery in 2017 to 1.1 Mb/d. For 2018, OPEC expects that the world will add 0.8 Mb/d, followed by an expected bump of 1.7 Mb/d in 2019 from delayed projects. Unlike earlier years when expansion was concentrated in the Middle East and China, refining growth in 2018 appears to be more balanced throughout the world. Growth of only 0.1 Mb/d in the Middle East and China, with 0.2 Mb/d of expansion in the U.S. and Canada.
 
-*Chart*
+*Chart: 2018 Distillation Capacity Additions by Region*
 
-*Chart*
+*Chart: Distillation Capacity Additions vs Total Projects Investments*
 
 *Source: OPEC*
 

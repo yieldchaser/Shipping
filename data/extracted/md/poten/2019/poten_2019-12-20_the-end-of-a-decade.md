@@ -22,11 +22,11 @@ In the early 2000’s, the tanker market was still dealing with the phase-out of
 
 The tanker market started the second decade with a hangover. Global oil demand declined in both 2008 and 2009 due to the economic recession. At the same time, shipyards kept delivering vessels that owners ordered 3-4 years earlier. The resulting oversupply of tanker capacity stayed with the industry through most of the decade. Not surprisingly, tanker rates were habitually depressed except for a few periods of relief (in 2010 and 2015). The single-hull versus double-hull debate was (briefly) replaced with a discussion about ECO (fuel efficient) versus non-ECO ships, helped by the fact that oil prices reached well over $100/barrel in the period 2011-2014. With bunker prices (for HSFO) at $700/MT, it is no surprise that shipowners were taking an interest in more fuel-efficient ships. This incentive all but disappeared when oil (and bunker) prices collapsed in 2015. While Chinese oil demand growth was the storyline for the early 2000’s, the second decade was dominated by rapid U.S. oil supply growth as a result of the shale oil boom. After U.S. exports started in earnest in 2016, global supply/demand balances changed dramatically and tradeflows shifted.
 
-*Chart*
+*Chart: Freight Rates (VLCC: AG-Japan)*
 
 *Source: Poten & Partners*
 
-*Chart*
+*Chart: Brent Crude Oil Price*
 
 *Source: EIA*
 

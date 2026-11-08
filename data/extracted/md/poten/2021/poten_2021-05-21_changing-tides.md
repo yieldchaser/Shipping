@@ -36,7 +36,7 @@ Global oil demand has almost consistently grown since the mid 1980’s, with onl
 
 *Source: IEA*
 
-*Chart*
+*Chart: Oil and Natural Gas Production in Net Zero Emissions Scenario*
 
 *Source: IEA*
 

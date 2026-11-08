@@ -18,11 +18,11 @@ charts_count: 3
 
 It is that time of the year again. We just passed the mid-year point for 2016 and we have taken stock of the spot market activity in the dirty tanker market to see if there are any significant movements in the rankings of the top charterers relative to full-year 2015. Spoiler alert! Nothing (much) has changed. The top seven charterers are exactly the same as last year. Unipec is still on top and even expanded its lead slightly (from 13.4% of the total in 2015 to 13.8% in 2016 YTD). Not surprisingly, the leading charterers hail from China (Unipec, Petrochina), India (IOC, Reliance), complemented by the super-majors and the leading traders. As a reminder, these rankings are all based on reported spot fixtures.
 
-*Chart*
+*Chart: Top 10 VLCC Spot Charterers*
 
 In the VLCC segment, Unipec continues to be the dominant spot charterer with 258 reported fixtures, equivalent to the volume of the next five largest combined! Bahri remains a significant player in the VLCC market and its listing as No. 4 in the ranking of reported spot market fixtures is not a correct reflection of their real influence in the large vessel segment.
 
-*Chart*
+*Chart: Top 10 Suezmax Spot Charterers*
 
 In the Suezmax segment the traditional oil majors still rule, with all the majors that are remaining of the original “Seven Sisters” (Chevron, Shell, BP and ExxonMobil) represented in the top 10. Chevron continues to lead the pack, followed by
 
@@ -56,7 +56,7 @@ Source: Poten & Partners
 
 Repsol (2nd) and Unipec (3rd).
 
-*Chart*
+*Chart: Top 10 Aframax Spot Charterers*
 
 International oil traders are the best represented in the Aframax segment. Vitol maintains the lead, while 2nd placed ST Shipping has moved up the ranks (up from 5th in 2015). Trafigura also improved their position relative to last year (from 9th to 6th).
 

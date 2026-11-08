@@ -30,7 +30,7 @@ How much crude can the U.S. eventually export? In addition to export infrastruct
 
 *Source: Bloomberg*
 
-*Chart*
+*Chart: EIA Crude Export Scenarios*
 
 *Source: EIA, September 2015*
 

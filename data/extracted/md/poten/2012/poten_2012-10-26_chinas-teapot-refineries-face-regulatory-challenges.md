@@ -16,7 +16,7 @@ charts_count: 2
 
 China’s independent petroleum refining industry comprises an estimated one-fifth of the nation’s nameplate capacity – or some 2 mbpd. Many of these independent plants China trying to have a capacity of around 40 kbpd (2 mtpa) or less, and are typically referred to rationalize refinery capacity growth, but… pejoratively as “teapots.” These small refineries fell into the cross-sights of Beijing’s regulators a few years ago, as they sought to rein in an industry segment whose growth had overheated. To cool this segment, China’s economic planners mandated the …teapots challenging closure of dozens of teapot refineries with a capacity less than 2 mtpa by the end of Beijing 2013. It now seems, however, that owners of some of these plants are planning to boost their capacities above this threshold as a means of continuing operation.
 
-*Chart*
+*Chart: China Refinery Capacity and Utilization*
 
 *Source: Poten & Partners, Various*
 
@@ -42,7 +42,7 @@ For tanker owners bringing feedstocks – fuel oil and some crude oil – into t
 
 poised to change. As the chart on the following page illustrates, fuel oil movements from the Caribbean to the Far East and South East Asia were more prevalent in the past than they are now even though China continues to import sizeable quantities of this Weaning Off Fuel Oil product. This recent shift in fixtures may allude to teapot refinery economics now favouring the upgrading crude oil or fuel oil from other areas.
 
-*Chart*
+*Chart: VLCC Caribs-East Fixtures*
 
 *Source: Poten & Partners*
 

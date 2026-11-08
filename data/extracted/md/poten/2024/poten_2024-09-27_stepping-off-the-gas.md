@@ -16,7 +16,9 @@ charts_count: 2
 
 OK
 
-*Chart*
+*Chart: US Gulf Gasoline Exports by Destination*
+
+*Chart: US Atlantic Coast Gasoline Imports by Origin*
 
 *Source: Vortexa / Poten & Partners*
 

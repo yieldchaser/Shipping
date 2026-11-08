@@ -24,7 +24,9 @@ Chart 1, depicting global VLCC ton-mile demand by load area illustrates some of 
 
 What are the expectations for these markets going forward? As one would expect, there are a lot of moving parts. In the short-term, global oil demand growth will be the most important driver. Most forecasters expect demand growth to be rather anaemic, in the 1-1.5 million b/d range for 2024 and 2025. However, for ton-mile demand, the distances are just as important. As mentioned before, growth in U.S. exports have been a key component of ton-mile demand growth. This could be less of a factor in the coming years, as U.S. production and export growth are expected to slow. The startup of the Trans Mountain Expansion pipeline in Q2 of 2024 may also reduce the Canadian barrels available for export in the U.S. Gulf and could affect long haul imports into the US West Coast. Over the longer term, the focus of oil demand growth in Asia is expected to switch from China to India. This is not favourable for VLCC demand growth: China imports 74% of its crude oil on VLCCs, while India relies more on Suezmaxes and Aframaxes. India imports only 39% of its crude on VLCCs. Since India is located right next to the Middle East, the ton-mile impact is even greater.
 
-*Chart*
+*Chart: Global VLCC Ton Mile Demand By Load Area*
+
+*Chart: VLCC (w. scrubber) TCE (270 Kt AG-FE)*
 
 *Sources: Vortexa / Poten & Partners*
 

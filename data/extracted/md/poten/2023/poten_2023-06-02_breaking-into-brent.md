@@ -22,11 +22,11 @@ The price of Brent is critically important in the global oil market as it is the
 
 Growing exports of crude oil from the US Gulf combined with the fact that WTI Midland is similar in quality to North Sea crudes, made this grade an attractive candidate to add to the dwindling Brent volumes. However, Platts needed to solve the location issue. While Dated Brent is priced FOB, WTI cargoes are priced CIF (Cost, Insurance, Freight) Rotterdam. To address the different basis, Platts developed a WTI Midland Freight Adjustment Factor. This means that the price of WTI Midland that will be used in the Brent basket, will be calculated by deducting the freight cost for a North Sea to Rotterdam voyage from the WTI Midland price in Rotterdam, so that the freight is equivalent to a cargo shipped from the North Sea. For this calculation, Platts is using the freight cost of a 700,000-barrel Aframax cargo.
 
-*Chart*
+*Chart: Aframax Freight Rates: 70,000t USG - UKC (Eco / Scrubber)*
 
 *Source: Poten & Partners*
 
-*Chart*
+*Chart: WTI - Brent Spread*
 
 *Source: EIA*
 

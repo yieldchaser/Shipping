@@ -24,7 +24,9 @@ High newbuilding prices are a factor as well. The last VLCC that was ordered 14 
 
 The biggest overarching factor keeping tanker owners away from the shipyards is uncertainty about the future. In previous cycles, owners could always feel comfortable that, as long as they could ride out the lean years, the market would eventually recover. Over the long-term, oil and ton-mile demand growth could be taken for granted and the market would always grow itself out of trouble. That is no longer the case. Regulations to reduce emissions in the shipping sector will have an impact on the efficiency of new and existing tonnage and the future profitability of the sector is more uncertain. On top of that there is the general expectation that global oil demand (and its transportation) will likely peak within the next 10-20 year. For a shipowner, that is not a strong incentive to invest in an asset that has a 25 year life. Especially, if (in the case of a VLCC) it is 28% more expensive than last year and you won’t get it delivered for at least another 2 years.
 
-*Chart*
+*Chart: Quarterly Tanker Ordering*
+
+*Chart: World Orderbook*
 
 *Sources: Poten & Partners, Lloyd’s List Intelligence*
 

@@ -16,9 +16,11 @@ charts_count: 2
 
 EIA
 
-*Chart*
+*Chart: Change in Value of Oil Exports By OPEC Countries*
 
 *Source: OPEC*
+
+*Chart: Ton-Mile Demand Related to OPEC Crude Exports*
 
 *Source: Lloyd’s List Intelligence*
 

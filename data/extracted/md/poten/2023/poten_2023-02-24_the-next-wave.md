@@ -26,7 +26,9 @@ Where did all this extra crude go? The short answer is Europe. After Russia inva
 
 An unexpected development for the tanker market was that a significant portion of the additional U.S. barrels to Europe were moved on VLCCs. As is illustrated in Chart 2, VLCC movements from the U.S. Gulf to Europe were relatively rare prior to 2022. After the invasion, this changed quickly. Virtually all the additional sales to Europe were done on VLCCs. What was the reason for this change, and will this persist or is it likely to be temporary? There are a number of reasons for this development. First, because Russia exports its crude primarily on Aframaxes and Suezmaxes (its terminals cannot load VLCCs), ton-mile demand and rates for these tanker segments increased dramatically in the aftermath of the invasion. This made VLCCs relatively cheap, both on a $/barrel and on an absolute basis.
 
-*Chart*
+*Chart: Seaborne Crude Exports from United States of America*
+
+*Chart: US Gulf Crude Exports by Vessel Class To Europe*
 
 *Sources: Lloyd’s List Intelligence*
 

@@ -30,7 +30,9 @@ This prediction was partially correct, but mostly wrong. We expected that Presid
 
 The Chinese economy in 2025 was not significantly different from 2024. The challenges in the property sector persisted and China’s economy stagnated amid significant trade tensions with the United States. Demand for transportation fuels continued to decline. However, Chinese crude oil imports remained robust among heavy stock building by Chinese refiners. This did provide support to the tanker market, although imports from Iran, Russia and Venezuela primarily utilize the dark fleet.
 
-*Chart*
+*Chart: Iranian Crude Oil Exports by Destination*
+
+*Chart: Crude Tanker Spot Rates (Selected Routes, HSFO)*
 
 \4. Iranian exports will decline from their recent highs
 

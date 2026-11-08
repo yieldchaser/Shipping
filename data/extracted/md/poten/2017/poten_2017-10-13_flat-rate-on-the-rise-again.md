@@ -28,7 +28,7 @@ The flat rate calculations are based on a standard vessel with a cargo intake of
 
 As stated earlier, voyage costs included in the calculation are port costs, canal costs and bunkers. Port and canal costs are typically relatively constant; volatility is mainly caused by exchange rates. Bunkers represent often a larger cost and are usually more volatile. The Worldscale Association uses the average bunker costs from the beginning of October of the prior year to end September of the current year to establish the bunker cost assumptions for the calculations.
 
-*Chart*
+*Chart: 3.5% Sulfur HFO Bunker Prices and WS Average*
 
 *Sources: Ship&Bunker, Bunkerworld, Worldscale*
 

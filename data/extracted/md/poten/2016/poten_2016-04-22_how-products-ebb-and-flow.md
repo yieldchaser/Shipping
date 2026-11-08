@@ -30,7 +30,7 @@ JODI data for gasoil/diesel shows continued steady growth in imports from 2008 t
 
 *Source: BP*
 
-*Chart*
+*Chart: Global Product Demand History and Outlook*
 
 *Source: IEA*
 

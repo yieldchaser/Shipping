@@ -22,7 +22,9 @@ Figure 1 clearly shows the significant decline in global oil demand in the first
 
 The outlook for 2023 is for growth to resume. The EIA and the IEA both expect 2.1 million barrels per day (Mb/d) oil demand growth next year, while OPEC forecasts 2.7 Mb/d more demand. Where is all this new oil going to come from. The OPEC+ countries have indicated that they don’t have much spare capacity (only Saudi Arabia and the United Arab Emirates can boost production) and many producers are struggling to even meet their current quota. Currently, OPEC+ produces 2.7 Mb/d below its official target. Therefore, it is Non-OPEC production that needs to pick up the slack. The IEA expects more output from the U.S., Canada, Brazil and Guyana to make up for most of the additional oil that is needed. OPEC+ output is expected to remain flat or slightly down as increases in core OPEC are not expected to compensate for the declines in Russian production.
 
-*Chart*
+*Chart: Global Oil Demand vs 2019*
+
+*Chart: Non-OPEC Crude Oil Supply vs 2019*
 
 *Source: IEA, EIA, OPEC*
 

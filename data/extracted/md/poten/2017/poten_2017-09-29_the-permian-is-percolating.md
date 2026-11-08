@@ -22,11 +22,11 @@ There are several factors that are contributing to the change in fortunes for U.
 
 The Permian Basin has benefited the most from productivity gains since 2014 and is now (by far) the most productive shale basin in the U.S. Since January 2015, production has grown from a little over 1 mb/d to more than 1.9 mb/d. Over the same time period, output from most of the other large basins has remained largely flat (Bakken) or declined (Eagle Ford). The Permian also has the most room to grow, with most analysts pegging the recoverable resources in this basin in the range of
 
-*Chart*
+*Chart: U.S. Light Tight Oil Production*
 
 *Source: EIA*
 
-*Chart*
+*Chart: U.S. Crude Oil Exports*
 
 *Source: EIA*
 

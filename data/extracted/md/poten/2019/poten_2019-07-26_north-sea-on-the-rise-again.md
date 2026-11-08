@@ -22,11 +22,11 @@ Norwegian state oil company Equinor, which is the operator of the field, describ
 
 Exports from the North Sea have been traditionally dominated by Aframax tankers as a result of the short-haul nature of most export trades. About 80% of North Sea crude stays in the UKC/Baltic area with the Netherlands and the U.K. the top two recipients. Other destinations in the Atlantic such as the Mediterranean receive relatively small volumes of North Sea crude. Italy is the most significant customer in the Med, taking in about 100,000 b/d. The United States used to be a major importer of North Sea crude, routinely taking 300-500,000 b/d each from both Norway and the U.K in the early 2000s. The rapid decline in North Sea production from 2000-2011, combined with the U.S. shale revolution from 2012 onwards reduced U.S. imports of North Sea crude to a relative trickle. While Aframaxes and (to a lesser extent) Suezmaxes dominate North Sea shipments to destinations in the Atlantic Basin, the volumes that are shipped to Asia are predominantly moved on VLCCs. China and South Korea are the main customers. Chinese charterers take an average of 3 VLCCs per month from the North Sea. South Korea is the second largest Asian importer of North Sea crude. This is partially due to a favorable system of freight rebates that the South Korean government put in place to reduce the dependence of the country on Middle Eastern imports.
 
-*Chart*
+*Chart: Crude Oil Production (Norway & UK)*
 
 *Source: IEA*
 
-*Chart*
+*Chart: North Sea Volumes Loaded by Vessel Class*
 
 *Source: Lloyd’s List Intelligence*
 

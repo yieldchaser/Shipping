@@ -24,7 +24,9 @@ European diesel demand peaked in 2017 at 6.5 million barrels per day (Mb/d), and
 
 The European diesel market has also been impacted by the war in Ukraine. Russia was a major source of diesel for Europe (see chart 1), supplying almost 50% of all imports. The sanctions against the Kremlin eliminated this short-haul supply of competitively priced diesel, leading to major price increases after the invasion. Since Europe remained structurally short diesel, other suppliers, such as the United States and Saudi
 
-*Chart*
+*Chart: Europe (excl Turkey) Diesel/Gasoil Imports by Origin*
+
+*Chart: Europe-US Gasoline Trade vs US-Europe Diesel/Gasoil Trade*
 
 *Source: Vortexa/Poten & Partners*
 

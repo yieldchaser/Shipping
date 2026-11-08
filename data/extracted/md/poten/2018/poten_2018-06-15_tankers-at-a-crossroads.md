@@ -16,9 +16,11 @@ charts_count: 2
 
 EIA
 
-*Chart*
+*Chart: Change In Ton Mile Demand by Load Area*
 
 *Source: Lloyd’s List Intelligence*
+
+*Chart: Change In Ton Mile Demand by Discharge Area*
 
 *Source: Lloyd’s List Intelligence*
 

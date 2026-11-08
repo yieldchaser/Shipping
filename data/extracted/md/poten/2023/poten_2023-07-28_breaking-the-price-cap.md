@@ -22,7 +22,9 @@ Since the start of the conflict in Ukraine, Russian trade flows have changed sig
 
 A review of the export voyages that originate in Russia’s Western ports (Baltic, Black Sea and Murmansk) in 2023 to date, show that more than 100 shipowners were involved in these trades, i.e. did at least perform one voyage. However, this business is highly concentrated. The top 10 owners in this trade did more than 50% of all the voyages (314 out of 605), while the bottom 64 owners did only one or two voyages each. Companies like Sun Ship Management (who manages the former Sovcomflot fleet from Dubai) and India’s Gatik have been identified as key participants in this trade, in addition to Greek maverick owner George Economou, who controls Cardiff Marine and TMS Tankers.
 
-*Chart*
+*Chart: Urals Crude Oil Price*
+
+*Chart: Russian Seaborne Exports from Western Ports*
 
 *Sources: Investing.com; Vortexa*
 

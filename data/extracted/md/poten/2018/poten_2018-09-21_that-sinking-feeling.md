@@ -24,9 +24,9 @@ So far, the threat of sanctions has been very effective. As the first graph illu
 
 The question for the coming months is how much further exports will decline and which countries will replace the lost output. Many European companies have decided to cut imports as the threat of U.S. sanctions against their U.S. operations or their payment streams outweighs the benefit of buying Iranian crude, even though some European governments would prefer to continue trading with Iran to maintain the original agreement. Chinese oil purchases from Iran could get wrapped up in the ongoing trade dispute between the U.S. and China. According to press reports, Japanese refiners have decided to temporarily halt Iranian crude oil imports. Japan has imported about 115 Kb/d to date in 2018. Indian imports from Iran are expected to decline substantially as most Indian refiners have already announced cuts or stopped importing altogether. Saudi Arabia, Iran’s neighbor across the AG, is seen as the most likely replacement of Iranian oil as it has spare capacity that could be brought to market relatively quickly.
 
-*Chart*
+*Chart: Iranian Crude Oil Exports by Destination*
 
-*Chart*
+*Chart: Iranian Short Term Floating Storage*
 
 *Source: Lloyd’s List Intelligence*
 

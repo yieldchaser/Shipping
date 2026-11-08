@@ -24,11 +24,11 @@ Rapidly changing bunker prices could also distort earnings. The TCE’s that are
 
 The main underlying reasons for the weak start of the year are clear: low tanker demand combined with too many ships. Oil and tanker demand will remain challenging, at least through the first half of 2021 and maybe longer. In many countries, the pandemic is worse than it has ever been and some governments (re)instated travel restrictions, dampening oil demand. While several vaccines have been approved and production is starting to ramp up, the rollout of the vaccine is much slower than anticipated. Oil demand is still 4-6 million b/d below pre-pandemic levels and analysts don’t expect global oil demand to return to 2019 levels until sometime in 2022. Air travel in particular is still well below “normal’ levels and it is not certain when it will come back. Some of the changes in how and where people work and how they communicate (a move from in-person to virtual/on-line) that were brought on by Covid-19 could be permanent, leading to lower oil demand growth. We expect oil demand growth to be fairly slow in the first half of 2021, with possible acceleration in the second half of the year. Oil supply may not come to the rescue of the tanker market, as OPEC+ remains remarkably disciplined, and non-OPEC producers have limited spare capacity to bring to market. An additional negative for the tanker market remains the overhang of floating storage. The number of vessels utilized for crude oil and refined product storage has declined gradually since it reached a peak in the summer of 2020, leading. The release of floating storage cuts back transportation demand and adds tonnage to the market.
 
-*Chart*
+*Chart: VLCC: AG - FE*
 
 *Source: Poten & Partners*
 
-*Chart*
+*Chart: Crude & Dirty Products: TonMiles (2020 vs 2019)*
 
 *Source: Lloyd’s List Intelligence*
 

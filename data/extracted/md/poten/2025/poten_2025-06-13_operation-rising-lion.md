@@ -24,7 +24,9 @@ Iran does have options to retaliate. They could try to close the Strait of Hormu
 
 In the immediate aftermath of the Israeli attacks, both oil prices and tanker rates moved up. This was to be expected and is a normal reaction to a spike in geopolitical tensions and an increased risk of significant disruptions to global energy supplies. Where oil prices will go over the next few days and weeks, will depend on whether there will be actual disruptions to oil supply. Overall, the global oil markets are well supplied, and inventories are at healthy levels worldwide. Iranian supplies are increasingly at risk however. Even before Israel’s attack, most oil market forecasts, already assumed a decline in Iranian production over the coming months, leading to a decrease in Iran exports of around 400-500 kb/d. This figure will likely increase if the conflict escalates. Chinese independent refiners, which buy almost all Iran’s oil, will need to look for alternative sources of crude, they could try to buy more discounted crude from Russia or look for alternative barrels in the Middle East.
 
-*Chart*
+*Chart: Crude Oil & Condensate Exports From AG By Origin*
+
+*Chart: VLCC AG-FE TCE vs Brent Price*
 
 *Source: Vortexa; Poten & Partners*
 

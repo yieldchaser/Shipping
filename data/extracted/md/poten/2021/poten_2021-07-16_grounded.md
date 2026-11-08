@@ -22,9 +22,11 @@ There are big discrepancies in how jet fuel demand developed between OECD versus
 
 The situation in OECD countries is quite different, especially in North America and Europe. In the U.S., air travel is recovering relatively fast, although U.S. flight departures in June remained 18% below 2019 levels (domestic flights: -13%, international flights: -45%). Jet fuel demand in the U.S. was 440 Kb/d in June, 24% below the same month in 2019. The outlook for the summer appears promising with pent-up travel demand supported by a reopened economy, large accumulated savings and fiscal stimulus. The situation in OECD Europe is broadly similar, although several countries have reintroduced restrictions due to rising infections. We have to monitor the situation to see if this will reduce European jet fuel demand again in the coming months. Many of the OECD countries in
 
-*Chart*
+*Chart: Total Number of Commercial Flights (Tracked by FlightRadar24)*
 
 *Source: FlightRadar24*
+
+*Chart: OECD Jet Fuel & Kerosene Demand*
 
 *Source: IEA*
 

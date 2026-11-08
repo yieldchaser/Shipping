@@ -18,11 +18,11 @@ charts_count: 3
 
 As we have reached the end of the first half of 2020, it is good to take stock of this unprecedented year so far. As you will see in the below charts and table, many rankings have stayed the same, but the unusual oil and tanker markets of this year have led to some interesting changes. Not surprisingly, given the massive hit to global oil demand, the overall volume of reported dirty spot fixtures in 1H 2020 declined compared to the same period of 2019 (from 4,623 to 4,305), a reduction of 7%. The overall spot cargo volume declined by 3%, indicating that the average cargo size increased relative to last year.
 
-*Chart*
+*Chart: Top 10 VLCC Spot Charterers*
 
 In the VLCC segment, the interesting development is not who’s on first (Unipec), but the appearance of Bahri in the top 10 of reported spot fixtures. The massive number of spot market fixtures that the Saudi owner concluded in March and April in support of Saudi Arabia’s production surge, propelled them to 5th in the rankings. Another notable mover was Petrobras, which moved up from 5th to 2nd in VLCCs. In the overall rankings, the Brazilian major moved from 23rd to 12th.
 
-*Chart*
+*Chart: Top 10 Suezmax Spot Charterers*
 
 In the Suezmax segment, it is largely the usual suspects that make up the top 10, albeit in a somewhat different order. Compared to the same period last year, ExxonMobil moved to the top spot, replacing Shell, which comes in 2nd this year. New entrants in the top 10 are Petrobras (again) and Vitol.
 
@@ -56,7 +56,7 @@ Source: Poten & Partners
 
 Lukoil and Total, which were still in the top of the rankings back in 1H 2019, have been pushed out of the top 10. The number of reported Suezmax spot fixtures in 1H 2020 (1,055) was 19% lower than in 1H 2019 (1,305).
 
-*Chart*
+*Chart: Top 10 Aframax Spot Charterers*
 
 In the Aframax segment, Vitol, Shell and Unipec maintained their position on top of the rankings. The other major oil companies and traders make up the rest of the rankings. The number of reported Aframax spot fixtures decreased in 1H 2020 to 1,637, down from 1,829 in 1H 2019 (-10%).
 

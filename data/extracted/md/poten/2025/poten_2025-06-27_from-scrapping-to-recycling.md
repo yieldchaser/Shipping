@@ -22,7 +22,9 @@ The HKC applies to all ships over 500 Gross Tons. Under the new regulations, shi
 
 Since these new regulations have been in the works for 16 years, shipowners and recycling yards have had time to prepare and become compliant. Many yards in countries such as Bangladesh, India and Turkey are compliant and have accredited facilities, while others (like in Pakistan) are working towards accreditation. There are some potential complications. At this point only 24 flag states representing approximately 60% of the world’s merchant fleet by gross tonnage has ratified the HKC. Flag states that have not (yet) signed up, such as China, the United States, Greece and Singapore, may not follow the same procedures. There is also the issue of alternative and competing regulations. There are two other related international efforts with respect to ship recycling, the EU Ship Recycling Regulation (EU SRR) and the Basel Convention (BC) in 1998. The EU passed the EU SRR in 2013, and it is basically the HKC plus additional requirements for vessels from EU member states. The Basel Convention was designed to control the movement of hazardous waste generally between countries and, in particular, from more developed countries to less developed countries. Vessels are not considered hazardous waste by the Basel Convention, but vessels being transported for recycling are. In the context of this opinion, it goes too far to explain these regulations in detail. However, there are differences, which means that end-of-life ships that are in full compliance with HKC, risk being detained in ports for violating the BC. It is important that these rules are aligned and streamlined so the HKC can reach its full potential.
 
-*Chart*
+*Chart: Tanker Fleet Removal History*
+
+*Chart: Tanker Recycling Prices*
 
 *Source: Poten & Partners*
 

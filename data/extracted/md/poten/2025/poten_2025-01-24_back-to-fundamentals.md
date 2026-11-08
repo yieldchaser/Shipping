@@ -20,7 +20,9 @@ In recent years, the narrative in the oil and tanker markets has focused mostly 
 
 In terms of oil supply and demand, 2024 was a rather disappointing year. According to the U.S. Energy Information Administration (EIA), global oil demand increased by 0.92 Mb/d last year, a significant slowdown from the 2.36 Mb/d expansion in 2023. The main reason for the slowdown in global demand growth was Asia, and in particular China. Asian oil demand grew by 1.72 Mb/d in 2023 and only by 0.49 Mb/d last year. This decline in Asian demand growth accounted for all of the global slowdown. The changes in oil demand in the OECD countries and the non-OECD countries outside of Asia were minor in comparison. Fortunately, the outlook for 2025 is more positive (see Chart 1). Both the EIA and the IEA (International Energy Agency) show a pickup in growth relative to 2024. The EIA is slightly more positive as it expects 240 Kb/d growth in North America (primarily in the United States) while the IEA projects no growth in this region. There are some smaller differences in the other regions of the world, so the EIA expects total demand growth of +1.33 Mb/d for 2025, while the IEA forecasts +1.0 Mb/d of demand expansion. As has been the case in the last twenty years, Asia represents the majority of the global expansion in oil demand. However, in recent years, the emphasis is shifting from China to India. Absolute demand growth in both countries is similar; approximately 200 Kb/d for 2024 and 2025 (expected). However, the growth rates are very different. Based on 16.62 Mb/d of oil demand, 200 Kb/d means around 1.2% growth for China. India’s oil demand is only 5.6 Mb/d (2024), so 200 Kb/d represents 3.6% growth. Unfortunately, given the proximity of India to the Middle East, the implications for ton-mile demand of a switch from China to India are not favorable for the tanker market.
 
-*Chart*
+*Chart: Forecast Oil Demand Developments in 2025*
+
+*Chart: Forecast Oil Supply Developments in 2025*
 
 *Sources: EIA, IEA January 2025 reports*
 

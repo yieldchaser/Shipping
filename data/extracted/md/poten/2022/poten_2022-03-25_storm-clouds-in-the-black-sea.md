@@ -24,11 +24,11 @@ As can be seen in Chart 1, Europe is the main buyer of crude oil from CPC. In 20
 
 Based on current trading patterns, it is clear that Europe will be most affected by a disruption or a significant reduction of exports from the CPC pipeline. The latest news from CPC suggests that output could be down to 500-700,000 b/d. For the producers in Kazakhstan, there are limited alternative outlets for their crude. Some crude could be diverted through the Baku-Tbilisi-Ceyhan (BTC) pipeline. This would involve shipping crude across the Caspian Sea to Azerbaijan. Another alternative could be to ship more crude through the Kazakhstan
 
-*Chart*
+*Chart: Crude Exports from Novorossiysk CPC By Destination*
 
 *Source: Lloyd’s List Intelligence*
 
-*Chart*
+*Chart: Freight Rates: Black Sea - Mediterranean*
 
 *Source: Poten & Partners*
 

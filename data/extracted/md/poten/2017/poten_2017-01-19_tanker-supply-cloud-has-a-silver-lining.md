@@ -28,7 +28,7 @@ The main mitigating factor when considering the above fleet statistics is the fa
 
 *Source: IHS/Poten*
 
-*Chart*
+*Chart: Fig. 2: Scheduled & Actual Deliveries versus Tanker Earnings*
 
 *Source: IHS/Poten*
 

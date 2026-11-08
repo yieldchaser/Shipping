@@ -22,7 +22,9 @@ For the purpose of this analysis, we will focus only on the U.S. SPR release. Th
 
 When we consider the situation in the U.S., we have to think about several factors. At 11.4 million barrels per day (Mb/d), the U.S. is the world’s largest crude oil producer. At the same time, it has almost 18 Mb/d of refining capacity, of which 16 Mb/d is currently utilized. This means that the U.S. remains a large importer of crude oil. In the third week of March, the U.S. imported on average 6.3 Mb/d of crude oil. During the same period, U.S. companies also exported almost 3 Mb/d of crude oil. Weekly imports and exports can be quite volatile, and in addition, inventories can expand and contract as well, so it is difficult to calculate the U.S. crude oil balances on a week-by-week basis. In this context, it is difficult to give a definitive answer to the question what will happen when the U.S. starts to release 1 Mb/d of crude oil from the SPR starting in May. Several different scenarios are possible.
 
-*Chart*
+*Chart: U.S. SPR Crude Oil Stocks*
+
+*Chart: U.S. Crude Oil Production vs Imports and Exports*
 
 *Source: EIA*
 

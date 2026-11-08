@@ -24,9 +24,9 @@ Venezuela has an OPEC production quota of 1.97 million barrels per day (mb/d). I
 
 Iranian production has been fairly stable in recent months. After the sanctions were lifted in 2016, Iranian production quickly recovered from 2.9 mb/d (Dec. 2015) to 3.8 mb/d (the average of 2017). The main risk to Iran’s production is the snap back of U.S. sanctions. President Trump chose not to recertify the Iran Nuclear Deal on January 12, which means that the U.S. Congress has until May (120 days) to propose new legislation or U.S. sanctions may be re-imposed. The impact of renewed U.S. sanctions on Iranian exports could be significant, even if the other parties to the Joint Comprehensive Plan of Action
 
-*Chart*
+*Chart: Opec Countries: Production vs Quota*
 
-*Chart*
+*Chart: Crude Production of Selected OPEC Countries*
 
 *Source: IEA*
 

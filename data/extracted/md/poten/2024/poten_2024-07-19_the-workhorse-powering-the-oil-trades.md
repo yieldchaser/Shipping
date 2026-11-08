@@ -24,7 +24,9 @@ Ton-mile demand for MRs has increased since 2020. First, the Covid recovery boos
 
 The longer-term outlook for the MR sector is driven as much by vessel supply as it is by tonnage demand. Vessel additions have been subdued in recent years for a variety of reasons. The pandemic reduced tanker earnings, while an ordering boom for LNG carriers and container vessels in particular kept newbuilding prices elevated. In addition, we have increased environmental scrutiny of the sector leading to more regulatory uncertainty, keeping shipowners on the fence. According to Lloyd’s List Intelligence, as of July 1st 2024, there are 1,783 MRs in the world fleet. MR ordering has picked up in 2023 and so far in 2024 and the orderbook consists of 242 vessels or 13.6% of the fleet. The average age of this tanker segment is now 12.3 years. In January 2020, the orderbook was 115 vessels (7.5% of the fleet) and the average age was 10.3 years. While the orderbook has grown recently, most of these vessels will not deliver until 2026. The average age of the fleet has also increased because very few ships are being recycled in this market.
 
-*Chart*
+*Chart: Product Tanker Freight Rates*
+
+*Chart: MR Ton-Mile Development vs Fleet Growth*
 
 *Source: Poten & Partners; Vortexa*
 

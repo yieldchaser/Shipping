@@ -16,7 +16,7 @@ charts_count: 2
 
 OK
 
-*Chart*
+*Chart: Syria - Crude Oil and Condensate Production*
 
 *Sources: The Washington Institute; Energy Institute*
 

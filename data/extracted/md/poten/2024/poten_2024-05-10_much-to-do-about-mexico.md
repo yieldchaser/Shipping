@@ -22,11 +22,11 @@ Mexico has been an oil producer for many decades. The country started producing 
 
 In April, PEMEX announced that they would cancel up to 436,000 b/d of crude exports, so these barrels could be processed domestically. This led to a drop in exports, in particular to the U.S. However, recent fires at two Mexican refineries could (temporarily) make more crude oil available for exports again. However, as can be seen in Chart 1, Mexican exports have been going down from 1.25 Mb/d in October 2023 to 625,000 b/d in April. Not surprisingly, exports to the US declined the most; from 870,000 b/d to 405,000 b/d. Mexican exports may recover temporarily, but the long-term trend is probably down, a combination of more domestic demand and limited potential for production growth.
 
-*Chart*
+*Chart: Crude Oil Exports From Mexico by Destination*
 
 *Source: Vortexa*
 
-*Chart*
+*Chart: Crude Oil Exports From Mexico by Vessel Class*
 
 *Source: Vortexa*
 

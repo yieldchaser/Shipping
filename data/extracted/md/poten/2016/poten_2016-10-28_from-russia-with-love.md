@@ -28,7 +28,7 @@ The market share gains for the Baltic came at the expense of the exports from th
 
 *Source: IEA, JODI*
 
-*Chart*
+*Chart: Russian Seaborne Crude Oil Exports by Load Area*
 
 *Source: Lloyds List Intelligence*
 

@@ -22,7 +22,7 @@ With the demand for crude oil and clean products continuing to grow it is not su
 
 The graph below shows the relationship between the spot market rates converted to dollars per day (Time Charter Equivalent or TCE) for the Handymax voyage Caribbean to the US Atlantic Coast and the three-year time charter rate since 2002.
 
-*Chart*
+*Chart: Period Versus Spot*
 
 In general, the spot market time charter equivalents are expected to be higher than period charter rates as the spot market entails more risk in the form of idle time. In the Handymax market, however, this has only been the case for 35% of the past five years. Average earnings in the spot market have been $17,000 per day (assuming 90% utilization) as compared to the period market average rate of $17,400 per day.
 

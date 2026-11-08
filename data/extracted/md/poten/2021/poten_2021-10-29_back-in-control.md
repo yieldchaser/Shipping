@@ -26,7 +26,9 @@ Stock levels in the other major oil consumer, China is more difficult to gauge b
 
 As the global economy normalizes after the pandemic, oil stock will likely need to be rebuilt and this will drive additional demand. International oil companies (especially the “majors”) are facing increasing pressure to pivot from oil exploration and production towards renewables, and U.S. shale producers focus on shareholder returns rather than production growth, OPEC will be the world’s swing supplier once again. However, this requires that these countries have sufficient spare capacity to manage the market. It is unclear whether that is the case at the moment.
 
-*Chart*
+*Chart: Global Oil Supply, Demand and Stock Change*
+
+*Chart: OPEC+ Production Vs Target*
 
 *Source: IEA*
 

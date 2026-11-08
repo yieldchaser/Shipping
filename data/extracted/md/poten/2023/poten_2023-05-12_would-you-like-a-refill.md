@@ -24,9 +24,9 @@ In October 2022, the administration announced that it would start buying volumes
 
 When the U.S. SPR was created back in the 1970s, the world was a different place. We were still in the middle of the cold war and various wars were fought in the Middle East. During the 1973 Arab-Israeli War, Arab members of the Organization of Petroleum Exporting Countries (OPEC) imposed an embargo against the United States and several other countries that supported Israel. As a result of the 1973-1974 Oil Embargo, oil prices quadrupled. This severely strained the U.S. economy, which had grown increasingly dependent on foreign oil. In 1973, the U.S. produced approximately 11.0 Mb/d of crude oil, while oil consumption reached 17.3 Mb/d that year. President Nixon took several measures to address the crisis and promote energy independence. This included the creation of the SPR and the founding of the International Energy Agency. In 1975 (under President Ford), U.S. crude oil exports were banned.
 
-*Chart*
+*Chart: US Crude Oil SPR vs WTI Crude Oil Price*
 
-*Chart*
+*Chart: US Crude Oil Imports and Exports*
 
 *Source: US Energy Information Administration*
 

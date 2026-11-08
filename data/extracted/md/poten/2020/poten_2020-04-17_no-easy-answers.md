@@ -26,7 +26,9 @@ These cuts will not offset the short-term demand destruction, but they will slow
 
 To analyze the potential impact of the OPEC+ cuts, we used the EIA oil demand outlook, as their forecast goes out to 2021. The first graph shows the impact of the cuts on the supply-demand balance through 2021. The forecast incorporates assumptions about the oil demand recovery and on production cuts; assumptions that could change dramatically in the coming months. EIA assumes only limited Non-OPEC supply reductions: Non-OPEC production is forecast to decline until March 2021 and bottom out at 1.74 Mb/d below March 2020 production.
 
-*Chart*
+*Chart: Supply - Demand Balance*
+
+*Chart: Inventory Development*
 
 *Source: EIA, Poten & Partners*
 

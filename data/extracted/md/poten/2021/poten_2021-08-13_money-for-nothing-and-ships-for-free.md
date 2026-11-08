@@ -18,7 +18,7 @@ wh
 
 **Explaining the variability in tanker owners’ TCE’s**
 
-*Chart*
+*Chart: VLCC: Company Reported TCE vs AG-China TCE*
 
 *Source: Company Reports; Poten & Partners*
 

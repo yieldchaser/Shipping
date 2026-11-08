@@ -76,7 +76,7 @@ Distillate exports have grown at a clip of almost 16% per year since 2000, while
 
 Annual Data, 2000-2013
 
-*Chart*
+*Chart: US Gasoline & Distillate Data*
 
 ### Production increasing in the face of declining consumption and flat stocks
 
@@ -94,7 +94,7 @@ Continuation of US trend would support clean demand, but will owners overorder?
 
 1q2013 Snapshot
 
-*Chart*
+*Chart: MR Fleet Age Profile*
 
 Sources: Poten
 

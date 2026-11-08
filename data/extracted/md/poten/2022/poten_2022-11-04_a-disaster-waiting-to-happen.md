@@ -22,11 +22,11 @@ The Dark Fleet (aka Shadow Fleet or Subterfuge Fleet) consists of vessels that a
 
 Reputable shipowners do not want to get involved in these trades, limiting the supply of vessels. This has made moving sanctioned barrels extremely lucrative. While this market is by nature very secretive, estimates from knowledgeable observers suggest that shipping rates for Venezuelan or Iranian barrels can be two or three times the market rate for legitimate voyages. These premium earnings have created a strong incentive for opportunistic, less scrupulous owners to get involved in these trades. Given the fact that the nature and longevity of these sanctions is very unpredictable, almost all tankers involved in these trades are older units (Chart 1). Owners of vessels buy them for the specific purpose of utilizing them in these illicit trades and they want to be able to earn their money back in a short period of time. The downside of an older (cheaper) ship is more limited. They buy old vessels (frequently vessels that would otherwise would have been recycled) and spend the bare minimum on repairs and maintenance. The illegal nature of the business makes it impossible to use reputable crew managers and arranging proper insurance is difficult as well. To obfuscate the illicit nature of their employment, owners of these tankers frequently change the vessel’s name and ownership and flag them in jurisdictions that are known to be less strict. As a result of these factors, the risk that these vessels are involved in accidents is elevated and so is the potential harm that could be inflicted on the crews and the environment (in case of an oil spill).
 
-*Chart*
+*Chart: Age Brackets Of Tankers Involved in Iranian Trade*
 
 *Source: United Against Nuclear Iran*
 
-*Chart*
+*Chart: Age Brackets Of Aframax Tankers Loading In Russia*
 
 *Source: Lloyd’s List Intelligence*
 

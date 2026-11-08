@@ -22,7 +22,9 @@ In November 2023, eight OPEC+ members (the “OPEC-8”) implemented voluntary o
 
 Why is OPEC bumping up production now? The official OPEC announcement talks about “continuing healthy market fundamentals and the positive market outlook” as the reason for the production increase. OPEC is bullish about oil demand later in the year, which is a minority position among market analysts who generally have a more downbeat view on oil demand this year and fear a global slowdown. There are several unofficial reasons that may have contributed to this decision. Some pundits have argued that some members of the OPEC-8, Saudi Arabia in particular, are unhappy with the overproduction of some members (Iraq, Kazakhstan, Russia). This production increase and the resulting price collapse serves as a reminder to these other OPEC members what the costs are of non-compliance. Pressure from the U.S. could be another reason. President Trump has asked OPEC repeatedly to open the spigots to bring oil (and gasoline) prices down. The rising tension in the Middle East may be a factor as well. The U.S. has increased its military presence in the Middle East and repeatedly attacked
 
-*Chart*
+*Chart: Seaborne Crude Oil Exports From OPEC-8 By Origin*
+
+*Chart: Seaborne Crude Oil Exports From OPEC-8 By Vessel Class*
 
 *Source: Vortexa*
 

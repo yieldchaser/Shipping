@@ -16,7 +16,9 @@ charts_count: 2
 
 OK
 
-*Chart*
+*Chart: US Crude Oil Production*
+
+*Chart: Iranian Crude Oil Exports by Destination*
 
 *Source: EIA, Vortexa*
 

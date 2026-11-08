@@ -16,7 +16,9 @@ charts_count: 2
 
 OK
 
-*Chart*
+*Chart: Seaborne Crude Volumes Loading in the North Sea by Destination*
+
+*Chart: North Sea Crude Oil Loadings by Vessel Class*
 
 *Source: Vortexa*
 

@@ -24,11 +24,11 @@ In the United States, the largest volumes of CBR originate from the Bakken forma
 
 Refiners on the U.S. east coast are more price sensitive and they have access to more sources of crude. East coast refiners compare the landed cost of Bakken crude by rail with Canadian crude by rail, and domestic (mostly Permian) crude oil moved on Jones Act tankers with foreign barrels coming from Europe or West Africa. As can be seen in the chart above, foreign barrels tend to dominate PADD 1 oil supply, but crude by rail played a significant role in 2014 and 2015. After a long period of decline, rail and Jones Act volumes have started to pick up again. As we indicated previously, the main reason for this shift is the expanding Brent-WTI spread. Domestic infrastructure bottlenecks are the key driver behind the current price differential between domestic and foreign crudes. However, the challenges are temporary. Oil producers and midstream companies are investing heavily in pipelines and export terminals.
 
-*Chart*
+*Chart: US Atlantic Coast (PADD1) Crude Oil Supply*
 
 *Source: Poten, EIA*
 
-*Chart*
+*Chart: US Imports from Canada by Rail*
 
 *Source: EIA*
 

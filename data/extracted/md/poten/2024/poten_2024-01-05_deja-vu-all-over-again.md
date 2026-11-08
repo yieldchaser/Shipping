@@ -18,11 +18,11 @@ charts_count: 3
 
 Our annual rankings in 2023 showed few surprises. The usual suspects topped the lists. Unipec – to nobody’s surprise – remains No. 1, followed by several of the supermajors: Shell, ExxonMobil, Total and Chevron. There were three new entrants in the top 20, but these were also well-known companies: Glencore (14), GS Caltex (15) and Phillips66 (20). Compared to 2022, Equinor, Reliance and Hyundai dropped out of the top 20. While China’s Unipec was still the dominant player in the tanker market, they moved 6.8% less cargo in 2023 versus 2022 (204.7 Mn MT versus 219.7 Mn MT) and concluded 50 fewer fixtures (881 in 2023 versus 931 in 2022). On a global basis, the total reported spot cargo volumes were up 3.6%, but the number of fixtures were down by 300 (3.8%).
 
-*Chart*
+*Chart: Top 10 VLCC Spot Charterers*
 
 Unipec’s decline relative to last year was concentrated in the VLCC segment (down 51 fixtures), while many of the other large players in this segment increased their activity. Largest gainers were Petrobras (+34), Shell (+24) and GS Caltex (+23). Petrobras moved up from 10th in 2022 to 5th last year, Shell took 2nd place from ExxonMobil and GS Caltex moved into 7th place (from 14th in 2022). However, as the chart above shows, Unipec is far from losing their crown. They still do more reported fixtures than the rest of the top 10 combined.
 
-*Chart*
+*Chart: Top 10 Suezmax Spot Charterers*
 
 In the Suezmax segment, Total maintained the #1 spot, followed by ExxonMobil. Big gainers were Shell, which moved from 10th to 3rd and Unipec (from 9th to 6th). Petrobras, 4th in last year’s Suezmax ranking, dropped out of the top 10 as more Brazilian barrels are being exported on VLCCs. Traders Glencore and Trafigura boosted their Suezmax spot market activity in 2023.
 
@@ -54,7 +54,7 @@ In the Suezmax segment, Total maintained the #1 spot, followed by ExxonMobil. Bi
 
 Source: Poten & Partners
 
-*Chart*
+*Chart: Top 10 Aframax Spot Charterers*
 
 The Aframax segment showed significant changes with a relative stable group of charterers. There is only one new entrant in the top 10: Aramco replaces Unipec. The #1 charterer (Vitol) registered 125 reported fixtures, which is 10 less than last year when they were in 2nd place. Winners were ENI (+25 fixtures) and Total (+17). Shell and ExxonMobil were markedly less active than in 2022. Overall Aframax fixture activity was down in 2023.
 

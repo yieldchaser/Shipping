@@ -22,7 +22,9 @@ At his inauguration, President Tinubu announced the removal of Nigeria’s fuel 
 
 It is not the first time that a President has tried to remove the fuel subsidies, which have been in place in one shape or form since the 1970s, but previous attempts always led to widespread protests, ultimately forcing the government to back down. If the government stays the course this time, higher prices could reduce gasoline consumption in Nigeria by some 20%, analysts expect, from 310,000 barrels/day (b/d) to about 250,000 b/d. This reduction in demand will initially translate in an equivalent reduction in gasoline imports, since Nigeria imports almost all its refined products. The country has four state-owned refineries, technically capable of meeting domestic demand, but they have been out of commission since 2020 and it is unclear if they will be brought back online. This leaves the new Dangote refinery. When this 650,000 b/d refinery comes online, it will allow Nigeria to eliminate its petroleum product imports and potentially become a net exporter of refined products. However, the start data of this refinery has been delayed several times and commissioning is now expected by the end of 2023. The start of the Dangote refinery will also cut into Nigeria’s crude oil exports, since the refinery is expected to source a significant portion of its crude oil domestically.
 
-*Chart*
+*Chart: Nigeria: Clean Petroleum Product Demand*
+
+*Chart: Nigeria: Crude Oil Production and Exports*
 
 *Sources: Jodi*
 

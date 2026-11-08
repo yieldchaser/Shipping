@@ -22,9 +22,11 @@ Mexico used to be one of the world’s major oil producers and exporters, but it
 
 The impact of the challenges in Mexico’s oil industry on the tanker market has been profound, although not in ways you may expect. Declines in oil production have previously led to cuts in crude oil exports and reduced crude tanker employment, in particular for Aframaxes in the Caribbean and the Atlantic Basin. In recent years exports have stabilized, despite falling production, which implies reductions in domestic crude oil demand. The impact on the tanker market comes from the changes in the destination. The traditional export market for Mexican crude was the United States; back in 2014 71% of Mexico’s crude landed in the U.S. These short-haul voyages had a limited impact on crude oil tanker employment. In 2017 to date, the market share of the U.S. in Mexico’s crude oil exports has been down to 50%. The growth market has been Asia, which now imports 27% of Mexico’s crude exports, up from 9% in 2014. The main beneficiaries of this shift have been the VLCCs, which transport 70% of the Asian volumes, with the remaining 30% going on Suezmaxes. As domestic crude oil production in the U.S. goes from strength to strength, this trend towards diverting more Mexican exports to Asia is expected to continue, which will further support long-haul VLCC movements from the Caribbean to the Pacific.
 
-*Chart*
+*Chart: Mexico Crude Oil Exports*
 
 *Source: Lloyd’s List Intelligence*
+
+*Chart: Mexico Petroleum Product Imports*
 
 *Source: IEA*
 

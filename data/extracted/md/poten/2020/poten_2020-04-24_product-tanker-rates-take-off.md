@@ -24,9 +24,9 @@ However, now we are dealing with a completely different situation. There is a su
 
 As you would expect the different ports have different rules. Almost everywhere, pilots need to wear personal protective equipment (PPE) when they board a vessel, and in some countries, vessel crews have to wear PPE as well whilst a non-crew member is on board. Many ports have instituted a mandatory period of self-isolation (typically 14 days), meaning nobody can board or leave the vessel until 14 days have passed since the vessel left the previous port. While this may have a limited impact on vessels that are on long-haul voyages, it creates significant delays for many smaller product carriers that are typically engaged on short-haul voyages that may only be a few days long. As long as the world is in the grip of Covid-19, it is likely that many of these restrictions will remain in place for an extended period of time, and even after that, they will only be relaxed gradually.
 
-*Chart*
+*Chart: LR2: AG - Japan*
 
-*Chart*
+*Chart: MR: UKC - USA*
 
 *Source: Poten & Partners*
 

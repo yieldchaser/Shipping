@@ -22,7 +22,9 @@ As can be seen in Chart 1, the U.S. stopped importing crude oil from Venezuela i
 
 From a shipping perspective the shift in Venezuelan exports from the Pacific (China and India) to the Atlantic (U.S. and Europe) led to an increased use of Aframaxes and a reduction in VLCC employment (Chart 2). The utilization of Suezmaxes was limited and remained relatively constant.
 
-*Chart*
+*Chart: Venezuela Crude Exports by Destination*
+
+*Chart: Crude Exports from Venezuela by Vessel Class*
 
 *Source: Vortexa*
 

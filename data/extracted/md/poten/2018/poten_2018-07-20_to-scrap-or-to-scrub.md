@@ -24,11 +24,11 @@ How about scrap prices? Do they really play a significant role in an owner’s d
 
 Other key factors that may drive tanker scrapping over the next few years are the new regulations around ballast water treatments systems and low sulphur bunker fuels. The potential costs of these mandates present a dilemma to a shipowner faced with a 3rd or 4th special survey. Take, for example the owner of a 2003 built VLCC who needs to decide whether to take the ship through the next two special surveys (15 and 17.5 years) with combined drydock costs of around $4-5 million. The installation of a ballast water treatment system could cost an additional $2-3 million. And then there is the matter of IMO 2020. Does the owner retro-fit a scrubber on his 15-year old vessel for $3 million? He may have to, if he wants to be able to effectively compete post 2020. Non-ECO vessels built in the early 2000s ago typically have a higher fuel consumption than modern tankers and if they need to burn expensive MGO starting in 2020, they may struggle to compete. A simple calculation indicates that a 15-year old VLCC would need to earn at least $16-17,000 per day to break even (i.e. return the investment). While that is entirely possible, the current freight market is about half that rate. Even if the owner has the cash to invest (banks may be reluctant to provide credit for this), he needs to be able to reserve a scrubber and schedule the installation to coincide with the upcoming drydock. Given the risks and uncertainties involved, one can also understand the owner who decides to scrap his ship instead.
 
-*Chart*
+*Chart: VLCC Fleet Development: Deliveries vs Demolition vs Rates*
 
 *Source: Poten*
 
-*Chart*
+*Chart: 1988 - 2017 Tanker demolition vs Scrap price*
 
 *Source: Poten*
 

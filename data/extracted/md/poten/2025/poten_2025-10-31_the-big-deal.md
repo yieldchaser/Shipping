@@ -22,7 +22,9 @@ While the full details of the deal have not been released yet, it includes the r
 
 Both the port fees in the U.S. and the ones in China went into effect on October 14. The U.S port fees had been announced several months earlier, so owners could adjust for the upcoming changes. However, the Chinese port fees on U.S. owned and operated ships were announced only days prior to October 14 and likely caused U.S. listed owners some headaches in what to do with vessels that were heading to China. There are reports of delays at Chinese ports which are likely caused by a combination of recently announced U.S. sanctions on some ports and possibly also due to the port fees on U.S. owners. Tanker voyage open market fixing took a break for a couple of days to digest the possible impact, but the market resumed thereafter. The main impact after Oct 14 was on Aframax and Suezmax rates (see chart 2), probably more due to a change in sentiment than pure supply-demand changes. While the suspension of these fees is very relevant for owners of targeted tonnage, the deferral will most likely only have a minor negative impact on the general freight market as the fees would have led to additional market fragmentation and inefficiencies. The fees would have been high enough to make ships owned by Chinese owners uncompetitive in U.S markets and U.S. owned ships uncompetitive in Chinese markets, reducing the pool of available tonnage for charterers.
 
-*Chart*
+*Chart: US Gulf Crude Exports by Destination*
+
+*Chart: Crude Tanker Freight Rates*
 
 *Source: Vortexa; Poten & Partners*
 

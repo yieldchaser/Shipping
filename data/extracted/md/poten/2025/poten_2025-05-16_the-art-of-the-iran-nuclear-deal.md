@@ -22,7 +22,9 @@ In order the compare and contrast the impact of the original Iran Nuclear Deal w
 
 In the period leading up to the Iran Nuclear Deal in 2015, Iran accumulated a significant amount of oil in storage, both onshore and offshore. Back in early 2016, analysts estimated that Iran had 30-50 million barrels in floating storage, mostly concentrated on tankers floating in the Arabian Gulf. The current situation is different. The volume of oil in floating storage appears to be lower this time (20-30 million barrels), and it is not all concentrated in the region. In an effort to circumvent sanctions, Iran has oil in floating storage offshore
 
-*Chart*
+*Chart: Iranian Crude Oil Exports by Destination*
+
+*Chart: Iranian Rogue Fleet*
 
 *Sources: Vortexa; UANI*
 

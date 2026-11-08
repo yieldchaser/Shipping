@@ -22,11 +22,11 @@ The Bahri swoop on spot VLCCs in the market was definitely an important driver o
 
 In addition to the sheer number of fixtures, the intended destination of the vessels also catches the eye. According to our data, 10 of the 25 VLCCs are destined for the U.S. Gulf, while 4 are going “West” (most likely Europe). Another 10 VLCC are fixed to discharge at Ain Sukhna, the entry point of the Sumed pipeline, which transports crude oil through Egypt from the Red Sea to the Mediterranean. This crude will most likely end up in Europe. None of the spot VLCCs have been fixed to Eastern destinations. This is a clear sign that the Saudi’s are targeting Western clients with additional volumes, in direct competition with Russia. So far, our sources indicate that 11 of the 25 vessels have been confirmed, while the other 14 remain on subjects.
 
-*Chart*
+*Chart: VLCC Freight Rates : Middle East - Far East*
 
 *Source: Poten & Partners*
 
-*Chart*
+*Chart: Weekly Reported VLCC Spot Fixtures by Destination*
 
 *Source: Poten & Partners*
 

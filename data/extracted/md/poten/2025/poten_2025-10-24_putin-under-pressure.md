@@ -22,7 +22,9 @@ It is important to note that it is not entirely clear if, when and how these new
 
 A report from Reuters, citing unnamed sources, suggested that state-owned refiners in China will stop seaborne imports of Russian crude oil, at least temporarily. Chinese pipeline imports of Russian crude oil will probably not be affected. These flows, which are estimated to be around 900,000 b/d, are harder to track. It is unknown if Chinese independent refiners will stop buying Russian crude or whether they will look for ways to circumvent the sanctions. Some of these so-called “teapot” refiners and the terminals handling their crude oil imports have already been targeted by the U.S. Treasury Department for their imports of sanctioned Iranian oil. The situation in the tanker market has been further complicated by the introduction of the Chinese port fees, which target U.S. controlled tonnage. This has (temporarily) restricted the availability of suitable tonnage and made the market more inefficient. Once factor that could mitigate the immediate impact of these new sanctions is that Chinese refiners have spent the better part of this year building up inventories. They can afford a wait and see attitude.
 
-*Chart*
+*Chart: China: Seaborne Crude Oil Imports by Origin*
+
+*Chart: India: Seaborne Crude Oil Imports by Origin*
 
 *Source: Vortexa*
 

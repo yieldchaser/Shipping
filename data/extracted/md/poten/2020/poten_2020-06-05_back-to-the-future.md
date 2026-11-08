@@ -24,7 +24,9 @@ As China was the first country affected by Covid-19 and one of the first to rela
 
 The question remains if other countries will emulate the demand recovery experienced in China. In the US, much will depend on the shape of the economic recovery; if companies re-hire most of the people that were let go in the last two months, gasoline demand could recover relatively quickly as most people commute by car. Strong job growth could result in increased number of road trips as people are anxious to get out of the house after being stuck at home for months. This could be offset by a decline in short trips to restaurants, malls and movie theaters and possibly by a continuation of working from home. Air travel will likely remain subdued until a vaccine is available, when people feel safe to travel again. Europe will likely see similar developments; increased gasoline and diesel demand related to commuting and more people that will travel by car for their vacations to avoid air travel, at least initially.
 
-*Chart*
+*Chart: EIA Global Oil Demand Outlook Over Time*
+
+*Chart: Regional Oil Demand Growth (Compared to 2019)*
 
 *Source: EIA*
 

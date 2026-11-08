@@ -24,7 +24,9 @@ While the above steps are helpful, the project still faces significant hurdles. 
 
 This is a very ambitious project, that has a long way to go (if it is approved at all), but for the purpose of this Tanker Opinion, we assume that the project will be successful and the pipeline will be built. What will the impact be of having another 1 Mb/d of crude oil, or 15 VLCC cargoes per month available to load on Canada’s west coast?
 
-*Chart*
+*Chart: Crude & Condensate Exports From Vancouver By Destination*
+
+*Chart: US Crude Imports from Canada by Import PADD*
 
 *Sources: Vortexa; EIA*
 

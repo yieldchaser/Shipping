@@ -22,7 +22,9 @@ The key message from the U.S. is that to be successful, all G7 members have to c
 
 The proposal from the U.S. follows additional measures from the EU and the UK. A recent EU package (the 18th since the onset of the war) further restricts Russian energy, lowers the oil price cap for Russian crude from $60 to $47.6 per barrel, tightens asset freezes, and increases trade restrictions on dual-use technology and financial services. One of the key elements of this package was the ban on importing refined petroleum products made from Russian crude even if delivered from via a third country, affecting Indian refiners in particular.
 
-*Chart*
+*Chart: Russian Crude Exports by Destination*
+
+*Chart: Russia Crude Oil Exports by Vessel Class*
 
 *Sources: Vortexa*
 

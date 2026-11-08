@@ -18,11 +18,11 @@ charts_count: 3
 
 As we have reached the end of the decade, we are compiling the last list of top charterers of the 2010’s. Unipec continues to dominate. While the total number of reported dirty spot fixtures in 2019 declined by almost 9% from 2018, Unipec‘s volumes and market share continues to grow. Last year Unipec controlled 17% of all dirty cargoes globally, compared to 14.7% in 2018. Other notable mentions in the ranking are Petrobras (moving up to 9th from 18th), Equinor (new at 19th) and SK Corp (new at 20th).
 
-*Chart*
+*Chart: Top 10 VLCC Spot Charterers*
 
 In the VLCC segment, it is Unipec and everybody else. More reported VLCC fixtures are attributed to the Chinese giant than to the next eight largest VLCC charterers combined. If we add in Sinochem (#4), Petrochina (#10), and CNOOC (#19), the Chinese dominance in the VLCC spot market is even more overwhelming. It should be noted that charterers with a large controlled fleet and/or a preference for private deals keep a low profile in these rankings. We recorded a total of 2,434 reported VLCC spot fixtures in 2019 (up 6.5% from 2018).
 
-*Chart*
+*Chart: Top 10 Suezmax Spot Charterers*
 
 In the Suezmax segment, Shell claimed the top spot, but Unipec is a very close second. To illustrate its rapid rise in the Suezmax rankings: Unipec was not even in the top 10 in 2018! Repsol, which was the top Suezmax charterer in 2018, slipped to third in the rankings. ExxonMobil improved its position
 
@@ -60,7 +60,7 @@ Source: Poten & Partners
 
 from 9th in 2018 to 4th last year. Vitol was a new entrant at the top of the rankings, pushing Lukoil out of the top 10. The total number of reported Suezmax spot fixtures in 2019 (2,675) was 9% lower than in 2018 (2,944).
 
-*Chart*
+*Chart: Top 10 Aframax Spot Charterers*
 
 In the Aframax segment, Vitol and Shell maintained their position on top of the rankings. Like in the Suezmaxes, Lukoil is dropping back here as well, while Unipec gained two places. The total number of reported Aframax spot fixtures increased in 2019 to 3,734 fixtures from 3,551 in 2018 (+5%).
 

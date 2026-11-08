@@ -24,7 +24,9 @@ China is also a major factor driving oil demand. Domestic oil demand is not grow
 
 On the vessel supply side, we have also seen bullish factors that underpin the current freight market. VLCC deliveries have been extremely low. In 2024, only one VLCC was delivered and in 2025 to date, only two new vessels have been added. At the same time, Western governments continue to add vessels to the sanctions list. According to Tankertrackers.com, some 177 VLCCs are currently sanctioned, representing almost 20% of the total VLCC fleet. While most of these vessels continue to be employed somewhere and somehow, the pool of ships available for mainstream business is being reduced. And these are the vessels that set the rates. Factors that have an impact on the margin are more vessels going into drydock, and certain owners employing unconventional chartering strategies that restrict vessel supply. Another issue to consider is the USTR regulations that will be implemented on October 14. As of this date Chinese owned/operated vessels will effectively be unable to call on the U.S. If they do, they will incur significant fees, making them uncompetitive. Chinese owners/operators have been required to reposition their ships, creating inefficiencies and further tightening the market.
 
-*Chart*
+*Chart: VLCC: AG - FE*
+
+*Chart: VLCC Ton-Mile Development vs Fleet Growth*
 
 *Sources: Poten & Partners, Vortexa*
 

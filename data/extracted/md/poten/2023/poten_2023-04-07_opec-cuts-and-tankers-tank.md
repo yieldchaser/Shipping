@@ -22,7 +22,9 @@ OPEC has a long history of tinkering with production quota. OPEC was created as 
 
 The OPEC quota system was first discussed in 1982 and it was formally adopted in March 1983. Initially, Saudi Arabia did not have a quota and was the swing supplier within OPEC. The system proved largely ineffective because the OPEC target price was set too high. It made investments in high-cost areas, such as the North Sea, very lucrative and it also stimulated large investments in technologies to boost fuel efficiency. As a result, the call on OPEC continued to decline. From the mid-1970s to 1985, OPEC’s market share fell from 62% to 37%. In 1985, Saudi Arabia decided to drop the fixed-price system and adopted market oriented or “net-back” pricing, boosting its production rapidly. However, by mid-1986 the resulting “free-for-all”
 
-*Chart*
+*Chart: Exports from OPEC By Destination*
+
+*Chart: OPEC Cuts Vs VLCC AG-Far East Rates*
 
 *Sources: Lloyd’s List Intelligence; Poten & Partners*
 

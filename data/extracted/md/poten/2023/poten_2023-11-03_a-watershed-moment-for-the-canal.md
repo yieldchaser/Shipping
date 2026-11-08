@@ -24,7 +24,9 @@ In the years since 2016, the volume of traffic through the Panama Canal has grad
 
 Very few of the Suezmax tankers pass laden through the Canal, which is at least partially caused by the fact that the Canal is not able to operate at design draft due to low water levels for most of the period. For example, we estimate that at a maximum draft of 44 feet, as currently in effect, a modern Suezmax tanker can carry about 107,000 Metric Tons, only about 12,000 tons more than an Aframax. This is not a compelling economic proposition. And it will only get worse as the PCA will tighten restrictions further.
 
-*Chart*
+*Chart: Gatun Lake Water Level*
+
+*Chart: 2022 Average Daily Panama Canal Transits*
 
 *Source: Panama Canal Authority*
 

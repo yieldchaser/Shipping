@@ -16,7 +16,9 @@ charts_count: 2
 
 OK
 
-*Chart*
+*Chart: Vietnam: Crude Oil Imports by Origin*
+
+*Chart: Vietnam: Clean Product Imports by Origin*
 
 *Source: Vortexa*
 

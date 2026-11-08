@@ -26,7 +26,7 @@ Source: Bloomberg
 
 The U.S. trade deficit with China was $227 billion last year and could reach as high as $267 billion this year by some estimates. As shown in the chart below, US imports from China have increasingly outpaced U.S. exports to the country for years, with 2010 on track to continue a trajectory interrupted by the recession of 2009. An appreciation of the Chinese Renminbi is a part of the re‐balancing of the international economy called for by many economists. It is moreover a testament to the country’s ever‐growing industrial muscle.
 
-*Chart*
+*Chart: U.S. Trade in Goods with China*
 
 A recent report from the Economic Policy Institute projected that China’s currency controls and resulting trade deficit could displace about 540 thousand American jobs this year. On a practical basis, reluctance from China to cooperate with respect to the currency wishes of the West could result in extreme measures such as the U.S. Commerce Department imposing trade sanctions.
 

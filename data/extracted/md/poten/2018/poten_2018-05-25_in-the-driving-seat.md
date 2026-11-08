@@ -16,9 +16,11 @@ charts_count: 2
 
 EIA
 
-*Chart*
+*Chart: Weekly U.S. Gasoline Sales*
 
 *Source: EIA*
+
+*Chart: U.S. Imports and Exports of Gasoline and Blending*
 
 *Source: EIA*
 

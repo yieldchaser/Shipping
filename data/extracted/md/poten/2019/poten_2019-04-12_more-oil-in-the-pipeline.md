@@ -32,7 +32,7 @@ Since then, several new pipelines and expansions have come on stream, often ahea
 
 - Midland to Echo II (Ex-Seminole) pipeline conversion adds 200Kb/d in Q1 2019 (Houston)
 
-*Chart*
+*Chart: Midland vs Cushing Crude Oil Prices*
 
 *Source: Bloomberg*
 

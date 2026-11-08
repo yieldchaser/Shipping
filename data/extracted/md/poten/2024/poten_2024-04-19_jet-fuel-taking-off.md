@@ -26,11 +26,11 @@ Interestingly, while oil demand is still lower, commercial passenger travel stat
 
 Seaborne transportation of jet fuel and kerosene has developed in line with global demand (see chart 2). According to Vortexa, 1.57 Mb/d of jet fuel and kerosene was moved on tankers in 2023, about 22% of global demand, a similar share as in 2019. As the graph shows, the largest four exporters are all in the Pacific Basin, representing 53% of total seaborne volumes. Chinese exports have recovered to pre-pandemic levels while exports from Kuwait have grown significantly in recent years. Looking at the trade from an importer perspective shows that the largest importers are the UK (2023: 215 Kb/d), the US (158
 
-*Chart*
+*Chart: Global Jet Fuel & Kerosene Demand*
 
 *Source: IEA*
 
-*Chart*
+*Chart: Global Jet Fuel / Kerosene Trade By Origin*
 
 *Source: Vortexa*
 

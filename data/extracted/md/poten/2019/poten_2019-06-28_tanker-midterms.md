@@ -18,11 +18,11 @@ charts_count: 2
 
 We have reached the middle of the year, so it is time to take stock of the spot fixture volumes in the tanker market and see if we can observe any movements in the rankings of the largest dirty spot charterers (yes, Unipec is still on top). The overall volume of reported dirty spot fixtures in H1 2019 showed an unusual decline compared to the same period in 2018 (from 5,409 to 4,623). The total cargo volume fixed on spot voyages also declined by 13%, similar to the decline in overall cargo volumes (using AIS data), mainly due to lower AG exports and lower imports into the US Gulf.
 
-*Chart*
+*Chart: Top 10 VLCC Spot Charterers*
 
 In the VLCC segment, Unipec continues to be in a league of its own, although the number of spot fixtures declined somewhat, but fixtures of smaller ships increased, and their total cargo volume increased. More reported VLCC fixtures are attributed to the Chinese giant than to the next eight largest VLCC charterers combined. It should be noted though that reported fixture activity does not always equal market presence. Charterers with a large controlled fleet and/or a preference for private deals keep a low profile in these rankings. The total number of reported VLCC spot fixtures decreased from 1,193 in H1 2018 to 1,156 in H1 2019 (-3%).
 
-*Chart*
+*Chart: Top 10 Suezmax Spot Charterers*
 
 In the Suezmax segment, Shell took over the top spot from Chevron. Unipec is a notable newcomer to the top Suezmax charterer list, mainly due to increased Suezmax imports from
 

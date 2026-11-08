@@ -22,7 +22,9 @@ The Kirkuk oil fields in Northern Iraq, which were discovered in 1927 and starte
 
 The dispute between Iraq and Turkey that triggered the arbitration case goes back to 2014. In that year, the Turkish government, which was not on good terms with Iraq’s then Prime Minister Nouri al-Maliki, began importing oil directly from the KRG oil fields, without Iraq’s consent, through the pipeline to Ceyhan on the Mediterranean coast. On May 22, 2014, Turkish authorities announced that the first shipment of Iraqi oil started from the Ceyhan port at 10:00 local time. The next day, the Iraqi Oil Ministry filed a claim at the International Chamber of Commerce (ICC) and Arbitration Court in Paris against the Turkish government and its state-run pipeline operator, BOTAS, over Kurdistan’s unilateral oil shipments to Turkey.
 
-*Chart*
+*Chart: Iraq Crude Exports Via Ceyhan By Destination*
+
+*Chart: Iraq Crude Exports Via Ceyhan By Vessel Class*
 
 *Source: Vortexa*
 

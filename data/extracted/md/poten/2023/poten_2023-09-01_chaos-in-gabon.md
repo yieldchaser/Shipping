@@ -22,7 +22,9 @@ Gabon is a small country on the Atlantic coast of Central Africa. It is about 10
 
 Because of the uncertain situation after the coup, it is too early to predict whether Gabon’s oil production and exports will be disrupted. The big oil majors are no longer active in Gabon. The country’s largest producers include Anglo-French independent oil company Perenco, French Maurel & Prom, BW Energy from Norway, and UK based Tullow Oil. Maurel & Prom is purchasing Assala Energy in Gabon from private equity group Carlyle. While its current production makes it one of the smaller OPEC producers, 210,000 b/d can make a difference in a tight oil market, which is already impacted by production cuts from Russia and Saudi Arabia. It also reminds market participants of the geopolitical risks inherent in the oil markets.
 
-*Chart*
+*Chart: Gabon Crude Exports By Destination*
+
+*Chart: Gabon Crude Exports By Vessel Class*
 
 *Source: Vortexa*
 

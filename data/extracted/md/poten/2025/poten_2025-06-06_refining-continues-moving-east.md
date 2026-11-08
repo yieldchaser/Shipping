@@ -24,7 +24,9 @@ The contrasting fortunes of North America and Europe versus Asia are due to a co
 
 In summary, refining capacity is expected to decline in Europe and part of North America as refining margins no longer support continued operations and the investments needed to comply with tightening environmental regulations. Most of these refineries are owned by international oil companies, which are more likely to close or sell underperforming refineries. National oil companies, operating in Asia, the Middke East, Africa and Latin America often have government backing and are less likely to shut operations, even if margins are poor. The situation in China is mixed. The large, state-owned refineries fall in the latter category, but China also has a large contingent of smaller independent “teapot” refineries, which tend to be less sophisticated and could be at risk if demand falters and margins turn negative. Some of the Chinese teapot refiners rely on discounted crude from Iran, Venezuela and Russia to remain profitable. Any future sanctions relief would threaten these discounts and cut their margins.
 
-*Chart*
+*Chart: Global Refining Capacity*
+
+*Chart: Seaborne Crude and Condensates Trade By Discharge Basin*
 
 *Sources: Energy Institute; Vortexa*
 

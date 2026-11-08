@@ -22,7 +22,9 @@ In the oil markets, when prices spike (like in the early weeks of the war agains
 
 These exceptional freight levels do have an impact on trade flows. Refiners will buy the oil that gives them the best refining margin. In the past, this would primarily be driven by the crude grade and its yield. However, if the margin for the ideal crude grade becomes too small or disappears because of high freight cost, refiners will consider other crude grades from sources closer to home as long as the savings in transportation cost compensate for the lower yield. If this is not possible, refiners may need to consider cutting runs. Unfortunately for refiners, the global oil market remains really tight, and refiners do not have many options. For the moment that means that most charterers will pay up to get access to the crude they need.
 
-*Chart*
+*Chart: Crude Oil Tanker Rates*
+
+*Chart: Brent Crude Versus VLCC Freight*
 
 *Source: Poten*
 

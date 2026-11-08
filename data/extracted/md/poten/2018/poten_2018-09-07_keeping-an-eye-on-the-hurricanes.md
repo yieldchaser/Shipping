@@ -22,7 +22,7 @@ The first chart on this page shows the timing and impact on Caribbean tanker rat
 
 What are the main reasons for the freight market spikes that typically follow these hurricanes? While each hurricane is different, there are some common variables that play a role. Typically, shipowners and refiners can see a hurricane coming and have some time to prepare. Before a hurricane makes landfall, refiners will reduce runs and limit crude oil deliveries to the refinery. Shipowners want to stay out of harm’s way and will fix their vessels to other destinations. Once the hurricane hits, affected refiners may further cut runs or stop operating altogether and ports will be closed with no vessels being able to enter or leave. Depending on the extent of the damage, refiners, ports, terminals and pipelines will need time to bring their operations back online. Even if the damage is limited, vessels will not be immediately available to load and/or discharge their cargo. Once the infrastructure is back online, many charterers will get back in the market to try to fix vessels to resupply their refineries. Chances are that many vessels have been fixed to other destinations and there is a shortage of prompt tonnage available. The competition for a limited number of vessels will quickly push up rates. This will eventually attract more tonnage back into the area and the market will rebalance and rates will come down again.
 
-*Chart*
+*Chart: Major U.S. Gulf Hurricanes vs Aframax Car-USG Rates*
 
 *Source: Poten, NOAA*
 

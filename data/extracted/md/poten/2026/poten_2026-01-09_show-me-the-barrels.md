@@ -18,11 +18,11 @@ charts_count: 3
 
 It is that time of the year again. Who comes out on top in our annual ranking of dirty spot charterers? It is no surprise that Unipec remained the lead spot charterer in 2024, taking care of 15.4% of the reported fixtures. However, below the Chinese behemoth, we saw some changes last year. ExxonMobil leapfrogged Chevron and Shell to 2nd place (up from 4th), while Petrobras jumped from 9th to 4th on the strength of growing Brazilian production and exports. The large oil traders also did well, with Trafigura showing particular strength (from 22nd to 11th). Overall cargo volumes and fixtures were down slightly compared to 2024.
 
-*Chart*
+*Chart: 2025: Top 10 VLCC Spot Charterers*
 
 Unipec’s VLCC spot charters were slightly higher in 2025 (up 8 relative to 2024). The fixture volume of Petrobras, the No. 2, jumped from 89 to 141 (+58%). India’s IOC, on the other reduced its activity in the VLCC sport market, falling from 2nd to 5th, reporting 13 less fixtures. Chinese charterer PetroChina re-entered the top 10, at the expense of Thailand’s PTT, who came in 12th. Overall volume of reported VLCC fixtures was up from 2,147 in 2024 to 2,345 in 2025 (+9%). This resurgence of activity was also reflected in the VLCC freight market.
 
-*Chart*
+*Chart: 2025: Top 10 Suezmax Spot Charterers*
 
 In the Suezmax segment, Total took the top spot from ExxonMobil, which dropped two places. Chevron also surpassed ExxonMobil to settle in 2nd place. Glencore dropped out of the top 10 (to 12th) and was replaced by Trafigura (up from 19th in 2024). Total Suezmax spot fixtures increased by 40 (2.5%) compared to 2024 (1,672 versus 1,632).
 
@@ -54,7 +54,7 @@ In the Suezmax segment, Total took the top spot from ExxonMobil, which dropped t
 
 Source: Poten & Partners
 
-*Chart*
+*Chart: 2025: Top 10 Aframax Spot Charterers*
 
 There were some major changes in the Aframax segment. Vitol reclaimed the top spot after dropping to #10 in last year’s ranking. Chevron, last year’s No. 1 dropped to 5th. SOCAR, the State Oil Company of Azerbaijan moved up one spot to 2nd. Overall, reported Aframax spot fixture activity was down 12% in 2025, compared to 2024 (1,983 versus 2,262).
 

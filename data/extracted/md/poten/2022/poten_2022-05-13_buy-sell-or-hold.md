@@ -24,7 +24,9 @@ The above situation does not provide tanker owners with a strong incentive to in
 
 At $115 million for a standard VLCC, an owner needs on average about $33,500 per day for the next 20 years after delivery to break even on the investment. Given where earnings have been in recent years, this requires quite a leap of faith. Especially considering that tanker shipping is no longer considered a “growth” industry. The world is increasingly concerned about climate change and wants to move away from fossil fuels and toward renewable energy. However, even if the tanker industry has limited growth potential, existing vessels only have a limited life span and replacement tonnage will still be needed. That raises another question: What propulsion system should an owner choose?
 
-*Chart*
+*Chart: World Orderbook*
+
+*Chart: Tanker Newbuilding Prices*
 
 *Source: Poten & Partners*
 

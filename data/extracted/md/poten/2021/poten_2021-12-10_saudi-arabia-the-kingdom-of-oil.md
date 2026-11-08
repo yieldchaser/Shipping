@@ -26,11 +26,11 @@ In June 2020, Saudi production fell to 7.7 Mb/d, 3.9 Mb/d or 33% below the level
 
 As can be seen in Chart 1, production and exports fairly closely follow each other over time, and higher production typically means higher exports and tanker demand. However, there have been periods where this relationship did not hold. In September 2019, in the aftermath of the attack on Saudi Arabia’s Abqaiq oil processing facilities, production declined by 1.35 Mb/d, while exports only declined 637,000 b/d. The Saudi’s used inventories as a buffer. In May 2020, the massive production cut of 3 Mb/d was closely matched by an equivalent reduction in exports. However, the situation was different in the early months of 2021. While Saudi Arabia cut production by 1.0 Mb/d, exports only decreased by 500,000 b/d, drawing down inventories by 500,000 b/d to make up the difference.
 
-*Chart*
+*Chart: Crude Exports from Saudi Arabia By Destination*
 
 *Source: Lloyd’s List Intelligence, EIA*
 
-*Chart*
+*Chart: Petroleum Product Exports By: Saudi Arabia*
 
 *Source: JODI*
 

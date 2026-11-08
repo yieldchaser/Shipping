@@ -22,7 +22,9 @@ On September 2, U.S. naval forces stationed in the southern Caribbean struck a v
 
 While the U.S. is highly critical of the Maduro regime, it did renew the license of U.S. major Chevron to produce and export Venezuelan oil. While this appears to be contradictory to the “maximum pressure” campaign, the goal of the U.S. is to bolster energy supply security and counter Chinese and Russian interests in Venezuela. Chevron’s exports of Venezuelan crude are only allowed to designated markets (primarily the U.S.). The Chevron license also has a provision that none of the proceeds can benefit the Maduro administration directly. Chart 1 clearly shows the impact of the Chevron license on export volumes and destinations. Chevron’s license was reinstated at the end of 2022 and crude oil exports to the U.S. restarted in January the following year, ramping up from an average of 150,000 b/d in
 
-*Chart*
+*Chart: Venezuela Crude Exports by Destination*
+
+*Chart: Venezuela Crude Exports by Vessel Class*
 
 *Sources: Vortexa*
 

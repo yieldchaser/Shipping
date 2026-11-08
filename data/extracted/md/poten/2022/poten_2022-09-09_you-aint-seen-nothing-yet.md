@@ -22,7 +22,9 @@ The geographic proximity of the Baltic and the Black Sea, as well as the elabora
 
 In the months since the invasion, Europe has pivoted away from Russian crude to other sources of oil. In the period March – August 2022, the percentage of oil that Europe imported from Russia dropped to 19%. Over the same period, the share of Russian crude in Europe’s ton-mile demand reduced by 2%-points to 12%. The main beneficiary of the changes in Europe’s crude sourcing seems to be the U.S. Gulf. In the years prior to the conflict in Ukraine, Europe imported about 6% of its crude oil from the U.S. Gulf. Since the invasion, this has doubled to 12%. European imports from South America (such as Brazil and Guyana), West Africa and the Middle East increased as well, albeit not to the same extent. These changes have led to a significant increase in ton-mile demand for European crude oil import. The first chart shows that ton-mile demand was already increasing in the second half of 2021 and in early 2022 on the back of the post-Covid oil demand recovery. However, the Russian invasion accelerated this trend.
 
-*Chart*
+*Chart: Seaborne Crude Oil Import Volumes to Europe by Origin*
+
+*Chart: Seaborne Crude Oil Imports To Europe By Vessel Class*
 
 *Source: Lloyd’s List Intelligence*
 

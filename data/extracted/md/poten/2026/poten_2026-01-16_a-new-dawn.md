@@ -24,7 +24,9 @@ Who will likely invest in the Venezuelan oil industry? President Trump has calle
 
 In the short-term, the biggest change in Venezuela may be a redirection of the trade. Prior to the Trump naval blockade and Maduro’s removal, the vast majority (~70%) of Venezuela’s crude was exported (mostly on sanctioned “dark fleet” VLCCs) to China, while the remainder went mostly to the U.S. under the Chevron license. Now that the U.S. government is controlling the exports, it is likely that more Venezuelan crude oil will be directed to refiners in the U.S. Gulf. After all, many U.S. Gulf refiners are configured to run the heavy Venezuelan crude. The short sailing distance gives U.S. refiners a freight advantage as well. More access to Venezuelan crude will help U.S. refiners that previously bought Mexican grades, since Mexico’s exports have been in decline.
 
-*Chart*
+*Chart: Venezuela Crude Exports by Destination*
+
+*Chart: Crude Exports from Venezuela by Vessel Class*
 
 *Source: Vortexa*
 

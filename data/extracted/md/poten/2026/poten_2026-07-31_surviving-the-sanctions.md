@@ -22,7 +22,9 @@ The sanctions on Russia have transformed crude oil and refined product flows. Be
 
 The introduction and enforcement of price caps and trade bans has reshaped fleet ownership, vessel values, and maritime safety standards globally. The sanctions against Russia have also fractured the global oil tanker industry, splitting the maritime shipping world into two distinct, parallel markets: the regulated "mainstream" market and a booming, opaque "shadow" market. The shadow fleet existed prior to the Russia-Ukraine war, when it was servicing sanctioned Iranian and Venezuelan barrels, but the size of the shadow fleet expanded rapidly since 2022. The size of the global shadow fleet is now estimated to number between 1,000 and 1,500 tankers. Depending on the segment, up to 20% of all oil tankers worldwide now operate entirely outside Western regulatory reach, creating a massive parallel shipping economy. Approximately 65% to 70% of Russia’s seaborne oil exports are currently moved via these untraceable shadow vessels.
 
-*Chart*
+*Chart: Russian Crude (excl CPC, Kebco) Exports by Destination*
+
+*Chart: Russian Clean Product Exports by Destination*
 
 *Sources: EIA, Vortexa*
 

@@ -22,7 +22,9 @@ President Trump came into office with a promise to increase energy production by
 
 The oil price decline over the last week was caused by the fallout of the tariff announcement by President Trump that triggered panic in the financial markets and heightened fears of a recession in the U.S. and other countries. This tariff announcement was followed by a statement from OPEC+ that they would increase oil production by 411 Kb/d in May, about three times the anticipated increase. On Wednesday, President Trump announced that he would pause the implementation of the ‘Reciprocal tariffs’ by 90 days on most countries, which led to a partial recovery of oil prices, but on Thursday WTI had fallen back to $60/bbl. Overall, the risk of a recession remains elevated due to increased policy uncertainty, which makes it hard for companies to decide on investment and hiring strategies. Under these circumstances, many companies decide to hold onto their cash and wait.
 
-*Chart*
+*Chart: US Crude Oil Production and Outlook vs WTI Price*
+
+*Chart: US Gulf Crude Exports by Destination*
 
 *Source: EIA, Vortexa*
 

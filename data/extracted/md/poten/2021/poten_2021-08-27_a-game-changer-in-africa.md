@@ -26,11 +26,11 @@ S&P Global Platts reported that the crude distillation unit has been designed to
 
 Once the Dangote refinery is fully operational, Nigeria’s crude oil and product flows will change dramatically. At the moment, Nigeria exports almost all its crude oil because none of its domestic refineries are currently operational. As the first chart shows, Nigeria exports its crude to a diverse group of countries, both in the Atlantic Basin and the Pacific. Unlike some other OPEC producers which favour terms deals, Nigeria sells most of its crude on the spot market. In 2019, Nigeria exported about
 
-*Chart*
+*Chart: Crude Exports from Nigeria*
 
 *Source: Lloyd’s List Intelligence*
 
-*Chart*
+*Chart: Petroleum Product Imports By: Nigeria*
 
 *Source: JODI*
 

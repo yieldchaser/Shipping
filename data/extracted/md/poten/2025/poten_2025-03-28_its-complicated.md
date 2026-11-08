@@ -22,7 +22,9 @@ To put things into perspective, let’s first take a look at the existing tanker
 
 Implementation of the rules as proposed would make a large proportion of the tanker fleet uneconomical to trade to the United States. It would also make oil exports and imports more expensive for U.S. based charterers. Many vessel owners, operators, charterers and other interested parties have commented on the Proposed Action. While there are certainly people that are in favor of the USTR proposal, most of the comments from participants that are active in the oil and tanker industry are pointing to significant potential problems. Oil exports from the United States would become much less competitive in international markets if charterers needed to pay a significant additional service fee. The alternative is to use non-Chinese tonnage. While these vessels may be available, reducing the pool of accessible vessels will create inefficiencies and a two-tier market with higher freight costs for U.S. based companies. The reduction in international competitiveness could disincentivize U.S. crude oil production.
 
-*Chart*
+*Chart: Tanker Fleet by Country of Built*
+
+*Chart: Tanker Orderbook By Country of Built*
 
 *Source: Poten & Partners*
 

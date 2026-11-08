@@ -22,7 +22,9 @@ What would the impact be on global trade flows if the U.S. did enact an import b
 
 While U.S. imports of Russian crude oil are fairly limited, the volumes of refined product imports are much higher. In 2021, the U.S. imported 472,000 b/d of refined products from Russia (more than double the volume of crude oil imports). Most of these barrels ended up in PADD 3 (U.S. Gulf area); only small volumes were shipped to the U.S. East Cast (PADD 1) and even less to the U.S. West Coast (PADD 5). The most popular products that U.S. buyers sourced from Russia are Unfinished (partially refined) Oils and Gasoline Blending Components and to a lesser degree Diesel and Fuel Oil.
 
-*Chart*
+*Chart: US Crude Oil Imports From Russia*
+
+*Chart: US Petroleum Product Imports From Russia*
 
 *Source: EIA*
 

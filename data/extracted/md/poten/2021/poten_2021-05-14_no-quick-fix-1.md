@@ -26,9 +26,9 @@ Freight rates are driven by the interplay between tanker demand and supply. With
 
 In the first quarter of 2019, the size of the large tanker fleet (VLCC, Suezmax and Aframax) was approximately 430 Million DWT. VLCCs represented 230 Mdwt (53% of the total). While oil (and tanker) demand dropped significantly during 2020, due to the Covid-19 outbreak, the fleet continued to grow as deliveries continued and scrapping remained low. In April 2021, the size of the crude oil tanker fleet is 11.5% higher than it was in January 2019, while ton-mile demand is 10% lower than the beginning of that year. The market has to bridge this gap before a recovery can take hold.
 
-*Chart*
+*Chart: Crude & Dirty Product TM Demand by Load Region*
 
-*Chart*
+*Chart: Oil Tanker Fleet Size*
 
 *Source: Lloyds List Intelligence/Poten*
 

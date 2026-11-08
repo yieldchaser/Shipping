@@ -26,7 +26,7 @@ Total exports to China have remained relatively stable over the last 5 years, as
 
 *Source: JODI*
 
-*Chart*
+*Chart: Venezuela – Petroleum Product Imports*
 
 *Source: JODI*
 

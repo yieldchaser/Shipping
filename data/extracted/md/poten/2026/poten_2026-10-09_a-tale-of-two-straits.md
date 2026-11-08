@@ -24,7 +24,9 @@ There was a brief recovery in flows after the U.S. and Iran signed a Memorandum 
 
 By the end of July, the Houthi’s got involved in the conflict by announcing a naval blockade on Saudi Arabia, forcing Yanbu exports to be re-routed north via the Sumed pipeline and the Suez Canal. An August attack on the East-West pipeline forced the Saudis to temporary halt exports via Yanbu and expand the use of their terminals in the Persian Gulf again. Although the East-West pipeline has been repaired and flows resumed, Saudi Arabia continues to make use of the “Hormuz Shuttle Service” to export crude. The expanded use of the Hormuz Shuttle Service, in combination with the flows through the pipelines of the Saudis and the Emeratis, has pushed seaborne crude oil exports from the Middle East close to pre-war levels. It should be noted that refined product flows are still far below pre-war levels.
 
-*Chart*
+*Chart: Seaborne Middle East Exports by Origin*
+
+*Chart: Iranian Crude Oil Exports by Destination*
 
 *Source: Vortexa*
 

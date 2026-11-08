@@ -24,7 +24,9 @@ A comparison of the last quarter of 2021 (Oct – Dec) with the most recent thre
 
 As Europe pivots away from Russian crude, they import more oil from West Africa, the Middle East and the USG. While the Middle East to NW Europe trade is predominantly a VLCC trade, Suezmaxes do a significant portion of the West African and USG exports to Europe. Europe also retains almost all its domestic crude from the North Sea. Prior to the war, there was a regular (VLCC) trade of North Sea Forties crude to China. In recent months, this trade has largely dried up, because the Europeans keep this crude to refine it locally. Since this was a very long-haul trade, the ton-mile implications are significant.
 
-*Chart*
+*Chart: VLCC Ton-Mile Demand By Load Region vs Fleet Development*
+
+*Chart: Productivity (TM/VLCC) vs TCE*
 
 *Source: Lloyd’s List Intelligence; Poten & Partners*
 

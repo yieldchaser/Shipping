@@ -16,7 +16,7 @@ charts_count: 1
 
 The increasing world population presents interesting challenges and opportunities for the energy industry. It is logical that the amount of energy consumed worldwide and the change in the total population move in the same direction. The question arises as to which economies are likely to improve their energy consumption per capita and whether they are willing to sacrifice units of GDP in this pursuit. The chart below shows the world population since 1970 and a projection through 2030. What is quite impressive is how much the world’s population has changed since 1960 – a mind-numbing 3.5 billion people.
 
-*Chart*
+*Chart: Population Inflation*
 
 World Oil Consumption
 
@@ -26,7 +26,7 @@ Robust economies, particularly in certain emerging markets, can be linked to pop
 
 Shown in the chart below is the GDP per capita in several countries. This data is plotted against the amount of GDP per unit of oil that is consumed.
 
-*Chart*
+*Chart: GDP Per Capita vs GDP (Thousand $) per Barrel of Oil Consumed*
 
 Those countries that experience a lower amount of GDP per unit of oil, specifically those to the left of the $1 million GDP mark, might be more inclined to sacrifice petroleum based energy in favor of alternate sources of energy. Those that experience a high percentage of GDP per unit of oil would be less likely to give it up.
 

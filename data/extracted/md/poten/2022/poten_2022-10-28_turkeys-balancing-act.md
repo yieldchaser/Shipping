@@ -24,11 +24,11 @@ Unlike several European countries, which reduced oil imports from Russia after t
 
 For the purpose of this calculation, we assume that 10% of the crude oil that is exported through the pipeline of the Caspian Pipeline Consortium (CPC pipeline) is in fact Russian crude, with the remaining barrels originating in Kazakhstan.
 
-*Chart*
+*Chart: Turkey: Seaborne Crude Oil Imports by Origin*
 
 *Source: Lloyd’s List Intelligence*
 
-*Chart*
+*Chart: Petroleum Product Demand By: Turkey*
 
 *Source: JODI*
 

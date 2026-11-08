@@ -24,7 +24,9 @@ For the tanker market, the increase in production has also led to a significant 
 
 In volume terms, the key destinations for Brazilian crude are China (41%), other Asia (15%), Caribbean/USG (14%), Europe (11%) and Chile (9%). An interesting development this year has been the steady flow of cargoes from Brazil to the U.S. Atlantic Coast. This was not a regular trade prior to 2017. This new trade (as well as the growing exports to China and India) may be partly due to the changing specifications of the Brazilian crudes that are available for export. Brazil has started to produce more light sweet crudes from pre-salt deepwater offshore fields. These grades are well suited for refineries in Asia and on the U.S. East Coast.
 
-*Chart*
+*Chart: Brazil Crude Oil Exports by Vessel Class*
+
+*Chart: Brazil Crude Oil Exports by Destination*
 
 *Source: Lloyd’s List Intelligence*
 

@@ -22,7 +22,9 @@ Nigeria’s crude oil production has been declining for several years now. The I
 
 If Nigeria reduces its exports, are there other countries in the region that can pick up the slack? Within West Africa, Angola is currently the largest oil producer with 1.1 Mb/d of output. Similar to Nigeria, Angola’s production is well below its OPEC target of 1.53 Mb/d, but unlike its West African competitor, Angola has managed to boost exports in 2022 after several years of declines. Traditionally, Angola has targeted Asia as its main market. During the last five years the share of Angolan crude going to Asia has averaged 86%, with China alone representing 66% of the total. The remaining 14% of Angola’s crude was distributed in other parts of the world, with Europe (UKC/Baltic and the Mediterranean) the largest receivers. However, as can be seen in Chart 2, there has been a marked increase in Angolan exports to Europe since the Russian invasion of Ukraine. This has coincided with a reduction in exports to China. China’s imports of crude oil have been relatively subdued in recent quarters. The lockdowns related to the country’s zero Covid policy as well as problems in China’s real estate and construction sectors have weighed on sentiment. As a result, Chinese oil demand in 2022 is expected to be around 14.8 mb/d, down from 15.4 Mb/d in 2021. Less Chinese demand seems to have freed up Angolan export barrels for Europe. High oil prices have likely also dampened Chinese oil demand. China is price sensitive and typically accelerates purchases (and builds inventory) when oil prices are low (like in 2020) and cuts back when oil prices are high (2022).
 
-*Chart*
+*Chart: Crude Exports from Nigeria*
+
+*Chart: Crude Exports from Angola*
 
 *Source: Lloyd’s List Intelligence*
 

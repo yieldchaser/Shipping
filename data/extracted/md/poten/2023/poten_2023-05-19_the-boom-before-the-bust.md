@@ -24,7 +24,9 @@ Tanker supply responds to market movements in a mostly rational fashion, althoug
 
 The current market situation is rather unique. Tanker recycling picked up during the pandemic as one would expect when earnings were very weak. This tightened market balances, especially since new orders had been gradually declining since 2017. At the same time global oil demand was staging a strong recovery from the depths of the pandemic. The only thing the freight market needed to ignite was a spark. This was provided by the Russian invasion of Ukraine and the reshuffling of trade flows that resulted from the sanctions imposed on Russian crude oil and refined product exports. Freight rates skyrocketed for both crude oil and product tankers.
 
-*Chart*
+*Chart: Tanker Ordering*
+
+*Chart: Tanker Recycling*
 
 *Source: Poten & Partners*
 

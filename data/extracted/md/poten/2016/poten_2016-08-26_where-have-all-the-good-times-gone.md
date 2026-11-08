@@ -30,7 +30,7 @@ Overall, changes in Suezmax trade flows resulted in an increase in ton-mile dema
 
 *Source: Poten*
 
-*Chart*
+*Chart: Average Monthly Suezmax Voyages by Import Area (Jan – Jul)*
 
 *Source: Lloyd’s List Intelligence*
 

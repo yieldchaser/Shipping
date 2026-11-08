@@ -22,7 +22,9 @@ While the latest oil demand projections are nothing to write home about, it only
 
 Brazil is another growth story. Production in 2020 is expected to be 330,000 b/d higher than in 2019. ExxonMobil has discovered vast reserves in neighboring Guyana and production is expected to start in March 2020. Initially, production will be around 120,000 b/d, ramping up to 750,000 b/d in 2025. With an API gravity of 32.1 and 0.5% sulphur, the crude has similarities to Canada’s Hibernia and Argentina’s Mediante crude. Since it is a new stream, it is not yet clear, where this crude will be marketed. Last, but not least, Norway’s has just started its giant Sverdrup field.
 
-*Chart*
+*Chart: 2020 Oil Demand Growth*
+
+*Chart: 2020 Oil Supply Growth*
 
 *Source: IEA, EIA, OPEC*
 

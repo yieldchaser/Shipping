@@ -16,7 +16,9 @@ charts_count: 2
 
 OK
 
-*Chart*
+*Chart: Pacific To Atlantic Clean Trade By Vessel Class*
+
+*Chart: LR2 vs VLCC Tanker Freight Rates*
 
 *Source: Vortexa / Poten & Partners*
 

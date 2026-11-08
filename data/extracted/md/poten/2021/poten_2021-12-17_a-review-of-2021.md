@@ -24,7 +24,9 @@ The reduction of global oil inventories, both on-land and on tankers (floating s
 
 The tanker supply side did not help freight markets. The year started out with a significant oversupply of tonnage and while scrapping picked up in 2021 relative to 2020, it is nowhere near the levels required to balance the market (“Demolition Derby” – 7 May 2021). The total demolition numbers in 2021 are likely to be more than double those of 2020 (85 tankers in 2021 YTD versus 40 total for 2020), but the numbers are skewed toward the smaller product tankers and the totals remain well below the 137 tankers that were scrapped in 2018. Overall deliveries for 2021 were 16% higher than in 2020, primarily due to more Aframax and MR vessels.
 
-*Chart*
+*Chart: EIA Oil Demand Outlook Over Time (STEO)*
+
+*Chart: EIA Oil Supply Outlook Over Time (STEO)*
 
 *Source: EIA – Short Term Energy Outlook*
 

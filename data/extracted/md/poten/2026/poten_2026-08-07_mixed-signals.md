@@ -22,7 +22,9 @@ The Trump administration authorized the SPR release on March 11, 2026, and the f
 
 The SPR releases did alleviate some of the shortages in the oil market, albeit temporarily. Most of the additional barrels were shipped to Asia (on VLCCs) and Europe (on Aframaxes), boosting ton-mile demand and tanker earnings. When the releases were scheduled, most people did not expect that the conflict would still be going on and that transit through the Strait of Hormuz would still be restricted some six months after the conflict started. Now, the Houthi’s also entered the conflict, limiting transit through another chokepoint (Bab el-Mandeb Strait) as well. World oil supply remains highly restricted and as global
 
-*Chart*
+*Chart: US Crude & Dirty Prod. Exports by Destination*
+
+*Chart: US Clean Product Exports by Destination (Excl LPG & Chem.)*
 
 *Sources: Vortexa*
 

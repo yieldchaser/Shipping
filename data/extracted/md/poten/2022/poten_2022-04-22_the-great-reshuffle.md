@@ -22,11 +22,11 @@ There seems to be a disconnect between Russian crude oil production and seaborne
 
 Anecdotal information seems to suggest that more Russian oil is moving to Asia and less to Europe and the U.S. The U.S. has indeed banned crude oil from Russia, but Europe remains an important customer. The European countries are much more dependent on Russian oil and it will take time to find replacement barrels. The expectation is that by the end of the year, very little Russian crude will be sold in Europe. This means that Russian producers will have to sell more crude oil into other regions, primarily Asia. India has been buying more crude from Russia in recent months, primarily from the Black Sea but occasionally also from the Baltic. China has always been a large customer, but it has not increased its purchases significantly since the start of the Russia – Ukraine conflict. However, this has probably more to do with the recent Covid outbreaks in China that have caused widespread lockdowns and a noticeable slowdown in oil demand. Once China gets on top of the pandemic and/or relaxes its zero-covid policy, we expect Chinese demand for Russian crude to increase, especially at the current discounted prices. Another factor that could drive more Russian oil away from the Atlantic Basin and into the Pacific is the expiration of the supply contracts from Western refiners and traders. This is expected to happen in the next few weeks/months.
 
-*Chart*
+*Chart: Daily Russian Crude Loadings by Destination*
 
 *Source: Lloyd’s List Intelligence*
 
-*Chart*
+*Chart: Aframax Freight Rate Assessments*
 
 *Source: Poten & Partners*
 

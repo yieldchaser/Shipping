@@ -28,7 +28,7 @@ Iraq’s production and export growth have come despite constant geopolitical tu
 
 *Source: JODI*
 
-*Chart*
+*Chart: Reported Spot Fixtures from Iraq (ex-Arabian Gulf)*
 
 *Source: Poten & Partners*
 

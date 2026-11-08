@@ -22,7 +22,9 @@ In 2022, Europe’s oil demand expanded by 442 Kb/d (3.2%) to 14.34 Mb/d, contin
 
 The Russian invasion of Ukraine has had a significant impact on Europe’s crude oil imports (Chart 1). In January of 2022, Europe imported about 2.16 Mb/d of crude oil from Russia, representing a little more than 22% of total seaborne imports. The vast majority of these barrels were sourced from the Russian Baltic ports. Initially, due to self-sanctioning of western oil companies and later as a result of the total EU import ban, the flow of crude oil from Russia had slowed to a trickle by December. Which countries/regions replaced these Russian barrels? Four areas primarily: The U.S.; South America, West Africa and the Middle East. North Africa also contributed. Imports from the U.S. Gulf went from 900 Kb/d to 1.5 Mb/d during 2022. This increase was partly due to the releases of barrels from the U.S. Strategic Petroleum Reserves. Brazil and Guyana contributed from South America. Almost half of Guyana’s crude oil exports now go to Europe. West Africa also boosted exports to Europe by 500 Kb/d and last, but not least, was the Middle East. From a marginal supplier at the beginning of the year (~200 Kb/d), the producers around the Arabian Gulf supplied almost 1 Mb/d by December, with early indications showing significant further increases in January 2023. How did all these changes impact the tanker market?
 
-*Chart*
+*Chart: Crude Import Volumes Into Europe*
+
+*Chart: Crude Oil Imports to Europe by Vessel Class*
 
 *Sources: Poten & Partners, Lloyd’s List Intelligence*
 

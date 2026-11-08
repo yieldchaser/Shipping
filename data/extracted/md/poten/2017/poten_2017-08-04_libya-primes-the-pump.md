@@ -26,9 +26,11 @@ Historically, the vast majority of Libya’s oil is light and sweet and it is pr
 
 In terms of destinations, Italy is by far the biggest one, some 36% of Libyan crude ends up there. It should be noted though that not all this crude stays in Italy. About 60% of the exports to Italy end up in Trieste, which is the starting point for the Transalpine Pipeline, which is about 753 kilometers (468 miles) long and serves eight refineries in Germany, Austria and the Czech Republic. Other key customers of Libyan crude are Spain (13%), France (9%) and Greece (5%). All Mediterranean destinations combined (including Malta, Croatia, Israel, Egypt and Cyprus) account for 60% of Libya’s exports.
 
-*Chart*
+*Chart: Libya: Crude Oil Production*
 
 *Source: IEA*
+
+*Chart: Libyan Seaborne Exports by Destination*
 
 *Source: Lloyd’s List Intelligence*
 

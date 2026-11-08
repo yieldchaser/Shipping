@@ -22,11 +22,11 @@ Traditionally, Libyan crude oil is predominantly exported to nearby destinations
 
 The tanker segments that are most impacted by the developments in Libyan crude oil exports are Aframaxes and Suezmaxes. Libya does not have the facilities to load VLCCs, so the exports to Asia are almost exclusively (>95%) done on
 
-*Chart*
+*Chart: Libya Crude Oil & Oth. Liquids Production*
 
 *Source: EIA/IEA*
 
-*Chart*
+*Chart: Libya Crude Oil Exports by Destination*
 
 *Source: Lloyd’s List Intelligence*
 

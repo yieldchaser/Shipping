@@ -28,7 +28,9 @@ Looking at the Aframax graph, which combines dirty and clean cargoes, we see tha
 
 Dirty Aframax Ton-Mile demand increased by 5.6% from the first half of 2019 to the first half of 2021. About three quarters of the total growth originated in the Mediterranean, and the main growth route (in Ton-Miles) were exports from Russia to the U.S., which more than doubled over the period. Intra-Asian trade also increased by about 5%.
 
-*Chart*
+*Chart: Suezmax Ton-Mile Demand (by Load Area) vs Fleet Size*
+
+*Chart: Aframax Ton-Mile Demand (by Load Area) vs Fleet Size*
 
 *Source: Lloyd’s List Intelligence; Poten*
 

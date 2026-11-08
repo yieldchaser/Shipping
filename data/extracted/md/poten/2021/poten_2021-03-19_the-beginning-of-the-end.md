@@ -24,7 +24,9 @@ As we know the health of the tanker market is more dependent on ton-mile demand 
 
 Product tankers are facing different dynamics over the next five years. The IEA report indicates that there is significant excess capacity in the global refining sector. Covid-19 created significant challenges for refiners around the world and the subdued outlook for global oil demand over the next five years means that these problems are not going away. Strong growth in petrochemicals cannot compensate for the declining demand for transportation fuels (gasoline, diesel and jet fuel) as well as a growing percentage of oil demand that bypasses the refining sector altogether (NGL’s, biofuels, etc.). A total of 3.6 Mb/d of refinery closures have already been announced, but according to the IEA, at least 6.0 Mb/d of processing capacity has to go to bring utilization rates back above 80%.
 
-*Chart*
+*Chart: IEA Global Oil Demand*
+
+*Chart: IEA Global Oil Supply*
 
 *Source: IEA: Oil 2021*
 

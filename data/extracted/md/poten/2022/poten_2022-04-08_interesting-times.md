@@ -26,7 +26,7 @@ On 24 February 2022, Russia invaded Ukraine. This attack was followed by an aval
 
 *Chart: Suezmax: BSEA - MED*
 
-*Chart*
+*Chart: MR: CAR - USA*
 
 *Source: Poten & Partners*
 

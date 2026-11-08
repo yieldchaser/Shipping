@@ -22,9 +22,9 @@ Against the backdrop of healthy oil demand growth and reducing stocks (in absolu
 
 The outlook for global oil demand in 2018 is fairly robust. The IEA expects world oil demand to grow by 1.3 mb/d in 2018, compared to 1.6 mb/d this year. If OPEC and participating non-OPEC countries stick to the agreement and keep their production flat, other (non-OPEC) producers will have to step up to the plate. This opens the door to significant further increases in U.S. production, in particular from tight oil fields. The IEA forecasts that total Non-OPEC supply will grow by 1.44 mb/d from 2017 to 2018. With an expected production increase of 1.08 mb/d, the United States will take care of 75% of the non-OPEC expansion and more than 80% of global demand growth. Other (smaller) growth areas include Canada (+230,000 b/d) and Brazil (+190,000 b/d). Many other producers are stagnant or face a decline in output.
 
-*Chart*
+*Chart: Total OECD Stocks*
 
-*Chart*
+*Chart: IEA Global Oil Demand and Supply Changes (2018 vs 2017)*
 
 *Source: IEA*
 

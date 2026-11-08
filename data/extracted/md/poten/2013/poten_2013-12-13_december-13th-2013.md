@@ -20,7 +20,7 @@ Last week, the Suezmax sector finally began to cash in on the freight rate gains
 
 Suezmaxes. As a result, strong VLCC rates have allowed for upward movements in Suezmax rates. While this current uptick in freight rates might merely be seasonally-lived, longer-term positives exist for this semi-slighted sector. Two additional factors helping to drive the Suezmax market outside of the general correlation with VLCCs are the growth in exports from West Africa to the East and a potential balancing of the orderbook against possible demolition candidates aged 15 years or older that is likely to take place in the next few years. In theory, the possibility of crude exports from the US also presents an intriguing theoretical opportunity for the segment in two distinct ways.
 
-*Chart*
+*Chart: Historical Suezmax Rates TD5 -WAF-USAC*
 
 *Source: Poten*
 

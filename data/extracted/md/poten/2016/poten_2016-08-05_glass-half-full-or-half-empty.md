@@ -26,7 +26,7 @@ How about tanker demand? Here the situation looks slightly more positive. The ye
 
 *Source: Poten & Partners*
 
-*Chart*
+*Chart: Fig. 2: MR TCE Rates: UKC – USAC (37 Kt)*
 
 *Source: Poten & Partners*
 

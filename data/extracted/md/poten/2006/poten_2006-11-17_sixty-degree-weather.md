@@ -16,13 +16,13 @@ charts_count: 1
 
 As New York City continues to see unseasonably warm temperatures, visitors to town are not the only fortunate ones. Like many others on the East Coast, most New Yorkers are enjoying a respite from heating oil bills. With distillate stocks near historically high levels, product tanker demand has remained relatively weak. Handymax rates have experienced steady downward pressure in the Caribbean market in the past few weeks as demand for imported distillates and gasoline has subsided. The chart below shows the time charter equivalent (TCE) and Worldscale rate for St. Croix-New York (38kt) since the start of 2005. With daily earnings currently as low as $10,800 per day, there are certainly a few New Yorkers that are wishing for a cold snap.
 
-*Chart*
+*Chart: Worldscale Rate and TCE for St. Croix-New York (38kt)*
 
 Well Stocked
 
 Last week in the United States, distillate demand was assessed to be around 4.6 million barrels per day. This marks a substantial increase as compared to the same week a year ago, when demand was at 3.9 million barrels per day. The chart below shows US distillate stock levels in millions of barrels. The EIA indicates that the apparent draw down in stock levels has resulted largely from the movement of supplies from primary storage to what is considered secondary storage; not consumed by end users.
 
-*Chart*
+*Chart: Distillate Stocks (Million Barrels)*
 
 2002
 

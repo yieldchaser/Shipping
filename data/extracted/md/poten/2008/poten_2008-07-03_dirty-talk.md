@@ -42,7 +42,7 @@ One common misconception about the future marine fuel regulations is that refine
 
 Cost Ratio Price Strength to Crude Oil
 
-*Chart*
+*Chart: Cost Ratio Price Strength to Crude Oil NW Europe 1.0%S FO/Brent & NW Europe Gasoil 10 ppm/Brent*
 
 *Source: Platts*
 

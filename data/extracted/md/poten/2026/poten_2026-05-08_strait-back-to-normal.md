@@ -24,7 +24,9 @@ An alternative, but maybe more realistic, scenario is the “nervous reopening�
 
 Another possible scenario is the “false dawn”. The Strait reopens, but shortly thereafter a tanker is attacked, seized, or hits a mine. Traffic through the Strait of Hormuz slows immediately, oil spikes again and governments start thinking about releasing emergency reserves. Tanker rates skyrocket and recession fears return. Even a small incident could trigger this because the market no longer treats a Hormuz closure as unthinkable. Under this scenario, the market would be back to square one.
 
-*Chart*
+*Chart: Oil Tanker Ton-Mile Demand*
+
+*Chart: Tanker Rates ($/MT)*
 
 *Sources: Vortexa, Poten & Partners*
 

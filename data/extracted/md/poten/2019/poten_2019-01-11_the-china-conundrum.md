@@ -22,9 +22,9 @@ China’s crude oil imports have grown rapidly over the last 10 years. In Decemb
 
 There were multiple reasons for the sharp rise in imports towards the end of last year. Smaller independent refiners were rushing to fulfill their 2018 import quotas before they expired. The rapid fall in crude oil prices during October and November also had an impact. Brent was hovering around $85/barrel at the start of October. By the end of November, the price of Brent dipped below $60/barrel. This steep drop may have spurred more purchases for China’s SPR program, which has been a significant driver of global oil demand growth in recent years. Analysts estimate that China’s SPR purchases averaged about 429,000 b/d in 2016-2018, accounting for more than a third(!) of global oil demand growth. The re-imposing of the U.S. sanctions against Iran on November 4th may also have had an impact as China ramped up purchases from alternative sources, like Saudi Arabia, Iraq, Angola, Brazil, Russia and Libya. The dramatic increase in shipments in October and November is very visible in the crude oil trade data from Lloyd’s List Intelligence. The tanker market reacted favorably to the rise in long-haul crude shipments. VLCC rates on the benchmark TD3 (Arabian Gulf – Far East) route went from an average of $16,000/day in September to more than $50,000/day in November. Rates have cooled since then and are now around $30,000/day.
 
-*Chart*
+*Chart: China: Seaborne Crude Oil Imports*
 
-*Chart*
+*Chart: China: Seaborne Crude Oil Imports*
 
 *Source: Lloyd’s List Intelligence*
 

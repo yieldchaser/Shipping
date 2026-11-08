@@ -16,7 +16,7 @@ charts_count: 2
 
 Earnings for TD9 have been the highest average year to date, $12,700, since 2010 and compare very favorably to the 2011 average of $4,200. A rare Aframax The Caribbean to US summer surge was driven by delays at ports in the US Gulf and an increase in Gulf market has lightering work following the most recent Motiva outage in the mid-summer remained relatively months. Owner resistance has been firm this year for earnings below $5,000/d or healthy WS 80, helping maintain a floor for rates. Rates had approached that floor level very recently with several prompt ships in the region. But can owners look forward to the potential for a late season earnings jump?
 
-*Chart*
+*Chart: Caribbean Aframax Seasonal Hike Ahead?*
 
 ### Owners have held rate floors
 
@@ -28,7 +28,7 @@ US Gulf refinery utilization dropped for three consecutive weeks following Refin
 
 The 2013 turnaround window does appear to be several weeks later than in 2011 and 2012, which could delay a market uptick by an equal period.
 
-*Chart*
+*Chart: PADD3 Turnaround window several weeks later than in 2011-12*
 
 Tropical storm activity has been limited to one storm of importance so far - Karen Absence of tropical shut almost 62 percent of Gulf oil production, 866,000 barrels per day, but storms but still in the window production came back online quickly. Should storms develop late in the season we expect the disruptions to contribute to the sensitive rate window in November.
 
@@ -36,7 +36,7 @@ Beyond the discussion of seasonal factors, the overall the market should be supp
 
 The overall market share of Caribbean cargoes moving on Aframaxes has dropped as more cargoes are reported to be loading onto larger ships bound for the Far Aframaxes carrying East. Also, the weakened Suezmax market had left the larger tankers as lower percentage of Caribbean cargoes… contenders for combined Aframax stems, and hurting upside potential. The very recent uptick in Suezmax rates should improve the potential for Aframax rates.
 
-*Chart*
+*Chart: % of Caribbean cargoes on Afras*
 
 % moved on Aframaxes
 
@@ -44,7 +44,7 @@ The overall market share of Caribbean cargoes moving on Aframaxes has dropped as
 
 In spite of a declining share of the market overall, the reported volume moving on basis Aframaxes out of the Caribbean has seen a generally upward trend since January 2009 helping to support the Aframax rate environment.
 
-*Chart*
+*Chart: Tons/Month Loaded on Aframaxes in Caribbean*
 
 tons
 

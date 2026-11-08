@@ -26,7 +26,7 @@ One area where ‘Brexit’ could have an impact on the tanker market is the mov
 
 *Source: IEA*
 
-*Chart*
+*Chart: UK Oil Imports from EU Countries*
 
 *Source: IEA*
 

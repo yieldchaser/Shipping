@@ -24,11 +24,11 @@ China took advantage of the very low oil prices when demand in the Western world
 
 As Covid-19 cascaded over the planet, China was able to export some of its surplus products in March and April. Gasoline exports averaged 519 Kb/d, compared to an average of 372 Kb/d for 2019, while Gasoil and Diesel exports averaged 640 Kb/d versus 424 Kb/d in 2019. As the domestic economy recovered and demand started to increase, exports declined in May and June as refiners took advantage of the higher profit margins in the domestic market compared to global prices.
 
-*Chart*
+*Chart: Chinese Petroleum Product Demand*
 
 *Source: JODI*
 
-*Chart*
+*Chart: Chinese Petroleum Product Exports*
 
 *Source: JODI, Bloomberg*
 

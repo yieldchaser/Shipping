@@ -22,7 +22,9 @@ The 2.2 Mb/d production cuts were agreed by Saudi Arabia, Russia, Iraq, UAE, Kuw
 
 However, there is a big difference between quotas, production and exports. Chart 1 illustrates that perfectly. It shows the quota increases for the period April – July 2025, as per the schedule outlined in the previous paragraph. However, the changes in production over this period were very different. Minimal in April, a decline(!) in May and then a huge increase in
 
-*Chart*
+*Chart: OPEC-8: Change in Quota, Crude Production and Exports*
+
+*Chart: Monthly Change In Seaborne Crude Oil Exports From OPEC-8*
 
 *Sources: OPEC, IEA, Vortexa; Vortexa*
 

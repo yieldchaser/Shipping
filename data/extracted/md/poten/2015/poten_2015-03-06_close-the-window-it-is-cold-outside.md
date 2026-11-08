@@ -30,7 +30,7 @@ Environmental regulations in California require the use of special gasoline: Cal
 
 *Source: EIA*
 
-*Chart*
+*Chart: Gasoil Arb: Rotterdam to New York adjusted for shipping costs*
 
 *Source: Bloomberg*
 

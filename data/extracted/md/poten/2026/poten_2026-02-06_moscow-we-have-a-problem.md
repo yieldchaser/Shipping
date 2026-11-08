@@ -22,7 +22,9 @@ India has already cut back purchases from Russia in recent months. In November 2
 
 While India can easily find alternative sources of crude oil (albeit at higher prices than the heavily discounted Russian barrels), Russia will struggle to find a home for the crude that India no longer wants. Turkey, a smaller client is also cutting back. This leaves China as the only reliable customer for Mr. Putin. However, it is unlikely that China will be able to (or want to) absorb all the additional oil from Russia, even at a significant discount. China’s independent refiners already buy virtually all of Iran’s output. Adding another million b/d to the three million b/d that they already buy from Russia (2.0 Mb/d seaborne and 1.0 Mb/d via pipeline) will be a tall order. Security and diversity of supply is important to China and even at discounted prices, they may not be willing to further increase their dependence on two sanctioned oil suppliers.
 
-*Chart*
+*Chart: India Crude Oil Imports by Origin*
+
+*Chart: Russian Crude (excl CPC, Kebco) Exports by Destination*
 
 *Source: Vortexa*
 

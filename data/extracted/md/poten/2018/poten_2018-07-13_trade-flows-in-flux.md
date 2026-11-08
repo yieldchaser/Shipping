@@ -24,9 +24,9 @@ A review of the largest trade routes confirms the changes in crude flows. The la
 
 Shifting gears to the Suezmax segment; this trade has developed differently from the VLCCs. Suezmax employment has increased steadily since 2014, with a healthy 5% increase so far this year. A lot of Suezmaxes are employed in shuttle trades offshore Brazil (No. 1 in the ranking) and in moving Alaskan crude to the U.S. West Coast (No. 3), but these trades are not growing and generate relatively little ton-mile demand due to the short distances involved. The same applies to the 2nd largest trade: AG to India. A growing Suezmax trade is the AG –
 
-*Chart*
+*Chart: Change in Crude/Dirty Products TonMile Demand (Compared to Prior Year)*
 
-*Chart*
+*Chart: Change in Crude/Dirty Products Loaded by Region (Compared To Prior Year)*
 
 *Source: Lloyd’s List Intelligence*
 

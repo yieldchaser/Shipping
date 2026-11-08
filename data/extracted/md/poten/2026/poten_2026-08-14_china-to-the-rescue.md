@@ -24,9 +24,9 @@ There are a number of ways in which China was able to achieve this drastic reduc
 
 A reduction in clean product exports (chart 2) is another lever that China used to balance imports with demand. China’s product exports are quite variable. In 2025 they averaged 722,000 b/d, with a high of 964,000 b/d in July and a low of 533,000 b/d in February. However, in April 2026, they dropped to 350,000 b/d. Lastly, the Chinese government managed to reduce domestic demand. Fuel prices were allowed to rise, which discouraged the use of gasoline powered cars and motivated commuters to take public transport or to use bicycles. Travelers switched from airplanes to trains where possible, which also helped. Overall, China has managed to reduce oil imports and consumption significantly without a big hit to the economy.
 
-*Chart*
+*Chart: China: Seaborne Crude Oil Imports by Origin*
 
-*Chart*
+*Chart: China Clean Products Exports by Destination*
 
 *Sources: Vortexa*
 

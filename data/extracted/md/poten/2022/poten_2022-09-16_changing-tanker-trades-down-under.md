@@ -22,9 +22,11 @@ Since the conflict in Ukraine started, refining margins have escalated worldwide
 
 In New Zealand, the one and only refinery has been converted into an import facility. Therefore, as of Q1 2022, the country completely relies on imports and faces both high product prices and product tanker rates. The situation in Australia is only slightly better. Two refineries have remained open, and the government decided to make funds available for upgrades to increase their capacity. The charts show clearly how the situation has changed in recent years. Crude oil imports into Autralasia (Australia and New Zealand) have been more than cut in half. Most of the imports come from within the region (including offshore Australia) and are moved almost exclusively on Suezmax and Aframax tankers. The decline in imports have diminished the employment opportunities for these vessel segments over time.
 
-*Chart*
+*Chart: Crude Oil Import Volumes Into Australia & New Zealand*
 
 *Source: Lloyd’s List Intelligence*
+
+*Chart: Petroleum Product Imports By Australia & New Zealand*
 
 *Source: JODI*
 

@@ -22,7 +22,9 @@ Russia is an energy powerhouse and plays a major role in global oil and gas mark
 
 The importance of Russian crude for European refiners is a double-edged sword. European sanctions on Russian crude oil exports would hurt both Russia and Europe. The U.S. would be less affected. While we think that it is unlikely that European countries are willing to make Russian’s energy sector subject to sanctions, what may happen if they do? First of all, oil prices will skyrocket in the short-term because Russia is such a big producer, and the oil markets are already quite tight. Second, Europe will need to find alternative sources of crude oil and/or products. Although there may be a transition period, one would expect that European countries will boost product purchases to prevent shortfalls. This will provide a significant short-term boost to the transatlantic product tanker market; MRs in particular will benefit. Additional supplies may be sourced from the Middle East and Asia, favoring LR1s and LR2s.
 
-*Chart*
+*Chart: Russian Seaborne Crude Oil Exports by Load Area*
+
+*Chart: Seaborne Russian Crude Oil Exports By Destination*
 
 *Source: Lloyd’s List Intelligence*
 

@@ -24,9 +24,11 @@ In the midst of this EU import ban and oil price cap controversy, the tanker mar
 
 The decisions of the OPEC+ group have a big impact on the oil and tanker markets. As oil demand started to recover post-Covid, OPEC+ was increasing production for most of 2022. However, one month ago they decided on a massive 2 million barrels per day (Mb/d) cut in output as they were afraid that the market was going to be oversupplied. The actual cutbacks were about 710,000 b/d according to a Reuters survey. Despite this and the threat of supply disruptions from Russia as a result of the EU import ban and price cap, oil prices have declined to levels not seen since before the Russian invasion of Ukraine. This was not what most pundits expected, underlining the unpredictability of the situation.
 
-*Chart*
+*Chart: 2022 Freight Rates (Scrubber Ships)*
 
 *Source: Poten & Partners*
+
+*Chart: Seaborne OPEC Crude Exports by Load Country*
 
 *Source: Lloyd’s List Intelligence*
 

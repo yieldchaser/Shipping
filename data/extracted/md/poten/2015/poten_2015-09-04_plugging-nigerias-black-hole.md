@@ -32,7 +32,7 @@ Fleet esv
 
 *Source: JODI, IEA*
 
-*Chart*
+*Chart: OECD Clean Product Exports to Nigeria 2005-2015 ytd*
 
 *Source: IEA*
 

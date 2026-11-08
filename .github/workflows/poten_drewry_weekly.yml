@@ -90,6 +90,10 @@ jobs:
           python scripts/md_cleanup/poten_chart_captions.py --untracked --apply || true
           python scripts/verify/build_corpus_inventory.py --merge-existing || true
           python scripts/sync_extraction_register.py || true
+          # in-text chart placeholders get the chart's printed title (from the caption step's page reads)
+          python scripts/md_cleanup/poten_inline_chart_titles.py --apply || true
+          # rejoin sentences the conversion split into paragraphs (only the MDs this run wrote)
+          python scripts/md_cleanup/join_wrapped_paragraphs.py --changed --apply || true
           python scripts/audit/generate_cadence_audit.py || echo "::warning::generate_cadence_audit failed; corpus cadence/audit xlsx not refreshed this run"
 
       - name: Commit & Push New Data

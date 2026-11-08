@@ -24,11 +24,11 @@ Oil market contango is another source of demand for inventories. This is a situa
 
 In addition to land-based storage, traders like to utilize tankers to store crude oil, because of the flexibility they provide to move the crude around the globe and store it in that part of the world where it has the highest value. The economics for floating storage is essentially the same as they are for land-based storage. The trader must consider the price spread and see if that pays for the tanker, as well as the financing and insurance costs of the cargo. In the current market, the rates for floating storage, which typically utilize VLCCs, range between $45,000 per day for 6 months on an older vessel (>15 years) and $62,500 per day for 12 months on a modern, scrubber fitted, ECO ship. The highest reported fixture, $80,000 per day was for a short-term charter (minimum 80 days / maximum 120 days) in the U.S. Gulf. While these rates are healthy from a historical perspective, it does not compare to the $200,000/day (or more) that some vessels were able to command in the spot market.
 
-*Chart*
+*Chart: Floating Storage Over Time*
 
 *Source: Lloyds List Intelligence*
 
-*Chart*
+*Chart: U.S. Crude Oil Stocks*
 
 *Source: EIA*
 

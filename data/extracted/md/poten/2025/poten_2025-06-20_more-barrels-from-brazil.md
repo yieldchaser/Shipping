@@ -24,7 +24,9 @@ About 96% of Brazil’s production comes from offshore fields. Brazil’s offsho
 
 Brazil has a meaningful domestic refining industry, but a significant portion of its production is exported. Exports have grown in line with production, from about 1.0 Mb/d in 2017 to an average of 1.55 Mb/d over the last 12 months. Since 2017, China has been the largest importer of Brazilian crude, taking an average of 50% of their exports. Europe and the United States are second and third, with European imports picking up after the Russian invasion of Ukraine. As Brazil’s production and exports increase in the future, we expect that a significant portion (30-40%) of the additional barrels will go to China. Several major Chinese oil firms, including China National Offshore Oil Corporation (CNOOC), China National Petroleum Corporation (CNPC) and Sinopec have stakes in key Brazilian oil fields.
 
-*Chart*
+*Chart: Brazil Crude Oil Exports by Destination*
+
+*Chart: Brazil Crude Oil Exports by Vessel Class*
 
 *Source: Vortexa*
 

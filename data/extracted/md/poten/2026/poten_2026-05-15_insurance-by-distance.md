@@ -24,7 +24,9 @@ Now, after the lengthy supply disruption, many countries are looking at their cr
 
 While the current crisis has shown that the Strait of Hormuz represents a real risk to global crude oil flows, the 15 Million barrels per day of crude oil from the Persian Gulf are hard to replace. The world needs those volumes. So, while the Middle East might lose some market share at the margin, the most realistic outcome is that high-income, security-sensitive importers such as Japan and Korea reduce exposure where they can, especially for spot and incremental barrels. Fast-growing, price-sensitive buyers such as India and parts of Southeast Asia will keep buying Middle Eastern crude when it is competitive but arbitrage more aggressively among Russia, the Americas and Africa. China may remain diversified by supplier, but its sheer scale keeps it central to Gulf exporters.
 
-*Chart*
+*Chart: Japan Crude Oil Imports by Origin*
+
+*Chart: Middle East Gulf Crude Oil Exports by Destination*
 
 *Sources: Vortexa*
 

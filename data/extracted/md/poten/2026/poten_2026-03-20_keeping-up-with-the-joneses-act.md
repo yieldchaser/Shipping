@@ -22,7 +22,9 @@ As mentioned, the Merchant Marine Act of 1920, named after its sponsor, Senator 
 
 We don’t think that the announced 60-day waiver period puts the Jones Act at risk. The Trump administration is in favor of strengthening the U.S. maritime industry. Last month it released a Maritime Action Plan, a comprehensive strategy aimed at revitalizing U.S. shipbuilding, strengthening the maritime industrial base, and boosting national security. It focuses on increasing domestic ship production, expanding the U.S.-flagged fleet, and enhancing port infrastructure to combat the long-term decline of U.S. maritime competitiveness. In Congress, the 2025 SHIPS for Americas Act, a legislative package with strong bipartisan support has broadly similar aims.
 
-*Chart*
+*Chart: Jones Act Tanker & Barge Product Movements*
+
+*Chart: Jones Act Tanker & Barge Crude Movements*
 
 *Source: EIA*
 

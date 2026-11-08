@@ -24,7 +24,9 @@ The U.S is the largest contributor to the current 400 Mb release with 172 Mb, al
 
 While the total volume of the coordinated IEA release is significant, the barrels can only be distributed over time. The release schedule will be different for each country. For the tanker market, the plans for the U.S. are the most important, because these barrels are most likely to be shipped overseas. SPR releases from Europe, Japan and South Korea as well as China (if and when they join) will likely be distributed domestically, with no meaningful seaborne transport needed. This is particularly relevant for the aforementioned “government obligation stocks” that are held by local refiners. The release of these stocks effectively means that they can run down inventory.
 
-*Chart*
+*Chart: Seaborne Crude Movements in 2022*
+
+*Chart: Daily Crude Oil Exports From the Arabian Gulf (Transit Strait Of Hormuz)*
 
 *Source: Vortexa*
 

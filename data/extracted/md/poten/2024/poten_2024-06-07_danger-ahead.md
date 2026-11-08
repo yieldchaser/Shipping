@@ -24,7 +24,7 @@ Hurricanes can significantly disrupt U.S. offshore crude oil production as well 
 
 The extent of the damage and disruption caused by a major hurricane, depends very much on the location (where it makes landfall) and the strength of the associated winds. In September 2005, hurricane Katrina, followed closely by hurricane Rita, caused major damage to the U.S. oil and refining industry. It forced the evacuation of 482 production platforms and 79 drilling rigs in the Gulf of Mexico, shutting in 1.4 million barrels per day (Mb/d) of oil production. It also caused significant damage to refineries in Louisiana. At one point, around 1.8 million bpd of refining capacity (over 10% of total US capacity) was offline due to Katrina. Many refineries were offline for weeks or months due to flooding. The U.S. government released 11 million barrels of oil from the Strategic Petroleum Reserve, although that had limited impact because refining was the bottleneck rather than crude supply.
 
-*Chart*
+*Chart: Hurricane Impact on Refining and Offshore Crude Production*
 
 *Source: EIA*
 

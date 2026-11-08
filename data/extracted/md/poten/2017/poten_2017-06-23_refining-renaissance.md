@@ -28,11 +28,11 @@ It is likely, based on current demand projections, that refining expansion will 
 
 Intra-regional trade flows in Asia will likely expand as a result of the increase in refining capacity in the region, which will benefit MR and LR1 product tankers. Refining closures in Europe will likely lead to more long haul product movements from Middle Eastern export refiners on long-range product tankers as well as additional transatlantic supplies from U.S. Gulf refiners.
 
-*Chart*
+*Chart: Refining Capacity Additions*
 
 *Source: IEA*
 
-*Chart*
+*Chart: Clean Tanker Spot Rates*
 
 *Source: Poten*
 

@@ -26,7 +26,7 @@ Russia appears to use STS transfers for both objectives: to obscure the origin o
 
 To illustrate the benefits of economies of scale, we will look at the shipping cost of transporting crude oil from the Russian port of Primorsk to the Indian port of Vadinar. We compare two scenarios: 1) A direct voyage on an Aframax and 2) A combination voyage, with three Aframaxes loading a VLCC via STS in Ceuta (Western Mediterranean). The VLCC will then transport the crude around the Cape of Good Hope to India. For this comparison, we need to make a number of assumptions. First of all, there are the customary assumptions around the speed and consumption of the vessels, the bunker prices and the route they will take (through the Suez Canal or around the Cape). For this particular comparison, we also have to make an assumption on the cost and timing of the STS operations. Fortunately, based on available data, we can make reasonable estimates for each of these cost components.
 
-*Chart*
+*Chart: Transportation Cost Comparison: Primorsk - Vadinar ($/bbl)*
 
 *Sources: Poten & Partners*
 

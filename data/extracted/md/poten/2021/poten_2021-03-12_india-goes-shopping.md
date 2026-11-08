@@ -22,9 +22,9 @@ Lloyds List Intelligence oil import data since 2015 shows that India’s crude o
 
 As we mentioned above, the Indian government has asked domestic refiners to speed up the process of diversification of oil imports to gradually cut their dependence on the Middle East. To some extent this seems to be happening already. In the first quarter of 2021, India imported more crude oil from the Atlantic Americas (primarily from the US Gulf), raising their share from an average of 15% to more than 20%. Lower volumes from the Middle East reduced their market share to 56%. The Middle East will likely remain the dominant supplier of crude oil to India because of its proximity (providing delivery flexibility) and because the Indian refineries like to process the medium to heavy Middle Eastern grades. However, even a small change in preferences away from the Middle East towards longer-haul suppliers such as the U.S., Brazil or Guyana can have a disproportionate impact on the tanker markets because of the ton-mile effect.
 
-*Chart*
+*Chart: Seaborne Crude Imports By India - (In M Bbl/day)*
 
-*Chart*
+*Chart: Seaborne Crude Imports By India - (In M TonMiles/day)*
 
 Source: Lloyd’s List Intelligence
 

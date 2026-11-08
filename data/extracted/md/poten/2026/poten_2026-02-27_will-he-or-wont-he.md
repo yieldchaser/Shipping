@@ -22,7 +22,7 @@ In the most benign scenario, the U.S. and Iran continue to work towards a negoti
 
 An alternative scenario involves limited military strikes against the regime in Tehran. Targeted U.S. strikes with a contained Iranian response will likely lead to a short-term spike in oil prices and tanker rates. However, if oil infrastructure in the region is spared and maritime transport through the Strait of Hormuz continues without sustained interruption, the impact will be limited to some shipping delays, higher insurance costs and tighter sanctions enforcement.
 
-*Chart*
+*Chart: Iran Crude Oil Exports by Vessel Class*
 
 *Source: Vortexa*
 

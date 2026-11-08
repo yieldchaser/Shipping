@@ -24,11 +24,11 @@ The other side of the equation is oil and tanker demand. The OPEC/Non-OPEC produ
 
 Summarizing the state of the crude tanker markets, one could say that we are at a critical juncture in the market: if scrapping picks up and new orders remain subdued, we set the stage for a tanker market recovery, the timing of which will primarily be driven by OPEC’s production decisions (at least for the VLCC and Suezmax markets). 2019 will be a transitional year, leading up to the highly anticipated date of January 1, 2020, when a reduced IMO sulphur cap for bunker fuels goes into effect. Unless they install scrubbers, older tankers that are still around come 2020 may be at a disadvantage because of their higher fuel consumption and the requirement to use more expensive low sulphur fuel. This could stimulate more scrappng.
 
-*Chart*
+*Chart: Spot rates: VLCC & MR*
 
 *Source: Poten & Partners*
 
-*Chart*
+*Chart: Oil Tanker Fleet Age Profile and Orderbook*
 
 *Source: Poten& Partners*
 

@@ -22,7 +22,9 @@ Shale oil is one of the key drivers of U.S. export growth since the crude oil ex
 
 In Canada, oil production increased from 4.28 mb/d in 2014 to 4.71 mb/d in Q1 2017, despite lower oil prices and a significant reduction in investment in the industry. While individual shale oil investments south of the border in the U.S. tend to be relatively small with a quick payoff, Canadian oil sand projects have a long lead time and require large upfront investments, similar to deepwater offshore projects. Some oil sands projects that were started several years ago are only now coming on stream. Once on-line, it is imperative for the producer to maximize output to earn a return. However, the lower oil prices have hurt the relative economics of oil sands, and several oil companies, such Shell, Statoil, Total and ConocoPhillips have reduced their exposure in Canada, mostly selling to Canadian companies such as Cenovus, Canadian National Resources and Suncor. The reduction in investment will start to impact Canadian production in 3-5 years.
 
-*Chart*
+*Chart: U.S. Crude Oil Production*
+
+*Chart: Canadian Production versus Exports to the U.S.*
 
 *Source: DOE/EIA*
 

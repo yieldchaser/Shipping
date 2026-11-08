@@ -26,11 +26,11 @@ Almost all ports in the U.S. Gulf area have draft restrictions (typically 40-45f
 
 We estimate that the current freight costs of using an Aframax for a USG to UKC voyage amounts to about $20.32/ton while the same voyage using a light-loaded Suezmax tanker costs
 
-*Chart*
+*Chart: U.S. Gulf Crude Oil Exports to Europe by Port*
 
 *Source: US Dept. Of Commerce*
 
-*Chart*
+*Chart: Aframax & Suezmax Freight Rates: USG -UKC*
 
 *Source: Lloyd’s List Intelligence*
 

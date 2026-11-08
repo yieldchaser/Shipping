@@ -22,7 +22,9 @@ There is little historical precedent for the current actions of OPEC. Obviously,
 
 What are the implications for the tanker market of the accelerated production increases by OPEC-8? Are they also exporting more? If so, where will the oil be going if there is only limited demand growth? Which segments will be impacted most?
 
-*Chart*
+*Chart: Seaborne OPEC-8 Crude & Condensates Exports by Origin*
+
+*Chart: Seaborne OPEC-8 Crude & Condensates Exports by Vessel Class*
 
 *Source: Vortexa*
 

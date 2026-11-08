@@ -24,11 +24,11 @@ According to the US Geological Survey (USGS) the continents we now know as Afric
 
 How much oil is discoverable and commercially viable in Namibia is unknown at this point. There are currently four drilling rigs operating in Namibian waters and the consensus seems to be that in terms of exploration, the oil companies have only scratched the surface of the hydrocarbon potential in the country. Based on current discoveries alone, Namibia could produce 500,000 b/d within a decade and more than 1 Mb/d on a longer-term basis. Not much has been disclosed yet about the quality of the oil offshore Namibia, but based on nearby deposits in West Africa and similar geologies in Brazil and Guyana, the expectation is that the crude will be more likely sweet (<0.6% sulphur) rather than sour.
 
-*Chart*
+*Chart: W Africa Crude Oil Exports by Destination*
 
 *Source: Vortexa*
 
-*Chart*
+*Chart: Crude Exports from W Africa by Vessel Class*
 
 *Source: Vortexa*
 

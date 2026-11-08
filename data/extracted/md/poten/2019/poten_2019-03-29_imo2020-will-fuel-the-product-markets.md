@@ -26,11 +26,11 @@ What we do know is that the 60,000-vessel strong world shipping fleet will need 
 
 The largest bunker ports in the world (like Singapore and Rotterdam) will probably have every possible variety of compliant fuel available (including VLSFO and LNG) on January 1st of next year. However, as the ports are getting smaller and the volumes of bunkers sold reduces, choices will have to be made. Heavy fuel oil is currently the dominant bunker fuel and is available worldwide. This will change in 2020. If most of the world fleet switches to compliant low sulphur fuels, bunker suppliers in some of the smaller ports – with only limited tankage available – may opt to limit their fuel choices to MGO and VLSFO. Alternatively, they could keep some HSFO around in floating storage, until they figured out how future bunker demand in their area will be split between the different fuel types. In the second half of 2020 and into 2021 it should become clearer how the bunker market will shake out.
 
-*Chart*
+*Chart: Bunker Fuel Demand 2019 - 2024*
 
 *Source: IEA*
 
-*Chart*
+*Chart: HFO vs Gasoil Forward Curves*
 
 *Source: Bloomberg*
 

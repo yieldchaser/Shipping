@@ -22,7 +22,9 @@ The Kirkuk oil fields, which were discovered in 1927 and started production in 1
 
 It is probably no coincidence that the Kurds and Iraqi’s reached a deal shortly after the U.S. sanctions against Iran became effective. After the Iraqi forces seized the Kirkuk fields, they were unable to sell any meaningful quantities of the crude because the Kurds controlled the export pipeline. Instead, Iraq started to sell small quantities (around 30,000 b/d) of crude to Iran, delivered by tanker truck. The U.S. was eager to stop these sales to Iran. At the same time, it wanted to make more crude oil available in the international markets to avoid price spikes.
 
-*Chart*
+*Chart: Iraq Crude Oil Exports from Ceyhan by Destination*
+
+*Chart: Iraq Exports by Load Port*
 
 *Source: Lloyd’s List Intelligence*
 

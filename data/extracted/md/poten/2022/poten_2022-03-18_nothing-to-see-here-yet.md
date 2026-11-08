@@ -24,7 +24,9 @@ Are any of the above developments showing up in the daily APEX statistics from L
 
 However, there are some changes that could be indicative of future variations in trade flows. Although it is a small sample size, exports to Asia seem to have picked up in the period since the invasion. The export volumes loaded in Russia destined for Asia averaged 1.4 Mb/d in the 10 days prior to February 24. Since then, volumes have increased to an average of 1.75 Mb/d. Within Asia, India is an interesting case. India has maintained a “neutral” stance in the conflict between Russia and the Ukraine. It has strong diplomatic and economic ties with both Russia and the United States. In the weeks before the invasion, no crude oil cargoes were shipped to India. Since then, four Suezmax cargoes have loaded in the Black Sea port of Novorossiysk destined for India. Like China, India is a price sensitive buyer and it seems to be taking advantage of the opportunity to buy Russian crude at a discount.
 
-*Chart*
+*Chart: Daily Russian Crude Exports by Destination*
+
+*Chart: Daily Russian Crude Exports by Load Area*
 
 *Source: Lloyd’s List Intelligence*
 

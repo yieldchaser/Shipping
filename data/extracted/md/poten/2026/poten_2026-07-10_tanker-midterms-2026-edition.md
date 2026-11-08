@@ -18,11 +18,11 @@ charts_count: 3
 
 The first six months of 2026 are behind us and the conflict in the Middle East has dominated the headlines globally. It has also had a profound impact on the oil and tanker markets, as reflected in this review of the reported spot activity. Effectively removing the Arabian Gulf from the tanker spot market for four months has dented fixture volumes. Compared to the same period of last year, the reported total cargo volumes in H1 2026 declined by 21 million tons (3.6%), while the total number of reported spot fixtures was down by 5.7%.
 
-*Chart*
+*Chart: Top 10 VLCC Spot Charterers*
 
 China significantly reduced its crude oil imports in the aftermath of the conflict in the Middle East. That shows in the VLCC spot fixture count. While Unipec remains the top VLCC charterer, with 217 reported fixtures, it is a 32% decline from the 317 fixtures we recorded last year. In contrast, Petrobras solidified its second place, increasing its fixture count from 52 in H1 2025 to 73 this year (+40%) reflecting Brazil’s growing crude oil exports. Overall, the number of reported VLCC spot fixtures declined from 1,447 in H1 2025 to 1,385 this year.
 
-*Chart*
+*Chart: Top 10 Suezmax Spot Charterers*
 
 In H1 2026, the Suezmax segment was dominated by the traditional oil majors, with Chevron, Total, ExxonMobil, BP and Shell making up the top 5. Suezmax volumes were less impacted by the closure of the Strait of Hormuz. The number of fixtures declined by 2%, from 855 in H1 2025 to 841 this year.
 
@@ -52,7 +52,7 @@ In H1 2026, the Suezmax segment was dominated by the traditional oil majors, wit
 |  | Others | 272,133 | 47.7% |  | 1,586 |
 |  | Total | 570,608 | 100.0% |  | 3,464 |
 
-*Chart*
+*Chart: Top 10 Aframax Spot Charterers*
 
 *Source: Poten & Partners*
 

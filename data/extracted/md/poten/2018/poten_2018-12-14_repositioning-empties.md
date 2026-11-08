@@ -22,7 +22,9 @@ The rapid growth of U.S. crude oil production and exports has, especially since 
 
 Based on the latest APEX trade statistics, about 85% of VLCC voyages end up in Asia (including the West Coast of the Americas). Only 8% of VLCCs discharge in the Atlantic Basin, equivalent to about 27 vessels per month. This compares to 78 vessels that load in the same area in an average month. This shows a significant imbalance in the VLCC market, i.e. a lot of “empties” have to be repositioned from the Pacific to the Atlantic. That is nothing new, VLCCs have ballasted from the Far East back to the Middle East or West Africa for many years. However, with the growth in Atlantic Basin crude oil production, in particular from the U.S. Gulf, the distances that the vessels need to ballast to get back to a loading area have increased substantially. It is less than 6,000 miles to get back to the Middle East from China. Ballasting back to West Africa is slightly more than 10,000 miles but repositioning an “empty” VLCC from China to the U.S. Gulf is a whopping 15,000 miles.
 
-*Chart*
+*Chart: VLCC Import Voyages Into The Atlantic Basin*
+
+*Chart: VLCC Export Voyages Out Of The Atlantic Basin*
 
 *Source: Lloyd’s List Intelligence*
 

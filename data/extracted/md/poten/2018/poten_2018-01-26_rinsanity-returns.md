@@ -22,11 +22,11 @@ The Renewable Fuel Standard was created with the Energy Policy Act of 2005 and w
 
 How does it work? The U.S. Environmental Protection Agency (EPA) administers the RFS program and establishes the volume requirements for each category. The EPA tracks compliance through the Renewable Identification Number (RIN) system. Every time a gallon of ethanol is shipped from a production facility, a RIN is produced. This RIN has value and is theoretically included in the price of ethanol when it is sold by the ethanol producer. When the ethanol is purchased by a marketer for example, and blended into gasoline, the RIN is separated and can be sold. Entities regulated by RFS include oil refiners and gasoline and diesel importers. The volumes required of each obligated party are based on a percentage of its petroleum product sales. Obligated parties can meet their renewable volume obligations (RVOs) by either selling required biofuel volumes or purchasing RINs from parties that exceed their requirements. However, the volatility and unpredictability of RIN prices can create a substantial financial burden for merchant-model refiners that don’t blend their own fuels.
 
-*Chart*
+*Chart: Statutary Volume Targets for Renewable Fuel*
 
 *Source: EPA*
 
-*Chart*
+*Chart: RIN Values Over Time*
 
 *Source: Bloomberg*
 

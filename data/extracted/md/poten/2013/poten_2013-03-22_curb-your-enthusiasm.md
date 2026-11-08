@@ -44,7 +44,7 @@ It did not take much to incite ordering in 2010
 
 by Currently Listed Owner Nationality
 
-*Chart*
+*Chart: VLCC Orderbook by Currently Listed Owner Nationality*
 
 Source: Poten
 

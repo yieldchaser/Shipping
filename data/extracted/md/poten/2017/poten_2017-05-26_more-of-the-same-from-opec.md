@@ -24,9 +24,9 @@ The OPEC cuts are production cuts, not export cuts and this is a key distinction
 
 So, based on the continuation of the production cuts that were announced this week, what can we expect going forward? Iranian floating storage has all but disappeared and since other OPEC countries’ inventories are now below their 5-year average (in terms of days production) we don’t expect that they will continue to sell crude from inventories. This means that OPEC members will reduce exports to bring them in line with (lower) production and this could spell more trouble for the tanker market, in particular VLCC’s loading in the Arabian Gulf.
 
-*Chart*
+*Chart: OPEC Crude Oil Exports*
 
-*Chart*
+*Chart: OPEC Production vs Seaborne Exports*
 
 *Source: Lloyd’s List Intelligence*
 

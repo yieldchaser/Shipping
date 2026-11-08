@@ -22,7 +22,9 @@ Vessels with scrubbers are able to continue using HFO. An increasing number of v
 
 The introduction of scrubbers and the significant Hi-5 margin have made assessing VLCC earnings more complicated. In addition to the difference between scrubber and non-scrubber vessels, there is also a distinction between non-Eco and Eco-vessels. Eco vessels are generally built after 2014 and have a more fuel-efficient engine, giving them a higher TCE. These distinctions effectively create four categories of tankers: the least efficient vessels are the Non-Eco vessels without a scrubber and the most efficient ones are the Eco vessels with a scrubber. During most of the pandemic, when tanker earnings and oil prices were low, the earnings differential between these vessel categories was between $2,000 and $5,000/day. However, since the Russian invasion of Ukraine, oil prices have skyrocketed and the TCE differentials have increased dramatically as well.
 
-*Chart*
+*Chart: VLSFO - HFO Price Spread In Main Bunker Ports*
+
+*Chart: TCE Spread: Scrubber Ship vs Non-Scrubber Ship*
 
 *Source: Poten & Partners*
 

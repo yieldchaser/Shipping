@@ -24,7 +24,7 @@ Market reports indicate that a growing portion of compliant VLSFO has been locke
 
 Major integrated oil companies and most refiners worldwide have also been preparing for the transition to compliant fuels. In addition to maximizing diesel production, many of them have also developed and are marketing their own IMO compliant fuels in the major bunkering hubs around the world. Some of the more complex refineries, especially those
 
-*Chart*
+*Chart: Singapore Fuel Prices*
 
 *Source: Ship & Bunker / Peninsula*
 

@@ -16,13 +16,13 @@ charts_count: 3
 
 **How the pandemic changed VLCC flows and volumes**
 
-*Chart*
+*Chart: 2020 VLCC Export Volumes from the Middle East*
 
 *Source: Lloyds List Intelligence*
 
 This is the second episode of our series on the changes in tradeflows as a result of Covid-19. This week, we will focus on the VLCCs. Rates experienced a rollercoaster ride in the first six months of the year. They started strong, coming off robust earnings in 2019 and boosted by IMO 2020. Rates in January averaged $70,000/day on the benchmark AG-Far East route. In February, when Covid-19 became a problem in China, the bottom fell out and rates dropped to $12,000/day. But not for long. The Saudi – Russian oil price war in March/April raised VLCC earnings to near-record levels, approaching $250,000/day on several occasions. However, amid a collapse in oil demand, OPEC+ cut production. As a result, demand for floating storage, which had boosted the tanker market, subsided, and VLCC earnings came back to earth. Amid all the turmoil in rates, VLCC tradeflows in 2020 showed interesting developments compared to the same period of 2019.
 
-*Chart*
+*Chart: 2020 VLCC Export Voyages from the US Gulf*
 
 *Source: Lloyds List Intelligence*
 
@@ -30,7 +30,7 @@ By far the biggest VLCC export trade is the one from the Middle East (Chart 1). 
 
 The trade patterns from the U.S. Gulf are very different (Chart 2). Early in 2020, VLCC exports were still below the levels of 2019, but this changed as the year progressed. The March through June period of this year showed significant increases relative to last year. Since the exports from the U.S. are more driven by oil prices and transportation costs, they tend to be more volatile and the destinations are less predictable. Early in the year, China did not import any crude oil from the U.S and they took only a couple of cargoes in March/April. However, in May and June, Chinese charterers dominated the U.S. export scene: they took more U.S. crude on VLCCs than everybody else put together.
 
-*Chart*
+*Chart: 2020 VLCC Export Voyages from West Africa*
 
 *Source: Lloyds List Intelligence*
 

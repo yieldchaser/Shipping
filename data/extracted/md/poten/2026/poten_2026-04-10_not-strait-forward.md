@@ -22,7 +22,9 @@ Unlike the Suez Canal or the Panama Canal, which are man-made “chokepoints”,
 
 In 1959, Iran expanded its territorial sea to 12 nautical miles. In 1972, Oman did the same. This effectively placed the entire Strait of Hormuz within their combined territorial waters. While the world generally sees the Strait of Hormuz as an international waterway, its legal status is a complex debate between two international standards: Transit Passage and Innocent Passage. Most of the international community, including the United Nations and the International Maritime Organization (IMO), classifies Hormuz as an "international strait" governed by the UN Convention on the Law of the Sea (UNCLOS). Under UNLCOS, ships and aircraft have the right of "transit passage" that is continuous and expeditious. Coastal states cannot suspend transit passage, even during wartime, and cannot impose tolls or taxes for simple passage. Iran is a signatory to UNCLOS but has not ratified it. Instead, Tehran (but not Oman)
 
-*Chart*
+*Chart: Crude & Dirty Product Exports From The AG by Destination*
+
+*Chart: Clean Product Exports from the AG by Destination*
 
 *Source: Vortexa*
 

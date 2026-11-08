@@ -18,11 +18,11 @@ charts_count: 3
 
 Every year Poten ranks the dirty spot charterers to see who tops the list in each segment and which companies are moving up or down in the ranking of the largest reported dirty spot charterers*. Each year it is a game of “spot the difference”, because a lot of the positions do not change year over year. The top 4 of 2017 are the same as the top 4 of 2016. The biggest mover was ExxonMobil, which dropped from 5th in 2016 to 13th in 2017. Total fixtures were up 3.6%.
 
-*Chart*
+*Chart: Top 10 VLCC Spot Charterers*
 
 In the VLCC segment, Unipec is extending its lead at the top. In 2017, we counted 611 reported fixtures for the Chinese charterer, 87 (17%) more than in 2016. Asian charterers continue to dominate the VLCC segment, with seven of the top ten domiciled in either China, India or South Korea. Three of the Western supermajors (Shell, Total and Exxon) make up the rest of the top ten. Combined, Chinese charterers logged 107 more fixtures than in 2016, while Indian charterers remained at the previous year’s level. The total number of reported VLCC spot fixtures increased from 1,964 in 2016 to 2,119 in 2017 (+7.9%).
 
-*Chart*
+*Chart: Top 10 Suezmax Spot Charterers*
 
 Chevron remained the largest Suezmax charterer in 2017, followed by Shell, which moved up from fourth position last year, while Repsol dropped to third. The number of Shell’s reported spot market fixtures in the Suezmax segment increased by 50% year-over-year. Unipec, which was third in
 
@@ -56,7 +56,7 @@ Source: Poten & Partners
 
 2016 dropped to 10th in 2017, due to a 30% reduction in reported Suezmax spot fixtures by this charterer. The total number of reported Suezmax fixtures in 2017 increased by 9% from 2,339 to 2,560.
 
-*Chart*
+*Chart: Top 10 Aframax Spot Charterers*
 
 Vitol remained the largest spot Aframax charterer, staying well ahead of fellow traders Glencore (3rd) and Trafigura (8th). The Majors continue to feature prominently in this segment, with Shell, Chevron, BP, Total and ExxonMobil all represented in the top 10. The total number of reported Aframax spot fixtures during 2017 declined by 65 to 3,883 (-1.6%).
 

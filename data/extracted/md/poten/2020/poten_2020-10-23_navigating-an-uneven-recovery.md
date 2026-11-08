@@ -26,13 +26,13 @@ Covid restrictions were relaxed during the summer and demand for road transporta
 
 Since July, the situation has worsened in both Europe and the Americas. While we don’t have demand data yet for August and September, we expect that the rapid recovery in demand has slowed down on both sides of the Atlantic as Covid-19 has entered a second wave. The situation in OECD Asia is different. While Covid is not completely gone, it appears to be much more under control in OECD Asia, which could help turn things around quicker.
 
-*Chart*
+*Chart: Clean Tanker Freight Rates (2020)*
 
 *Source: Poten & Partners*
 
 *Source: Poten & Partners*
 
-*Chart*
+*Chart: Total Number of Commercial Flights (Tracked by FlightRadar24)*
 
 *Source: FlightRadar24*
 

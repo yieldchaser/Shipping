@@ -22,11 +22,11 @@ The capacity utilization of the Neopanamax locks has gradually increased. The de
 
 Since the opening of the Neopanamax locks, we have counted 92 transits of Aframax and Suezmax tankers. Many of the tankers have used the canal as a repositioning shortcut as more than half (53) of the transits where for oil tankers travelling in ballast. Many of these are transits of tankers using the canal to get to load areas in the Caribbean and the U.S. Gulf after discharging on the U.S. West Coast. Only 6 of the 29 Suezmax tankers passing through the Canal were laden, which was at least partially caused by the fact that the Canal was not able to operate at design draft due to low water levels for most of the period. We estimate that at a draft of 14 m, which was in effect for about half of the period, a Suezmax tanker can only carry about 15,000 tons more than an Aframax.
 
-*Chart*
+*Chart: Neopanamax Transits Oct 2017-Jun 2018*
 
 *Source: Panama Canal Authority*
 
-*Chart*
+*Chart: Panama Canal Oil Tanker Transits (Neopanamax)*
 
 *Source: Lloyd’s List Intelligence, Poten*
 

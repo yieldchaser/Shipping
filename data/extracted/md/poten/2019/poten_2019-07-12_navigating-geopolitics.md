@@ -22,11 +22,11 @@ Iran is the first place that comes to mind. Iran is facing severe pressure from 
 
 Venezuela needs to be on the geopolitical watchlist as well. Like Iran, this country is also subject to ever-tightening U.S.
 
-*Chart*
+*Chart: Tanker Rates vs Oil Prices*
 
 *Source: Poten & Partners*
 
-*Chart*
+*Chart: Crude Oil Production of Selected Countries*
 
 *Source: IEA*
 

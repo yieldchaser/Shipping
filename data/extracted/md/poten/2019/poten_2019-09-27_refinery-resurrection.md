@@ -22,9 +22,11 @@ The current setup provides Limetree with a number of advantages. It has negotiat
 
 The products from the refinery can be sold internationally as well as on the U.S. East Coast (including Florida), where Limetree can be competitive versus U.S. Gulf refiners due to its Jones Act exemption. The U.S. East Coast is short of gasoline and diesel, even more so after the 335,000 b/d PES refinery in Philadelphia shut down.
 
-*Chart*
+*Chart: Tanker & Barge Movements from USG to US Atl. Coast*
 
 *Source: Lloyd’s List Intelligence*
+
+*Chart: U.S. Product Exports to Latin & Central America*
 
 *Source: EIA*
 

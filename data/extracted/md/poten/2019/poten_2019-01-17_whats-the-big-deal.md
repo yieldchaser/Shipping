@@ -20,11 +20,11 @@ On Wednesday, January 15, the U.S. and China signed a “phase 1” trade deal, 
 
 China is the world’s largest importer of crude oil. In 2019, it imported well over 10 million barrels per day (Mb/d). The overwhelming majority of those imports are seaborne, so any changes in those imports, in volume or in origin could have significant implications for the tanker market. However, oil is a fungible commodity, and this deal with the United States does not mean that China will import more crude oil than it previously planned to do. For 2020, the IEA expects that Chinese oil demand will grow by about 400 Kb/d, from 13.6 mb/d to 14.0 mb/d. If the Phase 1 agreement is implemented, and U.S. crude is competitively priced, there is room for significant additional volumes of U.S. crude oil to find its way to China. It would help if China removed the 5% tariff it currently levies on U.S. crude oil imports. A research report from Goldman Sachs, discussing the ins and outs of the trade deal, suggests that China could import an additional 500 Kb/d in U.S. crude in 2020 and an additional 800 Kb/d in 2021 (both relative to 2017). Based on these numbers, which we think represents a reasonable scenario, China would need to reduce its purchases from other crude oil suppliers in 2020 to meet its target. If they reduce purchases from the Middle East, tonmile demand will increase, but if light sweet crude oil from the U.S. replaces similar grades from Europe or West Africa, the impact will be more muted. For 2021, assuming China’s oil demand will grow by at least 300 Kb/d, no barrels from other suppliers will need to be replaced. However, China may not need an additional 300 Kb/d of light sweet crude and imports of lighter grades from West Africa and the Middle East may be reduced. This shift will likely have a modestly positive impact on demand for VLCCs, the vessels of choice to make these moves.
 
-*Chart*
+*Chart: Chinese Seaborne Crude Oil Imports*
 
 *Source: Lloyd’s List Intelligence*
 
-*Chart*
+*Chart: US Crude Oil Exports To China*
 
 *Source: EIA*
 

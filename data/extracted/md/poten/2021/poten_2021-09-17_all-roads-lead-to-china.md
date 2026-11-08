@@ -24,11 +24,11 @@ In addition to importing crude oil to fuel their domestic demand, China imported
 
 During the early part of the Covid-19 crisis, China overtook the U.S. as the world’s largest oil refiner. For several months in 2020 China processed more crude oil than the U.S. While temporary factors (the Covid-19 pandemic and U.S. Gulf hurricanes) contributed to this change, other – more permanent - developments also played a role. U.S. refining capacity peaked at 19 Mb/d in early 2020 and several companies have announced the closure of less efficient plants. In contrast, China’s refining sector is still growing with an additional 1.4 Mb/d of capacity coming online by 2024. However, if the
 
-*Chart*
+*Chart: China & U.S. Refinery Intake*
 
 *Source: JODI*
 
-*Chart*
+*Chart: Crude Import Volumes Into People's Republic of China*
 
 *Source: Lloyd’s List Intelligence*
 

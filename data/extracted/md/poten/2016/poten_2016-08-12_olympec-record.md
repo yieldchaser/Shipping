@@ -28,7 +28,7 @@ Firstly, the source of most of the incremental crude in 2016 is Iran, which boos
 
 *Source: OPEC*
 
-*Chart*
+*Chart: Middle East OPEC production versus VLCC 1 Yr TC Rates*
 
 *Source: Poten & Partners*
 

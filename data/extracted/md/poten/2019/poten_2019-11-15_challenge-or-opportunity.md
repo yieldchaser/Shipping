@@ -26,9 +26,11 @@ A highly complex refinery on the U.S. Gulf Coast can run almost any type of crud
 
 \*Includes transit barrels imported via Italy significant flexibility with respect to their sources of crude oil. The expectation is that IMO 2020 will create a global oversupply of fuel oil and this prospect is already reflected in the pricing of this product. The price discount has encouraged some refiners with high-complexity coking plants in the U.S. to increase the use of HSFO blend stocks as a feedstock, in lieu of heavier sour crudes. This has already led to some Russian fuel oil moving across the Atlantic in Aframaxes to the U.S. Gulf.
 
-*Chart*
+*Chart: Italian Seaborne Crude Imports*
 
 *Source: Lloyd’s List Intelligence*
+
+*Chart: Crude and Product Price Index (1-Jun-2019 = 100)*
 
 *Source: Bloomberg*
 

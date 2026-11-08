@@ -24,7 +24,9 @@ In West Africa, there are a lot of smaller producers, whose export patterns are 
 
 In the Americas, we have seen Brazilian exports come down from their highs in April. In April exports averaged 1.9 Mb/d. In May, shipments were down 21% to 1.5 Mb/d. Mexican exports were down a little, as was output from Colombia and Venezuela. U.S. Gulf exports remain quite volatile, but they have been trending down. The average exports for May are about 450,000 b/d lower than for April. The only significant shipper of crude from the Pacific side of the Americas is the
 
-*Chart*
+*Chart: Middle East Seaborne Crude Trade*
+
+*Chart: Non Middle East Seaborne Crude Trade*
 
 *Source: Lloyd’s List Intelligence*
 

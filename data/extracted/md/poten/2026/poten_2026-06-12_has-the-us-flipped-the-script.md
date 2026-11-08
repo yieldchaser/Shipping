@@ -22,7 +22,9 @@ One of the more interesting news stories that was posted this week on Truth Soci
 
 While assistance by the US Navy seems to have given a boost to “regular” traffic, Iranian shipments have largely dried up due to the enforcement of the US blockade of Iranian ports. US naval forces have not hesitated to use force against vessels attempting to circumvent the American blockade. According to CENTCOM (U.S. Central Command, responsible for the Middle East) U.S. forces have now disabled nine non-compliant vessels, redirected 135 ships that complied with military instructions, and allowed 42 humanitarian vessels to proceed since blockade operations began two months ago on April 13. Iranian oil exports have nosedived during this period.
 
-*Chart*
+*Chart: Daily Oil Cargoes Transiting the Strait of Hormuz in 2026*
+
+*Chart: Iran Crude & Dirty Product Exports By Destination*
 
 *Source: Vortexa*
 

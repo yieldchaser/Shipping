@@ -26,11 +26,11 @@ Several European governments such as the UK and France are taking a fairly aggre
 
 Based on the above developments, some experts, who have studied disruptive technologies in other areas, think that the EV market could develop rapidly. If the cost of batteries continues to decline at the recent pace, EV’s could become competitive very quickly, especially if the lower maintenance costs are taken into consideration. Under such a scenario, EV’s could reach a tipping point where the demand flips over a relatively short period from conventional ICE vehicles to EV’s for a major share of the market, although it will take some time for older (ICE) vehicles to disappear from the market.
 
-*Chart*
+*Chart: OECD and non-OECD electric vehicle passenger car and truck sales*
 
 *Source: EIA*
 
-*Chart*
+*Chart: Composition of New Car Sales, 2014 vs 2040*
 
 *Source: OPEC*
 

@@ -24,7 +24,9 @@ As expected, Iranian oil sales quickly picked up after the US lifted its blockad
 
 In addition to Iran, other Persian Gulf producers also started to resume loadings. For example, Saudi Arabia resumed crude loadings at Ras Tanura’s Ju’aymah offshore terminal after nearly four months. The UAE, Qatar and Kuwait are also ramping up exports. Iraq, which was badly impacted by the closure of the
 
-*Chart*
+*Chart: Daily Oil Cargoes Transiting the Strait of Hormuz in 2026*
+
+*Chart: Crude Oil Prices (Settlement Price)*
 
 *Sources: Vortexa, CME*
 

@@ -24,7 +24,9 @@ The IEA estimates global oil production to increase by 4.4 Mb/d in 2022 and by a
 
 OPEC+ front loaded its scheduled production growth, but only Saudi Arabia and the UAE have spare capacity. Libyan production is more of a question mark after recent civil unrest. However, both Nigeria and Angola are facing operational problems to meet their quota allocation and production is expected to slide further in 2023. Once the 2020 OPEC+ production cuts are unwound, very little spare capacity will remain.
 
-*Chart*
+*Chart: IEA: Global Oil Demand Outlook*
+
+*Chart: IEA: Global Oil Supply Outlook*
 
 *Source: International Energy Agency*
 

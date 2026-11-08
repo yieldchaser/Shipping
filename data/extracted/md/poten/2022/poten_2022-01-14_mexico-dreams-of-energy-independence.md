@@ -22,9 +22,11 @@ Detailed trade data from Lloyd’s List Intelligence (Chart 1) shows that Mexica
 
 It seems that Aframaxes in the Caribbean will be the main victim of declining exports from Mexico. The main customers of Mexican crude are Chevron, Houston Refining, Phillips 66, Valero and the Deer Park refinery in Deer Park, Texas. While the first four companies will have to look for alternative supplies, the Deer Park refinery is 50% owned by PEMEX, with a deal in place to acquire the remaining 50% from Shell later this month. Once 100% owned, the Deer Park refinery, which currently takes about 100,000 b/d of Maya crude, will be considered a “domestic” facility, so crude oil movements will continue, or could even expand in the future. The other clients will have to look elsewhere for their feedstock. Alternatives to Maya include Colombian Castilla, Brazilian Marlim, Arab Heavy from Saudi Arabia and crude from Western Canada. Depending on the choices that the refiners will make, this could benefit other tanker segments, including Suezmaxes (Marlim) and VLCCs
 
-*Chart*
+*Chart: Crude Oil Exports from Mexico*
 
 *Source: Lloyd’s List Intelligence*
+
+*Chart: Petroleum Product Imports By Mexico*
 
 *Source: JODI*
 

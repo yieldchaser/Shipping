@@ -24,9 +24,11 @@ Because of the export ban, growing U.S. crude supplies had to find a home in the
 
 What have been the implications of all these changes for the tanker market? A review of crude oil tanker demand related to U.S. imports and exports (see chart 2), shows that ton-mile demand bottomed out at 88 billion ton-miles in November 2014. Since crude oil exports were allowed, ton-mile demand from the U.S. has grown, in particular after charterers started using VLCCs for long-haul crude oil exports from the U.S. Gulf to Asia. This trade started in earnest in 2007 and has been growing quickly. Comparing Q1 2017 with the same period of 2018, VLCC imports into the U.S. Gulf reduced from 19 voyages per month in 2017 to 16 per month in 2018 (all from the Arabian Gulf). Over the same time period exports from the U.S. Gulf on VLCCs increased by an average 2.7 voyages per month (all going to Asia). Almost all these exports out of the U.S. Gulf on VLCCs are done via reverse lightering and given the distances involved, the net effect of these changes is an increase in tanker ton-mile demand.
 
-*Chart*
+*Chart: U.S. Crude Production vs Crude Prices*
 
 *Source: EIA*
+
+*Chart: U.S. Related Shipping Demand: Grand Total*
 
 *Source: Lloyd’s List Intelligence*
 

@@ -24,11 +24,11 @@ As the name already indicates, the primary crude oil tanker class using the cana
 
 Data from Lloyd’s List Intelligence shows that in 2020, about 7 Suezmaxes per month travelled from the Middle East to South Europe, mainly from Iraq (6.8 voyages/month) to Greece and Italy. Another 3.7 ships sailed from the Middle East to the East Med, mainly to Turkey. Smaller volumes move from the Middle East to UKC and to the Americas. Some of these trades can relatively easily be replaced by using the Sumed pipeline. There are media reports that the pipeline operator has already approached traders with cargo onboard ships that are waiting.
 
-*Chart*
+*Chart: Average Monthy Suezmax Voyages through Suez Canal*
 
 *Source: Lloyd’s List Intelligence*
 
-*Chart*
+*Chart: Black Sea - Med Freight Rates*
 
 *Source: Poten & Partners*
 

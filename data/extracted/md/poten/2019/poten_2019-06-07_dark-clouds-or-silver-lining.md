@@ -26,11 +26,11 @@ So, where do we go from here? Is the world heading towards a significant slowdow
 
 Demand growth in China and India may be more resilient than the pessimists expect despite the on-going trade wars. China is particularly vulnerable to oil price shocks given its rapidly growing oil dependence and especially in light of the recent
 
-*Chart*
+*Chart: World Oil Demand Growth (early reporters), YoY, Kb/d*
 
 *Source: Morgan Stanley*
 
-*Chart*
+*Chart: Brent Crude Oil Price*
 
 *Source: Bloomberg*
 

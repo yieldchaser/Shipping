@@ -22,7 +22,9 @@ Prior to Russia’s invasion of Ukraine, India imported only small quantities of
 
 India’s crude oil imports are on an upward trajectory, but they also show a strong seasonal trend. India’s monsoon season typically runs from June to September, and this is when product demand sees a downtrend because the seasonal rains restrict economic activity. Refineries plan their annual maintenance during this period and oil imports are reduced. Total crude oil imports into India have averaged around 4.5 Mb/d since the invasion and this is about 400,000 b/d more than in the 12-month period prior to February 2022. During the same period, Russian exports to India increased by almost 1.2 Mb/d. That means that the surge in Russian oil imports not only took care of all the demand increase, but it must also have come at the expense of the sales volumes of other exporters. Data from Vortexa shows that the countries that suffered the most are the United States and Nigeria (countries that sell most of their oil on the spot market), followed by Iraq and Kuwait. In the 12 months prior to the invasion of Ukraine, the United States exported 405,000 b/d to India and Nigeria 284,000 b/d. In the 17 months since February 2022, these volumes average 234,000 b/d for the United States (down 171,000 b/d) and 161,000 b/d for Nigeria (down 123,000 b/d). Volumes from Iraq are 79,000 b/d lower and Kuwait exports 64,000 b/d less to India. The UAE, Mexico, Oman, Brazil and Colombia also exported less to India. Saudi Arabia, India’s largest supplier after Russia has maintained its market share, in contrast to most other exporters from the Middle East.
 
-*Chart*
+*Chart: India: Seaborne Crude & Condensate Imports By Origin*
+
+*Chart: India: Crude & Condensate Imports by Vessel Class*
 
 *Source: Vortexa*
 
