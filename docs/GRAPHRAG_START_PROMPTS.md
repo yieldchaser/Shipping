@@ -1,6 +1,6 @@
 # GraphRAG build: prompts the owner pastes into DeepSeek Harness
 
-Setup is already done: the gateway runs at logon, keys are stored, and dsh points at the gateway. Open DeepSeek Harness, go to the **Shipping** workspace, click **New Session**, and check that the model reads "DeepSeek V4.1 Flash (gateway)".
+Setup is already done: the gateway runs at logon, keys are stored, and dsh points at the gateway. Open DeepSeek Harness, go to the **Shipping** workspace, click **New Session**, and check that the model reads "DeepSeek V4 Pro (gateway, main agent)". Subagents use "DeepSeek V4.1 Flash (gateway, workers)" automatically.
 
 ## First start (once)
 
