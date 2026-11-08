@@ -39,6 +39,8 @@ UF_BASE = os.environ.get("ULTRAFAST_BASE_URL", "https://ultrafast.trytokenfactor
 UF_MODEL = os.environ.get("ULTRAFAST_MODEL", "deepseek-v4.1-flash-1017-ultrafast")
 UF_DAILY_OUT = int(os.environ.get("ULTRAFAST_DAILY_OUTPUT", "4800000"))  # site budget: 5M output tokens/day
 UF_MAX_PROMPT_TOK = 120_000                                              # site limit: about 128k prompt tokens
+UF_MAX_OUT = 16_000                                                      # site limit: 16k output tokens per request
+UF_LONG_WAIT_S = 300   # a Retry-After longer than this is not a queue turn (e.g. daily budget used): skip Ultrafast until then
 
 EN_BASE = os.environ.get("ENCLAVE_BASE_URL", "https://router.enclave.ai/v1")
 EN_MODEL = os.environ.get("ENCLAVE_MODEL", "cyberouter/deepseek-v4-pro")      # stronger model for the paid fallback
@@ -134,8 +136,12 @@ class Usage:
 
 async def _open(session, base, key, model, body):
     b = dict(body, model=model)
-    if base == UF_BASE and UF_THINKING:
-        b["chat_template_kwargs"] = dict(b.get("chat_template_kwargs") or {}, thinking=True)
+    if base == UF_BASE:
+        if UF_THINKING:
+            b["chat_template_kwargs"] = dict(b.get("chat_template_kwargs") or {}, thinking=True)
+        for k in ("max_tokens", "max_completion_tokens"):
+            if isinstance(b.get(k), int) and b[k] > UF_MAX_OUT:
+                b[k] = UF_MAX_OUT
     if b.get("stream"):
         b["stream_options"] = dict(b.get("stream_options") or {}, include_usage=True)
     return await session.post(f"{base}/chat/completions", json=b, headers={"Authorization": f"Bearer {key}"})
@@ -190,7 +196,8 @@ async def chat(request):
     async with ClientSession(timeout=ClientTimeout(total=None, sock_read=600)) as s:
         # 1) Ultrafast (free, queued, one at a time)
         uf_ok = (UF_KEY and _approx_prompt_tokens(body) <= UF_MAX_PROMPT_TOK
-                 and STATE["uf_day_out"].get(_today(), 0) < UF_DAILY_OUT)
+                 and STATE["uf_day_out"].get(_today(), 0) < UF_DAILY_OUT
+                 and time.time() >= STATE.get("uf_blocked_until", 0))
         if uf_ok:
             errors = 0
             lock = request.app["uf_lock"]
@@ -216,6 +223,10 @@ async def chat(request):
                                 wait = float(r.headers.get("Retry-After") or 10)
                             except ValueError:
                                 wait = 10.0
+                            if wait > UF_LONG_WAIT_S:
+                                STATE["uf_blocked_until"] = time.time() + wait
+                                errors = 3
+                                break
                             end = time.monotonic() + min(max(wait, 1.0), 60.0)
                             while time.monotonic() < end:
                                 await keepalive()
@@ -254,6 +265,7 @@ async def stats(_):
     return web.json_response({
         "enclave_spent_usd": round(STATE["enclave_spent"], 4), "enclave_cap_usd": AGENT_CAP_USD,
         "ultrafast_output_today": STATE["uf_day_out"].get(_today(), 0), "ultrafast_daily_cap": UF_DAILY_OUT,
+        "ultrafast_blocked_for_s": max(0, int(STATE.get("uf_blocked_until", 0) - time.time())),
         "ultrafast_key_found": bool(UF_KEY), "enclave_key_found": bool(EN_KEY)})
 
 
