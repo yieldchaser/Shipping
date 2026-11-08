@@ -28,6 +28,43 @@ The design must therefore link every entity, event, claim, number and document a
 3. **Market-state snapshot.** For every segment and commodity, a "current state" node as of the latest data. It holds latest rates and their trend, latest broker views, the orderbook/fleet position and open events, each with its date. "What is the market doing now" is answered from it and says how fresh it is.
 4. **Forecast ledger.** Every forecast claim (who, what, horizon, direction, date) is matched to what happened later in layer-A data, where measurable. The system can answer "who called it right" and "what do brokers expect next" with a track record.
 
+5. **Analyst mode: the system's own forward view.** It must handle questions such as:
+   - "Where will tankers be in Q2?"
+   - "Is the tanker market overheated?"
+   - "Is this a good time to buy or sell ships, or shipping stocks?"
+
+   It answers by combining:
+   - **Cycle indicators, computed per segment** with their historical percentile:
+     - earnings vs history;
+     - secondhand price ÷ annual TCE (an asset P/E);
+     - the newbuild–secondhand–scrap price spread;
+     - orderbook ÷ fleet;
+     - fleet age and scrapping;
+     - sentence-level broker sentiment;
+     - asset values vs earnings (expensive or cheap).
+   - **Book principles**, stored as cited rules, for example contrarian timing ("old-hat owners buy when earnings are terrible and sell when they are great"), cycle stages and the "best deals have the worst cash flow" logic.
+   - **The forecast ledger:** who has been right in this segment.
+   - **The current state snapshot** (item 3).
+
+   Every answer separates three labelled parts:
+   - (a) cited facts;
+   - (b) computed indicators;
+   - (c) the system's judgment, with reasoning, a confidence level, and the strongest counter-argument.
+
+   **Backtest it:** run analyst mode "as known on" at least 20 past dates and score its calls against what happened afterwards. Report the hit rate honestly, whatever it is. A judgment is never presented as a fact.
+6. **Discovery pass: connections nobody wrote down.** Once layers A and C are built, search systematically for non-obvious links, for example a drought somewhere, then grain flows, then Panamax rates, then a listed owner's earnings. Methods:
+   - all-pairs lead/lag and co-movement across every series, with false-discovery-rate control, a minimum sample size and an out-of-sample check;
+   - event studies: how each event type moved each series afterwards;
+   - graph bridges: entities and events that link otherwise separate parts of the graph;
+   - claims where a source links two domains.
+
+   Store the survivors in a `discovered_link` table with statistics, window and evidence ids, labelled `computed`. Use them in answers ("this is linked to X; here is the evidence"). Put the top 30 findings, with evidence, into the C2 report for the owner to read.
+
+**Gold-set additions** (on top of plan §12):
+- 30 analyst-mode questions, graded by a judge from another model family on a rubric: facts correct and cited, indicators correct, judgment reasoned and labelled, counter-argument present. Rubric score must be at least 0.8.
+- The backtest hit rate is reported.
+- 20 discovery questions that need at least 3 hops across domains.
+
 Concretely, it must answer questions like these:
 
 - "What was the TD3C TCE in week 40 2025?"

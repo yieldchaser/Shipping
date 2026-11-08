@@ -57,6 +57,14 @@ P7:
   multihop_f1: 0.75
   refusal_gap_accuracy: 0.95
   faithfulness: 0.95
+  analyst_mode_questions: 30
+  analyst_mode_rubric: 0.80
+  analyst_backtest_dates: 20
+  analyst_backtest_hit_rate_reported: true
+  discovery_questions_3hop: 20
+  discovery_multihop_f1: 0.70
+  discovered_links_fdr_max: 0.10
+  discovered_links_out_of_sample_checked: true
 P8:
   weekly_dry_run_cost_usd_max: 1.0
 
