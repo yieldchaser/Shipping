@@ -87,6 +87,11 @@ Then apply the improvements that **raise or keep** quality without lowering any 
 6. **Books** (`public_ok=false`) never appear in any committed file or any GitHub Release.
 7. **Secret scan before every commit.** Use `git diff --cached` and grep for `sk-`, `ghp_`, `AKIA`, `Bearer`, `llx-`, `nace_sk_` and anything that looks like a key or token. Abort the commit on a hit.
 8. **Git.** Work on branch `kb-build`. Commit after each phase passes its gate, with the phase report included. Do not push to `main`. Push `kb-build` to origin after each phase so the owner can follow progress.
+   - **Exactly one branch and one checkout.** Work only on `kb-build`, inside the existing checkout at `C:\Users\Dell\Github\Shipping`. The repo is about 16 GB, and extra checkouts once filled the disk.
+   - **Never** run `git worktree add`, `git clone`, or create any other branch, stash or tag.
+   - Subagents work in the same checkout, on separate files.
+   - Never commit anything under `kb/state/`, `kb/.venv/`, `*.duckdb`, `*.sqlite`, `*.npy`, `*.parquet`, model files or raw LLM responses. Large outputs stay git-ignored. Each commit must be under 5 MB; check `git diff --cached --stat` before committing.
+   - Never run `git gc --prune`, `git reset --hard`, `git clean`, `git checkout -- <path>` on data, or anything that rewrites history.
 9. **No silent scope cuts.** If a gate cannot be met, say so in the report. Do not lower a threshold.
 10. **Memory.** Never load the whole corpus into memory. DuckDB `memory_limit='2GB'`. Watch your own process RAM: if the free RAM reported by `psutil` falls below 1 GB, reduce batch sizes.
 
