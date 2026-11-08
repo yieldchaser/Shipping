@@ -109,6 +109,7 @@ class Usage:
 
     def __init__(self):
         self.p = self.c = self.cached = 0
+        self.cost = None  # router-reported cost (Enclave sends usage.cost)
         self.buf = b""
 
     def take(self, u):
@@ -116,6 +117,8 @@ class Usage:
             self.p = u.get("prompt_tokens") or self.p
             self.c = u.get("completion_tokens") or self.c
             self.cached = (u.get("prompt_tokens_details") or {}).get("cached_tokens") or self.cached
+            if isinstance(u.get("cost"), (int, float)):
+                self.cost = float(u["cost"])
 
     def feed_sse(self, chunk):
         self.buf += chunk
@@ -170,7 +173,7 @@ async def chat(request):
             except (ValueError, AttributeError):
                 pass
             resp = web.Response(body=data, status=upstream_resp.status, content_type="application/json")
-        cost = 0.0 if name == "ultrafast" else (u.p * EN_PRICE_IN + u.c * EN_PRICE_OUT) / 1e6
+        cost = 0.0 if name == "ultrafast" else (u.cost if u.cost is not None else (u.p * EN_PRICE_IN + u.c * EN_PRICE_OUT) / 1e6)
         _log({"upstream": name, "model": model, "status": upstream_resp.status,
               "prompt_tokens": u.p, "completion_tokens": u.c, "cached_tokens": u.cached,
               "cost_usd": round(cost, 6), "wait_s": round(time.monotonic() - t0, 1), "stream": stream})
