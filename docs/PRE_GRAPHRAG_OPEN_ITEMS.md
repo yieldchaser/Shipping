@@ -249,6 +249,17 @@ Build plan (layers, schema, DeepSeek runner, budget, phases and gates): `docs/GR
       - 1 false positive (VALE 20-F 2023 Salobo header: footnote markers read as numbers).
       - 2 real stacked blocks left: VALE 20-F 2023 actuarial liabilities, VALE 6-K 2026-07-31 (second statement):
         the header years sit inside the stacked row, so no matcher anchors. Values are present, rows merged.
+      2026-11-08: the detector only counted cells with 3+ values. Cells holding TWO values ("| (437) (362) |",
+      a merged value column) were in 409 filings, 16,375 cells. `scripts/acquire/reconvert_sec_merged_cells.py`
+      converts each filing again with today's converter (as `fetch_sec_filings.process_filing`), takes table
+      headers from the filing HTML, keeps the frontmatter, and writes only when merged cells drop, every data
+      number of the stored file is still there and <= 0.5% of words are missing. 284 rewritten (cells 16,375 ->
+      641, 0 numbers lost vs HEAD); 127 left as stored (108 not better: the SEC cell itself holds two values, e.g.
+      BHP year pairs; 15 words lost; 4 numbers lost). VALE 6-K 2026-07-31 now reads row by row.
+      Same day: `sec_tables_from_html.py` read EDGAR's zero-width-space spacer cells as text, so 143 filings
+      (LPG, ASC, GNK, INSW, VALE 20-F 2015-2022 ...) had tables padded with empty spacer columns and header rows. Fixed
+      (zero-width chars are empty) and those tables rebuilt from the HTML: 0 spacer cells left, no number lost.
+      New filings got "Line Item / Col 3" headers: `sec_filings_weekly.yml` now runs the header pass on them.
 - [x] Two Fearnleys app reports of 2024-03-25 (`fearnleys-md/2024/2024-03-25_hogne-aasjords-rapport.md`, `..._rapport-2.md`)
       are empty test posts (a heading; "Test / Hallo"), no PDF. Deleted (owner, 2026-11-02); `run_fearnleys_md_normalized.py` skips their ids.
 - [x] Poten issues that are emailed but not yet online. `scripts/scrapers/fetch_poten_x_fallback.py` (daily in

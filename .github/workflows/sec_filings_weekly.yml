@@ -58,6 +58,8 @@ jobs:
           if [ -s new_sec.txt ]; then
             python scripts/audit/detect_sec_stacked_tables.py --paths $(cat new_sec.txt) --list > stacked_sec.txt || true
             [ -s stacked_sec.txt ] && python scripts/acquire/rerender_sec_stacked_tables.py --list stacked_sec.txt || true
+            # table headers from the filing HTML: sec2md writes "Line Item" / "Col 3" or folds header rows together
+            python scripts/acquire/sec_tables_from_html.py --md $(cat new_sec.txt) || true
           fi
           rm -f new_sec.txt stacked_sec.txt
 

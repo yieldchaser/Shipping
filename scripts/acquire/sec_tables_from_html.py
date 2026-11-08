@@ -40,7 +40,8 @@ NUMTOK = re.compile(r"\d[\d,]*\.?\d*")
 
 def _txt(td) -> str:
     t = td.get_text(" ", strip=True)
-    t = htmllib.unescape(t).replace("\xa0", " ")
+    # zero-width spaces fill EDGAR's spacer cells (2026 filings): they are empty, not text
+    t = re.sub("[​‌‍﻿]", "", htmllib.unescape(t).replace("\xa0", " "))
     t = re.sub(r"\s+", " ", t).strip()
     return re.sub(r"\s+\)", ")", re.sub(r"\(\s+", "(", t))
 
@@ -305,6 +306,7 @@ OPEN = re.compile(r"^(\\\$\s*)?\(\s*([\d,]*\.?\d+)\s*(%?)$")
 
 
 def split_row(line: str) -> list[str]:
+    line = re.sub("[​‌‍﻿]", "", line)  # zero-width spacer cells read as empty
     return [c.strip() for c in re.split(r"(?<!\\)\|", line.strip()[1:-1] if line.strip().endswith("|") else line.strip()[1:])]
 
 
