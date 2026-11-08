@@ -22,13 +22,11 @@ In their April announcement OPEC+ pledged to cut production by 1.1 Mb/d in May 2
 
 The Sunday announcement was dominated by one country only: Saudi Arabia. The Kingdom will cut production in July by 1 million b/d. No other OPEC+ member (including Russia) committed to any reductions, although some of the African producers, in particular Nigeria and Angola had to accept lower production quotas for 2024. The winner from the latest OPEC meeting seems to be the UAE, which will see its quota raised by 200,000 b/d in 2024. This is important for the oil and tanker markets, because (unlike Nigeria and Angola), the UAE has the capacity to produce (and export) these additional barrels. It is important to note that the Saudi cut is only for one month. It is clear that the largest OPEC producer is single-handedly trying to boost the oil price. The cutbacks could be extended beyond next month, but if they don’t have the desired effect, Saudi Arabia may put these barrels back in the market so as not to lose market share to other producers within and outside the Cartel. The Saudi are also wary of “freeloaders”; producers that benefit from the cutbacks without making any sacrifices themselves.
 
-After the announcement of the Saudi cutback, oil prices initially rallied, but they have somewhat retreated since. The longer-term trajectory of global oil prices will probably be more driven by the demand side of the equation. The risk of a global
+After the announcement of the Saudi cutback, oil prices initially rallied, but they have somewhat retreated since. The longer-term trajectory of global oil prices will probably be more driven by the demand side of the equation. The risk of a global recession and the somewhat lackluster recovery in China are often cited (also by OPEC) as the reasons for a conservative outlook for the second half of 2023.
 
 *Chart*
 
 *Sources: Lloyd’s List Intelligence; Poten & Partners*
-
-recession and the somewhat lackluster recovery in China are often cited (also by OPEC) as the reasons for a conservative outlook for the second half of 2023.
 
 The tanker market needs to pay close attention to what OPEC says and does and the economic outlook for China is also a key indicator. However, history suggests that Chinese (and Indian) demand are very hard to forecast. With popular sentiment turning increasingly negative about oil and tanker demand, the risks may be on the upside. If China’s recovery and oil demand is stronger than currently anticipated, a cutback in Middle Eastern exports may need to be compensated by more oil from the Atlantic Basin, which would be a boost for ton-mile demand.
 

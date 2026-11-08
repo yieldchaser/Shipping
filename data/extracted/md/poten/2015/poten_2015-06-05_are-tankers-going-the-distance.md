@@ -24,13 +24,11 @@ Figure 1 shows the development of average distances in each of the major crude t
 
 Starting with the VLCC segment data, we can see some interesting developments. At first glance, the average distances from 2009 to 2015 YTD do not support the notion of longer average distances. After a 618 mile (9%) increase from 2009 to 2012, average distances for VLCCs have actually decreased in recent years. The increase from 2009 to 2012 is clearly the result of two rapidly developing long-haul trades: from West Africa to the Far East (11,000 miles) and from the Caribbean to Asia (10,000 – 14,000 miles, depending on the destination). While a lot of these voyages are indicative of additional demand, some of the long-haul cargoes have been replacing shorter haul voyages from the Arabian Gulf.
 
-It is difficult to explain the downward trend in average VLCC distances after 2012. The fixture data seems to indicate that while the West Africa to Asia trade keeps growing, there has been a reversal in the VLCC traffic from the Caribbean to Asia (in particular to India). We think that this is not a correct reflection of what is actually happening. Since many movements are done under long-term contracts, we believe that an increasing number of the cargoes from the Caribbean are moving outside off the
+It is difficult to explain the downward trend in average VLCC distances after 2012. The fixture data seems to indicate that while the West Africa to Asia trade keeps growing, there has been a reversal in the VLCC traffic from the Caribbean to Asia (in particular to India). We think that this is not a correct reflection of what is actually happening. Since many movements are done under long-term contracts, we believe that an increasing number of the cargoes from the Caribbean are moving outside off the reported spot market.
 
 *Chart: Fig. 1: Average Laden Distances of the Major Crude Tanker Segments*
 
 *Source: Poten & Partners*
-
-reported spot market.
 
 The development of average distances in the Suezmax segment also paint an interesting, albeit slightly confusing, picture of what is happening in that market. The average distance of the reported spot Suezmax voyages increased steadily from 2009 through 2013, a result of more long-haul fixtures originating in the Arabian Gulf and the Caribbean. However, this trend reversed in recent years. This can be partially attributed to the well documented decline in West Africa – U.S.A. movements as a result of the domestic tight oil boom. However, other factors have played a role as well. When comparing the first five months of 2015 with the same period of 2014, it shows a marked increase in shorter haul voyages from the AG to India. At the same time there was a reduction in longer haul trips to the UK/Continent and the U.S. West Coast. Intra-regional Suezmax movements in the Caribbean also increased this year.
 

@@ -22,7 +22,7 @@ This is not an easy question to answer. To get a complete picture, one cannot on
 
 The situation in Asia is mixed. India also has a modern, sophisticated refining industry with virtually no idle capacity (99% utilization rate). However, because product demand growth is expected to outpace refining expansion, India may have to cut down on product exports over the next five years. This would be unfortunate because India has been a major player in the refined products export market, providing employment opportunities for LR1 and LR2 product tankers.
 
-China’s refining industry is changing rapidly. On the one hand, it is expanding, with an expected 3.6 mb/d of new capacity added to 2024. Refinery utilization rates in China are not very high to begin with. According to the IEA, they currently stand at 77%. With the new capacity additions, which far outpace forecasted Chinese demand growth, the expectation is that refining utilization will remain under pressure. It is also possible that China’s product exports will pick up. This would be a positive development for the product tanker market. As the IEA points out, China is already a major exporter, regularly shipping
+China’s refining industry is changing rapidly. On the one hand, it is expanding, with an expected 3.6 mb/d of new capacity added to 2024. Refinery utilization rates in China are not very high to begin with. According to the IEA, they currently stand at 77%. With the new capacity additions, which far outpace forecasted Chinese demand growth, the expectation is that refining utilization will remain under pressure. It is also possible that China’s product exports will pick up. This would be a positive development for the product tanker market. As the IEA points out, China is already a major exporter, regularly shipping between 10-20% of its domestic diesel, gasoline and kerosene output. Some of these exports are transported as far as Europe and the United States.
 
 *Chart*
 
@@ -31,8 +31,6 @@ China’s refining industry is changing rapidly. On the one hand, it is expandin
 *Chart*
 
 *Source: JODI*
-
-between 10-20% of its domestic diesel, gasoline and kerosene output. Some of these exports are transported as far as Europe and the United States.
 
 The major state-owned companies like CNOOC and Sinochem account for only a small portion of the refining capacity expansion over the next five years. The majority of China’s new capacity (around 54%) will come from independent refiners. The independent refiners are dominated by three big players that are planning to build large petrochemical plants in coastal regions. Once these plants are finished, the Chinese will be able to drastically reduce their imports of petrochemicals. The petrochemical plants will source their feedstock (naphtha and condensates) mainly from the Middle East on LR1 and LR2 product carriers.
 

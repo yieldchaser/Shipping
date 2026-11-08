@@ -238,11 +238,9 @@ Once again, the freight markets took centre stage, leaving the hopes of getting 
 - UAE-flagged ships.
 - Foreign ships are recycled in the UAE.
 - Foreign ships where the decision to recycle was made while the vessel was in UAE waters.
-- Foreign ships commencing the final voyage for recycling directly from UAE waters. In addition, new ships under the UAE flag must have an Inventory of Hazardous Materials (IHM) on board, identifying hazardous materials, their location, and quantities. Existing UAE-flagged ships must comply with IHM requirements by June 26, 2030, or before undergoing recycling. By aligning with the European Ship Recycling Regulation, the UAE aims to attract responsible ship owners and foster high-standard, environmentally conscious practices
+- Foreign ships commencing the final voyage for recycling directly from UAE waters. In addition, new ships under the UAE flag must have an Inventory of Hazardous Materials (IHM) on board, identifying hazardous materials, their location, and quantities. Existing UAE-flagged ships must comply with IHM requirements by June 26, 2030, or before undergoing recycling. By aligning with the European Ship Recycling Regulation, the UAE aims to attract responsible ship owners and foster high-standard, environmentally conscious practices in the maritime industry. Violations will incur penalties as the UAE prioritises compliance and the development of sustainable recycling facilities. UAE ports are one of the major ports for end-of-life ships as the last port of call prior to going to the Indian Sub-Continent.
 
 ## Page 12
-
-in the maritime industry. Violations will incur penalties as the UAE prioritises compliance and the development of sustainable recycling facilities. UAE ports are one of the major ports for end-of-life ships as the last port of call prior to going to the Indian Sub-Continent.
 
 Alang, India
 
@@ -258,11 +256,9 @@ Anchorage & Beaching Position (December 2023)
 
 Chattogram, Bangladesh
 
-Over the past few weeks, a consistent status quo has persisted, with no discernible shifts in the existing parameters. Despite this stability, there's a noteworthy aspect on the domestic front - demand from mills remains unwavering. This steadiness is particularly notable in the context of the rising prices associated with imported ferrous scrap. As the clock ticks closer to the upcoming elections scheduled for January 7, 2024, the recycling industry is slowly awakening. Despite the anticipation surrounding the leadership
+Over the past few weeks, a consistent status quo has persisted, with no discernible shifts in the existing parameters. Despite this stability, there's a noteworthy aspect on the domestic front - demand from mills remains unwavering. This steadiness is particularly notable in the context of the rising prices associated with imported ferrous scrap. As the clock ticks closer to the upcoming elections scheduled for January 7, 2024, the recycling industry is slowly awakening. Despite the anticipation surrounding the leadership outcome, the current scenario depicts a measured level of activity. The elections are not only a political spectacle but also a crucial barometer for observers, providing insights into the course of the domestic currency and the government's stance on persisting issues, particularly the ongoing challenges with Letters of Credit. Against the backdrop of a significant foreign exchange crisis gripping the economy, all eyes are on how the electoral process unfolds, with implications extending beyond political dynamics to the resolution of pressing economic issues. Bangladesh faces escalating pressure on its foreign exchange reserves, burdened by unpaid liabilities totalling billions of dollars owed to foreign creditors, energy companies, and international firms.
 
 ## Page 13
-
-outcome, the current scenario depicts a measured level of activity. The elections are not only a political spectacle but also a crucial barometer for observers, providing insights into the course of the domestic currency and the government's stance on persisting issues, particularly the ongoing challenges with Letters of Credit. Against the backdrop of a significant foreign exchange crisis gripping the economy, all eyes are on how the electoral process unfolds, with implications extending beyond political dynamics to the resolution of pressing economic issues. Bangladesh faces escalating pressure on its foreign exchange reserves, burdened by unpaid liabilities totalling billions of dollars owed to foreign creditors, energy companies, and international firms.
 
 ## Page 14
 

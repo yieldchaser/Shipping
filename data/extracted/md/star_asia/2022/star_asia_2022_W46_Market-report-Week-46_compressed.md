@@ -36,15 +36,9 @@ The deal to allow Ukrainian grain shipments via Black Sea ports has been renewed
 
 Expectations for normalisation of activity came in as reports spread in the market that the
 
-Chinese government will soften its zero-corona policy and movement control easing,
+Chinese government will soften its zero-corona policy and movement control easing, resulting in a recovery trend over the week. Expectations for future industrial have also risen.
 
-resulting in a recovery trend over the week. Expectations for future industrial have also risen.
-
-Furthermore, on November 13, a comprehensive real estate support package was enacted,
-
-including the extension of the maturity of real estate developer loans. For the time being, the
-
-foregoing policies will strengthen market sentiment and function as support factors for the
+Furthermore, on November 13, a comprehensive real estate support package was enacted, including the extension of the maturity of real estate developer loans. For the time being, the foregoing policies will strengthen market sentiment and function as support factors for the
 
 Capes. Overall, rates in the segment continue to fall. Pacific r/v ended the week at US$
 
@@ -60,9 +54,7 @@ Continued sluggishness in Indonesian coal shipments and difficulty in negotiatin
 
 ### Handysize:
 
-The Atlantic basin saw little activity this week. T/A levels continue to slip, with levels in the region of US$11,350 a day. In contrast, markets in the Pacific began to seem more balanced
-
-as orders and tonnage decreased. However, sentiments overall still remain bleak, with inter- Pacific levels discounted to US$8,150 a day.
+The Atlantic basin saw little activity this week. T/A levels continue to slip, with levels in the region of US$11,350 a day. In contrast, markets in the Pacific began to seem more balanced as orders and tonnage decreased. However, sentiments overall still remain bleak, with inter- Pacific levels discounted to US$8,150 a day.
 
 ## Page 3
 
@@ -193,19 +185,9 @@ PROD / WOOJIN CHEMS 12,675 1999 N/A N/A BERLIAN LAJU TANKERS CHEM
 
 # Containers
 
-While the global economy was facing a shortage of containers during the Covid pandemic, it
+While the global economy was facing a shortage of containers during the Covid pandemic, it is now experiencing a similar issue with too many. According to data collected by the
 
-is now experiencing a similar issue with too many. According to data collected by the
-
-International Container Terminals Association, the number of containers at depots has
-
-increased significantly. This suggests that the world economy is entering a slower phase, and
-
-the signs of a potential slowdown are already starting to emerge. Europe's tonnage has
-
-started to become tight, especially in the sub-2000 TEU sector, which has prompted owners
-
-to try and reverse the slide in the rates.
+International Container Terminals Association, the number of containers at depots has increased significantly. This suggests that the world economy is entering a slower phase, and the signs of a potential slowdown are already starting to emerge. Europe's tonnage has started to become tight, especially in the sub-2000 TEU sector, which has prompted owners to try and reverse the slide in the rates.
 
 ## Page 8
 
@@ -288,11 +270,9 @@ It has been a roller coaster ride for the Indian steel industry, including the s
 
 ### CHATTOGRAM, BANGLADESH
 
-The industry has become more imperceptible this week as the ongoing U.S. dollar crisis in Bangladeshi banks was getting more challenging day by day, and at the same time, the ship prices have also started to correct. The banks in Bangladesh have refrained from opening letters of credit (LC), and the situation is that LC's for importing daily necessities is also getting difficult. The U.S. dollar crisis is paralyzing the domestic economy, which once was the fastest growing in the region. Several Bangladesh banks fail to clear their import liabilities with International banks. Due to the foreign exchange crisis and exchange rate losses, the recyclers as well are refraining from offering on a firm basis as they feel there is no sense in offering when they cannot get banking support. In short, the markets remain absent for the time being, and any fresh offers from recyclers are on the subject of obtaining LC basis, making it as good as a non-starter. It has been an unfortunate situation for the sellers where the ships arriving in Bangladesh start to pile up at outer anchorage, caught in the crossfires with an uncertain fate. Ships are indefinitely waiting outside Chittagong, hoping for a quick remedy, but there is a sense of plight to endure. On the other hand, the ships yet to reach are being diverted to alternate destinations sending markets a fearsome picture. However, after all the negativity surrounding the markets, the only positive side was that domestic ship scrap prices have exponentially jumped back to high levels after dropping to
+The industry has become more imperceptible this week as the ongoing U.S. dollar crisis in Bangladeshi banks was getting more challenging day by day, and at the same time, the ship prices have also started to correct. The banks in Bangladesh have refrained from opening letters of credit (LC), and the situation is that LC's for importing daily necessities is also getting difficult. The U.S. dollar crisis is paralyzing the domestic economy, which once was the fastest growing in the region. Several Bangladesh banks fail to clear their import liabilities with International banks. Due to the foreign exchange crisis and exchange rate losses, the recyclers as well are refraining from offering on a firm basis as they feel there is no sense in offering when they cannot get banking support. In short, the markets remain absent for the time being, and any fresh offers from recyclers are on the subject of obtaining LC basis, making it as good as a non-starter. It has been an unfortunate situation for the sellers where the ships arriving in Bangladesh start to pile up at outer anchorage, caught in the crossfires with an uncertain fate. Ships are indefinitely waiting outside Chittagong, hoping for a quick remedy, but there is a sense of plight to endure. On the other hand, the ships yet to reach are being diverted to alternate destinations sending markets a fearsome picture. However, after all the negativity surrounding the markets, the only positive side was that domestic ship scrap prices have exponentially jumped back to high levels after dropping to lows a couple of weeks back. This week saw a decent uptick, up by 10%, mainly due to a shortage led by import restrictions. The entire industry is hoping for some direction from the government on easing the banking restrictions, which would help to propel the economy, but the sentiments currently remain laborious. On the other hand, it was announced at the meeting between Industries Minister Nurul Majid Mahmud Humayun and Japanese Ambassador to Bangladesh Ito Naoki at the Industries Ministry in the city that Japan will be setting up ship recycling facilities in Chittagong. Ito Naoki said Japan would help Bangladesh in all possible ways to comply with the conditions of "The Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships, 2009 (The Hong Kong Convention)". He presented multiple alternative proposals for setting up ship recycling facilities in Chittagong Mirsarai and Sitakund areas.
 
 ## Page 13
-
-lows a couple of weeks back. This week saw a decent uptick, up by 10%, mainly due to a shortage led by import restrictions. The entire industry is hoping for some direction from the government on easing the banking restrictions, which would help to propel the economy, but the sentiments currently remain laborious. On the other hand, it was announced at the meeting between Industries Minister Nurul Majid Mahmud Humayun and Japanese Ambassador to Bangladesh Ito Naoki at the Industries Ministry in the city that Japan will be setting up ship recycling facilities in Chittagong. Ito Naoki said Japan would help Bangladesh in all possible ways to comply with the conditions of "The Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships, 2009 (The Hong Kong Convention)". He presented multiple alternative proposals for setting up ship recycling facilities in Chittagong Mirsarai and Sitakund areas.
 
 ### Anchorage & Beaching Position (November 2022)
 

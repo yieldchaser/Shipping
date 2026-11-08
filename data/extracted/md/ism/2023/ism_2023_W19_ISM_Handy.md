@@ -38,15 +38,11 @@ EU steel scrap, CFR Turkey, $/t Freight rate, scrap (sf 58`), 40-45,000t, ARAG -
 
 As expected, the SE Asian and Far Eastern shipping markets have become more attractive for ship owners after protracted holidays in the region. Over the week, corresponding rates have risen by $0.5-1k daily and $0.25- 1/t due to an increase in cargo offer.
 
-Next week, rates may still start growing in the South Atlantic, which will require higher pace of South American grain exports compared to the inflow of ballasters with ETA in late May, which looks realistic. The USG market
-
-sentiment is also positive. «Cargo list looks solid towards the end of the week and we will likely see a strong market in the coming week,» a broker mentioned.
+Next week, rates may still start growing in the South Atlantic, which will require higher pace of South American grain exports compared to the inflow of ballasters with ETA in late May, which looks realistic. The USG market sentiment is also positive. «Cargo list looks solid towards the end of the week and we will likely see a strong market in the coming week,» a broker mentioned.
 
 The North European market will hardly show any noticeable improvements next week. Players are pinning their hopes on increased scrap offer only closer to the end of May. The Black Sea market picture may change if the agreement on extension of the grain corridor operation is reached in the coming days. However, even the extension of the deal does not guarantee the increase in exports from Ukraine, because Russian representatives were actually sabotaging vessel inspections during the last few weeks, and it is difficult to say whether this situation will change even after the extension of the deal.
 
-Further developments look ambiguous on the SE Asian market. Despite higher activity after holidays,
-
-spot rates are reacting rather slowly due to long list of vessels accumulated in SE Asia during the holiday season. Moreover, shipments of Indonesian coal to China will most likely remain limited, as country's coal stocks are quite large. On the other hand, shipments of Indonesian coal to India may gain pace ahead of the monsoon season, which may support the market in 2H May.
+Further developments look ambiguous on the SE Asian market. Despite higher activity after holidays, spot rates are reacting rather slowly due to long list of vessels accumulated in SE Asia during the holiday season. Moreover, shipments of Indonesian coal to China will most likely remain limited, as country's coal stocks are quite large. On the other hand, shipments of Indonesian coal to India may gain pace ahead of the monsoon season, which may support the market in 2H May.
 
 ---
 

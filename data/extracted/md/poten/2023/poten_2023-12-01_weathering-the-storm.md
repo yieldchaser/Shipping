@@ -24,13 +24,11 @@ The country has three main export routes: Through the 1.4 Mb/d Caspian Pipeline 
 
 Many of these export routes are under-utilized, either due to geopolitical issues related to the Russia - Ukraine conflict and associated sanctions or for other reasons. The pipeline to China is underutilized as the North-West of China has local oil production and it is often more efficient for eastern refiners to use maritime imports and Kazakhstan focuses more on European buyers. Exports through Russia are complicated due to EU sanctions on Russia, although German refiners have imported 690,000 tons (about 17,000 b/d) through the Atyrau-Samara and the Druzhba pipelines in the first 10 months of 2023. There are discussions to increase this volume in 2024.
 
-The CPC blend exported through the Black Sea port of Novorossiysk contains up to 20% of Russian crude, but does not fall under EU and US sanctions. Both Chevron and Exxon are involved in Kazakh oil production and they have every incentive to keep CPC exports outside of the sanctions. Novorossiysk has two load terminals (the CPC Pipeline
+The CPC blend exported through the Black Sea port of Novorossiysk contains up to 20% of Russian crude, but does not fall under EU and US sanctions. Both Chevron and Exxon are involved in Kazakh oil production and they have every incentive to keep CPC exports outside of the sanctions. Novorossiysk has two load terminals (the CPC Pipeline terminal and the Northern Route Export Pipeline from Baku) and Russia also exports other crudes (about 430 Kb/d in 2023, predominantly Urals).
 
 *Chart*
 
 *Source: Vortexa*
-
-terminal and the Northern Route Export Pipeline from Baku) and Russia also exports other crudes (about 430 Kb/d in 2023, predominantly Urals).
 
 According to Vortexa, in 2023 about 1.33 Mb/d of CPC blend crude was loaded in the Black Sea. Italy was the single largest buyer, taking 21%, followed by China (10%) and India (9%). About 67% of CPC blend is shipped to European destinations and almost all of the remainder goes to Asia.
 

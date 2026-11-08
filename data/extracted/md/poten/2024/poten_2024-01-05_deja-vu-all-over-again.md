@@ -24,7 +24,7 @@ Unipec’s decline relative to last year was concentrated in the VLCC segment (d
 
 *Chart*
 
-In the Suezmax segment, Total maintained the #1 spot, followed by ExxonMobil. Big gainers were Shell, which moved
+In the Suezmax segment, Total maintained the #1 spot, followed by ExxonMobil. Big gainers were Shell, which moved from 10th to 3rd and Unipec (from 9th to 6th). Petrobras, 4th in last year’s Suezmax ranking, dropped out of the top 10 as more Brazilian barrels are being exported on VLCCs. Traders Glencore and Trafigura boosted their Suezmax spot market activity in 2023.
 
 | 2023 Rank | Charterer | Reported Total Cargo (MT 000's) | % of Total Dirty Cargoes | 2022 Rank | 2023 Fixtures |
 | --- | --- | --- | --- | --- | --- |
@@ -53,8 +53,6 @@ In the Suezmax segment, Total maintained the #1 spot, followed by ExxonMobil. Bi
 |  | Total | 1,240,834 | 100.0% |  | 7,471 |
 
 Source: Poten & Partners
-
-from 10th to 3rd and Unipec (from 9th to 6th). Petrobras, 4th in last year’s Suezmax ranking, dropped out of the top 10 as more Brazilian barrels are being exported on VLCCs. Traders Glencore and Trafigura boosted their Suezmax spot market activity in 2023.
 
 *Chart*
 

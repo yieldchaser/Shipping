@@ -22,13 +22,11 @@ In the long term, the economies of scale benefits of VLCCs will bring this segme
 
 A comparison of the last quarter of 2021 (Oct – Dec) with the most recent three-month period (Mar – May) after the Russian invasion of Ukraine, which coincided with the lockdowns in China, illustrates the changes in VLCC employment. Trade patterns have changed as a result of the sanctions on Russia by many western and some Asian countries. Just to name a few changes: India is importing growing quantities of Russian crude oil, attracted by the significant price discounts on offer. India’s imports of Russian crude from the Black Sea increased from 52,000 b/d in Q4 2021 to 385,000 b/d in Mar-May 2022, a more than seven-fold increase. Indian imports from the Baltic follow a similar pattern, up from 31,000 b/d to 334,000 b/d, a ten-fold increase. These growing imports from Russia benefit Aframax and (primarily) Suezmax tankers as the main export ports cannot accommodate VLCCs. VLCC imports into India went down over the same period, driven by significant declines in imports from the US Gulf and Central America. West Africa also exported less to the Indian Subcontinent. These are all long-haul VLCC trades.
 
-As Europe pivots away from Russian crude, they import more oil from West Africa, the Middle East and the USG. While the Middle East to NW Europe trade is predominantly a VLCC trade, Suezmaxes do a significant portion of the West African and USG
+As Europe pivots away from Russian crude, they import more oil from West Africa, the Middle East and the USG. While the Middle East to NW Europe trade is predominantly a VLCC trade, Suezmaxes do a significant portion of the West African and USG exports to Europe. Europe also retains almost all its domestic crude from the North Sea. Prior to the war, there was a regular (VLCC) trade of North Sea Forties crude to China. In recent months, this trade has largely dried up, because the Europeans keep this crude to refine it locally. Since this was a very long-haul trade, the ton-mile implications are significant.
 
 *Chart*
 
 *Source: Lloyd’s List Intelligence; Poten & Partners*
-
-exports to Europe. Europe also retains almost all its domestic crude from the North Sea. Prior to the war, there was a regular (VLCC) trade of North Sea Forties crude to China. In recent months, this trade has largely dried up, because the Europeans keep this crude to refine it locally. Since this was a very long-haul trade, the ton-mile implications are significant.
 
 Last, but not least, China has reduced its crude oil purchase due to the lockdowns in several parts of the country as part of it zero Covid policy. As a result, China, which is the world’s largest VLCC employer, has cut back on purchases from West Africa, Latin America and the U.S.
 

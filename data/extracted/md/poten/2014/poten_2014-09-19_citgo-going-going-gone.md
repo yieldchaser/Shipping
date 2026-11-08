@@ -26,7 +26,7 @@ So, what would be the likely impact of a sale of Citgo? There are two parts to t
 
 The answer to the first question is probably Asia, most likely India and China. This will further boost VLCC movements. Another 500,000 – 750,000 b/d of exports to Asia, means an additional 7 – 11 VLCCs on top of the 20+ that are currently heading east from the Caribbean every month, which will further tighten the VLCC tonnage balance in the Caribbean.
 
-This will get us to the second question above. We don’t want to speculate on the identity of a possible buyer of the Citgo refining assets, but the investment case of any interested party will probably be based on the ample availability of competitively priced crude oil in North America. After a certain
+This will get us to the second question above. We don’t want to speculate on the identity of a possible buyer of the Citgo refining assets, but the investment case of any interested party will probably be based on the ample availability of competitively priced crude oil in North America. After a certain transition period, we expect that the new owner will replace imported Venezuelan crude with North American supplies, thereby reducing the need for Aframax moves from the Caribbean.
 
 *Chart: Fig. 1 U.S. Crude Oil Imports From Venezuela*
 
@@ -35,8 +35,6 @@ This will get us to the second question above. We don’t want to speculate on t
 *Chart: Fig. 2 Quarterly Reported Spot Fixtures Ex-Caribbean*
 
 *Source: Poten & Partners*
-
-transition period, we expect that the new owner will replace imported Venezuelan crude with North American supplies, thereby reducing the need for Aframax moves from the Caribbean.
 
 So, while a sale of the Citgo refineries could provide a boost to the VLCC market, it may accelerate the decline of the Caribbean Aframax trade, which has been under pressure already as a result of the growth in North American production.
 

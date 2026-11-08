@@ -34,11 +34,9 @@ In the Pacific, despite a slight improvement in iron ore inflow, the persistent 
 
 Panamax/Kamsarmax:
 
-In South America, the market remains relatively quiet, with no significant changes in supply and demand patterns. This stability has resulted in a subdued outlook, with little fluctuation in activity. The Pacific, on the other hand, is experiencing downward pressure on rates. This is particularly evident in areas like East Australia and the NOPAC, where charterers traditionally hold stronger negotiating power due to regional supply and demand. Vessels operating in these areas are accepting fixtures at lower rates, adding to the continued downward rates. Pacific r/v fell to US$11,500's a day. Supramax/Ultramax: Despite the weakness in larger segments, Supramax has shown relative resilience, with
+In South America, the market remains relatively quiet, with no significant changes in supply and demand patterns. This stability has resulted in a subdued outlook, with little fluctuation in activity. The Pacific, on the other hand, is experiencing downward pressure on rates. This is particularly evident in areas like East Australia and the NOPAC, where charterers traditionally hold stronger negotiating power due to regional supply and demand. Vessels operating in these areas are accepting fixtures at lower rates, adding to the continued downward rates. Pacific r/v fell to US$11,500's a day. Supramax/Ultramax: Despite the weakness in larger segments, Supramax has shown relative resilience, with its rate decline more limited compared to other sizes. In the Atlantic, while overall new cargo volume remains subdued, the market has been bolstered by consistent demand for shipments from the USG. However, the Pacific presents a more challenging picture. Both Northeast and Southeast Asia are experiencing a gradual increase in vessel supply despite a lack of new cargo. Pacific r/v fell to US$13,500's a day.
 
 ## Page 3
-
-its rate decline more limited compared to other sizes. In the Atlantic, while overall new cargo volume remains subdued, the market has been bolstered by consistent demand for shipments from the USG. However, the Pacific presents a more challenging picture. Both Northeast and Southeast Asia are experiencing a gradual increase in vessel supply despite a lack of new cargo. Pacific r/v fell to US$13,500's a day.
 
 Handysize:
 
@@ -217,11 +215,9 @@ The markets in the Indian Sub-Continent are showing signs of stabilisation, as d
 
 Alang, India
 
-The Alang ship recycling market remained stable this week, with demand holding steady despite a quieter atmosphere as India enters the festive season. Indian recyclers have
+The Alang ship recycling market remained stable this week, with demand holding steady despite a quieter atmosphere as India enters the festive season. Indian recyclers have seen a gradual increase in ship supply recently, and market participants are closely watching price movements to assess current market conditions. In a positive development for the domestic steel industry, the Indian government is considering imposing a safeguard duty on steel imports to combat the influx of cheaper steel, particularly from China, which is priced about 30% lower than domestic steel. This measure, aimed at protecting local steel producers impacted by imports from China, Japan, and South Korea, is expected to see a proposal from the industry within two weeks, with a potential duty ranging between 8-12%. The Directorate General of Safeguards will investigate the issue, and any duty imposed could be applied retrospectively. This move is expected to benefit the ship recycling sector in the long term, which has also faced challenges due to cheap steel imports.
 
 ## Page 14
-
-seen a gradual increase in ship supply recently, and market participants are closely watching price movements to assess current market conditions. In a positive development for the domestic steel industry, the Indian government is considering imposing a safeguard duty on steel imports to combat the influx of cheaper steel, particularly from China, which is priced about 30% lower than domestic steel. This measure, aimed at protecting local steel producers impacted by imports from China, Japan, and South Korea, is expected to see a proposal from the industry within two weeks, with a potential duty ranging between 8-12%. The Directorate General of Safeguards will investigate the issue, and any duty imposed could be applied retrospectively. This move is expected to benefit the ship recycling sector in the long term, which has also faced challenges due to cheap steel imports.
 
 Anchorage & Beaching Position (September 2024)
 
@@ -241,11 +237,9 @@ Anchorage & Beaching Position (September 2024)
 
 Chattogram, Bangladesh
 
-The market remained stagnant this week, continuing its trend of softness and sluggish activity, with no notable signs of improvement. This prolonged period of subdued performance is now reflecting the ongoing challenges in the sector. Letters of Credit have once again become a focal point as banks impose tighter controls on foreign exchange outflows. The tightening measures, aimed at managing liquidity and foreign reserves, have created challenges for importers who rely on Letters of Credit
+The market remained stagnant this week, continuing its trend of softness and sluggish activity, with no notable signs of improvement. This prolonged period of subdued performance is now reflecting the ongoing challenges in the sector. Letters of Credit have once again become a focal point as banks impose tighter controls on foreign exchange outflows. The tightening measures, aimed at managing liquidity and foreign reserves, have created challenges for importers who rely on Letters of Credit to facilitate this trade. This increased scrutiny and restriction of forex by banks is further complicating the buying process, which is already undergoing stringent environmental rules being implemented.
 
 ## Page 15
-
-to facilitate this trade. This increased scrutiny and restriction of forex by banks is further complicating the buying process, which is already undergoing stringent environmental rules being implemented.
 
 Meanwhile, in domestic steel production, the industry saw a sharp decline in September, driven by weakened demand and falling prices. The country’s steel industry has been hit hard over the past three months, as political instability, protests, and curfews have severely disrupted operations and hindered growth.
 

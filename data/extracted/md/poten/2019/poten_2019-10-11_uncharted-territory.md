@@ -20,13 +20,11 @@ Under normal circumstances, the Poten Weekly Tanker Opinion does not cover the s
 
 There is not one major reason why the market has increased so rapidly. A lot of different factors have contributed, and they are reinforcing each other. First of all, after several years of dismal earnings, the market was probably more closely balanced than people expected. Export cutbacks from Middle East OPEC replaced by long-haul movements from the U.S. have helped. On top of that, sanctions on Iran and Venezuela have reduced spare production capacity and increased geopolitical uncertainty. In addition, both the refining and the tanker industry have started to prepare for IMO 2020 bunker fuel regulations. Refiners are running flat out to produce compliant fuels and (some) tanker owners are scheduling drydocks to install exhaust scrubbers.
 
-In addition to these fundamental factors, we have seen a quick succession of unrelated incidents and these unpredictable events have pushed the market up. The Abqaiq attacks and COSCO sanctions were followed by the announcement that several charterers have increased their scrutiny of tankers that called Venezuela in recent months. This has created additional uncertainty in an already tight market. A few days ago Ecuador declared force majeure on the majority of its crude oil exports as domestic unrest escalated. While the exports from this country are relatively
+In addition to these fundamental factors, we have seen a quick succession of unrelated incidents and these unpredictable events have pushed the market up. The Abqaiq attacks and COSCO sanctions were followed by the announcement that several charterers have increased their scrutiny of tankers that called Venezuela in recent months. This has created additional uncertainty in an already tight market. A few days ago Ecuador declared force majeure on the majority of its crude oil exports as domestic unrest escalated. While the exports from this country are relatively small (around 350,000 b/d), it does create a problem for several refiners on the U.S. West Coast, which take about 50% of Ecuador’s output. They will have to source replacement barrels from the Middle East. This will create more long-haul VLCC demand.
 
 *Chart*
 
 *Source: Poten & Partners*
-
-small (around 350,000 b/d), it does create a problem for several refiners on the U.S. West Coast, which take about 50% of Ecuador’s output. They will have to source replacement barrels from the Middle East. This will create more long-haul VLCC demand.
 
 This morning, an Iranian Suezmax tanker was reportedly attacked in the Red Sea. While details have been scant and the incident has not been independently verified, this was probably a significant driver behind todays rate increases.
 

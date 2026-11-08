@@ -26,7 +26,7 @@ Is all this good fortune for the refiners sustainable? How much new capacity is 
 
 It is likely, based on current demand projections, that refining expansion will outpace demand growth over the next 5 years and that means that refining margins will come under pressure and some of the least competitive facilities, particularly in Europe, Japan and the Northeastern U.S. will be at risk. These changes could have profound implications for product trade flows and the product tanker market.
 
-Intra-regional trade flows in Asia will likely expand as a result of the increase in refining capacity in the region, which will benefit MR and LR1 product tankers. Refining closures in Europe will
+Intra-regional trade flows in Asia will likely expand as a result of the increase in refining capacity in the region, which will benefit MR and LR1 product tankers. Refining closures in Europe will likely lead to more long haul product movements from Middle Eastern export refiners on long-range product tankers as well as additional transatlantic supplies from U.S. Gulf refiners.
 
 *Chart*
 
@@ -35,8 +35,6 @@ Intra-regional trade flows in Asia will likely expand as a result of the increas
 *Chart*
 
 *Source: Poten*
-
-likely lead to more long haul product movements from Middle Eastern export refiners on long-range product tankers as well as additional transatlantic supplies from U.S. Gulf refiners.
 
 As mentioned earlier, the good fortune of the refiners over the last few years has not translated into improving rates for the owners of product tankers, despite improving trade fundamentals. This was in part due to considerable fleet growth, with 75 LR2s, 26 LR1s and 208 MRs delivered from January 2015 through May 2017.
 

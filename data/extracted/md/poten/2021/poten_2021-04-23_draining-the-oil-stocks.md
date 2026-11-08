@@ -22,7 +22,7 @@ Floating storage, which tends to be more expensive that on-land storage, peaked 
 
 While the buildup of floating storage was good news for the tanker market, the unwinding of these inventories, in combination with the continued lackluster oil demand during the Covid-19 pandemic depressed tanker rates, as can be seen in chart 1. Over the last 3-6 months, many vessels that were employed as floating storage units have come back in the tanker spot market, looking for employment. At the same time, oil demand remained compromised and although demand started to come back, these extra volumes were supplied from storage, not generating any shipping demand. In short, tanker supply increased, while tanker demand remained down.
 
-However, it appears that the fortunes of the tanker owners could be changing. As demand is gradually coming back, global oil inventories have been reduced and are now mostly back to historical averages. As can be seen in chart 2, crude oil and
+However, it appears that the fortunes of the tanker owners could be changing. As demand is gradually coming back, global oil inventories have been reduced and are now mostly back to historical averages. As can be seen in chart 2, crude oil and refined product inventories, which were increasing relative to prior year periods since the beginning of 2020 have begun to stabilize. In recent months, some inventory components, like products in Asia/Oceania and the Americas are lower than they were a year ago.
 
 *Chart*
 
@@ -31,8 +31,6 @@ However, it appears that the fortunes of the tanker owners could be changing. As
 *Source: Lloyd’s List Intelligence*
 
 *Source: IEA*
-
-refined product inventories, which were increasing relative to prior year periods since the beginning of 2020 have begun to stabilize. In recent months, some inventory components, like products in Asia/Oceania and the Americas are lower than they were a year ago.
 
 The tanker market is not out of the woods yet and the stubbornly high Covid rates in parts of Europe and the resurgence of the virus in India and Brazil could slow or reverse the recent demand increases. However, as the inventory situation has normalized, any future oil demand increases will most likely translate directly into more tanker demand. There is still ample tanker supply, but it is a subtle change that could have a material impact on rates going forward.
 

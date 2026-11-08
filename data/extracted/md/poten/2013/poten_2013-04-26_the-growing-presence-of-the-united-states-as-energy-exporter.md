@@ -43,9 +43,7 @@ The following tables show the most frequent destinations for US gasoline and dis
 
 European and South American importers demanding increasing
 
-Gasoline
-
-quantities of US refined
+Gasoline quantities of US refined
 
 2000
 

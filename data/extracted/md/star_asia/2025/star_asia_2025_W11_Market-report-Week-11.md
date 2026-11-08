@@ -250,11 +250,9 @@ Anchorage & Beaching Position (MARCH 2025)
 
 Chattogram
 
-Bangladesh outlook remains hesitant, with buyers strategically shifting their focus to smaller vessels amid reduced tonnage availability. Despite good demand, financial uncertainty and severely limited L/Cs availability have forced recyclers to adopt a cautious, selective approach to purchases. This situation coincides with the local scrap market experiencing modest improvement following a subdued start to Ramadan, with imported scrap offers declining by US$5-7 per ton while overall buying remains weak. Looking toward future developments, Bangladesh's steel industry is poised for transformation with Bashundhara Multi Steel Industries' planned facility at the National Special Economic Zone in Mirsarai, Chattogram. Set to begin operations by mid-2026, this project will feature the world's largest single-strand mini mill for long steel products,
+Bangladesh outlook remains hesitant, with buyers strategically shifting their focus to smaller vessels amid reduced tonnage availability. Despite good demand, financial uncertainty and severely limited L/Cs availability have forced recyclers to adopt a cautious, selective approach to purchases. This situation coincides with the local scrap market experiencing modest improvement following a subdued start to Ramadan, with imported scrap offers declining by US$5-7 per ton while overall buying remains weak. Looking toward future developments, Bangladesh's steel industry is poised for transformation with Bashundhara Multi Steel Industries' planned facility at the National Special Economic Zone in Mirsarai, Chattogram. Set to begin operations by mid-2026, this project will feature the world's largest single-strand mini mill for long steel products, with a 1.25 million tons per year capacity for rebar in coil and wire rod production. With over half the site already developed and plans for a dedicated jetty on the Sandwip Channel, this advancement may eventually provide new opportunities for the region.
 
 ## Page 15
-
-with a 1.25 million tons per year capacity for rebar in coil and wire rod production. With over half the site already developed and plans for a dedicated jetty on the Sandwip Channel, this advancement may eventually provide new opportunities for the region.
 
 Anchorage & Beaching Position (MARCH 2025)
 

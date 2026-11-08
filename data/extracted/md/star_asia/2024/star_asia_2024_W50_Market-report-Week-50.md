@@ -34,11 +34,9 @@ The Pacific market continues to face downward pressure as spot vessels accumulat
 
 Panamax/Kamsarmax:
 
-Market conditions remain subdued across both basins. In the Atlantic, limited fixture activity and weak vessel demand continue to drive rates downward. Similarly, the Pacific faces persistent downward pressure as most spot cargoes have been absorbed, leading
+Market conditions remain subdued across both basins. In the Atlantic, limited fixture activity and weak vessel demand continue to drive rates downward. Similarly, the Pacific faces persistent downward pressure as most spot cargoes have been absorbed, leading to a pronounced vessel oversupply situation in the region. Pacific r/v closed the week lower at US$8,200's a day. Supramax/Ultramax: Despite weakness in overall segments, Atlantic is showing signs of improvement, driven by increased demand from the USG and South American regions. T/A saw rates climb to US$18,500's a day at closing. The Pacific saw a more complex picture as charterers and owners work to finalise fixtures before the year-end holidays. However, the downward drift persists due to negative market sentiment stemming from an oversupply of vessels. S.China/India route closed lower at US$9,000's.
 
 ## Page 3
-
-to a pronounced vessel oversupply situation in the region. Pacific r/v closed the week lower at US$8,200's a day. Supramax/Ultramax: Despite weakness in overall segments, Atlantic is showing signs of improvement, driven by increased demand from the USG and South American regions. T/A saw rates climb to US$18,500's a day at closing. The Pacific saw a more complex picture as charterers and owners work to finalise fixtures before the year-end holidays. However, the downward drift persists due to negative market sentiment stemming from an oversupply of vessels. S.China/India route closed lower at US$9,000's.
 
 Handysize:
 
@@ -275,11 +273,9 @@ Anchorage & Beaching Position (DECEMBER 2024)
 
 # Aliaga, Turkey
 
-Turkish steel market dynamics showed mixed signals this week, with some domestic mills reducing their buying prices while imported scrap prices recovered following fresh US deals. Market participants express cautious optimism, noting that while there has been a
+Turkish steel market dynamics showed mixed signals this week, with some domestic mills reducing their buying prices while imported scrap prices recovered following fresh US deals. Market participants express cautious optimism, noting that while there has been a rebound, sustained price increases will depend more on Turkey's domestic and export market fundamentals than on Chinese stimulus measures.
 
 ## Page 18
-
-rebound, sustained price increases will depend more on Turkey's domestic and export market fundamentals than on Chinese stimulus measures.
 
 Industry observers point out that Turkey is not facing immediate supply constraints for January–shipment scrap purchases, with shipbreaking scrap prices remaining stable at US$340-355/ton delivered, and the Turkish currency closing at TRY 34.94 to the dollar.
 

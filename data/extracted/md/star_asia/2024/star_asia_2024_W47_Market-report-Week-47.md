@@ -96,11 +96,9 @@ MEG has shown improvement, with rates climbing 7 points at the start of the week
 
 Suezmax:
 
-The West African market continues to face challenges. Rates have been declining steadily due to persistent weakness across the Mediterranean and Black Sea regions,
+The West African market continues to face challenges. Rates have been declining steadily due to persistent weakness across the Mediterranean and Black Sea regions, compounded by sluggish local demand in West Africa. At closing however, rates rebounded slightly with 130,000mt Nigeria/UKC improving to WS79.
 
 ## Page 6
-
-compounded by sluggish local demand in West Africa. At closing however, rates rebounded slightly with 130,000mt Nigeria/UKC improving to WS79.
 
 # Aframax:
 

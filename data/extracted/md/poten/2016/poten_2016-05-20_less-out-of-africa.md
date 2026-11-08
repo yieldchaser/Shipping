@@ -22,7 +22,7 @@ For many years, Nigeria has been Africa’s largest oil producer. Nigeria’s fi
 
 The vast majority of Nigeria’s production is exported. The main destinations for Nigeria’s crude have traditionally been Europe and the U.S. The rapid growth of shale oil production in the U.S., which was of similar quality as the light sweet crude from Nigeria, backed out most of the Nigerian crude from the U.S. East Coast refineries in recent years. As a result the West African producer was forced to look for alternative buyers, which it found in Asia. By the middle of 2015, Nigeria had replaced Saudi Arabia as the largest crude oil supplier to India, for example, as more Indian refiners switched out their long-term contracts with Middle Eastern suppliers to spot oil purchases from Africa.
 
-Our fixture data for 2015 and 2016 YTD confirms the changes in fixing patterns out of Nigeria with Indian charterers dominating the top of the list (see Fig. 2). Another significant lifter out of Nigeria is Petrobras, who was third largest in 2015 and in 2016 to date. A wide range of western oil majors and
+Our fixture data for 2015 and 2016 YTD confirms the changes in fixing patterns out of Nigeria with Indian charterers dominating the top of the list (see Fig. 2). Another significant lifter out of Nigeria is Petrobras, who was third largest in 2015 and in 2016 to date. A wide range of western oil majors and traders make up the rest of the list, interspersed with a few local (African) charterers. American importers have also been making a comeback since U.S. shale production is declining and changing price differentials have made Nigerian imports more attractive again. Notably absent from the list are the large Chinese charterers. The Chinese appear to import virtually no crude from Nigeria. Their preferred West African crude oil source continues to be Angola.
 
 *Chart: Fig. 1: Nigeria - Crude Oil Production*
 
@@ -31,8 +31,6 @@ Our fixture data for 2015 and 2016 YTD confirms the changes in fixing patterns o
 *Chart*
 
 *Source: Poten & Partners*
-
-traders make up the rest of the list, interspersed with a few local (African) charterers. American importers have also been making a comeback since U.S. shale production is declining and changing price differentials have made Nigerian imports more attractive again. Notably absent from the list are the large Chinese charterers. The Chinese appear to import virtually no crude from Nigeria. Their preferred West African crude oil source continues to be Angola.
 
 Based on the above, it appears that both Suezmax and VLCC markets could face downward pressure from sustained outages of Nigerian crude oil. If the Saudi’s increase production (or divert flows) to regain some of the market share they lost in India, a relatively long-haul (WAF-India) trade will be replaced by a very short-haul trade (AG-India). Chances are that this short-haul trade would be serviced predominantly by Suezmaxes, rather than by VLCCs, which were the preferred vessel for the Nigeria – India movements. The Suezmax situation could be more complicated, depending on the need and source for replacement crudes. The U.S. and Europe have ample crude oil stocks and could conceivably decide to draw down inventories. Continued disruptions of Nigerian production also could drive up oil prices and speed up the return of U.S. shale. Both of these scenarios are rather unattractive for shipping.
 

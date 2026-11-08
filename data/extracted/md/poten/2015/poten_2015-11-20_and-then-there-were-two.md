@@ -22,7 +22,7 @@ Canada has been looking into three directions to create access to additional exp
 
 At this point, two viable pipeline projects to move oil to the coast remain: Kinder Morgan’s expansion of the Trans Mountain pipeline (from Edmonton to the Vancouver area) from 300 Kb/day to 890 Kb/d to the Vancouver Area and TransCanada’s 1.1 Mb/d Energy East pipeline to St. John on the East Coast. The marine terminal in the Vancouver area can accommodate Aframax size tankers while the terminal in St. John can handle VLCCs.
 
-The Energy East Pipeline partially uses an existing gas pipeline and upgrades of existing infrastructure, combined with new pipeline segments. Earlier this month, TransCanada announced that they would cancel the construction of the marine terminal in the Quebec area, one of the two marine terminals along the pipeline, due to local objections, but it will continue to provide access to two Quebec refineries. The Energy East pipeline is scheduled to be completed by 2020. The expansion of the Trans Mountain pipeline is still in the
+The Energy East Pipeline partially uses an existing gas pipeline and upgrades of existing infrastructure, combined with new pipeline segments. Earlier this month, TransCanada announced that they would cancel the construction of the marine terminal in the Quebec area, one of the two marine terminals along the pipeline, due to local objections, but it will continue to provide access to two Quebec refineries. The Energy East pipeline is scheduled to be completed by 2020. The expansion of the Trans Mountain pipeline is still in the approval process. If successful, the current plan is for the pipeline to be operational by 2018.
 
 *Chart: Fig. 1: Canadian / U.S. Crude Oil Pipeline Infrastructure & Proposals*
 
@@ -31,8 +31,6 @@ The Energy East Pipeline partially uses an existing gas pipeline and upgrades of
 *Chart: Fig 2: Crude Prices: WCS vs WTI and ANS*
 
 *Source: Bloomberg*
-
-approval process. If successful, the current plan is for the pipeline to be operational by 2018.
 
 It is critical for Western Canadian producers to obtain cost effective access to markets, especially if crude prices stay depressed. Currently, Western Canadian Select is pricing at about $26.50 in Edmonton versus $40 for WTI and $40 for ANS crude on the West Coast. This discount is mainly a reflection of the high transportation costs of moving Western Canadian crude to refining markets. According to the Canadian Association of Petroleum Producers, the costs of shipping oil through the existing Trans Mountain pipeline is only about $2.20 – $2.50, which would significantly improve the economics for the producers, although this port only accommodates Aframax vessels, increasing the cost of marine transportation, compared to larger tonnage.
 

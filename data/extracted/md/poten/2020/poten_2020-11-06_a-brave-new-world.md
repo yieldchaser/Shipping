@@ -24,13 +24,11 @@ The IEA presents two main scenarios plus a Net Zero case. The Stated Policies (S
 
 OPEC presents a so called ‘Reference Case’ where oil remains the dominant fuel until 2045. Global energy demand grows as the population continues to expand and developing countries expand their energy consumption, even though many countries implement more stringent clean energy policies. Internal combustion engines (ICE)
 
-remain dominant in the transportation sector, but electric vehicles eventually gain market share. Under their assumptions, oil demand continues to grow until about 2040 to a level 9.4 Mb/d above 2019. Oil demand growth will be especially strong in the 2022/23
+remain dominant in the transportation sector, but electric vehicles eventually gain market share. Under their assumptions, oil demand continues to grow until about 2040 to a level 9.4 Mb/d above 2019. Oil demand growth will be especially strong in the 2022/23 timeframe with 2.1 and 1.5 Mb/d respectively, driven by the economic recovery from Covid-19 and a catch-up demand from aviation, road transportation and industry.
 
 *Chart: Global Oil Demand Outlook (2019 = 100)*
 
 Source: IEA, OPEC, BP
-
-timeframe with 2.1 and 1.5 Mb/d respectively, driven by the economic recovery from Covid-19 and a catch-up demand from aviation, road transportation and industry.
 
 BP presents a ‘Business as Usual’ scenario where policies and technologies continue to evolve in line with the recent past. In this scenario, oil demand will recover in the 2020’s to exceed 2019, but peaks around 2030 and declines slowly thereafter. The two scenarios with more stringent climate policies (‘Rapid’ and ‘Net Zero’) both include significant increases in carbon pricing (up to $250/ton of CO2 (~$800/ton FO) in the developed world by 2050) and other sector specific measures. The Net Zero scenario assumes significant additional shifts in societal behavior such as higher acceptance of low carbon energy technologies and distribution, adoption of sharing and more recycling in the economy (reduce waste and re-use), etc.
 

@@ -22,13 +22,11 @@ Let’s take a look at the OPEC developments in recent years. A lot has changed 
 
 Most of the Middle East OPEC countries have been able to restore their crude oil production and exports to pre-Covid levels. Saudi Arabia for example, exported around 8.0 Mb/d in March 2020 and almost reached this level again in April 2022.
 
-The problems are clearly in the Other OPEC camp, the countries not located in the Middle East. Nigeria exported about 2.0 Mb/d
+The problems are clearly in the Other OPEC camp, the countries not located in the Middle East. Nigeria exported about 2.0 Mb/d in Q1 2020. In the same quarter of this year, the volume is down to 1.4 Mb/d (-600,000 b/d or 30%). The story with Angola is similar, albeit less dramatic, a decline of 210,000 b/d (15%). Venezuela’s output also reduced, from close to 800,000 b/d to 250,000 b/d in 2022. One country, Libya, dramatically increased production compared to two years ago (+940,000 b/d), but it was not enough to compensate for the declines of the others. In total, the OPEC producers outside of the Middle East are exporting 700,000 b/d less in Q1 2022 compared to the same quarter in 2020.
 
 *Chart*
 
 *Source: Lloyd’s List Intelligence*
-
-in Q1 2020. In the same quarter of this year, the volume is down to 1.4 Mb/d (-600,000 b/d or 30%). The story with Angola is similar, albeit less dramatic, a decline of 210,000 b/d (15%). Venezuela’s output also reduced, from close to 800,000 b/d to 250,000 b/d in 2022. One country, Libya, dramatically increased production compared to two years ago (+940,000 b/d), but it was not enough to compensate for the declines of the others. In total, the OPEC producers outside of the Middle East are exporting 700,000 b/d less in Q1 2022 compared to the same quarter in 2020.
 
 The situation with Middle East OPEC producers is different. Combined, they are exporting 518,000 b/d more than two years ago. Saudi Arabia and the United Arab Emirate are each producing more, while Iraq and Kuwait are producing slightly less. Iran seems to have increased their exports as well, but since the country is subject to sanctions, and tries to hide its movements, it is difficult to confirm the accuracy of these numbers.
 

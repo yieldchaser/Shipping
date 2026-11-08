@@ -26,7 +26,7 @@ The current VLCC fleet consists of 756 vessels, of which 170 are 16 years or old
 
 The owners of these older vessels will have to make a decision in the coming years. By September, all ships engaging in international trade need to have Ballast Water Treatment Systems (BWTS) installed at the first upcoming special survey. For larger tankers, these systems require an investment of $2-$3 million, depending on the size of the ship and the configuration of the system.
 
-Additionally, on 1 January 2020, new sulfur emission regulations for ships will come into force. After this date, ships will have to switch to more expensive lower sulfur fuel or have exhaust gas cleaning equipment installed. Many of the older tankers have higher fuel consumption than modern vessels, so they will become less competitive when they are required to
+Additionally, on 1 January 2020, new sulfur emission regulations for ships will come into force. After this date, ships will have to switch to more expensive lower sulfur fuel or have exhaust gas cleaning equipment installed. Many of the older tankers have higher fuel consumption than modern vessels, so they will become less competitive when they are required to burn more expensive fuel. It is less likely that these vessels will have scrubbers installed as the age of the vessels will make it harder to recover the investment than with younger vessels.
 
 *Chart*
 
@@ -37,8 +37,6 @@ Additionally, on 1 January 2020, new sulfur emission regulations for ships will 
 *Chart*
 
 *Source: Poten & Partners*
-
-burn more expensive fuel. It is less likely that these vessels will have scrubbers installed as the age of the vessels will make it harder to recover the investment than with younger vessels.
 
 In preparation for the implementation of IMO 2020, owners will try to have the scrubbers installed and operational by the start of 2020 as the fuel cost differential between HFO and low sulfur fuel will most likely be highest early on, while the market adjusts to the new requirements. If 10% of VLCCs and Suezmaxes install scrubbers and each vessel is out of service for several weeks, the operational fleet will be reduced materially. This will tighten the market and could offset some of the anticipated deliveries.
 

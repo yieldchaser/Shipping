@@ -22,7 +22,7 @@ The Bharatiya Janata Party, of the new Prime Minister Narendra Modi, won a signi
 
 Oil demand growth in India has translated into significant increases in tanker movements into the country. India sources its crude oil primarily from the Middle East, which, due to its location, does not contribute much to ton-mile demand. In recent years India has diversified its sources of oil imports and taken more crude oil from the Western Hemisphere. There are two key drivers for these developments: (1) supply disruptions in several countries, including Iran, Libya, Sudan and Nigeria, and (2) higher relative prices of Middle Eastern crude oil grades, which have prompted Indian refiners to import more crude oil from Latin America, primarily Venezuela, Colombia and Mexico. In 2012, as an illustration of this development, major Indian refiner Reliance signed a 15-year deal with Venezuela’s PDVSA to supply between 300,000 and 400,000 barrels per day of Venezuelan heavy crude oil to their refineries in Jamnagar, providing a much-welcomed boost to long-haul VLCC demand.
 
-India’s product tanker demand has also proven to be impressive. India became a net exporter of refined petroleum products in 2001 and since, has built or expanded several world-class export-oriented refineries. As illustrated in figure 2, India has been a significant importer and exporter of products over the last five years. Unlike India’s upstream sector, which is still dominated by state-owned companies, the private sector owns almost 40% of India’s refining capacity. The three largest
+India’s product tanker demand has also proven to be impressive. India became a net exporter of refined petroleum products in 2001 and since, has built or expanded several world-class export-oriented refineries. As illustrated in figure 2, India has been a significant importer and exporter of products over the last five years. Unlike India’s upstream sector, which is still dominated by state-owned companies, the private sector owns almost 40% of India’s refining capacity. The three largest facilities are all owned by private companies, two by Reliance (both in Jamnagar) and one by Essar (in Gujarat). Indian refiners employ both Medium Range (MR) and Long Range product tankers to move this product worldwide.
 
 *Chart: Fig. 1 Oil Consumption per Capita*
 
@@ -31,8 +31,6 @@ India’s product tanker demand has also proven to be impressive. India became a
 *Chart: Fig. 2 Indian crude and products trade*
 
 *Source: BP Statistical Review*
-
-facilities are all owned by private companies, two by Reliance (both in Jamnagar) and one by Essar (in Gujarat). Indian refiners employ both Medium Range (MR) and Long Range product tankers to move this product worldwide.
 
 Long-term demand fundamentals, including a growing population and developing middle class, point towards India becoming increasingly important in both the crude oil and product tanker trades in the years to come.
 

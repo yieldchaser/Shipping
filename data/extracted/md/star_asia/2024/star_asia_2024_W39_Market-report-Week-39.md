@@ -34,11 +34,9 @@ The Pacific and Brazilian routes experienced a downward pressure on freight rate
 
 Panamax/Kamsarmax:
 
-Both the North Atlantic and South American sectors witness a decline in rates this week. With cargo inflow failing to keep pace with vessel supply, the current imbalance favours that of charterers. T/A rates at closing fell to US$11,750's a day. Similar was noted in the Pacific region, albeit for slightly different reasons. While cargo volumes remain subdued, the approaching Chinese National holidays led to eager owners to secure their next fixtures ahead of time. This has led to them lowering their asking rates, with Pacific r/v seeing levels in the region of US$13,300's. Supramax/Ultramax: In the Atlantic, a notable change is occurring in the USG, where previously steady cargo
+Both the North Atlantic and South American sectors witness a decline in rates this week. With cargo inflow failing to keep pace with vessel supply, the current imbalance favours that of charterers. T/A rates at closing fell to US$11,750's a day. Similar was noted in the Pacific region, albeit for slightly different reasons. While cargo volumes remain subdued, the approaching Chinese National holidays led to eager owners to secure their next fixtures ahead of time. This has led to them lowering their asking rates, with Pacific r/v seeing levels in the region of US$13,300's. Supramax/Ultramax: In the Atlantic, a notable change is occurring in the USG, where previously steady cargo inflows have begun to taper off, creating pressure on rates. T/A manage to firm slightly at closing with rates settling around US$21,000's. Meanwhile, the Pacific remain cautious. Charterers are adopting a wait-and-see approach, hesitant to commit. This is largely influenced by the anticipation of reduced market activity in the upcoming Chinese holidays. Pacific r/v saw rates fell slightly to US$15,500's average at closing.
 
 ## Page 3
-
-inflows have begun to taper off, creating pressure on rates. T/A manage to firm slightly at closing with rates settling around US$21,000's. Meanwhile, the Pacific remain cautious. Charterers are adopting a wait-and-see approach, hesitant to commit. This is largely influenced by the anticipation of reduced market activity in the upcoming Chinese holidays. Pacific r/v saw rates fell slightly to US$15,500's average at closing.
 
 Handysize:
 
@@ -325,11 +323,9 @@ The Sub-Continent and Turkish ferrous scrap market exhibited a blend of trends t
 
 **Pakistan's imported scrap market continues to face significant challenges due to weak**
 
-rebar sales, with mills operating at just 40-50% capacity. Indicative offers for shredded
+rebar sales, with mills operating at just 40-50% capacity. Indicative offers for shredded scrap from the UK and Europe were around US$390-395/ton CFR Qasim. Despite current difficulties, optimism is rising following the IMF's approval of a US$7 billion Extended Fund Facility, which is expected to enhance liquidity, reduce interest rates, and improve dollar availability, potentially revitalising scrap demand in the longer term.
 
 ## Page 18
-
-scrap from the UK and Europe were around US$390-395/ton CFR Qasim. Despite current difficulties, optimism is rising following the IMF's approval of a US$7 billion Extended Fund Facility, which is expected to enhance liquidity, reduce interest rates, and improve dollar availability, potentially revitalising scrap demand in the longer term.
 
 ### Bangladesh's scrap market remained quiet as buyers grappled with difficulties in
 

@@ -24,7 +24,7 @@ Almost all of the oil from the tar sands production is shipped to the U.S., main
 
 The total volume of crude production that will be affected by the outages will depend largely on the duration of the disruptions and whether the fires cause damage to actual production facilities. Currently, the expectation is that the majority of the production sites will remain outside of the zones directly affected by the fires, as they are located about 20 miles north of the damaged areas and the prevailing winds are pushing the fires further south. However, it is impossible to predict how long and how much the fires will affect the region. According to local officials, it is unlikely that they will get the wildfires under control without the help of significant rainfalls. According to regional pipeline maps, there are several pipelines that run through the areas east and west of the current fire locations and at least one crude oil pipeline as well as several refined product pipelines that run through the affected area.
 
-According to Genscape, an oil analysis firm that monitors
+According to Genscape, an oil analysis firm that monitors storage and pipeline throughput, crude oil inventories in the region stood at 26.5 million barrels at the end of April, up about 4 million barrels from a year earlier. This suggests that there is ample room to continue supplying the market for a number of days.
 
 *Chart: Fig. 1: Western Canadian Select (WCS) vs WTI Crude Oil Prices*
 
@@ -33,8 +33,6 @@ According to Genscape, an oil analysis firm that monitors
 *Chart*
 
 *Source: National Post, Poten*
-
-storage and pipeline throughput, crude oil inventories in the region stood at 26.5 million barrels at the end of April, up about 4 million barrels from a year earlier. This suggests that there is ample room to continue supplying the market for a number of days.
 
 The relative increase of WCS crude oil prices could make seaborne crudes more attractive if the discount stays at current levels or decreases further. In our view, the most likely replacements are regional crudes rather than Middle Eastern supplies as they can be delivered relatively quickly.
 

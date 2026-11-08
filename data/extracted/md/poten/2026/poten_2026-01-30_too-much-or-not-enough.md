@@ -24,13 +24,11 @@ There is a large group of other owners who take a different, more opportunistic,
 
 The tanker industry is characterized by significant volatility in both earnings and asset values. Geopolitical conflicts and sanctions further amplify these cycles. This often leads to relatively short periods of high earnings, followed by extended periods of underperformance. Tankers are long-term assets with a 20+ year lifespan, which means that brief periods of overbuilding can create long periods of oversupply.
 
-Under normal circumstances, our industry should replace about 5% of the fleet every year. Since the lead time for new vessel construction is currently about 3 years (a vessel ordered today
+Under normal circumstances, our industry should replace about 5% of the fleet every year. Since the lead time for new vessel construction is currently about 3 years (a vessel ordered today will be delivered in late 2028/early 2029), this means that an orderbook of around 15% of the fleet is about right. However, this also assumes that about 5% of the fleet ages-out every year, i.e. is recycled. That has not been the case in recent years. Despite limited newbuilding deliveries in recent years, the tanker fleet has grown steadily because recycling has been low. Older vessels are sold for further trading into the dark fleet rather than sent to the breakers.
 
 *Chart*
 
 *Source: Poten & Partners*
-
-will be delivered in late 2028/early 2029), this means that an orderbook of around 15% of the fleet is about right. However, this also assumes that about 5% of the fleet ages-out every year, i.e. is recycled. That has not been the case in recent years. Despite limited newbuilding deliveries in recent years, the tanker fleet has grown steadily because recycling has been low. Older vessels are sold for further trading into the dark fleet rather than sent to the breakers.
 
 We currently have a situation where the tanker orderbook is rising rapidly, stimulated by a number of drivers: 1) Prices for modern secondhand vessels are high, making newbuildings comparatively attractive; 2) Rates have been strong for an extended period of time and (in particular for VLCCs) have increased even further in recent months; 3) The average age of the fleet is high with a significant percentage of vessels at or approaching retirement age. Pundits argue that the stage is set for a sustainable bull run in the tanker market.
 

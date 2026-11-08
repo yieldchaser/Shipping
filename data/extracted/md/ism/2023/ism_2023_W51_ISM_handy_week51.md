@@ -20,9 +20,7 @@ charts_count: 4
 
 Considering the upcoming Christmas and New Year holActivity is sagging on the Supramax/Ultramax and Handysize freight markets all across the Atlantic. The spot market is looking extremely soft ahead of holidays in USA and Europe: most cargo offers are already covered,
 
-ECSA remains the only section with relatively steady Handy/Supra rates all across the Atlantic
-
-especially in the Supramax/Ultramax segment. Spot rates for such shipments from USG ports have dropped by $2k daily and $2-3/t on F/H routes, while transatlantic levels have declined by $3k daily and $3-4/t. Thus, rates for shipment of 50,000 t of corn or soybeans from New Orleans to S.China have inched down to low-mid $70s/t. Handysize freight rates hold steady as Intercaribs trade remains brisk.
+ECSA remains the only section with relatively steady Handy/Supra rates all across the Atlantic especially in the Supramax/Ultramax segment. Spot rates for such shipments from USG ports have dropped by $2k daily and $2-3/t on F/H routes, while transatlantic levels have declined by $3k daily and $3-4/t. Thus, rates for shipment of 50,000 t of corn or soybeans from New Orleans to S.China have inched down to low-mid $70s/t. Handysize freight rates hold steady as Intercaribs trade remains brisk.
 
 In ECSA , limited cargo offer is balanced by moderate vessel list, which allows ship owners to keep spot rates stable; this applies to both Handysize and Supramax segments. However, deals with 2H January laycans are negotiated below spot levels.
 

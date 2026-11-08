@@ -22,11 +22,9 @@ Like tanker company earnings reports, the Poten Weekly Tanker Opinion has made f
 
 Sources: US Federal Reserve, Bloomberg
 
-The Eurozone slid into recession during 2q12, and as Germany’s export impetus fades and while the sovereign solvency issue festers, the outlook is not encouraging. Still, the slowing of Chinese growth may be the most disturbing for the shipping sector. Export orders and industrial production are slowing, the HSBC/Markit purchasing managers indices are languishing below the contractionary 50 level and Chinese electricity
+The Eurozone slid into recession during 2q12, and as Germany’s export impetus fades and while the sovereign solvency issue festers, the outlook is not encouraging. Still, the slowing of Chinese growth may be the most disturbing for the shipping sector. Export orders and industrial production are slowing, the HSBC/Markit purchasing managers indices are languishing below the contractionary 50 level and Chinese electricity generation is flat year over year. Meanwhile, Chinese iron ore prices are collapsing to levels not seen since 2009, as domestic steel producers shun cargoes and cut their ore inventories, as shown in the chart below.
 
 *Chart: Dramatic collapse in Chinese iron ore prices is disturbing*
-
-generation is flat year over year. Meanwhile, Chinese iron ore prices are collapsing to levels not seen since 2009, as domestic steel producers shun cargoes and cut their ore inventories, as shown in the chart below.
 
 *Chart: Chinese Iron Ore Prices*
 

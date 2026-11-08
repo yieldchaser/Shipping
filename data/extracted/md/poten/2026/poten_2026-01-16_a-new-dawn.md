@@ -22,13 +22,11 @@ The changes in Venezuela will have implications for the oil and tanker markets i
 
 Who will likely invest in the Venezuelan oil industry? President Trump has called on the U.S. oil companies to step up, but the response has not been overwhelmingly positive given the political, legal, commercial and regulatory challenges mentioned above. Several companies, however, have responded positively. Chevron and Repsol, who are already active in Venezuela seem interested to expand their footprint in the country. Hilcorp, a large privately owned U.S. company may also be interested to get involved.
 
-In the short-term, the biggest change in Venezuela may be a redirection of the trade. Prior to the Trump naval blockade and Maduro’s removal, the vast majority (~70%) of Venezuela’s crude was exported (mostly on sanctioned “dark fleet” VLCCs) to China, while the remainder went mostly to the U.S. under the Chevron license. Now that the U.S. government is controlling the exports, it is likely that more Venezuelan crude oil will be directed to refiners in the U.S. Gulf. After all, many U.S. Gulf refiners are configured to run the heavy Venezuelan crude. The
+In the short-term, the biggest change in Venezuela may be a redirection of the trade. Prior to the Trump naval blockade and Maduro’s removal, the vast majority (~70%) of Venezuela’s crude was exported (mostly on sanctioned “dark fleet” VLCCs) to China, while the remainder went mostly to the U.S. under the Chevron license. Now that the U.S. government is controlling the exports, it is likely that more Venezuelan crude oil will be directed to refiners in the U.S. Gulf. After all, many U.S. Gulf refiners are configured to run the heavy Venezuelan crude. The short sailing distance gives U.S. refiners a freight advantage as well. More access to Venezuelan crude will help U.S. refiners that previously bought Mexican grades, since Mexico’s exports have been in decline.
 
 *Chart*
 
 *Source: Vortexa*
-
-short sailing distance gives U.S. refiners a freight advantage as well. More access to Venezuelan crude will help U.S. refiners that previously bought Mexican grades, since Mexico’s exports have been in decline.
 
 So, what will China do? If (most of) Venezuela’s crude will end up in the U.S., where will the Chinese source replacement barrels? Will they pick up more Canadian barrels, which are of similar specifications? If so, will they source that crude from the U.S. Gulf on VLCCs or from Vancouver on Aframaxes? If it comes from Vancouver, will that mean less Canadian crude going into the U.S. West Coast? That would mean refiners in California need replacement barrels. Will those come from Latin America or the Middle East? All these decisions will also impact which tanker segments will benefit or suffer
 

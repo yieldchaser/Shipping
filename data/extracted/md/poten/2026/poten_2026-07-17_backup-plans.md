@@ -26,11 +26,9 @@ Iraq has access to the Mediterranean via the Kirkuk – Ceyhan pipeline. It has 
 
 Countries like Kuwait, Qatar and Bahrain have limited options, although Kuwait is having discussions with its neighbor, Saudi Arabia to piggyback on some of their expansions to the Red Sea.
 
-Iran itself also has an alternative route, avoiding the SOH. Iran inaugurated the 1.0 Mb/d Goreh-Jask pipeline and the Jask
+Iran itself also has an alternative route, avoiding the SOH. Iran inaugurated the 1.0 Mb/d Goreh-Jask pipeline and the Jask export terminal on the Gulf of Oman with a single export cargo in July 2021. However, loadings have been sporadic, and most analysts see this pipeline as effectively non-operational at the moment.
 
 *Chart*
-
-export terminal on the Gulf of Oman with a single export cargo in July 2021. However, loadings have been sporadic, and most analysts see this pipeline as effectively non-operational at the moment.
 
 If and when all these expansions and new projects come on-line in the next three to five years, it could theoretically reduce the dependence on the SOH by several million barrels. This will significantly reduce Iran’s leverage over its neighbors in the Persian Gulf. It should be noted however that the current pipeline backup plans seem to primarily focus on crude oil. The 5.0 Mb/d of refined products coming from the Persian Gulf will remain at risk from a SOH closure.
 

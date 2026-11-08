@@ -26,9 +26,7 @@ Last week's trends persist in the Atlantic Ocean. Thus, the ECSA Supramax/Ultram
 
 In the meantime, uncertainty persists in the USG . Decision on potential extra costs for calling US ports by Chinese-built and Chinese-owned vessels is still under discussion and there is no clarity on the market picture looking forward. At the moment, freight levels are stable amid the outflow of tonnage from the North Atlantic, a slowdown of ballaster inflow and growing number of cargo requests ex non-US ports.
 
-The Handysize/Supramax shipping market has slowed down slightly in the Baltic & Continent after a surge of activity last week. The vessel count for April dates is gradually increasing, while support from the cargo side is moderate these days. “Very confusing market, with owners still asking high numbers,
-
-but charterers not agreeing the same,” a broker commented. Indicative freights stay at previous levels. For instance, transportation of 25,000 t of steel scrap (sf 55-58`) from ARAG to Turkey still costs $29- 30/t bss 1/1 given 6000x/5000c l/d rates.
+The Handysize/Supramax shipping market has slowed down slightly in the Baltic & Continent after a surge of activity last week. The vessel count for April dates is gradually increasing, while support from the cargo side is moderate these days. “Very confusing market, with owners still asking high numbers, but charterers not agreeing the same,” a broker commented. Indicative freights stay at previous levels. For instance, transportation of 25,000 t of steel scrap (sf 55-58`) from ARAG to Turkey still costs $29- 30/t bss 1/1 given 6000x/5000c l/d rates.
 
 Ship owners working in the Black and Mediterranean Seas have suffered a major frustration this week. Encouraging news about Turkish lifting of duties on wheat and on 1 million t of corn did not lead to an actual increase in freight market activity. The surplus of open vessels remains quite noticeable, which allows charterers to keep rates unchanged. Rates for transportation of 25-30,000 t of wheat or corn from POC to Iskenderun or Alexandria are still hovering at $13.5-14.5/t, while those from CVB to Algeria amount to $18-18.5/t.
 

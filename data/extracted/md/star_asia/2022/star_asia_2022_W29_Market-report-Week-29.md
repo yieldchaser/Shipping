@@ -26,67 +26,27 @@ pages: 15
 
 Europe raises rates for the first time in 11 years as inflation fears intensify. The European
 
-Central Bank hiked its benchmark interest rate for the first time in more than a decade,
+Central Bank hiked its benchmark interest rate for the first time in more than a decade, rendering borrowing more costly as European inflation soars.
 
-rendering borrowing more costly as European inflation soars.
+The hike marked the end of eight years of negative interest rates intended to encourage banks to lend freely. After investors responded favourably to the European Central Bank's robust effort to contain inflation, European markets concluded the day approximately where they began.
 
-The hike marked the end of eight years of negative interest rates intended to encourage
+In eurozone nations, inflation is at its highest in generations, hitting 8.6% in June. The increase was driven mainly by increased energy and food costs. The European Central Bank is faced with an arduous task: balancing the economic deficiencies and debt loads of 19 diverse nations.
 
-banks to lend freely. After investors responded favourably to the European Central Bank's
-
-robust effort to contain inflation, European markets concluded the day approximately where
-
-they began.
-
-In eurozone nations, inflation is at its highest in generations, hitting 8.6% in June. The
-
-increase was driven mainly by increased energy and food costs. The European Central Bank
-
-is faced with an arduous task: balancing the economic deficiencies and debt loads of 19
-
-diverse nations.
-
-While in China, defaulting payment continues. Suppliers to Chinese real estate developers
-
-are snubbing repayment of bank loans, an indication that the loan boycott is spreading.
+While in China, defaulting payment continues. Suppliers to Chinese real estate developers are snubbing repayment of bank loans, an indication that the loan boycott is spreading.
 
 Hundreds of property contractors are in debt due to the China Evergrande Group.
 
-After Evergrande's financial issue placed them in the red, some small companies and
-
-suppliers sent an online statement stating they would no longer pay their obligations. The
-
-group claimed that they chose to cease payment of debts and arrears as Evergrande should
-
-be held accountable for any consequences resulting from the supply-chain problems' chain
-
-reaction. Evergrande has declined to comment.
+After Evergrande's financial issue placed them in the red, some small companies and suppliers sent an online statement stating they would no longer pay their obligations. The group claimed that they chose to cease payment of debts and arrears as Evergrande should be held accountable for any consequences resulting from the supply-chain problems' chain reaction. Evergrande has declined to comment.
 
 #### Dry Bulk
 
-The dirtiest fossil fuel will continue to be China's primary source of energy for at least the next decade, according to the world's largest coal business, which is a frightening thought for those who are alarmed by the sweltering heat affecting most of the globe. Zhang Hong, deputy general secretary of the China National Coal Association, said at a briefing on Wednesday that coal's prevailing position is unlikely to alter in the next 10 to 15 years. Despite China's tremendous investment in renewable energy, climate action remains dependent on energy security, especially in light of last year's devastating power outages and the price surge caused by Russia's invasion of Ukraine. Meanwhile, in Capesize, spot prices have fluctuated between US$18,000 and US$25,000 since the start of summer, considerably off the mark compared to last year's highs. The market is currently supported, but spot rates are not climbing. There is anticipation that
+The dirtiest fossil fuel will continue to be China's primary source of energy for at least the next decade, according to the world's largest coal business, which is a frightening thought for those who are alarmed by the sweltering heat affecting most of the globe. Zhang Hong, deputy general secretary of the China National Coal Association, said at a briefing on Wednesday that coal's prevailing position is unlikely to alter in the next 10 to 15 years. Despite China's tremendous investment in renewable energy, climate action remains dependent on energy security, especially in light of last year's devastating power outages and the price surge caused by Russia's invasion of Ukraine. Meanwhile, in Capesize, spot prices have fluctuated between US$18,000 and US$25,000 since the start of summer, considerably off the mark compared to last year's highs. The market is currently supported, but spot rates are not climbing. There is anticipation that rangebound trade will continue for a few more weeks until late summer seasonality while the growing iron ore shipments from Brazil constrain the South Atlantic basin. Also, China's economic stimulus is also expected to help the real estate market. If such stimulation leads to increased iron ore (and coal) shipping volumes, dry bulk spot rates may be expected to be higher than the data suggests.
 
 ## Page 2
 
-rangebound trade will continue for a few more weeks until late summer seasonality while the growing iron ore shipments from Brazil constrain the South Atlantic basin. Also, China's economic stimulus is also expected to help the real estate market. If such stimulation leads to increased iron ore (and coal) shipping volumes, dry bulk spot rates may be expected to be higher than the data suggests.
-
 #### Capesize:
 
-Iron ore shipments from Brazil are gradually affected, whereas coal near Northern Europe is
-
-heavily influenced due to current predicaments. Ship supply was disrupted owing to a depth
-
-of demurrage from increasing inventory at the port. Europe will dramatically expand coal
-
-supplies in anticipation of the implementation of a ban on imports of Russian coal next
-
-month. Currently, inventories of European coal hubs around Rotterdam are adequate to fulfil
-
-the demand for the third quarter. However, owing to Europe's heat wave, the water level in
-
-important coal transportation routes such as the Rhine River has fallen. Pacific r/v and T/A
-
-have seen a slight climb this week in levels due to increased demand. Pacific closed at
+Iron ore shipments from Brazil are gradually affected, whereas coal near Northern Europe is heavily influenced due to current predicaments. Ship supply was disrupted owing to a depth of demurrage from increasing inventory at the port. Europe will dramatically expand coal supplies in anticipation of the implementation of a ban on imports of Russian coal next month. Currently, inventories of European coal hubs around Rotterdam are adequate to fulfil the demand for the third quarter. However, owing to Europe's heat wave, the water level in important coal transportation routes such as the Rhine River has fallen. Pacific r/v and T/A have seen a slight climb this week in levels due to increased demand. Pacific closed at
 
 US$13,500 a day while the latter was in the region of US$31,150s.
 
@@ -102,15 +62,9 @@ Russia and Ukraine are meeting this week under the presidency of Turkey and the 
 
 #### Handysize:
 
-This week, confidence in the Pacific region improved, with rates steadily firming against the
+This week, confidence in the Pacific region improved, with rates steadily firming against the background of robust Indonesia coal demand. Inter-Pacific closed at week's closing with levels in the region of US$19,300 a day. It was a favourable week in both basins overall. In the
 
-background of robust Indonesia coal demand. Inter-Pacific closed at week's closing with
-
-levels in the region of US$19,300 a day. It was a favourable week in both basins overall. In the
-
-Atlantic, the Cont had a better week, while the USG is experiencing a tonnage shortage. T/A
-
-also saw levels firmed with rates at US$ 18,300's a day.
+Atlantic, the Cont had a better week, while the USG is experiencing a tonnage shortage. T/A also saw levels firmed with rates at US$ 18,300's a day.
 
 # Dry Bulk - S&P Report
 

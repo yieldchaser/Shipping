@@ -24,9 +24,7 @@ The last time the oil market experienced a significant and rapid price decline w
 
 At the moment, the spot price of Brent is only about $5 below the forward price for July 2015, even though spot prices have declined by about $55 from the recent peak reached in June 2014. Storing crude on a VLCC for 6 months would currently cost about $4 per barrel in charter hire. If we assume an additional $2-3/bbl for other expenses such as insurance, financing, fuel, etc., the contango would need to be $6-7/bbl for floating storage to be worthwhile.
 
-Land based storage is cheaper than floating storage, and will thus be used first before floating storage becomes a significant factor. According to the IEA, OECD stocks are at 97% of historical highs but additional storage capacity has been added since. Inventories in OECD countries
-
-esv
+Land based storage is cheaper than floating storage, and will thus be used first before floating storage becomes a significant factor. According to the IEA, OECD stocks are at 97% of historical highs but additional storage capacity has been added since. Inventories in OECD countries esv have increased by 154 million barrels since the beginning of the year and, if this trend continues, capacity limits may be reached in 2015. There is also significant (and growing) storage capacity in Non-OECD countries like China, India and South Africa, but this is filling up as well. Unless demand increases or supply is cut, there appears to be no other alternative than floating storage.
 
 *Chart: Fig. 1: Brent Contango Over Time*
 
@@ -35,8 +33,6 @@ esv
 *Chart*
 
 *Source: IEA*
-
-have increased by 154 million barrels since the beginning of the year and, if this trend continues, capacity limits may be reached in 2015. There is also significant (and growing) storage capacity in Non-OECD countries like China, India and South Africa, but this is filling up as well. Unless demand increases or supply is cut, there appears to be no other alternative than floating storage.
 
 The IEA forecasts that inventories will grow by up to 1.75 million bbl/day if OPEC maintains production at their stated target of 30 million bbl/day through the first half of 2015. This could employ an additional 25 VLCCs in floating storage every month, once land based storage capacity is filled.
 

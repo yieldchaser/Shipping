@@ -22,7 +22,7 @@ To a large extent, crude tanker demand is driven by how much oil refineries proc
 
 Since the middle of 2015, Brent cracking margins have come down significantly. Later in the year, refinery utilization rates started to decline as well. When observing weekly data for 2016 to date, it seems that the margin erosion has accelerated. All the main U.S. and International Crack Spreads (NWE Brent 3:2:1, Asia Tapis 3:2:1 and AG Dubai 3:2:1) have fallen well below the levels of the same period in 2014 and 2015 and in several cases below their 5-yr range.
 
-While some of the data is still preliminary and the trend could
+While some of the data is still preliminary and the trend could reverse, one could make the case that the golden age of refining is running on fumes and a slowdown is in the cards. Amid weakening economic sentiment, oil demand growth is decelerating. The IEA, for example, expects global oil demand in 2016 to grow by 1.3%, well below the 1.8% growth we have seen in 2015. For the OECD countries, the difference is especially stark: from 1.0% growth in 2015 down to 0.1% growth in 2016.
 
 *Chart: Fig. 1: NW Europe 321 Crack Spread vs NW Europe Refinery Throughput*
 
@@ -31,8 +31,6 @@ While some of the data is still preliminary and the trend could
 *Chart: Fig 2: NW Europe 321 Crack Spread vs Aframax TD7 Rates*
 
 *Source: Bloomberg / Poten & Partners*
-
-reverse, one could make the case that the golden age of refining is running on fumes and a slowdown is in the cards. Amid weakening economic sentiment, oil demand growth is decelerating. The IEA, for example, expects global oil demand in 2016 to grow by 1.3%, well below the 1.8% growth we have seen in 2015. For the OECD countries, the difference is especially stark: from 1.0% growth in 2015 down to 0.1% growth in 2016.
 
 As long as oil producers keep their taps open, the tanker market may not feel the impact, but continued high OPEC (and non-OPEC) output is not a foregone conclusion. A preliminary agreement between OPEC members Saudi Arabia, Venezuela, Qatar and non-member Russia to cap their production at January 2016 levels, was the first meaningful response by oil producing countries since prices collapsed. It was also the first time in 15 years that there was an agreement between OPEC and non-OPEC countries. This is only a first step, and success depends on the participation of other large producers, in particular Iran and Iraq, it could lead to production cuts down the road.
 

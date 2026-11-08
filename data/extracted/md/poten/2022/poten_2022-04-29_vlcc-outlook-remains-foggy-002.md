@@ -24,15 +24,13 @@ Roughly a quarter of the global TonMile demand increase was driven by exports fr
 
 Mexico, on the other hand, reduced their VLCC exports following President Andres Manuel Lopez Obrador’s pledge to improve Mexico’s petroleum product independence by increasing local refinery runs and thus reduce crude oil exports in 2022 and stop exporting completely by 2023. However, in March 2022, he expressed the intention to delay the implementation to take advantage of the current high crude oil prices, so exports may improve again in the coming months.
 
-North-West Europe added two VLCC import cargoes per month (from 4.3 to 6.3/month). They took two more cargoes per month from West Africa and one from the Middle East, partially offset by lower VLCC imports from the U.S. Gulf and the Med. Additionally, France imported two West African VLCC cargoes in the quarter, one from Nigeria and one from Angola. West African imports were likely attractive for Europe as these
+North-West Europe added two VLCC import cargoes per month (from 4.3 to 6.3/month). They took two more cargoes per month from West Africa and one from the Middle East, partially offset by lower VLCC imports from the U.S. Gulf and the Med. Additionally, France imported two West African VLCC cargoes in the quarter, one from Nigeria and one from Angola. West African imports were likely attractive for Europe as these cargoes can be delivered relatively quickly, in contrast to the much longer voyage from the Middle East.
 
 *Chart*
 
 *Source: Lloyd’s List Intelligence*
 
 *Source: Poten & Partners*
-
-cargoes can be delivered relatively quickly, in contrast to the much longer voyage from the Middle East.
 
 The VLCC market improved initially when Russia started their invasion of Ukraine, but the recovery was only temporary, and the market has been clearly more volatile since. Despite the geopolitical turmoil, it is important to remember that VLCC TonMile demand is still 12% below pre-Covid levels and that the fleet has grown by 6% since early 2020.
 

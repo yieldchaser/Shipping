@@ -397,9 +397,7 @@ Edda Sun (pictured c/o O. Halland)
 
 Subsea 7 Vessel
 
-It has been a busy spell for Subsea 7, with the company securing the engineering, procurement, construction and installation (EPCI) contract for Aker BP's Hod development
-
-in the North Sea. This was followed up with a second EPCI contract in the Gulf of Mexico. The contract covering the Hod field includes the EPCI for pipelines, umbilicals and tie-ins utilising vessels from Subsea 7's own fleet.
+It has been a busy spell for Subsea 7, with the company securing the engineering, procurement, construction and installation (EPCI) contract for Aker BP's Hod development in the North Sea. This was followed up with a second EPCI contract in the Gulf of Mexico. The contract covering the Hod field includes the EPCI for pipelines, umbilicals and tie-ins utilising vessels from Subsea 7's own fleet.
 
 The production pipeline is a pipe-in-pipe design which will incorporate the first application of mechanically lined pipe based on GluBi technology from Butting. Offshore operations will take place this year and in 2021.
 

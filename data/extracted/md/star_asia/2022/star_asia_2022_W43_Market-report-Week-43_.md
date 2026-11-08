@@ -24,31 +24,13 @@ pages: 16
 
 ---
 
-The U.S. economy grew slowly over the summer, raising fears of a looming recession while
+The U.S. economy grew slowly over the summer, raising fears of a looming recession while also maintaining hope that one could be avoided.
 
-also maintaining hope that one could be avoided.
+After six months of decline, gross domestic product increased by 0.6%, slightly exceeding forecasters' expectations. This suggests that a path to a "soft landing," in which policymakers cool off hot demand without completely halting the recovery, is still open, albeit narrow. For now, there are still many economic headwinds to contend with. As inflation eroded households' purchasing power and mortgage rates soared to their highest level since 2002, the housing sector experienced a sharp decline.
 
-After six months of decline, gross domestic product increased by 0.6%, slightly exceeding
+Meanwhile, European Central Bank has once again increased interest rates. In only three months, the bank has hiked rates at the quickest rate in its history.
 
-forecasters' expectations. This suggests that a path to a "soft landing," in which policymakers
-
-cool off hot demand without completely halting the recovery, is still open, albeit narrow. For
-
-now, there are still many economic headwinds to contend with. As inflation eroded
-
-households' purchasing power and mortgage rates soared to their highest level since 2002,
-
-the housing sector experienced a sharp decline.
-
-Meanwhile, European Central Bank has once again increased interest rates. In only three
-
-months, the bank has hiked rates at the quickest rate in its history.
-
-The ripple effects from the U.S. Federal Reserve's interest rate hikes have harmed other
-
-currencies, notably those of Japan, China, and India, by making it more difficult for foreign
-
-borrowers with debt in U.S. dollars to repay their loans. Economist Michael Gapen for Bank of
+The ripple effects from the U.S. Federal Reserve's interest rate hikes have harmed other currencies, notably those of Japan, China, and India, by making it more difficult for foreign borrowers with debt in U.S. dollars to repay their loans. Economist Michael Gapen for Bank of
 
 America said, "At this point, it wouldn't take much to tip the economy into recession." Next week will be interesting as we await the Federal Reserve announcement. Their news will likely shape the future of economies and the coming markets.
 
@@ -62,19 +44,9 @@ Iron ore prices continued to fall significantly as fears about global steel indu
 
 Overall, a modest week with slow activity. The policy direction stated at the China Communist
 
-Party Congress also added to the negative attitude in the dry cargo sector. Seasonal recovery
+Party Congress also added to the negative attitude in the dry cargo sector. Seasonal recovery expectations and weak steel demand in China are both impacting the Cape outlook. Pacific r/v fell to US$11,250 a day at the week's closing. Meanwhile, Brazil's Vale iron ore output was
 
-expectations and weak steel demand in China are both impacting the Cape outlook. Pacific
-
-r/v fell to US$11,250 a day at the week's closing. Meanwhile, Brazil's Vale iron ore output was
-
-89.7 million tons in the third quarter this year, up 21%. The rebound is projected to minimize
-
-additional market falls in the future, but this week did not translate to a climb in rates. T/A saw
-
-levels settled in the region of US$20,750 a day. Market conditions are predicted to be
-
-volatile.
+89.7 million tons in the third quarter this year, up 21%. The rebound is projected to minimize additional market falls in the future, but this week did not translate to a climb in rates. T/A saw levels settled in the region of US$20,750 a day. Market conditions are predicted to be volatile.
 
 ### Panamax / Kamsarmax:
 
@@ -217,23 +189,9 @@ This week in the Middle East Gulf, LR2s freight levels were quiet. TC1 lost five
 
 # Containers
 
-It is another freefalling week of container rates. 9,000 TEU rates saw levels fall another couple
-
-of thousands to below US$100,000 now (US$82,000/day). Many are wondering where the
-
-floor is now for the levels. Despite the various factors that have affected the container freight
-
-rate environment, analysts are still divided on how much lower the rates will go before they
-
-reach a new normal. The U.S. housing market has officially entered a slump, which is a good
-
-indication for the container shipping industry. Some analysts believe that the recent
-
-moderation in the leading indicators' rollover rate movements is a sign that the container
+It is another freefalling week of container rates. 9,000 TEU rates saw levels fall another couple of thousands to below US$100,000 now (US$82,000/day). Many are wondering where the floor is now for the levels. Despite the various factors that have affected the container freight rate environment, analysts are still divided on how much lower the rates will go before they reach a new normal. The U.S. housing market has officially entered a slump, which is a good indication for the container shipping industry. Some analysts believe that the recent moderation in the leading indicators' rollover rate movements is a sign that the container shipping industry is starting to bottom out.
 
 ## Page 8
-
-shipping industry is starting to bottom out.
 
 # Containers S&P Report
 
@@ -288,11 +246,9 @@ AN PING 8 9,804 1994 / JAPAN BULKER 620 DELIVERED CHATTOGRAM
 
 # Insights
 
-This week Bangladesh made headlines, putting sudden brakes on new purchases as the banks tighten the payments. Recycling markets have now taken a dramatic turn approaching year-end. In China, domestic steel consumption has been facing significant challenges for a prolonged period of time as the strict COVID policies have dampened the demand. The liquidity crunch has kept the property developers away from new projects leading local governments to sell
+This week Bangladesh made headlines, putting sudden brakes on new purchases as the banks tighten the payments. Recycling markets have now taken a dramatic turn approaching year-end. In China, domestic steel consumption has been facing significant challenges for a prolonged period of time as the strict COVID policies have dampened the demand. The liquidity crunch has kept the property developers away from new projects leading local governments to sell land to state-owned enterprises to try and generate some immediate revenue but not enough to boost steel and commodity demand. As the domestic demand for steel exhausts in China, the steel mills are looking toward export markets which are going to be very complex for pricing in the long term. Once again, the fears of cheap Chinese steel flooding the markets will keep the steel prices volatile. Meanwhile, steel consumption in the E.U. is predicted to fall by 3.5% this year and 1.9% in 2023 because of increased energy prices and a recession, according to Eurofer on Wednesday. The agency, which analyses statistics on the country's steel sector, has also reduced its prognosis for apparent steel demand a few times this year. It forecasted a 3.1% increase in demand in 2022 in February, but that figure was revised down to 1.7% in August. Steel demand increased by 6.3% in the first quarter but fell in the second quarter owing to the impact of the Russia-Ukraine war. Eurofer is also especially concerned about the high volume of distorted steel imports into the E.U. Steel imports into the E.U. climbed by 28.5% in the first quarter and by 1.6% in the second quarter.
 
 ## Page 11
-
-land to state-owned enterprises to try and generate some immediate revenue but not enough to boost steel and commodity demand. As the domestic demand for steel exhausts in China, the steel mills are looking toward export markets which are going to be very complex for pricing in the long term. Once again, the fears of cheap Chinese steel flooding the markets will keep the steel prices volatile. Meanwhile, steel consumption in the E.U. is predicted to fall by 3.5% this year and 1.9% in 2023 because of increased energy prices and a recession, according to Eurofer on Wednesday. The agency, which analyses statistics on the country's steel sector, has also reduced its prognosis for apparent steel demand a few times this year. It forecasted a 3.1% increase in demand in 2022 in February, but that figure was revised down to 1.7% in August. Steel demand increased by 6.3% in the first quarter but fell in the second quarter owing to the impact of the Russia-Ukraine war. Eurofer is also especially concerned about the high volume of distorted steel imports into the E.U. Steel imports into the E.U. climbed by 28.5% in the first quarter and by 1.6% in the second quarter.
 
 ### ALANG, INDIA
 

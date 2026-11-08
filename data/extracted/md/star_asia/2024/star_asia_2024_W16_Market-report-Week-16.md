@@ -98,11 +98,9 @@ The VLCC witness sluggish demand in the Middle East as heightened tensions betwe
 
 Suezmax:
 
-With the risk of further conflict, chartering demand surged start of week but quickly fell at closing due to lack of available vessels in the West Africa. 130,000mt Nigeria/UKC fell 18
+With the risk of further conflict, chartering demand surged start of week but quickly fell at closing due to lack of available vessels in the West Africa. 130,000mt Nigeria/UKC fell 18 points to WS108. Same was also seen in the Black Sea with 135,000mt CPC/Med falling to WS115.
 
 ## Page 6
-
-points to WS108. Same was also seen in the Black Sea with 135,000mt CPC/Med falling to WS115.
 
 # Aframax:
 

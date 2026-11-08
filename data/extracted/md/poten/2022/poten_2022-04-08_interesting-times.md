@@ -22,15 +22,13 @@ During the last four years, tanker freight rates have fluctuated wildly, ranging
 
 Although the pandemic is far from over, many (mostly Western) countries have vaccinated large portions of their population and are learning to live with the virus. Economies have started to open up and oil demand has almost recovered to 2019 levels. While 2021 was still a down year for tankers, the hope was that 2022 could be the year of recovery. This has not panned out so far for obvious reasons.
 
-On 24 February 2022, Russia invaded Ukraine. This attack was followed by an avalanche of sanctions on Russia by the international community. While most countries initially avoided targeting Russian energy, the conflict did create a lot of turmoil in the oil markets. Tanker rates initially spiked, in particular for trades out of the Baltic and the Black Sea, two of the main export areas for Russian crude oil. Rates softened after a few weeks, until they moved up again last week as the dislocations in the crude oil and refined product markets are starting to have an impact. The sanctions on Sovcomflot, the largely state-owned Russian owner have also contributed to the rate increases. Initially, the Russia sanctions benefitted the Aframax
+On 24 February 2022, Russia invaded Ukraine. This attack was followed by an avalanche of sanctions on Russia by the international community. While most countries initially avoided targeting Russian energy, the conflict did create a lot of turmoil in the oil markets. Tanker rates initially spiked, in particular for trades out of the Baltic and the Black Sea, two of the main export areas for Russian crude oil. Rates softened after a few weeks, until they moved up again last week as the dislocations in the crude oil and refined product markets are starting to have an impact. The sanctions on Sovcomflot, the largely state-owned Russian owner have also contributed to the rate increases. Initially, the Russia sanctions benefitted the Aframax and Suezmax tankers, which were most directly affected. However, product tankers have also moved up significantly and more recently, even VLCC-rates, which were lagging the market, have started to rise. The changes in Russian trade flows are likely permanent and should benefit future ton-mile demand.
 
 *Chart: Suezmax: BSEA - MED*
 
 *Chart*
 
 *Source: Poten & Partners*
-
-and Suezmax tankers, which were most directly affected. However, product tankers have also moved up significantly and more recently, even VLCC-rates, which were lagging the market, have started to rise. The changes in Russian trade flows are likely permanent and should benefit future ton-mile demand.
 
 The market would have probably improved more and faster if it wasn’t for a new Covid-scare in China. China has a zero-Covid policy that aims to prevent the spread of the virus through border controls, mass testing, quarantines, and strict lockdowns. An increase in cases in the major commercial hub of Shanghai has caused officials to lockdown this city of more than 25 million people. This could shave up to 200,000 b/d off China’s oil demand.
 

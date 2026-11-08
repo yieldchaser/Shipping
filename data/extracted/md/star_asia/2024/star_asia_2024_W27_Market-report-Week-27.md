@@ -34,11 +34,9 @@ In the Pacific, the market showed resilience due to the consistent vessel demand
 
 Panamax/Kamsarmax:
 
-The Atlantic market is experiencing a quiet start of the week, yet there are signs of an attempt to establish a price floor after two consecutive weeks of decline. This suggests a potential pushback against the recent levels as market participants seek to stabilise prices. T/A levels fell to US$11,700's a day at the end of the week. In contrast, the Pacific continues to face discounts on rates despite a steady influx of cargoes. Pacific r/v levels were at US$12,850's a day. The persistent oversupply of vessels relative to demand is maintaining a bearish market structure. Supramax/Ultramax: The Atlantic is experiencing mixed signals. While there has been an increase in grain
+The Atlantic market is experiencing a quiet start of the week, yet there are signs of an attempt to establish a price floor after two consecutive weeks of decline. This suggests a potential pushback against the recent levels as market participants seek to stabilise prices. T/A levels fell to US$11,700's a day at the end of the week. In contrast, the Pacific continues to face discounts on rates despite a steady influx of cargoes. Pacific r/v levels were at US$12,850's a day. The persistent oversupply of vessels relative to demand is maintaining a bearish market structure. Supramax/Ultramax: The Atlantic is experiencing mixed signals. While there has been an increase in grain cargo inflow from the USG, the potential for significant rate improvements is being constrained by supply pressure from South America. Meanwhile, the Pacific continues to face challenges. The region is grappling with a persistent downward rate, primarily due to sluggish cargo inflow across various routes. Pacific r/v closed at US$14,450's a day.
 
 ## Page 3
-
-cargo inflow from the USG, the potential for significant rate improvements is being constrained by supply pressure from South America. Meanwhile, the Pacific continues to face challenges. The region is grappling with a persistent downward rate, primarily due to sluggish cargo inflow across various routes. Pacific r/v closed at US$14,450's a day.
 
 # Handysize:
 

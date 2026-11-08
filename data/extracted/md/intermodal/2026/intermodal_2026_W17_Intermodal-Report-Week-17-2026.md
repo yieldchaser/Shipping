@@ -141,9 +141,7 @@ The dry bulk market delivered a mixed but generally constructive performance, wi
 
 In the Capesize sector, the week opened on a strong note, led mainly by Atlantic strength and firmer Brazil-China activity. A thinner list of ballasters for May positions and some fronthaul demand helped lift sentiment early on. However, the market struggled to hold these gains as the Pacific softened, with weaker Australia-China levels offsetting the Atlantic's more supportive tone. Atlantic enquiry remained helpful through much of the week, particularly on transatlantic and fronthaul business, although momentum appeared to flatten towards the close.
 
-Panamax conditions were more uneven. The Atlantic lost some of its previous firmness as vessel supply expanded and grain demand eased, putting downward pressure on transatlantic trades. Cargo flows from minerals and North Coast South America con-
-
-tinued, but were insufficient to prevent a softer tone. Asia performed better, supported by steady demand from Australia, Indonesia and the North Pacific, while prompt tonnage remained relatively tighter.
+Panamax conditions were more uneven. The Atlantic lost some of its previous firmness as vessel supply expanded and grain demand eased, putting downward pressure on transatlantic trades. Cargo flows from minerals and North Coast South America con-tinued, but were insufficient to prevent a softer tone. Asia performed better, supported by steady demand from Australia, Indonesia and the North Pacific, while prompt tonnage remained relatively tighter.
 
 Ultramax and Supramax markets showed a firmer bias, with owners holding the stronger position in several areas. Demand from the US Gulf, South Atlantic and parts of the Continent helped underpin sentiment, while Asia also remained well supported by limited nearby tonnage and consistent enquiry. Period interest was also visible.
 

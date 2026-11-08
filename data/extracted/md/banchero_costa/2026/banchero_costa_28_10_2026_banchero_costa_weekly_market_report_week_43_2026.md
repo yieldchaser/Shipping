@@ -68,9 +68,7 @@ But beneath the calm picture presented by imports of the main steel raw material
 
 # US tariff war is fueling Vietnam's coal boom
 
-A years-long trade war between the United States and China has helped shift manufacturing investment, factory output and export production into Vietnam, driving the Southeast Asian nation's coal-fired electricity generation to record highs. Vietnam's coal plants generated 132.9 terawatt hours (TWh) of electricity during the first nine months of 2026, which is a 15% jump from the same months last
-
-year and the highest for that period on record, according to data from Ember.
+A years-long trade war between the United States and China has helped shift manufacturing investment, factory output and export production into Vietnam, driving the Southeast Asian nation's coal-fired electricity generation to record highs. Vietnam's coal plants generated 132.9 terawatt hours (TWh) of electricity during the first nine months of 2026, which is a 15% jump from the same months last year and the highest for that period on record, according to data from Ember.
 
 # India stays net finished steel importer in April-September, government data shows
 
@@ -122,9 +120,7 @@ Two top US Energy Department officials said on Tuesday they were working with re
 
 # US refiners have run harder in 2026 as tight diesel supplies boost margins, EIA says
 
-The US Energy Information Administration said on Thursday that US refiners have maintained higher-than-normal run rates this year, buoyed by strong margins stemming from tight global supplies of refined fuel products. Refinery utilization has averaged more than 95% of capacity between May and September, the highest for those months since 1998, the EIA said. US
-
-refinery utilization has averaged 92% from May to September since 1991, compared with 88% across the other seven months, the EIA said.
+The US Energy Information Administration said on Thursday that US refiners have maintained higher-than-normal run rates this year, buoyed by strong margins stemming from tight global supplies of refined fuel products. Refinery utilization has averaged more than 95% of capacity between May and September, the highest for those months since 1998, the EIA said. US refinery utilization has averaged 92% from May to September since 1991, compared with 88% across the other seven months, the EIA said.
 Trump's tax-exempt diesel draws skepticism from farmers, eludes others
 
 US President Donald Trump signed an executive order this month to expand access to tax-exempt diesel as soaring prices frustrate voters ahead of midterm elections. But farmers say it is too risky to use the fuel on public roads, while some other drivers do not have access to it. Trump has sought to lower prices and boost his sagging approval ratings through a series of actions focused on fuel, including an $8 billion financial support program he announced on Monday to offset diesel costs for farmers during the autumn harvest.
@@ -151,9 +147,7 @@ Britain on Wednesday approved the Jackdaw North Sea gas field, ending years of l
 
 # Kinder Morgan to invest $4.7 billion in two gas pipeline projects as demand surges
 
-US pipeline operator Kinder Morgan said on Wednesday it has approved a total of $4.7 billion as its share of investments in two major natural gas pipeline joint ventures, citing rising demand from power plants, data centers and LNG exporters. The projects helped lift Kinder Morgan's natural-gas project backlog to a record level, underscoring the
-
-industry's efforts to expand infrastructure to serve the new demand. Kinder Morgan would invest about $3.1 billion in Southern Natural Gas' Southeast Connector project and $1.6 billion in Natural Gas Pipeline Company of America's (NGPL) Permian Link project.
+US pipeline operator Kinder Morgan said on Wednesday it has approved a total of $4.7 billion as its share of investments in two major natural gas pipeline joint ventures, citing rising demand from power plants, data centers and LNG exporters. The projects helped lift Kinder Morgan's natural-gas project backlog to a record level, underscoring the industry's efforts to expand infrastructure to serve the new demand. Kinder Morgan would invest about $3.1 billion in Southern Natural Gas' Southeast Connector project and $1.6 billion in Natural Gas Pipeline Company of America's (NGPL) Permian Link project.
 
 # Europe's benchmark hits €90/MWh for first time since December 2022
 
@@ -165,9 +159,7 @@ The European Union remains committed to "ensuring that oil, coal and gas stay in
 
 # Qatari electricity lifeline for Lebanon includes two power plants, LNG supply deal
 
-Qatar plans to construct two power plants in Lebanon over the next three years and sign a 20-year liquefied natural gas supply deal under a proposal to revive the ailing Lebanese power sector, a document seen by Reuters showed. Lebanon's energy sector is at the centre of the country's financial and economic
-
-malaise, contributing tens of billions of dollars to the national debt since the country's 1975-1990 civil war even as it failed to deliver 24/7 power.
+Qatar plans to construct two power plants in Lebanon over the next three years and sign a 20-year liquefied natural gas supply deal under a proposal to revive the ailing Lebanese power sector, a document seen by Reuters showed. Lebanon's energy sector is at the centre of the country's financial and economic malaise, contributing tens of billions of dollars to the national debt since the country's 1975-1990 civil war even as it failed to deliver 24/7 power.
 
 # Northwest Europe gas storage may remain low for winter
 
@@ -238,13 +230,9 @@ The Atlantic market showed a mixed but generally resilient tone, with solid dema
 ECSA activity remained relatively selective, whilst firm earnings on US Gulf and USEC routes continued to underpin Owners’ expectations.
 Meanwhile, fresh fixtures into Europe highlighted a market where positioning and vessel availability remain key factors.
 
-On the ECSA side, an 82,000 dwt vessel fixed for Singapore-Japan
-
-grains at USD 23,000/day, whilst another similar-sized unit achieved USD 18,750/day on the same route, indicating a varied rate range depending on vessel position and timing.
+On the ECSA side, an 82,000 dwt vessel fixed for Singapore-Japan grains at USD 23,000/day, whilst another similar-sized unit achieved USD 18,750/day on the same route, indicating a varied rate range depending on vessel position and timing.
 The South American market also saw a coke cargo from Mamonal to Itaguai quoted at USD 36.50/tonne fio, adding further activity to the regional picture.
-For US Gulf grain business, a 66,000 dwt cargo to China was quoted at USD 72.50/tonne fio, reflecting firm demand for long-haul grain
-
-movements.
+For US Gulf grain business, a 66,000 dwt cargo to China was quoted at USD 72.50/tonne fio, reflecting firm demand for long-haul grain movements.
 
 Transatlantic and Atlantic redelivery fixtures offered further support: an 82,000 dwt vessel fixed from NCSA to Skaw-Gibraltar at USD 23,500/day, with no EU ETS included, whilst USEC/India employment achieved USD 35,000/day.
 These levels underline the continued strength of longer-haul employment out of North America, particularly for vessels able to secure attractive backhaul or fronthaul options.
@@ -258,9 +246,7 @@ NOPAC activity was more limited, with rates varying by vessel size and route.
 Indonesia saw firm levels on South China and longer-haul routes: an 82,000 dwt 2010-built fixed Indo/South China at USD 23,000/day, whilst an 81,000 dwt 2015-built achieved USD 23,750/day plus USD 250,000 for an Indo round voyage.
 South Korea business was reported at USD 22,000/day for a 76,000 dwt 2014-built, whilst an 83,000 dwt 2008-built fixed Indo/India at USD 23,250/day.
 
-Further South China fixtures included
-
-a 76,000 dwt 2000-built at USD 18,000/day and a 76,000 dwt 2001-built at USD 19,000/day, and Indo/India business was also reported at USD 14,500/day for an 82,000 dwt 2006-built.
+Further South China fixtures included a 76,000 dwt 2000-built at USD 18,000/day and a 76,000 dwt 2001-built at USD 19,000/day, and Indo/India business was also reported at USD 14,500/day for an 82,000 dwt 2006-built.
 
 NOPAC activity included an 82,000 dwt 2024-built fixed at around USD 21,000–22,500/day for NoPac/Singapore-Japan; an 85,000 dwt 2016-built achieved USD 26,000/day on the same route, whilst further fixtures were reported at USD 19,000/day for an 81,000 dwt 2012-built and USD 18,000/day for an 82,000 dwt 2011-built.
 
@@ -296,9 +282,7 @@ A 95,000 dwt 2013-built fixed EC Australia/Vietnam at USD 24,000/day, whilst Chi
 
 The US Gulf was steady, though some activity was recorded across both Ultramax and Handy segments.
 
-On Supras/Ultras transatlantic trading was active: to Med/Turkey, a 67k went on subs to East Med with coal USD 36,000, two 65k secured USD 34,000 and USD 31,000 for West Med grains and a 60k to Turkey with
-
-grains USD 31,500, whilst to UK-Continent two 63/64k fixed wood pellets USD 30,000.
+On Supras/Ultras transatlantic trading was active: to Med/Turkey, a 67k went on subs to East Med with coal USD 36,000, two 65k secured USD 34,000 and USD 31,000 for West Med grains and a 60k to Turkey with grains USD 31,500, whilst to UK-Continent two 63/64k fixed wood pellets USD 30,000.
 On fronthaul, a 64k went on subs to India with petcoke USD 37,000–38,000.
 On South American and regional runs, 61/64k tonnage fixed to NCSA/ECSA with grains and coal at
 
@@ -322,19 +306,13 @@ Cotonou took USD 25,000/day APS Paranagua/East Africa and another 32k open Abidj
 The Continent stayed largely in line with last week, holding firm overall despite slightly quieter activity on larger units.
 A major driver continues to be the strong US East Coast market, particularly attractive for Handysize ballasters and helping keep regional freight well supported across the board.
 
-On Handysize, rates stayed very
-
-healthy on both transatlantic and outbound legs: repositioning runs to the US Coast remained high, a 39k (2016) open Antwerp fixing DOP via Bremen to USG with steels USD 19,500/day, whilst outbound to West Africa saw strong numbers, a 34k (2010) open Liverpool fixing via Continent to Douala USD 24,000/day. On Supras/Ultras, tone and levels remained close to the previous
-
-week's: transatlantic business into the US East Coast kept paying solid figures, a 61k (2014) open Aviles fixing APS Garrucha/USEC with gypsum USD 20,000/day, whilst premium trade out of the Baltic stayed active, a 55k (2006) open Dunkirk fixing via the Russian Baltic to USEC with fertilisers USD 22,000/day.
+On Handysize, rates stayed very healthy on both transatlantic and outbound legs: repositioning runs to the US Coast remained high, a 39k (2016) open Antwerp fixing DOP via Bremen to USG with steels USD 19,500/day, whilst outbound to West Africa saw strong numbers, a 34k (2010) open Liverpool fixing via Continent to Douala USD 24,000/day. On Supras/Ultras, tone and levels remained close to the previous week's: transatlantic business into the US East Coast kept paying solid figures, a 61k (2014) open Aviles fixing APS Garrucha/USEC with gypsum USD 20,000/day, whilst premium trade out of the Baltic stayed active, a 55k (2006) open Dunkirk fixing via the Russian Baltic to USEC with fertilisers USD 22,000/day.
 
 # BLACK SEA / MEDITERRANEAN
 
 The Black Sea and Mediterranean market has reported very slow activity, with most cargoes being sourced elsewhere and Owners still refusing to call the area, not all of them but most.
 
-For Handysizes of 35,000 dwt or
-
-more, intra-Med is decreasing to USD 15,000 per day.
+For Handysizes of 35,000 dwt or more, intra-Med is decreasing to USD 15,000 per day.
 
 Transatlantic trips are decreasing a little: the route to Rio de Janeiro-Recalada is at USD 10,000, whilst the trip to Boston-Galveston is at USD 14,500.
 
@@ -351,15 +329,11 @@ bdc# CHARTERING
 Indian Ocean Supramax and Ultramax rates were broadly flat over 19–23 October, South Africa steady and India under pressure.
 The 19 October daily was unavailable, so movements are measured from 16 October.
 
-The week opened firm on lively enquiry, led by Indonesia–India coal, but weak iron ore prices then curbed exports from both Indian coasts, leaving few cargoes and bearish sentiment; a Supramax on the east
-
-coast of India asking USD 18,000/day for Indonesia–India business was reported down to the USD 15,000s/day.
+The week opened firm on lively enquiry, led by Indonesia–India coal, but weak iron ore prices then curbed exports from both Indian coasts, leaving few cargoes and bearish sentiment; a Supramax on the east coast of India asking USD 18,000/day for Indonesia–India business was reported down to the USD 15,000s/day.
 Period rates toward India, Bangladesh and the coastal trades nonetheless held up, owners favouring clinker to Chittagong at a premium.
 
 Out of the Persian Gulf, the limestone trade edged up.
-Freight to move 50,000 mt of limestone from Mina Saqr to Paradip
-
-on the east coast of India held at USD 19.25/mt on 20–21 October, eased to USD 19.20/mt, then closed at USD 19.30/mt, up 15 cents/mt on the week.
+Freight to move 50,000 mt of limestone from Mina Saqr to Paradip on the east coast of India held at USD 19.25/mt on 20–21 October, eased to USD 19.20/mt, then closed at USD 19.30/mt, up 15 cents/mt on the week.
 
 South Africa was rangebound on scarce fixing information.
 
@@ -729,8 +703,6 @@ removal of OFAC sanctions on certain vessels which could create additional and m
 Little to report in the way of notable sales this week, a vintage 1998 blt small handysize bulker the MV LIAN YI DA 2 HAO has reported been sold at region USD 512 LT/DLT in to the Bangladesh market.
 
 ## DEMOLITION PRICES (USD/LDT)
-
- 
 
 cdo banchero costa
 

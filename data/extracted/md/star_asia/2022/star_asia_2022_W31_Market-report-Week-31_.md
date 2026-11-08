@@ -24,33 +24,13 @@ pages: 16
 
 ---
 
-With over half of the world's container fleet passing through, the Taiwan Strait is an important
+With over half of the world's container fleet passing through, the Taiwan Strait is an important supply route for global commerce. Approximately 14% of China's oil and gas vessels made the journey, with smaller units more likely to pass through while larger oil tankers go east toward Taiwan. However, recent military drills outside Taiwan, which took place as U.S. House
 
-supply route for global commerce. Approximately 14% of China's oil and gas vessels made
+Speaker Nancy Pelosi visited the island, have interrupted supply networks. China has vehemently opposed Nancy Pelosi's travel to Taiwan, which it regards as part of its territory.
 
-the journey, with smaller units more likely to pass through while larger oil tankers go east
+Gas suppliers are rerouting their vessels to avoid the strait, which is being used by China for military drills. Some believe that supplies to Japan and Taiwan may be disrupted this weekend as well. Owners are also contemplating other alternatives as China's measures threaten to disrupt their operations significantly.
 
-toward Taiwan. However, recent military drills outside Taiwan, which took place as U.S. House
-
-Speaker Nancy Pelosi visited the island, have interrupted supply networks. China has
-
-vehemently opposed Nancy Pelosi's travel to Taiwan, which it regards as part of its territory.
-
-Gas suppliers are rerouting their vessels to avoid the strait, which is being used by China for
-
-military drills. Some believe that supplies to Japan and Taiwan may be disrupted this
-
-weekend as well. Owners are also contemplating other alternatives as China's measures
-
-threaten to disrupt their operations significantly.
-
-Taiwan's Port and Maritime Bureau has also issued warnings and advised operators to seek
-
-other routes. Despite the warning, travel in the Taiwan Strait remains typical midweek. Ship
-
-managers and owners are weighing their options and may detour around the island's eastern
-
-tip, causing delays of up to three days.
+Taiwan's Port and Maritime Bureau has also issued warnings and advised operators to seek other routes. Despite the warning, travel in the Taiwan Strait remains typical midweek. Ship managers and owners are weighing their options and may detour around the island's eastern tip, causing delays of up to three days.
 
 #### Dry Bulk
 
@@ -60,23 +40,11 @@ The abrupt end to iron ore's five-day advance was ascribed to investors' discont
 
 #### Capesize:
 
-The decline in China's steel demand and the increase in iron ore inventories were some of
-
-the factors that contributed to the week's decline. Despite China's efforts to stimulate the
-
-economy, the construction of new homes has been halted due to the financial difficulties
-
-experienced by real estate developers. In China, the number of cases involving real estate
-
-insolvency has increased. Some believe that the efforts will have a positive effect on the
-
-shipping industry. However, it's still not clear if the market will start to recover until
+The decline in China's steel demand and the increase in iron ore inventories were some of the factors that contributed to the week's decline. Despite China's efforts to stimulate the economy, the construction of new homes has been halted due to the financial difficulties experienced by real estate developers. In China, the number of cases involving real estate insolvency has increased. Some believe that the efforts will have a positive effect on the shipping industry. However, it's still not clear if the market will start to recover until
 
 September. This week, overall rates on major basins fell at closing. T/A rates slipped to US$
 
-19,700's region while Pacific r/v seeing a major discount with rates in the region of US$5,950
-
-a day!
+19,700's region while Pacific r/v seeing a major discount with rates in the region of US$5,950 a day!
 
 #### Panamax / Kamsarmax:
 
@@ -88,13 +56,9 @@ Despite the agreement between Ukraine and Russia to resume grain exports through
 
 #### Handysize:
 
-Both basins have seen a lack of activity this week. The Pacific remained subdued, with the
+Both basins have seen a lack of activity this week. The Pacific remained subdued, with the lack of NOPAC enquiries and abundant coal in E/SE Asia contributing to the sentiment. Inter-
 
-lack of NOPAC enquiries and abundant coal in E/SE Asia contributing to the sentiment. Inter-
-
-Pacific rates slipped to US$ 15,250's region. In the Atlantic, the ECSA and U.S.G. were also
-
-struggling, T/A levels fell to US$16,225 a day.
+Pacific rates slipped to US$ 15,250's region. In the Atlantic, the ECSA and U.S.G. were also struggling, T/A levels fell to US$16,225 a day.
 
 ## Page 3
 
@@ -162,11 +126,9 @@ This week, rates for Aframax fell across the basins due to a lack of interest in
 
 #### Aframax:
 
-The week ended on a slow note in the Black Sea, with rates falling by 20% as 80,000mt Ceyhan to West Med recorded levels below WS222 due to weak activity and the tight vessels
+The week ended on a slow note in the Black Sea, with rates falling by 20% as 80,000mt Ceyhan to West Med recorded levels below WS222 due to weak activity and the tight vessels in the region. The North Sea, however, saw rates improve with activities picking up. 100,000mt Primorsk to U.K.C. improved to WS220.
 
 ## Page 6
-
-in the region. The North Sea, however, saw rates improve with activities picking up. 100,000mt Primorsk to U.K.C. improved to WS220.
 
 #### Clean:
 

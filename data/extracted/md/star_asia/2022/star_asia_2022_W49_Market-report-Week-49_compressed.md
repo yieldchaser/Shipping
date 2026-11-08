@@ -34,21 +34,11 @@ In response to the demonstrations in China over the Covid-related measures, the 
 
 ### Capesize:
 
-Market mood has improved as a result of the Chinese government's periodic announcements
-
-of real estate support measures and the continued rollout of COVID-19. Real demand is
-
-declining and changes on a regular basis. However, the underlying fundamentals do not
-
-improve as yet, with the market remaining cautious. Concentrated demand from Western
+Market mood has improved as a result of the Chinese government's periodic announcements of real estate support measures and the continued rollout of COVID-19. Real demand is declining and changes on a regular basis. However, the underlying fundamentals do not improve as yet, with the market remaining cautious. Concentrated demand from Western
 
 Australia with a last-minute Christmas rush aided the recovery trend centered on Pyongyang.
 
-Overall, Capes saw levels improved except for Brazil r/v. The route fell into US$ 9,750's
-
-range. Pacific r/v was in the green, with levels closing at US$14,375 per day, while T/A
-
-improved to US$18,3375 per day range.
+Overall, Capes saw levels improved except for Brazil r/v. The route fell into US$ 9,750's range. Pacific r/v was in the green, with levels closing at US$14,375 per day, while T/A improved to US$18,3375 per day range.
 
 ### Panamax / Kamsarmax:
 
@@ -60,9 +50,7 @@ The Atlantic basin saw an inflow of Supramax cargoes this week. As export disrup
 
 ### Handysize:
 
-Positive optimism returned to the region this week as a result of the robust USG inquiry, despite weakened rates in the Med and Cont. T/A levels remain depressed overall, settling in the region of US$11,735 a day. It was better in the Pacific, with levels across improving due to
-
-a tight list. Inter-Pacific saw levels in the region of US$8,000 per day, while Pacific r/v climbed to US$8,900 per day region.
+Positive optimism returned to the region this week as a result of the robust USG inquiry, despite weakened rates in the Med and Cont. T/A levels remain depressed overall, settling in the region of US$11,735 a day. It was better in the Pacific, with levels across improving due to a tight list. Inter-Pacific saw levels in the region of US$8,000 per day, while Pacific r/v climbed to US$8,900 per day region.
 
 ## Page 3
 
@@ -111,41 +99,13 @@ a tight list. Inter-Pacific saw levels in the region of US$8,000 per day, while 
 
 # Tankers
 
-Despite several optimistic factors, oil prices have been reluctant to rise higher this week. It
+Despite several optimistic factors, oil prices have been reluctant to rise higher this week. It would appear that traders are hesitant to jeopardise their earnings in an extraordinarily volatile market.
 
-would appear that traders are hesitant to jeopardise their earnings in an extraordinarily
+On the oil market, thin liquidity is the mother of all present ills. On paper, this week has supplied abundant grounds for an increase: the relaxing of Chinese coronavirus restrictions, a U.S. oil leak delaying Canadian pipeline exports, and a big backlog of ships unable to cross through the Turkish Straits. However, nothing appears to bring oil prices to an upward trend this month. After all, whoever has accumulated gains throughout 2022 would be foolish to risk them in such a volatile market, which suggests that US$75-$78 per barrel Brent may be around for longer than predicted.
 
-volatile market.
+Meanwhile, the growing scale of the "black tanker" fleet presents a serious danger to the global maritime industry's reputation and puts the lives of seafarers and the environment at risk, according to industry leaders.
 
-On the oil market, thin liquidity is the mother of all present ills. On paper, this week has
-
-supplied abundant grounds for an increase: the relaxing of Chinese coronavirus restrictions,
-
-a U.S. oil leak delaying Canadian pipeline exports, and a big backlog of ships unable to cross
-
-through the Turkish Straits. However, nothing appears to bring oil prices to an upward trend
-
-this month. After all, whoever has accumulated gains throughout 2022 would be foolish to
-
-risk them in such a volatile market, which suggests that US$75-$78 per barrel Brent may be
-
-around for longer than predicted.
-
-Meanwhile, the growing scale of the "black tanker" fleet presents a serious danger to the
-
-global maritime industry's reputation and puts the lives of seafarers and the environment at
-
-risk, according to industry leaders.
-
-With Russia joining other oil exporting giants Iran and Venezuela in creating a fleet to avoid
-
-sanctions this year, older tankers are being pressed into more dangerous operations without
-
-the best ship management, class, and insurance coverage available, and shipping experts are
-
-concerned about the potential for accidents due to the increasing rate of ship-to-ship
-
-transfers.
+With Russia joining other oil exporting giants Iran and Venezuela in creating a fleet to avoid sanctions this year, older tankers are being pressed into more dangerous operations without the best ship management, class, and insurance coverage available, and shipping experts are concerned about the potential for accidents due to the increasing rate of ship-to-ship transfers.
 
 ### VLCC:
 
@@ -157,11 +117,9 @@ It was a quiet week for Suezmax as discounted rates on the VLCCs saw some conver
 
 ### Aframax:
 
-While activity in the Nsea fell slightly, the absence of a position list prevented rates from plummeting further. There is anticipation that the market will remain healthy in December, with rates relatively stable. In the Mediterranean/Baltic Sea, 80,000mt Ceyhan/Lavera saw
+While activity in the Nsea fell slightly, the absence of a position list prevented rates from plummeting further. There is anticipation that the market will remain healthy in December, with rates relatively stable. In the Mediterranean/Baltic Sea, 80,000mt Ceyhan/Lavera saw gain with rates at WS362.
 
 ## Page 6
-
-gain with rates at WS362.
 
 ### Clean:
 
@@ -226,15 +184,7 @@ Baltic Exchange Tanker Indices
 
 # Containers
 
-The container market has significantly come down. While there are some remarks about the
-
-market still being strong compared to pre-covid levels, 1700 TEU newbuilding, which cost
-
-around US$30 million delivered, are currently fixing at US$14,500 per day, which is hardly
-
-enough to generate a satisfactory return on investment. Meantime, the T.C. rate index has
-
-fallen 4% to 106 points, having been relatively stable over the last couple of weeks.
+The container market has significantly come down. While there are some remarks about the market still being strong compared to pre-covid levels, 1700 TEU newbuilding, which cost around US$30 million delivered, are currently fixing at US$14,500 per day, which is hardly enough to generate a satisfactory return on investment. Meantime, the T.C. rate index has fallen 4% to 106 points, having been relatively stable over the last couple of weeks.
 
 Containers S&P Report
 

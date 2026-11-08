@@ -24,7 +24,7 @@ There are an estimated 92 crude tankers of Aframax size and larger that will be 
 
 Ship owners will continue to trade vessels as long as they feel they can do so profitably. A major decision point is when the vessel needs to perform a special survey, typically when it reaches 20 years and again at 22.5 years and 25 years of age. The special survey of such older vessels often requires the investment of up to several million dollars in steel, coatings, etc., dependent on the condition of the vessel. When these special surveys come due during a poor market, owners are more likely to sell the vessel for demolition.
 
-In order to assess the likelihood of tankers heading for the scrap yard, it is useful to examine the employment opportunities of such tonnage. AIS data shows that the vast majority of these vessels are trading East of Suez. With the exception of 8 PDV Marina Aframaxes, involved in Venezuelan
+In order to assess the likelihood of tankers heading for the scrap yard, it is useful to examine the employment opportunities of such tonnage. AIS data shows that the vast majority of these vessels are trading East of Suez. With the exception of 8 PDV Marina Aframaxes, involved in Venezuelan crude trades, and some Eastern Mediterranean and Black Sea voyages, most of these vessels rarely show up in the Western hemisphere, where terminal operators are often stricter on age limitations. During the last couple of months, about 21 of these tankers were predominantly involved in Intra-Middle Eastern trades. Of the remaining tankers, 23 vessels have been trading predominantly from the Middle East to Asia, mainly India, China or Korea. Another 10 vessels were employed in Intra-Asian trades.
 
 *Chart: Fig. 1: Crude Tanker Orderbook Compared to Historical Scrapping*
 
@@ -33,8 +33,6 @@ In order to assess the likelihood of tankers heading for the scrap yard, it is u
 *Chart: Fig 2: Crude Tanker Orderbook Compared to Fleet Reaching 20 Years of Age*
 
 *Source: Poten & Partners*
-
-crude trades, and some Eastern Mediterranean and Black Sea voyages, most of these vessels rarely show up in the Western hemisphere, where terminal operators are often stricter on age limitations. During the last couple of months, about 21 of these tankers were predominantly involved in Intra-Middle Eastern trades. Of the remaining tankers, 23 vessels have been trading predominantly from the Middle East to Asia, mainly India, China or Korea. Another 10 vessels were employed in Intra-Asian trades.
 
 Another way to look at the data is to examine the special survey dates. Based on Q88 data and estimates, we project that 47 tankers will have a special survey due in 2016 and an additional 17 in 2017. In 2018, 23 tankers will have their next special survey (and likely some of the vessels with a survey in 2016). For four vessels, Q88 data states that their next surveys are in 2019 and later. If the market remains strong in 2016, most, if not all, of the scheduled tankers will undergo their special survey, and in the years thereafter, a smaller number will face the decision.
 

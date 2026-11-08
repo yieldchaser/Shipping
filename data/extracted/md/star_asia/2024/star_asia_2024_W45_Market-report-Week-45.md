@@ -38,11 +38,9 @@ It was a mixed market in the basins this week. The Atlantic experienced a downwa
 
 Handysize:
 
-An optimistic end to the week in the Handy segment despite some tightness in both
+An optimistic end to the week in the Handy segment despite some tightness in both regions. There was some pushback at the start of the week in the Pacific with markets returning from the long weekend, but rates managed to hold steady, closing at US$ 9,500 for the Inter-Pacific route. In the Atlantic, pressure was holding back from further gains with lack of enquiry. T/A remain at similar levels as last at US$10,000's.
 
 ## Page 3
-
-regions. There was some pushback at the start of the week in the Pacific with markets returning from the long weekend, but rates managed to hold steady, closing at US$ 9,500 for the Inter-Pacific route. In the Atlantic, pressure was holding back from further gains with lack of enquiry. T/A remain at similar levels as last at US$10,000's.
 
 ## Baltic Exchange Dry Bulk Indices
 
@@ -225,11 +223,9 @@ Following the festive holidays in India, markets have resumed normal operations,
 
 Alang, India
 
-The ship recycling markets have bounced back with positive sentiment following the Diwali holidays. Demand remains moderately strong at current price levels, with most
+The ship recycling markets have bounced back with positive sentiment following the Diwali holidays. Demand remains moderately strong at current price levels, with most recyclers anticipating domestic prices will stabilise as they continue on a gradual upward trend. Overall, the markets have shown stability, supported by steady demand.
 
 ## Page 14
-
-recyclers anticipating domestic prices will stabilise as they continue on a gradual upward trend. Overall, the markets have shown stability, supported by steady demand.
 
 Anchorage & Beaching Position (November 2024)
 

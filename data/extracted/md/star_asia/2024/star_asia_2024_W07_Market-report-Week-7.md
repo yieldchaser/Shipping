@@ -113,11 +113,9 @@ There was a mixed market this week for the segment, with rates for the Med seein
 
 Clean:
 
-LR: The LR1 segment saw subdued activity and an ample tonnage list as rates saw a decline at closing. 55,000mt MEG to Japan fell 46 points to WS246. LR2 also saw a similar decline in the MEG, with TC1 falling to WS246. MR: MR rates stayed firm in the USG, encouraging a few ballasters destined for Europe to redirect back to the US. TC14 climbed to WS185. UKC also saw a positive week, with rates
+LR: The LR1 segment saw subdued activity and an ample tonnage list as rates saw a decline at closing. 55,000mt MEG to Japan fell 46 points to WS246. LR2 also saw a similar decline in the MEG, with TC1 falling to WS246. MR: MR rates stayed firm in the USG, encouraging a few ballasters destined for Europe to redirect back to the US. TC14 climbed to WS185. UKC also saw a positive week, with rates seeing an upward climb. TC19 climbed some 36 points to WS272.
 
 ## Page 7
-
-seeing an upward climb. TC19 climbed some 36 points to WS272.
 
 ## Baltic Exchange Tanker Indices
 
@@ -162,7 +160,6 @@ Y-O-Y CHANGE +6.34% +4.15%
 | DONG-A TRITON | MR | 49,997 | 2015 | S. KOREA | 37.5 | GREEK BUYERS |
 | CAPE CAMDEN / CAPE CORFU | MR | 37,791 | 2009 | S. KOREA | 22.0 EACH | GREEK BUYERS |
 | VULCANO M | PROD / CHEM | 21,297 | 2004 | SPAIN | 12.4 | UNDISCLOSED |
-
 
 ## Page 9
 

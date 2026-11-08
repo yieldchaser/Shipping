@@ -36,51 +36,23 @@ a. Increase b. Decrease c. Remain flat
 
 ### 4. During 2009 crude oil prices will hit:
 
-a. $15 per barrel
-
-b. $100 per barrel
-
-c. $200 per barrel
-
-d. All of the above
-
-e. None of the above
+a. $15 per barrel b. $100 per barrel c. $200 per barrel d. All of the above e. None of the above
 
 ### 5. Which event will occur first?
 
-a. The Big 5 oil companies will become the Big 4
-
-b. The Big 5 tanker companies will become the Big 4
+a. The Big 5 oil companies will become the Big 4 b. The Big 5 tanker companies will become the Big 4
 
 ### 6. The 2009 average VLCC spot market rate will be:
 
-a. $20,000 per day
-
-b. $50,000 per day
-
-c. $75,000 per day
-
-d. $200,000 per day
+a. $20,000 per day b. $50,000 per day c. $75,000 per day d. $200,000 per day
 
 ### 7. Newbuilding VLCC prices in December 2009 will be:
 
-a. Below $100 million
-
-b. Between $100 - $124 million
-
-c. Between $125 - $149 million
-
-d. Above $150 million
+a. Below $100 million b. Between $100 - $124 million c. Between $125 - $149 million d. Above $150 million
 
 ### 8. The number of VLCC orders in 2009 will be:
 
-a. Less than 5
-
-b. 10 to 20
-
-c. 20 to 30
-
-d. Greater than 30
+a. Less than 5 b. 10 to 20 c. 20 to 30 d. Greater than 30
 
 **...And our consensus predictions for 2009 are**
 

@@ -22,13 +22,11 @@ First of all, oil demand keeps growing for the foreseeable future, albeit at a s
 
 While the demand growth rates are not very exciting for the tanker market, we have to look at the combination of oil demand and oil supply to see the implications for shipping. Now the picture brightens. While oil demand is growing primarily in the Asia/Pacific region, the additional supply of crude oil is coming from the Atlantic Basin. This is due to a combination of supply growth in the United States, Brazil, Guyana and Canada. According to the IEA, these four countries alone could come close to meeting global oil demand growth in 2024 and 2025 as they expand production by 1.2 Mb/d and 1.0 Mb/d respectively. Data from Vortexa (Chart 1) shows that this trend from the Atlantic to the Pacific already started in 2022. This was due to the sanctions that were imposed on Russia after it invaded Ukraine. As countries in Europe and North America stopped buying Russian crude and products, the Kremlin expanded its sales to Asia (primarily India and China). This provided a massive boost to tanker ton-mile demand. The OPEC+ countries stimulated tanker demand further with their voluntary output cuts that began in late 2022. Less oil from the Middle East and more from non-OPEC in the Atlantic Basin.
 
-The OPEC+ cuts have also reduced flows from the East to the West as can be seen in Chart 2. Overall, the Russian invasion
+The OPEC+ cuts have also reduced flows from the East to the West as can be seen in Chart 2. Overall, the Russian invasion and the voluntary production cuts by OPEC+ worked out in favor of tanker owners as they increased ton-mile demand. The conflict in the Middle East and the attacks on shipping in the Red Sea that followed created a further disruption to trade flows as commercial ships, including tankers, increasingly take the longer route around the Cape of Good Hope to avoid Houthi missiles. This further adds to tonnage demand.
 
 *Chart*
 
 *Source: Vortexa*
-
-and the voluntary production cuts by OPEC+ worked out in favor of tanker owners as they increased ton-mile demand. The conflict in the Middle East and the attacks on shipping in the Red Sea that followed created a further disruption to trade flows as commercial ships, including tankers, increasingly take the longer route around the Cape of Good Hope to avoid Houthi missiles. This further adds to tonnage demand.
 
 So, despite the fact that oil demand growth has not been spectacular in recent years, the combination of factors described above has created a healthy tanker market with significant upside volatility. A major contributing factor has been the modest fleet growth in recent years. Deliveries across all tanker segments were low in 2023, which was not surprising given that the uncertainty during the Covid-19 pandemic in 2020/2021 limited contracting. Deliveries in 2024 and 2025 will also be muted.
 

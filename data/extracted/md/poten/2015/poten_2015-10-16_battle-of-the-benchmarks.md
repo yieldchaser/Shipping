@@ -24,7 +24,7 @@ Pipeline capacity to take crude from oil fields in the mid-continent to refineri
 
 The availability of additional crude transportation capacity from the storage hub in Cushing, Oklahoma combined with the general decline of oil prices has reduced the spread between WTI, which is priced in Cushing, and Brent, priced in the North Sea. This has narrowed the spread between WTI and Brent from a peak of about $15.27/barrel in January 2014 to a current spread of $3.20/barrel.
 
-Transportation options to the U.S. East Coast refineries are very different as it is much more difficult to build pipelines through heavily populated areas such as New Jersey and Pennsylvania. As a result, almost all the crude from PADD 2 to PADD 1 still moves by rail which is unlikely to change anytime soon. Moving Bakken crude by rail to refineries in the Philadelphia area, costs $12-$13/barrel, significantly more than the $2.30/barrel it currently costs to move a barrel of
+Transportation options to the U.S. East Coast refineries are very different as it is much more difficult to build pipelines through heavily populated areas such as New Jersey and Pennsylvania. As a result, almost all the crude from PADD 2 to PADD 1 still moves by rail which is unlikely to change anytime soon. Moving Bakken crude by rail to refineries in the Philadelphia area, costs $12-$13/barrel, significantly more than the $2.30/barrel it currently costs to move a barrel of crude from West Africa to the U.S. Atlantic Coast on a Suezmax tanker, even with the currently high Suezmax market.
 
 *Chart: Fig 1: WTI vs Brent Prices*
 
@@ -33,8 +33,6 @@ Transportation options to the U.S. East Coast refineries are very different as i
 *Chart: Fig. 2: PADD 1 Crude Imports from West Africa*
 
 *Source: EIA, Poten & Partners*
-
-crude from West Africa to the U.S. Atlantic Coast on a Suezmax tanker, even with the currently high Suezmax market.
 
 The economics on a spot basis seem to favor using imported crudes from West Africa over domestic grades. Some East Coast refiners are still using Bakken crude due to take or pay term contracts with rail companies and crude oil producers. However, in recent weeks, volumes of West African imports have increased. Official import statistics from the EIA, which currently end in July, don’t show much of a change yet but Poten’s C2 data, which is based on Bill of Lading information and is more current, shows a possible reversal of the trend (See Figure 2). Poten’s fixture information also shows an increase in Suezmax fixtures from West Africa to the US East Coast in recent weeks.
 

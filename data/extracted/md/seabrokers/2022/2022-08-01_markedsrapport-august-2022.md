@@ -330,21 +330,15 @@ Following her delivery, the vessel was relocated to Malaysia and had spent her e
 
 The DOF Group has secured contract extensions along with new long-term charter and service contracts with Petrobras for three vessels, including ROVs. Petrobras has awarded new contracts for IMR services to Norskan Offshore and DOF Subsea for the 2005-built Skandi Chieftain, the 2009-built Skandi Olympia (pictured) and the 2007-built Skandi Commander. The Skandi Chieftain and Skandi
 
-Olympia's current contracts have been extended until the end of the year, and thereafter they will start new three-year contracts. The Skandi Commander's contract has been extended until November 2022; beyond this date the vessel will work on Petrobras' PIDF project until August 2023 under its current deal, and will then commence a new three-year contract combining ROV and AUV
-
-capabilities. The value from the new firm commitments exceeds USD 253 million, with two-year options available on all three of the new contracts.
+Olympia's current contracts have been extended until the end of the year, and thereafter they will start new three-year contracts. The Skandi Commander's contract has been extended until November 2022; beyond this date the vessel will work on Petrobras' PIDF project until August 2023 under its current deal, and will then commence a new three-year contract combining ROV and AUV capabilities. The value from the new firm commitments exceeds USD 253 million, with two-year options available on all three of the new contracts.
 
 ## **CONTRACT AWARDS FOR FOUR SOLSTAD CSVs**
 
-Solstad Offshore has secured new contracts for four CSVs contributing a total of 410 days of firm work, with additional options thereafter, for projects in North Europe, West Africa and Asia. Most of the work will be carried out during the fourth quarter of 2022 and first quarter
-
-of 2023 and will utilise the 2009-built Normand Australis, 2006-built Normand Fortress, 2014-built Normand Frontier and 2015-built Normand Navigator. The vessels will provide ROV, walk-to-work and project support for operators in the offshore wind and oil & gas industries. The total value of the contracts is approximately NOK 260 million (USD 26.2 million).
+Solstad Offshore has secured new contracts for four CSVs contributing a total of 410 days of firm work, with additional options thereafter, for projects in North Europe, West Africa and Asia. Most of the work will be carried out during the fourth quarter of 2022 and first quarter of 2023 and will utilise the 2009-built Normand Australis, 2006-built Normand Fortress, 2014-built Normand Frontier and 2015-built Normand Navigator. The vessels will provide ROV, walk-to-work and project support for operators in the offshore wind and oil & gas industries. The total value of the contracts is approximately NOK 260 million (USD 26.2 million).
 
 ## **TECHNIPFMC AWARDED GAS-TO-ENERGY PROJECT**
 
-TechnipFMC has been awarded a contract with ExxonMobil related to a gas-to-energy project offshore Guyana. The award remains subject to final project sanctioning, but will see the contractor provide engineering, procurement, construction and
-
-installation (EPCI) of the subsea risers and pipelines. The Gas to Energy Project will connect the production from the Liza Destiny and Unity FPSOs to a gas-fired power plant that will supply electricity to the community.
+TechnipFMC has been awarded a contract with ExxonMobil related to a gas-to-energy project offshore Guyana. The award remains subject to final project sanctioning, but will see the contractor provide engineering, procurement, construction and installation (EPCI) of the subsea risers and pipelines. The Gas to Energy Project will connect the production from the Liza Destiny and Unity FPSOs to a gas-fired power plant that will supply electricity to the community.
 
 The start-up of the facilities is expected to take place by late 2024.
 
@@ -390,9 +384,7 @@ Aker Energy has postponed the submission of the development plan it has prepared
 
 The postponement is in relation to Lukoil holding a 38% interest in the Deepwater Tano/Cape Three Points (DWT/CTP) Block in Ghana, including the
 
-Pecan development project. Aker Energy holds 50% of the project, Fueltrade owns 2%, and the Ghana National Petroleum Corporation holds a 10% stake. The Plan of Development (POD) is not expected to be submitted until the challenges have been resolved. Therefore, the Minister of Energy in Ghana has granted an extension of the POD delivery date until 30th September 2022. Lukoil is listed as one of the
-
-entities that is subject to U.S. energy sector sanctions related to the conflict in Ukraine. However, these restrictions will not apply to the DWT/CTP project because it was initiated prior to 29th January, 2018. Aker Energy says it will comply with all Norwegian and international sanctions applicable for Aker Energy and the DWT/CTP Block in Ghana.
+Pecan development project. Aker Energy holds 50% of the project, Fueltrade owns 2%, and the Ghana National Petroleum Corporation holds a 10% stake. The Plan of Development (POD) is not expected to be submitted until the challenges have been resolved. Therefore, the Minister of Energy in Ghana has granted an extension of the POD delivery date until 30th September 2022. Lukoil is listed as one of the entities that is subject to U.S. energy sector sanctions related to the conflict in Ukraine. However, these restrictions will not apply to the DWT/CTP project because it was initiated prior to 29th January, 2018. Aker Energy says it will comply with all Norwegian and international sanctions applicable for Aker Energy and the DWT/CTP Block in Ghana.
 
 ## **ISLAND VICTORY RETURNS TO THE NORTH SEA**
 

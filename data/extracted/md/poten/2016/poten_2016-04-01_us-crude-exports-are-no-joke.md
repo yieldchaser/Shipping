@@ -26,7 +26,7 @@ U.S. crude oil producers argued for a lifting of the crude oil export ban to avo
 
 The price spread between WTI and Brent started narrowing as more inland pipeline capacity became available and after the export ban was lifted, the spread returned to levels typically seen before the increase in shale oil production.
 
-Export cargoes started moving shortly after the ban was lifted. The first crude cargo was loaded in early January in Houston and discharged in Marseille, France, reportedly bound for a refinery in Switzerland. Since then, we have observed several
+Export cargoes started moving shortly after the ban was lifted. The first crude cargo was loaded in early January in Houston and discharged in Marseille, France, reportedly bound for a refinery in Switzerland. Since then, we have observed several more cargoes bound for Europe. Venezuela bought a crude cargo, reportedly used for blending with their heavy crude oil production. A Japanese oil company reportedly bought 300,000 barrels of crude to be co-loaded with condensates on a Suezmax. Earlier this week there was a report that the first U.S. crude oil cargo passed the Panama Canal, bound for Nicaragua’s West Coast.
 
 *Chart: Fig. 1: U.S. Crude and Condensates Exports by destination (Jan 2010 – Dec 2015)*
 
@@ -35,8 +35,6 @@ Export cargoes started moving shortly after the ban was lifted. The first crude 
 *Chart: Fig. 1: Total U.S. Crude and Condensates Exports*
 
 *Source: EIA*
-
-more cargoes bound for Europe. Venezuela bought a crude cargo, reportedly used for blending with their heavy crude oil production. A Japanese oil company reportedly bought 300,000 barrels of crude to be co-loaded with condensates on a Suezmax. Earlier this week there was a report that the first U.S. crude oil cargo passed the Panama Canal, bound for Nicaragua’s West Coast.
 
 Detailed statistics are not yet available for U.S. crude exports but weekly export numbers show a decline of total crude oil exports since the ban was lifted (Figure 2). However, this is the result of a significant decrease of Canadian exports as the disappearance of the WTI discount has made foreign crude oil more competitive for Canadian refiners. According to data from Clipperdata, exports to countries other than Canada averaged 215 Kb/d in the first quarter of 2016. This would leave only 200 Kb/d for exports to Canada, down from 404 Kb/d in the fourth quarter of 2015.
 

@@ -22,13 +22,11 @@ North Korea is mostly a coal based economy and it has a miniscule presence in th
 
 According to the EIA, North Korea also imports small volumes of refined petroleum products (around 6,000 barrels per day from China in 2016). It has been reported that most of the oil products are transported to the port of Nampo, near the capital Pyongyang. North Korea is not known to control any large crude or product tankers, but, according to NK PRO, it maintains a fleet of coastal oil tankers which shuttle between nearby terminals in neighboring China and Russia. Some of the vessels are registered to companies in China or Hong Kong and use different flags to obfuscate their links to North Korea.
 
-Despite the tiny volumes of oil consumed in this country, which has a population of around 25 million (2016 est. by the World Bank), an embargo would have a significant impact because gasoline and diesel fuel are vital to the agriculture and
+Despite the tiny volumes of oil consumed in this country, which has a population of around 25 million (2016 est. by the World Bank), an embargo would have a significant impact because gasoline and diesel fuel are vital to the agriculture and transportation sectors. Petroleum products also fuel North Korea’s military, including their rockets. In the unlikely event that Russia and China will agree to a permanent ban on oil and product exports, one has to assume that North Korea will have stockpiles to sustain critical operations for a significant period of time.
 
 *Chart: Korean Peninsula*
 
 *Source: Google Maps*
-
-transportation sectors. Petroleum products also fuel North Korea’s military, including their rockets. In the unlikely event that Russia and China will agree to a permanent ban on oil and product exports, one has to assume that North Korea will have stockpiles to sustain critical operations for a significant period of time.
 
 Any military action would obviously have a huge impact on oil and tanker markets and related industries. The geopolitical tension would ratchet up and oil prices will probably spike. It would (at least temporary) jeopardize the flow of crude oil to three of the largest importers in Asia: China, Japan and South Korea. Combined, these countries account for a third of the world’s seaborne oil trade (but all of them also have ample strategic reserves). In addition, many major shipowners are based in China, South Korea and Japan, and the vast majority of the worlds shipbuilding and repair facilities are situated in this region.
 

@@ -34,13 +34,9 @@ The Pacific R/V freight rates fell slightly this week due to the sustained stren
 
 Panamax/Kamsarmax:
 
-It was a good overall for Panamax with gains across all routes. In the Atlantic, the tight
-
-supply in the North Atlantic and deepening demand for grains in South America continue to fuel the upward gains as T/A close higher at USD15,500's a day. Despite weak inflows of new cargo on most routes in the Pacific, steady demand for coal in Indonesia continues to support the market, maintaining a positive outlook despite Ramadan in the region, which is a seasonally slower market. Pacific r/v saw levels at USD18,650's a day. Supramax/Ultramax: The Supramax market also experienced growth due to a shortage of South American grains in the Atlantic. Despite a decrease in coal demand, South American grain
+It was a good overall for Panamax with gains across all routes. In the Atlantic, the tight supply in the North Atlantic and deepening demand for grains in South America continue to fuel the upward gains as T/A close higher at USD15,500's a day. Despite weak inflows of new cargo on most routes in the Pacific, steady demand for coal in Indonesia continues to support the market, maintaining a positive outlook despite Ramadan in the region, which is a seasonally slower market. Pacific r/v saw levels at USD18,650's a day. Supramax/Ultramax: The Supramax market also experienced growth due to a shortage of South American grains in the Atlantic. Despite a decrease in coal demand, South American grain shipments offset this fall. The region is faring well with T/A seeing levels around USD17,500's a day. In the Pacific, the market experienced a slowdown in coal demand as excess tonnage in the region curbed further rise. Pacific-India route fell to USD12,950's a day. The Indian government is also expected to extend its foreign coal import obligation until June, aiming to improve coal demand after the general election.
 
 ## Page 3
-
-shipments offset this fall. The region is faring well with T/A seeing levels around USD17,500's a day. In the Pacific, the market experienced a slowdown in coal demand as excess tonnage in the region curbed further rise. Pacific-India route fell to USD12,950's a day. The Indian government is also expected to extend its foreign coal import obligation until June, aiming to improve coal demand after the general election.
 
 Handysize:
 
@@ -101,11 +97,9 @@ Shippers in the Middle East region bustled with activity as they secure vessels 
 
 Suezmax:
 
-Weakness persisted due to sluggish demand in the Middle East, exacerbated by the Red Sea incident impacting the East of China market. The movement of ships from Suez to
+Weakness persisted due to sluggish demand in the Middle East, exacerbated by the Red Sea incident impacting the East of China market. The movement of ships from Suez to the West region has become challenging, reducing the number of available ships. 140,000mt MEG/Med fell to WS96. Same was also seen in the WAFR as 130,000mt Nigeria/UKC fell to WS106.
 
 ## Page 6
-
-the West region has become challenging, reducing the number of available ships. 140,000mt MEG/Med fell to WS96. Same was also seen in the WAFR as 130,000mt Nigeria/UKC fell to WS106.
 
 Aframax:
 
@@ -280,11 +274,9 @@ Anchorage & Beaching Position (March 2024)
 
 Aliaga, Turkey
 
-Turkish steel mills have reduced their domestic scrap purchase prices despite the Turkish lira weakening against the dollar and a correction in imported scrap prices. This bearish
+Turkish steel mills have reduced their domestic scrap purchase prices despite the Turkish lira weakening against the dollar and a correction in imported scrap prices. This bearish sentiment in the market is attributed to weak steel sales and concerns about China. Weak steel sales, pressured steel prices, and a second crash in the Chinese market have contributed to Turkey's negative sentiment.
 
 ## Page 15
-
-sentiment in the market is attributed to weak steel sales and concerns about China. Weak steel sales, pressured steel prices, and a second crash in the Chinese market have contributed to Turkey's negative sentiment.
 
 Meanwhile, European suppliers are hesitant to lower their prices due to current dock prices, weak flow, and the strong euro. The price trend in Turkey will be determined by domestic demand, with concerns about potential price drops if purchasing halts. Additionally, the Turkish domestic rebar market saw subdued demand due to tightened credit accessibility, with reports of bankruptcies adding caution to the market. Turkish shipbreaking scrap fell to USD375-385 per tonne delivered. The Turkish lira depreciated further against the dollar, reaching 32.10 per dollar by Wednesday's close.
 

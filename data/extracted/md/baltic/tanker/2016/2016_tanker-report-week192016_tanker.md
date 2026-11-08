@@ -38,9 +38,7 @@ Black Sea rates gained around 10 points with a high of WS 95 being paid, as a co
 
 An active start to the week in the Mediterranean, with a tight tonnage list, enabled owners to push rates up a further 5 points to WS 115 for both Black Sea and East Med loaders. However, with the market quietening down, brokers feel owners may struggle to maintain these levels.
 
-In the Baltic, there was an early downward correction to WS 67.5 basis 100,000 tonnes cargo, and this flurry of activity did help cover a number of early ships and with more enquiry for fuel oil, the market has now regained some lost ground with WS 70 now said to be on subjects here.  The 80,000
-
-tonnes cross North Sea market has moved in tandem with the Baltic, with the market now around WS 100, although early tonnage is helping keep rates in check here.
+In the Baltic, there was an early downward correction to WS 67.5 basis 100,000 tonnes cargo, and this flurry of activity did help cover a number of early ships and with more enquiry for fuel oil, the market has now regained some lost ground with WS 70 now said to be on subjects here.  The 80,000 tonnes cross North Sea market has moved in tandem with the Baltic, with the market now around WS 100, although early tonnage is helping keep rates in check here.
 
 The Caribbean has continued to suffer from an oversupply of early tonnage and rates have continued to ease with the market for 70,000 tonnes going up coast losing a further 10 points to settle at around WS 95.
 

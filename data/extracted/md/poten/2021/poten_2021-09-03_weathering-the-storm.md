@@ -22,13 +22,11 @@ In preparation for the hurricane, producers shut in 1.8 Million barrels per day 
 
 Refining output will likely take longer to return to pre-hurricane levels mainly due to widespread power outages. Some refiners also sustained water damage, which will further delay their recovery. Various analysts are estimating that it could take two to three weeks or up to a month for refineries to restore operations, depending on their location. On Tuesday, the Department of Energy said that about 2.3 Mb/d of refining capacity remained offline. Restoring power to the region is key before refineries can restart operations. Some 860,000 homes and businesses remain without power in Louisiana and more than a third of the gasoline stations in the state were without fuel. The Exxon refinery in Baton Rouge is the only refinery in the region with enough power to restart operations. Because the hurricane disrupted crude supply, Exxon requested and was granted a 1.5 million barrel emergency oil loan from the Strategic Petroleum Reserve.
 
-Key infrastructure was also impacted by Hurricane Ida. Some of the key pipelines, such as the Colonial pipeline - which was shut down as a precaution - have reopened, but with many refineries still out, product pipelines could face a lack of product in the future. Most ports in the region, including the Port of New Orleans and Port Fourchon reopened, although only for daylight operations. Portions of the Mississippi River remain
+Key infrastructure was also impacted by Hurricane Ida. Some of the key pipelines, such as the Colonial pipeline - which was shut down as a precaution - have reopened, but with many refineries still out, product pipelines could face a lack of product in the future. Most ports in the region, including the Port of New Orleans and Port Fourchon reopened, although only for daylight operations. Portions of the Mississippi River remain closed due a downed power line. According to the Coast Guard, the Louisiana Offshore Oil Port (LOOP) remains closed as well.
 
 *Chart*
 
 *Source: Poten & Partners*
-
-closed due a downed power line. According to the Coast Guard, the Louisiana Offshore Oil Port (LOOP) remains closed as well.
 
 The impact on the tanker market of all these events is mixed. It appears to benefit the crude carriers. Especially Aframaxes were in demand, pushing up rates, as can be seen in Chart 1. A number of vessels were stranded, and the continued uncertainty around the Mississippi River has forced charterers to look for alternative terminals and STS options to discharge vessels. The upcoming holiday weekend in the U.S. could add further upward pressure to rates. A return of offshore production could provide a short-term boost to crude oil exports, which were already on an upswing.
 

@@ -24,15 +24,13 @@ History shows a long list of events in the Middle East that had a major impact o
 
 Both the Suez Crisis of 1956-57 and the Six-Day War, which followed in 1967, closed the Suez Canal. The second closure, which lasted until 1975 had a significant impact on the tanker market. It forced tankers to take the longer routes around the Cape of Good Hope and led to a dramatic increase in tanker sizes. Prior to 1967, there were no tankers larger than 200,000 dwt. The first of these “Very Large Crude Carriers” or VLCCs was delivered in 1967. By 1975, when the Suez Canal reopened, there were more than 500 of these giant tankers.
 
-During the 1980s, the “Tanker Wars” were a significant aspect of the Iran-Iraq War which broke out a few years after the Iranian revolution. During the period from 1984-1988, both Iraq and Iran attacked oil tankers and merchant vessels in the Arabian Gulf and the Strait of Hormuz. Initially, oil prices spiked
+During the 1980s, the “Tanker Wars” were a significant aspect of the Iran-Iraq War which broke out a few years after the Iranian revolution. During the period from 1984-1988, both Iraq and Iran attacked oil tankers and merchant vessels in the Arabian Gulf and the Strait of Hormuz. Initially, oil prices spiked and commercial shipping in the area dropped by 25%. However, after the initial shock, markets adapted to the ongoing conflict.
 
 *Chart: Oil Transit Chokepoints In The Middle East*
 
 *Source: Trading Economics*
 
 *Source: Vortexa*
-
-and commercial shipping in the area dropped by 25%. However, after the initial shock, markets adapted to the ongoing conflict.
 
 More recently, in September 2019, Middle East tensions spiked when Saudi oil facilities in Abqaiq were attacked. This took out 5.7 Mb/d of oil processing capacity. Oil prices spiked at first, but the Saudis were able to reduce the impact on the oil markets. However, the attack contributed to a rapid increase in tanker rates. The tanker market was already tight, and when the U.S. government placed sanctions on COSCO (for circumventing Iranian sacntions), the market reached unprecedented levels (VLCCs briefly hit >$450,000/day).
 

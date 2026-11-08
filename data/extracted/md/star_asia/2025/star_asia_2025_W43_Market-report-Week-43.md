@@ -91,11 +91,9 @@ The overall pace of negotiations in the MEG decelerated from recent highs as Chi
 
 Suezmax:
 
-The West Africa Suezmax market fell end of week, closing with a drop of 8 points with 130,000mt Nigeria/UKC settling at WS126. This was driven by a sharp drop in cargo
+The West Africa Suezmax market fell end of week, closing with a drop of 8 points with 130,000mt Nigeria/UKC settling at WS126. This was driven by a sharp drop in cargo volume from European refiners. In the Middle East, markets eased back slightly with 140,000mt to the Meds slipped to WS102.
 
 ## Page 6
-
-volume from European refiners. In the Middle East, markets eased back slightly with 140,000mt to the Meds slipped to WS102.
 
 # Aframax:
 
@@ -208,11 +206,9 @@ The global container ship orderbook, which currently exceeds 10 million TEU, is 
 
 Insights Alang
 
-The markets remained stagnant with prices remaining flat. The competition from the sanctioned tankers coming in kept the markets weak. Pricing structure is being undermined by the influx of lower cost sanctioned tankers that have become prevalent. This increased availability of such tankers, such as the recently noted Aframax and Suezmax tankers selling around US$360 per end-buyer ton and VLCCs offered at US$320, is creating downward pressure on the resale prices of materials across the entire Alang recycling sector. Combined with weak local steel demand, which continues to worry recyclers and traders alike, resulting in a total reduction of US$43/ton in local steel plate prices over the past five weeks. The Alang recycling market recorded a notable surge in activity through 2025, with yearto-date (January-October) figures showing 1,052,935 LDT recycled across 104 vessels - a sharp 76% increase compared to 598,728 LDT from 83 vessels over the same period in 2024. Despite the uptick in demolition volumes, local scrap prices softened in October, with average plate values easing to around INR 34,200 per ton, reflecting a 14% year-on-
+The markets remained stagnant with prices remaining flat. The competition from the sanctioned tankers coming in kept the markets weak. Pricing structure is being undermined by the influx of lower cost sanctioned tankers that have become prevalent. This increased availability of such tankers, such as the recently noted Aframax and Suezmax tankers selling around US$360 per end-buyer ton and VLCCs offered at US$320, is creating downward pressure on the resale prices of materials across the entire Alang recycling sector. Combined with weak local steel demand, which continues to worry recyclers and traders alike, resulting in a total reduction of US$43/ton in local steel plate prices over the past five weeks. The Alang recycling market recorded a notable surge in activity through 2025, with yearto-date (January-October) figures showing 1,052,935 LDT recycled across 104 vessels - a sharp 76% increase compared to 598,728 LDT from 83 vessels over the same period in 2024. Despite the uptick in demolition volumes, local scrap prices softened in October, with average plate values easing to around INR 34,200 per ton, reflecting a 14% year-on-year decline from INR 39,820 per ton in October 2024. The Indian rupee also weakened modestly, trading at INR 87.90 against the U.S. dollar compared with INR 84.10 a year earlier.
 
 ## Page 13
-
-year decline from INR 39,820 per ton in October 2024. The Indian rupee also weakened modestly, trading at INR 87.90 against the U.S. dollar compared with INR 84.10 a year earlier.
 
 Anchorage & Beaching Position (October 2025)
 
@@ -238,11 +234,9 @@ Anchorage & Beaching Position (October 2025)
 
 Chattogram
 
-Bangladesh buyers are cautious as interest remains high despite economic challenges and downward price pressure. Even with the market uncertainty, a limited volume of sales continues to be finalised, though most recyclers are selective and conservative towards their buying, given the lack of clear direction and fluctuating market fundamentals. Although local ship scrap prices remain static, interest is sustained primarily because of the limited supply of tonnage available in the market. Consequently, buyers are showing a preference for, namely, tankers and bulkers, which remain their favoured options. No fresh ships arrived this week, with only older units lingering at anchorage due to delays in obtaining the necessary environmental permits. This week Bangladeshi Taka slipped 0.5% to over BDT 122 to a U.S. Dollar, compounding pressure on recyclers already burdened by costly tonnage, unsold inventory, and
+Bangladesh buyers are cautious as interest remains high despite economic challenges and downward price pressure. Even with the market uncertainty, a limited volume of sales continues to be finalised, though most recyclers are selective and conservative towards their buying, given the lack of clear direction and fluctuating market fundamentals. Although local ship scrap prices remain static, interest is sustained primarily because of the limited supply of tonnage available in the market. Consequently, buyers are showing a preference for, namely, tankers and bulkers, which remain their favoured options. No fresh ships arrived this week, with only older units lingering at anchorage due to delays in obtaining the necessary environmental permits. This week Bangladeshi Taka slipped 0.5% to over BDT 122 to a U.S. Dollar, compounding pressure on recyclers already burdened by costly tonnage, unsold inventory, and shrinking yard space. The market now looks to political clarity and a new government to stabilize economic direction amid rising inflation.
 
 ## Page 14
-
-shrinking yard space. The market now looks to political clarity and a new government to stabilize economic direction amid rising inflation.
 
 Anchorage & Beaching Position (October 2025)
 

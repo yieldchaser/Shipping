@@ -22,13 +22,11 @@ Economies of scale is typically one of the key drivers for changes in vessel seg
 
 In many of their trading areas, LR1s are competing with LR2s. By far the biggest trade route for both LR1s and LR2s is the Arabian Gulf – Far East Naphtha trade. In 2021, the LR2s significantly increased their market share relative to LR1s. This is also happening in other areas of the world. The reason is clear: it is much cheaper (on a $/MT basis) to move product on an LR2 relative to an LR1. In 2022 YTD the difference in freight cost to transport naphtha from the Middle East to Asia is approximately $2.25 per ton. On a laden LR2 (75,000 MT) the savings are almost $170,000 per voyage.
 
-The expansion of the Panama Canal is another factor that has had an impact. In June 2016, the Panama Canal Authority opened the new locks of its expanded Canal. Prior to that, only Panamax sized vessels could traverse the Canal. The addition of new expanded locks on both sides of the Canal allows tankers
+The expansion of the Panama Canal is another factor that has had an impact. In June 2016, the Panama Canal Authority opened the new locks of its expanded Canal. Prior to that, only Panamax sized vessels could traverse the Canal. The addition of new expanded locks on both sides of the Canal allows tankers up to Suezmax size to use this shortcut. This effectively eliminates the raison d’être of Panamax sized tankers, including LR1s. Although this appeared to mostly affect the dirty product trade around the Panama Canal, it may also have reduced the appeal of the Panamax sized product tankers for owners.
 
 *Chart*
 
 *Source: Lloyd’s List Intelligence*
-
-up to Suezmax size to use this shortcut. This effectively eliminates the raison d’être of Panamax sized tankers, including LR1s. Although this appeared to mostly affect the dirty product trade around the Panama Canal, it may also have reduced the appeal of the Panamax sized product tankers for owners.
 
 Once a segment loses its appeal, it becomes difficult to maintain it. If owners don’t order new Panamax sized tankers, shipyards will stop making designs and it will become very difficult (or cost prohibitive) to build new vessels in the future. When the fleet is not renewed the vessels will be aging and charterers will start to look for alternative vessel categories. When the fleet ages, more vessels will move into the dirty trades as the quality of their coatings deteriorates over time.
 

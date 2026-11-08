@@ -31,13 +31,9 @@ Athens University of Economics and Business
 
 Athens , Greece
 
-World Maritime University
+World Maritime University e-mail: mkavus@aueb.gr
 
-e-mail: mkavus@aueb.gr
-
-Malmö , Sweden
-
-e-mail: iv@wmu.se
+Malmö , Sweden e-mail: iv@wmu.se
 
 ISBN 978-1-137-46545-0
 
@@ -70,7 +66,6 @@ The registered company address is: The Campus, 4 Crinan Street, London, N1 9XW, 
 # About the Editors
 
 **Manolis G. Kavussanos** is Professor at the Athens University of Economics and Business (AUEB), Greece. He is the director of the MSc program in International Shipping, Finance and Management and of the Laboratory for Finance since their inception. He is also a member of the steering committees of the MSc program in Accounting and Finance, of the Athens MBA program, and was for five years the director of the MSc and PhD programs in Accounting and Finance at AUEB. He holds a BSc and an MSc (Economics) from the University of London and a PhD (Applied Economics) from City University Cass Business School (Cass), London. He launched and directed, until he joined AUEB, the MSc in Trade, Logistics and Finance at Cass. He has held various posts as professor of finance and shipping in universities in more than eight countries around the globe, such as the UK, France, The Netherlands, Belgium, Italy, Singapore, China, Greece and Cyprus. He has provided consultancy and executive training services in finance and shipping to private companies and public sector national and international organizations, has been a member of international committees for the evaluation of academic programs in tertiary academic institutions and for the award of prestigious prizes and research funding. Professor Kavussanos has written extensively in the areas of finance, shipping and applied economics, and is the author of numerous academic papers published in top international refereed journals, in conference proceedings and in books. He is a member of the editorial board on a number of international scientific journals. His work has been presented in international conferences and professional meetings around the world, gaining awards for its quality, financed by both public (e.g. European Community) and private sector organizations, companies and foundations (e.g. the Propontis Foundation) and cited extensively by other
-
 
 <!-- Page 6 (Nace parse) -->
 
@@ -115,79 +110,63 @@ Th e current handbook provides a balanced blend between the theory and practice 
 
 Th is comprehensive handbook is of great value to both shipping practitioners and the academic community, as it contributes to the training and education of market participants, academics and students and, as such, is a must-read for everyone already involved or likely to be involved in the maritime industry. It off ers to its readers a rigorous understanding of the diff erent aspects of modern shipping fi nance, fi nancial management and investment, the various characteristics of the available products, the capital needs and requirements, and a clear view on the diff erent fi nancial management strategies through a series of practical examples and applications. It can be used as the main reference point for companies and organizations involved in shipping fi nance, and as a teaching and reference textbook in both undergraduate and postgraduate maritime programs in universities worldwide.
 
-The handbook comprises 16 chapters. Chapter 1, “Shipping Markets and their Economic Drivers”, is written by Jan-Henrik Hübner of DNV GL, and
+The handbook comprises 16 chapters. Chapter 1, “Shipping Markets and their Economic Drivers”, is written by Jan-Henrik Hübner of DNV GL, and serves as an introduction to the shipping industry and its various markets. He considers current developments and trends in shipping sub-markets, and analyses the economic factors that influence them. More specifically, the chapter starts by presenting the various “players” in the ship transportation value chain; that is, shipowners, shipyards, charterers, cargo owners, freight forwarders, ship managers and shipbrokers. It presents the various markets involved in the shipping industry; that is, newbuilding, sale and purchase (S&P), demolition, and time charter and spot freight markets. The cost structures of different types of vessels are also discussed and there is analysis of the various demand and supply factors that drive developments in shipping markets and their performance. It then presents in detail the shipping markets for various vessel types, which involves their supply–demand factors and current developments, including the dry-bulk market, tankers, the market for containers and the offshore shipping markets.
 
 ix
 
 <!-- Page 9 (Nace parse) -->
 
-serves as an introduction to the shipping industry and its various markets. He considers current developments and trends in shipping sub-markets, and analyses the economic factors that influence them. More specifically, the chapter starts by presenting the various “players” in the ship transportation value chain; that is, shipowners, shipyards, charterers, cargo owners, freight forwarders, ship managers and shipbrokers. It presents the various markets involved in the shipping industry; that is, newbuilding, sale and purchase (S&P), demolition, and time charter and spot freight markets. The cost structures of different types of vessels are also discussed and there is analysis of the various demand and supply factors that drive developments in shipping markets and their performance. It then presents in detail the shipping markets for various vessel types, which involves their supply–demand factors and current developments, including the dry-bulk market, tankers, the market for containers and the offshore shipping markets.
-
 Chapter 2, “Asset Risk Assessment, Analysis and Forecasting in Asset Backed Finance”, is by Henriette Brent-Petersen of DVB Bank SE. She discusses the overall cyclicality of the shipping and offshore industries with primary focus on the supply side—shipyard capacity and future asset prices. She also outlines the methodology of forecasting the markets for dry bulk and container vessels, as well as the importance of evaluating the quality of the individual asset and the mitigation of the risks involved. Global demand and the role of China is examined in the effort to understand cyclicality and super cycles, sectoral cycles and counter-cycles, while the variables that affect cyclicality are discussed in detail. She applies the above notions in providing a market outlook of container and dry bulk markets, and finishes with the evaluation of the individual competitive advantages of the assets in relation to peers and the prior-mentioned analysis, as well as the quality of the asset (vessel) and the risks associated with the assets in asset-backed finance.
 
 Chapter 3, “Overview of Ship Finance”, is by Fotis Giannakoulis of Morgan Stanley. He presents the available sources of finance for the maritime industry, arguing that “the ability of a shipping company to navigate the ebbs and flows of the market is primarily dependent on the timing of its investments and its chartering policy, with the selection among funding alternatives being of equal importance”. He discusses in detail: financing from banks, including mortgage-backed loans, newbuilding financing, mezzanine, unsecured/corporate loans and leasing finance; high yield bonds; convertible notes; initial public offerings (IPOs); follow-on offerings; master limited partnerships (MLPs); special purpose acquisition companies (SPAC); and private equity offerings.
 
-Chapter 4, “Shipbuilding Finance”, by Charles R. Cushing of C. R. Cushing & Co. Inc., discusses vessel acquisitions. The first part of the chapter
+Chapter 4, “Shipbuilding Finance”, by Charles R. Cushing of C. R. Cushing & Co. Inc., discusses vessel acquisitions. The first part of the chapter outlines: the reasons for undertaking and alternatives to a new construction; project financing; issues that can go wrong in ship acquisition projects; project management issues; strategic planning and sub-plans, such as business, financing, operations, marketing, technology, competitor, human resources and organization plans; mission statements; and vessel design. The second part of the chapter discusses the choice of sources of funds for ship construction, such as: debt financing; loan syndication; mezzanine financing; high yield bonds; leasing; export credit agencies (ECAs); hybrid financing schemes, such as Kommanditgesellschaft—K/G, Kommandittselskap—K/S, DIFKO, blocked currency and barter trades; Islamic bank financing; government grants; public equity financing; private placements; and MLPs. The chapter concludes with financial aspects of shipbuilding contracts and progress payments.
 
 <!-- Page 10 (Nace parse) -->
-
-outlines: the reasons for undertaking and alternatives to a new construction; project financing; issues that can go wrong in ship acquisition projects; project management issues; strategic planning and sub-plans, such as business, financing, operations, marketing, technology, competitor, human resources and organization plans; mission statements; and vessel design. The second part of the chapter discusses the choice of sources of funds for ship construction, such as: debt financing; loan syndication; mezzanine financing; high yield bonds; leasing; export credit agencies (ECAs); hybrid financing schemes, such as Kommanditgesellschaft—K/G, Kommandittselskap—K/S, DIFKO, blocked currency and barter trades; Islamic bank financing; government grants; public equity financing; private placements; and MLPs. The chapter concludes with financial aspects of shipbuilding contracts and progress payments.
 
 Chapter 5, “Debt Financing in Shipping”, is contributed by George Paleokrassas of Watson Farley & Williams. He discusses the various types of debt financing, including the standard loan facility; that is, the lender, the borrower, syndications, the financing vessel, the facility amount, the conditions precedent, the currency, the tenor and repayment of the loan facility, the interest, the representations and warranties, the covenants, the governing law and jurisdiction, the events of default, and the bank fees; forms of leasing; bond financing; mezzanine financing; and ECAs. Then, the security package that the lender can receive from the borrower and its group is discussed, as this is critical in terms of assessing the risk in any particular transaction. The ship mortgage is then presented, followed by the assignment of earnings, charter hire, insurances, requisition compensation, charge or pledge over accounts, shares charge or pledge, and pre-delivery security assignment.
 
 Chapter 6, “Public Debt Markets for Shipping”, by Basil M. Karatzas of Karatzas Marine Advisors & Co., discusses shipping bond financing and its details. This includes an example of a shipping bond issue, its pricing in the secondary market, the process of filing the relevant prospectus, of obtaining a credit rating, selecting an underwriter, the timing of the issue and the interest rate cost. The differences between shipping bonds and shipping loans are also outlined. The classification of shipping bonds based on collateral, and the covenants and special conditions, are discussed in detail. Finally, the chapter provides the main taxonomy of bonds, with special emphasis on those that are more suitable for shipping companies.
 
-Chapter 7, “Public and Private Equity Markets”, is by Jeffrey Pribor and Cecilie Skajem Lind of Jefferies LLC. It focuses on the most relevant equity products available to private shipping companies. The discussion includes: the pros and cons of being a public versus a private company; IPO structures and
+Chapter 7, “Public and Private Equity Markets”, is by Jeffrey Pribor and Cecilie Skajem Lind of Jefferies LLC. It focuses on the most relevant equity products available to private shipping companies. The discussion includes: the pros and cons of being a public versus a private company; IPO structures and processes; and the role of private equity in the maritime industry. The chapter starts with an overview of public equity capital, such as C-corporations, limited partnerships, MLPs and SPACs, and continues by outlining the advantages and disadvantages of being a public company. It proceeds with the evolution of the shipping equity landscape since 2000, and continues with stock exchanges where there is shipping capital market activity. The four-phase process of an IPO is then analysed; that is, company preparation; drafting, diligence and initial Securities and Exchange Commission (SEC) filing; SEC review and response; and marketing, pricing and aftermarket. Also dealt with are what makes a good IPO and the pitfalls to avoid in the process. Equity valuation metrics are proposed, such as those of net asset value (NAV), forward earnings—earnings before interest, taxes, depreciation and amortization (EBITDA)—and dividend yield metrics. The chapter concludes with an overview of private equity (PE) in shipping and the relationship between PE firms and company management.
 
 <!-- Page 11 (Nace parse) -->
-
-processes; and the role of private equity in the maritime industry. The chapter starts with an overview of public equity capital, such as C-corporations, limited partnerships, MLPs and SPACs, and continues by outlining the advantages and disadvantages of being a public company. It proceeds with the evolution of the shipping equity landscape since 2000, and continues with stock exchanges where there is shipping capital market activity. The four-phase process of an IPO is then analysed; that is, company preparation; drafting, diligence and initial Securities and Exchange Commission (SEC) filing; SEC review and response; and marketing, pricing and aftermarket. Also dealt with are what makes a good IPO and the pitfalls to avoid in the process. Equity valuation metrics are proposed, such as those of net asset value (NAV), forward earnings—earnings before interest, taxes, depreciation and amortization (EBITDA)—and dividend yield metrics. The chapter concludes with an overview of private equity (PE) in shipping and the relationship between PE firms and company management.
 
 Chapter 8, “Structured Finance in Shipping” is by Ioannis Alexopoulos of Eurofin Group and Nikos Stratis of Augustea Group. They present structured finance instruments, as sets of complex financial transactions, and in particular ECA-backed shipping finance, leasing and mezzanine shipping finance. They start by explaining what ECAs are, their role in shipping finance, the various ECA shipping financing structures, the ECA requirements and OECD guidelines, and the pros and cons of ECA finance for shipping. Ship leasing, the types of leases, their benefits and drawbacks and the providers are then discussed prior to a detailed overview of mezzanine finance for shipping, the forms that it takes, the important issues to consider, the applications of it, and its pros and cons.
 
 Chapter 9, “Key Clauses of a Shipping Loan Agreement” is by Kyriakos Spoullos of Norton Rose Fulbright. It provides a general overview of certain key clauses (commercial terms), commonly found in shipping loan agreements. Besides the financial terms of the relevant loan (e.g. the loan amount, the margin, the repayment profile, the interest periods, the last availability date), the chapter presents the operative clauses which constitute the “heart” of most financing documents. These clauses include the: representations and warranties; conditions precedent; covenants (e.g. minimum value clause, financial ratios); events of default; mandatory prepayment events; and assignment and transfer provisions.
 
-Chapter 10, “Legal Aspects of Ship Mortgages”, is written by Simon D. Norton of Cardiff Business School, Cardiff University and Claudio Chistè of Investec Bank plc. They put forward the legal definition of mortgages, the limitations of ship mortgages as a form of security, the registration and
+Chapter 10, “Legal Aspects of Ship Mortgages”, is written by Simon D. Norton of Cardiff Business School, Cardiff University and Claudio Chistè of Investec Bank plc. They put forward the legal definition of mortgages, the limitations of ship mortgages as a form of security, the registration and priority of mortgages, the powers of mortgagees (power of sale, power to take possession and the appointment of a receiver) and the rights of the mortgagor (right/obligation to insure the vessel, right to sell the vessel, application for sale by court order, the right to redeem the mortgage and foreclosure). Th e chapter closes with the authors’ views of the likely future directions in ship mortgages as a form of fi nancing, through the process of securitization.
 
 <!-- Page 12 (Nace parse) -->
-
-priority of mortgages, the powers of mortgagees (power of sale, power to take possession and the appointment of a receiver) and the rights of the mortgagor (right/obligation to insure the vessel, right to sell the vessel, application for sale by court order, the right to redeem the mortgage and foreclosure). Th e chapter closes with the authors’ views of the likely future directions in ship mortgages as a form of fi nancing, through the process of securitization.
 
 Chapter 11, “Reasons and Mechanics of Handling Defaulted Shipping Loans and Methods of Recovery”, is written by Dimitris Anagnostopoulos and Philippos E. Tsamanis of the Aegean Baltic Bank. They present the standard actions and procedures applied when handling problematic bank loans, the early detection of signs and, once the problem is detected, how to handle it. They proceed by explaining the preparation for remedial action when a loan approaches default and the determinants of the bank’s course of action. This includes several considerations, including financial, ship management and market outlook, collateral and bank related. They conclude with a discussion of the loan recovery process that takes place through the auction of the collateral vessel and the possible situations the bank may face during the arrest of vessels.
 
 Chapter 12, “Marine Insurance”, is written by Marc A. Huybrechts of the University of Antwerp and Theodora Nikaki of Swansea University. They focus on insurance coverage needs taken out by the shipyard, the vessel’s financiers and the shipowners as operators of the vessel. They discuss the specifics of marine insurance, which an insured should always keep in mind. These are: the “risks” that a shipowner wants to be covered for, including property, liability, legal issues, lost time, compulsory risks and the associated insurances; the need to purchase insurance cover for the successful and safe operation of the vessel; by whom these risks could be insured against; and who the providers of the insurance cover are. Finally, the cost of each type of insurance and other specific aspects of marine insurance are presented.
 
-Chapter 13, “Maritime Investment Appraisal and Budgeting”, is contributed by Wolfgang Drobetaz of the University of Hamburg, Stefan Albertijn of HAMANT Beratungs- und Investitions GmbH and Max Johns from the German Shipowners’ Association. They present the basic principles of vessel valuation, by illustrating the “mark-to-market” approach, and the long term asset value (LTAV) method as an example of the discounted cash flow (DCF) approach (“mark-to-model”). They also discuss the necessary conditions for the equivalence of market prices and the fundamental values of vessels. The valuation of listed shipping companies using the above methods and other commonly used financial ratios is compared with a matched sample of manufacturing firms, where it is found that: ratios generally tend to be less cyclical
+Chapter 13, “Maritime Investment Appraisal and Budgeting”, is contributed by Wolfgang Drobetaz of the University of Hamburg, Stefan Albertijn of HAMANT Beratungs- und Investitions GmbH and Max Johns from the German Shipowners’ Association. They present the basic principles of vessel valuation, by illustrating the “mark-to-market” approach, and the long term asset value (LTAV) method as an example of the discounted cash flow (DCF) approach (“mark-to-model”). They also discuss the necessary conditions for the equivalence of market prices and the fundamental values of vessels. The valuation of listed shipping companies using the above methods and other commonly used financial ratios is compared with a matched sample of manufacturing firms, where it is found that: ratios generally tend to be less cyclical in the manufacturing sector; shipping companies have a much higher leverage than comparable manufacturing companies; and, as shipping companies are portfolios of vessels, asset tangibility is notably high in the shipping sample.
 
 <!-- Page 13 (Nace parse) -->
-
-in the manufacturing sector; shipping companies have a much higher leverage than comparable manufacturing companies; and, as shipping companies are portfolios of vessels, asset tangibility is notably high in the shipping sample.
 
 Chapter 14, “Financial Analysis and the Modeling of Ship Investment” is contributed by Lars Patterson of Pacomarine Limited. He presents several practical examples of financial models for the evaluation of shipping investments, their assumptions, the key ratios and indicators, and the theory behind investment criteria and value drivers. The value of flexibility (optionality) for the shipowner is also discussed in terms of the timing of the purchase of a ship, its sale, the type of charter chosen and the amount of debt financing utilized. Key practical issues in maritime financial analysis are also discussed, including: purchasing the ship and the timing of the exit; going for a new-building versus a second-hand purchase; scrapping; the selection of operating expenses; the type of employment in terms of charter parties; and the financing methods. The chapter concludes by considering ships as investments, with important features determining their valuation that include the market price of the vessel, its cash flow, its charter, market expectations, the secondary markets for trading vessels, the age of the vessels, as well as market risk and credit risk.
 
 Chapter 15, “Maritime Business Freight Risk Management” is written by Manolis G. Kavussanos of the Athens University of Economics and Business and Ilias D. Visvikis of the World Maritime University. They cover the freight derivatives market and the latest developments and trends in this area, including: freight rate indices and routes that are used as the underlying assets of freight derivatives; the available freight derivative products, that is, freight futures, forward freight agreements (FFAs) and freight options; the freight markets established around the word; and the various usages of freight derivatives for risk management—hedging—purposes. The various trading screens for freight risk management, as well as the latest regulations in derivatives markets, are included in this chapter.
 
-Chapter 16, “Mergers and Acquisitions in Shipping” is contributed by George Alexandridis of Henley Business School at the University of Reading and Manish Singh of V.Group Ltd. The chapter provides a detailed overview of M&As in shipping and the motives behind them, including their role in attaining operating synergies operating synergies in the form of cost reduction and revenue enhancement opportunities; financial synergies; market share enhancement and reduction of competition; and diversification of the asset base. The discussion on the M&A process also covers: strategy formulation; identification and analysis of M&A targets; cultivation of the targets; due diligence; and the post-acquisition integration process. The chapter provides
+Chapter 16, “Mergers and Acquisitions in Shipping” is contributed by George Alexandridis of Henley Business School at the University of Reading and Manish Singh of V.Group Ltd. The chapter provides a detailed overview of M&As in shipping and the motives behind them, including their role in attaining operating synergies operating synergies in the form of cost reduction and revenue enhancement opportunities; financial synergies; market share enhancement and reduction of competition; and diversification of the asset base. The discussion on the M&A process also covers: strategy formulation; identification and analysis of M&A targets; cultivation of the targets; due diligence; and the post-acquisition integration process. The chapter provides a road map of M&A valuation in shipping and in particular cash flow, asset based and relative valuation methods. The financing of shipping M&As is also discussed. The chapter concludes by presenting new empirical research on whether shipping M&As create value for shareholders.
 
 <!-- Page 14 (Nace parse) -->
-
-a road map of M&A valuation in shipping and in particular cash flow, asset based and relative valuation methods. The financing of shipping M&As is also discussed. The chapter concludes by presenting new empirical research on whether shipping M&As create value for shareholders.
 
 Manolis G. Kavussanos
 
 Athens University of Economics and Business
 
-Athens, Greece
-
-e-mail: mkavus@aueb.gr
+Athens, Greece e-mail: mkavus@aueb.gr
 
 Ilias D. Visvikis
 
 World Maritime University
 
-Malmö, Sweden
-
-e-mail: iv@wmu.se
+Malmö, Sweden e-mail: iv@wmu.se
 
 September 2016
 
@@ -456,11 +435,9 @@ Claudio Chistè works at Investec Bank plc in the Shipping and Marine Finance Te
 
 Charles R. Cushing is a naval architect and marine engineer. His firm C.R. Cushing & Co. was founded in 1968 and has designed and/or supervised the construction or conversion of over 250 vessels of all types in most major shipyards worldwide. Because of his pioneering work at Sea-Land in the early 1960s and ongoing expertise in this field, he was inducted into the National Academy of Engineering. He has received numerous awards and is a member of several maritime professional societies. He is a licensed deck officer and a graduate of USMMA (BS), MIT (BS, NA & ME), SUNY Maritime (MS, OT) and Cardiff University (PhD, maritime studies). He has been an adjunct professor at the World Maritime University, both in Malmo, from 1988 (where he received a DSc (Hon) degree), and in Dalian, China, from 2005.
 
-Wolfgang Drobetz is Professor of Corporate Finance and Shipping Finance at the University of Hamburg. He holds a PhD in economics from the University of St. Gallen and completed his habilitation at the University of Basel. He taught fi nancial theory at the Bucerius Law School and the WHU Otto Beisheim Graduate School. His research interests include corporate fi nance, corporate governance, asset management and shipping fi nance. His research has been published in leading academic and
+Wolfgang Drobetz is Professor of Corporate Finance and Shipping Finance at the University of Hamburg. He holds a PhD in economics from the University of St. Gallen and completed his habilitation at the University of Basel. He taught fi nancial theory at the Bucerius Law School and the WHU Otto Beisheim Graduate School. His research interests include corporate fi nance, corporate governance, asset management and shipping fi nance. His research has been published in leading academic and practitioner journals. He is a member of the editorial board of several academic journals and served as Co-President of the European Financial Management Association.
 
 <!-- Page 23 (Nace parse) -->
-
-practitioner journals. He is a member of the editorial board of several academic journals and served as Co-President of the European Financial Management Association.
 
 Fotis Giannakoulis is the Lead US Maritime Analyst at Morgan Stanley, covering tankers, dry bulk, containership, gas carriers and offshore supply vessels, which he joined 2010. Since then he has worked on a number of public offerings, raising over USD10 billion. He is the no. 1 winner of the 2015 Thomson Reuters StarMine Analyst Award for the marine sector. Prior to joining Morgan Stanley, he was a banker at Fortis Bank (currently ABN AMRO) and Poten Capital Services, putting together a number of debt and equity financings and working on several advisory mandates. He holds a bachelor's degree in economics from the University of Piraeus and earned his MBA with honors from Loyola University Chicago, where he was the Walter F. Mullady scholar.
 
@@ -468,11 +445,9 @@ Jan-Henrik Hübner is the global head of DNV GL's Shipping Advisory. Together wi
 
 Marc A. Huybrechts received a Doctor of Laws from the Catholic University of Leuven in 1964, and an LLM from Berkeley, Boalt Hall (California) in 1966. He is a member of the Antwerp Bar and is Emeritus Professor of Law at the Catholic University of Leuven and at Antwerp University (Belgium). He is also Visiting Professor at the Dalian Maritime University in the People's Republic of China, and at ALBA in Athens. He is Emeritus Auxiliary Justice at the Antwerp Court of Appeal and a former board member of the Antwerp Bar; Arbitrator in the International Maritime Conciliation and Mediation Panel (London); Editor for Transport Law of the Encyclopedia of International Law; and member of the editorial board of Tijdschrift voor Vervoer en Recht. He is a titular member of the Comité Maritime International (CMI) and a member of the Law Commission to revise the Belgian Maritime Law.
 
-Max Johns is Managing Director at VDR German Shipowners' Association in Hamburg. He has taught shipping finance at the Maritime Business School of the Hamburg School of Business Administration (HSBA) since 2008 and has become a professor at HSBA in 2016. He holds BA and MA degrees from the Université Paul Valéry Montpellier III in France, an MBA from KU Leuven in Belgium and was
+Max Johns is Managing Director at VDR German Shipowners' Association in Hamburg. He has taught shipping finance at the Maritime Business School of the Hamburg School of Business Administration (HSBA) since 2008 and has become a professor at HSBA in 2016. He holds BA and MA degrees from the Université Paul Valéry Montpellier III in France, an MBA from KU Leuven in Belgium and was awarded a doctoral degree from the University of Tübingen in Germany. He publishes frequently on maritime issues.
 
 <!-- Page 24 (Nace parse) -->
-
-awarded a doctoral degree from the University of Tübingen in Germany. He publishes frequently on maritime issues.
 
 Basil M. Karatzas is the CEO of Karatzas Marine Advisors & Co based in New York, a shipping finance advisory and ship brokerage firm, advising and representing shipowners and institutional investors on shipping and financial matters. He has an extensive and successful record on representing, upon exclusive mandate, financial owners of vessels seeking asset management optimization through remarketing, disposition, restructuring, co-investments and private placements, and has worked with the biggest players in the industry. He is a member of numerous industry bodies and organizations and a frequent speaker at industry conferences and a contributor to business publications. He holds an MBA from Rice University in Houston, Texas.
 
@@ -480,11 +455,9 @@ Cecilie Skajem Lind is an associate in the Global Industrials Investment Banking
 
 Theodora Nikaki joined Swansea University in 2005 as a lecturer and was promoted to Associate Professor in 2013. She is currently Deputy Head of the Department of Postgraduate Legal Studies, College of Law. She is a graduate of the Aristotle University of Thessalonica (LLB and LLM in commercial and economic law, with distinction). Having worked in private practice for several years, she also obtained an LLM degree in admiralty and maritime law from Tulane Law School (New Orleans, USA) in 2001 with distinction. She then went to work in a maritime law firm in the United States before undertaking her PhD degree in the carriage of goods by sea and transport law in the UK. Her principal research interest is in the field of carriage of goods by sea, but her interests extend to private international law and multimodal transport. During the 2011–12 academic year she was awarded a visiting fellowship at the Institute of Advanced Legal Studies (University of London) and a visiting researcher position at the Scandinavian Institute of Maritime Law in Oslo. She is an active researcher and has published in several significant journals such as The Journal of Business Law, the Journal of Maritime Law and Commerce, the Berkeley Journal of International Law and the Tulane Maritime Law Journal.
 
-Simon D. Norton lectures at Cardiff Business School in the field of banking law and regulation and financial crime, principally money laundering. He holds a doctorate in shipping finance and is the course director for this subject with the Institute of Chartered Shipbrokers, for which he has written the standard textbook. He also lectures in shipping finance and maritime law at an international business school in the West Indies. He has previously worked in the capital markets in London with a 'Top 10' Japanese finance house where he specialized in interest rate and currency swaps, and new issues. It was here that he developed his interest in complex financial
+Simon D. Norton lectures at Cardiff Business School in the field of banking law and regulation and financial crime, principally money laundering. He holds a doctorate in shipping finance and is the course director for this subject with the Institute of Chartered Shipbrokers, for which he has written the standard textbook. He also lectures in shipping finance and maritime law at an international business school in the West Indies. He has previously worked in the capital markets in London with a 'Top 10' Japanese finance house where he specialized in interest rate and currency swaps, and new issues. It was here that he developed his interest in complex financial structures and their applicability to ship financing. He also has a current interest in the application of Islamic finance principles and instruments to ship purchase. He maintains his interests and contacts in the practical (as opposed to academic) maritime world through attendance at workshops and social engagements with bankers, lawyers and brokers. He recently wrote a practitioner-oriented course on the commercial aspects of setting up and running, from scratch, a ship-owning business.
 
 <!-- Page 25 (Nace parse) -->
-
-structures and their applicability to ship financing. He also has a current interest in the application of Islamic finance principles and instruments to ship purchase. He maintains his interests and contacts in the practical (as opposed to academic) maritime world through attendance at workshops and social engagements with bankers, lawyers and brokers. He recently wrote a practitioner-oriented course on the commercial aspects of setting up and running, from scratch, a ship-owning business.
 
 George Paleokrassas is a partner in the asset finance group of Watson Farley & Williams and is head of the firm's Greek office. For more than 20 years he has worked on a broad range of transactions in the maritime sector, acting for major shipping lenders and shipowners in the structuring and restructuring of loan transactions, the acquisition, sale and transfer of shipping loan portfolios, transactions involving distressed assets as well as for owners, operators and investors in shipbuilding projects, long-term charter arrangements, leasing transactions, joint ventures and other general corporate matters involving shipowning groups. Watson Farley & Williams is a leading international law firm dedicated to client care, industry focus and investment in its people, delivering valued advice on a wide range of corporate and finance transactions and disputes from 14 offices in major financial centres in Europe, the Middle East, Asia and the USA.
 
@@ -492,19 +465,15 @@ Lars Patterson is a graduate of the Norwegian School of Economics. He started hi
 
 Jeffrey Pribor is a managing director and Global Head of Maritime Investment Banking at Jefferies LLC. He has more than 30 years of corporate finance and maritime shipping experience. Prior to joining Jefferies, he was the Chief financial officer (CFO) of General Maritime, a leading international tanker company, which he helped guide through a pre-arranged Chapter 11 bankruptcy proceeding, and where he helped to conduct a successful hostile takeover defense and a leveraged recapitalization with a USD500 million special dividend to shareholders. Prior to joining General Maritime, he was Managing Director and President of DnB NOR Markets, Inc. and a senior banker at Merrill Lynch. He received a JD and an MBA from Columbia University and a BA from Yale University.
 
-Manish Singh, as a third-generation seafarer, he started his maritime career with seagoing experience on tankers, dry cargo and self-unloaders. With over 20 years of
+Manish Singh, as a third-generation seafarer, he started his maritime career with seagoing experience on tankers, dry cargo and self-unloaders. With over 20 years of industry experience, Manish has held diverse roles in ship management, marine conversions and infrastructure projects, offshore, marine financial and commercial services. As Group Commercial Director, Manish is responsible for the formulation and implementation of V.Group's commercial and corporate strategies and leads on acquisition projects and the Group's legal function. Since 2007, Manish has held senior management roles in V.Group's corporate team, with responsibilities including Offshore, Asset Management and Business Development for Asia region. Manish is a Master Mariner and an MBA from Cranfield University – School of Management. When not pursuing all things marine, Manish loves to travel, is a voracious reader, follows folk music and plays traditional Indian percussion. Manish writes extensively as a columnist on various industry, management journals and on his blogs.
 
 <!-- Page 26 (Nace parse) -->
 
-industry experience, Manish has held diverse roles in ship management, marine conversions and infrastructure projects, offshore, marine financial and commercial services. As Group Commercial Director, Manish is responsible for the formulation and implementation of V.Group's commercial and corporate strategies and leads on acquisition projects and the Group's legal function. Since 2007, Manish has held senior management roles in V.Group's corporate team, with responsibilities including Offshore, Asset Management and Business Development for Asia region. Manish is a Master Mariner and an MBA from Cranfield University – School of Management. When not pursuing all things marine, Manish loves to travel, is a voracious reader, follows folk music and plays traditional Indian percussion. Manish writes extensively as a columnist on various industry, management journals and on his blogs.
-
 Kyriakos Spoullos studied law in Greece and obtained his degree from the Kapodistrian University of Athens. He obtained his master's degree in shipping, trade and finance from the Sir John Cass Business School of the City University in London. He joined Norton Rose Fulbright in June 2006 from a Greek leading law firm (V&P). He is a member of the Athens Bar and is a UK solicitor. He represents a number of major Greek and international banks that do business in shipping as well as numerous large shipping groups based or doing business in Greece; he specializes in various finance sectors and industries, including shipping and asset finance, project finance and structured and complex banking products. He has vast experience in big syndicated and bilateral loans, secured and unsecured facilities, bond loans, restructuring and work out arrangements, monitoring “problem” loans as well as contract negotiations (i.e. charterparties, Memorandum Of Agreements (MOAs) and shipbuilding contracts). Additionally, he has significant experience in international capital markets, M&As, Initial Public Offerings (IPOs), joint ventures schemes and sale and purchase of shares agreements in shipping. Norton Rose Fulbright is a top 10 global legal practice with more than 3800 lawyers and other legal staff based in more than 50 cities across Europe, the United States, Canada, Latin America, Asia, Australia, Africa, the Middle East and Central Asia.
 
-Nikos Stratis currently serves as a managing director with Chief financial officer (CFO) responsibilities for Augustea Group dry bulk business unit, which collectively controls a fleet of 35 vessels. Prior to that he co-founded Northern Shipping Funds where from 2008 to 2014 he held positions in the fund's investment committee and board of portfolio companies and operated as a senior investment manager responsible primarily for European and Middle East markets. His role included sourcing, structuring and the execution of shipping investments as well as investor relations. From 2001 to 2008 he was employed by DVB Bank, seconded to the bank's shipping investment fund as a senior investment manager. He was instrumental in the launching of a series of shipping funds, including the then largest Islamic Shipping Fund. He holds a BEng and an MSc in marine engineering from the University of Newcastle-upon-Tyne and an MSc in shipping, trade and finance from the City University Business School, London. Prior to joining DVB Bank, he gained experience in
+Nikos Stratis currently serves as a managing director with Chief financial officer (CFO) responsibilities for Augustea Group dry bulk business unit, which collectively controls a fleet of 35 vessels. Prior to that he co-founded Northern Shipping Funds where from 2008 to 2014 he held positions in the fund's investment committee and board of portfolio companies and operated as a senior investment manager responsible primarily for European and Middle East markets. His role included sourcing, structuring and the execution of shipping investments as well as investor relations. From 2001 to 2008 he was employed by DVB Bank, seconded to the bank's shipping investment fund as a senior investment manager. He was instrumental in the launching of a series of shipping funds, including the then largest Islamic Shipping Fund. He holds a BEng and an MSc in marine engineering from the University of Newcastle-upon-Tyne and an MSc in shipping, trade and finance from the City University Business School, London. Prior to joining DVB Bank, he gained experience in various shipping firms such as Lloyd’s Register of Shipping, Aeolos Maritime and Ionian Tugboats, where he also served as an officer on ocean-going vessels.
 
 <!-- Page 27 (Nace parse) -->
-
-various shipping firms such as Lloyd’s Register of Shipping, Aeolos Maritime and Ionian Tugboats, where he also served as an officer on ocean-going vessels.
 
 Philippos E. Tsamanis has been with Aegean Baltic Bank, a Greek bank specializing in shipping finance, since its establishment in 2002. From 2006, he has headed the Bank’s Business Development Department and since 2008 has been the Head of Shipping. He is a member of the Bank’s Credit Committee and its Assets & Liabilities Committee. Previously, he worked for Euro Finance Services SA (1995–2002), a shipping finance and advisory firm specializing in the arrangement and management of syndicated shipping loans, the handling of problematic loans/third party accounts, and the providing of consultancy to shipping companies and banks on shipping debt and equity capital raising. Following his graduation from Athens College, he obtained a BA in government and economics from the University of Essex. He also holds a master’s degree in shipping, trade and finance from Cass Business School of the City University of London.
 
@@ -1021,13 +990,7 @@ up for their services, their exposure to freight market rate volatility is rathe
 moderate. Th eir risk lies rather in the variability of demand for their services.
 1.1.1.6  Ship Managers
 A ship manager is mandated by the shipowner to run and maintain the ves-
-sel (technical management, crewing) and market it to charterers (commercial
-
-## 1 Shipping Markets and Their Economic Drivers
-
-3
-
-management). All the operating expenses of the vessel are borne by the owner,
+sel (technical management, crewing) and market it to charterers (commercial management). All the operating expenses of the vessel are borne by the owner,
 based on pre-agreed crewing and the OPEX budget. The ship manager typi-
 cally receives a fixed annual fee to administer the vessel. Hence, he or she is not
 directly exposed to charter rate volatility. Only a limited share of ship manage-
@@ -1039,6 +1002,10 @@ newbuilding, but also for repair and regular docking. Shipbrokers support
 the S&P of second-hand tonnage as well as the chartering of vessels (linked
 to commercial management). Freight brokers can facilitate larger freight con-
 tracts, for example in bulk and project cargo.
+
+## 1 Shipping Markets and Their Economic Drivers
+
+3
 
 #### 1.1.2  The Shipping Segments
 
@@ -1125,9 +1092,7 @@ dry-bulk and tanker shipping. A variation is the contract of affreightment
 two specified ports in a series of shipments within a certain period of time. If
 time allows, he or she can perform other voyage charters in between. Pools of
 6
-J.-H.Hübner
-
-vessels, which could be seen as another variant of voyage charter, are groups of
+J.-H.Hübner vessels, which could be seen as another variant of voyage charter, are groups of
 comparable bulkers or tankers which are marketed jointly and share income
 according to a specific agreement. A time charter fixes the vessels for a certain
 period of time (between two months and ten years). While time charter is
@@ -1236,9 +1201,7 @@ Total ship costs
 **Fig. 1.3  Cost structure of a panamax container vessel ( Source : Own model)**
 
 8
-J.-H.Hübner
-
-cost structure, bunker accounts for 40–50% of total costs, CAPEX for about
+J.-H.Hübner cost structure, bunker accounts for 40–50% of total costs, CAPEX for about
 one-fourth, OPEX for about one-fifth, and the rest consists of costs of passage
 and port. The higher cost shares of fuel and some OPEX items for a VLCC,
 compared with a container ship, might be surprising at first sight. However,
@@ -1345,9 +1308,7 @@ flows (e.g. an accelerated nuclear phase that drives out the trade in liquefied
 natural gas (LNG) ). Economic challenges lie in the high debts of coun-
 tries and private households, and an excess of liquidity due to cheap central
 10
-J.-H.Hübner
-
-bank money (stimulus packages) along with a deflation risk and devaluation
+J.-H.Hübner bank money (stimulus packages) along with a deflation risk and devaluation
 of certain currencies, leading to drastic effects on exchange rates (currency
 war). Kim ( 2014 ) argues that an “end of normal” scenario (high debt, no
 or negative growth) is 40% probable, that a “new normal” (high debt, slow
@@ -1386,14 +1347,12 @@ growth resulted in 5–6% trade growth in 2015 (Kounis  2014 ). Also, the
 indicator “seaborne trade per capita”—with 2.5–5.5 tons in OECD coun-
 tries, about 1.5 tons in China and below 1.0 tons in most of South America,
 India and Africa—is just an indication that the latter countries will catch
-up in trade volumes (Clarkson Research Services Limited  2014 ). Obviously,
+up in trade volumes (Clarkson Research Services Limited  2014 ). Obviously, a segment specific perspective is needed to forecast shipping markets, rather
+than a bottom-up approach, segment by segment.
 
 ## 1 Shipping Markets and Their Economic Drivers
 
 11
-
-a segment specific perspective is needed to forecast shipping markets, rather
-than a bottom-up approach, segment by segment.
 
 #### 1.2.2  The Supply of Transport Capacity
 
@@ -1471,13 +1430,7 @@ a typical split of 60% CAPEX and 40% OPEX from the owner’s perspective,
 shipowners may accept the temporary employment of their vessels at cash
 costs (OPEX plus interest share of CAPEX) or marginal costs (OPEX or even
 just the OPEX of the vessel in operation minus the OPEX of the vessel laid
-up), which puts pressure on the charter rates on the market. A market collapse
-
-## 1 Shipping Markets and Their Economic Drivers
-
-13
-
-results in reduced orders, but, due to time lags, it may take years for the excess
+up), which puts pressure on the charter rates on the market. A market collapse results in reduced orders, but, due to time lags, it may take years for the excess
 capacity to be absorbed by the global trade growth. Stopford ( 2009 ) analyzed
 that cycle lengths came to an average of seven to even ten years peak-to-peak,
 but discovered a quite high volatility of the cycle length.
@@ -1503,11 +1456,13 @@ OPEX (the costs of maintenance and repair, including docking, stores and
 lubricants, crewing, insurance as well as management and administration)
 **Fig. 1.5  Earnings in merchant shipping since 1965 (ClarkSea Index) ( Source :**
 
+## 1 Shipping Markets and Their Economic Drivers
+
+13
+
 Clarksons)
 14
-J.-H.Hübner
-
-of currently about USD500 per day on average over the four vessel segments
+J.-H.Hübner of currently about USD500 per day on average over the four vessel segments
 need to be deducted. It needs to be noted that the index is quoted in nominal
 terms. An average annual increase of the ClarkSea Index of 3.1% (the slope
 of the linear regression from 1965 to 2013) may be compared to an average
@@ -1774,13 +1729,7 @@ effect of a low oil price.
 Trade with petroleum products and chemicals is less straightforward
 than crude oil trade. Th ere are trends towards more local value add, with
 investments into refinery capacity in China, in the Middle East and in the
-USA, though build up in Latin America and Africa is limited; Europe is by
-
-## 1 Shipping Markets and Their Economic Drivers
-
-21
-
-comparison losing refining capacity. Th is indicates a need for more long-haul
+USA, though build up in Latin America and Africa is limited; Europe is by comparison losing refining capacity. Th is indicates a need for more long-haul
 product trade through the Atlantic towards Europe which seems to have
 stimulated the heavy contracting of LR2 product tankers in 2013 (Hartland
 Shipping Services Ltd  2014 ). The demand increase for MR product tankers
@@ -1800,6 +1749,10 @@ exports alone, 80–130 LNG carriers could be needed by 2020. The pace and
 extent of this development, however, also depend on the development of the
 price of crude oil.
 
+## 1 Shipping Markets and Their Economic Drivers
+
+21
+
 #### 1.5.3  Tanker Shipping Market Development
 
 1.5.3.1  The Demand Side
@@ -1816,9 +1769,7 @@ MRs used in intra-Asian trades and by LR2s for the longer hauls (Fig.  1.12 ).
 The capacity of crude and product tankers has grown steadily over the past
 decade. The CAGR from 2008 to 2013 was 4.5% and is expected to be 2.7%
 22
-J.-H.Hübner
-
-from 2013 to 2016 (IHS Maritime & Trade  2015 ). Figure  1.13 shows the
+J.-H.Hübner from 2013 to 2016 (IHS Maritime & Trade  2015 ). Figure  1.13 shows the
 development by sub-segment since 2008.
 Contracting was low in 2011 and 2012 but strong in 2013 and 2014
 (IHS Maritime & Trade  2015 ). Overall 12%, depending on the sub-seg-
@@ -1916,9 +1867,7 @@ Million
 **Fig. 1.18  Tanker newbuilding and secondhand prices ( Source : Clarksons)**
 
 26
-J.-H.Hübner
-
-published statistics with specific freight values ranging from USD20,000
+J.-H.Hübner published statistics with specific freight values ranging from USD20,000
 per 40-foott container (retail prices) for assembled furniture to USD3.6
 million for mid-range clothing. Consumer electronics ranged from
 USD70,000 to 430,000 (retail value). Even assuming a 100% trade mar-
@@ -1992,9 +1941,7 @@ ment, took some capacity out of the market, capacity growth above demand
 
 Clarksons (2008–14, actuals), DNV GL (2015/16 projections))
 28
-J.-H.Hübner
-
-growth cannot be hindered, as seen in Fig.  1.22 . The average scrapping age
+J.-H.Hübner growth cannot be hindered, as seen in Fig.  1.22 . The average scrapping age
 has decreased from 30 years in 2007 to 21 years in 2014 (Hartland  2014 ).
 Between 2012 and 2014, we saw an idle (laid-up) container fleet of up to
 300 vessels or 0.8 million TEU or 5% of the total. At the end of 2014, the idle
@@ -2091,9 +2038,7 @@ drilling contractors (DNV GL  2015 ). As oil companies keep reducing their
 **Fig. 1.26  Container vessel newbuilding and secondhand prices ( Source : Clarksons)**
 
 32
-J.-H.Hübner
-
-spending, more field developments are being postponed or cancelled. Due to
+J.-H.Hübner spending, more field developments are being postponed or cancelled. Due to
 the current situation, the ordering volumes for offshore units were reduced
 substantially in 2014; 2015 and 2016 are expected to be even worse. In the
 light of diminishing profits, rig owners are trying to cut their costs, and scrap-
@@ -2157,9 +2102,7 @@ vessels
 
 actuals), DNV GL (2015/16 projections))
 34
-J.-H.Hübner
-
-a “wait and see” approach. DNV GL expects limited ordering, particularly in
+J.-H.Hübner a “wait and see” approach. DNV GL expects limited ordering, particularly in
 the PSV sector as the oversupply increases (DNV GL  2015 ).
 
 **Figure  1.31 displays expected deliveries and removals of OSVs and**
@@ -2336,9 +2279,7 @@ Henriette   Brent-Petersen
 H.  Brent-Petersen (
 )
 DVB Bank SE ,  WTC Schiphol Tower F 6th Floor, Schiphol Boulevard 255 ,
-1118 BH  Schiphol ,  The Netherlands
-
-by the “German dentists” tax driven investments in German owned container
+1118 BH  Schiphol ,  The Netherlands by the “German dentists” tax driven investments in German owned container
 vessels. With this kind of niche sector financing, combined with relatively
 limited access to funding within the transportation sector, as well as limited
 speculative investments, there has historically been relatively limited inter-
@@ -2379,9 +2320,7 @@ shipping industry.
 Some of the areas of key importance to analyze and address when assess-
 ing shipping asset risks today are: the recent cyclical behavior or lack of the
 42
-H. Brent-Petersen
-
-same in the shipping industry and the path towards restoration of its typical
+H. Brent-Petersen same in the shipping industry and the path towards restoration of its typical
 cyclical nature; the forecasting cyclicality and subsector cyclicality; and the
 potential changes in the structure of funding within the shipping industry.
 In this chapter I discuss the overall cyclicality of the shipping and offshore
@@ -2460,9 +2399,7 @@ Fig. 2.1 Timeline of shipbuilding related policy in China (Source: DVB Shipping 
 In cyclical markets, such as the shipping and oﬀ shore industries, understand-
 ing the overall cyclicality, the respective sector and subsector cyclicality, and
 44
-H. Brent-Petersen
-
-the associated risks and implementation of these in forecasting scenarios
+H. Brent-Petersen the associated risks and implementation of these in forecasting scenarios
 is critical. Understanding the history and identifying changes and shocks
 (expected and non-expected, on a scenario basis) in the industry, as well as in
 the respective sectors and subsectors, is what enables a good analyst to prepare
@@ -2642,9 +2579,7 @@ consider the substitution risk amongst shipping and offshore sectors).
 Th is flooding effect is not expected to have the same impact on all ship-
 ping sectors. In Fig.  2.5 , the historical variation in lead time by ship types
 48
-H. Brent-Petersen
-
-is illustrated. The figure shows the difference in lead time from year to year,
+H. Brent-Petersen is illustrated. The figure shows the difference in lead time from year to year,
 with “lead time” defined as the time between the contracting date and
 the delivery date (i.e. the order book period coverage). With small annual
 changes in lead time, the shipbuilding market is supply driven (i.e. there
@@ -2717,9 +2652,7 @@ keep their production line running, since, once it stops, it is very diffi  cult
 
 Bank Shipping and Offshore Research)
 50
-H. Brent-Petersen
-
-to restart. On the other hand, this causes a vicious cycle of overcapacity and
+H. Brent-Petersen to restart. On the other hand, this causes a vicious cycle of overcapacity and
 further dampens the yards’ cash flow.
 During this process, small privately owned Chinese shipyards are expected
 to suffer the most, with almost 75% of their capacity likely to disappear.
@@ -2914,9 +2847,7 @@ industry it is also important to understand global innovation cycles and which
 innovations can potentially impact on the transport of goods and especially
 the transport of container goods. Technological innovations like 3D and 4D
 54
-H. Brent-Petersen
-
-printing is expected to have a significant impact on the longer-term future
+H. Brent-Petersen printing is expected to have a significant impact on the longer-term future
 container trade. One could argue that the world is getting bigger again.
 However, one could also counter-argue that new trade agreements and
 expansions of existing ones continuously come to the drawing board, such as
@@ -2995,9 +2926,7 @@ that scrapping activity will materialize in the segments with the least orders
 for delivery. When applying a future contracting scenario with a forecasted
 delivery schedule as well as a future scrapping scenario, we can calculate the
 56
-H. Brent-Petersen
-
-future expected fleet growth of CAGR to be 5.8% for 2015–19, with the fleet
+H. Brent-Petersen future expected fleet growth of CAGR to be 5.8% for 2015–19, with the fleet
 growing by 8.1% in 2015. 14
 When studying the order book, most of the orders are concentrated in the
 very large segments of Super Post Panamax (SPPx) and very large container
@@ -3063,9 +2992,7 @@ trends and speed, cascading and congestion. On the supply side, the  overall
 Note : The number of vessels entering are in green and exiting are in red for each
 route; the total number of vessels deployed on the route are in parentheses
 58
-H. Brent-Petersen
-
-structure of the container market is leading to ordering that is driven by
+H. Brent-Petersen structure of the container market is leading to ordering that is driven by
 economies of scale. Th is again has been leading to an imbalanced order
 book in relation to the demand growth, which is ultimately leading to
 significant cascading pressure across the industry. During the cascading
@@ -3133,9 +3060,7 @@ ore accounted for slightly more than half of the global iron ore consumption
 (56.1% in 2013), and it can be expected that this trend will continue to increase
 in the coming years, with seaborne trade estimated to reach close to 65% of
 60
-H. Brent-Petersen
-
-global iron ore consumption by the end of 2015. Th is growth is primarily
+H. Brent-Petersen global iron ore consumption by the end of 2015. Th is growth is primarily
 driven by China sourcing iron ore imports from further distances, especially
 Australia and Brazil. When studying iron ore trade, Brazil and Australia are
 expected to remain the dominant suppliers of iron ore to China. Currently,
@@ -3209,9 +3134,7 @@ Balc Dry Index
 ( Source : Own modeling (moving average of the development in the utilization
 rate, indexed with 1996 = 100))
 62
-H. Brent-Petersen
-
-for seaborne dry-bulk tonnage. Total demand for seaborne dry-bulk tonnage,
+H. Brent-Petersen for seaborne dry-bulk tonnage. Total demand for seaborne dry-bulk tonnage,
 including a slowdown in the expected future growth of imports of iron ore
 into China as well as continued strong growth of coal imports into India, is
 implemented in the global bilateral country-by-country trade and aggregated
@@ -3376,9 +3299,7 @@ relation to demand growth, which is ultimately leading to significant cas-
 cading pressure across the industry. Ultimately the need for some subsectors
 will change from being a key container segment to a niche player segment,
 66
-H. Brent-Petersen
-
-which is a short-term opportunity. Container vessels are getting bigger at an
+H. Brent-Petersen which is a short-term opportunity. Container vessels are getting bigger at an
 accelerating pace not seen before in any other segment.
 We can thus conclude that important issues to analyze, when assessing and
 evaluating asset risks today are whether the recent cyclical behavior in the
@@ -3522,17 +3443,11 @@ second-hand acquisitions have led shipowners to seek financing beyond
 their own private funds. European merchant banks have a long history
 in financing shipping assets, which can be traced back to the United
 Kingdom in the 1850s, with the expansion of the steamship fleet. Bank
-**Fig. 3.1  Clarkson’s ClarkSea index ( Source : Clarksons, Morgan Stanley
+**Fig. 3.1  Clarkson’s ClarkSea index ( Source : Clarksons, Morgan Stanley debt financing remains the most important source of capital for the shipping industry today. The capital market’s embracing of the shipping industry, especially during the last decade, has opened the doors to a much wider range of capital beyond bank debt. Shipping companies today have an array of financing alternatives that range from traditional mortgage-backed loans to more complex financing structures that may include: high yield debt; sale and leasebacks; mezzanine financing and other forms of equity-linked debt; private equity or funding through the formation of publicly listed spin-offs, such as master limited partnerships (MLPs) and special purpose
 
 <!-- Page 110 (Nace parse) -->
 
-debt financing remains the most important source of capital for the shipping industry today. The capital market’s embracing of the shipping industry, especially during the last decade, has opened the doors to a much wider range of capital beyond bank debt. Shipping companies today have an array of financing alternatives that range from traditional mortgage-backed loans to more complex financing structures that may include: high yield debt; sale and leasebacks; mezzanine financing and other forms of equity-linked debt; private equity or funding through the formation of publicly listed spin-offs, such as master limited partnerships (MLPs) and special purpose
-
- 
-
 Fig. 3.2 Clarkson's ClarkSea index volatility (Source: Clarksons, Morgan Stanley Research)
-
- 
 
 Fig. 3.3 World vessel contracting (Source: Clarksons, Morgan Stanley Research)
 
@@ -3593,9 +3508,7 @@ Tankers
 Research**
 
 72
-F. Giannakoulis
-
-debt  financing remains the most important source of capital for the ship-
+F. Giannakoulis debt  financing remains the most important source of capital for the ship-
 ping industry today. The capital  market’s embracing of the shipping indus-
 try, especially during the last decade, has opened the doors to a much wider
 range of capital beyond bank debt. Shipping companies today have an array
@@ -3712,9 +3625,7 @@ Fig. 3.8 Top 20 shipping bank loan portfolios by bank (Source: Marine Money Inte
 
 owns the collateral vessel and is registered in a legally acceptable jurisdiction, most likely in Liberia, the Marshall Islands or Panama. This offers the lender direct access to the collateral and isolates the vessel from any claims or liabilities unrelated to the financed asset. In many cases, the holding company that owns the shares of the single-purpose company acts as a guarantor of the obligations of the borrower. A mortgage-backed loan may finance multiple vessels that are cross-collateralized and, when this happens, the loan is usually split in different tranches, which facilitates the repayment in the event of the sale of any of the vessels. This usually happens when the shipping company is acquiring a fleet of multiple vessels that are financed by the same bank or when the lender is asked to enhance the collateral package adding debt-free vessels in order to reduce the leverage of a credit facility.
 
-The amount and terms of the financing determines the cost of capital for the shipowner, and also the ability of the borrower to meet its obligations and navigate through the volatility of the market. As shipping rates and vessel
-
-owns the collateral vessel and is registered in a legally acceptable jurisdic-
+The amount and terms of the financing determines the cost of capital for the shipowner, and also the ability of the borrower to meet its obligations and navigate through the volatility of the market. As shipping rates and vessel owns the collateral vessel and is registered in a legally acceptable jurisdic-
 tion, most likely in Liberia, the Marshall Islands or Panama. Th is oﬀ ers the
 liabilities unrelated to the ﬁ nanced asset. In many cases, the holding company
 obligations of the borrower. A mortgage-backed loan may ﬁ nance multiple
@@ -3769,9 +3680,7 @@ US$ billion
 US$ billion
 
 76
-F. Giannakoulis
-
-owns the collateral vessel and is registered in a legally acceptable jurisdic-
+F. Giannakoulis owns the collateral vessel and is registered in a legally acceptable jurisdic-
 tion, most likely in Liberia, the Marshall Islands or Panama. Th is offers the
 lender direct access to the collateral and isolates the vessel from any claims or
 liabilities unrelated to the financed asset. In many cases, the holding company
@@ -3874,13 +3783,7 @@ ers. The loan that has the seniority is called the “senior” loan and its len
 enjoy a first mortgage, while the second loan is called the “junior” or “subor-
 dinated” loan, with the lenders receiving a second mortgage which provides
 security access to the collateral after the first mortgagees have been served.
-Th at allows the company to increase the leverage on the vessel and improve its
-
-## 3 Overview of Shipping Finance
-
-79
-
-equity return. When there is more than one mortgage on a vessel, the lenders
+Th at allows the company to increase the leverage on the vessel and improve its equity return. When there is more than one mortgage on a vessel, the lenders
 of both facilities enter into a subordination agreement, which determines the
 order in which the liens will be paid if the vessel is sold.
 The majority of these mortgaged-backed loans are “bilateral”, loans between
@@ -3903,11 +3806,13 @@ of a vessel under construction is more complicated. In the case of the financing
 of an existing vessel, the bank has a mortgage on a collateral asset that earns
 **Fig. 3.9  Shipping loans interest cost: spread over LIBOR (basis points) ( Source :**
 
+## 3 Overview of Shipping Finance
+
+79
+
 Marine Money International)
 80
-F. Giannakoulis
-
-revenue and offers security against its loan exposure. In the case of a pre-delivery
+F. Giannakoulis revenue and offers security against its loan exposure. In the case of a pre-delivery
 loan, the vessel is not available to be mortgaged and there are no earnings that
 can be used to repay the loan. Th at means that the loan can be repaid only after
 the vessel has been delivered from the shipyard, which can be two to three years
@@ -3944,13 +3849,7 @@ least a large part, of the equity to be paid up front.
 3.2.1.3  Mezzanine Financing
 In the situation where a company is trying to maximize its returns without
 investing more equity and has exhausted its ability to add traditional secured
-debt, mezzanine is often a favorable middle-ground solution. Mezzanine
-
-## 3 Overview of Shipping Finance
-
-81
-
-financing can be structured either as debt or equity, and represents a claim
+debt, mezzanine is often a favorable middle-ground solution. Mezzanine financing can be structured either as debt or equity, and represents a claim
 on the vessel that is senior only to the common equity. As a result, the cost
 of the mezzanine is higher than that of traditional secured debt, but less
 expensive than the cost of equity. Traditional shipping banks are the main
@@ -3982,15 +3881,17 @@ its assets. From the lender’s perspective, the main consideration is the balan
 sheet of the company, and therefore the most typical covenants are the corpo-
 rate leverage ratio and the interest coverage ratio.
 
+## 3 Overview of Shipping Finance
+
+81
+
 #### 3.2.2  Leasing Financing
 
 One of the tools that companies have to finance their operations is to enter
 into leasing agreements of some of the assets they operate. Such agreements
 allow the company to operate assets without having ownership of them, thus
 82
-F. Giannakoulis
-
-without investing any capital. In other words the company (“lessee”) leases
+F. Giannakoulis without investing any capital. In other words the company (“lessee”) leases
 the vessel from its owner (“lessor”) for a period that might extend to multiple
 years. Companies often enter into sale and leaseback agreements, selling a
 vessel to the lessor and leasing it back usually at a fixed daily bareboat rate
@@ -4029,17 +3930,15 @@ the liquidity and regulation of these transactions were fairly limited. While
 Norwegian K/S and German KG funds would also acquire assets and sepa-
 rately find long-term time charters, in most cases they were involved in leasing
 transactions. The importance of the German KG market, particularly for the
-containership industry, strengthened through the late 1990s and mid-2000s
-
-## 3 Overview of Shipping Finance
-
-83
-
-as the liner operators increased the chartered-in fleet to fund their expan-
+containership industry, strengthened through the late 1990s and mid-2000s as the liner operators increased the chartered-in fleet to fund their expan-
 sion and those vehicles provided a tax effi  cient investment for wealthy private
 individuals, given Germany’s high marginal tax rates. According to Stopford
 ( 2009 ), between 1991 and 2004 the portion of the container fleet chartered
 in by the liners increased from 15% to over 50% (Fig.  3.10 ).
+
+## 3 Overview of Shipping Finance
+
+83
 
 #### 3.2.3  Financing from Capital Markets
 
@@ -4097,9 +3996,7 @@ charters the ship
 **Fig. 3.10  Example of a leasing transaction**
 
 84
-F. Giannakoulis
-
-gap created by the withdrawal of many European banks from the shipping
+F. Giannakoulis gap created by the withdrawal of many European banks from the shipping
 market and the gradual shrinkage of their portfolios.
 3.2.3.1  Corporate Bonds
 Corporate bonds offer larger and more established shipping companies an
@@ -4135,13 +4032,7 @@ for equity. The lessons from the shipping bond issuances of the 1990s when
 many companies defaulted on their coupon payments, as well as the cases of
 companies like OSG and General Maritime that were forced into a Chap.  11
 restructuring during the tanker collapse in 2012 after they failed to refinance
-their maturing bonds, illustrate the risks that bonds might entail for shipping
-
-## 3 Overview of Shipping Finance
-
-85
-
-companies. Similar was the fortune of dry-bulk owner Excel Maritime that
+their maturing bonds, illustrate the risks that bonds might entail for shipping companies. Similar was the fortune of dry-bulk owner Excel Maritime that
 defaulted on its convertible notes in 2013 (Fig.  3.11 ).
 3.2.3.2  Public Equity Offerings
 Capital markets offer an effi  cient and quick way for shipping companies to raise
@@ -4152,6 +4043,10 @@ listed shipping companies and that offer access to investors and ample avail-
 ability of capital. According to Morgan Stanley Research data, between 2004
 and 2014, shipping companies raised over USD60 billion of common equity
 in 363 public offerings of which 118 were IPOs. Half of this activity was in the
+
+## 3 Overview of Shipping Finance
+
+85
 
 | Company | Issued | Amount | Currency | Coupon | Maturity |
 | :--- | ---: | ---: | :--- | ---: | ---: |
@@ -4231,13 +4126,7 @@ with the assistance of newly raised capital (Figs.  3.12 ,  3.13 ,  3.14 and  3.
 The structures of the shipping companies that access the public markets have
 varied significantly according to market valuations and investors’ appetites.
 The decline in interest rates during the last ten years and the increasing appe-
-tite for yield, particularly in the USA, has created a demand for companies
-
-## 3 Overview of Shipping Finance
-
-87
-
-that pay dividends. A large number of companies adopted a high or full-
+tite for yield, particularly in the USA, has created a demand for companies that pay dividends. A large number of companies adopted a high or full-
 payout dividend strategy due to the market’s willingness to pay significant
 valuation premiums relative to the market value of the fleet for companies
 with high dividends. More than half of the equity raised in the USA during
@@ -4247,6 +4136,10 @@ MLPs are publicly listed entities that combine stable revenue and tax ben-
 efi ts under US federal law when the majority of their income is generated from
 qualifying resources, mostly related to energy or other natural resources, such
 as petroleum and natural gas extraction and transportation. Most MLPs are
+
+## 3 Overview of Shipping Finance
+
+87
 
 **Fig. 3.12  Global shipping public offerings of common equity**
 
@@ -4326,13 +4219,7 @@ limited partnerships, but they can also be limited liability companies or busi-
 ness trusts that are managed and operated by a general partner who is owned
 by the sponsor. Because MLPs are classified as partnerships, they are treated as
 “pass through” for tax purposes and avoid corporate income tax at both state
-and federal levels, reducing therefore their cost of funding which allows them to
-
-## 3 Overview of Shipping Finance
-
-89
-
-pay higher distributions. MLPs typically distribute all their available cash flow
+and federal levels, reducing therefore their cost of funding which allows them to pay higher distributions. MLPs typically distribute all their available cash flow
 after taking into consideration the necessary retained reserves for  maintenance,
 operating and growth expenditures. The lack of corporate taxes for shipping
 companies has eliminated the requirement of shipping MLPs to be structured
@@ -4376,6 +4263,10 @@ Common
 LP Units
 Debt
 
+## 3 Overview of Shipping Finance
+
+89
+
 **Fig. 3.16  Typical MLP structure**
 
 90
@@ -4417,13 +4308,7 @@ out company, also commonly called a “blank check” company, which raises
 money through an IPO in order to pursue a business combination or the
 acquisition of an existing company or group of assets that fall within the
 parameters described in the prospectus. SPACs raise a blind pool of money
-that is placed in a trust account until the consummation of the proposed
-
-## 3 Overview of Shipping Finance
-
-91
-
-transaction that must first be approved by the shareholders, a process that
+that is placed in a trust account until the consummation of the proposed transaction that must first be approved by the shareholders, a process that
 must be completed within a predetermined period (usually 18–24 months)
 from the IPO. In the event that the shareholders reject the proposed transac-
 tion, the SPAC has to be dissolved and the funds returned to the investors
@@ -4449,6 +4334,10 @@ subsequent recovery, either through an asset sale or through an IPO. Some
 of these investments have taken place in the form of joint ventures with a
 shipowner where both parties contribute capital such as Oaktree with Petros
 **Fig. 3.17  US-listed shipping public offerings of common equity by payout strat-**
+
+## 3 Overview of Shipping Finance
+
+91
 
 egy ( Source : Company data, Morgan Stanley Research)
 92
@@ -4555,9 +4444,7 @@ Shipbuilding Finance
 Charles   R.   Cushing
 C. R.  Cushing (
 )
-C. R. Cushing & Co., Inc. ,  30 Vesey Street, 7th Floor ,  New York ,  NY  10007 ,  USA
-
-the capability to carry new or different cargoes. Another reason is to replace
+C. R. Cushing & Co., Inc. ,  30 Vesey Street, 7th Floor ,  New York ,  NY  10007 ,  USA the capability to carry new or different cargoes. Another reason is to replace
 aging or technologically obsolete vessels, or to take advantage of new technol-
 ogy. Non-transportation users of vessels are driven by the same reasons, that is
 new services, expansion of project work, obsolescence and technology.
@@ -4674,9 +4561,7 @@ els is a relatively straightforward task; but the forecasting of transportation
 pricing even over a short period is much more diffi  cult. Current and past
 price levels are available through conferences, stock analysts, brokers, agents,
 98
-C.R. Cushing
-
-published rates, trade publications and other research sources. The practice
+C.R. Cushing published rates, trade publications and other research sources. The practice
 of rebating, while very prevalent in the past, but now illegal in many places,
 is also diffi  cult to quantify since both shippers and carriers are reluctant to
 discuss details. The availability of bulk transport pricing data is even more
@@ -4715,16 +4600,14 @@ or temporarily depress prices.
 All of these factors make the work of the pricing forecaster extremely diffi  -
 cult. Nevertheless, such forecasts must be carried out since revenue represents
 one half of the equation, which defines profitability. Rate projections must
-be combined with a realistic assessment of capacity utilization in order to
+be combined with a realistic assessment of capacity utilization in order to arrive at planned income or revenue levels. It is important that the strategic
+planner understands the reliability of the assumptions, which must be made,
+limitations in such forecasts and the confidence limits in the projections. It
+is therefore necessary that sensitivity studies and risk analyses be carried out.
 
 ## 4 Shipbuilding Finance
 
 99
-
-arrive at planned income or revenue levels. It is important that the strategic
-planner understands the reliability of the assumptions, which must be made,
-limitations in such forecasts and the confidence limits in the projections. It
-is therefore necessary that sensitivity studies and risk analyses be carried out.
 
 #### 4.1.8  Plans
 
@@ -4761,9 +4644,7 @@ the company’s strategic plan should also be embodied in the mission statement.
 A second purpose of the mission statement is to prevent the unintentional
 or accidental deviation from the original objectives. It prevents deviation from
 100
-C.R. Cushing
-
-the agreed upon strategic plan, which in turn results in changes and cost over-
+C.R. Cushing the agreed upon strategic plan, which in turn results in changes and cost over-
 runs. When and if the early objectives change, the mission statement records
 these modifications. The mission statement becomes a control document that
 aids management and the vessel acquisition team in staying on course.
@@ -4801,13 +4682,7 @@ developed by the builder after the contract.
 #### 4.1.11  Sources of Ship Finance
 
 Th ere are three main sources of funds available to a purchaser to support the
-acquisition of a vessel: debt financing, equity financing and grants. Th ere are
-
-## 4 Shipbuilding Finance
-
-101
-
-many variations within these three conceptual sources. Th ese will be discussed
+acquisition of a vessel: debt financing, equity financing and grants. Th ere are many variations within these three conceptual sources. Th ese will be discussed
 in greater detail. Debt financing includes bank loans, bond issuers, shipyard
 credit, private and public offerings, loan syndications, high yield corporate
 debt (junk bonds), leasing and other debt instruments. Equity includes own-
@@ -4862,6 +4737,10 @@ Junk bonds, mezzanine financing
 102
 C.R. Cushing
 
+## 4 Shipbuilding Finance
+
+101
+
 #### 4.1.12  Ship Finance
 
 Ship finance provides sources of funds for the building of new vessels or major
@@ -4900,13 +4779,7 @@ Th ere are many sources of funds available to a shipowner planning new con-
 struction. For shipowners, commercial bank ship mortgage loans have been
 the most usual source. With the tightening of credit, more conservatism in
 bank loan reserves, and cyclical economic and market forces, shipowners have
-had to turn elsewhere. Lease financing has filled some of the gap. Shipping has
-
-## 4 Shipbuilding Finance
-
-103
-
-turned to equity investors for funding and the public markets for large financ-
+had to turn elsewhere. Lease financing has filled some of the gap. Shipping has turned to equity investors for funding and the public markets for large financ-
 ings. The availability of funds from different entities will depend on many
 factors, such as international and domestic economic conditions, the health
 of the shipping industry and particularly the ship-type sector (for example
@@ -4937,6 +4810,10 @@ liabilities), (2) the interest earned, (3) the debt to equity ratio, (4) the tot
 debt coverage, (5) the operating ratio and any guaranteed cash-flow charter
 contracts.
 
+## 4 Shipbuilding Finance
+
+103
+
 #### 4.1.14  Debt Financing
 
 Any form of financing that requires repayment is, in reality, debt financing.
@@ -4946,9 +4823,7 @@ The most usual source of debt financing is through commercial or govern-
 ment sources. Such loans are almost always collateralized with ship mortgages
 and other forms of security. Bank and similar loans never cover 100% of the
 104
-C.R. Cushing
-
-funds required. As their availability becomes restrictive, such loans will only
+C.R. Cushing funds required. As their availability becomes restrictive, such loans will only
 cover 60–80% of the value of the new vessel. Th ere are two main reasons
 why banks no longer lend 100% of the value of the new vessel to be built.
 First, the banks want the owner to be seriously committed to the venture;
@@ -5029,9 +4904,7 @@ provided to small shipping companies. Non-bank lenders tend to finance bor-
 rowers that traditional banks shun. Such borrowers include smaller vessels,
 smaller deals, financially inferior vessel owners or vessels of non-traditional
 106
-C.R. Cushing
-
-registries. Such borrowers may need to provide other methods that reduce
+C.R. Cushing registries. Such borrowers may need to provide other methods that reduce
 risks, such as corporate guarantees, personal guarantees or additional collat-
 eral. Hence, higher rates are charged for mezzanine financing. Th ese mez-
 zanine lenders tend to have less influence on the vessel construction process.
@@ -5066,13 +4939,7 @@ terms of the loan.
 #### 4.1.19  Shipyard Credit
 
 Another source of shipbuilding finance is shipyard credit, which is a way of
-competing for orders. Such financing may be (1)  buyer’s credit (the most usual
-
-## 4 Shipbuilding Finance
-
-107
-
-form of shipbuilding credit), where the loan is made directly to the buyer to
+competing for orders. Such financing may be (1)  buyer’s credit (the most usual form of shipbuilding credit), where the loan is made directly to the buyer to
 permit him or her to pay for the vessel before delivery; or (2)  builder’s or suppli-
 er’s credit , where the loan is made to the shipyard which agrees to defer repay-
 ments or a portion of the payments by the buyer until some time after delivery
@@ -5085,6 +4952,10 @@ Korea (KEXIM), Export-import Bank of U.S. (EXIM), CEXIM (China),
 Export Credit Guarantee Department (UK) (ECGD), Hermes (Germany)
 and Export-import Bank of China (EIBC), should ensure fair competition.
 The OECD and the WTO also attempt to control fair trade principles.
+
+## 4 Shipbuilding Finance
+
+107
 
 #### 4.1.20  Leasing
 
@@ -5112,9 +4983,7 @@ advantage of these tax benefits, is able to pass along some of these to a ship-
 ping company. The lessor also gains, unless otherwise agreed to, by owning
 the residual value of the vessel at the end of the lease. The lessor can then
 108
-C.R. Cushing
-
-re- lease or sell the vessel. The operating lease is sometimes referred to as a “wet
+C.R. Cushing re- lease or sell the vessel. The operating lease is sometimes referred to as a “wet
 lease”, where the lessor is responsible for providing the operating costs and
 maintaining, insuring and crewing the vessel.
 Most vessel leases are “leveraged leases”, where an investor provides a por-
@@ -5199,9 +5068,7 @@ one company may have access to lower fixed rates and the other company may
 have access to lower floating rates—so they trade. The most common type of
 a swap is refereed to as a “plain vanilla swap”. Here the companies typically
 110
-C.R. Cushing
-
-exchange fixed rate payments against floating rate payments. The principal
+C.R. Cushing exchange fixed rate payments against floating rate payments. The principal
 amounts are not exchanged, and are known as the notional principal. Where
 two counter-parties exchange a stream of interest payments (at a fixed rate) for
 (a floating rate), the two streams of payments are called “legs”.
@@ -5279,9 +5146,7 @@ enants are the most important ones governing most ship financing. The prob-
 lem with ship valuations in a declining market is that the traditional method
 for valuation is the potential price in the current market, but representative
 112
-C.R. Cushing
-
-prices may be hard to find. Ship valuations are provided by approved valua-
+C.R. Cushing prices may be hard to find. Ship valuations are provided by approved valua-
 tion experts on a “willing seller, willing buyer” basis. Th is methodology allows
 for the circumstances described here—for example, in a weak market there
 may be no “willing seller” and therefore the perceived market price is not the
@@ -5316,15 +5181,13 @@ times called an export-import bank (in the USA) or an investment insurance
 agency. Most developed, industrial countries have export credit agencies, mainly
 to stimulate manufacturing within their own country. Export credit agencies
 may be either private institutions or agencies of the government. Export credit
-agencies can provide direct lending to a project, provide  intermediary loans to
+agencies can provide direct lending to a project, provide  intermediary loans to commercial banks, subsidize the loan interest rate or provide loan guarantees.
+In shipbuilding scenarios, the benefits provided by export credit agencies are
+usually tied to specific domestically manufactured vessels.
 
 ## 4 Shipbuilding Finance
 
 113
-
-commercial banks, subsidize the loan interest rate or provide loan guarantees.
-In shipbuilding scenarios, the benefits provided by export credit agencies are
-usually tied to specific domestically manufactured vessels.
 
 #### 4.1.24  Hybrid Financing Schemes
 
@@ -5398,13 +5261,7 @@ interest ( riba ) is prohibited and any return on funds employed by the bank
 be earned by way of profit derived from a commercial risk taken by the bank.
 Th is means that the bank shares in the risks and rewards of the venture under-
 taken by the customer. Th erefore, the bank’s return is based on the customer’s
-success rather than an income stream based on the financial market’s interest
-
-## 4 Shipbuilding Finance
-
-115
-
-rates.  Gharar (uncertainty) and  maisir (direct speculation) are also banned by
+success rather than an income stream based on the financial market’s interest rates.  Gharar (uncertainty) and  maisir (direct speculation) are also banned by
 Islamic law. Financing cannot be made available to projects that contradict
 Islamic principles. Different forms of Islamic financing are suitable for differ-
 ent types of ship finance. For example, for new construction,  istisna is used,
@@ -5426,6 +5283,10 @@ receive a share of the bank’s profits. Islamic banks benefit greatly from the
 inherently low cost of funds available to them from depositors. Banks have
 boards of Islamic scholars (advisors) to review methods and operations and to
 act as advisors.
+
+## 4 Shipbuilding Finance
+
+115
 
 #### 4.1.26  Government Grants
 
@@ -5559,13 +5420,7 @@ as restrictive as public offerings. Private placements are also offered to selec
 of investors, and may be for stocks, bonds, warrants or promissory notes.
 With the financial crisis starting in 2008 and the drying up of ship finance
 sources, the industry in 2012 and 2013 turned to a merging of private equity
-investors and shipowners. In 2013 shipowners sought funds from private
-
-## 4 Shipbuilding Finance
-
-119
-
-equity firms. However, diffi  culties arose due to a basic disconnect in their fun-
+investors and shipowners. In 2013 shipowners sought funds from private equity firms. However, diffi  culties arose due to a basic disconnect in their fun-
 damental ways of doing business. Shipowners typically have complete control
 of operations, investment decision-making, chartering and reporting (or the
 lack of). Private equity firms, on the other hand, and notwithstanding that
@@ -5574,6 +5429,10 @@ ment and divesture decisions and to participate in operating and charter-
 ing decisions. Th ey prefer transparency and full reporting. Further, once they
 have achieved the targeted results they look to sell the assets, contrary to the
 traditional shipowner’s mode of operation.
+
+## 4 Shipbuilding Finance
+
+119
 
 #### 4.1.30  Venture Capital
 
@@ -5602,9 +5461,7 @@ lar distributions are put at risk. MLPs should be approached with caution.
 Shipbuilding contracts may be of a standard form, some of which are slanted
 towards the shipbuilder and hence are favored by them. Others favor the
 120
-C.R. Cushing
-
-owners. When using the standard forms, it is common for there to be amend-
+C.R. Cushing owners. When using the standard forms, it is common for there to be amend-
 ments and riders resulting from the negotiations between the parties.
 Some of the most common standard forms include:
 1.  BIMCO’s NEWBUILDCON: Baltic and International Maritime Council;
@@ -5685,9 +5542,7 @@ construction projects must be backed by performance bonds.
 The shipyard or contractor can obtain such a bond from a bank or insur-
 ance company. The cost of the performance bond to the shipyard will depend
 122
-C.R. Cushing
-
-on the type of bond, the amount of the bond and, most importantly, the risk
+C.R. Cushing on the type of bond, the amount of the bond and, most importantly, the risk
 of the applicant. The surety bond underwriters will closely examine the proj-
 ect, the history of risks, claims and litigation with the yard. The underwriters
 will then assign the bond price. Th is can cost, usually between 1 and 15% of
@@ -5799,9 +5654,7 @@ George   Paleokrassas
 G.  Paleokrassas (
 )
 Watson Farley & Williams ,  Building B, 348 Syngrou Avenue, Kallithea ,  Athens
-17674 ,  Greece
-
-many banks in order to become their customers. In an increasingly cau-
+17674 ,  Greece many banks in order to become their customers. In an increasingly cau-
 tious climate, banks need to ensure that the loans they book do not con-
 travene any international or local laws or regulations concerning sanctions,
 tax avoidance and share ownership, and also that they will comply with
@@ -5877,13 +5730,7 @@ in part) in the facility. Understandably, an owner may wish to limit the lend-
 ers’ freedom in this respect as it will want to have a say as regards the compo-
 sition of its lending group. On the other hand, a greater number of lenders
 are insisting on having an unfettered right to transfer their participation in
-shipping loans which is particularly useful when a lender is seeking to sell or
-
-## 5 Debt Financing in Shipping
-
-127
-
-transfer the whole or a part of its shipping portfolio (there have been a num-
+shipping loans which is particularly useful when a lender is seeking to sell or transfer the whole or a part of its shipping portfolio (there have been a num-
 ber of examples of such portfolio transfers in the last few years) or to sell its
 participation in a non-performing loan or a loan with a customer with which
 the lender does not want to continue a lending relationship.
@@ -5917,9 +5764,7 @@ Vessels
 If the ship being financed is a newbuilding, a part of the facility may finance
 the pre-delivery or “milestone” payments to be made to the shipbuilder
 128
-G. Paleokrassas
-
-during the construction of the ship (this is commonly referred to as “pre-
+G. Paleokrassas during the construction of the ship (this is commonly referred to as “pre-
 delivery” financing). In a pre-delivery financing the lender will want to satisfy
 itself regarding the reputation of the shipbuilder, in particular the ability of
 the latter to complete the construction of the newbuilding in accordance with
@@ -5958,13 +5803,7 @@ nage through the acquisition of second-hand ships. In this case, the lender
 will seek to receive a survey report in respect of the ship’s condition, ask to
 review the records of the applicable classification society and ask its lawyers to
 obtain evidence that, at the time of its acquisition by the borrower, the ship
-is registered in the ownership of the borrower under a flag acceptable to the
-
-## 5 Debt Financing in Shipping
-
-129
-
-lender and is free of liens and other encumbrances. In addition, the lender will
+is registered in the ownership of the borrower under a flag acceptable to the lender and is free of liens and other encumbrances. In addition, the lender will
 require that its mortgage has been duly registered with the requisite priority
 at the ship’s registry (as well as ensuring that all other security for the facility
 has been received by it). It will also want to be satisfied with regard to the
@@ -5999,9 +5838,7 @@ your customer” requirements of the lender, the granting of the required secu-
 rities, the provision of valid ship certificates and the receipt by the lender of
 legal opinions confirming, amongst other things, the due incorporation and
 130
-G. Paleokrassas
-
-valid existence of the borrower and any other party which is providing secu-
+G. Paleokrassas valid existence of the borrower and any other party which is providing secu-
 rity to the lender and the validity and enforceability of the lender’s security.
 5.2.1.7  Currency
 Since most of the income in the shipping industry is generated and pay-
@@ -6034,13 +5871,7 @@ ket value, or sometimes the expected scrap value, of the ship when the loan
 matures) is payable on the final repayment date.
 Revolving credit facilities are also appropriate for borrowers wishing to
 obtain finance for their working capital needs or for borrowers who want a
-“war chest” to finance the acquisition of ships to be identified by them in
-
-## 5 Debt Financing in Shipping
-
-131
-
-the future (sometimes referred to as a “hunting license”). As opposed to a
+“war chest” to finance the acquisition of ships to be identified by them in the future (sometimes referred to as a “hunting license”). As opposed to a
 term loan facility (under which any repaid amounts cannot be reborrowed), a
 revolving facility guarantees a maximum facility amount, which the borrower
 can draw, repay and redraw during the tenor of the facility. The borrower pays
@@ -6079,6 +5910,18 @@ The floating interest rate is expressed as the aggregate of the London
 Interbank Offered Rate (LIBOR) (or the Euro Interbank Offered Rate
 132
 G. Paleokrassas
+
+## 5 Debt Financing in Shipping
+
+127
+
+## 5 Debt Financing in Shipping
+
+129
+
+## 5 Debt Financing in Shipping
+
+131
 
 (Euribor) if the facility is advanced in euros), the agreed margin and, in
 certain cases, mandatory costs (being the lender’s cost of compliance with
@@ -6158,9 +6001,7 @@ the payment of dividends and the incurrence of further financial indebtedness
 is permitted subject to the satisfaction of certain conditions). As tax, financial
 and trade regulations worldwide become more complicated and far-reaching,
 134
-G. Paleokrassas
-
-sophisticated clauses in relation to the borrower’s compliance with environ-
+G. Paleokrassas sophisticated clauses in relation to the borrower’s compliance with environ-
 mental laws, imposed sanctions, money laundering legislation and require-
 ments of the US Foreign Account Tax Compliance Act (FATCA) have been
 introduced into, and are now commonly found in, loan agreements.
@@ -6235,9 +6076,7 @@ to mitigate its risks, a financial institution acting as lessor becomes the owne
 of the ship, acquiring in this way the increased protection owners are afforded
 by law. The lessor’s position may be further enhanced by way of the lessee
 136
-G. Paleokrassas
-
-assigning in its favor any rights the lessee has under the insurance policies
+G. Paleokrassas assigning in its favor any rights the lessee has under the insurance policies
 regarding the ship and/or any contracts of employment to be entered into by
 the lessee. The lessor may in turn offer the ship and title to it as security to a
 lender in order to obtain financing itself. Th is will be the case if the lessor is
@@ -6276,13 +6115,7 @@ of exercise of the option until the end of the term of the lease.
 
 The section above dealing with syndicated debt financing provided a sum-
 mary of the manner in which more than one lender may participate in a debt
-financing. An alternative to arranging such a syndication is for a borrower to
-
-## 5 Debt Financing in Shipping
-
-137
-
-issue bonds, which usually incorporate only the key terms applicable to the
+financing. An alternative to arranging such a syndication is for a borrower to issue bonds, which usually incorporate only the key terms applicable to the
 bonds such as the principal amount, the applicable interest rate and their
 maturity, whilst the remaining detailed provisions in respect of the obliga-
 tions undertaken by the issuer are set out in a master document, such as an
@@ -6325,6 +6158,10 @@ unsecured creditors.
 138
 G. Paleokrassas
 
+## 5 Debt Financing in Shipping
+
+137
+
 Th ere was a large number of shipping companies which issued bonds in
 the late 1990s in the US capital markets. Many of the issuers ended up buy-
 ing back their bonds at a discount (in certain cases significant) either because
@@ -6363,13 +6200,7 @@ ment. Mezzanine lenders, who rank between the senior lenders and the share-
 holders, are rewarded for assuming a significantly greater level of risk—as
 compared to the senior lenders—with a higher return in the form of a higher
 interest margin, a fee or “promote” (an agreed percentage of the profits or
-income of the borrower, usually above a certain threshold) or even the right to
-
-## 5 Debt Financing in Shipping
-
-139
-
-convert their debt into shares of the borrower. Any such fee or promote will
+income of the borrower, usually above a certain threshold) or even the right to convert their debt into shares of the borrower. Any such fee or promote will
 be payable on the condition that certain targets (set by reference to the inter-
 nal rate of return, net positions, income, etc.) are achieved and will allow the
 mezzanine lender to share in the profits of the borrower or to receive shares in
@@ -6392,6 +6223,10 @@ provide both the senior debt and the mezzanine debt, whilst the extent of the
 participation of each bank in the senior or the mezzanine debt will vary and
 depend on its risk appetite.
 
+## 5 Debt Financing in Shipping
+
+139
+
 #### 5.2.5  Export Credit Agencies
 
 A number of countries with long traditions in shipbuilding, such as China,
@@ -6409,9 +6244,7 @@ countries of the OECD are also members of the OECD’s Working Party on
 Export Credits and Credit Guarantees or Export Credit Group. Amongst its
 objectives is the review and evaluation of the relevant policies of ECAs and
 140
-G. Paleokrassas
-
-the development of common guiding principles. Accordingly, the OECD has
+G. Paleokrassas the development of common guiding principles. Accordingly, the OECD has
 updated its arrangement on offi  cially supported export credits, which sets out
 guidance on various aspects of an ECA-backed financing, including the maxi-
 mum repayment term and frequency of interest payments.
@@ -6448,17 +6281,15 @@ A critical consideration for the lender in terms of determining its assessment
 of the risk in any particular transaction is the security package that it can
 receive from the borrower and its group. A notable development in this area
 is the increase in corporate, rather than personal, guarantees, owing to the
-increase in shipping groups adopting a corporate structure, together with the
-
-## 5 Debt Financing in Shipping
-
-141
-
-increasing frequency of pledges of shares being demanded as part of a lender’s
+increase in shipping groups adopting a corporate structure, together with the increasing frequency of pledges of shares being demanded as part of a lender’s
 security package. Lenders will always need to check with local counsel any
 perfection requirements in the relevant jurisdictions, as these will be critical
 in ensuring a lender’s priority over unsecured creditors in an enforcement
 situation.
+
+## 5 Debt Financing in Shipping
+
+141
 
 #### 5.3.1  The Ship Mortgage
 
@@ -6492,9 +6323,7 @@ One of the principal remedies of a lender is the right to take possession
 of the mortgaged ship, which can be done either actually or constructively
 through the giving of notice to the owner and any charterer. However, this
 142
-G. Paleokrassas
-
-right is rarely exercised by lenders in practice as, whilst taking possession of the
+G. Paleokrassas right is rarely exercised by lenders in practice as, whilst taking possession of the
 ship entitles a lender to receive the ship’s earnings, a mortgagee-in- possession
 becomes responsible for its trade debts which often cannot be accurately
 determined by a lender. The lender can also usually choose to enforce its
@@ -6574,9 +6403,7 @@ consider whether it will finance a ship or ships through a standard loan or
 credit facility (and whether or not this will be backed by an export agency),
 a leasing structure, a bond issue or, in addition to a standard loan or credit
 144
-G. Paleokrassas
-
-facility, a mezzanine facility. The option to be chosen in each case will depend
+G. Paleokrassas facility, a mezzanine facility. The option to be chosen in each case will depend
 on a number of factors such as the risk-appetite of a lender, the commercial
 requirements of a borrower, the relative bargaining strength of the parties and
 the market conditions prevailing at the relevant time.
@@ -6664,9 +6491,7 @@ borrower deteriorates, the value of the bonds drops (they are known to trade at
 a discount); in such a case, the yield increases (the coupon remains constant,
 thus the same coupon payment is received for a smaller investment), and thus
 148
-B.M. Karatzas
-
-the value and yield on the bonds move in an inverted relationship. Likewise,
+B.M. Karatzas the value and yield on the bonds move in an inverted relationship. Likewise,
 bonds trading above their face value are said to be trading at a premium, and
 their yield drops accordingly. The annual interest payment divided by the cur-
 rent market value of the bond is called the “current yield” or “running yield”.
@@ -6701,13 +6526,7 @@ Ship is now perceived as having greater ability to meet his future bond obliga-
 tions, or the overall interest rate environment has benefited from  expansionary
 monetary policy and interest rates in general have dropped. Th us, the 8%
 annual interest on Mr Big Ship’s bonds now looks comparatively more
-attractive, and investors in the secondary market would now have a stronger
-
-## 6 Public Debt Markets for Shipping
-
-149
-
-appetite to buy these bonds. Let’s say that they bid the price of the bonds
+attractive, and investors in the secondary market would now have a stronger appetite to buy these bonds. Let’s say that they bid the price of the bonds
 to 125.00 (from 100.00 that was the face value), bringing the current yield
 down to 6.4 from 8% (USD40 coupon payments twice in one year over a
 USD1,250 investment yield 6.4%). Nothing otherwise has changed with the
@@ -6745,9 +6564,7 @@ or two qualified investors (creditors) through a private placement, most of
 the time no filing with the regulators is required, and this private bond place-
 ment can very much resemble a custom-offered loan, only that in this case
 150
-B.M. Karatzas
-
-the creditor is not a bank (a creditor holding a banking license) but an insti-
+B.M. Karatzas the creditor is not a bank (a creditor holding a banking license) but an insti-
 tutional investor, a family offi  ce or even a wealthy individual. A private place-
 ment may offer more flexibility on structuring the terms and covenants than a
 public bond offering or a shipping loan, but typically private debt placements
@@ -6785,13 +6602,7 @@ one would expect, the rating of bonds of major shipping companies can attain
 higher grades (investment grade or thereabouts), reflecting characteristics of
 their business model that make performance of such bonds less susceptible to
 market volatility. Characteristics that typically and positively affect credit rat-
-ings are long-term contracts with end-user charterers (e.g. mining and major
-
-## 6 Public Debt Markets for Shipping
-
-151
-
-oil companies, steel mills), trading houses or importers and exporters with
+ings are long-term contracts with end-user charterers (e.g. mining and major oil companies, steel mills), trading houses or importers and exporters with
 high credit standing; additional characteristics are bond issuers benefiting
 from strategic advantages such as access to ports and port facilities, and niche
 or protected markets, such as companies with vessels involved in coastal or
@@ -6830,9 +6641,7 @@ industry-specific characteristics of the bonds. Such specialized underwriters
 can be investments banks that have built a reputation on issuing and trading
 shipping bonds over several business cycles or have access to specific groups of
 152
-B.M. Karatzas
-
-investors with an appetite for such riskier bonds; for instance, a group of inves-
+B.M. Karatzas investors with an appetite for such riskier bonds; for instance, a group of inves-
 tors whose mandate is for riskier investments or investors with deep knowl-
 edge of the shipping industry—such as Norwegian investors, who are already
 familiar with shipping investments in public (Oslo Børs) or private equity
@@ -7003,6 +6812,14 @@ to base a rang, or that Standard & Poor’s does not rate a parcular obligaon
 policy.
 *The rang from ‘AA’ to ‘CCC’ may be modified by the addion of a plus (+) or minus (-) sign to show relave standing within the major
 
+## 6 Public Debt Markets for Shipping
+
+149
+
+## 6 Public Debt Markets for Shipping
+
+151
+
 **Fig. 6.1  Credit rating of bonds and typical distribution of shipping bonds ( Source :**
 
 The ratings from ‘AA’ to ‘CCC’ may be modified by the addition of a plus (+) or
@@ -7051,9 +6868,7 @@ shipping bonds was the high-yield era of the late 1990s. Th ose were the years
 with historically strong economic growth in the USA when stock indices were
 setting all time new highs and retail investors were day-trading as hobby on
 154
-B.M. Karatzas
-
-the promise of new technologies and the “dot.com” era boom; those were
+B.M. Karatzas the promise of new technologies and the “dot.com” era boom; those were
 also the years when China ascended to the WTO and the early hope of a
 new huge market joining the world stage. Almost 15 years later, and with a
 profound financial crisis forcing governments and central banks worldwide
@@ -7091,18 +6906,16 @@ issued approximately USD670 million in shipping bonds secured by a fleet
 of VLCC tankers and their employment with a coupon of 8.13%. In 2014,
 US-based and private equity (PE)-sponsored Ridgebury Tankers raised asset-
 backed bonds in the Norwegian market with a 65% leverage (meaning 65%
-of the then present value of the assigned vessels) on a 6.75% coupon, which
-
-## 6 Public Debt Markets for Shipping
-
-155
-
-was slightly better than prevailing ship lending conditions, though with two
+of the then present value of the assigned vessels) on a 6.75% coupon, which was slightly better than prevailing ship lending conditions, though with two
 strong advantages attached to the bond issuing: (a) the principal was due
 on the maturity date (while any ship mortgage arrangement would have a
 meaningful amortization schedule) and (b) no employment restrictions or
 time-charter requirement capped the company’s market exposure in the event
 of strong freight rates (a scenario that did develop actually).
+
+## 6 Public Debt Markets for Shipping
+
+155
 
 ### 6.11  Considerations for the Cost of Shipping
 
@@ -7137,9 +6950,7 @@ shipping bonds for smaller shipowners are clearly much more expensive than
 this. However, post-Lehman Brother collapse when shipping banks stopped
 lending to second-tier owners and debt financing could be found from credit
 156
-B.M. Karatzas
-
-funds at much higher rates and stricter terms, shipping bonds have become
+B.M. Karatzas funds at much higher rates and stricter terms, shipping bonds have become
 again a viable option given the alternatives.
 
 ### 6.12  Difference from Shipping Loans
@@ -7177,13 +6988,7 @@ evaluate the bonds and the probability that the borrower will perform on their
 obligations. In terms of expedience, although the time a shipping bank can
 authorize a loan depends on several factors, in general the issuing of bonds is
 much more time consuming in terms of preparing and filing documentation
-and mainly concerns communicating with investors, holding a roadshow and
-
-## 6 Public Debt Markets for Shipping
-
-157
-
-getting the fund commitments. Accordingly, the associated costs and fees are
+and mainly concerns communicating with investors, holding a roadshow and getting the fund commitments. Accordingly, the associated costs and fees are
 much higher for bonds than the origination and commitment fees that a typi-
 cal shipping loan will cost. Th erefore, shipping loans depend upon and assure
 privacy and discretion between the parties, and they are typically time and
@@ -7224,9 +7029,7 @@ the shipping industry are comparatively small; thus, smaller issuers have to be
 accommodated as well. It should be noted that substantial shipping compa-
 nies or shipowners with relatively large fleets, businesses well established over
 158
-B.M. Karatzas
-
-the long term, proven track records and business models often get the most
+B.M. Karatzas the long term, proven track records and business models often get the most
 attention and the best pricing and terms of issuing, including smaller transac-
 tion fees.
 An aspect associated with shipping bonds, which is usually highly appreci-
@@ -7265,13 +7068,7 @@ in the bonds but none of them holding a meaningful stake) or institutional
 investors (where one or a handful of them can hold a predominant position
 and thus can control the creditors’ committee). When the bondholders are
 institutional investors, they are professional money managers, driven mainly
-by returns on their investments and having in-house expertise and access to
-
-## 6 Public Debt Markets for Shipping
-
-159
-
-advisors and bankruptcy lawyers (most likely they have had to deal with a
+by returns on their investments and having in-house expertise and access to advisors and bankruptcy lawyers (most likely they have had to deal with a
 bond default before, if not in shipping then in other industries). In the past,
 mostly during the defaults in the 1990s, there have been cases where the
 majority of retail bondholders didn’t manage to mount a spirited representa-
@@ -7281,6 +7078,14 @@ in the case of defaulting on shipping bonds where the bondholders’ commit-
 tee is controlled by institutional investors, typically the borrowers can expect
 stronger negotiations and professional efforts to recover as much money as
 possible, exhausting all options and legal venues.
+
+## 6 Public Debt Markets for Shipping
+
+157
+
+## 6 Public Debt Markets for Shipping
+
+159
 
 ### 6.13  Classification of Shipping Bonds Based on Collateral
 A bond, as a standard debt instrument, has to offer to creditors certain assur-
@@ -7473,9 +7278,7 @@ $6,01,02,25,000
 AVERAGE
 Source: Karatzas Marine Advisors & Co.
 162
-B.M. Karatzas
-
-the Lehman Brothers collapse, such bonds were effectively collateralized loan
+B.M. Karatzas the Lehman Brothers collapse, such bonds were effectively collateralized loan
 obligations (CLOs), but the market for shipping loans offered as collateral
 had never taken off . As mentioned already, asset-backed shipping bonds are
 relatively expensive forms of debt; any bond issuing, in order to have eco-
@@ -7559,9 +7362,7 @@ Singaporean dollar (in 2012, Neptune Orient Lines issued SGD300 million
 at a 4.4% coupon with a maturity in 2019); the euro (German based Hapag
 Lloyd issued in 2014 EUR200 million of shipping bonds at a 7.5% coupon
 164
-B.M. Karatzas
-
-with a 2019 maturity); the Chinese Renminbi, but also the offshore Chinese
+B.M. Karatzas with a 2019 maturity); the Chinese Renminbi, but also the offshore Chinese
 Renminbi (dim sum bonds in Hong Kong, for example; COSCO issued
 RMB5 billion in 2010 with a 2020 maturity at 4.35%); the Japanese yen,
 which is often the currency of preference for bond issuings by the Japanese
@@ -7599,14 +7400,12 @@ restructurings when the borrower cannot support both interest and princi-
 pal repayments, and a perpetual schedule of coupon payments is in the best
 interest for the time being for both lenders and borrower. 8 In 2013, Euronav,
 based in Belgium, issued USD150 million of perpetual convertible bonds 9
-with a coupon of 6%. In 2012, Swiber Holdings and Ezion Holdings, both
+with a coupon of 6%. In 2012, Swiber Holdings and Ezion Holdings, both active in the offshore industry, issued SGD80 million at a 9.75% coupon and
+SGD125 million at a 7.8% perpetual note, respectively.
 
 ## 6 Public Debt Markets for Shipping
 
 165
-
-active in the offshore industry, issued SGD80 million at a 9.75% coupon and
-SGD125 million at a 7.8% perpetual note, respectively.
 
 #### 6.15.4  Interest Rate Commitment
 
@@ -7645,9 +7444,7 @@ tion (now as equity) when the market or the borrower develops in a favorable
 way. Shipping bonds, being risky in nature, typically require “sweeteners” for
 buyers of bonds to be enticed. The convertible is the commonest way to allow
 166
-B.M. Karatzas
-
-a better return to the bondholders, which, at least initially, does not impair
+B.M. Karatzas a better return to the bondholders, which, at least initially, does not impair
 the issuer’s cash flows.
 
 #### 6.15.6  Seniority
@@ -7684,13 +7481,7 @@ companies with an elaborate capital structure and substantial balance sheet.
 
 Shipping bonds are just another tool in the financial toolbox of a shipowner
 for accessing financial gearing. Until the financial crisis of 2008, there had
-been suffi  cient capacity from shipping banks to provide shipping loans
-
-## 6 Public Debt Markets for Shipping
-
-167
-
-plentifully and cheaply so that shipping bonds were mostly utilized by major
+been suffi  cient capacity from shipping banks to provide shipping loans plentifully and cheaply so that shipping bonds were mostly utilized by major
 shipping companies that could issue corporate bonds with low coupons; in
 such an environment, shipping bonds, especially asset-backed bonds, were a
 novelty for most other shipping companies that were opportunistically at lim-
@@ -7724,6 +7515,10 @@ perpetual-debt-issuance .
 9.  http://rmkmaritime.com/press/PressRelease_issuancePCP_ENG.pdf .
 168
 B.M. Karatzas
+
+## 6 Public Debt Markets for Shipping
+
+167
 
 © The Author(s) 2016
 M.G. Kavussanos, I.D. Visvikis (eds.), The International Handbook of
@@ -7810,9 +7605,7 @@ Equity-Linked
 
 Jefferies)
 170
-J. Pribor and C.S. Lind
-
-in industries linked to natural resources as well as real estate development.
+J. Pribor and C.S. Lind in industries linked to natural resources as well as real estate development.
 Th ere are two categories of partners in LPs and MLPs: the limited partners
 and the general partner. The limited partner is an individual investor or a
 group of investors that provides the capital to the partnership; that is, the
@@ -7850,13 +7643,7 @@ Special Purpose Acquisition Vehicles (SPACs)  A SPAC, often referred to as
 a “shell company” or a type of “blank check company”, is a development
 stage company that has indicated that its business plan is to acquire another
 company with the proceeds of its public offering. SPACs typically have an
-18–24 months deadline to complete an acquisition that must satisfy specified
-
-## 7 Public and Private Equity Markets
-
-171
-
-requirements. If the SPAC is unsuccessful in making an acquisition, the pro-
+18–24 months deadline to complete an acquisition that must satisfy specified requirements. If the SPAC is unsuccessful in making an acquisition, the pro-
 ceeds—plus interest earned—must be returned to investors. SPACs are often
 used as vehicles in reverse mergers in order to facilitate the process of taking
 the private purchasing entity public. Reverse mergers allow private companies
@@ -7907,6 +7694,10 @@ Operang Limited Partnership
 C-Corp
 C-Corporaons vs. MLP Structural Comparison
 Typical MLP Structure
+
+## 7 Public and Private Equity Markets
+
+171
 
 **Fig. 7.2  US C-corporation structure vs MLP structure ( Source : Jefferies)**
 
@@ -7999,9 +7790,7 @@ Pressure from Market to Focus on Short-Term Results and Hit Earnings
 Estimates  Public companies may increase the focus on short-term results instead
 of long-term growth strategies, as a response to pressure from the market to meet
 174
-J. Pribor and C.S. Lind
-
-or exceed current earnings estimates. Public investors often have short-term
+J. Pribor and C.S. Lind or exceed current earnings estimates. Public investors often have short-term
 investment objectives, sometimes at the cost of curtailing long-term opportuni-
 ties, thus putting pressure on the company’s management for immediate positive
 results that will drive the stock price higher as opposed to valuing meaningful
@@ -8037,13 +7826,7 @@ trade fundamentals, especially the industrialization of the Chinese economy
 that drove strong demand for raw materials, supported high charter rates and
 boosted shipping asset values higher, which in turn drove favorable company
 valuations. The strong fundamentals provided shipping companies with the
-ability to promise investors high dividend yields and potential for capital
-
-## 7 Public and Private Equity Markets
-
-175
-
-appreciation. As the shipping industry’s relationship with the public equity
+ability to promise investors high dividend yields and potential for capital appreciation. As the shipping industry’s relationship with the public equity
 market has developed, the composition and characteristics of public shipping
 companies has evolved alongside it. In the early 2000s, shipping companies
 with small fleets, often with a vessel count below ten, found enough traction
@@ -8081,9 +7864,7 @@ ency and maintenance standards. For shipping companies who have tradition-
 ally operated in a comparatively opaque cross-border business environment
 and kept the majority of any company information confidential, the SEC’s
 176
-J. Pribor and C.S. Lind
-
-transparency standards can be challenging to accept. It is often a key deter-
+J. Pribor and C.S. Lind transparency standards can be challenging to accept. It is often a key deter-
 rence in keeping a company from pursuing an IPO on a regulated exchange.
 OTC Exchanges  Of the OTC markets, the Norwegian OTC market (NOTC)
 is the most active in the shipping sector. For most issuers, time is money,
@@ -8137,6 +7918,10 @@ Response
 Markeng,
 Pricing &
 Aermarket
+
+## 7 Public and Private Equity Markets
+
+175
 
 **Fig. 7.4  IPO process on a senior exchange in the USA ( Source : Jefferies)**
 
@@ -8223,13 +8008,7 @@ prior to the roadshow launch, the S-1 or F-1 will have its final amendment,
 which will include the filing price range and the number of shares offered.
 Marketing, Pricing and Aftermarket  In the fourth and final stage of the pro-
 cess, the management and bookrunners will undertake a roadshow covering
-key geographic regions where potential investors are located. Bookrunners
-
-## 7 Public and Private Equity Markets
-
-179
-
-will receive investor feedback and consolidate indications of interest. The final
+key geographic regions where potential investors are located. Bookrunners will receive investor feedback and consolidate indications of interest. The final
 pricing is dependent on overall investor demand and picking a price point
 that assures strong aftermarket trading performance. For shipping IPOs, an
 important factor in selecting an underwriter and bookrunners involves con-
@@ -8252,6 +8031,10 @@ outstanding not held by insiders, directors or shareholders who control 10%
 or more of voting power. In a traditional IPO, the public float is typically
 20–30% of the equity value.
 **Fig. 7.5  Aftermarket trading: shipping IPOs 2008–14 ( Source : Bloomberg)**
+
+## 7 Public and Private Equity Markets
+
+179
 
 180
 J. Pribor and C.S. Lind
@@ -8293,13 +8076,7 @@ essential for their growth prospects.
 The Shipping IPO Market   As with any sector, a shipping IPO cannot launch
 without an open window of opportunity, which depends on various sector-
 specific trends, such as current freight rates and the freight rate projection tra-
-jectory as well as worldwide macro-fundamentals related to general economic
-
-## 7 Public and Private Equity Markets
-
-181
-
-cycles and international trade. The public equity markets will often experience
+jectory as well as worldwide macro-fundamentals related to general economic cycles and international trade. The public equity markets will often experience
 shipping companies operating within a certain sector wanting to access the
 public equity market at the same time due to favorable market dynamics and
 sector-specific fundamental drivers. For example, roughly half of the ship-
@@ -8321,6 +8098,10 @@ having a mediocre industry position and high customer concentration make
 the company especially vulnerable to investor scrutiny. Pending material liti-
 gation, messy financials and auditor issues also make for a less than ideal IPO
 candidate.
+
+## 7 Public and Private Equity Markets
+
+181
 
 #### 7.2.4  Shipping Equity Valuation
 
@@ -8544,13 +8325,7 @@ market conditions, which consisted of a strong backlog of IPOs on file and
 lackluster dry-bulk freight rates, Opera’s opportunity to go public faded and
 forced the investors to consider other potential exits instead. In June 2014,
 Opera agreed to merge with Sun Shipping, a publicly traded dry- bulk com-
-pany, of which one of the industry veteran partners was formerly the  chairman
-
-## 7 Public and Private Equity Markets
-
-187
-
-of. The merger created the largest US-listed dry-bulk company with a fully
+pany, of which one of the industry veteran partners was formerly the  chairman of. The merger created the largest US-listed dry-bulk company with a fully
 delivered fleet of 69 vessels and one of the largest eco-fleets in the world. The
 merger consisted of Sun Shipping issuing 54.1 million shares of common
 stock to Oscar and partners at the transaction consideration. While an IPO
@@ -8559,6 +8334,10 @@ proved to be an optimal exit solution that provided Opera shareholders with a
 liquid currency and Sun Shipping shareholders with built-in growth, top-tier
 management additions (as the industry veteran partners stepped in as CEO
 and president) and an increased market capitalization.
+
+## 7 Public and Private Equity Markets
+
+187
 
 #### 7.3.3  Other
 
@@ -8634,9 +8413,7 @@ I.  Alexopoulos (
 )
 Eurofi n S.A. ,  11 Neofytou Douka Str. ,  106 74  Athens ,  Greece
 N.  Stratis
-Augustea Group ,  57 Ullswater Crescent ,  London  SW15 3RG ,  UK
-
-globalized environment. In order to meet the increased demand for shipping
+Augustea Group ,  57 Ullswater Crescent ,  London  SW15 3RG ,  UK globalized environment. In order to meet the increased demand for shipping
 services, international shipowners embarked on an impressive fleet expansion
 and modernization process, placing a large number of newbuilding orders in
 Japan, China and Korea.
@@ -8677,9 +8454,7 @@ fully tapping alternative financing structures.
 Korean, Chinese and Japanese (to a lesser extent) government controlled
 financial institutions and export credit agencies (ECAs) represent an alternative
 192
-I. Alexopoulos and N. Stratis
-
-capital source that was successfully tapped by the international shipping com-
+I. Alexopoulos and N. Stratis capital source that was successfully tapped by the international shipping com-
 munity. Th ese institutions were quick to step in and support shipowners with
 their newbuilding programs in their respective countries. Furthermore, other
 alternative financing structures such as leasing and mezzanine finance have
@@ -8832,9 +8607,7 @@ jointly with the
 **Fig. 8.2  Export Credit Agency direct loan to buyer/importer**
 
 196
-I. Alexopoulos and N. Stratis
-
-export–import banks Korea Export Import Bank (KEXIM), CEXIM and
+I. Alexopoulos and N. Stratis export–import banks Korea Export Import Bank (KEXIM), CEXIM and
 Japan Bank for International Cooperation (JBIC) will be involved as direct
 lenders in such financing arrangements.
 A financing may also be offered by an ECA in the form of an interest
@@ -9001,9 +8774,7 @@ structures rely on equity committed by the leasing company and senior debt
 sourced from banking institutions. As a result, the main two parameters that
 ultimately determine the overall cost (pricing) of a leasing structure are driven
 200
-I. Alexopoulos and N. Stratis
-
-by the leasing company’s return on equity requirements for undertaken risks
+I. Alexopoulos and N. Stratis by the leasing company’s return on equity requirements for undertaken risks
 and its ability to source adequate levels of debt at competitive pricing. Th is is
 why a wide variation on pricing exists between leasing companies.
 As shown in Fig.  8.3 , in a typical ship leasing structure, a leasing institution
@@ -9108,13 +8879,7 @@ which, thus, assumes all asset residual risk, technical risk and operational ris
 Dry-docking/special survey downtime is also borne by the lessor, who has the
 obligation to crew and maintain the asset.
 Lessee Drawbacks of an Operating Lease  As already discussed, lease struc-
-tures generally tend to offer higher levels of finance than senior, secured,
-
-## 8 Structured Finance in Shipping
-
-203
-
-plain vanilla debt finance. The overall (high-leveraged) lease structure will,
+tures generally tend to offer higher levels of finance than senior, secured, plain vanilla debt finance. The overall (high-leveraged) lease structure will,
 thus, have an increased pricing when compared against a (lower leveraged)
 traditional, senior, secured debt facility—this is one of the main drawbacks
 of operating leases in exchange for the benefits they offer. Furthermore, the
@@ -9155,6 +8920,10 @@ being classified as operating (off -balance sheet) leases as opposed to finance
 204
 I. Alexopoulos and N. Stratis
 
+## 8 Structured Finance in Shipping
+
+203
+
 #### 8.3.4  Ship Lease Providers
 
 Lease providers for the shipping industry can be classified into three broad
@@ -9192,13 +8961,7 @@ In relation to lease structures under category 3, it should be noted that
 post-2008 and in particular during the period 2010–13, significant influx of
 external capital has been attracted to the industry from the insurance, pension
 and PE sectors. Despite shipping not representing a typical industry for such
-capital providers due to high volatility and unpredictability of earnings and
-
-## 8 Structured Finance in Shipping
-
-205
-
-values, it has nevertheless attracted such capital. The interest of this capital
+capital providers due to high volatility and unpredictability of earnings and values, it has nevertheless attracted such capital. The interest of this capital
 in the industry has been fueled by the significant correction of earnings and
 values noted during the post-2008 financial crisis, and the evaporation of tra-
 ditional ship finance sources following the banking crisis, while memories of
@@ -9211,6 +8974,10 @@ cations and they tend to target returns that shipping does not always deliver
 within such tightly defined time frames.
 8.4
 Mezzanine Ship Finance
+
+## 8 Structured Finance in Shipping
+
+205
 
 #### 8.4.1  Forms of Mezzanine Finance in Shipping
 
@@ -9236,9 +9003,7 @@ Capitalisaon
 **Fig. 8.4  Capital structure with mezzanine finance**
 
 206
-I. Alexopoulos and N. Stratis
-
-what is commonly known as “an inter-creditor agreement” or “coordination
+I. Alexopoulos and N. Stratis what is commonly known as “an inter-creditor agreement” or “coordination
 deed”. Th is document is negotiated between the senior and mezzanine lender
 and basically outlines that a mezzanine lender can enforce its securities only
 once the senior lender’s obligations have been satisfied in full.
@@ -9276,13 +9041,7 @@ instrument, it always commands higher pricing and it is quite common to
 aim to enhance its pricing from equity linked performance parameters, such
 as an equity kicker or equity conversion rights.
 Mezzanine facilities may follow an amortizing schedule, much like a senior
-debt loan, but may also offer what is known as a “bullet amortization”, according
-
-## 8 Structured Finance in Shipping
-
-207
-
-to which no principal amortization occurs during the duration of the mezza-
+debt loan, but may also offer what is known as a “bullet amortization”, according to which no principal amortization occurs during the duration of the mezza-
 nine facility and the full amount becomes due at the end. Bullet structures offer
 lower strain on project cash flows but assume higher risk on maturity as vessels
 are depreciating assets with high volatility. Mezzanine structures can also offer
@@ -9292,6 +9051,10 @@ the mezzanine facility; the interest cost is capitalized in the outstanding mez-
 zanine facility amount and is paid in full at maturity. A bullet PIK mezzanine
 facility would be a very aggressive financing structure by a mezzanine provider
 and highly sought by the project’s common equity holders.
+
+## 8 Structured Finance in Shipping
+
+207
 
 #### 8.4.3  Applications of Mezzanine Finance
 
@@ -9322,9 +9085,7 @@ Finance
 Mezzanine finance is particularly attractive as it reduces the shipowner’s
 own equity capital contribution requirement during expansion phases and
 208
-I. Alexopoulos and N. Stratis
-
-is accretive to a project’s cost of capital optimization. Th is form of finance
+I. Alexopoulos and N. Stratis is accretive to a project’s cost of capital optimization. Th is form of finance
 is very flexible as it may be extended in different forms (the most typical of
 them being subordinated debt, convertible bond and preferred equity), its
 amortization and pricing can be structured according to the specific project’s
@@ -9361,13 +9122,7 @@ have dramatically changed. Almost all shipping sectors are characterized by
 significant overcapacity and, on the back of a slowing global economy, this is
 translated into a prolonged low freight rate environment and intense compe-
 tition. At the same time, whilst the availability of traditional debt finance is
-significantly reduced, an increased amount of capital is being channeled into
-
-## 8 Structured Finance in Shipping
-
-209
-
-shipping from other sources (such as PE investors, government supported
+significantly reduced, an increased amount of capital is being channeled into shipping from other sources (such as PE investors, government supported
 export financing schemes and bond investors); this has increased complexity
 and sophistication. To survive in this highly competitive shipping environ-
 ment, companies have to grow in size. Th rough the development of a critical
@@ -9404,6 +9159,10 @@ understanding-for-a-234-9-million-nyse-salt-1163245
 tor/finance/article419441.ece
 210
 I. Alexopoulos and N. Stratis
+
+## 8 Structured Finance in Shipping
+
+209
 
 8.  Maritime Trade Intelligence, June 06 2014:  http://maritimeintel.com/star-
 cruises-obtains-us814m-financing-for-second-newbuild/
@@ -9455,9 +9214,7 @@ Kyriakos   Spoullos
 K.  Spoullos (
 )
 Norton Rose Fulbright ,  Palaia Leoforos Posidonos 1 & Moraitini 3, Palaio Faliro ,
-Athens  17501 ,  Greece
-
-the “heart” of most financing documents. We shall call such clauses “operative
+Athens  17501 ,  Greece the “heart” of most financing documents. We shall call such clauses “operative
 clauses” (a list and analysis of which can be found below).
 In the review of the operative clauses, we shall make the following
 assumptions:
@@ -9531,13 +9288,7 @@ representations and warranties, events of default and conditions precedent so
 that they capture only the borrower, the parent or a limited number of other
 obligors involved in the transaction. On the other hand, the bank may want
 to include a wider range of entities, as issues faced by other members of the
-borrower’s group may alert the bank to credit issues that will ultimately affect
-
-## 9 Key Clauses of a Shipping Loan Agreement
-
-215
-
-the borrower’s ability to pay. Even certain defined terms, such as the word
+borrower’s group may alert the bank to credit issues that will ultimately affect the borrower’s ability to pay. Even certain defined terms, such as the word
 “group”, may in some cases be defined differently and more narrowly when
 used in respect of the information and financial covenants than when used in
 other operative clauses.
@@ -9576,9 +9327,7 @@ and assets, and those of the parent.
 The borrower needs to pay special attention to which representations are
 agreed to be repeating. For example, a representation that no withholding tax
 216
-K. Spoullos
-
-applies to any payment under the loan agreement, if repeated following draw-
+K. Spoullos applies to any payment under the loan agreement, if repeated following draw-
 down, may become untrue due to a change of law at a future date. Th is would
 in turn lead to an event of default, as the statement would be a misrepresenta-
 tion. As a consequence, a well-advised borrower will seek to ensure that such
@@ -9613,13 +9362,7 @@ ments), financial statements and legal opinions;
 rower’s obligations under the loan agreement;
 3.  all necessary assurances that certain factual conditions are fulfilled.
 The borrower will try to limit the extent of the conditions precedent in an
-effort to simplify the steps required for the loan agreement to become effective
-
-## 9 Key Clauses of a Shipping Loan Agreement
-
-217
-
-and the funds to be drawn down. The bank may, however, require an exten-
+effort to simplify the steps required for the loan agreement to become effective and the funds to be drawn down. The bank may, however, require an exten-
 sive list of conditions precedent in order to comply with its internal credit
 sanctions for the transaction.
 9.5
@@ -9658,9 +9401,7 @@ incorporated in the loan agreement, the bank is likely to have more time and,
 in effect, more options when dealing with the relevant issues, either by taking
 measures early in the process to avoid a crisis or by exercising some influence
 218
-K. Spoullos
-
-on corrective action to prevent escalation. The most distinctive and effective
+K. Spoullos on corrective action to prevent escalation. The most distinctive and effective
 warning signals in a loan agreement are that of the minimum-value clause
 (MVC) and the financial ratios (FRs).
 9.5.1  Minimum-Value Clause (MVC) Test
@@ -9695,6 +9436,14 @@ the ship before any financial deterioration results in bankruptcy. The bank
 will usually require compliance with FRs at specified points of time, by refer-
 ence to specified periods, but may, sometimes, require compliance on a con-
 tinuing basis.
+
+## 9 Key Clauses of a Shipping Loan Agreement
+
+215
+
+## 9 Key Clauses of a Shipping Loan Agreement
+
+217
 
 ## 9 Key Clauses of a Shipping Loan Agreement
 
@@ -9738,9 +9487,7 @@ be either higher or lower than their market value at any relevant time.
 Gearing or leverage ratio or debt/equity ratio Th is is a measure of the risk
 attached to the capital structure of the parent. It shows the relation between
 220
-K. Spoullos
-
-external (commercial borrowings but not trade creditors’ debt) and inter-
+K. Spoullos external (commercial borrowings but not trade creditors’ debt) and inter-
 nal (equity and probably (subordinated) shareholders’ loans) funding. The
 higher the ratio, the greater the risk for the bank.
 Working capital and quick ratio The working capital ratio measures the ratio of
@@ -9773,13 +9520,7 @@ The performance level of the FRs also may be used as a condition to determine:
 5.  the pricing of the loan because the interest margin will be adjusted by ref-
 erence to performance.
 Shipping loan agreements may also include business restrictions in the
-form of negative undertakings, especially when, as in our case, the bank bases
-
-## 9 Key Clauses of a Shipping Loan Agreement
-
-221
-
-its willingness to provide the loan on the parent’s guarantee and the level and
+form of negative undertakings, especially when, as in our case, the bank bases its willingness to provide the loan on the parent’s guarantee and the level and
 scale of its business activities.
 One such undertaking is the negative pledge clause. In the context of a
 shipping loan where the borrower pledges all of its assets to the bank, the
@@ -9818,9 +9559,7 @@ The borrower always pledges that the ship will not be employed in unlaw-
 ful activities, will not enter into any war zones and that all debts, damages,
 liabilities and related outgoings (which may give rise to any kind of lien that
 222
-K. Spoullos
-
-may be enforced against it, its earnings or insurances) have been promptly
+K. Spoullos may be enforced against it, its earnings or insurances) have been promptly
 paid and discharged. Financiers commonly require specific sanction clauses
 to be included in the loan agreements, seeking the compliance of the relevant
 obligors with sanction regimes imposed by the USA, the EU or individual
@@ -9860,6 +9599,10 @@ to find the funds required to be transferred on each transfer date, this will
 result in an event of default. Other retention accounts may be designed to
 build up a working capital reserve, or a reserve for anticipated costs such as
 the likely cost of the next dry docking of the ship.
+
+## 9 Key Clauses of a Shipping Loan Agreement
+
+221
 
 ## 9 Key Clauses of a Shipping Loan Agreement
 
@@ -9940,13 +9683,7 @@ We have already referred to the use of mandatory prepayment as a remedy in
 the case of a breach of the MVC test. Other events or circumstances may also
 lead to mandatory prepayment. The most common one in shipping loan agree-
 ments is the case of a ship sale or total loss. When only one ship is involved, its
-sale or total loss will result in full and final repayment of the relevant loan by
-
-## 9 Key Clauses of a Shipping Loan Agreement
-
-225
-
-making use of the sale or total loss proceeds. When the transaction is secured
+sale or total loss will result in full and final repayment of the relevant loan by making use of the sale or total loss proceeds. When the transaction is secured
 by more than one ship, the loan agreement will regulate how much is to be
 prepaid upon a sale or total loss of any one of the ships. Th is will always be
 (at a minimum) the outstanding amount of the part of the loan (plus accrued
@@ -9986,9 +9723,7 @@ Usually there is a prohibition, or at least a restriction, on a transfer or assi
 ment by the borrower of its rights and obligations under the loan agreement,
 and an express right of assignment or transfer for the bank (although this is
 226
-K. Spoullos
-
-sometimes subject to certain conditions). In the period since the global finan-
+K. Spoullos sometimes subject to certain conditions). In the period since the global finan-
 cial crisis, banks have generally sought greater freedom to dispose of loans and
 lay-off  risk in a variety of circumstances, including to manage better regula-
 tory capital, or because a change in lending policy at a bank in the future may
@@ -10026,13 +9761,7 @@ With any transfer there are various concerns for the borrower, such as con-
 fi dentiality, the shifting of the decision-making process in the transaction to a
 third party with whom the borrower has no business ties (and which may have
 hostile plans and policies, especially towards companies in financial distress),
-and the risk of increased costs. Under a sub-participation in particular, such a
-
-## 9 Key Clauses of a Shipping Loan Agreement
-
-227
-
-third party may well influence the bank’s voting behavior whilst being com-
+and the risk of increased costs. Under a sub-participation in particular, such a third party may well influence the bank’s voting behavior whilst being com-
 pletely unknown to the borrower, as it is acting “behind the scenes”.
 Obviously, any transfer to a potential assignee or transferee is likely to result
 in a totally different business relationship developing between the borrower
@@ -10071,6 +9800,14 @@ perspective and to avoid “hair trigger” defaults that will only serve to req
 waivers to be granted and amendments to be made on a periodic basis.
 228
 K. Spoullos
+
+## 9 Key Clauses of a Shipping Loan Agreement
+
+225
+
+## 9 Key Clauses of a Shipping Loan Agreement
+
+227
 
 In addition, we should not forget that, in an English law document, the
 introduction of thresholds, carve-outs and grace periods is normal and justi-
@@ -10174,9 +9911,7 @@ world is not deemed to have notice of it, as is the case with a properly regis-
 tered legal mortgage. Th at said, the fact that such a mortgage is subject to the
 equitable jurisdiction of the court creates the possibility of the court looking
 232
-S.D. Norton and C. Chiste
-
-at the “fairness” or otherwise of a remedy, as opposed to being restricted to the
+S.D. Norton and C. Chiste at the “fairness” or otherwise of a remedy, as opposed to being restricted to the
 relatively mechanical nature of the common law and statute. Equitable max-
 ims such as “he who comes to equity must come with clean hands”, “delay
 defeats the right to an equitable remedy” or “equity will not act in vain” bring
@@ -10259,9 +9994,7 @@ posal (Stephenson Harwood  2006 ; London Special Risks  2011 ). The policy
 indemnifi es the lender in respect of the “net ascertained loss”, defined as the
 outstanding balance due, inclusive of principal and interest and the lender’s
 234
-S.D. Norton and C. Chiste
-
-reasonable costs (such as litigation and vessel sale costs), after crediting the
+S.D. Norton and C. Chiste reasonable costs (such as litigation and vessel sale costs), after crediting the
 net proceeds of the disposal of the vessel covered by the mortgage, the realiza-
 tion of any additional collateral security, and any net income arising at the
 conclusion of any claim against the borrowers and guarantors if there are any.
@@ -10300,13 +10033,7 @@ for the price of repairs carried out in New York. The mortgagees succeeded.
 In proceedings  in rem against a ship, the existence or otherwise of a maritime
 lien fell to be determined in accordance with the  lex fori of the country whose
 court was distributing the proceeds of the sale; since, under Singapore law,
-the repairer’s claim did not entitle them to a lien, they were not entitled to
-
-## 10 Legal Aspects of Ship Mortgages
-
-235
-
-priority (Rares  2014 ). Similarly, in  Todd Shipyards Corp v.  Altema Compania
+the repairer’s claim did not entitle them to a lien, they were not entitled to priority (Rares  2014 ). Similarly, in  Todd Shipyards Corp v.  Altema Compania
 Maritima SA ( The Ioannis Daskalelis ) [1974], it was held that, although in
 Canada a claim for necessary repairs did not give rise to a maritime lien, it
 did so in New York, and such lien was enforceable in Canada, and under
@@ -10323,6 +10050,10 @@ some protection is better than none at all, this reality, derived from the doc-
 trine of priorities, may result in the mortgagee receiving very little payment or
 none at all, following enforced sale of the vessel. Each of these issues will form
 the basis of discussion in the remaining part of this chapter.
+
+## 10 Legal Aspects of Ship Mortgages
+
+235
 
 ### 10.3  Registration and the Priority of Mortgages
 
@@ -10387,13 +10118,7 @@ and a claim for damage done by a ship (e.g. a collision). Maritime liens
 give rights against a ship which survives a sale and which enjoys priority
 ahead of registered mortgages, even though they need not be registered
 themselves. According to  Bankers Trust International v.  Todd Shipyards
-Corp ( The Halcyon Isle ) [1980], under English law, whether a claim creates
-
-## 10 Legal Aspects of Ship Mortgages
-
-237
-
-a maritime lien is to be decided by the law of the place of arrest of a vessel,
+Corp ( The Halcyon Isle ) [1980], under English law, whether a claim creates a maritime lien is to be decided by the law of the place of arrest of a vessel,
 and not according to the local law of the claimant. In  The Turiddu [1999],
 at the request of the owners of  The Turiddu , Cuban national crew members
 were recruited by two agencies. Under the embarkation contracts, the
@@ -10407,6 +10132,10 @@ was ultimately paid would have a claim for any unpaid wages: the crew was
 entitled to rely on a maritime lien. The bank’s charge could not take prior-
 ity over the crews’ unpaid wages merely because the crew had agreed to an
 allotment of part of their pay (Sabino and Susca  2001 ).
+
+## 10 Legal Aspects of Ship Mortgages
+
+237
 
 ### 10.4  Powers of Mortgagees
 
@@ -10433,9 +10162,7 @@ ter does not thereby lose his claim against the mortgagor for unpaid wages,
 which gives rise to a maritime lien. Full notification of the taking of pos-
 session should be given to the affected parties, particularly the insurers, to
 238
-S.D. Norton and C. Chiste
-
-ensure that P&I cover is continued. Further, the mortgagee will continue to
+S.D. Norton and C. Chiste ensure that P&I cover is continued. Further, the mortgagee will continue to
 be affected by rights  in rem against the vessel, which could have been brought
 by third parties against the mortgagor, but which can now be equally validly
 sustained against the new operator, the mortgagee.
@@ -10473,13 +10200,7 @@ quent mortgagee shall not, except under an order of a court of a competent
 jurisdiction, sell the ship or share without the concurrence of every prior mort-
 gagee. Where there are prior mortgages and a later mortgagee sells the vessel,
 he must account to prior mortgagees first, before satisfying his own debt. If
-the mortgagee is “first in the queue” and there are later mortgagees, then, after
-
-## 10 Legal Aspects of Ship Mortgages
-
-239
-
-satisfying his own claim, he will hold any surplus on constructive trust for
+the mortgagee is “first in the queue” and there are later mortgagees, then, after satisfying his own claim, he will hold any surplus on constructive trust for
 these later secured lenders. In  Den Norske Bank ASA v.  Acemex Management
 Co. Ltd ( The Tropical Reefer ) [2004], the issue arose as to whether a mortgagee
 owed a duty of care to a guarantor in deciding when to arrest a vessel. In the
@@ -10520,9 +10241,7 @@ trade a vessel in the same way as if there was not a mortgage in place, and the
 mortgagee cannot interfere with a charter once it is underway. In  De Mattos ,
 it was stated that a person who hires a vessel under a charterparty does so not
 240
-S.D. Norton and C. Chiste
-
-merely from a wish to have his goods conveyed to a particular place, but upon
+S.D. Norton and C. Chiste merely from a wish to have his goods conveyed to a particular place, but upon
 a careful choice of the vessel itself as best adapted for his purposes; a vessel
 engaged under a charterparty ought to be regarded as a “chattel of a peculiar
 value” to the charterer and, accordingly, a court will restrain the employment
@@ -10561,13 +10280,7 @@ on the loan of USD59,883. The mortgagors argued that they were entitled to
 set off  against this shortfall the losses caused by the lender’s failure to operate
 the vessel wisely, and its later imprudent sale. It was held that the sale had
 indeed been imprudent and that the sale price should have been USD60,000.
-The mortgagee’s conduct had been grossly unfair to the mortgagors who were
-
-## 10 Legal Aspects of Ship Mortgages
-
-241
-
-accordingly entitled to set off  an amount of USD27,382. The economics of
+The mortgagee’s conduct had been grossly unfair to the mortgagors who were accordingly entitled to set off  an amount of USD27,382. The economics of
 the decision would appear to be that, if the mortgagee disposes of the vessel at
 a below-market price and at a loss to him or herself when an alternative sale
 option would have resulted in a lesser or no loss being suffered, any deficiency
@@ -10610,6 +10323,14 @@ and careful measures to secure the best price obtainable at the time of his
 choosing.
 242
 S.D. Norton and C. Chiste
+
+## 10 Legal Aspects of Ship Mortgages
+
+239
+
+## 10 Legal Aspects of Ship Mortgages
+
+241
 
 #### 10.4.2  Power to Take Possession
 
@@ -10698,9 +10419,7 @@ impairing of the security to justify the mortgagee in taking possession.
 A mortgagee has the power to apply to the court for the appointment of a
 receiver to preserve disputed assets and obtain payment in respect of a debt or
 244
-S.D. Norton and C. Chiste
-
-other liability. The application for appointment may be made without notice
+S.D. Norton and C. Chiste other liability. The application for appointment may be made without notice
 to the mortgagor but must be supported by written evidence. Upon proof of
 the default, a receiver is appointed to obtain payment but, importantly, not to
 put the mortgagor into liquidation, which is subject to a different procedure.
@@ -10811,9 +10530,7 @@ then the duty may be undertaken by the mortgagee and the cost added to the
 outstanding debt. If the mortgagee subsequently takes possession of the vessel,
 then the providers of the insurance must be notified of this; after possession,
 246
-S.D. Norton and C. Chiste
-
-the mortgagee takes over all rights of the insured, and is subject to actions and
+S.D. Norton and C. Chiste the mortgagee takes over all rights of the insured, and is subject to actions and
 counterclaims which would otherwise have been brought against the mort-
 gagor by third parties, but for the event of subrogation.
 
@@ -10851,15 +10568,13 @@ In  The Acrux [1962], it was stated that it would be inequitable to permit the
 mortgagee to proceed against the new owners; their sole source of recourse
 was the balance produced by the sale, and if this proved insuffi  cient, then they
 would have to proceed against the mortgagor in the usual way since an action
-in rem —against the vessel—would not be countenanced. If the mortgagee
+in rem —against the vessel—would not be countenanced. If the mortgagee finds a buyer for the mortgaged vessel, and at a fair market price, then the
+Admiralty Marshal cannot circumvent the normal procedural requirement for
+an auction and simply sanction the sale to the new buyer.
 
 ## 10 Legal Aspects of Ship Mortgages
 
 247
-
-finds a buyer for the mortgaged vessel, and at a fair market price, then the
-Admiralty Marshal cannot circumvent the normal procedural requirement for
-an auction and simply sanction the sale to the new buyer.
 
 #### 10.5.4  Right to Redeem the Mortgage, and Foreclosure
 
@@ -10937,13 +10652,7 @@ since the cash flows were assigned or sold to an SPV prior to the sale, the
 mortgages, if any, by which they were secured, were also similarly transferred.
 To do otherwise could result in the incongruous situation where ownership of
 the assets (the cash flows) by which the bonds were collateralized was trans-
-ferred to the SPV, whilst the security or legal right to enforce those cash flows
-
-## 10 Legal Aspects of Ship Mortgages
-
-249
-
-remained vested in another party, the bank or originator itself. The legal pre-
+ferred to the SPV, whilst the security or legal right to enforce those cash flows remained vested in another party, the bank or originator itself. The legal pre-
 requisites for the transaction would be as follows. First, the SPV must have a
 genuine separate legal personality from the originator—the bank holding the
 mortgages and which originally granted ship loans. Second, the mortgages
@@ -10957,6 +10666,10 @@ against the originator. Securitization illustrates how mortgages can no longer
 be simply regarded as documentary aspects of bankers’ security, but instead
 have become an integral part of financing in the wider capital markets as
 accessed by larger shipping companies.
+
+## 10 Legal Aspects of Ship Mortgages
+
+249
 
 ### 10.7  Conclusion
 
@@ -11089,9 +10802,7 @@ Alexandrou & 25th Martiou Street ,  Maroussi  15124 ,  Greece
 Ph.  Tsamanis (
 )
 Head of Shipping, Aegean Baltic Bank S.A. ,  91 Megalou Alexandrou & 25th
-Martiou Street ,  Maroussi  15124 ,  Greece
-
-development and growth of the money markets and the world economy. Basel
+Martiou Street ,  Maroussi  15124 ,  Greece development and growth of the money markets and the world economy. Basel
 I rules have been “elevated” to Basel II, and are gradually building up to a
 stricter version of requirements (Basel III, due in 2018).
 With the Lehman Brothers collapse and the financial crisis that followed it,
@@ -11215,9 +10926,7 @@ stage”. As this is a very fine line, we do not attempt any definitions. It is 
 noting that there are regulatory directives that recently have attempted to set
 out a framework for handling “arrears and non-performing loans” (ANPL),
 256
-D. Anagnostopoulos and Ph. Tsamanis
-
-though we are not in complete agreement with this, especially as far as ship-
+D. Anagnostopoulos and Ph. Tsamanis though we are not in complete agreement with this, especially as far as ship-
 ping finance is concerned. Th erefore, what follows is our view on the subject,
 which may not necessarily be in-line with recent all-encompassing directives.
 The reason why our views may deviate from that of the regulators is that the
@@ -11414,9 +11123,7 @@ pects and trends of the freight market. Has the collateral vessel another
 4.  Collateral/security considerations: creditors ranking higher than the mort-
 gagee, collateral vessel’s value, age, maintenance status, survey status, trade
 260
-D. Anagnostopoulos and Ph. Tsamanis
-
-debt attached, trading or port jurisdiction, terms of charter party, if the
+D. Anagnostopoulos and Ph. Tsamanis debt attached, trading or port jurisdiction, terms of charter party, if the
 vessel is laden with cargo, ballast status, if it is laid up.
 5.  Bank’s considerations: shipping policy and culture, top management
 understanding of shipping, cooperation with syndicate members (if the
@@ -11493,9 +11200,7 @@ collateral, if available, and on the basis of a fully detailed schedule of pre-
 defined uses and upon production of tangible and acceptable supporting doc-
 uments. In agreeing to the S&N strategy, the bank will have to keep in mind
 262
-D. Anagnostopoulos and Ph. Tsamanis
-
-its regulatory framework concerning restructured credits, in order to weigh
+D. Anagnostopoulos and Ph. Tsamanis its regulatory framework concerning restructured credits, in order to weigh
 the magnitude of its impact on its balance sheet.
 The following are areas where particular caution and attention should be
 paid, with respect to the S&N strategy:
@@ -11720,9 +11425,7 @@ exposure to liability for their failure to launch, for general average and salva
 and for sue and labour. 8 Th ey also include clauses on protection and indemnity
 (P&I). 9 Although the policy is an “all risks” one, the builders’ risks coverage is
 268
-M.A. Huybrechts and T. Nikaki
-
-made subject to a number of exclusions. On the one hand, both policies provide
+M.A. Huybrechts and T. Nikaki made subject to a number of exclusions. On the one hand, both policies provide
 for a number of excluded risks. For example, ICBR 1988 excludes war, strikes,
 malicious acts and nuclear risks, as further defined in the pertinent clauses. 10
 Nonetheless, the parties may extend the policy’s coverage if they expressly agree
@@ -11757,13 +11460,7 @@ Again, this solution is problematic as the mortgagee/assignee may sue the
 insurers in its own name but will not receive greater rights than the assignor.
 In other words, the insurer will be entitled to bring against the mortgagee
 all the defences he or she would have had against the mortgagor/assured, 15
-including those arising out of the mortgagor/owners misconduct, 16 over
-
-## 12 Marine Insurance
-
-269
-
-which the bank has no control, which may result in the insurer being exoner-
+including those arising out of the mortgagor/owners misconduct, 16 over which the bank has no control, which may result in the insurer being exoner-
 ated from its liability. 17
 The best solution by far is thus the conclusion of a separate marine insur-
 ance contract in the mortgagee’s name to cover its interests. Such an insurance
@@ -11804,9 +11501,7 @@ ers of the owners’ policies and club entries. 23
 In addition to the MII cover, 24 the mortgagee/bank may take out a
 Mortgagee’s Additional Perils (Pollution) Insurance (MAPP), usually on the
 270
-M.A. Huybrechts and T. Nikaki
-
-terms of the Mortgagee’s Additional Perils (Pollution) clauses LSW 489, also
+M.A. Huybrechts and T. Nikaki terms of the Mortgagee’s Additional Perils (Pollution) clauses LSW 489, also
 governed by English law. Specifically, the MAPP insurance is usually added to
 the MII. It provides coverage to a mortgagee holding a first mortgage on the
 vessel for the amount of its net loss under the loan, if the vessel is seized (that
@@ -11838,13 +11533,7 @@ As shipping is an industry full of unpredictable dangers and risks, a shipowner
 or a prospective shipowner will need insurance cover against an extensive
 number of these risks. Cover against some of them is considered as essential
 in the framework of a successful and safe operation; some of them are not
-that important and could be considered more of a luxury type. On the basis
-
-## 12 Marine Insurance
-
-271
-
-of the marine insurance broker’s regular practice, the following risk covers are
+that important and could be considered more of a luxury type. On the basis of the marine insurance broker’s regular practice, the following risk covers are
 suggested for a shipowner in a safe insurance package.
 12.4.1.1  Property
 Hull and machinery (H&M) cover for named perils, particular average, gen-
@@ -11877,9 +11566,7 @@ An owner is also well advised to seek cover for freight demurrage and defense
 as per club rules. By this cover, a shipowner is protected against the legal bills
 and expenses which he or she might incur, amongst others, in trying to claim
 272
-M.A. Huybrechts and T. Nikaki
-
-outstanding freight and demurrage and general legal expenses caused by the
+M.A. Huybrechts and T. Nikaki outstanding freight and demurrage and general legal expenses caused by the
 operation of his or her vessel.
 12.4.1.4  Lost Time
 In a safe insurance package, an owner will also want cover against loss of
@@ -11914,6 +11601,14 @@ important because bunkers have become exceedingly expensive. Bunker
 insurance is in fact dealt with as a sort of cargo insurance. Most of the time,
 bunkers are bought by time charterers insured by them under their global
 cargo insurance policy.
+
+## 12 Marine Insurance
+
+269
+
+## 12 Marine Insurance
+
+271
 
 ## 12 Marine Insurance
 
@@ -11956,9 +11651,7 @@ place where several marine insurers offer their business through various “syn-
 dicates” represented by an active underwriter. Th ese syndicates are groups of
 individuals, known as “names”, and will offer a consolidated facility/insurance
 274
-M.A. Huybrechts and T. Nikaki
-
-against certain special risks. If one wants to insure a risk with Lloyd’s of
+M.A. Huybrechts and T. Nikaki against certain special risks. If one wants to insure a risk with Lloyd’s of
 London, one needs also to rely on a Lloyd’s marine insurance broker. The
 legal position of a marine insurance broker is dealt with in the English MIA
 1906, articles 53 and 54. Th is broker will approach the proper syndicate,
@@ -11997,13 +11690,7 @@ towards the various claims introduced by other P&I club members.
 Twenty years ago, some of the traditional P&I clubs (non-members of
 IGA) also launched a novel product, which was in fact quite a deviation
 from the traditional principles of mutuality, offering P&I protection on the
-basis of a “fixed premium”. The fixed premium clubs have not been that
-
-## 12 Marine Insurance
-
-275
-
-successful and are not so popular. It is said that these clubs are especially
+basis of a “fixed premium”. The fixed premium clubs have not been that successful and are not so popular. It is said that these clubs are especially
 meant for small vessels or small fleet operators. Conversely, traditional P&I
 clubs offer a highly successful fixed premium insurance covering charterers’
 operational liabilities. An owner has to be fully aware that P&I clubs are not
@@ -12034,6 +11721,10 @@ Commission and the IGA which resulted in a compromise, 34 though the
 Commission continues to keep a mindful eye on the practice of the P&I clubs
 as a recent examination illustrates. 35
 
+## 12 Marine Insurance
+
+275
+
 #### 12.4.4  The Cost of Insurance: A Shipowner also Has
 
 to Address the Question “What Will the Insurance
@@ -12042,9 +11733,7 @@ Marine insurance is, to a great extent, “market driven”; and there is great
 freedom of contract. As a consequence, what an owner will have to pay is, in
 many instances, the result of free negotiation and free competition. A new
 276
-M.A. Huybrechts and T. Nikaki
-
-owner is advised to submit tenders to, at least, two or three P&I clubs before
+M.A. Huybrechts and T. Nikaki owner is advised to submit tenders to, at least, two or three P&I clubs before
 placing his or her marine insurance business.
 An owner is also advised to budget for the amount for all the insurances he
 needs, drawing upon the advice of his marine insurance broker and also other
@@ -12082,13 +11771,7 @@ the benefit of the insurance. 39
 English law is peculiar with reference to the issue of causation; only the
 damage, which is “proximately” caused by a named peril, will be covered by
 the insurance. In other words, manifesting the legal maxim  causa proxima non
-remota spectatur , 40 if the damage is not directly caused by an insured peril, the
-
-## 12 Marine Insurance
-
-277
-
-insured will not recover it even if the insured peril contributed to the dam-
+remota spectatur , 40 if the damage is not directly caused by an insured peril, the insured will not recover it even if the insured peril contributed to the dam-
 age but was not the direct cause of it. Finally, the special requirement of the
 utmost good faith in marine insurance must be considered.
 The good faith requirement, according to section 17 of the MIA 1906, is
@@ -12129,6 +11812,10 @@ of sanctions (proportionate remedies) according to the seriousness of the con-
 tract violation i.e. intentional or not.
 278
 M.A. Huybrechts and T. Nikaki
+
+## 12 Marine Insurance
+
+277
 
 ### 12.5  Conclusion
 
@@ -12346,9 +12033,7 @@ Faculty of Business Administration, Hamburg University, Von-Melle-Park 5,
 
 M. Johns
 German Shipowners’ Association (Verband Deutscher Reeder, VDR),
-Burchardstraße 24, 20095 Hamburg, Germany
-
-freight rates and vessel prices have remained low and are still far below the
+Burchardstraße 24, 20095 Hamburg, Germany freight rates and vessel prices have remained low and are still far below the
 pre-crisis levels.
 Boom-and-bust cycles in investment are widely studied phenomena in eco-
 nomics. Kydland and Prescott (1982) show that these cycles are more pro-
@@ -12429,13 +12114,7 @@ ing firms.
 13.2	 Market Approach
 The market price of a vessel is determined by auction pricing, where the trans-
 action price is accepted as the clearing price between willing and informed
-buyers and sellers. The market approach (or “relative valuation approach”) is
-
-## 13  Maritime Investment Appraisal and Budgeting
-
-287
-
-by far the most commonly used valuation method in the shipping industry
+buyers and sellers. The market approach (or “relative valuation approach”) is by far the most commonly used valuation method in the shipping industry
 and is based on how similar vessels are priced in the market. In particular, a
 prospective vessel buyer decides how much to pay for a comparable vessel
 by analyzing the prices paid in earlier transactions. This approach involves
@@ -12477,6 +12156,10 @@ Blue Manaslu is a young, three-year-old Capesize bulk carrier with a capac-
 ity of 179,280 dwt. Table 13.1 summarizes a list of Capesize bulker sales
 288
 S. Albertijn et al.
+
+## 13  Maritime Investment Appraisal and Budgeting
+
+287
 
 **Table 13.1  Sales of Capesize ships**
 
@@ -13025,13 +12708,7 @@ Vogesailor
 164.19
 2,253
 aTrailing one-year monthly average
-Source: All data are taken from the Clarkson Shipping Intelligence Network (SIN) database
-
-## 13  Maritime Investment Appraisal and Budgeting
-
-291
-
-between March 2012 and May 2014, which can be used for relative valu-
+Source: All data are taken from the Clarkson Shipping Intelligence Network (SIN) database between March 2012 and May 2014, which can be used for relative valu-
 ation purposes.4 The table provides information on the age and the size of
 vessels sold. In addition, it shows the state of the freight market at the time
 of a transaction. The trailing one-year average monthly Baltic Capesize Index
@@ -13072,6 +12749,10 @@ limited use in practice. Based on all comparable transactions mentioned, the
 simple mean price is USD42.47 million.
 292
 S. Albertijn et al.
+
+## 13  Maritime Investment Appraisal and Budgeting
+
+291
 
 The main problem of the approach used so far is that it only allows control-
 ling for differences in a single variable. Therefore, as shown in the example,
@@ -13377,13 +13058,7 @@ able for distribution among both equity and debt holders after taxes and rein-
 vestment needs) at the weighted average cost of capital (WACC). Embedded
 in this approach are the tax benefits of debt (in the form of the after-tax
 cost of debt in the cost of capital) and the expected additional financial risk
-associated with debt (in the form of higher cost of equity and debt with
-
-## 13  Maritime Investment Appraisal and Budgeting
-
-295
-
-increasing leverage). This so-called WACC approach is widely recognized in
+associated with debt (in the form of higher cost of equity and debt with increasing leverage). This so-called WACC approach is widely recognized in
 theory and valuation practice.11 The LTAV method to evaluate vessels, which
 has been promoted by the Hamburg Shipbrokers’ Association (Vereinigung
 Hamburger Schiffsmakler und Schiffsagenten e.V., VHSS) in cooperation
@@ -13493,6 +13168,10 @@ textbook theory shows that this decline is not caused by the use of “cheap”
 296
 S. Albertijn et al.
 
+## 13  Maritime Investment Appraisal and Budgeting
+
+295
+
 debt replacing “expensive” equity, though the WACC falls because of the “tax
 shields” on debt interest payments.
 In applications related to shipping, it is normally not necessary to take
@@ -13548,13 +13227,7 @@ The amount of the credit spread depends on many factors, such as the ability
 to realize the value of the vessel in the case of insolvency and the availability
 of long-term charters with high creditworthiness.15
 The determination of the cost of equity rE is more difficult and requires
-concepts from asset pricing theory. The most widely used model among
-
-## 13  Maritime Investment Appraisal and Budgeting
-
-297
-
-financial practitioners is the capital asset pricing model (CAPM).16 The cost
+concepts from asset pricing theory. The most widely used model among financial practitioners is the capital asset pricing model (CAPM).16 The cost
 of equity rE according to the CAPM is the expected rate of return on equity:
 r
 r
@@ -13603,6 +13276,10 @@ Given highly cyclical cash flows, high operating leverage and high financial
 leverage, one expects that firms in the shipping industry exhibit high stock
 298
 S. Albertijn et al.
+
+## 13  Maritime Investment Appraisal and Budgeting
+
+297
 
 market betas.19 Drobetz et al. (2016b) find evidence for beta dynamics of
 shipping stocks that match the fundamental risk characteristics of the indus-
@@ -14142,13 +13819,7 @@ knowledge to identify misvaluations, exploit them and then operate vessels
 efficiently. In addition, even large deviations from a vessel’s fundamental value
 could last for a long time, longer that any arbitrageur can stay solvent (“noise
 trader” risk). In fact, deviations could even become larger before convergence
-starts (fundamental risk). Another obstacle is that arbitrageurs have to make
-
-## 13  Maritime Investment Appraisal and Budgeting
-
-303
-
-large, undiversified bets on vessels. Shipping risks are highly cyclical and to
+starts (fundamental risk). Another obstacle is that arbitrageurs have to make large, undiversified bets on vessels. Shipping risks are highly cyclical and to
 a considerable degree systematic (e.g. freight rates are highly correlated with
 global economic activity), thus arbitrageurs may lack diversification opportu-
 nities. Finally, financial constraints due to restricted bank lending as well as
@@ -14187,6 +13858,10 @@ Panel A further shows that market-to-book and firm size exhibit high
 standard deviations, indicating a very heterogeneous sample containing both
 304
 S. Albertijn et al.
+
+## 13  Maritime Investment Appraisal and Budgeting
+
+303
 
 **Table 13.3  Financial analysis of listed shipping companies**
 
@@ -14649,13 +14324,7 @@ widely used approach in the shipping industry is the market approach, which
 evaluates a vessel in comparison to the recent sales of comparable vessels
 (“mark-to-­market”). Regression analysis can be used if comparability depends
 on multiple criteria, such as age, size and the state of the freight market.
-The second approach is DCF valuation, which is forward-looking and
-
-## 13  Maritime Investment Appraisal and Budgeting
-
-307
-
-determines the fundamental value of a vessel by its future expected cash flows,
+The second approach is DCF valuation, which is forward-looking and determines the fundamental value of a vessel by its future expected cash flows,
 discounted using the cost of capital (“mark-to-model”). The choice between
 the two approaches is not always easy and mainly depends on one’s view about
 market efficiency. Market prices and fundamental values will be close in “nor-
@@ -14693,6 +14362,10 @@ customers and do not affect vessel prices).
 valuation, see Damodaran (2005).
 308
 S. Albertijn et al.
+
+## 13  Maritime Investment Appraisal and Budgeting
+
+307
 
 6.	 Our model assumes a linear relationship between transaction prices and
 pricing factors. Non-linear relationships could be incorporated by adding
@@ -14820,13 +14493,7 @@ detailed analyses. Using a large dataset of shipping sales during the period
 1995–2011 and computing the fire sale discount as the difference between
 the transacted price of an arrested ship and the counterfactual price from
 a hedonic model, Franks et al. (2015) estimate an average fire sale dis-
-count of 26% compared with ships of similar age and use. However,
-
-## 13  Maritime Investment Appraisal and Budgeting
-
-311
-
-whereas roughly half of this fire sale discount is driven by market illiquid-
+count of 26% compared with ships of similar age and use. However, whereas roughly half of this fire sale discount is driven by market illiquid-
 ity, they also show that the other half is attributable to low maintenance
 of vessels and is largely concentrated in low valued vessels and corrupt
 ports.
@@ -14866,6 +14533,10 @@ and Crisis Times: Evidence from Shipping, Transportation Research Part A 90,
 26–49.
 312
 S. Albertijn et al.
+
+## 13  Maritime Investment Appraisal and Budgeting
+
+311
 
 Drobetz, W., C.  Menzel, and H.  Schröder, 2016b, Systematic Risk Behavior in
 Cyclical Industries: The Case of Shipping, Transportation Research Part E 88,
@@ -15119,29 +14790,7 @@ Loan balloon
 USD8.0 million
 Loan interest rate
 4.5% p.a. payable semi-annually
-Note :  DD dry docking,  SS special survey
-
-## 14 Financial Analysis and the Modeling of Ship Investment
-
-317
-
-**Table 14.3  Sensitivity table I: sensitivity of equity IRR to changes in assumptions**
-
-|  | Ship OPEX (ex DD) (USD) | IRR (%) | Average TC rate per day (USD) | IRR (%) | Ship residual value (USD) | IRR (%) | Ship purchase price (USD) | IRR (%) | Loan interest rate (USD) | IRR (%) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | 5,700 | 20.8 | 9,500 | 11.3 | 33.00 | 15.6 | 23.00 | 25.9 | 0.50 | 21.8 |
-|  | 5,900 | 20.3 | 10,500 | 13.2 | 34.00 | 16.5 | 24.00 | 24.0 | 1.50 | 21.1 |
-|  | 6,100 | 19.9 | 11,500 | 15.1 | 35.00 | 17.3 | 25.00 | 22.3 | 2.50 | 20.4 |
-|  | 6,300 | 19.4 | 12,500 | 17.0 | 36.00 | 18.2 | 26.00 | 20.6 | 3.50 | 19.7 |
-| **Base case** | **6,500** | **19.0** | **13,500** | **19.0** | **37.00** | **19.0** | **27.00** | **19.0** | **4.50** | **19.0** |
-|  | 6,500 | 19.0 | 14,500 | 20.9 | 38.00 | 19.8 | 28.00 | 17.4 | 5.50 | 18.3 |
-|  | 6,700 | 18.5 | 15,500 | 22.9 | 39.00 | 20.5 | 29.00 | 16.0 | 6.50 | 17.6 |
-|  | 6,900 | 17.6 | 16,500 | 24.9 | 40.00 | 21.3 | 30.00 | 14.5 | 7.50 | 16.8 |
-|  | 7,100 | 16.3 | 17,500 | 26.9 | 41.00 | 22.0 | 31.00 | 13.2 | 8.50 | 16.1 |
-
-**Table 14.4  Sensitivity table II: sensitivity of equity IRR to changes in ship residual value**
-
-and average TC rate
+Note :  DD dry docking,  SS special survey and average TC rate
 Average TC rate during project period
 $11,500
 $12,500
@@ -15222,14 +14871,32 @@ The table shows how the IRR for equity invested varies in response to
 changes in the assumptions for the combination of average TC rate and
 ship residual value. Key ratios and indicators are also calculated, as shown in
 
+## 14 Financial Analysis and the Modeling of Ship Investment
+
+317
+
+**Table 14.3  Sensitivity table I: sensitivity of equity IRR to changes in assumptions**
+
+|  | Ship OPEX (ex DD) (USD) | IRR (%) | Average TC rate per day (USD) | IRR (%) | Ship residual value (USD) | IRR (%) | Ship purchase price (USD) | IRR (%) | Loan interest rate (USD) | IRR (%) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 5,700 | 20.8 | 9,500 | 11.3 | 33.00 | 15.6 | 23.00 | 25.9 | 0.50 | 21.8 |
+|  | 5,900 | 20.3 | 10,500 | 13.2 | 34.00 | 16.5 | 24.00 | 24.0 | 1.50 | 21.1 |
+|  | 6,100 | 19.9 | 11,500 | 15.1 | 35.00 | 17.3 | 25.00 | 22.3 | 2.50 | 20.4 |
+|  | 6,300 | 19.4 | 12,500 | 17.0 | 36.00 | 18.2 | 26.00 | 20.6 | 3.50 | 19.7 |
+| **Base case** | **6,500** | **19.0** | **13,500** | **19.0** | **37.00** | **19.0** | **27.00** | **19.0** | **4.50** | **19.0** |
+|  | 6,500 | 19.0 | 14,500 | 20.9 | 38.00 | 19.8 | 28.00 | 17.4 | 5.50 | 18.3 |
+|  | 6,700 | 18.5 | 15,500 | 22.9 | 39.00 | 20.5 | 29.00 | 16.0 | 6.50 | 17.6 |
+|  | 6,900 | 17.6 | 16,500 | 24.9 | 40.00 | 21.3 | 30.00 | 14.5 | 7.50 | 16.8 |
+|  | 7,100 | 16.3 | 17,500 | 26.9 | 41.00 | 22.0 | 31.00 | 13.2 | 8.50 | 16.1 |
+
+**Table 14.4  Sensitivity table II: sensitivity of equity IRR to changes in ship residual value**
+
 **Table  14.5 . A discussion of these key ratios and indicators follows below.**
 
 Loan To Value (LTV)   Th is is a ratio that shows the extent to which the
 balance of the outstanding loan is covered (secured) by the market value of
 318
-L. Patterson
-
-the ship. It is normally found as a covenant in term sheets and loan agree-
+L. Patterson the ship. It is normally found as a covenant in term sheets and loan agree-
 ments. Traditionally, it used to be expressed as the ratio of the market value
 of the ship divided by the outstanding loan balance, in other words the
 “value to loan”. It has, however, become more common to show the maxi-
@@ -15254,25 +14921,7 @@ the ship age, and an argument can be made that the LTV should be somewhat
 less onerous at the beginning of the loan.
 Debt Service Ratio  Th is ratio is calculated by taking the total cash flow avail-
 able to service debt during a specified period and dividing it by the total
-amount of debt repayment plus interest payment for the same period. The
-
-**Table 14.5  Key ratios and indicators**
-
-| Year | 0 | 1 | 2 | 3 | 4 | 5 |
-| --- | --- | --- | --- | --- | --- | --- |
-| LTV | 120% | 120% | 120% | 120% | 120% | 120% |
-| Required minimum value (USD million) | 16.2 | 15.4 | 14.6 | 13.7 | 12.9 | 12.1 |
-| Debt service ratio |  | 1.7 | 1.3 | 1.7 | 1.6 | 1.6 |
-| Interest cover ratio |  | 3.6 | 2.9 | 3.8 | 3.9 | 4.0 |
-| Debt service USD per day |  | 3,626 | 3,663 | 3,452 | 3,365 | 3,278 |
-| Debt service break even USD per day |  | 10,647 | 11,137 | 10,880 | 11,005 | 11,137 |
-
-
-## 14 Financial Analysis and the Modeling of Ship Investment
-
-319
-
-period chosen is normally that from one debt repayment date to the next
+amount of debt repayment plus interest payment for the same period. The period chosen is normally that from one debt repayment date to the next
 (typically, six months).
 Interest Cover Ratio  Th is ratio is calculated by dividing the total cash flow avail-
 able to service debt during a specific period and dividing it by the amount of
@@ -15297,6 +14946,21 @@ of the next dry docking is USD250,000 with 887 earnings days (30 months
 adjusted for ten days off -hire per year) to the next dry docking, then the debt
 service break even is USD12,862 per day, which is the required time-charter
 equivalent (TCE) earnings per day, net of any commissions payable.
+
+**Table 14.5  Key ratios and indicators**
+
+| Year | 0 | 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- | --- |
+| LTV | 120% | 120% | 120% | 120% | 120% | 120% |
+| Required minimum value (USD million) | 16.2 | 15.4 | 14.6 | 13.7 | 12.9 | 12.1 |
+| Debt service ratio |  | 1.7 | 1.3 | 1.7 | 1.6 | 1.6 |
+| Interest cover ratio |  | 3.6 | 2.9 | 3.8 | 3.9 | 4.0 |
+| Debt service USD per day |  | 3,626 | 3,663 | 3,452 | 3,365 | 3,278 |
+| Debt service break even USD per day |  | 10,647 | 11,137 | 10,880 | 11,005 | 11,137 |
+
+## 14 Financial Analysis and the Modeling of Ship Investment
+
+319
 
 ### 14.3  Theory Behind the Ship Investment Criteria
 
@@ -15527,9 +15191,7 @@ ship similar to the dry-bulk Panamax used in our example. Note that in a
 high market the scrap value of the ship is a lower percentage of the charter
 free value of the ship than in a low market. For an old ship in a low market,
 326
-L. Patterson
-
-the scrap value will be a high percentage of the market value of the ship since
+L. Patterson the scrap value will be a high percentage of the market value of the ship since
 the market value is related to the present value of the expected cash flow over
 the remaining economic life of the ship.
 
@@ -15598,9 +15260,7 @@ chartered and for how long. Th is is the ability of the charterer to perform his
 or her contractual obligations, which may vary depending on the tenor. The
 level of exposure at future dates can be calculated by taking the difference
 328
-L. Patterson
-
-between the agreed rate in the charter committed to perform and the current
+L. Patterson between the agreed rate in the charter committed to perform and the current
 market rate for a charter of similar tenor to the balance still outstanding. Th is
 is “marking-to-market” the charter contract exposure. If, for example, we have
 committed to perform a two-year TC at a rate of USD25,000 per day and
@@ -15670,9 +15330,7 @@ out rate is shown in Table  14.7 .
 The calculation of the bareboat rate per day required to pay off  the out-
 standing loan balance over the number of years when the ship still is young
 330
-L. Patterson
-
-enough to meet the banks loan criteria is simply the annuity (PMT function
+L. Patterson enough to meet the banks loan criteria is simply the annuity (PMT function
 in Excel) of the specified number of years, using the cost of debt and dividing
 by 365 days. To make this into a TC or TCE rate, we simply add the estimate
 for OPEX per day going forward and adjust for estimated off -hire days.
@@ -15719,7 +15377,6 @@ acceleration of repayment to get back on track.
 | Estimated scrap value | USD1.2 million |
 | Required loan trade out rate to scrap | USD1,792 per day bareboat |
 
-
 ## 14 Financial Analysis and the Modeling of Ship Investment
 
 331
@@ -15760,9 +15417,7 @@ granted that an investment in a ship with a higher level of risk requires a
 higher level of (expected) return than a less risky investment. For the pur-
 pose of the analysis, it is assumed that ship prices and charter rates reflect all
 332
-L. Patterson
-
-relevant information at any time, and that new information will be reflected
+L. Patterson relevant information at any time, and that new information will be reflected
 quickly in changing ship prices and charter rates. An effi  cient market prices
 risk so that a more risky investment will require a higher expected return than
 a less risky investment. In real life, markets may not always be 100% effi  cient
@@ -15940,9 +15595,7 @@ costs from freight rate increases, take a long (buy) position. If freight rates 
 up falling below the agreed (FFA/CFSA) rate, the buyer of FFAs pays the dif-
 ference, between the agreed FFA/CFSA price and the settlement price, to the
 338
-M.G. Kavussanos and I.D. Visvikis
-
-seller of the FFAs/CFSAs. The opposite is true if freight rates increase above
+M.G. Kavussanos and I.D. Visvikis seller of the FFAs/CFSAs. The opposite is true if freight rates increase above
 the agreed (FFA/CFSA) price.
 
 **Figure  15.1 presents the annual trade volumes (in lots) for different seg-**
@@ -16015,9 +15668,7 @@ vidual route is calculated and sectoral freight indices are created, for instanc
 for Capesize, Panamax and Supramax vessels, which are then reported to the
 market. Over the years, several sectoral indices have been created to meet
 340
-M.G. Kavussanos and I.D. Visvikis
-
-the needs of market participants trading in these sectors. Th ese are discussed
+M.G. Kavussanos and I.D. Visvikis the needs of market participants trading in these sectors. Th ese are discussed
 next, but see also Kavussanos and Visvikis ( 2006a ) for a detailed description
 of earlier periods.
 In the dry-bulk sector, the Baltic Exchange Dry Bulk Index (BDI) was
@@ -16387,9 +16038,7 @@ Source : Baltic Exchange
 **Table 15.1 (continued)**
 
 344
-M.G. Kavussanos and I.D. Visvikis
-
-sectors, driven by distinct market conditions, and as such should be repre-
+M.G. Kavussanos and I.D. Visvikis sectors, driven by distinct market conditions, and as such should be repre-
 sented by separate freight indices. Panels A, B and C of Table  15.2 present
 the BDTI, BCTI and BITR Asia indices and their constituent freight routes,
 respectively, as they stand in January 2016. Just as with the dry-bulk freight
@@ -16694,18 +16343,16 @@ average “baskets” in panel C.
 
 Since in OTC markets each counterparty accepts credit risk from the other
 party, clearing houses provide the mechanism through which credit risk can
-be sold to them for a fee. Th us, in the case of default, the party that made a
-
-## 15 Maritime Business Freight Risk Management
-
-351
-
-profit will still be paid by the clearing house through its daily mark-to-market
+be sold to them for a fee. Th us, in the case of default, the party that made a profit will still be paid by the clearing house through its daily mark-to-market
 mechanism. Following the 2008 financial crisis, almost all freight derivatives
 transactions are cleared.
 In December 2003, London Clearing House (LCH) Limited merged with
 Clearnet S.A. to form LCH.Clearnet Group. During September 2005, LCH.
 Clearnet launched a clearing and settlement system for freight derivatives.
+
+## 15 Maritime Business Freight Risk Management
+
+351
 
 **Table  15.8 presents the available freight derivatives contracts cleared on LCH.**
 
@@ -17023,13 +16670,7 @@ kers registered with the Shanghai Clearing House (SHCH) can be settled
 | P3A | Panamax | Transpacific Round–Japan | TC |
 
 Note : Half-day contracts refer to ½ day = 1 lot. The rest are full-day contracts
-Source : SGX AsiaClear
-
-## 15 Maritime Business Freight Risk Management
-
-355
-
-in Chinese RMB, with the Baltic Exchange indices as the underlying assets.
+Source : SGX AsiaClear in Chinese RMB, with the Baltic Exchange indices as the underlying assets.
 The Shanghai Pudong Development Bank acts as a general clearing member
 (GCM) of the SHCH, and provides central counterparty clearing. Several bro-
 kers, such as Freight Investor Services, Simpson, Spence & Young, Windely,
@@ -17038,6 +16679,10 @@ Salles are registered as RMB-FFA brokers. Shipping companies, which meet
 the registration requirements in China, are now permitted to trade RMB
 freight derivatives for hedging and trading purposes. Th is development cre-
 ates an “on-shore market” in China to satisfy the demand of local participants.
+
+## 15 Maritime Business Freight Risk Management
+
+355
 
 #### 15.4.4  Freight Options
 
@@ -17179,9 +16824,7 @@ ket BFAs. Th ese are based on mid-bid–ask FFA prices, as provided by a panel
 of FFA brokers appointed by the Baltic Exchange. The panelists report to the
 Exchange, by 1630 London time, their professional judgment of mid-FFA
 358
-M.G. Kavussanos and I.D. Visvikis
-
-market prices on each Baltic index publication day, for the routes defined by
+M.G. Kavussanos and I.D. Visvikis market prices on each Baltic index publication day, for the routes defined by
 the Exchange. The Exchange calculates an average of the panelists’ figures for
 each route and then reports these BFA prices to the market by 1730 London
 time. If no actual FFA trade has been conducted on a specific day for a speci-
@@ -17344,16 +16987,14 @@ Supramax
 –
 Handysize
 6TC Time-charter
-Source : Baltic Exchange
+Source : Baltic Exchange summarized in Table  15.17 . Six consecutive months, starting with the current
+month, can be traded. The trading hours are 0855–1130 and 1330–1500,
+Beijing time. In 2014, transactions exceeded RMB500 billion, with trade vol-
+ume around 27 million lots.
 
 ## 15 Maritime Business Freight Risk Management
 
 361
-
-summarized in Table  15.17 . Six consecutive months, starting with the current
-month, can be traded. The trading hours are 0855–1130 and 1330–1500,
-Beijing time. In 2014, transactions exceeded RMB500 billion, with trade vol-
-ume around 27 million lots.
 
 ### 15.7  Regulations in Derivatives Markets
 
@@ -17808,9 +17449,7 @@ G. Alexandridis (*)
 ICMA Centre, Henley Business School, University of Reading, Whiteknights, RG6
 6BA, Reading, UK
 M. Singh
-V.Group Limited, 1st Floor, 63, Queen Victoria Street, London EC4N 4UA, UK
-
-in this handbook, are likely to trigger further consolidation across an industry
+V.Group Limited, 1st Floor, 63, Queen Victoria Street, London EC4N 4UA, UK in this handbook, are likely to trigger further consolidation across an industry
 that has traditionally resisted it, calling for a contemporary, in-depth analysis
 of this rather under-explored area within the maritime spectrum.
 16.2	 The Shipping M&A Market
@@ -17851,9 +17490,7 @@ Finally, acquisitions of assets and fleets are prevalent in the shipping industr
 particularly among ship-owning companies and investors, because the syn-
 ergies sought for by buyers can often be realized by simply purchasing the
 372
-G. Alexandridis and M. Singh
-
-target business’s assets without the need to carry out more complex deals that
+G. Alexandridis and M. Singh target business’s assets without the need to carry out more complex deals that
 involve full-scale integration of operations.
 In order to provide valuable insights on the structure and historical trends
 of the shipping M&A market, we have utilized an exhaustive sample of deals
@@ -17934,9 +17571,7 @@ equity pumped more than USD50 billion into shipping between 2012 and
 
 zontal deals are concerned (where both the acquirer and the target are shipping
 374
-G. Alexandridis and M. Singh
-
-oriented), around 60 % are between maritime shipping companies, 18 % are
+G. Alexandridis and M. Singh oriented), around 60 % are between maritime shipping companies, 18 % are
 port related, less than 6 % are linked to passenger shipping and the remaining
 17 % are “congeneric” deals between companies that operate in different sub-
 segments of the shipping spectrum. Statistics on the listing status of the com-
@@ -18071,9 +17706,7 @@ in 2005–08, before the market crash, when USD106 billion was spent on over
 
 Thomson Reuters SDC and Clarksons Research)
 376
-G. Alexandridis and M. Singh
-
-index (an index of earnings for the main vessel types published by Clarksons
+G. Alexandridis and M. Singh index (an index of earnings for the main vessel types published by Clarksons
 Research) is particularly compelling. With a 50 % correlation between the index
 and the value of deals, it appears that years of high freight rates tend to be linked
 to surges in acquisition activity. This is consistent with both neoclassical and
@@ -18210,9 +17843,7 @@ DryShips to venture into Offshore shipping and benefit from diversification when
 **Fig. 16.4  Main motives in shipping M&As**
 
 378
-G. Alexandridis and M. Singh
-
-and efficiency gains through operating and financial synergies. These drivers
+G. Alexandridis and M. Singh and efficiency gains through operating and financial synergies. These drivers
 relate mainly to buyers in acquisition deals (the buy-side perspective) or to
 both buyers and sellers in mergers. It should be noted that, although the
 motives appear segregated in the figure, some may exhibit a degree of interre-
@@ -18397,9 +18028,7 @@ management, alignment of culture, customer overlap, market share, resources
 and capabilities, level of profitability and recent financial performance, cash
 conversion, CAPEX requirements, client concentration and level of synergies
 382
-G. Alexandridis and M. Singh
-
-achievable. Further considerations are the size of the target company, the geog-
+G. Alexandridis and M. Singh achievable. Further considerations are the size of the target company, the geog-
 raphy in which it operates, and the level of operational and integration risk.
 Taking into account the strategic rationale and investment attractions for each
 of the shortlists of targets, the acquirer will then engage with the highest priority
@@ -18435,13 +18064,7 @@ post-merger or acquisition. Acquiring companies will consider the valuation
 of the target (see pp. 384–394) and assess returns on investment, factoring
 the above risks against the investment and the synergy case for the proposed
 merger or acquisition. The funding mechanism for M&A transactions (see
-pp. 394–398) will also have a significant impact on the returns’ analysis as
-
-## 16  Mergers and Acquisitions in Shipping
-
-383
-
-well as the scoping of the due diligence process, depending on the structure
+pp. 394–398) will also have a significant impact on the returns’ analysis as well as the scoping of the due diligence process, depending on the structure
 and stakeholders involved in the financing of the transaction.
 When M&A activity is undertaken as part of a structured on-going and
 often long-term program, the process of identification and analysis of possible
@@ -18480,6 +18103,10 @@ not limited to, approvals required from statutory bodies, anti-trust/competi-
 tion, anti-bribery and employment unions.
 384
 G. Alexandridis and M. Singh
+
+## 16  Mergers and Acquisitions in Shipping
+
+383
 
 16.4.5	Post-acquisition Integration Process
 A high proportion of M&A transactions that fail to generate the envisaged
@@ -18525,9 +18152,7 @@ of a controlling stake of shares) that involves a synergy gain, the value of the
 |  |
 | --- |
 
-Fig. 16.7 M&A pricing framework
-
-combined entity is expected to be higher than the standalone value of the two companies involved. The distribution of the synergy gains between the acquiring and target shareholders is determined by the offer price. Figure 16.7 illustrates a basic M&A pricing framework. The sum of the standalone values of the acquirer ( \( V_{A} \) ), the target ( \( V_{T} \) ) and the synergy gain from the combination ( \( V_{S} \) ) yields the total value of the combined company ( \( V_{C} \) ). The purchase price or deal value ( \( V_{D} \) ) tends to be higher than the standalone value of the target by an amount equal to the offer premium ( \( O_{P} \) ). \( ^{6} \)  This is the share of the synergy gain allocated to target shareholders. Any residual value generated from the combination over and above the price paid by the acquiring company (and any acquisition process expenses incurred) is the net present value (NPV) accruing to acquiring shareholders. \( ^{7} \)
+Fig. 16.7 M&A pricing framework combined entity is expected to be higher than the standalone value of the two companies involved. The distribution of the synergy gains between the acquiring and target shareholders is determined by the offer price. Figure 16.7 illustrates a basic M&A pricing framework. The sum of the standalone values of the acquirer ( \( V_{A} \) ), the target ( \( V_{T} \) ) and the synergy gain from the combination ( \( V_{S} \) ) yields the total value of the combined company ( \( V_{C} \) ). The purchase price or deal value ( \( V_{D} \) ) tends to be higher than the standalone value of the target by an amount equal to the offer premium ( \( O_{P} \) ). \( ^{6} \)  This is the share of the synergy gain allocated to target shareholders. Any residual value generated from the combination over and above the price paid by the acquiring company (and any acquisition process expenses incurred) is the net present value (NPV) accruing to acquiring shareholders. \( ^{7} \)
 
 It becomes obvious that estimating a standalone intrinsic value for the target company as well as the synergies from the combination is central to M&A valuation. The ultimate value of the target to the acquiring company is given by:
 
@@ -18539,11 +18164,7 @@ It becomes obvious that estimating a standalone intrinsic value for the target c
 
 If  \( V_{Tmax} \)  is paid by the acquirer, then the entire value of synergies ( \( V_{s} \) ) is allocated to target shareholders, and the NPV of the deal for the acquiring company is zero. This is a key threshold in M&A valuation and, if exceeded, the deal will destroy value for acquiring shareholders (see pp. 398–406). Thus, the final offer price will typically be between  \( V_{T} \)  (“floor value”) and  \( V_{Tmax} \), when acquiring and target shareholders share the synergistic gains from the combination.
 
-The main valuation methods commonly employed in the shipping industry are discounted cash flow (DCF), market and transaction multiples, and
-
-385
-
-combined entity is expected to be higher than the standalone value of the two
+The main valuation methods commonly employed in the shipping industry are discounted cash flow (DCF), market and transaction multiples, and combined entity is expected to be higher than the standalone value of the two
 companies involved. The distribution of the synergy gains between the acquir-
 ing and target shareholders is determined by the offer price. Figure 16.7 illus-
 trates a basic M&A pricing framework. The sum of the standalone values of
@@ -18561,10 +18182,10 @@ valuation. The ultimate value of the target to the acquiring company is given
 by:
 **Fig. 16.7  M&A pricing framework**
 
-386
-G. Alexandridis and M. Singh
+385
 
-asset-based valuation. Since one size does not fit all in shipping, there are cer-
+386
+G. Alexandridis and M. Singh asset-based valuation. Since one size does not fit all in shipping, there are cer-
 tain valuation methods that are more appropriate when pricing M&A deals
 in specific segments. Nevertheless, the reliability of the estimates tends to
 improve when employing multiple approaches and taking into account the
@@ -18602,13 +18223,7 @@ long-term charter contracts) such as, for instance, LNG shipping companies.
 
 required.
 A young company can be valued using a two-stage DCF model. During the
-first stage it experiences a high growth rate in sales (gt) which is expected to
-
-## 16  Mergers and Acquisitions in Shipping
-
-387
-
-converge to a rate more in line with the overall growth of the economy in the
+first stage it experiences a high growth rate in sales (gt) which is expected to converge to a rate more in line with the overall growth of the economy in the
 second stage (steady state growth, gs). The standalone value of a target in this
 case would be equal to the sum of the present value of the FCFs from the high
 growth period (i.e. the short-term valuation component)—typically five to ten
@@ -18632,12 +18247,14 @@ FCF denotes the cash flow available to all investors holding claims (equity
 and debt holders) on the company’s resources.9 This enterprise cash flow is a
 before-interest cash flow estimated by adding back non-cash charges (such as
 
+## 16  Mergers and Acquisitions in Shipping
+
+387
+
 **Fig. 16.8  Overview of DCF valuation approach**
 
 388
-G. Alexandridis and M. Singh
-
-depreciation and amortization) to earnings before interest after tax (EBIAT)
+G. Alexandridis and M. Singh depreciation and amortization) to earnings before interest after tax (EBIAT)
 and deducting net reinvestment needs (net CAPEX) and the increase in net
 working capital (ΔNWC).10 For a maritime company, capital expenditures
 can be sizable and include vessel repair and replacement costs and dry dock-
@@ -18676,13 +18293,7 @@ The value of the standalone target’s equity (VT) is then given by subtract-
 ing the market value of the company’s debt from the enterprise value of the
 target EVT and adding any excess cash that can be used for the purpose of debt
 repayment (i.e. net debt).14 Comprehensive sensitivity analysis of the final
-estimate to the varying values for key inputs/assumptions is also essential, and
-
-## 16  Mergers and Acquisitions in Shipping
-
-389
-
-a range of estimates is typically considered. To estimate VTmax in Eq. (16.1), the
+estimate to the varying values for key inputs/assumptions is also essential, and a range of estimates is typically considered. To estimate VTmax in Eq. (16.1), the
 standalone valuation inputs discussed above need to be adjusted to reflect the
 scenario where the target company operates as the acquiring company’s fully
 owned subsidiary or is fully integrated within the acquirer. In this case, the
@@ -18727,9 +18338,7 @@ value of a target (VT) as a function of a measure of its own earnings—for inst
 EBITDA—and the corresponding multiple of a single or a group of com-
 parable companies with similar business/product, growth, profitability/cash
 390
-G. Alexandridis and M. Singh
-
-flow, financial and operational risk profiles. Since variations in such charac-
+G. Alexandridis and M. Singh flow, financial and operational risk profiles. Since variations in such charac-
 teristics may lead to significantly different valuation multiples, the process
 of selecting appropriate peers is critical. When valuing a liner company, for
 instance, one should select other liner companies of similar size, fleet profile
@@ -18808,6 +18417,10 @@ Lines
 3.7x
 0.7x
 10.1x
+
+## 16  Mergers and Acquisitions in Shipping
+
+389
 
 **Fig. 16.9  Forward valuation multiples for selected container/liner companies**
 
@@ -18925,9 +18538,7 @@ Reuters SDC and company reports)
 *Deal value includes debt liabilities
 †The four-week premium is reported for listed targets
 392
-G. Alexandridis and M. Singh
-
-the business and risk profile of the target, taking into account the nature of the
+G. Alexandridis and M. Singh the business and risk profile of the target, taking into account the nature of the
 acquiring company, the state of the market and the degree of success of the past
 comparable transactions can increase the reliability of the estimates.
 16.5.3	Asset-Based Valuation
@@ -18969,13 +18580,7 @@ This needs to be adjusted for any remaining payments to the seller/shipyard.
 NLA is net liquid assets.
 VDEBT is the MV of debt outstanding.
 One may also apply a premium to the above (depending on the spot charter
-rates) for any long-term charterparty agreements, and add the market value
-
-## 16  Mergers and Acquisitions in Shipping
-
-393
-
-of any minority stakes the company holds in other businesses. While NAVT
+rates) for any long-term charterparty agreements, and add the market value of any minority stakes the company holds in other businesses. While NAVT
 can form the basis of analyzing the value of a ship-owning target company
 in an M&A deal, it may only be utilized as a “floor value” in cases where the
 combination is expected to generate additional operational synergies.
@@ -19013,9 +18618,7 @@ target’s preferences and ownership structure, as well as tax implications and
 legal ramifications, among other factors. The financing mix is also contingent
 on elements such as the business type (e.g. ship-owning vs services) and the
 394
-G. Alexandridis and M. Singh
-
-associated risks and assets involved. Moreover, leveraged buyouts carried out
+G. Alexandridis and M. Singh associated risks and assets involved. Moreover, leveraged buyouts carried out
 by private equity companies typically involve more complex financing struc-
 tures. Figure 16.11 provides a summary of the main financing methods used
 in M&As in the shipping industry.
@@ -19059,6 +18662,10 @@ Subordinated
 loans
 Bridge
 Loans
+
+## 16  Mergers and Acquisitions in Shipping
+
+393
 
 **Fig. 16.11  Shipping M&A financing methods**
 
@@ -19108,9 +18715,7 @@ Bridge loan financing serves to fill the gap between the deal announce-
 ment and the arrangement of formal long-term financing. It involves a short-
 term commitment, provided by an investment bank, that financing will be
 396
-G. Alexandridis and M. Singh
-
-available until the closing date of an acquisition deal. The investment bank
+G. Alexandridis and M. Singh available until the closing date of an acquisition deal. The investment bank
 providing the bridge loan commitment is not typically involved directly in the
 long-term financing of the deal but acts as a financing arranger and financial
 advisor in the underlying acquisition.
@@ -19200,9 +18805,7 @@ customers were lost to competition and economies of scale did not materialize
 as originally planned, which later resulted in restructuring and job cuts. The
 costs of carrying out large mergers involving duplicate operations can often
 398
-G. Alexandridis and M. Singh
-
-outweigh the gains. On the dry-bulk ship-owning spectrum, Excel Maritime
+G. Alexandridis and M. Singh outweigh the gains. On the dry-bulk ship-owning spectrum, Excel Maritime
 acquired Quintana Maritime in 2008 for USD2.45 billion, almost tripling its
 fleet size and becoming one of the largest dry-bulk shipping companies in the
 world, right at the brink of a major shipping downturn. Although Quintana
@@ -19300,9 +18903,7 @@ shipping, and provides a summary of the most significant value creation drivers.
 There are several different approaches to measuring value creation in M&As.
 A quantifiable measure would reflect the economic effects of a consolidation
 400
-G. Alexandridis and M. Singh
-
-to the owners of the business. While in practice a deal has an impact on other
+G. Alexandridis and M. Singh to the owners of the business. While in practice a deal has an impact on other
 stakeholders such as employees or society, these effects are not easily measur-
 able and are normally evaluated on an anecdotal basis. Since the actual results
 of a consolidation are not fully apparent before full integration of the join-
@@ -19341,13 +18942,7 @@ is more appropriate is contingent on the trade-off of the pros and cons of each
 approach. From a methodological perspective, short-term approaches offer
 “cleaner” measures of value creation. In fact, there is strong evidence that
 abnormal returns around M&A announcements are taken seriously by the
-acquiring company’s executive suite in the decision of whether to complete
-
-## 16  Mergers and Acquisitions in Shipping
-
-401
-
-eventually or withdraw a deal (Luo 2005). This indicates that managers
+acquiring company’s executive suite in the decision of whether to complete eventually or withdraw a deal (Luo 2005). This indicates that managers
 believe that the market is, in fact, quite efficient in pricing M&A valuation
 effects and take this feedback seriously.
 Although short-term approaches are more straightforward to use, a com-
@@ -19386,6 +18981,10 @@ following two alternative bids by OMI and Fortress Investment Group. The
 first was rejected by the target’s board and the second was eventually withdrawn
 402
 G. Alexandridis and M. Singh
+
+## 16  Mergers and Acquisitions in Shipping
+
+401
 
 **Fig. 16.14  Measuring M&A value creation**
 
@@ -19520,9 +19119,7 @@ in an M&A transaction
 **Fig. 16.16  Some key ingredients of shipping M&A success**
 
 406
-G. Alexandridis and M. Singh
-
-is the nature of the combined customer base and the routes to market for the
+G. Alexandridis and M. Singh is the nature of the combined customer base and the routes to market for the
 combined business, the higher tends to be the value enhancement from the
 M&A transaction.
 16.8	 Conclusion
@@ -19602,9 +19199,7 @@ addition to accounting for non-cash charges, for the change in working
 capital and for reinvestment needs. When discounting equity cash flows
 the cost of equity ke is used instead of WACC. The same is the case when
 408
-G. Alexandridis and M. Singh
-
-discounting the company’s DCFs instead of its FCFs in dividend
+G. Alexandridis and M. Singh discounting the company’s DCFs instead of its FCFs in dividend
 valuation.
 10.	 The appropriate tax rate to use in EBIAT is the company’s marginal tax
 rate.

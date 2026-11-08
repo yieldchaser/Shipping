@@ -22,7 +22,7 @@ In 2021, Europe’s seaborne diesel and gasoil imports from Russia amounted to 6
 
 The U.S. has also been a traditional exporter of diesel to Europe, they generally have a surplus of diesel as their transportation fleet is more gasoline focused while Europe is traditionally more diesel focused. Europe increased their imports from the U.S. by 140% in 2023 (from 72 Kb/d in 2022 to 173 Kb/d in 2023). India increased its diesel exports to Europe by 77% (from 84 Kb/d to 193 Kb/d) while imports from Saudi Arabia increased by 24% (from 197 Kb/d to 244 Kb/d). Obviously, this added to ton-mile demand for product tankers. Ton-Mile demand from diesel imports into Europe increased by 34%, even though the total volume shipped declined by 6% over the first 9 months of the year. These longer haul voyages have also led to an increase in the involvement of LR2s in European diesel imports. The volume imported by coated Aframaxes increased by 59%, compared to 2022, while MR volumes declined by 32%.
 
-European refinery runs have declined from pre-covid levels due to a combination of refinery closures (abt. 600 Kb/d) and lower utilization rates. IEA data shows that refinery crude throughput rates in 2023 were about 370 Kb/d lower than in 2022, even though refining capacity is similar. When Saudi Arabia and Russia cut crude oil production, they limited the availability of the cheaper, heavier grades which typically have a higher diesel yield, so refiners produce less diesel, even with the same throughput. Growing demand for aviation fuel, as the Covid-19 pandemic recedes, has limited the available middle distillates for road diesel and heating oil. Some of these trends are global
+European refinery runs have declined from pre-covid levels due to a combination of refinery closures (abt. 600 Kb/d) and lower utilization rates. IEA data shows that refinery crude throughput rates in 2023 were about 370 Kb/d lower than in 2022, even though refining capacity is similar. When Saudi Arabia and Russia cut crude oil production, they limited the availability of the cheaper, heavier grades which typically have a higher diesel yield, so refiners produce less diesel, even with the same throughput. Growing demand for aviation fuel, as the Covid-19 pandemic recedes, has limited the available middle distillates for road diesel and heating oil. Some of these trends are global phenomena, which have tightened the diesel market worldwide.
 
 *Chart*
 
@@ -31,8 +31,6 @@ European refinery runs have declined from pre-covid levels due to a combination 
 *Source: Vortexa*
 
 *Source: IEA*
-
-phenomena, which have tightened the diesel market worldwide.
 
 As a result, Europe has not managed to increase their inventory levels to normal pre-winter levels (see figure 2). European middle distillate inventories are about 16% lower than the average of 2017 to 2021. In the winter of 2022/23 European diesel and gasoil demand benefited from relatively warm weather which kept demand for heating oil under control. However, Europe needs to step up their imports or hope for another mild winter.
 

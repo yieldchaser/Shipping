@@ -131,9 +131,7 @@ Vortexa - Global Freight Snapshot
 > **Figure 9: Ανώνυμο Σχέδιο (3)**  
 > **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/10/31/vijsx2jd20a4mfbmgflsu7y0mlox6f) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_72af0d115f81.png)
 
-Brazil has increasingly solidified its dominant role in global grain production, particularly in soybeans,
-
-Signal Ocean - Dry Weekly Market Monitor
+Brazil has increasingly solidified its dominant role in global grain production, particularly in soybeans, Signal Ocean - Dry Weekly Market Monitor
 
 ## Dirty Tonne Days VLCC
 

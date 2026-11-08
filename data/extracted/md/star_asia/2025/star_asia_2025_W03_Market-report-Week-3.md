@@ -313,9 +313,7 @@ Bangladesh's imported scrap market was subdued due to weak domestic demand and s
 
 Turkey's imported scrap market continued its downward trend throughout the week, weighed down by sluggish demand for finished steel and low sales volumes. Mills purchased lower-priced EU and US-origin cargoes, with trade values ranging from US$327-342/ton CFR. Oversupply and cautious buying dominated the landscape, while European recyclers faced challenges in adjusting collection costs amid severe winter conditions, limiting their competitiveness.
 
-Mills capitalised on the Euro's depreciation and the availability of ample January shipments to negotiate lower prices, with bids targeting US$325-327/ton CFR. However,
-
-some sellers remained optimistic about a February recovery, citing stronger US domestic fundamentals that could tighten export supplies. Despite this, weak rebar demand, low
+Mills capitalised on the Euro's depreciation and the availability of ample January shipments to negotiate lower prices, with bids targeting US$325-327/ton CFR. However, some sellers remained optimistic about a February recovery, citing stronger US domestic fundamentals that could tighten export supplies. Despite this, weak rebar demand, low
 
 #### construction activity, and divided price expectations kept market sentiment bearish, with mills opting for minimal restocking
 

@@ -296,11 +296,9 @@ limited buyer interest and a substantial gap between offers and bids. Shredded s
 
 **Turkish ferrous scrap prices plummeted mid-week as mills resumed activity after a**
 
-prolonged hiatus. Turkish buyers secured a European bulk vessel at US$376/t CFR, while US-origin HMS (80:20) offers at US$390/t CFR were deemed unworkable. Two US bulk cargoes were reported: HMS (90:10) at US$381/t CFR and shredded/PNS scraps at US$396/t CFR. Market sentiment remained weak, with Turkish mills anticipating further price declines due to high recycler inventories. EU-origin HMS (80:20) offers ranged around US$375-378/t CFR, with aggressive Baltic offers at US$380-382/t CFR. Mills
+prolonged hiatus. Turkish buyers secured a European bulk vessel at US$376/t CFR, while US-origin HMS (80:20) offers at US$390/t CFR were deemed unworkable. Two US bulk cargoes were reported: HMS (90:10) at US$381/t CFR and shredded/PNS scraps at US$396/t CFR. Market sentiment remained weak, with Turkish mills anticipating further price declines due to high recycler inventories. EU-origin HMS (80:20) offers ranged around US$375-378/t CFR, with aggressive Baltic offers at US$380-382/t CFR. Mills remained hesitant to pay above US$380/t CFR, considering production cuts amid sluggish rebar demand. Overall, the ferrous scrap markets continue to navigate through a challenging period, with buyers and sellers alike bracing for further developments in the coming weeks.
 
 ## Page 18
-
-remained hesitant to pay above US$380/t CFR, considering production cuts amid sluggish rebar demand. Overall, the ferrous scrap markets continue to navigate through a challenging period, with buyers and sellers alike bracing for further developments in the coming weeks.
 
 ## HMS 1/2 & Tangshan Billet
 

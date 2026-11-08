@@ -34,17 +34,7 @@ The price of iron ore rebounded midweek after experiencing two consecutive days 
 
 ### Capesize:
 
-This week, rates in Capes fell slightly due to pressure before the year-end holidays and an
-
-imbalance in the supply of ships between different water basins. Vessels in the Pacific basin
-
-that are sailing to the Atlantic during the year-end holiday period may have difficulty finding a
-
-second port due to a lack of market activity. T.C. in the T/A saw an increase of 42% start of
-
-week but fell slightly to US$31,250 at week's closing. Pacific round voyages declined by 3%
-
-due to an imbalance in supply between different water basins, with levels in the region of
+This week, rates in Capes fell slightly due to pressure before the year-end holidays and an imbalance in the supply of ships between different water basins. Vessels in the Pacific basin that are sailing to the Atlantic during the year-end holiday period may have difficulty finding a second port due to a lack of market activity. T.C. in the T/A saw an increase of 42% start of week but fell slightly to US$31,250 at week's closing. Pacific round voyages declined by 3% due to an imbalance in supply between different water basins, with levels in the region of
 
 US$14,150 a day.
 
@@ -58,9 +48,7 @@ The United States continues to be a leading player in the Supramax market this w
 
 ### Handysize:
 
-This week, the Handysize market in the Atlantic saw some pressure with last-minute deals pushing through before the holidays. Levels rose slightly at the start of the week but fell to US$11,350 a day on Friday. In the Pacific, things were slowing down with a sufficient supply
-
-of vessels, but overall, there was a lack of activity in the region. Inter-Pacific closed lower at US$7,500 a day.
+This week, the Handysize market in the Atlantic saw some pressure with last-minute deals pushing through before the holidays. Levels rose slightly at the start of the week but fell to US$11,350 a day on Friday. In the Pacific, things were slowing down with a sufficient supply of vessels, but overall, there was a lack of activity in the region. Inter-Pacific closed lower at US$7,500 a day.
 
 ## Page 3
 
@@ -108,35 +96,17 @@ of vessels, but overall, there was a lack of activity in the region. Inter-Pacif
 
 # Tankers
 
-According to analysts, oil prices will return to US$100 per barrel in 2023. Some believe that
+According to analysts, oil prices will return to US$100 per barrel in 2023. Some believe that many of the factors that have held back oil prices this year, including China's zero-Covid policy and coordinated SPR releases by various governments, will no longer be prevalent in
 
-many of the factors that have held back oil prices this year, including China's zero-Covid
+2023. Alongside sanctions on Russia's oil and gas, this will also drive oil prices up, with many predicting that the energy sector will continue to outperform other market sectors due to the high demand for oil and gas stocks.
 
-policy and coordinated SPR releases by various governments, will no longer be prevalent in
+The Bank of America also recently predicted that Brent could reach US$90 per barrel or more due to a dovish pivot by the U.S. Federal Reserve and a successful economic reopening by
 
-2023. Alongside sanctions on Russia's oil and gas, this will also drive oil prices up, with many
-
-predicting that the energy sector will continue to outperform other market sectors due to the
-
-high demand for oil and gas stocks.
-
-The Bank of America also recently predicted that Brent could reach US$90 per barrel or more
-
-due to a dovish pivot by the U.S. Federal Reserve and a successful economic reopening by
-
-China. The bank expects Brent prices, currently trading at US$77.93, to average US$100/bbl
-
-in 2023 due to a recovery in Chinese oil demand and a drop in Russian supplies. OPEC+ is
-
-expected to fully implement a 2 million bpd output cut in an effort to boost oil prices.
+China. The bank expects Brent prices, currently trading at US$77.93, to average US$100/bbl in 2023 due to a recovery in Chinese oil demand and a drop in Russian supplies. OPEC+ is expected to fully implement a 2 million bpd output cut in an effort to boost oil prices.
 
 However, the bank notes that their projections rely heavily on strong demand growth in
 
-China and India, and any delays in reopening in Asia could impact the expected price
-
-trajectory. Crude oil futures have recently been declining due to concerns about a global
-
-recession and weaker demand from China.
+China and India, and any delays in reopening in Asia could impact the expected price trajectory. Crude oil futures have recently been declining due to concerns about a global recession and weaker demand from China.
 
 ### VLCC:
 

@@ -26,11 +26,9 @@ Source: Poten
 
 To remain in the same 80% utilisation zone as other sectors, however, Suezmaxes have been forced to fight for market share with VLCCs and Aframaxes. The reason for this share struggle has been the rapid fleet growth of the Suezmax sector relative to demand prospects. As shown in the chart on the following page, the delivery of 42 Suezmaxes during 2012 through August has swelled fleet growth to 9.3% year-over-year (yoy), with annualised growth of 13% during the past three months. In contrast, slowing deliveries and consistent demolition have dampened Aframax fleet growth to 1.2% yoy, while
 
-VLCC fleet growth is moving away from its 8% growth pace. Although the pace of VLCC
+VLCC fleet growth is moving away from its 8% growth pace. Although the pace of VLCC fleet growth has punished earnings, VLCCs have enjoyed an organic demand benefit from increased AG production and from Asian crude import sourcing trends. The rising supply of light/sweet crude in the Atlantic Basin has tightened the Brent-Dubai crude price spread, which has encouraged Asian refiners to lift additional volumes of West African and other Brent-linked Atlantic Basin crudes, typically on VLCCs. Moreover, the continued demand from other Asian refiners for heavier crudes, in order to support growing upgrading capacity, has supported VLCC demand for Caribs, Mexican and Brazilian stems.
 
 *Chart: Rapid VLCC fleet growth, but supportive VLCC fundamentals*
-
-fleet growth has punished earnings, VLCCs have enjoyed an organic demand benefit from increased AG production and from Asian crude import sourcing trends. The rising supply of light/sweet crude in the Atlantic Basin has tightened the Brent-Dubai crude price spread, which has encouraged Asian refiners to lift additional volumes of West African and other Brent-linked Atlantic Basin crudes, typically on VLCCs. Moreover, the continued demand from other Asian refiners for heavier crudes, in order to support growing upgrading capacity, has supported VLCC demand for Caribs, Mexican and Brazilian stems.
 
 *Chart: Dirty Tanker Fleet Growth*
 

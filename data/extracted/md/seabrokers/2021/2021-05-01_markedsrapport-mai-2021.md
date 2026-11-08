@@ -353,15 +353,11 @@ The Australian government has proposed an industry-wide levy which will be used 
 
 The government decided to impose the levy because it did not want taxpayers to have to cover the cost of rehabilitating the Laminaria-Corallina field in the Timor Sea after the owner, Northern Oil & Gas Australia (NOGA), went into liquidation in 2019.
 
-NOGA acquired the field from Woodside Petroleum and Talisman Energy back in 2016
-
-and decommissioning costs have been reported to have reached AUD 1 billion (USD 776 million) if all facilities are required to be removed.
+NOGA acquired the field from Woodside Petroleum and Talisman Energy back in 2016 and decommissioning costs have been reported to have reached AUD 1 billion (USD 776 million) if all facilities are required to be removed.
 
 ExxonMobil and Chevron have both raised their disappointment and concerns because neither of them has had any stake in the field in the past. If this decision is approved it is feared it might set a precedent with significant implications for extractive industries in Australia.
 
-It has been reported that discussions are underway with industry representatives on how
-
-the levy could be introduced. One option understood to be under consideration would be to calculate different company contributions based on their production volumes.
+It has been reported that discussions are underway with industry representatives on how the levy could be introduced. One option understood to be under consideration would be to calculate different company contributions based on their production volumes.
 
 That would mean international majors like Shell and Chevron, the largest oil & gas producers in Australia, would bear a bigger share of the cost than companies who previously owned the Laminaria-Corallina field.
 
@@ -369,13 +365,9 @@ This levy is something to keep a close eye on, and if successful for Australia, 
 
 ## SUBSEA 7 AWARDED MERO 3 SCOPE
 
-Petrobras has awarded Subsea 7 a contract for the development of the Mero 3 project offshore Brazil. The contract scope will include the engineering, fabrication, installation and pre-commissioning of 80km of rigid risers and flowlines, 60km of flexible service lines and 50km of umbilicals and the associated infrastructure. Subsea 7 will also install the mooring
+Petrobras has awarded Subsea 7 a contract for the development of the Mero 3 project offshore Brazil. The contract scope will include the engineering, fabrication, installation and pre-commissioning of 80km of rigid risers and flowlines, 60km of flexible service lines and 50km of umbilicals and the associated infrastructure. Subsea 7 will also install the mooring lines and the hook-up for a floating production storage and offloading (FPSO) unit.
 
-lines and the hook-up for a floating production storage and offloading (FPSO) unit.
-
-Subsea 7's offices in both Rio de Janeiro and Paris will share responsibility for the project management and engineering. That phase of the project will commence immediately. The company's spoolbase in Vitoria, Brazil, will be responsible for
-
-the fabrication of the pipelines. Offshore operations will be executed in 2023 and 2024 using Subsea 7's fleet of reeled rigid pipelay vessels.
+Subsea 7's offices in both Rio de Janeiro and Paris will share responsibility for the project management and engineering. That phase of the project will commence immediately. The company's spoolbase in Vitoria, Brazil, will be responsible for the fabrication of the pipelines. Offshore operations will be executed in 2023 and 2024 using Subsea 7's fleet of reeled rigid pipelay vessels.
 
 subsea 7
 
@@ -383,11 +375,7 @@ subsea 7
 
 Ultra Deep Solutions (UDS) has secured a new subsea decommissioning contract from MPF Asia for a project offshore Thailand.
 
-The campaign will commence in September and will continue into 2022 with extensions. UDS
-
-will deploy two DP2 diving support and construction vessels (DSCVs) for the project: the MT6024-designed Lichtenstein and the MT6023-designed Andy Warhol. The Lichtenstein, built in 2017, is 121m long with an 18-man saturation dive system
-
-and a maximum lift of 140t. The newbuild DSCV Andy Warhol is due to be delivered this year. This unit is also equipped with an 18-man saturation dive system, however unlike the Lichtenstein the Andy Warhol has a larger 150t crane.
+The campaign will commence in September and will continue into 2022 with extensions. UDS will deploy two DP2 diving support and construction vessels (DSCVs) for the project: the MT6024-designed Lichtenstein and the MT6023-designed Andy Warhol. The Lichtenstein, built in 2017, is 121m long with an 18-man saturation dive system and a maximum lift of 140t. The newbuild DSCV Andy Warhol is due to be delivered this year. This unit is also equipped with an 18-man saturation dive system, however unlike the Lichtenstein the Andy Warhol has a larger 150t crane.
 
 # SUBSEA
 

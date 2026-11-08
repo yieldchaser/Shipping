@@ -26,7 +26,7 @@ In the VLCC segment, Unipec continues to be in a league of its own. More reporte
 
 *Chart: Top 10 Suezmax Spot Charterers*
 
-Chevron remained the largest Suezmax charterer in H1 2018, Repsol and Shell remained 2nd and 3rd respectively. There were a few changes in the other positions, but the established order remained largely intact. The only notable changes were that Turkish charterer Tupras and Italy’s ENI disappeared from
+Chevron remained the largest Suezmax charterer in H1 2018, Repsol and Shell remained 2nd and 3rd respectively. There were a few changes in the other positions, but the established order remained largely intact. The only notable changes were that Turkish charterer Tupras and Italy’s ENI disappeared from the top 10 ranking and were replaced by BPCL and ExxonMobil. The total number of reported Suezmax spot fixtures in H1 2018 (1,624) was 23% higher than in the first half of 2017 (1,320), a significant increase.
 
 | 2018 H1 Rank | Charterer | Reported Total Cargo (MT 000's) | % of Total Dirty Cargoes | 2017 H1 Rank | 2018 H1 Fixtures |
 | --- | --- | --- | --- | --- | --- |
@@ -55,8 +55,6 @@ Chevron remained the largest Suezmax charterer in H1 2018, Repsol and Shell rema
 |  | Total | 746,023 | 100.0% |  | 5,401 |
 
 Source: Poten & Partners
-
-the top 10 ranking and were replaced by BPCL and ExxonMobil. The total number of reported Suezmax spot fixtures in H1 2018 (1,624) was 23% higher than in the first half of 2017 (1,320), a significant increase.
 
 **No. Spot**
 

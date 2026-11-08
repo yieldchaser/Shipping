@@ -24,15 +24,13 @@ However, there is light at the end of the tunnel. OPEC has started to increase p
 
 Freight rates are driven by the interplay between tanker demand and supply. With demand on the path to recovery (but still well below pre-pandemic levels), let’s look at tanker supply. Unfortunately, the picture is not encouraging.
 
-In the first quarter of 2019, the size of the large tanker fleet (VLCC, Suezmax and Aframax) was approximately 430 Million DWT. VLCCs represented 230 Mdwt (53% of the total). While oil (and tanker) demand dropped significantly during 2020, due to the Covid-19 outbreak, the fleet continued to grow as deliveries continued and scrapping remained low. In April 2021, the size of the crude oil tanker fleet is 11.5% higher than it was
+In the first quarter of 2019, the size of the large tanker fleet (VLCC, Suezmax and Aframax) was approximately 430 Million DWT. VLCCs represented 230 Mdwt (53% of the total). While oil (and tanker) demand dropped significantly during 2020, due to the Covid-19 outbreak, the fleet continued to grow as deliveries continued and scrapping remained low. In April 2021, the size of the crude oil tanker fleet is 11.5% higher than it was in January 2019, while ton-mile demand is 10% lower than the beginning of that year. The market has to bridge this gap before a recovery can take hold.
 
 *Chart*
 
 *Chart*
 
 *Source: Lloyds List Intelligence/Poten*
-
-in January 2019, while ton-mile demand is 10% lower than the beginning of that year. The market has to bridge this gap before a recovery can take hold.
 
 As we mentioned before, the outlook for tanker demand is positive, although new outbreaks of the virus could make the demand recovery somewhat choppy and unpredictable. However, it is tanker supply that poses the bigger problem.
 

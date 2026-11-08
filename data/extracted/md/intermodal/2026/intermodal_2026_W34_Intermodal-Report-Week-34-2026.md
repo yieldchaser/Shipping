@@ -166,9 +166,7 @@ Newbuilding activity comprised 8 orders in tanker, containership and gas carrier
 
 On the tanker side, Evalend placed an order at Yangzijiang Shipbuilding for a quartet of 73.5k dwt tankers, priced at \$55m apiece and due for delivery in 2029. The YZJ Maritime/Taihua Shipmanagement joint venture ordered four stainless steel 28k dwt tankers at Zhoushan Ningshing, with options for a further pair, valued at \$45m-\$46m per unit and scheduled for delivery in 2028-2029.
 
-In containerships, Centrofin booked a pair of 6.4k teu boxships at Hengli Shipbuilding, due for delivery in 2028. Asean Seas Line contracted CSSC Huangpu Wenchong for 2 methanol ready 5.3k teu boxships, with options for another 2 and delivery set for 2029-2030. Ningbo Ocean ordered a quartet of 1.9k teu con-
-
-tainerships at Wuchang SB Group, at a cost of \$30m per vessel and due for delivery in 2028-2029. RCL also commissioned CSSC Huangpu Wenchong for four same size containerships, quoted at \$32m apiece and scheduled for delivery in 2029.
+In containerships, Centrofin booked a pair of 6.4k teu boxships at Hengli Shipbuilding, due for delivery in 2028. Asean Seas Line contracted CSSC Huangpu Wenchong for 2 methanol ready 5.3k teu boxships, with options for another 2 and delivery set for 2029-2030. Ningbo Ocean ordered a quartet of 1.9k teu con-tainerships at Wuchang SB Group, at a cost of \$30m per vessel and due for delivery in 2028-2029. RCL also commissioned CSSC Huangpu Wenchong for four same size containerships, quoted at \$32m apiece and scheduled for delivery in 2029.
 
 In the gas carrier segment, Zhejiang Jiahua Energy placed an order at Nantong CIMC SOE for a single 35k cbm gas carrier, priced at \$112m and due for delivery in 2029. Sogestran also booked a 6k cbm LNG bunkering unit at the same yard, with delivery scheduled for 2029.
 

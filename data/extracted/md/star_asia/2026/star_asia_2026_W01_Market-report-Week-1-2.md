@@ -216,11 +216,9 @@ Anchorage & Beaching Position (JANUARY 2026)
 
 The Pakistani ship recycling market entered 2026 with a renewed sense of purpose, highlighted by the historic inauguration of the country's first HKC-certified recycling facility at Gadani this January.
 
-While domestic recyclers are closely monitoring a slight uptick in global scrap values, the local steel sector has been active in urging the government to address the competitive pressure from duty-free imports entering through the northern borders. Despite these
+While domestic recyclers are closely monitoring a slight uptick in global scrap values, the local steel sector has been active in urging the government to address the competitive pressure from duty-free imports entering through the northern borders. Despite these trade-related concerns, the government’s focus on modernising Gadani’s infrastructure suggests that Pakistan is positioning itself to be a far more competitive and sustainable destination for global tonnage in the coming months.
 
 ## Page 15
-
-trade-related concerns, the government’s focus on modernising Gadani’s infrastructure suggests that Pakistan is positioning itself to be a far more competitive and sustainable destination for global tonnage in the coming months.
 
 Anchorage & Beaching Position (JANUARY 2026)
 

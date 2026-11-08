@@ -22,7 +22,7 @@ Libya’s oil production and exports has always been an important driver of Afra
 
 The United States, which was a significant importer of Libyan crude oil in the late 1970s and early 1980s, with volumes regularly exceeding 500,000 b/d, banned Libyan crude oil imports in March 1982, following the Gulf of Sidra incident. Sanctions on the country tightened further after the Libyan government was implicated in various acts of international terrorism, including the 1988 bombing of Pan Am flight 103 near Lockerbie, Scotland. Although the U.S. crude oil import ban was lifted in 2004, U.S. imports from Libya have remained small. With ample availability of domestic light sweet crude, we do not expect Libya to (re)gain significant market share in the U.S., even if domestic production and exports recover in the coming months and years.
 
-At this point it is uncertain what role China will be playing in Libya’s future. Historically, China has had relatively few investments in Libya but imports of Libyan crude started to pick up in the years prior to the start of the civil war. Our fixture database shows that China received a total of 9 VLCC and 158 Suezmax cargoes from Libya in the last 10 years. This represents 100% of the reported VLCC fixtures loading in Libya and 27% of the Suezmax fixtures. No VLCC fixtures have been reported since 2012, but restarting this long-haul trade provides significant ton-mile potential for tankers. Another Asian destination for Libyan crude is India, representing 10%
+At this point it is uncertain what role China will be playing in Libya’s future. Historically, China has had relatively few investments in Libya but imports of Libyan crude started to pick up in the years prior to the start of the civil war. Our fixture database shows that China received a total of 9 VLCC and 158 Suezmax cargoes from Libya in the last 10 years. This represents 100% of the reported VLCC fixtures loading in Libya and 27% of the Suezmax fixtures. No VLCC fixtures have been reported since 2012, but restarting this long-haul trade provides significant ton-mile potential for tankers. Another Asian destination for Libyan crude is India, representing 10% of Suezmax fixtures.
 
 *Chart: Fig. 1: Libyan crude exports to OECD countries*
 
@@ -31,8 +31,6 @@ At this point it is uncertain what role China will be playing in Libya’s futur
 *Chart*
 
 *Source: Poten & Partners*
-
-of Suezmax fixtures.
 
 However, as Figure 2 clearly shows, Aframaxes continue to dominate Libyan crude oil exports. Over the last 10 years, Aframaxes transported some 70% of the crude out of the country. Poten has recorded more than 2,600 Aframax spot fixtures since 2005, with more than 80% of the vessels remaining in the Mediterranean. Italy is by far the most popular destination for Aframax movements ex-Libya.
 

@@ -26,13 +26,11 @@ A look at the pricing differentials between Arab Medium crude oil and other grad
 
 Although there is, what appears to be, continued improvement in Canadian and US crude oil transportation efficiency (pipelines, waterborne trade, etc.) improving the flow of local crude oil to the US Gulf coast, until new projects come to fruition, demand for incremental Saudi barrels could increase. The strengthening of ties between Caribbean producers, such as Venezuela and Colombia, and China has limited supplies of short‐haul heavy/sour crude oil in the US Gulf. As a result, Saudi Arabia has become a larger percentage of the overall picture. Saudi Arabian crude oil now accounts for approximately 25% of total imports, which marks a significant increase from the 9‐11% range that was experienced as recently as 2010 (see Fig 2.)
 
-Further supporting VLCC ton‐mile demand, it is likely that the Caribbean to Far East trade flow will only strengthen as Chinese credit offered in exchange for oil supplies has the makings of a long‐term symbiotic relationship for many producer nations. In fact, recent news cites that Chinese
+Further supporting VLCC ton‐mile demand, it is likely that the Caribbean to Far East trade flow will only strengthen as Chinese credit offered in exchange for oil supplies has the makings of a long‐term symbiotic relationship for many producer nations. In fact, recent news cites that Chinese companies are expressing interest in becoming producers in Mexico, as the country works to opens its doors to foreign participants.
 
 *Chart: Fig. 2 US Gulf Crude Oil Imports – Saudi Arabia & Total*
 
 *Source: Poten & Partners*
-
-companies are expressing interest in becoming producers in Mexico, as the country works to opens its doors to foreign participants.
 
 In the future, the US Gulf could require an arguably higher proportion of heavy crude to mix with domestically‐produced light inputs. Although Canada will undoubtedly play a larger role in the supply mix over time, dwindling Caribbean supplies of heavy/sour crude oil will likely strengthen the US’s reliance on Saudi Arabian crude oil. With the US Gulf Coast expected to become more dependent on Saudi Arabian crude oil, more westbound cargoes could be afoot.
 

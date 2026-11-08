@@ -171,9 +171,7 @@ The newbuilding market saw a wave of containership orders, while dry bulk contra
 
 On dry bulk, Reederei Nord contracted a 2 firm plus 2 optional series of 211k dwt bulkers at Wuhu Shipyard for 2028-2029 delivery. Greek Neda Maritime placed an order for a pair of 182k dwt bulkers at Hengli Shipbuilding, due for delivery in 2027 at \$76m per unit. Another Greek owner Capital agreed with Hengli Shipbuilding for a quartet of 181k dwt units, scheduled for 2029 delivery. Swiss Mercuria inked a deal for a quartet of 82k dwt bulkers at Wuhu Shipyard for 2028 delivery at \$37m apiece.
 
-On the tanker front, JHI Steamship commissioned Hanwha Ocean, for a single 320k dwt VLCC due for 2029 delivery. Swiss Mercuria exercised an option for a pair of 307k dwt VLCCs at DSIC for 2029 delivery at \$123m per unit. Irish Ardmore Ship-
-
-ping secured a pair of 40.5k dwt oil/chemical tankers at Wuhu Shipyard for 2028-2029 delivery at \$44.9m each.
+On the tanker front, JHI Steamship commissioned Hanwha Ocean, for a single 320k dwt VLCC due for 2029 delivery. Swiss Mercuria exercised an option for a pair of 307k dwt VLCCs at DSIC for 2029 delivery at \$123m per unit. Irish Ardmore Ship-ping secured a pair of 40.5k dwt oil/chemical tankers at Wuhu Shipyard for 2028-2029 delivery at \$44.9m each.
 
 On the containership side, OOIL ordered a 12-unit series of 13.6k teu LNG dual-fuel containerships at Hudong Zhonghua for 2028-2030 delivery at \$185m per vessel. German D. Oltmann inked an order for a pair of 10.1k teu boxships at HJSC Yeongdo, scheduled for 2028 delivery at \$120.6m each. Costamare secured two separate series at DSIC, 12 units of 9.2k teu for 2028-2030 delivery, and a further quartet of 3.1k teu vessels for 2027-2028. Chinese CU Lines placed an order for a quartet of 6.4k teu containerships at Huangpu Wenchong Shipbuilding for 2029-2030 at \$75m per unit. Euroseas contracted a pair of 2.8k teu vessels at Huanghai Shipbuilding at \$46.5m each and separately agreed with Nantong CIMC SOE for a pair of 1.8k teu units, due in 2028 at \$32.5m apiece.
 

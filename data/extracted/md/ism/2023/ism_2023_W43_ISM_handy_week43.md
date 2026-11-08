@@ -18,9 +18,7 @@ charts_count: 4
 
 ## Market Commentary
 
-Negative sentiment prevails literally in all sections of the Supramax/Ultramax market. The USG market, which was the only bright spot for Supramax owners across the Atlantic, has started to cool down this week. «After a clear out of 1H November cargoes, the market looks
-
-largely balanced,» a broker mentioned. Freight rates have stabilized in the region. The shortage of grain offers from ECSA on transatlantic routes triggered a decline in corresponding Supramax rates by $1k daily and $1-2/t. «The South Atlantic market was mostly flat for F/H, while we see softer rates on T/A,» a broker commented. Thus, rates for transportation of 50,000 t of soybeans or corn from Brazil to S.China are still hovering at $43-44/t, while those towards EgyptMed have inched down to $25-26/t.
+Negative sentiment prevails literally in all sections of the Supramax/Ultramax market. The USG market, which was the only bright spot for Supramax owners across the Atlantic, has started to cool down this week. «After a clear out of 1H November cargoes, the market looks largely balanced,» a broker mentioned. Freight rates have stabilized in the region. The shortage of grain offers from ECSA on transatlantic routes triggered a decline in corresponding Supramax rates by $1k daily and $1-2/t. «The South Atlantic market was mostly flat for F/H, while we see softer rates on T/A,» a broker commented. Thus, rates for transportation of 50,000 t of soybeans or corn from Brazil to S.China are still hovering at $43-44/t, while those towards EgyptMed have inched down to $25-26/t.
 
 Meanwhile, the Handy segment continues to strengthen little by little in the Atlantic Ocean. Limited vessel list in USEC and steady traffic on transatlantic and inter-Caribs routes allowed ship owners to raise rates by $1k daily and $1-2/t. «Tonnage is now very tight on the USEC, making it a very attractive market for owners,» a broker shared with ISM. In ECSA, Handysize rates have grown even less significantly, by $0.5k daily and $1/t. Brisk cargo traffic from N.Brazil remains the key driver in the area.
 
@@ -38,9 +36,7 @@ The Supramax/Ultramax market continues to weaken also in APAC and Indian Ocean a
 
 in the Panama Canal is volatile and waiting time for transit varies greatly from day to day (currently waiting time for transit is 3-5 days).
 
-In the Black and Mediterranean Seas, fixing activity may grow again with the resumption of ship traffic from Ukrainian ports, which will help ship owners at least to stabilize rates. On the other hand, we can hardly expect any significant growth here, as there are no preconditions for lively exports of other cargoes besides grain (in particular, of steel products, fertilizers and minerals). The North European market will hardly show any considerable growth of activity as well. Demand for fertilizers looks low among major importers, while coal exports are mainly
-
-carried out by Panamax fleet. Turkish steelmakers are buying European steel scrap for shipments in November, but activity is very low. Demand for European grain remains moderate, and traders find it difficult to compete with cheap Russian and Ukrainian grain (even despite cheaper logistics).
+In the Black and Mediterranean Seas, fixing activity may grow again with the resumption of ship traffic from Ukrainian ports, which will help ship owners at least to stabilize rates. On the other hand, we can hardly expect any significant growth here, as there are no preconditions for lively exports of other cargoes besides grain (in particular, of steel products, fertilizers and minerals). The North European market will hardly show any considerable growth of activity as well. Demand for fertilizers looks low among major importers, while coal exports are mainly carried out by Panamax fleet. Turkish steelmakers are buying European steel scrap for shipments in November, but activity is very low. Demand for European grain remains moderate, and traders find it difficult to compete with cheap Russian and Ukrainian grain (even despite cheaper logistics).
 
 If the tonnage list continues to grow in Asia, ship owners will most likely have to make further concessions. Such a development is very likely in the region. «I feel market will go only down and down in coming weeks,» a competent broker shares.
 

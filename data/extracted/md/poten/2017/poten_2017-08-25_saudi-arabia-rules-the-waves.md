@@ -26,7 +26,7 @@ Additionally, Saudi Arabia has increased its local refining capacity by building
 
 According to Lloyd’s List Intelligence tanker traffic data, about 2/3 of the total Saudi exports in 2017 were destined for Asia and 1/3 is heading to the Western hemisphere. Saudi Arabian exports are almost exclusively on VLCC tankers: In 2017, 90% of the barrels were loaded into VLCCs. Japan is the largest customer of Saudi Arabian crude oil, with imports of 1.0 Mb/d in 2017, although China is not far behind with 930 Kb/d. Japanese imports increased by about 100 Kb/d from the same period in 2016 while Indian imports from Saudi Arabia declined as they imported more crude oil from Iran. Exports to Singapore also declined by about 100 Kb/d.
 
-The U.S. is the largest Saudi customer in the Western hemisphere with direct crude oil imports of 580 Kb/d in the U.S. Gulf area and an additional 260 Kb/d to the US West Coast. Much of the U.S. Gulf imports are for the 600 Kb/d Motiva refinery that is owned by Saudi Refining. Additional barrels are
+The U.S. is the largest Saudi customer in the Western hemisphere with direct crude oil imports of 580 Kb/d in the U.S. Gulf area and an additional 260 Kb/d to the US West Coast. Much of the U.S. Gulf imports are for the 600 Kb/d Motiva refinery that is owned by Saudi Refining. Additional barrels are imported through the Sumed pipeline, which runs parallel to the Suez Canal, and are then shipped from Sidi Kerir in the Mediterranean to the U.S. and to Europe. Canadian East Coast refiners also import about 100 Kb/d of crude oil from Saudi Arabia.
 
 *Chart*
 
@@ -35,8 +35,6 @@ The U.S. is the largest Saudi customer in the Western hemisphere with direct cru
 *Source: Jodi*
 
 *Source: Lloyd’s List Intelligence*
-
-imported through the Sumed pipeline, which runs parallel to the Suez Canal, and are then shipped from Sidi Kerir in the Mediterranean to the U.S. and to Europe. Canadian East Coast refiners also import about 100 Kb/d of crude oil from Saudi Arabia.
 
 Over the last months, there have been regular press reports that Saudi Arabia is directing its exports towards Asian markets or, on other occasions, towards Western markets. The above graph indicates that, although exports vary somewhat from month to month, the export patterns are quite stable. Increases in exports in one direction or another are typically reversed in the following month. On average, in the first 7 months of 2017, 69% of Saudi exports went to Asia, the same percentage as the prior year although in the last two months U.S. shipments were lower than average.
 

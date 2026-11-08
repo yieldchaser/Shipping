@@ -26,7 +26,7 @@ Does this mean that the traditional “winter market” is a thing of the past a
 
 Shipping logistics are more affected by weather issues in the winter than in the summer. Heavy weather is more in the northern hemisphere (Atlantic and Pacific), with storms and ice affecting vessel speed and utilization. In the winter there are also frequent occurrences of fog in the Bosphorus which invariably leads to delays thus tying up tonnage. Unexpected weather delays create scheduling problems for charterers and force a last minute clamber for tonnage, inevitably pushing up rates.
 
-Last year’s winter market began in earnest with a VLCC rate rally as Far Eastern charterers moved unusually high volumes of crude oil in October, disturbing the market balance and as
+Last year’s winter market began in earnest with a VLCC rate rally as Far Eastern charterers moved unusually high volumes of crude oil in October, disturbing the market balance and as regional shortages pushed up rates. These rate increases quickly spread from the VLCC sector to Suezmaxes and Aframaxes.
 
 *Chart: Fig. 1 Reported VLCC fixtures versus rates*
 
@@ -35,8 +35,6 @@ Last year’s winter market began in earnest with a VLCC rate rally as Far Easte
 *Chart: Fig. 2 Winter oil demand versus average annual demand*
 
 *Source: IEA*
-
-regional shortages pushed up rates. These rate increases quickly spread from the VLCC sector to Suezmaxes and Aframaxes.
 
 It is unclear if this year’s winter market will develop the same way as last year. However, the ingredients are all there: a fairly balanced fleet, rising political uncertainty and fluctuating oil prices. All tanker owners need is for someone to stir the pot.
 

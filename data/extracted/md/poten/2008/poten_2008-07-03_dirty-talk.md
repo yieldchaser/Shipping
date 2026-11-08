@@ -16,9 +16,7 @@ charts_count: 1
 
 Producers, traders, brokers, buyers, regulators and financiers th annual Bunker & Residual gathered this June in Houston at Platts 5 Fuel Oil Conference to hear other industry players’ views of what the future holds for the “bottom of the barrel” oils. All of the presentations outlined the general notion that the fuel oil industry grapples with fast-changing developments such as heavier crude slates, refinery upgrades, decline in consumption by the electricity and manufacturing industries, and fuel oil quality modifications reflecting increasing environmental concerns.
 
-To give some perspective on the direction marine fuel regulations are headed, Stefka Ilieva, a fuel oil analyst and editor of Poten’s monthly publication Fuel Oil in World Markets, was invited as a panel speaker to share her views on the impact of the International Maritime Organization’s (IMO) bunker fuel standards on bunker production as well as possible solutions. The following is an outline of the
-
-th.
+To give some perspective on the direction marine fuel regulations are headed, Stefka Ilieva, a fuel oil analyst and editor of Poten’s monthly publication Fuel Oil in World Markets, was invited as a panel speaker to share her views on the impact of the International Maritime Organization’s (IMO) bunker fuel standards on bunker production as well as possible solutions. The following is an outline of the th.
 
 presentation given in Houston on June 24
 
@@ -30,9 +28,7 @@ Annex VI went on to create two Sulfur Emissions Control Areas (SECAs) in the Bal
 
 IMO Marpol Annex VI Regulations Timetable Year Date Regulation Historical Legislation 4.5%S global bunker fuel cap 2005 2006 Baltic SECA 1.5%S enters into force 2007 Nov 22 North Sea SECA 1.5%S commences Future Legislation 2010 Mar 1 1.0%S max restrictions in the SECAs from current 1.5%S 3.5%S global bunker fuel cap from current 4.5%S cap 2012 Jan 1 2015 Jan 1 0.10%S max restriction in the SECAs 2020 / 2025 Jan 1 0.5%S global bunker fuel cap (subject to feasibility study in 2018)
 
-The Annex VI revisions call for worldwide bunker fuel sulfur maximum to st 2012. Further proposals call for a be reduced to 3.5% by January 1 st 2020, subject to a feasibility study to be 0.5% sulfur limit on January 1 completed by 2018. If the study reaches negative conclusions about the sufficient availability of 0.5% sulfur marine fuel, the sulfur cap effective
-
-st 2025.
+The Annex VI revisions call for worldwide bunker fuel sulfur maximum to st 2012. Further proposals call for a be reduced to 3.5% by January 1 st 2020, subject to a feasibility study to be 0.5% sulfur limit on January 1 completed by 2018. If the study reaches negative conclusions about the sufficient availability of 0.5% sulfur marine fuel, the sulfur cap effective st 2025.
 
 date will be extended to January 1
 

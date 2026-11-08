@@ -249,7 +249,7 @@ Pakistan In Pakistan, the market for imported scrap remained largely stagnant, w
 
 Bangladesh The market in Bangladesh mirrored this sluggishness, with minimal interest from local steel mills. Shredded scrap from Australia was quoted between US$360 and US$362/ton, while offers for primary new steel (PNS) from Singapore and Hong Kong ranged from US$360 to US$366/ton. On the domestic front, prices for melted and ship scrap softened to between BDT 45,000 and 48,000 per ton (about US$368~US$393).
 
-Turkiye In contrast to the quieter South Asian markets, Turkiye saw stable prices following the Christmas holiday, bolstered by a steady flow of deal-making. Steelmakers in the region have been actively securing materials for late January and early February shipments
+Turkiye In contrast to the quieter South Asian markets, Turkiye saw stable prices following the Christmas holiday, bolstered by a steady flow of deal-making. Steelmakers in the region have been actively securing materials for late January and early February shipments before the full holiday break begins. Despite the expected slowdown in trading momentum due to the season, the tone among market participants remains optimistic. Currently, scrap levels for shipments originating from the U.S. are being reported at around US$370/ton.
 
 | CURRENCY | EXCHANGE RATES | December 30 | December 19 | W-O-W % CHANGE |
 | --- | --- | --- | --- | --- |
@@ -259,10 +259,7 @@ Turkiye In contrast to the quieter South Asian markets, Turkiye saw stable price
 | USD / PKR (PAKISTAN) |  | 280.13 | 280.18 | +0.02% |
 | USD / TRY (TURKEY) |  | 42.93 | 42.73 | -0.47% |
 
-
 ## Page 16
-
-before the full holiday break begins. Despite the expected slowdown in trading momentum due to the season, the tone among market participants remains optimistic. Currently, scrap levels for shipments originating from the U.S. are being reported at around US$370/ton.
 
 ## HMS 1/2 & Tangshan
 

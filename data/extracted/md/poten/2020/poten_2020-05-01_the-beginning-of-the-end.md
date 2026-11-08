@@ -22,7 +22,7 @@ Today, May 1, 2020 is the official start of the OPEC+ production cuts and many c
 
 Last week, the oil markets were dominated by the news of negative WTI crude oil prices and how that will impact the oil industry going forward. While this was going on, every major news agency published reports about the lack of storage capacity and demand for floating storage went through the roof. Since then, oil prices have staged a small recovery. This has somewhat reduced the contango in the oil markets. This effectively means that traders can afford to pay less for floating storage. This has temporarily reduced demand for floating storage.
 
-As we move into May and the reduced OPEC+ production levels become the new normal, it will be interesting to see how the tanker market develops. Most of the VLCCs that were
+As we move into May and the reduced OPEC+ production levels become the new normal, it will be interesting to see how the tanker market develops. Most of the VLCCs that were fixed in recent weeks for floating storage have yet to load. Once they do, they will either stay in the Arabian Gulf or sail to one of the main floating storage areas in the Far East. Outside of these two areas, floating storage (i.e. vessels are stationary for at least 20 days) is still relatively limited, but the expectation is that, in the future, more vessels will effectively be storing crude oil on the U.S. West Coast, in the U.S. Gulf and around Europe.
 
 *Chart*
 
@@ -31,8 +31,6 @@ As we move into May and the reduced OPEC+ production levels become the new norma
 *Source: Poten & Partners*
 
 *Source: Lloyd’s List Intelligence*
-
-fixed in recent weeks for floating storage have yet to load. Once they do, they will either stay in the Arabian Gulf or sail to one of the main floating storage areas in the Far East. Outside of these two areas, floating storage (i.e. vessels are stationary for at least 20 days) is still relatively limited, but the expectation is that, in the future, more vessels will effectively be storing crude oil on the U.S. West Coast, in the U.S. Gulf and around Europe.
 
 Over time, having more vessels employed on floating storage means that the pool of available tonnage to do spot voyages will gradually diminish. This means that we will likely see continued volatility in tanker rates going forward and we don’t expect spot rates to fall to the levels we saw in February of this year.
 

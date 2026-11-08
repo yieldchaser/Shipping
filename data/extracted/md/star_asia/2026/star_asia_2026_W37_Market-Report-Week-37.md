@@ -24,7 +24,6 @@ Regional diplomacy in the Middle East is attempting its first coordinated dialog
 
 ## Page 2
 
-
 # DRY BULK | BDI: 3,507 ▼3.34% (w-o-w)
 
 Dry bulk market sustained its trajectory start of week, expanding on genuine demand-driven momentum across all segments despite an increase in open ballast vessel capacity across the fleet. Sustained strength was visible but as the week wore on, corrections were made with headline Baltic Dry Index (BDI) slipping to 3,507 points on Friday-marking a 3.34% dipped. Capesize index saw over 350 points discounts wrapping up the week at 6,080 points. Meanwhile, the Panamax index held steady, finishing flat at 2,407 points, while the Supramax index gained 2.63% w-o-w to reach 1,719 points.
@@ -40,7 +39,6 @@ Dry bulk market sustained its trajectory start of week, expanding on genuine dem
 **Handysize:** Handysize market held steady with a slight firming bias, as owners remained selective across spot and short-period employment. Activity was largely driven by minor bulk stems, though welldistributed vessel availability continued to keep overall freight gains measured across both basins. Spot earnings posted modest adjustments across key routes, lifting Inter-Pacific runs to US$16,550's and CIS R/V to US$14,925's, while T/A rates softened marginally to US$17,500's per day.
 
 ## Page 3
-
 
 ### Baltic Dry Index (BDI)
 
@@ -89,7 +87,6 @@ Dry bulk market sustained its trajectory start of week, expanding on genuine dem
 
 ## Page 5
 
-
 # TANKERS | BDTI: 3,385 ▲+20.68% (w-o-w)
 
 Global tanker freight rates have surged to historic peaks as drawn-out hostilities in the Persian Gulf severely bottleneck international supply lines. Earnings for VLCCs on the benchmark MEG/China have climbed to nearly US$800,000, while the long-haul USG/Asia run has commanded record lumpsum offers of US$29.5 million, or close to US$15 per barrel before factoring in additional war-risk premiums or demurrage. With persistent security risks threatening Red Sea transit and the Bab el-Mandeb chokepoint, analysts anticipate baseline supertanker earnings will remain above US$100,000 per day into next year, while two-year charter rates are projected to increase by 20% to 30%. This freight explosion coincides with a sharp escalation in crude benchmarks, with both Brent and West Texas Intermediate breaking through the US$100 per barrel barrier this week. Outflows through the Strait of Hormuz, have dropped sharply to under 2 million barrels daily, with shipping data confirming that not a single VLCC departed the waterway between September 2 and late week.
@@ -107,8 +104,6 @@ Global tanker freight rates have surged to historic peaks as drawn-out hostiliti
 **MR:** Far East closed higher on the back of robust tonnage demand, driven by a recovery in Chinese refined product exports and expanding flows of middle distillates into Australia. In the MEG, Tc17 trips to E. Africa also saw big gains jumping over 150 points to close at WS708 on Friday. UKC however remain flat this week with TC2 settling at WS100s mark.
 
 ## Page 6
-
-
 
 ### Baltic Tanker Indices
 
@@ -152,7 +147,6 @@ Global tanker freight rates have surged to historic peaks as drawn-out hostiliti
 
 ## Page 8
 
-
 # CONTAINERS
 
 SCFI rose to 3,662.18 points on Friday fuelled by resilient U.S. demand, alongside enduring vessel backlogs at major Chinese export gateways, continued to offset softer pricing into Europe. Transpacific trades remained exceptionally supported by physical bottlenecks, with Drewry noting that 68% of the cancelled sailings over the five-week period from September 7 are concentrated on Americas services, even as broader blank sailings hold at a modest 6%. Across Asia, lingering operational delays from typhoon disruptions in Shanghai and Ningbo severely constrained short-sea capacity, pushing Southeast Asian spot rates up. This firm operational pricing unfolds against record-setting physical volumes, as Container Trades Statistics recorded an all-time monthly global high of 17.3 million TEU in July-up 5.1% y-o-y. According to Xenata, spot rates from the Far East have fallen 18% into Northern Europe and 28% into the Mediterranean since early July, a trend reinforced as ocean carriers continue shifting more vessels back to the Suez Canal corridor. In the Middle East, spot rates held flat this week as immediate upward momentum stalled; however, regional security friction around the Strait of Hormuz continues to push transshipment flows toward the Indian Subcontinent, resulting in vessel shortages and port.
@@ -186,7 +180,6 @@ SCFI rose to 3,662.18 points on Friday fuelled by resilient U.S. demand, alongsi
 | 9,000 TEU | $145,525 | $51,700 | $75,775 | $107,025 | $115,000 |
 
 ## Page 10
-
 
 ### Ship Recycling - Current Market Snapshot (USD / LDT)
 
@@ -225,7 +218,6 @@ All prices are USD per light displacement tonnage (long ton), net prices offered
 
 ## Page 12
 
-
 ## Market Insights
 
 **Alang, India:** Alang maintained a resilient outlook, even as its recent price rally levelled off. Following 7 consecutive weeks of rising domestic steel values, local plate prices paused and hovered just below recent peaks, with only a minor downward correction taking hold across the yards. While local plot operators have improved their price indications to keep pace, Alang's levels remain below those of Bangladesh and Pakistan, leaving standard tonnage difficult to capture. Nevertheless, Indian shipbreakers continue to keep activity humming by securing sanctioned tonnage and non-standard assets, drawing significant structural support from the ongoing absence of Iranian steel imports, which leaves domestic re-rolling mills eager for ship-derived scrap.
@@ -248,7 +240,6 @@ The IRRC is issued by the vessel's Flag Administration or its Recognized Organiz
 This additional requirement is expected to place greater procedural pressure on Sellers, who may need additional time and incur further costs before vessels can proceed to Chattogram for recycling.
 
 ## Page 13
-
 
 The IRRC is issued by the vessel's Flag Administration or its Recognized Organisation/Class Society following a successful final survey. Before issuance, the surveyor verifies that:
 
@@ -280,7 +271,6 @@ In fresh data released by the State Bank of Pakistan on September 10, the centra
 
 ## Page 14
 
-
 ## Gaddani Anchorage & Beaching Position - August 2026
 
 | VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
@@ -298,7 +288,6 @@ Official figures revealed that annual inflation ticked down slightly to 31.51% i
 ## TIDE DATES 2026 | Chattogram: 10 ~13 September | 26 ~ 29 September Alang: 08 ~ 16 September | 25 September ~ 3 October
 
 ## Page 15
-
 
 # SUB-CONTINENT & TURKEY SCRAP MARKETS
 
@@ -318,12 +307,9 @@ Benchmark three-month copper on the London Metal Exchange climbed as much as 0.8
 
 Conversely, the ferrous sector remains constrained by eroding financial returns in China, where iron ore futures retreated toward CNY 730 per ton from recent six-week peaks and domestic steel rebar futures hovered near two-week lows around CNY 3,105 per ton. Producer margins deteriorated significantly, with only about 30% of Chinese steelmakers operating profitably as of September 4, a steep drop from 32.5% the previous week and 61% recorded during the same timeframe last year.
 
-Consequently, blast furnace operating rates across Chinese mills trimmed down 0.48% points w-o-w to 89.08%, driving daily pig iron output lower by 5,200 metric tons to 2.4028 million metric tons, while procurement was further clouded by state buyer China Mineral Resources Group advising select mills
+Consequently, blast furnace operating rates across Chinese mills trimmed down 0.48% points w-o-w to 89.08%, driving daily pig iron output lower by 5,200 metric tons to 2.4028 million metric tons, while procurement was further clouded by state buyer China Mineral Resources Group advising select mills against purchasing Rio Tinto's Pilbara Blend ore. Looking further out in the bulk freight space, South Korea's HMM secured a long-term maritime agreement with Vale valued at approximately US$3.5 billion to begin transporting Brazilian ore in 2030, underscoring ongoing confidence in distant seaborne volumes despite near-term headwinds in Asian factory demand.
 
 ## Page 16
-
-
-against purchasing Rio Tinto's Pilbara Blend ore. Looking further out in the bulk freight space, South Korea's HMM secured a long-term maritime agreement with Vale valued at approximately US$3.5 billion to begin transporting Brazilian ore in 2030, underscoring ongoing confidence in distant seaborne volumes despite near-term headwinds in Asian factory demand.
 
 ### Iron Ore
 
@@ -355,7 +341,6 @@ against purchasing Rio Tinto's Pilbara Blend ore. Looking further out in the bul
 
 ## Page 17
 
-
 ### Exchange Rates (continued)
 
 | CURRENCY PAIR | SEPTEMBER 11 | SEPTEMBER 4 | WoW % |
@@ -375,4 +360,3 @@ against purchasing Rio Tinto's Pilbara Blend ore. Looking further out in the bul
 | FUJAIRAH | $780 | $621 | $1388 |
 | ROTTERDAM | $662 | $530 | $1299 |
 | HOUSTON | $690 | $472 | $1253 |
-

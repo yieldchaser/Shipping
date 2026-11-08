@@ -280,11 +280,9 @@ India's imported scrap market remains subdued as buyers maintain a cautious stan
 
 ## Bangladesh
 
-Acute liquidity constraints and seasonal demand softness continue to plague Bangladesh's imported scrap market, where rising freight costs have further dampened already weak buying interest. Australian shredded and PNS offers stand at US$375-380/t and US$385/t CFR Chattogram respectively but face strong buyer resistance with a striking bid-offer gap of US$57/t hampering transactions. The few deals concluded include Australian HMS 80:20 at US$355/t and Chilean HMS 90:20 at US$348/t CFR, while New Zealand shredded offers hover around US$385/t and Malaysian loose busheling at
+Acute liquidity constraints and seasonal demand softness continue to plague Bangladesh's imported scrap market, where rising freight costs have further dampened already weak buying interest. Australian shredded and PNS offers stand at US$375-380/t and US$385/t CFR Chattogram respectively but face strong buyer resistance with a striking bid-offer gap of US$57/t hampering transactions. The few deals concluded include Australian HMS 80:20 at US$355/t and Chilean HMS 90:20 at US$348/t CFR, while New Zealand shredded offers hover around US$385/t and Malaysian loose busheling at similar levels. Notably, UK and EU scrap sources remain largely unviable due to prohibitive freight rates, compounding the market's stagnation amid tight rebar margins and subdued construction activity.
 
 ## Page 17
-
-similar levels. Notably, UK and EU scrap sources remain largely unviable due to prohibitive freight rates, compounding the market's stagnation amid tight rebar margins and subdued construction activity.
 
 ## Pakistan
 

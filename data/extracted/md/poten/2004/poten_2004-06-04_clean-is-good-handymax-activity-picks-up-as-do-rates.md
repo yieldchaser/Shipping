@@ -26,11 +26,9 @@ Handymax voyages on the whole have been increasing during the past five years at
 
 ### Trade Routes Change Focus
 
-The changing nature of clean product trade is apparent in the next chart. There has been remarkable growth in the intra-Southeast Asia trade dominated by
+The changing nature of clean product trade is apparent in the next chart. There has been remarkable growth in the intra-Southeast Asia trade dominated by growth in oil demand in China. China has an active refinery building program, but it is insufficient to cover growth in demand for oil products. The Caribbean - US trade collapsed in 2002 from Venezuelan civil unrest, but overall, this important trade for clean product tankers has not exhibited much in the way of growth. On the other hand, the UKC trade is rapidly expanding and its volume of fixtures is currently exceeding Caribbean fixtures.
 
 *Chart: Handymax Spot Fixtures by Principal Trades*
-
-growth in oil demand in China. China has an active refinery building program, but it is insufficient to cover growth in demand for oil products. The Caribbean - US trade collapsed in 2002 from Venezuelan civil unrest, but overall, this important trade for clean product tankers has not exhibited much in the way of growth. On the other hand, the UKC trade is rapidly expanding and its volume of fixtures is currently exceeding Caribbean fixtures.
 
 ### Evident Impact
 

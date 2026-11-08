@@ -24,7 +24,7 @@ Since the lockdowns were lifted, the economic outlook for China has improved. Li
 
 Oil demand growth has followed the general economy, especially jet fuel demand as air travel has picked up. According to China’s Civil Aviation Administration, passenger traffic on domestic routes increased by 192% in March compared to the prior year and the volumes of passengers on international routes multiplied by 10 due to the relaxing of strict limits on international flights. As a result, the IEA expects Jet Fuel demand to grow by 75% (379 Kb/d) in 2023. Gasoline represents a larger share of Chinese oil demand at about 22% and is expected to grow by 7.1% or 238 Kb/d. Overall, the IEA forecasts Chinese oil demand to grow by 1,159 Kb/d in 2023; this is 342 Kb/d higher than they predicted in the December 2022 issue. The U.S. based EIA is more conservative, with growth estimated at 710 Kb/d in 2023, very similar to OPEC’s outlook of 760 Kb/d Chinese demand growth. The EIA is the only major agency with an updated outlook for 2024, for which they see growth declining to 400 Kb/d. Overall, the short-term outlook for Chinese oil demand is reasonably positive.
 
-However, the longer-term outlook is more complicated. China’s working age population is declining and India is estimated to have recently passed China as the most populous country on the planet. For decades, China had aggressively curtailed its population growth through various policy measures such as the one child policy. The country has relaxed these policies in recent years in an effort to undo some of the impact, but these actions have not been very successful to date. In the last three years,
+However, the longer-term outlook is more complicated. China’s working age population is declining and India is estimated to have recently passed China as the most populous country on the planet. For decades, China had aggressively curtailed its population growth through various policy measures such as the one child policy. The country has relaxed these policies in recent years in an effort to undo some of the impact, but these actions have not been very successful to date. In the last three years, the working age population of China has reportedly declined by 41 million people. This trend will affect the country’s economic growth rate and future oil demand.
 
 *Chart*
 
@@ -33,8 +33,6 @@ However, the longer-term outlook is more complicated. China’s working age popu
 *Chart: YoY Change*
 
 *Source: IEA Global EV Outlook 2023*
-
-the working age population of China has reportedly declined by 41 million people. This trend will affect the country’s economic growth rate and future oil demand.
 
 Another negative factor impacting future oil demand is that China is promoting the sales of electric vehicles. It has developed a large electric car industry, both as a strategic industry and for environmental reasons. Sales of electric cars in China increased by over 60% in 2022 and more than half of all worldwide EVs are currently operating in China. China targets to reach EV sales of 50% in key air pollution control regions and 40% overall by 2030. The IEA states that China might even reach these goals ahead of 2030.
 

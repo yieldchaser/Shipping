@@ -22,15 +22,13 @@ China’s seaborne crude oil imports reached 11.8 Mb/d in February 2026, just be
 
 There are a number of ways in which China was able to achieve this drastic reduction. First of all, China had been building its petroleum reserves over the years. China doesn’t publish official numbers on their reserves, but analysts estimate that the country’s onshore crude oil inventories reached approximately 1.2 Billion barrels in early 2026. China started to tap into these reserves in April, when imports dropped significantly. Vortexa estimates that China drew down about 1.5 Mb/d from onshore and floating storage combined in May-July 2026. It also stopped importing the “extra” barrels (around 1.0 Mb/d more than was needed to meet demand) that were used in 2025 and early 2026 to boost these inventories.
 
-A reduction in clean product exports (chart 2) is another lever that China used to balance imports with demand. China’s product exports are quite variable. In 2025 they averaged 722,000 b/d, with a high of 964,000 b/d in July and a low of 533,000 b/d in February. However, in April 2026, they dropped to 350,000 b/d. Lastly, the Chinese government managed to reduce domestic demand. Fuel prices were allowed to rise, which discouraged the use of gasoline powered cars and motivated commuters to take public transport or to use bicycles. Travelers switched from airplanes to trains where
+A reduction in clean product exports (chart 2) is another lever that China used to balance imports with demand. China’s product exports are quite variable. In 2025 they averaged 722,000 b/d, with a high of 964,000 b/d in July and a low of 533,000 b/d in February. However, in April 2026, they dropped to 350,000 b/d. Lastly, the Chinese government managed to reduce domestic demand. Fuel prices were allowed to rise, which discouraged the use of gasoline powered cars and motivated commuters to take public transport or to use bicycles. Travelers switched from airplanes to trains where possible, which also helped. Overall, China has managed to reduce oil imports and consumption significantly without a big hit to the economy.
 
 *Chart*
 
 *Chart*
 
 *Sources: Vortexa*
-
-possible, which also helped. Overall, China has managed to reduce oil imports and consumption significantly without a big hit to the economy.
 
 Despite the reduction in Chinese seaborne crude oil imports, the tanker market is having one of its best years in history. This is a result of the inefficiencies in the market caused by delays and disruption as well as a significant increase in ton-mile demand due to longer sailing distances. When the conflict in the Middle East ends and/or traffic through the Strait of Hormuz and in the Red Sea normalizes, the tanker fleet will resume its most efficient routing, and rates may come under pressure, especially with the large orderbook looming.
 

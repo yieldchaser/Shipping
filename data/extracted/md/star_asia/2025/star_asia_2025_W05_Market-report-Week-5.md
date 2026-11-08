@@ -34,11 +34,9 @@ The Capesize market experienced a challenging week, with the BCI 5TC declining t
 
 Panamax/Kamsarmax:
 
-The market experienced a subdued week across both basins due to the Lunar New Year holidays, with rates continuing to soften. The Atlantic displayed a notable North/South divide, with East Coast S. America showing signs of improvement as March arrival fixtures picked up. In the Pacific, despite the holiday lull, some fixtures were reported at higher levels than the index. However, ample vessel supply constrains any significant upward movement. Pacific r/v saw rates closed at US$5,700's a day. Supramax/Ultramax: Supramax faced continued downward pressure this week, with rates declining across all regions amid holiday-thinned trading conditions. The Atlantic showed little signs of
+The market experienced a subdued week across both basins due to the Lunar New Year holidays, with rates continuing to soften. The Atlantic displayed a notable North/South divide, with East Coast S. America showing signs of improvement as March arrival fixtures picked up. In the Pacific, despite the holiday lull, some fixtures were reported at higher levels than the index. However, ample vessel supply constrains any significant upward movement. Pacific r/v saw rates closed at US$5,700's a day. Supramax/Ultramax: Supramax faced continued downward pressure this week, with rates declining across all regions amid holiday-thinned trading conditions. The Atlantic showed little signs of improvement, except for a slight uptick in N. American F/H demand, while persistent vessel oversupply in the South kept rates under pressure. The Pacific remained particularly quiet with market participants adopting a cautious stance during the holidays in China and Indonesia, as they await clearer supply-demand signals in the coming week.
 
 ## Page 3
-
-improvement, except for a slight uptick in N. American F/H demand, while persistent vessel oversupply in the South kept rates under pressure. The Pacific remained particularly quiet with market participants adopting a cautious stance during the holidays in China and Indonesia, as they await clearer supply-demand signals in the coming week.
 
 Handysize:
 
@@ -221,11 +219,9 @@ The Indian Union Budget announced on February 1, 2025, introduced several measur
 
 ### 2. National Green Steel Mission: The government has allocated Rs.15,000 crore
 
-(approximately US$1.74 billion) to launch the National Green Steel Mission. This initiative seeks to incentivize the production of low-carbon or 'green' steel, focusing on reducing
+(approximately US$1.74 billion) to launch the National Green Steel Mission. This initiative seeks to incentivize the production of low-carbon or 'green' steel, focusing on reducing emissions, promoting research and development, enhancing raw material efficiency, and encouraging banks to offer lower interest rates on renewable energy loans. The mission aligns with India's commitment to achieving net-zero emissions by 2070.
 
 ## Page 15
-
-emissions, promoting research and development, enhancing raw material efficiency, and encouraging banks to offer lower interest rates on renewable energy loans. The mission aligns with India's commitment to achieving net-zero emissions by 2070.
 
 ### 3. Infrastructure Investment: The budget continues its emphasis on infrastructure
 

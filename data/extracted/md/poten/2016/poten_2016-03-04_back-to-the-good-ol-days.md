@@ -22,7 +22,7 @@ PADD 1 has 6 major refineries, mainly in the Mid-Atlantic area, with a total, th
 
 Figure 1 shows the imports into the region compared to the spread between WTI and Brent. PADD 1 refineries operated almost exclusively on imported crude until crudes pricing on WTI crude gained a significant cost advantage over imported crudes. At this point, rail infrastructure expanded rapidly to provide transportation options to the East Coast. Domestic crude gradually gained market share until domestic crudes reached about 45-50% of the total crude slate. Initially, pipeline companies were unprepared for the rapid growth of domestic crude production, but once they started debottlenecking existing infrastructure and adding new pipeline capacity, the cost advantages of domestic crude versus imported crude started to gradually decline. By early 2015, the price spread had all but disappeared and foreign imports have started to regain market share in PADD 1. It is now more cost effective to move crude from the Mid Continent to the US Gulf area via pipeline and import crude into PADD 1.
 
-Figure 2 shows the sources of foreign imports for the last 10 years. West African imports suffered the brunt of the decline, although this trend had already started before the shale oil development took off. Over the last two years, West African
+Figure 2 shows the sources of foreign imports for the last 10 years. West African imports suffered the brunt of the decline, although this trend had already started before the shale oil development took off. Over the last two years, West African crudes have lost market share to domestic production and to short haul Canadian crude. West African crudes started to regain some market share in recent months as they started replacing mainly reduced domestic crude sources.
 
 *Chart: Fig. 1: PADD 1 Crude Sourcing vs WTI-Brent Spread*
 
@@ -31,8 +31,6 @@ Figure 2 shows the sources of foreign imports for the last 10 years. West Africa
 *Chart*
 
 *Source: EIA*
-
-crudes have lost market share to domestic production and to short haul Canadian crude. West African crudes started to regain some market share in recent months as they started replacing mainly reduced domestic crude sources.
 
 In recent months, crude oil production in the Mid-Continent has stabilized or is in decline and now that pipeline capacity has caught up and crude exports provide an outlet, it is unlikely that WTI will trade at a significant and prolonged discount to international crudes. It is too early to tell how much market share foreign crude will regain in the coming months and years, but it is unlikely that domestic crudes will continue to push out foreign imports in the medium term.
 

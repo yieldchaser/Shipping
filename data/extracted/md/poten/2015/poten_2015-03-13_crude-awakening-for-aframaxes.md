@@ -22,7 +22,7 @@ Since 2010, reported dirty spot fixture activity on the main Atlantic Aframax ro
 
 The one area that has shown significant volatility in recent years is the Mediterranean. As a result of the Arab Spring, which started at the end of 2010, and the continued civil unrest and geopolitical uncertainty that has plagued the area since then, crude oil movements have frequently changed and/or been disrupted. Since 2010/2011, reported spot fixtures from Egypt have decreased by 50% (from 170 down to 80 p.a.), Libyan volumes have fluctuated between 80 and 300 p.a., while no spot fixtures from Syria have been reported since 2011. While the area is expected to remain unstable in the short-term, the future prospects for this area are promising with significant long-term growth potential for exports out of Libya and the Black Sea and Turkey/Ceyhan. Increased geopolitical stability in the Eastern Mediterranean and North Africa could, therefore, boost Aframax employment in the region.
 
-In Asia, developments have shown less volatility. The key
+In Asia, developments have shown less volatility. The key driver for dirty Aframax employment in the region has traditionally been Indonesia and, judging by the volume of reported spot fixture activity in recent years their exports are holding up reasonably well. Smaller exporters, like Malaysia and Brunei have also been relatively stable. Growth in Aframax employment in the Pacific has primarily come from two areas: firstly, there has been a marked increase in fuel oil movements from two key refining areas, India and Singapore. In 2014, some 275 dirty Aframax fixtures (mostly fuel oil and VGO) were reported; almost double the number of 2010. The other growth area in the Far East has been the East Siberian port of Kozmino. Crude oil exports started in 2009 and have seen a steady increase over the years and Aframax fixtures currently average about 20 per month.
 
 *Chart: Fig. 1: Crude Tanker Fleet Development*
 
@@ -31,8 +31,6 @@ In Asia, developments have shown less volatility. The key
 *Chart*
 
 *Source: Poten*
-
-driver for dirty Aframax employment in the region has traditionally been Indonesia and, judging by the volume of reported spot fixture activity in recent years their exports are holding up reasonably well. Smaller exporters, like Malaysia and Brunei have also been relatively stable. Growth in Aframax employment in the Pacific has primarily come from two areas: firstly, there has been a marked increase in fuel oil movements from two key refining areas, India and Singapore. In 2014, some 275 dirty Aframax fixtures (mostly fuel oil and VGO) were reported; almost double the number of 2010. The other growth area in the Far East has been the East Siberian port of Kozmino. Crude oil exports started in 2009 and have seen a steady increase over the years and Aframax fixtures currently average about 20 per month.
 
 Combining the positive employment outlook above with a shrinking fleet, a modest orderbook and the potential that a significant portion of the modern coated vessels in the Aframax fleet will be employed in the growing clean petroleum trades, makes us conclude that Aframax crude tankers have a bright future.
 

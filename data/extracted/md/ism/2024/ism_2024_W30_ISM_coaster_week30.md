@@ -20,9 +20,7 @@ charts_count: 4
 
 Whereas new grain season is gaining pace, owners of small-tonnage vessels still hope for higher activity. However, the market sentiment is not improving so far. “Frankly speaking, it is still very difficult to find any positive signs on the market since
 
-Small-tonnage market remains hopelessly depressed and overtonnaged, with only Azov sea-river sector climbing up
-
-the cargo offer remains very small and number of open vessels at spot still looks huge,” an experienced Turkish brokers commented to ISM. This week, we can note only some decline in grain shipments from Ukraine to Greece (which were numerous a week ago) and an upturn in traffic towards Israel. In addition, players report a barely noticeable recovery of grain shipments from EU ports and fertilizer traffic from Egypt. Overall, however, shipments of steel products, minerals, construction cargoes and fertilizers remain dull in both the Black Sea and Mediterranean area. Rates for shipment of 5-6,000 t of wheat or corn from Izmail or Odesa to the Italian Adriatic or Israel are still hovering at mid-high $20s/t bss 1/1, while those for transportation of 5-6,000 t of steels from Marmara or Nemrut Bay to Algeria amount to $24-25/t bss 1/1.
+Small-tonnage market remains hopelessly depressed and overtonnaged, with only Azov sea-river sector climbing up the cargo offer remains very small and number of open vessels at spot still looks huge,” an experienced Turkish brokers commented to ISM. This week, we can note only some decline in grain shipments from Ukraine to Greece (which were numerous a week ago) and an upturn in traffic towards Israel. In addition, players report a barely noticeable recovery of grain shipments from EU ports and fertilizer traffic from Egypt. Overall, however, shipments of steel products, minerals, construction cargoes and fertilizers remain dull in both the Black Sea and Mediterranean area. Rates for shipment of 5-6,000 t of wheat or corn from Izmail or Odesa to the Italian Adriatic or Israel are still hovering at mid-high $20s/t bss 1/1, while those for transportation of 5-6,000 t of steels from Marmara or Nemrut Bay to Algeria amount to $24-25/t bss 1/1.
 
 Negative trends also prevail in North Europe given the peak of the vacation season in the region. Freight rates are virtually unchanged both in the south and north of Europe.
 
@@ -30,9 +28,7 @@ Meanwhile, sea-river owners have been pushing freights up little by little in th
 
 Corn / bran  (sf up to 55`), 3,000t, Azov / Rostov - Marmara (1000x/1000x), $/t
 
-Small-tonnage ship owners can hardly expect any noticeable freight rate growth without a significant increase in grain exports from Ukraine, Russia and EU countries to Turkey and North African countries. Therefore, according to ISM and many market participants, the Black Sea and Mediterranean market will remain at current levels or add just a couple of
-
-dollars until Turkey resumes wheat imports (which is projected as early as in October). In the Azov Sea, rates are not expected to go up further as the current tonnage deficit is positional. The North European market may start recovering only in 2H August.
+Small-tonnage ship owners can hardly expect any noticeable freight rate growth without a significant increase in grain exports from Ukraine, Russia and EU countries to Turkey and North African countries. Therefore, according to ISM and many market participants, the Black Sea and Mediterranean market will remain at current levels or add just a couple of dollars until Turkey resumes wheat imports (which is projected as early as in October). In the Azov Sea, rates are not expected to go up further as the current tonnage deficit is positional. The North European market may start recovering only in 2H August.
 
 ---
 

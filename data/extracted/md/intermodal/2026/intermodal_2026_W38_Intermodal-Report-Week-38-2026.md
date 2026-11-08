@@ -140,9 +140,7 @@ The dry bulk market delivered a mixed performance over the week, with rates in t
 
 Capesize performance varied notably across regions. In the Pacific, a large pool of available vessels continued to exceed cargo volumes, keeping freight levels under pressure, although signs of stabilization emerged later in the week. The Atlantic proved comparatively firmer, underpinned by stronger cargo flows from Brazil and West Africa to Asia, while conditions in the North Atlantic also improved after mid-week.
 
-Kamsarmax/Panamax trading retained a softer tone across both basins. In the North Atlantic, grain and mineral volumes led to healthy fixing activity; however, limited replacement cargo and a lengthy tonnage list kept rates in check. The South Atlantic remained comparatively muted. In the Pacific, firmer demand from Australia, Indonesia and the North Pacific provided some momen-
-
-tum, but rising tonnage supply and a slow cargo flow capped up-side.
+Kamsarmax/Panamax trading retained a softer tone across both basins. In the North Atlantic, grain and mineral volumes led to healthy fixing activity; however, limited replacement cargo and a lengthy tonnage list kept rates in check. The South Atlantic remained comparatively muted. In the Pacific, firmer demand from Australia, Indonesia and the North Pacific provided some momen-tum, but rising tonnage supply and a slow cargo flow capped up-side.
 
 The Ultramax/Supramax market maintained a broadly similar pace to the previous week, with earnings improving gradually as the week progressed. Asia provided the clearest positive impetus. Indonesian coal flows firmed, while in North Pacific main drivers were enquiries for grains, potash and soda ash. In the Atlantic basin, the US Gulf was largely unchanged, while the Mediterrane-an edged higher.
 

@@ -36,15 +36,9 @@ In the second week of November, Capesize rates have found a low not seen in five
 
 #### Capesize:
 
-After the peak season for steel demand ended in autumn, iron ore demand decreased and
+After the peak season for steel demand ended in autumn, iron ore demand decreased and contracted as steel mills cut production. Despite declining steel costs, production margins at
 
-contracted as steel mills cut production. Despite declining steel costs, production margins at
-
-Chinese mills are still affected by relatively high coking prices. Pacific r/v saw a decline this
-
-week, with levels in the region of US$12,500 a day. Last week's U.S. Federal Reserve hiked
-
-interest rates for the fourth time also further aggravated market pessimism. T/A levels fell to
+Chinese mills are still affected by relatively high coking prices. Pacific r/v saw a decline this week, with levels in the region of US$12,500 a day. Last week's U.S. Federal Reserve hiked interest rates for the fourth time also further aggravated market pessimism. T/A levels fell to
 
 US$ 17,500's a day while Brazil r/v slipped to the lows of US$ 9,600's a day levels.
 
@@ -58,9 +52,7 @@ The decline in Indonesian coal exports was prompted by restriction in new shipme
 
 #### Handysize:
 
-Similar to the other categories, the Handy segment lost steam. The Asian market remains stagnant, while the Atlantic basin, lacks new energy. Inter Pacific levels fell to US$ 8,700's a
-
-day while Pacific r/v closed at US$ 9,500's. Overall market outlook remains pessimistic. T/A route also saw a decline as levels settled in the region of US$12,700 a day.
+Similar to the other categories, the Handy segment lost steam. The Asian market remains stagnant, while the Atlantic basin, lacks new energy. Inter Pacific levels fell to US$ 8,700's a day while Pacific r/v closed at US$ 9,500's. Overall market outlook remains pessimistic. T/A route also saw a decline as levels settled in the region of US$12,700 a day.
 
 ## Page 3
 
@@ -110,11 +102,9 @@ CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE %
 
 # Tankers
 
-Despite occasional price surges, the weekly losses were projected to continue as concerns about global supplies remained. On the plus side, China is poised to relax its Covid
+Despite occasional price surges, the weekly losses were projected to continue as concerns about global supplies remained. On the plus side, China is poised to relax its Covid limitations. However, the market's price fears were only briefly alleviated, as the pandemic is projected to continue in the country. Oil prices fell daily for most of the week as concerns about global supplies remained. Because of the growth in U.S. crude oil supplies and fears over China's restrictions, the weekly loss for oil might exceed 4%. Traders are concerned about lockdowns in the big oil importer country. This could momentarily limit the top-side objectives of the market. Despite the news, the market is still in a better position than it was at the start of the week. In other news, U.K. Treasury will not allow British insurers to cover Russian oil ships after December 5. By December 5, tanker owners flying any E.U. flag or carrying P&I insurance from an E.U. or U.K. club cannot have Russian crude oil onboard unless Russia sells the petroleum to the buyer at or below a price cap advocated for by G7. More than 90% of the world's insurers will shun Russian-linked crude tanker contracts next month when the U.S. joins the ban. The tanker ban legislation will initially only apply to crude oil exports but will be expanded to cover refined products on February 5.
 
 ## Page 5
-
-limitations. However, the market's price fears were only briefly alleviated, as the pandemic is projected to continue in the country. Oil prices fell daily for most of the week as concerns about global supplies remained. Because of the growth in U.S. crude oil supplies and fears over China's restrictions, the weekly loss for oil might exceed 4%. Traders are concerned about lockdowns in the big oil importer country. This could momentarily limit the top-side objectives of the market. Despite the news, the market is still in a better position than it was at the start of the week. In other news, U.K. Treasury will not allow British insurers to cover Russian oil ships after December 5. By December 5, tanker owners flying any E.U. flag or carrying P&I insurance from an E.U. or U.K. club cannot have Russian crude oil onboard unless Russia sells the petroleum to the buyer at or below a price cap advocated for by G7. More than 90% of the world's insurers will shun Russian-linked crude tanker contracts next month when the U.S. joins the ban. The tanker ban legislation will initially only apply to crude oil exports but will be expanded to cover refined products on February 5.
 
 #### VLCC:
 
@@ -186,17 +176,9 @@ Baltic Exchange Tanker Indices
 
 # Containers
 
-This week, T.C. rates in the smaller segment remain little to no change. 9,000 TEU however
+This week, T.C. rates in the smaller segment remain little to no change. 9,000 TEU however continue to witness levels slipping by almost US$2000 from last week. The latest data from the SCFI and Drewry shows that the decline in these indices have been accelerated. The
 
-continue to witness levels slipping by almost US$2000 from last week. The latest data from
-
-the SCFI and Drewry shows that the decline in these indices have been accelerated. The
-
-SCFI, which was released on Friday, fell 8.6% last week to 1,443.29. Back in January, the
-
-index hit a record high of 5,000. Week on week, smaller discounts will be witness in most of
-
-the container segment.
+SCFI, which was released on Friday, fell 8.6% last week to 1,443.29. Back in January, the index hit a record high of 5,000. Week on week, smaller discounts will be witness in most of the container segment.
 
 ## Page 8
 

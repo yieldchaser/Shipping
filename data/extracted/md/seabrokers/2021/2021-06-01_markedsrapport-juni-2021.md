@@ -86,9 +86,7 @@ Each of the vessels has been chartered for a firm period of 40-50 days with furt
 
 Saipem is undertaking pipelay operations with the Castorone and Castoro Sei pipelay vessels.
 
-Most of the PSVs have been active in the North Sea recently,
-
-although the Energy Duchess has just been reactivated after more than a year in layup, while the Sar Brage is returning to work for the first time in more than five years.
+Most of the PSVs have been active in the North Sea recently, although the Energy Duchess has just been reactivated after more than a year in layup, while the Sar Brage is returning to work for the first time in more than five years.
 
 ## ... WHILE OTHERS HEAD FOR THE ARCTIC
 

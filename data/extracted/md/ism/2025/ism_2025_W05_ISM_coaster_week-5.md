@@ -24,9 +24,7 @@ Despite timid signs of improvement on the grain export market, the small-tonnage
 
 demand for tonnage, except for those shipping fertilizers from Egypt to the EU and Turkey
 
-, as well as from the EU ports, Georgia and Turkey to Ukraine: these cargo flows allow ship owners to stay afloat. There are still plenty of open 2-12k dwt vessels on the market, but their number has decreased by 5% (from 220 to 209 units) in the eastern Mediterranean, Marmara and the Black Sea; meanwhile, the relevant list has grown by almost 10% (from 63 to 69) in CMed/WMed/ Adriatic. Freight rates stay at last week's levels in most cases, while transportation costs from Ukraine have dropped by another $0.5-1/t, leading to an even larger gap between TCEs ex Ukraine and neighboring countries. Thus, rates for shipment of 5-6,000 t of wheat or corn from Izmail to the Italian Adriatic have inched down to $25-26/t, while those for transportation of 10,000 t of grains from POC to Marmara have declined to $13-14/t. In the meantime, transportation of 5-6,000 t of steels from Novorossiysk to Marmara still costs $16.5-17/t, while rates for shipment
-
-of 7-8,000 t of wheat or corn from CVB to Tunisia are still hovering at $19.5-20/t.
+, as well as from the EU ports, Georgia and Turkey to Ukraine: these cargo flows allow ship owners to stay afloat. There are still plenty of open 2-12k dwt vessels on the market, but their number has decreased by 5% (from 220 to 209 units) in the eastern Mediterranean, Marmara and the Black Sea; meanwhile, the relevant list has grown by almost 10% (from 63 to 69) in CMed/WMed/ Adriatic. Freight rates stay at last week's levels in most cases, while transportation costs from Ukraine have dropped by another $0.5-1/t, leading to an even larger gap between TCEs ex Ukraine and neighboring countries. Thus, rates for shipment of 5-6,000 t of wheat or corn from Izmail to the Italian Adriatic have inched down to $25-26/t, while those for transportation of 10,000 t of grains from POC to Marmara have declined to $13-14/t. In the meantime, transportation of 5-6,000 t of steels from Novorossiysk to Marmara still costs $16.5-17/t, while rates for shipment of 7-8,000 t of wheat or corn from CVB to Tunisia are still hovering at $19.5-20/t.
 
 The Azov Sea market is generally stable. «We see more grain cargoes this week, but it hardly affects freight rates due to many open vessels,» a Turkish broker commented to ISM. Note that favorable weather conditions in the region do not support the rate growth either.
 
@@ -36,9 +34,7 @@ Ukr corn, CFR Adriatic, $/t Freight rate, corn, 5-6,000t, Izmail - Bari, $/t
 
 ### % of freight costs in CFR price
 
-Some ship owners still hope that the gradual increase in grain export prices will lead to at least a slight upturn in activity and freight rates in the Black and Mediterranean Seas, but most players, as well as ISM analysts, do not expect any serious market shifts, at least in the next few weeks. In addition, demand for square billets in Turkey
-
-and that for finished steel products in Mediterranean countries is expected to remain weak in the foreseeable future. Note that brokers do not rule out some tonnage outflow from the western Mediterranean to the Continent, which could slightly stabilize the situation in the Mediterranean Sea and weaken the North Sea market.
+Some ship owners still hope that the gradual increase in grain export prices will lead to at least a slight upturn in activity and freight rates in the Black and Mediterranean Seas, but most players, as well as ISM analysts, do not expect any serious market shifts, at least in the next few weeks. In addition, demand for square billets in Turkey and that for finished steel products in Mediterranean countries is expected to remain weak in the foreseeable future. Note that brokers do not rule out some tonnage outflow from the western Mediterranean to the Continent, which could slightly stabilize the situation in the Mediterranean Sea and weaken the North Sea market.
 
 ---
 

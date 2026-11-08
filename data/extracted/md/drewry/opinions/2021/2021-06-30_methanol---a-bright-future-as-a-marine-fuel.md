@@ -39,9 +39,7 @@ Furthermore, NOx and Sulfur are absent in methanol and PM emission is very low. 
 
 **Source:** Drewry Maritime Research
 
-Waterfront Shipping, a subsidiary of Methanex, was the first company to place an order for dual-methanol-
-
-fuelled vessels and is still expanding its methanol-fuelled fleet with eight 50,000 dwt tankers on order and 11 ships sailing in the ocean. In 2019, a joint venture between Proman Shipping AG and Stena Bulk AB ordered two tankers and thereafter added two more tankers in 2020, reflecting their confidence in methanol as marine fuel.
+Waterfront Shipping, a subsidiary of Methanex, was the first company to place an order for dual-methanol-fuelled vessels and is still expanding its methanol-fuelled fleet with eight 50,000 dwt tankers on order and 11 ships sailing in the ocean. In 2019, a joint venture between Proman Shipping AG and Stena Bulk AB ordered two tankers and thereafter added two more tankers in 2020, reflecting their confidence in methanol as marine fuel.
 
 Maersk announced that it will launch “the world’s first carbon-neutral liner vessel” by 2023, which will use methanol as its primary fuel. It will have a green methanol-powered vessel in 2023 and all its future vessels will be dual-fuelled vessels with methanol playing a key role. In March 2021, Eastern Pacific Shipping has also signed an MoU with MAN engines for conversion of their vessels into methanol dual-fuel engines.
 

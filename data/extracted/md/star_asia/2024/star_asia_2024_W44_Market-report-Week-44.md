@@ -230,11 +230,9 @@ This past week, ship recycling markets remained notably subdued, with India ente
 
 Alang, India
 
-The ship recycling markets remained closed this week in observance of the Diwali festival and are set to resume activity next week. Industry experts anticipate that demand will start to emerge in the post-Diwali period, which is traditionally a favourable time for the sector. However, the ship recycling market continues to tackle a significant lull, primarily
+The ship recycling markets remained closed this week in observance of the Diwali festival and are set to resume activity next week. Industry experts anticipate that demand will start to emerge in the post-Diwali period, which is traditionally a favourable time for the sector. However, the ship recycling market continues to tackle a significant lull, primarily due to a shortage of available vessels, making it challenging to establish accurate market levels and future trends.
 
 ## Page 14
-
-due to a shortage of available vessels, making it challenging to establish accurate market levels and future trends.
 
 Anchorage & Beaching Position (November 2024)
 
@@ -311,11 +309,9 @@ Alang, India
 
 Sub-Continent and Turkey ferrous scrap markets insight
 
-In the Sub-Continent and Turkey scrap markets, prices fell across India, Bangladesh, and Pakistan, reflecting a quieter demand as market activity slowed. In India, shredded scrap prices slipped to US$385-US$386/ton as pre-Diwali inquiries dwindled, leaving suppliers facing limited buying interest. Bangladesh's scrap market also remained sluggish due to low demand and restrained purchasing, while Pakistan saw a slight drop in shredded scrap offers despite an uptick in rebar prices. In Turkey, buyers took a bearish stance on US and Baltic offers, with bids dipping below US$360/t for US scrap. Shredded scrap in India was priced at US$385-386/ton, with busheling offers around US$400/ton, contingent on supplier terms. With Diwali keeping the market closed for the week, traders are keen to leverage lower prices, anticipating fresh shipments by late November. Expectations are mixed, with HMS (80:20) bids and offers ranging between US$362-370/ton at ports like Mundra and Chennai. Buyers show interest at approximately US$360/ton for HMS (80:20) and US$372-375/ton for HMS 1. Post-Diwali, activity is expected to rise as suppliers look to clear stocks ahead of winter. European scrap supplies, anticipated by mid-November to early December, may face potential disruptions from winter weather, which could push supply from alternative regions like the US, Brazil, and Australia. European shredded scrap offers in Pakistan held steady at US$392-394/ton, though workable levels hovered slightly below US$390/ton. A Karachi-based mill noted weak rebar sales despite recent price increases, as the construction sector in key regions
+In the Sub-Continent and Turkey scrap markets, prices fell across India, Bangladesh, and Pakistan, reflecting a quieter demand as market activity slowed. In India, shredded scrap prices slipped to US$385-US$386/ton as pre-Diwali inquiries dwindled, leaving suppliers facing limited buying interest. Bangladesh's scrap market also remained sluggish due to low demand and restrained purchasing, while Pakistan saw a slight drop in shredded scrap offers despite an uptick in rebar prices. In Turkey, buyers took a bearish stance on US and Baltic offers, with bids dipping below US$360/t for US scrap. Shredded scrap in India was priced at US$385-386/ton, with busheling offers around US$400/ton, contingent on supplier terms. With Diwali keeping the market closed for the week, traders are keen to leverage lower prices, anticipating fresh shipments by late November. Expectations are mixed, with HMS (80:20) bids and offers ranging between US$362-370/ton at ports like Mundra and Chennai. Buyers show interest at approximately US$360/ton for HMS (80:20) and US$372-375/ton for HMS 1. Post-Diwali, activity is expected to rise as suppliers look to clear stocks ahead of winter. European scrap supplies, anticipated by mid-November to early December, may face potential disruptions from winter weather, which could push supply from alternative regions like the US, Brazil, and Australia. European shredded scrap offers in Pakistan held steady at US$392-394/ton, though workable levels hovered slightly below US$390/ton. A Karachi-based mill noted weak rebar sales despite recent price increases, as the construction sector in key regions remains tepid. Notable companies kept rebar prices around PKR 245,000-250,000/ton, and local steel bars, previously exempt from sales tax, saw price hikes due to intensified tax enforcement. This recovery of previously underpaid taxes is now passed on to customers as a discount.
 
 ## Page 17
-
-remains tepid. Notable companies kept rebar prices around PKR 245,000-250,000/ton, and local steel bars, previously exempt from sales tax, saw price hikes due to intensified tax enforcement. This recovery of previously underpaid taxes is now passed on to customers as a discount.
 
 **Bangladesh's imported scrap market continued to show a muted response despite price**
 

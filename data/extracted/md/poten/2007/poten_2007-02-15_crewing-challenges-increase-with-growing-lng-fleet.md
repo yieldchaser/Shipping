@@ -38,9 +38,7 @@ Sourcing trained engineers presents a particularly thorny problem. There has bee
 
 Training so many seafarers is expensive. One
 
-Officer & Crew Requirement Estimate For Ships On Order Officer & Crew Requirement Estimate For Ships On Order
-
-major provider estimates the total cost to pre-
+Officer & Crew Requirement Estimate For Ships On Order Officer & Crew Requirement Estimate For Ships On Order major provider estimates the total cost to pre-
 
 *Chart*
 

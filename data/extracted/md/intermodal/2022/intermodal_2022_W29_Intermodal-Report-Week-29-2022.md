@@ -397,9 +397,7 @@ The sentiment was subdued across the Indian subcontinent demolition markets for 
 
 ## Market News
 
-“Star Bulk Carriers: big dividends coming even in a cooler dry market
-
-he dry bulk market may not be heading for a repeat of near-record rates seen during 2021, but its biggest player is equipped to pay outsized dividends even with more-moderate rates.
+“Star Bulk Carriers: big dividends coming even in a cooler dry market he dry bulk market may not be heading for a repeat of near-record rates seen during 2021, but its biggest player is equipped to pay outsized dividends even with more-moderate rates.
 
 Greece’s Star Bulk Carriers appears able to award $7 per share in dividends for each of 2023 and 2024, according to a client note from Deutsche Bank lead shipping analyst Amit Mehrotra.
 

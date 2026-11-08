@@ -441,9 +441,7 @@ It isn't just the UKCS with a strong focus on improving decommissioning levels, 
 
 The lawsuit states that federal agencies have violated the National Environmental Policy Act by failing to consider new information and changed circumstances showing that delayed decommissioning puts people and the environment at risk.
 
-The organisation hopes that the Department of the Interior will conduct a new analysis that will better protect people, wildlife and the Gulf environment. It has been claimed that as of June 2023, there were more than 2,700 wells and around 500 platforms in the Gulf of Mexico that were overdue for decommissioning, including plugging wells and removing platforms, as well
-
-as other equipment.
+The organisation hopes that the Department of the Interior will conduct a new analysis that will better protect people, wildlife and the Gulf environment. It has been claimed that as of June 2023, there were more than 2,700 wells and around 500 platforms in the Gulf of Mexico that were overdue for decommissioning, including plugging wells and removing platforms, as well as other equipment.
 
 In addition, the lawsuit declares that there are nearly 600 idle wells in the Gulf that have not been temporarily plugged to prevent leaks prior to decommissioning; and that over 800 idle wells have been unused for more than a decade.
 

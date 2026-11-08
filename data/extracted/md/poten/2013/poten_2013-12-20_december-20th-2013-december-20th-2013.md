@@ -24,9 +24,7 @@ week declined year-on-year from those published in 2013. On a practical basis, t
 
 ### Owners will demand
 
-Rotterdam-New York Puerto La Cruz-Houston Source: Worldscale
-
-higher Worldscale rates in 2014.
+Rotterdam-New York Puerto La Cruz-Houston Source: Worldscale higher Worldscale rates in 2014.
 
 The effects of flat rate deflation are Worldscale rate inflation, shown in the following table. The majority of changes are less than five Worldscale points. As 2013 comes to an end, all parties should be aware of whether 2013 or 2014 flat rates are being quoted. A limited number of trades saw flat rate increases particularly those with shorter distances.
 

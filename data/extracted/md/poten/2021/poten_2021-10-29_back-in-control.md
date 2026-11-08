@@ -24,13 +24,11 @@ With respect to on-land inventories, the situation is somewhat less clear. OECD 
 
 Stock levels in the other major oil consumer, China is more difficult to gauge because official statistics are hard to come by. One reliable non-government source pegged Chinese crude inventories at 977 million barrels as of October 21, which, according to them, is the lowest level since February 2020. This seems to indicate a steady decline in Chinese strategic petroleum reserves and commercial stockpiles, especially since stocks grew substantially in 2020 Q2 and Q3 as the Chinese government took advantage of the low oil prices to build inventories.
 
-As the global economy normalizes after the pandemic, oil stock will likely need to be rebuilt and this will drive additional
+As the global economy normalizes after the pandemic, oil stock will likely need to be rebuilt and this will drive additional demand. International oil companies (especially the “majors”) are facing increasing pressure to pivot from oil exploration and production towards renewables, and U.S. shale producers focus on shareholder returns rather than production growth, OPEC will be the world’s swing supplier once again. However, this requires that these countries have sufficient spare capacity to manage the market. It is unclear whether that is the case at the moment.
 
 *Chart*
 
 *Source: IEA*
-
-demand. International oil companies (especially the “majors”) are facing increasing pressure to pivot from oil exploration and production towards renewables, and U.S. shale producers focus on shareholder returns rather than production growth, OPEC will be the world’s swing supplier once again. However, this requires that these countries have sufficient spare capacity to manage the market. It is unclear whether that is the case at the moment.
 
 In September 2021, OPEC+ produced 37.97 Mb/d of crude oil. This was 930,000 b/d below its official production target of 38.9 Mb/d. Many of the OPEC+ member countries produce below their quota (Chart 2). The biggest underperformers are Nigeria, Angola, and Kazakhstan. With oil prices around $80/barrel, if they are producing below target, is means that these countries are tapped out. That means also that they will not be able to participate in future increases. Iran is likely out of the picture for the foreseeable future and ongoing domestic problems in Libya and sanctions on Venezuela will keep their oil flows restricted as well. This means that Saudi Arabia and Russia will have to supply the vast majority of future increase, assisted by some other producers like the UAE. However, spare capacity in these countries may be less than expected and any major supply disruption or higher demand than anticipated could create unrest in the oil (and tanker) markets. Further price increases could lead to demand destruction and accelerate the growth of renewables.
 

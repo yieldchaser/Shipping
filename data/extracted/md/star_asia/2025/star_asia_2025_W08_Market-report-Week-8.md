@@ -298,11 +298,9 @@ The sub-continent imported scrap market continued its subdued pace this week, we
 
 ### India:
 
-India's market remains muted as ample domestic scrap supplies and sluggish steel sales have kept buyers on the sidelines. Offers for shredded scrap from the UK and Europe were quoted at US$375–380 /ton CFR Nhava Sheva, while bids lagged slightly at US$370–375 /ton. Similarly, HMS (80:20) sourced from West Africa and Europe traded at lower levels, around US$345–355 /ton CFR. Despite sellers holding firm, buyers' calls for
+India's market remains muted as ample domestic scrap supplies and sluggish steel sales have kept buyers on the sidelines. Offers for shredded scrap from the UK and Europe were quoted at US$375–380 /ton CFR Nhava Sheva, while bids lagged slightly at US$370–375 /ton. Similarly, HMS (80:20) sourced from West Africa and Europe traded at lower levels, around US$345–355 /ton CFR. Despite sellers holding firm, buyers' calls for price cuts reflect a bearish outlook, with market participants anticipating little movement unless global price corrections or a pickup in local steel demand occur. Some traders expect activity to potentially shift after March, as changes in US tariffs could reshape global trade flows.
 
 ## Page 17
-
-price cuts reflect a bearish outlook, with market participants anticipating little movement unless global price corrections or a pickup in local steel demand occur. Some traders expect activity to potentially shift after March, as changes in US tariffs could reshape global trade flows.
 
 ### Pakistan:
 

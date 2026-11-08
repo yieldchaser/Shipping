@@ -24,7 +24,7 @@ Because of the close association with the Panama Canal, the main trading area fo
 
 However, the overall volume of reported dirty Panamax spot fixtures has declined dramatically since the early 2000s (see Figure 1). In 2002, Poten recorded some 1,400 dirty spot fixtures. In 2013, the volume was reduced to slightly more than 600. For 2014 year-to-date they are reduced to 430, on target for a full year well below 500. The decline in Panamax dirty fixtures is mostly due to changes in the fuel oil trade in the Caribbean and U.S. Gulf, as well as shifting crude oil trading patterns on the west coast of the Americas. According to the chart, clean fixtures have picked up the slack, but this is little consolation for dirty Panamax tanker owners that are unable to switch to the clean side.
 
-The fleet and the orderbook both reflect the diminishing opportunities for the dirty Panamax trade. Only about 25% of the existing fleet is uncoated and according to our information, 35 of the 37 Panamax vessels on order are
+The fleet and the orderbook both reflect the diminishing opportunities for the dirty Panamax trade. Only about 25% of the existing fleet is uncoated and according to our information, 35 of the 37 Panamax vessels on order are coated tankers (see Figure 2)
 
 *Chart: Fig. 1: Panamax Fixtures (Clean versus Dirty Cargoes)*
 
@@ -33,8 +33,6 @@ The fleet and the orderbook both reflect the diminishing opportunities for the d
 *Chart: Fig. 2: Panamax Age Profile (number of vessels)*
 
 *Source: Poten*
-
-coated tankers (see Figure 2)
 
 This does not mean that the dirty Panamax trade will disappear altogether, as several ports in the Caribbean and on the West Coast of South America have size restrictions that limit them to vessels up to maximum Panamax size. Also, when the crude Aframax market skyrockets, Panamaxes may be drawn into the dirty trade, since all coated vessels have that flexibility.
 

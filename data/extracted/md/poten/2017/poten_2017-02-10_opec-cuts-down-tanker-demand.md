@@ -26,13 +26,11 @@ Other (smaller) OPEC producers around the Arabian Gulf, like Kuwait, Qatar and t
 
 Iraq, OPEC’s second largest exporter, shipped 3.8 million b/d in January, approximately 134,000 b/d below the December 2016 level. This decline in Iraqi exports is significant, not so much because of the volume (which is relatively small) but because this is the first time since early 2015 that we observe a decline in Iraqi shipments. Iraq has been on a tear in recent years, increasing shipments by a million barrels per day between January 2015 and December 2016. Even though many analysts remain skeptical about Iraqi compliance, it is likely that the recent reduction is a result of the OPEC agreement.
 
-Nigeria, Libya and Iran are not subject to production cuts and while the first two countries managed to ship more crude in January of this year (Libya: +63,000 b/d, Nigeria: +210,000
+Nigeria, Libya and Iran are not subject to production cuts and while the first two countries managed to ship more crude in January of this year (Libya: +63,000 b/d, Nigeria: +210,000 b/d), volumes from Iran were down 370,000 b/d compared to December 2016. The reduction from Iran may be temporary and traders think that February exports could be higher as Indonesia will take its first shipment. However, other sources indicate that Iran may be experiencing some trouble finding new customers for its oil after ramping up its exports rapidly following the lifting of sanctions in January 2016. Iran is also planning to increase petroleum product exports as it refurbishes its refineries. This would divert crude oil away from exports to the domestic market.
 
 *Chart: Fig. 1: OPEC Crude Oil Exports*
 
 *Source: Lloyd’s List Intelligence*
-
-b/d), volumes from Iran were down 370,000 b/d compared to December 2016. The reduction from Iran may be temporary and traders think that February exports could be higher as Indonesia will take its first shipment. However, other sources indicate that Iran may be experiencing some trouble finding new customers for its oil after ramping up its exports rapidly following the lifting of sanctions in January 2016. Iran is also planning to increase petroleum product exports as it refurbishes its refineries. This would divert crude oil away from exports to the domestic market.
 
 Angola’s exports have trended down since early 2016, and the country‘s state oil company Sonangol appears committed to reduce production as part of the OPEC agreement. However, recent production increases from new deepwater offshore fields should put upward pressure on production in Angola, which surpassed Nigeria as Africa’s largest producer in Q1 2016.
 

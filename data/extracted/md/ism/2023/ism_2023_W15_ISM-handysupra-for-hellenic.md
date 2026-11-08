@@ -22,9 +22,7 @@ The South Atlantic Supramax/Ultramax and Handysize markets have stabilized after
 
 USG rates have not changed much over the week. Despite some increase of spot vessel list, the regional cargo traffic has also perked up (especially on transatlantic routes), balancing the market. Note that the Handysize period activity has grown as well.
 
-In the Black and Mediterranean Seas , the cargo flow has increased very slightly (if it has at all), and has again shrunk by the end of the week given the Orthodox Easter in several countries of the region. Ukrainian and European grains remain the market drivers, although many offers from Ukraine are not firm (bss sub sale), including due to maximum tensions around inspection queue at JCC, which threatens the corridor functioning as a whole. Similar to the Atlantic Ocean, freight rates stay virtually unchanged
-
-in the region this week; only those towards ECSA have sagged a bit.
+In the Black and Mediterranean Seas , the cargo flow has increased very slightly (if it has at all), and has again shrunk by the end of the week given the Orthodox Easter in several countries of the region. Ukrainian and European grains remain the market drivers, although many offers from Ukraine are not firm (bss sub sale), including due to maximum tensions around inspection queue at JCC, which threatens the corridor functioning as a whole. Similar to the Atlantic Ocean, freight rates stay virtually unchanged in the region this week; only those towards ECSA have sagged a bit.
 
 The Baltic & Continent market has shown the most noticeable upturn this week. First of all, players report increased number of requests for transportation of fertilizers ex Russian ports. This again led to some excitement in this part of the basin and allowed ship owners to raise rates in the Baltic Sea by $1-2/t and $1.5-3k daily. Tonnage demand has grown slightly also in the Continent. «Many scrap stems for mid-late April dates have been booked by operators in March, therefore many of them are on the market for TCT-in deals,» a broker commented to ISM. Rates in the Continent have added $0.5-1k daily and $0.5- 1.5/t over the week.
 

@@ -24,7 +24,7 @@ The dominant country in the region is China. And it continues to grow rapidly. B
 
 The move towards more coastal facilities has been going on for many years. Many of China’s older refineries are located in the Northeast of the country, close to the major domestic oil fields. Newer facilities that are more dependent on crude oil imports are increasingly built on the coast. In their report, the IEA points out that all of China’s new capacity will be located in the coastal provinces. As a result, China’s Bohai Bay starts to resemble the U.S. Gulf Coast. A stretch of 1,300 kilometers (about 800 miles) houses 43% of China’s refining capacity, but only 17% of its population. Similar to the U.S. Gulf, the infrastructure is therefore in place to facilitate both crude oil imports as well as product exports. China’s refining additions are expected to far outpace its domestic demand growth and, as a result, product exports are projected to grow rapidly. Most of these exports are destined for other Asian countries and will likely benefit the Handysize/MR trades.
 
-Asia is not the only region that has a major impact on product flows. Because it lacks refining capacity, Africa is the world’s
+Asia is not the only region that has a major impact on product flows. Because it lacks refining capacity, Africa is the world’s largest net importer of refined products. It imports more gasoline than the United States and it has also become the world’s second-largest diesel/gasoil importer. A lot of the gasoline imports into West Africa are sourced from the U.S. and Europe and typically arrive in larger LR1 or LR2 product tankers before being distributed along the coast in smaller product tankers. Since the Middle East/India is long diesel, they are the most likely provider of middle distillates to Africa.
 
 *Chart*
 
@@ -33,8 +33,6 @@ Asia is not the only region that has a major impact on product flows. Because it
 *Chart*
 
 *Source: IEA*
-
-largest net importer of refined products. It imports more gasoline than the United States and it has also become the world’s second-largest diesel/gasoil importer. A lot of the gasoline imports into West Africa are sourced from the U.S. and Europe and typically arrive in larger LR1 or LR2 product tankers before being distributed along the coast in smaller product tankers. Since the Middle East/India is long diesel, they are the most likely provider of middle distillates to Africa.
 
 Refinery output in Latin America is under pressure, primarily due to the challenges in Venezuela. This also affected the PDVSA refinery in Curacao. However, the U.S. Gulf Coast has ample refining capacity and can easily compensate for shortfalls in the region. Most of the regional trades in Caribbean are utilizing MRs. U.S. refiners are expected to benefit from the global efforts to increase middle distillate yields to meet the new IMO bunker specs. In Europe, for example, refiners will see increased competition from exporters in the U.S., and the IEA expects refining utilization to fall from the current 87% to 80% in 2024.
 

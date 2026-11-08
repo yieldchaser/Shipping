@@ -22,13 +22,11 @@ Let’s start with the basics. This is not a new idea. Some 20 years ago, there 
 
 While the above steps are helpful, the project still faces significant hurdles. First, there is the West Coast Tanker Ban. Canada’s Oil Tanker Moratorium Act legally bans tankers carrying more than 12,500 metric tonnes of crude oil from stopping or loading at ports along B.C.'s northern coast. This law will need to be repealed or amended. Second, the pipeline has to cross the province of British Columbia, and their leadership remains unconvinced of its merits and is also concerned about the environmental risks. While some First Nations backing has been secured via the National Coalition of Chiefs, an alliance of Coastal First Nations in northwest B.C. remains staunchly opposed to pipelines reaching their shores.
 
-This is a very ambitious project, that has a long way to go (if it is approved at all), but for the purpose of this Tanker Opinion, we assume that the project will be successful and the pipeline will
+This is a very ambitious project, that has a long way to go (if it is approved at all), but for the purpose of this Tanker Opinion, we assume that the project will be successful and the pipeline will be built. What will the impact be of having another 1 Mb/d of crude oil, or 15 VLCC cargoes per month available to load on Canada’s west coast?
 
 *Chart*
 
 *Sources: Vortexa; EIA*
-
-be built. What will the impact be of having another 1 Mb/d of crude oil, or 15 VLCC cargoes per month available to load on Canada’s west coast?
 
 The commercial target would be Asian complex refiners that can process heavy sour or diluted bitumen-type crude: China first, then South Korea, India, and potentially other Pacific refiners. Asian refiners will be eager to snap up these Canadian barrels. It will help them to diversify away from the Persian Gulf.
 

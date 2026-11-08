@@ -76,9 +76,7 @@ Standard Duke (c/o G. Saunders)
 
 Following another busy period of PSV tendering activity, the Fletcher Group is standing out as one owner that has been having a productive spell on the fixture front.
 
-Perenco UK has awarded a six-month firm contract to the FS Braemar, with options available for the charter to be extended for a further six months. Operations will begin in March, with the 2007-built PSV providing support for Perenco's upcoming drilling campaign with the Valaris 247 (ex Rowan Gorilla V) jackup at the Ravensporn gas fields in the southern North Sea. Similarly, Peterson SNS has awarded a six-month firm charter to the FS Crathes. That contract, which can also
-
-be extended for a further six months, started in February. Meanwhile, INEOS UK has awarded a first fixture to the Fletcher-managed Standard Duke (former Highland Duke)
+Perenco UK has awarded a six-month firm contract to the FS Braemar, with options available for the charter to be extended for a further six months. Operations will begin in March, with the 2007-built PSV providing support for Perenco's upcoming drilling campaign with the Valaris 247 (ex Rowan Gorilla V) jackup at the Ravensporn gas fields in the southern North Sea. Similarly, Peterson SNS has awarded a six-month firm charter to the FS Crathes. That contract, which can also be extended for a further six months, started in February. Meanwhile, INEOS UK has awarded a first fixture to the Fletcher-managed Standard Duke (former Highland Duke)
 
 following her purchase by Standard Supply and subsequent reactivation from layup. The Duke will support the Noble Resilient for a four to five-month charter in the UK sector.
 

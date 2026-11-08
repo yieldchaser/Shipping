@@ -24,13 +24,11 @@ Seasonality is another factor that drives the market. Bad weather in the North A
 
 There are other related impacts of IMO 2020. On the supply side, a significant number of vessels are scheduled to visit a shipyard prior to 1 January 2020 or soon thereafter to install exhaust scrubbers. This will allow these vessels to continue to use the cheaper high sulphur fuel oil, giving them a potential competitive advantage in the post IMO 2020 market. However, the installation of scrubbers will take the vessels out of the market for several weeks. This phenomenon has contributed to the increasing tightness of the tanker market.
 
-Floating storage has also been elevated. Since the U.S. sanctions against Iran were reinstated in 2018 and further tightened in 2019, Iranian exports have fallen and while they have tried to move more crude oil on their own tonnage, most
+Floating storage has also been elevated. Since the U.S. sanctions against Iran were reinstated in 2018 and further tightened in 2019, Iranian exports have fallen and while they have tried to move more crude oil on their own tonnage, most export markets have dried up. This has led to an increase in floating storage of Iranian crude, mainly using vessels owned by the National Iranian Tanker Company (NITC). The sanctions on COSCO tankers (Dalian) are another example of the ever-tightening sanctions regime. While only targeting a subset of the massive COSCO tanker fleet, the opaque ownership structure of the COSCO fleet makes it difficult to determine exactly who owns and/or operates what vessel. This uncertainty means that many charterers, to play it safe, are avoiding all COSCO tankers.
 
 *Chart*
 
 *Source: Poten & Partners*
-
-export markets have dried up. This has led to an increase in floating storage of Iranian crude, mainly using vessels owned by the National Iranian Tanker Company (NITC). The sanctions on COSCO tankers (Dalian) are another example of the ever-tightening sanctions regime. While only targeting a subset of the massive COSCO tanker fleet, the opaque ownership structure of the COSCO fleet makes it difficult to determine exactly who owns and/or operates what vessel. This uncertainty means that many charterers, to play it safe, are avoiding all COSCO tankers.
 
 In the short-term, the COSCO sanctions created a scramble among charterers that had to replace vessels on short notice. Over the longer term, the expanding U.S. sanctions regime, which not only prohibits trade with Iran, but also imposes restrictions on Syria, Russia, Venezuela, Cuba and North Korea, could create a two tier-tanker market with “safe owners” and owners that dodge the sanctions and operate outside of the U.S. financial system. This will create further inefficiencies in the market. All the major western charterers will want to stick to the “safe owners” and may need to pay a premium to avoid any nasty surprises.
 

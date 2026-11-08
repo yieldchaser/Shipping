@@ -24,11 +24,9 @@ Sources: Poten, Baltic Exchange
 
 With this earnings environment, dirty tanker owners have embraced demolition as an investment alternative, and scrapping levels have rebounded in late-2011 and during
 
-1h12. As shown in the following chart, dirty tanker demolition has exceeded 0.8% of the
+1h12. As shown in the following chart, dirty tanker demolition has exceeded 0.8% of the fleet in each of the quarters during 1h12, which is close to levels seen in compliance with the IMO-mandated phase-out of single-hull tankers in 2010.
 
 *Chart: Demolition has surged amidst weak rate environment*
-
-fleet in each of the quarters during 1h12, which is close to levels seen in compliance with the IMO-mandated phase-out of single-hull tankers in 2010.
 
 *Chart: Dirty Tanker Demolition*
 
@@ -40,21 +38,17 @@ In order to achieve this level of demolition with a younger fleet missing its ol
 
 Source: Poten
 
-Still, owners, who have started to scrap 17-18 year old vessels ahead of their fourth
+Still, owners, who have started to scrap 17-18 year old vessels ahead of their fourth intermediate survey, may have to consider the unthinkable – sending a 15-year old vessel to demolition ahead of its third special survey. Although scrap prices have dropped from the $500/lt levels seen earlier this year, they may still remain attractive relative to forward rate outlooks. As shown in the chart on the following page, VLCC scrap values have bounced above $18 million, after touching $17 million in June. This valuation is based upon the average lightweight displacement of 42,000 ldt for those VLCCs coming up for fourth intermediate and third special surveys during the next eighteen months.
 
 *Chart: Owners may have to consider the previously unthinkable – demo at 15 years*
-
-intermediate survey, may have to consider the unthinkable – sending a 15-year old vessel to demolition ahead of its third special survey. Although scrap prices have dropped from the $500/lt levels seen earlier this year, they may still remain attractive relative to forward rate outlooks. As shown in the chart on the following page, VLCC scrap values have bounced above $18 million, after touching $17 million in June. This valuation is based upon the average lightweight displacement of 42,000 ldt for those VLCCs coming up for fourth intermediate and third special surveys during the next eighteen months.
 
 *Chart: VLCC Demolition Value*
 
 *Sources: Poten, Baltic Exchange*
 
-Granted, these values are below the $23 million levels seen in mid-2011, but they may be high enough to question the value of paying a potential $4 million for the cost of a third special survey and trading the vessel to its next survey date. Examining a hypothetical fifteen-year old VLCC with a potential scrap value of $18.5 million (basis 42,000 ldt) and a $3.8 million third special survey cost, the owner would need to earn an average of $23,300/day over the next 2.5 years to achieve a 10% return on capital. This analysis also assumes that the vessel is valued near scrap at age 17.5 years, using the same $440/lt scrap price, and that it is 100% fully utilised post-drydocking. Of course, a probable market recovery prior to early/mid-2015, when the vessel would be due for its fourth intermediate survey, should allow even 17.5 year old vessels to achieve values at a greater premium to scrap than those seen in this weak market environment. Using a similar analysis, a 17.5 year old vessel that could achieve $30,000/day prior to a likely demolition at age 20, might be worth $24 million in early-2015. Assuming a sale price of $24 million for the hypothetical 15-year old VLCC in 2.5 year’s time, the breakeven TCE would decline to $17,700/day. This average earnings
+Granted, these values are below the $23 million levels seen in mid-2011, but they may be high enough to question the value of paying a potential $4 million for the cost of a third special survey and trading the vessel to its next survey date. Examining a hypothetical fifteen-year old VLCC with a potential scrap value of $18.5 million (basis 42,000 ldt) and a $3.8 million third special survey cost, the owner would need to earn an average of $23,300/day over the next 2.5 years to achieve a 10% return on capital. This analysis also assumes that the vessel is valued near scrap at age 17.5 years, using the same $440/lt scrap price, and that it is 100% fully utilised post-drydocking. Of course, a probable market recovery prior to early/mid-2015, when the vessel would be due for its fourth intermediate survey, should allow even 17.5 year old vessels to achieve values at a greater premium to scrap than those seen in this weak market environment. Using a similar analysis, a 17.5 year old vessel that could achieve $30,000/day prior to a likely demolition at age 20, might be worth $24 million in early-2015. Assuming a sale price of $24 million for the hypothetical 15-year old VLCC in 2.5 year’s time, the breakeven TCE would decline to $17,700/day. This average earnings level might seem achievable to an owner loath to scrap a 15-year old, but as the earnings malaise lingers, the breakeven economics deteriorate. If stuck with low utilisations and earnings of $12,000/day for the next 12 months, then the breakeven TCE on the final 18 months of the holding period would rise to $22,200/day, assuming full utilisations and no idle time. This still might represent a reasonable risk/reward trade-off for an owner, but parting with third special survey cash does require strong faith in a vigorous tanker market recovery, once supply ebbs. Negative earnings are not helping that faith.
 
 *Chart: ...breakevens would be more palatable $17,700/day*
-
-level might seem achievable to an owner loath to scrap a 15-year old, but as the earnings malaise lingers, the breakeven economics deteriorate. If stuck with low utilisations and earnings of $12,000/day for the next 12 months, then the breakeven TCE on the final 18 months of the holding period would rise to $22,200/day, assuming full utilisations and no idle time. This still might represent a reasonable risk/reward trade-off for an owner, but parting with third special survey cash does require strong faith in a vigorous tanker market recovery, once supply ebbs. Negative earnings are not helping that faith.
 
 *Chart*
 

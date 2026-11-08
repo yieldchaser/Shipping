@@ -22,15 +22,13 @@ Let’s highlight the differences first. The tanker supercycle of 2004-2008 was 
 
 The current situation is quite different in many respects, although there are some similarities. First the differences. We are not in a commodities supercycle driven by robust growth in demand. There is growth in demand for certain commodities (mainly as the world recovers from the pandemic) and prices have increased. However, supply restrictions and geopolitical events have more to do with it than sustained rapid demand growth. Economic expansion in China, the driver of the last cycle, has slowed dramatically. Compared to the first decade of this century, the current economic outlook is rather subdued.
 
-Another significant difference is that the world is now very focused on addressing climate change and reducing global emissions, including from shipping. For tanker owners this means that the future of their business has become more uncertain (peak oil demand) and that investment decisions now
+Another significant difference is that the world is now very focused on addressing climate change and reducing global emissions, including from shipping. For tanker owners this means that the future of their business has become more uncertain (peak oil demand) and that investment decisions now need to incorporate choices around fuel and propulsion. None of these factors played a significant role when the previous generation of tankers were ordered 15-20 years ago. Vessels were pretty standard in terms of specifications and fuel consumption. The more fuel efficient “eco” design vessels only came into play 10 years ago.
 
 *Chart*
 
 *Chart*
 
 Source: Poten & Partners
-
-need to incorporate choices around fuel and propulsion. None of these factors played a significant role when the previous generation of tankers were ordered 15-20 years ago. Vessels were pretty standard in terms of specifications and fuel consumption. The more fuel efficient “eco” design vessels only came into play 10 years ago.
 
 As we mentioned before, secondhand values actually surpassed newbuilding prices for a brief period in 2008. This is unlikely to happen during this cycle. As a result of higher steel prices and more expensive components, as well as environmental modifications such as scrubbers or dual fuel engines, newbuilding will likely remain more expensive than older secondhand units. So far, newbuilding prices have increased faster than secondhand values in the current cycle. However, this will likely change if rates continue to recover.
 

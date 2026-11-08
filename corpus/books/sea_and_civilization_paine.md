@@ -514,9 +514,7 @@ The materials list for the modern "Magan Boat" included almost three tons of ree
 
 ### Empire
 
-The degree to which the uncertainties of long-distance sea trade affected relations between merchants and the political and religious establishment-- which were often one and the same--is difficult to gauge. Much of Mesopotamia's trade was in the hands of individual merchants, although the temples were heavily involved and temple complexes could double as warehouses. A collection of documents from the end of the third millennium BCE describes the transactions of one merchant, Lu-Enlilla, who withdrew from a temple thousands of kilograms of wood, timber, and fish, more than fifteen hundred liters of sesame oil, garments, and hides to trade for copper in Magan. Private investors could lend money either at a fixed rate, thereby minimizing both their risk and their reward, or with the intent of sharing in the profits, thereby assuming more risk if the merchant suffered losses. Mesopotamians did not have the severe restrictions on interest later dictated by Jewish, Christian, and Muslim law, and temples and individuals routinely charged interest rates of 20 to 33
-
-percent. The role of traders not dependent on the temple and state helps explain why, when the Ur Dynasty collapsed within a quarter century of Lu-Enlilla's time, Persian Gulf commerce continued, although Mesopotamian merchants seem to have lost much of their trade to Dilmun.
+The degree to which the uncertainties of long-distance sea trade affected relations between merchants and the political and religious establishment-- which were often one and the same--is difficult to gauge. Much of Mesopotamia's trade was in the hands of individual merchants, although the temples were heavily involved and temple complexes could double as warehouses. A collection of documents from the end of the third millennium BCE describes the transactions of one merchant, Lu-Enlilla, who withdrew from a temple thousands of kilograms of wood, timber, and fish, more than fifteen hundred liters of sesame oil, garments, and hides to trade for copper in Magan. Private investors could lend money either at a fixed rate, thereby minimizing both their risk and their reward, or with the intent of sharing in the profits, thereby assuming more risk if the merchant suffered losses. Mesopotamians did not have the severe restrictions on interest later dictated by Jewish, Christian, and Muslim law, and temples and individuals routinely charged interest rates of 20 to 33 percent. The role of traders not dependent on the temple and state helps explain why, when the Ur Dynasty collapsed within a quarter century of Lu-Enlilla's time, Persian Gulf commerce continued, although Mesopotamian merchants seem to have lost much of their trade to Dilmun.
 
 Mesopotamia regained its political cohesion during the First Dynasty of Babylon, which spanned the nineteenth to seventeenth centuries BCE. In the 1700s BCE, Hammurabi ruled much of lower Mesopotamia and as far west as the Amorite trading city of Mari on the upper Euphrates. (The Amorites were a Semitic-speaking people whose spread from Arabia into Syria and Mesopotamia around the turn of the millennium probably stimulated, or was stimulated by, a new emphasis on east-west trade both overland and via the Euphrates.) Hammurabi is best known for his Code of Laws, the most complete to survive from ancient Mesopotamia. Promulgated toward the end of his reign, many of the laws have a direct bearing on merchants' relations and interest rates, and seven touch directly on shipping. Three specify the rates to be charged for hiring vessels of up to sixty gur. Others dictate the cost of building a sixty-gur ship--two shekels--and guarantee boats for a year.b The pay of sailors was fixed at six gur of grain per year, but sailors were liable for any damages arising from their negligence. The law also includes a rare early example of a "rule of the road," which in this case mandates that the master of a vessel proceeding downstream has to steer clear of a vessel heading against the current, and making him liable for any damages resulting from his carelessness.c One can trace the evolution of commercial law and the rights and responsibilities of ships' officers and crew from this point forward, but few navigation rules had the force of law before the advent of steam navigation in the nineteenth century.
 
@@ -3052,9348 +3050,5813 @@ Seafaring is one of humankind's oldest collective pursuits, the benefits of whic
 
 ### Introduction
 
-1.   "ancient ships and boats": Harding, "Organizational Life Cycles,"
+1. “ancient ships and boats”: Harding, “Organizational Life Cycles,” 7.
 
-7.
+2. “classic age of sail”: The phrase is from the title of a collection of essays edited by John B. Hattendorf, Maritime History, vol. 2, The Eighteenth Century and the Classic Age of Sail (Malabar, FL: Krieger, 1997).
 
-2.   "classic age of sail": The phrase is from the title of a collection of essays edited by John B. Hattendorf, Maritime History, vol. 2, The Eighteenth Century and the Classic Age of Sail (Malabar, FL: Krieger, 1997).
+3. “the inequality”: Toynbee, “My View of History,” 10, in Manning, Navigating World History, 41. In the same vein, Nicholas Rodger notes that “Naval history is certainly one of the few historical subjects in which there are authors who still think that success or failure can be explained by references, overt or implied, to the innate superiority of national character” (“Considerations,” 118).
 
-3.   "the inequality": Toynbee, "My View of History," 10, in Manning, Navigating World History, 41. In the same vein, Nicholas Rodger notes that "Naval history is certainly one of the few historical subjects in which there are authors who still think that success or failure can be explained by references, overt or implied, to the innate superiority of national character" ("Considerations," 118).
+4. nationalist maritime histories: These include Mookerji, Indian Shipping (1912); G. A. Ballard, Rulers of the Indian Ocean (London: Duckworth, 1927); Hadi Hasan, A History of Persian Navigation (1928); K. M. Panikkar, India and the Indian Ocean: An Essay on the Influence of Sea Power on Indian History (London: Allen & Unwin, 1945); Hourani, Arab Seafaring in the Indian Ocean in Ancient and Early Medieval Times (1951); and Needham, et al., Science and Civilisation in China, vol. 4, pt. 3, Civil Engineering and Nautics (1971).
 
-4.      nationalist maritime histories: These include Mookerji, Indian Shipping (1912); G. A. Ballard, Rulers of the Indian Ocean (London: Duckworth, 1927); Hadi Hasan, A History of Persian Navigation (1928); K. M. Panikkar, India and the Indian Ocean: An Essay on the Influence of Sea Power on Indian History (London: Allen & Unwin, 1945); Hourani, Arab Seafaring in the Indian Ocean in Ancient and Early Medieval Times (1951); and Needham, et al., Science and Civilisation in China, vol. 4, pt. 3, Civil Engineering and Nautics (1971).
+5. works examining individual oceans and seas include Neal Ascherson, Black Sea (New York: Hill & Wang, 1995); Braudel, The Mediterranean; Paul Butel, The Atlantic, trans. Iain Hamilton Grant (London: Routledge, 1999); Nigel Calder, The English Channel (New York: Viking, 1986); K. N. Chaudhuri, Trade and Civilization in the Indian Ocean: An Economic History from the Rise of Islam to 1750 (Cambridge: Cambridge University Press, 1985); Charles H. Cotter, The Atlantic Ocean (Glasgow: Brown & Ferguson, 1974); Richard Hall, Empires of the Monsoon: A History of the Indian Ocean and Its Invaders (London: HarperCollins, 1996); Peregrine Horden and Nicholas Purcell, The Corrupting Sea: A Study of Mediterranean History (London: Blackwell, 2000); Paul Jordan, North Sea Saga (New York: Pearson-Longman, 2004); Milo Kearney, The Indian Ocean in World History (London: Routledge, 2003); Charles King, The Black Sea: A History (New York: Oxford University Press, 2004); Kirby and Hinkkanen, The Baltic and North Seas; Matti Klinge, The Baltic World, trans. Timothy Binham (Helsinki: Otava, 1995); Predrag Matvejevic, Mediterranean: A Cultural Landscape (Berkeley: University of California Press, 1999); Walter A. McDougall, Let the Sea Make a Noise: A History of the North Pacific from Magellan to MacArthur (New York: Basic Books, 1993); McPherson, The Indian Ocean; Palmer, The Baltic; Pearson, The Indian Ocean; Pryor, Geography, Technology and War; Himanshu Prabha Ray, Archaeology of Seafaring: The Indian Ocean in the Ancient Period (New Delhi: Pragati, 1999); Auguste Toussaint, History of the Indian Ocean (London: Routledge, 1966); and Villiers, Monsoon Seas.
 
-5.      works examining individual oceans and seas include Neal Ascherson, Black Sea (New York: Hill & Wang, 1995); Braudel, The Mediterranean; Paul Butel, The Atlantic, trans. Iain Hamilton Grant (London: Routledge, 1999); Nigel Calder, The English Channel (New York: Viking, 1986); K. N. Chaudhuri, Trade and Civilization in the Indian Ocean: An Economic History from the Rise of Islam to 1750 (Cambridge: Cambridge University Press, 1985); Charles H. Cotter, The Atlantic Ocean (Glasgow: Brown & Ferguson, 1974); Richard Hall, Empires of the Monsoon: A History of the Indian Ocean and Its Invaders (London: HarperCollins, 1996); Peregrine Horden and Nicholas Purcell, The Corrupting Sea: A Study of Mediterranean History (London: Blackwell, 2000); Paul Jordan, North Sea Saga (New York: Pearson-Longman, 2004); Milo Kearney, The Indian Ocean in World History (London: Routledge, 2003); Charles King, The Black Sea: A History (New York: Oxford University Press, 2004); Kirby and Hinkkanen, The Baltic and North Seas; Matti Klinge, The Baltic World, trans. Timothy Binham (Helsinki: Otava, 1995); Predrag Matvejevic, Mediterranean: A Cultural Landscape (Berkeley: University of California Press, 1999); Walter A. McDougall, Let the Sea Make a Noise: A History of the North Pacific from Magellan to MacArthur (New York: Basic Books, 1993); McPherson, The Indian Ocean; Palmer, The Baltic; Pearson, The Indian Ocean; Pryor, Geography, Technology and War; Himanshu Prabha Ray, Archaeology of Seafaring: The Indian Ocean in the Ancient Period (New Delhi: Pragati, 1999); Auguste Toussaint, History of the Indian Ocean (London: Routledge, 1966); and Villiers, Monsoon Seas.
+6. “All sea is sea”: In Jay, Greek Anthology, 7.639 (p. 195).
 
-6.   "All sea is sea": In Jay, Greek Anthology, 7.639 (p. 195).
+7. “Do you not see”: Quran 32:31.
 
-7.   "Do you not see": Quran 32:31.
+8. “maritime technology”: Diamond, Guns, Germs, and Steel, 78, and 241, 313, 341–42, 359.
 
-8.   "maritime technology": Diamond, Guns, Germs, and Steel, 78, and 241, 313, 341-42, 359.
+9. “the story of the processes”: Roberts, History of the World, xiv.
 
-9.   "the story of the processes": Roberts, History of the World, xiv.
-
-10.   "A general naval history": Rodger, "Considerations," 128.
+10. “A general naval history”: Rodger, “Considerations,” 128.
 
 ### 1. Taking to the Water
 
-1.   Norwegian rock carvings: Ellmers, "Beginning of Boatbuilding in Central Europe," 11-12.
+1. Norwegian rock carvings: Ellmers, “Beginning of Boatbuilding in Central Europe,” 11–12.
 
-2.      "Who the devil": Jean-Louis Caro, Journal, in Bougainville, Pacific Journal, 200.
+2. “Who the devil”: Jean-Louis Caro, Journal, in Bougainville, Pacific Journal, 200.
 
-3.      from the East Indies: Cook, Journals, vol. 1, Voyage of the Endeavour, 154; Irwin, Prehistoric Exploration, 13-16.
+3. from the East Indies: Cook, Journals, vol. 1, Voyage of the Endeavour, 154; Irwin, Prehistoric Exploration, 13–16.
 
-4.   "accidental drift": Kirch, On the Road of the Winds, 238; Lewis, We, the Navigators, 16-17; and Irwin, Prehistoric Exploration, 13-16.
+4. “accidental drift”: Kirch, On the Road of the Winds, 238; Lewis, We, the Navigators, 16–17; and Irwin, Prehistoric Exploration, 13–16.
 
-5.   Sundaland to Sahul: Kirch, On the Road of the Winds, 68.
+5. Sundaland to Sahul: Kirch, On the Road of the Winds, 68.
 
-6.      oldest stone tools: Horridge, "Story of Pacific Sailing Canoes,"
+6. oldest stone tools: Horridge, “Story of Pacific Sailing Canoes,” 541.
 
-541.
+7. intervisible islands: Kirch, On the Road of the Winds, 68–69; Irwin, Prehistoric Exploration, 18–23.
 
-7.   intervisible islands: Kirch, On the Road of the Winds, 68-69; Irwin, Prehistoric Exploration, 18-23.
+8. Mount Witori: Kirch, On the Road of the Winds, 88.
 
-8.   Mount Witori: Kirch, On the Road of the Winds, 88.
+9. Lapita culture: Ibid., 93–95, 209–10.
 
-9.   Lapita culture: Ibid., 93-95, 209-10.
+10. A number of sequences: Ibid., 231, and an alternative scenario, 245.
 
-10.   A number of sequences: Ibid., 231, and an alternative scenario,
+11. Micronesia’s settlement: Ibid., 170; Irwin, Prehistoric Exploration, 126–27.
 
-245.
+12. What prompted the Lapita people: Kirch, On the Road of the Winds, 97; Irwin, Prehistoric Exploration, 42.
 
-11.      Micronesia's settlement: Ibid., 170; Irwin, Prehistoric Exploration, 126-27.
+13. “splendid recklessness”: Hornell, Water Transport, 253.
 
-12.      What prompted the Lapita people: Kirch, On the Road of the Winds, 97; Irwin, Prehistoric Exploration, 42.
+14. fisherman named Kupe: I have followed the outline in Buck’s Coming of the Maori, 5–7; for another interpretation of this and associated traditions, see Walker, Ka Whawhai Tonu Matou, 34–43.
 
-13.   "splendid recklessness": Hornell, Water Transport, 253.
+15. Although New Zealand is closer: Irwin, Prehistoric Exploration, 104–10.
 
-14.      fisherman named Kupe: I have followed the outline in Buck's Coming of the Maori, 5-7; for another interpretation of this and associated traditions, see Walker, Ka Whawhai Tonu Matou, 34-
+16. average size: By way of example, the average size of the forty-eight islands in the Federated States of Micronesia is 14.4 square kilometers, but the median size is only 1.5 square kilometers; only six are more than 10 square kilometers and only three more than 100 square kilometers.
 
-43.
+17. navigational practices: McGrail, Boats of the World, 342–45.
 
-15.   Although New Zealand is closer: Irwin, Prehistoric Exploration, 104-10.
+18. trade winds: In Robinson Crusoe (1719), Daniel Defoe writes “The winds [in the China Sea] seemed to be more steadily against us, blowing almost Trade, as we call it, from the East, and E.N.E.”
 
-16.   average size: By way of example, the average size of the fortyeight islands in the Federated States of Micronesia is 14.4 square kilometers, but the median size is only 1.5 square kilometers; only six are more than 10 square kilometers and only three more than 100 square kilometers.
+19. “expand” the size: Lewis, We, the Navigators, 196.
 
-17.   navigational practices: McGrail, Boats of the World, 342-45.
+20. ocean swells: Ibid., 224–61; Genz, “Oceania,” 146.
 
-18.      trade winds: In Robinson Crusoe (1719), Daniel Defoe writes "The winds [in the China Sea] seemed to be more steadily against us, blowing almost Trade, as we call it, from the East, and E.N.E."
+21. “the direction of every known island”: Lewis, We, the Navigators, 174.
 
-19.   "expand" the size: Lewis, We, the Navigators, 196.
+22. etak, or reference island: Ibid., 173–79
 
-20.   ocean swells: Ibid., 224-61; Genz, "Oceania," 146.
+23. Hokule’a: Ibid., 312–26. Literally “star of gladness,” Hokule’a is otherwise known as Arcturus. The Polynesian Voyaging Society is an excellent resource for information about traditional Pacific navigation and boatbuilding generally. The most complete introduction to Pacific boatbuilding remains Haddon and Hornell, Canoes of Oceania. McGrail, Boats of the World, 311–45, is more accessible and up-to-date.
 
-21.   "the direction of every known island": Lewis, We, the Navigators,
+24. Mau Piailug: “Pius Mau Piailug.”
 
-174.
+25. Double canoes: McGrail, Boats of the World, 324–26.
 
-22.   etak, or reference island: Ibid., 173-79
+26. capable of carrying: Ibid., 338; Kirch, On the Road of the Winds, 109–11.
 
-23.   Hokule'a: Ibid., 312-26. Literally "star of gladness," Hokule'a is otherwise known as Arcturus. The Polynesian Voyaging Society is an excellent resource for information about traditional Pacific navigation and boatbuilding generally. The most complete introduction to Pacific boatbuilding remains Haddon and Hornell, Canoes of Oceania. McGrail, Boats of the World, 311-45, is more accessible and up-to-date.
+27. coastal migration: Fladmark, “Routes”; Erlandson et al., “Kelp Highway Hypothesis.”
 
-24.   Mau Piailug: "Pius Mau Piailug."
+28. dearth of harbors: Arnold and Bernard, “Negotiating the Coasts,” 110.
 
-25.   Double canoes: McGrail, Boats of the World, 324-26.
+29. 120 kilometers a day: Carvajal, Discovery of the Amazon, 99.
 
-26.   capable of carrying: Ibid., 338; Kirch, On the Road of the Winds, 109-11.
+30. Andean civilization emerged: Moseley, Maritime Foundations of Andean Civilization, 7–17.
 
-27.   coastal migration: Fladmark, "Routes"; Erlandson et al., "Kelp Highway Hypothesis."
+31. reeds, cotton, and gourds: Moseley, Incas and Their Ancestors, 47.
 
-28.   dearth of harbors: Arnold and Bernard, "Negotiating the Coasts,"
+32. Chavín’s earliest long-distance trades: Stanish, “Origins of State Societies in Ancient Peru,” 45–48.
 
-110.
+33. thorny oyster: Zeidler, “Maritime Exchange in the Early Formative Period,” 252.
 
-29.   120 kilometers a day: Carvajal, Discovery of the Amazon, 99.
+34. views that Amazonia: Mann, 1491, 280–311.
 
-30.   Andean civilization emerged: Moseley, Maritime Foundations of Andean Civilization, 7-17.
+35. “the great dominion of Machiparo”: Carvajal, Discovery of the Amazon, 199.
 
-31.   reeds, cotton, and gourds: Moseley, Incas and Their Ancestors,
+36. four hundred liters: Ibid., 201.
 
-47.
+37. “two hundred pirogues”: Ibid., 218.
 
-32.   Chavín's earliest long-distance trades: Stanish, "Origins of State Societies in Ancient Peru," 45-48.
+38. more than eighteen hundred nautical miles: Callaghan, “Prehistoric Trade Between Ecuador and West Mexico,” 798.
 
-33.      thorny oyster: Zeidler, "Maritime Exchange in the Early Formative Period," 252.
+39. Affinities: Coe, “Archaeological Linkages,” 364–66; Anawalt, “Ancient Cultural Contacts.”
 
-34.   views that Amazonia: Mann, 1491, 280-311.
+40. intermittent trade: Shimada, “Evolution of Andean Diversity,” 430–36.
 
-35.   "the great dominion of Machiparo": Carvajal, Discovery of the Amazon, 199.
+41. balsas: rafts; Edwards, Aboriginal Watercraft.
 
-36.   four hundred liters: Ibid., 201.
+42. “They are level”: Salazar de Villasante, in ibid., 62.
 
-37.   "two hundred pirogues": Ibid., 218.
+43. “By sinking some”: Jorge Juan y Santacilia, Relación Histórica del Viage a la América Meridionel (1748), in Edwards, Aboriginal Watercraft, 73–74, and n. 33. Juan y Santacilia went on to become chief constructor of the Spanish navy, and his two-volume shipbuilding treatise, Examen marítimo, theórico práctico…(1771), remained in print for fifty years. See Ferreiro, Ships and Science, 272–75.
 
-38.      more than eighteen hundred nautical miles: Callaghan, "Prehistoric Trade Between Ecuador and West Mexico," 798.
+44. fastest northbound passages: Callaghan, “Prehistoric Trade Between Ecuador and West Mexico,” 801–3.
 
-39.      Affinities: Coe, "Archaeological Linkages," 364-66; Anawalt, "Ancient Cultural Contacts."
+45. excited no imitation: Chapman, “Port of Trade Enclaves in Aztec and Maya Civilization,” 131–42.
 
-40.      intermittent trade: Shimada, "Evolution of Andean Diversity," 430-36.
+46. none of whom: Epstein, “Sails in Aboriginal Mesoamerica.”
 
-41.   balsas: rafts; Edwards, Aboriginal Watercraft.
+47. Putun Maya: Allaire, “Archaeology of the Caribbean Region,” 711–12.
 
-42.   "They are level": Salazar de Villasante, in ibid., 62.
+48. “by good fortune”: Colón, Life of the Admiral Christopher Columbus, chap. 89 (pp. 231–32).
 
-43.   "By sinking some": Jorge Juan y Santacilia, Relación Histórica del Viage a la América Meridionel (1748), in Edwards, Aboriginal Watercraft, 73-74, and n. 33. Juan y Santacilia went on to become chief constructor of the Spanish navy, and his twovolume shipbuilding treatise, Examen marítimo, theórico práctico…(1771), remained in print for fifty years. See Ferreiro, Ships and Science, 272-75.
+49. oldest log canoes: Wheeler et al., “Archaic Period Canoes.”
 
-44.      fastest northbound passages: Callaghan, "Prehistoric Trade Between Ecuador and West Mexico," 801-3.
+50. forerunners of planked boats: McGrail, Boats of the World, 172–80.
 
-45.   excited no imitation: Chapman, "Port of Trade Enclaves in Aztec and Maya Civilization," 131-42.
+51. Coastal people traded: Fisher, “Northwest from the Beginning of Trade,” 120–24.
 
-46.   none of whom: Epstein, "Sails in Aboriginal Mesoamerica."
+52. “about 200 Men”: DeVoto, Journals of Lewis and Clark, Nov. 4, 1805 (p. 275).
 
-47.      Putun Maya: Allaire, "Archaeology of the Caribbean Region," 711-12.
+53. Large dugouts: McGrail, Boats of the World, 172.
 
-48.      "by good fortune": Colón, Life of the Admiral Christopher Columbus, chap. 89 (pp. 231-32).
+54. “ornimented with Images”: DeVoto, Journals of Lewis and Clark, Nov. 4, 1805 (p. 276); Ames, “Going by Boat,” 27–28, 31–32.
 
-49.   oldest log canoes: Wheeler et al., "Archaic Period Canoes."
+55. “the only tool”: DeVoto, Journals of Lewis and Clark, Feb. 1, 1806 (pp. 316–17).
 
-50.   forerunners of planked boats: McGrail, Boats of the World, 172-
+56. Kayaks, Umiaks, and Baidarkas: Chapelle, “Arctic Skin Boats,” 174–211.
 
-80.
+57. Dorset culture was replaced: Snow, “First Americans,” 186–93.
 
-51.   Coastal people traded: Fisher, "Northwest from the Beginning of Trade," 120-24.
+58. “It was sowed together”: Martin Pring, “A Voyage … for the discouerie of the North part of Virginia,” in Quinn and Quinn, English New England Voyages, 222.
 
-52.   "about 200 Men": DeVoto, Journals of Lewis and Clark, Nov. 4, 1805 (p. 275).
+59. The preferred bark: Adney and Chapelle, Bark Canoes and Skin Boats, 14–15, 29.
 
-53.   Large dugouts: McGrail, Boats of the World, 172.
+60. “The Indian”: McPhee, Survival of the Bark Canoe, 50.
 
-54.   "ornimented with Images": DeVoto, Journals of Lewis and Clark, Nov. 4, 1805 (p. 276); Ames, "Going by Boat," 27-28, 31-32.
+61. “cocked his arm”: Ibid., 21.
 
-55.   "the only tool": DeVoto, Journals of Lewis and Clark, Feb. 1, 1806 (pp. 316-17).
+62. “must be looked upon”: Adney and Chapelle, Bark Canoes and Skin Boats, 135.
 
-56.   Kayaks, Umiaks, and Baidarkas: Chapelle, "Arctic Skin Boats," 174-211.
-
-57.   Dorset culture was replaced: Snow, "First Americans," 186-93.
-
-58.      "It was sowed together": Martin Pring, "A Voyage  …  for the discouerie of the North part of Virginia," in Quinn and Quinn, English New England Voyages, 222.
-
-59.   The preferred bark: Adney and Chapelle, Bark Canoes and Skin Boats, 14-15, 29.
-
-60.   "The Indian": McPhee, Survival of the Bark Canoe, 50.
-
-61.   "cocked his arm": Ibid., 21.
-
-62.   "must be looked upon": Adney and Chapelle, Bark Canoes and Skin Boats, 135.
-
-63.   "The board canoe": Fernando Librado, in Hudson et al., Tomol,
-
-39.
+63. “The board canoe”: Fernando Librado, in Hudson et al., Tomol, 39.
 
 ### 2. The River and Seas of Ancient Egypt
 
-1.      "And then with my eyes closed": In Jenkins, Boat Beneath the Pyramid, 53.
+1. “And then with my eyes closed”: In Jenkins, Boat Beneath the Pyramid, 53.
 
-2.   "looked as hard": In Lipke, Royal Ship of Cheops, 2.
+2. “looked as hard”: In Lipke, Royal Ship of Cheops, 2.
 
-3.   The most important Egyptian towns: Wilkinson, Early Dynastic Egypt, 346-60.
+3. The most important Egyptian towns: Wilkinson, Early Dynastic Egypt, 346–60.
 
-4.   "to sail southwards": Montet, Everyday Life in Ancient Egypt, 173, note.
+4. “to sail southwards”: Montet, Everyday Life in Ancient Egypt, 173, note.
 
-5.   "Balance of the Two Lands": Wilkinson, Early Dynastic Egypt, 58.
+5. “Balance of the Two Lands”: Wilkinson, Early Dynastic Egypt, 58.
 
-6.      The score of wooden hulls: Ward, Sacred and Secular, 12. Egyptian ship remains from antiquity include fourteen hulls from Abydos, two from Giza (one unexcavated), five or six from Dahshur (four on exhibit, in Cairo, Pittsburgh, and Chicago), part of a fifth-century BCE hull from Mataria, near Cairo, and a collection of ship timbers from Lisht.
+6. The score of wooden hulls: Ward, Sacred and Secular, 12. Egyptian ship remains from antiquity include fourteen hulls from Abydos, two from Giza (one unexcavated), five or six from Dahshur (four on exhibit, in Cairo, Pittsburgh, and Chicago), part of a fifth-century BCE hull from Mataria, near Cairo, and a collection of ship timbers from Lisht.
 
-7.   Larger reed rafts: Landström, Ships of the Pharaohs, 41, 94-97.
+7. Larger reed rafts: Landström, Ships of the Pharaohs, 41, 94–97.
 
-8.   A bipod mast: Hornell, Water Transport, 46, 49; Johnstone, Seacraft of Prehistory, 10, 70.
+8. A bipod mast: Hornell, Water Transport, 46, 49; Johnstone, Sea-craft of Prehistory, 10, 70.
 
-9.      The oldest rendering: Carter, "Boat-Related Finds," 91. This ceramic disc shows a bipod mast but not a sail.
+9. The oldest rendering: Carter, “Boat-Related Finds,” 91. This ceramic disc shows a bipod mast but not a sail.
 
-10.   royal mortuary in Abydos: O'Connor, "Boat Graves and Pyramid Origins"; Pierce, "After 5,000-Year Voyage"; Ward, "World's Oldest Planked Boats."
+10. royal mortuary in Abydos: O’Connor, “Boat Graves and Pyramid Origins”; Pierce, “After 5,000-Year Voyage”; Ward, “World’s Oldest Planked Boats.”
 
-11.      The inherent flexibility: In the fourteenth century, Ibn Battuta wrote, "The Indian and Yemenite ships are sewn together with [cords], for that sea [the Red Sea] is full of reefs, and if a ship is nailed with iron nails it breaks up on striking the rocks, whereas if it is sewn together with cords, it is given a certain resilience and does not fall to pieces." Travels, 4:827.
+11. The inherent flexibility: In the fourteenth century, Ibn Battuta wrote, “The Indian and Yemenite ships are sewn together with [cords], for that sea [the Red Sea] is full of reefs, and if a ship is nailed with iron nails it breaks up on striking the rocks, whereas if it is sewn together with cords, it is given a certain resilience and does not fall to pieces.” Travels, 4:827.
 
-12.   The Khufu ship used: Ward, Sacred and Secular, 140.
+12. The Khufu ship used: Ward, Sacred and Secular, 140.
 
-13.   no caulking: Ibid., 124.
+13. no caulking: Ibid., 124.
 
-14.   sewn hull of the Sohar: Severin, Sinbad Voyage, 40: "Kunhikoya announced that I would need about fifteen hundred bundles of coconut string to build the ship I needed. I calculated the total length, and it came to four hundred miles! This seemed a colossal amount, but events proved Kunhikoya right."
+14. sewn hull of the Sohar: Severin, Sinbad Voyage, 40: “Kunhikoya announced that I would need about fifteen hundred bundles of coconut string to build the ship I needed. I calculated the total length, and it came to four hundred miles! This seemed a colossal amount, but events proved Kunhikoya right.”
 
-15.   "I conducted the work": In Breasted, Ancient Records of Egypt, vol. 1, §746 (p. 326).
+15. “I conducted the work”: In Breasted, Ancient Records of Egypt, vol. 1, §746 (p. 326).
 
-16.   The Nubians may have originated: Ward, Sacred and Secular, 6.
+16. The Nubians may have originated: Ward, Sacred and Secular, 6.
 
-17.      One theory: Jenkins, Boat Beneath the Pyramid; Landström, Ships of the Pharaohs; and Lipke, Royal Ship of Cheops.
+17. One theory: Jenkins, Boat Beneath the Pyramid; Landström, Ships of the Pharaohs; and Lipke, Royal Ship of Cheops.
 
-18.   "the most beautiful in form": In Simpson, Literature of Ancient Egypt, 17.
+18. “the most beautiful in form”: In Simpson, Literature of Ancient Egypt, 17.
 
-19.      "Bringing from the workshops": In Landström, Ships of the Pharaohs, 62.
+19. “Bringing from the workshops”: In Landström, Ships of the Pharaohs, 62.
 
-20.   two granite obelisks: Habachi, "Two Graffiti at Sehel," 99. One inscription refers to "two great obelisks, their height 108 cubits" (57 meters), which would have weighed 2,400 tons each and required a barge 95 meters long by 32 meters wide, with a loaded displacement of 7,300 tons and a draft of 3 meters. For measurements of Hatshepsut's barge, see Landström, Ships of the Pharaohs, 129-30.
+20. two granite obelisks: Habachi, “Two Graffiti at Sehel,” 99. One inscription refers to “two great obelisks, their height 108 cubits” (57 meters), which would have weighed 2,400 tons each and required a barge 95 meters long by 32 meters wide, with a loaded displacement of 7,300 tons and a draft of 3 meters. For measurements of Hatshepsut’s barge, see Landström, Ships of the Pharaohs, 129–30.
 
-21.   "the ships were able": Pliny, Natural History, 36.14 (vol. 10:29).
+21. “the ships were able”: Pliny, Natural History, 36.14 (vol. 10:29).
 
-22.   Colossi of Memnon: Wehausen et al., "Colossi of Memnon and Egyptian Barges." The statues depict Amenhotpe III (1410-1372 BCE) but later Greek visitors took them to represent Memnon, an Ethiopian king whom Achilles killed at Troy. See Casson, Everyday Life in Ancient Egypt, 141.
+22. Colossi of Memnon: Wehausen et al., “Colossi of Memnon and Egyptian Barges.” The statues depict Amenhotpe III (1410–1372 BCE) but later Greek visitors took them to represent Memnon, an Ethiopian king whom Achilles killed at Troy. See Casson, Everyday Life in Ancient Egypt, 141.
 
-23.   "the raft is carried": Herodotus, Histories, 2.96 (p. 119).
+23. “the raft is carried”: Herodotus, Histories, 2.96 (p. 119).
 
-24.   "the method of construction": Ibid.
+24. “the method of construction”: Ibid.
 
-25.   "a cargo-boat of acacia": In Landström, Ships of the Pharaohs,
+25. “a cargo-boat of acacia”: In Landström, Ships of the Pharaohs, 62. The Egyptians used two cubit measurements, one equal to 0.45 centimeters and the royal cubit of 0.525 meters; Wachsmann, Seagoing Ships, 345n16.
 
-62. The Egyptians used two cubit measurements, one equal to
+26. “ships go out”: In Pritchard, Ancient Near East, 1:259.
 
-0.45 centimeters and the royal cubit of 0.525 meters; Wachsmann, Seagoing Ships, 345n16.
+27. “forward-starboard”: Ward, Sacred and Secular, 8–9.
 
-26.   "ships go out": In Pritchard, Ancient Near East, 1:259.
+28. “down to Egypt”: In Breasted, Ancient Records of Egypt, vol. 1, §322 (p. 148).
 
-27.   "forward-starboard": Ward, Sacred and Secular, 8-9.
+29. “If you descend”: “Tale of the Eloquent Peasant,” in Simpson, Literature of Ancient Egypt, 25–44, esp. 33, 36. Ma’at was both the concept and goddess of universal order and justice.
 
-28.   "down to Egypt": In Breasted, Ancient Records of Egypt, vol. 1, §322 (p. 148).
+30. “The bow-rope of the South”: In Breasted, Ancient Records of Egypt, vol. 2, §341 (p. 143).
 
-29.   "If you descend": "Tale of the Eloquent Peasant," in Simpson, Literature of Ancient Egypt, 25-44, esp. 33, 36. Ma'at was both the concept and goddess of universal order and justice.
+31. ship of state: See for instance, Sophocles, Oedipus the King, ll.27–30 (420 BCE); Plato, Republic, 6.488 (340 BCE); Horace, Odes, 1.14 (23 BCE); Sebastian Brant, Das Narranschiff (Ship of Fools, 1494); and Whitman, Leaves of Grass, 262–63: “O Captain! My Captain!” on the death of Abraham Lincoln (1865). Explaining his purpose in gathering traditional sailing ships for Operation Sail 1976 as a means of building international goodwill, maritime historian Frank O. Braynard wrote, “We are all seamen on the ship Earth.”
 
-30.   "The bow-rope of the South": In Breasted, Ancient Records of Egypt, vol. 2, §341 (p. 143).
+32. “only one warship”: In Breasted, Ancient Records of Egypt, vol. 1, §322 (p. 148).
 
-31.      ship of state: See for instance, Sophocles, Oedipus the King, ll.27-30 (420 BCE); Plato, Republic, 6.488 (340 BCE); Horace, Odes, 1.14 (23 BCE); Sebastian Brant, Das Narranschiff (Ship of Fools, 1494); and Whitman, Leaves of Grass, 262-63: "O Captain! My Captain!" on the death of Abraham Lincoln (1865). Explaining his purpose in gathering traditional sailing ships for Operation Sail 1976 as a means of building international goodwill, maritime historian Frank O. Braynard wrote, "We are all seamen on the ship Earth."
+33. “ivory, throw sticks”: In ibid., vol. 1, §353 (p. 161).
 
-32.   "only one warship": In Breasted, Ancient Records of Egypt, vol. 1, §322 (p. 148).
+34. sea route between Buto and Byblos: Redford, Egypt, Canaan, and Israel, 22.
 
-33.   "ivory, throw sticks": In ibid., vol. 1, §353 (p. 161).
+35. “forty ships”: In Wachsmann, Seagoing Ships, 9. The Palermo Stone is a list of pharaohs and their activities from the predynastic period through the middle of the Fifth Dynasty.
 
-34.   sea route between Buto and Byblos: Redford, Egypt, Canaan, and Israel, 22.
+36. Fifth Dynasty reliefs: Wachsmann, Seagoing Ships, 12–18.
 
-35.   "forty ships": In Wachsmann, Seagoing Ships, 9. The Palermo Stone is a list of pharaohs and their activities from the predynastic period through the middle of the Fifth Dynasty.
+37. Crete and Egypt: Casson, Ancient Mariners, 17–18; Wachsmann, Seagoing Ships, 298.
 
-36.   Fifth Dynasty reliefs: Wachsmann, Seagoing Ships, 12-18.
+38. “went forth from Coptos”: In Wachsmann, Seagoing Ships, 238.
 
-37.   Crete and Egypt: Casson, Ancient Mariners, 17-18; Wachsmann, Seagoing Ships, 298.
+39. “laden with all the products”: “The Shipwrecked Sailor,” in Simpson, Literature of Ancient Egypt, 52–53.
 
-38.   "went forth from Coptos": In Wachsmann, Seagoing Ships, 238.
+40. this voyage to Punt: Wachsmann, Seagoing Ships, 18–29.
 
-39.      "laden with all the products": "The Shipwrecked Sailor," in Simpson, Literature of Ancient Egypt, 52-53.
+41. carvings of fish: El-Sayed, “Queen Hatshepsut’s Expedition.”
 
-40.   this voyage to Punt: Wachsmann, Seagoing Ships, 18-29.
+42. “the tent of the king’s-messenger”: In Breasted, Ancient Records of Egypt, vol. 2, §§260–65 (pp. 108–10).
 
-41.   carvings of fish: El-Sayed, "Queen Hatshepsut's Expedition."
+43. how the Egyptians navigated: Hydrographer of the Navy, Ocean Passages of the World, 89.
 
-42.   "the tent of the king's-messenger": In Breasted, Ancient Records of Egypt, vol. 2, §§260-65 (pp. 108-10).
+44. Murals at Avaris: Wachsmann, Seagoing Ships, 298; Kuhrt, Ancient Near East, 169.
 
-43.   how the Egyptians navigated: Hydrographer of the Navy, Ocean Passages of the World, 89.
+45. “I have not left a plank”: In Pritchard, Ancient Near East, 2:90–91.
 
-44.      Murals at Avaris: Wachsmann, Seagoing Ships, 298; Kuhrt, Ancient Near East, 169.
+46. the Barkal Stela: Hornung, History of Ancient Egypt, 77, 90.
 
-45.   "I have not left a plank": In Pritchard, Ancient Near East, 2:90-
-
-91.
-
-46.   the Barkal Stela: Hornung, History of Ancient Egypt, 77, 90.
-
-47.   "The People of the Isles": Casson, Ancient Mariners, 17, 20.
+47. “The People of the Isles”: Casson, Ancient Mariners, 17, 20.
 
 ### 3. Bronze Age Seafaring
 
-1.   Enki: Kramer and Maier, Myths of Enki, 3.
+1. Enki: Kramer and Maier, Myths of Enki, 3.
 
-2.      Ennugi: Dalley, Myths from Mesopotamia: Epic of Gilgamesh, tablet XI, p. 110.
+2. Ennugi: Dalley, Myths from Mesopotamia: Epic of Gilgamesh, tablet XI, p. 110.
 
-3.   The oldest evidence for ships with masts: Carter, "Boat-Related Finds," 89-91.
+3. The oldest evidence for ships with masts: Carter, “Boat-Related Finds,” 89–91.
 
-4.      quffa: Agius, Classic Ships of Islam, 129-32; Hornell, Water Transport, 101-8.
+4. quffa: Agius, Classic Ships of Islam, 129–32; Hornell, Water Transport, 101–8.
 
-5.   fragments of bitumen: Carter, "Boat-Related Finds," 91-99.
+5. fragments of bitumen: Carter, “Boat-Related Finds,” 91–99.
 
-6.   Epic of Gilgamesh: West, East Face of Helicon, 402-17.
+6. Epic of Gilgamesh: West, East Face of Helicon, 402–17.
 
-7.   "Then Gilgamesh stripped": Ferry, Gilgamesh, 62.
+7. “Then Gilgamesh stripped”: Ferry, Gilgamesh, 62.
 
-8.   "How long does a building stand": Ibid., 64.
+8. “How long does a building stand”: Ibid., 64.
 
-9.   "had ships of Dilmun": In Potts, Arabian Gulf in Antiquity, 1:88.
+9. “had ships of Dilmun”: In Potts, Arabian Gulf in Antiquity, 1:88.
 
-10.   "Ships from Meluhha": In ibid., 1:183.
+10. “Ships from Meluhha”: In ibid., 1:183.
 
-11.   "My mother, the entum": In Kuhrt, Ancient Near East, 48.
+11. “My mother, the entum”: In Kuhrt, Ancient Near East, 48.
 
-12.   "from the Lower Sea": In Gadd, "Dynasty of Agade," 421.
+12. “from the Lower Sea”: In Gadd, “Dynasty of Agade,” 421.
 
-13.   a village of Meluhhans: Potts, Arabian Gulf in Antiquity, 1:165-
+13. a village of Meluhhans: Potts, Arabian Gulf in Antiquity, 1:165–67.
 
-67.
+14. ancient port of Lothal: Deloche, “Geographical Considerations,” 320; Ghosh, Encyclopedia of Indian Archaeology, 1:297, 2:257–60. The prevailing alternative view is that the basin served as a reservoir for potable water or irrigation, a theory more in keeping with historic and current practice, although this identification is also problematic. See Leshnik, “Harappan ‘Port’ at Lothal,” which goes too far in writing that “Lothal’s identification as an international emporium” depends on the identification of the basin as a dock.
 
-14.   ancient port of Lothal: Deloche, "Geographical Considerations," 320; Ghosh, Encyclopedia of Indian Archaeology, 1:297, 2:257-
+15. “dock of Akkad”: Potts, “Watercraft,” 135. The Akkadian word for a quay or wharf, karum, eventually referred to the commercial quarter of a town or to any association of merchants seeking collective security in alien lands. See Kuhrt, Ancient Near East, 92.
 
-60. The prevailing alternative view is that the basin served as a reservoir for potable water or irrigation, a theory more in keeping with historic and current practice, although this identification is also problematic. See Leshnik, "Harappan 'Port' at Lothal," which goes too far in writing that "Lothal's identification as an international emporium" depends on the identification of the basin as a dock.
+16. the Ras al-Jinz finds: Cleuziou and Tosi, “Black Boats of Magan,” 750–52; Vosmer, “Ships in the Ancient Arabian Sea,” 236, and personal communication, Sept. 23, 2005.
 
-15.   "dock of Akkad": Potts, "Watercraft," 135. The Akkadian word for a quay or wharf, karum, eventually referred to the commercial quarter of a town or to any association of merchants seeking collective security in alien lands. See Kuhrt, Ancient Near East,
+17. “asphalt for the coating”: In Cleuziou and Tosi, “Black Boats of Magan,” 747.
 
-92.
+18. “Magan Boat”: The dimensions are 13 meters length overall, 11.1 meters length at the waterline, 3.9 meters maximum beam, and 10.5 tons displacement. The sail was 45 square meters. Ancient and ethnographic evidence indicate that the ancient shipwrights would have mixed various materials into their bitumen depending on its use. See Vosmer, “Magan Boat Project,” 51, 53.
 
-16.   the Ras al-Jinz finds: Cleuziou and Tosi, "Black Boats of Magan," 750-52; Vosmer, "Ships in the Ancient Arabian Sea," 236, and personal communication, Sept. 23, 2005.
+19. capacity of about thirty gur: Vosmer, “Building the Reed-Boat Prototype,” 235.
 
-17.   "asphalt for the coating": In Cleuziou and Tosi, "Black Boats of Magan," 747.
+20. Lu-Enlilla: Potts, Arabian Gulf in Antiquity, 1:145; Oppenheim, “Seafaring Merchants of Ur,” 13.
 
-18.   "Magan Boat": The dimensions are 13 meters length overall, 11.1 meters length at the waterline, 3.9 meters maximum beam, and
+21. interest rates: Van de Mieroop, Ancient Mesopotamian City, 197–98.
 
-10.5 tons displacement. The sail was 45 square meters. Ancient and ethnographic evidence indicate that the ancient shipwrights would have mixed various materials into their bitumen depending on its use. See Vosmer, "Magan Boat Project," 51, 53.
+22. a vessel proceeding downstream: Potts, Mesopotamian Civilization, 133.
 
-19.   capacity of about thirty gur: Vosmer, "Building the Reed-Boat Prototype," 235.
+23. “12 minas of refined copper”: In Potts, Arabian Gulf in Antiquity, 1:226.
 
-20.   Lu-Enlilla: Potts, Arabian Gulf in Antiquity, 1:145; Oppenheim, "Seafaring Merchants of Ur," 13.
+24. “Minos, according to tradition”: Thucydides, Peloponnesian War, 1.4 (p. 37).
 
-21.   interest rates: Van de Mieroop, Ancient Mesopotamian City, 197-
+25. Neolithic migrants: Liritzis, “Seafaring, Craft and Cultural Contact in the Aegean,” 237–43; but see Wiener, “Isles of Crete? The Minoan Thalassocracy Revisited.”
 
-98.
+26. archives at Mari: Wachsmann, Seagoing Ships, 83.
 
-22.      a vessel proceeding downstream: Potts, Mesopotamian Civilization, 133.
+27. wall paintings: Doumas, Wall-paintings of Thera; Sherratt, Wall Paintings of Thera. Wachsmann, Seagoing Ships, 86–122, interprets all the scenes as ritualistic. On the term “quarter rudder,” see Mott, Development of the Rudder, 6–7.
 
-23.   "12 minas of refined copper": In Potts, Arabian Gulf in Antiquity, 1:226.
+28. Uluburun site: Bass, “Bronze Age Shipwreck.”
 
-24.   "Minos, according to tradition": Thucydides, Peloponnesian War,
+29. “fraught with disaster”: Pliny, Natural History, 5.35.131 (vol. 2:319).
 
-1.4 (p. 37).
+30. Cape Gelidonya ship: Bass, “Cape Gelidonya”; Bass, “Return to Cape Gelidonya”; and Throckmorton, The Sea Remembers, 24–33.
 
-25.      Neolithic migrants: Liritzis, "Seafaring, Craft and Cultural Contact in the Aegean," 237-43; but see Wiener, "Isles of Crete? The Minoan Thalassocracy Revisited."
+31. “northerners coming from all lands”: In Breasted, Ancient Records of Egypt, vol. 3, §574 (p. 241).
 
-26.   archives at Mari: Wachsmann, Seagoing Ships, 83.
+32. “twenty enemy ships”: In Wachsmann, Seagoing Ships, 343–44.
 
-27.   wall paintings: Doumas, Wall-paintings of Thera; Sherratt, Wall Paintings of Thera. Wachsmann, Seagoing Ships, 86-122, interprets all the scenes as ritualistic. On the term "quarter rudder," see Mott, Development of the Rudder, 6-7.
+33. “My father”: In ibid.
 
-28.   Uluburun site: Bass, "Bronze Age Shipwreck."
+34. “Shardana, rebellious of heart”: Sandars, Sea Peoples, 50.
 
-29.      "fraught with disaster": Pliny, Natural History, 5.35.131 (vol. 2:319).
+35. “Against me the ships”: In Redford, Egypt, Canaan, and Israel, 254.
 
-30.   Cape Gelidonya ship: Bass, "Cape Gelidonya"; Bass, "Return to Cape Gelidonya"; and Throckmorton, The Sea Remembers, 24-
+36. Ramesses III’s victory: Kuhrt, Ancient Near East, 387; other sources give 1191 or 1186 BCE.
 
-33.
+37. “Those who came”: In Redford, Egypt, Canaan, and Israel, 256.
 
-31.      "northerners coming from all lands": In Breasted, Ancient Records of Egypt, vol. 3, §574 (p. 241).
+38. “The Report of Wenamun”: In Simpson, Literature of Ancient Egypt, 142–55.
 
-32.   "twenty enemy ships": In Wachsmann, Seagoing Ships, 343-44.
+### 4. Phoenicians, Greeks, and the Mediterranean
 
-33.   "My father": In ibid.
+1. territory of the Canaanites: Aubet, Phoenicians, 12–16.
 
-34.   "Shardana, rebellious of heart": Sandars, Sea Peoples, 50.
+2. Hiram I: Ibid., 35–37.
 
-35.   "Against me the ships": In Redford, Egypt, Canaan, and Israel,
+3. “at the entrance to the sea”: Ezekiel 27:3.
 
-254.
+4. “daughter cities”: Patai, Children of Noah, 136.
 
-36.      Ramesses III's victory: Kuhrt, Ancient Near East, 387; other sources give 1191 or 1186 BCE.
+5. “Because of the wide prevalence”: Thucydides, Peloponnesian War, 1.7 (p. 39).
 
-37.   "Those who came": In Redford, Egypt, Canaan, and Israel, 256.
+6. temple of Solomon: 1 Kings 5.
 
-38.      "The Report of Wenamun": In Simpson, Literature of Ancient Egypt, 142-55.
+7. Ophir and Sheba: 1 Kings 9:27, 22:48–49; 2 Chronicles 8:18, 20:34–37.
 
-### 4. Phoenicians, Greeks, and the
+8. “exultant city”: Isaiah 23:7.
 
-### Mediterranean
+9. established Carthage: Aubet, Phoenicians, 187–89.
 
-1.   territory of the Canaanites: Aubet, Phoenicians, 12-16.
+10. Gadir: Ibid., 187–89, 247–49.
 
-2.   Hiram I: Ibid., 35-37.
+11. “only high economic returns”: Ibid., 240.
 
-3.   "at the entrance to the sea": Ezekiel 27:3.
+12. “wheat, millet”: Ezekiel 27:12–25. See Tandy, Warriors into Traders, 66.
 
-4.   "daughter cities": Patai, Children of Noah, 136.
+13. Al-Mina: Polanyi, “Ports of Trade in Early Societies,” 30, 33.
 
-5.      "Because of the wide prevalence": Thucydides, Peloponnesian War, 1.7 (p. 39).
+14. “famed for its ships”: Evelyn-White, “Homeric Hymns to Pythian Apollo,” l.219 (p. 341).
 
-6.   temple of Solomon: 1 Kings 5.
+15. “Nestor had a fine drinking cup”: I am indebted to Jim Terry for this translation. See Murray, Early Greece, 96; Powell, Homer, 31–32; and Tandy, Warriors into Traders, 203. The Homeric parallel is in the Iliad, 11.745–58 (p. 317).
 
-7.      Ophir and Sheba: 1 Kings 9:27, 22:48-49; 2 Chronicles 8:18, 20:34-37.
+16. “whose merchants were princes”: Isaiah 23:8.
 
-8.   "exultant city": Isaiah 23:7.
+17. “amassing a fortune”: Homer, Odyssey, 14.321–34 (pp. 310–11).
 
-9.   established Carthage: Aubet, Phoenicians, 187-89.
+18. “purchased for himself”: Ibid., 14.512–14 (p. 316). Taphos is thought to have been an island off the west coast of Greece.
 
-10.   Gadir: Ibid., 187-89, 247-49.
+19. “so far from being”: Thucydides, Peloponnesian War, 1.5 (p. 37).
 
-11.   "only high economic returns": Ibid., 240.
+20. images on vases: Casson, Ancient Mariners, 41–42, and figs. 11–12.
 
-12.      "wheat, millet": Ezekiel 27:12-25. See Tandy, Warriors into Traders, 66.
+21. “catalogue of ships”: Homer, Iliad, 2.584–862 (pp. 115–24).
 
-13.   Al-Mina: Polanyi, "Ports of Trade in Early Societies," 30, 33.
+22. “they furled and stowed”: Ibid., 1.514–22 (p. 92).
 
-14.   "famed for its ships": Evelyn-White, "Homeric Hymns to Pythian Apollo," l.219 (p. 341).
+23. “knocking them home”: Homer, Odyssey, 5.273 (p. 160). See Casson, Ships and Seamanship, 217–19, and Wachsmann, Seagoing Ships, 227, citing Homer, Odyssey, 9.382–88.
 
-15.   "Nestor had a fine drinking cup": I am indebted to Jim Terry for this translation. See Murray, Early Greece, 96; Powell, Homer, 31-32; and Tandy, Warriors into Traders, 203. The Homeric parallel is in the Iliad, 11.745-58 (p. 317).
+24. mortise-and-tenon joinery, sewn: McGrail, Boats of the World, 126, 134–38.
 
-16.   "whose merchants were princes": Isaiah 23:8.
+25. “Hers were the stars”: Homer, Odyssey, 5.303–4 (p. 161). Pleiades is otherwise known as the Seven Sisters, Boötes as the Herdsman or Plowman, and Ursa Major as the Great Bear.
 
-17.   "amassing a fortune": Homer, Odyssey, 14.321-34 (pp. 310-11).
+26. “sung by the world”: Ibid., 12.77 (p. 273). The best known version of the Jason story is the third-century BCE Argonautica, composed by Apollonius while living at Rhodes, which was then at its height as a commercial maritime power. Apollonius was subsequently librarian of the library at Alexandria.
 
-18.      "purchased for himself": Ibid., 14.512-14 (p. 316). Taphos is thought to have been an island off the west coast of Greece.
+27. Ithaca is off the west coast: A persuasive case has been made recently that the ancient island of Ithaca is now, thanks to seismic activity, the Paliki peninsula on the island of Cephalonia, and that the modern Ithaca (Ithaki), to the east, is the ancient Doulichion. See Bittlestone, Diggle, and Underhill, Odysseus Unbound.
 
-19.   "so far from being": Thucydides, Peloponnesian War, 1.5 (p. 37).
+28. Pithecoussae: Tandy, Warriors into Traders, 72.
 
-20.   images on vases: Casson, Ancient Mariners, 41-42, and figs. 11-
+29. ship track, or diolkos: Werner, “Largest Ship Trackway in Ancient Times.”
 
-12.
+30. Pontos Axeinos: King, Black Sea, xi–xii.
 
-21.   "catalogue of ships": Homer, Iliad, 2.584-862 (pp. 115-24).
+31. settlement on the Black Sea: Tsetskhladze, “Did the Greeks Go to Cholcis for Metals?” “Greek Penetration of the Black Sea,” and “Trade on the Black Sea.”
 
-22.   "they furled and stowed": Ibid., 1.514-22 (p. 92).
+32. Theodosia: Strabo, Geography, 7.4.4 (vol. 3:237).
 
-23.      "knocking them home": Homer, Odyssey, 5.273 (p. 160). See Casson, Ships and Seamanship, 217-19, and Wachsmann, Seagoing Ships, 227, citing Homer, Odyssey, 9.382-88.
+33. canal between the Nile and the Red Sea: For an overview of the confusion surrounding the existence and date of this canal, see Redmount, “Wadi Tumilat.”
 
-24.      mortise-and-tenon joinery, sewn: McGrail, Boats of the World, 126, 134-38.
+34. “an oracle”: Herodotus, Histories, 2.159 (p. 145).
 
-25.      "Hers were the stars": Homer, Odyssey, 5.303-4 (p. 161). Pleiades is otherwise known as the Seven Sisters, Boötes as the Herdsman or Plowman, and Ursa Major as the Great Bear.
+35. “The Phoenicians sailed”: Ibid., 4.42 (p. 229). See Lloyd, “Necho and the Red Sea.”
 
-26.      "sung by the world": Ibid., 12.77 (p. 273). The best known version of the Jason story is the third-century BCE Argonautica, composed by Apollonius while living at Rhodes, which was then at its height as a commercial maritime power. Apollonius was subsequently librarian of the library at Alexandria.
+36. “his ship was brought”: Herodotus, Histories, 4.43 (p. 229).
 
-27.   Ithaca is off the west coast: A persuasive case has been made recently that the ancient island of Ithaca is now, thanks to seismic activity, the Paliki peninsula on the island of Cephalonia, and that the modern Ithaca (Ithaki), to the east, is the ancient Doulichion. See Bittlestone, Diggle, and Underhill, Odysseus Unbound.
+37. Hanno: Ibid., 4.196 (although he does not mention Hanno by name); Pliny, Natural History, 2.67.169 (vol. 1:305); and Arrian, Indica, 8.43 (vol. 2:433).
 
-28.   Pithecoussae: Tandy, Warriors into Traders, 72.
+38. Himilco: Pliny, Natural History, 2.67.169 (vol. 1:305); Avienus, Ora Maritima, 114–29, 380–89, 404–15.
 
-29.   ship track, or diolkos: Werner, "Largest Ship Trackway in Ancient Times."
+39. “like frogs round a pond”: Plato, Phaedo, 109b.
 
-30.   Pontos Axeinos: King, Black Sea, xi-xii.
+40. The Trireme: The most thorough study is Morrison and Coates, Athenian Trireme. For an alternative view on the trireme’s development, see Wallinga, “Trireme and History.”
 
-31.   settlement on the Black Sea: Tsetskhladze, "Did the Greeks Go to Cholcis for Metals?" "Greek Penetration of the Black Sea," and "Trade on the Black Sea."
+41. trieres: Casson, Ships and Seamanship, 77.
 
-32.   Theodosia: Strabo, Geography, 7.4.4 (vol. 3:237).
+42. impressive speeds: Morrison and Coates, Athenian Trireme, 94–106; Casson, Ships and Seamanship, 281–96.
 
-33.   canal between the Nile and the Red Sea: For an overview of the confusion surrounding the existence and date of this canal, see Redmount, "Wadi Tumilat."
+43. tactics of trieme warfare: Whitehead, “Periplous”; Lazenby, “Diekplous.”
 
-34.   "an oracle": Herodotus, Histories, 2.159 (p. 145).
+44. “Seamanship, just like anything else”: Thucydides, Peloponnesian War, 1.142 (p. 121).
 
-35.   "The Phoenicians sailed": Ibid., 4.42 (p. 229). See Lloyd, "Necho and the Red Sea."
+45. “the beginning of evils”: Herodotus, Histories, 5.97 (p. 317).
 
-36.   "his ship was brought": Herodotus, Histories, 4.43 (p. 229).
+46. “commanded one of his servants”: Ibid., 5.105 (p. 319).
 
-37.      Hanno: Ibid., 4.196 (although he does not mention Hanno by name); Pliny, Natural History, 2.67.169 (vol. 1:305); and Arrian, Indica, 8.43 (vol. 2:433).
+47. “naval contingent”: Ibid., 6.95 (pp. 355–56).
 
-38.   Himilco: Pliny, Natural History, 2.67.169 (vol. 1:305); Avienus, Ora Maritima, 114-29, 380-89, 404-15.
+48. “So far as I know”: Ibid., 7.49 (p. 391).
 
-39.   "like frogs round a pond": Plato, Phaedo, 109b.
+49. bridges of ships: The number of ships given by Herodotus tallies with what we know about the dimensions of the ships used. The Athenian navy’s ship sheds at Zea, near Piraeus, accommodated triremes with a beam of about 5.4 meters. Penteconters are narrower, and a mix of the two types lying side by side would comfortably span the Hellespont at its narrowest. See Morrison and Coates, Athenian Trireme, 4–5.
 
-40.   The Trireme: The most thorough study is Morrison and Coates, Athenian Trireme. For an alternative view on the trireme's development, see Wallinga, "Trireme and History."
+50. “broad enough for two triremes”: Herodotus, Histories, 7.24 (p. 384). See Isserlin et al., “Canal of Xerxes.”
 
-41.   trieres: Casson, Ships and Seamanship, 77.
+51. “The outbreak of this war”: Herodotus, Histories, 7.44 (p. 390).
 
-42.   impressive speeds: Morrison and Coates, Athenian Trireme, 94- 106; Casson, Ships and Seamanship, 281-96.
+52. “wooden walls”: Ibid., 7.141 (p. 416).
 
-43.      tactics of trieme warfare: Whitehead, "Periplous"; Lazenby, "Diekplous."
+53. “If … you rush”: Ibid., 8.68 (p. 471).
 
-44.      "Seamanship, just like anything else": Thucydides, Peloponnesian War, 1.142 (p. 121).
+54. “The Grecian warships”: Aeschylus, Persians, 316–430 (pp. 62–63).
 
-45.   "the beginning of evils": Herodotus, Histories, 5.97 (p. 317).
+55. The battle had probably cost: Strauss, Battle of Salamis, 78–80, 104, 204.
 
-46.   "commanded one of his servants": Ibid., 5.105 (p. 319).
+56. “if the Athenians”: Thucydides, Peloponnesian War, 1.93 (p. 90).
 
-47.   "naval contingent": Ibid., 6.95 (pp. 355-56).
+57. “Hellenic treasurers”: Ibid., 1.96 (p. 92).
 
-48.   "So far as I know": Ibid., 7.49 (p. 391).
+58. “These died in war”: In McGregor, Athenians and Their Empire, 92.
 
-49.   bridges of ships: The number of ships given by Herodotus tallies with what we know about the dimensions of the ships used. The Athenian navy's ship sheds at Zea, near Piraeus, accommodated triremes with a beam of about 5.4 meters. Penteconters are narrower, and a mix of the two types lying side by side would comfortably span the Hellespont at its narrowest. See Morrison and Coates, Athenian Trireme, 4-5.
+59. “The whole world”: Thucydides, Peloponnesian War, 2.62–63 (p. 160).
 
-50.   "broad enough for two triremes": Herodotus, Histories, 7.24 (p. 384). See Isserlin et al., "Canal of Xerxes."
+60. “to the victors”: Ibid., 7.87 (p. 537).
 
-51.   "The outbreak of this war": Herodotus, Histories, 7.44 (p. 390).
+61. “all men of military age”: Xenophon, History of My Times, 1.6.24, 31 (pp. 82–83).
 
-52.   "wooden walls": Ibid., 7.141 (p. 416).
+62. “put a stop”: Ibid., 1.6.15 (p. 81).
 
-53.   "If … you rush": Ibid., 8.68 (p. 471).
+63. “the only form”: Austin and Vidal-Naquet, Economic and Social History, 148–50, 360.
 
-54.   "The Grecian warships": Aeschylus, Persians, 316-430 (pp. 62- 63).
+64. Olbia refused: Ibid., 331.
 
-55.   The battle had probably cost: Strauss, Battle of Salamis, 78-80, 104, 204.
+65. “shouting crows”: Aristophanes, Acharnians, 547–55 (p. 34).
 
-56.   "if the Athenians": Thucydides, Peloponnesian War, 1.93 (p. 90).
+66. Aeschylus wanted: Pausanias, Description of Greece, 1.14.5 (vol. 1:75).
 
-57.   "Hellenic treasurers": Ibid., 1.96 (p. 92).
+67. “naval mob”: Thucydides, Peloponnesian War, 8.72 (p. 579), where Warner translates nautichos ochlos as “the men serving in the navy.” See also Aristotle, Politics (4.1291), and Plutarch, “Themistocles” (19.4).
 
-58.   "These died in war": In McGregor, Athenians and Their Empire,
+68. “their plausible and ready excuses”: Plato, Laws, 706c (p. 1298).
 
-92.
+69. “There can be no doubt”: Aristotle, Politics, 7.6.1327b (vol. 2:2106).
 
-59.   "The whole world": Thucydides, Peloponnesian War, 2.62-63 (p. 160).
+70. “the largest shipowner in Hellas”: Demosthenes, “Against Aristocrates,” 23.211 (vol. 3:361). See Millett, “Maritime Loans,” 47. For a discussion of legal and popular attitudes toward maritime traders in Athens, see Reed, Maritime Traders in the Ancient Greek World, esp. 43–61.
 
-60.   "to the victors": Ibid., 7.87 (p. 537).
+71. “I have observed”: Herodotus, Histories, 2.167 (p. 148).
 
-61.      "all men of military age": Xenophon, History of My Times,
+### 5. Carthage, Rome, and the Mediterranean
 
-1.6.24, 31 (pp. 82-83).
+1. “overcome the ships”: Arrian, Anabasis of Alexander, 1.20.1 (p. 85).
 
-62.   "put a stop": Ibid., 1.6.15 (p. 81).
+2. “went ashore where”: Ibid., 3.1.5 (p. 225).
 
-63.   "the only form": Austin and Vidal-Naquet, Economic and Social History, 148-50, 360.
+3. The establishment of Alexandria: Fraser, Ptolemaic Alexandria, 1:25–27; Strabo, Geography, 17.1.6–10 (vol. 8:23–43).
 
-64.   Olbia refused: Ibid., 331.
+4. Gelon, tyrant: Herodotus, Histories, 7.158–61 (pp. 424–25).
 
-65.   "shouting crows": Aristophanes, Acharnians, 547-55 (p. 34).
+5. Tomb of the Ship: Hagy, “800 Years of Etruscan Ships,” 242–43, fig. 38; Casson, Ships and Seamanship, 70, and fig. 97; and Brendel, Etruscan Art, 271–73.
 
-66.   Aeschylus wanted: Pausanias, Description of Greece, 1.14.5 (vol. 1:75).
+6. They also employed rams: Herodotus, Histories, 1.166 (p. 66).
 
-67.      "naval mob": Thucydides, Peloponnesian War, 8.72 (p. 579), where Warner translates nautichos ochlos as "the men serving in the navy." See also Aristotle, Politics (4.1291), and Plutarch, "Themistocles" (19.4).
+7. “masters of the sea”: Diodorus Siculus, Library of History, 11.51 (vol. 4:257).
 
-68.   "their plausible and ready excuses": Plato, Laws, 706c (p. 1298).
+8. “under the command of Hamilcar”: Herodotus, Histories, 7.165–66 (p. 426). See Green, Greco-Persian Wars, 120–22, 148–49.
 
-69.      "There can be no doubt": Aristotle, Politics, 7.6.1327b (vol. 2:2106).
+9. polyremes: Casson, Ships and Seamanship, 97–116. For an ancient understanding of the development of galleys, see Pliny the Elder, Natural History, 7.56.206–9 (vol. 2:645–47).
 
-70.      "the largest shipowner in Hellas": Demosthenes, "Against Aristocrates," 23.211 (vol. 3:361). See Millett, "Maritime Loans,"
+10. “was a single-banked vessel”: Polybius, Rise of the Roman Empire, 1.23 (p. 66).
 
-47. For a discussion of legal and popular attitudes toward maritime traders in Athens, see Reed, Maritime Traders in the Ancient Greek World, esp. 43-61.
+11. Roman quinqueremes: Ibid., 1.26 (p. 69).
 
-71.   "I have observed": Herodotus, Histories, 2.167 (p. 148).
+12. timber supplies: Meiggs, Trees and Timber, 133–39.
 
-### 5. Carthage, Rome, and the
+13. Ptolemy IV’s “forty”: Athenaeus, Deipnosophists, 5.203e–204d (vol. 2:421–25), written around 200 ce, four centuries after the fact. Descriptions and diagrams of the “forty” can be found also in Casson, Ancient Mariners, 131–33, and Ships and Seamanship, 108–12.
 
-### Mediterranean
+14. Leontophoros: Casson, Ships and Seamanship, 112–14.
 
-1.   "overcome the ships": Arrian, Anabasis of Alexander, 1.20.1 (p. 85).
+15. “had a speed”: Plutarch, Lives, “Demetrius,” 43.5 (vol. 9:109). See Casson, Ships and Seamanship, 140n20.
 
-2.   "went ashore where": Ibid., 3.1.5 (p. 225).
+16. lead sheets: Hocker, “Lead Hull Sheathing in Antiquity,” 199.
 
-3.      The establishment of Alexandria: Fraser, Ptolemaic Alexandria, 1:25-27; Strabo, Geography, 17.1.6-10 (vol. 8:23-43).
+17. “All had floors”: Athenaeus, Deipnosophists, 5.206d–209b. See Casson, Ships and Seamanship, 184–99.
 
-4.   Gelon, tyrant: Herodotus, Histories, 7.158-61 (pp. 424-25).
+18. “such sound practical use”: Polybius, Histories, 5.88 (vol. 3:219). See Casson, “Grain Trade,” 73.
 
-5.   Tomb of the Ship: Hagy, "800 Years of Etruscan Ships," 242-43, fig. 38; Casson, Ships and Seamanship, 70, and fig. 97; and Brendel, Etruscan Art, 271-73.
+19. “the constant protectors”: Polybius, Histories, 27.4 (vol. 6:495).
 
-6.   They also employed rams: Herodotus, Histories, 1.166 (p. 66).
+20. triemiolia: Gabrielsen, Naval Aristocracy of Hellenistic Rhodes, 86–89.
 
-7.   "masters of the sea": Diodorus Siculus, Library of History, 11.51 (vol. 4:257).
+21. “necessities” and luxury goods: Polybius, Histories, 4.38 (vol. 2:395).
 
-8.   "under the command of Hamilcar": Herodotus, Histories, 7.165-66 (p. 426). See Green, Greco-Persian Wars, 120-22, 148-49.
+22. imposed a toll on ships: Ibid., 4.47–48 (vol. 2:415–27).
 
-9.   polyremes: Casson, Ships and Seamanship, 97-116. For an ancient understanding of the development of galleys, see Pliny the Elder, Natural History, 7.56.206-9 (vol. 2:645-47).
+23. “It was a witty”: Saint Augustine, City of God, 4.4, in Pennell, Bandits at Sea, 18.
 
-10.      "was a single-banked vessel": Polybius, Rise of the Roman Empire, 1.23 (p. 66).
+24. pretentious abhorrence of seafaring: Many modern historians affirm this view. Arnold Toynbee is an eloquent exception: “The Roman Empire has made its mark on the mind of posterity as a land power which gave mobility to its invincible infantry by constructing and maintaining a magnificent network of roads. Yet, in truth, sea-power, not land-power, was the instrument with which the Romans extended their empire from Italy to the whole perimeter of the Mediterranean Sea.” Constantine Porphyrogenitus and His World, 323.
 
-11.   Roman quinqueremes: Ibid., 1.26 (p. 69).
+25. “while the rest were burnt”: Livy, Rome and Italy, 8.14 (p. 179). On the rostra in the forum, see Pliny the Elder, Natural History, 16.2.8 (vol. 4.391–93).
 
-12.   timber supplies: Meiggs, Trees and Timber, 133-39.
+26. coloniae maritimae: Salmon, “Coloniae Maritimae”; Thiel, History of Roman Sea-power.
 
-13.   Ptolemy IV's "forty": Athenaeus, Deipnosophists, 5.203e-204d (vol. 2:421-25), written around 200 ce, four centuries after the fact. Descriptions and diagrams of the "forty" can be found also in Casson, Ancient Mariners, 131-33, and Ships and Seamanship, 108-12.
+27. “more dangerous and less free”: Gellius, Attic Nights, 16.13.9.
 
-14.   Leontophoros: Casson, Ships and Seamanship, 112-14.
+28. “on a voyage of inspection”: Appian, Roman History (Samnite History), 7 (vol. 1:77).
 
-15.   "had a speed": Plutarch, Lives, "Demetrius," 43.5 (vol. 9:109). See Casson, Ships and Seamanship, 140n20.
+29. Pyrrhus was an expansionist: Franke, “Pyrrhus,” 475; Thiel, History of Roman Sea-power, 29.
 
-16.   lead sheets: Hocker, "Lead Hull Sheathing in Antiquity," 199.
+30. “those who are impressed”: Polybius, Rise of the Roman Empire, 1.63 (p. 109).
 
-17.   "All had floors": Athenaeus, Deipnosophists, 5.206d-209b. See Casson, Ships and Seamanship, 184-99.
+31. “The harbours had communication”: Appian, Roman History (Punic Wars), 14.96 (vol. 1:567).
 
-18.   "such sound practical use": Polybius, Histories, 5.88 (vol. 3:219). See Casson, "Grain Trade," 73.
+32. “were handling the operations”: Polybius, Rise of the Roman Empire, 1.20 (pp. 62–63).
 
-19.   "the constant protectors": Polybius, Histories, 27.4 (vol. 6:495).
+33. “was on the water”: Pliny, Natural History, 16.74.192 (vol. 4:513).
 
-20.   triemiolia: Gabrielsen, Naval Aristocracy of Hellenistic Rhodes, 86-89.
+34. Punic Ship: Frost, “Marsala Punic Ship”; Frost et al., Lilybaeum (Marsala).
 
-21.      "necessities" and luxury goods: Polybius, Histories, 4.38 (vol. 2:395).
+35. corvus: Polybius, Rise of the Roman Empire, 1.22 (p. 65). Corvus is the Latin translation for the Greek korax (“crow”), the word by which the device was called by both Romans and Greeks in antiquity. See Wallinga, Boarding-Bridge of the Romans.
 
-22.   imposed a toll on ships: Ibid., 4.47-48 (vol. 2:415-27).
+36. “the fighting seemed”: Polybius, Rise of the Roman Empire, 1.23 (p. 66).
 
-23.   "It was a witty": Saint Augustine, City of God, 4.4, in Pennell, Bandits at Sea, 18.
+37. “the southern coast of Sicily”: Ibid., 1.37 (p. 82).
 
-24.      pretentious abhorrence of seafaring: Many modern historians affirm this view. Arnold Toynbee is an eloquent exception: "The Roman Empire has made its mark on the mind of posterity as a land power which gave mobility to its invincible infantry by constructing and maintaining a magnificent network of roads. Yet, in truth, sea-power, not land-power, was the instrument with which the Romans extended their empire from Italy to the whole perimeter of the Mediterranean Sea." Constantine Porphyrogenitus and His World, 323.
+38. why it is not mentioned: Goldsworthy, Punic Wars, 116.
 
-25.   "while the rest were burnt": Livy, Rome and Italy, 8.14 (p. 179). On the rostra in the forum, see Pliny the Elder, Natural History,
+39. steady supplies of grain: Casson, “Grain Trade,” 82.
 
-16.2.8 (vol. 4.391-93).
+40. “He discovered”: Polybius, Rise of the Roman Empire, 10.8 (p. 408).
 
-26.      coloniae maritimae: Salmon, "Coloniae Maritimae"; Thiel, History of Roman Sea-power.
+41. “naval mentality”: Briscoe, “Second Punic War,” 66.
 
-27.   "more dangerous and less free": Gellius, Attic Nights, 16.13.9.
+42. “It took Hannibal”: Publius Sulpicius, in Livy, Rome and the Mediterranean, 31.7 (p. 28).
 
-28.   "on a voyage of inspection": Appian, Roman History (Samnite History), 7 (vol. 1:77).
+43. “free in appearance only”: Livy, Rome and the Mediterranean, 35.32 (p. 216).
 
-29.      Pyrrhus was an expansionist: Franke, "Pyrrhus," 475; Thiel, History of Roman Sea-power, 29.
+44. “The essential unity”: Errington, “Rome Against Philip and Antiochus,” 284.
 
-30.   "those who are impressed": Polybius, Rise of the Roman Empire,
+45. “Roman arms”: In Livy, Rome and the Mediterranean, 36.41 (p. 275).
 
-1.63 (p. 109).
+46. “because with the loss”: Ibid., 37.31 (p. 308).
 
-31.      "The harbours had communication": Appian, Roman History (Punic Wars), 14.96 (vol. 1:567).
+47. harbor dues: Habicht, “Seleucids and Their Rivals,” 337.
 
-32.      "were handling the operations": Polybius, Rise of the Roman Empire, 1.20 (pp. 62-63).
+48. “Carthage must be destroyed”: Florus, Epitome of Roman History, 1.31 (p. 137).
 
-33.      "was on the water": Pliny, Natural History, 16.74.192 (vol. 4:513).
+49. “Sulla burned the Piraeus”: Appian, Roman History (Mithridatic Wars), 12.41 (vol. 2:311).
 
-34.   Punic Ship: Frost, "Marsala Punic Ship"; Frost et al., Lilybaeum (Marsala).
+50. “Many times”: Ibid., 12.119 (vol. 2:471).
 
-35.   corvus: Polybius, Rise of the Roman Empire, 1.22 (p. 65). Corvus is the Latin translation for the Greek korax ("crow"), the word by which the device was called by both Romans and Greeks in antiquity. See Wallinga, Boarding-Bridge of the Romans.
+51. “a hundred and ten bronze-beaked ships”: Plutarch, Lives, “Lucullus,” 37.3 (vol. 2:595).
 
-36.   "the fighting seemed": Polybius, Rise of the Roman Empire, 1.23 (p. 66).
+52. “Need I lament”: Cicero, Pro Lege Manilia, 12 (pp. 45–47).
 
-37.   "the southern coast of Sicily": Ibid., 1.37 (p. 82).
+53. twelve thousand gold pieces: Suetonius, Twelve Caesars, “Julius Caesar,” 4, 74 (pp. 11, 40).
 
-38.   why it is not mentioned: Goldsworthy, Punic Wars, 116.
+54. “for a pirate is not included”: Cicero, On Duties (De Officiis, 3.107), in Souza, Piracy in the Greco-Roman World, 150; Coke, Third Part of the Institutes, 113. For current uses, see for example, U.S. Dept. of State press release, “The Secretary and the Minister Agreed That Terrorism Is a Common Enemy of Mankind.” (“U.S., Republic of Korea Hold Security Consultative Meeting,” Nov. 15, 2001, http://www.pentagon.gov/releases/2001/b11152001_bt588-01.html.)
 
-39.   steady supplies of grain: Casson, "Grain Trade," 82.
+55. “to oppose all legislation”: Suetonius, Twelve Caesars, “Julius Caesar,” 19 (p. 16).
 
-40.   "He discovered": Polybius, Rise of the Roman Empire, 10.8 (p. 408).
+56. “for having been forced”: Plutarch, Lives, “Pompey,” 76.3 (vol. 5:313). Pharsalus was twenty-five miles from the nearest inlet of the Aegean.
 
-41.   "naval mentality": Briscoe, "Second Punic War," 66.
+57. prefect of the fleet: Welch, “Sextus Pompeius and the Res Publica,” 37–41.
 
-42.      "It took Hannibal": Publius Sulpicius, in Livy, Rome and the Mediterranean, 31.7 (p. 28).
+58. “put on white robes”: Suetonius, Twelve Caesars, “Augustus,” 98 (p. 104).
 
-43.   "free in appearance only": Livy, Rome and the Mediterranean,
+59. pozzolana: Oleson, “Technology of Roman Harbors,” 148. The word comes from 13, the modern name for Puteoli. See Vitruvius, De Architectura, 5.12 (vol. 1:311–17).
 
-35.32 (p. 216).
+60. Lucullus’s villa: D’Arms, Romans on the Bay of Naples, 109.
 
-44.      "The essential unity": Errington, "Rome Against Philip and Antiochus," 284.
+61. “fish-pond fanciers”: See Cicero, Letters to Atticus, 1.19 (p. 87), 1.20 (p. 95), and 2.9 (p. 137).
 
-45.   "Roman arms": In Livy, Rome and the Mediterranean, 36.41 (p. 275).
+62. local oyster beds: Pliny, Natural History, 9.79.168–69 (vol. 3:277–79); D’Arms, Romans on the Bay of Naples, 136–38.
 
-46.   "because with the loss": Ibid., 37.31 (p. 308).
+63. night service from Ostia to Puteoli: D’Arms, Romans on the Bay of Naples, 134.
 
-47.   harbor dues: Habicht, "Seleucids and Their Rivals," 337.
+64. “a collapsible cabin-boat”: Suetonius, Twelve Caesars, “Nero,” 34 (p. 227).
 
-48.   "Carthage must be destroyed": Florus, Epitome of Roman History,
+65. “massive / Piers”: Juvenal, Satires, 12:75–79 (p. 243).
 
-1.31 (p. 137).
+66. “it was first sunk”: Suetonius, Twelve Caesars, “Claudius,” 20 (p. 193). The obelisk, which now stands in front of St. Peter’s in Rome, weighs 322 tons—not including the pedestal; Casson, Ships and Seamanship, 188–89.
 
-49.   "Sulla burned the Piraeus": Appian, Roman History (Mithridatic Wars), 12.41 (vol. 2:311).
+67. Piazzale of the Corporations: Scrinari and Lauro, Ancient Ostia, 22–24.
 
-50.   "Many times": Ibid., 12.119 (vol. 2:471).
+68. “Incidentally, what a huge ship!”: Lucian, “The Ship or the Wishes,” 5–6 (vol. 6:435–37). The dimensions are length, fifty-five meters; beam, fourteen meters; depth of hold, thirteen meters.
 
-51.      "a hundred and ten bronze-beaked ships": Plutarch, Lives, "Lucullus," 37.3 (vol. 2:595).
+69. “They should have kept”: Lucian, “The Ship or the Wishes,” 9 (vol. 6:441). See Casson, “Isis and Her Voyage,” 47–48, and Ancient Mariners, 208–9.
 
-52.   "Need I lament": Cicero, Pro Lege Manilia, 12 (pp. 45-47).
+70. the apostle Paul: Acts 27–28.
 
-53.   twelve thousand gold pieces: Suetonius, Twelve Caesars, "Julius Caesar," 4, 74 (pp. 11, 40).
+71. the annona: McCormick, Origins of the European Economy, 87, 104–5, 108–10. The populist practice of providing free wheat dates from the second century BCE; the phrase panem et circenses (bread and circuses) was coined by Juvenal in the first century ce.
 
-54.      "for a pirate is not included": Cicero, On Duties (De Officiis,
+72. “Money lent on maritime loans”: Paulus, Sententiae II, xiv, 3, in Temin, “Economy of the Early Roman Empire,” 144.
 
-3.107), in Souza, Piracy in the Greco-Roman World, 150; Coke, Third Part of the Institutes, 113. For current uses, see for example, U.S. Dept. of State press release, "The Secretary and the Minister Agreed That Terrorism Is a Common Enemy of Mankind." ("U.S., Republic of Korea Hold Security Consultative Meeting," Nov. 15, 2001, http://www.pentagon.gov/releases/2001/b11152001_bt588-
+73. “he held out the certainty”: Suetonius, Twelve Caesars, “Claudius,” 18 (p. 192). See Longnaker, “History of Insurance Law,” 644–46.
 
-01.html.)
+74. grain traders: Temin, “Economy of the Early Roman Empire,” 137.
 
-55.      "to oppose all legislation": Suetonius, Twelve Caesars, "Julius Caesar," 19 (p. 16).
+75. wine trade: Tchernia, “Italian Wine in Gaul,” 92.
 
-56.   "for having been forced": Plutarch, Lives, "Pompey," 76.3 (vol. 5:313). Pharsalus was twenty-five miles from the nearest inlet of the Aegean.
+76. “When he was about”: Plutarch, Lives, “Pompey,” 50 (vol. 5:247).
 
-57.      prefect of the fleet: Welch, "Sextus Pompeius and the Res Publica," 37-41.
-
-58.   "put on white robes": Suetonius, Twelve Caesars, "Augustus," 98 (p. 104).
-
-59.   pozzolana: Oleson, "Technology of Roman Harbors," 148. The word comes from 13, the modern name for Puteoli. See Vitruvius, De Architectura, 5.12 (vol. 1:311-17).
-
-60.   Lucullus's villa: D'Arms, Romans on the Bay of Naples, 109.
-
-61.   "fish-pond fanciers": See Cicero, Letters to Atticus, 1.19 (p. 87),
-
-1.20 (p. 95), and 2.9 (p. 137).
-
-62.      local oyster beds: Pliny, Natural History, 9.79.168-69 (vol. 3:277-79); D'Arms, Romans on the Bay of Naples, 136-38.
-
-63.   night service from Ostia to Puteoli: D'Arms, Romans on the Bay of Naples, 134.
-
-64.   "a collapsible cabin-boat": Suetonius, Twelve Caesars, "Nero," 34 (p. 227).
-
-65.   "massive / Piers": Juvenal, Satires, 12:75-79 (p. 243).
-
-66.   "it was first sunk": Suetonius, Twelve Caesars, "Claudius," 20 (p. 193). The obelisk, which now stands in front of St. Peter's in Rome, weighs 322 tons--not including the pedestal; Casson, Ships and Seamanship, 188-89.
-
-67.   Piazzale of the Corporations: Scrinari and Lauro, Ancient Ostia, 22-24.
-
-68.      "Incidentally, what a huge ship!": Lucian, "The Ship or the Wishes," 5-6 (vol. 6:435-37). The dimensions are length, fiftyfive meters; beam, fourteen meters; depth of hold, thirteen meters.
-
-69.   "They should have kept": Lucian, "The Ship or the Wishes," 9 (vol. 6:441). See Casson, "Isis and Her Voyage," 47-48, and Ancient Mariners, 208-9.
-
-70.   the apostle Paul: Acts 27-28.
-
-71.   the annona: McCormick, Origins of the European Economy, 87, 104-5, 108-10. The populist practice of providing free wheat dates from the second century BCE; the phrase panem et circenses (bread and circuses) was coined by Juvenal in the first century ce.
-
-72.   "Money lent on maritime loans": Paulus, Sententiae II, xiv, 3, in Temin, "Economy of the Early Roman Empire," 144.
-
-73.      "he held out the certainty": Suetonius, Twelve Caesars, "Claudius," 18 (p. 192). See Longnaker, "History of Insurance Law," 644-46.
-
-74.      grain traders: Temin, "Economy of the Early Roman Empire,"
-
-137.
-
-75.   wine trade: Tchernia, "Italian Wine in Gaul," 92.
-
-76.      "When he was about": Plutarch, Lives, "Pompey," 50 (vol. 5:247).
-
-77.   "god, our author": Seneca, Natural Questions, "Winds," 5.18.13- 14 (vol. 2:121-23).
+77. “god, our author”: Seneca, Natural Questions, “Winds,” 5.18.13–14 (vol. 2:121–23).
 
 ### 6. Chasing the Monsoons
 
-1.   "you brought him": Rig Veda, 1.116.5 (p. 287).
+1. “you brought him”: Rig Veda, 1.116.5 (p. 287).
 
-2.   "who knows the path": Ibid., 1.25.7 (p. 61). See Hornell, "Role of Birds in Early Navigation."
+2. “who knows the path”: Ibid., 1.25.7 (p. 61). See Hornell, “Role of Birds in Early Navigation.”
 
-3.   "should look after activities": Kautilya Arthasastra, 2.28.1 (vol. 2:162). The authorship and date of the Arthasastra are controversial; the earliest written version may date to the second century CE but is probably based on a compilation of various documents going back five centuries.
+3. “should look after activities”: Kautilya Arthasastra, 2.28.1 (vol. 2:162). The authorship and date of the Arthasastra are controversial; the earliest written version may date to the second century CE but is probably based on a compilation of various documents going back five centuries.
 
-4.   "He should rescue": Ibid., 2.28.8-9 (vol. 2:162).
+4. “He should rescue”: Ibid., 2.28.8–9 (vol. 2:162).
 
-5.   "big boats": Ibid., 2.28.13 (vol. 2:163).
+5. “big boats”: Ibid., 2.28.13 (vol. 2:163).
 
-6.   "render services": Strabo, Geography, 15.1.46 (vol. 7:81).
+6. “render services”: Strabo, Geography, 15.1.46 (vol. 7:81).
 
-7.   director of trade: Kautilya Arthasastra, 2.16.1-25 (vol. 2:127-29) and 3:176-79.
+7. director of trade: Kautilya Arthasastra, 2.16.1–25 (vol. 2:127–29) and 3:176–79.
 
-8.   "involving little expenditure": Ibid., 7.12.18-21 (vol. 2:360).
+8. “involving little expenditure”: Ibid., 7.12.18–21 (vol. 2:360).
 
-9.      "making voyages": Baudhayana, 2.1.2 (Müller, Sacred Books, 14:217-18).
+9. “making voyages”: Baudhayana, 2.1.2 (Müller, Sacred Books, 14:217–18).
 
-10.   "Let him who teaches": Âpastamba Prasna, 1.11.32.27 (Müller, Sacred Books, 2:98).
+10. “Let him who teaches”: Âpastamba Prasna, 1.11.32.27 (Müller, Sacred Books, 2:98).
 
-11.   proscriptions on seafaring: Pearson, "Introduction," pp. 17-18; Winius, "Portugal's 'Shadow Empire,' " 255.
+11. proscriptions on seafaring: Pearson, “Introduction,” pp. 17–18; Winius, “Portugal’s ‘Shadow Empire,’ ” 255.
 
-12.   "social and religious duties": Manu, Laws of Manu, xviii.
+12. “social and religious duties”: Manu, Laws of Manu, xviii.
 
-13.   the four main castes: Ibid., 8.410 (p. 195); "When men who are expert": 8.157 (p. 169); "there is no definite rule": 8.406-409 (p. 195). Whether and for whom charging interest is legal is a complicated question in both the Hindu and Buddhist traditions. Some early texts deemed the charging of interest a crime worse than abortion or murdering a Brahman, although it was allowed to commoners, but regulations were relaxed in the medieval period. See Sharma, "Usury in Early Medieval Times."
+13. the four main castes: Ibid., 8.410 (p. 195); “When men who are expert”: 8.157 (p. 169); “there is no definite rule”: 8.406–409 (p. 195). Whether and for whom charging interest is legal is a complicated question in both the Hindu and Buddhist traditions. Some early texts deemed the charging of interest a crime worse than abortion or murdering a Brahman, although it was allowed to commoners, but regulations were relaxed in the medieval period. See Sharma, “Usury in Early Medieval Times.”
 
-14.   "A hundred fifty thousand people": Major Rock Edict XIII, in Thapar, Early India, 181.
+14. “A hundred fifty thousand people”: Major Rock Edict XIII, in Thapar, Early India, 181.
 
-15.   "Lord of the Ocean": In Tripati, Maritime Archaeology, 29.
+15. “Lord of the Ocean”: In Tripati, Maritime Archaeology, 29.
 
-16.      writing itself: Salomon, "On the Origin of the Early Indian Scripts," 278.
+16. writing itself: Salomon, “On the Origin of the Early Indian Scripts,” 278.
 
-17.   "he recognized all": Aryasura, Once the Buddha Was a Monkey, 96, 98. Aryasura's Sanskrit version, which dates to the early centuries of the common era, is based on the older Pali "Supparaka-Jataka" (Cowell, Jataka, vol. 4:86-90).
+17. “he recognized all”: Aryasura, Once the Buddha Was a Monkey, 96, 98. Aryasura’s Sanskrit version, which dates to the early centuries of the common era, is based on the older Pali “Supparaka-Jataka” (Cowell, Jataka, vol. 4:86–90).
 
-18.      "My child": In Levi, "Manimekhala," 603-5. See "MahajanaJataka," in Cowell, Jataka, 6:21-22).
+18. “My child”: In Levi, “Manimekhala,” 603–5. See “Mahajana-Jataka,” in Cowell, Jataka, 6:21–22).
 
-19.   "never wept nor lamented": In Levi, "Manimekhala," 603.
+19. “never wept nor lamented”: In Levi, “Manimekhala,” 603.
 
-20.   "precaution against the dangers": In ibid., 599.
+20. “precaution against the dangers”: In ibid., 599.
 
-21.   "had his whole body burnt": In ibid., 603-5.
+21. “had his whole body burnt”: In ibid., 603–5.
 
-22.   "the entire world": In Pritchard, Ancient Near East, 1:208.
+22. “the entire world”: In Pritchard, Ancient Near East, 1:208.
 
-23.   "the shallows": Arrian, Indica, 8.41 (vol. 2:427).
+23. “the shallows”: Arrian, Indica, 8.41 (vol. 2:427).
 
-24.      Darius may have completed: Redmount, "Wadi Tumilat." See above, chap. 4.
+24. Darius may have completed: Redmount, “Wadi Tumilat.” See above, chap. 4.
 
-25.   "after a voyage": Herodotus, Histories, 4.44 (p. 230).
+25. “after a voyage”: Herodotus, Histories, 4.44 (p. 230).
 
-26.   "Alexander had a vehement desire": Arrian, Indica, 8.20-21 (vol. 2:363-67). Arrian (and Strabo) drew on a now lost account of India written by Nearchus.
+26. “Alexander had a vehement desire”: Arrian, Indica, 8.20–21 (vol. 2:363–67). Arrian (and Strabo) drew on a now lost account of India written by Nearchus.
 
-27.      The monsoons are determined: Somerville and Woodhouse, Ocean Passages for the World, 82-88, 117-27.
+27. The monsoons are determined: Somerville and Woodhouse, Ocean Passages for the World, 82–88, 117–27.
 
-28.      "ships of war": Arrian, Indica, 19 (p. 363). In antiquity, the Pasitigris River flowed directly into the Persian Gulf. Now called the Karun, it flows into the Shatt al-Arab.
+28. “ships of war”: Arrian, Indica, 19 (p. 363). In antiquity, the Pasitigris River flowed directly into the Persian Gulf. Now called the Karun, it flows into the Shatt al-Arab.
 
-29.      "ten talents [300 kilograms] of frankincense": In Salles, "Achaemenid and Hellenistic Trade," 260. The earliest mentions (before the seventh century ce) of cinnamon and cassia refer not to the cinnamon and cassia of India, Southeast Asia, and China, but to otherwise unidentified wild shrubs or small trees native to southern Arabia and East Africa. See Crone, Meccan Trade, 253-
+29. “ten talents [300 kilograms] of frankincense”: In Salles, “Achaemenid and Hellenistic Trade,” 260. The earliest mentions (before the seventh century ce) of cinnamon and cassia refer not to the cinnamon and cassia of India, Southeast Asia, and China, but to otherwise unidentified wild shrubs or small trees native to southern Arabia and East Africa. See Crone, Meccan Trade, 253–64.
 
-64.
+30. “five hundred talents”: Polybius, Histories, 13.9 (vol. 4:427).
 
-30.   "five hundred talents": Polybius, Histories, 13.9 (vol. 4:427).
+31. “The governor of Mesene”: Pliny, Natural History, 6.152 (vol. 2:453). See Potts, “Parthian Presence,” 277.
 
-31.   "The governor of Mesene": Pliny, Natural History, 6.152 (vol. 2:453). See Potts, "Parthian Presence," 277.
+32. Charax Spasinou: Salles, “Achaemenid and Hellenistic Trade,” 256; Casson, Periplus, 180.
 
-32.   Charax Spasinou: Salles, "Achaemenid and Hellenistic Trade," 256; Casson, Periplus, 180.
+33. “the people are made torpid”: Agatharchides, On the Erythraean Sea, 101c (p. 164, note “m”).
 
-33.   "the people are made torpid": Agatharchides, On the Erythraean Sea, 101c (p. 164, note "m").
+34. “using large rafts”: Ibid., 103a (p. 167).
 
-34.   "using large rafts": Ibid., 103a (p. 167).
+35. Agatharchides of Cnidus: None of Agatharchides’ work is preserved by itself, but portions of books 1 and 5 were transcribed by Diodorus Siculus, Strabo, and Photius. These fragments have been published in Agatharchides of Cnidus, On the Erythraean Sea.
 
-35.      Agatharchides of Cnidus: None of Agatharchides' work is preserved by itself, but portions of books 1 and 5 were transcribed by Diodorus Siculus, Strabo, and Photius. These fragments have been published in Agatharchides of Cnidus, On the Erythraean Sea.
+36. “This tribe surpasses in wealth”: Agatharchides, On the Erythraean Sea, 104b (p. 167).
 
-36.      "This tribe surpasses in wealth": Agatharchides, On the Erythraean Sea, 104b (p. 167).
+37. “The houses of the Sa-poh”: Faxian [Fa-hian], Travels of Fa-Hian, chap. 38 (p. lxxiv).
 
-37.      "The houses of the Sa-poh": Faxian [Fa-hian], Travels of FaHian, chap. 38 (p. lxxiv).
+38. “The Red Sea ports”: Sidebotham, “Ports of the Red Sea,” 27.
 
-38.   "The Red Sea ports": Sidebotham, "Ports of the Red Sea," 27.
+39. elephants from East Africa: The Ptolemaic elephant corps employed forest elephants (Loxodonta africana cyclotis), which are smaller than Indian elephants and the better known savanna elephant, Loxodonta africana Africana. See Agatharchides, On the Erythraean Sea, 10n2.
 
-39.      elephants from East Africa: The Ptolemaic elephant corps employed forest elephants (Loxodonta africana cyclotis), which are smaller than Indian elephants and the better known savanna elephant, Loxodonta africana Africana. See Agatharchides, On the Erythraean Sea, 10n2.
+40. Myos Hormos: Peacock and Blue, eds., Myos Hormos-Quseir al-Qadim, 1–6.
 
-40.   Myos Hormos: Peacock and Blue, eds., Myos Hormos-Quseir alQadim, 1-6.
+41. “the sea, being all shoals”: Agatharchides, On the Erythraean Sea, 85b (pp. 141–42).
 
-41.      "the sea, being all shoals": Agatharchides, On the Erythraean Sea, 85b (pp. 141-42).
+42. “one can see”: Ibid., 105a (p. 169).
 
-42.   "one can see": Ibid., 105a (p. 169).
+43. “he promised to act”: Strabo, Geography, 2.3.4 (vol. 1:377–79).
 
-43.   "he promised to act": Strabo, Geography, 2.3.4 (vol. 1:377-79).
+44. “he found Cleopatra”: Plutarch, Lives, “Antony,” 69.3 (vol. 9:295–97). Although Plutarch seems to describe a north–south route from the Mediterranean to the Red Sea, a distance of nearly two hundred kilometers, sixty kilometers is about the length of the ancient east–west canal.
 
-44.      "he found Cleopatra": Plutarch, Lives, "Antony," 69.3 (vol. 9:295-97). Although Plutarch seems to describe a north-south route from the Mediterranean to the Red Sea, a distance of nearly two hundred kilometers, sixty kilometers is about the length of the ancient east-west canal.
+45. “on account of difficult sailing”: Strabo, Geography, 16.4.23 (vol. 7:357).
 
-45.   "on account of difficult sailing": Strabo, Geography, 16.4.23 (vol. 7:357).
+46. “learned that as many”: Ibid., 2.5.12 (vol. 1:455); not so many as twenty: 17.1.13 (8:53); “music girls”: 2.3.4 (1:381).
 
-46.   "learned that as many": Ibid., 2.5.12 (vol. 1:455); not so many as twenty: 17.1.13 (8:53); "music girls": 2.3.4 (1:381).
+47. The goods can be grouped: Casson, Periplus, 39–41.
 
-47.   The goods can be grouped: Casson, Periplus, 39-41.
+48. coconut, rice, amla: Wendrich et al., “Berenike Crossroads,” 70.
 
-48.   coconut, rice, amla: Wendrich et al., "Berenike Crossroads," 70.
+49. inscription at Delos: Sedov, “Qana,’ ” 26n12.
 
-49.   inscription at Delos: Sedov, "Qana,' " 26n12.
+50. statuette of Manimekhala: Wheeler, Rome Beyond the Imperial Frontiers, plate 15 and p. 163.
 
-50.   statuette of Manimekhala: Wheeler, Rome Beyond the Imperial Frontiers, plate 15 and p. 163.
+51. Indian embassies: Weerakkody, Taprobanê, 51–63.
 
-51.   Indian embassies: Weerakkody, Taprobanê, 51-63.
+52. “the trade, not merely of islands”: Dio Chrysostom, Discourses, 32.36 (vol. 3:207).
 
-52.   "the trade, not merely of islands": Dio Chrysostom, Discourses,
+53. loan arrangement: Casson, “New Light on Maritime Loans”; Young, Rome’s Eastern Trade, 55–57.
 
-32.36 (vol. 3:207).
+54. “Aelia Isidora and Aelia Olympias”: In Young, Rome’s Eastern Trade, 58–59. For the text, translation, and discussion of the contract, see 55–57, and Casson, “New Light on Maritime Loans.”
 
-53.      loan arrangement: Casson, "New Light on Maritime Loans"; Young, Rome's Eastern Trade, 55-57.
+55. fifty million sesterces: Pliny, Natural History, 6.26.101 (vol. 2:417). On Romans’ net worth, see Duncan-Jones, Economy of the Roman Empire, 1–32, 146. Some slaves could fetch vastly more than the average, the highest known price being 700,000 sesterces paid for a grammaticus (professor of literature).
 
-54.   "Aelia Isidora and Aelia Olympias": In Young, Rome's Eastern Trade, 58-59. For the text, translation, and discussion of the contract, see 55-57, and Casson, "New Light on Maritime Loans."
+56. “vast mansions”: Tacitus, Annals, 3.53 (p. 141).
 
-55.      fifty million sesterces: Pliny, Natural History, 6.26.101 (vol. 2:417). On Romans' net worth, see Duncan-Jones, Economy of the Roman Empire, 1-32, 146. Some slaves could fetch vastly more than the average, the highest known price being 700,000 sesterces paid for a grammaticus (professor of literature).
+57. Chola town of Arikamedu: Ray, “Resurvey of ‘Roman’ Contacts,” 100–103.
 
-56.   "vast mansions": Tacitus, Annals, 3.53 (p. 141).
+58. hoards of silver denarii: Ray, “Yavana Presence,” 98–100.
 
-57.      Chola town of Arikamedu: Ray, "Resurvey of 'Roman' Contacts," 100-103.
+59. “Noble daughter”: Ilanko Atikal, Tale of an Anklet, 2.94 (p. 32). Isaiah: see above, chap. 4.
 
-58.   hoards of silver denarii: Ray, "Yavana Presence," 98-100.
+60. “the city / that prospered”: Ilanko Atikal, Tale of an Anklet, 6.148–54 (p. 62).
 
-59.   "Noble daughter": Ilanko Atikal, Tale of an Anklet, 2.94 (p. 32). Isaiah: see above, chap. 4.
+61. “Swift, prancing steeds”: Uruthirankannanar, Pattinappalai, 213, 246–53 (pp. 39, 41).
 
-60.      "the city / that prospered": Ilanko Atikal, Tale of an Anklet,
+62. “In the past”: Shattan, Manimekhalaï, §16 (p. 66).
 
-6.148-54 (p. 62).
+63. “from the remotest countries”: Cosmas, Christian Topography, 365–66. Invaluable as he is for his account of Indian Ocean trade, Cosmas offers up bizarre proofs (pp. 132, 252) that the world is not a sphere, as pagan philosophers had demonstrated and many Christians believed, but flat. These were never accepted as mainstream, and medieval people who thought about it at all generally believed the world was round. Nineteenth-century Darwinists promoted the notion that they thought otherwise to demonstrate the Christian Church’s antagonism to science; but the concept of the flat earth had no influence on the course of navigation, exploration, or any other aspect of maritime endeavor. See Jeffrey Burton Russell, Inventing the Flat Earth: Columbus and Modern Historians (New York: Praeger, 1991).
 
-61.   "Swift, prancing steeds": Uruthirankannanar, Pattinappalai, 213, 246-53 (pp. 39, 41).
+64. Rev-Ardashir (Rishahr): Whitehouse, “Sasanian Maritime Activity,” 342–43.
 
-62.   "In the past": Shattan, Manimekhalaï, §16 (p. 66).
+65. al-Bahrayn: This spelling is used of “the coastal region from Kazima in Kuwait through the Hasa province [of Saudi Arabia] and ending somewhat vaguely towards Qatar,” to distinguish it from the island of Bahrain, which early Arabic writers called Awal. See Wilkinson, “Sketch of the Historical Geography of the Trucial Oman,” 347n1.
 
-63.      "from the remotest countries": Cosmas, Christian Topography, 365-66. Invaluable as he is for his account of Indian Ocean trade, Cosmas offers up bizarre proofs (pp. 132, 252) that the world is not a sphere, as pagan philosophers had demonstrated and many Christians believed, but flat. These were never accepted as mainstream, and medieval people who thought about it at all generally believed the world was round. Nineteenth-century Darwinists promoted the notion that they thought otherwise to demonstrate the Christian Church's antagonism to science; but the concept of the flat earth had no influence on the course of navigation, exploration, or any other aspect of maritime endeavor. See Jeffrey Burton Russell, Inventing the Flat Earth: Columbus and Modern Historians (New York: Praeger, 1991).
+66. wooing of a Sri Lankan princess: Weerakkody, “Sri Lanka Through Greek and Roman Eyes,” 168.
 
-64.      Rev-Ardashir (Rishahr): Whitehouse, "Sasanian Maritime Activity," 342-43.
+67. “the greater”: Cosmas, Christian Topography, 368–70.
 
-65.      al-Bahrayn: This spelling is used of "the coastal region from Kazima in Kuwait through the Hasa province [of Saudi Arabia] and ending somewhat vaguely towards Qatar," to distinguish it from the island of Bahrain, which early Arabic writers called Awal. See Wilkinson, "Sketch of the Historical Geography of the Trucial Oman," 347n1.
+68. “black Byzantines”: Wink, Al-Hind, 1:47.
 
-66.      wooing of a Sri Lankan princess: Weerakkody, "Sri Lanka Through Greek and Roman Eyes," 168.
+69. Byzantine fleet from Clysma: Christides, “Two Parallel Naval Guides,” 58.
 
-67.   "the greater": Cosmas, Christian Topography, 368-70.
+70. “always locate themselves”: Procopius, Persian War, 1.20.1–2 (vol. 1:193).
 
-68.   "black Byzantines": Wink, Al-Hind, 1:47.
+71. “in a hundred-oared ship”: Rig Veda, 1.116.5 (p. 287).
 
-69.      Byzantine fleet from Clysma: Christides, "Two Parallel Naval Guides," 58.
+72. “a boat with strong planks”: In Levi, “Manimekhala,” 601.
 
-70.      "always locate themselves": Procopius, Persian War, 1.20.1-2 (vol. 1:193).
+73. “we embarked 200 passengers”: Villiers, Monsoon Seas, 82–83. Villiers does not give the linear dimensions of his vessel, but he describes a 42-meter boom he saw in Zanzibar as “very large.”
 
-71.   "in a hundred-oared ship": Rig Veda, 1.116.5 (p. 287).
+74. “the wretched quality”: In Ray, “Resurvey of ‘Roman’ Contacts,” 100.
 
-72.   "a boat with strong planks": In Levi, "Manimekhala," 601.
+75. common ancestor: Johnstone, Sea-craft of Prehistory, 214–15; McGrail, Boats of the World, 292, 326.
 
-73.   "we embarked 200 passengers": Villiers, Monsoon Seas, 82-83. Villiers does not give the linear dimensions of his vessel, but he describes a 42-meter boom he saw in Zanzibar as "very large."
+76. watercraft in the Periplus: Casson, Periplus—sewn boats: 15–16; rafts: §7, 27; dugout canoes: §15; sangara and kolandiophonta: §60; and trappaga and kotymba: §44.
 
-74.   "the wretched quality": In Ray, "Resurvey of 'Roman' Contacts,"
+77. trapyaka: In Chakravarti, “Early Medieval Bengal and the Trade in Horses,” 206. kolandiophonta: Deloche, “Iconographic Evidence,” 208–9, 222; Islam and Miah, “Trade and Commerce” (trapyaga); Manguin, “Southeast Asian Shipping,” 190 (Kolandiophonta); Mariners’ Museum, Aak to Zumbra, 330–31 (kotia), 508 (sangara); Ray, “Early Coastal Trade in the Bay of Bengal,” 360ff., and Monastery and Guild, 117–19 (kolandiophonta, kottimba, and sangara).
 
-100.
+78. “one boards”: In Wolters, Early Indonesian Commerce, 43. For voyage time, see Casson, Periplus, 289–90.
 
-75.      common ancestor: Johnstone, Sea-craft of Prehistory, 214-15; McGrail, Boats of the World, 292, 326.
+79. wall painting at Ajanta: For a summary of the meager pictorial evidence of Indian ships in this period and later, see Deloche, “Iconographic Evidence.”
 
-76.   watercraft in the Periplus: Casson, Periplus--sewn boats: 15-16; rafts: §7, 27; dugout canoes: §15; sangara and kolandiophonta: §60; and trappaga and kotymba: §44.
+80. “Her white sails outspread”: Aryasura, Once the Buddha Was a Monkey, 102.
 
-77.   trapyaka: In Chakravarti, "Early Medieval Bengal and the Trade in Horses," 206. kolandiophonta: Deloche, "Iconographic Evidence," 208-9, 222; Islam and Miah, "Trade and Commerce" (trapyaga); Manguin, "Southeast Asian Shipping," 190 (Kolandiophonta); Mariners' Museum, Aak to Zumbra, 330-31 (kotia), 508 (sangara); Ray, "Early Coastal Trade in the Bay of Bengal," 360ff., and Monastery and Guild, 117-19 (kolandiophonta, kottimba, and sangara).
+81. Mediterranean influence: Young, Rome’s Eastern Trade, 63–64.
 
-78.   "one boards": In Wolters, Early Indonesian Commerce, 43. For voyage time, see Casson, Periplus, 289-90.
+82. a first migration: Blench, “Ethnographic Evidence,” 418, 432–33.
 
-79.   wall painting at Ajanta: For a summary of the meager pictorial evidence of Indian ships in this period and later, see Deloche, "Iconographic Evidence."
+83. ethnobotany, ethnomusicology: Ibid., 420–30; Hornell, “Indonesian Influence,” 305–6, 318–19, 327–28.
 
-80.   "Her white sails outspread": Aryasura, Once the Buddha Was a Monkey, 102.
+84. “a relic of an Indonesian type”: Hornell, “Indonesian Influence,” 319, 321.
 
-81.   Mediterranean influence: Young, Rome's Eastern Trade, 63-64.
-
-82.   a first migration: Blench, "Ethnographic Evidence," 418, 432-33.
-
-83.      ethnobotany, ethnomusicology: Ibid., 420-30; Hornell, "Indonesian Influence," 305-6, 318-19, 327-28.
-
-84.   "a relic of an Indonesian type": Hornell, "Indonesian Influence," 319, 321.
-
-85.      "The only cargo-carrying vessel": Hornell, "Boat Oculi Survivals," 343. The oldest extant rendering of an oculus is on a rendering of seagoing ships from Sahure's temple at Abusir, Egypt; Wachsmann, Seagoing Ships, 14.
+85. “The only cargo-carrying vessel”: Hornell, “Boat Oculi Survivals,” 343. The oldest extant rendering of an oculus is on a rendering of seagoing ships from Sahure’s temple at Abusir, Egypt; Wachsmann, Seagoing Ships, 14.
 
 ### 7. Continent and Archipelagoes in the East
 
-1.   "take advantage": Collected Works of Liao Gang (12th century), in Shiba and Elvin, Commerce and Society in Sung China, 9.
+1. “take advantage”: Collected Works of Liao Gang (12th century), in Shiba and Elvin, Commerce and Society in Sung China, 9.
 
-2.   Asian Mediterranean: For a discussion, see Sutherland, "Southeast Asian History."
+2. Asian Mediterranean: For a discussion, see Sutherland, “Southeast Asian History.”
 
-3.   more than twenty-six thousand: The main groups are: Indonesia, 18,108 islands 17BBC report, February 2003); the Philippines, 7,107 islands; and Malaysia, about 1,000 islands.
+3. more than twenty-six thousand: The main groups are: Indonesia, 18,108 islands 17BBC report, February 2003); the Philippines, 7,107 islands; and Malaysia, about 1,000 islands.
 
-4.   Austronesian languages: Jacq-Hergoualc'h, The Malay Peninsula,
+4. Austronesian languages: Jacq-Hergoualc’h, The Malay Peninsula, 24.
 
-24.
+5. languages are spoken: Bellwood, “Southeast Asia Before History,” 106–15.
 
-5.   languages are spoken: Bellwood, "Southeast Asia Before History," 106-15.
+6. “Customs are not uniform”: Sanguo Zhi (Records of the Three Kingdoms), 53.8b, in Taylor, Birth of Vietnam, 75–76.
 
-6.      "Customs are not uniform": Sanguo Zhi (Records of the Three Kingdoms), 53.8b, in Taylor, Birth of Vietnam, 75-76.
+7. a local tradition: Taylor, Birth of Vietnam, 1.
 
-7.   a local tradition: Taylor, Birth of Vietnam, 1.
+8. cast bronze drums: Bellwood, Prehistory of the Indo-Malaysian Archipelago, 269–71.
 
-8.      cast bronze drums: Bellwood, Prehistory of the Indo-Malaysian Archipelago, 269-71.
+9. Sa Huyhn simply chose not to trade: Bellwood, “Southeast Asia Before History,” 129–31.
 
-9.   Sa Huyhn simply chose not to trade: Bellwood, "Southeast Asia Before History," 129-31.
+10. “tribute” was an elaborate fiction: Bielenstein, Diplomacy and Trade, 675.
 
-10.      "tribute" was an elaborate fiction: Bielenstein, Diplomacy and Trade, 675.
+11. “The gentleman is conversant”: Analects of Confucius, 4.16, 19 (pp. 69–70).
 
-11.   "The gentleman is conversant": Analects of Confucius, 4.16, 19 (pp. 69-70).
+12. “an enlightened ruler”: Han Shu, 24a:10b-12a, in Ban, Food and Money, 161–62.
 
-12.   "an enlightened ruler": Han Shu, 24a:10b-12a, in Ban, Food and Money, 161-62.
+13. naval or amphibious operations: Deng, Chinese Maritime Activities, 9.
 
-13.      naval or amphibious operations: Deng, Chinese Maritime Activities, 9.
+14. “As the emperor considered”: Shiji (Records of the Grand Historian), 6, 18a, in Needham et al., Science and Civilisation, vol. 4, pt. 3:551–52.
 
-14.      "As the emperor considered": Shiji (Records of the Grand Historian), 6, 18a, in Needham et al., Science and Civilisation, vol. 4, pt. 3:551-52.
+15. the main rivers: Needham et al., Science and Civilisation, vol. 4, pt. 3:220–22; Van Slyke, Yangtze, 13, 37.
 
-15.   the main rivers: Needham et al., Science and Civilisation, vol. 4, pt. 3:220-22; Van Slyke, Yangtze, 13, 37.
+16. “a force of men”: Sima Qian, Records of the Grand Historian, 2:232.
 
-16.   "a force of men": Sima Qian, Records of the Grand Historian, 2:232.
+17. “a chain of communication”: Needham et al., Science and Civilisation, vol. 4, pt. 3:306.
 
-17.      "a chain of communication": Needham et al., Science and Civilisation, vol. 4, pt. 3:306.
+18. “hanged themselves”: Sima Qian, Records of the Grand Historian, 2:201.
 
-18.      "hanged themselves": Sima Qian, Records of the Grand Historian, 2:201.
+19. “The cruelty”: Zhou Qufei, Information on What Is Beyond the Passes, in Needham et al., Science and Civilisation, vol. 4, pt. 3:304.
 
-19.   "The cruelty": Zhou Qufei, Information on What Is Beyond the Passes, in Needham et al., Science and Civilisation, vol. 4, pt. 3:304.
+20. “used boats”: Wu Yue Chun Qiu (Annals of Wu and Yue), chap. 6, in Wang, Nanhai Trade, 2.
 
-20.   "used boats": Wu Yue Chun Qiu (Annals of Wu and Yue), chap. 6, in Wang, Nanhai Trade, 2.
+21. “a pair of white jades”: Han Shu, 95, 9b, in Wang, Nanhai Trade, 11.
 
-21.   "a pair of white jades": Han Shu, 95, 9b, in Wang, Nanhai Trade,
+22. “the center for trade”: Shi Ji, 129:11b, in Ban, Food and Money, 446.
 
-11.
+23. “as well as 100,000 sailors”: Sima Qian, Records of the Grand Historian, 2:215.
 
-22.   "the center for trade": Shi Ji, 129:11b, in Ban, Food and Money,
+24. Jiaozhi, Jiuzhen, and Rinan: Taylor, Birth of Vietnam, 70. In Vietnamese, Jiaozhi is called Giao-chi; Jiuzhen is Cuu-chan; and Rinan is Nhat-nam. Cochin China derives from the Portuguese corruption of Cuu chan as Cochin.
 
-446.
+25. “lustrous pearls”: Ch’ien Han Shu (History of the Former Han), 28.2, in Wheatley, Golden Khersonese, 8–9.
 
-23.   "as well as 100,000 sailors": Sima Qian, Records of the Grand Historian, 2:215.
+26. sisters Trung: Taylor, Birth of Vietnam, 37–41.
 
-24.      Jiaozhi, Jiuzhen, and Rinan: Taylor, Birth of Vietnam, 70. In Vietnamese, Jiaozhi is called Giao-chi; Jiuzhen is Cuu-chan; and Rinan is Nhat-nam. Cochin China derives from the Portuguese corruption of Cuu chan as Cochin.
+27. Jiaozhi remained: Wang, Nanhai Trade, 24; Taylor, Birth of Vietnam, 71–72.
 
-25.   "lustrous pearls": Ch'ien Han Shu (History of the Former Han),
+28. Funan: Hall, Maritime Trade, 21–22, 48–77; Wheatley, Golden Khersonese, xix. Funan is the Chinese rendering of the Khmer bnam, “mountain,” now pronounced phnom, as in Phnom Penh.
 
-28.2, in Wheatley, Golden Khersonese, 8-9.
+29. “attacked and conquered”: In Hall, Maritime Trade, 64.
 
-26.   sisters Trung: Taylor, Birth of Vietnam, 37-41.
+30. “live in walled cities”: In ibid., 48.
 
-27.      Jiaozhi remained: Wang, Nanhai Trade, 24; Taylor, Birth of Vietnam, 71-72.
+31. A lost work: Needham et al., Science and Civilisation, vol. 4, pt. 3:449–50.
 
-28.   Funan: Hall, Maritime Trade, 21-22, 48-77; Wheatley, Golden Khersonese, xix. Funan is the Chinese rendering of the Khmer bnam, "mountain," now pronounced phnom, as in Phnom Penh.
+32. “The Sea Route to Da Qin”: Yu Huan, Peoples of the West, online.
 
-29.   "attacked and conquered": In Hall, Maritime Trade, 64.
+33. “all the men”: Hill, Western Regions, online.
 
-30.   "live in walled cities": In ibid., 48.
+34. “traffic by sea”: Han Annals, in Wheeler, Rome Beyond the Imperial Frontiers, 174. See also Wang, Nanhai Trade, 25.
 
-31.   A lost work: Needham et al., Science and Civilisation, vol. 4, pt. 3:449-50.
+35. battle of the Red Cliffs: Crespigny, Generals of the South, 267–75.
 
-32.      "The Sea Route to Da Qin": Yu Huan, Peoples of the West, online.
+36. horse pastures: Elvin, Pattern of the Chinese Past, 135–36; Chin, “Ports, Merchants, Chieftains and Eunuchs,” 222.
 
-33.   "all the men": Hill, Western Regions, online.
+37. “where only the poor”: Jin Shu [Jin History], 90, in Wang, Nanhai Trade, 38.
 
-34.      "traffic by sea": Han Annals, in Wheeler, Rome Beyond the Imperial Frontiers, 174. See also Wang, Nanhai Trade, 25.
+38. a million northerners: Zheng, China on the Sea, 26.
 
-35.   battle of the Red Cliffs: Crespigny, Generals of the South, 267-
+39. for the first time: Ibid., 30.
 
-75.
+40. “with his ships”: Jin Shu [Jin History], 97, 9a, in Wang, Nanhai Trade, 35.
 
-36.   horse pastures: Elvin, Pattern of the Chinese Past, 135-36; Chin, "Ports, Merchants, Chieftains and Eunuchs," 222.
+41. “The governor”: Nan Ch’i Shu [History of the Southern Qi Dynasty], 32, 1a-1b, in Wang, Nanhai Trade, 44.
 
-37.   "where only the poor": Jin Shu [Jin History], 90, in Wang, Nanhai Trade, 38.
+42. looting the capital’s: Wang, Nanhai Trade, 49; Taylor, Birth of Vietnam, 117.
 
-38.   a million northerners: Zheng, China on the Sea, 26.
+43. trade missions: Wang, Nanhai Trade, 117–21.
 
-39.   for the first time: Ibid., 30.
+44. “in case of accidents”: In Wheatley, Golden Khersonese, 38–39; Faxian [Fa-hian], Travels of Fa-Hian, lxxix–lxxxiii. See Manguin, “Archaeology of Early Maritime Polities,” 238.
 
-40.   "with his ships": Jin Shu [Jin History], 97, 9a, in Wang, Nanhai Trade, 35.
+45. Kang Senghui: Grenet, “Les marchands sogdiens,” 66; Taylor, Birth of Vietnam, 80.
 
-41.      "The governor": Nan Ch'i Shu [History of the Southern Qi Dynasty], 32, 1a-1b, in Wang, Nanhai Trade, 44.
+46. Missions from Sri Lanka: Wang, Nanhai Trade, 38.
 
-42.   looting the capital's: Wang, Nanhai Trade, 49; Taylor, Birth of Vietnam, 117.
+47. “valuable products”: Song Shu (History of the Song), 97, 12b-13a, in Wang, Nanhai Trade, 51.
 
-43.   trade missions: Wang, Nanhai Trade, 117-21.
+48. “would become rich”: Liang Shu (History of the Liang), 54, 16b-17a, in Hall, “Local and International Trade,” 222.
 
-44.   "in case of accidents": In Wheatley, Golden Khersonese, 38-39; Faxian [Fa-hian], Travels of Fa-Hian, lxxix-lxxxiii. See Manguin, "Archaeology of Early Maritime Polities," 238.
+49. Buddhism received: Wright, Sui Dynasty, 126–38.
 
-45.      Kang Senghui: Grenet, "Les marchands sogdiens," 66; Taylor, Birth of Vietnam, 80.
+50. campaign along the Yangzi: Graff, Medieval Chinese Warfare, 129–35.
 
-46.   Missions from Sri Lanka: Wang, Nanhai Trade, 38.
+51. extensive network of canals: Needham et al., Science and Civilisation, vol. 4, pt. 3:269–70, 307–8.
 
-47.   "valuable products": Song Shu (History of the Song), 97, 12b- 13a, in Wang, Nanhai Trade, 51.
+52. “dragon boats, phoenix vessels”: Sui Shu, 24.686, in Wright, Sui Dynasty, 180.
 
-48.   "would become rich": Liang Shu (History of the Liang), 54, 16b- 17a, in Hall, "Local and International Trade," 222.
+53. “The only reason”: Lu You, in Chang and Smythe, South China in the Twelfth Century, 48.
 
-49.   Buddhism received: Wright, Sui Dynasty, 126-38.
+54. “the barbarians”: Jiu Tang Shu (Old Tang History), 41.43a, in Taylor, Birth of Vietnam, 167.
 
-50.      campaign along the Yangzi: Graff, Medieval Chinese Warfare, 129-35.
+55. bronze- and ironworking technologies: The Chinese Bronze and Iron Ages began around 1750 and 770 BCE, respectively; for Korea the corresponding dates are 1100 and 400 BCE.
 
-51.      extensive network of canals: Needham et al., Science and Civilisation, vol. 4, pt. 3:269-70, 307-8.
+56. “the mountainous islands”: Wei Zhi (History of Wei), in Lu, Japan, 11–12.
 
-52.   "dragon boats, phoenix vessels": Sui Shu, 24.686, in Wright, Sui Dynasty, 180.
+57. replacement ships: Nihongi, “Ojin,” 10.18 (300 ce) (vol. 1:268–69).
 
-53.   "The only reason": Lu You, in Chang and Smythe, South China in the Twelfth Century, 48.
+58. Yamato invasion: Brown, “Yamato Kingdom,” 111–12.
 
-54.      "the barbarians": Jiu Tang Shu (Old Tang History), 41.43a, in Taylor, Birth of Vietnam, 167.
+59. Sui Yangdi launched a second invasion: Deng, Maritime Sector, 11, 22.
 
-55.   bronzeand ironworking technologies: The Chinese Bronze and Iron Ages began around 1750 and 770 BCE, respectively; for Korea the corresponding dates are 1100 and 400 BCE.
+60. lashings and mortise-and-tenon joinery: Bellwood and Cameron, “Ancient Boats,” 11–19.
 
-56.      "the mountainous islands": Wei Zhi (History of Wei), in Lu, Japan, 11-12.
+61. Many Dong-Son drums: Needham et al., Science and Civilisation, vol. 4, pt. 3:445–47.
 
-57.   replacement ships: Nihongi, "Ojin," 10.18 (300 ce) (vol. 1:268- 69).
+62. bronze ship model: Spennemann, “On the Bronze Age Ship Model from Flores.”
 
-58.   Yamato invasion: Brown, "Yamato Kingdom," 111-12.
+63. “In the kingdom of Fu-nan”: Shui Ching Chu (Commentary on the Waterways Classic), 1.9a, in Needham et al., Science and Civilisation, vol. 4, pt. 3:450.
 
-59.   Sui Yangdi launched a second invasion: Deng, Maritime Sector, 11, 22.
+64. “the very big kolandiophonta”: Casson, Periplus 60, 230.
 
-60.   lashings and mortise-and-tenon joinery: Bellwood and Cameron, "Ancient Boats," 11-19.
+65. “The people of foreign parts”: Wan Chen, Strange Things of the South, in Manguin, “Southeast Asian Ship,” 275. Needham et al., Science and Civilisation, vol. 4, pt. 3:600–601, feel this may describe vessels from Vietnam or even Guangdong Province; Ray, “Early Coastal Trade in the Bay of Bengal,” 360ff.
 
-61.   Many Dong-Son drums: Needham et al., Science and Civilisation, vol. 4, pt. 3:445-47.
+66. “lashed-lug and stitched-plank”: Manguin, “Southeast Asian Shipping,” 183–85.
 
-62.      bronze ship model: Spennemann, "On the Bronze Age Ship Model from Flores."
+67. Sewn-plank fastening: McGrail, Boats of the World, 354.
 
-63.   "In the kingdom of Fu-nan": Shui Ching Chu (Commentary on the Waterways Classic), 1.9a, in Needham et al., Science and Civilisation, vol. 4, pt. 3:450.
+68. the Chinese approach: Ibid., 367, 370–77.
 
-64.   "the very big kolandiophonta": Casson, Periplus 60, 230.
+69. centerline or axial rudder: Needham et al., Science and Civilisation, vol. 4, pt. 3:640–51, plate 975; McGrail, Boats of the World, 380.
 
-65.   "The people of foreign parts": Wan Chen, Strange Things of the South, in Manguin, "Southeast Asian Ship," 275. Needham et al., Science and Civilisation, vol. 4, pt. 3:600-601, feel this may describe vessels from Vietnam or even Guangdong Province; Ray, "Early Coastal Trade in the Bay of Bengal," 360ff.
+70. layers of planking: McGrail, Boats of the World, 365–70, 372, 375.
 
-66.      "lashed-lug and stitched-plank": Manguin, "Southeast Asian Shipping," 183-85.
+71. bulkheads gave hulls: Ibid., 366–67; Needham et al., Science and Civilisation, vol. 4, pt. 3:420–22; Manguin, “Trading Ships,” 268.
 
-67.   Sewn-plank fastening: McGrail, Boats of the World, 354.
+72. free-flooding compartments: Needham et al., Science and Civilisation, vol. 4, pt. 3:422.
 
-68.   the Chinese approach: Ibid., 367, 370-77.
+73. “at a moderate speed”: Worcester, Junks and Sampans of the Yangtze, 45.
 
-69.      centerline or axial rudder: Needham et al., Science and Civilisation, vol. 4, pt. 3:640-51, plate 975; McGrail, Boats of the World, 380.
+74. yulohs: Ibid., 44–50.
 
-70.   layers of planking: McGrail, Boats of the World, 365-70, 372,
+75. Towing: Ibid., 50–56; Van Slyke, Yangtze, 119–26.
 
-375.
+76. The primary materials: Needham et al., Science and Civilisation, vol. 4, pt. 3:441–48, 595–97; Van Slyke, Yangtze, 120–21; and Deng, Chinese Maritime Activities, 23–26, 32–33.
 
-71.   bulkheads gave hulls: Ibid., 366-67; Needham et al., Science and Civilisation, vol. 4, pt. 3:420-22; Manguin, "Trading Ships," 268.
+77. office of maritime administration (Seonbuseo): Kim, “Outline of Korean Shipbuilding History,” 5.
 
-72.      free-flooding compartments: Needham et al., Science and Civilisation, vol. 4, pt. 3:422.
+78. Japanese cedar and camphorwood: Nihongi, 1.58 (vol. 1:58); rugged terrain: 5.16 (1:161); gifts of salt: 10.18 (1:268–69); “enrolled among the number”: 11.31 (1:297).
 
-73.      "at a moderate speed": Worcester, Junks and Sampans of the Yangtze, 45.
+### 8. The Christian and Muslim Mediterranean
 
-74.   yulohs: Ibid., 44-50.
+1. What prompted archaeologists: Bass et al., Serçe Limani, 1:52.
 
-75.   Towing: Ibid., 50-56; Van Slyke, Yangtze, 119-26.
+2. Yassi Ada B: Bass and van Doorninck, “Fourth-Century Shipwreck at Yassi Ada”; van Doorninck, “4th-Century Wreck at Yassi Ada”; McGrail, Boats of the World, 159.
 
-76.   The primary materials: Needham et al., Science and Civilisation, vol. 4, pt. 3:441-48, 595-97; Van Slyke, Yangtze, 120-21; and Deng, Chinese Maritime Activities, 23-26, 32-33.
+3. Yassi Ada A: Bass, “A Byzantine Trading Venture”; Bass and van Doorninck, Yassi Ada; McGrail, Boats of the World, 159.
 
-77.   office of maritime administration (Seonbuseo): Kim, "Outline of Korean Shipbuilding History," 5.
+4. The Serçe Limani ship: Bass and van Doorninck, “11th-century Shipwreck”; Steffy, “Reconstruction of the 11th Century Serçe Liman Vessel.”
 
-78.      Japanese cedar and camphorwood: Nihongi, 1.58 (vol. 1:58); rugged terrain: 5.16 (1:161); gifts of salt: 10.18 (1:268-69); "enrolled among the number": 11.31 (1:297).
+5. saws rather than axes: “Never, in a long career of examining wooden hull remains, have I seen so many saw marks and so few signs of axes and adzes on the surfaces of a hull” (J. Richard Steffy, in Bass et al., Serçe Limani, 1:153.)
 
-### 8. The Christian and Muslim
+6. When, where, and why: Pryor and Jeffreys, Age of the Dromon, 145–52; Unger, Ship in the Medieval Economy, 37–42.
 
-### Mediterranean
+7. thirty to sixty tons burden: Pryor, Geography, Technology and War, 26; McCormick, Origins of the European Economy, 95.
 
-1.   What prompted archaeologists: Bass et al., Serçe Limani, 1:52.
+8. suited to the times: Bass et al., Serçe Limani, 1:185.
 
-2.   Yassi Ada B: Bass and van Doorninck, "Fourth-Century Shipwreck at Yassi Ada"; van Doorninck, "4th-Century Wreck at Yassi Ada"; McGrail, Boats of the World, 159.
+9. pictorial evidence: Castro et al., “Quantitative Look,” 348, 350.
 
-3.   Yassi Ada A: Bass, "A Byzantine Trading Venture"; Bass and van Doorninck, Yassi Ada; McGrail, Boats of the World, 159.
+10. associated finds: Bass et al., Serçe Limani, vol. 1.
 
-4.   The Serçe Limani ship: Bass and van Doorninck, "11th-century Shipwreck"; Steffy, "Reconstruction of the 11th Century Serçe Liman Vessel."
+11. Hellenized Bulgarians: Ibid., 1:4, 425–26, 488.
 
-5.      saws rather than axes: "Never, in a long career of examining wooden hull remains, have I seen so many saw marks and so few signs of axes and adzes on the surfaces of a hull" (J. Richard Steffy, in Bass et al., Serçe Limani, 1:153.)
+12. glass weight: Ibid., 1:8n5.
 
-6.   When, where, and why: Pryor and Jeffreys, Age of the Dromon, 145-52; Unger, Ship in the Medieval Economy, 37-42.
+13. Pax Romana: Paine, “A Pax upon You,” 92–93.
 
-7.   thirty to sixty tons burden: Pryor, Geography, Technology and War, 26; McCormick, Origins of the European Economy, 95.
+14. battle of the Hellespont: Zosimus, New History, 2.23–24 (pp. 34–35).
 
-8.   suited to the times: Bass et al., Serçe Limani, 1:185.
+15. “the quiet shelter”: Procopius, Buildings, 1.5.2–13 (vol. 7:57–61).
 
-9.   pictorial evidence: Castro et al., "Quantitative Look," 348, 350.
+16. Gaeseric led: Procopius, Vandalic Wars, 3.6.17–24 (vol. 2:59–63).
 
-10.   associated finds: Bass et al., Serçe Limani, vol. 1.
+17. attack Cyprus: Al-Baladhuri, Origins of the Islamic State, 1:236–37.
 
-11.   Hellenized Bulgarians: Ibid., 1:4, 425-26, 488.
+18. battle of the Masts: Cosentino, “Constans II and the Byzantine Navy,” 586–93; Christides, “Milaha”; and Stratos, “Naval Engagement at Phoenix.”
 
-12.   glass weight: Ibid., 1:8n5.
+19. siege of Constantinople: Ostrogorsky, History of the Byzantine State, 124.
 
-13.   Pax Romana: Paine, "A Pax upon You," 92-93.
+20. “When the barbarians”: Leo VI, Taktika, in Jenkins, “Cyprus Between Byzantium and Islam,” 1012–13; Hill, History of Cyprus, 1:290, which quotes Qudama ibn Ja’far al-Katib al-Baghdadi (ca. 873–948).
 
-14.   battle of the Hellespont: Zosimus, New History, 2.23-24 (pp. 34- 35).
+21. Cypriot waters: Jenkins, “Cyprus Between Byzantium and Islam,” 1008–9; Pryor and Jeffreys, Age of the Dromon, 61–62.
 
-15.   "the quiet shelter": Procopius, Buildings, 1.5.2-13 (vol. 7:57-61).
+22. Tunis, an almost impregnable site: Taha, Muslim Conquest and Settlement, 71–72; Fahmy, Muslim Naval Organisation, 69–71.
 
-16.   Gaeseric led: Procopius, Vandalic Wars, 3.6.17-24 (vol. 2:59-63).
+23. strung a chain: Pryor and Jeffreys, Age of the Dromon, 31.
 
-17.   attack Cyprus: Al-Baladhuri, Origins of the Islamic State, 1:236-
+24. Seville: Taha, Muslim Conquest and Settlement, 100.
 
-37.
+25. The Franks’ interest: Haywood, Dark Age Naval Power, 152–63; McCormick, Origins of the European Economy, 527–28, 641–44.
 
-18.   battle of the Masts: Cosentino, "Constans II and the Byzantine Navy," 586-93; Christides, "Milaha"; and Stratos, "Naval Engagement at Phoenix."
+26. agreement with Muslim ambassadors: Aziz Ahmad, History of Islamic Sicily, 5; McCormick, Origins of the European Economy, 900.
 
-19.   siege of Constantinople: Ostrogorsky, History of the Byzantine State, 124.
+27. The Aghlabids began: Aziz Ahmad, History of Islamic Sicily, 5–11; Ostrogorsky, History of the Byzantine State, 208; and McCormick, Origins of the European Economy, 906–7.
 
-20.      "When the barbarians": Leo VI, Taktika, in Jenkins, "Cyprus Between Byzantium and Islam," 1012-13; Hill, History of Cyprus, 1:290, which quotes Qudama ibn Ja'far al-Katib alBaghdadi (ca. 873-948).
+28. “renowned across nearly the whole world”: William of Puglia, Gesta Roberti Wiscardi [Guiscard], in Citarella, “The Relations of Amalfi with the Arab World,” 299.
 
-21.   Cypriot waters: Jenkins, "Cyprus Between Byzantium and Islam," 1008-9; Pryor and Jeffreys, Age of the Dromon, 61-62.
+29. “the most prosperous town”: Ibn Hawqal, The Book of Routes and Kingdoms, in Citarella, “The Relations of Amalfi with the Arab World,” 299.
 
-22.   Tunis, an almost impregnable site: Taha, Muslim Conquest and Settlement, 71-72; Fahmy, Muslim Naval Organisation, 69-71.
+30. emergence of the Fatimids: Hitti, History of the Arabs, 618–19.
 
-23.   strung a chain: Pryor and Jeffreys, Age of the Dromon, 31.
+31. “people, called Andalusians”: Severus ibn al-Muqaffa, in Christides, Conquest of Crete, 83.
 
-24.   Seville: Taha, Muslim Conquest and Settlement, 100.
+32. Taxation was moderate: Christides, Conquest of Crete, 107.
 
-25.   The Franks' interest: Haywood, Dark Age Naval Power, 152-63; McCormick, Origins of the European Economy, 527-28, 641-44.
+33. Leo of Tripoli’s: Kaminiates, Capture of Thessalonica, 70 (p. 115); Christides, Conquest of Crete, 6, 40, 167–68; and Makrypoulias, “Byzantine Expeditions.”
 
-26.   agreement with Muslim ambassadors: Aziz Ahmad, History of Islamic Sicily, 5; McCormick, Origins of the European Economy,
+34. The Kalbids raided al-Andalus: Hitti, History of the Arabs, 521.
 
-900.
+35. river and lake operations: Cosentino, “Constans II and the Byzantine Navy,” 578–79, 582–83.
 
-27.   The Aghlabids began: Aziz Ahmad, History of Islamic Sicily, 5- 11; Ostrogorsky, History of the Byzantine State, 208; and McCormick, Origins of the European Economy, 906-7.
+36. ships were considerably smaller: Ibid., 581; Pryor and Jeffreys, Age of the Dromon, 133.
 
-28.   "renowned across nearly the whole world": William of Puglia, Gesta Roberti Wiscardi [Guiscard], in Citarella, "The Relations of Amalfi with the Arab World," 299.
+37. dromon: Warships were known by various names, including pamphylion, chelandion, and the smaller karabion, but how they differed is hard to determine. Pryor, “From Dromon to Galea,” 94–97; Pryor and Jeffreys, Age of the Dromon, 166–70, 260–64; Fahmy, Muslim Naval Organisation, 126; and Agius, Classic Ships of Islam, 273, 334–48.
 
-29.   "the most prosperous town": Ibn Hawqal, The Book of Routes and Kingdoms, in Citarella, "The Relations of Amalfi with the Arab World," 299.
+38. fitted with a spur: Pryor and Jeffreys, Age of the Dromon, 143–44, 203–10; Cosentino, “Constans II and the Byzantine Navy,” 583.
 
-30.   emergence of the Fatimids: Hitti, History of the Arabs, 618-19.
+39. to carry horses: Pryor and Jeffreys, Age of the Dromon, 307–9, 320–25.
 
-31.      "people, called Andalusians": Severus ibn al-Muqaffa, in Christides, Conquest of Crete, 83.
+40. permanent regiments: Ahrweiler, Byzance et la mer, 19–22.
 
-32.   Taxation was moderate: Christides, Conquest of Crete, 107.
+41. karabisianoi: Pryor and Jeffreys, Age of the Dromon, pp. xlii, 32; Cosentino, “Constans II and the Byzantine Navy,” 602. The word karab, “war galley,” originated in Muslim Egypt and was adopted by the Byzantines.
 
-33.      Leo of Tripoli's: Kaminiates, Capture of Thessalonica, 70 (p. 115); Christides, Conquest of Crete, 6, 40, 167-68; and Makrypoulias, "Byzantine Expeditions."
+42. naval themes: Pryor and Jeffreys, Age of the Dromon, 32, 46–47, 88.
 
-34.   The Kalbids raided al-Andalus: Hitti, History of the Arabs, 521.
+43. ports of different sizes: Ahrweiler, Byzance et la mer, 422–25; shipyards: 435–36.
 
-35.      river and lake operations: Cosentino, "Constans II and the Byzantine Navy," 578-79, 582-83.
+44. conscription: Haldon, “Military Service, Military Lands, and the Status of Soldiers,” 27–28, 53, 65–66.
 
-36.   ships were considerably smaller: Ibid., 581; Pryor and Jeffreys, Age of the Dromon, 133.
+45. “God made me an emperor”: In Lopez, Commercial Revolution, 66. See McCormick, Origins of the European Economy, 14.
 
-37.      dromon: Warships were known by various names, including pamphylion, chelandion, and the smaller karabion, but how they differed is hard to determine. Pryor, "From Dromon to Galea," 94-97; Pryor and Jeffreys, Age of the Dromon, 166-70, 260-64; Fahmy, Muslim Naval Organisation, 126; and Agius, Classic Ships of Islam, 273, 334-48.
+46. imperial precedence: Pryor and Jeffreys, Age of the Dromon, 390–91.
 
-38.   fitted with a spur: Pryor and Jeffreys, Age of the Dromon, 143-44, 203-10; Cosentino, "Constans II and the Byzantine Navy," 583.
+47. “Such Russes”: Cross and Sherbowitz-Wetzor, Russian Primary Chronicle, Year 6415 (907 ce), 65.
 
-39.   to carry horses: Pryor and Jeffreys, Age of the Dromon, 307-9, 320-25.
+48. “At worst, Islam was hostile”: Planhol, Islam et la mer, 42.
 
-40.   permanent regiments: Ahrweiler, Byzance et la mer, 19-22.
+49. “ ‘The Sea is a great creature’ ”: Ibn Khaldun, Muqaddimah, 2.33 (vol. 2:39).
 
-41.   karabisianoi: Pryor and Jeffreys, Age of the Dromon, pp. xlii, 32; Cosentino, "Constans II and the Byzantine Navy," 602. The word karab, "war galley," originated in Muslim Egypt and was adopted by the Byzantines.
+50. “It is God”: Quran 45:12.
 
-42.   naval themes: Pryor and Jeffreys, Age of the Dromon, 32, 46-47,
+51. dar al-sina’ca: McCormick, Origins of the European Economy, 238–39, 526–28.
 
-88.
+52. Muslims built others: Fahmy, Muslim Naval Organisation, 23–50.
 
-43.   ports of different sizes: Ahrweiler, Byzance et la mer, 422-25; shipyards: 435-36.
+53. acacia plantations: Lombard, “Arsenaux et bois de marine,” 131.
 
-44.   conscription: Haldon, "Military Service, Military Lands, and the Status of Soldiers," 27-28, 53, 65-66.
+54. an arsenal at Akka: Fahmy, Muslim Naval Organisation, 51–63.
 
-45.   "God made me an emperor": In Lopez, Commercial Revolution,
+55. sources of support: Picard, “Bahriyyun, émirs et califes,” 419–20, 425, 433–34, 443–44; Fahmy, Muslim Naval Organisation, 88, 95–106; and Christides, Conquest of Crete, 51.
 
-66. See McCormick, Origins of the European Economy, 14.
+56. Muhajirun: Fahmy, Muslim Naval Organisation, 105.
 
-46.   imperial precedence: Pryor and Jeffreys, Age of the Dromon, 390-
+57. “fulfill their expedition”: In ibid., 102–3.
 
-91.
+58. three-part scale: Christides, “Milaha.”
 
-47.   "Such Russes": Cross and Sherbowitz-Wetzor, Russian Primary Chronicle, Year 6415 (907 ce), 65.
+59. “from this time”: In Bury, History of the Eastern Roman Empire, 293.
 
-48.   "At worst, Islam was hostile": Planhol, Islam et la mer, 42.
+60. “men of the sea”: Ibn al-Quttiya, History of the Conquest of Spain, in Picard, “Bahriyyun, émirs et califes,” 428.
 
-49.   " 'The Sea is a great creature' ": Ibn Khaldun, Muqaddimah, 2.33 (vol. 2:39).
+61. impressment: Bramoullé, “Recruiting Crews in the Fatimid Navy,” 5, 9, 11–14.
 
-50.   "It is God": Quran 45:12.
+62. “were at the same time”: Procopius, Vandalic Wars, 3.11.15 (vol. 2:105–7).
 
-51.   dar al-sina'ca: McCormick, Origins of the European Economy, 238-39, 526-28.
+63. “He should check”: In Christides, “Two Parallel Naval Guides,” 56.
 
-52.   Muslims built others: Fahmy, Muslim Naval Organisation, 23-50.
+64. had no other function: Christides, Conquest of Crete, 53–56.
 
-53.   acacia plantations: Lombard, "Arsenaux et bois de marine," 131.
+65. “Moors”: Picard, “Bahriyyun, émirs et califes,” 429–31, 437–38.
 
-54.   an arsenal at Akka: Fahmy, Muslim Naval Organisation, 51-63.
+66. arsenals at Seville: Ibid., 429.
 
-55.   sources of support: Picard, "Bahriyyun, émirs et califes," 419-20, 425, 433-34, 443-44; Fahmy, Muslim Naval Organisation, 88, 95-106; and Christides, Conquest of Crete, 51.
+67. unless the outcome: Christides, Conquest of Crete, 60.
 
-56.   Muhajirun: Fahmy, Muslim Naval Organisation, 105.
+68. surviving manuals: Pryor and Jeffreys, Age of the Dromon, 175–88, and their translations of: The Naval Battles of Syrianos Magistros, 455–81; The Naval Warfare of the Emperor Leo [VI], 483–519; the Naval Warfare commissioned by Basil, 521–45; Nikephoros Ouranos, On Fighting at Sea, 571–605; and Muhammad Ibn Mankali, “Remarks on Sea Warfare,” 645–66. See Christides, “Two Parallel Naval Guides.”
 
-57.   "fulfill their expedition": In ibid., 102-3.
+69. long-range weapons: Pryor and Jeffreys, Age of the Dromon, 379–83.
 
-58.   three-part scale: Christides, "Milaha."
+70. “manufactured a naval fire”: Theophanes, Chronicle, 493–94. As heirs to the Roman Empire, the Byzantines called themselves Romans and the weapon “Roman fire,” as well as “prepared,” “artificial,” and “liquid” fire. “Greek fire” is a twelfth-century coinage used by crusaders for a variety of incendiary weapons.
 
-59.   "from this time": In Bury, History of the Eastern Roman Empire,
+71. “The fire to be hurled”: Anna Comnena, Alexiad, 11 (p. 360).
 
-293.
+72. “anathematized”: Constantine Porphyrogenitus, De Administrando Imperio, 13.85–90 (pp. 69–71).
 
-60.      "men of the sea": Ibn al-Quttiya, History of the Conquest of Spain, in Picard, "Bahriyyun, émirs et califes," 428.
+73. available to Muslim fleets: Christides, Conquest of Crete, 63.
 
-61.      impressment: Bramoullé, "Recruiting Crews in the Fatimid Navy," 5, 9, 11-14.
+74. “Every ship”: Al-Muqaddasi, Best Divisions, 11. See Haldane, “Fire-Ship of Al-Salih Ayyub,” 139.
 
-62.   "were at the same time": Procopius, Vandalic Wars, 3.11.15 (vol. 2:105-7).
+75. “something which was never”: Biography of the Patriarch Michael, in Kubiak, “Byzantine Attack on Damietta,” 47.
 
-63.   "He should check": In Christides, "Two Parallel Naval Guides,"
+76. fireproof clothing: Christides, “Fireproofing of War Machines,” 13–14.
 
-56.
+77. protective chain mail: Pryor and Jeffreys, Age of the Dromon, 381.
 
-64.   had no other function: Christides, Conquest of Crete, 53-56.
+78. naval stores: Ahrweiler, Byzance et la mer, 427.
 
-65.   "Moors": Picard, "Bahriyyun, émirs et califes," 429-31, 437-38.
+79. supplies of wood: Pryor, Geography, Technology and War, 7; Lombard, “Arsenaux et bois de marine,” 132, 136–37.
 
-66.   arsenals at Seville: Ibid., 429.
+80. annona: McCormick, Origins of the European Economy, 87, 104–5, 108–10; population of Rome: 66.
 
-67.   unless the outcome: Christides, Conquest of Crete, 60.
+81. Jeddah, established in 646: Located 70 kilometers from Mecca and 420 kilometers from Medina, Jeddah replaced the older port of al-Shu’ayba.
 
-68.   surviving manuals: Pryor and Jeffreys, Age of the Dromon, 175- 88, and their translations of: The Naval Battles of Syrianos Magistros, 455-81; The Naval Warfare of the Emperor Leo [VI], 483-519; the Naval Warfare commissioned by Basil, 521-45; Nikephoros Ouranos, On Fighting at Sea, 571-605; and Muhammad Ibn Mankali, "Remarks on Sea Warfare," 645-66. See Christides, "Two Parallel Naval Guides."
+82. Canal of the Commander of the Faithful: Fahmy, Muslim Naval Organisation, 24–25; Fahmy, Muslim Sea-power in the Eastern Mediterranean, 23–24, 27.
 
-69.   long-range weapons: Pryor and Jeffreys, Age of the Dromon, 379-
+83. caused the population to fall: Hourani, Arab Seafaring, 60.
 
-83.
+84. transalpine trade: McCormick, Origins of the European Economy, 79.
 
-70.   "manufactured a naval fire": Theophanes, Chronicle, 493-94. As heirs to the Roman Empire, the Byzantines called themselves Romans and the weapon "Roman fire," as well as "prepared," "artificial," and "liquid" fire. "Greek fire" is a twelfth-century coinage used by crusaders for a variety of incendiary weapons.
+85. slave and lumber trades: Ibid., 729–32, 761–77; Lombard, “Arsenaux et bois de marine,” 133–37.
 
-71.   "The fire to be hurled": Anna Comnena, Alexiad, 11 (p. 360).
+86. “marmalades, concentrated juices”: Khalilieh, Admiralty and Maritime Laws, 300, 314.
 
-72. "anathematized": Constantine Porphyrogenitus, De Administrando Imperio, 13.85-90 (pp. 69-71).
+87. “Women on board”: Mawardi, Al-Ahkam al-Sultaniyya (The ordinances of government), in Khalilieh, Admiralty and Maritime Laws, 77.
 
-73.   available to Muslim fleets: Christides, Conquest of Crete, 63.
+88. “If thou sailest”: Al-Baladhuri, Origins of the Islamic State, 1:235; Fahmy, Muslim Naval Organisation, 105.
 
-74.      "Every ship": Al-Muqaddasi, Best Divisions, 11. See Haldane, "Fire-Ship of Al-Salih Ayyub," 139.
+89. “[T]he barbarians”: Kaminiates, Capture of Thessalonica, 66–67.
 
-75.      "something which was never": Biography of the Patriarch Michael, in Kubiak, "Byzantine Attack on Damietta," 47.
+90. to end the traffic: McCormick, Origins of the European Economy, 765–66.
 
-76.   fireproof clothing: Christides, "Fireproofing of War Machines," 13-14.
+91. interest rates: Laiou, “Byzantine Traders and Seafarers,” 80; Runciman, “Byzantine Trade and Industry,” 143–45.
 
-77.      protective chain mail: Pryor and Jeffreys, Age of the Dromon,
+92. Rhodian Sea Law: Ashburner, The Rhodian Sea-Law.
 
-381.
+93. Treatise Concerning the Leasing of Ships: Khalilieh, Admiralty and Maritime Laws, 21–22. The author is Muhammad ibn Umar al-Kinani al-Andalusi al-Iskandarini (d. 923).
 
-78.   naval stores: Ahrweiler, Byzance et la mer, 427.
+94. “Whoever hires”: Treatise Concerning the Leasing of Ships, in ibid., 274.
 
-79.      supplies of wood: Pryor, Geography, Technology and War, 7; Lombard, "Arsenaux et bois de marine," 132, 136-37.
+95. “company”: Jackson, “From Profit-Sailing to Wage-Sailing,” 605–28; Pérez-Mallaína, Spain’s Men of the Sea, 195.
 
-80.   annona: McCormick, Origins of the European Economy, 87, 104- 5, 108-10; population of Rome: 66.
+96. load lines: Khalilieh, Admiralty and Maritime Laws, 37.
 
-81.   Jeddah, established in 646: Located 70 kilometers from Mecca and 420 kilometers from Medina, Jeddah replaced the older port of al-Shu'ayba.
+97. freight charges: Ibid., 126–28, 148.
 
-82.   Canal of the Commander of the Faithful: Fahmy, Muslim Naval Organisation, 24-25; Fahmy, Muslim Sea-power in the Eastern Mediterranean, 23-24, 27.
+98. lending money at interest: Goitein, Mediterranean Society, 1:255; Lopez, Commercial Revolution, 73.
 
-83.   caused the population to fall: Hourani, Arab Seafaring, 60.
+99. extended a sea loan: Pryor, “Origins of the Commenda Contract,” 22–23.
 
-84.   transalpine trade: McCormick, Origins of the European Economy,
+100. the pope condemned: Roover, “Early Examples of Marine Insurance,” 175.
 
-79.
+101. “capital, labor”: Pryor, “Origins of the Commenda Contract,” 19.
 
-85.      slave and lumber trades: Ibid., 729-32, 761-77; Lombard, "Arsenaux et bois de marine," 133-37.
+102. societas maris: Byrne, “Commercial Contracts of the Genoese,” 135–49.
 
-86.      "marmalades, concentrated juices": Khalilieh, Admiralty and Maritime Laws, 300, 314.
+103. “a semi loan”: Babylonian Talmud, in Pryor, “Origins of the Commenda Contract,” 26.
 
-87.      "Women on board": Mawardi, Al-Ahkam al-Sultaniyya (The ordinances of government), in Khalilieh, Admiralty and Maritime Laws, 77.
+104. qirad: Pryor, “Origins of the Commenda Contract,” 29–36.
 
-88.      "If thou sailest": Al-Baladhuri, Origins of the Islamic State, 1:235; Fahmy, Muslim Naval Organisation, 105.
+105. “innovation of highest importance”: Lopez, Commercial Revolution, 76.
 
-89.   "[T]he barbarians": Kaminiates, Capture of Thessalonica, 66-67.
+106. “the lynch-pin”: Pryor, “Mediterranean Commerce in the Middle Ages,” 133.
 
-90.   to end the traffic: McCormick, Origins of the European Economy, 765-66.
+107. “the ship … is broken up”: Statutes of Marseille, in ibid., 147.
 
-91.      interest rates: Laiou, "Byzantine Traders and Seafarers," 80; Runciman, "Byzantine Trade and Industry," 143-45.
+108. “partnerships according to Muslim law”: In Goitein and Friedman, “India Book,” 12.
 
-92.   Rhodian Sea Law: Ashburner, The Rhodian Sea-Law.
+109. “if goods are thrown overboard”: Paulus, Digest XIV, in Ashburner, Rhodian Sea-Law, pp. cclii, 116–17. On jettison, see Khalilieh, Admiralty and Maritime Laws, 150–94, and Islamic Maritime Law, 87–105.
 
-93.   Treatise Concerning the Leasing of Ships: Khalilieh, Admiralty and Maritime Laws, 21-22. The author is Muhammad ibn Umar al-Kinani al-Andalusi al-Iskandarini (d. 923).
+110. Libro del Consulado del Mar: Constable, “Problem of Jettison,” 215.
 
-94.   "Whoever hires": Treatise Concerning the Leasing of Ships, in ibid., 274.
+111. “if any one”: Ashburner, Rhodian Sea Law, chap. 9 (p. 87). According to Ashburner, “What the [mina] is equivalent to in this place … is impossible to say” (p. 90).
 
-95.      "company": Jackson, "From Profit-Sailing to Wage-Sailing," 605-28; Pérez-Mallaína, Spain's Men of the Sea, 195.
+112. “chosen by lot”: Qadi Iyad, Madhahib al-Hukkam, 235, in Khalilieh, Islamic Maritime Law, 97.
 
-96.   load lines: Khalilieh, Admiralty and Maritime Laws, 37.
+113. human jettison: Constable, “Problem of Jettison,” 208–11.
 
-97.   freight charges: Ibid., 126-28, 148.
+### 9. Northern Europe Through the Viking Age
 
-98.   lending money at interest: Goitein, Mediterranean Society, 1:255; Lopez, Commercial Revolution, 73.
+1. paying duties: Middleton, “Early Medieval Port Customs,” 320–24.
 
-99.   extended a sea loan: Pryor, "Origins of the Commenda Contract," 22-23.
+2. Ohthere: Storli, “Ohthere and His World.”
 
-100.      the pope condemned: Roover, "Early Examples of Marine Insurance," 175.
+3. “to investigate how far”: Bately, “Text and Translation,” 44–45.
 
-101.   "capital, labor": Pryor, "Origins of the Commenda Contract,"
+4. Kaupang: Skre, “Sciringes healh,” 150.
 
-19.
+5. Wulftsan: Jesch, “Who Was Wulfstan,” 29–31.
 
-102.   societas maris: Byrne, "Commercial Contracts of the Genoese," 135-49.
+6. York: Lapidge, Blackwell Encyclopaedia of Anglo-Saxon England, 497–99.
 
-103.      "a semi loan": Babylonian Talmud, in Pryor, "Origins of the Commenda Contract," 26.
+7. “for I cannot accept”: Herodotus, Histories, 3.115 (p. 198).
 
-104.   qirad: Pryor, "Origins of the Commenda Contract," 29-36.
+8. The tin of Cornwall: Cunliffe, Facing the Ocean, 304.
 
-105.      "innovation of highest importance": Lopez, Commercial Revolution, 76.
+9. Vix krater: Cunliffe, Extraordinary Voyage, 16; Boardman, Greeks Overseas, 221–23.
 
-106.   "the lynch-pin": Pryor, "Mediterranean Commerce in the Middle Ages," 133.
+10. Aude-Garonne-Gironde corridor: Cunliffe, Extraordinary Voyage, 55. Strabo describes this route: “from Narbo[nne] traffic goes inland for a short distance by the Atax [Aude] River, and then a greater distance by land to the Garumna [Garonne] River.… And the Garumna, too, flows to the ocean.” Geography, 4.1.14 (vol. 2:211). See Cunliffe, Facing the Ocean, 331–32.
 
-107.   "the ship … is broken up": Statutes of Marseille, in ibid., 147.
+11. between 6,860 and 7,150 kilometers: Cunliffe, Extraordinary Voyage, 97; latitudes: 61, 98–100, 132.
 
-108.      "partnerships according to Muslim law": In Goitein and Friedman, "India Book," 12.
+12. The Classis Germanica: Mason, Roman Britain and the Roman Navy, 93, 105–6; Starr, Roman Imperial Navy, 124–66.
 
-109.      "if goods are thrown overboard": Paulus, Digest XIV, in Ashburner, Rhodian Sea-Law, pp. cclii, 116-17. On jettison, see Khalilieh, Admiralty and Maritime Laws, 150-94, and Islamic Maritime Law, 87-105.
+13. lines of communication: Milne, “Maritime Traffic,” 82.
 
-110.   Libro del Consulado del Mar: Constable, "Problem of Jettison,"
+14. “all the bireme”: Tacitus, Histories, 4.12 (p. 212), 5.23–24 (p. 285). See Haywood, Dark Age Naval Power, 25, 35–39.
 
-215.
+15. Frankish tribes: Haywood, Dark Age Naval Power, 30–31.
 
-111.      "if any one": Ashburner, Rhodian Sea Law, chap. 9 (p. 87). According to Ashburner, "What the [mina] is equivalent to in this place … is impossible to say" (p. 90).
+16. “some of them revolted”: Zosimus, New History, 1.71.2 (p. 22). See Haywood, Dark Age Naval Power, 41, 48–49.
 
-112.      "chosen by lot": Qadi Iyad, Madhahib al-Hukkam, 235, in Khalilieh, Islamic Maritime Law, 97.
+17. burning of the Classis Germanica: Haywood, Dark Age Naval Power, 60.
 
-113.   human jettison: Constable, "Problem of Jettison," 208-11.
+18. “sent letters to the cities”: Zosimus, New History, 6.10.2 (p. 130).
 
-### 9. Northern Europe Through the Viking
+19. “sent back news”: Bede, History, 1.15 (p. 56).
 
-### Age
+20. barge excavated at Blackfriars: Marsden, A Ship of the Roman Period.
 
-1.   paying duties: Middleton, "Early Medieval Port Customs," 320-
+21. wreck from St. Peter Port: Rule and Monaghan, Gallo-Roman Trading Vessel.
 
-24.
+22. ship burial at Sutton Hoo: Paine, Ships of the World, s.v. Sutton Hoo, citing Angela Care Evans, The Sutton Hoo Ship Burial (London: British Museum, 1986).
 
-2.   Ohthere: Storli, "Ohthere and His World."
+23. Lacus Flevo: Kirby and Hinkkanen, The Baltic and the North Seas, 8.
 
-3.   "to investigate how far": Bately, "Text and Translation," 44-45.
+24. entrepôt at Ribe: Lebecq, “Northern Seas,” 649, 652, 654; Skovgaard-Petersen, “Making of the Danish Kingdom,” 172.
 
-4.   Kaupang: Skre, "Sciringes healh," 150.
+25. Skagerrak and Kattegat: Crumlin-Pedersen, “Boats and Ships of the Baltic Sea,” 245–47.
 
-5.   Wulftsan: Jesch, "Who Was Wulfstan," 29-31.
+26. Saxon and Danish raids: Haywood, Dark Age Naval Power, 89.
 
-6.   York: Lapidge, Blackwell Encyclopaedia of Anglo-Saxon England, 497-99.
+27. Chlocilaicus (Hygelac): Ibid., 114–26; Beowulf, ll. 1205–14, 2355–66, 2498–509, and 2912–21.
 
-7.   "for I cannot accept": Herodotus, Histories, 3.115 (p. 198).
+28. The Frisians’: Lebecq, Marchands et navigateurs frisons, 105–9.
 
-8.   The tin of Cornwall: Cunliffe, Facing the Ocean, 304.
+29. Fossa Carolina: Leitholdt et al., “Fossa Carolina.” For another interpretation of the canal’s purpose, see Squatriti, “Digging Ditches in Early Medieval Europe.”
 
-9.   Vix krater: Cunliffe, Extraordinary Voyage, 16; Boardman, Greeks Overseas, 221-23.
+30. Viken: Sawyer, “Viking Expansion,” 108.
 
-10.   Aude-Garonne-Gironde corridor: Cunliffe, Extraordinary Voyage,
+31. “We and our fathers”: Alcuin of York, Letter, 12 (p. 18).
 
-55. Strabo describes this route: "from Narbo[nne] traffic goes inland for a short distance by the Atax [Aude] River, and then a greater distance by land to the Garumna [Garonne] River.… And the Garumna, too, flows to the ocean." Geography, 4.1.14 (vol. 2:211). See Cunliffe, Facing the Ocean, 331-32.
+32. southwesterly winds: Carver, “Pre-Viking Traffic,” 122.
 
-11.      between 6,860 and 7,150 kilometers: Cunliffe, Extraordinary Voyage, 97; latitudes: 61, 98-100, 132.
+33. sailing season: See Larson, King’s Mirror (13th century), 158, 161.
 
-12.   The Classis Germanica: Mason, Roman Britain and the Roman Navy, 93, 105-6; Starr, Roman Imperial Navy, 124-66.
+34. “The wind is fierce to-night”: In Ó Corráin, “Vikings in Ireland and Scotland,” 7.
 
-13.   lines of communication: Milne, "Maritime Traffic," 82.
+35. “a Christian people”: Rimbert, Life of Anskar, 7 (p. 38).
 
-14.      "all the bireme": Tacitus, Histories, 4.12 (p. 212), 5.23-24 (p. 285). See Haywood, Dark Age Naval Power, 25, 35-39.
+36. “was especially suitable”: Ibid., 24 (p. 84).
 
-15.   Frankish tribes: Haywood, Dark Age Naval Power, 30-31.
+37. Noirmoutier: Jones, History of the Vikings, 211.
 
-16.   "some of them revolted": Zosimus, New History, 1.71.2 (p. 22). See Haywood, Dark Age Naval Power, 41, 48-49.
+38. expeditions against al-Andalus: El-Hajji, “Andalusian Diplomatic Relations,” 70–81.
 
-17.   burning of the Classis Germanica: Haywood, Dark Age Naval Power, 60.
+39. Danish prince Björn Ironside: This raid may have attacked the Italian port of Luni, but the details are confusing.
 
-18.   "sent letters to the cities": Zosimus, New History, 6.10.2 (p. 130).
+40. “bridge of ships”: Cath Maige Tuired (The Battle of Mag Tuired), in Ó Corráin, “Vikings in Ireland and Scotland,” 14.
 
-19.   "sent back news": Bede, History, 1.15 (p. 56).
+41. longphorts: A coinage of medieval Irish annalists, longphort comes from the Latin (navis) longa, meaning longship, and portus, meaning landing place; Sheehan, “The Longphort in Viking Age Ireland,” 282–83.
 
-20.   barge excavated at Blackfriars: Marsden, A Ship of the Roman Period.
+42. “king of the Norwegian Vikings”: Annals of Ulster, in Ó Corráin, “Vikings in Ireland and Scotland,” 37.
 
-21.      wreck from St. Peter Port: Rule and Monaghan, Gallo-Roman Trading Vessel.
+43. “there were men”: Bessason, Book of Settlements, §1 (p. 114).
 
-22.   ship burial at Sutton Hoo: Paine, Ships of the World, s.v. Sutton Hoo, citing Angela Care Evans, The Sutton Hoo Ship Burial (London: British Museum, 1986).
+44. The pace of colonization: Magnússon, Northern Sphinx, 10.
 
-23.      Lacus Flevo: Kirby and Hinkkanen, The Baltic and the North Seas, 8.
+45. Birka: Ambrosiani, “Prehistory of Towns in Sweden,” 64–66.
 
-24.      entrepôt at Ribe: Lebecq, "Northern Seas," 649, 652, 654; Skovgaard-Petersen, "Making of the Danish Kingdom," 172.
+46. Helgö: Holmqvist, “Helgö.”
 
-25.   Skagerrak and Kattegat: Crumlin-Pedersen, "Boats and Ships of the Baltic Sea," 245-47.
+47. west of the Vistula: Jöns, “Ports and Emporia of the Southern Coast”; Gimbutas, The Balts, 143.
 
-26.   Saxon and Danish raids: Haywood, Dark Age Naval Power, 89.
+48. Staraya Ladoga: Jones, History of the Vikings, 250. The town is called Staraya (Old) Ladoga to distinguish it from Novaya Ladoga, founded nearer the lake by Peter the Great in 1703.
 
-27.      Chlocilaicus (Hygelac): Ibid., 114-26; Beowulf, ll. 1205-14, 2355-66, 2498-509, and 2912-21.
+49. Novgorod: Birnbaum, Lord Novgorod the Great.
 
-28.   The Frisians': Lebecq, Marchands et navigateurs frisons, 105-9.
+50. “They said to themselves”: Cross and Sherbowitz-Wetzor, Russian Primary Chronicle, Year 6368–6370 (860–862 ce), 59–69. Varangian may come from an Old Norse word for “confederates.” The Greek name was barangoi, the Arabic varank: Jones, History of the Vikings, 247. For a discussion of the “stranger as king,” see Fernández-Armesto, “Stranger-Effect in Early Modern Asia,” 181–85, 188–92.
 
-29.   Fossa Carolina: Leitholdt et al., "Fossa Carolina." For another interpretation of the canal's purpose, see Squatriti, "Digging Ditches in Early Medieval Europe."
+51. “Whosoever come”: Cross and Sherbowitz-Wetzor, Russian Primary Chronicle, Year 6412–6415 (904–907), 64–65.
 
-30.   Viken: Sawyer, "Viking Expansion," 108.
+52. “there came”: Al-Masudi, in Dunlop, History of the Jewish Khazars, 209–10.
 
-31.   "We and our fathers": Alcuin of York, Letter, 12 (p. 18).
+53. island of Rügen: Jöns, “Ports and Emporia of the Southern Coast,” 173.
 
-32.   southwesterly winds: Carver, "Pre-Viking Traffic," 122.
+54. “quantities of such spices”: In Brutzkus, “Trade with Eastern Europe, 800–1200,” 33. The account of ben Jacob (in Arabic, Ibrahim ibn Yaqub al-Tartushi) is preserved in a thirteenth-century cosmography by Zakariya al-Qazwini.
 
-33.      sailing season: See Larson, King's Mirror (13th century), 158,
+55. Coastal navigation: Marcus, Conquest of the North Atlantic, 114–16.
 
-161.
+56. “sunstone”: Seaver, Frozen Echo, 16–18.
 
-34.   "The wind is fierce to-night": In Ó Corráin, "Vikings in Ireland and Scotland," 7.
+57. “well wooded and with low hills”: Greenland Saga, 2, in Magnusson and Pálsson, Vinland Sagas, 52–54.
 
-35.   "a Christian people": Rimbert, Life of Anskar, 7 (p. 38).
+58. Greenlanders’ numbers too few: Wallace, “L’Anse aux Meadows and Vinland,” 233.
 
-36.   "was especially suitable": Ibid., 24 (p. 84).
+59. year-round settlement: Ibid., 224; occupied until about 1030: 228. The name is a corruption of L’Anse au Méduse, Bay of the Jellyfish, as seventeenth-century French fishermen called the area.
 
-37.   Noirmoutier: Jones, History of the Vikings, 211.
+60. until about 1030: Ibid., 226, 230; Seaver, Frozen Echo, 23–24.
 
-38.   expeditions against al-Andalus: El-Hajji, "Andalusian Diplomatic Relations," 70-81.
+61. “Vinland because vines”: Adam of Bremen, History of the Archbishops, § xxxix (38) (p. 219).
 
-39.   Danish prince Björn Ironside: This raid may have attacked the Italian port of Luni, but the details are confusing.
+62. “There came also a ship”: Skálholtsannáll hinn forni, in Magnusson, Vikings, 173–74.
 
-40.   "bridge of ships": Cath Maige Tuired (The Battle of Mag Tuired), in Ó Corráin, "Vikings in Ireland and Scotland," 14.
+63. Norse Greenland seems: McGhee, “Epilogue,” 243.
 
-41.      longphorts: A coinage of medieval Irish annalists, longphort comes from the Latin (navis) longa, meaning longship, and portus, meaning landing place; Sheehan, "The Longphort in Viking Age Ireland," 282-83.
+64. English cod fishermen: Seaver, Frozen Echo, 181.
 
-42.   "king of the Norwegian Vikings": Annals of Ulster, in Ó Corráin, "Vikings in Ireland and Scotland," 37.
+65. Anglo-Saxon armies sailed north: Rodger, Safeguard of the Sea, 18–19.
 
-43.   "there were men": Bessason, Book of Settlements, §1 (p. 114).
+66. “since Angles and Saxons”: Swanton, Anglo-Saxon Chronicles, Year 937 (pp. 109–10).
 
-44.   The pace of colonization: Magnússon, Northern Sphinx, 10.
+67. Danegeld: Magnusson, Vikings, 186–88.
 
-45.   Birka: Ambrosiani, "Prehistory of Towns in Sweden," 64-66.
+68. Duchy of Normandy: Flodoard of Reims, Annals, pp. xx–xxii.
 
-46.   Helgö: Holmqvist, "Helgö."
+69. Saint Patrick was enslaved: De Paor, Patrick, 22–26, 221, 227.
 
-47.   west of the Vistula: Jöns, "Ports and Emporia of the Southern Coast"; Gimbutas, The Balts, 143.
+70. Northumbrian who was taken: Bede, History, 4.23 (pp. 244–45).
 
-48.   Staraya Ladoga: Jones, History of the Vikings, 250. The town is called Staraya (Old) Ladoga to distinguish it from Novaya Ladoga, founded nearer the lake by Peter the Great in 1703.
+71. “a precious garment”: Oddr, Saga of Olaf Tryggvason, 7 (pp. 44–45).
 
-49.   Novgorod: Birnbaum, Lord Novgorod the Great.
+72. “He is captured”: Warner of Rouen, Moriuht, 65–76 (p. 77); “full to bursting”: 271–72 (p. 91); and “a quarter”: 279 (p. 95).
 
-50.      "They said to themselves": Cross and Sherbowitz-Wetzor, Russian Primary Chronicle, Year 6368-6370 (860-862 ce), 59-
+73. massacre all the Danes: Magnusson, Vikings, 188.
 
-69. Varangian may come from an Old Norse word for "confederates." The Greek name was barangoi, the Arabic varank: Jones, History of the Vikings, 247. For a discussion of the "stranger as king," see Fernández-Armesto, "Stranger-Effect in Early Modern Asia," 181-85, 188-92.
+74. “Leapt from the bloodied gunwales”: Snorri Sturluson, King Harald’s Saga, §63 (p. 114).
 
-51.      "Whosoever come": Cross and Sherbowitz-Wetzor, Russian Primary Chronicle, Year 6412-6415 (904-907), 64-65.
+75. 250 or more ships: De Vries, Norwegian Invasion, 241–42.
 
-52.      "there came": Al-Masudi, in Dunlop, History of the Jewish Khazars, 209-10.
+76. “travelled into England”: Swanton, Anglo-Saxon Chronicles, Year 1085 (pp. 215–16).
 
-53.      island of Rügen: Jöns, "Ports and Emporia of the Southern Coast," 173.
+77. cohorts of a hundred men: Tacitus, Germania, §6, 12 (pp. 106, 111).
 
-54.      "quantities of such spices": In Brutzkus, "Trade with Eastern Europe, 800-1200," 33. The account of ben Jacob (in Arabic, Ibrahim ibn Yaqub al-Tartushi) is preserved in a thirteenthcentury cosmography by Zakariya al-Qazwini.
+78. Census of the Men of Alba: Haywood, Dark Age Naval Power, 91; Rodger, Safeguard of the Sea, 5.
 
-55.   Coastal navigation: Marcus, Conquest of the North Atlantic, 114-
+79. levies of ships and men: Rodger, Safeguard of the Sea, 19–20; Hollister, Anglo-Saxon Military Institutions, 10–11, 38–39, 85, 115; and Jones, History of the Vikings, 93.
 
-16.
+80. “No man younger”: Oddr, Saga of Olaf Tryggvason, 53 (p. 104).
 
-56.   "sunstone": Seaver, Frozen Echo, 16-18.
+81. “Here William orders”: Bayeux Tapestry. There is no text for the shipbuilding scene.
 
-57.      "well wooded and with low hills": Greenland Saga, 2, in Magnusson and Pálsson, Vinland Sagas, 52-54.
+82. “gathered a greater ship-army”: Swanton, Anglo-Saxon Chronicles, Year 1066 (pp. 194–96).
 
-58.   Greenlanders' numbers too few: Wallace, "L'Anse aux Meadows and Vinland," 233.
+83. battle of Svold: Oddr, Saga of Olaf Tryggvason, 67–75 (pp. 118–34); “much longer and higher”: 70 (p. 124); “extensively reinforced”: 72 (p. 126); and “posted small boats”: 74 (p. 132).
 
-59.   year-round settlement: Ibid., 224; occupied until about 1030: 228. The name is a corruption of L'Anse au Méduse, Bay of the Jellyfish, as seventeenth-century French fishermen called the area.
+84. line of development: Christensen, “Proto-Viking, Viking and Norse Craft,” 72–75.
 
-60.   until about 1030: Ibid., 226, 230; Seaver, Frozen Echo, 23-24.
+85. seventy miles per day: Carver, “Pre-Viking Traffic,” 121; Haywood, Dark Age Naval Power, 107. A six-day (144-hour) passage from Shetland to Iceland yields a speed of 2.9 knots.
 
-61.      "Vinland because vines": Adam of Bremen, History of the Archbishops, § xxxix (38) (p. 219).
+86. Broighter “boat”: Cunliffe, Extraordinary Voyage, 103–5.
 
-62.      "There came also a ship": Skálholtsannáll hinn forni, in Magnusson, Vikings, 173-74.
+87. rig their hide boats: McGrail, “Boats and Boatmanship,” 46; Cunliffe, Extraordinary Voyage, 119.
 
-63.   Norse Greenland seems: McGhee, "Epilogue," 243.
+88. “The Gauls’ own ships”: Caesar, Conquest of Gaul, 3.1 (p. 98).
 
-64.   English cod fishermen: Seaver, Frozen Echo, 181.
+89. “Perfectly equipped”: Ibid., 3.1 (p. 99).
 
-65.   Anglo-Saxon armies sailed north: Rodger, Safeguard of the Sea, 18-19.
+90. “To enable them to be loaded”: Ibid., 5.2 (pp. 128–29).
 
-66.   "since Angles and Saxons": Swanton, Anglo-Saxon Chronicles, Year 937 (pp. 109-10).
+91. Roman-era vessels: Höckmann, “Late Roman Rhine Vessels”; Höckmann, “Late Roman River Craft”; and Haywood, Dark Age Naval Power, 70–75.
 
-67.   Danegeld: Magnusson, Vikings, 186-88.
+92. “frame-based” shipbuilding: McGrail, “Romano-Celtic Boats and Ships,” 141.
 
-68.   Duchy of Normandy: Flodoard of Reims, Annals, pp. xx-xxii.
+93. “The shape of their ships”: Tacitus, Germania, 44 (p. 138).
 
-69.   Saint Patrick was enslaved: De Paor, Patrick, 22-26, 221, 227.
+94. migration under oars alone: Haywood, Dark Age Naval Power, 108–9.
 
-70.   Northumbrian who was taken: Bede, History, 4.23 (pp. 244-45).
+95. Sutton Hoo ship: Paine, Ships of the World, s.v. Sutton Hoo, citing Angela Care Evans, The Sutton Hoo Ship Burial (London: British Museum Press, 1986), and Edwin Gifford and Joyce Gifford, “The Sailing Performance of Anglo-Saxon Ships as Derived from the Building and Trials of Half-Scale Models of the Sutton Hoo and Graveney Ship Finds,” Mariner’s Mirror 82 (1996): 131–53.
 
-71.   "a precious garment": Oddr, Saga of Olaf Tryggvason, 7 (pp. 44- 45).
+96. more than twenty ships: Crumlin-Pedersen, “Boats and Ships of the Baltic Sea,” 235–42. In October 2011, archaeologists announced the find of a Viking burial with a five-meter-long vessel on the Ardnamurchan peninsula in western Scotland.
 
-72.   "He is captured": Warner of Rouen, Moriuht, 65-76 (p. 77); "full to bursting": 271-72 (p. 91); and "a quarter": 279 (p. 95).
+97. warhorses in ships: Bachrach, “On the Origins of William the Conqueror’s Horse Transports.”
 
-73.   massacre all the Danes: Magnusson, Vikings, 188.
+98. aesthetically dramatic: Sjövold, Oseberg Find; Brøgger and Sheltig, Viking Ships; and Christensen, “Proto-Viking, Viking and Norse Craft.”
 
-74.      "Leapt from the bloodied gunwales": Snorri Sturluson, King Harald's Saga, §63 (p. 114).
+99. ships scuttled off Skuldelev: Crumlin-Pedersen, “Skuldelev Ships”; Olsen and Crumlin-Pedersen, Five Viking Ships from Roskilde Fjord.
 
-75.   250 or more ships: De Vries, Norwegian Invasion, 241-42.
+100. “seventy-four ells”: Oddr, Saga of Olaf Tryggvason, 53 (p. 103). In early Iceland, an ell was about 49 centimeters, but it later measured 54–57 cm. See Dennis, Laws of Early Iceland, 244.
 
-76.   "travelled into England": Swanton, Anglo-Saxon Chronicles, Year 1085 (pp. 215-16).
+101. “had the ship painted”: Oddr, Saga of Olaf Tryggvason, 53 (p. 103).
 
-77.   cohorts of a hundred men: Tacitus, Germania, §6, 12 (pp. 106, 111).
+102. “On one side lions”: Campbell, Encomium Emmae Reginae, §4, 13.
 
-78.   Census of the Men of Alba: Haywood, Dark Age Naval Power, 91; Rodger, Safeguard of the Sea, 5.
+103. “such tackle as is needed”: Constantine Porphyrogenitus, De Administrando Imperio, 9 (p. 61).
 
-79.   levies of ships and men: Rodger, Safeguard of the Sea, 19-20; Hollister, Anglo-Saxon Military Institutions, 10-11, 38-39, 85, 115; and Jones, History of the Vikings, 93.
-
-80.   "No man younger": Oddr, Saga of Olaf Tryggvason, 53 (p. 104).
-
-81.   "Here William orders": Bayeux Tapestry. There is no text for the shipbuilding scene.
-
-82.      "gathered a greater ship-army": Swanton, Anglo-Saxon Chronicles, Year 1066 (pp. 194-96).
-
-83.   battle of Svold: Oddr, Saga of Olaf Tryggvason, 67-75 (pp. 118- 34); "much longer and higher": 70 (p. 124); "extensively reinforced": 72 (p. 126); and "posted small boats": 74 (p. 132).
-
-84.      line of development: Christensen, "Proto-Viking, Viking and Norse Craft," 72-75.
-
-85.      seventy miles per day: Carver, "Pre-Viking Traffic," 121; Haywood, Dark Age Naval Power, 107. A six-day (144-hour) passage from Shetland to Iceland yields a speed of 2.9 knots.
-
-86.   Broighter "boat": Cunliffe, Extraordinary Voyage, 103-5.
-
-87.      rig their hide boats: McGrail, "Boats and Boatmanship," 46; Cunliffe, Extraordinary Voyage, 119.
-
-88.   "The Gauls' own ships": Caesar, Conquest of Gaul, 3.1 (p. 98).
-
-89.   "Perfectly equipped": Ibid., 3.1 (p. 99).
-
-90.   "To enable them to be loaded": Ibid., 5.2 (pp. 128-29).
-
-91.      Roman-era vessels: Höckmann, "Late Roman Rhine Vessels"; Höckmann, "Late Roman River Craft"; and Haywood, Dark Age Naval Power, 70-75.
-
-92.   "frame-based" shipbuilding: McGrail, "Romano-Celtic Boats and Ships," 141.
-
-93.   "The shape of their ships": Tacitus, Germania, 44 (p. 138).
-
-94.   migration under oars alone: Haywood, Dark Age Naval Power, 108-9.
-
-95.   Sutton Hoo ship: Paine, Ships of the World, s.v. Sutton Hoo, citing Angela Care Evans, The Sutton Hoo Ship Burial (London: British Museum Press, 1986), and Edwin Gifford and Joyce Gifford, "The Sailing Performance of Anglo-Saxon Ships as Derived from the Building and Trials of Half-Scale Models of the Sutton Hoo and Graveney Ship Finds," Mariner's Mirror 82 (1996): 131-53.
-
-96.   more than twenty ships: Crumlin-Pedersen, "Boats and Ships of the Baltic Sea," 235-42. In October 2011, archaeologists announced the find of a Viking burial with a five-meter-long vessel on the Ardnamurchan peninsula in western Scotland.
-
-97.      warhorses in ships: Bachrach, "On the Origins of William the Conqueror's Horse Transports."
-
-98.      aesthetically dramatic: Sjövold, Oseberg Find; Brøgger and Sheltig, Viking Ships; and Christensen, "Proto-Viking, Viking and Norse Craft."
-
-99.      ships scuttled off Skuldelev: Crumlin-Pedersen, "Skuldelev Ships"; Olsen and Crumlin-Pedersen, Five Viking Ships from Roskilde Fjord.
-
-100.   "seventy-four ells": Oddr, Saga of Olaf Tryggvason, 53 (p. 103). In early Iceland, an ell was about 49 centimeters, but it later measured 54-57 cm. See Dennis, Laws of Early Iceland, 244.
-
-101.   "had the ship painted": Oddr, Saga of Olaf Tryggvason, 53 (p. 103).
-
-102.   "On one side lions": Campbell, Encomium Emmae Reginae, §4,
-
-13.
-
-103.      "such tackle as is needed": Constantine Porphyrogenitus, De Administrando Imperio, 9 (p. 61).
-
-104.   wine, that of Burgundy and the Seine: Wickham, Inheritance of Rome, 547.
+104. wine, that of Burgundy and the Seine: Wickham, Inheritance of Rome, 547.
 
 ### 10. The Silk Road of the Seas
 
-1.   "the king of the island of Rubies": Al-Baladhuri, Origins of the Islamic State, 2:215-17. See Hitti, History of the Arabs, 207-8. "Barks" is a translation of barija, a generic term for pirate ship. See Agius, Classic Ships of Islam, 328-30.
+1. “the king of the island of Rubies”: Al-Baladhuri, Origins of the Islamic State, 2:215–17. See Hitti, History of the Arabs, 207–8. “Barks” is a translation of barija, a generic term for pirate ship. See Agius, Classic Ships of Islam, 328–30.
 
-2.   "ships laden with men": Al-Baladhuri, Origins of the Islamic State, 2:217.
+2. “ships laden with men”: Al-Baladhuri, Origins of the Islamic State, 2:217.
 
-3.      "a water-front for the world": Al-Yaqubi, in Hourani, Arab Seafaring, 64.
+3. “a water-front for the world”: Al-Yaqubi, in Hourani, Arab Seafaring, 64.
 
-4.   "in a place between rivers": Al-Muqaddasi, Best Divisions, 100.
+4. “in a place between rivers”: Al-Muqaddasi, Best Divisions, 100.
 
-5.   "This is the Tigris": Al-Yaqubi, in Hourani, Arab Seafaring, 64.
+5. “This is the Tigris”: Al-Yaqubi, in Hourani, Arab Seafaring, 64.
 
-6.   "the frontier of India": Wink, Al-Hind, 1:53.
+6. “the frontier of India”: Wink, Al-Hind, 1:53.
 
-7.   Basra attracted shipping: Hitti, History of the Arabs, 241.
+7. Basra attracted shipping: Hitti, History of the Arabs, 241.
 
-8.   "Siraf nearly equaled Shiraz": Al-Istakhri, in Hadi Hasan, History of Persian Navigation, 115n3.
+8. “Siraf nearly equaled Shiraz”: Al-Istakhri, in Hadi Hasan, History of Persian Navigation, 115n3.
 
-9.   Zanj unrest: Al-Tabari, History of al-Tabari; Wink, Al-Hind, 1:30- 31; and Wilkinson, "Suhar," 893.
+9. Zanj unrest: Al-Tabari, History of al-Tabari; Wink, Al-Hind, 1:30–31; and Wilkinson, “Suhar,” 893.
 
-10.   Siraf was wracked: Wink, Al-Hind, 1:58.
+10. Siraf was wracked: Wink, Al-Hind, 1:58.
 
-11.      "all the merchandise": Ibn Khurdadhbih, Book of Roads and Provinces, in Wink, Al-Hind, 1:29.
+11. “all the merchandise”: Ibn Khurdadhbih, Book of Roads and Provinces, in Wink, Al-Hind, 1:29.
 
-12.      port of Aydhab: Peacock and Peacock, "Enigma of 'Aydhab"; Brett, Rise of the Fatimids, 273; and Nasir-i Khusraw, Book of Travels, 85-87.
+12. port of Aydhab: Peacock and Peacock, “Enigma of ’Aydhab”; Brett, Rise of the Fatimids, 273; and Nasir-i Khusraw, Book of Travels, 85–87.
 
-13.      Omani traders: Risso, Merchants and Faith, 14; Wilkinson, "Oman and East Africa," 278.
+13. Omani traders: Risso, Merchants and Faith, 14; Wilkinson, “Oman and East Africa,” 278.
 
-14.   impressive size: Blench, "Ethnographic Evidence," 439-41.
+14. impressive size: Blench, “Ethnographic Evidence,” 439–41.
 
-15.   Swahili culture: Spear, "Early Swahili History," 271-75.
+15. Swahili culture: Spear, “Early Swahili History,” 271–75.
 
-16.   Shanga: Ibid., 261-63. A Friday mosque (jama'a) is a city's main mosque, as distinct from a smaller, local mosque (masjid).
+16. Shanga: Ibid., 261–63. A Friday mosque (jama’a) is a city’s main mosque, as distinct from a smaller, local mosque (masjid).
 
-17.   town of Kilwa: Chittick, Kilwa, 13-17 and passim.
+17. town of Kilwa: Chittick, Kilwa, 13–17 and passim.
 
-18.      "welcomed hospitably": Al-Idrisi, The Delight of Him, in di Meglio, "Arab Trade," 113. Some feel trade between Southeast Asia and Africa is "rather improbable," notably Chittick, "East African Trade with the Orient," 103.
+18. “welcomed hospitably”: Al-Idrisi, The Delight of Him, in di Meglio, “Arab Trade,” 113. Some feel trade between Southeast Asia and Africa is “rather improbable,” notably Chittick, “East African Trade with the Orient,” 103.
 
-19.   Chinese ceramics: Rougeulle, "Medieval Trade," 159.
+19. Chinese ceramics: Rougeulle, “Medieval Trade,” 159.
 
-20.   2.5 million black Africans: Davis, Slavery and Human Progress, 42-46.
+20. 2.5 million black Africans: Davis, Slavery and Human Progress, 42–46.
 
-21.   "a trade that was excellent": Buzurg ibn Shahriyar, Book of the Wonders of India, 32 (pp. 31-36).
+21. “a trade that was excellent”: Buzurg ibn Shahriyar, Book of the Wonders of India, 32 (pp. 31–36).
 
-22.   stories take place: Ibid., xvii-xviii.
+22. stories take place: Ibid., xvii–xviii.
 
-23.   "escaped the customs": Ibid., 83 (p. 76).
+23. “escaped the customs”: Ibid., 83 (p. 76).
 
-24.      "the port to al-Bahrain": Al-Baladhuri, Origins of the Islamic State, 2:53. See Wink, Al-Hind, 1:97.
+24. “the port to al-Bahrain”: Al-Baladhuri, Origins of the Islamic State, 2:53. See Wink, Al-Hind, 1:97.
 
-25.   "fixed the date": Yijing, Record of the Buddhist Religion, xxviii.
+25. “fixed the date”: Yijing, Record of the Buddhist Religion, xxviii.
 
-26.      Vajrabodhi sailed: Chou, "Tantrism in China," 274-75; Sen, Buddhism, Diplomacy and Trade, 26-27.
+26. Vajrabodhi sailed: Chou, “Tantrism in China,” 274–75; Sen, Buddhism, Diplomacy and Trade, 26–27.
 
-27.      "The inhabitants being": Huichao [Hwi Cao], in Hadi Hasan, History of Persian Navigation, 103-4.
+27. “The inhabitants being”: Huichao [Hwi Cao], in Hadi Hasan, History of Persian Navigation, 103–4.
 
-28.   "the goods are carried": Sulayman, Account of China and India, 13 (p. 38).
+28. “the goods are carried”: Sulayman, Account of China and India, 13 (p. 38).
 
-29.   "Chinese boats": Hourani, Arab Seafaring, 75.
+29. “Chinese boats”: Hourani, Arab Seafaring, 75.
 
-30.   kingdom of "Zabaj": Arabic accounts refer to Kalah and al-Zabaj over many centuries. Kalah referred to Takuapa, on the west coast of the Malay Peninsula, until the eleventh century, after which it was used of Kedah, to the south. Al-Zabaj probably refers to Java until 860, when a younger member of the Sailendra Dynasty of Java established himself on the throne of the Srivijaya kingdom at Palembang, Sumatra. The Sailendras of Java were out of power by the tenth century, and subsequent references to al-Zabaj probably indicate Sumatra. See Hall, Maritime Trade, 200; and Tibbetts, Study of the Arabic Texts, 107, 118-28.
+30. kingdom of “Zabaj”: Arabic accounts refer to Kalah and al-Zabaj over many centuries. Kalah referred to Takuapa, on the west coast of the Malay Peninsula, until the eleventh century, after which it was used of Kedah, to the south. Al-Zabaj probably refers to Java until 860, when a younger member of the Sailendra Dynasty of Java established himself on the throne of the Srivijaya kingdom at Palembang, Sumatra. The Sailendras of Java were out of power by the tenth century, and subsequent references to al-Zabaj probably indicate Sumatra. See Hall, Maritime Trade, 200; and Tibbetts, Study of the Arabic Texts, 107, 118–28.
 
-31.   Major changes: Wink, Al-Hind, 1:225, 230, 256.
+31. Major changes: Wink, Al-Hind, 1:225, 230, 256.
 
-32.   "lord of both": Keay, India, 170. On medieval India, see Keay, India, 160-74; and Thapar, Early India, 328-30.
+32. “lord of both”: Keay, India, 170. On medieval India, see Keay, India, 160–74; and Thapar, Early India, 328–30.
 
-33.   the Palas exerted: Wink, Al-Hind, 1:270.
+33. the Palas exerted: Wink, Al-Hind, 1:270.
 
-34.   ports in Gujarat and Konkan: Ibid., 1:304-6.
+34. ports in Gujarat and Konkan: Ibid., 1:304–6.
 
-35.   Saymur had a population: Ahmad, "Travels of … al-Mas'udi," 511; Wink, Al-Hind, 1:68-72, 76.
+35. Saymur had a population: Ahmad, “Travels of … al-Mas’udi,” 511; Wink, Al-Hind, 1:68–72, 76.
 
-36.   "one whose wealth": Chakravarti, "Nakhudas and Nauvittakas," 37, 39-40.
+36. “one whose wealth”: Chakravarti, “Nakhudas and Nauvittakas,” 37, 39–40.
 
-37.      Mappila: Wink, Al-Hind, 1:72. On "temporary marriage," see Shahla Haeri, Law of Desire: Temporary Marriage in Iran (London: Tauris, 1989).
+37. Mappila: Wink, Al-Hind, 1:72. On “temporary marriage,” see Shahla Haeri, Law of Desire: Temporary Marriage in Iran (London: Tauris, 1989).
 
-38.   "to be admitted": Lord, Display of Two Forraigne Sects, 3 (with modernized spelling).
+38. “to be admitted”: Lord, Display of Two Forraigne Sects, 3 (with modernized spelling).
 
-39.      Chola Kingdom of Tamil Nadu, "Naval Expeditions of the Cholas," 2.
+39. Chola Kingdom of Tamil Nadu, “Naval Expeditions of the Cholas,” 2.
 
-40.   merchant guilds: Mukund, Trading World of the Tamil Merchant, 25-41; Guy, "Tamil Merchant Guilds," 295-302; Clark, "Muslims and Hindus in Quanzhou," 63-65; and Wade, "Early Age of Commerce," 236-37.
+40. merchant guilds: Mukund, Trading World of the Tamil Merchant, 25–41; Guy, “Tamil Merchant Guilds,” 295–302; Clark, “Muslims and Hindus in Quanzhou,” 63–65; and Wade, “Early Age of Commerce,” 236–37.
 
-41.   strategic patronage of Buddhism: Spencer, Politics of Expansion, 144-45.
+41. strategic patronage of Buddhism: Spencer, Politics of Expansion, 144–45.
 
-42.      Southeast Asian rulers: Sen, Buddhism, Diplomacy and Trade,
+42. Southeast Asian rulers: Sen, Buddhism, Diplomacy and Trade, 220.
 
-220.
+43. “There are certain Indians”: Abu Zayd, Concerning the Voyage, 98–99.
 
-43.   "There are certain Indians": Abu Zayd, Concerning the Voyage, 98-99.
+44. banias: Wink, Al-Hind, 1:75.
 
-44.   banias: Wink, Al-Hind, 1:75.
+45. Indian sources: Jacq-Hergoualc’h, The Malay Peninsula, 270.
 
-45.   Indian sources: Jacq-Hergoualc'h, The Malay Peninsula, 270.
+46. “There are, among the Indians”: Abu Zayd, Concerning the Voyage, 89.
 
-46.      "There are, among the Indians": Abu Zayd, Concerning the Voyage, 89.
+47. “I am taken with a desire”: Ibid., 64–68.
 
-47.   "I am taken with a desire": Ibid., 64-68.
+48. “most likely to rebel”: Telaga Batu inscription, in Casparis, Selected Inscriptions, 37, 39. See Hall, Maritime Trade, 98–99; and Hall, “Economic History of Early Southeast Asia,” 201.
 
-48.      "most likely to rebel": Telaga Batu inscription, in Casparis, Selected Inscriptions, 37, 39. See Hall, Maritime Trade, 98-99; and Hall, "Economic History of Early Southeast Asia," 201.
+49. thirty-seven monks: Jacq-Hergoualc’h, The Malay Peninsula, 194.
 
-49.      thirty-seven monks: Jacq-Hergoualc'h, The Malay Peninsula,
+50. “the pair of sails”: Yijing, Record of the Buddhist Religion, xxx.
 
-194.
+51. “a recess of the sea”: Xuanzang, Si-Yu-Ki: Buddhist Records of the Western World, 2:200–201. A Chinese Buddhist pilgrim and translator, Xuanzang spent seventeen years (630–647) in India, to and from which he traveled overland.
 
-50.   "the pair of sails": Yijing, Record of the Buddhist Religion, xxx.
+52. on the Malay Peninsula; Jacq-Hergoualc’h, The Malay Peninsula, 107–16; 161–66; 339–40, 350, 399–402.
 
-51.   "a recess of the sea": Xuanzang, Si-Yu-Ki: Buddhist Records of the Western World, 2:200-201. A Chinese Buddhist pilgrim and translator, Xuanzang spent seventeen years (630-647) in India, to and from which he traveled overland.
+53. Yet it is the west coast: Ibid., 337, 347.
 
-52.   on the Malay Peninsula; Jacq-Hergoualc'h, The Malay Peninsula, 107-16; 161-66; 339-40, 350, 399-402.
+54. Kedu plain: Hall, “Economic History of Early Southeast Asia,” 202–4.
 
-53.   Yet it is the west coast: Ibid., 337, 347.
+55. moved eastward: Hall, Maritime Trade, 110–13, 120–27.
 
-54.   Kedu plain: Hall, "Economic History of Early Southeast Asia," 202-4.
+56. presence of foreigners: Wade, “Early Age of Commerce,” 251.
 
-55.   moved eastward: Hall, Maritime Trade, 110-13, 120-27.
+57. East Java: Hall, “Economic History of Early Southeast Asia,” 208–15.
 
-56.   presence of foreigners: Wade, "Early Age of Commerce," 251.
+58. “Of all the wealthy foreign lands”: Chou K’u-fei [Zhou Qufei], Ling-wai-tai-ta (1178), in Zhao Rugua, On the Chinese and Arab Trade, 23. See Hall, Maritime Trade, 195.
 
-57.      East Java: Hall, "Economic History of Early Southeast Asia," 208-15.
+59. “nutmegs must be able”: In Hall, “Economic History of Early Southeast Asia,” 209. See Boomgaard, Southeast Asia, 182. “Clove” comes from the Latin clavis, meaning nail, from the shape of the dried bud.
 
-58.   "Of all the wealthy foreign lands": Chou K'u-fei [Zhou Qufei], Ling-wai-tai-ta (1178), in Zhao Rugua, On the Chinese and Arab Trade, 23. See Hall, Maritime Trade, 195.
+60. “the like of which”: Sulayman, Account of India and China, 28 (p. 44).
 
-59.      "nutmegs must be able": In Hall, "Economic History of Early Southeast Asia," 209. See Boomgaard, Southeast Asia, 182. "Clove" comes from the Latin clavis, meaning nail, from the shape of the dried bud.
+61. “dispatched many ships”: In Spencer, Politics of Expansion, 138–39. The ports are identified in Christie, “Medieval Tamil-Language Inscriptions,” 254n56. On motives, see Kulke, “Naval Expeditions of the Cholas,” 1–2.
 
-60.   "the like of which": Sulayman, Account of India and China, 28 (p. 44).
+62. “oblations to the sea”: In Chandra, Trade and Trade Routes in Ancient India, 214–21.
 
-61.   "dispatched many ships": In Spencer, Politics of Expansion, 138-
+63. trade missions from Srivijaya: Wade, “Early Age of Commerce,” 227.
 
-39. The ports are identified in Christie, "Medieval TamilLanguage Inscriptions," 254n56. On motives, see Kulke, "Naval Expeditions of the Cholas," 1-2.
+64. attacks did loosen: Kulke, “Naval Expeditions of the Cholas,” 10; Lieberman, Strange Parallels, 2:776; and Zhao Rugua, On the Chinese and Arab Trade, 23.
 
-62.   "oblations to the sea": In Chandra, Trade and Trade Routes in Ancient India, 214-21.
+65. Buddhist monks from Pagan: Hall, Maritime Trade, 199; Aung-Thwin, Mists of Ramañña, 257–58, 300–306.
 
-63.   trade missions from Srivijaya: Wade, "Early Age of Commerce,"
+66. Our assumptions: McGrail, Boats of the World, 272: “The Indian sewn-plank boat can be traced back only to the early sixteenth century. Since sewn boats were used in east Africa, Arabia, and south-east Asia in the late first millennium bc/early first millennium ad, it is reasonable to suggest that there may have been similar early use in India: the evidence, however, is lacking.” See also Tomalin et al., “Thaikkal-Kadakkarappally Boat,” 257.
 
-227.
+67. “stairways for loading”: Li Zhao, Tang Guo Shi Bu (Supplemental History of the Tang State), in Gunawardana, “Changing Patterns of Navigation,” 65.
 
-64.   attacks did loosen: Kulke, "Naval Expeditions of the Cholas," 10; Lieberman, Strange Parallels, 2:776; and Zhao Rugua, On the Chinese and Arab Trade, 23.
+68. The Belitung ship: Flecker, “A Ninth-Century ad Arab or Indian Shipwreck in Indonesia.” On sewn planks, see above, chap. 6. On the woods used, see Flecker, “A Ninth-Century ad Arab or Indian Shipwreck in Indonesia: Addendum.”
 
-65.   Buddhist monks from Pagan: Hall, Maritime Trade, 199; AungThwin, Mists of Ramañña, 257-58, 300-306.
+69. “There are people, at Oman”: Abu Zayd, Concerning the Voyage, 89.
 
-66.   Our assumptions: McGrail, Boats of the World, 272: "The Indian sewn-plank boat can be traced back only to the early sixteenth century. Since sewn boats were used in east Africa, Arabia, and south-east Asia in the late first millennium bc/early first millennium ad, it is reasonable to suggest that there may have been similar early use in India: the evidence, however, is lacking." See also Tomalin et al., "Thaikkal-Kadakkarappally Boat," 257.
+70. “This oil”: Ibid., 95, reading “preserving” for the translator’s “caulking.”
 
-67.   "stairways for loading": Li Zhao, Tang Guo Shi Bu (Supplemental History of the Tang State), in Gunawardana, "Changing Patterns of Navigation," 65.
+71. nura: Margariti, Aden, 56–57, 161.
 
-68.   The Belitung ship: Flecker, "A Ninth-Century ad Arab or Indian Shipwreck in Indonesia." On sewn planks, see above, chap. 6. On the woods used, see Flecker, "A Ninth-Century ad Arab or Indian Shipwreck in Indonesia: Addendum."
+72. “iron should not”: In Chaudhuri, “Ship-Building in the Yuktikalpataru,” 140.
 
-69.   "There are people, at Oman": Abu Zayd, Concerning the Voyage,
+73. “no iron [should be] used”: Mookerji, Indian Shipping, 21. See Tomalin et al., “Thaikkal-Kadakkarappally Boat,” 257–58.
 
-89.
+74. “special vessels”: In Chaudhuri, “Ship-Building in the Yuktikalpataru,” 140–41.
 
-70.      "This oil": Ibid., 95, reading "preserving" for the translator's "caulking."
+75. the importance of iron: McPherson, Indian Ocean, 115–18.
 
-71.   nura: Margariti, Aden, 56-57, 161.
+76. Thaikkal-Kadakkarappally boat: Tomalin et al., “Thaikkal-Kadakkarappally Boat,” 259–62.
 
-72.      "iron should not": In Chaudhuri, "Ship-Building in the Yuktikalpataru," 140.
+77. “If a rock”: Al-Muqaddasi, Best Divisions, 11. See Agius, Classic Ships of Islam, 204–5, and, on the busi, 282–83; and Mott, Development of the Rudder, 121.
 
-73.   "no iron [should be] used": Mookerji, Indian Shipping, 21. See Tomalin et al., "Thaikkal-Kadakkarappally Boat," 257-58.
+78. hero stones: Tripati, “Ships on Hero Stones from the West Coast of India”; Mott, Development of the Rudder, 106–19. The hero stone inscriptions are illegible and nothing is known of the actions depicted.
 
-74.      "special vessels": In Chaudhuri, "Ship-Building in the Yuktikalpataru," 140-41.
+79. “the largest and most elaborate”: Miksic, Borobudur, 18, 40.
 
-75.   the importance of iron: McPherson, Indian Ocean, 115-18.
+80. five ships: Together with archaeological and modern ethnographic evidence, the carvings of the outrigger ships were a source for the design and construction of a vessel that sailed from Java to Ghana via the Seychelles, northern Madagascar, and Cape Town, between August 2003 and February 2004, with a total of 151 days at sea.
 
-76.      Thaikkal-Kadakkarappally boat: Tomalin et al., "ThaikkalKadakkarappally Boat," 259-62.
+81. obstacles against enemy boarders: Burningham, “Borobudur Ship,” and personal communication.
 
-77.   "If a rock": Al-Muqaddasi, Best Divisions, 11. See Agius, Classic Ships of Islam, 204-5, and, on the busi, 282-83; and Mott, Development of the Rudder, 121.
+82. “They say that once”: Nasir-i Khusraw, Book of Travels, 121.
 
-78.   hero stones: Tripati, "Ships on Hero Stones from the West Coast of India"; Mott, Development of the Rudder, 106-19. The hero stone inscriptions are illegible and nothing is known of the actions depicted.
+83. “In this sea”: Al-Istakhri, al-Aqalim, in Naji, “Trade Relations,” 432. Jannaba was a port on the coast of Fars north of Bandar Rig (29°28N, 50°37E). According to the twelfth-century Persian geographer Ibn al-Balkhi’s Description of the Province of Fars, “in Persian they call it Ganfah, which signifies ‘Stinking Water.’ Now, a city that has ‘Stinking Water’ for its name must be described as of an evil stinking character, and therefore there is no occasion to speak of its condition.”
 
-79.   "the largest and most elaborate": Miksic, Borobudur, 18, 40.
+84. “At dawn”: Nasir-i Khusraw, Book of Travels, 122–23.
 
-80.   five ships: Together with archaeological and modern ethnographic evidence, the carvings of the outrigger ships were a source for the design and construction of a vessel that sailed from Java to Ghana via the Seychelles, northern Madagascar, and Cape Town, between August 2003 and February 2004, with a total of 151 days at sea.
+85. “Upon the whole coast”: Abu Zayd, Concerning the Voyage, 93.
 
-81.      obstacles against enemy boarders: Burningham, "Borobudur Ship," and personal communication.
+86. “after studying”: In Chandra, Trade and Trade Routes in Ancient India, 217, 221.
 
-82.   "They say that once": Nasir-i Khusraw, Book of Travels, 121.
+87. “shipmasters, cargo masters”: Al-Muqaddasi, Best Divisions, 9.
 
-83.   "In this sea": Al-Istakhri, al-Aqalim, in Naji, "Trade Relations,"
+88. Ahmad ibn Majid: Tibbetts, Arab Navigation, 7–9. For a concise overview of Arabic navigation and navigation guides in this period, see Agius, Classic Ships of Islam, 187–202.
 
-432. Jannaba was a port on the coast of Fars north of Bandar Rig (29°28N, 50°37E). According to the twelfth-century Persian geographer Ibn al-Balkhi's Description of the Province of Fars, "in Persian they call it Ganfah, which signifies 'Stinking Water.' Now, a city that has 'Stinking Water' for its name must be described as of an evil stinking character, and therefore there is no occasion to speak of its condition."
-
-84.   "At dawn": Nasir-i Khusraw, Book of Travels, 122-23.
-
-85.   "Upon the whole coast": Abu Zayd, Concerning the Voyage, 93.
-
-86.   "after studying": In Chandra, Trade and Trade Routes in Ancient India, 217, 221.
-
-87.   "shipmasters, cargo masters": Al-Muqaddasi, Best Divisions, 9.
-
-88.   Ahmad ibn Majid: Tibbetts, Arab Navigation, 7-9. For a concise overview of Arabic navigation and navigation guides in this period, see Agius, Classic Ships of Islam, 187-202.
-
-89.   "the risings and settings": Ahmad ibn Majid, in Tibbetts, Arab Navigation, 77.
+89. “the risings and settings”: Ahmad ibn Majid, in Tibbetts, Arab Navigation, 77.
 
 ### 11. China Looks Seaward
 
-1.      Tang cargo: Flecker, "A Ninth-Century ad Arab or Indian Shipwreck in Indonesia"; Zheng, China on the Sea, 1, 6, 33; and Worrall, "China Made."
+1. Tang cargo: Flecker, “A Ninth-Century ad Arab or Indian Shipwreck in Indonesia”; Zheng, China on the Sea, 1, 6, 33; and Worrall, “China Made.”
 
-2.   five canals: Xiong, Sui Tang Chang'an, 205-7.
+2. five canals: Xiong, Sui Tang Chang’an, 205–7.
 
-3.   Tang Gaozong, attacked Goguryeo: Twitchett and Wechsler, "Kaotsung and the Empress Wu," 282-85; Lee, Korea and East Asia, 17, 66-68; and Graff, Medieval Chinese Warfare, 198-200.
+3. Tang Gaozong, attacked Goguryeo: Twitchett and Wechsler, “Kao-tsung and the Empress Wu,” 282–85; Lee, Korea and East Asia, 17, 66–68; and Graff, Medieval Chinese Warfare, 198–200.
 
-4.   "King Pungjang": Nihongi, "Tenchi," 27.7-8 (663 ce) vol. 2:280. See Mitsusada and Brown, "Century of Reform," 207.
+4. “King Pungjang”: Nihongi, “Tenchi,” 27.7–8 (663 ce) vol. 2:280. See Mitsusada and Brown, “Century of Reform,” 207.
 
-5.   state of Balhae: Twitchett, "Hsüan-tsung," 430; Lee, New History of Korea, 71-73.
+5. state of Balhae: Twitchett, “Hsüan-tsung,” 430; Lee, New History of Korea, 71–73.
 
-6.   droughts and famines: Twitchett and Wechsler, "Kao-tsung and the Empress Wu," 277-79.
+6. droughts and famines: Twitchett and Wechsler, “Kao-tsung and the Empress Wu,” 277–79.
 
-7.   renewal of the canal system: Twitchett, Financial Administration Under the T'ang, 87-89; Pulleyblank, Background of the Rebellion of An Lu-shan, 34-35, 183-87.
+7. renewal of the canal system: Twitchett, Financial Administration Under the T’ang, 87–89; Pulleyblank, Background of the Rebellion of An Lu-shan, 34–35, 183–87.
 
-8.   China was also resurgent: Grousset, Empire of the Steppes, 114- 20; Twitchett, "Hsüan-tsung," 444.
+8. China was also resurgent: Grousset, Empire of the Steppes, 114–20; Twitchett, “Hsüan-tsung,” 444.
 
-9.   occupied the strategic region: Taylor, Birth of Vietnam, 195.
+9. occupied the strategic region: Taylor, Birth of Vietnam, 195.
 
-10.   attack on the Khitan: Pulleyblank, Background of the Rebellion of An Lu-shan, 97-99.
+10. attack on the Khitan: Pulleyblank, Background of the Rebellion of An Lu-shan, 97–99.
 
-11.   Hebei and Henan: Dalby, "Court Politics in Late T'ang Times," 562; Twitchett, "Hsüan-tsung," 457.
+11. Hebei and Henan: Dalby, “Court Politics in Late T’ang Times,” 562; Twitchett, “Hsüan-tsung,” 457.
 
-12.   "destroy the warehouses": Clark, "Frontier Discourse and China's Maritime Frontier," 27.
+12. “destroy the warehouses”: Clark, “Frontier Discourse and China’s Maritime Frontier,” 27.
 
-13.   number of ships: Wang, Nanhai Trade, 76.
+13. number of ships: Wang, Nanhai Trade, 76.
 
-14.   permanently weakened: Peterson, "Court and Province," 484-86.
+14. permanently weakened: Peterson, “Court and Province,” 484–86.
 
-15.   illegal ordinations: Wechsler, "T'ai-tsung the Consolidator," 218.
+15. illegal ordinations: Wechsler, “T’ai-tsung the Consolidator,” 218.
 
-16.      The Koreans in China: Reischauer, Ennin's Travels, 281-87. Although traders from Silla dominated the trade, the port of Tengzhou on the north coast of the Shandong Peninsula had separate inns to serve travelers arriving by sea from Balhae and Silla, and Ennin noted the arrival of a ship from Balhae on the Shandong Peninsula in 839 (p. 141). See Lee, New History of Korea, 94-95.
+16. The Koreans in China: Reischauer, Ennin’s Travels, 281–87. Although traders from Silla dominated the trade, the port of Tengzhou on the north coast of the Shandong Peninsula had separate inns to serve travelers arriving by sea from Balhae and Silla, and Ennin noted the arrival of a ship from Balhae on the Shandong Peninsula in 839 (p. 141). See Lee, New History of Korea, 94–95.
 
-17.   Jang Bogo: The details of his life story are not very clear, and there is disagreement over how and when he was killed, the date for which falls between 841 and 846. For Ennin's letter of thanks for the offer of passage to Yangzhou, Ennin's Diary 840-2-17 (pp. 166-67 and p. 100n438); Reischauer, Ennin's Travels, 287; Lee, New History of Korea, 95-97; and Henthorn, History of Korea, 79-81.
+17. Jang Bogo: The details of his life story are not very clear, and there is disagreement over how and when he was killed, the date for which falls between 841 and 846. For Ennin’s letter of thanks for the offer of passage to Yangzhou, Ennin’s Diary 840-2-17 (pp. 166–67 and p. 100n438); Reischauer, Ennin’s Travels, 287; Lee, New History of Korea, 95–97; and Henthorn, History of Korea, 79–81.
 
-18.   Wang Geon: Lee, New History of Korea, 91, 95-96, 100-103, where the names are given as Chakchegon and Wang Kon.
+18. Wang Geon: Lee, New History of Korea, 91, 95–96, 100–103, where the names are given as Chakchegon and Wang Kon.
 
-19.      "There are several hundred Chinese": In Shiba and Elvin, Commerce and Society in Sung China, 187.
+19. “There are several hundred Chinese”: In Shiba and Elvin, Commerce and Society in Sung China, 187.
 
-20.   via Chinese ports: Henthorn, History of Korea, 100.
+20. via Chinese ports: Henthorn, History of Korea, 100.
 
-21.   pirates in gangs: Peterson, "Court and Province," 555; Somers, "End of the T'ang," 684-85, 689-91.
+21. pirates in gangs: Peterson, “Court and Province,” 555; Somers, “End of the T’ang,” 684–85, 689–91.
 
-22.   "that the markets": Ouyang Xiu, Biography of Huang Chao, 3a (p. 18).
+22. “that the markets”: Ouyang Xiu, Biography of Huang Chao, 3a (p. 18).
 
-23.   120,000 Muslim, Jewish, Christian, and Persian merchants: Abu Zayd, 41-42. See Clark, "Muslims and Hindus in Quanzhou," 55.
+23. 120,000 Muslim, Jewish, Christian, and Persian merchants: Abu Zayd, 41–42. See Clark, “Muslims and Hindus in Quanzhou,” 55.
 
-24.   "Communication with the southeast": Wei Zhuang, "Lament of the Lady of Qin," ll. 127-31.
+24. “Communication with the southeast”: Wei Zhuang, “Lament of the Lady of Qin,” ll. 127–31.
 
-25.   "tyrannizing those of the merchants": Abu Zayd, Concerning the Voyage, in Levy, Biography of Huang Ch'ao, 117, 119-20. See Wang, Nanhai Trade, 78-79.
+25. “tyrannizing those of the merchants”: Abu Zayd, Concerning the Voyage, in Levy, Biography of Huang Ch’ao, 117, 119–20. See Wang, Nanhai Trade, 78–79.
 
-26.   Five Dynasties and Ten Kingdoms: Mote, Imperial China, 8-14.
+26. Five Dynasties and Ten Kingdoms: Mote, Imperial China, 8–14.
 
-27.   importance of urbanization: Ibid., 164-65.
+27. importance of urbanization: Ibid., 164–65.
 
-28.   The Song purchased peace: Ibid., 116, 369.
+28. The Song purchased peace: Ibid., 116, 369.
 
-29.   forcibly relocated from Chang'an: Benn, China's Golden Age, 46.
+29. forcibly relocated from Chang’an: Benn, China’s Golden Age, 46.
 
-30.   "Giao [Jiaozhou] is a large frontier region": In Taylor, Birth of Vietnam, 183.
+30. “Giao [Jiaozhou] is a large frontier region”: In Taylor, Birth of Vietnam, 183.
 
-31.      "tried to cheat them": [Xin] Tang Shu, 4.1b, in Wang, Nanhai Trade, 73.
+31. “tried to cheat them”: [Xin] Tang Shu, 4.1b, in Wang, Nanhai Trade, 73.
 
-32.   "ferocious, pitiless": In Hall, Maritime Trade, 179. This raid of 774 was followed by another in 787. Phan Rang is 150 miles northeast of the Mekong delta and Nha Trang 50 miles beyond Phan Rang.
+32. “ferocious, pitiless”: In Hall, Maritime Trade, 179. This raid of 774 was followed by another in 787. Phan Rang is 150 miles northeast of the Mekong delta and Nha Trang 50 miles beyond Phan Rang.
 
-33.   "The merchants of distant kingdoms": Sima Guang, Zi Zhi Tong Jian [Mirror of History], 234, vol. 12:596, in Taylor, Birth of Vietnam, 208.
+33. “The merchants of distant kingdoms”: Sima Guang, Zi Zhi Tong Jian [Mirror of History], 234, vol. 12:596, in Taylor, Birth of Vietnam, 208.
 
-34.   the armies of Nanzhao: Taylor, Birth of Vietnam, 245.
+34. the armies of Nanzhao: Taylor, Birth of Vietnam, 245.
 
-35.   "You must give up hope": In Li, "View from the Sea," 84n2.
+35. “You must give up hope”: In Li, “View from the Sea,” 84n2.
 
-36.   "Banish distress": Le Tac, Annam Chi Luoc 104, in Taylor, Birth of Vietnam, 252.
+36. “Banish distress”: Le Tac, Annam Chi Luoc 104, in Taylor, Birth of Vietnam, 252.
 
-37.   "How can a great man": In Taylor, Birth of Vietnam, 280.
+37. “How can a great man”: In Taylor, Birth of Vietnam, 280.
 
-38.   "merchant boats": In ibid., 287.
+38. “merchant boats”: In ibid., 287.
 
-39.   not bothered to name: Whitmore, "Rise of the Coast," 105.
+39. not bothered to name: Whitmore, “Rise of the Coast,” 105.
 
-40.   Van Don became: Ibid., 109-10.
+40. Van Don became: Ibid., 109–10.
 
-41.      "fish and vegetables mostly uncooked": Yijing, Record of the Buddhist Religion. On Tang cookery generally, see Schafer, Golden Peaches of Samarkand, 139-54.
+41. “fish and vegetables mostly uncooked”: Yijing, Record of the Buddhist Religion. On Tang cookery generally, see Schafer, Golden Peaches of Samarkand, 139–54.
 
-42.   "His Majesty": In Kuwabara, "On P'u Shou-keng," 6.
+42. “His Majesty”: In Kuwabara, “On P’u Shou-keng,” 6.
 
-43.   China's bulkiest imports: Schafer, Golden Peaches of Samarkand; birds: 100-102; cuisine: 140; elephants: 81-84; incense, 157-62; musicians: 56; and sandalwood and rosewood: 134-38.
+43. China’s bulkiest imports: Schafer, Golden Peaches of Samarkand; birds: 100–102; cuisine: 140; elephants: 81–84; incense, 157–62; musicians: 56; and sandalwood and rosewood: 134–38.
 
-44.      easing of official attitudes: Shiba and Elvin, Commerce and Society in Sung China, 127-29.
+44. easing of official attitudes: Shiba and Elvin, Commerce and Society in Sung China, 127–29.
 
-45.   "memorial-presenting courts": Lien-sheng, Money and Credit in China, 51-56.
+45. “memorial-presenting courts”: Lien-sheng, Money and Credit in China, 51–56.
 
-46.   office of maritime affairs--shibosi: So, Prosperity, Region and Institutions, 36. Shibosi (shih-po-ssu) is also translated as "bureau of the maritime trade superintendent" (Chin, "Ports, Merchants, Chieftains and Eunuchs," 236), "superintendent of the trading ships" (Kuwabara, "On P'u Shou-keng"), "superintendent of the shipping trade" (Wang, Nanhai Trade, 94), "trade superintendency" (Clark, Community, Trade and Networks, 169), and "maritime trade bureau" (Zheng, China on the Sea, 32).
+46. office of maritime affairs—shibosi: So, Prosperity, Region and Institutions, 36. Shibosi (shih-po-ssu) is also translated as “bureau of the maritime trade superintendent” (Chin, “Ports, Merchants, Chieftains and Eunuchs,” 236), “superintendent of the trading ships” (Kuwabara, “On P’u Shou-keng”), “superintendent of the shipping trade” (Wang, Nanhai Trade, 94), “trade superintendency” (Clark, Community, Trade and Networks, 169), and “maritime trade bureau” (Zheng, China on the Sea, 32).
 
-47.      "argosies of the Brahmans": In Schafer, Golden Peaches of Samarkand, 15. Posthumously known as "The Great Teacher Who Crossed the Sea," Jianzhen was on his fifth of sixth attempts to reach Japan, where he died in 763.
+47. “argosies of the Brahmans”: In Schafer, Golden Peaches of Samarkand, 15. Posthumously known as “The Great Teacher Who Crossed the Sea,” Jianzhen was on his fifth of sixth attempts to reach Japan, where he died in 763.
 
-48.   variety of responsibilities: So, Prosperity, Region and Institutions, 42-49.
+48. variety of responsibilities: So, Prosperity, Region and Institutions, 42–49.
 
-49.   Kyushu Headquarters (Dazaifu): Verschuer, Across the Perilous Sea, 34-35.
+49. Kyushu Headquarters (Dazaifu): Verschuer, Across the Perilous Sea, 34–35.
 
-50.   lack of trade missions: Bielenstein, Diplomacy and Trade, 106, 124, 138, 144; Verschuer, Across the Perilous Sea, 34.
+50. lack of trade missions: Bielenstein, Diplomacy and Trade, 106, 124, 138, 144; Verschuer, Across the Perilous Sea, 34.
 
-51.   "Typhoons for winds": Han Yu, in Schafer, Vermilion Bird, 128.
+51. “Typhoons for winds”: Han Yu, in Schafer, Vermilion Bird, 128.
 
-52.      "Whenever the barbarian": Wuguo Gushi, 2.10a, in So, Prosperity, Region and Institutions, 25.
+52. “Whenever the barbarian”: Wuguo Gushi, 2.10a, in So, Prosperity, Region and Institutions, 25.
 
-53.      "the port was clogged": In Clark, "Muslims and Hindus in Quanzhou," 60.
+53. “the port was clogged”: In Clark, “Muslims and Hindus in Quanzhou,” 60.
 
-54.   10 percent: Clark, "Muslims and Hindus in Quanzhou," 58.
+54. 10 percent: Clark, “Muslims and Hindus in Quanzhou,” 58.
 
-55.   fourth shibosi: Kuwabara, "On P'u Shou-keng," 2-3, 19-20; So, Prosperity, Region and Institutions, 48-49.
+55. fourth shibosi: Kuwabara, “On P’u Shou-keng,” 2–3, 19–20; So, Prosperity, Region and Institutions, 48–49.
 
-56.   trade with the south: Wang, Nanhai Trade, 79-81.
+56. trade with the south: Wang, Nanhai Trade, 79–81.
 
-57.   as far as Java: Clark, Community, Trade and Networks, 124.
+57. as far as Java: Clark, Community, Trade and Networks, 124.
 
-58.   Hokkiens: Chang, "Formation of a Maritime Convention," 148- 50; Gladney, Muslim Chinese, 262.
+58. Hokkiens: Chang, “Formation of a Maritime Convention,” 148–50; Gladney, Muslim Chinese, 262.
 
-59.      "Great ships in thousands": Cui Rong, in Shiba and Elvin, Commerce and Society in Sung China, 4.
+59. “Great ships in thousands”: Cui Rong, in Shiba and Elvin, Commerce and Society in Sung China, 4.
 
-60.   ten shipyards: Benn, China's Golden Age, 185.
+60. ten shipyards: Benn, China’s Golden Age, 185.
 
-61.   "There is a saying": Li Chao [Li Zhao], quoted in Tangguo Shibu (Supplementary Information on the Tang Dynasty), in Shiba and Elvin, Commerce and Society in Sung China, 5.
+61. “There is a saying”: Li Chao [Li Zhao], quoted in Tangguo Shibu (Supplementary Information on the Tang Dynasty), in Shiba and Elvin, Commerce and Society in Sung China, 5.
 
-62.   "floating boat people": Clark, "Frontier Discourse and China's Maritime Frontier," 17-18.
+62. “floating boat people”: Clark, “Frontier Discourse and China’s Maritime Frontier,” 17–18.
 
-63.   "in some shape or form": Worcester, The Junkman Smiles, 10.
+63. “in some shape or form”: Worcester, The Junkman Smiles, 10.
 
-64.   "Two water buffalo": Ennin's Diary, 838-7-21 (pp. 19-20).
+64. “Two water buffalo”: Ennin’s Diary, 838–7–21 (pp. 19–20).
 
-65.   haulers with local knowledge: Shiba and Elvin, Commerce and Society in Sung China, 5.
+65. haulers with local knowledge: Shiba and Elvin, Commerce and Society in Sung China, 5.
 
-66.   introduction of iron fastenings: Manguin, "Southeast Asian Ship,"
+66. introduction of iron fastenings: Manguin, “Southeast Asian Ship,” 272.
 
-272.
+67. “sand ships” (shachuan): McGrail, Boats of the World, 348.
 
-67.   "sand ships" (shachuan): McGrail, Boats of the World, 348.
+68. Ships typically had no cabins: Wang, Nanhai Trade, 100.
 
-68.   Ships typically had no cabins: Wang, Nanhai Trade, 100.
+69. “With the fibrous bark”: In Manguin, “Trading Ships,” 275.
 
-69.   "With the fibrous bark": In Manguin, "Trading Ships," 275.
+70. lashings and dowels: Manguin, “Trading Ships,” 268–69.
 
-70.   lashings and dowels: Manguin, "Trading Ships," 268-69.
+71. Sewn-plank fastening: McGrail, Boats of the World, 354.
 
-71.   Sewn-plank fastening: McGrail, Boats of the World, 354.
+72. “fore-and-aft sails”: Ibid., 159, 309, 357.
 
-72.   "fore-and-aft sails": Ibid., 159, 309, 357.
+73. built a fleet: Taylor, Birth of Vietnam, 226, 231.
 
-73.   built a fleet: Taylor, Birth of Vietnam, 226, 231.
+74. “The Japanese warships”: Nihongi, “Tenchi,” 27.7–8 (683 ce), vol. 2:280. See also Mitsusada and Brown, “Century of Reform,” 207.
 
-74.      "The Japanese warships": Nihongi, "Tenchi," 27.7-8 (683 ce), vol. 2:280. See also Mitsusada and Brown, "Century of Reform,"
+75. fifty Jurchen ships: Verschuer, Across the Perilous Sea, 41. See Lee, New History of Korea, 517.
 
-207.
+### 12. The Medieval Mediterranean and Europe
 
-75.   fifty Jurchen ships: Verschuer, Across the Perilous Sea, 41. See Lee, New History of Korea, 517.
+1. island parishes: Lane, Venice, 11.
 
-### 12. The Medieval Mediterranean and
+2. river trades: Ibid., 7–8.
 
-### Europe
+3. “We wed thee, Adriatic”: Senior, “Bucentaur,” 135.
 
-1.   island parishes: Lane, Venice, 11.
+4. sailed together: Spufford, Power and Profit, 400.
 
-2.   river trades: Ibid., 7-8.
+5. about three hundred ships: Pryor, “Venetian Fleet for the Fourth Crusade,” 115.
 
-3.   "We wed thee, Adriatic": Senior, "Bucentaur," 135.
+6. “As in the Venetians’ arsenal”: Dante, Inferno, Canto 21, ll. 7–15 (p. 319).
 
-4.   sailed together: Spufford, Power and Profit, 400.
+7. the state required: Lane, Venice, 13–14, 48–51.
 
-5.   about three hundred ships: Pryor, "Venetian Fleet for the Fourth Crusade," 115.
+8. in 1085 Guiscard crossed: Frankopan, “Byzantine Trade Privileges,” 143.
 
-6.   "As in the Venetians' arsenal": Dante, Inferno, Canto 21, ll. 7-15 (p. 319).
+9. “with promises and bribes”: Anna Comnena, Alexiad, 4.2 (p. 137).
 
-7.   the state required: Lane, Venice, 13-14, 48-51.
+10. chrysobull (imperial decree): Frankopan, “Byzantine Trade Privileges,” 152–53; Frankopan prefers a date of 1092.
 
-8.      in 1085 Guiscard crossed: Frankopan, "Byzantine Trade Privileges," 143.
+11. “from the ancient quay”: Anna Comnena, Alexiad, 6.5 (p. 191). The Venetian quarter was on the Golden Horn just west of the Neorion, between the Gate of the Perama (the quay of the Hebrews) and the Gate of the Drungarios (the Vigla).
 
-9.   "with promises and bribes": Anna Comnena, Alexiad, 4.2 (p. 137).
+12. had to pay tariffs: Lane, “Economic Meaning of War and Protection,” 387.
 
-10.      chrysobull (imperial decree): Frankopan, "Byzantine Trade Privileges," 152-53; Frankopan prefers a date of 1092.
+13. Genoa lies: Epstein, Genoa and the Genoese, 11–14.
 
-11.   "from the ancient quay": Anna Comnena, Alexiad, 6.5 (p. 191). The Venetian quarter was on the Golden Horn just west of the Neorion, between the Gate of the Perama (the quay of the Hebrews) and the Gate of the Drungarios (the Vigla).
+14. Italians traded: Cowdrey, “Mahdia Campaign,” 8–10; Abulafia, “Trade and Crusade,” 6.
 
-12.      had to pay tariffs: Lane, "Economic Meaning of War and Protection," 387.
+15. religious overtones: Cowdrey, “Mahdia Campaign,” 6.
 
-13.   Genoa lies: Epstein, Genoa and the Genoese, 11-14.
+16. “for the salvation”: Urban II, in Riley-Smith, Crusades, 12–13.
 
-14.   Italians traded: Cowdrey, "Mahdia Campaign," 8-10; Abulafia, "Trade and Crusade," 6.
+17. “In the name of God”: In Pryor, “Venetian Fleet for the Fourth Crusade,” 121.
 
-15.   religious overtones: Cowdrey, "Mahdia Campaign," 6.
+18. the Fatimid fleet: Hamblin, “Fatimid Navy,” 77–78.
 
-16.   "for the salvation": Urban II, in Riley-Smith, Crusades, 12-13.
+19. Alfonso VI: Reilly, Medieval Spains, 92–93.
 
-17.   "In the name of God": In Pryor, "Venetian Fleet for the Fourth Crusade," 121.
+20. Almoravids: Lewis, “Northern European Sea Power,” 141–43.
 
-18.   the Fatimid fleet: Hamblin, "Fatimid Navy," 77-78.
+21. “who organized their fleet”: Ibn Khaldun, Muqaddimah, 2:43; Lewis, “Northern European Sea Power,” 150.
 
-19.   Alfonso VI: Reilly, Medieval Spains, 92-93.
+22. Norman Sicily: Matthew, Norman Kingdom of Sicily, 72–75.
 
-20.   Almoravids: Lewis, "Northern European Sea Power," 141-43.
+23. the Genoese negotiated: Williams, “Making of a Crusade.”
 
-21.      "who organized their fleet": Ibn Khaldun, Muqaddimah, 2:43; Lewis, "Northern European Sea Power," 150.
+24. After taking Almería: Epstein, Genoa and the Genoese, 49–52.
 
-22.   Norman Sicily: Matthew, Norman Kingdom of Sicily, 72-75.
+25. “the attacks and damages”: Annali Genovesi, 30, in Williams, “Making of a Crusade,” 44.
 
-23.   the Genoese negotiated: Williams, "Making of a Crusade."
+26. gold caravans: Lewis, “Northern European Sea Power,” 147.
 
-24.   After taking Almería: Epstein, Genoa and the Genoese, 49-52.
+27. 165 ships: David, The Conquest of Lisbon, 53.
 
-25.      "the attacks and damages": Annali Genovesi, 30, in Williams, "Making of a Crusade," 44.
+28. “the richest in trade”: Ibid., 91.
 
-26.   gold caravans: Lewis, "Northern European Sea Power," 147.
+29. “It became clear”: Al-Kitab Imad ad-Din al-Isfahani, in Ayalon, “Mamluks and Naval Power,” 4.
 
-27.   165 ships: David, The Conquest of Lisbon, 53.
+30. sixty thousand dead: Choniates, O City of Byzantium, 250–51. Choniates reports that four thousand survivors were sold as slaves. See William of Tyre, History of Deeds Done Beyond the Sea, 22.12–13 (pp. 464–67).
 
-28.   "the richest in trade": Ibid., 91.
+31. by way of Alexandria: Riley-Smith, Crusades, 151.
 
-29.   "It became clear": Al-Kitab Imad ad-Din al-Isfahani, in Ayalon, "Mamluks and Naval Power," 4.
+32. “because they could better”: Villehardouin, Conquest of Constantinople, in Pryor, “Venetian Fleet for the Fourth Crusade,” 114.
 
-30.      sixty thousand dead: Choniates, O City of Byzantium, 250-51. Choniates reports that four thousand survivors were sold as slaves. See William of Tyre, History of Deeds Done Beyond the Sea, 22.12-13 (pp. 464-67).
+33. eighty-five thousand marks: Lane, Venice, 37.
 
-31.   by way of Alexandria: Riley-Smith, Crusades, 151.
+34. “200,000 silver marks”: Villehardouin, Conquest of Constantinople, 50.
 
-32.      "because they could better": Villehardouin, Conquest of Constantinople, in Pryor, "Venetian Fleet for the Fourth Crusade," 114.
+35. “so much, indeed”: Ibid., 92.
 
-33.   eighty-five thousand marks: Lane, Venice, 37.
+36. “lord of a quarter”: In Ostrogorsky, History of the Byzantine State, 376.
 
-34.      "200,000 silver marks": Villehardouin, Conquest of Constantinople, 50.
+37. minting gold coins: Lopez, “Back to Gold,” 219–20, 229–30.
 
-35.   "so much, indeed": Ibid., 92.
+38. target for pirates: Charanis, “Piracy in the Aegean,” 135–36.
 
-36.      "lord of a quarter": In Ostrogorsky, History of the Byzantine State, 376.
+39. “a man of inestimable worth”: Boccaccio, Decameron, Day 5, Story 6 (p. 447).
 
-37.   minting gold coins: Lopez, "Back to Gold," 219-20, 229-30.
+40. “footsoldiers skilled”: Ramon Llull, Liber de Fine, in Pryor, “Naval Battles of Roger of Lauria,” 199. See Mott, Sea Power, 151–75; Lane, “Crossbow in the Nautical Revolution”; and Pryor, “From Dromon to Galea,” 111.
 
-38.   target for pirates: Charanis, "Piracy in the Aegean," 135-36.
+41. compulsory service: Mott, Sea Power, 175–77.
 
-39.      "a man of inestimable worth": Boccaccio, Decameron, Day 5, Story 6 (p. 447).
+42. employed as shipwrights: Lopez, “Majorcans and Genoese,” 1164.
 
-40.      "footsoldiers skilled": Ramon Llull, Liber de Fine, in Pryor, "Naval Battles of Roger of Lauria," 199. See Mott, Sea Power, 151-75; Lane, "Crossbow in the Nautical Revolution"; and Pryor, "From Dromon to Galea," 111.
+43. “ships come up”: Primera Crónica General de España, in Constable, Trade and Traders, 244.
 
-41.   compulsory service: Mott, Sea Power, 175-77.
+44. Ilkhans of Persia: 169n18; Ugolino and Vadino Vivaldi: Lopez, “European Merchants in the Medieval Indies,” 169–70.
 
-42.      employed as shipwrights: Lopez, "Majorcans and Genoese,"
+45. raze virtually every port: Ayalon, “Mamluks and Naval Power,” 8–12.
 
-1164.
+46. caravan routes: Pryor, “Maritime Republics,” 440.
 
-43.      "ships come up": Primera Crónica General de España, in Constable, Trade and Traders, 244.
+47. “wonderful harbor”: Ibn Battuta, Travels, 2:471.
 
-44.   Ilkhans of Persia: 169n18; Ugolino and Vadino Vivaldi: Lopez, "European Merchants in the Medieval Indies," 169-70.
+48. “A plague attacked”: Nicephorus Gregoras, Ecclesiasticae Historiae, in Herlihy, Black Death, 24.
 
-45.   raze virtually every port: Ayalon, "Mamluks and Naval Power," 8-12.
+49. city of Lübeck: Gläser, “Development of the Harbours,” 79–81.
 
-46.   caravan routes: Pryor, "Maritime Republics," 440.
+50. “during all the campaigns”: Helmhold von Bosau, Chronicle of the Slavs, in Schildhauer, Hansa, 19.
 
-47.   "wonderful harbor": Ibn Battuta, Travels, 2:471.
+51. city of Riga: Henricus Lettus, Chronicle of Henry of Livonia; Riley-Smith, Crusades, 131.
 
-48.      "A plague attacked": Nicephorus Gregoras, Ecclesiasticae Historiae, in Herlihy, Black Death, 24.
+52. “Our two towns”: In Lopez, Commercial Revolution, 117.
 
-49.   city of Lübeck: Gläser, "Development of the Harbours," 79-81.
+53. “across sand and sea”: In Ellmers, “Cog as Cargo Carrier,” 38.
 
-50.   "during all the campaigns": Helmhold von Bosau, Chronicle of the Slavs, in Schildhauer, Hansa, 19.
+54. Lübeck city seal: Ellmers, “Cog as Cargo Carrier,” 37–38.
 
-51.      city of Riga: Henricus Lettus, Chronicle of Henry of Livonia; Riley-Smith, Crusades, 131.
+55. established kontors: Dollinger, German Hansa, 27–50.
 
-52.   "Our two towns": In Lopez, Commercial Revolution, 117.
+56. “a community of German merchants”: Ibid., 62–64.
 
-53.   "across sand and sea": In Ellmers, "Cog as Cargo Carrier," 38.
+57. primary arteries of trade: Thompson, “Early Trade Relations,” 551.
 
-54.   Lübeck city seal: Ellmers, "Cog as Cargo Carrier," 37-38.
+58. alliance with Henry: Oakley, Short History of Denmark, 55.
 
-55.   established kontors: Dollinger, German Hansa, 27-50.
+59. “The east side of Zealand”: Saxo Grammaticus, Gesta Danorum, Preface, in Gade, Hanseatic Control of Norwegian Commerce, 17. Sjælland is the largest island in Denmark.
 
-56.   "a community of German merchants": Ibid., 62-64.
+60. tensions led to war: Sicking, “Amphibious Warfare in the Baltic,” 76–81.
 
-57.      primary arteries of trade: Thompson, "Early Trade Relations,"
+61. Treaty of Stralsund: Bjork, “Peace of Stralsund, 1370.”
 
-551.
+62. “God’s friends”: In ibid., 60. See Dollinger, German Hansa, 79–82.
 
-58.   alliance with Henry: Oakley, Short History of Denmark, 55.
+63. Kalmar Union: Oakley, Short History of Denmark, 78–80, 87.
 
-59.   "The east side of Zealand": Saxo Grammaticus, Gesta Danorum, Preface, in Gade, Hanseatic Control of Norwegian Commerce, 17. Sjælland is the largest island in Denmark.
+64. Hanse was likewise undermined: Dollinger, German Hansa, 81–82.
 
-60.   tensions led to war: Sicking, "Amphibious Warfare in the Baltic," 76-81.
+65. Zwin River: De Witte, “Maritime Topography of Medieval Bruges,” 141–43.
 
-61.   Treaty of Stralsund: Bjork, "Peace of Stralsund, 1370."
+66. could be found in Bruges: Spufford, Power and Profit, 113, 232, 266, 278, 319–20, 330.
 
-62.   "God's friends": In ibid., 60. See Dollinger, German Hansa, 79-
+67. trade of England: Friel, Maritime History of Britain and Ireland, 62–66.
 
-82.
+68. When Henry II ascended: Ibid., 49.
 
-63.   Kalmar Union: Oakley, Short History of Denmark, 78-80, 87.
+69. rich vineyards: James, Studies in the Medieval Wine Trade, 9–10, 35.
 
-64.   Hanse was likewise undermined: Dollinger, German Hansa, 81-
+70. the tun: Friel, Maritime History of Britain and Ireland, 64. For a history of tonnage measurement, see Lyman, “Register Tonnage.”
 
-82.
+71. Hundred Years’ War: Friel, The Good Ship, 139.
 
-65.      Zwin River: De Witte, "Maritime Topography of Medieval Bruges," 141-43.
+72. Clos des Galées: Rose, Medieval Naval Warfare, 61–62.
 
-66.   could be found in Bruges: Spufford, Power and Profit, 113, 232, 266, 278, 319-20, 330.
+73. Cinque Ports: Sylvester, “Communal Piracy,” 170–73; Rodger, “Naval Service of the Cinque Ports,” 646–47.
 
-67.   trade of England: Friel, Maritime History of Britain and Ireland, 62-66.
+74. payment of a modest sum: Sherborne, “Hundred Years’ War,” 164ff.
 
-68.   When Henry II ascended: Ibid., 49.
+75. letters of marque: Rodger, Safeguard of the Sea, 128; Petrie, Prize Game, 2–3; and Spufford, Power and Profit, 221–22.
 
-69.   rich vineyards: James, Studies in the Medieval Wine Trade, 9-10,
+76. Roger of Lauria issued: Mott, Sea Power, 124–32.
 
-35.
+77. “Commission to William Prince”: Calendar of the Patent Rolls … Henry IV, April 23, 1400 (vol. 1:271).
 
-70.   the tun: Friel, Maritime History of Britain and Ireland, 64. For a history of tonnage measurement, see Lyman, "Register Tonnage."
+78. centerline rudder: Mott, Development of the Rudder, 106–19.
 
-71.   Hundred Years' War: Friel, The Good Ship, 139.
+79. A survey of sealings: Friel, The Good Ship, 79.
 
-72.   Clos des Galées: Rose, Medieval Naval Warfare, 61-62.
+80. Bremen cog: Paine, Ships of the World, s.v. Bremen Cog, citing Gardiner and Unger, Cogs, Caravels and Galleons, and Werner Lahn, Die Kogge von Bremen—The Hanse Cog of Bremen (Hamburg: Deutsches Schiffahrtsmuseum, 1992).
 
-73.      Cinque Ports: Sylvester, "Communal Piracy," 170-73; Rodger, "Naval Service of the Cinque Ports," 646-47.
+81. “At this time”: Giovanni Villani, Florentine Chronicle, in Mott, Development of the Rudder, 138–40. See Ellmers, “Cog as Cargo Carrier,” 39.
 
-74.      payment of a modest sum: Sherborne, "Hundred Years' War," 164ff.
+82. Roccaforte: Lane, Venice, 46; Spufford, Power and Profit, 398.
 
-75.   letters of marque: Rodger, Safeguard of the Sea, 128; Petrie, Prize Game, 2-3; and Spufford, Power and Profit, 221-22.
+83. “that if they”: Martino da Canale, Cronaca veneta, in Lane, Venetian Ships and Shipbuilders, 5. See Dotson, “Fleet Operations,” 168–75.
 
-76.   Roger of Lauria issued: Mott, Sea Power, 124-32.
+84. specifications for war galleys: Pryor, “From Dromon to Galea,” 110–11.
 
-77.      "Commission to William Prince": Calendar of the Patent Rolls … Henry IV, April 23, 1400 (vol. 1:271).
+85. alla sensile: Bondioli et al., “Oar Mechanics,” 173–83.
 
-78.   centerline rudder: Mott, Development of the Rudder, 106-19.
+86. “great galley”: Lane, Venetian Ships and Shipbuilders, 16–29; Casson, “Merchant Galleys,” 123–26.
 
-79.   A survey of sealings: Friel, The Good Ship, 79.
+87. northern ships were still built: “The French royal dockyard at Rouen, the Clos des Galées … was the only place in northern Europe at which skeleton built craft were based” (Friel, The Good Ship, 172).
 
-80.   Bremen cog: Paine, Ships of the World, s.v. Bremen Cog, citing Gardiner and Unger, Cogs, Caravels and Galleons, and Werner Lahn, Die Kogge von Bremen--The Hanse Cog of Bremen (Hamburg: Deutsches Schiffahrtsmuseum, 1992).
+88. 2,783 cloths: Holmes, “The ‘Libel of English Policy,’ ” 199–200.
 
-81.   "At this time": Giovanni Villani, Florentine Chronicle, in Mott, Development of the Rudder, 138-40. See Ellmers, "Cog as Cargo Carrier," 39.
+89. transport costs: Spufford, Power and Profit, 399–404.
 
-82.   Roccaforte: Lane, Venice, 46; Spufford, Power and Profit, 398.
+90. Statutes of Marseille: The rule specified 2.5 palmorum by 6.5 to 7 palmorum, or 24.75 inches by 64.35 to 69.3 inches—about 11 square feet. Berlow, “Sailing of the St. Esprit,” 350n1.
 
-83.      "that if they": Martino da Canale, Cronaca veneta, in Lane, Venetian Ships and Shipbuilders, 5. See Dotson, "Fleet Operations," 168-75.
+91. “The berths of the pilgrims”: The Book of Wanderings of Brother Felix Fabri in Palestine and Arabia, in Lane, Venetian Ships and Shipbuilders, 21; Casson, “Merchant Galleys,” 125.
 
-84.   specifications for war galleys: Pryor, "From Dromon to Galea," 110-11.
+92. cooperation between merchants: Constable, Trade and Traders, 68–70; Goitein, Mediterranean Society, 1:72; and Goitein and Friedman, “India Book,” 25, 133–34.
 
-85.   alla sensile: Bondioli et al., "Oar Mechanics," 173-83.
+93. representative of merchants: Goitein, Mediterranean Society, 1:186–92.
 
-86.      "great galley": Lane, Venetian Ships and Shipbuilders, 16-29; Casson, "Merchant Galleys," 123-26.
+94. fonduks: Ibid., 1:349–50; Constable, Trade and Traders, 119–21.
 
-87.      northern ships were still built: "The French royal dockyard at Rouen, the Clos des Galées  …  was the only place in northern Europe at which skeleton built craft were based" (Friel, The Good Ship, 172).
+95. required to pay duties: Khalilieh, Islamic Maritime Law, 82–83.
 
-88.   2,783 cloths: Holmes, "The 'Libel of English Policy,' " 199-200.
+96. Armed with an aman: Wansbrough, “Safe-Conduct,” esp. 32–34; Khalilieh, Islamic Maritime Law, 125.
 
-89.   transport costs: Spufford, Power and Profit, 399-404.
+97. Christian merchant ships were found in Alexandria: Ehrenkreutz, “Place of Saladin,” 110.
 
-90.   Statutes of Marseille: The rule specified 2.5 palmorum by 6.5 to 7 palmorum, or 24.75 inches by 64.35 to 69.3 inches--about 11 square feet. Berlow, "Sailing of the St. Esprit," 350n1.
+98. discouraged trade: Khalilieh, Islamic Maritime Law, 126–27.
 
-91.   "The berths of the pilgrims": The Book of Wanderings of Brother Felix Fabri in Palestine and Arabia, in Lane, Venetian Ships and Shipbuilders, 21; Casson, "Merchant Galleys," 125.
+99. “The day they entered”: Beha ed-Din, Life of Saladin, in Reinert, “Muslim Presence in Constantinople,” 141.
 
-92.   cooperation between merchants: Constable, Trade and Traders, 68-70; Goitein, Mediterranean Society, 1:72; and Goitein and Friedman, "India Book," 25, 133-34.
+100. “of God, of the sea”: Roover, “Early Examples of Marine Insurance,” 188–89.
 
-93.      representative of merchants: Goitein, Mediterranean Society, 1:186-92.
+101. premiums varied: Ibid., 190.
 
-94.   fonduks: Ibid., 1:349-50; Constable, Trade and Traders, 119-21.
-
-95.   required to pay duties: Khalilieh, Islamic Maritime Law, 82-83.
-
-96.   Armed with an aman: Wansbrough, "Safe-Conduct," esp. 32-34; Khalilieh, Islamic Maritime Law, 125.
-
-97.   Christian merchant ships were found in Alexandria: Ehrenkreutz, "Place of Saladin," 110.
-
-98.   discouraged trade: Khalilieh, Islamic Maritime Law, 126-27.
-
-99.   "The day they entered": Beha ed-Din, Life of Saladin, in Reinert, "Muslim Presence in Constantinople," 141.
-
-100.      "of God, of the sea": Roover, "Early Examples of Marine Insurance," 188-89.
-
-101.   premiums varied: Ibid., 190.
-
-102.   Russian furs at Bruges: Spufford, Power and Profit, 336.
+102. Russian furs at Bruges: Spufford, Power and Profit, 336.
 
 ### 13. The Golden Age of Maritime Asia
 
-1.   "the profit derived": Kuwabara, "On P'u Shou-keng," 24n22.
+1. “the profit derived”: Kuwabara, “On P’u Shou-keng,” 24n22.
 
-2.      well-connected foreigners: Chang, "Formation of a Maritime Convention," 147-49.
+2. well-connected foreigners: Chang, “Formation of a Maritime Convention,” 147–49.
 
-3.   Western mariners still: Ibid., 151.
+3. Western mariners still: Ibid., 151.
 
-4.   "two types of foreigners": In Guy, "Tamil Merchant Guilds," 297.
+4. “two types of foreigners”: In Guy, “Tamil Merchant Guilds,” 297.
 
-5.   direct trade: Zhao Rugua, On the Chinese and Arab Trade, 88-93.
+5. direct trade: Zhao Rugua, On the Chinese and Arab Trade, 88–93.
 
-6.      "ordered the officers-in-charge": Guy, "Expansion of China's Trade," 14.
+6. “ordered the officers-in-charge”: Guy, “Expansion of China’s Trade,” 14.
 
-7.   specify which types: Zhao Rugua, On the Chinese and Arab Trade, 259, s.v. "Porcelain."
+7. specify which types: Zhao Rugua, On the Chinese and Arab Trade, 259, s.v. “Porcelain.”
 
-8.      Eager to support: Peterson, "Old Illusions and New Realities," 218-31.
+8. Eager to support: Peterson, “Old Illusions and New Realities,” 218–31.
 
-9.   "thunder-crash bombs": Needham et al., Science and Civilisation, vol. 5, pt. 7:163, 170-79.
+9. “thunder-crash bombs”: Needham et al., Science and Civilisation, vol. 5, pt. 7:163, 170–79.
 
-10.   more than nineteen thousand ships were registered: Lo, "Chinese Shipping," 171.
+10. more than nineteen thousand ships were registered: Lo, “Chinese Shipping,” 171.
 
-11.   "Tens of thousand": In Deng, Chinese Maritime Activities, 83.
+11. “Tens of thousand”: In Deng, Chinese Maritime Activities, 83.
 
-12.   cost of building ships: Deng, Chinese Maritime Activities, 161.
+12. cost of building ships: Deng, Chinese Maritime Activities, 161.
 
-13.      transporting grain: Lo, "Controversy over Grain Conveyance"; Sung and Schurmann, Economic Structure, 108-30.
+13. transporting grain: Lo, “Controversy over Grain Conveyance”; Sung and Schurmann, Economic Structure, 108–30.
 
-14.   Huitong Canal: Lo, "Controversy over Grain Conveyance," 285; Needham et al., 3 and Civilisation, vol. 4, pt. 3:306-20.
+14. Huitong Canal: Lo, “Controversy over Grain Conveyance,” 285; Needham et al., 3 and Civilisation, vol. 4, pt. 3:306–20.
 
-15.   advances in navigational practice: Lo, "Chinese Shipping," 171.
+15. advances in navigational practice: Lo, “Chinese Shipping,” 171.
 
-16.   "The ship's pilots": Zhu Yu, Pinzhou Table Talk, in Needham, Science and Civilisation, vol. 4, pt. 1:279.
+16. “The ship’s pilots”: Zhu Yu, Pinzhou Table Talk, in Needham, Science and Civilisation, vol. 4, pt. 1:279.
 
-17.   compass was used: Needham et al., Science and Civilisation, vol. 4, pt. 1:279-92; Lane, "Economic Meaning of the Invention of the Compass." For references in Persian and Arabic sources, see Tibbetts, Arab Navigation, 290; Needham et al., Science and Civilisation, vol. 4, pt. 1:245-51.
+17. compass was used: Needham et al., Science and Civilisation, vol. 4, pt. 1:279–92; Lane, “Economic Meaning of the Invention of the Compass.” For references in Persian and Arabic sources, see Tibbetts, Arab Navigation, 290; Needham et al., Science and Civilisation, vol. 4, pt. 1:245–51.
 
-18.   "During the night": In Needham et al., Science and Civilisation, vol. 4, pt. 1:280.
+18. “During the night”: In Needham et al., Science and Civilisation, vol. 4, pt. 1:280.
 
-19.      world's first printed map: Needham et al., Science and Civilisation, 3:549 and fig. 227.
+19. world’s first printed map: Needham et al., Science and Civilisation, 3:549 and fig. 227.
 
-20.   "seaway compass charts": Deng, Chinese Maritime Activities, 55.
+20. “seaway compass charts”: Deng, Chinese Maritime Activities, 55.
 
-21.   ports with a shibosi: Sung and Schurmann, Economic Structure, 223-25.
+21. ports with a shibosi: Sung and Schurmann, Economic Structure, 223–25.
 
-22.   ban on private overseas trade: Ibid., 224-25.
+22. ban on private overseas trade: Ibid., 224–25.
 
-23.   "in many cases": In ibid., 226.
+23. “in many cases”: In ibid., 226.
 
-24.      "No gold, silver, copper": Yuan Shih, 25b1, in Sung and Schurmann, Economic Structure, 232.
+24. “No gold, silver, copper”: Yuan Shih, 25b1, in Sung and Schurmann, Economic Structure, 232.
 
-25.   "The splendid city of Zaiton": Polo, Travels, 237. Zaitun, "olive town," was the Persian and Arabic name for Quanzhou, possibly because of its similarity to the Chinese citong, a tree valued in shipbuilding for the preservative quality of the tung oil pressed from its nut and widely planted in Quanzhou in the tenth century. See Schottenhammer, "Transfer of Xiangyao from Iran and Arabia to China," 144-45.
+25. “The splendid city of Zaiton”: Polo, Travels, 237. Zaitun, “olive town,” was the Persian and Arabic name for Quanzhou, possibly because of its similarity to the Chinese citong, a tree valued in shipbuilding for the preservative quality of the tung oil pressed from its nut and widely planted in Quanzhou in the tenth century. See Schottenhammer, “Transfer of Xiangyao from Iran and Arabia to China,” 144–45.
 
-26.   Korea's withdrawal: Verschuer, Across the Perilous Sea, 47.
+26. Korea’s withdrawal: Verschuer, Across the Perilous Sea, 47.
 
-27.   "The Genji had more": Tales of the Heike, 11.7 (p. 134).
+27. “The Genji had more”: Tales of the Heike, 11.7 (p. 134).
 
-28.   "took him in her arms": Ibid., 11.9 (pp. 142-43). The Ryukyu chain stretches about 570 miles between northern Taiwan and southern Kyushu Island. Okinawa is halfway along the chain, about 425 miles east of Fuzhou.
+28. “took him in her arms”: Ibid., 11.9 (pp. 142–43). The Ryukyu chain stretches about 570 miles between northern Taiwan and southern Kyushu Island. Okinawa is halfway along the chain, about 425 miles east of Fuzhou.
 
-29.   fled overseas: Sakamaki, "Heike," 115-22.
+29. fled overseas: Sakamaki, “Heike,” 115–22.
 
-30.      "Lined up stern to bow": Kaiqing siming xuzhi, book 8, in Verschuer, Across the Perilous Sea, 77.
+30. “Lined up stern to bow”: Kaiqing siming xuzhi, book 8, in Verschuer, Across the Perilous Sea, 77.
 
-31.   commercial revival: Verschuer, Across the Perilous Sea, 10, 33- 47, 79-80, 151-52; Souyri, World Turned Upside Down, 2-5, 154-55, 158-60.
+31. commercial revival: Verschuer, Across the Perilous Sea, 10, 33–47, 79–80, 151–52; Souyri, World Turned Upside Down, 2–5, 154–55, 158–60.
 
-32.   Against the advice: Lee, New History of Korea, 147-52.
+32. Against the advice: Lee, New History of Korea, 147–52.
 
-33.      Mongol invasion included: Conlan, In Little Need of Divine Intervention, 255-64; Rossabi, Khubilai Khan, 99-102.
+33. Mongol invasion included: Conlan, In Little Need of Divine Intervention, 255–64; Rossabi, Khubilai Khan, 99–102.
 
-34.      erecting a coastal wall: Conlan, In Little Need of Divine Intervention, 214-15, 234-39.
+34. erecting a coastal wall: Conlan, In Little Need of Divine Intervention, 214–15, 234–39.
 
-35.   kamikaze: Ibid., 254-55.
+35. kamikaze: Ibid., 254–55.
 
-36.   "a few large Chinese-type vessels": Tales of the Heike, 11.7 (p. 134).
+36. “a few large Chinese-type vessels”: Tales of the Heike, 11.7 (p. 134).
 
-37.   scrolls of Takezaki: Conlan, In Little Need of Divine Intervention, 1-17.
+37. scrolls of Takezaki: Conlan, In Little Need of Divine Intervention, 1–17.
 
-38.   size of the vessels: Souyri, World Turned Upside Down, 150-51.
+38. size of the vessels: Souyri, World Turned Upside Down, 150–51.
 
-39.   exposed to attack: Hall, Maritime Trade, 210-12.
+39. exposed to attack: Hall, Maritime Trade, 210–12.
 
-40.   "The treasure in the island": Polo, Travels, 251.
+40. “The treasure in the island”: Polo, Travels, 251.
 
-41.   disfigured and tattooed: Rockhill, "Notes," 15 (1914): 442, 444- 47; Hall, Maritime Trade, 212; and Rossabi, Khubilai Khan, 219.
+41. disfigured and tattooed: Rockhill, “Notes,” 15 (1914): 442, 444–47; Hall, Maritime Trade, 212; and Rossabi, Khubilai Khan, 219.
 
-42.   "People in vast numbers": Hikayat Raja-Raja Pasai, 161, in Reid, "Rise and Fall," 62.
+42. “People in vast numbers”: Hikayat Raja-Raja Pasai, 161, in Reid, “Rise and Fall,” 62.
 
-43.      introduced copper cash: Reid, Expansion and Crisis, 95-96; Wicks, Money, Markets, and Trade, 291.
+43. introduced copper cash: Reid, Expansion and Crisis, 95–96; Wicks, Money, Markets, and Trade, 291.
 
-44.   kingdom of Ayutthaya: Taylor, "Early Kingdoms," 168-73; Reid, Expansion and Crisis, 205; and Lieberman, Strange Parallels, 1:245.
+44. kingdom of Ayutthaya: Taylor, “Early Kingdoms,” 168–73; Reid, Expansion and Crisis, 205; and Lieberman, Strange Parallels, 1:245.
 
-45.   Marco Polo's account: Polo, Travels, 241-312.
+45. Marco Polo’s account: Polo, Travels, 241–312.
 
-46.   geographic and economic knowledge: Deng, Chinese Maritime Activities, 57-58.
+46. geographic and economic knowledge: Deng, Chinese Maritime Activities, 57–58.
 
-47.      Zhao Rugua: See Hirth and Rockhill's introduction to Zhao Rugua, On the Chinese and Arab Trade, 36-38.
+47. Zhao Rugua: See Hirth and Rockhill’s introduction to Zhao Rugua, On the Chinese and Arab Trade, 36–38.
 
-48.      "several of the countries of the Dashi": Zhao Rugua, On the Chinese and Arab Trade, 227; rattan mats: 220; and cotton: 217- 20; Rockhill, "Notes," pt. 1:419.
+48. “several of the countries of the Dashi”: Zhao Rugua, On the Chinese and Arab Trade, 227; rattan mats: 220; and cotton: 217–20; Rockhill, “Notes,” pt. 1:419.
 
-49.   "when we conversed": Ibn Battuta, Travels, 4:899. Ibn Battuta's description of Southeast Asia and of his trip from Guangzhou to Hangzhou is so confused that some doubt he ever got that far. Similar questions have also been raised about the accuracy of Marco Polo's writing. See, for example, Ross E. Dunn, The Adventures of Ibn Battua, a Muslim Traveler in the 14th Century (Berkeley: University of California Press, 1986), 252-53, and Frances Wood, Did Marco Polo Go to China? (Boulder: Westview, 1996).
+49. “when we conversed”: Ibn Battuta, Travels, 4:899. Ibn Battuta’s description of Southeast Asia and of his trip from Guangzhou to Hangzhou is so confused that some doubt he ever got that far. Similar questions have also been raised about the accuracy of Marco Polo’s writing. See, for example, Ross E. Dunn, The Adventures of Ibn Battua, a Muslim Traveler in the 14th Century (Berkeley: University of California Press, 1986), 252–53, and Frances Wood, Did Marco Polo Go to China? (Boulder: Westview, 1996).
 
-50.   Cairo Geniza: Goitein, Mediterranean Society, 1:1-23; Goitein and Friedman, "India Book," 3-6.
+50. Cairo Geniza: Goitein, Mediterranean Society, 1:1–23; Goitein and Friedman, “India Book,” 3–6.
 
-51.   Abraham ben Yiju: Goitein and Friedman, "India Book," 52-58, 69-70.
+51. Abraham ben Yiju: Goitein and Friedman, “India Book,” 52–58, 69–70.
 
-52.   Madmun ben Hasan-Japheth: Ibid., 37-47.
+52. Madmun ben Hasan-Japheth: Ibid., 37–47.
 
-53.   "two [sets] of fine": Ibid., 313-17.
+53. “two [sets] of fine”: Ibid., 313–17.
 
-54.   "partnerships according to Muslim law": Ibid., 12.
+54. “partnerships according to Muslim law”: Ibid., 12.
 
-55.   karim, "a convoy or group": Goitein, "Beginnings," 353, 360. See Goitein and Friedman, "India Book," 483n28; Margariti, Aden, 152-53. But see also the note on the "dock of Akkad," above p.
+55. karim, “a convoy or group”: Goitein, “Beginnings,” 353, 360. See Goitein and Friedman, “India Book,” 483n28; Margariti, Aden, 152–53. But see also the note on the “dock of Akkad,” above p. 606.
 
-606.
+56. “the lords of the seas and deserts”: In Goitein and Friedman, “India Book,” 38.
 
-56.      "the lords of the seas and deserts": In Goitein and Friedman, "India Book," 38.
+57. Reynald de Châtillon: Ibn Jubayr, Travels, 52; Ehrenkreutz, “Place of Saladin,” 109–10.
 
-57.      Reynald de Châtillon: Ibn Jubayr, Travels, 52; Ehrenkreutz, "Place of Saladin," 109-10.
+58. Aden did not begin: Margariti, Aden, 43; duties: 94.
 
-58.   Aden did not begin: Margariti, Aden, 43; duties: 94.
+59. “all sorts of silk”: Benjamin of Tudela, Itinerary, 119.
 
-59.   "all sorts of silk": Benjamin of Tudela, Itinerary, 119.
+60. “We faced each other”: Goitein, “Two Eyewitness Reports,” 256; Goitein and Friedman, “India Book,” 342, 337–47.
 
-60.   "We faced each other": Goitein, "Two Eyewitness Reports," 256; Goitein and Friedman, "India Book," 342, 337-47.
+61. “told me that”: In Stern, “Ramisht of Siraf,” 10.
 
-61.   "told me that": In Stern, "Ramisht of Siraf," 10.
+62. twenty-four dinars a year: Goitein, Mediterranean Society, 1:359.
 
-62.   twenty-four dinars a year: Goitein, Mediterranean Society, 1:359.
+63. The freedman of a governor: Goitein, “Two Eyewitness Reports,” 247.
 
-63.   The freedman of a governor: Goitein, "Two Eyewitness Reports,"
+64. the caprice of political rulers: Goitein, “Beginnings,” 351; Serjeant, “Yemeni Merchants,” 69; and Goitein and Friedman, “India Book,” 260n6.
 
-247.
+65. “dispensed unaccustomed justice”: In Serjeant, “Yemeni Merchants,” 70.
 
-64.      the caprice of political rulers: Goitein, "Beginnings," 351; Serjeant, "Yemeni Merchants," 69; and Goitein and Friedman, "India Book," 260n6.
+66. pilgrimage by sea: Chakravarti, “Nakhudas and Nauvittakas,” 42–43.
 
-65.      "dispensed unaccustomed justice": In Serjeant, "Yemeni Merchants," 70.
+67. “The reason why”: Al-Biruni, in ibid., 52.
 
-66.   pilgrimage by sea: Chakravarti, "Nakhudas and Nauvittakas," 42-
+68. Jain merchants and Siddharaja: Wink, Al-Hind, 2:273–75.
 
-43.
+69. “great and respected chief”: In Chakravarti, “Nakhudas and Nauvittakas,” 53–55.
 
-67.   "The reason why": Al-Biruni, in ibid., 52.
+70. supplier of pepper: Hall, Maritime Trade, 225.
 
-68.   Jain merchants and Siddharaja: Wink, Al-Hind, 2:273-75.
+71. “moment of incandescence”: Johns, “Islam in Southeast Asia,” 39.
 
-69.      "great and respected chief": In Chakravarti, "Nakhudas and Nauvittakas," 53-55.
+72. the religion flowed easily: Hall, “Upstream and Downstream Unification,” 202–3.
 
-70.   supplier of pepper: Hall, Maritime Trade, 225.
+73. emergent state of Ayutthaya: Hall, Maritime Trade, 226.
 
-71.   "moment of incandescence": Johns, "Islam in Southeast Asia,"
+74. new port of Melaka: Taylor, “Early Kingdoms,” 175–76; Hall, Maritime Trade, 227–28.
 
-39.
+75. The commercial character of Melaka: Subrahmanyam, “Of Imarat and Tijarat,” 756–57.
 
-72.      the religion flowed easily: Hall, "Upstream and Downstream Unification," 202-3.
+76. Melaka maritime code: Winstedt and Josselin De Jong, “Maritime Laws of Malacca,” 27; Reid, Expansion and Crisis, 110; and Hall, “Economic History of Early Southeast Asia,” 190–91.
 
-73.   emergent state of Ayutthaya: Hall, Maritime Trade, 226.
+77. women in trade: Reid, The Lands Below the Winds, 146–53, 163–65; Reid, Expansion and Crisis, 49, 91–93, 124.
 
-74.   new port of Melaka: Taylor, "Early Kingdoms," 175-76; Hall, Maritime Trade, 227-28.
+78. Ming Taizu, as he is known, installed: Fairbank, Reischauer, and Craig, East Asia, 180–82.
 
-75.   The commercial character of Melaka: Subrahmanyam, "Of Imarat and Tijarat," 756-57.
+79. “not even a little plank”: In Blussé, Visible Cities, 15.
 
-76.   Melaka maritime code: Winstedt and Josselin De Jong, "Maritime Laws of Malacca," 27; Reid, Expansion and Crisis, 110; and Hall, "Economic History of Early Southeast Asia," 190-91.
+80. Neo-Confucian cast: Wang, “ ‘Public’ and ‘Private’ Overseas Trade,” 138–39.
 
-77.   women in trade: Reid, The Lands Below the Winds, 146-53, 163- 65; Reid, Expansion and Crisis, 49, 91-93, 124.
+81. “To repel them at sea”: Lo, “Decline of Early Ming Navy,” 149–50, 157–63.
 
-78.   Ming Taizu, as he is known, installed: Fairbank, Reischauer, and Craig, East Asia, 180-82.
+82. Chengzu’s motives: Dreyer, Zheng He, 33–34.
 
-79.   "not even a little plank": In Blussé, Visible Cities, 15.
+83. “the great country”: Ma Huan, Overall Survey, 137.
 
-80.      Neo-Confucian cast: Wang, " 'Public' and 'Private' Overseas Trade," 138-39.
+84. Ma Huan, visited Mecca: Ibid., 173–78; Dreyer, Zheng He, 158.
 
-81.   "To repel them at sea": Lo, "Decline of Early Ming Navy," 149- 50, 157-63.
+85. “the arrival of the vessels”: Chronicle of the Rasulid Dynasty, in Serjeant, “Yemeni Merchants,” 74–75. The mithqal was a gold dinar with a standard weight of 4.231 grams. Storax is an aromatic resin used as incense.
 
-82.   Chengzu's motives: Dreyer, Zheng He, 33-34.
+86. “had an audience”: Ibn al-Dayba, Bughyat al-mustafid fi tarikh Madinat Zabid, in Serjeant, “Yemeni Merchants,” 75.
 
-83.   "the great country": Ma Huan, Overall Survey, 137.
+87. generally pacific nature: Dreyer, Zheng He, 28–30.
 
-84.   Ma Huan, visited Mecca: Ibid., 173-78; Dreyer, Zheng He, 158.
+88. a Chinese renegade: Ibid., 55–60, 66–73, 79–81.
 
-85.   "the arrival of the vessels": Chronicle of the Rasulid Dynasty, in Serjeant, "Yemeni Merchants," 74-75. The mithqal was a gold dinar with a standard weight of 4.231 grams. Storax is an aromatic resin used as incense.
+89. Domestically, the empire endured: Lo, “Termination of the Ming Naval Expeditions,” 129–31; Lo, “Decline of Early Ming Navy,” 163.
 
-86.   "had an audience": Ibn al-Dayba, Bughyat al-mustafid fi tarikh Madinat Zabid, in Serjeant, "Yemeni Merchants," 75.
+90. “deceitful exaggerations”: Gu Qiyuan, Kezuo Zhuiyu, in Duyvendak, “True Dates,” 395–96. See Dreyer, Zheng He, 173–75.
 
-87.   generally pacific nature: Dreyer, Zheng He, 28-30.
+91. “from Guangdong [Province] and Zhangzhou”: Ma Huan, Overall Survey, 93. See Reid, Expansion and Crisis, 204–7; Wang, “Merchants Without Empires,” 404–5.
 
-88.   a Chinese renegade: Ibid., 55-60, 66-73, 79-81.
+92. Sam Poh Kong Temple: Needham et al., Science and Civilisation, vol. 4, pt. 3:494.
 
-89.   Domestically, the empire endured: Lo, "Termination of the Ming Naval Expeditions," 129-31; Lo, "Decline of Early Ming Navy,"
+93. “cowrie shells and qanbar”: Ibn Battuta, Travels, 4:827.
 
-163.
+94. “in the mountains”: Zhao Rugua, On the Chinese and Arab Trade, 133.
 
-90.      "deceitful exaggerations": Gu Qiyuan, Kezuo Zhuiyu, in Duyvendak, "True Dates," 395-96. See Dreyer, Zheng He, 173-
+95. “ten thousand horses”: Wassaf Abdu-llah, Tazjiyatu-l Amsar Wa Tajriyatu-l Asar (A Ramble Through the Regions and the Passing of Ages), 33.
 
-75.
+96. “the merchants of Hormuz and Kais”: Polo, Travels, 264.
 
-91.   "from Guangdong [Province] and Zhangzhou": Ma Huan, Overall Survey, 93. See Reid, Expansion and Crisis, 204-7; Wang, "Merchants Without Empires," 404-5.
+97. “We had two tarides”: Ibn Battuta, Travels, 4:820. In place of “tartan” in the original translation, I have used “taride.” But note Agius, Classic Ships of Islam, 342: “I am not sure how accurate Ibn Battuta is in recording the name for this ship-type in the Indian Ocean context. No doubt the tarida he witnessed must have looked identical in structure to the Mediterranean one.”
 
-92.   Sam Poh Kong Temple: Needham et al., Science and Civilisation, vol. 4, pt. 3:494.
+98. “they build ships”: Wang Ta-yuan, Tao-I Chih lio [Wang Dayuan, Daoyi Zhilue], in Rockhill, “Notes” (1915), 623–24. See Chakravarti, “Overseas Trade in Horses,” 351–52; and Deng, Maritime Sector, 112–13.
 
-93.   "cowrie shells and qanbar": Ibn Battuta, Travels, 4:827.
+99. no more than forty horses: Agius, Classic Ships of Islam, 340–41. Horses require between 18 and 45 liters of water per day, depending on the conditions. Pryor estimates that a horse being carried in the Mediterranean during the summer would need about 36 liters, or 1.1 metric tons, for 30 days. Pryor and Jeffreys, Age of the Dromon, 327–29; air circulation: 330–31.
 
-94.   "in the mountains": Zhao Rugua, On the Chinese and Arab Trade,
+100. from Oman to the Malabar coast: Sulayman, Account of China and India, 14 (p. 38).
 
-133.
+101. “endures all the strain”: Three Voyages of Vasco da Gama (1869), 239–40, in Agius, Classic Ships of Islam, 163–64. On the advantages of sewn-plank construction, see chap. 2 and note on “The inherent flexibility,” p. 604 above.
 
-95.   "ten thousand horses": Wassaf Abdu-llah, Tazjiyatu-l Amsar Wa Tajriyatu-l Asar (A Ramble Through the Regions and the Passing of Ages), 33.
+102. “carry a much bigger cargo”: Polo, Travels, 242.
 
-96.   "the merchants of Hormuz and Kais": Polo, Travels, 264.
+103. Quanzhou wreck: Green, “Song Dynasty Shipwreck”; Keith and Buys, “New Light on Ship Construction;” Li Guo-Qing, “Use of Chu-Nam”; and Merwin, “Excavation of a Sung Dynasty Seagoing Vessel.”
 
-97.      "We had two tarides": Ibn Battuta, Travels, 4:820. In place of "tartan" in the original translation, I have used "taride." But note Agius, Classic Ships of Islam, 342: "I am not sure how accurate Ibn Battuta is in recording the name for this ship-type in the Indian Ocean context. No doubt the tarida he witnessed must have looked identical in structure to the Mediterranean one."
+104. Sinan (Shinan) wreck: Green and Kim, “Shinan and Wando Sites”; Kim and Keith, “14th-Century Cargo.”
 
-98.   "they build ships": Wang Ta-yuan, Tao-I Chih lio [Wang Dayuan, Daoyi Zhilue], in Rockhill, "Notes" (1915), 623-24. See Chakravarti, "Overseas Trade in Horses," 351-52; and Deng, Maritime Sector, 112-13.
+105. “The Chinese vessels”: Ibn Battuta, Travels, 4:813. Chinese texts first discuss the flamethrower, or a device for “dispersing fierce incendiary oil,” in the Song Dynasty.
 
-99.   no more than forty horses: Agius, Classic Ships of Islam, 340-41. Horses require between 18 and 45 liters of water per day, depending on the conditions. Pryor estimates that a horse being carried in the Mediterranean during the summer would need about 36 liters, or 1.1 metric tons, for 30 days. Pryor and Jeffreys, Age of the Dromon, 327-29; air circulation: 330-31.
+106. 60 meters: Sleeswyk, “Liao and Displacement,” 12. The Chinese were apparently not alone in building such monumental ships, and the French traveler Augustin de Beaulieu described how “in 1629 the Acehnese built a grandiose galley about a hundred metres long.” See Reid, Expansion and Crisis, 42, citing Mémoires d’un voyage aux Indes orientales, 1619–1622: un marchand normand à Sumatra. The Chinese use of multiple planking—in effect creating a laminated hull—would have made a significant difference in the longitudinal strength, and therefore length, of the hull.
 
-100.   from Oman to the Malabar coast: Sulayman, Account of China and India, 14 (p. 38).
-
-101.      "endures all the strain": Three Voyages of Vasco da Gama (1869), 239-40, in Agius, Classic Ships of Islam, 163-64. On the advantages of sewn-plank construction, see chap. 2 and note on "The inherent flexibility," p. 604 above.
-
-102.   "carry a much bigger cargo": Polo, Travels, 242.
-
-103.   Quanzhou wreck: Green, "Song Dynasty Shipwreck"; Keith and Buys, "New Light on Ship Construction;" Li Guo-Qing, "Use of Chu-Nam"; and Merwin, "Excavation of a Sung Dynasty Seagoing Vessel."
-
-104.      Sinan (Shinan) wreck: Green and Kim, "Shinan and Wando Sites"; Kim and Keith, "14th-Century Cargo."
-
-105.      "The Chinese vessels": Ibn Battuta, Travels, 4:813. Chinese texts first discuss the flamethrower, or a device for "dispersing fierce incendiary oil," in the Song Dynasty.
-
-106.   60 meters: Sleeswyk, "Liao and Displacement," 12. The Chinese were apparently not alone in building such monumental ships, and the French traveler Augustin de Beaulieu described how "in 1629 the Acehnese built a grandiose galley about a hundred metres long." See Reid, Expansion and Crisis, 42, citing Mémoires d'un voyage aux Indes orientales, 1619-1622: un marchand normand à Sumatra. The Chinese use of multiple planking--in effect creating a laminated hull--would have made a significant difference in the longitudinal strength, and therefore length, of the hull.
-
-107.      Less contested: Ma Huan, Overall Survey, 10; Dreyer, Zheng He, 104-5. Zheng He organized but did not accompany the second expedition.
+107. Less contested: Ma Huan, Overall Survey, 10; Dreyer, Zheng He, 104–5. Zheng He organized but did not accompany the second expedition.
 
 ### 14. The World Encompassed
 
-1.   Some of the islands: Abulafia, "Neolithic Meets Medieval," 255,
+1. Some of the islands: Abulafia, “Neolithic Meets Medieval,” 255, 259.
 
-259.
+2. evidence of human habitation: Pliny, Natural History, 6.37.202–5 (vol. 2:489–91).
 
-2.   evidence of human habitation: Pliny, Natural History, 6.37.202-5 (vol. 2:489-91).
+3. Almoravid expedition: Picard, L’Océan Atlantique Musulman, 34.
 
-3.   Almoravid expedition: Picard, L'Océan Atlantique Musulman, 34.
+4. ousted by Castilian rivals: Fernández-Armesto, “Medieval Atlantic Exploration,” 46–51.
 
-4.   ousted by Castilian rivals: Fernández-Armesto, "Medieval Atlantic Exploration," 46-51.
+5. prevailing northeast winds: Fernández-Armesto, Before Columbus, 153.
 
-5.   prevailing northeast winds: Fernández-Armesto, Before Columbus,
+6. Isola de Legname: Verlinden, “European Participation,” 73; the map is by Nicolo de Pasqualin. According to Cadamosto, the first settlers cleared the land on Madeira by burning the trees. “So great was the first conflagration, that this [governor] Zuanconzales … was forced, with all the men, women, and children, to flee its fury and take refuge in the sea, where they remained, up to their necks in water, and without food or drink, for two days and two nights” (Crone, Voyages of Cadamosto, 9).
 
-153.
+7. Genoese mariners: Epstein, Genoa and the Genoese, 202; Fernández-Armesto, “Spanish Atlantic Voyages and Conquests,” 138.
 
-6.      Isola de Legname: Verlinden, "European Participation," 73; the map is by Nicolo de Pasqualin. According to Cadamosto, the first settlers cleared the land on Madeira by burning the trees. "So great was the first conflagration, that this [governor] Zuanconzales  …  was forced, with all the men, women, and children, to flee its fury and take refuge in the sea, where they remained, up to their necks in water, and without food or drink, for two days and two nights" (Crone, Voyages of Cadamosto, 9).
+8. Pessagno and his heirs: Verlinden, “European Participation,” 71–73.
 
-7.      Genoese mariners: Epstein, Genoa and the Genoese, 202; Fernández-Armesto, "Spanish Atlantic Voyages and Conquests,"
+9. Catalan Atlas: Woodward, “Medieval Mappaemundi,” 315. See Fernández-Armesto, Before Columbus, 156–57.
 
-138.
+10. “As for his skill”: Chaucer, Canterbury Tales, “Prologue,” ll. 401–10 (p. 30).
 
-8.   Pessagno and his heirs: Verlinden, "European Participation," 71-
+11. first printed sailing directions: Jonkers, “Sailing Directions,” 460.
 
-73.
+12. Lo Compasso da Navigare: Campbell, “Portolan Charts,” 382.
 
-9.      Catalan Atlas: Woodward, "Medieval Mappaemundi," 315. See Fernández-Armesto, Before Columbus, 156-57.
+13. northern European instructions: Unger, Ship in the Medieval Economy, 175.
 
-10.      "As for his skill": Chaucer, Canterbury Tales, "Prologue," ll. 401-10 (p. 30).
+14. “An [when] ye come”: In Taylor, Haven-Finding Art, 135; “2 parts over the sea” means two-thirds of the way.
 
-11.   first printed sailing directions: Jonkers, "Sailing Directions," 460.
+15. “If it should happen”: Jados, Consulate of the Sea, §251 (p. 157). See The Customs of the Sea, in Twiss, Black Book, 3:433–34.
 
-12.   Lo Compasso da Navigare: Campbell, "Portolan Charts," 382.
+16. “if a ship is lost”: Black Book, in Twiss, Black Book, 1:129. The Black Book is believed to have been compiled between the reigns of Edward III (1327–77) and Henry VI (1422–61).
 
-13.      northern European instructions: Unger, Ship in the Medieval Economy, 175.
+17. dead reckoning: This expression, as written, dates from the seventeenth century; the idea that it comes from “deduced reckoning” is a mid-twentieth-century fiction.
 
-14.      "An [when] ye come": In Taylor, Haven-Finding Art, 135; "2 parts over the sea" means two-thirds of the way.
+18. “[S]ailors, as they sail over the sea”: Neckham, De Naturis Rerum, book 2, chap. 98, in C.N.B., “Alexander on the Compass Needle,” 64.
 
-15.   "If it should happen": Jados, Consulate of the Sea, §251 (p. 157). See The Customs of the Sea, in Twiss, Black Book, 3:433-34.
+19. “When clouds prevent sailors”: Vincent of Beauvais, in Taylor, Haven-Finding Art, 94.
 
-16.   "if a ship is lost": Black Book, in Twiss, Black Book, 1:129. The Black Book is believed to have been compiled between the reigns of Edward III (1327-77) and Henry VI (1422-61).
+20. “half winds”: Taylor, Haven-Finding Art, 100, 111.
 
-17.      dead reckoning: This expression, as written, dates from the seventeenth century; the idea that it comes from "deduced reckoning" is a mid-twentieth-century fiction.
+21. portolan, or sea chart: Campbell, “Portolan Charts.”
 
-18.      "[S]ailors, as they sail over the sea": Neckham, De Naturis Rerum, book 2, chap. 98, in C.N.B., "Alexander on the Compass Needle," 64.
+22. mariner’s astrolabe: Paselk, “Navigational Instruments.”
 
-19.   "When clouds prevent sailors": Vincent of Beauvais, in Taylor, Haven-Finding Art, 94.
+23. A Genoese contract: Friel, “Carrack,” 78.
 
-20.   "half winds": Taylor, Haven-Finding Art, 100, 111.
+24. “ships”—naves: Ibid., 79.
 
-21.   portolan, or sea chart: Campbell, "Portolan Charts."
+25. caravel: Elbl, “Caravel”; Phillips, “Iberian Ships,” 220–28.
 
-22.   mariner's astrolabe: Paselk, "Navigational Instruments."
+26. qarib: Agius, Classic Ships of Islam, 271–74. Ibn Battuta uses qarib as a generic term for fishing and pearling boats in the Persian Gulf.
 
-23.   A Genoese contract: Friel, "Carrack," 78.
+27. “the Navigator”: Russell, Prince Henry, 8–9.
 
-24.   "ships"--naves: Ibid., 79.
+28. capture of Ceuta: Ibid., 31–34.
 
-25.   caravel: Elbl, "Caravel"; Phillips, "Iberian Ships," 220-28.
+29. exploitation of the Madeira Islands: Ibid., 88–99.
 
-26.   qarib: Agius, Classic Ships of Islam, 271-74. Ibn Battuta uses qarib as a generic term for fishing and pearling boats in the Persian Gulf.
+30. Cape Bojador—the Bulging Cape: “A wise pilot will … pass Bojador eight leagues out at sea.… Because Cape Bojador is most dangerous, as a reef of rock juts out in the sea more than four or five leagues, several ships have already been lost. This cape is very low and covered with sand … in ten fathoms you cannot see the land because it is so low.” Duarte Pacheco Pereira, Esmeralda de situ orbis: (1506–1508), in Diffie and Winius, Foundations, 69.
 
-27.   "the Navigator": Russell, Prince Henry, 8-9.
+31. “Portuguese caravels are coming”: In Crone, Voyages of Cadamosto, 17–18.
 
-28.   capture of Ceuta: Ibid., 31-34.
+32. the Southern Cross: Cadamosto’s reference to six stars probably refers to the four main stars in Crux and two from the constellation Centaur.
 
-29.   exploitation of the Madeira Islands: Ibid., 88-99.
+33. Cape Verde Islands: Diffie and Winius, Foundations, 103–7; Crone, Voyages of Cadamosto, xxxvi–xlii. Distance covered: Russell, Prince Henry, 342.
 
-30.      Cape Bojador--the Bulging Cape: "A wise pilot will  …  pass Bojador eight leagues out at sea.… Because Cape Bojador is most dangerous, as a reef of rock juts out in the sea more than four or five leagues, several ships have already been lost. This cape is very low and covered with sand … in ten fathoms you cannot see the land because it is so low." Duarte Pacheco Pereira, Esmeralda de situ orbis: (1506-1508), in Diffie and Winius, Foundations,
+34. inability to communicate: Ibid., 314.
 
-69.
+35. no one considered: Winius, “Enterprise Focused on India,” 90–92.
 
-31.      "Portuguese caravels are coming": In Crone, Voyages of Cadamosto, 17-18.
+36. These brutal campaigns: Diffie and Winius, Foundations, 110, 144–45, 213–14.
 
-32.   the Southern Cross: Cadamosto's reference to six stars probably refers to the four main stars in Crux and two from the constellation Centaur.
+37. contemporary legal interpretation: Perruso, “Development of the Doctrine of Res Communes,” 74–85.
 
-33.      Cape Verde Islands: Diffie and Winius, Foundations, 103-7; Crone, Voyages of Cadamosto, xxxvi-xlii. Distance covered: Russell, Prince Henry, 342.
+38. “justly and lawfully”: Romanus Pontifex, in Davenport, European Treaties, 23.
 
-34.   inability to communicate: Ibid., 314.
+39. “equipped or provisioned”: Treaty of Alcáçovas, in Davenport, European Treaties, 44.
 
-35.   no one considered: Winius, "Enterprise Focused on India," 90-
+40. circumnavigating Africa: Verlinden, “Big Leap Under Dom João II,” 70.
 
-92.
+41. “which enters the sea”: Barros, Asia, dec. 1, book 3, chap. 3, in Diffie and Winius, Foundations, 155.
 
-36.      These brutal campaigns: Diffie and Winius, Foundations, 110, 144-45, 213-14.
+42. “the Guinea Sea”: Barros, Asia, dec. 1, book 3, chap. 5, in Diffie and Winius, Foundations, 164.
 
-37.   contemporary legal interpretation: Perruso, "Development of the Doctrine of Res Communes," 74-85.
+43. Domestic problems: Subrahmanyam, Career and Legend, 43–57.
 
-38.   "justly and lawfully": Romanus Pontifex, in Davenport, European Treaties, 23.
+44. “that he would sail”: Las Casas, Las Casas on Columbus, 43. On the direction of Columbus’s voyages, see Wey Gómez, The Tropics of Empire, 37–45.
 
-39.   "equipped or provisioned": Treaty of Alcáçovas, in Davenport, European Treaties, 44.
+45. he failed: Fernández-Armesto, Columbus, 192.
 
-40.   circumnavigating Africa: Verlinden, "Big Leap Under Dom João II," 70.
+46. Columbus served his apprenticeship: Phillips and Phillips, Worlds of Christopher Columbus, 87–99; Fernández-Armesto, Columbus, 18–19.
 
-41.   "which enters the sea": Barros, Asia, dec. 1, book 3, chap. 3, in Diffie and Winius, Foundations, 155.
+47. “the world was buzzing”: Las Casas, Las Casas on Columbus, 31.
 
-42.   "the Guinea Sea": Barros, Asia, dec. 1, book 3, chap. 5, in Diffie and Winius, Foundations, 164.
+48. northern voyages took him: Fernández-Armesto, Columbus, 6, 18.
 
-43.   Domestic problems: Subrahmanyam, Career and Legend, 43-57.
+49. especially its great size: Fernández-Armesto, “Medieval Atlantic Exploration,” 65.
 
-44.   "that he would sail": Las Casas, Las Casas on Columbus, 43. On the direction of Columbus's voyages, see Wey Gómez, The Tropics of Empire, 37-45.
+50. Shortly before the start: Phillips and Phillips, Worlds of Christopher Columbus, 140. The Sargasso Sea is a large area of the Atlantic Ocean bounded by a number of currents but within which there is virtually no current and often no wind. Passage through it is further complicated by the presence of masses of sargassum weed. It lies roughly between 20º–35ºN and 30º–70ºW.
 
-45.   he failed: Fernández-Armesto, Columbus, 192.
+51. “Men of Cathay”: In ibid., 105.
 
-46.   Columbus served his apprenticeship: Phillips and Phillips, Worlds of Christopher Columbus, 87-99; Fernández-Armesto, Columbus, 18-19.
+52. “On the island of Flores”: Colón, Life of the Admiral Christopher Columbus, 24. Cape Verga is on the coast of Africa, 10ºN.
 
-47.   "the world was buzzing": Las Casas, Las Casas on Columbus, 31.
+53. “the perimeter of the earth”: Phillips and Phillips, Worlds of Christopher Columbus, 110.
 
-48.   northern voyages took him: Fernández-Armesto, Columbus, 6, 18.
+54. excessive compensation: Nader, Rights of Discovery, 63–64.
 
-49.   especially its great size: Fernández-Armesto, "Medieval Atlantic Exploration," 65.
+55. normally earned: Phillips and Phillips, Worlds of Christopher Columbus, 143.
 
-50.      Shortly before the start: Phillips and Phillips, Worlds of Christopher Columbus, 140. The Sargasso Sea is a large area of the Atlantic Ocean bounded by a number of currents but within which there is virtually no current and often no wind. Passage through it is further complicated by the presence of masses of sargassum weed. It lies roughly between 20º-35ºN and 30º-70ºW.
+56. Luis de Santángel: Ibid., 132.
 
-51.   "Men of Cathay": In ibid., 105.
+57. “a central figure”: Fernández-Armesto, Amerigo, 52.
 
-52.   "On the island of Flores": Colón, Life of the Admiral Christopher Columbus, 24. Cape Verga is on the coast of Africa, 10ºN.
+58. the caravels Niña and Pinta: Experts’ conjectures on the linear measurements of Columbus’s ships differ widely. The minimum dimensions proposed are: Niña, 15m by 5m; Pinta, 17m by 5m; and Santa María, 18m by 6m. See Elbl, “Caravel”; Pastor, Ships of Christopher Columbus; and Phillips, “Iberian Ships.”
 
-53.      "the perimeter of the earth": Phillips and Phillips, Worlds of Christopher Columbus, 110.
+59. Taino island of Guanahaní: The exact location of Columbus’s first landing is based on educated guesswork. Prevailing opinion favors San Salvador; other claimants—all in the Bahamas and within 250 nautical miles of each other—are the Caicos Islands, Semana Cay, and Cat Island. The English called San Salvador Watlings Island until the island’s strong claim to an historical pedigree was established.
 
-54.   excessive compensation: Nader, Rights of Discovery, 63-64.
+60. “which I believe”: In Phillips and Phillips, Worlds of Christopher Columbus, 163.
 
-55.      normally earned: Phillips and Phillips, Worlds of Christopher Columbus, 143.
+61. “I am not taking much pains”: In ibid., 163.
 
-56.   Luis de Santángel: Ibid., 132.
+62. “hearing the news”: Barros, Asia, dec. 1, book 3, chap. 11, in Diffie and Winius, Foundations, 171.
 
-57.   "a central figure": Fernández-Armesto, Amerigo, 52.
+63. a hundred leagues west: Inter Caetera, in Davenport, European Treaties, 74n18, 76. On the broader implications of dividing the ocean, see Mancke, “Early Modern Expansion.” On dates of the bulls, see Linden, “Alexander VI,” 3–8.
 
-58.   the caravels Niña and Pinta: Experts' conjectures on the linear measurements of Columbus's ships differ widely. The minimum dimensions proposed are: Niña, 15m by 5m; Pinta, 17m by 5m; and Santa María, 18m by 6m. See Elbl, "Caravel"; Pastor, Ships of Christopher Columbus; and Phillips, "Iberian Ships."
+64. “found or to be found”: “The Bull Dudum Siquidem,” in Davenport, European Treaties, 82.
 
-59.   Taino island of Guanahaní: The exact location of Columbus's first landing is based on educated guesswork. Prevailing opinion favors San Salvador; other claimants--all in the Bahamas and within 250 nautical miles of each other--are the Caicos Islands, Semana Cay, and Cat Island. The English called San Salvador Watlings Island until the island's strong claim to an historical pedigree was established.
+65. stealing gold and women: Phillips and Phillips, Worlds of Christopher Columbus, 199; Fernández-Armesto, Columbus, 104.
 
-60.   "which I believe": In Phillips and Phillips, Worlds of Christopher Columbus, 163.
+66. “earthly paradise”: Columbus, “Letter of Columbus to Their Majesties,” in Jane, Select Documents, 2:34. The rivers in Genesis 2.11–14 are the Pison (thought to be the Ganga or Indus), Gihon (Nile), Hiddekel (Tigris), and Euphrates.
 
-61.   "I am not taking much pains": In ibid., 163.
+67. in chains: Fernández-Armesto, Columbus, 153.
 
-62.   "hearing the news": Barros, Asia, dec. 1, book 3, chap. 11, in Diffie and Winius, Foundations, 171.
+68. the last two years of his life: Ibid., 177–84.
 
-63.   a hundred leagues west: Inter Caetera, in Davenport, European Treaties, 74n18, 76. On the broader implications of dividing the ocean, see Mancke, "Early Modern Expansion." On dates of the bulls, see Linden, "Alexander VI," 3-8.
+69. his writings implausibly suggest: Fernández-Armesto, Amerigo, 67.
 
-64.      "found or to be found": "The Bull Dudum Siquidem," in Davenport, European Treaties, 82.
+70. Martin Waldseemüller: Ibid., 185–91; Meurer, “Cartography in the German Lands,” 1204–7.
 
-65.      stealing gold and women: Phillips and Phillips, Worlds of Christopher Columbus, 199; Fernández-Armesto, Columbus, 104.
+71. “named Vasco da Gama”: Barros, Asia, dec. 1, book 4, chap. 1, in Subrahmanyam, Career and Legend, 54.
 
-66.      "earthly paradise": Columbus, "Letter of Columbus to Their Majesties," in Jane, Select Documents, 2:34. The rivers in Genesis
+72. “a youth who”: In Subrahmanyam, Career and Legend, 93.
 
-2.11-14 are the Pison (thought to be the Ganga or Indus), Gihon (Nile), Hiddekel (Tigris), and Euphrates.
+73. hired a pilot: This was long believed to be the navigator Ibn Majid, but this has been proved false. See Winius, “Enterprise Focused on India,” 115.
 
-67.   in chains: Fernández-Armesto, Columbus, 153.
+74. second-rate offerings: Subrahmanyam, Career and Legend, 136, 142.
 
-68.   the last two years of his life: Ibid., 177-84.
+75. “Lord of the Conquest”: In Radulet, “Vasco da Gama,” 137.
 
-69.   his writings implausibly suggest: Fernández-Armesto, Amerigo,
+76. Pedro Álvares Cabral: Subrahmanyam, Career and Legend, 174–84; Greenlee, Voyage of Pedro Alvares Cabral.
 
-67.
+77. Cabral bombarded the city: Winius, “Estado da India on the Subcontinent,” 193.
 
-70.   Martin Waldseemüller: Ibid., 185-91; Meurer, "Cartography in the German Lands," 1204-7.
+78. São Thomé de Meliapur: Winius, “Portugal’s Shadow Empire,” 248.
 
-71.   "named Vasco da Gama": Barros, Asia, dec. 1, book 4, chap. 1, in Subrahmanyam, Career and Legend, 54.
+79. Francisco Serrão: Barbosa, Magalhães, and Dames, The Book of Duarte Barbosa, 200.
 
-72.   "a youth who": In Subrahmanyam, Career and Legend, 93.
+80. “Please God the Almighty”: Sebastian Alvarez to Dom Manuel, in Stanley, First Voyage Round the World, pp. xliv–xlv. Credited with discovering Newfoundland for Portugal, the brothers Gaspar and Miguel Corte-Reals were lost at sea in 1501 and 1502, respectively.
 
-73.      hired a pilot: This was long believed to be the navigator Ibn Majid, but this has been proved false. See Winius, "Enterprise Focused on India," 115.
+81. “We ate biscuit”: Pigafetta, Magellan’s Voyage Around the World, 1:83–85.
 
-74.   second-rate offerings: Subrahmanyam, Career and Legend, 136,
+82. “a true Portuguese”: Camoens, Lusiads, book 10 (p. 246).
 
-142.
+83. Portuguese and Spanish experts: Bourne, “Demarcation Line of Pope Alexander VI,” 209.
 
-75.   "Lord of the Conquest": In Radulet, "Vasco da Gama," 137.
+84. “discovery, conquest and colonization”: In Schurz, Manila Galleon, 21.
 
-76.   Pedro Álvares Cabral: Subrahmanyam, Career and Legend, 174- 84; Greenlee, Voyage of Pedro Alvares Cabral.
+85. “to establish a route”: In Schurz, Manila Galleon, 21.
 
-77.      Cabral bombarded the city: Winius, "Estado da India on the Subcontinent," 193.
+86. “With this the foundation”: Martin de Zuñiga, in Schurz, Manila Galleon, 27. See Spate, Spanish Lake, 161.
 
-78.   São Thomé de Meliapur: Winius, "Portugal's Shadow Empire,"
-
-248.
-
-79.   Francisco Serrão: Barbosa, Magalhães, and Dames, The Book of Duarte Barbosa, 200.
-
-80.   "Please God the Almighty": Sebastian Alvarez to Dom Manuel, in Stanley, First Voyage Round the World, pp. xliv-xlv. Credited with discovering Newfoundland for Portugal, the brothers Gaspar and Miguel Corte-Reals were lost at sea in 1501 and 1502, respectively.
-
-81.   "We ate biscuit": Pigafetta, Magellan's Voyage Around the World, 1:83-85.
-
-82.   "a true Portuguese": Camoens, Lusiads, book 10 (p. 246).
-
-83.   Portuguese and Spanish experts: Bourne, "Demarcation Line of Pope Alexander VI," 209.
-
-84.      "discovery, conquest and colonization": In Schurz, Manila Galleon, 21.
-
-85.   "to establish a route": In Schurz, Manila Galleon, 21.
-
-86.   "With this the foundation": Martin de Zuñiga, in Schurz, Manila Galleon, 27. See Spate, Spanish Lake, 161.
-
-87.   agreed to annul the boundaries: Davenport, European Treaties, 170-71.
+87. agreed to annul the boundaries: Davenport, European Treaties, 170–71.
 
 ### 15. The Birth of Global Trade
 
-1.   "they crawled like lice": Blussé and Fernández-Armesto, Shifting Communities and Identity Formation, 2.
+1. “they crawled like lice”: Blussé and Fernández-Armesto, Shifting Communities and Identity Formation, 2.
 
-2.   "make a royal model map": In Fernández-Armesto, Amerigo, 180.
+2. “make a royal model map”: In Fernández-Armesto, Amerigo, 180.
 
-3.      Jews and unconverted Muslims: Elliott, Empires of the Atlantic World, 51.
+3. Jews and unconverted Muslims: Elliott, Empires of the Atlantic World, 51.
 
-4.      The New Spain fleet: Phillips, Six Galleons, 11-13; Pérez- Mallaína, Spain's Men of the Sea, 9-11.
+4. The New Spain fleet: Phillips, Six Galleons, 11–13; Pérez-Mallaína, Spain’s Men of the Sea, 9–11.
 
-5.   "neither house, hut": Hernando de Castro, writing from Santiago de Cuba to his partner in Seville, in Lockhart and Otte, Letters and People of the Spanish Indies, 26.
+5. “neither house, hut”: Hernando de Castro, writing from Santiago de Cuba to his partner in Seville, in Lockhart and Otte, Letters and People of the Spanish Indies, 26.
 
-6.   four hundred Spanish households: Pérez-Mallaína, Spain's Men of the Sea, 13.
+6. four hundred Spanish households: Pérez-Mallaína, Spain’s Men of the Sea, 13.
 
-7.   "These two towns": Juan Cristóbal Calvete des Estrella, in Cook, Born to Die, 105-6.
+7. “These two towns”: Juan Cristóbal Calvete des Estrella, in Cook, Born to Die, 105–6.
 
-8.   Buenos Aires: Rocca, "Buenos Aires," 323-24.
+8. Buenos Aires: Rocca, “Buenos Aires,” 323–24.
 
-9.   Realejo (Corinto, Nicaragua): Radell and Parsons, "Realejo."
+9. Realejo (Corinto, Nicaragua): Radell and Parsons, “Realejo.”
 
-10.   five or six months: Spate, Spanish Lake, 106.
+10. five or six months: Spate, Spanish Lake, 106.
 
-11.      "Put all the Guinea countries": In Thomas, Slave Trade, 110. "The peça [piece] de Indias was a prime young male slave; all other slaves of both sexes counted less than a peça. This term might, therefore, include two or even three individuals" (Boxer, Portuguese Seaborne Empire, 100).
+11. “Put all the Guinea countries”: In Thomas, Slave Trade, 110. “The peça [piece] de Indias was a prime young male slave; all other slaves of both sexes counted less than a peça. This term might, therefore, include two or even three individuals” (Boxer, Portuguese Seaborne Empire, 100).
 
-12.   fifty thousand more Africans: Thomas, Slave Trade, 134; Boxer, Portuguese Seaborne Empire, 104.
+12. fifty thousand more Africans: Thomas, Slave Trade, 134; Boxer, Portuguese Seaborne Empire, 104.
 
-13.   number of ships: Boxer, Portuguese Seaborne Empire, 104.
+13. number of ships: Boxer, Portuguese Seaborne Empire, 104.
 
-14.   diplomacy and aggression: Russell-Wood, World on the Move, 15, 21-22.
+14. diplomacy and aggression: Russell-Wood, World on the Move, 15, 21–22.
 
-15.   "the more fortresses": In Earle and Villiers, Albuquerque, 10.
+15. “the more fortresses”: In Earle and Villiers, Albuquerque, 10.
 
-16.   Afonso de Albuquerque: Ibid., 1-3.
+16. Afonso de Albuquerque: Ibid., 1–3.
 
-17.      "I have taken Goa": In ibid., 16, 201. See Albuquerque, Commentaries, 3.258; and Diffie and Winius, Foundations, 250-
+17. “I have taken Goa”: In ibid., 16, 201. See Albuquerque, Commentaries, 3.258; and Diffie and Winius, Foundations, 250–51.
 
-51.
+18. “And this is the result”: Albuquerque, Commentaries, 3:260.
 
-18.   "And this is the result": Albuquerque, Commentaries, 3:260.
+19. “often used to say”: Ibid., 3:264.
 
-19.   "often used to say": Ibid., 3:264.
+20. “Then I burned the city”: In Earle and Villiers, Albuquerque, 17.
 
-20.   "Then I burned the city": In Earle and Villiers, Albuquerque, 17.
+21. “I am very sure”: In ibid., 81.
 
-21.   "I am very sure": In ibid., 81.
+22. “Whoever is lord of Malacca”: Pires, Suma Oriental, 2:287.
 
-22.   "Whoever is lord of Malacca": Pires, Suma Oriental, 2:287.
+23. sailed for the Spice Islands: Diffie and Winius, Foundations, 296–300.
 
-23.   sailed for the Spice Islands: Diffie and Winius, Foundations, 296-
+24. spice cargoes at Alexandria: Lane, “Venetian Shipping,” 11.
 
-300.
+25. seized Gallipoli: Imber, Ottoman Empire, 287–92.
 
-24.   spice cargoes at Alexandria: Lane, "Venetian Shipping," 11.
+26. “the Sultan gave orders”: In Kortepeter, “Ottoman Imperial Policy,” 89.
 
-25.   seized Gallipoli: Imber, Ottoman Empire, 287-92.
+27. “won the key”: Sultan Bayezid II, in Kortepeter, “Ottoman Imperial Policy,” 92.
 
-26.      "the Sultan gave orders": In Kortepeter, "Ottoman Imperial Policy," 89.
+28. destroyed an Ottoman fleet: Brummett, Ottoman Seapower, 69, 116–17.
 
-27.      "won the key": Sultan Bayezid II, in Kortepeter, "Ottoman Imperial Policy," 92.
+29. “Urge the Mamluk sultan”: In ibid., 43.
 
-28.   destroyed an Ottoman fleet: Brummett, Ottoman Seapower, 69, 116-17.
+30. “if you desire”: Albuquerque, Commentaries, 2:111–18, in Brummett, Ottoman Seapower, 45.
 
-29.   "Urge the Mamluk sultan": In ibid., 43.
+31. “new charts”: In Casale, Ottoman Age of Exploration, 25.
 
-30.      "if you desire": Albuquerque, Commentaries, 2:111-18, in Brummett, Ottoman Seapower, 45.
+32. “freedom for the Muslims of India”: In Casale, Ottoman Age of Exploration, 68.
 
-31.   "new charts": In Casale, Ottoman Age of Exploration, 25.
+33. Sefer Reis: Casale, Ottoman Age of Exploration, 100–101, 110–14.
 
-32.   "freedom for the Muslims of India": In Casale, Ottoman Age of Exploration, 68.
+34. “the volume of spices”: Da Silva, Corpo Diplomático Portuguez, 9:136, in Casale, Ottoman Age of Exploration, 115.
 
-33.   Sefer Reis: Casale, Ottoman Age of Exploration, 100-101, 110-
+35. “in Sind, Cambay, Dabul”: Diogo do Couto, Década, 8a, in Casale, “Ottoman Administration,” 180.
 
-14.
+36. spices continued to reach Alexandria: Braudel, Mediterranean, 1:550.
 
-34.   "the volume of spices": Da Silva, Corpo Diplomático Portuguez, 9:136, in Casale, Ottoman Age of Exploration, 115.
+37. “When anger is felt”: In Casale, “Ottoman Administration,” 185–86.
 
-35.      "in Sind, Cambay, Dabul": Diogo do Couto, Década, 8a, in Casale, "Ottoman Administration," 180.
+38. different approaches: Casale, Ottoman Age of Exploration, 143–45.
 
-36.   spices continued to reach Alexandria: Braudel, Mediterranean, 1:550.
+39. dig canals: Ibid., 135–37.
 
-37.   "When anger is felt": In Casale, "Ottoman Administration," 185-
+40. “His Majesty’s Servant Lutfi”: Ibid., 123–29.
 
-86.
+41. “500 Turks”: Ibid., 133.
 
-38.   different approaches: Casale, Ottoman Age of Exploration, 143-
+42. twenty thousand Zimba: Ibid., 174–76.
 
-45.
+43. Indian merchants: These were known by a variety of names depending on their religion and place of origin. Hindus included banias from Gujarat, Chetties and Kelings (Tamil Nadu), and Oriyas (Orissa); Chulias were Tamil Muslims. See McPherson, Indian Ocean, 155; Prakash, “Indian Maritime Merchant, 1500–1800,” 436, 440–41.
 
-39.   dig canals: Ibid., 135-37.
+44. manned by Asians: Boxer, Portuguese Seaborne Empire, 57.
 
-40.   "His Majesty's Servant Lutfi": Ibid., 123-29.
+45. “without any doubt”: Gemelli Careri (1584), in ibid., 205.
 
-41.   "500 Turks": Ibid., 133.
+46. “some dying there”: Linschoten, Voyage, 2:230.
 
-42.   twenty thousand Zimba: Ibid., 174-76.
+47. marry natives: Mathew, Portuguese Trade with India in the Sixteenth Century, 215–16.
 
-43.      Indian merchants: These were known by a variety of names depending on their religion and place of origin. Hindus included banias from Gujarat, Chetties and Kelings (Tamil Nadu), and Oriyas (Orissa); Chulias were Tamil Muslims. See McPherson, Indian Ocean, 155; Prakash, "Indian Maritime Merchant, 1500- 1800," 436, 440-41.
+48. Surat: Subrahmanyam, “Note on the Rise of Surat,” 32; Prakash, “Indian Maritime Merchant, 1500–1800,” 444, 448, 451; and Chaudhuri, “Surat Revisited,” 18.
 
-44.   manned by Asians: Boxer, Portuguese Seaborne Empire, 57.
+49. “When they are still”: Inspector Hendrik Adriaan van Reede tot Drakenstein to the Dutch factors, Feb. 21, 1687; in Prakash, “Indian Maritime Merchant, 1500–1800,” 435.
 
-45.   "without any doubt": Gemelli Careri (1584), in ibid., 205.
+50. into Mughal coins: Prakash, “Indian Maritime Merchant, 1500–1800,” 442.
 
-46.   "some dying there": Linschoten, Voyage, 2:230.
+51. Mocha: Ibid., 444–46.
 
-47.      marry natives: Mathew, Portuguese Trade with India in the Sixteenth Century, 215-16.
+52. “King Manuel of Portugal”: In Earle and Villiers, Albuquerque, 79.
 
-48.   Surat: Subrahmanyam, "Note on the Rise of Surat," 32; Prakash, "Indian Maritime Merchant, 1500-1800," 444, 448, 451; and Chaudhuri, "Surat Revisited," 18.
+53. guns and mercenaries: Glete, Warfare at Sea, 72.
 
-49.   "When they are still": Inspector Hendrik Adriaan van Reede tot Drakenstein to the Dutch factors, Feb. 21, 1687; in Prakash, "Indian Maritime Merchant, 1500-1800," 435.
+54. about 5 percent: Prakash, “Asian Merchants and the Portuguese Trade in Asia,” 133. There was a range of about 3.5 to 8 percent depending on the port and whether the tax was levied on exports or imports. See Diffie and Winius, Foundations, 321.
 
-50.   into Mughal coins: Prakash, "Indian Maritime Merchant, 1500- 1800," 442.
+55. Nor did possession: Mathew, Portuguese Trade with India in the Sixteenth Century, 210.
 
-51.   Mocha: Ibid., 444-46.
+56. banning all maritime trade: Wills, “Relations with Maritime Europeans,” 339–40.
 
-52.   "King Manuel of Portugal": In Earle and Villiers, Albuquerque,
+57. wokou, “Japanese pirates”: So, Japanese Piracy, 1. The Japanese word is wako.
 
-79.
+58. “the Portuguese sailed”: Zhu Wan memorial of Feb. 5, 1548, in So, Japanese Piracy, 55.
 
-53.   guns and mercenaries: Glete, Warfare at Sea, 72.
+59. clocks and other mechanical devices: Zheng, China on the Sea, 141–47.
 
-54.   about 5 percent: Prakash, "Asian Merchants and the Portuguese Trade in Asia," 133. There was a range of about 3.5 to 8 percent depending on the port and whether the tax was levied on exports or imports. See Diffie and Winius, Foundations, 321.
+60. served as middlemen: So, Japanese Piracy, 69.
 
-55.   Nor did possession: Mathew, Portuguese Trade with India in the Sixteenth Century, 210.
+61. harquebus: Brown, “Impact of Firearms on Japanese Warfare,” 236–39.
 
-56.      banning all maritime trade: Wills, "Relations with Maritime Europeans," 339-40.
+62. three hundred thousand Japanese Christians: Sansom, History of Japan, 1334–1615, 372; Massarella, “Jesuits and Japan.”
 
-57.   wokou, "Japanese pirates": So, Japanese Piracy, 1. The Japanese word is wako.
+63. Christianity was outlawed: Sansom, History of Japan, 1615–1867, 39–45.
 
-58.   "the Portuguese sailed": Zhu Wan memorial of Feb. 5, 1548, in So, Japanese Piracy, 55.
+64. Japan remained off-limits: Sansom, History of Japan, 1334–1615, 176; Elisonas, “Inseparable Trinity,” 262–63.
 
-59.   clocks and other mechanical devices: Zheng, China on the Sea, 141-47.
+65. Hideyoshi also: Elisonas, “Inseparable Trinity,” 265–70.
 
-60.   served as middlemen: So, Japanese Piracy, 69.
+66. “sea captains and fishermen”: In ibid., 264.
 
-61.   harquebus: Brown, "Impact of Firearms on Japanese Warfare," 236-39.
+67. “On its upper deck”: Yi Pun, “Biography of Yi Sun-sin,” in Yi Sun-sin, Imjin Changch’o, 210.
 
-62.   three hundred thousand Japanese Christians: Sansom, History of Japan, 1334-1615, 372; Massarella, "Jesuits and Japan."
+68. battle of Myeongryang: Elisonas, “Inseparable Trinity,” 287.
 
-63.      Christianity was outlawed: Sansom, History of Japan, 1615- 1867, 39-45.
+69. “a fitting end”: Ballard, Influence of the Sea, 66.
 
-64.   Japan remained off-limits: Sansom, History of Japan, 1334-1615, 176; Elisonas, "Inseparable Trinity," 262-63.
+70. reported at Jeddah: Lane, “Mediterranean Spice Trade,” 30–31.
 
-65.   Hideyoshi also: Elisonas, "Inseparable Trinity," 265-70.
+71. per capita consumption: Wake, “Changing Pattern,” 392–95.
 
-66.   "sea captains and fishermen": In ibid., 264.
+72. Malabar pepper crop: Mathew, Portuguese Trade with India in the Sixteenth Century, 213.
 
-67.   "On its upper deck": Yi Pun, "Biography of Yi Sun-sin," in Yi Sun-sin, Imjin Changch'o, 210.
+73. “responsible for more espionage”: Braudel, Mediterranean, 1:572.
 
-68.   battle of Myeongryang: Elisonas, "Inseparable Trinity," 287.
+74. grain ships: Brummett, Ottoman Seapower, 135.
 
-69.   "a fitting end": Ballard, Influence of the Sea, 66.
+75. an elaborate black market: Braudel, Mediterranean, 1:591–94; Imber, Ottoman Empire, 300.
 
-70.   reported at Jeddah: Lane, "Mediterranean Spice Trade," 30-31.
+76. growth of Mediterranean trade: Braudel, Mediterranean, 1:616, 622.
 
-71.   per capita consumption: Wake, "Changing Pattern," 392-95.
+77. “capitulations”: Inalcik, “Ottoman State,” 188–95, 188, 374.
 
-72.   Malabar pepper crop: Mathew, Portuguese Trade with India in the Sixteenth Century, 213.
+78. protection of the French flag: Faroqhi, Ottoman Empire and the World Around It, 60–61, 144–47.
 
-73.      "responsible for more espionage": Braudel, Mediterranean, 1:572.
+79. large, heavily armed ships: Andrews, Trade, Plunder and Settlement, 99.
 
-74.   grain ships: Brummett, Ottoman Seapower, 135.
+80. ignoring papal interdicts: Inalcik, “Ottoman State,” 370, 374, 380.
 
-75.      an elaborate black market: Braudel, Mediterranean, 1:591-94; Imber, Ottoman Empire, 300.
+81. burden of reprisals: Wood, History of the Levant Company, 25–26, 30–31.
 
-76.   growth of Mediterranean trade: Braudel, Mediterranean, 1:616,
+82. The Dutch followed: Braudel, Mediterranean, 1:599–602; Inalcik, “Ottoman State,” 375–76.
 
-622.
+83. most easily done at Antwerp: Paviot, “Trade Between Portugal and the Southern Netherlands,” 26; Wee, “Structural Changes,” 28–29; and Braudel, Civilization and Capitalism, 3:144–46.
 
-77.   "capitulations": Inalcik, "Ottoman State," 188-95, 188, 374.
+84. “a heavy yearly expenditure”: In Boxer, Dutch Seaborne Empire, 6.
 
-78.   protection of the French flag: Faroqhi, Ottoman Empire and the World Around It, 60-61, 144-47.
+85. a majority of ships: Palmer, The Baltic, 64; Barbour, “Dutch and English Merchant Shipping,” 267.
 
-79.      large, heavily armed ships: Andrews, Trade, Plunder and Settlement, 99.
+86. virtually all its naval stores: Barbour, “Dutch and English Merchant Shipping,” 272.
 
-80.   ignoring papal interdicts: Inalcik, "Ottoman State," 370, 374, 380.
+87. sixty-four shares: Israel, Dutch Primacy, 21. A memorandum of the English General Shipowners Society dated Dec. 11, 1823, explains the rationale for dividing a ship evenly—“upon the binary principle of halving the ship, and proportions under each, down to a sixty-fourth part”—that is, 1, 2, 4, 8, 16, 32, and 64 shares. Lloyd’s Register, “Infosheet No. 25: 64 Shares,” online at LR.org.
 
-81.   burden of reprisals: Wood, History of the Levant Company, 25- 26, 30-31.
+88. fluit: Unger, “Fluit,” 115–23.
 
-82.      The Dutch followed: Braudel, Mediterranean, 1:599-602; Inalcik, "Ottoman State," 375-76.
+89. Antwerp was an early casualty: Wee, “Structural Changes,” 30.
 
-83.   most easily done at Antwerp: Paviot, "Trade Between Portugal and the Southern Netherlands," 26; Wee, "Structural Changes," 28-29; and Braudel, Civilization and Capitalism, 3:144-46.
+90. encroaching on the English and Hanse trade: Israel, Dutch Primacy, 46–48.
 
-84.   "a heavy yearly expenditure": In Boxer, Dutch Seaborne Empire,
+91. “robbed homewards by Flemings”: Purchas, Hakluytus Posthumus, 12:50.
 
-6.
+92. “the Russian Mesopotamia”: Kerner, Urge to the Sea, 35.
 
-85.   a majority of ships: Palmer, The Baltic, 64; Barbour, "Dutch and English Merchant Shipping," 267.
+93. “northwards, north-eastwards”: In Willan, Early History of the Russia Company, 6.
 
-86.      virtually all its naval stores: Barbour, "Dutch and English Merchant Shipping," 272.
+94. more diverse selection: Israel, Dutch Primacy, 44.
 
-87.   sixty-four shares: Israel, Dutch Primacy, 21. A memorandum of the English General Shipowners Society dated Dec. 11, 1823, explains the rationale for dividing a ship evenly--"upon the binary principle of halving the ship, and proportions under each, down to a sixty-fourth part"--that is, 1, 2, 4, 8, 16, 32, and 64 shares. Lloyd's Register, "Infosheet No. 25: 64 Shares," online at LR.org.
+95. port at Archangel: Kerner, Urge to the Sea, 179.
 
-88.   fluit: Unger, "Fluit," 115-23.
+96. Muscovy turned to the east: Ibid., 41–43.
 
-89.   Antwerp was an early casualty: Wee, "Structural Changes," 30.
+97. “being famed for attacking ships”: Remezov Chronicle, 3, in Armstrong, Yermak’s Campaign in Siberia, 91.
 
-90.      encroaching on the English and Hanse trade: Israel, Dutch Primacy, 46-48.
+98. via river and portage: Armstrong, Yermak’s Campaign in Siberia, 18–19; Hellie, Economy and Material Culture of Russia, 479–81.
 
-91.      "robbed homewards by Flemings": Purchas, Hakluytus Posthumus, 12:50.
+99. “no kind of dues”: Charter from Tsar Ivan Vasil’yevich to Grigorey Stroganov, Apr. 4, 1558, in Armstrong, Yermak’s Campaign in Siberia, 281. See Kerner, Urge to the Sea, 73.
 
-92.   "the Russian Mesopotamia": Kerner, Urge to the Sea, 35.
+100. “a Countrey that hath”: Raleigh, Discoverie of … Guiana (1596), 96.
 
-93.   "northwards, north-eastwards": In Willan, Early History of the Russia Company, 6.
+101. staked competing claims: Simsarian, “The Acquisition of Legal Title to Terra Nullius,” 111, 121–28.
 
-94.   more diverse selection: Israel, Dutch Primacy, 44.
+102. “For those who used the sea lines”: Glete, Warfare at Sea, 60.
 
-95.   port at Archangel: Kerner, Urge to the Sea, 179.
+103. monopolize the use of violence: Rodger, “New Atlantic,” 233–36.
 
-96.   Muscovy turned to the east: Ibid., 41-43.
+104. “very well treated”: Antonio Barbarigo, in Capponi, Victory of the West, 199.
 
-97.      "being famed for attacking ships": Remezov Chronicle, 3, in Armstrong, Yermak's Campaign in Siberia, 91.
+105. slaves and convicts: Capponi, Victory of the West, 196–98; Imber, Ottoman Empire, 302–7.
 
-98.   via river and portage: Armstrong, Yermak's Campaign in Siberia, 18-19; Hellie, Economy and Material Culture of Russia, 479-81.
+106. a new style of rowing: Capponi, Victory of the West, 194–99. A scaloccio is of uncertain derivation, possibly related to the Italian scala, meaning ladder.
 
-99.      "no kind of dues": Charter from Tsar Ivan Vasil'yevich to Grigorey Stroganov, Apr. 4, 1558, in Armstrong, Yermak's Campaign in Siberia, 281. See Kerner, Urge to the Sea, 73.
+107. access to bases: Domingues, “State of Portuguese Naval Forces,” 191–92.
 
-100.      "a Countrey that hath": Raleigh, Discoverie of  …  Guiana (1596), 96.
+108. Portuguese ship types: Ibid., 195. See Elbl, “Caravel,” 97–87; and Phillips, “Galleon,” 100–102.
 
-101.   staked competing claims: Simsarian, "The Acquisition of Legal Title to Terra Nullius," 111, 121-28.
+109. “the first ocean-going sailing ship”: Domingues, “Portuguese Naval Forces in the Sixteenth Century,” 195. See also Elbl, “Caravel,” 97–87; Phillips, “Galleon,” 100–102.
 
-102.   "For those who used the sea lines": Glete, Warfare at Sea, 60.
+110. first printed shipbuilding manual: Diego García de Palacio’s Instrucion nauthica, para el buen uso y regimiento de las naos su traça, y govierno conforme à la altura de México (Nautical instruction, for the good use and management of ships, their design, and conduct in accordance with the latitude of Mexico), published in Mexico City. See Ferreiro, Ships and Science, 47.
 
-103.   monopolize the use of violence: Rodger, "New Atlantic," 233-
+111. trend toward gigantism: The Danish Engelen and Maria displaced about 1,500–2,000 tons, the Grand François proved too big to sail, and The Historie and Chronicles of Scotland describes James IV’s Michael as “the greatest scheip and maist [most] of strength that ewer saillit Ingland or France” (Macdougall, “ ‘Greatest Scheip That Ewer Saillit’ ”).
 
-36.
+112. English naval establishment: Rodger, Safeguard of the Sea, 221–37.
 
-104.   "very well treated": Antonio Barbarigo, in Capponi, Victory of the West, 199.
+113. Sound tolls: Glete, Warfare at Sea, 114–15.
 
-105.      slaves and convicts: Capponi, Victory of the West, 196-98; Imber, Ottoman Empire, 302-7.
+114. favor shown the Dutch: Brand, “Habsburg Diplomacy During the Holland-Wend War,” 122–23.
 
-106.   a new style of rowing: Capponi, Victory of the West, 194-99. A scaloccio is of uncertain derivation, possibly related to the Italian scala, meaning ladder.
+115. formation of a Swedish navy: Glete, “Naval Power and Control of the Sea,” 220–23.
 
-107.      access to bases: Domingues, "State of Portuguese Naval Forces," 191-92.
+116. galleass: Capponi, Victory of the West, 191–92; Guilmartin, Gunpowder and Galleys, 246; and Martin and Parker, Spanish Armada, 271–73.
 
-108.   Portuguese ship types: Ibid., 195. See Elbl, "Caravel," 97-87; and Phillips, "Galleon," 100-102.
+117. excellent gun platform: Rodger, “Guns and Sails,” 82–85; Guilmartin, Gunpowder and Galleys, 107–9.
 
-109.      "the first ocean-going sailing ship": Domingues, "Portuguese Naval Forces in the Sixteenth Century," 195. See also Elbl, "Caravel," 97-87; Phillips, "Galleon," 100-102.
+118. “crudely”: Rodger, “Development of Broadside Gunnery,” 306.
 
-110.      first printed shipbuilding manual: Diego García de Palacio's Instrucion nauthica, para el buen uso y regimiento de las naos su traça, y govierno conforme à la altura de México (Nautical instruction, for the good use and management of ships, their design, and conduct in accordance with the latitude of Mexico), published in Mexico City. See Ferreiro, Ships and Science, 47.
+119. Scandinavian Seven Years’ War: Glete, “Naval Power and Control of the Sea,” 217–32; Glete, Warfare at Sea, 116–24.
 
-111.      trend toward gigantism: The Danish Engelen and Maria displaced about 1,500-2,000 tons, the Grand François proved too big to sail, and The Historie and Chronicles of Scotland describes James IV's Michael as "the greatest scheip and maist [most] of strength that ewer saillit Ingland or France" (Macdougall, " 'Greatest Scheip That Ewer Saillit' ").
+120. one shot per hour: Rodger, Command of the Ocean, 17.
 
-112.   English naval establishment: Rodger, Safeguard of the Sea, 221-
+121. Curzolari Islands: Capponi, Victory of the West, 253–57.
 
-37.
+122. “You have shaved”: In Parker, “Lepanto,” 263. See Capponi, Victory of the West, 296–313; and Lane, Venice, 374.
 
-113.   Sound tolls: Glete, Warfare at Sea, 114-15.
+123. battle off the island of São Miguel: Glete, Warfare at Sea, 155–56; Padfield, Tide of Empires, 129–30. The battle is also called also Punta Delgada and, mistakenly, Terceira.
 
-114.   favor shown the Dutch: Brand, "Habsburg Diplomacy During the Holland-Wend War," 122-23.
+124. “convenient and fit harbor”: Drake, World Encompassed, 64.
 
-115.   formation of a Swedish navy: Glete, "Naval Power and Control of the Sea," 220-23.
+125. “ordered the ship itself”: Letter from Bernardino de Mendoza, Spanish ambassador at London, to Philip II, Jan. 9, 1581, in Sugden, Sir Francis Drake, 150.
 
-116.      galleass: Capponi, Victory of the West, 191-92; Guilmartin, Gunpowder and Galleys, 246; and Martin and Parker, Spanish Armada, 271-73.
+126. “piratically taken”: In Sugden, Sir Francis Drake, 145.
 
-117.      excellent gun platform: Rodger, "Guns and Sails," 82-85; Guilmartin, Gunpowder and Galleys, 107-9.
+127. this formidable assemblage: Rodger, Safeguard of the Sea, 259, 269.
 
-118.   "crudely": Rodger, "Development of Broadside Gunnery," 306.
+128. “But unless God helps us”: Anonymous officer to a papal diplomat, in ibid., 259.
 
-119.      Scandinavian Seven Years' War: Glete, "Naval Power and Control of the Sea," 217-32; Glete, Warfare at Sea, 116-24.
+129. “irretrievable miscarriage”: Corbett, Successors of Drake, vi; Thompson, War and Government, 185–97.
 
-120.   one shot per hour: Rodger, Command of the Ocean, 17.
+### 16. State and Sea in the Age of European Expansion
 
-121.   Curzolari Islands: Capponi, Victory of the West, 253-57.
+1. “ledger and sword”: This is the title of Beckles Willson’s two-volume Ledger and Sword; or, The Honorable Company of Merchants of England Trading to the East Indies (1599–1874) (London: Longmans, Green, 1903).
 
-122.      "You have shaved": In Parker, "Lepanto," 263. See Capponi, Victory of the West, 296-313; and Lane, Venice, 374.
+2. merchant ships captured: Davis, Rise of the English Shipping Industry, 51.
 
-123.   battle off the island of São Miguel: Glete, Warfare at Sea, 155- 56; Padfield, Tide of Empires, 129-30. The battle is also called also Punta Delgada and, mistakenly, Terceira.
+3. Philip III banned: Israel, Dutch Primacy, 56–73.
 
-124.   "convenient and fit harbor": Drake, World Encompassed, 64.
+4. routine destruction of logbooks: This may be one reason that no indigenous maps of Southeast Asia have survived, although their existence is known from accounts by European travelers and geographers, including Ludovico de Varthema, a Bolognese merchant who reached Southeast Asia shortly before the arrival of the Portuguese, and the Venetian diplomat Giovanni Ramusio, as well as from a letter by Afonso de Albuquerque to Manuel. See Gelpke, “Afonso de Albuquerque’s Map,” 76–77.
 
-125.   "ordered the ship itself": Letter from Bernardino de Mendoza, Spanish ambassador at London, to Philip II, Jan. 9, 1581, in Sugden, Sir Francis Drake, 150.
+5. “Goa, and the Indies”: Linschoten, Voyage, 1:42.
 
-126.   "piratically taken": In Sugden, Sir Francis Drake, 145.
+6. sixty-five ships: Gaastra, Dutch East India Company, 17.
 
-127.   this formidable assemblage: Rodger, Safeguard of the Sea, 259,
+7. commercial treaties: Parry, Establishment of the European Hegemony, 88.
 
-269.
+8. “established … solely”: In Steensgaard, Asian Trade Revolution, 132. Earlier companies may have sought to trade in peace, but they did not sail unarmed. The states of Holland and Zeeland had furnished ships’ guns, small arms, and other weaponry gratis. See Israel, Dutch Primacy, 67.
 
-128.      "But unless God helps us": Anonymous officer to a papal diplomat, in ibid., 259.
+9. “The great East India Company”: In Steensgaard, Asian Trade Revolution, 128n41.
 
-129.      "irretrievable miscarriage": Corbett, Successors of Drake, vi; Thompson, War and Government, 185-97.
+10. “a great town”: In Blussé, “Brief Encounter at Macao,” 651–52.
 
-### 16. State and Sea in the Age of European
+11. capture of the Santa Catarina: Ittersum, “Hugo Grotius in Context,” 518.
 
-### Expansion
+12. “it is lawful”: Grotius, The Free Sea, chap. 1 (p. 10). Grotius refined his defense of Van Heemskerck in De Jure Belli ac Pacis (On the Law of War and Peace, 1625).
 
-1.      "ledger and sword": This is the title of Beckles Willson's twovolume Ledger and Sword; or, The Honorable Company of Merchants of England Trading to the East Indies (1599-1874) (London: Longmans, Green, 1903).
+13. “known continents”: In Knecht, Renaissance Warrior and Patron, 375.
 
-2.      merchant ships captured: Davis, Rise of the English Shipping Industry, 51.
+14. “that he did not send”: Cardinal of Toledo to the Emperor, Jan. 27, 1541, in Biggar, Collection of Documents, 190.
 
-3.   Philip III banned: Israel, Dutch Primacy, 56-73.
+15. “the sea & trade”: Hakluyt, “Whither an Englishman May Trade into the West Indies with Certain Answers to the Popes Bull,” in Armitage, Ideological Origins of the British Empire, 108. Hakluyt’s chief work is The Principal Navigations, Voiages, Traffiqves and Discoueries of the English Nation (1598–1600). Following his death, Samuel Purchas enlarged upon this influential work with publication of Haklvytvs posthumus; or, Pvrchas his Pilgrimes…(1625). Hakluyt’s last publication was an English translation of Grotius’s Mare Liberum.
 
-4.   routine destruction of logbooks: This may be one reason that no indigenous maps of Southeast Asia have survived, although their existence is known from accounts by European travelers and geographers, including Ludovico de Varthema, a Bolognese merchant who reached Southeast Asia shortly before the arrival of the Portuguese, and the Venetian diplomat Giovanni Ramusio, as well as from a letter by Afonso de Albuquerque to Manuel. See Gelpke, "Afonso de Albuquerque's Map," 76-77.
+16. Of the Dominion, or, Ownership of the Sea: Armitage, Ideological Origins of the British Empire, 108–9; Berkowitz, John Selden’s Formative Years, 52.
 
-5.   "Goa, and the Indies": Linschoten, Voyage, 1:42.
+17. “Customs of so many Nations”: Selden, Of the Dominion, 44, in Thornton, “John Selden’s Response,” 112.
 
-6.   sixty-five ships: Gaastra, Dutch East India Company, 17.
+18. “sea-territory of the British Empire”: Selden, Of the Dominion, 459, in Thornton, “John Selden’s Response,” 121–22.
 
-7.      commercial treaties: Parry, Establishment of the European Hegemony, 88.
+19. preserve their own monopoly: Knaap and Sutherland, Monsoon Traders, 20–22.
 
-8.   "established … solely": In Steensgaard, Asian Trade Revolution,
+20. a fixed share: Marshall, “English in Asia,” 271.
 
-132. Earlier companies may have sought to trade in peace, but they did not sail unarmed. The states of Holland and Zeeland had furnished ships' guns, small arms, and other weaponry gratis. See Israel, Dutch Primacy, 67.
+21. Spanish colony at Manila: Israel, Dutch Primacy, 172–73.
 
-9.      "The great East India Company": In Steensgaard, Asian Trade Revolution, 128n41.
+22. Batavia was a city: Blussé, Visible Cities, 37–40.
 
-10.   "a great town": In Blussé, "Brief Encounter at Macao," 651-52.
+23. “The Chinese are the only bees”: In Andrade, “Rise and Fall of Dutch Taiwan,” 431, 441; Ts’ao, “Taiwan as an Entrepot,” 96–100; Blussé, “Brief Encounter at Macao,” 663; and Reed, “Colonial Origins of Manila and Batavia.”
 
-11.      capture of the Santa Catarina: Ittersum, "Hugo Grotius in Context," 518.
+24. Zheng Chenggong: Struve, “Southern Ming,” 666–67, 710–25; Wills, “Maritime China,” 215, 226–28.
 
-12.      "it is lawful": Grotius, The Free Sea, chap. 1 (p. 10). Grotius refined his defense of Van Heemskerck in De Jure Belli ac Pacis (On the Law of War and Peace, 1625).
+25. the Manchus ordered: Antony, Like Froth Floating on the Sea, 35–36.
 
-13.   "known continents": In Knecht, Renaissance Warrior and Patron,
+26. lifted the prohibition: Ts’ao, “Taiwan as an Entrepot,” 103.
 
-375.
+27. government-issued vermilion seals: Blussé, Visible Cities, 20–21.
 
-14.   "that he did not send": Cardinal of Toledo to the Emperor, Jan. 27, 1541, in Biggar, Collection of Documents, 190.
+28. “four gates”: Tsuruta, “Establishment and Characteristics,” 30–31; Shapinsky, “Polyvocal Portolans,” 19.
 
-15.   "the sea & trade": Hakluyt, "Whither an Englishman May Trade into the West Indies with Certain Answers to the Popes Bull," in Armitage, Ideological Origins of the British Empire, 108. Hakluyt's chief work is The Principal Navigations, Voiages, Traffiqves and Discoueries of the English Nation (1598-1600). Following his death, Samuel Purchas enlarged upon this influential work with publication of Haklvytvs posthumus; or, Pvrchas his Pilgrimes…(1625). Hakluyt's last publication was an English translation of Grotius's Mare Liberum.
+29. The Dutch hoped to trade: Blussé, “Divesting a Myth,” 396.
 
-16.   Of the Dominion, or, Ownership of the Sea: Armitage, Ideological Origins of the British Empire, 108-9; Berkowitz, John Selden's Formative Years, 52.
+30. “Company officials”: F. Valentijn, Van Oud en Nieuw Oost-Indiën (Dordrecht, 1724–26), vol. 5b, p. 165, in Blussé, Visible Cities, 21.
 
-17.   "Customs of so many Nations": Selden, Of the Dominion, 44, in Thornton, "John Selden's Response," 112.
+31. tear down their warehouse: Blussé, Visible Cities, 22.
 
-18.   "sea-territory of the British Empire": Selden, Of the Dominion, 459, in Thornton, "John Selden's Response," 121-22.
+32. Japanese silver: Arasaratnam, Maritime India, 79.
 
-19.   preserve their own monopoly: Knaap and Sutherland, Monsoon Traders, 20-22.
+33. East India Company alone shipped: Marshall, “English in Asia,” 269.
 
-20.   a fixed share: Marshall, "English in Asia," 271.
+34. “Bring us textiles”: Van Heemskerck to the Directors of the United Amsterdam Company, Aug. 27, 1603, in Ittersum, “Hugo Grotius in Context,” 534.
 
-21.   Spanish colony at Manila: Israel, Dutch Primacy, 172-73.
+35. Gujarati merchants: Arasaratnam, Maritime India, 58.
 
-22.   Batavia was a city: Blussé, Visible Cities, 37-40.
+36. corridors of political power: Steensgaard, Asian Trade Revolution, 120.
 
-23.   "The Chinese are the only bees": In Andrade, "Rise and Fall of Dutch Taiwan," 431, 441; Ts'ao, "Taiwan as an Entrepot," 96- 100; Blussé, "Brief Encounter at Macao," 663; and Reed, "Colonial Origins of Manila and Batavia."
+37. low-value, high-volume goods: Marshall, “English in Asia,” 274–75.
 
-24.   Zheng Chenggong: Struve, "Southern Ming," 666-67, 710-25; Wills, "Maritime China," 215, 226-28.
+38. negotiating with the English and Dutch: Arasaratnam, Maritime India, 61–64; Furber, Rival Empires of Trade, 40.
 
-25.   the Manchus ordered: Antony, Like Froth Floating on the Sea, 35-36.
+39. deeply invested: Arasaratnam, Maritime India, 76.
 
-26.   lifted the prohibition: Ts'ao, "Taiwan as an Entrepot," 103.
+40. building merchant ships: Barendse, “Shipbuilding in Seventeenth-Century Western India,” 179; Qaisar, “Shipbuilding in the Mughal Empire.”
 
-27.   government-issued vermilion seals: Blussé, Visible Cities, 20-21.
+41. Shah Jahan: Prakash, “Indian Maritime Merchant, 1500–1800,” 446.
 
-28.   "four gates": Tsuruta, "Establishment and Characteristics," 30- 31; Shapinsky, "Polyvocal Portolans," 19.
+42. rupees: Haider, “Structure and Movement of Wages,” 305.
 
-29.   The Dutch hoped to trade: Blussé, "Divesting a Myth," 396.
+43. Bengal merchants preferred: Arasaratnam, “India and the Indian Ocean,” 121.
 
-30.   "Company officials": F. Valentijn, Van Oud en Nieuw Oost-Indiën (Dordrecht, 1724-26), vol. 5b, p. 165, in Blussé, Visible Cities,
+44. Siddis of Janjira: Ali, African Dispersal in the Deccan, 157–92.
 
-21.
+45. a coherent naval strategy: Kulkarni, “Marathas and the Sea,” 210; this is known from Ramchandra Pant Amatya’s Adnyapatra (royal edict), written before 1717, but after Shivaji’s death.
 
-31.   tear down their warehouse: Blussé, Visible Cities, 22.
+46. the port was riven: Das Gupta, “Maritime Merchant of India,” 99.
 
-32.   Japanese silver: Arasaratnam, Maritime India, 79.
+47. Mulla Abdul Ghafur: Ibid., 94–100.
 
-33.   East India Company alone shipped: Marshall, "English in Asia,"
+48. Henry Avery: Ritchie, Captain Kidd, 85–89; Das Gupta, Indian Merchants, 98–99.
 
-269.
+49. not all English were pirates: Furber, Rival Empires of Trade, 40.
 
-34.      "Bring us textiles": Van Heemskerck to the Directors of the United Amsterdam Company, Aug. 27, 1603, in Ittersum, "Hugo Grotius in Context," 534.
+50. The Omani reconquest: Ames, “Straits of Hurmuz Fleets”; Bathurst, “Maritime Trade and Imamate Government,” 96–103.
 
-35.   Gujarati merchants: Arasaratnam, Maritime India, 58.
+51. “by which happy result”: Ioannes De Laet, Historie ofte Iaerlijke Verhael van de verrichtinghen der Geoctroyeerde West-Indische Compagnie (History, or the True Story of the Operations of the Honorable West India Company), 2:4–5, in Goslinga, Dutch in the Caribbean, 168.
 
-36.   corridors of political power: Steensgaard, Asian Trade Revolution,
+52. “for his lack of care”: In Phillips, Six Galleons, 5.
 
-120.
+53. Heyn predeceased him: Stradling, Armada of Flanders, 78–79.
 
-37.   low-value, high-volume goods: Marshall, "English in Asia," 274-
+54. sugar was more valuable: Padfield, Tide of Empires, 162.
 
-75.
+55. Curaçao: Klooster, Illicit Riches, 41, 64, 73–74.
 
-38.   negotiating with the English and Dutch: Arasaratnam, Maritime India, 61-64; Furber, Rival Empires of Trade, 40.
+56. Port Royal became: Lane, Pillaging the Empire, 103–9, 169.
 
-39.   deeply invested: Arasaratnam, Maritime India, 76.
+57. “No private offense”: Treaty of Madrid, §14, in Davenport, European Treaties, 2:195–96.
 
-40.   building merchant ships: Barendse, "Shipbuilding in SeventeenthCentury Western India," 179; Qaisar, "Shipbuilding in the Mughal Empire."
+58. Treaty of Whitehall: Lane, Pillaging the Empire, 125–27; Davenport, European Treaties, 2:321–22, 363.
 
-41.   Shah Jahan: Prakash, "Indian Maritime Merchant, 1500-1800,"
+59. “to seeke out”: In Morison, European Discovery of America, 159.
 
-446.
+60. “that the sea is covered”: Raimondo di Soncino, Dec. 18, 1497, in Hoffman, Cabot to Cartier, 11.
 
-42.   rupees: Haider, "Structure and Movement of Wages," 305.
+61. Dried, salted, or pickled fish: Fagan, Fish on Friday, 54–55. See Unger, “Netherlands Herring Fishery,” “Dutch Herring, Technology, and International Trade”; and Kowaleski, “Commercialization of the Sea Fisheries.”
 
-43.   Bengal merchants preferred: Arasaratnam, "India and the Indian Ocean," 121.
+62. fishing ships at St. John’s: Morison, European Discovery of America, 235.
 
-44.   Siddis of Janjira: Ali, African Dispersal in the Deccan, 157-92.
+63. Port Royal (now Annapolis Royal): Morison, Samuel de Champlain, 71–77.
 
-45.   a coherent naval strategy: Kulkarni, "Marathas and the Sea," 210; this is known from Ramchandra Pant Amatya's Adnyapatra (royal edict), written before 1717, but after Shivaji's death.
+64. Company of New France: Successor to the Compagnie des Marchands and Compagnie de Montmorency, the Company of New France was formally known as the Compagnie des Cent-Associés (Company of One Hundred Associates).
 
-46.   the port was riven: Das Gupta, "Maritime Merchant of India," 99.
+65. “the land of Louisiana”: In Murat, Colbert, 240. La Salle named the Illinois River for Colbert’s son and successor as minister of the marine, Seignelay.
 
-47.   Mulla Abdul Ghafur: Ibid., 94-100.
+66. A northbound flatboat: Surrey, Commerce of Louisiana, 58–74.
 
-48.   Henry Avery: Ritchie, Captain Kidd, 85-89; Das Gupta, Indian Merchants, 98-99.
+67. “Also we might inhabite”: Gilbert, Discourse of a Discouerie for a New Passage to Cataia, in Quinn, Voyages and Colonising Enterprises, 1:160–61.
 
-49.   not all English were pirates: Furber, Rival Empires of Trade, 40.
+68. “no mynes discouered”: “Davies Journal of the 1607 North Virginia Voyage,” in Quinn and Quinn, English New England Voyages, 415.
 
-50.      The Omani reconquest: Ames, "Straits of Hurmuz Fleets"; Bathurst, "Maritime Trade and Imamate Government," 96-103.
+69. indent themselves: Bergquist, “Paradox of American Development,” 158–59.
 
-51.   "by which happy result": Ioannes De Laet, Historie ofte Iaerlijke Verhael van de verrichtinghen der Geoctroyeerde West-Indische Compagnie (History, or the True Story of the Operations of the Honorable West India Company), 2:4-5, in Goslinga, Dutch in the Caribbean, 168.
+70. The first slaves were landed: Heywood and Thornton, Central Africans, Atlantic Creoles, 27–28.
 
-52.   "for his lack of care": In Phillips, Six Galleons, 5.
+71. “To think of discovering”: In Johnson, Charting the Sea of Darkness, 87.
 
-53.   Heyn predeceased him: Stradling, Armada of Flanders, 78-79.
+72. “And of all the foure parts”: Smith, Description of New England, 6.
 
-54.   sugar was more valuable: Padfield, Tide of Empires, 162.
+73. Tisquantum (or Squanto): Humins, “Squanto and Massasoit,” 58–59.
 
-55.   Curaçao: Klooster, Illicit Riches, 41, 64, 73-74.
+74. Great Migration: Horn and Morgan, “Settlers and Slaves,” 24; Games, “Migration,” 38–42.
 
-56.   Port Royal became: Lane, Pillaging the Empire, 103-9, 169.
+75. astonishing safety record: Cressy, “Vast and Furious Ocean,” 516. The one loss Cressy notes, the Angel Gabriel, was lost in a hurricane in 1635 while at anchor off Pemaquid, Maine, after completing her passage. See Riess, Angel Gabriel, 44–46.
 
-57.      "No private offense": Treaty of Madrid, §14, in Davenport, European Treaties, 2:195-96.
+76. “set our people on work”: Winthrop, Journal of John Winthrop, June–August 1641, 353.
 
-58.      Treaty of Whitehall: Lane, Pillaging the Empire, 125-27; Davenport, European Treaties, 2:321-22, 363.
+77. cost of transporting: Rodger, Command of the Ocean, 192.
 
-59.   "to seeke out": In Morison, European Discovery of America, 159.
+78. “containing important inducements”: M. Edward Hayes, “A Treatise, conteining important inducements for the planting in these parts, and finding a passage that way to the South sea and China” (1602), in Quinn and Quinn, English New England Voyages, 176.
 
-60.   "that the sea is covered": Raimondo di Soncino, Dec. 18, 1497, in Hoffman, Cabot to Cartier, 11.
+79. “There is also the very good news”: Pepys, Diary, Dec. 3, 1666 (vol. 7:397). On comparison with oil, see Albion, Forests and Sea Power, xi, 164. Albion was writing in 1926, when oil consumption was a fraction of what it is nine decades later.
 
-61.   Dried, salted, or pickled fish: Fagan, Fish on Friday, 54-55. See Unger, "Netherlands Herring Fishery," "Dutch Herring, Technology, and International Trade"; and Kowaleski, "Commercialization of the Sea Fisheries."
+80. from the Carolinas: Malone, Pine Trees and Politics, 24, 33–36.
 
-62.      fishing ships at St. John's: Morison, European Discovery of America, 235.
+81. place of refuge: Lane, Pillaging the Empire, 168.
 
-63.      Port Royal (now Annapolis Royal): Morison, Samuel de Champlain, 71-77.
+82. new merchant centers: Morison et al., Concise History of the American Republic, 34–35.
 
-64.      Company of New France: Successor to the Compagnie des Marchands and Compagnie de Montmorency, the Company of New France was formally known as the Compagnie des Cent- Associés (Company of One Hundred Associates).
+83. Count-Duke Olivares: Stradling, Armada of Flanders, 60–62.
 
-65.   "the land of Louisiana": In Murat, Colbert, 240. La Salle named the Illinois River for Colbert's son and successor as minister of the marine, Seignelay.
+84. frigates stationed at Dunkirk: Glete, Navies and Nations, 1:61; Thrush, “In Pursuit of the Frigate.”
 
-66.   A northbound flatboat: Surrey, Commerce of Louisiana, 58-74.
+85. “from now on”: In Stradling, Armada of Flanders, 54; also 46–47, 58, 75.
 
-67.   "Also we might inhabite": Gilbert, Discourse of a Discouerie for a New Passage to Cataia, in Quinn, Voyages and Colonising Enterprises, 1:160-61.
+86. Admiralty of the North: Almirantazgo de los Países Septentrionales, in Stradling, Armada of Flanders, 42; James, “Development of French Naval Policy,” 386.
 
-68.      "no mynes discouered": "Davies Journal of the 1607 North Virginia Voyage," in Quinn and Quinn, English New England Voyages, 415.
+87. sweeping protectionist measures: O’Connell, Richelieu, 145.
 
-69.      indent themselves: Bergquist, "Paradox of American Development," 158-59.
+88. La Rochelle fell: Burckhardt, Richelieu, 1:244–79.
 
-70.      The first slaves were landed: Heywood and Thornton, Central Africans, Atlantic Creoles, 27-28.
+89. France had no national navy: Ibid., 2:41; James, “Development of French Naval Policy,” 387–88.
 
-71.      "To think of discovering": In Johnson, Charting the Sea of Darkness, 87.
+90. “true citadels of the sea”: Burckhardt, Richelieu, 2:29–30.
 
-72.   "And of all the foure parts": Smith, Description of New England,
+91. battle of Guetaría: Stradling, Armada of Flanders, 104–8; Glete, Warfare at Sea, 181–82.
 
-6.
+92. “the ignominy of seeing our king”: Burckhardt, Richelieu, 2:32.
 
-73.   Tisquantum (or Squanto): Humins, "Squanto and Massasoit," 58-
+93. “Such a rotten, miserable fleet”: J. Ashburnham to E. Nicholas, Oct. 26, 1627, in Rodger, Safeguard of the Sea, 363.
 
-59.
+94. “ship money”: Sharpe, Personal Rule of Charles I, 554–55; Cust, Charles I, 191; and Rodger, Safeguard of the Sea, 381–82.
 
-74.      Great Migration: Horn and Morgan, "Settlers and Slaves," 24; Games, "Migration," 38-42.
+95. “his princely resolution”: Pett, Autobiography, 156.
 
-75.   astonishing safety record: Cressy, "Vast and Furious Ocean," 516. The one loss Cressy notes, the Angel Gabriel, was lost in a hurricane in 1635 while at anchor off Pemaquid, Maine, after completing her passage. See Riess, Angel Gabriel, 44-46.
+96. “the art or wit of man”: In Heywood, His Majesty’s Royal Ship, xiv.
 
-76.   "set our people on work": Winthrop, Journal of John Winthrop, June-August 1641, 353.
+97. “Decorements whiche beautify”: Ibid., xxx.
 
-77.   cost of transporting: Rodger, Command of the Ocean, 192.
+98. battle of the Downs: Rodger, Safeguard of the Sea, 413.
 
-78.      "containing important inducements": M. Edward Hayes, "A Treatise, conteining important inducements for the planting in these parts, and finding a passage that way to the South sea and China" (1602), in Quinn and Quinn, English New England Voyages, 176.
+99. the organization of which: Bruijn, Dutch Navy, 5–11, 145–46.
 
-79.   "There is also the very good news": Pepys, Diary, Dec. 3, 1666 (vol. 7:397). On comparison with oil, see Albion, Forests and Sea Power, xi, 164. Albion was writing in 1926, when oil consumption was a fraction of what it is nine decades later.
+100. “only in such [ships]”: In Aughterson, The English Renaissance, 554.
 
-80.   from the Carolinas: Malone, Pine Trees and Politics, 24, 33-36.
+101. “In the Prow”: Evelyn, Diary, Apr. 1, 1655 (vol. 3:149–50).
 
-81.   place of refuge: Lane, Pillaging the Empire, 168.
+102. line of battle: Rodger, Command of the Ocean, 17; Anglo-Dutch War: ibid., 14–18.
 
-82.      new merchant centers: Morison et al., Concise History of the American Republic, 34-35.
+103. “the greatest [admiral]”: In Rodger, Command of the Ocean, 85.
 
-83.   Count-Duke Olivares: Stradling, Armada of Flanders, 60-62.
+104. “the Dutch did take her”: Pepys, Diary, June 22, 1667 (vol. 8:283).
 
-84.   frigates stationed at Dunkirk: Glete, Navies and Nations, 1:61; Thrush, "In Pursuit of the Frigate."
+105. “A very good town”: Charles to Henriette Anne, in Fraser, Royal Charles, 232.
 
-85.   "from now on": In Stradling, Armada of Flanders, 54; also 46- 47, 58, 75.
+106. “In this city of Amsterdam”: In Hart, “Intercity Rivalries,” 196.
 
-86.      Admiralty of the North: Almirantazgo de los Países Septentrionales, in Stradling, Armada of Flanders, 42; James, "Development of French Naval Policy," 386.
+107. the French doubled customs tariffs: Murat, Colbert, 148.
 
-87.   sweeping protectionist measures: O'Connell, Richelieu, 145.
+108. program of internal improvements: Ibid., 159–60.
 
-88.   La Rochelle fell: Burckhardt, Richelieu, 1:244-79.
+109. subsidized Charles II: Ibid., 208.
 
-89.   France had no national navy: Ibid., 2:41; James, "Development of French Naval Policy," 387-88.
+110. merchants of neutral England: Rodger, Command of the Ocean, 86.
 
-90.   "true citadels of the sea": Burckhardt, Richelieu, 2:29-30.
+111. “the final administrative recognition”: Ibid., 220.
 
-91.   battle of Guetaría: Stradling, Armada of Flanders, 104-8; Glete, Warfare at Sea, 181-82.
+112. ship of the line: Lavery, The Ship of the Line.
 
-92.   "the ignominy of seeing our king": Burckhardt, Richelieu, 2:32.
+113. guns were fired: Rodger, Command of the Ocean, 74, 540.
 
-93.   "Such a rotten, miserable fleet": J. Ashburnham to E. Nicholas, Oct. 26, 1627, in Rodger, Safeguard of the Sea, 363.
-
-94.   "ship money": Sharpe, Personal Rule of Charles I, 554-55; Cust, Charles I, 191; and Rodger, Safeguard of the Sea, 381-82.
-
-95.   "his princely resolution": Pett, Autobiography, 156.
-
-96.   "the art or wit of man": In Heywood, His Majesty's Royal Ship, xiv.
-
-97.   "Decorements whiche beautify": Ibid., xxx.
-
-98.   battle of the Downs: Rodger, Safeguard of the Sea, 413.
-
-99.   the organization of which: Bruijn, Dutch Navy, 5-11, 145-46.
-
-100.   "only in such [ships]": In Aughterson, The English Renaissance,
-
-554.
-
-101.   "In the Prow": Evelyn, Diary, Apr. 1, 1655 (vol. 3:149-50).
-
-102.   line of battle: Rodger, Command of the Ocean, 17; Anglo-Dutch War: ibid., 14-18.
-
-103.   "the greatest [admiral]": In Rodger, Command of the Ocean, 85.
-
-104.      "the Dutch did take her": Pepys, Diary, June 22, 1667 (vol. 8:283).
-
-105.   "A very good town": Charles to Henriette Anne, in Fraser, Royal Charles, 232.
-
-106.   "In this city of Amsterdam": In Hart, "Intercity Rivalries," 196.
-
-107.   the French doubled customs tariffs: Murat, Colbert, 148.
-
-108.   program of internal improvements: Ibid., 159-60.
-
-109.   subsidized Charles II: Ibid., 208.
-
-110.   merchants of neutral England: Rodger, Command of the Ocean,
-
-86.
-
-111.   "the final administrative recognition": Ibid., 220.
-
-112.   ship of the line: Lavery, The Ship of the Line.
-
-113.   guns were fired: Rodger, Command of the Ocean, 74, 540.
-
-114.      Fighting Instructions: Benjamin and Tifrea, "Learning by Dying," 987.
+114. Fighting Instructions: Benjamin and Tifrea, “Learning by Dying,” 987.
 
 ### 17. Northern Europe Ascendant
 
-1.   an apparently straightforward mission: Walter, Voyage Round the World.
+1. an apparently straightforward mission: Walter, Voyage Round the World.
 
-2.   "soldiers, who from their age": Anson, Voyage Round the World,
+2. “soldiers, who from their age”: Anson, Voyage Round the World, 23.
 
-23.
+3. “muster no more than two”: Ibid., 102.
 
-3.   "muster no more than two": Ibid., 102.
+4. Despite the loss: Williams, Prize of All the Oceans, 202.
 
-4.   Despite the loss: Williams, Prize of All the Oceans, 202.
+5. entitled to a share: Ibid., 217–18. For a fuller account of the prize system, see Petrie, Prize Game.
 
-5.   entitled to a share: Ibid., 217-18. For a fuller account of the prize system, see Petrie, Prize Game.
+6. “It is an observation”: Lind, An Essay on the Most Effectual Means of Preserving the Health of Seamen (1779), in Rodger, Command of the Ocean, 281; Baugh, The Global Seven Years War, 429–31.
 
-6.   "It is an observation": Lind, An Essay on the Most Effectual Means of Preserving the Health of Seamen (1779), in Rodger, Command of the Ocean, 281; Baugh, The Global Seven Years War, 429-31.
+7. Quiberon Bay: Baugh, The Global Seven Years War, 436–43.
 
-7.   Quiberon Bay: Baugh, The Global Seven Years War, 436-43.
+8. ship fever: Duffy, “Passage to the Colonies,” 23.
 
-8.   ship fever: Duffy, "Passage to the Colonies," 23.
+9. forced to subsist: Lloyd, “Victualling of the Fleet,” 10.
 
-9.   forced to subsist: Lloyd, "Victualling of the Fleet," 10.
+10. “I began to allow”: In Strachan, East India Company Journals, Apr. 7, 1614 (p. 69).
 
-10.   "I began to allow": In Strachan, East India Company Journals, Apr. 7, 1614 (p. 69).
+11. James Lind: Rodger, Command of the Ocean, 307–8; Bartholomew, “James Lind and Scurvy”; and Duffy, “Passage to the Colonies,” 31, 38.
 
-11.      James Lind: Rodger, Command of the Ocean, 307-8; Bartholomew, "James Lind and Scurvy"; and Duffy, "Passage to the Colonies," 31, 38.
+12. “The water and the wine”: In Boxer, Dutch Seaborne Empire, 74.
 
-12.   "The water and the wine": In Boxer, Dutch Seaborne Empire, 74.
+13. normally needs: Pérez-Mallaína, Spain’s Men of the Sea, 144.
 
-13.   normally needs: Pérez-Mallaína, Spain's Men of the Sea, 144.
+14. Parliament awarded: Gratzer, Terrors of the Table, 24.
 
-14.   Parliament awarded: Gratzer, Terrors of the Table, 24.
+15. one gallon of beer per day: Lloyd, “Victualling of the Fleet,” 10.
 
-15.   one gallon of beer per day: Lloyd, "Victualling of the Fleet," 10.
+16. “we dranke the last Beere”: In Sail Training Assoc. of Western Australia, Duyfken 1606.
 
-16.   "we dranke the last Beere": In Sail Training Assoc. of Western Australia, Duyfken 1606.
+17. “every day mixed”: Pack, Nelson’s Blood, 22–23.
 
-17.   "every day mixed": Pack, Nelson's Blood, 22-23.
+18. “Slavery itself”: Fox to the House of Commons, June 10, 1806, in Thomas, Slave Trade, 493.
 
-18.   "Slavery itself": Fox to the House of Commons, June 10, 1806, in Thomas, Slave Trade, 493.
+19. fifteen autobiographical accounts: Handler, “Survivors of the Middle Passage,” 25–30.
 
-19.      fifteen autobiographical accounts: Handler, "Survivors of the Middle Passage," 25-30.
+20. Olauduh Equiano: Ibid., 50–51n10. Equiano was employed for several years by Charles Irving and helped in his experiments with distilling water.
 
-20.   Olauduh Equiano: Ibid., 50-51n10. Equiano was employed for several years by Charles Irving and helped in his experiments with distilling water.
+21. “During the voyages I made”: Falconbridge, Account of the Slave Trade, 24–25.
 
-21.   "During the voyages I made": Falconbridge, Account of the Slave Trade, 24-25.
+22. space allotted to each slave: Garland and Klein, “Allotment of Space,” 240–41.
 
-22.   space allotted to each slave: Garland and Klein, "Allotment of Space," 240-41.
+23. opposition from traders: LoGerfo, “Sir William Dolben,” 450.
 
-23.   opposition from traders: LoGerfo, "Sir William Dolben," 450.
+24. “to harden the feelings”: Falconbridge, Account of the Slave Trade, 46.
 
-24.      "to harden the feelings": Falconbridge, Account of the Slave Trade, 46.
+25. “The ship voyage”: Christopher Sauer, letter of Aug. 1, 1725, in Wokeck, Trade in Strangers, 132.
 
-25.   "The ship voyage": Christopher Sauer, letter of Aug. 1, 1725, in Wokeck, Trade in Strangers, 132.
+26. “the sad and miserable condition”: Mittelberger, Journey to Pennsylvania, 12.
 
-26.      "the sad and miserable condition": Mittelberger, Journey to Pennsylvania, 12.
+27. 2.7 million were Europeans: Horn and Morgan, “Settlers and Slaves,” 20.
 
-27.      2.7 million were Europeans: Horn and Morgan, "Settlers and Slaves," 20.
+28. “better acquainted”: Narborough’s journal, in Rodger, Command of the Ocean, 82.
 
-28.   "better acquainted": Narborough's journal, in Rodger, Command of the Ocean, 82.
+29. inadequate for a prolonged naval war: Pilgrim, “Colbert-Seignelay Naval Reforms.”
 
-29.      inadequate for a prolonged naval war: Pilgrim, "ColbertSeignelay Naval Reforms."
+30. “inferior sailors”: Falconer, Universal Dictionary of the Marine, s.v. “ordinary.”
 
-30.   "inferior sailors": Falconer, Universal Dictionary of the Marine, s.v. "ordinary."
+31. “The fighting part”: Russell, National Maritime Museum mss., SOU/13, in Aubrey, Defeat of James Stuart’s Armada, 84.
 
-31.   "The fighting part": Russell, National Maritime Museum mss., SOU/13, in Aubrey, Defeat of James Stuart's Armada, 84.
+32. naval bases, shipyards, and port facilities: Glete, Navies and Nations, 187–88; Murat, Colbert, 237; Rodger, Command of the Ocean, 105–6; and Kennedy, Rise and Fall of British Naval Mastery, 65–66.
 
-32.      naval bases, shipyards, and port facilities: Glete, Navies and Nations, 187-88; Murat, Colbert, 237; Rodger, Command of the Ocean, 105-6; and Kennedy, Rise and Fall of British Naval Mastery, 65-66.
+33. Bank of England: Brewer, Sinews of Power, 42, 133 (“Dutch finance”); Padfield, Maritime Supremacy, 194–96; and Rodger, Command of the Ocean, 198–99.
 
-33.      Bank of England: Brewer, Sinews of Power, 42, 133 ("Dutch finance"); Padfield, Maritime Supremacy, 194-96; and Rodger, Command of the Ocean, 198-99.
+34. most powerful navy in the world: Rodger, Command of the Ocean, 234; Harding, The Emergence of Britain’s Naval Supremacy, 39–46.
 
-34.      most powerful navy in the world: Rodger, Command of the Ocean, 234; Harding, The Emergence of Britain's Naval Supremacy, 39-46.
+35. capture of Portobelo: Harding, The Emergence of Britain’s Naval Supremacy, 68.
 
-35.   capture of Portobelo: Harding, The Emergence of Britain's Naval Supremacy, 68.
+36. hard-won lessons: Ibid., 341–48.
 
-36.   hard-won lessons: Ibid., 341-48.
+37. fought in the Indian Ocean: Baugh, The Global Seven Years War, 462–83; Louisbourg: 338–48; all Canada: 404–20, 483–92.
 
-37.   fought in the Indian Ocean: Baugh, The Global Seven Years War, 462-83; Louisbourg: 338-48; all Canada: 404-20, 483-92.
+38. “If we lose our sugar islands”: George III to Sandwich, Sept. 13, 1779, in Padfield, Maritime Supremacy, 250.
 
-38.   "If we lose our sugar islands": George III to Sandwich, Sept. 13, 1779, in Padfield, Maritime Supremacy, 250.
+39. merchants and cod fishermen: Magra, The Fisherman’s Cause, 130–32.
 
-39.   merchants and cod fishermen: Magra, The Fisherman's Cause, 130-32.
+40. American shipwrights launched: Davis, Rise of the English Shipping Industry, 67–68.
 
-40.      American shipwrights launched: Davis, Rise of the English Shipping Industry, 67-68.
+41. enumerated goods: Nester, Great Frontier War, 76.
 
-41.   enumerated goods: Nester, Great Frontier War, 76.
+42. “I tell the Noble Lord”: William Dowdeswell, in Labaree, Boston Tea Party, 71.
 
-42.   "I tell the Noble Lord": William Dowdeswell, in Labaree, Boston Tea Party, 71.
+43. Intolerable (or Coercive) Acts: Leamon, Revolution Downeast, 50–51.
 
-43.      Intolerable (or Coercive) Acts: Leamon, Revolution Downeast, 50-51.
+44. “carrying on any Fishery”: In Magra, The Fisherman’s Cause, 149.
 
-44.      "carrying on any Fishery": In Magra, The Fisherman's Cause,
+45. expedition to Penobscot Bay: Leamon, Revolution Downeast, 107–19.
 
-149.
+46. British privateers: Klooster, Illicit Riches, 96.
 
-45.      expedition to Penobscot Bay: Leamon, Revolution Downeast, 107-19.
+47. driving down Lake Champlain: Hagan, This People’s Navy, 6–9.
 
-46.   British privateers: Klooster, Illicit Riches, 96.
+48. the rebels might win: Dull, The French Navy and American Independence, 89–91.
 
-47.   driving down Lake Champlain: Hagan, This People's Navy, 6-9.
+49. battle of the Virginia Capes: Ibid., 239–49.
 
-48.      the rebels might win: Dull, The French Navy and American Independence, 89-91.
+50. Cape Colony: The VOC had established a provisioning station for their ships at Cape Town, South Africa, at the start of the First Anglo-Dutch War in the seventeenth century. The initial inhabitants were VOC employees, whose numbers were augmented by Malagasy slaves and Dutch and French Huguenot settlers. Thompson, History of South Africa, 31–45.
 
-49.   battle of the Virginia Capes: Ibid., 239-49.
+51. “The good Dutchmen”: In Mahan, Influence of Sea Power, 465.
 
-50.   Cape Colony: The VOC had established a provisioning station for their ships at Cape Town, South Africa, at the start of the First Anglo-Dutch War in the seventeenth century. The initial inhabitants were VOC employees, whose numbers were augmented by Malagasy slaves and Dutch and French Huguenot settlers. Thompson, History of South Africa, 31-45.
+52. The French Revolutionary and Napoleonic Wars: Rodger, Command of the Ocean, 427–30, 436.
 
-51.   "The good Dutchmen": In Mahan, Influence of Sea Power, 465.
+53. “Exceeding hard Gales”: Knight, The Pursuit of Victory, 272.
 
-52.      The French Revolutionary and Napoleonic Wars: Rodger, Command of the Ocean, 427-30, 436.
+54. “Was I to die”: Nelson to Earl Spencer, first lord of the admiralty, in Coleman, The Nelson Touch, 154.
 
-53.   "Exceeding hard Gales": Knight, The Pursuit of Victory, 272.
+55. Aboukir: Knight, The Pursuit of Victory, 288–98; Coleman, The Nelson Touch, 156–60.
 
-54.   "Was I to die": Nelson to Earl Spencer, first lord of the admiralty, in Coleman, The Nelson Touch, 154.
+56. attack on Copenhagen: Knight, The Pursuit of Victory, 371–84; Coleman, The Nelson Touch, 251–58. The story that the one-eyed Nelson ignored Parker’s signal with the remark “I have a right to be blind sometimes” is apocryphal.
 
-55.   Aboukir: Knight, The Pursuit of Victory, 288-98; Coleman, The Nelson Touch, 156-60.
+57. to keep the British from massing: Knight, The Pursuit of Victory, 480.
 
-56.   attack on Copenhagen: Knight, The Pursuit of Victory, 371-84; Coleman, The Nelson Touch, 251-58. The story that the one-eyed Nelson ignored Parker's signal with the remark "I have a right to be blind sometimes" is apocryphal.
+58. signal flags: Schom, Trafalgar, 311; Knight, The Pursuit of Victory, 511.
 
-57.   to keep the British from massing: Knight, The Pursuit of Victory,
+59. “The whole impression”: In Schom, Trafalgar, 292; Knight, The Pursuit of Victory, 505–8.
 
-480.
+60. “England expects”: In Knight, The Pursuit of Victory, 514; Schom, Trafalgar, 320.
 
-58.      signal flags: Schom, Trafalgar, 311; Knight, The Pursuit of Victory, 511.
+61. combined casualties: Rodger, Wooden World, 56–59; Knight, The Pursuit of Victory, 521.
 
-59.   "The whole impression": In Schom, Trafalgar, 292; Knight, The Pursuit of Victory, 505-8.
+62. “for failing to do”: In Rodger, Command of the Ocean, 267; Baugh, The Global Seven Years War, 229–35. Byng’s politically motivated execution made an inviting target for Voltaire, who in Candide explains that in England, “it is a good thing to kill an admiral from time to time to encourage the others.”
 
-60.      "England expects": In Knight, The Pursuit of Victory, 514; Schom, Trafalgar, 320.
+63. stronghold of Azov: Phillips, Founding of Russia’s Navy, 37–44.
 
-61.   combined casualties: Rodger, Wooden World, 56-59; Knight, The Pursuit of Victory, 521.
+64. yearlong tour: Ryan, “Peter the Great and English Maritime Technology,” 138–39; Hughes, Peter the Great, 44–48, 52, 65–66, 75.
 
-62.      "for failing to do": In Rodger, Command of the Ocean, 267; Baugh, The Global Seven Years War, 229-35. Byng's politically motivated execution made an inviting target for Voltaire, who in Candide explains that in England, "it is a good thing to kill an admiral from time to time to encourage the others."
+65. Naval Statute of 1720: Hughes, Peter the Great, 141.
 
-63.   stronghold of Azov: Phillips, Founding of Russia's Navy, 37-44.
+66. where Peter founded St. Petersburg: Israel, Dutch Primacy, 43.
 
-64.      yearlong tour: Ryan, "Peter the Great and English Maritime Technology," 138-39; Hughes, Peter the Great, 44-48, 52, 65- 66, 75.
+67. battle of Hangö: Phillips, Founding of Russia’s Navy, 123–24, 200; Woodward, Russians at Sea, 22–25. The galleys, called skampavei, were eighteen meters long.
 
-65.   Naval Statute of 1720: Hughes, Peter the Great, 141.
+68. “This savage, cruel, and barbarous people”: Count Gyllenborg, in Warner, “British Merchants and Russian Men of War,” 109.
 
-66.   where Peter founded St. Petersburg: Israel, Dutch Primacy, 43.
+69. “seducing artificers”: An Act to Prevent the Inconveniencies Arising from Seducing Artificers in the Manufactures of Great Britain into Foreign Parts, 1718, 5 Geo. 1, c. 26.
 
-67.      battle of Hangö: Phillips, Founding of Russia's Navy, 123-24, 200; Woodward, Russians at Sea, 22-25. The galleys, called skampavei, were eighteen meters long.
+70. Treaty of Nystad: Hughes, Peter the Great, 158–59.
 
-68.   "This savage, cruel, and barbarous people": Count Gyllenborg, in Warner, "British Merchants and Russian Men of War," 109.
+71. Bay of Chesma: Madariaga, Catherine the Great, 45.
 
-69.      "seducing artificers": An Act to Prevent the Inconveniencies Arising from Seducing Artificers in the Manufactures of Great Britain into Foreign Parts, 1718, 5 Geo. 1, c. 26.
+72. commerce was disrupted: King, Black Sea, 156.
 
-70.   Treaty of Nystad: Hughes, Peter the Great, 158-59.
+73. Treaty of Adrianople (Edirne): Esmer, “Straits,” 292; King, Black Sea, 162.
 
-71.   Bay of Chesma: Madariaga, Catherine the Great, 45.
+74. diwan (treasurer): Ray, “Indian Society and British Supremacy,” 511.
 
-72.   commerce was disrupted: King, Black Sea, 156.
+75. imports to Europe: Habib, “Eighteenth Century in Indian Economic History,” 227.
 
-73.   Treaty of Adrianople (Edirne): Esmer, "Straits," 292; King, Black Sea, 162.
+76. exports from Bengal: Prakash, “Trade and Politics,” 228, 248.
 
-74.   diwan (treasurer): Ray, "Indian Society and British Supremacy,"
+77. Chinese tea: Zhuang, “Impact of the International Tea Trade,” 196–97.
 
-511.
+78. between 79 and 127 percent: Keay, Honourable Company, 391.
 
-75.      imports to Europe: Habib, "Eighteenth Century in Indian Economic History," 227.
+79. Canton system: Hsü, Rise of Modern China, 150–54.
 
-76.   exports from Bengal: Prakash, "Trade and Politics," 228, 248.
+80. “merchants without empire”: Wang, “Merchants Without Empire.”
 
-77.      Chinese tea: Zhuang, "Impact of the International Tea Trade," 196-97.
+81. “the commerce between China and Borneo”: Forrest, Voyage to New Guinea, 381.
 
-78.   between 79 and 127 percent: Keay, Honourable Company, 391.
+82. a thousand seagoing junks: Marshall, “Introduction,” 25.
 
-79.   Canton system: Hsü, Rise of Modern China, 150-54.
+83. Chinese settlers: Blussé, “Chinese Century,” 113–29.
 
-80.      "merchants without empire": Wang, "Merchants Without Empire."
+84. Stamford Raffles: Lee, Singapore, 5–8.
 
-81.   "the commerce between China and Borneo": Forrest, Voyage to New Guinea, 381.
+85. pepper from Sumatra: Morison, Maritime History of Massachusetts, 91.
 
-82.   a thousand seagoing junks: Marshall, "Introduction," 25.
+86. the Dutch hired ships: Blussé, Visible Cities, 92.
 
-83.   Chinese settlers: Blussé, "Chinese Century," 113-29.
+87. Semyon Dezhnev: Haycox, Alaska, 44–46; Frost, Bering, 50–51.
 
-84.   Stamford Raffles: Lee, Singapore, 5-8.
+88. fur rush: Miller, “Maritime Fur Trade Rivalry,” 395, 401. The monopoly was for the region north of 55°N.
 
-85.      pepper from Sumatra: Morison, Maritime History of Massachusetts, 91.
+89. “to discover the partly known”: In Paine, Ships of the World, s.v. Heemskerck, citing J. E. Heeres, ed., Abel Janszoon Tasman’s Journal (Amsterdam, 1898) and Andrew Sharp, The Voyages of Abel Janszoon Tasman (Oxford: Clarendon Press, 1968).
 
-86.   the Dutch hired ships: Blussé, Visible Cities, 92.
+90. “the advancement”: Instructions of June 17, 1764, in Hawkesworth, An Account of the Voyages, 1:7.
 
-87.   Semyon Dezhnev: Haycox, Alaska, 44-46; Frost, Bering, 50-51.
+91. “Land or Islands”: Byron’s Journal of His Circumnavigation, lix, note 1.
 
-88.      fur rush: Miller, "Maritime Fur Trade Rivalry," 395, 401. The monopoly was for the region north of 55°N.
+92. “examine the soils”: Memoir from the King to Serve as Instructions to Mr de Bougainville, in Bougainville, Pacific Journal, xlv.
 
-89.   "to discover the partly known": In Paine, Ships of the World, s.v. Heemskerck, citing J. E. Heeres, ed., Abel Janszoon Tasman's Journal (Amsterdam, 1898) and Andrew Sharp, The Voyages of Abel Janszoon Tasman (Oxford: Clarendon Press, 1968).
+93. “the state of natural man”: Philibert Commerson, “Post-Scriptum sur l’île de la Nouvelle-Cythère,” in Bougainville, Pacific Journal, lvi.
 
-90.      "the advancement": Instructions of June 17, 1764, in Hawkesworth, An Account of the Voyages, 1:7.
+94. “noble savage”: Smith, European Vision and the South Pacific, 41–51.
 
-91.   "Land or Islands": Byron's Journal of His Circumnavigation, lix, note 1.
+95. “the improvement of astronomy”: Feb. 15, 1768, Memorials of the Royal Society, in Cook, Journals, vol. 1, Voyage of the Endeavour, 604.
 
-92.      "examine the soils": Memoir from the King to Serve as Instructions to Mr de Bougainville, in Bougainville, Pacific Journal, xlv.
+96. “No people ever went to sea”: John Ellis to Linnaeus, in O’Brian, Joseph Banks, 65; specimens: 169–71.
 
-93.   "the state of natural man": Philibert Commerson, "Post-Scriptum sur l'île de la Nouvelle-Cythère," in Bougainville, Pacific Journal, lvi.
+97. “the great quantity of New Plants”: Cook, May 6, 1770, Journals, vol. 1, Voyage of the Endeavour, 247.
 
-94.   "noble savage": Smith, European Vision and the South Pacific, 41-51.
+98. heavily silted river: Blussé, Visible Cities, 43.
 
-95.   "the improvement of astronomy": Feb. 15, 1768, Memorials of the Royal Society, in Cook, Journals, vol. 1, Voyage of the Endeavour, 604.
+99. Cook’s strict regimen: Beaglehole, Exploration of the Pacific, 284.
 
-96.   "No people ever went to sea": John Ellis to Linnaeus, in O'Brian, Joseph Banks, 65; specimens: 169-71.
+100. European interest in the Pacific Northwest: Olsen, Through Spanish Eyes, 6–10; Miller, “Maritime Fur Trade Rivalry,” 396–97.
 
-97.   "the great quantity of New Plants": Cook, May 6, 1770, Journals, vol. 1, Voyage of the Endeavour, 247.
+101. “In justice to Behrings Memory”: Sept. 4, 1778, Voyage of the Resolution and Discovery, 433.
 
-98.   heavily silted river: Blussé, Visible Cities, 43.
+102. “an asylum”: Matra, “A Proposal for Establishing a Settlement in New South Wales,” in Hoffman, “Australia’s Debt,” 151.
 
-99.      Cook's strict regimen: Beaglehole, Exploration of the Pacific,
+103. well positioned to threaten: Frost, “James Mario Matra.”
 
-284.
+104. “We got into Port Jackson”: Phillip to Lord Sydney, May 15, 1788, in Hoffman, “Australia’s Debt,” 156.
 
-100.      European interest in the Pacific Northwest: Olsen, Through Spanish Eyes, 6-10; Miller, "Maritime Fur Trade Rivalry," 396-97.
+105. thirty-five or forty days: Walton, “Sources of Productivity Change,” 73. There were exceptions. In his pursuit of Villeneuve, Nelson’s fleet of thirteen ships maintained an average speed of almost six knots over fifteen days; Knight, The Pursuit of Victory, 489.
 
-101.   "In justice to Behrings Memory": Sept. 4, 1778, Voyage of the Resolution and Discovery, 433.
+106. Mathematicians, physicists, and others: Ferreiro, Ships and Science, 96, 282.
 
-102.   "an asylum": Matra, "A Proposal for Establishing a Settlement in New South Wales," in Hoffman, "Australia's Debt," 151.
+107. “Virginia-built”: Chapelle, History of American Sailing Ships, 222.
 
-103.   well positioned to threaten: Frost, "James Mario Matra."
+108. extra crew: Walton, “Sources of Productivity Change,” 69–70; Jamaica ships: 71–72; turnaround times: 76–77; insurance: 71. See Shepherd and Walton, Shipping, Maritime Trade and the Economic Development, 49–72.
 
-104.   "We got into Port Jackson": Phillip to Lord Sydney, May 15, 1788, in Hoffman, "Australia's Debt," 156.
+109. “for such Person”: Taylor, Haven-Finding Art, 253.
 
-105.      thirty-five or forty days: Walton, "Sources of Productivity Change," 73. There were exceptions. In his pursuit of Villeneuve, Nelson's fleet of thirteen ships maintained an average speed of almost six knots over fifteen days; Knight, The Pursuit of Victory, 489.
+110. financial incentive: Turner, “In the Wake of the Act,” 122.
 
-106.      Mathematicians, physicists, and others: Ferreiro, Ships and Science, 96, 282.
+111. lunar distances: Howse, “The Lunar-Distance Method of Measuring Longitude,” 150–61.
 
-107.   "Virginia-built": Chapelle, History of American Sailing Ships,
+112. John Harrison: King, “ ‘John Harrison, Clockmaker at Barrow,’ ” 168–87; Andrewes, “Even Newton Could Be Wrong,” 190–233.
 
-222.
+113. he completed work on H4: Randall, “The Timekeeper That Won the Longitude Prize,” 236–54.
 
-108.   extra crew: Walton, "Sources of Productivity Change," 69-70; Jamaica ships: 71-72; turnaround times: 76-77; insurance:
+114. “Mr Kendal’s Watch”: Cook to the Admiralty Secretary, Mar. 22, 1775, in Journals, vol. 2, Voyage of the Resolution and Adventure, 50.
 
-71. See Shepherd and Walton, Shipping, Maritime Trade and the Economic Development, 49-72.
+115. Gerard Mercator: Koeman et al., “Commercial Cartography and Map Production in the Low Countries,” 1323–28.
 
-109.   "for such Person": Taylor, Haven-Finding Art, 253.
+116. Edward Wright: Tyacke, “Chartmaking in England,” 1743–45.
 
-110.   financial incentive: Turner, "In the Wake of the Act," 122.
+117. Lucas Janszoon Waghenaer: Schilder and van Egmond, “Maritime Cartography in the Low Countries,” 1393–97.
 
-111.      lunar distances: Howse, "The Lunar-Distance Method of Measuring Longitude," 150-61.
+118. Willem Blaeu: Ibid., 1398–1401, 1422–26.
 
-112.      John Harrison: King, " 'John Harrison, Clockmaker at Barrow,' " 168-87; Andrewes, "Even Newton Could Be Wrong," 190-233.
+119. Alexander Dalrymple: Ritchie, Admiralty Chart, 18–19.
 
-113.   he completed work on H4: Randall, "The Timekeeper That Won the Longitude Prize," 236-54.
+120. Joseph F. W. Des Barres: Morgan, “Des Barres.”
 
-114.   "Mr Kendal's Watch": Cook to the Admiralty Secretary, Mar. 22, 1775, in Journals, vol. 2, Voyage of the Resolution and Adventure, 50.
+### 18. “Annihilation of Space and Time”
 
-115.   Gerard Mercator: Koeman et al., "Commercial Cartography and Map Production in the Low Countries," 1323-28.
+1. “attempt to facilitate”: Fitch to Congress, Aug. 19, 1785, in Flexner, Steamboats Come True, 79.
 
-116.   Edward Wright: Tyacke, "Chartmaking in England," 1743-45.
+2. “water craft, which might be urged”: New Jersey state legislature, Mar. 18, 1786, in Flexner, Steamboats Come True, 94.
 
-117.      Lucas Janszoon Waghenaer: Schilder and van Egmond, "Maritime Cartography in the Low Countries," 1393-97.
+3. “The Mississippi, as I before wrote you”: Fulton to Joel Barlow, Apr. 19, 1812, in Sutcliffe, Robert Fulton and the Clermont, 221.
 
-118.   Willem Blaeu: Ibid., 1398-1401, 1422-26.
+4. sternwheels were not widely adopted: Hunter, Steamboats on the Western Rivers, 167–75.
 
-119.   Alexander Dalrymple: Ritchie, Admiralty Chart, 18-19.
+5. in 1840 New Orleans: Carter, Lower Mississippi, 221.
 
-120.   Joseph F. W. Des Barres: Morgan, "Des Barres."
+6. average time: Mak and Walton, “Steamboats and the Great Productivity Surge,” 630; Hunter, Steamboats on the Western Rivers, 22–25.
 
-### 18. "Annihilation of Space and Time"
+7. “great raft”: Hunter, Steamboats on the Western Rivers, 196–99.
 
-1.      "attempt to facilitate": Fitch to Congress, Aug. 19, 1785, in Flexner, Steamboats Come True, 79.
+8. “At this point commences”: Morris to John Parish, Dec. 20, 1800, in Rubin, “Innovating Public Improvement,” 26–27.
 
-2.   "water craft, which might be urged": New Jersey state legislature, Mar. 18, 1786, in Flexner, Steamboats Come True, 94.
+9. The time needed: Bernstein, Wedding of the Waters, 327.
 
-3.   "The Mississippi, as I before wrote you": Fulton to Joel Barlow, Apr. 19, 1812, in Sutcliffe, Robert Fulton and the Clermont, 221.
+10. New York became the primary port: Page, “Transportation of Immigrants,” 736.
 
-4.   sternwheels were not widely adopted: Hunter, Steamboats on the Western Rivers, 167-75.
+11. Canada embarked: Desloges and Gelly, Lachine Canal, 21.
 
-5.   in 1840 New Orleans: Carter, Lower Mississippi, 221.
+12. floating population: MacLeod, “Social Policy and the ‘Floating Population,’ ” 105.
 
-6.      average time: Mak and Walton, "Steamboats and the Great Productivity Surge," 630; Hunter, Steamboats on the Western Rivers, 22-25.
+13. Johann Gottfried Tulla’s: Blackbourn, Conquest of Nature, 97–119.
 
-7.   "great raft": Hunter, Steamboats on the Western Rivers, 196-99.
+14. “directed into a single bed”: In ibid., 91.
 
-8.   "At this point commences": Morris to John Parish, Dec. 20, 1800, in Rubin, "Innovating Public Improvement," 26-27.
+15. “It is our intention”: Jeremiah Thompson et al. to Cropper Benson & Co., and Rathbone Hodgson & Co., in Albion, “Planning the Black Ball Line,” 107.
 
-9.   The time needed: Bernstein, Wedding of the Waters, 327.
+16. averaged about twenty-five days: Butler, Sailing on Friday, 36.
 
-10.      New York became the primary port: Page, "Transportation of Immigrants," 736.
+17. “Arrival of the Sirius Steamer”: New York Herald, in Penrose, 1838 April Fourth 1938, 18.
 
-11.   Canada embarked: Desloges and Gelly, Lachine Canal, 21.
+18. Sirius and Great Western: Sheppard, “Sirius”; Griffiths, Brunel’s Great Western, 32–44.
 
-12.   floating population: MacLeod, "Social Policy and the 'Floating Population,' " 105.
+19. government subsidies: Bacon, Manual of Ship Subsidies, 17–18.
 
-13.   Johann Gottfried Tulla's: Blackbourn, Conquest of Nature, 97-
+20. “Our cabin is something”: Dickens to Frederick Dickens, Jan. 3, 1842, in Letters, 3:7.
 
-119.
+21. “I suggest cost not be considered”: James Ashton Bayard (Delaware), in Butler, Atlantic Kingdom, 101.
 
-14.   "directed into a single bed": In ibid., 91.
+22. congressional subsidy: Bacon, Manual of Ship Subsidies, 75–77.
 
-15.   "It is our intention": Jeremiah Thompson et al. to Cropper Benson & Co., and Rathbone Hodgson & Co., in Albion, "Planning the Black Ball Line," 107.
+23. “under the inspection”: In Morison, “Old Bruin,” 256.
 
-16.   averaged about twenty-five days: Butler, Sailing on Friday, 36.
+24. “extravagantly showy”: Ibid., 259.
 
-17.   "Arrival of the Sirius Steamer": New York Herald, in Penrose, 1838 April Fourth 1938, 18.
+25. “an air of almost Oriental magnificence”: Abbott, “Ocean Life,” 62.
 
-18.   Sirius and Great Western: Sheppard, "Sirius"; Griffiths, Brunel's Great Western, 32-44.
+26. “to take a whole state-room”: In Brinnin, The Sway of the Grand Saloon, 172.
 
-19.   government subsidies: Bacon, Manual of Ship Subsidies, 17-18.
+27. The loss of the Arctic: New York Daily Times, Oct. 13, 1854, p. 4.
 
-20.   "Our cabin is something": Dickens to Frederick Dickens, Jan. 3, 1842, in Letters, 3:7.
+28. “Ocean tragedies”: In Brown, Women and Children Last, 10.
 
-21.      "I suggest cost not be considered": James Ashton Bayard (Delaware), in Butler, Atlantic Kingdom, 101.
+29. “One in view of their conduct”: New York Daily Times, Oct. 13, 1854, 4.
 
-22.   congressional subsidy: Bacon, Manual of Ship Subsidies, 75-77.
+30. “Of the flower”: Whitman, Leaves of Grass, 345.
 
-23.   "under the inspection": In Morison, "Old Bruin," 256.
+31. “If [the Collins Line] had spent”: William T. S. Barry (Mississippi), in Brown, Women and Children Last, 181.
 
-24.   "extravagantly showy": Ibid., 259.
+32. “the well known practice”: Franklin to Julien-David Le Roy, “Maritime Observations,” August 1785, in Writings, 381. See Chaplin, First Scientific American, 317–18.
 
-25.   "an air of almost Oriental magnificence": Abbott, "Ocean Life,"
+33. “Life-boats and life-preservers”: Maury, Steam-Lanes Across the Atlantic, 5.
 
-62.
+34. Maury recommended: Ibid., 6.
 
-26.   "to take a whole state-room": In Brinnin, The Sway of the Grand Saloon, 172.
+35. “to decide the momentous question”: New York Herald, editorial, Oct. 26, 1889, in Williams, Matthew Fontaine Maury, 267.
 
-27.   The loss of the Arctic: New York Daily Times, Oct. 13, 1854, p. 4.
+36. Sloo Line: Bacon, Manual of Ship Subsidies, 71–72.
 
-28.   "Ocean tragedies": In Brown, Women and Children Last, 10.
+37. more than 750 sailing ships: Schultz, Forty-niners ’Round the Horn, 264n3.
 
-29.   "One in view of their conduct": New York Daily Times, Oct. 13, 1854, 4.
+38. more than thirteen thousand miles: Ibid., 10.
 
-30.   "Of the flower": Whitman, Leaves of Grass, 345.
+39. “the Gulph Stream”: Chaplin, First Scientific American, 196–200, 289–91, 304–5, 310–11.
 
-31.      "If [the Collins Line] had spent": William T. S. Barry (Mississippi), in Brown, Women and Children Last, 181.
+40. transmissibility of reliable information: Huler, Defining the Wind, 109–10.
 
-32.      "the well known practice": Franklin to Julien-David Le Roy, "Maritime Observations," August 1785, in Writings, 381. See Chaplin, First Scientific American, 317-18.
+41. “the very useful work”: Dalrymple (1779), in ibid., 104–5.
 
-33.   "Life-boats and life-preservers": Maury, Steam-Lanes Across the Atlantic, 5.
+42. “to generalize the experience”: Maury to John Quincy Adams, Nov. 14, 1847, in Williams, Matthew Fontaine Maury, 178.
 
-34.   Maury recommended: Ibid., 6.
+43. ten million dollars per year: Williams, Matthew Fontaine Maury, 190–92.
 
-35.   "to decide the momentous question": New York Herald, editorial, Oct. 26, 1889, in Williams, Matthew Fontaine Maury, 267.
+44. “the search for speed”: The phrase is from Howard I. Chapelle, The Search for Speed Under Sail, 1700–1855 (New York: Norton, 1967).
 
-36.   Sloo Line: Bacon, Manual of Ship Subsidies, 71-72.
+45. “This magnificent ship”: Duncan McLean, “The New Clipper Ship Stag Hound, of Boston,” Boston Atlas, Dec. 21, 1850, in Howe and Matthews, American Clipper Ships, 2:619.
 
-37.      more than 750 sailing ships: Schultz, Forty-niners 'Round the Horn, 264n3.
+46. medium clipper or Down Easter: Paine, Down East, 76–78.
 
-38.   more than thirteen thousand miles: Ibid., 10.
+47. “the most unsightly”: Graham, “Ascendancy of the Sailing Ship, 1850–1855,” 78.
 
-39.   "the Gulph Stream": Chaplin, First Scientific American, 196-200, 289-91, 304-5, 310-11.
+48. twice the capacity: Ibid., 81.
 
-40.   transmissibility of reliable information: Huler, Defining the Wind, 109-10.
+49. economic advantages: Kaukiainen, “Aspects of Competition Between Steam and Sail,” 114–15.
 
-41.   "the very useful work": Dalrymple (1779), in ibid., 104-5.
+50. about three hundred junks: Viraphol, Tribute and Profit, 180.
 
-42.   "to generalize the experience": Maury to John Quincy Adams, Nov. 14, 1847, in Williams, Matthew Fontaine Maury, 178.
+51. 10 percent of the British government’s total revenue: Keay, Honourable Company, 452.
 
-43.   ten million dollars per year: Williams, Matthew Fontaine Maury, 190-92.
+52. laws proscribing opium: Hsü, Rise of Modern China, 168–73.
 
-44.   "the search for speed": The phrase is from Howard I. Chapelle, The Search for Speed Under Sail, 1700-1855 (New York: Norton, 1967).
+53. Treaty of Nanking: Ibid., 184–91.
 
-45.      "This magnificent ship": Duncan McLean, "The New Clipper Ship Stag Hound, of Boston," Boston Atlas, Dec. 21, 1850, in Howe and Matthews, American Clipper Ships, 2:619.
+54. westerners next looked to Japan: Sansom, History of Japan, 1615–1867, 232.
 
-46.   medium clipper or Down Easter: Paine, Down East, 76-78.
+55. Vasilii M. Golovnin: Golovnin, Memoirs of a Captivity in Japan.
 
-47.   "the most unsightly": Graham, "Ascendancy of the Sailing Ship, 1850-1855," 78.
+56. Treaty of Kanagawa: Lee, New History of Korea, 281–82, 288–89.
 
-48.   twice the capacity: Ibid., 81.
+57. “Knowledge shall be sought”: In Tsunoda et al., Sources of Japanese Tradition, 2:137.
 
-49.      economic advantages: Kaukiainen, "Aspects of Competition Between Steam and Sail," 114-15.
+58. Peninisular and Orient Line established: Fox, Britain and Japan, 317.
 
-50.   about three hundred junks: Viraphol, Tribute and Profit, 180.
+59. The western expatriate community: Barr, Deer Cry Pavilion, 101; Murphey, Outsiders, 107.
 
-51.      10 percent of the British government's total revenue: Keay, Honourable Company, 452.
+60. Suez Canal: Schonfield, Suez Canal in Peace and War, 41.
 
-52.   laws proscribing opium: Hsü, Rise of Modern China, 168-73.
+61. “cut by French energy”: In Fletcher, “Suez Canal and World Shipping,” 564.
 
-53.   Treaty of Nanking: Ibid., 184-91.
+62. “all for the advantage”: Herodotus, Histories, 2.159 (p. 145).
 
-54.      westerners next looked to Japan: Sansom, History of Japan, 1615-1867, 232.
+63. “the Suez Maritime Canal”: Convention Respecting the Free Navigation of the Suez Maritime Canal, Article 1.
 
-55.   Vasilii M. Golovnin: Golovnin, Memoirs of a Captivity in Japan.
+64. “ ‘Steamers may occupy’ ”: In Jones, Pioneer Shipowners, 119. See Smith et al., “Imitations of God’s Own Works,” 405.
 
-56.   Treaty of Kanagawa: Lee, New History of Korea, 281-82, 288-
+65. reduced coal consumption: Smith et al., “Imitations of God’s Own Works,” 406, 415.
 
-89.
+66. without the efficiencies: Fletcher, “Suez Canal and World Shipping,” 560.
 
-57.      "Knowledge shall be sought": In Tsunoda et al., Sources of Japanese Tradition, 2:137.
+67. “Increased speed”: In Paine, Ships of the World, s.v. Turbinia, citing Alex Richardson, The Evolution of the Parsons Steam Turbine (London: Engineering, 1911).
 
-58.   Peninisular and Orient Line established: Fox, Britain and Japan,
+68. submarine cables: Clarke, Voice Across the Sea, 69–89, 96.
 
-317.
+69. Great Eastern: Dugan, Great Iron Ship.
 
-59.   The western expatriate community: Barr, Deer Cry Pavilion, 101; Murphey, Outsiders, 107.
+70. British merchant marine comprised: Roland, Bolster, and Keyssar, Way of the Ship, 419.
 
-60.   Suez Canal: Schonfield, Suez Canal in Peace and War, 41.
+71. value of international trade: Røksund, Jeune Ecole, 9.
 
-61.      "cut by French energy": In Fletcher, "Suez Canal and World Shipping," 564.
+72. “Mexicans descend”: Míguez, “Introduction,” xxii. See also Moya, “Spanish Emigration,” 10, 14.
 
-62.   "all for the advantage": Herodotus, Histories, 2.159 (p. 145).
+73. Cuba’s population: Moya, “Spanish Emigration,” 15–17.
 
-63.      "the Suez Maritime Canal": Convention Respecting the Free Navigation of the Suez Maritime Canal, Article 1.
+74. 165,000 laborers to Brazil: Masterson and Funada, “Japanese in Peru and Brazil,” 123–25.
 
-64.   " 'Steamers may occupy' ": In Jones, Pioneer Shipowners, 119. See Smith et al., "Imitations of God's Own Works," 405.
+75. 1.3 million Irish emigrated: Hale, Letters on Irish Immigration, 23, 59.
 
-65.   reduced coal consumption: Smith et al., "Imitations of God's Own Works," 406, 415.
+76. more than 20 percent of all passengers died: Page, “Transportation of Immigrants,” 739.
 
-66.      without the efficiencies: Fletcher, "Suez Canal and World Shipping," 560.
+77. “We passed through the steerage”: “Communication from John H. Griscom, M.D., of New York,” in U.S. Senate, Report … on the Sickness and Mortality on Board Emigrant Ships, 54.
 
-67.      "Increased speed": In Paine, Ships of the World, s.v. Turbinia, citing Alex Richardson, The Evolution of the Parsons Steam Turbine (London: Engineering, 1911).
+78. “2½ [pounds] of bread”: New Passenger Act, 1849, 12 & 13 Vict., c. 33. On the space allowance, note that Byzantine regulations required 1.1 square meters per passenger; the Statues of Marseille, less than 1 square meter; and slave ships, 0.68 meter.
 
-68.   submarine cables: Clarke, Voice Across the Sea, 69-89, 96.
+79. figures were halved again: Page, “Transportation of Immigrants,” 740–42.
 
-69.   Great Eastern: Dugan, Great Iron Ship.
+80. utensils and bedding: Ibid., 738.
 
-70.   British merchant marine comprised: Roland, Bolster, and Keyssar, Way of the Ship, 419.
+81. “very injurious”: In Charlwood, Long Farewell, 122, quoting New South Wales, Legislative Council, Report from the Select Committee of the Legislative Council to Inquire into the Present System of German Immigration into this Colony, Sydney, Aug. 11, 1858.
 
-71.   value of international trade: Røksund, Jeune Ecole, 9.
+82. coolie trade: Yun and Laremont, “Chinese Coolies and African Slaves,” 102–3, 110–11.
 
-72.      "Mexicans descend": Míguez, "Introduction," xxii. See also Moya, "Spanish Emigration," 10, 14.
+83. “almost as heart-rending”: Douglass, The New National Era, Aug. 17, 1871.
 
-73.   Cuba's population: Moya, "Spanish Emigration," 15-17.
+84. “one vessel lost every eleven hours”: “Why Are So Many Ships Lost?” New York Daily Times, May 23, 1854.
 
-74.   165,000 laborers to Brazil: Masterson and Funada, "Japanese in Peru and Brazil," 123-25.
+85. could be jailed: Jones, Plimsoll Sensation, 12–13.
 
-75.   1.3 million Irish emigrated: Hale, Letters on Irish Immigration, 23, 59.
+86. hideous loss of life: National Maritime Museum learning team, “Ships, Seafarers and Life at Sea—Load Lines.”
 
-76.      more than 20 percent of all passengers died: Page, "Transportation of Immigrants," 739.
+87. “Lloyd’s rule”: Jones, Plimsoll Sensation, 266.
 
-77.   "We passed through the steerage": "Communication from John H. Griscom, M.D., of New York," in U.S. Senate, Report … on the Sickness and Mortality on Board Emigrant Ships, 54.
+88. without regard to the safety: Ibid., 14.
 
-78.      "2½ [pounds] of bread": New Passenger Act, 1849, 12 & 13 Vict., c. 33. On the space allowance, note that Byzantine regulations required 1.1 square meters per passenger; the Statues of Marseille, less than 1 square meter; and slave ships, 0.68 meter.
+89. “They do not want”: Lord Eslington, Feb. 2, 1876, in ibid., 232.
 
-79.   figures were halved again: Page, "Transportation of Immigrants," 740-42.
+90. “Accidents, too”: In Maxtone-Graham, Only Way to Cross, 2.
 
-80.   utensils and bedding: Ibid., 738.
+91. Hapag the largest shipping line: Bonsor, North Atlantic Seaway, 1:368, 378.
 
-81.      "very injurious": In Charlwood, Long Farewell, 122, quoting New South Wales, Legislative Council, Report from the Select Committee of the Legislative Council to Inquire into the Present System of German Immigration into this Colony, Sydney, Aug. 11, 1858.
+92. Kaiser Wilhelm der Grosse: Ibid., 1:354.
 
-82.   coolie trade: Yun and Laremont, "Chinese Coolies and African Slaves," 102-3, 110-11.
+93. International Mercantile Marine: Navin and Sears, “A Study in Merger.”
 
-83.   "almost as heart-rending": Douglass, The New National Era, Aug. 17, 1871.
+94. “unimprovable”: “nicht verbesserungsfählig”: in Maxtone-Graham, Only Way to Cross, 273; “unmistakably and distressingly pear-shaped”: ibid. See also Maxtone-Graham, “Normandie.”
 
-84.   "one vessel lost every eleven hours": "Why Are So Many Ships Lost?" New York Daily Times, May 23, 1854.
+95. “Doodle San will leave Japan”: Edwards, The Globe-Trotter at Kamakura, in Barr, Deer Cry Pavilion, 171. Joto means “the best.”
 
-85.   could be jailed: Jones, Plimsoll Sensation, 12-13.
+96. “a yacht in every sense”: Williams, “Extent of Transport Services’ Integration,” 138.
 
-86.   hideous loss of life: National Maritime Museum learning team, "Ships, Seafarers and Life at Sea--Load Lines."
+97. between fourteen and twenty million passengers: Cruise Baltic Status Report, 9.
 
-87.   "Lloyd's rule": Jones, Plimsoll Sensation, 266.
+98. “designed especially to secure”: “Steam Excursion Boats,” 2; “the only airings”: ibid.
 
-88.   without regard to the safety: Ibid., 14.
+99. horrific accidents: Kemp, “The COLREGS and the Princess Alice”; O’Donnell, Ship Ablaze; and Hilton, Eastland: Legacy of the Titanic.
 
-89.   "They do not want": Lord Eslington, Feb. 2, 1876, in ibid., 232.
+100. Cruising and racing: Paine, Ships of the World, s.v. Mary, Meteor, and Shamrock V; Ross, “Where Are They Now? The Kaiser’s Yacht.”
 
-90.   "Accidents, too": In Maxtone-Graham, Only Way to Cross, 2.
+101. “the most difficult”: Brett, Notes on Yachts, 1–2.
 
-91.   Hapag the largest shipping line: Bonsor, North Atlantic Seaway, 1:368, 378.
+102. “the greatest piece”: “International Geographical Congress of 1895,” 292.
 
-92.   Kaiser Wilhelm der Grosse: Ibid., 1:354.
+103. screw corvette Challenger: Buchanan et al., Report of the … Exploring Voyage of the H.M.S. Challenger.
 
-93.   International Mercantile Marine: Navin and Sears, "A Study in Merger."
+104. whales: Sperm whales and others of the suborder Odontoceti have teeth; baleen whales are in the taxonomical suborder Mysticeti.
 
-94.      "unimprovable": "nicht verbesserungsfählig": in MaxtoneGraham, Only Way to Cross, 273; "unmistakably and distressingly pear-shaped": ibid. See also Maxtone-Graham, "Normandie."
+105. Thomas Roys’s: Bockstoce, “From Davis Strait to Bering Strait,” 529–30.
 
-95.   "Doodle San will leave Japan": Edwards, The Globe-Trotter at Kamakura, in Barr, Deer Cry Pavilion, 171. Joto means "the best."
+106. “desiring to secure the prosperity”: International Whaling Commission, “Whale Sanctuaries.”
 
-96.   "a yacht in every sense": Williams, "Extent of Transport Services' Integration," 138.
+107. tanker Zoroaster: Frear, “History of Tankers,” 135; Watson, “Bulk Cargo Carriers,” 63.
 
-97.   between fourteen and twenty million passengers: Cruise Baltic Status Report, 9.
+108. “910,221 gallons”: New York Maritime Register, Aug. 11, 1886, 3.
 
-98.      "designed especially to secure": "Steam Excursion Boats," 2; "the only airings": ibid.
+109. Fliegauf: Frear, “History of Tankers,” 136.
 
-99.      horrific accidents: Kemp, "The COLREGS and the Princess Alice"; O'Donnell, Ship Ablaze; and Hilton, Eastland: Legacy of the Titanic.
+110. eighty million tons of marine coal: Fletcher, “From Coal to Oil,” 2–3.
 
-100.      Cruising and racing: Paine, Ships of the World, s.v. Mary, Meteor, and Shamrock V; Ross, "Where Are They Now? The Kaiser's Yacht."
-
-101.   "the most difficult": Brett, Notes on Yachts, 1-2.
-
-102.      "the greatest piece": "International Geographical Congress of 1895," 292.
-
-103.      screw corvette Challenger: Buchanan et al., Report of the … Exploring Voyage of the H.M.S. Challenger.
-
-104.      whales: Sperm whales and others of the suborder Odontoceti have teeth; baleen whales are in the taxonomical suborder Mysticeti.
-
-105.      Thomas Roys's: Bockstoce, "From Davis Strait to Bering Strait," 529-30.
-
-106.      "desiring to secure the prosperity": International Whaling Commission, "Whale Sanctuaries."
-
-107.      tanker Zoroaster: Frear, "History of Tankers," 135; Watson, "Bulk Cargo Carriers," 63.
-
-108.   "910,221 gallons": New York Maritime Register, Aug. 11, 1886,
-
-3.
-
-109.   Fliegauf: Frear, "History of Tankers," 136.
-
-110.   eighty million tons of marine coal: Fletcher, "From Coal to Oil," 2-3.
-
-111.   diesel-powered motorships: Ibid., 10-11.
+111. diesel-powered motorships: Ibid., 10–11.
 
 ### 19. Naval Power in Steam and Steel
 
-1.   "castles of steel": Churchill, World Crisis, 1:212.
+1. “castles of steel”: Churchill, World Crisis, 1:212.
 
-2.      lost in action: Hepper, British Warship Losses, 211-13; Brown, Warship Losses, 229, 236.
+2. lost in action: Hepper, British Warship Losses, 211–13; Brown, Warship Losses, 229, 236.
 
-3.      cost 40 percent more: Brodie, Sea Power in the Machine Age, 118n27.
+3. cost 40 percent more: Brodie, Sea Power in the Machine Age, 118n27.
 
-4.      retrofit sailing ships with engines: Lambert, Battleships in Transition, 38-40, 58-59, 111.
+4. retrofit sailing ships with engines: Lambert, Battleships in Transition, 38–40, 58–59, 111.
 
-5.      Nemesis: Brown, "Nemesis," 283-85; Guadeloupe: Brown, "Paddle Frigate Guadeloupe," 221-22.
+5. Nemesis: Brown, “Nemesis,” 283–85; Guadeloupe: Brown, “Paddle Frigate Guadeloupe,” 221–22.
 
-6.   "ancient rule of the Sultan": Esmer, "Straits," 293.
+6. “ancient rule of the Sultan”: Esmer, “Straits,” 293.
 
-7.   floating batteries: Lambert, Battleships in Transition, 51; Lambert, Warrior, 11.
+7. floating batteries: Lambert, Battleships in Transition, 51; Lambert, Warrior, 11.
 
-8.   "perpetually interdicted": In Esmer, "Straits," 293.
+8. “perpetually interdicted”: In Esmer, “Straits,” 293.
 
-9.   "She looks like a black snake": This phrase has been attributed variously to Lord Palmerston, Napoleon III, and the French naval attaché, among others. HMS Warrior is today a museum ship in Portsmouth, England.
+9. “She looks like a black snake”: This phrase has been attributed variously to Lord Palmerston, Napoleon III, and the French naval attaché, among others. HMS Warrior is today a museum ship in Portsmouth, England.
 
-10.      United States merchant marine: Roland, Bolster, and Keyssar, Way of the Ship, 419.
+10. United States merchant marine: Roland, Bolster, and Keyssar, Way of the Ship, 419.
 
-11.   "If any person": In Gordan, "Trial of the Officers."
+11. “If any person”: In Gordan, “Trial of the Officers.”
 
-12.   "Anybody dealing with a man": In ibid. See Lowe, "Confederate Naval Strategy."
+12. “Anybody dealing with a man”: In ibid. See Lowe, “Confederate Naval Strategy.”
 
-13.   "1. Privateering is, and remains abolished": Declaration of Paris, Apr. 16, 1856, in Lambert, Crimean War, 333.
+13. “1. Privateering is, and remains abolished”: Declaration of Paris, Apr. 16, 1856, in Lambert, Crimean War, 333.
 
-14.      Lincoln declared a blockade: Symonds, Lincoln and His Admirals, 39-49, 59-62.
+14. Lincoln declared a blockade: Symonds, Lincoln and His Admirals, 39–49, 59–62.
 
-15.   blockade-runners: Wise, Lifeline of the Confederacy, 221.
+15. blockade-runners: Wise, Lifeline of the Confederacy, 221.
 
-16.      country's largest export ports: Surdam, Northern Naval Superiority, 11.
+16. country’s largest export ports: Surdam, Northern Naval Superiority, 11.
 
-17.   commerce raiders: Gibson and Donovan, Abandoned Ocean, 66- 78; Dalzell, Flight from the Flag, 238-40, 246.
+17. commerce raiders: Gibson and Donovan, Abandoned Ocean, 66–78; Dalzell, Flight from the Flag, 238–40, 246.
 
-18.      "I regard the possession": Mallory to chairman of the House Committee on Naval Affairs, in Still, Iron Afloat, 10.
+18. “I regard the possession”: Mallory to chairman of the House Committee on Naval Affairs, in Still, Iron Afloat, 10.
 
-19.   John Ericsson's Monitor: Symonds, Lincoln and His Generals, 132-42.
+19. John Ericsson’s Monitor: Symonds, Lincoln and His Generals, 132–42.
 
-20.   "enveloping them all": Scott to Lincoln, May 2, 1861, U.S. War Department, War of the Rebellion, ser. 1, vol. 51/1, p. 339.
+20. “enveloping them all”: Scott to Lincoln, May 2, 1861, U.S. War Department, War of the Rebellion, ser. 1, vol. 51/1, p. 339.
 
-21.   "can be elevated": Mahan, Influence of Sea Power, 2.
+21. “can be elevated”: Mahan, Influence of Sea Power, 2.
 
-22.   "It is not the taking": Ibid., 138.
+22. “It is not the taking”: Ibid., 138.
 
-23.   "unsettled political conditions": Mahan, "United States Looking Outward," 818, 820.
+23. “unsettled political conditions”: Mahan, “United States Looking Outward,” 818, 820.
 
-24.   "strategy of the weak": Røksund, Jeune Ecole.
+24. “strategy of the weak”: Røksund, Jeune Ecole.
 
-25.   total war: Ibid., 24-51, 98-100.
+25. total war: Ibid., 24–51, 98–100.
 
-26.   Advocates of the Jeune Ecole: Ibid., 60-62.
+26. Advocates of the Jeune Ecole: Ibid., 60–62.
 
-27.   "out of our ports": Mahan, Influence of Sea Power, 87.
+27. “out of our ports”: Mahan, Influence of Sea Power, 87.
 
-28.   Maritime Customs Service: Hsü, Rise of Modern China, 271-74.
+28. Maritime Customs Service: Hsü, Rise of Modern China, 271–74.
 
-29.      "self-strengthening movement": Ibid., 278-91; Paine, SinoJapanese War, 32.
+29. “self-strengthening movement”: Ibid., 278–91; Paine, Sino-Japanese War, 32.
 
-30.   briefly occupying Taiwan: Hsü, Rise of Modern China, 314-17.
+30. briefly occupying Taiwan: Hsü, Rise of Modern China, 314–17.
 
-31.   remove Chinese influence: Paine, Sino-Japanese War, 32-34, 38,
+31. remove Chinese influence: Paine, Sino-Japanese War, 32–34, 38, 52.
 
-52.
+32. Japanese cruisers sank: Ibid., 132–33; Japanese troops, 157.
 
-32.   Japanese cruisers sank: Ibid., 132-33; Japanese troops, 157.
+33. Yalu River: Paine, Sino-Japanese War, 179–85.
 
-33.   Yalu River: Paine, Sino-Japanese War, 179-85.
+34. Russian diplomatic successes: Ibid., 69–71.
 
-34.   Russian diplomatic successes: Ibid., 69-71.
+35. “The hostile actions”: Sergei Iul’evich Witte, Apr. 11, 1895, in Paine, Sino-Japanese War, 104.
 
-35.   "The hostile actions": Sergei Iul'evich Witte, Apr. 11, 1895, in Paine, Sino-Japanese War, 104.
+36. “Russia does hope”: Nishi Tokujiro, May 8, 1905, in Paine, Sino-Japanese War, 321.
 
-36.   "Russia does hope": Nishi Tokujiro, May 8, 1905, in Paine, SinoJapanese War, 321.
+37. cede the Liaodong Peninsula: Paine, Sino-Japanese War, 308.
 
-37.   cede the Liaodong Peninsula: Paine, Sino-Japanese War, 308.
+38. Trans-Siberian Railway: Ibid., 68; Work on the railway began in 1891.
 
-38.   Trans-Siberian Railway: Ibid., 68; Work on the railway began in
+39. “interested in a peculiar degree”: Anglo-Japanese Alliance, 1902, Article 1.
 
-1891.
+40. attack against Port Arthur: Evans and Peattie, Kaigun, 97.
 
-39.   "interested in a peculiar degree": Anglo-Japanese Alliance, 1902, Article 1.
+41. coaling facilities: Warner and Warner, Tide at Sunrise, 403–4, 415–25; Cecil, “Coal for the Fleet That Had to Die.”
 
-40.   attack against Port Arthur: Evans and Peattie, Kaigun, 97.
+42. battle of Tsushima: Warner and Warner, Tide at Sunrise, 481–520; Evans and Peattie, Kaigun, 116–24.
 
-41.      coaling facilities: Warner and Warner, Tide at Sunrise, 403-4, 415-25; Cecil, "Coal for the Fleet That Had to Die."
+43. Treaty of Portsmouth: Warner and Warner, Tide at Sunrise, 530–74.
 
-42.   battle of Tsushima: Warner and Warner, Tide at Sunrise, 481-520; Evans and Peattie, Kaigun, 116-24.
+44. “public opinion”: In Rickover, How the Battleship Maine Was Destroyed, 127–28.
 
-43.   Treaty of Portsmouth: Warner and Warner, Tide at Sunrise, 530-
+45. “we have much more likelihood”: Mahan to Roosevelt, May 1 and 6, 1897, in Spector, “Triumph of Professional Ideology,” 179.
 
-74.
+46. The gunnery was appalling: Beach, United States Navy, 394.
 
-44.      "public opinion": In Rickover, How the Battleship Maine Was Destroyed, 127-28.
+47. “The fashion in building ships”: Gladstone (1882), in Angevine, “Rise and Fall of the Office of Naval Intelligence,” 296.
 
-45.   "we have much more likelihood": Mahan to Roosevelt, May 1 and 6, 1897, in Spector, "Triumph of Professional Ideology," 179.
+48. “a definite standard”: Lord Charles Beresford, in Sondhaus, Naval Warfare, 161.
 
-46.   The gunnery was appalling: Beach, United States Navy, 394.
+49. Alfred von Tirpitz: Kelly, Tirpitz.
 
-47.   "The fashion in building ships": Gladstone (1882), in Angevine, "Rise and Fall of the Office of Naval Intelligence," 296.
+50. “for Germany”: In Craig, Germany, 309.
 
-48.      "a definite standard": Lord Charles Beresford, in Sondhaus, Naval Warfare, 161.
+51. “risk fleet”: Kelly, Tirpitz, 185–86, 195–202; Halpern, Naval History of World War I, 2–4; and Kennedy, “Development of German Naval Operations Plans,” 176–77.
 
-49.   Alfred von Tirpitz: Kelly, Tirpitz.
+52. German Navy League: Kelly, Tirpitz, 166–69; Halpern, Naval History of World War I, 3.
 
-50.   "for Germany": In Craig, Germany, 309.
+53. German general staff: Kennedy, “Development of German Naval Operations Plans,” 175. See also Kelly, Tirpitz, 266.
 
-51.      "risk fleet": Kelly, Tirpitz, 185-86, 195-202; Halpern, Naval History of World War I, 2-4; and Kennedy, "Development of German Naval Operations Plans," 176-77.
+54. “Germany’s accelerated [shipbuilding] program”: Naval War College report (1904), in Hagan, This People’s Navy, 237.
 
-52.      German Navy League: Kelly, Tirpitz, 166-69; Halpern, Naval History of World War I, 3.
+55. Panama Canal: Ameringer, “Panama Canal Lobby.”
 
-53.   German general staff: Kennedy, "Development of German Naval Operations Plans," 175. See also Kelly, Tirpitz, 266.
+56. battle of Jutland: Halpern, Naval History of World War I, 310–29; Kelly, Tirpitz, 412–15.
 
-54.      "Germany's accelerated [shipbuilding] program": Naval War College report (1904), in Hagan, This People's Navy, 237.
+57. surface raiders: Halpern, Naval History of World War I, 70–83, 370–75.
 
-55.   Panama Canal: Ameringer, "Panama Canal Lobby."
+58. “locomotive torpedo”: Fryer and Brown, “Robert Whitehead”; Briggs, “Innovation and the Mid-Victorian Royal Navy,” 447–55.
 
-56.   battle of Jutland: Halpern, Naval History of World War I, 310-29; Kelly, Tirpitz, 412-15.
+59. Thorsten Nordenfelt: Maber, “Nordenfelt Submarines.”
 
-57.   surface raiders: Halpern, Naval History of World War I, 70-83, 370-75.
+60. “we are going to recommence”: In Røksund, Jeune Ecole, 193.
 
-58.      "locomotive torpedo": Fryer and Brown, "Robert Whitehead"; Briggs, "Innovation and the Mid-Victorian Royal Navy," 447-55.
+61. “The forerunner of all modern submarines”: Compton-Hall, Submarine Boats, 96–97.
 
-59.   Thorsten Nordenfelt: Maber, "Nordenfelt Submarines."
+62. “I went down in it”: Roosevelt to Brander Matthews, July 20, 1907, in Roosevelt, Works, 23.514.
 
-60.   "we are going to recommence": In Røksund, Jeune Ecole, 193.
+63. “In view of”: Tirpitz memorandum, Jan. 24, 1915, in Halpern, Naval History of World War I, 47.
 
-61.      "The forerunner of all modern submarines": Compton-Hall, Submarine Boats, 96-97.
+64. merchant ship losses: Davis and Engerman, Naval Blockades in Peace and War, 169.
 
-62.   "I went down in it": Roosevelt to Brander Matthews, July 20, 1907, in Roosevelt, Works, 23.514.
+65. “A blockade must not extend”: Declaration Concerning the Laws of Naval War (1909), Articles 1–2.
 
-63.   "In view of": Tirpitz memorandum, Jan. 24, 1915, in Halpern, Naval History of World War I, 47.
+66. pinned down at Gallipoli: Halpern, Naval History of World War I, 117. The first sea lord was, and remains, the chief of naval operations; the first lord of the admiralty was a cabinet post.
 
-64.   merchant ship losses: Davis and Engerman, Naval Blockades in Peace and War, 169.
+67. “we can not send”: in Halpern, Naval History of World War I, 359.
 
-65.   "A blockade must not extend": Declaration Concerning the Laws of Naval War (1909), Articles 1-2.
+68. “an entire success”: Naval Staff, Home Waters—Part VIII, in Halpern, Naval History of World War I, 361.
 
-66.   pinned down at Gallipoli: Halpern, Naval History of World War I,
+69. four hundred submarine chasers: Hagan, This People’s Navy, 255.
 
-117. The first sea lord was, and remains, the chief of naval operations; the first lord of the admiralty was a cabinet post.
+70. “to the lowest point”: Wilson, “Fourteen Points,” para. 2 and 4.
 
-67.   "we can not send": in Halpern, Naval History of World War I,
+71. mutually suspicious: Hagan, This People’s Navy, 238–39; Evans and Peattie, Kaigun, 151, 187–89; and Miller, War Plan Orange, 76.
 
-359.
+72. “Japan has no rival”: Baker, Woodrow Wilson and World Settlement, 3:301.
 
-68.      "an entire success": Naval Staff, Home Waters--Part VIII, in Halpern, Naval History of World War I, 361.
+73. ratio of capital ship tonnage: Ibid., 3:203.
 
-69.   four hundred submarine chasers: Hagan, This People's Navy, 255.
+74. “wise administration”: Capt. William V. Pratt, memorandum for Charles Evans Hughes, Aug. 8, 1921, in Hagan, This People’s Navy, 264.
 
-70.   "to the lowest point": Wilson, "Fourteen Points," para. 2 and 4.
+75. “Not only should these submarines”: Benson to Wilson, Mar. 14, 1919, in Baker, Woodrow Wilson and World Settlement, 197.
 
-71.   mutually suspicious: Hagan, This People's Navy, 238-39; Evans and Peattie, Kaigun, 151, 187-89; and Miller, War Plan Orange,
+76. “steam navies”: Mahan, Influence of Sea Power, 2.
 
-76.
+77. “The minds of the men”: Beach, United States Navy, 443.
 
-72.      "Japan has no rival": Baker, Woodrow Wilson and World Settlement, 3:301.
+78. “I’m afraid”: In Agawa, Reluctant Admiral, 93; “the world’s three great follies”: ibid. See also Yoshida, Requiem for Battleship Yamato, 77.
 
-73.   ratio of capital ship tonnage: Ibid., 3:203.
+79. “incendiary shotgun” projectiles: Skulski, Battleship Yamato, 18–19.
 
-74.   "wise administration": Capt. William V. Pratt, memorandum for Charles Evans Hughes, Aug. 8, 1921, in Hagan, This People's Navy, 264.
+80. nearly three hundred carrier planes: Spector, Eagle Against the Sun, 538.
 
-75.   "Not only should these submarines": Benson to Wilson, Mar. 14, 1919, in Baker, Woodrow Wilson and World Settlement, 197.
+81. Close study of the Taranto action: Evans and Peattie, Kaigun, 475.
 
-76.   "steam navies": Mahan, Influence of Sea Power, 2.
+82. “damage Major Fleet Units”: Report of Joint Planning Committee, Apr. 21, 1939, in Major, “Navy Plans for War,” 245.
 
-77.   "The minds of the men": Beach, United States Navy, 443.
+83. Pearl Harbor: Murfett, Naval Warfare, 135–40.
 
-78.   "I'm afraid": In Agawa, Reluctant Admiral, 93; "the world's three great follies": ibid. See also Yoshida, Requiem for Battleship Yamato, 77.
+84. over two thousand Allied and neutral ships: For a comparison of figures arrived at by five different authorities, see American Merchant Marine at War, “Battle of the Atlantic Statistics.”
 
-79.   "incendiary shotgun" projectiles: Skulski, Battleship Yamato, 18-
+85. twenty-two seagoing U-boats: Murfett, Naval Warfare, 34; Terraine, Business in Great Waters, 218.
 
-19.
+86. unreliability of German torpedoes: Murfett, Naval Warfare, 53; Terraine, Business in Great Waters, 231–41.
 
-80.   nearly three hundred carrier planes: Spector, Eagle Against the Sun, 538.
+87. submarine operations to Brest: Terraine, Business in Great Waters, 244–57, 354; Murfett, Naval Warfare, 86–87, 97n82.
 
-81.      Close study of the Taranto action: Evans and Peattie, Kaigun,
+88. more than a thousand ships: Terraine, Business in Great Waters, 767–69.
 
-475.
+89. “Happy Time”: Ibid., 410; Lane, Ships for Victory, 138.
 
-82.      "damage Major Fleet Units": Report of Joint Planning Committee, Apr. 21, 1939, in Major, "Navy Plans for War," 245.
+90. “any country whose defense”: Lend-Lease Act, 3(1).
 
-83.   Pearl Harbor: Murfett, Naval Warfare, 135-40.
+91. “Execute unrestricted”: In Spector, Eagle Against the Sun, 480.
 
-84.   over two thousand Allied and neutral ships: For a comparison of figures arrived at by five different authorities, see American Merchant Marine at War, "Battle of the Atlantic Statistics."
+92. “a warship”: Treaty for the Limitation and Reduction of Naval Armament, 1930, pt. 4, art. 22.
 
-85.      twenty-two seagoing U-boats: Murfett, Naval Warfare, 34; Terraine, Business in Great Waters, 218.
+93. “violating long-established”: Roosevelt, Fireside Chat 18 (Sept. 11, 1941), in Smith, Voyages, 2:242.
 
-86.   unreliability of German torpedoes: Murfett, Naval Warfare, 53; Terraine, Business in Great Waters, 231-41.
+94. failure of American torpedoes: Spector, Eagle Against the Sun, 484–85.
 
-87.      submarine operations to Brest: Terraine, Business in Great Waters, 244-57, 354; Murfett, Naval Warfare, 86-87, 97n82.
+95. commerce warfare doctrine: U.S. War Dept., United States Strategic Bombing Survey, 12.
 
-88.   more than a thousand ships: Terraine, Business in Great Waters, 767-69.
+96. slow to respond: Morison, Two-Ocean War, 496–97.
 
-89.   "Happy Time": Ibid., 410; Lane, Ships for Victory, 138.
+97. thirteen hundred Japanese merchant ships lost: Spector, Eagle Against the Sun, 487; United States Strategic Bombing Survey, 11.
 
-90.   "any country whose defense": Lend-Lease Act, 3(1).
+98. “All attempts”: In Miller, War at Sea, 320; Murfett, Naval Warfare, 226–27.
 
-91.   "Execute unrestricted": In Spector, Eagle Against the Sun, 480.
+99. “On general principles”: International Military Tribunal, Trial of the Major War Criminals, 17:380.
 
-92.   "a warship": Treaty for the Limitation and Reduction of Naval Armament, 1930, pt. 4, art. 22.
+100. landing craft: Spector, Eagle Against the Sun, 232–33.
 
-93.   "violating long-established": Roosevelt, Fireside Chat 18 (Sept. 11, 1941), in Smith, Voyages, 2:242.
+101. “did more to win the war”: In Smith and Finch, Coral and Brass, 72.
 
-94.   failure of American torpedoes: Spector, Eagle Against the Sun, 484-85.
+102. “the man who won the war”: In Ambrose, D-Day, 45.
 
-95.      commerce warfare doctrine: U.S. War Dept., United States Strategic Bombing Survey, 12.
+103. more than thirty types: Leighton and Coakley, Global Logistics and Strategy, 2:826–28.
 
-96.   slow to respond: Morison, Two-Ocean War, 496-97.
+104. “The only thing”: Churchill, Second World War, 2:529.
 
-97.      thirteen hundred Japanese merchant ships lost: Spector, Eagle Against the Sun, 487; United States Strategic Bombing Survey,
+105. first of four acts: Hagan, This People’s Navy, 284–90; Lane, Ships for Victory, 36–37.
 
-11.
+106. Liberty ships: Lane, Ships for Victory, 55, 68. Prewar standardized ship types included the C-1, C-2, and C-3 dry cargo ships and T-1, T-2, and T-3 tankers.
 
-98.      "All attempts": In Miller, War at Sea, 320; Murfett, Naval Warfare, 226-27.
+107. figures were increased: Lane, Ships for Victory, 144, 202.
 
-99.   "On general principles": International Military Tribunal, Trial of the Major War Criminals, 17:380.
+108. sailing under the Soviet flag: Leighton and Coakley, Global Logistics and Strategy, 1:113–14, 541, 564; 2:683, 731. A total of 1,332 ships sailed for the Soviet Far East, most of them to Vladivostok; 538 to north Russia; 541 to the Persian Gulf; 120 to the Soviet Arctic (via the Bering Strait); and, from January 1945, 76 to the Black Sea.
 
-100.   landing craft: Spector, Eagle Against the Sun, 232-33.
+109. “The former rights of Russia”: Protocol of Proceedings of Crimea Conference, Agreement Regarding Japan, para. 2; Heinzig, Soviet Union and Communist China, 65, 203–5.
 
-101.      "did more to win the war": In Smith and Finch, Coral and Brass, 72.
+110. divide the peninsula: Hastings, Korean War, 15–16.
 
-102.   "the man who won the war": In Ambrose, D-Day, 45.
+111. landed thirteen thousand troops at Incheon: Ibid., 116–33.
 
-103.   more than thirty types: Leighton and Coakley, Global Logistics and Strategy, 2:826-28.
+112. “an amphibious invasion in reverse”: “One for the Book: An Invasion in Reverse,” Life, Jan. 8, 1951, p. 18.
 
-104.   "The only thing": Churchill, Second World War, 2:529.
-
-105.      first of four acts: Hagan, This People's Navy, 284-90; Lane, Ships for Victory, 36-37.
-
-106.      Liberty ships: Lane, Ships for Victory, 55, 68. Prewar standardized ship types included the C-1, C-2, and C-3 dry cargo ships and T-1, T-2, and T-3 tankers.
-
-107.   figures were increased: Lane, Ships for Victory, 144, 202.
-
-108.      sailing under the Soviet flag: Leighton and Coakley, Global Logistics and Strategy, 1:113-14, 541, 564; 2:683, 731. A total of 1,332 ships sailed for the Soviet Far East, most of them to Vladivostok; 538 to north Russia; 541 to the Persian Gulf; 120 to the Soviet Arctic (via the Bering Strait); and, from January 1945, 76 to the Black Sea.
-
-109.      "The former rights of Russia": Protocol of Proceedings of Crimea Conference, Agreement Regarding Japan, para. 2; Heinzig, Soviet Union and Communist China, 65, 203-5.
-
-110.   divide the peninsula: Hastings, Korean War, 15-16.
-
-111.   landed thirteen thousand troops at Incheon: Ibid., 116-33.
-
-112.   "an amphibious invasion in reverse": "One for the Book: An Invasion in Reverse," Life, Jan. 8, 1951, p. 18.
-
-113.   "what created": Bruce Cumings, in Hastings, Korean War, 15.
+113. “what created”: Bruce Cumings, in Hastings, Korean War, 15.
 
 ### 20. The Maritime World Since the 1950s
 
-1.   "The world maritime industry": Gibson and Donovan, Abandoned Ocean, 239.
+1. “The world maritime industry”: Gibson and Donovan, Abandoned Ocean, 239.
 
-2.      1.2 million seafarers: Round Table of International Shipping Associations, http://www.marisec.org/shippingfacts/worldtrade/worldseafarers.php.
+2. 1.2 million seafarers: Round Table of International Shipping Associations, http://www.marisec.org/shippingfacts/worldtrade/world-seafarers.php.
 
-3.   the freighter Warrior: Levinson, The Box, 32-34.
+3. the freighter Warrior: Levinson, The Box, 32–34.
 
-4.   Ideal-X: Ibid.; Broeze, Globalization of the Oceans, 32-33.
+4. Ideal-X: Ibid.; Broeze, Globalization of the Oceans, 32–33.
 
-5.   Belgian researchers: Broeze, Globalization of the Oceans, 19.
+5. Belgian researchers: Broeze, Globalization of the Oceans, 19.
 
-6.   "McLean understood": Levinson, The Box, 53.
+6. “McLean understood”: Levinson, The Box, 53.
 
-7.   computer-generated loading plans: Ibid., 6, 247.
+7. computer-generated loading plans: Ibid., 6, 247.
 
-8.   container ports: Broeze, Globalization of the Oceans, 20-21, 172-
+8. container ports: Broeze, Globalization of the Oceans, 20–21, 172–74.
 
-74.
+9. freight forwarding, customs clearance, and insurance: Ibid., 23–25.
 
-9.   freight forwarding, customs clearance, and insurance: Ibid., 23-25.
+10. Singapore handled: UNCTAD, Review of Maritime Transport, 95.
 
-10.   Singapore handled: UNCTAD, Review of Maritime Transport, 95.
+11. busiest long-distance routes: Ibid., 85.
 
-11.   busiest long-distance routes: Ibid., 85.
+12. oil tankers began to outgrow: Stopford, Maritime Economics, 22. Launched as Seawise Giant in 1979, the ship was renamed Jahre Viking (1991–2004) and Knock Nevis (2004–2009). She was scrapped in 2010.
 
-12.   oil tankers began to outgrow: Stopford, Maritime Economics, 22. Launched as Seawise Giant in 1979, the ship was renamed Jahre Viking (1991-2004) and Knock Nevis (2004-2009). She was scrapped in 2010.
+13. Louisiana Offshore Oil Port: Louisiana Department of Transportation, LOOP Program.
 
-13.      Louisiana Offshore Oil Port: Louisiana Department of Transportation, LOOP Program.
+14. brig Osceola: Havighurst, Long Ships Passing, 81.
 
-14.   brig Osceola: Havighurst, Long Ships Passing, 81.
+15. refrigerated ships: Greenway, “Cargo Ships,” 43–50.
 
-15.   refrigerated ships: Greenway, "Cargo Ships," 43-50.
+16. Miranda Guinness: Yenne, Guinness, 167.
 
-16.   Miranda Guinness: Yenne, Guinness, 167.
+17. people employed: Broeze, Globalization of the Oceans, 231–38; National Research Council, Crew Size and Maritime Safety, 1–12.
 
-17.   people employed: Broeze, Globalization of the Oceans, 231-38; National Research Council, Crew Size and Maritime Safety, 1-12.
+18. the right to grant nationality: Carlisle, Sovereignty for Sale, 154.
 
-18.   the right to grant nationality: Carlisle, Sovereignty for Sale, 154.
+19. “The chief advantage”: New York Herald, Oct. 1, 1922, in ibid., 10–11.
 
-19.   "The chief advantage": New York Herald, Oct. 1, 1922, in ibid., 10-11.
+20. “German stewards”: New York Times, Dec. 6, 1922, in Carlisle, Sovereignty for Sale, 17.
 
-20.   "German stewards": New York Times, Dec. 6, 1922, in Carlisle, Sovereignty for Sale, 17.
+21. political instability in Panama: Carlisle, Sovereignty for Sale, 111–14.
 
-21.      political instability in Panama: Carlisle, Sovereignty for Sale, 111-14.
+22. Liberian-flagged ships: Ibid., 115–33.
 
-22.   Liberian-flagged ships: Ibid., 115-33.
+23. “legal restraints”: Ibid., 152.
 
-23.   "legal restraints": Ibid., 152.
+24. global labor market: Dimitrova, Seafarers’ Rights, 28, 128.
 
-24.   global labor market: Dimitrova, Seafarers' Rights, 28, 128.
+25. conditions are often substandard: Ibid., 27–46.
 
-25.   conditions are often substandard: Ibid., 27-46.
+26. Torrey Canyon: Chelminski, Superwreck; Cowan, Oil and Water.
 
-26.   Torrey Canyon: Chelminski, Superwreck; Cowan, Oil and Water.
+27. Amoco Cadiz: Petrow, In the Wake of the Torrey Canyon.
 
-27.   Amoco Cadiz: Petrow, In the Wake of the Torrey Canyon.
+28. a raft of conventions: International Maritime Organization, “List of IMO Conventions.”
 
-28.   a raft of conventions: International Maritime Organization, "List of IMO Conventions."
+29. Safety of Life at Sea (SOLAS) conventions: International Maritime Organization, SOLAS 1974: Brief History.
 
-29.      Safety of Life at Sea (SOLAS) conventions: International Maritime Organization, SOLAS 1974: Brief History.
+30. odds of dying: IMO, International Shipping and World Trade, 20.
 
-30.   odds of dying: IMO, International Shipping and World Trade, 20.
+31. “It’s no fish ye’re buying”: Scott, The Antiquary, 1:252.
 
-31.   "It's no fish ye're buying": Scott, The Antiquary, 1:252.
+32. The principal tools: Smith, “Fishing Vessels”; Grescoe, Bottomfeeder, 199.
 
-32.      The principal tools: Smith, "Fishing Vessels"; Grescoe, Bottomfeeder, 199.
+33. “Up to the time”: In Donnellan, The Shoals of Herring, adapted by Philip Donnellan from the radio ballad “Singing the Fishing,” by Ewan McColl, Peggy Seeger, and Charles Parker. Birmingham BBC Colour, 1972. Available at http://www.youtube.com/user/RadioBalladsFilms.
 
-33.   "Up to the time": In Donnellan, The Shoals of Herring, adapted by Philip Donnellan from the radio ballad "Singing the Fishing," by Ewan McColl, Peggy Seeger, and Charles Parker. Birmingham BBC Colour,
+34. likened to clear-cutting: Grescoe, Bottomfeeder, 27.
 
-1972. Available at http://www.youtube.com/user/RadioBalladsFilms.
+35. expansion of the fisheries: FAO, The State of World Fisheries, 4, 12.
 
-34.   likened to clear-cutting: Grescoe, Bottomfeeder, 27.
+36. illegal, unreported, and unregulated: Ibid., 79–83.
 
-35.   expansion of the fisheries: FAO, The State of World Fisheries, 4,
+37. The Agreement on Conservation and Management: United Nations, “Agreement … Relating to the Conservation and Management of Straddling Fish Stocks and Highly Migratory Fish Stocks.”
 
-12.
+38. exclusive economic zone (EEZ): Under the Law of the Sea, the EEZ is an area of the sea over which “a coastal State has sovereign rights (a) for the purpose of exploring and exploiting, conserving and managing the natural resources, whether living or non-living, of the waters superjacent to the seabed and of the seabed and its subsoil, and with regard to other activities for the economic exploitation and exploration of the zone, such as the production of energy from the water, currents and winds; (b) jurisdiction … with regard to: (i) the establishment and use of artificial islands, installations and structures; (ii) marine scientific research; (iii) the protection and preservation of the marine environment.” All states have “the freedoms … associated with the operation of ships, aircraft and submarine cables and pipelines” in an EEZ. See United Nations, Law of the Sea, Part V, “Exclusive Economic Zone.”
 
-36.   illegal, unreported, and unregulated: Ibid., 79-83.
+39. fundamentally democratic: Paine, Down East, 121; Kalland, Fishing Villages in Tokugawa Japan, 141–45.
 
-37.      The Agreement on Conservation and Management: United Nations, "Agreement  …  Relating to the Conservation and Management of Straddling Fish Stocks and Highly Migratory Fish Stocks."
+40. Canadian cod fishery: Paine, Down East, 132–33.
 
-38.   exclusive economic zone (EEZ): Under the Law of the Sea, the EEZ is an area of the sea over which "a coastal State has sovereign rights (a) for the purpose of exploring and exploiting, conserving and managing the natural resources, whether living or non-living, of the waters superjacent to the seabed and of the seabed and its subsoil, and with regard to other activities for the economic exploitation and exploration of the zone, such as the production of energy from the water, currents and winds; (b) jurisdiction  …  with regard to: (i) the establishment and use of artificial islands, installations and structures; (ii) marine scientific research; (iii) the protection and preservation of the marine environment." All states have "the freedoms … associated with the operation of ships, aircraft and submarine cables and pipelines" in an EEZ. See United Nations, Law of the Sea, Part V, "Exclusive Economic Zone."
+41. local fishermen began seizing: Hansen, “Piracy in the Greater Gulf of Aden,” 8–13; Weir, “Fish, Family, and Profit,” 16–21.
 
-39.      fundamentally democratic: Paine, Down East, 121; Kalland, Fishing Villages in Tokugawa Japan, 141-45.
+42. USS Triton: Beach, Around the World Submerged. In 2007–2008, Francis Joyon completed a solo circumnavigation under sail in the thirty-meter trimaran Idec II in fifty-seven days—four days less than the Triton.
 
-40.   Canadian cod fishery: Paine, Down East, 132-33.
+43. icebreaker Lenin: Paine, “Lenin,” in Hattendorf, ed., Oxford Encyclopedia of Maritime History, 2:354–55.
 
-41.      local fishermen began seizing: Hansen, "Piracy in the Greater Gulf of Aden," 8-13; Weir, "Fish, Family, and Profit," 16-21.
+44. “As we combine”: Mullen, “Remarks.”
 
-42.   USS Triton: Beach, Around the World Submerged. In 2007-2008, Francis Joyon completed a solo circumnavigation under sail in the thirty-meter trimaran Idec II in fifty-seven days--four days less than the Triton.
+45. “global system”: U.S. Navy et al., “A Cooperative Strategy.”
 
-43.      icebreaker Lenin: Paine, "Lenin," in Hattendorf, ed., Oxford Encyclopedia of Maritime History, 2:354-55.
+46. “challenges are too diverse”: Mullen, “Remarks.” See Ratcliff, “Building Partners’ Capacity,” 49–50.
 
-44.   "As we combine": Mullen, "Remarks."
+47. over eight billion tons: UNCTAD, Review of Maritime Transport, 6.
 
-45.   "global system": U.S. Navy et al., "A Cooperative Strategy."
-
-46.   "challenges are too diverse": Mullen, "Remarks." See Ratcliff, "Building Partners' Capacity," 49-50.
-
-47.   over eight billion tons: UNCTAD, Review of Maritime Transport,
-
-6.
-
-48.   "Sailing is a noble thing": Pachymeres, Historia, in Browning, "The City and the Sea," 110.
-
+48. “Sailing is a noble thing”: Pachymeres, Historia, in Browning, “The City and the Sea,” 110.
 
 ## Bibliography
 
-Abbreviations
+### Abbreviations
 
-IJNA
+IJNA International Journal of Nautical Archaeology
 
-International Journal of Nautical Archaeology
-
-JAOS
-
-Journal of the American Oriental Society
+JAOS Journal of the American Oriental Society
 
 JESHO Journal of the Economic and Social History of the Orient
 
 JSEAS Journal of Southeast Asian Studies
 
-Abbott, John S. C. "Ocean Life." Harper's New Monthly Magazine
+Abbott, John S. C. “Ocean Life.” Harper’s New Monthly Magazine 5:25 (1852): 61–66.
 
-5:25 (1852): 61-66.
+Abu Zayd Hasan ibn Yazid al-Sirafi. Concerning the Voyage to the Indies and China. In Ancient Accounts of India and China by Two Mohammedan Travellers, Who Went to Those Parts in the 9th Century. Trans. Eusebius Renaudot. 1733. Reprint, New Delhi: Asian Education Services, 1995.
 
-Abu Zayd Hasan ibn Yazid al-Sirafi. Concerning the Voyage to the
+Abulafia, David. “Neolithic Meets Medieval: First Encounters in the Canary Islands.” In Medieval Frontiers: Concepts and Practices, ed. by David Abulafia, 173–94. Burlington, VT: Ashgate, 2002.
 
-Indies and China. In Ancient Accounts of India and China by Two
+———. “Trade and Crusade, 1050–1250.” In Mediterranean Encounters, Economic, Religious, Political, 1100–1550. Aldershot, UK: Ashgate, 2000.
 
-Mohammedan Travellers, Who Went to Those Parts in the 9th
+Adam of Bremen. History of the Archbishops of Hamburg-Bremen. Trans. Francis J. Tschau. New York: Columbia Univ. Press, 1959.
 
-Century. Trans. Eusebius Renaudot. 1733. Reprint, New Delhi:
-
-Asian Education Services, 1995.
-
-Abulafia, David. "Neolithic Meets Medieval: First Encounters in the
-
-Canary Islands." In Medieval Frontiers: Concepts and Practices, ed.
-
-by David Abulafia, 173-94. Burlington, VT: Ashgate, 2002.
-
-------. "Trade and Crusade, 1050-1250." In Mediterranean
-
-Encounters, Economic, Religious, Political, 1100-1550. Aldershot,
-
-UK: Ashgate, 2000.
-
-Adam of Bremen. History of the Archbishops of Hamburg-Bremen.
-
-Trans. Francis J. Tschau. New York: Columbia Univ. Press, 1959.
-
-Adney, Tappan, and Howard Chapelle. The Bark Canoes and Skin
-
-Boats of North America. Washington: Smithsonian, 1964.
+Adney, Tappan, and Howard Chapelle. The Bark Canoes and Skin Boats of North America. Washington: Smithsonian, 1964.
 
 Aeschylus. Lyrical Dramas. London: Dent, 1940.
 
-Agatharchides of Cnidus. On the Erythraean Sea. Trans. Stanley M.
+Agatharchides of Cnidus. On the Erythraean Sea. Trans. Stanley M. Burstein. London: Hakluyt, 1989.
 
-Burstein. London: Hakluyt, 1989.
+Agawa, Hiroyuki. The Reluctant Admiral: Yamamoto and the Imperial Navy. New York: Kodansha, 1979.
 
-Agawa, Hiroyuki. The Reluctant Admiral: Yamamoto and the Imperial
+Agius, Dionisius A. Classic Ships of Islam: From Mesopotamia to the Indian Ocean. Leiden: Brill, 2008.
 
-Navy. New York: Kodansha, 1979.
+Ahmad, S. Maqbul. “Travels of Abu ’l Hasan ’Ali b. al Husayn al Mas’udi.” Islamic Culture 28 (1954): 509–24.
 
-Agius, Dionisius A. Classic Ships of Islam: From Mesopotamia to the
+Ahrweiler, Helene. Byzance et la mer. Paris: Presses Universitaire de France, 1966.
 
-Indian Ocean. Leiden: Brill, 2008.
+Albion, Robert G. Forests and Sea Power: The Timber Problem of the Royal Navy, 1652–1862. 1926. Reprint, Annapolis: Naval Institute, 2000.
 
-Ahmad, S. Maqbul. "Travels of Abu 'l Hasan 'Ali b. al Husayn al
+———. “Planning the Black Ball Line, 1817.” Business History Review 41:1 (1967): 104–7.
 
-Mas'udi." Islamic Culture 28 (1954): 509-24.
+Albuquerque, Afonso de. The Commentaries of the Great Afonso Dalboquerque, Second Viceroy of India. Trans. Walter de Gray Birch. 4 vols. London: Hakluyt, 1880.
 
-Ahrweiler, Helene. Byzance et la mer. Paris: Presses Universitaire de
+Alcuin of York. Alcuin of York, c. A.D. 732 to 804: His Life and Letters. York: Sessions, 1974.
 
-France, 1966.
+Ali, Shanti Sadiq. The African Dispersal in the Deccan: From Medieval to Modern Times. New Delhi: Orient Longman, 1996.
 
-Albion, Robert G. Forests and Sea Power: The Timber Problem of the
+Allaire, Louis. “Archaeology of the Caribbean Region.” In The Cambridge History of the Native Peoples of America. Vol. 3, South America, ed. by Frank Salomon and Stuart B. Schwartz, 668–733. Cambridge: Cambridge Univ. Press, 1999.
 
-Royal Navy, 1652-1862. 1926. Reprint, Annapolis: Naval Institute,
+Ambrose, Stephen E. D-Day, June 6, 1944: The Climactic Battle of World War II. New York: Simon & Schuster, 1994.
 
-2000.
+Ambrosiani, Björn. “The Prehistory of Towns in Sweden.” In The Rebirth of Towns in the West ad, 700–1050, ed. by Richard Hodges and Brian Hobley, 63–68. Oxford: Council for British Archaeology, 1988.
 
-------. "Planning the Black Ball Line, 1817." Business History
+American Merchant Marine at War. “Battle of the Atlantic Statistics.” http://www.usmm.org/battleatlantic.html.
 
-Review 41:1 (1967): 104-7.
+Ameringer, Charles D. “The Panama Canal Lobby of Philippe Bunau-Varilla and William Nelson Cromwell.” American Historical Review 68:2 (1963): 346–63.
 
-Albuquerque, Afonso de. The Commentaries of the Great Afonso
+Ames, Glenn J. “The Straits of Hurmuz Fleets: Omani-Portuguese Naval Rivalry and Encounters, ca. 1660–1680.” Mariner’s Mirror 83:4 (Nov. 1997): 398–409.
 
-Dalboquerque, Second Viceroy of India. Trans. Walter de Gray
+Ames, Kenneth M. “Going by Boat: The Forager-Collector Continuum at Sea.” In Beyond Foraging and Collecting: Evolution and Change in Hunter-Gatherer Settlement Systems, ed. by Ben Fitzhugh and Junko Habu, 19–52. New York: Kluwer Academic/Plenum, 2002.
 
-Birch. 4 vols. London: Hakluyt, 1880.
+Anawalt, Patricia Reiff. “Ancient Cultural Contacts Between Ecuador, West Mexico and the American Southwest: Clothing Similarities.” Latin American Antiquity 3:2 (June 1992): 114–29.
 
-Alcuin of York. Alcuin of York, c. A.D. 732 to 804: His Life and Letters.
+Andrade, Tonio. “Rise and Fall of Dutch Taiwan.” Journal of World History 17:4 (2006): 429–50.
 
-York: Sessions, 1974.
+Andrewes, William J. H. “Even Newton Could Be Wrong: The Story of Harrison’s First Three Sea Clocks.” In The Quest for Longitude, ed. by Andrewes, 190–233.
 
-Ali, Shanti Sadiq. The African Dispersal in the Deccan: From
+Andrewes, William J. H., ed. The Quest for Longitude: The Proceedings of the Longitude Symposium, Harvard University, Cambridge, Massachusetts, November 4–6, 1993. Cambridge: Collection of Historical Scientific Instruments, Harvard University, 1996.
 
-Medieval to Modern Times. New Delhi: Orient Longman, 1996.
+Andrews, Kenneth R. Trade, Plunder and Settlement: Maritime Enterprise and the Genesis of the British Empire, 1480–1630. Cambridge: Cambridge Univ. Press, 1985.
 
-Allaire, Louis. "Archaeology of the Caribbean Region." In The
-
-Cambridge History of the Native Peoples of America. Vol. 3, South
-
-America, ed. by Frank Salomon and Stuart B. Schwartz, 668-733.
-
-Cambridge: Cambridge Univ. Press, 1999.
-
-Ambrose, Stephen E. D-Day, June 6, 1944: The Climactic Battle of
-
-World War II. New York: Simon & Schuster, 1994.
-
-Ambrosiani, Björn. "The Prehistory of Towns in Sweden." In The
-
-Rebirth of Towns in the West ad, 700-1050, ed. by Richard Hodges
-
-and Brian Hobley, 63-68. Oxford: Council for British Archaeology,
-
-1988.
-
-American Merchant Marine at War. "Battle of the Atlantic Statistics."
-
-http://www.usmm.org/battleatlantic.html.
-
-Ameringer, Charles D. "The Panama Canal Lobby of Philippe BunauVarilla and William Nelson Cromwell." American Historical Review
-
-68:2 (1963): 346-63.
-
-Ames, Glenn J. "The Straits of Hurmuz Fleets: Omani-Portuguese
-
-Naval Rivalry and Encounters, ca. 1660-1680." Mariner's Mirror
-
-83:4 (Nov. 1997): 398-409.
-
-Ames, Kenneth M. "Going by Boat: The Forager-Collector Continuum
-
-at Sea." In Beyond Foraging and Collecting: Evolution and Change
-
-in Hunter-Gatherer Settlement Systems, ed. by Ben Fitzhugh and
-
-Junko Habu, 19-52. New York: Kluwer Academic/Plenum, 2002.
-
-Anawalt, Patricia Reiff. "Ancient Cultural Contacts Between Ecuador,
-
-West Mexico and the American Southwest: Clothing Similarities."
-
-Latin American Antiquity 3:2 (June 1992): 114-29.
-
-Andrade, Tonio. "Rise and Fall of Dutch Taiwan." Journal of World
-
-History 17:4 (2006): 429-50.
-
-Andrewes, William J. H. "Even Newton Could Be Wrong: The Story
-
-of Harrison's First Three Sea Clocks." In The Quest for Longitude,
-
-ed. by Andrewes, 190-233.
-
-Andrewes, William J. H., ed. The Quest for Longitude: The
-
-Proceedings of the Longitude Symposium, Harvard University,
-
-Cambridge, Massachusetts, November 4-6, 1993. Cambridge:
-
-Collection of Historical Scientific Instruments, Harvard University,
-
-1996.
-
-Andrews, Kenneth R. Trade, Plunder and Settlement: Maritime
-
-Enterprise and the Genesis of the British Empire, 1480-1630.
-
-Cambridge: Cambridge Univ. Press, 1985.
-
-Angevine, Robert G. "The Rise and Fall of the Office of Naval
-
-Intelligence, 1882-1892: A Technological Perspective." Journal of
-
-Military History 62 (1998): 291-313.
+Angevine, Robert G. “The Rise and Fall of the Office of Naval Intelligence, 1882–1892: A Technological Perspective.” Journal of Military History 62 (1998): 291–313.
 
 Anglo-Japanese Alliance. Jan. 30, 1902. http://www.jacar.go.jp/nichiro/uk-japan.htm.
 
-Anna Comnena. The Alexiad. Trans. E. R. A. Sewter. Harmondsworth:
+Anna Comnena. The Alexiad. Trans. E. R. A. Sewter. Harmondsworth: Penguin, 1969.
 
-Penguin, 1969.
+Anson, George. A Voyage Round the World in the Years MDCCXL, I, II, III, IV, ed. by Glyndwr Williams. London: Oxford Univ. Press, 1974.
 
-Anson, George. A Voyage Round the World in the Years MDCCXL, I,
+Antony, Robert J. Like Froth Floating on the Sea: The World of Pirates and Seafarers in Late Imperial South China. Berkeley: Institute of East Asian Studies, 2003.
 
-II, III, IV, ed. by Glyndwr Williams. London: Oxford Univ. Press,
+Appian. Roman History. Trans. Horace White. 4 vols. Cambridge: Harvard Univ. Press, 1913.
 
-1974.
+Arasaratnam, Sinappah. “India and the Indian Ocean in the Seventeenth Century.” In India and the Indian Ocean, 1500–1800, ed. by Ashin Das Gupta and M. N. Pearson, 95–130. Calcutta: Oxford Univ. Press, 1987.
 
-Antony, Robert J. Like Froth Floating on the Sea: The World of Pirates
-
-and Seafarers in Late Imperial South China. Berkeley: Institute of
-
-East Asian Studies, 2003.
-
-Appian. Roman History. Trans. Horace White. 4 vols. Cambridge:
-
-Harvard Univ. Press, 1913.
-
-Arasaratnam, Sinappah. "India and the Indian Ocean in the
-
-Seventeenth Century." In India and the Indian Ocean, 1500-1800,
-
-ed. by Ashin Das Gupta and M. N. Pearson, 95-130. Calcutta:
-
-Oxford Univ. Press, 1987.
-
-------. Maritime India in the Seventeenth Century. New Delhi:
-
-Oxford Univ. Press, 1994.
+———. Maritime India in the Seventeenth Century. New Delhi: Oxford Univ. Press, 1994.
 
 Aristophanes. Lysistrata and Other Plays. New York: Penguin, 2002.
 
-Aristotle. The Complete Works of Aristotle. Trans. Jonathan Barnes. 2
+Aristotle. The Complete Works of Aristotle. Trans. Jonathan Barnes. 2 vols. Princeton: Princeton Univ. Press, 1984.
 
-vols. Princeton: Princeton Univ. Press, 1984.
+Armitage, David. The Ideological Origins of the British Empire. Cambridge: Cambridge Univ. Press, 2000.
 
-Armitage, David. The Ideological Origins of the British Empire.
+Armstrong, Terence. Yermak’s Campaign in Siberia: A Selection of Documents. London: Hakluyt, 1975.
 
-Cambridge: Cambridge Univ. Press, 2000.
+Arnold, Jeanne E., and Julienne Bernard. “Negotiating the Coasts: Status and the Evolution of Boat Technology in California.” World Archaeology 37:1 (March 2005): 109–31.
 
-Armstrong, Terence. Yermak's Campaign in Siberia: A Selection of
+Arrian. Anabasis of Alexander; Indica. Trans. E. Iliff Robson. 2 vols. New York: Putnam’s, 1929–33.
 
-Documents. London: Hakluyt, 1975.
+Aryasura, and Peter Khoroche. Once the Buddha Was a Monkey: Arya Sura’s Jatakamala. Chicago: Univ. of Chicago Press, 1989.
 
-Arnold, Jeanne E., and Julienne Bernard. "Negotiating the Coasts:
+Ashburner, Walter. The Rhodian Sea-Law. 1909. Reprint, Aalen, Germany: Scientia Verlag, 1976.
 
-Status and the Evolution of Boat Technology in California." World
+Athenaeus. The Deipnosophists. Trans. C. B. Gulick. 7 vols. Cambridge: Putnam’s Sons, 1927–41.
 
-Archaeology 37:1 (March 2005): 109-31.
+Aubet, Maria Eugenia. The Phoenicians and the West: Politics, Colonies and Trade. New York: Cambridge Univ. Press, 1996.
 
-Arrian. Anabasis of Alexander; Indica. Trans. E. Iliff Robson. 2 vols.
+Aubrey, Philip. Defeat of James Stuart’s Armada. Totowa, NJ: Rowman & Littlefield, 1979.
 
-New York: Putnam's, 1929-33.
+Aughterson, Kate, ed. The English Renaissance: An Anthology of Sources and Documents. New York: Routledge, 2002.
 
-Aryasura, and Peter Khoroche. Once the Buddha Was a Monkey: Arya
+Aung-Thwin, Michael. The Mists of Ramañña: The Legend That Was Lower Burma. Honolulu: Univ. of Hawai’i Press, 2005.
 
-Sura's Jatakamala. Chicago: Univ. of Chicago Press, 1989.
+Austin, M. M., and P. Vidal-Naquet. Economic and Social History of Ancient Greece: An Introduction. 2nd ed. Berkeley: Univ. of California Press, 1973.
 
-Ashburner, Walter. The Rhodian Sea-Law. 1909. Reprint, Aalen,
+Avienus, Rufus Festus. Ora Maritima; or, Description of the Seacoast from Brittany Round to Massilia. Trans. J. P. Murphy. Chicago: Ares, 1977.
 
-Germany: Scientia Verlag, 1976.
+Ayalon, D. “The Mamluks and Naval Power: A Phase of the Struggle Between Islam and Christian Europe.” Proceedings of the Israel Academy of Sciences and Humanities 1 (1965): 1–12.
 
-Athenaeus. The Deipnosophists. Trans. C. B. Gulick. 7 vols.
+Aziz Ahmad. A History of Islamic Sicily. Edinburgh: Edinburgh Univ. Press, 1975.
 
-Cambridge: Putnam's Sons, 1927-41.
+Bachrach, Bernard S. “On the Origins of William the Conqueror’s Horse Transports.” Technology and Culture 26:3 (1985): 505–31.
 
-Aubet, Maria Eugenia. The Phoenicians and the West: Politics,
+Bacon, Edwin M. Manual of Ship Subsidies: An Historical Summary of the Systems of All Nations. Chicago: McClurg, 1911.
 
-Colonies and Trade. New York: Cambridge Univ. Press, 1996.
+Baker, Ray Stannard. Woodrow Wilson and World Settlement, Written from His Unpublished and Personal Material. Vol. 3, Original Documents of the Peace Conference. Garden City: Doubleday, Page, 1922.
 
-Aubrey, Philip. Defeat of James Stuart's Armada. Totowa, NJ:
+Baladhuri, Ahmad ibn Yahya al-. The Origins of the Islamic State. Trans. Philip Khuri Hitti. 1916. Reprint, Piscataway: Gorgias, 2002.
 
-Rowman & Littlefield, 1979.
+Ballard, G. A. The Influence of the Sea on the Political History of Japan. New York: Dutton, 1921.
 
-Aughterson, Kate, ed. The English Renaissance: An Anthology of
+Ban, Gu. Food and Money in Ancient China: The Earliest Economic History of China to A.D. 25. Trans. Nancy Lee Swann. 1950. Reprint, New York: Octagon, 1974.
 
-Sources and Documents. New York: Routledge, 2002.
+Barbosa, Duarte, Fernão de Magalhães, and Mansel Longworth Dames. The Book of Duarte Barbosa: An Account of the Countries Bordering on the Indian Ocean and Their Inhabitants. London: Hakluyt, 1918.
 
-Aung-Thwin, Michael. The Mists of Ramañña: The Legend That Was
+Barbour, Violet. Capitalism in Amsterdam in the 17th Century. Ann Arbor: Univ. of Michigan Press, 1963.
 
-Lower Burma. Honolulu: Univ. of Hawai'i Press, 2005.
+———. “Dutch and English Merchant Shipping in the Seventeenth Century.” Economic History Review 2:2 (1930): 261–90.
 
-Austin, M. M., and P. Vidal-Naquet. Economic and Social History of
+Barendse, René. “Shipbuilding in Seventeenth-Century Western India.” Itinerario 19:3 (1995): 175–95.
 
-Ancient Greece: An Introduction. 2nd ed. Berkeley: Univ. of
+Barr, Pat. The Deer Cry Pavilion; A Story of Westerners in Japan, 1868–1905. New York: Harcourt, Brace & World, 1969.
 
-California Press, 1973.
+Bartholomew, Michael. “James Lind and Scurvy: A Revaluation.” Journal for Maritime Research, Jan. 2002. http://www.jmr.nmm.ac.uk/server/show/conJmrArticle.3.
 
-Avienus, Rufus Festus. Ora Maritima; or, Description of the Seacoast
+Bass, George F. “Bronze Age Shipwreck at Ulu Burun (Kas˛): 1984 Campaign.” American Journal of Archaeology 90 (1986): 269–96.
 
-from Brittany Round to Massilia. Trans. J. P. Murphy. Chicago:
+———. “A Byzantine Trading Venture.” Scientific American 224.2 (1971): 23–33.
 
-Ares, 1977.
+———. Cape Gelidonya: A Bronze Age Shipwreck. Philadelphia: American Philosophical Society, 1967.
 
-Ayalon, D. "The Mamluks and Naval Power: A Phase of the Struggle
+———. “Return to Cape Gelidonya.” INA Newsletter 15 (1988): 2–5.
 
-Between Islam and Christian Europe." Proceedings of the Israel
+Bass, George F., and Frederick H. Van Doorninck, Jr. “An 11th-Century Shipwreck at Serçe Limani, Turkey.” IJNA 7 (1978): 119–32.
 
-Academy of Sciences and Humanities 1 (1965): 1-12.
+———. “A Fourth-Century Shipwreck at Yassi Ada.” American Journal of Archaeology 75 (1971): 27–37.
 
-Aziz Ahmad. A History of Islamic Sicily. Edinburgh: Edinburgh Univ.
+———. Yassi Ada. Vol. 1, A Seventh-Century Byzantine Shipwreck. College Station, TX: IJNA, 1982.
 
-Press, 1975.
+Bass, George F., et al. Cape Gelidonya: A Bronze Age Shipwreck. TAPA New Series 57:8, 1967.
 
-Bachrach, Bernard S. "On the Origins of William the Conqueror's
+———. Serçe Limani: An Eleventh-Century Shipwreck. Vol. 1, The Ship and Its Anchorage, Crew, and Passengers. College Station: Texas A&M Univ. Press, 2004.
 
-Horse Transports." Technology and Culture 26:3 (1985): 505-31.
+Bately, Janet. “Text and Translation.” In Ohthere’s Voyages, ed. by Bately and Englert, 40–50.
 
-Bacon, Edwin M. Manual of Ship Subsidies: An Historical Summary
+Bately, Janet, and Anton Englert, eds. Ohthere’s Voyages: A Late 9th-Century Account of Voyages Along the Coasts of Norway and Denmark and Its Cultural Context. Roskilde: Viking Ship Museum, 2007.
 
-of the Systems of All Nations. Chicago: McClurg, 1911.
+Bathurst, R. D. “Maritime Trade and Imamate Government: Two Principal Themes in the History of Oman.” In The Arabian Peninsula: Society and Politics, ed. by Derek Hopwood, 89–106. London: George Allen & Unwin, 1972.
 
-Baker, Ray Stannard. Woodrow Wilson and World Settlement, Written
+Baugh, Daniel. The Global Seven Years War, 1754–1763: Britain and France in a Great Power Contest. London: Pearson, 2011.
 
-from His Unpublished and Personal Material. Vol. 3, Original
+Beach, Edward L. Around the World Submerged. New York: Holt, 1962.
 
-Documents of the Peace Conference. Garden City: Doubleday, Page,
+———. The United States Navy: 200 Years. New York: Holt, 1986.
 
-1922.
+Beaglehole, J. C. The Exploration of the Pacific. 3rd ed. Stanford: Stanford Univ. Press, 1966.
 
-Baladhuri, Ahmad ibn Yahya al-. The Origins of the Islamic State.
+Bede. A History of the English Church and People. Trans. Leo Sherley-Price. New York: Penguin, 1968.
 
-Trans. Philip Khuri Hitti. 1916. Reprint, Piscataway: Gorgias, 2002.
+Bellwood, Peter S. Prehistory of the Indo-Malaysian Archipelago. Honolulu: Univ. of Hawai’i Press, 1997.
 
-Ballard, G. A. The Influence of the Sea on the Political History of
+———. “Southeast Asia Before History.” In The Cambridge History of Southeast Asia, ed. by Tarling, 1.1:55–136.
 
-Japan. New York: Dutton, 1921.
+Bellwood, Peter, and Judith Cameron. “Ancient Boats, Boat Timbers, and Locked Mortise-and-Tenon Joints from Bronze/Iron-Age Northern Vietnam.” IJNA 36:1 (2007): 2–20.
 
-Ban, Gu. Food and Money in Ancient China: The Earliest Economic
+Benjamin, Daniel K., and Anca Tifrea. “Learning by Dying: Combat Performance in the Age of Sail.” Journal of Economic History 67:4 (2007): 968–1000.
 
-History of China to A.D. 25. Trans. Nancy Lee Swann. 1950. Reprint,
+Benjamin of Tudela. The Itinerary of Benjamin of Tudela: Travels in the Middle Ages. Introduction by Michael A. Signer, M. N. Adler, and A. Asher. Malibu, CA: J. Simon, 1983.
 
-New York: Octagon, 1974.
+Benn, Charles. China’s Golden Age: Everyday Life in the Tang Dynasty. New York: Oxford Univ. Press, 2002.
 
-Barbosa, Duarte, Fernão de Magalhães, and Mansel Longworth
+Bergquist, Charles W. “The Paradox of American Development.” In Labor and the Course of American Democracy: U.S. History in Latin American Perspective. New York: Verso, 1996.
 
-Dames. The Book of Duarte Barbosa: An Account of the Countries
+Berkowitz, David Sandler. John Selden’s Formative Years: Politics and Society in Early Seventeenth-Century England. Washington: Folger Shakespeare Library, 1988.
 
-Bordering on the Indian Ocean and Their Inhabitants. London:
+Berlow, Rosalind Kent. “The Sailing of the Saint Esprit.” The Journal of Economic History 39:2 (1979): 345–62.
 
-Hakluyt, 1918.
+Bernstein, Peter L. Wedding of the Waters: The Erie Canal and the Making of a Great Nation. New York: Norton, 2005.
 
-Barbour, Violet. Capitalism in Amsterdam in the 17th Century. Ann
+Bessason, Haraldur, Paul Edwards, and Hermann Pálsson. The Book of Settlements. Winnipeg: Univ. of Manitoba Press, 1972.
 
-Arbor: Univ. of Michigan Press, 1963.
+Bielenstein, Hans. Diplomacy and Trade in the Chinese World, 589–1276. Leiden: Brill, 2005.
 
-------. "Dutch and English Merchant Shipping in the Seventeenth
+Biggar, Henry Percival, compiler. A Collection of Documents Relating to Jacques Cartier and the Sieur de Roberval. Ottawa: Public Archives of Canada, 1930.
 
-Century." Economic History Review 2:2 (1930): 261-90.
+Birnbaum, Henrik. Lord Novgorod the Great: Essays in the History and Culture of a Medieval City-State. Columbus: Slavica, 1981.
 
-Barendse, René. "Shipbuilding in Seventeenth-Century Western
+Bittlestone, Robert, with James Diggle and John Underhill. Odysseus Unbound: The Search for Homer’s Ithaca. Cambridge: Cambridge Univ. Press, 2005.
 
-India." Itinerario 19:3 (1995): 175-95.
+Bjork, David K. “The Peace of Stralsund, 1370.” Speculum 7 (1932): 447–76.
 
-Barr, Pat. The Deer Cry Pavilion; A Story of Westerners in Japan,
+———. “Piracy in the Baltic, 1375–1398.” Speculum 18:1 (1943): 39–68.
 
-1868-1905. New York: Harcourt, Brace & World, 1969.
+Blackbourn, David. The Conquest of Nature: Water, Landscape, and the Making of Modern Germany. New York: Norton, 2006.
 
-Bartholomew, Michael. "James Lind and Scurvy: A Revaluation."
+Blench, Roger. “The Ethnographic Evidence for Long-Distance Contacts Between Oceania and East Africa.” In The Indian Ocean in Antiquity, ed. by Reade, 417–38.
 
-Journal for Maritime Research, Jan. 2002. http://www.jmr.nmm.ac.uk/server/show/conJmrArticle.3.
+Blussé, Leonard. “Brief Encounter at Macao.” Modern Asian Studies 22:3 (1988): 647–64.
 
-Bass, George F. "Bronze Age Shipwreck at Ulu Burun (Kas˛): 1984
+———. “Chinese Century: The Eighteenth Century in the China Sea Region.” Archipel 58 (1999): 107–29.
 
-Campaign." American Journal of Archaeology 90 (1986): 269-96.
+———. “Divesting a Myth: Seventeenth Century Dutch-Portuguese Rivalry in the Far East.” In Vasco da Gama and the Linking of Europe and Asia, ed. by Anthony Disney and Emily Booth, 387–402. New Delhi: Oxford Univ. Press, 2000.
 
-------. "A Byzantine Trading Venture." Scientific American 224.2
+———. Visible Cities: Canton, Nagasaki, and Batavia and the Coming of the Americans. Cambridge: Harvard Univ. Press, 2008.
 
-(1971): 23-33.
+Blussé, Leonard, and Felipe Fernández-Armesto, eds. Shifting Communities and Identity Formation in Early Modern Asia. Leiden: CNWS, 2003.
 
-------. Cape Gelidonya: A Bronze Age Shipwreck. Philadelphia:
+Blussé, Leonard, and Femme Gaastra, eds. On the Eighteenth Century as a Category of Asian History: Van Leur in Retrospect. Aldershot, UK: Ashgate, 1992.
 
-American Philosophical Society, 1967.
+Boardman, John. The Greeks Overseas: Their Early Colonies and Trade. 4th ed. London: Thames & Hudson, 1999.
 
-------. "Return to Cape Gelidonya." INA Newsletter 15 (1988): 2-5.
+Boccaccio, Giovanni. Decameron. Trans. G. H. McWilliam. Harmondsworth: Penguin, 1972.
 
-Bass, George F., and Frederick H. Van Doorninck, Jr. "An 11th-
+Bockstoce, John R. “From Davis Strait to Bering Strait: The Arrival of the Commercial Whaling Fleet in North America’s Western Arctic.” Arctic 37:4 (1984): 528–32.
 
-Century Shipwreck at Serçe Limani, Turkey." IJNA 7 (1978): 119-
+Bondioli, Mauro, René Burlet, and André Zysberg. “Oar Mechanics and Oar Power in Medieval and Later Galleys.” In The Age of the Galley, ed. by Gardiner and Morrison, 172–205.
 
-32.
+Bonsor, N. R. P. North Atlantic Seaway. 5 vols. Jersey: Brookside, 1980.
 
-------. "A Fourth-Century Shipwreck at Yassi Ada." American
+Boomgaard, Peter. Southeast Asia: An Environmental History. Santa Barbara: ABC-CLIO, 2006.
 
-Journal of Archaeology 75 (1971): 27-37.
+Bougainville, Louis-Antoine de. Pacific Journal of Louis-Antoine de Bougainville, 1767–68. Ed. by John Dunmore. London: Hakluyt, 2002.
 
-------. Yassi Ada. Vol. 1, A Seventh-Century Byzantine Shipwreck.
+Bourne, Edward Gaylord. “The Demarcation Line of Pope Alexander VI.” In Essays in Historical Criticism. 1901. Reprint, Freeport, NY: Books for Libraries Press, 1967.
 
-College Station, TX: IJNA, 1982.
+Boxer, C. R. The Dutch Seaborne Empire, 1600–1800. New York: Penguin, 1965.
 
-Bass, George F., et al. Cape Gelidonya: A Bronze Age Shipwreck.
+———. The Portuguese Seaborne Empire, 1415–1825. New York: Knopf, 1969.
 
-TAPA New Series 57:8, 1967.
+Bramoullé, David. “Recruiting Crews in the Fatimid Navy (909–1171).” Medieval Encounters 13 (2007): 4–31.
 
-------. Serçe Limani: An Eleventh-Century Shipwreck. Vol. 1, The
+Brand, Hanno. “Habsburg Diplomacy During the Holland-Wend War.” In Trade, Diplomacy and Cultural Exchange: Continuity and Change in the North Sea Area and the Baltic, c. 1350–1750, ed. by Hanno Brand, 113–35. Hilversum: Uitgeverij Verloren, 2006.
 
-Ship and Its Anchorage, Crew, and Passengers. College Station:
+Braudel, Fernand. Civilization and Capitalism, 15th–18th Century. Vol. 3, The Perspective of the World. New York: Harper & Row, 1985.
 
-Texas A&M Univ. Press, 2004.
+———. The Mediterranean in the Age of Philip II. 1949. Trans. Siân Reynolds. 2 vols. New York: Harper & Row, 1973.
 
-Bately, Janet. "Text and Translation." In Ohthere's Voyages, ed. by
-
-Bately and Englert, 40-50.
-
-Bately, Janet, and Anton Englert, eds. Ohthere's Voyages: A Late 9th-
-
-Century Account of Voyages Along the Coasts of Norway and
-
-Denmark and Its Cultural Context. Roskilde: Viking Ship Museum,
-
-2007.
-
-Bathurst, R. D. "Maritime Trade and Imamate Government: Two
-
-Principal Themes in the History of Oman." In The Arabian
-
-Peninsula: Society and Politics, ed. by Derek Hopwood, 89-106.
-
-London: George Allen & Unwin, 1972.
-
-Baugh, Daniel. The Global Seven Years War, 1754-1763: Britain and
-
-France in a Great Power Contest. London: Pearson, 2011.
-
-Beach, Edward L. Around the World Submerged. New York: Holt,
-
-1962.
-
-------. The United States Navy: 200 Years. New York: Holt, 1986.
-
-Beaglehole, J. C. The Exploration of the Pacific. 3rd ed. Stanford:
-
-Stanford Univ. Press, 1966.
-
-Bede. A History of the English Church and People. Trans. Leo
-
-Sherley-Price. New York: Penguin, 1968.
-
-Bellwood, Peter S. Prehistory of the Indo-Malaysian Archipelago.
-
-Honolulu: Univ. of Hawai'i Press, 1997.
-
-------. "Southeast Asia Before History." In The Cambridge History
-
-of Southeast Asia, ed. by Tarling, 1.1:55-136.
-
-Bellwood, Peter, and Judith Cameron. "Ancient Boats, Boat Timbers,
-
-and Locked Mortise-and-Tenon Joints from Bronze/Iron-Age
-
-Northern Vietnam." IJNA 36:1 (2007): 2-20.
-
-Benjamin, Daniel K., and Anca Tifrea. "Learning by Dying: Combat
-
-Performance in the Age of Sail." Journal of Economic History 67:4
-
-(2007): 968-1000.
-
-Benjamin of Tudela. The Itinerary of Benjamin of Tudela: Travels in
-
-the Middle Ages. Introduction by Michael A. Signer, M. N. Adler,
-
-and A. Asher. Malibu, CA: J. Simon, 1983.
-
-Benn, Charles. China's Golden Age: Everyday Life in the Tang
-
-Dynasty. New York: Oxford Univ. Press, 2002.
-
-Bergquist, Charles W. "The Paradox of American Development." In
-
-Labor and the Course of American Democracy: U.S. History in
-
-Latin American Perspective. New York: Verso, 1996.
-
-Berkowitz, David Sandler. John Selden's Formative Years: Politics
-
-and Society in Early Seventeenth-Century England. Washington:
-
-Folger Shakespeare Library, 1988.
-
-Berlow, Rosalind Kent. "The Sailing of the Saint Esprit." The Journal
-
-of Economic History 39:2 (1979): 345-62.
-
-Bernstein, Peter L. Wedding of the Waters: The Erie Canal and the
-
-Making of a Great Nation. New York: Norton, 2005.
-
-Bessason, Haraldur, Paul Edwards, and Hermann Pálsson. The Book of
-
-Settlements. Winnipeg: Univ. of Manitoba Press, 1972.
-
-Bielenstein, Hans. Diplomacy and Trade in the Chinese World, 589-
-
-1276. Leiden: Brill, 2005.
-
-Biggar, Henry Percival, compiler. A Collection of Documents Relating
-
-to Jacques Cartier and the Sieur de Roberval. Ottawa: Public
-
-Archives of Canada, 1930.
-
-Birnbaum, Henrik. Lord Novgorod the Great: Essays in the History
-
-and Culture of a Medieval City-State. Columbus: Slavica, 1981.
-
-Bittlestone, Robert, with James Diggle and John Underhill. Odysseus
-
-Unbound: The Search for Homer's Ithaca. Cambridge: Cambridge
-
-Univ. Press, 2005.
-
-Bjork, David K. "The Peace of Stralsund, 1370." Speculum 7 (1932):
-
-447-76.
-
-------. "Piracy in the Baltic, 1375-1398." Speculum 18:1 (1943): 39-
-
-68.
-
-Blackbourn, David. The Conquest of Nature: Water, Landscape, and
-
-the Making of Modern Germany. New York: Norton, 2006.
-
-Blench, Roger. "The Ethnographic Evidence for Long-Distance
-
-Contacts Between Oceania and East Africa." In The Indian Ocean in
-
-Antiquity, ed. by Reade, 417-38.
-
-Blussé, Leonard. "Brief Encounter at Macao." Modern Asian Studies
-
-22:3 (1988): 647-64.
-
-------. "Chinese Century: The Eighteenth Century in the China Sea
-
-Region." Archipel 58 (1999): 107-29.
-
-------. "Divesting a Myth: Seventeenth Century Dutch-Portuguese
-
-Rivalry in the Far East." In Vasco da Gama and the Linking of
-
-Europe and Asia, ed. by Anthony Disney and Emily Booth, 387-
-
-402. New Delhi: Oxford Univ. Press, 2000.
-
-------. Visible Cities: Canton, Nagasaki, and Batavia and the
-
-Coming of the Americans. Cambridge: Harvard Univ. Press, 2008.
-
-Blussé, Leonard, and Felipe Fernández-Armesto, eds. Shifting
-
-Communities and Identity Formation in Early Modern Asia. Leiden:
-
-CNWS, 2003.
-
-Blussé, Leonard, and Femme Gaastra, eds. On the Eighteenth Century
-
-as a Category of Asian History: Van Leur in Retrospect. Aldershot,
-
-UK: Ashgate, 1992.
-
-Boardman, John. The Greeks Overseas: Their Early Colonies and
-
-Trade. 4th ed. London: Thames & Hudson, 1999.
-
-Boccaccio, Giovanni. Decameron. Trans. G. H. McWilliam.
-
-Harmondsworth: Penguin, 1972.
-
-Bockstoce, John R. "From Davis Strait to Bering Strait: The Arrival of
-
-the Commercial Whaling Fleet in North America's Western Arctic."
-
-Arctic 37:4 (1984): 528-32.
-
-Bondioli, Mauro, René Burlet, and André Zysberg. "Oar Mechanics
-
-and Oar Power in Medieval and Later Galleys." In The Age of the
-
-Galley, ed. by Gardiner and Morrison, 172-205.
-
-Bonsor, N. R. P. North Atlantic Seaway. 5 vols. Jersey: Brookside,
-
-1980.
-
-Boomgaard, Peter. Southeast Asia: An Environmental History. Santa
-
-Barbara: ABC-CLIO, 2006.
-
-Bougainville, Louis-Antoine de. Pacific Journal of Louis-Antoine de
-
-Bougainville, 1767-68. Ed. by John Dunmore. London: Hakluyt,
-
-2002.
-
-Bourne, Edward Gaylord. "The Demarcation Line of Pope Alexander
-
-VI." In Essays in Historical Criticism. 1901. Reprint, Freeport, NY:
-
-Books for Libraries Press, 1967.
-
-Boxer, C. R. The Dutch Seaborne Empire, 1600-1800. New York:
-
-Penguin, 1965.
-
-------. The Portuguese Seaborne Empire, 1415-1825. New York:
-
-Knopf, 1969.
-
-Bramoullé, David. "Recruiting Crews in the Fatimid Navy (909-
-
-1171)." Medieval Encounters 13 (2007): 4-31.
-
-Brand, Hanno. "Habsburg Diplomacy During the Holland-Wend War."
-
-In Trade, Diplomacy and Cultural Exchange: Continuity and
-
-Change in the North Sea Area and the Baltic, c. 1350-1750, ed. by
-
-Hanno Brand, 113-35. Hilversum: Uitgeverij Verloren, 2006.
-
-Braudel, Fernand. Civilization and Capitalism, 15th-18th Century.
-
-Vol. 3, The Perspective of the World. New York: Harper & Row,
-
-1985.
-
-------. The Mediterranean in the Age of Philip II. 1949. Trans. Siân
-
-Reynolds. 2 vols. New York: Harper & Row, 1973.
-
-Breasted, James Henry. Ancient Records of Egypt: Historical
-
-Documents from the Earliest Times to the Persian Conquest. New
-
-York: Russell & Russell, 1962.
+Breasted, James Henry. Ancient Records of Egypt: Historical Documents from the Earliest Times to the Persian Conquest. New York: Russell & Russell, 1962.
 
 Brendel, Otto J. Etruscan Art. Harmondsworth: Penguin, 1978.
 
 Brett, Edwin. Notes on Yachts. London: Low, Son & Marston, 1869.
 
-Brett, Michael. The Rise of the Fatimids: The World of the
+Brett, Michael. The Rise of the Fatimids: The World of the Mediterranean and the Middle East in the Fourth Century of the Hijra, Tenth Century ce. Leiden: Brill, 2001.
 
-Mediterranean and the Middle East in the Fourth Century of the
+Brewer, John. Sinews of Power: War, Money, and the English State, 1688–1783. New York: Knopf, 1989.
 
-Hijra, Tenth Century ce. Leiden: Brill, 2001.
+Briggs, M. “Innovation and the Mid-Victorian Royal Navy: The Case of the Whitehead Torpedo.” Mariner’s Mirror 88 (2002): 447–55.
 
-Brewer, John. Sinews of Power: War, Money, and the English State,
+Brinnin, John Malcolm. The Sway of the Grand Saloon: A Social History of the North Atlantic. New York: Delacorte, 1971.
 
-1688-1783. New York: Knopf, 1989.
+Briscoe, John. “The Second Punic War.” In The Cambridge Ancient History. Vol. 8, Rome and the Mediterranean to 133 B.C., ed. by A. E. Astin et al., 44–88. 2nd ed. Cambridge: Cambridge Univ. Press, 1989.
 
-Briggs, M. "Innovation and the Mid-Victorian Royal Navy: The Case
+Brodie, Bernard. Sea Power in the Machine Age. Princeton: Princeton Univ. Press, 1941.
 
-of the Whitehead Torpedo." Mariner's Mirror 88 (2002): 447-55.
+Broeze, Frank. The Globalisation of the Oceans: Containerisation from the 1950s to the Present. St. John’s, NL: International Maritime Economic History Assoc., 2002.
 
-Brinnin, John Malcolm. The Sway of the Grand Saloon: A Social
+Brøgger, A. W., and Haakon Shetelig. The Viking Ships: Their Ancestry and Evolution. Trans. Katherine John. Los Angeles: Mogensen, 1953.
 
-History of the North Atlantic. New York: Delacorte, 1971.
+Brown, Alexander Crosby. Women and Children Last: The Loss of the Steamship Arctic. New York: Putnam, 1961.
 
-Briscoe, John. "The Second Punic War." In The Cambridge Ancient
+Brown, D. K. “Nemesis: The First Iron Warship.” Warship 2:8 (1978): 283–85.
 
-History. Vol. 8, Rome and the Mediterranean to 133 B.C., ed. by A.
+———. “The Paddle Frigate Guadeloupe.” Mariner’s Mirror 58 (1972): 221–22.
 
-E. Astin et al., 44-88. 2nd ed. Cambridge: Cambridge Univ. Press,
+Brown, David. Warship Losses of World War II. Rev. ed. Annapolis: Naval Institute, 1990.
 
-1989.
+Brown, Delmer M., ed. The Cambridge History of Japan. Vol. 1, Ancient Japan. Cambridge: Cambridge Univ. Press, 1993.
 
-Brodie, Bernard. Sea Power in the Machine Age. Princeton: Princeton
+———. “The Impact of Firearms on Japanese Warfare, 1543–98.” Far Eastern Quarterly 7:3 (1948): 236–53.
 
-Univ. Press, 1941.
+———. “The Yamato Kingdom.” In The Cambridge History of Japan, ed. by Brown, 1:108–62.
 
-Broeze, Frank. The Globalisation of the Oceans: Containerisation
+Browning, Robert. “The City and the Sea.” In The Greeks and the Sea, ed. by Speros Vryonis, 97–110. New Rochelle: Caratzas, 1993.
 
-from the 1950s to the Present. St. John's, NL: International
+Bruijn, Jaap R. The Dutch Navy of the Seventeenth and Eighteenth Centuries. Columbia: Univ. of South Carolina Press, 1993.
 
-Maritime Economic History Assoc., 2002.
+Brummett, Palimra. Ottoman Seapower and Levantine Diplomacy in the Age of Discovery. Albany: State Univ. Press of New York, 1994.
 
-Brøgger, A. W., and Haakon Shetelig. The Viking Ships: Their
+Brutzkus, J. “Trade with Eastern Europe, 800–1200.” Economic History Review 13:1/2 (1943): 31–41.
 
-Ancestry and Evolution. Trans. Katherine John. Los Angeles:
+Buchanan, J. Y., H. N. Mosley, J. Murray, and T. H. Tizard. The Report of the Scientific Results of the Exploring Voyage of the H.M.S. Challenger During the Years 1873–1876. Vol. 1, Narrative of the Voyage. London: 1885–95.
 
-Mogensen, 1953.
+Buck, Peter (Te Rangi Hiroa). The Coming of the Maori. Wellington: Whitcombe & Tombs, 1950.
 
-Brown, Alexander Crosby. Women and Children Last: The Loss of the
+Burckhardt, Carl J. Richelieu and His Age. 3 vols. New York: Harcourt Brace and World, 1940.
 
-Steamship Arctic. New York: Putnam, 1961.
+Burningham, Nick. “The Borobudur Ship—Design Outline.” www.borobudurshipexpedition.com/design-outline.htm (June 26, 2006).
 
-Brown, D. K. "Nemesis: The First Iron Warship." Warship 2:8 (1978):
+Bury, J. B. A History of the Eastern Roman Empire from the Fall of Irene to the Accession of Basil I. 1912. Reprint, New York: Russell & Russell, 1965.
 
-283-85.
+Butler, John A. Atlantic Kingdom: America’s Contest with Cunard in the Age of Sail and Steam. Dulles: Brassey’s, 2001.
 
-------. "The Paddle Frigate Guadeloupe." Mariner's Mirror 58
+———. Sailing on Friday: The Perilous Voyage of America’s Merchant Marine. Dulles: Brassey’s, 2000.
 
-(1972): 221-22.
+Buzurg ibn Shahriyar of Ramhormuz. The Book of the Wonders of India: Mainland, Sea and Islands. Trans. G. S. P. Freeman-Grenville. London: East-West, 1981.
 
-Brown, David. Warship Losses of World War II. Rev. ed. Annapolis:
+Byrne, Eugene H. “Commercial Contracts of the Genoese in the Syrian Trade of the Twelfth Century.” Quarterly Journal of Economics 31:1 (1916): 128–70.
 
-Naval Institute, 1990.
+Byron, John. Byron’s Journal of His Circumnavigation, 1764–1766. Ed. Robert E. Gallagher. Cambridge: Hakluyt, 1946.
 
-Brown, Delmer M., ed. The Cambridge History of Japan. Vol. 1,
+C.N.B. “Alexander on the Compass Needle.” Geographical Journal 104:1 (1944): 63–65.
 
-Ancient Japan. Cambridge: Cambridge Univ. Press, 1993.
+Caesar, Julius. The Conquest of Gaul. Trans. S. A. Handford. New York: Penguin, 1981.
 
-------. "The Impact of Firearms on Japanese Warfare, 1543-98." Far
+Calendar of the Patent Rolls Preserved in the Public Record Office. Henry IV. A.D. 1399–[1413]. London: HMSO, 1903–9.
 
-Eastern Quarterly 7:3 (1948): 236-53.
+Callaghan, Richard T. “Prehistoric Trade Between Ecuador and West Mexico: A Computer Simulation of Coastal Voyages.” Antiquity 77:298 (2003): 796–804.
 
-------. "The Yamato Kingdom." In The Cambridge History of Japan,
+Camoens, Luis Vaz de. The Lusiads. Trans. William C. Atkinson. 1952. Reprint, Harmondsworth: Penguin, 1973.
 
-ed. by Brown, 1:108-62.
+Campbell, Alistair, ed. Encomium Emmae Reginae. New York: Cambridge Univ. Press, 1998.
 
-Browning, Robert. "The City and the Sea." In The Greeks and the Sea,
+Campbell, Tony. “Portolan Charts from the Late Thirteenth Century to 1500.” In The History of Cartography. Vol. 1, Cartography in Prehistoric, Ancient, and Medieval Europe and the Mediterranean, ed. by J. B. Harley and David Woodward, 371–463. Chicago: Univ. of Chicago Press, 1987.
 
-ed. by Speros Vryonis, 97-110. New Rochelle: Caratzas, 1993.
+Capponi, Niccolo. Victory of the West: The Great Christian-Muslim Clash at the Battle of Lepanto. New York: Da Capo, 2007.
 
-Bruijn, Jaap R. The Dutch Navy of the Seventeenth and Eighteenth
+Carlisle, Rodney. Sovereignty for Sale: The Origins and Evolution of the Panamanian and Liberian Flags of Convenience. Annapolis: Naval Institute, 1981.
 
-Centuries. Columbia: Univ. of South Carolina Press, 1993.
+Carter, Hodding. Lower Mississippi. The Rivers of America. New York: Farrar & Rinehart, 1942.
 
-Brummett, Palimra. Ottoman Seapower and Levantine Diplomacy in
+Carter, Robert. “Boat-Related Finds.” In Maritime Interactions in the Arabian Neolithic: Evidence from H3, As-Sabiyah, an Ubaid-related Site in Kuwait, ed. by Robert Carter and Harriet Crawford, 89–104. Leiden: Brill, 2010.
 
-the Age of Discovery. Albany: State Univ. Press of New York, 1994.
+Carvajal, Gaspar de. The Discovery of the Amazon According to the Account of Friar Gaspar de Carvajal and Other Documents. Trans. Bertram T. Lee. New York: American Geographical Society, 1934.
 
-Brutzkus, J. "Trade with Eastern Europe, 800-1200." Economic
+Carver, M. O. H. “Pre-Viking Traffic in the North Sea.” In Maritime Celts, Frisians and Saxons, ed. by McGrail, 117–25.
 
-History Review 13:1/2 (1943): 31-41.
+Casale, Giancarlo. “The Ottoman Administration of the Spice Trade in the Sixteenth-Century Red Sea and Persian Gulf.” JESHO 49:2 (2006): 170–98.
 
-Buchanan, J. Y., H. N. Mosley, J. Murray, and T. H. Tizard. The Report
+———. The Ottoman Age of Exploration. New York: Oxford Univ. Press, 2010.
 
-of the Scientific Results of the Exploring Voyage of the H.M.S.
+Casparis, J. G. de. Selected Inscriptions from the 7th to the 9th Century A.D. Prasasti Indonesia 2. Bandung, Indonesia: Masa Baru, 1956.
 
-Challenger During the Years 1873-1876. Vol. 1, Narrative of the
+Casson, Lionel. The Ancient Mariners: Seafarers and Sea Fighters of the Mediterranean in Ancient Times. 2nd ed. Baltimore: Johns Hopkins Univ. Press, 1991.
 
-Voyage. London: 1885-95.
+———. Everyday Life in Ancient Egypt. Baltimore: Johns Hopkins Univ. Press, 2001.
 
-Buck, Peter (Te Rangi Hiroa). The Coming of the Maori. Wellington:
+———. “The Grain Trade of the Hellenistic World.” In Ancient Trade and Society, 70–95. Detroit: Wayne State Univ. Press, 1984.
 
-Whitcombe & Tombs, 1950.
+———. “The Isis and Her Voyage.” Transactions of the American Philological Association 81 (1950): 43–56.
 
-Burckhardt, Carl J. Richelieu and His Age. 3 vols. New York: Harcourt
+———. “Merchant Galleys.” In The Age of the Galley, ed. by Gardiner and Morrison, 117–26.
 
-Brace and World, 1940.
+———. “New Light on Maritime Loans: P. Vindob. G 19792 (=SB VI 9571).” In Studies in Roman Law in Memory of A. Arthur Schiller, ed. by Roger S. Bagnall, A. Arthur Schiller, and William Vernon Harris, 11–17. Leiden: Brill, 1986.
 
-Burningham, Nick. "The Borobudur Ship--Design Outline." www.borobudurshipexpedition.com/design-outline.htm (June 26,
+———, trans. The Periplus Maris Erythraei. Princeton: Princeton Univ. Press, 1989.
 
-2006).
+———. Ships and Seamanship in the Ancient World. Baltimore: Johns Hopkins Univ. Press, 1995.
 
-Bury, J. B. A History of the Eastern Roman Empire from the Fall of
+Castro, Filipe, N. Fonseca, T. Vacas, and F. Ciciliot. “A Quantitative Look at Mediterranean Lateen- and Square-Rigged Ships (Part 1).” IJNA 37:2 (2008): 347–59.
 
-Irene to the Accession of Basil I. 1912. Reprint, New York: Russell
+Cecil, Lamar J. R. “Coal for the Fleet That Had to Die.” American Historical Review 69:4 (1964): 990–1005.
 
-& Russell, 1965.
+Chakravarti, Ranabir. “Early Medieval Bengal and the Trade in Horses: A Note.” JESHO 42:2 (1999): 194–211.
 
-Butler, John A. Atlantic Kingdom: America's Contest with Cunard in
+———. “Nakhudas and Navittakas: Shipowning Merchants in the West Coast of India (c. ad 1000–1500).” JESHO 43:1 (2000): 35–64.
 
-the Age of Sail and Steam. Dulles: Brassey's, 2001.
+———. “Overseas Trade in Horses in Early Medieval India: Shipping and Piracy.” In Praci-prabha: Perspective in Indology, ed. by D. C. Bhattacharyya and Devendra Handa. New Delhi: Harman, 1989.
 
-------. Sailing on Friday: The Perilous Voyage of America's
+Chandra, Moti. Trade and Trade Routes in Ancient India. New Delhi: Abhinav, 1977.
 
-Merchant Marine. Dulles: Brassey's, 2000.
+Chang, Chun-shu, and Joan Smythe. South China in the Twelfth Century: A Translation of Lu Yu’s Travel Diaries, July 3–December 6, 1170. Hong Kong: Chinese Univ. Press, 1981.
 
-Buzurg ibn Shahriyar of Ramhormuz. The Book of the Wonders of
+Chang Pin-Tsun. “The Formation of a Maritime Convention in Minnan (Southern Fujian), c. 900–1200.” In From the Mediterranean to the China Sea: Miscellaneous Notes, ed. by Claude Guillot, Denys Lombard, and Roderich Ptak, 143–55. Wiesbaden: Harrassowitz, 1998.
 
-India: Mainland, Sea and Islands. Trans. G. S. P. FreemanGrenville. London: East-West, 1981.
+Chapelle, Howard I. “Arctic Skin Boats.” In The Bark Canoes and Skin Boats of North America, by Tappan Adney and Howard Chapelle, 174–211. Washington: Smithsonian, 1964.
 
-Byrne, Eugene H. "Commercial Contracts of the Genoese in the Syrian
+———. The History of American Sailing Ships. 1935. Reprint, New York: Bonanza, 1982.
 
-Trade of the Twelfth Century." Quarterly Journal of Economics
+Chaplin, Joyce E. The First Scientific American: Benjamin Franklin and the Pursuit of Genius. New York: Basic Books, 2006.
 
-31:1 (1916): 128-70.
+Chapman, Anne C. “Port of Trade Enclaves in Aztec and Maya Civilization.” In Trade and Market in the Early Empires: Economies in History and Theory, ed. by Karl Polanyi et al., 114–53. Glencoe, IL: Free Press, 1957.
 
-Byron, John. Byron's Journal of His Circumnavigation, 1764-1766.
+Charanis, Peter. “Piracy in the Aegean During the Reign of Michael VIII Palaeologus.” In Social, Economic and Political Life in the Byzantine Empire: Collected Studies, ed. by Peter Charanis. London: Variorum, 1973.
 
-Ed. Robert E. Gallagher. Cambridge: Hakluyt, 1946.
+Charlwood, D. E. The Long Farewell: The Perilous Voyages of Settlers Under Sail in the Great Migration to Australia. Victoria: Penguin, 1983.
 
-C.N.B. "Alexander on the Compass Needle." Geographical Journal
+Chau Ju-kua. Chau Ju-kua: His Work on the Chinese and Arab Trade in the Twelfth and Thirteenth Centuries Entitled Chu-fan-chi. Ed. by Friedrich Hirth and W. W. Rockhill. 1911. Reprint, Amsterdam: Oriental Press, 1966.
 
-104:1 (1944): 63-65.
+Chaucer, Geoffrey. Canterbury Tales. Trans. Nevill Coghill. New York: Penguin, 1975.
 
-Caesar, Julius. The Conquest of Gaul. Trans. S. A. Handford. New
+Chaudhuri, K. N. “Surat Revisited: A Tribute to Ashin Das Gupta.” JESHO 43:1 (2000): 18–22.
 
-York: Penguin, 1981.
+Chaudhuri, Mamata. “Ship-Building in the Yuktikalpataru and Samarangana Sutradara.” Indian Journal of History of Science 1:2 (1976): 137–47.
 
-Calendar of the Patent Rolls Preserved in the Public Record Office.
+Chelminski, Rudolph. Superwreck: Amoco Cadiz—The Shipwreck That Had to Happen. New York: Morrow, 1987.
 
-Henry IV. A.D. 1399-[1413]. London: HMSO, 1903-9.
+Chin, James K. “Ports, Merchants, Chieftains and Eunuchs: Reading Maritime Commerce of Early Guangdong.” In Guangdong: Archaeology and Early Texts, ed. by Shing Muller, Thomas O. Höllmann, and Putao Gui, 217–39. Wiesbaden: Harrassowitz, 2004.
 
-Callaghan, Richard T. "Prehistoric Trade Between Ecuador and West
+Chittick, Neville. “East African Trade with the Orient.” In Islam and the Trade of Asia, ed. by D. S. Richards, 97–104. Oxford: Bruno Cassirer, 1970.
 
-Mexico: A Computer Simulation of Coastal Voyages." Antiquity
+———. Kilwa: An Islamic Trading City on the East African Coast. Vol. 1, History and Archaeology. Nairobi: British Institute in Eastern Africa, 1974.
 
-77:298 (2003): 796-804.
+Choniates, Nicetas. O City of Byzantium: Annals of Nicetas Choniates. Trans. Harry J. Magoulias. Detroit: Wayne State Univ. Press, 1984.
 
-Camoens, Luis Vaz de. The Lusiads. Trans. William C. Atkinson.
+Chou Yi-liang, “Tantrism in China.” Harvard Journal of Asiatic Studies 8:3/4 (Mar. 1945): 241–332.
 
-1952. Reprint, Harmondsworth: Penguin, 1973.
+Christensen, Arne Emil. “Proto-Viking, Viking and Norse Craft.” In The Earliest Ships: The Evolution of Boats into Ships, ed. by Robert Gardiner and A. E. Christensen, 72–88. Annapolis: Naval Institute, 1996.
 
-Campbell, Alistair, ed. Encomium Emmae Reginae. New York:
+Christides, Vassilios. The Conquest of Crete by the Arabs (ca. 824): A Turning Point in the Struggle Between Byzantium and Islam. Athens: Akademia Athenon, 1984.
 
-Cambridge Univ. Press, 1998.
+———. “Fireproofing of War Machines, Ships and Garments.” In Sailing Ships of the Mediterranean Sea and the Arabian Gulf, ed. by Christos G. Makrypoulias, 1.11–17. Graeco-Arabica, Supplement 1. Athens: Kuwait F.A.S., 1998.
 
-Campbell, Tony. "Portolan Charts from the Late Thirteenth Century to
+———. “Milaha.” In Encyclopaedia of Islam, New Edition, ed. by C. E. Bosworth, E. van Dozel, W. P. Heindrichs, and Ch. Pellat, 7:40–76. Leiden: Brill, 1993.
 
-1500." In The History of Cartography. Vol. 1, Cartography in
+———. “Two Parallel Naval Guides of the Tenth Century: Qudama’s Document and Leo VI’s Naumachia: A Study on Byzantine and Moslem Naval Preparedness.” Graeco-Arabica 1 (1982): 51–103.
 
-Prehistoric, Ancient, and Medieval Europe and the Mediterranean,
+Christie, Jan Wisseman. “The Medieval Tamil-Language Inscriptions in Southeast Asia and China.” JSEAS 29:2 (1998): 239–68.
 
-ed. by J. B. Harley and David Woodward, 371-463. Chicago: Univ.
+Churchill, Winston. The Second World War. 6 vols. Boston: Houghton Mifflin, 1948.
 
-of Chicago Press, 1987.
+———. The World Crisis. 4 vols. New York: Scribner, 1923.
 
-Capponi, Niccolo. Victory of the West: The Great Christian-Muslim
+Cicero. Letters to Atticus. Trans. E. O. Winstedt (Vol. 1). New York: Macmillan, 1912.
 
-Clash at the Battle of Lepanto. New York: Da Capo, 2007.
+———. Pro Lege Manilia, etc. Trans. H. Grose Hodge (Vol. 9). Cambridge: Harvard Univ. Press, 1929.
 
-Carlisle, Rodney. Sovereignty for Sale: The Origins and Evolution of
+Citarella, Armand O. “The Relations of Amalfi with the Arab World Before the Crusades.” Speculum 42 (1967): 299–312.
 
-the Panamanian and Liberian Flags of Convenience. Annapolis:
+Clark, Hugh R. Community, Trade and Networks: Southern Fujian from the 3rd to the 13th Centuries. Cambridge: Cambridge Univ. Press, 1991.
 
-Naval Institute, 1981.
+———. “Frontier Discourse and China’s Maritime Frontier: China’s Frontiers and the Encounter with the Sea Through Early Imperial History.” Journal of World History 20:1 (2009): 1–33.
 
-Carter, Hodding. Lower Mississippi. The Rivers of America. New
-
-York: Farrar & Rinehart, 1942.
-
-Carter, Robert. "Boat-Related Finds." In Maritime Interactions in the
-
-Arabian Neolithic: Evidence from H3, As-Sabiyah, an Ubaid-related
-
-Site in Kuwait, ed. by Robert Carter and Harriet Crawford, 89-104.
-
-Leiden: Brill, 2010.
-
-Carvajal, Gaspar de. The Discovery of the Amazon According to the
-
-Account of Friar Gaspar de Carvajal and Other Documents. Trans.
-
-Bertram T. Lee. New York: American Geographical Society, 1934.
-
-Carver, M. O. H. "Pre-Viking Traffic in the North Sea." In Maritime
-
-Celts, Frisians and Saxons, ed. by McGrail, 117-25.
-
-Casale, Giancarlo. "The Ottoman Administration of the Spice Trade in
-
-the Sixteenth-Century Red Sea and Persian Gulf." JESHO 49:2
-
-(2006): 170-98.
-
-------. The Ottoman Age of Exploration. New York: Oxford Univ.
-
-Press, 2010.
-
-Casparis, J. G. de. Selected Inscriptions from the 7th to the 9th Century
-
-A.D. Prasasti Indonesia 2. Bandung, Indonesia: Masa Baru, 1956.
-
-Casson, Lionel. The Ancient Mariners: Seafarers and Sea Fighters of
-
-the Mediterranean in Ancient Times. 2nd ed. Baltimore: Johns
-
-Hopkins Univ. Press, 1991.
-
-------. Everyday Life in Ancient Egypt. Baltimore: Johns Hopkins
-
-Univ. Press, 2001.
-
-------. "The Grain Trade of the Hellenistic World." In Ancient Trade
-
-and Society, 70-95. Detroit: Wayne State Univ. Press, 1984.
-
-------. "The Isis and Her Voyage." Transactions of the American
-
-Philological Association 81 (1950): 43-56.
-
-------. "Merchant Galleys." In The Age of the Galley, ed. by Gardiner
-
-and Morrison, 117-26.
-
-------. "New Light on Maritime Loans: P. Vindob. G 19792 (=SB VI
-
-9571)." In Studies in Roman Law in Memory of A. Arthur Schiller,
-
-ed. by Roger S. Bagnall, A. Arthur Schiller, and William Vernon
-
-Harris, 11-17. Leiden: Brill, 1986.
-
-------, trans. The Periplus Maris Erythraei. Princeton: Princeton
-
-Univ. Press, 1989.
-
-------. Ships and Seamanship in the Ancient World. Baltimore: Johns
-
-Hopkins Univ. Press, 1995.
-
-Castro, Filipe, N. Fonseca, T. Vacas, and F. Ciciliot. "A Quantitative
-
-Look at Mediterranean Lateenand Square-Rigged Ships (Part 1)."
-
-IJNA 37:2 (2008): 347-59.
-
-Cecil, Lamar J. R. "Coal for the Fleet That Had to Die." American
-
-Historical Review 69:4 (1964): 990-1005.
-
-Chakravarti, Ranabir. "Early Medieval Bengal and the Trade in
-
-Horses: A Note." JESHO 42:2 (1999): 194-211.
-
-------. "Nakhudas and Navittakas: Shipowning Merchants in the
-
-West Coast of India (c. ad 1000-1500)." JESHO 43:1 (2000): 35-
-
-64.
-
-------. "Overseas Trade in Horses in Early Medieval India: Shipping
-
-and Piracy." In Praci-prabha: Perspective in Indology, ed. by D. C.
-
-Bhattacharyya and Devendra Handa. New Delhi: Harman, 1989.
-
-Chandra, Moti. Trade and Trade Routes in Ancient India. New Delhi:
-
-Abhinav, 1977.
-
-Chang, Chun-shu, and Joan Smythe. South China in the Twelfth
-
-Century: A Translation of Lu Yu's Travel Diaries, July 3-December
-
-6, 1170. Hong Kong: Chinese Univ. Press, 1981.
-
-Chang Pin-Tsun. "The Formation of a Maritime Convention in Minnan
-
-(Southern Fujian), c. 900-1200." In From the Mediterranean to the
-
-China Sea: Miscellaneous Notes, ed. by Claude Guillot, Denys
-
-Lombard, and Roderich Ptak, 143-55. Wiesbaden: Harrassowitz,
-
-1998.
-
-Chapelle, Howard I. "Arctic Skin Boats." In The Bark Canoes and
-
-Skin Boats of North America, by Tappan Adney and Howard
-
-Chapelle, 174-211. Washington: Smithsonian, 1964.
-
-------. The History of American Sailing Ships. 1935. Reprint, New
-
-York: Bonanza, 1982.
-
-Chaplin, Joyce E. The First Scientific American: Benjamin Franklin
-
-and the Pursuit of Genius. New York: Basic Books, 2006.
-
-Chapman, Anne C. "Port of Trade Enclaves in Aztec and Maya
-
-Civilization." In Trade and Market in the Early Empires: Economies
-
-in History and Theory, ed. by Karl Polanyi et al., 114-53. Glencoe,
-
-IL: Free Press, 1957.
-
-Charanis, Peter. "Piracy in the Aegean During the Reign of Michael
-
-VIII Palaeologus." In Social, Economic and Political Life in the
-
-Byzantine Empire: Collected Studies, ed. by Peter Charanis.
-
-London: Variorum, 1973.
-
-Charlwood, D. E. The Long Farewell: The Perilous Voyages of Settlers
-
-Under Sail in the Great Migration to Australia. Victoria: Penguin,
-
-1983.
-
-Chau Ju-kua. Chau Ju-kua: His Work on the Chinese and Arab Trade
-
-in the Twelfth and Thirteenth Centuries Entitled Chu-fan-chi. Ed. by
-
-Friedrich Hirth and W. W. Rockhill. 1911. Reprint, Amsterdam:
-
-Oriental Press, 1966.
-
-Chaucer, Geoffrey. Canterbury Tales. Trans. Nevill Coghill. New
-
-York: Penguin, 1975.
-
-Chaudhuri, K. N. "Surat Revisited: A Tribute to Ashin Das Gupta."
-
-JESHO 43:1 (2000): 18-22.
-
-Chaudhuri, Mamata. "Ship-Building in the Yuktikalpataru and
-
-Samarangana Sutradara." Indian Journal of History of Science 1:2
-
-(1976): 137-47.
-
-Chelminski, Rudolph. Superwreck: Amoco Cadiz--The Shipwreck
-
-That Had to Happen. New York: Morrow, 1987.
-
-Chin, James K. "Ports, Merchants, Chieftains and Eunuchs: Reading
-
-Maritime Commerce of Early Guangdong." In Guangdong:
-
-Archaeology and Early Texts, ed. by Shing Muller, Thomas O.
-
-Höllmann, and Putao Gui, 217-39. Wiesbaden: Harrassowitz, 2004.
-
-Chittick, Neville. "East African Trade with the Orient." In Islam and
-
-the Trade of Asia, ed. by D. S. Richards, 97-104. Oxford: Bruno
-
-Cassirer, 1970.
-
-------. Kilwa: An Islamic Trading City on the East African Coast.
-
-Vol. 1, History and Archaeology. Nairobi: British Institute in Eastern
-
-Africa, 1974.
-
-Choniates, Nicetas. O City of Byzantium: Annals of Nicetas Choniates.
-
-Trans. Harry J. Magoulias. Detroit: Wayne State Univ. Press, 1984.
-
-Chou Yi-liang, "Tantrism in China." Harvard Journal of Asiatic
-
-Studies 8:3/4 (Mar. 1945): 241-332.
-
-Christensen, Arne Emil. "Proto-Viking, Viking and Norse Craft." In
-
-The Earliest Ships: The Evolution of Boats into Ships, ed. by Robert
-
-Gardiner and A. E. Christensen, 72-88. Annapolis: Naval Institute,
-
-1996.
-
-Christides, Vassilios. The Conquest of Crete by the Arabs (ca. 824): A
-
-Turning Point in the Struggle Between Byzantium and Islam.
-
-Athens: Akademia Athenon, 1984.
-
-------. "Fireproofing of War Machines, Ships and Garments." In
-
-Sailing Ships of the Mediterranean Sea and the Arabian Gulf, ed. by
-
-Christos G. Makrypoulias, 1.11-17. Graeco-Arabica, Supplement 1.
-
-Athens: Kuwait F.A.S., 1998.
-
-------. "Milaha." In Encyclopaedia of Islam, New Edition, ed. by C.
-
-E. Bosworth, E. van Dozel, W. P. Heindrichs, and Ch. Pellat, 7:40-
-
-76. Leiden: Brill, 1993.
-
-------. "Two Parallel Naval Guides of the Tenth Century: Qudama's
-
-Document and Leo VI's Naumachia: A Study on Byzantine and
-
-Moslem Naval Preparedness." Graeco-Arabica 1 (1982): 51-103.
-
-Christie, Jan Wisseman. "The Medieval Tamil-Language Inscriptions
-
-in Southeast Asia and China." JSEAS 29:2 (1998): 239-68.
-
-Churchill, Winston. The Second World War. 6 vols. Boston: Houghton
-
-Mifflin, 1948.
-
-------. The World Crisis. 4 vols. New York: Scribner, 1923.
-
-Cicero. Letters to Atticus. Trans. E. O. Winstedt (Vol. 1). New York:
-
-Macmillan, 1912.
-
-------. Pro Lege Manilia, etc. Trans. H. Grose Hodge (Vol. 9).
-
-Cambridge: Harvard Univ. Press, 1929.
-
-Citarella, Armand O. "The Relations of Amalfi with the Arab World
-
-Before the Crusades." Speculum 42 (1967): 299-312.
-
-Clark, Hugh R. Community, Trade and Networks: Southern Fujian
-
-from the 3rd to the 13th Centuries. Cambridge: Cambridge Univ.
-
-Press, 1991.
-
-------. "Frontier Discourse and China's Maritime Frontier: China's
-
-Frontiers and the Encounter with the Sea Through Early Imperial
-
-History." Journal of World History 20:1 (2009): 1-33.
-
-------. "Muslims and Hindus in the Culture and Morphology of
-
-Quanzhou from the Tenth to the Thirteenth Century." Journal of
-
-World History 6:1 (1995) 49-74.
+———. “Muslims and Hindus in the Culture and Morphology of Quanzhou from the Tenth to the Thirteenth Century.” Journal of World History 6:1 (1995) 49–74.
 
 Clarke, Arthur C. Voice Across the Sea. New York: Harper, 1958.
 
-Cleuziou, Serge, and Maurizio Tosi. "Black Boats of Magan: Some
+Cleuziou, Serge, and Maurizio Tosi. “Black Boats of Magan: Some Thoughts on Bronze Age Water Transport in Oman and Beyond from the Impressed Bitumen Slabs of Ra’s al-Junayz.” In South Asian Archaeology 1993, ed. by A. Parpola and P. Koskikallio, 745–61. Helsinki: AASF Ser. B 271, 1993.
 
-Thoughts on Bronze Age Water Transport in Oman and Beyond
+Coe, Michael D. “Archaeological Linkages with North and South America at La Victoria, Guatemala.” American Anthropologist, n.s., 62 (1960): 363–93.
 
-from the Impressed Bitumen Slabs of Ra's al-Junayz." In South
+Coke, Edward, Sir. The Third Part of the Institutes of the Laws of England: Concerning High Treason, and Other Pleas of the Crown. London, 1797. Eighteenth Century Collections Online, Gale Group.
 
-Asian Archaeology 1993, ed. by A. Parpola and P. Koskikallio, 745-
+Coleman, Terry. The Nelson Touch: The Life and Legend of Horatio Nelson. New York: Oxford Univ. Press, 2002.
 
-61. Helsinki: AASF Ser. B 271, 1993.
+Colón, Fernando. The Life of the Admiral Christopher Columbus by His Son Ferdinand. Trans. Benjamin Keen. New Brunswick: Rutgers Univ. Press, 1959.
 
-Coe, Michael D. "Archaeological Linkages with North and South
+Compton-Hall, Richard. Submarine Boats: The Beginnings of Underwater Warfare. London: Conway Maritime, 1983.
 
-America at La Victoria, Guatemala." American Anthropologist, n.s.,
+Confucius. The Analects of Confucius (Lun Yu). Trans. Chichuang Huang. New York: Oxford Univ. Press, 1999.
 
-62 (1960): 363-93.
+Conlan, Thomas D., trans. In Little Need of Divine Intervention: Takezaki Suenaga’s Scrolls of the Mongol Invasions of Japan. Ithaca: Cornell East Asia Series, 2001.
 
-Coke, Edward, Sir. The Third Part of the Institutes of the Laws of
+Constable, Olivia Remie. “The Problem of Jettison in Medieval Mediterranean Maritime Law.” Journal of Medieval History 20 (1994): 207–20.
 
-England: Concerning High Treason, and Other Pleas of the Crown.
+———. Trade and Traders in Muslim Spain: The Commercial Realignment of the Iberian Peninsula, 900–1500. Cambridge: Cambridge Univ. Press, 1994.
 
-London, 1797. Eighteenth Century Collections Online, Gale Group.
+Constantine VII Porphyrogenitus. De administrando imperio. Trans. R. J. H. Jenkins. Washington: Dumbarton Oaks Center for Byzantine Studies, 1985.
 
-Coleman, Terry. The Nelson Touch: The Life and Legend of Horatio
+Cook, James. The Journals of Captain James Cook on His Voyages of Discovery, ed. by J. C. Beaglehole and R. A. Skelton. 4 vols. Cambridge: Hakluyt, 1955–74.
 
-Nelson. New York: Oxford Univ. Press, 2002.
+Cook, Noble David. Born to Die: Disease and New World Conquest, 1492–1650. Cambridge: Cambridge Univ. Press, 1998.
 
-Colón, Fernando. The Life of the Admiral Christopher Columbus by
+Corbett, Julian S. The Successors of Drake. London: Longmans, Green, 1916.
 
-His Son Ferdinand. Trans. Benjamin Keen. New Brunswick:
+Cosentino, Salvatore. “Constans II and the Byzantine Navy.” Byzantinische Zeitschrift 100:2 (2007): 577–603.
 
-Rutgers Univ. Press, 1959.
+Cosmas Indicopleustes. The Christian Topography of Cosmas, an Egyptian Monk. Trans. J. W. McCrindle. London: Hakluyt, 1897.
 
-Compton-Hall, Richard. Submarine Boats: The Beginnings of
+Cowan, Edward. Oil and Water: The Torrey Canyon Disaster. Philadelphia: Lippincott, 1968.
 
-Underwater Warfare. London: Conway Maritime, 1983.
+Cowdrey, H. E. J. “The Mahdia Campaign of 1087.” English Historical Review 92 (1977): 1–29.
 
-Confucius. The Analects of Confucius (Lun Yu). Trans. Chichuang
+Cowell, Edward B., trans. The Jataka; or, Stories of the Buddha’s Former Births. 1895–1907. Reprint, London: Routledge & Kegan Paul, 1973.
 
-Huang. New York: Oxford Univ. Press, 1999.
+Craig, Gordon A. Germany, 1866–1945. New York: Oxford Univ. Press, 1978.
 
-Conlan, Thomas D., trans. In Little Need of Divine Intervention:
+Crespigny, Rafe de. Generals of the South: The Foundation and Early History of the Three Kingdoms State of Wu. Canberra: Australian National Univ., Faculty of Asian Studies, 1990.
 
-Takezaki Suenaga's Scrolls of the Mongol Invasions of Japan.
+Cressy, David. “The Vast and Furious Ocean: The Passage to Puritan New England.” New England Quarterly 57:4 (1984): 511–32.
 
-Ithaca: Cornell East Asia Series, 2001.
+Crone, G. R., trans. The Voyages of Cadamosto and Other Documents on Western Africa in the Second Half of the Fifteenth Century. London: Hakluyt, 1937.
 
-Constable, Olivia Remie. "The Problem of Jettison in Medieval
+Crone, Patricia. Meccan Trade and the Rise of Islam. Princeton: Princeton Univ. Press, 1987.
 
-Mediterranean Maritime Law." Journal of Medieval History 20
+Cross, Samuel Hazzard, and Olgerd P. Sherbowitz-Wetzor, trans. Russian Primary Chronicle: Laurentian Text. Cambridge: Mediaeval Academy of America, 1953.
 
-(1994): 207-20.
+Cruise Baltic. Cruise Baltic Status Report. 2007. http://www.cruisebaltic.com/media(636,1033)/Cruise_Baltic_status_ report_Jan_07.pdf.
 
-------. Trade and Traders in Muslim Spain: The Commercial
+Crumlin-Pedersen, Ole. “Boats and Ships of the Baltic Sea in the 9th and 10th Centuries: The Archaeological and Iconographic Evidence.” In Wulfstan’s Voyage, ed. by Englert and Trakadas, 235–56.
 
-Realignment of the Iberian Peninsula, 900-1500. Cambridge:
+———. “The Skuldelev Ships.” Acta Archaeologica 38 (1967): 73–174.
 
-Cambridge Univ. Press, 1994.
+Culavamsa: Being the More Recent Part of the Mahavamsa. Trans. C. Mabel Rickmers. London: Pali Text Society, 1973.
 
-Constantine VII Porphyrogenitus. De administrando imperio. Trans.
+Cunliffe, Barry W. The Extraordinary Voyage of Pytheas the Greek. New York: Walker, 2002.
 
-R. J. H. Jenkins. Washington: Dumbarton Oaks Center for
-
-Byzantine Studies, 1985.
-
-Cook, James. The Journals of Captain James Cook on His Voyages of
-
-Discovery, ed. by J. C. Beaglehole and R. A. Skelton. 4 vols.
-
-Cambridge: Hakluyt, 1955-74.
-
-Cook, Noble David. Born to Die: Disease and New World Conquest,
-
-1492-1650. Cambridge: Cambridge Univ. Press, 1998.
-
-Corbett, Julian S. The Successors of Drake. London: Longmans,
-
-Green, 1916.
-
-Cosentino, Salvatore. "Constans II and the Byzantine Navy."
-
-Byzantinische Zeitschrift 100:2 (2007): 577-603.
-
-Cosmas Indicopleustes. The Christian Topography of Cosmas, an
-
-Egyptian Monk. Trans. J. W. McCrindle. London: Hakluyt, 1897.
-
-Cowan, Edward. Oil and Water: The Torrey Canyon Disaster.
-
-Philadelphia: Lippincott, 1968.
-
-Cowdrey, H. E. J. "The Mahdia Campaign of 1087." English
-
-Historical Review 92 (1977): 1-29.
-
-Cowell, Edward B., trans. The Jataka; or, Stories of the Buddha's
-
-Former Births. 1895-1907. Reprint, London: Routledge & Kegan
-
-Paul, 1973.
-
-Craig, Gordon A. Germany, 1866-1945. New York: Oxford Univ.
-
-Press, 1978.
-
-Crespigny, Rafe de. Generals of the South: The Foundation and Early
-
-History of the Three Kingdoms State of Wu. Canberra: Australian
-
-National Univ., Faculty of Asian Studies, 1990.
-
-Cressy, David. "The Vast and Furious Ocean: The Passage to Puritan
-
-New England." New England Quarterly 57:4 (1984): 511-32.
-
-Crone, G. R., trans. The Voyages of Cadamosto and Other Documents
-
-on Western Africa in the Second Half of the Fifteenth Century.
-
-London: Hakluyt, 1937.
-
-Crone, Patricia. Meccan Trade and the Rise of Islam. Princeton:
-
-Princeton Univ. Press, 1987.
-
-Cross, Samuel Hazzard, and Olgerd P. Sherbowitz-Wetzor, trans.
-
-Russian Primary Chronicle: Laurentian Text. Cambridge: Mediaeval
-
-Academy of America, 1953.
-
-Cruise Baltic. Cruise Baltic Status Report. 2007. http://www.cruisebaltic.com/media(636,1033)/Cruise_Baltic_status_
-
-report_Jan_07.pdf.
-
-Crumlin-Pedersen, Ole. "Boats and Ships of the Baltic Sea in the 9th
-
-and 10th Centuries: The Archaeological and Iconographic
-
-Evidence." In Wulfstan's Voyage, ed. by Englert and Trakadas, 235-
-
-56.
-
-------. "The Skuldelev Ships." Acta Archaeologica 38 (1967): 73-
-
-174.
-
-Culavamsa: Being the More Recent Part of the Mahavamsa. Trans. C.
-
-Mabel Rickmers. London: Pali Text Society, 1973.
-
-Cunliffe, Barry W. The Extraordinary Voyage of Pytheas the Greek.
-
-New York: Walker, 2002.
-
-------. Facing the Ocean: The Atlantic and Its People 8000 bc-ad
-
-1500. New York: Oxford Univ. Press, 2001.
+———. Facing the Ocean: The Atlantic and Its People 8000 bc–ad 1500. New York: Oxford Univ. Press, 2001.
 
 Cust, Richard. Charles I: A Political Life. New York: Pearson/Longman, 2005.
 
-Dalby, Michael T. "Court Politics in Late T'ang Times." In The
+Dalby, Michael T. “Court Politics in Late T’ang Times.” In The Cambridge History of China. Vol. 3, Sui and T’ang China, 589–906, ed. by Denis Twitchett, 561–681. Cambridge: Cambridge Univ. Press, 1979.
 
-Cambridge History of China. Vol. 3, Sui and T'ang China, 589-906,
+Dalley, Stephanie, trans. Myths from Mesopotamia: Creation, the Flood, Gilgamesh, and Others. Oxford: Oxford Univ. Press, 1989.
 
-ed. by Denis Twitchett, 561-681. Cambridge: Cambridge Univ.
+Dalzell, George W. Flight from the Flag: The Continuing Effect of the Civil War upon the American Carrying Trade. Chapel Hill: Univ. of North Carolina Press, 1940.
 
-Press, 1979.
+Dante Alighieri. The Divine Comedy of Dante Alighieri. Vol. 1, Inferno. Trans. Robert M. Durling. New York: Oxford University Press, 1996.
 
-Dalley, Stephanie, trans. Myths from Mesopotamia: Creation, the
+D’Arms, John H. Romans on the Bay of Naples: A Social and Cultural Study of the Villas and Their Owners from 150 B.C. to A.D. 400. Cambridge: Harvard Univ. Press, 1970.
 
-Flood, Gilgamesh, and Others. Oxford: Oxford Univ. Press, 1989.
+Das Gupta, Ashin. Indian Merchants and the Decline of Surat: c. 1700–1750. New Delhi: Manohar, 1994.
 
-Dalzell, George W. Flight from the Flag: The Continuing Effect of the
+———. “The Maritime Merchant of India, c. 1500–1800.” In The World of the Indian Ocean Merchant, 1500–1800: Collected Essays of Ashin Das Gupta, 88–101. Compiled by Uma Das Gupta. New Delhi: Oxford Univ. Press, 2001.
 
-Civil War upon the American Carrying Trade. Chapel Hill: Univ. of
+Davenport, Frances Gardiner, ed. European Treaties Bearing on the History of the United States and Its Dependencies to 1648. Washington: Carnegie Institution of Washington, 1917.
 
-North Carolina Press, 1940.
+David, Charles Wendell, trans. The Conquest of Lisbon. 1936. Reprint, New York: Columbia University Press, 2001.
 
-Dante Alighieri. The Divine Comedy of Dante Alighieri. Vol. 1,
+Davis, David Brion. Slavery and Human Progress. New York: Oxford University Press, 1984.
 
-Inferno. Trans. Robert M. Durling. New York: Oxford University
+Davis, Lance Edwin, and Stanley L. Engerman. Naval Blockades in Peace and War: An Economic History Since 1750. Cambridge: Cambridge Univ. Press, 2006.
 
-Press, 1996.
+Davis, Ralph. The Rise of the English Shipping Industry in the Seventeenth and Eighteenth Centuries. London: Macmillan, 1962.
 
-D'Arms, John H. Romans on the Bay of Naples: A Social and Cultural
+De Paor, Máire. Patrick, the Pilgrim Apostle of Ireland. New York: Regan, 2002.
 
-Study of the Villas and Their Owners from 150 B.C. to A.D. 400.
+De Vries, Kelly. The Norwegian Invasion of England in 1066. Woodbridge, UK: Boydell, 1999.
 
-Cambridge: Harvard Univ. Press, 1970.
+De Witte, Hubert. “The Maritime Topography of Medieval Bruges.” In Maritime Topography and the Medieval Town: Papers from the 5th International Conference on Waterfront Archaeology in Copenhagen, 14–16 May 1998, ed. by Jan Bill and Berthe L. Clausen. Copenhagen: Nationalmuseet, 1999.
 
-Das Gupta, Ashin. Indian Merchants and the Decline of Surat: c.
+Declaration Concerning the Laws of Naval War, 208 Consol. T.S. 338 (1909). Univ. of Minnesota, Human Rights Library Online. http://www1.umn.edu/humanrts/instree/1909b.htm.
 
-1700-1750. New Delhi: Manohar, 1994.
+Deloche, Jean. “Geographical Considerations in the Localization of Ancient Sea-Ports of India.” In Trade in Early India, ed. by Ranabir Chakravarti, 312–25. New Delhi: Oxford Univ. Press, 2001.
 
-------. "The Maritime Merchant of India, c. 1500-1800." In The
+———. “Iconographic Evidence on the Development of Boat and Ship Structures in India (2nd C. B.C.–15th C. A.D.)” In Tradition and Archaeology: Early Maritime Contacts in the Indian Ocean, ed. by Himanshu Prabha Ray and Jean-François Salles, 199–224. New Delhi: Manohar, 1999.
 
-World of the Indian Ocean Merchant, 1500-1800: Collected Essays
+Demosthenes. Against Meidias, Etc. Trans. J. H. Vince. Cambridge: Harvard Univ. Press, 1935.
 
-of Ashin Das Gupta, 88-101. Compiled by Uma Das Gupta. New
+Deng, Gang. Chinese Maritime Activities and Socioeconomic Development, c. 2100 b.c.–1900 A.D. Westport: Greenwood, 1997.
 
-Delhi: Oxford Univ. Press, 2001.
+———. Maritime Sector, Institutions, and Sea Power of Premodern China. Westport: Greenwood, 1999.
 
-Davenport, Frances Gardiner, ed. European Treaties Bearing on the
+Dennis, Andrew, Peter Foote, and Richard Perkins, trans. Laws of Early Iceland—Grágás: The Codex Regius of Grágás with Material from Other Manuscripts. Winnipeg: Univ. of Manitoba Press, 1980.
 
-History of the United States and Its Dependencies to 1648.
+Desloges, Yvon, and Alain Gelly. The Lachine Canal: Riding the Waves of Industrial and Urban Development, 1860–1950. Sillery: Septentrion, 2002.
 
-Washington: Carnegie Institution of Washington, 1917.
+DeVoto, Bernard, ed. The Journals of Lewis and Clark. Boston: Houghton Mifflin, 1997.
 
-David, Charles Wendell, trans. The Conquest of Lisbon. 1936. Reprint,
+Di Meglio, R. R. “Arab Trade with Indonesia and the Malay Peninsula from the 8th to the 16th Century.” In Islam and the Trade of Asia, ed. by D. S. Richards, 105–36. Oxford: Bruno Cassirer, 1970.
 
-New York: Columbia University Press, 2001.
+Dickens, Charles. The Letters of Charles Dickens. Ed. by Madeline House and Graham Storey. Oxford: Clarendon Press, 1965.
 
-Davis, David Brion. Slavery and Human Progress. New York: Oxford
+Diffie, Bailey W., and George D. Winius. Foundations of the Portuguese Empire, 1415–1580. Oxford: Oxford Univ. Press, 1977.
 
-University Press, 1984.
+Dimitrova, Desislava Nikolaeva. Seafarers’ Rights in the Globalized Maritime Industry. Alphen aan den Rijn: Kluwer Law International, 2010.
 
-Davis, Lance Edwin, and Stanley L. Engerman. Naval Blockades in
+Dio Chrysostom. Discourses. 5 vols. Cambridge: Harvard Univ. Press, 1932–51.
 
-Peace and War: An Economic History Since 1750. Cambridge:
+Diodorus Siculus. Library of History. Trans. C. H. Oldfather. 12 vols. Cambridge: Harvard Univ. Press, 1933–67.
 
-Cambridge Univ. Press, 2006.
+Dollinger, Philippe. The German Hansa. Trans. D. S. Ault and S. H. Steinberg. Stanford: Stanford Univ. Press, 1970.
 
-Davis, Ralph. The Rise of the English Shipping Industry in the
+Domingues, Francisco Contente. “The State of Portuguese Naval Forces in the Sixteenth Century.” In War at Sea in the Middle Ages and Renaissance, ed. by John B. Hattendorf and Richard W. Unger, 187–98. Rochester, NY: Boydell, 2003.
 
-Seventeenth and Eighteenth Centuries. London: Macmillan, 1962.
+Donnellan, Philip. The Shoals of Herring. Adapted by Philip Donnellan from the radio ballad “Singing the Fishing,” by Ewan McColl, Peggy Seeger, and Charles Parker. Birmingham: BBC Colour, 1972.
 
-De Paor, Máire. Patrick, the Pilgrim Apostle of Ireland. New York:
-
-Regan, 2002.
-
-De Vries, Kelly. The Norwegian Invasion of England in 1066.
-
-Woodbridge, UK: Boydell, 1999.
-
-De Witte, Hubert. "The Maritime Topography of Medieval Bruges." In
-
-Maritime Topography and the Medieval Town: Papers from the 5th International Conference on Waterfront Archaeology in Copenhagen, 14-16 May 1998, ed. by Jan Bill and Berthe L.
-
-Clausen. Copenhagen: Nationalmuseet, 1999.
-
-Declaration Concerning the Laws of Naval War, 208 Consol. T.S. 338
-
-(1909). Univ. of Minnesota, Human Rights Library Online.
-
-http://www1.umn.edu/humanrts/instree/1909b.htm.
-
-Deloche, Jean. "Geographical Considerations in the Localization of
-
-Ancient Sea-Ports of India." In Trade in Early India, ed. by Ranabir
-
-Chakravarti, 312-25. New Delhi: Oxford Univ. Press, 2001.
-
-------. "Iconographic Evidence on the Development of Boat and
-
-Ship Structures in India (2nd C. B.C.-15th C. A.D.)" In Tradition and
-
-Archaeology: Early Maritime Contacts in the Indian Ocean, ed. by
-
-Himanshu Prabha Ray and Jean-François Salles, 199-224. New
-
-Delhi: Manohar, 1999.
-
-Demosthenes. Against Meidias, Etc. Trans. J. H. Vince. Cambridge:
-
-Harvard Univ. Press, 1935.
-
-Deng, Gang. Chinese Maritime Activities and Socioeconomic
-
-Development, c. 2100 b.c.-1900 A.D. Westport: Greenwood, 1997.
-
-------. Maritime Sector, Institutions, and Sea Power of Premodern
-
-China. Westport: Greenwood, 1999.
-
-Dennis, Andrew, Peter Foote, and Richard Perkins, trans. Laws of
-
-Early Iceland--Grágás: The Codex Regius of Grágás with Material
-
-from Other Manuscripts. Winnipeg: Univ. of Manitoba Press, 1980.
-
-Desloges, Yvon, and Alain Gelly. The Lachine Canal: Riding the
-
-Waves of Industrial and Urban Development, 1860-1950. Sillery:
-
-Septentrion, 2002.
-
-DeVoto, Bernard, ed. The Journals of Lewis and Clark. Boston:
-
-Houghton Mifflin, 1997.
-
-Di Meglio, R. R. "Arab Trade with Indonesia and the Malay Peninsula
-
-from the 8th to the 16th Century." In Islam and the Trade of Asia,
-
-ed. by D. S. Richards, 105-36. Oxford: Bruno Cassirer, 1970.
-
-Dickens, Charles. The Letters of Charles Dickens. Ed. by Madeline
-
-House and Graham Storey. Oxford: Clarendon Press, 1965.
-
-Diffie, Bailey W., and George D. Winius. Foundations of the
-
-Portuguese Empire, 1415-1580. Oxford: Oxford Univ. Press, 1977.
-
-Dimitrova, Desislava Nikolaeva. Seafarers' Rights in the Globalized
-
-Maritime Industry. Alphen aan den Rijn: Kluwer Law International,
-
-2010.
-
-Dio Chrysostom. Discourses. 5 vols. Cambridge: Harvard Univ. Press,
-
-1932-51.
-
-Diodorus Siculus. Library of History. Trans. C. H. Oldfather. 12 vols.
-
-Cambridge: Harvard Univ. Press, 1933-67.
-
-Dollinger, Philippe. The German Hansa. Trans. D. S. Ault and S. H.
-
-Steinberg. Stanford: Stanford Univ. Press, 1970.
-
-Domingues, Francisco Contente. "The State of Portuguese Naval
-
-Forces in the Sixteenth Century." In War at Sea in the Middle Ages
-
-and Renaissance, ed. by John B. Hattendorf and Richard W. Unger,
-
-187-98. Rochester, NY: Boydell, 2003.
-
-Donnellan, Philip. The Shoals of Herring. Adapted by Philip
-
-Donnellan from the radio ballad "Singing the Fishing," by Ewan
-
-McColl, Peggy Seeger, and Charles Parker. Birmingham: BBC
-
-Colour, 1972.
-
-Dotson, John E. "Fleet Operations in the First Genoese-Venetian War,
-
-1264-1266." Viator 30 (1999): 165-80.
+Dotson, John E. “Fleet Operations in the First Genoese-Venetian War, 1264–1266.” Viator 30 (1999): 165–80.
 
 Douglass, Frederick. The New National Era, Aug. 17, 1871.
 
 Doumas, Christos. Wall-Paintings of Thera. Athens: Thera Foundation, 1992.
 
-Drake, Francis, and Francis Fletcher. The World Encompassed. 1628.
+Drake, Francis, and Francis Fletcher. The World Encompassed. 1628. Reprint, Ann Arbor: University Microfilms, 1966.
 
-Reprint, Ann Arbor: University Microfilms, 1966.
+Dreyer, Edward L. Zheng He: China and the Oceans in the Early Ming, 1405–1433. New York: Pearson-Longman, 2007.
 
-Dreyer, Edward L. Zheng He: China and the Oceans in the Early
-
-Ming, 1405-1433. New York: Pearson-Longman, 2007.
-
-Duffy, John. "The Passage to the Colonies." Mississippi Valley
-
-Historical Review 38:1 (1951): 21-38.
+Duffy, John. “The Passage to the Colonies.” Mississippi Valley Historical Review 38:1 (1951): 21–38.
 
 Dugan, James. The Great Iron Ship. New York: Harper, 1953.
 
-Duncan-Jones, Richard. Economy of the Roman Empire. Cambridge:
+Duncan-Jones, Richard. Economy of the Roman Empire. Cambridge: Cambridge Univ. Press, 1974.
 
-Cambridge Univ. Press, 1974.
+Dunlop, D. M. The History of the Jewish Khazars. Princeton: Princeton Univ. Press, 1954.
 
-Dunlop, D. M. The History of the Jewish Khazars. Princeton:
+Duyvendak, J. J. L. “The True Dates of the Chinese Maritime Expeditions in the Early Fifteenth Century.” T’oung Pao 34 (1938): 341–412.
 
-Princeton Univ. Press, 1954.
+Earle, T. F., and John Villiers, eds. and trans. Albuquerque: Caesar of the East—Selected Texts by Afonso de Albuquerque and His Son. Warminster, UK: Aris & Phillips, 1990.
 
-Duyvendak, J. J. L. "The True Dates of the Chinese Maritime
+Edwards, Clinton R. Aboriginal Watercraft on the Pacific Coast of South America. Berkeley: Univ. of California Press, 1965.
 
-Expeditions in the Early Fifteenth Century." T'oung Pao 34 (1938):
+Ehrenkreutz, A. S. “The Place of Saladin in the Naval History of the Mediterranean Sea in the Middle Ages.” JAOS 72:2 (1955): 100–116.
 
-341-412.
+Elbl, Martin. “The Caravel.” In Cogs, Caravels and Galleons, ed. by Gardiner and Unger, 91–98.
 
-Earle, T. F., and John Villiers, eds. and trans. Albuquerque: Caesar of
+El-Hajji, A. A. “The Andalusian Diplomatic Relations with the Vikings During the Umayyad Period.” Hesperis Tamuda 8 (1967): 67–110.
 
-the East--Selected Texts by Afonso de Albuquerque and His Son.
+Elisonas, Jurgis. “The Inseparable Trinity: Japan’s Relations with China and Korea.” In The Cambridge History of Japan. Vol. 4, Early Modern Japan, ed. by John Whitney Hall, 235–300. Cambridge: Cambridge Univ. Press, 1991.
 
-Warminster, UK: Aris & Phillips, 1990.
+Elliott, J. H. Empires of the Atlantic World: Britain and Spain in America, 1492–1830. New Haven: Yale Univ. Press, 2006.
 
-Edwards, Clinton R. Aboriginal Watercraft on the Pacific Coast of
+Ellmers, Detlev. “The Beginning of Boatbuilding in Central Europe.” In The Earliest Ships: The Evolution of Boats into Ships, ed. by Robert Gardiner, 11–23. London: Conway Maritime, 1996.
 
-South America. Berkeley: Univ. of California Press, 1965.
+———. “The Cog as Cargo Carrier.” In Cogs, Caravels and Galleons, ed. by Gardiner and Unger, 29–46.
 
-Ehrenkreutz, A. S. "The Place of Saladin in the Naval History of the
+El-Sayed, Sayed Z. “Queen Hatshepsut’s Expedition to the Land of Punt: The First Oceanographic Cruise?” Quarterdeck 3:1 (Spring 1995). www-ocean.tamu.edu/Quarterdeck/QD3.1/Elsayed/elsayed-hatshepsut.html.
 
-Mediterranean Sea in the Middle Ages." JAOS 72:2 (1955): 100-
+Elvin, Mark. The Pattern of the Chinese Past. Stanford: Stanford Univ. Press, 1973.
 
-116.
+Englert, Anton, and Athena Trakadas, eds. Wulfstan’s Voyage: The Baltic Sea Region in the Early Viking Age as Seen from Shipboard. Roskilde, Denmark: Viking Ship Museum, 2009.
 
-Elbl, Martin. "The Caravel." In Cogs, Caravels and Galleons, ed. by
+Ennin. Ennin’s Diary: The Record of a Pilgrimage to China in Search of the Law. New York: Ronald, 1955.
 
-Gardiner and Unger, 91-98.
+Epstein, Jeremiah F. “Sails in Aboriginal Mesoamerica: Reevaluating Thompson’s Argument.” American Anthropologist 92:1 (1990): 187–92.
 
-El-Hajji, A. A. "The Andalusian Diplomatic Relations with the
+Epstein, Steven A. Genoa and the Genoese, 958–1528. Chapel Hill: Univ. of North Carolina Press, 1996.
 
-Vikings During the Umayyad Period." Hesperis Tamuda 8 (1967):
+Erlandson, Jon M., et al. “The Kelp Highway Hypothesis.” Journal of Island and Coastal Archaeology 2 (2007): 161–74.
 
-67-110.
+Errington, R. M. “Rome Against Philip and Antiochus.” In The Cambridge Ancient History. Vol. 8, Rome and the Mediterranean to 133 B.C., ed. by A. E. Astin et al., 244–89. 2nd ed. Cambridge: Cambridge Univ. Press, 1989.
 
-Elisonas, Jurgis. "The Inseparable Trinity: Japan's Relations with
+Esmer, Ahmed Sükrü. “The Straits: Crux of World Politics.” Foreign Affairs 25 (1947): 290–302.
 
-China and Korea." In The Cambridge History of Japan. Vol. 4,
+Evans, David C., and Mark R. Peattie. Kaigun: Strategy, Tactics, and Technology in the Imperial Japanese Navy, 1887–1941. Annapolis: Naval Institute, 1997.
 
-Early Modern Japan, ed. by John Whitney Hall, 235-300.
+Evelyn, John. The Diary of John Evelyn; Now First Printed in Full from the Manuscripts Belonging to Mr. John Evelyn. Ed. by E. S. de Beer. Oxford: Clarendon Press, 1955.
 
-Cambridge: Cambridge Univ. Press, 1991.
+Evelyn-White, H. G., trans. Hesiod, the Homeric Hymns and Homerica. London: Heinemann, 1914.
 
-Elliott, J. H. Empires of the Atlantic World: Britain and Spain in
+Fagan, Brian. Fish on Friday: Feasting, Fasting and the Discovery of the New World. New York: Basic Books, 2006.
 
-America, 1492-1830. New Haven: Yale Univ. Press, 2006.
+Fahmy, Aly Mohamed. Muslim Naval Organization in the Eastern Mediterranean from the Seventh to the Tenth Century A.D. 2nd ed. Cairo: National Publication & Printing House, 1966.
 
-Ellmers, Detlev. "The Beginning of Boatbuilding in Central Europe."
+———. Muslim Sea-Power in the Eastern Mediterranean: From the Seventh to the Tenth Century A.D. London: Luzac, 1950.
 
-In The Earliest Ships: The Evolution of Boats into Ships, ed. by
+Fairbank, John King, Edwin O. Reischauer, and Albert M. Craig. East Asia: Tradition and Transformation. Boston: Houghton Mifflin, 1973.
 
-Robert Gardiner, 11-23. London: Conway Maritime, 1996.
+Falconbridge, Alexander. An Account of the Slave Trade on the Coast of Africa. London, 1788.
 
-------. "The Cog as Cargo Carrier." In Cogs, Caravels and Galleons,
+Falconer, William. An Universal Dictionary of the Marine. London, 1780.
 
-ed. by Gardiner and Unger, 29-46.
+FAO Fisheries and Aquaculture Department. The State of World Fisheries and Aquaculture, 2010. Rome: Food & Agriculture Organization of the UN, 2010.
 
-El-Sayed, Sayed Z. "Queen Hatshepsut's Expedition to the Land of
-
-Punt: The First Oceanographic Cruise?" Quarterdeck 3:1 (Spring
-
-1995). www-ocean.tamu.edu/Quarterdeck/QD3.1/Elsayed/elsayedhatshepsut.html.
-
-Elvin, Mark. The Pattern of the Chinese Past. Stanford: Stanford Univ.
-
-Press, 1973.
-
-Englert, Anton, and Athena Trakadas, eds. Wulfstan's Voyage: The
-
-Baltic Sea Region in the Early Viking Age as Seen from Shipboard.
-
-Roskilde, Denmark: Viking Ship Museum, 2009.
-
-Ennin. Ennin's Diary: The Record of a Pilgrimage to China in Search
-
-of the Law. New York: Ronald, 1955.
-
-Epstein, Jeremiah F. "Sails in Aboriginal Mesoamerica: Reevaluating
-
-Thompson's Argument." American Anthropologist 92:1 (1990):
-
-187-92.
-
-Epstein, Steven A. Genoa and the Genoese, 958-1528. Chapel Hill:
-
-Univ. of North Carolina Press, 1996.
-
-Erlandson, Jon M., et al. "The Kelp Highway Hypothesis." Journal of
-
-Island and Coastal Archaeology 2 (2007): 161-74.
-
-Errington, R. M. "Rome Against Philip and Antiochus." In The
-
-Cambridge Ancient History. Vol. 8, Rome and the Mediterranean to
-
-133 B.C., ed. by A. E. Astin et al., 244-89. 2nd ed. Cambridge:
-
-Cambridge Univ. Press, 1989.
-
-Esmer, Ahmed Sükrü. "The Straits: Crux of World Politics." Foreign
-
-Affairs 25 (1947): 290-302.
-
-Evans, David C., and Mark R. Peattie. Kaigun: Strategy, Tactics, and
-
-Technology in the Imperial Japanese Navy, 1887-1941. Annapolis:
-
-Naval Institute, 1997.
-
-Evelyn, John. The Diary of John Evelyn; Now First Printed in Full
-
-from the Manuscripts Belonging to Mr. John Evelyn. Ed. by E. S. de
-
-Beer. Oxford: Clarendon Press, 1955.
-
-Evelyn-White, H. G., trans. Hesiod, the Homeric Hymns and
-
-Homerica. London: Heinemann, 1914.
-
-Fagan, Brian. Fish on Friday: Feasting, Fasting and the Discovery of
-
-the New World. New York: Basic Books, 2006.
-
-Fahmy, Aly Mohamed. Muslim Naval Organization in the Eastern
-
-Mediterranean from the Seventh to the Tenth Century A.D. 2nd ed.
-
-Cairo: National Publication & Printing House, 1966.
-
-------. Muslim Sea-Power in the Eastern Mediterranean: From the
-
-Seventh to the Tenth Century A.D. London: Luzac, 1950.
-
-Fairbank, John King, Edwin O. Reischauer, and Albert M. Craig. East
-
-Asia: Tradition and Transformation. Boston: Houghton Mifflin,
-
-1973.
-
-Falconbridge, Alexander. An Account of the Slave Trade on the Coast
-
-of Africa. London, 1788.
-
-Falconer, William. An Universal Dictionary of the Marine. London,
-
-1780.
-
-FAO Fisheries and Aquaculture Department. The State of World
-
-Fisheries and Aquaculture, 2010. Rome: Food & Agriculture
-
-Organization of the UN, 2010.
-
-Faroqhi, Suraiya. Ottoman Empire and the World Around It. London:
-
-Tauris, 2005.
+Faroqhi, Suraiya. Ottoman Empire and the World Around It. London: Tauris, 2005.
 
 Faxian. The Travels of Fa-hian. In Xuanzang, Si-yu-ki.
 
-Fernández-Armesto, Felipe. Amerigo: The Man Who Gave His Name
+Fernández-Armesto, Felipe. Amerigo: The Man Who Gave His Name to America. London: Weidenfeld & Nicolson, 2006.
 
-to America. London: Weidenfeld & Nicolson, 2006.
+———. Before Columbus: Exploration and Colonization from the Mediterranean to the Atlantic, 1229–1492. Philadelphia: Univ. of Pennsylvania Press, 1987.
 
-------. Before Columbus: Exploration and Colonization from the
+———. Columbus. New York: Oxford Univ. Press, 1991.
 
-Mediterranean to the Atlantic, 1229-1492. Philadelphia: Univ. of
+———. “Medieval Atlantic Exploration: The Evidence of the Maps.” In Portugal, the Pathfinder, ed. by Winius, 40–70.
 
-Pennsylvania Press, 1987.
+———. “Spanish Atlantic Voyages and Conquests Before Columbus.” In Maritime History. Vol. 1, The Age of Discovery, ed. by John B. Hattendorf, 137–47. Malabar, FL: Krieger, 1996.
 
-------. Columbus. New York: Oxford Univ. Press, 1991.
+———. “The Stranger-Effect in Early Modern Asia.” In Shifting Communities and Identity Formation in Early Modern Asia, ed. by Blussé and Fernández-Armesto, 181–202.
 
-------. "Medieval Atlantic Exploration: The Evidence of the Maps."
+Ferreiro, Larrie D. Ships and Science: The Birth of Naval Architecture in the Scientific Revolution, 1600–1800. Cambridge: MIT Press, 2007.
 
-In Portugal, the Pathfinder, ed. by Winius, 40-70.
+Ferry, David, trans. Gilgamesh: A New Rendering in English Verse. New York: Farrar, Straus & Giroux, 1993.
 
-------. "Spanish Atlantic Voyages and Conquests Before Columbus."
+Fisher, Robin. “The Northwest from the Beginning of Trade with the Europeans to the 1880s.” In The Cambridge History of the Native Peoples of the Americas. Vol. 1, North America, ed. by Bruce G. Trigger and Wilcomb E. Washburn, 117–82. Cambridge: Cambridge Univ. Press, 1996.
 
-In Maritime History. Vol. 1, The Age of Discovery, ed. by John B.
+Fladmark, Knut. “Routes: Alternate Migration Corridors for Early Man in North America.” American Antiquity 44:1 (1979): 55–69.
 
-Hattendorf, 137-47. Malabar, FL: Krieger, 1996.
+Flecker, Michael. “A Ninth-Century ad Arab or Indian Shipwreck in Indonesia: First Evidence for Direct Trade with China.” World Archaeology 32:3 (2001): 335–54.
 
-------. "The Stranger-Effect in Early Modern Asia." In Shifting
+———. “A Ninth-Century ad Arab or Indian Shipwreck in Indonesia: Addendum.” IJNA 37:2 (2008): 384–86.
 
-Communities and Identity Formation in Early Modern Asia, ed. by
+Fletcher, M. E. “From Coal to Oil in British Shipping.” Journal of Transport History 3 (1975): 1–19.
 
-Blussé and Fernández-Armesto, 181-202.
+———. “The Suez Canal and World Shipping, 1869–1914.” Journal of Economic History 18:4 (1958): 556–73.
 
-Ferreiro, Larrie D. Ships and Science: The Birth of Naval Architecture
+Flexner, James T. Steamboats Come True: American Inventors in Action. New York: Viking, 1964.
 
-in the Scientific Revolution, 1600-1800. Cambridge: MIT Press,
+Flodoard of Reims. The Annals of Flodoard of Reims, 919–966. Trans. Steven Fanning and Bernard S. Bachrach. Peterborough, ON: Broadview, 2004.
 
-2007.
+Florus, Lucius Annaeus. Epitome of Roman History. 1929. Reprint, Cambridge: Harvard Univ. Press, 1960.
 
-Ferry, David, trans. Gilgamesh: A New Rendering in English Verse.
+Forrest, Thomas. A Voyage to New Guinea and the Moluccas, 1774–1776. Kuala Lumpur: Oxford Univ. Press, 1969.
 
-New York: Farrar, Straus & Giroux, 1993.
+Fox, Grace Estelle. Britain and Japan, 1858–1883. Oxford: Clarendon Press, 1969.
 
-Fisher, Robin. "The Northwest from the Beginning of Trade with the
+Franke, P. R. “Pyrrhus.” In The Cambridge Ancient History. Vol. 7, pt. 2, The Rise of Rome to 220 B.C., ed. by F. W. Walbank et al., 456–85. 2nd ed. Cambridge: Cambridge Univ. Press, 1989.
 
-Europeans to the 1880s." In The Cambridge History of the Native
+Franklin, Benjamin. The Writings of Benjamin Franklin: 1783–1788. Ed. Albert Henry Smyth. New York: Macmillan, 1906.
 
-Peoples of the Americas. Vol. 1, North America, ed. by Bruce G.
+Frankopan, Peter. “Byzantine Trade Privileges to Venice in the Eleventh Century: The Chrysobull of 1092.” Journal of Medieval History 20 (2004): 135–60.
 
-Trigger and Wilcomb E. Washburn, 117-82. Cambridge: Cambridge
-
-Univ. Press, 1996.
-
-Fladmark, Knut. "Routes: Alternate Migration Corridors for Early
-
-Man in North America." American Antiquity 44:1 (1979): 55-69.
-
-Flecker, Michael. "A Ninth-Century ad Arab or Indian Shipwreck in
-
-Indonesia: First Evidence for Direct Trade with China." World
-
-Archaeology 32:3 (2001): 335-54.
-
-------. "A Ninth-Century ad Arab or Indian Shipwreck in Indonesia:
-
-Addendum." IJNA 37:2 (2008): 384-86.
-
-Fletcher, M. E. "From Coal to Oil in British Shipping." Journal of
-
-Transport History 3 (1975): 1-19.
-
-------. "The Suez Canal and World Shipping, 1869-1914." Journal
-
-of Economic History 18:4 (1958): 556-73.
-
-Flexner, James T. Steamboats Come True: American Inventors in
-
-Action. New York: Viking, 1964.
-
-Flodoard of Reims. The Annals of Flodoard of Reims, 919-966. Trans.
-
-Steven Fanning and Bernard S. Bachrach. Peterborough, ON:
-
-Broadview, 2004.
-
-Florus, Lucius Annaeus. Epitome of Roman History. 1929. Reprint,
-
-Cambridge: Harvard Univ. Press, 1960.
-
-Forrest, Thomas. A Voyage to New Guinea and the Moluccas, 1774-
-
-1776. Kuala Lumpur: Oxford Univ. Press, 1969.
-
-Fox, Grace Estelle. Britain and Japan, 1858-1883. Oxford: Clarendon
-
-Press, 1969.
-
-Franke, P. R. "Pyrrhus." In The Cambridge Ancient History. Vol. 7, pt.
-
-2, The Rise of Rome to 220 B.C., ed. by F. W. Walbank et al., 456-85.
-
-2nd ed. Cambridge: Cambridge Univ. Press, 1989.
-
-Franklin, Benjamin. The Writings of Benjamin Franklin: 1783-1788.
-
-Ed. Albert Henry Smyth. New York: Macmillan, 1906.
-
-Frankopan, Peter. "Byzantine Trade Privileges to Venice in the
-
-Eleventh Century: The Chrysobull of 1092." Journal of Medieval
-
-History 20 (2004): 135-60.
-
-Fraser, Antonia. Royal Charles: Charles II and the Restoration. New
-
-York: Simon & Schuster, 1979.
+Fraser, Antonia. Royal Charles: Charles II and the Restoration. New York: Simon & Schuster, 1979.
 
 Fraser, P. M. Ptolemaic Alexandria. Oxford: Clarendon Press, 1972.
 
-Frear, Hugo P. "History of Tankers." New York Maritime Register
+Frear, Hugo P. “History of Tankers.” New York Maritime Register (1886): 135–44.
 
-(1886): 135-44.
+Friel, Ian. “The Carrack.” In Cogs, Caravels and Galleons, ed. by Gardiner and Unger, 77–90.
 
-Friel, Ian. "The Carrack." In Cogs, Caravels and Galleons, ed. by
+———. The Good Ship: Ships, Shipbuilding and Technology in England, 1200–1520. Baltimore: Johns Hopkins Univ. Press, 1995.
 
-Gardiner and Unger, 77-90.
+———. Maritime History of Britain and Ireland, c. 400–2001. London: British Museum, 2003.
 
-------. The Good Ship: Ships, Shipbuilding and Technology in
+Frost, Alan. “James Mario Matra: Voyager with Cook.” Commonplace 5:2 (2005), www.common-place.org.
 
-England, 1200-1520. Baltimore: Johns Hopkins Univ. Press, 1995.
+Frost, Honor, et al. Lilybaeum (Marsala): The Punic Ship, Final Excavation Report. Rome: Notizie deglie scavi di antichità, 1976.
 
-------. Maritime History of Britain and Ireland, c. 400-2001.
+———. “The Marsala Punic Ship: An Obituary.” Mariner’s Mirror 83:2 (1997): 207–11.
 
-London: British Museum, 2003.
+Frost, O. W. Bering: The Russian Discovery of America. New Haven: Yale Univ. Press, 2003.
 
-Frost, Alan. "James Mario Matra: Voyager with Cook." Commonplace
+Fryer, S. E., and David K. Brown. “Whitehead, Robert,” Oxford Dictionary of National Biography, ed. by H. C. G. Matthew and Brian Harrison. 58.670–71. 2nd ed. Oxford: Oxford Univ. Press, 2004.
 
-5:2 (2005), www.common-place.org.
+Gaastra, Femme. The Dutch East India Company: Expansion and Decline. Zutphen, Netherlands: Walburg Pers, 2003.
 
-Frost, Honor, et al. Lilybaeum (Marsala): The Punic Ship, Final
+Gabrielsen, Vincent. The Naval Aristocracy of Hellenistic Rhodes. Aarhus, Denmark: Aarhus Univ. Press, 1997.
 
-Excavation Report. Rome: Notizie deglie scavi di antichità, 1976.
+Gadd, C. J. “The Dynasty of Agade and the Gutian Invasion.” In The Cambridge Ancient History. Vol. 1, pt. 2, Early History of the Middle East, ed. by I. E. S. Edwards et al., 417–57. 3rd ed. Cambridge: Cambridge Univ. Press, 1971.
 
-------. "The Marsala Punic Ship: An Obituary." Mariner's Mirror
+Gade, John Allyne. The Hanseatic Control of Norwegian Commerce During the Late Middle Ages. Leiden: Brill, 1951.
 
-83:2 (1997): 207-11.
+Games, Alison. “Migration.” In The British Atlantic World, 1500–1800, ed. by David Armitage and Michael J. Braddick, 31–50. London: Palgrave Macmillan, 2002.
 
-Frost, O. W. Bering: The Russian Discovery of America. New Haven:
+Gardiner, Robert, and Alastair Couper, eds. The Shipping Revolution: The Modern Merchant Ship. London: Conway Maritime, 1992.
 
-Yale Univ. Press, 2003.
+Gardiner, Robert, and Ambrose Greenway, eds. The Golden Age of Shipping: The Classic Merchant Ship, 1900–1960. Annapolis: Naval Institute, 1994.
 
-Fryer, S. E., and David K. Brown. "Whitehead, Robert," Oxford
+Gardiner, Robert, and John Morrison, eds. The Age of the Galley: Mediterranean Oared Vessels Since Pre-Classical Times. Annapolis: Naval Institute, 1995.
 
-Dictionary of National Biography, ed. by H. C. G. Matthew and
+Gardiner, Robert, and Richard W. Unger, eds. Cogs, Caravels and Galleons: The Sailing Ship, 1000–1650. Annapolis: Naval Institute, 1994.
 
-Brian Harrison. 58.670-71. 2nd ed. Oxford: Oxford Univ. Press,
+Garland, Charles, and Herbert S. Klein. “The Allotment of Space for Slaves Aboard Eighteenth-Century British Slave Ships.” William and Mary Quarterly, 3rd Ser., 42:2 (1985): 238–48.
 
-2004.
+Gellius, Aulus. Attic Nights. Trans. John C. Rolfe. Cambridge: Harvard Univ. Press, 1927.
 
-Gaastra, Femme. The Dutch East India Company: Expansion and
+Gelpke, J. Sollewijn. “Afonso de Albuquerque’s Pre-Portuguese Javanese Map, Partially Reconstructed from Francisco Rodrigues’ Book.” Bijdragen tot de Taal-, Land- en Volkenkunde 151 (1995): 76–99.
 
-Decline. Zutphen, Netherlands: Walburg Pers, 2003.
+Genz, Joseph H. “Oceania: Polynesian and Micronesian Navigation.” In The Oxford Encyclopedia of Maritime History, ed. by Hattendorf, 3:144–54.
 
-Gabrielsen, Vincent. The Naval Aristocracy of Hellenistic Rhodes.
+Ghosh, A., ed. An Encyclopedia of Indian Archaeology. Vol. 2, A Gazetteer of Explored and Excavated Sites in India. Leiden: Brill, 1990.
 
-Aarhus, Denmark: Aarhus Univ. Press, 1997.
-
-Gadd, C. J. "The Dynasty of Agade and the Gutian Invasion." In The
-
-Cambridge Ancient History. Vol. 1, pt. 2, Early History of the
-
-Middle East, ed. by I. E. S. Edwards et al., 417-57. 3rd ed.
-
-Cambridge: Cambridge Univ. Press, 1971.
-
-Gade, John Allyne. The Hanseatic Control of Norwegian Commerce
-
-During the Late Middle Ages. Leiden: Brill, 1951.
-
-Games, Alison. "Migration." In The British Atlantic World, 1500-
-
-1800, ed. by David Armitage and Michael J. Braddick, 31-50.
-
-London: Palgrave Macmillan, 2002.
-
-Gardiner, Robert, and Alastair Couper, eds. The Shipping Revolution:
-
-The Modern Merchant Ship. London: Conway Maritime, 1992.
-
-Gardiner, Robert, and Ambrose Greenway, eds. The Golden Age of
-
-Shipping: The Classic Merchant Ship, 1900-1960. Annapolis: Naval
-
-Institute, 1994.
-
-Gardiner, Robert, and John Morrison, eds. The Age of the Galley:
-
-Mediterranean Oared Vessels Since Pre-Classical Times. Annapolis:
-
-Naval Institute, 1995.
-
-Gardiner, Robert, and Richard W. Unger, eds. Cogs, Caravels and
-
-Galleons: The Sailing Ship, 1000-1650. Annapolis: Naval Institute,
-
-1994.
-
-Garland, Charles, and Herbert S. Klein. "The Allotment of Space for
-
-Slaves Aboard Eighteenth-Century British Slave Ships." William
-
-and Mary Quarterly, 3rd Ser., 42:2 (1985): 238-48.
-
-Gellius, Aulus. Attic Nights. Trans. John C. Rolfe. Cambridge:
-
-Harvard Univ. Press, 1927.
-
-Gelpke, J. Sollewijn. "Afonso de Albuquerque's Pre-Portuguese
-
-Javanese Map, Partially Reconstructed from Francisco Rodrigues'
-
-Book." Bijdragen tot de Taal-, Landen Volkenkunde 151 (1995):
-
-76-99.
-
-Genz, Joseph H. "Oceania: Polynesian and Micronesian Navigation."
-
-In The Oxford Encyclopedia of Maritime History, ed. by Hattendorf,
-
-3:144-54.
-
-Ghosh, A., ed. An Encyclopedia of Indian Archaeology. Vol. 2, A
-
-Gazetteer of Explored and Excavated Sites in India. Leiden: Brill,
-
-1990.
-
-Gibson, Andrew, and Arthur Donovan. The Abandoned Ocean: A
-
-History of United States Maritime Policy. Columbia: Univ. of South
-
-Carolina Press, 2000.
+Gibson, Andrew, and Arthur Donovan. The Abandoned Ocean: A History of United States Maritime Policy. Columbia: Univ. of South Carolina Press, 2000.
 
 Gimbutas, Marija Alseikaite. The Balts. New York: Praeger, 1963.
 
-Gladney, Dru C. Muslim Chinese: Ethnic Nationalism in the People's
+Gladney, Dru C. Muslim Chinese: Ethnic Nationalism in the People’s Republic. Cambridge: Harvard Univ. Press, 1996.
 
-Republic. Cambridge: Harvard Univ. Press, 1996.
+Gläser, Manfred, “The Development of the Harbours and Market Places of Lübeck.” In Maritime Topography and the Medieval Town, ed. by Jan Bill and Birthe L. Clausen, 79–86. Copenhagen: National Museum, 1999.
 
-Gläser, Manfred, "The Development of the Harbours and Market
+Glete, Jan. “Naval Power and Control of the Sea in the Baltic in the Sixteenth Century.” In War at Sea in the Middle Ages and Renaissance, ed. by John B. Hattendorf and Richard W. Unger, 217–32. Rochester, NY: Boydell, 2003.
 
-Places of Lübeck." In Maritime Topography and the Medieval Town,
+———. Navies and Nations: Warships, Navies, and State Building in Europe and America, 1500–1860. Acta Universitatis Stockholmiensis. Stockholm Studies in History, 48. Stockholm: Almqvist & Wiksell International, 1993.
 
-ed. by Jan Bill and Birthe L. Clausen, 79-86. Copenhagen: National
+———. Warfare at Sea, 1500–1650: Maritime Conflict and the Transformation of Europe. London: UCL, 2000.
 
-Museum, 1999.
+Goitein, S. D. “The Beginnings of the Karim Merchants and the Nature of Their Organization.” In Studies in Islamic History and Institutions, 351–60. Leiden: Brill, 1966.
 
-Glete, Jan. "Naval Power and Control of the Sea in the Baltic in the
+———. A Mediterranean Society: The Jewish Communities of the Arab World as Portrayed in the Documents of the Cairo Geniza. 6 vols. 1967. Reprint, Berkeley: Univ. of California Press, 1999.
 
-Sixteenth Century." In War at Sea in the Middle Ages and
+———. “Two Eyewitness Reports on an Expedition of the King of Kish (Qais) Against Aden.” Bulletin of the School of Oriental and African Studies 16 (1954): 247–57.
 
-Renaissance, ed. by John B. Hattendorf and Richard W. Unger, 217-
-
-32. Rochester, NY: Boydell, 2003.
-
-------. Navies and Nations: Warships, Navies, and State Building in Europe and America, 1500-1860. Acta Universitatis Stockholmiensis. Stockholm Studies in History, 48. Stockholm:
-
-Almqvist & Wiksell International, 1993.
-
-------. Warfare at Sea, 1500-1650: Maritime Conflict and the
-
-Transformation of Europe. London: UCL, 2000.
-
-Goitein, S. D. "The Beginnings of the Karim Merchants and the
-
-Nature of Their Organization." In Studies in Islamic History and
-
-Institutions, 351-60. Leiden: Brill, 1966.
-
-------. A Mediterranean Society: The Jewish Communities of the
-
-Arab World as Portrayed in the Documents of the Cairo Geniza. 6
-
-vols. 1967. Reprint, Berkeley: Univ. of California Press, 1999.
-
-------. "Two Eyewitness Reports on an Expedition of the King of
-
-Kish (Qais) Against Aden." Bulletin of the School of Oriental and
-
-African Studies 16 (1954): 247-57.
-
-Goitein, S. D., and Mordechai A. Friedman. India Traders of the
-
-Middle Ages: Documents from the Cairo Geniza, "India Book."
-
-Leiden: Brill, 2008.
+Goitein, S. D., and Mordechai A. Friedman. India Traders of the Middle Ages: Documents from the Cairo Geniza, “India Book.” Leiden: Brill, 2008.
 
 Goldsworthy, Adrian. The Punic Wars. London: Cassell, 2000.
 
-Golovnin, V. M. Memoirs of a Captivity in Japan During the Years
+Golovnin, V. M. Memoirs of a Captivity in Japan During the Years 1811, 1812, and 1813; with Observations on the Country and the People. 3 vols. London: Henry Colburn, 1824.
 
-1811, 1812, and 1813; with Observations on the Country and the
+Gordan, John D., III. “The Trial of the Officers and Crew of the Schooner Savannah.” Supreme Court Historical Society 1983 Yearbook. http://www.supremecourthistory.org.
 
-People. 3 vols. London: Henry Colburn, 1824.
+Goslinga, Cornelis Ch. The Dutch in the Caribbean and on the Wild Coast, 1580–1680. Gainesville: Univ. of Florida Press, 1971.
 
-Gordan, John D., III. "The Trial of the Officers and Crew of the
+Graff, David A. Medieval Chinese Warfare, 300–900. London: Routledge, 2002.
 
-Schooner Savannah." Supreme Court Historical Society 1983
+Graham, Gerald S. “Ascendancy of the Sailing Ship, 1850–1855.” Economic History Review, n.s., 9:1 (1956): 74–88.
 
-Yearbook. http://www.supremecourthistory.org.
+Gratzer, W. B. Terrors of the Table: The Curious History of Nutrition. New York: Oxford Univ. Press, 2005.
 
-Goslinga, Cornelis Ch. The Dutch in the Caribbean and on the Wild
+Green, J. N. “The Song Dynasty Shipwreck at Quanzhou, Fujian Province, People’s Republic of China.” IJNA 12 (1983): 253–61.
 
-Coast, 1580-1680. Gainesville: Univ. of Florida Press, 1971.
+Green, J. N., and Zae Geun Kim. “The Shinan and Wando Sites, Korea: Further Information.” IJNA 18 (1989): 33–41.
 
-Graff, David A. Medieval Chinese Warfare, 300-900. London:
+Green, Peter. The Greco-Persian Wars. Berkeley: Univ. of California Press, 1996.
 
-Routledge, 2002.
+Greenlee, William Brooks, ed. The Voyage of Pedro Alvares Cabral to Brazil and India, from Contemporary Documents and Narratives. London: Hakluyt, 1938.
 
-Graham, Gerald S. "Ascendancy of the Sailing Ship, 1850-1855."
+Greenway, Ambrose. “Cargo Ships.” In The Golden Age of Shipping, ed. by Gardiner and Greenway, 38–50.
 
-Economic History Review, n.s., 9:1 (1956): 74-88.
+Grenet, Frantz. “Les marchands sogdiens dans les mers du Sud à l’époque préislamique.” Cahiers d’Asie centrale 1/2 (1996): 65–84.
 
-Gratzer, W. B. Terrors of the Table: The Curious History of Nutrition.
+Grescoe, Taras. Bottomfeeder: How to Eat Ethically in a World of Vanishing Seafood. New York: Bloomsbury, 2008.
 
-New York: Oxford Univ. Press, 2005.
+Griffiths, Denis. Brunel’s Great Western. Wellingborough: Patrick Stephens, 1985.
 
-Green, J. N. "The Song Dynasty Shipwreck at Quanzhou, Fujian
+Grotius, Hugo. The Free Sea. Trans. Richard Hakluyt; ed. by David Armitage. Indianapolis: Liberty Fund, 2004.
 
-Province, People's Republic of China." IJNA 12 (1983): 253-61.
+Grousset, René. The Empire of the Steppes: A History of Central Asia. New Brunswick: Rutgers Univ. Press, 1970.
 
-Green, J. N., and Zae Geun Kim. "The Shinan and Wando Sites,
+Guilmartin, J. F. Gunpowder and Galleys: Changing Technology and Mediterranean Warfare at Sea in the Sixteenth Century. Cambridge: Cambridge Univ. Press, 1975.
 
-Korea: Further Information." IJNA 18 (1989): 33-41.
+Gunawardana, R. A. L. H. “Changing Patterns of Navigation in the Indian Ocean and Their Impact on Pre-Colonial Sri Lanka.” In The Indian Ocean: Explorations in History, Commerce and Politics, ed. by Satish Chandra, 54–89. New Delhi: Sage, 1987.
 
-Green, Peter. The Greco-Persian Wars. Berkeley: Univ. of California
+Guy, John S. “The Expansion of China’s Trade with South-East Asia.” In Oriental Trade Ceramics in South-East Asia, Ninth to Sixteenth Century, 13–22. New York: Oxford Univ. Press, 1986.
 
-Press, 1996.
+———. “Tamil Merchant Guilds and the Quanzhou Trade.” In The Emporium of the World: Maritime Quanzhou, 1000–1400, ed. by Angela Schottenhammer, 283–306. Leiden: Brill, 2000.
 
-Greenlee, William Brooks, ed. The Voyage of Pedro Alvares Cabral to
+Habachi, Labib. “Two Graffiti at Sehel from the Reign of Queen Hatshepsut.” Journal of Near Eastern Studies 16 (1957): 88–104.
 
-Brazil and India, from Contemporary Documents and Narratives.
+Habib, Irfan. “The Eighteenth Century in Indian Economic History.” In On the Eighteenth Century as a Category of Asian History, ed. by Blussé and Gaastra, 217–36.
 
-London: Hakluyt, 1938.
+Habicht, C. “The Seleucids and Their Rivals.” In The Cambridge Ancient History. Vol. 8, Rome and the Mediterranean to 133 B.C., ed. by A. E. Astin et al., 324–87. 2nd ed. Cambridge: Cambridge Univ. Press, 1989.
 
-Greenway, Ambrose. "Cargo Ships." In The Golden Age of Shipping,
+Haddon, Alfred C., and James Hornell. Canoes of Oceania. 2 vols. 1936–38. Reprint, Honolulu: Bishop Museum, 1975.
 
-ed. by Gardiner and Greenway, 38-50.
+Hadi Hasan, A. A History of Persian Navigation. London: Methuen, 1928.
 
-Grenet, Frantz. "Les marchands sogdiens dans les mers du Sud à
+Hagan, Kenneth J. This People’s Navy: The Making of American Sea Power. New York: Free Press, 1991.
 
-l'époque préislamique." Cahiers d'Asie centrale 1/2 (1996): 65-84.
+Hagy, James W. “800 Years of Etruscan Ships.” IJNA 15:3 (1986): 221–50.
 
-Grescoe, Taras. Bottomfeeder: How to Eat Ethically in a World of
+Haider, Najaf. “Structure and Movement of Wages in the Mughal Empire, 1500–1700.” In Wages and Currency: Global Comparisons from Antiquity to the Twentieth Century, ed. Jan Lucassen, 293–321. Bern: Lang, 2007.
 
-Vanishing Seafood. New York: Bloomsbury, 2008.
+Haldane, Douglas. “The Fire-Ship of Al-Salih Ayyub and Muslim Use of ‘Greek Fire.’ ” In The Circle of War in the Middle Ages: Essays on Medieval Military and Naval History, ed. by Donald J. Kagay and L. J. Andrew Villalon, 137–44. Woodbridge, UK: Boydell, 1999.
 
-Griffiths, Denis. Brunel's Great Western. Wellingborough: Patrick
+Haldon, John. “Military Service, Military Lands, and the Status of Soldiers.” Dumbarton Oaks Papers 47 (1993): 1–67.
 
-Stephens, 1985.
+Hale, Edward Everett. Letters on Irish Emigration. Boston: Phillips, Sampson, 1852.
 
-Grotius, Hugo. The Free Sea. Trans. Richard Hakluyt; ed. by David
+Hall, Kenneth R. “Economic History of Early Southeast Asia.” In The Cambridge History of Southeast Asia, ed. by Tarling, 1.1:183–275.
 
-Armitage. Indianapolis: Liberty Fund, 2004.
+———. “Local and International Trade and Traders in the Straits of Melaka Region: 600–1500.” JESHO 47:2 (2004): 213–60.
 
-Grousset, René. The Empire of the Steppes: A History of Central Asia.
+———. Maritime Trade and State Development in Early Southeast Asia. Honolulu: Univ. of Hawai’i Press, 1985.
 
-New Brunswick: Rutgers Univ. Press, 1970.
+———. “The Upstream and Downstream Unification in Southeast Asia’s First Islamic Polity: Changing Sense of Community in the Fifteenth Century Hikayat Raja-Raja Pasai Court Chronicle.” Journal of Southeast Asian Studies 44 (2001): 198–229.
 
-Guilmartin, J. F. Gunpowder and Galleys: Changing Technology and
+Halpern, Paul G. A Naval History of World War I. Annapolis: Naval Institute, 1994.
 
-Mediterranean Warfare at Sea in the Sixteenth Century. Cambridge:
+Hamblin, William James. “The Fatimid Navy During the Early Crusades: 1099–1124.” American Neptune 46 (1986): 77–83.
 
-Cambridge Univ. Press, 1975.
+“The Hamburg-American Yacht Prinzessin Victoria Luise.” Scientific American 84:6 (Feb. 9, 1901): 86.
 
-Gunawardana, R. A. L. H. "Changing Patterns of Navigation in the
+Handler, J. S. “Survivors of the Middle Passage: Life Histories of Enslaved Africans in British America.” Slavery & Abolition 23:1 (2002): 25–56.
 
-Indian Ocean and Their Impact on Pre-Colonial Sri Lanka." In The
+Hansen, Stig Jarle. Piracy in the Greater Gulf of Aden: Myths, Misconceptions and Remedies. Oslo: Norwegian Institute for Urban and Regional Research, 2009.
 
-Indian Ocean: Explorations in History, Commerce and Politics, ed.
+Harding, Richard. “Organizational Life Cycles, the SNR and Maritime History.” Mariner’s Mirror 97:2 (2011): 5–20.
 
-by Satish Chandra, 54-89. New Delhi: Sage, 1987.
-
-Guy, John S. "The Expansion of China's Trade with South-East Asia."
-
-In Oriental Trade Ceramics in South-East Asia, Ninth to Sixteenth
-
-Century, 13-22. New York: Oxford Univ. Press, 1986.
-
-------. "Tamil Merchant Guilds and the Quanzhou Trade." In The
-
-Emporium of the World: Maritime Quanzhou, 1000-1400, ed. by
-
-Angela Schottenhammer, 283-306. Leiden: Brill, 2000.
-
-Habachi, Labib. "Two Graffiti at Sehel from the Reign of Queen
-
-Hatshepsut." Journal of Near Eastern Studies 16 (1957): 88-104.
-
-Habib, Irfan. "The Eighteenth Century in Indian Economic History."
-
-In On the Eighteenth Century as a Category of Asian History, ed. by
-
-Blussé and Gaastra, 217-36.
-
-Habicht, C. "The Seleucids and Their Rivals." In The Cambridge
-
-Ancient History. Vol. 8, Rome and the Mediterranean to 133 B.C., ed.
-
-by A. E. Astin et al., 324-87. 2nd ed. Cambridge: Cambridge Univ.
-
-Press, 1989.
-
-Haddon, Alfred C., and James Hornell. Canoes of Oceania. 2 vols.
-
-1936-38. Reprint, Honolulu: Bishop Museum, 1975.
-
-Hadi Hasan, A. A History of Persian Navigation. London: Methuen,
-
-1928.
-
-Hagan, Kenneth J. This People's Navy: The Making of American Sea
-
-Power. New York: Free Press, 1991.
-
-Hagy, James W. "800 Years of Etruscan Ships." IJNA 15:3 (1986):
-
-221-50.
-
-Haider, Najaf. "Structure and Movement of Wages in the Mughal
-
-Empire, 1500-1700." In Wages and Currency: Global Comparisons
-
-from Antiquity to the Twentieth Century, ed. Jan Lucassen, 293-321.
-
-Bern: Lang, 2007.
-
-Haldane, Douglas. "The Fire-Ship of Al-Salih Ayyub and Muslim Use
-
-of 'Greek Fire.' " In The Circle of War in the Middle Ages: Essays
-
-on Medieval Military and Naval History, ed. by Donald J. Kagay
-
-and L. J. Andrew Villalon, 137-44. Woodbridge, UK: Boydell,
-
-1999.
-
-Haldon, John. "Military Service, Military Lands, and the Status of
-
-Soldiers." Dumbarton Oaks Papers 47 (1993): 1-67.
-
-Hale, Edward Everett. Letters on Irish Emigration. Boston: Phillips,
-
-Sampson, 1852.
-
-Hall, Kenneth R. "Economic History of Early Southeast Asia." In The
-
-Cambridge History of Southeast Asia, ed. by Tarling, 1.1:183-275.
-
-------. "Local and International Trade and Traders in the Straits of
-
-Melaka Region: 600-1500." JESHO 47:2 (2004): 213-60.
-
-------. Maritime Trade and State Development in Early Southeast
-
-Asia. Honolulu: Univ. of Hawai'i Press, 1985.
-
-------. "The Upstream and Downstream Unification in Southeast
-
-Asia's First Islamic Polity: Changing Sense of Community in the
-
-Fifteenth Century Hikayat Raja-Raja Pasai Court Chronicle."
-
-Journal of Southeast Asian Studies 44 (2001): 198-229.
-
-Halpern, Paul G. A Naval History of World War I. Annapolis: Naval
-
-Institute, 1994.
-
-Hamblin, William James. "The Fatimid Navy During the Early
-
-Crusades: 1099-1124." American Neptune 46 (1986): 77-83.
-
-"The Hamburg-American Yacht Prinzessin Victoria Luise." Scientific
-
-American 84:6 (Feb. 9, 1901): 86.
-
-Handler, J. S. "Survivors of the Middle Passage: Life Histories of
-
-Enslaved Africans in British America." Slavery & Abolition 23:1
-
-(2002): 25-56.
-
-Hansen, Stig Jarle. Piracy in the Greater Gulf of Aden: Myths,
-
-Misconceptions and Remedies. Oslo: Norwegian Institute for Urban
-
-and Regional Research, 2009.
-
-Harding, Richard. "Organizational Life Cycles, the SNR and Maritime
-
-History." Mariner's Mirror 97:2 (2011): 5-20.
-
-Hart, Marjolein 't. "Intercity Rivalries and the Making of the Dutch
-
-State." In Cities and the Rise of States in Europe, A.D. 1000 to 1800,
-
-ed. by Charles Tilly and Wim P. Blockmans, 196-217. Boulder:
-
-Westview, 1994.
+Hart, Marjolein ’t. “Intercity Rivalries and the Making of the Dutch State.” In Cities and the Rise of States in Europe, A.D. 1000 to 1800, ed. by Charles Tilly and Wim P. Blockmans, 196–217. Boulder: Westview, 1994.
 
 Hastings, Max. The Korean War. London: Pan, 1988.
 
-Hattendorf, John B., ed. The Oxford Encyclopedia of Maritime
+Hattendorf, John B., ed. The Oxford Encyclopedia of Maritime History. 4 vols. New York: Oxford Univ. Press, 2007.
 
-History. 4 vols. New York: Oxford Univ. Press, 2007.
+Havighurst, Walter. The Long Ships Passing: The Story of the Great Lakes. Reprint, Minneapolis: Univ. of Wisconsin Press, 2002.
 
-Havighurst, Walter. The Long Ships Passing: The Story of the Great
+Hawkesworth, John. An Account of the Voyages Undertaken by the Order of His Present Majesty for Making Discoveries in the Southern Hemisphere. 4 vols. 3rd ed. London, 1785.
 
-Lakes. Reprint, Minneapolis: Univ. of Wisconsin Press, 2002.
+Haycox, Stephen W. Alaska: An American Colony. Seattle: Univ. of Washington Press, 2002.
 
-Hawkesworth, John. An Account of the Voyages Undertaken by the
+Haywood, John. Dark Age Naval Power: A Reassessment of Frankish and Anglo-Saxon Seafaring Activity. Rev. ed. Norfolk: Anglo-Saxon, 1999.
 
-Order of His Present Majesty for Making Discoveries in the
+Heinzig, Dieter. The Soviet Union and Communist China, 1945–1950: The Arduous Road to the Alliance. Armonk, NY: M. E. Sharpe, 2003.
 
-Southern Hemisphere. 4 vols. 3rd ed. London, 1785.
+Hellie, Richard. The Economy and Material Culture of Russia, 1600–1725. 2nd ed. Chicago: Univ. of Chicago Press, 1999.
 
-Haycox, Stephen W. Alaska: An American Colony. Seattle: Univ. of
-
-Washington Press, 2002.
-
-Haywood, John. Dark Age Naval Power: A Reassessment of Frankish
-
-and Anglo-Saxon Seafaring Activity. Rev. ed. Norfolk: AngloSaxon, 1999.
-
-Heinzig, Dieter. The Soviet Union and Communist China, 1945-1950:
-
-The Arduous Road to the Alliance. Armonk, NY: M. E. Sharpe,
-
-2003.
-
-Hellie, Richard. The Economy and Material Culture of Russia, 1600-
-
-1725. 2nd ed. Chicago: Univ. of Chicago Press, 1999.
-
-Henricus Lettus. The Chronicle of Henry of Livonia. Trans. James A.
-
-Brundage. 1961. Reprint, New York: Columbia Univ. Press, 2003.
+Henricus Lettus. The Chronicle of Henry of Livonia. Trans. James A. Brundage. 1961. Reprint, New York: Columbia Univ. Press, 2003.
 
 Henthorn, William E. A History of Korea. New York: Free Press, 1971.
 
-Hepper, David J. British Warship Losses in the Age of Sail, 1650-
+Hepper, David J. British Warship Losses in the Age of Sail, 1650–1859. Rotherfield, UK: Jean Boudriot, 1994.
 
-1859. Rotherfield, UK: Jean Boudriot, 1994.
+Herlihy, David. The Black Death and the Transformation of the West. Ed. by Samuel K. Cohn, Jr. Cambridge: Harvard Univ. Press, 1997.
 
-Herlihy, David. The Black Death and the Transformation of the West.
+Herodotus. The Histories. Trans. Aubrey de Sélincourt. 1954. New ed., New York: Penguin, 1996.
 
-Ed. by Samuel K. Cohn, Jr. Cambridge: Harvard Univ. Press, 1997.
+Heywood, Linda M., and John K. Thornton. Central Africans, Atlantic Creoles, and the Foundation of the Americas, 1585–1660. New York: Cambridge Univ. Press, 2007.
 
-Herodotus. The Histories. Trans. Aubrey de Sélincourt. 1954. New ed.,
+Heywood, Thomas. His Majesty’s Royal Ship: A Critical Edition of Thomas Heywood’s A True Description of His Majesties Royall Ship, ed. by Alan R. Young. New York: AMS Press, 1990.
 
-New York: Penguin, 1996.
+Hill, George. History of Cyprus. Cambridge: Cambridge Univ. Press, 1940.
 
-Heywood, Linda M., and John K. Thornton. Central Africans, Atlantic
+Hill, John E., trans. The Western Regions According to the Hou Hanshu: The Xiyu Juan. From Hou Hanshu 88. 2nd ed. 2003. http://depts.washington.edu/uwch/silkroad/texts/hhshu/hou_han_shu .html.
 
-Creoles, and the Foundation of the Americas, 1585-1660. New
-
-York: Cambridge Univ. Press, 2007.
-
-Heywood, Thomas. His Majesty's Royal Ship: A Critical Edition of
-
-Thomas Heywood's A True Description of His Majesties Royall
-
-Ship, ed. by Alan R. Young. New York: AMS Press, 1990.
-
-Hill, George. History of Cyprus. Cambridge: Cambridge Univ. Press,
-
-1940.
-
-Hill, John E., trans. The Western Regions According to the Hou
-
-Hanshu: The Xiyu Juan. From Hou Hanshu 88. 2nd ed. 2003.
-
-http://depts.washington.edu/uwch/silkroad/texts/hhshu/hou_han_shu
-
-.html.
-
-Hilton, George W. Eastland: Legacy of the Titanic. Stanford: Stanford
-
-University Press, 1995.
+Hilton, George W. Eastland: Legacy of the Titanic. Stanford: Stanford University Press, 1995.
 
 Hirth and Rockhill, see Chau Ju-kua.
 
-Hitti, Philip K. History of the Arabs from the Earliest Times to the
+Hitti, Philip K. History of the Arabs from the Earliest Times to the Present. 10th ed. New York: St. Martin’s, 1970.
 
-Present. 10th ed. New York: St. Martin's, 1970.
+Hocker, F. “Lead Hull Sheathing in Antiquity.” Tropis 3 (1995): 197–206.
 
-Hocker, F. "Lead Hull Sheathing in Antiquity." Tropis 3 (1995): 197-
+Höckmann, Olaf. “Late Roman Rhine Vessels from Mainz, Germany.” IJNA 22 (1993): 125–35.
 
-206.
+———. “Late Roman River Craft from Mainz, Germany.” In Local Boats, Fourth International Symposium on Boat and Ship Archaeology, Porto 1985, ed. by O. L. Filgueiras, 23–34. Oxford: British Archaeological Reports, 1988.
 
-Höckmann, Olaf. "Late Roman Rhine Vessels from Mainz, Germany."
+Hoffman, Bernard G. Cabot to Cartier. Toronto: Univ. of Toronto Press, 1961.
 
-IJNA 22 (1993): 125-35.
+Hoffman, Philip G. “Australia’s Debt to the American Revolution.” Historian 17:2 (1954): 143–56.
 
-------. "Late Roman River Craft from Mainz, Germany." In Local
+Hollister, C. Warren. Anglo-Saxon Military Institutions on the Eve of the Norman Conquest. Oxford: Clarendon Press, 1962.
 
-Boats, Fourth International Symposium on Boat and Ship
+Holmes, G. A. “The ‘Libel of English Policy.’ ” English Historical Review 76:299 (1961): 193–216.
 
-Archaeology, Porto 1985, ed. by O. L. Filgueiras, 23-34. Oxford:
-
-British Archaeological Reports, 1988.
-
-Hoffman, Bernard G. Cabot to Cartier. Toronto: Univ. of Toronto
-
-Press, 1961.
-
-Hoffman, Philip G. "Australia's Debt to the American Revolution."
-
-Historian 17:2 (1954): 143-56.
-
-Hollister, C. Warren. Anglo-Saxon Military Institutions on the Eve of
-
-the Norman Conquest. Oxford: Clarendon Press, 1962.
-
-Holmes, G. A. "The 'Libel of English Policy.' " English Historical
-
-Review 76:299 (1961): 193-216.
-
-Holmqvist, Wilhelm. "Helgö, an Early Trading Settlement in Central
-
-Sweden." In Recent Archaeological Excavations in Europe, ed. by
-
-Rupert Bruce-Mitford, 111-32. London: Routledge, 1975.
+Holmqvist, Wilhelm. “Helgö, an Early Trading Settlement in Central Sweden.” In Recent Archaeological Excavations in Europe, ed. by Rupert Bruce-Mitford, 111–32. London: Routledge, 1975.
 
 Homer. The Iliad. Trans. Robert Fagles. New York: Penguin, 1990.
 
-------. The Odyssey. Trans. Robert Fagles. New York: Penguin, 1996.
+———. The Odyssey. Trans. Robert Fagles. New York: Penguin, 1996.
 
-Horn, James, and Philip D. Morgan. "Settlers and Slaves: European
+Horn, James, and Philip D. Morgan. “Settlers and Slaves: European and African Migration to Early Modern British America.” In The Creation of the British Atlantic World, ed. by Elizabeth Mancke and Carole Shammas, 19–44. Baltimore: Johns Hopkins Univ. Press, 2005.
 
-and African Migration to Early Modern British America." In The
+Hornell, James. “Boat Oculi Survivals: Additional Records.” Journal of the Royal Anthropological Institute of Great Britain and Ireland 68 (1938): 339–48.
 
-Creation of the British Atlantic World, ed. by Elizabeth Mancke and
+———. “Indonesian Influence on East African Culture.” Journal of the Royal Anthropological Institute of Great Britain and Ireland 64 (1934): 305–32.
 
-Carole Shammas, 19-44. Baltimore: Johns Hopkins Univ. Press,
+———. “The Role of Birds in Early Navigation.” Antiquity 20 (1946): 142–49.
 
-2005.
+———. Water Transport Origins and Early Revolution. Cambridge: Cambridge Univ. Press, 1946.
 
-Hornell, James. "Boat Oculi Survivals: Additional Records." Journal
+Hornung, Erik. History of Ancient Egypt: An Introduction. Trans. David Lorton. Ithaca: Cornell Univ. Press, 1999.
 
-of the Royal Anthropological Institute of Great Britain and Ireland
+Horridge, Adrian. “The Story of Pacific Canoes and Their Rigs.” In From Buckfast to Borneo: Essays Presented to Father Robert Nicholl on the 85th Anniversary of His Birth, 27 March 1995, ed. by Victor T. King and A. V. M. Horton, 541–58. Hull: Centre for South-East Asian Studies, 1995.
 
-68 (1938): 339-48.
+Hourani, George F. Arab Seafaring in the Indian Ocean in Ancient and Early Medieval Times. Revd. by John Carswell. Princeton: Princeton Univ. Press, 1995.
 
-------. "Indonesian Influence on East African Culture." Journal of
+Howe, Octavius T., and Frederick C. Matthews. American Clipper Ships, 1833–1858. 2 vols. Salem: Marine Research Society, 1927.
 
-the Royal Anthropological Institute of Great Britain and Ireland 64
+Howse, Derek. “The Lunar-Distance Method of Measuring Longitude.” In The Quest for Longitude, ed. by Andrewes, 150–61.
 
-(1934): 305-32.
+Hsü, Immanuel C. Y. The Rise of Modern China. 4th ed. Oxford: Oxford Univ. Press, 1990.
 
-------. "The Role of Birds in Early Navigation." Antiquity 20 (1946):
+Hudson, Travis, Janice Timbrook, and Melissa Rempe. Tomol: Chumash Watercraft as Described in the Ethnographic Notes of John P. Harrington. Socorro, NM: Ballena, 1978.
 
-142-49.
-
-------. Water Transport Origins and Early Revolution. Cambridge:
-
-Cambridge Univ. Press, 1946.
-
-Hornung, Erik. History of Ancient Egypt: An Introduction. Trans.
-
-David Lorton. Ithaca: Cornell Univ. Press, 1999.
-
-Horridge, Adrian. "The Story of Pacific Canoes and Their Rigs." In
-
-From Buckfast to Borneo: Essays Presented to Father Robert
-
-Nicholl on the 85th Anniversary of His Birth, 27 March 1995, ed. by
-
-Victor T. King and A. V. M. Horton, 541-58. Hull: Centre for
-
-South-East Asian Studies, 1995.
-
-Hourani, George F. Arab Seafaring in the Indian Ocean in Ancient and
-
-Early Medieval Times. Revd. by John Carswell. Princeton: Princeton
-
-Univ. Press, 1995.
-
-Howe, Octavius T., and Frederick C. Matthews. American Clipper
-
-Ships, 1833-1858. 2 vols. Salem: Marine Research Society, 1927.
-
-Howse, Derek. "The Lunar-Distance Method of Measuring Longitude." In The Quest for Longitude, ed. by Andrewes, 150-61.
-
-Hsü, Immanuel C. Y. The Rise of Modern China. 4th ed. Oxford:
-
-Oxford Univ. Press, 1990.
-
-Hudson, Travis, Janice Timbrook, and Melissa Rempe. Tomol:
-
-Chumash Watercraft as Described in the Ethnographic Notes of
-
-John P. Harrington. Socorro, NM: Ballena, 1978.
-
-Hughes, Lindsey. Peter the Great: A Biography. New Haven: Yale
-
-Univ. Press, 2002.
+Hughes, Lindsey. Peter the Great: A Biography. New Haven: Yale Univ. Press, 2002.
 
 Huler, Scott. Defining the Wind. New York: Three Rivers, 2004.
 
-Humins, John H. "Squanto and Massasoit: A Struggle for Power." New
+Humins, John H. “Squanto and Massasoit: A Struggle for Power.” New England Quarterly 60:1 (1987): 54–70.
 
-England Quarterly 60:1 (1987): 54-70.
+Hunter, Louis C. Steamboats on the Western Rivers: An Economic and Technological History. Cambridge: Harvard Univ. Press, 1949.
 
-Hunter, Louis C. Steamboats on the Western Rivers: An Economic and
+Hydrographer of the Navy. Ocean Passages for the World. 2nd ed. London: Hydrographic Department, Admiralty, 1950.
 
-Technological History. Cambridge: Harvard Univ. Press, 1949.
+Ibn Battuta. The Travels of Ibn Battuta, A.D. 1325–1354. Trans. H. A. R. Gibb. 5 vols. London: Hakluyt, 1958–2000.
 
-Hydrographer of the Navy. Ocean Passages for the World. 2nd ed.
+Ibn Jubayr. The Travels of Ibn Jubayr. Trans. R. J. C. Broadhurst. London: Jonathan Cape, 1952.
 
-London: Hydrographic Department, Admiralty, 1950.
+Ibn Khaldun. The Muqaddimah: An Introduction to History. Trans. Franz Rosenthal. 3 vols. New York: Pantheon, 1958.
 
-Ibn Battuta. The Travels of Ibn Battuta, A.D. 1325-1354. Trans. H. A.
+Ilanko Atikal. The Tale of an Anklet: An Epic of South India. The Cilappatikaram of Ilanko Atikal. Trans. R. Parthasarathy. New York: Columbia Univ. Press, 1993.
 
-R. Gibb. 5 vols. London: Hakluyt, 1958-2000.
+Imber, Colin. The Ottoman Empire, 1300–1650: The Structure of Power. New York: Palgrave Macmillan, 2002.
 
-Ibn Jubayr. The Travels of Ibn Jubayr. Trans. R. J. C. Broadhurst.
+Inalcik, Halil. “The Ottoman State: Economy and Society, 1300–1600.” In An Economic and Social History of the Ottoman Empire, 1300–1914, ed. by Halil Inalcik with Donald Quataert, 1:9–410. Cambridge: Cambridge Univ. Press, 1994.
 
-London: Jonathan Cape, 1952.
+“The International Geographical Congress of 1895.” Geographical Journal, 8 (1896): 290–94.
 
-Ibn Khaldun. The Muqaddimah: An Introduction to History. Trans.
+International Maritime Organization. International Shipping and World Trade: Facts and Figures. London: IMO Maritime Knowledge Centre, 2009.
 
-Franz Rosenthal. 3 vols. New York: Pantheon, 1958.
+———. “List of IMO Conventions.” http://www.imo.org/About/Conventions/ListOfConventions/Pages/D efault.aspx.
 
-Ilanko Atikal. The Tale of an Anklet: An Epic of South India. The
+———. International Maritime Organization. SOLAS 1974: Brief History—List of Amendments to Date and Where to Find Them. http://www.imo.org/KnowledgeCentre/ReferencesAndArchives/Hist oryofSOLAS.
 
-Cilappatikaram of Ilanko Atikal. Trans. R. Parthasarathy. New York:
+International Military Tribunal. Trial of the Major War Criminals Before the International Military Tribunal, Nuremberg. Vol. 17, Proceedings, 25 June 1946–8 July 1946. Nuremberg: n.p., 1948.
 
-Columbia Univ. Press, 1993.
+International Whaling Commission. “Whale Sanctuaries.” http://iwcoffice.org/conservation/sanctuaries.htm.
 
-Imber, Colin. The Ottoman Empire, 1300-1650: The Structure of
+Irwin, Geoffrey. The Prehistoric Exploration and Colonisation of the Pacific. Cambridge: Cambridge Univ. Press, 1992.
 
-Power. New York: Palgrave Macmillan, 2002.
+Islam, Sirajul, and Sajahan Miah, eds. “Trade and Commerce.” http://banglapedia.search.com.bd/HT/T_0204.htm.
 
-Inalcik, Halil. "The Ottoman State: Economy and Society, 1300-
+Israel, Jonathan Irvine. Dutch Primacy in World Trade, 1585–1740. Oxford: Clarendon Press, 1989.
 
-1600." In An Economic and Social History of the Ottoman Empire,
+Isserlin, B. S. J., et al. “The Canal of Xerxes: Investigations in 1993–4.” Annual of the British School at Athens 91 (1996): 329–40.
 
-1300-1914, ed. by Halil Inalcik with Donald Quataert, 1:9-410.
+Ittersum, Martine Julia van. “Hugo Grotius in Context: Van Heemskerck’s Capture of the Santa Catarina and Its Justification in De Jure Praedae (1604–1606).” Asian Journal of Social Science 31 (2003): 511–48.
 
-Cambridge: Cambridge Univ. Press, 1994.
+Jackson, Richard P. “From Profit-Sailing to Wage-Sailing: Mediterranean Owner-Captains and Their Crews During the Medieval Commercial Revolution.” Journal of European Economic History 18:3 (1989): 605–28.
 
-"The International Geographical Congress of 1895." Geographical
+Jacq-Hergoualc’h, Michel. The Malay Peninsula Crossroads of the Maritime Silk Road (100 bc–1300 ad). Leiden: Brill, 2002.
 
-Journal, 8 (1896): 290-94.
+Jados, Stanley S. Consulate of the Sea and Related Documents. University: Univ. of Alabama Press, 1975.
 
-International Maritime Organization. International Shipping and World
+James, Alan. “The Development of French Naval Policy: Richelieu’s Early Aims and Ambitions.” French History 12:4 (1998): 384–402.
 
-Trade: Facts and Figures. London: IMO Maritime Knowledge
+James, Margery Kirkbride, ed. by Elspeth M. Veale. Studies in the Medieval Wine Trade. Oxford: Clarendon Press, 1971.
 
-Centre, 2009.
+Jane, Cecil, ed. Select Documents Illustrating the Four Voyages of Columbus. 2 vols. London: Hakluyt, 1930–33.
 
-------.
+Jay, Peter. The Greek Anthology and Other Ancient Epigrams. Harmondsworth: Penguin, 1981.
 
-"List of IMO Conventions." http://www.imo.org/About/Conventions/ListOfConventions/Pages/D
+Jenkins, Nancy. The Boat Beneath the Pyramid: King Cheops’ Royal Ship. New York: Holt, Rinehart & Winston, 1980.
 
-efault.aspx.
+Jenkins, R. J. H. “Cyprus Between Byzantium and Islam, A.D. 688–965.” In Studies Presented to D. M. Robinson, ed. by G. E. Mylonas, 2:1006–1014. St. Louis: Washington Univ. Press, 1953.
 
-------. International Maritime Organization. SOLAS 1974: Brief
+Jesch, Judith. “Who Was Wulfstan.” In Wulfstan’s Voyage, ed. by Englert and Trakadas, 29–36.
 
-History--List of Amendments to Date and Where to Find Them.
+Johns, Anthony H. “Islam in Southeast Asia: Reflections and New Directions.” Indonesia 19 (1975): 33–55.
 
-http://www.imo.org/KnowledgeCentre/ReferencesAndArchives/Hist
+Johnson, Donald S. Charting the Sea of Darkness: The Four Voyages of Henry Hudson. New York: McGraw Hill, 1993.
 
-oryofSOLAS.
+Johnstone, Paul. The Sea-craft of Prehistory. London: Routledge & Kegan Paul, 1980.
 
-International Military Tribunal. Trial of the Major War Criminals
+Jones, Clement. Pioneer Shipowners. Liverpool: Journal of Commerce and Shipping Telegraph, 1935.
 
-Before the International Military Tribunal, Nuremberg. Vol. 17,
+Jones, Gwyn. A History of the Vikings. New York: Oxford Univ. Press, 1968.
 
-Proceedings, 25 June 1946-8 July 1946. Nuremberg: n.p., 1948.
+Jones, Nicolette. The Plimsoll Sensation: The Great Campaign to Save Lives at Sea. London: Abacus, 2007.
 
-International Whaling Commission. "Whale Sanctuaries." http://iwcoffice.org/conservation/sanctuaries.htm.
+Jonkers, A. R. T. “Sailing Directions.” In The Oxford Encyclopedia of Maritime History, ed. by Hattendorf, 3:457–63.
 
-Irwin, Geoffrey. The Prehistoric Exploration and Colonisation of the
+Jöns, Hauke. “Ports and Emporia of the Southern Coast: From Hedeby to Usedom and Wolin.” In Wulfstan’s Voyage, ed. by Englert and Trakadas, 160–81.
 
-Pacific. Cambridge: Cambridge Univ. Press, 1992.
+Juvenal. The Sixteen Satires. Trans. Peter Green. Harmondsworth: Penguin, 1967.
 
-Islam, Sirajul, and Sajahan Miah, eds. "Trade and Commerce."
+Kalland, Arne. Fishing Villages in Tokugawa Japan. Honolulu: Univ. of Hawai’i Press, 1995.
 
-http://banglapedia.search.com.bd/HT/T_0204.htm.
+Kaminiates, John. The Capture of Thessaloniki. Trans. D. Frendo, A. Fotiou and G. Böhlig. Perth: Australian Assoc. for Byzantine Studies, 2000.
 
-Israel, Jonathan Irvine. Dutch Primacy in World Trade, 1585-1740.
+Kaukiainen, Yrjö. “Coal and Canvas: Aspects of the Competition Between Steam and Sail, c. 1870–1914.” In Sail and Steam: Selected Maritime Writings of Yrjö Kaukiainen. Compiled by Lars U. Scholl and Merja-Liisa Hinkkanen, 113–28. St. John’s, NL: International Maritime Economic History Assoc., 2004.
 
-Oxford: Clarendon Press, 1989.
+Kautilya, and R. P. Kangle, trans. The Kautiliya Arthasastra, pt. 2. 2nd ed. Bombay: Univ. of Bombay, 1972.
 
-Isserlin, B. S. J., et al. "The Canal of Xerxes: Investigations in 1993-
+Keay, John. The Honourable Company: A History of the English East India Company. London: HarperCollins, 1995.
 
-4." Annual of the British School at Athens 91 (1996): 329-40.
+———. India: A History. New York: Grove, 2000.
 
-Ittersum, Martine Julia van. "Hugo Grotius in Context: Van
+Keith, Donald H., and Christian J. Buys. “New Light on Medieval Chinese Seagoing Ship Construction.” IJNA 10 (1981): 119–32.
 
-Heemskerck's Capture of the Santa Catarina and Its Justification in
+Kelly, Patrick J. Tirpitz and the Imperial German Navy. Bloomington: Indiana Univ. Press, 2011.
 
-De Jure Praedae (1604-1606)." Asian Journal of Social Science 31
+Kemp, John. “The COLREGS and the Princess Alice.” Journal of Navigation 61 (2008): 271–81.
 
-(2003): 511-48.
+Kennedy, Paul M. “The Development of German Naval Operations Plans Against England, 1896–1914.” In The War Plans of the Great Powers, 1880–1914, ed. by Paul M. Kennedy, 171–98. London: Unwin Hyman, 1979.
 
-Jackson, Richard P. "From Profit-Sailing to Wage-Sailing: Mediterranean Owner-Captains and Their Crews During the
+———. The Rise and Fall of British Naval Mastery. London: Ashfield, 1987.
 
-Medieval Commercial Revolution." Journal of European Economic
+Kerner, Robert J. The Urge to the Sea: The Course of Russian History —The Role of Rivers, Portages, Ostrogs, Monasteries and Furs. Berkeley: Univ. of California Press, 1942.
 
-History 18:3 (1989): 605-28.
+Khalilieh, Hassan S. Admiralty and Maritime Laws in the Mediterranean Sea (ca. 800–1050): The Kitab Akriyat Al-Sufun Vis-à-Vis the Nomos Rhodion Nautikos. Leiden: Brill, 2006.
 
-Jacq-Hergoualc'h, Michel. The Malay Peninsula Crossroads of the
+———. Islamic Maritime Law: An Introduction. Leiden: Brill, 1998.
 
-Maritime Silk Road (100 bc-1300 ad). Leiden: Brill, 2002.
+Kim, H. Edward, and Donald H. Keith. “A 14th-Century Cargo Makes Port at Last.” National Geographic 156:2 (Aug. 1979): 230–43.
 
-Jados, Stanley S. Consulate of the Sea and Related Documents.
+Kim, Zae-Geun. “An Outline of Korean Shipbuilding History.” Korea Journal 29:10 (Oct. 1989): 4–17.
 
-University: Univ. of Alabama Press, 1975.
+King, Andrew L. “ ‘John Harrison, Clockmaker at Barrow; Near Barton upon Humber; Lincolnshire’: The Wooden Clocks, 1713–1730.” In The Quest for Longitude, ed. by Andrewes, 168–87.
 
-James, Alan. "The Development of French Naval Policy: Richelieu's
+King, Charles. The Black Sea: A History. New York: Oxford Univ. Press, 2004.
 
-Early Aims and Ambitions." French History 12:4 (1998): 384-402.
+Kirby, David, and Merja-Liisa Hinkkanen. The Baltic and North Seas. London: Routledge, 2000.
 
-James, Margery Kirkbride, ed. by Elspeth M. Veale. Studies in the
-
-Medieval Wine Trade. Oxford: Clarendon Press, 1971.
-
-Jane, Cecil, ed. Select Documents Illustrating the Four Voyages of
-
-Columbus. 2 vols. London: Hakluyt, 1930-33.
-
-Jay, Peter. The Greek Anthology and Other Ancient Epigrams.
-
-Harmondsworth: Penguin, 1981.
-
-Jenkins, Nancy. The Boat Beneath the Pyramid: King Cheops' Royal
-
-Ship. New York: Holt, Rinehart & Winston, 1980.
-
-Jenkins, R. J. H. "Cyprus Between Byzantium and Islam, A.D. 688-
-
-965." In Studies Presented to D. M. Robinson, ed. by G. E. Mylonas,
-
-2:1006-1014. St. Louis: Washington Univ. Press, 1953.
-
-Jesch, Judith. "Who Was Wulfstan." In Wulfstan's Voyage, ed. by
-
-Englert and Trakadas, 29-36.
-
-Johns, Anthony H. "Islam in Southeast Asia: Reflections and New
-
-Directions." Indonesia 19 (1975): 33-55.
-
-Johnson, Donald S. Charting the Sea of Darkness: The Four Voyages
-
-of Henry Hudson. New York: McGraw Hill, 1993.
-
-Johnstone, Paul. The Sea-craft of Prehistory. London: Routledge &
-
-Kegan Paul, 1980.
-
-Jones, Clement. Pioneer Shipowners. Liverpool: Journal of Commerce
-
-and Shipping Telegraph, 1935.
-
-Jones, Gwyn. A History of the Vikings. New York: Oxford Univ. Press,
-
-1968.
-
-Jones, Nicolette. The Plimsoll Sensation: The Great Campaign to Save
-
-Lives at Sea. London: Abacus, 2007.
-
-Jonkers, A. R. T. "Sailing Directions." In The Oxford Encyclopedia of
-
-Maritime History, ed. by Hattendorf, 3:457-63.
-
-Jöns, Hauke. "Ports and Emporia of the Southern Coast: From Hedeby
-
-to Usedom and Wolin." In Wulfstan's Voyage, ed. by Englert and
-
-Trakadas, 160-81.
-
-Juvenal. The Sixteen Satires. Trans. Peter Green. Harmondsworth:
-
-Penguin, 1967.
-
-Kalland, Arne. Fishing Villages in Tokugawa Japan. Honolulu: Univ.
-
-of Hawai'i Press, 1995.
-
-Kaminiates, John. The Capture of Thessaloniki. Trans. D. Frendo, A.
-
-Fotiou and G. Böhlig. Perth: Australian Assoc. for Byzantine
-
-Studies, 2000.
-
-Kaukiainen, Yrjö. "Coal and Canvas: Aspects of the Competition
-
-Between Steam and Sail, c. 1870-1914." In Sail and Steam:
-
-Selected Maritime Writings of Yrjö Kaukiainen. Compiled by Lars
-
-U. Scholl and Merja-Liisa Hinkkanen, 113-28. St. John's, NL:
-
-International Maritime Economic History Assoc., 2004.
-
-Kautilya, and R. P. Kangle, trans. The Kautiliya Arthasastra, pt. 2. 2nd
-
-ed. Bombay: Univ. of Bombay, 1972.
-
-Keay, John. The Honourable Company: A History of the English East
-
-India Company. London: HarperCollins, 1995.
-
-------. India: A History. New York: Grove, 2000.
-
-Keith, Donald H., and Christian J. Buys. "New Light on Medieval
-
-Chinese Seagoing Ship Construction." IJNA 10 (1981): 119-32.
-
-Kelly, Patrick J. Tirpitz and the Imperial German Navy. Bloomington:
-
-Indiana Univ. Press, 2011.
-
-Kemp, John. "The COLREGS and the Princess Alice." Journal of
-
-Navigation 61 (2008): 271-81.
-
-Kennedy, Paul M. "The Development of German Naval Operations
-
-Plans Against England, 1896-1914." In The War Plans of the Great
-
-Powers, 1880-1914, ed. by Paul M. Kennedy, 171-98. London:
-
-Unwin Hyman, 1979.
-
-------. The Rise and Fall of British Naval Mastery. London:
-
-Ashfield, 1987.
-
-Kerner, Robert J. The Urge to the Sea: The Course of Russian History
-
---The Role of Rivers, Portages, Ostrogs, Monasteries and Furs.
-
-Berkeley: Univ. of California Press, 1942.
-
-Khalilieh, Hassan S. Admiralty and Maritime Laws in the
-
-Mediterranean Sea (ca. 800-1050): The Kitab Akriyat Al-Sufun Vis-
-
-à-Vis the Nomos Rhodion Nautikos. Leiden: Brill, 2006.
-
-------. Islamic Maritime Law: An Introduction. Leiden: Brill, 1998.
-
-Kim, H. Edward, and Donald H. Keith. "A 14th-Century Cargo Makes
-
-Port at Last." National Geographic 156:2 (Aug. 1979): 230-43.
-
-Kim, Zae-Geun. "An Outline of Korean Shipbuilding History." Korea
-
-Journal 29:10 (Oct. 1989): 4-17.
-
-King, Andrew L. " 'John Harrison, Clockmaker at Barrow; Near
-
-Barton upon Humber; Lincolnshire': The Wooden Clocks, 1713-
-
-1730." In The Quest for Longitude, ed. by Andrewes, 168-87.
-
-King, Charles. The Black Sea: A History. New York: Oxford Univ.
-
-Press, 2004.
-
-Kirby, David, and Merja-Liisa Hinkkanen. The Baltic and North Seas.
-
-London: Routledge, 2000.
-
-Kirch, Patrick Vinton. On the Road of the Winds: An Archaeological
-
-History of the Pacific Islands Before European Contact. Berkeley:
-
-Univ. of California Press, 2000.
+Kirch, Patrick Vinton. On the Road of the Winds: An Archaeological History of the Pacific Islands Before European Contact. Berkeley: Univ. of California Press, 2000.
 
 Klooster, Wim. Illicit Riches. Leiden: KITLV, 1998.
 
-Knaap, Gerrit J., and Heather Sutherland. Monsoon Traders. Leiden:
+Knaap, Gerrit J., and Heather Sutherland. Monsoon Traders. Leiden: KITLV, 2004.
 
-KITLV, 2004.
+Knecht, Robert Jean. Renaissance Warrior and Patron: The Reign of Francis I. Cambridge: Cambridge Univ. Press, 1994.
 
-Knecht, Robert Jean. Renaissance Warrior and Patron: The Reign of
+Knight, Roger. The Pursuit of Victory: The Life and Achievement of Horatio Nelson. New York: Basic Books, 2005.
 
-Francis I. Cambridge: Cambridge Univ. Press, 1994.
+Koeman, Cornelis, Günter Schilder, Marco van Egmond, et al., “Commercial Cartography and Map Production in the Low Countries, 1500–ca. 1672.” In The History of Cartography. Vol. 3, Cartography in the Renaissance, ed. by David Woodward, 1296–383. Chicago: University of Chicago Press, 2007.
 
-Knight, Roger. The Pursuit of Victory: The Life and Achievement of
+Kortepeter, Carl M. “Ottoman Imperial Policy and the Economy of the Black Sea Region in the Sixteenth Century.” JAOS 86:2 (1966): 86–113.
 
-Horatio Nelson. New York: Basic Books, 2005.
+Kowaleski, Maryann. “Commercialization of the Sea Fisheries in Medieval England and Wales.” International Journal of Maritime History 15:2 (2005): 177–231.
 
-Koeman, Cornelis, Günter Schilder, Marco van Egmond, et al.,
+Kramer, Samuel Noah, and John R. Maier. Myths of Enki, the Crafty God. New York: Oxford Univ. Press, 1989.
 
-"Commercial Cartography and Map Production in the Low
+Kubiak, Wladyslaw B. “The Byzantine Attack on Damietta in 853 and the Egyptian Navy in the 9th Century.” Byzantion 40 (1970): 45–66.
 
-Countries, 1500-ca. 1672." In The History of Cartography. Vol. 3,
+Kuhrt, Amélie. The Ancient Near East. 2 vols. New York: Routledge, 1997.
 
-Cartography in the Renaissance, ed. by David Woodward, 1296-
+Kulkarni, A. R. “Marathas and the Sea.” In Maritime Heritage of India, ed. by K. S. Behera, 206–13. New Delhi: Aryan Books, 1999.
 
-383. Chicago: University of Chicago Press, 2007.
+Kulke, Hermann. “The Naval Expeditions of the Cholas.” In Nagapattinam to Suvarnadvipa, ed. by Kulke, Kesavapany, and Sakhuja, 1–19.
 
-Kortepeter, Carl M. "Ottoman Imperial Policy and the Economy of the
+Kulke, Hermann, K. Kesavapany, and Vijay Sakhuja, eds. Nagapattinam to Suvarnadvipa: Reflections on the Chola Naval Expeditions to Southeast Asia. Singapore: ISEAS, 2009.
 
-Black Sea Region in the Sixteenth Century." JAOS 86:2 (1966): 86-
+Kuwabara, Jitsuzo. “On P’u Shou-keng, a Man of the Western Regions, Who Was Superintendent of the Trading Ships Office in Ch’uan-chou Towards the End of the Sung Dynasty.” Memoirs of the Research Department of the Toyo Bunko 2 (1928): 1–79.
 
-113.
+Labaree, Benjamin Woods. The Boston Tea Party. New York: Oxford Univ. Press, 1964.
 
-Kowaleski, Maryann. "Commercialization of the Sea Fisheries in
+Laiou, Angeliki E. “Byzantine Traders and Seafarers.” In The Greeks and the Sea, ed. by Spyros Vryonis, Jr., 79–96. New Rochelle: Caratzas, 1992.
 
-Medieval England and Wales." International Journal of Maritime
+Lambert, Andrew. Battleships in Transition: The Creation of the Steam Battlefleet, 1815–1860. London: Conway Maritime, 1984.
 
-History 15:2 (2005): 177-231.
+———. The Crimean War: British Grand Strategy Against Russia, 1853–56. Manchester, UK: Manchester Univ. Press, 1990.
 
-Kramer, Samuel Noah, and John R. Maier. Myths of Enki, the Crafty
+———. Warrior: Restoring the World’s First Ironclad. London: Conway Maritime, 1987.
 
-God. New York: Oxford Univ. Press, 1989.
+Landström, Björn. Ships of the Pharaohs: 4,000 Years of Egyptian Shipbuilding. New York: Doubleday, 1970.
 
-Kubiak, Wladyslaw B. "The Byzantine Attack on Damietta in 853 and
+Lane, Frederic C. “The Crossbow in the Nautical Revolution of the Middle Ages.” In Economy, Society, and Government in Medieval Italy: Essays in Memory of Robert L. Reynolds, ed. by David Herlihy, Robert S. Lopez, and Vsevolod Slessarev, 35–41. Kent: Kent State Univ. Press, 1969.
 
-the Egyptian Navy in the 9th Century." Byzantion 40 (1970): 45-66.
+———. “The Economic Meaning of the Invention of the Compass.” American Historical Review 68:3 (1963): 605–17.
 
-Kuhrt, Amélie. The Ancient Near East. 2 vols. New York: Routledge,
+———. “The Economic Meaning of War and Protection.” In Venice and History: The Collected Papers of Frederic C. Lane, ed. by Fernand Braudel et al., 383–98. Baltimore: Johns Hopkins Univ. Press, 1966.
 
-1997.
+———. “The Mediterranean Spice Trade: Its Revival in the Sixteenth Century.” In Venice and History: The Collected Papers of Frederic C. Lane, 25–35. Baltimore: Johns Hopkins Univ. Press, 1966.
 
-Kulkarni, A. R. "Marathas and the Sea." In Maritime Heritage of
+———. Ships for Victory: A History of Shipbuilding Under the United States Maritime Commission in World War II. Baltimore: Johns Hopkins Univ. Press, 1951.
 
-India, ed. by K. S. Behera, 206-13. New Delhi: Aryan Books, 1999.
+———. “Venetian Shipping During the Commercial Revolution.” American Historical Review 38:2 (1933): 219–39.
 
-Kulke, Hermann. "The Naval Expeditions of the Cholas." In
+———. Venetian Ships and Shipbuilders of the Renaissance. 1934. Reprint, Baltimore: Johns Hopkins Univ. Press, 1992.
 
-Nagapattinam to Suvarnadvipa, ed. by Kulke, Kesavapany, and
+———. Venice: A Maritime Republic. Baltimore: Johns Hopkins Univ. Press, 1973.
 
-Sakhuja, 1-19.
+Lane, Kris E. Pillaging the Empire: Piracy in the Americas, 1500–1750. Armonk, NY: M. E. Sharpe, 1998.
 
-Kulke, Hermann, K. Kesavapany, and Vijay Sakhuja, eds.
+Lapidge, Michael, ed. Blackwell Encyclopaedia of Anglo-Saxon England. Oxford: Blackwell, 1999.
 
-Nagapattinam to Suvarnadvipa: Reflections on the Chola Naval
+Larson, Laurence Marcellus, trans. The King’s Mirror. New York: American-Scandinavian Foundation, 1917.
 
-Expeditions to Southeast Asia. Singapore: ISEAS, 2009.
+Las Casas, Bartolomé de. Las Casas on Columbus: Background and the Second and Fourth Voyages. Trans. Nigel Griffin. Repertorium Columbianum 7. Turnhout, Belgium: Brepols, 1999.
 
-Kuwabara, Jitsuzo. "On P'u Shou-keng, a Man of the Western
+Lavery, Brian. The Ship of the Line: The Development of the Battlefleet, 1650–1850. London: Conway Maritime, 2003.
 
-Regions, Who Was Superintendent of the Trading Ships Office in
+Lazenby, J. F. “Diekplous.” Greece and Rome, 2nd ser., 34:2 (1987): 169–77.
 
-Ch'uan-chou Towards the End of the Sung Dynasty." Memoirs of
+Leamon, James S. Revolution Downeast: The War for American Independence in Maine. Amherst: Univ. of Massachusetts Press, 1993.
 
-the Research Department of the Toyo Bunko 2 (1928): 1-79.
+Lebecq, Stéphane. Marchands et navigateurs frisons du haut Moyen Age. Lille, France: Presses universitaires de Lille, 1983.
 
-Labaree, Benjamin Woods. The Boston Tea Party. New York: Oxford
+———. “The Northern Seas (Fifth to Eighth Centuries).” In The New Cambridge Medieval History. Vol. 1, c. 500–c. 700, ed. by Paul Fouracre, 639–60. Cambridge: Cambridge Univ. Press, 1995.
 
-Univ. Press, 1964.
+Lee, Edwin. Singapore: The Unexpected Nation. Singapore: Institute of Southeast Asian Studies, 2008.
 
-Laiou, Angeliki E. "Byzantine Traders and Seafarers." In The Greeks
+Lee, Kenneth B. Korea and East Asia: The Story of a Phoenix. Westport: Praeger, 1997.
 
-and the Sea, ed. by Spyros Vryonis, Jr., 79-96. New Rochelle:
+Lee, Ki-baek. A New History of Korea. Trans. Edward W. Wagner. Cambridge: Harvard-Yenching Institute, 1984.
 
-Caratzas, 1992.
+Leighton, Richard M., and Robert W. Coakley. Global Logistics and Strategy. 2 vols. 1955. Reprint, Washington: Center of Military History, 1995.
 
-Lambert, Andrew. Battleships in Transition: The Creation of the Steam
+Leitholdt, Eva, Christoph Zielhofer, Stefanie Berg-Hobohm, et al. “Fossa Carolina: The First Attempt to Bridge the Central European Watershed—A Review, New Findings, and Geoarchaeological Challenges.” Geoarchaeology 27:1 (2012): 88–104.
 
-Battlefleet, 1815-1860. London: Conway Maritime, 1984.
+Lend-Lease Act. Public Law 77–11, 77th Cong., 1st sess. (Mar. 11, 1941).
 
-------. The Crimean War: British Grand Strategy Against Russia,
+Leshnik, Lawrence S. “The Harappan ‘Port’ at Lothal: Another View.” In Ancient Cities of the Indus, ed. by Gregory L. Possehl, 203–11. Durham: Carolina Academic Press, 1979.
 
-1853-56. Manchester, UK: Manchester Univ. Press, 1990.
+Levi, Sylvain. “Manimekhala, a Divinity of the Sea.” Indian Historical Quarterly 6:4 (1930): 597–614.
 
-------. Warrior: Restoring the World's First Ironclad. London:
+Levinson, Marc. The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger. Princeton: Princeton University Press, 2006.
 
-Conway Maritime, 1987.
+Levy, Howard S. Biography of Huang Ch’ao. Trans. Howard S. Levy. Berkeley: Univ. of California Press, 1955.
 
-Landström, Björn. Ships of the Pharaohs: 4,000 Years of Egyptian
+Lewis, Archibald R. “Northern European Sea Power and the Straits of Gibraltar, 1031–1350 A.D.” In Order and Innovation in the Middle Ages: Essays in Honor of Joseph R. Strayer, ed. by William C. Jordan, Bruce McNab, and Teofilo F. Ruiz, 139–64. Princeton: Princeton Univ. Press, 1976.
 
-Shipbuilding. New York: Doubleday, 1970.
+Lewis, David. We, the Navigators: The Ancient Art of Landfinding in the Pacific. 2nd ed. Honolulu: Univ. of Hawai’i Press, 1994.
 
-Lane, Frederic C. "The Crossbow in the Nautical Revolution of the
+Li Guo-Qing. “Archaeological Evidence for the Use of ‘Chu-nam’ on the 13th Century Quanzhou Ship, Fujian Province, China.” IJNA 18:4 (1989): 277–83.
 
-Middle Ages." In Economy, Society, and Government in Medieval
+Li Tana. “A View from the Sea: Perspectives on the Northern and Central Vietnamese Coast.” JSEAS 37:1 (2006): 83–102.
 
-Italy: Essays in Memory of Robert L. Reynolds, ed. by David
+Lieberman, Victor. Strange Parallels: Southeast Asia in Global Context, c. 800–1830. 2 vols. Cambridge: Cambridge Univ. Press, 2003–9.
 
-Herlihy, Robert S. Lopez, and Vsevolod Slessarev, 35-41. Kent:
+Lien-sheng Yang. Money and Credit in China: A Short History. Cambridge: Harvard Univ. Press, 1952.
 
-Kent State Univ. Press, 1969.
+Linden, H. Vander. “Alexander VI and the Demarcation of the Maritime and Colonial Domains of Spain and Portugal, 1493–1494.” American Historical Review 22:1 (1916): 1–20.
 
-------. "The Economic Meaning of the Invention of the Compass."
+Linschoten, Jan Huygen van. The Voyage of John Huyghen van Linschoten to the East Indies, ed. by Arthur Coke Burnell and P. A. Tiele. 2 vols. London: Hakluyt, 1885.
 
-American Historical Review 68:3 (1963): 605-17.
+Lipke, Paul. The Royal Ship of Cheops: A Retrospective Account of the Discovery, Restoration and Reconstruction. Based on Interviews with Hag Ahmed Youssef Moustafa. Oxford: British Archaeological Reports, 1984.
 
-------. "The Economic Meaning of War and Protection." In Venice
+Liritzis, Veronica McGeehan. “Seafaring, Craft and Cultural Contact in the Aegean During the 3rd Millennium bc.” IJNA 17:3 (1988): 237–56.
 
-and History: The Collected Papers of Frederic C. Lane, ed. by
+Livy. Rome and Italy: Books 6 to 10. Trans. Betty Radice. New York: Penguin, 1982.
 
-Fernand Braudel et al., 383-98. Baltimore: Johns Hopkins Univ.
+———. Rome and the Mediterranean: Books 31–45. Trans. Henry Bettenson. New York: Penguin, 1976.
 
-Press, 1966.
+Lloyd, Alan B. “Necho and the Red Sea: Some Considerations.” Journal of Egyptian Archaeology 63 (1977): 142–55.
 
-------. "The Mediterranean Spice Trade: Its Revival in the Sixteenth
+Lloyd, Christopher. “Victualling of the Fleet in the Eighteenth and Nineteenth Centuries.” In Starving Sailors: The Influence of Nutrition upon Naval and Maritime History, ed. by J. Watt, E. J. Freeman, and W. F. Bynum, 9–15. London: National Maritime Museum, 1981.
 
-Century." In Venice and History: The Collected Papers of Frederic
+Lo Jung-Pang. “Chinese Shipping and East-West Trade from the Tenth to the Fourteenth Century.” In Sociétés et compagnies de commerce en Orient et dans l’océan Indien: actes du huitième colloque international d’histoire maritime (Beyrouth, 5–10 septembre 1966), ed. by Michel Mollat, 167–75. Paris: S.E.V.P.E.N., 1970.
 
-C. Lane, 25-35. Baltimore: Johns Hopkins Univ. Press, 1966.
+———. “Controversy over Grain Conveyance During the Reign of Qubilai Qaqn, 1260–94.” Far Eastern Quarterly 13:3 (1954): 262–85.
 
-------. Ships for Victory: A History of Shipbuilding Under the United
+———. “The Decline of the Early Ming Navy.” Oriens Extremus. 5 (1958): 149–68.
 
-States Maritime Commission in World War II. Baltimore: Johns
+———. “The Termination of the Early Ming Naval Expeditions.” In Papers in Honour of Professor Woodbridge Bingham, a Festchrift for His Seventy-Fifth Birthday, ed. by James B. Parson. San Francisco: Chinese Materials Center, 1976.
 
-Hopkins Univ. Press, 1951.
+Lockhart, James, and Enrique Otte. Letters and People of the Spanish Indies, Sixteenth Century. Cambridge: Cambridge Univ. Press, 1976.
 
-------. "Venetian Shipping During the Commercial Revolution."
+LoGerfo, James W. “Sir William Dolben and ‘The Cause of Humanity’: The Passage of the Slave Trade Regulation Act of 1788.” Eighteenth-Century Studies 6:4 (1973): 431–51.
 
-American Historical Review 38:2 (1933): 219-39.
+Lombard, Maurice. “Arsenaux et bois de marine dans la Méditerranée musulmane (VIIe-XIe siècle).” In Le navire et l’économie maritime du Moyen-Age au XVIIIe siècle principalement en Méditerranée, ed. by M. Mollat, 53–106. Paris: S.E.V.P.E.N., 1958.
 
-------. Venetian Ships and Shipbuilders of the Renaissance. 1934.
+Longnaker, J. L. “History of Insurance Law.” Insurance Law Journal 477 (1962): 644–46.
 
-Reprint, Baltimore: Johns Hopkins Univ. Press, 1992.
+Lopez, Robert S. “Back to Gold, 1252.” Economic History Review, n.s., 9:2 (1956): 219–40.
 
-------. Venice: A Maritime Republic. Baltimore: Johns Hopkins Univ.
+———. The Commercial Revolution of the Middle Ages, 950–1350. Cambridge: Cambridge Univ. Press, 1976.
 
-Press, 1973.
+———. “European Merchants in the Medieval Indies: The Evidence of Commercial Documents.” Journal of Economic History 3:2 (1943): 164–84.
 
-Lane, Kris E. Pillaging the Empire: Piracy in the Americas, 1500-
+———. “Majorcans and Genoese on the North Sea Route in the 13th Century.” Revue belge de philologie et d’histoire 29 (1951): 1163–79.
 
-1750. Armonk, NY: M. E. Sharpe, 1998.
+Lord, Henry. A Display of Two Forraigne Sects in the East Indies: Vizt: The Sect of the Banians the Ancient Natiues of India and the Sect of the Persees the Ancient Inhabitants of Persia. London: Francis Constable, 1630.
 
-Lapidge, Michael, ed. Blackwell Encyclopaedia of Anglo-Saxon
+Louisiana Department of Transportation and Development. LOOP Program. http://www.dotd.louisiana.gov/programs_grants/loop/.
 
-England. Oxford: Blackwell, 1999.
+Lowe, William C. “Confederate Naval Strategy: Letters of Marque.” http://ehistory.osu.edu/uscw/features/articles/0005/privateers.cfm.
 
-Larson, Laurence Marcellus, trans. The King's Mirror. New York:
+Lu, David J. Japan: A Documentary History. Armonk, NY: M. E. Sharpe, 1997.
 
-American-Scandinavian Foundation, 1917.
+Lucian. “The Ship or the Wishes.” In Lucian. Trans. K. Kilburn (Vol. 6). Cambridge: Harvard Univ. Press, 1959.
 
-Las Casas, Bartolomé de. Las Casas on Columbus: Background and
+Lyman, John. “Register Tonnage and Its Measurement.” 2 parts. American Neptune 5 (1945): 223–34, 311–25.
 
-the Second and Fourth Voyages. Trans. Nigel Griffin. Repertorium
+Ma Huan. Ying-yai Sheng-lan: The Overall Survey of the Ocean’s Shores [1433]. Trans. J. V. G. Mills. 1970. Reprint, Bangkok: White Lotus, 1997.
 
-Columbianum 7. Turnhout, Belgium: Brepols, 1999.
+Maber, John M. “Nordenfelt Submarines.” Warship 8 (1984): 218–25.
 
-Lavery, Brian. The Ship of the Line: The Development of the
+Macdougall, Norman. “ ’The Greattest Scheip That Ewer Saillit in Ingland or France.” In Scotland and War, ad 79–1918, 36–60. Savage, MD: Barnes & Noble, 1991.
 
-Battlefleet, 1650-1850. London: Conway Maritime, 2003.
+MacLeod, Roy M. “Social Policy and the ‘Floating Population’: The Administration of the Canal Boats Acts, 1877–1899.” Past and Present 35 (1966): 101–32.
 
-Lazenby, J. F. "Diekplous." Greece and Rome, 2nd ser., 34:2 (1987):
-
-169-77.
-
-Leamon, James S. Revolution Downeast: The War for American
-
-Independence in Maine. Amherst: Univ. of Massachusetts Press,
-
-1993.
-
-Lebecq, Stéphane. Marchands et navigateurs frisons du haut Moyen
-
-Age. Lille, France: Presses universitaires de Lille, 1983.
-
-------. "The Northern Seas (Fifth to Eighth Centuries)." In The New
-
-Cambridge Medieval History. Vol. 1, c. 500-c. 700, ed. by Paul
-
-Fouracre, 639-60. Cambridge: Cambridge Univ. Press, 1995.
-
-Lee, Edwin. Singapore: The Unexpected Nation. Singapore: Institute
-
-of Southeast Asian Studies, 2008.
-
-Lee, Kenneth B. Korea and East Asia: The Story of a Phoenix.
-
-Westport: Praeger, 1997.
-
-Lee, Ki-baek. A New History of Korea. Trans. Edward W. Wagner.
-
-Cambridge: Harvard-Yenching Institute, 1984.
-
-Leighton, Richard M., and Robert W. Coakley. Global Logistics and
-
-Strategy. 2 vols. 1955. Reprint, Washington: Center of Military
-
-History, 1995.
-
-Leitholdt, Eva, Christoph Zielhofer, Stefanie Berg-Hobohm, et al.
-
-"Fossa Carolina: The First Attempt to Bridge the Central European
-
-Watershed--A Review, New Findings, and Geoarchaeological
-
-Challenges." Geoarchaeology 27:1 (2012): 88-104.
-
-Lend-Lease Act. Public Law 77-11, 77th Cong., 1st sess. (Mar. 11,
-
-1941).
-
-Leshnik, Lawrence S. "The Harappan 'Port' at Lothal: Another View."
-
-In Ancient Cities of the Indus, ed. by Gregory L. Possehl, 203-11.
-
-Durham: Carolina Academic Press, 1979.
-
-Levi, Sylvain. "Manimekhala, a Divinity of the Sea." Indian Historical
-
-Quarterly 6:4 (1930): 597-614.
-
-Levinson, Marc. The Box: How the Shipping Container Made the
-
-World Smaller and the World Economy Bigger. Princeton: Princeton
-
-University Press, 2006.
-
-Levy, Howard S. Biography of Huang Ch'ao. Trans. Howard S. Levy.
-
-Berkeley: Univ. of California Press, 1955.
-
-Lewis, Archibald R. "Northern European Sea Power and the Straits of
-
-Gibraltar, 1031-1350 A.D." In Order and Innovation in the Middle
-
-Ages: Essays in Honor of Joseph R. Strayer, ed. by William C.
-
-Jordan, Bruce McNab, and Teofilo F. Ruiz, 139-64. Princeton:
-
-Princeton Univ. Press, 1976.
-
-Lewis, David. We, the Navigators: The Ancient Art of Landfinding in
-
-the Pacific. 2nd ed. Honolulu: Univ. of Hawai'i Press, 1994.
-
-Li Guo-Qing. "Archaeological Evidence for the Use of 'Chu-nam' on
-
-the 13th Century Quanzhou Ship, Fujian Province, China." IJNA
-
-18:4 (1989): 277-83.
-
-Li Tana. "A View from the Sea: Perspectives on the Northern and
-
-Central Vietnamese Coast." JSEAS 37:1 (2006): 83-102.
-
-Lieberman, Victor. Strange Parallels: Southeast Asia in Global
-
-Context, c. 800-1830. 2 vols. Cambridge: Cambridge Univ. Press,
-
-2003-9.
-
-Lien-sheng Yang. Money and Credit in China: A Short History.
-
-Cambridge: Harvard Univ. Press, 1952.
-
-Linden, H. Vander. "Alexander VI and the Demarcation of the
-
-Maritime and Colonial Domains of Spain and Portugal, 1493-
-
-1494." American Historical Review 22:1 (1916): 1-20.
-
-Linschoten, Jan Huygen van. The Voyage of John Huyghen van
-
-Linschoten to the East Indies, ed. by Arthur Coke Burnell and P. A.
-
-Tiele. 2 vols. London: Hakluyt, 1885.
-
-Lipke, Paul. The Royal Ship of Cheops: A Retrospective Account of the
-
-Discovery, Restoration and Reconstruction. Based on Interviews
-
-with Hag Ahmed Youssef Moustafa. Oxford: British Archaeological
-
-Reports, 1984.
-
-Liritzis, Veronica McGeehan. "Seafaring, Craft and Cultural Contact in
-
-the Aegean During the 3rd Millennium bc." IJNA 17:3 (1988): 237-
-
-56.
-
-Livy. Rome and Italy: Books 6 to 10. Trans. Betty Radice. New York:
-
-Penguin, 1982.
-
-------. Rome and the Mediterranean: Books 31-45. Trans. Henry
-
-Bettenson. New York: Penguin, 1976.
-
-Lloyd, Alan B. "Necho and the Red Sea: Some Considerations."
-
-Journal of Egyptian Archaeology 63 (1977): 142-55.
-
-Lloyd, Christopher. "Victualling of the Fleet in the Eighteenth and
-
-Nineteenth Centuries." In Starving Sailors: The Influence of
-
-Nutrition upon Naval and Maritime History, ed. by J. Watt, E. J.
-
-Freeman, and W. F. Bynum, 9-15. London: National Maritime
-
-Museum, 1981.
-
-Lo Jung-Pang. "Chinese Shipping and East-West Trade from the Tenth
-
-to the Fourteenth Century." In Sociétés et compagnies de commerce
-
-en Orient et dans l'océan Indien: actes du huitième colloque
-
-international d'histoire maritime (Beyrouth, 5-10 septembre 1966),
-
-ed. by Michel Mollat, 167-75. Paris: S.E.V.P.E.N., 1970.
-
-------. "Controversy over Grain Conveyance During the Reign of
-
-Qubilai Qaqn, 1260-94." Far Eastern Quarterly 13:3 (1954): 262-
-
-85.
-
-------. "The Decline of the Early Ming Navy." Oriens Extremus. 5
-
-(1958): 149-68.
-
-------. "The Termination of the Early Ming Naval Expeditions." In
-
-Papers in Honour of Professor Woodbridge Bingham, a Festchrift
-
-for His Seventy-Fifth Birthday, ed. by James B. Parson. San
-
-Francisco: Chinese Materials Center, 1976.
-
-Lockhart, James, and Enrique Otte. Letters and People of the Spanish
-
-Indies, Sixteenth Century. Cambridge: Cambridge Univ. Press,
-
-1976.
-
-LoGerfo, James W. "Sir William Dolben and 'The Cause of
-
-Humanity': The Passage of the Slave Trade Regulation Act of
-
-1788." Eighteenth-Century Studies 6:4 (1973): 431-51.
-
-Lombard, Maurice. "Arsenaux et bois de marine dans la Méditerranée
-
-musulmane (VIIe-XIe siècle)." In Le navire et l'économie maritime
-
-du Moyen-Age au XVIIIe siècle principalement en Méditerranée, ed.
-
-by M. Mollat, 53-106. Paris: S.E.V.P.E.N., 1958.
-
-Longnaker, J. L. "History of Insurance Law." Insurance Law Journal
-
-477 (1962): 644-46.
-
-Lopez, Robert S. "Back to Gold, 1252." Economic History Review,
-
-n.s., 9:2 (1956): 219-40.
-
-------. The Commercial Revolution of the Middle Ages, 950-1350.
-
-Cambridge: Cambridge Univ. Press, 1976.
-
-------. "European Merchants in the Medieval Indies: The Evidence
-
-of Commercial Documents." Journal of Economic History 3:2
-
-(1943): 164-84.
-
-------. "Majorcans and Genoese on the North Sea Route in the 13th
-
-Century." Revue belge de philologie et d'histoire 29 (1951): 1163-
-
-79.
-
-Lord, Henry. A Display of Two Forraigne Sects in the East Indies:
-
-Vizt: The Sect of the Banians the Ancient Natiues of India and the
-
-Sect of the Persees the Ancient Inhabitants of Persia. London:
-
-Francis Constable, 1630.
-
-Louisiana Department of Transportation and Development. LOOP
-
-Program. http://www.dotd.louisiana.gov/programs_grants/loop/.
-
-Lowe, William C. "Confederate Naval Strategy: Letters of Marque."
-
-http://ehistory.osu.edu/uscw/features/articles/0005/privateers.cfm.
-
-Lu, David J. Japan: A Documentary History. Armonk, NY: M. E.
-
-Sharpe, 1997.
-
-Lucian. "The Ship or the Wishes." In Lucian. Trans. K. Kilburn (Vol.
-
-6). Cambridge: Harvard Univ. Press, 1959.
-
-Lyman, John. "Register Tonnage and Its Measurement." 2 parts.
-
-American Neptune 5 (1945): 223-34, 311-25.
-
-Ma Huan. Ying-yai Sheng-lan: The Overall Survey of the Ocean's
-
-Shores [1433]. Trans. J. V. G. Mills. 1970. Reprint, Bangkok: White
-
-Lotus, 1997.
-
-Maber, John M. "Nordenfelt Submarines." Warship 8 (1984): 218-25.
-
-Macdougall, Norman. " 'The Greattest Scheip That Ewer Saillit in
-
-Ingland or France." In Scotland and War, ad 79-1918, 36-60.
-
-Savage, MD: Barnes & Noble, 1991.
-
-MacLeod, Roy M. "Social Policy and the 'Floating Population': The
-
-Administration of the Canal Boats Acts, 1877-1899." Past and
-
-Present 35 (1966): 101-32.
-
-Madariaga, Isabel de. Catherine the Great: A Short History. New
-
-Haven: Yale Univ. Press, 1990.
+Madariaga, Isabel de. Catherine the Great: A Short History. New Haven: Yale Univ. Press, 1990.
 
 Magnusson, Magnus. The Vikings. Stroud, UK: Tempus, 2000.
 
-Magnusson, Magnus, and Hermann Pálsson, trans. The Vinland Sagas:
+Magnusson, Magnus, and Hermann Pálsson, trans. The Vinland Sagas: The Norse Discovery of America (Graenlendinga Saga and Eirik’s Saga). Baltimore: Penguin, 1965.
 
-The Norse Discovery of America (Graenlendinga Saga and Eirik's
+Magnússon, Sigurdur A. Northern Sphinx: Iceland and the Icelanders from the Settlement to the Present. Reykjavik: English Bookshop, 1977.
 
-Saga). Baltimore: Penguin, 1965.
+Magra, Christopher. The Fisherman’s Cause: Atlantic Commerce and Maritime Dimensions of the American Revolution. New York: Cambridge Univ. Press, 2009.
 
-Magnússon, Sigurdur A. Northern Sphinx: Iceland and the Icelanders
+Mahan, Alfred Thayer. The Influence of Sea Power upon History, 1600–1783. 5th ed. 1894. Reprint, New York: Dover, 1987.
 
-from the Settlement to the Present. Reykjavik: English Bookshop,
+———. “The United States Looking Outward.” Atlantic Monthly 66 (Dec. 1809): 816–24. http://www.theatlantic.com/doc/189012/mahan-outward.
 
-1977.
+Major, John. “The Navy Plans for War.” In In Peace and War: Interpretations of American Naval History, 1775–1984, ed. by Kenneth J. Hagan, 237–62. 2nd ed. Westport: Greenwood, 1984.
 
-Magra, Christopher. The Fisherman's Cause: Atlantic Commerce and
+Mak, James, and Gary M. Walton. “Steamboats and the Great Productivity Surge in River Transportation.” Journal of Economic History 32:3 (1972): 619–40.
 
-Maritime Dimensions of the American Revolution. New York:
+Makrypoulias, Christos G. “Byzantine Expeditions Against the Emirate of Crete, c. 825–949.” Graeco-Arabica 7–8 (2000): 347–62.
 
-Cambridge Univ. Press, 2009.
+Malone, Joseph J. Pine Trees and Politics: The Naval Stores and Forest Policy in Colonial New England, 1691–1775. Seattle: Univ. of Washington Press, 1964.
 
-Mahan, Alfred Thayer. The Influence of Sea Power upon History,
+Mancke, Elizabeth. “Early Modern Expansion and the Politicization of Oceanic Space.” Geographical Review 89:2 (1999): 225–36.
 
-1600-1783. 5th ed. 1894. Reprint, New York: Dover, 1987.
+Manguin, Pierre-Yves. “The Archaeology of Early Maritime Polities of Southeast Asia.” In Southeast Asia from Prehistory to History, ed. by Ian C. Glover and Peter Bellwood, 282–313. London: RoutledgeCurzon, 2004.
 
-------. "The United States Looking Outward." Atlantic Monthly 66 (Dec. 1809): 816-24. http://www.theatlantic.com/doc/189012/mahan-outward.
+———. “The Southeast Asian Ship: An Historical Approach.” JSEAS 11:2 (1980): 266–76.
 
-Major, John. "The Navy Plans for War." In In Peace and War:
+———. “Southeast Asian Shipping in the Indian Ocean During the First Millennium A.D.” In Tradition and Archaeology: Early Maritime Contacts in the Indian Ocean, ed. by Himanshu Prabha Ray and Jean-François Salles, 181–97. New Delhi: Manohar, 1999.
 
-Interpretations of American Naval History, 1775-1984, ed. by
+———. “Trading Ships of the South China Sea.” JESHO 36:3 (1993): 253–80.
 
-Kenneth J. Hagan, 237-62. 2nd ed. Westport: Greenwood, 1984.
+Mann, Charles C. 1491: New Revelations of the Americas Before Columbus. New York: Knopf, 2005.
 
-Mak, James, and Gary M. Walton. "Steamboats and the Great
+Manning, Patrick. Navigating World History (Historians Create a Global Past). New York: Palgrave Macmillan, 2003.
 
-Productivity Surge in River Transportation." Journal of Economic
+Manu. The Laws of Manu. Trans. Wendy Doniger and Brian K. Smith. Harmondsworth: Penguin, 1991.
 
-History 32:3 (1972): 619-40.
+Marcus, G. J. The Conquest of the North Atlantic. Woodbridge, UK: Boydell, 1980.
 
-Makrypoulias, Christos G. "Byzantine Expeditions Against the
+Margariti, Roxani Eleni. Aden and the Indian Ocean Trade: 150 Years in the Life of a Medieval Arabian Port. Chapel Hill: Univ. of North Carolina Press, 2007.
 
-Emirate of Crete, c. 825-949." Graeco-Arabica 7-8 (2000): 347-
+Mariners’ Museum. Aak to Zumbra: A Dictionary of the World’s Watercraft, ed. by Beverly McMillan, Susannah Livingston, and Susan Beaven Rutter. Newport News, VA: Mariners’ Museum, 2000.
 
-62.
+Marsden, Peter. A Ship of the Roman Period: From Blackfriars, in the City of London. London: Guildhall Museum, 1967.
 
-Malone, Joseph J. Pine Trees and Politics: The Naval Stores and
+Marshall, P. J. “The English in Asia to 1700.” In The Oxford History of the British Empire. Vol. 1, The Origins of Empire, ed. by Nicholas Canny, 264–85. Oxford: Oxford Univ. Press, 1998.
 
-Forest Policy in Colonial New England, 1691-1775. Seattle: Univ.
+———. “Introduction.” In Oxford History of the British Empire. Vol. 2, The Eighteenth Century, 1–27. Oxford: Oxford Univ. Press, 1998.
 
-of Washington Press, 1964.
+Martin, Colin, and Geoffrey Parker. The Spanish Armada. Manchester, UK: Manchester Univ. Press, 1999.
 
-Mancke, Elizabeth. "Early Modern Expansion and the Politicization of
+Mason, David J. P. Roman Britain and the Roman Navy. Stroud, UK: Tempus, 2003.
 
-Oceanic Space." Geographical Review 89:2 (1999): 225-36.
+Massarella, Derek. “The Jesuits and Japan.” In Vasco da Gama and the Linking of Europe and Asia, ed. by Anthony Disney and Emily Booth, 233–47. New Delhi: Oxford Univ. Press, 2000.
 
-Manguin, Pierre-Yves. "The Archaeology of Early Maritime Polities of
+Masterson, Daniel M., and Sayaka Funada. “The Japanese in Peru and Brazil: A Comparative Perspective.” In Mass Migration to Modern Latin America, ed. by Samuel L. Bailey and Eduardo José Míguez, 113–36. Wilmington: Scholarly Resources, 2003.
 
-Southeast Asia." In Southeast Asia from Prehistory to History, ed.
+Mathew, Kuzhippalli Skaria. Portuguese Trade with India in the Sixteenth Century. New Delhi: Manohar, 1983.
 
-by Ian C. Glover and Peter Bellwood, 282-313. London:
+Matthew, Donald. The Norman Kingdom of Sicily. Cambridge: Cambridge Univ. Press, 1992.
 
-RoutledgeCurzon, 2004.
+Maury, Matthew Fontaine. Steam-lanes Across the Atlantic. Washington, D.C., 1872.
 
-------. "The Southeast Asian Ship: An Historical Approach." JSEAS
+Maxtone-Graham, John. Normandie: France’s Legendary Art Deco Ocean Liner. New York: Norton, 2007.
 
-11:2 (1980): 266-76.
+———. The Only Way to Cross. New York: Macmillan, 1972.
 
-------. "Southeast Asian Shipping in the Indian Ocean During the
+McCormick, Michael. Origins of the European Economy: Communications and Commerce, ad 300–900. Cambridge: Cambridge Univ. Press, 2001.
 
-First Millennium A.D." In Tradition and Archaeology: Early
+McGhee, Robert. “Epilogue: Was There Continuity from Norse to Post-Medieval Explorations of the New World?” In Contact, Continuity, and Collapse: The Norse Colonization of the North Atlantic, ed. by James H. Barett, 239–48. Turnhout: Brepols, 2003.
 
-Maritime Contacts in the Indian Ocean, ed. by Himanshu Prabha
+McGrail, Sean. “Boats and Boatmanship in the Southern North Sea and Channel.” In Maritime Celts, Frisians and Saxons, ed. by Seán McGrail, 32–48. London: Council for British Archaeology, 1990.
 
-Ray and Jean-François Salles, 181-97. New Delhi: Manohar, 1999.
+———. Boats of the World from the Stone Age to Medieval Times. Oxford: Oxford Univ. Press, 2001.
 
-------. "Trading Ships of the South China Sea." JESHO 36:3 (1993):
+———. “Romano-Celtic Boats and Ships: Characteristic Features.” IJNA 24:2 (1995): 139–45.
 
-253-80.
+McGregor, Malcolm F. The Athenians and Their Empire. Vancouver: Univ. of British Columbia Press, 1987.
 
-Mann, Charles C. 1491: New Revelations of the Americas Before
+McPhee, John A. The Survival of the Bark Canoe. New York: Farrar, Straus & Giroux, 1975.
 
-Columbus. New York: Knopf, 2005.
+McPherson, Kenneth. The Indian Ocean: A History of People and the Sea. New Delhi: Oxford Univ. Press, 1993.
 
-Manning, Patrick. Navigating World History (Historians Create a
+Meiggs, Russell. Trees and Timber in the Ancient Mediterranean World. Oxford: Clarendon Press, 1982.
 
-Global Past). New York: Palgrave Macmillan, 2003.
+Merwin, Douglas. “Selections from Wen-wu on the Excavation of a Sung Dynasty Seagoing Vessel in Ch’üan-chou.” Chinese Sociology and Anthropology 9 (Spring 1977): 3–106.
 
-Manu. The Laws of Manu. Trans. Wendy Doniger and Brian K. Smith.
+Meurer, Peter H. “Cartography in the German Lands, 1450–1650.” In The History of Cartography. Vol. 3, Cartography in the Renaissance, ed. by David Woodward, 1172–245. Chicago: University of Chicago Press, 2007.
 
-Harmondsworth: Penguin, 1991.
+Middleton, Neil. “Early Medieval Port Customs, Tolls and Controls on Foreign Trade.” Early Medieval Europe 13:4 (2005): 313–58.
 
-Marcus, G. J. The Conquest of the North Atlantic. Woodbridge, UK:
+Míguez, Eduardo José. “Introduction: Foreign Mass Migration to Latin America in the Nineteenth and Twentieth Centuries.” In Mass Migration to Modern Latin America, ed. by Samuel L. Bailey and Eduardo José Míguez, xiii–xxv. Wilmington: Scholarly Resources, 2003.
 
-Boydell, 1980.
+Miksic, John N. Borobudur: Golden Tales of the Buddha. Singapore: Periplus, 1990.
 
-Margariti, Roxani Eleni. Aden and the Indian Ocean Trade: 150 Years
+Miller, David E. “Maritime Fur Trade Rivalry in the Pacific Northwest.” Historian (1959): 392–408.
 
-in the Life of a Medieval Arabian Port. Chapel Hill: Univ. of North
+Miller, Edward S. War Plan Orange: The U.S. Strategy to Defeat Japan, 1897–1945. Annapolis: Naval Institute, 2007.
 
-Carolina Press, 2007.
+Miller, Nathan. War at Sea: A Naval History of World War II. New York: Oxford University Press, 1996.
 
-Mariners' Museum. Aak to Zumbra: A Dictionary of the World's
+Millett, Paul. “Maritime Loans and the Structure of Credit in Fourth-Century Athens.” In Trade in the Ancient Economy, ed. by Peter Garnsey, Keith Hopkins, and C. R. Whittaker, 36–52. Berkeley: Univ. of California Press, 1983.
 
-Watercraft, ed. by Beverly McMillan, Susannah Livingston, and
+Milne, Gustav. “Maritime Traffic Between the Rhine and Roman Britain: A Preliminary Note.” In Maritime Celts, Frisians and Saxons, ed. by McGrail, 82–85.
 
-Susan Beaven Rutter. Newport News, VA: Mariners' Museum,
+Mitsusada, Inoue, with Delmer M. Brown. “The Century of Reform.” In The Cambridge History of Japan, ed. by Brown, 1:163–220.
 
-2000.
+Mittelberger, Gottlieb. Journey to Pennsylvania. Cambridge: Belknap, 1960.
 
-Marsden, Peter. A Ship of the Roman Period: From Blackfriars, in the
+Montet, Pierre. Everyday Life in Egypt in the Days of Ramesses the Great. Trans. A. R. Maxwell-Hyslop and Margaret S. Drower. 1958. Reprint, Westport: Greenwood, 1974.
 
-City of London. London: Guildhall Museum, 1967.
+Mookerji, Radhakumud. Indian Shipping: A History of the Sea-Borne Trade and Maritime Activity of the Indian from the Earliest Times. London: Longmans, Green, 1912.
 
-Marshall, P. J. "The English in Asia to 1700." In The Oxford History of
+Morgan, Robert J. “Des Barres, Joseph Frederick Wallet.” Dictionary of Canadian Biography Online. www.biographi.ca/009004-119.01-e.php?BioId=36955.
 
-the British Empire. Vol. 1, The Origins of Empire, ed. by Nicholas
+Morison, Samuel Eliot. The European Discovery of America: The Northern Voyages, A.D. 500–1600. New York: Oxford Univ. Press, 1971.
 
-Canny, 264-85. Oxford: Oxford Univ. Press, 1998.
+———. Maritime History of Massachusetts, 1783–1860. Boston: Houghton Mifflin, 1941.
 
-------. "Introduction." In Oxford History of the British Empire. Vol.
+———.“Old Bruin,” Commodore Matthew C. Perry, 1794–1858. Boston: Little, Brown, 1967.
 
-2, The Eighteenth Century, 1-27. Oxford: Oxford Univ. Press, 1998.
+———. Samuel de Champlain: Father of New France. Boston: Houghton Mifflin, 1972.
 
-Martin, Colin, and Geoffrey Parker. The Spanish Armada. Manchester,
+———. The Two-Ocean War: A Short History of the United States Navy in the Second World War. Boston: Little, Brown, 1963.
 
-UK: Manchester Univ. Press, 1999.
+Morison, Samuel Eliot, Henry Steele Commager, and William Leuchtenberg. A Concise History of the American Republic. New York: Oxford Univ. Press, 1979.
 
-Mason, David J. P. Roman Britain and the Roman Navy. Stroud, UK:
+Morrison, J. S., and J. F. Coates. The Athenian Trireme: The History and Reconstruction of an Ancient Greek Warship. New York: Cambridge Univ. Press, 1986.
 
-Tempus, 2003.
+Moseley, Michael Edward. The Incas and Their Ancestors: The Archaeology of Peru. London: Thames & Hudson, 1992.
 
-Massarella, Derek. "The Jesuits and Japan." In Vasco da Gama and the
+———. The Maritime Foundations of Andean Civilization. Menlo Park, CA: Cummings, 1975.
 
-Linking of Europe and Asia, ed. by Anthony Disney and Emily
+Mote, F. W. Imperial China: 900–1800. Cambridge: Harvard Univ. Press, 1999.
 
-Booth, 233-47. New Delhi: Oxford Univ. Press, 2000.
+Mott, Lawrence V. The Development of the Rudder: A Technological Tale. College Station: Texas A&M Univ. Press, 1997.
 
-Masterson, Daniel M., and Sayaka Funada. "The Japanese in Peru and
+———. Sea Power in the Medieval Mediterranean: The Catalan-Aragonese Fleet in the War of the Sicilian Vespers. Gainesville: Univ. Press of Florida, 2003.
 
-Brazil: A Comparative Perspective." In Mass Migration to Modern
+Moya, José C. “Spanish Emigration to Cuba and Argentina.” In Mass Migration to Modern Latin America, ed. by Samuel L. Bailey and Eduardo José Míguez, 9–28. Wilmington: Scholarly Resources, 2003.
 
-Latin America, ed. by Samuel L. Bailey and Eduardo José Míguez,
+Mukund, Kanakalatha. Trading World of the Tamil Merchant: Evolution of Merchant Capitalism in the Coromandel. Chennai, India: Orient Longman, 1999.
 
-113-36. Wilmington: Scholarly Resources, 2003.
+Mullen, Michael. “Remarks as Delivered for the 17th International Seapower Symposium, Naval War College, Newport, RI, September 21, 2005.” http://www.navy.mil/navydata/cno/mullen/speeches/mullen050921.t xt.
 
-Mathew, Kuzhippalli Skaria. Portuguese Trade with India in the
+Müller, F. Max, ed. Sacred Books of the East. 50 vols. Oxford: Clarendon Press, 1879–1910.
 
-Sixteenth Century. New Delhi: Manohar, 1983.
-
-Matthew, Donald. The Norman Kingdom of Sicily. Cambridge:
-
-Cambridge Univ. Press, 1992.
-
-Maury, Matthew Fontaine. Steam-lanes Across the Atlantic.
-
-Washington, D.C., 1872.
-
-Maxtone-Graham, John. Normandie: France's Legendary Art Deco
-
-Ocean Liner. New York: Norton, 2007.
-
-------. The Only Way to Cross. New York: Macmillan, 1972.
-
-McCormick, Michael. Origins of the European Economy: Communications and Commerce, ad 300-900. Cambridge: Cambridge Univ. Press, 2001.
-
-McGhee, Robert. "Epilogue: Was There Continuity from Norse to
-
-Post-Medieval Explorations of the New World?" In Contact,
-
-Continuity, and Collapse: The Norse Colonization of the North
-
-Atlantic, ed. by James H. Barett, 239-48. Turnhout: Brepols, 2003.
-
-McGrail, Sean. "Boats and Boatmanship in the Southern North Sea
-
-and Channel." In Maritime Celts, Frisians and Saxons, ed. by Seán
-
-McGrail, 32-48. London: Council for British Archaeology, 1990.
-
-------. Boats of the World from the Stone Age to Medieval Times.
-
-Oxford: Oxford Univ. Press, 2001.
-
-------. "Romano-Celtic Boats and Ships: Characteristic Features."
-
-IJNA 24:2 (1995): 139-45.
-
-McGregor, Malcolm F. The Athenians and Their Empire. Vancouver:
-
-Univ. of British Columbia Press, 1987.
-
-McPhee, John A. The Survival of the Bark Canoe. New York: Farrar,
-
-Straus & Giroux, 1975.
-
-McPherson, Kenneth. The Indian Ocean: A History of People and the
-
-Sea. New Delhi: Oxford Univ. Press, 1993.
-
-Meiggs, Russell. Trees and Timber in the Ancient Mediterranean
-
-World. Oxford: Clarendon Press, 1982.
-
-Merwin, Douglas. "Selections from Wen-wu on the Excavation of a
-
-Sung Dynasty Seagoing Vessel in Ch'üan-chou." Chinese Sociology
-
-and Anthropology 9 (Spring 1977): 3-106.
-
-Meurer, Peter H. "Cartography in the German Lands, 1450-1650." In
-
-The History of Cartography. Vol. 3, Cartography in the
-
-Renaissance, ed. by David Woodward, 1172-245. Chicago:
-
-University of Chicago Press, 2007.
-
-Middleton, Neil. "Early Medieval Port Customs, Tolls and Controls on
-
-Foreign Trade." Early Medieval Europe 13:4 (2005): 313-58.
-
-Míguez, Eduardo José. "Introduction: Foreign Mass Migration to Latin
-
-America in the Nineteenth and Twentieth Centuries." In Mass
-
-Migration to Modern Latin America, ed. by Samuel L. Bailey and
-
-Eduardo José Míguez, xiii-xxv. Wilmington: Scholarly Resources,
-
-2003.
-
-Miksic, John N. Borobudur: Golden Tales of the Buddha. Singapore:
-
-Periplus, 1990.
-
-Miller, David E. "Maritime Fur Trade Rivalry in the Pacific
-
-Northwest." Historian (1959): 392-408.
-
-Miller, Edward S. War Plan Orange: The U.S. Strategy to Defeat
-
-Japan, 1897-1945. Annapolis: Naval Institute, 2007.
-
-Miller, Nathan. War at Sea: A Naval History of World War II. New
-
-York: Oxford University Press, 1996.
-
-Millett, Paul. "Maritime Loans and the Structure of Credit in FourthCentury Athens." In Trade in the Ancient Economy, ed. by Peter
-
-Garnsey, Keith Hopkins, and C. R. Whittaker, 36-52. Berkeley:
-
-Univ. of California Press, 1983.
-
-Milne, Gustav. "Maritime Traffic Between the Rhine and Roman
-
-Britain: A Preliminary Note." In Maritime Celts, Frisians and
-
-Saxons, ed. by McGrail, 82-85.
-
-Mitsusada, Inoue, with Delmer M. Brown. "The Century of Reform."
-
-In The Cambridge History of Japan, ed. by Brown, 1:163-220.
-
-Mittelberger, Gottlieb. Journey to Pennsylvania. Cambridge: Belknap,
-
-1960.
-
-Montet, Pierre. Everyday Life in Egypt in the Days of Ramesses the
-
-Great. Trans. A. R. Maxwell-Hyslop and Margaret S. Drower. 1958.
-
-Reprint, Westport: Greenwood, 1974.
-
-Mookerji, Radhakumud. Indian Shipping: A History of the Sea-Borne
-
-Trade and Maritime Activity of the Indian from the Earliest Times.
-
-London: Longmans, Green, 1912.
-
-Morgan, Robert J. "Des Barres, Joseph Frederick Wallet." Dictionary
-
-of Canadian Biography Online. www.biographi.ca/009004-119.01-
-
-e.php?BioId=36955.
-
-Morison, Samuel Eliot. The European Discovery of America: The
-
-Northern Voyages, A.D. 500-1600. New York: Oxford Univ. Press,
-
-1971.
-
-------. Maritime History of Massachusetts, 1783-1860. Boston:
-
-Houghton Mifflin, 1941.
-
-------."Old Bruin," Commodore Matthew C. Perry, 1794-1858.
-
-Boston: Little, Brown, 1967.
-
-------. Samuel de Champlain: Father of New France. Boston:
-
-Houghton Mifflin, 1972.
-
-------. The Two-Ocean War: A Short History of the United States
-
-Navy in the Second World War. Boston: Little, Brown, 1963.
-
-Morison, Samuel Eliot, Henry Steele Commager, and William
-
-Leuchtenberg. A Concise History of the American Republic. New
-
-York: Oxford Univ. Press, 1979.
-
-Morrison, J. S., and J. F. Coates. The Athenian Trireme: The History
-
-and Reconstruction of an Ancient Greek Warship. New York:
-
-Cambridge Univ. Press, 1986.
-
-Moseley, Michael Edward. The Incas and Their Ancestors: The
-
-Archaeology of Peru. London: Thames & Hudson, 1992.
-
-------. The Maritime Foundations of Andean Civilization. Menlo
-
-Park, CA: Cummings, 1975.
-
-Mote, F. W. Imperial China: 900-1800. Cambridge: Harvard Univ.
-
-Press, 1999.
-
-Mott, Lawrence V. The Development of the Rudder: A Technological
-
-Tale. College Station: Texas A&M Univ. Press, 1997.
-
-------. Sea Power in the Medieval Mediterranean: The CatalanAragonese Fleet in the War of the Sicilian Vespers. Gainesville:
-
-Univ. Press of Florida, 2003.
-
-Moya, José C. "Spanish Emigration to Cuba and Argentina." In Mass
-
-Migration to Modern Latin America, ed. by Samuel L. Bailey and
-
-Eduardo José Míguez, 9-28. Wilmington: Scholarly Resources,
-
-2003.
-
-Mukund, Kanakalatha. Trading World of the Tamil Merchant:
-
-Evolution of Merchant Capitalism in the Coromandel. Chennai,
-
-India: Orient Longman, 1999.
-
-Mullen, Michael. "Remarks as Delivered for the 17th International
-
-Seapower Symposium, Naval War College, Newport, RI, September
-
-21,
-
-2005."
-
-http://www.navy.mil/navydata/cno/mullen/speeches/mullen050921.t
-
-xt.
-
-Müller, F. Max, ed. Sacred Books of the East. 50 vols. Oxford:
-
-Clarendon Press, 1879-1910.
-
-Muqaddasi, Muhammad ibn Ahmad al-. The Best Divisions for
-
-Knowledge of the Regions: A Translation of Ahsan al-Taqasim fi
-
-Marifat al-Aqalim. Trans. Basil Anthony Collins. Reading, UK:
-
-Centre for Muslim Contribution to Civilisation/Garnet, 1994.
+Muqaddasi, Muhammad ibn Ahmad al-. The Best Divisions for Knowledge of the Regions: A Translation of Ahsan al-Taqasim fi Marifat al-Aqalim. Trans. Basil Anthony Collins. Reading, UK: Centre for Muslim Contribution to Civilisation/Garnet, 1994.
 
 Murat, Inès. Colbert. Charlottesville: Univ. Press of Virginia, 1984.
 
-Murfett, Malcolm. Naval Warfare, 1919-1945: An Operational
+Murfett, Malcolm. Naval Warfare, 1919–1945: An Operational History of the Volatile War at Sea. London: Routledge, 2009.
 
-History of the Volatile War at Sea. London: Routledge, 2009.
+Murphey, Rhoads. The Outsiders: The Western Experience in India and China. Ann Arbor: Univ. of Michigan Press, 1977.
 
-Murphey, Rhoads. The Outsiders: The Western Experience in India
+Murray, Oswyn. Early Greece. 2nd ed. Cambridge: Harvard Univ. Press, 1993.
 
-and China. Ann Arbor: Univ. of Michigan Press, 1977.
+Nader, Helen. Rights of Discovery: Christopher Columbus’s Final Appeal to King Fernando. Facsimile, Transcription, Translation and Critical Edition of the John Carter Brown Library’s Spanish Codex I. Providence: John Carter Brown Library, 1992.
 
-Murray, Oswyn. Early Greece. 2nd ed. Cambridge: Harvard Univ.
+Naji, Abdel Jabbar. “Trade Relations Between Bahrain and Iraq in the Middle Ages: A Commercial and Political Outline.” In Bahrain Through the Ages: The History, ed. by Abdullah bin Khalid al-Khalifa and Michael Rice, 423–44. London: Kegan Paul, 1991.
 
-Press, 1993.
+Nasir-i Khusraw. Book of Travels [Safarnama]. Trans. Wheeler M. Thackston. Costa Mesa, CA: Mazda, 2001.
 
-Nader, Helen. Rights of Discovery: Christopher Columbus's Final
+National Maritime Museum learning team. “Ships, Seafarers and Life at Sea.” http://www.nmm.ac.uk/explore/sea-and-ships/facts/ships-and-seafarers/load-lines.
 
-Appeal to King Fernando. Facsimile, Transcription, Translation and
+National Research Council. Crew Size and Maritime Safety. Washington: National Academy, 1990. http://www.nap.edu/openbook.php?record_id=1620&page=R1.
 
-Critical Edition of the John Carter Brown Library's Spanish Codex
+Navin, Thomas R., and Marian V. Sears. “A Study in Merger: Formation of the International Mercantile Marine.” Business History Review 28:4 (1954): 291–328.
 
-I. Providence: John Carter Brown Library, 1992.
+Needham, Joseph, with Wang Ling. Science and Civilisation in China. Vol. 3, Mathematics and the Sciences of the Heavens and Earth. Cambridge: Cambridge Univ. Press, 1959.
 
-Naji, Abdel Jabbar. "Trade Relations Between Bahrain and Iraq in the
+Needham, Joseph, with Wang Ling and Kenneth Robinson. Science and Civilisation in China. Vol. 4, Physics and Physical Technology. Pt. 1, Physics. Cambridge: Cambridge Univ. Press, 1962.
 
-Middle Ages: A Commercial and Political Outline." In Bahrain
+Needham, Joseph, with Wang Ling and Lu Gwei-djen. Science and Civilisation in China. Vol. 4, Physics and Physical Technology. Pt. 3, Civil Engineering and Nautics. Cambridge: Cambridge Univ. Press, 1971.
 
-Through the Ages: The History, ed. by Abdullah bin Khalid alKhalifa and Michael Rice, 423-44. London: Kegan Paul, 1991.
+Needham, Joseph, Ping-Yü Ho, Gwei-djen Lu, and Ling Wang. Science and Civilisation in China. Vol. 5, Chemistry and Chemical Technology. Pt. 7, Military Technology: The Gunpowder Epic. Cambridge: Cambridge Univ. Press, 1986.
 
-Nasir-i Khusraw. Book of Travels [Safarnama]. Trans. Wheeler M.
-
-Thackston. Costa Mesa, CA: Mazda, 2001.
-
-National Maritime Museum learning team. "Ships, Seafarers and Life
-
-at Sea." http://www.nmm.ac.uk/explore/sea-and-ships/facts/shipsand-seafarers/load-lines.
-
-National Research Council. Crew Size and Maritime Safety. Washington: National Academy, 1990.
-
-http://www.nap.edu/openbook.php?record_id=1620&page=R1.
-
-Navin, Thomas R., and Marian V. Sears. "A Study in Merger:
-
-Formation of the International Mercantile Marine." Business History
-
-Review 28:4 (1954): 291-328.
-
-Needham, Joseph, with Wang Ling. Science and Civilisation in China.
-
-Vol. 3, Mathematics and the Sciences of the Heavens and Earth.
-
-Cambridge: Cambridge Univ. Press, 1959.
-
-Needham, Joseph, with Wang Ling and Kenneth Robinson. Science
-
-and Civilisation in China. Vol. 4, Physics and Physical Technology.
-
-Pt. 1, Physics. Cambridge: Cambridge Univ. Press, 1962.
-
-Needham, Joseph, with Wang Ling and Lu Gwei-djen. Science and
-
-Civilisation in China. Vol. 4, Physics and Physical Technology. Pt.
-
-3, Civil Engineering and Nautics. Cambridge: Cambridge Univ.
-
-Press, 1971.
-
-Needham, Joseph, Ping-Yü Ho, Gwei-djen Lu, and Ling Wang.
-
-Science and Civilisation in China. Vol. 5, Chemistry and Chemical
-
-Technology. Pt. 7, Military Technology: The Gunpowder Epic.
-
-Cambridge: Cambridge Univ. Press, 1986.
-
-Nester, William R. The Great Frontier War: Britain, France, and the
-
-Imperial Struggle for North America, 1607-1755. Westport:
-
-Greenwood, 2000.
+Nester, William R. The Great Frontier War: Britain, France, and the Imperial Struggle for North America, 1607–1755. Westport: Greenwood, 2000.
 
 New York Maritime Register.
 
-Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697.
+Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697. Trans. W. G. Aston. 1924. Reprint, Rutland, VT: Tuttle, 1972.
 
-Trans. W. G. Aston. 1924. Reprint, Rutland, VT: Tuttle, 1972.
+Oakley, Stewart. A Short History of Denmark. New York: Praeger, 1972.
 
-Oakley, Stewart. A Short History of Denmark. New York: Praeger,
+O’Brian, Patrick. Joseph Banks: A Life. Boston: Godine, 1993.
 
-1972.
+O’Connell, D. P. Richelieu. Cleveland: World, 1968.
 
-O'Brian, Patrick. Joseph Banks: A Life. Boston: Godine, 1993.
+O’Connor, David. “Boat Graves and Pyramid Origins: New Discoveries at Abydos.” Expedition 33:3 (1991) 5–17.
 
-O'Connell, D. P. Richelieu. Cleveland: World, 1968.
+Ó Corráin, Donnchadh. “Vikings in Ireland and Scotland in the Ninth Century.” Peritia 12 (1998): 296–339.
 
-O'Connor, David. "Boat Graves and Pyramid Origins: New
+Oddr Snorrason, and Theodore Murdock Andersson. The Saga of Olaf Tryggvason. Ithaca: Cornell Univ. Press, 2003.
 
-Discoveries at Abydos." Expedition 33:3 (1991) 5-17.
+O’Donnell, Ed. Ship Ablaze: The Tragedy of the Steamboat General Slocum. New York: Broadway, 2003.
 
-Ó Corráin, Donnchadh. "Vikings in Ireland and Scotland in the Ninth
+Oleson, John Peter. “The Technology of Roman Harbors.” IJNA 17:2 (1988): 147–57.
 
-Century." Peritia 12 (1998): 296-339.
+Olsen, Olaf, and Ole Crumlin-Pedersen. Five Viking Ships from Roskilde Fjord. Copenhagen: National Museum, 1978.
 
-Oddr Snorrason, and Theodore Murdock Andersson. The Saga of Olaf
+Olsen, Wallace M. Through Spanish Eyes: The Spanish Voyages to Alaska, 1774–1792. Auke Bay, AK: Heritage Research, 2002.
 
-Tryggvason. Ithaca: Cornell Univ. Press, 2003.
+Oppenheim, A. Leo. “The Seafaring Merchants of Ur.” In Ancient Cities of the Indus, ed. by Gregory L. Possehl, 155–63. Durham: Carolina Academic Press, 1979.
 
-O'Donnell, Ed. Ship Ablaze: The Tragedy of the Steamboat General
+Ostrogorsky, George. History of the Byzantine State. New Brunswick: Rutgers Univ. Press, 1957.
 
-Slocum. New York: Broadway, 2003.
+Ouyang Xiu. Biography of Huang Chao. Trans. Howard S. Levy. Berkeley: Univ. of California Press, 1955.
 
-Oleson, John Peter. "The Technology of Roman Harbors." IJNA 17:2
+Pack, James. Nelson’s Blood: The Story of Naval Rum. Stroud, UK: Sutton, 1995.
 
-(1988): 147-57.
+Padfield, Peter. Maritime Supremacy. Woodstock, NY: Overlook, 2000.
 
-Olsen, Olaf, and Ole Crumlin-Pedersen. Five Viking Ships from
+———. Tide of Empires: Decisive Naval Campaigns in the Rise of the West. Vol. 1, 1481–1654. London: Routledge & Kegan Paul, 1979.
 
-Roskilde Fjord. Copenhagen: National Museum, 1978.
+Page, Thomas W. “The Transportation of Immigrants and Reception Arrangements in the Nineteenth Century.” Journal of Political Economy 19:9 (1911): 732–49.
 
-Olsen, Wallace M. Through Spanish Eyes: The Spanish Voyages to
+Paine, Lincoln P. Down East: A Maritime History of Maine. Gardiner, ME: Tilbury House, 2000.
 
-Alaska, 1774-1792. Auke Bay, AK: Heritage Research, 2002.
+———. “A Pax upon You: Preludes and Perils of American Imperialism.” Clio’s Psyche 10:3 (Dec. 2003): 91–97.
 
-Oppenheim, A. Leo. "The Seafaring Merchants of Ur." In Ancient
+———. Ships of the World: An Historical Encyclopedia. Boston: Houghton Mifflin, 1997.
 
-Cities of the Indus, ed. by Gregory L. Possehl, 155-63. Durham:
+Paine, S. C. M. The Sino-Japanese War of 1894–1895: Perceptions, Power, and Primacy. New York: Cambridge Univ. Press, 2003.
 
-Carolina Academic Press, 1979.
+Palmer, Alan. The Baltic: A New History of the Region and Its People. New York: Overlook, 2005.
 
-Ostrogorsky, George. History of the Byzantine State. New Brunswick:
+Parker, Geoffrey. “Lepanto.” In The Reader’s Companion to Military History, ed. by Robert Cowley and Geoffrey Parker. Boston: Houghton Mifflin, 1996.
 
-Rutgers Univ. Press, 1957.
+Parry, J. H. The Establishment of the European Hegemony, 1415–1715: Trade and Exploration in the Age of the Renaissance. New York: Harper & Row, 1961.
 
-Ouyang Xiu. Biography of Huang Chao. Trans. Howard S. Levy.
+Paselk, Richard A. “Navigational Instruments: Measurement of Altitude.” In The Oxford Encyclopedia of Maritime History, ed. by Hattendorf, 3:29–42.
 
-Berkeley: Univ. of California Press, 1955.
+Pastor, Xavier. The Ships of Christopher Columbus: Santa María, Niña, Pinta. Annapolis: Naval Institute, 1992.
 
-Pack, James. Nelson's Blood: The Story of Naval Rum. Stroud, UK:
+Patai, Raphael. The Children of Noah: Jewish Seafaring in Ancient Times. Princeton: Princeton Univ. Press, 1998.
 
-Sutton, 1995.
+Pausanias. Description of Greece. Trans. W. H. S. Jones. 5 vols. Cambridge: Harvard Univ. Press, 1918–71.
 
-Padfield, Peter. Maritime Supremacy. Woodstock, NY: Overlook,
+Paviot, Jacques. “Trade Between Portugal and the Southern Netherlands in the 16th Century.” In Rivalry and Conflict: European Traders and Asian Trading Networks in the 16th and 17th Centuries, ed. by Ernst van Veen and Leonard Blussé, 24–34. Leiden: CNWS, 2005.
 
-2000.
+Peacock, David, and Lucy Blue, eds. Myos Hormos-Quseir al-Qadim: Roman and Islamic Ports on the Red Sea. Vol. 1, Survey and Excavations, 1999–2003. Oxford: Oxbow, 2006.
 
-------. Tide of Empires: Decisive Naval Campaigns in the Rise of the
-
-West. Vol. 1, 1481-1654. London: Routledge & Kegan Paul, 1979.
-
-Page, Thomas W. "The Transportation of Immigrants and Reception
-
-Arrangements in the Nineteenth Century." Journal of Political
-
-Economy 19:9 (1911): 732-49.
-
-Paine, Lincoln P. Down East: A Maritime History of Maine. Gardiner,
-
-ME: Tilbury House, 2000.
-
-------. "A Pax upon You: Preludes and Perils of American
-
-Imperialism." Clio's Psyche 10:3 (Dec. 2003): 91-97.
-
-------. Ships of the World: An Historical Encyclopedia. Boston:
-
-Houghton Mifflin, 1997.
-
-Paine, S. C. M. The Sino-Japanese War of 1894-1895: Perceptions,
-
-Power, and Primacy. New York: Cambridge Univ. Press, 2003.
-
-Palmer, Alan. The Baltic: A New History of the Region and Its People.
-
-New York: Overlook, 2005.
-
-Parker, Geoffrey. "Lepanto." In The Reader's Companion to Military
-
-History, ed. by Robert Cowley and Geoffrey Parker. Boston:
-
-Houghton Mifflin, 1996.
-
-Parry, J. H. The Establishment of the European Hegemony, 1415-
-
-1715: Trade and Exploration in the Age of the Renaissance. New
-
-York: Harper & Row, 1961.
-
-Paselk, Richard A. "Navigational Instruments: Measurement of
-
-Altitude." In The Oxford Encyclopedia of Maritime History, ed. by
-
-Hattendorf, 3:29-42.
-
-Pastor, Xavier. The Ships of Christopher Columbus: Santa María,
-
-Niña, Pinta. Annapolis: Naval Institute, 1992.
-
-Patai, Raphael. The Children of Noah: Jewish Seafaring in Ancient
-
-Times. Princeton: Princeton Univ. Press, 1998.
-
-Pausanias. Description of Greece. Trans. W. H. S. Jones. 5 vols.
-
-Cambridge: Harvard Univ. Press, 1918-71.
-
-Paviot, Jacques. "Trade Between Portugal and the Southern
-
-Netherlands in the 16th Century." In Rivalry and Conflict: European
-
-Traders and Asian Trading Networks in the 16th and 17th Centuries,
-
-ed. by Ernst van Veen and Leonard Blussé, 24-34. Leiden: CNWS,
-
-2005.
-
-Peacock, David, and Lucy Blue, eds. Myos Hormos-Quseir al-Qadim:
-
-Roman and Islamic Ports on the Red Sea. Vol. 1, Survey and
-
-Excavations, 1999-2003. Oxford: Oxbow, 2006.
-
-Peacock, David, and Andrew Peacock. "The Enigma of 'Aydhab: A
-
-Medieval Islamic Port on the Red Sea Coast." IJNA 37:1 (2008):
-
-32-48.
+Peacock, David, and Andrew Peacock. “The Enigma of ’Aydhab: A Medieval Islamic Port on the Red Sea Coast.” IJNA 37:1 (2008): 32–48.
 
 Pearson, Michael N. The Indian Ocean. London: Routledge, 2003.
 
-------. "Introduction." In India and the Indian Ocean, 1500-1800,
+———. “Introduction.” In India and the Indian Ocean, 1500–1800, ed. by Ashin Das Gupta and M. N. Pearson, 1–24. Calcutta: Oxford Univ. Press, 1987.
 
-ed. by Ashin Das Gupta and M. N. Pearson, 1-24. Calcutta: Oxford
+Pennell, C. R., ed. Bandits at Sea: A Pirates Reader. New York: New York Univ. Press, 2001.
 
-Univ. Press, 1987.
+Penrose, Charles. 1838 April Fourth 1938: A Century of Atlantic Steam Navigation. Princeton: Newcomen Society, 1938.
 
-Pennell, C. R., ed. Bandits at Sea: A Pirates Reader. New York: New
+Pepys, Samuel. The Diary of Samuel Pepys: A New and Complete Transcription, ed. by Robert Latham and William Matthews. 11 vols. Berkeley: Univ. of California Press, 1970–83.
 
-York Univ. Press, 2001.
+Pérez-Mallaína, Pablo E. Spain’s Men of the Sea: Daily Life on the Indies Fleets in the Sixteenth Century. Trans. Carla Rahn Phillips. Baltimore: Johns Hopkins Univ. Press, 1998.
 
-Penrose, Charles. 1838 April Fourth 1938: A Century of Atlantic
+Perruso, Richard. “The Development of the Doctrine of Res Communes in Medieval and Early Modern Europe.” Tijdschrift voor Rechstgeschiedenis 70 (2002): 69–93.
 
-Steam Navigation. Princeton: Newcomen Society, 1938.
+Peterson, C. A. “Court and Province in Mid- and Late T’ang.” In The Cambridge History of China. Vol. 3, Sui and T’ang China, 589–906, ed. by Denis Twitchett, 464–560. Cambridge: Cambridge Univ. Press, 1979.
 
-Pepys, Samuel. The Diary of Samuel Pepys: A New and Complete
+———. “Old Illusions and New Realities: Sung Foreign Policy, 1217–1234.” In China Among Equals: The Middle Kingdom and Its Neighbors, 10th-14th Centuries, ed. by Morris Rossabi, 204–39. Berkeley: Univ. of California Press, 1983.
 
-Transcription, ed. by Robert Latham and William Matthews. 11
+Petrie, Donald A. The Prize Game: Lawful Looting on the High Seas in the Days of Fighting Sail. Annapolis: Naval Institute, 1999.
 
-vols. Berkeley: Univ. of California Press, 1970-83.
+Petrow, Richard. In the Wake of Torrey Canyon. New York: David McKay, 1968.
 
-Pérez-Mallaína, Pablo E. Spain's Men of the Sea: Daily Life on the
+Pett, Phineas. The Autobiography of Phineas Pett, ed. by W. G. Perrin. London: Navy Records Society, 1918.
 
-Indies Fleets in the Sixteenth Century. Trans. Carla Rahn Phillips.
+Phillips, Carla Rahn. “The Galleon.” In Cogs, Caravels and Galleons, ed. by Gardiner and Unger, 98–114.
 
-Baltimore: Johns Hopkins Univ. Press, 1998.
+———. “Iberian Ships and Shipbuilding in the Age of Discovery.” In Maritime History. Vol. 1, The Age of Discovery, ed. by John B. Hattendorf, 215–38. Malabar, FL: Krieger, 1996.
 
-Perruso, Richard. "The Development of the Doctrine of Res
+———. Six Galleons for the King of Spain: Imperial Defense in the Early Seventeenth Century. Baltimore: Johns Hopkins Univ. Press, 1986.
 
-Communes in Medieval and Early Modern Europe." Tijdschrift voor
+Phillips, E. J. The Founding of Russia’s Navy: Peter the Great and the Azov Fleet, 1688–1714. Westport: Greenwood, 1993.
 
-Rechstgeschiedenis 70 (2002): 69-93.
+Phillips, William D., Jr., and Carla Rahn Phillips. The Worlds of Christopher Columbus. Cambridge: Cambridge Univ. Press, 1992.
 
-Peterson, C. A. "Court and Province in Midand Late T'ang." In The
+Picard, Christophe. “Bahriyyun, émirs et califes: l’origine des équipages des flottes musulmanes en Méditerranée occidentale (VIIIe-Xe siècle).” Medieval Encounters 13 (2007): 413–51.
 
-Cambridge History of China. Vol. 3, Sui and T'ang China, 589-906,
+———. L’Océan Atlantique Musulman de la conquête arabe à l’époque almohade: Navigation et mise en valeur des côtes d’al-Andalus et du Maghreb occidental (Portugal-Espagne-Maroc). Paris: Maisonneuve & Larose/Editions UNESCO, 1997.
 
-ed. by Denis Twitchett, 464-560. Cambridge: Cambridge Univ.
+Pierce, Richard. “After 5,000 Year Voyage, World’s Oldest Built Boats Deliver: Archeologists’ First Look Confirms Existence of Earliest Royal Boats at Abydos.” www.abc.se/~m10354/mar/abydos.htm.
 
-Press, 1979.
+Pigafetta, Antonio, and James Alexander Robertson. Magellan’s Voyage Around the World. Cleveland: Clark, 1906.
 
-------. "Old Illusions and New Realities: Sung Foreign Policy, 1217-
+Pilgrim, Donald. “The Colbert-Seignelay Naval Reforms and the Beginnings of the War of the League of Augsburg.” French Historical Studies 9:2 (1975): 235–62.
 
-1234." In China Among Equals: The Middle Kingdom and Its
+Pires, Tomé. The Suma Oriental of Tomé Pires: An Account of the East, from the Red Sea to Japan, Written in Malacca and India in 1512–1515. Trans. Armando Cortesão. 2 vols. London: Hakluyt, 1944.
 
-Neighbors, 10th-14th Centuries, ed. by Morris Rossabi, 204-39.
+“Pius Mau Piailug, Master Navigator, Died on July 12th, Aged 78.” The Economist (July 24, 2010): 84.
 
-Berkeley: Univ. of California Press, 1983.
+Planhol, Xavier de. L’Islam et la mer: La mosquée et le matelot VIIe-XXe siècle. Paris: Perrin, 2000.
 
-Petrie, Donald A. The Prize Game: Lawful Looting on the High Seas
+Plato. The Collected Dialogues of Plato. Ed. by Edith Hamilton and Huntington Cairns, 1225–513. New York: Pantheon, 1961.
 
-in the Days of Fighting Sail. Annapolis: Naval Institute, 1999.
+Pliny the Elder. Natural History. Trans. H. Rackham. 10 vols. Cambridge: Harvard Univ. Press, 1938–63.
 
-Petrow, Richard. In the Wake of Torrey Canyon. New York: David
+Plutarch. Plutarch’s Lives. Trans. P. Bernadotte. 11 vols. Cambridge: Harvard Univ. Press, 1967.
 
-McKay, 1968.
+Polanyi, Karl. “Ports of Trade in Early Societies.” Journal of Economic History 23:1 (1963): 30–45.
 
-Pett, Phineas. The Autobiography of Phineas Pett, ed. by W. G. Perrin.
+Polo, Marco. The Travels. Trans. Ronald Latham. New York: Penguin, 1958.
 
-London: Navy Records Society, 1918.
+Polybius. The Histories. Trans. W. R. Paton. 6 vols. Cambridge: Harvard Univ. Press, 1975.
 
-Phillips, Carla Rahn. "The Galleon." In Cogs, Caravels and Galleons,
-
-ed. by Gardiner and Unger, 98-114.
-
-------. "Iberian Ships and Shipbuilding in the Age of Discovery." In
-
-Maritime History. Vol. 1, The Age of Discovery, ed. by John B.
-
-Hattendorf, 215-38. Malabar, FL: Krieger, 1996.
-
-------. Six Galleons for the King of Spain: Imperial Defense in the
-
-Early Seventeenth Century. Baltimore: Johns Hopkins Univ. Press,
-
-1986.
-
-Phillips, E. J. The Founding of Russia's Navy: Peter the Great and the
-
-Azov Fleet, 1688-1714. Westport: Greenwood, 1993.
-
-Phillips, William D., Jr., and Carla Rahn Phillips. The Worlds of
-
-Christopher Columbus. Cambridge: Cambridge Univ. Press, 1992.
-
-Picard, Christophe. "Bahriyyun, émirs et califes: l'origine des
-
-équipages des flottes musulmanes en Méditerranée occidentale
-
-(VIIIe-Xe siècle)." Medieval Encounters 13 (2007): 413-51.
-
-------. L'Océan Atlantique Musulman de la conquête arabe à
-
-l'époque almohade: Navigation et mise en valeur des côtes d'alAndalus et du Maghreb occidental (Portugal-Espagne-Maroc).
-
-Paris: Maisonneuve & Larose/Editions UNESCO, 1997.
-
-Pierce, Richard. "After 5,000 Year Voyage, World's Oldest Built Boats
-
-Deliver: Archeologists' First Look Confirms Existence of Earliest
-
-Royal Boats at Abydos." www.abc.se/~m10354/mar/abydos.htm.
-
-Pigafetta, Antonio, and James Alexander Robertson. Magellan's
-
-Voyage Around the World. Cleveland: Clark, 1906.
-
-Pilgrim, Donald. "The Colbert-Seignelay Naval Reforms and the
-
-Beginnings of the War of the League of Augsburg." French
-
-Historical Studies 9:2 (1975): 235-62.
-
-Pires, Tomé. The Suma Oriental of Tomé Pires: An Account of the
-
-East, from the Red Sea to Japan, Written in Malacca and India in
-
-1512-1515. Trans. Armando Cortesão. 2 vols. London: Hakluyt,
-
-1944.
-
-"Pius Mau Piailug, Master Navigator, Died on July 12th, Aged 78."
-
-The Economist (July 24, 2010): 84.
-
-Planhol, Xavier de. L'Islam et la mer: La mosquée et le matelot VIIeXXe siècle. Paris: Perrin, 2000.
-
-Plato. The Collected Dialogues of Plato. Ed. by Edith Hamilton and
-
-Huntington Cairns, 1225-513. New York: Pantheon, 1961.
-
-Pliny the Elder. Natural History. Trans. H. Rackham. 10 vols.
-
-Cambridge: Harvard Univ. Press, 1938-63.
-
-Plutarch. Plutarch's Lives. Trans. P. Bernadotte. 11 vols. Cambridge:
-
-Harvard Univ. Press, 1967.
-
-Polanyi, Karl. "Ports of Trade in Early Societies." Journal of
-
-Economic History 23:1 (1963): 30-45.
-
-Polo, Marco. The Travels. Trans. Ronald Latham. New York: Penguin,
-
-1958.
-
-Polybius. The Histories. Trans. W. R. Paton. 6 vols. Cambridge:
-
-Harvard Univ. Press, 1975.
-
-------. The Rise of the Roman Empire. Trans. Ian Scott-Kilvert. New
-
-York: Penguin, 1980.
+———. The Rise of the Roman Empire. Trans. Ian Scott-Kilvert. New York: Penguin, 1980.
 
 Polynesian Voyaging Society. http://pvs.kcc.hawaii.edu/index.html.
 
-Potts, D. T. Arabian Gulf in Antiquity. 2 vols. New York: Oxford Univ.
+Potts, D. T. Arabian Gulf in Antiquity. 2 vols. New York: Oxford Univ. Press, 1991.
 
-Press, 1991.
+———. Mesopotamian Civilization: The Material Foundations. Ithaca: Cornell Univ. Press, 1997.
 
-------. Mesopotamian Civilization: The Material Foundations.
-
-Ithaca: Cornell Univ. Press, 1997.
-
-------. "The Parthian Presence in the Arabian Gulf." In The Indian
-
-Ocean in Antiquity, ed. by Reade, 269-85.
+———. “The Parthian Presence in the Arabian Gulf.” In The Indian Ocean in Antiquity, ed. by Reade, 269–85.
 
 Powell, Barry B. Homer. Malden: Blackwell, 2004.
 
-Prakash, Om. "Asian Merchants and the Portuguese Trade in Asia." In
+Prakash, Om. “Asian Merchants and the Portuguese Trade in Asia.” In Rivalry and Conflict: European Traders and Asian Trading Networks in the 16th and 17th Centuries, ed. by Ernst van Veen and Leonard Blussé, 131–41. Leiden: CNWS, 2005.
 
-Rivalry and Conflict: European Traders and Asian Trading
+———. “The Indian Maritime Merchant, 1500–1800.” JESHO 47:3 (2004): 436–57.
 
-Networks in the 16th and 17th Centuries, ed. by Ernst van Veen and
+———. “Trade and Politics in Eighteenth-Century Bengal.” In On the Eighteenth Century as a Category of Asian History, ed. by Blussé and Gaastra, 237–60.
 
-Leonard Blussé, 131-41. Leiden: CNWS, 2005.
+Pritchard, James B. The Ancient Near East. Vol. 1, An Anthology of Text and Pictures. Princeton: Princeton Univ. Press, 1958.
 
-------. "The Indian Maritime Merchant, 1500-1800." JESHO 47:3
+Procopius. History of the Wars; The Secret History; Buildings. Trans. H. B. Dewing. 7 vols. Cambridge: Harvard Univ. Press, 1924–40.
 
-(2004): 436-57.
+Protocol of Proceedings of Crimea Conference, Agreement Regarding Japan, February 1945. Avalon Project, Yale Law School. http://avalon.law.yale.edu/wwii/yalta.asp.
 
-------. "Trade and Politics in Eighteenth-Century Bengal." In On the
+Pryor, John H. “From Dromon to Galea: Mediterranean Bireme Galleys, ad 500–1300.” In The Age of the Galley, ed. by Gardiner and Morrison, 101–16.
 
-Eighteenth Century as a Category of Asian History, ed. by Blussé
+———. Geography, Technology and War: Studies in the Maritime History of the Mediterranean, 649–1571. Cambridge: Cambridge Univ. Press, 1988.
 
-and Gaastra, 237-60.
+———. “The Maritime Republics.” In The New Cambridge Medieval History: c. 1198–c. 1300, ed. by David Abulafia and Rosamond McKitterick, 5:419–57. New York: Oxford Univ. Press, 1999.
 
-Pritchard, James B. The Ancient Near East. Vol. 1, An Anthology of
+———. “Mediterranean Commerce in the Middle Ages: A Voyage Under Contract of Commenda.” Viator 14 (1983): 133–94.
 
-Text and Pictures. Princeton: Princeton Univ. Press, 1958.
+———. “The Naval Battles of Roger of Lauria.” Journal of Medieval History 9 (1983): 179–216.
 
-Procopius. History of the Wars; The Secret History; Buildings. Trans.
+———. “The Origins of the Commenda Contract.” Speculum 52:1 (1977): 5–37.
 
-H. B. Dewing. 7 vols. Cambridge: Harvard Univ. Press, 1924-40.
+———. “The Venetian Fleet for the Fourth Crusade and the Diversion of the Crusade to Constantinople.” In The Experience of Crusading. Vol. 1, Western Approaches, ed. by M. Bull and N. Housley, 103–23. Cambridge: Cambridge Univ. Press, 2003.
 
-Protocol of Proceedings of Crimea Conference, Agreement Regarding
+Pryor, John H., and Elizabeth M. Jeffreys, with Ahmad Shboul. The Age of the Dromon: The Byzantine Navy, ca 500–1204. Leiden: Brill, 2006.
 
-Japan, February 1945. Avalon Project, Yale Law School.
+Pulleyblank, Edwin G. The Background of the Rebellion of An Lu-shan. London: Oxford Univ. Press, 1955.
 
-http://avalon.law.yale.edu/wwii/yalta.asp.
+Purchas, Samuel. Hakluytus Posthumus; or, Purchas His Pilgrimes. 20 vols. 1625. Reprint, Glasgow: James MacLehose & Sons, 1905–7.
 
-Pryor, John H. "From Dromon to Galea: Mediterranean Bireme
+Qaisar, A. Jan. “Shipbuilding in the Mughal Empire During the Seventeenth Century.” Indian Economic and Social History Review 5 (1968): 149–70.
 
-Galleys, ad 500-1300." In The Age of the Galley, ed. by Gardiner
+Quinn, David B., ed. The Voyages and Colonising Enterprises of Sir Humphrey Gilbert. London: Hakluyt, 1940.
 
-and Morrison, 101-16.
+Quinn, David B., and Alison M. Quinn. The English New England Voyages, 1602–1608. London: Hakluyt, 1983.
 
-------. Geography, Technology and War: Studies in the Maritime
+Radell, David R., and James J. Parsons, “Realejo: A Forgotten Colonial Port and Shipbuilding Center in Nicaragua.” Hispanic American Historical Review 51:2 (1971): 295–312.
 
-History of the Mediterranean, 649-1571. Cambridge: Cambridge
+Radulet, Carmen. “Vasco da Gama and His Successors.” In Portugal, the Pathfinder, ed. by Winius, 133–43.
 
-Univ. Press, 1988.
+Randall, Anthony G. “The Timekeeper That Won the Longitude Prize.” In The Quest for Longitude, ed. by Andrewes, 236–54.
 
-------. "The Maritime Republics." In The New Cambridge Medieval
+Ratcliff, Ronald E. “Building Partners’ Capacity: The Thousand-Ship Navy.” Naval War College Review 60:4 (2007): 45–58.
 
-History: c. 1198-c. 1300, ed. by David Abulafia and Rosamond
+Ray, Himanshu Prabha. “Early Coastal Trade in the Bay of Bengal.” In The Indian Ocean in Antiquity, ed. by Reade, 351–64.
 
-McKitterick, 5:419-57. New York: Oxford Univ. Press, 1999.
+———. Monastery and Guild: Commerce Under the Satavahanas. New Delhi: Oxford Univ. Press, 1986.
 
-------. "Mediterranean Commerce in the Middle Ages: A Voyage
+———. “A Resurvey of Roman Contacts with the East.” In Athens, Aden, Arikamedu: Essays on the Interrelations Between India, Arabia, and the Eastern Mediterranean, ed. by Marie-Françoise Boussac and Jean-François Salles, 97–114. New Delhi: Manohar, 1995.
 
-Under Contract of Commenda." Viator 14 (1983): 133-94.
+———. “The Yavana Presence in Ancient India.” In Athens, Aden, Arikamedu: Essays on the Interrelations Between India, Arabia, and the Eastern Mediterranean, ed. by Marie-Françoise Boussac and Jean-François Salles, 76–82. New Delhi: Manohar, 1995.
 
-------. "The Naval Battles of Roger of Lauria." Journal of Medieval
+Ray, Rajat Kanta. “Indian Society and British Supremacy.” In The Oxford History of the British Empire. Vol. 2, The Eighteenth Century, 508–29. Oxford: Oxford Univ. Press, 1998.
 
-History 9 (1983): 179-216.
+Reade, Julian, ed. The Indian Ocean in Antiquity. London: Kegan Paul, 1996.
 
-------. "The Origins of the Commenda Contract." Speculum 52:1
+Redford, Donald B. Egypt, Canaan, and Israel in Ancient Times. Princeton: Princeton Univ. Press, 1992.
 
-(1977): 5-37.
+Redmount, Carol. “The Wadi Tumilat and the Canal of the Pharaohs.” Journal of Near Eastern Studies 54 (1994): 127–35.
 
-------. "The Venetian Fleet for the Fourth Crusade and the Diversion
+Reed, C. M. Maritime Traders in the Ancient Greek World. Cambridge: Cambridge Univ. Press, 2004.
 
-of the Crusade to Constantinople." In The Experience of Crusading.
+Reed, Robert R. “The Colonial Origins of Manila and Batavia: Desultory Notes on Nascent Metropolitan Primacy and Urban Systems in Southeast Asia.” Asian Studies (Quezon City) 5 (1967): 543–62.
 
-Vol. 1, Western Approaches, ed. by M. Bull and N. Housley, 103-23.
+Reid, Anthony. “The Rise and Fall of Sino-Javanese Shipping.” In Charting the Shape of Early Modern Southeast Asia, 56–84. Chiang Mai, Thailand: Silkworm Books, 1999.
 
-Cambridge: Cambridge Univ. Press, 2003.
+———. Southeast Asia in the Age of Commerce, 1450–1680: Expansion and Crisis. New Haven: Yale Univ. Press, 1993.
 
-Pryor, John H., and Elizabeth M. Jeffreys, with Ahmad Shboul. The
+Reilly, Bernard F. The Medieval Spains. Cambridge: Cambridge Univ. Press, 1993.
 
-Age of the Dromon: The Byzantine Navy, ca 500-1204. Leiden:
+Reinert, Stephen W. “The Muslim Presence in Constantinople, 9th–15th Centuries: Some Preliminary Observations.” In Studies on the Internal Diaspora of the Byzantine Empire, ed. by Hélène Ahrweiler and Angeliki E. Laiou, 125–150. Washington: Dumbarton Oaks Research Library and Collection, 1998.
 
-Brill, 2006.
+Reischauer, Edwin O. Ennin’s Travels in T’ang China. New York: Ronald, 1955.
 
-Pulleyblank, Edwin G. The Background of the Rebellion of An Lushan. London: Oxford Univ. Press, 1955.
+Rgveda Samhita, vol. 1. Trans. H. H. Wilson and Bhasya of Sayanacarya. New Delhi: Parimal, 1997.
 
-Purchas, Samuel. Hakluytus Posthumus; or, Purchas His Pilgrimes. 20
+Rickover, Hyman George. How the Battleship Maine Was Destroyed. Washington: Naval History Division, Dept. of the Navy, 1976.
 
-vols. 1625. Reprint, Glasgow: James MacLehose & Sons, 1905-7.
+Riess, Warren C. Angel Gabriel: The Elusive English Galleon. Bristol: 1797 House, 2001.
 
-Qaisar, A. Jan. "Shipbuilding in the Mughal Empire During the
+Riley-Smith, Jonathan. The Crusades: A History. 2nd ed. New Haven: Yale Univ. Press, 2005.
 
-Seventeenth Century." Indian Economic and Social History Review
+Rimbert. Anskar, the Apostle of the North. Trans. Charles H. Robinson. London: Society for the Propagation of the Gospel in Foreign Parts, 1921.
 
-5 (1968): 149-70.
+Risso, Patricia. Merchants and Faith: Muslim Commerce and Culture in the Indian Ocean. Boulder: Westview, 1995.
 
-Quinn, David B., ed. The Voyages and Colonising Enterprises of Sir
+Ritchie, G. S. The Admiralty Chart: British Naval Hydrography in the Nineteenth Century. London: Hollis & Carter, 1967.
 
-Humphrey Gilbert. London: Hakluyt, 1940.
-
-Quinn, David B., and Alison M. Quinn. The English New England
-
-Voyages, 1602-1608. London: Hakluyt, 1983.
-
-Radell, David R., and James J. Parsons, "Realejo: A Forgotten
-
-Colonial Port and Shipbuilding Center in Nicaragua." Hispanic
-
-American Historical Review 51:2 (1971): 295-312.
-
-Radulet, Carmen. "Vasco da Gama and His Successors." In Portugal,
-
-the Pathfinder, ed. by Winius, 133-43.
-
-Randall, Anthony G. "The Timekeeper That Won the Longitude
-
-Prize." In The Quest for Longitude, ed. by Andrewes, 236-54.
-
-Ratcliff, Ronald E. "Building Partners' Capacity: The Thousand-Ship
-
-Navy." Naval War College Review 60:4 (2007): 45-58.
-
-Ray, Himanshu Prabha. "Early Coastal Trade in the Bay of Bengal." In
-
-The Indian Ocean in Antiquity, ed. by Reade, 351-64.
-
-------. Monastery and Guild: Commerce Under the Satavahanas.
-
-New Delhi: Oxford Univ. Press, 1986.
-
-------. "A Resurvey of Roman Contacts with the East." In Athens,
-
-Aden, Arikamedu: Essays on the Interrelations Between India,
-
-Arabia, and the Eastern Mediterranean, ed. by Marie-Françoise
-
-Boussac and Jean-François Salles, 97-114. New Delhi: Manohar,
-
-1995.
-
-------. "The Yavana Presence in Ancient India." In Athens, Aden,
-
-Arikamedu: Essays on the Interrelations Between India, Arabia, and
-
-the Eastern Mediterranean, ed. by Marie-Françoise Boussac and
-
-Jean-François Salles, 76-82. New Delhi: Manohar, 1995.
-
-Ray, Rajat Kanta. "Indian Society and British Supremacy." In The
-
-Oxford History of the British Empire. Vol. 2, The Eighteenth
-
-Century, 508-29. Oxford: Oxford Univ. Press, 1998.
-
-Reade, Julian, ed. The Indian Ocean in Antiquity. London: Kegan Paul,
-
-1996.
-
-Redford, Donald B. Egypt, Canaan, and Israel in Ancient Times.
-
-Princeton: Princeton Univ. Press, 1992.
-
-Redmount, Carol. "The Wadi Tumilat and the Canal of the Pharaohs."
-
-Journal of Near Eastern Studies 54 (1994): 127-35.
-
-Reed, C. M. Maritime Traders in the Ancient Greek World. Cambridge:
-
-Cambridge Univ. Press, 2004.
-
-Reed, Robert R. "The Colonial Origins of Manila and Batavia:
-
-Desultory Notes on Nascent Metropolitan Primacy and Urban
-
-Systems in Southeast Asia." Asian Studies (Quezon City) 5 (1967):
-
-543-62.
-
-Reid, Anthony. "The Rise and Fall of Sino-Javanese Shipping." In
-
-Charting the Shape of Early Modern Southeast Asia, 56-84. Chiang
-
-Mai, Thailand: Silkworm Books, 1999.
-
-------. Southeast Asia in the Age of Commerce, 1450-1680:
-
-Expansion and Crisis. New Haven: Yale Univ. Press, 1993.
-
-Reilly, Bernard F. The Medieval Spains. Cambridge: Cambridge Univ.
-
-Press, 1993.
-
-Reinert, Stephen W. "The Muslim Presence in Constantinople, 9th-
-
-15th Centuries: Some Preliminary Observations." In Studies on the
-
-Internal Diaspora of the Byzantine Empire, ed. by Hélène Ahrweiler
-
-and Angeliki E. Laiou, 125-150. Washington: Dumbarton Oaks
-
-Research Library and Collection, 1998.
-
-Reischauer, Edwin O. Ennin's Travels in T'ang China. New York:
-
-Ronald, 1955.
-
-Rgveda Samhita, vol. 1. Trans. H. H. Wilson and Bhasya of
-
-Sayanacarya. New Delhi: Parimal, 1997.
-
-Rickover, Hyman George. How the Battleship Maine Was Destroyed.
-
-Washington: Naval History Division, Dept. of the Navy, 1976.
-
-Riess, Warren C. Angel Gabriel: The Elusive English Galleon. Bristol:
-
-1797 House, 2001.
-
-Riley-Smith, Jonathan. The Crusades: A History. 2nd ed. New Haven:
-
-Yale Univ. Press, 2005.
-
-Rimbert. Anskar, the Apostle of the North. Trans. Charles H. Robinson.
-
-London: Society for the Propagation of the Gospel in Foreign Parts,
-
-1921.
-
-Risso, Patricia. Merchants and Faith: Muslim Commerce and Culture
-
-in the Indian Ocean. Boulder: Westview, 1995.
-
-Ritchie, G. S. The Admiralty Chart: British Naval Hydrography in the
-
-Nineteenth Century. London: Hollis & Carter, 1967.
-
-Ritchie, Robert C. Captain Kidd and the War Against the Pirates.
-
-Cambridge: Harvard Univ. Press, 1986.
+Ritchie, Robert C. Captain Kidd and the War Against the Pirates. Cambridge: Harvard Univ. Press, 1986.
 
 Roberts, J. M. History of the World. New York: Knopf, 1976.
 
-Rocca, Edgardo José. "Buenos Aires." In The Oxford Encyclopedia of
+Rocca, Edgardo José. “Buenos Aires.” In The Oxford Encyclopedia of Maritime History, ed. by Hattendorf, 1:323–24.
 
-Maritime History, ed. by Hattendorf, 1:323-24.
+Rockhill, W. W. “Notes on the Relations and Trade of China with the Eastern Archipelago and the Coast of the Indian Ocean During the Fourteenth Century.” Toung Pao 15 (1914): 419–47.
 
-Rockhill, W. W. "Notes on the Relations and Trade of China with the
+Rodger, N. A. M. The Command of the Ocean: A Naval History of Britain, 1649–1815. New York: Norton, 2005.
 
-Eastern Archipelago and the Coast of the Indian Ocean During the
+———. “Considerations on Writing a General Naval History.” In Doing Naval History: Essays Toward Improvement, ed. by John B. Hattendorf, 117–28. Newport: Naval War College Press, 1995.
 
-Fourteenth Century." Toung Pao 15 (1914): 419-47.
+———. “The Development of Broadside Gunnery.” Mariner’s Mirror 82 (1996): 310–24.
 
-Rodger, N. A. M. The Command of the Ocean: A Naval History of
+———. “Guns and Sails in English Colonization.” In The Oxford History of the British Empire. Vol. 1, The Origins of Empire, ed. by Nicholas Canny, 79–88. Oxford: Oxford Univ. Press, 1998.
 
-Britain, 1649-1815. New York: Norton, 2005.
+———. “The Naval Service of the Cinque Ports.” English Historical Review 111:442 (1996): 636–51.
 
-------. "Considerations on Writing a General Naval History." In
+———. “The New Atlantic: Naval Warfare in the Sixteenth Century.” In War at Sea in the Middle Ages and Renaissance, ed. by John B. Hattendorf and Richard W. Unger, 233–48. Rochester, NY: Boydell, 2003.
 
-Doing Naval History: Essays Toward Improvement, ed. by John B.
+———. The Safeguard of the Sea: A Naval History of Britain, 660–1649. New York: Norton, 1998.
 
-Hattendorf, 117-28. Newport: Naval War College Press, 1995.
+———. The Wooden World: An Anatomy of the Georgian Navy. New York: Norton, 1996.
 
-------. "The Development of Broadside Gunnery." Mariner's Mirror
+Røksund, Arne. The Jeune Ecole: The Strategy of the Weak. Leiden: Brill, 2007.
 
-82 (1996): 310-24.
+Roland, Alex, W. Jeffrey Bolster, and Alexander Keyssar. The Way of the Ship: America’s Maritime History Reenvisioned, 1600–2000. New York: Wiley, 2008.
 
-------. "Guns and Sails in English Colonization." In The Oxford
+Roosevelt, Theodore. The Works of Theodore Roosevelt. New York: Scribner’s, 1923.
 
-History of the British Empire. Vol. 1, The Origins of Empire, ed. by
+Roover, Florence Edler de. “Early Examples of Marine Insurance.” Journal of Economic History 5:2 (1945): 172–200.
 
-Nicholas Canny, 79-88. Oxford: Oxford Univ. Press, 1998.
+Rose, Susan. Medieval Naval Warfare, 1000–1500. London: Routledge, 2002.
 
-------. "The Naval Service of the Cinque Ports." English Historical
+Ross, Lillian. “Where Are They Now? The Kaiser’s Yacht.” The New Yorker (June 22, 1946): 66–80.
 
-Review 111:442 (1996): 636-51.
+Rossabi, Morris. Khubilai Khan: His Life and Times. Berkeley: Univ. of California Press, 1988.
 
-------. "The New Atlantic: Naval Warfare in the Sixteenth Century."
+Rougeulle, Axelle. “Medieval Trade Networks in the Western Indian Ocean (8th–14th Centuries): Some Reflections from the Distribution Patterns of Chinese Imports in the Islamic World.” In Tradition and Archaeology: Early Maritime Contacts in the Indian Ocean, ed. by Himanshu Prabha Ray and Jean-François Salles, 159–80. New Delhi: Manohar, 1999.
 
-In War at Sea in the Middle Ages and Renaissance, ed. by John B.
+Rubin, Julius, “An Innovating Public Improvement: The Erie Canal.” In Canals and American Economic Development, ed. by Carter Goodrich, 15–66. New York: Columbia Univ. Press, 1961.
 
-Hattendorf and Richard W. Unger, 233-48. Rochester, NY: Boydell,
+Rule, Margaret, and Jason Monaghan. A Gallo-Roman Trading Vessel from Guernsey: The Excavation and Recovery of a Third Century Shipwreck. Candie Gardens: Guernsey Museums & Galleries, 1993.
 
-2003.
+Runciman, Steven. “Byzantine Trade and Industry.” In The Cambridge Economic History of Europe. Vol. 2, Trade and Industry in the Middle Ages, ed. by M. M. Postan, 132–67. Cambridge: Cambridge Univ. Press, 1987.
 
-------. The Safeguard of the Sea: A Naval History of Britain, 660-
+Russell, P. E. Prince Henry “the Navigator.” New Haven: Yale Univ. Press, 2001.
 
-1649. New York: Norton, 1998.
+Russell-Wood, A. J. R. World on the Move: The Portuguese in Africa, Asia, and America, 1415–1808. New York: St. Martin’s, 1992.
 
-------. The Wooden World: An Anatomy of the Georgian Navy. New
+Ryan, W. F. “Peter the Great and English Maritime Technology.” In Peter the Great and the West: New Perspectives, ed. by Lindsey Hughes, 130–58. Basingstoke, UK: Palgrave Macmillan, 2000.
 
-York: Norton, 1996.
+Sail Training Assoc. of Western Australia website. Duyfken 1606 Replica Foundation. http://www.stawa.org.au/linksmain.html.
 
-Røksund, Arne. The Jeune Ecole: The Strategy of the Weak. Leiden:
+Sakamaki, Shunzo. “The Heike: From Defeat at Dannoura to a Golden Age in Ryukyu?” Journal of Asian Studies 27:1 (1967): 115–22.
 
-Brill, 2007.
+Salles, Jean-François. “Achaemenid and Hellenistic Trade in the Indian Ocean.” In The Indian Ocean in Antiquity, ed. by Reade, 251–67.
 
-Roland, Alex, W. Jeffrey Bolster, and Alexander Keyssar. The Way of
+Salmon, E. T. “The Coloniae Maritimae.” Athenaeum 41 (1963): 3–38.
 
-the Ship: America's Maritime History Reenvisioned, 1600-2000.
+Salomon, Richard. “On the Origin of the Early Indian Scripts: A Review Article.” JAOS 115:2 (1995): 271–79.
 
-New York: Wiley, 2008.
+Sandars, N. K. The Sea Peoples: Warriors of the Ancient Mediterranean, 1250–1150 b.c. London: Thames & Hudson, 1978.
 
-Roosevelt, Theodore. The Works of Theodore Roosevelt. New York:
+Sansom, George B. A History of Japan. 3 vols. Berkeley: Univ. of California Press, 1958–63.
 
-Scribner's, 1923.
+Sawyer, Peter. “The Viking Expansion.” In The Cambridge History of Scandinavia. Vol. 1, Prehistory to 1520, ed. by Knut Helle, 104–20. Cambridge: Cambridge Univ. Press, 2003.
 
-Roover, Florence Edler de. "Early Examples of Marine Insurance."
+Schafer, Edward H. The Golden Peaches of Samarkand: A Study of T’ang Exotics. Berkeley: Univ. of California Press, 1963.
 
-Journal of Economic History 5:2 (1945): 172-200.
+———. The Vermilion Bird: T’ang Images of the South. Berkeley: Univ. of California Press, 1967.
 
-Rose, Susan. Medieval Naval Warfare, 1000-1500. London:
+Schilder, Günter, and Marco van Egmond. “Maritime Cartography in the Low Countries During the Renaissance.” In The History of Cartography. Vol. 3, Cartography in the Renaissance, ed. by David Woodward, 1384–432. Chicago: Univ. of Chicago Press, 2007.
 
-Routledge, 2002.
+Schildhauer, Johannes. The Hansa: History and Culture. Leipzig: Edition Leipzig, 1985.
 
-Ross, Lillian. "Where Are They Now? The Kaiser's Yacht." The New
+Schom, Alan. Trafalgar: Countdown to Battle, 1803–1805. New York: Oxford Univ. Press, 1990.
 
-Yorker (June 22, 1946): 66-80.
+Schonfield, Hugh J. The Suez Canal in Peace and War, 1869–1969. Coral Gables: Univ. of Miami Press, 1969.
 
-Rossabi, Morris. Khubilai Khan: His Life and Times. Berkeley: Univ.
+Schottenhammer, Angela. “Transfer of Xiangyao from Iran and Arabia to China—A Reinvestigation of Entries in the Youyang zazu (863).” In Aspects of the Maritime Silk Road: From the Persian Gulf to the East China Sea, ed. by Ralph Kauz, 117–49. Wiesbaden: Harrassowitz Verlag, 2010.
 
-of California Press, 1988.
+Schultz, Charles R. Forty-niners ’Round the Horn. Columbia: Univ. of South Carolina Press, 1999.
 
-Rougeulle, Axelle. "Medieval Trade Networks in the Western Indian
-
-Ocean (8th-14th Centuries): Some Reflections from the Distribution
-
-Patterns of Chinese Imports in the Islamic World." In Tradition and
-
-Archaeology: Early Maritime Contacts in the Indian Ocean, ed. by
-
-Himanshu Prabha Ray and Jean-François Salles, 159-80. New
-
-Delhi: Manohar, 1999.
-
-Rubin, Julius, "An Innovating Public Improvement: The Erie Canal."
-
-In Canals and American Economic Development, ed. by Carter
-
-Goodrich, 15-66. New York: Columbia Univ. Press, 1961.
-
-Rule, Margaret, and Jason Monaghan. A Gallo-Roman Trading Vessel
-
-from Guernsey: The Excavation and Recovery of a Third Century
-
-Shipwreck. Candie Gardens: Guernsey Museums & Galleries, 1993.
-
-Runciman, Steven. "Byzantine Trade and Industry." In The Cambridge
-
-Economic History of Europe. Vol. 2, Trade and Industry in the
-
-Middle Ages, ed. by M. M. Postan, 132-67. Cambridge: Cambridge
-
-Univ. Press, 1987.
-
-Russell, P. E. Prince Henry "the Navigator." New Haven: Yale Univ.
-
-Press, 2001.
-
-Russell-Wood, A. J. R. World on the Move: The Portuguese in Africa,
-
-Asia, and America, 1415-1808. New York: St. Martin's, 1992.
-
-Ryan, W. F. "Peter the Great and English Maritime Technology." In
-
-Peter the Great and the West: New Perspectives, ed. by Lindsey
-
-Hughes, 130-58. Basingstoke, UK: Palgrave Macmillan, 2000.
-
-Sail Training Assoc. of Western Australia website. Duyfken 1606
-
-Replica Foundation. http://www.stawa.org.au/linksmain.html.
-
-Sakamaki, Shunzo. "The Heike: From Defeat at Dannoura to a Golden
-
-Age in Ryukyu?" Journal of Asian Studies 27:1 (1967): 115-22.
-
-Salles, Jean-François. "Achaemenid and Hellenistic Trade in the
-
-Indian Ocean." In The Indian Ocean in Antiquity, ed. by Reade,
-
-251-67.
-
-Salmon, E. T. "The Coloniae Maritimae." Athenaeum 41 (1963): 3-38.
-
-Salomon, Richard. "On the Origin of the Early Indian Scripts: A
-
-Review Article." JAOS 115:2 (1995): 271-79.
-
-Sandars, N. K. The Sea Peoples: Warriors of the Ancient
-
-Mediterranean, 1250-1150 b.c. London: Thames & Hudson, 1978.
-
-Sansom, George B. A History of Japan. 3 vols. Berkeley: Univ. of
-
-California Press, 1958-63.
-
-Sawyer, Peter. "The Viking Expansion." In The Cambridge History of
-
-Scandinavia. Vol. 1, Prehistory to 1520, ed. by Knut Helle, 104-20.
-
-Cambridge: Cambridge Univ. Press, 2003.
-
-Schafer, Edward H. The Golden Peaches of Samarkand: A Study of
-
-T'ang Exotics. Berkeley: Univ. of California Press, 1963.
-
-------. The Vermilion Bird: T'ang Images of the South. Berkeley:
-
-Univ. of California Press, 1967.
-
-Schilder, Günter, and Marco van Egmond. "Maritime Cartography in
-
-the Low Countries During the Renaissance." In The History of
-
-Cartography. Vol. 3, Cartography in the Renaissance, ed. by David
-
-Woodward, 1384-432. Chicago: Univ. of Chicago Press, 2007.
-
-Schildhauer, Johannes. The Hansa: History and Culture. Leipzig:
-
-Edition Leipzig, 1985.
-
-Schom, Alan. Trafalgar: Countdown to Battle, 1803-1805. New York:
-
-Oxford Univ. Press, 1990.
-
-Schonfield, Hugh J. The Suez Canal in Peace and War, 1869-1969.
-
-Coral Gables: Univ. of Miami Press, 1969.
-
-Schottenhammer, Angela. "Transfer of Xiangyao from Iran and Arabia
-
-to China--A Reinvestigation of Entries in the Youyang zazu (863)."
-
-In Aspects of the Maritime Silk Road: From the Persian Gulf to the
-
-East China Sea, ed. by Ralph Kauz, 117-49. Wiesbaden:
-
-Harrassowitz Verlag, 2010.
-
-Schultz, Charles R. Forty-niners 'Round the Horn. Columbia: Univ. of
-
-South Carolina Press, 1999.
-
-Schurz, William Lytle. The Manila Galleon. 1939. Reprint, Manila:
-
-Historical Conservation Society, 1985.
+Schurz, William Lytle. The Manila Galleon. 1939. Reprint, Manila: Historical Conservation Society, 1985.
 
 Scott, Walter. The Antiquary. 3 vols. London: 1816.
 
-Scrinari, V. Santa Maria, and Giuseppina Lauro. Ancient Ostia: Past
+Scrinari, V. Santa Maria, and Giuseppina Lauro. Ancient Ostia: Past and Present. Rome: Vision, 1981.
 
-and Present. Rome: Vision, 1981.
+Seaver, Kirsten A. The Frozen Echo: Greenland and the Exploration of North America, ca. A.D. 1000–1500. Stanford: Stanford Univ. Press, 1996.
 
-Seaver, Kirsten A. The Frozen Echo: Greenland and the Exploration
+Sedov, A. V. “Qana’ (Yemen) and the Indian Ocean: The Archaeological Evidence.” In Tradition and Archaeology: Early Maritime Contacts in the Indian Ocean, ed. by Himanshu Prabha Ray and Jean-François Salles, 11–35. New Delhi: Manohar, 1999.
 
-of North America, ca. A.D. 1000-1500. Stanford: Stanford Univ.
+Selden, John. Of the Dominion; or, Ownership of the Sea. New York: Arno, 1972.
 
-Press, 1996.
+Sen, Tansen. Buddhism, Diplomacy, and Trade: The Realignment of Sino-Indian Relations, 600–1400. Honolulu: Assoc. for Asian Studies and Univ. of Hawai’i Press, 2003.
 
-Sedov, A. V. "Qana' (Yemen) and the Indian Ocean: The
+Seneca. Natural Questions. Trans. Thomas H. Corcoran. 2 vols. Cambridge: Harvard Univ. Press, 1972.
 
-Archaeological Evidence." In Tradition and Archaeology: Early
+Senior, William. “The Bucentaur.” Mariner’s Mirror 15 (1929): 131–38.
 
-Maritime Contacts in the Indian Ocean, ed. by Himanshu Prabha
-
-Ray and Jean-François Salles, 11-35. New Delhi: Manohar, 1999.
-
-Selden, John. Of the Dominion; or, Ownership of the Sea. New York:
-
-Arno, 1972.
-
-Sen, Tansen. Buddhism, Diplomacy, and Trade: The Realignment of
-
-Sino-Indian Relations, 600-1400. Honolulu: Assoc. for Asian
-
-Studies and Univ. of Hawai'i Press, 2003.
-
-Seneca. Natural Questions. Trans. Thomas H. Corcoran. 2 vols.
-
-Cambridge: Harvard Univ. Press, 1972.
-
-Senior, William. "The Bucentaur." Mariner's Mirror 15 (1929): 131-
-
-38.
-
-Serjeant, R. B. "Yemeni Merchants and Trade in Yemen, 13th-16th
-
-Centuries." In Society and Trade in South Arabia, ed. by G. Rex
-
-Smith, 1.61-82. Brookfield, VT: Ashfield, 1996.
+Serjeant, R. B. “Yemeni Merchants and Trade in Yemen, 13th–16th Centuries.” In Society and Trade in South Arabia, ed. by G. Rex Smith, 1.61–82. Brookfield, VT: Ashfield, 1996.
 
 Severin, Timothy. The Sinbad Voyage. London: Hutchinson, 1982.
 
-Shapinsky, Peter D. "Polyvocal Portolans: Nautical Charts and Hybrid
+Shapinsky, Peter D. “Polyvocal Portolans: Nautical Charts and Hybrid Maritime Cultures in Early Modern East Asia.” Early Modern Japan 14 (2006): 4–26.
 
-Maritime Cultures in Early Modern East Asia." Early Modern
+Sharma, R. S. “Usury in Early Medieval Times.” In Trade in Early India, ed. by Ranabir Chakravarti, 370–95. New Delhi: Oxford Univ. Press, 2001.
 
-Japan 14 (2006): 4-26.
+Sharpe, Kevin. The Personal Rule of Charles I. New Haven: Yale Univ. Press, 1992.
 
-Sharma, R. S. "Usury in Early Medieval Times." In Trade in Early
+Shattan, Merchant-Prince. Manimekhalaï (The Dancer with the Magic Bowl). Trans. Alain Danielou. New York: New Directions, 1989.
 
-India, ed. by Ranabir Chakravarti, 370-95. New Delhi: Oxford
+Sheehan, John. “The Longphort in Viking Age Ireland.” Acta Archaeologica 79 (2008): 282–95.
 
-Univ. Press, 2001.
+Shepherd, James F., and Gary M. Walton. Shipping, Maritime Trade and the Economic Development of Colonial North America. Cambridge: Cambridge Univ. Press, 1972.
 
-Sharpe, Kevin. The Personal Rule of Charles I. New Haven: Yale
+Sheppard, Thomas. “The Sirius, the First Steamer to Cross the Atlantic.” Mariner’s Mirror 23 (1937): 84–94.
 
-Univ. Press, 1992.
+Sherborne, J. W. “The Hundred Years’ War—The English Navy: Shipping and Manpower 1369–89.” Past and Present 37 (1967): 163–75.
 
-Shattan, Merchant-Prince. Manimekhalaï (The Dancer with the Magic
+Sherratt, S., ed. The Wall Paintings of Thera: Proceedings of the First International Symposium. 2 vols. Athens: Thera Foundation, 2000.
 
-Bowl). Trans. Alain Danielou. New York: New Directions, 1989.
+Shiba, Yoshinobu, and Mark Elvin. Commerce and Society in Sung China. Ann Arbor: Center for Chinese Studies, Univ. of Michigan, 1970.
 
-Sheehan, John. "The Longphort in Viking Age Ireland." Acta
+Shimada, Izumi. “Evolution of Andean Diversity: Regional Formations (500 B.C.E.–C.E. 600).” In The Cambridge History of the Native People of the Americas. Vol. 3, South America, pt. 1, ed. by Frank Salomon and Stuart B. Schwartz, 350–517. Cambridge: Cambridge Univ. Press, 1999.
 
-Archaeologica 79 (2008): 282-95.
+Sicking, Louis. “Amphibious Warfare in the Baltic: Holland, the Hansa and the Habsburgs (Fourteenth–Sixteenth Centuries).” In Amphibious Warfare, 1000–1700: Commerce, State Formation and European Expansion, ed. by Mark Charles Fissel and D. J. B. Trim, 69–101. Leiden: Brill, 2006.
 
-Shepherd, James F., and Gary M. Walton. Shipping, Maritime Trade
+Sidebotham, Steven E. “Ports of the Red Sea and the Arabia–India Trade.” In Rome and India: The Ancient Sea Trade, ed. by Vimala Begley and Richard Daniel De Puma, 12–38. Madison: Univ. of Wisconsin Press, 1991.
 
-and the Economic Development of Colonial North America.
+Sima Qian. Records of the Grand Historian of China. Trans. Burton Watson. 2 vols. New York: Columbia Univ. Press, 1961.
 
-Cambridge: Cambridge Univ. Press, 1972.
+Simpson, William Kelly, ed. The Literature of Ancient Egypt: An Anthology of Stories, Instructions and Poetry. Trans. R. O. Faulkner et al. New Haven: Yale Univ. Press, 1972.
 
-Sheppard, Thomas. "The Sirius, the First Steamer to Cross the
+Simsarian, James. “The Acquisition of Legal Title to Terra Nullius.” Political Science Quarterly 53:1 (1938): 111–28.
 
-Atlantic." Mariner's Mirror 23 (1937): 84-94.
+Sjövold, Thorleif. The Oseberg Find and the Other Viking Ship Finds. Oslo: Universitets Oldsaksamling, 1966.
 
-Sherborne, J. W. "The Hundred Years' War--The English Navy:
+Skovgaard-Petersen, Inge. “Early Political Organisation: The Making of the Danish Kingdom.” In The Cambridge History of Scandinavia. Vol. 1, Prehistory to 1520, ed. by Knut Helle, 168–83. Cambridge: Cambridge Univ. Press, 2003.
 
-Shipping and Manpower 1369-89." Past and Present 37 (1967):
+Skre, Dagfinn. “The Sciringes healh of Ohthere’s Time.” In Ohthere’s Voyages, ed. by Bately and Englert, 150–56.
 
-163-75.
+Skulski, Janusz. The Battleship Yamato. Annapolis: Naval Institute, 1989.
 
-Sherratt, S., ed. The Wall Paintings of Thera: Proceedings of the First
+Sleeswyck, André Wegener. “The Liao and the Displacement of Ships in the Ming Navy.” Mariner’s Mirror 82:1 (Feb. 1996): 3–13.
 
-International Symposium. 2 vols. Athens: Thera Foundation, 2000.
+Smith, Bernard. European Vision and the South Pacific. New Haven: Yale University Press, 1985.
 
-Shiba, Yoshinobu, and Mark Elvin. Commerce and Society in Sung
+Smith, Crosbie, Ian Higginson, and Phillip Wolstenholme. “ ‘Imitations of God’s Own Works’ : Making Trustworthy the Ocean Steamship.” History of Science 41 (2003): 379–426.
 
-China. Ann Arbor: Center for Chinese Studies, Univ. of Michigan,
+Smith, Hance. “Fishing Vessels.” In The Shipping Revolution, ed. by Gardiner and Couper, 167–76.
 
-1970.
-
-Shimada, Izumi. "Evolution of Andean Diversity: Regional
-
-Formations (500 B.C.E.-C.E. 600)." In The Cambridge History of the
-
-Native People of the Americas. Vol. 3, South America, pt. 1, ed. by
-
-Frank Salomon and Stuart B. Schwartz, 350-517. Cambridge:
-
-Cambridge Univ. Press, 1999.
-
-Sicking, Louis. "Amphibious Warfare in the Baltic: Holland, the Hansa and the Habsburgs (Fourteenth-Sixteenth Centuries)." In Amphibious Warfare, 1000-1700: Commerce, State Formation and
-
-European Expansion, ed. by Mark Charles Fissel and D. J. B. Trim,
-
-69-101. Leiden: Brill, 2006.
-
-Sidebotham, Steven E. "Ports of the Red Sea and the Arabia-India
-
-Trade." In Rome and India: The Ancient Sea Trade, ed. by Vimala
-
-Begley and Richard Daniel De Puma, 12-38. Madison: Univ. of
-
-Wisconsin Press, 1991.
-
-Sima Qian. Records of the Grand Historian of China. Trans. Burton
-
-Watson. 2 vols. New York: Columbia Univ. Press, 1961.
-
-Simpson, William Kelly, ed. The Literature of Ancient Egypt: An
-
-Anthology of Stories, Instructions and Poetry. Trans. R. O. Faulkner
-
-et al. New Haven: Yale Univ. Press, 1972.
-
-Simsarian, James. "The Acquisition of Legal Title to Terra Nullius."
-
-Political Science Quarterly 53:1 (1938): 111-28.
-
-Sjövold, Thorleif. The Oseberg Find and the Other Viking Ship Finds.
-
-Oslo: Universitets Oldsaksamling, 1966.
-
-Skovgaard-Petersen, Inge. "Early Political Organisation: The Making
-
-of the Danish Kingdom." In The Cambridge History of Scandinavia.
-
-Vol. 1, Prehistory to 1520, ed. by Knut Helle, 168-83. Cambridge:
-
-Cambridge Univ. Press, 2003.
-
-Skre, Dagfinn. "The Sciringes healh of Ohthere's Time." In Ohthere's
-
-Voyages, ed. by Bately and Englert, 150-56.
-
-Skulski, Janusz. The Battleship Yamato. Annapolis: Naval Institute,
-
-1989.
-
-Sleeswyck, André Wegener. "The Liao and the Displacement of Ships
-
-in the Ming Navy." Mariner's Mirror 82:1 (Feb. 1996): 3-13.
-
-Smith, Bernard. European Vision and the South Pacific. New Haven:
-
-Yale University Press, 1985.
-
-Smith, Crosbie, Ian Higginson, and Phillip Wolstenholme. " 'Imitations of God's Own Works' : Making Trustworthy the Ocean
-
-Steamship." History of Science 41 (2003): 379-426.
-
-Smith, Hance. "Fishing Vessels." In The Shipping Revolution, ed. by
-
-Gardiner and Couper, 167-76.
-
-Smith, Holland M., and Percy Finch. Coral and Brass. New York:
-
-Charles Scribner's Sons, 1949.
+Smith, Holland M., and Percy Finch. Coral and Brass. New York: Charles Scribner’s Sons, 1949.
 
 Smith, John. A Description of New England. London, 1616.
 
-Smith, Joshua M. Voyages: Documents in American Maritime History.
+Smith, Joshua M. Voyages: Documents in American Maritime History. 2 vols. Gainesville: Univ. Press of Florida, 2009.
 
-2 vols. Gainesville: Univ. Press of Florida, 2009.
+Snorri Sturluson. King Harald’s Saga. Trans. Magnus Magnusson and Hermann Pálsson. New York: Penguin, 1966.
 
-Snorri Sturluson. King Harald's Saga. Trans. Magnus Magnusson and
+Snow, Dean R. “The First Americans and the Differentiation of Hunter-Gatherer Culture.” In The Cambridge History of the Native Peoples of the New World, ed. by B. G. Trigger and W. Washburn, chap. 4. Cambridge: Cambridge Univ. Press, 1996.
 
-Hermann Pálsson. New York: Penguin, 1966.
+So, Billy K. L. Prosperity, Region and Institutions in Maritime China: The South Fukien Pattern, 946–1368. Cambridge: Harvard Univ. Asia Center, 2000.
 
-Snow, Dean R. "The First Americans and the Differentiation of
+So, Kwan Wai. Japanese Piracy in Ming China During the Sixteenth Century. East Lansing: Michigan State Univ. Press, 1975.
 
-Hunter-Gatherer Culture." In The Cambridge History of the Native
+Somers, Robert M. “The End of the T’ang.” In The Cambridge History of China. Vol. 3, Sui and T’ang China, 589–906, ed. by Denis Twitchett, 682–790. Cambridge: Cambridge Univ. Press, 1979.
 
-Peoples of the New World, ed. by B. G. Trigger and W. Washburn,
+Somerville, Boyle G., and A. F. B. Woodhouse. Ocean Passages for the World: Winds and Currents. London: The Admiralty, 1950.
 
-chap. 4. Cambridge: Cambridge Univ. Press, 1996.
+Sondhaus, Lawrence. Naval Warfare, 1815–1914. London: Routledge, 2001.
 
-So, Billy K. L. Prosperity, Region and Institutions in Maritime China:
+Southworth, William A. “The Coastal States of Champa.” In Southeast Asia from Prehistory to History, ed. by Ian Glover and Peter Bellwood, 209–33. London: RoutledgeCurzon, 2004.
 
-The South Fukien Pattern, 946-1368. Cambridge: Harvard Univ.
+Souyri, Pierre François. The World Turned Upside Down: Medieval Japanese Society. Trans. Kathe Roth. New York: Columbia Univ. Press, 2001.
 
-Asia Center, 2000.
+Souza, Philip de. Piracy in the Graeco-Roman World. Cambridge: Cambridge Univ. Press, 1999.
 
-So, Kwan Wai. Japanese Piracy in Ming China During the Sixteenth
+Spate, O. H. K. The Spanish Lake. 2nd ed. Canberra: Australian National Univ. Press, 2007.
 
-Century. East Lansing: Michigan State Univ. Press, 1975.
+Spear, Thomas. “Early Swahili History Reconsidered.” International Journal of African Historical Studies 33:2 (2000): 257–90.
 
-Somers, Robert M. "The End of the T'ang." In The Cambridge History
+Spector, Ronald H. Eagle Against the Sun: The American War with Japan. New York: Free Press, 1985.
 
-of China. Vol. 3, Sui and T'ang China, 589-906, ed. by Denis
+———. “The Triumph of Professional Ideology: The U.S. Navy in the 1890s.” In In Peace and War: Interpretations of American Naval History, 1775–1984, ed. by Kenneth J. Hagan, 174–85. Westport: Greenwood, 1984.
 
-Twitchett, 682-790. Cambridge: Cambridge Univ. Press, 1979.
+Spencer, George W. The Politics of Expansion: The Chola Conquest of Sri Lanka and Sri Vijaya. Madras, India: New Era, 1983.
 
-Somerville, Boyle G., and A. F. B. Woodhouse. Ocean Passages for
+Spennemann, Dirk R. “On the Bronze Age Ship Model from Flores, Indonesia.” IJNA 14.3 (1985): 237–41.
 
-the World: Winds and Currents. London: The Admiralty, 1950.
+Spufford, Peter. Power and Profit: The Merchant in Medieval Europe. London: Thames & Hudson, 2002.
 
-Sondhaus, Lawrence. Naval Warfare, 1815-1914. London: Routledge,
+Squatriti, Paolo. “Digging Ditches in Early Medieval Europe.” Past and Present 176 (2002): 11–65.
 
-2001.
+Stanish, Charles. “The Origin of State Societies in South America.” Annual Review of Anthropology 30 (2001): 41–64.
 
-Southworth, William A. "The Coastal States of Champa." In Southeast
+Starr, Chester G. The Roman Imperial Navy: 31 B.C.–A.D. 324. 3rd ed. 1941. Reprint, Chicago: Ares, 1993.
 
-Asia from Prehistory to History, ed. by Ian Glover and Peter
+“Steam Excursion Boats.” New York Times. Mar. 21, 1880.
 
-Bellwood, 209-33. London: RoutledgeCurzon, 2004.
+Steensgaard, Niels. The Asian Trade Revolution of the Seventeenth Century: The East India Companies and the Decline of the Caravan Trade. Chicago: Univ. of Chicago Press, 1974.
 
-Souyri, Pierre François. The World Turned Upside Down: Medieval
+Steffy, J. Richard. “The Reconstruction of the 11th Century Serçe Liman Vessel. A Preliminary Report.” IJNA 11 (1982): 13–34.
 
-Japanese Society. Trans. Kathe Roth. New York: Columbia Univ.
+Stern, S. M. “Ramisht of Siraf: A Merchant Millionaire of the Twelfth Century.” Journal of the Royal Asiatic Society of Great Britain and Ireland, 2nd ser. 99:1 (1967): 10–14.
 
-Press, 2001.
+Still, William N. Iron Afloat: The Story of the Confederate Ironclads. Columbia: Univ. of South Carolina Press, 1988.
 
-Souza, Philip de. Piracy in the Graeco-Roman World. Cambridge:
+Stopford, Martin. Maritime Economics. 2nd ed. New York: Routledge, 2003.
 
-Cambridge Univ. Press, 1999.
+Storli, Inger. “Ohthere and His World.” In Ohthere’s Voyages, ed. by Bately and Englert, 76–99.
 
-Spate, O. H. K. The Spanish Lake. 2nd ed. Canberra: Australian
+Strabo. The Geography of Strabo. Trans. Horace Leonard Jones and J. R. Sitlington Sterrett. London: Heinemann, 1917–32.
 
-National Univ. Press, 2007.
+Strachan, Michael, compiler. The East India Company Journals of Captain William Keeling and Master Thomas Bonner, 1615–1617, ed. by Michael Strachan and Boies Penrose. Minneapolis: Univ. of Minnesota Press, 1971.
 
-Spear, Thomas. "Early Swahili History Reconsidered." International
+Stradling, R. A. The Armada of Flanders: Spanish Maritime Policy and European War, 1568–1668. Cambridge: Cambridge Univ. Press, 1992.
 
-Journal of African Historical Studies 33:2 (2000): 257-90.
+Stratos, Andreas N. “The Naval Engagement at Phoenix.” 1980. In Studies in 7th-Century Byzantine Political History, 230–47. London: Variorum, 1983.
 
-Spector, Ronald H. Eagle Against the Sun: The American War with
+Strauss, Barry. Battle of Salamis: The Naval Encounter That Saved Greece—and Western Civilization. New York: Simon & Schuster, 2004.
 
-Japan. New York: Free Press, 1985.
+Struve, Lynn A. “The Southern Ming, 1644–1662.” In The Cambridge History of China. Vol. 7, The Ming Dynasty, 1368–1644, pt. 1, ed. by Frederick W. Mote and Denis Twitchett, 641–725. Cambridge: Cambridge Univ. Press, 1988.
 
-------. "The Triumph of Professional Ideology: The U.S. Navy in the
+Subrahmanyam, Sanjay. The Career and Legend of Vasco da Gama. Cambridge: Cambridge Univ. Press, 1997.
 
-1890s." In In Peace and War: Interpretations of American Naval
+———. “A Note on the Rise of Surat in the Sixteenth Century.” JESHO 43:1 (2000): 23–33.
 
-History, 1775-1984, ed. by Kenneth J. Hagan, 174-85. Westport:
+———. “Of Imarat and Tijarat: Asian Merchants and State Power in the Western Indian Ocean, 1400 to 1750.” Comparative Studies in Society and History 37:4. (1995): 750–80.
 
-Greenwood, 1984.
-
-Spencer, George W. The Politics of Expansion: The Chola Conquest of
-
-Sri Lanka and Sri Vijaya. Madras, India: New Era, 1983.
-
-Spennemann, Dirk R. "On the Bronze Age Ship Model from Flores,
-
-Indonesia." IJNA 14.3 (1985): 237-41.
-
-Spufford, Peter. Power and Profit: The Merchant in Medieval Europe.
-
-London: Thames & Hudson, 2002.
-
-Squatriti, Paolo. "Digging Ditches in Early Medieval Europe." Past
-
-and Present 176 (2002): 11-65.
-
-Stanish, Charles. "The Origin of State Societies in South America."
-
-Annual Review of Anthropology 30 (2001): 41-64.
-
-Starr, Chester G. The Roman Imperial Navy: 31 B.C.-A.D. 324. 3rd ed.
-
-1941. Reprint, Chicago: Ares, 1993.
-
-"Steam Excursion Boats." New York Times. Mar. 21, 1880.
-
-Steensgaard, Niels. The Asian Trade Revolution of the Seventeenth
-
-Century: The East India Companies and the Decline of the Caravan
-
-Trade. Chicago: Univ. of Chicago Press, 1974.
-
-Steffy, J. Richard. "The Reconstruction of the 11th Century Serçe
-
-Liman Vessel. A Preliminary Report." IJNA 11 (1982): 13-34.
-
-Stern, S. M. "Ramisht of Siraf: A Merchant Millionaire of the Twelfth
-
-Century." Journal of the Royal Asiatic Society of Great Britain and
-
-Ireland, 2nd ser. 99:1 (1967): 10-14.
-
-Still, William N. Iron Afloat: The Story of the Confederate Ironclads.
-
-Columbia: Univ. of South Carolina Press, 1988.
-
-Stopford, Martin. Maritime Economics. 2nd ed. New York: Routledge,
-
-2003.
-
-Storli, Inger. "Ohthere and His World." In Ohthere's Voyages, ed. by
-
-Bately and Englert, 76-99.
-
-Strabo. The Geography of Strabo. Trans. Horace Leonard Jones and J.
-
-R. Sitlington Sterrett. London: Heinemann, 1917-32.
-
-Strachan, Michael, compiler. The East India Company Journals of
-
-Captain William Keeling and Master Thomas Bonner, 1615-1617,
-
-ed. by Michael Strachan and Boies Penrose. Minneapolis: Univ. of
-
-Minnesota Press, 1971.
-
-Stradling, R. A. The Armada of Flanders: Spanish Maritime Policy
-
-and European War, 1568-1668. Cambridge: Cambridge Univ. Press,
-
-1992.
-
-Stratos, Andreas N. "The Naval Engagement at Phoenix." 1980. In
-
-Studies in 7th-Century Byzantine Political History, 230-47. London:
-
-Variorum, 1983.
-
-Strauss, Barry. Battle of Salamis: The Naval Encounter That Saved
-
-Greece--and Western Civilization. New York: Simon & Schuster,
-
-2004.
-
-Struve, Lynn A. "The Southern Ming, 1644-1662." In The Cambridge
-
-History of China. Vol. 7, The Ming Dynasty, 1368-1644, pt. 1, ed.
-
-by Frederick W. Mote and Denis Twitchett, 641-725. Cambridge:
-
-Cambridge Univ. Press, 1988.
-
-Subrahmanyam, Sanjay. The Career and Legend of Vasco da Gama.
-
-Cambridge: Cambridge Univ. Press, 1997.
-
-------. "A Note on the Rise of Surat in the Sixteenth Century."
-
-JESHO 43:1 (2000): 23-33.
-
-------. "Of Imarat and Tijarat: Asian Merchants and State Power in
-
-the Western Indian Ocean, 1400 to 1750." Comparative Studies in
-
-Society and History 37:4. (1995): 750-80.
-
-Suetonius.
-
-The Twelve Caesars. Trans. Robert Graves. Harmondsworth: Penguin, 1957.
+Suetonius. The Twelve Caesars. Trans. Robert Graves. Harmondsworth: Penguin, 1957.
 
 Sugden, John. Sir Francis Drake. New York: Simon & Schuster, 1990.
 
-Sulayman al-Tajir. Account of India and China. In Arabic Classical
+Sulayman al-Tajir. Account of India and China. In Arabic Classical Accounts of India and China. Trans. S. Maqbul Ahmad. Shimla: Indian Institute of Advanced Study, 1989.
 
-Accounts of India and China. Trans. S. Maqbul Ahmad. Shimla:
+Sung, Lien, and Franz Schurmann. Economic Structure of the Yüan Dynasty. Cambridge: Harvard Univ. Press, 1956.
 
-Indian Institute of Advanced Study, 1989.
+Surdam, David G. Northern Naval Superiority and the Economics of the American Civil War. Columbia: Univ. of South Carolina Press, 2001.
 
-Sung, Lien, and Franz Schurmann. Economic Structure of the Yüan
+Surrey, Nancy Maria Miller. The Commerce of Louisiana During the French Régime, 1699–1763. New York: Columbia Univ. Press, 1916.
 
-Dynasty. Cambridge: Harvard Univ. Press, 1956.
+Sutcliffe, Alice Crary. Robert Fulton and the Clermont. New York: Century, 1909.
 
-Surdam, David G. Northern Naval Superiority and the Economics of
+Sutherland, Heather. “Southeast Asian History and the Mediterranean Analogy.” JSEAS 34:1 (2003): 1–20.
 
-the American Civil War. Columbia: Univ. of South Carolina Press,
+Swanton, Michael James, trans. The Anglo-Saxon Chronicles. London: Phoenix, 2001.
 
-2001.
+Sylvester, David G. “Communal Piracy in Medieval England’s Cinque Ports.” In Noble Ideals and Bloody Realities: Warfare in the Middle Ages, ed. by Niall Christie and Maya Yazigi, 164–76. Leiden: Brill, 2006.
 
-Surrey, Nancy Maria Miller. The Commerce of Louisiana During the
+Symonds, Craig L. Lincoln and His Admirals: Abraham Lincoln, the U.S. Navy and the Civil War. New York: Oxford Univ. Press, 2008.
 
-French Régime, 1699-1763. New York: Columbia Univ. Press,
+Tabari, al-. The History of al-Tabari. Vol. 36, The Revolt of the Zanj, A.D. 869–879/a.h. 255–265. Trans. David Waines. Albany: State Univ. of New York Press, 1992.
 
-1916.
+Tacitus. The Agricola and the Germania. Trans. H. Mattingly and S. A. Handford. Baltimore: Penguin, 1970.
 
-Sutcliffe, Alice Crary. Robert Fulton and the Clermont. New York:
+———. Annals of Imperial Rome. Trans. Michael Grant. Rev. ed. New York: Penguin, 1956.
 
-Century, 1909.
+———. The Histories. Trans. Kenneth Wellesley. New York: Penguin, 1972.
 
-Sutherland, Heather. "Southeast Asian History and the Mediterranean
+Taha, Abd al-Wahid Dhannun. The Muslim Conquest and Settlement of North Africa and Spain. New York: Routledge, 1989.
 
-Analogy." JSEAS 34:1 (2003): 1-20.
+The Tales of the Heike. Trans. Burton Watson, ed. by Haruo Shirane. New York: Columbia Univ. Press, 2006.
 
-Swanton, Michael James, trans. The Anglo-Saxon Chronicles. London:
+Tandy, David W. Warriors into Traders: The Power of the Market in Early Greece. Berkeley: Univ. of California Press, 1997.
 
-Phoenix, 2001.
+Tarling, Nicholas, ed. The Cambridge History of Southeast Asia. Vol. 1, pt. 1, From Early Times to c. 1500. Cambridge: Cambridge Univ. Press, 1999.
 
-Sylvester, David G. "Communal Piracy in Medieval England's Cinque
+Taylor, E. G. R. The Haven-Finding Art: A History of Navigation from Odysseus to Captain Cook. New York: Abelard-Schuman, 1957.
 
-Ports." In Noble Ideals and Bloody Realities: Warfare in the Middle
+Taylor, Keith W. The Birth of Vietnam. Berkeley: Univ. of California Press, 1983.
 
-Ages, ed. by Niall Christie and Maya Yazigi, 164-76. Leiden: Brill,
+———. “The Early Kingdoms.” In The Cambridge History of Southeast Asia, ed. by Tarling, 1.1:137–82.
 
-2006.
+Tchernia, André. “Italian Wine in Gaul at the End of the Republic.” In Trade in the Ancient Economy, ed. by Peter Garnsey, Keith Hopkins, and C. R. Whittaker, 87–104. Berkeley: Univ. of California Press, 1983.
 
-Symonds, Craig L. Lincoln and His Admirals: Abraham Lincoln, the
+Temin, Peter. “The Economy of the Early Roman Empire.” Journal of Economic Perspectives 20:1 (2006): 133–51.
 
-U.S. Navy and the Civil War. New York: Oxford Univ. Press, 2008.
+Terraine, John. Business in Great Waters: The U-Boat Wars, 1916–1945. London: Leo Cooper, 1989.
 
-Tabari, al-. The History of al-Tabari. Vol. 36, The Revolt of the Zanj,
+Thapar, Romila. Early India: From the Origins to ad 1300. Berkeley: Univ. of California Press, 2002.
 
-A.D. 869-879/a.h. 255-265. Trans. David Waines. Albany: State
+Theophanes, the Confessor. The Chronicle of Theophanes Confessor: Byzantine and Near Eastern History, ad 284–813. Trans. Cyril Mango and Roger Scott. New York: Oxford Univ. Press, 1997.
 
-Univ. of New York Press, 1992.
+Thiel, Johannes Hendrik. A History of Roman Sea-power Before the Second Punic War. Amsterdam: North-Holland, 1954.
 
-Tacitus. The Agricola and the Germania. Trans. H. Mattingly and S. A.
+Thomas, Hugh. Slave Trade: The Story of the Atlantic Slave Trade, 1440–1870. New York: Simon & Schuster, 1997.
 
-Handford. Baltimore: Penguin, 1970.
+Thompson, I. A. A. War and Government in Habsburg Spain, 1560–1620. London: Athlone, 1976.
 
-------. Annals of Imperial Rome. Trans. Michael Grant. Rev. ed. New
+Thompson, James Westfall. “Early Trade Relations Between the Germans and the Slavs.” Journal of Political Economy 30:4 (1922): 543–58.
 
-York: Penguin, 1956.
+Thompson, Leonard Monteath. A History of South Africa. New Haven: Yale Univ. Press, 1990.
 
-------. The Histories. Trans. Kenneth Wellesley. New York: Penguin,
+Thornton, Helen. “John Selden’s Response to Hugo Grotius.” International Journal of Maritime History 18:2 (2006): 105–28.
 
-1972.
+Throckmorton, Peter, ed. The Sea Remembers: Shipwrecks and Archaeology. New York: Smithmark, 1991.
 
-Taha, Abd al-Wahid Dhannun. The Muslim Conquest and Settlement of
+Thrush, Andrew. “In Pursuit of the Frigate, 1603–40.” Historical Research 64 (1991): 29–45.
 
-North Africa and Spain. New York: Routledge, 1989.
+Thucydides. The Peloponnesian War. Trans. Rex Warner. New York: Penguin, 1954.
 
-The Tales of the Heike. Trans. Burton Watson, ed. by Haruo Shirane.
+Tibbetts, G. R. Arab Navigation in the Indian Ocean Before the Coming of the Portuguese. London: Royal Asiatic Society of Great Britain and Ireland, 1971.
 
-New York: Columbia Univ. Press, 2006.
+———. Study of the Arabic Texts Containing Material on South-East Asia. Leiden: Brill, 1979.
 
-Tandy, David W. Warriors into Traders: The Power of the Market in
+Tomalin, Victoria, V. Selvakumar, M. V. Nair, and P. K. Gopi. “The Thaikkal-Kadakkarappally Boat: An Archaeological Example of Medieval Shipbuilding in the Western Indian Ocean.” IJNA 33:2 (2004): 253–63.
 
-Early Greece. Berkeley: Univ. of California Press, 1997.
+Toynbee, Arnold J. Constantine Porphyrogenitus and His World. London: Oxford Univ. Press, 1973.
 
-Tarling, Nicholas, ed. The Cambridge History of Southeast Asia. Vol.
+———. “My View of History.” In Civilization on Trial. New York: Oxford Univ. Press, 1948.
 
-1, pt. 1, From Early Times to c. 1500. Cambridge: Cambridge Univ.
+Treaty for the Limitation and Reduction of Naval Armament, 1930. U.S. Treaty Series, No. 830, pt. 4, art. 22.
 
-Press, 1999.
+Tripati, Sila. Maritime Archaeology: Historical Descriptions of the Seafarings of the Kalingas. New Delhi: Kaveri, 2000.
 
-Taylor, E. G. R. The Haven-Finding Art: A History of Navigation from
+———. “Ships on Hero Stones from the West Coast of India.” IJNA 35:1 (2006): 88–96.
 
-Odysseus to Captain Cook. New York: Abelard-Schuman, 1957.
+Ts’ao Yung-Ho. “Taiwan as an Entrepot in East Asia in the Seventeenth Century.” Itinerario 21:3 (1997): 94–114.
 
-Taylor, Keith W. The Birth of Vietnam. Berkeley: Univ. of California
+Tsetskhladze, Gocha R. “Did the Greeks Go to Cholcis for Metals?” Oxford Journal of Archaeology 14 (1995): 307–31.
 
-Press, 1983.
+———. “Greek Penetration of the Black Sea.” In The Archaeology of Greek Colonisation: Essays Dedicated to John Boardman, ed. by Gocha R. Tsteskhladze and F. de Angelis, 111–35. Oxford: Oxford Univ. Community for Archaeology, 1994.
 
-------. "The Early Kingdoms." In The Cambridge History of
+———. “Trade on the Black Sea in the Archaic and Classical Periods.” In Trade, Traders and the Ancient City, ed. by H. Parkins and C. Smith, 52–74. New York: Routledge, 1998.
 
-Southeast Asia, ed. by Tarling, 1.1:137-82.
+Tsunoda, Ryusaku. Sources of Japanese Tradition. New York: Columbia Univ. Press, 1964.
 
-Tchernia, André. "Italian Wine in Gaul at the End of the Republic." In
+Tsuruta, Kei. “The Establishment and Characteristics of the ‘Tsushima Gate.’ ” Acta Asiatica 67 (1994): 30–48.
 
-Trade in the Ancient Economy, ed. by Peter Garnsey, Keith Hopkins,
+Turner, A. J. “In the Wake of the Act, but Mainly Before.” In Andrews, ed., The Quest for Longitude, 115–31.
 
-and C. R. Whittaker, 87-104. Berkeley: Univ. of California Press,
+Twiss, Sir Travers, ed. Monumenta Juridica: The Black Book of the Admiralty. London, 1871–76.
 
-1983.
+Twitchett, Denis. Financial Administration Under the T’ang. 2nd ed. Cambridge: Cambridge Univ. Press, 1970.
 
-Temin, Peter. "The Economy of the Early Roman Empire." Journal of
+———. “Hsüan-tsung (reign 712–56).” In The Cambridge History of China. Vol. 3, Sui and T’ang China, 589–906, Part I, ed. by Denis Twitchett, 333–463. Cambridge: Cambridge Univ. Press, 1979.
 
-Economic Perspectives 20:1 (2006): 133-51.
+Twitchett, Denis, and Howard J. Wechsler. “Kao-tsung (reign 649–83) and the Empress Wu: The Inheritor and the Usurper.” In The Cambridge History of China. Vol. 3, Sui and T’ang China, 589–906, Part I, ed. by Denis Twitchett, 242–89. Cambridge: Cambridge Univ. Press, 1979.
 
-Terraine, John. Business in Great Waters: The U-Boat Wars, 1916-
+Tyacke, Sarah. “Chartmaking in England and Its Context, 1500–1660.” In The History of Cartography. Vol. 3, Cartography in the Renaissance, ed. by David Woodward, 1722–53. Chicago: University of Chicago Press, 2007.
 
-1945. London: Leo Cooper, 1989.
+Unger, Richard W. “Dutch Herring, Technology, and International Trade in the Seventeenth Century.” In Ships and Shipping in the North Sea and Atlantic, 1400–1800, 18:253–79. Aldershot, UK: Ashgate, 1997.
 
-Thapar, Romila. Early India: From the Origins to ad 1300. Berkeley:
+———. “The Fluit: Specialist Cargo Vessels, 1500–1650.” In Cogs, Caravels and Galleons, ed. by Gardiner and Unger, 115–30.
 
-Univ. of California Press, 2002.
+———. “The Netherlands Herring Fishery in the Late Middle Ages: The False Legend of Willem Beukels of Biervliet.” In Ships and Shipping in the North Sea and Atlantic, 1400–1800, 17:335–56. Aldershot, UK: Ashgate: Variorum, 1997.
 
-Theophanes, the Confessor. The Chronicle of Theophanes Confessor:
+———. The Ship in the Medieval Economy, 600–1600. London: Croom Helm, 1980.
 
-Byzantine and Near Eastern History, ad 284-813. Trans. Cyril
+United Nations. “Agreement for the Implementation of the Provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 Relating to the Conservation and Management of Straddling Fish Stocks and Highly Migratory Fish Stocks.” http://www.un.org/depts/los/fish_stocks_conference/fish_stocks_con ference.htm.
 
-Mango and Roger Scott. New York: Oxford Univ. Press, 1997.
+United Nations. Law of the Sea, Part V, “Exclusive Economic Zone.” http://www.un.org/Depts/los/convention_agreements/texts/unclos/pa rt5.htm.
 
-Thiel, Johannes Hendrik. A History of Roman Sea-power Before the
+United Nations Conference on Trade and Development. Review of Maritime Transport, 2009. New York: United Nations, 2009. http://www.unctad.org/en/docs/rmt2009_en.pdf.
 
-Second Punic War. Amsterdam: North-Holland, 1954.
+U.S. Navy, U.S. Coast Guard, and U.S. Marine Corps. “A Cooperative Strategy for 21st Century Seapower.” http://www.navy.mil/maritime/Maritimestrategy.pdf.
 
-Thomas, Hugh. Slave Trade: The Story of the Atlantic Slave Trade,
+U.S. Senate. Report of the Select Committee of the Senate of the United States on the Sickness and Mortality on Board Emigrant Ships: August 2, 1854. Washington: 1854.
 
-1440-1870. New York: Simon & Schuster, 1997.
+U.S. War Dept. United States Strategic Bombing Survey Summary Report (Pacific War). Washington: 1946.
 
-Thompson, I. A. A. War and Government in Habsburg Spain, 1560-
+———. The War of the Rebellion: A Compilation of the Official Records of the Union and Confederate Armies. Washington: 1880.
 
-1620. London: Athlone, 1976.
+Uruthirankannanar. Pattinappalai. In Pattupattu: Ten Tamil Idylls. Trans. J. V. Chelliah. Thanjavur: Tamil Univ. Press, 1985.
 
-Thompson, James Westfall. "Early Trade Relations Between the
+Van de Mieroop, Marc. The Ancient Mesopotamian City. Oxford: Clarendon Press, 1999.
 
-Germans and the Slavs." Journal of Political Economy 30:4 (1922):
+Van Doorninck, Frederick H., Jr. “The 4th-Century Wreck at Yassi Ada: An Interim Report on the Hull.” IJNA 5 (1976): 115–31.
 
-543-58.
+Van Slyke, Lyman P. Yangtze: Nature, History and the River. Stanford: Stanford Alumni Assoc., 1988.
 
-Thompson, Leonard Monteath. A History of South Africa. New Haven:
+Verlinden, Charles. “The Big Leap Under Dom João II: From the Atlantic to the Indian Ocean.” In Maritime History. Vol. 1, The Age of Discovery, ed. by John B. Hattendorf. Malabar, FL: Krieger, 1996.
 
-Yale Univ. Press, 1990.
+———. “European Participation in the Portuguese Era of Discovery.” In Portugal, the Pathfinder, ed. by Winius, 71–88.
 
-Thornton, Helen. "John Selden's Response to Hugo Grotius."
+Verschuer, Charlotte von. Across the Perilous Sea: Japanese Trade with China and Korea from the Seventh to the Sixteenth Centuries. Trans. Kristen Lee Hunter. Ithaca: Cornell East Asia Series, 2006.
 
-International Journal of Maritime History 18:2 (2006): 105-28.
+Villehardouin. Conquest of Constantinople. In Joinville and Villehardouin. Chronicles of the Crusades. Trans. Margaret R. B. Shaw. Harmondsworth: Penguin, 1963.
 
-Throckmorton, Peter, ed. The Sea Remembers: Shipwrecks and
+Villiers, Alan. The Monsoon Seas: The Story of the Indian Ocean. New York: McGraw-Hill, 1952.
 
-Archaeology. New York: Smithmark, 1991.
+Viraphol, Sarasin. Tribute and Profit: Sino-Siamese Trade, 1652–1853. Cambridge: Council on East Asian Studies, Harvard Univ., 1977.
 
-Thrush, Andrew. "In Pursuit of the Frigate, 1603-40." Historical
+Vitruvius. De Architectura. Trans. Frank Granger. 2 vols. Cambridge: Harvard Univ. Press, 1962.
 
-Research 64 (1991): 29-45.
+Vosmer, Tom. “Building the Reed-Boat Prototype: Problems, Solutions, and Implications for the Organization and Structure of Third-Millennium Shipbuilding.” Proceedings of the Seminar for Arabian Studies 31 (2001): 235–39.
 
-Thucydides. The Peloponnesian War. Trans. Rex Warner. New York:
+———. “The Magan Boat Project: A Process of Discovery, a Discovery of Process.” Proceedings of the Seminar for Arabian Studies 33 (2003): 49–58.
 
-Penguin, 1954.
+———. “Ships in the Ancient Arabian Sea: The Development of a Hypothetical Reed Boat Model.” Proceedings of the Seminar for Arabian Studies 30 (2000): 235–42.
 
-Tibbetts, G. R. Arab Navigation in the Indian Ocean Before the
+Wachsmann, Shelley. Seagoing Ships and Seamanship in the Bronze Age Levant. College Station: Texas A&M Univ. Press, 1998.
 
-Coming of the Portuguese. London: Royal Asiatic Society of Great
+Wade, Geoff. “An Early Age of Commerce in Southeast Asia, 900–1300.” JSEAS 40:2 (2009): 221–65.
 
-Britain and Ireland, 1971.
+Wake, C. H. H. “The Changing Pattern of Europe’s Pepper and Spice Imports, ca. 1400–1700.” Journal of European Economic History 8 (1979): 361–404.
 
-------. Study of the Arabic Texts Containing Material on South-East
+Walker, Ranginui. Ka Whawhai Tonu Matou: Struggle Without End. Auckland: Penguin, 2004.
 
-Asia. Leiden: Brill, 1979.
+Wallace, Birgitta Linderoth. “L’Anse aux Meadows and Vinland.” In Contact, Continuity and Collapse: The Norse Colonization of the North Atlantic, ed. by James H. Barrett, 207–33. Turnhout, Belgium: Brepols, 2003.
 
-Tomalin, Victoria, V. Selvakumar, M. V. Nair, and P. K. Gopi. "The
+Wallinga, H. T. The Boarding-Bridge of the Romans: Its Construction and Its Function in the Naval Tactics of the First Punic War. Groningen, Netherlands: Wolters, 1956.
 
-Thaikkal-Kadakkarappally Boat: An Archaeological Example of
+———. “The Trireme and History.” Mnemosyne 43 (1990): 132–49.
 
-Medieval Shipbuilding in the Western Indian Ocean." IJNA 33:2
+Walton, Gary M. “Sources of Productivity Change in American Colonial Shipping, 1675–1775.” Economic History Review, New Series, 20:1 (1967): 67–78.
 
-(2004): 253-63.
+Wang Gungwu. “Merchants Without Empire: The Hokkien Sojourning Communities.” In The Rise of Merchant Empires: Long-Distance Trade in the Early Modern World, 1350–1750, ed. James D. Tracy, 400–21. Cambridge: Cambridge Univ. Press, 1990.
 
-Toynbee, Arnold J. Constantine Porphyrogenitus and His World.
+———. The Nanhai Trade: The Early History of Chinese Trade in the South China Sea. 2nd ed. Singapore: Times Academic Press, 1998.
 
-London: Oxford Univ. Press, 1973.
+———. “ ‘Public’ and ‘Private’ Overseas Trade in Chinese History.” 1970. Reprinted in China and the Chinese Overseas, 129–43. Singapore: Eastern Universities Press, 2003.
 
-------. "My View of History." In Civilization on Trial. New York:
+Wansbrough, John. “The Safe-Conduct in Muslim Chancery Practice.” Bulletin of the School of Oriental and African Studies 34:1 (1971): 20–35.
 
-Oxford Univ. Press, 1948.
+Ward, Cheryl A. Sacred and Secular: Ancient Egyptian Ships and Boats. Boston: Archaeological Institute of America, 2000.
 
-Treaty for the Limitation and Reduction of Naval Armament, 1930.
+———. “World’s Oldest Planked Boats: Abydos Hull Construction.” In Boats, Ships and Shipyards: Proceedings of the Ninth International Symposium on Boat and Ship Archaeology, Venice 2000, ed. by C. Beltrame, 19–23. Oxford: Oxbow, 2003.
 
-U.S. Treaty Series, No. 830, pt. 4, art. 22.
+Warner, Denis Ashton, and Peggy Warner. The Tide at Sunrise: A History of the Russo-Japanese War, 1904–1905. New York: Charterhouse, 1974.
 
-Tripati, Sila. Maritime Archaeology: Historical Descriptions of the
+Warner, Richard. “British Merchants and Russian Men-of-War: The Rise of the Russian Baltic Fleet.” In Peter the Great and the West: New Perspectives, ed. by Lindsey Hughes, 105–17. Basingstoke, UK: Palgrave Macmillan, 2001.
 
-Seafarings of the Kalingas. New Delhi: Kaveri, 2000.
+Warner of Rouen. Moriuht. Ed. by Christopher J. McDonough. Toronto: Pontifical Institute of Medieval Studies, 1995.
 
-------. "Ships on Hero Stones from the West Coast of India." IJNA
+Watson, P. B. “Bulk Cargo Carriers.” In The Golden Age of Shipping, ed. by Gardiner and Greenway, 61–80.
 
-35:1 (2006): 88-96.
+Wechsler, Howard J. “T’ai-tsung (Reign 626–49) the Consolidator.” In The Cambridge History of China. Vol. 3, Sui and T’ang China, 589–906, pt. 1, ed. by Denis Twitchett, 188–241. Cambridge: Cambridge Univ. Press, 1979.
 
-Ts'ao Yung-Ho. "Taiwan as an Entrepot in East Asia in the
+Wee, Herman van der. “Structural Changes in European Long-Distance Trade, and Particularly the Re-Export Trade from South to North, 1350–1750.” In The Rise of Merchant Empires, ed. by James Tracy, 14–33. Cambridge: Cambridge Univ. Press, 1990.
 
-Seventeenth Century." Itinerario 21:3 (1997): 94-114.
+Weerakkody, D. P. M. “Sri Lanka Through Greek and Roman Eyes.” In Sri Lanka and the Silk Road of the Sea, 163–72. Colombo: Sri Lanka National Commission for UNESCO, 1990.
 
-Tsetskhladze, Gocha R. "Did the Greeks Go to Cholcis for Metals?"
+———. Taprobanê: Ancient Sri Lanka as Known to Greeks and Romans. Turnhout, Belgium: Brepols, 1997.
 
-Oxford Journal of Archaeology 14 (1995): 307-31.
+Wehausen, J. V., A. Mansour, and F. Stross. “The Colossi of Memnon and Egyptian Barges.” IJNA 17 (1988): 295–310.
 
-------. "Greek Penetration of the Black Sea." In The Archaeology of
+Wei Zhuang [Chuang]. “The Lament of the Lady of Ch’in.” In Sunflower Splendor: Three Thousand Years of Chinese Poetry, ed. by Wu-chi Liu and Irving Yucheng Lo, 267–81. Garden City: Anchor, 1975.
 
-Greek Colonisation: Essays Dedicated to John Boardman, ed. by
+Weir, Gary E. “Fish, Family, and Profit: Piracy and the Horn of Africa.” Naval War College Review 62:3 (2009): 15–30.
 
-Gocha R. Tsteskhladze and F. de Angelis, 111-35. Oxford: Oxford
+Welch, Kathryn. “Sextus Pompeius and the Res Publica.” In Sextus Pompeius, ed. by Anton Powell and Kathryn Welch, 31–64. Swansea: Classical Press of Wales, 2002.
 
-Univ. Community for Archaeology, 1994.
+Wendrich, W. Z., R. S. Tomber, S. E. Sidebotham, et al. “Berenike Crossroads: The Integration of Information.” JESHO 46:1 (2003): 46–88.
 
-------. "Trade on the Black Sea in the Archaic and Classical
+Werner, Walter. “The Largest Ship Trackway in Ancient Times: The Diolkos of the Isthmus of Corinth, Greece, and Early Attempts to Build a Canal.” IJNA 26:2 (1997): 98–119.
 
-Periods." In Trade, Traders and the Ancient City, ed. by H. Parkins
+West, M. L. The East Face of Helicon: West Asiatic Elements in Greek Poetry and Myth. Oxford: Clarendon Press, 1997.
 
-and C. Smith, 52-74. New York: Routledge, 1998.
+Wey Gómez, Nicolás. The Tropics of Empire: Why Columbus Sailed South to the Indies. Cambridge: MIT Press, 2008.
 
-Tsunoda, Ryusaku. Sources of Japanese Tradition. New York:
-
-Columbia Univ. Press, 1964.
-
-Tsuruta, Kei. "The Establishment and Characteristics of the 'Tsushima
-
-Gate.' " Acta Asiatica 67 (1994): 30-48.
-
-Turner, A. J. "In the Wake of the Act, but Mainly Before." In Andrews,
-
-ed., The Quest for Longitude, 115-31.
-
-Twiss, Sir Travers, ed. Monumenta Juridica: The Black Book of the
-
-Admiralty. London, 1871-76.
-
-Twitchett, Denis. Financial Administration Under the T'ang. 2nd ed.
-
-Cambridge: Cambridge Univ. Press, 1970.
-
-------. "Hsüan-tsung (reign 712-56)." In The Cambridge History of
-
-China. Vol. 3, Sui and T'ang China, 589-906, Part I, ed. by Denis
-
-Twitchett, 333-463. Cambridge: Cambridge Univ. Press, 1979.
-
-Twitchett, Denis, and Howard J. Wechsler. "Kao-tsung (reign 649-83)
-
-and the Empress Wu: The Inheritor and the Usurper." In The
-
-Cambridge History of China. Vol. 3, Sui and T'ang China, 589-906,
-
-Part I, ed. by Denis Twitchett, 242-89. Cambridge: Cambridge
-
-Univ. Press, 1979.
-
-Tyacke, Sarah. "Chartmaking in England and Its Context, 1500-1660."
-
-In The History of Cartography. Vol. 3, Cartography in the
-
-Renaissance, ed. by David Woodward, 1722-53. Chicago:
-
-University of Chicago Press, 2007.
-
-Unger, Richard W. "Dutch Herring, Technology, and International
-
-Trade in the Seventeenth Century." In Ships and Shipping in the
-
-North Sea and Atlantic, 1400-1800, 18:253-79. Aldershot, UK:
-
-Ashgate, 1997.
-
-------. "The Fluit: Specialist Cargo Vessels, 1500-1650." In Cogs,
-
-Caravels and Galleons, ed. by Gardiner and Unger, 115-30.
-
-------. "The Netherlands Herring Fishery in the Late Middle Ages:
-
-The False Legend of Willem Beukels of Biervliet." In Ships and
-
-Shipping in the North Sea and Atlantic, 1400-1800, 17:335-56.
-
-Aldershot, UK: Ashgate: Variorum, 1997.
-
-------. The Ship in the Medieval Economy, 600-1600. London:
-
-Croom Helm, 1980.
-
-United Nations. "Agreement for the Implementation of the Provisions
-
-of the United Nations Convention on the Law of the Sea of 10
-
-December 1982 Relating to the Conservation and Management of
-
-Straddling Fish Stocks and Highly Migratory Fish Stocks."
-
-http://www.un.org/depts/los/fish_stocks_conference/fish_stocks_con
-
-ference.htm.
-
-United Nations. Law of the Sea, Part V, "Exclusive Economic Zone."
-
-http://www.un.org/Depts/los/convention_agreements/texts/unclos/pa
-
-rt5.htm.
-
-United Nations Conference on Trade and Development. Review of
-
-Maritime Transport, 2009. New York: United Nations, 2009.
-
-http://www.unctad.org/en/docs/rmt2009_en.pdf.
-
-U.S. Navy, U.S. Coast Guard, and U.S. Marine Corps. "A Cooperative Strategy for 21st Century Seapower." http://www.navy.mil/maritime/Maritimestrategy.pdf.
-
-U.S. Senate. Report of the Select Committee of the Senate of the United
-
-States on the Sickness and Mortality on Board Emigrant Ships:
-
-August 2, 1854. Washington: 1854.
-
-U.S. War Dept. United States Strategic Bombing Survey Summary
-
-Report (Pacific War). Washington: 1946.
-
-------. The War of the Rebellion: A Compilation of the Official
-
-Records of the Union and Confederate Armies. Washington: 1880.
-
-Uruthirankannanar. Pattinappalai. In Pattupattu: Ten Tamil Idylls.
-
-Trans. J. V. Chelliah. Thanjavur: Tamil Univ. Press, 1985.
-
-Van de Mieroop, Marc. The Ancient Mesopotamian City. Oxford:
-
-Clarendon Press, 1999.
-
-Van Doorninck, Frederick H., Jr. "The 4th-Century Wreck at Yassi
-
-Ada: An Interim Report on the Hull." IJNA 5 (1976): 115-31.
-
-Van Slyke, Lyman P. Yangtze: Nature, History and the River. Stanford:
-
-Stanford Alumni Assoc., 1988.
-
-Verlinden, Charles. "The Big Leap Under Dom João II: From the
-
-Atlantic to the Indian Ocean." In Maritime History. Vol. 1, The Age
-
-of Discovery, ed. by John B. Hattendorf. Malabar, FL: Krieger,
-
-1996.
-
-------. "European Participation in the Portuguese Era of Discovery."
-
-In Portugal, the Pathfinder, ed. by Winius, 71-88.
-
-Verschuer, Charlotte von. Across the Perilous Sea: Japanese Trade
-
-with China and Korea from the Seventh to the Sixteenth Centuries.
-
-Trans. Kristen Lee Hunter. Ithaca: Cornell East Asia Series, 2006.
-
-Villehardouin. Conquest of Constantinople. In Joinville and
-
-Villehardouin. Chronicles of the Crusades. Trans. Margaret R. B.
-
-Shaw. Harmondsworth: Penguin, 1963.
-
-Villiers, Alan. The Monsoon Seas: The Story of the Indian Ocean. New
-
-York: McGraw-Hill, 1952.
-
-Viraphol, Sarasin. Tribute and Profit: Sino-Siamese Trade, 1652-1853.
-
-Cambridge: Council on East Asian Studies, Harvard Univ., 1977.
-
-Vitruvius. De Architectura. Trans. Frank Granger. 2 vols. Cambridge:
-
-Harvard Univ. Press, 1962.
-
-Vosmer, Tom. "Building the Reed-Boat Prototype: Problems,
-
-Solutions, and Implications for the Organization and Structure of
-
-Third-Millennium Shipbuilding." Proceedings of the Seminar for
-
-Arabian Studies 31 (2001): 235-39.
-
-------. "The Magan Boat Project: A Process of Discovery, a
-
-Discovery of Process." Proceedings of the Seminar for Arabian
-
-Studies 33 (2003): 49-58.
-
-------. "Ships in the Ancient Arabian Sea: The Development of a
-
-Hypothetical Reed Boat Model." Proceedings of the Seminar for
-
-Arabian Studies 30 (2000): 235-42.
-
-Wachsmann, Shelley. Seagoing Ships and Seamanship in the Bronze
-
-Age Levant. College Station: Texas A&M Univ. Press, 1998.
-
-Wade, Geoff. "An Early Age of Commerce in Southeast Asia, 900-
-
-1300." JSEAS 40:2 (2009): 221-65.
-
-Wake, C. H. H. "The Changing Pattern of Europe's Pepper and Spice
-
-Imports, ca. 1400-1700." Journal of European Economic History 8
-
-(1979): 361-404.
-
-Walker, Ranginui. Ka Whawhai Tonu Matou: Struggle Without End.
-
-Auckland: Penguin, 2004.
-
-Wallace, Birgitta Linderoth. "L'Anse aux Meadows and Vinland." In
-
-Contact, Continuity and Collapse: The Norse Colonization of the
-
-North Atlantic, ed. by James H. Barrett, 207-33. Turnhout,
-
-Belgium: Brepols, 2003.
-
-Wallinga, H. T. The Boarding-Bridge of the Romans: Its Construction
-
-and Its Function in the Naval Tactics of the First Punic War.
-
-Groningen, Netherlands: Wolters, 1956.
-
-------. "The Trireme and History." Mnemosyne 43 (1990): 132-49.
-
-Walton, Gary M. "Sources of Productivity Change in American
-
-Colonial Shipping, 1675-1775." Economic History Review, New
-
-Series, 20:1 (1967): 67-78.
-
-Wang Gungwu. "Merchants Without Empire: The Hokkien Sojourning
-
-Communities." In The Rise of Merchant Empires: Long-Distance
-
-Trade in the Early Modern World, 1350-1750, ed. James D. Tracy,
-
-400-21. Cambridge: Cambridge Univ. Press, 1990.
-
-------. The Nanhai Trade: The Early History of Chinese Trade in the
-
-South China Sea. 2nd ed. Singapore: Times Academic Press, 1998.
-
-------. " 'Public' and 'Private' Overseas Trade in Chinese History."
-
-1970. Reprinted in China and the Chinese Overseas, 129-43.
-
-Singapore: Eastern Universities Press, 2003.
-
-Wansbrough, John. "The Safe-Conduct in Muslim Chancery Practice."
-
-Bulletin of the School of Oriental and African Studies 34:1 (1971):
-
-20-35.
-
-Ward, Cheryl A. Sacred and Secular: Ancient Egyptian Ships and
-
-Boats. Boston: Archaeological Institute of America, 2000.
-
-------. "World's Oldest Planked Boats: Abydos Hull Construction."
-
-In Boats, Ships and Shipyards: Proceedings of the Ninth
-
-International Symposium on Boat and Ship Archaeology, Venice
-
-2000, ed. by C. Beltrame, 19-23. Oxford: Oxbow, 2003.
-
-Warner, Denis Ashton, and Peggy Warner. The Tide at Sunrise: A
-
-History of the Russo-Japanese War, 1904-1905. New York:
-
-Charterhouse, 1974.
-
-Warner, Richard. "British Merchants and Russian Men-of-War: The
-
-Rise of the Russian Baltic Fleet." In Peter the Great and the West:
-
-New Perspectives, ed. by Lindsey Hughes, 105-17. Basingstoke,
-
-UK: Palgrave Macmillan, 2001.
-
-Warner of Rouen. Moriuht. Ed. by Christopher J. McDonough.
-
-Toronto: Pontifical Institute of Medieval Studies, 1995.
-
-Watson, P. B. "Bulk Cargo Carriers." In The Golden Age of Shipping,
-
-ed. by Gardiner and Greenway, 61-80.
-
-Wechsler, Howard J. "T'ai-tsung (Reign 626-49) the Consolidator." In
-
-The Cambridge History of China. Vol. 3, Sui and T'ang China, 589-
-
-906, pt. 1, ed. by Denis Twitchett, 188-241. Cambridge: Cambridge
-
-Univ. Press, 1979.
-
-Wee, Herman van der. "Structural Changes in European Long-Distance
-
-Trade, and Particularly the Re-Export Trade from South to North,
-
-1350-1750." In The Rise of Merchant Empires, ed. by James Tracy,
-
-14-33. Cambridge: Cambridge Univ. Press, 1990.
-
-Weerakkody, D. P. M. "Sri Lanka Through Greek and Roman Eyes."
-
-In Sri Lanka and the Silk Road of the Sea, 163-72. Colombo: Sri
-
-Lanka National Commission for UNESCO, 1990.
-
-------. Taprobanê: Ancient Sri Lanka as Known to Greeks and
-
-Romans. Turnhout, Belgium: Brepols, 1997.
-
-Wehausen, J. V., A. Mansour, and F. Stross. "The Colossi of Memnon
-
-and Egyptian Barges." IJNA 17 (1988): 295-310.
-
-Wei Zhuang [Chuang]. "The Lament of the Lady of Ch'in." In
-
-Sunflower Splendor: Three Thousand Years of Chinese Poetry, ed.
-
-by Wu-chi Liu and Irving Yucheng Lo, 267-81. Garden City:
-
-Anchor, 1975.
-
-Weir, Gary E. "Fish, Family, and Profit: Piracy and the Horn of
-
-Africa." Naval War College Review 62:3 (2009): 15-30.
-
-Welch, Kathryn. "Sextus Pompeius and the Res Publica." In Sextus
-
-Pompeius, ed. by Anton Powell and Kathryn Welch, 31-64.
-
-Swansea: Classical Press of Wales, 2002.
-
-Wendrich, W. Z., R. S. Tomber, S. E. Sidebotham, et al. "Berenike
-
-Crossroads: The Integration of Information." JESHO 46:1 (2003):
-
-46-88.
-
-Werner, Walter. "The Largest Ship Trackway in Ancient Times: The
-
-Diolkos of the Isthmus of Corinth, Greece, and Early Attempts to
-
-Build a Canal." IJNA 26:2 (1997): 98-119.
-
-West, M. L. The East Face of Helicon: West Asiatic Elements in Greek
-
-Poetry and Myth. Oxford: Clarendon Press, 1997.
-
-Wey Gómez, Nicolás. The Tropics of Empire: Why Columbus Sailed
-
-South to the Indies. Cambridge: MIT Press, 2008.
-
-Wheatley, Paul. The Golden Khersonese: Studies in the Historical
-
-Geography of the Malay Peninsula Before a.d. 1500. Kuala
-
-Lumpur: Univ. of Malaya Press, 1961.
+Wheatley, Paul. The Golden Khersonese: Studies in the Historical Geography of the Malay Peninsula Before a.d. 1500. Kuala Lumpur: Univ. of Malaya Press, 1961.
 
 Wheeler, Mortimer. Rome Beyond the Imperial Frontiers. Harmondsworth: Penguin, 1954.
 
-Wheeler, Ryan J., et al. "Archaic Period Canoes from Newnans Lake,
+Wheeler, Ryan J., et al. “Archaic Period Canoes from Newnans Lake, Florida.” American Antiquity 68:3 (2003): 533–51.
 
-Florida." American Antiquity 68:3 (2003): 533-51.
+Whitehead, Ian. “The Periplous.” Greece and Rome 34:2 (1987): 78–85.
 
-Whitehead, Ian. "The Periplous." Greece and Rome 34:2 (1987): 78-
-
-85.
-
-Whitehouse, David. "Sasanian Maritime Activity." In The Indian
-
-Ocean in Antiquity, ed. by Reade, 339-49.
+Whitehouse, David. “Sasanian Maritime Activity.” In The Indian Ocean in Antiquity, ed. by Reade, 339–49.
 
 Whitman, Walt. Leaves of Grass. Philadelphia: David McKay, 1891.
 
-Whitmore, John K. "The Rise of the Coast: Trade, State and Culture in
+Whitmore, John K. “The Rise of the Coast: Trade, State and Culture in Early Dai Viet.” JSEAS 37:1 (2006): 103–22.
 
-Early Dai Viet." JSEAS 37:1 (2006): 103-22.
+Wickham, Chris. The Inheritance of Rome: A History of Europe from 400 to 1000. New York: Viking, 2009.
 
-Wickham, Chris. The Inheritance of Rome: A History of Europe from
+Wicks, Robert S. Money, Markets, and Trade in Early Southeast Asia: The Development of Indigenous Monetary Systems to ad 1400. Ithaca: Southeast Asia Program, 1992.
 
-400 to 1000. New York: Viking, 2009.
+Wiener, M. H. “Isles of Crete? The Minoan Thalassocracy Revisited.” In Thera and the Aegean World. Vol. 1, Archaeology, ed. by D. A. Hardy, 128–61. London: Thera Foundation, 1990.
 
-Wicks, Robert S. Money, Markets, and Trade in Early Southeast Asia:
+Wilkinson, J. C. “Oman and East Africa: New Light on Early Kilwan History from the Omani Sources.” International Journal of African Historical Studies 14:2 (1981): 272–305.
 
-The Development of Indigenous Monetary Systems to ad 1400.
+———. “A Sketch of the Historical Geography of Trucial Oman Down to the Beginning of the Sixteenth Century.” Geographical Journal 130 (1964): 337–49.
 
-Ithaca: Southeast Asia Program, 1992.
+———. “Suhar (Sohar) in the Early Islamic Period: The Written Evidence.” In South Asian Archaeology 1977, ed. by Maurizio Taddei, 888–907 (1–21). Naples: Istituto Universitario Orientale, 1979.
 
-Wiener, M. H. "Isles of Crete? The Minoan Thalassocracy Revisited."
+Wilkinson, Toby A. H. Early Dynastic Egypt. London: Routledge, 1999.
 
-In Thera and the Aegean World. Vol. 1, Archaeology, ed. by D. A.
+Willan, Thomas Stuart. The Early History of the Russia Company, 1553–1603. Manchester, UK: Manchester Univ. Press, 1956.
 
-Hardy, 128-61. London: Thera Foundation, 1990.
+William of Tyre. A History of Deeds Done Beyond the Sea. Trans. Emily Atwater Babcock and A. C. Krey. 2 vols. 1941. Reprint, New York: Farrar, Straus & Giroux, 1976.
 
-Wilkinson, J. C. "Oman and East Africa: New Light on Early Kilwan
+Williams, David M. “The Extent of Transport Services’ Integration: SS Ceylon and the First ‘Round the World’ Cruise, 1881–1882.” International Journal of Maritime History 14:2 (2003): 135–46.
 
-History from the Omani Sources." International Journal of African
+Williams, Frances Leigh. Matthew Fontaine Maury: Scientist of the Sea. New Brunswick: Rutgers Univ. Press, 1963.
 
-Historical Studies 14:2 (1981): 272-305.
+Williams, Glyn. The Prize of All the Oceans: The Dramatic Story of Commodore Anson’s Voyage Round the World and How He Seized the Spanish Treasure Galleon. New York: Viking, 1999.
 
-------. "A Sketch of the Historical Geography of Trucial Oman
+Williams, John Bryan. “The Making of a Crusade: The Genoese Anti-Muslim Attacks in Spain, 1146–48.” Journal of Medieval History 23:1 (1997): 29–53.
 
-Down to the Beginning of the Sixteenth Century." Geographical
+Wills, John E., Jr. “Maritime China.” In From Ming to Ching: Conquest, Region, and Continuity in Seventeenth-Century China, ed. by Jonathan D. Spence and John E. Wills, Jr., 201–38. New Haven: Yale Univ. Press, 1979.
 
-Journal 130 (1964): 337-49.
+———. “Relations with Maritime Europeans, 1514–1662.” In The Cambridge History of China. Vol. 8, The Ming Dynasty, 1368–1644, pt. 2., ed. by John King Fairbank, Denis C. Twitchett, and Frederick W. Mote, 333–75. Cambridge: Cambridge Univ. Press, 1998.
 
-------. "Suhar (Sohar) in the Early Islamic Period: The Written
+Wilson, Woodrow. “President Woodrow Wilson’s Fourteen Points, 8 January, 1918.” Avalon Project, Yale Law School. http://avalon.law.yale.edu/20th_century/wilson14.asp.
 
-Evidence." In South Asian Archaeology 1977, ed. by Maurizio
+Winius, George D. “The Enterprise Focused on India: The Work of D. João II.” In Portugal, the Pathfinder, ed. by Winius, 89–120.
 
-Taddei, 888-907 (1-21). Naples: Istituto Universitario Orientale,
+———. “The Estado da India on the Subcontinent: Portuguese as Players on a South Asian Stage.” In Portugal, the Pathfinder, ed. by Winius, 191–212.
 
-1979.
+———. “Portugal’s Shadow Empire in the Bay of Bengal.” In Portugal, the Pathfinder, ed. by Winius, 247–68.
 
-Wilkinson, Toby A. H. Early Dynastic Egypt. London: Routledge,
+———, ed. Portugal, the Pathfinder: Journeys from the Medieval Toward the Modern World, 1300–ca. 1600. Madison: Hispanic Seminary of Medieval Studies, 1995.
 
-1999.
+Wink, André. Al-Hind: The Making of the Indo-Islamic World. 3 vols. Leiden: Brill, 1996–2002.
 
-Willan, Thomas Stuart. The Early History of the Russia Company,
+Winstedt, Richard, and P. E. De Josselin de Jong. “The Maritime Laws of Malacca.” Journal of the Malayan Branch of the Royal Asiatic Society 29:3 (1956): 22–59.
 
-1553-1603. Manchester, UK: Manchester Univ. Press, 1956.
+Winthrop, John. The Journal of John Winthrop, 1630–1649, ed. by Richard S. Dunn, James Savage, and Laetitia Yeandle. Cambridge: Harvard Univ. Press, 1996.
 
-William of Tyre. A History of Deeds Done Beyond the Sea. Trans.
+Wise, Stephen R. Lifeline of the Confederacy: Blockade Running During the Civil War. Columbia: Univ. of South Carolina Press, 1988.
 
-Emily Atwater Babcock and A. C. Krey. 2 vols. 1941. Reprint, New
+Wokeck, Marianne Sophia. Trade in Strangers: The Beginnings of Mass Migration to North America. University Park: Pennsylvania State Univ. Press, 1999.
 
-York: Farrar, Straus & Giroux, 1976.
+Wolters, O. W. Early Indonesian Commerce: A Study of the Origins of Srivijaya. Ithaca: Cornell Univ. Press, 1967.
 
-Williams, David M. "The Extent of Transport Services' Integration: SS
+Wood, Alfred Cecil. A History of the Levant Company. New York: Barnes & Noble, 1964.
 
-Ceylon and the First 'Round the World' Cruise, 1881-1882."
+Woodward, David. “Medieval Mappaemundi.” In The History of Cartography. Vol. 1, Cartography in Prehistoric, Ancient, and Medieval Europe and the Mediterranean, ed. by J. B. Harley and David Woodward, 286–370. Chicago: Univ. of Chicago Press, 1987.
 
-International Journal of Maritime History 14:2 (2003): 135-46.
+Woodward, David, ed. The History of Cartography. Vol. 3, Cartography in the Renaissance. Chicago: University of Chicago Press, 2007.
 
-Williams, Frances Leigh. Matthew Fontaine Maury: Scientist of the
+Woodward, David. The Russians at Sea: A History of the Russian Navy. New York: Praeger, 1966.
 
-Sea. New Brunswick: Rutgers Univ. Press, 1963.
+Worcester, G. R. G. The Junkman Smiles. London: Chatto & Windus, 1959.
 
-Williams, Glyn. The Prize of All the Oceans: The Dramatic Story of
+———. The Junks and Sampans of the Yangtze. Annapolis: Naval Institute, 1971.
 
-Commodore Anson's Voyage Round the World and How He Seized
-
-the Spanish Treasure Galleon. New York: Viking, 1999.
-
-Williams, John Bryan. "The Making of a Crusade: The Genoese AntiMuslim Attacks in Spain, 1146-48." Journal of Medieval History
-
-23:1 (1997): 29-53.
-
-Wills, John E., Jr. "Maritime China." In From Ming to Ching:
-
-Conquest, Region, and Continuity in Seventeenth-Century China,
-
-ed. by Jonathan D. Spence and John E. Wills, Jr., 201-38. New
-
-Haven: Yale Univ. Press, 1979.
-
-------. "Relations with Maritime Europeans, 1514-1662." In The
-
-Cambridge History of China. Vol. 8, The Ming Dynasty, 1368-1644,
-
-pt. 2., ed. by John King Fairbank, Denis C. Twitchett, and Frederick
-
-W. Mote, 333-75. Cambridge: Cambridge Univ. Press, 1998.
-
-Wilson, Woodrow. "President Woodrow Wilson's Fourteen Points, 8 January, 1918." Avalon Project, Yale Law School. http://avalon.law.yale.edu/20th_century/wilson14.asp.
-
-Winius, George D. "The Enterprise Focused on India: The Work of D.
-
-João II." In Portugal, the Pathfinder, ed. by Winius, 89-120.
-
-------. "The Estado da India on the Subcontinent: Portuguese as
-
-Players on a South Asian Stage." In Portugal, the Pathfinder, ed. by
-
-Winius, 191-212.
-
-------. "Portugal's Shadow Empire in the Bay of Bengal." In
-
-Portugal, the Pathfinder, ed. by Winius, 247-68.
-
-------, ed. Portugal, the Pathfinder: Journeys from the Medieval
-
-Toward the Modern World, 1300-ca. 1600. Madison: Hispanic
-
-Seminary of Medieval Studies, 1995.
-
-Wink, André. Al-Hind: The Making of the Indo-Islamic World. 3 vols.
-
-Leiden: Brill, 1996-2002.
-
-Winstedt, Richard, and P. E. De Josselin de Jong. "The Maritime Laws
-
-of Malacca." Journal of the Malayan Branch of the Royal Asiatic
-
-Society 29:3 (1956): 22-59.
-
-Winthrop, John. The Journal of John Winthrop, 1630-1649, ed. by
-
-Richard S. Dunn, James Savage, and Laetitia Yeandle. Cambridge:
-
-Harvard Univ. Press, 1996.
-
-Wise, Stephen R. Lifeline of the Confederacy: Blockade Running
-
-During the Civil War. Columbia: Univ. of South Carolina Press,
-
-1988.
-
-Wokeck, Marianne Sophia. Trade in Strangers: The Beginnings of
-
-Mass Migration to North America. University Park: Pennsylvania
-
-State Univ. Press, 1999.
-
-Wolters, O. W. Early Indonesian Commerce: A Study of the Origins of
-
-Srivijaya. Ithaca: Cornell Univ. Press, 1967.
-
-Wood, Alfred Cecil. A History of the Levant Company. New York:
-
-Barnes & Noble, 1964.
-
-Woodward, David. "Medieval Mappaemundi." In The History of
-
-Cartography. Vol. 1, Cartography in Prehistoric, Ancient, and
-
-Medieval Europe and the Mediterranean, ed. by J. B. Harley and
-
-David Woodward, 286-370. Chicago: Univ. of Chicago Press, 1987.
-
-Woodward, David, ed. The History of Cartography. Vol. 3,
-
-Cartography in the Renaissance. Chicago: University of Chicago
-
-Press, 2007.
-
-Woodward, David. The Russians at Sea: A History of the Russian
-
-Navy. New York: Praeger, 1966.
-
-Worcester, G. R. G. The Junkman Smiles. London: Chatto & Windus,
-
-1959.
-
-------. The Junks and Sampans of the Yangtze. Annapolis: Naval
-
-Institute, 1971.
-
-Worrall, Simon. "China Made: A 1,200-Year-Old Shipwreck Opens a
-
-Window on the Ancient Global Trade." National Geographic 215:6
-
-(2009): 112-22.
+Worrall, Simon. “China Made: A 1,200-Year-Old Shipwreck Opens a Window on the Ancient Global Trade.” National Geographic 215:6 (2009): 112–22.
 
 Wright, Arthur F. The Sui Dynasty. New York: Knopf, 1978.
 
-Xenophon. A History of My Times. Trans. Rex Warner. New York:
+Xenophon. A History of My Times. Trans. Rex Warner. New York: Penguin, 1979.
 
-Penguin, 1979.
+Xuanzang. Si-yu-ki: Buddhist Records of the Western World. Trans. Samuel Beal. 1884. Reprint, New Delhi: Oriental Books, 1969.
 
-Xuanzang. Si-yu-ki: Buddhist Records of the Western World. Trans.
+Yenne, Bill. Guinness: The 250-Year Quest for the Perfect Pint. New York: Wiley, 2007.
 
-Samuel Beal. 1884. Reprint, New Delhi: Oriental Books, 1969.
+Yijing [I-Tsing]. A Record of the Buddhist Religion as Practised in India and the Malay Archipelago (A.D. 671–695). Trans. Junjiro Takakusu. 1896. Reprint, New Delhi: Munshiram Manoharlal, 1966.
 
-Yenne, Bill. Guinness: The 250-Year Quest for the Perfect Pint. New
+Yi Sun-sin. Imjin Changch’o: Admiral Yi Sun-Sin’s Memorials to Court. Trans. Tae-hung Ha and Sohn Pow-key. Seoul: Yonsei Univ. Press, 1981.
 
-York: Wiley, 2007.
+Yoshida, Mitsuru. Requiem for Battleship Yamato. Trans. Richard H. Minear. Seattle: Univ. of Washington Press, 1985.
 
-Yijing [I-Tsing]. A Record of the Buddhist Religion as Practised in
+Young, Gary K. Rome’s Eastern Trade: International Commerce and Imperial Policy, 31 bc–ad 305. New York: Routledge, 2001.
 
-India and the Malay Archipelago (A.D. 671-695). Trans. Junjiro
+Yu Huan. The Peoples of the West: From the Weilue, a Third Century Chinese Account Composed between 239 and 265 ce. Draft English translation by John E. Hill, Sept. 2004. http://depts.washington.edu/uwch/silkroad/texts/weilue/weilue.html.
 
-Takakusu. 1896. Reprint, New Delhi: Munshiram Manoharlal, 1966.
+Yun, Lisa, and Ricardo René Laremont. “Chinese Coolies and African Slaves in Cuba, 1847–74.” Journal of Asian-American Studies 4:2 (2001): 99–122.
 
-Yi Sun-sin. Imjin Changch'o: Admiral Yi Sun-Sin's Memorials to
-
-Court. Trans. Tae-hung Ha and Sohn Pow-key. Seoul: Yonsei Univ.
-
-Press, 1981.
-
-Yoshida, Mitsuru. Requiem for Battleship Yamato. Trans. Richard H.
-
-Minear. Seattle: Univ. of Washington Press, 1985.
-
-Young, Gary K. Rome's Eastern Trade: International Commerce and
-
-Imperial Policy, 31 bc-ad 305. New York: Routledge, 2001.
-
-Yu Huan. The Peoples of the West: From the Weilue, a Third Century
-
-Chinese Account Composed between 239 and 265 ce. Draft English translation by John E. Hill, Sept. 2004. http://depts.washington.edu/uwch/silkroad/texts/weilue/weilue.html.
-
-Yun, Lisa, and Ricardo René Laremont. "Chinese Coolies and African
-
-Slaves in Cuba, 1847-74." Journal of Asian-American Studies 4:2
-
-(2001): 99-122.
-
-Zeidler, James A. "Maritime Exchange in the Early Formative Period
-
-of Coastal Ecuador: Geopolitical Origins, Uneven Development."
-
-Research in Economic Anthropology 13 (1991): 247-68.
+Zeidler, James A. “Maritime Exchange in the Early Formative Period of Coastal Ecuador: Geopolitical Origins, Uneven Development.” Research in Economic Anthropology 13 (1991): 247–68.
 
 Zhao Rugua. See Chau Ju-kua.
 
-Zheng, Yangwen. China on the Sea: How the Maritime World Shaped
+Zheng, Yangwen. China on the Sea: How the Maritime World Shaped Modern China. Leiden: Brill, 2012.
 
-Modern China. Leiden: Brill, 2012.
+Zhuang Guotu. “The Impact of the International Tea Trade on the Social Economy of Northwest Fujian in the Eighteenth Century.” In On the Eighteenth Century as a Category of Asian History, ed. by Blussé and Gaastra, 193–216.
 
-Zhuang Guotu. "The Impact of the International Tea Trade on the
+Zosimus. New History. Trans. Ronald T. Ridley. Canberra: Australian Assoc. for Byzantine Studies, 1982.
 
-Social Economy of Northwest Fujian in the Eighteenth Century." In
-
-On the Eighteenth Century as a Category of Asian History, ed. by
-
-Blussé and Gaastra, 193-216.
-
-Zosimus. New History. Trans. Ronald T. Ridley. Canberra: Australian
-
-Assoc. for Byzantine Studies, 1982.
-
-Zurara, Gomes Eanes de. The Chronicle of the Discovery and
-
-Conquest of Guinea. Trans. C. Raymond Beazley and Edgar
-
-Prestage. 2 vols. London: Hakluyt, 1896-99.
+Zurara, Gomes Eanes de. The Chronicle of the Discovery and Conquest of Guinea. Trans. C. Raymond Beazley and Edgar Prestage. 2 vols. London: Hakluyt, 1896–99.
 
 ## Index
 
@@ -16833,4 +13296,3 @@ For more information, please visit www.aaknopf.com
 25. A huge catch aboard a trawler in the Gulf of Alaska. Judging from the two members of the crew seen toward the bow, the bulging trawl net is at least ten feet across. This picture illustrates the strain that modern industrial fishing with its sophisticated electronic tracking devices, mechanical efficiency, and phenomenally strong gear like nylon netting has put on fish stocks worldwide. Photograph by the Alaska Fisheries Science Center, Marine Observer Program; courtesy of the National Oceanic and Atmospheric Administration, Washington, D.C.
 
 26. The Nimitz-class aircraft carrier USS Dwight D. Eisenhower being replenished by the fleet oiler USNS Big Horn. The Eisenhower is nuclear-powered and the hoses leading from the Big Horn supply jet fuel for the carrier's air wing, while helicopters transship dry goods, including mail for the crew. The U.S. Navy has long been in the vanguard of underway replenishment, which is essential to long-distance overseas operations such as those shown here in the Arabian Sea. Photograph by Darien G. Kennedy; courtesy of the U.S. Navy.
-

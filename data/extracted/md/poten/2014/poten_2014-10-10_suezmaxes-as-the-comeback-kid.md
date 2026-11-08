@@ -28,7 +28,7 @@ We believe that the current Suezmax orderbook stands at 60 vessels or 14% of the
 
 Another comforting factor is the actual orderers themselves. Most of the recent contracts have been placed by experienced Suezmax owners with a proven operational and commercial platform and track record. There is no indication that speculative money is fueling the recent uptick in orders.
 
-Last, but certainly not least, is the economics. Prices of modern secondhand vessels have picked up since the market started to
+Last, but certainly not least, is the economics. Prices of modern secondhand vessels have picked up since the market started to recover in late 2013. One year ago, we estimated the value of a 5-yr old Suezmax to be $38 million. Today’s assessment for the same vessel is $55 million: an increase of 45%! This price increase could be a reflection of a positive market outlook as well as a very tight secondhand market, as there are very few modern Suezmaxes from quality yards for sale.
 
 *Chart: Fig. 1 Suezmax Trading Areas 2010 versus 2014 (based on reported fixtures)*
 
@@ -37,8 +37,6 @@ Last, but certainly not least, is the economics. Prices of modern secondhand ves
 *Chart: Fig. 2 Newbuilding and Secondhand Prices (2008-2014)*
 
 *Source: Poten*
-
-recover in late 2013. One year ago, we estimated the value of a 5-yr old Suezmax to be $38 million. Today’s assessment for the same vessel is $55 million: an increase of 45%! This price increase could be a reflection of a positive market outlook as well as a very tight secondhand market, as there are very few modern Suezmaxes from quality yards for sale.
 
 Newbuilding prices have not moved nearly as much as secondhand prices over the same time period. Our price assessment for a newbuilding ECO Suezmax is $68 million today, only 4% higher than the price a year ago, with some recent orders reportedly done at prices that are even $5-10 million lower. Based on these prices, the 20-year breakeven rate for an ECO newbuilding is in the $20 – $22,000/day range and with the 5-year time-charter rate for modern vessels at $28,000/day, newbuildings appear to be a fairly attractive investment.
 

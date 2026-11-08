@@ -24,13 +24,11 @@ Traditionally, the NRS has been used to move fuel, equipment, and food to the Ar
 
 Because of the sanctions it is facing and the resulting shift in export destinations, Russia has accelerated this development and boosted the shipment of oil to China via the NRS this year (Figure 1). A journey from the Barents Sea to the port of Rizhao (China) via the NRS takes 35 days, which is 10 days less than the alternative (Southern) route from the Baltic through the Suez Canal. The potential for time and fuel savings is significant. However, as previously indicated, there are limitations and risks. The weather situation can change quickly, and this could cause problems. For example, in November 2021, more than 20 ships got stuck in the remote area following a quick and early freeze of the waters. Such delays wipe out any cost and time savings.
 
-The chart shows that shipments mostly take place in the summer, from July – October. Even during that period, having an icebreaker escort is probably preferred since sea ice is unpredictable. If something goes wrong during the passage, it will be very difficult to respond to an oil spill. In addition to an icebreaker escort, the vessels that make the journey are usually
+The chart shows that shipments mostly take place in the summer, from July – October. Even during that period, having an icebreaker escort is probably preferred since sea ice is unpredictable. If something goes wrong during the passage, it will be very difficult to respond to an oil spill. In addition to an icebreaker escort, the vessels that make the journey are usually ice-class tankers, strengthened to withstand the icy conditions during the NRS passage. Ice class vessels are a small subsector of the tanker fleet, and they are typically in high demand during the winter period in the northern hemisphere.
 
 *Chart*
 
 *Source: Vortexa*
-
-ice-class tankers, strengthened to withstand the icy conditions during the NRS passage. Ice class vessels are a small subsector of the tanker fleet, and they are typically in high demand during the winter period in the northern hemisphere.
 
 Crude oil exports from the Baltic also use ice class vessels as can be seen in the second chart. It appears that the share of ice class vessels utilized in Russia’s Baltic Exports has been reduced in the 2022/2023 winter. This could be related to the fact that many modern ice class tankers are controlled by western owners, some of whom are reluctant to participate in Russian crude oil exports.
 

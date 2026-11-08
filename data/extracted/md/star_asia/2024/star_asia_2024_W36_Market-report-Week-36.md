@@ -103,11 +103,9 @@ In the Middle East, despite a consistent flow of cargoes to India and the East, 
 
 Clean:
 
-LR: LR2 in the MEG hold steady this week with TC1 closing in the region of WS115. There was
+LR: LR2 in the MEG hold steady this week with TC1 closing in the region of WS115. There was some shift in demand towards LR1s, which currently offer slightly better rates with TC5 holding steady as well at WS140 mark. Elsewhere, markets remain depressed with LR1 in the UKC route falling to WS119. MR: The Far East region closed on a slightly bearish note, showing little movement throughout the week as adverse weather conditions kept chartering activity low. The lack of significant demand has also kept rates relatively stable. Similar was also noted in the MEG. As TC17 route shed 10 points falling to WS195 at week's closing.
 
 ## Page 6
-
-some shift in demand towards LR1s, which currently offer slightly better rates with TC5 holding steady as well at WS140 mark. Elsewhere, markets remain depressed with LR1 in the UKC route falling to WS119. MR: The Far East region closed on a slightly bearish note, showing little movement throughout the week as adverse weather conditions kept chartering activity low. The lack of significant demand has also kept rates relatively stable. Similar was also noted in the MEG. As TC17 route shed 10 points falling to WS195 at week's closing.
 
 ## Baltic Exchange Tanker Indices
 
@@ -132,7 +130,6 @@ some shift in demand towards LR1s, which currently offer slightly better rates w
 | AFRAMAX | 110,000 | 37,500 | 37,500 | 38,500 | 0 | -2.60% |
 | LR1 | 74,000 | 35,000 | 36,000 | 28,250 | -2.78% | +23.89% |
 | MR | 47,000 | 26,500 | 26,500 | 25,500 | 0 | +3.92% |
-
 
 ## Page 7
 
@@ -218,11 +215,9 @@ However, with the new subsidies, ship owners are now achieving a better deal by 
 
 Alang, India
 
-There have been no new developments for the past few months; with markets trying to stabilise at the prevailing prices, the only difference between Alang and the other two destinations, the domestic ship scrap prices have settled earlier than there two destinations along with no issues on opening the required letters of credit. However, Alang remains a very cautious market with no urgency to go overboard. Lately, the Indian ship recycling industry has been struggling with a significant downturn driven by declining demand for local steel. Only 20% of Alang's 120 shipyards are operational. A surge in cheaper steel imports from countries like China and Vietnam has
+There have been no new developments for the past few months; with markets trying to stabilise at the prevailing prices, the only difference between Alang and the other two destinations, the domestic ship scrap prices have settled earlier than there two destinations along with no issues on opening the required letters of credit. However, Alang remains a very cautious market with no urgency to go overboard. Lately, the Indian ship recycling industry has been struggling with a significant downturn driven by declining demand for local steel. Only 20% of Alang's 120 shipyards are operational. A surge in cheaper steel imports from countries like China and Vietnam has led to a sharp fall in domestic steel prices, with hot-rolled coil prices hitting a three-year low in July 2024. This influx has made imports more attractive to manufacturers, resulting in a 15% increase in steel imports year-on-year and an 8% drop in domestic production. Additionally, the growing reliance on imported scrap steel from Western countries has further weakened the demand for ship scrap. Post-pandemic, re-rolling mills have favoured imported scrap due to their competitive pricing and superior quality, with imports rising 44% year-on-year by mid-2024. However, the government has taken the lead in curbing such cheap imports. On September 4, Union Steel Minister H D Kumaraswamy announced plans to advocate for higher import duties on steel to combat the influx of cheap steel from China. Speaking at the Fifth Steel Conclave hosted by the Indian Steel Association, Kumaraswamy expressed his intention to engage with the finance ministry to raise import duties from the current 7.5% to a proposed 10-12%. The minister's remarks came in response to concerns from industry stakeholders over the adverse effects of low-priced Chinese steel imports on the domestic market. Kumaraswamy underscored the need for vigilance in the face of global challenges, particularly the slowdown in demand caused by China's economic issues. Reaffirming the steel ministry's dedication to the Aatmanirbhar Bharat initiative, he expressed confidence that the Indian steel industry is poised for significant growth despite these external pressures.
 
 ## Page 14
-
-led to a sharp fall in domestic steel prices, with hot-rolled coil prices hitting a three-year low in July 2024. This influx has made imports more attractive to manufacturers, resulting in a 15% increase in steel imports year-on-year and an 8% drop in domestic production. Additionally, the growing reliance on imported scrap steel from Western countries has further weakened the demand for ship scrap. Post-pandemic, re-rolling mills have favoured imported scrap due to their competitive pricing and superior quality, with imports rising 44% year-on-year by mid-2024. However, the government has taken the lead in curbing such cheap imports. On September 4, Union Steel Minister H D Kumaraswamy announced plans to advocate for higher import duties on steel to combat the influx of cheap steel from China. Speaking at the Fifth Steel Conclave hosted by the Indian Steel Association, Kumaraswamy expressed his intention to engage with the finance ministry to raise import duties from the current 7.5% to a proposed 10-12%. The minister's remarks came in response to concerns from industry stakeholders over the adverse effects of low-priced Chinese steel imports on the domestic market. Kumaraswamy underscored the need for vigilance in the face of global challenges, particularly the slowdown in demand caused by China's economic issues. Reaffirming the steel ministry's dedication to the Aatmanirbhar Bharat initiative, he expressed confidence that the Indian steel industry is poised for significant growth despite these external pressures.
 
 Anchorage & Beaching Position (September 2024)
 
@@ -256,11 +251,9 @@ Anchorage & Beaching Position (September 2024)
 
 Gadani, Pakistan
 
-The ship recycling industry has been struggling with a significant decline in domestic demand, dampening the sentiments as well as creating an uncertain environment for
+The ship recycling industry has been struggling with a significant decline in domestic demand, dampening the sentiments as well as creating an uncertain environment for recyclers. A majority of ship recyclers have pivoted toward importing finished steel products, particularly Hot Rolled Coils (HRC), as this option has proven to be more financially viable in the current steel market, which is heavily oversupplied. The downturn in construction activities due to the ongoing monsoon season has further intensified the situation, leading to a drastic drop in demand for ship scrap. The market outlook remains cautious as recyclers look to the end of the monsoon season and potential recovery in construction demand to revive ship recycling activities.
 
 ## Page 16
-
-recyclers. A majority of ship recyclers have pivoted toward importing finished steel products, particularly Hot Rolled Coils (HRC), as this option has proven to be more financially viable in the current steel market, which is heavily oversupplied. The downturn in construction activities due to the ongoing monsoon season has further intensified the situation, leading to a drastic drop in demand for ship scrap. The market outlook remains cautious as recyclers look to the end of the monsoon season and potential recovery in construction demand to revive ship recycling activities.
 
 ---
 
@@ -301,11 +294,9 @@ Pakistani buyers remained cautious as the ongoing monsoon season dampened constr
 
 In Bangladesh, scrap buying interest was muted due to ongoing challenges, including stringent banking regulations that are making it difficult for buyers to open letters of credit. Flooding and monsoon disruptions have further slowed the steel market. Shredded scrap offers from UK/Europe were evaluated at US$400-405/ton CFR Chattogram, while HMS (80:20) was quoted at US$390-395/ton CFR.
 
-Turkey's imported ferrous scrap market continued to show strength, driven by tight supply and firm offers. US-origin HMS (80:20) was offered at US$370-375/ton CFR, with deals closing around US$370-371/ton CFR. EU-origin HMS (80:20) was similarly quoted at US$365-370/ton CFR. Scrap supply remains constrained by slow collection rates and rising costs in Europe, further tightening the market. Turkish rebar export prices inched
+Turkey's imported ferrous scrap market continued to show strength, driven by tight supply and firm offers. US-origin HMS (80:20) was offered at US$370-375/ton CFR, with deals closing around US$370-371/ton CFR. EU-origin HMS (80:20) was similarly quoted at US$365-370/ton CFR. Scrap supply remains constrained by slow collection rates and rising costs in Europe, further tightening the market. Turkish rebar export prices inched higher as steady order volumes allowed mills to maintain favourable margins between scrap and rebar conversion.
 
 ## Page 18
-
-higher as steady order volumes allowed mills to maintain favourable margins between scrap and rebar conversion.
 
 ## HMS 1/2 & Tangshan Billet
 

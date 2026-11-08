@@ -84,17 +84,13 @@ The owner has secured new contracts in Norway and the UK for PSVs Normand Arctic
 
 Tantalus was awarded a 75-day firm contract with Peterson SNS.
 
-On the AHTS side, Solstad has also confirmed the award of multiple project contracts for
-
-several AHTS vessels that are currently trading on the North Sea spot market. These contracts have a combined firm period of 350 days for work in the North Sea, US Gulf and West Africa.
+On the AHTS side, Solstad has also confirmed the award of multiple project contracts for several AHTS vessels that are currently trading on the North Sea spot market. These contracts have a combined firm period of 350 days for work in the North Sea, US Gulf and West Africa.
 
 ## MORE PSV CONTRACTS FOR ISLAND
 
 Island Chieftain (c/o O. Halland)
 
-After securing a one-year plus one-year option UK contract for the Island Champion with TotalEnergies in March, Island Offshore has followed that up with an equivalent contract with the same charterer for the Island Chieftain. The vessel has just
-
-gone on hire. Island also secured a one-well (110-day) contract for the Island Discoverer with Serica Energy UK. Rem Offshore PSV Rem Arctic was chartered on similar terms to support Serica's drilling campaign with the Paul B. Loyd, Jr. from July.
+After securing a one-year plus one-year option UK contract for the Island Champion with TotalEnergies in March, Island Offshore has followed that up with an equivalent contract with the same charterer for the Island Chieftain. The vessel has just gone on hire. Island also secured a one-well (110-day) contract for the Island Discoverer with Serica Energy UK. Rem Offshore PSV Rem Arctic was chartered on similar terms to support Serica's drilling campaign with the Paul B. Loyd, Jr. from July.
 
 ## NEW LEASE OF LIFE FOR FORMER BOURBON PSV
 

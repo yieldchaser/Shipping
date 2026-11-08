@@ -28,11 +28,9 @@ The first Australian coal cargo to China in more than two years is about to dock
 
 #### Capesize:
 
-The recent seasonal iron ore supply disruptions in Brazil and ongoing sluggish demand in China resulted in further declines in the market this week. Despite participants returning after the end of the holidays, overall levels still appear to be low. Brazil's iron ore exports in January reached 24.7 million tons, a decrease of 23% m-o-m, marking it the lowest export volume since January 2015. Brazil's R/V levels fell to US$3,600 a day at the week's closing. However, a bottom is expected to be secured soon due to increased resistance from ship owners in response to the
+The recent seasonal iron ore supply disruptions in Brazil and ongoing sluggish demand in China resulted in further declines in the market this week. Despite participants returning after the end of the holidays, overall levels still appear to be low. Brazil's iron ore exports in January reached 24.7 million tons, a decrease of 23% m-o-m, marking it the lowest export volume since January 2015. Brazil's R/V levels fell to US$3,600 a day at the week's closing. However, a bottom is expected to be secured soon due to increased resistance from ship owners in response to the continued low rates below OPEX. Although there are still indications of a virtuous cycle, this has not yet been translated on paper. Pacific r/v saw levels in the lows of US$2,600 with an overall Capesize average in the regions of US$5,700 a day.
 
 ## Page 2
-
-continued low rates below OPEX. Although there are still indications of a virtuous cycle, this has not yet been translated on paper. Pacific r/v saw levels in the lows of US$2,600 with an overall Capesize average in the regions of US$5,700 a day.
 
 #### Panamax / Kamsarmax:
 
@@ -316,11 +314,9 @@ The administration is attempting to minimise the impact on the general public, b
 
 #### ALIAGA, TURKEY
 
-Millions were affected by Monday's tremendous earthquakes in Syria and Turkey. The 7.8- magnitude quakes were the strongest to hit both countries in over a century. Over 21,000 people are dead and many more are missing or seriously injured. With the dust from the disaster still settling, regional analysts are focusing on the longer-term ramifications for Turkey, a country whose 85 million-strong population was already mired in
+Millions were affected by Monday's tremendous earthquakes in Syria and Turkey. The 7.8- magnitude quakes were the strongest to hit both countries in over a century. Over 21,000 people are dead and many more are missing or seriously injured. With the dust from the disaster still settling, regional analysts are focusing on the longer-term ramifications for Turkey, a country whose 85 million-strong population was already mired in economic problems. This year will serve as a critical inflection point for Turkey, as it approaches a presidential election on May 14.
 
 ## Page 14
-
-economic problems. This year will serve as a critical inflection point for Turkey, as it approaches a presidential election on May 14.
 
 Business activity in Turkey's rebar and scrap markets remained slow as attention was on the earthquake victims. Steelmakers in the affected region have halted production and are offering aid, while exporters have price ideas but no inquiries or offers are heard.
 

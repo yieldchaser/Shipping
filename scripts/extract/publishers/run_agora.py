@@ -320,19 +320,43 @@ def split_label(text):
     return text, None
 
 
-def prose_of(ws):
-    """Line-level text for the non-data pages (cover, notes, contacts)."""
-    out, cur, y = [], [], None
-    for w in sorted(ws, key=lambda w: (w["y0"], w["x0"])):
-        if y is None or abs(w["y0"] - y) <= 2.0:
-            cur.append(w["t"])
-            y = w["y0"] if y is None else y
+# the contact sheet: staff names with mobiles / skype handles and desk e-mails (never transcribed)
+STAFF_RE = re.compile(r"\b(?:mob|skype)\b|[\w.+-]+@[\w-]+\.[\w.]+", re.I)
+FOOTER_MARKS = ("AGORA SHIPBROKING", "www.agoraships.com", "Disclaimer", "Whilst every care")
+CONTACT_NOTE = "> Contact details (desk e-mails, staff names and mobile numbers) omitted."
+MD_LEAD = re.compile(r"^(?:[#>|]|[-*+]\s|\d+\)\s)")
+
+
+def page_prose(page):
+    """Markdown for a page with no data table (cover, notes, contact sheet).
+
+    One paragraph per PDF text block, blocks top to bottom, each block's printed lines kept and its words
+    spaced as printed. (Word boxes are not used here: words_of glues words set less than 2.5pt apart, which
+    turned 'Crude Oil - U.S. Dollars' into 'CrudeOil-U.S.Dollars', and one word per line was written.)
+    On the contact sheet only the letterhead and disclaimer are kept, behind one note."""
+    blocks = [b for b in page.get_text("blocks") if b[6] == 0 and b[4].strip()]
+    blocks.sort(key=lambda b: (round(b[1]), b[0]))
+    contact = any(STAFF_RE.search(b[4]) for b in blocks)
+    paras = [CONTACT_NOTE] if contact else []
+    prev = None
+    for b in blocks:
+        if contact and not any(m in b[4] for m in FOOTER_MARKS):
+            continue
+        lines = [re.sub(r"\s+", " ", ln).strip() for ln in b[4].splitlines()]
+        lines = ["\\" + ln if MD_LEAD.match(ln) else ln for ln in lines if ln]
+        # the PDF often makes each printed line of a paragraph its own block: a block that starts at the same
+        # left edge one line below a block not ending a sentence continues that paragraph
+        line_h = (prev[3] - prev[1]) / max(1, len(prev[4].strip().splitlines())) if prev else 0
+        if (prev is not None and paras and abs(b[0] - prev[0]) < 2 and 0 <= b[1] - prev[3] < 1.2 * line_h
+                and not re.search(r"[.?!:;]\s*$", paras[-1])):
+            paras[-1] += "\n" + "\n".join(lines)
         else:
-            out.append(" ".join(cur))
-            cur, y = [w["t"]], w["y0"]
-    if cur:
-        out.append(" ".join(cur))
-    return chr(10).join(out)
+            paras.append("\n".join(lines))
+        prev = b
+    out = "\n\n".join(paras)
+    if STAFF_RE.search(out.replace(CONTACT_NOTE, "")):
+        raise ValueError("staff contact detail left in page prose")
+    return out
 
 
 def parse_page(page, pno, conv, carry=None):
@@ -488,9 +512,7 @@ def build(pdf):
         sections, unexp, ws, carry = parse_page(page, pno, conv, carry)
         unexplained += unexp
         n_values += sum(1 for w in ws if VALUE_RE.match(w["t"]))
-        prose = None
-        if not sections:
-            prose = "\n".join(w["t"] for w in ws)
+        prose = page_prose(page) if not sections else None
         pages.append({"pno": pno, "sections": sections, "prose": prose,
                       "nwords": len(ws)})
     doc.close()
@@ -510,10 +532,9 @@ def render(pdf, conv, conv_info, pages):
         if p["prose"] is not None:
             out.append("_no data table on this page_")
             out.append("")
-            for ln in p["prose"].splitlines():
-                if ln.strip():
-                    out.append(ln.strip())
-            out.append("")
+            if p["prose"]:
+                out.append(p["prose"])
+                out.append("")
             continue
         for name in sorted(p["sections"], key=lambda n: (n.endswith("T/C"), n)):
             out.append(f"### {name}")

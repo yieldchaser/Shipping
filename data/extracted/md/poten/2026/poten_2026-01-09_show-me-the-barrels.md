@@ -24,7 +24,7 @@ Unipec’s VLCC spot charters were slightly higher in 2025 (up 8 relative to 202
 
 *Chart*
 
-In the Suezmax segment, Total took the top spot from ExxonMobil, which dropped two places. Chevron also surpassed ExxonMobil to settle in 2nd place. Glencore dropped
+In the Suezmax segment, Total took the top spot from ExxonMobil, which dropped two places. Chevron also surpassed ExxonMobil to settle in 2nd place. Glencore dropped out of the top 10 (to 12th) and was replaced by Trafigura (up from 19th in 2024). Total Suezmax spot fixtures increased by 40 (2.5%) compared to 2024 (1,672 versus 1,632).
 
 | 2025 Rank | Charterer | Reported Total Cargo (MT 000's) | % of Total Dirty Cargoes | 2024 Rank | 2025 Fixtures |
 | --- | --- | --- | --- | --- | --- |
@@ -53,8 +53,6 @@ In the Suezmax segment, Total took the top spot from ExxonMobil, which dropped t
 |  | Total | 1,239,482 | 100.0% |  | 7,454 |
 
 Source: Poten & Partners
-
-out of the top 10 (to 12th) and was replaced by Trafigura (up from 19th in 2024). Total Suezmax spot fixtures increased by 40 (2.5%) compared to 2024 (1,672 versus 1,632).
 
 *Chart*
 

@@ -24,29 +24,15 @@ pages: 15
 
 ---
 
-As the Covid-19 outbreak in China persists, President Xi Jinping will reveal his virus-control
+As the Covid-19 outbreak in China persists, President Xi Jinping will reveal his virus-control strategy at the country's next party congress. The question is how long these efforts will be effective. Many in the country have been supportive of the measures since the first case was detected in Wuhan, but signs are emerging that their tolerance is wearing thin.
 
-strategy at the country's next party congress. The question is how long these efforts will be
+Despite the paucity of accurate surveys on the Chinese public's attitude toward the virus, more criticism has begun to surface concerning the government's tactics. Some of complaints have been raised about the frequent PCR tests and lockdowns.
 
-effective. Many in the country have been supportive of the measures since the first case was
-
-detected in Wuhan, but signs are emerging that their tolerance is wearing thin.
-
-Despite the paucity of accurate surveys on the Chinese public's attitude toward the virus,
-
-more criticism has begun to surface concerning the government's tactics. Some of
-
-complaints have been raised about the frequent PCR tests and lockdowns.
-
-In response to the growing public sensitivity, officials have started to soften the terms of the
-
-lockdowns, which were previously used to describe the measures. Instead of "lockdown,"
+In response to the growing public sensitivity, officials have started to soften the terms of the lockdowns, which were previously used to describe the measures. Instead of "lockdown,"
 
 they have been using terms such as "static management" and "pressing the pause button.
 
-The upcoming party meeting is a crucial one and shall give directions of how the world's
-
-second-largest economy will shape up in the months to come.
+The upcoming party meeting is a crucial one and shall give directions of how the world's second-largest economy will shape up in the months to come.
 
 ### Dry Bulk
 
@@ -58,19 +44,11 @@ As we enter the last quarter of 2022, the Baltic Indices gained momentum, hoveri
 
 Despite a decline in contract activity due to China's National Day, demand for vessels from
 
-Brazil's iron ore remains strong, owing to tight supply in the Atlantic basin. Overall T/A saw
-
-levels in the region of US$23,500 a day, falling slightly from last week. The rise in iron ore
-
-exports as a result of improving weather conditions in Brazil and the revival of crude steel
-
-production in China are positive factors for market circumstances. However, China's zero-
+Brazil's iron ore remains strong, owing to tight supply in the Atlantic basin. Overall T/A saw levels in the region of US$23,500 a day, falling slightly from last week. The rise in iron ore exports as a result of improving weather conditions in Brazil and the revival of crude steel production in China are positive factors for market circumstances. However, China's zero-
 
 Covid policy still remains in place. Opinions on the future outlook remain divided. The
 
-Chinese government is expected to retain the policy until March of next year. Pacific r/v levels
-
-slipped to US$ 12,600's region.
+Chinese government is expected to retain the policy until March of next year. Pacific r/v levels slipped to US$ 12,600's region.
 
 ### Panamax / Kamsarmax:
 
@@ -205,19 +183,7 @@ M.R. freight rates between Korea and Southeast Asia declined as a result of a fa
 
 # Containers
 
-Experts are keeping a careful eye on the container shipping sector as a result of the
-
-persistent rate drop. Drewry, a British consulting firm, cut its demand forecast for 2022 last
-
-week. The world economy is also anticipated to contract by 1.9% in 2023. Ultimately, when
-
-the market begins to stabilize at an appropriate level, operators would discover that their
-
-rates and profits are unsustainable, especially with the suspension of East-West service,
-
-limiting their operational capacity. The next stage will be to sell older vessels. This will likely
-
-lead to record container demolitions in 2023.
+Experts are keeping a careful eye on the container shipping sector as a result of the persistent rate drop. Drewry, a British consulting firm, cut its demand forecast for 2022 last week. The world economy is also anticipated to contract by 1.9% in 2023. Ultimately, when the market begins to stabilize at an appropriate level, operators would discover that their rates and profits are unsustainable, especially with the suspension of East-West service, limiting their operational capacity. The next stage will be to sell older vessels. This will likely lead to record container demolitions in 2023.
 
 ## Page 8
 
@@ -300,11 +266,9 @@ Following a week-long surge in containerised and bulk scrap bookings, Indian buy
 
 ### CHATTOGRAM, BANGLADESH
 
-This week the markets have taken a breather as the volatility in the domestic ship scrap returns. Ongoing issues in opening the L.C.'s have now become even more difficult, with the central bank prompting the domestic banks to do cross-commodity price checks, in a nutshell, they are trying to slow down the imports amid depleting forex reserves. Ship recycling markets have entered into an extremely cautious mode. Several ships sold in the past are facing headwinds as even L.C.'s less than US$2.5 million value is being rejected by the banks. Bangladesh's central bank has pumped more than US$4 billion into the market so far this fiscal year, putting additional strain on the country's foreign exchange reserves. Between July and October, the Bank of Bangladesh flooded the market with almost four
+This week the markets have taken a breather as the volatility in the domestic ship scrap returns. Ongoing issues in opening the L.C.'s have now become even more difficult, with the central bank prompting the domestic banks to do cross-commodity price checks, in a nutshell, they are trying to slow down the imports amid depleting forex reserves. Ship recycling markets have entered into an extremely cautious mode. Several ships sold in the past are facing headwinds as even L.C.'s less than US$2.5 million value is being rejected by the banks. Bangladesh's central bank has pumped more than US$4 billion into the market so far this fiscal year, putting additional strain on the country's foreign exchange reserves. Between July and October, the Bank of Bangladesh flooded the market with almost four billion dollars to assist lenders in clearing their import invoices. The previous year, the bank injected a record US$7.62 billion to keep the exchange rate stable. The Bangladeshi Taka exchange rate was at BDT105.66 to a U.S. dollar midweek, which is 23.43% lower than the previous currency's value. According to data issued by the central bank, the number of L.C.s opened during the first two months of the current fiscal year has decreased to US$12.4 billion from US$12.3 billion the previous year. Even so, the overall settlement of these loans has climbed to US$15 billion, a 42.3% increase from the previous year.
 
 ## Page 12
-
-billion dollars to assist lenders in clearing their import invoices. The previous year, the bank injected a record US$7.62 billion to keep the exchange rate stable. The Bangladeshi Taka exchange rate was at BDT105.66 to a U.S. dollar midweek, which is 23.43% lower than the previous currency's value. According to data issued by the central bank, the number of L.C.s opened during the first two months of the current fiscal year has decreased to US$12.4 billion from US$12.3 billion the previous year. Even so, the overall settlement of these loans has climbed to US$15 billion, a 42.3% increase from the previous year.
 
 ### Anchorage & Beaching Position (October 2022)
 

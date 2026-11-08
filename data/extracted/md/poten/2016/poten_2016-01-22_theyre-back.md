@@ -22,15 +22,13 @@ Iran’s initial increase in exports will likely come from its oil stockpiles. I
 
 Selling additional oil to existing customers will be much easier than trying to ship oil to customers in Europe, for example. European oil companies and traders have indicated that there are significant legal uncertainties that need to be clarified before they will buy Iranian crude. Question marks around vessel insurance, the availability of letters of credit from banks to facilitate trade and a lack of dollar clearing are some of the hurdles that may take several weeks to clear. It does not help that the world is awash in crude and prices are at their lowest levels since 2004.
 
-From a shipowners’ perspective, one of the key factors that remains uncertain is P&I insurance cover. Many P&I clubs don’t know yet what will happen if they have to pay for a claim involving Iranian oil or ports. Because the remaining sanctions on Iran prohibit transactions of U.S. citizens with Iranian interests, P&I clubs feel that they might not be able to fully recover claims involving Iranian interests. U.S. insurers and reinsurers may be unable to meet their obligations and pay a claim with an Iranian nexus. Without clarity on this,
+From a shipowners’ perspective, one of the key factors that remains uncertain is P&I insurance cover. Many P&I clubs don’t know yet what will happen if they have to pay for a claim involving Iranian oil or ports. Because the remaining sanctions on Iran prohibit transactions of U.S. citizens with Iranian interests, P&I clubs feel that they might not be able to fully recover claims involving Iranian interests. U.S. insurers and reinsurers may be unable to meet their obligations and pay a claim with an Iranian nexus. Without clarity on this, owners may be hesitant to call at Iranian ports.
 
 *Chart: Fig. 1: Iranian Floating Oil Storage (March 31, 2014 – January 21, 2016)*
 
 *Source: Windward*
 
 *Chart: Fig 2: Historical and Forecasted Iranian Production*
-
-owners may be hesitant to call at Iranian ports.
 
 We assume that the remaining issues around Iranian exports will be resolved over the next few weeks or months and over the medium to long-term, it is expected that Iran will significantly ramp up both production and exports. Iran’s production remained relatively flat over the past three years, while sanctions were in place, averaging 2.8 million barrels per day (b/d). The U.S. Energy Information Administration (EIA) forecasts that Iran’s crude oil production will reach 3.3 million b/d by the end of 2016, and almost 3.6 million b/d in 2017 (see figure 2). There is some uncertainty about Iran’s ability to mitigate production decline rates, deal with technical challenges and how quickly they can bring new oil fields into production.
 

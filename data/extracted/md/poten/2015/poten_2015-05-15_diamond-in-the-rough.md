@@ -24,7 +24,7 @@ Most of the products imported into Africa are gasoline and diesel fuel. Most of 
 
 Refining capacity in Africa is very limited (around 2.2 million barrels per day) and has not changed much over the last 10 years. Most of the refineries in Africa are small (< 50,000 b/d), old and unsophisticated. They are in relatively poor condition due to years of under-investment and neglect and run at extremely low utilization rates.
 
-Some refinery expansions and new capacity is planned, but little is expected to come on stream within the next five years. Three new refineries are in the pipeline in Uganda, Angola and Nigeria. The proposed facility in Uganda (the first refinery in the country) will be built by a Russian firm and the estimated construction cost, including storage terminals, a product pipeline and other related infrastructure is about $3 billion, a tidy sum for a small 60,000 b/d refinery. The construction on the new Sonaref
+Some refinery expansions and new capacity is planned, but little is expected to come on stream within the next five years. Three new refineries are in the pipeline in Uganda, Angola and Nigeria. The proposed facility in Uganda (the first refinery in the country) will be built by a Russian firm and the estimated construction cost, including storage terminals, a product pipeline and other related infrastructure is about $3 billion, a tidy sum for a small 60,000 b/d refinery. The construction on the new Sonaref refinery in Angola already started in 2012, but the 120,000 b/d facility is not expected to come online until at the earliest 2017-2018. The start date has already been pushed back several times. In Nigeria, Africa’s richest man, Aliko Dangote is behind the project to build a large new refinery near Lagos. This refinery has a planned capacity of 400,000 b/d and will be part of a complex that also includes a petrochemical and fertilizer plant.
 
 *Chart: Fig. 1: Clean Petroleum Product Fixtures into Sub-Saharan Africa*
 
@@ -33,8 +33,6 @@ Some refinery expansions and new capacity is planned, but little is expected to 
 *Chart: Fig. 2: African refinery output versus demand*
 
 *Source: IEA Medium Term Oil Market Report 2015*
-
-refinery in Angola already started in 2012, but the 120,000 b/d facility is not expected to come online until at the earliest 2017-2018. The start date has already been pushed back several times. In Nigeria, Africa’s richest man, Aliko Dangote is behind the project to build a large new refinery near Lagos. This refinery has a planned capacity of 400,000 b/d and will be part of a complex that also includes a petrochemical and fertilizer plant.
 
 Driven by Africa’s population growth, the IEA forecasts that product demand will increase by a 3.3% per annum from 2014 through 2020 and so will its import requirements. Total net product imports could rise to more than 2.0 million barrels per day before the end of the decade.
 

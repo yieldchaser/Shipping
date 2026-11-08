@@ -40,11 +40,9 @@ Despite the recent surge in the Pacific, oversupply issues in the Atlantic have 
 
 Panamax/Kamsarmax:
 
-The Atlantic market witnessed a downturn as coal shipments in the Pacific weakened, and South American grain saw seasonal declines. Despite steady ship demand in the USG, Cape rates are sharply declining, putting pressure on the Atlantic Panamax market. In the North Atlantic, there is a somewhat sluggish inflow of cargo, particularly on the T/A route. T/A levels fell to US$20,400's/day. It was also quiet in the Pacific with a lack of activity as most spot charterers concluded for the long holiday. Supramax/Ultramax: The decline continues, driven by oversupply in the Atlantic and sluggish coal demand in the Pacific. The previously supportive conditions in the USG and the Black Sea have shifted as a considerable amount of year-end cargo needs to be cleared, leading to a
+The Atlantic market witnessed a downturn as coal shipments in the Pacific weakened, and South American grain saw seasonal declines. Despite steady ship demand in the USG, Cape rates are sharply declining, putting pressure on the Atlantic Panamax market. In the North Atlantic, there is a somewhat sluggish inflow of cargo, particularly on the T/A route. T/A levels fell to US$20,400's/day. It was also quiet in the Pacific with a lack of activity as most spot charterers concluded for the long holiday. Supramax/Ultramax: The decline continues, driven by oversupply in the Atlantic and sluggish coal demand in the Pacific. The previously supportive conditions in the USG and the Black Sea have shifted as a considerable amount of year-end cargo needs to be cleared, leading to a slight supply advantage. In the Pacific, the weak demand for coal from major importing countries and a modest slowdown in the influx of PNW grains contribute to the ongoing downturn. Pacific r/v levels close lower than last with levels averaging in the region of US$ 9,600's a day. Overall, a quiet week with declines across all routes.
 
 ## Page 3
-
-slight supply advantage. In the Pacific, the weak demand for coal from major importing countries and a modest slowdown in the influx of PNW grains contribute to the ongoing downturn. Pacific r/v levels close lower than last with levels averaging in the region of US$ 9,600's a day. Overall, a quiet week with declines across all routes.
 
 Handysize:
 

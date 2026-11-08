@@ -34,17 +34,7 @@ Despite being a busy month in terms of volumes, November has been particularly d
 
 #### Capesize:
 
-When the Bank of China revealed liquidity initiatives, prospects for a recovery in steel
-
-demand surged and turned positive. Steel prices in China climbed as a result of rising
-
-demand. Rising steel prices also boost steel mills' steel production margins, which increases
-
-iron ore demand. However, market swings at the moment are based on market perception
-
-rather than real supply, and demand are projected to continue for the time being. At closing,
-
-most routes saw a slight decline apart from Brazil r/v, settling higher at US$10,075 a day.
+When the Bank of China revealed liquidity initiatives, prospects for a recovery in steel demand surged and turned positive. Steel prices in China climbed as a result of rising demand. Rising steel prices also boost steel mills' steel production margins, which increases iron ore demand. However, market swings at the moment are based on market perception rather than real supply, and demand are projected to continue for the time being. At closing, most routes saw a slight decline apart from Brazil r/v, settling higher at US$10,075 a day.
 
 Meanwhile, Pacific r/v slipped to US$ 10,850's region.
 
@@ -58,9 +48,7 @@ Supramax saw a minor rise as the Pacific compensated for the Atlantic's inactivi
 
 #### Handysize:
 
-This week's Pacific Handy markets were relatively calm, with prompt enquiries falling but cargo remaining ample. Inter-Pacific levels fell to the US$ 8,000's range, while Pacific r/v
-
-slipped to around US$8,845 a day. The Atlantic saw some activity, but rates remained depressed, closing T/A levels around the region of US$12,000 a day.
+This week's Pacific Handy markets were relatively calm, with prompt enquiries falling but cargo remaining ample. Inter-Pacific levels fell to the US$ 8,000's range, while Pacific r/v slipped to around US$8,845 a day. The Atlantic saw some activity, but rates remained depressed, closing T/A levels around the region of US$12,000 a day.
 
 ## Page 3
 
@@ -112,35 +100,17 @@ CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE %
 
 # Tankers
 
-The European Union has come to an agreement to cap the price of Russian seaborne oil after
+The European Union has come to an agreement to cap the price of Russian seaborne oil after many days of negotiations. The September deal sets the price of Russian oil transported by the sea at approximately US$60 per barrel. This is a substantial constraint on the country's revenues, and the specifics of how it will operate in practice have been discussed.
 
-many days of negotiations. The September deal sets the price of Russian oil transported by
+Russia has warned before that the introduction of the oil price cap could disrupt the energy markets, notwithstanding the current situation in Ukraine. The cap should be at least 5% below the average price, according to an E.U. regulation.
 
-the sea at approximately US$60 per barrel. This is a substantial constraint on the country's
-
-revenues, and the specifics of how it will operate in practice have been discussed.
-
-Russia has warned before that the introduction of the oil price cap could disrupt the energy
-
-markets, notwithstanding the current situation in Ukraine. The cap should be at least 5%
-
-below the average price, according to an E.U. regulation.
-
-After Polish ministers reached an agreement on the 5% adjustment method, an official
-
-statement is anticipated to be made on Sunday. If the oil price ceiling is to be effective,
-
-economists say the G-7 will need the support of other key purchasers to comply, such as
+After Polish ministers reached an agreement on the 5% adjustment method, an official statement is anticipated to be made on Sunday. If the oil price ceiling is to be effective, economists say the G-7 will need the support of other key purchasers to comply, such as
 
 India and China. The European energy commissioner, Kadri Simson, stated in September that
 
-India and China should support the oil price ceiling. She noted that disproportionate
+India and China should support the oil price ceiling. She noted that disproportionate payments to Russia were unjustifiable.
 
-payments to Russia were unjustifiable.
-
-Despite their agreement for the oil price cap, the G-7 nations have shown little enthusiasm for
-
-its implementation.
+Despite their agreement for the oil price cap, the G-7 nations have shown little enthusiasm for its implementation.
 
 #### VLCC:
 
@@ -152,11 +122,9 @@ Suezmax also saw rates fall slightly this week as the flat rate between West Afr
 
 #### Aframax:
 
-Reduced vessel availability in the Middle East bolsters MEG to SE Asia market conditions. Levels saw pressure in the region of WS311. However, there has been an increase in anticipatory demand following the E.U.'s restriction on crude from Russia and the adverse
+Reduced vessel availability in the Middle East bolsters MEG to SE Asia market conditions. Levels saw pressure in the region of WS311. However, there has been an increase in anticipatory demand following the E.U.'s restriction on crude from Russia and the adverse weather, we may see this improving in the coming weeks.
 
 ## Page 6
-
-weather, we may see this improving in the coming weeks.
 
 #### Clean:
 

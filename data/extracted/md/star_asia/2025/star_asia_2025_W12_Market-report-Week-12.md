@@ -294,7 +294,7 @@ Imported scrap markets across Sub-Continent remained largely subdued this week, 
 
 **Pakistan saw similarly muted activity as industrial operations slowed during Ramadan.**
 
-Mills operated at reduced capacity amid weak steel demand and ongoing liquidity
+Mills operated at reduced capacity amid weak steel demand and ongoing liquidity constraints. Shredded scrap from the UK and EU was offered at US$385-390/ton CFR Qasim, though most buyers capped bids at $385-388/t. UAE-origin shredded was quoted higher at US$390-395/ton CFR, but buyer interest was minimal. Market participants noted that currency volatility, rising freight costs, and falling domestic rebar prices were further dampening mill margins. While a recovery is expected after Eid, for now, the market remains under pressure. In Bangladesh, the market remained quiet, with interest in UK and European-origin material particularly low. Due to shorter lead times and more favourable pricing, buyers preferred sourcing from closer markets such as Australia, Hong Kong, and Singapore. Australian shredded was heard at US$380-385/ton CFR Chattogram, while HMS 90:10 was offered around US$365-367/ton CFR. Like its neighbours, Bangladesh anticipates a pickup in demand after Ramadan, with improved activity projected for April and May.
 
 | BUNKER PRICES (USD/ton) PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
 | --- | --- | --- | --- |
@@ -312,10 +312,7 @@ Mills operated at reduced capacity amid weak steel demand and ongoing liquidity
 | USD / PKR (PAKISTAN) |  | 280.18 | 279.92 | -0.09% |
 | USD / TRY (TURKEY) |  | 37.80 | 36.52 | -3.50% |
 
-
 ## Page 17
-
-constraints. Shredded scrap from the UK and EU was offered at US$385-390/ton CFR Qasim, though most buyers capped bids at $385-388/t. UAE-origin shredded was quoted higher at US$390-395/ton CFR, but buyer interest was minimal. Market participants noted that currency volatility, rising freight costs, and falling domestic rebar prices were further dampening mill margins. While a recovery is expected after Eid, for now, the market remains under pressure. In Bangladesh, the market remained quiet, with interest in UK and European-origin material particularly low. Due to shorter lead times and more favourable pricing, buyers preferred sourcing from closer markets such as Australia, Hong Kong, and Singapore. Australian shredded was heard at US$380-385/ton CFR Chattogram, while HMS 90:10 was offered around US$365-367/ton CFR. Like its neighbours, Bangladesh anticipates a pickup in demand after Ramadan, with improved activity projected for April and May.
 
 **Turkey's imported scrap market maintained stability despite headwinds from currency**
 

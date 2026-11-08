@@ -77,11 +77,7 @@ Otherwise, AIS data shows a further uptick in vessels heading to or in the South
 
 To the positive readings from the Manufacturing PMIs, we can now add the recently released supply chain index from S&P global:
 
-"Globally, reports of backlogs increasing because of staff shortages at suppliers of critical goods and inputs hit
-
-their highest in almost a year-and-a-half in May, suggesting capacity expansion is required to meet existing and
-
-future orders. Overall, this paints an optimistic picture for the outlook in H2 2024 for global supply chains."
+"Globally, reports of backlogs increasing because of staff shortages at suppliers of critical goods and inputs hit their highest in almost a year-and-a-half in May, suggesting capacity expansion is required to meet existing and future orders. Overall, this paints an optimistic picture for the outlook in H2 2024 for global supply chains."
 
 The above, coupled with surging container market rates, could mean there will be some spillover from the container segment to the Handy/Supra segments.
 

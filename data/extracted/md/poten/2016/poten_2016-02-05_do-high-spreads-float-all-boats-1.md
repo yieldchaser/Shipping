@@ -22,7 +22,7 @@ To make money using time spreads, traders buy physical crude oil, and sell crude
 
 The lifting of the U.S. crude export ban has created potential opportunities for floating storage of U.S. produced oil. When oil could not be exported, a trader had very little flexibility on where the crude could be discharged and to have some flexibility it had to be stored on Jones Act tonnage, which was expensive (if it was available at all). Now that the ban has been lifted, international flag tankers can be used and once the oil is on the water, a trader can ship it to any refinery in the world, except U.S. refineries.
 
-According to EIA data, during last week commercial crude oil inventories in PADD 3 reached 253 million barrels, a record level. Total commercial storage capacity in the region is 302 million barrels (excluding pipeline and field storage). However, this is a theoretical storage capacity as not every tank can be 100% full before operational inefficiencies start to come into play. International Energy Agency data shows that crude inventories in Europe and OECD Asia are also at very high levels compared to recent history. There are no reliable
+According to EIA data, during last week commercial crude oil inventories in PADD 3 reached 253 million barrels, a record level. Total commercial storage capacity in the region is 302 million barrels (excluding pipeline and field storage). However, this is a theoretical storage capacity as not every tank can be 100% full before operational inefficiencies start to come into play. International Energy Agency data shows that crude inventories in Europe and OECD Asia are also at very high levels compared to recent history. There are no reliable capacity statistics available for these countries so it is difficult to assess how much spare land based storage capacity is still available.
 
 *Chart: Fig. 1: 6 Months Brent Spread vs TC Rate + Interest*
 
@@ -31,8 +31,6 @@ According to EIA data, during last week commercial crude oil inventories in PADD
 *Chart: Fig 2: Estimated Floating Storage Volumes*
 
 *Source: Bloomberg*
-
-capacity statistics available for these countries so it is difficult to assess how much spare land based storage capacity is still available.
 
 Bloomberg tracks tanker tonnage, using AIS data, that is used for storage and estimates the volume on-board based on the draught of the vessel (See Figure 2). This data seems to include short term storage but generally tracks Poten’s observations. The graph shows that storage volumes have declined gradually in recent months. These figures include Iranian vessels that are used for storage and that start to be released slowly. According to Poten’s analysis, 17 Iranian VLCCs are currently used for storage of crude and condensates. As the graph shows, the majority of the floating storage is currently located in South East Asia, mainly around Singapore and in the Middle East, which includes the Iranian storage.
 

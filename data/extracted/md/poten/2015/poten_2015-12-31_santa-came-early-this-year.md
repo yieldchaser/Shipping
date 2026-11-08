@@ -22,7 +22,7 @@ As most readers know, the freight cost (or revenue, dependent on your point of v
 
 Bunker prices are mainly driven by crude oil prices (see Figure 1), but fuel oil supply and demand dynamics will also affect the spreads to some degree. The general market sentiment at this moment seems to be that oil prices stay under pressure for at least the first half of 2016 when additional Iranian barrels are forecast to enter the market. Expectations are that starting in the second half of the year, the oil supply / demand balance will gradually be restored as demand increases due to improving economic performance and continued low prices and as steep cuts in capital investments by oil producers affect oil production growth.
 
-As Figure 2 illustrates, owners have largely been in a position
+As Figure 2 illustrates, owners have largely been in a position to hold on to the benefits of lower bunker prices and in many cases they even managed to increase total freight rates. In 2015, tankers had on average the highest Time Charter Equivalent (TCE) earnings since the peak year of 2008. According to the IEA, global oil demand increased by about 1.8 million barrel per day (Mb/d) in 2015 compared to 0.9 Mb/d in 2014 and 1.2 Mb/d in 2013; resulting in strong tanker demand growth. Fleet growth was limited in 2015 as owners held off in ordering new tonnage during the prior years when freight rates were significantly below breakeven levels and the financial markets limited the availability of debt capital for shipping investments.
 
 *Chart: Fig. 1: Brent Crude Price vs Rotterdam 380 Cst Bunker Price*
 
@@ -31,8 +31,6 @@ As Figure 2 illustrates, owners have largely been in a position
 *Chart*
 
 *Source: Poten & Partners*
-
-to hold on to the benefits of lower bunker prices and in many cases they even managed to increase total freight rates. In 2015, tankers had on average the highest Time Charter Equivalent (TCE) earnings since the peak year of 2008. According to the IEA, global oil demand increased by about 1.8 million barrel per day (Mb/d) in 2015 compared to 0.9 Mb/d in 2014 and 1.2 Mb/d in 2013; resulting in strong tanker demand growth. Fleet growth was limited in 2015 as owners held off in ordering new tonnage during the prior years when freight rates were significantly below breakeven levels and the financial markets limited the availability of debt capital for shipping investments.
 
 The current futures forward curve for HFO in Rotterdam reaches $200/ton only by the 1st quarter of 2017. If these prices actually materialize, this should help the tanker market in 2016 as well. However, the dynamics of bunker prices will change in the coming years as exhaust gas emission standards are tightened in 2020 or in 2025, depending on a fuel availability study to be performed by the IMO. Europe has already indicated that they will adapt the standards by 2020, regardless of the outcome of the study. This will require ships to install exhaust gas scrubbers or to burn more expensive Marine Diesel Oil (MDO). Currently, MDO is selling for about $320/MT, but the spread could widen significantly once a large percentage of the fleet is required to use MDO.
 

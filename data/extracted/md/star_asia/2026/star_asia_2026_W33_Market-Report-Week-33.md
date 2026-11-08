@@ -26,7 +26,6 @@ The cascading effects of ongoing Middle Eastern maritime disruptions are generat
 
 ## Page 2
 
-
 **DRY BULK | BDI: 2,863▼7.32% (w-o-w)**
 
 Severe logistics and inland transport disruptions across European supply chains took centre stage as water levels at Kaub on the Rhine River plunged to record historical lows, severely restricting barge capacities and forcing major industrial players to divert cargo to rail and road. Against this backdrop, the main Baltic Dry Index pulled back after its recent weather-driven surge, dropping about 200 points w-o-w to close at 2,863 points. This broader market retreat was largely led by the Capesize segment, where BCI slipped to 4,538 points, reflecting a 11.5% weekly decline compared to last week's peak. In contrast, BPI posted a 3% drop over the week to reach 2,228 points-despite ending its ten-day winning streak on Wednesday. Meanwhile, BSI showed modest regional resilience by edging up to 1,622 points.
@@ -42,7 +41,6 @@ Severe logistics and inland transport disruptions across European supply chains 
 **Handysize:** Handysize market conditions remained quiet and cautious this week, with growing vessel availability weighing on Europe and the US Gulf despite early signs of stabilisation in the South Atlantic. Although Asian cargo demand held steady, overall volume was insufficient to tighten prompt vessel supply, keeping market sentiment soft yet broadly balanced across both basins. This stable-to-soft tone left Transatlantic ($T/A$) rates unchanged at $15,550 per day, while Inter-Pacific runs edged up slightly to $15,252 per day and CIS round voyages ($CIS\\ R/V$) slipped to $13,902 per day.
 
 ## Page 3
-
 
 ### Baltic Dry Index (BDI)
 
@@ -89,7 +87,6 @@ Severe logistics and inland transport disruptions across European supply chains 
 
 ## Page 5
 
-
 **TANKERS | BDTI: 2,742 ▲+4.22% (w-o-w)**
 
 Saudi Arabia is actively re-establishing loading operations at its Persian Gulf export terminals while balancing ongoing security threats across both primary regional maritime corridors. Satellite imagery recently captured a VLCC at the Ju'aymah moorings within the Ras Tanura complex, the first recorded supertanker at the facility in nearly a month alongside a Suezmax vessel at the nearby sea island terminal. This activity coincides with Saudi Arabia reporting a July production increase of over 1 million BPD to OPEC, though total output remains significantly below pre-war baselines. However, tracking flows have grown exceptionally complex as most ships operate with transponders deactivated. Concurrently, export activity at the Red Sea port of Yanbu has slowed following Houthi threats, forcing a shift in logistics where northbound shipments through the Suez Canal and the SUMED pipeline to Sidi Kerir reached 2.2 million BPD last week, effectively replacing the more dangerous southern route through the Bab el-Mandeb Strait. With security concerns intensifying, total commercial transits through the Strait of Hormuz have plunged to just 5 to 10 vessels daily far below the pre-war norm of roughly 140 ships-confirming Tehran's de facto operational influence over the chokepoints. In response to these persistent vulnerabilities, Western and regional planners are advancing strategic infrastructure alternatives designed to bypass both the Strait of Hormuz and the Bab el-Mandeb Strait. The newly announced US$5 billion MERA Oil consortium is finalising a site for a 200,000 BPD refinery and deepwater export hub outside the Persian Gulf on the Gulf of Oman or Arabian Sea, targeted for completion by late 2029. This project aligns with a broader wartime redesign of the India-Middle East-Europe Economic Corridor (IMEC) anchored in Oman, as well as proposals for cross-peninsula land routes toward the Mediterranean.
@@ -107,7 +104,6 @@ Saudi Arabia is actively re-establishing loading operations at its Persian Gulf 
 **MR:** Far East market closed slightly lower as sluggish East Asian cargo demand saw local tonnage to build up. Rates remain soft pressure whilst regional cargo activity. In the MEG, TC17 saw rates slipped to WS485 this week.
 
 ## Page 6
-
 
 ### Baltic Tanker Indices
 
@@ -181,7 +177,6 @@ Container market returned to an upward trajectory this week as the SCFI index ro
 
 ## Page 10
 
-
 ### Ship Recycling - Current Market Snapshot (USD / LDT)
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
@@ -215,7 +210,6 @@ All prices are USD per light displacement tonnage (long ton), net prices offered
 
 ## Page 12
 
-
 ## Market Insights
 
 **Alang, India:** Alang maintained a steady course, though local yards continue to find themselves at a visible competitive disadvantage against regional rivals. A downward slide in domestic steel prices over the past week has restricted what local operators can offer. Both Pakistan and Bangladesh are offering higher prices for normal commercial tonnage. As a result, standard dry bulk and container remain difficult for Indian cash buyers to secure. Nevertheless, Alang continues to carve out a resilient niche by capturing specialised and sanctioned assets; recent market sales of a passenger vessel and a refrigerated cargo ship concluded at strong levels, showing healthy domestic appetite for high value non-ferrous material, continues to keep local cutting activity ticking over.
@@ -236,7 +230,6 @@ Ship recyclers are watching the domestic trade closely, as the mild easing in lo
 Official data released this week showed that Bangladesh's gross foreign exchange reserves climbed past US$37.1 billion-reaching US$32.3 billion under the IMF's BPM6 standard-marking an important multi-year recovery that provides comfortable import coverage. Alongside this strengthening foreign currency cushion, national annual inflation cooled significantly to an eight-month low of 8.32% in July, down from 9.16% in June, driven by easing food and transport costs.
 
 ## Page 13
-
 
 ## Chattogram Anchorage & Beaching Position - August 2026
 
@@ -262,12 +255,9 @@ This coincides with a welcome easing in national economic pressures. Official da
 
 **Aliaga, Turkey:** Aliaga hovered at subdued levels, with general trading sentiment remaining unchanged. Local buying inquiries stayed flat, as Buyers continued to take a cautious approach toward securing fresh tonnage in the absence of upward price momentum.
 
-Central Bank of the Republic of Türkiye raised its year-end 2026 inflation forecast to 28% during its latest quarterly report, citing volatile energy and commodity import costs. With the central bank maintaining a
+Central Bank of the Republic of Türkiye raised its year-end 2026 inflation forecast to 28% during its latest quarterly report, citing volatile energy and commodity import costs. With the central bank maintaining a strict monetary stance and keeping its benchmark policy rate at 37%, high domestic borrowing costs and ongoing lira depreciation continue to constrain local purchasing power for dollar-denominated hulls.
 
 ## Page 14
-
-
-strict monetary stance and keeping its benchmark policy rate at 37%, high domestic borrowing costs and ongoing lira depreciation continue to constrain local purchasing power for dollar-denominated hulls.
 
 TIDE DATES 2026 | Chattogram: 12 ~ 15 August | 28 ~ 31 August
 
@@ -289,12 +279,9 @@ Alang: 09 ~ 18 August | 26 August ~ 6 September
 
 Iron ore futures experienced a slight rebound toward CNY 715 per ton, recovering from 15-month lows as labour union negotiations at BHP's Western Australia operations stalled, leading to a scheduled two-day strike at Port Hedland that threatens to delay up to 16 shipments and interrupt a facility that exports approximately US$80 million worth of ore daily. However, this upward movement remains capped by weak consumption fundamentals in China, where steel mill margins continue to deteriorate, and hot metal output has declined for several consecutive weeks.
 
-In contrast, copper futures held firm above US$6.6 per pound to stay near historical peaks, propelled by tightening global stocks and structural supply threats in Chile, where Codelco faces a potential two-year development freeze at its flagship El Teniente mine due to underground geotechnical hurdles. The red metal also drew strength from an unprecedented surge in American demand ahead of prospective trade policy shifts, with July import arrivals at U.S. ports surpassing 200,000 tons to record the highest monthly
+In contrast, copper futures held firm above US$6.6 per pound to stay near historical peaks, propelled by tightening global stocks and structural supply threats in Chile, where Codelco faces a potential two-year development freeze at its flagship El Teniente mine due to underground geotechnical hurdles. The red metal also drew strength from an unprecedented surge in American demand ahead of prospective trade policy shifts, with July import arrivals at U.S. ports surpassing 200,000 tons to record the highest monthly volume in over a decade.
 
 ## Page 15
-
-
-volume in over a decade.
 
 Meanwhile, thermal coal futures retreated toward US$130 per ton as a 7.51% y-o-y expansion in India's July output reached 69.75 million tons, boosting domestic reserves and dampening seaborne import needs. This energy price correction was further supported by a drop in global crude benchmarks amidst reports of an impending diplomatic deal between Washington and Tehran to reopen the Strait of Hormuz, easing fuel-switching incentives across Europe and Asia even as rising summer temperatures in China spurred a localised increase in cooling electricity demand.
 
@@ -328,7 +315,6 @@ Meanwhile, thermal coal futures retreated toward US$130 per ton as a 7.51% y-o-y
 
 ## Page 16
 
-
 ### Exchange Rates
 
 | CURRENCY PAIR | AUGUST 14 | AUGUST 7 | WoW % |
@@ -348,4 +334,3 @@ Meanwhile, thermal coal futures retreated toward US$130 per ton as a 7.51% y-o-y
 | FUJAIRAH | $774 | $584 | $1280 |
 | ROTTERDAM | $639 | $495 | $1155 |
 | HOUSTON | $682 | $450 | $1153 |
-

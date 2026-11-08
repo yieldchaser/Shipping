@@ -22,7 +22,7 @@ First and foremost, how much production will OPEC actually cut? In August, OPEC 
 
 Does this mean that the other OPEC members will only need to cut some 250,000 b/d to meet the target? Not necessarily. Nigeria and Libya appear to be exempt from the production cuts and there is also a special arrangement for Iran. Iran may be permitted to increase production by 100,000 b/d. At the same time, Libya has already lifted production this month by 200,000 b/d and Nigeria is also boosting its production. The Nigerian National Petroleum Corporation announced today that Nigerian crude oil production increased from 2.4 mb/d to 2.7 mb/d. Combined, these increases more than compensate for the seasonal decline in Saudi production, so it appears OPEC (i.e. Saudi Arabia) will need to find another 750,000 b/d of cuts if it is to meet its target. This may prove to be challenging and we will have to wait until the next OPEC meeting in November to see how the members intend to implement the agreement.
 
-Some pundits think this agreement is a breakthrough that will bring discipline back to the members of the cartel and make OPEC relevant again, but most analysts see this agreement largely as a face-saving measure that will kick the can down
+Some pundits think this agreement is a breakthrough that will bring discipline back to the members of the cartel and make OPEC relevant again, but most analysts see this agreement largely as a face-saving measure that will kick the can down the road and hopefully lift prices enough to provide some respite until winter demand kicks in.
 
 *Chart: Fig. 1: OPEC Crude Oil Production*
 
@@ -31,8 +31,6 @@ Some pundits think this agreement is a breakthrough that will bring discipline b
 *Chart: Fig. 2: OPEC Countries with Growth Potential (exempt from production cuts)*
 
 *Source: Bloomberg*
-
-the road and hopefully lift prices enough to provide some respite until winter demand kicks in.
 
 The direct impact of the OPEC announcement on the tanker market will depend on a number of factors, such as the level of compliance with the actual cuts, the impact of higher prices on global oil demand and the reaction of non-OPEC producers, in particular the shale in the United States.
 

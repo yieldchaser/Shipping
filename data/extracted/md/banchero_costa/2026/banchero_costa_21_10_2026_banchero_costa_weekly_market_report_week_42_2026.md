@@ -86,9 +86,7 @@ Chinese state buyers purchased 8-10 Panamax cargoes of US soybeans this week, th
 
 # Brazil soy output to hit record in 2026/27 despite slower area growth, Conab says
 
-Brazil's 2026/27 soybean output is expected to reach a record 181.6 million metric tons, crop agency Conab said on Thursday, up 0.7% from the previous season, driven by a 1.4% increase in planted area to 49.3 million hectares (121.8 million acres). With planting underway in
-
-the world's largest soybean producer and exporter, Conab said the area expansion would be the smallest in 20 years as farmers face lower margins and uncertainty related to the El Niño weather pattern.
+Brazil's 2026/27 soybean output is expected to reach a record 181.6 million metric tons, crop agency Conab said on Thursday, up 0.7% from the previous season, driven by a 1.4% increase in planted area to 49.3 million hectares (121.8 million acres). With planting underway in the world's largest soybean producer and exporter, Conab said the area expansion would be the smallest in 20 years as farmers face lower margins and uncertainty related to the El Niño weather pattern.
 
 # India customs scrutiny diverts Niger soybeans to Asia at steep discounts, sources say
 
@@ -100,9 +98,7 @@ Ukrainian President Volodymyr Zelenskiy has asked neighbours Poland, Romania, Sl
 
 # Argentina grain sales hit record 105 million tons so far in 2025/26
 
-Argentine farmers have sold more than 105 million metric tons of grain so far in the 2025/26 season, a
-
-record for this point in the cycle, the Rosario grains exchange said on Friday. The exchange said the volume, which includes soybeans, corn, wheat, sorghum and sunflower, was 25% above the average of the last five years and nearly 6 million tons above the previous high.
+Argentine farmers have sold more than 105 million metric tons of grain so far in the 2025/26 season, a record for this point in the cycle, the Rosario grains exchange said on Friday. The exchange said the volume, which includes soybeans, corn, wheat, sorghum and sunflower, was 25% above the average of the last five years and nearly 6 million tons above the previous high.
 
 # China's corn harvest set to grow; US corn 'not an option yet,' COFCO Futures research director says
 
@@ -172,9 +168,7 @@ Taiwan said it was making progress in talks to buy LNG from Alaska and would inv
 
 # Woodside natural gas project unit paused after Greenpeace protest off Western Australia
 
-Woodside said operations remained paused on Sunday at a floating production unit, part of its $12.5 billion Scarborough natural gas project off the coast of Western Australia, due to a Greenpeace protest at the platform. Two activists from the environmental advocacy group slept overnight on the semi-submersible unit, located around 375 km (233 miles) off the state's
-
-northwest coast, in the protest that started on Saturday, Greenpeace said.
+Woodside said operations remained paused on Sunday at a floating production unit, part of its $12.5 billion Scarborough natural gas project off the coast of Western Australia, due to a Greenpeace protest at the platform. Two activists from the environmental advocacy group slept overnight on the semi-submersible unit, located around 375 km (233 miles) off the state's northwest coast, in the protest that started on Saturday, Greenpeace said.
 
 # Venture Global inks deals with GE Vernova, Baker Hughes for power expansion
 
@@ -262,9 +256,7 @@ The Atlantic market continued to strengthen, with ECSA tonnage commanding increa
 
 Fronthaul grain demand remained supportive, whilst fresh transatlantic business and firm coal rates helped reinforce the positive sentiment across the basin.
 
-In ECSA, an 82,000 dwt newbuilding fixed for Skaw-Gibraltar redelivery at USD 39,000/day, setting a new high
-
-among the reported fixtures and highlighting strong demand for modern tonnage.
+In ECSA, an 82,000 dwt newbuilding fixed for Skaw-Gibraltar redelivery at USD 39,000/day, setting a new high among the reported fixtures and highlighting strong demand for modern tonnage.
 
 Fronthaul activity also remained healthy, with an 82,000 dwt 2016-built fixing for Singapore-Japan grains at USD 22,000/day plus USD 1.25m ballast bonus.
 
@@ -284,9 +276,7 @@ Australian fixtures were mostly concluded in the mid-USD 20,000s, and Indonesia/
 
 Indonesian business strengthened, particularly on longer-haul routes to South Korea, with rates reaching USD 23,500: an 82,177 dwt 2011-built fixed USD 23,500 for Indo/South Korea, whilst an 82,029 dwt 2025-built achieved USD 20,750 for Indo/South China.
 
-Further Pacific round-voyage
-
-business included a 74,492 dwt 2001-built at USD 16,000 and an 82,203 dwt 2026-built at USD 22,000, both for Indo/South China, whilst a 75,740 dwt 2006-built fixed USD 16,500 for Indo/China with metcoke.
+Further Pacific round-voyage business included a 74,492 dwt 2001-built at USD 16,000 and an 82,203 dwt 2026-built at USD 22,000, both for Indo/South China, whilst a 75,740 dwt 2006-built fixed USD 16,500 for Indo/China with metcoke.
 
 NOPAC activity was relatively limited compared with Australia and Indonesia, with one confirmed fixture reported: an 81,852 dwt 2012-built fixed USD 19,250 for a NoPac/Singapore-Japan round.
 
@@ -325,9 +315,7 @@ N/A
 
 # EAST COAST SOUTH AMERICA
 
-The ECSA market continues to stagnate on Supras and Ultras, whilst growth in the Handy segment continues at a rapid pace. Rates, however, remain fairly high despite the abundance of cargo. On transatlantic runs levels remain
-
-supported: a 39,000 dwt unit fixed APS Santos to the Continent at USD 32,000/day, whilst a 36,000 dwt unit is fixed APS Santos to Morocco at USD 29,500/day.
+The ECSA market continues to stagnate on Supras and Ultras, whilst growth in the Handy segment continues at a rapid pace. Rates, however, remain fairly high despite the abundance of cargo. On transatlantic runs levels remain supported: a 39,000 dwt unit fixed APS Santos to the Continent at USD 32,000/day, whilst a 36,000 dwt unit is fixed APS Santos to Morocco at USD 29,500/day.
 
 Heading north to Norway, a 34,000 dwt unit open Venezuela secured
 
@@ -336,27 +324,17 @@ In the period market, a large Handysize open South Brazil took a four/six-month 
 
 # NORTH EUROPE / CONTINENT
 
-The Continent showed a slightly mixed tone this week: the Supramax/Ultramax sector seems to have peaked after the recent scrap boom, though overall levels remain strong, if slightly eased, whilst Handysize tonnage stayed solid and stable on a healthy cargo list. On Handysize, sentiment remained
+The Continent showed a slightly mixed tone this week: the Supramax/Ultramax sector seems to have peaked after the recent scrap boom, though overall levels remain strong, if slightly eased, whilst Handysize tonnage stayed solid and stable on a healthy cargo list. On Handysize, sentiment remained firm across regional and long-haul runs, outbound business staying well supported, a 38k open Morocco fixing a long trip to Bangladesh in the very high teens; local and transatlantic flows also kept their steady footing without much pressure.
 
-firm across regional and long-haul
-
-runs, outbound business staying well supported, a 38k open Morocco fixing a long trip to Bangladesh in the very high teens; local and transatlantic flows also kept their steady footing without much pressure.
-
-On Supras/Ultras, although the aggressive scrap rally calmed slightly, high numbers were still achieved: a
-
-modern 63k (2024) open Immingham was reported clean fixed for scrap at a TCE equivalent of USD 40,000/day and a 57k Supramax fetched USD 30,600/day APS Rotterdam for scrap to East Med, whilst transatlantic an Ultramax open Spain/USEC got around USD 20,000/day and a run ex Germany via the Russian Baltic to USEC commanded a solid premium at around USD 26,000/day.
+On Supras/Ultras, although the aggressive scrap rally calmed slightly, high numbers were still achieved: a modern 63k (2024) open Immingham was reported clean fixed for scrap at a TCE equivalent of USD 40,000/day and a 57k Supramax fetched USD 30,600/day APS Rotterdam for scrap to East Med, whilst transatlantic an Ultramax open Spain/USEC got around USD 20,000/day and a run ex Germany via the Russian Baltic to USEC commanded a solid premium at around USD 26,000/day.
 
 # BLACK SEA / MEDITERRANEAN
 
-Ongoing attacks in the Black Sea region continue to keep many Owners away from the area, so many charterers have for some time been sourcing cargoes from the Baltic, the Continent or other regions. Freight rates remain high, driven by the steep demands Owners make for
-
-loading in the area.
+Ongoing attacks in the Black Sea region continue to keep many Owners away from the area, so many charterers have for some time been sourcing cargoes from the Baltic, the Continent or other regions. Freight rates remain high, driven by the steep demands Owners make for loading in the area.
 
 For Handysizes 35,000 dwt or more, intra-Med remains around USD 15,500/16,000 per day.
 
-Transatlantic trips stayed generally stable: Rio de Janeiro-Recalada remained USD 11,000 and Boston-Galveston USD 14,500/15,000,
-
-slightly increasing, whilst the Supramax transatlantic improved to USD 16,500/16,750 per day. Trips East began climbing again, at USD 25,000 on Supramaxes and around USD 26,000 daily for Ultramaxes.
+Transatlantic trips stayed generally stable: Rio de Janeiro-Recalada remained USD 11,000 and Boston-Galveston USD 14,500/15,000, slightly increasing, whilst the Supramax transatlantic improved to USD 16,500/16,750 per day. Trips East began climbing again, at USD 25,000 on Supramaxes and around USD 26,000 daily for Ultramaxes.
 
 ©DC
 
@@ -374,9 +352,7 @@ The east coast of India held up early, helped by a handful of iron ore stems tow
 
 # FAR EAST
 
-On Supramaxes/Ultramaxes earnings continued, led by Asia providing the support, with NoPac and backhaul still the more active areas: Zinovia (2026, 63,587) fixed dely Mizushima 22/27 October NoPac/Salalah at USD 27,000 with Pacific Basin, African Cardinal (2019, 61,226) dely Tianjin 15 October NoPac/Chittagong at USD 25,000 with Teambulk, a TBN fixed 65,000/10 coal Tanjung
-
-pressing for lower numbers on November business.
+On Supramaxes/Ultramaxes earnings continued, led by Asia providing the support, with NoPac and backhaul still the more active areas: Zinovia (2026, 63,587) fixed dely Mizushima 22/27 October NoPac/Salalah at USD 27,000 with Pacific Basin, African Cardinal (2019, 61,226) dely Tianjin 15 October NoPac/Chittagong at USD 25,000 with Teambulk, a TBN fixed 65,000/10 coal Tanjung pressing for lower numbers on November business.
 
 Out of the Persian Gulf, the limestone trade was effectively flat.
 
@@ -498,7 +474,7 @@ Flexies ex Med: Although rates are still shadowing the firm Handy market, availa
 
 Mediterranean either ex drydock or discharging ex Continent. At least a couple of vessels were also seen ballasting towards the US Gulf, leaving charterers with a list that was difficult to work. The outlook for the coming week looks slightly better, with a couple of naphtha-clean units expected to open in the Mediterranean, good candidates for Central Med/Italy loadings.
 
-Intermediates / Small: The week started slowly in the Mediterranean but activity picked up from midweek, leaving Western Mediterranean tonnage tight, whilst the Eastern Mediterranean and the Sea of Marmara remained better supplied. The Continent continues to be stronger, whilst demand is increasing for units willing to load
+Intermediates / Small: The week started slowly in the Mediterranean but activity picked up from midweek, leaving Western Mediterranean tonnage tight, whilst the Eastern Mediterranean and the Sea of Marmara remained better supplied. The Continent continues to be stronger, whilst demand is increasing for units willing to load into the Black Sea, considered by only a few Owners on a case-by-case basis.
 
 | CLEAN | Unit | 16-Oct | 9-Oct | W-o-W | Y-o-Y |
 | --- | --- | --- | --- | --- | --- |
@@ -526,8 +502,6 @@ Intermediates / Small: The week started slowly in the Mediterranean but activity
 | DIRTY | Unit | 16-Oct | 9-Oct | W-o-W | Y-o-Y |
 | TD32 UKC-UKC (30k) | ws | 361.3 | 345.0 | +4.7% | n/a |
 | Med-Med (30k) | ws | 460.0 | 360.0 | +27.8% | +119.0% |
-
-into the Black Sea, considered by only a few Owners on a case-by-case basis.
 
 # DIRTY
 
@@ -640,9 +614,7 @@ The owner had previously placed two further vessels of this type at the same yar
 
 Tanker ordering was particularly notable this week.
 
-Liquimar Tankers reportedly contracted 3x 157,000 dwt crude oil
-
-tankers at Jiangsu New Hantong, with deliveries scheduled between June 2029 and June 2030.
+Liquimar Tankers reportedly contracted 3x 157,000 dwt crude oil tankers at Jiangsu New Hantong, with deliveries scheduled between June 2029 and June 2030.
 
 Top Ships reportedly contracted 4x 50,000 dwt tankers at Guangzhou Shipyard International, with deliveries scheduled for June 2029.
 
@@ -751,9 +723,7 @@ While the ongoing conflict in the Middle East shows little sign of any resolutio
 
 Despite a correction in dry freight, overall rates across all sectors continue to starve the market of any real activity.
 
-Bangladesh continues to hold on to
-
-the top spot in terms of pricing as local competition between Buyers heats up having lost tonnage to neighboring Pakistan over the summer months.
+Bangladesh continues to hold on to the top spot in terms of pricing as local competition between Buyers heats up having lost tonnage to neighboring Pakistan over the summer months.
 
 While the Indian market remains behind on pricing for conventional units local buyers continue to absorb specialist vessels including those with a more 'exotic' trading history.
 

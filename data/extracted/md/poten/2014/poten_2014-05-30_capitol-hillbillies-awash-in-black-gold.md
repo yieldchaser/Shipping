@@ -20,7 +20,7 @@ As US domestic crude oil production continues to grow, so does the speculation o
 
 To the industry, what the export debate has really prompted is a divide between producers and refiners, each vying to benefit from the impediment to free trade. While the past decade has seen some reverse mergers of integrated oil companies, the topic of crude oil exports is particularly precarious for those companies involved in both activities. Today, domestic refiners are more or less reaping the benefits of access to cheaper, locally-sourced crude oil, but this could have a structural limit over time.
 
-The EIA forecasts oil production to grow by 11% over the next year. However, this aggressive growth rate could be hampered by increased weight on domestic oil prices. Domestic producers
+The EIA forecasts oil production to grow by 11% over the next year. However, this aggressive growth rate could be hampered by increased weight on domestic oil prices. Domestic producers have limited outlets to which they can market crude oil with healthy competition from suppliers abroad. The US Gulf has a little over 9 million barrels per day of refining capacity, according to the EIA, not all of which can effectively drink the domestic Kool-Aid.
 
 *Chart: Fig. 2 US Gasoline Margins*
 
@@ -29,8 +29,6 @@ The EIA forecasts oil production to grow by 11% over the next year. However, thi
 *Chart: Fig. 1 US Domestic Oil Production, by Source*
 
 *Source: EIA/Poten*
-
-have limited outlets to which they can market crude oil with healthy competition from suppliers abroad. The US Gulf has a little over 9 million barrels per day of refining capacity, according to the EIA, not all of which can effectively drink the domestic Kool-Aid.
 
 In addition, shale oil is more costly to produce than conventional crude oil, suggesting increased price elasticity from the producer side. As such, marginal domestic crude oil prices are ultimately dictated by what refiners are able to yield on the barrels that they process; oversupply of a particular grade has inherent risks.
 

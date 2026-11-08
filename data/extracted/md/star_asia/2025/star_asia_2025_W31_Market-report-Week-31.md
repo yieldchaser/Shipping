@@ -34,11 +34,9 @@ In the Pacific, an influx of new iron ore cargoes from Australia has injected si
 
 Panamax/Kamsarmax:
 
-Sentiment in the Panamax sector remains soft across both basins. In the Atlantic, a recent rise in the FFA prompted some charterers to secure tonnage, leading to a brief spell of fixing. Despite this, a persistent lack of fresh cargo enquiry is weighing on the market, causing rates for T/A routes to continue their decline. T/A ended the week at US$15,900's. The situation is similar in the Pacific, where an oversupply of available vessels remains the dominant theme. The fundamental imbalance continues to push the market lower. Supramax/Ultramax: The Atlantic is showing pockets of strength, particularly in the USG, where a consistent flow of cargo against a stable supply of ships has fostered a positive market environment. The Pacific market is also fragmented; while active trading on Indonesian coal and B/H routes has provided some momentum, a limited flow of fresh cargoes from NOPAC gives rise to an uncertain picture for the region overall. Pacific r/v ended the week
+Sentiment in the Panamax sector remains soft across both basins. In the Atlantic, a recent rise in the FFA prompted some charterers to secure tonnage, leading to a brief spell of fixing. Despite this, a persistent lack of fresh cargo enquiry is weighing on the market, causing rates for T/A routes to continue their decline. T/A ended the week at US$15,900's. The situation is similar in the Pacific, where an oversupply of available vessels remains the dominant theme. The fundamental imbalance continues to push the market lower. Supramax/Ultramax: The Atlantic is showing pockets of strength, particularly in the USG, where a consistent flow of cargo against a stable supply of ships has fostered a positive market environment. The Pacific market is also fragmented; while active trading on Indonesian coal and B/H routes has provided some momentum, a limited flow of fresh cargoes from NOPAC gives rise to an uncertain picture for the region overall. Pacific r/v ended the week at US$12,750's.
 
 ## Page 3
-
-at US$12,750's.
 
 Handysize:
 
@@ -234,11 +232,9 @@ A quiet week with no activity reported as buyers remain on the sidelines. Rather
 
 Gadani
 
-Pakistan saw a positive week, with the recent purchase of several bulk carriers. While pricing from recyclers has remained steady, the outlook is supported by emerging signs of potential firming in some segments of the domestic steel market. This encouraging environment is complemented by the positive developments within the industry. The recent provisional authorisation (DASR) of four additional recycling facilities brings the total number of newly certified yards to six. Three yards have already secured vessels, with three more still in the process of procurement. Once these remaining yards acquire ships, market activity is expected to pause for at least two to three months. During this period, the focus will shift to
+Pakistan saw a positive week, with the recent purchase of several bulk carriers. While pricing from recyclers has remained steady, the outlook is supported by emerging signs of potential firming in some segments of the domestic steel market. This encouraging environment is complemented by the positive developments within the industry. The recent provisional authorisation (DASR) of four additional recycling facilities brings the total number of newly certified yards to six. Three yards have already secured vessels, with three more still in the process of procurement. Once these remaining yards acquire ships, market activity is expected to pause for at least two to three months. During this period, the focus will shift to progressing at least 70% of the required works—an essential step for demonstrating commitment toward obtaining HKC certification.
 
 ## Page 15
-
-progressing at least 70% of the required works—an essential step for demonstrating commitment toward obtaining HKC certification.
 
 Anchorage & Beaching Position (AUGUST 2025)
 

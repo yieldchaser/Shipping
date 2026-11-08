@@ -22,13 +22,11 @@ There were a number of key drivers that led to disappointing tanker earnings dur
 
 The reduction of global oil inventories, both on-land and on tankers (floating storage), which were accumulated during the early stages of the pandemic was an important goal of OPEC. This objective was largely achieved through the slow return of the OPEC+ cutbacks, in addition to a voluntary 1 Mb/d Saudi “bonus cut” in the spring of 2021. and aided by two significant weather events in the U.S.; the Texas winter storm in February (“Texas Deep Freeze” – 19 February 2021) and Hurricane Ida in August (“Weathering the Storm” – 3 September 2021), both of which knocked out significant energy infrastructure in the U.S. Gulf.
 
-The tanker supply side did not help freight markets. The year started out with a significant oversupply of tonnage and while scrapping picked up in 2021 relative to 2020, it is nowhere near
+The tanker supply side did not help freight markets. The year started out with a significant oversupply of tonnage and while scrapping picked up in 2021 relative to 2020, it is nowhere near the levels required to balance the market (“Demolition Derby” – 7 May 2021). The total demolition numbers in 2021 are likely to be more than double those of 2020 (85 tankers in 2021 YTD versus 40 total for 2020), but the numbers are skewed toward the smaller product tankers and the totals remain well below the 137 tankers that were scrapped in 2018. Overall deliveries for 2021 were 16% higher than in 2020, primarily due to more Aframax and MR vessels.
 
 *Chart*
 
 *Source: EIA – Short Term Energy Outlook*
-
-the levels required to balance the market (“Demolition Derby” – 7 May 2021). The total demolition numbers in 2021 are likely to be more than double those of 2020 (85 tankers in 2021 YTD versus 40 total for 2020), but the numbers are skewed toward the smaller product tankers and the totals remain well below the 137 tankers that were scrapped in 2018. Overall deliveries for 2021 were 16% higher than in 2020, primarily due to more Aframax and MR vessels.
 
 Another important factor that gained prominence in 2021 was the so-called “rogue” or “subterfuge” tanker fleet. These are mostly old and poorly maintained vessels that are engaged in clandestine trades, such as the shipment of U.S. sanctioned Iranian and Venezuelan oil (“Back To The Negotiating Table” – 9 April 2021). This fleet, estimated to be around 150 vessels (mostly tankers) is widely considered to be a drag on the tanker market.
 

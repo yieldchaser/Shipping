@@ -24,15 +24,13 @@ A highly complex refinery on the U.S. Gulf Coast can run almost any type of crud
 
 *Chart: Italian Seaborne Crude Imports**
 
-\*Includes transit barrels imported via Italy
+\*Includes transit barrels imported via Italy significant flexibility with respect to their sources of crude oil. The expectation is that IMO 2020 will create a global oversupply of fuel oil and this prospect is already reflected in the pricing of this product. The price discount has encouraged some refiners with high-complexity coking plants in the U.S. to increase the use of HSFO blend stocks as a feedstock, in lieu of heavier sour crudes. This has already led to some Russian fuel oil moving across the Atlantic in Aframaxes to the U.S. Gulf.
 
 *Chart*
 
 *Source: Lloyd’s List Intelligence*
 
 *Source: Bloomberg*
-
-significant flexibility with respect to their sources of crude oil. The expectation is that IMO 2020 will create a global oversupply of fuel oil and this prospect is already reflected in the pricing of this product. The price discount has encouraged some refiners with high-complexity coking plants in the U.S. to increase the use of HSFO blend stocks as a feedstock, in lieu of heavier sour crudes. This has already led to some Russian fuel oil moving across the Atlantic in Aframaxes to the U.S. Gulf.
 
 In contrast to the U.S. Gulf, most refineries in the Mediterranean are less complex with limited upgrade capacity. Italy, for example, has no cokers among its 2.0 million b/d/ refining capacity. About 70% of Italy’s crude is sourced from the Mediterranean (Black Sea and North Africa). Since 2016, the U.S. Gulf has also become a supplier to the region, although it still represents less than 5% of Italy’s crude supply. If Italy needs more light crude going forward in order to reduce its fuel oil yield, the market share of the U.S. could grow further. Relative to current supplies from the Mediterranean this would generate more ton-miles for the tanker market.
 

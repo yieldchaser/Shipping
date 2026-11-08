@@ -231,11 +231,9 @@ The overall sentiment in the Sub-Continent ship recycling market remained subdue
 
 Alang, India
 
-The Alang ship recycling market has entered a new phase of purchasing at the prevailing prices as domestic ship scrap prices stabilise after weeks of decline. This trend has been observed over the past few weeks. As the market approaches a busy festive period, with extended holidays and a traditionally quieter month, industry participants have begun shifting into holiday mode. However, buying activity is expected to pick up
+The Alang ship recycling market has entered a new phase of purchasing at the prevailing prices as domestic ship scrap prices stabilise after weeks of decline. This trend has been observed over the past few weeks. As the market approaches a busy festive period, with extended holidays and a traditionally quieter month, industry participants have begun shifting into holiday mode. However, buying activity is expected to pick up again after the Diwali festival in India, when new projects are typically launched and the true demand for steel becomes clearer.
 
 ## Page 14
-
-again after the Diwali festival in India, when new projects are typically launched and the true demand for steel becomes clearer.
 
 Anchorage & Beaching Position (September 2024)
 
@@ -321,11 +319,9 @@ Pakistan's scrap market continued to face headwinds, with buying activity slowin
 
 Bangladeshi buyers adopted a cautious stance this week, postponing scrap purchases in response to ongoing economic sluggishness, monsoon flooding, and high inventory levels. Steel production in the country is operating at just 50–60% capacity, a reflection of weak demand. Offers for shredded scrap from Australia and New Zealand stood at US$415-420/ton CFR Chattogram, while HMS (80:20) was offered at US$390-395/ton CFR. Most buyers are expected to reassess their purchasing strategies next month.
 
-In contrast to the Sub-Continents markets, Turkish mills were actively securing scrap to support strong domestic rebar production anticipated in November. With limited availability, Turkish buyers moved quickly to lock in supplies. Notable transactions included Venezuela-origin HMS (80:20) purchased at US\$382/ton CFR by an Aegean-
+In contrast to the Sub-Continents markets, Turkish mills were actively securing scrap to support strong domestic rebar production anticipated in November. With limited availability, Turkish buyers moved quickly to lock in supplies. Notable transactions included Venezuela-origin HMS (80:20) purchased at US\$382/ton CFR by an Aegean-based mill, alongside EU-origin HMS (80:20) deals at US$378-381/ton CFR. German-origin HMS (80:20) was also booked at US$376/ton CFR by several mills in the same region. While challenges in the Sub-Continent continue to weigh on the market, Turkey's demand for scrap remains robust, driven by its rebar production needs.
 
 ## Page 17
-
-based mill, alongside EU-origin HMS (80:20) deals at US$378-381/ton CFR. German-origin HMS (80:20) was also booked at US$376/ton CFR by several mills in the same region. While challenges in the Sub-Continent continue to weigh on the market, Turkey's demand for scrap remains robust, driven by its rebar production needs.
 
 ## HMS 1/2 & Tangshan Billet
 

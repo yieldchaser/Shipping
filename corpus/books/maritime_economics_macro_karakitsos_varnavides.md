@@ -174,8 +174,6 @@ Typeset by MPS Limited, Chennai, India.
 
 # CONTENTS
 
-
-
 List of Figures ix
 List of Tables xii
 List of Boxes xiii
@@ -350,8 +348,6 @@ Index 365
 <!-- Page 10 (Nace parse) -->
 
 # LIST OF FIGURES
-
-
 
 2.1 Demand and supply of shipping service 17  
 2.2 The impact of higher bunker costs 18  
@@ -1160,9 +1156,7 @@ capacity) until normal profits are restored. Normal profit is the minimum profit
 that the owner must earn to remain in business. Normal profits include payment
 for risk bearing, for providing organisation and for managerial services.
 
-Figure 2.3 portrays the mechanics of the entire market and a typical owner. The
-
-left-hand panel plots the market demand and supply functions in the short run. The
+Figure 2.3 portrays the mechanics of the entire market and a typical owner. The left-hand panel plots the market demand and supply functions in the short run. The
 right-hand panel portrays the supply side of an individual owner in the short run. In
 this framework, the market demand function is obtained as the sum of the demand
 functions of individual charterers.3 Similarly, the market supply function is the
@@ -1418,21 +1412,18 @@ the charterer. The other, labelled S, represents strong bargaining power for the
 owner. When b = 0.5 the two players have equal bargaining power. Although both
 iso-utility curves are drawn for the same level of utility, for each value of b the
 utility function (2.3) defines a different utility map. The steeper curve represents
-stronger bargaining power for the owner, as for each level of X the payoff of the owner is larger than for weak bargaining power.15
-
-Figure 2.8 illustrates the solution of the bargaining game for three different
-
-levels of bargaining power of the owner. The contract or bargaining curve is the
+stronger bargaining power for the owner, as for each level of X the payoff of the owner is larger than for weak bargaining power.15 levels of bargaining power of the owner. The contract or bargaining curve is the
 straight line CD representing a larger payoff (cardinal or ordinal) for the charterer than the owner. Point G represents the solution of the bargaining game when
 the owner has strong bargaining power, whereas point B the solution with weak
 bargaining power. The solution at G implies a higher payoff for the owner than at
 B. Both points are ‘acceptable' solutions as they imply a move along the highest isoutility curve, which at the same time satisfies the contract or bargaining curve (that
 is, the feasible set). The bargaining implies that one of the players gives something
 
+Figure 2.8 illustrates the solution of the bargaining game for three different
+
 <!-- Page 40 (Nace parse) -->
 
 > **Figure 2.7**: Iso-utility curves in strong and weak bargaining power
-
 
 > **Figure 2.8**: Freight rates in 'good' and 'bad' times
 
@@ -2923,14 +2914,11 @@ by China and the US that shifts the demand for vessels to D . In the analysis of
 Appendix 1, which assumes no change in shipyard capacity, the new equilibrium is attained at point C with higher vessel prices at P and a bigger fleet at
 K . It is worth remembering that because of the forward-looking behaviour of owners and their short-run destabilising behaviour, according to which they buy
 more vessels when prices are increasing, the dynamic adjustment path of prices
-would jump on impact to B, where prices overshoot their long-run equilibrium
+would jump on impact to B, where prices overshoot their long-run equilibrium by \( P^{*} - P_{2} \). Because of this short-term destabilising behaviour of owners, vessel prices would decline subsequently following the unique saddlepoint path EE to C. This analysis is consistent with the well-founded empirical result that vessel prices increase in the short run more than justified by economic fundamentals and decline subsequently as they approach their new long-run equilibrium. Nonetheless, at the new long-run equilibrium vessel prices are higher than the initial equilibrium. As a result of the short-run overshooting of prices owners that do not succeed in placing their orders before the market captures the impact of easy fiscal policy in China and the US would likely suffer capital losses on their new vessels.
 
 <!-- Page 77 (Nace parse) -->
 
-by \( P^{*} - P_{2} \). Because of this short-term destabilising behaviour of owners, vessel prices would decline subsequently following the unique saddlepoint path EE to C. This analysis is consistent with the well-founded empirical result that vessel prices increase in the short run more than justified by economic fundamentals and decline subsequently as they approach their new long-run equilibrium. Nonetheless, at the new long-run equilibrium vessel prices are higher than the initial equilibrium. As a result of the short-run overshooting of prices owners that do not succeed in placing their orders before the market captures the impact of easy fiscal policy in China and the US would likely suffer capital losses on their new vessels.
-
 But this is not the end of the story. In time, shipyards would gradually increase capacity as a result of higher vessel demand. In Figure 3.4 this increase in shipyard capacity is portrayed as a shift to the right of the supply curve from \( S_1 \) to \( S_2 \). The new long-run equilibrium would be established at F, instead of C. At this new long-run equilibrium vessel prices at \( P_3 \) are even lower than at C and the fleet produced at \( K_3 \) is even bigger than at C. Prices would still jump to \( P^* \) initially and then would decline to \( P_3 \) following the new saddlepoint path \( E_1E_1 \). The saddlepoint path rotates clockwise around point B as the supply curve shifts to the right. Therefore, with fixed shipyard capacity prices would increase from \( P_1 \) to \( P_2 \) via \( P^* \), as a result of the fiscal stimulus in China and the US. By allowing shipyards to expand capacity, vessel prices would increase from \( P_1 \) to \( P_3 \) via \( P^* \). Thus, the impact of shipyard capacity is a drop in prices equal to \( P_3 - P_2 \). Moreover, the drop in vessel prices is steeper when shipyard capacity expands than when it remains fixed. With fixed capacity, prices fall by \( P_2 - P^* \), whereas with variable capacity they fall by \( P_3 - P^* \). In the next section we provide an empirical estimate of \( P_3 - P^* \) and decompose it to the factors that cause this change.
-
 
 **Figure 3.4** Dynamic adjustment of NB vessel prices
 
@@ -3265,17 +3253,13 @@ Equilibrium in the newbuilding and secondhand markets is achieved when
 demand is equal to supply in each market. The equilibrium in the shipyard market
 determines the stock of new fleet and newbuilding prices, while equilibrium in
 the secondhand market determines the volume of purchase and sale of existing
-fleet ships and the secondhand price. The interrelationship of newbuilding and
+fleet ships and the secondhand price. The interrelationship of newbuilding and secondhand prices is analysed with the help of Figures 3.4, 3.9 and 3.10. Initial equilibrium is attained at point A in each graph. An increase in the demand for shipping services induces owners to demand new ships from the shipyards. This shifts the demand curve from  \( D_{1} \)  to  \( D_{2} \)  in Figure 3.4. In the long run, shipyards increase capacity and this shifts the supply curve to the right. The new long-run equilibrium is attained at F with higher newbuilding prices and a bigger fleet. The dynamic adjustment path involves an overshooting of the long-run equilibrium; the price rises from  \( P_{1} \)  to  \( P^{*} \)  but then falls to  \( P_{3} \) . The fleet expands from  \( K_{1} \)  to  \( K_{3} \) .
 
 <!-- Page 87 (Nace parse) -->
 
-secondhand prices is analysed with the help of Figures 3.4, 3.9 and 3.10. Initial equilibrium is attained at point A in each graph. An increase in the demand for shipping services induces owners to demand new ships from the shipyards. This shifts the demand curve from  \( D_{1} \)  to  \( D_{2} \)  in Figure 3.4. In the long run, shipyards increase capacity and this shifts the supply curve to the right. The new long-run equilibrium is attained at F with higher newbuilding prices and a bigger fleet. The dynamic adjustment path involves an overshooting of the long-run equilibrium; the price rises from  \( P_{1} \)  to  \( P^{*} \)  but then falls to  \( P_{3} \) . The fleet expands from  \( K_{1} \)  to  \( K_{3} \) .
-
 In the secondhand market the increase in demand shifts to the right the demand curve from  \( D_{1} \)  to  \( D_{2} \)  in Figure 3.9. But for reasons already explained the supply of secondhand ships is reduced. This shifts the supply curve to the left from  \( S_{1} \)  to  \( S_{2} \) . If the supply curve has the normal upward slope then the volume of
 
-
 > **Figure 3.9**: The impact on SH prices and traded fleet when the supply is upward sloping
-
 
 > **Figure 3.10**: The impact on SH prices and traded fleet when the supply is downward sloping
 
@@ -6155,11 +6139,9 @@ b (L)y = b (L)y +b (L)y +q (L)e +q (L)e +q (L)e
 b (L)y = b (L)y +b (L)y +q (L)e +q (L)e +q (L)e
 33 3t 32 2t 31 1t 31 1t 22 2t 33 3t
 This system of equations is called vector-ARMA or simply (VAR) and can be
-written in matrix notation in the same form
+written in matrix notation in the same form where \(\mathbf{Y} = [y_{1t}, y_{2t}, y_{3t}]\), \(\varepsilon = [\varepsilon_{1\mathbf{t}}, \varepsilon_{2t}, \varepsilon_{3t}]\) and \(\mathbf{B}(\mathbf{L})\) and \(\boldsymbol{\Theta}(\mathbf{L})\) are comfortable matrices of coefficients \(\beta_{ij}\) and \(\Theta_{ij}\). The coefficients \(\beta_{11}, \beta_{22}\) and \(\beta_{33}\) have a similar structure. For example, \(\beta_{11} = (1 - \beta_{11}L - \beta_{11}^2L^2 - \ldots)\).
 
 <!-- Page 160 (Nace parse) -->
-
-where \(\mathbf{Y} = [y_{1t}, y_{2t}, y_{3t}]\), \(\varepsilon = [\varepsilon_{1\mathbf{t}}, \varepsilon_{2t}, \varepsilon_{3t}]\) and \(\mathbf{B}(\mathbf{L})\) and \(\boldsymbol{\Theta}(\mathbf{L})\) are comfortable matrices of coefficients \(\beta_{ij}\) and \(\Theta_{ij}\). The coefficients \(\beta_{11}, \beta_{22}\) and \(\beta_{33}\) have a similar structure. For example, \(\beta_{11} = (1 - \beta_{11}L - \beta_{11}^2L^2 - \ldots)\).
 
 Using Wold's decomposition theorem the above system of equations in the vector-ARMA representation (A.41) has two alternative representations, a moving average of current and past white noise terms or an infinite vector autoregression plus a linear combination of white noise error terms:
 
@@ -6201,9 +6183,7 @@ Using the methodology of the previous section it is assumed that a VAR model can
 
 (A.45)
 
-\( \Sigma \) is the variance-covariance matrix of the residuals with the usual property of constant variance and zero serial correlation. The vector-z includes the total number of n-variables considered by a modeller, which may consist of \( y_{i} \) endogenous variables and \( x_{j} \) exogenous variables. The modeller is not certain whether the variables he regards as exogenous are truly exogenous and in order to test for their exogeneity he includes them in the vector-z. Thus the sum of y and x variables is n and they are all included in the vector-z. Thus, the vector-z includes all potential endogenous variables with a maximum lag-k. Each of the \( A_{i} \) for \( i = 1,\ldots,k - 1 \), is an \( (n \times n) \) matrix of coefficients. A VAR in the form of (A.45) is called a reduced form because all variables on the right-hand side are predetermined (i.e. all endogenous variables on the right hand side appear with
-
-as (A.38):
+\( \Sigma \) is the variance-covariance matrix of the residuals with the usual property of constant variance and zero serial correlation. The vector-z includes the total number of n-variables considered by a modeller, which may consist of \( y_{i} \) endogenous variables and \( x_{j} \) exogenous variables. The modeller is not certain whether the variables he regards as exogenous are truly exogenous and in order to test for their exogeneity he includes them in the vector-z. Thus the sum of y and x variables is n and they are all included in the vector-z. Thus, the vector-z includes all potential endogenous variables with a maximum lag-k. Each of the \( A_{i} \) for \( i = 1,\ldots,k - 1 \), is an \( (n \times n) \) matrix of coefficients. A VAR in the form of (A.45) is called a reduced form because all variables on the right-hand side are predetermined (i.e. all endogenous variables on the right hand side appear with as (A.38):
 B(L)Y =Θ(L)e (A.41)
 t t
 a lag). This means that the system is not simultaneous; none of the variables on
@@ -6297,11 +6277,9 @@ coefficients
 i 1 2 k−1 1 2 k
 subject to the constraint that Π can be written in the form of (A.47).
 The Johansen approach involves three steps. First, it estimates a set of auxiliary
-regressions. The first set estimates a VAR(k - 1) for ∆z. In other words, each
+regressions. The first set estimates a VAR(k - 1) for ∆z. In other words, each element of \(\Delta \mathbf{z}_i\) is regressed on \(\Delta z_{t - 1},\Delta z_{t - 2},\ldots ,\Delta z_{t - k + 1}\) with OLS to obtain estimates of \(\mathbf{P}_1,\mathbf{P}_2,\dots ,\mathbf{P}_{k - 1}\). All these OLS regressions for \(i = 1,\dots ,n\) are collected in a vector form:
 
 <!-- Page 163 (Nace parse) -->
-
-element of \(\Delta \mathbf{z}_i\) is regressed on \(\Delta z_{t - 1},\Delta z_{t - 2},\ldots ,\Delta z_{t - k + 1}\) with OLS to obtain estimates of \(\mathbf{P}_1,\mathbf{P}_2,\dots ,\mathbf{P}_{k - 1}\). All these OLS regressions for \(i = 1,\dots ,n\) are collected in a vector form:
 
 \[
 \Delta \mathbf {z} _ {\mathrm{t}} = \mathbf {P} _ {1} \Delta \mathbf {z} _ {\mathrm{t-1}} + \mathbf {P} _ {2} \Delta \mathbf {z} _ {\mathrm{t-2}} + \dots + \mathbf {P} _ {\mathrm{k-1}} \Delta \mathbf {z} _ {\mathrm{t-k+1}} + \boldsymbol {\eta} _ {\mathrm{t}}
@@ -6357,9 +6335,7 @@ and order the eigenvalues in descending order:  \( \lambda_{1} > \lambda_{2} > \
 
 Johansen proposes two types of tests for \( r \): the trace statistic and the maximum eigenvalue statistic. In the trace statistic the null hypothesis \( (\mathrm{H}_0) \) is there are exactly \( r \) cointegrating relations among the elements of \( \mathbf{z}_t \) in (A.46). The VAR is restricted by the requirement that \( \Pi \) can be written in the form (A.47) with \( \alpha (n\times r) \) and \( \beta (r\times n) \) matrices. Under the alternative hypothesis \( (\mathrm{H}_{\mathrm{A}}) \) there are \( n \) cointegrating relations, where \( n \) is the number of the endogenous variables included in \( \mathbf{z}_t \). This amounts to the claim that every linear combination of \( \mathbf{z}_t \) is stationary.
 
-A likelihood ratio test of the null that there are exactly r cointegrating relations against the alternative that there are n can be computed by comparing the maximum value,  \( L_{0} \) , that can be achieved for the log likelihood function that
-
-t satisfies the constraints with the maximum value, L , for the log-likelihood function without the constraints. The trace statistic is a likelihood ratio (that is, the
+A likelihood ratio test of the null that there are exactly r cointegrating relations against the alternative that there are n can be computed by comparing the maximum value,  \( L_{0} \) , that can be achieved for the log likelihood function that t satisfies the constraints with the maximum value, L , for the log-likelihood function without the constraints. The trace statistic is a likelihood ratio (that is, the
 log difference) test based on:
 n
 LR (r/n)= 2(L −L )= −T ∑ log(1−l ) (A.55)
@@ -7429,11 +7405,7 @@ rate of inflation, as this is independent of the level of potential output. This
 property results from a vertical long-run Phillips curve that passes through Y in the lower panel of Figure 5.6. The central bank can choose the level of the
 short-run Phillips curve by adopting and announcing an explicit inflation target
 pT. In the long run, the economy would achieve this inflation target as the central
-bank influences expected inflation. Thus, if the inflation target is p in terms of
-
-Figure 5.6 then the central bank can choose the short-run Phillips curve along
-
-which expected inflation is equal to the target. In terms of Figure 5.6, this
+bank influences expected inflation. Thus, if the inflation target is p in terms of which expected inflation is equal to the target. In terms of Figure 5.6, this
 short-run Phillips curve is labelled PC(pT = p ) and passes through the vertical long-run Phillips curve at point A.
 With output fixed in the long run by supply factors, the dynamic IS curve
 helps to determine the level of the real interest rate. This long-run real interest
@@ -7465,6 +7437,8 @@ and a half percent to alleviate the recession and steer the economy back to the
 path of potential output. The adjustment back to the long run equilibrium is
 oscillatory and takes a few years, although the shock was only transient lasting
 for one year only.
+
+Figure 5.6 then the central bank can choose the short-run Phillips curve along
 
 Output Gap Y(g)
 > **Figure 5.7**: Output gap response to a negative demand shock under optimal policy
@@ -8972,7 +8946,6 @@ Table 6.1 Dynamic fleet adjustment
 <!-- Page 228 (Nace parse) -->
 
 > **Figure 6.1**: Fleet and freight rates adjustments when  \( -\lambda\rho=1 \)
-
 
 > **Figure 6.2**: Fleet and freight rates adjustments when  \( -\lambda\rho=0.7 \)
 
@@ -10484,7 +10457,6 @@ Table 7.2 The capital structure of shipping – Marsoft data
 | 1700 TEU, Geared | 14,000 | 14,000 | 13,000 | 13,000 |
 | 2000 TEU, Gearless | 15,000 | 15,000 | 14,000 | 14,000 |
 
-
 ### 2 The Capital Market Structure for Shipping
 
 Since the arrival of the Eurodollar markets around 1966, the market for financing
@@ -10559,7 +10531,6 @@ US$100 billion, or less than a third of the earlier figure, which is a slightly 
 fall than would have been expected based solely on the fall in the value of shipping asset prices. At the peak of the market some shipping companies achieved a
 premium over NAV of nearly 50 per cent. By 2012 many companies were trading
 at just 50 per cent of NAV.
-
 
 ### Table 7.3 Marine Money list of public shipping companies
 
@@ -11068,7 +11039,6 @@ boosting the overall levels of world trade. When all countries opt to fight infl
 
 > **Figure 8.1**: Growth of assets of four sectors in the US (in logs 1954 = 1)
 
-
 > **Figure 8.2**: Liabilities of US shadow and traditional banking
 
 274
@@ -11523,7 +11493,13 @@ of the change in the demand for seaborne oil trade is accounted for by excessive
 Total Demand Million DWT LN LEVEL LD
 World Oil Consumption, Total Demand mb/d LN Level LC
 > **Figure 8.6**: Demand for seaborne trade and demand for oil
-Table 8.1 The oil tanker market in the last eight years
+Table 8.1 The oil tanker market in the last eight years liquidity. Of the three factors that account for the impact of liquidity, the dollar
+accounts for 27 per cent, the price of oil for another 27 per cent and the oil storage trade for 14 per cent (see Table 8.2). The implication of this new framework
+is that the oil tanker market has changed from a fundamental transport industry
+to a risky asset, akin to equities and commodities. This has the further implication that the prospects of the oil tanker market depend on the appetite for risky
+assets in addition to economic fundamentals in the shipping market, such as
+world oil consumption. Failure to appreciate these fundamental changes can lead
+to erroneous conclusions about the prospects for the oil tanker market.
 
 |  | Percent change between 2003 and 2011 | Average rate of growth over the period | Standard deviation | Max over the period | Min over the period |
 | --- | --- | --- | --- | --- | --- |
@@ -11543,14 +11519,6 @@ Table 8.2 Decomposition of change in demand for seaborne trade between 2003 and 
 | Oil storage trade | 3.6% | 4.3% | 14% |
 | Other factors |  | 1.1% | 4% |
 | Total demand change |  | 30.3% | 100% |
-
-liquidity. Of the three factors that account for the impact of liquidity, the dollar
-accounts for 27 per cent, the price of oil for another 27 per cent and the oil storage trade for 14 per cent (see Table 8.2). The implication of this new framework
-is that the oil tanker market has changed from a fundamental transport industry
-to a risky asset, akin to equities and commodities. This has the further implication that the prospects of the oil tanker market depend on the appetite for risky
-assets in addition to economic fundamentals in the shipping market, such as
-world oil consumption. Failure to appreciate these fundamental changes can lead
-to erroneous conclusions about the prospects for the oil tanker market.
 
 ### 6 The Financialisation of the Dry Bulk Market
 
@@ -12320,11 +12288,7 @@ increase. These principles further help in forming forward-looking expectations
 in the shipping market and explain the shipping cycles.
 5 WHY DO US BUSINESS CYCLES DIFFER?
 Table 9.2 provides a summary of the US business cycles in the post-Second World
-War era; Table 9.3 lists the length of each phase in these business cycles, while
-
-Figure 9.5 is an empirical version of Figure 9.4; it identifies the various phases
-
-of the business cycles since 1960. There is a difference, however, between the
+War era; Table 9.3 lists the length of each phase in these business cycles, while of the business cycles since 1960. There is a difference, however, between the
 two aforementioned tables. Table 9.2 follows the official definition of measuring
 cycles by looking at the level of GDP. In this approach the cycle is defined as the
 time it takes the economy to move from peak to peak. The minimum level of
@@ -12332,6 +12296,8 @@ GDP defines the trough of the recession, which is defined as the period between
 the peak and the bottom. The recovery is defined as the period of time between
 trough and the time it gets to return to the previous peak. The expansion phase
 Table 9.3 The US business cycles
+
+Figure 9.5 is an empirical version of Figure 9.4; it identifies the various phases
 
 | Cycle trough-to-trough | Phase IV years | Phase I years | Phase II years | Phase III years |
 | --- | --- | --- | --- | --- |
@@ -12399,9 +12365,7 @@ E' E
 0%
 -2% D
 -4% D
-> **Figure 9.5**: US business cycles
-
-bubble in the recent one. The characteristic of asset-led cycles is that the expansion phase is very long and inflation is subdued, but the recession is long and deep.
+> **Figure 9.5**: US business cycles bubble in the recent one. The characteristic of asset-led cycles is that the expansion phase is very long and inflation is subdued, but the recession is long and deep.
 In the absence of shocks and hence for the default demand cycle, the wild card
 that decides the length of a cycle is the length of the overheating stage (phase I).
 Table 9.3 shows that in recent decades the length of phase (I) has varied from less
@@ -12682,7 +12646,39 @@ of profits into Japan to cover the losses from the burst of the stock and proper
 bubbles. The yen appreciation accentuated the recession and caused negative
 inflation (deflation). Once more the US affected Japan in 1995. The Fed tightened
 monetary policy from February 1994 till the end of the year as the US economy
-showed signs of overheating. This pre-emptive tightening cooled the US economy
+showed signs of overheating. This pre-emptive tightening cooled the US economy down in 1995 and this dampened Japanese exports for a while. But as the US
+economy gathered steam in 1996 and beyond Japan rebounded until mid-1997.
+But then the Asian-Russian crisis of 1997-98 dragged Japan into an even deeper
+recession than in the first half of the 1990s. Industrial production fell more than 8
+Japan IP 6M MA % YoY Japan CPI % YoY RHS JP Discount rate RHS
+30% 10%
+C B
+> **Figure 9.6**: Japan business cycles per cent and the recession lasted for one and a half years until mid-1999. Deflation
+became a permanent state of affairs in Japan as the yen appreciated sharply. The
+effective exchange rate soared from 105 in August 1998 to 160 in September 2000.
+Japan rebounded once more as the US economy went into overdrive with
+growth exceeding 5 per cent in the last few years of the old millennium despite
+the yen appreciation. The extremely high growth in the US was attributed at the
+time to large structural productivity gains associated with information technology,
+but this was wrong. The boom was triggered by the internet bubble, which gave
+the impression of a structural improvement in productivity, whereas ex post it
+proved to be purely cyclical. As the internet bubble burst and the US fell into a
+mild recession, Japan entered a third recession in just ten years. This was deeper
+than the previous two recessions, with industrial production plunging more than
+12 per cent. As the US economy led the world economy into recovery from 2003
+onwards, Japan recovered and deflation was beaten for a while.
+Easy monetary policy in the US and the rest of the world fuelled bubbles in
+commercial and residential real estate. This helped Japan to recover and experience a relatively long period of relative prosperity of four years, something that
+had not happened since the burst of the stock and housing bubbles at the end of
+1989. Nonetheless, growth was modest, ranging from 2 per cent to 5 per cent. The
+US economy peaked at the beginning of 2004, as the fiscal stimulus faded and
+the Fed began to tighten monetary policy from mid-2004 onwards. Japan peaked
+at the end of 2006, but remained in positive growth territory until the spring of
+2008. As the US economy fell off the cliff in the second half of 2008, so did Japan.
+Industrial production fell by a staggering 30 per cent in the Great Recession In
+the new millennium China became an increasingly important trading partner of
+Japan. Hence, the recession of 2008 in Japan was triggered by both the US and
+China. But it is fair to say that the weakness of China was caused by the US.
 
 Table 9.5 Japan cycle phases
 
@@ -12715,42 +12711,6 @@ Table 9.5 Japan cycle phases
 |  | Jun-10 | B |  | 24.2% |  | 7 | Overheating |
 | Mar-12 |  |  | C |  | 0.5% |  | Slowdown |
 |  | Aug-11 | D |  | -5.7% |  |  | Recession |
-
-down in 1995 and this dampened Japanese exports for a while. But as the US
-economy gathered steam in 1996 and beyond Japan rebounded until mid-1997.
-But then the Asian-Russian crisis of 1997-98 dragged Japan into an even deeper
-recession than in the first half of the 1990s. Industrial production fell more than 8
-Japan IP 6M MA % YoY Japan CPI % YoY RHS JP Discount rate RHS
-30% 10%
-C B
-> **Figure 9.6**: Japan business cycles
-
-per cent and the recession lasted for one and a half years until mid-1999. Deflation
-became a permanent state of affairs in Japan as the yen appreciated sharply. The
-effective exchange rate soared from 105 in August 1998 to 160 in September 2000.
-Japan rebounded once more as the US economy went into overdrive with
-growth exceeding 5 per cent in the last few years of the old millennium despite
-the yen appreciation. The extremely high growth in the US was attributed at the
-time to large structural productivity gains associated with information technology,
-but this was wrong. The boom was triggered by the internet bubble, which gave
-the impression of a structural improvement in productivity, whereas ex post it
-proved to be purely cyclical. As the internet bubble burst and the US fell into a
-mild recession, Japan entered a third recession in just ten years. This was deeper
-than the previous two recessions, with industrial production plunging more than
-12 per cent. As the US economy led the world economy into recovery from 2003
-onwards, Japan recovered and deflation was beaten for a while.
-Easy monetary policy in the US and the rest of the world fuelled bubbles in
-commercial and residential real estate. This helped Japan to recover and experience a relatively long period of relative prosperity of four years, something that
-had not happened since the burst of the stock and housing bubbles at the end of
-1989. Nonetheless, growth was modest, ranging from 2 per cent to 5 per cent. The
-US economy peaked at the beginning of 2004, as the fiscal stimulus faded and
-the Fed began to tighten monetary policy from mid-2004 onwards. Japan peaked
-at the end of 2006, but remained in positive growth territory until the spring of
-2008. As the US economy fell off the cliff in the second half of 2008, so did Japan.
-Industrial production fell by a staggering 30 per cent in the Great Recession In
-the new millennium China became an increasingly important trading partner of
-Japan. Hence, the recession of 2008 in Japan was triggered by both the US and
-China. But it is fair to say that the weakness of China was caused by the US.
 
 Therefore, Japan's business cycles were determined largely by the US. In the
 1980s Japanese business cycles were shaped almost entirely by the US, as Japan
@@ -13471,7 +13431,6 @@ Actual Demand (HOPE data) M DWT RHS HOPE Rule of Thumb Demand M DWT RHS
 
 > **Figure 10.A3**: HOPE log-linear demand model on world GDP
 
-
 > **Figure 10.A4**: Demand for dry (% YoY) – SAIL model
 
 100
@@ -13927,11 +13886,9 @@ difference.
 13. The difference between two I(1) non-stationary variables is an I(0) variable (that is,
 stationary). See the Statistical Appendix.
 14. This cointegrating vector is postulated in Kavussanos and Alizadeh (2002b).
-But there are other possible cointegrating vectors, which are based on an explicit
+But there are other possible cointegrating vectors, which are based on an explicit structural model of the newbuilding and secondhand markets. See below for justification and references.
 
 <!-- Page 361 (Nace parse) -->
-
-structural model of the newbuilding and secondhand markets. See below for justification and references.
 
 15. The variance definition is the sum of squared deviations from the mean, but as the mean is zero, the variance is simplified to (A.3b).
 

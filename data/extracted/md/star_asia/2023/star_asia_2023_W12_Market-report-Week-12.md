@@ -252,11 +252,9 @@ A quiet week with no significant sales to report. Overall, prices remained stabl
 
 **ALANG, INDIA.**
 
-This week saw some weakness in the domestic ship scrap prices, initially dropping at the start of the week and later recovering. The cause of concern in India was the dampening of steel demand. But some recyclers firmly believe this is a usual fiscal year-end closure and fresh buying slows down. However, the prices offered by the Alang recyclers do not match what their neighbors, Bangladesh, are offering. The recyclers will have to wait for the Bangladeshi appetite to be fulfilled or wait for the ships that are purely destined for Alang by the ship owners' preferred destination. The recent achievement of the two recycling yards in Chittagong obtaining the certification from Class NK, while three to four more yards are in the process of getting certification from HKC, is a matter of concern to the Alang recyclers. This will further distance Alang from its competitors. Comparable to what happened 30 years ago in Taiwan and 10 years ago in China, similarities are now being seen in Alang. The recycling industry is slowly dying, and the price differential between Bangladesh and Alang is incomparable. Domestic scrap prices in Alang have a 25% differential. Despite the
+This week saw some weakness in the domestic ship scrap prices, initially dropping at the start of the week and later recovering. The cause of concern in India was the dampening of steel demand. But some recyclers firmly believe this is a usual fiscal year-end closure and fresh buying slows down. However, the prices offered by the Alang recyclers do not match what their neighbors, Bangladesh, are offering. The recyclers will have to wait for the Bangladeshi appetite to be fulfilled or wait for the ships that are purely destined for Alang by the ship owners' preferred destination. The recent achievement of the two recycling yards in Chittagong obtaining the certification from Class NK, while three to four more yards are in the process of getting certification from HKC, is a matter of concern to the Alang recyclers. This will further distance Alang from its competitors. Comparable to what happened 30 years ago in Taiwan and 10 years ago in China, similarities are now being seen in Alang. The recycling industry is slowly dying, and the price differential between Bangladesh and Alang is incomparable. Domestic scrap prices in Alang have a 25% differential. Despite the government's desire to double the scale of operations, there is a possibility that activities in Alang may decrease over the next 5 to 7 years.
 
 ## Page 12
-
-government's desire to double the scale of operations, there is a possibility that activities in Alang may decrease over the next 5 to 7 years.
 
 # Anchorage & Beaching Position (March 2023)
 
@@ -324,11 +322,9 @@ The latest issue is the plan announced by PM Shehbaz Sharif to charge more for f
 
 ## ALIAGA, TURKEY
 
-Imported scrap prices in Turkey are declining due to an oversupply of scrap as demand from Turkish mills remains weak. The mills are struggling to sell steel in both domestic and export
+Imported scrap prices in Turkey are declining due to an oversupply of scrap as demand from Turkish mills remains weak. The mills are struggling to sell steel in both domestic and export markets, which has resulted in a bearish sentiment. As a result, mills are holding back on scrap purchases, exerting pressure on prices.
 
 ## Page 14
-
-markets, which has resulted in a bearish sentiment. As a result, mills are holding back on scrap purchases, exerting pressure on prices.
 
 However, there is an increase in the number of offers in the market, with European merchants reducing their prices, although suppliers of premium HMS 1&2 80:20 are trying to maintain their offers above US$460/tonne CFR Turkey, which is not feasible in the current conditions. Market participants expect a downward trend in prices rather than an upward one, with scrap prices likely to soften by US$10-15/ton.
 

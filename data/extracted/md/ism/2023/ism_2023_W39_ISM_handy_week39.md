@@ -32,15 +32,11 @@ Earlier in the week, Supramax owners working in the Black and Mediterranean Seas
 
 ### TCT rates dynamics, $/day
 
-EU steel scrap, CFR Turkey, $/t Freight rate, scrap (sf 58`), 40-45,000t, ARAG - EMed, $/t % of freight costs in CFR price
-
-shipment of 30,000 t of wheat or corn from Constanta to Algeria are hovering at $26-27/t, while those with Dec/Jan laycans are discussed at $24-25/t bss 1/1 given 8000x/2500x l/d rates.
+EU steel scrap, CFR Turkey, $/t Freight rate, scrap (sf 58`), 40-45,000t, ARAG - EMed, $/t % of freight costs in CFR price shipment of 30,000 t of wheat or corn from Constanta to Algeria are hovering at $26-27/t, while those with Dec/Jan laycans are discussed at $24-25/t bss 1/1 given 8000x/2500x l/d rates.
 
 Note, however, that excitement around Ukrainian exports remains, the overwhelming number of offers comes towards China and Spain. It should be noted that while the segment for shipments from Ukraine is in the stage of searching for levels, the bid/offer gap often reaches $20/t and more. EWRI and so called crew bonus also vary greatly. Besides, many ship owners are not ready to consider offers from Ukraine, expecting to see upcoming successful calls in the next couple of weeks. Shipment of 30,000 t of wheat from Chornomorsk to SpanMed is estimated by ISM at high $60s/t, while transportation of 60-65,000 t of corn to S.China costs low $80s/t bss 1/1.
 
-The APAC Supramax/Ultramax market has also started to soften ahead of the Golden Week in China and South Korea. The north of the region is affected by slower grain shipments from NOPAC ports, while the south suffers decreased traffic of Indonesian coal. The sentiment
-
-is worsening also in the Indian Ocean, as the lull in SE Asia leads to longer vessel list off Indian coasts (particularly this applies to Supramax tonnage, while the surplus of Handysize fleet is much less noticeable). Moreover, players report slightly decreased coal offer from South Africa and fixing activity ex PG. Time-charter rates have sagged by $2- 3k daily in all parts of the Eastern Hemi, with transportation costs of main cargoes down by $1-3/t.
+The APAC Supramax/Ultramax market has also started to soften ahead of the Golden Week in China and South Korea. The north of the region is affected by slower grain shipments from NOPAC ports, while the south suffers decreased traffic of Indonesian coal. The sentiment is worsening also in the Indian Ocean, as the lull in SE Asia leads to longer vessel list off Indian coasts (particularly this applies to Supramax tonnage, while the surplus of Handysize fleet is much less noticeable). Moreover, players report slightly decreased coal offer from South Africa and fixing activity ex PG. Time-charter rates have sagged by $2- 3k daily in all parts of the Eastern Hemi, with transportation costs of main cargoes down by $1-3/t.
 
 Next week, trade may perk up in the South Atlantic as new requests for soybean and corn shipments for mid-
 

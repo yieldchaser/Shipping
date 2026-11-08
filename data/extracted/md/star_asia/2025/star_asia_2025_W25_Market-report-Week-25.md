@@ -297,11 +297,9 @@ Bangladesh showed moderately positive sentiment as most domestic steel mills res
 
 Pakistan's scrap market remained subdued with limited activity as mills maintained caution amid weak finished steel sales. EU-origin shredded scrap offers climbed above US$370 per ton CFR Qasim, with many suppliers quoting US$375 or higher. UK-origin shredded at US$370 per ton disappeared from the market as sellers pushed prices upward. UAE shredded offers reached US$385 per ton CFR while HMS-PNS mix traded in the US$376-378 range. Mills showed little urgency to procure, preferring to wait for either market corrections or clearer demand signals before making fresh commitments.
 
-Turkey's imported scrap prices gained upward momentum with US/Baltic-origin HMS 80:20 offers at US$348-350 per ton CFR and EU cargoes at US$340-345. Mills resisted offers above US$340 per ton, citing weak finished steel demand and tight margins. UK recyclers reported limited summer availability, keeping sellers' firm on pricing despite Turkish mills needing around 20 cargoes for July shipments. Domestic rebar prices stood
+Turkey's imported scrap prices gained upward momentum with US/Baltic-origin HMS 80:20 offers at US$348-350 per ton CFR and EU cargoes at US$340-345. Mills resisted offers above US$340 per ton, citing weak finished steel demand and tight margins. UK recyclers reported limited summer availability, keeping sellers' firm on pricing despite Turkish mills needing around 20 cargoes for July shipments. Domestic rebar prices stood at US$535-545 per ton ex-works, depending on location, but demand remained weak in both domestic and export markets. Mills are expected to re-enter more actively only if fresh rebar orders emerge or scrap prices retreat.
 
 ## Page 18
-
-at US$535-545 per ton ex-works, depending on location, but demand remained weak in both domestic and export markets. Mills are expected to re-enter more actively only if fresh rebar orders emerge or scrap prices retreat.
 
 # HMS 1/2 & Tangshan
 

@@ -20,9 +20,7 @@ pages: 19
 
 WEEK 15 - April 14, 2024
 
-This week, on Saturday, Iran retaliated against Israel with a barrage of drone and missile strikes, escalating tensions following an alleged Israeli attack on an Iranian embassy complex in Syria. Reports suggest Iran launched dozens, possibly over a hundred, drones while missiles were also deployed. Both Iranian and Israeli media sources confirmed the attacks. The situation underscores a significant shift in the region's stability, with escalating hostilities involving multiple actors over the past six months. As the world
-
-watches anxiously, the Middle East faces heightened instability and uncertainty. In the U.S., Inflation data for the first three months of 2024 has been disappointing, with prices at the register and wholesale input costs remaining stubbornly high despite being off the blistering pace of 2022. Investors, consumers, policymakers, and economists have been caught off guard by the persistence of price pressures. Economists noted that the past three months have seen inflation prints consistently above expectations, suggesting a need to change how we think about the future. The market has been forced to dramatically adjust its expectations, with the Federal Reserve now expected to make just two rate cuts this year, as opposed to the six or seven anticipated at the beginning of the year. Meanwhile, China's exports experienced a significant decline in March, falling 7.5% y-o-y, while imports also decreased by 1.9%. These figures fell short of economist forecasts and raised concerns about the country's ability to meet its 5% economic growth target for the year despite some positive indicators in earlier March data. The unexpected drop in imports further highlights the ongoing challenges faced by Chinese consumers, who continue to feel the impact of a prolonged real estate slump and have limited spending power. This is evidenced by the minimal rise in consumer prices over the past 12 months, which underscores the persistent threat of deflation. However, there were some bright spots in China's trade performance. Exports of steel products, manufactured goods, cars, and semiconductors saw growth in the first quarter, although this has the potential to exacerbate trade tensions with the US, Europe, and some emerging economies.
+This week, on Saturday, Iran retaliated against Israel with a barrage of drone and missile strikes, escalating tensions following an alleged Israeli attack on an Iranian embassy complex in Syria. Reports suggest Iran launched dozens, possibly over a hundred, drones while missiles were also deployed. Both Iranian and Israeli media sources confirmed the attacks. The situation underscores a significant shift in the region's stability, with escalating hostilities involving multiple actors over the past six months. As the world watches anxiously, the Middle East faces heightened instability and uncertainty. In the U.S., Inflation data for the first three months of 2024 has been disappointing, with prices at the register and wholesale input costs remaining stubbornly high despite being off the blistering pace of 2022. Investors, consumers, policymakers, and economists have been caught off guard by the persistence of price pressures. Economists noted that the past three months have seen inflation prints consistently above expectations, suggesting a need to change how we think about the future. The market has been forced to dramatically adjust its expectations, with the Federal Reserve now expected to make just two rate cuts this year, as opposed to the six or seven anticipated at the beginning of the year. Meanwhile, China's exports experienced a significant decline in March, falling 7.5% y-o-y, while imports also decreased by 1.9%. These figures fell short of economist forecasts and raised concerns about the country's ability to meet its 5% economic growth target for the year despite some positive indicators in earlier March data. The unexpected drop in imports further highlights the ongoing challenges faced by Chinese consumers, who continue to feel the impact of a prolonged real estate slump and have limited spending power. This is evidenced by the minimal rise in consumer prices over the past 12 months, which underscores the persistent threat of deflation. However, there were some bright spots in China's trade performance. Exports of steel products, manufactured goods, cars, and semiconductors saw growth in the first quarter, although this has the potential to exacerbate trade tensions with the US, Europe, and some emerging economies.
 
 ## Page 2
 
@@ -181,7 +179,6 @@ In the latest series of geopolitical issues, Iranian forces seized the MSC Aries
 | 5,100 | Gearless | 94 | 84 | 71 | 42 | 28 |
 | *(amount in USD million) |  |  |  |  |  |  |
 
-
 ## Page 11
 
 # Ship Recycling Market Snapshot
@@ -263,7 +260,6 @@ Turkish imported ferrous scrap prices have experienced a slight increase as sell
 | QATAR ANA | BULKER | 8,015 | 26.03.2024 | AWATIING |
 | SEA FLOWER | GENERAL CARGO | 5,282 | 27.03.2024 | AWAITING |
 | BOS LINA | GENERAL CARGO | 3,287 | 29.03.2024 | AWAITING |
-
 
 ## Page 16
 

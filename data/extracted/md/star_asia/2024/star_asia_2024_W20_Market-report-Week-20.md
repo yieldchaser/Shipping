@@ -34,11 +34,9 @@ In the Pacific market, the rate of decline slowed as vessels gradually absorbed 
 
 Panamax/Kamsarmax:
 
-The Atlantic market continued its downward trend as the oversupply situation became more entrenched due to a rising number of vessels in the North European region. T/A saw levels slipped to US$15,400's a day. Conversely, although new demand remained sluggish in the NOPAC region, the Pacific market experienced a deceleration in the rate of decline, buoyed by an uptick in coal shipments from East Australia. Pacific r/v closed lower at US$16,500's a day. Supramax/Ultramax: The Atlantic market continued to see falling rates due to the persistent lack of new cargo across most routes. T/A levels fell to US$17,000's a day. Meanwhile, in the Pacific market, although vessel supply increased centred around Northeast Asia, the low inflow of new
+The Atlantic market continued its downward trend as the oversupply situation became more entrenched due to a rising number of vessels in the North European region. T/A saw levels slipped to US$15,400's a day. Conversely, although new demand remained sluggish in the NOPAC region, the Pacific market experienced a deceleration in the rate of decline, buoyed by an uptick in coal shipments from East Australia. Pacific r/v closed lower at US$16,500's a day. Supramax/Ultramax: The Atlantic market continued to see falling rates due to the persistent lack of new cargo across most routes. T/A levels fell to US$17,000's a day. Meanwhile, in the Pacific market, although vessel supply increased centred around Northeast Asia, the low inflow of new cargoes from Indonesia led to a fall in rates. Pacific r/v rates fell to US$15,500's a day. Overall, both major markets faced pressures due to supply-demand imbalances stemming from cargo shortages and excessive vessel supply.
 
 ## Page 3
-
-cargoes from Indonesia led to a fall in rates. Pacific r/v rates fell to US$15,500's a day. Overall, both major markets faced pressures due to supply-demand imbalances stemming from cargo shortages and excessive vessel supply.
 
 Handysize:
 
@@ -269,11 +267,9 @@ Anchorage & Beaching Position (May 2024)
 
 Chattogram, Bangladesh
 
-This week was a quiet one for this segment as the upcoming budget meeting in early June has led buyers to stay on the fence while they wait for the fresh tonnages. However, ships sold in the past are making their way smoothly to the shores as the recyclers were trying to build up inventories pre-budget. Bangladesh's foreign exchange reserves have been declining since September 2021, despite government efforts, reaching US$18.42 billion in gross international reserves as of late, barely covering three and a half months of imports. The net international reserves, at US$13 billion, cover only two and a half months. The IMF lowered the net reserve target to US$14.76 billion for June. Reserves had peaked at US$48 billion in August 2021 due to reduced import payments and increased remittances during the pandemic. However, rising imports, global commodity price hikes due to the Russia-Ukraine war, mismanagement in the forex market, policy changes, and exchange rate gaps contributed to the reserves' depletion. Since August 2021, reserves have fallen by US$24 billion, prompting concerns about Bangladesh's economic strength and credit rating. The central bank recently introduced
+This week was a quiet one for this segment as the upcoming budget meeting in early June has led buyers to stay on the fence while they wait for the fresh tonnages. However, ships sold in the past are making their way smoothly to the shores as the recyclers were trying to build up inventories pre-budget. Bangladesh's foreign exchange reserves have been declining since September 2021, despite government efforts, reaching US$18.42 billion in gross international reserves as of late, barely covering three and a half months of imports. The net international reserves, at US$13 billion, cover only two and a half months. The IMF lowered the net reserve target to US$14.76 billion for June. Reserves had peaked at US$48 billion in August 2021 due to reduced import payments and increased remittances during the pandemic. However, rising imports, global commodity price hikes due to the Russia-Ukraine war, mismanagement in the forex market, policy changes, and exchange rate gaps contributed to the reserves' depletion. Since August 2021, reserves have fallen by US$24 billion, prompting concerns about Bangladesh's economic strength and credit rating. The central bank recently introduced a crawling peg system, setting the dollar rate at Tk 117 to stabilize the forex market and boost exports and remittances, thereby replenishing reserves.
 
 ## Page 15
-
-a crawling peg system, setting the dollar rate at Tk 117 to stabilize the forex market and boost exports and remittances, thereby replenishing reserves.
 
 Anchorage & Beaching Position (May 2024)
 
@@ -297,11 +293,9 @@ Anchorage & Beaching Position (May 2024)
 |  |  |  |  |  |
 |  |  |  |  |  |
 
-Aliaga, Turkey
+Aliaga, Turkey are also rumors of a significant energy price hike to be implemented in June or July that could potentially impact affordability.
 
 ## Page 16
-
-are also rumors of a significant energy price hike to be implemented in June or July that could potentially impact affordability.
 
 Turkish shipbreaking scrap prices stood at US$375-390/t delivered midweek, down US$5/t from the high end of last week's range. The Turkish currency stood at 32.24 per dollar at business close.
 
@@ -333,11 +327,9 @@ Alang, India : 21 ~ 29 MAY | 3 ~ 11 June
 
 # Sub-Continent and Turkey ferrous scrap markets insight
 
-The ferrous scrap market exhibited mixed trends, with minor decreases of up to 2% observed in some regions. In South Asia, Indian buyers were more active compared to their counterparts in Pakistan and Bangladesh. Despite this, the overall market pace remained slow due to domestic market volatility and sluggish sales of finished steel products. In Pakistan, the gap between domestic and imported scrap prices kept buyers muted, while
+The ferrous scrap market exhibited mixed trends, with minor decreases of up to 2% observed in some regions. In South Asia, Indian buyers were more active compared to their counterparts in Pakistan and Bangladesh. Despite this, the overall market pace remained slow due to domestic market volatility and sluggish sales of finished steel products. In Pakistan, the gap between domestic and imported scrap prices kept buyers muted, while in Bangladesh, purchasing activity slowed as buyers awaited clearer price directions amid softening global scrap prices. In India, demand for imported scrap remained moderate as buyers engaged in needbased purchasing due to domestic market volatility. This volatility was driven by slow finished steel sales and ample stockpiles booked in the previous month. Shredded scrap offers from the US and Europe remained largely stable at around US$424-427/t CFR Nhava Sheva, while HMS (80:20) offers from Europe were unchanged at US$405/t CFR.
 
 ## Page 17
-
-in Bangladesh, purchasing activity slowed as buyers awaited clearer price directions amid softening global scrap prices. In India, demand for imported scrap remained moderate as buyers engaged in needbased purchasing due to domestic market volatility. This volatility was driven by slow finished steel sales and ample stockpiles booked in the previous month. Shredded scrap offers from the US and Europe remained largely stable at around US$424-427/t CFR Nhava Sheva, while HMS (80:20) offers from Europe were unchanged at US$405/t CFR.
 
 **Pakistani buyers remained inactive due to the significant gap between imported and**
 

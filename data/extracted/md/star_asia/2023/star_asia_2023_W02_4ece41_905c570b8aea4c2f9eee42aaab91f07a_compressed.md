@@ -104,11 +104,9 @@ The IEA states that the current global energy crisis is characterized by unprece
 
 Geopolitical and economic shockwaves are also starting to impact the global economy. Despite the various geopolitical events of the past few years, the future of world trade is still uncertain. Some experts argue that the global south is gaining ground in the geopolitical arena due to climate change, while others believe that protectionist policies in developed countries threaten the interests of less developed nations.
 
-The crisis was caused by the West's reliance on a despotic regime, and countries are now trying to address the situation by implementing protectionist policies, which are expected to limit the
+The crisis was caused by the West's reliance on a despotic regime, and countries are now trying to address the situation by implementing protectionist policies, which are expected to limit the participation of developing nations in world trade. One lesson from the European energy crisis is the importance of diversifying energy sources, but countries in the north are still choosing to limit their trading options. Countries should consider the reliability of their suppliers and other factors when making international trade decisions. In the tanker segment, there was a significant increase in ship buying and selling activity, reflecting the rebound of rates after a brief decrease. The majority of transactions start of the year were for M.R. vessels, which are expected to remain the main focus in the near term due to an impending trade restriction on clean Russian products.
 
 ## Page 5
-
-participation of developing nations in world trade. One lesson from the European energy crisis is the importance of diversifying energy sources, but countries in the north are still choosing to limit their trading options. Countries should consider the reliability of their suppliers and other factors when making international trade decisions. In the tanker segment, there was a significant increase in ship buying and selling activity, reflecting the rebound of rates after a brief decrease. The majority of transactions start of the year were for M.R. vessels, which are expected to remain the main focus in the near term due to an impending trade restriction on clean Russian products.
 
 ### VLCC:
 
@@ -292,11 +290,9 @@ Recycling activities have resumed their gradual journey, mainly for the smaller 
 
 Domestic prices of ship scrap remained stable at US$692/ton plates and 604/ton melting. However, such levels have not been reflected in the ship prices. The prevailing price gap between the ship prices and domestic prices remains wide as recyclers who can establish L.C.'s have to pay a premium to the banks with higher interest rates.
 
-The overall steel demand slowed down in Bangladesh as the government braked on the spending amid depleting foreign exchange and fears of the global recession. The priority
+The overall steel demand slowed down in Bangladesh as the government braked on the spending amid depleting foreign exchange and fears of the global recession. The priority remains conserving foreign exchange for the rainy day as the oil prices start to increase, driven by the optimism from Chinese demand post-COVID curbs.
 
 ## Page 13
-
-remains conserving foreign exchange for the rainy day as the oil prices start to increase, driven by the optimism from Chinese demand post-COVID curbs.
 
 ### Anchorage & Beaching Position (January 2023)
 

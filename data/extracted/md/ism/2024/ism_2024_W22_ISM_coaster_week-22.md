@@ -18,9 +18,7 @@ charts_count: 4
 
 ## Market Commentary
 
-The situation remains critical for ship owners working on the small-tonnage shipping market given long list of open vessels in almost every section. As expected, a barely noticeable upturn in shipments of Egyptian fertilizers and Russian steel had no impact
-
-on the overall market picture. Moreover, rates have sagged by another $0.5-2/t in the Mediterranean Sea by the end of the week. Thus, rates for shipment of 5-6,000 t of steels from Marmara to Algeria have already sagged to $27/t given 2,000x/800x l/d rates, while transportation costs of 10-12,000 t of urea from Arzew to Savona have inched down to $13-14/t.
+The situation remains critical for ship owners working on the small-tonnage shipping market given long list of open vessels in almost every section. As expected, a barely noticeable upturn in shipments of Egyptian fertilizers and Russian steel had no impact on the overall market picture. Moreover, rates have sagged by another $0.5-2/t in the Mediterranean Sea by the end of the week. Thus, rates for shipment of 5-6,000 t of steels from Marmara to Algeria have already sagged to $27/t given 2,000x/800x l/d rates, while transportation costs of 10-12,000 t of urea from Arzew to Savona have inched down to $13-14/t.
 
 Sea-river owners working from Russian Azov Sea ports also have to make concessions amid the shortage of spot grain and coal offers. Particularly acute shortage of cargoes is reported in the segment for 5-6k vessels: corresponding rates have decreased most noticeably, by $2-3/t (against the decline of $1- 2/t in the segment for about 3k dwt fleet).
 

@@ -26,7 +26,7 @@ Currently, the canal is almost exclusively used for one way traffic that moves i
 
 In 2014, a total of 15,302 laden vessels passed through the canal, 7,986 South bound and 7,316 North bound. This is an average of almost 42 vessels per day. 3,389 of these vessels where tankers (1,552 South bound and 1,837 North bound). Additionally, 1,846 vessels passed through in ballast condition (of which 664 were tankers).
 
-If more tankers can pass through the Suez Canal, tonnage
+If more tankers can pass through the Suez Canal, tonnage can be used more efficiently. A trip from Ras Tanura to LOOP is 12,300 miles (39 days at 13 knots) around the cape and 9,600 through the canal (31 days + 1 day for canal passage), representing savings of about 20%. The savings for voyages to NW Europe are even more significant: about 40%.
 
 *Chart: Fig. 1: Suez Canal Traffic*
 
@@ -35,8 +35,6 @@ If more tankers can pass through the Suez Canal, tonnage
 *Chart*
 
 *Source: Suez Canal Authorities*
-
-can be used more efficiently. A trip from Ras Tanura to LOOP is 12,300 miles (39 days at 13 knots) around the cape and 9,600 through the canal (31 days + 1 day for canal passage), representing savings of about 20%. The savings for voyages to NW Europe are even more significant: about 40%.
 
 The actual usage of the Suez Canal will be determined by the transit tolls, and the Egyptian authorities have not yet disclosed how they will manage the scheduling and pricing going forward. In any case, the expanded capacity allows the Canal Authorities to increase revenue by encouraging more tanker owners and charterers to use the canal rather than sail around the Cape.
 

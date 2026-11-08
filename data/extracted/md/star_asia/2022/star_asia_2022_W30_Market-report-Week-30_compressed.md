@@ -24,17 +24,9 @@ pages: 16
 
 ---
 
-This week, the U.S. Federal Reserve raised interest rates by 0.75% point for the second time
+This week, the U.S. Federal Reserve raised interest rates by 0.75% point for the second time in a row to combat inflation. This will mark the fourth increase this year to levels not seen since 2018. The Fed's last rate hike was the most significant since 1994. It was also the fastest increase in 40 years.
 
-in a row to combat inflation. This will mark the fourth increase this year to levels not seen
-
-since 2018. The Fed's last rate hike was the most significant since 1994. It was also the fastest
-
-increase in 40 years.
-
-I.M.F.'s official warning of a global recession also added to an anxious outlook, stating that
-
-the world might soon be on the verge of a global recession as the economies of the U.S.,
+I.M.F.'s official warning of a global recession also added to an anxious outlook, stating that the world might soon be on the verge of a global recession as the economies of the U.S.,
 
 China, and Europe slowed more steeply than expected.
 
@@ -42,43 +34,21 @@ The likelihood of a recession commencing in one of the G7 major countries was no
 
 15%, four times its average level. I.M.F. also said that several signs indicated that the United
 
-States was already in a "technical" recession, while some economists did not believe it fit the
+States was already in a "technical" recession, while some economists did not believe it fit the official criteria. The I.M.F. also cut its global growth expectations to 3.2% this year, down from
 
-official criteria. The I.M.F. also cut its global growth expectations to 3.2% this year, down from
+6.1% last year. Growth is anticipated to decline even further as central banks across the globe hike interest rates to combat inflation.
 
-6.1% last year. Growth is anticipated to decline even further as central banks across the globe
-
-hike interest rates to combat inflation.
-
-"The globe may soon be teetering on the brink of a global recession, barely two years after
-
-the previous one," warned the I.M.F.'s head economist, Pierre-Olivier Gourinchas. Simply put,
-
-the world economy's outlook is "increasingly bleak".
+"The globe may soon be teetering on the brink of a global recession, barely two years after the previous one," warned the I.M.F.'s head economist, Pierre-Olivier Gourinchas. Simply put, the world economy's outlook is "increasingly bleak".
 
 #### Dry Bulk
 
-The deal on July 22 will allow Ukraine to export about 65% of its grains through the Western ports of Odesa, Kharnoorsk, and Yuzhne. While these facilities have previously handled about
-
-two-thirds of the country's grain exports, this target volume of export will prove challenging, especially with the consequences of the invasion. The goal of the deal is to increase Ukraine's monthly grain exports by about 5 million tonnes. However, achieving this objective could be challenging since these ports have not been able to handle as much grain in the past five years. There are also concerns about the availability of seafarers and cover of insurance for the affected area. Ukraine is a major producer of oilseeds and grains. Its arable land accounts for over 55% of its land area, and it is responsible for over 40% of the country's total exports. In addition to the 22 million tonnes of grain that have been stranded in Ukraine, another 25 million tonnes are expected to be exported following the 2022 crop. This will require the country to transport the stored grain quickly to make room for the new crop.
+The deal on July 22 will allow Ukraine to export about 65% of its grains through the Western ports of Odesa, Kharnoorsk, and Yuzhne. While these facilities have previously handled about two-thirds of the country's grain exports, this target volume of export will prove challenging, especially with the consequences of the invasion. The goal of the deal is to increase Ukraine's monthly grain exports by about 5 million tonnes. However, achieving this objective could be challenging since these ports have not been able to handle as much grain in the past five years. There are also concerns about the availability of seafarers and cover of insurance for the affected area. Ukraine is a major producer of oilseeds and grains. Its arable land accounts for over 55% of its land area, and it is responsible for over 40% of the country's total exports. In addition to the 22 million tonnes of grain that have been stranded in Ukraine, another 25 million tonnes are expected to be exported following the 2022 crop. This will require the country to transport the stored grain quickly to make room for the new crop.
 
 ## Page 2
 
 #### Capesize:
 
-The market fell back following the previous week's surge due to the lack of demand and
-
-supply in the North Atlantic seas. Although the decline in the market is mainly due to the lack
-
-of freight, demurrage is still climbing from the increase in coal stockpiles at Rotterdam's coal
-
-port. ECSA f/h routes fell slightly, with levels seen in the region of US$ 40,750's. Despite the
-
-government's efforts to stimulate China's economy, the demand for commodities remained
-
-flat. Due to the heat waves and the damage caused by the flood in various areas, many steel
-
-mills are considering implementing production cuts of up to 2% in the next couple of months. Pacific r/v took a big discount as levels slipped to US$ 10,000's a day region.
+The market fell back following the previous week's surge due to the lack of demand and supply in the North Atlantic seas. Although the decline in the market is mainly due to the lack of freight, demurrage is still climbing from the increase in coal stockpiles at Rotterdam's coal port. ECSA f/h routes fell slightly, with levels seen in the region of US$ 40,750's. Despite the government's efforts to stimulate China's economy, the demand for commodities remained flat. Due to the heat waves and the damage caused by the flood in various areas, many steel mills are considering implementing production cuts of up to 2% in the next couple of months. Pacific r/v took a big discount as levels slipped to US$ 10,000's a day region.
 
 #### Panamax / Kamsarmax:
 
@@ -92,13 +62,7 @@ The market's resilience to the month-long downturn has become firmer, and insigh
 
 The sentiment in the Pacific was negative as abundant prompt supply pressured overall rates.
 
-Inter-Pacific saw rates in the levels of US$ 18,500's at closing while Pacific r/v at US$19,200 a
-
-day. In the Atlantic, it did not fare better. Levels overall fell from the weaker spot market and a
-
-lengthening list. T/A levels were seen at US$17,975 a day. Overall, the outlook in most
-
-regions declined. In the Western Med, similar tones were noted from a lack of enquiries.
+Inter-Pacific saw rates in the levels of US$ 18,500's at closing while Pacific r/v at US$19,200 a day. In the Atlantic, it did not fare better. Levels overall fell from the weaker spot market and a lengthening list. T/A levels were seen at US$17,975 a day. Overall, the outlook in most regions declined. In the Western Med, similar tones were noted from a lack of enquiries.
 
 ## Page 3
 
@@ -149,11 +113,9 @@ regions declined. In the Western Med, similar tones were noted from a lack of en
 
 # Tankers
 
-Concerns have been voiced regarding the global economy's growth prospects as a result of the crisis in Ukraine. It has also had an impact on the European Union's financial transactions and economic relations with Russia. Since the pause of the Nord Stream pipeline, Russia's natural gas exports to the E.U. are now suffering a reduction. E.U. is currently experiencing a partial cutback in natural gas supplies from Russia, and the situation is raising concerns about the potential impact on the global economy and the supply of natural gas. Despite the rapid response by the government, overall, they lack a clear understanding of how to minimise the impact of the situation. Meanwhile, the officials of Saudi Arabia and Russia, who lead the OPEC+ alliance, have reiterated their commitment to maintaining a stable oil market during a meeting in Riyadh. According to a statement posted by the Russian government, the two countries are working toward achieving this objective. This is their first direct talk since June, which came ahead of the meeting of the group's members and their allies on September 3. The Energy Ministry of Saudi Arabia confirmed the meeting in a statement. It said the officials discussed the progress of the joint committee's work. They also talked about the opportunities for cooperation. The meeting between Novak and Saudi Energy Minister Khalid Al-Falih was held following a phone call between Russian President Vladimir Putin and Saudi Crown Prince Mohammad
+Concerns have been voiced regarding the global economy's growth prospects as a result of the crisis in Ukraine. It has also had an impact on the European Union's financial transactions and economic relations with Russia. Since the pause of the Nord Stream pipeline, Russia's natural gas exports to the E.U. are now suffering a reduction. E.U. is currently experiencing a partial cutback in natural gas supplies from Russia, and the situation is raising concerns about the potential impact on the global economy and the supply of natural gas. Despite the rapid response by the government, overall, they lack a clear understanding of how to minimise the impact of the situation. Meanwhile, the officials of Saudi Arabia and Russia, who lead the OPEC+ alliance, have reiterated their commitment to maintaining a stable oil market during a meeting in Riyadh. According to a statement posted by the Russian government, the two countries are working toward achieving this objective. This is their first direct talk since June, which came ahead of the meeting of the group's members and their allies on September 3. The Energy Ministry of Saudi Arabia confirmed the meeting in a statement. It said the officials discussed the progress of the joint committee's work. They also talked about the opportunities for cooperation. The meeting between Novak and Saudi Energy Minister Khalid Al-Falih was held following a phone call between Russian President Vladimir Putin and Saudi Crown Prince Mohammad bin Salman. This was the first time that the two officials held a direct conversation.
 
 ## Page 5
-
-bin Salman. This was the first time that the two officials held a direct conversation.
 
 #### VLCC:
 
@@ -232,13 +194,7 @@ ASTRO POLARIS / SUEZ / 2004 S. KOREA 21.5 EACH CHINESE BUYERS ASTRO PHOENIX 159,
 
 Despite the slow start to the year, it is still early to forecast the end of the 2022 peak season.
 
-However, the signs of market weakness are hard to miss, such as the precipitous decline in
-
-the spot rates and the lack of demand. To wrap up, the July freight rate hike was the lowest
-
-since January, as weakening spot rates across major trades place strains on long-term
-
-contracts. Volumes on many corridors fell with European imports down 3% and exports 6%.
+However, the signs of market weakness are hard to miss, such as the precipitous decline in the spot rates and the lack of demand. To wrap up, the July freight rate hike was the lowest since January, as weakening spot rates across major trades place strains on long-term contracts. Volumes on many corridors fell with European imports down 3% and exports 6%.
 
 Despite the overall decline in volumes, owners remain fairly optimistic.
 

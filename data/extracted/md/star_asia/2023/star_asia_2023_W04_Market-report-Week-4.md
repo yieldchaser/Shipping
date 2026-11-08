@@ -298,11 +298,9 @@ The steep devaluation occurred after the government removed an unofficial cap on
 
 The country's foreign exchange reserves have depleted to a critical level, falling to US$3.67 billion in the week ending on January 20. This is not enough to finance even three weeks of imports.
 
-The next few months will be critical for Pakistan as a substantial amount of remittances are expected to flow into the country through formal channels, which may help to stabilize the country's foreign exchange reserves and the value of the PKR. However, the government's "complex" policies may be contributing to the devaluation of the rupee, and there may be challenges in stabilizing the economy and protecting the poor. Additionally, there is a need to
+The next few months will be critical for Pakistan as a substantial amount of remittances are expected to flow into the country through formal channels, which may help to stabilize the country's foreign exchange reserves and the value of the PKR. However, the government's "complex" policies may be contributing to the devaluation of the rupee, and there may be challenges in stabilizing the economy and protecting the poor. Additionally, there is a need to complete the ninth review of a US$7bn IMF program in order to unlock inflows from friendly countries and other multilateral lenders. Ship buying has come to a complete halt now, and market experts believe that the situation will take longer than expected to resume. Pakistan-based re-rollers have also hiked their cold rolled and galvanized coil offers due to a lack of raw materials and delays in opening letters of credit for imports caused by a dollar shortage. Mills have raised their cold rolled coils (CRC) quotes by PKR 10,000/ton (US$43.19), effective on January 25.
 
 ## Page 13
-
-complete the ninth review of a US$7bn IMF program in order to unlock inflows from friendly countries and other multilateral lenders. Ship buying has come to a complete halt now, and market experts believe that the situation will take longer than expected to resume. Pakistan-based re-rollers have also hiked their cold rolled and galvanized coil offers due to a lack of raw materials and delays in opening letters of credit for imports caused by a dollar shortage. Mills have raised their cold rolled coils (CRC) quotes by PKR 10,000/ton (US$43.19), effective on January 25.
 
 ### Anchorage & Beaching Position (January 2023)
 

@@ -26,13 +26,11 @@ Today, the Brent contango is relatively small. The premium for both the one-mont
 
 It is interesting to note the pronounced backwardation in early June 2014 and the contango of December 2008. At that time, there was an $8.03 per barrel premium for a 6-month forward contract. At that time, crude oil was also $40.81 per barrel! The steep contango resulted from the near-term price collapse in oil, but the general recognition that prices would recover over time. To the tanker market, these price differentials of $5.00-$8.00 per barrel justified the economics of hiring vessels for floating storage -- lots of them. At one point, between 40-50 VLCCs were reported as floating storage.
 
-When evaluating the use of tankers as floating storage, here are the costs to consider: daily hire of the vessel, carrying cost of holding the oil cargo, insurance, and operating expense or fuel for the ship (depending on the charter arrangement.) It seems
+When evaluating the use of tankers as floating storage, here are the costs to consider: daily hire of the vessel, carrying cost of holding the oil cargo, insurance, and operating expense or fuel for the ship (depending on the charter arrangement.) It seems unlikely that the nascent, if budding, contango of today, at a mere $1.00 per barrel, could warrant the expense and effort associated with hiring a vessel expressly for floating storage.
 
 *Chart: Fig. 1 Brent Crude Oil Prices – Forward Price Minus Spot Price*
 
 *Source: Bloomberg*
-
-unlikely that the nascent, if budding, contango of today, at a mere $1.00 per barrel, could warrant the expense and effort associated with hiring a vessel expressly for floating storage.
 
 Instead, what is likely to happen is that oil companies with barrels on the water might exercise floating storage clauses (which are common in many charter parties) or simply sit the vessel and incur demurrage. If more ships are in storage, key markets, like the Arabian Gulf, could experience shortened tonnage availability in the coming months.
 

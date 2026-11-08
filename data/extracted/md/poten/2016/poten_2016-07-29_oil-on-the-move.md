@@ -26,7 +26,7 @@ Another strong growth area, although less important to the tanker market due to 
 
 Exports from West Africa to Asia declined by 16 voyages as more West African crude oil was shipped to North America, where declining production and the narrowing WTI-Brent spread (due to lifting of the export ban) led to increasing imports while production outages in Nigeria reduced the available crude volumes. This had a negative impact on VLCCs as the increased exports to the Atlantic basin were mostly performed on Suezmax tonnage.
 
-Long haul trade on the AG - West route increased by 32 voyages over the 6 month period, predominantly due to more voyages to the U.S. Gulf from Iraq and several European countries resuming imports from Iran. In contrast, cargoes from the Caribbean to Asia declined, which explains the
+Long haul trade on the AG - West route increased by 32 voyages over the 6 month period, predominantly due to more voyages to the U.S. Gulf from Iraq and several European countries resuming imports from Iran. In contrast, cargoes from the Caribbean to Asia declined, which explains the softening Caribbean VLCC rates.
 
 *Chart: Fig. 1: VLCC Voyages 1st Half 2015 vs 2016*
 
@@ -35,8 +35,6 @@ Long haul trade on the AG - West route increased by 32 voyages over the 6 month 
 *Chart: Fig. 2: Spot Fixtures vs Unreported Voyages For Selected Routes*
 
 *Source: Apex, Poten*
-
-softening Caribbean VLCC rates.
 
 It is interesting to see how the overall trade data compares to Poten’s fixture data. For the first half of 2016, Poten recorded 986 spot market fixtures, 15 more than in the same period in 2015. This is about 41% of the world wide voyages registered in Apex. This means that almost 60% of the worldwide voyages are performed on owned or time chartered in-tonnage or the fixtures are kept private. 462 fixtures were reported for AG – East against 1,153 total voyages, representing about 40%.
 

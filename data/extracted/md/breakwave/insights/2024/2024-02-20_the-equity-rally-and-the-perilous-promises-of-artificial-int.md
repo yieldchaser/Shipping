@@ -40,9 +40,7 @@ The bond market is now pricing in 3.5 cuts later in the year, a far cry from the
 
 The equity market corrected a bit, but this didn’t last long. A 2% intra-day drop was limited to -1.44% by the end of the session, and bullishness resumed thereafter. The S&P 500 is roughly where it was before the CPI announcement.
 
-Having said that, bond markets never really found their way to December’s bullishness, and are now down more than 2% for the year…
-
-despite the fact that credit spreads remain relatively tight.
+Having said that, bond markets never really found their way to December’s bullishness, and are now down more than 2% for the year… despite the fact that credit spreads remain relatively tight.
 
 There’s no other way to read this, other than the market simply being in a bullish mood. If anyone has any doubts, Bitcoin (a bellwether of optimism if there has ever been one) is trading back above $50k.
 

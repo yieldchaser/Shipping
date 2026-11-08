@@ -28,25 +28,17 @@ We would like to wish all our readers a Happy New Year and thank you for your co
 
 ### Dry Bulk
 
-In December, China's economy experienced further slowing due to the widespread Covid-19 outbreak, with activity decreasing as more people stayed home to avoid getting sick or to recover. Early indicators revealed a contraction in activity in December, following a weak pace in November, and the outlook for the new year is bleak. Before the restrictions were lifted, China's economy was already facing difficulties, with a decline in consumer spending and slower industrial output. The spread of the virus
+In December, China's economy experienced further slowing due to the widespread Covid-19 outbreak, with activity decreasing as more people stayed home to avoid getting sick or to recover. Early indicators revealed a contraction in activity in December, following a weak pace in November, and the outlook for the new year is bleak. Before the restrictions were lifted, China's economy was already facing difficulties, with a decline in consumer spending and slower industrial output. The spread of the virus throughout China has dampened the initial optimism seen in the stock and commodity markets upon reopening. The Shanghai Composite Index has dropped near the level it was at before restrictions were relaxed on November 11 and have fallen for the past two weeks. The price of iron ore is also expected to decline due to the increase in Covid cases, which has raised concerns about near-term demand and undermined the impact of recent support for the real estate sector. Chinese steel mills are reducing production, and data from an industry association reveals that output has fallen and stockpiles have increased in the middle of this month.
 
 ## Page 2
-
-throughout China has dampened the initial optimism seen in the stock and commodity markets upon reopening. The Shanghai Composite Index has dropped near the level it was at before restrictions were relaxed on November 11 and have fallen for the past two weeks. The price of iron ore is also expected to decline due to the increase in Covid cases, which has raised concerns about near-term demand and undermined the impact of recent support for the real estate sector. Chinese steel mills are reducing production, and data from an industry association reveals that output has fallen and stockpiles have increased in the middle of this month.
 
 Australia established diplomatic relations with China 50 years ago, and despite past tensions, the recent visit by China's Foreign Minister, Wang Yi, to Australia could be a turning point. Before the sanctions, the two countries had a two-way trade worth US$280 billion, but as relations deteriorated, both nations sought new markets for their imports and exports. While China has become increasingly isolated in their foreign relations, Australia will find it hard to ignore that no nation has the hunger or appetite for natural resources as China does. It is too early to know if relations will improve, but many remain hopeful.
 
 ### Capesize:
 
-This week saw limited activity, with most Pacific-bound ships choosing to remain in the Pacific
+This week saw limited activity, with most Pacific-bound ships choosing to remain in the Pacific instead of sailing to the Atlantic, leading to a decrease in ship supply in the region. This is part of a plan to stock up on iron ore before the Chinese New Year break starting on January
 
-instead of sailing to the Atlantic, leading to a decrease in ship supply in the region. This is
-
-part of a plan to stock up on iron ore before the Chinese New Year break starting on January
-
-21. While there is some activity in the Far East, it is mostly subdued, with more activity
-
-expected to start in the new year.
+21. While there is some activity in the Far East, it is mostly subdued, with more activity expected to start in the new year.
 
 ### Panamax / Kamsarmax:
 
@@ -60,9 +52,7 @@ Last week saw saw owners in the Pacific eager to secure deals before the holiday
 
 ### Handysize:
 
-Handy markets witness the same sentiments as the bigger counterparts. Not much to report
-
-on this week with biggest decline mostly in the Atlantic basins. The Pacific remain stagnant with many waiting till the New Year to resume activities.
+Handy markets witness the same sentiments as the bigger counterparts. Not much to report on this week with biggest decline mostly in the Atlantic basins. The Pacific remain stagnant with many waiting till the New Year to resume activities.
 
 # Dry Bulk - S&P Report
 
@@ -112,23 +102,11 @@ The decision to reduce exports of palm oil led to an increase in prices in Kuala
 
 Meanwhile, Oil is set to end the year slightly higher, with investors anticipating an increase in
 
-Chinese demand next year and preparing for the possibility of reduced Russian crude oil
+Chinese demand next year and preparing for the possibility of reduced Russian crude oil availability.
 
-availability.
+WTI futures rose towards US$79 per barrel in the last session of 2022 and are up almost 5% for the year. While China is currently facing a surge in virus cases and there are concerns about a new global outbreak, there is optimism that demand will eventually recover in the world's largest crude oil importer.
 
-WTI futures rose towards US$79 per barrel in the last session of 2022 and are up almost 5%
-
-for the year. While China is currently facing a surge in virus cases and there are concerns
-
-about a new global outbreak, there is optimism that demand will eventually recover in the
-
-world's largest crude oil importer.
-
-Traders are also monitoring Russia's response to sanctions on its energy exports following
-
-the conflict in Ukraine. An export ban on the OPEC+ producer's refined petroleum products
-
-will take effect at the beginning of next year.
+Traders are also monitoring Russia's response to sanctions on its energy exports following the conflict in Ukraine. An export ban on the OPEC+ producer's refined petroleum products will take effect at the beginning of next year.
 
 ### VLCC:
 
@@ -192,19 +170,7 @@ Not much to report in either the East or West. Many are waiting till the New Yea
 
 # Containers
 
-The container market has seen some of the biggest whirlwinds this year in terms of market
-
-rates. Many owners are expected to offload their vintage units, with Greek owner Euroseas
-
-selling their post panamax 2001 unit for US$14.2 mil. With the year-end in sight, NCFI
-
-published by the Ningbo Shipping Exchange (NBSE) showed 796.7 points, a slight decrease
-
-of 2.4% compared to the previous week. Of the 21 selected routes, three showed an upward
-
-trend, while the remaining 18 declined. A Similar was noted in the Europe - Med routes, with
-
-steadily declining freight rates.
+The container market has seen some of the biggest whirlwinds this year in terms of market rates. Many owners are expected to offload their vintage units, with Greek owner Euroseas selling their post panamax 2001 unit for US$14.2 mil. With the year-end in sight, NCFI published by the Ningbo Shipping Exchange (NBSE) showed 796.7 points, a slight decrease of 2.4% compared to the previous week. Of the 21 selected routes, three showed an upward trend, while the remaining 18 declined. A Similar was noted in the Europe - Med routes, with steadily declining freight rates.
 
 # Containers S&P Report
 
@@ -287,11 +253,9 @@ GEN. CARGO 460 DELVIERED CHATTOGRAM
 
 # Insight
 
-It has been one of the most exciting years for the ship recycling industry in the Indian subcontinent, wherein the prices have fluctuated by about 36% from January to December. The upside in the prices seen for a typical ship was region US$680 ~ 700/ first quarter of 2022 and saw the lowest at US$480 ~ 500/ton, an apparent US$200/ton decrease within the same year. Complex issues and risks in 2022 have not gone away and uncertainties of 2022 seem to be carried forward in 2023 for the initial period. Bangladesh technically ceased purchasing this year and took a pause, leaving markets stunned. The only saving grace in avoiding a free fall in prices as a result of these dramatic
+It has been one of the most exciting years for the ship recycling industry in the Indian subcontinent, wherein the prices have fluctuated by about 36% from January to December. The upside in the prices seen for a typical ship was region US$680 ~ 700/ first quarter of 2022 and saw the lowest at US$480 ~ 500/ton, an apparent US$200/ton decrease within the same year. Complex issues and risks in 2022 have not gone away and uncertainties of 2022 seem to be carried forward in 2023 for the initial period. Bangladesh technically ceased purchasing this year and took a pause, leaving markets stunned. The only saving grace in avoiding a free fall in prices as a result of these dramatic changes was a shortage of ship supply. Now, as the year comes to a close, Pakistan will likely follow suit, with the possibility of a pause from Gaddani recyclers due to banks conserving foreign exchange. As we advance, ship recycling prices should become even more volatile, as price directions will be determined by how long the Bangladesh and Pakistan markets remain muted with ship supply easing. In general, the market participants believe that 2023 will be the year of rebalancing, with rates returning to pre-COVID levels. Elsewhere, in Europe and the U.S., the demand for scrap remained subdued, but the prices of semi-finished and finished steel products saw momentum, with prices recovering. Harsh winters are also playing a vital role in scrap trades as the collection slows down. In China, a major shift in the Zero COVID policy lately added optimism, and to further optimise the time lost, China has been hinting that they would take extraordinary measures to stimulate growth to revive the ailing economy quickly, especially in the manufacturing and real estate sectors.
 
 ## Page 11
-
-changes was a shortage of ship supply. Now, as the year comes to a close, Pakistan will likely follow suit, with the possibility of a pause from Gaddani recyclers due to banks conserving foreign exchange. As we advance, ship recycling prices should become even more volatile, as price directions will be determined by how long the Bangladesh and Pakistan markets remain muted with ship supply easing. In general, the market participants believe that 2023 will be the year of rebalancing, with rates returning to pre-COVID levels. Elsewhere, in Europe and the U.S., the demand for scrap remained subdued, but the prices of semi-finished and finished steel products saw momentum, with prices recovering. Harsh winters are also playing a vital role in scrap trades as the collection slows down. In China, a major shift in the Zero COVID policy lately added optimism, and to further optimise the time lost, China has been hinting that they would take extraordinary measures to stimulate growth to revive the ailing economy quickly, especially in the manufacturing and real estate sectors.
 
 ### ALANG, INDIA
 

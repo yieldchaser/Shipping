@@ -34,11 +34,9 @@ Pacific markets gained strength this week as increased iron ore shipments from W
 
 Panamax/Kamsarmax:
 
-Atlantic basin posted gains this week as the South American routes saw robust fixture activity, with solid market sentiment supporting the upward momentum. The increased contracting activity provided a strong foundation for rate improvements across the basin. Brazil r/v ended the week at US$13,500's a day. Pacific on the other hand faced a different dynamic, with both vessel supply and cargo availability remaining limited. Supramax/Ultramax: Atlantic markets maintained a subdued tone this week as the 4th of July holiday kept activity levels muted, resulting in flat rate across the basin. Pacific showed more
+Atlantic basin posted gains this week as the South American routes saw robust fixture activity, with solid market sentiment supporting the upward momentum. The increased contracting activity provided a strong foundation for rate improvements across the basin. Brazil r/v ended the week at US$13,500's a day. Pacific on the other hand faced a different dynamic, with both vessel supply and cargo availability remaining limited. Supramax/Ultramax: Atlantic markets maintained a subdued tone this week as the 4th of July holiday kept activity levels muted, resulting in flat rate across the basin. Pacific showed more resilience despite sideways movement in North Asia, with steady coal cargo flows from SE Asia providing underlying support. Pacific - India ended the week
 
 ## Page 3
-
-resilience despite sideways movement in North Asia, with steady coal cargo flows from SE Asia providing underlying support. Pacific - India ended the week
 
 Handysize:
 
@@ -208,11 +206,9 @@ Ship recycling markets across the Subcontinent are in a state of transition foll
 
 Alang
 
-Ship recycling markets remained quiet this week, with activity subdued due to ongoing monsoon disruptions across the Subcontinent. After weeks of continuous decline,
+Ship recycling markets remained quiet this week, with activity subdued due to ongoing monsoon disruptions across the Subcontinent. After weeks of continuous decline, domestic ship scrap prices have shown a slight uptick, offering a sense of stability and raising hopes that the market may have found a temporary bottom. Industry experts suggest that current pricing levels are likely to hold steady in the near term. The market appears to have reached a stalemate, with limited movement expected until buyers particularly in Bangladesh and Pakistan, fully adapt to the new regulatory processes under the Hong Kong Convention (HKC). Until then, the outlook remains cautious but stable.
 
 ## Page 14
-
-domestic ship scrap prices have shown a slight uptick, offering a sense of stability and raising hopes that the market may have found a temporary bottom. Industry experts suggest that current pricing levels are likely to hold steady in the near term. The market appears to have reached a stalemate, with limited movement expected until buyers particularly in Bangladesh and Pakistan, fully adapt to the new regulatory processes under the Hong Kong Convention (HKC). Until then, the outlook remains cautious but stable.
 
 Anchorage & Beaching Position (JULY 2025)
 
@@ -238,11 +234,9 @@ Anchorage & Beaching Position (JULY 2025)
 
 Gadani
 
-This week, the Balochistan Development Authority has announced a fundamental transformation of Pakistan's ship recycling sector following HKC ratification, with the
+This week, the Balochistan Development Authority has announced a fundamental transformation of Pakistan's ship recycling sector following HKC ratification, with the approval of the Safe and Environmentally Sound Recycling of Ships Bill 2025 effectively restricting operations to approximately seven to eight compliant breakers only-a dramatic consolidation from the industry's previous structure. Nine Gaddani yards have achieved over 90% compliance with required physical and procedural measures, supported by critical infrastructure development including a One- Window Facilitation Center, improved road connections, and a new Storage and Disposal Facility for hazardous waste management. While the authority targets 100% HKC compliance by mid-2026 and has established interim authorization processes for facilities demonstrating progress, this regulatory transformation will likely impact market dynamics, pricing structures, and processing timelines as the significantly reduced operational capacity adapts to the new compliance framework, positioning Pakistan as a leading compliant ship recycling cluster globally. Sentiments in the market remain weak, with not much activity to report.
 
 ## Page 15
-
-approval of the Safe and Environmentally Sound Recycling of Ships Bill 2025 effectively restricting operations to approximately seven to eight compliant breakers only-a dramatic consolidation from the industry's previous structure. Nine Gaddani yards have achieved over 90% compliance with required physical and procedural measures, supported by critical infrastructure development including a One- Window Facilitation Center, improved road connections, and a new Storage and Disposal Facility for hazardous waste management. While the authority targets 100% HKC compliance by mid-2026 and has established interim authorization processes for facilities demonstrating progress, this regulatory transformation will likely impact market dynamics, pricing structures, and processing timelines as the significantly reduced operational capacity adapts to the new compliance framework, positioning Pakistan as a leading compliant ship recycling cluster globally. Sentiments in the market remain weak, with not much activity to report.
 
 Anchorage & Beaching Position (JULY 2025)
 

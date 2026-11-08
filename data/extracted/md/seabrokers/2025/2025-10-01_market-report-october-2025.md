@@ -547,9 +547,7 @@ While investment will be halted, they will not relinquish the Beacon lease, as t
 
 Maersk Offshore Wind is pursuing arbitration following the company issuing a termination notice for the construction of the wind turbine installation vessel (WTIV) Sturgeon.
 
-At the time of the cancellation on October 10th, 2025, the newbuild was 98.9 per cent complete at Seatrium's Tuas Boulevard Yard in Singapore. Seatrium rejected the termination on October 12th, stating that the newbuild would be delivered by January 30th, 2026. On October 21st, 2025, Seatrium received a notice of arbitration from Maersk, which claims disputes have arisen without specifying details. Seatrium
-
-is seeking legal advice and plans to defend its position against any claims from Maersk.
+At the time of the cancellation on October 10th, 2025, the newbuild was 98.9 per cent complete at Seatrium's Tuas Boulevard Yard in Singapore. Seatrium rejected the termination on October 12th, stating that the newbuild would be delivered by January 30th, 2026. On October 21st, 2025, Seatrium received a notice of arbitration from Maersk, which claims disputes have arisen without specifying details. Seatrium is seeking legal advice and plans to defend its position against any claims from Maersk.
 
 The newbuild has a cost of USD 475 million and was ordered in March 2022. The Sturgeon features a Jones Act-approved design with an encircling-leg crane capable of lifting 1,900 tonnes and reaching a height of 180 metres above the deck, allowing for the installation of wind turbines with capacities of 20 MW and above. The WTIV was planned to utilise a new feeder solution to install the turbines on Equinor's 810 MW Empire Wind project, as well as other USA wind farm developments.
 

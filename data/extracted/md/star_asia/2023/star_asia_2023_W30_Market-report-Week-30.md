@@ -26,11 +26,9 @@ Chairman Powell stated after the meeting that reducing inflation would require a
 
 # Dry Bulk
 
-China's recent economic data has been disappointing, indicating slower growth in the second quarter and weaker industrial indicators. This has raised concerns about a potential economic downturn, contrasting with earlier high growth expectations. The real estate sector is a major obstacle, with fewer properties sold and lower home prices than
+China's recent economic data has been disappointing, indicating slower growth in the second quarter and weaker industrial indicators. This has raised concerns about a potential economic downturn, contrasting with earlier high growth expectations. The real estate sector is a major obstacle, with fewer properties sold and lower home prices than before. This has led to hopes for stimulus measures, but any actions are expected to be targeted and limited, with a modest impact in the short term. The main challenge lies in the lack of demand, both domestically and internationally. Without a significant stimulus program, the Chinese economy is likely to maintain its soft trajectory. In the commodity market, trade is gradually returning to normal, with the focus shifting back to traditional demand and supply dynamics that impact dry bulk profitability. Demand will be a crucial factor influencing spot freight rates, as fleet supply growth remains minimal for the next few years.
 
 ## Page 2
-
-before. This has led to hopes for stimulus measures, but any actions are expected to be targeted and limited, with a modest impact in the short term. The main challenge lies in the lack of demand, both domestically and internationally. Without a significant stimulus program, the Chinese economy is likely to maintain its soft trajectory. In the commodity market, trade is gradually returning to normal, with the focus shifting back to traditional demand and supply dynamics that impact dry bulk profitability. Demand will be a crucial factor influencing spot freight rates, as fleet supply growth remains minimal for the next few years.
 
 Capesize:
 
@@ -271,11 +269,9 @@ Anchorage & Beaching Position (July 2023)
 
 Gaddani, Pakistan
 
-After a prolonged wait of more than seven months, there is finally some positive news from the Gaddani ship recyclers. They have recently entered the market, screening out the
+After a prolonged wait of more than seven months, there is finally some positive news from the Gaddani ship recyclers. They have recently entered the market, screening out the availability of ships at the Alang comparative levels. Although this development is encouraging, it is important to note that the resumption of activities is cautious and highly selective, with only a limited number of banks in discussions to issue the much-awaited L.C's on certain conditions. While this initial step indicates a potential reopening of the markets in the near future, it is important to keep a close eye on how things progress in the coming weeks. The situation remains dynamic, and recyclers will closely monitor the developments in international ferrous scrap prices, especially the imported shredded scrap, to see how they can base their pricing on ships in the coming days.
 
 ## Page 14
-
-availability of ships at the Alang comparative levels. Although this development is encouraging, it is important to note that the resumption of activities is cautious and highly selective, with only a limited number of banks in discussions to issue the much-awaited L.C's on certain conditions. While this initial step indicates a potential reopening of the markets in the near future, it is important to keep a close eye on how things progress in the coming weeks. The situation remains dynamic, and recyclers will closely monitor the developments in international ferrous scrap prices, especially the imported shredded scrap, to see how they can base their pricing on ships in the coming days.
 
 Anchorage & Beaching Position (July 2023)
 

@@ -24,7 +24,7 @@ Restricting cross-border pipelines from Canada to the U.S. will pose more challe
 
 Canadian producers, on the other hand, will be facing growing challenges bringing their crude oil to market. Canadian oil production, 90% of which comes from Western Canada (Alberta, Saskatchewan, Manitoba and British Columbia), reached 5.8 Mb/d in December 2019. Production declines and transportation restrictions resulting from Covid-19, temporarily reduced output to below 5 Mb/d. However, the EIA estimates that Canadian production did already recover to pre-Covid levels by the end of 2020 and is expected to exceed 2019 levels in 2022 (Chart 1). Some analysts and company executives expect even more expansion. Enbridge forecasts an additional 1.0 Mb/d through the 2020s. On that basis, significant additional takeaway capacity is needed.
 
-Even if no new capacity can be added, some of the existing pipeline networks can be expanded by adding pumps and/or
+Even if no new capacity can be added, some of the existing pipeline networks can be expanded by adding pumps and/or using more drag-reducing agents. Another tried and tested method of moving oil over long distances is by rail, and both Canadian producers and the North American rail conglomerates are highly experienced users of crude by rail. Although it is more expensive that pipelines, it offers flexibility and provides significant spare transportation capacity. As Chart 2 shows, Canada exported more than 400,000 b/d of crude oil by rail in the early months of 2020. This capacity is still available and can be brought back online fairly quickly.
 
 *Chart: Canada: Crude Oil Production*
 
@@ -33,8 +33,6 @@ Even if no new capacity can be added, some of the existing pipeline networks can
 *Chart*
 
 *Source: Canada Energy Regulator*
-
-using more drag-reducing agents. Another tried and tested method of moving oil over long distances is by rail, and both Canadian producers and the North American rail conglomerates are highly experienced users of crude by rail. Although it is more expensive that pipelines, it offers flexibility and provides significant spare transportation capacity. As Chart 2 shows, Canada exported more than 400,000 b/d of crude oil by rail in the early months of 2020. This capacity is still available and can be brought back online fairly quickly.
 
 The policies of the Biden administration towards the fossil fuel industry and their focus on addressing climate change means that most of the additional production out of Canada will be headed for the export markets outside of the U.S. Asian markets, in particular China, can be reached via shipments through the Trans Mountain pipeline (expanded to 890,000 b/d when finished by the end of 2022). Another outlet for Canadian crude would be the U.S. Gulf. Plans to reverse the flow of the Capline pipeline will give Canadian crude greater access to refiners and export terminals along the Gulf Coast. Initial capacity will be 300,000 b/d. Exports from there could also target Asia (on VLCCs) and/or Europe (on Aframaxes/Suezmaxes). Chances are that the tanker industry will benefit from more Canadian crude, one way or another.
 

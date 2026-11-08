@@ -395,6 +395,14 @@ def process_filing(
     except Exception as e:
         print(f"[WARN] Table repair skipped for {filename}: {e}")
 
+    # Rejoin sentences cut into separate paragraphs at printed line / page ends (text unchanged, asserted)
+    try:
+        sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+        from md_cleanup.join_wrapped_paragraphs import join_wrapped
+        full_markdown, _ = join_wrapped(full_markdown)
+    except Exception as e:
+        print(f"[WARN] Paragraph rejoin skipped for {filename}: {e}")
+
     # Write final markdown file atomically to corpus and extracted mirrors
     temp_path = target_path.with_suffix(".tmp")
     try:

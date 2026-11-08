@@ -24,7 +24,7 @@ India has outperformed China in demand growth in 2016: China’s clean product d
 
 Middle distillates are the primary export commodity with exports of 550 kb/d in 2016 (42% of the clean product commodities) followed by gasoline with 0.40 Mb/d (31%). In 2015, Indian exports dropped temporarily after India freed their diesel pricing policy in October of 2014, improving the competitiveness of private refiners with state owned refiners who were previously selling at subsidized rates. In October 2014, India was exporting about 677 Kb/d and by April 2015, exports had fallen to 340 Kb/d, but started recovering thereafter and JODI now shows exports back at levels similar to the first half of 2014. Exports of other products also stagnated in 2015 but recovered in 2016.
 
-A similar trend can be seen in the Long Range (LR) tanker trades from India (see figure 2). Lloyds Shipping Intelligence
+A similar trend can be seen in the Long Range (LR) tanker trades from India (see figure 2). Lloyds Shipping Intelligence estimates that over the first 9 months of 2016, LR tankers exported 25.2 Million tonnes (Mt) of clean products compared to 21.1 Mt in the same period in 2015. The main destinations of these exports were Asian countries with 7.7 Mt in 2016, with Singapore accounting for 45% of these exports. The second largest destination is the Middle East & East Africa with 6.9 Mt followed by the Mediterranean with 4.3 Mt.
 
 *Chart: Fig. 1: Indian Product Tanker Commodities: Refining Output vs Demand and Exports*
 
@@ -33,8 +33,6 @@ A similar trend can be seen in the Long Range (LR) tanker trades from India (see
 *Chart: Fig. 2: Long Range Tanker Clean Product Exports from India by Destination*
 
 *Source: Lloyds List Intelligence*
-
-estimates that over the first 9 months of 2016, LR tankers exported 25.2 Million tonnes (Mt) of clean products compared to 21.1 Mt in the same period in 2015. The main destinations of these exports were Asian countries with 7.7 Mt in 2016, with Singapore accounting for 45% of these exports. The second largest destination is the Middle East & East Africa with 6.9 Mt followed by the Mediterranean with 4.3 Mt.
 
 So far, product exports have not suffered from growing domestic demand as refinery output growth has exceeded domestic demand growth. While China’s state owned refineries expanded to satisfy domestic demand growth, Indian refining capacity has expanded with privately held refineries with a strong export focus. The refineries are located close to abundant crude supplies, but further from the product demand centres. The foreign investors that acquired Essar Oil, will most likely support this trend into the future and could fund further refinery expansions. This should support the Long Range tanker market.
 

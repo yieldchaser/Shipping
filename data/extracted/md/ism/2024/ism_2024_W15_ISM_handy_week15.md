@@ -20,9 +20,7 @@ charts_count: 4
 
 The Atlantic Supramax/Ultramax shipping market continues to weaken in all parts of the basin. Despite some increase in cargo offer from both ECSA and USG ports compared to last week, competition from much cheaper Panamax fleet put pressure on rates, especially on
 
-Imbalanced demand/supply ratio keeps driving down Handysize rates in ECSA, USG and Black Sea
-
-front-haul routes. Thus, freight levels have dropped by $1- 2k daily and $1-3/t over the week. For instance, rates for transportation of 50,000 t of soybeans or corn from USG to N.China are hovering at low-mid $50s/t bss 1/1 given 10,000x/8,000x l/d rates, while those for shipment from Santos to N.China at $44-45/t.
+Imbalanced demand/supply ratio keeps driving down Handysize rates in ECSA, USG and Black Sea front-haul routes. Thus, freight levels have dropped by $1- 2k daily and $1-3/t over the week. For instance, rates for transportation of 50,000 t of soybeans or corn from USG to N.China are hovering at low-mid $50s/t bss 1/1 given 10,000x/8,000x l/d rates, while those for shipment from Santos to N.China at $44-45/t.
 
 The Handysize market is also under pressure in the Atlantic Ocean. Shortage of spot cargoes for transatlantic shipments allows charterers to cut rates even despite relatively brisk shipments from ECSA and healthy demand on the Intercaribs market. «Due to a large backlog of tonnage, the market is not expected to correct itself right away,» a broker focused on USG shipments mentioned. By the end of the week, transportation costs from ECSA ports have declined by $1-1.5k daily and $2-3/t. Thus, shipment of 25-30,000 t of wheat from Upriver to Morocco now costs $39/t. In USG, rates have decreased slightly less noticeably, by $1k daily and $1-2/t. Note that lack of tonnage open in
 
@@ -32,19 +30,13 @@ In North Europe, the cargo flow is supported by regular shipments of grains and 
 
 ### TCT rates dynamics, $/day
 
-EU steel scrap, CFR Turkey, $/t Freight rate, scrap (sf 58`), 40-45,000t, ARAG - EMed, $/t % of freight costs in CFR price
-
-to ISM. However, deals are mostly signed at rates close to last week's levels.
+EU steel scrap, CFR Turkey, $/t Freight rate, scrap (sf 58`), 40-45,000t, ARAG - EMed, $/t % of freight costs in CFR price to ISM. However, deals are mostly signed at rates close to last week's levels.
 
 A surge of nickel ore exports from the Philippines helped ship owners to restrain the rate decline both in the Asia-Pacific region and Indian Ocean despite slower traffic of Indonesian coal, decreased shipments of main cargoes from the Persian Gulf (during the Eid al-Fitr), as well as of steel products from the Far East. As a result, Supramax/ Ultramax and Handysize/Handymax freight rates have sagged within $0.5-1k daily and by $0.5/t on average. Note that the tonnage list has grown in the Far East and Australia, while the number of open vessels has decreased slightly in SE Asia.
 
-Despite current soft sentiment in the USG, some positive signs have appeared closer to the end of the week: «The market started getting some support, with fresh demand trickling in, while there are a few deals discussed at rates slightly above last done levels,» a broker commented. Ship owners working in ECSA are
+Despite current soft sentiment in the USG, some positive signs have appeared closer to the end of the week: «The market started getting some support, with fresh demand trickling in, while there are a few deals discussed at rates slightly above last done levels,» a broker commented. Ship owners working in ECSA are also optimistic, getting confidence from high grain export forecasts combined with positive FFA shifts. «FFA is showing green numbers, which gives a hope for more positivity,» a broker mentioned.
 
-also optimistic, getting confidence from high grain export forecasts combined with positive FFA shifts. «FFA is showing green numbers, which gives a hope for more positivity,» a broker mentioned.
-
-In the coming weeks, the North European market will most likely be looking for the right direction. As the market is balanced for now, any change in the cargo/tonnage ratio will have an impact. According to ISM, many operators will enter the market with previously booked scrap cargoes for April and even May laycans, which may support tonnage demand. In the Black and Mediterranean Seas, activity will
-
-certainly pick up upon the return of players from Muslim countries to the market. However, activity will hardly surpass the pre-holiday level, so players should not count on any significant rate upturn. Most likely, freight rates will stabilize at current levels.
+In the coming weeks, the North European market will most likely be looking for the right direction. As the market is balanced for now, any change in the cargo/tonnage ratio will have an impact. According to ISM, many operators will enter the market with previously booked scrap cargoes for April and even May laycans, which may support tonnage demand. In the Black and Mediterranean Seas, activity will certainly pick up upon the return of players from Muslim countries to the market. However, activity will hardly surpass the pre-holiday level, so players should not count on any significant rate upturn. Most likely, freight rates will stabilize at current levels.
 
 The Asian market should also show some growth of activity. «Maybe there will be more coal orders from Indo when their holiday ends and this may pull the market up,» a SE-Asia based broker commented. Players in PG expect similar developments.
 

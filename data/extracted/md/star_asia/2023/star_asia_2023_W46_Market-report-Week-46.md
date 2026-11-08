@@ -36,11 +36,9 @@ Major mining companies in Australia and Brazil are expected to increase shipment
 
 Panamax/Kamsarmax:
 
-Boosted by the upward movement in Cape rates and increased demand for North American grain shipping, the market is on the rise. As Cape rates soared to double those of Panamaxes on most routes, some Cape cargoes shifted to Panamaxes, triggering a towing effect. In the Atlantic, the robust demand in the North Atlantic continues to drive a significant increase in rates as vessels are in high demand, particularly along the T/A route, where the supply of ships has tightened even further. Meanwhile, in the Pacific, most spot transactions have concluded, and the determination of shipowners to maintain strength has diminished. However, the existing demand-supply imbalance still
+Boosted by the upward movement in Cape rates and increased demand for North American grain shipping, the market is on the rise. As Cape rates soared to double those of Panamaxes on most routes, some Cape cargoes shifted to Panamaxes, triggering a towing effect. In the Atlantic, the robust demand in the North Atlantic continues to drive a significant increase in rates as vessels are in high demand, particularly along the T/A route, where the supply of ships has tightened even further. Meanwhile, in the Pacific, most spot transactions have concluded, and the determination of shipowners to maintain strength has diminished. However, the existing demand-supply imbalance still prevails, supporting the upward trend. Pacific r/v close in the regions of US$ 13,200's a day.
 
 ## Page 3
-
-prevails, supporting the upward trend. Pacific r/v close in the regions of US$ 13,200's a day.
 
 Supramax/Ultramax: Boosted by increased shipping demand from the US Gulf and Southeast Asia, the market is experiencing an upward turn. The North American grain season is gaining momentum, with China's purchase of US soybeans and improved conditions in the Mississippi River, leading to increased cargo inflows. The reinforcement of restrictions on Panama Canal transit has affected the smooth supply of USG-bound Panamax vessels, contributing to increased demand for Supramaxes. T/A witness levels close higher, around US$19,400's a day, while F/H through East Asia were at US$26,400's a day.
 
@@ -101,11 +99,9 @@ MEG/China bounced back this week to WS74. The Atlantic region showed relative ac
 
 Suezmax:
 
-A weekly decline in West Africa to Europe route is observed due to reduced cargo influx from Nigeria and an increased supply of ships in the Atlantic region, absorbing highertier vessels. 130,000 MT fell 7 points to WS98. However, the impact might be mitigated to
+A weekly decline in West Africa to Europe route is observed due to reduced cargo influx from Nigeria and an increased supply of ships in the Atlantic region, absorbing highertier vessels. 130,000 MT fell 7 points to WS98. However, the impact might be mitigated to some extent by the strength in the Med Aframax market. Overall, a slightly stabilising market is expected.
 
 ## Page 6
-
-some extent by the strength in the Med Aframax market. Overall, a slightly stabilising market is expected.
 
 Aframax:
 
@@ -299,11 +295,9 @@ Anchorage & Beaching Position (November 2023)
 
 Aliaga, Turkey
 
-Turkish domestic scrap prices are on an upward trajectory this week, driven by robust activity. All Turkish mills have increased their domestic scrap buying quotes, signalling strong business activity with gradual price hikes. Despite a slightly weaker business environment in the import sector, suppliers are maintaining high price targets, convinced that imported scrap prices will remain stable. European suppliers are holding firm at approximately US$380/tonne CFR Turkey for HMS 1 & 2 80:20, anticipating increased costs for Turkish mills due to a strengthening euro against
+Turkish domestic scrap prices are on an upward trajectory this week, driven by robust activity. All Turkish mills have increased their domestic scrap buying quotes, signalling strong business activity with gradual price hikes. Despite a slightly weaker business environment in the import sector, suppliers are maintaining high price targets, convinced that imported scrap prices will remain stable. European suppliers are holding firm at approximately US$380/tonne CFR Turkey for HMS 1 & 2 80:20, anticipating increased costs for Turkish mills due to a strengthening euro against the dollar. Diverging domestic market trends are observed, with slower demand in some regions contrasted by moderate activity in southern Turkey, where reconstruction efforts post-earthquake progress.
 
 ## Page 15
-
-the dollar. Diverging domestic market trends are observed, with slower demand in some regions contrasted by moderate activity in southern Turkey, where reconstruction efforts post-earthquake progress.
 
 Turkish shipbreaking scrap prices have risen to US$370–372/t delivered, reflecting a weekly increase from US$360/ton.
 

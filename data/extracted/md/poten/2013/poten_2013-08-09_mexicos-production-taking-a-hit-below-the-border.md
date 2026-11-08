@@ -38,11 +38,7 @@ Historically, Mexico has relied heavily on the U.S. to import its crude oil. The
 
 ### Pemex increasing
 
-consumes roughly 80 percent of the total exports. Now, strongly increased U.S. domestic
-
-exports to Asia
-
-production poses significant risks to Mexican crude oil marketing efforts. In April, Pemex CEO Emilio Lozoya began working on increasing exports to others by approving a two-year agreement that will send an additional 30,000 barrels per day to China. In 2012, of the average export of 1.256 million barrels per day, 85,000 barrels per day went to Asia.
+consumes roughly 80 percent of the total exports. Now, strongly increased U.S. domestic exports to Asia production poses significant risks to Mexican crude oil marketing efforts. In April, Pemex CEO Emilio Lozoya began working on increasing exports to others by approving a two-year agreement that will send an additional 30,000 barrels per day to China. In 2012, of the average export of 1.256 million barrels per day, 85,000 barrels per day went to Asia.
 
 *Chart*
 

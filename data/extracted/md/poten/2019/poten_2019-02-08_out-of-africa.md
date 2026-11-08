@@ -26,7 +26,7 @@ West Africa also has several smaller producers such as Gabon, Equatorial Guinea,
 
 As U.S. production increased, more West African oil has moved to Asia. Shipment data indicates that in 2018 Asian destinations accounted for 54% of West African exports, compared to only 44% in 2014. As a result, VLCCs have increased their market share relative to Suezmax tankers in West African exports.
 
-While West Africa represents the majority of African production, changes in North Africa also have a significant impact on the tanker market. Algeria and Libya remain
+While West Africa represents the majority of African production, changes in North Africa also have a significant impact on the tanker market. Algeria and Libya remain significant producers and exporters, each producing slightly more than 1 Mb/d. Algerian output is more or less steady, but Libyan production and exports have started to come back from their collapse during the revolution that ousted long-term leader Gaddafi in 2011. Libya’s production doubled over the last 2 years, although occasional eruptions of fighting still affect production and export capacity. The largest oil field in Libya remains closed after local fighters captured it last December, reducing exports by about 0.3 Mb/d in January. Production is likely to remain volatile.
 
 *Chart*
 
@@ -35,8 +35,6 @@ While West Africa represents the majority of African production, changes in Nort
 *Source: Lloyd’s List Intelligence*
 
 *Source: Lloyd’s List Intelligence*
-
-significant producers and exporters, each producing slightly more than 1 Mb/d. Algerian output is more or less steady, but Libyan production and exports have started to come back from their collapse during the revolution that ousted long-term leader Gaddafi in 2011. Libya’s production doubled over the last 2 years, although occasional eruptions of fighting still affect production and export capacity. The largest oil field in Libya remains closed after local fighters captured it last December, reducing exports by about 0.3 Mb/d in January. Production is likely to remain volatile.
 
 North African exports have increased significantly because of the recovery of Libyan production and exports. About 40% of the total exports remain in the Mediterranean, which is down from over 50% as recently as 2016. Asia has been a notable growth destination; especially China which has bought growing volumes from Libya. Some 90% of these cargoes are lifted on Suezmax tankers. Exports to NW Europe have also increased, especially to the U.K., offsetting reduced exports to Canada.
 

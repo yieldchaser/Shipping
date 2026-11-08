@@ -22,9 +22,7 @@ The complexity of the clean product trade can be seen by looking at the diversit
 
 ### Top Charterers
 
-Vitol took the top spot this year as the largest clean charterer in the reported spot market. Shell, the largest charter last year, slid to the number two spot. Russian trader Clearlake is a newcomer to the top-10
-
-th last year.
+Vitol took the top spot this year as the largest clean charterer in the reported spot market. Shell, the largest charter last year, slid to the number two spot. Russian trader Clearlake is a newcomer to the top-10 th last year.
 
 list rising to the number nine position, from the 16
 

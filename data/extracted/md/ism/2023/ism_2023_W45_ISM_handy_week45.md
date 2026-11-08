@@ -20,9 +20,7 @@ charts_count: 4
 
 Exports of US grain and petcoke continue to gain momentum, keeping the USG market the main and in fact the only driver of the whole western hemisphere. Supramax/Ultramax tonnage list for November dates remains limited in the area, with the shortage of Handysize
 
-Handy and Supra/Ultra markets keep softening in all sections except USG, which remains the only hotspot
-
-fleet mainly seen in USEC (similar to last month). «Supramax segments are busy mainly on front-haul routes, while Handy vessels are performing mostly transatlantic and inter-Caribs shipments,» a broker commented. By the end of the week, spot Supramax rates have risen by $1-2k daily and $1-2/t, while Handy levels have inched up by $0.5k daily and $1/t. Rates for shipment of 50,000 t of corn from New Orleans to Alexandria have already inched up to $34- 35/t. while those for transportation of 50,000 t of petcoke from Houston to Pipavav have risen to $54/t.
+Handy and Supra/Ultra markets keep softening in all sections except USG, which remains the only hotspot fleet mainly seen in USEC (similar to last month). «Supramax segments are busy mainly on front-haul routes, while Handy vessels are performing mostly transatlantic and inter-Caribs shipments,» a broker commented. By the end of the week, spot Supramax rates have risen by $1-2k daily and $1-2/t, while Handy levels have inched up by $0.5k daily and $1/t. Rates for shipment of 50,000 t of corn from New Orleans to Alexandria have already inched up to $34- 35/t. while those for transportation of 50,000 t of petcoke from Houston to Pipavav have risen to $54/t.
 
 Meanwhile, the ECSA Supramax market is weakening amid increased vessel list for November dates in the region and worsening market conditions in SAfr. Ship owners struggled to keep rates stable, citing the outflow of carriers from NCSA and WAfr to USG, but they still have to make concessions. «We have yet to see more optimistic fixtures, positivity is fragile,» a broker mentioned. Over the week, spot rates have decreased by $0.5-1k daily and
 

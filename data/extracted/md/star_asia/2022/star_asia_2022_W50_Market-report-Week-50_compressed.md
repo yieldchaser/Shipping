@@ -34,19 +34,9 @@ Despite global attempts to reduce coal consumption, world demand is projected to
 
 ### Capesize:
 
-Capes segment saw a rise as market confidence improves following China's further relaxation
+Capes segment saw a rise as market confidence improves following China's further relaxation of COVID-19 quarantine and issuance of special purpose bonds. Market manufacturing activity resumed with heightened prospects for economic recovery. There was also an increased activity to conclude contracts before the end of the year which further aided the market. Both basins saw an uptick in activities at week's closing. Brazil r/v closed the week at
 
-of COVID-19 quarantine and issuance of special purpose bonds. Market manufacturing
-
-activity resumed with heightened prospects for economic recovery. There was also an
-
-increased activity to conclude contracts before the end of the year which further aided the
-
-market. Both basins saw an uptick in activities at week's closing. Brazil r/v closed the week at
-
-US$13,150 region while T/A saw a big jump settling at US$ 23,350's a day. Overall sentiment
-
-remains strong in the weeks leading up to the new year.
+US$13,150 region while T/A saw a big jump settling at US$ 23,350's a day. Overall sentiment remains strong in the weeks leading up to the new year.
 
 ### Panamax / Kamsarmax:
 
@@ -58,9 +48,7 @@ This week Supramax saw decline owing to weak grain in South America and the Blac
 
 ### Handysize:
 
-Handies in Atlantic basin saw some activity this week in the USG as T/A climb to US$ 11,750's a day. The Pacific, on the other hand, was under pressure as the lack of new orders continued
-
-to affect the market. Inter pacific fare lower at US$ 7,750's region and r/v trips settling slightly higher at US$ 8,500's.
+Handies in Atlantic basin saw some activity this week in the USG as T/A climb to US$ 11,750's a day. The Pacific, on the other hand, was under pressure as the lack of new orders continued to affect the market. Inter pacific fare lower at US$ 7,750's region and r/v trips settling slightly higher at US$ 8,500's.
 
 ## Page 3
 
@@ -117,35 +105,15 @@ Dry Bulk 1 year T/C rates
 
 # Tankers
 
-This year has been a whirlwind one for the oil commodity. Oil prices have generally declined
+This year has been a whirlwind one for the oil commodity. Oil prices have generally declined from their peak following the war in Ukraine, albeit with significant volatility. Concerns about a likely global recession and sluggish growth have caused energy prices to fall from their
 
-from their peak following the war in Ukraine, albeit with significant volatility. Concerns about
+2022 peaks. Prices have been erratic as a result of the vast disparity between various energy commodities.
 
-a likely global recession and sluggish growth have caused energy prices to fall from their
+Tanker revenues during the past nine months have reached all-time highs, and ship owners have been restructuring their financial sheets and revising their operational strategy with the large cash flows they have been receiving.
 
-2022 peaks. Prices have been erratic as a result of the vast disparity between various energy
+In August, natural gas prices in Europe reached an all-time high, but they have since fallen by around two-thirds. Despite the anticipated drop in energy prices, it is projected that they will continue to exceed their five-year average. In 2023, Brent crude oil is anticipated to average approximately US$92 per barrel.
 
-commodities.
-
-Tanker revenues during the past nine months have reached all-time highs, and ship owners
-
-have been restructuring their financial sheets and revising their operational strategy with the
-
-large cash flows they have been receiving.
-
-In August, natural gas prices in Europe reached an all-time high, but they have since fallen by
-
-around two-thirds. Despite the anticipated drop in energy prices, it is projected that they will
-
-continue to exceed their five-year average. In 2023, Brent crude oil is anticipated to average
-
-approximately US$92 per barrel.
-
-A looming global recession is the greatest threat currently to energy markets. This could lead
-
-to a decrease in demand and a decline in pricing. The volatility of oil prices has been
-
-exacerbated by the enormous uncertainty surrounding the fundamentals of the oil market.
+A looming global recession is the greatest threat currently to energy markets. This could lead to a decrease in demand and a decline in pricing. The volatility of oil prices has been exacerbated by the enormous uncertainty surrounding the fundamentals of the oil market.
 
 ### VLCC:
 
@@ -224,9 +192,7 @@ According to Alphaliner, the recent sales of containerships for recycling may in
 
 ## Page 8
 
-Many have observed that the market has reached a severe slump. The reduction was linked
-
-to the growing number of importers who are curtailing their inventory exposure.
+Many have observed that the market has reached a severe slump. The reduction was linked to the growing number of importers who are curtailing their inventory exposure.
 
 # Containers S&P Report
 

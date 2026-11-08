@@ -98,11 +98,9 @@ Despite the brief optimism of a ceasefire, the breakdown of negotiations has rei
 
 Suezmax:
 
-The Suezmax market is facing significant downward pressure as a lack of meaningful volume on both sides of the Atlantic allows charterers to dominate negotiations. Sentiment has shifted toward a "wait-and-see" approach following the brief easing of
+The Suezmax market is facing significant downward pressure as a lack of meaningful volume on both sides of the Atlantic allows charterers to dominate negotiations. Sentiment has shifted toward a "wait-and-see" approach following the brief easing of geopolitical tensions, leading to a build-up of available tonnage as ships flee the Middle East for the Atlantic. 130,000mt Nigeria/UKC fell 92 points to WS192.
 
 ## Page 6
-
-geopolitical tensions, leading to a build-up of available tonnage as ships flee the Middle East for the Atlantic. 130,000mt Nigeria/UKC fell 92 points to WS192.
 
 Aframax:
 
@@ -212,11 +210,9 @@ The container market remains in a period of defensive strength this week as the 
 
 Insights Alang
 
-Alang experienced a slight increase in demand this week, though local buyers continue to operate under significant pricing constraints. Indian recyclers are finding it difficult to secure new vessels as competing markets in Pakistan and Bangladesh offering higher rates that draw tonnage away from the domestic yards. While local steel plate prices briefly touched INR 41,000 per ton (about US$443/ton), they eventually settled back toward INR 40,600, which translates to a valuation of approximately US$438/ton. This fluctuation was partly driven by ongoing energy challenges, as disruptions in the supply of LPG to Alang's steel mills have only partially improved. Although the United States Dollar gained strength over the past week, the persistent volatility in the exchange rate has added to a sense of market uncertainty and caution among buyers. India currently sits as the most budget-conscious destination in the region, a position shaped more by unfavourable currency dynamics and energy hurdles than a lack of interest or capacity. Despite these headwinds, there is a hopeful outlook
+Alang experienced a slight increase in demand this week, though local buyers continue to operate under significant pricing constraints. Indian recyclers are finding it difficult to secure new vessels as competing markets in Pakistan and Bangladesh offering higher rates that draw tonnage away from the domestic yards. While local steel plate prices briefly touched INR 41,000 per ton (about US$443/ton), they eventually settled back toward INR 40,600, which translates to a valuation of approximately US$438/ton. This fluctuation was partly driven by ongoing energy challenges, as disruptions in the supply of LPG to Alang's steel mills have only partially improved. Although the United States Dollar gained strength over the past week, the persistent volatility in the exchange rate has added to a sense of market uncertainty and caution among buyers. India currently sits as the most budget-conscious destination in the region, a position shaped more by unfavourable currency dynamics and energy hurdles than a lack of interest or capacity. Despite these headwinds, there is a hopeful outlook that a stabilisation of geopolitical conditions could eventually lead to more sustainable pricing and a more consistent flow of recycling inventory.
 
 ## Page 14
-
-that a stabilisation of geopolitical conditions could eventually lead to more sustainable pricing and a more consistent flow of recycling inventory.
 
 Anchorage & Beaching Position (APRIL 2026)
 

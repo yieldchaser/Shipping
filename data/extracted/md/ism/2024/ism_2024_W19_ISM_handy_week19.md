@@ -24,9 +24,7 @@ Atlantic Handysize/Supramax segment dominated by negative sentiment, while Asia-
 
 - has slowed down slightly this week. Over the week, transportation costs on T/A routes have dropped by $1k daily and $1-2/t. Meanwhile, the front-haul market is flat as few ship owners are willing to reposition to Asia - most of them are still waiting for the peak of grain export season in South America. Thus, rates for transportation of 25-30,000 t of corn or soybeans from Santos to ARA ports have inched down to $33/t bss 1/1, while shipment of 50,000 t of corn or soybeans from Santos to N.China still costs $47/t.
 
-Meanwhile, USG Handysize rates have stabilized after last week's decline due to an increase in spot cargo offer for shipments to the Continent and the Mediterranean Sea. The Supramax/Ultramax segment also stays at last week's levels despite gradually building up tonnage list in USG (which, however, cannot be said about USEC, where the tonnage supply is modest). Note that downtime has
-
-grown in Norfolk port: “Norfolk is experiencing some slight congestion for coal movement from Baltimore,” a broker mentioned.
+Meanwhile, USG Handysize rates have stabilized after last week's decline due to an increase in spot cargo offer for shipments to the Continent and the Mediterranean Sea. The Supramax/Ultramax segment also stays at last week's levels despite gradually building up tonnage list in USG (which, however, cannot be said about USEC, where the tonnage supply is modest). Note that downtime has grown in Norfolk port: “Norfolk is experiencing some slight congestion for coal movement from Baltimore,” a broker mentioned.
 
 The Handysize and Supramax markets remain extremely weak in the Continent and the Mediterranean Sea . The tonnage list is gradually increasing in both basins, while the cargo offer has recovered very slightly this week - if it has at all (and only in the eastern Mediterranean). During the week, rates have sagged by another $0.25-0.5k daily and $0.25-1/t in the Black and Mediterranean Seas, as well as by $1-3k daily and $0.5-3/t in North Europe. Rates for shipment of 25-30,000 t of wheat or corn from Ukraine to Egypt have inched down to low $20s/t, while transportation costs of 25-30,000 t of steel scrap (sf 56-58`) from Avonmouth to S.Turkey have declined to $29/t bss 1/1.
 
@@ -34,9 +32,7 @@ Despite plenty of positive signals and comments from the Asian market, actual de
 
 ### TCT rates dynamics, $/day
 
-EU steel scrap, CFR Turkey, $/t Freight rate, scrap (sf 58`), 40-45,000t, ARAG - EMed, $/t % of freight costs in CFR price
-
-only helped Supramax/Ultramax owners to keep freights stable. Steady nickel ore exports from the Philippines are also providing some support. Thus, Handysize/Handymax rates have added $1k daily and $0.25-0.5/t due to increased exports of various cargoes from Australia and SE Asian countries.
+EU steel scrap, CFR Turkey, $/t Freight rate, scrap (sf 58`), 40-45,000t, ARAG - EMed, $/t % of freight costs in CFR price only helped Supramax/Ultramax owners to keep freights stable. Steady nickel ore exports from the Philippines are also providing some support. Thus, Handysize/Handymax rates have added $1k daily and $0.25-0.5/t due to increased exports of various cargoes from Australia and SE Asian countries.
 
 In the Indian Ocean , the owners' sentiment has worsened a bit given limited cargo offer ex PG ports as well as a slight slowdown of ore exports from ECI. Corresponding freight rates hold stady.
 

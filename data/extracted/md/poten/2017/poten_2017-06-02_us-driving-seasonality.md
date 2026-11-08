@@ -22,7 +22,7 @@ Ultimately, gasoline demand is determined by how much (and how far) people drive
 
 In the short-term, further increases in gasoline demand are expected. While average retail prices for regular gasoline heading into the Memorial Day weekend were slightly higher than in 2016, they were the second-lowest prices since 2009. For the summer of 2017, the Energy Information Administration (EIA) forecasts that motor gasoline consumption in the U.S. will average 9.5 million barrels per day (mb/d), up 20,000 b/d (0.3%) compared to the summer of 2016, which was already at a record high (Figure 1).
 
-While the demand picture looks promising, whether higher gasoline use will translate into more transatlantic product tanker movements into the U.S. East Coast also depends on domestic production and inventories, both of which are also near record levels. U.S. gasoline stocks have been trending up over the last 10 years and currently stand at 68.4 million barrels in PADD 1, at the top of the 5-year range. At the same time, U.S. East Coast
+While the demand picture looks promising, whether higher gasoline use will translate into more transatlantic product tanker movements into the U.S. East Coast also depends on domestic production and inventories, both of which are also near record levels. U.S. gasoline stocks have been trending up over the last 10 years and currently stand at 68.4 million barrels in PADD 1, at the top of the 5-year range. At the same time, U.S. East Coast refiners are running at high utilization rates (close to 90%), so, barring any unexpected outages, we do not forecast a shortfall in gasoline supplies.
 
 *Chart*
 
@@ -31,8 +31,6 @@ While the demand picture looks promising, whether higher gasoline use will trans
 *Chart*
 
 *Source: EIA*
-
-refiners are running at high utilization rates (close to 90%), so, barring any unexpected outages, we do not forecast a shortfall in gasoline supplies.
 
 Since 2005, average annual gasoline imports into PADD 1 have been around 750,000 b/d, with the summer period (Memorial Day through Labor Day) about 100,000 b/d higher than the average for the rest of the year (805,000 b/d versus 705,000 b/d). Annual average imports approached 1 million b/d in 2006/2007 before gradually declining until they bottomed out in 2014 at 514,000 b/d. Imports into PADD 1 recovered to 624,000 b/d in 2016 but data for 2017 to date indicates import levels that are about 10% lower.
 

@@ -38,11 +38,9 @@ In the Atlantic region, despite a steady influx of North American cargoes, the m
 
 Handysize:
 
-It was another lacklustre week in the Handy with rates mostly remaining unchanged. F/H routes saw rates similar to last closing at US$14,000's a day. Meanwhile in Pacific, rates
+It was another lacklustre week in the Handy with rates mostly remaining unchanged. F/H routes saw rates similar to last closing at US$14,000's a day. Meanwhile in Pacific, rates across saw discounts owning to excess tonnage in the region. Inter Pacific close the week at US$10,900's a day while r/v routes were at US$11,900's a day.
 
 ## Page 3
-
-across saw discounts owning to excess tonnage in the region. Inter Pacific close the week at US$10,900's a day while r/v routes were at US$11,900's a day.
 
 ## Baltic Exchange Dry Bulk Indices
 
@@ -99,11 +97,9 @@ Despite the typical summer lull, the Middle East VLCC market experienced a brief
 
 Suezmax:
 
-The West African Suezmax market initially showed promise of a rate rebound, buoyed by improved VLCC demand. However, this optimism was short-lived. Rates began to decline
+The West African Suezmax market initially showed promise of a rate rebound, buoyed by improved VLCC demand. However, this optimism was short-lived. Rates began to decline more sharply in the latter half of the week, ending on a weak note. 130,000mt Nigeria/UKC fell to WS80. The coming week offers little prospect for demand recovery sufficient to reverse this trend, suggesting a continued decline in rates.
 
 ## Page 6
-
-more sharply in the latter half of the week, ending on a weak note. 130,000mt Nigeria/UKC fell to WS80. The coming week offers little prospect for demand recovery sufficient to reverse this trend, suggesting a continued decline in rates.
 
 # Aframax:
 
@@ -219,11 +215,9 @@ Containers Values
 
 ## Insight
 
-As we enter a new month, there has been a significant decrease in ship recycling tonnage across Bangladesh, India, and Pakistan from June to July 2024. The most dramatic drop is observed in Bangladesh, where the tonnage of ships recycled plummeted from 105,409mt in June to 32,264 MT in July, a decrease of nearly 70%. India also experienced a substantial decline, with recycling tonnage falling from 59,527mt in June to 37,126 in July, a reduction of about 38%. Pakistan, in contrast, saw a modest increase from 14,105 MT tons in June to 17,147 MT tons in July. The big news this week for the ship recycling industry was from China. The subsidies are coming back. China is set to expand its policies aimed at boosting large-scale equipment upgrades and consumer goods trade-ins to stimulate domestic demand, as announced at a State Council executive meeting chaired by Premier Li Qiang last month. The meeting revealed plans to issue ultra-long special treasury bonds to fund these initiatives. Support measures will be optimised for equipment upgrades, extending to the energy and power sectors, old elevator renovations, and key industry safety and environmental upgrades. Enhanced subsidies will be provided for scrapping and upgrading old ships and trucks, renewing agricultural machinery, and new energy buses. Additionally, the subsidy ratio for equipment upgrade loans will be increased. These actions align with the guiding
+As we enter a new month, there has been a significant decrease in ship recycling tonnage across Bangladesh, India, and Pakistan from June to July 2024. The most dramatic drop is observed in Bangladesh, where the tonnage of ships recycled plummeted from 105,409mt in June to 32,264 MT in July, a decrease of nearly 70%. India also experienced a substantial decline, with recycling tonnage falling from 59,527mt in June to 37,126 in July, a reduction of about 38%. Pakistan, in contrast, saw a modest increase from 14,105 MT tons in June to 17,147 MT tons in July. The big news this week for the ship recycling industry was from China. The subsidies are coming back. China is set to expand its policies aimed at boosting large-scale equipment upgrades and consumer goods trade-ins to stimulate domestic demand, as announced at a State Council executive meeting chaired by Premier Li Qiang last month. The meeting revealed plans to issue ultra-long special treasury bonds to fund these initiatives. Support measures will be optimised for equipment upgrades, extending to the energy and power sectors, old elevator renovations, and key industry safety and environmental upgrades. Enhanced subsidies will be provided for scrapping and upgrading old ships and trucks, renewing agricultural machinery, and new energy buses. Additionally, the subsidy ratio for equipment upgrade loans will be increased. These actions align with the guiding principles from the third plenary session of the 20th Communist Party of China Central Committee. However, clarity on ship recycling subsidies remains pending. Once clarified, this will significantly impact the Chinese domestic ship market, which has been directing vessels to Chattogram over the past year. It is anticipated that these ships will once again be recycled within China, as was previously the norm. This shift is expected to add further supply pressure to the already starved Sub- Continental markets. The Chinese steel market faces significant challenges in August, with recovery hinging on supply cuts by steelmakers. These cuts have become crucial due to stricter rebar standards announced on June 25, which have further pressured the sluggish market. Traders are rushing to clear inventories, fearing the government's three-month buffer period is insufficient to sell soon-to-be non-compliant stocks, causing rebar prices to plummet and squeezing profits across the sector. As of July 25, only 15.15% of the 247 blast-furnace steel mills were profitable, the lowest since November 2022. Anticipated voluntary production cuts are expected to reduce construction steel output by 1.98 million tons by the end of August. Extreme heat is also impacting downstream demand, particularly in construction. However, new government initiatives to upgrade large-scale equipment and trade in consumer products could stimulate demand for flat-steel goods.
 
 ## Page 14
-
-principles from the third plenary session of the 20th Communist Party of China Central Committee. However, clarity on ship recycling subsidies remains pending. Once clarified, this will significantly impact the Chinese domestic ship market, which has been directing vessels to Chattogram over the past year. It is anticipated that these ships will once again be recycled within China, as was previously the norm. This shift is expected to add further supply pressure to the already starved Sub- Continental markets. The Chinese steel market faces significant challenges in August, with recovery hinging on supply cuts by steelmakers. These cuts have become crucial due to stricter rebar standards announced on June 25, which have further pressured the sluggish market. Traders are rushing to clear inventories, fearing the government's three-month buffer period is insufficient to sell soon-to-be non-compliant stocks, causing rebar prices to plummet and squeezing profits across the sector. As of July 25, only 15.15% of the 247 blast-furnace steel mills were profitable, the lowest since November 2022. Anticipated voluntary production cuts are expected to reduce construction steel output by 1.98 million tons by the end of August. Extreme heat is also impacting downstream demand, particularly in construction. However, new government initiatives to upgrade large-scale equipment and trade in consumer products could stimulate demand for flat-steel goods.
 
 Alang, India
 
@@ -242,11 +236,9 @@ Anchorage & Beaching Position (August 2024)
 
 Chattogram, Bangladesh
 
-The Chattogram ship recycling market is experiencing a significant slowdown, driven by declining demand and rising inventories. Domestic ship scrap prices continued to fall, with the price gap between melting scrap and plate widening considerably. This has led to notable price differences between smaller ships (ranging from 2,000 to 4,000 light displacement tons) and larger ones. However, demand for larger ships remains intact, with some recyclers keen to offer a premium as the plate prices remain highly elevated. In response to this price disparity, several smaller ships that typically head to Chattogram from the Far East are now being discussed at Gadani, Pakistan. The market remains subdued, with limited buying activity compounded by the peak monsoon season. Looking ahead, the market is expected to stay quiet throughout the
+The Chattogram ship recycling market is experiencing a significant slowdown, driven by declining demand and rising inventories. Domestic ship scrap prices continued to fall, with the price gap between melting scrap and plate widening considerably. This has led to notable price differences between smaller ships (ranging from 2,000 to 4,000 light displacement tons) and larger ones. However, demand for larger ships remains intact, with some recyclers keen to offer a premium as the plate prices remain highly elevated. In response to this price disparity, several smaller ships that typically head to Chattogram from the Far East are now being discussed at Gadani, Pakistan. The market remains subdued, with limited buying activity compounded by the peak monsoon season. Looking ahead, the market is expected to stay quiet throughout the month. However, once the monsoon season ends, there is potential for a rebound in prices.
 
 ## Page 16
-
-month. However, once the monsoon season ends, there is potential for a rebound in prices.
 
 Anchorage & Beaching Position (August 2024)
 

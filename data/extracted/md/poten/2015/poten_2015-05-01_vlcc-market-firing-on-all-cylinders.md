@@ -24,7 +24,7 @@ Despite earlier expectations to the contrary, world oil demand growth has been r
 
 There is no shortage of oil worldwide to satisfy all this demand for crude (Figure 2). Despite sharply lower prices, global oil supply is showing impressive annual gains of 3.5 mb/d, split between OPEC and non-OPEC production. Since announcing during their November 2014 meeting that they would not cut their quotas, OPEC production has been on a tear and shows no sign of letting up. OPEC crude oil output soared by 890 kb/d in March, driven by sharply higher supplies from Saudi Arabia, Iraq and Libya, and production exceeded 31 mb/d. This was the highest monthly increase in OPEC production in nearly four years. Since oil supply growth far exceeds increases in oil demand, crude oil stocks continue to build worldwide, in particular in the United States.
 
-Fleet growth has been fairly limited. Six (6) VLCCs were delivered year to date, with another 28 newbuildings scheduled to enter service during the remainder of the year. While deliveries will pick up in 2016, the overall
+Fleet growth has been fairly limited. Six (6) VLCCs were delivered year to date, with another 28 newbuildings scheduled to enter service during the remainder of the year. While deliveries will pick up in 2016, the overall orderbook remains reasonable and expectations are for only modest fleet growth through 2017.
 
 *Chart: Fig. 1: AG- East VLCC rates ($/Day)*
 
@@ -33,8 +33,6 @@ Fleet growth has been fairly limited. Six (6) VLCCs were delivered year to date,
 *Chart*
 
 *Source: IEA*
-
-orderbook remains reasonable and expectations are for only modest fleet growth through 2017.
 
 Another positive for VLCC owners is that commercial control has been consolidating in fewer hands. At the end of 2013, Euronav agreed to buy the Maersk VLCC fleet. Shortly thereafter, General Maritime, which also had their eyes on the Maersk vessels, bought the VLCC orderbook of Scorpio tankers. This deal was later followed by the merger of Genmar with Navig8 Crude Tankers in 2014. Earlier in the same year, VLCC Chartering was established, bringing together the VLCC fleets of Frontline and Tankers International. These deals have levelled the playing field somewhat, as it gives owners more information and creates more discipline in the market.
 

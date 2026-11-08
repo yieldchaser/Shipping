@@ -20,13 +20,9 @@ charts_count: 4
 
 In general, ship owners have not managed to raise rates in the Black and Mediterranean Seas yet despite the gradual increase in grain offer for shipments from Ukraine. The list of main problems still includes weak support from other traditionally important cargo
 
-Hardly any owner can raise coaster rates in the Mediterranean, Black and Baltic Seas
+Hardly any owner can raise coaster rates in the Mediterranean, Black and Baltic Seas flows (European grain, North African fertilizers, Turkish and Russian steel products) and still quite a significant surplus of open vessels. “Owners could benefit only from a bit wider cargo offer and lower bunker prices,” a Turkish broker commented. Over the week, freight rates have not changed much in both regions, with just some sporadic minimal upturns achieved by owners. Thus, shipment of 5-7,000 t of wheat or corn from Ukraine to Alexandria still costs very low $20s/t, while rates for transportation of 3-4,000 t of steel profiles from SpanMed to Turkey are hovering at mid- high €20s/t.
 
-flows (European grain, North African fertilizers, Turkish and Russian steel products) and still quite a significant surplus of open vessels. “Owners could benefit only from a bit wider cargo offer and lower bunker prices,” a Turkish broker commented. Over the week, freight rates have not changed much in both regions, with just some sporadic minimal upturns achieved by owners. Thus, shipment of 5-7,000 t of wheat or corn from Ukraine to Alexandria still costs very low $20s/t, while rates for transportation of 3-4,000 t of steel profiles from SpanMed to Turkey are hovering at mid- high €20s/t.
-
-Meanwhile, ship owners remain quite bullish in the Azov Sea due to limited tonnage list caused by longer voyage duration and downtime amid low water level in Rostov. However, coal shipments have
-
-stabilized this week after the recent upturn in, while grain exports remain dull. In these circumstances, charterers have managed to halt the rate growth. Rates for shipment of 3-5,000 t of coal from Azov/ Rostov to TBS are hovering at $21-22/t.
+Meanwhile, ship owners remain quite bullish in the Azov Sea due to limited tonnage list caused by longer voyage duration and downtime amid low water level in Rostov. However, coal shipments have stabilized this week after the recent upturn in, while grain exports remain dull. In these circumstances, charterers have managed to halt the rate growth. Rates for shipment of 3-5,000 t of coal from Azov/ Rostov to TBS are hovering at $21-22/t.
 
 The North European market is still not seeing the traditional autumn recovery of activity. The cargo traffic actually remains steadily low, with demand for coaster fleet supported only by relatively regular grain shipments. However, grain volumes are still insufficient to change the market picture amid long tonnage list in the area.
 

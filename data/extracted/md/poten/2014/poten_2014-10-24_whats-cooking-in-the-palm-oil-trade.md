@@ -26,7 +26,7 @@ The main importers of palm oil are China, South Asia (India, Pakistan and Bangla
 
 Due to the heavy volumes long and distances involved, most of the worldwide palm oil trade is moved on tankers. For the intra-Asian trades, the palm oil traders mainly use dedicated small short-range chemical/product tankers. Larger Medium Range (MR) tankers are primarily deployed on the long-haul trades from southeast Asia to Europe.
 
-Palm oil shipping is controlled by a handful of companies which are part of, or closely linked to, the world’s biggest agricultural commodities’ producers and traders. These companies typically have a sizeable owned fleet (mostly comprised of smaller-sized dedicated chemical/product tankers) while they charter in the larger product tankers – where the opportunity for the owners of modern MR
+Palm oil shipping is controlled by a handful of companies which are part of, or closely linked to, the world’s biggest agricultural commodities’ producers and traders. These companies typically have a sizeable owned fleet (mostly comprised of smaller-sized dedicated chemical/product tankers) while they charter in the larger product tankers – where the opportunity for the owners of modern MR product tankers lies.
 
 *Chart: Fig. 1 Global Palm Oil Exports (x 1,000 MT)*
 
@@ -35,8 +35,6 @@ Palm oil shipping is controlled by a handful of companies which are part of, or 
 *Chart*
 
 *Source: USDA*
-
-product tankers lies.
 
 Since palm oils are primarily used in the food industry, they can only be transported in dedicated chemical tankers or on newbuilding product carriers delivered straight from the shipyard.
 

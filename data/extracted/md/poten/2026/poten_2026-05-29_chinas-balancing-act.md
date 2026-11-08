@@ -22,13 +22,11 @@ The tanker market experienced a significant rate spike when the Iran war started
 
 During the war in Iran, China became a shock absorber. China’s large inventory cushion allowed it to reduce imports sharply rather than compete aggressively for scarce replacement barrels. China’s seaborne imports were about 11 million b/d in the months prior to the war, fell to 8.3 million b/d in April 2026, and are estimated to be just 6.5 million b/d in May. The reduction in imports is driven by several factors. Refiners have cut runs as higher crude prices have destroyed margins. According to Platts, the average run rate of China's state-owned refineries was 71.6% in May, the lowest since March 2020, when the country was hit by the coronavirus pandemic. Refiners have also dipped into their strategic and commercial inventories.
 
-For tanker markets, China’s reduction in imports have created a split effect. The war-risk premium and disrupted Persian Gulf logistics are bullish for rates, but lower Chinese spot buying reduces cargo count. That is why the market can show very high
+For tanker markets, China’s reduction in imports have created a split effect. The war-risk premium and disrupted Persian Gulf logistics are bullish for rates, but lower Chinese spot buying reduces cargo count. That is why the market can show very high freight rates on constrained routes while actual Chinese import volumes fall. China’s import restraint has also had a moderating effect on oil prices, which would have probably been much higher if China tried to maintain imports at pre-war levels.
 
 *Chart*
 
 *Source: Vortexa*
-
-freight rates on constrained routes while actual Chinese import volumes fall. China’s import restraint has also had a moderating effect on oil prices, which would have probably been much higher if China tried to maintain imports at pre-war levels.
 
 What will happen when the war ends and the Strait reopens? The immediate post-conflict phase could initially pressure freight if war-risk premiums collapse, the oil tankers stuck in the Persian Gulf are released and trade flows start to normalize. However, the medium-term effect should be supportive because oil prices will come down, oil demand will recover and inventories will need to be rebuilt. The EIA’s May 2026 outlook assumes that global oil inventories fall by an average 8.5 million b/d in 2Q26, before flows gradually resume and withdrawals lessen. There will be a global restocking impulse after the crisis, which could add 950 Million to 1.2 Billion barrels of oil demand over several years. That demand will be spread out, but it still creates a structural floor under seaborne crude trade after the Strait reopens.
 

@@ -28,11 +28,7 @@ Sometimes sudden increases or decreases in fixture activity reported for a parti
 
 This progressive buildup of activity to rush gasoline cargoes across the Atlantic ahead of early May’s changeover to a lower vapor pressure specification along the US East Coast, tightened a balanced clean MR market.
 
-The reported fixture activity this week – number sixteen – for clean MRs sailing trans-Atlantic from the UK Continent was about the weekly average of 2007. However, the introduction of many of these cargoes with very prompt delivery windows stimulated a TCE burst for this route. The freight rate jump was further impacted by replacement vessels capitalizing on scant availability of tonnage leading to this
-
-th to $34,300
-
-route’s TCE spike from about $22,300 per day on April 16 per day on Friday.
+The reported fixture activity this week – number sixteen – for clean MRs sailing trans-Atlantic from the UK Continent was about the weekly average of 2007. However, the introduction of many of these cargoes with very prompt delivery windows stimulated a TCE burst for this route. The freight rate jump was further impacted by replacement vessels capitalizing on scant availability of tonnage leading to this th to $34,300 route’s TCE spike from about $22,300 per day on April 16 per day on Friday.
 
 ## Market Exhibits & Charts
 

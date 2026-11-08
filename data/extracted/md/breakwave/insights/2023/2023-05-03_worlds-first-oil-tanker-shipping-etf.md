@@ -63,6 +63,4 @@ Deborah Kostroun
 
 Zito Partners
 
-(201) 403-8185
-
-deborah@zitopartners.com
+(201) 403-8185 deborah@zitopartners.com

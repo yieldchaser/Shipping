@@ -26,7 +26,6 @@ Global shipping is reacting to an immediate surge in maritime activity following
 
 ## Page 2
 
-
 # DRY BULK | BDI: 2,722 ▼-0.26% (w-o-w)
 
 Dry bulk market displayed mixed movements this week, as the benchmark BDI clawed back some ground to settle at 2,722 points on June 19th, though it ultimately finished lower than the recorded of Week 24. This overall retreat was led by the Capesize, where BCI retreated slightly to 4,149 points from last week's close, and BPI dipped slightly to 2,096 points compared to its previous week. In contrast, smaller vessel classes showed positive gains, with the BSI rising to 1,718 points from 1,618 points w-o-w. The broader landscape is preparing for a structural shift following a tentative United States and Iran interim agreement aimed at resolving their months-long conflict. If this diplomatic progress succeeds in fully reopening the critical Strait of Hormuz-which has seen dry bulk transits throttled from a normal average of over 20 vessels daily down to just 3 since hostilities escalated in late February-it is poised to trigger an immediate surge in regional grain imports. Given that Persian Gulf nations rely on international supplies for nearly 90% of their local consumption, a return to traditional, logistics hubs would effectively reverse May's steep 50% y-o-y drop in regional grain volumes and unleash pent-up demand for tonnage.
@@ -42,7 +41,6 @@ Dry bulk market displayed mixed movements this week, as the benchmark BDI clawed
 **Handysize:** Handysize maintained a broadly positive trajectory this week, heavily supported by sustained tonnage tightening and firm cargo demand across the Atlantic basin. While the Asian markets presented a more balanced environment with stable regional sentiment, owner optimism remained robust as longhaul employment requirements kept available vessel supply highly restricted.
 
 ## Page 3
-
 
 | Baltic Dry | Indices |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -93,7 +91,6 @@ Dry bulk market displayed mixed movements this week, as the benchmark BDI clawed
 
 ## Page 5
 
-
 # TANKERS | BDTI: 2,023 ▲+3.74% (w-o-w)
 
 Tanker segment is experiencing a pivotal wave of strategic repositioning following an interim peace agreement between the United States and Iran. Under a draft memorandum targeted for formal signing on Friday, both nations have pledged to lift maritime blockades and revive trade through the Strait of Hormuz. This highly anticipated diplomatic breakthrough has prompted bold, first-moving shipowners to aggressively shift their assets to capture imminent, high-premium voyages. Tracking data revealed that major vessels bound for Africa, including the Suezmax Kapodistrias 21 and VLCC Coslucky Lake, abruptly reversed course to head toward Fujairah. They were joined by four empty Qatari LNG carriers and a wave of newly active Iranian vessels, lifting the total number of ballasting tankers waiting outside the chokepoint to approximately 150 vessels, including around 60 empty supertankers. Despite the maneuvers from speculative operators, mainstream firms remain profoundly cautious about an immediate return to the region. Many have voiced skepticism, warning that trading volumes are unlikely to recover before next year. This reluctance stems from lingering security threats, including newly laid sea mines and the risk of unexpected seizures, alongside a distinct lack of clarity surrounding the unfinished text of the deal. Over 100 commercial vessels remain effectively marooned inside the Persian Gulf, and fleet managers are requiring substantial evidence of verified safe passage before revising their strict risk assessments. As a result, the wider freight market is transitioning away from war-risk pricing toward underlying supply-demand fundamentals; crude prices have declined sharply on the expectation of eventual supply recovery, while the broader VLCC market faces softening long-haul rates as an expanded global orderbook of nearly 35% threatens a structural oversupply in the coming months.
@@ -111,7 +108,6 @@ Tanker segment is experiencing a pivotal wave of strategic repositioning followi
 **MR:** Far East MR market ended lower this week as a noticeable slowdown in export volumes from Asian refineries limited fresh cargo options. In the MEG, TC17 trips fell to WS542.
 
 ## Page 6
-
 
 ### Baltic Tanker Indices
 
@@ -152,7 +148,6 @@ Tanker segment is experiencing a pivotal wave of strategic repositioning followi
 
 ## Page 8
 
-
 # CONTAINERS
 
 The SCFI index climbed to 2,985.22 points, driven by early peak season restocking and structural capacity constraints. Transpacific spot rates rose to US$5,870 per FEU for the U.S. East Coast and US$4,683 per FEU for the West Coast, while Asia-Europe rates reached US$3,768 per FEU, supported by cargo front-loading ahead of July tariff and bunker adjustments. Despite news of a potential Strait of Hormuz reopening within thirty days, carriers maintain a conservative routing posture around the Cape of Good Hope. This ongoing bottleneck has prompted lines to implement aggressive new surcharges, including a US$2,000 peak season fee from Maersk and a looming US$4,000 fee from CMA CGM, keeping global freight rates on an upward trajectory.
@@ -188,7 +183,6 @@ The SCFI index climbed to 2,985.22 points, driven by early peak season restockin
 
 ## Page 10
 
-
 ### Ship Recycling - Current Market Snapshot (USD / LDT)
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
@@ -221,7 +215,6 @@ All prices are USD per light displacement tonnage (long ton), net prices offered
 
 ## Page 12
 
-
 ## Market Insights
 
 **Alang, India:** Alang remained tightly constrained, with local buying sentiment deeply subdued as yard operators grew increasingly concerned that current global price offers lack support from local steel fundamentals. Despite this quiet domestic demand and generally soft local market conditions, a pronounced, ongoing shortage of available demolition tonnage across all vessel segments has prevented a collapse, effectively holding scrap prices stable.
@@ -248,7 +241,6 @@ On the supply side, Alang witnessed a notable increase in vessels arriving for r
 The resolution of global conflict, marked by the reopening of the Strait of Hormuz and the lifting of U.S. sanctions on Iranian oil, is heavily priming the global market to release a massive wave of ageing vessels that had been starved from the region for 11 weeks.
 
 ## Page 13
-
 
 Overall market sentiment was seen softening during the week, largely driven by a correction in domestic ship scrap prices and the upcoming monsoon season. With local steel plate prices easing, ship recyclers are adopting a more cautious approach remained selective in their offering.
 
@@ -280,7 +272,6 @@ Domestic yard operators are maintaining a cautious, steady stance as the monsoon
 
 ## Page 14
 
-
 # SUB-CONTINENT & TURKEY SCRAP MARKETS
 
 **India:** The seaborne scrap market remains quiet as ample local inventory and tepid purchasing sentiment leave mills with little incentive to book fresh import tonnage. While a 500t shipment of UK-origin MS turnings was finalised at US$317/t CFR Nhava Sheva, negotiations for Brazil-origin HMS 80:20 are stuck in the US$335-US$340/t CFR range. Sellers are offering UK shredded scrap at US$385-US$390/t CFR, but buyers continue to evaluate options defensively without committing to larger global volumes.
@@ -299,12 +290,9 @@ Coal futures retreated below US$145 per ton, reversing their recent run toward t
 
 Aluminium futures in the UK similarly fell to a two-month low of US$3,400 per ton, allowing exports from the Persian Gulf-which accounts for approximately 9% of global primary aluminium output-to resume, though supply chains face a slow recovery due to earlier facility damage. The broader metals complex is facing additional pressure from a strong U.S. dollar and weakening consumption in China, where steel rebar futures hit a two-month low near CNY 3,120 per ton. This industrial slowdown is underscored by a 2.7% y-o-y drop in Chinese crude steel production to 84.35 million tons for May, alongside pandemic-level pullbacks in fixed-asset investment and consumer spending.
 
-While China's steel exports rose 8.8% last month due to better international profit margins, cumulative outbound shipments for the first five months of the year remain down 8.1% as rising trade barriers restrict global trade flows. This cooling trend aligns with a shifting structural outlook for traditional fuels; despite coal's near-term role in grid stability, China's total domestic coal output is projected to undergo its first
+While China's steel exports rose 8.8% last month due to better international profit margins, cumulative outbound shipments for the first five months of the year remain down 8.1% as rising trade barriers restrict global trade flows. This cooling trend aligns with a shifting structural outlook for traditional fuels; despite coal's near-term role in grid stability, China's total domestic coal output is projected to undergo its first contraction since 2016 this year, following strict safety implementations such as a 7% output cut in the Shanxi province, where 54 mines were halted.
 
 ## Page 15
-
-
-contraction since 2016 this year, following strict safety implementations such as a 7% output cut in the Shanxi province, where 54 mines were halted.
 
 ### Iron Ore
 
@@ -346,7 +334,6 @@ contraction since 2016 this year, following strict safety implementations such a
 
 ## Page 16
 
-
 ### Bunker Prices (USD / ton)
 
 | PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
@@ -356,4 +343,3 @@ contraction since 2016 this year, following strict safety implementations such a
 | FUJAIRAH | $1,203 | $603 | $1,424 |
 | ROTTERDAM | $584 | $490 | $884 |
 | HOUSTON | $640 | $503 | $932 |
-

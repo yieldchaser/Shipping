@@ -22,7 +22,7 @@ Data from Lloyd’s List Intelligence’s APEX service shows that, when comparin
 
 The OPEC cuts are production cuts, not export cuts and this is a key distinction. Some OPEC countries hold significant crude oil inventories and a recent analysis from Morgan Stanley (based on data from JODI) shows that crude oil stocks have been falling for the seven OPEC countries for which inventory data is available (Algeria, Angola, Ecuador, Iraq, Nigeria, Qatar and Saudi Arabia). This suggests that several OPEC members have been selling from inventory in addition to from current production. This may have softened the impact of the OPEC cuts on the tanker market so far this year.
 
-So, based on the continuation of the production cuts that were
+So, based on the continuation of the production cuts that were announced this week, what can we expect going forward? Iranian floating storage has all but disappeared and since other OPEC countries’ inventories are now below their 5-year average (in terms of days production) we don’t expect that they will continue to sell crude from inventories. This means that OPEC members will reduce exports to bring them in line with (lower) production and this could spell more trouble for the tanker market, in particular VLCC’s loading in the Arabian Gulf.
 
 *Chart*
 
@@ -31,8 +31,6 @@ So, based on the continuation of the production cuts that were
 *Source: Lloyd’s List Intelligence*
 
 *Source: IEA; Lloyd’s List Intelligence*
-
-announced this week, what can we expect going forward? Iranian floating storage has all but disappeared and since other OPEC countries’ inventories are now below their 5-year average (in terms of days production) we don’t expect that they will continue to sell crude from inventories. This means that OPEC members will reduce exports to bring them in line with (lower) production and this could spell more trouble for the tanker market, in particular VLCC’s loading in the Arabian Gulf.
 
 While the markets were not immediately impressed with the extension of the cuts and oil prices declined in response, chances are that the new OPEC deal will help balance the market in the second half of the year. This week, the U.S. Energy Information Administration reported a 4.4 million drop in domestic crude inventories, the seventh weekly drop in a row. Once the market sentiment changes and oil prices start to recover, the prospects for the tanker market will improve. Higher prices will likely lead to more OPEC production and exports either through quota adjustments or cheating.
 

@@ -34,11 +34,9 @@ The Capesize market showcased notable volatility this week, beginning with a str
 
 Panamax/Kamsarmax:
 
-The Panamax market was cautious this week, as Atlantic rates faced downward pressure from growing tonnage lists and limited T/A enquiry. While the Pacific saw some stability from firmer grain demand and renewed period interest, overall sentiment was dampened by thinner volumes in East Australia and uncertainty regarding Indonesian policy. Pricing reflected this mixed environment, with T/A rates showing a modest gain of US$225 to reach US$15,350, while the Pacific R/V and Pacific India routes dipped to US$12,608 and US$11,500 respectively. Supramax/Ultramax: The Supramax began the week on a subdued note, with a quiet trading atmosphere in Asia due to seasonal factors and a sluggish Indonesian coal market. However, the Atlantic basin provided a boost as sentiment improved across the US Gulf and European routes, helping the T/A rate rise to US$21,954. While the Pacific R/V saw a minor softening to settle
+The Panamax market was cautious this week, as Atlantic rates faced downward pressure from growing tonnage lists and limited T/A enquiry. While the Pacific saw some stability from firmer grain demand and renewed period interest, overall sentiment was dampened by thinner volumes in East Australia and uncertainty regarding Indonesian policy. Pricing reflected this mixed environment, with T/A rates showing a modest gain of US$225 to reach US$15,350, while the Pacific R/V and Pacific India routes dipped to US$12,608 and US$11,500 respectively. Supramax/Ultramax: The Supramax began the week on a subdued note, with a quiet trading atmosphere in Asia due to seasonal factors and a sluggish Indonesian coal market. However, the Atlantic basin provided a boost as sentiment improved across the US Gulf and European routes, helping the T/A rate rise to US$21,954. While the Pacific R/V saw a minor softening to settle at US$10,630, the market remains supported by a healthy diversification of cargo in NOPAC and emerging period interest.
 
 ## Page 3
-
-at US$10,630, the market remains supported by a healthy diversification of cargo in NOPAC and emerging period interest.
 
 Handysize:
 
@@ -249,11 +247,9 @@ Recyclers are showing a renewed interest in acquiring fresh tonnage in Chattogra
 
 Gadani
 
-Recyclers have observed a small selection of dry segment vessels circulating for potential bids this week, though firm commitments from shipowners remain elusive despite the region's favourable economic standing. Currently, Pakistani yards are offering more competitive pricing than their counterparts, which theoretically positions Gadani as a preferred destination for owners looking to offload ageing tonnage; however, the market has yet to see a definitive increase in finalised sales. A significant breakthrough for the local industry was recorded recently as Salams International became the nation's second ship recycling facility to receive HKC
+Recyclers have observed a small selection of dry segment vessels circulating for potential bids this week, though firm commitments from shipowners remain elusive despite the region's favourable economic standing. Currently, Pakistani yards are offering more competitive pricing than their counterparts, which theoretically positions Gadani as a preferred destination for owners looking to offload ageing tonnage; however, the market has yet to see a definitive increase in finalised sales. A significant breakthrough for the local industry was recorded recently as Salams International became the nation's second ship recycling facility to receive HKC certification from Class NK. As global supply dynamics begin to shift and local buyers remain eager for fresh inventory, the current timing suggests that the Pakistani waterfront may soon experience a long-awaited uptick in vessel arrivals.
 
 ## Page 16
-
-certification from Class NK. As global supply dynamics begin to shift and local buyers remain eager for fresh inventory, the current timing suggests that the Pakistani waterfront may soon experience a long-awaited uptick in vessel arrivals.
 
 Anchorage & Beaching Position (FEBRUARY 2026)
 
@@ -313,11 +309,9 @@ The imported ferrous scrap market in Bangladesh stayed largely unchanged, anchor
 
 ### Turkiye
 
-Deep sea import prices in Turkiye softened slightly as fresh deals emerged at lower levels, leaving the market direction somewhat ambiguous. Turkish mills are currently facing a difficult environment with tight rebar margins, which has led to significant resistance against higher scrap pricing. On the supply side, US sellers continued to target a range of US$380-385/t CFR while EU suppliers hovered around US$375-377/t. However, trade levels remained muted as high freight rates and slow scrap collection due to
+Deep sea import prices in Turkiye softened slightly as fresh deals emerged at lower levels, leaving the market direction somewhat ambiguous. Turkish mills are currently facing a difficult environment with tight rebar margins, which has led to significant resistance against higher scrap pricing. On the supply side, US sellers continued to target a range of US$380-385/t CFR while EU suppliers hovered around US$375-377/t. However, trade levels remained muted as high freight rates and slow scrap collection due to winter conditions prevented sellers from making deeper concessions, even as mills remained sidelined by sluggish downstream demand.
 
 ## Page 18
-
-winter conditions prevented sellers from making deeper concessions, even as mills remained sidelined by sluggish downstream demand.
 
 ## HMS 1/2 & Tangshan
 

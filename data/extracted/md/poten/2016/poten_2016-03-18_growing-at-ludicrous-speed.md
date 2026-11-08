@@ -24,7 +24,7 @@ While the U.S. is the biggest market in terms of existing stock of PEVs, sales i
 
 The success of electric cars in Norway has a lot to with government (tax) incentives and investments, such as the build-out of a nationwide charging station infrastructure to eliminate ‘range-anxiety’ – the fear of running out of electrical charge prior to reaching your destination. However, owning a PEV in Norway gives you other perks: PEVs can use bus and taxi lanes, PEV’s do not pay road tolls and they go on ferries for free, among other things. The goal of the Norwegian government is that by 2025 close to 100% of new cars sold will be emission-free PEVs. This is part of Norway’s plan to reduce its carbon footprint by 40% over that period.
 
-While Norway’s circumstances are unique and cannot be
+While Norway’s circumstances are unique and cannot be easily translated to other countries in the world, the trend towards cleaner energy and away from fossil fuels is also gaining momentum in other parts of the world. In China, for example, sales of PEV’s more than quadrupled in 2015 compared to 2014, most of them modestly priced models from domestic carmakers. Despite this growth, regular cars still outsell PEVs 99 to 1 in China, but this could change in the future. China’s goal is to create a world-leading electric car industry and, in the process, decrease its dependence on imported oil and reduce urban air pollution.
 
 *Chart: Fig. 1: OECD vs Non OECD Gasoline Demand*
 
@@ -33,8 +33,6 @@ While Norway’s circumstances are unique and cannot be
 *Chart: Fig 2: Sales of Electric Cars in China (2011-2015)*
 
 *Source: China Association of Automobile Manufacturers*
-
-easily translated to other countries in the world, the trend towards cleaner energy and away from fossil fuels is also gaining momentum in other parts of the world. In China, for example, sales of PEV’s more than quadrupled in 2015 compared to 2014, most of them modestly priced models from domestic carmakers. Despite this growth, regular cars still outsell PEVs 99 to 1 in China, but this could change in the future. China’s goal is to create a world-leading electric car industry and, in the process, decrease its dependence on imported oil and reduce urban air pollution.
 
 Battery prices are falling and prices for electric cars are expected to approach those of their internal-combustion counterparts within 10 years. This could be the point of liftoff for sales. Oil demand in developed mature markets, such as Europe, may decline as a result, further reinforcing the shift of oil and tanker demand towards Asia where gasoline demand growth will continue for the foreseeable future, despite the penetration of PEVs.
 

@@ -24,7 +24,7 @@ Direct investment in projects that will have a bearing on the crude oil and prod
 
 The most important project that has a direct impact on the tanker industry is the Myanmar to China crude oil pipeline, which was designed as an alternative route for China to receive crude oil from the Middle East and Africa, without having to ship it through the narrow Malacca Straits into the South China Sea. Although it has been ready since 2015, it only started operation in April this year when the Suezmax tanker “United Dynamic” discharged a million barrels of crude at the Ma Day Island Oil Terminal on the west coast of Myanmar. The 479-mile pipeline, which is designed to carry more than 400,000 barrels per day (b/d) runs from Ma Day to Kunming in China’s Yunnan Province, where PetroChina built a 260,000 b/d refinery. Since April, monthly volumes have gradually increased and reached 6 million barrels in October (~200,000 b/d). It is interesting to note that the liftings have moved from Suezmaxes in the early months to VLCCs more recently.
 
-Another project that shows the ambitions of the OBOR initiative is the proposal for a canal across the Kra Isthmus in Thailand. Like the Myanmar to China pipeline, the Thai canal would provide an alternative to transiting through the Malacca Straits and shorten the distance for oil shipments to Japan and China by 650 nautical miles. This is not a new idea. The first
+Another project that shows the ambitions of the OBOR initiative is the proposal for a canal across the Kra Isthmus in Thailand. Like the Myanmar to China pipeline, the Thai canal would provide an alternative to transiting through the Malacca Straits and shorten the distance for oil shipments to Japan and China by 650 nautical miles. This is not a new idea. The first time such a canal was suggested was in the year 1677, when Thai King Narai asked a French engineer to survey the possibility. However, the idea was discarded as impractical with the technology of that time. Since then, the idea has resurfaced several times, but so far a Kra Isthmus Canal has not materialized due to high costs and environmental concerns. The latest proposal is on hold for the same reason.
 
 *Chart*
 
@@ -33,8 +33,6 @@ Another project that shows the ambitions of the OBOR initiative is the proposal 
 *Chart*
 
 *Source: Lloyds Intelligence*
-
-time such a canal was suggested was in the year 1677, when Thai King Narai asked a French engineer to survey the possibility. However, the idea was discarded as impractical with the technology of that time. Since then, the idea has resurfaced several times, but so far a Kra Isthmus Canal has not materialized due to high costs and environmental concerns. The latest proposal is on hold for the same reason.
 
 There are several energy and transport projects in the Middle East that China has invested in or is planning to, including refining projects and pipelines. Chinese investment dollars are also committed to various projects in Southeast Asia, such as a refinery in Indonesia and a deep-water port in Vietnam. Asia needs infrastructure and OBOR fills part of that need.
 

@@ -24,7 +24,7 @@ The first decade of the new millennium was characterized by rapid oil demand gro
 
 In 2008, the collapse of Lehman Brothers and the global financial crisis that followed led to a collapse in oil prices and ended the bull run in tanker rates. When oil prices started recovering, tanker rates initially followed.
 
-However, in 2010, something changed: Oil prices continued their upward trajectory, although less driven by rapid demand growth, while the tanker market slumped. The main reason for the decline of tanker rates was that newbuildings, ordered during the boom period, continued to be delivered into the fleet while there were only a very small number of tankers of
+However, in 2010, something changed: Oil prices continued their upward trajectory, although less driven by rapid demand growth, while the tanker market slumped. The main reason for the decline of tanker rates was that newbuildings, ordered during the boom period, continued to be delivered into the fleet while there were only a very small number of tankers of scrapping age. As a result, the fleet growth exceeded demand growth and rates slumped.
 
 *Chart: Fig. 1: Crude Oil Prices Compared to VLCC TC Rates*
 
@@ -33,8 +33,6 @@ However, in 2010, something changed: Oil prices continued their upward trajector
 *Chart: Fig. 2: Crude Oil Production Growth vs Demand Growth*
 
 *Source: IEA*
-
-scrapping age. As a result, the fleet growth exceeded demand growth and rates slumped.
 
 In 2010/11, the oil market changed as well, even though the prices did not reflect it yet. The US production of shale oil started to play a role, slowly at first, but gaining momentum over time as prices justified rapid expansion (see figure 2). In 2013, U.S. production growth was partially offset by production declines in Libya, Iran and Nigeria but in mid-2014 as OPEC and Saudi Arabia shifted their focus from price to market share, crude oil supply increasingly took over as the primary driver for oil prices.
 

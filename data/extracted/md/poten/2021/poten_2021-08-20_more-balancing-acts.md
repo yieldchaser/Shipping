@@ -26,13 +26,11 @@ If we look at the last 5 years, we see that Suezmax Ton-Mile demand in the first
 
 Looking at the Aframax graph, which combines dirty and clean cargoes, we see that demand declined towards the middle of 2020 but has recovered nicely since then. In fact, 2021 H1 Ton-Mile demand is 3.2% higher than 2019 H1 demand was. In contrast to the Suezmaxes, the Med is the main growth area for Aframaxes. It might come as a surprise that the dirty Aframax trades have grown more than the clean trades.
 
-Dirty Aframax Ton-Mile demand increased by 5.6% from the first half of 2019 to the first half of 2021. About three quarters of the total growth originated in the Mediterranean, and the main growth route (in Ton-Miles) were exports from Russia to
+Dirty Aframax Ton-Mile demand increased by 5.6% from the first half of 2019 to the first half of 2021. About three quarters of the total growth originated in the Mediterranean, and the main growth route (in Ton-Miles) were exports from Russia to the U.S., which more than doubled over the period. Intra-Asian trade also increased by about 5%.
 
 *Chart*
 
 *Source: Lloyd’s List Intelligence; Poten*
-
-the U.S., which more than doubled over the period. Intra-Asian trade also increased by about 5%.
 
 Ton-Mile demand for clean cargoes moved by Aframax tankers (LR2s) is much smaller than for the dirty trades and demand was more or less flat when comparing the first half of 2019 with 2021.
 

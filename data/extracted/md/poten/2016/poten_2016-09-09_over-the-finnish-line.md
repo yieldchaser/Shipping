@@ -24,7 +24,7 @@ This uncertainty will give shipowners pause, especially since these ballast wate
 
 The fact that the United States unilaterally adopted a different (more stringent) approval regime for treatment equipment has made the situation even more complicated, especially since there are currently no systems on the market that have received US Coast Guard (USCG) approval. It is therefore no surprise that the reaction in shipping circles following the ratification of BWTC has been mixed. Unless the US Coast Guard quickly type-approves a number of systems, shipowners are facing the risk of investing millions of dollars in systems that they may have to replace within a matter of years
 
-As a result of the prolonged uncertainty around the
+As a result of the prolonged uncertainty around the implementation date and lack of clarity which systems may or may not be acceptable under the IMO and USCG regimes, many shipowners have delayed decisions regarding the installation of ballast water treatment systems. However, assuming everything will be sorted out over the next twelve months, prior to the first wave of BWTS retro-fits, what do we expect the impact to be on the tanker market? There are two factors that are frequently mentioned: congestion in the shipyards and increased scrapping.
 
 *Chart: Fig. 1: World Merchant Fleet*
 
@@ -33,8 +33,6 @@ As a result of the prolonged uncertainty around the
 *Chart*
 
 *Source: UNEP/GRID-Arendal*
-
-implementation date and lack of clarity which systems may or may not be acceptable under the IMO and USCG regimes, many shipowners have delayed decisions regarding the installation of ballast water treatment systems. However, assuming everything will be sorted out over the next twelve months, prior to the first wave of BWTS retro-fits, what do we expect the impact to be on the tanker market? There are two factors that are frequently mentioned: congestion in the shipyards and increased scrapping.
 
 An estimated 60-70,000 vessels will need to have some sort of ballast water treatment system installed in the five year period between 2017 and 2022. While this is a large number of vessels, the retrofitting will be done during regular drydock intervals and for most vessels the installation of a BWTS will not add significantly to the time in the shipyard and we think that the yards will be able to handle the workload without too much disruption.
 

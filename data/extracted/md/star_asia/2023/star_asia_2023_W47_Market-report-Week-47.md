@@ -30,11 +30,9 @@ Market sentiment improved following the announcement of China's stimulus measure
 
 Panamax/Kamsarmax:
 
-Continued demand for North American grains and a shortage of shipping vessels in the Atlantic region are driving T/A routes upwards. The strength in the N. Atlantic, ongoing supply disruptions in the USG due to Panama Canal restrictions, and deteriorating vessel conditions in S. American grain ports are supporting factors for the Panamax market. T/A levels improved to US$21,150's a day. The overall market is expected to maintain a robust
+Continued demand for North American grains and a shortage of shipping vessels in the Atlantic region are driving T/A routes upwards. The strength in the N. Atlantic, ongoing supply disruptions in the USG due to Panama Canal restrictions, and deteriorating vessel conditions in S. American grain ports are supporting factors for the Panamax market. T/A levels improved to US$21,150's a day. The overall market is expected to maintain a robust outlook, driven by the shortage of supplies in the Atlantic and the influx of N. American demand into the market. Supramax/Ultramax: The market experiences an upward turn in both major regions as demand for USG grains and Pacific coal drives the market. The towing effect spans the entire Atlantic region, partially absorbing vessels located in nearby areas such as the Black Sea and South America. At the week's closing, T/A saw levels settle higher, around US$ 23,000 a day. With the expectation of supply disruptions due to forecasted rain in Indonesia starting in December, there is an influx of speculative demand supporting the Pacific freight market. Pacific r/v closed at US$9,900's a day.
 
 ## Page 2
-
-outlook, driven by the shortage of supplies in the Atlantic and the influx of N. American demand into the market. Supramax/Ultramax: The market experiences an upward turn in both major regions as demand for USG grains and Pacific coal drives the market. The towing effect spans the entire Atlantic region, partially absorbing vessels located in nearby areas such as the Black Sea and South America. At the week's closing, T/A saw levels settle higher, around US$ 23,000 a day. With the expectation of supply disruptions due to forecasted rain in Indonesia starting in December, there is an influx of speculative demand supporting the Pacific freight market. Pacific r/v closed at US$9,900's a day.
 
 Handysize:
 

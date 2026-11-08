@@ -22,13 +22,11 @@ Brazil overtook Venezuela in 2015 as South America’s largest oil producer (2.5
 
 For the tanker market, the increase in production has also led to a significant boost in exports. In the first three months of 2015, Brazilian seaborne crude oil exports averaged 672,000 b/d. For the same period of 2016, this increased 13% to 760,000 b/d. Growth accelerated as exports reached 1,020,000 b/d in the first quarter of 2017, 34% more than in Q1 2016. Some 46% of the export barrels were moved on VLCCs and 45% on Suezmaxes, with the remaining 9% mostly going on Aframax tankers. These export volumes do not include the shuttle moves from the offshore fields to terminals in Brazil and Uruguay, although these voyages do employ a sizeable fleet of dedicated shuttle tankers.
 
-In volume terms, the key destinations for Brazilian crude are China (41%), other Asia (15%), Caribbean/USG (14%), Europe (11%) and Chile (9%). An interesting development this year has been the steady flow of cargoes from Brazil to the U.S. Atlantic Coast. This was not a regular trade prior to 2017. This new trade (as well as the growing exports to China and India) may be partly due to the changing specifications of the Brazilian
+In volume terms, the key destinations for Brazilian crude are China (41%), other Asia (15%), Caribbean/USG (14%), Europe (11%) and Chile (9%). An interesting development this year has been the steady flow of cargoes from Brazil to the U.S. Atlantic Coast. This was not a regular trade prior to 2017. This new trade (as well as the growing exports to China and India) may be partly due to the changing specifications of the Brazilian crudes that are available for export. Brazil has started to produce more light sweet crudes from pre-salt deepwater offshore fields. These grades are well suited for refineries in Asia and on the U.S. East Coast.
 
 *Chart*
 
 *Source: Lloyd’s List Intelligence*
-
-crudes that are available for export. Brazil has started to produce more light sweet crudes from pre-salt deepwater offshore fields. These grades are well suited for refineries in Asia and on the U.S. East Coast.
 
 At the same time that Brazil has stepped up its crude oil exports, the country reduced its imports. There are two main reasons for the reduced need for imported crudes: (1) higher domestic production of light crude reduces the need to import these grades, which are used for blending with heavy domestic grades and (2) lower domestic refinery utilization also reduces import demand. State oil company Petrobras has a virtual monopoly in the Brazilian refining market, but the high debt load and the financial problems facing the company left little money for investment and maintenance, causing challenges for the company’s refining operations.
 

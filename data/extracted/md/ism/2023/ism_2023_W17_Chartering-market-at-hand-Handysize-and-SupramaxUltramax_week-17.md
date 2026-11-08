@@ -20,9 +20,7 @@ charts_count: 3
 
 South Atlantic Supramax/Ultramax rates stay at healthy levels as new grain requests with May laycans quite regularly enter the market, balancing the list of available tonnage in the region. «The market is active, with rates holding firm as demand remains solid,» a broker said to ISM. The Handysize market has even started to grow amid
 
-Handy/Supra owners forced to accept lower rates in all sections except ECSA and PG
-
-an acute shortage of such vessels open for spot dates (especially this applies to large Handy fleet). By the end of the week, Handysize rates have risen by $2-3k daily and $3-4/t in the region. Thus, rates for shipment of 25-30,000 t of wheat from Upriver to Algeria have increased to around $40-41/t in case of a good discharge rate of 5,000 sshex, and to mid-$40s/t in case of a 3000 sshex disch.
+Handy/Supra owners forced to accept lower rates in all sections except ECSA and PG an acute shortage of such vessels open for spot dates (especially this applies to large Handy fleet). By the end of the week, Handysize rates have risen by $2-3k daily and $3-4/t in the region. Thus, rates for shipment of 25-30,000 t of wheat from Upriver to Algeria have increased to around $40-41/t in case of a good discharge rate of 5,000 sshex, and to mid-$40s/t in case of a 3000 sshex disch.
 
 The USG market has stopped growing as the number of open Supramax/Ultramax vessels is gradually increasing in the region. The Handysize segment is still showing positive trends thanks to relatively brisk cargo traffic on transatlantic routes ($1k daily and $1-2/t up). Rates for shipment of up to 50,000 t of corn from the USG to S.China hold steady at $50-51/t bss 1/1.
 

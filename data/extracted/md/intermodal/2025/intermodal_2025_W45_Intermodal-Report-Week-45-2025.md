@@ -83,9 +83,7 @@ Crude carriers saw a week of mixed fortunes, with VLCC rates retreating, Suezmax
 
 VLCC spot rates eased, reversing the previous rally, with average TCEs falling 16% w-o-w to \$91,314/day, yet remining at robust levels. In the East, a lull in fresh cargoes and cautious charterers curtailed demand, adding pressure on rates. WAF mirrored this softness, with limited visible fixtures, some private deals and charterers regaining leverage. The USG started the week positively amid steady enquiry and tight tonnage, but momentum faded midweek as demand eased, leaving owner hopes for a potential rebound on fresh stems.
 
-The Suezmax segment extended its positive momentum this week, buoyed by a robust Atlantic market and firm sentiment. In WAF, relet activity and positive spillover from USG market pushed rates to two-year highs, boosting owner confidence. The AG re-
-
-mained subdued, though limited tonnage and Bahri enquiry kept rates stable. Suezmax TCEs averaged \$84,930/day, up 6.7% on a weekly basis.
+The Suezmax segment extended its positive momentum this week, buoyed by a robust Atlantic market and firm sentiment. In WAF, relet activity and positive spillover from USG market pushed rates to two-year highs, boosting owner confidence. The AG re-mained subdued, though limited tonnage and Bahri enquiry kept rates stable. Suezmax TCEs averaged \$84,930/day, up 6.7% on a weekly basis.
 
 Aframaxes witnessed a broadly flat week, with TCE rates hovering around \$60k. Aframax TCE read \$60,455/day, remaining almost unchanged comparing to previous week. The Atlantic and North Sea markets remained stable, supported by positive sentiment and a tight prompt tonnage list. In the Med, rates firmed after midweek as fresh enquiry met limited workable tonnage. Meanwhile, East region levels strengthened despite softer activity in Indonesia, underpinned by scarce prompt tonnage, keeping owners in a favorable position.
 

@@ -26,7 +26,6 @@ The global maritime community is closely tracking the ripple effects of a potent
 
 ## Page 2
 
-
 # DRY BULK | BDI: 2,729 ▼-8.45% (w-o-w)
 
 Dry bulk sector experienced a downward shift as the overall index fell to 2,729 points, marking its 11th consecutive day of losses and hitting its lowest point since the start of May. This retreat follows an exceptionally strong showing last month where Capesize earnings hit a fifteen-year seasonal peak, though the segment has since cooled with the large vessel index sliding 16% w-o-w to 4,107 points. While June historically ushers in quieter trading windows, FFAs continue to signal a robust third quarter ahead, offering a silver lining to the temporary softening driven partly by quiet Pacific spot trade ahead of regional financial year-end closures. Looking at the broader picture, the underlying strength seen throughout the year has been heavily supported by operational hurdles, which have naturally stretched sailing times and trimmed active vessel supply. Given that MEG geopolitical tensions continue to cloud the energy landscape with long-term uncertainty, these tighter supply dynamics are widely expected to persist and keep floor support firmly under global freight rates for the foreseeable future.
@@ -42,7 +41,6 @@ Dry bulk sector experienced a downward shift as the overall index fell to 2,729 
 **Handysize:** Handy market experienced across-the-board gains this week as tightening tonnage availability and highly balanced supply-demand dynamics created a much firmer trading environment. Steady fixture activity across most major regions provided reliable floor support, with the USG and key Asian markets showing the most encouraging signs of upward momentum. Spot rates advanced safely into positive territory, lifting Inter-Pacific routes to US$16,050'S and T/A trips to US$15,440 a day.
 
 ## Page 3
-
 
 | Baltic Dry | Indices |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -90,7 +88,6 @@ Dry bulk sector experienced a downward shift as the overall index fell to 2,729 
 
 ## Page 5
 
-
 # TANKERS | BDTI: 1,950 ▼-7.58% (w-o-w)
 
 VLCC market reached a clear turning point as regional earning dislocations grew historically extreme. Geopolitical friction propelled Arabian Gulf/China earnings to roughly triple those of West African and USG routes, validating predictions that the Atlantic Basin would soften as vessel supply outpaced cargo demand. Outbound traffic through the Strait of Hormuz remained heavily subdued, with only three laden VLCCs carrying 6 million barrels transiting last week compared to a pre-war norm of 105 million barrels. Consequently, non- Arabian Gulf VLCC earnings dipped below US$100,000 per day for the first time in 19 weeks. This shift also highlight a broader inventory crisis, with the IEA reporting that global supply losses have reached 12.8 million barrels per day since late February, draining global stocks by 250 million barrels over March and April and driving U.S. inventories to their lowest levels since 2004. To mitigate these critical shortages, a clandestine network of "dark transit" has emerged, elevating exports out of the Gulf to approximately 2 million barrels per day. Under the cover of darkness and assisted by U.S. naval forces, government-owned fleets from Kuwait and the United Arab Emirates are navigating the waterway with disabled transponders and strict radio silence to avoid Iranian tolls. Over the weekend, satellite imagery captured 16 tankers clustered off the coast of Oman to transfer these volumes onto international vessels bound for Asia. This shadow logistics operation, combined with domestic reserve drawdowns and a slump in Chinese spot buying, has successfully kept a lid on immediate flat prices, allowing the market to temporarily absorb the largest supply shock in maritime history ahead of peak summer demand.
@@ -108,7 +105,6 @@ VLCC market reached a clear turning point as regional earning dislocations grew 
 **MR:** Far East MR market closed flat this week as private contracting activity managed to sustain rate levels. In the USG however, levels saw a sudden uptick mid-week before closing at WS250 at week's closing. In the MEG, index remain unchanged with trips to East Africa closing at WS730's.
 
 ## Page 6
-
 
 ### Baltic Tanker Indices
 
@@ -149,7 +145,6 @@ VLCC market reached a clear turning point as regional earning dislocations grew 
 
 ## Page 8
 
-
 # CONTAINERS
 
 The SCFI index rose to 2,985 points as June's FAK hikes, peak season surcharges, and emergency fuel fees firmly established higher baseline rates. Transpacific spot rates surpassed US$5,000 per FEU to the U.S. West Coast, driven by early peak demand and cargo front-loading ahead of Amazon Prime Day and anticipated July tariff adjustments. Similarly, European lanes maintained upward momentum amid transshipment delays and new surcharges, while a structural space deficit tightened in South America due to Brazil's export season. Shippers face a heavy, multi-layered cost burden as soaring war risk insurance premiums and prolonged Cape of Good Hope detours outpace shifts in base ocean freight.
@@ -185,7 +180,6 @@ The SCFI index rose to 2,985 points as June's FAK hikes, peak season surcharges,
 
 ## Page 10
 
-
 ### Ship Recycling - Current Market Snapshot (USD / LDT)
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
@@ -218,7 +212,6 @@ All prices are USD per light displacement tonnage (long ton), net prices offered
 
 ## Page 12
 
-
 ## Market Insights
 
 **Alang, India:** Alang remained heavily subdued, constrained by a persistent absence of sales activity and general price declines across all vessel segments. Despite this weak market sentiment and the operational slowdown brought on by the onset of the seasonal monsoon, the local industry received a significant structural boost as the Rupee consolidated its recovery at approximately 95.40 against the USD. This currency stabilisation, driven by the Reserve Bank of India holding interest rates at 5.25%, tax breaks on foreign bond investments, and a collapse in Brent crude toward US$89, has significantly reduced India's energy import bill for crude and LPG routing through the recovering Strait of Hormuz.
@@ -242,7 +235,6 @@ Despite these uncertainties, local breaker sentiment remains positive and compet
 Next week should provide greater clarity on the outcome of the budget and its impact on the market. However, at first glance, there appears to be no major change that would directly affect ship pricing.
 
 ## Page 13
-
 
 ## Chattogram Anchorage & Beaching Position - June 2026
 
@@ -270,7 +262,6 @@ Signs of desperation were evident in Pakistan's ship recycling sector this week,
 
 ## Page 14
 
-
 # SUB-CONTINENT & TURKEY SCRAP MARKETS
 
 **India:** The imported scrap market remains soft as domestic mills firmly resist higher containerized offers, choosing to prioritize domestic alternatives over uncompetitive imports. Suppliers have aggressively held back fresh volumes or diverted them elsewhere, seeking premiums of US$15-US$20/t over what Indian buyers are currently willing to pay. Consequently, local inquiries for UK-origin shredded scrap at US$425-US$430/t CFR and UK HMS 80:20 at US$360/t CFR have evaporated, limiting active discussions to small niche volumes like Philippines-origin GI bundles at US$345-$347/t CFR.
@@ -287,12 +278,9 @@ Signs of desperation were evident in Pakistan's ship recycling sector this week,
 
 Iron ore futures fell below CNY 760 per ton, hitting a near two-month low after China's inbound shipments dropped roughly 6% m-o-m to 97.71 million tons, missing broader market expectations. This sharp drop in purchasing reflects an early slowdown in domestic construction activity, as unseasonably heavy rainfall and summer heat across China cooled steel mill appetite. Simultaneously, the aluminium sector faces a severe regional supply shock after weekend airstrikes in the Middle East led to a controlled shutdown of Qatar's 636kt Qatalum primary facility, which could take up to twelve months to fully restart. This long-term disruption has injected a substantial risk premium into a market already tracking an annual deficit of 600kt, triggering an earlier 3.8% price surge to US$3,315 per ton and causing LME warehouse orders for Malaysian material to jump to their highest point since September.
 
-In contrast to the supply-driven surges in energy and aluminium, base and bulk metals are facing a tougher macro environment as central banks move to combat these rising costs. Copper futures dropped
+In contrast to the supply-driven surges in energy and aluminium, base and bulk metals are facing a tougher macro environment as central banks move to combat these rising costs. Copper futures dropped below US$6.2 per pound, reaching a three-week low on growing fears that surging energy components will fuel faster consumer inflation and lock in a Federal Reserve interest rate hike for December.
 
 ## Page 15
-
-
-below US$6.2 per pound, reaching a three-week low on growing fears that surging energy components will fuel faster consumer inflation and lock in a Federal Reserve interest rate hike for December.
 
 Higher projected borrowing costs have clouded the near-term manufacturing outlook, overshadowing a recent exchange of military strikes that raised fears of broader trade disruption.
 
@@ -336,7 +324,6 @@ Higher projected borrowing costs have clouded the near-term manufacturing outloo
 
 ## Page 16
 
-
 ### Bunker Prices (USD / ton)
 
 | PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
@@ -346,4 +333,3 @@ Higher projected borrowing costs have clouded the near-term manufacturing outloo
 | FUJAIRAH | $1,232 | $668 | $1,537 |
 | ROTTERDAM | $677 | $588 | $1,050 |
 | HOUSTON | $739 | $646 | $1,072 |
-

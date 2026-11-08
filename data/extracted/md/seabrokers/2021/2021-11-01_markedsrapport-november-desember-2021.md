@@ -313,9 +313,7 @@ Chouest subsidiary poised to put the vessel into service. The Paulo Cunha is a D
 
 ## CHINESE LNG OSV ENTERS SERVICE
 
-COSL recently accepted delivery of the Hai Yang Shi You 540 from the Wuchang Shipbuilding Industry Group in China. The LNG-powered Hai Yang Shi You 540 is a 65m offshore guard and standby/supply vessel with a deadweight of 1,500 tonnes. She is reportedly the first in a
-
-series of eight LNG-powered sister vessels that are being built as part of the Chinese owner's efforts to reduce the carbon emissions of its fleet. COSL is also having four larger LNG vessels built at another Chinese yard to raise its LNG fleet to 12 guard and supply vessels.
+COSL recently accepted delivery of the Hai Yang Shi You 540 from the Wuchang Shipbuilding Industry Group in China. The LNG-powered Hai Yang Shi You 540 is a 65m offshore guard and standby/supply vessel with a deadweight of 1,500 tonnes. She is reportedly the first in a series of eight LNG-powered sister vessels that are being built as part of the Chinese owner's efforts to reduce the carbon emissions of its fleet. COSL is also having four larger LNG vessels built at another Chinese yard to raise its LNG fleet to 12 guard and supply vessels.
 
 ## STANDARD PRINCESS SOLD OUT OF MARKET
 

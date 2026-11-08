@@ -296,7 +296,6 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 | MOSHTARAKA 2 | BULKER | 14,398 | 09.08.2024 | 16.08.2024 |
 | SEA OF WAVES | BULKER | 1,037 | 12.08.2024 | 20.08.2024 |
 
-
 ## Page 16
 
 #### EXCHANGE RATES
@@ -319,11 +318,9 @@ The downturn in India was attributed to several factors, including weak steel de
 
 In Pakistan, the ferrous scrap market saw a slight increase in shredded scrap offers, which edged up by US$2/t to US$399/t CFR-Qasim. This rise was driven by higher supplier offers amid exchange rate fluctuations despite moderate activity levels. Mills remained cautious, with limited interest in new bookings, influenced by weak liquidity, ongoing monsoon rains, and concerns over potential declines in rebar and billet prices.
 
-The market slowdown was further compounded by end-of-month financial constraints, which restricted cash flow and purchasing activity. A noteworthy development was the Fauji Foundation's interest in acquiring Agha Steel Industries, leading to a 10.03% rise in Agha Steel's stock, signaling potential sector consolidation. However, overall market
+The market slowdown was further compounded by end-of-month financial constraints, which restricted cash flow and purchasing activity. A noteworthy development was the Fauji Foundation's interest in acquiring Agha Steel Industries, leading to a 10.03% rise in Agha Steel's stock, signaling potential sector consolidation. However, overall market conditions remained subdued, with uncertainty prevailing due to economic and weather-related factors. In Bangladesh, the imported scrap market was largely subdued this week, with minimal trading activity. Severe floods and the ongoing rainy season significantly hampered construction activities, leading to a sharp decline in scrap demand. Indicative offers for shredded scrap from the UK/Europe ranged from US$400/t to 405/t CFR Chattogram, while HMS (80:20) offers were around US$390-395/t CFR. However, buyers showed little interest, anticipating further price declines and facing logistical challenges due to the floods. The market's inactivity was further exacerbated by delays in letters of credit issuance and financial verification issues, leaving the overall sentiment cautious and uncertain.
 
 ## Page 17
-
-conditions remained subdued, with uncertainty prevailing due to economic and weather-related factors. In Bangladesh, the imported scrap market was largely subdued this week, with minimal trading activity. Severe floods and the ongoing rainy season significantly hampered construction activities, leading to a sharp decline in scrap demand. Indicative offers for shredded scrap from the UK/Europe ranged from US$400/t to 405/t CFR Chattogram, while HMS (80:20) offers were around US$390-395/t CFR. However, buyers showed little interest, anticipating further price declines and facing logistical challenges due to the floods. The market's inactivity was further exacerbated by delays in letters of credit issuance and financial verification issues, leaving the overall sentiment cautious and uncertain.
 
 **Turkey's ferrous scrap market saw a gradual upward movement in prices, with the mood**
 

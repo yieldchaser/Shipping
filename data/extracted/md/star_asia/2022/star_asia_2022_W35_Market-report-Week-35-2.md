@@ -24,37 +24,15 @@ pages: 15
 
 ---
 
-On Friday, the G7 nations concluded to impose a price restriction on Russian oil exports in
+On Friday, the G7 nations concluded to impose a price restriction on Russian oil exports in order to safeguard their consumers from growing energy costs. The G7 finance ministers agreed in a statement that the introduction of the price limit should coincide with the timeframe for the execution of the additional sanctions against Russia. They stated that the first price ceiling should be established at a level determined by a variety of technical factors.
 
-order to safeguard their consumers from growing energy costs. The G7 finance ministers
+Further, the introduction of the price ceiling should coincide with the execution of the additional sanctions against Russia, stating that the policy's influence on the oil market will be continuously examined. However, energy experts were wary of the concept, saying that if key customers such as India and China were not included, it might backfire.
 
-agreed in a statement that the introduction of the price limit should coincide with the
-
-timeframe for the execution of the additional sanctions against Russia. They stated that the
-
-first price ceiling should be established at a level determined by a variety of technical factors.
-
-Further, the introduction of the price ceiling should coincide with the execution of the
-
-additional sanctions against Russia, stating that the policy's influence on the oil market will be
-
-continuously examined. However, energy experts were wary of the concept, saying that if key
-
-customers such as India and China were not included, it might backfire.
-
-G7 decision to put a price restriction on Russian oil propelled prices up on Friday. Brent oil
-
-rose 2.7% to US$94.89 per barrel, while West Texas Intermediate futures rose 2.8% to
+G7 decision to put a price restriction on Russian oil propelled prices up on Friday. Brent oil rose 2.7% to US$94.89 per barrel, while West Texas Intermediate futures rose 2.8% to
 
 US$89.10.
 
-According to IEA, Russian oil shipments fell by 250,000 BPD in June to about 7 million BPD,
-
-the lowest level since August of last year. Regardless, the country's export profits still
-
-increased by US$700 million M-O-M. Russia's crude export profits have increased by 40% to
-
-more than US$20 billion.
+According to IEA, Russian oil shipments fell by 250,000 BPD in June to about 7 million BPD, the lowest level since August of last year. Regardless, the country's export profits still increased by US$700 million M-O-M. Russia's crude export profits have increased by 40% to more than US$20 billion.
 
 #### Dry Bulk
 
@@ -66,17 +44,7 @@ The deterioration of the situation with Capesize vessels has reached new lows. A
 
 Factors stifling steel demand still remain as further decreases were noted this week. Baltic
 
-Cape T/C Average fell to 3,111pt last week - the lowest ever since May '20, when COVID-19
-
-started. Steel prices rose last week as a result of the Chinese government's mention of yet
-
-again to stimulating the economy. However, genuine demand is slowly returning. As the heat
-
-wave subsides in September, China's steel demand is expected to recover, as will the freight
-
-rate market. However, the current forecast indicates that the pace of recovery will be slower
-
-than in a typical year. Pacific r/v closed at US$7,375 a day while T/A was in the US$2,988.
+Cape T/C Average fell to 3,111pt last week - the lowest ever since May '20, when COVID-19 started. Steel prices rose last week as a result of the Chinese government's mention of yet again to stimulating the economy. However, genuine demand is slowly returning. As the heat wave subsides in September, China's steel demand is expected to recover, as will the freight rate market. However, the current forecast indicates that the pace of recovery will be slower than in a typical year. Pacific r/v closed at US$7,375 a day while T/A was in the US$2,988.
 
 #### Panamax / Kamsarmax:
 
@@ -146,11 +114,9 @@ The USG/TA market has started to slow down after providing most of the momentum 
 
 #### Aframax:
 
-Due to the reduction in the number of vessels in the Middle East, the freight rates have increased. This week, the UKC was also relatively quiet, which resulted in a slight decrease in
+Due to the reduction in the number of vessels in the Middle East, the freight rates have increased. This week, the UKC was also relatively quiet, which resulted in a slight decrease in rates. The Baltic saw some increase in the supply of cargo. Some activities may return to the region soon. 100,000mt Baltic/UK-Continent market stayed steady this week, losing slightly over half a point to conclude at WS206.
 
 ## Page 6
-
-rates. The Baltic saw some increase in the supply of cargo. Some activities may return to the region soon. 100,000mt Baltic/UK-Continent market stayed steady this week, losing slightly over half a point to conclude at WS206.
 
 #### Clean:
 
@@ -209,15 +175,7 @@ Despite the efforts by charterers to exert downward pressure on rates, the marke
 
 # Containers
 
-The containership charter market is growing more pessimistic as rates continue to fall
-
-week on week. In the feeder sector, most operators are similarly hesitant to commit to
-
-long-term contracts. In the Middle East, CMA CGM took two 1100 TEU feeders for
-
-employment of around 9 months at a rate of US$28,000, which is significantly lower
-
-compared to the previous year.
+The containership charter market is growing more pessimistic as rates continue to fall week on week. In the feeder sector, most operators are similarly hesitant to commit to long-term contracts. In the Middle East, CMA CGM took two 1100 TEU feeders for employment of around 9 months at a rate of US$28,000, which is significantly lower compared to the previous year.
 
 ## Page 8
 

@@ -24,7 +24,6 @@ Diplomatic discussions between regional authorities have introduced a new framew
 
 ## Page 2
 
-
 # DRY BULK | BDI: 3,186 ▲12.14% (w-o-w)
 
 Dry bulk freight market demonstrated robust upward momentum, supported by tightening fleet availability and fresh weather disruptions across Asia even as critical maritime corridors face severe geopolitical strain. Ongoing conflicts have significantly constrained Black Sea agricultural shipments-with August wheat exports expected to fall well below 2.5 million tons compared to 6.3 million tons during the same period last year-while the blockage of the Strait of Hormuz has stalled crucial fertiliser trade and left an estimated 120 to 150 bulk carriers immobilised. The benchmark BDI advanced for five consecutive sessions, climbing to reach 3,056 points. Larger vessel segments spearheaded the mid-week surge as Typhoon Narra disrupted key South China Sea trade routes, propelling the Capesize index up xx% to 5,033 points with average daily earnings rising to reach US$42,148. In tandem, the Panamax index increased to 2,246 points, lifting daily returns to US$20,213, while the Supramax index maintained a steady footing by edging up to 1,644 points.
@@ -40,7 +39,6 @@ Dry bulk freight market demonstrated robust upward momentum, supported by tighte
 **Handysize:** Handysize displayed a modestly firmer tone this week, supported by improving cargo volumes in EC South America and better forward sentiment in the USG, even as the Mediterranean faced persistent pressure from ample tonnage availability. Across the Pacific, Asian routes held relatively steady, drawing underlying support from pockets of fresh activity and tight prompt vessel supply. Reflecting these modest regional gains, spot returns edged upward across key routes, lifting Inter-Pacific runs to US$16,200's and fronthaul trips to US$11,600's per day.
 
 ## Page 3
-
 
 ### Baltic Dry Index (BDI)
 
@@ -89,7 +87,6 @@ Dry bulk freight market demonstrated robust upward momentum, supported by tighte
 
 ## Page 5
 
-
 # TANKERS | BDTI: 2,777 ▼+9.56% (w-o-w)
 
 The prolonged regional disruptions continue to generate remarkable freight earnings for crude carriers, keeping owner returns exceptionally high. During the second quarter, spot earnings for VLCC's reached an average of US$126,800's per day, nearly tripling the US$44,981 recorded in the same period last year, and have maintained solid momentum into the third quarter at US$125,400's per day with 83% of available fleet days already secured. Meanwhile, regional monitoring groups emphasise that Iranian naval units maintain steady surveillance and drone flights to assert authority along the Straits. Amid these tensions, daily crossings through the Hormuz nudged up to 10 vessels on Wednesday from 8 on Tuesday-comprising inbound passages by 2 fuel tankers, an LPG carrier, a Panamax, and 3 Handymax ships, alongside 3 outbound vessels carrying fuel, bitumen, and dry bulk-though activity still trails the recent 10-day baseline of 15 ships. Crude prices softened slightly this week, as high-level discussions in Tehran led by Qatar's Prime Minister continue to explore potential commercial transit arrangements.
@@ -107,7 +104,6 @@ The prolonged regional disruptions continue to generate remarkable freight earni
 **MR:** Far East market saw freight rates surge, driven by an expansion in Chinese refined petroleum product exports and the splitting of stems from larger vessels. In the MEG, TC17 to East Africa saw rates gain some 15 points to close at WS525.
 
 ## Page 6
-
 
 ### Baltic Tanker Indices
 
@@ -184,7 +180,6 @@ Container shipping market continued its climb this week as the SCFI rose to 3,50
 
 ## Page 10
 
-
 ### Ship Recycling - Current Market Snapshot (USD / LDT)
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
@@ -219,7 +214,6 @@ All prices are USD per light displacement tonnage (long ton), net prices offered
 
 ## Page 12
 
-
 ## Market Insights
 
 **Alang, India:** Alang maintained a steady week, with keen buying interest driving a noticeable improvement in sentiment. Supported by an active recovery in local scrap demand, domestic plate prices settled at 41,000 rupees/MT by Friday. This provides yard operators with a welcome margin cushion compared to the US$423 mark seen at the start of the period. While Indian buyers still have some ground to cover before matching the higher pricing levels offered for conventional bulkers and containers in Bangladesh and Pakistan, the sustained uptick in local steel values and healthy plot fundamentals offer genuine encouragement as the market heads toward the fourth quarter.
@@ -239,13 +233,9 @@ Domestic steel consumption is projected to expand by over 9% this year, powered 
 
 **Chattogram, Bangladesh:** Chattogram maintained a measured course through the week, with price indications holding broadly unchanged despite a slight softening in local steel trading. Domestic steel plate valuations offered no fresh momentum, remaining flat throughout the week at 64,000 taka (~US$522). Meanwhile, the Bangladeshi taka gained modest ground against the US dollar, with Bangladesh Bank's spot reference rate strengthening to around 123.07 taka per dollar. While local recycling plots possess ample cutting capacity and continue to dismantle existing inventories, the anticipated post-monsoon surge has yet to fully take off, largely because the pool of fresh candidates remains thin. Underlying buyer appetite is intact, and buyers stand ready to step forward once candidate supply improves.
 
-Fresh financial indicators show that Bangladesh's gross foreign exchange reserves have sustained their upward momentum, holding comfortably above US$37 billion and providing the banking system with ample foreign currency liquidity to issue LCs. At the same time, national inflation continues to trend
+Fresh financial indicators show that Bangladesh's gross foreign exchange reserves have sustained their upward momentum, holding comfortably above US$37 billion and providing the banking system with ample foreign currency liquidity to issue LCs. At the same time, national inflation continues to trend gradually downward from earlier peaks, helped by steady remittance inflows from overseas workers and disciplined monetary policy from the central bank.
 
 ## Page 13
-
-
-
-gradually downward from earlier peaks, helped by steady remittance inflows from overseas workers and disciplined monetary policy from the central bank.
 
 ## Chattogram Anchorage & Beaching Position - August 2026
 
@@ -276,7 +266,6 @@ In a major boost to sovereign financial credibility, international credit rating
 
 ## Page 14
 
-
 **Aliaga, Turkey:** Aliaga experienced another quiet and steady week, with domestic steel plate prices holding flat and general trading sentiment showing minimal movement across the waterfront. Local recycling plots continue to maintain a selective and watchful stance, as the lack of momentum in domestic finished steel values leaves little room to improve vessel purchase bids or compete aggressively for scarce international tonnage. Central Bank of the Republic of Türkiye recently raised its year-end 2026 inflation projection to 28% while committing to a sustained tight monetary policy with the benchmark rate held at 37%. Coupled with persistent lira depreciation that continues to elevate local costs for dollar-denominated hulls, high domestic interest rates are keeping financing expensive, prompting shipbreakers to exercise strict fiscal caution as they await clearer pricing catalysts heading into the autumn months.
 
 **TIDE DATES 2026 | Chattogram:** 28 ~ 31 August | 10 ~13 September
@@ -294,7 +283,6 @@ In a major boost to sovereign financial credibility, international credit rating
 **Turkiye:** Deep-sea import benchmarks held stable midweek, buoyed by robust domestic scrap values that discouraged overseas suppliers from lowering price expectations. Active deals featured Baltic-origin HMS 80:20 at US$369/t CFR alongside a Dutch cargo with HMS at US$370/t CFR and bonus/shredded grades near US$390/t CFR. Current offers circulate firmly at US$370-374/t CFR for European/Baltic scrap and US$377-380/t CFR for US-origin material.
 
 ## Page 15
-
 
 # COMMODITIES, BUNKERS & RATES
 
@@ -324,7 +312,6 @@ Steel rebar futures dropped to a four-week low of approximately CNY 3,070 per to
 | 3Mo Tin (LME) | USD / MT | 55,354.00 | +527.00 | +0.96% | N/A |
 
 ## Page 16
-
 
 ### Crude Oil & Natural Gas
 
@@ -356,4 +343,3 @@ Steel rebar futures dropped to a four-week low of approximately CNY 3,070 per to
 | FUJAIRAH | $780 | $621 | $1388 |
 | ROTTERDAM | $662 | $530 | $1299 |
 | HOUSTON | $690 | $472 | $1253 |
-

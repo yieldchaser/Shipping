@@ -22,21 +22,15 @@ Positive sentiment persists all across the Atlantic basin, especially in the Sup
 
 New grain offers for transportation from South America quite actively enter the market (especially
 
-Supra/Handy market keeps firming up in Atlantic Ocean, with PG being the hottest area in Asia
+Supra/Handy market keeps firming up in Atlantic Ocean, with PG being the hottest area in Asia from north Brazilian ports), which allows ship owners to continue pushing rates up. Strengthening of the Panamax market gives additional support to the Supramax/Ultramax segment. «ECSA enjoys busy days, with rates improving for both F/H and T/A trips,» a broker mentioned. By the end of the week spot rates have risen by $1-2k daily and $1-3/t. Positive trends continue also in the Handy segment due to brisk shipments of grains to North Africa, as well as to WCSA. Over the week, corresponding rates have grown by $2k daily and $2-3/t. Rates for shipment of 25-30,000 t of wheat from Upriver to Bejaia have inched up to $35-36/t in case of 7,000x/5,000x l/d rates, and to high $30s/t given 7,000x/3,000x l/d rates.
 
-from north Brazilian ports), which allows ship owners to continue pushing rates up. Strengthening of the Panamax market gives additional support to the Supramax/Ultramax segment. «ECSA enjoys busy days, with rates improving for both F/H and T/A trips,» a broker mentioned. By the end of the week spot rates have risen by $1-2k daily and $1-3/t. Positive trends continue also in the Handy segment due to brisk shipments of grains to North Africa, as well as to WCSA. Over the week, corresponding rates have grown by $2k daily and $2-3/t. Rates for shipment of 25-30,000 t of wheat from Upriver to Bejaia have inched up to $35-36/t in case of 7,000x/5,000x l/d rates, and to high $30s/t given 7,000x/3,000x l/d rates.
-
-The USG market remains strong and supported by a steady demand from charterers seeking to cover multiple front-haul cargoes for September laycans. Ultramax vessels are in higher demand over the Supramaxes. However, rates for smaller tonnage have also increased during the
-
-week. The USEC market is also steadily firming up thanks to limited tonnage list in the region, while strong north Brazilian segment has a positive impact on vessels open in NCSA. Rates ex USG/USEC have risen by $2k daily and $2- 3/t this week. Thus, shipment of 50,000 t of petcoke from USG to Pipavav now costs $41/t. Meanwhile, the Handy segment has stabilized after last week's growth.
+The USG market remains strong and supported by a steady demand from charterers seeking to cover multiple front-haul cargoes for September laycans. Ultramax vessels are in higher demand over the Supramaxes. However, rates for smaller tonnage have also increased during the week. The USEC market is also steadily firming up thanks to limited tonnage list in the region, while strong north Brazilian segment has a positive impact on vessels open in NCSA. Rates ex USG/USEC have risen by $2k daily and $2- 3/t this week. Thus, shipment of 50,000 t of petcoke from USG to Pipavav now costs $41/t. Meanwhile, the Handy segment has stabilized after last week's growth.
 
 Supramax transportation market continues to strengthen both in North Europe and in the Mediterranean Sea. Further growth is seen also in the Handysize segment of the Baltic & Continent. As for cargo flows, grain exports from EU ports (including those of Russian origin from Latvian ports) continue to gain momentum, while fertilizer shipments from Russia and North African ports remain regular. There are also occasional offers of steel scrap for transportation from the EU. The list of open vessels continues to shrink gradually, especially in the eastern Mediterranean, which allows Supramax owners to continue raising rates ($1-3k daily and $1-3/t up). In the Baltic & Continent, Handysize rates have also grown within $2k daily and $2/t, while charterers working in the Black and Mediterranean Seas have managed to stop the upturn in Handysize rates this week. «We certainly see some positive
 
 ### TCT rates dynamics, $/day
 
-EU steel scrap, CFR Turkey, $/t Freight rate, scrap (sf 58`), 40-45,000t, ARAG - EMed, $/t % of freight costs in CFR price
-
-impetus in the Black Sea, but rates are not climbing up so visibly like a week ago,» an operator commented. Thus, transportation of 25-30,000 t of wheat from Constanta to SpanMed still costs $17-18/t given 8,000 sshex bends l/d rates.
+EU steel scrap, CFR Turkey, $/t Freight rate, scrap (sf 58`), 40-45,000t, ARAG - EMed, $/t % of freight costs in CFR price impetus in the Black Sea, but rates are not climbing up so visibly like a week ago,» an operator commented. Thus, transportation of 25-30,000 t of wheat from Constanta to SpanMed still costs $17-18/t given 8,000 sshex bends l/d rates.
 
 Note that premiums for Supramax/Ultramax shipments ex Russian ports have grown again despite a wider range of ship owners willing to work with Russian cargoes.
 

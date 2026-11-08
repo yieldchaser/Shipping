@@ -350,9 +350,7 @@ OMV Petrom
 
 ## FIRST NEWBUILD CSV ORDERED
 
-Newly formed Norwegian vessel owner Agalas has bucked the trend and become the first owner to order a newbuild CSV
-
-in more than seven years. The 99.9m CSV will utilise methanol dual fuel and battery propulsion to reduce emissions by as much as 70%. The Sefine Shipyard in Turkey will build the vessel, which will be equipped with a 150-tonne AHC crane, dedicated ROV hangars, a helideck and 1,000m² of deck space, with accommodation for 100 persons. Agalas is also understood to have further options with the Sefine yard. This is the second vessel that Agalas has ordered after placing an order for a cable layer in December 2022. Delivery of this vessel will also be in 2025 from the same yard, while Cecon has secured the right to hire the vessel upon delivery.
+Newly formed Norwegian vessel owner Agalas has bucked the trend and become the first owner to order a newbuild CSV in more than seven years. The 99.9m CSV will utilise methanol dual fuel and battery propulsion to reduce emissions by as much as 70%. The Sefine Shipyard in Turkey will build the vessel, which will be equipped with a 150-tonne AHC crane, dedicated ROV hangars, a helideck and 1,000m² of deck space, with accommodation for 100 persons. Agalas is also understood to have further options with the Sefine yard. This is the second vessel that Agalas has ordered after placing an order for a cable layer in December 2022. Delivery of this vessel will also be in 2025 from the same yard, while Cecon has secured the right to hire the vessel upon delivery.
 
 ## HELIX AWARDED FULL-FIELD DECOM PROJECT
 

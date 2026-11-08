@@ -34,11 +34,9 @@ The Pacific basin is showing signs of modest recovery, driven by a fresh influx 
 
 Panamax/Kamsarmax:
 
-While the Atlantic basin continues its downward trajectory, notably impacted by unexpectedly weak cargo volumes from South American routes that had previously helped stabilize rates. F/H route (Europe-E.Asia) fell to US$18,500s a day. The Pacific market, despite experiencing some rates decline due to subdued trading activity, maintains a more optimistic outlook thanks to healthy overall cargo flow levels with Pacific r/v falling slightly to US$11,500's a day. Supramax/Ultramax: In a contrasting market scenario, the Atlantic is experiencing a slight downturn, primarily
+While the Atlantic basin continues its downward trajectory, notably impacted by unexpectedly weak cargo volumes from South American routes that had previously helped stabilize rates. F/H route (Europe-E.Asia) fell to US$18,500s a day. The Pacific market, despite experiencing some rates decline due to subdued trading activity, maintains a more optimistic outlook thanks to healthy overall cargo flow levels with Pacific r/v falling slightly to US$11,500's a day. Supramax/Ultramax: In a contrasting market scenario, the Atlantic is experiencing a slight downturn, primarily influenced by lower-than-expected cargo flows from South American routes. T/A fell to US$19,700's a day. Meanwhile, the Pacific continues to face downward pressure on fixture rates, as potential cargoes that could provide upward momentum remain notably scarce, Pacific r/v slipped US$200 to US$12,900's.
 
 ## Page 3
-
-influenced by lower-than-expected cargo flows from South American routes. T/A fell to US$19,700's a day. Meanwhile, the Pacific continues to face downward pressure on fixture rates, as potential cargoes that could provide upward momentum remain notably scarce, Pacific r/v slipped US$200 to US$12,900's.
 
 Handysize:
 
@@ -108,9 +106,7 @@ Rates closed softer in the MEG, reflecting similar conditions in larger vessel s
 
 LR: LR2 experienced a softer week with both LR1 and LR2 vessels seeing weaker demand at the start of week. TC1 fell 13 points, closing to WS120. Similarly, for LR1 in the MEG, levels remain under pressure with TC5 falling to WS128.
 
-MR: The MR market in the Far East closed slightly weaker, pressured by overall sluggish demand and continued cargo migration to larger units. In the UKC, rates remain
-
-stagnant with levels for TC2 closing at WS92 range. In the MEG region, it was a week of big losses and poor performance as TC17 lost some 30 points to WS204.
+MR: The MR market in the Far East closed slightly weaker, pressured by overall sluggish demand and continued cargo migration to larger units. In the UKC, rates remain stagnant with levels for TC2 closing at WS92 range. In the MEG region, it was a week of big losses and poor performance as TC17 lost some 30 points to WS204.
 
 ## Baltic Exchange Tanker Indices
 
@@ -224,11 +220,9 @@ SCFI showed mixed trends across the routes last week. While rates to major desti
 
 ## Insight
 
-The ship recycling market is on the cusp of a significant shift, driven by declining dry bulk freight rates coupled with ailing demand, a double whammy. The industry is now gearing up to see a significant influx of end-of-life ships, which will determine the new pricing trends. However, the irony lies in the fact that domestic markets, struggling with weak demand, have seen a steep downturn. This has created a scenario where a major price correction in ship recycling appears inevitable to align with domestic fundamentals and ensure long-term business sustainability. As more shipowners begin to offload end-of-life vessels for recycling, ship supply pressures have started to ease. Looking ahead, November is expected to be a pivotal month, likely setting new pricing trends for the industry. The easing of ship supply will be the catalyst going forward to bring the market back to normal. On the global steel production front, the crude steel production for the 71 countries reporting to the World Steel Association (worldsteel) reached 143.6 million tonnes in September 2024, reflecting a 4.7% decline compared to the same month last year. Meanwhile, China's crude steel production fell to 77.1 million tons in September 2024, marking a 6.1% year-on-year decline. This signals potential market adjustments or a shift
+The ship recycling market is on the cusp of a significant shift, driven by declining dry bulk freight rates coupled with ailing demand, a double whammy. The industry is now gearing up to see a significant influx of end-of-life ships, which will determine the new pricing trends. However, the irony lies in the fact that domestic markets, struggling with weak demand, have seen a steep downturn. This has created a scenario where a major price correction in ship recycling appears inevitable to align with domestic fundamentals and ensure long-term business sustainability. As more shipowners begin to offload end-of-life vessels for recycling, ship supply pressures have started to ease. Looking ahead, November is expected to be a pivotal month, likely setting new pricing trends for the industry. The easing of ship supply will be the catalyst going forward to bring the market back to normal. On the global steel production front, the crude steel production for the 71 countries reporting to the World Steel Association (worldsteel) reached 143.6 million tonnes in September 2024, reflecting a 4.7% decline compared to the same month last year. Meanwhile, China's crude steel production fell to 77.1 million tons in September 2024, marking a 6.1% year-on-year decline. This signals potential market adjustments or a shift in domestic demand. The global steel industry will be closely watching how this development influences broader market dynamics.
 
 ## Page 14
-
-in domestic demand. The global steel industry will be closely watching how this development influences broader market dynamics.
 
 Alang, India
 

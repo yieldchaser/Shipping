@@ -24,39 +24,17 @@ pages: 15
 
 ---
 
-The week's highlight was the U.S. F.E.D.'s rate decision. Wednesday, the Federal Reserve
-
-hiked benchmark interest rates by another three-quarter of a percentage point to a range of
+The week's highlight was the U.S. F.E.D.'s rate decision. Wednesday, the Federal Reserve hiked benchmark interest rates by another three-quarter of a percentage point to a range of
 
 3% to 3.25%, the highest level since the beginning of 2008.
 
-In order to reclaim control over inflation, the Federal Reserve has shown its willingness to
+In order to reclaim control over inflation, the Federal Reserve has shown its willingness to accept a recession. Officials have also shown their inclination to employ unorthodox methods to bolster the economy. Following criticism for being too slow to understand the depth of the
 
-accept a recession. Officials have also shown their inclination to employ unorthodox methods
+U.S. inflation situation, officials are now rapidly hiking interest rates. They foresee another 75-basis point rate increase before the end of the year.
 
-to bolster the economy. Following criticism for being too slow to understand the depth of the
+The decision, which was more forceful than economists had anticipated, startled them. This might be a hint that the Fed is gearing up for a recession.
 
-U.S. inflation situation, officials are now rapidly hiking interest rates. They foresee another 75-
-
-basis point rate increase before the end of the year.
-
-The decision, which was more forceful than economists had anticipated, startled them. This
-
-might be a hint that the Fed is gearing up for a recession.
-
-Housing and commodities such as energy and metals are projected to see a reduction in
-
-demand and a decline in price as a result of rising interest rates. Investors frequently assert
-
-that commodities are the ideal location to invest during periods of inflation since commodity
-
-prices reflect the demand for raw materials required for economic development. This pattern
-
-remains true for the vast majority of goods: as economic stimulus reinflated the global
-
-economy, which the COVID-19 pandemic had deflated, prices soared. With Russia's invasion,
-
-prices increased further.
+Housing and commodities such as energy and metals are projected to see a reduction in demand and a decline in price as a result of rising interest rates. Investors frequently assert that commodities are the ideal location to invest during periods of inflation since commodity prices reflect the demand for raw materials required for economic development. This pattern remains true for the vast majority of goods: as economic stimulus reinflated the global economy, which the COVID-19 pandemic had deflated, prices soared. With Russia's invasion, prices increased further.
 
 #### Dry Bulk
 
@@ -66,21 +44,9 @@ Despite the optimistic economic signs, iron ore prices held steady as investors 
 
 #### Capesize:
 
-The operation of major ports such as Ningbo and Shanghai has been temporarily halted due
+The operation of major ports such as Ningbo and Shanghai has been temporarily halted due to the typhoon, and short-term ship supply has been disrupted. This typhoon has been the largest to strike the Yangtze River in the past decade. There are signs that China's steel demand has peaked, as the decision to resume production at the end of the month. After the typhoon passes, ship supply returns to normal, and a downward correction is anticipated next week, primarily in the Pacific, but China's demand for raw material stockpiling before
 
-to the typhoon, and short-term ship supply has been disrupted. This typhoon has been the
-
-largest to strike the Yangtze River in the past decade. There are signs that China's steel
-
-demand has peaked, as the decision to resume production at the end of the month. After the
-
-typhoon passes, ship supply returns to normal, and a downward correction is anticipated
-
-next week, primarily in the Pacific, but China's demand for raw material stockpiling before
-
-National Day continues, and gradual recovery is expected to continue. Pacific r/v saw a slight
-
-discount at US$16,138 a day, while T/A saw levels climb to US$15,250 a day.
+National Day continues, and gradual recovery is expected to continue. Pacific r/v saw a slight discount at US$16,138 a day, while T/A saw levels climb to US$15,250 a day.
 
 #### Panamax / Kamsarmax:
 
@@ -92,11 +58,9 @@ This week, the markets were generally positive across the board, with gains bein
 
 #### Handysize:
 
-The E.C. South America region was bustling this week with an uptick in a number of inquiries. In the Atlantic, rates were firm due to the tight supply and healthy inquiry in the U.S.G. T/A levels climbed higher to levels of US$14,600 a day. Pacific saw a healthy climb as the demand for cargo in SE Asia outpaced the growth in the supply with upcoming holidays. Inter-Pacific
+The E.C. South America region was bustling this week with an uptick in a number of inquiries. In the Atlantic, rates were firm due to the tight supply and healthy inquiry in the U.S.G. T/A levels climbed higher to levels of US$14,600 a day. Pacific saw a healthy climb as the demand for cargo in SE Asia outpaced the growth in the supply with upcoming holidays. Inter-Pacific levels soared to US$ 15,250's region at closing.
 
 ## Page 3
-
-levels soared to US$ 15,250's region at closing.
 
 # Dry Bulk - S&P Report
 
@@ -153,11 +117,9 @@ Rates for 135,000mt Black Sea/Augusta was rather stable, hovering around the WS1
 
 #### Aframax:
 
-Over the recent week, the Mediterranean market has rebounded dramatically, with the rate for 80,000mt Ceyhan/West Mediterranean rising 33 points to about WS185. The North Sea/Baltic market remained flat, with charterers just replicating previous levels. The activity
+Over the recent week, the Mediterranean market has rebounded dramatically, with the rate for 80,000mt Ceyhan/West Mediterranean rising 33 points to about WS185. The North Sea/Baltic market remained flat, with charterers just replicating previous levels. The activity was modest, and several cargoes were covered by relets, keeping rates from rising.
 
 ## Page 6
-
-was modest, and several cargoes were covered by relets, keeping rates from rising.
 
 #### Clean:
 
@@ -208,21 +170,13 @@ This week, freight volumes in the Middle East Gulf continued to fall. TC1 droppe
 
 # Containers
 
-Charter rates fell for the second week in a row. The market was nonetheless weighed down
-
-by a drop in sentiment and demand. Many operators have begun to retain a wait-and-see
-
-approach as the number of vessels accessible in a timely manner has increased. The lack of
-
-container sailings is contributing to the worsening situation for carriers in major trade lanes.
+Charter rates fell for the second week in a row. The market was nonetheless weighed down by a drop in sentiment and demand. Many operators have begun to retain a wait-and-see approach as the number of vessels accessible in a timely manner has increased. The lack of container sailings is contributing to the worsening situation for carriers in major trade lanes.
 
 ## Page 8
 
 The peak season has also been curtailed. The average capacity offered from Asia to the U.S.
 
-West Coast during the four weeks that ended August 31 was down by 13% compared to the
-
-same period in 2021.
+West Coast during the four weeks that ended August 31 was down by 13% compared to the same period in 2021.
 
 # Containers S&P Report
 
@@ -283,11 +237,9 @@ same period in 2021.
 
 # Insights
 
-An eventful week with F.E.D.'s action, the reaction was the immediate strengthening of the U.S. dollar. The U.S. dollar strength is shaping up the global steel markets. A sharp drop was noted in imported ferrous scrap cargoes that were booked at lower levels. These two main factors directly impact ship recycling markets. From the U.S. to China, the prices of steel raw materials and finished products have dropped in the backdrop of several factors like increasing production costs, weak demand due to inflationary pressure building up, and the impact of geopolitics on the market. However, the slew of events overshadowing the steel industry has reached a point where declining supply outweighs the concerns of weaker demand. Some industry experts feel that as the supply shortage takes center stage in the coming months, they predict a positive turnaround in the steel segment globally. The ship recycling markets have been in a lull period with very few activities due to a shortage of ships for recycling to feed all three markets. The coming weeks will be very crucial as we enter the last quarter of 2022. While in China, the lifting of Chengdu COVID restrictions has boosted the sentiments in the iron ore markets as the end of the restrictions equates to the resumption of ongoing works and more steel requirements for construction. The uptick was also noted in the steel sector but was not enough to be convinced of strong future markets. This week the exciting Ship Recycling Lab organised by the N.G.O. platform took place in the city of Rotterdam. Two days event, with highly profiled participants, ranging from E.U. ship recycling yards, Banks, Owners, E.U. delegates, and more, attended. Sharing their views on green steel and technology, discussions on drafting regulations to ensure the European ship owners ensure the end-of-life ships are sold in compliance and many other concerns were discussed. The highlight was the growing concerns in the E.U. to control the ship owners to ensure the ships sold for recycling are sold according to the guidelines of E.U. Ship Recycling Regulation. Some market participants made strong comments and gave recommendations to make a law, black and white for the maritime industry, which will have to abide by an extent to have a
+An eventful week with F.E.D.'s action, the reaction was the immediate strengthening of the U.S. dollar. The U.S. dollar strength is shaping up the global steel markets. A sharp drop was noted in imported ferrous scrap cargoes that were booked at lower levels. These two main factors directly impact ship recycling markets. From the U.S. to China, the prices of steel raw materials and finished products have dropped in the backdrop of several factors like increasing production costs, weak demand due to inflationary pressure building up, and the impact of geopolitics on the market. However, the slew of events overshadowing the steel industry has reached a point where declining supply outweighs the concerns of weaker demand. Some industry experts feel that as the supply shortage takes center stage in the coming months, they predict a positive turnaround in the steel segment globally. The ship recycling markets have been in a lull period with very few activities due to a shortage of ships for recycling to feed all three markets. The coming weeks will be very crucial as we enter the last quarter of 2022. While in China, the lifting of Chengdu COVID restrictions has boosted the sentiments in the iron ore markets as the end of the restrictions equates to the resumption of ongoing works and more steel requirements for construction. The uptick was also noted in the steel sector but was not enough to be convinced of strong future markets. This week the exciting Ship Recycling Lab organised by the N.G.O. platform took place in the city of Rotterdam. Two days event, with highly profiled participants, ranging from E.U. ship recycling yards, Banks, Owners, E.U. delegates, and more, attended. Sharing their views on green steel and technology, discussions on drafting regulations to ensure the European ship owners ensure the end-of-life ships are sold in compliance and many other concerns were discussed. The highlight was the growing concerns in the E.U. to control the ship owners to ensure the ships sold for recycling are sold according to the guidelines of E.U. Ship Recycling Regulation. Some market participants made strong comments and gave recommendations to make a law, black and white for the maritime industry, which will have to abide by an extent to have a ship recycling tax from the time of new building, so no matter who sold the ship after it's the responsibility at the top of the chain to ensure the ships are recycled in a manner deemed fit.
 
 ## Page 12
-
-ship recycling tax from the time of new building, so no matter who sold the ship after it's the responsibility at the top of the chain to ensure the ships are recycled in a manner deemed fit.
 
 #### ALANG, INDIA
 
@@ -308,11 +260,9 @@ Empty yards and depleting inventories were the major cause of concern in the Ala
 
 #### CHATTOGRAM, BANGLADESH
 
-A vast majority of the steel and ship recycling sector was busy at the two days 3rd Steel & Raw Material Conference held in Chittagong. The mood amongst the industry participants was - markets would drop, imported scrap would be available for US$400/ton, Banking issues to continue for another few months, and so on. In a nutshell, negative sentiment was brewing
+A vast majority of the steel and ship recycling sector was busy at the two days 3rd Steel & Raw Material Conference held in Chittagong. The mood amongst the industry participants was - markets would drop, imported scrap would be available for US$400/ton, Banking issues to continue for another few months, and so on. In a nutshell, negative sentiment was brewing toward the steel industry in Bangladesh. However these are hypothetical assumptions, but the reality was painting a different picture. The general price levels are yet the highest in the last five years. Several smaller ships were fetching high prices, and the momentum continued. Local currency, which depreciated from BDT104 to BDT107 to a U.S.dollar since early September, making imports expensive, coupled with the ongoing banking issues, were shrugged off as keeping the yard active was the prime focus for a vast majority. Overall a stable market with demand for smaller ships intact. It is a matter of time and a waiting game for the recyclers who are hoping the local banks ease the Letter of Credit restrictions to unleash the prices for the larger ships.
 
 ## Page 13
-
-toward the steel industry in Bangladesh. However these are hypothetical assumptions, but the reality was painting a different picture. The general price levels are yet the highest in the last five years. Several smaller ships were fetching high prices, and the momentum continued. Local currency, which depreciated from BDT104 to BDT107 to a U.S.dollar since early September, making imports expensive, coupled with the ongoing banking issues, were shrugged off as keeping the yard active was the prime focus for a vast majority. Overall a stable market with demand for smaller ships intact. It is a matter of time and a waiting game for the recyclers who are hoping the local banks ease the Letter of Credit restrictions to unleash the prices for the larger ships.
 
 ### Anchorage & Beaching Position (September 2022)
 

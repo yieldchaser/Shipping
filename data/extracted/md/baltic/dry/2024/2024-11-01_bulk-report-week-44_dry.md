@@ -28,9 +28,7 @@ The Capesize market reflected a gradual softening this week, especially in the A
 
 ### Panamax
 
-A week blighted by various holidays, unexpectedly a slower pace in both basins. Much of the focus in the Atlantic came from trans-Atlantic runs, the early part of the week seeing a mini push, with reports of an 82,000-dwt delivery Continent achieving $9,500 for a trip via US Gulf redelivery this side, the headline. Further South, rates came under pressure as limited trade and a softer outlook ensued. Asia remained steady but unspectacular all week, primarily led by strong grain demand. However, an oversupply of nearby tonnage kept rates in check, varying rates agreed but the mean average of $11,500 returned the benchmark on 82,000-dwt types delivery China for NoPac round trips. Indonesian coal demand was mostly
-
-endorsed by smaller/older types with rates flat at around the $12,000 mark. Period activity remained meagre, although reports emerged of an 82,000-dwt type delivery China fixing basis 1 year on an index linked basis at 112% of the BPI.
+A week blighted by various holidays, unexpectedly a slower pace in both basins. Much of the focus in the Atlantic came from trans-Atlantic runs, the early part of the week seeing a mini push, with reports of an 82,000-dwt delivery Continent achieving $9,500 for a trip via US Gulf redelivery this side, the headline. Further South, rates came under pressure as limited trade and a softer outlook ensued. Asia remained steady but unspectacular all week, primarily led by strong grain demand. However, an oversupply of nearby tonnage kept rates in check, varying rates agreed but the mean average of $11,500 returned the benchmark on 82,000-dwt types delivery China for NoPac round trips. Indonesian coal demand was mostly endorsed by smaller/older types with rates flat at around the $12,000 mark. Period activity remained meagre, although reports emerged of an 82,000-dwt type delivery China fixing basis 1 year on an index linked basis at 112% of the BPI.
 
 ### Ultramax/Supramax
 

@@ -506,17 +506,13 @@ The Olympic Notis is currently performing walk-to-work duties for Louis Dreyfus 
 
 Norwind Offshore has taken delivery of the Vard 4 19 designed CSOV Norwind Helm from Vard, making it the fifth vessel delivered to the owner from the shipyard.
 
-The recently delivered CSOV has a length of 85 metres, 19.5m beam and accommodation for 87 persons. It is equipped with a height-adjustable and 3D motion- gangway with elevator system, a stand-alone 3D crane, and a height-adjustable boat landing system. Battery solutions are installed for
-
-hybrid operations. She is currently providing walk-to-work solutions to CrossWind on the Hollandse Kust wind farm.
+The recently delivered CSOV has a length of 85 metres, 19.5m beam and accommodation for 87 persons. It is equipped with a height-adjustable and 3D motion- gangway with elevator system, a stand-alone 3D crane, and a height-adjustable boat landing system. Battery solutions are installed for hybrid operations. She is currently providing walk-to-work solutions to CrossWind on the Hollandse Kust wind farm.
 
 ## SHELL STEPS BACK FROM OFFSHORE WIND INVESTMENTS
 
 **SHELL STEPS BACK FROM OFFSHORE WIND INVESTMENTS**
 
-Shell has announced that they are stepping back investments in offshore wind and is splitting its power division following a review of the business launched in 2023, with the aim of reducing costs. The company will focus on maximising the value of
-
-their existing renewable generation platforms. Shell remains interested in oftakes where commercial terms are acceptable and are cautiously open to equity positions, if there is a compelling investment case.
+Shell has announced that they are stepping back investments in offshore wind and is splitting its power division following a review of the business launched in 2023, with the aim of reducing costs. The company will focus on maximising the value of their existing renewable generation platforms. Shell remains interested in oftakes where commercial terms are acceptable and are cautiously open to equity positions, if there is a compelling investment case.
 
 Seabreeze — November-December 2024
 

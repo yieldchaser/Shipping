@@ -22,13 +22,11 @@ Millions of years ago, the continents of South America and Africa were joined as
 
 The most interesting fields are in the Orange Basin, where consortia led by TotalEnergies and Galp have made promising offshore discoveries. Galp is evaluating bids for a stake in its Mopane discovery, which generated considerable interest. TotalEnergies hopes to make a final investment decision on its Venus oilfield by early 2026. Both projects, if they are completed, will utilize FPSOs to bring the oil to market. While the companies have not published any detailed plans, independent analysts estimate that the Galp field could produce about 240,000 b/d using two FPSOs, while the Venus field will use a single FPSO pumping about 150,000 b/d. The Namibian government is eager for the companies to commit to the projects and hopes that they can see first oil by 2029. Success from these two fields will also stimulate other companies to keep drilling. If more projects are developed, production from offshore Namibia could exceed 700,000 b/d by the mid 2030s.
 
-Just like most other countries in West Africa (with the exception of Nigeria with its giant Dangote refinery complex), it is
+Just like most other countries in West Africa (with the exception of Nigeria with its giant Dangote refinery complex), it is expected that Namibia will export virtually all its crude oil production. This could lead to a recovery of West African crude oil exports and stimulate tonmile demand for tankers. Depending on the size and ultimate capacity of FPSOs, this could benefit Suezmaxes (most likely) and possibly VLCCs, especially since most of the oil will likely end up in Asian refineries.
 
 *Chart*
 
 *Sources: Poten & Partners, Vortexa*
-
-expected that Namibia will export virtually all its crude oil production. This could lead to a recovery of West African crude oil exports and stimulate tonmile demand for tankers. Depending on the size and ultimate capacity of FPSOs, this could benefit Suezmaxes (most likely) and possibly VLCCs, especially since most of the oil will likely end up in Asian refineries.
 
 ## Market Exhibits & Charts
 

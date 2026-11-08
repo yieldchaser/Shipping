@@ -24,11 +24,9 @@ This week has been marked by a series of significant challenges that have the po
 
 # Dry Bulk
 
-China, the largest global producer of aluminum, is increasingly importing lightweight metal from Russia due to sanctions and a reduced appetite for Russian commodities from other countries. In April, Russian sales of refined aluminum to China nearly tripled compared to the previous year. This growth in imports is driven by factors such as drought affecting China's domestic aluminum production and geopolitical considerations. Russia needs to sell more aluminum to China as other nations avoid its supplies due to the ongoing war, while Chinese buyers can pay in their own currency, supporting Beijing's efforts to promote the yuan globally. Meanwhile, the slump in iron ore prices indicates the ongoing struggles in the Chinese economy. Steel inventories at major Chinese mills have decreased, and consumption during the
+China, the largest global producer of aluminum, is increasingly importing lightweight metal from Russia due to sanctions and a reduced appetite for Russian commodities from other countries. In April, Russian sales of refined aluminum to China nearly tripled compared to the previous year. This growth in imports is driven by factors such as drought affecting China's domestic aluminum production and geopolitical considerations. Russia needs to sell more aluminum to China as other nations avoid its supplies due to the ongoing war, while Chinese buyers can pay in their own currency, supporting Beijing's efforts to promote the yuan globally. Meanwhile, the slump in iron ore prices indicates the ongoing struggles in the Chinese economy. Steel inventories at major Chinese mills have decreased, and consumption during the peak construction season fell short of expectations. Crude steel production also declined, leading to price drops and output reduction directives from authorities. The cost of iron transportation to Chinese harbors has significantly declined, impacting global markets and affecting mining firms' revenue. While there was a slight rise in iron ore futures due to improved downstream demand and expectations of stimulus policies, analysts remain doubtful about significant improvements in the iron ore market. Although there has been an increase in crude steel output, doubts persist, and the rise in iron ore futures may be short-lived without prompt demand improvement. This suggests the potential for a more significant slowdown in the Chinese economy.
 
 ## Page 2
-
-peak construction season fell short of expectations. Crude steel production also declined, leading to price drops and output reduction directives from authorities. The cost of iron transportation to Chinese harbors has significantly declined, impacting global markets and affecting mining firms' revenue. While there was a slight rise in iron ore futures due to improved downstream demand and expectations of stimulus policies, analysts remain doubtful about significant improvements in the iron ore market. Although there has been an increase in crude steel output, doubts persist, and the rise in iron ore futures may be short-lived without prompt demand improvement. This suggests the potential for a more significant slowdown in the Chinese economy.
 
 ### Capesize:
 
@@ -40,11 +38,9 @@ The decline in demand from major coal importers like China and India has resulte
 
 ### Supramax / Ultramax:
 
-Similar to Panamax, the market experienced a decline due to sluggish demand for grain and coal. However, the demand for Supramax ships was relatively favorable as Indonesian exporters shifted their focus to South East Asian countries. SEAsia is experiencing an early heat wave, leading to a rise in electricity demand and a potential increase in coal imports, especially in Vietnam, with the opening of new power plants. Levels in the Pacific r/v, however, remain tight, recording around an average US$ 8,500's a day via Indonesia. T/A levels were only slightly
+Similar to Panamax, the market experienced a decline due to sluggish demand for grain and coal. However, the demand for Supramax ships was relatively favorable as Indonesian exporters shifted their focus to South East Asian countries. SEAsia is experiencing an early heat wave, leading to a rise in electricity demand and a potential increase in coal imports, especially in Vietnam, with the opening of new power plants. Levels in the Pacific r/v, however, remain tight, recording around an average US$ 8,500's a day via Indonesia. T/A levels were only slightly better off, with a more healthy appetite of around US$ 16,500's a day.
 
 ## Page 3
-
-better off, with a more healthy appetite of around US$ 16,500's a day.
 
 ### Handysize:
 
@@ -113,11 +109,9 @@ WAFR/Europe region saw levels fall this week to WS114 for 130,000mt. Market cond
 
 ### Aframax:
 
-Due to the robust market conditions in the Atlantic, MEG/Singapore route witnessed a decrease in available ships in the eastern part of the Suez Canal start of the week. But Atlantic levels fell midweek for 70,000mt for EC Mexico/USG to WS290. The arrival of ships in the region is expected to be restricted, but the market is anticipated to remain due to the slowdown in trade
+Due to the robust market conditions in the Atlantic, MEG/Singapore route witnessed a decrease in available ships in the eastern part of the Suez Canal start of the week. But Atlantic levels fell midweek for 70,000mt for EC Mexico/USG to WS290. The arrival of ships in the region is expected to be restricted, but the market is anticipated to remain due to the slowdown in trade volume. In the Med, the rate for 80,000mt Ceyhan/Lavera climbed to WS204.
 
 ## Page 6
-
-volume. In the Med, the rate for 80,000mt Ceyhan/Lavera climbed to WS204.
 
 ### Clean:
 
@@ -289,11 +283,9 @@ Nevertheless, a persistent challenge for cash buyers and breakers has been the a
 
 Alarming reports indicate that certain vessels have been stranded for over a month, prompting concerns over delays and substantial costs and facing the potential risk of adverse monsoon weather and strong currents.
 
-Further, to add to the ongoing uncertainties, the shipbreaking industry in Bangladesh is facing a new crisis due to delays and losses caused by changes in environmental regulations, which were
+Further, to add to the ongoing uncertainties, the shipbreaking industry in Bangladesh is facing a new crisis due to delays and losses caused by changes in environmental regulations, which were recently implemented in March 2023. The industry had recently resumed limited-scale imports of scrap ships after a disruption caused by a dollar crisis.
 
 ## Page 14
-
-recently implemented in March 2023. The industry had recently resumed limited-scale imports of scrap ships after a disruption caused by a dollar crisis.
 
 However, the industry was reclassified from a less hazardous category to a highly hazardous one under the Environment Protection Rules, leading to the requirement of a second round of environmental clearance for every ship. This mandatory clearance has caused significant delays and financial losses for shipbreakers, who are incurring daily expenses of Tk6-7 lakh per ship. As reported, around 42 scrap ships worth Tk6,000 crore (about US$555 million) have been stranded for the past three months, leading to a shortage of scrap supplies for steel mills and a skilled labor crisis, and only about 12 ships were recently given cutting permission.
 

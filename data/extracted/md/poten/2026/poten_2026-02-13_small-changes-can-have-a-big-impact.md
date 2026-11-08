@@ -20,15 +20,13 @@ They say that the only constant in the tanker market is change and we have seen 
 
 The second table, listing the top 5 increases and declines in TonMiles, shows several other interesting developments. We have frequently written about the rapid increases in crude oil production and exports from countries in Latin America, such as Guyana, Brazil and (more recently) Argentina. Most countries in the Atlantic Basin are well supplied and have low oil demand growth rates. That means, much of the additional oil from Latin America’s East Coast find its way to Asia. It should therefore be no surprise that the route that increased the most in 2025 was the EC S America to NE Asia route (+580 Million TonMiles, up 48%). Production growth in South America looks sustainable and could further accelerate with more oil from the countries mentioned above as well as a potential rebound from Venezuela.
 
-Another interesting growth area in 2025 was the Black Sea to NE Asia trade. Russian exports from the Black Sea did show modest growth, but the largest driver of growth during 2025
+Another interesting growth area in 2025 was the Black Sea to NE Asia trade. Russian exports from the Black Sea did show modest growth, but the largest driver of growth during 2025 were exports from the Caspian Pipeline Consortium, which surged due to higher shipments from Kazakhstan. In total, almost 200,000 barrels per day of crude oil were shipped from the Black to NE Asia, an increase of 66%. However, TonMile demand expanded by 95%, because in 2025 exports from the Black Sea still largely avoided the shortcut via the Suez Canal because of the security situation in the Red Sea. Most of the oil traveled the long-haul route from Black Sea around the Cape of Good Hope to Asia, adding significantly to TonMile demand.
 
 *Chart*
 
 *Chart*
 
 *Source: Poten & Partners, Vortexa*
-
-were exports from the Caspian Pipeline Consortium, which surged due to higher shipments from Kazakhstan. In total, almost 200,000 barrels per day of crude oil were shipped from the Black to NE Asia, an increase of 66%. However, TonMile demand expanded by 95%, because in 2025 exports from the Black Sea still largely avoided the shortcut via the Suez Canal because of the security situation in the Red Sea. Most of the oil traveled the long-haul route from Black Sea around the Cape of Good Hope to Asia, adding significantly to TonMile demand.
 
 Some of the top decliners are trades originating from the U.S. Gulf and the Arabian Gulf. U.S. production was relatively flat in 2025 and exports were increasingly directed towards Europe and other shorter-haul destinations, reducing the flows to long-haul buyers in Asia. More U.S. crude in Europe backed out barrels from the AG, which were mostly redirected towards Asia.
 

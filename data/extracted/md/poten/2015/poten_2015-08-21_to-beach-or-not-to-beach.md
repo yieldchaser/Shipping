@@ -24,7 +24,7 @@ The commercial reality (in particular for tankers and bulk carriers) may be diff
 
 International regulations are slowly starting to address the issue, but as of yet there is no legally binding international convention.
 
-In 2009, the International Maritime Organization (IMO) adopted the Hong Kong Convention for the Safe and Environmentally Sound Recycling of Ships. However, like all IMO Conventions, it will only come into force when the requisite number of member states has
+In 2009, the International Maritime Organization (IMO) adopted the Hong Kong Convention for the Safe and Environmentally Sound Recycling of Ships. However, like all IMO Conventions, it will only come into force when the requisite number of member states has ratified it. At the moment, this convention has only been endorsed by three countries (one of them Norway). The European Union is expected to publish a list of ship recycling facilities globally that meet certain environmental and occupational health and safety standards and it is unlikely that any of the South Asian beaching yards will make the list.
 
 *Chart*
 
@@ -33,8 +33,6 @@ In 2009, the International Maritime Organization (IMO) adopted the Hong Kong Con
 *Chart*
 
 *Source: Poten & Partners*
-
-ratified it. At the moment, this convention has only been endorsed by three countries (one of them Norway). The European Union is expected to publish a list of ship recycling facilities globally that meet certain environmental and occupational health and safety standards and it is unlikely that any of the South Asian beaching yards will make the list.
 
 An important factor that needs to be addressed as well is capacity. In 2014, more than 1,000 vessels were scrapped around the world, the majority (>60%) ended up in South Asia. The sheer number of vessels that are sold for scrap on an annual basis could present a major challenge for the current recycling yards in China, Turkey, Western Europe and the United States. Significant and rapid capacity expansion is required before these yards are a credible alternative.
 

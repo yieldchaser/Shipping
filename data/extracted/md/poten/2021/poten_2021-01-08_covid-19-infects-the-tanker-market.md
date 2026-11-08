@@ -28,7 +28,7 @@ It remains lonely at the top of the VLCC segment. In 2020, Unipec did more (repo
 
 *Chart: Top 10 Suezmax Spot Charterers*
 
-In the Suezmax segment, several of the top players switched position. ExxonMobil came out on top (they were 4th the previous year and 9th in 2018), while Shell moved in opposite direction (from 1st to 4th). The Indian Oil Company (Ioc) jumped from 6th to 2nd. Petrobras entered the top 10, a
+In the Suezmax segment, several of the top players switched position. ExxonMobil came out on top (they were 4th the previous year and 9th in 2018), while Shell moved in opposite direction (from 1st to 4th). The Indian Oil Company (Ioc) jumped from 6th to 2nd. Petrobras entered the top 10, a testament to the continued growth of Brazilian crude oil production and exports in 2020. The total number of reported Suezmax spot fixtures in 2020 (2,055) was 23% lower than in 2019 (2,675).
 
 | 2020 Rank | Charterer | Reported Total Cargo (MT 000's) | % of Total Dirty Cargoes | 2019 Rank | 2020 Fixtures |
 | --- | --- | --- | --- | --- | --- |
@@ -57,8 +57,6 @@ In the Suezmax segment, several of the top players switched position. ExxonMobil
 |  | Total | 1,172,278 | 100.0% |  | 8,101 |
 
 Source: Poten & Partners
-
-testament to the continued growth of Brazilian crude oil production and exports in 2020. The total number of reported Suezmax spot fixtures in 2020 (2,055) was 23% lower than in 2019 (2,675).
 
 **No. Spot**
 

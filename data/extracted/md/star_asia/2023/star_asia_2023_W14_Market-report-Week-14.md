@@ -24,11 +24,9 @@ Singapore, the leading bunkering hub in the world, is preparing the infrastructu
 
 ## Dry Bulk
 
-Iron ore prices, which recently rebounded after dropping by more than 50% in the second half of 2022, are expected to fall over the next 5 years due to slower demand growth and increased supply. Higher iron ore prices in the last few months are a result of a partial recovery in Chinese steel production, as China reopened following the end of the zero-Covid policy. Although Analysts have revised its iron ore price forecast for 2023 from US$110 to US$125 a tonne, it expects prices to fall to US$50 a tonne by 2032. While mainland China's recovery from structural headwinds is expected to support iron ore prices in the short term, global demand for
+Iron ore prices, which recently rebounded after dropping by more than 50% in the second half of 2022, are expected to fall over the next 5 years due to slower demand growth and increased supply. Higher iron ore prices in the last few months are a result of a partial recovery in Chinese steel production, as China reopened following the end of the zero-Covid policy. Although Analysts have revised its iron ore price forecast for 2023 from US$110 to US$125 a tonne, it expects prices to fall to US$50 a tonne by 2032. While mainland China's recovery from structural headwinds is expected to support iron ore prices in the short term, global demand for iron ore is expected to decrease as China's total steel production declines by a small amount each year. At the same time, global supply is expected to grow by 3.1% annually until 2028, with new supply coming online in Australia, Brazil, and Africa.
 
 ## Page 2
-
-iron ore is expected to decrease as China's total steel production declines by a small amount each year. At the same time, global supply is expected to grow by 3.1% annually until 2028, with new supply coming online in Australia, Brazil, and Africa.
 
 #### Capesize:
 

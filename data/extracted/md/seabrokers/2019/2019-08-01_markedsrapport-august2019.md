@@ -152,9 +152,7 @@ Far Sagaris
 Skandi Feistein
 *Skandi Feistein (pictured c/o H. Otneim)*
 
-DOF has been successful in picking up attractive contracts in the Australasia region in recent weeks. In Australia, Esso/ ExxonMobil has awarded a five-year contract to PSV Skandi Feistein. The award of this deal will involve DOF relocating the vessel from the North Sea, with
-
-the Feistein currently en route to the eastern hemisphere. In New Zealand, OMV has chartered AHTS vessels Skandi Atlantic and Emerald for two firm wells with two one-well options. The vessels will be supporting a drilling campaign with the COSLProspector.
+DOF has been successful in picking up attractive contracts in the Australasia region in recent weeks. In Australia, Esso/ ExxonMobil has awarded a five-year contract to PSV Skandi Feistein. The award of this deal will involve DOF relocating the vessel from the North Sea, with the Feistein currently en route to the eastern hemisphere. In New Zealand, OMV has chartered AHTS vessels Skandi Atlantic and Emerald for two firm wells with two one-well options. The vessels will be supporting a drilling campaign with the COSLProspector.
 
 ## SWIRE DUO RELOCATING TO MEXICO
 
@@ -379,7 +377,6 @@ Finally, James Fisher and Sons has acquired a 60% stake in Brazilian company Con
 
 ## TECHNIPFMC TO SPLIT BUSINESS IN TWO
 
-
 TechnipFMC's board of directors have unanimously approved the company's plan to separate into two independent, publicly-traded companies. The split will focus on onshore and offshore activities. The separation will see RemainCo, an integrated technology and services provider, focus on upstream related activities; and SpinCo, an engineering and construction (E&C) player, to capture midstream and down-stream opportunities. RemainCo will have a revenue of USD 7 billion and a backlog of USD 10 billion, while SpinCo will have USD 6 billion revenue and a backlog of USD 19 billion. The separation is due to be completed in the first half of 2020.
 
 ## SIEM MARLIN SOLD
@@ -387,7 +384,6 @@ TechnipFMC's board of directors have unanimously approved the company's plan to 
 **SIEM MARLIN SOLD**
 
 Siem Offshore has signed an agreement for the sale of the 2009-built IMR vessel Siem Marlin to Marine Platforms Ltd of Nigeria. Built to the MT 6014 MkII design, the Siem Marlin has a length of 93.6m and a breadth of 19.7m. She is equipped with a 100t offshore crane and accommodation for 68 persons. The Siem Marlin has already been delivered to her new owners and she will be renamed African Pioneer.
-
 
 Siem Marlin (pictured c/o R. Maat)
 

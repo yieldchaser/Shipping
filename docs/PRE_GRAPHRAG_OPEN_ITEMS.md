@@ -87,6 +87,24 @@ Build plan (layers, schema, DeepSeek runner, budget, phases and gates): `docs/GR
 
 ## Residuals (not blockers, to close)
 
+- [x] Sentences cut into separate paragraphs (2026-11-08, owner's Paine screenshots): every printed line / page end had
+      become a paragraph break in SEC filings, books and PDF-text broker MDs. `scripts/md_cleanup/join_wrapped_paragraphs.py`
+      rejoins them (lowercase continuation, or a full-width wrapped line in line-by-line files; page numbers, running
+      headers, captions and tables between the halves move after the paragraph; characters asserted unchanged).
+      Applied: 50,371 joins in 668 SEC files, 1,366 in 9 books, 1,373 in 732 broker MDs. Strict split count (line ends
+      mid-sentence, next paragraph lowercase) 47,248 -> 1,356; the remainder is sub-item lists ("a) ...", "i) ..."),
+      repeated page headers and short labels, left as printed. Wired into `orchestrate_incremental_ingest.py`
+      (`_apply_markdown_normalizer`, every publisher) and `fetch_sec_filings.py`. Tests: `tests/test_join_wrapped_paragraphs.py`.
+- [x] Paine *Sea and Civilization* Notes and Bibliography rebuilt from the PDF's hanging-indent layout
+      (`paine_backmatter_rebuild.py`): 1,781 notes under 21 chapter headings, 1,102 entries, character check vs the PDF
+      pages 0 missing / 0 extra. The Index's "7.1"-style locators are the ebook's own (printed so), not a defect.
+- [x] Agora non-table pages (cover, notes, contact sheet) were one word per line with glued words
+      ("CrudeOil-U.S.DollarsandCents..."): `run_agora.page_prose` now writes them from the PDF text blocks (staff contacts
+      redacted); 211 stored MDs / 639 pages rebuilt by `agora_prose_rebuild.py` (characters checked vs the old text).
+      `format_agora_properly.py` no longer emits a fixed intro paragraph when the cover's note is not found.
+- [x] Numbered lists split from their labels ("1." / "Strategic Asset Management"): `join_lone_list_numbers.py`,
+      27 items in 5 files (Duru Table 18.1, 4 SEC filings). Bare years / pages wrapped onto their own line are left.
+
 - [x] Star Asia pages 2/3/5/6 (dry-bulk segment table, vessel-value DWT column, tanker WS rates, an S&P row):
       numbers missing in both the stored MDs and the live builder; closed by the text-layer + geometry rebuild.
 - [x] Star Asia W40: PORTLAND 11 beaching printed blank, MD said "AWAITING" (old builder default) - fixed.
@@ -280,6 +298,10 @@ Build plan (layers, schema, DeepSeek runner, budget, phases and gates): `docs/GR
       ui_copy_lint (Red Sea callout: "about +N days (our estimate, not a published figure)", provenance kept;
       "ports with PortWatch call counts"), `test_lf_writers` (648 writers in 230 scripts set LF), benchmark
       catalogue (86 floating units removed, 4,914 hulls).
+- [ ] `test_ui_tabs::test_no_empty_states` fails (seen 2026-11-08 evening): the ETF tab shows "per-share ETF estimate
+      unavailable because the NAV/share baseline is not contemporaneous" (`deconstBaselineAlert`, raised when the NAV
+      baseline date and the holdings snapshot date differ, `gapDays != 0`). Data-dated, not from the MD work; decide
+      whether the alert is correct for the current ETF data or the baseline refresh is behind.
 - [ ] `test_ui_tabs::test_perf_budget` still fails: boot 4.18 MB (budget 4.0; index.html alone is 3.3 MB) and
       80 MB cumulative over all tabs (budget 58). Uncompressed, as the test's local server sends it; Pages gzips.
       Largest: portwatch_port_congestion.csv 9.0 MB, signal vessel_lookup.json 7.1, fearnleys_fixtures_tape.json

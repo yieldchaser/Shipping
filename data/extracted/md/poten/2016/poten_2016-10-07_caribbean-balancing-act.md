@@ -22,7 +22,7 @@ Looking at the vessel availability, the ideal candidates would be vessels that d
 
 The number of VLCCs discharging in the region has increased in 2016 compared to 2015, which should help vessel availability. Now let’s take a look at competing load areas. The main load area for VLCCs discharging in the U.S. Gulf is the Caribbean. Venezuela is by far the largest exporter using VLCCs in the region. In 2007, Venezuela negotiated a ‘Loan for Oil’ deal with China where China provided financing which Venezuela repaid at least partially in oil shipments. In 2016, Venezuela shipped about 4.4 VLCC cargoes per month to China and additionally about 7 cargoes per month to India. Venezuela also uses terminals in Bonaire and the Bahamas for shipments.
 
-Other regular cargo flows out of the region include shipments from Mexico to India (1.4 per month). Colombia also has regular shipments to Asia but recently has been using the PTP
+Other regular cargo flows out of the region include shipments from Mexico to India (1.4 per month). Colombia also has regular shipments to Asia but recently has been using the PTP pipeline to move oil to the west coast of Panama where it is transhipped to Asia on VLCCs. Brazil is outside of the area but also draws on the same pool of tankers and sends about 3.4 VLCC cargoes per month to Asia.
 
 *Chart: Fig. 1: VLCC Exports from Caribbean vs Regional Imports (2015 / 2016)*
 
@@ -31,8 +31,6 @@ Other regular cargo flows out of the region include shipments from Mexico to Ind
 *Chart: Fig. 2: VLCC Spot Rates (270,000 t) AG - U.S. Gulf vs Caribbean – SE Asia*
 
 *Source: Poten & Partners*
-
-pipeline to move oil to the west coast of Panama where it is transhipped to Asia on VLCCs. Brazil is outside of the area but also draws on the same pool of tankers and sends about 3.4 VLCC cargoes per month to Asia.
 
 Combined, the Caribbean and Brazil sent about 22.7 VLCC cargoes to Asia in 2016, down from 24.1 in 2015. As stated above, in 2016, an average of 21 VLCCs discharged in the region and an average of 16 in 2015. Although, based on these numbers, the area seems almost in balance, the reality is more complicated as some tankers will ballast to West Africa to load for Asia. However, these numbers do indicate that the tonnage balance in the region has improved in 2016.
 

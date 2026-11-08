@@ -42,9 +42,7 @@ Cargo flows ex Baltic & Continent ports are likely to decline in the near future
 
 ### TCT rates dynamics, $/day
 
-EU steel scrap, CFR Turkey, $/t Freight rate, scrap (sf 58`), 40-45,000t, ARAG - EMed, $/t % of freight costs in CFR price
-
-key importer - Turkey. Grain exports from EU ports are also gradually slowing down. Thus, the situation may shift in charterers' favor. The Mediterranean market is seeing no signs of recovery yet. The grain season is entering its final stage, and there is no longer any reason to expect export growth until mid-summer. At the same time, shipments of steel products have predictably declined after some upturn in the first half of spring.
+EU steel scrap, CFR Turkey, $/t Freight rate, scrap (sf 58`), 40-45,000t, ARAG - EMed, $/t % of freight costs in CFR price key importer - Turkey. Grain exports from EU ports are also gradually slowing down. Thus, the situation may shift in charterers' favor. The Mediterranean market is seeing no signs of recovery yet. The grain season is entering its final stage, and there is no longer any reason to expect export growth until mid-summer. At the same time, shipments of steel products have predictably declined after some upturn in the first half of spring.
 
 The outlook for the APAC Supramax/Ultramax sector appears positive, although coal shipments from Indonesia have started to show signs of easing toward the end of the week. Meanwhile, conditions for improvement in the Indian Ocean remain lackluster so far.
 

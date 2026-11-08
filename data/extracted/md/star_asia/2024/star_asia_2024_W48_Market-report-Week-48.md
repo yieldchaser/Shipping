@@ -283,11 +283,9 @@ Anchorage & Beaching Position (November 2024)
 
 Gadani, Pakistan
 
-The ship recycling market showed little movement this week, with conditions largely unchanged from the previous period. Industry sentiment remains subdued, reflecting persistent challenges and weak demand. Ship recyclers, facing a persistent shortage of vessels, continue to wait in anticipation for improved supply. Meanwhile, efforts to ensure compliance with the Hong Kong International Convention (HKC) are in full swing across the yards. The drive to meet international safety and environmental standards has become a priority, even as the lack of ships poses challenges to operational activity. Recyclers
+The ship recycling market showed little movement this week, with conditions largely unchanged from the previous period. Industry sentiment remains subdued, reflecting persistent challenges and weak demand. Ship recyclers, facing a persistent shortage of vessels, continue to wait in anticipation for improved supply. Meanwhile, efforts to ensure compliance with the Hong Kong International Convention (HKC) are in full swing across the yards. The drive to meet international safety and environmental standards has become a priority, even as the lack of ships poses challenges to operational activity. Recyclers remain hopeful that a recovery in vessel supply will coincide with the industry’s progress toward sustainable and compliant practices.
 
 ## Page 16
-
-remain hopeful that a recovery in vessel supply will coincide with the industry’s progress toward sustainable and compliant practices.
 
 Anchorage & Beaching Position (November 2024)
 

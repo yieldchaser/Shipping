@@ -28,7 +28,7 @@ The changes in Venezuela have been rapid and dramatic so far in 2026. The specta
 
 \3. Russian crude oil production and exports will decline in 2026
 
-Despite ever increasing sanctions on Moscow since their attack on Ukraine, Russian crude oil production and exports have remained remarkably resilient. Russia rapidly built up a large “dark fleet” and was able to divert exports from its traditional customers in Europe to sell more in China, India and Turkey. However, a large section of the dark fleet is now sanctioned and
+Despite ever increasing sanctions on Moscow since their attack on Ukraine, Russian crude oil production and exports have remained remarkably resilient. Russia rapidly built up a large “dark fleet” and was able to divert exports from its traditional customers in Europe to sell more in China, India and Turkey. However, a large section of the dark fleet is now sanctioned and the U.S. and E.U. are increasing the pressure on India, in particular, to reduce its imports of Russian crude. President Trump has increased India’s tariffs, and the E.U. is banning refined product imports derived from Russian crude. We expect that the pressure on Russia will mount and the country’s crude oil exports in 2026 will be well below 2025 levels.
 
 *Chart*
 
@@ -37,8 +37,6 @@ Despite ever increasing sanctions on Moscow since their attack on Ukraine, Russi
 *Source: Vortexa*
 
 *Source: Poten*
-
-the U.S. and E.U. are increasing the pressure on India, in particular, to reduce its imports of Russian crude. President Trump has increased India’s tariffs, and the E.U. is banning refined product imports derived from Russian crude. We expect that the pressure on Russia will mount and the country’s crude oil exports in 2026 will be well below 2025 levels.
 
 \4. OPEC+ will cut production again
 

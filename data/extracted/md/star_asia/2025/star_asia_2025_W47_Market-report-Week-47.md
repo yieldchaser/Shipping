@@ -217,11 +217,9 @@ Across key long-haul routes, including North America, Latin America, and Africa,
 
 Insights
 
-The recent Tradewinds Ship Recycling Conference, held in Hong Kong on November 18th and 19th, was a resounding success, attracting over 250 enthusiastic participants from across the maritime and recycling industries. It was truly gratifying to see such a strong turnout, creating a dynamic platform for critical discussions as the sector prepares for a transformative period. A major focus of the forum was the recent ratification of the Hong Kong Convention (HKC) in June 2025, and the changes that have taken place since then. The consensus among attendees was one of optimism, with industry leaders collaborating on essential updates and forward-looking strategies to ensure a smooth transition into this new regulatory landscape. The conference also provided valuable insights into regional developments across the major ship recycling nations. In South Asia, the sector is demonstrating significant progress; Pakistan, for instance, celebrated the fantastic news of its first HKC-approved yard, with the government allocating substantial funds to further upgrade its Gadani facilities. India continues to show commitment to improvement, having seen a welcome reduction in accidents following various yard upgrades, while Bangladesh is striving for greater government support and is receiving ongoing assistance from Norway through the SENSREC project, even as its BSRB office prepares for a move to Chattogram. Meanwhile, Turkiye remains cautious in its market outlook for the next year, focusing
+The recent Tradewinds Ship Recycling Conference, held in Hong Kong on November 18th and 19th, was a resounding success, attracting over 250 enthusiastic participants from across the maritime and recycling industries. It was truly gratifying to see such a strong turnout, creating a dynamic platform for critical discussions as the sector prepares for a transformative period. A major focus of the forum was the recent ratification of the Hong Kong Convention (HKC) in June 2025, and the changes that have taken place since then. The consensus among attendees was one of optimism, with industry leaders collaborating on essential updates and forward-looking strategies to ensure a smooth transition into this new regulatory landscape. The conference also provided valuable insights into regional developments across the major ship recycling nations. In South Asia, the sector is demonstrating significant progress; Pakistan, for instance, celebrated the fantastic news of its first HKC-approved yard, with the government allocating substantial funds to further upgrade its Gadani facilities. India continues to show commitment to improvement, having seen a welcome reduction in accidents following various yard upgrades, while Bangladesh is striving for greater government support and is receiving ongoing assistance from Norway through the SENSREC project, even as its BSRB office prepares for a move to Chattogram. Meanwhile, Turkiye remains cautious in its market outlook for the next year, focusing keenly on green steel initiatives amidst a precarious regional geopolitical situation, yet remains committed to improving standards under the new global framework.
 
 ## Page 14
-
-keenly on green steel initiatives amidst a precarious regional geopolitical situation, yet remains committed to improving standards under the new global framework.
 
 Alang
 
@@ -318,11 +316,9 @@ The Indian imported scrap market softened due to a noticeable dip in demand, ref
 
 ### Pakistan
 
-The imported scrap market in Pakistan held steady on firm offers, though overall sentiment remained mixed. This stability was underscored by a shredded deal heard to have been concluded yesterday by the UK at US$357 per ton CFR Port Qasim. Suppliers
+The imported scrap market in Pakistan held steady on firm offers, though overall sentiment remained mixed. This stability was underscored by a shredded deal heard to have been concluded yesterday by the UK at US$357 per ton CFR Port Qasim. Suppliers were steadfast in maintaining offers between US$360 and US$362 per ton, yet buyers were unwilling to budge, capping their bids at a tighter range of US$355 to US$356 per ton. This small gap has kept negotiations taut and limited the volume of fresh bookings. Consequently, current assessments for shredded scrap from Europe and the UK remain firmly around US$355 per ton CFR Port Qasim.
 
 ## Page 17
-
-were steadfast in maintaining offers between US$360 and US$362 per ton, yet buyers were unwilling to budge, capping their bids at a tighter range of US$355 to US$356 per ton. This small gap has kept negotiations taut and limited the volume of fresh bookings. Consequently, current assessments for shredded scrap from Europe and the UK remain firmly around US$355 per ton CFR Port Qasim.
 
 ### Bangladesh
 

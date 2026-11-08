@@ -92,9 +92,7 @@ On the VLCC front, we are seeing that rates are finally finding a floor at aroun
 
 The VLCC TCE stood on Friday at \$33,823/day, or 8.26% higher on the week.
 
-Looking at Suezmaxes, the vessel size is following the different direction
-
-as a softening West Africa market is driving rates lower. TD20 (WAF/ UKC) was at WS 87.89 on Friday, marking a -7.24% decline on the week, on the back of
+Looking at Suezmaxes, the vessel size is following the different direction as a softening West Africa market is driving rates lower. TD20 (WAF/ UKC) was at WS 87.89 on Friday, marking a -7.24% decline on the week, on the back of
 
 Black Sea and MEG markets look more resilient as TD6 (Bsea/Med) and TD23 (MEG/Med) are trading at WS 100.95 and WS 85.22 respectively, marginally down by 3.7%.
 

@@ -22,7 +22,7 @@ First of all, what is the number of vessels which could be considered scrapping 
 
 For the purpose of this analysis, we will look at how many vessels would be scrapped over the next two years (through the end of 2018) if we used a fixed scrapping age of 20 years and how these numbers compare with the current orderbook for delivery in the same period. Figure 1 shows that – for most segments – the orderbook well exceeds scrapping under this scenario. The segments that appear the most worrisome are the VLCCs and Suezmaxes. Even under this relatively aggressive scrapping scenario (most tankers trade well beyond 20 years old), the scheduled deliveries in these segments are almost double the demolition numbers. The numbers for the large product tankers (LR1 and LR2) don’t look encouraging either, but here we have to note that we need to review these segments in combination with their sister vessels in the crude trade (Aframax and Panamax). The Aframax crude tanker fleet will likely stop growing in the next few years, while the “dirty” Panamax segment is already shrinking as owners opt to build coated vessels to give themselves more trading flexibility and take advantage of the growth in long haul product movements.
 
-For MR and Handysize product tankers, the numbers look more encouraging, although it should be noted that a 20 year scrapping age is quite optimistic for these vessels. Smaller
+For MR and Handysize product tankers, the numbers look more encouraging, although it should be noted that a 20 year scrapping age is quite optimistic for these vessels. Smaller product carriers typically trade well beyond 25 years of age.
 
 *Chart: Fig. 1: Deliveries vs Scrapping Potential*
 
@@ -31,8 +31,6 @@ For MR and Handysize product tankers, the numbers look more encouraging, althoug
 *Chart*
 
 *Source: Lloyds List Intelligence*
-
-product carriers typically trade well beyond 25 years of age.
 
 How about the employment patterns of the older tonnage? Many of the older vessels are underutilized, have trading restrictions and/or are being used for floating storage. A freshly delivered newbuilding will be significantly more productive than the old vessel it replaces.
 

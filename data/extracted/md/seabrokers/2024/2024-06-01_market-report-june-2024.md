@@ -101,9 +101,7 @@ Tidewater's Sun Tide and Sygna Tide have both had their contracts with Equinor e
 
 Rem Crusader (c/o G. Saunders)
 
-
 Viking Energy (c/o O. Halland)
-
 
 Asso Trentuno (c/o Capt. J. Plug)
 
@@ -458,9 +456,7 @@ Offshore activities are scheduled to commence during the third quarter of 2025.
 
 Dana is the operator of the field with a 32.95 per cent share, while Serica Energy holds 64.63 per cent and Waldorf Production UK 2.42 per cent. First production commenced in April 2000 with the field being developed through five production wells and two water injection wells via a subsea tie-back to the Triton FPSO.
 
-dana PETROLEUM
-
-subsea 7
+dana PETROLEUM subsea 7
 
 # Renewables
 

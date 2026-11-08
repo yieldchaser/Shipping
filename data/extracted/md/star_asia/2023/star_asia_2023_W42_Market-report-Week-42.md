@@ -327,11 +327,9 @@ PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
 
 Worldsteel has revised its 2023 global steel demand forecast to reflect a 1.8% year-on-year growth, down from the 2.3% projected in April. This adjustment is attributed to persistently high-interest rates, which are curbing both investment and consumption and a slowdown in manufacturing despite easing supply chain issues. The main sources of uncertainty are China's ongoing structural transition and escalating geopolitical conflicts. Anticipated steel demand for 2023 is estimated at 1.81 billion tons, with a further 1.9% increase projected for 2024, reaching 1.85 billion tons. The recovery of steel demand in advanced economies is expected to be slow in 2024 due to the delayed impact of tightening monetary policies. Meanwhile, emerging economies, particularly in Asia, exhibit more resilience.
 
-Chinese steel demand in 2023 is set to grow by 2%, driven by infrastructure investments and a stabilising property sector. However, 2024's outlook for China remains uncertain,
+Chinese steel demand in 2023 is set to grow by 2%, driven by infrastructure investments and a stabilising property sector. However, 2024's outlook for China remains uncertain, contingent on government measures to address economic challenges. Escalating regional conflicts, rising oil prices, and geo-economic fragmentation pose additional downside risks.
 
 ## Page 18
-
-contingent on government measures to address economic challenges. Escalating regional conflicts, rising oil prices, and geo-economic fragmentation pose additional downside risks.
 
 The European Union's monetary policy is expected to remain stringent, with no real demand rebound projected for 2024. Destocking cycles ending may lead to a technical rebound in demand next year. In the U.K. and E.U., demand is forecasted to drop by 5.1% in 2023 and rebound by 5.8% in 2024. Germany, a key player in the region, is facing significant challenges, with a manufacturing recession and housing crisis causing a 10% demand drop this year and an expected 10.6% rebound in 2024.
 

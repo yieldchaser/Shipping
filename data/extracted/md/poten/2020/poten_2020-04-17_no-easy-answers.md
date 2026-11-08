@@ -24,13 +24,11 @@ The OPEC+ production cut agreement calls for an initial reduction of 9.7 Mb/d fo
 
 These cuts will not offset the short-term demand destruction, but they will slow the build-up of inventories, especially once demand starts to normalize. One of the biggest questions the industry faces is around timing. All three forecasting agencies currently expect a relatively quick recovery, with demand approaching 2019 levels by the end of the year. However, nobody has seen a situation like this before; and for every optimistic outlook, there are alternative viewpoints about how the world could be facing a long economic recession.
 
-To analyze the potential impact of the OPEC+ cuts, we used the EIA oil demand outlook, as their forecast goes out to 2021. The first graph shows the impact of the cuts on the supply-demand balance through 2021. The forecast incorporates assumptions about the oil demand recovery and on production cuts; assumptions that could change dramatically
+To analyze the potential impact of the OPEC+ cuts, we used the EIA oil demand outlook, as their forecast goes out to 2021. The first graph shows the impact of the cuts on the supply-demand balance through 2021. The forecast incorporates assumptions about the oil demand recovery and on production cuts; assumptions that could change dramatically in the coming months. EIA assumes only limited Non-OPEC supply reductions: Non-OPEC production is forecast to decline until March 2021 and bottom out at 1.74 Mb/d below March 2020 production.
 
 *Chart*
 
 *Source: EIA, Poten & Partners*
-
-in the coming months. EIA assumes only limited Non-OPEC supply reductions: Non-OPEC production is forecast to decline until March 2021 and bottom out at 1.74 Mb/d below March 2020 production.
 
 The second graph shows the impact of the cuts on inventory levels compared to the beginning of January 2020. If the cuts are 100% complied with, inventories will max out some 470 Mbbl lower than without the cuts. Inventories will also wind down much earlier: Under the base case (no OPEC+ cuts) inventories would not return to January levels until 2022, while the cuts will help reduce inventories to these levels as soon as Q1 2021.
 

@@ -24,11 +24,9 @@ The fire at Chevron’s 257 kbpd Richmond, CA refinery on Monday evening has rem
 
 *Source: Platts*
 
-The 257 kbpd Richmond refinery accounts for 12% of California’s 2.09 mbpd of net
+The 257 kbpd Richmond refinery accounts for 12% of California’s 2.09 mbpd of net capacity. In addition to Richmond, Chevron owns and operates a second refinery in California, the 269 kbpd El Segundo facility in Los Angeles. Both refineries account for about 25% of California’s net installed refining capacity. As shown in the chart below, PADD 5, which includes the states of California, Alaska, Arizona, Hawaii, Nevada, Oregon and Washington, has been net long diesel during the past few years, following shortages prior to the financial crisis. Diesel exports reached 76 kpbd in 2011 on the subsequent surpluses generated from reduced demand. PADD 5 has traditionally been net short gasoline, requiring large transfers of gasoline blending components from PADD 3 and finished gasoline transfers from PADD 4.
 
 *Chart: Richmond refinery accounts for 12% of California’s net refining*
-
-capacity. In addition to Richmond, Chevron owns and operates a second refinery in California, the 269 kbpd El Segundo facility in Los Angeles. Both refineries account for about 25% of California’s net installed refining capacity. As shown in the chart below, PADD 5, which includes the states of California, Alaska, Arizona, Hawaii, Nevada, Oregon and Washington, has been net long diesel during the past few years, following shortages prior to the financial crisis. Diesel exports reached 76 kpbd in 2011 on the subsequent surpluses generated from reduced demand. PADD 5 has traditionally been net short gasoline, requiring large transfers of gasoline blending components from PADD 3 and finished gasoline transfers from PADD 4.
 
 *Chart*
 

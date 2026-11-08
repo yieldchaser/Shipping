@@ -360,9 +360,7 @@ TechnipFMC has been awarded an integrated Engineering, Procurement, Construction
 
 ## **MAERSK INSTALLER JOINS IMPLEMENTER IN MEXICO**
 
-The MT 6027 OCV Maersk Installer has joined her sister vessel Maersk Implementer
-
-in Mexico after Maersk was awarded an 18-month contract with Subtec, a subsidiary of Blue Marine Group. The vessels will operate in the Bay of Campeche performing general support and well stimulation duties, in addition to inspection, maintenance and repair work at Pemex's offshore platforms.
+The MT 6027 OCV Maersk Installer has joined her sister vessel Maersk Implementer in Mexico after Maersk was awarded an 18-month contract with Subtec, a subsidiary of Blue Marine Group. The vessels will operate in the Bay of Campeche performing general support and well stimulation duties, in addition to inspection, maintenance and repair work at Pemex's offshore platforms.
 
 The Maersk Implementer has been operating for end client Pemex since late 2018. The 137m-long vessels are equipped with a 400t crane and 1,850m² of free deck space. The Maersk Installer has accommodation for 120 persons in single cabins, while the Maersk Implementer is equipped with 111 single beds and nine double cabins.
 

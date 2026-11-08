@@ -34,19 +34,9 @@ Iron ore prices are rising as optimism about China's steel demand outweighs poss
 
 #### Capesize:
 
-Despite the Chinese government's zero-corona policy and real estate market assistance
+Despite the Chinese government's zero-corona policy and real estate market assistance initiatives, basic steel demand did not improve and continued to fall. Since November,
 
-initiatives, basic steel demand did not improve and continued to fall. Since November,
-
-China's steel prices have been rebounding as a result of the government's announcement of
-
-real estate support measures and steel factories. Steel demand and supply will fall at the
-
-same time until the beginning of next year. Thus, despite rising steel prices, iron ore trade
-
-volume is projected to follow a pattern that will not be reversed. Levels saw an uptick for both
-
-basins. Pacific r/v settled at US$10,625 a day, while T/A levels were in the region of
+China's steel prices have been rebounding as a result of the government's announcement of real estate support measures and steel factories. Steel demand and supply will fall at the same time until the beginning of next year. Thus, despite rising steel prices, iron ore trade volume is projected to follow a pattern that will not be reversed. Levels saw an uptick for both basins. Pacific r/v settled at US$10,625 a day, while T/A levels were in the region of
 
 US$17,750.
 
@@ -60,9 +50,7 @@ The general excess of vessels has not been rectified and the segment remains wea
 
 #### Handysize:
 
-In the Pacific, handy sentiment remained subdued. However, levels remain similar to last in the region of US$8,290 a day. As the Thanksgiving holiday approaches, USG rates are
-
-anticipated to tighten in the Atlantic. At the week's closing, levels slipped slightly, closing at US$12,275 region.
+In the Pacific, handy sentiment remained subdued. However, levels remain similar to last in the region of US$8,290 a day. As the Thanksgiving holiday approaches, USG rates are anticipated to tighten in the Atlantic. At the week's closing, levels slipped slightly, closing at US$12,275 region.
 
 ## Page 3
 
@@ -117,33 +105,17 @@ anticipated to tighten in the Atlantic. At the week's closing, levels slipped sl
 
 With the Republicans winning the mid-term votes last week, one of the issues that
 
-Republicans could potentially affect when they take over the House is energy policy. One of
-
-the most important factors that the industry needs to consider is the implementation of the
+Republicans could potentially affect when they take over the House is energy policy. One of the most important factors that the industry needs to consider is the implementation of the
 
 Inflation Reduction Act of 2022.
 
-One of the most common issues that fossil fuel companies face when it comes to developing
+One of the most common issues that fossil fuel companies face when it comes to developing projects is political risk. The constant change in control between Republicans and Democrats over the past decade has significantly increased the risks involved in the project.
 
-projects is political risk. The constant change in control between Republicans and Democrats
+Another of the main issues that Republicans will focus on during the next Congress is ensuring that the US becomes energy independent. According to Kevin McCarthy, the incoming Majority Leader, reducing energy prices and ensuring that the country becomes energy independent would be the first acts of the new Congress.
 
-over the past decade has significantly increased the risks involved in the project.
+However, even if the House of Representatives were to pass legislation with a Republican majority, it would still require the approval of the Senate, which is controlled by Democrats.
 
-Another of the main issues that Republicans will focus on during the next Congress is
-
-ensuring that the US becomes energy independent. According to Kevin McCarthy, the
-
-incoming Majority Leader, reducing energy prices and ensuring that the country becomes
-
-energy independent would be the first acts of the new Congress.
-
-However, even if the House of Representatives were to pass legislation with a Republican
-
-majority, it would still require the approval of the Senate, which is controlled by Democrats.
-
-There are still chances for compromise, but the House would not be able to pass any
-
-legislation that does not support the policies of Biden.
+There are still chances for compromise, but the House would not be able to pass any legislation that does not support the policies of Biden.
 
 #### VLCC:
 
@@ -215,21 +187,11 @@ This week saw better rates in the segment. The MR market was buoyed by robust ac
 
 # Containers
 
-The container market appears to be moving downward this week. Despite the multiple
-
-uncertainties that the sector is facing, many remain optimistic about the container market's
-
-prospects in the next months. However, due to the macroeconomic forces that are now
-
-impacting the business, it is impossible to anticipate how the scenario will play out in 2023.
+The container market appears to be moving downward this week. Despite the multiple uncertainties that the sector is facing, many remain optimistic about the container market's prospects in the next months. However, due to the macroeconomic forces that are now impacting the business, it is impossible to anticipate how the scenario will play out in 2023.
 
 ## Page 8
 
-As we advance, a significant number of older container ships are lined up for either layups or
-
-recycling in the first quarter of 2023, as this will start to ease some pressure off the freight
-
-rates.
+As we advance, a significant number of older container ships are lined up for either layups or recycling in the first quarter of 2023, as this will start to ease some pressure off the freight rates.
 
 # Containers S&P Report
 
@@ -282,11 +244,9 @@ rates.
 | BERGE AGO | 20,668 | 2000 / JAPAN | CAPE | 523 | DELIVERED ALANG / HKC GREEN RECYCLING |
 |  |  | Recycling | Ships Insights | Price | Trend |
 
-The closer we approach the end of the year, the more unpredictable ship recycling markets get. Every week brings a glimmer of optimism, but as the week passes, that hope is lost. Another dismal and inactive week for recyclers on the Indian Subcontinent. Recently, Indian and Pakistani recyclers have emerged as purchasers at varying price levels, offering carefully
+The closer we approach the end of the year, the more unpredictable ship recycling markets get. Every week brings a glimmer of optimism, but as the week passes, that hope is lost. Another dismal and inactive week for recyclers on the Indian Subcontinent. Recently, Indian and Pakistani recyclers have emerged as purchasers at varying price levels, offering carefully on ships that are being offered for sale at reduced prices. The vast majority of recyclers preferred to wait for further pricing stability. The only respite in the continuous saga is the limited ship supply, which keeps prices in check. The current scenario has dismayed the whole industry. The volatility of the recycling markets has altered the willingness of cash buyers and recyclers to take risks. Predicting the general situation on the Indian Subcontinent is becoming increasingly difficult. Several external variables influencing steel prices have a significant impact on the industry's dismal state. One such fundamental reality is that Russia is currently dumping inexpensive steel goods, both semi-finished and finished, for cash. Due to Western sanctions that have restricted legitimate avenues for the supply of foreign currency banknotes, the economic activity of the 1990s, in which items were sold abroad in exchange for bags of cash, is returning to Russia. The Ministry of Finance and the Central Bank have agreed on a mechanism that will allow resident companies to receive "cash" in payment for the export of any goods, including raw materials, follows from a draft government decree published on Wednesday on the portal of regulations. Such transactions can be carried out without a limit on the amount, and the received banknotes will be allowed not to be deposited into accounts in Russian banks, using them, for example, for mutual settlements - for the purchase of goods and services abroad. It will also be possible to bring cash into Russia and then sell it to an authorised bank no later than 30 days from the date of import or deposit it into an account at the cash desk. How things shape up surrounding such developments will be a challenge for the industry in the coming months.
 
 ## Page 11
-
-on ships that are being offered for sale at reduced prices. The vast majority of recyclers preferred to wait for further pricing stability. The only respite in the continuous saga is the limited ship supply, which keeps prices in check. The current scenario has dismayed the whole industry. The volatility of the recycling markets has altered the willingness of cash buyers and recyclers to take risks. Predicting the general situation on the Indian Subcontinent is becoming increasingly difficult. Several external variables influencing steel prices have a significant impact on the industry's dismal state. One such fundamental reality is that Russia is currently dumping inexpensive steel goods, both semi-finished and finished, for cash. Due to Western sanctions that have restricted legitimate avenues for the supply of foreign currency banknotes, the economic activity of the 1990s, in which items were sold abroad in exchange for bags of cash, is returning to Russia. The Ministry of Finance and the Central Bank have agreed on a mechanism that will allow resident companies to receive "cash" in payment for the export of any goods, including raw materials, follows from a draft government decree published on Wednesday on the portal of regulations. Such transactions can be carried out without a limit on the amount, and the received banknotes will be allowed not to be deposited into accounts in Russian banks, using them, for example, for mutual settlements - for the purchase of goods and services abroad. It will also be possible to bring cash into Russia and then sell it to an authorised bank no later than 30 days from the date of import or deposit it into an account at the cash desk. How things shape up surrounding such developments will be a challenge for the industry in the coming months.
 
 #### ALANG, INDIA
 

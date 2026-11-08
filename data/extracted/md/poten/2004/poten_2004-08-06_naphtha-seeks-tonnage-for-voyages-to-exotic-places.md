@@ -30,17 +30,13 @@ The graph above shows naphtha traffic on long voyages increasing more than 5 mmt
 
 As seen on the next page, three developments, more than any others, will shape international naphtha trade during the next three years. One continues a familiar trend. East Asia will need more than 15 percent more long-haul naphtha in 2007 than it did in 2003. The second makes immediate sense to anyone who pays a little attention to investments in refining and gas processing. Middle East countries will offer quite a lot of new naphtha supply between 2003 and 2007.
 
-In fact, availabilities from the Arabian Peninsula and Iran will increase 31 percent over that four-year
+In fact, availabilities from the Arabian Peninsula and Iran will increase 31 percent over that four-year period. The third comes as more of a surprise. Europe will regularly require supply from distant sources.
 
 *Chart: European Naphtha Trade*
 
-period. The third comes as more of a surprise. Europe will regularly require supply from distant sources.
-
-The clean tanker business may not find European naphtha imports all that remarkable. After all, 25 ktons naphtha Baltic/UKC or Black Sea/Med or cross Med or Med (north Africa)/UKC happens every day. Europe has depended on imports from its neighbors – north Africa, the Near East, and Russia – for decades. For almost ten years those
+The clean tanker business may not find European naphtha imports all that remarkable. After all, 25 ktons naphtha Baltic/UKC or Black Sea/Med or cross Med or Med (north Africa)/UKC happens every day. Europe has depended on imports from its neighbors – north Africa, the Near East, and Russia – for decades. For almost ten years those neighbors have offered enough cargoes to meet Europe’s needs and leave a few every month looking for homes in USA, Brazil, or Asia. The European naphtha trading zone – Europe, north Africa, the Near East, and Russia – ran a persistent surplus. That won’t last much longer. As soon as 2005, Europe will want all the naphtha its neighbors can provide and then some. At least it will much of the time.
 
 *Chart*
-
-neighbors have offered enough cargoes to meet Europe’s needs and leave a few every month looking for homes in USA, Brazil, or Asia. The European naphtha trading zone – Europe, north Africa, the Near East, and Russia – ran a persistent surplus. That won’t last much longer. As soon as 2005, Europe will want all the naphtha its neighbors can provide and then some. At least it will much of the time.
 
 Actually, the tanker business has seen hints of this European zone pivot from long naphtha to short. As recently as the first half of 2002, ten to twelve Handy-size cargoes sailed every month, usually from the Med, for Asia and other distant destinations. Since then, the Med/East business has almost disappeared. It dwindled through 2003, mainly employing LR’s, and finished with a flourish December, 2003, and January, 2004. Med/Brazil and
 

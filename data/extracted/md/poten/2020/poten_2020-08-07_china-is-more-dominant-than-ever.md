@@ -28,13 +28,11 @@ This is the second episode of our series on the changes in tradeflows as a resul
 
 By far the biggest VLCC export trade is the one from the Middle East (Chart 1). The average number of voyages in the first quarter of 2020 was similar to the number of 2019, but April showed a marked increase. This is when Saudi Arabia boosted exports to expand their market share to force other OPEC members back to the negotiating table. After OPEC+ reached an agreement, production cuts started to show up in the Middle East exports. The number of VLCC export voyages decreased from 250 in April to 182 in June, a decline of 27%.
 
-The trade patterns from the U.S. Gulf are very different (Chart 2). Early in 2020, VLCC exports were still below the levels of 2019, but this changed as the year progressed. The March through June period of this year showed significant increases relative to last year. Since the exports from the U.S. are more driven by oil prices and transportation costs, they tend to be
+The trade patterns from the U.S. Gulf are very different (Chart 2). Early in 2020, VLCC exports were still below the levels of 2019, but this changed as the year progressed. The March through June period of this year showed significant increases relative to last year. Since the exports from the U.S. are more driven by oil prices and transportation costs, they tend to be more volatile and the destinations are less predictable. Early in the year, China did not import any crude oil from the U.S and they took only a couple of cargoes in March/April. However, in May and June, Chinese charterers dominated the U.S. export scene: they took more U.S. crude on VLCCs than everybody else put together.
 
 *Chart*
 
 *Source: Lloyds List Intelligence*
-
-more volatile and the destinations are less predictable. Early in the year, China did not import any crude oil from the U.S and they took only a couple of cargoes in March/April. However, in May and June, Chinese charterers dominated the U.S. export scene: they took more U.S. crude on VLCCs than everybody else put together.
 
 China was also the leading importer of West African crude oil (Chart 3). Its dominance only increased in May and June as other countries went into lockdown at the same time as China’s economy opened up again. Overall West African exports have been down in 2020 relative to 2019, mainly as a result of Covid-19.
 

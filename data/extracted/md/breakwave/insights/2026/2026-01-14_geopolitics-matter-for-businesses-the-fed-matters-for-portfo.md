@@ -40,9 +40,7 @@ In terms of geopolitics (Venezuela, Iran), it has been one of the most interesti
 
 2025 was a year of near-record geoeconomic and geopolitical upsets. 2026 seems eager to snatch that crown from the very first days. Within a matter of two weeks, we are seeing regime change in Iran and Venezuela. Two events decades in the making, potentially happening within days of each other. A geopolitical cosmogony.
 
-Yet, markets seem unfazed by these events. Are our portfolios oblivious to rising risks as the world becomes evidently more unstable? Stocks have been going up since the back end of 2025
-
-while the US Federal Reserve is once again buying securities in the open market, to [make sure that market turbulence](https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/treasury-securities/treasury-securities-operational-details#:~:text=Based%20on%20the%20December%2010,and%2C%20if%20needed%2C%20other%20Treasury), as it stabilises its reserves, remains well managed (to be sure, this is risk management, not Quantitative Easing, as reserves may drop as well as rise).
+Yet, markets seem unfazed by these events. Are our portfolios oblivious to rising risks as the world becomes evidently more unstable? Stocks have been going up since the back end of 2025 while the US Federal Reserve is once again buying securities in the open market, to [make sure that market turbulence](https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/treasury-securities/treasury-securities-operational-details#:~:text=Based%20on%20the%20December%2010,and%2C%20if%20needed%2C%20other%20Treasury), as it stabilises its reserves, remains well managed (to be sure, this is risk management, not Quantitative Easing, as reserves may drop as well as rise).
 
 A weak employment market suggests that the Fed will also continue to cut rates in 2026, possibly more than once, as it has previously suggested.
 

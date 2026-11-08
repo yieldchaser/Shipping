@@ -307,11 +307,9 @@ Alang, India : 21 ~ 29 July | 8 ~ 16 August
 
 India: India's imported scrap market presented a tale of two stories this week. On the international front, activity remained notably sluggish, with offers for UK-origin shredded scrap heard at around US$360-365/ton CFR. Sellers found little incentive to engage, as they could reportedly achieve significantly higher prices, US$20-22/ton, in neighbouring Pakistan. However, the domestic market is showing clear signs of a revival. After a quiet couple of months, local demand is on the rise, and there is a growing expectation that Indian mills will soon need to re-enter the global market, which could lend support to prices in the near future.
 
-Pakistan: Pakistan was the center of activity in the South Asian market this week. Buyers continued to lead the region on pricing, successfully securing a steady stream of shredded cargoes at levels around US\$385/ton CFR. This aggressive procurement has made Pakistan the preferred destination for many international suppliers. The only factor
+Pakistan: Pakistan was the center of activity in the South Asian market this week. Buyers continued to lead the region on pricing, successfully securing a steady stream of shredded cargoes at levels around US\$385/ton CFR. This aggressive procurement has made Pakistan the preferred destination for many international suppliers. The only factor tempering the pace of imports is the ongoing monsoon season, which has impacted mill operations and placed a natural cap on production capacity and overall scrap consumption.
 
 ## Page 17
-
-tempering the pace of imports is the ongoing monsoon season, which has impacted mill operations and placed a natural cap on production capacity and overall scrap consumption.
 
 **Bangladesh: A sense of caution prevailed in Bangladesh, where the imported scrap**
 

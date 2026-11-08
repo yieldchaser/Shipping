@@ -283,11 +283,9 @@ Anchorage & Beaching Position (March 2024)
 
 # Aliaga, Turkey
 
-Turkish mills have maintained their domestic scrap buying prices at the same level as last week. Despite an increase in imported scrap values over the past week, the strengthening of the lira against the dollar following Turkey's Central Bank decision to raise loan rates by 500 basis points on March 21 has caused domestic scrap prices to rise when measured in dollars. While there are expectations among some market
+Turkish mills have maintained their domestic scrap buying prices at the same level as last week. Despite an increase in imported scrap values over the past week, the strengthening of the lira against the dollar following Turkey's Central Bank decision to raise loan rates by 500 basis points on March 21 has caused domestic scrap prices to rise when measured in dollars. While there are expectations among some market participants for premium scrap prices to reach US\$395 per tonne CFR Turkey after Eid holiday, many doubt the likelihood of this occurrence especially after the dampening of Chinese sentiments mid-week.
 
 ## Page 15
-
-participants for premium scrap prices to reach US\$395 per tonne CFR Turkey after Eid holiday, many doubt the likelihood of this occurrence especially after the dampening of Chinese sentiments mid-week.
 
 Turkish shipbreaking scrap prices have risen to US\$375-392 per tonne delivered since last week.
 

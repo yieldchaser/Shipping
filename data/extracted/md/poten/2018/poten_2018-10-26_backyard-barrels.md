@@ -22,7 +22,7 @@ The most recent numbers from the Energy Information Agency (EIA) show 2.2 millio
 
 There are several reasons for the shift in U.S. product trades. One is stagnating domestic oil demand. In August 2005, U.S. oil demand peaked at 21.7 million b/d. During the global financial crisis, demand bottomed at 17.8 million b/d in late 2008. Since then, U.S. demand has gradually recovered to above 20 million b/d, but it remains well short of the 2005 peak. Another reason for the increasing exports is the combination of increasing demand in developing economies with the growing competitiveness of the U.S. refiners. Domestic refiners, especially those located in the U.S. Gulf have benefited from the availability of abundant and cheap domestic gas as feedstock as well as growing domestic crude oil supplies.
 
-U.S. refiners have been (and are) particularly well positioned to take advantage of opportunities in Latin America. The biggest growth area for U.S. refiners has been Mexico. A decade ago, refined product exports to our southern neighbor averaged some 330,000 b/d. In 2017, this reached almost 1.1 million b/d and in 2018 to-date, exports regularly exceeded 1.3 million b/d. Mexico is going through a change in government and president-elect Andres Manuel Lopez Obrador has ambitious plans to grow Mexico’s refining capacity by between 300,000 and 600,000 barrels per day. However, even if these plans are
+U.S. refiners have been (and are) particularly well positioned to take advantage of opportunities in Latin America. The biggest growth area for U.S. refiners has been Mexico. A decade ago, refined product exports to our southern neighbor averaged some 330,000 b/d. In 2017, this reached almost 1.1 million b/d and in 2018 to-date, exports regularly exceeded 1.3 million b/d. Mexico is going through a change in government and president-elect Andres Manuel Lopez Obrador has ambitious plans to grow Mexico’s refining capacity by between 300,000 and 600,000 barrels per day. However, even if these plans are realized, it will be several years before any new capacity will come online.
 
 *Chart*
 
@@ -31,8 +31,6 @@ U.S. refiners have been (and are) particularly well positioned to take advantage
 *Chart*
 
 *Source: DOE/EIA*
-
-realized, it will be several years before any new capacity will come online.
 
 Brazil has represented another market opportunity for U.S. refiners. Not so long ago, Brazil was largely self-sufficient in refined products. It has a sizeable refining industry and the Brazilian government has historically stimulated the consumption of biofuels as a substitute of petroleum products. However, over the last 10 years, Brazilian product demand increased by 700,000 b/d, while refining throughput stagnated, despite the fact that Petrobras has announced and initiated several large grassroots refinery projects over the years. This opened the door to 300-400,000 b/d of product imports from the U.S., in particular diesel. Brazil is having the final round of its Presidential elections this weekend and while the results may have an impact on the country’s refining capacity in the next 3-5 years, immediate changes in product flows are not likely.
 

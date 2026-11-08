@@ -24,7 +24,7 @@ At the moment we are in a rather depressed period. VLCC rates are barely above c
 
 On the other hand, many of the larger, experienced and well‐capitalized owners look at this market and see an opportunity. Newbuilding and second‐hand prices are near historic lows and a combination of steady oil demand growth, an ageing fleet and major regulatory changes in the next three to five years could turn the market around and push rates back up. These owners are the ones that are actively looking at newbuildings, buying quality secondhand tonnage or even other companies.
 
-Lloyd’s Intelligence’s fleet movement data for the first two months of 2017 shows that ton‐mile demand for large crude oil tankers is up relative to 2016. It is still early in the year and the data sample is small, but it appears that tanker demand has remained relatively healthy so far, despite the OPEC production cuts. Fleet supply, on the other hand did increase quite significantly. Comparing March 1, 2016 with March 1 of this year, we observe a VLCC fleet that is up 54 vessels (+8.2%); 32 more Suezmaxes (+7.3%) and an additional 53 Aframaxes (+5.8%). This fleet growth (in addition to several Iranian tankers coming back into the market) explains some of the weakness in rates. Unfortunately, there are still quite a few
+Lloyd’s Intelligence’s fleet movement data for the first two months of 2017 shows that ton‐mile demand for large crude oil tankers is up relative to 2016. It is still early in the year and the data sample is small, but it appears that tanker demand has remained relatively healthy so far, despite the OPEC production cuts. Fleet supply, on the other hand did increase quite significantly. Comparing March 1, 2016 with March 1 of this year, we observe a VLCC fleet that is up 54 vessels (+8.2%); 32 more Suezmaxes (+7.3%) and an additional 53 Aframaxes (+5.8%). This fleet growth (in addition to several Iranian tankers coming back into the market) explains some of the weakness in rates. Unfortunately, there are still quite a few vessels scheduled to be delivered this year, so that pressure on the market is expected to remain.
 
 *Chart*
 
@@ -33,8 +33,6 @@ Lloyd’s Intelligence’s fleet movement data for the first two months of 2017 
 *Source: Poten & Partners*
 
 *Source: Lloyd’s List Intelligence*
-
-vessels scheduled to be delivered this year, so that pressure on the market is expected to remain.
 
 On the demand side, attention will remain focused on the OPEC production cuts and whether they will be extended into the second half of the year. This will depend a lot on whether worldwide crude inventories will have started to decline, pushing the oil market toward rebalancing and higher prices. Inventories have not declined significantly so far and at this point we think it is more likely than not that OPEC will keep production constrained, also because oil prices remain well below $60 per barrel.
 

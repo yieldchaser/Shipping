@@ -43,11 +43,7 @@ The Asian Journal of Shipping and Logistics
 
 Okan Duru a, Emrah Gulay b, Sinem Celik Girgin c,∗
 
-\( ^{a} \)  Research & Development, Ocean Dynamex Inc., Ottawa, ON, Canada
-
-b Department of Econometrics, Dokuz Eylul University, Turkey
-
-c Maritime and Logistics Management Department, University of Tasmania-Australian Maritime College, Launceston, Australia
+\( ^{a} \)  Research & Development, Ocean Dynamex Inc., Ottawa, ON, Canada b Department of Econometrics, Dokuz Eylul University, Turkey c Maritime and Logistics Management Department, University of Tasmania-Australian Maritime College, Launceston, Australia
 
 ## ARTICLE INFO
 
@@ -70,9 +66,7 @@ This paper investigates the predictability of the asset prices of commodity tran
 
 ## 1. Introduction
 
-Dry cargo ships are designed and operated in this supply chain for centuries. Based on the cargo capacity of ships, there are four major size groups namely Handysize (20k–45k dwt \( ^{1} \) ), Handymax (45k–60k dwt), Panamax \( ^{2} \)  (60k–90k dwt) and Capesize (90k + dwt, mostly 120k–150k). Two primary raw materials, iron ore and coal (both coking coal and steam coal) are usually carried on Capesize bulk carriers over 120k metric tons of parcel size. Investors in the shipping business need to allocate large amounts of capital on acquiring new and second-hand assets (i.e. ships) to employ in major commodity trades and gain revenue streams in operating income (based on freight rate). However, ships are not only cash-generating units through operating income, but their asset value may also cause gain/loss in oscillating ship markets. In this regard, the 'asset play' strategy (revenues on buy-sell spread) is an essential component of the portfolio management in the shipping corpora-
-
-tions, and it is contingent upon the investment timing (i.e. temporal arbitrage) by its nature similar to conventional financial assets.
+Dry cargo ships are designed and operated in this supply chain for centuries. Based on the cargo capacity of ships, there are four major size groups namely Handysize (20k–45k dwt \( ^{1} \) ), Handymax (45k–60k dwt), Panamax \( ^{2} \)  (60k–90k dwt) and Capesize (90k + dwt, mostly 120k–150k). Two primary raw materials, iron ore and coal (both coking coal and steam coal) are usually carried on Capesize bulk carriers over 120k metric tons of parcel size. Investors in the shipping business need to allocate large amounts of capital on acquiring new and second-hand assets (i.e. ships) to employ in major commodity trades and gain revenue streams in operating income (based on freight rate). However, ships are not only cash-generating units through operating income, but their asset value may also cause gain/loss in oscillating ship markets. In this regard, the 'asset play' strategy (revenues on buy-sell spread) is an essential component of the portfolio management in the shipping corpora-tions, and it is contingent upon the investment timing (i.e. temporal arbitrage) by its nature similar to conventional financial assets.
 
 The revenue model of ship owning business has two major income streams: (1) Operating revenue from chartering operations and (2) impairment gains generated from changes in ship prices. The latter component of the revenue model can lead to a massive gain or loss due to the investment/divestment timing and the quality of asset value monitoring. Ship prices in the Capesize tonnage can be anywhere between USD 30–140 million considering the asset market of the last few decades, and asset prices may undergo intense volatility at the gain/loss of over USD 50 million. In June 2008, a large Capesize (120k + metric ton capacity) was sold at USD 140 million, and the same asset was priced at just USD 40 million in November 2008. An investment in June 2008 has lost USD 100 million through impairment in such a short period of time. That level of value has never returned back as of the data of this paper (January 2020). In this regard, asset value monitoring is now an essential part of portfolio management in ship investments. It is also a critical factor in the bank credit analysis as the ship mortgages which are usually monitored through the minimum security value covenant against asset value shortfall (Duru, 2018, p. Chapter 8) and financial auditors pay particular attention as a major source of impairment losses.
 
@@ -115,9 +109,7 @@ This paper investigated the SQ index in terms of investment timing in counter-cy
 
 ## 2. Literature review
 
-Forecasting models and their application to the financial and commodity markets are commonly found in the literature, whereas, studies on the predictability of the ship investment timing, either second-hand or new building, are relatively limited in the literature (Karlis et al., 2019). We briefly referred to exist-
-
-ing studies on ship investment timing and broadly explained the benchmark methods in the forecasting literature.
+Forecasting models and their application to the financial and commodity markets are commonly found in the literature, whereas, studies on the predictability of the ship investment timing, either second-hand or new building, are relatively limited in the literature (Karlis et al., 2019). We briefly referred to exist-ing studies on ship investment timing and broadly explained the benchmark methods in the forecasting literature.
 
 ### 2.1. Ship investment literature
 
@@ -173,9 +165,7 @@ For each  \( h_{1} \)  do
 
 For each  \( h_{2} \)  do
 
-Run neural network model  \( \omega_{\zeta_{m},\zeta_{\epsilon_{ARDL}}^{\prime},k,h_{1},h_{2},\zeta_{\epsilon_{ARDL}}^{\prime},\zeta_{m}} \)  end
-
-for
+Run neural network model  \( \omega_{\zeta_{m},\zeta_{\epsilon_{ARDL}}^{\prime},k,h_{1},h_{2},\zeta_{\epsilon_{ARDL}}^{\prime},\zeta_{m}} \)  end for
 
 end for
 
@@ -390,9 +380,7 @@ R = T C _ {n} * 350
 
 (2.4)
 
-where,  \( \Phi_{Q} \)  is a ratio of market value,  \( SH_{n,d} \)  of a second-hand dry bulk ship (n) age 5~15 (d) to  \( DCF_{n,d} \)  is an intrinsic value of a dry
-
-bulk ship (n) age 5~15 (d), which was computed by discounted free cash flow method. OPEX \( _{n,t} \) stands for the operating expense of a dry bulk ship (n) at time (t), and \( SCRP_{t+i} \) is the maturity value of the asset at the end of economic life t+i. R represents yearly operating income.
+where,  \( \Phi_{Q} \)  is a ratio of market value,  \( SH_{n,d} \)  of a second-hand dry bulk ship (n) age 5~15 (d) to  \( DCF_{n,d} \)  is an intrinsic value of a dry bulk ship (n) age 5~15 (d), which was computed by discounted free cash flow method. OPEX \( _{n,t} \) stands for the operating expense of a dry bulk ship (n) at time (t), and \( SCRP_{t+i} \) is the maturity value of the asset at the end of economic life t+i. R represents yearly operating income.
 
 The approach used in the computation of this leading index was previously studied by Marcus et al. (1991), and utilized Buy Low and Sell High approach. However, to calculate the nominal value of a ship, they used the cost-based value of an asset with the assumption of constant cash flow during the economic life of a ship, which possibly leads to bias and overlooks freight market cyclicality and volatility. In the SQ index, these issues were dissolved by utilizing a discounted free cash flow approach.
 
@@ -556,9 +544,7 @@ f Inputs, shipping Q, in linear modelling.
 
 limited in younger ships. Both ANN and ARDL-EMD-ANN combination gained a few points of reduction in MASE for 5 and 10 years old ships. On the other hand, ARDL as a dynamic model and ARDL-EMD-ANN as a hybrid model improved the accuracy in 15 years old Handysize ships with comparatively much significant reduction.
 
-Results are also reported in Tables 3–5 to demonstrate the post-sample accuracy results for Handymax, Panamax, and Capesize tonnages respectively. Accuracy gain in those tonnages was also indicated the pseudo predictive improvement, particularly in older ships (10- or 15-year-old). Empirical results suggested that the SQ index as a leading indicator reduces predictive error which validates its practical value. The accuracy gain has been recorded over 50% in certain assets (e.g. Capesize, 10-year old). Overall, the
-
-proposed hybrid algorithm is the one with the best forecasting performance by achieving a significant reduction in forecasting error.
+Results are also reported in Tables 3–5 to demonstrate the post-sample accuracy results for Handymax, Panamax, and Capesize tonnages respectively. Accuracy gain in those tonnages was also indicated the pseudo predictive improvement, particularly in older ships (10- or 15-year-old). Empirical results suggested that the SQ index as a leading indicator reduces predictive error which validates its practical value. The accuracy gain has been recorded over 50% in certain assets (e.g. Capesize, 10-year old). Overall, the proposed hybrid algorithm is the one with the best forecasting performance by achieving a significant reduction in forecasting error.
 
 Considering that shipping asset prices would generate massive volatility, the monetary value of such predictive accuracy translated to over USD 50 million gain or offsetting the loss by improving the investment timing. In the counter-cyclical asset play, the SQ index signalled the asset security value shortfalls or a run-up in 3–5 months' time lags.
 

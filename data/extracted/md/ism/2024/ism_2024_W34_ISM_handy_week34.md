@@ -20,9 +20,7 @@ charts_count: 4
 
 Despite the fact that Atlantic freight rates have not changed much by the end of the week, the sentiment has still improved slightly on the Supramax/Ultramax and Handy markets. The offer of cargoes with September laycans has grown both in ECSA and USG , but rather long
 
-Timid signs of Handy/Supra market improvement seen in ECSA and USG only
-
-tonnage list and permanent ballaster inflow do not allow ship owners to push freight levels up yet. Thus, shipment of 25-30,000 t of wheat from Upriver to Bejaia is still assessed by ISM at $47-48/t given 7,000x/3,000x l/d rates, while that of 25-30,000 t of fertilizers from Tampa to N.Brazil is estimated at $24/t.
+Timid signs of Handy/Supra market improvement seen in ECSA and USG only tonnage list and permanent ballaster inflow do not allow ship owners to push freight levels up yet. Thus, shipment of 25-30,000 t of wheat from Upriver to Bejaia is still assessed by ISM at $47-48/t given 7,000x/3,000x l/d rates, while that of 25-30,000 t of fertilizers from Tampa to N.Brazil is estimated at $24/t.
 
 Supramax/Ultramax rates are generally flat also in the Asia - Pacific region despite a slowdown in Indonesian coal imports by India and China. “We see less back-haul requests and offers for steel shipments from the Far East to SE Asia; owners with vessels open in Australia prefer to ballast them to SE Asia in order to find cargoes,” a broker mentions negative aspects of the APAC Handysize/ Handymax sector's demand side. Nevertheless, the cargo/ tonnage ratio stays relatively balanced, and Handysize/ Handymax rates are stable.
 

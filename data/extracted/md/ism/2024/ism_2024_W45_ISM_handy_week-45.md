@@ -26,9 +26,7 @@ Despite increased cargo offer for Supramax/Ultramax shipments from the USA with 
 
 A major industry event in Hamburg has had a negative impact on the already low fixing activity in the
 
-Continent and the Mediterranean Sea . The 2H November vessel count looks excessive in both regions, while worsening picture on grain and scrap commodity markets (a decline in CIF grain prices in North African and Asian countries, as well as in scrap quotes in Turkey) is putting additional pressure on trade and, consequently, on the freight market. Freight rates on key
-
-routes have dropped by $0.5-1k daily and $0.25-1.5/t over the week. Thus, most charterers are not ready to pay more than $20/t for shipment of 25-30,000 t of corn from POC to EgyptMed or Iskenderun.
+Continent and the Mediterranean Sea . The 2H November vessel count looks excessive in both regions, while worsening picture on grain and scrap commodity markets (a decline in CIF grain prices in North African and Asian countries, as well as in scrap quotes in Turkey) is putting additional pressure on trade and, consequently, on the freight market. Freight rates on key routes have dropped by $0.5-1k daily and $0.25-1.5/t over the week. Thus, most charterers are not ready to pay more than $20/t for shipment of 25-30,000 t of corn from POC to EgyptMed or Iskenderun.
 
 As for the eastern hemisphere, negative trends persist on the Indian Ocean Supramax/Ultramax market as well. Shipments of main cargoes from PG/WCI ports stay limited even after the end of Diwali celebrations in India. In addition, exports of South African manganese ore have slowed down noticeably: “There are almost no cargoes for November laycans,” a broker dramatizes. The number of vessels open both off PG/WCI and S.Afr has grown, while freight rates have decreased by $1-2k daily and $0.5-1.5/t this week.
 

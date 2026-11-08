@@ -98,9 +98,7 @@ whose devotees must have a vast knowledge of matters great and
 small, an enthusiasm for adventure even when it is vicarious and
 experienced through the medium of telegrams and letters, and a
 breadth of vision that stretches beyond the horizons of the seas. It is
-a world removed in some degree from the ordinary routines of
-
-commerce, for each ship becomes a personality; each voyage a
+a world removed in some degree from the ordinary routines of commerce, for each ship becomes a personality; each voyage a
 separate undertaking; each day a time of challenge; each event in
 far-off lands of possible significance in the movement of the ships
 across the waters. No other human activity is so important to so
@@ -368,9 +366,7 @@ shipowner and charterer, and re-
 Hect the specific requirements of
 the contracting parties. Regular
 and repeated voyages on the same
-route are not part of tramp opera-
-
-year, and then augment sailings
+route are not part of tramp opera-year, and then augment sailings
 when seasonal increases are experi-
 enced. Changes in liner service of-
 ten are influenced as much by polit-
@@ -437,9 +433,7 @@ and less costly to construct.
 8. Tramp owners usually have
 small staffs in the home office, with
 little division of functions. No traf-
-fic department is needed; charters
-
-office. Normally there are several
+fic department is needed; charters office. Normally there are several
 divisions (i.e., traffic, operations, fi-
 nancial, and managerial) with an
 appropriate staff. Outport offices
@@ -554,9 +548,7 @@ the control of man, there have been urgent appeals from India,
 China, Russia, and those areas of Africa where drought and over-
 grazing have combined to make very real the terrifying threat of
 famine. Tramp ships fit into both delivery patterns, providing the
-means of transportation in the established trades and, whenever
-
-required, shifting to new routes to alleviate critical shortages
+means of transportation in the established trades and, whenever required, shifting to new routes to alleviate critical shortages
 wherever they may occur. Let a crop fail in Argentina, however,
 and the distribution of ships reflects immediately the reduction in
 the cargoes available for export. Should the unlikely combination
@@ -634,9 +626,7 @@ ese cars, Europe to North America with European cars, and North
 America to Far East and Japan carrying coal or iron ore.2 The
 quantity of ore, coal, and grain which must be delivered to ports too
 shallow to accommodate the giants assures that the modern gen-
-eral-purpose tramp of 14,000 to 20,000 tons and the bulkers of
-
-between 35,000 and 55,000 tons deadweight capacity will remain
+eral-purpose tramp of 14,000 to 20,000 tons and the bulkers of between 35,000 and 55,000 tons deadweight capacity will remain
 important units in the world's fleets.
 Tramp ships, to repeat, contribute to the economic life of the
 world in an absolutely indispensable manner and, as has been
@@ -674,9 +664,7 @@ It is, however, a paradox of the tramping business that the very
 action of these audacious capitalists, who will risk a multi-thousand-
 mile voyage on the chance of winning a single lucrative cargo, is the
 guarantor that the high freight rates will be reduced substantially in
-a relatively short period. Only so long as there is a shortage of ships
-
-for the requirements of the moment will the rates be inflated; as the
+a relatively short period. Only so long as there is a shortage of ships for the requirements of the moment will the rates be inflated; as the
 concentration of vessels in the exporting area increases, the scarcity
 is alleviated and freight rates plummet. All too often, instead of the
 gamble paying a premium to the speculator, it becomes necessary
@@ -714,9 +702,7 @@ true potential of business. If charters are to be had again and yet
 again between a range of ports in one region (as, for example, the
 United States north of Cape Hatteras but not east of New York) and
 another area such as the countries at the eastern end of the Medi-
-terranean, carrying substantially the same cargoes trip after trip,
-
-the possibility of regular liner service deserves to be probed with
+terranean, carrying substantially the same cargoes trip after trip, the possibility of regular liner service deserves to be probed with
 ships actually competing for this type of business. Often it is found
 that the new liner route is both desirable and economically feasible.
 An additional, but considerably less compelling, reason for owning
@@ -753,9 +739,7 @@ During these same years of major change, steam power was adapt-
 ed to ships. The insatiable demand for coal to fire their relatively
 primitive, low-pressure boilers necessitated the establishment of
 refueling points which were not too far apart geographically, but
-which did have some commercial activity or promise of develop-
-
-ment. These coaling stations grew in number and, as trade routes
+which did have some commercial activity or promise of develop-ment. These coaling stations grew in number and, as trade routes
 expanded, were located farther and farther from England. A brisk
 export business in "best Welsh coals" evolved rather quickly and
 made for a satisfactory balance in ship operation, especially when
@@ -792,9 +776,7 @@ trial Revolution, so English financiers in the last quarter of the
 nineteenth century saw the chance for rich profits in shipping. By
 1900, half of the oceangoing steamship tonnage of the world was
 under British registry. While this numerical superiority gradually
-was lost as other national fleets were expanded, it remained true at
-
-least until 1920 that more ships flew the Union Jack-familiarly
+was lost as other national fleets were expanded, it remained true at least until 1920 that more ships flew the Union Jack-familiarly
 known in maritime circles as the "Red Duster"-than any other
 flag.
 In 1900, the best and most modern tramp steamer, which was
@@ -832,9 +814,7 @@ The titanic ship construction program undertaken by the Unit-
 ed States during World War II produced thousands of ships of a
 single standardized design. The Liberty ship was sold worldwide
 beginning in 1946, and quickly became the universal general-pur-
-pose tramp. Unlike the earlier ships of this class, the Liberty had a
-
-single 'tween deck, which enhanced her adaptability for both bulk
+pose tramp. Unlike the earlier ships of this class, the Liberty had a single 'tween deck, which enhanced her adaptability for both bulk
 and packaged cargoes.4 Until they were twenty years old (1962 and
 thereafter), Liberties were used on every international trade route.
 It was about 1950 that dry-cargo ship sizes began to grow
@@ -924,9 +904,7 @@ lower the unit cost of carriage. Only those organizations which are
 geared to handle, both physically and financially, enormous quanti-
 ties of specific commodities are able to take advantage of the bene-
 fits which accrue from chartering these big ships.
-The modern general-purpose tramp, on the other hand, is
-
-intended to serve, and does so very successfully, a number of
+The modern general-purpose tramp, on the other hand, is intended to serve, and does so very successfully, a number of
 different trades. In one year, a fleet of four of these tramps lifted
 cargoes of pig iron, black iron, wheat middling pellets, scrap iron,
 logs, timber, tapioca, wood chips, poonac (coconut oil cake), ilmen-
@@ -964,9 +942,7 @@ encountered: small rooms allotted to licensed personnel about as
 comfortable as cells in a penitentiary, no electric lights, no heat, no
 running water, and no bathing facilities.7 All this has changed, and
 today living arrangements for all crew members are excellent. At
-the same time, much more attention is given to assure that the food
-
-is well prepared and served in attractive surroundings.
+the same time, much more attention is given to assure that the food is well prepared and served in attractive surroundings.
 Competition, however, remains unaltered in its harshness. The
 law of supply and demand determines which ships earn a profit. If
 there are many cargoes and few bottoms, there is rivalry among
@@ -1006,9 +982,7 @@ cargoes can be found, it is likely that the old vessel will be continued
 In serVIce.
 Competition for cargoes, slower speeds than those of the cargo
 liners, and non repetitive operations combine to restrict the tramp
-owner to a particular segment of commercial activity. In practice,
-
-he transports, usually on a resupply and stockpile basis, materials
+owner to a particular segment of commercial activity. In practice, he transports, usually on a resupply and stockpile basis, materials
 typified by cement, coal, grain, fertilizers, lumber, and ores of
 various kinds. The unit sales price of these commodities is small;
 the purchase price at the loading port is low, and the difference
@@ -1046,9 +1020,7 @@ brokers who have been elected individually to membership on the
 basis of their personal integrity, knowledge, and resourcefulness,
 meet to work out charters for their principals. One man represents
 a shipowner and another stands in the place of a shipper. For
-example, suppose that Angus MacAndrew, of Glasgow, is seeking a
-
-load for his ship, the Highlander, now at anchor in Hampton Roads.
+example, suppose that Angus MacAndrew, of Glasgow, is seeking a load for his ship, the Highlander, now at anchor in Hampton Roads.
 MacAndrew notifies John Lawson, his broker in London, who
 consults other brokers on the floor of the Baltic. In short order, he
 learns from Basil Smith that Li Wong in Shanghai needs a ship to
@@ -1085,9 +1057,7 @@ U. S. Northern Range to coast of China. Motorship Highlander, 27,000
 tons, five percent, heavy grain, $36.50; option two ports China
 $37.50; 60¢ extra for U. S. Gulfloading option; FlOT; Feb. 1-12.
 Interpreted for the layman, this reports that the motorship
-Highlander has been chartered to carry about 27,000 tons of heavy
-
-grain, plus or minus five percent at the master's discretion to obtain
+Highlander has been chartered to carry about 27,000 tons of heavy grain, plus or minus five percent at the master's discretion to obtain
 a seaworthy load and still store and fuel his ship adequately without
 losing too much revenue. The grain will be loaded in a port between
 Cape Hatteras and Portland, Maine, and transported to the coast of
@@ -1167,9 +1137,7 @@ the minimum, the stipulation is that "any lawful merchandise not
 injurious to the vessel" may be put aboard. Some contracts are more
 specific; one document states that "No live stock [or] sulphur and
 pitch in bulk to be shipped." Should the owner wish to protect his
-ship from damage by certain goods, an "exclusionary clause" would
-
-be inserted to limit the quantity of such goods to be transported. A
+ship from damage by certain goods, an "exclusionary clause" would be inserted to limit the quantity of such goods to be transported. A
 typical clause reads, "Injurious, inflammable, or dangerous goods
 (such as acids, explosives, calcium carbide, ferro-silicon, naphtha,
 motor spirit, tar, or any of their products) to be limited" to an
@@ -1265,9 +1233,7 @@ year with hardly any movements in ballast.
 Among provisions of the voyage charter are the number of days
 allowed for loading and discharge (also known as "lay days")9, the
 penalty for holding the ship in port beyond the allowed period for
-working cargo ("demurrage"), and the premium for reducing the
-
-time spent in port ("dispatch"). For instance, a 20,000-ton tanker is
+working cargo ("demurrage"), and the premium for reducing the time spent in port ("dispatch"). For instance, a 20,000-ton tanker is
 fixed for a load of petroleum from a Caribbean port to a range of
 ports on the Atlantic coast of the United States north of Cape
 Hatteras (generally referred to by the initials USNH); alternatively,
@@ -1346,9 +1312,7 @@ good faith and are believed to be correct.
 It is agreed that the vessel is tight, staunch, and strong, and in every
 way fitted for the contemplated service. She is to be delivered to the
 charterers in Galveston, Texas, not earlier than October 13, 1981, and
-not later than October 30, 1981, and redelivered to the owners in a
-
-safe United States Atlantic port north of Cape Hatteras but not east of
+not later than October 30, 1981, and redelivered to the owners in a safe United States Atlantic port north of Cape Hatteras but not east of
 New York in about fifteen months from date of delivery.
 Should the vessel not be delivered by October 30, 1981, the charter-
 ers have the option to cancel. If the vessel cannot be delivered by the
@@ -1389,9 +1353,7 @@ receipts.
 under this charter-party for longer than thirty six consecutive hours
 by reason of drydocking, or other measures necessary to maintain the
 ship, or as a result of breakdowns of machinery, strikes of ship's
-personnel, or damage to hull or machinery, hire shall be suspended
-
-from the time the difficulty began until the vessel is returned to full
+personnel, or damage to hull or machinery, hire shall be suspended from the time the difficulty began until the vessel is returned to full
 serVICe.
 7. The owners shall have a lien upon all cargoes and subfreights
 belonging to the charterers and any freight payable under bills of
@@ -1433,9 +1395,7 @@ shipping men working alongside experts in maritime and commer-
 cial law, the charter-parties represent a working compromise be-
 tween the demands of the shipowners and the insistent require-
 ments of the charterers. Negotiations for a particular transaction
-usually start with one of these standardized, preprinted forms, with
-
-appropriate insertions of agreed terms. If necessary, the clauses are
+usually start with one of these standardized, preprinted forms, with appropriate insertions of agreed terms. If necessary, the clauses are
 modified to fit the circumstances of the proposed charter.
 "Working the market" requires that both charterer and ship-
 owner be alert to many factors. The charterer needs to know a great
@@ -1498,9 +1458,7 @@ quantity, and therefore offer the best opportunities for employ-
 ment of ships, are ores, grains, and coal. Of these, grain is the most
 likely to experience fluctuations in demand, and therefore to have a
 significant impact upon the tramp shipping industry. This fact
-helps to explain why grain-a term which includes a wide variety of
-
-cereals such as wheat, corn, oats, barley, rye, sorghums, and soyas-
+helps to explain why grain-a term which includes a wide variety of cereals such as wheat, corn, oats, barley, rye, sorghums, and soyas-
 has been called "the great leveler" of the shipping business. As a
 basic requirement in feeding the population of the world, grain is in
 constant demand. It is grown in many regions, but only the United
@@ -1579,9 +1537,7 @@ that the decisions were sound.
 To be able to arrange for a series of charter commitments which
 will follow one upon another with little or no intervening time
 during which the ships do not earn any revenue is the ambition of
-every manager. Should the policy of the owner be to keep the fleet
-
-in the market for voyage charters, where the returns are higher but
+every manager. Should the policy of the owner be to keep the fleet in the market for voyage charters, where the returns are higher but
 the risks of finding continuous employment are greater than in the
 longer term time charter activity, it is necessary to be extremely
 selective in the commitments made. For example, a high rate may
@@ -1616,9 +1572,7 @@ ceed in ballast to British Columbia for either a cargo of grain for Eu-
 rope, or a full load oflumber for the Atlantic coast of the United States.
 In the real world of tramp shipping, there must be assurance
 that the terms and conditions demanded by the charterer are fair
-and reasonable from the viewpoint of the shipowner. What at first
-
-may seem to be a very profitable rate may turn out to be a guarantee
+and reasonable from the viewpoint of the shipowner. What at first may seem to be a very profitable rate may turn out to be a guarantee
 of a heavy loss if there is no protection against excessive delays
 incident to port congestion. For instance, if a cargo of grain is
 offered from Churchill, a Canadian port on Hudson Bay where the
@@ -1698,9 +1652,7 @@ $741,600
 656,000
 $ 85,600
 The alternative is to place the ship under time charter at a rate
-which takes cognizance of the charterer's responsibility for fuel,
-
-canal tolls, and port fees. To determine what the time charter hire
+which takes cognizance of the charterer's responsibility for fuel, canal tolls, and port fees. To determine what the time charter hire
 should be to produce the same earnings, this calculation would be
 made:
 Net voyage expense, 40 days @ $12,000
@@ -1800,9 +1752,7 @@ Owners of tramp ships must be alert at all times to the direction
 in which the charter market is going. If freight rates are believed to
 be at or near the peak, it is the proper time to fix as many ships as
 possible for the longest periods to which charterers are agreeable.
-If, however, charter rates are low, but the owners are optimistic that
-
-there will be a marked improvement in the near future, they would
+If, however, charter rates are low, but the owners are optimistic that there will be a marked improvement in the near future, they would
 seek short-term contracts in order to take advantage of the higher
 rates when they become effective. Owners also must watch develop-
 ments worldwide to position their ships for the best opportunities.
@@ -1840,9 +1790,7 @@ have principals whose ships are engaged in many different trades,
 and therefore must have an extensive knowledge of the entire field
 of marine transportation. Inevitably, there also are individuals who
 handle one type of business more and more frequently, and who
-find themselves becoming specialists in a particular trade. In this
-
-manner evolved those experts in the movement ofliquid petroleum
+find themselves becoming specialists in a particular trade. In this manner evolved those experts in the movement ofliquid petroleum
 cargoes or in finding charters for tankers; similarly, concentrating
 upon fixing ships to handle full loads of grain led other experts to
 devote their attention exclusively to ships seeking grain cargoes, or
@@ -1880,9 +1828,7 @@ bility of a particular rate may not be known, the experience of the
 broker will permit him to make extremely accurate guesses about
 these matters. Constant and careful analyses of these reports are an
 integral part of the broker's daily routine.
-In addition to these "open market" quotations, a number of ship
-
-fixtures never receive publicity. This situation arises most often in
+In addition to these "open market" quotations, a number of ship fixtures never receive publicity. This situation arises most often in
 the case of long-term charters where unusual or almost unique
 circumstances have made special consideration necessary, with ac-
 companying adjustment of rates, terms, and conditions. The other
@@ -1920,9 +1866,7 @@ individual charterers often have problems that can be solved only
 by paying attention to those acknowledged difficulties. Frequently,
 what is satisfactory for one charterer is not, and cannot be, accept-
 able in any form to another charterer.
-So it comes about that the standard charter-parties drawn up by
-
-the shipowners serve as the basis for negotiation of a contract.
+So it comes about that the standard charter-parties drawn up by the shipowners serve as the basis for negotiation of a contract.
 Every clause must be examined to be sure that it applies in its
 entirety to the contemplated use of the ship; if it does not, it is
 common practice for the principals, advised by their brokers, to
@@ -1959,9 +1903,7 @@ This extremely brief report of an uncomplicated voyage charter
 is an example of the shorthand used in trade journals. The details,
 derived from other sources, make an interesting story.
 The motorship Scotspark was a bulk carrier of 27,175 tons dead-
-weight, with a below-decks capacity for grain of 1,400,000 cubic
-
-feet (42,000 cubic meters). On a daily consumption of 40 tons of
+weight, with a below-decks capacity for grain of 1,400,000 cubic feet (42,000 cubic meters). On a daily consumption of 40 tons of
 heavy oil (3,500 seconds Redwood) and 2 tons of diesel fuel, she had
 a service speed of 15 knots. Her fuel tanks had a capacity of2,152
 tons, adequate for a 51-day voyage without refueling.
@@ -2002,9 +1944,7 @@ ing the need to purchase replenishment fuel at Capetown.
 Indicative of how shipowners attempt to have employment
 arranged for their ships as charters expire is the fact that on
 completion of discharge the Scotspark was placed on time charter to
-Continental Lines for a voyage from Antwerp to the United States
-
-north of Cape Hatteras, at a rate of $2,500 a day. This charter was
+Continental Lines for a voyage from Antwerp to the United States north of Cape Hatteras, at a rate of $2,500 a day. This charter was
 made possible by the fact that almost all major steamship lines in the
 North Atlantic service today are fully containerized, and therefore
 are unable to carry certain kinds of cargo. As a result, "handy size"
@@ -2206,9 +2146,7 @@ there is a brisk demand for transportation of cargoes moving in
 bulk, and can be disastrous when, for reasons beyond any possibility
 of control by the owner, there is a sudden reduction in require-
 ments. Inherent in this situation is the fact that ships normally
-working in a certain trade will be reassigned to different routes
-
-whenever the need for carriers diminishes. In such circumstances,
+working in a certain trade will be reassigned to different routes whenever the need for carriers diminishes. In such circumstances,
 the competition becomes very intense, freight rates drop precipi-
 tately, and the older, less efficient ships may have to be laid up
 because of no employment.
@@ -2291,9 +2229,7 @@ tramps make their voyages.
 Tramp shipping today requires, as does the entire steamship
 industry, a higher degree of managerial skill than formerly, as well
 as the tools of good management such as the computer, the satellite-
-relayed telephone, and the complex automation found more and
-
-more aboard ships as owners seek to enhance their profit-making
+relayed telephone, and the complex automation found more and more aboard ships as owners seek to enhance their profit-making
 capability by the use of sleepless and tireless monitoring devices.
 This sophisticated type of supervision permits more effective con-
 trol of ship use, more accurate cost determination, and overall
@@ -2336,9 +2272,7 @@ bulk, there still are cargo-loading problems to be solved. Port
 entrance and clearance routines for remote or infrequently visited
 places must be envisioned and anticipated. While some of these
 details may be handled from the owner's office in the distant home-
-land, many of them inevitably are delegated to the master of the
-
-ship. Throughout the voyage, he must serve as the representative
+land, many of them inevitably are delegated to the master of the ship. Throughout the voyage, he must serve as the representative
 of the owner, and thus becomes to a measurable extent the custo-
 dian of that often shadowy figure's fortunes.
 The competitive nature of the tramp trade, previously de-
@@ -2376,9 +2310,7 @@ crowded with hurrying clerks and noisy with business machines. It
 is more likely that the typical tramp operator will have a small
 headquarters where a few persons handle the details of ship move-
 ment and arrange future commitments. Although it is not precisely
-applicable today, the old maxim of the Golden Age does indicate
-
-the approximate ratio of shoreside personnel to ships at sea: "One
+applicable today, the old maxim of the Golden Age does indicate the approximate ratio of shoreside personnel to ships at sea: "One
 man in the office for each ship in the fleet."
 The home office of the tramp relies upon brokers around the
 world for representation in the constant search for cargoes. Daily,
@@ -2534,9 +2466,7 @@ ER'S COUNTER OFFERS ACCEPTABLE EXCEPT LAYTIME REMAINS
 AT SIX WEATHER WORKING DAYS SUNDAYS AND HOLIDAYS
 INCLUDED.
 Burnett notifies White of this response, and the information is
-transmitted immediately to Sharp in New York, who recommends
-
-to King Corporation that the terms set by the shipowner be ac-
+transmitted immediately to Sharp in New York, who recommends to King Corporation that the terms set by the shipowner be ac-
 cepted without further negotiation. King is pleased that the freight
 rate has been reduced, and concedes the other modifications.
 Sharp therefore is instructed to close the deal, which is done by the
@@ -2617,9 +2547,7 @@ The Baltic International Freight Futures Exchange in London and the Internationa
 
 Each Baltic Freight Index point has been assigned an arbitrary
 value of $10.00. Any shipowner or charterer may purchase or sell
-points by arranging with a member of the BIFFEX to represent
-
-him on the floor of the Baltic Exchange. A deposit from the trader
+points by arranging with a member of the BIFFEX to represent him on the floor of the Baltic Exchange. A deposit from the trader
 is required, and if the market moves contrary to expectations, the
 broker will require payments equal to the decline in the market
 value of the index. As each transaction is accomplished, the infor-
@@ -2657,9 +2585,7 @@ to Rotterdam, loading on January 1. On October 1, the BIFFEX
 index stood at 1,000. The charterer therefore bought 50 contracts
 at the price of $9.00 per point, paying $450,000 for the lot. As
 anticipated, the market did rise, and on January 1 the quoted rate
-was $9.90 per ton of grain. The contracts were sold at $9.90, and
-
-realized $495,000 for the charterer, who thus had adequate funds
+was $9.90 per ton of grain. The contracts were sold at $9.90, and realized $495,000 for the charterer, who thus had adequate funds
 to pay the increased freight rate.2
 The competition mentioned earlier in the analysis of tramp
 shipping manifests itself principally in the rates charged by dif-
@@ -2737,9 +2663,7 @@ be handled in the ports of loading and discharge can have a major
 bearing on the determination of the length of the voyage. The
 actual number of tons of a given commodity which can be stowed
 below decks is related to the amount of space needed to accommo-
-date one weight ton. Detentions may be individually unimportant,
-
-but cumulatively can be disastrous. The willingness of longshore-
+date one weight ton. Detentions may be individually unimportant, but cumulatively can be disastrous. The willingness of longshore-
 men to work overtime or on holidays and religious festivals, delays
 in putting the ship alongside the cargo-working berth, loss of time
 from shortages of pilots or tugs in the harbor, and hours needed to
@@ -2829,9 +2753,7 @@ terdam or from Bahrein Island to Bayonne, New Jersey. Each rate
 has been calculated to return $1,800 per voyage day for a standard
 vessel, defined as a tanker of 19,500 deadweight tons, traveling at
 14 knots and consuming 28 tons of high viscosity fuel oil per day at
-sea. The $1,800 is a purely nominal figure, and does not represent
-
-an actual level of operating costs, nor does it produce a profit. All
+sea. The $1,800 is a purely nominal figure, and does not represent an actual level of operating costs, nor does it produce a profit. All
 World scale (or WS) rates are based on 100; if the fixture report
 shows WS 40, it means a reduction from the calculated rate of 60
 percent. Should the ship be fixed at higher than the scale, it would
@@ -2868,9 +2790,7 @@ problem of negotiating each and every voyage individually, includ-
 ing establishing an actual monetary rate, was recognized, and char-
 tering practice was modified accordingly when the war ended.
 Using the schedule, which applied to a standard T-2 tanker of
-16,500 tons, with a speed of 14.5 knots and burning 30 tons of
-
-heavy fuel oil per day, was much more efficient and a great time
+16,500 tons, with a speed of 14.5 knots and burning 30 tons of heavy fuel oil per day, was much more efficient and a great time
 saver. As ships increased in deadweight tonnage and in perform-
 ance characteristics, these new factors were worked into the negoti-
 ations for individual voyages of particular vessels.
@@ -2981,9 +2901,7 @@ or entering into or withdrawing from a trade route) and the selec-
 tion of senior executives, the board makes the final decisions.
 The President, as the chief operating officer, is responsible to the
 board for the proper functioning of the entire organization. He
-may have come up through the ranks of the company, or he may
-
-have been brought in at or near the top. Because he is the supervi-
+may have come up through the ranks of the company, or he may have been brought in at or near the top. Because he is the supervi-
 sor of all activities, he does not become involved for any protracted
 period of time in the working of any specific division, although his
 advice in those areas where he has specialized knowledge may be
@@ -3110,9 +3028,7 @@ Afloat
 Ship's Fi-
 nancial
 Activi-
-ties
-
-comptroller, cashier, accountants, and auditors. He is able at any
+ties comptroller, cashier, accountants, and auditors. He is able at any
 time to report on the complete financial position of the company
 and to discuss areas of fiscal strength and weakness. In some steam-
 ship organizations, the offices of secretary and treasurer are
@@ -3323,9 +3239,7 @@ in the most effective manner. He considers shippers' requests for
 special calls at ports not on the regular schedule or to transport
 large quantities of unusual cargo, and makes appropriate recom-
 mendations to higher authority when necessary. Troublesome
-bookings, as, for example, unexpectedly large offerings for a ship
-
-already almost filled, or proposals to delay a ship's sailing to accom-
+bookings, as, for example, unexpectedly large offerings for a ship already almost filled, or proposals to delay a ship's sailing to accom-
 modate a customer, also are referred to him.
 Immediately under the freight traffic manager is the General
 Freight Agent, who directs the salesmen (sometimes called solicitors)
@@ -3401,9 +3315,7 @@ cubic feet. The salesmen work closely with the booking clerk to
 assure that customers are extended the treatment they have been
 promised. Conversely, when the booking clerk finds that he needs
 either high-revenue or dense cargo, he often appeals to the sales-
-men to assist him in making a balanced load by arranging visits to
-
-shippers of the kind of cargo desired. On the basis of the booking
+men to assist him in making a balanced load by arranging visits to shippers of the kind of cargo desired. On the basis of the booking
 clerk's daily reports, the stevedore plans the stowage of the ship,
 and the terminal manager tentatively lays out the transit shed.
 For fully containerized ships, it is not necessary to compute
@@ -3441,9 +3353,7 @@ charged for the delays at the terminal.
 Patrons of steamship lines handling all cargo in containers but
 whose individual offerings are in comparatively small lots (referred
 to by the carriers as "less than container loads") are encouraged to
-send their consignments to a section of the terminal reserved for
-
-this type of traffic. At this "consolidation station," small lots are
+send their consignments to a section of the terminal reserved for this type of traffic. At this "consolidation station," small lots are
 processed and loaded into containers by terminal personnel. There
 is no significant difference between the handling of these ship-
 ments on a break-bulk terminal and at a container yard.
@@ -3481,9 +3391,7 @@ department makes arrangements for transportation pursuant to
 the consignee's instructions. If required, cargo will be warehoused
 until this transportation is available. No charge is made for this
 assistance; the expense of trucking, warehousing, customs broker's
-services, and transportation to the ultimate destination is for the
-
-customer's account. If the consignee believes that some or all of his
+services, and transportation to the ultimate destination is for the customer's account. If the consignee believes that some or all of his
 cargo has gone astray, the inward department initiates the search
 and keeps the claims agent at the loading point informed of its
 efforts. Finally, since pursers on the homeward voyage often make
@@ -3631,9 +3539,7 @@ Payment
 I Safety
 I Cashier
 I
-Engineer Cadets
-
-manager lays them on the desk of the vice-president. The reason
+Engineer Cadets manager lays them on the desk of the vice-president. The reason
 for this action is to assert, in unmistakable terms, that these two
 seafarers enjoy the full confidence of the highest echelons of man-
 agement. It also authorizes them to talk to anyone below the vice-
@@ -3669,9 +3575,7 @@ maintenance are upheld. He hires all licensed deck officers except
 the masters, and supervises through these officers the performance
 of the unlicensed personnel. Qualified and meritorious deck offi-
 cers and seamen are promoted on his recommendation and ap-
-proval. Because of these personnel activities, the marine superin-
-
-tendent must establish and maintain a good working relationship
+proval. Because of these personnel activities, the marine superin-tendent must establish and maintain a good working relationship
 with officials of the maritime unions.
 Safety of personnel afloat is of major importance. Some of the
 larger companies have Safety Directors; smaller organizations often
@@ -3746,9 +3650,7 @@ These aspects of his duties attained new significance as the uni-
 formity and quality of marine fuel and diesel oil became question-
 able following the petroleum crisis of 1973. In some instances, the
 office of the superintendent engineer may prepare the plans for
-bunkering the ship during a voyage; in any event, the bunkering
-
-records kept by this office may be consulted by staff members
+bunkering the ship during a voyage; in any event, the bunkering records kept by this office may be consulted by staff members
 whenever necessary.
 Commissary (Steward's) Division
 Supervising all aspects of activities related to the care and feeding of
@@ -3783,9 +3685,7 @@ A very important part of the routine of the commissary superin-
 tendent's office is checking supplies when they are delivered to the
 ship. This entails coordination of schedules with the purchasing di-
 vision and the assignment of inspectors to examine goods as they are
-brought to the ship. It is standard practice in United States shipping
-
-companies to have a qualified inspector from the United States De-
+brought to the ship. It is standard practice in United States shipping companies to have a qualified inspector from the United States De-
 partment of Agriculture examine and approve all meat, poultry,
 eggs, butter, and vegetables before they are accepted by the ship.
 Purchasing Division
@@ -3897,9 +3797,7 @@ ments around
 murrage Re-
 Terminal
 ~orts
-~~-
-
-loading the ship, a member of the receiving office staff makes
+~~-loading the ship, a member of the receiving office staff makes
 frequent surveys of the cargo spaces to ascertain the exact area in
 which lots of cargo are stowed. From this information, the ship
 stowage diagrams are prepared.
@@ -4088,9 +3986,7 @@ the time the ship has to spend in port, for when vessels cost $500 or
 more an hour to keep in commission, there are few operators who
 can afford the luxury of idle ships alongside a terminal. There must
 be a constant awareness that ships can earn money only when they
-are actually transporting goods from one port to another. The
-
-shorter the port time, the more voyages a ship can make in a year,
+are actually transporting goods from one port to another. The shorter the port time, the more voyages a ship can make in a year,
 and the greater her earnings.
 Terminal management depends upon an efficient organization
 of people, and a systematic assignment of duties to the staff so that
@@ -4126,9 +4022,7 @@ pedestrian traffic.
 5. Controlling the maintenance and porter units to assure that
 hazards to safety resulting from damage or accumulation of waste
 are removed quickly and efficiently.
-The logic behind these additional assignments is that security
-
-guards constantly patrol the transit sheds, storage yards, container
+The logic behind these additional assignments is that security guards constantly patrol the transit sheds, storage yards, container
 marshalling yards, and the piers and wharves. They must be alert to
 any deviations from safe and accepted practices which endanger
 the physical safety of the plant or cargo.
@@ -4166,9 +4060,7 @@ cleanliness and maintenance of the terminal assures that when
 trash accumulations are reported by the patrolmen, a cleanup gang
 will be dispatched immediately. Burned-out light bulbs, breaks in
 the transit shed deck, pot holes in truck lanes, and damage to the
-chain link fence all pose hazards to personnel or cargo, and prompt
-
-attention can be assured if the information from the patrolmen is
+chain link fence all pose hazards to personnel or cargo, and prompt attention can be assured if the information from the patrolmen is
 converted into action by the security chief.
 N one of the foregoing comments, however, should suggest that
 the primary mission of the security chief is other than the safety and
@@ -4245,9 +4137,7 @@ handled by the stevedore. In these circumstances, the shipowner
 actually has no responsibility for the work of the terminal, but
 nevertheless must assume full liability for any cargo damaged by
 the stevedore's laborers since these men are, in the eyes of the law,
-agents of the steamship company. To safeguard the carrier, it is
-
-customary for at least one representative of the steamship company
+agents of the steamship company. To safeguard the carrier, it is customary for at least one representative of the steamship company
 to be assigned to the terminal. His function is largely that of liaison
 between stevedore and carrier.
 In the United States, modern break-bulk terminal operation is
@@ -4284,9 +4174,7 @@ ciency from a machine is a m~or responsibility of the terminal
 manager. He must guard against the possibility that too many-or
 too few-men are put on ajob at the expense of efficiency. It often
 happens that, even with the will to work, too many men in a gang
-will interfere with each other, and the result of their collective
-
-labors is not as good as would have been the case had fewer men
+will interfere with each other, and the result of their collective labors is not as good as would have been the case had fewer men
 been assigned.
 3. Work practices must be standardized. To calculate costs in terms
 of money, manpower, time, and machinery, it is necessary that
@@ -4344,9 +4232,7 @@ provide maximum simplicity of operation combined with safety
 and comfort for the driver. Experience has shown that employee
 morale and efficiency decrease in direct ratio to operator fatigue.
 Materials handling of break-bulk cargo on the waterfront today
-depends almost entirely on the cargo pallet. This invaluable piece
-
-of equipment is a light, double-faced platform of wood, usually
+depends almost entirely on the cargo pallet. This invaluable piece of equipment is a light, double-faced platform of wood, usually
 four feet long by forty inches wide. It is inexpensive considering the
 number of times it is reused. As cargo is received at the terminal, it
 is general practice to place the goods on pallets to build up a
@@ -4382,9 +4268,7 @@ in a protective cover. A sheet of heavy plastic serves very well.
 more accurate because fewer units have to be counted.
 4. Economies of time can be effected at every transfer point.
 Over the years, pallet sizes have become more or less standard-
-ized, but no formal agreements as to dimensions have ever been
-
-reached between carriers or shippers. It is true, however, that as the
+ized, but no formal agreements as to dimensions have ever been reached between carriers or shippers. It is true, however, that as the
 use of pallets has been extended beyond the confines of the termi-
 nal, the size and type of pallet used for transportation has become
 more and more conventional, until today the most generally used
@@ -4444,9 +4328,7 @@ operation of equipment and vehicles.
 Attention already has been drawn to the importance of control-
 ling the circulation of vehicles within the terminal enclosure. In
 break-bulk transit sheds, essential pedestrian traffic should be re-
-stricted to conspicuously marked walkways. Container terminals,
-
-partly because of their size and partly because of the density of
+stricted to conspicuously marked walkways. Container terminals, partly because of their size and partly because of the density of
 truck traffic, should exclude pedestrians from the area in which
 containers are stored. For workers and others authorized to be
 within the terminal enclosure, transportation should be provided
@@ -4484,9 +4366,7 @@ shipper. Unless he can show that the damage or loss occurred as a
 result of a cause for which the law grants him an exemption, the
 carrier is responsible and must pay the shipper or consignee the
 agreed value of the goods. Often the settlement of a single claim for
-one broken article can absorb the profit earned on the transporta-
-
-tion of several hundred tons of other cargo. The terminal manager
+one broken article can absorb the profit earned on the transporta-tion of several hundred tons of other cargo. The terminal manager
 must strive constantly to insure that cargo moving through his
 terminal receives the best possible treatment.
 Care of the cargo requires two things: skillful and gentle han-
@@ -4534,9 +4414,7 @@ management.
 Efficient operation of a break-bulk cargo terminal requires care
 in planning each stage of activity, and nowhere is this more true
 than in the layout of the transit shed(s). The booking clerk keeps
-the receiving clerk informed as cargo commitments are made, so
-
-that adequate space may be allotted to handle the consignments to
+the receiving clerk informed as cargo commitments are made, so that adequate space may be allotted to handle the consignments to
 the different ports. In the case of a company maintaining a service
 to a number of ports of call, as, for example, through the Mediter-
 ranean, or to the southeast coast of Africa, or the Pacific coast of
@@ -4572,9 +4450,7 @@ sure. When a considerable portion of the inbound cargo is to be
 transshipped into barges or lighters working on the offshore side of
 the vessel, there is an immediate easing of the requirement for
 accommodation in the transit sheds. If the cargo must be brought
-into the shed for sorting and delivery to consignees, a correspond-
-
-ing amount of space will be needed. These arrangements depend
+into the shed for sorting and delivery to consignees, a correspond-ing amount of space will be needed. These arrangements depend
 upon careful coordination of all the divisions of the terminal to
 achieve the desired goal of efficient and expeditious turnaround of
 the ship.
@@ -4612,9 +4488,7 @@ ship. Usually this is accomplished by means of "port marks" or
 symbols applied to every box, bag, crate, or other container re-
 ceived for shipment. For example, Genoa might be designated by a
 red circle, while Istanbul would be symbolized by a green square.
-There are no fixed rules for port marks, except that they be simple
-
-in design, distinctive, and easy to see. They may be affixed at the
+There are no fixed rules for port marks, except that they be simple in design, distinctive, and easy to see. They may be affixed at the
 convenience of the terminal, sometimes in the transit shed and
 sometimes after the cargo is stowed in the ship. Affixing the mark
 after stowage makes it certain that it will be visible during discharg-
@@ -4746,9 +4620,7 @@ gate cost of port time to $400 an hour. The differential between
 straight time and overtime costs of a single longshore gang in an
 Atlantic coast port of the United States is $246 an hour. Addition-
 ally, checkers and the clerical staff supporting the overtime opera-
-tion would have to be paid at the prevailing rates. If the total cost of
-
-the proposed overtime work did not exceed $400 per hour, and
+tion would have to be paid at the prevailing rates. If the total cost of the proposed overtime work did not exceed $400 per hour, and
 quicker turnaround of the ship, with the consequential benefit of
 more productive voyage days, is assured, the decision to work the
 ship in overtime hours would be justified.
@@ -4786,9 +4658,7 @@ delivered by the harbor carrier, when work was started, and when
 the lighter was released to its owner. There is a column in this
 Lighter Record to show where the cargo is stored in the terminal, or
 stowed in the ship, as appropriate.
-Each morning at eight o'clock, the receiving clerk compiles a
-
-report of cargo work completed during the preceding twenty-four
+Each morning at eight o'clock, the receiving clerk compiles a report of cargo work completed during the preceding twenty-four
 hours. A separate report is submitted for each ship and contains
 these details: number of tons of cargo booked into the ship, tons of
 cargo actually delivered by shippers during the day, tons loaded,
@@ -4826,9 +4696,7 @@ some damage, to be followed by claims from consignees for restitu-
 tion of the loss. These data are assembled into the Over, Short and
 Damaged Cargo Report, commonly referred to as the O. S. and D.
 Report. This document is of great value in determining the actual
-efficiency of the terminal and the carrier's operations, for it helps to
-
-pinpoint actual damage; it puts losses, "overs,"/"shorts," into their
+efficiency of the terminal and the carrier's operations, for it helps to pinpoint actual damage; it puts losses, "overs,"/"shorts," into their
 proper perspective; and it serves as a convenient means of notifying
 all other ports on the company's route that certain cargo is missing
 or on hand seeking an owner. The O. S. and D. Report is dis-
@@ -4864,9 +4732,7 @@ modate ships 600 feet long, and offered a marshalling area of about
 ships, which were just under 1,000 feet from bow to stern and could
 carry about 4,000 20-foot containers, it was necessary to have a
 berth at least the length of the ship and supported by between 75
-and 400 acres of storage space for containers. The whole container
-
-terminal must be surrounded by high chain link fences and
+and 400 acres of storage space for containers. The whole container terminal must be surrounded by high chain link fences and
 equipped with towering cranes and sophisticated materials han-
 dling machines.s
 In place of the familiar head house, truck dock, and transit
@@ -4904,9 +4770,7 @@ and highway transportation. A significant volume of cargo, how-
 ever, is offered in small lots (designated as "less than container lots,"
 or LCL), and delivered by shippers to the terminal's "container
 freight station" (often referred to as the CFS), where a number of
-these consignments will be consolidated and packed into a single
-
-container before being placed aboard ship. A complete report of
+these consignments will be consolidated and packed into a single container before being placed aboard ship. A complete report of
 everything packed ("stuffed") into the container is compiled by a
 vigilant checker, who turns over the compilation to the receiving
 clerk for processing in the established manner. When a container
@@ -4944,9 +4808,7 @@ be recorded. No attempt is made to verify the contents unless there
 is evidence of damage or tampering. Cargo segregations have been
 eliminated; everything being sealed within the container, other
 consignments cannot be contaminated. The number of gangs of
-longshoremen has been reduced significandy, with a correspond-
-
-ing increase in the use of extremely cosdy and complicated machin-
+longshoremen has been reduced significandy, with a correspond-ing increase in the use of extremely cosdy and complicated machin-
 ery. Security remains an important aspect of management, but
 procedures followed to protect the cargo vans are markedly dif-
 ferent from those of the break-bulk terminal.
@@ -4984,9 +4846,7 @@ the conventional break-bulk terminal manager principally in the
 number of men and machines for whose productive employment
 he is responsible, and in the nature and detail of the records kept
 and processed? The essential principles remain unchanged: the
-ships must be handled with maximum speed; the cargo must be
-
-safeguarded while in the terminal; arrangements must be made for
+ships must be handled with maximum speed; the cargo must be safeguarded while in the terminal; arrangements must be made for
 rapid receipt and delivery of cargo and for prompt detection of
 "over," "short," and damaged containers; and the terminal must be
 laid out so that containers can be maneuvered by trucks, over-the-
@@ -5023,9 +4883,7 @@ documents.
 4. Assure that truck drivers stop their vehicles only at points
 designated by the gatekeeper and that their movements are over-
 seen by authorized terminal employees.
-5. Maintain the terminal area in a clean condition. with all
-
-containers correctly positioned in the designated slots. The mar-
+5. Maintain the terminal area in a clean condition. with all containers correctly positioned in the designated slots. The mar-
 shalling yard must be brightly illuminated at night. Container slots
 must be set back from the fence line far enough to prevent any
 contact from the outside.
@@ -5080,9 +4938,7 @@ pends upon a few machines, rather than upon a complex and
 expensive system of mechanical handling. The forklift truck is the
 best known of these machines and is the most important as well as
 the oldest and most flexible. The type usually encountered in
-American terminals is a compact, gasoline or diesel powered, cush-
-
-ion-tired unit that can pick up a package and carry it any distance. It
+American terminals is a compact, gasoline or diesel powered, cush-ion-tired unit that can pick up a package and carry it any distance. It
 is able to lift its burden high in the air to stack it for storage, or it may
 deposit it on the ground. The versatility of the forklift truck is
 amazing, and a competent operator can accomplish near miracles
@@ -5202,9 +5058,7 @@ activity to keep a nucleus of longshoremen and dock laborers
 regularly employed. This group comes to the terminal each day,
 and although unionized and subject to the working agreement, is
 not compelled to apply each morning and afternoon for work. The
-very nature of terminal operation, however, makes it necessary to
-
-hire additional men of those grades and skills which the particular
+very nature of terminal operation, however, makes it necessary to hire additional men of those grades and skills which the particular
 needs of the different ships make apparent. These supernumer-
 aries are hired for periods of four hours and may be released at the
 end of any shift. In most American ports, it is customary for
@@ -5242,9 +5096,7 @@ gangwayman, who directs the exact spot where a draft of cargo is to
 be placed; he also makes certain that his men understand where
 and how they are to stow the individual packages of cargo. If a
 difficult parcel is being handled, the foreman may be in the hold to
-coordinate the men's efforts. As the need arises for dunnage lum-
-
-ber, separation paper, and other supplies, he notifies the ship
+coordinate the men's efforts. As the need arises for dunnage lum-ber, separation paper, and other supplies, he notifies the ship
 foreman.
 The gangwayman is the signalman who directs the winch opera-
 tors and serves as the means of communication between them and
@@ -5282,9 +5134,7 @@ In the East Coast gangs, there is a "relief man" in addition to the
 foreman, gangwayman, two winch operators, eight piermen, and
 eight holdmen. To permit continuous work yet allow men a rest
 period during the four-hour shift, the relief man takes over the
-winch operator's duties. When this functionary returns from his
-
-rest, he becomes the acting gangwayman, while that worker moves
+winch operator's duties. When this functionary returns from his rest, he becomes the acting gangwayman, while that worker moves
 up temporarily to foreman. Holdmen and piermen arrange their
 own reliefs within their respective groups. Since the relieving op-
 eration goes on continuously, the relief man is a regular member of
@@ -5361,9 +5211,7 @@ trucks can turn around.
 The rule of thumb for the amount of transit shed floor space
 needed to work a ship's cargo is nine square feet per ton. Ideally the
 shed should have only one level in order to use modern terminal
-and materials-handling techniques to their highest levels of effi-
-
-ciency. Wheeled vehicles of any description are able to move any-
+and materials-handling techniques to their highest levels of effi-ciency. Wheeled vehicles of any description are able to move any-
 where, and traffic control is comparatively simple. Routine inspec-
 tion and inventory procedures are made easy. An important, but
 occasionally overlooked, gain is that desirable illumination of the
@@ -5401,9 +5249,7 @@ ment of the terminal require only narrow alleys, and can move
 more rapidly when they do not have to be careful of moving trucks.
 Only authorized workmen are allowed within the transit shed,
 thereby increasing the security of cargo. If trucks are unloaded at
-the headhouse, maximum benefit is obtained from the labor of the
-
-men assigned to this job because they spend their working time on
+the headhouse, maximum benefit is obtained from the labor of the men assigned to this job because they spend their working time on
 the truck line, handling cargo as fast as trucks can be put into
 position. Cargo is discharged from trucks to pallet boards or cargo
 nets and is taken directly to the ship for loading or is transported to
@@ -5441,9 +5287,7 @@ Some ports are so situated geographically that much of the
 cargo brought to the water's edge in railroad cars is transferred
 from these land conveyances to waterborne lighters that are towed
 to and secured on the offshore side of the ship. This releases the
-rolling stock promptly, while expediting delivery to the waiting
-
-vessel. If the requisite cranes are available, the lighter's load may be
+rolling stock promptly, while expediting delivery to the waiting vessel. If the requisite cranes are available, the lighter's load may be
 taken aboard concurrently with goods being lifted from the dock-
 side platform.
 Break-bulk cargo terminal operations are more efficient, and
@@ -5481,9 +5325,7 @@ He is to make sure that only authorized persons remove anything
 from the enclosure. Patrolmen make frequent inspections of the
 entire terminal area, seeking evidence of theft and irregularities
 which suggest actual or contemplated pilferage, and indications of
-fire. Alertness, willingness to take a second look at anything, and
-
-facilities for prompt communication with the roundsman are essen-
+fire. Alertness, willingness to take a second look at anything, and facilities for prompt communication with the roundsman are essen-
 tial to satisfactory performance of the duties of the patrolman.
 The minimum staff for the security of any transit shed is a
 gateman, a patrolman, and the roundsman. During the working
@@ -5519,9 +5361,7 @@ provide the necessary facilities and equipment.
 For a break-bulk cargo terminal, a transit shed at least as long as
 the ship to be worked, plus an "upland area" of perhaps ten acres
 for outdoor storage of goods and some provision for a truck wait-
-ing line, was adequate for all but the largest operators. In dramatic
-
-contrast, a modern container terminal may cover between 75 and
+ing line, was adequate for all but the largest operators. In dramatic contrast, a modern container terminal may cover between 75 and
 400 acres of asphalt-coated space enclosed by a high chain link
 fence. Instead of a headhouse, truck dock, and transit shed, there is
 a gatehouse with a minimum of ten lanes and possibly as many as
@@ -5559,9 +5399,7 @@ bility for the container is transferred to the steamship line, time-
 stamps this document, and gives it to the driver as he moves to the
 receiving office. The dock receipt is sent by pneumatic tube to the
 receiving clerk, who assigns a checker to meet the truck in the
-inspection line. Following the inspection, a computer signal indi-
-
-cates the slot in the marshalling yard where the container on its
+inspection line. Following the inspection, a computer signal indi-cates the slot in the marshalling yard where the container on its
 chassis is to be parked. The driver takes the container to this point,
 and after releasing the trailer, returns to the gatehouse, surrenders
 the interchange receipt, and picks up the processed dock receipt as
@@ -5597,9 +5435,7 @@ inland points of origin, containers being sent to consignees' ware-
 houses, and containers being moved to and from the ship's side.
 Special attention to the establishment of "flow lanes" must be given
 by terminal supervisors who will be guided by the same principles
-that rule in the transit shed: one-way traffic, adequate width of
-
-roadways, good fields of vision, and, insofar as space permits, the
+that rule in the transit shed: one-way traffic, adequate width of roadways, good fields of vision, and, insofar as space permits, the
 elimination of cross traffic.
 4. The use of machines has reduced the number of longshore-
 men employed by the terminal, but has not changed the loyalty of
@@ -5637,9 +5473,7 @@ quires the wide range of knowledge of the characteristics of indi-
 vidual commodities which was essential for break-bulk stevedoring.
 Much of the burden of determining how to distribute weight within
 the ship is carried by the computerized systems which are charac-
-teristic of modern container terminals, but the wisdom of the
-
-terminal manager still is required to specify what the computer
+teristic of modern container terminals, but the wisdom of the terminal manager still is required to specify what the computer
 programs must encompass.
 9. "Time is money" always has been an axiom in terminal opera-
 tion. More than ever is this true as ship turnaround time has been
@@ -5703,9 +5537,7 @@ Charged per 2,240 lbs.
 Charged per 2,240 lbs.
 The method by which these different rates are set is worthy of
 study. Many of the "old-timers" in the stevedoring business used
-intuition, experience, and the barest minimum of rudimentary
-
-calculation to determine what they should charge to handle a par-
+intuition, experience, and the barest minimum of rudimentary calculation to determine what they should charge to handle a par-
 ticular commodity. Today, rates are made somewhat more scientifi-
 cally and are computed to the fourth decimal place, reflecting with
 greater accuracy the actual cost of performance under the contract.
@@ -5743,9 +5575,7 @@ effect upon final rates for individual commodities. Necessarily, the
 stevedore's bid is the result of determining all the hourly costs of
 labor (including "fringe" benefits paid by the employer as well as
 actual wages, insurance premiums, and related taxes), and estimat-
-ing as accurately as possible the number of tons of the commodity
-
-the standard gang of longshoremen can load or unload in one
+ing as accurately as possible the number of tons of the commodity the standard gang of longshoremen can load or unload in one
 hour. An error of a half-ton an hour in the performance (or
 "production," as it is known in the trade) of the gang can be
 financially disastrous to the stevedore, should the commodity un-
@@ -5785,9 +5615,7 @@ as required during loading for proper stowage of cargo.
 i. Work two gangs simultaneously in hatches when required and
 when practical to do so, provided necessary additional booms, falls,
 and winches are supplied by vessel or from shore facilities.
-Vacation, Welfare and Pension Allowances. Assessments charged to
-
-the Contractor to carry out the requirements of paid vacations, wel-
+Vacation, Welfare and Pension Allowances. Assessments charged to the Contractor to carry out the requirements of paid vacations, wel-
 fare benefits and pension fund plan under the prevailing Wage
 Agreements with the International Longshoremen's Association are
 not included in the commodity rates quoted herein, unless otherwise
@@ -5828,9 +5656,7 @@ shall be termed "Insurance."
 Responsibility for Damage or Loss. The Contractor will be legally liable
 for damage to the ship and its equipment, and for damage to cargo, or
 loss of cargo overside, through its negligence. When such damage
-occurs to ship or its equipment, or where loss or damage occurs to
-
-l56
+occurs to ship or its equipment, or where loss or damage occurs to l56
 THE BUSINESS OF SHIPPING
 cargo by reason of such negligence, the Ship's Officers or other
 authorized representatives will call this to the attention of the Con-
@@ -5915,9 +5741,7 @@ personnel obtained by the contractor for the purpose. The defini-
 tion of the tasks constituting "extra labor" is set forth in the contract
 in these words:
 Extra Labor Services. When required to supply extra labor, the Con-
-tractor will render its charges therefor at cost plus 10% and insurance
-
-for the following described services: (a) handling ship's lines and
+tractor will render its charges therefor at cost plus 10% and insurance for the following described services: (a) handling ship's lines and
 gangways; (b) cleaning ship's holds; (c) discharging excess dunnage or
 debris; (d) tiering cargo on pier above man-high upon discharge of
 vessel or breaking down cargo on pier to man-high upon loading of
@@ -5956,9 +5780,7 @@ example, frequency of claims against the assured, the hazardous
 nature of certain commodities, and the environment in which the
 work is to be performed. The percentage figure used by stevedore
 contractors to estimate the cost of insurance may be as little as 11
-percent of the wage cost and as high as 45 percent, depending upon
-
-the location of the port in the world. In some large ports, the rates
+percent of the wage cost and as high as 45 percent, depending upon the location of the port in the world. In some large ports, the rates
 charged contractors by underwriters may differ as much as ten
 percentage points, depending upon their loss experience.
 These provisions of the contract are reasonable since the steve-
@@ -6035,9 +5857,7 @@ largest quantities. Suppose, for example, that the records show that
 of all cargo carried, four commodities accounted for the major
 tonnage lifted in the ships: bagged cargo, 32 percent; automobiles,
 23 percent; copper slabs, 11 percent; and dry skins, 4 percent. The
-shipowner's concern for obtaining the lowest possible bid for han-
-
-dling these particular items is understandable. If the remaining 30
+shipowner's concern for obtaining the lowest possible bid for han-dling these particular items is understandable. If the remaining 30
 percent of the goods handled were distributed among twenty or
 thirty commodities and none individually accounted for more than
 2 percent of the total tonnage, the price of handling these assorted
@@ -6134,9 +5954,7 @@ For generations, the chief engineer of a ship has served as her
 maintenance and repair officer, and all requisitions for spare parts
 or material used in repairs of any sort are channeled through him
 to the offices of the cognizant departments ashore. In many cases,
-the superintendent engineer and the marine superintendent,
-
-drawing upon their own seagoing experience, have followed the
+the superintendent engineer and the marine superintendent, drawing upon their own seagoing experience, have followed the
 unwritten but time-honored policy expressed in the phrase, "If the
 chief wants it, give it to him." In recent years, however, this uncriti-
 cal acquiescence has come under attack because of the greatly
@@ -6214,9 +6032,7 @@ responsible for their proper care and custody. For example, the
 pumps installed in six ships of a company fleet are shown to have
 performed without a breakdown for ten consecutive years. That
 same make of pump is to be installed in a new ship. It is deemed
-unnecessary to acquire a spare pump, either to keep in the shore-
-
-l66
+unnecessary to acquire a spare pump, either to keep in the shore-l66
 THE BUSINESS OF SHIPPING
 side warehouse or to put aboard the vessel. The compressor on a
 refrigeration unit, however, has an operating life of about six
@@ -6297,9 +6113,7 @@ information from the manuals are recorded in each ship's file and
 kept readily available to furnish to suppliers whenever replace-
 ments or spare parts are ordered.
 It is important to note that the regulatory agencies (like the
-United States Coast Guard or the British Department of Trade) set
-
-certain minimum standards of spare parts and reserve supplies that
+United States Coast Guard or the British Department of Trade) set certain minimum standards of spare parts and reserve supplies that
 must be carried by ships. The classification societies likewise estab-
 lish requirements for spare parts. These stipulations, however,
 have little impact upon the actual number of spare parts carried
@@ -6335,9 +6149,7 @@ equipment
 It is almost axiomatic that spare parts for machinery can be
 procured most cheaply if they are ordered at the time the machin-
 ery is being manufactured and assembled. When these same parts
-are purchased years later, it may be necessary for the manufacturer
-
-to stop normal production routines in the factory and to tool up
+are purchased years later, it may be necessary for the manufacturer to stop normal production routines in the factory and to tool up
 expressly to fabricate the required item. In this connection, the
 Maritime Administration learned, during its study of procurement
 of spare parts, why replacements cost so much when ordered years
@@ -6375,9 +6187,7 @@ the research and procurement procedures current, there still
 would be the cost of interrupting the production cycle on current
 orders.
 A major concern for those dealing with the logistics of provid-
-ing spare parts is the fact that some equipment installed in new
-
-ships is of an obsolete design, and spare parts may not be available
+ing spare parts is the fact that some equipment installed in new ships is of an obsolete design, and spare parts may not be available
 throughout the operating lifetime of the vessels. The reason for
 this often is that an improved model of that piece of equipment is
 under design and test but is not yet ready for production. To meet
@@ -6415,9 +6225,7 @@ en when an American-flag ship is placed in subsidized service, when
 the operating differential subsidy contract expires, when the ac-
 counting period ends for determining the amount of subsidy sub-
 ject to recapture, and when the vessel is withdrawn permanently
-from subsidized service. These inventories are required for inclu-
-
-sion in reports on the financial operations of the company. They
+from subsidized service. These inventories are required for inclu-sion in reports on the financial operations of the company. They
 must make reference to the stores levels fixed in the standards book,
 which regulates the expenditures of spare parts. The regulations
 pertaining to these inventories also stipulate that the condition be
@@ -6453,9 +6261,7 @@ ashore are tagged in the same manner, except that the name of the
 ship is left blank. The warehouse itself is divided into five sections,
 one for each of the four ships in the fleet, and one for general
 storage. Spares purchased while a ship is on a voyage are placed in
-the designated area to await the return of that vessel to the home
-
-port. Storage shelves are indexed to the ship's boxes in which those
+the designated area to await the return of that vessel to the home port. Storage shelves are indexed to the ship's boxes in which those
 spare parts will be stowed when they are turned over to the custody
 ofthe chief engineer.
 Whenever spare parts are needed by the ship, the chief en-
@@ -6493,9 +6299,7 @@ point of management. In the first place, there is a continuous
 record of shipboard requirements for each and every spare part.
 The superintendent engineer is able to order replacement parts for
 the shipboard stock on the basis of the experience of each ship.
-Thus, if an air compressor runs 1,400 hours during a voyage, and
-
-requires a new drive belt after 350 hours of operation, the mini-
+Thus, if an air compressor runs 1,400 hours during a voyage, and requires a new drive belt after 350 hours of operation, the mini-
 mum support level can be set accurately at four belts. At the same
 time, if a new brand of belt is tested in service, the relative merit may
 be determined on the basis of actual performance, which is duly
@@ -6533,9 +6337,7 @@ A problem of significant dimension is encountered in the pro-
 curement and warehousing of what may be called "insurance
 items." These are items that are expensive, usually require long
 lead time for delivery, and are needed only rarely. Typical of this
-category are propellers, tail shafts, turbine rotors, major propul-
-
-sion-unit spares, reduction gears, electric motors, turbogenerator
+category are propellers, tail shafts, turbine rotors, major propul-sion-unit spares, reduction gears, electric motors, turbogenerator
 sets, pumps, and valves. Where two or more steamship operators
 have the same port and their ships use the same equipment, it is
 quite possible that a sort of informal "pool" may be set up. If a ship
@@ -6611,9 +6413,7 @@ Some steamship owners have elected to follow what might be
 designated as the "zero-based spare parts policy." Rather than
 maintaining fixed levels of spare parts, these companies keep on
 hand, both afloat and ashore, as little reserve material as experience
-justifies. They make a determined effort to anticipate the need for
-
-replacement parts and to procure these early enough to forestall
+justifies. They make a determined effort to anticipate the need for replacement parts and to procure these early enough to forestall
 breakdowns or delays to ships necessitated by waiting for the re-
 quired items. Perforce, procurement officers must keep track of
 the availability of equipment, both old and new, to meet unex-
@@ -6733,9 +6533,7 @@ deck, and catering departments, to prepare tentative requisitions,
 and to use these as the bases for soliciting bids from suppliers. The
 successful bidders are notified of their selection, but exact quanti-
 ties to be delivered are not made known until the ship arrives and
-details are cleared up. When this is accomplished, the purveyors
-
-receive final instructions by telephone, and deliveries are effected
+details are cleared up. When this is accomplished, the purveyors receive final instructions by telephone, and deliveries are effected
 in accordance therewith.
 As already noted in discussing procurement of spare parts, it is
 the part of good management for requisitions to be compared with
@@ -6773,9 +6571,7 @@ business for a purveyor of a single category, even though prices of
 some items within the category may be a trifle higher than those of a
 competitor. Quality is under constant scrutiny, and whenever a
 particular brand is found to be uneven or otherwise undependable,
-it is dropped from the list of approved products. Dealers-whether
-
-manufacturers, agents, or wholesalers--are held to exact com-
+it is dropped from the list of approved products. Dealers-whether manufacturers, agents, or wholesalers--are held to exact com-
 pliance with specifications, and failure to meet the terms of the
 contract as to brand and quality may be judged sufficient reason for
 cancellation.
@@ -6813,9 +6609,7 @@ chandlers. Generally, purchasing agents of the larger steamship
 com panies attempt to deal direcdy with the manufacturers of those
 items used in large quantities. Canvas, paints, oils, and greases are
 typical of such items. Should the manufacturer set his prices at the
-same level as those quoted by the jobber (a wholesale merchant who
-
-buys in very large lots and sells in quantities to retailers and heavy
+same level as those quoted by the jobber (a wholesale merchant who buys in very large lots and sells in quantities to retailers and heavy
 consumers), it is simpler to order from the jobber who has offices in
 the home port. In addition to the convenience of location, dealing
 with a jobber facilitates purchases in smaller quantities than the
@@ -6853,9 +6647,7 @@ thoroughly instructed by the owners prior to the commencement
 of the voyage as to the procedures to be followed, especially if some
 deficiency or shortage is discovered. Because ship chandlers are in
 the business of filling ship requisitions, it may prove to be more
-satisfactory for ships engaged in tramp operations to deal directly
-
-with some reputable chandlery than to attempt to work through the
+satisfactory for ships engaged in tramp operations to deal directly with some reputable chandlery than to attempt to work through the
 agent.
 Ship chandlers, especially in the larger ports, offer an extensive
 range of goods, usually in the form of a carefully prepared catalog
@@ -6893,9 +6685,7 @@ room or taken off the shelf, the card was annotated to show the date
 and reason for its use. The chief engineer retained one part of the
 card when the item was put into service, and at the first opportunity
 mailed the other two parts to the home office. The purchasing
-department was able to order replacements with the assurance that
-
-it was acquiring exactly what was needed, and retained one of the
+department was able to order replacements with the assurance that it was acquiring exactly what was needed, and retained one of the
 two parts of the card. The other part was sent to the data processing
 unit to be worked into the computerized record system.
 Preparing a procedure of this sort is a major undertaking. If the
@@ -6933,9 +6723,7 @@ placed months in advance because of the time required to weave or
 mark the material. Sheets and towels can be obtained in one or two
 months, whereas china and glassware will not be delivered for a
 half year or longer. Stocks of these long-lead items usually are kept
-in shoreside storerooms under the supervision of the purchasing
-
-agent, and ship requisitions are filled immediately. This method of
+in shoreside storerooms under the supervision of the purchasing agent, and ship requisitions are filled immediately. This method of
 replenishing what has been lost or broken during the voyage is both
 convenient and efficient; at the same time, it justifies procurement
 in very large quantities with the resultant economy of scale.
@@ -7016,9 +6804,7 @@ satisfactory in all respects. The truckman returns this original to the
 supplier as evidence that the delivery has been made and accepted;
 eventually, it becomes the supporting document for the bill sent to
 the steamship company's disbursing office. The duplicate copy
-goes to the ship, to provide an exact record of what has been placed
-
-in the storerooms. The triplicate is retained by the purchasing
+goes to the ship, to provide an exact record of what has been placed in the storerooms. The triplicate is retained by the purchasing
 department and filed with the other papers relating to procure-
 ment for that voyage, and the quadruplicate is routed to the ac-
 counting office for verification that all charges are in accordance
@@ -7094,9 +6880,7 @@ The warehouse must be distinguished from the storeroom
 maintained by each division of the operating department. The
 storeroom contains, in the case of the marine superintendent,
 charts and other aids to navigation, and a few of the most critical
-pieces of navigational equipment. Similarly, the superintendent
-
-l89
+pieces of navigational equipment. Similarly, the superintendent l89
 engineer will have in his storeroom a small supply of those parts
 that experience has shown are most likely to be needed as soon as a
 ship returns to the home port. The commissary division's store-
@@ -7172,9 +6956,7 @@ was the complete storing of the ship which was accomplished by this
 development.
 Whether procurement practices be based upon using a ship
 chandler, a purchasing house, or a division of the operating depart-
-ment of the steamship company, the shipowner carries a heavy
-
-burden of responsibility. He must assure that, at the outset of a
+ment of the steamship company, the shipowner carries a heavy burden of responsibility. He must assure that, at the outset of a
 voyage, the ship is adequately supplied with everything that will be
 needed while she is at sea. It is, as has been brought out in these
 pages, a matter of good management that careful control be exer-
@@ -7214,9 +6996,7 @@ immediately came to be called simply the "container") to be sepa-
 rated from the chassis. He then placed these trailers at the inland
 warehouses of shippers who filled them with their goods and sealed
 them in the same way that railroad boxcars were sealed. A trucker
-was summoned to haul the loaded trailer directly to the side of the
-
-oceangoing ship, where a crane lifted the container from the chassis
+was summoned to haul the loaded trailer directly to the side of the oceangoing ship, where a crane lifted the container from the chassis
 and deposited it on the especially constructed "spar deck" of the
 tanker. At the port of discharge, the process was reversed, and the
 trailer was delivered to its consignee in an inland city. Most im-
@@ -7254,9 +7034,7 @@ characteristics of the flow of cargo-the main cities of origin and
 destination, the tonnages, the commodities carried, the frequency
 with which lots of cargo moved, the length of time needed to effect
 delivery, and the freight revenue earned-it became evident that a
-ship running between New York and Charleston, South Carolina,
-
-would serve the route very well. The consulting naval architect was
+ship running between New York and Charleston, South Carolina, would serve the route very well. The consulting naval architect was
 commissioned to draw preliminary plans for the "floating garage"
 ship and to ascertain its performance capabilities. As the concep-
 tion was studied in greater depth, it seemed desirable to consider
@@ -7334,9 +7112,7 @@ unavoidable "start-up" expenses.
 The two potential obstacles to development of this idea having
 been removed by the acquisition of the certificates of convenience
 and necessity and by the purchase and modification of the four
-tankers, McLean was free to devote his energies to working out the
-
-details of moving the containers to and from shippers and con-
+tankers, McLean was free to devote his energies to working out the details of moving the containers to and from shippers and con-
 signees. It was simple enough to get the container to the ship for
 loading; it was more of a problem to assure that there would be a
 chassis and a truck-tractor awaiting each container when it was
@@ -7373,9 +7149,7 @@ complex interchange was arranged. The container was stuffed and
 sealed by the shipper who directed the truckman to haul the trailer
 to the railroad yard. There the container was transferred to a
 flatcar on which it moved from the inland city to the seaboard.
-When the flatcar reached the seaport, the container was shifted to a
-
-chassis and towed by a truck-tractor to the ship's side. In this
+When the flatcar reached the seaport, the container was shifted to a chassis and towed by a truck-tractor to the ship's side. In this
 manner, most efficient use was made of three distinct methods of
 transportation, without costly and time-consuming rehandling of
 the goods. This combination eventually was designated as "inter-
@@ -7413,9 +7187,7 @@ Fully to appreciate the loftiness of this stroke of commercial
 genius, it is necessary to sketch, in an admittedly highly oversim-
 plified manner, the whole procedure involved in what was known
 technically as "break-bulk carriage," and what later was called "con-
-ventional" handling of seaborne goods. For convenience, a single
-
-crate of furniture will be followed as it is moved from Grand
+ventional" handling of seaborne goods. For convenience, a single crate of furniture will be followed as it is moved from Grand
 Rapids, Michigan, to the inland city of Tours, France, about one
 hundred kilometers from Paris. The same pattern of activity would
 be followed for a thousand packages, regardless of their contents,
@@ -7493,9 +7265,7 @@ imum of thirteen empty cars. Altogether, the ship could carry from
 ninety to ninety-five cars on a trip.
 An essential part of the Seatrain operation was the ingenious
 crane which Brush, a civil engineer by training and background,
-had designed. The cables of the crane were secured to a massive
-
-steel "cradle" which served as the means of lifting the railroad car.
+had designed. The cables of the crane were secured to a massive steel "cradle" which served as the means of lifting the railroad car.
 When the cradle had been raised to the level of the superstructure
 deck, it was moved athwartships to the designated "slot" and low-
 ered to the appropriate deck. Here the car was connected to a wire
@@ -7573,9 +7343,7 @@ cannot be considered as anything more than a minor part of con-
 ventional break-bulk carriage.
 Following the end of World War II, the idea of stowing certain
 commodities in containers for transportation by ship began to
-spread rather widely. Great Britain, Denmark, Belgium, the Neth-
-
-erlands, Germany, and France were the western European nations
+spread rather widely. Great Britain, Denmark, Belgium, the Neth-erlands, Germany, and France were the western European nations
 where the practice received greatest attention; concurrendy, there
 was some increase in the use of containers in the United States. The
 boxes varied in dimensions according to the notions and experi-
@@ -7613,9 +7381,7 @@ Large steel boxes in which the fragile cartons could be stowed
 appeared to be one solution. In time, the company developed a box
 of 19 cubic meters capacity. Somewhat later, a larger unit was
 devised that was 4.6 meters long, 2.4 meters wide, and approxi-
-mately 2.4 meters in height. These dimensions were suggested by
-
-the need to fit two boxes on a standard flatbed truck-trailer, which
+mately 2.4 meters in height. These dimensions were suggested by the need to fit two boxes on a standard flatbed truck-trailer, which
 was 9.75 meters long. These containers, which Bull Line called
 "vans," were stowed in the holds of conventional break-bulk ships.
 Their handling below decks was facilitated by casters permanently
@@ -7653,9 +7419,7 @@ supervision of inland waterways tugs and barges varies in many
 details from that of oceangoing vessels. The senior executive must
 possess an unusual background of experience to provide rational
 and evenhanded administration, including allocating financial re-
-sources among the carriers. In the United States, existing law
-
-regulating interstate commerce forbids the proprietor of one mode
+sources among the carriers. In the United States, existing law regulating interstate commerce forbids the proprietor of one mode
 of transportation to own a competing method. Until recently, no
 railroad, for instance, was permitted to control an intercity trucking
 enterprise. A coastwise steamship company may not own a railroad
@@ -7693,9 +7457,7 @@ cost of approximately three and a half million dollars each, the
 ships underwent a major rebuilding. All interior bulkheads and
 decks were removed, and weather deck hatch openings were en-
 larged to a uniform length to accommodate the 35-foot-Iong con-
-tainers. The cargo spaces were fitted with an elaborate steel frame-
-
-work to form cells into which the containers were lowered and
+tainers. The cargo spaces were fitted with an elaborate steel frame-work to form cells into which the containers were lowered and
 stacked one atop another to a depth of five units. Two additional
 tiers of containers could be carried on deck. By installing a 30-ton
 gantry crane forward of the midships house, and another abaft this
@@ -7763,9 +7525,7 @@ were based on carrying 4,520 tons per one-way passage.
 Translated into fleet size, the calculations reveal that two con-
 tainerships had the theoretical capability of maintaining sailings
 every 6.14 days through the 351 days of their operating year. The
-longer turnaround time for the break-bulk ships meant that three
-
-vessels would be required to make possible a sailing every 6.05 days.
+longer turnaround time for the break-bulk ships meant that three vessels would be required to make possible a sailing every 6.05 days.
 Because no more revenue would be earned by the three break-bulk
 ships than by the two container ships, it is obvious that the reduction
 in total voyage time was of major financial importance.
@@ -7803,9 +7563,7 @@ As an inducement to shippers to use the new method of trans-
 portation of goods by sea, McLean made the specially designed
 containers available to his customers. This expensive expedient was
 necessitated by the fact that the standard over-the-road trailer used
-by American trucking fleets did not have a detachable box, nor was
-
-it built with the reinforced corners required for stacking the boxes
+by American trucking fleets did not have a detachable box, nor was it built with the reinforced corners required for stacking the boxes
 aboard ship. McLean vessels, perforce, loaded and carried only
 McLean-owned containers. In this way it came about that initially
 the containership operators assumed full responsibility for pro-
@@ -7940,9 +7698,7 @@ complete in a year. There are, however, only two ways in which to
 reduce the duration of a voyage. One is to cut the time to discharge
 and reload. The other is to decrease the number of hours spent in
 transit between ports. To justify the cost of greater speed, it must be
-shown positively that the revenue earned by the additional voyage
-
-exceeds the cost involved. The speed of the container-carrying ship
+shown positively that the revenue earned by the additional voyage exceeds the cost involved. The speed of the container-carrying ship
 therefore must be related to the integrated transportation system
 and evaluated for its contribution to that system.
 To anticipate later developments, it may be observed that the
@@ -8018,9 +7774,7 @@ was possible to do so, were evaluated methodically and pragmati-
 cally before any action was taken. It will be recalled that the first
 idea was to load wheeled trailers aboard ships, and to roll them off
 at destination. The economics of this scheme were found, after
-exhaustive analysis, to be unfavorable. The alternative suggested by
-
-the study was to carry the boxes without the chassis. McLean ap-
+exhaustive analysis, to be unfavorable. The alternative suggested by the study was to carry the boxes without the chassis. McLean ap-
 proved the idea and forthwith acquired the necessary certificates of
 convenience and necessity by purchasing the Pan-Atlantic Steam-
 ship Company, an established coastwise operator. The full-scale
@@ -8125,9 +7879,7 @@ holdings.
 The burden thus suddenly thrown upon shipowners by the
 technological advance was immense. New containerships not only
 cost much more to build than did the break-bulk vessels they were
-displacing, but they were capable of higher speeds and had signifi-
-
-cantly greater capacity. The duration of sea voyages was shortened
+displacing, but they were capable of higher speeds and had signifi-cantly greater capacity. The duration of sea voyages was shortened
 and port turnaround time was reduced radically, contributing to
 the heightened performance of these big ships. In theory, one
 modern cellularized container carrier of about 26 knots speed and
@@ -8247,9 +7999,7 @@ containership operation. For instance, the dockside cranes charged
 the same to hoist empty containers as they did to handle filled ones;
 the draft of the ship on arrival and departure was almost always the
 same, so the pilot fees (which were based on the draft of the ship)
-scarcely ever changed significantly. The same ports were visited in
-
-the same rotation voyage after voyage, and except during times of
+scarcely ever changed significantly. The same ports were visited in the same rotation voyage after voyage, and except during times of
 adverse weather conditions at sea, fuel charges were very nearly
 identical for every trip. These expenses, although technically vari-
 able, in fact had become so constant that they were as predictable as
@@ -8287,9 +8037,7 @@ network of agents, freight forwarders, and cargo brokers to repre-
 sent the water carrier throughout the inland territory, and to serve
 as its local sales and delivery staff. On their diligence, enterprise,
 and judgment depended, to a great extent, the ultimate success of
-the shipowner. The best representatives required complete sup-
-
-port if they were to perform to maximum capability. Convenient
+the shipowner. The best representatives required complete sup-port if they were to perform to maximum capability. Convenient
 and well-supplied container depots had to be established, together
 with satellite pickup and delivery points. Transfer stations at major
 junctions of highways and railways had to be set up so that contain-
@@ -8364,9 +8112,7 @@ Containers filled by the shipper ordinarily are not subjected to
 inspection of the goods inside when custody is acceptd by the
 carrier. The description of the goods provided by the shipper must
 be accurate, under penalty of legal action. Unless the container is
-received in a condition which shows that some damage probably has
-
-been sustained, the carrier and the shipper agree that they will be
+received in a condition which shows that some damage probably has been sustained, the carrier and the shipper agree that they will be
 bound by the contractual stipulation that the "package," i.e., the
 container, is "in good order and condition." The consignee is ob-
 ligated to set forth in detail any damage discovered when the
@@ -8404,9 +8150,7 @@ The following description of a hypothetical intermodal ship-
 ment of a container loaded by the manufacturer of high-grade
 porcelain tableware will illustrate the problem.
 A consignment of 106 cartons of finest quality tableware, valued
-altogether at approximately $200,000, and with some cartons
-
-worth as much as $5,240 each, was loaded by the manufacturer into
+altogether at approximately $200,000, and with some cartons worth as much as $5,240 each, was loaded by the manufacturer into
 a new and carefully inspected container supplied by direction of a
 steamship line operating from Oakland, California, to Honolulu,
 Hawaii. The purchaser demanded that the goods be sent by the
@@ -8443,9 +8187,7 @@ tainer had been sealed after a final inspection to assure that all was
 in good order within the container.
 2. The intercity trucker declared, also under oath, that delivery
 had been effected to the railroad yard in Newark without incident.
-The driver of the truck was identified by name and license number,
-
-and his record for safe driving was confirmed by the state police.
+The driver of the truck was identified by name and license number, and his record for safe driving was confirmed by the state police.
 Furthermore, the driver testified that he personally had examined
 the seal at the time custody was transferred to the railroad, and the
 seal had not been damaged in any way.
@@ -8482,9 +8224,7 @@ laws and regulations known to and binding upon all participants; or
 regulations. It takes only a little imagination to comprehend the
 practical difficulties resulting from an intermodal shipment in
 which, for instance, an American railroad was the initiating carrier,
-a Dutch ship provided the ocean transportation, a German barge
-
-service moved the container inland and turned it over to a Swiss
+a Dutch ship provided the ocean transportation, a German barge service moved the container inland and turned it over to a Swiss
 truckman for delivery to the consignee.
 True intermodal transportation is still in the process of evolu-
 tion. A major step toward realization of the ultimate goal of inter-
@@ -8604,9 +8344,7 @@ tral pools" of containers. The term is a shorthand reference to those
 boxes owned by leasing companies which are used for one-way
 movements, and then turned over to an agent. This functionary
 places the containers in central collecting points where they form a
-pool from which individual units can be drawn to meet the needs of
-
-shippers within geographical range of that central point. Because
+pool from which individual units can be drawn to meet the needs of shippers within geographical range of that central point. Because
 they are specialists in the procurement and management of con-
 tainers used in worldwide trade, the leasing companies have de-
 vised elaborate, computer-based systems by which they are able to
@@ -8760,9 +8498,7 @@ In 1979, as part of its strategy to expand its hinterland, Ameri-
 can President Lines initiated a "linertrain" service from Seattle to
 Chicago and New York. Compared to the all-water route, this saved
 seven days of transit time. Capitalizing on the success of this ven-
-ture, the company in 1984 introduced its individually designed
-
-railroad flatcars which carried containers stacked two high. A con-
+ture, the company in 1984 introduced its individually designed railroad flatcars which carried containers stacked two high. A con-
 tract was negotiated with the railroad to provide unit train service
 transporting a total of 200 40-foot containers, with two departures
 a week in each direction. So effective was this operation that two
@@ -8840,9 +8576,7 @@ cargoes may be designated correctly as "naturally tributary" to a
 particular port. Should any or all of this cargo be diverted from that
 port, the logic and reasonableness of that diversion would have to
 be established. "Reasonableness" of an individual routing of cargo
-is to be determined by considering (1) the quantity of cargo being
-
-diverted, and whether substantial injury is being sustained by the
+is to be determined by considering (1) the quantity of cargo being diverted, and whether substantial injury is being sustained by the
 bypassed port; (2) the cost to the steamship operator of providing
 direct service to the complaining port; (3) any practical and demon-
 strable difficulties in ship operation or other factors, such as the
@@ -8956,9 +8690,7 @@ day of steaming to reach. The question to be answered, quite
 literally on a port-to-port basis, was this: "Is it cheaper and more
 efficient to pay trucking costs to bring the containers from Port Y to
 the ship's berth at Port X, or to send the ship to Port Y?" Clearly, the
-number of containers and the ocean freight rates payable on their
-
-contents would have much to do with the answer, but as a general
+number of containers and the ocean freight rates payable on their contents would have much to do with the answer, but as a general
 rule it may be asserted that where the number of containers is small
 and the highway distance from Y to X is approximately one hun-
 dred miles, it would pay the owner to keep the ship at Port X and to
@@ -8996,9 +8728,7 @@ shipped to the barges, and a fixed fee was paid for their onward
 transportation. If no containers were offered to the feeder carrier,
 no payments were made. The success of these efforts was owed to
 the regularity of schedules. Shippers and consignees knew when
-their containers would be picked up or delivered, and the deep-sea
-
-carrier could determine in advance what their feeder service would
+their containers would be picked up or delivered, and the deep-sea carrier could determine in advance what their feeder service would
 cost.5
 Because the big containerships were so expensive, and owners
 desired insofar as practicable to restrict them to one-port-to-one-
@@ -9036,9 +8766,7 @@ would be appreciated in other parts of the world, especially in the
 Orient. Because the ports in this area are separated by greater
 distances of open ocean, compared to either Europe or the United
 States, the feeder ships had to be significantly larger than the vessels
-employed in those two regions. A notable variation from the Euro-
-
-pean experience was the number of ships owned by the transpacific
+employed in those two regions. A notable variation from the Euro-pean experience was the number of ships owned by the transpacific
 carriers and assigned exclusively to feeder operations. A third
 distinction lay in the establishment not only of base (or principal
 transshipment) ports, but in setting up major collecting ports along
@@ -9113,9 +8841,7 @@ twenty-foot, and forty-foot units. Explaining their rationale for
 such dimensions, they pointed out that this gave shippers great
 flexibility, while making certain that the forty-foot cells of the
 containerships would be used efficiently.
-Inasmuch as each operator furnished containers to its custom-
-
-ers and loaded only those containers, the issue of interchangeability
+Inasmuch as each operator furnished containers to its custom-ers and loaded only those containers, the issue of interchangeability
 did not arise immediately. It was only after the successful entry of
 several carriers into the transatlantic services and the sudden ex-
 pansion of demand for containerized transportation, that any con-
@@ -9153,9 +8879,7 @@ box or two short ones.
 In terms of numbers, the twenty-foot container has attained
 worldwide approval. Evidence of this was furnished by a survey
 made by the Maritime Administration which disclosed that at the
-beginning of 1977 shipowners in the United States preferred the
-
-short unit by a margin of 51.9 percent to 48.1 percent. The popu-
+beginning of 1977 shipowners in the United States preferred the short unit by a margin of 51.9 percent to 48.1 percent. The popu-
 larity of the forty-foot unit reached its peak in 1973, when 34
 percent of the American-owned containers were of that size. By
 ~977, the percentage had declined to 3l.8 percent.7
@@ -9191,9 +8915,7 @@ In broad outline, this is the plan for the neutral pool.
 All steamship lines would obtain their boxes from the pools
 maintained by companies specializing in owning and renting con-
 tainers. Each container would be acquired by the carrier for a
-definite, individual movement, and when the contents had been
-
-delivered to the ultimate consignee, the container would be re-
+definite, individual movement, and when the contents had been delivered to the ultimate consignee, the container would be re-
 turned to the control of the pool. This would be accomplished by
 the consignee notifying the representative that the container was
 empty and requesting instructions as to the disposition of the box.
@@ -9231,9 +8953,7 @@ upon supporting activities such as the leasing companies and the
 international freight forwarders doing business in cities far inland.
 These important members of the import-export team provide rap-
 id and accurate information on the progress of a shipment and
-make possible the effective intelligence network on which the struc-
-
-ture of containerization has been erected. Until recently, the value
+make possible the effective intelligence network on which the struc-ture of containerization has been erected. Until recently, the value
 of these support operations in forecasting demand for shipping
 capacity, both in terms of containers and ship spaces, was not
 appreciated. Lacking a scientific basis for estimating their needs,
@@ -9269,9 +8989,7 @@ tion was noted. Ship speeds were raised, and until the fuel crisis of
 routine. Because containers were handled by machines, the time
 required to put them aboard ship or to unload them was cut to
 hours in place of the days formerly needed. Shippers who dis-
-patched small lots (quantities sufficient to fill only a portion of a
-
-container) were encouraged to bring their consignments to the
+patched small lots (quantities sufficient to fill only a portion of a container) were encouraged to bring their consignments to the
 marine terminal, where these lots were consolidated and stowed in
 the big containers. A wide variety of boxes was developed to meet
 the different needs of shippers. One company advertised that it had
@@ -9308,9 +9026,7 @@ cheaper to use established break-bulk transportation.
 porting containers can be attained only by employing ships built
 and operated for that purpose.
 There is a noticeable trend in some trades for new ships to be
-designed so that two-thirds of the cargo capacity is devoted to
-
-cellularized stowage of containers and the remainder of the ship's
+designed so that two-thirds of the cargo capacity is devoted to cellularized stowage of containers and the remainder of the ship's
 space is intended for odd-sized or wheeled cargo. A number of
 these combination types exists today, and their productivity and
 profitability are under constant scrutiny.
@@ -9347,9 +9063,7 @@ tional commerce. At the same time, it must be acknowledged that it
 created many new and unforeseen problems, not least of which was
 the enormous financial cost of the transformation of ships, ports,
 and techniques of business. The change has been as profound as
-that resulting from the development of efficient and economical
-
-steam engines for ships. Equally undeniable is that the methods and
+that resulting from the development of efficient and economical steam engines for ships. Equally undeniable is that the methods and
 patterns of sea-trade have been altered irreversibly, and in every
 sense a new era has dawned for all who use the sea as an avenue of
 commerce.
@@ -9384,9 +9098,7 @@ carrier was liable for right and safe delivery unless he could show
 that he had been prevented from this by an act of God, an act of the
 king's enemies, or the inherent vice of the goods. Later it was
 argued that the contracting parties should be free to negotiate any
-terms they wished, and the freedom of contract developed in the
-
-second half of the nineteenth century to a point where the carrier
+terms they wished, and the freedom of contract developed in the second half of the nineteenth century to a point where the carrier
 accepted the goods to be transported when and how he liked.
 Shippers became discontented with the continuing efforts of
 the carriers to avoid any culpability for damage or loss and agitated
@@ -9461,9 +9173,7 @@ onstrate conclusively that the stowage and care given to the cargo by
 the carrier were inadequate.
 It is noteworthy that the courts, in determining the liability of
 carriers for damage to or loss of cargo, have extended maximum
-consideration, under the law, to the welfare of shippers. For exam-
-
-pIe, when cargo was damaged in a storm, the carrier was held
+consideration, under the law, to the welfare of shippers. For exam-pIe, when cargo was damaged in a storm, the carrier was held
 responsible because the worst of the disturbance could have been
 avoided by a reasonable deviation from the ship's initial course. In a
 similar ruling, the court decided that the failure of a master to take
@@ -9577,9 +9287,7 @@ valuation has been declared in the bill of lading, and correspond-
 ingly higher freight rates have been paid by the shipper. The
 claimant must be able to prove that the damage or loss occurred
 while the package was in the custody of the carrier. If the packages
-were shipped in apparent good order and condition and the con-
-
-tents were found to be broken or damaged upon opening the
+were shipped in apparent good order and condition and the con-tents were found to be broken or damaged upon opening the
 containers at destination, the claimant must prove that the goods
 actually were in sound condition when they were delivered to the
 carrier. If the carrier can show that the damage was not due to his
@@ -9654,9 +9362,7 @@ It is important to observe that the information and statements
 contained in the bill of lading are accepted in these three
 particulars:
 1. The accuracy (truth) of the loading tally; the statement that
-the cargo has been "shipped" in a named vessel; or the declaration
-
-that the cargo is "on board" a particular ship. There is no allowance
+the cargo has been "shipped" in a named vessel; or the declaration that the cargo is "on board" a particular ship. There is no allowance
 for shortages. A deficiency (shortage) in one lot may not be made
 up by a surplus (overage) in another lot of identical goods. The
 quantity of goods delivered to the consignee must correspond to
@@ -9730,9 +9436,7 @@ actually was shipped in good condition. One of the defenses open to
 the carrier is to show, in his behalf, that the packages were delivered
 in the same quantity and condition as shipped, and that there was
 no negligence on his part in the loading, handling, stowage, car-
-riage, care for, and discharge of the goods. Under COGSA, the
-
-statute of limitations is fixed at one year; notice of loss or damage
+riage, care for, and discharge of the goods. Under COGSA, the statute of limitations is fixed at one year; notice of loss or damage
 must be given not later than three days after the cargo has been
 delivered to the consignee, and suit for recovery of damages must
 be filed by the claimant within one year after delivery of the goods.
@@ -9766,9 +9470,7 @@ ORDER BILL OF LADING
 In foreign commerce today, the great bulk of bills of
 lading is issued by carriers to the order of the consignee which
 means that the carrier, shipowner, charterer, or master will deliver
-the goods at the port of destination not solely to the named con-
-
-signee, but to any person designated by him. Through the use of
+the goods at the port of destination not solely to the named con-signee, but to any person designated by him. Through the use of
 the word, "order," the bill of lading becomes more than a receipt
 from the ship for the goods, and more than the contract of carriage.
 The bill, by the insertion of this word "order," possesses a legal and
@@ -9835,9 +9537,7 @@ Except for the fact that the words "or order," following the
 name of the consignee, are deleted, the physical appearance and
 the text of the two bills of lading are identical. Some steamship
 companies use a paper stock of different color for ready separation
-of the straight from the order bills. Not infrequently, a conspicuous
-
-heading on the straight bills will be imprinted to prevent confusion
+of the straight from the order bills. Not infrequently, a conspicuous heading on the straight bills will be imprinted to prevent confusion
 on the part of the user.
 Because of the limitations on the use of the straight bill of
 lading, normally it is employed by shippers who likewise are the
@@ -9873,9 +9573,7 @@ to the other documents needed to support the transaction: the
 three original bills of lading freighted and signed by the carrier
 attesting to the fact that the goods have been loaded in the desig-
 nated ship prior to a specified date; the certificate of insurance,
-protecting the purchaser against loss in the event of disaster during
-
-transportation; the seller's invoice, showing the value of the mer-
+protecting the purchaser against loss in the event of disaster during transportation; the seller's invoice, showing the value of the mer-
 chandise ($2,500), the cost of insurance ($50), and the ocean freight
 ($100); and the letter of credit.
 The order bill oflading, to simplify the process of collection for
@@ -9913,9 +9611,7 @@ The carrier must insist that the original order bill of lading be
 surrendered at the time the goods are turned over to the consignee.
 The bill should be cancelled, and filed along with the executed
 delivery order, as proof that the terms of the contract have been
-fulfilled by delivery. If either of the other two originals should be
-
-presented at a later date, the carrier properly can refuse to honor
+fulfilled by delivery. If either of the other two originals should be presented at a later date, the carrier properly can refuse to honor
 them and support its position by producing the cancelled bill
 against which delivery was effected.
 It is obvious that the nonnegotiable bill oflading, because it does
@@ -9950,9 +9646,7 @@ moved in bulk. The fact that usually only one shipper and one
 commodity are involved simplifies the establishment of a freight
 rate. All the costs of running the ship, handling the cargo, and
 paying port fees and harbor dues must be added to the capital
-charges of ownership and the expenses of administration and over-
-
-head. Against this total is set the number of tons to be hauled, and
+charges of ownership and the expenses of administration and over-head. Against this total is set the number of tons to be hauled, and
 the resultant figure is what must be earned by the tramp to break
 even on the contemplated voyage. There is no necessary relation-
 ship between the rate on one route and the rate on another; the
@@ -9990,9 +9684,7 @@ unthinkable.
 The liner will sail on her regular run, whether full or not. She
 will carry a wide variety of commodities, each with its own peculiari-
 ties, in quantities which can be estimated in advance more or less
-accurately, but never with complete certainty. The ports of call are
-
-known far in advance of sailing, and the total expense of working
+accurately, but never with complete certainty. The ports of call are known far in advance of sailing, and the total expense of working
 the ship throughout her voyage can be calculated with acceptable
 precision. Since, however, the exact distribution of tonnage, com-
 modity by commodity, varies with every trip, it is not possible to
@@ -10071,9 +9763,7 @@ of ship. These are commodities like grain which move in both
 shipload and part-shipload lots. The rates technically are "open,"
 meaning that there is no uniform charge by the liners. Instead, the
 "regular traders" compete with the tramps by making bids on the
-open market. Tramp operators complain, with considerable justice
-
-in their argument, that liners seeking these "berth cargoes" depress
+open market. Tramp operators complain, with considerable justice in their argument, that liners seeking these "berth cargoes" depress
 the market rates on these items to an unprofitable level. They also
 contend, again with some basis in fact, that liners in need of ballast,
 which is expensive to stow and to unload, often seek these berth
@@ -10112,9 +9802,7 @@ destination have been equalized, in many instances, for all ports in a
 large geographic area. The fact is mentioned here, however, be-
 cause a new operator, striving to attract patronage, might fix his
 rates with this thought in mind.
-Some commodities are found naturally in widely separated
-
-geographic locations. The sellers of these commodities compete
+Some commodities are found naturally in widely separated geographic locations. The sellers of these commodities compete
 with each other all over the world. Buyers seek the lowest cost. If the
 combination of foreign price plus transportation produces a figure
 higher than the quotation from a rival area, the buying pattern may
@@ -10152,9 +9840,7 @@ particular commodities are the same regardless of whether the
 goods are carried from A to B or from B to A. Logical though this
 might be, it is not always true in international shipping. In proof of
 this, the Federal Maritime Commission announced in 1970 that
-freight rates for a number of items moving from the United States
-
-to Germany were from 23 percent to 200 percent higher than for
+freight rates for a number of items moving from the United States to Germany were from 23 percent to 200 percent higher than for
 the same items being transported from Germany to the United
 States. I Several years before this, freight rate analysts from the
 United Kingdom told a Congressional committee that disparities
@@ -10192,9 +9878,7 @@ was the high value of the United States dollar relative to other
 currencies. This meant that imports from abroad were compara-
 tively cheap, and good sales were made easily, whereas exports
 from the United States were expensive (in terms of the foreign
-buyers' currencies) and therefore not in great demand. The imbal-
-
-ance of trade was reflected in the number of empty containers
+buyers' currencies) and therefore not in great demand. The imbal-ance of trade was reflected in the number of empty containers
 which had to be transported at minimal freight rates or free of
 charge from the United States back to the overseas areas. It was a
 logical step, therefore, for carriers to add whatever they could to
@@ -10232,9 +9916,7 @@ the low value commodities.
 "We charge what the traffic will bear," observed the steamship
 rate maker as he determined that electric washing machines would
 be assessed $2.50 per cubic foot and bagged cement would be
-charged $1.00 per cubic foot for transportation from San Francisco
-
-to Valparaiso, Chile. The landed cost of the washing machine
+charged $1.00 per cubic foot for transportation from San Francisco to Valparaiso, Chile. The landed cost of the washing machine
 would be increased by about twelve percent; the price of cement
 after discharge from the ship would be exactly double the United
 States figure. Doubtless those who would buy washing machines
@@ -10272,9 +9954,7 @@ the competition of similar goods from different sources. It follows,
 therefore, that in modern commercial practice transportation has
 become an integral part of the distribution process established by
 the manufacturer or exporter. An efficient process reflects coop-
-eration and coordination in which every participant is aware of the
-
-impact of transportation upon the final demand for the object
+eration and coordination in which every participant is aware of the impact of transportation upon the final demand for the object
 offered for sale.3
 In recent years, as shipping capacity has exceeded the demand
 for cargo space, the ability of the carrier to assess rates on a unilat-
@@ -10312,9 +9992,7 @@ ers was given lowest priority.s
 The shipowner is faced with the necessity of earning maximum
 profit from the goods offered on his trade route, while interfering
 as little as possible with their flow. In theory, he seeks to carry a
-minimum of those cargoes that pay either noncompensatory or
-
-break-even rates, and he looks always for those items on which
+minimum of those cargoes that pay either noncompensatory or break-even rates, and he looks always for those items on which
 there is assurance of good profit. All the unprofitable commodities,
 even in theory, cannot be excluded. Frequently the low-grade raw
 materials are essential to the manufacture of goods which, in their
@@ -10350,9 +10028,7 @@ Although more attention may appear to be given to the large-scale
 shippers of goods, the small businessman actually is not ignored
 because the rates quoted by liner companies are the same for all
 shippers, regardless of the quantity of goods offered. In practice,
-the small-scale shipper benefits from the ability of the large-scale
-
-shipper to charter tonnage to handle his goods whenever liner rates
+the small-scale shipper benefits from the ability of the large-scale shipper to charter tonnage to handle his goods whenever liner rates
 become excessive. Should tramps be brought into the trade by the
 big shippers, the only recourse for the liner operator is to reduce his
 rates sufficiently to make the employment of chartered tonnage
@@ -10390,9 +10066,7 @@ Certain criteria have especial importance in setting rates. Fore-
 most among these criteria is the value of the article. This can be
 illustrated by comparing the value and carrying charges of two
 typical commodities moving in American foreign commerce. One is
-cement, which has a low intrinsic value. The other is a household
-
-washing machine, which has a relatively high intrinsic value. It
+cement, which has a low intrinsic value. The other is a household washing machine, which has a relatively high intrinsic value. It
 would be unsound to attempt to assess a freight rate for both of
 these items based solely on an identical percentage of value. For
 instance, let it be assumed that the cement has a sales price at the
@@ -10430,9 +10104,7 @@ moves in substantial and regular volume from a given port is
 important to his economic well-being. It is reasonable, therefore,
 that the rate on that commodity be somewhat lower than on items
 moving only occasionally and in small lots. For example, cotton is a
-major export cargo from Houston, and because it can be depended
-
-upon month after month to provide half the ship's load, the rate
+major export cargo from Houston, and because it can be depended upon month after month to provide half the ship's load, the rate
 may be lower per ton than on wool, which moves through this port
 in very much smaller volume.
 Perhaps the next most significant point in making a freight rate
@@ -10512,9 +10184,7 @@ vices as those over three tons, traditionally have been freighted at
 the regular rate for the particular commodity, with a scale of
 surcharges based on the actual weight. This practice reflected the
 fact that, until relatively recently, ships' cargo gear had a safe
-working load of only three tons, and to hoist anything heavier
-
-required that the heavy-lift, or 'jumbo," boom be used. Depending
+working load of only three tons, and to hoist anything heavier required that the heavy-lift, or 'jumbo," boom be used. Depending
 upon how the ship was rigged, working the jumbo might entail
 using the winches for four booms. This would idle one or more
 gangs of longshoremen for whatever time the jumbo might be in
@@ -10592,9 +10262,7 @@ Shippers accepted the surcharge idea with reluctance, expect-
 ing that it would be temporary. When it was evident that there
 would be no return to the lower levels of earlier years, it was
 appropriate to devise a different system. Freight rates were recom-
-puted to reflect fuel oil costs on a certain date, and increases or
-
-decreases, as the fuel oil market fluctuated, were tied to this "base
+puted to reflect fuel oil costs on a certain date, and increases or decreases, as the fuel oil market fluctuated, were tied to this "base
 date." If over an agreed period of time the cost of fuel oil increased
 significantly, a surcharge to reflect this increase was to be added. If
 the price decreased, all freight rates were to be lowered corre-
@@ -10630,9 +10298,7 @@ sugar in bags.
 Class rates vary in number, but many water carriers establish
 from six to nine classes, depending upon the variety needed in the
 rate structure. The most expensive is Class D, assigned to danger-
-ous cargo (explosives and corrosive acids). The next most expensive
-
-is Class 1, and the least expensive is Class 8. The higher the number
+ous cargo (explosives and corrosive acids). The next most expensive is Class 1, and the least expensive is Class 8. The higher the number
 of the class the lower the rate will be. There is no mathematical
 proportion or relation among these various classes.
 Examples of classification of cargo are shown below:
@@ -10713,9 +10379,7 @@ revenue with the other carrier(s) in the proportions established by
 the through rate agreement.
 In many cases, the through rate is lower than the combination of
 the rates of each of the participating carriers. For example, a ton of
-coffee may be sent from Buenaventura (Colombia) to New York in
-
-a Grancolombiana Line's ship for $22.00. The freight rate for
+coffee may be sent from Buenaventura (Colombia) to New York in a Grancolombiana Line's ship for $22.00. The freight rate for
 coffee carried from New York to Livorno (Italy) by a Prudential
 Lines' vessel is $36.80. The through rate from Buenaventura to
 Livorno, by agreement between the carriers, is $54.00. Each carrier
@@ -10751,9 +10415,7 @@ by the container revolution, there is no difference between the
 principles by which freight rates are made for cargo carried in
 containers and those by which rates are established for break-bulk
 cargo. It is probable, however, that eventually the new techniques
-of handling cargo will bring about changes in the methods of mak-
-
-ing rates for commodities handled exclusively in containers. If
+of handling cargo will bring about changes in the methods of mak-ing rates for commodities handled exclusively in containers. If
 altogether new ideas concerning rates do not emerge, at the least
 there will be significant modifications in the way the traditional
 principles are applied to containerized cargo.
@@ -10833,9 +10495,7 @@ Because of intense competition and the reduction in the volume of
 cargo flowing through this trade route, the company announced in
 mid-1985 that it was reducing these rates to $2,500 for the smaller
 box and $5,000 for the larger container?
-Steamship rate makers for years have been searching for a
-
-logical and simple system by which freight rates can be applied to
+Steamship rate makers for years have been searching for a logical and simple system by which freight rates can be applied to
 cargo moving in preloaded containers. As late as 1985, they had not
 found an entirely satisfactory substitute for the existing (and fre-
 quendy criticized) rate structure, which did produce adequate rev-
@@ -10912,9 +10572,7 @@ McLean demonstrated the practicality of handling cargo in pre-
 loaded containers, rather than in the conventional manner used in
 break-bulk carriage. At the time the study was initiated, the project
 was of unusual complexity because it dealt with a wholly new,
-indeed a revolutionary, procedure involving the delivery in foreign
-
-ports of cargo encased in large, sealed boxes which could be placed
+indeed a revolutionary, procedure involving the delivery in foreign ports of cargo encased in large, sealed boxes which could be placed
 directly on a waiting truck or trailer without being opened. Only
 enough longshoremen were needed to hook the hoisting gear to
 the boxes and to release it.
@@ -10952,9 +10610,7 @@ purchased, and much publicity was given to the new system. The
 ship was loaded with no labor problems in the American port, but at
 the first over~eas point the longshoremen refused to work the ship
 except under terms and conditions that negated the whole idea.
-Eventually, arrangements were made to deliver that initial cargo,
-
-but the project had to be abandoned and the ships laid up.
+Eventually, arrangements were made to deliver that initial cargo, but the project had to be abandoned and the ships laid up.
 The second traffic study was dedicated to an analysis of the
 characteristics to be built into new ships planned for a particular
 trade route. It was typical of the major effort required and epito-
@@ -11032,9 +10688,7 @@ for study, the traffic manager is in a position to review the entire
 problem intelligently and systematically, and to decide whether a
 reduction in the ocean freight rate is in order. Furthermore, he will
 be able to determine whether the reduction would help the ex-
-porters to sell more sinks in the foreign markets, with the obvious
-
-benefit to the steamship carrier of obtaining more cargo.
+porters to sell more sinks in the foreign markets, with the obvious benefit to the steamship carrier of obtaining more cargo.
 As a normal routine of traffic management, it is customary for
 periodic analyses to be made of cargo manifests. These analyses
 often disclose changes in tonnage and revenue which suggest that a
@@ -11072,9 +10726,7 @@ The first step in the traffic study would be to evaluate the
 characteristics of the ship that would be most satisfactory as a
 replacement for the existing type of vessel. This would involve not
 only determination of size, speed, capacity, and special features of
-the ships, but also the ports to be served, the approximate schedule
-
-each ship would have to follow to meet the demands of shippers,
+the ships, but also the ports to be served, the approximate schedule each ship would have to follow to meet the demands of shippers,
 and the types and tonnages of cargo to be carried. The coordinator
 would order the managers of the inbound and outbound freight
 traffic divisions to compile statistics showing the fluctuations in the
@@ -11112,9 +10764,7 @@ There are no fixed limits to the subject matter of a traffic study.
 It is precisely what the words imply: a tool of management. It has
 only one purpose, and that is to provide a systematic method of
 analyzing a problem and giving to management the best possible
-answer. In form, therefore, the traffic study can be extremely
-
-varied. Depending upon its nature, it may take the shape of a
+answer. In form, therefore, the traffic study can be extremely varied. Depending upon its nature, it may take the shape of a
 learned researcher's written report, or it may be only an oral state-
 ment. It could take months of work on the part of practically the
 entire organization, or it might require only eight or ten hours of
@@ -11166,9 +10816,7 @@ dent action in exchange for protection from predatory competi-
 tion, the shipowners hoped to benefit themselves as well as their
 clients.
 The soundness of this idea was put to the test in 1875 when
-steamship owners in the London-Calcutta trade became involved
-
-in a freight rate "war" with the operators of sailing ships going
+steamship owners in the London-Calcutta trade became involved in a freight rate "war" with the operators of sailing ships going
 between these two ports. In their search for a way to end this
 unhappy situation, the owners called a conference at which was
 advanced the idea of an industry association to police the trade.
@@ -11245,9 +10893,7 @@ shipments from participation in the return, during the whole six-
 monthly period within which they have been made, of any portion of
 the freight charged, even though the firm elsewhere may have given
 exclusive support to the Conference lines.4
-The working of the new system was described very clearly in this
-
-quotation from the report of the Royal Commission on Shipping
+The working of the new system was described very clearly in this quotation from the report of the Royal Commission on Shipping
 Rings submitted to Parliament in 1909:
 ... if at the end of a certain period (usually four or six months) they
 have not shipped goods by any vessel other than those despatched by
@@ -11325,9 +10971,7 @@ The Alexander Committee considered that the deferred rebate
 was intended to establish a near-monopoly of ocean transportation
 on the trade route in which the carriers operated. The fighting
 ship, defined as a vessel used on a sea-lane by a group of operators
-(for example, a conference) for the express purpose of excluding,
-
-preventing, or reducing competition by driving a nonmember car-
+(for example, a conference) for the express purpose of excluding, preventing, or reducing competition by driving a nonmember car-
 rier off that route, was viewed as the weapon of monopoly. Evi-
 dence had been presented proving that this practice had been
 followed, particularly in the North Adantic, to the detriment of
@@ -11403,9 +11047,7 @@ ping Act of 1984, even though by this date the influence of these
 associations of carriers had been curtailed very sharply. Intra-con-
 ference competition, for example, was evident in the frequent
 announcements to the shipping public that rates on certain com-
-modities were "open"-that is, each carrier in the conference was
-
-free to set rates at any level that seemed appropriate. Significant
+modities were "open"-that is, each carrier in the conference was free to set rates at any level that seemed appropriate. Significant
 and unilateral improvements in the quality of service also demon-
 strated the rivalry between conference members. In combination,
 these actions signalled that conferences did not pose the threat of
@@ -11443,9 +11085,7 @@ and culminated in 1952 in a decision by the United States Supreme
 Court that the differential between contract and noncontract rates
 was arbitrary and consequently unlawfully discriminatory. The use
 of the dual rate structure by two North Atlantic conferences there-
-fore was permanently enjoined. Further legal action culminated in
-
-the Supreme Court's ruling, announced on May 19, 1958, in the
+fore was permanently enjoined. Further legal action culminated in the Supreme Court's ruling, announced on May 19, 1958, in the
 case of Federal Maritime Board et ai. vs. Isbrandtsen Company, Inc.,
 United States of America, and Secretary of Agriculture, which held that
 the use of contract/noncontract rates proposed by the Japan-At-
@@ -11592,9 +11232,7 @@ provide transportation for the proffered cargo is efficient and
 economical. Although conferences offer lower rates to those ship-
 pers who sign loyalty contracts, most of the cargo actually is con-
 trolled by a small number of shippers who are more concerned over
-the service they receive than with the relatively small savings af-
-
-forded by the loyalty contracts. (In this connection, it is noteworthy
+the service they receive than with the relatively small savings af-forded by the loyalty contracts. (In this connection, it is noteworthy
 that the Shipping Act of 1984 prohibits the use of loyalty contracts
 and dual freight rates.)
 Records of two closed conferences which practiced rationaliza-
@@ -11632,9 +11270,7 @@ council whose functions are: (1) to obtain economies in shipping by
 rationalizing tonnage; (2) to approve freight rates; and (3) to ap-
 prove agreements between shippers and shipowners. Loyalty con-
 tracts and rebates, discounts, and the like are permitted. Founded
-in 1929, the association includes producers and exporters. Boards
-
-having significant influence on conference matters are the Dairy
+in 1929, the association includes producers and exporters. Boards having significant influence on conference matters are the Dairy
 Products Control Board, the Wine Overseas Marketing Board, and
 the Meat Board. The goal of the association when it was established
 was rationalization through cooperation, which left considerable
@@ -11673,9 +11309,7 @@ cally resulted in low load factors, low profits, and rising freight
 rates ....
 The "closed" conference with fully rationalized sailings therefore
 appears to us most likely to serve the best interests of both shippers
-and shipowners. We appreciate that we have here come to a different
-
-conclusion from those reached by some others who have studied
+and shipowners. We appreciate that we have here come to a different conclusion from those reached by some others who have studied
 conference arrangements; we believe that they may have given too
 little weight to the full range of the needs of shippers and to the
 practical results of unrestricted competition in all fields other than
@@ -11791,9 +11425,7 @@ In a clarifying statement, the commission announced that these
 investigations ... regularly ... into the activities of each member
 line." These investigations were to be handled
 with reasonable discretion, and did not have to be identical in nature.
-As a matter of normal routine, the agencies were to reveal the identi-
-
-ties of complaining parties, but this would be waived in those circum-
+As a matter of normal routine, the agencies were to reveal the identi-ties of complaining parties, but this would be waived in those circum-
 stances that might encourage retaliation by or against members or ...
 when it would unfairly prejudice the member's ability to rebut any
 material allegation made against it.
@@ -12019,9 +11651,7 @@ dependable over a protracted period, shippers come to expect that
 vessels always will be available according to the established pattern,
 and any disruption in that pattern upsets their business practices.
 Merchants are especially concerned that the ships sail on the ad-
-vertised day because many international trade transactions are
-
-financed by letters of credit stipulating that the goods be dispatched
+vertised day because many international trade transactions are financed by letters of credit stipulating that the goods be dispatched
 no later than a certain date. Failure to meet this requirement can
 interfere with the financing of the deal.
 In particular, therefore, the more frequently a fleet can offer a
@@ -12059,9 +11689,7 @@ discharging) while the minimum transit time is maintained at ten
 days. Although each ship earns a small profit, there is space avail-
 able for additional cargo. Calls therefore are ordered at Harborside
 and Transitown, which lie on the direct route to Seahaven and
-require no increase in steaming time. At Harborside, a day and a
-
-half are used to handle the cargo, while at Transitown working the
+require no increase in steaming time. At Harborside, a day and a half are used to handle the cargo, while at Transitown working the
 cargo takes two full days. The duration of the round trip has been
 lengthened to thirty-five days. To continue to provide weekly sail-
 ings, Blue Peter must place a fifth ship on the route.
@@ -12099,9 +11727,7 @@ statements of what is desired by the traffic department into the
 particulars of how many tons of cargo must be handled in terminal
 ports and in primary and secondary ports of call; the physical
 characteristics of the ports of call which affect the movements of
-ships into and out of their waters; the hours during which these
-
-ports provide cargo working arrangements; and critical times of
+ships into and out of their waters; the hours during which these ports provide cargo working arrangements; and critical times of
 arrival of the ships at certain intermediate primary ports. As these
 details are assembled and appropriately related to the expressed
 desires of the traffic department, the outline of the schedule begins
@@ -12139,9 +11765,7 @@ sions, and require significant reductions in speed. In other regions,
 for example along the southeastern coast of South Africa, winter
 storms make slow speeds necessary if major damage to vessels is to
 be avoided. In still other areas, like the Caribbean Sea and the Gulf
-of Mexico, weather usually is excellent but the threat of hurricanes
-
-is known to all who voyage in those waters. They are, however,
+of Mexico, weather usually is excellent but the threat of hurricanes is known to all who voyage in those waters. They are, however,
 unpredictable in every way: when they will occur, where they will
 reach dangerous dimensions, what course they will follow, and how
 long they will menace the sea lanes. Operators sending ships into
@@ -12179,9 +11803,7 @@ ule is accomplished by the combination of the accrued experience
 and pragmatic wisdom of shipmasters, terminal superintendents,
 and stevedores who have worked with these goods, ships, and ports,
 and know what can be accomplished at every point where the ship
-calls. The importance of accuracy in fixing the number of hours
-
-needed to unload the inbound cargo and to take aboard the out-
+calls. The importance of accuracy in fixing the number of hours needed to unload the inbound cargo and to take aboard the out-
 bound tonnage cannot be overestimated in the break-bulk trades,
 where performance of longshoremen varies greatly from port to
 port. Errors in the estimate of time needed to turn the ship around
@@ -12219,9 +11841,7 @@ schedule makers of every step that needs special consideration in
 the formulation of the definitive timetable.
 The structure and equipment of break-bulk carriers require
 special consideration from the scheduling team. Few fleets in the
-merchant service consist of identical vessels; far more likely is the
-
-heterogeneous collection of ships built in different yards to differ-
+merchant service consist of identical vessels; far more likely is the heterogeneous collection of ships built in different yards to differ-
 ent plans, and often intended for trades different from those in
 which they now are employed. The individual characteristics of
 these ships have profound influence upon the rapidity with which
@@ -12259,9 +11879,7 @@ ports of call must be considered by the schedule makers, the actual
 experience of the ships becomes of paramount importance in seek-
 ing the most efficient employment of the vessel's time. Ideally, all
 terminal operations are standardized, and only minor deviation
-from approved activities should occur. In practice, many variances
-
-from the ideal are encountered for a large number of reasons.
+from approved activities should occur. In practice, many variances from the ideal are encountered for a large number of reasons.
 Routine analyses of terminals along the route are supplied to the
 schedule makers in order that adequate, but not excessive, time be
 assigned to each port. Although it is economically imperative that
@@ -12375,9 +11993,7 @@ work, and overall efficiency is reduced. It is, therefore, routine for
 schedule makers to adjust schedules for individual voyages to avoid
 having ships in port over holidays.
 Break-bulk cargo liner service, concerned as it is with handling
-thousands of tons of hundreds of commodities, requires somewhat
-
-flexible schedules. It is not unusual for a ship to be considered as
+thousands of tons of hundreds of commodities, requires somewhat flexible schedules. It is not unusual for a ship to be considered as
 being on time if she arrives during working hours on the scheduled
 day, regardless of what time had been set in the schedule for her
 docking. This is accepted practice during those seasons of the year
@@ -12415,9 +12031,7 @@ work within the alloted port time is supervised by the staff of the
 superintendents of the deck, engineering, and catering depart-
 ments. Drydockings for normal hull inspection and repainting are
 set months in advance, and adjustments are made to permit the
-ship to be withdrawn from what otherwise would be normal port
-
-activity for the relatively short period required in drydock. As the
+ship to be withdrawn from what otherwise would be normal port activity for the relatively short period required in drydock. As the
 vessel gets older, and the magnitude of repairs increases, it may
 become mandatory to set aside several successive days for the
 required work. This presents no insurmountable problem so long
@@ -12487,9 +12101,7 @@ voyage.
 The sailing schedule is the foundation of the voyage. Until the
 proposal for the voyage has been converted into definite move-
 ments over a selected route, with certain ports to be visited for a
-predetermined number of hours, no estimates can be made as to
-
-the fuel needs of the ship, and no recommendations can be offered
+predetermined number of hours, no estimates can be made as to the fuel needs of the ship, and no recommendations can be offered
 as to the most desirable refueling points. It is evident, therefore,
 that the sailing schedule reflects the owner's decisions where the
 ship is to go, and the bunkering plan (which automatically becomes
@@ -12548,9 +12160,7 @@ be taken into account in the schedule, but at the same time the
 earning power of the ship cannot be overlooked. For instance, if a
 dawn arrival at a port will assure no delay in working cargo, and to
 effect this time of arrival it is necessary to cruise slightly above the
-speed that results in the most economical fuel consumption, the
-
-cost of ship's time, the convenience of the shippers and consignees,
+speed that results in the most economical fuel consumption, the cost of ship's time, the convenience of the shippers and consignees,
 the competitive advantage, and the impact upon the whole voyage
 must be worked into the schedule. The cardinal rule is that every
 aspect of the proposed employment of the ship must contribute
@@ -12585,9 +12195,7 @@ of the British Parliament, led a successful campaign to require ships
 to bear markings on their sides showing the depth to which they
 could be loaded safely in various areas of the world and seasons of
 the year. These rules in time became international conventions and
-the world now is divided into zones designated by the self-explana-
-
-tory terms of Tropical, Seasonal Tropical, Summer, and Seasonal
+the world now is divided into zones designated by the self-explana-tory terms of Tropical, Seasonal Tropical, Summer, and Seasonal
 Winter. There is a further marking to allow for the difference in
 the buoyancy of fresh and salt water. Ships of not more than 100
 meters (328 feet) in length are required to have a special load line
@@ -12625,9 +12233,7 @@ can load to the minimum freeboard, taking on a total of 17,498 tons
 deadweight. The ship is to proceed through the Suez Canal into the
 Mediterranean, where her deadweight at the winter load line can-
 not exceed 16,282 tons. On passing Gibraltar and entering the
-North Atlantic, a further restriction would be encountered, and
-
-maximum tonnage would be only 15,962. In planning the voyage,
+North Atlantic, a further restriction would be encountered, and maximum tonnage would be only 15,962. In planning the voyage,
 therefore, paramount consideration must be given to the permissi-
 ble deadweight of the ship when she rounds Gibraltar. Her load at
 Bahrein would be determined by that limitation plus the amount of
@@ -12665,9 +12271,7 @@ When the great expense of owning and operating a ship is
 appreciated, the reason for the third rule in preparing the bunker-
 ing plan becomes clear. Just because a fueling point distant by two
 days of steaming from the shortest course between origin and
-destination is selling oil at a reduced price does not justify diversion
-
-of the ship from her routing. Not only must the intent of the
+destination is selling oil at a reduced price does not justify diversion of the ship from her routing. Not only must the intent of the
 contract of carriage be met, and all reasonable speed be made to
 traverse the sea distance, but the cost to the owner in ship time
 cannot be overlooked. If the ship is in liner service, the ripple effect
@@ -12786,9 +12390,7 @@ If a barge is used for delivery, will it be brought to the ship after
 dark? How many tons of oil can the barge carry, and what is the
 pumping rate per hour from the barge into the ship's tanks?
 If fueling must be accomplished only at a special fuel pier, what
-fees are involved? How much time is needed to shift to this facility,
-
-and how fast is fuel loaded aboard ship?
+fees are involved? How much time is needed to shift to this facility, and how fast is fuel loaded aboard ship?
 What regulations govern the fueling of a ship at anchor in the
 harbor?
 Assuming that both the schedule and the bunkering plan are
@@ -12910,9 +12512,7 @@ this port, the delivery of cargo begins as soon as the hoses from
 shoreside tanks are connected. If the vessel is to discharge, her
 pumps are started when all hoses have been matched with shore
 piping systems. No large crews oflongshoremen or cargo checkers
-are needed; usually permanently assigned terminal personnel han-
-
-dIe all details. Relatively few tankers are sent to more than one port
+are needed; usually permanently assigned terminal personnel han-dIe all details. Relatively few tankers are sent to more than one port
 to discharge, although multiple port unloading is not an isolated
 phenomenon. Hardly ever does a tanker deliver a cargo and then
 take on an outgoing load, simplifying the problem of port turn-
@@ -12973,9 +12573,7 @@ cargo work, for a total of 490 tons; water and stores added another
 350 tons to the ship requirements, and left 17,310 tons for cargo.
 Pursuant to terms ofthe charter, 17,000 tons of coal were loaded in
 Hampton Roads. Northbound from Callao, the ship had to allow
-109 tons for the trip to Baltimore, plus 28 tons reserve; four days of
-
-cargo work required 28 tons of oil, and the short distance from
+109 tons for the trip to Baltimore, plus 28 tons reserve; four days of cargo work required 28 tons of oil, and the short distance from
 Baltimore to N ew York needed only 11 tons. Stores and water
 remained at the constant figure of 350 tons, so the maximum
 tonnage of sugar that could be loaded came to 11,624 tons.
@@ -13040,9 +12638,7 @@ may be adopted in the next ten or twenty years. The wrong deci-
 sion, as for instance the selection of a cellular containership in
 preference to a more versatile combination type, may doom the
 vessel even before she sails on her first voyage. To make the correct
-choice is especially critical when it is recalled that a break-bulk cargo
-
-carrier costs at least twenty million dollars, and a containership
+choice is especially critical when it is recalled that a break-bulk cargo carrier costs at least twenty million dollars, and a containership
 cannot be obtained for less than fifty million dollars.
 The following list demonstrates the areas of concern and the
 depths of inquiry necessary to assure that the ship will fulfill her
@@ -13193,9 +12789,7 @@ Because the variations that did occur were evolutionary, it was
 possible for shipowners to plan new vessels which represented
 genuine improvements on the past but showed no radical changes.
 Based on past experience and on what, in retrospect, seems to have
-been only elementary economic analysis, new ships were ordered
-
-from builders who competed for the business by submitting bids;
+been only elementary economic analysis, new ships were ordered from builders who competed for the business by submitting bids;
 the lowest was deemed the most satisfactory. The idea had yet to be
 appreciated of combining purchase price and full-life operating
 cost to determine whether a certain kind of ship was economically
@@ -13233,9 +12827,7 @@ of 15,000 tons deadweight, and containerships varied from 20,000
 to 40,000 tons. For most of these big ships, an increase in speed
 accompanied the growth in size.6
 Throughout this time, the capability of the computer to per-
-form an extraordinary variety of analytical calculations was being
-
-applied to both the shipowning and the shipbuilding industries.
+form an extraordinary variety of analytical calculations was being applied to both the shipowning and the shipbuilding industries.
 There was abundant reason to capitalize upon every advantage
 offered by the computer as the cost of new construction soared to
 unprecedented heights and the expenses of operation increased
@@ -13273,9 +12865,7 @@ anticipated practices. To minimize the time and cost ofloading and
 unloading ships, the sizes of hatches have been increased greatly
 over the years, reaching what may be almost the structural limits in
 the Delta Argentina class of ships built in 1968. These vessels had
-four rows of hatches, each row consisting of three parallel open-
-
-ings, plus one row of three openings. The effect was to give direct
+four rows of hatches, each row consisting of three parallel open-ings, plus one row of three openings. The effect was to give direct
 access to almost every part of the stowage area below decks. As an
 added feature, the ships of this class had high-speed cranes to serve
 the hatches, plus a 75-ton Stuelcken boom erected between two sets
@@ -13416,9 +13006,7 @@ goods can be expected. To the consignee, it is the basis for planning
 the level of inventory that must be maintained until the next ship-
 ment arrives.To the shipowner, it fixes the number of ships needed
 to maintain a certain frequency of sailings. Over the years, the
-consistent demand by users of steamships has been for higher
-
-speeds. The ultimate answer was made in 1972 when Sea-Land
+consistent demand by users of steamships has been for higher speeds. The ultimate answer was made in 1972 when Sea-Land
 Service introduced its big 33-knot containerships. On all the sea
 routes to which these big carriers were assigned, new records were
 established for cargo ships' passages, and in many instances the
@@ -13456,9 +13044,7 @@ must be taken into account in determining the revenue-producing
 potential of the ship.
 If, for example, there is a sustained offering of 25,000 tons of
 manufactured steel per week from a single United States Atlantic
-port to the Havre-Hamburg range, and four steamship companies
-
-normally compete for that business, the maximum load to which
+port to the Havre-Hamburg range, and four steamship companies normally compete for that business, the maximum load to which
 anyone of them reasonably should aspire would approximate ten
 thousand tons. Although it is possible, in theory, for one very large
 vessel to lift the entire week's production, the reality of ship opera-
@@ -13502,9 +13088,7 @@ Systems, Inc.
 operating costs and repay the investment. As part of the calcula-
 tion, the best of circumstances can be assumed: each year the ship
 will make six voyages, will require only two weeks of shipyard time,
-will be forced to travel in ballast a total of twenty days, and will
-
-spend a maximum of ten days idle in port between charters. A
+will be forced to travel in ballast a total of twenty days, and will spend a maximum of ten days idle in port between charters. A
 "worst case" assumption also can be made: the ship would make six
 voyages, but would lose four weeks for shipyard repairs; would
 steam in ballast a total of forty-five days; and be idle in port for
@@ -13594,9 +13178,7 @@ stores have been placed aboard?
 The answers to these questions can be found only by careful
 examination of every proposal, not only for its immediate applica-
 bilityand practicality but also for the "second order" effects of these
-ideas. If a containership is to be built, the desirability of installing
-
-gantry cranes to make the vessel independent of port facilities must
+ideas. If a containership is to be built, the desirability of installing gantry cranes to make the vessel independent of port facilities must
 be analyzed to establish "first order" effects like increased costs of
 building, reduced cargo deadweight tonnage, and more expensive
 ship maintenance. At the same time, second order effects like
@@ -13655,9 +13237,7 @@ to take the coal aboard and the interruptions, if any, in working
 cargo caused by this fueling procedure. That solutions exist was
 borne out by the construction (or conversion) in 1982 and 1983
 of eight coal-burning ships. These vessels were produced in the
-United States, Italy, Japan, Korea, and Spain, and ranged in size
-
-from 33,000 tons deadweight to 151,500 tons deadweight. They
+United States, Italy, Japan, Korea, and Spain, and ranged in size from 33,000 tons deadweight to 151,500 tons deadweight. They
 have been operated successfully by Australian, United States, and
 Spanish owners.s
 In preparing the analysis of full-life economy of the proposed
@@ -13696,9 +13276,7 @@ cally developed program of analysis. Excessive reliance on the
 of the prospective operator. The experience of veteran members of
 the staff, the accrued knowledge of business trends which has been
 built up by actual participation in ocean transportation, the per-
-formance history of existing units of the fleet, and records of
-
-achievement are as much in demand today as they ever were. The
+formance history of existing units of the fleet, and records of achievement are as much in demand today as they ever were. The
 computer's results will be only as good as the instructions given to
 the machine, and those instructions necessarily are derived from
 the combined contributions of all the persons involved.
@@ -13768,9 +13346,7 @@ traced back more than a century. The first cruise from the United
 States was immortalized by Mark Twain in Innocents Abroad. This
 humorous masterpiece describes the experiences of a group of
 Americans who voyaged to the Mediterranean in the paddle wheel
-steamer Quaker City in 1867. It is worth the trouble to read the sales
-
-promotion material quoted by Mark Twain and to compare it with
+steamer Quaker City in 1867. It is worth the trouble to read the sales promotion material quoted by Mark Twain and to compare it with
 the modern versions. Only the phraseology has changed; the intent
 to allure the prospective passenger with both the glamour and
 romance of far-off places and pleasure of the ship has not changed
@@ -13808,9 +13384,7 @@ Driven off their regular routes by the airplane, many passenger
 liners were placed in year-round cruise service. Newer ships like the
 Caronia had been planned for this type of employment, and were
 fitted with the amenities demanded by the cruising public: outdoor
-swimming pools, broad decks for strolling and playing games, large
-
-public rooms with good views to seaward, complete air-condition-
+swimming pools, broad decks for strolling and playing games, large public rooms with good views to seaward, complete air-condition-
 ing, and private baths for every cabin. These vessels made the
 transition to their new employment with considerable success.
 Some of the older ships were rebuilt completely, while others were
@@ -13933,9 +13507,7 @@ later, when the ship had to undergo a major overhaul which forced
 cancellation of three successive cruises, with consequent loss of
 income. I2
 As the passenger liners were phased out of scheduled shuttle
-service and cruising became a year-round activity, shipowners set-
-
-tled into fixed patterns of operation. Some restricted their business
+service and cruising became a year-round activity, shipowners set-tled into fixed patterns of operation. Some restricted their business
 to a certain area, as did the Norwegian Caribbean Line, which
 concentrated on the Caribbean. Other companies chose to establish
 what amounted to shuttle voyages between the home port and one
@@ -13973,9 +13545,7 @@ desires of the passengers for sightseeing and shopping, how many
 days should be spent at sea between ports so that the travelers will
 not become too fatigued, and how long the cruises should last from
 start to finish. Their goal is to come as close as possible to the ideal
-set forth in this quotation from a column by Georgia Hess in the
-
-travel section of the San Francisco Examiner and Chronicle on Septem-
+set forth in this quotation from a column by Georgia Hess in the travel section of the San Francisco Examiner and Chronicle on Septem-
 ber 21,1980:
 Where does Supership sail? When I'm aboard, it will be in waters
 where there are fascinating ports of call for two or three days running,
@@ -14508,9 +14078,7 @@ be subjected to duty when brought into the United States if the
 value exceeded the "free allowance" accorded by the government
 to returning residents.)
 Some ship operators have elected to contract with specialists to
-handle all details connected with the stores. If this were done, the
-
-concessionaire procured the merchandise, hired the necessary sales
+handle all details connected with the stores. If this were done, the concessionaire procured the merchandise, hired the necessary sales
 personnel, maintained the required inventories, and assured that
 stocks were replenished before the commencement of each voyage.
 Usually the contract required that the seagoing sales-persons be
@@ -14548,9 +14116,7 @@ The practice of bringing concessionaires aboard ship to operate
 the dining rooms and bars did not meet with universal approval.
 Many complaints were registered by passengers, who stated that
 the personnel provided by the contractor often were poorly
-trained, inefficient, and ungracious in manner. Maritime labor
-
-unions alleged that the concessionaires procured catering staff on
+trained, inefficient, and ungracious in manner. Maritime labor unions alleged that the concessionaires procured catering staff on
 the basis of the least possible cost, without regard to the capabilities
 of those workers. They also charged that the treatment of these
 persons was unsatisfactory, in that they were crowded into inade-
@@ -14588,9 +14154,7 @@ bling activity may be gauged by the fact that the Royal Caribbean
 Cruise Line's facilities, which were handled by this Austrian conces-
 sionaire, comprised eight blackjack tables, an Austrian roulette
 table, and one hundred computerized slot machines.
-Adding this type of amusement to the recreational program of
-
-the cruise ships was acclaimed by many travelers, but it had to be
+Adding this type of amusement to the recreational program of the cruise ships was acclaimed by many travelers, but it had to be
 regarded by the ship operators with great caution. Regardless of
 whether the casino were run by the ship or by the concessionaire,
 the reputation of the carrier always was in jeopardy. Complaints by
@@ -14629,9 +14193,7 @@ maximum speed of which the vessel is capable. Whenever speed can
 be reduced without thereby increasing the duration of the voyage
 to an uneconomical point, it is standard practice to slow the ship.
 While most of the purpose-built ships have speeds of approxi-
-mately 22 to 23 knots, these maximum levels are reached only
-
-occasionally. One itinerary for a round-the-world cruise of a 23-
+mately 22 to 23 knots, these maximum levels are reached only occasionally. One itinerary for a round-the-world cruise of a 23-
 knot ship required a single leg of sixty-two hours' duration when
 the speed was 21.7 knots; all other legs were accomplished at lower
 (and hence more economical) speeds ranging between 15 and 20
@@ -14670,9 +14232,7 @@ in seven days and nineteen hours; and at 19 knots, in eight days and
 five hours. Very likely, the decision would favor 20 knots, which
 would permit departure at 7:00 P.M. and arrival at 2:00 P.M., an
 acceptable hour for the end of the cruise.
-Ideally, arrival at every port of call would be in the early morn-
-
-ing and departure would be effected after dark, so that passengers
+Ideally, arrival at every port of call would be in the early morn-ing and departure would be effected after dark, so that passengers
 might spend the entire day ashore. In the real world of winds, tides,
 and distances, however, the schedule must be made to fit the cir-
 cumstances regnant in the port at the time of the proposed call. If
@@ -14765,9 +14325,7 @@ mediate environs, and the shipboard personnel. A careful schedule
 of deliveries must be set up, and rigidly adhered to; adequate
 inspection personnel must be available to assure that what is being
 put aboard the ship is what the purchase contract called for, and in
-the quantity ordered. The problem is complicated by the fact that
-
-after the ship has been engaged in this seven-day voyage routine for
+the quantity ordered. The problem is complicated by the fact that after the ship has been engaged in this seven-day voyage routine for
 several months, there will be some rotation of key personnel every
 time the vessel comes into port. The arrangements are made some-
 what more difficult in those instances where the ship's turnaround
@@ -14805,9 +14363,7 @@ able in his charges for services rendered.
 It is only after the itinerary receives final approval by the operat-
 ing and traffic departments that the actual choice of agents can be
 made. In one port, the decision may be to use the branch office of a
-liner-service company. Among the reasons influencing this deci-
-
-sion might well be that the liner company is accustomed to handling
+liner-service company. Among the reasons influencing this deci-sion might well be that the liner company is accustomed to handling
 ships on fixed schedules, and has established certain routines to be
 followed by its office staff. This kind of experience and "know how"
 eliminates much of the chance that something may go wrong.
@@ -14845,9 +14401,7 @@ arrives in the home port. The eight to twelve hours in that port are
 barely sufficient to accomplish the enormous amount of work re-
 quired. The ship must be cleaned thoroughly. Every cabin must be
 stripped, wiped down, refitted, and made to look as though it never
-had been used. Damaged fittings and scarred bulkheads must be
-
-repaired. Stores must be taken aboard and stowed properly. Deck
+had been used. Damaged fittings and scarred bulkheads must be repaired. Stores must be taken aboard and stowed properly. Deck
 chairs must be inspected and replaced if necessary. The list is long,
 and involves tedious and exhausting manual labor as well as alert-
 ness. Then, about two hours before sailing time, stewards must
@@ -14968,9 +14522,7 @@ to 516,423 tons deadweight, this is one of the largest tanker fleets in
 the world. A complete vessel operating department exists within
 the Exxon corporate structure to control and administer this fleet.
 United Brands, the banana-growing and distributing company
-domiciled in the United States, owns a fleet of eleven refrigerated
-
-ships for the sole purpose of providing the transportation required
+domiciled in the United States, owns a fleet of eleven refrigerated ships for the sole purpose of providing the transportation required
 to serve its markets.
 The principal purposes served by the industrial carrier are:
 1. To control delivery schedules of raw materials or finished
@@ -15110,9 +14662,7 @@ interesting demonstration of this thesis may be found in the trans-
 oceanic movement of liquefied natural and petroleum gas. Efforts
 to transport these by-products of the oil fields which were then, and
 still are, in great demand, began in the 1950s, but it was not until
-1960 that a commercially practicable method of handling these
-
-cargoes was brought to perfection. The first full scale experiments
+1960 that a commercially practicable method of handling these cargoes was brought to perfection. The first full scale experiments
 involved the shipment of methane, which becomes liquid when
 cooled to -162° Celsius (-265° Fahrenheit). One of the many
 distinctive features of liquefied gas, insofar as its carriage by ship is
@@ -15231,9 +14781,7 @@ These two highly specialized ships proved to be both economi-
 cal and efficient. Much of their success could be attributed to the
 cranes, which were of unique design and utility, very heavy, and
 quite expensive. It was reported that they cost $196,000 apiece
-when the ships were delivered at the end of 1962; an investment
-
-which would make the general service carrier look critically at any
+when the ships were delivered at the end of 1962; an investment which would make the general service carrier look critically at any
 benefits which were expected to redound to him?
 In many parts of the world, there is a continuing demand for
 cement in very large quantities. For decades, it was impossible to
@@ -15284,9 +14832,7 @@ two hatches 12.19 and 15.92 meters long, respectively. Until its
 liquidation in 1980, the German shipping company, Hansa Linie,
 for many years operated a fleet of cargo liners with Stuelcken
 booms of 350 tons which could be paired to lift a total of 700 tons.
-American Heavy Lift Shipping Company, of Pittsburgh, Pennsyl-
-
-vania, owned the only two purpose-built heavy-lift ships to fly the
+American Heavy Lift Shipping Company, of Pittsburgh, Pennsyl-vania, owned the only two purpose-built heavy-lift ships to fly the
 United States flag. These vessels, the John Henry and Paul Bunyan,
 each had two 216-ton cranes, bow and stern ramps strong enough
 to accept weights of 1,000 tons, and a shallow draft of 5.15 meters.
@@ -15324,9 +14870,7 @@ vehicle ships were designed with side or stern ports for drive-on
 loading and drive-off discharge. 10
 Sea-carriage always has been responsive to the needs of ship-
 pers, and the development of the numerous types of specialized
-carriers during the twentieth century merely emphasizes this char-
-
-acteristic of the shipping industry. The only limits to the possibili-
+carriers during the twentieth century merely emphasizes this char-acteristic of the shipping industry. The only limits to the possibili-
 ties appear to be the imaginations of the users and the naval ar-
 chitects. Only a few of the specialized designs have been mentioned
 in this chapter because of the wide range of the subject. Economic
@@ -15424,9 +14968,7 @@ storage facilities ashore. As a result, a sizeable fleet of tankers of
 3,500 to 10,000 tons deadweight was employed in this service. In
 recent years, however, to take advantage of the economies inherent
 in larger ships, and to capitalize on advances in naval architecture,
-tankers up to 42,000 tons deadweight, along with a few broad-
-
-beamed, shallow-draft petroleum carriers of nearly 80,000 tons
+tankers up to 42,000 tons deadweight, along with a few broad-beamed, shallow-draft petroleum carriers of nearly 80,000 tons
 deadweight capacity, have been built for these trades.
 As the size of ships increased, tanker owners showed more
 interest in obtaining optimum performance, but had to wait for the
@@ -15474,9 +15016,7 @@ percentY This shift in capability was deliberate, as the producers
 sought both to allocate to different purposes the funds invested in
 tankers and to divest themselves of the burdens of fleet ownership.
 There has been no diminution of interest on the part of the oil
-companies in the capabilities and economics of tankers, whether
-
-owned or chartered. Pressure on the operating and marine traffic
+companies in the capabilities and economics of tankers, whether owned or chartered. Pressure on the operating and marine traffic
 departments, which are concerned direcdy with the ships, remains
 as great as ever. Indeed, there is a good argument that the pressure
 is greater as the duration of voyages has been shortened by higher
@@ -15514,9 +15054,7 @@ a result of the clean hull would be on the order of fifty barrels of
 fuel per steaming day, not including the time otherwise required
 for dry-docking. lO Self-polishing copolymer paints, which reduce
 the friction generated by passage of the hull through the water, also
-inhibit marine growths. These benefits make possible longer inter-
-
-vals between dry-dockings, with a corresponding increase in pro-
+inhibit marine growths. These benefits make possible longer inter-vals between dry-dockings, with a corresponding increase in pro-
 ductive voyage time.
 Another facet of the practice of installing machinery to permit
 fewer personnel to operate the tanker is that a great deal of what
@@ -15554,9 +15092,7 @@ yards, especially those with repair docks able to accommodate the
 enormous tankers of today, are available only in a comparatively
 few ports of the world and are equally in demand by huge dry bulk
 carriers and very large containerships.12 Time is money to the
-owner of any ship, whether small coaster or very large crude car-
-
-rier. Any delay to any ship is very nearly intolerable, and the
+owner of any ship, whether small coaster or very large crude car-rier. Any delay to any ship is very nearly intolerable, and the
 complaints of tanker managers are no more heartfelt than those of
 other members of the shipowning fraternity.
 It cannot be denied, however, that there are some aspects of
@@ -15594,9 +15130,7 @@ were 479 oil-bulk-ore (aBO) and ore-oil ships in existence. 14 Many
 of these "combis," however, were used only in one trade, being
 chartered either for carriage of dry bulk cargoes for an extended
 period of time, or being employed exclusively to haul oil.
-The primary reason for an oil company to own its tankers
-
-rather than to depend upon chartered tonnage is to assure that
+The primary reason for an oil company to own its tankers rather than to depend upon chartered tonnage is to assure that
 transportation for its petroleum will be available when needed. A
 secondary, and equally important, reason is to exert a moderating
 influence upon the charter market in times of ship shortages, and to
@@ -15660,9 +15194,7 @@ serves as collateral for the independent to borrow the funds with
 which to build the ship. This financial arrangement was devised just
 after World War II and has proved satisfactory to all concerned.
 Chartered tankers, regardless of whether they are on time
-charter or on single or consecutive voyage charter, are integrated
-
-into the operation of the proprietary fleet, and their movements are
+charter or on single or consecutive voyage charter, are integrated into the operation of the proprietary fleet, and their movements are
 controlled by the marine traffic department.
 Short-term, single voyage, or consecutive voyage charters are
 used to meet immediate requirements which exceed the capability
@@ -15700,9 +15232,7 @@ very carefully prepared before any cargo oil is pumped into the
 tanks. Certain jet engine fuels must be carried only in tanks coated
 with inorganic, nonferrous compounds to eliminate contamination
 through corrosion of the tank walls. Lubricating oil may be emulsi-
-fied if any water is left on the tank walls, and therefore all these
-
-surfaces must be wiped by hand to assure that no trace of moisture
+fied if any water is left on the tank walls, and therefore all these surfaces must be wiped by hand to assure that no trace of moisture
 remains to pollute the cargo. It is customary to fill ("press up") the
 tanks to capacity so that there is no void space in which condensa-
 tion can form. In those instances where several grades of lubricat-
@@ -15740,9 +15270,7 @@ ployees. Closely related to these aspects of safety are the provisions
 for safe navigation of the vessel: selection of routings, use of pilots,
 choice of adequate berths, proper communication procedures, and
 supervision of electronic aids to navigation.
-To reduce the possibility of explosions set off by static electricity
-
-in the enormous cargo tanks of the very large crude carriers,
+To reduce the possibility of explosions set off by static electricity in the enormous cargo tanks of the very large crude carriers,
 installation of inert gas systems has been made mandatory in ships
 of 40,000 tons deadweight or larger; this requirement will be ex-
 tended in the near future to vessels exceeding 20,000 tons. The
@@ -15780,9 +15308,7 @@ the home port often occur. To provide adequate supplies of food
 and stores of good quality, and to procure these at reasonable prices
 for scores of ships in oil-handling ports around the world, is an
 activity of impressive dimensions. Full appreciation of the princi-
-ples of bunkering is mandatory for management of a globe-gir-
-
-dling fleet of tankers if maximum capability of the ships is to be
+ples of bunkering is mandatory for management of a globe-gir-dling fleet of tankers if maximum capability of the ships is to be
 attained. Management never is a routine matter when voyages are
 subject to unforeseen deviations, reroutings on short notice, and
 unexpected delays beyond control of either the ship or her owners.
@@ -15820,9 +15346,7 @@ counts and statistical reports. Ideally, the records of expenditures
 for wages, port dues, pilotage fees, tug hire, and the like, should be
 in the home office no later than one working day after the vessel's
 departure. The practice is somewhat at variance from the ideal, but
-every effort is made to transmit these data to the analysts as quickly
-
-as possible. Ships are under orders promptly to provide detailed
+every effort is made to transmit these data to the analysts as quickly as possible. Ships are under orders promptly to provide detailed
 information concerning the time used to work cargoes, reasons for
 any delays encountered, the effects of weather experienced while in
 port, and the conventional operation reports of every completed
@@ -15860,9 +15384,7 @@ the chartering staff is aware of this, the sooner steps can be initiated
 to collect (or pay) what is owed. If, for any reason, the tanker is
 unable to perform to normal standards, a written report of the
 event can be sent immediately to the cognizant authority, and
-detailed instructions can be issued as to the deployment of the ship
-
-in these unexpected circumstances. The existence of documentary
+detailed instructions can be issued as to the deployment of the ship in these unexpected circumstances. The existence of documentary
 records not only facilitates discussions between concerned parties
 but also establishes a sound basis for evaluating at-sea and in-port
 performance. Increasing numbers of tanker operators, both oil
@@ -15900,9 +15422,7 @@ through the piping systems, lack of proper berthing spaces, and
 similar controllable impediments to maximum performance. One
 major oil company, in a successful effort to improve overall em-
 ployment, fixed certain standards, depending upon the category of
-petroleum carried, to be met by the various types of tankers in its
-
-fleet. Unexcused failure to meet these standards resulted in censure
+petroleum carried, to be met by the various types of tankers in its fleet. Unexcused failure to meet these standards resulted in censure
 of the responsible supervisors afloat and ashore. Concurrent with
 attempts of this nature to achieve optimum results from existing
 practices, management must be alert to find new or improved ways
@@ -15940,9 +15460,7 @@ combination and specialized carriers) participate in anything ex-
 cept the one-way movement of a given grade of petroleum. Ships
 assigned to lift gasoline, kerosene, and other clean products are
 restricted to those cargoes which have very nearly the same charac-
-teristics and never are switched casually to the black oil trade. The
-
-reason is easy to discover: it takes much effort, time, and money to
+teristics and never are switched casually to the black oil trade. The reason is easy to discover: it takes much effort, time, and money to
 convert a ship from carrying black oils to the condition requisite to
 accept clean products. Prudent management can effect the change
 economically and efficiently provided sufficient time is allowed to
@@ -15980,9 +15498,7 @@ age pumping capacity of the prewar handy-sized tankers was about
 ty pumps, and handled approximately 700 tons per hour. Present-
 day medium-sized tankers are able to discharge about 1,500 tons an
 hour, while the giant tankers, especially those over 225,000 tons
-deadweight, are moving a minimum of 4,000 tons an hour. Actual
-
-discharge time depends upon the grade of cargo carried, the avail-
+deadweight, are moving a minimum of 4,000 tons an hour. Actual discharge time depends upon the grade of cargo carried, the avail-
 able shore facilities, and the ambient temperatures: cold weather
 slows the flow of oil and imposes heavy burdens upon the ship's
 pumps and the booster pumps along the pipeline.
@@ -16095,9 +15611,7 @@ wide. T hey are satisfactory devices for delivery by the largest tank-
 ers afloat to areas where coastal water depths are too shallow to
 permit their entry into the harbors.
 Tankers of 200,000 tons deadweight capacity and larger have
-become numerous in all fleets because they provide transportation
-
-at a lower cost per barrel of petroleum delivered. They are less
+become numerous in all fleets because they provide transportation at a lower cost per barrel of petroleum delivered. They are less
 expensive to build; crews are only very slightly larger than for ships
 lifting 35,000 tons; fuel consumption is much more favorable, per
 ton of cargo, than in the smaller ships; and fewer hulls are needed
@@ -16146,9 +15660,7 @@ gas must be cooled to -160° Celsius (-265° Fahrenheit) before it
 becomes liquid. To accommodate this cargo, five tanks, each of
 25,000 cubic meters capacity, strengthened and insulated to very
 exacting specifications, were installed in the hull. The ship was 285
-meters (936 feet) long, 44 meters (144 feet) in beam, and on a draft
-
-of 11 meters (36 feet) had a deadweight of 64,620 tons. Turbines of
+meters (936 feet) long, 44 meters (144 feet) in beam, and on a draft of 11 meters (36 feet) had a deadweight of 64,620 tons. Turbines of
 43,000 shaft horsepower gave her a cruising speed of20.4 knots.
 Whether the ships carry the relatively exotic liquefied natural
 gas or the more mundane liquefied petroleum gas of which butane
@@ -16246,9 +15758,7 @@ chemical cargoes one from another, inner skins in at least some of
 the tank areas had to be installed. Pumping and piping systems
 must be planned not only to prevent contamination of the cargo,
 but also to minimize the possibility that violent reactions could
-occur from mixing noncompatible chemicals. Although not an
-
-integral part of the safety features of the chemical tanker, the
+occur from mixing noncompatible chemicals. Although not an integral part of the safety features of the chemical tanker, the
 multiple piping and pumping arrangements do contribute signifi-
 cantly to the efficiency of ship operations in the rapid loading and
 unloading of the assorted cargoes. 19
@@ -16362,9 +15872,7 @@ same way that the proceeds of sales of domestic goods to citizens
 stay inside national boundaries. Another reason is that the earnings
 of the fleet from freights paid by foreign shippers are equivalent to
 exports of goods; in fact, they often are referred to as "invisible
-exports." Sweden, for instance, considers shipping as a major ex-
-
-port industry which brings in about eight percent of its revenue
+exports." Sweden, for instance, considers shipping as a major ex-port industry which brings in about eight percent of its revenue
 from external sources.l Per contra, money paid to carriers of other
 nationalities affects negatively the country's trade balance.
 It can be argued that Nation B has greater justification for a
@@ -16403,9 +15911,7 @@ flag merchant fleets. They gloss over the problems of disparity of
 cost and difficulties of competition which arise out of that inequal-
 ity. This has been suggested earlier in this chapter in the com-
 mentary upon differences in national living standards.
-A comparison of the costs of operating ships under the regis-
-
-tries of these two countries shows that Nation B, with its lower
+A comparison of the costs of operating ships under the regis-tries of these two countries shows that Nation B, with its lower
 standard of living, enjoys a significant advantage over Nation A.
 The freight rates charged by the shipowners of Nation B reflect
 this; what produces a satisfactory profit for them is less than the
@@ -16479,9 +15985,7 @@ to encourage American investment in, and operation of, steam-
 powered vessels in direct competition with foreign-flag carriers. In
 1840, with support from the British government, Samuel Cunard
 had inaugurated regular passenger and mail service between En-
-gland and the United States. To compete with Cunard, some
-
-method had to be devised to offset the higher costs of building ships
+gland and the United States. To compete with Cunard, some method had to be devised to offset the higher costs of building ships
 in the United States and operating them under American registry.
 The mail contract appeared to be a satisfactory method. It called
 for lump sum payments for each voyage without regard to the
@@ -16519,9 +16023,7 @@ cargo belonging to the United States military, or consigned to its
 overseas installations, be carried in ships either owned by the gov-
 ernment or registered in the United States. In 1954, the "Fifty-Fifty
 Law" was passed. This legislation directed that at least one half of all
-cargoes financed by the United States government and destined to
-
-foreign nations (primarily economic aid to less developed nations,
+cargoes financed by the United States government and destined to foreign nations (primarily economic aid to less developed nations,
 as well as shipments of agricultural products to relieve hun-
 ger or to initiate self-help programs) be transported in ships reg-
 istered in and operated under the laws of the United States for not
@@ -16578,9 +16080,7 @@ tial for maintaining the flow of such domestic and foreign water-
 borne commerce at all times, (b) capable of serving as a naval and
 military auxiliary in time of war or national emergency, (c) owned and
 operated under the United States flag by citizens ofthe United States
-insofar as may be practicable, (d) composed of the best-equipped,
-
-safest, and most suitable types of vessels, constructed in the United
+insofar as may be practicable, (d) composed of the best-equipped, safest, and most suitable types of vessels, constructed in the United
 States and manned with a trained and efficient citizen personnel, and
 (e) supplemented by efficient facilities for shipbuilding and ship re-
 pair. It is hereby declared to be the policy of the United States to foster
@@ -16618,9 +16118,7 @@ markets, which are, or may be, determined by the Secretary to be
 essential for the promotion, development, expansion, and mainte-
 nance of the foreign commerce of the United States, and in reaching
 his determination the Secretary shall consider and give due weight to
-the cost of maintaining each of such steamship lines, the probability
-
-that any such line cannot be maintained except at a heavy loss dispro-
+the cost of maintaining each of such steamship lines, the probability that any such line cannot be maintained except at a heavy loss dispro-
 portionate to the benefit accruing to foreign trade, the number of
 sailings and types of vessels that should be employed in such lines, and
 any other facts and conditions that a prudent businessman would
@@ -16701,9 +16199,7 @@ the traditional shipbuilding centers of Western Europe. This eco-
 nomic advantage gradually diminished as stands of virgin oak were
 depleted and raw materials became more expensive. One of the
 factors influencing the enactment in 1847 of the ocean mail con-
-tract legislation was the disparity in American and foreign shipyard
-
-prices. Unfortunately, there was no provision in this or subsequent
+tract legislation was the disparity in American and foreign shipyard prices. Unfortunately, there was no provision in this or subsequent
 laws to assure that aging ships would be replaced.
 The Merchant Marine Act, 1936, embodied a bold new ap-
 proach, continued and reinforced by the 1970 act, which systema-
@@ -16868,9 +16364,7 @@ included by the Congress in the Merchant Marine Act, 1936, to
 protect American carriers serving the domestic routes exclusively,
 and was consistent with legislation dating back to 1817 restricting
 the waterborne commerce between the states to American-built
-and American-registered ships. Because they were free from com-
-
-petition with lower cost foreign operators, there was no need to
+and American-registered ships. Because they were free from com-petition with lower cost foreign operators, there was no need to
 grant subsidies to ships in the interstate trade. It was appropriate,
 however, that these same ships be safeguarded from incursions by
 subsidized carriers whose costs were reduced to foreign levels.
@@ -16908,9 +16402,7 @@ upon a 25-year life expectancy was to be calculated in fixing the
 monetary value of the ship. The purchase price realized had to be
 applied by the seller to the construction cost of the new ship.
 No appropriations have been made by the Congress for con-
-struction differential subsidy since October 1, 1983. The need to
-
-replace obsolescent tonnage was satisfied by granting authority for
+struction differential subsidy since October 1, 1983. The need to replace obsolescent tonnage was satisfied by granting authority for
 two fiscal years to a limited number of steamship operators to build
 their ships abroad. Those owners who took advantage of this op-
 portunity were required to make all financing arrangements
@@ -17094,9 +16586,7 @@ have been granted.
 Operators who fail to meet contract requirements are subject to
 cancellation of their contracts, or to substantial reductions in the
 level of subsidy payments. Those operators, however, who can
-demonstrate conclusively that it is economically impossible to main-
-
-tain the essential services to which they are assigned, even with the
+demonstrate conclusively that it is economically impossible to main-tain the essential services to which they are assigned, even with the
 subsidy, may be relieved of the contract. There are no cases on
 record of cancellation of contracts because the carriers did not meet
 requirements; release from their contracts was requested during
@@ -17134,9 +16624,7 @@ arranged its own financing. The largest subsidized operator was the
 United States Lines, which maintained service on a number of
 routes, not all of which were covered by the operating subsidy. The
 other liner service carriers holding subsidy contracts were Ameri-
-can President Lines, Farrell Lines, Lykes Lines, Prudential Steam-
-
-ship Company, and Waterman Steamship Corporation. In addi-
+can President Lines, Farrell Lines, Lykes Lines, Prudential Steam-ship Company, and Waterman Steamship Corporation. In addi-
 tion, a number of dry bulk carriers was granted subsidies on a
 voyage-by-voyage basis as they obtained cargoes destined to foreign
 ports.
@@ -17255,9 +16743,7 @@ supply people could be scheduled to avoid delays to the ship. It had
 been good duty. Promotion was swift, and soon he was chief mate.
 Chief mate! Memories of the never-ending demands upon his time,
 skill, and knowledge crowded in upon the president. Responsibility
-for safety of the ship's cargo, for proper loading of the ship to
-
-assure seaworthiness, for efficient supervision of longshoremen,
+for safety of the ship's cargo, for proper loading of the ship to assure seaworthiness, for efficient supervision of longshoremen,
 seamen, cadets, and shoreside workers swarming over the ship, as
 well as meeting senior company executives who came down to the
 ship-all this had been his. He had learned to be everywhere at
@@ -17295,9 +16781,7 @@ He had enjoyed his responsibility as master, and watched the
 results of his efforts as he slowly shaped the ship to his own ideals of
 a well-run vessel. To his pleasant surprise, he received a letter-
 there it was, yellowed and creased, hanging alongside his license-
-from the company's board of directors expressing appreciation of
-
-his unceasing and exemplary devotion to duty. That letter was
+from the company's board of directors expressing appreciation of his unceasing and exemplary devotion to duty. That letter was
 precious; it covered all those achievements that had called for so
 much effort: rescuing a dozen men from a foundering fishing boat
 in a frightful North Atlantic storm, winning the annual award two
@@ -17335,9 +16819,7 @@ requirements. From salesman, he was detailed to the manifesting
 department for a few weeks, more for experience than for the value
 of his contribution to that type of work. That wasn't his "cup oftea,"
 since he had been an active seaman, and he disliked the routine of
-checking figures and cargo descriptions all day long. He realized
-
-how important it was that he know this part of the business, even
+checking figures and cargo descriptions all day long. He realized how important it was that he know this part of the business, even
 though it lacked glamour. A transfer soon came to the inbound
 traffic department, where he met the consignees, the men and
 women who were waiting for the goods his ships were bringing to
@@ -17374,9 +16856,7 @@ duties of vice-president, operations. What a tremendous thrill that
 had been, and how proud he felt! From cadet to vice-president in
 charge of all the ships! It had been quite a climb, and he had
 enjoyed every step of the way. He recalled those discussions of
-company policy on the proper operation of the fleet which he had
-
-had with the former president, the positions he had taken and for
+company policy on the proper operation of the fleet which he had had with the former president, the positions he had taken and for
 which he had fought vigorously because he believed them to be
 right even though they had not been popular.
 Two years as vice-president, and one day the directors called
@@ -17413,9 +16893,7 @@ was standing in from sea. In his mind, he envisioned the prepara-
 tions being made even at that hour to receive the ship. The hoarse
 whistle of an outbound ship turned his thoughts to the people who
 had toiled over manifests and crew lists, cargo plans and repair
-specifications, stores lists and bills of lading, and to the strong men
-
-who had stowed away the boxes and bales and assorted commodi-
+specifications, stores lists and bills of lading, and to the strong men who had stowed away the boxes and bales and assorted commodi-
 ties, and had secured the huge containers, in their appointed places
 in the ship.
 The big vessel slipped down the harbor and was lost in the dark.
@@ -17519,9 +16997,7 @@ selected trading routes. Two of the more important routes are cited as examples:
 From one port, United States Gulf to Antwerp, or Rotterdam, or Amsterdam,
 lifting 55,000 tons, plus or minus 5 percent, of heavy soya sorghum. Cargo to be
 loaded and discharged at charterer's expense (FlO). Eleven days allowed for
-working cargo, Sundays and holidays excepted. Tendering date, ten days forward
-
-from date of freight index; cancelling date, thirty days forward. Brokerage com-
+working cargo, Sundays and holidays excepted. Tendering date, ten days forward from date of freight index; cancelling date, thirty days forward. Brokerage com-
 missions, 3.75 percent.
 From one port United States North Pacific to one port in southern Japan,
 52,000 tons, plus or minus 5 percent, of heavy soya sorghum to be loaded and
@@ -17580,9 +17056,7 @@ the general cargo moved through that port in 1983 was containerized. "Slump
 Held Dampening Cargo Security Efforts," New York Journal of Commerce, February
 3,1984, p. 24-B.
 5. "Terminal Plan Aided in KeepingUSLinNY,"ibid., April 19, 1985,p. I-B.
-For a detailed profile of four well-designed and equipped container terminals,
-
-together with descriptions of the various machines used, and specimens of equip-
+For a detailed profile of four well-designed and equipped container terminals, together with descriptions of the various machines used, and specimens of equip-
 ment interchange receipts, see Atkins, pp. 45-56.
 John R. Immer, Cargo Handling (Washington, D. C., Work Saving Interna-
 tional, 1984), pp. 271-94, provides a technical description of container terminals in
@@ -17676,9 +17150,7 @@ containers. New York journal o/Commerce, May 5, 1978, p. 32.
 
 1. As early as 1923, a shipment of7,500 bales of raw silk worth $8,250,000 was
 sent from Yokohama to Seattle, and was transshipped into two special trains of
-fifteen baggage cars each. These trains followed schedules equal to those carrying
-
-passengers (New York Times, January 7, 1923, p. 1). In 1926, a shipment of 10,000
+fifteen baggage cars each. These trains followed schedules equal to those carrying passengers (New York Times, January 7, 1923, p. 1). In 1926, a shipment of 10,000
 bales of raw silk, worth $11,000,000 arrived in New York just 17 days after it was
 loaded in Yokohama. The steamer used was the Arabia Mant, of the Osaka
 Shoshen Kaisha fleet, which sailed from Japan on December 27,1925. Two trains
@@ -17772,9 +17244,7 @@ superseded by the United States Maritime Commission. In 1950, the regulatory
 functions which had been performed by the commission were assigned to the
 newly established Federal Maritime Board. The chairman of the board was also the
 chairman of the Maritime Commission. President Kennedy proposed, and the
-Congress approved in 1961, a plan by which the Federal Maritime Commission
-
-was set up as an independent agency with sole responsibility for regulating mari-
+Congress approved in 1961, a plan by which the Federal Maritime Commission was set up as an independent agency with sole responsibility for regulating mari-
 time commercial activities.
 10. EngelReport, pp. 5-6.
 II. Pearson, p. 23.
@@ -18010,9 +17480,7 @@ speed of 14.5 knots was obtained on a consumption of 285 barrels of fuel oil per
 day. Because of the shortage of gear-making facilities during World War II, all
 these ships were powered with turbo-electric propulsion units. Despite some
 complaints about the lack of economy of this type of power plant, the T -2 proved
-to be a valuable addition to the peacetime merchant marine. As late as 1981, a
-
-number of these ships, many of them reconstructed and enlarged, was still in
+to be a valuable addition to the peacetime merchant marine. As late as 1981, a number of these ships, many of them reconstructed and enlarged, was still in
 servIce.
 5. Between 1953 and 1962, the average deadweight of the world tanker fleet
 increased from 13,800 tons to about 23,000 tons. Speed averaged 15.2 knots (New
@@ -18057,9 +17525,7 @@ Particular mention of the Sinclair Petrolore is appropriate; she was a ship-
 owner's unique attempt to eliminate ballast voyages. This combination ore-oil
 carrier had 65 cargo tanks with a capacity of 389,800 barrels of crude oil and 26 ore
 compartments with a total capacity of 31 ,907 cubic meters. A huge self-unloading
-mechanism, extremely visible because of the big A-frame and long boom which
-
-were placed on and above the weather deck, was intended to make the vessel
+mechanism, extremely visible because of the big A-frame and long boom which were placed on and above the weather deck, was intended to make the vessel
 independent of shore-discharging facilities. She was 240.48 meters in length, had a
 beam of 32 meters, and her hold was 16.45 meters deep. On a draft of 12.34
 meters, the ship's deadweight was 56,089 tons. On her builder's trials, her 12,500
@@ -18530,9 +17996,7 @@ McLean, Malcom P., 192-95, 199,200,
 ship Co., 195; tanker conversion,
 195; integrated transportation sys-
 tem, 203; purchases Waterman
-Steamship Co., 204; dry cargo ship
-
-conversions, 204-5, 208; ownership
+Steamship Co., 204; dry cargo ship conversions, 204-5, 208; ownership
 of containers, 208-9; computer con-
 trol of containers, 215; role in con-
 tainerization, 215-16; container sizes,

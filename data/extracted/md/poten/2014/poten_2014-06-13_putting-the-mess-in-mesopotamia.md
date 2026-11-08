@@ -32,7 +32,7 @@ back burner.
 
 ### Fig. 2 Iraq Crude Oil Production & Revenue
 
-Room for diplomacy at the table seems to be limited at
+Room for diplomacy at the table seems to be limited at this stage. Iran, in a move to quell rumbling borders, is taking a first mover approach. The general position of the United States and other Western countries is clear, but action items most certainly are not. Until a course of action is determined, it appears conditions in Iraq will worsen before they get better. To that end, compromised export volumes and higher oil prices are likely. Expect stock piling in major consumer countries as a result. As with the Ukraine, it will be interesting to see if conditions in Iraq catalyze the reversal of the US’s ban on oil exports. If America can’t, or won’t, reengage physically in Iraq, it may be willing to stave off broader worldwide economic injury that would result from higher oil prices by letting down its crude oil curtain.
 
 |  | Basrah Crude Oil $M M Barrels | Kirkuk Crude Oil $M M Barrels | $M | Total M Barrels | Avg. Price/Bbl |
 | --- | --- | --- | --- | --- | --- |
@@ -46,8 +46,6 @@ Room for diplomacy at the table seems to be limited at
 | Feb‐14 | $70.2 1,159 | $8.2 842 | $78.4 | 8,001 | $102.05 |
 | Mar‐14 | $73.5 7,429 | $0.8 78 | $74.3 | 7,507 | $101.04 |
 | Apr‐14 | $75.3 7,582 | $0.0 0 | $75.3 | 7,582 | $100.69 |
-
-this stage. Iran, in a move to quell rumbling borders, is taking a first mover approach. The general position of the United States and other Western countries is clear, but action items most certainly are not. Until a course of action is determined, it appears conditions in Iraq will worsen before they get better. To that end, compromised export volumes and higher oil prices are likely. Expect stock piling in major consumer countries as a result. As with the Ukraine, it will be interesting to see if conditions in Iraq catalyze the reversal of the US’s ban on oil exports. If America can’t, or won’t, reengage physically in Iraq, it may be willing to stave off broader worldwide economic injury that would result from higher oil prices by letting down its crude oil curtain.
 
 Source: Iraq Ministry of Oil
 

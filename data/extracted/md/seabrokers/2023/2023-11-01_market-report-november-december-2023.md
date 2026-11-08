@@ -80,9 +80,7 @@ Viking Supply Ships secured a four-year firm contract for its 2021-built PSV Coe
 
 The other fresh fixture went to Aurora Offshore for the Aurora Storm. This contract is for a two-year firm period, again with
 
-Coey Viking
-
-two further one-year options. The Aurora Storm is a 2015-built Ulstein PX 121 PSV; she has a length of 83.4m, breadth of 18m and a deck area of 850m². In addition to this fixture, Aurora
+Coey Viking two further one-year options. The Aurora Storm is a 2015-built Ulstein PX 121 PSV; she has a length of 83.4m, breadth of 18m and a deck area of 850m². In addition to this fixture, Aurora
 
 Offshore was also rewarded with a one-year contract extension with Harbour for incumbent PSV Aurora Power, an elder sister (2013-built) of the Aurora Storm.
 

@@ -26,7 +26,7 @@ Over the last 10 years, China, the new economic powerhouse in Asia, has been cat
 
 Acknowledging the competitiveness of their Chinese rivals, Korean yards started to focus on building higher-valued units such as LNG and offshore, but the sharp reduction in oil prices and resulting decline in capital expenditures by international oil companies upended this strategy. Delays and cost overruns wreaked havoc on the results of Korea’s Big Three.
 
-In recent years, the Korean yards have rediscovered the tanker market. Among the main shipping segments, it is the only one where the owners are doing reasonably well and have been willing to ink new contracts. Korea’s track record of quality products and reliable delivery times has helped them capture a significant part of these orders. As Figure 1 shows, Korean
+In recent years, the Korean yards have rediscovered the tanker market. Among the main shipping segments, it is the only one where the owners are doing reasonably well and have been willing to ink new contracts. Korea’s track record of quality products and reliable delivery times has helped them capture a significant part of these orders. As Figure 1 shows, Korean yards have maintained their market share, while the Chinese captured market share from their Japanese rivals.
 
 *Chart: Fig 1: Market Share of Tanker Newbuilding Orders (by DWT)*
 
@@ -35,8 +35,6 @@ In recent years, the Korean yards have rediscovered the tanker market. Among the
 *Chart*
 
 *Source: Bloomberg, Poten*
-
-yards have maintained their market share, while the Chinese captured market share from their Japanese rivals.
 
 An interesting aspect of the resurgence of tanker orders is that, even though contract prices (quoted in US$) have barely budged (if anything, they have trended lower in recent months), the profitability of tanker orders for the Korean yards has improved. This is the result of the confluence of two factors (see Figure 2): on the one hand, the Korean won has depreciated relative to a strong US$. On the other hand, steel prices, which make up 15-25% of a ships’ contract price, have been reduced by up to 40% over the last 2 years.
 

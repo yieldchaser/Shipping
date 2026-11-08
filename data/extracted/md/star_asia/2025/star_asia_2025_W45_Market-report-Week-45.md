@@ -101,11 +101,9 @@ The supply of available vessels continued to fall due to alternative demand for 
 
 Aframax:
 
-Rates continued to climb, driven by a supply constraint resulting from an increase in fuel oil cargo volumes in October. Despite a sharp rise in October, the supply shortage
+Rates continued to climb, driven by a supply constraint resulting from an increase in fuel oil cargo volumes in October. Despite a sharp rise in October, the supply shortage persisted due to active fixing in the West market, reducing the inflow of ballasters to East of Suez. In the Mediterranean, 80,000my Ceyhan/Lavera fell slightly to WS198 at closing.
 
 ## Page 6
-
-persisted due to active fixing in the West market, reducing the inflow of ballasters to East of Suez. In the Mediterranean, 80,000my Ceyhan/Lavera fell slightly to WS198 at closing.
 
 Clean:
 
@@ -132,7 +130,6 @@ on the MEG/E.Africa route closing at WS215. In the USG, rates continue to fall w
 | LR1 | 73,000 | 60 | 62 | 51 (E) | 42 (E) | 25 |
 | MR | 51,000 | 49 | 52 | 41 (E) | 31 (E) | 21 |
 | *(amount in USD million) | (E) – eco units |  |  |  |  |  |  |
-
 
 ## Page 7
 
@@ -240,15 +237,11 @@ Anchorage & Beaching Position (November 2025)
 
 Gadani
 
-The Pakistan market continues to operate under subdued conditions, with buyer interest remaining dull and transaction volume limited for another week. This soft sentiment is due to the local steel market's delayed recovery and the competitive pressure exerted by an influx of cheaper Iranian steel, which is undercutting domestic material and restricting any
+The Pakistan market continues to operate under subdued conditions, with buyer interest remaining dull and transaction volume limited for another week. This soft sentiment is due to the local steel market's delayed recovery and the competitive pressure exerted by an influx of cheaper Iranian steel, which is undercutting domestic material and restricting any potential price improvement for end-of-life vessels.
 
-potential price improvement for end-of-life vessels.
-
-A vast majority of recyclers have recently acquired several ships, and the process of obtaining Hong Kong Convention (HKC) certification is now progressing rapidly. Yards that
+A vast majority of recyclers have recently acquired several ships, and the process of obtaining Hong Kong Convention (HKC) certification is now progressing rapidly. Yards that have demonstrated compliance with HKC standards are expected to receive their certifications soon.
 
 ## Page 15
-
-have demonstrated compliance with HKC standards are expected to receive their certifications soon.
 
 Anchorage & Beaching Position (November 2025)
 
@@ -310,11 +303,9 @@ The imported scrap market in Bangladesh remained constrained as limited demand f
 
 ### Turkiye
 
-In contrast to the South Asian markets, Turkiye saw deep-sea imported scrap prices rise on a day-over-day basis. This uptrend was confirmed by a recent US-origin deal for highgrade HMS 80:20 at US$356/t, a price point supported by prompt mill demand and an
+In contrast to the South Asian markets, Turkiye saw deep-sea imported scrap prices rise on a day-over-day basis. This uptrend was confirmed by a recent US-origin deal for highgrade HMS 80:20 at US$356/t, a price point supported by prompt mill demand and an increase in domestic rebar purchasing activity. Mills have been actively seeking fresh cargo, and sellers have maintained firm positions given the seasonally tight supply ahead of winter. This sustained demand for rebar suggests that the current momentum in scrap prices may continue in the near term.
 
 ## Page 17
-
-increase in domestic rebar purchasing activity. Mills have been actively seeking fresh cargo, and sellers have maintained firm positions given the seasonally tight supply ahead of winter. This sustained demand for rebar suggests that the current momentum in scrap prices may continue in the near term.
 
 ## HMS 1/2 & Tangshan
 

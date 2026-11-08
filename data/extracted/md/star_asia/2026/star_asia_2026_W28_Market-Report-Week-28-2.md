@@ -26,7 +26,6 @@ The tentative peace agreement in the Middle East has experienced a severe setbac
 
 ## Page 2
 
-
 # DRY BULK | BDI: 2,944 ▲+8.35% (w-o-w)
 
 Dry bulk sector delivered a remarkably strong performance during the first half of the year, driven by a highly constrained vessel supply that pushed average daily returns across all asset sizes above long-term historical norms. Logistical challenges, increased transit distances, and fuel bunkering complications triggered by disruptions to the flow of oil through the Strait of Hormuz significantly tightened capacity, an issue further magnified by intensive shipyard drydocking schedules for aging tonnage built during the construction rush between 2009 and 2011. Although the second half of the year is anticipated to bring increased market volatility as these advantages begin to recede, new ship deliveries rise to a 4% pace, and Chinese steel demand cools, positive market confidence is expected to provide temporary insulation against these growing structural challenges. BDI ended a rising streak on Friday to settle at 2,944 points, which nevertheless represents a notable increase from the previous week's close. This positive weekly trajectory was also mirrored across individual market segments.
@@ -42,7 +41,6 @@ Dry bulk sector delivered a remarkably strong performance during the first half 
 **Handysize:** Handy market experienced a softer shift this week as wide bid-offer spreads across the Atlantic forced owners to lower their near-term rate expectations. While the Atlantic basin retained a cautiously positive undercurrent in select pockets, expanding tonnage lengths and a lack of fresh cargo impetus kept trading flat and subdued throughout Asia. This cooling sentiment nudged spot returns downward, leaving T/A rates at US$16,600's and Pacific R/V at US$15,200's.
 
 ## Page 3
-
 
 ### Baltic Dry Index (BDI)
 
@@ -86,7 +84,6 @@ Dry bulk sector delivered a remarkably strong performance during the first half 
 
 ## Page 4
 
-
 ### Sale & Purchase - Reported Fixtures (continued)
 
 | VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD M) | BUYER |
@@ -103,7 +100,6 @@ Dry bulk sector delivered a remarkably strong performance during the first half 
 | HANDY | $20,611 | $12,324 | $13,887 | $12,667 | $15,000 |
 
 ## Page 5
-
 
 # TANKERS | BDTI: 1,988 ▲+7.11% (w-o-w)
 
@@ -122,7 +118,6 @@ The fragile maritime truce in the Middle East has dramatically disintegrated thi
 **MR:** Far East MR market closed strong this week, successfully maintaining its upward momentum. In the MEG/E.Africa route, TC17 fell some 100 points to close at WS417 while over on the Atlantic, USG rounded up slightly with TC14 to UKC closing at WS250's mark.
 
 ## Page 6
-
 
 ### Baltic Tanker Indices
 
@@ -197,7 +192,6 @@ The SCFI index rose 3.8% to 3,239.64 points, driven by intense transpacific spac
 
 ## Page 10
 
-
 ### Ship Recycling - Current Market Snapshot (USD / LDT)
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
@@ -237,8 +231,6 @@ All prices are USD per light displacement tonnage (long ton), net prices offered
 
 ## Page 12
 
-
-
 ## Market Insights
 
 **Alang, India:** Sentiment weakened further through the week, and local prices continued to drift lower on thin buying interest. Alang is now clearly the sub-continent's price floor; the gap to Gadani at the steel plate level has widened to roughly USD 310/t, the largest of the year, with Alang plate slipping to INR 36,700 (~USD 385/t) by 3 July.
@@ -257,8 +249,6 @@ On the currency front, USD/INR retreated from a six-week best near INR94.26 on 2
 | GAUTAM | TUG | 780 | 04.07.2026 | AWAITING |
 
 ## Page 13
-
-
 
 | VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
 |---|---|---|---|---|
@@ -290,8 +280,6 @@ On the supply side, Chattogram has seen renewed arrivals of smaller Chinese dome
 
 ## Page 14
 
-
-
 | VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
 |---|---|---|---|---|
 | ERGY | LNG | 31,340 | 23.06.2026 | 01.07.2026 |
@@ -319,7 +307,6 @@ Demand therefore remains regulatory rather than commercial: EU flagged and EU co
 
 ## Page 15
 
-
 US$341/t CFR, fresh European shredded offers at US$382/t CFR face total resistance from buyers aiming for a US$370/t CFR maximum.
 
 **Pakistan:** The imported scrap avenue in Pakistan follows a parallel trend of low-volume stagnation, with domestic mills strictly capping raw material inquiries to address immediate operational mandates amid soft steel consumption. A solitary UK-origin containerized shredded scrap transaction was concluded at US$390/t CFR Port Qasim this week, cleanly defining the current appetite of local buyers. Seaborne offers continue to hover between US$390/t and US$395/t CFR, while cautious buyer price indications refuse to deviate from a highly range-bound bracket of US$385-US$390/t CFR.
@@ -334,12 +321,9 @@ US$341/t CFR, fresh European shredded offers at US$382/t CFR face total resistan
 
 In the steel and raw materials market, iron ore fines (Fe 61%) spot prices climbed by US$1.15/MT to settle at US$99.1 CFR China on 8 July, supported by rising Dalian futures where the September contract hit RMB 747 per ton on 9 July. This upward movement was driven by a wave of market anxiety after employees at Australia's primary export hub, Port Hedland, threatened to strike, which coincided with fresh Middle Eastern tensions that are expected to inflate maritime freight rates. Despite these supply risks, physical trading remains thin and constrained by structural headwinds in China, where blast furnace utilization rates are holding steady at roughly 91%, but finished steel inventories have swelled to 9.35 million MT as of June 30-marking a substantial 21.6% increase compared to the same period last year. This massive stock accumulation, including hot-rolled coil and rebar inventories up by nearly 22% and 29% y-o-y respectively, has pushed domestic rebar sales into financial losses and left mill margins hovering at a precarious breakeven level.
 
-The European aluminum sector is undergoing its own sharp realignment after a historic surge earlier this year; Platts assessments on July 6 placed duty-paid Rotterdam P1020 prices at US$525 to US$560/MT, reflecting a 64.4% increase from the start of the year due to the prior blockade of the Strait of Hormuz,
+The European aluminum sector is undergoing its own sharp realignment after a historic surge earlier this year; Platts assessments on July 6 placed duty-paid Rotterdam P1020 prices at US$525 to US$560/MT, reflecting a 64.4% increase from the start of the year due to the prior blockade of the Strait of Hormuz, which traditionally supplies 9% of the world's aluminum and 20% of Europe's imports. However, following a June 17 peace memorandum that established a 60-day negotiation window, the subsequent removal of this geopolitical risk premium has triggered a severe sell-off, bringing London Metal Exchange benchmarks down from peaks above US$3,700/MT into a much lower US$3,100 range as supply flows slowly normalise.
 
 ## Page 16
-
-
-which traditionally supplies 9% of the world's aluminum and 20% of Europe's imports. However, following a June 17 peace memorandum that established a 60-day negotiation window, the subsequent removal of this geopolitical risk premium has triggered a severe sell-off, bringing London Metal Exchange benchmarks down from peaks above US$3,700/MT into a much lower US$3,100 range as supply flows slowly normalise.
 
 ### Iron Ore
 
@@ -379,7 +363,6 @@ which traditionally supplies 9% of the world's aluminum and 20% of Europe's impo
 
 ## Page 17
 
-
 ### Exchange Rates (continued)
 
 | CURRENCY PAIR | JULY 10 | JULY 3 | WoW % |
@@ -396,4 +379,3 @@ which traditionally supplies 9% of the world's aluminum and 20% of Europe's impo
 | FUJAIRAH | $701 | $500 | $1,226 |
 | ROTTERDAM | $615 | $476 | $944 |
 | HOUSTON | $612 | $470 | $988 |
-

@@ -22,7 +22,7 @@ Since early April, crude oil prices have rebounded from their multi-year lows re
 
 Surprisingly enough though, it appears that the utilization of VLCCs for floating storage has increased in recent weeks. Information from Bloomberg seems to indicate a fairly substantial increase in floating storage during the month of April (Figure 2). However, further analysis shows that a significant number of the VLCCs anchored in the Arabian Gulf for the last several weeks were not storing crude but waiting to load at Basra oil terminal in Iraq. Weather delays, strong winds and storms caused a huge build-up of up to 33 tankers, 22 of which were VLCCs. The situation at Basra, the only Iraqi loading terminal in the Arabian Gulf, seems to have improved and the queue is now reducing. It may take another few weeks before the situation is back to normal.
 
-However, outside the Iraqi situation, more vessels are being utilized for floating storage (not counting regular FSO’s and
+However, outside the Iraqi situation, more vessels are being utilized for floating storage (not counting regular FSO’s and vessels from the National Iranian Tanker Company). Vessel tracking information reveals that about a third of the vessels taken on time charter earlier in the year are now used for floating storage. Most of them are stationed in the Arabian Gulf, while several others are anchored outside Singapore, in West Africa and the Mediterranean.
 
 *Chart: Fig. 1: AG- East VLCC rates ($/Day)*
 
@@ -31,8 +31,6 @@ However, outside the Iraqi situation, more vessels are being utilized for floati
 *Chart*
 
 *Source: Bloomberg*
-
-vessels from the National Iranian Tanker Company). Vessel tracking information reveals that about a third of the vessels taken on time charter earlier in the year are now used for floating storage. Most of them are stationed in the Arabian Gulf, while several others are anchored outside Singapore, in West Africa and the Mediterranean.
 
 It is difficult to speculate why certain charterers engage in floating storage at this point, but it is clear that it does provide additional support for the large tanker market.
 

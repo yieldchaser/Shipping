@@ -295,11 +295,9 @@ Current procurement activity remains sluggish due to the festive period and the 
 
 # Bangladesh
 
-In contrast to the broader regional hesitation, the Bangladeshi market has seen a strengthening of offer levels as suppliers move to factor in the anticipated April container freight hikes. Buyers have begun signaling acceptance of workable levels near US$380/t for shredded scrap to secure material before logistics costs rise further. Malaysian PNS is currently being offered at US$388/t CFR Chattogram, while Australian shredded material is quoted near US$386/t. The containerized scrap segment is showing particularly firm sentiment, with rerollable PNS from Singapore reaching US$450/t and Hong Kong origin material heard at US$430/t. However, liquidity remains a concern for mid-sized
+In contrast to the broader regional hesitation, the Bangladeshi market has seen a strengthening of offer levels as suppliers move to factor in the anticipated April container freight hikes. Buyers have begun signaling acceptance of workable levels near US$380/t for shredded scrap to secure material before logistics costs rise further. Malaysian PNS is currently being offered at US$388/t CFR Chattogram, while Australian shredded material is quoted near US$386/t. The containerized scrap segment is showing particularly firm sentiment, with rerollable PNS from Singapore reaching US$450/t and Hong Kong origin material heard at US$430/t. However, liquidity remains a concern for mid-sized operators, which may cap the volume of high-priced transactions in the immediate term.
 
 ## Page 18
-
-operators, which may cap the volume of high-priced transactions in the immediate term.
 
 Pakistan The Pakistani market is currently in a state of flux, severely impacted by the halting of UAE shipments and significant delays in European arrivals. The closure of the Strait of Hormuz has essentially cut off one of the region's most vital supply arteries, leading to a visible supply squeeze. Market participants are dealing with new war-risk surcharges and emergency operational fees that have added layers of uncertainty to every quotation. UK and EU-origin shredded scrap indications are now heard at US$385/t CFR, though fresh offers are extremely limited as sellers assess the risks of transit. Local steel prices have begun to firm in response to these rising replacement costs and higher fuel prices, but the volatility of the exchange rate remains a primary hurdle for importers trying to manage their financial exposure.
 

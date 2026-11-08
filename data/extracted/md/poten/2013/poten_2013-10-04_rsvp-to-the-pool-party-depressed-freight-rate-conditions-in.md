@@ -32,11 +32,9 @@ Today, perhaps what is most unique are the new factors driving withdrawls. Tradi
 
 The idea of increased mass was historically considered a positive attribute of tanker pools, but oversupply has since become too critical for some tanker sectors. It appears that tanker pools in the VLCC market could have reached a structural limit to the number of ships in pools as trade key regions are limited and the ratio of cargoes to available vessels is painfully low. Once a pool goes beyond a certain threshold it can begin to compete with itself.
 
-Recent declines in Suezmax and Aframax pool opportunities were driven by insolvency, another new unfortunate byproduct of weak freight markets. The dissolution of existing pools which saw many of the ships go on time charter or for sale rather than re-enroll in pools. In spite of the net decline in enrollment in Aframax pools, increased interest from clean tankers had led to growth in some
+Recent declines in Suezmax and Aframax pool opportunities were driven by insolvency, another new unfortunate byproduct of weak freight markets. The dissolution of existing pools which saw many of the ships go on time charter or for sale rather than re-enroll in pools. In spite of the net decline in enrollment in Aframax pools, increased interest from clean tankers had led to growth in some pools.
 
 *Chart: Capital requirements a large concern*
-
-pools.
 
 Another new concern for pool-participating shipowners might be working capital requirements. This cash must be provided to the pools in advance of a voyage to cover bunker and port costs; a substantial sum may be prohibitively expensive for some shipowners.
 

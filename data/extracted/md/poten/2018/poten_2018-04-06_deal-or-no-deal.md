@@ -26,7 +26,7 @@ Given the high proportion of Far Eastern buyers, VLCC’s represent the main ves
 
 President Trump recently replaced a part of his foreign policy team. He announced that John Bolton would head the National Security Council and he nominated Mike Pompeo as the new Secretary of State (this position requires Senate approval). Both of these men are seen as significantly more hawkish toward Iran and it is generally believed that their nomination increases the likelihood that the U.S. will re-instate sanctions.
 
-If the U.S. decides to re-instate the sanctions, the impact is far from clear. The earlier sanctions regime, which lead to a
+If the U.S. decides to re-instate the sanctions, the impact is far from clear. The earlier sanctions regime, which lead to a significant reduction of Iranian crude oil exports, was successful because of the cooperation of the international community, in particular the support from the EU. If the U.S. reinstates sanctions, the international response is likely much less coordinated and it is not clear what measures the U.S. might use to encourage cooperation. Many of the other parties in the JCPOA do not agree with the re-instatement of sanctions. Some of the largest buyers, such as China, India and Turkey (~1.2 Mb/d) might not participate in import reductions. Japan and Korea, with combined imports of about 0.4 Mb/d, are more likely to cooperate given their security arrangement with the U.S. and the situation in North Korea. The reaction from European buyers (~0.55 Mb/d) is unclear and different countries or companies might take a divergent approach, depending on their situation.
 
 *Chart*
 
@@ -35,8 +35,6 @@ If the U.S. decides to re-instate the sanctions, the impact is far from clear. T
 *Source: IEA*
 
 *Source: Lloyd’s List Intelligence*
-
-significant reduction of Iranian crude oil exports, was successful because of the cooperation of the international community, in particular the support from the EU. If the U.S. reinstates sanctions, the international response is likely much less coordinated and it is not clear what measures the U.S. might use to encourage cooperation. Many of the other parties in the JCPOA do not agree with the re-instatement of sanctions. Some of the largest buyers, such as China, India and Turkey (~1.2 Mb/d) might not participate in import reductions. Japan and Korea, with combined imports of about 0.4 Mb/d, are more likely to cooperate given their security arrangement with the U.S. and the situation in North Korea. The reaction from European buyers (~0.55 Mb/d) is unclear and different countries or companies might take a divergent approach, depending on their situation.
 
 Given the above, U.S. sanctions would likely reduce Iranian exports by a maximum of 500-600 Kb/d. Replacement barrels for Japan and Korea would mostly be sourced from other Middle Eastern countries, reducing the impact on the VLCC market. Lost European barrels might be replaced by a combination of Middle Eastern crude and short haul Russian barrels from the Baltic and the Black Sea, resulting in a minor negative impact. The biggest immediate impact might be on crude oil prices.
 

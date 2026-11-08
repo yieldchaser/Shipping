@@ -24,7 +24,7 @@ For Canadian crude oil producers, the Keystone XL is a critical export route tha
 
 As the top graph shows, Canadian crude oil production expanded gradually over the last decade, until Covid-19 hit earlier this year. Due to pipeline capacity shortages, producers had to resort to more expensive rail transportation. In February 2020, Canadian rail exports reached 411Kb/d, but had to be cut back when oil prices collapsed in the spring. In August, the last month for which data is available, Canada exported only 51Kb/d via rail.
 
-The second graph shows that virtually all of Canadian exports are for the U.S. The majority of the exports are to PADD II (Midwest) and growing volumes are heading to PADD III (U.S. Gulf) to replace Venezuelan imports of heavy crude that were
+The second graph shows that virtually all of Canadian exports are for the U.S. The majority of the exports are to PADD II (Midwest) and growing volumes are heading to PADD III (U.S. Gulf) to replace Venezuelan imports of heavy crude that were halted due to U.S. sanctions. The Keystone XL pipeline would allow Canada to efficiently ship more crude to the U.S Gulf region, helping Canada in two ways: It would reduce the discount between Western Canadian Select and WTI and it would also allow Canada to diversify its exports further.
 
 *Chart*
 
@@ -33,8 +33,6 @@ The second graph shows that virtually all of Canadian exports are for the U.S. T
 *Source: Canada Energy Regulator (CER)*
 
 Note: Due to confidentiality requirements, for some months Other Exports are not reported
-
-halted due to U.S. sanctions. The Keystone XL pipeline would allow Canada to efficiently ship more crude to the U.S Gulf region, helping Canada in two ways: It would reduce the discount between Western Canadian Select and WTI and it would also allow Canada to diversify its exports further.
 
 The most logical alternative export destinations for Canadian crude are in Asia, but Western Canadian crude does not have easy access to ports that can handle VLCCs, which would be the most cost-effective way. The Keystone XL would have allowed Canada to ship more crude to the U.S. Gulf where it could be used in refineries designed for heavy crude or loaded onto VLCCs for export, similarly to U.S. crudes.
 

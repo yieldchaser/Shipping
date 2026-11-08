@@ -24,11 +24,9 @@ This week, Federal Reserve Chair Jerome Powell signalled that the central bank i
 
 ## Dry Bulk
 
-Last week, two bulk carriers successfully arrived at the Ukrainian seaport of Chornomorsk to load grain. This marks a significant development, as a ship had been stuck in Odesa since February 2022, indicating a potential easing of Russia's blockade in parts of the Black Sea. The two bulk carriers, Aroyat and Resilient Africa flying the Palau flag, docked at Chornomorsk on Saturday. They are the first civilian cargo ships to reach a Ukrainian Black Sea port since Russia withdrew from a United Nations-brokered grain shipping agreement in July. Meanwhile, Puma, a bulk carrier registered in the Cayman Islands, became the fifth stranded ship to leave Ukrainian waters during the weekend. This occurred after Ukraine opened a shipping corridor five weeks ago. The Puma followed the coastline of Romania
+Last week, two bulk carriers successfully arrived at the Ukrainian seaport of Chornomorsk to load grain. This marks a significant development, as a ship had been stuck in Odesa since February 2022, indicating a potential easing of Russia's blockade in parts of the Black Sea. The two bulk carriers, Aroyat and Resilient Africa flying the Palau flag, docked at Chornomorsk on Saturday. They are the first civilian cargo ships to reach a Ukrainian Black Sea port since Russia withdrew from a United Nations-brokered grain shipping agreement in July. Meanwhile, Puma, a bulk carrier registered in the Cayman Islands, became the fifth stranded ship to leave Ukrainian waters during the weekend. This occurred after Ukraine opened a shipping corridor five weeks ago. The Puma followed the coastline of Romania and Bulgaria before anchoring off Istanbul. These developments suggest a shift in the situation regarding maritime traffic in the Black Sea region.
 
 ## Page 2
-
-and Bulgaria before anchoring off Istanbul. These developments suggest a shift in the situation regarding maritime traffic in the Black Sea region.
 
 Capesize:
 
@@ -40,11 +38,9 @@ The market is being driven by continued ship demand in South America and an incr
 
 Handysize:
 
-In Northeast Asia, the market is supported by backhaul cargoes despite weak demand in the North Pacific. Conversely, in Southeast Asia, a slight decrease in new arrivals from Indonesia and overall declining trends have been observed, contributing to a mixed direction in the Pacific market, with varying dynamics by route. Inter Pacific saw levels
+In Northeast Asia, the market is supported by backhaul cargoes despite weak demand in the North Pacific. Conversely, in Southeast Asia, a slight decrease in new arrivals from Indonesia and overall declining trends have been observed, contributing to a mixed direction in the Pacific market, with varying dynamics by route. Inter Pacific saw levels close around US$ 8,400's a day region, and BHSI closed at 669 points, climbing by 7.2% w-o-w.
 
 ## Page 3
-
-close around US$ 8,400's a day region, and BHSI closed at 669 points, climbing by 7.2% w-o-w.
 
 # Dry Bulk – S&P Report
 

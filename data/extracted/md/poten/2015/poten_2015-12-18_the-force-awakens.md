@@ -24,7 +24,7 @@ Another driver will be the quality and relative pricing of the different grades 
 
 People expect some U.S. crude oil to eventually end up in the Far East as well because Asian refiners may be willing to pay a premium for the light tight oil (which has a high naphtha content). Diversification of crude oil supply away from geopolitically unstable regions will also attract buyers to U.S. crude.
 
-How much crude can the U.S. eventually export? In addition to export infrastructure, that is also driven by U.S. domestic oil production, which depends on demand and pricing in the
+How much crude can the U.S. eventually export? In addition to export infrastructure, that is also driven by U.S. domestic oil production, which depends on demand and pricing in the international markets. In September of this year, the U.S. EIA published a report analyzing the effects of removing the restrictions on U.S. crude oil exports under different price and production scenarios (see Fig. 2). It shows that U.S. exports will gradually increase from its current level of 500,000 b/d to at least 1.5 million b/d in 2020, except under a scenario that combines sustained low oil prices with stagnant U.S. production.
 
 *Chart: Fig. 1: WTI and Brent Prices & Spread*
 
@@ -33,8 +33,6 @@ How much crude can the U.S. eventually export? In addition to export infrastruct
 *Chart*
 
 *Source: EIA, September 2015*
-
-international markets. In September of this year, the U.S. EIA published a report analyzing the effects of removing the restrictions on U.S. crude oil exports under different price and production scenarios (see Fig. 2). It shows that U.S. exports will gradually increase from its current level of 500,000 b/d to at least 1.5 million b/d in 2020, except under a scenario that combines sustained low oil prices with stagnant U.S. production.
 
 Last but not least, which tanker segments will likely benefit from U.S. crude exports and which ones will not? Once exports start flowing, Aframax crude tankers will be the initial beneficiaries. If production continues to increase and pricing is favorable, Suezmaxes and VLCCs may come into the mix (which would open up Asian markets). The impact on product carriers will depend very much on the relative competitiveness of the U.S. Gulf refiners. While the feedstock pricing advantage will likely diminish, refiners still have access to cheap gas and remain close to key markets in Europe and Latin America. The lifting of the U.S. crude oil export ban will probably be a net negative for the U.S. Jones Act market. This market did receive a boost from the coastwise transportation of crude oil in the past, but these movements, which already declined significantly in 2015, may disappear altogether.
 

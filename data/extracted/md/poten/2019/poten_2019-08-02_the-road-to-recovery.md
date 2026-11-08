@@ -22,7 +22,7 @@ Tanker ordering has been relatively modest so far this year. According to our da
 
 To see which tanker segments may benefit the most, we need to look at size specific data. For the crude segments, ordering in the VLCC segment has reduced the most. Only 14 new VLCCs were contracted in 1H 2019, compared to 35 in the same period of 2018 and 31 in 2017. VLCCs have also benefited the most from the acceleration of demolition in 2018. After many years of little or no scrapping, 33 VLCCs were removed from the fleet last year (about the same number as the prior 5 years combined). Demolition activity has slowed again this year. Only 4 VLCCs were sent to the breakers in 2019 to date. Despite the slowdown in ordering, VLCCs still have the highest orderbook, representing 11.2% of the current fleet (90 vessels). A number of these were ordered in 2014/2015 and some of them may never deliver.
 
-For Suezmaxes, the numbers are more modest. Since 2015, when a record 89 Suezmaxes were ordered (leading to record
+For Suezmaxes, the numbers are more modest. Since 2015, when a record 89 Suezmaxes were ordered (leading to record deliveries and fleet growth in 2017), newbuilding contracts in this segment have dropped dramatically. In the first half of 2019, 9 Suezmax tankers have been contracted. The current orderbook is a relatively modest 45 vessels (7.7% of the fleet). The Suezmax scrapping rate is running slightly ahead of the VLCCs this year (5 versus 4).
 
 *Chart*
 
@@ -31,8 +31,6 @@ For Suezmaxes, the numbers are more modest. Since 2015, when a record 89 Suezmax
 *Chart*
 
 *Source: Poten & Partners*
-
-deliveries and fleet growth in 2017), newbuilding contracts in this segment have dropped dramatically. In the first half of 2019, 9 Suezmax tankers have been contracted. The current orderbook is a relatively modest 45 vessels (7.7% of the fleet). The Suezmax scrapping rate is running slightly ahead of the VLCCs this year (5 versus 4).
 
 Aframax/LR2 ordering has been modest so far this year, while Panamax/LR1 contracting dried up completely. It appears that the larger product tankers, which were very popular with owners in 2015 and 2016, have fallen out of favor. The orderbook for Aframaxes/LR2 combined stands at 9.2%, while the Panamax/LR1 orderbook is only 5.9%.
 

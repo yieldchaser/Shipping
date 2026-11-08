@@ -24,7 +24,7 @@ Now, the situation is entirely different. The shale oil boom has created a surpl
 
 In Mexico, crude oil production and exports have been declining in recent years, forcing the country to import increasing volumes of refined petroleum products, in particular from the United States. Mexican refiners are producing a surplus of low-value high-sulphur fuel oil, which is increasingly difficult to sell. Domestic demand for fuel oil is declining as power plants are switching to gas and the international market for high-sulphur fuel oil is shrinking. Running more light sweet crude oil from the US would allow Mexican refiners to increase the yield of gasoline and middle distillates and reduce the output of fuel oil.
 
-If we assume that the proposal for a 100,000 b/d crude oil swap will be approved, what will be the impact on the tanker markets? Since there are no crude oil pipelines
+If we assume that the proposal for a 100,000 b/d crude oil swap will be approved, what will be the impact on the tanker markets? Since there are no crude oil pipelines that run between the US and Mexico, the crude oil (most likely Eagle Ford Shale) will have to be shipped by sea, probably on Aframaxes from Corpus Christi and other US Gulf Coast ports to be discharged at Pajaritos and/or Dos Bocas. A volume of 100,000 b/d is equivalent to approximately one Aframax lifting per week. On a round-trip basis, Including loading and discharging this may employ 1-2 vessels in the region.
 
 *Chart: Fig. 1: US Crude Oil Imports From Mexico*
 
@@ -33,8 +33,6 @@ If we assume that the proposal for a 100,000 b/d crude oil swap will be approved
 *Chart*
 
 *Source: EIA*
-
-that run between the US and Mexico, the crude oil (most likely Eagle Ford Shale) will have to be shipped by sea, probably on Aframaxes from Corpus Christi and other US Gulf Coast ports to be discharged at Pajaritos and/or Dos Bocas. A volume of 100,000 b/d is equivalent to approximately one Aframax lifting per week. On a round-trip basis, Including loading and discharging this may employ 1-2 vessels in the region.
 
 The impact on the product tanker market is more difficult to predict, as it depends partly on how much additional gasoline the lighter crude oil slate will yield and how much less fuel oil. Since most of the Mexican gasoline and diesel come from the US (i.e. short-haul), the impact of this change on the product tanker market is likely limited. However, the excess fuel oil is increasingly being exported to long-haul destinations in Asia, so the negative impact of these reduced volumes on the dirty tanker market may be more significant.
 

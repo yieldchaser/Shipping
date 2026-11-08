@@ -197,8 +197,8 @@ def format_agora_document(pdf_path: Path) -> str:
     if cover_meta["intro"]:
         md.append("### Introductory Note\n")
         md.append(f"{cover_meta['intro']}\n")
-    else:
-        md.append("### Introductory Note\nWe consider the herein indicators valuable in decision making since shipping is a derived demand industry with many financial interactions. Turbulent global macro/micro-climate involving stock markets, currency exchanges and opportunity cost for alternative investments affect the shipping market. This is our small contribution to yours and our business.\n")
+    # (no fallback: when the cover's note is not found nothing is written; this used to emit a fixed paragraph
+    # typed into the code, which is not what the issue printed)
 
     # Table Pages (Page 2 & Page 3)
     table_pnos = [p["pno"] for p in pages if p["sections"]]

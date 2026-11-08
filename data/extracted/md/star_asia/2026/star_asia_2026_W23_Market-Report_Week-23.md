@@ -38,7 +38,6 @@ Capesize: The Capesize market staged a strong weekly rebound, driven by a surge 
 
 ## Page 3
 
-
 Week 23 | June 5th, 2026
 
 | Baltic Dry | Indices |  |  |  |  |  |  |  |  |  |  |  |
@@ -99,7 +98,6 @@ VLCC: VLCC market experienced a quiet week as industry participants traveled to 
 
 ## Page 6
 
-
 ### Baltic Tanker Indices
 
 | BDTI | BCTI |
@@ -140,8 +138,6 @@ VLCC: VLCC market experienced a quiet week as industry participants traveled to 
 
 ## Page 8
 
-
-
 # CONTAINERS
 
 The SCFI surged 155 points to 2,726.48-it’s highest in two years-as an early peak season and Middle East disruptions gave carriers unprecedented pricing power. Global benchmarks echoed the rally, with the Drewry WCI climbing 23% to US$3,433 per FEU, driven by a 31% jump in Shanghai-to-Los Angeles rates (US$4,565) and a 25% spike to Rotterdam (US$3,579). Shippers are aggressively front-loading cargo to outrun anticipated July U.S. tariff changes, mid-year retail promos, and World Cup inventory needs. This demand surge, colliding with prolonged Cape of Good Hope detours that absorb global vessel capacity, has created a highly restricted supply environment that analysts expect will persist through the summer.
@@ -173,7 +169,6 @@ The SCFI surged 155 points to 2,726.48-it’s highest in two years-as an early p
 | 9,000 TEU | $145,529 | $51,702 | $75,775 | $107,026 | $111,500 |
 
 ## Page 10
-
 
 ### Ship Recycling - Current Market Snapshot (USD / LDT)
 
@@ -207,7 +202,6 @@ All prices are USD per light displacement tonnage (long ton), net prices offered
 
 ## Page 12
 
-
 ## Market Insights
 
 The recycling markets closed the week with the same imbalance that has shaped trading for much of the quarter: firm appetite at the yards set against a thin supply of available candidates. Demand-side fundamentals across the sub-continent remain constructive, but the limited release of tonnage has kept reported sale activity muted, with most concluded business confined to smaller and specialist units.
@@ -220,31 +214,15 @@ Ship recycling markets expect the supply-constrained pattern to extend through t
 
 theme. From 01 January to 05 June 2026, a total of 45 vessels were beached, amounting to 435,694 MT.
 
-Activity was strongest in April, with 14 vessels totaling 179,373 MT, while February also remained firm with 16
+Activity was strongest in April, with 14 vessels totaling 179,373 MT, while February also remained firm with 16 vessels totaling 119,589 MT.
 
-vessels totaling 119,589 MT.
+In sharp contrast, May recorded a historic low, with only one vessel beached for just 8,320 MT. This marked the weakest monthly performance of the period and highlighted a significant slowdown in recycling activity.
 
-In sharp contrast, May recorded a historic low, with only one vessel beached for just 8,320 MT. This marked
+The lack of fresh tonnage suggests that sellers remained hesitant, while buyers and yards adopted a cautious approach amid uncertain local steel prices, currency volatility, and subdued market sentiment.
 
-the weakest monthly performance of the period and highlighted a significant slowdown in recycling activity.
+Early June has seen one vessel beached so far, totalling 33,003 MT as a few more larger tankers on their way, but stronger fresh sales will be required for the market to recover from May's unusually weak momentum, finding a firmer tone to import economics and supporting buyers' willingness to commit, even as local plate prices drifted lower over consecutive sessions.
 
-The lack of fresh tonnage suggests that sellers remained hesitant, while buyers and yards adopted a
-
-cautious approach amid uncertain local steel prices, currency volatility, and subdued market sentiment.
-
-Early June has seen one vessel beached so far, totalling 33,003 MT as a few more larger tankers on their
-
-way, but stronger fresh sales will be required for the market to recover from May's unusually weak
-
-momentum, finding a firmer tone to import economics and supporting buyers' willingness to commit, even
-
-as local plate prices drifted lower over consecutive sessions.
-
-India remains the most keenly priced of the sub-continent destinations, and the breadth of compliant
-
-capacity at the yards keeps it the default home for owners seeking a transparent, well-documented
-
-recycling route.
+India remains the most keenly priced of the sub-continent destinations, and the breadth of compliant capacity at the yards keeps it the default home for owners seeking a transparent, well-documented recycling route.
 
 ## Alang Anchorage & Beaching Position - June 2026
 
@@ -254,22 +232,11 @@ recycling route.
 
 ## Page 13
 
-
 **Chattogram, Bangladesh:** Chittagong retained its position as the firmest priced destination of the week,
 
-underpinned by a stable Taka and continued buyer interest, particularly for mid-sized assets that remain
+underpinned by a stable Taka and continued buyer interest, particularly for mid-sized assets that remain the preferred tonnage profile. Local plate prices eased modestly, and the financing environment stayed accommodative, allowing yards to hold offered levels above the other sub-continent markets.
 
-the preferred tonnage profile. Local plate prices eased modestly, and the financing environment stayed
-
-accommodative, allowing yards to hold offered levels above the other sub-continent markets.
-
-The demand is intact and should carry into the coming weeks. The principal swing factor is now
-
-meteorological rather than commercial: the arrival of the Bay of Bengal monsoon will progressively reduce
-
-the frequency of beaching cycles, tempering the pace at which Chittagong can absorb tonnage even as
-
-its appetite stays robust.
+The demand is intact and should carry into the coming weeks. The principal swing factor is now meteorological rather than commercial: the arrival of the Bay of Bengal monsoon will progressively reduce the frequency of beaching cycles, tempering the pace at which Chittagong can absorb tonnage even as its appetite stays robust.
 
 ## Chattogram Anchorage & Beaching Position - June 2026
 
@@ -293,7 +260,6 @@ Turkey's relevance continues to lie in the EU-regulated and specialist segments,
 
 ## Page 14
 
-
 TIDE DATES 2026 | Chattogram:  14-17 June | 30 June - 03 July
 
 Alang:       12-20 June | 27 June  - 05 July
@@ -312,12 +278,9 @@ Alang:       12-20 June | 27 June  - 05 July
 
 ## Commodities Focus
 
-Copper futures staged a modest recovery, rising 0.8% to settle at US$13,932/ton, defying a broader market decline due to a sharp drop in available London Metal Exchange warehouse stocks, which hit a three-month low following large withdrawals by traders aiming to capitalise on potential U.S. tariff changes. Despite this short-term gain, base metals remain highly sensitive to macroeconomic headwinds, particularly as negotiation deadlocks between Washington and Tehran over an interim peace deal and broader technology equity corrections-highlighted by a 2.6% drop in South Korea's Kospi index-dampen
+Copper futures staged a modest recovery, rising 0.8% to settle at US$13,932/ton, defying a broader market decline due to a sharp drop in available London Metal Exchange warehouse stocks, which hit a three-month low following large withdrawals by traders aiming to capitalise on potential U.S. tariff changes. Despite this short-term gain, base metals remain highly sensitive to macroeconomic headwinds, particularly as negotiation deadlocks between Washington and Tehran over an interim peace deal and broader technology equity corrections-highlighted by a 2.6% drop in South Korea's Kospi index-dampen near-term demand projections.
 
 ## Page 15
-
-
-near-term demand projections.
 
 On the energy and raw materials front, coal prices previously climbed above US$119/ton as energy security needs took precedence, yet the industry anticipates a structural transition as China's domestic coal production faces its first contraction since 2016 due to stricter capacity discipline and a 7% output scale-back in regions like Shanxi. This shift coincides with pronounced weakness in the steel sector, where iron ore futures in Singapore fell 3.4% for the week to a low of US$100.85/ton, marking their lowest point since early March. This pressure is intensified by a seasonal consumption lull in Chinese construction, deteriorating mill margins, and an expected influx of end-of-quarter shipments from major miners in Australia and Brazil, which has already pushed portside stockpiles across 47 Chinese ports up by 4.2 million tons to keep global supply highly abundant.
 
@@ -351,7 +314,6 @@ On the energy and raw materials front, coal prices previously climbed above US$1
 
 ## Page 16
 
-
 ### Exchange Rates
 
 | CURRENCY PAIR | JUNE 5 | MAY 29 | WoW % |
@@ -371,4 +333,3 @@ On the energy and raw materials front, coal prices previously climbed above US$1
 | FUJAIRAH | $960 | $665 | $1,496 |
 | ROTTERDAM | $719 | $622 | $1,090 |
 | HOUSTON | $793 | $674 | $1,134 |
-

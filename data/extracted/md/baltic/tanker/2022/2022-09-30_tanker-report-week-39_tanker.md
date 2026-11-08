@@ -50,9 +50,7 @@ In the Middle East the rate for 140,000mt Basrah/West Mediterranean has held at 
 
 ### Aframax
 
-The Mediterranean market made further gains this week with the rate for 80,000mt Ceyhan/West Mediterranean 14 points firmer at WS201 (a round-trip TCE of $53,600 per day). In Northern Europe, a flurry of activity enabled owners to push the rate up and
-
-the latest assessment for the 80,000mt Hound Point/UK Continent trip is up 31.5 points at between WS195-197.5 (a daily round trip TCE of $65,500 per day). For the 100,000mt Primorsk/UK Cont route the rate is now assessed 34 points higher at about WS 220 (a round-trip TCE of $74,200 per day).
+The Mediterranean market made further gains this week with the rate for 80,000mt Ceyhan/West Mediterranean 14 points firmer at WS201 (a round-trip TCE of $53,600 per day). In Northern Europe, a flurry of activity enabled owners to push the rate up and the latest assessment for the 80,000mt Hound Point/UK Continent trip is up 31.5 points at between WS195-197.5 (a daily round trip TCE of $65,500 per day). For the 100,000mt Primorsk/UK Cont route the rate is now assessed 34 points higher at about WS 220 (a round-trip TCE of $74,200 per day).
 
 Across the Atlantic, the market continued to weaken with the rate for 70,000mt EC Mexico/US Gulf falling 35 points to about WS220 (a round-trip TCE of $44,500 per day) while the rate for the 70,000mt Caribbean/US Gulf trip lost 24 points to WS 214-215 level (a daily round-trip TCE of about $39,600). For the transatlantic route of 70,000mt US Gulf/UK Continent, the rate shed nine points to between WS205-207.5 (showing a $38,200 per day round-tip TCE, which is in line with a week ago).
 

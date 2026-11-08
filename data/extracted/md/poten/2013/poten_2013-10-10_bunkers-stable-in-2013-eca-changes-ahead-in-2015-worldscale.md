@@ -28,11 +28,9 @@ Refineries are not expected to produce a .1% 380cst low sulfur bunker fuel oil d
 
 Another option being discussed is the use of Liquefied Natural Gas (LNG) as an alternative propulsion fuel. LNG Bunkers may be a good option on regular point to point trades such as container lines, especially in a ship capable of burning dual fuel grades. But LNG remains an unlikely fuel for the tanker markets given the wide variety of port calls that owners must make as well as the cost of developing the infrastructure. Current technology requires that the vessel docks at the LNG bunker refuelling location, as opposed to the current practice of barge transportation to the ship.
 
-Cruise lines have been early adopters of scrubber technology to meet the .1%
+Cruise lines have been early adopters of scrubber technology to meet the .1% sulfur requirement. Carnival is reported to be installing scrubbers on 32 of its vessels. It is currently unclear if scrubbers will function efficiently and effectively enough to meet the .1% requirement, with owners reluctant to make investments in a technology that has not been perfected yet. Scrubber economics will depend on the spread of their cost of operation vs. the increase in premium for MGO.
 
 *Chart: Scrubbers may be an*
-
-sulfur requirement. Carnival is reported to be installing scrubbers on 32 of its vessels. It is currently unclear if scrubbers will function efficiently and effectively enough to meet the .1% requirement, with owners reluctant to make investments in a technology that has not been perfected yet. Scrubber economics will depend on the spread of their cost of operation vs. the increase in premium for MGO.
 
 The lower Worldscale estimate is expected to decrease flat rates in the year ahead, leaving owners looking for higher Worldscale rates in 2014. Despite the lower bunker price assessment for this year, owners should keep a watchful eye on 2015 and the most cost effective way to meet the ECA requirements.
 

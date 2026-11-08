@@ -22,7 +22,7 @@ OPEC sees it as its mission to stabilize and balance the global oil market. OPEC
 
 In global oil markets, OPEC acts as the “swing supplier” and as a result, the demand for OPEC crude is usually calculated by taking global demand and subtracting the production of non-OPEC countries. This is called the "Call on OPEC". This call on OPEC changes over time and is dependent on many different supply and demand factors. As can be seen from the second chart, the expected call on OPEC crude for 2020 is tracked by all the major forecasting agencies, including OPEC itself. There are a couple of things to note from this chart.
 
-First: There is a significant difference among the agencies: The latest OPEC forecast sees the 2020 call on OPEC at 29.6 Mb/d, while the IEA estimates it to be 700,000 b/d lower at 28.9 Mb/d. However, comparing these numbers can be misleading because these agencies have slightly different definitions for demand, supply, stock changes and the treatment of NGL’s, biofuels and processing gains how much NGL's are included in the numbers. When comparing the change in the call on OPEC
+First: There is a significant difference among the agencies: The latest OPEC forecast sees the 2020 call on OPEC at 29.6 Mb/d, while the IEA estimates it to be 700,000 b/d lower at 28.9 Mb/d. However, comparing these numbers can be misleading because these agencies have slightly different definitions for demand, supply, stock changes and the treatment of NGL’s, biofuels and processing gains how much NGL's are included in the numbers. When comparing the change in the call on OPEC from 2019 to 2020, the numbers for the IEA and OPEC are almost the same: a decline of about 1.1 Mb/d.
 
 *Chart*
 
@@ -31,8 +31,6 @@ First: There is a significant difference among the agencies: The latest OPEC for
 *Chart*
 
 *Source: EIA, OPEC, IEA*
-
-from 2019 to 2020, the numbers for the IEA and OPEC are almost the same: a decline of about 1.1 Mb/d.
 
 The second development on the chart is more important. While the EIA and the IEA have reduced their projections for 2020 throughout this year, OPEC has become more optimistic about the need for its crude next year. Between July and November, they increased their 2020 Call on OPEC by 300,000 b/d, primarily as a result of lower non-OPEC production. The IEA and EIA both reduced their Call on OPEC by 200,000 b/d, predominantly because these agencies reduced their 2020 demand projections.
 

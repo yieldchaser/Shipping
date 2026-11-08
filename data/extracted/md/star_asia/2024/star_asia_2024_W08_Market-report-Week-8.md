@@ -34,11 +34,9 @@ The market saw an uptick as players were back from the holidays, thanks to impro
 
 Panamax/Kamsarmax:
 
-In the North Atlantic, downward pressure persists due to weak new demand. In South America, as new volumes are not abundant, shipowners are offering lower bids than the previous day. T/A overall fell to US$15,600's a day. In the Pacific, most spot transactions have been completed, leading to subdued activity and a weak downward trend. Pacific r/v slipped to US$14,750's a day. Supramax/Ultramax: It was a mixed market this week for the Supra segment. Despite the subdued activity, there was a strong uptick in the Pacific, driven by the sustained demand for Indonesian coal. There was a recovery at the end of the week, influenced by increased demand. Pacific r/v improved to US$11,250's a day. However, on the other side, competition
+In the North Atlantic, downward pressure persists due to weak new demand. In South America, as new volumes are not abundant, shipowners are offering lower bids than the previous day. T/A overall fell to US$15,600's a day. In the Pacific, most spot transactions have been completed, leading to subdued activity and a weak downward trend. Pacific r/v slipped to US$14,750's a day. Supramax/Ultramax: It was a mixed market this week for the Supra segment. Despite the subdued activity, there was a strong uptick in the Pacific, driven by the sustained demand for Indonesian coal. There was a recovery at the end of the week, influenced by increased demand. Pacific r/v improved to US$11,250's a day. However, on the other side, competition weakened for US grain due to ample supply in the global grain market and a stronger dollar, leading to a slowdown in new sales and downward pressure in the Atlantic region.
 
 ## Page 3
-
-weakened for US grain due to ample supply in the global grain market and a stronger dollar, leading to a slowdown in new sales and downward pressure in the Atlantic region.
 
 Handysize:
 

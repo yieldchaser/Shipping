@@ -34,25 +34,11 @@ This week's increase in dry bulk shares was linked to predictions that China wil
 
 #### Capesize:
 
-As China's third-quarter economic growth rate and real estate-related data fell short of
+As China's third-quarter economic growth rate and real estate-related data fell short of market forecasts, the stock market plunged 19% for the week, raising fears of a recession.
 
-market forecasts, the stock market plunged 19% for the week, raising fears of a recession.
+Despite recovering in the second quarter, the annual growth rate predicted by the Chinese government was insufficient to meet the 5.5% objective. Meanwhile, the European Central
 
-Despite recovering in the second quarter, the annual growth rate predicted by the Chinese
-
-government was insufficient to meet the 5.5% objective. Meanwhile, the European Central
-
-Bank's decision to raise interest rates adds to the economy's sluggishness and exacerbates
-
-the market's fears about a drop in freight volume. Cape rates continued to decline as some
-
-steel mills' production margins fell into the negative owing to weak steel demand and
-
-declining prices. At the week's closing, Pacific r/v fell to US$7,900 a day, while T/A saw levels
-
-in the region of US$ 15,750's a day. For the time being, it doesn't seem easy to boost the
-
-amount of iron ore exports substantially.
+Bank's decision to raise interest rates adds to the economy's sluggishness and exacerbates the market's fears about a drop in freight volume. Cape rates continued to decline as some steel mills' production margins fell into the negative owing to weak steel demand and declining prices. At the week's closing, Pacific r/v fell to US$7,900 a day, while T/A saw levels in the region of US$ 15,750's a day. For the time being, it doesn't seem easy to boost the amount of iron ore exports substantially.
 
 #### Panamax / Kamsarmax:
 
@@ -64,9 +50,7 @@ The decline this week is the result of weak Asian coal trade and low U.S. corn s
 
 #### Handysize:
 
-This week, the uncertainty regarding the future of Ukraine's grain exports impacted the Handy markets. T/A levels fell to a low of US$ 13,400's a day. Meanwhile, negative sentiment
-
-persisted throughout the Pacific. Inter-Pacific did not fare as well, with levels in the region of US$ 9,300's.
+This week, the uncertainty regarding the future of Ukraine's grain exports impacted the Handy markets. T/A levels fell to a low of US$ 13,400's a day. Meanwhile, negative sentiment persisted throughout the Pacific. Inter-Pacific did not fare as well, with levels in the region of US$ 9,300's.
 
 ## Page 3
 
@@ -189,19 +173,7 @@ L.R.: Trade in the Asia/Europe section fell as European refinery utilisation ros
 
 The formation of South Africa's first national shipping line has been a long-term goal. The
 
-Department of Transportation has published the first draught of the country's shipping
-
-business law, which intends to establish SASCO. A selected number of vessel categories that
-
-it would want to see included are chemical tankers, containerships, and bunker barges. They
-
-would all be registered in South Africa. Despite the country's large export output, foreign
-
-corporations own the majority of the vessels. Meanwhile, the SCFI for spot box freight fell
-
-further this week to 1,579 points, which is much lower than the rates reported start of the
-
-year.
+Department of Transportation has published the first draught of the country's shipping business law, which intends to establish SASCO. A selected number of vessel categories that it would want to see included are chemical tankers, containerships, and bunker barges. They would all be registered in South Africa. Despite the country's large export output, foreign corporations own the majority of the vessels. Meanwhile, the SCFI for spot box freight fell further this week to 1,579 points, which is much lower than the rates reported start of the year.
 
 ## Page 8
 

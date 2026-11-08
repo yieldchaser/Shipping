@@ -24,11 +24,9 @@ This week, data from the world's largest economy brought a glimmer of positivity
 
 ## Dry Bulk
 
-B.D.I., reached a one-month low as rates declined across vessel segments. The overall index fell by 24.5% w-o-w to 1,563 points on Friday. The capesize index recorded its sixth consecutive session of declines. Average daily earnings for capes have also dropped to US$20,446. Iron ore futures in Dalian and Singapore fell on concerns that Chinese demand for the steelmaking material will remain sluggish in the near term, overshadowing China's increased fiscal support for its faltering economy. B.P.I. reached its lowest point since October 18, declining 1.3%, with average daily earnings falling to US$14,652. B.S.I. also slipped 1.6%, reaching its lowest level in a month. Additionally, Ukraine suspended its Black Sea grain export corridor due to potential threats from Russian warplanes and sea mines. Despite a slow recovery in China's economy, there is optimism that the worst is over. The focus now shifts to when China's growth will return to a more normal level. Government efforts to stimulate the economy, especially through increased infrastructure spending, provide a positive outlook, benefiting real estate investment. Recent G.D.P. estimates have been upgraded, and China is expected to achieve its 5% growth target. However, challenges persist due to the country's debt structure and
+B.D.I., reached a one-month low as rates declined across vessel segments. The overall index fell by 24.5% w-o-w to 1,563 points on Friday. The capesize index recorded its sixth consecutive session of declines. Average daily earnings for capes have also dropped to US$20,446. Iron ore futures in Dalian and Singapore fell on concerns that Chinese demand for the steelmaking material will remain sluggish in the near term, overshadowing China's increased fiscal support for its faltering economy. B.P.I. reached its lowest point since October 18, declining 1.3%, with average daily earnings falling to US$14,652. B.S.I. also slipped 1.6%, reaching its lowest level in a month. Additionally, Ukraine suspended its Black Sea grain export corridor due to potential threats from Russian warplanes and sea mines. Despite a slow recovery in China's economy, there is optimism that the worst is over. The focus now shifts to when China's growth will return to a more normal level. Government efforts to stimulate the economy, especially through increased infrastructure spending, provide a positive outlook, benefiting real estate investment. Recent G.D.P. estimates have been upgraded, and China is expected to achieve its 5% growth target. However, challenges persist due to the country's debt structure and leverage issues resulting from unsustainable levels of past infrastructure investment. The strategy of maintaining steady growth faces potential hurdles, and if unsuccessful, significant damage could ensue.
 
 ## Page 2
-
-leverage issues resulting from unsustainable levels of past infrastructure investment. The strategy of maintaining steady growth faces potential hurdles, and if unsuccessful, significant damage could ensue.
 
 Capesize:
 
@@ -88,11 +86,9 @@ In the Atlantic, overall weak demand continues, sustaining the downward trend. H
 
 ## Tankers
 
-In such a multifaceted conflict in the Middle East, the implications are extensive, impacting the Eastern Mediterranean, the Suez Canal, the Red Sea, and the Persian Gulfcritical maritime transport routes for energy, commodities, and nearly half of global maritime trade. The costs of such a conflict would be staggering, jeopardising future assessments and investments. The situation evokes memories of the Ukrainian crisis, but the involved powers possess far greater capacity and reach. It is essential not to underestimate the global influence of Iran and Moscow's potential silent partnership in the unfolding events. After a recent 6% decline in the past three trading days, oil prices faced renewed pressure midweek. Despite the API reporting a decline in inventories (which would
+In such a multifaceted conflict in the Middle East, the implications are extensive, impacting the Eastern Mediterranean, the Suez Canal, the Red Sea, and the Persian Gulfcritical maritime transport routes for energy, commodities, and nearly half of global maritime trade. The costs of such a conflict would be staggering, jeopardising future assessments and investments. The situation evokes memories of the Ukrainian crisis, but the involved powers possess far greater capacity and reach. It is essential not to underestimate the global influence of Iran and Moscow's potential silent partnership in the unfolding events. After a recent 6% decline in the past three trading days, oil prices faced renewed pressure midweek. Despite the API reporting a decline in inventories (which would typically push prices higher), this positive influence was counteracted by political efforts for a ceasefire in the Middle East and ongoing economic concerns. S&P Global report on disappointing business activity data in the eurozone, with a PMI reading dropping to 46.5 this month, added to the headwinds. This decline, signalling potential recession fears in Europe, coincided with oil's pullback, indicating a softening demand side rather than solely attributing it to war-related supply disruption threats.
 
 ## Page 5
-
-typically push prices higher), this positive influence was counteracted by political efforts for a ceasefire in the Middle East and ongoing economic concerns. S&P Global report on disappointing business activity data in the eurozone, with a PMI reading dropping to 46.5 this month, added to the headwinds. This decline, signalling potential recession fears in Europe, coincided with oil's pullback, indicating a softening demand side rather than solely attributing it to war-related supply disruption threats.
 
 VLCC:
 
@@ -177,11 +173,9 @@ Tankers Values
 
 ## Containers
 
-Container is undergoing a significant fleet renewal, marked by a record order book and an aging fleet, reaching the highest average age on record at 14.2 years, according to BIMCO. About 21% of container ships are over 20 years old, making them potential candidates for recycling in the coming years. The renewal focus has been on postpanamax segments, with nearly 70% of all containerships being over 10 years old. Despite low recycling rates in the past 15 months, analysts predict an increase as container shipping faces financial challenges, with carriers expected to report a combined loss of US$15 billion in 2024. This week, container spot rates saw a substantial increase with SCFI
+Container is undergoing a significant fleet renewal, marked by a record order book and an aging fleet, reaching the highest average age on record at 14.2 years, according to BIMCO. About 21% of container ships are over 20 years old, making them potential candidates for recycling in the coming years. The renewal focus has been on postpanamax segments, with nearly 70% of all containerships being over 10 years old. Despite low recycling rates in the past 15 months, analysts predict an increase as container shipping faces financial challenges, with carriers expected to report a combined loss of US$15 billion in 2024. This week, container spot rates saw a substantial increase with SCFI index rising by 10% to 1,013 points. The surge was particularly notable on the mainlanes, where the SCFI Shanghai-N. Europe route rate increased by 32% to US$769/TEU.
 
 ## Page 8
-
-index rising by 10% to 1,013 points. The surge was particularly notable on the mainlanes, where the SCFI Shanghai-N. Europe route rate increased by 32% to US$769/TEU.
 
 ## Containers S&P Report
 

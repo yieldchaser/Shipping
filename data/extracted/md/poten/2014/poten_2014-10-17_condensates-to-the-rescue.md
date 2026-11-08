@@ -28,7 +28,7 @@ The situation for US condensates is somewhat complicated for two reasons: (1) In
 
 Canada is exempt from the US crude oil export ban. It is importing condensates from the US to use as diluent for heavy Canadian crude so it can be easily pumped through pipelines. The use of diluents is expected to grow as Canadian production increases and more crude oil pipelines become available.
 
-Processed oil products such as gasoline and diesel can be legally exported from the US, however and these exports have grown significantly in the last 5 years. The $64,000 question for condensates exports is: How much
+Processed oil products such as gasoline and diesel can be legally exported from the US, however and these exports have grown significantly in the last 5 years. The $64,000 question for condensates exports is: How much processing is required for condensates to be considered an oil product, rather than crude oil? Not surprisingly, opinions vary on this.
 
 *Chart: Fig. 1 Global Condensate Production*
 
@@ -37,8 +37,6 @@ Processed oil products such as gasoline and diesel can be legally exported from 
 *Chart*
 
 *Source: APEC*
-
-processing is required for condensates to be considered an oil product, rather than crude oil? Not surprisingly, opinions vary on this.
 
 Since Enterprise and Pioneer, no additional exports licenses have been granted as politicians have challenged the legality of these export permits and now all new permits are on hold. Players are awaiting clarification of the definition whether it’s a crude or a product, but a decision is not expected for at least 6 months.
 

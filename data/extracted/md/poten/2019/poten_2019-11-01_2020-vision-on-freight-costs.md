@@ -26,7 +26,7 @@ We believe that the increased fuel costs will be reflected in the freight costs 
 
 The average price of HFO in 2019 in Rotterdam was $326/ton while MGO cost $567 over this period. For the 2020 bunker prices we are using the current forward curves: $657 for MGO and $476 for compliant Low Sulphur Fuel Oil. It is interesting to see how the spread between the fuel types has widened over the last couple of weeks, as HFO prices have started declining ahead of the implementation of the new standards, while the prices of MGO and VLSFO remain more or less flat. The forward curve shows HFO prices increasing gradually throughout the year as more owners are expected to install scrubbers.
 
-The results of the analysis are shown in the second graph. For example, VLCCs earned $34,900 per day in 2019 with an
+The results of the analysis are shown in the second graph. For example, VLCCs earned $34,900 per day in 2019 with an average bunker price of $326/ton. On average, a charterer would pay $10.52/per ton of cargo for this voyage. In 2020, we assume that owners still earn $34,900/day, but ships are using more expensive VLSFO (@476/ton), charterers would have to pay $12.22/ ton, a premium of 16% over 2019 rates. If ships burn MGO, the transportation costs would increase further to $14.25 (+35%). We believe that in the longer run more ships will use VLSFO, but initially a number of owners will likely use MGO until the situation with compatibility of different suppliers becomes clear. Additionally, there probably will not be enough VLSFO available to supply all ships by the start of the year. As a result, freight rates could initially reflect the price of MGO, but gradually decline to reflect VLSFO prices as this becomes a more common fuel and possibly decline further if/when more owners install scrubbers and these vessels start setting the rates.
 
 *Chart*
 
@@ -35,8 +35,6 @@ The results of the analysis are shown in the second graph. For example, VLCCs ea
 *Chart*
 
 *Source:, Poten & Partners*
-
-average bunker price of $326/ton. On average, a charterer would pay $10.52/per ton of cargo for this voyage. In 2020, we assume that owners still earn $34,900/day, but ships are using more expensive VLSFO (@476/ton), charterers would have to pay $12.22/ ton, a premium of 16% over 2019 rates. If ships burn MGO, the transportation costs would increase further to $14.25 (+35%). We believe that in the longer run more ships will use VLSFO, but initially a number of owners will likely use MGO until the situation with compatibility of different suppliers becomes clear. Additionally, there probably will not be enough VLSFO available to supply all ships by the start of the year. As a result, freight rates could initially reflect the price of MGO, but gradually decline to reflect VLSFO prices as this becomes a more common fuel and possibly decline further if/when more owners install scrubbers and these vessels start setting the rates.
 
 From a charterers perspective, it looks like freight rates will become significantly more expensive in 2020, especially for the larger vessels, which normally perform longer voyages where fuel represents a larger proportion of the freight costs.
 

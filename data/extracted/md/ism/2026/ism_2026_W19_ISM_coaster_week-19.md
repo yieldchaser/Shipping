@@ -28,9 +28,7 @@ Against a generally lackluster tone, the Azov sea- river market has been the onl
 
 ### Coaster Freight Index, May 10, 2026
 
-Egyptian urea, CFR Spain, $/t Freight rate, urea, 5-6,000t, Damietta / AbuQir - SpanMed, $/t % of freight costs in CFR price
-
-added $1-2/t in the Azov Sea. However, even with rates towards Marmara hovering in the high-$30s/t, RV TCEs for sea-river vessels only slightly exceed running costs. The Caspian Sea freight market also continues to strengthen slowly: rates have risen by $1-3/t due to lively grain shipments from Russia to Iran.
+Egyptian urea, CFR Spain, $/t Freight rate, urea, 5-6,000t, Damietta / AbuQir - SpanMed, $/t % of freight costs in CFR price added $1-2/t in the Azov Sea. However, even with rates towards Marmara hovering in the high-$30s/t, RV TCEs for sea-river vessels only slightly exceed running costs. The Caspian Sea freight market also continues to strengthen slowly: rates have risen by $1-3/t due to lively grain shipments from Russia to Iran.
 
 Given such a significant reduction in available tonnage in the Black and Mediterranean Seas, shipowners will likely try to raise rates at least slightly; however, there are currently no signs of an upturn in exports of major cargoes (grains and steel products), so it will actually be difficult to push freights up. According to ISM, a more likely scenario is that rates will stabilize, with a decline in bunker prices being the only thing that could help owners achieve higher TCEs.
 

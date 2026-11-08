@@ -26,7 +26,7 @@ As a result, VLCCs are now the main size class used for shipments from Hound Poi
 
 The shift from short haul moves to long haul exports to Asia has been a great development for Hound Point-related ton mile demand, which nearly tripled from 2014 to 2017.
 
-The unexpected closure of the pipeline led to a reduction of about 450 Kb/d of light sweet crude from the global market. This initially caused the price of Brent crude oil to increase by
+The unexpected closure of the pipeline led to a reduction of about 450 Kb/d of light sweet crude from the global market. This initially caused the price of Brent crude oil to increase by about $1.54 from Friday Dec. 8 to Monday Dec. 11 and WTI, another light sweet crude, increased by $0.63 during this period. The Brent-Dubai spread also increased from $3.50 to $4.25, reflecting the perceived shortage of light, sweet crude versus the heavier Dubai variety, making Middle Eastern crudes more attractive.
 
 *Chart*
 
@@ -35,8 +35,6 @@ The unexpected closure of the pipeline led to a reduction of about 450 Kb/d of l
 *Chart*
 
 *Source: Lloyd’s List Intelligence*
-
-about $1.54 from Friday Dec. 8 to Monday Dec. 11 and WTI, another light sweet crude, increased by $0.63 during this period. The Brent-Dubai spread also increased from $3.50 to $4.25, reflecting the perceived shortage of light, sweet crude versus the heavier Dubai variety, making Middle Eastern crudes more attractive.
 
 It is too early to have definitive statistics but anecdotal evidence suggests that Chinese buyers have increased their purchases from West Africa while Korean buyers have focused more on the Middle Eastern suppliers. U.S. crude oil also became more attractive as the Brent – WTI spread widened further.
 

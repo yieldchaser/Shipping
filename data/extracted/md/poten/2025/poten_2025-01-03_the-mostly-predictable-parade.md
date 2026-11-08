@@ -24,7 +24,7 @@ Unipec remains the most important charterer in the VLCC spot market in 2024, alt
 
 *Chart*
 
-In the Suezmax segment, ExxonMobil claimed the #1 spot, followed by Repsol. Total re-entered the top 10 at #3. Repsol, Chevron and Vitol all gained places compared to the previous
+In the Suezmax segment, ExxonMobil claimed the #1 spot, followed by Repsol. Total re-entered the top 10 at #3. Repsol, Chevron and Vitol all gained places compared to the previous year. Glencore dropped a few places (from #8 to #10), while Trafigura, ENI and Unipec (last years’ #6) fell out of the top 10 altogether. It should be noted that total Suezmax spot fixtures were down by 105 (6%) in 2024 compared to 2023 (1,659 versus 1,764)
 
 | 2024 Rank | Charterer | Reported Total Cargo (MT 000's) | % of Total Dirty Cargoes | 2023 Rank | 2024 Fixtures |
 | --- | --- | --- | --- | --- | --- |
@@ -55,8 +55,6 @@ In the Suezmax segment, ExxonMobil claimed the #1 spot, followed by Repsol. Tota
 Source: Poten & Partners
 
 Source: Poten & Partners
-
-year. Glencore dropped a few places (from #8 to #10), while Trafigura, ENI and Unipec (last years’ #6) fell out of the top 10 altogether. It should be noted that total Suezmax spot fixtures were down by 105 (6%) in 2024 compared to 2023 (1,659 versus 1,764)
 
 *Chart*
 

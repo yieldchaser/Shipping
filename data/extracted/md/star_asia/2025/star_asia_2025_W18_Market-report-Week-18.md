@@ -276,11 +276,9 @@ Imported scrap demand in Pakistan showed little improvement, with mills continui
 
 The Bangladeshi scrap market remained in limbo, with limited trading activity. Despite improved vessel arrivals and easing port congestion in Chattogram, mills refrained from new purchases. Australian-origin shredded scrap was offered at US$380/ton CFR, while buyers bid closer to US$375–376/ton. High inventories, weak construction activity, and ongoing liquidity issues continued to weigh on sentiment. With no significant deals concluded, participants remained focused on regional indicators and Turkish market cues before stepping back into the market.
 
-The Turkish scrap market remained quiet but showed tentative signs of stabilisation. Prices for premium HMS 80:20 edged up to US$330/ton CFR, though actual deal flow was
+The Turkish scrap market remained quiet but showed tentative signs of stabilisation. Prices for premium HMS 80:20 edged up to US$330/ton CFR, though actual deal flow was thin. Seller targets ranged from US$330/ton CFR for EU-origin scrap to US$335-340/ton for US-origin material. Discussions at the recent IREPAS conference hinted that the market may have reached a floor; however, both buyers and sellers remained reluctant to act. Tight scrap supply and ongoing price uncertainty are keeping players on edge, reinforcing the prevailing stalemate. Across the board, the market is in a holding pattern. Buyers are hesitant to commit amid falling steel prices and ample inventory, while sellers are probing for lower levels in hopes of sparking demand. Until a clearer pricing direction emerges, likely triggered by fresh deals or a significant shift in downstream steel dynamics, the current impasse is expected to persist.
 
 ## Page 16
-
-thin. Seller targets ranged from US$330/ton CFR for EU-origin scrap to US$335-340/ton for US-origin material. Discussions at the recent IREPAS conference hinted that the market may have reached a floor; however, both buyers and sellers remained reluctant to act. Tight scrap supply and ongoing price uncertainty are keeping players on edge, reinforcing the prevailing stalemate. Across the board, the market is in a holding pattern. Buyers are hesitant to commit amid falling steel prices and ample inventory, while sellers are probing for lower levels in hopes of sparking demand. Until a clearer pricing direction emerges, likely triggered by fresh deals or a significant shift in downstream steel dynamics, the current impasse is expected to persist.
 
 # HMS 1/2 & Tangshan Billet
 

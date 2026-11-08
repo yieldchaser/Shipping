@@ -20,13 +20,11 @@ U.S. crude oil exports have been on a tear since the crude oil export ban was li
 
 The projects that have been announced so far are located all over the U.S. Gulf coast area, from Brownville in the south-west corner of Texas to LOOP in eastern Louisiana. Offshore Brownsville, Jupiter MLP, a privately held midstream company, has commenced the engineering, permitting and design of the Jupiter Offshore Loading Terminal (JOLT), a VLCC loading facility six miles offshore. The plan is to have JOLT connected to 10 million barrels of onshore storage through two 24-inch diameter pipelines, capable of loading 1 million b/d (one VLCC every 48 hours).
 
-Corpus Christi is located some 120 miles north of Brownsville. Due to its excellent pipeline connections to the Eagle Ford and Permian Basin shale formations, Corpus Christi has developed into one of the most active gateways for crude oil exports in the U.S. Gulf. Many midstream companies are actively jockeying for position, demonstrated by the recent announcement that Occidental Petroleum has agreed to sell its Ingleside oil export
+Corpus Christi is located some 120 miles north of Brownsville. Due to its excellent pipeline connections to the Eagle Ford and Permian Basin shale formations, Corpus Christi has developed into one of the most active gateways for crude oil exports in the U.S. Gulf. Many midstream companies are actively jockeying for position, demonstrated by the recent announcement that Occidental Petroleum has agreed to sell its Ingleside oil export terminal. The Ingleside terminal has ambitions to facilitate VLCC exports, but oil trader Trafigura decided that it doesn’t want to wait for the completion of the Corpus Christi harbor deepening project. It submitted plans to building an offshore crude oil terminal 15 miles outside of Corpus Christi, with a rumored capacity of 400,000 b/d, enabling them to load one VLCC every five days using a single-point mooring buoy system.
 
 *Chart*
 
 *Source: Lloyd’s List Intelligence*
-
-terminal. The Ingleside terminal has ambitions to facilitate VLCC exports, but oil trader Trafigura decided that it doesn’t want to wait for the completion of the Corpus Christi harbor deepening project. It submitted plans to building an offshore crude oil terminal 15 miles outside of Corpus Christi, with a rumored capacity of 400,000 b/d, enabling them to load one VLCC every five days using a single-point mooring buoy system.
 
 Outside of Houston, Enterprise Product Partners is planning to develop another offshore oil export terminal with a loading rate of 85,000 barrels per hour, which is equivalent to one VLCC every day.
 

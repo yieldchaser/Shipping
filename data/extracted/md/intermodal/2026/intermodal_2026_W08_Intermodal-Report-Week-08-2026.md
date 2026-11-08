@@ -173,9 +173,7 @@ In dry bulk, the Greek owner Almi Marine ordered at Nantong COSCO a pair of 64k 
 
 On the wet side, UK owner Zodiac Maritime proceeded with two orders, both due for 2029: 4 VLCCs at Jiangsu Hantong priced at \$125m each and a single Suezmax at Samsung valued at \$85m.
 
-In containership segment, the Hong Kong based Manqiang Shipping commissioned Yangzijiang Shipbuilding for the manufac-
-
-turing of 4 containerships of 1.9k teu each, priced at \$30m each and estimated delivery in 2028-2029.
+In containership segment, the Hong Kong based Manqiang Shipping commissioned Yangzijiang Shipbuilding for the manufac-turing of 4 containerships of 1.9k teu each, priced at \$30m each and estimated delivery in 2028-2029.
 
 In the gas front, the Danish Celsius Tankers contracted a 180k cbm LNG carrier at Samsung, priced at \$255m and expected delivery in 2028.
 

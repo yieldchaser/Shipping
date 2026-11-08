@@ -1357,6 +1357,16 @@ def process_single_pdf(
                     md_path.write_text(cleaned, encoding="utf-8", newline="\n")
         except Exception:
             pass
+        # every publisher: rejoin sentences the conversion cut into separate paragraphs at line / page ends
+        # (characters and order are asserted unchanged inside join_wrapped; on any failure the file stays as written)
+        try:
+            from md_cleanup.join_wrapped_paragraphs import join_wrapped
+            raw = md_path.read_bytes().decode("utf-8")
+            joined, n = join_wrapped(raw)
+            if n:
+                md_path.write_bytes(joined.encode("utf-8"))
+        except Exception as exc:
+            print(f"  [join_wrapped] {md_path.name}: left as written ({exc})")
 
     # If specialized extractor already generated markdown, inject detected chart links if present
     if specialized_result:

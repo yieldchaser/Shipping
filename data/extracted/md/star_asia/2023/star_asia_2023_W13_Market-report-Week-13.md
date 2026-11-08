@@ -297,11 +297,9 @@ The IMF funding is crucial to unlocking other external financing avenues, and ne
 
 Turkish steel mills are currently not showing much interest in purchasing scrap due to sluggish steel sales and falling prices. Most mills are still not buying and are waiting for steel sales to recover before buying scrap, which has led to a decline in prices.
 
-Some suppliers expect Turkish mills to return to the market soon, but the longer they wait, the steeper the price jumps they will face. While rebar export sales are almost non-existent,
+Some suppliers expect Turkish mills to return to the market soon, but the longer they wait, the steeper the price jumps they will face. While rebar export sales are almost non-existent, domestic rebar demand is also low due to Ramadan, upcoming elections, and uncertainty about the reconstruction of earthquake-hit cities.
 
 ## Page 14
-
-domestic rebar demand is also low due to Ramadan, upcoming elections, and uncertainty about the reconstruction of earthquake-hit cities.
 
 # BEACHING TIDE DATES 2023
 

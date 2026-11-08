@@ -22,7 +22,7 @@ Iran has ample experience in dealing with various kinds of sanctions and even if
 
 However, despite Iran’s attempts to minimize the damage, early indications are not encouraging for them. Most international oil companies, especially those with meaningful U.S. operations, have already decided to steer clear from buying Iranian crude. U.S. allies like Japan and South Korea are under pressure to reduce their purchases. Turkey is also a significant buyer of Iranian oil and while they may resist pressure from the U.S. to cut back, they don’t have a lot of room to increase their purchases either. The two countries that could take more Iranian crude are the two largest current buyers: India and China. Combined they imported about 1.4 million b/d over the past three months. India is more likely than China to reduce its imports from Iran under U.S. pressure. China, which is already embroiled in a trade conflict with the U.S. has less incentive to comply and may import more (discounted) Iranian crude.
 
-So, what happens if U.S. sanctions are so successful that Iranian exports are reduced from 2.6 million b/d to 1.0 million b/d by year-end 2018? Unfortunately, the Iranian sanctions are not
+So, what happens if U.S. sanctions are so successful that Iranian exports are reduced from 2.6 million b/d to 1.0 million b/d by year-end 2018? Unfortunately, the Iranian sanctions are not happening in a vacuum. Venezuela’s production is also falling. The IEA estimates that Venezuela’s production capacity will fall a further 550,000 b/d to around 800,000 b/d by the end of 2019. Angola is facing challenges maintaining production as well. In the short-term Libya and Canada are also facing production and export hiccups. In our own backyard, the shale oil producers in Texas have problems bringing their growing crude oil flows to market due to pipeline restrictions and port constraints. Where will the replacement crude oil come from?
 
 *Chart*
 
@@ -31,8 +31,6 @@ So, what happens if U.S. sanctions are so successful that Iranian exports are re
 *Source: Lloyd’s List Intelligence*
 
 *Source: Bloomberg, IEA*
-
-happening in a vacuum. Venezuela’s production is also falling. The IEA estimates that Venezuela’s production capacity will fall a further 550,000 b/d to around 800,000 b/d by the end of 2019. Angola is facing challenges maintaining production as well. In the short-term Libya and Canada are also facing production and export hiccups. In our own backyard, the shale oil producers in Texas have problems bringing their growing crude oil flows to market due to pipeline restrictions and port constraints. Where will the replacement crude oil come from?
 
 The only OPEC countries with significant spare capacity are Saudi Arabia, the UAE and Kuwait. Industry experts believe that these countries can (sustainably) increase production by 1.5 – 2.0 million b/d within 12 months; outside OPEC, Russian producers can reverse their voluntary cutbacks, which will add back 300,000 b/d.
 

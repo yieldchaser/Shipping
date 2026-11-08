@@ -230,11 +230,9 @@ This has left Chattogram’s recycling yards unable to offer competitive pricing
 
 Gadani
 
-Pakistan saw a positive week, with prices remaining stable. This week, the ministry's latest clarification on Hong Kong Convention (HKC) certification has emerged as a significant talking point among industry participants. Many had previously operated under the assumption that yards could handle multiple vessels simultaneously while progressing toward HKC accreditation. The new directive, however, sets a stricter framework: only one vessel may be recycled during the certification process, and once that vessel's
+Pakistan saw a positive week, with prices remaining stable. This week, the ministry's latest clarification on Hong Kong Convention (HKC) certification has emerged as a significant talking point among industry participants. Many had previously operated under the assumption that yards could handle multiple vessels simultaneously while progressing toward HKC accreditation. The new directive, however, sets a stricter framework: only one vessel may be recycled during the certification process, and once that vessel's dismantling is completed, there will be no grace or cessation period to allow for the certification to be finalised.
 
 ## Page 15
-
-dismantling is completed, there will be no grace or cessation period to allow for the certification to be finalised.
 
 This sharper restriction is already prompting a strategic rethink across the recycling sector. Ship recyclers are now weighing whether to hold off on fresh purchases or proceed more selectively, and the financial implications of tying up capacity for a single vessel.
 

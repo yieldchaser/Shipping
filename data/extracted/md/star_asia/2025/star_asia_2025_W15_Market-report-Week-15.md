@@ -30,11 +30,9 @@ The Baltic Exchange's dry bulk index showed modest gains on Friday, despite the 
 
 Capesize:
 
-The Pacific region saw increased market activity at week's closing with active contract operations in the Australian area. Along with a reduction in vessel supply,
+The Pacific region saw increased market activity at week's closing with active contract operations in the Australian area. Along with a reduction in vessel supply, rates are on an upward trend in this part of the world with Pacific r/v seeing rates in the levels of US$14,300's a day. In the Atlantic, while sentiment has been negatively affected by the increase in tariffs, the downward movement has been somewhat limited due to a decrease in ballasters.
 
 ## Page 3
-
-rates are on an upward trend in this part of the world with Pacific r/v seeing rates in the levels of US$14,300's a day. In the Atlantic, while sentiment has been negatively affected by the increase in tariffs, the downward movement has been somewhat limited due to a decrease in ballasters.
 
 Panamax/Kamsarmax:
 
@@ -223,11 +221,9 @@ Shipping companies are adjusting vessel supply more aggressively before yearly c
 
 Insights Alang
 
-The market showed no significant shift in sentiment or activity this week compared to the previous period, with local demand steadily recovering. While India's rebar market rally has temporarily paused in the secondary segment as buyers have already restocked and adopted a wait-and-see approach ahead of safeguard duty decisions, the primary steel segment remains resilient. This stability is largely supported by robust demand from government infrastructure projects. Looking forward, India's ship recycling industry faces potential challenges as the country is predicted to experience a significant scrap shortage over the next five to ten years. This looming shortage is driven by multiple factors: a tightening global scrap pool as many countries retain more material for domestic use, sluggish growth in India's
+The market showed no significant shift in sentiment or activity this week compared to the previous period, with local demand steadily recovering. While India's rebar market rally has temporarily paused in the secondary segment as buyers have already restocked and adopted a wait-and-see approach ahead of safeguard duty decisions, the primary steel segment remains resilient. This stability is largely supported by robust demand from government infrastructure projects. Looking forward, India's ship recycling industry faces potential challenges as the country is predicted to experience a significant scrap shortage over the next five to ten years. This looming shortage is driven by multiple factors: a tightening global scrap pool as many countries retain more material for domestic use, sluggish growth in India's domestic recycling capacity, and increasing competition for scrap from China as it transitions toward greener steelmaking practices. On the other hand, for the domestic steel industry, India considers a 20% Safeguard Duty as US Tariffs Trigger Steel Dumping Fears. Following the U.S. move to impose 125% tariffs on Chinese imports, India is weighing a 20% safeguard duty on steel to counter potential dumping. The Steel Ministry, acting on the Directorate General of Trade Remedies' (DGTR) recommendation, is considering fast-tracking a provisional 12% duty targeting Chinese and Vietnamese steel for 200 days, with further increases under review. India's steel imports hit a 10-year high of 9.5 million tons in FY25, while exports fell to a decade-low of 5 million tons - making India a net importer for the second year in a row. Officials fear China may redirect its surplus to India at below-cost rates, exacerbating injury to domestic producers. ASEAN routes are also under scrutiny for circumvention. The Finance Ministry is expected to finalize the tariff levels soon, amid growing urgency to protect India's steel sector from a deepening global trade conflict.
 
 ## Page 14
-
-domestic recycling capacity, and increasing competition for scrap from China as it transitions toward greener steelmaking practices. On the other hand, for the domestic steel industry, India considers a 20% Safeguard Duty as US Tariffs Trigger Steel Dumping Fears. Following the U.S. move to impose 125% tariffs on Chinese imports, India is weighing a 20% safeguard duty on steel to counter potential dumping. The Steel Ministry, acting on the Directorate General of Trade Remedies' (DGTR) recommendation, is considering fast-tracking a provisional 12% duty targeting Chinese and Vietnamese steel for 200 days, with further increases under review. India's steel imports hit a 10-year high of 9.5 million tons in FY25, while exports fell to a decade-low of 5 million tons - making India a net importer for the second year in a row. Officials fear China may redirect its surplus to India at below-cost rates, exacerbating injury to domestic producers. ASEAN routes are also under scrutiny for circumvention. The Finance Ministry is expected to finalize the tariff levels soon, amid growing urgency to protect India's steel sector from a deepening global trade conflict.
 
 Anchorage & Beaching Position (APRIL 2025)
 
@@ -239,11 +235,9 @@ Anchorage & Beaching Position (APRIL 2025)
 
 Chattogram
 
-Bangladesh's ship recycling market remains subdued, with prices holding steady at last week's levels despite limited local activity. In a significant development, the Bangladesh Ship Reprocessing Board, established under the Ship Reprocessing Act of 2018, officially began operations on April 10, 2025. This three-member board will now oversee all ship recycling activities in the country. The industry awaits next week's decision on whether NOCs will be issued to HKC-compliant yards, while non-HKC yards face uncertainty as their previous extension expired on March 31 with no new extensions announced until at least July. The broader economic changes also include the recent imposition of high U.S. tariffs. The 37% tariff imposed on Bangladesh comes amid tensions between the U.S. and China, creating additional pressure on the country's export sectors, including recycled steel from ships. As Bangladesh prepares to graduate from least developed country status, the industry faces a crucial period requiring enhanced commercial capacity and
+Bangladesh's ship recycling market remains subdued, with prices holding steady at last week's levels despite limited local activity. In a significant development, the Bangladesh Ship Reprocessing Board, established under the Ship Reprocessing Act of 2018, officially began operations on April 10, 2025. This three-member board will now oversee all ship recycling activities in the country. The industry awaits next week's decision on whether NOCs will be issued to HKC-compliant yards, while non-HKC yards face uncertainty as their previous extension expired on March 31 with no new extensions announced until at least July. The broader economic changes also include the recent imposition of high U.S. tariffs. The 37% tariff imposed on Bangladesh comes amid tensions between the U.S. and China, creating additional pressure on the country's export sectors, including recycled steel from ships. As Bangladesh prepares to graduate from least developed country status, the industry faces a crucial period requiring enhanced commercial capacity and stronger trade diplomacy. While the 90-day suspension of new U.S. tariffs has provided temporary relief, the market must navigate these trade challenges alongside its regulatory transition.
 
 ## Page 15
-
-stronger trade diplomacy. While the 90-day suspension of new U.S. tariffs has provided temporary relief, the market must navigate these trade challenges alongside its regulatory transition.
 
 Anchorage & Beaching Position (APRIL 2025)
 
@@ -268,11 +262,9 @@ Anchorage & Beaching Position (APRIL 2025)
 
 Aliaga, Turkey
 
-Turkey's market remains stagnant as domestic scrap prices remain largely unchanged from levels seen before the recent Eid holiday. However, pressure is mounting on the market as several mills prepare to decrease their domestic scrap buying prices in response to falling imported values. The market saw a significant supply-demand imbalance, with numerous offers available, while mills have halted purchases despite their incomplete May-shipment scrap procurements. This purchasing freeze by Turkish
+Turkey's market remains stagnant as domestic scrap prices remain largely unchanged from levels seen before the recent Eid holiday. However, pressure is mounting on the market as several mills prepare to decrease their domestic scrap buying prices in response to falling imported values. The market saw a significant supply-demand imbalance, with numerous offers available, while mills have halted purchases despite their incomplete May-shipment scrap procurements. This purchasing freeze by Turkish mills stems from several factors, including the escalating US–China tariff war and weak steel demand.
 
 ## Page 16
-
-mills stems from several factors, including the escalating US–China tariff war and weak steel demand.
 
 Market participants are closely watching for the first transaction that will break the current deadlock and establish a new reference price. Turkish shipbreaking scrap is currently priced between US$340-372 per ton delivered, though mills are increasingly using surcharges or discounts rather than changing list prices.
 
@@ -365,4 +357,3 @@ Crude Oil & Natural Gas Rates
 Note: All rates at C.O.B. London time April 11, 2025
 
 # Singapore | London | Dubai
-

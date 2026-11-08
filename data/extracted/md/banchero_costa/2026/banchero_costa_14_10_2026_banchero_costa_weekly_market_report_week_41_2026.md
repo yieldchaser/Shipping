@@ -127,9 +127,7 @@ Ukraine, whose key seaports are blocked due to Russian attacks, wants to use Ger
 
 # India holds soybean cargoes over doubts about Niger origin
 
-Indian customs authorities have withheld clearance of soybean cargoes declared as originating in Niger this month as importers failed to provide documents proving the
-
-oilseeds were sourced there to qualify for duty-free entry, sources said. About 1,500 metric tons of soybeans, or 60 containers, were stranded at Jawaharlal Nehru Port near Mumbai, sources from the customs department told Reuters.
+Indian customs authorities have withheld clearance of soybean cargoes declared as originating in Niger this month as importers failed to provide documents proving the oilseeds were sourced there to qualify for duty-free entry, sources said. About 1,500 metric tons of soybeans, or 60 containers, were stranded at Jawaharlal Nehru Port near Mumbai, sources from the customs department told Reuters.
 
 # New Trump rules will make it harder for farmers to access US funds for energy projects
 
@@ -157,9 +155,7 @@ The International Energy Agency agreed on Wednesday to accelerate the release of
 
 # Soaring freight rates threaten Asia's appetite for US crude
 
-Tanker freight rates soaring to
-
-record highs are putting US crude oil out of reach for Asian refiners, pushing them to seek alternatives from the Middle East and Latin America, according to multiple traders and shipbrokers who track those markets. The cost of chartering a very large crude carrier (VLCC) to carry 2 million barrels of US oil from the Gulf of Mexico to China in November hit $80 million this week, according to data from shipbrokers Simpson, Spence & Young on LSEG.
+Tanker freight rates soaring to record highs are putting US crude oil out of reach for Asian refiners, pushing them to seek alternatives from the Middle East and Latin America, according to multiple traders and shipbrokers who track those markets. The cost of chartering a very large crude carrier (VLCC) to carry 2 million barrels of US oil from the Gulf of Mexico to China in November hit $80 million this week, according to data from shipbrokers Simpson, Spence & Young on LSEG.
 
 # Americas have glut of heavy oil due to freight squeeze; Asia, Europe scramble for barrels
 
@@ -171,9 +167,7 @@ Shell expects third-quarter refining margins to jump to $42 a barrel, a record h
 
 # Trump says Russia to supply diesel to US and global markets
 
-President Donald Trump said on Friday that Russia had agreed to
-
-supply diesel to global markets in an effort to lower fuel prices, and his administration temporarily lifted US sanctions on Russian fuel that were designed to deprive Moscow of revenues for its war on Ukraine. Prices for diesel, used for agriculture, heating homes and trucking, are near a record and risk for Trump's fellow Republicans ahead of the November 3 congressional elections that will determine whether they maintain thin control of Congress. Diesel prices fell after the announcement, but analysts said the deal may not be enough to keep them down.
+President Donald Trump said on Friday that Russia had agreed to supply diesel to global markets in an effort to lower fuel prices, and his administration temporarily lifted US sanctions on Russian fuel that were designed to deprive Moscow of revenues for its war on Ukraine. Prices for diesel, used for agriculture, heating homes and trucking, are near a record and risk for Trump's fellow Republicans ahead of the November 3 congressional elections that will determine whether they maintain thin control of Congress. Diesel prices fell after the announcement, but analysts said the deal may not be enough to keep them down.
 
 # China to resume October fuel exports after holiday pause, sources say
 
@@ -201,9 +195,7 @@ European households and industries face at least another year of high gas prices
 
 # US, Russia explore gas sale to Europe amid Ukraine war, say sources
 
-Top Russian and US officials,
-
-including US Special Envoy Jared Kushner, have held talks about bringing a US investor into the Nord Stream pipelines that delivered gas to Germany before Russia invaded Ukraine, five people with knowledge of the situation said. The discussions included Kirill Dmitriev, a close adviser to Russian President Vladimir Putin, and Kushner, the son-in-law of US President Donald Trump, the people said.
+Top Russian and US officials, including US Special Envoy Jared Kushner, have held talks about bringing a US investor into the Nord Stream pipelines that delivered gas to Germany before Russia invaded Ukraine, five people with knowledge of the situation said. The discussions included Kirill Dmitriev, a close adviser to Russian President Vladimir Putin, and Kushner, the son-in-law of US President Donald Trump, the people said.
 
 # Europe's LNG demand, growing fleet size to pressure shipping rates in winter
 
@@ -211,9 +203,7 @@ Strong European demand for liquefied natural gas is expected to cap shipping cos
 
 # Emerging Asia's power-driven LNG demand at risk as renewables gain ground
 
-Emerging Asia is losing its appetite for liquefied natural gas to generate power as geopolitical shocks, equipment shortages and cheaper renewables derail projects, disappointing industry hopes the region would drive the next wave of demand. Countries including Vietnam and the Philippines had planned new LNG import terminals and power plants to meet rising demand and transition from coal, but the market shocks of Russia's 2022 Ukraine invasion and the ongoing US-Iran war sent prices
-
-soaring, exposing the risks of LNG reliance.
+Emerging Asia is losing its appetite for liquefied natural gas to generate power as geopolitical shocks, equipment shortages and cheaper renewables derail projects, disappointing industry hopes the region would drive the next wave of demand. Countries including Vietnam and the Philippines had planned new LNG import terminals and power plants to meet rising demand and transition from coal, but the market shocks of Russia's 2022 Ukraine invasion and the ongoing US-Iran war sent prices soaring, exposing the risks of LNG reliance.
 
 # Cheap coal and expensive gas set stage for year-end coal export surge: Maguire
 
@@ -291,9 +281,7 @@ The Pacific market remained firm this week, although sentiment began to soften t
 
 Indonesia saw mixed levels across the Pacific round-voyage market: a 76,426 dwt 2013-built fixed USD 16,750 for Indonesia/South China, whilst a 75,599 dwt 2011-built achieved USD 20,000 for Indonesia/South Korea.
 
-Longer-haul business continued to attract a premium, an 81,922 dwt
-
-dwt 2026-built achieved USD 23,000/day plus USD 1.3m ballast bonus for similar employment.
+Longer-haul business continued to attract a premium, an 81,922 dwt dwt 2026-built achieved USD 23,000/day plus USD 1.3m ballast bonus for similar employment.
 
 Another 82,000 dwt 2026-built was reported at USD 22,650/day plus USD 1.265m ballast bonus, confirming continued demand for fronthaul tonnage.
 
@@ -343,9 +331,7 @@ cdo
 
 The US Gulf was firm and active across all routes, with strong fronthaul demand for both petcoke and grains to the Far East and South Asia, alongside steady transatlantic activity and firming Handy rates.
 
-Fronthaul was particularly brisk: a 66k open USG fixed a trip to Pakistan/Bangladesh with grains, a
-
-another 56k open Brownsville to Algeria with grains.
+Fronthaul was particularly brisk: a 66k open USG fixed a trip to Pakistan/Bangladesh with grains, a another 56k open Brownsville to Algeria with grains.
 
 On short and regional runs, a 57k open Tolu fixed dely Miss River/NCSA grains USD 20,500.
 
@@ -371,9 +357,7 @@ Russian attacks on three vessels off the Romanian and Bulgarian coasts have adde
 
 # BLACK SEA / MEDITERRANEAN
 
-Freight is certainly on the rise, the couple of dollars per metric tonne on top appearing to reflect the cost of extra war risk combined with
-
-fixed APS Itaqui/Egypt USD 36,500/day and a 59k open Pecem USD 32,000/day steel slabs to the Baltic.
+Freight is certainly on the rise, the couple of dollars per metric tonne on top appearing to reflect the cost of extra war risk combined with fixed APS Itaqui/Egypt USD 36,500/day and a 59k open Pecem USD 32,000/day steel slabs to the Baltic.
 
 19,500/day+USD 950k bb Vietnam and a 64k open Santos USD 20,000/day+USD 1m bb Singapore-Japan.
 
@@ -381,9 +365,7 @@ Further afield, a 61k fixed APS Recalada/Australia grains USD 20,000/day+USD 1m 
 
 Handies stay firm on all major routes: a 40k fixed APS Recalada/Algeria USD 33,500/day, another 40k Upriver/Continent in the low USD 30,000s/day and a 38k open Rio Grande USD 32,000/day WCCA.
 
-Transatlantic, a 61k open Gibraltar
-
-via Bremen/USG steel products USD 19,500/day and a 39k (2015) open Morocco USD 19,500/day APS German North Sea, similar USG redelivery; long-haul to the Far East also held firm, a modern 40k (2025) open Dunkirk via COGH in the high USD 20,000s.
+Transatlantic, a 61k open Gibraltar via Bremen/USG steel products USD 19,500/day and a 39k (2015) open Morocco USD 19,500/day APS German North Sea, similar USG redelivery; long-haul to the Far East also held firm, a modern 40k (2025) open Dunkirk via COGH in the high USD 20,000s.
 
 On Supras/Ultras there was a very important push, particularly scrap to
 
@@ -393,9 +375,7 @@ reluctance to call Black Sea ports; speculation naturally carries weight too.
 
 For Handysizes 35,000 dwt or more, intra-Med remains around USD 15,500/16,000 per day, even if spot cargoes have seen a few discounts.
 
-Transatlantic trips stayed generally
-
-stable: Rio de Janeiro-Recalada remained USD 11,000 and Boston-Galveston USD 14,500/15,000, whilst the Supramax transatlantic is still USD 15,500/15,750 per day.
+Transatlantic trips stayed generally stable: Rio de Janeiro-Recalada remained USD 11,000 and Boston-Galveston USD 14,500/15,000, whilst the Supramax transatlantic is still USD 15,500/15,750 per day.
 
 Trips East slowed to USD 24,500 on Supramaxes and around USD 25,500 daily for Ultramaxes.
 
@@ -529,9 +509,7 @@ Rates hovered at around WS 350/355 during the first half of the week, closing at
 
 A slow week overall, with the market lately seeming to favour time-charter employment over spot activity, and the East Med remaining tighter on both sizes.
 
-Most Flexies are now on the Continent, leaving charterers with
-
-little choice but to look at Handies despite the rising rates.
+Most Flexies are now on the Continent, leaving charterers with little choice but to look at Handies despite the rising rates.
 
 # Intermediates / Small
 
@@ -541,7 +519,7 @@ Likewise a slow week, the market lately seeming to favour time-charter employmen
 
 # Handies
 
-Cross-Med was stronger than ever, gaining another 20 WS points and
+Cross-Med was stronger than ever, gaining another 20 WS points and closing at around WS 360, also supported by some natural tonnage strategically positioned and by most of the fleet already being employed from the previous week.
 
 | CLEAN | Unit | 9-Oct | 2-Oct | W-o-W | Y-o-Y |
 | --- | --- | --- | --- | --- | --- |
@@ -569,8 +547,6 @@ Cross-Med was stronger than ever, gaining another 20 WS points and
 | DIRTY | Unit | 9-Oct | 2-Oct | W-o-W | Y-o-Y |
 | TD32 UKC-UKC (30k) | ws | 345.0 | 313.8 | +10.0% | n/a |
 | Med-Med (30k) | ws | 360.0 | 340.0 | +5.9% | +71.4% |
-
-closing at around WS 360, also supported by some natural tonnage strategically positioned and by most of the fleet already being employed from the previous week.
 
 # MRs
 
@@ -626,9 +602,7 @@ Seaspan reportedly contracted 2x 210,000 dwt bulk carriers at Yangzijiang Shipbu
 
 Almi Marine Management was also reported to have contracted 3x 64,000 dwt bulk carriers at COSCO Shipping Heavy Industry, with deliveries scheduled between June 2029 and June 2031.
 
-Tanker ordering was also notable. Advantage Tankers reportedly
-
-contracted 2x 114,000 dwt product tankers at Dalian Shipbuilding Industry, with deliveries scheduled for October 2029 and February 2030.
+Tanker ordering was also notable. Advantage Tankers reportedly contracted 2x 114,000 dwt product tankers at Dalian Shipbuilding Industry, with deliveries scheduled for October 2029 and February 2030.
 
 The owner also contracted 2x 50,000 dwt MR2 tankers at Guangzhou Shipyard International, priced at approximately USD 45 million each, with deliveries scheduled for June 2029.
 
@@ -685,9 +659,7 @@ In the Panamax/Kamsarmax segment, KIRRIBILLI 82,000 dwt 2011 Tsuneishi changed h
 
 WORLD DIANA 82,000 dwt 2020 Oshima Shipbuilding was reportedly sold to Greek interests for around $40 mln.
 
-Among smaller bulkers, SHENLI 56,000 dwt 2004 Mitsui was reportedly sold to Chinese interests
-
-for around $9.8 mln.
+Among smaller bulkers, SHENLI 56,000 dwt 2004 Mitsui was reportedly sold to Chinese interests for around $9.8 mln.
 
 BAM PROTEUS 34,000 dwt 2007 Kanda Zosensho - Kawajiri changed hands for around $9.5 mln, while AM PRESTIGE 32,000 dwt 2014 Guangzhou Wenchong Shipyard was reportedly sold for around $12.5 mln.
 
@@ -760,9 +732,7 @@ Among smaller tankers, BOW VICTORY 21,000 dwt 2016 Asakawa Zosen was reportedly 
 
 # DEMOLITION SALES
 
-As we start the final quarter of the year, demand and sentiment across the Indian Sub Continent demolition destinations remains positive with Buyers keen to acquire tonnage but starved of Vessels of any real weight. Echoing last weeks report, Bangladesh retains its conventional pricing top spot while Pakistan
-
-remains competitive and India continues to be the go to destination for specialist and non-ferrous-rich unit.
+As we start the final quarter of the year, demand and sentiment across the Indian Sub Continent demolition destinations remains positive with Buyers keen to acquire tonnage but starved of Vessels of any real weight. Echoing last weeks report, Bangladesh retains its conventional pricing top spot while Pakistan remains competitive and India continues to be the go to destination for specialist and non-ferrous-rich unit.
 
 Pricing on both bulkers and tankers remains well in excess of the USD 500 per LT/LDT mark on a delivered basis.
 

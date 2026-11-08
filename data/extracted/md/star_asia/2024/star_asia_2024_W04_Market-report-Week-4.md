@@ -265,11 +265,9 @@ Anchorage & Beaching Position (January 2024)
 
 Chattogram, Bangladesh
 
-This week marked a notable shift in market sentiment, with prices showing signs of improvement following the recent elections. However, it is premature to label it as a return to a normal market state. Banks are still deliberating their decisions, and L.C.s continue to be in limited supply. Meanwhile, domestic ship prices remained steady, contributing to a sense of optimism within the industry. Chinese ship owners have put forward numerous vessels for consideration by Bangladeshi recyclers, generating significant enthusiasm among the recyclers. Experts anticipate a surge in activity after the Lunar New Year, potentially reshaping pricing
+This week marked a notable shift in market sentiment, with prices showing signs of improvement following the recent elections. However, it is premature to label it as a return to a normal market state. Banks are still deliberating their decisions, and L.C.s continue to be in limited supply. Meanwhile, domestic ship prices remained steady, contributing to a sense of optimism within the industry. Chinese ship owners have put forward numerous vessels for consideration by Bangladeshi recyclers, generating significant enthusiasm among the recyclers. Experts anticipate a surge in activity after the Lunar New Year, potentially reshaping pricing dynamics. The limited number of recyclers remaining in the industry to compete for these opportunities could substantially impact pricing, making this development a potential game-changer.
 
 ## Page 15
-
-dynamics. The limited number of recyclers remaining in the industry to compete for these opportunities could substantially impact pricing, making this development a potential game-changer.
 
 Anchorage & Beaching Position (January 2024)
 
@@ -288,13 +286,9 @@ Anchorage & Beaching Position (January 2024)
 
 Gadani, Pakistan
 
-It has been yet another quiet week for Gadani recyclers, with no ships being offered to
-
-them. Bangladesh has been dominating the competition for ships coming from the Far East, leaving Gadani without much activity. In a positive development, the L.C. situation in Pakistan has gradually improved. Banks are now willing to establish L.C.s with more favourable terms, a change that has been welcomed by recyclers. This shift comes as the local currency, which experienced turbulence over the past year, has finally stabilised in recent months. This stability has instilled confidence in the industry. The primary challenge at present remains the supply of ships. Despite competitive pricing that matches their counterparts in Bangladesh, Gadani recyclers continue to face disappointment. Geographical factors are working against them, as ships are being diverted away from their yards, causing frustration among the eager recyclers. Financial experts anticipate that the rupee is unlikely to depreciate further in the remainder of the fiscal year due to prevailing inflationary pressures. The exchange rate has remained stable, with the rupee valued below Rs280 against the U.S. dollar, though some analysts suggest it may reach Rs310 by year's end. However, widespread inflation concerns dominate economic priorities, leading to a focus on controlling inflation rather
+It has been yet another quiet week for Gadani recyclers, with no ships being offered to them. Bangladesh has been dominating the competition for ships coming from the Far East, leaving Gadani without much activity. In a positive development, the L.C. situation in Pakistan has gradually improved. Banks are now willing to establish L.C.s with more favourable terms, a change that has been welcomed by recyclers. This shift comes as the local currency, which experienced turbulence over the past year, has finally stabilised in recent months. This stability has instilled confidence in the industry. The primary challenge at present remains the supply of ships. Despite competitive pricing that matches their counterparts in Bangladesh, Gadani recyclers continue to face disappointment. Geographical factors are working against them, as ships are being diverted away from their yards, causing frustration among the eager recyclers. Financial experts anticipate that the rupee is unlikely to depreciate further in the remainder of the fiscal year due to prevailing inflationary pressures. The exchange rate has remained stable, with the rupee valued below Rs280 against the U.S. dollar, though some analysts suggest it may reach Rs310 by year's end. However, widespread inflation concerns dominate economic priorities, leading to a focus on controlling inflation rather than fostering growth. The upcoming general elections in February add to economic uncertainty.
 
 ## Page 16
-
-than fostering growth. The upcoming general elections in February add to economic uncertainty.
 
 Anchorage & Beaching Position (January 2024)
 

@@ -22,7 +22,7 @@ Some analysts compare the growth potential of Namibia with that of Guyana, one o
 
 According to the US Geological Survey (USGS) the continents we now know as Africa, South America, North America, and Europe were all contiguous from about 300-200 million years ago (late Paleozoic Era until the very late Triassic). The South Atlantic Ocean opened about 140 million years ago as Africa separated from South America. About 70% of the world’s oil was formed during the Mesozoic era, which happened between 252 and 66 million years ago, the East Coast of South America (including Brazil and Guyana) and the West Coast of Africa (such as Nigeria, Angola and Namibia) have a similar geology and it is no surprise that significant oil deposits have been found in both areas.
 
-How much oil is discoverable and commercially viable in Namibia is unknown at this point. There are currently four drilling rigs operating in Namibian waters and the consensus
+How much oil is discoverable and commercially viable in Namibia is unknown at this point. There are currently four drilling rigs operating in Namibian waters and the consensus seems to be that in terms of exploration, the oil companies have only scratched the surface of the hydrocarbon potential in the country. Based on current discoveries alone, Namibia could produce 500,000 b/d within a decade and more than 1 Mb/d on a longer-term basis. Not much has been disclosed yet about the quality of the oil offshore Namibia, but based on nearby deposits in West Africa and similar geologies in Brazil and Guyana, the expectation is that the crude will be more likely sweet (<0.6% sulphur) rather than sour.
 
 *Chart*
 
@@ -31,8 +31,6 @@ How much oil is discoverable and commercially viable in Namibia is unknown at th
 *Chart*
 
 *Source: Vortexa*
-
-seems to be that in terms of exploration, the oil companies have only scratched the surface of the hydrocarbon potential in the country. Based on current discoveries alone, Namibia could produce 500,000 b/d within a decade and more than 1 Mb/d on a longer-term basis. Not much has been disclosed yet about the quality of the oil offshore Namibia, but based on nearby deposits in West Africa and similar geologies in Brazil and Guyana, the expectation is that the crude will be more likely sweet (<0.6% sulphur) rather than sour.
 
 The future implications for the tanker market of the oil exploration developments in Namibia are encouraging. There is no domestic refining capacity in Namibia, so all crude oil production will be exported. To some extent, the new production from Namibia can replace declines in Nigeria and slowdowns in Angola. As can be seen in chart 1, West African exports have stagnated somewhat in recent years. Adding several hundreds of thousands of barrels per day by the end of this decade could make this a growth area again. Some of this new oil may stay in the Atlantic Basin, but most of the future oil demand growth will be concentrated in Asia, so Namibian exports will generate ample ton-mile demand.
 

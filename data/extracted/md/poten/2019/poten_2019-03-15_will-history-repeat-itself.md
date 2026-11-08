@@ -24,15 +24,13 @@ While the U.S. will bring the biggest volumes to market, it is not the only coun
 
 In Europe, Norway is also on the brink of another expansion. The IEA expects Norwegian output to increase by 600,000 b/d to reach 2.5 mb/d in 2024, the highest production level for Norway since 2008. Most of this oil comes from the giant Johan Sverdrup field, which operator Equinor expects to have resources of between 2 and 3 billion barrels of oil equivalent and peak production of 660,000 b/d.
 
-Guyana is a new player in the crude oil market, but operator ExxonMobil and its partners continue to find new oil off the
+Guyana is a new player in the crude oil market, but operator ExxonMobil and its partners continue to find new oil off the coast of this Latin American country. Oil will start flowing in 2020 at 120,000 b/d and is expected to ramp up to 500,000 by 2024.
 
 *Chart*
 
 *Chart*
 
 *Source: IEA*
-
-coast of this Latin American country. Oil will start flowing in 2020 at 120,000 b/d and is expected to ramp up to 500,000 by 2024.
 
 These increases in crude oil flows are different for a variety of reasons. First of all, this production growth is coming from non-OPEC countries and is therefore not subject to the vagaries of output cuts and other production restrictions that are driven by politics (e.g. sanctions) rather than economics. Secondly, most of the additional flows are of the light sweet variety, which are deemed highly attractive in the run-up to implementation of the IMO 2020 sulphur restriction on bunker fuel. Last, but not least, Asia (in particular China and India) will continue to be the main source of additional crude oil demand. According to the IEA, the East of Suez crude balances (Middle East and Asia combined) show a shortfall of 6 mb/d at the end of their forecast: “This means that even if Middle East producers direct all their exports to Asian refiners, the latter would need to source another 6 mb/d from other regions. Diversification of crude supplies outside the Middle East is no longer a choice, but a necessity to fill the growing Asian need for crude.”
 

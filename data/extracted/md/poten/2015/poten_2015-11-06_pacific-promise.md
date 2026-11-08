@@ -26,7 +26,7 @@ In the late 1990s South Korea’s refining capacity expanded well beyond domesti
 
 The third largest player in the Asian refined product trades is India. Unlike Singapore and South Korea, which are both significant importers and exporters of product, India is predominantly an exporter. Companies like Essar and Reliance, which built a number of large, sophisticated export oriented refineries, sell petroleum products worldwide, both within Asia-Pacific as well as in Europe and the United States. Significant additional refining capacity is expected to come online in India over the next five years, mostly to satisfy demand growth, but some will be used for additional exports.
 
-Several Asian countries have developed into significant net
+Several Asian countries have developed into significant net importers of refined products. In Indonesia, for example, refining capacity has not kept pace with steady demand growth over the years, while countries like Japan and Australia need to import more refined products following domestic refinery closures.
 
 *Chart: Fig. 1: Development of Asian Refining Capacity (Select Countries)*
 
@@ -35,8 +35,6 @@ Several Asian countries have developed into significant net
 *Chart: Fig 2: Development of Asian Clean Product Trades (Exports + Imports)*
 
 *Source: Jodi*
-
-importers of refined products. In Indonesia, for example, refining capacity has not kept pace with steady demand growth over the years, while countries like Japan and Australia need to import more refined products following domestic refinery closures.
 
 The country to watch going forward is China. While China has been a net exporter of clean petroleum products (excluding Fuel Oil) for several years already, we expect it to become a more significant player in the product trades in the future as the country’s refining industry remains on a rapid growth trajectory, while demand growth for refined products is slowing.
 

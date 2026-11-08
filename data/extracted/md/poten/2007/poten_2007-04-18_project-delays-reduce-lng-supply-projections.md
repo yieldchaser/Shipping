@@ -22,21 +22,17 @@ This decade’s rapid LNG expansion appears to have ground to a halt, raising qu
 
 2007 is only marginally better. While Peru LNG, Angola LNG and Nigeria’s OKLNG have made serious commitments on the engineering, procurement and construction front since the start of the
 
-March 2007
-
-year, none of these projects have reached the FID stage. The slow down has raised concerns about the industry’s ability to get back on track, which all but guarantees that the current seller’s market Technology will persist into the next decade. FID delays mean an estimated 50 MMt/y in new supply planned for 2010 will now be pushed off for several years at best. This is not entirely a new phenomenon – a slippage of about 40 MMt/y was already noticeable in projections made at the start of 2006 (see graph below). But with project delays worsening over the past year, opportunities for redressing this slippage have moved out beyond 2011.
+March 2007 year, none of these projects have reached the FID stage. The slow down has raised concerns about the industry’s ability to get back on track, which all but guarantees that the current seller’s market Technology will persist into the next decade. FID delays mean an estimated 50 MMt/y in new supply planned for 2010 will now be pushed off for several years at best. This is not entirely a new phenomenon – a slippage of about 40 MMt/y was already noticeable in projections made at the start of 2006 (see graph below). But with project delays worsening over the past year, opportunities for redressing this slippage have moved out beyond 2011.
 
 Projects in Africa are the largest culprits, with three ventures totaling 40 MMt/y in Nigeria alone. This covers two development phases at OKLNG as well as an expansion train at Nigeria LNG and the grassroots Brass LNG project, all of which are jockeying for resources. And skyrocketing costs could potentially derail OKLNG, whose partners are now in exclusive negotiations with a joint venture comprising France’s Technip and the Italian firm Snamprogetti. The two European contractors won out over an even higher bid from a consortium led by US-based Kellogg Brown & Root. But their $9 billion plus EPC submission will have to be scaled back before the project can progress. The preferred bid is based on two 5.5 MMt/y trains at Olokola and translates into over $800 per ton of installed capacity, a number which should give even the deepest pocketed investors pause. Sponsors have also put the brakes on two other projects in Algeria – El Andalus LNG and the Skikda rebuild – due to technical uncertainties and cost rises. Only the single-train Angola LNG venture is nearing FID after selecting a contractor in January (see LNGWM, Jan/Feb ’07). Elsewhere, Australia’s 10 MMt/y Gorgon project has been subject to serious delays while other ventures in Iran are only now gathering momentum.
 
 A variety of reasons are behind the
 
-LNG supply projections continue to slide
+LNG supply projections continue to slide hold ups. OKLNG is only the latest in a series of ventures to suffer from higher-than-expected EPC offers, driven by factors such as rising raw material and equipment prices and continued tightness in the engineering services and construction sub-contractor sectors. The most recent bid rounds in Algeria, Angola and Nigeria resulted in costs between $600 and $1,000 per ton of installed capacity, well in excess of the $200 to $350 experienced only a few years ago (see LNGWM Nov ’05). These rises have led to longer project viability deliberations, additional pre-commitment cost-cutting efforts and, at Algeria’s El Andalus at least, a formal retendering of the EPC contract. Other factors are more project-specific. While it is also running way over budget, permitting delays and differences between the partners have compounded Gorgon’s problems.
 
 *Chart*
 
 *Source: Poten & Partners*
-
-hold ups. OKLNG is only the latest in a series of ventures to suffer from higher-than-expected EPC offers, driven by factors such as rising raw material and equipment prices and continued tightness in the engineering services and construction sub-contractor sectors. The most recent bid rounds in Algeria, Angola and Nigeria resulted in costs between $600 and $1,000 per ton of installed capacity, well in excess of the $200 to $350 experienced only a few years ago (see LNGWM Nov ’05). These rises have led to longer project viability deliberations, additional pre-commitment cost-cutting efforts and, at Algeria’s El Andalus at least, a formal retendering of the EPC contract. Other factors are more project-specific. While it is also running way over budget, permitting delays and differences between the partners have compounded Gorgon’s problems.
 
 e: LNG@poten.com | w: www.poten.com
 
@@ -50,9 +46,7 @@ Despite these hurdles, the most likely candidates for the next development phase
 
 through the project’s various issues, although not at the pace anticipated earlier in the development process. Woodside’s Pluto project has committed $1.4 billion towards key equipment
 
-March 2007
-
-orders and the Ichthys venture sponsored by Inpex and Total is moving ahead. Several projects in Technology Iran are on the path to fruition, with the Pars LNG venture grouping Total, Petronas and the National Iranian Oil Co nearing the commitment point. Expansion capacity seems poised to move up the pecking order as well, and Equatorial Guinea LNG, Egypt’s Idku and Damietta plants, Darwin LNG in Australia and Russia’s Sakhalin II could all get new trains once gas supply issues are resolved.
+March 2007 orders and the Ichthys venture sponsored by Inpex and Total is moving ahead. Several projects in Technology Iran are on the path to fruition, with the Pars LNG venture grouping Total, Petronas and the National Iranian Oil Co nearing the commitment point. Expansion capacity seems poised to move up the pecking order as well, and Equatorial Guinea LNG, Egypt’s Idku and Damietta plants, Darwin LNG in Australia and Russia’s Sakhalin II could all get new trains once gas supply issues are resolved.
 
 Potential projects in remote or politically-uncertain environments could also advance if risks are identified and mitigated. Opportunities in Russia, Iran, Venezuela, Papua New Guinea and Libya, amongst others, need more definition but are attracting attention from big-name industry players. On the other hand, the EPC market’s persistent tightness and stubbornly high cost inflation cast a cloud over future investment decisions, with sponsors having to give much greater consideration to the financial consequences of delay. Prospects in the LNG industry are also linked to some external drivers, such as oil prices and broader oil and gas construction demand, and these factors will continue to influence project competitiveness and the availability of resources for further expansion.
 

@@ -22,7 +22,7 @@ The first area to examine in more detail is tanker demand. According to the IEA,
 
 If Middle East OPEC has reduced production (and exports), but oil demand remains strong, where do refiners source the additional crude from? A significant portion comes from the United States due to two concurrent developments: 1) growing production and exports from domestic shale producers, and 2) crude oil inventory drawdowns. According to U.S. Energy Information Administration (EIA) data, U.S. crude oil production increased by 850,000 b/d from 8.79 mb/d in October 2016 to 9.64 mb/d in October 2017 (latest available data). On a net basis, most of this extra production is exported: U.S. crude oil exports more than doubled from an average of 485,000 b/d in 2016 to 978,000 b/d in 2017. In Q4 of 2017 U.S. crude exports reached an average of 1.47 mb/d! U.S. crude oil stocks have also been drawn down. U.S. inventories (commercial and government) at the end of December 2017 stood at 1,088 million barrels, 85.8 million barrels below the level of year end 2016. Inventory drawdowns accelerated in the last quarter of 2017, averaging 16.8 million barrels per month (550,000 b/d).
 
-When we focus on VLCCs for a moment, it becomes clear how the above changes impact tanker demand. The average monthly number of VLCC movements decreased by 18 cargoes between Q4 2016 and Q4 2017. The volume of VLCC cargoes
+When we focus on VLCCs for a moment, it becomes clear how the above changes impact tanker demand. The average monthly number of VLCC movements decreased by 18 cargoes between Q4 2016 and Q4 2017. The volume of VLCC cargoes originating from the Middle East was down by 24. Most of this reduction was directed towards the U.S. Gulf (-10), but Asia (-5) and NW Europe (-4) also received less crude from the Arabian Gulf. On the other hand, exports from the U.S. Gulf increased dramatically (+7.3). Overall, there was a noticeable reduction in monthly VLCC traffic, with a depressing effect on rates.
 
 *Chart*
 
@@ -31,8 +31,6 @@ When we focus on VLCCs for a moment, it becomes clear how the above changes impa
 *Chart*
 
 *Source: Lloyd’s List Intelligence*
-
-originating from the Middle East was down by 24. Most of this reduction was directed towards the U.S. Gulf (-10), but Asia (-5) and NW Europe (-4) also received less crude from the Arabian Gulf. On the other hand, exports from the U.S. Gulf increased dramatically (+7.3). Overall, there was a noticeable reduction in monthly VLCC traffic, with a depressing effect on rates.
 
 What about the supply side of the (tanker) equation? Fleet growth was also a factor. Since January 2017, the VLCC fleet has grown by 37 vessels (+5.3%).
 

@@ -21,9 +21,7 @@ tags:
 
 South Korea’s LPG imports are expected to increase 9.5% in 2019 on account of stronger demand from the petrochemical sector as well as the recent policy change that will allow LPG-fueled vehicles in the private sector.
 
-South Korea’s LPG market was starting to look saturated with low demand, but as the government is reconsidering cleaner fuels, its demand is likely to shoot up. Severe air pollution in the country caused mainly by vehicular emissions has forced the government to rethink its earlier
-
-strategy.
+South Korea’s LPG market was starting to look saturated with low demand, but as the government is reconsidering cleaner fuels, its demand is likely to shoot up. Severe air pollution in the country caused mainly by vehicular emissions has forced the government to rethink its earlier strategy.
 
 Until February 2019 only commercial vehicles such as taxis, rental cars, vans and small buses in the country were allowed to use LPG as auto fuel. But from end-March, the government has permitted anyone in the country to buy LPG-powered vehicles, or to modify their cars to run on LPG as part of its efforts to improve air quality. The move makes sense, as LPG vehicles emit less fine dust compared with conventional gas or diesel-fueled cars.
 

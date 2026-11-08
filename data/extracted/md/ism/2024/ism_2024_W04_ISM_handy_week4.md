@@ -22,9 +22,7 @@ Similar to last week, positive sentiment prevails only in two sections of the we
 
 ECSA, Continent and Asia-Pacific markets show signs of improvement, while USG and Mediterranean ones remain under pressure
 
-Activity remains limited in the Mediterranean and Black Seas , while the surplus of open vessels allows ship
-
-owners to confidently keep rates at previous levels, which seems to look like the market bottom at this stage. Front- haul segment is the only exception: relevant freight levels have added $1-2k daily and $1-2/t this week (especially Supramax ones). «It is logical most owners prefer inter- Med, transatlantic and WAfr destinations, asking some premiums for front-hauls via Red Sea,» an operator commented. Shipment of 25-30,000 t of wheat or corn from Constanta to SpanMed with 8,000 sshex bends l/d rates costs $17-17.5/t.
+Activity remains limited in the Mediterranean and Black Seas , while the surplus of open vessels allows ship owners to confidently keep rates at previous levels, which seems to look like the market bottom at this stage. Front- haul segment is the only exception: relevant freight levels have added $1-2k daily and $1-2/t this week (especially Supramax ones). «It is logical most owners prefer inter- Med, transatlantic and WAfr destinations, asking some premiums for front-hauls via Red Sea,» an operator commented. Shipment of 25-30,000 t of wheat or corn from Constanta to SpanMed with 8,000 sshex bends l/d rates costs $17-17.5/t.
 
 Meanwhile, the USG market remains under pressure. Excessive tonnage list for spot dates forces owners to make further concessions. Over the week, Supramax/Ultramax rates have dropped by $3-4k daily and $3-5/t in the region, while Handysize levels have sagged by $1k daily and $1- 2/t.
 
@@ -36,13 +34,9 @@ Meanwhile, any upturns are out of question in the Handysize segment, as ship own
 
 Market players share different opinions about the ECSA market development next week. «Market will certainly maintain its levels,» one broker mentioned. Meanwhile, another market participant shared that «Influx of demand is definitely needed, otherwise rates might fall again». According to ISM, to maintain positive momentum, the market does need cargoes being quickly absorbed, especially for 1H February laycans. Further rate cuts seem unlikely in USG, as tonnage list for mid-February laycans looks somewhat shorter.
 
-In the Black and Mediterranean Seas, the situation will largely depend on further developments and tensions in the Red Sea. In case of aggravation, front-haul rates
+In the Black and Mediterranean Seas, the situation will largely depend on further developments and tensions in the Red Sea. In case of aggravation, front-haul rates will most likely continue to grow, while transatlantic and inter-Med levels will stay at the bottom. Speaking about future market activity as a whole, ISM cannot share much optimism, as demand for Black Sea corn and wheat, remains low despite the price decrease, while there are no preconditions for brisker shipments of other cargoes. Only sales of Turkish rebar have perked up slightly, while demand for North African urea has by contrast decreased again.
 
-will most likely continue to grow, while transatlantic and inter-Med levels will stay at the bottom. Speaking about future market activity as a whole, ISM cannot share much optimism, as demand for Black Sea corn and wheat, remains low despite the price decrease, while there are no preconditions for brisker shipments of other cargoes. Only sales of Turkish rebar have perked up slightly, while demand for North African urea has by contrast decreased again.
-
-In the short term, owners will most likely be insisting on further rate growth in North Europe, but this upturn
-
-can hardly be achieved without the resumption of active purchases of European scrap by Turkish importers.
+In the short term, owners will most likely be insisting on further rate growth in North Europe, but this upturn can hardly be achieved without the resumption of active purchases of European scrap by Turkish importers.
 
 In Asia, current improvements seen by Supramax owners are most likely positional, being largely caused by positive trends of the Panamax market, as well as the growth of the FFA segment. The uptrend will hardly continue in the basin without a significant increase in cargo traffic from SE Asia, for which few preconditions can be seen these days.
 

@@ -138,9 +138,7 @@ The dry bulk market strengthened overall this week, led by firmer sentiment in t
 
 The Capesize sector recorded a notably stronger performance, with owners gaining leverage as available tonnage became increasingly limited and cargo volumes remained healthy. The Pacific was initially steady rather than dynamic, supported by regular iron ore enquiry, before activity improved midweek. However, charterers pushed back later in the week as activity briefly slowed. The main support came from Brazil and West Africa to China, where an active fixing programme quickly cleared nearby ships and created a tighter position list for early June dates. This helped lift confidence across the market. The North Atlantic also improved, driven by fresh transatlantic business and fewer open vessels.
 
-Panamaxes continued to move positively, with both basins supported by tightening supply and consistent demand. In the Atlantic-
-
-tic, firm owner expectations were underpinned by strong fronthaul interest, ongoing grain shipments from South America, and a gradual recovery in mineral cargoes. Transatlantic trade was quieter but remained steady. In the Pacific, Indonesian and Australian mineral flows, together with better North Pacific grain demand, kept the market well supported despite some late-week caution.
+Panamaxes continued to move positively, with both basins supported by tightening supply and consistent demand. In the Atlantic-tic, firm owner expectations were underpinned by strong fronthaul interest, ongoing grain shipments from South America, and a gradual recovery in mineral cargoes. Transatlantic trade was quieter but remained steady. In the Pacific, Indonesian and Australian mineral flows, together with better North Pacific grain demand, kept the market well supported despite some late-week caution.
 
 Ultramax and Supramax conditions were broadly stable, with limited movement. The Atlantic was relatively quiet, partly due to holidays, while US Gulf held mostly steady. South America showed some fronthaul interest, and Asia remained the firmer region, supported by better enquiry and steady regional demand.
 

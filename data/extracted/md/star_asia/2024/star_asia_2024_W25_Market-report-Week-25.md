@@ -254,13 +254,9 @@ Anchorage & Beaching Position (June 2024)
 
 Chattogram, Bangladesh
 
-It was a quiet week in Bangladesh following the Eid holidays on Monday with a lack of
-
-activity across. Sentiments seem uncertain with many reporting a lack of tonnage these
+It was a quiet week in Bangladesh following the Eid holidays on Monday with a lack of activity across. Sentiments seem uncertain with many reporting a lack of tonnage these past few weeks. Certainly, the recent budget has played an impact on the outlook with worries over allocation of budget and possible spillover restrictions on issuances of LCs. Meanwhile, on a positive note, this week, BSRM, Bangladesh's leading steel manufacturer, is set to launch a US$217 million plant in Chattogram's Mirsarai by mid-2024. The new facility will boost the company's annual production capacity by 800,000 tons, increasing its market share from 23% to 34%. This expansion, partly funded by a US$50 million JICA loan for green industrialisation, will create about 1,000 jobs and reduce dependency on steel wire imports. The project showcases BSRM's commitment to environmental sustainability, featuring zero-emission technologies, water recycling systems, and plans for solar power integration. With this addition, BSRM's total production capacity will reach 2.4 million tons annually, solidifying its position in Bangladesh's growing steel industry. This expansion aligns with Bangladesh's steel sector growth, which produces 7-7.5 million tons annually, serving both domestic and export markets.
 
 ## Page 15
-
-past few weeks. Certainly, the recent budget has played an impact on the outlook with worries over allocation of budget and possible spillover restrictions on issuances of LCs. Meanwhile, on a positive note, this week, BSRM, Bangladesh's leading steel manufacturer, is set to launch a US$217 million plant in Chattogram's Mirsarai by mid-2024. The new facility will boost the company's annual production capacity by 800,000 tons, increasing its market share from 23% to 34%. This expansion, partly funded by a US$50 million JICA loan for green industrialisation, will create about 1,000 jobs and reduce dependency on steel wire imports. The project showcases BSRM's commitment to environmental sustainability, featuring zero-emission technologies, water recycling systems, and plans for solar power integration. With this addition, BSRM's total production capacity will reach 2.4 million tons annually, solidifying its position in Bangladesh's growing steel industry. This expansion aligns with Bangladesh's steel sector growth, which produces 7-7.5 million tons annually, serving both domestic and export markets.
 
 Anchorage & Beaching Position (June 2024)
 

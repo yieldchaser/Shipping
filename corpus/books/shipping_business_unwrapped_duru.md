@@ -180,9 +180,7 @@ have too few resources to help them prepare for the challenges of managing a
 vessel, much less a fleet.
 
 The classical view of economics assumed that people in a given profession
-are rational actors. Despite the challenges and critiques of other scholars,
-
-mainstream economists still maintain this view. They argue that while there
+are rational actors. Despite the challenges and critiques of other scholars, mainstream economists still maintain this view. They argue that while there
 may be some irrational decision-makers, such outliers will not determine the
 outcome of the whole and that the cumulative decisions of the marketplace will
 result in a rational outcome. Such people are assumed to be profit-maximizing
@@ -223,9 +221,7 @@ If the Great Recession taught us anything, it is that we still have a very long
 way to go in understanding the complicated relationship between collective
 market trends and individual human behavior. While financial analysts use
 predictive algorithms to forecast changes in markets, they may do so without
-ever verifying the reliability of the data they use for the calculation. Veteran
-
-practitioners in the field may believe they use only facts to inform their decisions yet be totally unaware of the illusory nature of the information they rely
+ever verifying the reliability of the data they use for the calculation. Veteran practitioners in the field may believe they use only facts to inform their decisions yet be totally unaware of the illusory nature of the information they rely
 on. Newcomers to a market may follow the guidance of 'the experts,' ignorant
 of the fact that the experts adhere to practices that are no longer valid.
 
@@ -269,9 +265,7 @@ pluralism. In addition to the institutional and behavioral focus, some chapters
 will shed light on practical solutions and developments.
 
 It is my hope that by demonstrating how our human nature affects our
-economic decisions in the shipping business, I will enable you to examine
-
-your actions more critically and use better judgment as well as providing the
+economic decisions in the shipping business, I will enable you to examine your actions more critically and use better judgment as well as providing the
 necessary awareness and the new conceptual apparatus to succeed in the
 shipping business.
 
@@ -320,9 +314,7 @@ industry, there is an academic barrier between what we find and what is
 meaningful to people in everyday situations.
 
 The behavioral economics of shipping may fill the gap between practical
-knowledge and academic theory. It serves as a checkpoint to help decision-
-
-makers see the illusory information, fallacies, and, most importantly, cognitive
+knowledge and academic theory. It serves as a checkpoint to help decision-makers see the illusory information, fallacies, and, most importantly, cognitive
 biases in the shipping business.
 
 In the neoclassical economic model, humans are rational actors who collect all
@@ -365,9 +357,7 @@ at supermarkets, electronics stores, real estate offices, shopping malls, and so
 on; that is, consumer demand in the retail market. Rose George summarized
 the size of the maritime transportation industry in the title of her fascinating
 book Ninety Percent of Everything (2013). Much of the world population is
-unaware of how most of their goods, serving their daily needs, are made
-
-possible by this industry. Nevertheless, our purchasing trends directly result in
+unaware of how most of their goods, serving their daily needs, are made possible by this industry. Nevertheless, our purchasing trends directly result in
 higher or lower shipping activity.
 
 Think about an automobile. Its steel structure depends on timely shipments
@@ -505,9 +495,7 @@ but it at least gives us an indication of the current state of the market.
 Another major market in the shipping industry is the sale and purchase
 market (also referred to as the S&P market or the secondhand market). As is
 frequently said in the business, asset play is one of the major motives of the
-industry (for many, it is the sole objective). Therefore, in the S&P market,
-
-managing investment timing and shrewdly managing assets is crucial. Shipowners should simultaneously investigate opportunities in the freight market
+industry (for many, it is the sole objective). Therefore, in the S&P market, managing investment timing and shrewdly managing assets is crucial. Shipowners should simultaneously investigate opportunities in the freight market
 and S&P market to find a way to survive in this risky and volatile industry.
 S&P brokers are the intermediaries for the market, and their work is somewhat different from freight market brokers. In part because the value of a
 transaction is much more than that of a charter party and in part because
@@ -552,9 +540,7 @@ not wholly inferior, but it does need some adjustment to more accurately reflect
 the reality of what goes on in everyday business and even in our own minds.
 
 Sections of our brain play a significant role in controlling how we collect and
-process information, as well as the decisions we execute based on that knowledge. The studies of neuroeconomics, neurofinance, and neuromarketing were
-
-all born from examining the intersection of neuroscience and the other fields,
+process information, as well as the decisions we execute based on that knowledge. The studies of neuroeconomics, neurofinance, and neuromarketing were all born from examining the intersection of neuroscience and the other fields,
 respectively. By the same token, the intersection of psychology and economics
 led to the study of behavioral economics.
 
@@ -833,9 +819,7 @@ low as when flipping a coin.
 
 Adoption of the ton-mile metric in maritime economics
 
-Considering the maritime economics literature, the most cited scholarly publication utilizing the ton-mile metric was written by Tinbergen (1934). It is
-
-obvious that Tinbergen's work has made a significant impact in the field,
+Considering the maritime economics literature, the most cited scholarly publication utilizing the ton-mile metric was written by Tinbergen (1934). It is obvious that Tinbergen's work has made a significant impact in the field,
 which did not exist beforehand. The persuasive power of Tinbergen is inevitable. He is known as one of the fathers of modern econometrics and was also
 the first Nobel Laureate (originally Bank of Sweden Prize in Economics). If
 we review a little bit of the background of early developments in economics, it
@@ -1060,9 +1044,7 @@ eating a fine meal at a very expensive restaurant and then discovered that we
 had forgotten our wallet at home.
 
 Greed and fear are two of the most popular topics in neuroeconomics. The
-amygdala, part of the neural system found at the base of the brain, governs
-
-most of our emotional responses. Such emotions can affect or even determine
+amygdala, part of the neural system found at the base of the brain, governs most of our emotional responses. Such emotions can affect or even determine
 our reactions to certain situations (aka an amygdala hijack; Goleman, 1998).
 If you want to survive and thrive in the shipping industry, you need to
 understand how your emotional center works and affects your decisionmaking abilities.
@@ -1283,9 +1265,7 @@ some exclusive knowledge; that is, the information not shared in these reports.
 New building contracts
 
 In the new building section of shipping reports, you can usually find a
-list of new building contracts fixed during the reporting period, similar
-
-to the fixtures in the freight market. It includes the names of the shipowner and shipyard, the type and tonnage of the prospective ship, and
+list of new building contracts fixed during the reporting period, similar to the fixtures in the freight market. It includes the names of the shipowner and shipyard, the type and tonnage of the prospective ship, and
 its contracted price. At first glance, the data may seem intact, leading us
 to believe the report does its job. However, our work is not finished yet.
 To truly understand, we must examine the nature of new building
@@ -1333,9 +1313,7 @@ The calculation for such is something like the following:
 
 Operating income (time charter equivalent basis, or TCE)
 −Operating expenses, or OPEX (fixed costs, including wages)
-−Capital expenses, or CAPEX (loan amortization, including interest
-
-and principal payments)
+−Capital expenses, or CAPEX (loan amortization, including interest and principal payments)
 --------------------------------------------------------------
 = Earnings before tax and depreciation, or EBTD
 
@@ -1485,9 +1463,7 @@ wants to know what stage of the business cycle we are currently in and
 where it is going. Once we have proper answers to these questions, it is not
 difficult to define strategies. Although it is not easy to pinpoint the state of
 the market, some experts can show you roughly where it is at. This is an
-example of asymmetric information and why some companies have exclusive
-
-contracts with shipping consultants. Effective asset play requires asymmetric
+example of asymmetric information and why some companies have exclusive contracts with shipping consultants. Effective asset play requires asymmetric
 information.
 
 Fear professional advice
@@ -1532,9 +1508,7 @@ Your instructor presumably knows much more than you, which is why they
 offer the seminar, lecture, workshop, etc. in the first place. You do not know
 what exactly will be offered. You just know what the title is. You cannot be
 sure that all the practical knowledge you need will be provided. If you want to
-learn about shipping finance, you could find a relevant course with a name
-
-that makes you assume you will learn what you need--but you cannot know
+learn about shipping finance, you could find a relevant course with a name that makes you assume you will learn what you need--but you cannot know
 with certainty until you take the course. A detailed course description may be
 provided, but it can only give you a degree of confidence.
 
@@ -1591,9 +1565,7 @@ Andrew Lo, a professor at MIT, composed an academic paper reviewing
 the links between topics in neuroeconomics and our finances (Lo, 2011). He
 addressed two major drivers of our irrational natures: fear and greed. We
 know that these two emotions play a part in our decisions, but what Professor
-Lo presented is the connection between neuroscience and endocrinology. It
-
-seems that fear, sex, money matters, risk, gambling, and some other functions
+Lo presented is the connection between neuroscience and endocrinology. It seems that fear, sex, money matters, risk, gambling, and some other functions
 of our daily lives are closely related and influenced by the same sections of the
 limbic system (particularly the amygdala) and similar hormonal steroids.1
 
@@ -1634,9 +1606,7 @@ primers to help us make better decisions in terms of neuroeconomics.
 Rational actors, emotions, and blink
 
 Medical research rejects the orthodox doctrine of classical economics. That
-is, there is no such thing as rational actors (or 'econs'). We are all human
-
-beings, replete with emotions and neurologic backgrounds. Our respective
+is, there is no such thing as rational actors (or 'econs'). We are all human beings, replete with emotions and neurologic backgrounds. Our respective
 levels of dopamine can easily change our perceptions of risk. When they
 do, we do not care so much about rational decisions. Without emotions,
 our econometric models would work much better. Then again, maybe not.
@@ -1777,9 +1747,7 @@ services, the satisfaction of being a charterer will help them maintain their
 emotional equilibrium. Under these circumstances, there is a reason for also
 being excited in low freight rates: shipping costs are very low. Being solely a
 shipowner can lead to faulty reasoning and imbalance of business operations.
-Long-term collaboration between charterers and shipowners creates a more
-
-rational and sustainable basis for remaining clear-headed. Unfortunately, the
+Long-term collaboration between charterers and shipowners creates a more rational and sustainable basis for remaining clear-headed. Unfortunately, the
 common practice today is for one side to win at the other's expense. Charterers
 are king for a while, and then shipowners reclaim the throne.
 
@@ -1944,9 +1912,7 @@ lending is one recent example of the toxicity problem.
 
 We should add one more dimension to our investigation: the incentives of
 the lenders. If we ignore the drivers of the banking system, most of the picture
-will be out of focus. Banking is a profit-making business. Banks provide a link
-
-between the capital surplus and the capital deficit. In other words, they collect
+will be out of focus. Banking is a profit-making business. Banks provide a link between the capital surplus and the capital deficit. In other words, they collect
 capital under certain obligations (an interest payback) and resell the capital to
 borrowers under certain obligations. Some institutions actually apply for
 cheaper funding from some lenders (e.g. larger banks, pension funds, etc.) and
@@ -1990,9 +1956,7 @@ On the other hand, shipowners still tend to have a high leverage ratio (over
 while bad asset play can wipe out the investment. A bulky shipping portfolio
 is usually created at the peak of shipping markets. Shipyards are well utilized
 and even set for several years. The volume of sale and purchase activities
-increases rapidly, and optimism attracts newcomers into the industry. Most of
-
-the newcomers are inexperienced, and their intermediaries tend to draw a
+increases rapidly, and optimism attracts newcomers into the industry. Most of the newcomers are inexperienced, and their intermediaries tend to draw a
 bright picture about the business (i.e. about their commission incentive).
 
 Bullwhip effect
@@ -2258,9 +2222,7 @@ Moody's, posted the following announcement:
 
 Moody's Investors Service has today placed on review for downgrade the
 Aa1 ratings assigned to the public-sector Pfandbriefe (public-sector covered bonds) and the Baa1 ratings assigned to the ship Pfandbriefe (ship
-covered bonds) issued by HSH Nordbank AG (HSH or the issuer), which
-
-are governed by the German Pfandbrief Act. On 16 December 2011,
+covered bonds) issued by HSH Nordbank AG (HSH or the issuer), which are governed by the German Pfandbrief Act. On 16 December 2011,
 both covered bonds were downgraded to Aa1 and Baa1 respectively.
 
 The ratings of HSH's mortgage Pfandbriefe, which are currently on
@@ -2306,9 +2268,7 @@ simple. Rather than benefiting from hindsight, one should dissect the case
 through each of the components and all the legal/substantial evidence to
 support arguments. Although it is difficult to uncover the whole picture and
 recognize each incidence of irregularity, we must look beyond the banking
-industry and shipping firms and investigate the systemic as well as the psychological nature of financial meltdown since the global subprime mortgage
-
-crisis. The ship mortgage crisis is understood to be a well-hidden banking
+industry and shipping firms and investigate the systemic as well as the psychological nature of financial meltdown since the global subprime mortgage crisis. The ship mortgage crisis is understood to be a well-hidden banking
 failure in the shipping business through some system-produced standards such
 as ship valuation models.
 
@@ -2361,9 +2321,7 @@ A% Interest
 
 Loan
 
-Interest difference
-
-as profit
+Interest difference as profit
 plus handling fees
 
 Bank
@@ -2404,9 +2362,7 @@ the meaning of security and the risk concerning the value of collaterals has
 attracted the attention of both financial experts and researchers. The crisis of
 2008 is usually thought to be a product of Lehman Brothers' insolvency, but
 there was actually a more fundamental issue: how to value assets when asset
-prices oscillate in a massively fluctuating market. The house valuation
-
-problem is not an issue just for the banking industry; ship valuation is the
+prices oscillate in a massively fluctuating market. The house valuation problem is not an issue just for the banking industry; ship valuation is the
 second tier of the entire valuation debate.
 
 Liquidity trap and the ship mortgage crisis
@@ -2446,9 +2402,7 @@ finance. Philippe Louis-Dreyfus described its impact as follows:
 
 Banks put pressure on the shipowners to accept money almost for free,
 and sometimes offering 100 percent financing with no equity at all. So,
-banks have played the very awkward, if not the perverse, role in
-
-proposing cheap money to shipowners who not only didn't deserve it, but
+banks have played the very awkward, if not the perverse, role in proposing cheap money to shipowners who not only didn't deserve it, but
 didn't really even want it.
 
 (In Dynasties of the Sea by Lori Ann LaRocco, 2012)
@@ -2483,9 +2437,7 @@ Minimum Value
 
 Ships: How to value ships?
 
-Liquidity
-
-etc.
+Liquidity etc.
 
 Loan
 
@@ -2551,9 +2503,7 @@ As a DCF-based valuation method, the Hamburg Ship Valuation Standard
 (HSVS)--in other words, long-term asset value (LTAV)--was developed and
 enacted in German law on May 6, 2008. The HSVS method has been used by
 German banks to eliminate massive foreclosures based on monitoring asset
-values. In the subprime mortgage crisis, defaults by subprime (risky) borrowers
-
-meant that many houses were transferred to bank ownership as these assets
+values. In the subprime mortgage crisis, defaults by subprime (risky) borrowers meant that many houses were transferred to bank ownership as these assets
 were not sufficient repay the outstanding debts due to declining house prices.
 Therefore, mortgage-backed bonds have lost their credibility, and credit default
 swap buyers (a kind of insurance for credit default) have begun to write down
@@ -2760,9 +2710,7 @@ incentivizes them to prevent problems before they arise. Thus, you create a true
 collaborative approach to your business. Get the incentives right!
 
 Second, focus on learning. Begin to study the shipping business, shipping
-economics, economic history, market trends, leaders' profiles, regulatory
-
-environment, and anything else that will inform you about the business. You
+economics, economic history, market trends, leaders' profiles, regulatory environment, and anything else that will inform you about the business. You
 cannot remain dependent on others' expertise forever.
 
 Third, you need to acquire asymmetric knowledge. Without it, you will
@@ -2857,9 +2805,7 @@ Winner's tragedy
 
 Since overconfidence is the basis for shipping in general, there is a strong
 chance of experiencing the 'winner's effect.' The typical example of the winner's
-effect is found in auctions. The winner of the auction is often simultaneously
-
-the loser, since an extremely high bid may wipe out the bidder's assets. The
+effect is found in auctions. The winner of the auction is often simultaneously the loser, since an extremely high bid may wipe out the bidder's assets. The
 major characteristic of the winner's effect is the fuzzy valuation. Firms usually
 have a maximum bidding value before an auction. However, sometimes they
 still continue to bid even when the price goes quite a bit higher than their predetermined maximum. The value of an asset is actually twofold: there is the
@@ -3051,9 +2997,7 @@ voyage-related issues are transferred to the charterer.
 
 Therefore, risk reducers tend to stay in the period market and do the same
 things every day. It is more than a little unexciting. However, the dopamine
-reward system works for risk reducers too. The difference is that it is a
-
-sustainable reward system. They will not enjoy the historically big bonuses, but
+reward system works for risk reducers too. The difference is that it is a sustainable reward system. They will not enjoy the historically big bonuses, but
 neither will they suffer the historically big penalties. They just receive a small yet
 continuous bonus. The small but repetitive dopamine drip keeps them mildly
 motivated, but without the euphoria, excitement, panic, and depression.
@@ -3361,9 +3305,7 @@ questions of scope vs. scale, and the swells of the market.
 Third-party management
 
 The history of outsourcing does not go back very far and is still not a
-common practice in our industry. However, this is a particularly appealing
-
-option for newcomers as it gives them time to master specific issues without
+common practice in our industry. However, this is a particularly appealing option for newcomers as it gives them time to master specific issues without
 having to learn everything all at once. Some third-party providers have
 aggregated services to act on behalf of their clients. Effectively, they have
 created a shipping bloc with enormous negotiating power.
@@ -3432,9 +3374,7 @@ address long-term issues?
 
 The shipping business has more dimensions and technical complexity than
 many other industries. It is not surprising that short-term thinking and the
-corresponding asset management failures are common in shipping. Company
-
-managers are required to do an almost overwhelming job, performing conventional management duties as well as struggling with the complexity of the
+corresponding asset management failures are common in shipping. Company managers are required to do an almost overwhelming job, performing conventional management duties as well as struggling with the complexity of the
 industry, including safety regulations, seafaring, legal disputes, chartering
 relationships, and moral hazards, among others. You almost have to be
 Superman to deal with it all.
@@ -3501,36 +3441,21 @@ companies since they have significant office personnel. Moreover, legal manageme
 
 ### Table 18.1 A generic organization of a shipping company
 
-1.
-Strategic Asset Management
-2.
-Financial Management
-3.
-Accounting
-4.
-Liquidity Management
-5.
-Debt Raising and Management
-6.
-Fleet Management
-7.
-Commercial Management
-8.
-Chartering
-9.
-Marketing
-10.
-Technical Management
-11.
-Ship Operation (voyage and port procedures, ship supply etc.)
-12.
-Superintendence
-13.
-Seafaring (in connection with the HRM if it exists)
-14.
-Human Resources Management (HRM) (non-onboard employees)
-15.
-Legal Management
+1. Strategic Asset Management
+2. Financial Management
+3. Accounting
+4. Liquidity Management
+5. Debt Raising and Management
+6. Fleet Management
+7. Commercial Management
+8. Chartering
+9. Marketing
+10. Technical Management
+11. Ship Operation (voyage and port procedures, ship supply etc.)
+12. Superintendence
+13. Seafaring (in connection with the HRM if it exists)
+14. Human Resources Management (HRM) (non-onboard employees)
+15. Legal Management
 
 Based on the priorities of the shipping company, a dashboard should
 visualize critical items and indicators from these departments and their
@@ -3655,9 +3580,7 @@ members still employ econometric methodologies in predictive models.
 In contrast to econometrics, computational intelligence and machine
 learning in specific has no such a long history, at least in business practice.
 Before going further, I should clarify terminology used interchangeably here.
-Artificial intelligence and computer intelligence broadly refer to the same
-
-concept. I prefer computational intelligence with its wider scope. Machine
+Artificial intelligence and computer intelligence broadly refer to the same concept. I prefer computational intelligence with its wider scope. Machine
 learning, artificial neural networks and its complex variant, deep learning, fall
 into the area of computational intelligence.
 
@@ -3701,9 +3624,7 @@ of data which is expected to have some explanatory power, then the system
 outputs a value for a projected future date. Different kinds of architectures
 can be developed and tested in a machine learning environment. In econometrics, it is very straightforward to find the impact of any particular variable and its significance. Machine learning is a completely other world and
 another way of 'extrapolating' for prediction. In this approach, some
-hidden relationships are found by a training procedure, and the final
-
-architecture is then reactivated to generate some future values by using new
+hidden relationships are found by a training procedure, and the final architecture is then reactivated to generate some future values by using new
 inputs to the system.
 
 Good and bad uses of machine learning
@@ -3780,9 +3701,7 @@ been conducted by using thousands of different data sets (economic, transport, h
 weekly, monthly, annually). One common result of the competitions is that
 the simpler models usually outperform the complex ones. For example, HoltWinters exponential smoothing works well in many of the data sets. This
 raises an impotant question: is it worth spending more for a sophisticated
-machine learning system? My answer is "it depends." If a prediction
-
-algorithm or system outperforms simpler and more conventional methodologies, it is worth investing. Otherwise, once again, it is computational garbage.
+machine learning system? My answer is "it depends." If a prediction algorithm or system outperforms simpler and more conventional methodologies, it is worth investing. Otherwise, once again, it is computational garbage.
 
 ***
 
@@ -3880,9 +3799,7 @@ solution causes a loss of credit rating for them, it is a way of transferring th
 risk. The relationship between shipowners and lenders is somewhat like
 supply and demand in economics, but there is also a give-and-take dimension
 in terms of behavioral economics. During a peak market, shipowners look for
-evidence to rationalize their actions (supported by an abundance of cash),
-
-and lenders are there, waiting to enable their decisions. Since their intention is
+evidence to rationalize their actions (supported by an abundance of cash), and lenders are there, waiting to enable their decisions. Since their intention is
 to lend, they may play into the confirmation bias by lending the shipowner
 money for whatever investment or project they have in mind. This can signal
 to the shipowner that, yes, they are making a good decision--why else would
@@ -4053,9 +3970,7 @@ discount factor usually defines whether or not a project is feasible. The size o
 the discount factor is frequently defined using a risk-free interest rate, such as
 the one provided by Treasury bills or the London InterBank Offer Rate
 (LIBOR). Since the discount factor has a serious impact on the outcome of
-an analysis, you should be aware of the dynamics behind the interest rates. I
-
-should highlight the recent LIBOR scandal due to fraudulent activities and
+an analysis, you should be aware of the dynamics behind the interest rates. I should highlight the recent LIBOR scandal due to fraudulent activities and
 manipulation of LIBOR rates. Several banks were fined due to their role in
 manipulation and submission of biased interest rates. As a consequence of the
 scandal, the U.K. Financial Conduct Authority (FCA) announced plans to
@@ -4216,9 +4131,7 @@ The seasonal flu causes deaths all over world, particularly in underdeveloped
 areas. While unfortunate, this is common. The difference between seasonal flu
 and swine flu is that the mortality statistics of the former rarely become a
 global debate. When the mortality statistics of the swine flu hit newspaper
-headlines, there was an unusually keen interest in the data. The previously
-
-little-known data became public knowledge overnight. There is a strong need
+headlines, there was an unusually keen interest in the data. The previously little-known data became public knowledge overnight. There is a strong need
 for critical and objective judgment on the selection of risk factors as well as
 the associated data regarding exposure and frequency. The recency bias works
 well in such a context. People tend to deal with current numbers. In the
@@ -4660,15 +4573,9 @@ statement without logical proof.
 
 ## References
 
-Adland, R. and Koekebakker, S., 2004. 'Market efficiency in the second-hand market
-
-for bulk ships.' Maritime Economics & Logistics, 6(1), 1-15.
-Adland, R. and Strandenes, S., 2006. 'Market efficiency in the bulk freight market
-
-revisited.' Maritime Policy & Management, 33(2), 107-117.
-Akerlof, G.A., 1978. 'The market for "lemons": Quality uncertainty and the market
-
-mechanism.' In P.A. Diamond and M. Rothschild (eds.), Uncertainty in Economics.
+Adland, R. and Koekebakker, S., 2004. 'Market efficiency in the second-hand market for bulk ships.' Maritime Economics & Logistics, 6(1), 1-15.
+Adland, R. and Strandenes, S., 2006. 'Market efficiency in the bulk freight market revisited.' Maritime Policy & Management, 33(2), 107-117.
+Akerlof, G.A., 1978. 'The market for "lemons": Quality uncertainty and the market mechanism.' In P.A. Diamond and M. Rothschild (eds.), Uncertainty in Economics.
 New York: Academic Press, pp. 235-251.
 Angier, E.A.V., 1920. Fifty Years' Freights: 1869-1919. London: Fairplay.
 Beenstock, M. and Vergottis, A., 1993. Econometric Modelling of World Shipping.
@@ -4678,43 +4585,27 @@ Benjamin, D.J., Berger, J.O., Johannesson, M., Nosek, B.A., Wagenmakers, E.J., B
 
 R., Bollen, K.A., Brembs, B., Brown, L., Camerer, C. and Cesarini, D., 2018.
 'Redefine statistical significance.' Nature Human Behaviour, 2(1), 6-10.
-Bergius, W.C., 1871. 'On the commercial economy and performance of several types of
-
-merchant steamers on some of the principal lines of steam-ship traffic.' Journal of
+Bergius, W.C., 1871. 'On the commercial economy and performance of several types of merchant steamers on some of the principal lines of steam-ship traffic.' Journal of
 the Society for Arts, 19(959), 433-434.
-Bernays, E.L., 1955. The Engineering of Consent. Norman, OK: University of Okla-
-
-homa Press.
+Bernays, E.L., 1955. The Engineering of Consent. Norman, OK: University of Okla-homa Press.
 Bouchaud, J.P., 2008. 'Economics needs a scientific revolution.' Nature, 455(7217), 1181.
 Chang, H.J., 2014. Economics: The User's Guide. New York: Bloomsbury.
-Charemza, W. and Gronicki, M., 1981. 'An econometric model of world shipping and
-
-shipbuilding.' Maritime Policy & Management, 8(1), 21-30.
-Chen, M.K., 2013. 'The effect of language on economic behavior: Evidence from sav-
-
-ings rates, health behaviors, and retirement assets.' American Economic Review,
+Charemza, W. and Gronicki, M., 1981. 'An econometric model of world shipping and shipbuilding.' Maritime Policy & Management, 8(1), 21-30.
+Chen, M.K., 2013. 'The effect of language on economic behavior: Evidence from sav-ings rates, health behaviors, and retirement assets.' American Economic Review,
 103(2), 690-731.
 Craig, R., 2003. British Tramp Shipping, 1750-1914, Research in Maritime History,
 
 No. 24. St. John's, Newfoundland: International Maritime Economic History
 Association.
-Demyanyk, Y. and Van Hemert, O., 2009. 'Understanding the subprime mortgage
-
-crisis.' The Review of Financial Studies, 24(6), 1848-1880.
-Duru, O., 2012. Economic Analysis on the Long Term Assessment of Dry Bulk Ship-
-
-ping. Doctoral dissertation, Kobe University, Japan.
-Duru, O., 2013. 'Irrational exuberance, overconfidence and short-termism: Knowl-
-
-edge-to-action asymmetry in shipping asset management.' The Asian Journal of
+Demyanyk, Y. and Van Hemert, O., 2009. 'Understanding the subprime mortgage crisis.' The Review of Financial Studies, 24(6), 1848-1880.
+Duru, O., 2012. Economic Analysis on the Long Term Assessment of Dry Bulk Ship-ping. Doctoral dissertation, Kobe University, Japan.
+Duru, O., 2013. 'Irrational exuberance, overconfidence and short-termism: Knowl-edge-to-action asymmetry in shipping asset management.' The Asian Journal of
 Shipping & Logistics, 29(1), 43-58.
 
 Duru, O., 2014. 'Motivations behind irrationality in the shipping asset management:
 
 Assumptions drive investors.' The Conference of International Association of Maritime Economists, Norfolk, VA.
-Duru, O., 2017. 'The origin and consistency of the ton-mile metric in the shipping
-
-economics.' Logistics, 1(1). doi:10.3390/logistics1010003.
+Duru, O., 2017. 'The origin and consistency of the ton-mile metric in the shipping economics.' Logistics, 1(1). doi:10.3390/logistics1010003.
 Duru, O. and Yoshida, S., 2011. 'Long term freight market index and inferences.' The
 
 Asian Journal of Shipping and Logistics, 27(3), 405-421.
@@ -4730,22 +4621,14 @@ Forrester, J., 1961. Industrial Dynamics. Waltham: Pegasus Communications.
 Fox, N.R., 1994. 'An oligopoly model of ocean liner shipping.' Review of Industrial
 
 Organization, 9(3), 343-355.
-George, R., 2013. Ninety Percent of Everything: Inside Shipping, the Invisible Industry
-
-that Puts Clothes on Your Back, Gas in Your Car, and Food on Your Plate. New
+George, R., 2013. Ninety Percent of Everything: Inside Shipping, the Invisible Industry that Puts Clothes on Your Back, Gas in Your Car, and Food on Your Plate. New
 York: Metropolitan.
-Gerlach, M.L., 1992. Alliance Capitalism: The Social Organization of Japanese Busi-
-
-ness. Berkley, CA: University of California Press.
+Gerlach, M.L., 1992. Alliance Capitalism: The Social Organization of Japanese Busi-ness. Berkley, CA: University of California Press.
 Gladwell, M., 2007. Blink: The Power of Thinking Without Thinking. New York: Back
 
 Bay Books.
-Glen, D.R., 1997. 'The market for second-hand ships: Further results on efficiency
-
-using cointegration analysis.' Maritime Policy and Management, 24(3), 245-260.
-Glen, D. and Martin, B., 2002. 'The tanker market: Current structure and economic
-
-analysis.' In C. Grammenos (ed.), The Handbook of Maritime Economics and Business. London: Lloyd's List, pp. 251-279.
+Glen, D.R., 1997. 'The market for second-hand ships: Further results on efficiency using cointegration analysis.' Maritime Policy and Management, 24(3), 245-260.
+Glen, D. and Martin, B., 2002. 'The tanker market: Current structure and economic analysis.' In C. Grammenos (ed.), The Handbook of Maritime Economics and Business. London: Lloyd's List, pp. 251-279.
 Goleman, D., 1998. 'The emotional intelligence of leaders.' Leader to Leader, 1998
 
 (10), 20-26.
@@ -4761,9 +4644,7 @@ International Monetary Fund, 2014. Article IV Consultation--StaffReport; Press
 Release; And Statement By The Executive Director For Germany, IMF Country
 Report No. 14/216, July 21. Washington, DC: IMF.
 Kahneman, D., 2011. Thinking, Fast and Slow. London: Allen Lane.
-Koekebakker, S. and Ådland, R., 2004. 'Modelling forward freight rate dynamics--
-
-empirical evidence from time charter rates.' Maritime Policy & Management, 31(4),
+Koekebakker, S. and Ådland, R., 2004. 'Modelling forward freight rate dynamics--empirical evidence from time charter rates.' Maritime Policy & Management, 31(4),
 319-335.
 Koekebakker, S., Adland, R. and Sødal, S., 2006. 'Are spot freight rates stationary?'
 
@@ -4775,13 +4656,9 @@ LaRocco, L.A., 2012. Dynasties of the Sea: The Shipowners and Financiers Who
 
 Expanded the Era of Free Trade. Stamford, CT: Marine Money Inc.
 
-Laverty, K.J., 1996. 'Economic "short-termism": The debate, the unresolved issues, and
-
-the implications for management practice and research.' Academy of Management
+Laverty, K.J., 1996. 'Economic "short-termism": The debate, the unresolved issues, and the implications for management practice and research.' Academy of Management
 Review, 21(3), 825-860.
-Lo, A.W., 2011. Fear, Greed, and Financial Crises: A Cognitive Neurosciences Per-
-
-spective, October 13. Available at SSRN: http://dx.doi.org/10.2139/ssrn.1943325.
+Lo, A.W., 2011. Fear, Greed, and Financial Crises: A Cognitive Neurosciences Per-spective, October 13. Available at SSRN: http://dx.doi.org/10.2139/ssrn.1943325.
 Lo, A.W., 2017. Adaptive Markets: Financial Evolution at the Speed of Thought. Princeton,
 
 NJ: Princeton University Press.
@@ -4807,22 +4684,16 @@ Journal of Economic History, 18(4), 537-555.
 Paine, L., 2014. The Sea and Civilization: A Maritime History of the World. London:
 
 Atlantic Books.
-Phelps Brown, H. and Hopkins, S.V., 1962. 'Seven centuries of prices of consumables,
-
-compared with builders' wage rates.' In E.M. Carus-Wilson (ed.), Essays in Economic History, II. London: Edward Arnold, pp. 179-196.
+Phelps Brown, H. and Hopkins, S.V., 1962. 'Seven centuries of prices of consumables, compared with builders' wage rates.' In E.M. Carus-Wilson (ed.), Essays in Economic History, II. London: Edward Arnold, pp. 179-196.
 Porter, M.E. (1980) Competitive Strategy, Techniques for Analysing Industries and
 
 Competitors. New York: Free Press.
-'Rationalization (psychology)', 2018. Wikipedia. Available at https://en.wikipedia.org/
-
-wiki/Rationalization_(psychology) (Accessed: 15 April 2018).
+'Rationalization (psychology)', 2018. Wikipedia. Available at https://en.wikipedia.org/ wiki/Rationalization_(psychology) (Accessed: 15 April 2018).
 Reinhart, C.M. and Rogoff, K.S., 2009. This Time is Different: Eight Centuries of
 
 Financial Folly. Princeton, NJ: Princeton University Press.
 Russell, B., 2001. The Problems of Philosophy. Oxford, Oxford University Press.
-Sager, E.W. and Fischer, L.R., 1979. 'Patterns of investment in the shipping industries
-
-of Atlantic Canada, 1820-1900.' Acadiensis, 9(1), 19-43.
+Sager, E.W. and Fischer, L.R., 1979. 'Patterns of investment in the shipping industries of Atlantic Canada, 1820-1900.' Acadiensis, 9(1), 19-43.
 Sawers, L., 1992. 'The Navigation Acts revisited.' The Economic History Review, 45(2),
 
 262-284.
@@ -4830,12 +4701,8 @@ Stanley, H.E., Amaral, L.A., Gabaix, X., Gopikrishnan, P. and Plerou, V., 2001.
 
 'Similarities and differences between physics and economics.' Physica A: Statistical
 Mechanics and its Applications, 299(1-2), 1-15.
-Stiglitz, J.E., 2009. 'The anatomy of a murder: Who killed America's economy?' Cri-
-
-tical Review, 21(2-3), 329-339.
-Stiglitz, J.E. and Weiss, A., 1981. 'Credit rationing in markets with imperfect infor-
-
-mation.' The American Economic Review, 71(3), 393-410.
+Stiglitz, J.E., 2009. 'The anatomy of a murder: Who killed America's economy?' Cri-tical Review, 21(2-3), 329-339.
+Stiglitz, J.E. and Weiss, A., 1981. 'Credit rationing in markets with imperfect infor-mation.' The American Economic Review, 71(3), 393-410.
 Stopford, M., 2009. Maritime Economics. London: Routledge.
 Sutcliffe, R.K., 2016. British Expeditionary Warfare and the Defeat of Napoleon,
 
@@ -4851,9 +4718,7 @@ Jan Tinbergen--Selected Papers. Amsterdam: North Holland.)
 Triana, P., 2011. The Number that Killed Us: A Story of Modern Banking, Flawed
 
 Mathematics, and a Big Financial Crisis. Hoboken, NJ: John Wiley & Sons.
-Tvedt, J., 2003. 'Shipping market models and the specification of freight rate pro-
-
-cesses.' Maritime Economics & Logistics, 5(4), 327-346.
+Tvedt, J., 2003. 'Shipping market models and the specification of freight rate pro-cesses.' Maritime Economics & Logistics, 5(4), 327-346.
 Veenstra, A.W., 1999. 'The term structure of ocean freight rates.' Maritime Policy &
 
 Management, 26(3), 279-293.
@@ -4861,9 +4726,7 @@ Walras, L., 1874. Eléments d'économie politique pure ou théorie de la richess
 
 (Elements of pure economics, or the theory of social wealth). Lausanne and Paris:
 L. Corbaz.
-Wasserstein, R.L. and Lazar, N.A., 2016. 'The ASA's statement on p-values: Context,
-
-process, and purpose.' The American Statistician, 70(2), 129-133.
+Wasserstein, R.L. and Lazar, N.A., 2016. 'The ASA's statement on p-values: Context, process, and purpose.' The American Statistician, 70(2), 129-133.
 Woodlock, T.F., 1899. Ton-Mile Cost. New York: Dow Jones & Co.
 Yasuba, Y., 1978. 'Freight rates and productivity in ocean transportation for Japan,
 1875-1943.' Explorations in Economic History, 15(1), 11-39.

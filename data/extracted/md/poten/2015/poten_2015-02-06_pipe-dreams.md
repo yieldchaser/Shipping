@@ -24,15 +24,13 @@ Another significant pipeline project was the expansion of the Eastern Siberia Pa
 
 In the Middle East, discussions have been ongoing about an ambitious 1,000 mile crude oil and gas pipeline from Basra in Iraq to Aqaba, a Jordanian port city in the Red Sea. The planned capacity of this pipeline is one million b/d. Geopolitical unrest, in combination with current low oil prices has cast serious doubts on the viability of this US$18 billion project.
 
-Most of the global oil pipeline activity is currently centred in North America where oil and transportation companies have been scrambling to develop infrastructure projects to bring growing shale oil, oil sands and conventional crude to markets and replace more expensive rail transportation. Several of these
+Most of the global oil pipeline activity is currently centred in North America where oil and transportation companies have been scrambling to develop infrastructure projects to bring growing shale oil, oil sands and conventional crude to markets and replace more expensive rail transportation. Several of these projects could have a positive impact on the international tanker markets as they would facilitate exports of Canadian crude. These projects include the 525,000 b/d Northern Gateway pipeline which would bring crude to Kitimat, a planned VLCC port on the West Coast of Canada, and the 1.1 million b/d Energy East project which would transport crude to Canada’s east coast. However, none of the major pipelines In North America have been approved yet and further delays are likely as all of these projects face significant domestic opposition.
 
 *Chart: Fig. 1: Myanmar – China Pipeline*
 
 *Chart*
 
 *Source: CAPP*
-
-projects could have a positive impact on the international tanker markets as they would facilitate exports of Canadian crude. These projects include the 525,000 b/d Northern Gateway pipeline which would bring crude to Kitimat, a planned VLCC port on the West Coast of Canada, and the 1.1 million b/d Energy East project which would transport crude to Canada’s east coast. However, none of the major pipelines In North America have been approved yet and further delays are likely as all of these projects face significant domestic opposition.
 
 While there are other pipelines on the drawing board, most of these are just in the planning stage. Therefore, it is unlikely that new pipelines will have a significant impact on the tanker market in the short to medium term.
 

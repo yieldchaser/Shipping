@@ -39,9 +39,7 @@ China’s coal trade accounts for circa 20% of the total dry bulk tonne-miles. I
 
 In 2023, global seaborne coal volumes grew by 6.7% y-o-y to hit 1,347 mln mt. Data from AXSMarine show that China’s total coal imports surged by 34% in 2023. Furthermore, so far in 2024, China’s share of global coal imports stands at 31% compared to 21% in 2020. This demonstrates the increasing importance of China’s energy demand as a driver for the bulk market.
 
-There are indicators that coal is on its way out the door. Over the past few months, coal burning at Chinese utilities in its coastal provinces, which mainly run on imports. Moreover, Reuters reports that, this year, the power grid is on track to reduce coal's share in China’s annual electricity generation to
-
-below 60% for the first time. If achieved, this will be a milestone in its efforts to transition away from fossil fuels.
+There are indicators that coal is on its way out the door. Over the past few months, coal burning at Chinese utilities in its coastal provinces, which mainly run on imports. Moreover, Reuters reports that, this year, the power grid is on track to reduce coal's share in China’s annual electricity generation to below 60% for the first time. If achieved, this will be a milestone in its efforts to transition away from fossil fuels.
 
 ![Στιγμιότυπο Οθόνης 2024 11 29 121659](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-29_gxmb3m27vo7uqrw5tu0wyqvtzkopls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3d8067b34474.png)
 

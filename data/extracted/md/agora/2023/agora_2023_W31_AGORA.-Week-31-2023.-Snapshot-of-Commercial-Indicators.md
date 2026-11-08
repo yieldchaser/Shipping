@@ -17,161 +17,33 @@ convention read off this page: anchor rows (EU votes 9, US votes 0)
 
 _no data table on this page_
 
-SNAPSHOT
-OF
-COMMERCIAL
-INDICATORS
-Week
-31/
-2023
-3rd
-(Reference
-point
-July.2023)
-“To
-escape
-and
-sit
-quietly
-on
-the
-beach—that’s
-my
-idea
-of
-paradise.”
-Emilia
-Wickstead,
-fashion
-designer
-based
-in
-London.
+SNAPSHOT OF
+COMMERCIAL INDICATORS
+
+Week 31/ 2023
+
+(Reference point 3rd July.2023)
+
+“To escape and sit quietly on the beach—that’s my idea of paradise.”
+
+Emilia Wickstead, fashion designer based in London.
+
 (1983)
-Introductory
-Note:
-We
-consider
-the
-herein
-indicators
-valuable
-in
-decision
-making
-since
-shipping
-is
-a
-derived
-demand
-industry
-with
-many
-financial
-interactions.
-Turbulent
-global
-macro/micro-climate
-involving
-stock
-markets,
-currency
-exchanges
-and
-opportunity
-cost
-for
-alternative
-investments
-affect
-the
-shipping
-market.
-In
-the
-previous
-years,
-as
-brokers
-we
-always
-faced
-the
-fact
-that
-the
-information
-that
-we
-wanted
-to
-combine
-with
-our
-gut
-feeling
-was
-never
-available
-at
-our
-finger
-tips.
-This
-is
-our
-small
-contribution
-to
-yours
-and
-our
-business.
-AGORA
-SHIPBROKING
-CORPORATION
-Piraeus
-Office
-|
-46,
-Filonos
-Str.
-|
-Piraeus
-|
-18535
-|
-Greece
-|
-Tel:
-+30
-210
-41.10.888
-London
-Office
-|
-85,
-Great
-Portland
-Str.
-|
-London
-|
-W1W
-7LT
-|
-United
-Kingdom
-|
-Tel:
-+44
-(0)208
-144
-6868
+Introductory Note:
+
+We consider the herein indicators valuable in decision making since shipping is a derived demand industry with many financial interactions. Turbulent global
+macro/micro-climate involving stock markets, currency exchanges and opportunity cost for alternative investments affect the shipping market. In the previous
+years, as brokers we always faced the fact that the information that we wanted to combine with our gut feeling was never available at our finger tips.
+
+This is our small contribution to yours and our business.
+
+AGORA SHIPBROKING CORPORATION
+Piraeus Office | 46, Filonos Str. | Piraeus | 18535 | Greece | Tel: +30 210 41.10.888
+London Office | 85, Great Portland Str. | London | W1W 7LT | United Kingdom | Tel: +44 (0)208 144 6868
+
 www.agoraships.com
-Disclaimer:Thehistoricaldataprovidedhereinaredisplayedforinformationpurposesonly.Anyusethereofisthereforeattheuser'sownrisk.
-Whilsteverycarehasbeentakeninthepreparationofthisreport,noliabilitycanbeacceptedforanylossincurredinanywaywhatsoeverbyanypersonrelyingontheinformationcontainedherein.
+Disclaimer: The historical data provided herein are displayed for information purposes only. Any use thereof is therefore at the user's own risk.
+Whilst every care has been taken in the preparation of this report, no liability can be accepted for any loss incurred in any way whatsoever by any person relying on the information contained herein.
 
 ## Page 2
 
@@ -268,84 +140,31 @@ Whilsteverycarehasbeentakeninthepreparationofthisreport,noliabilitycanbeaccepted
 
 _no data table on this page_
 
-Notes:
-1.
-CrudeOil-U.S.DollarsandCentsperbarrel(contractof1,000barrels,1barrel=42us
-gallons=158.98litres=0.13642565metrictons)
-2.
-Brent-U.S.DollarsandCentsperbarrel(contractof1,000barrels,1barrel=42usgallons=
-158.98litres=0.13642565metrictons)
-3.
-GasOil-U.S.DollarsandCentsperMetricTonne(contractof100MetricTonnes)(10ppmdiesel,atadensityof0.845kg/litreinvacuumat15Celsius)
-4.
-RBOBGasoline-U.S.DollarsandCentsperusgallon(contractof42,000usgallons=136.42metrictonnes)
-5.
-NaturalGas-U.S.DollarsandCentsper1millionBTU(contractof10,000millionBritishThermalUnit)
-6.
-Wheat-Centsperbushel(contractof5,000bushels~136MetricTons)
-7.
-Corn-Centsperbushel(contractof5,000bushels~127MetricTons)
-8.
-Ricerough-U.S.DollarsandCentshundredweight(contractof2,000hundredweights~91MetricTons)
-9.
-Soybeans-Centsperbushel(contractof5,000bushels~136MetricTonnes)
-10.
-SoybeanMeal-U.S.DollarsandCentspershortton(contractof100shorttons~91MetricTonnes)
-11.
-Sugar#11-U.S.DollarsandCentsperpound(contractof112,000pounds=50.8023MetricTonnes)
-12.
-Gold-U.S.DollarsandCentspertroyounce(contractof100troyounces,1troyounce=31,1034grams)
-13.
-Silver-U.S.DollarsandCentspertroyounce(contractof5.000troyounces,1troyounce=31,1034grams)
-14.
-Copper-U.S.DollarsandCentspermetrictonne,
-3monthsBuyer’sprice(contractof25metrictonnes)
-15.
-Aluminium-U.S.DollarsandCentspermetrictonne,3monthsBuyer’sprice(contractof25metrictonnes)
-AGORA
-SHIPBROKING
-CORPORATION
-Piraeus
-Office
-|
-46,
-Filonos
-Str.
-|
-Piraeus
-|
-18535
-|
-Greece
-|
-Tel:
-+30
-210
-41.10.888
-London
-Office
-|
-85,
-Great
-Portland
-Str.
-|
-London
-|
-W1W
-7LT
-|
-United
-Kingdom
-|
-Tel:
-+44
-(0)208
-144
-6868
+Notes :
+
+1. Crude Oil - U.S. Dollars and Cents per barrel (contract of 1,000 barrels, 1 barrel = 42 us gallons =158.98litres = 0.13642565 metric tons)
+2. Brent - U.S. Dollars and Cents per barrel (contract of 1,000 barrels, 1 barrel = 42 us gallons = 158.98litres= 0.13642565 metric tons)
+3. Gas Oil - U.S. Dollars and Cents per Metric Tonne (contract of 100 Metric Tonnes)(10ppm diesel, at a density of 0.845 kg/litre in vacuum at 15 Celsius)
+4. RBOB Gasoline - U.S. Dollars and Cents per us gallon (contract of 42,000 us gallons = 136.42 metric tonnes)
+5. Natural Gas - U.S. Dollars and Cents per 1 million BTU (contract of 10,000 million British Thermal Unit)
+6. Wheat - Cents per bushel (contract of 5,000 bushels ~ 136 Metric Tons)
+7. Corn - Cents per bushel (contract of 5,000 bushels ~ 127 Metric Tons)
+8. Rice rough - U.S. Dollars and Cents hundredweight (contract of 2,000 hundredweights ~ 91 Metric Tons)
+9. Soybeans - Cents per bushel (contract of 5,000bushels ~ 136 Metric Tonnes)
+10. Soybean Meal - U.S. Dollars and Cents per short ton (contract of 100 short tons ~ 91 Metric Tonnes)
+11. Sugar #11- U.S. Dollars and Cents per pound (contract of 112,000 pounds = 50.8023 Metric Tonnes)
+12. Gold - U.S. Dollars and Cents per troy ounce (contract of 100 troy ounces, 1 troy ounce = 31,1034 grams )
+13. Silver - U.S. Dollars and Cents per troy ounce (contract of 5.000 troy ounces, 1 troy ounce = 31,1034 grams )
+14. Copper - U.S. Dollars and Cents per metric tonne, 3 months Buyer’s price (contract of 25 metric tonnes)
+15. Aluminium - U.S. Dollars and Cents per metric tonne, 3 months Buyer’s price (contract of 25 metric tonnes)
+
+AGORA SHIPBROKING CORPORATION
+Piraeus Office | 46, Filonos Str. | Piraeus | 18535 | Greece | Tel: +30 210 41.10.888
+London Office | 85, Great Portland Str. | London | W1W 7LT | United Kingdom | Tel: +44 (0)208 144 6868
+
 www.agoraships.com
-Disclaimer:Thehistoricaldataprovidedhereinaredisplayedforinformationpurposesonly.Anyusethereofisthereforeattheuser'sownrisk.
-Whilsteverycarehasbeentakeninthepreparationofthisreport,noliabilitycanbeacceptedforanylossincurredinanywaywhatsoeverbyanypersonrelyingontheinformationcontainedherein.
+Disclaimer: The historical data provided herein are displayed for information purposes only. Any use thereof is therefore at the user's own risk.
+Whilst every care has been taken in the preparation of this report, no liability can be accepted for any loss incurred in any way whatsoever by any person relying on the information contained herein.
 
 ## Page 5
 
@@ -353,48 +172,10 @@ _no data table on this page_
 
 > Contact details (desk e-mails, staff names and mobile numbers) omitted.
 
-AGORA
-SHIPBROKING
-CORPORATION
-Piraeus
-Office
-|
-46,
-Filonos
-Str.
-|
-Piraeus
-|
-18535
-|
-Greece
-|
-Tel:
-+30
-210
-41.10.888
-London
-Office
-|
-85,
-Great
-Portland
-Str.
-|
-London
-|
-W1W
-7LT
-|
-United
-Kingdom
-|
-Tel:
-+44
-(0)208
-144
-6868
-www.agoraships.com
-Disclaimer:Thehistoricaldataprovidedhereinaredisplayedforinformationpurposesonly.Anyusethereofisthereforeattheuser'sownrisk.
-Whilsteverycarehasbeentakeninthepreparationofthisreport,noliabilitycanbeacceptedforanylossincurredinanywaywhatsoeverbyanypersonrelyingontheinformationcontainedherein.
+AGORA SHIPBROKING CORPORATION
+Piraeus Office | 46, Filonos Str. | Piraeus | 18535 | Greece | Tel: +30 210 41.10.888
+London Office | 85, Great Portland Str. | London | W1W 7LT | United Kingdom | Tel: +44 (0)208 144 6868
 
+www.agoraships.com
+Disclaimer: The historical data provided herein are displayed for information purposes only. Any use thereof is therefore at the user's own risk.
+Whilst every care has been taken in the preparation of this report, no liability can be accepted for any loss incurred in any way whatsoever by any person relying on the information contained herein.

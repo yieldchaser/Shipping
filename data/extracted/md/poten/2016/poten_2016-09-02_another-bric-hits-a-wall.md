@@ -22,7 +22,7 @@ From 2005 through 2015, oil production in Brazil grew from 1.70 to 2.53 million 
 
 Brazil has approximately 2.4 Mb/d of crude oil refining capacity at 17 refineries (14 of which are operated by Petrobras). The largest is located in Sao Paolo, the 434,000 b/d Replan refinery. The latest addition to Brazil’s refining complex is the 115,000 b/d Abreu e Lima refinery, which cost a reported US$20 Billion to build and started up in late 2014. Once fully operational, this refinery will have an ultra-low-sulfur diesel yield of 70%. The start-up of the costly Abreu e Lima facility coincided with a collapse in oil prices. A steep fall in revenues, combined with the widening corruption scandal forced Petrobras to reduce capital spending and cancel a number of refining projects in 2015. As a result, it is expected that the country will remain short light products for the foreseeable future.
 
-In 2016 to date Brazil imported about 475,000 b/d of refined products, mostly from the United States. Fewer new refining projects will prolong Brazil’s reliance on product imports and
+In 2016 to date Brazil imported about 475,000 b/d of refined products, mostly from the United States. Fewer new refining projects will prolong Brazil’s reliance on product imports and continue to support the US Gulf Coast as a product export hub.
 
 *Chart: Fig. 1: Brazilian Crude Oil Production vs Petroleum Products Demand*
 
@@ -31,8 +31,6 @@ In 2016 to date Brazil imported about 475,000 b/d of refined products, mostly fr
 *Chart: Fig. 2: Brazilian Crude Oil and Petroleum Products Trade*
 
 *Source: JODI*
-
-continue to support the US Gulf Coast as a product export hub.
 
 Because many of Brazil’s refineries have trouble processing heavier grades, the country exports growing volumes of crude: 800,000 b/d in the first half of 2016. At the same time, Brazil needs to import light crude oil (about 235,000 b/d in 2016 to date). Brazil’s crude oil exports are mostly targeted to the United States, with China and India as the second and third largest destination. Crude oil imports are predominantly sourced from West Africa (Nigeria) and the Middle East.
 

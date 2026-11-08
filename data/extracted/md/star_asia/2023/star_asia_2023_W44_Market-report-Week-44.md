@@ -34,11 +34,9 @@ Amid signals of weakening demand for iron ore due to China's steel production cu
 
 Panamax/Kamsarmax:
 
-Although initially supported by the Pacific region at the beginning of the week, a sharp decline in Capesize rates and weak demand for coal heading to China led to a reversal to a downward trend later in the week. The sustained decline in Capesize rates throughout the week had a negative impact on Panamax market sentiment, leading to a downturn in the latter half of the week. Pacific r/v fell to US$ 11,250 a day while T/A slipped to US$ 14,000 a day. Supramax/Ultramax: Demand for coal imports in China has slowed but the delay of additional coal production quotas by the Indonesian government has kept coal prices high. However, trading is not thriving due to reduced cargo movement and a market downturn. In Indonesia's central and eastern Kalimantan regions, the relatively dry climate has led to low river levels, causing disruptions in the transportation of coal from mines to ports. This has
+Although initially supported by the Pacific region at the beginning of the week, a sharp decline in Capesize rates and weak demand for coal heading to China led to a reversal to a downward trend later in the week. The sustained decline in Capesize rates throughout the week had a negative impact on Panamax market sentiment, leading to a downturn in the latter half of the week. Pacific r/v fell to US$ 11,250 a day while T/A slipped to US$ 14,000 a day. Supramax/Ultramax: Demand for coal imports in China has slowed but the delay of additional coal production quotas by the Indonesian government has kept coal prices high. However, trading is not thriving due to reduced cargo movement and a market downturn. In Indonesia's central and eastern Kalimantan regions, the relatively dry climate has led to low river levels, causing disruptions in the transportation of coal from mines to ports. This has contributed to a decrease in demand for export vessels. Levels across all routes witnessed a decline at closing. Pacific – India fell to US$ 8,700 a day and Inni r/v went down to lows of US$ 7,900's region.
 
 ## Page 3
-
-contributed to a decrease in demand for export vessels. Levels across all routes witnessed a decline at closing. Pacific – India fell to US$ 8,700 a day and Inni r/v went down to lows of US$ 7,900's region.
 
 # Handysize:
 

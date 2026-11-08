@@ -22,13 +22,11 @@ After the invasion of Ukraine, Russia stopped reporting their official energy st
 
 The loss of these exports will likely further worsen the global diesel shortage that already existed before the Russian ban. In 2023, Russia was the largest seaborne exporter of diesel and gasoil, followed by the U.S. and Saudi Arabia. Turkey, as the largest importer of Russian diesel, needs to find alternative sources as do the buyers of Turkish exports, mainly Mediterranean countries such as Greece, Romania, and Italy.
 
-A key question is: How long is Russia going to maintain the export ban. According to JODI, Russia used about 665 Kb/d of diesel and gasoil in 2021, the last available data. While it is unclear what the current demand is, especially how much fuel is consumed in waging the war, it is clear that diesel production far exceeds domestic demand. The situation for gasoline demand is more balanced as Russia consumed 850Kb/d in 2021 and exported only about 114 Kb/d in 2023. Given the above, we believe it is likely that Russia will not maintain the diesel export ban for a long time or will not enforce the ban as it has been
+A key question is: How long is Russia going to maintain the export ban. According to JODI, Russia used about 665 Kb/d of diesel and gasoil in 2021, the last available data. While it is unclear what the current demand is, especially how much fuel is consumed in waging the war, it is clear that diesel production far exceeds domestic demand. The situation for gasoline demand is more balanced as Russia consumed 850Kb/d in 2021 and exported only about 114 Kb/d in 2023. Given the above, we believe it is likely that Russia will not maintain the diesel export ban for a long time or will not enforce the ban as it has been stated as they need the funds and they will likely run out of storage capacity for diesel relatively quickly.
 
 *Chart*
 
 *Source: Vortexa*
-
-stated as they need the funds and they will likely run out of storage capacity for diesel relatively quickly.
 
 Another important question is: What will happen with the ships currently involved in Russian exports. More than half of Russia’s seaborne diesel and gasoil exports originate from the Baltic and about 40% originates from the Black Sea. For gasoline, more than 75% is shipped from the Baltic and most of the remainder is loaded in Siberia, mainly Murmansk. About half of the total exports are shipped on Handymax tankers and about 22% on Handysize tankers. LR1 (15%) and LR2 (9%) tankers make up the remainder.
 

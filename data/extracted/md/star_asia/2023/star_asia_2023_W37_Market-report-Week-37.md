@@ -117,11 +117,9 @@ The prolonged weakness in the East Suez market has led to an increase in transit
 
 Clean:
 
-MR: M.R. rates in the UKC stayed strong due to limited tonnage availability, although sentiment showed signs of softening as the week progressed. TC19 remains unchanged at WS190. USG market also faced notable downward pressure this week. Despite delays in
+MR: M.R. rates in the UKC stayed strong due to limited tonnage availability, although sentiment showed signs of softening as the week progressed. TC19 remains unchanged at WS190. USG market also faced notable downward pressure this week. Despite delays in the Panama Canal still causing significant disruptions, TC14 rates fell 34 points, falling to WS94.
 
 ## Page 6
-
-the Panama Canal still causing significant disruptions, TC14 rates fell 34 points, falling to WS94.
 
 L.R: In the LR1 sector, the sentiment remained steady as the week ended, but there was anticipation of European gasoline exports to the Middle East due to refinery maintenance in the East. TC16 held its rates around WS160 this week. Meanwhile, LR2 rates remained stable. MEG saw a slight uptick at the start of the week, with TC1 closing at WS142.
 

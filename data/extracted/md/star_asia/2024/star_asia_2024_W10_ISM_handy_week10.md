@@ -72,9 +72,7 @@ increased demand for large Handy fleet, which certainly supports the rate upturn
 
 2022 year 2023 year 2024 year 70 60 50 40 30 20 10
 
-1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52
-
-week
+1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 week
 
 Meanwhile, Handy owners are keeping rates stable, as the cargo traffic for 2H March laycans has perked up in the area. Transportation of 25-30,000 t of wheat from New Orleans to Alexandria still costs $30/t.
 
@@ -118,15 +116,11 @@ The USG Supramax market is softening rather rapidly given an acute shortage of c
 
 ---
 
-1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52
-
-week
+1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 week
 
 Handysize owners' sentiment has improved slightly in the Continent and the Mediterranean Sea due to the recovery of cargo traffic seen in the middle of the week; especially this applies to shipments of grain and steel products. At the same time, the number of requests for fertilizer and scrap transportation from EU and North
 
-African ports is extremely small. There is even a slight
-
-shortage of Handysize fleet in the eastern Mediterranean, while the Handysize and Supramax tonnage list is excessive in the Baltic & Continent . «It's a better mood I can say, but I have fixed even lower levels,» an EU broker commented on Continent levels. At the moment, rates for shipment of 25-30,000 t of steel scrap (sf 55-58`) from ARAG ports to Turkey are hovering at high $20s/t bss 1/1. In the Black and Mediterranean Seas, Handysize rates have grown by $0.5-1k daily and $0.5-1.5/t on most routes. Note that only voyage-basis rates ex Ukraine are virtually unchanged, which is referred to the ongoing gradual decline in average EWRI. Thus, a month ago, owners of a 15-year old
+African ports is extremely small. There is even a slight shortage of Handysize fleet in the eastern Mediterranean, while the Handysize and Supramax tonnage list is excessive in the Baltic & Continent . «It's a better mood I can say, but I have fixed even lower levels,» an EU broker commented on Continent levels. At the moment, rates for shipment of 25-30,000 t of steel scrap (sf 55-58`) from ARAG ports to Turkey are hovering at high $20s/t bss 1/1. In the Black and Mediterranean Seas, Handysize rates have grown by $0.5-1k daily and $0.5-1.5/t on most routes. Note that only voyage-basis rates ex Ukraine are virtually unchanged, which is referred to the ongoing gradual decline in average EWRI. Thus, a month ago, owners of a 15-year old
 
 ## Page 2
 
@@ -204,9 +198,7 @@ Freight rates for shipments from ECSA are likely to go up next week as the cargo
 
 ---
 
-11 14 17 20 23 26 29 32 35 38 41 44 47 50 1 4 7 10
-
-week
+11 14 17 20 23 26 29 32 35 38 41 44 47 50 1 4 7 10 week
 
 Handysize, BlSea - EMed (bss dely psg Canakkale) Supramax, ECSA - Cont (bss dely APS) Supramax, Continent - EMed (bss dely APS) Handysize, Continent - EMed (bss dely APS) Supramax, PG (excl. I/I) - India (bss dely APS)
 

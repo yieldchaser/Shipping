@@ -48,9 +48,7 @@ Rates for the Supra and Ultra segments slowed in both basins this week. The Atla
 
 #### Handysize:
 
-Similar to the bigger counterpart, demand was low in both the Atlantic and Pacific basins, leading to further losses in rates. In Asia, activity was also slow. There was some activity with
-
-few ships fixed for cargo, but overall demand was weak. Inter-Pacific saw levels fall to US$ 6,400's region a day while T/A remained at slightly below US$10,000 a day.
+Similar to the bigger counterpart, demand was low in both the Atlantic and Pacific basins, leading to further losses in rates. In Asia, activity was also slow. There was some activity with few ships fixed for cargo, but overall demand was weak. Inter-Pacific saw levels fall to US$ 6,400's region a day while T/A remained at slightly below US$10,000 a day.
 
 ## Dry Bulk - S&P Report
 
@@ -182,21 +180,9 @@ CURRENT BDTI 1,391 BCTI 1,068
 
 ## Containers
 
-Drewry's World Container Index has released the first spot rate data of 2023 following a two-
+Drewry's World Container Index has released the first spot rate data of 2023 following a two-week break during the holidays. The Atlantic westbound saw a sharp decline in rates, dropping 6% compared to before Christmas and 11% compared to the rate peak in
 
-week break during the holidays. The Atlantic westbound saw a sharp decline in rates,
-
-dropping 6% compared to before Christmas and 11% compared to the rate peak in
-
-November 2022. However, the rate level remains very high, at 159% above the pre-pandemic
-
-spot rate level. The Shanghai-Rotterdam spot rate is still 19% below the reading in the first
-
-week of January 2020 prior to the pandemic. Pacific region continues to experience
-
-significant coastal discrepancies, with Shanghai to Los Angeles rates dropping about 1% over
-
-the holidays.
+November 2022. However, the rate level remains very high, at 159% above the pre-pandemic spot rate level. The Shanghai-Rotterdam spot rate is still 19% below the reading in the first week of January 2020 prior to the pandemic. Pacific region continues to experience significant coastal discrepancies, with Shanghai to Los Angeles rates dropping about 1% over the holidays.
 
 ## Containers S&P Report
 

@@ -10,11 +10,9 @@ substantive_pages: [1, 2, 3, 4, 5, 6]
 
 # Carriers Freight Review DRY 2026-07-06 (Week 28)
 
-
 ## Page 1
 
            WEEK 28 Freight Review DRY 
- 
  
 This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place 
 referred to and we emphasize that it is a statement of information collected from various market sources. All particulars above are from information given to us and such 
@@ -24,15 +22,6 @@ Carriers Chartering Corp. S.A.
 Kaplanon 7 & Massalias Street, 106 80 Athens, Greece | Telephone: +30-210 3668700 
 Email Address: capespmx@carriers.gr, handy@carriers.gr, snp@carriers.gr 
 www.carrierschartering.gr 
- 
- 
-                                                                                                            
-                                                                                                                                                      
-                                                                                             
- 
- 
- 
- 
  
     The market raced out of the blocks Monday 
 as both the physical and the paper made 
@@ -160,12 +149,9 @@ fixed two vessels for July 23-25 ex Port
 Hedland; one for 190,000tons lift at $13.20 and 
 CAPESIZE 
  
-
-
 ## Page 2
 
            WEEK 28 Freight Review DRY 
- 
  
 This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place 
 referred to and we emphasize that it is a statement of information collected from various market sources. All particulars above are from information given to us and such 
@@ -174,12 +160,7 @@ incurred to any persons acting upon this report.
 Carriers Chartering Corp. S.A. 
 Kaplanon 7 & Massalias Street, 106 80 Athens, Greece | Telephone: +30-210 3668700 
 Email Address: capespmx@carriers.gr, handy@carriers.gr, snp@carriers.gr 
-www.carrierschartering.gr 
- 
- 
-                                                                                                            
-                                                                                                                                                      
-the other for 160,000 tons at $13.00, while Rio 
+www.carrierschartering.gr the other for 160,000 tons at $13.00, while Rio 
 Tinto covered their July 23-25 Dampier loading 
 at $12.80. 
  
@@ -322,13 +303,9 @@ tonnage list, ballasting continued to remain a
 viable option for owners. FFA values turned 
 PANAMAX 
  
- 
-
-
 ## Page 3
 
            WEEK 28 Freight Review DRY 
- 
  
 This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place 
 referred to and we emphasize that it is a statement of information collected from various market sources. All particulars above are from information given to us and such 
@@ -337,12 +314,7 @@ incurred to any persons acting upon this report.
 Carriers Chartering Corp. S.A. 
 Kaplanon 7 & Massalias Street, 106 80 Athens, Greece | Telephone: +30-210 3668700 
 Email Address: capespmx@carriers.gr, handy@carriers.gr, snp@carriers.gr 
-www.carrierschartering.gr 
- 
- 
-                                                                                                            
-                                                                                                                                                      
-positive, injecting some renewed interest in 
+www.carrierschartering.gr positive, injecting some renewed interest in 
 period 
 contracts. 
 However, 
@@ -460,11 +432,9 @@ agreement collapsed. Meanwhile, the growing
 tonnage list continued to weigh on the market, 
 while South African stems remained insufficient 
 
-
 ## Page 4
 
            WEEK 28 Freight Review DRY 
- 
  
 This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place 
 referred to and we emphasize that it is a statement of information collected from various market sources. All particulars above are from information given to us and such 
@@ -473,12 +443,7 @@ incurred to any persons acting upon this report.
 Carriers Chartering Corp. S.A. 
 Kaplanon 7 & Massalias Street, 106 80 Athens, Greece | Telephone: +30-210 3668700 
 Email Address: capespmx@carriers.gr, handy@carriers.gr, snp@carriers.gr 
-www.carrierschartering.gr 
- 
- 
-                                                                                                            
-                                                                                                                                                      
-to absorb a meaningful portion of the available 
+www.carrierschartering.gr to absorb a meaningful portion of the available 
 supply. On the other hand, fresh first-half 
 August stems sparked a few exchanges, with 
 bids hovering around $17,500 on a P6-
@@ -614,11 +579,9 @@ same
 sluggish 
 momentum observed throughout the week. In 
 
-
 ## Page 5
 
            WEEK 28 Freight Review DRY 
- 
  
 This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place 
 referred to and we emphasize that it is a statement of information collected from various market sources. All particulars above are from information given to us and such 
@@ -627,12 +590,7 @@ incurred to any persons acting upon this report.
 Carriers Chartering Corp. S.A. 
 Kaplanon 7 & Massalias Street, 106 80 Athens, Greece | Telephone: +30-210 3668700 
 Email Address: capespmx@carriers.gr, handy@carriers.gr, snp@carriers.gr 
-www.carrierschartering.gr 
- 
- 
-                                                                                                            
-                                                                                                                                                      
-the South, limited demand from Indonesia and 
+www.carrierschartering.gr the South, limited demand from Indonesia and 
 the persistent gap between bid/offer levels kept 
 fixture activity to a minimum, leaving Australia 
 as the primary source of enquiry. As a result, 
@@ -756,12 +714,9 @@ mid-$20,000s levels.
 limited impetus facing the market. Grain runs 
 SUPRAMAX – HANDYMAX - HANDYSIZE 
  
-
-
 ## Page 6
 
            WEEK 28 Freight Review DRY 
- 
  
 This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place 
 referred to and we emphasize that it is a statement of information collected from various market sources. All particulars above are from information given to us and such 
@@ -770,12 +725,7 @@ incurred to any persons acting upon this report.
 Carriers Chartering Corp. S.A. 
 Kaplanon 7 & Massalias Street, 106 80 Athens, Greece | Telephone: +30-210 3668700 
 Email Address: capespmx@carriers.gr, handy@carriers.gr, snp@carriers.gr 
-www.carrierschartering.gr 
- 
- 
-                                                                                                            
-                                                                                                                                                      
-to West Africa were discussed in the mid-teens 
+www.carrierschartering.gr to West Africa were discussed in the mid-teens 
 while scrap runs hovered around $16/17,000s 
 levels. Grains to Mediterranean were also 
 discussed in the $12/13,000s, as well with few 
@@ -852,4 +802,3 @@ towards
 $20,000/21,000 basis Far East for 4/6 months 
 or more like $19,000/19,500 if basis India 
 subject to actual delivery and flexibility offered. 
-

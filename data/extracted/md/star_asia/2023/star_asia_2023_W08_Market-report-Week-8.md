@@ -109,11 +109,9 @@ China's foreign ministry has expressed deep concern about the escalating war in 
 
 Meanwhile, oil prices rose slightly in thin Asian trade on Thursday, with WTI pausing from a six-day losing streak fed by mounting concerns that more aggressive interest rate increases by central banks could pressure economic growth and fuel demand.
 
-China's unexpected shift from its strict zero covid policy at the end of 2022 has led to projected strong growth in fuel demand in 2023, particularly for crude imports and refined product
+China's unexpected shift from its strict zero covid policy at the end of 2022 has led to projected strong growth in fuel demand in 2023, particularly for crude imports and refined product exports. Russia is expected to become China's top oil supplier, with pipeline flows playing a significant role, but China will also need to increase seaborne imports from other regions. Although China has the largest refining capacity in the world, higher output and capacity may not translate into significant growth in refined product exports, particularly for gasoline.
 
 ## Page 5
-
-exports. Russia is expected to become China's top oil supplier, with pipeline flows playing a significant role, but China will also need to increase seaborne imports from other regions. Although China has the largest refining capacity in the world, higher output and capacity may not translate into significant growth in refined product exports, particularly for gasoline.
 
 ### VLCC:
 
@@ -255,11 +253,9 @@ Prices quoted are basis simple Japanese / Korean-built tonnages trading units. P
 
 ## Insight
 
-This week the Sub-Continent ship recycling markets remained stable, with demand intact. The ship requirements at the Sub-Continent yards increased as the volatility in supply continued. The supply of ships for recycling once again took a pause after easing earlier this month in the backdrop of improving freight rates across the segments. The container and dry bulk sector may provide some tonnage for recyclers going forward, though there is unlikely to be a significant increase in volumes. In China, the recently held National Iron and Steel Scrap Conference on 22nd ~ February 24 in Chengdu City was focussed on increasing the generation and utilisation of ferrous scrap in
+This week the Sub-Continent ship recycling markets remained stable, with demand intact. The ship requirements at the Sub-Continent yards increased as the volatility in supply continued. The supply of ships for recycling once again took a pause after easing earlier this month in the backdrop of improving freight rates across the segments. The container and dry bulk sector may provide some tonnage for recyclers going forward, though there is unlikely to be a significant increase in volumes. In China, the recently held National Iron and Steel Scrap Conference on 22nd ~ February 24 in Chengdu City was focussed on increasing the generation and utilisation of ferrous scrap in steel-making to reach the decarbonisation goals. At the conference, talks about setting standards for imported scrap were also discussed, and an in-depth framework was laid down.
 
 ## Page 11
-
-steel-making to reach the decarbonisation goals. At the conference, talks about setting standards for imported scrap were also discussed, and an in-depth framework was laid down.
 
 In a nutshell, China wants to reduce its dependency on Iron Ore and increase scrap utilisation. This week the global ferrous scrap trades took off at an increased level across the globe, with Turkey gradually getting back into imports. Prices of key steel products, ferrous scrap, billets, and rebars all increased worldwide as the demand for materials remains robust.
 

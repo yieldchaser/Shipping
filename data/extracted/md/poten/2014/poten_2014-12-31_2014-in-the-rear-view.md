@@ -22,9 +22,7 @@ Not surprisingly, the significant rise of U.S. crude oil production in recent ye
 
 Suezmax trades saw more significant changes than any other tanker sector as their primary trade route (WAF-U.S.) was virtually eliminated. They found replacement employment in the growing WAF-Europe trades and managed to increase their market share in AG-India trades. Reduced imports from the Caribbean freed up more crude for exports to the Far East. This, combined with a reduction in VLCC based imports from the Middle East has lead to a tightening of VLCC availability for Caribbean exports to the Far East.
 
-In the January 10 and May 16 Tanker Opinions, we discussed U.S. crude imports from Saudi Arabia and noted how resilient they had been given the growth in domestic production. The expectation was that Saudi Arabia would maintain market share through imports for the Motiva refinery as well as through their pricing policy. However, in the second half of the year, U.S. imports from Saudi Arabia declined to levels last seen
-
-esv
+In the January 10 and May 16 Tanker Opinions, we discussed U.S. crude imports from Saudi Arabia and noted how resilient they had been given the growth in domestic production. The expectation was that Saudi Arabia would maintain market share through imports for the Motiva refinery as well as through their pricing policy. However, in the second half of the year, U.S. imports from Saudi Arabia declined to levels last seen esv during the 2008/09 financial crisis. The question is whether this is just a temporary decline or if these levels are going to be the new normal. Only time will tell.
 
 *Chart: Fig. 1: VLCC Rates (AG-Chiba / 270,000 tons)*
 
@@ -33,8 +31,6 @@ esv
 *Chart*
 
 *Source: Poten and Partners*
-
-during the 2008/09 financial crisis. The question is whether this is just a temporary decline or if these levels are going to be the new normal. Only time will tell.
 
 Contango and floating storage was another topic that was discussed several times throughout the year, including last week. Since the last issue, Brent spot prices have declined even further and the contango between spot and 6-7 months into the future has widened by about $0.70 to over $5. We still believe that a potential contango-driven storage play can develop in the coming months, unless global demand increases dramatically and unexpectedly or oil production is curtailed, either through OPEC action or unexpected geopolitical events.
 

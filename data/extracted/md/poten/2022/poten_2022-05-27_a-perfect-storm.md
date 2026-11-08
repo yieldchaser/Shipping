@@ -24,7 +24,7 @@ On the demand side of the equation, there are several factors that have contribu
 
 Another reason for the unexpected tightness in the oil markets has to with the cutback in refining capacity during Covid. At the depth of the pandemic, less sophisticated refineries in both Europe and the U.S. were losing money. At the same time, the longer-term outlook for the refining industry was cloudy because the world was intent on moving away from fossil fuels towards renewables. In 2021 global refining capacity fell, for the first time in 30 years. According to the IEA, global capacity fell by 730,000 b/d as approximately 1.6 million b/d was shut down or converted into bio-refineries, while only 850,000 b/d of new capacity was added. The cutbacks were primarily in Europe and the U.S., where demand growth was strongest, while the additions were in Asia (primarily China) and the Middle East, where demand growth was much less pronounced.
 
-To make things even worse, much of the world came out of the pandemic with record low product inventories. The exception is China, where refined product inventories are high as a consequence of the lockdowns and the resulting economic
+To make things even worse, much of the world came out of the pandemic with record low product inventories. The exception is China, where refined product inventories are high as a consequence of the lockdowns and the resulting economic slowdown. The Russian invasion of Ukraine has added further fuel to the fire. While crude oil flows have held up relatively well despite the western sanctions, Russian product exports have taken a hit. Diesel flows to Europe in particular have dropped substantially. Russian refiners have been forced to cut back runs, further exacerbating the global shortage of refined products.
 
 *Chart: Product Tanker Earnings (Non Scrubber)*
 
@@ -33,8 +33,6 @@ To make things even worse, much of the world came out of the pandemic with recor
 *Chart*
 
 Source: Bloomberg
-
-slowdown. The Russian invasion of Ukraine has added further fuel to the fire. While crude oil flows have held up relatively well despite the western sanctions, Russian product exports have taken a hit. Diesel flows to Europe in particular have dropped substantially. Russian refiners have been forced to cut back runs, further exacerbating the global shortage of refined products.
 
 The product tanker market has been a major beneficiary of the tight refining market. The swift oil demand recovery in OECD countries, combined with low inventories and reduced refining capacity has led to very rapid price increases and exceptionally strong refining margins. The conflict in Ukraine tightened the market even further. Figure 2 shows how the Refinery Crack Spreads in several major markets increased after the Russian invasion in February. A crack spread is the pricing difference between a barrel of crude and the petroleum products refined from it. For refiners and traders alike, this market has created many arbitrage opportunities, boosting seaborne product movements.
 

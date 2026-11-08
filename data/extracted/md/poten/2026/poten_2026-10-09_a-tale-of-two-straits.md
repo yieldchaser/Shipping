@@ -22,13 +22,11 @@ In the early stages of the war, Iran seemed to have the upper hand in the Strait
 
 There was a brief recovery in flows after the U.S. and Iran signed a Memorandum of Understanding (June 17), which established an immediate 60-day ceasefire and a framework to reopen the Strait of Hormuz. However, this MOU collapsed in July following renewed clashes and retaliatory strikes. On July 14, President Trump reinstated the naval blockade on Iran, which remains in place until today.
 
-By the end of July, the Houthi’s got involved in the conflict by announcing a naval blockade on Saudi Arabia, forcing Yanbu
+By the end of July, the Houthi’s got involved in the conflict by announcing a naval blockade on Saudi Arabia, forcing Yanbu exports to be re-routed north via the Sumed pipeline and the Suez Canal. An August attack on the East-West pipeline forced the Saudis to temporary halt exports via Yanbu and expand the use of their terminals in the Persian Gulf again. Although the East-West pipeline has been repaired and flows resumed, Saudi Arabia continues to make use of the “Hormuz Shuttle Service” to export crude. The expanded use of the Hormuz Shuttle Service, in combination with the flows through the pipelines of the Saudis and the Emeratis, has pushed seaborne crude oil exports from the Middle East close to pre-war levels. It should be noted that refined product flows are still far below pre-war levels.
 
 *Chart*
 
 *Source: Vortexa*
-
-exports to be re-routed north via the Sumed pipeline and the Suez Canal. An August attack on the East-West pipeline forced the Saudis to temporary halt exports via Yanbu and expand the use of their terminals in the Persian Gulf again. Although the East-West pipeline has been repaired and flows resumed, Saudi Arabia continues to make use of the “Hormuz Shuttle Service” to export crude. The expanded use of the Hormuz Shuttle Service, in combination with the flows through the pipelines of the Saudis and the Emeratis, has pushed seaborne crude oil exports from the Middle East close to pre-war levels. It should be noted that refined product flows are still far below pre-war levels.
 
 Ironically, the Iranians, who still claim to “control” the Strait of Hormuz, are currently the ones who are not able to get their crude oil to market. This is in stark contrast to the beginning of the conflict, when the roles were reversed. Frustrated, and in an attempt to reassert control, Iran has stepped up its attacks on the tankers shuttling the crude utilizing the southern route along the Omani coastline. As a result, transits have dipped in recent days, but ships continue to cross. It is a highly lucrative trade for those involved and willing to take the risk.
 

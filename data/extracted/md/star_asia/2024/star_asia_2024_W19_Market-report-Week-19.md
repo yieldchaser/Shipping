@@ -268,7 +268,6 @@ Aliaga, Turkey
 | PITA ERMA | GEN.CARGO | 6,002 | 25.05.2024 | AWAITING |
 | SINOKOR QINGDAO | CONTAINER | 4,734 | 23.04.2024 | AWAITING |
 
-
 ## Page 15
 
 # BEACHING TIDE DATES 2024
@@ -301,11 +300,9 @@ Alang, India : 5 ~ 13 May | 21 ~ 29 MAY
 
 The Sub-Continent ferrous scrap markets, trends varied notably. There was robust demand from Indian purchasers for imported scrap, in contrast to the more tepid interest from Pakistan and Bangladesh. Furthermore, an agreement was reached for around 7,000 tons of HMS scrap from Australia, priced between US\$405-410/ton CFR Chennai, India. It was also reported that due to sluggish demand for steel, Pakistani mills are operating below capacity, with some even pausing production temporarily.
 
-Turkish imported scrap prices have continued to decline as buyers pushed for lower acceptable price points, while European recyclers held firm against lowering prices due to sluggish scrap inflows and stable collection costs. A few suppliers have proposed prices
+Turkish imported scrap prices have continued to decline as buyers pushed for lower acceptable price points, while European recyclers held firm against lowering prices due to sluggish scrap inflows and stable collection costs. A few suppliers have proposed prices ranging from US$382 to US$384/ton CFR Turkey for HMS (80:20) scrap, influenced by dockside prices in Europe of approximately 315 to 317 euros per ton (US$339 to US$341) and the scarce availability of scrap. European recyclers are wary of potentially significant losses due to an oversupply of scrap from the US and the Baltic region. Many European dealers have ceased offering their scrap to the Turkish market or faced challenges in dropping their prices below US$380/ton CFR. Conversely, HMS (80:20) scrap from US and Baltic sources was priced at or below US$383 per ton, but Turkish buyers are placing their bids around US$375/ton CFR, indicating a looming price mismatch.
 
 ## Page 16
-
-ranging from US$382 to US$384/ton CFR Turkey for HMS (80:20) scrap, influenced by dockside prices in Europe of approximately 315 to 317 euros per ton (US$339 to US$341) and the scarce availability of scrap. European recyclers are wary of potentially significant losses due to an oversupply of scrap from the US and the Baltic region. Many European dealers have ceased offering their scrap to the Turkish market or faced challenges in dropping their prices below US$380/ton CFR. Conversely, HMS (80:20) scrap from US and Baltic sources was priced at or below US$383 per ton, but Turkish buyers are placing their bids around US$375/ton CFR, indicating a looming price mismatch.
 
 # HMS 1/2 & Tangshan Billet
 

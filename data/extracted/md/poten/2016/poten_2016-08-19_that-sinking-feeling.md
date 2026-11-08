@@ -24,15 +24,13 @@ For many years, the Holy Grail in shipping was to buy a vessel at a low point in
 
 For a variety of reasons, prices of vessels, both newbuildings quoted by shipyards and secondhand vessels transacted in the sale & purchase market, have come down significantly in recent years (new) and months (second hand). This begs the question: are we getting close to the right time to invest in the market? And, if so, should an owner order a newbuilding or try his luck in the secondhand market? It depends to some extent on an owners’ client base and employment strategy. Also important are access to financing, market timing and liquidity (in particular in the secondhand market).
 
-The shipbuilding industry is in dire straits at the moment. Yards all over the world are facing a dearth of new orders on top of attempts by owners to cancel or at least renegotiate existing contracts. These challenges were initially created by the dismal state of the dry cargo, container and offshore markets, but more recently the downturn has spread to the tanker market and orders have slowed down materially across the board (Fig. 2). Newbuilding prices were already under
+The shipbuilding industry is in dire straits at the moment. Yards all over the world are facing a dearth of new orders on top of attempts by owners to cancel or at least renegotiate existing contracts. These challenges were initially created by the dismal state of the dry cargo, container and offshore markets, but more recently the downturn has spread to the tanker market and orders have slowed down materially across the board (Fig. 2). Newbuilding prices were already under pressure due to the low utilization rates of the shipyards, but falling freight rates in the crude and product tanker markets are now also pushing secondhand prices down. Ship finance is only available for the best credits and it is no surprise that overall market psychology is quite negative.
 
 *Chart: Fig. 1: VLCC Prices 2010 – 2016 YTD*
 
 *Source: Poten*
 
 *Chart: Fig. 2: Tanker Contracting 2010 – 2016 (Jan-Jun)*
-
-pressure due to the low utilization rates of the shipyards, but falling freight rates in the crude and product tanker markets are now also pushing secondhand prices down. Ship finance is only available for the best credits and it is no surprise that overall market psychology is quite negative.
 
 The shipbuilding industry is in the middle of a perfect storm with all major shipping segments facing a downturn at the same time. As a result, the shipyards are restructuring. Several shipyards (mainly in China) have gone out of business and the large Korean yards are restructuring; closing facilities and reducing their workforce. However, it takes time for capacity reductions to have an impact and newbuilding prices will likely remain under pressure until one or more of the shipping markets recover.
 

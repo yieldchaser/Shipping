@@ -54,9 +54,7 @@ Flagship Founders is the founding partner for startups in maritime technology, l
 
 **Press Contact FlagshipFounders:**
 
-Darja Koehne
-
-d.koehne@flagshipfounders.de
+Darja Koehne d.koehne@flagshipfounders.de
 
 +49 (0)176 311 48 514
 

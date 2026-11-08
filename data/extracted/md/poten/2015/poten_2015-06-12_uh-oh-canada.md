@@ -20,7 +20,7 @@ On Tuesday, June 9, the Canadian Association of Petroleum Producers (CAPP) relea
 
 For years, the story of Canadian crude oil production was very positive. Strong growth in worldwide crude oil demand pushed prices higher and attracted significant investment in Canadian oil sands, which now represents more than two-thirds of Canadian oil production (and almost all of the growth). The increases in crude oil output also created a pressing need for additional infrastructure to move all the new production to markets (Fig. 2). Various projects have been announced that would deliver more crude to Canada’s No. 1 customer, the United States. The highest profile project, TransCanada’s KeyStone XL pipeline, which was proposed in 2008, has still not been approved and, even if it gets the green light, it will not be operational until 2018 at the earliest. Pipeline projects that would facilitate seaborne exports have also been proposed, most recently, the Energy East pipeline (also by TransCanada). If all the proposed pipelines designed to transport western Canadian crude oil are built, existing pipeline capacity would be doubled. However, except for one, these projects are will take at least 4-5 years to complete.
 
-The one project that could become operational in the short-term (later this year) is the reversal of Enbridge’s Line 9. While the 9A portion is already operational, Line 9B is awaiting final approval. The 300,000 b/d Line 9 would be the first pipeline to bring western Canadian crude to Canada’s Atlantic coast. In 2014, refiners on Canada’s east coast, which processed almost 1.2 million b/d of crude oil, still imported 542,000 b/d of foreign crude. This crude comes from a variety of sources, including the Middle East, West Africa, Venezuela and increasingly from the U.S. Gulf (shale oil). Once operational, Line 9 has the potential to
+The one project that could become operational in the short-term (later this year) is the reversal of Enbridge’s Line 9. While the 9A portion is already operational, Line 9B is awaiting final approval. The 300,000 b/d Line 9 would be the first pipeline to bring western Canadian crude to Canada’s Atlantic coast. In 2014, refiners on Canada’s east coast, which processed almost 1.2 million b/d of crude oil, still imported 542,000 b/d of foreign crude. This crude comes from a variety of sources, including the Middle East, West Africa, Venezuela and increasingly from the U.S. Gulf (shale oil). Once operational, Line 9 has the potential to reshuffle crude flows in the Atlantic Basin. It will also reduce the Canadian refiners’ reliance on crude by rail. This mode of transport has grown rapidly in recent years in the absence of adequate pipeline capacity.
 
 *Chart: Fig. 1: Canadian Production Forecast*
 
@@ -29,8 +29,6 @@ The one project that could become operational in the short-term (later this year
 *Chart*
 
 *Source: CAPP*
-
-reshuffle crude flows in the Atlantic Basin. It will also reduce the Canadian refiners’ reliance on crude by rail. This mode of transport has grown rapidly in recent years in the absence of adequate pipeline capacity.
 
 Since these are long-term projects for which significant upfront investments have already been made, new Canadian oil sands production will continue to come on stream over the next three to five years, despite the fact that oil sands production is some of the most expensive in the world.
 

@@ -24,7 +24,7 @@ Suezmax voyages from the Persian Gulf to Southern Europe increased by 45 cargoes
 
 Over the first 7 months of the year, the total number of Suezmax cargoes increased to 3,501 from 3,452 in 2015. The total number of voyages with discharge ‘East of Suez’ increased by 5.4%, while the number of voyages with destinations in the Atlantic basin decreased by 0.8%, continuing the diversification of Suezmax trades from the Atlantic Basin to the Pacific. About 38% of the total Suezmax voyages had discharge locations in the Pacific Basin in 2016.
 
-Overall, changes in Suezmax trade flows resulted in an
+Overall, changes in Suezmax trade flows resulted in an increase in ton-mile demand of about 1.5% during the first 7 months of 2016, compared to the same period in 2015. Growth in Suezmax voyages from South America to the Far East added significantly to ton-mile demand, even though the number of voyages is relatively modest.
 
 *Chart: Fig. 1: Suezmax Rates (WAF-USG) - 2013 to 2016ytd*
 
@@ -33,8 +33,6 @@ Overall, changes in Suezmax trade flows resulted in an
 *Chart*
 
 *Source: Lloyd’s List Intelligence*
-
-increase in ton-mile demand of about 1.5% during the first 7 months of 2016, compared to the same period in 2015. Growth in Suezmax voyages from South America to the Far East added significantly to ton-mile demand, even though the number of voyages is relatively modest.
 
 As demand does not seem to be the culprit for lower rates, let us take a look at the tanker supply side. On August 1st, 2015, the Suezmax tanker fleet stood at 434 vessels, totalling 68.2 million DWT. By August 1st, 2016, the trading Suezmax fleet had increased to 449 tankers with a total DWT of 70.5 million DWT. This represents a fleet growth of 3.3% over the last 12 months. The majority of the new vessels were delivered earlier this year, which might explain the gradual decline in rates as the year progressed, although the normal summer seasonality has obviously affected rates in recent weeks.
 

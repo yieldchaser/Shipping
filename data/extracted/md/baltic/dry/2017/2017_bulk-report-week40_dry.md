@@ -40,9 +40,7 @@ Short period activity also returned with a 2013 kamsarmax agreeing US$12,750 dai
 
 With the Moon Festival holidays in Asia this week, the market remained relatively quiet and it seemed to have found a floor. Rates eased initially but over the week there was some resistance with period cover taken. A new building ultramax reportedly fixed short period delivery Cebu, with minimum duration four months trading in the upper US$12,000s redelivery worldwide.
 
-The Atlantic Basin remained ‘hit and miss’. The US Gulf traded down with a 58,400-dwt 2013 built booked delivery Key West, for a trip to Japan at approximately US$18,500 daily and a 61,500-dwt 2015 built agreed US$16,000 daily for a run to the Mediterranean with petroleum coke. The
-
-east coast South American market was tougher to gauge with a slow decline early on but charterers now taking cover. Black Sea rates remained flat with a 66,500-dwt 2015-built booked delivery Canakkale for a trip to Salalah at US$12,500 plus US$237,500 ballast bonus.
+The Atlantic Basin remained ‘hit and miss’. The US Gulf traded down with a 58,400-dwt 2013 built booked delivery Key West, for a trip to Japan at approximately US$18,500 daily and a 61,500-dwt 2015 built agreed US$16,000 daily for a run to the Mediterranean with petroleum coke. The east coast South American market was tougher to gauge with a slow decline early on but charterers now taking cover. Black Sea rates remained flat with a 66,500-dwt 2015-built booked delivery Canakkale for a trip to Salalah at US$12,500 plus US$237,500 ballast bonus.
  The Asian basin was relatively busy despite the holidays. A 52,300-dwt mid-October Kosichang fixed for a trip to Bangladesh at US$12,000 daily and further north a 63,300-dwt 2017-built accepted US$11,000 daily delivery CJK via Indonesia to China. On the round voyage routes trading remained flat. A 56,100-dwt open Singapore fixed at US$12,000 daily via Australia redelivery China. In the Indian
 
 Ocean, a 55,700-dwt 2011-built agreed delivery Durban for a run east at US$12,000 daily plus a US$225,000 ballast bonus.
@@ -52,8 +50,6 @@ Ocean, a 55,700-dwt 2011-built agreed delivery Durban for a run east at US$12,00
 Rates for tonnage delivery east coast South America eased over the week and the market on the Continent also weakened. The Asian holidays slowed trading in the east but rates strengthened as the week progressed. For period trading, a 32,000-dwt 2010-built was reportedly fixed for two to three laden legs delivery Ireland at US$11,000 daily with Atlantic redelivery excluding west and south Africa.
 
 A 46,000-dwt 1999-built was booked at US$14,250 daily delivery east coast South America run to the east Mediterranean, and a 34,000-dwt 2013-built delivery Santos was fixed US$12,500 for a trip to the Black Sea. A trip from the Black Sea to east coast India was paid US$16,600 daily on a 43,000-dwt delivery Canakkale. More cargoes were evident from west Australia later in the week. A 23,000-toner open in south China was fixed to load via CIS at a rate in the mid US$6,000s redelivery Southeast Asia.
-
-  
 
 For daily dry bulk assessments from the Baltic Exchange please visit [www.balticexchange.com/market-information/](http://www.balticexchange.com/market-information/)
 

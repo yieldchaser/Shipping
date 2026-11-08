@@ -24,47 +24,17 @@ pages: 14
 
 ---
 
-Concerns regarding the supply side dominated popular sentiment. This resulted in an
-
-increase in the price of energy and metals. The central bank's position on inflation helped the
-
-dollar, although this was countered by fears about the possible impact of future disruptions.
+Concerns regarding the supply side dominated popular sentiment. This resulted in an increase in the price of energy and metals. The central bank's position on inflation helped the dollar, although this was countered by fears about the possible impact of future disruptions.
 
 On October 6, the E.U. executive branch adopted the eighth package of sanctions on Russia.
 
 The goal is to keep the government from utilising its resources to fuel its operations in
 
-Ukraine. The measures, which were in unison agreement, aim to deprive Moscow of billions
+Ukraine. The measures, which were in unison agreement, aim to deprive Moscow of billions of euros in revenue. The new restrictions, which are anticipated to cost Russia roughly 7 billion euros in additional revenue, include a prohibition on the importation of a variety of goods, including steel and wood pulp. They also extend the ban on the importation of certain chemicals and equipment.
 
-of euros in revenue. The new restrictions, which are anticipated to cost Russia roughly 7
+The commission stated that Russia should not be able to benefit from the competence and knowledge of E.U. nationals on its state-owned enterprises' boards of directors. This was in response to former European politicians such as Francois Fillon and Gerhard Schroeder being on the boards of Russian corporations.
 
-billion euros in additional revenue, include a prohibition on the importation of a variety of
-
-goods, including steel and wood pulp. They also extend the ban on the importation of
-
-certain chemicals and equipment.
-
-The commission stated that Russia should not be able to benefit from the competence and
-
-knowledge of E.U. nationals on its state-owned enterprises' boards of directors. This was in
-
-response to former European politicians such as Francois Fillon and Gerhard Schroeder
-
-being on the boards of Russian corporations.
-
-The E.U. further stated that the additional restraints were imposed on Russia owing to its
-
-repeated threats to use weapons of mass devastation. Although the new sanctions were
-
-intended to punish Russia, they did not go far enough. For example, they did not include a
-
-prohibition on nuclear energy or diamond imports. The new restrictions also include a price
-
-cap on Russian crude oil transported by sea to foreign countries. This does not apply to the
-
-exceptions that allow some E.U. member states to continue utilising Russian pipelines to
-
-import petroleum products and crude oil.
+The E.U. further stated that the additional restraints were imposed on Russia owing to its repeated threats to use weapons of mass devastation. Although the new sanctions were intended to punish Russia, they did not go far enough. For example, they did not include a prohibition on nuclear energy or diamond imports. The new restrictions also include a price cap on Russian crude oil transported by sea to foreign countries. This does not apply to the exceptions that allow some E.U. member states to continue utilising Russian pipelines to import petroleum products and crude oil.
 
 #### Dry Bulk
 
@@ -76,19 +46,9 @@ At closing, iron ore prices swung between gains and losses. On the Singapore Exc
 
 #### Capesize:
 
-The Atlantic continued to rise due to a cargo influx from Brazil in October and a scarcity of
+The Atlantic continued to rise due to a cargo influx from Brazil in October and a scarcity of tonnage, but the Pacific is showing signs of weakness as demand for iron ore stockpile before
 
-tonnage, but the Pacific is showing signs of weakness as demand for iron ore stockpile before
-
-China's National Day break ends. However, the weakening of purchasing power as a result of
-
-exchange rate depreciation hinders import recovery. Following the government's policy to
-
-encourage the completion of unfinished houses, China's steel demand for construction has
-
-seen a modest rebound. However, the rebound is constrained by sluggish new housing
-
-development and sales. At closing, T/A saw a slight uptick as levels settled in the region of
+China's National Day break ends. However, the weakening of purchasing power as a result of exchange rate depreciation hinders import recovery. Following the government's policy to encourage the completion of unfinished houses, China's steel demand for construction has seen a modest rebound. However, the rebound is constrained by sluggish new housing development and sales. At closing, T/A saw a slight uptick as levels settled in the region of
 
 US$25,875 a day, while Pacific r/v slipped to US$14,150 a day.
 
@@ -102,11 +62,9 @@ Despite continuous advances in Latin America and the Black Sea, decreases in the
 
 #### Handysize:
 
-Tight supplies maintained the Atlantic's quick coal prices. The mood in the Atlantic remained upbeat, but sentiment in Asia remained short-term. T/A levels saw some slight uptick with levels in the region of US$ 15,000's. In the Pacific, the market was mostly covered before the
+Tight supplies maintained the Atlantic's quick coal prices. The mood in the Atlantic remained upbeat, but sentiment in Asia remained short-term. T/A levels saw some slight uptick with levels in the region of US$ 15,000's. In the Pacific, the market was mostly covered before the holidays, while most coal rounds were also sold. Inter-Pacific closed with a slight discount with levels in the region of US$14,350.
 
 ## Page 3
-
-holidays, while most coal rounds were also sold. Inter-Pacific closed with a slight discount with levels in the region of US$14,350.
 
 # Dry Bulk - S&P Report
 
@@ -293,11 +251,9 @@ NO NEW SALES REPORTED
 
 # Insights
 
-After a couple of dull months, it has been a positive week for the Sub-Continent ship recycling and imported ferrous scrap markets, with both prices and demand improving. Yet it is too early to determine if this is a dead cat bounce or forming a positive trend. Considering
+After a couple of dull months, it has been a positive week for the Sub-Continent ship recycling and imported ferrous scrap markets, with both prices and demand improving. Yet it is too early to determine if this is a dead cat bounce or forming a positive trend. Considering the given facts, the short supply caused due to energy crisis saw metals prices supported and rising.
 
 ## Page 11
-
-the given facts, the short supply caused due to energy crisis saw metals prices supported and rising.
 
 This week, the E.U. Commission's 8th round of sanctions on Russia has widened the E.U. ban on Russian finished steel products and Russian semi-finished products. However, temporary exemptions have been granted, with steel slab imports permitted up to a quota exceeding 3.7 million tonnes/year until 2024 & also to billet. Across the Pacific, China's PMI for the domestic manufacturing industry resumed expanding in September after contracting during the prior two months, with the PMI reading edging up by 0.7 percentage points from August. Analysts predict that the Iron Ore prices may strengthen along with the steel products price trend, with increasing downstream demand from the construction sector.
 
@@ -314,11 +270,9 @@ A positive week for Alang, with demand increasing and, likewise, domestic ship p
 
 #### CHATTOGRAM, BANGLADESH
 
-This week the data collected by the authorties reflected astonishing figures for ferrous scrap imports, which is a prominent alternative to ship recycling melting scrap generated - the
+This week the data collected by the authorties reflected astonishing figures for ferrous scrap imports, which is a prominent alternative to ship recycling melting scrap generated - the ferrous scrap import shipments in Bangladesh, a major buyer in South Asia, reported 4.13 million tons in the first 9 months of 2022 vis-a-vis 3.15 million tons in the same period of 2021, the total ferrous scrap rose by 31% on a yearly basis. Demand for steel was primarily supported b the government's initiative to develop infrastructure. The local steel industry expects this to continue to rise.
 
 ## Page 12
-
-ferrous scrap import shipments in Bangladesh, a major buyer in South Asia, reported 4.13 million tons in the first 9 months of 2022 vis-a-vis 3.15 million tons in the same period of 2021, the total ferrous scrap rose by 31% on a yearly basis. Demand for steel was primarily supported b the government's initiative to develop infrastructure. The local steel industry expects this to continue to rise.
 
 Ships sold in the past are making their way to the shores of Chattogram with no negative reports linked to ongoing Letter of Credit issues.
 

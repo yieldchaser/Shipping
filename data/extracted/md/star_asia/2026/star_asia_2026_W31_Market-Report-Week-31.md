@@ -24,7 +24,6 @@ Daily merchant vessel crossings through the Strait of Hormuz have begun to recov
 
 ## Page 2
 
-
 # DRY BULK | BDI: 2,732 ▼0.40% (w-o-w)
 
 The dry bulk freight market experienced a general softening, as highlighted by BDI falling to 2,732 points. Geopolitical and environmental factors continue to heavily influence market dynamics, with ongoing uncertainty surrounding the Strait of Hormuz-shaping broader supply-demand expectations alongside projected El Niño weather patterns that could tighten Panama Canal transits and increase sailing distances. Looking at the individual vessel segments, the Capesize index regained slightly to 4,296 points, while the Supramax index dropped 5.02% to 1,609 points. Bucking the downward trend across the rest of the market, the Panamax index registered gains by rising 3.11% on Friday to 2,087 points. Despite these near-term index adjustments, underlying market fundamentals for 2026 remain relatively supportive, as expanding grain and coal trade flows are expected to keep demand growth ahead of the 1.5% to 2.5% fleet supply growth.
@@ -40,7 +39,6 @@ The dry bulk freight market experienced a general softening, as highlighted by B
 **Handysize:** Handysize market traded largely unchanged this week, driven primarily by vessel positioning rather than any notable shift in cargo demand as a quiet Pacific basin kept fixing activity subdued. While the Continent and Mediterranean regions maintained a balanced but quiet tone, the wider Atlantic basin softened further as a growing tonnage list outpaced incoming cargo volume. This expanding vessel availability weighed on Atlantic returns, dragging T/A rates down to US$15,965 per day while Inter-Pacific runs edged up slightly to US$15,233 per day.
 
 ## Page 3
-
 
 ### Baltic Dry Index (BDI)
 
@@ -92,7 +90,6 @@ The dry bulk freight market experienced a general softening, as highlighted by B
 
 ## Page 5
 
-
 # TANKERS | BDTI: 2,582 ▲+3.20% (w-o-w)
 
 Shipowners are increasingly redirecting empty tankers toward Egypt's Mediterranean terminal at Sidi Kerir to collect Saudi crude, as heightened caution increases over sailing near Houthi-threatened waters in the southern Red Sea. At least eight VLCCs are scheduled to arrive at the Egyptian port by mid-August, as Saudi Aramco expands sales along this northern corridor via the Suez-Mediterranean (SUMED) pipeline. Rising insurance restrictions for Saudi calls have prompted several fleet managers-including South Korea's Sinokor Group-to load at Sidi Kerir instead. At the same time, a cluster of ten empty Saudi tankers remains positioned near the Gulf of Aden, while visible traffic through the Strait of Hormuz remains extremely low apart from occasional dark transits with transponders deactivated. The wider oil sector is facing a growing mismatch between soft futures pricing and increasingly strained physical supply. Memories of 2022, when Brent crude reached nearly US$140 per barrel before trade routes adjusted, initially encouraged traders to believe the market could easily absorb Middle Eastern disruptions. This optimism has kept benchmark prices below US$90 per barrel during recent lulls in military strikes, but physical indicators paint a far tighter picture. Refining crack spreads have hit record levels as global supplies of gasoline, diesel, and jet fuel continue to shrink, while crude inventories and the U.S. Strategic Petroleum Reserve experience steady draws. As global demand outpaces real-world fuel production, the market's heavy reliance on supply-chain flexibility is being tested by dwindling physical reserves.
@@ -110,7 +107,6 @@ Shipowners are increasingly redirecting empty tankers toward Egypt's Mediterrane
 **MR:** Far East market closed with rates holding firm, supported by a slight uptick in Singapore cargo demand. In the MEG, rates continue to soar slightly with TC17 E. Africa trips settling at WS515 this week. Similarly in the USG, rates saw a 40-point jump with TC14 USG/UKC climbing to WS317.
 
 ## Page 6
-
 
 ### Baltic Tanker Indices
 
@@ -151,8 +147,6 @@ Shipowners are increasingly redirecting empty tankers toward Egypt's Mediterrane
 
 ## Page 8
 
-
-
 # CONTAINERS
 
 The global container shipping market continued its gradual downward correction this week as the SCFI index fell to 3,062.95 points, signalling a stabilising adjustment rather than a sharp downturn. Reflecting this broader trend across major trade lanes, the KCCI index dropped 81 points, to settle at 4,123, as the initial surge from early summer peak-season shipments continued to taper off. Across the Americas and South America, spot rates on both the U.S. East and West Coasts dipped further under the weight of waning peak-season demand and shipper resistance to elevated pricing, though MSC’s new Panama Canal surcharge underscores the persistent, high-cost operational structure underpinning these routes. Middle East route demonstrated a clear counter-cyclical rebound, rising for a second consecutive week as escalating security concerns surrounding the Strait of Hormuz prompted carriers to reintroduce risk premiums, emergency fuel surcharges, and contingency fees. Looking ahead, while the influx of extra vessel loaders will likely maintain short-term downward pressure on deep-sea trades, the floor for global freight levels remains insulated by carrier capacity management-including routine 10% blank sailings- and ongoing vessel diversions away from the Red Sea.
@@ -184,7 +178,6 @@ The global container shipping market continued its gradual downward correction t
 | 9,000 TEU | $145,525 | $51,700 | $75,775 | $107,025 | $112,000 |
 
 ## Page 10
-
 
 ### Ship Recycling - Current Market Snapshot (USD / LDT)
 
@@ -220,7 +213,6 @@ All prices are USD per light displacement tonnage (long ton), net prices offered
 
 ## Page 12
 
-
 ## Market Insights
 
 **Alang, India:** Alang observed a slight lift in buyer sentiment this week, driven by buyers actively seeking fresh tonnage after losing several recent deals to competing yards in Chattogram and Gadani. Domestic steel plate pricing saw a mid-week rally from 38,500 Indian rupees to 39,000 rupees per MT before retracing back to 38,500 rupees, though favourable currency shifts helped push it to about US$404/ton. This price firming was largely powered by tight physical plate inventories due to monsoon schedule rather than a surge in steel mill demand, which remains relatively subdued. Nevertheless, with seasonal rainfall deficits now fully covered, local recyclers increasingly believe the market has hit its floor and is primed for a September rebound.
@@ -237,12 +229,9 @@ This optimism coincides with broader indicators showing fundamental resilience a
 
 **Chattogram, Bangladesh:** Chattogram maintained a firm footing, supported by a strengthening buying appetite as monsoon began to clear. As yards reopened and resumed restocking, local steel trading activity recovered, with domestic plate prices stabilising near 64,700 taka/MT. Although earlier declines in local melting scrap and finished steel values have not yet translated into higher vessel offers-leaving price indications steady w-o-w-local recyclers remain eager to secure larger tonnages and offer top-tier prices for prompt deliveries. This buying enthusiasm is further supported by a steady flow of smaller Chinese vessels arriving on each tide cycle and an expanding number of yards achieving HKC compliance. However, buyers are exercising patience on new commitments, as high asking prices continue to test profit margins against local scrap values, while strict banking oversight remains a critical hurdle-evidenced by observers watching closely to see if domestic banks will issue an LC for the reported sale of the 16,708 LDT sanctioned tanker Forever.
 
-The recovery is taking place against a stabilising macroeconomic backdrop, highlighted by official reports showing Bangladesh's gross foreign exchange reserves climbing to US$36.46 billion by late July. Providing roughly six months of national import coverage, these healthier reserve levels offer much-needed liquidity to the domestic banking system, easing currency constraints for recyclers by opening foreign exchange
+The recovery is taking place against a stabilising macroeconomic backdrop, highlighted by official reports showing Bangladesh's gross foreign exchange reserves climbing to US$36.46 billion by late July. Providing roughly six months of national import coverage, these healthier reserve levels offer much-needed liquidity to the domestic banking system, easing currency constraints for recyclers by opening foreign exchange accounts for high-value vessel purchases. While headline inflation showed signs of cooling to 9.16% in June, central bank authorities and the IMF continue to advocate for disciplined monetary policy amidst broader global energy volatility and ongoing banking sector restructurings.
 
 ## Page 13
-
-
-accounts for high-value vessel purchases. While headline inflation showed signs of cooling to 9.16% in June, central bank authorities and the IMF continue to advocate for disciplined monetary policy amidst broader global energy volatility and ongoing banking sector restructurings.
 
 ## Chattogram Anchorage & Beaching Position - August 2026
 
@@ -268,7 +257,6 @@ Türkiye continues to attract owners prioritising compliance with EU Regulations
 
 ## Page 14
 
-
 # SUB-CONTINENT & TURKEY SCRAP MARKETS
 
 **India:** Imported ferrous scrap trading remains severely muted due to ongoing three-month monsoon disruptions, leaving buyers reliant strictly on hand-to-mouth, negotiated transactions. Unviable import economics persist as UK/EU-origin asking prices stay above US$345-350/t CFR and premium yards quote US$355-360/t CFR, far exceeding local workable HMS 80:20 levels of US$320-330/t CFR. Meanwhile, containerised shredded scrap is indicated at US$365-370/t CFR and Australia-origin HMS at US$335-340/t CFR Chennai, keeping overall seaborne interest minimal.
@@ -288,7 +276,6 @@ As July comes to a close, global industrial commodities face contrasting traject
 Market sentiment across bulk metals remained cautious as investors anticipated key policy signals from Beijing's Politburo meeting, where officials are expected to prioritise current fiscal implementation over aggressive new stimulus packages, while Australian supply remained plentiful after Western Australia's Pilbara Ports reported shipping 759.4 million tons of iron ore out of more than 800 million tons of total cargo handled during the 2025-2026 financial year.
 
 ## Page 15
-
 
 Conversely, copper futures demonstrated resilience, rebounding to US$6.33 per pound this Thursday after the Federal Reserve chose to maintain steady interest rates, alleviating immediate monetary concerns despite three FOMC members dissenting for a rate hike, with the metal receiving continued structural backing from global grid electrification and data center construction for artificial intelligence.
 
@@ -322,7 +309,6 @@ Conversely, copper futures demonstrated resilience, rebounding to US$6.33 per po
 
 ## Page 16
 
-
 ### Exchange Rates
 
 | CURRENCY PAIR | JULY 31 | JULY 24 | WoW % |
@@ -342,4 +328,3 @@ Conversely, copper futures demonstrated resilience, rebounding to US$6.33 per po
 | FUJAIRAH | $789 | $607 | $1349 |
 | ROTTERDAM | $680 | $550 | $1280 |
 | HOUSTON | $725 | $527 | $1242 |
-

@@ -28,9 +28,7 @@ Nigeria and the rest of West Africa are also important importers of petroleum pr
 
 *Source: Vortexa*
 
-The main origins of West African product imports are Europe and Asia (see
-
-total product imports. In 2023, Russia has become a more important source of products to West Africa, as countries take advantage of discounted prices.
+The main origins of West African product imports are Europe and Asia (see total product imports. In 2023, Russia has become a more important source of products to West Africa, as countries take advantage of discounted prices.
 
 About 60% of West African product imports consist of gasoline and blending components and 34% diesel and gasoil; the remainder is largely jet fuel. Nigerian imports are even more concentrated on gasoline, but demand there has come under pressure after the new government scrapped the fuel subsidies (see also “A New Dawn Or A False Start” from June 2023). The Dangote refinery is planning to produce about 327 Kb/d gasoline, 244 Kb/d diesel/gasoil and 56 Kb/d jet fuel. The remainder will be mostly propane and other LPG. These volumes line up nicely with current import volumes of West Africa, so it is possible that most of the West African imports from outside of the region will be replaced by Dangote production. Nigeria will likely need tonnage to distribute these barrels to other West African countries.
 

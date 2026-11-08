@@ -118,9 +118,7 @@ Vortexa - Global Freight Snapshot
 > **Figure 8: Ανώνυμο Σχέδιο (6)**  
 > **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2025/1/10/americas-crude-export-growth-supported-by-brazil-and-guyana) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-10_breakwave-weekend-read-4cn8n-wg9gj-jk5sb-4ckhh-cagw9-lpwzj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_8a7387d8496a.png)
 
-Crude export growth out of the Americas has remained robust driven by Brazil and Guyana while US and Canadian exports have experience some slowdown
-
-Vortexa Freight Weekly
+Crude export growth out of the Americas has remained robust driven by Brazil and Guyana while US and Canadian exports have experience some slowdown Vortexa Freight Weekly
 
 ## The Cape Trifecta: Part I (Iron Ore)
 

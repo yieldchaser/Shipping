@@ -16,11 +16,9 @@ charts_count: 3
 
 In 2008, it was difficult to envision the developments in exploration, production and the resultant impacts on trade that would come to characterize the tanker market just five years later. For the majority of the past decade, all eyes have been set on China and rightfully so. For all intents and purposes, the emerging market nation’s rapid crude oil consumption growth was the singular driving force for ton‐mile demand. Prospects for VLCCs looked bright. The West was obsolete.
 
-While the effect of Chinese demand on crude oil tanker prospects should not be minimized, it is the United States’ shale oil story that will dictate the development of worldwide trade lanes and the bifurcation of the tanker market for the foreseeable future. The long‐time structural relationship of asset prices and charter rates across tanker market segments could be in its
+While the effect of Chinese demand on crude oil tanker prospects should not be minimized, it is the United States’ shale oil story that will dictate the development of worldwide trade lanes and the bifurcation of the tanker market for the foreseeable future. The long‐time structural relationship of asset prices and charter rates across tanker market segments could be in its twilight. Today, the prognosis for large crude oil tankers is questionable at best, while a general euphoria for product tankers persists.
 
 *Chart: US exports support MR*
-
-twilight. Today, the prognosis for large crude oil tankers is questionable at best, while a general euphoria for product tankers persists.
 
 Refining capacity in the United States is approximately 17 million barrels per day; nearly half of which is located in the US Gulf. An intensive effort to track ships with export cargoes reveals the total export market to be between 1.5 – 2.5 million barrels per day. The chart below shows the total aggregate volume by each PADD.
 

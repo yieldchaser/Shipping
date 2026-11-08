@@ -36,7 +36,7 @@ The reversal of the 600,000 barrel per day Transpanama Pipeline in 2008 had an a
 
 Historically, tankers have made up a smaller percentage of Panama Canal traffic as compared to container ships and dry bulk carriers (see Fig. 2), and an even smaller portion of revenue per ton moved. Although tankers accounted for 24% of total cargo volume, the sector generated only 13% of toll revenue. On average, containerships paid roughly $20 per long ton of cargo, whereas tankers paid less around $4.70, according to 2013 statistics from the Panama Canal Authority.
 
-Project leaders of the Nicaraguan Canal appear to be hanging their hats on its utility by large tankers, such as VLCCs, and ore carriers. While Panama Canal traffic could be used as a
+Project leaders of the Nicaraguan Canal appear to be hanging their hats on its utility by large tankers, such as VLCCs, and ore carriers. While Panama Canal traffic could be used as a volumetric proxy, perhaps tanker trade patterns and their developments should be considered more carefully. While potential certainly exists for crude oil exports to ramp up from Atlantic-basin Canada, or possibly the United States over time, infrastructure constraints on the loading side, and draft restrictions in places like the US Gulf, could stymie the size of tankers used and their interest in not one, but two canals. Source: ACP
 
 | Vessel Type | Number of Transits 2013 2012 | Tolls (thousands) 2013 2012 | Long Tons of Cargo (thousands) 2013 2012 |
 | --- | --- | --- | --- |
@@ -49,8 +49,6 @@ Project leaders of the Nicaraguan Canal appear to be hanging their hats on its u
 | Passengers | 205 211 | 39,424 39,785 | - - |
 | Others | 691 804 | 49,058 53,973 | 5,474 7,161 |
 | Total | 12,045 12,862 | 1,846,753 1,850,781 | 209,878 218,053 |
-
-volumetric proxy, perhaps tanker trade patterns and their developments should be considered more carefully. While potential certainly exists for crude oil exports to ramp up from Atlantic-basin Canada, or possibly the United States over time, infrastructure constraints on the loading side, and draft restrictions in places like the US Gulf, could stymie the size of tankers used and their interest in not one, but two canals. Source: ACP
 
 ## Market Exhibits & Charts
 

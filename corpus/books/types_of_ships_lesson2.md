@@ -186,9 +186,7 @@ Source: ynfpublishers.com
 
 Source: dphotographer.co.uk
 
-noaa.gov
-
-safety4sea.com
+noaa.gov safety4sea.com
 
 - **Service Vessels** include many types of ships, such as cable-laying ships, research vessels, and icebreaking ships (all pictured above, respectively).
 

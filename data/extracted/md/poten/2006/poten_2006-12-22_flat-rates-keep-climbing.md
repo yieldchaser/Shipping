@@ -26,11 +26,7 @@ The primary driver for the increase in flat rates for 2007 is the significant ch
 
 IFO 380
 
-The Worldscale Association’s bunker price represents the
-
-st
-
-average worldwide bunker price for fuel oil during between October 1 and September 30, as assessed by Cockett Marine Oil Limited
+The Worldscale Association’s bunker price represents the st average worldwide bunker price for fuel oil during between October 1 and September 30, as assessed by Cockett Marine Oil Limited
 
 Worldscale Bunker Price Assumptions
 

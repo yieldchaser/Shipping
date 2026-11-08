@@ -22,7 +22,7 @@ Based on trade data from Lloyd’s List Intelligence’s APEX system, we estimat
 
 As IMO 2020 is closing in, refiners worldwide are trying to reduce the output of the increasingly less desirable Heavy Fuel Oil and produce more low sulfur fuels. Some countries/regions have been more successful than others. Fuel oil movements from the Atlantic side of the Americas (From Canada down to Argentina) have declined the most, from 1.4 Mb/d in 2014 to 660 Kb/d in 2019 (YTD). Within this region, the U.S. Gulf has by far the largest refining complex and it appears that U.S. Gulf refiners, which are highly complex with significant upgrading capacity, have reduced fuel oil output (and exports) the most. In addition to being more sophisticated, U.S. refineries have the added benefit of ample supplies of light sweet domestic (shale) crudes which yield less fuel oil.
 
-Since the high sulphur fuel oil cracks collapsed in Q4 of 2019, a fuel oil arbitrage window opened up and over the last three months (September – November), U.S. refiners have imported some 242 Kb/d of fuel oil from Russia via the Baltic and the Black Sea, an increase of 100 Kb/d (70%) over the same period
+Since the high sulphur fuel oil cracks collapsed in Q4 of 2019, a fuel oil arbitrage window opened up and over the last three months (September – November), U.S. refiners have imported some 242 Kb/d of fuel oil from Russia via the Baltic and the Black Sea, an increase of 100 Kb/d (70%) over the same period of 2018. Complex U.S. refiners can use these cheap fuels and blending stocks in their cokers to produce higher value products. Russia is long fuel oil and provided that the price is right, opportunistic refiners will replace (some) heavy crudes with fuel oil.
 
 *Chart*
 
@@ -31,8 +31,6 @@ Since the high sulphur fuel oil cracks collapsed in Q4 of 2019, a fuel oil arbit
 *Chart*
 
 *Source: Lloyd’s List Intelligence*
-
-of 2018. Complex U.S. refiners can use these cheap fuels and blending stocks in their cokers to produce higher value products. Russia is long fuel oil and provided that the price is right, opportunistic refiners will replace (some) heavy crudes with fuel oil.
 
 In terms of tanker ton-miles, the biggest impact on the market has been the reduction of imports into Asia. China and Singapore, in particular, were significant importers, but they reduced their purchases in recent months. In the future, some of this trade may come back, although the product moving to Asia may be compliant 0.5% Fuel Oil, rather than the HSFO imported previously. Some of the reduction in fuel oil movement may have been due to a timing mismatch. Shippers and bunker suppliers are running down HSFO stocks; the shippers because they cannot use it anymore after 1st January 2020 and the bunker suppliers because they need to create and clean up tank space for the new compliant fuels. The market is expected to settle down in the second half of 2020.
 

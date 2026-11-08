@@ -34,11 +34,9 @@ It was a mixed week for the Capesize with the Pacific continuing to experience a
 
 Panamax/Kamsarmax:
 
-Positive gains across this size with gains recorded in all routes. The North Atlantic remains tight due to reduced vessel supply, as Black Sea vessels ballast to South America, despite
+Positive gains across this size with gains recorded in all routes. The North Atlantic remains tight due to reduced vessel supply, as Black Sea vessels ballast to South America, despite moderate cargo inflow. In the Pacific, the region is seeing a slowdown in activity with limited spot vessels and cargoes. Pacific r/v saw levels close higher at US$13,000's a day.
 
 ## Page 3
-
-moderate cargo inflow. In the Pacific, the region is seeing a slowdown in activity with limited spot vessels and cargoes. Pacific r/v saw levels close higher at US$13,000's a day.
 
 Supramax/Ultramax: The Atlantic is experiencing a slowdown in its upward momentum, as key factors shift. The USG region, which had been a primary supporter of market conditions, has now reached a balance between supply and demand with influx of cargo from South America limited. Meanwhile, the Pacific continues to demonstrate strength across all major routes. Levels remain elevated around US$14,600's a day for Pacific r/v.
 
@@ -175,7 +173,6 @@ The container shipping market is showing signs of cooling after an unprecedented
 | 5,100 | Gearless | 79 | 77 | 61 | 35 | 32 |
 | *(amount in USD million) |  |  |  |  |  |  |
 
-
 ## Page 9
 
 ## Page 10
@@ -264,7 +261,6 @@ Chattogram, Bangladesh : 21 ~ 24 July | 4 ~ 7 August Alang, India : 19 ~ 27 July
 | ALPS | BULKER | 10,191 | 21.06.2024 | 03.07.2024 |
 | DIYAA B | BULKER | 6,956 | 20.06.2024 | 05.07.2024 |
 
-
 ## Page 15
 
 BUNKER PRICES (USD/TON)
@@ -294,11 +290,9 @@ The Sub-Continent and Turkish ferrous scrap market experienced a downtrend this 
 
 **Pakistani buyers displayed interest in seaborne scrap, though the pace remained slow**
 
-due to a sluggish domestic steel market. Indicative offers for shredded scrap from the UK/Europe were assessed at US$425-430/t CFR Qasim, with a few deals in the last 2-3 days concluded at US$422-425/t CFR. Domestic traders were seen talking about the corrections in domestic scrap and rebar prices. The current market rate was PKR 258,000-260,000, but mills kept their official rate
+due to a sluggish domestic steel market. Indicative offers for shredded scrap from the UK/Europe were assessed at US$425-430/t CFR Qasim, with a few deals in the last 2-3 days concluded at US$422-425/t CFR. Domestic traders were seen talking about the corrections in domestic scrap and rebar prices. The current market rate was PKR 258,000-260,000, but mills kept their official rate higher by PKR 5,000/t. Production costs were not under control for normal or mid-cap steel producers. Inquiries from the UK were heard at US$425/t, and deals were made at US$420-422/t, but it was buyer specific. Some buyers also showed better interest in the UAE materials, preferring PNS and HMS mix grades. The Bangladeshi imported scrap market was very slow, as buyers took a wait-and-see approach due to higher offers and anticipation of a price drop. Additionally, a gas shortage led to many rolling mills shutting down or reducing production. Although there was a high preference for materials from Australia, Singapore, and Malaysia, the increase in freight rates prevented the booking of significant volumes. Offers for Australian-origin shredded scrap were heard at US$425-430/t CFR Chattogram, while HMS (80:20) was at US$410/t CFR. The Turkish imported ferrous scrap market softened slightly following a recent US-origin deal and the decline in Chinese iron ore prices. However, suppliers remained firm, resulting in range-bound offers from the US at US$388-390/t CFR Turkey. HMS collection costs were assessed at Euro 325/t delivered to docks, though recyclers are anticipating a correction. A trader noted that it is difficult to get scraps at Euro 315/t.
 
 ## Page 16
-
-higher by PKR 5,000/t. Production costs were not under control for normal or mid-cap steel producers. Inquiries from the UK were heard at US$425/t, and deals were made at US$420-422/t, but it was buyer specific. Some buyers also showed better interest in the UAE materials, preferring PNS and HMS mix grades. The Bangladeshi imported scrap market was very slow, as buyers took a wait-and-see approach due to higher offers and anticipation of a price drop. Additionally, a gas shortage led to many rolling mills shutting down or reducing production. Although there was a high preference for materials from Australia, Singapore, and Malaysia, the increase in freight rates prevented the booking of significant volumes. Offers for Australian-origin shredded scrap were heard at US$425-430/t CFR Chattogram, while HMS (80:20) was at US$410/t CFR. The Turkish imported ferrous scrap market softened slightly following a recent US-origin deal and the decline in Chinese iron ore prices. However, suppliers remained firm, resulting in range-bound offers from the US at US$388-390/t CFR Turkey. HMS collection costs were assessed at Euro 325/t delivered to docks, though recyclers are anticipating a correction. A trader noted that it is difficult to get scraps at Euro 315/t.
 
 # HMS 1/2 & Tangshan Billet
 

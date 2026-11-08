@@ -20,15 +20,13 @@ If you look up the definition of “condensate”, it quickly becomes clear that
 
 Condensates became a hot topic in the U.S. back in 2014, when the ban on U.S. crude oil exports was still in place. Shale producers were trying to find a home for their growing output of ultra-light crude from wells in North Dakota, Ohio and Texas. In December 2014, the U.S. Department of Commerce’s Bureau of Industry and Security (BIS) issued a public guideline that cleared a path for U.S. condensates to be exported without the need for a special permit. Condensates were effectively classified as a petroleum product rather than crude oil. After receiving the green light from the BIS, U.S. condensate exports reached around 130,000 barrels/day in May 2015. Exports were shipped to Korea, Japan, Brazil and Europe. After the crude oil export ban was lifted, volumes from the U.S. have continued to grow in tandem with rising shale oil and gas output.
 
-Asia is the key market for condensates and many Asian refiners equipped with condensate splitters and petrochemical plants are hoping that U.S. sanctions against Iran will be lifted later this year. Iran is one of the largest producers of condensate within OPEC with domestic sources claiming 550,000 b/d of output currently. Most of Iran’s condensate is produced from the country’s giant South Pars gas field which Iran shares with Qatar in the Persian Gulf waters. Before the U.S. sanctions, most of Iran’s condensate was exported to South Korea and Japan. In recent years, Iran diverted most of its condensate to domestic refineries. Asian refiners have been forced to source condensates from Norway, West Africa, the U.S. as well as Qatar and Australia. However, many of these exporters have only
+Asia is the key market for condensates and many Asian refiners equipped with condensate splitters and petrochemical plants are hoping that U.S. sanctions against Iran will be lifted later this year. Iran is one of the largest producers of condensate within OPEC with domestic sources claiming 550,000 b/d of output currently. Most of Iran’s condensate is produced from the country’s giant South Pars gas field which Iran shares with Qatar in the Persian Gulf waters. Before the U.S. sanctions, most of Iran’s condensate was exported to South Korea and Japan. In recent years, Iran diverted most of its condensate to domestic refineries. Asian refiners have been forced to source condensates from Norway, West Africa, the U.S. as well as Qatar and Australia. However, many of these exporters have only small volumes available and the Asian customers are eager for the Iranians to return to the market.
 
 *Chart*
 
 *Source: DOE Energy Information Administration*
 
 *Source: Poten & Partners*
-
-small volumes available and the Asian customers are eager for the Iranians to return to the market.
 
 Total OPEC production of “Other Liquids”, which mainly consists of condensate, declined from 5.43 Mb/d in December 2019 to 4.98 Mb/d in July 2020, before recovering to 5.26 Mb/d in June 2021. In their latest Short Term Energy Outlook, the EIA forecasts that the output of Other Liquids will grow to 5.6 Mb/d in 2022. This is good news for Asian refiners, provided sanctions on Iran are lifted.
 

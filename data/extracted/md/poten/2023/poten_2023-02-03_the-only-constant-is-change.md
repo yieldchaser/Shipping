@@ -22,13 +22,11 @@ First, let cover the routes that did not change much. Just like it always propel
 
 The biggest change in percentage terms was on the Baltic to South Asia route. The ton-miles on this route went from 71 Million in 2021 to 566 Million in 2022, an increase of 694%(!). For people that follow the oil markets, this will not be a surprise. This massive increase is the result of the surge in Russian crude oil exports to India after the invasion of Ukraine triggered sanctions from many of Russia’s traditional (and geographically) closer customers in Europe.
 
-The increases in ton-miles per day of two other routes, (U.S. Gulf to SE Asia and AG to N Cont Europe) are also related to the Russian invasion of Ukraine. After the start of the conflict, oil prices spiked and, in an attempt to moderate gasoline prices in the United States, the White House announced a massive release of oil from the U.S. Strategic Petroleum Reserves (180 million barrels over 6 months). Some of these SPR barrels were exported to Asia and – in addition to already growing U.S. crude oil exports to Asia – contributed to a boost in ton-miles to this
+The increases in ton-miles per day of two other routes, (U.S. Gulf to SE Asia and AG to N Cont Europe) are also related to the Russian invasion of Ukraine. After the start of the conflict, oil prices spiked and, in an attempt to moderate gasoline prices in the United States, the White House announced a massive release of oil from the U.S. Strategic Petroleum Reserves (180 million barrels over 6 months). Some of these SPR barrels were exported to Asia and – in addition to already growing U.S. crude oil exports to Asia – contributed to a boost in ton-miles to this region. The growth in ton-miles on the AG to Europe route came as European countries were looking for alternatives to Russian crudes.
 
 *Chart*
 
 *Source: Poten & Partners, Lloyd’s List Intelligence*
-
-region. The growth in ton-miles on the AG to Europe route came as European countries were looking for alternatives to Russian crudes.
 
 The main losers in the trade route merry-go-round are the long-haul trades from the Atlantic Basin to Asia, as well as from the North Sea to the U.S. Gulf. European sanctions on Russian barrels have drawn in more crude from West Africa, Brazil and Guyana, diverting them away from Asia and shortening the average sailing distance for these crudes. The Europeans also kept most of the North Sea crude in the region, reducing the availability for exports to the U.S. Gulf. The (limited) flow of Russian crude and fuel oil to the U.S. stopped as well in 2022.
 

@@ -28,9 +28,7 @@ Regulatory programs are designed to have an industry-wide effect with increased 
 
 Protective coatings have traditionally been applied to cargo tanks in vessels that are designed to carry clean products. The newbuilding market is seeing increased interest on coating larger vessels. While many owners are realizing the benefit of coated cargo tanks from a commercial perspective, specifically in the clean product trades, the protective benefits for coated cargo and ballast tanks in crude carriers are also being recognized.
 
-Today, coating of ballast tanks is required according to existing IMO regulations. By mid-2008, the IMO will impose a new set of guidelines to perfect the coating application process known as the Performance Standards for Protective Coating (PSPC.) The standards have been developed in an effort to protect ballast tanks from premature corrosion that can have catastrophic consequences. The
-
-st 2008, or for
+Today, coating of ballast tanks is required according to existing IMO regulations. By mid-2008, the IMO will impose a new set of guidelines to perfect the coating application process known as the Performance Standards for Protective Coating (PSPC.) The standards have been developed in an effort to protect ballast tanks from premature corrosion that can have catastrophic consequences. The st 2008, or for
 
 PSPC will affect those vessels ordered on or after July 1 st 2012. The primary points of the delivery date on or after January 1 IMO’s regulation are that the coating performance standards should be applied to all ballast and void spaces on all ships, and that the target coating life should be at least 15 years.
 

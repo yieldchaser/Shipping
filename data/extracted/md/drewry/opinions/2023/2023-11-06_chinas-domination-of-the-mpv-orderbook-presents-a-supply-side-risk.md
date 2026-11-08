@@ -36,9 +36,7 @@ In conclusion, the combination of small orderbook, robust charter market and no 
 
 Outlook– analyses the sensitivities around the base-case scenario to determine the associated risks to the forecasts.
 
-Fleet– examines the Multipurpose fleet, including shortsea and heavylift vessels,
-
-segmented by vessel type and lift capacity, the operators, demolitions, newbuilds, orderbook and 5-year fleet forecasts
+Fleet– examines the Multipurpose fleet, including shortsea and heavylift vessels, segmented by vessel type and lift capacity, the operators, demolitions, newbuilds, orderbook and 5-year fleet forecasts
 
 Freight Market– analyses supply-demand balance, competing sectors, charter rates, as well as 5-year market forecasts. Includes monthly updates of Drewry’s Multipurpose Time Charter Index
 

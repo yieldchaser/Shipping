@@ -24,13 +24,11 @@ Prior to the invasion of Ukraine, Russia used LR2s mainly to ship refined produc
 
 The changes in trade-flows as a result of the war in Ukraine are likely to persist, even if the hostilities end. Europe has realized that it had become too dependent on Russia for its crude oil and oil products and it is unlikely that they will make the same mistake twice.
 
-Apart from the increase in ton-mile demand, which we discussed above, there are a number of other factors that support the strong Aframax/LR2 market. The efficiency of the Aframax fleet has been reduced since the Russian invasion of Ukraine, Western countries have imposed increasing sanctions
+Apart from the increase in ton-mile demand, which we discussed above, there are a number of other factors that support the strong Aframax/LR2 market. The efficiency of the Aframax fleet has been reduced since the Russian invasion of Ukraine, Western countries have imposed increasing sanctions on the regime in Moscow. Partly as a result of the EU import ban and the G7 price cap, which potentially limit the involvement of Western owners in the Russian trades, more Aframaxes have moved into the dark fleet. These vessels have a lower utilization rate because they typically don’t triangulate, but mostly ballast back after they deliver their cargo and they might incur more waiting time.
 
 *Chart*
 
 *Sources: Vortexa; Poten & Partners*
-
-on the regime in Moscow. Partly as a result of the EU import ban and the G7 price cap, which potentially limit the involvement of Western owners in the Russian trades, more Aframaxes have moved into the dark fleet. These vessels have a lower utilization rate because they typically don’t triangulate, but mostly ballast back after they deliver their cargo and they might incur more waiting time.
 
 Aframax/LR2 rates have also been supported by limited fleet growth in recent years. In 2022, 29 Aframaxes and only 6 LR2s were delivered, which is well below pre-pandemic averages. The orderbook for delivery in 2023 and 2024 is not very high either, so the expectation is that the Aframax/LR2 market will remain relatively strong. The supply outlook for 2025 and beyond is more uncertain. This year, new orders for Aframaxes (in particular LR2s) have picked up, but there is disagreement between various sources by how much. There is no doubt that the improved earnings of the last 18 months or so have convinced more owners to make the trip to the shipyard, but we suspect that the headline orderbook totals include quite a few unconfirmed orders, as well as options.
 

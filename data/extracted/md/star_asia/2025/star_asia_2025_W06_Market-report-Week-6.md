@@ -316,11 +316,9 @@ The Turkish scrap market remained rangebound but saw deals closing slightly high
 
 ## Commodities
 
-The global metals market experienced notable volatility as President Trump's announcement of substantial tariffs on China (10%) and North American neighbours Canada and Mexico (25%) sent ripples through the industry. While the initial market reaction saw aluminum plunging more than 1 .6% on the London Metal Exchange, prices rebounded as U.S. trading commenced, with copper following a similar trajectory. This market recalibration was further influenced by Mexican President Claudia Sheinbaum's announcement of a one-month delay in U.S. tariffs against Mexico, coupled with a
+The global metals market experienced notable volatility as President Trump's announcement of substantial tariffs on China (10%) and North American neighbours Canada and Mexico (25%) sent ripples through the industry. While the initial market reaction saw aluminum plunging more than 1 .6% on the London Metal Exchange, prices rebounded as U.S. trading commenced, with copper following a similar trajectory. This market recalibration was further influenced by Mexican President Claudia Sheinbaum's announcement of a one-month delay in U.S. tariffs against Mexico, coupled with a weakening dollar that enhanced the appeal of metal investments for international buyers.
 
 ## Page 18
-
-weakening dollar that enhanced the appeal of metal investments for international buyers.
 
 The outcomes of these tariffs extend beyond immediate price fluctuations, particularly in the aluminum sector where Canada's dominance in U.S. imports (69% in 2023) suggests significant market disruption ahead. Analysts anticipate heightened volatility in U.S. commodity exchanges as markets grapple with Trump's commitment to universal tariffs. Meanwhile, Morgan Stanley experts suggest that critical minerals classification might offer some respite, potentially qualifying metals like aluminium, nickel, and zinc for the lower 10% tariff rate applied to energy resources. While the energy transition and European economic revival could bolster metals demand, the spectre of prolonged higher interest rates and potential export restrictions on critical minerals looms large.
 

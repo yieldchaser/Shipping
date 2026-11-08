@@ -34,11 +34,9 @@ Chinese iron ore port inventories have been decreasing steadily for over two mon
 
 ## Panamax / Kamsarmax:
 
-Grain sales in Brazil have declined due to ongoing adjustments in pace and sluggish demand for coal in the Pacific region. As international prices for soybeans and maize continue to decrease, influenced by Brazil's abundant harvest, grain exporters in Brazil are trying to adjust their export rates to protect prices. Coal imports are expected to increase as the summer season approaches in the northern hemisphere, and the export of double-cropped corn from Brazil will
+Grain sales in Brazil have declined due to ongoing adjustments in pace and sluggish demand for coal in the Pacific region. As international prices for soybeans and maize continue to decrease, influenced by Brazil's abundant harvest, grain exporters in Brazil are trying to adjust their export rates to protect prices. Coal imports are expected to increase as the summer season approaches in the northern hemisphere, and the export of double-cropped corn from Brazil will also begin in earnest. Overall rates in both basins saw a dip. South America remains active, but contract reports show intermittent maintenance at previous levels. T/A levels closed around the low US$9,500 range. In the Pacific, there is increasing downward pressure due to sluggish demand. However, improvements in ports and the inflow of cargo from Indonesia are preventing excessive declines. Levels for Pacific r/v slipped to an average of US$8,950 a day.
 
 ## Page 3
-
-also begin in earnest. Overall rates in both basins saw a dip. South America remains active, but contract reports show intermittent maintenance at previous levels. T/A levels closed around the low US$9,500 range. In the Pacific, there is increasing downward pressure due to sluggish demand. However, improvements in ports and the inflow of cargo from Indonesia are preventing excessive declines. Levels for Pacific r/v slipped to an average of US$8,950 a day.
 
 ## Supramax / Ultramax:
 
@@ -273,11 +271,9 @@ A vast majority of the recyclers believe that the current rebound in the midst o
 
 In a troubling turn of events, domestic markets are grappling with a persistent decline in prices of domestic ship plates and melting scrap. This can be attributed to the sluggish demand from steel mills, which has weakened onward sales due to the ailing economy. Adding to the complexity of the situation are the mounting challenges surrounding ongoing issues with Letters of Credit (LC) and the strengthening of the U.S. dollar against the local currency.
 
-The domestic ship plate and melting scrap prices are on a steady downward trajectory, causing concerns within the market. The primary reason behind this slump is lackluster sales to steel
+The domestic ship plate and melting scrap prices are on a steady downward trajectory, causing concerns within the market. The primary reason behind this slump is lackluster sales to steel mills. The reduced demand from these mills has a direct impact on the prices of ship plates and melting scrap, exacerbating the downward trend.
 
 ## Page 14
-
-mills. The reduced demand from these mills has a direct impact on the prices of ship plates and melting scrap, exacerbating the downward trend.
 
 Ship prices are expected to remain within a certain range as industry experts foresee continued pressure on their value. Furthermore, the upcoming monsoon season is anticipated to have a dampening effect on both production and demand for ships.
 

@@ -295,9 +295,7 @@ The Commodore has a lengthy list of former owners, and has previously traded as 
 ## **BRITOIL EXPANSION CONTINUES**
 
 *[Photo: Britoil Justice (Ulstein)]*
-While Britoil Offshore Services is busy doubling the size of its offshore fleet via the acquisition of 30 OSVs from Vroon Offshore (see p.4 for details), the owner is also adding to its fleet with newbuild tonnage. The latest will be in the form of the Britoil Justice PSV which successfully
-
-completed her sea trials in China on September 17th. Built to the Ulstein P128 design at the South China Shipyard in Guangzhou, the Britoil Justice is a sister ship to the Britoil Journey which was delivered in April. Both vessels were originally ordered by Kuma Shipping back in 2013.
+While Britoil Offshore Services is busy doubling the size of its offshore fleet via the acquisition of 30 OSVs from Vroon Offshore (see p.4 for details), the owner is also adding to its fleet with newbuild tonnage. The latest will be in the form of the Britoil Justice PSV which successfully completed her sea trials in China on September 17th. Built to the Ulstein P128 design at the South China Shipyard in Guangzhou, the Britoil Justice is a sister ship to the Britoil Journey which was delivered in April. Both vessels were originally ordered by Kuma Shipping back in 2013.
 
 # NEWBUILDS, CONVERSIONS, S&P
 

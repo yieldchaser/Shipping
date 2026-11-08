@@ -22,15 +22,13 @@ In the runup to Monday’s deadline, it appears that both Russia and its oil cus
 
 In the midst of this EU import ban and oil price cap controversy, the tanker market also has to keep an eye on the decisions of the OPEC cartel and the oil demand situation in China, where the government’s zero-Covid policy and resulting lockdowns have created protests and popular unrest.
 
-The decisions of the OPEC+ group have a big impact on the oil and tanker markets. As oil demand started to recover post-Covid, OPEC+ was increasing production for most of 2022. However, one month ago they decided on a massive 2 million barrels per day (Mb/d) cut in output as they were afraid that the market was going to be oversupplied. The actual cutbacks were about 710,000 b/d according to a Reuters survey. Despite this and the threat of supply disruptions from Russia as a result of
+The decisions of the OPEC+ group have a big impact on the oil and tanker markets. As oil demand started to recover post-Covid, OPEC+ was increasing production for most of 2022. However, one month ago they decided on a massive 2 million barrels per day (Mb/d) cut in output as they were afraid that the market was going to be oversupplied. The actual cutbacks were about 710,000 b/d according to a Reuters survey. Despite this and the threat of supply disruptions from Russia as a result of the EU import ban and price cap, oil prices have declined to levels not seen since before the Russian invasion of Ukraine. This was not what most pundits expected, underlining the unpredictability of the situation.
 
 *Chart*
 
 *Source: Poten & Partners*
 
 *Source: Lloyd’s List Intelligence*
-
-the EU import ban and price cap, oil prices have declined to levels not seen since before the Russian invasion of Ukraine. This was not what most pundits expected, underlining the unpredictability of the situation.
 
 Where do we go from here? On Sunday, a virtual OPEC meeting will discuss what to do with the current oil output target. The consensus opinion is that they will stick with the current quota, but OPEC has surprised the markets before, and a further cut is not completely off the table.
 

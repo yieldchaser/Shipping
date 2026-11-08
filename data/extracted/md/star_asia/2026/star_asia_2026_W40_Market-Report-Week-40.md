@@ -191,7 +191,6 @@ Container shipping market halted its upward climb this week as the SCFI index ed
 
 ## Page 10
 
-
 ### Ship Recycling - Current Market Snapshot (USD / LDT)
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
@@ -286,11 +285,9 @@ Türkiye's financial market anticipate next week's official inflation release, w
 
 Steel rebar futures climbed to roughly CNY 3,109 per ton, touching a one-week high after the World Steel Association reported that worldwide crude steel output contracted by 1.2% y-o-y in August to 144.2 million tons and slipped 3.3% m-o-m from July's 149.2 million tons, with China's monthly drop of 2.3 million tons accounting for almost half of that global slowdown. Although China retains its role as the dominant producer by supplying 51.7% of the world's steel, its domestic mills continue to battle weak builder demand and compressed profit margins, prompting the China Iron and Steel Association to urge steelmakers to curb runs and draw down stock.
 
-Iron ore futures echoed this modest stabilization, lifting toward CNY 710 per ton from eight-week lows as factory activity in China returned to growth during September alongside government credit programs targeted at real estate, technology, and civil works. Conversely, copper futures retreated toward US$6.5 per pound to reach two-week lows, as market participation thinned before China's October 1-7 holiday and official figures showed national industrial profit expansion decelerating to 15.7% for the first eight months of the year, down from the 17.6% pace seen through July. The red metal's near-term outlook
+Iron ore futures echoed this modest stabilization, lifting toward CNY 710 per ton from eight-week lows as factory activity in China returned to growth during September alongside government credit programs targeted at real estate, technology, and civil works. Conversely, copper futures retreated toward US$6.5 per pound to reach two-week lows, as market participation thinned before China's October 1-7 holiday and official figures showed national industrial profit expansion decelerating to 15.7% for the first eight months of the year, down from the 17.6% pace seen through July. The red metal's near-term outlook remains framed by ongoing supply variables, notably potential strike action at an Antofagasta-operated facility in Chile, discussions by Panamanian authorities to restart a major suspended mine, and the continued absence of a definitive White House decision on refined copper import tariffs.
 
 ## Page 15
-
-remains framed by ongoing supply variables, notably potential strike action at an Antofagasta-operated facility in Chile, discussions by Panamanian authorities to restart a major suspended mine, and the continued absence of a definitive White House decision on refined copper import tariffs.
 
 ### Iron Ore
 

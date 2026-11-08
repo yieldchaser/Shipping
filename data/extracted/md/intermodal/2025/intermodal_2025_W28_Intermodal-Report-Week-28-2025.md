@@ -137,9 +137,7 @@ This week saw generally improving conditions across the bulk shipping sectors, w
 
 In the Capesize segment, Pacific activity stayed strong with owner sentiment turning bullish by the week's end, anticipating a market rebound. The Atlantic side was slower to gain traction, but momentum improved later in the week with increased fixing and stronger bids, particularly on routes from South America and West Africa to Asia. Overall, market sentiment strengthened as the week progressed, closing on a notably positive note.
 
-The Panamax market recorded a significant upswing, particularly across the Atlantic. Northern routes saw steep gains as vessel availability declined, encouraging charterers to achieve higher offers. Notable fixtures emerged out of the ECSA and trans-Atlantic routes. By contrast, Asia remained quieter, with plentiful vessel supply keeping gains modest. Nonetheless, improved con-
-
-fidence and selective demand, especially linked to Indonesian coal trades, helped bolster outlooks marginally.
+The Panamax market recorded a significant upswing, particularly across the Atlantic. Northern routes saw steep gains as vessel availability declined, encouraging charterers to achieve higher offers. Notable fixtures emerged out of the ECSA and trans-Atlantic routes. By contrast, Asia remained quieter, with plentiful vessel supply keeping gains modest. Nonetheless, improved con-fidence and selective demand, especially linked to Indonesian coal trades, helped bolster outlooks marginally.
 
 Supramax and Ultramax tonnage experienced a robust week amid tightening availability and firmer cargo demand. Gains were recorded in the Atlantic, with support from the strong Panamax market. Improved activity was also observed in the US Gulf and across Asia, particularly in the north. Charter periods remained attractive, with multiple forward fixtures being concluded.
 

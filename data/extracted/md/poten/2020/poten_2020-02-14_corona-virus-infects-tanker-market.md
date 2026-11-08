@@ -20,7 +20,7 @@ The corona virus (now officially called COVID-19 by the World Health Organizatio
 
 Until now, the corona virus has primarily affected China and, as a result, it has had by far the biggest impact on Chinese oil demand. This is particularly bad news for the VLCC segment. Some 79% of China’s seaborne crude oil shipments arrive by VLCC, while Suezmaxes and Aframaxes represent only 9% and 10% respectively. The fact that China is by far the largest crude oil importer in the world exacerbates this problem: VLCCs rely on China for 42% of their global employment. That is not to say that the other tanker segments are not affected. They are. Average earnings for all tanker segments have come down precipitously since the middle of January, but the VLCC have underperformed, both in relative and in absolute terms. However, tankers are flexible and can be redeployed. As time progresses, we expect the market to “normalize” to some extent. As rates have come down, relatively cheap VLCCs will encroach on Suezmax routes in the Atlantic Basin and they may be used for floating storage, especially now that the oil markets have moved into contango. There have been various reports in recent weeks of traders and oil companies looking to use vessels for floating storage to take advantage of this contango play. The fact that tanker rates have collapsed, and oil is relatively cheap (lowering the financing cost) has helped as well. These developments will eventually lift VLCC employment and rates, but it could take some time.
 
-The spread of COVID-19 in China has also had a significant impact on the Chinese shipbuilding and ship repair industry. Over the last 15 years, Chinese shipyard have become major global players in the construction of crude oil and product tankers. The current tanker orderbook clearly shows that. Of
+The spread of COVID-19 in China has also had a significant impact on the Chinese shipbuilding and ship repair industry. Over the last 15 years, Chinese shipyard have become major global players in the construction of crude oil and product tankers. The current tanker orderbook clearly shows that. Of the total orderbook of 389 tankers from MR’s up to VLCC that are under construction worldwide, 99 (25%) are being built in China. Many of the ships, especially the ones scheduled for delivery in 2020 will likely face delays as shipyards face shortages of labor and parts. This will also push back the installation of scrubbers and ballast water treatment systems that owners had planned in Chinese yards.
 
 *Chart*
 
@@ -29,8 +29,6 @@ The spread of COVID-19 in China has also had a significant impact on the Chinese
 *Source: Lloyd’s List Intelligence*
 
 *Source: Poten & Partners*
-
-the total orderbook of 389 tankers from MR’s up to VLCC that are under construction worldwide, 99 (25%) are being built in China. Many of the ships, especially the ones scheduled for delivery in 2020 will likely face delays as shipyards face shortages of labor and parts. This will also push back the installation of scrubbers and ballast water treatment systems that owners had planned in Chinese yards.
 
 The oil and tanker markets are adjusting and making changes to deal with the situation. High priced VLCC cargoes are lightered into cheaper vessels to avoid expensive demurrage bills. Cargoes are resold and vessels are diverted to other destinations. At the same time, vessels are reducing their speed to save fuel. Refiners are dealing with reduced demand by cutting runs and advancing and expanding refinery maintenance.
 

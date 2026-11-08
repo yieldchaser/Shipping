@@ -314,11 +314,9 @@ Meanwhile, the US strategic stockpiling programme continues to influence global 
 
 The near-term outlook remains cautious, with monetary policy uncertainty and easing supply risks weighing on prices. However, US stockpiling could tighten availability in other markets, potentially providing longer-term price support.
 
-On the contrary, China's power sector is dealing with severe fuel inflation as benchmark thermal coal exceeded 1,000 yuan (US$150) per ton on October 12 for the first time in two years-a 25% jump since mid-July-propelled by a 3% y-o-y drop in domestic coal output through August, delayed mine recertifications following the Shanxi disaster, an annual railway maintenance window ending October 26th, and reduced
+On the contrary, China's power sector is dealing with severe fuel inflation as benchmark thermal coal exceeded 1,000 yuan (US$150) per ton on October 12 for the first time in two years-a 25% jump since mid-July-propelled by a 3% y-o-y drop in domestic coal output through August, delayed mine recertifications following the Shanxi disaster, an annual railway maintenance window ending October 26th, and reduced import flows from Indonesia where planned export curbs and El Niño droughts have hindered barge logistics.
 
 ## Page 16
-
-import flows from Indonesia where planned export curbs and El Niño droughts have hindered barge logistics.
 
 ### Iron Ore
 

@@ -40,11 +40,9 @@ The Atlantic, while lacking strong upward momentum, is finding support from posi
 
 Handysize:
 
-Not much activity was recorded during this period of holidays. The handy segment did
+Not much activity was recorded during this period of holidays. The handy segment did see slight activity in the Pacific, but the Atlantic remains mostly muted. BHSI ended the week with a slight loss.
 
 ## Page 3
-
-see slight activity in the Pacific, but the Atlantic remains mostly muted. BHSI ended the week with a slight loss.
 
 ## Baltic Exchange Dry Bulk Indices
 

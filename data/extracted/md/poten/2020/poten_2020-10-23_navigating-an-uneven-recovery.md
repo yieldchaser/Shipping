@@ -24,7 +24,7 @@ Comparing the averages of Q2 2020 with July 2020 (the latest month available in 
 
 Covid restrictions were relaxed during the summer and demand for road transportation fuels recovered, but most people remained very reluctant to fly. Business travel in particular has taken a big hit. Many people are still working from home and have gotten used to remote ways of doing business. It remains to be seen if business travel will ever get back to pre-pandemic levels. The trend in the Americas was directionally similar to that in Europe, but as the Covid situation in OECD Americas (which includes Mexico, Chile and Colombia, in addition to the United States and Canada) remained more challenging, the recovery was not as strong. Gasoline and Diesel demand in the Americas is still 9% and 13% respectively below the Q4 2019 numbers.
 
-Since July, the situation has worsened in both Europe and the Americas. While we don’t have demand data yet for August and September, we expect that the rapid recovery in demand has slowed down on both sides of the Atlantic as Covid-19 has
+Since July, the situation has worsened in both Europe and the Americas. While we don’t have demand data yet for August and September, we expect that the rapid recovery in demand has slowed down on both sides of the Atlantic as Covid-19 has entered a second wave. The situation in OECD Asia is different. While Covid is not completely gone, it appears to be much more under control in OECD Asia, which could help turn things around quicker.
 
 *Chart*
 
@@ -35,8 +35,6 @@ Since July, the situation has worsened in both Europe and the Americas. While we
 *Chart*
 
 *Source: FlightRadar24*
-
-entered a second wave. The situation in OECD Asia is different. While Covid is not completely gone, it appears to be much more under control in OECD Asia, which could help turn things around quicker.
 
 China has been the exception. They were the early victims of Covid-19, but after they brought it under control, it has not resurfaced in a big way. China compares favorably with the OECD countries. Other than Jet Fuel, which is still down, demand for all other products has recovered.
 
