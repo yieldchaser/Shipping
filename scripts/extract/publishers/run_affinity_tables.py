@@ -322,7 +322,7 @@ def stamp_and_stack() -> Dict[str, Any]:
             indices["source_file"] = source_file
 
         # Write updated sidecar JSON
-        sidecar_path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+        sidecar_path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
         stamped_count += 1
 
     # Deterministic sorting
@@ -335,7 +335,7 @@ def stamp_and_stack() -> Dict[str, Any]:
         "quantity_mt", "tce_usd_per_day", "trend_wow", "source_file"
     ]
     with open(TCE_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=tce_headers)
+        writer = csv.DictWriter(f, fieldnames=tce_headers, lineterminator="\n")
         writer.writeheader()
         writer.writerows(tce_records)
 
@@ -344,7 +344,7 @@ def stamp_and_stack() -> Dict[str, Any]:
         "issue_date", "report_week", "segment", "price_usd_per_ldt", "change_wow", "source_file"
     ]
     with open(BDA_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=bda_headers)
+        writer = csv.DictWriter(f, fieldnames=bda_headers, lineterminator="\n")
         writer.writeheader()
         writer.writerows(bda_records)
 

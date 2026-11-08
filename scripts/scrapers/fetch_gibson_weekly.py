@@ -148,7 +148,7 @@ def fetch_latest_gibson_rates():
                     added_cat += 1
             if added_cat > 0:
                 cat_data["online_reports"] = online_list
-                cat_path.write_text(json.dumps(cat_data, indent=2), encoding="utf-8")
+                cat_path.write_text(json.dumps(cat_data, indent=2), encoding="utf-8", newline="\n")
                 print(f"Added {added_cat} new Gibson online report(s) to {cat_path.name}")
         except Exception as ce:
             print(f"Warning: could not update {cat_path.name}: {ce}")

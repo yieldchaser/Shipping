@@ -111,7 +111,7 @@ def main():
         report[f] = {"before": len(cur), "added": len(add), "after": len(out),
                      "weeks": sorted(set(add["report_week"].astype(int))) if len(add) else []}
         if not args.dry_run:
-            out.to_csv(SER / f, index=False)
+            out.to_csv(SER / f, index=False, lineterminator="\n")
     print(json.dumps(report, indent=1), "(dry-run, not written)" if args.dry_run else "(written)")
 
 

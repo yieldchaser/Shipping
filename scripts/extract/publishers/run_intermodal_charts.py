@@ -1059,11 +1059,11 @@ def main(argv):
             fail += 1
             done[sid] = {"n_points": 0, "error": str(e)[:200]}
             print(f"[{i}/{len(pdfs)}] {sid} FAILED {e}", flush=True)
-            state.write_text(json.dumps(done, indent=1), encoding="utf-8")
+            state.write_text(json.dumps(done, indent=1), encoding="utf-8", newline="\n")
             continue
         npts = sum(s["n_points"] for c in d["charts"] for s in c["series"])
         (OUT / (sid + ".charts.json")).write_text(
-            json.dumps(d, ensure_ascii=False, indent=1), encoding="utf-8")
+            json.dumps(d, ensure_ascii=False, indent=1), encoding="utf-8", newline="\n")
         done[sid] = {"n_points": npts, "n_charts": len(d["charts"]),
                      "n_series": sum(len(c["series"]) for c in d["charts"]),
                      "warnings": d["warnings"]}
@@ -1071,7 +1071,7 @@ def main(argv):
             ok += 1
         else:
             fail += 1
-        state.write_text(json.dumps(done, indent=1), encoding="utf-8")
+        state.write_text(json.dumps(done, indent=1), encoding="utf-8", newline="\n")
         print(f"[{i}/{len(pdfs)}] {sid} charts={len(d['charts'])} "
               f"series={done[sid]['n_series']} pts={npts} "
               f"{'OK' if npts else 'EMPTY ' + str(d['warnings'])}", flush=True)

@@ -250,7 +250,7 @@ def run_strict_audit() -> None:
 
     # Generate Markdown Audit Report
     REPORT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    with open(REPORT_FILE, "w", encoding="utf-8") as f:
+    with open(REPORT_FILE, "w", encoding="utf-8", newline="\n") as f:
         f.write("# Strict Broker Extraction Audit Report\n\n")
         f.write(f"**Audit Timestamp:** 2026-09-25\n")
         f.write(f"**Publishers Audited:** 15\n")

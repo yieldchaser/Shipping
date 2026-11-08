@@ -85,10 +85,10 @@ def main():
         clean_md += index_str
         
     print(f"Writing updated markdown to {TARGET_MD} ({len(clean_md)} chars)...")
-    TARGET_MD.write_text(clean_md, encoding='utf-8')
+    TARGET_MD.write_text(clean_md, encoding='utf-8', newline="\n")
     
     print(f"Writing to {KNOWLEDGE_MD}...")
-    KNOWLEDGE_MD.write_text(clean_md, encoding='utf-8')
+    KNOWLEDGE_MD.write_text(clean_md, encoding='utf-8', newline="\n")
     
     print("Done. 100% byte parity enforced.")
 

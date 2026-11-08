@@ -191,7 +191,7 @@ def sync_register():
         updated_md = re.sub(rf"`{re.escape(name)}` \([0-9,]+ rows\)", f"`{name}` ({n:,} rows)", updated_md)
 
     # Write updated EXTRACTION_REGISTER.md
-    REGISTER_MD.write_text(updated_md, encoding="utf-8")
+    REGISTER_MD.write_text(updated_md, encoding="utf-8", newline="\n")
     print(f"Successfully synchronized {REGISTER_MD}")
 
     # 6. Synchronize EXTRACTION_REGISTER.json
@@ -228,7 +228,7 @@ def sync_register():
             reg_data["total_master_series_csvs"] = len(csv_files)
             reg_data["total_series_csvs"] = len(csv_files)
             
-            with open(REGISTER_JSON, "w", encoding="utf-8") as jf:
+            with open(REGISTER_JSON, "w", encoding="utf-8", newline="\n") as jf:
                 json.dump(reg_data, jf, indent=2)
             print(f"Successfully synchronized {REGISTER_JSON}")
         except Exception as e:

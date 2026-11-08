@@ -575,7 +575,7 @@ def write_reports(results: list, out_dir: Path, seed: int = 7) -> None:
     fields = ["publisher", "file", "table_index", "heading", "kind", "class", "reason", "numeric_cells",
               "printed_ratio", "title_match", "time_series", "flags", "source", "first_rows"]
     with open(out_dir / "report.csv", "w", newline="", encoding="utf-8") as fh:
-        w = csv.DictWriter(fh, fieldnames=fields)
+        w = csv.DictWriter(fh, fieldnames=fields, lineterminator="\n")
         w.writeheader()
         w.writerows(rows)
 
@@ -657,12 +657,12 @@ def write_reports(results: list, out_dir: Path, seed: int = 7) -> None:
         rs = (f"printed_ratio min/mean/max = {min(ratios):.2f}/{sum(ratios) / len(ratios):.2f}/{max(ratios):.2f}"
               if ratios else "no ratios (no text layer)")
         out.append(f"- {name}: {len(sel)} tables, {dict(cls)}; {rs}")
-    (out_dir / "summary.md").write_text("\n".join(out) + "\n", encoding="utf-8")
+    (out_dir / "summary.md").write_text("\n".join(out) + "\n", encoding="utf-8", newline="\n")
 
 
 def write_applied_report(results: list, out_dir: Path) -> None:
     with open(out_dir / "applied_report.csv", "w", newline="", encoding="utf-8") as fh:
-        w = csv.writer(fh)
+        w = csv.writer(fh, lineterminator="\n")
         w.writerow(["file", "publisher", "heading", "kind", "numeric_cells", "printed_ratio", "reason"])
         for r in results:
             for rec in r["records"]:

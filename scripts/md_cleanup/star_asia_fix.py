@@ -539,7 +539,7 @@ def run(years: list[str] | None, limit: int | None, detect_only: bool, out_root:
                     json.dumps({"md": str(MD_ROOT_REL / yr / p.name), "pdf": pdf.name,
                                 "source_sha256": hashlib.sha256(p.read_bytes()).hexdigest(),
                                 "changes": ch, "unresolved": un}, indent=1, ensure_ascii=False),
-                    encoding="utf-8")
+                    encoding="utf-8", newline="\n")
     summary["by_year_class"] = {y: dict(c) for y, c in byyc.items()}
     summary["lines_by_year_class"] = {y: dict(c) for y, c in lines_yc.items()}
     summary["page_marker_lines"] = dict(markers)
@@ -584,7 +584,7 @@ def main() -> None:
     s = run(a.years.split(",") if a.years else None, a.limit, a.detect_only, REPO_ROOT / STAGING_REL)
     out = REPO_ROOT / STAGING_REL
     out.mkdir(parents=True, exist_ok=True)
-    (out / "_summary.json").write_text(json.dumps(s, indent=1, ensure_ascii=False), encoding="utf-8")
+    (out / "_summary.json").write_text(json.dumps(s, indent=1, ensure_ascii=False), encoding="utf-8", newline="\n")
     print(json.dumps({k: v for k, v in s.items() if k not in ("per_file_changes", "unresolved")},
                      indent=1, ensure_ascii=False))
     print("unresolved:", len(s["unresolved"]))

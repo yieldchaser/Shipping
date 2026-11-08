@@ -78,8 +78,8 @@ def extract_book8():
     final_text = "\n".join(out_lines)
     final_text = re.sub(r"\n{3,}", "\n\n", final_text).strip() + "\n"
     
-    CORPUS_MD.write_text(final_text, encoding='utf-8')
-    KNOWLEDGE_MD.write_text(final_text, encoding='utf-8')
+    CORPUS_MD.write_text(final_text, encoding='utf-8', newline="\n")
+    KNOWLEDGE_MD.write_text(final_text, encoding='utf-8', newline="\n")
     print(f"Book 8 successfully rebuilt: {len(final_text):,} chars, {len(final_text.splitlines()):,} lines")
     print(f"Parity check: {CORPUS_MD.stat().st_size == KNOWLEDGE_MD.stat().st_size}")
 

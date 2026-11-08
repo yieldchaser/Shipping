@@ -118,7 +118,7 @@ pages: 19
     full_md = frontmatter + "\n\n---\n\n".join(cleaned_pages)
 
     OUT_MD.parent.mkdir(parents=True, exist_ok=True)
-    with open(OUT_MD, "w", encoding="utf-8") as f:
+    with open(OUT_MD, "w", encoding="utf-8", newline="\n") as f:
         f.write(full_md)
     print(f"Wrote polished markdown to: {OUT_MD} ({len(full_md)} bytes)")
 
@@ -144,7 +144,7 @@ pages: 19
             tdict["table_id"] = f"table_{idx+1:02d}"
             tables_sidecar["tables"].append(tdict)
 
-    with open(OUT_JSON, "w", encoding="utf-8") as f:
+    with open(OUT_JSON, "w", encoding="utf-8", newline="\n") as f:
         json.dump(tables_sidecar, f, indent=2, ensure_ascii=False)
     print(f"Wrote structured tables JSON to: {OUT_JSON} ({len(tables_sidecar['tables'])} tables)")
 
@@ -208,7 +208,7 @@ def write_series_rows(csv_path: Path, headers: list, new_rows: list, key_fields:
             added += 1
             
     with open(csv_path, "w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=headers)
+        writer = csv.DictWriter(f, fieldnames=headers, lineterminator="\n")
         writer.writeheader()
         writer.writerows(existing_rows)
     print(f"Updated {csv_path.name}: {len(existing_rows)} total rows (+{added} new)")

@@ -172,7 +172,7 @@ def save_live_events(events: list[dict], max_events: int = 500) -> None:
         "events": deduped
     }
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    with open(OUTPUT_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(payload, f, indent=2)
     logging.info("Committed %d live anchorage queue events to %s.", len(deduped), OUTPUT_FILE)
 

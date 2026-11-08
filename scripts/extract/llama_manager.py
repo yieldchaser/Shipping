@@ -128,7 +128,7 @@ def _load_state() -> Dict[str, Any]:
 
 def _save_state(state: Dict[str, Any]):
     STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
-    STATE_FILE.write_text(json.dumps(state, indent=2), encoding="utf-8")
+    STATE_FILE.write_text(json.dumps(state, indent=2), encoding="utf-8", newline="\n")
 
 
 import threading

@@ -350,7 +350,7 @@ def sync_html_articles():
             dest = ROOT / "corpus" / "02-hellenic" / cat_slug / year / f"{date_iso}_{slug}.html"
             if not dest.exists() and not _is_in_inventory(dest):
                 dest.parent.mkdir(parents=True, exist_ok=True)
-                with open(dest, "w", encoding="utf-8") as f:
+                with open(dest, "w", encoding="utf-8", newline="\n") as f:
                     f.write(f"<!-- Title: {title} | Date: {date_iso} | URL: {p.get('link', '')} -->\n")
                     f.write(content)
                 new_articles += 1

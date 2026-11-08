@@ -94,7 +94,7 @@ def build_routing_map(force=False):
         if i % 50 == 0:
             print(f'   ...{i}/{len(pdfs)}')
     OUTDIR.mkdir(parents=True, exist_ok=True)
-    ROUTEMAP_CACHE.write_text(json.dumps(m, indent=1))
+    ROUTEMAP_CACHE.write_text(json.dumps(m, indent=1), newline="\n")
     tot = sum(len(v) for v in m.values())
     print(f'routing map: {tot} ciphered pages across {len(m)} docs')
     return m
@@ -165,7 +165,7 @@ def load_state():
 
 def save_state(st):
     STATE.parent.mkdir(parents=True, exist_ok=True)
-    STATE.write_text(json.dumps(st, indent=1))
+    STATE.write_text(json.dumps(st, indent=1), newline="\n")
 
 
 def main():
@@ -277,9 +277,9 @@ def main():
             fo = client.files.create(file=pdf, purpose='parse')
             res = client.parsing.parse(file_id=fo.id, **kwargs)
             md = getattr(res, 'markdown_full', None) or ''
-            (OUTDIR / f'{doc}.md').write_text(md, encoding='utf-8')
+            (OUTDIR / f'{doc}.md').write_text(md, encoding='utf-8', newline="\n")
             try:
-                (OUTDIR / f'{doc}.items.json').write_text(res.items.model_dump_json(), encoding='utf-8')
+                (OUTDIR / f'{doc}.items.json').write_text(res.items.model_dump_json(), encoding='utf-8', newline="\n")
             except Exception:
                 pass
             st['done'][doc] = {'pages': pages, 'chars': len(md), 'secs': round(time.time() - t0)}

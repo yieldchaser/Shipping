@@ -323,7 +323,7 @@ def export(root: Path, out_dir: Path, only_stems: set[str] | None = None,
     for name, fields, rows, is_demo in (("clarksons_sales_series.csv", SALES_FIELDS, sales, False),
                                         ("clarksons_demolition_series.csv", DEMO_FIELDS, demo, True)):
         with open(out_dir / name, "w", newline="", encoding="utf-8") as fh:
-            w = csv.DictWriter(fh, fieldnames=fields, extrasaction="ignore")
+            w = csv.DictWriter(fh, fieldnames=fields, extrasaction="ignore", lineterminator="\n")
             w.writeheader()
             w.writerows(with_aliases(r, is_demo) for r in rows)
     return {"issues": issues, "sales_rows": len(sales), "demolition_rows": len(demo), "sales": sales, "demo": demo}
@@ -356,7 +356,7 @@ def compare(new_rows: list[dict[str, Any]], old_path: Path, date_col: str, vesse
     if out_csv:
         out_csv.parent.mkdir(parents=True, exist_ok=True)
         with open(out_csv, "w", newline="", encoding="utf-8") as fh:
-            w = csv.writer(fh)
+            w = csv.writer(fh, lineterminator="\n")
             w.writerow(["side", "issue_date", "vessel", "issue_in_both_sets"])
             w.writerows(("old_only", d, v, d in common) for d, v in only_old)
             w.writerows(("new_only", d, v, d in common) for d, v in only_new)

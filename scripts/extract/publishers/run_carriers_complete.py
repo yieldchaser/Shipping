@@ -142,7 +142,7 @@ def write_md(path: Path, text: str) -> None:
     number forms); a full re-run must not replace them. New reports are written; pass --force-md to overwrite."""
     if path.exists() and "--force-md" not in sys.argv:
         return
-    path.write_text(text, encoding="utf-8")
+    path.write_text(text, encoding="utf-8", newline="\n")
 
 
 # A printed number cell: plain ('3575'), comma thousands ('22,620'), dot thousands ('388.612') or decimal
@@ -1550,7 +1550,7 @@ def run():
                 "counts": {"sales": 0, "demolition": 0, "newbuilding": 0, "bspa": 0, "bda": 0, "indices": 0, "weighted_routes": 0, "tc_period": 0, "tanker_tce": 0},
                 "tables": {"sales": [], "demolition": [], "newbuilding": [], "bspa": [], "bda": [], "indices": [], "weighted_routes": [], "tc_period": [], "tanker_tce": []}
             }
-            (OUT_MD / f"{stem}.tables.json").write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8")
+            (OUT_MD / f"{stem}.tables.json").write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
             continue
 
         data, substantive_pages = extract_document(doc, pdf_path.name, issue_date, report_week)
@@ -1605,7 +1605,7 @@ def run():
             },
             "tables": doc_data_combined,
         }
-        (OUT_MD / f"{stem}.tables.json").write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8")
+        (OUT_MD / f"{stem}.tables.json").write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
         if idx % 25 == 0 or idx == len(all_pdfs):
             print(f"  [{idx:>3}/{len(all_pdfs)}] {stem[:45]:<45} sales={len(doc_sales)} bspa={len(doc_bspa)} bdi={len(doc_indices)} wr={len(doc_weighted)} tc={len(doc_tc_period)} tkr={len(doc_tanker_tce)}")
@@ -1613,7 +1613,7 @@ def run():
     # Stack Master Series CSVs
     def write_csv(path: Path, data: List[Dict[str, Any]], fieldnames: List[str]):
         with open(path, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
             writer.writeheader()
             for r in data:
                 writer.writerow({k: r.get(k, "") for k in fieldnames})

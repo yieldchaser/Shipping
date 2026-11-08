@@ -49,7 +49,7 @@ def build(family):
                     seen[k] = row
     out = OUTDIR / spec["csv"]
     with out.open("w", newline="", encoding="utf-8") as fh:
-        w = csv.DictWriter(fh, fieldnames=spec["cols"])
+        w = csv.DictWriter(fh, fieldnames=spec["cols"], lineterminator="\n")
         w.writeheader()
         for row in seen.values():
             w.writerow({c: row[c] for c in spec["cols"]})

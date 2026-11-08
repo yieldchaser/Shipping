@@ -494,7 +494,7 @@ def run(sources: list[str] | None, limit: int | None, detect_only: bool, out_roo
                     "keys_added": info["keys_added"], "values": info["values"], "evidence": info["evidence"],
                     "warnings": info["warnings"], "frontmatter_existed": info["frontmatter_existed"],
                     "changes": [{"class": "frontmatter", "keys_added": info["keys_added"]}]},
-                    indent=1, ensure_ascii=False), encoding="utf-8")
+                    indent=1, ensure_ascii=False), encoding="utf-8", newline="\n")
         entry = {**dict(st), "keys_added": dict(keys)}
         if skipped_flat:
             entry["skipped_flat_files"] = skipped_flat
@@ -592,7 +592,7 @@ def main() -> None:
     out = REPO_ROOT / STAGING_REL
     s = run(a.sources.split(",") if a.sources else None, a.limit, a.detect_only, out)
     out.mkdir(parents=True, exist_ok=True)
-    (out / "_summary.json").write_text(json.dumps(s, indent=1, ensure_ascii=False), encoding="utf-8")
+    (out / "_summary.json").write_text(json.dumps(s, indent=1, ensure_ascii=False), encoding="utf-8", newline="\n")
     print(json.dumps({k: v for k, v in s.items() if k != "unresolved"}, indent=1, ensure_ascii=False))
     print("unresolved:", len(s["unresolved"]))
 

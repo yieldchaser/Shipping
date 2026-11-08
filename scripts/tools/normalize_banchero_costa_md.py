@@ -202,7 +202,7 @@ def run_sweep():
         normalized = normalize_banchero_content(orig, p.stem)
         
         if normalized != orig:
-            p.write_text(normalized, encoding="utf-8")
+            p.write_text(normalized, encoding="utf-8", newline="\n")
             modified += 1
             if had_hdr:
                 hdr_cleared += 1

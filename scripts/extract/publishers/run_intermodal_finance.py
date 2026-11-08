@@ -490,7 +490,7 @@ def run_all(only_files=None):
                     sc_data["tables"]["maritime_stocks"] = st
                     sc_data["tables"]["bunker_prices"] = bu
                     sc_data["tables"]["macro_indicators"] = ma
-                    with open(sidecar_path, "w", encoding="utf-8") as fp:
+                    with open(sidecar_path, "w", encoding="utf-8", newline="\n") as fp:
                         json.dump(sc_data, fp, indent=2, ensure_ascii=False)
             except Exception as e:
                 pass

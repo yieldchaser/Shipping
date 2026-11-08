@@ -621,7 +621,7 @@ def process_star_asia_corpus() -> Dict[str, Any]:
 
             # Save updated sidecar
             sidecar_path.parent.mkdir(parents=True, exist_ok=True)
-            sidecar_path.write_text(json.dumps(new_tables, indent=2, ensure_ascii=False), encoding="utf-8")
+            sidecar_path.write_text(json.dumps(new_tables, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
             sidecars_updated += 1
 
         if idx % 25 == 0 or idx == len(pdfs):
@@ -633,7 +633,7 @@ def process_star_asia_corpus() -> Dict[str, Any]:
         "price_low", "price_high", "price_usd_per_ldt", "sentiment", "source_file"
     ]
     with open(DEMO_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=ind_headers)
+        writer = csv.DictWriter(f, fieldnames=ind_headers, lineterminator="\n")
         writer.writeheader()
         writer.writerows(all_indicative_series)
 
@@ -646,7 +646,7 @@ def process_star_asia_corpus() -> Dict[str, Any]:
         "beaching_date_raw", "beaching_date_status", "beaching_date_note",
     ]
     with open(DEALS_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=deals_headers)
+        writer = csv.DictWriter(f, fieldnames=deals_headers, lineterminator="\n")
         writer.writeheader()
         writer.writerows(all_deals_series)
 
@@ -657,7 +657,7 @@ def process_star_asia_corpus() -> Dict[str, Any]:
     ]
     if all_snp_series:
         with open(SNP_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=snp_headers)
+            writer = csv.DictWriter(f, fieldnames=snp_headers, lineterminator="\n")
             writer.writeheader()
             writer.writerows(all_snp_series)
     else:

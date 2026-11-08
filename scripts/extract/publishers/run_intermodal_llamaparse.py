@@ -33,7 +33,7 @@ def load_state() -> Dict[str, Any]:
 
 def save_state(state: Dict[str, Any]):
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    STATE_FILE.write_text(json.dumps(state, indent=2), encoding="utf-8")
+    STATE_FILE.write_text(json.dumps(state, indent=2), encoding="utf-8", newline="\n")
 
 
 def parse_single_pdf(pdf_path: pathlib.Path, tier: str = "cost_effective") -> Dict[str, Any]:
@@ -53,7 +53,7 @@ def parse_single_pdf(pdf_path: pathlib.Path, tier: str = "cost_effective") -> Di
 
     docs = parser.load_data(str(pdf_path))
     full_text = "\n\n--- PAGE BREAK ---\n\n".join(d.text for d in docs)
-    out_md.write_text(full_text, encoding="utf-8")
+    out_md.write_text(full_text, encoding="utf-8", newline="\n")
 
     return {"stem": stem, "status": "ok", "bytes": len(full_text), "pages": len(docs)}
 

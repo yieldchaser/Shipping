@@ -267,7 +267,7 @@ def compute_signals() -> dict:
     }
 
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    with open(OUTPUT_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(payload, f, indent=2)
 
     logging.info("Compiled %d predictive freight signals into %s (Bullish: %d, Bearish: %d).",

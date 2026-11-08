@@ -163,7 +163,7 @@ def main() -> int:
             return 1
         print("OK: manifest matches on-disk counts")
         return 0
-    OUT_PATH.write_text(json.dumps(cur, indent=2), encoding="utf-8")
+    OUT_PATH.write_text(json.dumps(cur, indent=2), encoding="utf-8", newline="\n")
     print(f"{'group':<14}{'files':>7}  {'newest':<12}{'age':>6}  status")
     for g in cur["groups"]:
         print(f"{g['group']:<14}{g.get('files',0):>7}  {str(g.get('newest_content_date')):<12}"

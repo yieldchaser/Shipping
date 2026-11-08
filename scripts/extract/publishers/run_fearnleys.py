@@ -154,13 +154,13 @@ def process(pdf: Path):
     md, npages, chars, paras = build_md(pdf)
     stem = pdf.stem
     OUT.mkdir(parents=True, exist_ok=True)
-    (OUT / f"{stem}.md").write_text(md, encoding="utf-8")
+    (OUT / f"{stem}.md").write_text(md, encoding="utf-8", newline="\n")
     (OUT / f"{stem}.tables.json").write_text(json.dumps(
         {"note": "no numeric extraction for this source by design: the numbers are "
                  "already ingested from the publisher's Hasura backend (fixtures, "
                  "TC, SNP, comments). This source contributes COMMENTARY TEXT.",
          "pages": npages, "commentary_chars": chars, "prose_lines": paras},
-        indent=2, ensure_ascii=False), encoding="utf-8")
+        indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
     return {"pages": npages, "chars": chars, "prose_lines": paras,
             "md_bytes": len(md)}
 
@@ -190,9 +190,9 @@ def main():
             traceback.print_exc(limit=2)
         if n % 10 == 0:
             OUT.mkdir(parents=True, exist_ok=True)
-            STATE.write_text(json.dumps(st, indent=2), encoding="utf-8")
+            STATE.write_text(json.dumps(st, indent=2), encoding="utf-8", newline="\n")
     OUT.mkdir(parents=True, exist_ok=True)
-    STATE.write_text(json.dumps(st, indent=2), encoding="utf-8")
+    STATE.write_text(json.dumps(st, indent=2), encoding="utf-8", newline="\n")
     print(f"\n[{PUB}] COMPLETE ok={len(st['done'])}/{len(pdfs)} "
           f"failed={len(st['failed'])} elapsed={time.time()-t0:.0f}s", flush=True)
     if st["failed"]:

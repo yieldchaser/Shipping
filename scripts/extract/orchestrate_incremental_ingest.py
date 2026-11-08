@@ -112,7 +112,7 @@ def upsert_rows_to_csv(
                 current_cols.append(fn)
 
         with open(csv_path, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=current_cols, extrasaction="ignore")
+            writer = csv.DictWriter(f, fieldnames=current_cols, extrasaction="ignore", lineterminator="\n")
             writer.writeheader()
             for r in existing_rows:
                 writer.writerow(r)
@@ -120,7 +120,7 @@ def upsert_rows_to_csv(
                 writer.writerow(r)
     else:
         with open(csv_path, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
+            writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore", lineterminator="\n")
             writer.writeheader()
             for r in to_add:
                 writer.writerow(r)
@@ -548,7 +548,7 @@ def extract_affinity(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
 
     if not dry_run:
         target_dir.mkdir(parents=True, exist_ok=True)
-        target_md.write_text("\n".join(md_doc), encoding="utf-8")
+        target_md.write_text("\n".join(md_doc), encoding="utf-8", newline="\n")
         sidecar_data = {
             "convention": "iso", "pages": npages, "junk_pages": junk,
             "typed_confidence": "best-effort: card rows are exact geometry; see docs/affinity_survey.md",
@@ -556,7 +556,7 @@ def extract_affinity(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
             "typed": typed, "text_verified": round(verified, 4), "panel_values": len(pnums),
             "date_fragments_merged": datefrag, "missing_values": missing[:40]
         }
-        target_tables.write_text(json.dumps(sidecar_data, indent=2, ensure_ascii=False), encoding="utf-8")
+        target_tables.write_text(json.dumps(sidecar_data, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
         # Upsert series
         tce_rows = []
@@ -599,7 +599,7 @@ def extract_carriers(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
 
     if not dry_run:
         target_dir.mkdir(parents=True, exist_ok=True)
-        target_md.write_text(md_content, encoding="utf-8")
+        target_md.write_text(md_content, encoding="utf-8", newline="\n")
         sidecar = {
             "stem": stem, "issue_date": issue_date, "report_week": report_week,
             "source_file": pdf_path.name, "pages_total": len(substantive_pages),
@@ -607,7 +607,7 @@ def extract_carriers(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
             "counts": {k: len(v) for k, v in doc_data_combined.items()},
             "tables": doc_data_combined
         }
-        target_tables.write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8")
+        target_tables.write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
         upsert_rows_to_csv(SERIES_DIR / "carriers_sales_series.csv", doc_sales, [
             "issue_date", "report_week", "section", "page", "vessel_name", "type",
@@ -811,7 +811,7 @@ def extract_fearnleys(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
     if not dry_run:
         target_dir.mkdir(parents=True, exist_ok=True)
         md_text = "\n".join(md_lines)
-        target_md.write_text(md_text, encoding="utf-8")
+        target_md.write_text(md_text, encoding="utf-8", newline="\n")
         # The corpus MD is the commentary read by layout (owner decision 2026-10-12: Fearnleys rates come
         # from the Fearnpulse API); the rate tables above stay only in the sidecar and series.
         try:
@@ -833,7 +833,7 @@ def extract_fearnleys(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
             "secondhand_prices": {"dry": sp_dry, "wet": sp_wet}
         }
         sidecar_str = json.dumps(sidecar_payload, indent=2, ensure_ascii=False)
-        target_tables.write_text(sidecar_str, encoding="utf-8")
+        target_tables.write_text(sidecar_str, encoding="utf-8", newline="\n")
         # No rates series or sidecar "rates": Fearnleys rates come from the Fearnpulse API, and the card parse was
         # about 7% wrong against the PDFs (owner decision 2026-11-01; fearnleys_rates_series.csv deleted)
 
@@ -876,8 +876,8 @@ def extract_clarksons(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
 
     if not dry_run:
         target_dir.mkdir(parents=True, exist_ok=True)
-        target_md.write_text(full_md, encoding="utf-8")
-        target_tables.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+        target_md.write_text(full_md, encoding="utf-8", newline="\n")
+        target_tables.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
 
         sales_series_rows = []
         for r in sales_recs:
@@ -1117,8 +1117,8 @@ def process_single_pdf(
             target_md_l = target_dir_l / f"{stem}.md"
             target_tables_l = target_dir_l / f"{stem}.tables.json"
             if not dry_run:
-                target_md_l.write_text(md, encoding="utf-8")
-                target_tables_l.write_text(json.dumps(sidecar, indent=2), encoding="utf-8")
+                target_md_l.write_text(md, encoding="utf-8", newline="\n")
+                target_tables_l.write_text(json.dumps(sidecar, indent=2), encoding="utf-8", newline="\n")
                 rel_src_l = str(pdf_path.relative_to(ROOT)).replace("\\", "/")
                 if doc_data.get("demometer_series"):
                     upsert_rows_to_csv(
@@ -1354,7 +1354,7 @@ def process_single_pdf(
                 content = md_path.read_text(encoding="utf-8", errors="ignore")
                 cleaned, _ = cleaners[broker_slug](content)
                 if cleaned != content:
-                    md_path.write_text(cleaned, encoding="utf-8")
+                    md_path.write_text(cleaned, encoding="utf-8", newline="\n")
         except Exception:
             pass
 
@@ -1374,7 +1374,7 @@ def process_single_pdf(
                         chart_section.append(f"### {mc['title']} (Page {mc['page']})\n")
                         chart_section.append(f"![{mc['title']}]({mc['image_rel']})\n")
                         chart_section.append(f"*Extracted to time series: `{Path(mc['target_csv']).name}`*\n")
-                    target_md_file.write_text(existing_md + "\n".join(chart_section), encoding="utf-8")
+                    target_md_file.write_text(existing_md + "\n".join(chart_section), encoding="utf-8", newline="\n")
             _apply_markdown_normalizer(target_md_file, pub)
             doc.close()
             return {
@@ -1455,7 +1455,7 @@ def process_single_pdf(
 
     if not dry_run:
         target_md_dir.mkdir(parents=True, exist_ok=True)
-        target_md_file.write_text("\n".join(md_lines), encoding="utf-8")
+        target_md_file.write_text("\n".join(md_lines), encoding="utf-8", newline="\n")
         _apply_markdown_normalizer(target_md_file, pub)
         
         tables_sidecar = {
@@ -1465,7 +1465,7 @@ def process_single_pdf(
             "broker": pub,
             "charts": matched_charts
         }
-        target_tables_file.write_text(json.dumps(tables_sidecar, indent=2), encoding="utf-8")
+        target_tables_file.write_text(json.dumps(tables_sidecar, indent=2), encoding="utf-8", newline="\n")
 
     return {
         "stem": stem,
@@ -1563,7 +1563,7 @@ def run_orchestration(
             except Exception:
                 pass
         existing_untracked.extend(all_untracked)
-        UNTRACKED_CHARTS_LOG.write_text(json.dumps(existing_untracked, indent=2), encoding="utf-8")
+        UNTRACKED_CHARTS_LOG.write_text(json.dumps(existing_untracked, indent=2), encoding="utf-8", newline="\n")
         print(f"Logged {len(all_untracked)} untracked candidate figure(s) to {UNTRACKED_CHARTS_LOG.name}")
 
     print("=" * 80)

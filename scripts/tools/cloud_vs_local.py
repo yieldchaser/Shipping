@@ -165,7 +165,7 @@ def main():
             "cloud_chars": len(md), "cloud_markdown": md[:20000],
             "cloud_seconds": round(time.time() - t0, 1), "png": str(png),
         })
-        OUT.write_text(json.dumps(results, indent=1), encoding="utf-8")
+        OUT.write_text(json.dumps(results, indent=1), encoding="utf-8", newline="\n")
         print(f"wrote {OUT}")
         return 0
 
@@ -213,11 +213,11 @@ def main():
                             "png": str(png),
                         })
                         (OUT.with_suffix(".partial.json")).write_text(
-                            json.dumps(results, indent=1), encoding="utf-8")
+                            json.dumps(results, indent=1), encoding="utf-8", newline="\n")
                         break
             except Exception as e:                          # noqa: BLE001
                 print(f"  {src} {pdf.name}: {str(e)[:100]}", flush=True)
-    OUT.write_text(json.dumps(results, indent=1), encoding="utf-8")
+    OUT.write_text(json.dumps(results, indent=1), encoding="utf-8", newline="\n")
     print(f"\nwrote {len(results)} comparisons -> {OUT}")
     if results:
         spent = sum(1 for r in results if "cloud_error" not in r) * 3

@@ -455,7 +455,7 @@ def update_minor_bulks_turkstat(records: dict[tuple[str, str], dict]):
 
     existing_rows.sort(key=lambda x: (x.get("commodity", ""), x.get("date", "")))
     with open(MINOR_BULKS_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
         writer.writeheader()
         writer.writerows(existing_rows)
 
@@ -479,7 +479,7 @@ def run_pipeline():
         SCRATCH_TUIK_DIR.mkdir(parents=True, exist_ok=True)
         out_csv = SCRATCH_TUIK_DIR / "tuik_by_flow.csv"
         with open(out_csv, "w", newline="", encoding="utf-8") as f:
-            writer = csv.writer(f)
+            writer = csv.writer(f, lineterminator="\n")
             writer.writerow(["YIL", "AY", "IHRITH_FLAG", "2523_MIKTAR_1", "2523_DOLAR", "7204_MIKTAR_1", "7204_DOLAR"])
             writer.writerows(live_rows)
         records = inspect_and_ingest_scratch_csv(out_csv, latest_stored)

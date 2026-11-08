@@ -167,7 +167,7 @@ def main() -> int:
             pass
 
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    OUT_PATH.write_text(json.dumps(current, indent=2), encoding="utf-8")
+    OUT_PATH.write_text(json.dumps(current, indent=2), encoding="utf-8", newline="\n")
     for g in current["groups"]:
         print(f"  {g['path']:<28} untracked={g['untracked_files']:<6} "
               f"bytes={g['untracked_bytes']:>13,}")

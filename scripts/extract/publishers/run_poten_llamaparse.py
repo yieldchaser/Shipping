@@ -74,7 +74,7 @@ def load_state() -> Dict[str, Any]:
 
 def save_state(state: Dict[str, Any]):
     STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
-    STATE_FILE.write_text(json.dumps(state, indent=2, ensure_ascii=False), encoding="utf-8")
+    STATE_FILE.write_text(json.dumps(state, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
 
 DATE_HEADER_PAT = re.compile(
@@ -371,7 +371,7 @@ def sync_to_extracted_md(
         "---\n\n"
     )
     full_content = yaml_header + polished_md
-    target_md.write_text(full_content, encoding="utf-8")
+    target_md.write_text(full_content, encoding="utf-8", newline="\n")
 
     sidecar = {
         "issue_date": issue_date,
@@ -385,7 +385,7 @@ def sync_to_extracted_md(
         "parser": "LlamaParse cost_effective",
         "tables": parsed_tables
     }
-    target_json.write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8")
+    target_json.write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
     # Also synchronize to corpus/04-poten/<year>/
     corpus_year_dir = CORPUS_DIR / str(year)
@@ -403,7 +403,7 @@ def sync_to_extracted_md(
             except Exception:
                 pass
 
-    corpus_target_md.write_text(full_content, encoding="utf-8")
+    corpus_target_md.write_text(full_content, encoding="utf-8", newline="\n")
 
 
 def parse_pdf_llamaparse(pdf_path: Path) -> str:
@@ -562,7 +562,7 @@ def run_pipeline(limit: int = 0, broken_only: bool = True, start_year: int = 200
                 raw_md = parse_pdf_llamaparse(pdf_path)
                 manager.record_success(num_pages=num_pages)
                 year_llama_dir.mkdir(parents=True, exist_ok=True)
-                cached_raw.write_text(raw_md, encoding="utf-8")
+                cached_raw.write_text(raw_md, encoding="utf-8", newline="\n")
 
             # Format issue date string e.g. "January 28, 2011"
             try:
@@ -621,7 +621,7 @@ def run_pipeline(limit: int = 0, broken_only: bool = True, start_year: int = 200
 
         all_charterers = existing_charterers + new_charterer_rows
         with open(CHARTERERS_CSV, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=ch_fieldnames, extrasaction="ignore")
+            writer = csv.DictWriter(f, fieldnames=ch_fieldnames, extrasaction="ignore", lineterminator="\n")
             writer.writeheader()
             writer.writerows(all_charterers)
         print(f"Updated {CHARTERERS_CSV}: total {len(all_charterers)} rows (+{len(new_charterer_rows)} new)")
@@ -633,7 +633,7 @@ def run_pipeline(limit: int = 0, broken_only: bool = True, start_year: int = 200
         ]
         all_fixtures = existing_fixtures + new_fixture_rows
         with open(FIXTURES_CSV, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=fix_fieldnames, extrasaction="ignore")
+            writer = csv.DictWriter(f, fieldnames=fix_fieldnames, extrasaction="ignore", lineterminator="\n")
             writer.writeheader()
             writer.writerows(all_fixtures)
         print(f"Updated {FIXTURES_CSV}: total {len(all_fixtures)} rows (+{len(new_fixture_rows)} new)")

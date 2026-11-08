@@ -95,7 +95,7 @@ def main():
         cols = ["file", "date", "date_source", "fields_filled"] + \
                [n for n, _ in RATE_FIELDS]
         with OUT.open("w", newline="", encoding="utf-8") as fh:
-            w = csv.DictWriter(fh, fieldnames=cols)
+            w = csv.DictWriter(fh, fieldnames=cols, lineterminator="\n")
             w.writeheader()
             for r in rows:
                 w.writerow({k: r.get(k) for k in cols})

@@ -34,7 +34,7 @@ def apply_minor_bulks():
     combined = pd.concat([df_t, df_p], ignore_index=True)
     combined.drop_duplicates(subset=["date", "commodity", "trade_flow", "reporter_country", "partner_country"], keep="last", inplace=True)
     combined.sort_values(by=["commodity", "date"], inplace=True)
-    combined.to_csv(target, index=False)
+    combined.to_csv(target, index=False, lineterminator="\n")
     print(f"   -> Combined from {len(df_t)} to {len(combined)} rows.")
 
 
@@ -54,7 +54,7 @@ def apply_guinea():
     combined = pd.concat([df_filtered, df_rep, df_add], ignore_index=True)
     combined.drop_duplicates(subset=["date", "company", "granularity"], keep="last", inplace=True)
     combined.sort_values(by=["date"], inplace=True)
-    combined.to_csv(target, index=False)
+    combined.to_csv(target, index=False, lineterminator="\n")
     print(f"   -> Removed {removed} old 2017 rows, added {len(df_rep)} 2017 replacements + {len(df_add)} new mirror rows. Total: {len(combined)} rows.")
 
 
@@ -76,7 +76,7 @@ def apply_brazil():
     combined = pd.concat([df_t, df_add], ignore_index=True)
     combined.drop_duplicates(subset=["date", "commodity"], keep="last", inplace=True)
     combined.sort_values(by=["date", "commodity"], inplace=True)
-    combined.to_csv(target, index=False)
+    combined.to_csv(target, index=False, lineterminator="\n")
     print(f"   -> Applied revisions to Jul-2026 and added Aug-2026. Total: {len(combined)} rows.")
 
 
@@ -90,7 +90,7 @@ def apply_eia():
     combined = pd.concat([df_t, df_add], ignore_index=True)
     combined.drop_duplicates(subset=["date"], keep="last", inplace=True)
     combined.sort_values(by=["date"], inplace=True)
-    combined.to_csv(target, index=False)
+    combined.to_csv(target, index=False, lineterminator="\n")
     print(f"   -> Appended {len(df_add)} weeks. Total: {len(combined)} rows.")
 
 
@@ -104,7 +104,7 @@ def apply_usda_inspections():
     combined = pd.concat([df_t, df_add], ignore_index=True)
     combined.drop_duplicates(keep="last", inplace=True)
     combined.sort_values(by=["date", "ams_reg", "grain"], inplace=True)
-    combined.to_csv(target, index=False)
+    combined.to_csv(target, index=False, lineterminator="\n")
     print(f"   -> Combined from {len(df_t)} to {len(combined)} rows.")
 
 
@@ -118,7 +118,7 @@ def apply_usda_sales():
     combined = pd.concat([df_t, df_add], ignore_index=True)
     combined.drop_duplicates(keep="last", inplace=True)
     combined.sort_values(by=["date", "commodity"], inplace=True)
-    combined.to_csv(target, index=False)
+    combined.to_csv(target, index=False, lineterminator="\n")
     print(f"   -> Appended {len(df_add)} rows. Total: {len(combined)} rows.")
 
 

@@ -39,7 +39,7 @@ def load_index() -> dict:
 
 
 def save_index(idx: dict) -> None:
-    INDEX.write_text(json.dumps(dict(sorted(idx.items())), indent=0) + "\n", encoding="utf-8")
+    INDEX.write_text(json.dumps(dict(sorted(idx.items())), indent=0) + "\n", encoding="utf-8", newline="\n")
 
 
 def build_index() -> None:
@@ -124,7 +124,7 @@ def main() -> int:
     if apply:
         save_index(idx)
         if added:
-            REGISTRY.write_text(json.dumps(reg, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+            REGISTRY.write_text(json.dumps(reg, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
         # also when a runner re-extracted an already-resolved twin (2024-02-13 Breakwave came back on 2026-10-12)
         if added or any((ROOT / t).exists() for t in known):
             for k, v in sorted(resolve(True).items()):

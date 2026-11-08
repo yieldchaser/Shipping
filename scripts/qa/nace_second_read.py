@@ -85,7 +85,7 @@ def nace_read(pdf: Path) -> str:
                     md = job.result["document"]["markdown"]
                     CACHE.mkdir(parents=True, exist_ok=True)
                     cp.write_text(json.dumps({"pdf": pdf.name, "markdown": md, "job_id": job.job_id},
-                                             ensure_ascii=False), encoding="utf-8")
+                                             ensure_ascii=False), encoding="utf-8", newline="\n")
                     return md
             except Exception as e:  # noqa: BLE001 - next key on no credit, retry transient, re-raise the rest
                 s = str(e)
@@ -160,7 +160,7 @@ def main() -> None:
     fields = ["md", "table_nums", "layer_ok", "nace_ok", "unconfirmed", "rows", "error"]
     tot = dict.fromkeys(["table_nums", "layer_ok", "nace_ok", "unconfirmed"], 0)
     with out.open("w", newline="", encoding="utf-8") as f, ThreadPoolExecutor(a.j) as ex:
-        w = csv.DictWriter(f, fields)
+        w = csv.DictWriter(f, fields, lineterminator="\n")
         w.writeheader()
         for i, r in enumerate(ex.map(lambda m: check(m, not a.no_nace), mds), 1):
             w.writerow(r)

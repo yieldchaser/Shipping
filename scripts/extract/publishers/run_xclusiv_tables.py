@@ -2101,9 +2101,9 @@ def process_pdf(pdf_path: Path) -> Dict[str, Any]:
     
     # Write to year-subfolder
     (dest_dir / f"{stem}.tables.json").write_text(
-        json.dumps(sidecar_json, indent=2, ensure_ascii=False), encoding="utf-8"
+        json.dumps(sidecar_json, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n"
     )
-    (dest_dir / f"{stem}.md").write_text(md_content, encoding="utf-8")
+    (dest_dir / f"{stem}.md").write_text(md_content, encoding="utf-8", newline="\n")
 
     return {
         "stem": stem,
@@ -2165,39 +2165,39 @@ def write_series_csvs(
     OUT_SERIES.mkdir(parents=True, exist_ok=True)
 
     with open(SALES_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=SALES_COLUMNS)
+        writer = csv.DictWriter(f, fieldnames=SALES_COLUMNS, lineterminator="\n")
         writer.writeheader()
         for r in all_sales:
             writer.writerow({k: r.get(k, "") for k in SALES_COLUMNS})
 
     with open(DEMO_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=DEMO_PRICES_COLUMNS)
+        writer = csv.DictWriter(f, fieldnames=DEMO_PRICES_COLUMNS, lineterminator="\n")
         writer.writeheader()
         for r in all_demo_prices:
             writer.writerow({k: r.get(k, "") for k in DEMO_PRICES_COLUMNS})
 
     with open(SECONDHAND_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=SECONDHAND_COLUMNS)
+        writer = csv.DictWriter(f, fieldnames=SECONDHAND_COLUMNS, lineterminator="\n")
         writer.writeheader()
         for r in all_sh_prices:
             writer.writerow({k: r.get(k, "") for k in SECONDHAND_COLUMNS})
 
     with open(DEMO_SALES_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=DEMO_SALES_COLUMNS)
+        writer = csv.DictWriter(f, fieldnames=DEMO_SALES_COLUMNS, lineterminator="\n")
         writer.writeheader()
         for r in all_demo_sales:
             writer.writerow({k: r.get(k, "") for k in DEMO_SALES_COLUMNS})
 
     if all_baltic:
         with open(BALTIC_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=BALTIC_COLUMNS)
+            writer = csv.DictWriter(f, fieldnames=BALTIC_COLUMNS, lineterminator="\n")
             writer.writeheader()
             for r in all_baltic:
                 writer.writerow({k: r.get(k, "") for k in BALTIC_COLUMNS})
 
     if all_nb_prices:
         with open(NB_PRICES_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=NB_PRICES_COLUMNS)
+            writer = csv.DictWriter(f, fieldnames=NB_PRICES_COLUMNS, lineterminator="\n")
             writer.writeheader()
             for r in all_nb_prices:
                 writer.writerow({k: r.get(k, "") for k in NB_PRICES_COLUMNS})

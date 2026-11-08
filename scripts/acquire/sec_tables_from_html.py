@@ -281,7 +281,7 @@ def tables_for(accession: str):
         ts = json.loads(cp.read_text(encoding="utf-8"))
     else:
         ts = [t for t, _s, _n in html_tables(filing_htmls(accession))]
-        cp.write_text(json.dumps(ts, ensure_ascii=False), encoding="utf-8")
+        cp.write_text(json.dumps(ts, ensure_ascii=False), encoding="utf-8", newline="\n")
     return [(t, None, None) for t in ts]
 
 

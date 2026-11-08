@@ -126,19 +126,19 @@ def main():
                 expand=['markdown_full', 'items'],
             )
             md = getattr(res, 'markdown_full', None) or ''
-            (OUTDIR / f'{doc}.md').write_text(md, encoding='utf-8')
+            (OUTDIR / f'{doc}.md').write_text(md, encoding='utf-8', newline="\n")
 
             items_raw = {}
             try:
                 items_raw = json.loads(res.items.model_dump_json())
                 (OUTDIR / f'{doc}.items.json').write_text(
-                    json.dumps(items_raw), encoding='utf-8')
+                    json.dumps(items_raw), encoding='utf-8', newline="\n")
             except Exception:
                 pass
 
             tables = flatten_items(items_raw)
             (OUTDIR / f'{doc}.tables.json').write_text(
-                json.dumps(tables, indent=1), encoding='utf-8')
+                json.dumps(tables, indent=1), encoding='utf-8', newline="\n")
 
             # does any recovered table look like a TCE time series?
             hits = []
@@ -154,7 +154,7 @@ def main():
             print(f'  [{i}/{len(pdfs)}] {doc} FAILED: {str(e)[:200]}')
             summary.append({'doc': doc, 'error': str(e)[:200]})
 
-    (OUTDIR / '_summary.json').write_text(json.dumps(summary, indent=1))
+    (OUTDIR / '_summary.json').write_text(json.dumps(summary, indent=1), newline="\n")
     print()
     tot = sum(s.get('tce_like', 0) for s in summary)
     print(f'TCE-like tables recovered: {tot}')

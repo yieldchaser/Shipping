@@ -144,7 +144,7 @@ def main():
         out_year_dir = MD_OUT_DIR / year
         out_year_dir.mkdir(parents=True, exist_ok=True)
         md_file = out_year_dir / f"poten_{issue_date}_{stem}.md"
-        with open(md_file, "w", encoding="utf-8") as f:
+        with open(md_file, "w", encoding="utf-8", newline="\n") as f:
             f.write(text)
 
         metadata_rows.append({
@@ -174,7 +174,7 @@ def main():
             df_combined = pd.concat([df_old, df_new_c], ignore_index=True).drop_duplicates(subset=["issue_date", "segment", "rank", "charterer"])
         else:
             df_combined = df_new_c
-        df_combined.to_csv(CHARTERERS_CSV, index=False)
+        df_combined.to_csv(CHARTERERS_CSV, index=False, lineterminator="\n")
         print(f"Updated {CHARTERERS_CSV}: now has {len(df_combined)} rows.")
 
     # Update Metadata CSV
@@ -185,7 +185,7 @@ def main():
             df_m_comb = pd.concat([df_m_old, df_meta], ignore_index=True).drop_duplicates(subset=["source_file"])
         else:
             df_m_comb = df_meta
-        df_m_comb.to_csv(METADATA_CSV, index=False)
+        df_m_comb.to_csv(METADATA_CSV, index=False, lineterminator="\n")
         print(f"Updated {METADATA_CSV}: now has {len(df_m_comb)} rows.")
 
 if __name__ == "__main__":

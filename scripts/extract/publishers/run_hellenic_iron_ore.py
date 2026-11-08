@@ -257,10 +257,10 @@ def process_single_date(date_iso: str, pdf_candidates: list) -> dict:
         
         md_content = generate_markdown(record, doc)
         md_path = out_dir / f"hellenic_iron_ore_{date_iso}.md"
-        md_path.write_text(md_content, encoding="utf-8")
+        md_path.write_text(md_content, encoding="utf-8", newline="\n")
 
         sidecar_path = out_dir / f"hellenic_iron_ore_{date_iso}.tables.json"
-        sidecar_path.write_text(json.dumps(record, indent=2), encoding="utf-8")
+        sidecar_path.write_text(json.dumps(record, indent=2), encoding="utf-8", newline="\n")
 
         return {"date": date_iso, "record": record, "success": True}
     except Exception as e:
@@ -303,7 +303,7 @@ def run_pipeline():
 
         # 1. Master Iron Ore Daily Series
         main_csv = SERIES_DIR / "hellenic_iron_ore_daily_series.csv"
-        df.to_csv(main_csv, index=False)
+        df.to_csv(main_csv, index=False, lineterminator="\n")
         logger.info(f"Wrote {len(df)} rows to {main_csv.name}!")
 
         # 2. Dedicated Capesize C3 / C5 Freight Series
@@ -315,7 +315,7 @@ def run_pipeline():
         ]
         df_freight = df[freight_cols].dropna(subset=["c3_tubarao_qingdao_usd_t", "c5_waust_qingdao_usd_t"], how="all").reset_index(drop=True)
         freight_csv = SERIES_DIR / "hellenic_capesize_c3_c5_series.csv"
-        df_freight.to_csv(freight_csv, index=False)
+        df_freight.to_csv(freight_csv, index=False, lineterminator="\n")
         logger.info(f"Wrote {len(df_freight)} rows to {freight_csv.name}!")
 
 

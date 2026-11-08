@@ -68,7 +68,7 @@ def build_reference(font_dir=Path("C:/Windows/Fonts")):
                     if outline:
                         table.setdefault(_hash(outline), chr(cp))
         ref[name] = table
-    REFERENCE.write_text(json.dumps(ref, ensure_ascii=False, sort_keys=True, indent=0), encoding="utf-8")
+    REFERENCE.write_text(json.dumps(ref, ensure_ascii=False, sort_keys=True, indent=0), encoding="utf-8", newline="\n")
     return ref
 
 

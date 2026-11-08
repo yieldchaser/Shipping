@@ -69,7 +69,7 @@ def cmd_run(args) -> int:
             dup_csv = (Path(args.staging_dir) if args.staging_dir else eng.DEFAULT_STAGING) / args.source / "duplicates.csv"
             dup_csv.parent.mkdir(parents=True, exist_ok=True)
             with open(dup_csv, "w", newline="", encoding="utf-8") as fh:
-                w = csv.writer(fh)
+                w = csv.writer(fh, lineterminator="\n")
                 w.writerow(["duplicate", "kept"])
                 w.writerows((repo_relative(d), repo_relative(k)) for d, k in dups)
     if args.limit:

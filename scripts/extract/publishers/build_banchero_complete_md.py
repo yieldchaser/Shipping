@@ -177,7 +177,7 @@ def run():
         stem = pdf.stem
         md_content = build_complete_markdown(stem, pdf)
         out_file = OUT_MD / f"{stem}.md"
-        out_file.write_text(md_content, encoding="utf-8")
+        out_file.write_text(md_content, encoding="utf-8", newline="\n")
         processed += 1
 
         # Audit checks

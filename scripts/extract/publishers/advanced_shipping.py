@@ -254,11 +254,11 @@ def process(pdf: Path):
             charts[str(p)] = good
     md = build_md(pdf)
     stem = pdf.stem
-    (OUT_ROOT / f"{stem}.md").write_text(md, encoding="utf-8")
+    (OUT_ROOT / f"{stem}.md").write_text(md, encoding="utf-8", newline="\n")
     (OUT_ROOT / f"{stem}.tables.json").write_text(
-        json.dumps(tables, indent=2, ensure_ascii=False), encoding="utf-8")
+        json.dumps(tables, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
     (OUT_ROOT / f"{stem}.charts.json").write_text(
-        json.dumps(charts, indent=2, ensure_ascii=False), encoding="utf-8")
+        json.dumps(charts, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
     return {"stem": stem, "pages": npages, "tables": len(tables),
             "table_err": terr, "chart_pages": sorted(charts),
             "md_bytes": len(md)}

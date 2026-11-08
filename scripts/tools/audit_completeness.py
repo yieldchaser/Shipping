@@ -163,7 +163,7 @@ def main():
         print(f'   {s:<20} missing {m}')
     json.dump({'complete': complete,
                'partial': {s: m for s, m in partial}},
-              open('data/derived/extraction_completeness_audit.json', 'w'), indent=1)
+              open('data/derived/extraction_completeness_audit.json', 'w', newline="\n"), indent=1)
 
 
 if __name__ == '__main__':

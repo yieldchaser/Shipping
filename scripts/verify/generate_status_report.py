@@ -223,7 +223,7 @@ def generate_report():
     lines.append("   - *Mitigation*: SMM regex engine enforces strict exclusion tokens (`H1`, `H2`, `cumulative`, `net imports`) and unit clamps (3–40 Mt). GACC customs export rows strictly outrank SMM, preventing any overwrite of official customs data.")
 
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    with open(OUTPUT_FILE, "w", encoding="utf-8", newline="\n") as f:
         f.write("\n".join(lines) + "\n")
 
     logger.info(f"Successfully generated authoritative status report: {OUTPUT_FILE}")

@@ -276,7 +276,7 @@ def main():
         # Save complete cover-to-cover markdown
         if text.strip():
             md_file = MD_OUT_DIR / f"{stem}.md"
-            with open(md_file, "w", encoding="utf-8") as f:
+            with open(md_file, "w", encoding="utf-8", newline="\n") as f:
                 f.write(text)
 
         # Extract structured benchmarks
@@ -294,13 +294,13 @@ def main():
     if all_freight:
         df_freight = pd.DataFrame(all_freight)
         out_f = SERIES_OUT_DIR / "xclusiv_freight_benchmarks_series.csv"
-        df_freight.to_csv(out_f, index=False)
+        df_freight.to_csv(out_f, index=False, lineterminator="\n")
         print(f"Successfully saved {len(df_freight)} freight rows to {out_f}")
 
     if all_bunkers:
         df_bunkers = pd.DataFrame(all_bunkers)
         out_b = SERIES_OUT_DIR / "xclusiv_macro_bunkers_series.csv"
-        df_bunkers.to_csv(out_b, index=False)
+        df_bunkers.to_csv(out_b, index=False, lineterminator="\n")
         print(f"Successfully saved {len(df_bunkers)} bunker rows to {out_b}")
 
 if __name__ == "__main__":

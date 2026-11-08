@@ -78,7 +78,7 @@ def main():
         "per_root": dict(collections.Counter(r["root"] for r in rows_out)),
         "rows": rows_out,
     }
-    with open(a.summary, "w", encoding="utf-8") as f:
+    with open(a.summary, "w", encoding="utf-8", newline="\n") as f:
         json.dump(summary, f, indent=1)
     print(f"\n=== {tot:.0f}s / {pg} pages / {tbls} tables / {errs} errors / "
           f"{fired} layout fires")

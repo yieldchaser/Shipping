@@ -623,7 +623,7 @@ def main() -> int:
     }
 
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
-    json.dump(out, open(OUT, "w", encoding="utf-8"), indent=1)
+    json.dump(out, open(OUT, "w", encoding="utf-8", newline="\n"), indent=1)
     print(f"wrote {OUT}")
 
     # ---- print

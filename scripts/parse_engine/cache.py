@@ -47,6 +47,6 @@ def cache_put(sha256: str, engine: str, tier: str, version: str, pages: str, pay
               root: Path | None = None, cfg_hash: str = "") -> Path:
     p = cache_path(sha256, engine, tier, version, pages, root, cfg_hash)
     p.parent.mkdir(parents=True, exist_ok=True)
-    with open(p, "w", encoding="utf-8") as fh:
+    with open(p, "w", encoding="utf-8", newline="\n") as fh:
         json.dump(payload, fh, ensure_ascii=False, indent=2)
     return p

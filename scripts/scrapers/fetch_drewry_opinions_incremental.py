@@ -329,7 +329,7 @@ def run_incremental(max_pages=2, cookie=None, dry_run=False):
                 legacy_entry["file_path"] = f"reports/drewry/opinions/{year}/{filename}"
                 write_header = not legacy_manifest_path.exists()
                 with open(legacy_manifest_path, "a", encoding="utf-8", newline="\n") as f:
-                    writer = csv.DictWriter(f, fieldnames=list(manifest_entry.keys()))
+                    writer = csv.DictWriter(f, fieldnames=list(manifest_entry.keys()), lineterminator="\n")
                     if write_header:
                         writer.writeheader()
                     writer.writerow(legacy_entry)

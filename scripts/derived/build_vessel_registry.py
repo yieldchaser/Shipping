@@ -86,11 +86,11 @@ def main():
     search_index.sort(key=lambda x: (x[1].lower() if x[1] else "zzzz", x[0]))
 
     OUT_LOOKUP.parent.mkdir(parents=True, exist_ok=True)
-    with open(OUT_LOOKUP, "w", encoding="utf-8") as f:
+    with open(OUT_LOOKUP, "w", encoding="utf-8", newline="\n") as f:
         json.dump(lookup, f, separators=(",", ":"))
     print(f"Wrote {OUT_LOOKUP} ({OUT_LOOKUP.stat().st_size:,} bytes)")
 
-    with open(OUT_SEARCH, "w", encoding="utf-8") as f:
+    with open(OUT_SEARCH, "w", encoding="utf-8", newline="\n") as f:
         json.dump(search_index, f, separators=(",", ":"))
     print(f"Wrote {OUT_SEARCH} ({OUT_SEARCH.stat().st_size:,} bytes)")
 

@@ -210,7 +210,7 @@ async def get_or_parse_image_async(img_path: Path, parser: LlamaParse, sem: asyn
                 try:
                     docs = await parser.aload_data(str(tmp_pdf))
                     md_text = "\n\n".join(d.text for d in docs)
-                    cache_file.write_text(md_text, encoding="utf-8")
+                    cache_file.write_text(md_text, encoding="utf-8", newline="\n")
                     return md_text
                 except Exception as e:
                     if attempt == 2:
@@ -357,11 +357,11 @@ async def process_item_async(cat: str, corpus_dir: Path, out_md_dir: Path,
     year_dir.mkdir(parents=True, exist_ok=True)
 
     # Write .md
-    with open(md_path, "w", encoding="utf-8") as mf:
+    with open(md_path, "w", encoding="utf-8", newline="\n") as mf:
         mf.write("\n".join(md_lines))
 
     # Write .tables.json
-    with open(json_path, "w", encoding="utf-8") as jf:
+    with open(json_path, "w", encoding="utf-8", newline="\n") as jf:
         json.dump({
             "issue_date": issue_date,
             "year": year,
@@ -418,7 +418,7 @@ def _upsert_alibra_csv(csv_path: Path, new_rows: List[Dict[str, Any]], fieldname
         existing_map[k] = {c: r.get(c, "") for c in fieldnames}
     merged = sorted(existing_map.values(), key=lambda x: tuple(str(x.get(c, "")) for c in key_cols))
     with open(csv_path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
         writer.writeheader()
         for r in merged:
             writer.writerow(r)
@@ -465,7 +465,7 @@ async def run_all_async(limit: Optional[int] = None) -> Dict[str, Any]:
         "wet_observations": len(wet_rows),
         "elapsed_seconds": round(time.time() - t0, 1)
     }
-    with open(STATE_FILE, "w", encoding="utf-8") as f:
+    with open(STATE_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(state, f, indent=2)
 
     return state

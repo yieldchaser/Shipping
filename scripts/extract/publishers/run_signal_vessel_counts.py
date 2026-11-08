@@ -145,7 +145,7 @@ def build_rows(blocks):
 def write_series(rows, path=SERIES_PATH):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8", newline="") as f:
-        w = csv.writer(f)
+        w = csv.writer(f, lineterminator="\n")
         w.writerow(HEADERS)
         w.writerows(rows)
     return len(rows)

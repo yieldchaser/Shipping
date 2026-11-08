@@ -108,7 +108,7 @@ def main():
                     if src.get(key) == "vector":
                         sc[SIDECAR_KEY[key]] = rows[key]
                 sc["chart_value_source"] = {k: ("vector" if src.get(k) == "vector" else "visual") for k in present}
-                side.write_text(json.dumps(sc, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+                side.write_text(json.dumps(sc, indent=2, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
         if n % 50 == 0:
             print(n, dict(stat), flush=True)
     print("done", len(mds), dict(stat))

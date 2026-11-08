@@ -860,7 +860,7 @@ def run(years: list[str] | None, limit: int | None, detect_only: bool, out_root:
                                 "source_sha256": hashlib.sha256(p.read_bytes()).hexdigest(),
                                 "staged_sha256": hashlib.sha256(staged_bytes).hexdigest(),
                                 "changes": ch, "unresolved": un}, indent=1, ensure_ascii=False),
-                    encoding="utf-8")
+                    encoding="utf-8", newline="\n")
     summary["by_class"] = dict(byc)
     summary["by_year_class"] = {y: dict(c) for y, c in sorted(byyc.items())}
     summary["unresolved_by_class"] = dict(unc)
@@ -910,7 +910,7 @@ def main() -> None:
     out = REPO_ROOT / STAGING_REL
     s = run(a.years.split(",") if a.years else None, a.limit, a.detect_only, out)
     out.mkdir(parents=True, exist_ok=True)
-    (out / "_summary.json").write_text(json.dumps(s, indent=1, ensure_ascii=False), encoding="utf-8")
+    (out / "_summary.json").write_text(json.dumps(s, indent=1, ensure_ascii=False), encoding="utf-8", newline="\n")
     print(json.dumps({k: v for k, v in s.items() if k not in ("per_file_changes", "unresolved")},
                      indent=1, ensure_ascii=False))
     print("unresolved:", len(s["unresolved"]))

@@ -120,7 +120,7 @@ def main():
             print(f"    feeds: {r['feed_matches']}")
         if r["app_matches"]:
             print(f"    app  : {r['app_matches']}")
-    OUT.write_text(json.dumps(rows, indent=1), encoding="utf-8")
+    OUT.write_text(json.dumps(rows, indent=1), encoding="utf-8", newline="\n")
     print(f"\nwrote {OUT}")
     return 0
 

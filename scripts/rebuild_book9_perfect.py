@@ -510,10 +510,10 @@ def main():
     full_text = re.sub(r'\n{4,}', '\n\n\n', full_text)
 
     print(f"Writing {len(full_text):,} characters to {TARGET_CORPUS}...")
-    TARGET_CORPUS.write_text(full_text, encoding='utf-8')
+    TARGET_CORPUS.write_text(full_text, encoding='utf-8', newline="\n")
 
     print(f"Writing to {TARGET_KNOWLEDGE}...")
-    TARGET_KNOWLEDGE.write_text(full_text, encoding='utf-8')
+    TARGET_KNOWLEDGE.write_text(full_text, encoding='utf-8', newline="\n")
 
     print("Rebuild of Book 9 complete. Byte parity guaranteed.")
 

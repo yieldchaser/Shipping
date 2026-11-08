@@ -307,7 +307,7 @@ def summarize(plan: Plan) -> dict[str, int]:
 def write_plan_csv(plan: Plan, path: Path) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with open(path, "w", newline="", encoding="utf-8") as fh:
-        w = csv.DictWriter(fh, fieldnames=["action", "issue_date", "old_path", "new_path", "detail"])
+        w = csv.DictWriter(fh, fieldnames=["action", "issue_date", "old_path", "new_path", "detail"], lineterminator="\n")
         w.writeheader()
         w.writerows(plan.rows)
 

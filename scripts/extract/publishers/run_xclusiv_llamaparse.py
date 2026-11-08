@@ -78,7 +78,7 @@ def load_state() -> Dict[str, Any]:
 
 def save_state(state: Dict[str, Any]) -> None:
     STATE_DIR.mkdir(parents=True, exist_ok=True)
-    STATE_FILE.write_text(json.dumps(state, indent=2, ensure_ascii=False), encoding="utf-8")
+    STATE_FILE.write_text(json.dumps(state, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
 
 def determine_target_pages(pdf_path: pathlib.Path) -> Tuple[str, int]:
@@ -180,12 +180,12 @@ def parse_pdf(
 
             # Write to primary target location
             OUT_MD_DIR.mkdir(parents=True, exist_ok=True)
-            out_file.write_text(full_text, encoding="utf-8")
+            out_file.write_text(full_text, encoding="utf-8", newline="\n")
 
             # Also save to llamaparse_xclusiv dir for provenance
             STATE_DIR.mkdir(parents=True, exist_ok=True)
             backup_file = STATE_DIR / f"{stem}.md"
-            backup_file.write_text(full_text, encoding="utf-8")
+            backup_file.write_text(full_text, encoding="utf-8", newline="\n")
 
             # Extract structured table sidecars
             try:

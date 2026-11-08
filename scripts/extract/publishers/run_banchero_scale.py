@@ -50,10 +50,10 @@ def parse_single_doc(stem, pdf_path, pnos):
         md_text = "\n\n".join(d.text for d in docs)
         
         # Save to LP_DIR and year-partitioned MD_DIR
-        (LP_DIR / f"{stem}.md").write_text(md_text, encoding="utf-8")
+        (LP_DIR / f"{stem}.md").write_text(md_text, encoding="utf-8", newline="\n")
         yr_dir = MD_DIR / pdf_path.parent.name
         yr_dir.mkdir(parents=True, exist_ok=True)
-        (yr_dir / f"{stem}.md").write_text(md_text, encoding="utf-8")
+        (yr_dir / f"{stem}.md").write_text(md_text, encoding="utf-8", newline="\n")
         secs = round(time.time() - t0, 1)
         return stem, True, len(md_text), secs, None
     except Exception as e:
@@ -95,7 +95,7 @@ def main():
             pnos = find_target_pnos(p)
             todo.append((stem, p, pnos))
             
-    STATE_FILE.write_text(json.dumps(state, indent=2))
+    STATE_FILE.write_text(json.dumps(state, indent=2), newline="\n")
     print(f"Already complete: {len(state.get('done', {}))}")
     print(f"To parse now: {len(todo)}")
     
@@ -135,9 +135,9 @@ def main():
                 
             # Checkpoint every 5 docs
             if done_count % 5 == 0:
-                STATE_FILE.write_text(json.dumps(state, indent=2))
+                STATE_FILE.write_text(json.dumps(state, indent=2), newline="\n")
                 
-    STATE_FILE.write_text(json.dumps(state, indent=2))
+    STATE_FILE.write_text(json.dumps(state, indent=2), newline="\n")
     print(f"Finished! Total done: {len(state.get('done', {}))}, Failed: {len(state.get('failed', {}))}")
 
 if __name__ == "__main__":

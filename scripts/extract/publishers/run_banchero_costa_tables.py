@@ -783,8 +783,8 @@ def run_pipeline(limit: int = 0, target_stem: Optional[str] = None):
         sidecar_path = OUT_MD / f"{stem}.tables.json"
         md_path = OUT_MD / f"{stem}.md"
 
-        sidecar_path.write_text(json.dumps(res["sidecar"], indent=2, ensure_ascii=False), encoding="utf-8")
-        md_path.write_text(res["markdown"], encoding="utf-8")
+        sidecar_path.write_text(json.dumps(res["sidecar"], indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
+        md_path.write_text(res["markdown"], encoding="utf-8", newline="\n")
 
         all_sales.extend(res["sales"])
         all_nb.extend(res["newbuilding"])
@@ -801,7 +801,7 @@ def run_pipeline(limit: int = 0, target_stem: Optional[str] = None):
         "ss", "ss_due", "dd_due", "delivery", "comments", "source_file"
     ]
     with open(SALES_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=sales_headers)
+        writer = csv.DictWriter(f, fieldnames=sales_headers, lineterminator="\n")
         writer.writeheader()
         writer.writerows(all_sales)
 
@@ -813,7 +813,7 @@ def run_pipeline(limit: int = 0, target_stem: Optional[str] = None):
         "yard", "delivery", "price_usd_m_each", "comments", "source_file"
     ]
     with open(NB_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=nb_headers)
+        writer = csv.DictWriter(f, fieldnames=nb_headers, lineterminator="\n")
         writer.writeheader()
         writer.writerows(all_nb)
 
@@ -825,7 +825,7 @@ def run_pipeline(limit: int = 0, target_stem: Optional[str] = None):
         "year_built", "price_usd_per_ldt", "buyer", "comments", "source_file"
     ]
     with open(DEMO_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=demo_headers)
+        writer = csv.DictWriter(f, fieldnames=demo_headers, lineterminator="\n")
         writer.writeheader()
         writer.writerows(all_demo)
 

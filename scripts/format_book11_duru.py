@@ -215,12 +215,12 @@ def format_book():
     final_content = FRONTMATTER + full_body.strip() + "\n"
     
     # Save to corpus/books/
-    TARGET_CORPUS.write_text(final_content, encoding="utf-8")
+    TARGET_CORPUS.write_text(final_content, encoding="utf-8", newline="\n")
     print(f"Saved clean markdown to {TARGET_CORPUS} ({len(final_content):,} bytes)")
     
     # Mirror to knowledge/docs/books/
     TARGET_KNOWLEDGE.parent.mkdir(parents=True, exist_ok=True)
-    TARGET_KNOWLEDGE.write_text(final_content, encoding="utf-8")
+    TARGET_KNOWLEDGE.write_text(final_content, encoding="utf-8", newline="\n")
     print(f"Mirrored clean markdown to {TARGET_KNOWLEDGE} ({len(final_content):,} bytes)")
 
 if __name__ == "__main__":

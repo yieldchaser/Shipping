@@ -86,7 +86,7 @@ def main():
     updated_df = updated_df.sort_values("date").reset_index(drop=True)
     updated_df = updated_df[original_cols]
 
-    updated_df.to_csv(TARGET_CSV, index=False)
+    updated_df.to_csv(TARGET_CSV, index=False, lineterminator="\n")
     print(f"Successfully updated {TARGET_CSV}:")
     print(f"  Total rows: {len(updated_df)} (original: {original_len})")
     print(f"  Updated existing dates: {updated_count}")

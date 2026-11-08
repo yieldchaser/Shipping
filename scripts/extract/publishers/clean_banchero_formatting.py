@@ -166,7 +166,7 @@ def process_file(file_path: Path, dry_run: bool = False) -> dict:
         content = file_path.read_text(encoding="utf-8", errors="ignore")
         cleaned, stats = clean_banchero_text(content)
         if cleaned != content and not dry_run:
-            file_path.write_text(cleaned, encoding="utf-8")
+            file_path.write_text(cleaned, encoding="utf-8", newline="\n")
         return stats
     except Exception as e:
         print(f"Error processing {file_path}: {e}")

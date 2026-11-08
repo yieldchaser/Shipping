@@ -117,9 +117,9 @@ def main():
                 if done_count % 100 == 0 or done_count == len(to_profile):
                     print(f"Profiled {done_count}/{len(to_profile)} files ({done_count * 100 // len(to_profile)}%)")
                     # Save incremental cache
-                    CACHE_FILE.write_text(json.dumps(cache, indent=2, ensure_ascii=False), encoding="utf-8")
+                    CACHE_FILE.write_text(json.dumps(cache, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
-        CACHE_FILE.write_text(json.dumps(cache, indent=2, ensure_ascii=False), encoding="utf-8")
+        CACHE_FILE.write_text(json.dumps(cache, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
     # Aggregate Statistics by Source
     source_stats = defaultdict(lambda: {
@@ -217,7 +217,7 @@ def main():
     ])
 
     report_text = "\n".join(lines)
-    REPORT_FILE.write_text(report_text, encoding="utf-8")
+    REPORT_FILE.write_text(report_text, encoding="utf-8", newline="\n")
     print(f"Successfully generated {REPORT_FILE}")
 
 if __name__ == "__main__":

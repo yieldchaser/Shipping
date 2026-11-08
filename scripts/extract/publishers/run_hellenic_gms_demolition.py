@@ -126,7 +126,7 @@ async def get_or_parse_image_async(img_path: Path, sem: asyncio.Semaphore) -> st
                 try:
                     docs = await parser.aload_data(str(tmp_pdf))
                     md_text = "\n\n".join(d.text for d in docs)
-                    cache_file.write_text(md_text, encoding="utf-8")
+                    cache_file.write_text(md_text, encoding="utf-8", newline="\n")
                     key_manager.record_success(1)
                     return md_text
                 except Exception as e:
@@ -290,11 +290,11 @@ async def process_gms_item_async(h_path: Path, sem: asyncio.Semaphore) -> Tuple[
         ""
     ])
 
-    with open(md_path, "w", encoding="utf-8") as mf:
+    with open(md_path, "w", encoding="utf-8", newline="\n") as mf:
         mf.write("\n".join(md_lines))
 
     # JSON sidecar
-    with open(json_path, "w", encoding="utf-8") as jf:
+    with open(json_path, "w", encoding="utf-8", newline="\n") as jf:
         json.dump({
             "issue_date": issue_date,
             "year": year,
@@ -347,7 +347,7 @@ async def run_all_async(limit: Optional[int] = None) -> Dict[str, Any]:
         rankings_csv = OUT_SERIES_DIR / "hellenic_gms_demolition_series.LP-SIDECAR.csv"
         rankings_cols = ["issue_date", "rank", "location", "sentiment", "dry_bulk_usd_ldt", "tankers_usd_ldt", "containers_usd_ldt", "source_file"]
         with open(rankings_csv, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=rankings_cols)
+            writer = csv.DictWriter(f, fieldnames=rankings_cols, lineterminator="\n")
             writer.writeheader()
             for r in sorted(all_rankings, key=lambda x: (x["issue_date"], x["location"])):
                 writer.writerow(r)
@@ -359,7 +359,7 @@ async def run_all_async(limit: Optional[int] = None) -> Dict[str, Any]:
         "reports_processed": len(summaries),
         "rankings_observations": len(all_rankings),
     }
-    with open(STATE_FILE, "w", encoding="utf-8") as sf:
+    with open(STATE_FILE, "w", encoding="utf-8", newline="\n") as sf:
         json.dump(state, sf, indent=2)
 
     return state

@@ -639,10 +639,10 @@ def process_single_baltic_report(html_path):
     os.makedirs(os.path.dirname(out_ext_md), exist_ok=True)
     os.makedirs(os.path.dirname(out_corpus_md), exist_ok=True)
 
-    with open(out_ext_md, 'w', encoding='utf-8') as f:
+    with open(out_ext_md, 'w', encoding='utf-8', newline="\n") as f:
         f.write(full_md)
 
-    with open(out_corpus_md, 'w', encoding='utf-8') as f:
+    with open(out_corpus_md, 'w', encoding='utf-8', newline="\n") as f:
         f.write(full_md)
 
     # Save sidecar table JSON if tables were present
@@ -657,7 +657,7 @@ def process_single_baltic_report(html_path):
             'tables': extracted_tables_data
         }
         out_ext_json = f'data/extracted/md/baltic/{cat}/{year}/{stem}.tables.json'
-        with open(out_ext_json, 'w', encoding='utf-8') as f:
+        with open(out_ext_json, 'w', encoding='utf-8', newline="\n") as f:
             json.dump(sidecar_data, f, indent=2, ensure_ascii=False)
 
     metadata_record = {
@@ -718,7 +718,7 @@ def run_baltic_pipeline():
     if existing_meta:
         merged_meta = sorted(existing_meta.values(), key=lambda x: (str(x.get('issue_date') or ''), str(x.get('category') or ''), str(x.get('title') or '')))
         with open(meta_path, 'w', encoding='utf-8', newline='') as mf:
-            writer = csv.DictWriter(mf, fieldnames=meta_fields)
+            writer = csv.DictWriter(mf, fieldnames=meta_fields, lineterminator="\n")
             writer.writeheader()
             writer.writerows(merged_meta)
 
@@ -761,7 +761,7 @@ def run_baltic_pipeline():
 
     if all_ncfi_rows:
         with open(ncfi_path, 'w', encoding='utf-8', newline='') as nf:
-            writer = csv.DictWriter(nf, fieldnames=ncfi_fields)
+            writer = csv.DictWriter(nf, fieldnames=ncfi_fields, lineterminator="\n")
             writer.writeheader()
             writer.writerows(all_ncfi_rows)
 

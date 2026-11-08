@@ -957,14 +957,14 @@ def run_all(years: Optional[List[int]] = None):
             target_md = ROOT / md_rel
             target_json = ROOT / tbl_rel
             target_md.parent.mkdir(parents=True, exist_ok=True)
-            target_md.write_text(full_md, encoding="utf-8")
-            target_json.write_text(json.dumps(tables_data, indent=2, ensure_ascii=False), encoding="utf-8")
+            target_md.write_text(full_md, encoding="utf-8", newline="\n")
+            target_json.write_text(json.dumps(tables_data, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
             # 2. Sync to corpus/04-poten/<year>/
             corpus_year_dir = CORPUS_DIR / str(meta['year'])
             corpus_year_dir.mkdir(parents=True, exist_ok=True)
             corpus_target_md = corpus_year_dir / target_md.name
-            corpus_target_md.write_text(full_md, encoding="utf-8")
+            corpus_target_md.write_text(full_md, encoding="utf-8", newline="\n")
 
             all_metadata.append(meta)
             all_charterers.extend(ch_rows)
@@ -981,7 +981,7 @@ def run_all(years: Optional[List[int]] = None):
     if all_metadata:
         meta_fieldnames = ['issue_date', 'year', 'title', 'subtitle', 'author', 'pages', 'tables_count', 'word_count', 'source_file', 'md_file']
         with open(METADATA_CSV, 'w', newline='', encoding='utf-8') as f:
-            writer = csv.DictWriter(f, fieldnames=meta_fieldnames)
+            writer = csv.DictWriter(f, fieldnames=meta_fieldnames, lineterminator="\n")
             writer.writeheader()
             writer.writerows(all_metadata)
         print(f"Updated {METADATA_CSV}: total {len(all_metadata)} rows.")
@@ -994,7 +994,7 @@ def run_all(years: Optional[List[int]] = None):
             'cumulative_pct_fixtures', 'prev_rank', 'source_file'
         ]
         with open(CHARTERERS_CSV, 'w', newline='', encoding='utf-8') as f:
-            writer = csv.DictWriter(f, fieldnames=ch_fieldnames)
+            writer = csv.DictWriter(f, fieldnames=ch_fieldnames, lineterminator="\n")
             writer.writeheader()
             writer.writerows(all_charterers)
         print(f"Updated {CHARTERERS_CSV}: total {len(all_charterers)} rows.")

@@ -873,7 +873,7 @@ def write_outputs(rows, diags, parquet_path, json_path):
             "kept as printed rather than scaled by guesswork.",
         ],
     }
-    with open(json_path, "w", encoding="utf-8") as f:
+    with open(json_path, "w", encoding="utf-8", newline="\n") as f:
         json.dump(summary, f, indent=1)
     return df, summary
 
@@ -906,11 +906,11 @@ def main():
                     "status": "crash", "error": f"{type(exc).__name__}: {exc}"[:200]}
         all_rows.extend(rows)
         diags.append(diag)
-    with open(a.out, "w", encoding="utf-8") as f:
+    with open(a.out, "w", encoding="utf-8", newline="\n") as f:
         for r in all_rows:
             f.write(json.dumps(r) + "\n")
     dpath = os.path.splitext(a.out)[0] + "_diag.json"
-    with open(dpath, "w", encoding="utf-8") as f:
+    with open(dpath, "w", encoding="utf-8", newline="\n") as f:
         json.dump(diags, f, indent=1)
     from collections import Counter
     print(json.dumps(Counter(d["status"] for d in diags), indent=1))

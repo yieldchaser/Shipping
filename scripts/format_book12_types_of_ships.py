@@ -248,12 +248,12 @@ def main():
     
     # Save to corpus/books/
     TARGET_CORPUS.parent.mkdir(parents=True, exist_ok=True)
-    TARGET_CORPUS.write_text(DOCUMENT_CONTENT, encoding="utf-8")
+    TARGET_CORPUS.write_text(DOCUMENT_CONTENT, encoding="utf-8", newline="\n")
     print(f"Saved clean markdown to {TARGET_CORPUS} ({len(DOCUMENT_CONTENT):,} bytes)")
     
     # Mirror to knowledge/docs/books/
     TARGET_KNOWLEDGE.parent.mkdir(parents=True, exist_ok=True)
-    TARGET_KNOWLEDGE.write_text(DOCUMENT_CONTENT, encoding="utf-8")
+    TARGET_KNOWLEDGE.write_text(DOCUMENT_CONTENT, encoding="utf-8", newline="\n")
     print(f"Mirrored clean markdown to {TARGET_KNOWLEDGE} ({len(DOCUMENT_CONTENT):,} bytes)")
 
 if __name__ == "__main__":

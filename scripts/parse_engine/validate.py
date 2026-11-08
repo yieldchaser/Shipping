@@ -255,7 +255,7 @@ def validate_output(md: str, pdf: Path, pages: list[int], profile: dict[str, Any
 
 
 def write_validation(path: Path, report: dict[str, Any]) -> None:
-    path.write_text(json.dumps(report, indent=2, ensure_ascii=False), encoding="utf-8")
+    path.write_text(json.dumps(report, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
 
 SUMMARY_FIELDS = ["file", "engine", "tier", "api", "year", "issue_date", "pages_total", "pages_parsed",
@@ -267,7 +267,7 @@ SUMMARY_FIELDS = ["file", "engine", "tier", "api", "year", "issue_date", "pages_
 def write_summary_csv(path: Path, rows: list[dict[str, Any]]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with open(path, "w", newline="", encoding="utf-8") as fh:
-        w = csv.DictWriter(fh, fieldnames=SUMMARY_FIELDS, extrasaction="ignore")
+        w = csv.DictWriter(fh, fieldnames=SUMMARY_FIELDS, extrasaction="ignore", lineterminator="\n")
         w.writeheader()
         for r in rows:
             r = dict(r)

@@ -52,7 +52,7 @@ def _load_cache():
 def save_glyph_cache():
     global _cache_dirty
     if _cache is not None and _cache_dirty:
-        GLYPH_CACHE.write_text(json.dumps(_cache, indent=0, sort_keys=True), encoding="utf-8")
+        GLYPH_CACHE.write_text(json.dumps(_cache, indent=0, sort_keys=True), encoding="utf-8", newline="\n")
         _cache_dirty = False
 
 

@@ -263,7 +263,7 @@ def run(src: Path = DEFAULT_SRC, out: Path = DEFAULT_OUT, years: list[int] | Non
     report["matrix"]["engine_errors"] = [
         {"issue_date": c.article.issue_date.isoformat(), "error": c.matrix_error} for c in deferred]
     out.mkdir(parents=True, exist_ok=True)
-    (out / "_report.json").write_text(json.dumps(report, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    (out / "_report.json").write_text(json.dumps(report, ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
     return report
 
 

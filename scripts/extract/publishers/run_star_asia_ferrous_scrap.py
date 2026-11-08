@@ -92,7 +92,7 @@ def nace_quotes(text: str, name: str) -> List[Dict[str, Any]]:
     if not keys:
         raise RuntimeError("ferrous scrap: no NACE_API_KEY configured")
     tmp = Path(tempfile.mkdtemp(prefix="fe_")) / (name[:80] + ".txt")
-    tmp.write_text(text + "\n", encoding="utf-8")
+    tmp.write_text(text + "\n", encoding="utf-8", newline="\n")
     last: Optional[Exception] = None
     for key in keys:
         for attempt in range(4):
@@ -289,7 +289,7 @@ def main() -> int:
         else:
             quotes = nace_quotes(text, stem)
             if cf:
-                cf.write_text(json.dumps({"data": {"quotes": quotes}}, indent=1), encoding="utf-8")
+                cf.write_text(json.dumps({"data": {"quotes": quotes}}, indent=1), encoding="utf-8", newline="\n")
         rows, dropped = rows_from_quotes(t, quotes, text)
         out += rows
         n_drop += len(dropped)

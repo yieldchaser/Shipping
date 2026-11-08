@@ -104,7 +104,7 @@ def acquire_lock():
                 return False, holder
         os.remove(LOCK)  # stale
     os.makedirs(os.path.dirname(LOCK), exist_ok=True)
-    with open(LOCK, "w") as f:
+    with open(LOCK, "w", newline="\n") as f:
         f.write(str(os.getpid()))
     return True, os.getpid()
 
@@ -134,7 +134,7 @@ def write_state(state_path, counts, done_total, todo_total, elapsed, pages, tabl
         "pid": os.getpid(),
     }
     tmp = state_path + ".tmp"
-    with open(tmp, "w", encoding="utf-8") as f:
+    with open(tmp, "w", encoding="utf-8", newline="\n") as f:
         json.dump(state, f, indent=1)
     os.replace(tmp, state_path)
 
@@ -240,7 +240,7 @@ def main():
         return 0
 
     os.makedirs(os.path.dirname(a.checkpoint), exist_ok=True)
-    ckpt = open(a.checkpoint, "a", encoding="utf-8")
+    ckpt = open(a.checkpoint, "a", encoding="utf-8", newline="\n")
     counts = collections.Counter()
     t_start = time.time()
     pages = tables = 0

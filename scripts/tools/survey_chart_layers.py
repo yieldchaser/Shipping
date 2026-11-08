@@ -113,7 +113,7 @@ def main():
         print(f"                     strongest page: {best_plot[1]}")
     dest = os.path.join(ROOT, "data", "derived", "chart_layer_survey.json")
     os.makedirs(os.path.dirname(dest), exist_ok=True)
-    with open(dest, "w", encoding="utf-8") as f:
+    with open(dest, "w", encoding="utf-8", newline="\n") as f:
         json.dump(out, f, indent=1)
     print()
     print(f"written -> {dest}")

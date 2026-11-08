@@ -128,7 +128,7 @@ async def get_or_parse_image_async(img_path: Path, sem: asyncio.Semaphore) -> st
                     md_text = "\n\n".join(d.text for d in docs)
                     if not md_text.strip() or len(md_text.strip()) < 50:
                         raise RuntimeError(f"LlamaParse returned empty or truncated output (length {len(md_text.strip())})")
-                    cache_file.write_text(md_text, encoding="utf-8")
+                    cache_file.write_text(md_text, encoding="utf-8", newline="\n")
                     key_manager.record_success(1, used_key=current_key)
                     return md_text
                 except Exception as e:
@@ -364,11 +364,11 @@ async def process_iron_ore_item_async(h_path: Path, sem: asyncio.Semaphore) -> T
         md_lines.append(f"| {r['index_code']} | {r['fe_grade']} | {r['index_family']} | {fot_str} | {cfr_str} | {chg_str} | {mtd_str} | {ytd_str} | {low_str} | {high_str} |")
     md_lines.append("")
 
-    with open(year_dir / f"{stem}.md", "w", encoding="utf-8") as mf:
+    with open(year_dir / f"{stem}.md", "w", encoding="utf-8", newline="\n") as mf:
         mf.write("\n".join(md_lines))
 
     # Write .tables.json sidecar
-    with open(year_dir / f"{stem}.tables.json", "w", encoding="utf-8") as jf:
+    with open(year_dir / f"{stem}.tables.json", "w", encoding="utf-8", newline="\n") as jf:
         json.dump({
             "issue_date": issue_date,
             "year": year,
@@ -437,7 +437,7 @@ async def run_all_async(limit: Optional[int] = None) -> Dict[str, Any]:
     ]
     table_csv = OUT_SERIES_DIR / "hellenic_iron_ore_table_series.csv"
     with open(table_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=cols)
+        writer = csv.DictWriter(f, fieldnames=cols, lineterminator="\n")
         writer.writeheader()
         for r in sorted(all_table_records, key=lambda x: (x["issue_date"], x["index_family"], x["index_code"])):
             writer.writerow(r)
@@ -446,7 +446,7 @@ async def run_all_async(limit: Optional[int] = None) -> Dict[str, Any]:
     # Write data/extracted/series/hellenic_iron_ore_commentary_series.csv
     comm_csv = OUT_SERIES_DIR / "hellenic_iron_ore_commentary_series.csv"
     with open(comm_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=["issue_date", "commentary", "source_file"])
+        writer = csv.DictWriter(f, fieldnames=["issue_date", "commentary", "source_file"], lineterminator="\n")
         writer.writeheader()
         for c in sorted(all_commentaries, key=lambda x: x["issue_date"]):
             writer.writerow(c)
@@ -458,7 +458,7 @@ async def run_all_async(limit: Optional[int] = None) -> Dict[str, Any]:
         "commentaries_count": len(all_commentaries),
         "elapsed_seconds": round(time.time() - t0, 1)
     }
-    with open(STATE_FILE, "w", encoding="utf-8") as f:
+    with open(STATE_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(state, f, indent=2)
 
     return state

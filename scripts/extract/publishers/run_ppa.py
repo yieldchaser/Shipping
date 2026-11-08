@@ -448,7 +448,7 @@ def load_jsonl(p):
 
 
 def append_jsonl(p, obj):
-    with p.open("a", encoding="utf-8") as fh:
+    with p.open("a", encoding="utf-8", newline="\n") as fh:
         fh.write(json.dumps(obj) + "\n")
 
 
@@ -516,9 +516,9 @@ def main():
                 state["checks"].append({"file": key, "fy": parsed["fy"],
                                         "ok": parsed["check"]["ok"], "bad": parsed["check"]["bad"]})
             if n % 25 == 0:
-                statep.write_text(json.dumps(state))
+                statep.write_text(json.dumps(state), newline="\n")
                 print("[%s] %d processed, %.1fs" % (fam, n, time.time() - t0), flush=True)
-        statep.write_text(json.dumps(state))
+        statep.write_text(json.dumps(state), newline="\n")
         print("[%s] DONE processed=%d skipped=%d failed=%d in %.1fs"
               % (fam, n, len(state["skipped"]), len(state["failed"]), time.time() - t0), flush=True)
     return 0

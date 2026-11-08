@@ -158,7 +158,7 @@ def normalize_all():
 
         md_content, img_count, local_pdf = parse_blocks_to_markdown(rep, rep_slug=rep_slug)
         target_path = year_dir / filename
-        target_path.write_text(md_content, encoding="utf-8")
+        target_path.write_text(md_content, encoding="utf-8", newline="\n")
 
         saved_count += 1
         total_images += img_count
@@ -218,7 +218,7 @@ def normalize_all():
             f"| {entry['date']} | {entry['dept']} | {entry['title']} | {entry['images']} | [{entry['file']}]({entry['file']}) | {entry['pdf_link']} |"
         )
 
-    (FMD_DIR / "INDEX.md").write_text("\n".join(index_md), encoding="utf-8")
+    (FMD_DIR / "INDEX.md").write_text("\n".join(index_md), encoding="utf-8", newline="\n")
 
     print(f"\nSuccessfully normalized {saved_count} research reports in {FMD_DIR}")
     print(f"Total charts referenced: {total_images}")

@@ -623,7 +623,7 @@ def load_state() -> Dict[str, Any]:
 
 def save_state(st: Dict[str, Any]) -> None:
     STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
-    STATE_FILE.write_text(json.dumps(st, indent=1), encoding="utf-8")
+    STATE_FILE.write_text(json.dumps(st, indent=1), encoding="utf-8", newline="\n")
 
 
 # ---------------------------------------------------------------------------
@@ -658,7 +658,7 @@ def process_single_pdf(
         if not md_text.strip():
             raise RuntimeError(f"LlamaParse returned empty result for {pdf_path.name}")
         OUT_LLAMA.mkdir(parents=True, exist_ok=True)
-        md_cache_path.write_text(md_text, encoding="utf-8")
+        md_cache_path.write_text(md_text, encoding="utf-8", newline="\n")
 
     # 2. Parse Markdown Tables
     parsed = parse_intermodal_markdown(md_text, issue_date, wk, pdf_path.name)
@@ -681,14 +681,14 @@ def process_single_pdf(
             "demolition_sales": parsed["demo_sales"]
         }
     }
-    sidecar_path.write_text(json.dumps(sidecar_data, indent=2, ensure_ascii=False), encoding="utf-8")
+    sidecar_path.write_text(json.dumps(sidecar_data, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
     # Update or create Markdown sidecar
     doc_md_path = dest_dir / f"{stem}.md"
     existing_md = doc_md_path.read_text(encoding="utf-8") if doc_md_path.exists() else ""
     if "## LlamaParse Verified Tables" not in existing_md:
         table_md_section = f"\n\n## LlamaParse Verified Tables (Pages 4, 5, 6)\n\n{md_text}"
-        doc_md_path.write_text(existing_md + table_md_section, encoding="utf-8")
+        doc_md_path.write_text(existing_md + table_md_section, encoding="utf-8", newline="\n")
 
     return {
         "stem": stem,
@@ -733,17 +733,17 @@ def write_stacked_series(
     OUT_SERIES.mkdir(parents=True, exist_ok=True)
 
     with open(SALES_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=SALES_COLUMNS)
+        w = csv.DictWriter(f, fieldnames=SALES_COLUMNS, lineterminator="\n")
         w.writeheader()
         w.writerows(all_sales)
 
     with open(NB_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=NB_COLUMNS)
+        w = csv.DictWriter(f, fieldnames=NB_COLUMNS, lineterminator="\n")
         w.writeheader()
         w.writerows(all_nb)
 
     with open(DEMO_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=DEMO_COLUMNS)
+        w = csv.DictWriter(f, fieldnames=DEMO_COLUMNS, lineterminator="\n")
         w.writeheader()
         w.writerows(all_demo)
 

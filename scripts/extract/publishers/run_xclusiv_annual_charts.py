@@ -134,7 +134,7 @@ def main():
         if not pg:
             state["failed"][stem] = "no TCE chart page detected"
             print(f"  {stem[:52]}: NO CHART PAGE DETECTED - skipped, not guessed")
-            state_f.write_text(json.dumps(state, indent=1))
+            state_f.write_text(json.dumps(state, indent=1), newline="\n")
             continue
         est += cr
         t0 = time.time()
@@ -147,17 +147,17 @@ def main():
                 expand=["markdown_full", "items"],
             )
             md = getattr(res, "markdown_full", None) or ""
-            (OUT / f"{stem}.md").write_text(md, encoding="utf-8")
+            (OUT / f"{stem}.md").write_text(md, encoding="utf-8", newline="\n")
             try:
                 items = json.loads(res.items.model_dump_json())
-                (OUT / f"{stem}.items.json").write_text(json.dumps(items), encoding="utf-8")
+                (OUT / f"{stem}.items.json").write_text(json.dumps(items), encoding="utf-8", newline="\n")
                 tabs = []
                 for page in (items.get("pages") or []):
                     for it in (page.get("items") or []):
                         if (it.get("type") or "").lower() == "table" and it.get("rows"):
                             tabs.append(it["rows"])
                 (OUT / f"{stem}.tables.json").write_text(json.dumps(tabs, indent=1),
-                                                         encoding="utf-8")
+                                                         encoding="utf-8", newline="\n")
                 tce = sum(1 for t in tabs
                           if re.search(r"TCE|VLCC|SUEZMAX|AFRAMAX|MR ", json.dumps(t), re.I))
                 state["done"][stem] = {"chart_page": pg, "tables": len(tabs),
@@ -170,7 +170,7 @@ def main():
         except Exception as e:
             state["failed"][stem] = str(e)[:200]
             print(f"  {stem[:52]}: FAILED {str(e)[:120]}")
-        state_f.write_text(json.dumps(state, indent=1))
+        state_f.write_text(json.dumps(state, indent=1), newline="\n")
 
     print()
     print(f"done={len(state['done'])} failed={len(state['failed'])} "

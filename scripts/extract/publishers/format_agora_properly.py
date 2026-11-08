@@ -252,9 +252,9 @@ def process_single_agora_file(pdf_path: Path) -> Path:
     
     clean_md, sidecar_data = format_agora_document(pdf_path)
     out_file = dest_dir / f"{pdf_path.stem}.md"
-    out_file.write_text(clean_md, encoding="utf-8")
+    out_file.write_text(clean_md, encoding="utf-8", newline="\n")
     sidecar_file = dest_dir / f"{pdf_path.stem}.tables.json"
-    sidecar_file.write_text(json.dumps(sidecar_data, indent=2, ensure_ascii=False), encoding="utf-8")
+    sidecar_file.write_text(json.dumps(sidecar_data, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
     return out_file
 
 

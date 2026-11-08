@@ -89,8 +89,8 @@ def main():
         # insert after target
         new_text = text.replace(target, target + "\n\n" + table_md)
         
-    CORPUS_MD.write_text(new_text, encoding='utf-8')
-    KNOWLEDGE_MD.write_text(new_text, encoding='utf-8')
+    CORPUS_MD.write_text(new_text, encoding='utf-8', newline="\n")
+    KNOWLEDGE_MD.write_text(new_text, encoding='utf-8', newline="\n")
     print("Table 7.3 successfully inserted into Book 4!")
     print(f"Corpus size: {CORPUS_MD.stat().st_size:,} bytes")
     print(f"Knowledge size: {KNOWLEDGE_MD.stat().st_size:,} bytes")

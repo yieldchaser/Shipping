@@ -303,7 +303,7 @@ def run():
         tab_data["issue_date"] = issue_date
         tab_data["report_week"] = report_week
         tab_data["source_file"] = pdf_path.name
-        tab_json_path.write_text(json.dumps(tab_data, indent=2), encoding="utf-8")
+        tab_json_path.write_text(json.dumps(tab_data, indent=2), encoding="utf-8", newline="\n")
 
     # Write Master Stacked Series CSVs
     # 1. Demolition Series
@@ -312,7 +312,7 @@ def run():
         "built", "yard", "price_usd_per_ldt", "buyer", "comments", "source_file"
     ]
     with open(DEMO_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=demo_fields)
+        writer = csv.DictWriter(f, fieldnames=demo_fields, lineterminator="\n")
         writer.writeheader()
         writer.writerows(all_demo_rows)
 
@@ -322,7 +322,7 @@ def run():
         "delivery", "price_usd_m", "owner", "comments", "source_file"
     ]
     with open(NB_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=nb_fields)
+        writer = csv.DictWriter(f, fieldnames=nb_fields, lineterminator="\n")
         writer.writeheader()
         writer.writerows(all_nb_rows)
 

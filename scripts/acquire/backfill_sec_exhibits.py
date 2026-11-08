@@ -100,7 +100,7 @@ def main() -> int:
 
     print(f"Done: {dict(counts)} of {len(files)} files; network requests: {client.network_requests}")
     if args.report_json:
-        Path(args.report_json).write_text(json.dumps(results, indent=1), encoding="utf-8")
+        Path(args.report_json).write_text(json.dumps(results, indent=1), encoding="utf-8", newline="\n")
     return 0
 
 

@@ -135,7 +135,7 @@ def parse_single_pdf(pdf_path):
     if lp_md_path.exists() and len(lp_md_path.read_text(encoding="utf-8")) > 5000:
         print(f"Reading cached LlamaParse output for {stem}...")
         md_text = lp_md_path.read_text(encoding="utf-8")
-        (MD_2026_DIR / f"{stem}.md").write_text(md_text, encoding="utf-8")
+        (MD_2026_DIR / f"{stem}.md").write_text(md_text, encoding="utf-8", newline="\n")
         return stem, pdf_path, md_text
 
     print(f"Starting LlamaParse cover-to-cover for {stem}...")
@@ -153,11 +153,11 @@ def parse_single_pdf(pdf_path):
     md_text = "\n\n".join(p.get('md', '') for p in pages)
     
     # Save md in LP_DIR and MD_2026_DIR
-    (LP_DIR / f"{stem}.md").write_text(md_text, encoding="utf-8")
-    (MD_2026_DIR / f"{stem}.md").write_text(md_text, encoding="utf-8")
+    (LP_DIR / f"{stem}.md").write_text(md_text, encoding="utf-8", newline="\n")
+    (MD_2026_DIR / f"{stem}.md").write_text(md_text, encoding="utf-8", newline="\n")
     
     # Save .items.json
-    (LP_DIR / f"{stem}.items.json").write_text(json.dumps(json_res, indent=2), encoding="utf-8")
+    (LP_DIR / f"{stem}.items.json").write_text(json.dumps(json_res, indent=2), encoding="utf-8", newline="\n")
     
     secs = round(time.time() - t0, 1)
     print(f"DONE: {stem} -> {len(pages)} pages, {len(md_text)} chars in {secs}s")
@@ -344,7 +344,7 @@ def extract_tables_from_md(stem, pdf_path, md_text):
             'demolition': len(demo_df)
         }
     }
-    (MD_2026_DIR / f"{stem}.tables.json").write_text(json.dumps(sidecar_data, indent=2), encoding="utf-8")
+    (MD_2026_DIR / f"{stem}.tables.json").write_text(json.dumps(sidecar_data, indent=2), encoding="utf-8", newline="\n")
     
     return sales_recs, nb_df, demo_df
 
@@ -393,7 +393,7 @@ def main():
     for c in ['imo', 'dwt', 'built']:
         df_sales[c] = df_sales[c].apply(_to_int).astype('Int64')
     df_sales.sort_values(by=['issue_date', 'report_week', 'vessel'], inplace=True, na_position='last')
-    df_sales.to_csv(sales_csv, index=False)
+    df_sales.to_csv(sales_csv, index=False, lineterminator="\n")
     print(f"Updated {sales_csv}: {initial_sales_count} -> {len(df_sales)} rows (+{len(df_sales)-initial_sales_count})")
     
     # 2. Upsert Newbuilding
@@ -406,7 +406,7 @@ def main():
     df_nb = pd.concat([df_nb, df_new_nb], ignore_index=True)
     df_nb.drop_duplicates(subset=['issue_date', 'vessel_type'], inplace=True)
     df_nb.sort_values(by=['issue_date', 'report_week', 'vessel_type'], inplace=True, na_position='last')
-    df_nb.to_csv(nb_csv, index=False)
+    df_nb.to_csv(nb_csv, index=False, lineterminator="\n")
     print(f"Updated {nb_csv}: {initial_nb_count} -> {len(df_nb)} rows (+{len(df_nb)-initial_nb_count})")
     
     # 3. Upsert Demolition
@@ -419,7 +419,7 @@ def main():
     df_demo = pd.concat([df_demo, df_new_demo], ignore_index=True)
     df_demo.drop_duplicates(subset=['issue_date', 'segment', 'country'], inplace=True)
     df_demo.sort_values(by=['issue_date', 'report_week', 'segment', 'country'], inplace=True, na_position='last')
-    df_demo.to_csv(demo_csv, index=False)
+    df_demo.to_csv(demo_csv, index=False, lineterminator="\n")
     print(f"Updated {demo_csv}: {initial_demo_count} -> {len(df_demo)} rows (+{len(df_demo)-initial_demo_count})")
 
 if __name__ == "__main__":

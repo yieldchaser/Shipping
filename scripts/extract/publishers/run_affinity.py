@@ -558,7 +558,7 @@ def build(pdf: Path):
 def emit(pdf: Path, md, cards, junk, nvec, verified, pnums, missing,
          npages, ref, datefrag):
     OUT.mkdir(parents=True, exist_ok=True)
-    (OUT / f"{pdf.stem}.md").write_text("\n".join(md), encoding="utf-8")
+    (OUT / f"{pdf.stem}.md").write_text("\n".join(md), encoding="utf-8", newline="\n")
     typed = {c["name"]: c.get("typed") for c in cards}
     (OUT / f"{pdf.stem}.tables.json").write_text(json.dumps(
         {"convention": "iso", "pages": npages, "junk_pages": junk,
@@ -571,14 +571,14 @@ def emit(pdf: Path, md, cards, junk, nvec, verified, pnums, missing,
          "panel_values": len(pnums),
          "date_fragments_merged": datefrag,
          "missing_values": missing[:40]},
-        indent=2, ensure_ascii=False), encoding="utf-8")
+        indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
     (OUT / f"{pdf.stem}.charts.json").write_text(json.dumps(
         {"charts": [], "vector_drawings": nvec,
          "note": "Affinity has NO charts: the page's vector drawings are "
                  "single horizontal rules spanning the card panel (card "
                  "separators) plus two section-title underlines. Verified by "
                  "dumping every drawing's geometry - docs/affinity_survey.md."},
-        indent=2, ensure_ascii=False), encoding="utf-8")
+        indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
     return {"pages": npages, "cards": len(cards),
             "card_rows": sum(len(c["rows"]) for c in cards),
             "panel_values": len(pnums), "missing": len(missing),
@@ -619,9 +619,9 @@ def main():
             traceback.print_exc(limit=2)
         if n % 10 == 0:
             OUT.mkdir(parents=True, exist_ok=True)
-            STATE.write_text(json.dumps(st, indent=2), encoding="utf-8")
+            STATE.write_text(json.dumps(st, indent=2), encoding="utf-8", newline="\n")
     OUT.mkdir(parents=True, exist_ok=True)
-    STATE.write_text(json.dumps(st, indent=2), encoding="utf-8")
+    STATE.write_text(json.dumps(st, indent=2), encoding="utf-8", newline="\n")
     print(f"\n[{PUB}] COMPLETE ok={len(st['done'])}/{len(pdfs)} "
           f"failed={len(st['failed'])} elapsed={time.time()-t0:.0f}s",
           flush=True)

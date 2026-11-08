@@ -74,7 +74,7 @@ def main():
 
     cookie = get_cookie(args.cookie)
     if args.save_cookie and cookie:
-        (REPO_ROOT / ".signal_session").write_text(cookie, encoding="utf-8")
+        (REPO_ROOT / ".signal_session").write_text(cookie, encoding="utf-8", newline="\n")
         logging.info("Saved active cookie to .signal_session (gitignored).")
 
     print("\n" + "=" * 80)

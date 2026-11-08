@@ -661,7 +661,7 @@ def extract_all():
                 'exchange_rates': len(doc_fx)
             }
         }
-        (SIDECAR_DIR / f"{stem}.tables.json").write_text(json.dumps(sidecar_data, indent=2, default=lambda o: None if pd.isna(o) else str(o)), encoding="utf-8")
+        (SIDECAR_DIR / f"{stem}.tables.json").write_text(json.dumps(sidecar_data, indent=2, default=lambda o: None if pd.isna(o) else str(o)), encoding="utf-8", newline="\n")
         
     print(f"Extraction completed!")
     print(f"  Total sales records: {len(sales_rows)}")
@@ -683,7 +683,7 @@ def extract_all():
         df_sales[c] = pd.to_numeric(df_sales[c], errors='coerce').astype('Int64')
     df_sales.sort_values(by=['issue_date', 'report_week', 'vessel'], inplace=True, na_position='last')
     sales_csv = SERIES_DIR / "bancosta_sales_series.csv"
-    df_sales.to_csv(sales_csv, index=False)
+    df_sales.to_csv(sales_csv, index=False, lineterminator="\n")
     print(f"Wrote {len(df_sales)} rows to {sales_csv}")
     
     # 2. Newbuilding series
@@ -693,7 +693,7 @@ def extract_all():
     df_nb.drop_duplicates(subset=['issue_date', 'vessel_type'], inplace=True)
     df_nb.sort_values(by=['issue_date', 'report_week', 'vessel_type'], inplace=True, na_position='last')
     nb_csv = SERIES_DIR / "bancosta_newbuilding_series.csv"
-    df_nb.to_csv(nb_csv, index=False)
+    df_nb.to_csv(nb_csv, index=False, lineterminator="\n")
     print(f"Wrote {len(df_nb)} rows to {nb_csv}")
     
     # 3. Demolition series
@@ -703,7 +703,7 @@ def extract_all():
     df_demo.drop_duplicates(subset=['issue_date', 'segment', 'country'], inplace=True)
     df_demo.sort_values(by=['issue_date', 'report_week', 'segment', 'country'], inplace=True, na_position='last')
     demo_csv = SERIES_DIR / "bancosta_demolition_series.csv"
-    df_demo.to_csv(demo_csv, index=False)
+    df_demo.to_csv(demo_csv, index=False, lineterminator="\n")
     print(f"Wrote {len(df_demo)} rows to {demo_csv}")
 
     # 4. Baltic Secondhand Matrix series
@@ -713,7 +713,7 @@ def extract_all():
     df_sh.drop_duplicates(subset=['issue_date', 'vessel_type'], inplace=True)
     df_sh.sort_values(by=['issue_date', 'report_week', 'vessel_type'], inplace=True, na_position='last')
     sh_csv = SERIES_DIR / "bancosta_secondhand_matrix_series.csv"
-    df_sh.to_csv(sh_csv, index=False)
+    df_sh.to_csv(sh_csv, index=False, lineterminator="\n")
     print(f"Wrote {len(df_sh)} rows to {sh_csv}")
 
     # 5. Containership Fixtures series
@@ -724,7 +724,7 @@ def extract_all():
         df_fix[c] = pd.to_numeric(df_fix[c], errors='coerce').astype('Int64')
     df_fix.sort_values(by=['issue_date', 'report_week', 'vessel_name'], inplace=True, na_position='last')
     fix_csv = SERIES_DIR / "bancosta_container_fixtures_series.csv"
-    df_fix.to_csv(fix_csv, index=False)
+    df_fix.to_csv(fix_csv, index=False, lineterminator="\n")
     print(f"Wrote {len(df_fix)} rows to {fix_csv}")
 
     # 6. VHSS Containership series
@@ -734,7 +734,7 @@ def extract_all():
     df_vhss.drop_duplicates(subset=['issue_date', 'segment'], inplace=True)
     df_vhss.sort_values(by=['issue_date', 'report_week', 'segment'], inplace=True, na_position='last')
     vhss_csv = SERIES_DIR / "bancosta_vhss_series.csv"
-    df_vhss.to_csv(vhss_csv, index=False)
+    df_vhss.to_csv(vhss_csv, index=False, lineterminator="\n")
     print(f"Wrote {len(df_vhss)} rows to {vhss_csv}")
 
     # 7. FX series
@@ -744,7 +744,7 @@ def extract_all():
     df_fx.drop_duplicates(subset=['issue_date', 'currency_pair'], inplace=True)
     df_fx.sort_values(by=['issue_date', 'report_week', 'currency_pair'], inplace=True, na_position='last')
     fx_csv = SERIES_DIR / "bancosta_fx_series.csv"
-    df_fx.to_csv(fx_csv, index=False)
+    df_fx.to_csv(fx_csv, index=False, lineterminator="\n")
     print(f"Wrote {len(df_fx)} rows to {fx_csv}")
 
 if __name__ == "__main__":

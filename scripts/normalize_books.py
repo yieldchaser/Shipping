@@ -395,7 +395,7 @@ if __name__ == "__main__":
         target = Path(sys.argv[1])
         if target.is_file():
             normalized = normalize_book(target)
-            target.write_text(normalized, encoding="utf-8")
+            target.write_text(normalized, encoding="utf-8", newline="\n")
             print(f"Normalized {target.name}")
         else:
             print(f"File not found: {target}")

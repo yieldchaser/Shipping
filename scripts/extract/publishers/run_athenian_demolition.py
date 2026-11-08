@@ -282,7 +282,7 @@ def parse_raster_with_llama(pdf_path: Path, fname: str, file_date: str) -> Dict[
         parser = get_active_parser(tier="cost_effective")
         docs = parser.load_data(str(pdf_path))
         md_text = docs[0].text if docs else ""
-        cache_file.write_text(md_text, encoding="utf-8")
+        cache_file.write_text(md_text, encoding="utf-8", newline="\n")
     else:
         md_text = cache_file.read_text(encoding="utf-8")
 
@@ -541,7 +541,7 @@ def main():
             except ValueError:
                 src_rel = fname
             md_content = generate_markdown(meta, src_rel)
-            md_out_path.write_text(md_content, encoding="utf-8")
+            md_out_path.write_text(md_content, encoding="utf-8", newline="\n")
 
             # 2. Generate JSON sidecar
             json_payload = {
@@ -560,7 +560,7 @@ def main():
                 "historical_demolition_prices": meta.get("historical_prices", []),
                 "market_commentary": meta.get("market_commentary", ""),
             }
-            json_out_path.write_text(json.dumps(json_payload, indent=2), encoding="utf-8")
+            json_out_path.write_text(json.dumps(json_payload, indent=2), encoding="utf-8", newline="\n")
 
             # 3. Collect for time series CSVs
             for p in meta.get("prices", []):

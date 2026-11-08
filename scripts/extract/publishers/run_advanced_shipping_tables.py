@@ -1065,9 +1065,9 @@ def process_document(pdf_path: Path) -> Dict[str, Any]:
     year_str = issue_date[:4] if issue_date and issue_date[:4].isdigit() else "2026"
     dest_dir = OUT_MD / year_str
     dest_dir.mkdir(parents=True, exist_ok=True)
-    (dest_dir / f"{stem}.md").write_text(doc_md, encoding="utf-8")
+    (dest_dir / f"{stem}.md").write_text(doc_md, encoding="utf-8", newline="\n")
     (dest_dir / f"{stem}.tables.json").write_text(
-        json.dumps(sidecar_json, indent=2, ensure_ascii=False), encoding="utf-8"
+        json.dumps(sidecar_json, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n"
     )
 
     return {
@@ -1130,7 +1130,7 @@ def write_series_csvs(
 
     # 1. Sales Series CSV
     with open(SALES_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=SALES_COLUMNS)
+        writer = csv.DictWriter(f, fieldnames=SALES_COLUMNS, lineterminator="\n")
         writer.writeheader()
         for r in sales_rows:
             row_dict = {k: r.get(k, "") for k in SALES_COLUMNS}
@@ -1141,7 +1141,7 @@ def write_series_csvs(
 
     # 2. Demolition Prices Series CSV
     with open(DEMO_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=DEMO_COLUMNS)
+        writer = csv.DictWriter(f, fieldnames=DEMO_COLUMNS, lineterminator="\n")
         writer.writeheader()
         for r in demo_prices_rows:
             dt_val = r.get("issue_date") or r.get("issue", "")
@@ -1157,21 +1157,21 @@ def write_series_csvs(
 
     # 3. Newbuilding Series CSV
     with open(NB_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=NB_COLUMNS)
+        writer = csv.DictWriter(f, fieldnames=NB_COLUMNS, lineterminator="\n")
         writer.writeheader()
         for r in nb_rows:
             writer.writerow({k: r.get(k, "") for k in NB_COLUMNS})
 
     # 4. Secondhand Valuation Matrix Series CSV
     with open(SECONDHAND_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=SECONDHAND_COLUMNS)
+        writer = csv.DictWriter(f, fieldnames=SECONDHAND_COLUMNS, lineterminator="\n")
         writer.writeheader()
         for r in secondhand_rows:
             writer.writerow({k: r.get(k, "") for k in SECONDHAND_COLUMNS})
 
     # 5. Demolition Sales Series CSV
     with open(DEMO_SALES_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=DEMO_SALES_COLUMNS)
+        writer = csv.DictWriter(f, fieldnames=DEMO_SALES_COLUMNS, lineterminator="\n")
         writer.writeheader()
         for r in demo_sales_rows:
             writer.writerow({k: r.get(k, "") for k in DEMO_SALES_COLUMNS})

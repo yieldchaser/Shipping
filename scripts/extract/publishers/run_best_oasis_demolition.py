@@ -843,7 +843,7 @@ def main():
 
             # Write Markdown
             md_content = generate_markdown(payload)
-            with open(md_path, "w", encoding="utf-8") as f:
+            with open(md_path, "w", encoding="utf-8", newline="\n") as f:
                 f.write(md_content)
 
             # Write Table Sidecar JSON
@@ -856,7 +856,7 @@ def main():
                 "macro_indicators": payload["macro"],
                 "beaching_dates": payload["beaching_dates"]
             }
-            with open(json_path, "w", encoding="utf-8") as f:
+            with open(json_path, "w", encoding="utf-8", newline="\n") as f:
                 json.dump(sidecar, f, indent=2, ensure_ascii=False)
 
             success_count += 1
@@ -876,7 +876,7 @@ def main():
     p_cols = ["issue_date", "location", "market_status", "container_usd_ldt", "tanker_usd_ldt", "bulker_usd_ldt", "hms_80_20_usd_mt", "shredded_usd_mt", "source_file"]
     for path in [p_csv, p_mirror]:  # mirror + native both owned here (audit: run_best_oasis_demolition.py)
         with open(path, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=p_cols)
+            writer = csv.DictWriter(f, fieldnames=p_cols, lineterminator="\n")
             writer.writeheader()
             writer.writerows(all_prices)
     print(f"Saved Demolition Prices: {len(all_prices)} rows -> {p_csv.name}")
@@ -887,7 +887,7 @@ def main():
     v_cols = ["issue_date", "vessel_name", "vessel_type", "imo", "year_built", "country_built", "ldt", "sale_terms", "delivery_location", "price_usd_ldt", "price_status", "comments", "source_file"]
     for path in [v_csv, v_mirror]:  # mirror + native both owned here (audit: run_best_oasis_demolition.py)
         with open(path, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=v_cols)
+            writer = csv.DictWriter(f, fieldnames=v_cols, lineterminator="\n")
             writer.writeheader()
             writer.writerows(all_vessels)
     print(f"Saved Demolition Deals: {len(all_vessels)} rows -> {v_csv.name}")
@@ -896,7 +896,7 @@ def main():
     c_csv = SERIES_DIR / "best_oasis_market_commentary_series.csv"
     c_cols = ["issue_date", "section", "headline", "commentary", "source_file"]
     with open(c_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=c_cols)
+        writer = csv.DictWriter(f, fieldnames=c_cols, lineterminator="\n")
         writer.writeheader()
         writer.writerows(all_commentary)
     print(f"Saved Market Commentary: {len(all_commentary)} rows -> {c_csv.name}")
@@ -905,7 +905,7 @@ def main():
     m_csv = SERIES_DIR / "best_oasis_exchange_rates_series.csv"
     m_cols = ["issue_date", "usd_inr", "usd_bdt", "usd_pkr", "usd_try", "brent_crude_usd", "wti_crude_usd", "source_file"]
     with open(m_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=m_cols)
+        writer = csv.DictWriter(f, fieldnames=m_cols, lineterminator="\n")
         writer.writeheader()
         writer.writerows(all_macro)
     print(f"Saved Macro Indicators: {len(all_macro)} rows -> {m_csv.name}")

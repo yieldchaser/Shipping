@@ -185,7 +185,7 @@ def main() -> int:
     print(f"\nresolved with stated/inferred evidence: {known:,} "
           f"({known/len(manifest)*100:.1f}%)  was 3.3% before this pass")
 
-    json.dump(manifest, open(a.out, "w", encoding="utf-8"), indent=1)
+    json.dump(manifest, open(a.out, "w", encoding="utf-8", newline="\n"), indent=1)
     print(f"wrote {a.out}")
     return 0
 

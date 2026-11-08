@@ -93,9 +93,8 @@ def test_lpg_benchmark_criteria(benchmark_catalog):
         assert v.get("dwt", 0) >= 50000, f"LPG carrier {v['name']} under 50k DWT: {v.get('dwt')}"
 
 
-@pytest.mark.xfail(strict=True, reason="known catalogue defect (2026-11-08): the 5,000-hull expansion includes 86 "
-                   "floating units (FPSO/FSO/FSRU/FLNG/FSU) classed as trading VLCC/LNG/VLGC; they never sail a route")
 def test_no_floating_production_or_storage_units(benchmark_catalog):
+    # the 5,000-hull expansion carried 86 FPSO/FSO/FSRU/FLNG/FSU classed as trading VLCC/LNG/VLGC; removed 2026-11-08
     import re
     floating = [v["name"] for vs in benchmark_catalog["sectors"].values() for v in vs
                 if re.search(r"\b(FPSO|FSO|FSRU|FLNG|FSU)\b", v["name"], re.I)]

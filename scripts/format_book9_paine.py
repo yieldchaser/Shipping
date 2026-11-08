@@ -145,9 +145,9 @@ def main():
     final_output = FRONTMATTER + main_title + content.strip() + "\n"
 
     # Write to both locations
-    SOURCE_FILE.write_text(final_output, encoding="utf-8")
+    SOURCE_FILE.write_text(final_output, encoding="utf-8", newline="\n")
     DEST_FILE.parent.mkdir(parents=True, exist_ok=True)
-    DEST_FILE.write_text(final_output, encoding="utf-8")
+    DEST_FILE.write_text(final_output, encoding="utf-8", newline="\n")
 
     print("Successfully formatted Book 9!")
     print(f"Source size: {len(final_output)} chars written to {SOURCE_FILE}")

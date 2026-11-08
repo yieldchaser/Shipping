@@ -440,7 +440,7 @@ def sync_reports():
     for path in REPORTS_CATALOG_COPIES:
         os.makedirs(os.path.dirname(path), exist_ok=True)
         tmp_path = path + ".tmp"
-        with open(tmp_path, "w", encoding="utf-8") as f:
+        with open(tmp_path, "w", encoding="utf-8", newline="\n") as f:
             json.dump(catalog, f, indent=2, ensure_ascii=False)
         os.replace(tmp_path, path)
 

@@ -49,7 +49,7 @@ def sync_corpus():
                 s.unlink()
                 replaced_stubs += 1
                 
-        target_corpus_file.write_text(txt, encoding="utf-8")
+        target_corpus_file.write_text(txt, encoding="utf-8", newline="\n")
         synced += 1
         
     print(f"Successfully synced {synced} files to {CORPUS_DIR}")

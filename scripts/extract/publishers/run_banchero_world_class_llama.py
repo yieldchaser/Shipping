@@ -124,7 +124,7 @@ def save_state_entry(stem: str, entry: Dict[str, Any]):
         state = load_state()
         state[stem] = entry
         STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
-        STATE_FILE.write_text(json.dumps(state, indent=2), encoding="utf-8")
+        STATE_FILE.write_text(json.dumps(state, indent=2), encoding="utf-8", newline="\n")
 
 
 def parse_date_and_week(pdf_path: Path) -> Tuple[int, str]:
@@ -252,7 +252,7 @@ def parse_single_pdf(
             # Save raw parsed markdown
             RAW_OUT_DIR.mkdir(parents=True, exist_ok=True)
             raw_path = RAW_OUT_DIR / f"{stem}.md"
-            raw_path.write_text(full_md, encoding="utf-8")
+            raw_path.write_text(full_md, encoding="utf-8", newline="\n")
 
             # Save state
             save_state_entry(stem, {
@@ -805,7 +805,7 @@ parsed_engine: "{engine}"
     # Year subfolder only: a flat-root copy became a tracked duplicate of the same issue
     year_dir = MD_OUT_DIR / issue_date[:4]
     year_dir.mkdir(parents=True, exist_ok=True)
-    (year_dir / f"{stem}.md").write_text(full_md, encoding="utf-8")
+    (year_dir / f"{stem}.md").write_text(full_md, encoding="utf-8", newline="\n")
 
     # Chart "tables" in the parse are values read off line charts by eye: replace them with a chart note and
     # rebuild labelled bar charts from the PDF geometry (scripts/md_cleanup/banchero_chart_note.py)
@@ -820,7 +820,7 @@ parsed_engine: "{engine}"
     # Extract tables into .tables.json sidecar
     tables_data = extract_structured_tables_from_md(cleaned_body, issue_date, report_week, pdf_path.name)
     tables_data.pop("chart_series", None)   # eyeballed chart points, not printed values: never stored
-    (year_dir / f"{stem}.tables.json").write_text(json.dumps(tables_data, indent=2), encoding="utf-8")
+    (year_dir / f"{stem}.tables.json").write_text(json.dumps(tables_data, indent=2), encoding="utf-8", newline="\n")
     return tables_data
 
 
@@ -989,7 +989,7 @@ def extract_structured_tables_from_md(
             # read shifted every value one place.
             elif "FFA" in ctx or "premium" in header_str:
                 if os.environ.get("BC_DUMP_FFA"):
-                    with open(os.environ["BC_DUMP_FFA"], "a", encoding="utf-8") as _f:
+                    with open(os.environ["BC_DUMP_FFA"], "a", encoding="utf-8", newline="\n") as _f:
                         _f.write(json.dumps({"doc": source_file, "ctx": ctx, "hdr": header_str, "rows": len(rows), "row0": (rows[0] if rows else None)}) + chr(10))
                 _h0 = headers[0].strip().lower() if headers else ""
                 _data = [r for r in rows if any(c.strip() for c in r)]
@@ -1308,7 +1308,7 @@ def extract_structured_tables_from_md(
             # 11. Freight Benchmarks (Capesize, Panamax, Supramax, Handysize, Crude Tankers, Product Tankers)
             elif any(k in header_str for k in ["w-o-w", "y-o-y"]) and any(k in header_str for k in ["unit", "20-", "27-", "13-", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]):
                 if os.environ.get("BC_DUMP_B11"):
-                    with open(os.environ["BC_DUMP_B11"], "a", encoding="utf-8") as _f:
+                    with open(os.environ["BC_DUMP_B11"], "a", encoding="utf-8", newline="\n") as _f:
                         _f.write(json.dumps({"doc": source_file, "ctx": ctx, "hdr": header_str, "headers": headers, "nrows": len(rows), "rows": rows[:40]}) + chr(10))
                 sector = "DRY_BULK"
                 if "CAPESIZE" in ctx:

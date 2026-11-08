@@ -271,7 +271,7 @@ def parse_opinion_date(text, filename=""):
 def safe_write_text(path, content):
     path = os.path.normpath(os.path.abspath(path))
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, 'w', encoding='utf-8') as f:
+    with open(path, 'w', encoding='utf-8', newline="\n") as f:
         f.write(content)
 
 def process_wci_file(file_path):
@@ -722,7 +722,7 @@ def run_pipeline():
     if existing_meta:
         merged_meta = sorted(existing_meta.values(), key=lambda x: (str(x.get('issue_date', '')), str(x.get('slug', ''))))
         with open(metadata_csv, 'w', newline='', encoding='utf-8') as f:
-            writer = csv.DictWriter(f, fieldnames=meta_fields)
+            writer = csv.DictWriter(f, fieldnames=meta_fields, lineterminator="\n")
             writer.writeheader()
             writer.writerows(merged_meta)
     print(f"\n[+] Saved master opinions metadata catalog: {metadata_csv} ({len(existing_meta)} total rows)")
@@ -743,7 +743,7 @@ def run_pipeline():
             existing_wci[str(w.get("date", ""))] = {k: w.get(k, "") for k in wci_fields}
         merged_wci = sorted(existing_wci.values(), key=lambda x: str(x.get('date', '')))
         with open(csv_path, 'w', newline='', encoding='utf-8') as f:
-            writer = csv.DictWriter(f, fieldnames=wci_fields)
+            writer = csv.DictWriter(f, fieldnames=wci_fields, lineterminator="\n")
             writer.writeheader()
             writer.writerows(merged_wci)
         print(f"[+] Stacked Drewry WCI series: {csv_path} ({len(merged_wci)} total rows)")

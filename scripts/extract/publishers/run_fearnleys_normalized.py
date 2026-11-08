@@ -964,7 +964,7 @@ def normalize_fearnleys():
             nested_tables = year_dir / f"{stem}.tables.json"
             md_content = "\n".join(md_lines)
 
-            nested_md.write_text(md_content, encoding="utf-8")
+            nested_md.write_text(md_content, encoding="utf-8", newline="\n")
 
             # Write Sidecar JSON
             sidecar_payload = {
@@ -983,7 +983,7 @@ def normalize_fearnleys():
                 }
             }
             sidecar_str = json.dumps(sidecar_payload, indent=2, ensure_ascii=False)
-            nested_tables.write_text(sidecar_str, encoding="utf-8")
+            nested_tables.write_text(sidecar_str, encoding="utf-8", newline="\n")
 
             normalized_count += 1
             if idx % 25 == 0 or idx == len(all_pdfs):

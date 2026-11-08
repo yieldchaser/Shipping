@@ -76,16 +76,16 @@ def main():
         except Exception as e:                            # noqa: BLE001
             state[sid] = {"chars": 0, "error": str(e)[:200]}
             print(f"  {sid}: FAILED {str(e)[:100]}", flush=True)
-            state_path.write_text(json.dumps(state, indent=1), encoding="utf-8")
+            state_path.write_text(json.dumps(state, indent=1), encoding="utf-8", newline="\n")
             continue
         # a parse is only a success if it produced TABLE structure, not just prose
         has_table = ("<table" in md) or ("|" in md and md.count("|") > 8)
         nums = len(re.findall(r"\d", md))
         (OUT / (Path(r["file"]).stem + f"_p{r['page']}.llamaparse.md")).write_text(
-            md, encoding="utf-8")
+            md, encoding="utf-8", newline="\n")
         state[sid] = {"chars": len(md), "digits": nums, "has_table": has_table,
                       "source": r["source"], "file": r["file"], "page": r["page"]}
-        state_path.write_text(json.dumps(state, indent=1), encoding="utf-8")
+        state_path.write_text(json.dumps(state, indent=1), encoding="utf-8", newline="\n")
         done += 1
         print(f"  {r['source']:<12} p{r['page']}: {len(md)} chars, {nums} digits, "
               f"table={has_table}", flush=True)

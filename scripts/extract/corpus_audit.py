@@ -158,7 +158,7 @@ def main() -> int:
         print(f"     {k:<20}{v:>6}")
 
     report["series_tags"] = tags
-    json.dump(report, open(a.out, "w", encoding="utf-8"), indent=1)
+    json.dump(report, open(a.out, "w", encoding="utf-8", newline="\n"), indent=1)
     print(f"\nwrote {a.out}  ({len(tags):,} series tags)")
     return 0
 

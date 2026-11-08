@@ -164,7 +164,7 @@ def main() -> int:
 
     if a.json:
         json.dump({"continuity": cont, "worklist": worklist},
-                  open("data/extracted/series_priorities.json", "w", encoding="utf-8"),
+                  open("data/extracted/series_priorities.json", "w", encoding="utf-8", newline="\n"),
                   indent=1)
         print("\nwrote data/extracted/series_priorities.json")
     return 0

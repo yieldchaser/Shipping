@@ -179,9 +179,9 @@ def format_book4():
         f"{body}\n"
     )
 
-    p.write_text(doc, encoding="utf-8")
+    p.write_text(doc, encoding="utf-8", newline="\n")
     dest = Path("knowledge/docs/books/maritime_economics_macro_karakitsos_varnavides.md")
-    dest.write_text(doc, encoding="utf-8")
+    dest.write_text(doc, encoding="utf-8", newline="\n")
     print(f"Book 4 formatted successfully: {len(doc)} chars, {len(doc.splitlines())} lines written to {p} and {dest}")
 
 if __name__ == "__main__":

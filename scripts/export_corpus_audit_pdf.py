@@ -249,7 +249,7 @@ def convert_md_to_pdf():
 
     html_content = build_styled_html(md_content)
     tmp_html = REPO_ROOT / "docs" / "_temp_audit_preview.html"
-    tmp_html.write_text(html_content, encoding="utf-8")
+    tmp_html.write_text(html_content, encoding="utf-8", newline="\n")
     print(f"Generated HTML preview: {tmp_html}")
 
     print("Launching Playwright to render PDF...")

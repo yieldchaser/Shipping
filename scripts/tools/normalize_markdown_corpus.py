@@ -113,7 +113,7 @@ def main():
                 content = md_file.read_text(encoding="utf-8")
                 normalized = normalize_content(pub_name, content, md_file.stem)
                 if normalized != content:
-                    md_file.write_text(normalized, encoding="utf-8")
+                    md_file.write_text(normalized, encoding="utf-8", newline="\n")
                     modified_in_pub += 1
                     total_modified += 1
             except Exception as e:

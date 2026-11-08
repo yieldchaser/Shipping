@@ -48,7 +48,7 @@ def safe_write_text(path, content):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     for attempt in range(10):
         try:
-            with open(path, 'w', encoding='utf-8') as f:
+            with open(path, 'w', encoding='utf-8', newline="\n") as f:
                 f.write(content)
             return
         except OSError as e:
@@ -712,7 +712,7 @@ def run_pipeline():
     if existing_meta:
         merged_meta = sorted(existing_meta.values(), key=lambda x: (str(x.get('issue_date', '')), str(x.get('source_file', ''))), reverse=True)
         with open(metadata_csv_path, 'w', encoding='utf-8', newline='') as f:
-            writer = csv.DictWriter(f, fieldnames=meta_headers)
+            writer = csv.DictWriter(f, fieldnames=meta_headers, lineterminator="\n")
             writer.writeheader()
             writer.writerows(merged_meta)
     print(f"[+] Stacked master metadata catalog: {metadata_csv_path} ({len(existing_meta)} total rows)")
@@ -746,7 +746,7 @@ def run_pipeline():
         for attempt in range(10):
             try:
                 with open(MANIFEST_PATH, 'w', encoding='utf-8', newline='') as f:
-                    writer = csv.DictWriter(f, fieldnames=fieldnames)
+                    writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
                     writer.writeheader()
                     for slug_key in sorted(manifest_dict.keys()):
                         row_val = manifest_dict[slug_key]

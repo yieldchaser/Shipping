@@ -398,14 +398,14 @@ def process_filing(
     # Write final markdown file atomically to corpus and extracted mirrors
     temp_path = target_path.with_suffix(".tmp")
     try:
-        with open(temp_path, "w", encoding="utf-8") as f:
+        with open(temp_path, "w", encoding="utf-8", newline="\n") as f:
             f.write(full_markdown)
         temp_path.replace(target_path)
 
         # Dual-save mirror to data/extracted/md/companies/
         ext_target_path = EXTRACTED_MD_DIR / ticker / form_dir.name / filename
         ext_target_path.parent.mkdir(parents=True, exist_ok=True)
-        with open(ext_target_path, "w", encoding="utf-8") as f:
+        with open(ext_target_path, "w", encoding="utf-8", newline="\n") as f:
             f.write(full_markdown)
     except Exception as e:
         if temp_path.exists():

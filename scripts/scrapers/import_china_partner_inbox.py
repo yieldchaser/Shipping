@@ -179,7 +179,7 @@ def main() -> int:
         w.writerows(hs_rows)
     summary["generated_at"] = datetime.now(timezone.utc).isoformat()
     summary["api_provider"] = "chinadata.live / api/v2 to 2026-08; GACC query exports via inbox after"
-    SUMMARY.write_text(json.dumps(summary, indent=2), encoding="utf-8")
+    SUMMARY.write_text(json.dumps(summary, indent=2), encoding="utf-8", newline="\n")
     done = INBOX / "processed"
     done.mkdir(exist_ok=True)
     for f in files:

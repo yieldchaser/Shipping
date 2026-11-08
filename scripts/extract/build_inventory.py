@@ -98,7 +98,7 @@ def main():
         else:
             r["dup_of_content"] = False
             seen_md5.add(r["md5"])
-    with open(os.path.join(a.out, "inventory.jsonl"), "w", encoding="utf-8") as f:
+    with open(os.path.join(a.out, "inventory.jsonl"), "w", encoding="utf-8", newline="\n") as f:
         for r in sorted(rows, key=lambda r: r["path"]):
             f.write(json.dumps(r) + "\n")
     print(f"PDFs: {len(rows)}  bytes: {total_bytes / 1e9:.2f} GB")

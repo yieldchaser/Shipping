@@ -246,14 +246,14 @@ def run_xclusiv_charts_pipeline():
 
     if bc_rows:
         with open(BC_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=FIELDS_BC)
+            writer = csv.DictWriter(f, fieldnames=FIELDS_BC, lineterminator="\n")
             writer.writeheader()
             writer.writerows(bc_rows)
         print(f"Exported {len(bc_rows)} rows to {BC_SERIES_CSV.name}", flush=True)
 
     if demo_rows:
         with open(DEMO_SERIES_CSV, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=FIELDS_DEMO)
+            writer = csv.DictWriter(f, fieldnames=FIELDS_DEMO, lineterminator="\n")
             writer.writeheader()
             writer.writerows(demo_rows)
         print(f"Exported {len(demo_rows)} rows to {DEMO_SERIES_CSV.name}", flush=True)

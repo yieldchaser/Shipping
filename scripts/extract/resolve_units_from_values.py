@@ -164,7 +164,7 @@ def main() -> int:
     known = sum(v for k, v in conf.items() if k != "unknown")
     print(f"\nresolved: {known:,}/{len(series):,} = {known/len(series)*100:.1f}%")
 
-    json.dump(series, open(a.out, "w", encoding="utf-8"), indent=1)
+    json.dump(series, open(a.out, "w", encoding="utf-8", newline="\n"), indent=1)
     print(f"wrote {a.out}")
     return 0
 

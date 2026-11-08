@@ -897,7 +897,7 @@ def upsert_rows_to_csv(csv_path: Path, new_rows: List[Dict[str, Any]], key_field
     # Write back sorted
     sorted_rows = sorted(existing_rows.values(), key=lambda x: [str(x.get(kf, "")) for kf in key_fields])
     with open(csv_path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=all_fields, extrasaction="ignore")
+        writer = csv.DictWriter(f, fieldnames=all_fields, extrasaction="ignore", lineterminator="\n")
         writer.writeheader()
         writer.writerows(sorted_rows)
 
@@ -1155,10 +1155,10 @@ def process_single_smm_report(pdf_path: Path) -> Dict[str, Any]:
         md_content = md_content.replace(f'source_file: "{pdf_path.name}"', f'source_file: "{rel}"', 1)
     except ValueError:
         pass
-    md_file.write_text(md_content, encoding="utf-8")
+    md_file.write_text(md_content, encoding="utf-8", newline="\n")
 
     # Write Sidecar JSON
-    json_file.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    json_file.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
 
     # Update Series CSVs
     update_master_series(data, stem)

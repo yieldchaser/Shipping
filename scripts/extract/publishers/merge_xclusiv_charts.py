@@ -236,7 +236,7 @@ with open(dest, "w", newline="", encoding="utf-8") as f:
     w = csv.DictWriter(f, fieldnames=["period", "report_date", "report_year",
                                        "chart_series", "panel", "period_label",
                                        "value_usd_per_day", "is_latest",
-                                       "source_file"])
+                                       "source_file"], lineterminator="\n")
     w.writeheader()
     w.writerows(rows)
 

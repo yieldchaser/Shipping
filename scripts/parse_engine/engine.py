@@ -355,10 +355,10 @@ def run_file(plan: FilePlan, profile: dict[str, Any], source: str, staging: Path
     md = build_frontmatter(meta) + body
     paths = stage_paths(staging, source, plan, tag, res.get("stem"))
     paths["md"].parent.mkdir(parents=True, exist_ok=True)
-    paths["md"].write_text(md, encoding="utf-8")
+    paths["md"].write_text(md, encoding="utf-8", newline="\n")
     if res.get("tables"):
         paths["tables"].write_text(json.dumps(sidecar_payload(res["tables"], plan.issue_date, repo_relative(plan.pdf),
-                                                              plan.sha256, profile.get("sidecar_vessel_rows", True)), indent=2, ensure_ascii=False), encoding="utf-8")
+                                                              plan.sha256, profile.get("sidecar_vessel_rows", True)), indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
     regions = res["tables"] and [{"page": t["page"], "name": t["name"], "bbox": t["bbox"]} for t in res["tables"]]
     regions = (regions or []) + [{"page": x["page"], "name": t["name"], "bbox": x["bbox"]}
@@ -424,7 +424,7 @@ def run_html_file(path: Path, profile: dict[str, Any], source: str, staging: Pat
     stem = res["stem"] or Path(path).stem
     out_md = staging / source / year / f"{stem}.md"
     out_md.parent.mkdir(parents=True, exist_ok=True)
-    out_md.write_text(md, encoding="utf-8")
+    out_md.write_text(md, encoding="utf-8", newline="\n")
     words = sorted({w.lower() for p in res["paras"] for w in re.findall(r"[A-Za-z]{4,}", p)})
     have = {w.lower() for w in re.findall(r"[A-Za-z]{4,}", body)}
     missing = [w for w in words if w not in have]

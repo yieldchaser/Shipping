@@ -327,11 +327,11 @@ def run_formatter():
 
     # 5. Write to corpus and knowledge
     TARGET_CORPUS.parent.mkdir(parents=True, exist_ok=True)
-    TARGET_CORPUS.write_text(final_document, encoding="utf-8")
+    TARGET_CORPUS.write_text(final_document, encoding="utf-8", newline="\n")
     print(f"Saved clean markdown to {TARGET_CORPUS} ({len(final_document):,} bytes)")
 
     TARGET_KNOWLEDGE.parent.mkdir(parents=True, exist_ok=True)
-    TARGET_KNOWLEDGE.write_text(final_document, encoding="utf-8")
+    TARGET_KNOWLEDGE.write_text(final_document, encoding="utf-8", newline="\n")
     print(f"Mirrored clean markdown to {TARGET_KNOWLEDGE} ({len(final_document):,} bytes)")
 
 if __name__ == "__main__":

@@ -393,10 +393,10 @@ def process(pdf: Path, out=None):
     typed = typed_table([[c[2] for c in r["cells"]] for r in rows])
     stem = pdf.stem
     out_dir.mkdir(parents=True, exist_ok=True)
-    (out_dir / f"{stem}.md").write_text(md, encoding="utf-8")
+    (out_dir / f"{stem}.md").write_text(md, encoding="utf-8", newline="\n")
     (out_dir / f"{stem}.tables.json").write_text(
         json.dumps({"convention": "iso", "n_rows": len(rows), "typed": typed},
-                   indent=2, ensure_ascii=False), encoding="utf-8")
+                   indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
     return {"pages": npages, "rows": len(rows),
             "routes": len(typed["trade_rates"]),
             "day_rates": len(typed["timecharter_day_rates"]),
@@ -430,9 +430,9 @@ def main():
             traceback.print_exc(limit=2)
         if n % 10 == 0:
             OUT.mkdir(parents=True, exist_ok=True)
-            STATE.write_text(json.dumps(st, indent=2), encoding="utf-8")
+            STATE.write_text(json.dumps(st, indent=2), encoding="utf-8", newline="\n")
     OUT.mkdir(parents=True, exist_ok=True)
-    STATE.write_text(json.dumps(st, indent=2), encoding="utf-8")
+    STATE.write_text(json.dumps(st, indent=2), encoding="utf-8", newline="\n")
     print(f"\n[{PUB}] COMPLETE ok={len(st['done'])}/{len(pdfs)} "
           f"failed={len(st['failed'])} elapsed={time.time()-t0:.0f}s", flush=True)
     if st["failed"]:

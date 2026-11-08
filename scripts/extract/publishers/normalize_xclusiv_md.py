@@ -360,7 +360,7 @@ def normalize_file(file_path: pathlib.Path) -> bool:
         orig = file_path.read_text(encoding="utf-8", errors="replace")
         cleaned = normalize_markdown(orig)
         if cleaned != orig:
-            file_path.write_text(cleaned, encoding="utf-8")
+            file_path.write_text(cleaned, encoding="utf-8", newline="\n")
             return True
         return False
     except Exception as e:

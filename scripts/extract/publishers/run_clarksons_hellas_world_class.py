@@ -719,10 +719,10 @@ def process_all_clarksons():
         sidecar_content = json.dumps(data, indent=2, ensure_ascii=False) + "\n"
         full_md = generate_clarksons_markdown(data)
 
-        json_file.write_text(sidecar_content, encoding="utf-8")
-        md_file.write_text(full_md, encoding="utf-8")
-        json_broker_file.write_text(sidecar_content, encoding="utf-8")
-        md_broker_file.write_text(full_md, encoding="utf-8")
+        json_file.write_text(sidecar_content, encoding="utf-8", newline="\n")
+        md_file.write_text(full_md, encoding="utf-8", newline="\n")
+        json_broker_file.write_text(sidecar_content, encoding="utf-8", newline="\n")
+        md_broker_file.write_text(full_md, encoding="utf-8", newline="\n")
 
         all_sales.extend(data["sales"])
         all_commentary.extend(data["commentary"])
@@ -747,7 +747,7 @@ def process_all_clarksons():
         ]
         _refuse_legacy_clarksons_write(p_sales)
         with open(p_sales, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
             writer.writeheader()
             writer.writerows(all_sales)
         print(f"Saved {len(all_sales)} cumulative rows to {p_sales.name}", flush=True)
@@ -757,7 +757,7 @@ def process_all_clarksons():
         p_comm = OUT_SERIES_DIR / "clarksons_desk_talk_series.csv"
         _refuse_legacy_clarksons_write(p_comm)
         with open(p_comm, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=["issue_date", "report_week", "sector", "commentary_text", "source_file"])
+            writer = csv.DictWriter(f, fieldnames=["issue_date", "report_week", "sector", "commentary_text", "source_file"], lineterminator="\n")
             writer.writeheader()
             writer.writerows(all_commentary)
         print(f"Saved {len(all_commentary)} cumulative rows to {p_comm.name}", flush=True)
@@ -767,7 +767,7 @@ def process_all_clarksons():
         p_demo = OUT_SERIES_DIR / "clarksons_demolition_sales_series.csv"
         _refuse_legacy_clarksons_write(p_demo)
         with open(p_demo, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=["issue_date", "report_week", "vessel_name", "dwt", "built", "details", "price_usd_per_ldt", "price_raw", "delivery_location", "source_file"])
+            writer = csv.DictWriter(f, fieldnames=["issue_date", "report_week", "vessel_name", "dwt", "built", "details", "price_usd_per_ldt", "price_raw", "delivery_location", "source_file"], lineterminator="\n")
             writer.writeheader()
             writer.writerows(all_demo)
         print(f"Saved {len(all_demo)} cumulative rows to {p_demo.name}", flush=True)
@@ -777,7 +777,7 @@ def process_all_clarksons():
         p_macro = OUT_SERIES_DIR / "clarksons_macro_series.csv"
         _refuse_legacy_clarksons_write(p_macro)
         with open(p_macro, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=["issue_date", "report_week", "bdi", "eur_usd", "source_file"])
+            writer = csv.DictWriter(f, fieldnames=["issue_date", "report_week", "bdi", "eur_usd", "source_file"], lineterminator="\n")
             writer.writeheader()
             writer.writerows(all_macro)
         print(f"Saved {len(all_macro)} cumulative rows to {p_macro.name}", flush=True)

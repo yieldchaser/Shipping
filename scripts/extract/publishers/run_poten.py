@@ -1067,7 +1067,7 @@ def _upsert_poten_csv(csv_path: Path, fieldnames: list[str], new_rows: list[dict
         merged[k] = {col: r.get(col, '') for col in fieldnames}
     sorted_rows = sorted(merged.values(), key=lambda x: tuple(str(x.get(c, '')) for c in key_cols))
     with open(csv_path, 'w', newline='', encoding='utf-8') as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction='ignore')
+        writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction='ignore', lineterminator="\n")
         writer.writeheader()
         writer.writerows(sorted_rows)
     return len(sorted_rows)
@@ -1085,11 +1085,11 @@ def process_single_pdf(pdf_path: Path, dry_run: bool = False) -> dict:
     if not dry_run:
         md_full = ROOT / md_rel_path
         md_full.parent.mkdir(parents=True, exist_ok=True)
-        md_full.write_text(md_content, encoding='utf-8')
+        md_full.write_text(md_content, encoding='utf-8', newline="\n")
 
         tables_full = ROOT / tables_rel_path
         tables_full.parent.mkdir(parents=True, exist_ok=True)
-        tables_full.write_text(json.dumps(tables_data, indent=2, ensure_ascii=False), encoding='utf-8')
+        tables_full.write_text(json.dumps(tables_data, indent=2, ensure_ascii=False), encoding='utf-8', newline="\n")
 
         _upsert_poten_csv(CHARTERERS_SERIES_CSV, [
             'issue_date', 'year', 'report_period', 'segment', 'rank', 'charterer',
@@ -1181,12 +1181,12 @@ def main():
             # Write MD file
             md_full_path = ROOT / md_rel_path
             md_full_path.parent.mkdir(parents=True, exist_ok=True)
-            md_full_path.write_text(md_content, encoding='utf-8')
+            md_full_path.write_text(md_content, encoding='utf-8', newline="\n")
 
             # Write tables JSON sidecar
             tables_full_path = ROOT / tables_rel_path
             tables_full_path.parent.mkdir(parents=True, exist_ok=True)
-            tables_full_path.write_text(json.dumps(tables_data, indent=2, ensure_ascii=False), encoding='utf-8')
+            tables_full_path.write_text(json.dumps(tables_data, indent=2, ensure_ascii=False), encoding='utf-8', newline="\n")
 
             all_metadata.append(meta)
             all_charterer_rows.extend(charterer_rows)

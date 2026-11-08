@@ -628,16 +628,16 @@ def process_one(pdf_path, out_root, skip_tables=False, gated_layout=False):
                 tab_rows.append(t)
         harvest_images(page, pno, cdir, c_meta, dkey)
     doc.close()
-    with open(os.path.join(ddir, "text.jsonl"), "w", encoding="utf-8") as f:
+    with open(os.path.join(ddir, "text.jsonl"), "w", encoding="utf-8", newline="\n") as f:
         for r in t_rows:
             f.write(json.dumps(r) + "\n")
-    with open(os.path.join(ddir, "tables.jsonl"), "w", encoding="utf-8") as f:
+    with open(os.path.join(ddir, "tables.jsonl"), "w", encoding="utf-8", newline="\n") as f:
         for r in tab_rows:
             f.write(json.dumps(r) + "\n")
-    with open(os.path.join(ddir, "pages.jsonl"), "w", encoding="utf-8") as f:
+    with open(os.path.join(ddir, "pages.jsonl"), "w", encoding="utf-8", newline="\n") as f:
         for r in p_rows:
             f.write(json.dumps(r) + "\n")
-    with open(os.path.join(cdir, "meta.jsonl"), "w", encoding="utf-8") as f:
+    with open(os.path.join(cdir, "meta.jsonl"), "w", encoding="utf-8", newline="\n") as f:
         for r in c_meta:
             f.write(json.dumps(r) + "\n")
     # honest status: a document that yielded no text AND no tables is not a
@@ -670,7 +670,7 @@ def process_one(pdf_path, out_root, skip_tables=False, gated_layout=False):
             rec["status"] = "no-extractable-content"
             rec["note"] = "scanned/short page with no text layer; OCR work for later"
     if empty_output:
-        with open(os.path.join(ddir, "pages.jsonl"), "w", encoding="utf-8") as f:
+        with open(os.path.join(ddir, "pages.jsonl"), "w", encoding="utf-8", newline="\n") as f:
             for pr in p_rows:  # rewrite without the cleared OCR flags
                 f.write(json.dumps(pr) + "\n")
     return rec

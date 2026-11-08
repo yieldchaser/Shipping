@@ -607,7 +607,7 @@ def run_demolition_series(source: str, root: Path, out_dir: Path, report_path: P
         results.append(merge_file(spec, old, issues, twin_old))
     report = format_report(source, root, out_dir, results, len(issues), dry_run)
     report_path.parent.mkdir(parents=True, exist_ok=True)
-    report_path.write_text(report + "\n", encoding="utf-8")
+    report_path.write_text(report + "\n", encoding="utf-8", newline="\n")
     written = []
     if not dry_run:
         out_dir.mkdir(parents=True, exist_ok=True)

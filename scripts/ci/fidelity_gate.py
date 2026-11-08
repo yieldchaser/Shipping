@@ -72,7 +72,7 @@ def main() -> None:
         noted += len(drop)
         queued += len(review)
     if queued and not a.dry_run:
-        QUEUE.write_text(json.dumps(queue, indent=1, sort_keys=True) + "\n", encoding="utf-8")
+        QUEUE.write_text(json.dumps(queue, indent=1, sort_keys=True) + "\n", encoding="utf-8", newline="\n")
     print(f"fidelity gate: {noted} chart-reading tables noted, {queued} tables queued for review"
           f"{' (dry run)' if a.dry_run else ''}")
 

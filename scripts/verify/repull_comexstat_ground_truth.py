@@ -110,7 +110,7 @@ def main():
     cache_serializable = {
         f"{k[0]}|{k[1]}": v for k, v in api_records.items()
     }
-    with open(out_cache, "w", encoding="utf-8") as f:
+    with open(out_cache, "w", encoding="utf-8", newline="\n") as f:
         json.dump(cache_serializable, f, indent=2)
     print(f"Saved raw harvest to {out_cache}")
 

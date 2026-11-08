@@ -79,7 +79,7 @@ def stack_advanced_shipping():
             "owner", "comments", "page", "source_file"
         ]
         with open(nb_file, "w", newline="", encoding="utf-8") as fp:
-            writer = csv.DictWriter(fp, fieldnames=fields, extrasaction="ignore")
+            writer = csv.DictWriter(fp, fieldnames=fields, extrasaction="ignore", lineterminator="\n")
             writer.writeheader()
             writer.writerows(nb_rows)
         print(f"Exported {len(nb_rows)} rows to {nb_file.name}")
@@ -92,7 +92,7 @@ def stack_advanced_shipping():
             "yob", "price_usd_per_ldt", "country", "comments", "page", "source_file"
         ]
         with open(demo_file, "w", newline="", encoding="utf-8") as fp:
-            writer = csv.DictWriter(fp, fieldnames=fields, extrasaction="ignore")
+            writer = csv.DictWriter(fp, fieldnames=fields, extrasaction="ignore", lineterminator="\n")
             writer.writeheader()
             writer.writerows(demo_rows)
         print(f"Exported {len(demo_rows)} rows to {demo_file.name}")
@@ -105,7 +105,7 @@ def stack_advanced_shipping():
             "age", "current_price_usd_mill", "prior_price_usd_mill", "change_pct", "source_file"
         ]
         with open(sh_file, "w", newline="", encoding="utf-8") as fp:
-            writer = csv.DictWriter(fp, fieldnames=fields, extrasaction="ignore")
+            writer = csv.DictWriter(fp, fieldnames=fields, extrasaction="ignore", lineterminator="\n")
             writer.writeheader()
             writer.writerows(sh_rows)
         print(f"Exported {len(sh_rows)} rows to {sh_file.name}")
@@ -137,7 +137,7 @@ def stack_xclusiv():
             "buyer", "price", "delivery", "comments", "page", "source_file"
         ]
         with open(orders_file, "w", newline="", encoding="utf-8") as fp:
-            writer = csv.DictWriter(fp, fieldnames=fields, extrasaction="ignore")
+            writer = csv.DictWriter(fp, fieldnames=fields, extrasaction="ignore", lineterminator="\n")
             writer.writeheader()
             writer.writerows(nb_orders)
         print(f"Exported {len(nb_orders)} rows to {orders_file.name}")
@@ -150,7 +150,7 @@ def stack_xclusiv():
             "price_usd_mill", "source_file"
         ]
         with open(prices_file, "w", newline="", encoding="utf-8") as fp:
-            writer = csv.DictWriter(fp, fieldnames=fields, extrasaction="ignore")
+            writer = csv.DictWriter(fp, fieldnames=fields, extrasaction="ignore", lineterminator="\n")
             writer.writeheader()
             writer.writerows(nb_prices)
         print(f"Exported {len(nb_prices)} rows to {prices_file.name}")
@@ -259,7 +259,7 @@ def stack_star_asia():
             "older_year_usd_m", "source_file"
         ]
         with open(mat_file, "w", newline="", encoding="utf-8") as fp:
-            writer = csv.DictWriter(fp, fieldnames=fields)
+            writer = csv.DictWriter(fp, fieldnames=fields, lineterminator="\n")
             writer.writeheader()
             writer.writerows(matrix_rows)
         print(f"Exported {len(matrix_rows)} rows to {mat_file.name}")

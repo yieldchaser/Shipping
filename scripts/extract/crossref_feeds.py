@@ -177,7 +177,7 @@ def main() -> int:
         print(f"   ratio {r['median_ratio']:.3f} (spread {r['ratio_spread']:.3f})  "
               f"{r['entity'][:20]} vs {r['feed_file'][:30]}")
 
-    json.dump(results, open("data/extracted/feed_crossref.json", "w", encoding="utf-8"),
+    json.dump(results, open("data/extracted/feed_crossref.json", "w", encoding="utf-8", newline="\n"),
               indent=1)
     print("\nwrote data/extracted/feed_crossref.json")
     return 0

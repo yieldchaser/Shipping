@@ -644,21 +644,21 @@ def process_all(verify: bool = True) -> Dict[str, Any]:
             "demolitions": demo_recs
         }
         tab_json_path = OUT_MD / f"{stem}.tables.json"
-        with open(tab_json_path, "w", encoding="utf-8") as f:
+        with open(tab_json_path, "w", encoding="utf-8", newline="\n") as f:
             json.dump(payload_json, f, indent=2, ensure_ascii=False)
 
         yr_str = issue_date[:4] if issue_date and issue_date[:4].isdigit() else "2026"
         yr_dir = OUT_MD / yr_str
         yr_dir.mkdir(parents=True, exist_ok=True)
-        with open(yr_dir / f"{stem}.tables.json", "w", encoding="utf-8") as f:
+        with open(yr_dir / f"{stem}.tables.json", "w", encoding="utf-8", newline="\n") as f:
             json.dump(payload_json, f, indent=2, ensure_ascii=False)
 
         # 2. Write <stem>.md (both flat root and year subfolder)
         md_content = build_markdown_document(pdf_path, issue_date, printed_date, commentary, sales_recs, demo_recs)
         md_path = OUT_MD / f"{stem}.md"
-        with open(md_path, "w", encoding="utf-8") as f:
+        with open(md_path, "w", encoding="utf-8", newline="\n") as f:
             f.write(md_content)
-        with open(yr_dir / f"{stem}.md", "w", encoding="utf-8") as f:
+        with open(yr_dir / f"{stem}.md", "w", encoding="utf-8", newline="\n") as f:
             f.write(md_content)
 
         report_summaries.append({
@@ -748,7 +748,7 @@ def process_all(verify: bool = True) -> Dict[str, Any]:
     sales_csv_path = OUT_SERIES / "clarksons_sales_series.csv"
     _refuse_legacy_clarksons_write(sales_csv_path, OUT_SERIES / "clarksons_demolition_series.csv")
     with open(sales_csv_path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=sales_cols)
+        writer = csv.DictWriter(f, fieldnames=sales_cols, lineterminator="\n")
         writer.writeheader()
         for row in all_sales_rows:
             dt_val = row.get("issue_date") or row.get("issue", "")
@@ -765,7 +765,7 @@ def process_all(verify: bool = True) -> Dict[str, Any]:
     ]
     demo_csv_path = OUT_SERIES / "clarksons_demolition_series.csv"
     with open(demo_csv_path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=demo_cols)
+        writer = csv.DictWriter(f, fieldnames=demo_cols, lineterminator="\n")
         writer.writeheader()
         for row in all_demo_rows:
             dt_val = row.get("issue_date") or row.get("issue", "")
@@ -783,7 +783,7 @@ def process_all(verify: bool = True) -> Dict[str, Any]:
         "unique_issues": len(set(r["issue_date"] for r in report_summaries)),
         "reports": report_summaries,
     }
-    with open(STATE_FILE, "w", encoding="utf-8") as f:
+    with open(STATE_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(state, f, indent=2)
 
     return state

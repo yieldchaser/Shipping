@@ -537,10 +537,10 @@ def process_single_article(html_path):
     os.makedirs(os.path.dirname(out_ext_path), exist_ok=True)
     os.makedirs(os.path.dirname(corpus_md_path), exist_ok=True)
 
-    with open(out_ext_path, 'w', encoding='utf-8') as f:
+    with open(out_ext_path, 'w', encoding='utf-8', newline="\n") as f:
         f.write(_relink(full_md, out_ext_path))
 
-    with open(corpus_md_path, 'w', encoding='utf-8') as f:
+    with open(corpus_md_path, 'w', encoding='utf-8', newline="\n") as f:
         f.write(_relink(full_md, corpus_md_path))
 
     return metadata_record
@@ -594,7 +594,7 @@ def run_pipeline(target_years=None):
     if existing_map:
         merged_meta = sorted(existing_map.values(), key=lambda x: (str(x.get('issue_date') or ''), str(x.get('source_file') or '')))
         with open(meta_path, 'w', encoding='utf-8', newline='') as mf:
-            writer = csv.DictWriter(mf, fieldnames=fieldnames)
+            writer = csv.DictWriter(mf, fieldnames=fieldnames, lineterminator="\n")
             writer.writeheader()
             writer.writerows(merged_meta)
 

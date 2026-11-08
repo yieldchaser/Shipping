@@ -93,7 +93,7 @@ def get_last_sync_state():
     return {"last_benchmark_sync": None, "last_full_sync": None}
 
 def save_sync_state(state):
-    SYNC_STATE_FILE.write_text(json.dumps(state, indent=2), encoding="utf-8")
+    SYNC_STATE_FILE.write_text(json.dumps(state, indent=2), encoding="utf-8", newline="\n")
 
 def should_run_today(last_sync_dt, now_dt):
     """

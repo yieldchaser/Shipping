@@ -144,7 +144,7 @@ def nace_parse_page(pdf: Path, page: int) -> str:
                     md = job.result["document"]["markdown"]
                     NACE_CACHE.mkdir(parents=True, exist_ok=True)
                     cp.write_text(json.dumps({"pdf": pdf.name, "page": page, "markdown": md, "job_id": job.job_id},
-                                             ensure_ascii=False), encoding="utf-8")
+                                             ensure_ascii=False), encoding="utf-8", newline="\n")
                     return md
             except Exception as e:  # noqa: BLE001 - next key on no credit, retry transient, re-raise the rest
                 s = str(e)
@@ -177,7 +177,7 @@ def parse_page(pdf: Path, page: int) -> str:
     r = LlamaParseClient().parse(pdf, "agentic", "latest", str(page), PROMPT, False)
     CACHE.mkdir(parents=True, exist_ok=True)
     cp.write_text(json.dumps({"pdf": pdf.name, "page": page, "markdown": r["markdown"], "job_id": r.get("job_id")},
-                             ensure_ascii=False), encoding="utf-8")
+                             ensure_ascii=False), encoding="utf-8", newline="\n")
     return r["markdown"]
 
 
@@ -228,7 +228,7 @@ def ocr_read(pdf: Path, page_no: int, page, full: bool = False) -> tuple[set[str
     text = " ".join(parts)
     out = nums(text) | nums(text.replace(" ", ""))
     OCR_CACHE.mkdir(parents=True, exist_ok=True)
-    cp.write_text(json.dumps({"pdf": pdf.name, "page": page_no, "text": text, "nums": sorted(out)}), encoding="utf-8")
+    cp.write_text(json.dumps({"pdf": pdf.name, "page": page_no, "text": text, "nums": sorted(out)}), encoding="utf-8", newline="\n")
     return out, text
 
 
@@ -486,7 +486,7 @@ def main() -> int:
             if apply:
                 md.write_bytes("".join(lines).encode("utf-8"))
     REPORT.parent.mkdir(parents=True, exist_ok=True)
-    REPORT.write_text(json.dumps(report, indent=1, ensure_ascii=False), encoding="utf-8")
+    REPORT.write_text(json.dumps(report, indent=1, ensure_ascii=False), encoding="utf-8", newline="\n")
     for k, v in sorted(stat.items()):
         print(f"{v:6}  {k}")
     print("APPLIED" if apply else "dry run (use --apply)")

@@ -180,7 +180,7 @@ def main():
     cols = ["file", "date", "date_source", "tc_page", "fields_filled"] + \
            [f for f, _ in LABELS]
     with OUT.open("w", newline="", encoding="utf-8") as fh:
-        w = csv.DictWriter(fh, fieldnames=cols)
+        w = csv.DictWriter(fh, fieldnames=cols, lineterminator="\n")
         w.writeheader()
         for r in rows:
             w.writerow({k: r.get(k) for k in cols})

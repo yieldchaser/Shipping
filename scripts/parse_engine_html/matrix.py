@@ -1018,18 +1018,18 @@ def _add_second_reader(path: Path, res: MatrixResult, cache_file: Path | None) -
         if md is None or not nace_values(md):
             res.nace_v = NACE_V           # tried; keep the old read and do not pay again
             if cache_file is not None:
-                cache_file.write_text(json.dumps(res.to_json(), ensure_ascii=False), encoding="utf-8")
+                cache_file.write_text(json.dumps(res.to_json(), ensure_ascii=False), encoding="utf-8", newline="\n")
             return
         res.nace_md, res.nace_v = md, NACE_V
         if cache_file is not None:
-            cache_file.write_text(json.dumps(res.to_json(), ensure_ascii=False), encoding="utf-8")
+            cache_file.write_text(json.dumps(res.to_json(), ensure_ascii=False), encoding="utf-8", newline="\n")
         return
     md = nace_read(path)
     if md is None:
         return
     res.nace_md, res.nace_v = md, NACE_V
     if cache_file is not None:
-        cache_file.write_text(json.dumps(res.to_json(), ensure_ascii=False), encoding="utf-8")
+        cache_file.write_text(json.dumps(res.to_json(), ensure_ascii=False), encoding="utf-8", newline="\n")
 
 
 def parse_matrix_image(path: Path, cache_dir: Path | None = None, article_date: str | None = None) -> MatrixResult:
@@ -1049,7 +1049,7 @@ def parse_matrix_image(path: Path, cache_dir: Path | None = None, article_date: 
             if (res.date_v < DATE_V and not any(e.startswith("grid:") for e in res.errors)
                     and decide_date(res.date_reads) is None):
                 if _redo_date_reads(path, res):
-                    cache_file.write_text(json.dumps(res.to_json(), ensure_ascii=False), encoding="utf-8")
+                    cache_file.write_text(json.dumps(res.to_json(), ensure_ascii=False), encoding="utf-8", newline="\n")
             _add_second_reader(path, res, cache_file)
             return finalize(res, article_date)
     res = MatrixResult(status="failed", image=path.name, image_sha256=sha, val_policy=2)
@@ -1068,6 +1068,6 @@ def parse_matrix_image(path: Path, cache_dir: Path | None = None, article_date: 
         return MatrixResult(status="error", image=path.name, image_sha256=sha,
                             errors=[f"engine: {type(exc).__name__}: {exc}"])
     if cache_file is not None:
-        cache_file.write_text(json.dumps(res.to_json(), ensure_ascii=False), encoding="utf-8")
+        cache_file.write_text(json.dumps(res.to_json(), ensure_ascii=False), encoding="utf-8", newline="\n")
     _add_second_reader(path, res, cache_file)
     return finalize(res, article_date)

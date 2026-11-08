@@ -286,7 +286,7 @@ def main():
     cols = ["file", "date", "date_source", "has_tanker_page", "has_bulk_page",
             "fields_filled"] + [f for f, _ in TANKER + DRYBULK]
     with OUT.open("w", newline="", encoding="utf-8") as fh:
-        w = csv.DictWriter(fh, fieldnames=cols)
+        w = csv.DictWriter(fh, fieldnames=cols, lineterminator="\n")
         w.writeheader()
         for r in rows:
             w.writerow({k: r.get(k) for k in cols})

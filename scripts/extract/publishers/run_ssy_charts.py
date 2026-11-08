@@ -949,11 +949,11 @@ def main(argv):
             empty += 1
             done[sid] = {"n_points": 0, "error": str(e)[:200]}
             print(f"[{i}/{len(pdfs)}] {sid} FAILED {e}", flush=True)
-            state.write_text(json.dumps(done, indent=1), encoding="utf-8")
+            state.write_text(json.dumps(done, indent=1), encoding="utf-8", newline="\n")
             continue
         n = sum(s["n_points"] for s in d["series"])
         (OUT / (sid + ".charts.json")).write_text(
-            json.dumps(d, ensure_ascii=False, indent=1), encoding="utf-8")
+            json.dumps(d, ensure_ascii=False, indent=1), encoding="utf-8", newline="\n")
         done[sid] = {"n_points": n, "n_series": len(d["series"]), "ticks": d["n_ticks"],
                      "rel_gap": d["check"]["rel_gap"], "warnings": d["warnings"]}
         if n:
@@ -963,7 +963,7 @@ def main(argv):
                 gaps.append(g)
         else:
             empty += 1
-        state.write_text(json.dumps(done, indent=1), encoding="utf-8")
+        state.write_text(json.dumps(done, indent=1), encoding="utf-8", newline="\n")
         print(f"[{i}/{len(pdfs)}] {sid} series={len(d['series'])} pts={n} "
               f"ticks={d['n_ticks']} gap={d['check']['rel_gap']} "
               f"{'OK' if n else 'EMPTY ' + str(d['warnings'])}", flush=True)

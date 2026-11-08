@@ -45,7 +45,7 @@ def stamp() -> str:
 def log(msg: str) -> None:
     try:
         LOGDIR.mkdir(parents=True, exist_ok=True)
-        with open(WATCHLOG, "a", encoding="utf-8") as f:
+        with open(WATCHLOG, "a", encoding="utf-8", newline="\n") as f:
             f.write(f"{stamp()} {msg}\n")
     except Exception:
         pass
@@ -153,7 +153,7 @@ def restart() -> int | None:
         key = _pool_key()
         if key:
             env["LLAMA_CLOUD_API_KEY"] = key
-        with open(LOG, "a", encoding="utf-8") as fh:
+        with open(LOG, "a", encoding="utf-8", newline="\n") as fh:
             p = subprocess.Popen(
                 [str(PYTHON), str(RUNNER), "--tier", "cost_effective"],
                 cwd=str(ROOT), stdout=fh, stderr=subprocess.STDOUT,

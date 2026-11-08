@@ -37,7 +37,7 @@ logger = logging.getLogger("stack_banchero")
 def write_csv(path: Path, rows: List[Dict[str, Any]], fieldnames: List[str]):
     path.parent.mkdir(parents=True, exist_ok=True)
     with open(path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
+        writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore", lineterminator="\n")
         writer.writeheader()
         writer.writerows(rows)
     logger.info(f"Wrote {len(rows):,} rows to {path.name}")

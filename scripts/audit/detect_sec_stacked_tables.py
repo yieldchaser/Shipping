@@ -126,7 +126,7 @@ def main() -> int:
             hits[key] = res
 
     if args.out:
-        Path(args.out).write_text(json.dumps(hits, indent=1, ensure_ascii=False), encoding="utf-8")
+        Path(args.out).write_text(json.dumps(hits, indent=1, ensure_ascii=False), encoding="utf-8", newline="\n")
     if args.list:
         for key in sorted(hits):
             print(key)

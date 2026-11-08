@@ -139,7 +139,7 @@ def main():
         print(f"   {r['source']:<12} {r.get('file', '')[:38]:<40} p{r['page']} "
               f"{r['verdict']} - {r['why']}")
     if args.apply:
-        OUT.write_text(json.dumps(rows, indent=1), encoding="utf-8")
+        OUT.write_text(json.dumps(rows, indent=1), encoding="utf-8", newline="\n")
         print(f"\nwrote {OUT}")
     else:
         print("\n(dry run - pass --apply to write the verdict file)")

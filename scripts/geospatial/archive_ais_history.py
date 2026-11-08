@@ -290,7 +290,7 @@ def build_active_trajectories_view(
             "total_points": 0,
             "trajectories": {}
         }
-        out_file.write_text(json.dumps(empty_payload), encoding="utf-8")
+        out_file.write_text(json.dumps(empty_payload), encoding="utf-8", newline="\n")
         return out_file
 
     all_dfs = []

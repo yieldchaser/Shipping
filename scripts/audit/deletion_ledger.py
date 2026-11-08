@@ -58,5 +58,5 @@ for r in rows:
         out.append(f"| {r['sha']} | {r['date']} | {src} | {rm} | {r['add'][src]} | "
                    f"{dfiles.get((r['sha'], src), 0)} | {r['subj'][:110].replace('|', '/')} |")
 out += ["", "## Totals by source (lines removed)", ""] + [f"- {s}: {n}" for s, n in tot.most_common()]
-(ROOT / a.out).write_text("\n".join(out) + "\n", encoding="utf-8")
+(ROOT / a.out).write_text("\n".join(out) + "\n", encoding="utf-8", newline="\n")
 print(f"{len(rows)} commits, {sum(tot.values())} lines removed -> {a.out}")

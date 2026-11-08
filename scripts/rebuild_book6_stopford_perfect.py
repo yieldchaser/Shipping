@@ -409,10 +409,10 @@ def main():
     full_output = re.sub(r'\n{4,}', '\n\n\n', full_output)
     
     print(f"Writing {len(full_output)} characters to {TARGET_MD}...")
-    TARGET_MD.write_text(full_output, encoding='utf-8')
+    TARGET_MD.write_text(full_output, encoding='utf-8', newline="\n")
     
     print(f"Writing to {KNOWLEDGE_MD}...")
-    KNOWLEDGE_MD.write_text(full_output, encoding='utf-8')
+    KNOWLEDGE_MD.write_text(full_output, encoding='utf-8', newline="\n")
     
     print("Rebuild complete. Byte parity guaranteed.")
 

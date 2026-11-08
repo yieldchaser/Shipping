@@ -840,15 +840,15 @@ def main():
         md_out_path = os.path.join(OUT_MD, f"{stem}.md")
         json_out_path = os.path.join(OUT_MD, f"{stem}.tables.json")
 
-        with open(md_out_path, 'w', encoding='utf-8') as f:
+        with open(md_out_path, 'w', encoding='utf-8', newline="\n") as f:
             f.write(rendered_md)
 
-        with open(json_out_path, 'w', encoding='utf-8') as f:
+        with open(json_out_path, 'w', encoding='utf-8', newline="\n") as f:
             json.dump(sidecar_json, f, indent=2)
 
         # Also update the digest file in corpus/01-brokers/_digests/lion/2026/ for W37 / W38
         if kind in ('digest_w37', 'digest_w38'):
-            with open(src_path, 'w', encoding='utf-8') as f:
+            with open(src_path, 'w', encoding='utf-8', newline="\n") as f:
                 f.write(rendered_md)
         else:
             w_match = re.search(r'W(\d{2})', stem)
@@ -856,7 +856,7 @@ def main():
                 w_str = w_match.group(1)
                 matching_digests = glob.glob(os.path.join(DIGEST_DIR, f'*week_{w_str}_*.md'))
                 for md_f in matching_digests:
-                    with open(md_f, 'w', encoding='utf-8') as f:
+                    with open(md_f, 'w', encoding='utf-8', newline="\n") as f:
                         f.write(rendered_md)
 
         # Collect rows for series CSVs
@@ -947,10 +947,10 @@ def main():
     df_dm = pd.DataFrame(all_demo_series).sort_values(['issue_date', 'vessel']).reset_index(drop=True)
     df_deals = pd.DataFrame(all_deals_series).sort_values(['issue_date', 'section', 'vessel']).reset_index(drop=True)
 
-    df_dem.to_csv(os.path.join(OUT_SERIES, 'lion_demometer_series.csv'), index=False)
-    df_sh.to_csv(os.path.join(OUT_SERIES, 'lion_sales_series.csv'), index=False)
-    df_dm.to_csv(os.path.join(OUT_SERIES, 'lion_demo_sales_series.csv'), index=False)
-    df_deals.to_csv(os.path.join(OUT_SERIES, 'lion_deals_series.csv'), index=False)
+    df_dem.to_csv(os.path.join(OUT_SERIES, 'lion_demometer_series.csv'), index=False, lineterminator="\n")
+    df_sh.to_csv(os.path.join(OUT_SERIES, 'lion_sales_series.csv'), index=False, lineterminator="\n")
+    df_dm.to_csv(os.path.join(OUT_SERIES, 'lion_demo_sales_series.csv'), index=False, lineterminator="\n")
+    df_deals.to_csv(os.path.join(OUT_SERIES, 'lion_deals_series.csv'), index=False, lineterminator="\n")
 
     print("\n--- Summary of Extraction ---")
     print(f"Total reports processed: {len(all_jobs)}")

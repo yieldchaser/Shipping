@@ -426,8 +426,8 @@ One-step ahead predictive performance in this study leads the future research on
 38. Zeng, Q., Qu, C., Ng, A.K., 2016. A new approach for Baltic Dry Index forecasting based on empirical mode decomposition. *Maritime Policy & Management* 43 (4), 441-454.
 """
     # Write to corpus and knowledge
-    CORPUS_MD.write_text(md_content, encoding='utf-8')
-    KNOWLEDGE_MD.write_text(md_content, encoding='utf-8')
+    CORPUS_MD.write_text(md_content, encoding='utf-8', newline="\n")
+    KNOWLEDGE_MD.write_text(md_content, encoding='utf-8', newline="\n")
     print(f"Book 1 successfully rebuilt: {len(md_content):,} chars, {len(md_content.splitlines()):,} lines")
     print(f"Byte parity check: {CORPUS_MD.stat().st_size == KNOWLEDGE_MD.stat().st_size}")
 

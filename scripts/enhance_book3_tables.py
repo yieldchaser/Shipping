@@ -164,8 +164,8 @@ W. Europe 30.9 31.4 43.0 78.3 90.6 94.2 97.7"""
         text = text.replace(anchor_11_1, anchor_11_1 + "\n\n" + TABLE_11_1.strip() + "\n")
         print("Inserted Table 11.1")
         
-    CORPUS_MD.write_text(text, encoding='utf-8')
-    KNOWLEDGE_MD.write_text(text, encoding='utf-8')
+    CORPUS_MD.write_text(text, encoding='utf-8', newline="\n")
+    KNOWLEDGE_MD.write_text(text, encoding='utf-8', newline="\n")
     print("Book 3 tables updated successfully!")
     print(f"Corpus size: {CORPUS_MD.stat().st_size:,} bytes")
     print(f"Knowledge size: {KNOWLEDGE_MD.stat().st_size:,} bytes")

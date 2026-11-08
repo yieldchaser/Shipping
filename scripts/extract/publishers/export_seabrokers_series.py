@@ -39,7 +39,7 @@ def export_series():
     df_spot = df_spot.sort_values(["report_date", "vessel_class", "metric"])
     df_spot.to_csv(csv_spot, index=False, columns=[
         "report_date", "year", "month", "vessel_class", "metric", "value", "unit", "source", "source_page"
-    ])
+    ], lineterminator="\n")
     print(f"[+] Exported OSV Spot Rates: {csv_spot} ({len(df_spot):,} rows)")
 
     # 2. OSV Monthly History Curves (6,280 continuous monthly points)
@@ -48,7 +48,7 @@ def export_series():
     df_hist = df_hist.sort_values(["report_date", "vessel_class", "period"])
     df_hist.to_csv(csv_hist, index=False, columns=[
         "report_date", "year", "month", "period", "vessel_class", "metric", "value", "unit", "source", "source_page"
-    ])
+    ], lineterminator="\n")
     print(f"[+] Exported OSV Monthly Rate History: {csv_hist} ({len(df_hist):,} rows)")
 
     # 3. OSV Utilisation Curves (2,304 utilisation points)
@@ -57,7 +57,7 @@ def export_series():
     df_util = df_util.sort_values(["report_date", "vessel_class", "period"])
     df_util.to_csv(csv_util, index=False, columns=[
         "report_date", "year", "month", "period", "vessel_class", "metric", "value", "unit", "source", "source_page"
-    ])
+    ], lineterminator="\n")
     print(f"[+] Exported OSV Utilisation: {csv_util} ({len(df_util):,} rows)")
 
     # 4. Rigs Market (4,467 rows combining rig_day_rates, rig_utilisation, rigs_inactive)
@@ -66,7 +66,7 @@ def export_series():
     df_rigs = df_rigs.sort_values(["report_date", "section"])
     df_rigs.to_csv(csv_rigs, index=False, columns=[
         "report_date", "year", "month", "section", "region", "vessel_class", "metric", "value", "value_text", "unit", "period", "note", "source", "source_page"
-    ])
+    ], lineterminator="\n")
     print(f"[+] Exported Rigs Market: {csv_rigs} ({len(df_rigs):,} rows)")
 
     # 5. Offshore S&P Auctions (Bourbon auctions, MPSV, CSV, PSV, AHTS sales)
@@ -75,7 +75,7 @@ def export_series():
     df_snp = df_snp.sort_values(["report_date", "vessel_class"])
     df_snp.to_csv(csv_snp, index=False, columns=[
         "report_date", "year", "month", "vessel_class", "metric", "value", "unit", "note", "source", "source_page"
-    ])
+    ], lineterminator="\n")
     print(f"[+] Exported Offshore S&P Auctions: {csv_snp} ({len(df_snp):,} rows)")
 
     # 6. OSV Fleet Moves (Arrivals & Departures ex-Med, ex-South America, etc.)
@@ -84,7 +84,7 @@ def export_series():
     df_moves = df_moves.sort_values(["report_date", "vessel_class"])
     df_moves.to_csv(csv_moves, index=False, columns=[
         "report_date", "year", "month", "vessel_class", "metric", "value_text", "note", "source", "source_page"
-    ])
+    ], lineterminator="\n")
     print(f"[+] Exported OSV Fleet Moves: {csv_moves} ({len(df_moves):,} rows)")
 
     # 7. Feature Vessels
@@ -93,7 +93,7 @@ def export_series():
     df_fv = df_fv.sort_values(["report_date", "vessel_class"])
     df_fv.to_csv(csv_fv, index=False, columns=[
         "report_date", "year", "month", "vessel_class", "metric", "value", "value_text", "unit", "note", "source", "source_page"
-    ])
+    ], lineterminator="\n")
     print(f"[+] Exported Feature Vessels: {csv_fv} ({len(df_fv):,} rows)")
 
     # 8. Renewables & ETS Carbon
@@ -102,7 +102,7 @@ def export_series():
     df_ren = df_ren.sort_values(["report_date", "section"])
     df_ren.to_csv(csv_ren, index=False, columns=[
         "report_date", "year", "month", "section", "metric", "value", "unit", "period", "note", "source", "source_page"
-    ])
+    ], lineterminator="\n")
     print(f"[+] Exported Renewables & ETS: {csv_ren} ({len(df_ren):,} rows)")
 
     total_exported = len(df_spot) + len(df_hist) + len(df_util) + len(df_rigs) + len(df_snp) + len(df_moves) + len(df_fv) + len(df_ren)

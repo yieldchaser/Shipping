@@ -221,25 +221,25 @@ def main():
         if junk:
             stats["junk"] += 1
             reasons[reason] = reasons.get(reason, 0) + 1
-            with open(os.path.join(ddir, "meta.json"), "w", encoding="utf-8") as f:
+            with open(os.path.join(ddir, "meta.json"), "w", encoding="utf-8", newline="\n") as f:
                 json.dump({"file": rel, "junk": True, "reason": reason}, f)
             continue
         title, blocks, tables, images = extract(html)
         # drop site boilerplate blocks (Signal chrome repeats on every page)
         blocks = [b for b in blocks
                   if not any(bp in b["text"].lower() for bp in BOILERPLATE)]
-        with open(os.path.join(ddir, "text.jsonl"), "w", encoding="utf-8") as f:
+        with open(os.path.join(ddir, "text.jsonl"), "w", encoding="utf-8", newline="\n") as f:
             for bi, b in enumerate(blocks):
                 f.write(json.dumps({"idx": bi, **b}) + "\n")
-        with open(os.path.join(ddir, "tables.jsonl"), "w", encoding="utf-8") as f:
+        with open(os.path.join(ddir, "tables.jsonl"), "w", encoding="utf-8", newline="\n") as f:
             for ti, rows in enumerate(tables):
                 if rows:
                     f.write(json.dumps({"page": 0, "table_idx": ti,
                                         "engine": "html-table", "rows": rows}) + "\n")
-        with open(os.path.join(ddir, "images.jsonl"), "w", encoding="utf-8") as f:
+        with open(os.path.join(ddir, "images.jsonl"), "w", encoding="utf-8", newline="\n") as f:
             for im in images:
                 f.write(json.dumps(im) + "\n")
-        with open(os.path.join(ddir, "meta.json"), "w", encoding="utf-8") as f:
+        with open(os.path.join(ddir, "meta.json"), "w", encoding="utf-8", newline="\n") as f:
             json.dump({"file": rel, "title": title, "blocks": len(blocks),
                        "tables": len(tables), "images": len(images),
                        "junk": False,

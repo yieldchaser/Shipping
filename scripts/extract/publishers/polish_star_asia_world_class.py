@@ -126,7 +126,7 @@ def write_series_rows(csv_path: Path, headers: list, new_rows: list, key_fields:
             added += 1
             
     with open(csv_path, "w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=headers)
+        writer = csv.DictWriter(f, fieldnames=headers, lineterminator="\n")
         writer.writeheader()
         writer.writerows(existing_rows)
     print(f"Updated {csv_path.name}: {len(existing_rows)} total rows (+{added} new)")
@@ -409,7 +409,7 @@ pages: 19
     final_md = re.sub(r'(?im)^\s*STAR\s*ASIA\s*\*+.*$', '', final_md)
     final_md = re.sub(r'\n{3,}', '\n\n', final_md)
 
-    with open(OUT_MD, "w", encoding="utf-8") as f:
+    with open(OUT_MD, "w", encoding="utf-8", newline="\n") as f:
         f.write(final_md)
     print(f"Wrote publication-grade markdown: {OUT_MD} ({len(final_md)} bytes, {len(final_md.splitlines())} lines)")
 
@@ -435,7 +435,7 @@ pages: 19
             tdict["table_id"] = f"table_{idx+1:02d}"
             tables_sidecar["tables"].append(tdict)
 
-    with open(OUT_JSON, "w", encoding="utf-8") as f:
+    with open(OUT_JSON, "w", encoding="utf-8", newline="\n") as f:
         json.dump(tables_sidecar, f, indent=2, ensure_ascii=False)
     print(f"Wrote structured tables JSON: {OUT_JSON} ({len(tables_sidecar['tables'])} tables)")
 

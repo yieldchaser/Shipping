@@ -64,7 +64,7 @@ class KeyPool:
 
     def _save(self) -> None:
         self.state_path.parent.mkdir(parents=True, exist_ok=True)
-        self.state_path.write_text(json.dumps(self.state, indent=2), encoding="utf-8")
+        self.state_path.write_text(json.dumps(self.state, indent=2), encoding="utf-8", newline="\n")
 
     def is_exhausted(self, key: str) -> bool:
         rec = self.state["exhausted"].get(key_id(key))

@@ -178,7 +178,7 @@ def main() -> None:
             if p.suffix.lower() in (".pdf", ".html", ".htm"):
                 by_name.setdefault(p.name, p)
     with out.open("w", newline="", encoding="utf-8") as f,             ProcessPoolExecutor(a.j, initializer=_init, initargs=(by_name,)) as ex:
-        w = csv.DictWriter(f, FIELDS)
+        w = csv.DictWriter(f, FIELDS, lineterminator="\n")
         w.writeheader()
         for i, row in enumerate(ex.map(scan, [(m, a.corpus_root) for m in mds], chunksize=8), 1):
             w.writerow(row)

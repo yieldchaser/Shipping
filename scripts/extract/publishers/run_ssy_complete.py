@@ -570,8 +570,8 @@ def process_report(pdf_path: Path):
     # year subfolder, like the whole history (a root copy was a stray duplicate)
     year_dir = OUT_MD / str(meta.get("year") or (meta.get("issue_date") or "")[:4] or "unknown")
     year_dir.mkdir(parents=True, exist_ok=True)
-    (year_dir / f"{stem}.md").write_text(md_content, encoding="utf-8")
-    (year_dir / f"{stem}.tables.json").write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8")
+    (year_dir / f"{stem}.md").write_text(md_content, encoding="utf-8", newline="\n")
+    (year_dir / f"{stem}.tables.json").write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
     return {
         "stem": stem,
@@ -673,7 +673,7 @@ def main():
             "weight_pct", "rates_date_prev", "rates_date_curr", "rate_prev",
             "rate_curr", "change_usd_t", "source_file"
         ]
-        writer = csv.DictWriter(f, fieldnames=fields)
+        writer = csv.DictWriter(f, fieldnames=fields, lineterminator="\n")
         writer.writeheader()
         writer.writerows(route_rows)
 
@@ -687,7 +687,7 @@ def main():
             "tc_trip_day_curr", "tc_round_day_curr", "tc_trip_day_prev",
             "tc_round_day_prev", "source_file"
         ]
-        writer = csv.DictWriter(f, fieldnames=fields)
+        writer = csv.DictWriter(f, fieldnames=fields, lineterminator="\n")
         writer.writeheader()
         writer.writerows(index_rows)
 

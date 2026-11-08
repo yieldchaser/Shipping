@@ -323,15 +323,15 @@ def main():
                                   "vessel name has no label - left unlabelled rather than "
                                   "guessed)"})
             continue
-        with ck.open("a", encoding="utf-8") as fh:
+        with ck.open("a", encoding="utf-8", newline="\n") as fh:
             fh.write(json.dumps({"file": key, "rows": parsed["rows"],
                                  "checks": parsed["checks"]}) + "\n")
         done[key] = parsed
         state["done"].append(key)
         if n % 20 == 0:
-            statep.write_text(json.dumps(state))
+            statep.write_text(json.dumps(state), newline="\n")
             print("[vessels] %d processed, %.1fs" % (n, time.time() - t0), flush=True)
-    statep.write_text(json.dumps(state))
+    statep.write_text(json.dumps(state), newline="\n")
     print("[vessels] DONE processed=%d skipped=%d failed=%d in %.1fs"
           % (n, len(state["skipped"]), len(state["failed"]), time.time() - t0), flush=True)
     return 0

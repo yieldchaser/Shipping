@@ -222,8 +222,8 @@ def main():
             continue
         try:
             doc = extract(p)
-            (OUT_MD / f"{stem}.md").write_text(to_markdown(doc), encoding="utf-8")
-            json.dump(doc, open(OUT_TAB / f"{stem}.json", "w", encoding="utf-8"), indent=1)
+            (OUT_MD / f"{stem}.md").write_text(to_markdown(doc), encoding="utf-8", newline="\n")
+            json.dump(doc, open(OUT_TAB / f"{stem}.json", "w", encoding="utf-8", newline="\n"), indent=1)
             ad = doc.get("assessment_date")
             ad = ad[0] if isinstance(ad, (list, tuple)) else ad
             state["done"][stem] = {
@@ -238,7 +238,7 @@ def main():
             }
         except Exception as e:
             state["failed"][stem] = str(e)[:200]
-        json.dump(state, open(STATE, "w"), indent=1)
+        json.dump(state, open(STATE, "w", newline="\n"), indent=1)
         if i % 50 == 0:
             print(f"  {i}/{len(pdfs)}")
     d = state["done"]

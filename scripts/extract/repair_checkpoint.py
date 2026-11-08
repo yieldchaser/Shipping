@@ -75,7 +75,7 @@ def main() -> int:
         return 0
 
     shutil.copy(CKPT, CKPT + ".bak")
-    with open(CKPT, "w", encoding="utf-8") as f:
+    with open(CKPT, "w", encoding="utf-8", newline="\n") as f:
         for o in keep:
             f.write(json.dumps(o) + "\n")
     print(f"\nrewrote {CKPT} ({len(keep)} rows); backup at {CKPT}.bak")

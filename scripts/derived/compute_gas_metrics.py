@@ -295,7 +295,7 @@ def sync_gas_metrics_into_port_stress(port_arrivals_map: dict) -> dict:
 
     hubs.sort(key=sort_severity)
 
-    with open(PORT_STRESS_SUMMARY_FILE, "w", encoding="utf-8") as f:
+    with open(PORT_STRESS_SUMMARY_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(summary_data, f, separators=(",", ":"))
 
     logging.info("Successfully updated %d Gas hubs in %s (Surge: %d, Collapse: %d, Normal: %d).",
@@ -328,7 +328,7 @@ def main():
         }
         for v in sorted(port_arrivals_map.values(), key=lambda x: x["count"], reverse=True)
     ]
-    with open(OUTPUT_GAS_FILE, "w", encoding="utf-8") as f:
+    with open(OUTPUT_GAS_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump({
             "as_of": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC"),
             "total_gas_arrivals": len(matched_events),

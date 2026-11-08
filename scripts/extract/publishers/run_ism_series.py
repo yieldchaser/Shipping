@@ -459,14 +459,14 @@ def main(argv=()) -> None:
     # 1. Write Coaster series
     OUT_COASTER_CSV.parent.mkdir(parents=True, exist_ok=True)
     with open(OUT_COASTER_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
         writer.writeheader()
         writer.writerows(coaster_rows)
     print(f"[ism] Successfully wrote {len(coaster_rows):,} coaster rows -> {OUT_COASTER_CSV}")
 
     # 2. Write Handy series
     with open(OUT_HANDY_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
         writer.writeheader()
         writer.writerows(handy_rows)
     print(f"[ism] Successfully wrote {len(handy_rows):,} handy rows -> {OUT_HANDY_CSV}")

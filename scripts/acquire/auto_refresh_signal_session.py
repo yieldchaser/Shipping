@@ -160,7 +160,7 @@ def main():
 
     try:
         cookie_str = refresh_session_headless(email, password, headless=not args.headed)
-        SESSION_FILE.write_text(cookie_str, encoding="utf-8")
+        SESSION_FILE.write_text(cookie_str, encoding="utf-8", newline="\n")
         logging.info("Saved fresh session cookie to %s (%d chars).", SESSION_FILE.name, len(cookie_str))
 
         if args.run_pipeline:

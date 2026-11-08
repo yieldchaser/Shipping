@@ -133,7 +133,7 @@ async def get_or_parse_image_async(img_path: Path, sem: asyncio.Semaphore) -> st
                 try:
                     docs = await parser.aload_data(str(tmp_pdf))
                     md_text = "\n\n".join(d.text for d in docs)
-                    cache_file.write_text(md_text, encoding="utf-8")
+                    cache_file.write_text(md_text, encoding="utf-8", newline="\n")
                     key_manager.record_success(1)
                     return md_text
                 except Exception as e:
@@ -362,12 +362,12 @@ async def process_vv_item_async(h_path: Path, sem: asyncio.Semaphore) -> Tuple[D
 
     md_path = year_dir / f"{stem}.md"
     _refuse_legacy_vv_write(md_path, year_dir / f"{stem}.tables.json")
-    with open(md_path, "w", encoding="utf-8") as mf:
+    with open(md_path, "w", encoding="utf-8", newline="\n") as mf:
         mf.write("\n".join(md_lines))
 
     # JSON sidecar
     json_path = year_dir / f"{stem}.tables.json"
-    with open(json_path, "w", encoding="utf-8") as jf:
+    with open(json_path, "w", encoding="utf-8", newline="\n") as jf:
         json.dump({
             "issue_date": issue_date,
             "year": year,
@@ -522,7 +522,7 @@ async def run_all_async(limit: Optional[int] = None) -> Dict[str, Any]:
     _refuse_legacy_vv_write(matrix_csv, OUT_SERIES_DIR / "hellenic_vv_benchmark_sales_series.csv")
     matrix_cols = ["issue_date", "sector", "vessel_class", "benchmark_size", "age_years", "pct_change_weekly", "source_file"]
     with open(matrix_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=matrix_cols)
+        writer = csv.DictWriter(f, fieldnames=matrix_cols, lineterminator="\n")
         writer.writeheader()
         for r in sorted(all_matrix, key=lambda x: (x["issue_date"], x["sector"], x["vessel_class"], str(x["age_years"]))):
             writer.writerow(r)
@@ -531,7 +531,7 @@ async def run_all_async(limit: Optional[int] = None) -> Dict[str, Any]:
     sales_csv = OUT_SERIES_DIR / "hellenic_vv_benchmark_sales_series.csv"
     sales_cols = ["issue_date", "vessel_class", "vessel_name", "vessel_specs", "seller", "sale_price_usd_m", "vv_value_usd_m", "raw_transaction", "source_file"]
     with open(sales_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=sales_cols)
+        writer = csv.DictWriter(f, fieldnames=sales_cols, lineterminator="\n")
         writer.writeheader()
         for s in sorted(all_sales, key=lambda x: (x["issue_date"], x["vessel_name"])):
             writer.writerow(s)
@@ -544,7 +544,7 @@ async def run_all_async(limit: Optional[int] = None) -> Dict[str, Any]:
         "matrix_observations": len(all_matrix),
         "benchmark_sales_observations": len(all_sales),
     }
-    with open(STATE_FILE, "w", encoding="utf-8") as sf:
+    with open(STATE_FILE, "w", encoding="utf-8", newline="\n") as sf:
         json.dump(state, sf, indent=2)
 
     return state

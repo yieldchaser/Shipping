@@ -85,5 +85,5 @@ if __name__ == "__main__":
     for r in c["noprov"]:
         print("   ", r)
     if a.json:
-        json.dump(c, open(a.json, "w"), indent=1)
+        json.dump(c, open(a.json, "w", newline="\n"), indent=1)
     raise SystemExit(1 if (c["stale_rows"] or c["stale_span"] or c["missing"]) else 0)

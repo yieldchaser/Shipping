@@ -76,7 +76,7 @@ def load_run_state() -> dict:
 
 def save_run_state(state: dict):
     STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
-    STATE_FILE.write_text(json.dumps(state, indent=2), encoding="utf-8")
+    STATE_FILE.write_text(json.dumps(state, indent=2), encoding="utf-8", newline="\n")
 
 
 def parse_date_from_filename(filename: str):
@@ -520,7 +520,7 @@ def process_single_report(pdf_path: Path):
                     "stem": stem,
                     "pages": pages_count,
                     "full_text": raw_text
-                }, indent=2), encoding="utf-8")
+                }, indent=2), encoding="utf-8", newline="\n")
                 break
             except Exception as e:
                 err_str = str(e).lower()
@@ -570,12 +570,12 @@ tags:
 
 """
     full_markdown = f"{frontmatter}{clean_text}\n"
-    target_md_path.write_text(full_markdown, encoding="utf-8")
+    target_md_path.write_text(full_markdown, encoding="utf-8", newline="\n")
 
     # Also synchronize to corpus/05-seabrokers/{year}/{stem}.md
     corpus_md_dir = REPO_ROOT / "corpus" / "05-seabrokers" / str(year)
     corpus_md_dir.mkdir(parents=True, exist_ok=True)
-    (corpus_md_dir / f"{stem}.md").write_text(full_markdown, encoding="utf-8")
+    (corpus_md_dir / f"{stem}.md").write_text(full_markdown, encoding="utf-8", newline="\n")
 
     # 6. Save structured table sidecar
     table_sidecar = {
@@ -587,7 +587,7 @@ tags:
         "tables_count": len(tables),
         "tables": tables
     }
-    target_tables_path.write_text(json.dumps(table_sidecar, indent=2), encoding="utf-8")
+    target_tables_path.write_text(json.dumps(table_sidecar, indent=2), encoding="utf-8", newline="\n")
 
     return {
         "stem": stem,
@@ -627,7 +627,7 @@ def update_offshore_summary_json():
                 tables_cand = list((MD_BASE_DIR / str(yr)).glob(f"{date_str}_*.tables.json"))
                 if tables_cand:
                     rep["tables_path"] = f"data/extracted/md/seabrokers/{yr}/{tables_cand[0].name}"
-        with open(summary_path, "w", encoding="utf-8") as f:
+        with open(summary_path, "w", encoding="utf-8", newline="\n") as f:
             json.dump(data, f, indent=2)
         logger.info(f"[+] Enriched {summary_path} with md_path and tables_path references.")
     except Exception as e:
@@ -724,7 +724,7 @@ def run_pipeline():
         sort_cols = [c for c in ["issue_date", "stem"] if c in df_cat.columns]
         if sort_cols:
             df_cat = df_cat.sort_values(by=sort_cols).reset_index(drop=True)
-        df_cat.to_csv(csv_cat, index=False)
+        df_cat.to_csv(csv_cat, index=False, lineterminator="\n")
         logger.info(f"[+] Saved master Seabrokers catalog metadata: {csv_cat} ({len(df_cat)} rows)")
     else:
         logger.info(f"[=] No new Seabrokers catalog rows; preserving existing {csv_cat.name}.")

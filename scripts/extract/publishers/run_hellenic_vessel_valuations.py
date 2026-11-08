@@ -480,12 +480,12 @@ def process_all() -> Dict[str, Any]:
         # 1. Write <stem>.tables.json
         tab_json_path = year_dir / f"{stem}.tables.json"
         _refuse_legacy_vv_write(tab_json_path, md_path)
-        with open(tab_json_path, "w", encoding="utf-8") as f:
+        with open(tab_json_path, "w", encoding="utf-8", newline="\n") as f:
             json.dump(report, f, indent=2, ensure_ascii=False)
 
         # 2. Write <stem>.md
         md_content = build_markdown_document(report)
-        with open(md_path, "w", encoding="utf-8") as f:
+        with open(md_path, "w", encoding="utf-8", newline="\n") as f:
             f.write(md_content)
 
         report_summaries.append({
@@ -558,7 +558,7 @@ def process_all() -> Dict[str, Any]:
             "unique_issues": len(set(r["issue_date"] for r in report_summaries)),
             "reports": report_summaries,
         }
-        with open(STATE_FILE, "w", encoding="utf-8") as f:
+        with open(STATE_FILE, "w", encoding="utf-8", newline="\n") as f:
             json.dump(state, f, indent=2)
         return state
 

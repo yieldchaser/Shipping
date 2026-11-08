@@ -61,7 +61,7 @@ def build_cmd(extra=None):
 
 
 def spawn(cmd, flags):
-    log = open(LOG, 'a', encoding='utf-8', errors='replace')
+    log = open(LOG, 'a', encoding='utf-8', errors='replace', newline="\n")
     log.write('\n===== launch %s | pid(shell)=%s =====\n' %
               (time.strftime('%Y-%m-%dT%H:%M:%S'), os.getpid()))
     log.write('cmd: %s\n' % ' '.join(cmd))

@@ -143,7 +143,7 @@ def build(stem: str):
     md = "\n".join(parts)
 
     OUT.mkdir(parents=True, exist_ok=True)
-    (OUT / f"{stem}.md").write_text(md, encoding="utf-8")
+    (OUT / f"{stem}.md").write_text(md, encoding="utf-8", newline="\n")
     (OUT / f"{stem}.tables.json").write_text(json.dumps(
         {"note": "deal ledger already extracted separately to "
                  "data/extracted/banchero_deals.parquet (3120 rows); this file "
@@ -151,7 +151,7 @@ def build(stem: str):
          "source_dir": d.name, "text_rows": len(rows),
          "headings": heads, "prose_chars": prose_chars,
          "routes": sorted(x for x in routes if x)},
-        indent=2, ensure_ascii=False), encoding="utf-8")
+        indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
     return {"text_rows": len(rows), "headings": heads,
             "prose_chars": prose_chars, "routes": sorted(x for x in routes if x),
             "md_bytes": len(md)}
@@ -186,9 +186,9 @@ def main():
                   f"{str(e)[:60]}", flush=True)
         if n % 10 == 0:
             OUT.mkdir(parents=True, exist_ok=True)
-            STATE.write_text(json.dumps(st, indent=2), encoding="utf-8")
+            STATE.write_text(json.dumps(st, indent=2), encoding="utf-8", newline="\n")
     OUT.mkdir(parents=True, exist_ok=True)
-    STATE.write_text(json.dumps(st, indent=2), encoding="utf-8")
+    STATE.write_text(json.dumps(st, indent=2), encoding="utf-8", newline="\n")
     print(f"\n[{PUB}] COMPLETE ok={len(st['done'])}/{len(stems)} "
           f"failed={len(st['failed'])} elapsed={time.time()-t0:.0f}s")
     print(f"route tally: {dict(routes_all)}")

@@ -39,7 +39,7 @@ def execute_stash():
             "The authoritative cover-to-cover iron ore markdown extractions (6-page MMi and 1-page SMM Daily) "
             "are located at:\n"
             "**`data/extracted/md/hellenic/iron_ore_pdf/`**\n",
-            encoding="utf-8"
+            encoding="utf-8", newline="\n"
         )
 
     # 2. Poten Legacy Scraped Markdown (Corpus)
@@ -71,7 +71,7 @@ def execute_stash():
             "## Active Authoritative Paths\n"
             "- **Authoritative Corpus PDFs:** `corpus/04-poten/pdfs/` (1,087 PDFs, 2004-2026)\n"
             "- **Authoritative Extracted Markdown:** `data/extracted/md/poten/` (1,087 Markdown files)\n",
-            encoding="utf-8"
+            encoding="utf-8", newline="\n"
         )
 
     # 3. Loose unpartitioned root duplicates across brokers
@@ -138,7 +138,7 @@ def execute_stash():
 - **Why Stashed:** Early extractor runs placed markdown and sidecar files directly into `data/extracted/md/<broker>/`. Subsequent improvements partitioned the corpus into `<year>/` subdirectories (`2021/` to `2026/`). The loose files in the root folder were 100% duplicate copies of the year-partitioned files, creating clutter and risking stale file references.
 - **Active Authoritative Paths:** [`data/extracted/md/<broker>/<year>/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md)
 """
-    master_readme.write_text(readme_content, encoding="utf-8")
+    master_readme.write_text(readme_content, encoding="utf-8", newline="\n")
     print("Stashing execution completed successfully.")
     print("Summary of stashed assets:")
     for k, v in stats.items():

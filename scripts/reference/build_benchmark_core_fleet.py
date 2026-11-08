@@ -193,7 +193,7 @@ def build_benchmark_fleet() -> Dict[str, Any]:
     assert len(set(all_imos)) == 800, f"Found duplicate IMOs: {len(all_imos) - len(set(all_imos))}"
 
     out_file = REF_DIR / "benchmark_core_fleet.json"
-    with open(out_file, "w", encoding="utf-8") as f:
+    with open(out_file, "w", encoding="utf-8", newline="\n") as f:
         json.dump(fleet_catalog, f, indent=2)
 
     logging.info("Saved %s with exactly 800 benchmark vessels (%d KB)", out_file.name, out_file.stat().st_size // 1024)

@@ -627,7 +627,7 @@ def run_gibson_pipeline():
             
             stem = pdf_path.stem
             md_path = out_year_dir / f"{stem}.md"
-            with open(md_path, 'w', encoding='utf-8') as f:
+            with open(md_path, 'w', encoding='utf-8', newline="\n") as f:
                 f.write(md_content)
                 
             # 6. Save Table Sidecar JSON
@@ -640,7 +640,7 @@ def run_gibson_pipeline():
                 'bunker_prices': bunker_rows
             }
             json_path = out_year_dir / f"{stem}.tables.json"
-            with open(json_path, 'w', encoding='utf-8') as f:
+            with open(json_path, 'w', encoding='utf-8', newline="\n") as f:
                 json.dump(tables_sidecar, f, indent=2)
                 
             doc.close()
@@ -660,14 +660,14 @@ def run_gibson_pipeline():
         df_spot = pd.DataFrame(all_spot_rows)
         df_spot = df_spot.drop_duplicates(subset=['issue_date', 'category', 'market_type', 'route_code'])
         df_spot = df_spot.sort_values(by=['issue_date', 'category', 'market_type', 'route_code'])
-        df_spot.to_csv(SPOT_CSV_PATH, index=False, encoding='utf-8')
+        df_spot.to_csv(SPOT_CSV_PATH, index=False, encoding='utf-8', lineterminator="\n")
         print(f"Saved: {SPOT_CSV_PATH} ({len(df_spot)} rows)")
         
     if all_bunker_rows:
         df_bunker = pd.DataFrame(all_bunker_rows)
         df_bunker = df_bunker.drop_duplicates(subset=['issue_date', 'port', 'grade'])
         df_bunker = df_bunker.sort_values(by=['issue_date', 'port', 'grade'])
-        df_bunker.to_csv(BUNKER_CSV_PATH, index=False, encoding='utf-8')
+        df_bunker.to_csv(BUNKER_CSV_PATH, index=False, encoding='utf-8', lineterminator="\n")
         print(f"Saved: {BUNKER_CSV_PATH} ({len(df_bunker)} rows)")
         
     # 8. Create Master Multi-Tab Excel Workbook
@@ -745,7 +745,7 @@ def extract_gibson_single_pdf(pdf_path: Path, dry_run: bool = False):
             table_page=table_pno,
             rel_path=rel_path
         )
-        with open(md_path, 'w', encoding='utf-8') as f:
+        with open(md_path, 'w', encoding='utf-8', newline="\n") as f:
             f.write(md_content)
             
         tables_sidecar = {
@@ -756,7 +756,7 @@ def extract_gibson_single_pdf(pdf_path: Path, dry_run: bool = False):
             'spot_rates': spot_rows,
             'bunker_prices': bunker_rows
         }
-        with open(json_path, 'w', encoding='utf-8') as f:
+        with open(json_path, 'w', encoding='utf-8', newline="\n") as f:
             json.dump(tables_sidecar, f, indent=2)
             
         # Append to CSVs
@@ -766,7 +766,7 @@ def extract_gibson_single_pdf(pdf_path: Path, dry_run: bool = False):
             df_combined = pd.concat([df_existing, df_new], ignore_index=True)
             df_combined = df_combined.drop_duplicates(subset=['issue_date', 'category', 'market_type', 'route_code'])
             df_combined = df_combined.sort_values(by=['issue_date', 'category', 'market_type', 'route_code'])
-            df_combined.to_csv(SPOT_CSV_PATH, index=False, encoding='utf-8')
+            df_combined.to_csv(SPOT_CSV_PATH, index=False, encoding='utf-8', lineterminator="\n")
             
         if bunker_rows and BUNKER_CSV_PATH.exists():
             df_existing = pd.read_csv(BUNKER_CSV_PATH)
@@ -774,7 +774,7 @@ def extract_gibson_single_pdf(pdf_path: Path, dry_run: bool = False):
             df_combined = pd.concat([df_existing, df_new], ignore_index=True)
             df_combined = df_combined.drop_duplicates(subset=['issue_date', 'port', 'grade'])
             df_combined = df_combined.sort_values(by=['issue_date', 'port', 'grade'])
-            df_combined.to_csv(BUNKER_CSV_PATH, index=False, encoding='utf-8')
+            df_combined.to_csv(BUNKER_CSV_PATH, index=False, encoding='utf-8', lineterminator="\n")
             
     return {
         "stem": stem,

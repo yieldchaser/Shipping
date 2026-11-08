@@ -58,7 +58,7 @@ def load_run_state() -> Dict[str, Any]:
 
 
 def save_run_state(state: Dict[str, Any]):
-    STATE_FILE.write_text(json.dumps(state, indent=2), encoding="utf-8")
+    STATE_FILE.write_text(json.dumps(state, indent=2), encoding="utf-8", newline="\n")
 
 
 def format_number_commas(val_str: str) -> str:
@@ -483,7 +483,7 @@ def write_series_rows(csv_path: Path, headers: list, new_rows: list, key_fields:
             added += 1
 
     with open(csv_path, "w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=headers)
+        writer = csv.DictWriter(f, fieldnames=headers, lineterminator="\n")
         writer.writeheader()
         writer.writerows(existing_rows)
 
@@ -652,7 +652,7 @@ def process_report(pdf_path: Path, force: bool = False) -> bool:
         print(f"[{stem}] Calling LlamaParse cost_effective tier ({meta['pages']} pages)...")
         try:
             raw_text = parse_with_llamaparse(pdf_path)
-            raw_md_file.write_text(raw_text, encoding="utf-8")
+            raw_md_file.write_text(raw_text, encoding="utf-8", newline="\n")
         except Exception as e:
             print(f"[{stem}] LlamaParse ERROR: {e}")
             return False
@@ -662,7 +662,7 @@ def process_report(pdf_path: Path, force: bool = False) -> bool:
     # Step 2: Polish to Publication Grade
     try:
         polished_md = polish_star_asia_document(raw_text, meta)
-        out_md_file.write_text(polished_md, encoding="utf-8")
+        out_md_file.write_text(polished_md, encoding="utf-8", newline="\n")
 
         # Step 3: Structured Tables JSON Sidecar
         table_blocks = re.findall(r"(\|[^\n]+\|\n\|[-:\s|]+\|\n(?:\|[^\n]+\|\n?)+)", polished_md)
@@ -676,7 +676,7 @@ def process_report(pdf_path: Path, force: bool = False) -> bool:
                 tdict["table_id"] = f"table_{idx+1:02d}"
                 tables_sidecar["tables"].append(tdict)
 
-        out_json_file.write_text(json.dumps(tables_sidecar, indent=2, ensure_ascii=False), encoding="utf-8")
+        out_json_file.write_text(json.dumps(tables_sidecar, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
         # Step 4: Update Stacked Time Series
         try:

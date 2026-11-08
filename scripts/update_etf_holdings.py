@@ -671,7 +671,7 @@ def run_update_pipeline(
         try:
             daily_metrics = fetch_official_firestore_daily_metrics(eval_date_limit=as_of_date)
             if daily_metrics:
-                with open(os.path.join(staging_dir, 'amplify_daily_metrics.json'), 'w', encoding='utf-8') as f:
+                with open(os.path.join(staging_dir, 'amplify_daily_metrics.json'), 'w', encoding='utf-8', newline="\n") as f:
                     json.dump(daily_metrics, f, indent=2)
                 print(f"[OK] Staged authoritative Amplify daily metrics for {list(daily_metrics.keys())}")
         except Exception as e:

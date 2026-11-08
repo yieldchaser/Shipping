@@ -47,7 +47,7 @@ def load_state() -> Dict[str, Any]:
 
 
 def save_state(state: Dict[str, Any]):
-    STATE_FILE.write_text(json.dumps(state, indent=2), encoding="utf-8")
+    STATE_FILE.write_text(json.dumps(state, indent=2), encoding="utf-8", newline="\n")
 
 
 def extract_meta(doc: pymupdf.Document, pdf_path: Path) -> Tuple[int, str]:
@@ -182,7 +182,7 @@ def run_all(limit: int = 0):
                 docs = parser.load_data(str(pdf_path))
                 if docs:
                     md_text = docs[0].text
-                    out_md.write_text(md_text, encoding="utf-8")
+                    out_md.write_text(md_text, encoding="utf-8", newline="\n")
                     state["done"][stem] = {
                         "page": target_pno + 1,
                         "bytes": len(md_text),
@@ -212,7 +212,7 @@ def run_all(limit: int = 0):
     if all_series_rows:
         fields = ["issue_date", "report_week", "location", "year", "ldt_tonnage", "source_file"]
         with open(SERIES_CSV, "w", newline="", encoding="utf-8") as fp:
-            writer = csv.DictWriter(fp, fieldnames=fields)
+            writer = csv.DictWriter(fp, fieldnames=fields, lineterminator="\n")
             writer.writeheader()
             writer.writerows(all_series_rows)
         print(f"Exported {len(all_series_rows)} rows to {SERIES_CSV.name}")

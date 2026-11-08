@@ -525,19 +525,19 @@ def render(pdf, conv, conv_info, pages):
 
 def emit(pdf, md, conv, conv_info, pages, unexplained, n_values):
     OUT.mkdir(parents=True, exist_ok=True)
-    (OUT / (pdf.stem + ".md")).write_text(md, encoding="utf-8")
+    (OUT / (pdf.stem + ".md")).write_text(md, encoding="utf-8", newline="\n")
     tables = {"source": pdf.relative_to(ROOT).as_posix(), "convention": conv,
               "convention_info": conv_info, "pages": len(pages),
               "typed_confidence": "best-effort typed cells; .md is the primary artefact",
               "sections": {str(p["pno"]): p["sections"] for p in pages}}
     (OUT / (pdf.stem + ".tables.json")).write_text(
-        json.dumps(tables, indent=1, ensure_ascii=False), encoding="utf-8")
+        json.dumps(tables, indent=1, ensure_ascii=False), encoding="utf-8", newline="\n")
     charts = {"charts": [],
               "reason": "no chart layer: every drawing on every page is a zero-width "
                         "fill (table row shading) plus one stroked rule per page; "
                         "images are the logo only (measured, docs/agora_survey.md)"}
     (OUT / (pdf.stem + ".charts.json")).write_text(
-        json.dumps(charts, indent=1), encoding="utf-8")
+        json.dumps(charts, indent=1), encoding="utf-8", newline="\n")
     nrows = sum(len(s["rows"]) for p in pages for s in p["sections"].values())
     return {"sections": sum(len(p["sections"]) for p in pages), "rows": nrows,
             "value_words": n_values, "unexplained": len(unexplained),
@@ -583,9 +583,9 @@ def main():
             traceback.print_exc(limit=2)
         if n % 10 == 0:
             OUT.mkdir(parents=True, exist_ok=True)
-            STATE.write_text(json.dumps(st, indent=2), encoding="utf-8")
+            STATE.write_text(json.dumps(st, indent=2), encoding="utf-8", newline="\n")
     OUT.mkdir(parents=True, exist_ok=True)
-    STATE.write_text(json.dumps(st, indent=2), encoding="utf-8")
+    STATE.write_text(json.dumps(st, indent=2), encoding="utf-8", newline="\n")
     print(f"\n[{PUB}] COMPLETE ok={len(st['done'])}/{len(pdfs)} "
           f"failed={len(st['failed'])} elapsed={time.time()-t0:.0f}s", flush=True)
     if st["failed"]:

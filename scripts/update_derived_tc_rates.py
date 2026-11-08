@@ -147,7 +147,7 @@ def main():
     updated_df = updated_df[original_cols]
 
     # Write back to CSV
-    updated_df.to_csv(TC_CSV, index=False)
+    updated_df.to_csv(TC_CSV, index=False, lineterminator="\n")
     print(f"Successfully updated {TC_CSV}:")
     print(f"  Total rows: {len(updated_df)} (original: {original_len})")
     print(f"  Updated existing dates: {updated_dates}")

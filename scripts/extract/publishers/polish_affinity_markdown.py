@@ -578,7 +578,7 @@ def run_polish():
             md_doc.append("")
 
         # Overwrite with clean Markdown
-        md_path.write_text("\n".join(md_doc), encoding="utf-8")
+        md_path.write_text("\n".join(md_doc), encoding="utf-8", newline="\n")
         processed += 1
 
     print(f"Successfully polished {processed} Markdown files with clean two-column commentary.")
@@ -594,7 +594,7 @@ def run_polish():
     ]
     tce_csv_path = OUT_SERIES / "affinity_tce_series.csv"
     with open(tce_csv_path, "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=tce_headers)
+        w = csv.DictWriter(f, fieldnames=tce_headers, lineterminator="\n")
         w.writeheader()
         w.writerows(tce_series)
     print(f"Saved {len(tce_series)} rows to {tce_csv_path}")
@@ -606,7 +606,7 @@ def run_polish():
     ]
     bda_csv_path = OUT_SERIES / "affinity_bda_series.csv"
     with open(bda_csv_path, "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=bda_headers)
+        w = csv.DictWriter(f, fieldnames=bda_headers, lineterminator="\n")
         w.writeheader()
         w.writerows(bda_series)
     print(f"Saved {len(bda_series)} rows to {bda_csv_path}")
@@ -618,7 +618,7 @@ def run_polish():
     ]
     indices_csv_path = OUT_SERIES / "affinity_indices_series.csv"
     with open(indices_csv_path, "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=indices_headers)
+        w = csv.DictWriter(f, fieldnames=indices_headers, lineterminator="\n")
         w.writeheader()
         w.writerows(indices_series)
     print(f"Saved {len(indices_series)} rows to {indices_csv_path}")

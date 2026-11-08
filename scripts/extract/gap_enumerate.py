@@ -158,7 +158,7 @@ def main() -> int:
                "feed_count": len(feeds), "feed_rows": sum(f["rows"] for f in feeds),
                "aux_count": len(aux), "aux_rows": sum(a["rows"] for a in aux),
                "feeds": feeds, "aux": aux},
-              open("scratch/gap_feeds.json", "w", encoding="utf-8"), indent=1)
+              open("scratch/gap_feeds.json", "w", encoding="utf-8", newline="\n"), indent=1)
     print("wrote scratch/gap_feeds.json")
     return 0
 

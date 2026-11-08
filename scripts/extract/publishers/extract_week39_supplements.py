@@ -59,7 +59,7 @@ def upsert_rows_to_csv(
             current_cols.append(fn)
 
     with open(csv_path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=current_cols, extrasaction="ignore")
+        writer = csv.DictWriter(f, fieldnames=current_cols, extrasaction="ignore", lineterminator="\n")
         writer.writeheader()
         for r in existing_rows:
             writer.writerow(r)
@@ -198,7 +198,7 @@ def extract_intermodal_doc(pdf_path: Path) -> Dict[str, Any]:
             "indicative_demolition": demo_prices
         }
     }
-    (dest_dir / f"{stem}.tables.json").write_text(json.dumps(sidecar_data, indent=2), encoding="utf-8")
+    (dest_dir / f"{stem}.tables.json").write_text(json.dumps(sidecar_data, indent=2), encoding="utf-8", newline="\n")
 
     # Generate Markdown
     md_lines = [
@@ -239,7 +239,7 @@ def extract_intermodal_doc(pdf_path: Path) -> Dict[str, Any]:
     for dp in demo_prices:
         md_lines.append(f"| {dp['country']} | {dp['segment']} | ${dp['price_usd_per_ldt']} |")
 
-    (dest_dir / f"{stem}.md").write_text("\n".join(md_lines), encoding="utf-8")
+    (dest_dir / f"{stem}.md").write_text("\n".join(md_lines), encoding="utf-8", newline="\n")
 
     # Upsert series
     sales_cols = ["issue_date", "report_week", "section", "vessel_name", "vessel_type", "dwt", "year_built", "yard", "m_e", "ss_due", "gear_hull", "price_raw", "price_usd_m", "buyers", "comments", "source_file"]
@@ -353,7 +353,7 @@ def extract_bancosta_doc(pdf_path: Path) -> Dict[str, Any]:
             "demolition_assessments": demo_assessments
         }
     }
-    (dest_dir / f"{stem}.tables.json").write_text(json.dumps(sidecar_data, indent=2), encoding="utf-8")
+    (dest_dir / f"{stem}.tables.json").write_text(json.dumps(sidecar_data, indent=2), encoding="utf-8", newline="\n")
 
     # Generate Markdown
     md_lines = [
@@ -386,7 +386,7 @@ def extract_bancosta_doc(pdf_path: Path) -> Dict[str, Any]:
     for da in demo_assessments:
         md_lines.append(f"| {da['segment']} | {da['country']} | ${da['price_usd_per_ldt']} |")
 
-    (dest_dir / f"{stem}.md").write_text("\n".join(md_lines), encoding="utf-8")
+    (dest_dir / f"{stem}.md").write_text("\n".join(md_lines), encoding="utf-8", newline="\n")
 
     # Upsert series
     deal_cols = ["issue_date", "report_week", "vessel_type", "vessel", "imo", "dwt", "built", "yard", "buyer", "seller", "price_usd_m", "ss_due", "dd_due", "delivery", "comments", "source_file"]
@@ -462,7 +462,7 @@ def extract_clarksons_doc(pdf_path: Path) -> Dict[str, Any]:
             "tanker_sales": rows
         }
     }
-    (dest_dir / f"{stem}.tables.json").write_text(json.dumps(sidecar_data, indent=2), encoding="utf-8")
+    (dest_dir / f"{stem}.tables.json").write_text(json.dumps(sidecar_data, indent=2), encoding="utf-8", newline="\n")
 
     md_lines = [
         "---",
@@ -482,7 +482,7 @@ def extract_clarksons_doc(pdf_path: Path) -> Dict[str, Any]:
         "| SPEEDWAY | Tanker | 158,594 | 2017 | HYUNDAI SAMHO | SS 01/27 DD 01/27 | USD 99 M | U/D | B. & W. 6G70ME-C9.2 |",
         "| EUROINTEGRITY | Tanker | 105,291 | 2009 | HHI | SS 02/29 DD 03/27 | USD 60 M | U/D | B. & W. 6S60MC-C7.2 |"
     ]
-    (dest_dir / f"{stem}.md").write_text("\n".join(md_lines), encoding="utf-8")
+    (dest_dir / f"{stem}.md").write_text("\n".join(md_lines), encoding="utf-8", newline="\n")
 
     cols = ["issue", "section", "page", "NAME", "TYPE", "DWT", "BUILT", "YARD", "PRICE", "BUYERS", "SS_DD", "COMMENTS", "extra_json"]
     added_clarksons = upsert_rows_to_csv(SERIES_DIR / "clarksons_sales_series.csv", rows, cols, ["issue", "NAME", "DWT"])

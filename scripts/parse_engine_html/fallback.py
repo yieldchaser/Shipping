@@ -127,7 +127,7 @@ def build(tables_dir: Path, current_csv: Path, staged_csv: Path, out_csv: Path, 
     report = {"threshold": threshold, "accuracy_by_year": acc, "years_meeting_threshold": sorted(good_years),
               "failed_staged_issues": len(failed), "kept_from_current": kept, "dropped": dropped,
               "merged_rows": len(merged)}
-    report_json.write_text(json.dumps(report, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    report_json.write_text(json.dumps(report, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
     return report
 
 

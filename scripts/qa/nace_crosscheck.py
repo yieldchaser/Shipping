@@ -317,7 +317,7 @@ def main() -> int:
                         print(f"  ERROR {rel}: {e}", flush=True)
                         cells = None
                     if cells is not None:
-                        cf.write_text(json.dumps(cells, ensure_ascii=False), encoding="utf-8")
+                        cf.write_text(json.dumps(cells, ensure_ascii=False), encoding="utf-8", newline="\n")
                 for c in classify(cells or [], md, printed_numbers(src, p)):
                     got.append({**c, "page": p})
             n = len(got)
@@ -338,12 +338,12 @@ def main() -> int:
     fields = ["source", "md", "src", "pages", "cells", "ok", "ok_partial", "misplaced", "in_prose", "missing", "unprinted",
               "ok_rate", "note"]
     with open(OUT / "crosscheck_summary.csv", "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=fields)
+        w = csv.DictWriter(f, fieldnames=fields, lineterminator="\n")
         w.writeheader()
         w.writerows(rows)
     with open(OUT / "crosscheck_defects.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=["md", "page", "status", "table_title", "row_label", "column", "value", "num"],
-                           extrasaction="ignore")
+                           extrasaction="ignore", lineterminator="\n")
         w.writeheader()
         w.writerows(details)
     print(f"credits used this run: {nace.credits if nace else 0} -> {OUT / 'crosscheck_summary.csv'}")

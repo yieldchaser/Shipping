@@ -218,7 +218,7 @@ Full audit results are documented in [`docs/BROKER_STRICT_AUDIT_REPORT.md`](file
 - **Overall Status:** Drewry AIS (291 reports) is now read from the PDF text layer and vector paths, with no LlamaParse. Poten multi-page charterer/fixture archive successfully parsed with unbroken 2004–2026 coverage. Fresh credit buffer of **~48,958 credits** available across 5 active accounts (Accounts 5, 6, 7, 8, and 9) in the automated failover rotation pool (`scripts/extract/llama_manager.py`).
 """
 
-    with open('docs/EXTRACTION_REGISTER.md', 'w', encoding='utf-8') as f:
+    with open('docs/EXTRACTION_REGISTER.md', 'w', encoding='utf-8', newline="\n") as f:
         f.write(content.strip() + '\n')
     print('Successfully generated docs/EXTRACTION_REGISTER.md!')
 

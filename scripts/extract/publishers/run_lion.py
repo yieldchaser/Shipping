@@ -41,7 +41,7 @@ DEM_JSONL = os.path.join(SCR, 'demometer.jsonl')
 DEAL_JSONL = os.path.join(SCR, 'deals.jsonl')
 LOG = os.path.join(SCR, 'parse_log.txt')
 
-logf = open(LOG, 'w', encoding='utf-8')
+logf = open(LOG, 'w', encoding='utf-8', newline="\n")
 
 
 def log(*a):
@@ -772,7 +772,7 @@ def write_md(dem_rows, deal_rows):
         L += ['## Narratives', '']
         for r in deal_by.get(stem, []):
             L.append('- **%s** %s' % (r.get('vessel'), (r.get('tail_raw') or '').strip()))
-        with open(os.path.join(outdir, stem + '.md'), 'w', encoding='utf-8') as fh:
+        with open(os.path.join(outdir, stem + '.md'), 'w', encoding='utf-8', newline="\n") as fh:
             fh.write(chr(10).join(L) + chr(10))
         written += 1
     log('markdown: %d issue file(s) -> data/extracted/md/lion/' % written)
@@ -903,7 +903,7 @@ def build_outputs():
             'parse_log': 'scratch/lion/parse_log.txt',
         },
     }
-    with open(os.path.join(OUT, 'lion_summary.json'), 'w', encoding='utf-8') as fh:
+    with open(os.path.join(OUT, 'lion_summary.json'), 'w', encoding='utf-8', newline="\n") as fh:
         json.dump(summary, fh, indent=2, default=str)
 
     print('demometer rows', len(ddf), '| deals rows', len(xdf))
@@ -940,7 +940,7 @@ def build_txt(rebuild=False):
         raw = (chr(10) + '<<<PAGEBREAK>>>' + chr(10)).join(
             pg.get_text(sort=True) for pg in doc)
         doc.close()
-        with open(out, 'w', encoding='utf-8') as fh:
+        with open(out, 'w', encoding='utf-8', newline="\n") as fh:
             fh.write(chr(10).join(normalize_lines(raw)) + chr(10))
         made += 1
     log('text cache: %d written, %d total' % (made, len(glob.glob(os.path.join(TXT, '*.txt')))))
@@ -968,8 +968,8 @@ def main():
         _uniq_txt.append(_f)
     files = _uniq_txt
     log('issues found:', len(files))
-    open(DEM_JSONL, 'w', encoding='utf-8').close()
-    open(DEAL_JSONL, 'w', encoding='utf-8').close()
+    open(DEM_JSONL, 'w', encoding='utf-8', newline="\n").close()
+    open(DEAL_JSONL, 'w', encoding='utf-8', newline="\n").close()
     ok, failed = [], []
     for f in files:
         dem, rows, err = parse_issue(f)
@@ -977,10 +977,10 @@ def main():
             failed.append((os.path.basename(f), err))
             log('ISSUE SKIPPED:', os.path.basename(f), '|', err)
             continue
-        with open(DEM_JSONL, 'a', encoding='utf-8') as fh:
+        with open(DEM_JSONL, 'a', encoding='utf-8', newline="\n") as fh:
             for r in dem:
                 fh.write(json.dumps(r) + '\n')
-        with open(DEAL_JSONL, 'a', encoding='utf-8') as fh:
+        with open(DEAL_JSONL, 'a', encoding='utf-8', newline="\n") as fh:
             for r in rows:
                 fh.write(json.dumps(r) + '\n')
         ok.append((os.path.basename(f), len(dem), len(rows)))

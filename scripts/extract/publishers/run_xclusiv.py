@@ -169,13 +169,13 @@ def process(pdf: Path):
 
     OUT.mkdir(parents=True, exist_ok=True)
     stem = pdf.stem
-    (OUT / f"{stem}.md").write_text("\n".join(md), encoding="utf-8")
+    (OUT / f"{stem}.md").write_text("\n".join(md), encoding="utf-8", newline="\n")
     (OUT / f"{stem}.tables.json").write_text(json.dumps(
         {"convention": "iso", "n_rates": len(rates), "n_labelled": len(labelled),
          "typed_confidence": "best-effort: see docs/xclusiv_survey.md",
-         "rates": rates}, indent=2, ensure_ascii=False), encoding="utf-8")
+         "rates": rates}, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
     (OUT / f"{stem}.charts.json").write_text(
-        json.dumps(gfx, indent=2, ensure_ascii=False), encoding="utf-8")
+        json.dumps(gfx, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
     return {"pages": npages, "rates": len(rates), "labelled": len(labelled),
             "md_bytes": len("\n".join(md))}
 
@@ -205,9 +205,9 @@ def main():
             traceback.print_exc(limit=2)
         if n % 10 == 0:
             OUT.mkdir(parents=True, exist_ok=True)
-            STATE.write_text(json.dumps(st, indent=2), encoding="utf-8")
+            STATE.write_text(json.dumps(st, indent=2), encoding="utf-8", newline="\n")
     OUT.mkdir(parents=True, exist_ok=True)
-    STATE.write_text(json.dumps(st, indent=2), encoding="utf-8")
+    STATE.write_text(json.dumps(st, indent=2), encoding="utf-8", newline="\n")
     print(f"\n[{PUB}] COMPLETE ok={len(st['done'])}/{len(pdfs)} "
           f"failed={len(st['failed'])} elapsed={time.time()-t0:.0f}s", flush=True)
     if st["failed"]:

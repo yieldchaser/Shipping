@@ -788,9 +788,9 @@ def run_all() -> Dict[str, Any]:
     gen_md_file = DIR_MD_GEN / f"{gen_stem}.md"
     gen_json_file = DIR_MD_GEN / f"{gen_stem}.tables.json"
 
-    with open(gen_md_file, "w", encoding="utf-8") as f:
+    with open(gen_md_file, "w", encoding="utf-8", newline="\n") as f:
         f.write(carriers_md)
-    with open(gen_json_file, "w", encoding="utf-8") as f:
+    with open(gen_json_file, "w", encoding="utf-8", newline="\n") as f:
         json.dump(carriers_records, f, indent=2, ensure_ascii=False)
     print(f"  -> Written Markdown: {gen_md_file}")
     print(f"  -> Written Sidecar JSON: {gen_json_file} ({len(carriers_records)} stamped records)")
@@ -799,7 +799,7 @@ def run_all() -> Dict[str, Any]:
     # series already holds this week as carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.md (same PDF).
     carriers_tables_dir = ROOT / "data" / "extracted" / "carriers" / "tables"
     carriers_tables_dir.mkdir(parents=True, exist_ok=True)
-    with open(carriers_tables_dir / f"{gen_stem}.json", "w", encoding="utf-8") as f:
+    with open(carriers_tables_dir / f"{gen_stem}.json", "w", encoding="utf-8", newline="\n") as f:
         json.dump(carriers_tab_obj, f, indent=2, ensure_ascii=False)
     print("  -> Mirrored to data/extracted/md/carriers/ and data/extracted/carriers/tables/")
 
@@ -813,9 +813,9 @@ def run_all() -> Dict[str, Any]:
     ban_md_file = DIR_MD_BAN / f"{ban_stem}.md"
     ban_json_file = DIR_MD_BAN / f"{ban_stem}.tables.json"
 
-    with open(ban_md_file, "w", encoding="utf-8") as f:
+    with open(ban_md_file, "w", encoding="utf-8", newline="\n") as f:
         f.write(bancosta_md)
-    with open(ban_json_file, "w", encoding="utf-8") as f:
+    with open(ban_json_file, "w", encoding="utf-8", newline="\n") as f:
         json.dump(bancosta_records, f, indent=2, ensure_ascii=False)
     print(f"  -> Written Markdown: {ban_md_file}")
     print(f"  -> Written Sidecar JSON: {ban_json_file} ({len(bancosta_records)} stamped records)")
@@ -882,7 +882,7 @@ def run_all() -> Dict[str, Any]:
 
     carriers_fieldnames = ["issue", "section", "page", "NAME", "TYPE", "DWT", "BUILT", "YARD", "PRICE", "BUYERS", "COMMENTS", "extra_json"]
     with open(CARRIERS_SERIES_DEST, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=carriers_fieldnames)
+        writer = csv.DictWriter(f, fieldnames=carriers_fieldnames, lineterminator="\n")
         writer.writeheader()
         writer.writerows(existing_carriers_rows)
 
@@ -910,7 +910,7 @@ def run_all() -> Dict[str, Any]:
             mask = (df_ind["token"] == row["token"]) & (df_ind["date"] == row["date"])
             if not mask.any():
                 df_ind = pd.concat([df_ind, pd.DataFrame([row])], ignore_index=True)
-        df_ind.to_csv(CARRIERS_INDICES_CSV, index=False)
+        df_ind.to_csv(CARRIERS_INDICES_CSV, index=False, lineterminator="\n")
         print(f"Updated {CARRIERS_INDICES_CSV.name} with 2026-09-21 index rows.")
 
     # -------------------------------------------------------------------------
@@ -947,7 +947,7 @@ def run_all() -> Dict[str, Any]:
             bancosta_sales_rows.append(csv_row)
 
     with open(BANCOSTA_SERIES_DEST, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=ban_fieldnames)
+        writer = csv.DictWriter(f, fieldnames=ban_fieldnames, lineterminator="\n")
         writer.writeheader()
         writer.writerows(bancosta_sales_rows)
     print(f"Written {len(bancosta_sales_rows)} rows to {BANCOSTA_SERIES_DEST}")

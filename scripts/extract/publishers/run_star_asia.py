@@ -81,7 +81,7 @@ def load_state():
 
 def save_state(st):
     OUT.mkdir(parents=True, exist_ok=True)
-    STATE.write_text(json.dumps(st, indent=2), encoding="utf-8")
+    STATE.write_text(json.dumps(st, indent=2), encoding="utf-8", newline="\n")
 
 
 def tables_from_pdfinspector(pdf: Path):
@@ -1578,18 +1578,18 @@ def process(pdf: Path):
             tables = merge_missing_labels(tables, pdf)
             tables = drop_prose_rows(tables)
         sidecar.write_text(
-            json.dumps(tables, indent=2, ensure_ascii=False), encoding="utf-8")
+            json.dumps(tables, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
     md = build_md(pdf)
     charts = chart_pages(pdf)
     with pymupdf.open(pdf) as d:
         npages = d.page_count
 
-    (target_dir / f"{stem}.md").write_text(md, encoding="utf-8")
+    (target_dir / f"{stem}.md").write_text(md, encoding="utf-8", newline="\n")
     chart_file = target_dir / f"{stem}.charts.json"
     if not chart_file.exists():
         chart_file.write_text(
-            json.dumps(charts, indent=2, ensure_ascii=False), encoding="utf-8")
+            json.dumps(charts, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
     # Remove any legacy flat duplicate in OUT root if target_dir is a year subdirectory
     if target_dir != OUT:

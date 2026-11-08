@@ -85,7 +85,7 @@ def main():
         print(f"{res['status']:8s} {res.get('secs', 0):6.1f}s "
               f"{os.path.basename(p)[:52]}", flush=True)
     print("\ntally:", dict(tally))
-    with open(a.out, "w", encoding="utf-8") as f:
+    with open(a.out, "w", encoding="utf-8", newline="\n") as f:
         json.dump({"tally": dict(tally), "probed": len(sample),
                    "results": results}, f, indent=1)
     return 0

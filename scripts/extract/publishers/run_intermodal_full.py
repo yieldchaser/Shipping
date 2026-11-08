@@ -167,7 +167,7 @@ def load_state() -> Dict[str, Any]:
 
 def save_state(state: Dict[str, Any]):
     OUT_FULL_DIR.mkdir(parents=True, exist_ok=True)
-    STATE_FILE.write_text(json.dumps(state, indent=2, ensure_ascii=False), encoding="utf-8")
+    STATE_FILE.write_text(json.dumps(state, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
 
 # ---------------------------------------------------------------------------
@@ -1205,7 +1205,7 @@ def process_single_pdf(
                 if not full_text.strip():
                     raise RuntimeError(f"LlamaParse returned empty result for {pdf_path.name}")
                 OUT_FULL_DIR.mkdir(parents=True, exist_ok=True)
-                out_md.write_text(full_text, encoding="utf-8")
+                out_md.write_text(full_text, encoding="utf-8", newline="\n")
                 try:
                     manager.record_success(pages_count, used_key=curr_key)
                 except Exception:
@@ -1271,7 +1271,7 @@ def process_single_pdf(
             "demolition_sales": parsed["demo_sales"]
         }
     }
-    sidecar_path.write_text(json.dumps(sidecar_data, indent=2, ensure_ascii=False), encoding="utf-8")
+    sidecar_path.write_text(json.dumps(sidecar_data, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
     # Update cover-to-cover md in data/extracted/md/intermodal/<year>/<stem>.md
     if not full_text.startswith("---"):
@@ -1333,7 +1333,7 @@ def process_single_pdf(
     full_text, _ = intermodal_chart_note.process(full_text)
 
     dest_md = dest_dir / f"{stem}.md"
-    dest_md.write_text(full_text, encoding="utf-8")
+    dest_md.write_text(full_text, encoding="utf-8", newline="\n")
 
     return {
         "stem": stem,
@@ -1446,7 +1446,7 @@ def write_series_csv(path: pathlib.Path, columns: List[str], rows: List[Dict[str
         deduped.append(r)
     sorted_rows = deduped
     with open(path, "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=columns, extrasaction="ignore")
+        w = csv.DictWriter(f, fieldnames=columns, extrasaction="ignore", lineterminator="\n")
         w.writeheader()
         w.writerows(sorted_rows)
 

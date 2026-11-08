@@ -100,7 +100,7 @@ def main() -> int:
 
     if a.json:
         json.dump({k: [list(x) for x in v[:400]] for k, v in buckets.items()},
-                  open("data/extracted/series_classification.json", "w"), indent=1)
+                  open("data/extracted/series_classification.json", "w", newline="\n"), indent=1)
         print("\nwrote data/extracted/series_classification.json")
         return 0
 

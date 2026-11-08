@@ -436,7 +436,7 @@ tables_count: 1
                     md_content += f"| {c} | ${s_dict.get('Tankers', '-')} | ${s_dict.get('Dry Bulk', '-')} | ${s_dict.get('Containers', '-')} |\n"
                 
                 md_content += f"\n## Market Commentary\n\n{narr}\n"
-                md_file.write_text(md_content, encoding="utf-8")
+                md_file.write_text(md_content, encoding="utf-8", newline="\n")
                 
                 # Sidecar JSON
                 sidecar = {
@@ -452,7 +452,7 @@ tables_count: 1
                         "rows": recs
                     }]
                 }
-                json_file.write_text(json.dumps(sidecar, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+                json_file.write_text(json.dumps(sidecar, indent=2, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
                 processed_count += 1
             except Exception as e:
                 logger.error(f"Error Athenian {pdf_path.name}: {e}")
@@ -500,7 +500,7 @@ tables_count: 2
                     md_content += f"| {d['vessel_name']} | {d['vessel_type']} | {d['ldt']} | {d['sale_terms']} | {d['delivery_location']} | {d['price_usd_per_ldt']} |\n"
                 
                 md_content += f"\n## Market Overview\n\n{narr}\n"
-                md_file.write_text(md_content, encoding="utf-8")
+                md_file.write_text(md_content, encoding="utf-8", newline="\n")
                 
                 sidecar = {
                     "title": title,
@@ -523,7 +523,7 @@ tables_count: 2
                         }
                     ]
                 }
-                json_file.write_text(json.dumps(sidecar, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+                json_file.write_text(json.dumps(sidecar, indent=2, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
                 processed_count += 1
             except Exception as e:
                 logger.error(f"Error Best Oasis {pdf_path.name}: {e}")
@@ -571,7 +571,7 @@ tables_count: 2
                     md_content += f"| {p['port']} | {p['vessel_name']} | {p['ldt']} | {p['vessel_type']} | {p['status']} |\n"
                 
                 md_content += f"\n## Editorial Commentary\n\n{narr}\n"
-                md_file.write_text(md_content, encoding="utf-8")
+                md_file.write_text(md_content, encoding="utf-8", newline="\n")
                 
                 sidecar = {
                     "title": title,
@@ -594,7 +594,7 @@ tables_count: 2
                         }
                     ]
                 }
-                json_file.write_text(json.dumps(sidecar, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+                json_file.write_text(json.dumps(sidecar, indent=2, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
                 processed_count += 1
             except Exception as e:
                 logger.error(f"Error GMS {pdf_path.name}: {e}")
@@ -611,7 +611,7 @@ tables_count: 2
             except Exception as e:
                 logger.warning(f"Could not merge existing {ath_csv.name}: {e}")
         df_ath = df_ath.sort_values("issue_date")
-        df_ath.to_csv(ath_csv, index=False)
+        df_ath.to_csv(ath_csv, index=False, lineterminator="\n")
         logger.info(f"Upserted Athenian records into {ath_csv.name} (total {len(df_ath)} rows)")
 
     # 2026-10-04: the four hellenic_ GMS / Best-Oasis series are OWNED by the native

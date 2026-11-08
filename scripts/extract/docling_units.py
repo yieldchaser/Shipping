@@ -77,7 +77,7 @@ def main() -> int:
     # it only wrote at the end, ~30 harvested unit annotations were lost with it.
     def flush():
         json.dump({"per_doc": per_doc, "units": list(harvested.values())},
-                  open(a.out, "w", encoding="utf-8"), indent=1)
+                  open(a.out, "w", encoding="utf-8", newline="\n"), indent=1)
 
     for i, p in enumerate(paths, 1):
         t1 = time.time()

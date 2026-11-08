@@ -503,9 +503,9 @@ def main():
             doc = parse_document(p)
             stem = os.path.basename(p)[:-4]
             open(os.path.join(OUT_MD, stem + '.md'), 'w',
-                 encoding='utf-8').write(to_markdown(doc))
+                 encoding='utf-8', newline="\n").write(to_markdown(doc))
             json.dump(doc, open(os.path.join(OUT_TAB, stem + '.json'), 'w',
-                                encoding='utf-8'), indent=1)
+                                encoding='utf-8', newline="\n"), indent=1)
             all_sales.extend(sale_records(doc))
             all_tables.extend(doc['all_tables'])
             state['done'].append(stem)
@@ -513,7 +513,7 @@ def main():
                 print(f'  {i}/{len(pdfs)}')
         except Exception as e:
             state['failed'][stem] = str(e)[:200]
-        json.dump(state, open(STATE, 'w'), indent=1)
+        json.dump(state, open(STATE, 'w', newline="\n"), indent=1)
     # aggregate time series
     if all_sales:
         # Rows whose PRICE is a word are NOT vessel sales (newbuilding contracts and
@@ -535,7 +535,7 @@ def main():
                     'YARD', 'PRICE', 'BUYERS', 'COMMENTS']
             with open(os.path.join(OUT_IDX, 'carriers_sales_series.csv'), 'w',
                       newline='', encoding='utf-8') as f:
-                w = csv.writer(f)
+                w = csv.writer(f, lineterminator="\n")
                 w.writerow(BASE + ['extra_json'])
                 for r in rows:
                     base = [r.get(k, '') or '' for k in BASE]

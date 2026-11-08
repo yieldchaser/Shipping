@@ -107,8 +107,8 @@ def main():
     else:
         print(f"Warning: Section 8.2 markers not found (start={t8_start}, end={t8_end})")
         
-    CORPUS_PATH.write_text(content, encoding="utf-8")
-    KNOWLEDGE_PATH.write_text(content, encoding="utf-8")
+    CORPUS_PATH.write_text(content, encoding="utf-8", newline="\n")
+    KNOWLEDGE_PATH.write_text(content, encoding="utf-8", newline="\n")
     print("Synchronized Book 8 files.")
 
 if __name__ == "__main__":

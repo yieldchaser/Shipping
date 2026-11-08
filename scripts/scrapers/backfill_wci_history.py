@@ -68,7 +68,7 @@ def load_cdx():
             print('CDX', y, 'failed:', exc)
         time.sleep(1)
     os.makedirs(os.path.dirname(CDX), exist_ok=True)
-    with io.open(CDX, 'w', encoding='utf-8') as fh:
+    with io.open(CDX, 'w', encoding='utf-8', newline="\n") as fh:
         fh.write(json.dumps(rows))
     return rows
 
@@ -180,7 +180,7 @@ def fetch_html(ts, orig, sleep_s=1.0, attempts=4):
         try:
             r = requests.get(url, headers=HDR, timeout=90)
             if r.status_code == 200 and len(r.text) > 1000:
-                with io.open(cache, 'w', encoding='utf-8') as fh:
+                with io.open(cache, 'w', encoding='utf-8', newline="\n") as fh:
                     fh.write(r.text)
                 time.sleep(sleep_s)
                 return r.text, None

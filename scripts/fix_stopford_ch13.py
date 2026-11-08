@@ -252,8 +252,8 @@ def main():
     
     updated_content = content[:p1] + NEW_CH13_SECTION + content[target_end:]
     
-    STOPFORD_PATH.write_text(updated_content, encoding="utf-8")
-    KNOWLEDGE_PATH.write_text(updated_content, encoding="utf-8")
+    STOPFORD_PATH.write_text(updated_content, encoding="utf-8", newline="\n")
+    KNOWLEDGE_PATH.write_text(updated_content, encoding="utf-8", newline="\n")
     print(f"Successfully updated {STOPFORD_PATH} and {KNOWLEDGE_PATH}")
 
 if __name__ == "__main__":

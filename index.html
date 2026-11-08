@@ -15182,7 +15182,7 @@ if (intelTabsContainer) {
                 <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
                   <div>
                     <div class="port-history-title" id="phTitle" style="font-size:14px; font-weight:700; color:#fff;">Port Call History &mdash; IMF PortWatch</div>
-                    <div class="port-history-sub" id="phSub" style="font-size:var(--fs-micro); color:var(--text-muted); margin-top:2px;">43 classic hubs &middot; daily calls 2019&ndash;present &middot; 5Y same-window mean &middot; latest <span id="phLatest">&mdash;</span></div>
+                    <div class="port-history-sub" id="phSub" style="font-size:var(--fs-micro); color:var(--text-muted); margin-top:2px;">43 classic hubs &middot; daily calls 2019&ndash;present &middot; 5Y same-window mean <span id="phLatestWrap" hidden>&middot; latest <span id="phLatest"></span></span></div>
                   </div>
                   <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
                     <select id="phPortSelect" class="ph-select" onchange="setPortHistoryPort(this.value)" aria-label="Select port for call history" data-tooltip="Strategic maritime hub selector covering 43 classic ports with daily history and 5Y baselines." data-tt-type="portwatch-callout" data-tt-context="note"><!-- populated by initPortHistory --></select>
@@ -19233,7 +19233,7 @@ if (intelTabsContainer) {
                     DATA.portCongestion.forEach(function (pr) { if (pr.dateStr > pcLatest) pcLatest = pr.dateStr; });
                     if (pcLatest) {
                       var phLatestEl = document.getElementById('phLatest');
-                      if (phLatestEl) phLatestEl.textContent = pcLatest;
+                      if (phLatestEl) { phLatestEl.textContent = pcLatest; if (phLatestEl.parentElement) phLatestEl.parentElement.hidden = false; }
                     }
                   }
                 } else {
@@ -43714,7 +43714,7 @@ function initPortHistory() {
     sel.value = portHistoryPort;
   }
   var latestEl = document.getElementById('phLatest');
-  if (latestEl && latestStr) latestEl.textContent = latestStr;
+  if (latestEl && latestStr) { latestEl.textContent = latestStr; if (latestEl.parentElement) latestEl.parentElement.hidden = false; }
 }
 
 function portHistoryWindow(rows) {
@@ -44708,7 +44708,7 @@ function updateTrackingHUD() {
       if (trackingMapSector === 'all') {
         var totalHubs = (DATA.universePorts && DATA.universePorts.ports) ? DATA.universePorts.ports.length : 2995;
         var pwHubs = inSec.nPorts || 1979;
-        hudDetail.textContent = inSec.total.toLocaleString('en-US') + ' measured port calls YTD across ' + totalHubs.toLocaleString('en-US') + ' global hubs (' + pwHubs.toLocaleString('en-US') + ' PortWatch audited ports)';
+        hudDetail.textContent = inSec.total.toLocaleString('en-US') + ' measured port calls YTD across ' + totalHubs.toLocaleString('en-US') + ' global hubs (' + pwHubs.toLocaleString('en-US') + ' ports with PortWatch call counts)';
       } else {
         hudDetail.textContent = inSec.total.toLocaleString('en-US') + ' measured port calls YTD across ' + inSec.nPorts.toLocaleString('en-US') + ' ports (PortWatch)';
       }
@@ -48450,7 +48450,7 @@ function openChokepointAnalytics(chokepointId) {
     var narrativeText = '';
     if (cp.id === 'bab_el_mandeb' || cp.id === 'suez_canal') {
       var daysTxt = trackingReroutingTelemetry().daysAdded;
-      var daysStr = (daysTxt != null) ? ('an editorial estimate of +' + daysTxt.toFixed(1) + ' days') : 'extra days';
+      var daysStr = (daysTxt != null) ? ('about +' + daysTxt.toFixed(1) + ' days (our estimate, not a published figure)') : 'extra days';
       narrativeText = '<strong>Red Sea Rerouting Crisis</strong>: Houthi strikes force Asia-Europe vessels to bypass Suez/Bab el-Mandeb, steaming around the Cape of Good Hope, adding ' + daysStr + ' per laden voyage.';
     } else if (cp.id === 'cape_good_hope') {
       narrativeText = '<strong>Cape Rerouting Surge</strong>: Circumnavigating Africa absorbs excess fleet capacity, expanding global ton-mile demand and lifting container and tanker TCE earnings.';
@@ -55130,14 +55130,14 @@ function fearn52Compute(pts, monthly) {
 }
 
 function fearn52Fmt(v, signed, pct) {
-  if (v == null || v !== v) return 'n/a';
+  if (v == null || v !== v) return 'No data';
   var s = pct ? v.toFixed(1) + '%' : fearnFmtVal(v);
   if (signed && v > 0) return '+' + s;
   return s;
 }
 
 function fearn52StripHtml(prefix, st, unitLabel) {
-  var na = 'n/a';
+  var na = (st && !st.full) ? 'Under 1 yr' : 'No data';
   var posCls = st && st.pos != null ? (st.pos < 25 ? ' val-red' : (st.pos > 60 ? ' val-green' : ' val-yellow')) : '';
   var ytdCls = st && st.ytd != null ? (st.ytd >= 0 ? ' val-green' : ' val-red') : '';
   var ddCls = st && st.dd != null ? (st.dd >= 0 ? ' val-green' : ' val-red') : '';

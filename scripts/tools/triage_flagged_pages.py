@@ -84,7 +84,7 @@ def main():
         total += len(found)
         print(f"{source:<20} flagged pages re-checked: {len(found)}")
     MANIFEST.parent.mkdir(parents=True, exist_ok=True)
-    MANIFEST.write_text(json.dumps(manifest, indent=1))
+    MANIFEST.write_text(json.dumps(manifest, indent=1), newline="\n")
     print()
     print(f"total flagged pages outside banchero: {total}")
     print(f"rendered to {OUT}")

@@ -48,7 +48,7 @@ def load_state():
 
 def save_state(st):
     OUT.mkdir(parents=True, exist_ok=True)
-    STATE.write_text(json.dumps(st, indent=2), encoding="utf-8")
+    STATE.write_text(json.dumps(st, indent=2), encoding="utf-8", newline="\n")
 
 
 def extract_tables_filtered(pdf: Path):
@@ -332,11 +332,11 @@ def process(pdf: Path):
             charts[str(pno)] = good
     charts = clean_charts(charts)
     stem = pdf.stem
-    (OUT / f"{stem}.md").write_text(doc_md, encoding="utf-8")
+    (OUT / f"{stem}.md").write_text(doc_md, encoding="utf-8", newline="\n")
     (OUT / f"{stem}.tables.json").write_text(
-        json.dumps(tables, indent=2, ensure_ascii=False), encoding="utf-8")
+        json.dumps(tables, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
     (OUT / f"{stem}.charts.json").write_text(
-        json.dumps(charts, indent=2, ensure_ascii=False), encoding="utf-8")
+        json.dumps(charts, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
     return {"pages": res.num_pages, "tables": len(tables),
             "chart_pages": sorted(charts, key=int), "md_bytes": len(doc_md)}
 

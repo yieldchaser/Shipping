@@ -713,7 +713,7 @@ def standardize_file(file_path: Path) -> Tuple[bool, str]:
 
     if new_full_content != content:
         temp_file = file_path.with_suffix(".tmp")
-        temp_file.write_text(new_full_content, encoding="utf-8")
+        temp_file.write_text(new_full_content, encoding="utf-8", newline="\n")
         temp_file.replace(file_path)
         return True, "Standardized"
 

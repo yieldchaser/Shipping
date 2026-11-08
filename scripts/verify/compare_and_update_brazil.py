@@ -106,11 +106,11 @@ print("\nReconciling source column across entire CSV to MDIC SECEX ComexStat Off
 df["source"] = "MDIC SECEX ComexStat Official API"
 
 # Save updated CSV
-df.to_csv(CSV_PATH, index=False)
+df.to_csv(CSV_PATH, index=False, lineterminator="\n")
 print(f"Saved cleanly updated CSV to {CSV_PATH}")
 
 # Save changes report to json
 report_path = REPO_ROOT / "docs" / "gap_fill" / "brazil_comexstat_updates_report.json"
-with open(report_path, "w", encoding="utf-8") as f:
+with open(report_path, "w", encoding="utf-8", newline="\n") as f:
     json.dump(changes_log, f, indent=2)
 print(f"Saved changes report to {report_path}")

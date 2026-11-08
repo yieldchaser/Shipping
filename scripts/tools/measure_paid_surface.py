@@ -131,7 +131,7 @@ def main():
 
     out = ROOT / 'data/derived/paid_surface_by_source.json'
     out.parent.mkdir(parents=True, exist_ok=True)
-    out.write_text(json.dumps(results, indent=1))
+    out.write_text(json.dumps(results, indent=1), newline="\n")
     print()
     print(f'written -> {out}')
     tot_p = sum(v['pages'] for v in results.values())

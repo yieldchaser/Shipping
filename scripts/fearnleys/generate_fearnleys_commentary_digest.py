@@ -193,8 +193,8 @@ def main():
         p1 = target_dir1 / out_fname
         p2 = target_dir2 / out_fname
         
-        p1.write_text(md_text, encoding="utf-8")
-        p2.write_text(md_text, encoding="utf-8")
+        p1.write_text(md_text, encoding="utf-8", newline="\n")
+        p2.write_text(md_text, encoding="utf-8", newline="\n")
         
         total_generated += 1
         years_seen.add(int(yr))
@@ -211,8 +211,8 @@ def main():
         latest_path1.parent.mkdir(parents=True, exist_ok=True)
         latest_path2.parent.mkdir(parents=True, exist_ok=True)
         
-        latest_path1.write_text(latest_md_content, encoding="utf-8")
-        latest_path2.write_text(latest_md_content, encoding="utf-8")
+        latest_path1.write_text(latest_md_content, encoding="utf-8", newline="\n")
+        latest_path2.write_text(latest_md_content, encoding="utf-8", newline="\n")
         print(f"Updated latest weekly commentary pointer: Week {wk:02d}, {yr} -> {latest_path1}")
 
 if __name__ == "__main__":

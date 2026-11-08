@@ -91,7 +91,7 @@ def http_fetch_html(url: str, target_file: Path) -> str:
             return ""
         if len(html) > 2000:
             target_file.parent.mkdir(parents=True, exist_ok=True)
-            target_file.write_text(html, encoding="utf-8")
+            target_file.write_text(html, encoding="utf-8", newline="\n")
             return html
     except Exception as e:
         print(f"Fetch failed for {url}: {e}")
@@ -440,9 +440,9 @@ def run_gibson_html_pipeline(limit=None):
         
         out_year_dir.mkdir(parents=True, exist_ok=True)
         
-        md_file.write_text(md_content, encoding="utf-8")
-        tables_file.write_text(json.dumps(tables_sidecar, indent=2), encoding="utf-8")
-        charts_file.write_text(json.dumps(charts_sidecar, indent=2), encoding="utf-8")
+        md_file.write_text(md_content, encoding="utf-8", newline="\n")
+        tables_file.write_text(json.dumps(tables_sidecar, indent=2), encoding="utf-8", newline="\n")
+        charts_file.write_text(json.dumps(charts_sidecar, indent=2), encoding="utf-8", newline="\n")
         
         all_new_spot.extend(spot_rows)
         all_new_bunker.extend(bunker_rows)
@@ -460,7 +460,7 @@ def run_gibson_html_pipeline(limit=None):
         df_all = pd.concat([df_old, df_new], ignore_index=True)
         df_all = df_all.drop_duplicates(subset=['issue_date', 'category', 'market_type', 'route_code'], keep='last')
         df_all = df_all.sort_values(by=['issue_date', 'category', 'market_type', 'route_code'])
-        df_all.to_csv(SPOT_CSV_PATH, index=False, encoding="utf-8")
+        df_all.to_csv(SPOT_CSV_PATH, index=False, encoding="utf-8", lineterminator="\n")
         print(f"Updated: {SPOT_CSV_PATH} (Now {len(df_all)} total rows)")
         
     if all_new_bunker and BUNKER_CSV_PATH.exists():
@@ -469,7 +469,7 @@ def run_gibson_html_pipeline(limit=None):
         df_all_b = pd.concat([df_old_b, df_new_b], ignore_index=True)
         df_all_b = df_all_b.drop_duplicates(subset=['issue_date', 'port', 'grade'], keep='last')
         df_all_b = df_all_b.sort_values(by=['issue_date', 'port', 'grade'])
-        df_all_b.to_csv(BUNKER_CSV_PATH, index=False, encoding="utf-8")
+        df_all_b.to_csv(BUNKER_CSV_PATH, index=False, encoding="utf-8", lineterminator="\n")
         print(f"Updated: {BUNKER_CSV_PATH} (Now {len(df_all_b)} total rows)")
         
     if DAILY_CHART_POINTS:

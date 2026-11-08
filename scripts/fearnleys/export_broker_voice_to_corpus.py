@@ -218,7 +218,7 @@ title: "Fearnleys {desk_name} Comment - {comment_date[:10]}"
         targets = [t for t in targets if t.exists()]
     for t in targets:
         t.parent.mkdir(parents=True, exist_ok=True)
-        with open(t, "w", encoding="utf-8") as f:
+        with open(t, "w", encoding="utf-8", newline="\n") as f:
             f.write(md_content)
 
     return corpus_file, extracted_file
@@ -240,7 +240,7 @@ def load_manifest() -> set:
 def save_manifest(ids: set):
     try:
         VOICE_CORPUS_ROOT.mkdir(parents=True, exist_ok=True)
-        with open(MANIFEST_PATH, "w", encoding="utf-8") as f:
+        with open(MANIFEST_PATH, "w", encoding="utf-8", newline="\n") as f:
             json.dump(sorted(list(ids)), f)
     except Exception:
         pass

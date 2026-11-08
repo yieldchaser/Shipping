@@ -652,13 +652,13 @@ def run_pipeline():
         # Canonical markdown
         canonical_stem = f"gms_{iso_date}_{item['html_stem']}"
         md_file = year_2021_dir / f"{canonical_stem}.md"
-        md_file.write_text(md_text, encoding="utf-8")
-        md_file.with_suffix(".tables.json").write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8")
+        md_file.write_text(md_text, encoding="utf-8", newline="\n")
+        md_file.with_suffix(".tables.json").write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
         # Backwards compatibility: also overwrite any legacy files matching html_stem
         for legacy_f in year_2021_dir.glob(f"*{item['html_stem']}*.md"):
-            legacy_f.write_text(md_text, encoding="utf-8")
-            legacy_f.with_suffix(".tables.json").write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8")
+            legacy_f.write_text(md_text, encoding="utf-8", newline="\n")
+            legacy_f.with_suffix(".tables.json").write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
         all_rankings.extend(item["rankings_rows"])
         if item["editorial_paras"]:
@@ -690,7 +690,7 @@ def run_pipeline():
             md_text = generate_markdown(parsed)
             canonical_stem = f"gms_{iso_date}_{pdf_path.stem}"
             md_file = year_dir / f"{canonical_stem}.md"
-            md_file.write_text(md_text, encoding="utf-8")
+            md_file.write_text(md_text, encoding="utf-8", newline="\n")
 
             sidecar = {
                 "issue_date": parsed["issue_date"],
@@ -707,12 +707,12 @@ def run_pipeline():
                 "source_file": parsed["source_file"],
             }
             json_file = year_dir / f"{canonical_stem}.tables.json"
-            json_file.write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8")
+            json_file.write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
             # Backwards compatibility: overwrite any legacy files matching stem in year_dir
             for legacy_f in year_dir.glob(f"*{pdf_path.stem}*.md"):
-                legacy_f.write_text(md_text, encoding="utf-8")
-                legacy_f.with_suffix(".tables.json").write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8")
+                legacy_f.write_text(md_text, encoding="utf-8", newline="\n")
+                legacy_f.with_suffix(".tables.json").write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
             all_rankings.extend(parsed["rankings_rows"])
             all_port_positions.extend(parsed["port_rows_series"])
@@ -783,7 +783,7 @@ def run_pipeline():
 
     for r_path in [rankings_csv1, rankings_csv2]:
         with open(r_path, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=rankings_cols)
+            writer = csv.DictWriter(f, fieldnames=rankings_cols, lineterminator="\n")
             writer.writeheader()
             for row in sorted(all_rankings, key=lambda x: (str(x["issue_date"]), x["rank"])):
                 writer.writerow(row)
@@ -799,7 +799,7 @@ def run_pipeline():
 
     for p_path in [port_csv1, port_csv2]:
         with open(p_path, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=port_cols)
+            writer = csv.DictWriter(f, fieldnames=port_cols, lineterminator="\n")
             writer.writeheader()
             for row in sorted(all_port_positions, key=lambda x: (str(x["issue_date"]), x["port"], x["item_no"])):
                 writer.writerow(row)
@@ -809,7 +809,7 @@ def run_pipeline():
     sales_csv = OUT_SERIES_DIR / "gms_demolition_sales_series.csv"
     sales_cols = ["issue_date", "report_week", "location", "vessel_name", "vessel_type", "ldt", "price_reported", "terms_comments", "source_file"]
     with open(sales_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=sales_cols)
+        writer = csv.DictWriter(f, fieldnames=sales_cols, lineterminator="\n")
         writer.writeheader()
         for row in sorted(all_sales, key=lambda x: (str(x["issue_date"]), x["location"])):
             writer.writerow(row)

@@ -241,7 +241,7 @@ def main():
         if n_con and n_con <= 12:
             for lbl, n in r["CONSTRUCT"].items():
                 print(f"      novel: {lbl[:60]}  (x{n})")
-    OUT.write_text(json.dumps(result, indent=1, default=str), encoding="utf-8")
+    OUT.write_text(json.dumps(result, indent=1, default=str), encoding="utf-8", newline="\n")
     print(f"\nwrote {OUT}")
     return 0
 

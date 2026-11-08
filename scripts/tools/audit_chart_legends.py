@@ -195,7 +195,7 @@ def main():
             print(f"      NOVEL : {lbl[:64]} (x{k})")
         for lbl, k in sorted(unknown.items())[:6]:
             print(f"      ?      : {lbl[:64]} (x{k})")
-    OUT.write_text(json.dumps(result, indent=1), encoding="utf-8")
+    OUT.write_text(json.dumps(result, indent=1), encoding="utf-8", newline="\n")
     print(f"\nwrote {OUT}")
     return 0
 

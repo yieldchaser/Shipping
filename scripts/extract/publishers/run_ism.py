@@ -566,7 +566,7 @@ def load_state():
 
 def save_state(st):
     STATE.parent.mkdir(parents=True, exist_ok=True)
-    STATE.write_text(json.dumps(st, indent=1), encoding='utf-8')
+    STATE.write_text(json.dumps(st, indent=1), encoding='utf-8', newline="\n")
 
 
 import datetime
@@ -603,7 +603,7 @@ def extract_single_ism_doc(p: Path, out_dir: Path = OUT) -> dict:
     year_dir = out_dir / str(year)
     year_dir.mkdir(parents=True, exist_ok=True)
 
-    (year_dir / (p.stem + '.md')).write_text(md, encoding='utf-8')
+    (year_dir / (p.stem + '.md')).write_text(md, encoding='utf-8', newline="\n")
     
     sidecar_data = dict(
         file=key,
@@ -614,7 +614,7 @@ def extract_single_ism_doc(p: Path, out_dir: Path = OUT) -> dict:
         charts=charts,
         warnings=meta['warnings']
     )
-    (year_dir / (p.stem + '.charts.json')).write_text(json.dumps(sidecar_data, indent=1), encoding='utf-8')
+    (year_dir / (p.stem + '.charts.json')).write_text(json.dumps(sidecar_data, indent=1), encoding='utf-8', newline="\n")
     
     return {
         "stem": p.stem,

@@ -294,10 +294,10 @@ def rebuild_book11():
     final_content = FRONTMATTER + full_body.strip() + "\n"
 
     print(f"Writing {len(final_content):,} bytes to {TARGET_CORPUS}...")
-    TARGET_CORPUS.write_text(final_content, encoding="utf-8")
+    TARGET_CORPUS.write_text(final_content, encoding="utf-8", newline="\n")
     
     print(f"Writing {len(final_content):,} bytes to {TARGET_KNOWLEDGE}...")
-    TARGET_KNOWLEDGE.write_text(final_content, encoding="utf-8")
+    TARGET_KNOWLEDGE.write_text(final_content, encoding="utf-8", newline="\n")
     print("Rebuild of Book 11 complete.")
 
 if __name__ == '__main__':

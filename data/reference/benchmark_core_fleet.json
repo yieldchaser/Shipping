@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "title": "Macro Benchmark Core Fleet (5,000 Hulls)",
+    "title": "Macro Benchmark Core Fleet (4,914 Hulls)",
     "description": "Curated high-capacity commercial merchant fleet tracking >90% of global seaborne ton-miles across VLOC, Capesize, Post Panamax, Panamax, Supramax, VLCC, Suezmax, Aframax, LNG, and LPG.",
-    "total_hulls": 5000,
+    "total_hulls": 4914,
     "sectors": {
       "dry_bulk": {
         "count": 2000,
@@ -16,29 +16,30 @@
         "type_header": "3"
       },
       "tankers": {
-        "count": 2000,
+        "count": 1921,
         "subclasses": {
-          "vlcc": 1250,
-          "suezmax": 550,
-          "aframax": 200
+          "vlcc": 1176,
+          "suezmax": 549,
+          "aframax": 196
         },
         "type_header": "1"
       },
       "lng": {
-        "count": 500,
+        "count": 494,
         "subclasses": {
-          "qmax_qflex_and_export_megi": 500
+          "qmax_qflex_and_export_megi": 494
         },
         "type_header": "5"
       },
       "lpg": {
-        "count": 500,
+        "count": 499,
         "subclasses": {
-          "vlgc_and_lgc": 500
+          "vlgc_and_lgc": 499
         },
         "type_header": "6"
       }
-    }
+    },
+    "excluded_floating_units": 86
   },
   "sectors": {
     "dry_bulk": [
@@ -16045,22 +16046,6 @@
     ],
     "tankers": [
       {
-        "imo": 9224752,
-        "name": "FSO Asia",
-        "class": "VLCC",
-        "dwt": 441893,
-        "built": 2002,
-        "operator": "Euronav"
-      },
-      {
-        "imo": 9224764,
-        "name": "FSO Africa",
-        "class": "VLCC",
-        "dwt": 441655,
-        "built": 2002,
-        "operator": "Euronav"
-      },
-      {
         "imo": 9246633,
         "name": "Sa Oceania",
         "class": "VLCC",
@@ -16085,62 +16070,6 @@
         "operator": "Unknown"
       },
       {
-        "imo": 7376472,
-        "name": "FSO Safer",
-        "class": "VLCC",
-        "dwt": 400219,
-        "built": 1976,
-        "operator": "Unknown"
-      },
-      {
-        "imo": 9343962,
-        "name": "FPSO Dalia",
-        "class": "VLCC",
-        "dwt": 400000,
-        "built": 2006,
-        "operator": "Total"
-      },
-      {
-        "imo": 7417460,
-        "name": "FSO Cidade De Macae Mv15",
-        "class": "VLCC",
-        "dwt": 396687,
-        "built": 1979,
-        "operator": "Unknown"
-      },
-      {
-        "imo": 7372074,
-        "name": "FPSO Espirito Santo",
-        "class": "VLCC",
-        "dwt": 391653,
-        "built": 1975,
-        "operator": "Unknown"
-      },
-      {
-        "imo": 9989479,
-        "name": "FPSO Errea Witu",
-        "class": "VLCC",
-        "dwt": 381944,
-        "built": 2026,
-        "operator": "Modec"
-      },
-      {
-        "imo": 9280823,
-        "name": "FPSO Erha",
-        "class": "VLCC",
-        "dwt": 375600,
-        "built": 2005,
-        "operator": "ExxonMobil"
-      },
-      {
-        "imo": 7708314,
-        "name": "FSO Belokamenka",
-        "class": "VLCC",
-        "dwt": 360700,
-        "built": 1980,
-        "operator": "Unknown"
-      },
-      {
         "imo": 7708302,
         "name": "Yuum K'ak Naab",
         "class": "VLCC",
@@ -16157,28 +16086,12 @@
         "operator": "Cameroon Oil Transportation Company"
       },
       {
-        "imo": 7389405,
-        "name": "FPSO Fluminense",
-        "class": "VLCC",
-        "dwt": 356400,
-        "built": 1974,
-        "operator": "Modec"
-      },
-      {
         "imo": 9544114,
         "name": "Khalij-e-fars",
         "class": "VLCC",
         "dwt": 355015,
         "built": 2012,
         "operator": "Iranian Offshore Oil Company"
-      },
-      {
-        "imo": 9505845,
-        "name": "FPSO Usan",
-        "class": "VLCC",
-        "dwt": 353200,
-        "built": 2011,
-        "operator": "ExxonMobil"
       },
       {
         "imo": 7389443,
@@ -16189,36 +16102,12 @@
         "operator": "Modec"
       },
       {
-        "imo": 9851828,
-        "name": "FPSO Liza Unity",
-        "class": "VLCC",
-        "dwt": 350605,
-        "built": 2019,
-        "operator": "ExxonMobil"
-      },
-      {
-        "imo": 9695896,
-        "name": "Egina FPSO",
-        "class": "VLCC",
-        "dwt": 349597,
-        "built": 2017,
-        "operator": "Total"
-      },
-      {
         "imo": 7389493,
         "name": "Takun",
         "class": "VLCC",
         "dwt": 349592,
         "built": 1978,
         "operator": "Unknown"
-      },
-      {
-        "imo": 9494515,
-        "name": "FPSO Pazflor",
-        "class": "VLCC",
-        "dwt": 346089,
-        "built": 2011,
-        "operator": "Total"
       },
       {
         "imo": 9881043,
@@ -16237,38 +16126,6 @@
         "operator": "Total"
       },
       {
-        "imo": 8765319,
-        "name": "FSO Unity",
-        "class": "VLCC",
-        "dwt": 341097,
-        "built": 2002,
-        "operator": "Total"
-      },
-      {
-        "imo": 8765292,
-        "name": "Kizomba A FPSO",
-        "class": "VLCC",
-        "dwt": 340660,
-        "built": 2004,
-        "operator": "Esso Francaise"
-      },
-      {
-        "imo": 9287936,
-        "name": "Kizomba B FPSO",
-        "class": "VLCC",
-        "dwt": 340660,
-        "built": 2005,
-        "operator": "ExxonMobil"
-      },
-      {
-        "imo": 9348417,
-        "name": "Agbami FPSO Sec",
-        "class": "VLCC",
-        "dwt": 337859,
-        "built": 2007,
-        "operator": "Chevron"
-      },
-      {
         "imo": 9044217,
         "name": "Petrobras 62",
         "class": "VLCC",
@@ -16283,22 +16140,6 @@
         "dwt": 329425,
         "built": 2024,
         "operator": "Petrobras"
-      },
-      {
-        "imo": 9919591,
-        "name": "Fpso Bacalhau",
-        "class": "VLCC",
-        "dwt": 329000,
-        "built": 2024,
-        "operator": "Modec"
-      },
-      {
-        "imo": 1017701,
-        "name": "FPSO Raia",
-        "class": "VLCC",
-        "dwt": 329000,
-        "built": 2027,
-        "operator": "Modec"
       },
       {
         "imo": 9955674,
@@ -16411,14 +16252,6 @@
         "dwt": 321300,
         "built": 2010,
         "operator": "Sinokor Merchant Marine"
-      },
-      {
-        "imo": 9353802,
-        "name": "FPSO Agogo",
-        "class": "VLCC",
-        "dwt": 321300,
-        "built": 2009,
-        "operator": "Yinson Holdings"
       },
       {
         "imo": 9352573,
@@ -16635,14 +16468,6 @@
         "dwt": 320391,
         "built": 2014,
         "operator": "Shanghai Yucheng Shipping"
-      },
-      {
-        "imo": 9530905,
-        "name": "FPSO Kaminho",
-        "class": "VLCC",
-        "dwt": 320350,
-        "built": 2012,
-        "operator": "Total"
       },
       {
         "imo": 9597276,
@@ -17787,14 +17612,6 @@
         "dwt": 318658,
         "built": 2005,
         "operator": "Unknown"
-      },
-      {
-        "imo": 9290347,
-        "name": "FSO Cawthorne",
-        "class": "VLCC",
-        "dwt": 318658,
-        "built": 2004,
-        "operator": "Smart Tankers"
       },
       {
         "imo": 9827695,
@@ -19085,14 +18902,6 @@
         "operator": "Eneos Corporation"
       },
       {
-        "imo": 9222962,
-        "name": "Bonga FPSO",
-        "class": "VLCC",
-        "dwt": 312500,
-        "built": 2003,
-        "operator": "Shell"
-      },
-      {
         "imo": 9827360,
         "name": "Fujisan Maru",
         "class": "VLCC",
@@ -19621,14 +19430,6 @@
         "operator": "Maran Tankers Management"
       },
       {
-        "imo": 9164847,
-        "name": "FSO ELI Akaso",
-        "class": "VLCC",
-        "dwt": 310137,
-        "built": 1999,
-        "operator": "World Carrier Corp"
-      },
-      {
         "imo": 9174220,
         "name": "Luna Prime",
         "class": "VLCC",
@@ -19909,14 +19710,6 @@
         "operator": "Oceanlink Maritime"
       },
       {
-        "imo": 9246645,
-        "name": "FPSO Maria Quiteria",
-        "class": "VLCC",
-        "dwt": 309021,
-        "built": 2003,
-        "operator": "Yinson Holdings"
-      },
-      {
         "imo": 9330563,
         "name": "Sanmar Herald",
         "class": "VLCC",
@@ -19931,14 +19724,6 @@
         "dwt": 308930,
         "built": 2004,
         "operator": "Unknown"
-      },
-      {
-        "imo": 9238856,
-        "name": "FPSO Anna Nery",
-        "class": "VLCC",
-        "dwt": 308875,
-        "built": 2002,
-        "operator": "Yinson Holdings"
       },
       {
         "imo": 9297319,
@@ -20253,14 +20038,6 @@
         "operator": "Associated Maritime"
       },
       {
-        "imo": 7373080,
-        "name": "FPSO Serpentina",
-        "class": "VLCC",
-        "dwt": 307431,
-        "built": 1974,
-        "operator": "SBM Production Contractors"
-      },
-      {
         "imo": 9799185,
         "name": "New Melody",
         "class": "VLCC",
@@ -20283,14 +20060,6 @@
         "dwt": 307284,
         "built": 2007,
         "operator": "Unknown"
-      },
-      {
-        "imo": 9323950,
-        "name": "FPSO Peregrino",
-        "class": "VLCC",
-        "dwt": 307284,
-        "built": 2008,
-        "operator": "Equinor"
       },
       {
         "imo": 9312494,
@@ -20347,14 +20116,6 @@
         "dwt": 307284,
         "built": 2008,
         "operator": "Euronav"
-      },
-      {
-        "imo": 7373092,
-        "name": "FPSO Falcon",
-        "class": "VLCC",
-        "dwt": 307236,
-        "built": 1975,
-        "operator": "Unknown"
       },
       {
         "imo": 9180891,
@@ -20757,14 +20518,6 @@
         "operator": "Unknown"
       },
       {
-        "imo": 9235256,
-        "name": "FPSO Carioca MV30",
-        "class": "VLCC",
-        "dwt": 305688,
-        "built": 2004,
-        "operator": "Petrobras"
-      },
-      {
         "imo": 9568809,
         "name": "Tunisia Prosperity",
         "class": "VLCC",
@@ -20829,14 +20582,6 @@
         "operator": "Mitsui OSK Lines"
       },
       {
-        "imo": 9227481,
-        "name": "FPSO Mv33",
-        "class": "VLCC",
-        "dwt": 304732,
-        "built": 2002,
-        "operator": "Unknown"
-      },
-      {
         "imo": 1090777,
         "name": "New Explorer",
         "class": "VLCC",
@@ -20867,14 +20612,6 @@
         "dwt": 303896,
         "built": 2003,
         "operator": "Eurotankers"
-      },
-      {
-        "imo": 9361146,
-        "name": "FPSO Akpo",
-        "class": "VLCC",
-        "dwt": 303669,
-        "built": 2008,
-        "operator": "Total"
       },
       {
         "imo": 9294563,
@@ -21171,14 +20908,6 @@
         "dwt": 302062,
         "built": 2025,
         "operator": "Sinokor Merchant Marine"
-      },
-      {
-        "imo": 9178757,
-        "name": "Armada Olombendo FPSO",
-        "class": "VLCC",
-        "dwt": 301963,
-        "built": 1999,
-        "operator": "Bumi Armada"
       },
       {
         "imo": 9202716,
@@ -21643,14 +21372,6 @@
         "dwt": 300544,
         "built": 2004,
         "operator": "Unknown"
-      },
-      {
-        "imo": 9292632,
-        "name": "FPSO MDDC",
-        "class": "VLCC",
-        "dwt": 300542,
-        "built": 2005,
-        "operator": "Petrobras"
       },
       {
         "imo": 9081174,
@@ -23397,14 +23118,6 @@
         "operator": "Unknown"
       },
       {
-        "imo": 9171436,
-        "name": "FPSO Guanabara MV31",
-        "class": "VLCC",
-        "dwt": 299150,
-        "built": 1999,
-        "operator": "Modec"
-      },
-      {
         "imo": 9245782,
         "name": "Firenze K",
         "class": "VLCC",
@@ -23933,14 +23646,6 @@
         "operator": "Unknown"
       },
       {
-        "imo": 9180138,
-        "name": "FPSO MV 29",
-        "class": "VLCC",
-        "dwt": 298543,
-        "built": 2000,
-        "operator": "Modec"
-      },
-      {
         "imo": 9196606,
         "name": "Armada Sterling V",
         "class": "VLCC",
@@ -24083,14 +23788,6 @@
         "dwt": 298078,
         "built": 2008,
         "operator": "Unknown"
-      },
-      {
-        "imo": 9045455,
-        "name": "FSO Uote 1",
-        "class": "VLCC",
-        "dwt": 298033,
-        "built": 1993,
-        "operator": "Omni Offshore Terminals"
       },
       {
         "imo": 9045467,
@@ -24717,14 +24414,6 @@
         "operator": "Unknown"
       },
       {
-        "imo": 9740483,
-        "name": "FPSO Cidade De Caraguatatuba MV27",
-        "class": "VLCC",
-        "dwt": 295574,
-        "built": 2016,
-        "operator": "Modec"
-      },
-      {
         "imo": 7351800,
         "name": "Petrobras 31",
         "class": "VLCC",
@@ -24781,28 +24470,12 @@
         "operator": "Unknown"
       },
       {
-        "imo": 7385124,
-        "name": "FPSO 3r3",
-        "class": "VLCC",
-        "dwt": 291099,
-        "built": 1983,
-        "operator": "Petrobras"
-      },
-      {
         "imo": 9011246,
         "name": "Caribo",
         "class": "VLCC",
         "dwt": 290927,
         "built": 1993,
         "operator": "Unknown"
-      },
-      {
-        "imo": 7379993,
-        "name": "FPSO Saxi Batuque",
-        "class": "VLCC",
-        "dwt": 290560,
-        "built": 1977,
-        "operator": "SBM Production Contractors"
       },
       {
         "imo": 8004351,
@@ -24819,14 +24492,6 @@
         "dwt": 289980,
         "built": 1976,
         "operator": "Unknown"
-      },
-      {
-        "imo": 7382249,
-        "name": "FPSO Cidade De Anchieta",
-        "class": "VLCC",
-        "dwt": 289979,
-        "built": 1975,
-        "operator": "SBM Production Contractors"
       },
       {
         "imo": 9197870,
@@ -24941,14 +24606,6 @@
         "operator": "Petrobras"
       },
       {
-        "imo": 8715027,
-        "name": "FPSO Bravo",
-        "class": "VLCC",
-        "dwt": 284443,
-        "built": 1989,
-        "operator": "EBX"
-      },
-      {
         "imo": 8920921,
         "name": "Titan Ruchira",
         "class": "VLCC",
@@ -24971,14 +24628,6 @@
         "dwt": 282750,
         "built": 1974,
         "operator": "Petrobras"
-      },
-      {
-        "imo": 9001007,
-        "name": "FPSO Cidade De Mangaratiba MV24",
-        "class": "VLCC",
-        "dwt": 282286,
-        "built": 1992,
-        "operator": "Modec"
       },
       {
         "imo": 1071549,
@@ -25165,43 +24814,11 @@
         "operator": "Petrobras"
       },
       {
-        "imo": 9200847,
-        "name": "FPSO Cidade De Marica",
-        "class": "VLCC",
-        "dwt": 278610,
-        "built": 2000,
-        "operator": "SBM Production Contractors"
-      },
-      {
-        "imo": 9179608,
-        "name": "FPSO Cidade De Saquarema",
-        "class": "VLCC",
-        "dwt": 278610,
-        "built": 1999,
-        "operator": "Unknown"
-      },
-      {
         "imo": 7320265,
         "name": "Leda",
         "class": "VLCC",
         "dwt": 278220,
         "built": 1973,
-        "operator": "Unknown"
-      },
-      {
-        "imo": 8919348,
-        "name": "FPSO Cidade De Angra Dos Reis MV22",
-        "class": "VLCC",
-        "dwt": 278057,
-        "built": 1991,
-        "operator": "Modec"
-      },
-      {
-        "imo": 7360148,
-        "name": "FPSO Marlim Sul",
-        "class": "VLCC",
-        "dwt": 277734,
-        "built": 1977,
         "operator": "Unknown"
       },
       {
@@ -25285,14 +24902,6 @@
         "operator": "Unknown"
       },
       {
-        "imo": 8506684,
-        "name": "FPSO Cidade Do Rio De Janeiro MV14",
-        "class": "VLCC",
-        "dwt": 275015,
-        "built": 1986,
-        "operator": "Unknown"
-      },
-      {
         "imo": 8907319,
         "name": "Ailsa Craig I",
         "class": "VLCC",
@@ -25333,14 +24942,6 @@
         "operator": "Hafnia"
       },
       {
-        "imo": 7403354,
-        "name": "FPSO Cidade De Vitoria",
-        "class": "VLCC",
-        "dwt": 273775,
-        "built": 1976,
-        "operator": "Saipem"
-      },
-      {
         "imo": 7403366,
         "name": "Gimboa",
         "class": "VLCC",
@@ -25357,36 +24958,12 @@
         "operator": "Petrobras"
       },
       {
-        "imo": 7522318,
-        "name": "FPSO Frade",
-        "class": "VLCC",
-        "dwt": 273567,
-        "built": 1976,
-        "operator": "Chevron"
-      },
-      {
-        "imo": 7351812,
-        "name": "FPSO Kikeh",
-        "class": "VLCC",
-        "dwt": 273409,
-        "built": 1974,
-        "operator": "Unknown"
-      },
-      {
         "imo": 7370181,
         "name": "Yoho",
         "class": "VLCC",
         "dwt": 273273,
         "built": 1974,
         "operator": "Unknown"
-      },
-      {
-        "imo": 7370193,
-        "name": "FPSO Capixaba",
-        "class": "VLCC",
-        "dwt": 273193,
-        "built": 1974,
-        "operator": "SBM Production Contractors"
       },
       {
         "imo": 7370208,
@@ -25437,14 +25014,6 @@
         "operator": "Petrobras"
       },
       {
-        "imo": 9083108,
-        "name": "FPSO Cidade De Ilhabela",
-        "class": "VLCC",
-        "dwt": 270313,
-        "built": 1996,
-        "operator": "SBM Production Contractors"
-      },
-      {
         "imo": 8716344,
         "name": "Southernpec 5",
         "class": "VLCC",
@@ -25477,14 +25046,6 @@
         "operator": "Perenco"
       },
       {
-        "imo": 9179713,
-        "name": "FPSO C. D Itaguai",
-        "class": "VLCC",
-        "dwt": 269110,
-        "built": 1999,
-        "operator": "Modec"
-      },
-      {
         "imo": 9041588,
         "name": "Antiparos",
         "class": "VLCC",
@@ -25507,14 +25068,6 @@
         "dwt": 267721,
         "built": 1996,
         "operator": "Nippon Global Tanker"
-      },
-      {
-        "imo": 9077800,
-        "name": "FPSO PSVM",
-        "class": "VLCC",
-        "dwt": 267715,
-        "built": 1997,
-        "operator": "Modec"
       },
       {
         "imo": 8500472,
@@ -25565,14 +25118,6 @@
         "operator": "Unknown"
       },
       {
-        "imo": 9005211,
-        "name": "FPSO Cidade De Sao Paulo MV23",
-        "class": "VLCC",
-        "dwt": 265050,
-        "built": 1992,
-        "operator": "Modec"
-      },
-      {
         "imo": 9135286,
         "name": "Charm",
         "class": "VLCC",
@@ -25603,22 +25148,6 @@
         "dwt": 262618,
         "built": 1994,
         "operator": "CPC Corp Taiwan"
-      },
-      {
-        "imo": 8613877,
-        "name": "FPSO Cidade De Paraty",
-        "class": "VLCC",
-        "dwt": 262608,
-        "built": 1988,
-        "operator": "SBM Production Contractors"
-      },
-      {
-        "imo": 7370246,
-        "name": "FPSO Mondo",
-        "class": "VLCC",
-        "dwt": 262430,
-        "built": 1975,
-        "operator": "SBM Production Contractors"
       },
       {
         "imo": 7374694,
@@ -25675,22 +25204,6 @@
         "dwt": 258019,
         "built": 1993,
         "operator": "FAL Shipping"
-      },
-      {
-        "imo": 7360849,
-        "name": "FPSO Brasil",
-        "class": "VLCC",
-        "dwt": 256033,
-        "built": 1974,
-        "operator": "Unknown"
-      },
-      {
-        "imo": 7349144,
-        "name": "N'goma FPSO",
-        "class": "VLCC",
-        "dwt": 255920,
-        "built": 1974,
-        "operator": "SBM Production Contractors"
       },
       {
         "imo": 8617225,
@@ -25781,30 +25294,6 @@
         "operator": "Petrobras"
       },
       {
-        "imo": 9916575,
-        "name": "FPSO Johan Castberg",
-        "class": "VLCC",
-        "dwt": 250000,
-        "built": 2024,
-        "operator": "Equinor"
-      },
-      {
-        "imo": 9919436,
-        "name": "FPSO One Guyana",
-        "class": "VLCC",
-        "dwt": 250000,
-        "built": 2022,
-        "operator": "SBM Offshore"
-      },
-      {
-        "imo": 9881457,
-        "name": "FPSO Sepetiba",
-        "class": "VLCC",
-        "dwt": 250000,
-        "built": 2021,
-        "operator": "SBM Offshore"
-      },
-      {
         "imo": 9999515,
         "name": "Jaguar",
         "class": "VLCC",
@@ -25819,14 +25308,6 @@
         "dwt": 248965,
         "built": 1986,
         "operator": "ABC Maritime"
-      },
-      {
-        "imo": 7391824,
-        "name": "FPSO Forte",
-        "class": "VLCC",
-        "dwt": 248520,
-        "built": 1980,
-        "operator": "Petrobras"
       },
       {
         "imo": 8808642,
@@ -25885,52 +25366,12 @@
         "operator": "Unknown"
       },
       {
-        "imo": 8412974,
-        "name": "FPSO Nuim Antan",
-        "class": "VLCC",
-        "dwt": 244942,
-        "built": 1985,
-        "operator": "Yinson Holdings"
-      },
-      {
         "imo": 8916102,
         "name": "Geilo",
         "class": "VLCC",
         "dwt": 243272,
         "built": 1990,
         "operator": "Petrobras"
-      },
-      {
-        "imo": 9291274,
-        "name": "FPSO Almirante Barroso MV32",
-        "class": "VLCC",
-        "dwt": 242669,
-        "built": 2005,
-        "operator": "Modec"
-      },
-      {
-        "imo": 8500123,
-        "name": "FPSO Cidade De Niteroi MV18",
-        "class": "VLCC",
-        "dwt": 241432,
-        "built": 1986,
-        "operator": "Modec"
-      },
-      {
-        "imo": 9909716,
-        "name": "FPSO Gta",
-        "class": "VLCC",
-        "dwt": 241064,
-        "built": 2022,
-        "operator": "BP"
-      },
-      {
-        "imo": 9003861,
-        "name": "FPSO Kwame Nkrumah MV21",
-        "class": "VLCC",
-        "dwt": 240550,
-        "built": 1991,
-        "operator": "Modec"
       },
       {
         "imo": 8500147,
@@ -25941,14 +25382,6 @@
         "operator": "Unknown"
       },
       {
-        "imo": 8618217,
-        "name": "FPSO Atlanta",
-        "class": "VLCC",
-        "dwt": 238546,
-        "built": 1989,
-        "operator": "OSX Leasing Group"
-      },
-      {
         "imo": 8906913,
         "name": "Petrobras 77",
         "class": "VLCC",
@@ -25957,28 +25390,12 @@
         "operator": "Petrobras"
       },
       {
-        "imo": 8617213,
-        "name": "FPSO Aseng",
-        "class": "VLCC",
-        "dwt": 236831,
-        "built": 1988,
-        "operator": "SBM Production Contractors"
-      },
-      {
         "imo": 7378987,
         "name": "Astakos",
         "class": "VLCC",
         "dwt": 232397,
         "built": 1975,
         "operator": "Akron Trade & Transport"
-      },
-      {
-        "imo": 7325899,
-        "name": "FPSO Cidade De Santos MV20",
-        "class": "VLCC",
-        "dwt": 232165,
-        "built": 1973,
-        "operator": "Modec"
       },
       {
         "imo": 8706014,
@@ -26003,14 +25420,6 @@
         "dwt": 229888,
         "built": 1988,
         "operator": "Unknown"
-      },
-      {
-        "imo": 9220720,
-        "name": "FPSO Leopold Sedar S",
-        "class": "VLCC",
-        "dwt": 225381,
-        "built": 2001,
-        "operator": "Embiricos Group"
       },
       {
         "imo": 7917915,
@@ -29245,14 +28654,6 @@
         "operator": "Great Eastern Shipping"
       },
       {
-        "imo": 9416692,
-        "name": "FPSO Miamte MV34",
-        "class": "Suezmax",
-        "dwt": 157667,
-        "built": 2009,
-        "operator": "Modec"
-      },
-      {
         "imo": 9938482,
         "name": "Sonangol Kulumbimbi",
         "class": "Suezmax",
@@ -30629,14 +30030,6 @@
         "operator": "Sea Bright"
       },
       {
-        "imo": 9063067,
-        "name": "FPSO Pioneiro De Libra",
-        "class": "Aframax",
-        "dwt": 120367,
-        "built": 1995,
-        "operator": "Maran Shuttle Tankers"
-      },
-      {
         "imo": 9648776,
         "name": "Kaimon Maru",
         "class": "Aframax",
@@ -30651,14 +30044,6 @@
         "dwt": 120000,
         "built": 2007,
         "operator": "CNOOC"
-      },
-      {
-        "imo": 9183532,
-        "name": "Terra Nova FPSO",
-        "class": "Aframax",
-        "dwt": 120000,
-        "built": 1999,
-        "operator": "Suncor"
       },
       {
         "imo": 9617038,
@@ -30781,14 +30166,6 @@
         "operator": "Sinopec"
       },
       {
-        "imo": 9373084,
-        "name": "FPSO Hai Yang Shi You 115",
-        "class": "Aframax",
-        "dwt": 118822,
-        "built": 2007,
-        "operator": "CNOOC"
-      },
-      {
         "imo": 9610808,
         "name": "Anatoly Kolodkin",
         "class": "Aframax",
@@ -30803,14 +30180,6 @@
         "dwt": 118175,
         "built": 2013,
         "operator": "Sovcomflot"
-      },
-      {
-        "imo": 8017815,
-        "name": "FPSO Roar",
-        "class": "Aframax",
-        "dwt": 118095,
-        "built": 1981,
-        "operator": "BW"
       },
       {
         "imo": 9305568,
@@ -32061,38 +31430,6 @@
         "dwt": 294192,
         "built": 2025,
         "operator": "Unknown"
-      },
-      {
-        "imo": 9831684,
-        "name": "Coral-Sul Flng",
-        "class": "LNG",
-        "dwt": 220000,
-        "built": 2021,
-        "operator": "ENI"
-      },
-      {
-        "imo": 9915090,
-        "name": "Saam Fsu",
-        "class": "LNG",
-        "dwt": 192237,
-        "built": 2023,
-        "operator": "GTLK Europe"
-      },
-      {
-        "imo": 9915105,
-        "name": "Koryak FSU",
-        "class": "LNG",
-        "dwt": 192072,
-        "built": 2023,
-        "operator": "Novatek"
-      },
-      {
-        "imo": 1045112,
-        "name": "Nguya FLNG",
-        "class": "LNG",
-        "dwt": 185000,
-        "built": 2025,
-        "operator": "ENI"
       },
       {
         "imo": 1107582,
@@ -33845,14 +33182,6 @@
         "dwt": 95400,
         "built": 2023,
         "operator": "Shell"
-      },
-      {
-        "imo": 9771080,
-        "name": "FSRU Seapeak Bahrain",
-        "class": "LNG",
-        "dwt": 95290,
-        "built": 2018,
-        "operator": "Seapeak"
       },
       {
         "imo": 9721401,
@@ -35807,14 +35136,6 @@
         "operator": "Latsco Shipping Limited"
       },
       {
-        "imo": 9629524,
-        "name": "PGN FSRU Lampung",
-        "class": "LNG",
-        "dwt": 92951,
-        "built": 2014,
-        "operator": "Perusahaan Gas Negara"
-      },
-      {
         "imo": 9976135,
         "name": "Kool Tiger",
         "class": "LNG",
@@ -36055,14 +35376,6 @@
         "dwt": 95000,
         "built": 2027,
         "operator": "Eastern Pacific Shipping"
-      },
-      {
-        "imo": 9277462,
-        "name": "Sanha LPG FPSO",
-        "class": "VLGC",
-        "dwt": 93819,
-        "built": 2004,
-        "operator": "Chevron"
       },
       {
         "imo": 1090612,

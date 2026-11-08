@@ -469,7 +469,7 @@ def main():
             if cleaned != content:
                 b_modified += 1
                 if not args.dry_run:
-                    f.write_text(cleaned, encoding="utf-8")
+                    f.write_text(cleaned, encoding="utf-8", newline="\n")
                 for k, v in stats.items():
                     b_stats[k] = b_stats.get(k, 0) + v
         print(f"[{bname:16}] Modified: {b_modified:3}/{len(files):3} files | Details: {b_stats}")

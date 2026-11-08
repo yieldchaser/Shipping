@@ -229,7 +229,7 @@ def run_all():
         stem = os.path.splitext(os.path.basename(p))[0]
         md_text, funds = parse_breakwave_pdf(p, "drybulk")
         target_md = os.path.join(dry_out, f"{stem}.md")
-        with open(target_md, "w", encoding="utf-8") as f:
+        with open(target_md, "w", encoding="utf-8", newline="\n") as f:
             f.write(md_text)
         for fund in funds:
             fund["source_file"] = p.replace("\\", "/")
@@ -242,7 +242,7 @@ def run_all():
         stem = os.path.splitext(os.path.basename(p))[0]
         md_text, funds = parse_breakwave_pdf(p, "tankers")
         target_md = os.path.join(tank_out, f"{stem}.md")
-        with open(target_md, "w", encoding="utf-8") as f:
+        with open(target_md, "w", encoding="utf-8", newline="\n") as f:
             f.write(md_text)
         for fund in funds:
             fund["source_file"] = p.replace("\\", "/")
@@ -254,7 +254,7 @@ def run_all():
     import csv
     if all_funds:
         with open(csv_path, "w", encoding="utf-8", newline="") as f:
-            writer = csv.DictWriter(f, fieldnames=["category", "report_slug", "section", "metric", "ytd", "yoy", "source_file"])
+            writer = csv.DictWriter(f, fieldnames=["category", "report_slug", "section", "metric", "ytd", "yoy", "source_file"], lineterminator="\n")
             writer.writeheader()
             writer.writerows(all_funds)
             

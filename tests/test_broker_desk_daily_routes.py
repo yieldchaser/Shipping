@@ -692,34 +692,36 @@ def test_52w_stats_on_fixture_with_known_values():
     assert st2["low"] == min(v for _, v in in_win2)
 
 
-def test_52w_stats_young_series_honest_n_a():
+def test_52w_stats_young_series_says_under_one_year():
     # A series with < ~300d of history (DRY_CAPESIZE_TCE_CONT_FAR_EAST starts
     # 2024-09-02 but its last-year window covers it fully -> full) vs a truly
-    # young trimmed sample: n/a paths must come from full=False, not crashes.
+    # young trimmed sample: the short-history paths must come from full=False, not crashes.
     young = {"pts": [[1782864000000, 120], [1785542400000, 130], [1788825600000, 125]]}
     st = js_fearn52_compute(young["pts"])
     assert st["full"] is False
     assert st["pos"] is None and st["dd"] is None and st["up"] is None
-    # the strip renders the honest 'n/a' (no em dash) for those cells
+    # the strip says the series is under a year old (no em dash, no 'n/a') for those cells
     html = fearn52_strip_html(st)
-    assert "n/a" in html
+    assert "Under 1 yr" in html and "n/a" not in html
     assert chr(0x2014) not in html
-    # 52W High/Low also degrade to n/a when the year window is not real
-    assert "n/a / n/a" in html
+    # 52W High/Low say the same when the year window is not real
+    assert html.split("|")[0] == "Under 1 yr"
 
 
 def fearn52_strip_html(st):
     """Mirror of index.html fearn52StripHtml structure (labels + values)."""
+    na = "Under 1 yr" if not st["full"] else "No data"
+
     def f(v, signed=False, pct=False):
         if v is None:
-            return "n/a"
+            return "No data"
         s = f"{v:.1f}%" if pct else f"{v:,}"
         return ("+" + s) if (signed and v > 0) else s
-    hl = f"{f(st['high'])} / {f(st['low'])}" if st["full"] else "n/a / n/a"
-    pos = f"{st['pos']:.1f}%" if st["pos"] is not None else "n/a"
-    ytd = f(st["ytd"], True, True) if st["ytd"] is not None else "n/a"
-    up = f(st["up"], True, True) if st["up"] is not None else "n/a"
-    dd = f(st["dd"], True, True) if st["dd"] is not None else "n/a"
+    hl = f"{f(st['high'])} / {f(st['low'])}" if st["full"] else na
+    pos = f"{st['pos']:.1f}%" if st["pos"] is not None else na
+    ytd = f(st["ytd"], True, True)
+    up = f(st["up"], True, True)
+    dd = f(st["dd"], True, True)
     return f"{hl}|{pos}|{ytd}|{up}|{dd}"
 
 
@@ -734,9 +736,9 @@ def test_52w_strip_labels_and_honest_n_a():
     assert len(row) == 5
     assert row[1].endswith("%")
     assert row[2].startswith(("+", "-"))
-    # every value cell numeric or the honest n/a; never an em dash placeholder
+    # every value cell numeric or a plain-words gap; never an em dash or 'n/a' placeholder
     for cell in row:
-        assert cell == "n/a" or cell[0] in "+-0123456789n"
+        assert cell in ("No data", "Under 1 yr") or cell[0] in "+-0123456789"
     # labels exist in index.html for all five tiles with plain-language tooltips
     for label in ["52W High / Low", "52W Position", "YTD %", "From 52W Low", "From 52W High"]:
         assert label in C
@@ -999,13 +1001,13 @@ def test_no_code_speak_in_visible_copy():
     assert "let page = Number(FEARNLEYS_CONTROLLER.snpPage);" in C
     assert "if (!Number.isFinite(page) || page < 1) page = 1;" in C
     # crisis callout speaks human: the stable invariant is the honest
-    # "editorial estimate" attribution in the Red Sea callout region (the
+    # "our estimate" attribution in the Red Sea callout region (the
     # exact sentence copy is free to evolve; the estimate provenance is not).
     # (the attribution sits in daysStr, built on the line before the sentence that prints it)
     callout = re.search(r".{0,400}Red Sea Rerouting Crisis.{0,600}", C, re.S)
     assert callout, "Red Sea crisis callout missing"
-    assert "editorial estimate" in callout.group(0).lower()
-    assert "editorial estimate" in C  # JS-side estimate provenance string too
+    assert "our estimate, not a published figure" in callout.group(0).lower()
+    assert "our estimate" in C  # JS-side estimate provenance string too
 
 # ------------------------------------------------- Slider window regression (user-shipped bug)
 def test_slider_win_defs_case_insensitive_and_total_modes():

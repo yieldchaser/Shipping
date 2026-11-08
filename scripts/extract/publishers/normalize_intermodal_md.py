@@ -1108,7 +1108,7 @@ def normalize_file(src_file: pathlib.Path, dest_file: pathlib.Path) -> bool:
         orig = src_file.read_text(encoding="utf-8", errors="replace")
         cleaned = normalize_markdown(orig, dest_file)
         dest_file.parent.mkdir(parents=True, exist_ok=True)
-        dest_file.write_text(cleaned, encoding="utf-8")
+        dest_file.write_text(cleaned, encoding="utf-8", newline="\n")
         return True
     except Exception as e:
         print(f"Error normalizing {src_file.name}: {e}")

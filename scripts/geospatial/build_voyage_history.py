@@ -324,7 +324,7 @@ def write_packed(out: pd.DataFrame) -> None:
             _txt(r.load_match), ll, _txt(r.load_portid), dl, _txt(r.discharge_portid), _txt(r.discharge_match),
         ])
     OUT_PACKED.write_text(json.dumps({"cols": PACKED_COLS, "vessels": vessels}, separators=(",", ":"),
-                                     ensure_ascii=False), encoding="utf-8")
+                                     ensure_ascii=False), encoding="utf-8", newline="\n")
     logging.info("[ok] %s: %d legs (%d vessels)", OUT_PACKED.name, sum(map(len, vessels.values())), len(vessels))
 
 

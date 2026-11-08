@@ -474,7 +474,7 @@ def run_batch():
             out_dir = f"data/extracted/md/breakwave/{category}/{year}"
             os.makedirs(out_dir, exist_ok=True)
             out_md_path = f"{out_dir}/{stem}.md"
-            with open(out_md_path, "w", encoding="utf-8") as out_f:
+            with open(out_md_path, "w", encoding="utf-8", newline="\n") as out_f:
                 out_f.write(md_content)
                 
             for item in funds:
@@ -511,7 +511,7 @@ def run_batch():
     if existing_map:
         merged_rows = sorted(existing_map.values(), key=lambda x: (str(x.get("issue_date", "")), str(x.get("sector", "")), str(x.get("category", "")), str(x.get("metric", ""))))
         with open(series_path, "w", encoding="utf-8", newline="") as sf:
-            writer = csv.DictWriter(sf, fieldnames=fieldnames)
+            writer = csv.DictWriter(sf, fieldnames=fieldnames, lineterminator="\n")
             writer.writeheader()
             writer.writerows(merged_rows)
         

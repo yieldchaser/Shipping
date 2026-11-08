@@ -138,8 +138,8 @@ def format_book1():
         f"{body}\n"
     )
     
-    p.write_text(doc, encoding="utf-8")
-    Path("knowledge/docs/books/secondhand_bulker_predictability_duru.md").write_text(doc, encoding="utf-8")
+    p.write_text(doc, encoding="utf-8", newline="\n")
+    Path("knowledge/docs/books/secondhand_bulker_predictability_duru.md").write_text(doc, encoding="utf-8", newline="\n")
     print(f"Book 1 formatted and verified: {len(doc)} chars, {len(doc.splitlines())} lines")
 
 if __name__ == "__main__":

@@ -637,7 +637,7 @@ def main():
             # every other freshly scraped series was thrown away each week (2026-10-05 .. 11-01).
             out = Path(sys.argv[sys.argv.index("--rejected-out") + 1])
             rejected = sorted({e[1:e.index("]")] for e in errs if e.startswith("[") and "]" in e})
-            out.write_text("".join(f"data/commodities/{n}\n" for n in rejected if "*" not in n), encoding="utf-8")
+            out.write_text("".join(f"data/commodities/{n}\n" for n in rejected if "*" not in n), encoding="utf-8", newline="\n")
             print(f"Rejected datasets written to {out}: {rejected}")
         sys.exit(1)
     else:

@@ -162,10 +162,10 @@ def run(staging: Path) -> dict[str, int]:
             raise ContinuityError(f"{d}: chart markers left in the MD")
         if demoted:
             cur["data"]["tables"] = [x for x in cur["data"]["tables"] if not any(x is t for t in demoted)]
-            cur["path"].write_text(json.dumps(cur["data"], indent=2, ensure_ascii=False), encoding="utf-8")
-        md_path.write_text(md, encoding="utf-8")
+            cur["path"].write_text(json.dumps(cur["data"], indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
+        md_path.write_text(md, encoding="utf-8", newline="\n")
         val["continuity_ran"] = True
-        val_path.write_text(json.dumps(val, indent=2, ensure_ascii=False), encoding="utf-8")
+        val_path.write_text(json.dumps(val, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
         counts["issues"] += 1
     # an issue without a tables.json (no tables at all) still needs its marker cleanup and the continuity flag
     for vp in sorted((staging / SOURCE).glob("*/*.validation.json")):
@@ -174,9 +174,9 @@ def run(staging: Path) -> dict[str, int]:
             continue
         mdp = vp.with_name(vp.name[: -len(".validation.json")] + ".md")
         if mdp.exists():
-            mdp.write_text(strip_markers(mdp.read_text(encoding="utf-8")), encoding="utf-8")
+            mdp.write_text(strip_markers(mdp.read_text(encoding="utf-8")), encoding="utf-8", newline="\n")
         val["continuity_ran"] = True
-        vp.write_text(json.dumps(val, indent=2, ensure_ascii=False), encoding="utf-8")
+        vp.write_text(json.dumps(val, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
         counts["issues"] += 1
     return counts
 
