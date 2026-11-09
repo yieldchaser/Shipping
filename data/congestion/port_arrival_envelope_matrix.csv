@@ -42,7 +42,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,AUDAM,Dry Bulk,15.0,6.0,22.0,17.25
 2019-10-20,AUDAM,Dry Bulk,17.0,12.0,23.0,17.5
 2019-10-27,AUDAM,Dry Bulk,18.0,13.0,21.0,17.0
-2019-11-03,AUDAM,Dry Bulk,18.0,9.0,24.0,18.5
+2019-11-03,AUDAM,Dry Bulk,18.0,15.0,24.0,19.25
 2019-11-10,AUDAM,Dry Bulk,20.0,16.0,20.0,17.71
 2019-11-17,AUDAM,Dry Bulk,18.0,15.0,22.0,19.0
 2019-11-24,AUDAM,Dry Bulk,14.0,14.0,22.0,18.0
@@ -94,7 +94,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,AUDAM,Dry Bulk,21.0,6.0,22.0,17.25
 2020-10-18,AUDAM,Dry Bulk,20.0,12.0,23.0,17.5
 2020-10-25,AUDAM,Dry Bulk,13.0,13.0,21.0,17.0
-2020-11-01,AUDAM,Dry Bulk,18.0,9.0,24.0,18.5
+2020-11-01,AUDAM,Dry Bulk,18.0,15.0,24.0,19.25
 2020-11-08,AUDAM,Dry Bulk,17.0,16.0,20.0,17.71
 2020-11-15,AUDAM,Dry Bulk,18.0,15.0,22.0,19.0
 2020-11-22,AUDAM,Dry Bulk,15.0,14.0,22.0,18.0
@@ -147,7 +147,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,AUDAM,Dry Bulk,21.0,6.0,22.0,17.25
 2021-10-24,AUDAM,Dry Bulk,12.0,12.0,23.0,17.5
 2021-10-31,AUDAM,Dry Bulk,14.0,13.0,21.0,17.0
-2021-11-07,AUDAM,Dry Bulk,18.0,9.0,24.0,18.5
+2021-11-07,AUDAM,Dry Bulk,18.0,15.0,24.0,19.25
 2021-11-14,AUDAM,Dry Bulk,16.0,16.0,20.0,17.71
 2021-11-21,AUDAM,Dry Bulk,21.0,15.0,22.0,19.0
 2021-11-28,AUDAM,Dry Bulk,21.0,14.0,22.0,18.0
@@ -199,7 +199,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,AUDAM,Dry Bulk,22.0,6.0,22.0,17.25
 2022-10-23,AUDAM,Dry Bulk,14.0,12.0,23.0,17.5
 2022-10-30,AUDAM,Dry Bulk,17.0,13.0,21.0,17.0
-2022-11-06,AUDAM,Dry Bulk,21.0,9.0,24.0,18.5
+2022-11-06,AUDAM,Dry Bulk,21.0,15.0,24.0,19.25
 2022-11-13,AUDAM,Dry Bulk,16.0,16.0,20.0,17.71
 2022-11-20,AUDAM,Dry Bulk,22.0,15.0,22.0,19.0
 2022-11-27,AUDAM,Dry Bulk,15.0,14.0,22.0,18.0
@@ -251,7 +251,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,AUDAM,Dry Bulk,17.0,6.0,22.0,17.25
 2023-10-22,AUDAM,Dry Bulk,18.0,12.0,23.0,17.5
 2023-10-29,AUDAM,Dry Bulk,17.0,13.0,21.0,17.0
-2023-11-05,AUDAM,Dry Bulk,19.0,9.0,24.0,18.5
+2023-11-05,AUDAM,Dry Bulk,19.0,15.0,24.0,19.25
 2023-11-12,AUDAM,Dry Bulk,17.0,16.0,20.0,17.71
 2023-11-19,AUDAM,Dry Bulk,18.0,15.0,22.0,19.0
 2023-11-26,AUDAM,Dry Bulk,22.0,14.0,22.0,18.0
@@ -303,7 +303,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,AUDAM,Dry Bulk,16.0,6.0,22.0,17.25
 2024-10-20,AUDAM,Dry Bulk,17.0,12.0,23.0,17.5
 2024-10-27,AUDAM,Dry Bulk,16.0,13.0,21.0,17.0
-2024-11-03,AUDAM,Dry Bulk,24.0,9.0,24.0,18.5
+2024-11-03,AUDAM,Dry Bulk,24.0,15.0,24.0,19.25
 2024-11-10,AUDAM,Dry Bulk,19.0,16.0,20.0,17.71
 2024-11-17,AUDAM,Dry Bulk,15.0,15.0,22.0,19.0
 2024-11-24,AUDAM,Dry Bulk,21.0,14.0,22.0,18.0
@@ -355,7 +355,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,AUDAM,Dry Bulk,20.0,6.0,22.0,17.25
 2025-10-19,AUDAM,Dry Bulk,23.0,12.0,23.0,17.5
 2025-10-26,AUDAM,Dry Bulk,21.0,13.0,21.0,17.0
-2025-11-02,AUDAM,Dry Bulk,21.0,9.0,24.0,18.5
+2025-11-02,AUDAM,Dry Bulk,21.0,15.0,24.0,19.25
 2025-11-09,AUDAM,Dry Bulk,19.0,16.0,20.0,17.71
 2025-11-16,AUDAM,Dry Bulk,21.0,15.0,22.0,19.0
 2025-11-23,AUDAM,Dry Bulk,18.0,14.0,22.0,18.0
@@ -407,7 +407,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,AUDAM,Dry Bulk,6.0,6.0,22.0,17.25
 2026-10-18,AUDAM,Dry Bulk,19.0,12.0,23.0,17.5
 2026-10-25,AUDAM,Dry Bulk,20.0,13.0,21.0,17.0
-2026-11-01,AUDAM,Dry Bulk,9.0,9.0,24.0,18.5
+2026-11-01,AUDAM,Dry Bulk,15.0,15.0,24.0,19.25
 2019-01-06,AUGLT,Dry Bulk,17.0,17.0,30.0,24.12
 2019-01-13,AUGLT,Dry Bulk,23.0,19.0,26.0,22.25
 2019-01-20,AUGLT,Dry Bulk,25.0,21.0,28.0,24.0
@@ -451,7 +451,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,AUGLT,Dry Bulk,22.0,5.0,24.0,20.0
 2019-10-20,AUGLT,Dry Bulk,21.0,18.0,24.0,22.12
 2019-10-27,AUGLT,Dry Bulk,26.0,17.0,26.0,22.5
-2019-11-03,AUGLT,Dry Bulk,24.0,7.0,30.0,23.0
+2019-11-03,AUGLT,Dry Bulk,24.0,18.0,30.0,24.38
 2019-11-10,AUGLT,Dry Bulk,22.0,22.0,28.0,25.71
 2019-11-17,AUGLT,Dry Bulk,27.0,21.0,28.0,24.86
 2019-11-24,AUGLT,Dry Bulk,19.0,19.0,26.0,22.0
@@ -503,7 +503,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,AUGLT,Dry Bulk,24.0,5.0,24.0,20.0
 2020-10-18,AUGLT,Dry Bulk,22.0,18.0,24.0,22.12
 2020-10-25,AUGLT,Dry Bulk,23.0,17.0,26.0,22.5
-2020-11-01,AUGLT,Dry Bulk,21.0,7.0,30.0,23.0
+2020-11-01,AUGLT,Dry Bulk,21.0,18.0,30.0,24.38
 2020-11-08,AUGLT,Dry Bulk,27.0,22.0,28.0,25.71
 2020-11-15,AUGLT,Dry Bulk,25.0,21.0,28.0,24.86
 2020-11-22,AUGLT,Dry Bulk,26.0,19.0,26.0,22.0
@@ -556,7 +556,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,AUGLT,Dry Bulk,18.0,5.0,24.0,20.0
 2021-10-24,AUGLT,Dry Bulk,24.0,18.0,24.0,22.12
 2021-10-31,AUGLT,Dry Bulk,17.0,17.0,26.0,22.5
-2021-11-07,AUGLT,Dry Bulk,30.0,7.0,30.0,23.0
+2021-11-07,AUGLT,Dry Bulk,30.0,18.0,30.0,24.38
 2021-11-14,AUGLT,Dry Bulk,26.0,22.0,28.0,25.71
 2021-11-21,AUGLT,Dry Bulk,22.0,21.0,28.0,24.86
 2021-11-28,AUGLT,Dry Bulk,21.0,19.0,26.0,22.0
@@ -608,7 +608,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,AUGLT,Dry Bulk,24.0,5.0,24.0,20.0
 2022-10-23,AUGLT,Dry Bulk,18.0,18.0,24.0,22.12
 2022-10-30,AUGLT,Dry Bulk,22.0,17.0,26.0,22.5
-2022-11-06,AUGLT,Dry Bulk,28.0,7.0,30.0,23.0
+2022-11-06,AUGLT,Dry Bulk,28.0,18.0,30.0,24.38
 2022-11-13,AUGLT,Dry Bulk,28.0,22.0,28.0,25.71
 2022-11-20,AUGLT,Dry Bulk,21.0,21.0,28.0,24.86
 2022-11-27,AUGLT,Dry Bulk,20.0,19.0,26.0,22.0
@@ -660,7 +660,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,AUGLT,Dry Bulk,22.0,5.0,24.0,20.0
 2023-10-22,AUGLT,Dry Bulk,23.0,18.0,24.0,22.12
 2023-10-29,AUGLT,Dry Bulk,25.0,17.0,26.0,22.5
-2023-11-05,AUGLT,Dry Bulk,24.0,7.0,30.0,23.0
+2023-11-05,AUGLT,Dry Bulk,24.0,18.0,30.0,24.38
 2023-11-12,AUGLT,Dry Bulk,25.0,22.0,28.0,25.71
 2023-11-19,AUGLT,Dry Bulk,24.0,21.0,28.0,24.86
 2023-11-26,AUGLT,Dry Bulk,20.0,19.0,26.0,22.0
@@ -712,7 +712,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,AUGLT,Dry Bulk,22.0,5.0,24.0,20.0
 2024-10-20,AUGLT,Dry Bulk,24.0,18.0,24.0,22.12
 2024-10-27,AUGLT,Dry Bulk,24.0,17.0,26.0,22.5
-2024-11-03,AUGLT,Dry Bulk,27.0,7.0,30.0,23.0
+2024-11-03,AUGLT,Dry Bulk,27.0,18.0,30.0,24.38
 2024-11-10,AUGLT,Dry Bulk,28.0,22.0,28.0,25.71
 2024-11-17,AUGLT,Dry Bulk,28.0,21.0,28.0,24.86
 2024-11-24,AUGLT,Dry Bulk,24.0,19.0,26.0,22.0
@@ -764,7 +764,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,AUGLT,Dry Bulk,23.0,5.0,24.0,20.0
 2025-10-19,AUGLT,Dry Bulk,23.0,18.0,24.0,22.12
 2025-10-26,AUGLT,Dry Bulk,19.0,17.0,26.0,22.5
-2025-11-02,AUGLT,Dry Bulk,23.0,7.0,30.0,23.0
+2025-11-02,AUGLT,Dry Bulk,23.0,18.0,30.0,24.38
 2025-11-09,AUGLT,Dry Bulk,24.0,22.0,28.0,25.71
 2025-11-16,AUGLT,Dry Bulk,27.0,21.0,28.0,24.86
 2025-11-23,AUGLT,Dry Bulk,24.0,19.0,26.0,22.0
@@ -816,7 +816,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,AUGLT,Dry Bulk,5.0,5.0,24.0,20.0
 2026-10-18,AUGLT,Dry Bulk,22.0,18.0,24.0,22.12
 2026-10-25,AUGLT,Dry Bulk,24.0,17.0,26.0,22.5
-2026-11-01,AUGLT,Dry Bulk,7.0,7.0,30.0,23.0
+2026-11-01,AUGLT,Dry Bulk,18.0,18.0,30.0,24.38
 2019-01-06,AUHPT,Dry Bulk,22.0,14.0,26.0,20.88
 2019-01-13,AUHPT,Dry Bulk,23.0,2.0,25.0,17.62
 2019-01-20,AUHPT,Dry Bulk,20.0,12.0,21.0,17.25
@@ -860,7 +860,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,AUHPT,Dry Bulk,21.0,15.0,22.0,19.75
 2019-10-20,AUHPT,Dry Bulk,21.0,11.0,22.0,18.25
 2019-10-27,AUHPT,Dry Bulk,20.0,15.0,22.0,18.38
-2019-11-03,AUHPT,Dry Bulk,19.0,6.0,23.0,16.12
+2019-11-03,AUHPT,Dry Bulk,19.0,8.0,23.0,16.38
 2019-11-10,AUHPT,Dry Bulk,23.0,16.0,25.0,21.0
 2019-11-17,AUHPT,Dry Bulk,18.0,17.0,25.0,21.0
 2019-11-24,AUHPT,Dry Bulk,22.0,20.0,24.0,22.14
@@ -912,7 +912,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,AUHPT,Dry Bulk,22.0,15.0,22.0,19.75
 2020-10-18,AUHPT,Dry Bulk,20.0,11.0,22.0,18.25
 2020-10-25,AUHPT,Dry Bulk,15.0,15.0,22.0,18.38
-2020-11-01,AUHPT,Dry Bulk,15.0,6.0,23.0,16.12
+2020-11-01,AUHPT,Dry Bulk,15.0,8.0,23.0,16.38
 2020-11-08,AUHPT,Dry Bulk,16.0,16.0,25.0,21.0
 2020-11-15,AUHPT,Dry Bulk,23.0,17.0,25.0,21.0
 2020-11-22,AUHPT,Dry Bulk,20.0,20.0,24.0,22.14
@@ -965,7 +965,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,AUHPT,Dry Bulk,19.0,15.0,22.0,19.75
 2021-10-24,AUHPT,Dry Bulk,22.0,11.0,22.0,18.25
 2021-10-31,AUHPT,Dry Bulk,22.0,15.0,22.0,18.38
-2021-11-07,AUHPT,Dry Bulk,20.0,6.0,23.0,16.12
+2021-11-07,AUHPT,Dry Bulk,20.0,8.0,23.0,16.38
 2021-11-14,AUHPT,Dry Bulk,17.0,16.0,25.0,21.0
 2021-11-21,AUHPT,Dry Bulk,23.0,17.0,25.0,21.0
 2021-11-28,AUHPT,Dry Bulk,24.0,20.0,24.0,22.14
@@ -1017,7 +1017,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,AUHPT,Dry Bulk,21.0,15.0,22.0,19.75
 2022-10-23,AUHPT,Dry Bulk,16.0,11.0,22.0,18.25
 2022-10-30,AUHPT,Dry Bulk,19.0,15.0,22.0,18.38
-2022-11-06,AUHPT,Dry Bulk,19.0,6.0,23.0,16.12
+2022-11-06,AUHPT,Dry Bulk,19.0,8.0,23.0,16.38
 2022-11-13,AUHPT,Dry Bulk,19.0,16.0,25.0,21.0
 2022-11-20,AUHPT,Dry Bulk,25.0,17.0,25.0,21.0
 2022-11-27,AUHPT,Dry Bulk,23.0,20.0,24.0,22.14
@@ -1069,7 +1069,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,AUHPT,Dry Bulk,19.0,15.0,22.0,19.75
 2023-10-22,AUHPT,Dry Bulk,17.0,11.0,22.0,18.25
 2023-10-29,AUHPT,Dry Bulk,15.0,15.0,22.0,18.38
-2023-11-05,AUHPT,Dry Bulk,23.0,6.0,23.0,16.12
+2023-11-05,AUHPT,Dry Bulk,23.0,8.0,23.0,16.38
 2023-11-12,AUHPT,Dry Bulk,24.0,16.0,25.0,21.0
 2023-11-19,AUHPT,Dry Bulk,20.0,17.0,25.0,21.0
 2023-11-26,AUHPT,Dry Bulk,21.0,20.0,24.0,22.14
@@ -1121,7 +1121,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,AUHPT,Dry Bulk,21.0,15.0,22.0,19.75
 2024-10-20,AUHPT,Dry Bulk,19.0,11.0,22.0,18.25
 2024-10-27,AUHPT,Dry Bulk,22.0,15.0,22.0,18.38
-2024-11-03,AUHPT,Dry Bulk,9.0,6.0,23.0,16.12
+2024-11-03,AUHPT,Dry Bulk,9.0,8.0,23.0,16.38
 2024-11-10,AUHPT,Dry Bulk,23.0,16.0,25.0,21.0
 2024-11-17,AUHPT,Dry Bulk,17.0,17.0,25.0,21.0
 2024-11-24,AUHPT,Dry Bulk,24.0,20.0,24.0,22.14
@@ -1173,7 +1173,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,AUHPT,Dry Bulk,20.0,15.0,22.0,19.75
 2025-10-19,AUHPT,Dry Bulk,20.0,11.0,22.0,18.25
 2025-10-26,AUHPT,Dry Bulk,17.0,15.0,22.0,18.38
-2025-11-02,AUHPT,Dry Bulk,18.0,6.0,23.0,16.12
+2025-11-02,AUHPT,Dry Bulk,18.0,8.0,23.0,16.38
 2025-11-09,AUHPT,Dry Bulk,25.0,16.0,25.0,21.0
 2025-11-16,AUHPT,Dry Bulk,21.0,17.0,25.0,21.0
 2025-11-23,AUHPT,Dry Bulk,21.0,20.0,24.0,22.14
@@ -1225,7 +1225,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,AUHPT,Dry Bulk,15.0,15.0,22.0,19.75
 2026-10-18,AUHPT,Dry Bulk,11.0,11.0,22.0,18.25
 2026-10-25,AUHPT,Dry Bulk,17.0,15.0,22.0,18.38
-2026-11-01,AUHPT,Dry Bulk,6.0,6.0,23.0,16.12
+2026-11-01,AUHPT,Dry Bulk,8.0,8.0,23.0,16.38
 2019-01-06,AUNCL,Dry Bulk,30.0,23.0,45.0,36.5
 2019-01-13,AUNCL,Dry Bulk,40.0,34.0,46.0,39.12
 2019-01-20,AUNCL,Dry Bulk,30.0,24.0,38.0,32.25
@@ -1269,7 +1269,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,AUNCL,Dry Bulk,36.0,13.0,43.0,36.12
 2019-10-20,AUNCL,Dry Bulk,45.0,34.0,46.0,39.38
 2019-10-27,AUNCL,Dry Bulk,36.0,30.0,45.0,38.12
-2019-11-03,AUNCL,Dry Bulk,32.0,16.0,41.0,32.5
+2019-11-03,AUNCL,Dry Bulk,32.0,26.0,41.0,33.88
 2019-11-10,AUNCL,Dry Bulk,35.0,32.0,42.0,37.71
 2019-11-17,AUNCL,Dry Bulk,38.0,32.0,44.0,38.71
 2019-11-24,AUNCL,Dry Bulk,29.0,25.0,41.0,32.57
@@ -1321,7 +1321,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,AUNCL,Dry Bulk,39.0,13.0,43.0,36.12
 2020-10-18,AUNCL,Dry Bulk,38.0,34.0,46.0,39.38
 2020-10-25,AUNCL,Dry Bulk,34.0,30.0,45.0,38.12
-2020-11-01,AUNCL,Dry Bulk,28.0,16.0,41.0,32.5
+2020-11-01,AUNCL,Dry Bulk,28.0,26.0,41.0,33.88
 2020-11-08,AUNCL,Dry Bulk,33.0,32.0,42.0,37.71
 2020-11-15,AUNCL,Dry Bulk,35.0,32.0,44.0,38.71
 2020-11-22,AUNCL,Dry Bulk,30.0,25.0,41.0,32.57
@@ -1374,7 +1374,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,AUNCL,Dry Bulk,43.0,13.0,43.0,36.12
 2021-10-24,AUNCL,Dry Bulk,44.0,34.0,46.0,39.38
 2021-10-31,AUNCL,Dry Bulk,45.0,30.0,45.0,38.12
-2021-11-07,AUNCL,Dry Bulk,41.0,16.0,41.0,32.5
+2021-11-07,AUNCL,Dry Bulk,41.0,26.0,41.0,33.88
 2021-11-14,AUNCL,Dry Bulk,42.0,32.0,42.0,37.71
 2021-11-21,AUNCL,Dry Bulk,38.0,32.0,44.0,38.71
 2021-11-28,AUNCL,Dry Bulk,29.0,25.0,41.0,32.57
@@ -1426,7 +1426,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,AUNCL,Dry Bulk,40.0,13.0,43.0,36.12
 2022-10-23,AUNCL,Dry Bulk,35.0,34.0,46.0,39.38
 2022-10-30,AUNCL,Dry Bulk,30.0,30.0,45.0,38.12
-2022-11-06,AUNCL,Dry Bulk,26.0,16.0,41.0,32.5
+2022-11-06,AUNCL,Dry Bulk,26.0,26.0,41.0,33.88
 2022-11-13,AUNCL,Dry Bulk,32.0,32.0,42.0,37.71
 2022-11-20,AUNCL,Dry Bulk,32.0,32.0,44.0,38.71
 2022-11-27,AUNCL,Dry Bulk,38.0,25.0,41.0,32.57
@@ -1478,7 +1478,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,AUNCL,Dry Bulk,35.0,13.0,43.0,36.12
 2023-10-22,AUNCL,Dry Bulk,34.0,34.0,46.0,39.38
 2023-10-29,AUNCL,Dry Bulk,36.0,30.0,45.0,38.12
-2023-11-05,AUNCL,Dry Bulk,41.0,16.0,41.0,32.5
+2023-11-05,AUNCL,Dry Bulk,41.0,26.0,41.0,33.88
 2023-11-12,AUNCL,Dry Bulk,41.0,32.0,42.0,37.71
 2023-11-19,AUNCL,Dry Bulk,41.0,32.0,44.0,38.71
 2023-11-26,AUNCL,Dry Bulk,25.0,25.0,41.0,32.57
@@ -1530,7 +1530,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,AUNCL,Dry Bulk,41.0,13.0,43.0,36.12
 2024-10-20,AUNCL,Dry Bulk,36.0,34.0,46.0,39.38
 2024-10-27,AUNCL,Dry Bulk,41.0,30.0,45.0,38.12
-2024-11-03,AUNCL,Dry Bulk,37.0,16.0,41.0,32.5
+2024-11-03,AUNCL,Dry Bulk,37.0,26.0,41.0,33.88
 2024-11-10,AUNCL,Dry Bulk,39.0,32.0,42.0,37.71
 2024-11-17,AUNCL,Dry Bulk,43.0,32.0,44.0,38.71
 2024-11-24,AUNCL,Dry Bulk,36.0,25.0,41.0,32.57
@@ -1582,7 +1582,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,AUNCL,Dry Bulk,42.0,13.0,43.0,36.12
 2025-10-19,AUNCL,Dry Bulk,46.0,34.0,46.0,39.38
 2025-10-26,AUNCL,Dry Bulk,44.0,30.0,45.0,38.12
-2025-11-02,AUNCL,Dry Bulk,39.0,16.0,41.0,32.5
+2025-11-02,AUNCL,Dry Bulk,39.0,26.0,41.0,33.88
 2025-11-09,AUNCL,Dry Bulk,42.0,32.0,42.0,37.71
 2025-11-16,AUNCL,Dry Bulk,44.0,32.0,44.0,38.71
 2025-11-23,AUNCL,Dry Bulk,41.0,25.0,41.0,32.57
@@ -1634,7 +1634,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,AUNCL,Dry Bulk,13.0,13.0,43.0,36.12
 2026-10-18,AUNCL,Dry Bulk,37.0,34.0,46.0,39.38
 2026-10-25,AUNCL,Dry Bulk,39.0,30.0,45.0,38.12
-2026-11-01,AUNCL,Dry Bulk,16.0,16.0,41.0,32.5
+2026-11-01,AUNCL,Dry Bulk,27.0,26.0,41.0,33.88
 2019-01-06,AUPHE,Dry Bulk,42.0,42.0,67.0,57.38
 2019-01-13,AUPHE,Dry Bulk,55.0,53.0,65.0,59.25
 2019-01-20,AUPHE,Dry Bulk,52.0,43.0,61.0,52.75
@@ -1678,7 +1678,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,AUPHE,Dry Bulk,54.0,15.0,70.0,55.0
 2019-10-20,AUPHE,Dry Bulk,52.0,52.0,64.0,58.5
 2019-10-27,AUPHE,Dry Bulk,51.0,51.0,65.0,58.12
-2019-11-03,AUPHE,Dry Bulk,50.0,18.0,62.0,52.25
+2019-11-03,AUPHE,Dry Bulk,50.0,30.0,62.0,53.75
 2019-11-10,AUPHE,Dry Bulk,55.0,47.0,67.0,57.71
 2019-11-17,AUPHE,Dry Bulk,59.0,49.0,69.0,59.43
 2019-11-24,AUPHE,Dry Bulk,56.0,54.0,66.0,60.0
@@ -1730,7 +1730,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,AUPHE,Dry Bulk,58.0,15.0,70.0,55.0
 2020-10-18,AUPHE,Dry Bulk,56.0,52.0,64.0,58.5
 2020-10-25,AUPHE,Dry Bulk,57.0,51.0,65.0,58.12
-2020-11-01,AUPHE,Dry Bulk,60.0,18.0,62.0,52.25
+2020-11-01,AUPHE,Dry Bulk,60.0,30.0,62.0,53.75
 2020-11-08,AUPHE,Dry Bulk,47.0,47.0,67.0,57.71
 2020-11-15,AUPHE,Dry Bulk,49.0,49.0,69.0,59.43
 2020-11-22,AUPHE,Dry Bulk,54.0,54.0,66.0,60.0
@@ -1783,7 +1783,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,AUPHE,Dry Bulk,60.0,15.0,70.0,55.0
 2021-10-24,AUPHE,Dry Bulk,59.0,52.0,64.0,58.5
 2021-10-31,AUPHE,Dry Bulk,65.0,51.0,65.0,58.12
-2021-11-07,AUPHE,Dry Bulk,54.0,18.0,62.0,52.25
+2021-11-07,AUPHE,Dry Bulk,54.0,30.0,62.0,53.75
 2021-11-14,AUPHE,Dry Bulk,56.0,47.0,67.0,57.71
 2021-11-21,AUPHE,Dry Bulk,57.0,49.0,69.0,59.43
 2021-11-28,AUPHE,Dry Bulk,62.0,54.0,66.0,60.0
@@ -1835,7 +1835,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,AUPHE,Dry Bulk,57.0,15.0,70.0,55.0
 2022-10-23,AUPHE,Dry Bulk,60.0,52.0,64.0,58.5
 2022-10-30,AUPHE,Dry Bulk,62.0,51.0,65.0,58.12
-2022-11-06,AUPHE,Dry Bulk,60.0,18.0,62.0,52.25
+2022-11-06,AUPHE,Dry Bulk,60.0,30.0,62.0,53.75
 2022-11-13,AUPHE,Dry Bulk,55.0,47.0,67.0,57.71
 2022-11-20,AUPHE,Dry Bulk,61.0,49.0,69.0,59.43
 2022-11-27,AUPHE,Dry Bulk,66.0,54.0,66.0,60.0
@@ -1887,7 +1887,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,AUPHE,Dry Bulk,70.0,15.0,70.0,55.0
 2023-10-22,AUPHE,Dry Bulk,58.0,52.0,64.0,58.5
 2023-10-29,AUPHE,Dry Bulk,51.0,51.0,65.0,58.12
-2023-11-05,AUPHE,Dry Bulk,62.0,18.0,62.0,52.25
+2023-11-05,AUPHE,Dry Bulk,62.0,30.0,62.0,53.75
 2023-11-12,AUPHE,Dry Bulk,59.0,47.0,67.0,57.71
 2023-11-19,AUPHE,Dry Bulk,69.0,49.0,69.0,59.43
 2023-11-26,AUPHE,Dry Bulk,58.0,54.0,66.0,60.0
@@ -1939,7 +1939,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,AUPHE,Dry Bulk,62.0,15.0,70.0,55.0
 2024-10-20,AUPHE,Dry Bulk,59.0,52.0,64.0,58.5
 2024-10-27,AUPHE,Dry Bulk,62.0,51.0,65.0,58.12
-2024-11-03,AUPHE,Dry Bulk,57.0,18.0,62.0,52.25
+2024-11-03,AUPHE,Dry Bulk,57.0,30.0,62.0,53.75
 2024-11-10,AUPHE,Dry Bulk,65.0,47.0,67.0,57.71
 2024-11-17,AUPHE,Dry Bulk,59.0,49.0,69.0,59.43
 2024-11-24,AUPHE,Dry Bulk,59.0,54.0,66.0,60.0
@@ -1991,7 +1991,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,AUPHE,Dry Bulk,64.0,15.0,70.0,55.0
 2025-10-19,AUPHE,Dry Bulk,64.0,52.0,64.0,58.5
 2025-10-26,AUPHE,Dry Bulk,57.0,51.0,65.0,58.12
-2025-11-02,AUPHE,Dry Bulk,57.0,18.0,62.0,52.25
+2025-11-02,AUPHE,Dry Bulk,57.0,30.0,62.0,53.75
 2025-11-09,AUPHE,Dry Bulk,67.0,47.0,67.0,57.71
 2025-11-16,AUPHE,Dry Bulk,62.0,49.0,69.0,59.43
 2025-11-23,AUPHE,Dry Bulk,65.0,54.0,66.0,60.0
@@ -2043,7 +2043,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,AUPHE,Dry Bulk,15.0,15.0,70.0,55.0
 2026-10-18,AUPHE,Dry Bulk,60.0,52.0,64.0,58.5
 2026-10-25,AUPHE,Dry Bulk,60.0,51.0,65.0,58.12
-2026-11-01,AUPHE,Dry Bulk,18.0,18.0,62.0,52.25
+2026-11-01,AUPHE,Dry Bulk,30.0,30.0,62.0,53.75
 2019-01-06,BRPMD,Dry Bulk,19.0,16.0,28.0,21.5
 2019-01-13,BRPMD,Dry Bulk,20.0,18.0,28.0,21.75
 2019-01-20,BRPMD,Dry Bulk,25.0,15.0,25.0,20.88
@@ -2087,7 +2087,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,BRPMD,Dry Bulk,26.0,6.0,36.0,26.38
 2019-10-20,BRPMD,Dry Bulk,29.0,26.0,34.0,29.12
 2019-10-27,BRPMD,Dry Bulk,29.0,23.0,36.0,29.12
-2019-11-03,BRPMD,Dry Bulk,31.0,10.0,34.0,27.12
+2019-11-03,BRPMD,Dry Bulk,31.0,17.0,34.0,28.0
 2019-11-10,BRPMD,Dry Bulk,30.0,27.0,32.0,29.43
 2019-11-17,BRPMD,Dry Bulk,31.0,26.0,31.0,28.57
 2019-11-24,BRPMD,Dry Bulk,23.0,22.0,37.0,27.86
@@ -2139,7 +2139,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,BRPMD,Dry Bulk,36.0,6.0,36.0,26.38
 2020-10-18,BRPMD,Dry Bulk,31.0,26.0,34.0,29.12
 2020-10-25,BRPMD,Dry Bulk,31.0,23.0,36.0,29.12
-2020-11-01,BRPMD,Dry Bulk,34.0,10.0,34.0,27.12
+2020-11-01,BRPMD,Dry Bulk,34.0,17.0,34.0,28.0
 2020-11-08,BRPMD,Dry Bulk,30.0,27.0,32.0,29.43
 2020-11-15,BRPMD,Dry Bulk,28.0,26.0,31.0,28.57
 2020-11-22,BRPMD,Dry Bulk,27.0,22.0,37.0,27.86
@@ -2192,7 +2192,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,BRPMD,Dry Bulk,27.0,6.0,36.0,26.38
 2021-10-24,BRPMD,Dry Bulk,28.0,26.0,34.0,29.12
 2021-10-31,BRPMD,Dry Bulk,23.0,23.0,36.0,29.12
-2021-11-07,BRPMD,Dry Bulk,29.0,10.0,34.0,27.12
+2021-11-07,BRPMD,Dry Bulk,29.0,17.0,34.0,28.0
 2021-11-14,BRPMD,Dry Bulk,30.0,27.0,32.0,29.43
 2021-11-21,BRPMD,Dry Bulk,30.0,26.0,31.0,28.57
 2021-11-28,BRPMD,Dry Bulk,31.0,22.0,37.0,27.86
@@ -2244,7 +2244,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,BRPMD,Dry Bulk,25.0,6.0,36.0,26.38
 2022-10-23,BRPMD,Dry Bulk,29.0,26.0,34.0,29.12
 2022-10-30,BRPMD,Dry Bulk,29.0,23.0,36.0,29.12
-2022-11-06,BRPMD,Dry Bulk,21.0,10.0,34.0,27.12
+2022-11-06,BRPMD,Dry Bulk,21.0,17.0,34.0,28.0
 2022-11-13,BRPMD,Dry Bulk,27.0,27.0,32.0,29.43
 2022-11-20,BRPMD,Dry Bulk,26.0,26.0,31.0,28.57
 2022-11-27,BRPMD,Dry Bulk,22.0,22.0,37.0,27.86
@@ -2296,7 +2296,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,BRPMD,Dry Bulk,28.0,6.0,36.0,26.38
 2023-10-22,BRPMD,Dry Bulk,30.0,26.0,34.0,29.12
 2023-10-29,BRPMD,Dry Bulk,36.0,23.0,36.0,29.12
-2023-11-05,BRPMD,Dry Bulk,32.0,10.0,34.0,27.12
+2023-11-05,BRPMD,Dry Bulk,32.0,17.0,34.0,28.0
 2023-11-12,BRPMD,Dry Bulk,27.0,27.0,32.0,29.43
 2023-11-19,BRPMD,Dry Bulk,26.0,26.0,31.0,28.57
 2023-11-26,BRPMD,Dry Bulk,27.0,22.0,37.0,27.86
@@ -2348,7 +2348,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,BRPMD,Dry Bulk,31.0,6.0,36.0,26.38
 2024-10-20,BRPMD,Dry Bulk,26.0,26.0,34.0,29.12
 2024-10-27,BRPMD,Dry Bulk,29.0,23.0,36.0,29.12
-2024-11-03,BRPMD,Dry Bulk,30.0,10.0,34.0,27.12
+2024-11-03,BRPMD,Dry Bulk,30.0,17.0,34.0,28.0
 2024-11-10,BRPMD,Dry Bulk,32.0,27.0,32.0,29.43
 2024-11-17,BRPMD,Dry Bulk,31.0,26.0,31.0,28.57
 2024-11-24,BRPMD,Dry Bulk,37.0,22.0,37.0,27.86
@@ -2400,7 +2400,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,BRPMD,Dry Bulk,32.0,6.0,36.0,26.38
 2025-10-19,BRPMD,Dry Bulk,34.0,26.0,34.0,29.12
 2025-10-26,BRPMD,Dry Bulk,30.0,23.0,36.0,29.12
-2025-11-02,BRPMD,Dry Bulk,30.0,10.0,34.0,27.12
+2025-11-02,BRPMD,Dry Bulk,30.0,17.0,34.0,28.0
 2025-11-09,BRPMD,Dry Bulk,30.0,27.0,32.0,29.43
 2025-11-16,BRPMD,Dry Bulk,28.0,26.0,31.0,28.57
 2025-11-23,BRPMD,Dry Bulk,28.0,22.0,37.0,27.86
@@ -2452,7 +2452,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,BRPMD,Dry Bulk,6.0,6.0,36.0,26.38
 2026-10-18,BRPMD,Dry Bulk,26.0,26.0,34.0,29.12
 2026-10-25,BRPMD,Dry Bulk,26.0,23.0,36.0,29.12
-2026-11-01,BRPMD,Dry Bulk,10.0,10.0,34.0,27.12
+2026-11-01,BRPMD,Dry Bulk,17.0,17.0,34.0,28.0
 2019-01-06,BRSSZ,Dry Bulk,24.0,14.0,31.0,23.25
 2019-01-13,BRSSZ,Dry Bulk,23.0,16.0,28.0,22.0
 2019-01-20,BRSSZ,Dry Bulk,26.0,17.0,31.0,26.0
@@ -2496,7 +2496,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,BRSSZ,Dry Bulk,27.0,15.0,41.0,30.62
 2019-10-20,BRSSZ,Dry Bulk,42.0,23.0,43.0,35.75
 2019-10-27,BRSSZ,Dry Bulk,36.0,34.0,45.0,38.62
-2019-11-03,BRSSZ,Dry Bulk,35.0,17.0,42.0,30.5
+2019-11-03,BRSSZ,Dry Bulk,35.0,23.0,42.0,31.25
 2019-11-10,BRSSZ,Dry Bulk,20.0,20.0,43.0,32.29
 2019-11-17,BRSSZ,Dry Bulk,29.0,29.0,50.0,37.29
 2019-11-24,BRSSZ,Dry Bulk,34.0,22.0,37.0,32.43
@@ -2548,7 +2548,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,BRSSZ,Dry Bulk,28.0,15.0,41.0,30.62
 2020-10-18,BRSSZ,Dry Bulk,38.0,23.0,43.0,35.75
 2020-10-25,BRSSZ,Dry Bulk,39.0,34.0,45.0,38.62
-2020-11-01,BRSSZ,Dry Bulk,23.0,17.0,42.0,30.5
+2020-11-01,BRSSZ,Dry Bulk,23.0,23.0,42.0,31.25
 2020-11-08,BRSSZ,Dry Bulk,34.0,20.0,43.0,32.29
 2020-11-15,BRSSZ,Dry Bulk,31.0,29.0,50.0,37.29
 2020-11-22,BRSSZ,Dry Bulk,22.0,22.0,37.0,32.43
@@ -2601,7 +2601,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,BRSSZ,Dry Bulk,34.0,15.0,41.0,30.62
 2021-10-24,BRSSZ,Dry Bulk,23.0,23.0,43.0,35.75
 2021-10-31,BRSSZ,Dry Bulk,34.0,34.0,45.0,38.62
-2021-11-07,BRSSZ,Dry Bulk,29.0,17.0,42.0,30.5
+2021-11-07,BRSSZ,Dry Bulk,29.0,23.0,42.0,31.25
 2021-11-14,BRSSZ,Dry Bulk,29.0,20.0,43.0,32.29
 2021-11-21,BRSSZ,Dry Bulk,29.0,29.0,50.0,37.29
 2021-11-28,BRSSZ,Dry Bulk,37.0,22.0,37.0,32.43
@@ -2653,7 +2653,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,BRSSZ,Dry Bulk,41.0,15.0,41.0,30.62
 2022-10-23,BRSSZ,Dry Bulk,39.0,23.0,43.0,35.75
 2022-10-30,BRSSZ,Dry Bulk,36.0,34.0,45.0,38.62
-2022-11-06,BRSSZ,Dry Bulk,24.0,17.0,42.0,30.5
+2022-11-06,BRSSZ,Dry Bulk,24.0,23.0,42.0,31.25
 2022-11-13,BRSSZ,Dry Bulk,37.0,20.0,43.0,32.29
 2022-11-20,BRSSZ,Dry Bulk,42.0,29.0,50.0,37.29
 2022-11-27,BRSSZ,Dry Bulk,29.0,22.0,37.0,32.43
@@ -2705,7 +2705,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,BRSSZ,Dry Bulk,28.0,15.0,41.0,30.62
 2023-10-22,BRSSZ,Dry Bulk,31.0,23.0,43.0,35.75
 2023-10-29,BRSSZ,Dry Bulk,43.0,34.0,45.0,38.62
-2023-11-05,BRSSZ,Dry Bulk,42.0,17.0,42.0,30.5
+2023-11-05,BRSSZ,Dry Bulk,42.0,23.0,42.0,31.25
 2023-11-12,BRSSZ,Dry Bulk,43.0,20.0,43.0,32.29
 2023-11-19,BRSSZ,Dry Bulk,44.0,29.0,50.0,37.29
 2023-11-26,BRSSZ,Dry Bulk,35.0,22.0,37.0,32.43
@@ -2757,7 +2757,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,BRSSZ,Dry Bulk,38.0,15.0,41.0,30.62
 2024-10-20,BRSSZ,Dry Bulk,39.0,23.0,43.0,35.75
 2024-10-27,BRSSZ,Dry Bulk,38.0,34.0,45.0,38.62
-2024-11-03,BRSSZ,Dry Bulk,38.0,17.0,42.0,30.5
+2024-11-03,BRSSZ,Dry Bulk,38.0,23.0,42.0,31.25
 2024-11-10,BRSSZ,Dry Bulk,24.0,20.0,43.0,32.29
 2024-11-17,BRSSZ,Dry Bulk,36.0,29.0,50.0,37.29
 2024-11-24,BRSSZ,Dry Bulk,35.0,22.0,37.0,32.43
@@ -2809,7 +2809,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,BRSSZ,Dry Bulk,34.0,15.0,41.0,30.62
 2025-10-19,BRSSZ,Dry Bulk,43.0,23.0,43.0,35.75
 2025-10-26,BRSSZ,Dry Bulk,45.0,34.0,45.0,38.62
-2025-11-02,BRSSZ,Dry Bulk,36.0,17.0,42.0,30.5
+2025-11-02,BRSSZ,Dry Bulk,36.0,23.0,42.0,31.25
 2025-11-09,BRSSZ,Dry Bulk,39.0,20.0,43.0,32.29
 2025-11-16,BRSSZ,Dry Bulk,50.0,29.0,50.0,37.29
 2025-11-23,BRSSZ,Dry Bulk,35.0,22.0,37.0,32.43
@@ -2861,7 +2861,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,BRSSZ,Dry Bulk,15.0,15.0,41.0,30.62
 2026-10-18,BRSSZ,Dry Bulk,31.0,23.0,43.0,35.75
 2026-10-25,BRSSZ,Dry Bulk,38.0,34.0,45.0,38.62
-2026-11-01,BRSSZ,Dry Bulk,17.0,17.0,42.0,30.5
+2026-11-01,BRSSZ,Dry Bulk,23.0,23.0,42.0,31.25
 2019-01-06,BRTUB,Dry Bulk,18.0,10.0,18.0,15.25
 2019-01-13,BRTUB,Dry Bulk,26.0,11.0,26.0,15.0
 2019-01-20,BRTUB,Dry Bulk,27.0,8.0,27.0,14.0
@@ -2905,7 +2905,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,BRTUB,Dry Bulk,20.0,6.0,20.0,14.12
 2019-10-20,BRTUB,Dry Bulk,22.0,15.0,24.0,18.0
 2019-10-27,BRTUB,Dry Bulk,20.0,14.0,20.0,16.38
-2019-11-03,BRTUB,Dry Bulk,17.0,8.0,20.0,15.25
+2019-11-03,BRTUB,Dry Bulk,17.0,11.0,20.0,15.62
 2019-11-10,BRTUB,Dry Bulk,17.0,13.0,18.0,15.57
 2019-11-17,BRTUB,Dry Bulk,16.0,12.0,21.0,17.57
 2019-11-24,BRTUB,Dry Bulk,17.0,12.0,19.0,15.71
@@ -2957,7 +2957,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,BRTUB,Dry Bulk,15.0,6.0,20.0,14.12
 2020-10-18,BRTUB,Dry Bulk,17.0,15.0,24.0,18.0
 2020-10-25,BRTUB,Dry Bulk,14.0,14.0,20.0,16.38
-2020-11-01,BRTUB,Dry Bulk,15.0,8.0,20.0,15.25
+2020-11-01,BRTUB,Dry Bulk,15.0,11.0,20.0,15.62
 2020-11-08,BRTUB,Dry Bulk,16.0,13.0,18.0,15.57
 2020-11-15,BRTUB,Dry Bulk,12.0,12.0,21.0,17.57
 2020-11-22,BRTUB,Dry Bulk,16.0,12.0,19.0,15.71
@@ -3010,7 +3010,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,BRTUB,Dry Bulk,10.0,6.0,20.0,14.12
 2021-10-24,BRTUB,Dry Bulk,15.0,15.0,24.0,18.0
 2021-10-31,BRTUB,Dry Bulk,17.0,14.0,20.0,16.38
-2021-11-07,BRTUB,Dry Bulk,20.0,8.0,20.0,15.25
+2021-11-07,BRTUB,Dry Bulk,20.0,11.0,20.0,15.62
 2021-11-14,BRTUB,Dry Bulk,15.0,13.0,18.0,15.57
 2021-11-21,BRTUB,Dry Bulk,21.0,12.0,21.0,17.57
 2021-11-28,BRTUB,Dry Bulk,19.0,12.0,19.0,15.71
@@ -3062,7 +3062,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,BRTUB,Dry Bulk,17.0,6.0,20.0,14.12
 2022-10-23,BRTUB,Dry Bulk,16.0,15.0,24.0,18.0
 2022-10-30,BRTUB,Dry Bulk,14.0,14.0,20.0,16.38
-2022-11-06,BRTUB,Dry Bulk,12.0,8.0,20.0,15.25
+2022-11-06,BRTUB,Dry Bulk,12.0,11.0,20.0,15.62
 2022-11-13,BRTUB,Dry Bulk,17.0,13.0,18.0,15.57
 2022-11-20,BRTUB,Dry Bulk,16.0,12.0,21.0,17.57
 2022-11-27,BRTUB,Dry Bulk,14.0,12.0,19.0,15.71
@@ -3114,7 +3114,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,BRTUB,Dry Bulk,17.0,6.0,20.0,14.12
 2023-10-22,BRTUB,Dry Bulk,17.0,15.0,24.0,18.0
 2023-10-29,BRTUB,Dry Bulk,16.0,14.0,20.0,16.38
-2023-11-05,BRTUB,Dry Bulk,18.0,8.0,20.0,15.25
+2023-11-05,BRTUB,Dry Bulk,18.0,11.0,20.0,15.62
 2023-11-12,BRTUB,Dry Bulk,13.0,13.0,18.0,15.57
 2023-11-19,BRTUB,Dry Bulk,18.0,12.0,21.0,17.57
 2023-11-26,BRTUB,Dry Bulk,14.0,12.0,19.0,15.71
@@ -3166,7 +3166,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,BRTUB,Dry Bulk,11.0,6.0,20.0,14.12
 2024-10-20,BRTUB,Dry Bulk,24.0,15.0,24.0,18.0
 2024-10-27,BRTUB,Dry Bulk,15.0,14.0,20.0,16.38
-2024-11-03,BRTUB,Dry Bulk,13.0,8.0,20.0,15.25
+2024-11-03,BRTUB,Dry Bulk,13.0,11.0,20.0,15.62
 2024-11-10,BRTUB,Dry Bulk,18.0,13.0,18.0,15.57
 2024-11-17,BRTUB,Dry Bulk,21.0,12.0,21.0,17.57
 2024-11-24,BRTUB,Dry Bulk,12.0,12.0,19.0,15.71
@@ -3218,7 +3218,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,BRTUB,Dry Bulk,17.0,6.0,20.0,14.12
 2025-10-19,BRTUB,Dry Bulk,18.0,15.0,24.0,18.0
 2025-10-26,BRTUB,Dry Bulk,18.0,14.0,20.0,16.38
-2025-11-02,BRTUB,Dry Bulk,19.0,8.0,20.0,15.25
+2025-11-02,BRTUB,Dry Bulk,19.0,11.0,20.0,15.62
 2025-11-09,BRTUB,Dry Bulk,13.0,13.0,18.0,15.57
 2025-11-16,BRTUB,Dry Bulk,19.0,12.0,21.0,17.57
 2025-11-23,BRTUB,Dry Bulk,18.0,12.0,19.0,15.71
@@ -3270,7 +3270,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,BRTUB,Dry Bulk,6.0,6.0,20.0,14.12
 2026-10-18,BRTUB,Dry Bulk,15.0,15.0,24.0,18.0
 2026-10-25,BRTUB,Dry Bulk,17.0,14.0,20.0,16.38
-2026-11-01,BRTUB,Dry Bulk,8.0,8.0,20.0,15.25
+2026-11-01,BRTUB,Dry Bulk,11.0,11.0,20.0,15.62
 2019-01-06,CNJGT,Dry Bulk,56.0,45.0,66.0,56.62
 2019-01-13,CNJGT,Dry Bulk,57.0,34.0,65.0,54.25
 2019-01-20,CNJGT,Dry Bulk,74.0,37.0,74.0,55.62
@@ -3314,7 +3314,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,CNJGT,Dry Bulk,42.0,18.0,59.0,47.75
 2019-10-20,CNJGT,Dry Bulk,59.0,37.0,59.0,48.88
 2019-10-27,CNJGT,Dry Bulk,59.0,42.0,65.0,53.38
-2019-11-03,CNJGT,Dry Bulk,56.0,21.0,59.0,45.88
+2019-11-03,CNJGT,Dry Bulk,56.0,33.0,59.0,48.12
 2019-11-10,CNJGT,Dry Bulk,46.0,36.0,61.0,50.14
 2019-11-17,CNJGT,Dry Bulk,53.0,42.0,60.0,50.14
 2019-11-24,CNJGT,Dry Bulk,50.0,33.0,60.0,51.0
@@ -3366,7 +3366,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,CNJGT,Dry Bulk,55.0,18.0,59.0,47.75
 2020-10-18,CNJGT,Dry Bulk,42.0,37.0,59.0,48.88
 2020-10-25,CNJGT,Dry Bulk,50.0,42.0,65.0,53.38
-2020-11-01,CNJGT,Dry Bulk,50.0,21.0,59.0,45.88
+2020-11-01,CNJGT,Dry Bulk,50.0,33.0,59.0,48.12
 2020-11-08,CNJGT,Dry Bulk,49.0,36.0,61.0,50.14
 2020-11-15,CNJGT,Dry Bulk,60.0,42.0,60.0,50.14
 2020-11-22,CNJGT,Dry Bulk,58.0,33.0,60.0,51.0
@@ -3419,7 +3419,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,CNJGT,Dry Bulk,59.0,18.0,59.0,47.75
 2021-10-24,CNJGT,Dry Bulk,47.0,37.0,59.0,48.88
 2021-10-31,CNJGT,Dry Bulk,48.0,42.0,65.0,53.38
-2021-11-07,CNJGT,Dry Bulk,46.0,21.0,59.0,45.88
+2021-11-07,CNJGT,Dry Bulk,46.0,33.0,59.0,48.12
 2021-11-14,CNJGT,Dry Bulk,61.0,36.0,61.0,50.14
 2021-11-21,CNJGT,Dry Bulk,42.0,42.0,60.0,50.14
 2021-11-28,CNJGT,Dry Bulk,53.0,33.0,60.0,51.0
@@ -3471,7 +3471,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,CNJGT,Dry Bulk,51.0,18.0,59.0,47.75
 2022-10-23,CNJGT,Dry Bulk,44.0,37.0,59.0,48.88
 2022-10-30,CNJGT,Dry Bulk,42.0,42.0,65.0,53.38
-2022-11-06,CNJGT,Dry Bulk,33.0,21.0,59.0,45.88
+2022-11-06,CNJGT,Dry Bulk,33.0,33.0,59.0,48.12
 2022-11-13,CNJGT,Dry Bulk,36.0,36.0,61.0,50.14
 2022-11-20,CNJGT,Dry Bulk,44.0,42.0,60.0,50.14
 2022-11-27,CNJGT,Dry Bulk,33.0,33.0,60.0,51.0
@@ -3523,7 +3523,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,CNJGT,Dry Bulk,58.0,18.0,59.0,47.75
 2023-10-22,CNJGT,Dry Bulk,57.0,37.0,59.0,48.88
 2023-10-29,CNJGT,Dry Bulk,65.0,42.0,65.0,53.38
-2023-11-05,CNJGT,Dry Bulk,53.0,21.0,59.0,45.88
+2023-11-05,CNJGT,Dry Bulk,53.0,33.0,59.0,48.12
 2023-11-12,CNJGT,Dry Bulk,56.0,36.0,61.0,50.14
 2023-11-19,CNJGT,Dry Bulk,56.0,42.0,60.0,50.14
 2023-11-26,CNJGT,Dry Bulk,60.0,33.0,60.0,51.0
@@ -3575,7 +3575,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,CNJGT,Dry Bulk,58.0,18.0,59.0,47.75
 2024-10-20,CNJGT,Dry Bulk,51.0,37.0,59.0,48.88
 2024-10-27,CNJGT,Dry Bulk,52.0,42.0,65.0,53.38
-2024-11-03,CNJGT,Dry Bulk,49.0,21.0,59.0,45.88
+2024-11-03,CNJGT,Dry Bulk,49.0,33.0,59.0,48.12
 2024-11-10,CNJGT,Dry Bulk,44.0,36.0,61.0,50.14
 2024-11-17,CNJGT,Dry Bulk,48.0,42.0,60.0,50.14
 2024-11-24,CNJGT,Dry Bulk,47.0,33.0,60.0,51.0
@@ -3627,7 +3627,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,CNJGT,Dry Bulk,41.0,18.0,59.0,47.75
 2025-10-19,CNJGT,Dry Bulk,54.0,37.0,59.0,48.88
 2025-10-26,CNJGT,Dry Bulk,51.0,42.0,65.0,53.38
-2025-11-02,CNJGT,Dry Bulk,59.0,21.0,59.0,45.88
+2025-11-02,CNJGT,Dry Bulk,59.0,33.0,59.0,48.12
 2025-11-09,CNJGT,Dry Bulk,59.0,36.0,61.0,50.14
 2025-11-16,CNJGT,Dry Bulk,48.0,42.0,60.0,50.14
 2025-11-23,CNJGT,Dry Bulk,56.0,33.0,60.0,51.0
@@ -3679,7 +3679,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,CNJGT,Dry Bulk,18.0,18.0,59.0,47.75
 2026-10-18,CNJGT,Dry Bulk,37.0,37.0,59.0,48.88
 2026-10-25,CNJGT,Dry Bulk,60.0,42.0,65.0,53.38
-2026-11-01,CNJGT,Dry Bulk,21.0,21.0,59.0,45.88
+2026-11-01,CNJGT,Dry Bulk,39.0,33.0,59.0,48.12
 2019-01-06,CNNGB,Dry Bulk,28.0,18.0,66.0,42.38
 2019-01-13,CNNGB,Dry Bulk,41.0,22.0,53.0,39.62
 2019-01-20,CNNGB,Dry Bulk,35.0,22.0,49.0,39.0
@@ -3723,7 +3723,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,CNNGB,Dry Bulk,41.0,12.0,54.0,39.75
 2019-10-20,CNNGB,Dry Bulk,40.0,37.0,55.0,43.0
 2019-10-27,CNNGB,Dry Bulk,37.0,22.0,50.0,37.62
-2019-11-03,CNNGB,Dry Bulk,51.0,24.0,51.0,38.12
+2019-11-03,CNNGB,Dry Bulk,51.0,25.0,51.0,40.12
 2019-11-10,CNNGB,Dry Bulk,37.0,28.0,51.0,41.86
 2019-11-17,CNNGB,Dry Bulk,46.0,22.0,49.0,38.0
 2019-11-24,CNNGB,Dry Bulk,39.0,15.0,58.0,41.71
@@ -3775,7 +3775,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,CNNGB,Dry Bulk,36.0,12.0,54.0,39.75
 2020-10-18,CNNGB,Dry Bulk,39.0,37.0,55.0,43.0
 2020-10-25,CNNGB,Dry Bulk,33.0,22.0,50.0,37.62
-2020-11-01,CNNGB,Dry Bulk,25.0,24.0,51.0,38.12
+2020-11-01,CNNGB,Dry Bulk,25.0,25.0,51.0,40.12
 2020-11-08,CNNGB,Dry Bulk,28.0,28.0,51.0,41.86
 2020-11-15,CNNGB,Dry Bulk,22.0,22.0,49.0,38.0
 2020-11-22,CNNGB,Dry Bulk,15.0,15.0,58.0,41.71
@@ -3828,7 +3828,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,CNNGB,Dry Bulk,32.0,12.0,54.0,39.75
 2021-10-24,CNNGB,Dry Bulk,44.0,37.0,55.0,43.0
 2021-10-31,CNNGB,Dry Bulk,42.0,22.0,50.0,37.62
-2021-11-07,CNNGB,Dry Bulk,32.0,24.0,51.0,38.12
+2021-11-07,CNNGB,Dry Bulk,32.0,25.0,51.0,40.12
 2021-11-14,CNNGB,Dry Bulk,45.0,28.0,51.0,41.86
 2021-11-21,CNNGB,Dry Bulk,38.0,22.0,49.0,38.0
 2021-11-28,CNNGB,Dry Bulk,43.0,15.0,58.0,41.71
@@ -3880,7 +3880,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,CNNGB,Dry Bulk,51.0,12.0,54.0,39.75
 2022-10-23,CNNGB,Dry Bulk,37.0,37.0,55.0,43.0
 2022-10-30,CNNGB,Dry Bulk,50.0,22.0,50.0,37.62
-2022-11-06,CNNGB,Dry Bulk,51.0,24.0,51.0,38.12
+2022-11-06,CNNGB,Dry Bulk,51.0,25.0,51.0,40.12
 2022-11-13,CNNGB,Dry Bulk,40.0,28.0,51.0,41.86
 2022-11-20,CNNGB,Dry Bulk,34.0,22.0,49.0,38.0
 2022-11-27,CNNGB,Dry Bulk,49.0,15.0,58.0,41.71
@@ -3932,7 +3932,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,CNNGB,Dry Bulk,54.0,12.0,54.0,39.75
 2023-10-22,CNNGB,Dry Bulk,55.0,37.0,55.0,43.0
 2023-10-29,CNNGB,Dry Bulk,46.0,22.0,50.0,37.62
-2023-11-05,CNNGB,Dry Bulk,45.0,24.0,51.0,38.12
+2023-11-05,CNNGB,Dry Bulk,45.0,25.0,51.0,40.12
 2023-11-12,CNNGB,Dry Bulk,44.0,28.0,51.0,41.86
 2023-11-19,CNNGB,Dry Bulk,41.0,22.0,49.0,38.0
 2023-11-26,CNNGB,Dry Bulk,49.0,15.0,58.0,41.71
@@ -3984,7 +3984,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,CNNGB,Dry Bulk,49.0,12.0,54.0,39.75
 2024-10-20,CNNGB,Dry Bulk,44.0,37.0,55.0,43.0
 2024-10-27,CNNGB,Dry Bulk,32.0,22.0,50.0,37.62
-2024-11-03,CNNGB,Dry Bulk,33.0,24.0,51.0,38.12
+2024-11-03,CNNGB,Dry Bulk,33.0,25.0,51.0,40.12
 2024-11-10,CNNGB,Dry Bulk,51.0,28.0,51.0,41.86
 2024-11-17,CNNGB,Dry Bulk,36.0,22.0,49.0,38.0
 2024-11-24,CNNGB,Dry Bulk,58.0,15.0,58.0,41.71
@@ -4036,7 +4036,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,CNNGB,Dry Bulk,43.0,12.0,54.0,39.75
 2025-10-19,CNNGB,Dry Bulk,39.0,37.0,55.0,43.0
 2025-10-26,CNNGB,Dry Bulk,39.0,22.0,50.0,37.62
-2025-11-02,CNNGB,Dry Bulk,44.0,24.0,51.0,38.12
+2025-11-02,CNNGB,Dry Bulk,44.0,25.0,51.0,40.12
 2025-11-09,CNNGB,Dry Bulk,48.0,28.0,51.0,41.86
 2025-11-16,CNNGB,Dry Bulk,49.0,22.0,49.0,38.0
 2025-11-23,CNNGB,Dry Bulk,39.0,15.0,58.0,41.71
@@ -4088,7 +4088,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,CNNGB,Dry Bulk,12.0,12.0,54.0,39.75
 2026-10-18,CNNGB,Dry Bulk,46.0,37.0,55.0,43.0
 2026-10-25,CNNGB,Dry Bulk,22.0,22.0,50.0,37.62
-2026-11-01,CNNGB,Dry Bulk,24.0,24.0,51.0,38.12
+2026-11-01,CNNGB,Dry Bulk,40.0,25.0,51.0,40.12
 2019-01-06,CNQDG,Dry Bulk,26.0,16.0,35.0,23.5
 2019-01-13,CNQDG,Dry Bulk,30.0,19.0,35.0,27.12
 2019-01-20,CNQDG,Dry Bulk,30.0,22.0,42.0,27.25
@@ -4132,7 +4132,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,CNQDG,Dry Bulk,32.0,23.0,32.0,27.88
 2019-10-20,CNQDG,Dry Bulk,23.0,14.0,25.0,20.25
 2019-10-27,CNQDG,Dry Bulk,22.0,16.0,35.0,23.88
-2019-11-03,CNQDG,Dry Bulk,24.0,7.0,31.0,22.75
+2019-11-03,CNQDG,Dry Bulk,24.0,11.0,31.0,23.25
 2019-11-10,CNQDG,Dry Bulk,28.0,18.0,40.0,25.14
 2019-11-17,CNQDG,Dry Bulk,35.0,13.0,35.0,25.86
 2019-11-24,CNQDG,Dry Bulk,22.0,18.0,34.0,23.86
@@ -4184,7 +4184,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,CNQDG,Dry Bulk,25.0,23.0,32.0,27.88
 2020-10-18,CNQDG,Dry Bulk,24.0,14.0,25.0,20.25
 2020-10-25,CNQDG,Dry Bulk,22.0,16.0,35.0,23.88
-2020-11-01,CNQDG,Dry Bulk,31.0,7.0,31.0,22.75
+2020-11-01,CNQDG,Dry Bulk,31.0,11.0,31.0,23.25
 2020-11-08,CNQDG,Dry Bulk,20.0,18.0,40.0,25.14
 2020-11-15,CNQDG,Dry Bulk,30.0,13.0,35.0,25.86
 2020-11-22,CNQDG,Dry Bulk,25.0,18.0,34.0,23.86
@@ -4237,7 +4237,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,CNQDG,Dry Bulk,32.0,23.0,32.0,27.88
 2021-10-24,CNQDG,Dry Bulk,25.0,14.0,25.0,20.25
 2021-10-31,CNQDG,Dry Bulk,35.0,16.0,35.0,23.88
-2021-11-07,CNQDG,Dry Bulk,26.0,7.0,31.0,22.75
+2021-11-07,CNQDG,Dry Bulk,26.0,11.0,31.0,23.25
 2021-11-14,CNQDG,Dry Bulk,40.0,18.0,40.0,25.14
 2021-11-21,CNQDG,Dry Bulk,30.0,13.0,35.0,25.86
 2021-11-28,CNQDG,Dry Bulk,34.0,18.0,34.0,23.86
@@ -4289,7 +4289,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,CNQDG,Dry Bulk,29.0,23.0,32.0,27.88
 2022-10-23,CNQDG,Dry Bulk,24.0,14.0,25.0,20.25
 2022-10-30,CNQDG,Dry Bulk,23.0,16.0,35.0,23.88
-2022-11-06,CNQDG,Dry Bulk,28.0,7.0,31.0,22.75
+2022-11-06,CNQDG,Dry Bulk,28.0,11.0,31.0,23.25
 2022-11-13,CNQDG,Dry Bulk,28.0,18.0,40.0,25.14
 2022-11-20,CNQDG,Dry Bulk,31.0,13.0,35.0,25.86
 2022-11-27,CNQDG,Dry Bulk,27.0,18.0,34.0,23.86
@@ -4341,7 +4341,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,CNQDG,Dry Bulk,30.0,23.0,32.0,27.88
 2023-10-22,CNQDG,Dry Bulk,22.0,14.0,25.0,20.25
 2023-10-29,CNQDG,Dry Bulk,30.0,16.0,35.0,23.88
-2023-11-05,CNQDG,Dry Bulk,19.0,7.0,31.0,22.75
+2023-11-05,CNQDG,Dry Bulk,19.0,11.0,31.0,23.25
 2023-11-12,CNQDG,Dry Bulk,18.0,18.0,40.0,25.14
 2023-11-19,CNQDG,Dry Bulk,20.0,13.0,35.0,25.86
 2023-11-26,CNQDG,Dry Bulk,19.0,18.0,34.0,23.86
@@ -4393,7 +4393,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,CNQDG,Dry Bulk,26.0,23.0,32.0,27.88
 2024-10-20,CNQDG,Dry Bulk,15.0,14.0,25.0,20.25
 2024-10-27,CNQDG,Dry Bulk,16.0,16.0,35.0,23.88
-2024-11-03,CNQDG,Dry Bulk,25.0,7.0,31.0,22.75
+2024-11-03,CNQDG,Dry Bulk,25.0,11.0,31.0,23.25
 2024-11-10,CNQDG,Dry Bulk,24.0,18.0,40.0,25.14
 2024-11-17,CNQDG,Dry Bulk,22.0,13.0,35.0,25.86
 2024-11-24,CNQDG,Dry Bulk,22.0,18.0,34.0,23.86
@@ -4445,7 +4445,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,CNQDG,Dry Bulk,23.0,23.0,32.0,27.88
 2025-10-19,CNQDG,Dry Bulk,15.0,14.0,25.0,20.25
 2025-10-26,CNQDG,Dry Bulk,24.0,16.0,35.0,23.88
-2025-11-02,CNQDG,Dry Bulk,22.0,7.0,31.0,22.75
+2025-11-02,CNQDG,Dry Bulk,22.0,11.0,31.0,23.25
 2025-11-09,CNQDG,Dry Bulk,18.0,18.0,40.0,25.14
 2025-11-16,CNQDG,Dry Bulk,13.0,13.0,35.0,25.86
 2025-11-23,CNQDG,Dry Bulk,18.0,18.0,34.0,23.86
@@ -4497,7 +4497,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,CNQDG,Dry Bulk,26.0,23.0,32.0,27.88
 2026-10-18,CNQDG,Dry Bulk,14.0,14.0,25.0,20.25
 2026-10-25,CNQDG,Dry Bulk,19.0,16.0,35.0,23.88
-2026-11-01,CNQDG,Dry Bulk,7.0,7.0,31.0,22.75
+2026-11-01,CNQDG,Dry Bulk,11.0,11.0,31.0,23.25
 2019-01-06,CNRZH,Dry Bulk,21.0,21.0,42.0,34.75
 2019-01-13,CNRZH,Dry Bulk,32.0,29.0,41.0,33.62
 2019-01-20,CNRZH,Dry Bulk,44.0,33.0,47.0,39.25
@@ -4541,7 +4541,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,CNRZH,Dry Bulk,32.0,26.0,40.0,33.75
 2019-10-20,CNRZH,Dry Bulk,34.0,18.0,44.0,33.12
 2019-10-27,CNRZH,Dry Bulk,34.0,30.0,42.0,34.5
-2019-11-03,CNRZH,Dry Bulk,24.0,14.0,36.0,27.38
+2019-11-03,CNRZH,Dry Bulk,24.0,19.0,36.0,28.75
 2019-11-10,CNRZH,Dry Bulk,25.0,25.0,44.0,34.43
 2019-11-17,CNRZH,Dry Bulk,27.0,25.0,47.0,33.43
 2019-11-24,CNRZH,Dry Bulk,28.0,25.0,43.0,32.29
@@ -4593,7 +4593,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,CNRZH,Dry Bulk,36.0,26.0,40.0,33.75
 2020-10-18,CNRZH,Dry Bulk,44.0,18.0,44.0,33.12
 2020-10-25,CNRZH,Dry Bulk,33.0,30.0,42.0,34.5
-2020-11-01,CNRZH,Dry Bulk,33.0,14.0,36.0,27.38
+2020-11-01,CNRZH,Dry Bulk,33.0,19.0,36.0,28.75
 2020-11-08,CNRZH,Dry Bulk,27.0,25.0,44.0,34.43
 2020-11-15,CNRZH,Dry Bulk,31.0,25.0,47.0,33.43
 2020-11-22,CNRZH,Dry Bulk,25.0,25.0,43.0,32.29
@@ -4646,7 +4646,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,CNRZH,Dry Bulk,33.0,26.0,40.0,33.75
 2021-10-24,CNRZH,Dry Bulk,38.0,18.0,44.0,33.12
 2021-10-31,CNRZH,Dry Bulk,37.0,30.0,42.0,34.5
-2021-11-07,CNRZH,Dry Bulk,19.0,14.0,36.0,27.38
+2021-11-07,CNRZH,Dry Bulk,19.0,19.0,36.0,28.75
 2021-11-14,CNRZH,Dry Bulk,44.0,25.0,44.0,34.43
 2021-11-21,CNRZH,Dry Bulk,35.0,25.0,47.0,33.43
 2021-11-28,CNRZH,Dry Bulk,33.0,25.0,43.0,32.29
@@ -4698,7 +4698,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,CNRZH,Dry Bulk,40.0,26.0,40.0,33.75
 2022-10-23,CNRZH,Dry Bulk,40.0,18.0,44.0,33.12
 2022-10-30,CNRZH,Dry Bulk,42.0,30.0,42.0,34.5
-2022-11-06,CNRZH,Dry Bulk,36.0,14.0,36.0,27.38
+2022-11-06,CNRZH,Dry Bulk,36.0,19.0,36.0,28.75
 2022-11-13,CNRZH,Dry Bulk,29.0,25.0,44.0,34.43
 2022-11-20,CNRZH,Dry Bulk,47.0,25.0,47.0,33.43
 2022-11-27,CNRZH,Dry Bulk,36.0,25.0,43.0,32.29
@@ -4750,7 +4750,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,CNRZH,Dry Bulk,35.0,26.0,40.0,33.75
 2023-10-22,CNRZH,Dry Bulk,38.0,18.0,44.0,33.12
 2023-10-29,CNRZH,Dry Bulk,38.0,30.0,42.0,34.5
-2023-11-05,CNRZH,Dry Bulk,31.0,14.0,36.0,27.38
+2023-11-05,CNRZH,Dry Bulk,31.0,19.0,36.0,28.75
 2023-11-12,CNRZH,Dry Bulk,43.0,25.0,44.0,34.43
 2023-11-19,CNRZH,Dry Bulk,35.0,25.0,47.0,33.43
 2023-11-26,CNRZH,Dry Bulk,43.0,25.0,43.0,32.29
@@ -4802,7 +4802,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,CNRZH,Dry Bulk,34.0,26.0,40.0,33.75
 2024-10-20,CNRZH,Dry Bulk,26.0,18.0,44.0,33.12
 2024-10-27,CNRZH,Dry Bulk,31.0,30.0,42.0,34.5
-2024-11-03,CNRZH,Dry Bulk,33.0,14.0,36.0,27.38
+2024-11-03,CNRZH,Dry Bulk,33.0,19.0,36.0,28.75
 2024-11-10,CNRZH,Dry Bulk,36.0,25.0,44.0,34.43
 2024-11-17,CNRZH,Dry Bulk,34.0,25.0,47.0,33.43
 2024-11-24,CNRZH,Dry Bulk,31.0,25.0,43.0,32.29
@@ -4854,7 +4854,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,CNRZH,Dry Bulk,34.0,26.0,40.0,33.75
 2025-10-19,CNRZH,Dry Bulk,27.0,18.0,44.0,33.12
 2025-10-26,CNRZH,Dry Bulk,30.0,30.0,42.0,34.5
-2025-11-02,CNRZH,Dry Bulk,29.0,14.0,36.0,27.38
+2025-11-02,CNRZH,Dry Bulk,29.0,19.0,36.0,28.75
 2025-11-09,CNRZH,Dry Bulk,37.0,25.0,44.0,34.43
 2025-11-16,CNRZH,Dry Bulk,25.0,25.0,47.0,33.43
 2025-11-23,CNRZH,Dry Bulk,30.0,25.0,43.0,32.29
@@ -4906,7 +4906,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,CNRZH,Dry Bulk,26.0,26.0,40.0,33.75
 2026-10-18,CNRZH,Dry Bulk,18.0,18.0,44.0,33.12
 2026-10-25,CNRZH,Dry Bulk,31.0,30.0,42.0,34.5
-2026-11-01,CNRZH,Dry Bulk,14.0,14.0,36.0,27.38
+2026-11-01,CNRZH,Dry Bulk,25.0,19.0,36.0,28.75
 2019-01-06,GNKMR,Dry Bulk,3.0,2.0,7.0,5.12
 2019-01-13,GNKMR,Dry Bulk,5.0,1.0,6.0,4.5
 2019-01-20,GNKMR,Dry Bulk,3.0,0.0,7.0,4.38
@@ -4950,7 +4950,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,GNKMR,Dry Bulk,5.0,2.0,8.0,5.25
 2019-10-20,GNKMR,Dry Bulk,4.0,4.0,8.0,5.25
 2019-10-27,GNKMR,Dry Bulk,0.0,0.0,7.0,4.25
-2019-11-03,GNKMR,Dry Bulk,3.0,0.0,7.0,4.0
+2019-11-03,GNKMR,Dry Bulk,3.0,1.0,7.0,4.12
 2019-11-10,GNKMR,Dry Bulk,1.0,1.0,7.0,4.71
 2019-11-17,GNKMR,Dry Bulk,1.0,1.0,8.0,4.86
 2019-11-24,GNKMR,Dry Bulk,4.0,4.0,7.0,5.43
@@ -5002,7 +5002,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,GNKMR,Dry Bulk,6.0,2.0,8.0,5.25
 2020-10-18,GNKMR,Dry Bulk,8.0,4.0,8.0,5.25
 2020-10-25,GNKMR,Dry Bulk,5.0,0.0,7.0,4.25
-2020-11-01,GNKMR,Dry Bulk,7.0,0.0,7.0,4.0
+2020-11-01,GNKMR,Dry Bulk,7.0,1.0,7.0,4.12
 2020-11-08,GNKMR,Dry Bulk,5.0,1.0,7.0,4.71
 2020-11-15,GNKMR,Dry Bulk,6.0,1.0,8.0,4.86
 2020-11-22,GNKMR,Dry Bulk,5.0,4.0,7.0,5.43
@@ -5055,7 +5055,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,GNKMR,Dry Bulk,5.0,2.0,8.0,5.25
 2021-10-24,GNKMR,Dry Bulk,6.0,4.0,8.0,5.25
 2021-10-31,GNKMR,Dry Bulk,5.0,0.0,7.0,4.25
-2021-11-07,GNKMR,Dry Bulk,4.0,0.0,7.0,4.0
+2021-11-07,GNKMR,Dry Bulk,4.0,1.0,7.0,4.12
 2021-11-14,GNKMR,Dry Bulk,6.0,1.0,7.0,4.71
 2021-11-21,GNKMR,Dry Bulk,4.0,1.0,8.0,4.86
 2021-11-28,GNKMR,Dry Bulk,6.0,4.0,7.0,5.43
@@ -5107,7 +5107,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,GNKMR,Dry Bulk,6.0,2.0,8.0,5.25
 2022-10-23,GNKMR,Dry Bulk,5.0,4.0,8.0,5.25
 2022-10-30,GNKMR,Dry Bulk,4.0,0.0,7.0,4.25
-2022-11-06,GNKMR,Dry Bulk,5.0,0.0,7.0,4.0
+2022-11-06,GNKMR,Dry Bulk,5.0,1.0,7.0,4.12
 2022-11-13,GNKMR,Dry Bulk,6.0,1.0,7.0,4.71
 2022-11-20,GNKMR,Dry Bulk,5.0,1.0,8.0,4.86
 2022-11-27,GNKMR,Dry Bulk,6.0,4.0,7.0,5.43
@@ -5159,7 +5159,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,GNKMR,Dry Bulk,4.0,2.0,8.0,5.25
 2023-10-22,GNKMR,Dry Bulk,5.0,4.0,8.0,5.25
 2023-10-29,GNKMR,Dry Bulk,5.0,0.0,7.0,4.25
-2023-11-05,GNKMR,Dry Bulk,4.0,0.0,7.0,4.0
+2023-11-05,GNKMR,Dry Bulk,4.0,1.0,7.0,4.12
 2023-11-12,GNKMR,Dry Bulk,4.0,1.0,7.0,4.71
 2023-11-19,GNKMR,Dry Bulk,5.0,1.0,8.0,4.86
 2023-11-26,GNKMR,Dry Bulk,4.0,4.0,7.0,5.43
@@ -5211,7 +5211,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,GNKMR,Dry Bulk,8.0,2.0,8.0,5.25
 2024-10-20,GNKMR,Dry Bulk,4.0,4.0,8.0,5.25
 2024-10-27,GNKMR,Dry Bulk,4.0,0.0,7.0,4.25
-2024-11-03,GNKMR,Dry Bulk,6.0,0.0,7.0,4.0
+2024-11-03,GNKMR,Dry Bulk,6.0,1.0,7.0,4.12
 2024-11-10,GNKMR,Dry Bulk,7.0,1.0,7.0,4.71
 2024-11-17,GNKMR,Dry Bulk,8.0,1.0,8.0,4.86
 2024-11-24,GNKMR,Dry Bulk,7.0,4.0,7.0,5.43
@@ -5263,7 +5263,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,GNKMR,Dry Bulk,6.0,2.0,8.0,5.25
 2025-10-19,GNKMR,Dry Bulk,5.0,4.0,8.0,5.25
 2025-10-26,GNKMR,Dry Bulk,4.0,0.0,7.0,4.25
-2025-11-02,GNKMR,Dry Bulk,3.0,0.0,7.0,4.0
+2025-11-02,GNKMR,Dry Bulk,3.0,1.0,7.0,4.12
 2025-11-09,GNKMR,Dry Bulk,4.0,1.0,7.0,4.71
 2025-11-16,GNKMR,Dry Bulk,5.0,1.0,8.0,4.86
 2025-11-23,GNKMR,Dry Bulk,6.0,4.0,7.0,5.43
@@ -5315,7 +5315,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,GNKMR,Dry Bulk,2.0,2.0,8.0,5.25
 2026-10-18,GNKMR,Dry Bulk,5.0,4.0,8.0,5.25
 2026-10-25,GNKMR,Dry Bulk,7.0,0.0,7.0,4.25
-2026-11-01,GNKMR,Dry Bulk,0.0,0.0,7.0,4.0
+2026-11-01,GNKMR,Dry Bulk,1.0,1.0,7.0,4.12
 2019-01-06,NLRTM,Dry Bulk,11.0,11.0,22.0,18.25
 2019-01-13,NLRTM,Dry Bulk,16.0,11.0,27.0,18.88
 2019-01-20,NLRTM,Dry Bulk,24.0,18.0,24.0,20.0
@@ -5359,7 +5359,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,NLRTM,Dry Bulk,15.0,4.0,26.0,18.0
 2019-10-20,NLRTM,Dry Bulk,22.0,11.0,26.0,19.38
 2019-10-27,NLRTM,Dry Bulk,23.0,15.0,32.0,23.0
-2019-11-03,NLRTM,Dry Bulk,15.0,6.0,25.0,19.12
+2019-11-03,NLRTM,Dry Bulk,15.0,13.0,25.0,20.0
 2019-11-10,NLRTM,Dry Bulk,21.0,16.0,22.0,18.86
 2019-11-17,NLRTM,Dry Bulk,19.0,16.0,29.0,22.14
 2019-11-24,NLRTM,Dry Bulk,19.0,17.0,22.0,20.14
@@ -5411,7 +5411,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,NLRTM,Dry Bulk,20.0,4.0,26.0,18.0
 2020-10-18,NLRTM,Dry Bulk,20.0,11.0,26.0,19.38
 2020-10-25,NLRTM,Dry Bulk,29.0,15.0,32.0,23.0
-2020-11-01,NLRTM,Dry Bulk,16.0,6.0,25.0,19.12
+2020-11-01,NLRTM,Dry Bulk,16.0,13.0,25.0,20.0
 2020-11-08,NLRTM,Dry Bulk,16.0,16.0,22.0,18.86
 2020-11-15,NLRTM,Dry Bulk,19.0,16.0,29.0,22.14
 2020-11-22,NLRTM,Dry Bulk,20.0,17.0,22.0,20.14
@@ -5464,7 +5464,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,NLRTM,Dry Bulk,26.0,4.0,26.0,18.0
 2021-10-24,NLRTM,Dry Bulk,23.0,11.0,26.0,19.38
 2021-10-31,NLRTM,Dry Bulk,21.0,15.0,32.0,23.0
-2021-11-07,NLRTM,Dry Bulk,23.0,6.0,25.0,19.12
+2021-11-07,NLRTM,Dry Bulk,23.0,13.0,25.0,20.0
 2021-11-14,NLRTM,Dry Bulk,17.0,16.0,22.0,18.86
 2021-11-21,NLRTM,Dry Bulk,29.0,16.0,29.0,22.14
 2021-11-28,NLRTM,Dry Bulk,22.0,17.0,22.0,20.14
@@ -5516,7 +5516,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,NLRTM,Dry Bulk,19.0,4.0,26.0,18.0
 2022-10-23,NLRTM,Dry Bulk,26.0,11.0,26.0,19.38
 2022-10-30,NLRTM,Dry Bulk,32.0,15.0,32.0,23.0
-2022-11-06,NLRTM,Dry Bulk,23.0,6.0,25.0,19.12
+2022-11-06,NLRTM,Dry Bulk,23.0,13.0,25.0,20.0
 2022-11-13,NLRTM,Dry Bulk,18.0,16.0,22.0,18.86
 2022-11-20,NLRTM,Dry Bulk,29.0,16.0,29.0,22.14
 2022-11-27,NLRTM,Dry Bulk,21.0,17.0,22.0,20.14
@@ -5568,7 +5568,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,NLRTM,Dry Bulk,18.0,4.0,26.0,18.0
 2023-10-22,NLRTM,Dry Bulk,11.0,11.0,26.0,19.38
 2023-10-29,NLRTM,Dry Bulk,22.0,15.0,32.0,23.0
-2023-11-05,NLRTM,Dry Bulk,22.0,6.0,25.0,19.12
+2023-11-05,NLRTM,Dry Bulk,22.0,13.0,25.0,20.0
 2023-11-12,NLRTM,Dry Bulk,22.0,16.0,22.0,18.86
 2023-11-19,NLRTM,Dry Bulk,18.0,16.0,29.0,22.14
 2023-11-26,NLRTM,Dry Bulk,20.0,17.0,22.0,20.14
@@ -5620,7 +5620,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,NLRTM,Dry Bulk,17.0,4.0,26.0,18.0
 2024-10-20,NLRTM,Dry Bulk,24.0,11.0,26.0,19.38
 2024-10-27,NLRTM,Dry Bulk,25.0,15.0,32.0,23.0
-2024-11-03,NLRTM,Dry Bulk,23.0,6.0,25.0,19.12
+2024-11-03,NLRTM,Dry Bulk,23.0,13.0,25.0,20.0
 2024-11-10,NLRTM,Dry Bulk,20.0,16.0,22.0,18.86
 2024-11-17,NLRTM,Dry Bulk,25.0,16.0,29.0,22.14
 2024-11-24,NLRTM,Dry Bulk,17.0,17.0,22.0,20.14
@@ -5672,7 +5672,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,NLRTM,Dry Bulk,25.0,4.0,26.0,18.0
 2025-10-19,NLRTM,Dry Bulk,18.0,11.0,26.0,19.38
 2025-10-26,NLRTM,Dry Bulk,15.0,15.0,32.0,23.0
-2025-11-02,NLRTM,Dry Bulk,25.0,6.0,25.0,19.12
+2025-11-02,NLRTM,Dry Bulk,25.0,13.0,25.0,20.0
 2025-11-09,NLRTM,Dry Bulk,18.0,16.0,22.0,18.86
 2025-11-16,NLRTM,Dry Bulk,16.0,16.0,29.0,22.14
 2025-11-23,NLRTM,Dry Bulk,22.0,17.0,22.0,20.14
@@ -5724,7 +5724,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,NLRTM,Dry Bulk,4.0,4.0,26.0,18.0
 2026-10-18,NLRTM,Dry Bulk,11.0,11.0,26.0,19.38
 2026-10-25,NLRTM,Dry Bulk,17.0,15.0,32.0,23.0
-2026-11-01,NLRTM,Dry Bulk,6.0,6.0,25.0,19.12
+2026-11-01,NLRTM,Dry Bulk,13.0,13.0,25.0,20.0
 2019-01-06,ZARCB,Dry Bulk,18.0,16.0,34.0,21.5
 2019-01-13,ZARCB,Dry Bulk,29.0,17.0,29.0,21.38
 2019-01-20,ZARCB,Dry Bulk,28.0,17.0,28.0,23.38
@@ -5768,7 +5768,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,ZARCB,Dry Bulk,30.0,7.0,30.0,20.75
 2019-10-20,ZARCB,Dry Bulk,27.0,18.0,27.0,23.25
 2019-10-27,ZARCB,Dry Bulk,29.0,19.0,31.0,25.0
-2019-11-03,ZARCB,Dry Bulk,30.0,2.0,30.0,19.88
+2019-11-03,ZARCB,Dry Bulk,30.0,10.0,30.0,20.88
 2019-11-10,ZARCB,Dry Bulk,24.0,18.0,28.0,23.43
 2019-11-17,ZARCB,Dry Bulk,24.0,20.0,32.0,24.14
 2019-11-24,ZARCB,Dry Bulk,27.0,18.0,29.0,23.43
@@ -5820,7 +5820,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,ZARCB,Dry Bulk,24.0,7.0,30.0,20.75
 2020-10-18,ZARCB,Dry Bulk,26.0,18.0,27.0,23.25
 2020-10-25,ZARCB,Dry Bulk,31.0,19.0,31.0,25.0
-2020-11-01,ZARCB,Dry Bulk,27.0,2.0,30.0,19.88
+2020-11-01,ZARCB,Dry Bulk,27.0,10.0,30.0,20.88
 2020-11-08,ZARCB,Dry Bulk,28.0,18.0,28.0,23.43
 2020-11-15,ZARCB,Dry Bulk,32.0,20.0,32.0,24.14
 2020-11-22,ZARCB,Dry Bulk,29.0,18.0,29.0,23.43
@@ -5873,7 +5873,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,ZARCB,Dry Bulk,21.0,7.0,30.0,20.75
 2021-10-24,ZARCB,Dry Bulk,18.0,18.0,27.0,23.25
 2021-10-31,ZARCB,Dry Bulk,20.0,19.0,31.0,25.0
-2021-11-07,ZARCB,Dry Bulk,23.0,2.0,30.0,19.88
+2021-11-07,ZARCB,Dry Bulk,23.0,10.0,30.0,20.88
 2021-11-14,ZARCB,Dry Bulk,18.0,18.0,28.0,23.43
 2021-11-21,ZARCB,Dry Bulk,24.0,20.0,32.0,24.14
 2021-11-28,ZARCB,Dry Bulk,18.0,18.0,29.0,23.43
@@ -5925,7 +5925,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,ZARCB,Dry Bulk,19.0,7.0,30.0,20.75
 2022-10-23,ZARCB,Dry Bulk,22.0,18.0,27.0,23.25
 2022-10-30,ZARCB,Dry Bulk,27.0,19.0,31.0,25.0
-2022-11-06,ZARCB,Dry Bulk,18.0,2.0,30.0,19.88
+2022-11-06,ZARCB,Dry Bulk,18.0,10.0,30.0,20.88
 2022-11-13,ZARCB,Dry Bulk,22.0,18.0,28.0,23.43
 2022-11-20,ZARCB,Dry Bulk,20.0,20.0,32.0,24.14
 2022-11-27,ZARCB,Dry Bulk,21.0,18.0,29.0,23.43
@@ -5977,7 +5977,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,ZARCB,Dry Bulk,18.0,7.0,30.0,20.75
 2023-10-22,ZARCB,Dry Bulk,22.0,18.0,27.0,23.25
 2023-10-29,ZARCB,Dry Bulk,24.0,19.0,31.0,25.0
-2023-11-05,ZARCB,Dry Bulk,16.0,2.0,30.0,19.88
+2023-11-05,ZARCB,Dry Bulk,16.0,10.0,30.0,20.88
 2023-11-12,ZARCB,Dry Bulk,24.0,18.0,28.0,23.43
 2023-11-19,ZARCB,Dry Bulk,22.0,20.0,32.0,24.14
 2023-11-26,ZARCB,Dry Bulk,20.0,18.0,29.0,23.43
@@ -6029,7 +6029,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,ZARCB,Dry Bulk,26.0,7.0,30.0,20.75
 2024-10-20,ZARCB,Dry Bulk,27.0,18.0,27.0,23.25
 2024-10-27,ZARCB,Dry Bulk,19.0,19.0,31.0,25.0
-2024-11-03,ZARCB,Dry Bulk,20.0,2.0,30.0,19.88
+2024-11-03,ZARCB,Dry Bulk,20.0,10.0,30.0,20.88
 2024-11-10,ZARCB,Dry Bulk,25.0,18.0,28.0,23.43
 2024-11-17,ZARCB,Dry Bulk,22.0,20.0,32.0,24.14
 2024-11-24,ZARCB,Dry Bulk,28.0,18.0,29.0,23.43
@@ -6081,7 +6081,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,ZARCB,Dry Bulk,21.0,7.0,30.0,20.75
 2025-10-19,ZARCB,Dry Bulk,21.0,18.0,27.0,23.25
 2025-10-26,ZARCB,Dry Bulk,25.0,19.0,31.0,25.0
-2025-11-02,ZARCB,Dry Bulk,23.0,2.0,30.0,19.88
+2025-11-02,ZARCB,Dry Bulk,23.0,10.0,30.0,20.88
 2025-11-09,ZARCB,Dry Bulk,23.0,18.0,28.0,23.43
 2025-11-16,ZARCB,Dry Bulk,25.0,20.0,32.0,24.14
 2025-11-23,ZARCB,Dry Bulk,21.0,18.0,29.0,23.43
@@ -6133,7 +6133,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,ZARCB,Dry Bulk,7.0,7.0,30.0,20.75
 2026-10-18,ZARCB,Dry Bulk,23.0,18.0,27.0,23.25
 2026-10-25,ZARCB,Dry Bulk,25.0,19.0,31.0,25.0
-2026-11-01,ZARCB,Dry Bulk,2.0,2.0,30.0,19.88
+2026-11-01,ZARCB,Dry Bulk,10.0,10.0,30.0,20.88
 2019-01-06,ZASDB,Dry Bulk,6.0,5.0,12.0,8.0
 2019-01-13,ZASDB,Dry Bulk,10.0,6.0,10.0,8.75
 2019-01-20,ZASDB,Dry Bulk,12.0,7.0,14.0,10.38
@@ -6586,7 +6586,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,AUDAM,LNG,6.0,3.0,10.0,7.62
 2019-10-20,AUDAM,LNG,11.0,4.0,11.0,7.5
 2019-10-27,AUDAM,LNG,8.0,4.0,10.0,7.5
-2019-11-03,AUDAM,LNG,10.0,2.0,10.0,7.12
+2019-11-03,AUDAM,LNG,10.0,5.0,10.0,7.5
 2019-11-10,AUDAM,LNG,10.0,5.0,10.0,8.57
 2019-11-17,AUDAM,LNG,9.0,5.0,11.0,8.0
 2019-11-24,AUDAM,LNG,10.0,6.0,12.0,9.14
@@ -6638,7 +6638,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,AUDAM,LNG,8.0,3.0,10.0,7.62
 2020-10-18,AUDAM,LNG,9.0,4.0,11.0,7.5
 2020-10-25,AUDAM,LNG,10.0,4.0,10.0,7.5
-2020-11-01,AUDAM,LNG,8.0,2.0,10.0,7.12
+2020-11-01,AUDAM,LNG,8.0,5.0,10.0,7.5
 2020-11-08,AUDAM,LNG,10.0,5.0,10.0,8.57
 2020-11-15,AUDAM,LNG,11.0,5.0,11.0,8.0
 2020-11-22,AUDAM,LNG,12.0,6.0,12.0,9.14
@@ -6691,7 +6691,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,AUDAM,LNG,7.0,3.0,10.0,7.62
 2021-10-24,AUDAM,LNG,9.0,4.0,11.0,7.5
 2021-10-31,AUDAM,LNG,8.0,4.0,10.0,7.5
-2021-11-07,AUDAM,LNG,7.0,2.0,10.0,7.12
+2021-11-07,AUDAM,LNG,7.0,5.0,10.0,7.5
 2021-11-14,AUDAM,LNG,9.0,5.0,10.0,8.57
 2021-11-21,AUDAM,LNG,8.0,5.0,11.0,8.0
 2021-11-28,AUDAM,LNG,7.0,6.0,12.0,9.14
@@ -6743,7 +6743,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,AUDAM,LNG,10.0,3.0,10.0,7.62
 2022-10-23,AUDAM,LNG,7.0,4.0,11.0,7.5
 2022-10-30,AUDAM,LNG,9.0,4.0,10.0,7.5
-2022-11-06,AUDAM,LNG,5.0,2.0,10.0,7.12
+2022-11-06,AUDAM,LNG,5.0,5.0,10.0,7.5
 2022-11-13,AUDAM,LNG,10.0,5.0,10.0,8.57
 2022-11-20,AUDAM,LNG,9.0,5.0,11.0,8.0
 2022-11-27,AUDAM,LNG,10.0,6.0,12.0,9.14
@@ -6795,7 +6795,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,AUDAM,LNG,10.0,3.0,10.0,7.62
 2023-10-22,AUDAM,LNG,10.0,4.0,11.0,7.5
 2023-10-29,AUDAM,LNG,4.0,4.0,10.0,7.5
-2023-11-05,AUDAM,LNG,8.0,2.0,10.0,7.12
+2023-11-05,AUDAM,LNG,8.0,5.0,10.0,7.5
 2023-11-12,AUDAM,LNG,7.0,5.0,10.0,8.57
 2023-11-19,AUDAM,LNG,8.0,5.0,11.0,8.0
 2023-11-26,AUDAM,LNG,11.0,6.0,12.0,9.14
@@ -6847,7 +6847,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,AUDAM,LNG,7.0,3.0,10.0,7.62
 2024-10-20,AUDAM,LNG,5.0,4.0,11.0,7.5
 2024-10-27,AUDAM,LNG,7.0,4.0,10.0,7.5
-2024-11-03,AUDAM,LNG,9.0,2.0,10.0,7.12
+2024-11-03,AUDAM,LNG,9.0,5.0,10.0,7.5
 2024-11-10,AUDAM,LNG,9.0,5.0,10.0,8.57
 2024-11-17,AUDAM,LNG,6.0,5.0,11.0,8.0
 2024-11-24,AUDAM,LNG,6.0,6.0,12.0,9.14
@@ -6899,7 +6899,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,AUDAM,LNG,10.0,3.0,10.0,7.62
 2025-10-19,AUDAM,LNG,5.0,4.0,11.0,7.5
 2025-10-26,AUDAM,LNG,6.0,4.0,10.0,7.5
-2025-11-02,AUDAM,LNG,8.0,2.0,10.0,7.12
+2025-11-02,AUDAM,LNG,8.0,5.0,10.0,7.5
 2025-11-09,AUDAM,LNG,5.0,5.0,10.0,8.57
 2025-11-16,AUDAM,LNG,5.0,5.0,11.0,8.0
 2025-11-23,AUDAM,LNG,8.0,6.0,12.0,9.14
@@ -6951,7 +6951,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,AUDAM,LNG,3.0,3.0,10.0,7.62
 2026-10-18,AUDAM,LNG,4.0,4.0,11.0,7.5
 2026-10-25,AUDAM,LNG,8.0,4.0,10.0,7.5
-2026-11-01,AUDAM,LNG,2.0,2.0,10.0,7.12
+2026-11-01,AUDAM,LNG,5.0,5.0,10.0,7.5
 2019-01-06,AUDRW,LNG,3.0,3.0,8.0,5.25
 2019-01-13,AUDRW,LNG,3.0,3.0,6.0,4.38
 2019-01-20,AUDRW,LNG,6.0,3.0,7.0,5.12
@@ -6995,7 +6995,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,AUDRW,LNG,5.0,2.0,8.0,4.38
 2019-10-20,AUDRW,LNG,7.0,2.0,9.0,5.38
 2019-10-27,AUDRW,LNG,2.0,2.0,7.0,4.75
-2019-11-03,AUDRW,LNG,4.0,1.0,6.0,3.88
+2019-11-03,AUDRW,LNG,4.0,3.0,6.0,4.12
 2019-11-10,AUDRW,LNG,6.0,3.0,8.0,5.57
 2019-11-17,AUDRW,LNG,6.0,2.0,7.0,4.57
 2019-11-24,AUDRW,LNG,6.0,3.0,7.0,4.86
@@ -7047,7 +7047,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,AUDRW,LNG,4.0,2.0,8.0,4.38
 2020-10-18,AUDRW,LNG,9.0,2.0,9.0,5.38
 2020-10-25,AUDRW,LNG,6.0,2.0,7.0,4.75
-2020-11-01,AUDRW,LNG,6.0,1.0,6.0,3.88
+2020-11-01,AUDRW,LNG,6.0,3.0,6.0,4.12
 2020-11-08,AUDRW,LNG,5.0,3.0,8.0,5.57
 2020-11-15,AUDRW,LNG,7.0,2.0,7.0,4.57
 2020-11-22,AUDRW,LNG,4.0,3.0,7.0,4.86
@@ -7100,7 +7100,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,AUDRW,LNG,8.0,2.0,8.0,4.38
 2021-10-24,AUDRW,LNG,8.0,2.0,9.0,5.38
 2021-10-31,AUDRW,LNG,5.0,2.0,7.0,4.75
-2021-11-07,AUDRW,LNG,4.0,1.0,6.0,3.88
+2021-11-07,AUDRW,LNG,4.0,3.0,6.0,4.12
 2021-11-14,AUDRW,LNG,8.0,3.0,8.0,5.57
 2021-11-21,AUDRW,LNG,6.0,2.0,7.0,4.57
 2021-11-28,AUDRW,LNG,5.0,3.0,7.0,4.86
@@ -7152,7 +7152,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,AUDRW,LNG,5.0,2.0,8.0,4.38
 2022-10-23,AUDRW,LNG,6.0,2.0,9.0,5.38
 2022-10-30,AUDRW,LNG,5.0,2.0,7.0,4.75
-2022-11-06,AUDRW,LNG,4.0,1.0,6.0,3.88
+2022-11-06,AUDRW,LNG,4.0,3.0,6.0,4.12
 2022-11-13,AUDRW,LNG,5.0,3.0,8.0,5.57
 2022-11-20,AUDRW,LNG,2.0,2.0,7.0,4.57
 2022-11-27,AUDRW,LNG,7.0,3.0,7.0,4.86
@@ -7204,7 +7204,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,AUDRW,LNG,4.0,2.0,8.0,4.38
 2023-10-22,AUDRW,LNG,4.0,2.0,9.0,5.38
 2023-10-29,AUDRW,LNG,7.0,2.0,7.0,4.75
-2023-11-05,AUDRW,LNG,4.0,1.0,6.0,3.88
+2023-11-05,AUDRW,LNG,4.0,3.0,6.0,4.12
 2023-11-12,AUDRW,LNG,8.0,3.0,8.0,5.57
 2023-11-19,AUDRW,LNG,4.0,2.0,7.0,4.57
 2023-11-26,AUDRW,LNG,5.0,3.0,7.0,4.86
@@ -7256,7 +7256,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,AUDRW,LNG,4.0,2.0,8.0,4.38
 2024-10-20,AUDRW,LNG,2.0,2.0,9.0,5.38
 2024-10-27,AUDRW,LNG,4.0,2.0,7.0,4.75
-2024-11-03,AUDRW,LNG,5.0,1.0,6.0,3.88
+2024-11-03,AUDRW,LNG,5.0,3.0,6.0,4.12
 2024-11-10,AUDRW,LNG,4.0,3.0,8.0,5.57
 2024-11-17,AUDRW,LNG,3.0,2.0,7.0,4.57
 2024-11-24,AUDRW,LNG,3.0,3.0,7.0,4.86
@@ -7308,7 +7308,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,AUDRW,LNG,3.0,2.0,8.0,4.38
 2025-10-19,AUDRW,LNG,3.0,2.0,9.0,5.38
 2025-10-26,AUDRW,LNG,3.0,2.0,7.0,4.75
-2025-11-02,AUDRW,LNG,3.0,1.0,6.0,3.88
+2025-11-02,AUDRW,LNG,3.0,3.0,6.0,4.12
 2025-11-09,AUDRW,LNG,3.0,3.0,8.0,5.57
 2025-11-16,AUDRW,LNG,4.0,2.0,7.0,4.57
 2025-11-23,AUDRW,LNG,4.0,3.0,7.0,4.86
@@ -7360,7 +7360,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,AUDRW,LNG,2.0,2.0,8.0,4.38
 2026-10-18,AUDRW,LNG,4.0,2.0,9.0,5.38
 2026-10-25,AUDRW,LNG,6.0,2.0,7.0,4.75
-2026-11-01,AUDRW,LNG,1.0,1.0,6.0,3.88
+2026-11-01,AUDRW,LNG,3.0,3.0,6.0,4.12
 2019-01-06,AUGLT,LNG,7.0,7.0,13.0,10.0
 2019-01-13,AUGLT,LNG,11.0,7.0,13.0,10.38
 2019-01-20,AUGLT,LNG,11.0,8.0,14.0,10.75
@@ -7404,7 +7404,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,AUGLT,LNG,10.0,4.0,11.0,9.12
 2019-10-20,AUGLT,LNG,11.0,9.0,14.0,10.5
 2019-10-27,AUGLT,LNG,8.0,8.0,14.0,10.75
-2019-11-03,AUGLT,LNG,7.0,5.0,12.0,8.75
+2019-11-03,AUGLT,LNG,7.0,7.0,12.0,9.0
 2019-11-10,AUGLT,LNG,9.0,9.0,14.0,10.43
 2019-11-17,AUGLT,LNG,10.0,9.0,14.0,11.14
 2019-11-24,AUGLT,LNG,11.0,8.0,13.0,10.14
@@ -7456,7 +7456,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,AUGLT,LNG,10.0,4.0,11.0,9.12
 2020-10-18,AUGLT,LNG,9.0,9.0,14.0,10.5
 2020-10-25,AUGLT,LNG,10.0,8.0,14.0,10.75
-2020-11-01,AUGLT,LNG,7.0,5.0,12.0,8.75
+2020-11-01,AUGLT,LNG,7.0,7.0,12.0,9.0
 2020-11-08,AUGLT,LNG,10.0,9.0,14.0,10.43
 2020-11-15,AUGLT,LNG,11.0,9.0,14.0,11.14
 2020-11-22,AUGLT,LNG,9.0,8.0,13.0,10.14
@@ -7509,7 +7509,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,AUGLT,LNG,10.0,4.0,11.0,9.12
 2021-10-24,AUGLT,LNG,14.0,9.0,14.0,10.5
 2021-10-31,AUGLT,LNG,14.0,8.0,14.0,10.75
-2021-11-07,AUGLT,LNG,9.0,5.0,12.0,8.75
+2021-11-07,AUGLT,LNG,9.0,7.0,12.0,9.0
 2021-11-14,AUGLT,LNG,9.0,9.0,14.0,10.43
 2021-11-21,AUGLT,LNG,11.0,9.0,14.0,11.14
 2021-11-28,AUGLT,LNG,13.0,8.0,13.0,10.14
@@ -7561,7 +7561,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,AUGLT,LNG,10.0,4.0,11.0,9.12
 2022-10-23,AUGLT,LNG,9.0,9.0,14.0,10.5
 2022-10-30,AUGLT,LNG,10.0,8.0,14.0,10.75
-2022-11-06,AUGLT,LNG,10.0,5.0,12.0,8.75
+2022-11-06,AUGLT,LNG,10.0,7.0,12.0,9.0
 2022-11-13,AUGLT,LNG,11.0,9.0,14.0,10.43
 2022-11-20,AUGLT,LNG,9.0,9.0,14.0,11.14
 2022-11-27,AUGLT,LNG,10.0,8.0,13.0,10.14
@@ -7613,7 +7613,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,AUGLT,LNG,10.0,4.0,11.0,9.12
 2023-10-22,AUGLT,LNG,11.0,9.0,14.0,10.5
 2023-10-29,AUGLT,LNG,11.0,8.0,14.0,10.75
-2023-11-05,AUGLT,LNG,12.0,5.0,12.0,8.75
+2023-11-05,AUGLT,LNG,12.0,7.0,12.0,9.0
 2023-11-12,AUGLT,LNG,9.0,9.0,14.0,10.43
 2023-11-19,AUGLT,LNG,14.0,9.0,14.0,11.14
 2023-11-26,AUGLT,LNG,8.0,8.0,13.0,10.14
@@ -7665,7 +7665,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,AUGLT,LNG,11.0,4.0,11.0,9.12
 2024-10-20,AUGLT,LNG,10.0,9.0,14.0,10.5
 2024-10-27,AUGLT,LNG,11.0,8.0,14.0,10.75
-2024-11-03,AUGLT,LNG,10.0,5.0,12.0,8.75
+2024-11-03,AUGLT,LNG,10.0,7.0,12.0,9.0
 2024-11-10,AUGLT,LNG,11.0,9.0,14.0,10.43
 2024-11-17,AUGLT,LNG,13.0,9.0,14.0,11.14
 2024-11-24,AUGLT,LNG,10.0,8.0,13.0,10.14
@@ -7717,7 +7717,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,AUGLT,LNG,8.0,4.0,11.0,9.12
 2025-10-19,AUGLT,LNG,10.0,9.0,14.0,10.5
 2025-10-26,AUGLT,LNG,11.0,8.0,14.0,10.75
-2025-11-02,AUGLT,LNG,10.0,5.0,12.0,8.75
+2025-11-02,AUGLT,LNG,10.0,7.0,12.0,9.0
 2025-11-09,AUGLT,LNG,14.0,9.0,14.0,10.43
 2025-11-16,AUGLT,LNG,10.0,9.0,14.0,11.14
 2025-11-23,AUGLT,LNG,10.0,8.0,13.0,10.14
@@ -7769,7 +7769,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,AUGLT,LNG,4.0,4.0,11.0,9.12
 2026-10-18,AUGLT,LNG,10.0,9.0,14.0,10.5
 2026-10-25,AUGLT,LNG,11.0,8.0,14.0,10.75
-2026-11-01,AUGLT,LNG,5.0,5.0,12.0,8.75
+2026-11-01,AUGLT,LNG,7.0,7.0,12.0,9.0
 2019-01-06,DZAZW,LNG,12.0,12.0,20.0,14.12
 2019-01-13,DZAZW,LNG,11.0,9.0,16.0,13.12
 2019-01-20,DZAZW,LNG,11.0,8.0,17.0,12.12
@@ -7813,7 +7813,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,DZAZW,LNG,16.0,6.0,20.0,16.0
 2019-10-20,DZAZW,LNG,10.0,10.0,24.0,17.5
 2019-10-27,DZAZW,LNG,14.0,11.0,21.0,14.75
-2019-11-03,DZAZW,LNG,9.0,7.0,25.0,14.88
+2019-11-03,DZAZW,LNG,9.0,7.0,25.0,15.5
 2019-11-10,DZAZW,LNG,10.0,10.0,22.0,16.43
 2019-11-17,DZAZW,LNG,14.0,10.0,19.0,14.14
 2019-11-24,DZAZW,LNG,12.0,9.0,25.0,15.0
@@ -7865,7 +7865,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,DZAZW,LNG,16.0,6.0,20.0,16.0
 2020-10-18,DZAZW,LNG,14.0,10.0,24.0,17.5
 2020-10-25,DZAZW,LNG,14.0,11.0,21.0,14.75
-2020-11-01,DZAZW,LNG,17.0,7.0,25.0,14.88
+2020-11-01,DZAZW,LNG,17.0,7.0,25.0,15.5
 2020-11-08,DZAZW,LNG,13.0,10.0,22.0,16.43
 2020-11-15,DZAZW,LNG,11.0,10.0,19.0,14.14
 2020-11-22,DZAZW,LNG,12.0,9.0,25.0,15.0
@@ -7918,7 +7918,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,DZAZW,LNG,16.0,6.0,20.0,16.0
 2021-10-24,DZAZW,LNG,15.0,10.0,24.0,17.5
 2021-10-31,DZAZW,LNG,11.0,11.0,21.0,14.75
-2021-11-07,DZAZW,LNG,7.0,7.0,25.0,14.88
+2021-11-07,DZAZW,LNG,7.0,7.0,25.0,15.5
 2021-11-14,DZAZW,LNG,17.0,10.0,22.0,16.43
 2021-11-21,DZAZW,LNG,11.0,10.0,19.0,14.14
 2021-11-28,DZAZW,LNG,9.0,9.0,25.0,15.0
@@ -7970,7 +7970,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,DZAZW,LNG,19.0,6.0,20.0,16.0
 2022-10-23,DZAZW,LNG,18.0,10.0,24.0,17.5
 2022-10-30,DZAZW,LNG,21.0,11.0,21.0,14.75
-2022-11-06,DZAZW,LNG,15.0,7.0,25.0,14.88
+2022-11-06,DZAZW,LNG,15.0,7.0,25.0,15.5
 2022-11-13,DZAZW,LNG,19.0,10.0,22.0,16.43
 2022-11-20,DZAZW,LNG,10.0,10.0,19.0,14.14
 2022-11-27,DZAZW,LNG,25.0,9.0,25.0,15.0
@@ -8022,7 +8022,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,DZAZW,LNG,20.0,6.0,20.0,16.0
 2023-10-22,DZAZW,LNG,18.0,10.0,24.0,17.5
 2023-10-29,DZAZW,LNG,15.0,11.0,21.0,14.75
-2023-11-05,DZAZW,LNG,15.0,7.0,25.0,14.88
+2023-11-05,DZAZW,LNG,15.0,7.0,25.0,15.5
 2023-11-12,DZAZW,LNG,19.0,10.0,22.0,16.43
 2023-11-19,DZAZW,LNG,19.0,10.0,19.0,14.14
 2023-11-26,DZAZW,LNG,17.0,9.0,25.0,15.0
@@ -8074,7 +8074,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,DZAZW,LNG,15.0,6.0,20.0,16.0
 2024-10-20,DZAZW,LNG,19.0,10.0,24.0,17.5
 2024-10-27,DZAZW,LNG,14.0,11.0,21.0,14.75
-2024-11-03,DZAZW,LNG,22.0,7.0,25.0,14.88
+2024-11-03,DZAZW,LNG,22.0,7.0,25.0,15.5
 2024-11-10,DZAZW,LNG,15.0,10.0,22.0,16.43
 2024-11-17,DZAZW,LNG,19.0,10.0,19.0,14.14
 2024-11-24,DZAZW,LNG,16.0,9.0,25.0,15.0
@@ -8126,7 +8126,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,DZAZW,LNG,20.0,6.0,20.0,16.0
 2025-10-19,DZAZW,LNG,24.0,10.0,24.0,17.5
 2025-10-26,DZAZW,LNG,14.0,11.0,21.0,14.75
-2025-11-02,DZAZW,LNG,25.0,7.0,25.0,14.88
+2025-11-02,DZAZW,LNG,25.0,7.0,25.0,15.5
 2025-11-09,DZAZW,LNG,22.0,10.0,22.0,16.43
 2025-11-16,DZAZW,LNG,15.0,10.0,19.0,14.14
 2025-11-23,DZAZW,LNG,14.0,9.0,25.0,15.0
@@ -8178,7 +8178,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,DZAZW,LNG,6.0,6.0,20.0,16.0
 2026-10-18,DZAZW,LNG,22.0,10.0,24.0,17.5
 2026-10-25,DZAZW,LNG,15.0,11.0,21.0,14.75
-2026-11-01,DZAZW,LNG,9.0,7.0,25.0,14.88
+2026-11-01,DZAZW,LNG,14.0,7.0,25.0,15.5
 2019-01-06,MYBTU,LNG,2.0,1.0,12.0,7.25
 2019-01-13,MYBTU,LNG,1.0,1.0,16.0,7.88
 2019-01-20,MYBTU,LNG,4.0,2.0,15.0,8.12
@@ -8222,7 +8222,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,MYBTU,LNG,1.0,1.0,14.0,7.62
 2019-10-20,MYBTU,LNG,4.0,2.0,18.0,9.12
 2019-10-27,MYBTU,LNG,3.0,3.0,25.0,11.12
-2019-11-03,MYBTU,LNG,3.0,1.0,18.0,7.88
+2019-11-03,MYBTU,LNG,3.0,3.0,18.0,8.75
 2019-11-10,MYBTU,LNG,4.0,2.0,19.0,8.86
 2019-11-17,MYBTU,LNG,5.0,1.0,14.0,7.86
 2019-11-24,MYBTU,LNG,4.0,3.0,19.0,9.57
@@ -8274,7 +8274,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,MYBTU,LNG,5.0,1.0,14.0,7.62
 2020-10-18,MYBTU,LNG,2.0,2.0,18.0,9.12
 2020-10-25,MYBTU,LNG,4.0,3.0,25.0,11.12
-2020-11-01,MYBTU,LNG,3.0,1.0,18.0,7.88
+2020-11-01,MYBTU,LNG,3.0,3.0,18.0,8.75
 2020-11-08,MYBTU,LNG,2.0,2.0,19.0,8.86
 2020-11-15,MYBTU,LNG,1.0,1.0,14.0,7.86
 2020-11-22,MYBTU,LNG,5.0,3.0,19.0,9.57
@@ -8327,7 +8327,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,MYBTU,LNG,4.0,1.0,14.0,7.62
 2021-10-24,MYBTU,LNG,7.0,2.0,18.0,9.12
 2021-10-31,MYBTU,LNG,6.0,3.0,25.0,11.12
-2021-11-07,MYBTU,LNG,6.0,1.0,18.0,7.88
+2021-11-07,MYBTU,LNG,6.0,3.0,18.0,8.75
 2021-11-14,MYBTU,LNG,4.0,2.0,19.0,8.86
 2021-11-21,MYBTU,LNG,6.0,1.0,14.0,7.86
 2021-11-28,MYBTU,LNG,3.0,3.0,19.0,9.57
@@ -8379,7 +8379,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,MYBTU,LNG,14.0,1.0,14.0,7.62
 2022-10-23,MYBTU,LNG,16.0,2.0,18.0,9.12
 2022-10-30,MYBTU,LNG,19.0,3.0,25.0,11.12
-2022-11-06,MYBTU,LNG,18.0,1.0,18.0,7.88
+2022-11-06,MYBTU,LNG,18.0,3.0,18.0,8.75
 2022-11-13,MYBTU,LNG,16.0,2.0,19.0,8.86
 2022-11-20,MYBTU,LNG,14.0,1.0,14.0,7.86
 2022-11-27,MYBTU,LNG,19.0,3.0,19.0,9.57
@@ -8431,7 +8431,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,MYBTU,LNG,10.0,1.0,14.0,7.62
 2023-10-22,MYBTU,LNG,5.0,2.0,18.0,9.12
 2023-10-29,MYBTU,LNG,12.0,3.0,25.0,11.12
-2023-11-05,MYBTU,LNG,9.0,1.0,18.0,7.88
+2023-11-05,MYBTU,LNG,9.0,3.0,18.0,8.75
 2023-11-12,MYBTU,LNG,10.0,2.0,19.0,8.86
 2023-11-19,MYBTU,LNG,12.0,1.0,14.0,7.86
 2023-11-26,MYBTU,LNG,8.0,3.0,19.0,9.57
@@ -8483,7 +8483,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,MYBTU,LNG,13.0,1.0,14.0,7.62
 2024-10-20,MYBTU,LNG,13.0,2.0,18.0,9.12
 2024-10-27,MYBTU,LNG,8.0,3.0,25.0,11.12
-2024-11-03,MYBTU,LNG,14.0,1.0,18.0,7.88
+2024-11-03,MYBTU,LNG,14.0,3.0,18.0,8.75
 2024-11-10,MYBTU,LNG,19.0,2.0,19.0,8.86
 2024-11-17,MYBTU,LNG,7.0,1.0,14.0,7.86
 2024-11-24,MYBTU,LNG,14.0,3.0,19.0,9.57
@@ -8535,7 +8535,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,MYBTU,LNG,8.0,1.0,14.0,7.62
 2025-10-19,MYBTU,LNG,8.0,2.0,18.0,9.12
 2025-10-26,MYBTU,LNG,12.0,3.0,25.0,11.12
-2025-11-02,MYBTU,LNG,9.0,1.0,18.0,7.88
+2025-11-02,MYBTU,LNG,9.0,3.0,18.0,8.75
 2025-11-09,MYBTU,LNG,7.0,2.0,19.0,8.86
 2025-11-16,MYBTU,LNG,10.0,1.0,14.0,7.86
 2025-11-23,MYBTU,LNG,14.0,3.0,19.0,9.57
@@ -8587,7 +8587,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,MYBTU,LNG,6.0,1.0,14.0,7.62
 2026-10-18,MYBTU,LNG,18.0,2.0,18.0,9.12
 2026-10-25,MYBTU,LNG,25.0,3.0,25.0,11.12
-2026-11-01,MYBTU,LNG,1.0,1.0,18.0,7.88
+2026-11-01,MYBTU,LNG,8.0,3.0,18.0,8.75
 2019-01-06,NGBON,LNG,8.0,3.0,8.0,6.12
 2019-01-13,NGBON,LNG,6.0,5.0,10.0,6.38
 2019-01-20,NGBON,LNG,7.0,5.0,8.0,6.5
@@ -8631,7 +8631,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,NGBON,LNG,9.0,3.0,9.0,6.0
 2019-10-20,NGBON,LNG,7.0,4.0,8.0,6.0
 2019-10-27,NGBON,LNG,7.0,5.0,10.0,6.5
-2019-11-03,NGBON,LNG,9.0,0.0,10.0,5.38
+2019-11-03,NGBON,LNG,9.0,1.0,10.0,5.5
 2019-11-10,NGBON,LNG,9.0,4.0,9.0,6.0
 2019-11-17,NGBON,LNG,7.0,5.0,9.0,6.43
 2019-11-24,NGBON,LNG,8.0,4.0,8.0,5.57
@@ -8683,7 +8683,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,NGBON,LNG,7.0,3.0,9.0,6.0
 2020-10-18,NGBON,LNG,8.0,4.0,8.0,6.0
 2020-10-25,NGBON,LNG,5.0,5.0,10.0,6.5
-2020-11-01,NGBON,LNG,5.0,0.0,10.0,5.38
+2020-11-01,NGBON,LNG,5.0,1.0,10.0,5.5
 2020-11-08,NGBON,LNG,6.0,4.0,9.0,6.0
 2020-11-15,NGBON,LNG,9.0,5.0,9.0,6.43
 2020-11-22,NGBON,LNG,4.0,4.0,8.0,5.57
@@ -8736,7 +8736,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,NGBON,LNG,5.0,3.0,9.0,6.0
 2021-10-24,NGBON,LNG,5.0,4.0,8.0,6.0
 2021-10-31,NGBON,LNG,7.0,5.0,10.0,6.5
-2021-11-07,NGBON,LNG,6.0,0.0,10.0,5.38
+2021-11-07,NGBON,LNG,6.0,1.0,10.0,5.5
 2021-11-14,NGBON,LNG,7.0,4.0,9.0,6.0
 2021-11-21,NGBON,LNG,6.0,5.0,9.0,6.43
 2021-11-28,NGBON,LNG,6.0,4.0,8.0,5.57
@@ -8788,7 +8788,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,NGBON,LNG,5.0,3.0,9.0,6.0
 2022-10-23,NGBON,LNG,6.0,4.0,8.0,6.0
 2022-10-30,NGBON,LNG,5.0,5.0,10.0,6.5
-2022-11-06,NGBON,LNG,5.0,0.0,10.0,5.38
+2022-11-06,NGBON,LNG,5.0,1.0,10.0,5.5
 2022-11-13,NGBON,LNG,5.0,4.0,9.0,6.0
 2022-11-20,NGBON,LNG,6.0,5.0,9.0,6.43
 2022-11-27,NGBON,LNG,6.0,4.0,8.0,5.57
@@ -8840,7 +8840,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,NGBON,LNG,8.0,3.0,9.0,6.0
 2023-10-22,NGBON,LNG,5.0,4.0,8.0,6.0
 2023-10-29,NGBON,LNG,5.0,5.0,10.0,6.5
-2023-11-05,NGBON,LNG,3.0,0.0,10.0,5.38
+2023-11-05,NGBON,LNG,3.0,1.0,10.0,5.5
 2023-11-12,NGBON,LNG,4.0,4.0,9.0,6.0
 2023-11-19,NGBON,LNG,5.0,5.0,9.0,6.43
 2023-11-26,NGBON,LNG,5.0,4.0,8.0,5.57
@@ -8892,7 +8892,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,NGBON,LNG,3.0,3.0,9.0,6.0
 2024-10-20,NGBON,LNG,7.0,4.0,8.0,6.0
 2024-10-27,NGBON,LNG,6.0,5.0,10.0,6.5
-2024-11-03,NGBON,LNG,5.0,0.0,10.0,5.38
+2024-11-03,NGBON,LNG,5.0,1.0,10.0,5.5
 2024-11-10,NGBON,LNG,6.0,4.0,9.0,6.0
 2024-11-17,NGBON,LNG,5.0,5.0,9.0,6.43
 2024-11-24,NGBON,LNG,4.0,4.0,8.0,5.57
@@ -8944,7 +8944,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,NGBON,LNG,8.0,3.0,9.0,6.0
 2025-10-19,NGBON,LNG,4.0,4.0,8.0,6.0
 2025-10-26,NGBON,LNG,10.0,5.0,10.0,6.5
-2025-11-02,NGBON,LNG,10.0,0.0,10.0,5.38
+2025-11-02,NGBON,LNG,10.0,1.0,10.0,5.5
 2025-11-09,NGBON,LNG,5.0,4.0,9.0,6.0
 2025-11-16,NGBON,LNG,7.0,5.0,9.0,6.43
 2025-11-23,NGBON,LNG,6.0,4.0,8.0,5.57
@@ -8996,7 +8996,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,NGBON,LNG,3.0,3.0,9.0,6.0
 2026-10-18,NGBON,LNG,6.0,4.0,8.0,6.0
 2026-10-25,NGBON,LNG,7.0,5.0,10.0,6.5
-2026-11-01,NGBON,LNG,0.0,0.0,10.0,5.38
+2026-11-01,NGBON,LNG,1.0,1.0,10.0,5.5
 2019-01-06,NOHFT,LNG,4.0,2.0,4.0,3.0
 2019-01-13,NOHFT,LNG,1.0,1.0,4.0,2.0
 2019-01-20,NOHFT,LNG,2.0,1.0,6.0,2.62
@@ -9449,7 +9449,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,QARLF,LNG,30.0,0.0,42.0,30.88
 2019-10-20,QARLF,LNG,31.0,7.0,39.0,30.75
 2019-10-27,QARLF,LNG,32.0,5.0,32.0,24.62
-2019-11-03,QARLF,LNG,25.0,1.0,30.0,21.5
+2019-11-03,QARLF,LNG,25.0,2.0,30.0,21.62
 2019-11-10,QARLF,LNG,26.0,16.0,30.0,23.43
 2019-11-17,QARLF,LNG,9.0,9.0,31.0,22.71
 2019-11-24,QARLF,LNG,16.0,16.0,33.0,26.43
@@ -9501,7 +9501,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,QARLF,LNG,29.0,0.0,42.0,30.88
 2020-10-18,QARLF,LNG,34.0,7.0,39.0,30.75
 2020-10-25,QARLF,LNG,30.0,5.0,32.0,24.62
-2020-11-01,QARLF,LNG,30.0,1.0,30.0,21.5
+2020-11-01,QARLF,LNG,30.0,2.0,30.0,21.62
 2020-11-08,QARLF,LNG,28.0,16.0,30.0,23.43
 2020-11-15,QARLF,LNG,25.0,9.0,31.0,22.71
 2020-11-22,QARLF,LNG,24.0,16.0,33.0,26.43
@@ -9554,7 +9554,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,QARLF,LNG,35.0,0.0,42.0,30.88
 2021-10-24,QARLF,LNG,35.0,7.0,39.0,30.75
 2021-10-31,QARLF,LNG,30.0,5.0,32.0,24.62
-2021-11-07,QARLF,LNG,29.0,1.0,30.0,21.5
+2021-11-07,QARLF,LNG,29.0,2.0,30.0,21.62
 2021-11-14,QARLF,LNG,19.0,16.0,30.0,23.43
 2021-11-21,QARLF,LNG,26.0,9.0,31.0,22.71
 2021-11-28,QARLF,LNG,33.0,16.0,33.0,26.43
@@ -9606,7 +9606,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,QARLF,LNG,42.0,0.0,42.0,30.88
 2022-10-23,QARLF,LNG,39.0,7.0,39.0,30.75
 2022-10-30,QARLF,LNG,31.0,5.0,32.0,24.62
-2022-11-06,QARLF,LNG,24.0,1.0,30.0,21.5
+2022-11-06,QARLF,LNG,24.0,2.0,30.0,21.62
 2022-11-13,QARLF,LNG,30.0,16.0,30.0,23.43
 2022-11-20,QARLF,LNG,31.0,9.0,31.0,22.71
 2022-11-27,QARLF,LNG,32.0,16.0,33.0,26.43
@@ -9658,7 +9658,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,QARLF,LNG,39.0,0.0,42.0,30.88
 2023-10-22,QARLF,LNG,36.0,7.0,39.0,30.75
 2023-10-29,QARLF,LNG,19.0,5.0,32.0,24.62
-2023-11-05,QARLF,LNG,16.0,1.0,30.0,21.5
+2023-11-05,QARLF,LNG,16.0,2.0,30.0,21.62
 2023-11-12,QARLF,LNG,16.0,16.0,30.0,23.43
 2023-11-19,QARLF,LNG,23.0,9.0,31.0,22.71
 2023-11-26,QARLF,LNG,21.0,16.0,33.0,26.43
@@ -9710,7 +9710,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,QARLF,LNG,41.0,0.0,42.0,30.88
 2024-10-20,QARLF,LNG,32.0,7.0,39.0,30.75
 2024-10-27,QARLF,LNG,18.0,5.0,32.0,24.62
-2024-11-03,QARLF,LNG,25.0,1.0,30.0,21.5
+2024-11-03,QARLF,LNG,25.0,2.0,30.0,21.62
 2024-11-10,QARLF,LNG,24.0,16.0,30.0,23.43
 2024-11-17,QARLF,LNG,29.0,9.0,31.0,22.71
 2024-11-24,QARLF,LNG,32.0,16.0,33.0,26.43
@@ -9762,7 +9762,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,QARLF,LNG,31.0,0.0,42.0,30.88
 2025-10-19,QARLF,LNG,32.0,7.0,39.0,30.75
 2025-10-26,QARLF,LNG,32.0,5.0,32.0,24.62
-2025-11-02,QARLF,LNG,22.0,1.0,30.0,21.5
+2025-11-02,QARLF,LNG,22.0,2.0,30.0,21.62
 2025-11-09,QARLF,LNG,21.0,16.0,30.0,23.43
 2025-11-16,QARLF,LNG,16.0,9.0,31.0,22.71
 2025-11-23,QARLF,LNG,27.0,16.0,33.0,26.43
@@ -9814,7 +9814,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,QARLF,LNG,0.0,0.0,42.0,30.88
 2026-10-18,QARLF,LNG,7.0,7.0,39.0,30.75
 2026-10-25,QARLF,LNG,5.0,5.0,32.0,24.62
-2026-11-01,QARLF,LNG,1.0,1.0,30.0,21.5
+2026-11-01,QARLF,LNG,2.0,2.0,30.0,21.62
 2019-01-06,USCMR,LNG,15.0,8.0,15.0,12.75
 2019-01-13,USCMR,LNG,11.0,8.0,15.0,11.5
 2019-01-20,USCMR,LNG,10.0,10.0,16.0,13.25
@@ -9858,7 +9858,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,USCMR,LNG,8.0,2.0,16.0,10.12
 2019-10-20,USCMR,LNG,13.0,1.0,13.0,9.62
 2019-10-27,USCMR,LNG,18.0,9.0,18.0,12.12
-2019-11-03,USCMR,LNG,11.0,6.0,13.0,10.25
+2019-11-03,USCMR,LNG,11.0,8.0,13.0,10.75
 2019-11-10,USCMR,LNG,13.0,8.0,18.0,13.0
 2019-11-17,USCMR,LNG,8.0,8.0,20.0,14.29
 2019-11-24,USCMR,LNG,12.0,9.0,19.0,13.0
@@ -9910,7 +9910,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,USCMR,LNG,2.0,2.0,16.0,10.12
 2020-10-18,USCMR,LNG,1.0,1.0,13.0,9.62
 2020-10-25,USCMR,LNG,11.0,9.0,18.0,12.12
-2020-11-01,USCMR,LNG,9.0,6.0,13.0,10.25
+2020-11-01,USCMR,LNG,9.0,8.0,13.0,10.75
 2020-11-08,USCMR,LNG,15.0,8.0,18.0,13.0
 2020-11-15,USCMR,LNG,20.0,8.0,20.0,14.29
 2020-11-22,USCMR,LNG,15.0,9.0,19.0,13.0
@@ -9963,7 +9963,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,USCMR,LNG,15.0,2.0,16.0,10.12
 2021-10-24,USCMR,LNG,9.0,1.0,13.0,9.62
 2021-10-31,USCMR,LNG,11.0,9.0,18.0,12.12
-2021-11-07,USCMR,LNG,13.0,6.0,13.0,10.25
+2021-11-07,USCMR,LNG,13.0,8.0,13.0,10.75
 2021-11-14,USCMR,LNG,8.0,8.0,18.0,13.0
 2021-11-21,USCMR,LNG,13.0,8.0,20.0,14.29
 2021-11-28,USCMR,LNG,19.0,9.0,19.0,13.0
@@ -10015,7 +10015,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,USCMR,LNG,16.0,2.0,16.0,10.12
 2022-10-23,USCMR,LNG,9.0,1.0,13.0,9.62
 2022-10-30,USCMR,LNG,13.0,9.0,18.0,12.12
-2022-11-06,USCMR,LNG,8.0,6.0,13.0,10.25
+2022-11-06,USCMR,LNG,8.0,8.0,13.0,10.75
 2022-11-13,USCMR,LNG,12.0,8.0,18.0,13.0
 2022-11-20,USCMR,LNG,17.0,8.0,20.0,14.29
 2022-11-27,USCMR,LNG,9.0,9.0,19.0,13.0
@@ -10067,7 +10067,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,USCMR,LNG,12.0,2.0,16.0,10.12
 2023-10-22,USCMR,LNG,11.0,1.0,13.0,9.62
 2023-10-29,USCMR,LNG,14.0,9.0,18.0,12.12
-2023-11-05,USCMR,LNG,11.0,6.0,13.0,10.25
+2023-11-05,USCMR,LNG,11.0,8.0,13.0,10.75
 2023-11-12,USCMR,LNG,18.0,8.0,18.0,13.0
 2023-11-19,USCMR,LNG,15.0,8.0,20.0,14.29
 2023-11-26,USCMR,LNG,13.0,9.0,19.0,13.0
@@ -10119,7 +10119,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,USCMR,LNG,13.0,2.0,16.0,10.12
 2024-10-20,USCMR,LNG,11.0,1.0,13.0,9.62
 2024-10-27,USCMR,LNG,11.0,9.0,18.0,12.12
-2024-11-03,USCMR,LNG,12.0,6.0,13.0,10.25
+2024-11-03,USCMR,LNG,12.0,8.0,13.0,10.75
 2024-11-10,USCMR,LNG,14.0,8.0,18.0,13.0
 2024-11-17,USCMR,LNG,13.0,8.0,20.0,14.29
 2024-11-24,USCMR,LNG,10.0,9.0,19.0,13.0
@@ -10171,7 +10171,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,USCMR,LNG,9.0,2.0,16.0,10.12
 2025-10-19,USCMR,LNG,12.0,1.0,13.0,9.62
 2025-10-26,USCMR,LNG,9.0,9.0,18.0,12.12
-2025-11-02,USCMR,LNG,12.0,6.0,13.0,10.25
+2025-11-02,USCMR,LNG,12.0,8.0,13.0,10.75
 2025-11-09,USCMR,LNG,11.0,8.0,18.0,13.0
 2025-11-16,USCMR,LNG,14.0,8.0,20.0,14.29
 2025-11-23,USCMR,LNG,13.0,9.0,19.0,13.0
@@ -10223,7 +10223,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,USCMR,LNG,6.0,2.0,16.0,10.12
 2026-10-18,USCMR,LNG,11.0,1.0,13.0,9.62
 2026-10-25,USCMR,LNG,10.0,9.0,18.0,12.12
-2026-11-01,USCMR,LNG,6.0,6.0,13.0,10.25
+2026-11-01,USCMR,LNG,10.0,8.0,13.0,10.75
 2019-01-06,USCRP,LNG,25.0,25.0,37.0,29.25
 2019-01-13,USCRP,LNG,25.0,25.0,33.0,29.75
 2019-01-20,USCRP,LNG,30.0,25.0,30.0,27.38
@@ -10267,7 +10267,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,USCRP,LNG,33.0,10.0,35.0,27.0
 2019-10-20,USCRP,LNG,28.0,28.0,35.0,30.12
 2019-10-27,USCRP,LNG,29.0,27.0,40.0,30.5
-2019-11-03,USCRP,LNG,24.0,3.0,32.0,22.12
+2019-11-03,USCRP,LNG,24.0,16.0,32.0,23.75
 2019-11-10,USCRP,LNG,29.0,25.0,29.0,27.86
 2019-11-17,USCRP,LNG,24.0,20.0,31.0,26.57
 2019-11-24,USCRP,LNG,27.0,27.0,33.0,30.57
@@ -10319,7 +10319,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,USCRP,LNG,26.0,10.0,35.0,27.0
 2020-10-18,USCRP,LNG,29.0,28.0,35.0,30.12
 2020-10-25,USCRP,LNG,27.0,27.0,40.0,30.5
-2020-11-01,USCRP,LNG,23.0,3.0,32.0,22.12
+2020-11-01,USCRP,LNG,23.0,16.0,32.0,23.75
 2020-11-08,USCRP,LNG,25.0,25.0,29.0,27.86
 2020-11-15,USCRP,LNG,20.0,20.0,31.0,26.57
 2020-11-22,USCRP,LNG,31.0,27.0,33.0,30.57
@@ -10372,7 +10372,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,USCRP,LNG,33.0,10.0,35.0,27.0
 2021-10-24,USCRP,LNG,30.0,28.0,35.0,30.12
 2021-10-31,USCRP,LNG,30.0,27.0,40.0,30.5
-2021-11-07,USCRP,LNG,25.0,3.0,32.0,22.12
+2021-11-07,USCRP,LNG,25.0,16.0,32.0,23.75
 2021-11-14,USCRP,LNG,29.0,25.0,29.0,27.86
 2021-11-21,USCRP,LNG,31.0,20.0,31.0,26.57
 2021-11-28,USCRP,LNG,33.0,27.0,33.0,30.57
@@ -10424,7 +10424,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,USCRP,LNG,35.0,10.0,35.0,27.0
 2022-10-23,USCRP,LNG,34.0,28.0,35.0,30.12
 2022-10-30,USCRP,LNG,34.0,27.0,40.0,30.5
-2022-11-06,USCRP,LNG,32.0,3.0,32.0,22.12
+2022-11-06,USCRP,LNG,32.0,16.0,32.0,23.75
 2022-11-13,USCRP,LNG,29.0,25.0,29.0,27.86
 2022-11-20,USCRP,LNG,29.0,20.0,31.0,26.57
 2022-11-27,USCRP,LNG,33.0,27.0,33.0,30.57
@@ -10476,7 +10476,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,USCRP,LNG,34.0,10.0,35.0,27.0
 2023-10-22,USCRP,LNG,35.0,28.0,35.0,30.12
 2023-10-29,USCRP,LNG,28.0,27.0,40.0,30.5
-2023-11-05,USCRP,LNG,22.0,3.0,32.0,22.12
+2023-11-05,USCRP,LNG,22.0,16.0,32.0,23.75
 2023-11-12,USCRP,LNG,27.0,25.0,29.0,27.86
 2023-11-19,USCRP,LNG,24.0,20.0,31.0,26.57
 2023-11-26,USCRP,LNG,30.0,27.0,33.0,30.57
@@ -10528,7 +10528,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,USCRP,LNG,21.0,10.0,35.0,27.0
 2024-10-20,USCRP,LNG,28.0,28.0,35.0,30.12
 2024-10-27,USCRP,LNG,28.0,27.0,40.0,30.5
-2024-11-03,USCRP,LNG,24.0,3.0,32.0,22.12
+2024-11-03,USCRP,LNG,24.0,16.0,32.0,23.75
 2024-11-10,USCRP,LNG,29.0,25.0,29.0,27.86
 2024-11-17,USCRP,LNG,29.0,20.0,31.0,26.57
 2024-11-24,USCRP,LNG,32.0,27.0,33.0,30.57
@@ -10580,7 +10580,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,USCRP,LNG,24.0,10.0,35.0,27.0
 2025-10-19,USCRP,LNG,29.0,28.0,35.0,30.12
 2025-10-26,USCRP,LNG,28.0,27.0,40.0,30.5
-2025-11-02,USCRP,LNG,24.0,3.0,32.0,22.12
+2025-11-02,USCRP,LNG,24.0,16.0,32.0,23.75
 2025-11-09,USCRP,LNG,27.0,25.0,29.0,27.86
 2025-11-16,USCRP,LNG,29.0,20.0,31.0,26.57
 2025-11-23,USCRP,LNG,28.0,27.0,33.0,30.57
@@ -10632,7 +10632,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,USCRP,LNG,10.0,10.0,35.0,27.0
 2026-10-18,USCRP,LNG,28.0,28.0,35.0,30.12
 2026-10-25,USCRP,LNG,40.0,27.0,40.0,30.5
-2026-11-01,USCRP,LNG,3.0,3.0,32.0,22.12
+2026-11-01,USCRP,LNG,16.0,16.0,32.0,23.75
 2019-01-06,USCVP,LNG,2.0,1.0,2.0,1.5
 2019-01-13,USCVP,LNG,0.0,0.0,2.0,1.25
 2019-01-20,USCVP,LNG,1.0,0.0,3.0,1.38
@@ -10676,7 +10676,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,USCVP,LNG,0.0,0.0,0.0,0.0
 2019-10-20,USCVP,LNG,0.0,0.0,2.0,0.75
 2019-10-27,USCVP,LNG,2.0,0.0,2.0,1.25
-2019-11-03,USCVP,LNG,1.0,0.0,3.0,1.62
+2019-11-03,USCVP,LNG,1.0,1.0,3.0,1.75
 2019-11-10,USCVP,LNG,1.0,0.0,2.0,0.86
 2019-11-17,USCVP,LNG,1.0,1.0,3.0,1.71
 2019-11-24,USCVP,LNG,1.0,1.0,3.0,1.57
@@ -10728,7 +10728,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,USCVP,LNG,0.0,0.0,0.0,0.0
 2020-10-18,USCVP,LNG,0.0,0.0,2.0,0.75
 2020-10-25,USCVP,LNG,2.0,0.0,2.0,1.25
-2020-11-01,USCVP,LNG,1.0,0.0,3.0,1.62
+2020-11-01,USCVP,LNG,1.0,1.0,3.0,1.75
 2020-11-08,USCVP,LNG,0.0,0.0,2.0,0.86
 2020-11-15,USCVP,LNG,1.0,1.0,3.0,1.71
 2020-11-22,USCVP,LNG,1.0,1.0,3.0,1.57
@@ -10781,7 +10781,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,USCVP,LNG,0.0,0.0,0.0,0.0
 2021-10-24,USCVP,LNG,1.0,0.0,2.0,0.75
 2021-10-31,USCVP,LNG,1.0,0.0,2.0,1.25
-2021-11-07,USCVP,LNG,2.0,0.0,3.0,1.62
+2021-11-07,USCVP,LNG,2.0,1.0,3.0,1.75
 2021-11-14,USCVP,LNG,1.0,0.0,2.0,0.86
 2021-11-21,USCVP,LNG,3.0,1.0,3.0,1.71
 2021-11-28,USCVP,LNG,2.0,1.0,3.0,1.57
@@ -10833,7 +10833,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,USCVP,LNG,0.0,0.0,0.0,0.0
 2022-10-23,USCVP,LNG,0.0,0.0,2.0,0.75
 2022-10-30,USCVP,LNG,0.0,0.0,2.0,1.25
-2022-11-06,USCVP,LNG,3.0,0.0,3.0,1.62
+2022-11-06,USCVP,LNG,3.0,1.0,3.0,1.75
 2022-11-13,USCVP,LNG,0.0,0.0,2.0,0.86
 2022-11-20,USCVP,LNG,2.0,1.0,3.0,1.71
 2022-11-27,USCVP,LNG,1.0,1.0,3.0,1.57
@@ -10885,7 +10885,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,USCVP,LNG,0.0,0.0,0.0,0.0
 2023-10-22,USCVP,LNG,2.0,0.0,2.0,0.75
 2023-10-29,USCVP,LNG,0.0,0.0,2.0,1.25
-2023-11-05,USCVP,LNG,2.0,0.0,3.0,1.62
+2023-11-05,USCVP,LNG,2.0,1.0,3.0,1.75
 2023-11-12,USCVP,LNG,1.0,0.0,2.0,0.86
 2023-11-19,USCVP,LNG,2.0,1.0,3.0,1.71
 2023-11-26,USCVP,LNG,1.0,1.0,3.0,1.57
@@ -10937,7 +10937,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,USCVP,LNG,0.0,0.0,0.0,0.0
 2024-10-20,USCVP,LNG,2.0,0.0,2.0,0.75
 2024-10-27,USCVP,LNG,1.0,0.0,2.0,1.25
-2024-11-03,USCVP,LNG,1.0,0.0,3.0,1.62
+2024-11-03,USCVP,LNG,1.0,1.0,3.0,1.75
 2024-11-10,USCVP,LNG,2.0,0.0,2.0,0.86
 2024-11-17,USCVP,LNG,2.0,1.0,3.0,1.71
 2024-11-24,USCVP,LNG,2.0,1.0,3.0,1.57
@@ -10989,7 +10989,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,USCVP,LNG,0.0,0.0,0.0,0.0
 2025-10-19,USCVP,LNG,1.0,0.0,2.0,0.75
 2025-10-26,USCVP,LNG,2.0,0.0,2.0,1.25
-2025-11-02,USCVP,LNG,3.0,0.0,3.0,1.62
+2025-11-02,USCVP,LNG,3.0,1.0,3.0,1.75
 2025-11-09,USCVP,LNG,1.0,0.0,2.0,0.86
 2025-11-16,USCVP,LNG,1.0,1.0,3.0,1.71
 2025-11-23,USCVP,LNG,3.0,1.0,3.0,1.57
@@ -11041,7 +11041,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,USCVP,LNG,0.0,0.0,0.0,0.0
 2026-10-18,USCVP,LNG,0.0,0.0,2.0,0.75
 2026-10-25,USCVP,LNG,2.0,0.0,2.0,1.25
-2026-11-01,USCVP,LNG,0.0,0.0,3.0,1.62
+2026-11-01,USCVP,LNG,1.0,1.0,3.0,1.75
 2019-01-06,USSPG,LNG,9.0,9.0,17.0,11.62
 2019-01-13,USSPG,LNG,9.0,9.0,15.0,10.62
 2019-01-20,USSPG,LNG,5.0,5.0,16.0,10.25
@@ -11085,7 +11085,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,USSPG,LNG,17.0,2.0,17.0,13.12
 2019-10-20,USSPG,LNG,11.0,8.0,19.0,12.5
 2019-10-27,USSPG,LNG,13.0,7.0,13.0,10.75
-2019-11-03,USSPG,LNG,11.0,2.0,14.0,10.88
+2019-11-03,USSPG,LNG,11.0,7.0,14.0,11.5
 2019-11-10,USSPG,LNG,13.0,10.0,19.0,12.57
 2019-11-17,USSPG,LNG,10.0,9.0,13.0,10.29
 2019-11-24,USSPG,LNG,9.0,9.0,16.0,12.71
@@ -11137,7 +11137,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,USSPG,LNG,17.0,2.0,17.0,13.12
 2020-10-18,USSPG,LNG,11.0,8.0,19.0,12.5
 2020-10-25,USSPG,LNG,13.0,7.0,13.0,10.75
-2020-11-01,USSPG,LNG,12.0,2.0,14.0,10.88
+2020-11-01,USSPG,LNG,12.0,7.0,14.0,11.5
 2020-11-08,USSPG,LNG,10.0,10.0,19.0,12.57
 2020-11-15,USSPG,LNG,9.0,9.0,13.0,10.29
 2020-11-22,USSPG,LNG,12.0,9.0,16.0,12.71
@@ -11190,7 +11190,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,USSPG,LNG,12.0,2.0,17.0,13.12
 2021-10-24,USSPG,LNG,13.0,8.0,19.0,12.5
 2021-10-31,USSPG,LNG,7.0,7.0,13.0,10.75
-2021-11-07,USSPG,LNG,11.0,2.0,14.0,10.88
+2021-11-07,USSPG,LNG,11.0,7.0,14.0,11.5
 2021-11-14,USSPG,LNG,11.0,10.0,19.0,12.57
 2021-11-21,USSPG,LNG,10.0,9.0,13.0,10.29
 2021-11-28,USSPG,LNG,11.0,9.0,16.0,12.71
@@ -11242,7 +11242,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,USSPG,LNG,10.0,2.0,17.0,13.12
 2022-10-23,USSPG,LNG,10.0,8.0,19.0,12.5
 2022-10-30,USSPG,LNG,13.0,7.0,13.0,10.75
-2022-11-06,USSPG,LNG,13.0,2.0,14.0,10.88
+2022-11-06,USSPG,LNG,13.0,7.0,14.0,11.5
 2022-11-13,USSPG,LNG,13.0,10.0,19.0,12.57
 2022-11-20,USSPG,LNG,11.0,9.0,13.0,10.29
 2022-11-27,USSPG,LNG,15.0,9.0,16.0,12.71
@@ -11294,7 +11294,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,USSPG,LNG,13.0,2.0,17.0,13.12
 2023-10-22,USSPG,LNG,17.0,8.0,19.0,12.5
 2023-10-29,USSPG,LNG,12.0,7.0,13.0,10.75
-2023-11-05,USSPG,LNG,11.0,2.0,14.0,10.88
+2023-11-05,USSPG,LNG,11.0,7.0,14.0,11.5
 2023-11-12,USSPG,LNG,12.0,10.0,19.0,12.57
 2023-11-19,USSPG,LNG,9.0,9.0,13.0,10.29
 2023-11-26,USSPG,LNG,14.0,9.0,16.0,12.71
@@ -11346,7 +11346,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,USSPG,LNG,17.0,2.0,17.0,13.12
 2024-10-20,USSPG,LNG,19.0,8.0,19.0,12.5
 2024-10-27,USSPG,LNG,10.0,7.0,13.0,10.75
-2024-11-03,USSPG,LNG,13.0,2.0,14.0,10.88
+2024-11-03,USSPG,LNG,13.0,7.0,14.0,11.5
 2024-11-10,USSPG,LNG,10.0,10.0,19.0,12.57
 2024-11-17,USSPG,LNG,10.0,9.0,13.0,10.29
 2024-11-24,USSPG,LNG,16.0,9.0,16.0,12.71
@@ -11398,7 +11398,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,USSPG,LNG,17.0,2.0,17.0,13.12
 2025-10-19,USSPG,LNG,11.0,8.0,19.0,12.5
 2025-10-26,USSPG,LNG,9.0,7.0,13.0,10.75
-2025-11-02,USSPG,LNG,14.0,2.0,14.0,10.88
+2025-11-02,USSPG,LNG,14.0,7.0,14.0,11.5
 2025-11-09,USSPG,LNG,19.0,10.0,19.0,12.57
 2025-11-16,USSPG,LNG,13.0,9.0,13.0,10.29
 2025-11-23,USSPG,LNG,12.0,9.0,16.0,12.71
@@ -11450,7 +11450,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,USSPG,LNG,2.0,2.0,17.0,13.12
 2026-10-18,USSPG,LNG,8.0,8.0,19.0,12.5
 2026-10-25,USSPG,LNG,9.0,7.0,13.0,10.75
-2026-11-01,USSPG,LNG,2.0,2.0,14.0,10.88
+2026-11-01,USSPG,LNG,7.0,7.0,14.0,11.5
 2019-01-06,CNNGB,LPG,68.0,39.0,125.0,86.0
 2019-01-13,CNNGB,LPG,99.0,48.0,131.0,87.88
 2019-01-20,CNNGB,LPG,91.0,35.0,137.0,95.0
@@ -11494,7 +11494,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,CNNGB,LPG,126.0,23.0,133.0,86.5
 2019-10-20,CNNGB,LPG,98.0,67.0,113.0,93.75
 2019-10-27,CNNGB,LPG,81.0,22.0,143.0,88.62
-2019-11-03,CNNGB,LPG,96.0,44.0,127.0,88.62
+2019-11-03,CNNGB,LPG,96.0,44.0,127.0,93.0
 2019-11-10,CNNGB,LPG,90.0,50.0,132.0,97.29
 2019-11-17,CNNGB,LPG,74.0,45.0,121.0,94.0
 2019-11-24,CNNGB,LPG,52.0,40.0,143.0,95.57
@@ -11546,7 +11546,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,CNNGB,LPG,37.0,23.0,133.0,86.5
 2020-10-18,CNNGB,LPG,67.0,67.0,113.0,93.75
 2020-10-25,CNNGB,LPG,52.0,22.0,143.0,88.62
-2020-11-01,CNNGB,LPG,44.0,44.0,127.0,88.62
+2020-11-01,CNNGB,LPG,44.0,44.0,127.0,93.0
 2020-11-08,CNNGB,LPG,50.0,50.0,132.0,97.29
 2020-11-15,CNNGB,LPG,45.0,45.0,121.0,94.0
 2020-11-22,CNNGB,LPG,40.0,40.0,143.0,95.57
@@ -11599,7 +11599,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,CNNGB,LPG,56.0,23.0,133.0,86.5
 2021-10-24,CNNGB,LPG,102.0,67.0,113.0,93.75
 2021-10-31,CNNGB,LPG,116.0,22.0,143.0,88.62
-2021-11-07,CNNGB,LPG,77.0,44.0,127.0,88.62
+2021-11-07,CNNGB,LPG,77.0,44.0,127.0,93.0
 2021-11-14,CNNGB,LPG,108.0,50.0,132.0,97.29
 2021-11-21,CNNGB,LPG,104.0,45.0,121.0,94.0
 2021-11-28,CNNGB,LPG,112.0,40.0,143.0,95.57
@@ -11651,7 +11651,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,CNNGB,LPG,107.0,23.0,133.0,86.5
 2022-10-23,CNNGB,LPG,113.0,67.0,113.0,93.75
 2022-10-30,CNNGB,LPG,135.0,22.0,143.0,88.62
-2022-11-06,CNNGB,LPG,125.0,44.0,127.0,88.62
+2022-11-06,CNNGB,LPG,125.0,44.0,127.0,93.0
 2022-11-13,CNNGB,LPG,132.0,50.0,132.0,97.29
 2022-11-20,CNNGB,LPG,121.0,45.0,121.0,94.0
 2022-11-27,CNNGB,LPG,132.0,40.0,143.0,95.57
@@ -11703,7 +11703,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,CNNGB,LPG,133.0,23.0,133.0,86.5
 2023-10-22,CNNGB,LPG,106.0,67.0,113.0,93.75
 2023-10-29,CNNGB,LPG,143.0,22.0,143.0,88.62
-2023-11-05,CNNGB,LPG,98.0,44.0,127.0,88.62
+2023-11-05,CNNGB,LPG,98.0,44.0,127.0,93.0
 2023-11-12,CNNGB,LPG,94.0,50.0,132.0,97.29
 2023-11-19,CNNGB,LPG,116.0,45.0,121.0,94.0
 2023-11-26,CNNGB,LPG,143.0,40.0,143.0,95.57
@@ -11755,7 +11755,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,CNNGB,LPG,109.0,23.0,133.0,86.5
 2024-10-20,CNNGB,LPG,82.0,67.0,113.0,93.75
 2024-10-27,CNNGB,LPG,85.0,22.0,143.0,88.62
-2024-11-03,CNNGB,LPG,92.0,44.0,127.0,88.62
+2024-11-03,CNNGB,LPG,92.0,44.0,127.0,93.0
 2024-11-10,CNNGB,LPG,103.0,50.0,132.0,97.29
 2024-11-17,CNNGB,LPG,96.0,45.0,121.0,94.0
 2024-11-24,CNNGB,LPG,104.0,40.0,143.0,95.57
@@ -11807,7 +11807,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,CNNGB,LPG,101.0,23.0,133.0,86.5
 2025-10-19,CNNGB,LPG,85.0,67.0,113.0,93.75
 2025-10-26,CNNGB,LPG,75.0,22.0,143.0,88.62
-2025-11-02,CNNGB,LPG,127.0,44.0,127.0,88.62
+2025-11-02,CNNGB,LPG,127.0,44.0,127.0,93.0
 2025-11-09,CNNGB,LPG,104.0,50.0,132.0,97.29
 2025-11-16,CNNGB,LPG,102.0,45.0,121.0,94.0
 2025-11-23,CNNGB,LPG,86.0,40.0,143.0,95.57
@@ -11859,7 +11859,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,CNNGB,LPG,23.0,23.0,133.0,86.5
 2026-10-18,CNNGB,LPG,97.0,67.0,113.0,93.75
 2026-10-25,CNNGB,LPG,22.0,22.0,143.0,88.62
-2026-11-01,CNNGB,LPG,50.0,44.0,127.0,88.62
+2026-11-01,CNNGB,LPG,85.0,44.0,127.0,93.0
 2019-01-06,CNZHA,LPG,17.0,7.0,24.0,16.38
 2019-01-13,CNZHA,LPG,13.0,7.0,20.0,13.25
 2019-01-20,CNZHA,LPG,24.0,2.0,28.0,18.12
@@ -11903,7 +11903,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,CNZHA,LPG,18.0,8.0,36.0,19.0
 2019-10-20,CNZHA,LPG,19.0,10.0,26.0,18.88
 2019-10-27,CNZHA,LPG,21.0,13.0,25.0,18.88
-2019-11-03,CNZHA,LPG,13.0,3.0,25.0,14.5
+2019-11-03,CNZHA,LPG,13.0,8.0,25.0,15.12
 2019-11-10,CNZHA,LPG,11.0,9.0,23.0,14.86
 2019-11-17,CNZHA,LPG,9.0,8.0,25.0,15.43
 2019-11-24,CNZHA,LPG,4.0,4.0,24.0,15.14
@@ -11955,7 +11955,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,CNZHA,LPG,20.0,8.0,36.0,19.0
 2020-10-18,CNZHA,LPG,15.0,10.0,26.0,18.88
 2020-10-25,CNZHA,LPG,17.0,13.0,25.0,18.88
-2020-11-01,CNZHA,LPG,25.0,3.0,25.0,14.5
+2020-11-01,CNZHA,LPG,25.0,8.0,25.0,15.12
 2020-11-08,CNZHA,LPG,22.0,9.0,23.0,14.86
 2020-11-15,CNZHA,LPG,25.0,8.0,25.0,15.43
 2020-11-22,CNZHA,LPG,24.0,4.0,24.0,15.14
@@ -12008,7 +12008,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,CNZHA,LPG,14.0,8.0,36.0,19.0
 2021-10-24,CNZHA,LPG,25.0,10.0,26.0,18.88
 2021-10-31,CNZHA,LPG,25.0,13.0,25.0,18.88
-2021-11-07,CNZHA,LPG,19.0,3.0,25.0,14.5
+2021-11-07,CNZHA,LPG,19.0,8.0,25.0,15.12
 2021-11-14,CNZHA,LPG,9.0,9.0,23.0,14.86
 2021-11-21,CNZHA,LPG,8.0,8.0,25.0,15.43
 2021-11-28,CNZHA,LPG,9.0,4.0,24.0,15.14
@@ -12060,7 +12060,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,CNZHA,LPG,17.0,8.0,36.0,19.0
 2022-10-23,CNZHA,LPG,17.0,10.0,26.0,18.88
 2022-10-30,CNZHA,LPG,17.0,13.0,25.0,18.88
-2022-11-06,CNZHA,LPG,15.0,3.0,25.0,14.5
+2022-11-06,CNZHA,LPG,15.0,8.0,25.0,15.12
 2022-11-13,CNZHA,LPG,19.0,9.0,23.0,14.86
 2022-11-20,CNZHA,LPG,13.0,8.0,25.0,15.43
 2022-11-27,CNZHA,LPG,18.0,4.0,24.0,15.14
@@ -12112,7 +12112,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,CNZHA,LPG,18.0,8.0,36.0,19.0
 2023-10-22,CNZHA,LPG,10.0,10.0,26.0,18.88
 2023-10-29,CNZHA,LPG,13.0,13.0,25.0,18.88
-2023-11-05,CNZHA,LPG,8.0,3.0,25.0,14.5
+2023-11-05,CNZHA,LPG,8.0,8.0,25.0,15.12
 2023-11-12,CNZHA,LPG,10.0,9.0,23.0,14.86
 2023-11-19,CNZHA,LPG,11.0,8.0,25.0,15.43
 2023-11-26,CNZHA,LPG,12.0,4.0,24.0,15.14
@@ -12164,7 +12164,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,CNZHA,LPG,21.0,8.0,36.0,19.0
 2024-10-20,CNZHA,LPG,15.0,10.0,26.0,18.88
 2024-10-27,CNZHA,LPG,17.0,13.0,25.0,18.88
-2024-11-03,CNZHA,LPG,12.0,3.0,25.0,14.5
+2024-11-03,CNZHA,LPG,12.0,8.0,25.0,15.12
 2024-11-10,CNZHA,LPG,10.0,9.0,23.0,14.86
 2024-11-17,CNZHA,LPG,21.0,8.0,25.0,15.43
 2024-11-24,CNZHA,LPG,17.0,4.0,24.0,15.14
@@ -12216,7 +12216,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,CNZHA,LPG,36.0,8.0,36.0,19.0
 2025-10-19,CNZHA,LPG,26.0,10.0,26.0,18.88
 2025-10-26,CNZHA,LPG,21.0,13.0,25.0,18.88
-2025-11-02,CNZHA,LPG,21.0,3.0,25.0,14.5
+2025-11-02,CNZHA,LPG,21.0,8.0,25.0,15.12
 2025-11-09,CNZHA,LPG,23.0,9.0,23.0,14.86
 2025-11-16,CNZHA,LPG,21.0,8.0,25.0,15.43
 2025-11-23,CNZHA,LPG,22.0,4.0,24.0,15.14
@@ -12268,7 +12268,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,CNZHA,LPG,8.0,8.0,36.0,19.0
 2026-10-18,CNZHA,LPG,24.0,10.0,26.0,18.88
 2026-10-25,CNZHA,LPG,20.0,13.0,25.0,18.88
-2026-11-01,CNZHA,LPG,3.0,3.0,25.0,14.5
+2026-11-01,CNZHA,LPG,8.0,8.0,25.0,15.12
 2019-01-06,JPCHB,LPG,133.0,104.0,181.0,146.75
 2019-01-13,JPCHB,LPG,187.0,146.0,206.0,173.38
 2019-01-20,JPCHB,LPG,175.0,153.0,203.0,175.25
@@ -12312,7 +12312,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,JPCHB,LPG,115.0,32.0,214.0,147.25
 2019-10-20,JPCHB,LPG,194.0,174.0,232.0,195.12
 2019-10-27,JPCHB,LPG,164.0,149.0,214.0,180.88
-2019-11-03,JPCHB,LPG,202.0,80.0,205.0,168.75
+2019-11-03,JPCHB,LPG,202.0,149.0,205.0,177.38
 2019-11-10,JPCHB,LPG,183.0,163.0,206.0,187.43
 2019-11-17,JPCHB,LPG,206.0,156.0,208.0,190.0
 2019-11-24,JPCHB,LPG,184.0,169.0,214.0,192.14
@@ -12364,7 +12364,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,JPCHB,LPG,142.0,32.0,214.0,147.25
 2020-10-18,JPCHB,LPG,232.0,174.0,232.0,195.12
 2020-10-25,JPCHB,LPG,214.0,149.0,214.0,180.88
-2020-11-01,JPCHB,LPG,205.0,80.0,205.0,168.75
+2020-11-01,JPCHB,LPG,205.0,149.0,205.0,177.38
 2020-11-08,JPCHB,LPG,206.0,163.0,206.0,187.43
 2020-11-15,JPCHB,LPG,202.0,156.0,208.0,190.0
 2020-11-22,JPCHB,LPG,214.0,169.0,214.0,192.14
@@ -12417,7 +12417,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,JPCHB,LPG,214.0,32.0,214.0,147.25
 2021-10-24,JPCHB,LPG,192.0,174.0,232.0,195.12
 2021-10-31,JPCHB,LPG,191.0,149.0,214.0,180.88
-2021-11-07,JPCHB,LPG,195.0,80.0,205.0,168.75
+2021-11-07,JPCHB,LPG,195.0,149.0,205.0,177.38
 2021-11-14,JPCHB,LPG,194.0,163.0,206.0,187.43
 2021-11-21,JPCHB,LPG,201.0,156.0,208.0,190.0
 2021-11-28,JPCHB,LPG,194.0,169.0,214.0,192.14
@@ -12469,7 +12469,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,JPCHB,LPG,171.0,32.0,214.0,147.25
 2022-10-23,JPCHB,LPG,203.0,174.0,232.0,195.12
 2022-10-30,JPCHB,LPG,195.0,149.0,214.0,180.88
-2022-11-06,JPCHB,LPG,196.0,80.0,205.0,168.75
+2022-11-06,JPCHB,LPG,196.0,149.0,205.0,177.38
 2022-11-13,JPCHB,LPG,195.0,163.0,206.0,187.43
 2022-11-20,JPCHB,LPG,208.0,156.0,208.0,190.0
 2022-11-27,JPCHB,LPG,169.0,169.0,214.0,192.14
@@ -12521,7 +12521,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,JPCHB,LPG,182.0,32.0,214.0,147.25
 2023-10-22,JPCHB,LPG,184.0,174.0,232.0,195.12
 2023-10-29,JPCHB,LPG,185.0,149.0,214.0,180.88
-2023-11-05,JPCHB,LPG,157.0,80.0,205.0,168.75
+2023-11-05,JPCHB,LPG,157.0,149.0,205.0,177.38
 2023-11-12,JPCHB,LPG,188.0,163.0,206.0,187.43
 2023-11-19,JPCHB,LPG,169.0,156.0,208.0,190.0
 2023-11-26,JPCHB,LPG,205.0,169.0,214.0,192.14
@@ -12573,7 +12573,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,JPCHB,LPG,185.0,32.0,214.0,147.25
 2024-10-20,JPCHB,LPG,174.0,174.0,232.0,195.12
 2024-10-27,JPCHB,LPG,182.0,149.0,214.0,180.88
-2024-11-03,JPCHB,LPG,161.0,80.0,205.0,168.75
+2024-11-03,JPCHB,LPG,161.0,149.0,205.0,177.38
 2024-11-10,JPCHB,LPG,183.0,163.0,206.0,187.43
 2024-11-17,JPCHB,LPG,188.0,156.0,208.0,190.0
 2024-11-24,JPCHB,LPG,191.0,169.0,214.0,192.14
@@ -12625,7 +12625,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,JPCHB,LPG,137.0,32.0,214.0,147.25
 2025-10-19,JPCHB,LPG,177.0,174.0,232.0,195.12
 2025-10-26,JPCHB,LPG,149.0,149.0,214.0,180.88
-2025-11-02,JPCHB,LPG,154.0,80.0,205.0,168.75
+2025-11-02,JPCHB,LPG,154.0,149.0,205.0,177.38
 2025-11-09,JPCHB,LPG,163.0,163.0,206.0,187.43
 2025-11-16,JPCHB,LPG,156.0,156.0,208.0,190.0
 2025-11-23,JPCHB,LPG,188.0,169.0,214.0,192.14
@@ -12677,7 +12677,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,JPCHB,LPG,32.0,32.0,214.0,147.25
 2026-10-18,JPCHB,LPG,205.0,174.0,232.0,195.12
 2026-10-25,JPCHB,LPG,167.0,149.0,214.0,180.88
-2026-11-01,JPCHB,LPG,80.0,80.0,205.0,168.75
+2026-11-01,JPCHB,LPG,149.0,149.0,205.0,177.38
 2019-01-06,JPYOK,LPG,38.0,33.0,71.0,47.5
 2019-01-13,JPYOK,LPG,70.0,44.0,77.0,61.5
 2019-01-20,JPYOK,LPG,67.0,45.0,67.0,57.5
@@ -12721,7 +12721,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,JPYOK,LPG,43.0,43.0,72.0,53.38
 2019-10-20,JPYOK,LPG,60.0,53.0,74.0,60.38
 2019-10-27,JPYOK,LPG,70.0,49.0,73.0,60.75
-2019-11-03,JPYOK,LPG,77.0,25.0,77.0,59.62
+2019-11-03,JPYOK,LPG,77.0,42.0,77.0,61.75
 2019-11-10,JPYOK,LPG,77.0,53.0,77.0,65.14
 2019-11-17,JPYOK,LPG,75.0,51.0,75.0,61.14
 2019-11-24,JPYOK,LPG,69.0,49.0,77.0,62.86
@@ -12773,7 +12773,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,JPYOK,LPG,45.0,43.0,72.0,53.38
 2020-10-18,JPYOK,LPG,53.0,53.0,74.0,60.38
 2020-10-25,JPYOK,LPG,58.0,49.0,73.0,60.75
-2020-11-01,JPYOK,LPG,50.0,25.0,77.0,59.62
+2020-11-01,JPYOK,LPG,50.0,42.0,77.0,61.75
 2020-11-08,JPYOK,LPG,56.0,53.0,77.0,65.14
 2020-11-15,JPYOK,LPG,51.0,51.0,75.0,61.14
 2020-11-22,JPYOK,LPG,62.0,49.0,77.0,62.86
@@ -12826,7 +12826,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,JPYOK,LPG,72.0,43.0,72.0,53.38
 2021-10-24,JPYOK,LPG,72.0,53.0,74.0,60.38
 2021-10-31,JPYOK,LPG,68.0,49.0,73.0,60.75
-2021-11-07,JPYOK,LPG,73.0,25.0,77.0,59.62
+2021-11-07,JPYOK,LPG,73.0,42.0,77.0,61.75
 2021-11-14,JPYOK,LPG,75.0,53.0,77.0,65.14
 2021-11-21,JPYOK,LPG,62.0,51.0,75.0,61.14
 2021-11-28,JPYOK,LPG,60.0,49.0,77.0,62.86
@@ -12878,7 +12878,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,JPYOK,LPG,54.0,43.0,72.0,53.38
 2022-10-23,JPYOK,LPG,54.0,53.0,74.0,60.38
 2022-10-30,JPYOK,LPG,65.0,49.0,73.0,60.75
-2022-11-06,JPYOK,LPG,68.0,25.0,77.0,59.62
+2022-11-06,JPYOK,LPG,68.0,42.0,77.0,61.75
 2022-11-13,JPYOK,LPG,72.0,53.0,77.0,65.14
 2022-11-20,JPYOK,LPG,59.0,51.0,75.0,61.14
 2022-11-27,JPYOK,LPG,66.0,49.0,77.0,62.86
@@ -12930,7 +12930,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,JPYOK,LPG,59.0,43.0,72.0,53.38
 2023-10-22,JPYOK,LPG,74.0,53.0,74.0,60.38
 2023-10-29,JPYOK,LPG,73.0,49.0,73.0,60.75
-2023-11-05,JPYOK,LPG,57.0,25.0,77.0,59.62
+2023-11-05,JPYOK,LPG,57.0,42.0,77.0,61.75
 2023-11-12,JPYOK,LPG,67.0,53.0,77.0,65.14
 2023-11-19,JPYOK,LPG,58.0,51.0,75.0,61.14
 2023-11-26,JPYOK,LPG,77.0,49.0,77.0,62.86
@@ -12982,7 +12982,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,JPYOK,LPG,52.0,43.0,72.0,53.38
 2024-10-20,JPYOK,LPG,54.0,53.0,74.0,60.38
 2024-10-27,JPYOK,LPG,49.0,49.0,73.0,60.75
-2024-11-03,JPYOK,LPG,67.0,25.0,77.0,59.62
+2024-11-03,JPYOK,LPG,67.0,42.0,77.0,61.75
 2024-11-10,JPYOK,LPG,53.0,53.0,77.0,65.14
 2024-11-17,JPYOK,LPG,60.0,51.0,75.0,61.14
 2024-11-24,JPYOK,LPG,49.0,49.0,77.0,62.86
@@ -13034,7 +13034,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,JPYOK,LPG,46.0,43.0,72.0,53.38
 2025-10-19,JPYOK,LPG,59.0,53.0,74.0,60.38
 2025-10-26,JPYOK,LPG,50.0,49.0,73.0,60.75
-2025-11-02,JPYOK,LPG,60.0,25.0,77.0,59.62
+2025-11-02,JPYOK,LPG,60.0,42.0,77.0,61.75
 2025-11-09,JPYOK,LPG,56.0,53.0,77.0,65.14
 2025-11-16,JPYOK,LPG,63.0,51.0,75.0,61.14
 2025-11-23,JPYOK,LPG,57.0,49.0,77.0,62.86
@@ -13086,7 +13086,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,JPYOK,LPG,56.0,43.0,72.0,53.38
 2026-10-18,JPYOK,LPG,57.0,53.0,74.0,60.38
 2026-10-25,JPYOK,LPG,53.0,49.0,73.0,60.75
-2026-11-01,JPYOK,LPG,25.0,25.0,77.0,59.62
+2026-11-01,JPYOK,LPG,42.0,42.0,77.0,61.75
 2019-01-06,KRUSN,LPG,172.0,85.0,220.0,134.75
 2019-01-13,KRUSN,LPG,234.0,89.0,279.0,174.25
 2019-01-20,KRUSN,LPG,242.0,84.0,242.0,141.5
@@ -13130,7 +13130,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,KRUSN,LPG,214.0,38.0,214.0,141.12
 2019-10-20,KRUSN,LPG,268.0,83.0,268.0,161.25
 2019-10-27,KRUSN,LPG,245.0,75.0,245.0,155.88
-2019-11-03,KRUSN,LPG,233.0,28.0,236.0,143.75
+2019-11-03,KRUSN,LPG,233.0,67.0,236.0,148.62
 2019-11-10,KRUSN,LPG,222.0,62.0,233.0,141.43
 2019-11-17,KRUSN,LPG,226.0,87.0,226.0,137.14
 2019-11-24,KRUSN,LPG,237.0,88.0,237.0,139.0
@@ -13182,7 +13182,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,KRUSN,LPG,209.0,38.0,214.0,141.12
 2020-10-18,KRUSN,LPG,224.0,83.0,268.0,161.25
 2020-10-25,KRUSN,LPG,230.0,75.0,245.0,155.88
-2020-11-01,KRUSN,LPG,236.0,28.0,236.0,143.75
+2020-11-01,KRUSN,LPG,236.0,67.0,236.0,148.62
 2020-11-08,KRUSN,LPG,233.0,62.0,233.0,141.43
 2020-11-15,KRUSN,LPG,222.0,87.0,226.0,137.14
 2020-11-22,KRUSN,LPG,213.0,88.0,237.0,139.0
@@ -13235,7 +13235,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,KRUSN,LPG,193.0,38.0,214.0,141.12
 2021-10-24,KRUSN,LPG,249.0,83.0,268.0,161.25
 2021-10-31,KRUSN,LPG,219.0,75.0,245.0,155.88
-2021-11-07,KRUSN,LPG,230.0,28.0,236.0,143.75
+2021-11-07,KRUSN,LPG,230.0,67.0,236.0,148.62
 2021-11-14,KRUSN,LPG,140.0,62.0,233.0,141.43
 2021-11-21,KRUSN,LPG,136.0,87.0,226.0,137.14
 2021-11-28,KRUSN,LPG,100.0,88.0,237.0,139.0
@@ -13287,7 +13287,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,KRUSN,LPG,141.0,38.0,214.0,141.12
 2022-10-23,KRUSN,LPG,83.0,83.0,268.0,161.25
 2022-10-30,KRUSN,LPG,75.0,75.0,245.0,155.88
-2022-11-06,KRUSN,LPG,93.0,28.0,236.0,143.75
+2022-11-06,KRUSN,LPG,93.0,67.0,236.0,148.62
 2022-11-13,KRUSN,LPG,62.0,62.0,233.0,141.43
 2022-11-20,KRUSN,LPG,90.0,87.0,226.0,137.14
 2022-11-27,KRUSN,LPG,90.0,88.0,237.0,139.0
@@ -13339,7 +13339,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,KRUSN,LPG,105.0,38.0,214.0,141.12
 2023-10-22,KRUSN,LPG,136.0,83.0,268.0,161.25
 2023-10-29,KRUSN,LPG,106.0,75.0,245.0,155.88
-2023-11-05,KRUSN,LPG,159.0,28.0,236.0,143.75
+2023-11-05,KRUSN,LPG,159.0,67.0,236.0,148.62
 2023-11-12,KRUSN,LPG,117.0,62.0,233.0,141.43
 2023-11-19,KRUSN,LPG,101.0,87.0,226.0,137.14
 2023-11-26,KRUSN,LPG,157.0,88.0,237.0,139.0
@@ -13391,7 +13391,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,KRUSN,LPG,136.0,38.0,214.0,141.12
 2024-10-20,KRUSN,LPG,87.0,83.0,268.0,161.25
 2024-10-27,KRUSN,LPG,119.0,75.0,245.0,155.88
-2024-11-03,KRUSN,LPG,81.0,28.0,236.0,143.75
+2024-11-03,KRUSN,LPG,81.0,67.0,236.0,148.62
 2024-11-10,KRUSN,LPG,119.0,62.0,233.0,141.43
 2024-11-17,KRUSN,LPG,87.0,87.0,226.0,137.14
 2024-11-24,KRUSN,LPG,88.0,88.0,237.0,139.0
@@ -13443,7 +13443,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,KRUSN,LPG,93.0,38.0,214.0,141.12
 2025-10-19,KRUSN,LPG,89.0,83.0,268.0,161.25
 2025-10-26,KRUSN,LPG,93.0,75.0,245.0,155.88
-2025-11-02,KRUSN,LPG,90.0,28.0,236.0,143.75
+2025-11-02,KRUSN,LPG,90.0,67.0,236.0,148.62
 2025-11-09,KRUSN,LPG,97.0,62.0,233.0,141.43
 2025-11-16,KRUSN,LPG,98.0,87.0,226.0,137.14
 2025-11-23,KRUSN,LPG,88.0,88.0,237.0,139.0
@@ -13495,7 +13495,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,KRUSN,LPG,38.0,38.0,214.0,141.12
 2026-10-18,KRUSN,LPG,154.0,83.0,268.0,161.25
 2026-10-25,KRUSN,LPG,160.0,75.0,245.0,155.88
-2026-11-01,KRUSN,LPG,28.0,28.0,236.0,143.75
+2026-11-01,KRUSN,LPG,67.0,67.0,236.0,148.62
 2019-01-06,KWMFA,LPG,11.0,6.0,13.0,9.38
 2019-01-13,KWMFA,LPG,11.0,6.0,11.0,8.38
 2019-01-20,KWMFA,LPG,9.0,1.0,12.0,8.62
@@ -13948,7 +13948,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,QARLF,LPG,30.0,0.0,42.0,30.88
 2019-10-20,QARLF,LPG,31.0,7.0,39.0,30.75
 2019-10-27,QARLF,LPG,32.0,5.0,32.0,24.62
-2019-11-03,QARLF,LPG,25.0,1.0,30.0,21.5
+2019-11-03,QARLF,LPG,25.0,2.0,30.0,21.62
 2019-11-10,QARLF,LPG,26.0,16.0,30.0,23.43
 2019-11-17,QARLF,LPG,9.0,9.0,31.0,22.71
 2019-11-24,QARLF,LPG,16.0,16.0,33.0,26.43
@@ -14000,7 +14000,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,QARLF,LPG,29.0,0.0,42.0,30.88
 2020-10-18,QARLF,LPG,34.0,7.0,39.0,30.75
 2020-10-25,QARLF,LPG,30.0,5.0,32.0,24.62
-2020-11-01,QARLF,LPG,30.0,1.0,30.0,21.5
+2020-11-01,QARLF,LPG,30.0,2.0,30.0,21.62
 2020-11-08,QARLF,LPG,28.0,16.0,30.0,23.43
 2020-11-15,QARLF,LPG,25.0,9.0,31.0,22.71
 2020-11-22,QARLF,LPG,24.0,16.0,33.0,26.43
@@ -14053,7 +14053,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,QARLF,LPG,35.0,0.0,42.0,30.88
 2021-10-24,QARLF,LPG,35.0,7.0,39.0,30.75
 2021-10-31,QARLF,LPG,30.0,5.0,32.0,24.62
-2021-11-07,QARLF,LPG,29.0,1.0,30.0,21.5
+2021-11-07,QARLF,LPG,29.0,2.0,30.0,21.62
 2021-11-14,QARLF,LPG,19.0,16.0,30.0,23.43
 2021-11-21,QARLF,LPG,26.0,9.0,31.0,22.71
 2021-11-28,QARLF,LPG,33.0,16.0,33.0,26.43
@@ -14105,7 +14105,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,QARLF,LPG,42.0,0.0,42.0,30.88
 2022-10-23,QARLF,LPG,39.0,7.0,39.0,30.75
 2022-10-30,QARLF,LPG,31.0,5.0,32.0,24.62
-2022-11-06,QARLF,LPG,24.0,1.0,30.0,21.5
+2022-11-06,QARLF,LPG,24.0,2.0,30.0,21.62
 2022-11-13,QARLF,LPG,30.0,16.0,30.0,23.43
 2022-11-20,QARLF,LPG,31.0,9.0,31.0,22.71
 2022-11-27,QARLF,LPG,32.0,16.0,33.0,26.43
@@ -14157,7 +14157,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,QARLF,LPG,39.0,0.0,42.0,30.88
 2023-10-22,QARLF,LPG,36.0,7.0,39.0,30.75
 2023-10-29,QARLF,LPG,19.0,5.0,32.0,24.62
-2023-11-05,QARLF,LPG,16.0,1.0,30.0,21.5
+2023-11-05,QARLF,LPG,16.0,2.0,30.0,21.62
 2023-11-12,QARLF,LPG,16.0,16.0,30.0,23.43
 2023-11-19,QARLF,LPG,23.0,9.0,31.0,22.71
 2023-11-26,QARLF,LPG,21.0,16.0,33.0,26.43
@@ -14209,7 +14209,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,QARLF,LPG,41.0,0.0,42.0,30.88
 2024-10-20,QARLF,LPG,32.0,7.0,39.0,30.75
 2024-10-27,QARLF,LPG,18.0,5.0,32.0,24.62
-2024-11-03,QARLF,LPG,25.0,1.0,30.0,21.5
+2024-11-03,QARLF,LPG,25.0,2.0,30.0,21.62
 2024-11-10,QARLF,LPG,24.0,16.0,30.0,23.43
 2024-11-17,QARLF,LPG,29.0,9.0,31.0,22.71
 2024-11-24,QARLF,LPG,32.0,16.0,33.0,26.43
@@ -14261,7 +14261,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,QARLF,LPG,31.0,0.0,42.0,30.88
 2025-10-19,QARLF,LPG,32.0,7.0,39.0,30.75
 2025-10-26,QARLF,LPG,32.0,5.0,32.0,24.62
-2025-11-02,QARLF,LPG,22.0,1.0,30.0,21.5
+2025-11-02,QARLF,LPG,22.0,2.0,30.0,21.62
 2025-11-09,QARLF,LPG,21.0,16.0,30.0,23.43
 2025-11-16,QARLF,LPG,16.0,9.0,31.0,22.71
 2025-11-23,QARLF,LPG,27.0,16.0,33.0,26.43
@@ -14313,7 +14313,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,QARLF,LPG,0.0,0.0,42.0,30.88
 2026-10-18,QARLF,LPG,7.0,7.0,39.0,30.75
 2026-10-25,QARLF,LPG,5.0,5.0,32.0,24.62
-2026-11-01,QARLF,LPG,1.0,1.0,30.0,21.5
+2026-11-01,QARLF,LPG,2.0,2.0,30.0,21.62
 2019-01-06,SAJUA,LPG,11.0,5.0,18.0,13.12
 2019-01-13,SAJUA,LPG,8.0,6.0,22.0,12.75
 2019-01-20,SAJUA,LPG,10.0,8.0,18.0,11.5
@@ -14766,7 +14766,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,USBPT,LPG,26.0,7.0,32.0,19.75
 2019-10-20,USBPT,LPG,21.0,19.0,29.0,23.12
 2019-10-27,USBPT,LPG,20.0,13.0,31.0,21.12
-2019-11-03,USBPT,LPG,17.0,14.0,25.0,17.75
+2019-11-03,USBPT,LPG,17.0,14.0,25.0,19.0
 2019-11-10,USBPT,LPG,22.0,11.0,26.0,19.43
 2019-11-17,USBPT,LPG,20.0,10.0,32.0,21.14
 2019-11-24,USBPT,LPG,20.0,9.0,25.0,20.14
@@ -14818,7 +14818,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,USBPT,LPG,13.0,7.0,32.0,19.75
 2020-10-18,USBPT,LPG,21.0,19.0,29.0,23.12
 2020-10-25,USBPT,LPG,13.0,13.0,31.0,21.12
-2020-11-01,USBPT,LPG,14.0,14.0,25.0,17.75
+2020-11-01,USBPT,LPG,14.0,14.0,25.0,19.0
 2020-11-08,USBPT,LPG,11.0,11.0,26.0,19.43
 2020-11-15,USBPT,LPG,10.0,10.0,32.0,21.14
 2020-11-22,USBPT,LPG,9.0,9.0,25.0,20.14
@@ -14871,7 +14871,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,USBPT,LPG,15.0,7.0,32.0,19.75
 2021-10-24,USBPT,LPG,19.0,19.0,29.0,23.12
 2021-10-31,USBPT,LPG,21.0,13.0,31.0,21.12
-2021-11-07,USBPT,LPG,16.0,14.0,25.0,17.75
+2021-11-07,USBPT,LPG,16.0,14.0,25.0,19.0
 2021-11-14,USBPT,LPG,18.0,11.0,26.0,19.43
 2021-11-21,USBPT,LPG,17.0,10.0,32.0,21.14
 2021-11-28,USBPT,LPG,16.0,9.0,25.0,20.14
@@ -14923,7 +14923,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,USBPT,LPG,23.0,7.0,32.0,19.75
 2022-10-23,USBPT,LPG,23.0,19.0,29.0,23.12
 2022-10-30,USBPT,LPG,18.0,13.0,31.0,21.12
-2022-11-06,USBPT,LPG,20.0,14.0,25.0,17.75
+2022-11-06,USBPT,LPG,20.0,14.0,25.0,19.0
 2022-11-13,USBPT,LPG,20.0,11.0,26.0,19.43
 2022-11-20,USBPT,LPG,19.0,10.0,32.0,21.14
 2022-11-27,USBPT,LPG,24.0,9.0,25.0,20.14
@@ -14975,7 +14975,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,USBPT,LPG,24.0,7.0,32.0,19.75
 2023-10-22,USBPT,LPG,25.0,19.0,29.0,23.12
 2023-10-29,USBPT,LPG,31.0,13.0,31.0,21.12
-2023-11-05,USBPT,LPG,17.0,14.0,25.0,17.75
+2023-11-05,USBPT,LPG,17.0,14.0,25.0,19.0
 2023-11-12,USBPT,LPG,26.0,11.0,26.0,19.43
 2023-11-19,USBPT,LPG,23.0,10.0,32.0,21.14
 2023-11-26,USBPT,LPG,23.0,9.0,25.0,20.14
@@ -15027,7 +15027,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,USBPT,LPG,18.0,7.0,32.0,19.75
 2024-10-20,USBPT,LPG,20.0,19.0,29.0,23.12
 2024-10-27,USBPT,LPG,18.0,13.0,31.0,21.12
-2024-11-03,USBPT,LPG,19.0,14.0,25.0,17.75
+2024-11-03,USBPT,LPG,19.0,14.0,25.0,19.0
 2024-11-10,USBPT,LPG,20.0,11.0,26.0,19.43
 2024-11-17,USBPT,LPG,27.0,10.0,32.0,21.14
 2024-11-24,USBPT,LPG,24.0,9.0,25.0,20.14
@@ -15079,7 +15079,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,USBPT,LPG,32.0,7.0,32.0,19.75
 2025-10-19,USBPT,LPG,27.0,19.0,29.0,23.12
 2025-10-26,USBPT,LPG,22.0,13.0,31.0,21.12
-2025-11-02,USBPT,LPG,25.0,14.0,25.0,17.75
+2025-11-02,USBPT,LPG,25.0,14.0,25.0,19.0
 2025-11-09,USBPT,LPG,19.0,11.0,26.0,19.43
 2025-11-16,USBPT,LPG,32.0,10.0,32.0,21.14
 2025-11-23,USBPT,LPG,25.0,9.0,25.0,20.14
@@ -15131,7 +15131,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,USBPT,LPG,7.0,7.0,32.0,19.75
 2026-10-18,USBPT,LPG,29.0,19.0,29.0,23.12
 2026-10-25,USBPT,LPG,26.0,13.0,31.0,21.12
-2026-11-01,USBPT,LPG,14.0,14.0,25.0,17.75
+2026-11-01,USBPT,LPG,24.0,14.0,25.0,19.0
 2019-01-06,USHOU,LPG,93.0,78.0,117.0,95.88
 2019-01-13,USHOU,LPG,117.0,79.0,117.0,99.0
 2019-01-20,USHOU,LPG,101.0,43.0,106.0,88.0
@@ -15175,7 +15175,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,USHOU,LPG,114.0,26.0,114.0,91.62
 2019-10-20,USHOU,LPG,105.0,89.0,108.0,97.75
 2019-10-27,USHOU,LPG,94.0,86.0,107.0,94.88
-2019-11-03,USHOU,LPG,97.0,10.0,102.0,83.0
+2019-11-03,USHOU,LPG,97.0,44.0,102.0,87.25
 2019-11-10,USHOU,LPG,102.0,88.0,108.0,99.14
 2019-11-17,USHOU,LPG,82.0,77.0,110.0,93.29
 2019-11-24,USHOU,LPG,94.0,89.0,111.0,98.86
@@ -15227,7 +15227,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,USHOU,LPG,94.0,26.0,114.0,91.62
 2020-10-18,USHOU,LPG,106.0,89.0,108.0,97.75
 2020-10-25,USHOU,LPG,107.0,86.0,107.0,94.88
-2020-11-01,USHOU,LPG,76.0,10.0,102.0,83.0
+2020-11-01,USHOU,LPG,76.0,44.0,102.0,87.25
 2020-11-08,USHOU,LPG,102.0,88.0,108.0,99.14
 2020-11-15,USHOU,LPG,83.0,77.0,110.0,93.29
 2020-11-22,USHOU,LPG,105.0,89.0,111.0,98.86
@@ -15280,7 +15280,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,USHOU,LPG,98.0,26.0,114.0,91.62
 2021-10-24,USHOU,LPG,95.0,89.0,108.0,97.75
 2021-10-31,USHOU,LPG,94.0,86.0,107.0,94.88
-2021-11-07,USHOU,LPG,96.0,10.0,102.0,83.0
+2021-11-07,USHOU,LPG,96.0,44.0,102.0,87.25
 2021-11-14,USHOU,LPG,88.0,88.0,108.0,99.14
 2021-11-21,USHOU,LPG,97.0,77.0,110.0,93.29
 2021-11-28,USHOU,LPG,89.0,89.0,111.0,98.86
@@ -15332,7 +15332,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,USHOU,LPG,94.0,26.0,114.0,91.62
 2022-10-23,USHOU,LPG,91.0,89.0,108.0,97.75
 2022-10-30,USHOU,LPG,87.0,86.0,107.0,94.88
-2022-11-06,USHOU,LPG,101.0,10.0,102.0,83.0
+2022-11-06,USHOU,LPG,101.0,44.0,102.0,87.25
 2022-11-13,USHOU,LPG,91.0,88.0,108.0,99.14
 2022-11-20,USHOU,LPG,77.0,77.0,110.0,93.29
 2022-11-27,USHOU,LPG,94.0,89.0,111.0,98.86
@@ -15384,7 +15384,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,USHOU,LPG,102.0,26.0,114.0,91.62
 2023-10-22,USHOU,LPG,94.0,89.0,108.0,97.75
 2023-10-29,USHOU,LPG,90.0,86.0,107.0,94.88
-2023-11-05,USHOU,LPG,87.0,10.0,102.0,83.0
+2023-11-05,USHOU,LPG,87.0,44.0,102.0,87.25
 2023-11-12,USHOU,LPG,108.0,88.0,108.0,99.14
 2023-11-19,USHOU,LPG,108.0,77.0,110.0,93.29
 2023-11-26,USHOU,LPG,111.0,89.0,111.0,98.86
@@ -15436,7 +15436,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,USHOU,LPG,99.0,26.0,114.0,91.62
 2024-10-20,USHOU,LPG,108.0,89.0,108.0,97.75
 2024-10-27,USHOU,LPG,102.0,86.0,107.0,94.88
-2024-11-03,USHOU,LPG,102.0,10.0,102.0,83.0
+2024-11-03,USHOU,LPG,102.0,44.0,102.0,87.25
 2024-11-10,USHOU,LPG,98.0,88.0,108.0,99.14
 2024-11-17,USHOU,LPG,110.0,77.0,110.0,93.29
 2024-11-24,USHOU,LPG,98.0,89.0,111.0,98.86
@@ -15488,7 +15488,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,USHOU,LPG,106.0,26.0,114.0,91.62
 2025-10-19,USHOU,LPG,94.0,89.0,108.0,97.75
 2025-10-26,USHOU,LPG,86.0,86.0,107.0,94.88
-2025-11-02,USHOU,LPG,95.0,10.0,102.0,83.0
+2025-11-02,USHOU,LPG,95.0,44.0,102.0,87.25
 2025-11-09,USHOU,LPG,105.0,88.0,108.0,99.14
 2025-11-16,USHOU,LPG,96.0,77.0,110.0,93.29
 2025-11-23,USHOU,LPG,101.0,89.0,111.0,98.86
@@ -15540,7 +15540,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,USHOU,LPG,26.0,26.0,114.0,91.62
 2026-10-18,USHOU,LPG,89.0,89.0,108.0,97.75
 2026-10-25,USHOU,LPG,99.0,86.0,107.0,94.88
-2026-11-01,USHOU,LPG,10.0,10.0,102.0,83.0
+2026-11-01,USHOU,LPG,44.0,44.0,102.0,87.25
 2019-01-06,USPOA,LPG,16.0,13.0,24.0,19.12
 2019-01-13,USPOA,LPG,21.0,12.0,27.0,17.62
 2019-01-20,USPOA,LPG,18.0,11.0,21.0,16.25
@@ -15584,7 +15584,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,USPOA,LPG,19.0,10.0,21.0,17.62
 2019-10-20,USPOA,LPG,14.0,14.0,23.0,19.0
 2019-10-27,USPOA,LPG,11.0,11.0,21.0,14.88
-2019-11-03,USPOA,LPG,13.0,9.0,21.0,16.0
+2019-11-03,USPOA,LPG,13.0,13.0,21.0,16.62
 2019-11-10,USPOA,LPG,18.0,14.0,25.0,19.14
 2019-11-17,USPOA,LPG,13.0,13.0,19.0,16.14
 2019-11-24,USPOA,LPG,12.0,12.0,23.0,18.14
@@ -15636,7 +15636,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,USPOA,LPG,15.0,10.0,21.0,17.62
 2020-10-18,USPOA,LPG,23.0,14.0,23.0,19.0
 2020-10-25,USPOA,LPG,15.0,11.0,21.0,14.88
-2020-11-01,USPOA,LPG,18.0,9.0,21.0,16.0
+2020-11-01,USPOA,LPG,18.0,13.0,21.0,16.62
 2020-11-08,USPOA,LPG,16.0,14.0,25.0,19.14
 2020-11-15,USPOA,LPG,14.0,13.0,19.0,16.14
 2020-11-22,USPOA,LPG,16.0,12.0,23.0,18.14
@@ -15689,7 +15689,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,USPOA,LPG,16.0,10.0,21.0,17.62
 2021-10-24,USPOA,LPG,21.0,14.0,23.0,19.0
 2021-10-31,USPOA,LPG,16.0,11.0,21.0,14.88
-2021-11-07,USPOA,LPG,17.0,9.0,21.0,16.0
+2021-11-07,USPOA,LPG,17.0,13.0,21.0,16.62
 2021-11-14,USPOA,LPG,25.0,14.0,25.0,19.14
 2021-11-21,USPOA,LPG,19.0,13.0,19.0,16.14
 2021-11-28,USPOA,LPG,18.0,12.0,23.0,18.14
@@ -15741,7 +15741,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,USPOA,LPG,10.0,10.0,21.0,17.62
 2022-10-23,USPOA,LPG,16.0,14.0,23.0,19.0
 2022-10-30,USPOA,LPG,15.0,11.0,21.0,14.88
-2022-11-06,USPOA,LPG,19.0,9.0,21.0,16.0
+2022-11-06,USPOA,LPG,19.0,13.0,21.0,16.62
 2022-11-13,USPOA,LPG,19.0,14.0,25.0,19.14
 2022-11-20,USPOA,LPG,16.0,13.0,19.0,16.14
 2022-11-27,USPOA,LPG,18.0,12.0,23.0,18.14
@@ -15793,7 +15793,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,USPOA,LPG,20.0,10.0,21.0,17.62
 2023-10-22,USPOA,LPG,18.0,14.0,23.0,19.0
 2023-10-29,USPOA,LPG,21.0,11.0,21.0,14.88
-2023-11-05,USPOA,LPG,14.0,9.0,21.0,16.0
+2023-11-05,USPOA,LPG,14.0,13.0,21.0,16.62
 2023-11-12,USPOA,LPG,14.0,14.0,25.0,19.14
 2023-11-19,USPOA,LPG,15.0,13.0,19.0,16.14
 2023-11-26,USPOA,LPG,19.0,12.0,23.0,18.14
@@ -15845,7 +15845,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,USPOA,LPG,20.0,10.0,21.0,17.62
 2024-10-20,USPOA,LPG,22.0,14.0,23.0,19.0
 2024-10-27,USPOA,LPG,17.0,11.0,21.0,14.88
-2024-11-03,USPOA,LPG,17.0,9.0,21.0,16.0
+2024-11-03,USPOA,LPG,17.0,13.0,21.0,16.62
 2024-11-10,USPOA,LPG,18.0,14.0,25.0,19.14
 2024-11-17,USPOA,LPG,17.0,13.0,19.0,16.14
 2024-11-24,USPOA,LPG,23.0,12.0,23.0,18.14
@@ -15897,7 +15897,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,USPOA,LPG,21.0,10.0,21.0,17.62
 2025-10-19,USPOA,LPG,23.0,14.0,23.0,19.0
 2025-10-26,USPOA,LPG,12.0,11.0,21.0,14.88
-2025-11-02,USPOA,LPG,21.0,9.0,21.0,16.0
+2025-11-02,USPOA,LPG,21.0,13.0,21.0,16.62
 2025-11-09,USPOA,LPG,24.0,14.0,25.0,19.14
 2025-11-16,USPOA,LPG,19.0,13.0,19.0,16.14
 2025-11-23,USPOA,LPG,21.0,12.0,23.0,18.14
@@ -15949,7 +15949,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,USPOA,LPG,20.0,10.0,21.0,17.62
 2026-10-18,USPOA,LPG,15.0,14.0,23.0,19.0
 2026-10-25,USPOA,LPG,12.0,11.0,21.0,14.88
-2026-11-01,USPOA,LPG,9.0,9.0,21.0,16.0
+2026-11-01,USPOA,LPG,14.0,13.0,21.0,16.62
 2019-01-06,AEFJR,Tankers,38.0,38.0,67.0,57.75
 2019-01-13,AEFJR,Tankers,53.0,51.0,67.0,57.12
 2019-01-20,AEFJR,Tankers,45.0,45.0,72.0,59.25
@@ -15993,7 +15993,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,AEFJR,Tankers,60.0,11.0,76.0,60.5
 2019-10-20,AEFJR,Tankers,65.0,35.0,69.0,58.88
 2019-10-27,AEFJR,Tankers,63.0,43.0,76.0,60.38
-2019-11-03,AEFJR,Tankers,49.0,16.0,82.0,58.5
+2019-11-03,AEFJR,Tankers,49.0,28.0,82.0,60.0
 2019-11-10,AEFJR,Tankers,57.0,48.0,70.0,60.86
 2019-11-17,AEFJR,Tankers,54.0,54.0,69.0,61.0
 2019-11-24,AEFJR,Tankers,59.0,56.0,70.0,63.29
@@ -16045,7 +16045,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,AEFJR,Tankers,63.0,11.0,76.0,60.5
 2020-10-18,AEFJR,Tankers,56.0,35.0,69.0,58.88
 2020-10-25,AEFJR,Tankers,58.0,43.0,76.0,60.38
-2020-11-01,AEFJR,Tankers,55.0,16.0,82.0,58.5
+2020-11-01,AEFJR,Tankers,55.0,28.0,82.0,60.0
 2020-11-08,AEFJR,Tankers,59.0,48.0,70.0,60.86
 2020-11-15,AEFJR,Tankers,55.0,54.0,69.0,61.0
 2020-11-22,AEFJR,Tankers,59.0,56.0,70.0,63.29
@@ -16098,7 +16098,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,AEFJR,Tankers,73.0,11.0,76.0,60.5
 2021-10-24,AEFJR,Tankers,64.0,35.0,69.0,58.88
 2021-10-31,AEFJR,Tankers,54.0,43.0,76.0,60.38
-2021-11-07,AEFJR,Tankers,82.0,16.0,82.0,58.5
+2021-11-07,AEFJR,Tankers,82.0,28.0,82.0,60.0
 2021-11-14,AEFJR,Tankers,62.0,48.0,70.0,60.86
 2021-11-21,AEFJR,Tankers,65.0,54.0,69.0,61.0
 2021-11-28,AEFJR,Tankers,63.0,56.0,70.0,63.29
@@ -16150,7 +16150,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,AEFJR,Tankers,61.0,11.0,76.0,60.5
 2022-10-23,AEFJR,Tankers,60.0,35.0,69.0,58.88
 2022-10-30,AEFJR,Tankers,59.0,43.0,76.0,60.38
-2022-11-06,AEFJR,Tankers,63.0,16.0,82.0,58.5
+2022-11-06,AEFJR,Tankers,63.0,28.0,82.0,60.0
 2022-11-13,AEFJR,Tankers,48.0,48.0,70.0,60.86
 2022-11-20,AEFJR,Tankers,56.0,54.0,69.0,61.0
 2022-11-27,AEFJR,Tankers,66.0,56.0,70.0,63.29
@@ -16202,7 +16202,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,AEFJR,Tankers,74.0,11.0,76.0,60.5
 2023-10-22,AEFJR,Tankers,63.0,35.0,69.0,58.88
 2023-10-29,AEFJR,Tankers,71.0,43.0,76.0,60.38
-2023-11-05,AEFJR,Tankers,70.0,16.0,82.0,58.5
+2023-11-05,AEFJR,Tankers,70.0,28.0,82.0,60.0
 2023-11-12,AEFJR,Tankers,70.0,48.0,70.0,60.86
 2023-11-19,AEFJR,Tankers,69.0,54.0,69.0,61.0
 2023-11-26,AEFJR,Tankers,70.0,56.0,70.0,63.29
@@ -16254,7 +16254,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,AEFJR,Tankers,66.0,11.0,76.0,60.5
 2024-10-20,AEFJR,Tankers,59.0,35.0,69.0,58.88
 2024-10-27,AEFJR,Tankers,59.0,43.0,76.0,60.38
-2024-11-03,AEFJR,Tankers,70.0,16.0,82.0,58.5
+2024-11-03,AEFJR,Tankers,70.0,28.0,82.0,60.0
 2024-11-10,AEFJR,Tankers,62.0,48.0,70.0,60.86
 2024-11-17,AEFJR,Tankers,60.0,54.0,69.0,61.0
 2024-11-24,AEFJR,Tankers,70.0,56.0,70.0,63.29
@@ -16306,7 +16306,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,AEFJR,Tankers,76.0,11.0,76.0,60.5
 2025-10-19,AEFJR,Tankers,69.0,35.0,69.0,58.88
 2025-10-26,AEFJR,Tankers,76.0,43.0,76.0,60.38
-2025-11-02,AEFJR,Tankers,63.0,16.0,82.0,58.5
+2025-11-02,AEFJR,Tankers,63.0,28.0,82.0,60.0
 2025-11-09,AEFJR,Tankers,68.0,48.0,70.0,60.86
 2025-11-16,AEFJR,Tankers,68.0,54.0,69.0,61.0
 2025-11-23,AEFJR,Tankers,56.0,56.0,70.0,63.29
@@ -16358,7 +16358,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,AEFJR,Tankers,11.0,11.0,76.0,60.5
 2026-10-18,AEFJR,Tankers,35.0,35.0,69.0,58.88
 2026-10-25,AEFJR,Tankers,43.0,43.0,76.0,60.38
-2026-11-01,AEFJR,Tankers,16.0,16.0,82.0,58.5
+2026-11-01,AEFJR,Tankers,28.0,28.0,82.0,60.0
 2019-01-06,CNQDG,Tankers,16.0,16.0,31.0,25.12
 2019-01-13,CNQDG,Tankers,19.0,18.0,40.0,25.62
 2019-01-20,CNQDG,Tankers,32.0,20.0,45.0,29.62
@@ -16402,7 +16402,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,CNQDG,Tankers,29.0,13.0,34.0,25.38
 2019-10-20,CNQDG,Tankers,31.0,12.0,39.0,24.25
 2019-10-27,CNQDG,Tankers,38.0,24.0,38.0,30.62
-2019-11-03,CNQDG,Tankers,32.0,9.0,34.0,26.38
+2019-11-03,CNQDG,Tankers,32.0,15.0,34.0,27.12
 2019-11-10,CNQDG,Tankers,24.0,24.0,43.0,30.43
 2019-11-17,CNQDG,Tankers,33.0,19.0,41.0,30.86
 2019-11-24,CNQDG,Tankers,25.0,23.0,33.0,27.14
@@ -16454,7 +16454,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,CNQDG,Tankers,13.0,13.0,34.0,25.38
 2020-10-18,CNQDG,Tankers,12.0,12.0,39.0,24.25
 2020-10-25,CNQDG,Tankers,32.0,24.0,38.0,30.62
-2020-11-01,CNQDG,Tankers,26.0,9.0,34.0,26.38
+2020-11-01,CNQDG,Tankers,26.0,15.0,34.0,27.12
 2020-11-08,CNQDG,Tankers,31.0,24.0,43.0,30.43
 2020-11-15,CNQDG,Tankers,27.0,19.0,41.0,30.86
 2020-11-22,CNQDG,Tankers,23.0,23.0,33.0,27.14
@@ -16507,7 +16507,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,CNQDG,Tankers,27.0,13.0,34.0,25.38
 2021-10-24,CNQDG,Tankers,25.0,12.0,39.0,24.25
 2021-10-31,CNQDG,Tankers,29.0,24.0,38.0,30.62
-2021-11-07,CNQDG,Tankers,29.0,9.0,34.0,26.38
+2021-11-07,CNQDG,Tankers,29.0,15.0,34.0,27.12
 2021-11-14,CNQDG,Tankers,43.0,24.0,43.0,30.43
 2021-11-21,CNQDG,Tankers,37.0,19.0,41.0,30.86
 2021-11-28,CNQDG,Tankers,33.0,23.0,33.0,27.14
@@ -16559,7 +16559,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,CNQDG,Tankers,34.0,13.0,34.0,25.38
 2022-10-23,CNQDG,Tankers,39.0,12.0,39.0,24.25
 2022-10-30,CNQDG,Tankers,38.0,24.0,38.0,30.62
-2022-11-06,CNQDG,Tankers,34.0,9.0,34.0,26.38
+2022-11-06,CNQDG,Tankers,34.0,15.0,34.0,27.12
 2022-11-13,CNQDG,Tankers,27.0,24.0,43.0,30.43
 2022-11-20,CNQDG,Tankers,41.0,19.0,41.0,30.86
 2022-11-27,CNQDG,Tankers,29.0,23.0,33.0,27.14
@@ -16611,7 +16611,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,CNQDG,Tankers,21.0,13.0,34.0,25.38
 2023-10-22,CNQDG,Tankers,30.0,12.0,39.0,24.25
 2023-10-29,CNQDG,Tankers,25.0,24.0,38.0,30.62
-2023-11-05,CNQDG,Tankers,23.0,9.0,34.0,26.38
+2023-11-05,CNQDG,Tankers,23.0,15.0,34.0,27.12
 2023-11-12,CNQDG,Tankers,26.0,24.0,43.0,30.43
 2023-11-19,CNQDG,Tankers,19.0,19.0,41.0,30.86
 2023-11-26,CNQDG,Tankers,26.0,23.0,33.0,27.14
@@ -16663,7 +16663,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,CNQDG,Tankers,28.0,13.0,34.0,25.38
 2024-10-20,CNQDG,Tankers,23.0,12.0,39.0,24.25
 2024-10-27,CNQDG,Tankers,30.0,24.0,38.0,30.62
-2024-11-03,CNQDG,Tankers,26.0,9.0,34.0,26.38
+2024-11-03,CNQDG,Tankers,26.0,15.0,34.0,27.12
 2024-11-10,CNQDG,Tankers,32.0,24.0,43.0,30.43
 2024-11-17,CNQDG,Tankers,31.0,19.0,41.0,30.86
 2024-11-24,CNQDG,Tankers,27.0,23.0,33.0,27.14
@@ -16715,7 +16715,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,CNQDG,Tankers,30.0,13.0,34.0,25.38
 2025-10-19,CNQDG,Tankers,22.0,12.0,39.0,24.25
 2025-10-26,CNQDG,Tankers,29.0,24.0,38.0,30.62
-2025-11-02,CNQDG,Tankers,32.0,9.0,34.0,26.38
+2025-11-02,CNQDG,Tankers,32.0,15.0,34.0,27.12
 2025-11-09,CNQDG,Tankers,30.0,24.0,43.0,30.43
 2025-11-16,CNQDG,Tankers,28.0,19.0,41.0,30.86
 2025-11-23,CNQDG,Tankers,27.0,23.0,33.0,27.14
@@ -16767,7 +16767,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,CNQDG,Tankers,21.0,13.0,34.0,25.38
 2026-10-18,CNQDG,Tankers,12.0,12.0,39.0,24.25
 2026-10-25,CNQDG,Tankers,24.0,24.0,38.0,30.62
-2026-11-01,CNQDG,Tankers,9.0,9.0,34.0,26.38
+2026-11-01,CNQDG,Tankers,15.0,15.0,34.0,27.12
 2019-01-06,INSIK,Tankers,5.0,5.0,11.0,7.75
 2019-01-13,INSIK,Tankers,7.0,6.0,13.0,9.0
 2019-01-20,INSIK,Tankers,6.0,4.0,13.0,8.25
@@ -16811,7 +16811,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,INSIK,Tankers,10.0,2.0,14.0,6.38
 2019-10-20,INSIK,Tankers,8.0,3.0,18.0,8.5
 2019-10-27,INSIK,Tankers,9.0,7.0,13.0,9.0
-2019-11-03,INSIK,Tankers,10.0,3.0,10.0,7.0
+2019-11-03,INSIK,Tankers,10.0,5.0,10.0,7.5
 2019-11-10,INSIK,Tankers,12.0,5.0,20.0,9.71
 2019-11-17,INSIK,Tankers,7.0,4.0,11.0,6.14
 2019-11-24,INSIK,Tankers,4.0,4.0,10.0,7.29
@@ -16863,7 +16863,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,INSIK,Tankers,6.0,2.0,14.0,6.38
 2020-10-18,INSIK,Tankers,7.0,3.0,18.0,8.5
 2020-10-25,INSIK,Tankers,7.0,7.0,13.0,9.0
-2020-11-01,INSIK,Tankers,8.0,3.0,10.0,7.0
+2020-11-01,INSIK,Tankers,8.0,5.0,10.0,7.5
 2020-11-08,INSIK,Tankers,20.0,5.0,20.0,9.71
 2020-11-15,INSIK,Tankers,11.0,4.0,11.0,6.14
 2020-11-22,INSIK,Tankers,7.0,4.0,10.0,7.29
@@ -16916,7 +16916,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,INSIK,Tankers,5.0,2.0,14.0,6.38
 2021-10-24,INSIK,Tankers,9.0,3.0,18.0,8.5
 2021-10-31,INSIK,Tankers,10.0,7.0,13.0,9.0
-2021-11-07,INSIK,Tankers,5.0,3.0,10.0,7.0
+2021-11-07,INSIK,Tankers,5.0,5.0,10.0,7.5
 2021-11-14,INSIK,Tankers,9.0,5.0,20.0,9.71
 2021-11-21,INSIK,Tankers,5.0,4.0,11.0,6.14
 2021-11-28,INSIK,Tankers,6.0,4.0,10.0,7.29
@@ -16968,7 +16968,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,INSIK,Tankers,14.0,2.0,14.0,6.38
 2022-10-23,INSIK,Tankers,12.0,3.0,18.0,8.5
 2022-10-30,INSIK,Tankers,9.0,7.0,13.0,9.0
-2022-11-06,INSIK,Tankers,10.0,3.0,10.0,7.0
+2022-11-06,INSIK,Tankers,10.0,5.0,10.0,7.5
 2022-11-13,INSIK,Tankers,5.0,5.0,20.0,9.71
 2022-11-20,INSIK,Tankers,4.0,4.0,11.0,6.14
 2022-11-27,INSIK,Tankers,10.0,4.0,10.0,7.29
@@ -17020,7 +17020,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,INSIK,Tankers,5.0,2.0,14.0,6.38
 2023-10-22,INSIK,Tankers,3.0,3.0,18.0,8.5
 2023-10-29,INSIK,Tankers,8.0,7.0,13.0,9.0
-2023-11-05,INSIK,Tankers,6.0,3.0,10.0,7.0
+2023-11-05,INSIK,Tankers,6.0,5.0,10.0,7.5
 2023-11-12,INSIK,Tankers,10.0,5.0,20.0,9.71
 2023-11-19,INSIK,Tankers,4.0,4.0,11.0,6.14
 2023-11-26,INSIK,Tankers,8.0,4.0,10.0,7.29
@@ -17072,7 +17072,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,INSIK,Tankers,6.0,2.0,14.0,6.38
 2024-10-20,INSIK,Tankers,6.0,3.0,18.0,8.5
 2024-10-27,INSIK,Tankers,7.0,7.0,13.0,9.0
-2024-11-03,INSIK,Tankers,5.0,3.0,10.0,7.0
+2024-11-03,INSIK,Tankers,5.0,5.0,10.0,7.5
 2024-11-10,INSIK,Tankers,6.0,5.0,20.0,9.71
 2024-11-17,INSIK,Tankers,6.0,4.0,11.0,6.14
 2024-11-24,INSIK,Tankers,7.0,4.0,10.0,7.29
@@ -17124,7 +17124,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,INSIK,Tankers,3.0,2.0,14.0,6.38
 2025-10-19,INSIK,Tankers,5.0,3.0,18.0,8.5
 2025-10-26,INSIK,Tankers,9.0,7.0,13.0,9.0
-2025-11-02,INSIK,Tankers,9.0,3.0,10.0,7.0
+2025-11-02,INSIK,Tankers,9.0,5.0,10.0,7.5
 2025-11-09,INSIK,Tankers,6.0,5.0,20.0,9.71
 2025-11-16,INSIK,Tankers,6.0,4.0,11.0,6.14
 2025-11-23,INSIK,Tankers,9.0,4.0,10.0,7.29
@@ -17176,7 +17176,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,INSIK,Tankers,2.0,2.0,14.0,6.38
 2026-10-18,INSIK,Tankers,18.0,3.0,18.0,8.5
 2026-10-25,INSIK,Tankers,13.0,7.0,13.0,9.0
-2026-11-01,INSIK,Tankers,3.0,3.0,10.0,7.0
+2026-11-01,INSIK,Tankers,7.0,5.0,10.0,7.5
 2019-01-06,NGBON,Tankers,8.0,3.0,8.0,6.12
 2019-01-13,NGBON,Tankers,6.0,5.0,10.0,6.38
 2019-01-20,NGBON,Tankers,7.0,5.0,8.0,6.5
@@ -17220,7 +17220,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,NGBON,Tankers,9.0,3.0,9.0,6.0
 2019-10-20,NGBON,Tankers,7.0,4.0,8.0,6.0
 2019-10-27,NGBON,Tankers,7.0,5.0,10.0,6.5
-2019-11-03,NGBON,Tankers,9.0,0.0,10.0,5.38
+2019-11-03,NGBON,Tankers,9.0,1.0,10.0,5.5
 2019-11-10,NGBON,Tankers,9.0,4.0,9.0,6.0
 2019-11-17,NGBON,Tankers,7.0,5.0,9.0,6.43
 2019-11-24,NGBON,Tankers,8.0,4.0,8.0,5.57
@@ -17272,7 +17272,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,NGBON,Tankers,7.0,3.0,9.0,6.0
 2020-10-18,NGBON,Tankers,8.0,4.0,8.0,6.0
 2020-10-25,NGBON,Tankers,5.0,5.0,10.0,6.5
-2020-11-01,NGBON,Tankers,5.0,0.0,10.0,5.38
+2020-11-01,NGBON,Tankers,5.0,1.0,10.0,5.5
 2020-11-08,NGBON,Tankers,6.0,4.0,9.0,6.0
 2020-11-15,NGBON,Tankers,9.0,5.0,9.0,6.43
 2020-11-22,NGBON,Tankers,4.0,4.0,8.0,5.57
@@ -17325,7 +17325,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,NGBON,Tankers,5.0,3.0,9.0,6.0
 2021-10-24,NGBON,Tankers,5.0,4.0,8.0,6.0
 2021-10-31,NGBON,Tankers,7.0,5.0,10.0,6.5
-2021-11-07,NGBON,Tankers,6.0,0.0,10.0,5.38
+2021-11-07,NGBON,Tankers,6.0,1.0,10.0,5.5
 2021-11-14,NGBON,Tankers,7.0,4.0,9.0,6.0
 2021-11-21,NGBON,Tankers,6.0,5.0,9.0,6.43
 2021-11-28,NGBON,Tankers,6.0,4.0,8.0,5.57
@@ -17377,7 +17377,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,NGBON,Tankers,5.0,3.0,9.0,6.0
 2022-10-23,NGBON,Tankers,6.0,4.0,8.0,6.0
 2022-10-30,NGBON,Tankers,5.0,5.0,10.0,6.5
-2022-11-06,NGBON,Tankers,5.0,0.0,10.0,5.38
+2022-11-06,NGBON,Tankers,5.0,1.0,10.0,5.5
 2022-11-13,NGBON,Tankers,5.0,4.0,9.0,6.0
 2022-11-20,NGBON,Tankers,6.0,5.0,9.0,6.43
 2022-11-27,NGBON,Tankers,6.0,4.0,8.0,5.57
@@ -17429,7 +17429,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,NGBON,Tankers,8.0,3.0,9.0,6.0
 2023-10-22,NGBON,Tankers,5.0,4.0,8.0,6.0
 2023-10-29,NGBON,Tankers,5.0,5.0,10.0,6.5
-2023-11-05,NGBON,Tankers,3.0,0.0,10.0,5.38
+2023-11-05,NGBON,Tankers,3.0,1.0,10.0,5.5
 2023-11-12,NGBON,Tankers,4.0,4.0,9.0,6.0
 2023-11-19,NGBON,Tankers,5.0,5.0,9.0,6.43
 2023-11-26,NGBON,Tankers,5.0,4.0,8.0,5.57
@@ -17481,7 +17481,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,NGBON,Tankers,3.0,3.0,9.0,6.0
 2024-10-20,NGBON,Tankers,7.0,4.0,8.0,6.0
 2024-10-27,NGBON,Tankers,6.0,5.0,10.0,6.5
-2024-11-03,NGBON,Tankers,5.0,0.0,10.0,5.38
+2024-11-03,NGBON,Tankers,5.0,1.0,10.0,5.5
 2024-11-10,NGBON,Tankers,6.0,4.0,9.0,6.0
 2024-11-17,NGBON,Tankers,5.0,5.0,9.0,6.43
 2024-11-24,NGBON,Tankers,4.0,4.0,8.0,5.57
@@ -17533,7 +17533,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,NGBON,Tankers,8.0,3.0,9.0,6.0
 2025-10-19,NGBON,Tankers,4.0,4.0,8.0,6.0
 2025-10-26,NGBON,Tankers,10.0,5.0,10.0,6.5
-2025-11-02,NGBON,Tankers,10.0,0.0,10.0,5.38
+2025-11-02,NGBON,Tankers,10.0,1.0,10.0,5.5
 2025-11-09,NGBON,Tankers,5.0,4.0,9.0,6.0
 2025-11-16,NGBON,Tankers,7.0,5.0,9.0,6.43
 2025-11-23,NGBON,Tankers,6.0,4.0,8.0,5.57
@@ -17585,7 +17585,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,NGBON,Tankers,3.0,3.0,9.0,6.0
 2026-10-18,NGBON,Tankers,6.0,4.0,8.0,6.0
 2026-10-25,NGBON,Tankers,7.0,5.0,10.0,6.5
-2026-11-01,NGBON,Tankers,0.0,0.0,10.0,5.38
+2026-11-01,NGBON,Tankers,1.0,1.0,10.0,5.5
 2019-01-06,NLRTM,Tankers,285.0,257.0,368.0,303.75
 2019-01-13,NLRTM,Tankers,368.0,295.0,368.0,328.12
 2019-01-20,NLRTM,Tankers,361.0,289.0,361.0,324.38
@@ -17629,7 +17629,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,NLRTM,Tankers,326.0,90.0,343.0,284.0
 2019-10-20,NLRTM,Tankers,359.0,295.0,359.0,322.0
 2019-10-27,NLRTM,Tankers,366.0,270.0,366.0,317.38
-2019-11-03,NLRTM,Tankers,354.0,133.0,359.0,299.88
+2019-11-03,NLRTM,Tankers,354.0,219.0,359.0,310.62
 2019-11-10,NLRTM,Tankers,334.0,295.0,374.0,323.71
 2019-11-17,NLRTM,Tankers,340.0,296.0,341.0,315.71
 2019-11-24,NLRTM,Tankers,337.0,286.0,351.0,319.71
@@ -17681,7 +17681,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,NLRTM,Tankers,343.0,90.0,343.0,284.0
 2020-10-18,NLRTM,Tankers,338.0,295.0,359.0,322.0
 2020-10-25,NLRTM,Tankers,353.0,270.0,366.0,317.38
-2020-11-01,NLRTM,Tankers,345.0,133.0,359.0,299.88
+2020-11-01,NLRTM,Tankers,345.0,219.0,359.0,310.62
 2020-11-08,NLRTM,Tankers,341.0,295.0,374.0,323.71
 2020-11-15,NLRTM,Tankers,341.0,296.0,341.0,315.71
 2020-11-22,NLRTM,Tankers,351.0,286.0,351.0,319.71
@@ -17734,7 +17734,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,NLRTM,Tankers,319.0,90.0,343.0,284.0
 2021-10-24,NLRTM,Tankers,342.0,295.0,359.0,322.0
 2021-10-31,NLRTM,Tankers,332.0,270.0,366.0,317.38
-2021-11-07,NLRTM,Tankers,359.0,133.0,359.0,299.88
+2021-11-07,NLRTM,Tankers,359.0,219.0,359.0,310.62
 2021-11-14,NLRTM,Tankers,374.0,295.0,374.0,323.71
 2021-11-21,NLRTM,Tankers,321.0,296.0,341.0,315.71
 2021-11-28,NLRTM,Tankers,337.0,286.0,351.0,319.71
@@ -17786,7 +17786,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,NLRTM,Tankers,333.0,90.0,343.0,284.0
 2022-10-23,NLRTM,Tankers,313.0,295.0,359.0,322.0
 2022-10-30,NLRTM,Tankers,331.0,270.0,366.0,317.38
-2022-11-06,NLRTM,Tankers,313.0,133.0,359.0,299.88
+2022-11-06,NLRTM,Tankers,313.0,219.0,359.0,310.62
 2022-11-13,NLRTM,Tankers,305.0,295.0,374.0,323.71
 2022-11-20,NLRTM,Tankers,314.0,296.0,341.0,315.71
 2022-11-27,NLRTM,Tankers,314.0,286.0,351.0,319.71
@@ -17838,7 +17838,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,NLRTM,Tankers,301.0,90.0,343.0,284.0
 2023-10-22,NLRTM,Tankers,295.0,295.0,359.0,322.0
 2023-10-29,NLRTM,Tankers,303.0,270.0,366.0,317.38
-2023-11-05,NLRTM,Tankers,289.0,133.0,359.0,299.88
+2023-11-05,NLRTM,Tankers,289.0,219.0,359.0,310.62
 2023-11-12,NLRTM,Tankers,295.0,295.0,374.0,323.71
 2023-11-19,NLRTM,Tankers,301.0,296.0,341.0,315.71
 2023-11-26,NLRTM,Tankers,312.0,286.0,351.0,319.71
@@ -17890,7 +17890,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,NLRTM,Tankers,275.0,90.0,343.0,284.0
 2024-10-20,NLRTM,Tankers,301.0,295.0,359.0,322.0
 2024-10-27,NLRTM,Tankers,305.0,270.0,366.0,317.38
-2024-11-03,NLRTM,Tankers,292.0,133.0,359.0,299.88
+2024-11-03,NLRTM,Tankers,292.0,219.0,359.0,310.62
 2024-11-10,NLRTM,Tankers,298.0,295.0,374.0,323.71
 2024-11-17,NLRTM,Tankers,297.0,296.0,341.0,315.71
 2024-11-24,NLRTM,Tankers,301.0,286.0,351.0,319.71
@@ -17942,7 +17942,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,NLRTM,Tankers,285.0,90.0,343.0,284.0
 2025-10-19,NLRTM,Tankers,322.0,295.0,359.0,322.0
 2025-10-26,NLRTM,Tankers,279.0,270.0,366.0,317.38
-2025-11-02,NLRTM,Tankers,314.0,133.0,359.0,299.88
+2025-11-02,NLRTM,Tankers,314.0,219.0,359.0,310.62
 2025-11-09,NLRTM,Tankers,319.0,295.0,374.0,323.71
 2025-11-16,NLRTM,Tankers,296.0,296.0,341.0,315.71
 2025-11-23,NLRTM,Tankers,286.0,286.0,351.0,319.71
@@ -17994,7 +17994,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,NLRTM,Tankers,90.0,90.0,343.0,284.0
 2026-10-18,NLRTM,Tankers,306.0,295.0,359.0,322.0
 2026-10-25,NLRTM,Tankers,270.0,270.0,366.0,317.38
-2026-11-01,NLRTM,Tankers,133.0,133.0,359.0,299.88
+2026-11-01,NLRTM,Tankers,219.0,219.0,359.0,310.62
 2019-01-06,RUPRI,Tankers,15.0,15.0,29.0,19.62
 2019-01-13,RUPRI,Tankers,19.0,18.0,27.0,21.5
 2019-01-20,RUPRI,Tankers,22.0,16.0,26.0,21.0
@@ -18038,7 +18038,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,RUPRI,Tankers,13.0,1.0,17.0,12.62
 2019-10-20,RUPRI,Tankers,17.0,2.0,20.0,13.88
 2019-10-27,RUPRI,Tankers,20.0,13.0,23.0,17.75
-2019-11-03,RUPRI,Tankers,18.0,6.0,19.0,14.75
+2019-11-03,RUPRI,Tankers,18.0,10.0,19.0,15.25
 2019-11-10,RUPRI,Tankers,20.0,12.0,20.0,16.71
 2019-11-17,RUPRI,Tankers,13.0,13.0,24.0,17.86
 2019-11-24,RUPRI,Tankers,21.0,15.0,24.0,19.14
@@ -18090,7 +18090,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,RUPRI,Tankers,12.0,1.0,17.0,12.62
 2020-10-18,RUPRI,Tankers,10.0,2.0,20.0,13.88
 2020-10-25,RUPRI,Tankers,16.0,13.0,23.0,17.75
-2020-11-01,RUPRI,Tankers,15.0,6.0,19.0,14.75
+2020-11-01,RUPRI,Tankers,15.0,10.0,19.0,15.25
 2020-11-08,RUPRI,Tankers,12.0,12.0,20.0,16.71
 2020-11-15,RUPRI,Tankers,18.0,13.0,24.0,17.86
 2020-11-22,RUPRI,Tankers,19.0,15.0,24.0,19.14
@@ -18143,7 +18143,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,RUPRI,Tankers,16.0,1.0,17.0,12.62
 2021-10-24,RUPRI,Tankers,15.0,2.0,20.0,13.88
 2021-10-31,RUPRI,Tankers,17.0,13.0,23.0,17.75
-2021-11-07,RUPRI,Tankers,17.0,6.0,19.0,14.75
+2021-11-07,RUPRI,Tankers,17.0,10.0,19.0,15.25
 2021-11-14,RUPRI,Tankers,17.0,12.0,20.0,16.71
 2021-11-21,RUPRI,Tankers,20.0,13.0,24.0,17.86
 2021-11-28,RUPRI,Tankers,19.0,15.0,24.0,19.14
@@ -18195,7 +18195,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,RUPRI,Tankers,10.0,1.0,17.0,12.62
 2022-10-23,RUPRI,Tankers,19.0,2.0,20.0,13.88
 2022-10-30,RUPRI,Tankers,16.0,13.0,23.0,17.75
-2022-11-06,RUPRI,Tankers,15.0,6.0,19.0,14.75
+2022-11-06,RUPRI,Tankers,15.0,10.0,19.0,15.25
 2022-11-13,RUPRI,Tankers,18.0,12.0,20.0,16.71
 2022-11-20,RUPRI,Tankers,15.0,13.0,24.0,17.86
 2022-11-27,RUPRI,Tankers,19.0,15.0,24.0,19.14
@@ -18247,7 +18247,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,RUPRI,Tankers,17.0,1.0,17.0,12.62
 2023-10-22,RUPRI,Tankers,20.0,2.0,20.0,13.88
 2023-10-29,RUPRI,Tankers,19.0,13.0,23.0,17.75
-2023-11-05,RUPRI,Tankers,19.0,6.0,19.0,14.75
+2023-11-05,RUPRI,Tankers,19.0,10.0,19.0,15.25
 2023-11-12,RUPRI,Tankers,17.0,12.0,20.0,16.71
 2023-11-19,RUPRI,Tankers,24.0,13.0,24.0,17.86
 2023-11-26,RUPRI,Tankers,24.0,15.0,24.0,19.14
@@ -18299,7 +18299,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,RUPRI,Tankers,16.0,1.0,17.0,12.62
 2024-10-20,RUPRI,Tankers,16.0,2.0,20.0,13.88
 2024-10-27,RUPRI,Tankers,23.0,13.0,23.0,17.75
-2024-11-03,RUPRI,Tankers,17.0,6.0,19.0,14.75
+2024-11-03,RUPRI,Tankers,17.0,10.0,19.0,15.25
 2024-11-10,RUPRI,Tankers,13.0,12.0,20.0,16.71
 2024-11-17,RUPRI,Tankers,17.0,13.0,24.0,17.86
 2024-11-24,RUPRI,Tankers,17.0,15.0,24.0,19.14
@@ -18351,7 +18351,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,RUPRI,Tankers,16.0,1.0,17.0,12.62
 2025-10-19,RUPRI,Tankers,12.0,2.0,20.0,13.88
 2025-10-26,RUPRI,Tankers,18.0,13.0,23.0,17.75
-2025-11-02,RUPRI,Tankers,11.0,6.0,19.0,14.75
+2025-11-02,RUPRI,Tankers,11.0,10.0,19.0,15.25
 2025-11-09,RUPRI,Tankers,20.0,12.0,20.0,16.71
 2025-11-16,RUPRI,Tankers,18.0,13.0,24.0,17.86
 2025-11-23,RUPRI,Tankers,15.0,15.0,24.0,19.14
@@ -18403,7 +18403,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,RUPRI,Tankers,1.0,1.0,17.0,12.62
 2026-10-18,RUPRI,Tankers,2.0,2.0,20.0,13.88
 2026-10-25,RUPRI,Tankers,13.0,13.0,23.0,17.75
-2026-11-01,RUPRI,Tankers,6.0,6.0,19.0,14.75
+2026-11-01,RUPRI,Tankers,10.0,10.0,19.0,15.25
 2019-01-06,SARRT,Tankers,9.0,5.0,14.0,9.5
 2019-01-13,SARRT,Tankers,11.0,6.0,19.0,11.75
 2019-01-20,SARRT,Tankers,9.0,7.0,14.0,10.12
@@ -18447,7 +18447,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,SARRT,Tankers,15.0,1.0,20.0,12.88
 2019-10-20,SARRT,Tankers,13.0,7.0,20.0,13.12
 2019-10-27,SARRT,Tankers,16.0,4.0,19.0,12.12
-2019-11-03,SARRT,Tankers,13.0,4.0,18.0,12.12
+2019-11-03,SARRT,Tankers,13.0,7.0,18.0,12.5
 2019-11-10,SARRT,Tankers,8.0,8.0,19.0,11.43
 2019-11-17,SARRT,Tankers,12.0,4.0,12.0,10.0
 2019-11-24,SARRT,Tankers,6.0,6.0,15.0,11.14
@@ -18499,7 +18499,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,SARRT,Tankers,12.0,1.0,20.0,12.88
 2020-10-18,SARRT,Tankers,20.0,7.0,20.0,13.12
 2020-10-25,SARRT,Tankers,15.0,4.0,19.0,12.12
-2020-11-01,SARRT,Tankers,18.0,4.0,18.0,12.12
+2020-11-01,SARRT,Tankers,18.0,7.0,18.0,12.5
 2020-11-08,SARRT,Tankers,9.0,8.0,19.0,11.43
 2020-11-15,SARRT,Tankers,10.0,4.0,12.0,10.0
 2020-11-22,SARRT,Tankers,10.0,6.0,15.0,11.14
@@ -18552,7 +18552,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,SARRT,Tankers,20.0,1.0,20.0,12.88
 2021-10-24,SARRT,Tankers,14.0,7.0,20.0,13.12
 2021-10-31,SARRT,Tankers,19.0,4.0,19.0,12.12
-2021-11-07,SARRT,Tankers,17.0,4.0,18.0,12.12
+2021-11-07,SARRT,Tankers,17.0,7.0,18.0,12.5
 2021-11-14,SARRT,Tankers,10.0,8.0,19.0,11.43
 2021-11-21,SARRT,Tankers,11.0,4.0,12.0,10.0
 2021-11-28,SARRT,Tankers,15.0,6.0,15.0,11.14
@@ -18604,7 +18604,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,SARRT,Tankers,16.0,1.0,20.0,12.88
 2022-10-23,SARRT,Tankers,16.0,7.0,20.0,13.12
 2022-10-30,SARRT,Tankers,15.0,4.0,19.0,12.12
-2022-11-06,SARRT,Tankers,10.0,4.0,18.0,12.12
+2022-11-06,SARRT,Tankers,10.0,7.0,18.0,12.5
 2022-11-13,SARRT,Tankers,19.0,8.0,19.0,11.43
 2022-11-20,SARRT,Tankers,9.0,4.0,12.0,10.0
 2022-11-27,SARRT,Tankers,13.0,6.0,15.0,11.14
@@ -18656,7 +18656,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,SARRT,Tankers,15.0,1.0,20.0,12.88
 2023-10-22,SARRT,Tankers,10.0,7.0,20.0,13.12
 2023-10-29,SARRT,Tankers,10.0,4.0,19.0,12.12
-2023-11-05,SARRT,Tankers,7.0,4.0,18.0,12.12
+2023-11-05,SARRT,Tankers,7.0,7.0,18.0,12.5
 2023-11-12,SARRT,Tankers,9.0,8.0,19.0,11.43
 2023-11-19,SARRT,Tankers,4.0,4.0,12.0,10.0
 2023-11-26,SARRT,Tankers,8.0,6.0,15.0,11.14
@@ -18708,7 +18708,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,SARRT,Tankers,12.0,1.0,20.0,12.88
 2024-10-20,SARRT,Tankers,14.0,7.0,20.0,13.12
 2024-10-27,SARRT,Tankers,5.0,4.0,19.0,12.12
-2024-11-03,SARRT,Tankers,12.0,4.0,18.0,12.12
+2024-11-03,SARRT,Tankers,12.0,7.0,18.0,12.5
 2024-11-10,SARRT,Tankers,11.0,8.0,19.0,11.43
 2024-11-17,SARRT,Tankers,12.0,4.0,12.0,10.0
 2024-11-24,SARRT,Tankers,15.0,6.0,15.0,11.14
@@ -18760,7 +18760,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,SARRT,Tankers,12.0,1.0,20.0,12.88
 2025-10-19,SARRT,Tankers,11.0,7.0,20.0,13.12
 2025-10-26,SARRT,Tankers,13.0,4.0,19.0,12.12
-2025-11-02,SARRT,Tankers,16.0,4.0,18.0,12.12
+2025-11-02,SARRT,Tankers,16.0,7.0,18.0,12.5
 2025-11-09,SARRT,Tankers,14.0,8.0,19.0,11.43
 2025-11-16,SARRT,Tankers,12.0,4.0,12.0,10.0
 2025-11-23,SARRT,Tankers,11.0,6.0,15.0,11.14
@@ -18812,7 +18812,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,SARRT,Tankers,1.0,1.0,20.0,12.88
 2026-10-18,SARRT,Tankers,7.0,7.0,20.0,13.12
 2026-10-25,SARRT,Tankers,4.0,4.0,19.0,12.12
-2026-11-01,SARRT,Tankers,4.0,4.0,18.0,12.12
+2026-11-01,SARRT,Tankers,7.0,7.0,18.0,12.5
 2019-01-06,SAYNB,Tankers,18.0,17.0,26.0,19.88
 2019-01-13,SAYNB,Tankers,25.0,13.0,30.0,22.12
 2019-01-20,SAYNB,Tankers,23.0,18.0,25.0,21.12
@@ -19265,7 +19265,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,SGSIN,Tankers,543.0,143.0,548.0,466.75
 2019-10-20,SGSIN,Tankers,527.0,455.0,528.0,498.5
 2019-10-27,SGSIN,Tankers,522.0,471.0,536.0,498.25
-2019-11-03,SGSIN,Tankers,530.0,66.0,530.0,456.62
+2019-11-03,SGSIN,Tankers,530.0,194.0,530.0,472.62
 2019-11-10,SGSIN,Tankers,535.0,481.0,553.0,519.14
 2019-11-17,SGSIN,Tankers,521.0,477.0,553.0,512.57
 2019-11-24,SGSIN,Tankers,514.0,474.0,539.0,505.86
@@ -19317,7 +19317,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,SGSIN,Tankers,490.0,143.0,548.0,466.75
 2020-10-18,SGSIN,Tankers,496.0,455.0,528.0,498.5
 2020-10-25,SGSIN,Tankers,493.0,471.0,536.0,498.25
-2020-11-01,SGSIN,Tankers,507.0,66.0,530.0,456.62
+2020-11-01,SGSIN,Tankers,507.0,194.0,530.0,472.62
 2020-11-08,SGSIN,Tankers,506.0,481.0,553.0,519.14
 2020-11-15,SGSIN,Tankers,505.0,477.0,553.0,512.57
 2020-11-22,SGSIN,Tankers,474.0,474.0,539.0,505.86
@@ -19370,7 +19370,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,SGSIN,Tankers,509.0,143.0,548.0,466.75
 2021-10-24,SGSIN,Tankers,455.0,455.0,528.0,498.5
 2021-10-31,SGSIN,Tankers,473.0,471.0,536.0,498.25
-2021-11-07,SGSIN,Tankers,518.0,66.0,530.0,456.62
+2021-11-07,SGSIN,Tankers,518.0,194.0,530.0,472.62
 2021-11-14,SGSIN,Tankers,481.0,481.0,553.0,519.14
 2021-11-21,SGSIN,Tankers,477.0,477.0,553.0,512.57
 2021-11-28,SGSIN,Tankers,478.0,474.0,539.0,505.86
@@ -19422,7 +19422,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,SGSIN,Tankers,510.0,143.0,548.0,466.75
 2022-10-23,SGSIN,Tankers,459.0,455.0,528.0,498.5
 2022-10-30,SGSIN,Tankers,471.0,471.0,536.0,498.25
-2022-11-06,SGSIN,Tankers,516.0,66.0,530.0,456.62
+2022-11-06,SGSIN,Tankers,516.0,194.0,530.0,472.62
 2022-11-13,SGSIN,Tankers,492.0,481.0,553.0,519.14
 2022-11-20,SGSIN,Tankers,498.0,477.0,553.0,512.57
 2022-11-27,SGSIN,Tankers,539.0,474.0,539.0,505.86
@@ -19474,7 +19474,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,SGSIN,Tankers,513.0,143.0,548.0,466.75
 2023-10-22,SGSIN,Tankers,517.0,455.0,528.0,498.5
 2023-10-29,SGSIN,Tankers,496.0,471.0,536.0,498.25
-2023-11-05,SGSIN,Tankers,478.0,66.0,530.0,456.62
+2023-11-05,SGSIN,Tankers,478.0,194.0,530.0,472.62
 2023-11-12,SGSIN,Tankers,516.0,481.0,553.0,519.14
 2023-11-19,SGSIN,Tankers,509.0,477.0,553.0,512.57
 2023-11-26,SGSIN,Tankers,482.0,474.0,539.0,505.86
@@ -19526,7 +19526,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,SGSIN,Tankers,478.0,143.0,548.0,466.75
 2024-10-20,SGSIN,Tankers,523.0,455.0,528.0,498.5
 2024-10-27,SGSIN,Tankers,477.0,471.0,536.0,498.25
-2024-11-03,SGSIN,Tankers,512.0,66.0,530.0,456.62
+2024-11-03,SGSIN,Tankers,512.0,194.0,530.0,472.62
 2024-11-10,SGSIN,Tankers,551.0,481.0,553.0,519.14
 2024-11-17,SGSIN,Tankers,525.0,477.0,553.0,512.57
 2024-11-24,SGSIN,Tankers,521.0,474.0,539.0,505.86
@@ -19578,7 +19578,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,SGSIN,Tankers,548.0,143.0,548.0,466.75
 2025-10-19,SGSIN,Tankers,528.0,455.0,528.0,498.5
 2025-10-26,SGSIN,Tankers,536.0,471.0,536.0,498.25
-2025-11-02,SGSIN,Tankers,526.0,66.0,530.0,456.62
+2025-11-02,SGSIN,Tankers,526.0,194.0,530.0,472.62
 2025-11-09,SGSIN,Tankers,553.0,481.0,553.0,519.14
 2025-11-16,SGSIN,Tankers,553.0,477.0,553.0,512.57
 2025-11-23,SGSIN,Tankers,533.0,474.0,539.0,505.86
@@ -19630,7 +19630,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,SGSIN,Tankers,143.0,143.0,548.0,466.75
 2026-10-18,SGSIN,Tankers,483.0,455.0,528.0,498.5
 2026-10-25,SGSIN,Tankers,518.0,471.0,536.0,498.25
-2026-11-01,SGSIN,Tankers,66.0,66.0,530.0,456.62
+2026-11-01,SGSIN,Tankers,194.0,194.0,530.0,472.62
 2019-01-06,USCRP,Tankers,25.0,25.0,37.0,29.25
 2019-01-13,USCRP,Tankers,25.0,25.0,33.0,29.75
 2019-01-20,USCRP,Tankers,30.0,25.0,30.0,27.38
@@ -19674,7 +19674,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,USCRP,Tankers,33.0,10.0,35.0,27.0
 2019-10-20,USCRP,Tankers,28.0,28.0,35.0,30.12
 2019-10-27,USCRP,Tankers,29.0,27.0,40.0,30.5
-2019-11-03,USCRP,Tankers,24.0,3.0,32.0,22.12
+2019-11-03,USCRP,Tankers,24.0,16.0,32.0,23.75
 2019-11-10,USCRP,Tankers,29.0,25.0,29.0,27.86
 2019-11-17,USCRP,Tankers,24.0,20.0,31.0,26.57
 2019-11-24,USCRP,Tankers,27.0,27.0,33.0,30.57
@@ -19726,7 +19726,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,USCRP,Tankers,26.0,10.0,35.0,27.0
 2020-10-18,USCRP,Tankers,29.0,28.0,35.0,30.12
 2020-10-25,USCRP,Tankers,27.0,27.0,40.0,30.5
-2020-11-01,USCRP,Tankers,23.0,3.0,32.0,22.12
+2020-11-01,USCRP,Tankers,23.0,16.0,32.0,23.75
 2020-11-08,USCRP,Tankers,25.0,25.0,29.0,27.86
 2020-11-15,USCRP,Tankers,20.0,20.0,31.0,26.57
 2020-11-22,USCRP,Tankers,31.0,27.0,33.0,30.57
@@ -19779,7 +19779,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,USCRP,Tankers,33.0,10.0,35.0,27.0
 2021-10-24,USCRP,Tankers,30.0,28.0,35.0,30.12
 2021-10-31,USCRP,Tankers,30.0,27.0,40.0,30.5
-2021-11-07,USCRP,Tankers,25.0,3.0,32.0,22.12
+2021-11-07,USCRP,Tankers,25.0,16.0,32.0,23.75
 2021-11-14,USCRP,Tankers,29.0,25.0,29.0,27.86
 2021-11-21,USCRP,Tankers,31.0,20.0,31.0,26.57
 2021-11-28,USCRP,Tankers,33.0,27.0,33.0,30.57
@@ -19831,7 +19831,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,USCRP,Tankers,35.0,10.0,35.0,27.0
 2022-10-23,USCRP,Tankers,34.0,28.0,35.0,30.12
 2022-10-30,USCRP,Tankers,34.0,27.0,40.0,30.5
-2022-11-06,USCRP,Tankers,32.0,3.0,32.0,22.12
+2022-11-06,USCRP,Tankers,32.0,16.0,32.0,23.75
 2022-11-13,USCRP,Tankers,29.0,25.0,29.0,27.86
 2022-11-20,USCRP,Tankers,29.0,20.0,31.0,26.57
 2022-11-27,USCRP,Tankers,33.0,27.0,33.0,30.57
@@ -19883,7 +19883,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,USCRP,Tankers,34.0,10.0,35.0,27.0
 2023-10-22,USCRP,Tankers,35.0,28.0,35.0,30.12
 2023-10-29,USCRP,Tankers,28.0,27.0,40.0,30.5
-2023-11-05,USCRP,Tankers,22.0,3.0,32.0,22.12
+2023-11-05,USCRP,Tankers,22.0,16.0,32.0,23.75
 2023-11-12,USCRP,Tankers,27.0,25.0,29.0,27.86
 2023-11-19,USCRP,Tankers,24.0,20.0,31.0,26.57
 2023-11-26,USCRP,Tankers,30.0,27.0,33.0,30.57
@@ -19935,7 +19935,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,USCRP,Tankers,21.0,10.0,35.0,27.0
 2024-10-20,USCRP,Tankers,28.0,28.0,35.0,30.12
 2024-10-27,USCRP,Tankers,28.0,27.0,40.0,30.5
-2024-11-03,USCRP,Tankers,24.0,3.0,32.0,22.12
+2024-11-03,USCRP,Tankers,24.0,16.0,32.0,23.75
 2024-11-10,USCRP,Tankers,29.0,25.0,29.0,27.86
 2024-11-17,USCRP,Tankers,29.0,20.0,31.0,26.57
 2024-11-24,USCRP,Tankers,32.0,27.0,33.0,30.57
@@ -19987,7 +19987,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,USCRP,Tankers,24.0,10.0,35.0,27.0
 2025-10-19,USCRP,Tankers,29.0,28.0,35.0,30.12
 2025-10-26,USCRP,Tankers,28.0,27.0,40.0,30.5
-2025-11-02,USCRP,Tankers,24.0,3.0,32.0,22.12
+2025-11-02,USCRP,Tankers,24.0,16.0,32.0,23.75
 2025-11-09,USCRP,Tankers,27.0,25.0,29.0,27.86
 2025-11-16,USCRP,Tankers,29.0,20.0,31.0,26.57
 2025-11-23,USCRP,Tankers,28.0,27.0,33.0,30.57
@@ -20039,7 +20039,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,USCRP,Tankers,10.0,10.0,35.0,27.0
 2026-10-18,USCRP,Tankers,28.0,28.0,35.0,30.12
 2026-10-25,USCRP,Tankers,40.0,27.0,40.0,30.5
-2026-11-01,USCRP,Tankers,3.0,3.0,32.0,22.12
+2026-11-01,USCRP,Tankers,16.0,16.0,32.0,23.75
 2019-01-06,USHOU,Tankers,93.0,78.0,117.0,95.88
 2019-01-13,USHOU,Tankers,117.0,79.0,117.0,99.0
 2019-01-20,USHOU,Tankers,101.0,43.0,106.0,88.0
@@ -20083,7 +20083,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2019-10-13,USHOU,Tankers,114.0,26.0,114.0,91.62
 2019-10-20,USHOU,Tankers,105.0,89.0,108.0,97.75
 2019-10-27,USHOU,Tankers,94.0,86.0,107.0,94.88
-2019-11-03,USHOU,Tankers,97.0,10.0,102.0,83.0
+2019-11-03,USHOU,Tankers,97.0,44.0,102.0,87.25
 2019-11-10,USHOU,Tankers,102.0,88.0,108.0,99.14
 2019-11-17,USHOU,Tankers,82.0,77.0,110.0,93.29
 2019-11-24,USHOU,Tankers,94.0,89.0,111.0,98.86
@@ -20135,7 +20135,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2020-10-11,USHOU,Tankers,94.0,26.0,114.0,91.62
 2020-10-18,USHOU,Tankers,106.0,89.0,108.0,97.75
 2020-10-25,USHOU,Tankers,107.0,86.0,107.0,94.88
-2020-11-01,USHOU,Tankers,76.0,10.0,102.0,83.0
+2020-11-01,USHOU,Tankers,76.0,44.0,102.0,87.25
 2020-11-08,USHOU,Tankers,102.0,88.0,108.0,99.14
 2020-11-15,USHOU,Tankers,83.0,77.0,110.0,93.29
 2020-11-22,USHOU,Tankers,105.0,89.0,111.0,98.86
@@ -20188,7 +20188,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2021-10-17,USHOU,Tankers,98.0,26.0,114.0,91.62
 2021-10-24,USHOU,Tankers,95.0,89.0,108.0,97.75
 2021-10-31,USHOU,Tankers,94.0,86.0,107.0,94.88
-2021-11-07,USHOU,Tankers,96.0,10.0,102.0,83.0
+2021-11-07,USHOU,Tankers,96.0,44.0,102.0,87.25
 2021-11-14,USHOU,Tankers,88.0,88.0,108.0,99.14
 2021-11-21,USHOU,Tankers,97.0,77.0,110.0,93.29
 2021-11-28,USHOU,Tankers,89.0,89.0,111.0,98.86
@@ -20240,7 +20240,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2022-10-16,USHOU,Tankers,94.0,26.0,114.0,91.62
 2022-10-23,USHOU,Tankers,91.0,89.0,108.0,97.75
 2022-10-30,USHOU,Tankers,87.0,86.0,107.0,94.88
-2022-11-06,USHOU,Tankers,101.0,10.0,102.0,83.0
+2022-11-06,USHOU,Tankers,101.0,44.0,102.0,87.25
 2022-11-13,USHOU,Tankers,91.0,88.0,108.0,99.14
 2022-11-20,USHOU,Tankers,77.0,77.0,110.0,93.29
 2022-11-27,USHOU,Tankers,94.0,89.0,111.0,98.86
@@ -20292,7 +20292,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2023-10-15,USHOU,Tankers,102.0,26.0,114.0,91.62
 2023-10-22,USHOU,Tankers,94.0,89.0,108.0,97.75
 2023-10-29,USHOU,Tankers,90.0,86.0,107.0,94.88
-2023-11-05,USHOU,Tankers,87.0,10.0,102.0,83.0
+2023-11-05,USHOU,Tankers,87.0,44.0,102.0,87.25
 2023-11-12,USHOU,Tankers,108.0,88.0,108.0,99.14
 2023-11-19,USHOU,Tankers,108.0,77.0,110.0,93.29
 2023-11-26,USHOU,Tankers,111.0,89.0,111.0,98.86
@@ -20344,7 +20344,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2024-10-13,USHOU,Tankers,99.0,26.0,114.0,91.62
 2024-10-20,USHOU,Tankers,108.0,89.0,108.0,97.75
 2024-10-27,USHOU,Tankers,102.0,86.0,107.0,94.88
-2024-11-03,USHOU,Tankers,102.0,10.0,102.0,83.0
+2024-11-03,USHOU,Tankers,102.0,44.0,102.0,87.25
 2024-11-10,USHOU,Tankers,98.0,88.0,108.0,99.14
 2024-11-17,USHOU,Tankers,110.0,77.0,110.0,93.29
 2024-11-24,USHOU,Tankers,98.0,89.0,111.0,98.86
@@ -20396,7 +20396,7 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2025-10-12,USHOU,Tankers,106.0,26.0,114.0,91.62
 2025-10-19,USHOU,Tankers,94.0,89.0,108.0,97.75
 2025-10-26,USHOU,Tankers,86.0,86.0,107.0,94.88
-2025-11-02,USHOU,Tankers,95.0,10.0,102.0,83.0
+2025-11-02,USHOU,Tankers,95.0,44.0,102.0,87.25
 2025-11-09,USHOU,Tankers,105.0,88.0,108.0,99.14
 2025-11-16,USHOU,Tankers,96.0,77.0,110.0,93.29
 2025-11-23,USHOU,Tankers,101.0,89.0,111.0,98.86
@@ -20448,4 +20448,4 @@ date,port_locode,asset_class,live_calls,hist_min,hist_max,hist_mean
 2026-10-11,USHOU,Tankers,26.0,26.0,114.0,91.62
 2026-10-18,USHOU,Tankers,89.0,89.0,108.0,97.75
 2026-10-25,USHOU,Tankers,99.0,86.0,107.0,94.88
-2026-11-01,USHOU,Tankers,10.0,10.0,102.0,83.0
+2026-11-01,USHOU,Tankers,44.0,44.0,102.0,87.25
