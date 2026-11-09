@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 16:47:02Z",
+  "updated_at": "2026-11-09 17:09:36Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -3499,7 +3499,7 @@
     {
       "file": "ssy_capesize_index_series.csv",
       "target_metric": "SSY Capesize Index, spot routes, 1Y T/C",
-      "rows": 926,
+      "rows": 928,
       "columns": [
         "route",
         "basis",
@@ -3516,7 +3516,7 @@
     {
       "file": "ssy_capesize_index_time_series.csv",
       "target_metric": "SSY Capesize Index, historical changes, and T/C day rates",
-      "rows": 527,
+      "rows": 529,
       "columns": [
         "issue_date",
         "report_week",
@@ -3541,7 +3541,7 @@
     {
       "file": "ssy_route_rates_series.csv",
       "target_metric": "SSY assessed route freight rates ($/t) across Atlantic & Pacific",
-      "rows": 5270,
+      "rows": 5290,
       "columns": [
         "issue_date",
         "report_week",
@@ -3945,13 +3945,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 708700,
+  "total_master_stacked_rows": 708724,
   "total_master_series_csvs": 166,
-  "total_stacked_rows": 708700,
+  "total_stacked_rows": 708724,
   "total_series_csvs": 166,
   "total_master_workbooks": 1,
   "total_series_count": 166,
-  "total_rows_extracted": 709005,
+  "total_rows_extracted": 709029,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 611,
     "advanced_shipping_demolition_series.csv": 2048,
@@ -4095,9 +4095,9 @@
     "signal_reports_metadata.csv": 458,
     "signal_vessel_counts_series.csv": 120,
     "singletons_sales_series.csv": 46,
-    "ssy_capesize_index_series.csv": 926,
-    "ssy_capesize_index_time_series.csv": 527,
-    "ssy_route_rates_series.csv": 5270,
+    "ssy_capesize_index_series.csv": 928,
+    "ssy_capesize_index_time_series.csv": 529,
+    "ssy_route_rates_series.csv": 5290,
     "star_asia_5y_history_series.csv": 796,
     "star_asia_bunker_series.csv": 2999,
     "star_asia_deals_series.csv": 3604,

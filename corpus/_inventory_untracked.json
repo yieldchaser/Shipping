@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2961,
-      "untracked_bytes": 2297462316
+      "untracked_files": 2965,
+      "untracked_bytes": 2297852758
     },
     {
       "path": "corpus/02-hellenic",
@@ -47,6 +47,16 @@
     }
   ],
   "entries": [
+    {
+      "path": "corpus/01-brokers/_digests/ssy/2026/ssy_09_11_2026_ssy_atlantic_capesize_index_9_november_2026.md",
+      "bytes": 3145,
+      "sha256": "8922b778d4f3ab5cd5d53470279e2f9422eda9a1aa02def0253a543a524d50b9"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/ssy/2026/ssy_09_11_2026_ssy_pacific_capesize_index_9_november_2026.md",
+      "bytes": 3127,
+      "sha256": "22db6efd929807632697b554fd98fcc5a5d819e8792aec4fba6284bceba36485"
+    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -12071,6 +12081,16 @@
       "path": "corpus/01-brokers/ssy/2025/ssy_2025_SSY_Pacific_2025-12-19.pdf",
       "bytes": 167631,
       "sha256": "4f307388f563639b482b4c101ae054050a5575a0ca13e7dd1d8e12312277e8b8"
+    },
+    {
+      "path": "corpus/01-brokers/ssy/2026/ssy_09_11_2026_ssy_atlantic_capesize_index_9_november_2026.pdf",
+      "bytes": 192254,
+      "sha256": "1556c3c1a153b635c8eeafad12baa356702c0d82a325f24e28878dde1c388936"
+    },
+    {
+      "path": "corpus/01-brokers/ssy/2026/ssy_09_11_2026_ssy_pacific_capesize_index_9_november_2026.pdf",
+      "bytes": 191916,
+      "sha256": "48906fa8613f13cdefaf537e1d588ada913fa12be920c007e886c9b3da87f0d0"
     },
     {
       "path": "corpus/01-brokers/ssy/2026/ssy_14_09_2026_ssy_atlantic_capesize_index_14_september_2026.pdf",
