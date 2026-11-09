@@ -126,7 +126,7 @@
         "2002-07-01",
         "2026-09-01"
       ],
-      "last_fetched_utc": "2026-11-09T13:42:01Z",
+      "last_fetched_utc": "2026-11-09T15:53:30.371198+00:00",
       "unit": "Throughput MT",
       "is_derived": false,
       "derivation": null,
@@ -2137,12 +2137,12 @@
       "fetch_method": "Multi-Source National Statistics Harvesters",
       "fetch_script": "scripts/scrapers/fetch_minor_bulks.py",
       "output_file": "data/commodities/minor_bulks_monthly.csv",
-      "row_count": 672,
+      "row_count": 673,
       "date_span": [
         "2013-01-01",
         "2026-09-01"
       ],
-      "last_fetched_utc": "2026-11-02T16:22:03.795379+00:00",
+      "last_fetched_utc": "2026-11-09T16:18:18.055899+00:00",
       "unit": "Tonnes / USD FOB/CIF",
       "is_derived": false,
       "derivation": null
@@ -2161,7 +2161,7 @@
         "2024-01-01",
         "2026-09-01"
       ],
-      "last_fetched_utc": "2026-11-02T16:22:14.120518+00:00",
+      "last_fetched_utc": "2026-11-09T16:18:26.528021+00:00",
       "unit": "Mt / month",
       "is_derived": false,
       "derivation": null,
@@ -2181,7 +2181,7 @@
         "2022-01-01",
         "2026-09-01"
       ],
-      "last_fetched_utc": "2026-11-02T16:22:55.965145+00:00",
+      "last_fetched_utc": "2026-11-09T16:19:06.857176+00:00",
       "unit": "Mt / month",
       "is_derived": false,
       "derivation": null,

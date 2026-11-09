@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-09T15:07:09Z",
+    "generated_at": "2026-11-09T16:45:11Z",
     "as_of": "2026-11-09",
     "version": "2.0.0",
     "tab": "Cargo & Trade Flows"
@@ -8,7 +8,7 @@
   "provenance_registry": {
     "registry_metadata": {
       "version": "2.0.0",
-      "generated_at": "2026-11-09T15:07:09Z",
+      "generated_at": "2026-11-09T16:45:11Z",
       "as_of": "2026-11-09",
       "total_datasets": 19,
       "architecture": "Centralized Dynamic Live Ingest Registry"
@@ -63,9 +63,9 @@
         "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCREXUS2&f=W",
         "span": "1991\u20132026",
         "min_date": "1991-02-08",
-        "max_date": "2026-10-23",
-        "as_of": "2026-10-23",
-        "row_count": 1864,
+        "max_date": "2026-10-30",
+        "as_of": "2026-10-30",
+        "row_count": 1865,
         "status": "LIVE",
         "unit": "Thousand Barrels/Day (kbpd)"
       },
@@ -172,9 +172,9 @@
         "source_url": "https://comexstat.mdic.gov.br/",
         "span": "2018\u20132026",
         "min_date": "2018-01",
-        "max_date": "2026-09",
-        "as_of": "2026-09",
-        "row_count": 16091,
+        "max_date": "2026-10",
+        "as_of": "2026-10",
+        "row_count": 16227,
         "status": "LIVE",
         "unit": "Mt per month (exporter-side, FOB)"
       },
@@ -93016,9 +93016,9 @@
       "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCREXUS2&f=W",
       "span": "1991\u20132026",
       "min_date": "1991-02-08",
-      "max_date": "2026-10-23",
-      "as_of": "2026-10-23",
-      "row_count": 1864,
+      "max_date": "2026-10-30",
+      "as_of": "2026-10-30",
+      "row_count": 1865,
       "status": "LIVE",
       "unit": "Thousand Barrels/Day (kbpd)"
     },
@@ -95181,7 +95181,7 @@
           4570.0,
           3442.0,
           4854.0,
-          null,
+          3675.0,
           null,
           null,
           null,
@@ -116816,9 +116816,9 @@
       "source_url": "https://comexstat.mdic.gov.br/",
       "span": "2018\u20132026",
       "min_date": "2018-01",
-      "max_date": "2026-09",
-      "as_of": "2026-09",
-      "row_count": 16091,
+      "max_date": "2026-10",
+      "as_of": "2026-10",
+      "row_count": 16227,
       "status": "LIVE",
       "unit": "Mt per month (exporter-side, FOB)"
     },
@@ -116930,7 +116930,8 @@
           "2026-06",
           "2026-07",
           "2026-08",
-          "2026-09"
+          "2026-09",
+          "2026-10"
         ],
         "total_mt": [
           5.497,
@@ -117036,8 +117037,9 @@
           5.43,
           8.453,
           7.672,
-          8.359,
-          11.69
+          8.355,
+          11.707,
+          14.49
         ],
         "china_mt": [
           1.942,
@@ -117143,8 +117145,9 @@
           2.893,
           3.998,
           4.463,
-          3.316,
-          4.083
+          3.315,
+          4.083,
+          4.524
         ],
         "china_share_pct": [
           35.3,
@@ -117251,91 +117254,92 @@
           47.3,
           58.2,
           39.7,
-          34.9
+          34.9,
+          31.2
         ],
-        "latest_month": "2026-09",
+        "latest_month": "2026-10",
         "top_latest": [
           {
             "country": "China",
-            "mt": 4.083,
-            "share_pct": 34.9
+            "mt": 4.524,
+            "share_pct": 31.2
+          },
+          {
+            "country": "United States",
+            "mt": 2.296,
+            "share_pct": 15.8
           },
           {
             "country": "Netherlands",
-            "mt": 1.268,
-            "share_pct": 10.9
+            "mt": 1.686,
+            "share_pct": 11.6
           },
           {
-            "country": "Portugal",
-            "mt": 0.915,
-            "share_pct": 7.8
-          },
-          {
-            "country": "Italy",
-            "mt": 0.82,
-            "share_pct": 7.0
+            "country": "India",
+            "mt": 0.881,
+            "share_pct": 6.1
           },
           {
             "country": "Spain",
-            "mt": 0.797,
-            "share_pct": 6.8
+            "mt": 0.832,
+            "share_pct": 5.7
           },
           {
-            "country": "South Korea",
-            "mt": 0.543,
-            "share_pct": 4.6
-          },
-          {
-            "country": "Mianmar",
-            "mt": 0.541,
-            "share_pct": 4.6
+            "country": "Indonesia",
+            "mt": 0.804,
+            "share_pct": 5.5
           },
           {
             "country": "Chile",
-            "mt": 0.528,
-            "share_pct": 4.5
+            "mt": 0.408,
+            "share_pct": 2.8
+          },
+          {
+            "country": "Thailand",
+            "mt": 0.396,
+            "share_pct": 2.7
           }
         ],
         "top_12m": [
           {
             "country": "China",
-            "mt": 52.549,
-            "share_pct": 49.8
-          },
-          {
-            "country": "India",
-            "mt": 7.32,
-            "share_pct": 6.9
+            "mt": 52.723,
+            "share_pct": 47.5
           },
           {
             "country": "United States",
-            "mt": 6.983,
-            "share_pct": 6.6
+            "mt": 8.816,
+            "share_pct": 7.9
+          },
+          {
+            "country": "India",
+            "mt": 7.663,
+            "share_pct": 6.9
           },
           {
             "country": "Netherlands",
-            "mt": 6.43,
-            "share_pct": 6.1
+            "mt": 7.614,
+            "share_pct": 6.9
           },
           {
             "country": "Spain",
-            "mt": 6.152,
-            "share_pct": 5.8
+            "mt": 6.311,
+            "share_pct": 5.7
           },
           {
             "country": "Portugal",
-            "mt": 4.215,
-            "share_pct": 4.0
+            "mt": 4.294,
+            "share_pct": 3.9
           },
           {
             "country": "Chile",
-            "mt": 3.644,
-            "share_pct": 3.5
+            "mt": 3.635,
+            "share_pct": 3.3
           },
           {
-            "country": "South Korea",
-            "mt": 3.113,
-            "share_pct": 3.0
+            "country": "Indonesia",
+            "mt": 2.968,
+            "share_pct": 2.7
           }
         ]
       },
@@ -117962,7 +117966,8 @@
           "2026-06",
           "2026-07",
           "2026-08",
-          "2026-09"
+          "2026-09",
+          "2026-10"
         ],
         "total_mt": [
           1.564,
@@ -118069,7 +118074,8 @@
           14.505,
           13.406,
           9.812,
-          7.359
+          7.359,
+          6.344
         ],
         "china_mt": [
           1.342,
@@ -118176,7 +118182,8 @@
           10.281,
           9.425,
           6.935,
-          5.327
+          5.326,
+          4.449
         ],
         "china_share_pct": [
           85.8,
@@ -118283,86 +118290,87 @@
           70.9,
           70.3,
           70.7,
-          72.4
+          72.4,
+          70.1
         ],
-        "latest_month": "2026-09",
+        "latest_month": "2026-10",
         "top_latest": [
           {
             "country": "China",
-            "mt": 5.327,
-            "share_pct": 72.4
+            "mt": 4.449,
+            "share_pct": 70.1
           },
           {
-            "country": "Spain",
-            "mt": 0.347,
+            "country": "Pakistan",
+            "mt": 0.297,
             "share_pct": 4.7
           },
           {
             "country": "Thailand",
-            "mt": 0.267,
+            "mt": 0.28,
+            "share_pct": 4.4
+          },
+          {
+            "country": "Spain",
+            "mt": 0.226,
             "share_pct": 3.6
           },
           {
-            "country": "Pakistan",
-            "mt": 0.26,
-            "share_pct": 3.5
+            "country": "Vietnam",
+            "mt": 0.202,
+            "share_pct": 3.2
           },
           {
             "country": "Iran",
-            "mt": 0.204,
-            "share_pct": 2.8
-          },
-          {
-            "country": "Vietnam",
-            "mt": 0.179,
-            "share_pct": 2.4
+            "mt": 0.196,
+            "share_pct": 3.1
           },
           {
             "country": "Turkey",
-            "mt": 0.149,
-            "share_pct": 2.0
+            "mt": 0.131,
+            "share_pct": 2.1
           },
           {
-            "country": "Netherlands",
-            "mt": 0.119,
-            "share_pct": 1.6
+            "country": "Italy",
+            "mt": 0.128,
+            "share_pct": 2.0
           }
         ],
         "top_12m": [
           {
             "country": "China",
-            "mt": 82.806,
-            "share_pct": 72.3
+            "mt": 81.068,
+            "share_pct": 71.1
           },
           {
             "country": "Spain",
-            "mt": 4.522,
-            "share_pct": 4.0
+            "mt": 4.77,
+            "share_pct": 4.2
           },
           {
             "country": "Thailand",
-            "mt": 3.92,
+            "mt": 3.933,
             "share_pct": 3.4
           },
           {
             "country": "Turkey",
-            "mt": 3.087,
-            "share_pct": 2.7
+            "mt": 3.218,
+            "share_pct": 2.8
           },
           {
             "country": "Pakistan",
-            "mt": 2.62,
-            "share_pct": 2.3
+            "mt": 2.917,
+            "share_pct": 2.6
           },
           {
             "country": "Netherlands",
-            "mt": 2.342,
+            "mt": 2.266,
             "share_pct": 2.0
           },
           {
             "country": "Vietnam",
-            "mt": 2.005,
-            "share_pct": 1.8
+            "mt": 2.207,
+            "share_pct": 1.9
           },
           {
             "country": "Mexico",
@@ -118478,7 +118486,8 @@
           "2026-06",
           "2026-07",
           "2026-08",
-          "2026-09"
+          "2026-09",
+          "2026-10"
         ],
         "total_mt": [
           1.566,
@@ -118585,7 +118594,8 @@
           3.106,
           2.96,
           2.694,
-          2.697
+          2.689,
+          3.244
         ],
         "china_mt": [
           0.002,
@@ -118692,7 +118702,8 @@
           0.549,
           0.574,
           0.242,
-          0.332
+          0.328,
+          0.036
         ],
         "china_share_pct": [
           0.1,
@@ -118799,91 +118810,92 @@
           17.7,
           19.4,
           9.0,
-          12.3
+          12.2,
+          1.1
         ],
-        "latest_month": "2026-09",
+        "latest_month": "2026-10",
         "top_latest": [
           {
-            "country": "China",
-            "mt": 0.332,
-            "share_pct": 12.3
-          },
-          {
-            "country": "India",
-            "mt": 0.323,
-            "share_pct": 12.0
-          },
-          {
-            "country": "Saudi Arabia",
-            "mt": 0.223,
-            "share_pct": 8.3
-          },
-          {
-            "country": "Morocco",
-            "mt": 0.197,
-            "share_pct": 7.3
+            "country": "Nigeria",
+            "mt": 0.26,
+            "share_pct": 8.0
           },
           {
             "country": "Bangladesh",
-            "mt": 0.177,
-            "share_pct": 6.6
+            "mt": 0.24,
+            "share_pct": 7.4
           },
           {
-            "country": "Canada",
-            "mt": 0.151,
-            "share_pct": 5.6
+            "country": "Saudi Arabia",
+            "mt": 0.24,
+            "share_pct": 7.4
           },
           {
-            "country": "Egypt",
-            "mt": 0.129,
+            "country": "India",
+            "mt": 0.24,
+            "share_pct": 7.4
+          },
+          {
+            "country": "Morocco",
+            "mt": 0.219,
+            "share_pct": 6.8
+          },
+          {
+            "country": "Algeria",
+            "mt": 0.157,
             "share_pct": 4.8
           },
           {
-            "country": "Indonesia",
-            "mt": 0.11,
-            "share_pct": 4.1
+            "country": "Canada",
+            "mt": 0.154,
+            "share_pct": 4.8
+          },
+          {
+            "country": "Oman",
+            "mt": 0.151,
+            "share_pct": 4.7
           }
         ],
         "top_12m": [
           {
             "country": "China",
-            "mt": 3.427,
-            "share_pct": 11.1
+            "mt": 2.84,
+            "share_pct": 9.5
           },
           {
             "country": "India",
-            "mt": 2.662,
-            "share_pct": 8.6
+            "mt": 2.513,
+            "share_pct": 8.4
           },
           {
             "country": "Saudi Arabia",
-            "mt": 2.247,
-            "share_pct": 7.3
+            "mt": 2.379,
+            "share_pct": 7.9
           },
           {
             "country": "Bangladesh",
-            "mt": 2.238,
-            "share_pct": 7.2
+            "mt": 2.267,
+            "share_pct": 7.5
           },
           {
             "country": "Algeria",
-            "mt": 1.983,
+            "mt": 1.928,
             "share_pct": 6.4
           },
           {
             "country": "Nigeria",
-            "mt": 1.708,
-            "share_pct": 5.5
+            "mt": 1.809,
+            "share_pct": 6.0
           },
           {
             "country": "Morocco",
-            "mt": 1.537,
-            "share_pct": 5.0
+            "mt": 1.553,
+            "share_pct": 5.2
           },
           {
             "country": "Egypt",
-            "mt": 1.181,
-            "share_pct": 3.8
+            "mt": 1.049,
+            "share_pct": 3.5
           }
         ]
       }
