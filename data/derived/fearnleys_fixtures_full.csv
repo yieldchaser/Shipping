@@ -588363,3 +588363,23 @@ id,date,charterer,owner,vessel,imo,rate,period,route,segment,department,commodit
 885715,2026-11-09,Comc Or Nomi,,,,,,,Panamax,BULK,Rice,,,,chopt
 885716,2026-11-09,Comc,,,,,,,Panamax,BULK,Steel Billets,,,,PART CARGO OK
 885717,2026-11-09,Comc Or Nomi,,,,,,,Panamax,BULK,Cement,,,,
+885718,2026-11-09,,EDOLENA SHIPPING,3 SunYeong,,,,,Panamax,BULK,,,,,Trading Korea; both vessels are trading VLS FO in Korean coastal waters
+885719,2026-11-09,,EDOLENA SHIPPING,7 SUN YEONG,,,,,Panamax,BULK,,,,,Trading Korea; both vessels are trading VLS FO in Korean coastal waters
+885720,2026-11-09,,EDOLENA SHIPPING,3 SUNYEONG,,,,,Panamax,BULK,,,,,"Trading Korea, BWTS: NOT FITTED, both vessels are trading VLS FO in Korean coastal waters"
+885721,2026-11-09,,EDOLENA SHIPPING,7 SUN YEONG,,,,,Panamax,BULK,,,,,"Trading Korea, BWTS: NOT FITTED, both vessels are trading VLS FO in Korean coastal waters"
+885722,2026-11-09,,EDOLENA SHIPPING,3 SUNYEONG,,,,,Panamax,BULK,,,,,"IMO II Coastal Tanker trading Korea; Korea Flag; DPP Tanker / IMO-II / COASTAL; Double Hull, Double Bottom; Heating Coils fitted; Bow Thruster fitted; BWTS not fitted; both vessels are trading VLS FO in Korean coastal waters"
+885723,2026-11-09,,EDOLENA SHIPPING,7 SUN YEONG,,,,,Panamax,BULK,,,,,IMO II Coastal Tanker trading Korea; Korea Flag; DPP Tanker / IMO-II / Coastal; Double Hull / Double Bottom; Heating Coils fitted; Bow Thruster fitted; BWTS not fitted; both vessels are trading VLS FO in Korean coastal waters
+885724,2026-11-09,,JINGHE SHIPPING,TIAN EN 6,,,,,Panamax,BULK,,,,,
+885725,2026-11-09,,JINGHE SHIPPING,HUA HAI ZHI XING,,,,,Handysize,BULK,,,,,
+885726,2026-11-09,,JINGHE SHIPPING,XING ZHONG HAI,,,,,Panamax,BULK,,,,,
+885727,2026-11-09,,JINGHE SHIPPING,ZL KUN,,,,,Handysize,BULK,,,,,
+885728,2026-11-09,,JINGHE SHIPPING,JH PHOENIX,,,,,Panamax,BULK,,,,,CONTAINER
+885729,2026-11-09,,JINGHE SHIPPING,JH PIONEER,,,,,Handysize,BULK,,,,,
+885730,2026-11-09,,JINGHE SHIPPING,TONG YUN 12,,,,,Handysize,BULK,,,,,
+885731,2026-11-09,,Prosperous Shipping,DE FENG 9,,,,,Handysize,BULK,,,,,"1330TEU, REEF 60PC, 14MT HOMO 1122TEU, 3 HQ IN HOLD"
+885732,2026-11-09,,Prosperous Shipping,BAO AN CHENG 89,,,,,Panamax,BULK,,,,,"893TEU, 11kt at 12.5mt lsfo 180cst"
+885733,2026-11-09,,Prosperous Shipping,XIAN FENG JU HE,,,,,Panamax,BULK,,,,,"1667TEU, 4 HQ IN HOLD, 60 PC REEFERS, 14MT HOMO 1353TEU, 13KT AT 16.5MT LSFO 180CST"
+885734,2026-11-09,,Prosperous Shipping,XIN JIN FU 5,,,,,Panamax,BULK,,,,,"977TEU, 10KT AT 9MT LSFO 180CST, REEFER 35PC"
+885735,2026-11-09,,Prosperous Shipping,CHANG HENG 28,,,,,Handysize,BULK,,,,,"NEW BUILT, 1765TEU, 14MT HOMO 1510TEU, 3 HQ IN HOLD, REEFER 60 PCS"
+885736,2026-11-09,,Prosperous Shipping,XIN LONG ZHOU,,,,,Panamax,BULK,,,,,"CCS CLASS, 2340TEU, 14MT HOMO 1898TEU, 5 HQ IN HOLD, 16KT 27MT LSFO 180CST, NEW BUILT"
+885737,2026-11-09,,Prosperous Shipping,XIN RONG SHENG 21,,,,,Handysize,BULK,,,,,"CCS CLASS, 1056TEU, 3 HQ IN HOLD, REFFER 120PC, 16.5KT 19.9MT LSFO 380CST"
