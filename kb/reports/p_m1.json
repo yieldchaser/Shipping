@@ -1,0 +1,374 @@
+{
+  "phase": "P-1",
+  "sample_seed": 1855472108,
+  "candidate_models": [
+    "deepseek-v4-flash",
+    "deepseek-v4.1-flash",
+    "glm-5.3-flash",
+    "gpt-oss-120b",
+    "minimax-m3",
+    "deepseek-v4-pro",
+    "glm-5.3"
+  ],
+  "usable_models": [
+    "deepseek-v4-flash",
+    "deepseek-v4.1-flash",
+    "glm-5.3-flash",
+    "gpt-oss-120b",
+    "deepseek-v4-pro",
+    "glm-5.3"
+  ],
+  "usable_count": 6,
+  "passed": true,
+  "models": [
+    {
+      "model": "deepseek-v4-flash",
+      "calls": {
+        "tools": {
+          "tool_calls": true,
+          "usage": {
+            "prompt_tokens": 304,
+            "completion_tokens": 103,
+            "total_tokens": 407,
+            "completion_tokens_details": {
+              "reasoning_tokens": 32
+            },
+            "cost": 6.962e-05,
+            "vendor_cost": 6.63e-05
+          },
+          "model_returned": "cyberouter/deepseek-v4-flash",
+          "latency_ms": 4733.2
+        },
+        "json_schema": {
+          "valid_json": true,
+          "usage": {
+            "prompt_tokens": 25,
+            "completion_tokens": 324,
+            "total_tokens": 349,
+            "completion_tokens_details": {
+              "reasoning_tokens": 295
+            },
+            "cost": 9.186e-05,
+            "vendor_cost": 8.749e-05
+          },
+          "model_returned": "cyberouter/deepseek-v4-flash",
+          "latency_ms": 3781.9
+        }
+      },
+      "errors": [],
+      "ramp": {
+        "ok": 18,
+        "num_429": 0,
+        "num_5xx": 0,
+        "latency_ms": 2194.8,
+        "models_returned": [
+          "cyberouter/deepseek-v4-flash"
+        ],
+        "usage_prompt_total": 450,
+        "usage_cached_total": 0,
+        "usage_completion_total": 576,
+        "cached_tokens_reported": false
+      },
+      "usable": true
+    },
+    {
+      "model": "deepseek-v4.1-flash",
+      "calls": {
+        "tools": {
+          "tool_calls": true,
+          "usage": {
+            "prompt_tokens": 318,
+            "completion_tokens": 94,
+            "total_tokens": 412,
+            "completion_tokens_details": {
+              "reasoning_tokens": 29
+            },
+            "cost": 0.00021861,
+            "vendor_cost": 0.0002082
+          },
+          "model_returned": "cyberouter/deepseek-v4.1-flash",
+          "latency_ms": 1829.8
+        },
+        "json_schema": {
+          "valid_json": true,
+          "usage": {
+            "prompt_tokens": 50,
+            "completion_tokens": 128,
+            "total_tokens": 178,
+            "completion_tokens_details": {
+              "reasoning_tokens": 101
+            },
+            "cost": 0.00017703,
+            "vendor_cost": 0.0001686
+          },
+          "model_returned": "cyberouter/deepseek-v4.1-flash",
+          "latency_ms": 1844.3
+        }
+      },
+      "errors": [],
+      "ramp": {
+        "ok": 18,
+        "num_429": 0,
+        "num_5xx": 0,
+        "latency_ms": 1644.1,
+        "models_returned": [
+          "cyberouter/deepseek-v4.1-flash"
+        ],
+        "usage_prompt_total": 900,
+        "usage_cached_total": 0,
+        "usage_completion_total": 576,
+        "cached_tokens_reported": false
+      },
+      "usable": true
+    },
+    {
+      "model": "glm-5.3-flash",
+      "calls": {
+        "tools": {
+          "tool_calls": true,
+          "usage": {
+            "prompt_tokens": 184,
+            "completion_tokens": 79,
+            "total_tokens": 263,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "completion_tokens_details": {
+              "reasoning_tokens": 52
+            },
+            "cost": 6.239e-05,
+            "vendor_cost": 5.942e-05
+          },
+          "model_returned": "cyberouter/glm-5.3-flash",
+          "latency_ms": 3598.0
+        },
+        "json_schema": {
+          "valid_json": false,
+          "usage": {
+            "prompt_tokens": 32,
+            "completion_tokens": 512,
+            "total_tokens": 544,
+            "completion_tokens_details": {
+              "reasoning_tokens": 512
+            },
+            "cost": 0.00027384,
+            "vendor_cost": 0.0002608
+          },
+          "model_returned": "cyberouter/glm-5.3-flash",
+          "latency_ms": 5675.0
+        }
+      },
+      "errors": [],
+      "ramp": {
+        "ok": 18,
+        "num_429": 0,
+        "num_5xx": 0,
+        "latency_ms": 2453.9,
+        "models_returned": [
+          "cyberouter/glm-5.3-flash"
+        ],
+        "usage_prompt_total": 576,
+        "usage_cached_total": 0,
+        "usage_completion_total": 576,
+        "cached_tokens_reported": false
+      },
+      "usable": true
+    },
+    {
+      "model": "gpt-oss-120b",
+      "calls": {
+        "tools": {
+          "tool_calls": true,
+          "usage": {
+            "prompt_tokens": 148,
+            "completion_tokens": 198,
+            "total_tokens": 346,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "cost": 0.00011949,
+            "vendor_cost": 0.0001138
+          },
+          "model_returned": "cyberouter/gpt-oss-120b",
+          "latency_ms": 2747.0
+        },
+        "json_schema": {
+          "valid_json": true,
+          "usage": {
+            "prompt_tokens": 143,
+            "completion_tokens": 110,
+            "total_tokens": 253,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "cost": 7.277e-05,
+            "vendor_cost": 6.93e-05
+          },
+          "model_returned": "cyberouter/gpt-oss-120b",
+          "latency_ms": 2315.3
+        }
+      },
+      "errors": [],
+      "ramp": {
+        "ok": 18,
+        "num_429": 0,
+        "num_5xx": 0,
+        "latency_ms": 1960.3,
+        "models_returned": [
+          "cyberouter/gpt-oss-120b"
+        ],
+        "usage_prompt_total": 1764,
+        "usage_cached_total": 1664,
+        "usage_completion_total": 576,
+        "cached_tokens_reported": true
+      },
+      "usable": true
+    },
+    {
+      "model": "minimax-m3",
+      "calls": {
+        "tools": {
+          "_error": {
+            "code": 502,
+            "reason": "Bad Gateway",
+            "body": "{\"error\":{\"message\":\"Inference provider returned HTTP 400\",\"type\":\"api_error\",\"code\":\"provider_error\"},\"cyberouter\":{\"task\":null,\"task_source\":\"none\",\"zdr\":true,\"chosen\":{\"vendor\":\"together\",\"model\":\"minimax-m3\",\"endpoint\":\"together/minimax-m3\",\"zdr\":true},\"criteria\":{\"sort\":\"task_perf\",\"filters\":[\"healthy\",\"zdr\",\"data_collection\",\"require_parameters:tools\"],\"reason\":\"Together AI won on task_perf "
+          }
+        },
+        "json_schema": {
+          "_error": {
+            "code": 502,
+            "reason": "Bad Gateway",
+            "body": "{\"error\":{\"message\":\"Inference provider returned HTTP 400\",\"type\":\"api_error\",\"code\":\"provider_error\"},\"cyberouter\":{\"task\":null,\"task_source\":\"none\",\"zdr\":true,\"chosen\":{\"vendor\":\"together\",\"model\":\"minimax-m3\",\"endpoint\":\"together/minimax-m3\",\"zdr\":true},\"criteria\":{\"sort\":\"task_perf\",\"filters\":[\"healthy\",\"zdr\",\"data_collection\",\"require_parameters:json\"],\"reason\":\"Together AI won on task_perf ("
+          }
+        },
+        "json_object": {
+          "_error": {
+            "code": 502,
+            "reason": "Bad Gateway",
+            "body": "{\"error\":{\"message\":\"Inference provider returned HTTP 400\",\"type\":\"api_error\",\"code\":\"provider_error\"},\"cyberouter\":{\"task\":null,\"task_source\":\"none\",\"zdr\":true,\"chosen\":{\"vendor\":\"together\",\"model\":\"minimax-m3\",\"endpoint\":\"together/minimax-m3\",\"zdr\":true},\"criteria\":{\"sort\":\"task_perf\",\"filters\":[\"healthy\",\"zdr\",\"data_collection\",\"require_parameters:json\"],\"reason\":\"Together AI won on task_perf ("
+          }
+        }
+      },
+      "errors": [
+        "tools 502",
+        "json_schema 502",
+        "json_object 502"
+      ],
+      "ramp": {
+        "ok": 0,
+        "num_429": 0,
+        "num_5xx": 17,
+        "latency_ms": null,
+        "models_returned": [],
+        "usage_prompt_total": 0,
+        "usage_cached_total": 0,
+        "usage_completion_total": 0,
+        "cached_tokens_reported": false
+      },
+      "usable": false
+    },
+    {
+      "model": "deepseek-v4-pro",
+      "calls": {
+        "tools": {
+          "tool_calls": true,
+          "usage": {
+            "prompt_tokens": 304,
+            "completion_tokens": 108,
+            "total_tokens": 412,
+            "prompt_tokens_details": {
+              "cached_tokens": 256
+            },
+            "completion_tokens_details": {
+              "reasoning_tokens": 37
+            },
+            "cost": 0.00055107,
+            "vendor_cost": 0.00052483
+          },
+          "model_returned": "cyberouter/deepseek-v4-pro",
+          "latency_ms": 1903.8
+        },
+        "json_schema": {
+          "valid_json": false,
+          "usage": {
+            "prompt_tokens": 25,
+            "completion_tokens": 59,
+            "total_tokens": 84,
+            "completion_tokens_details": {
+              "reasoning_tokens": 58
+            },
+            "cost": 0.00027997,
+            "vendor_cost": 0.00026664
+          },
+          "model_returned": "cyberouter/deepseek-v4-pro",
+          "latency_ms": 2113.8
+        }
+      },
+      "errors": [],
+      "ramp": {
+        "ok": 18,
+        "num_429": 0,
+        "num_5xx": 0,
+        "latency_ms": 1899.5,
+        "models_returned": [
+          "cyberouter/deepseek-v4-pro"
+        ],
+        "usage_prompt_total": 450,
+        "usage_cached_total": 0,
+        "usage_completion_total": 576,
+        "cached_tokens_reported": false
+      },
+      "usable": true
+    },
+    {
+      "model": "glm-5.3",
+      "calls": {
+        "tools": {
+          "tool_calls": true,
+          "usage": {
+            "prompt_tokens": 185,
+            "completion_tokens": 66,
+            "total_tokens": 251,
+            "completion_tokens_details": {
+              "reasoning_tokens": 40
+            },
+            "cost": 0.00086531,
+            "vendor_cost": 0.0008241
+          },
+          "model_returned": "cyberouter/glm-5.3",
+          "latency_ms": 1898.3
+        },
+        "json_schema": {
+          "valid_json": true,
+          "usage": {
+            "prompt_tokens": 33,
+            "completion_tokens": 120,
+            "total_tokens": 153,
+            "completion_tokens_details": {
+              "reasoning_tokens": 68
+            },
+            "cost": 0.00090437,
+            "vendor_cost": 0.0008613
+          },
+          "model_returned": "cyberouter/glm-5.3",
+          "latency_ms": 2860.2
+        }
+      },
+      "errors": [],
+      "ramp": {
+        "ok": 17,
+        "num_429": 0,
+        "num_5xx": 0,
+        "latency_ms": 1897.1,
+        "models_returned": [
+          "cyberouter/glm-5.3"
+        ],
+        "usage_prompt_total": 561,
+        "usage_cached_total": 0,
+        "usage_completion_total": 544,
+        "cached_tokens_reported": false
+      },
+      "usable": true
+    }
+  ]
+}

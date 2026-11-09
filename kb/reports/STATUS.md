@@ -6,8 +6,8 @@ Live run status. Real spend read from `http://127.0.0.1:4100/stats`.
 |---|---|---|---|
 | 0 smoke | done | PASS (model `cyberouter/deepseek-v4-flash`) | — |
 | P0 | done | PASS (R1–R7 all PASS) | commit+push |
-| P0.5 | blocked | tripwire RED (17 protected data/) | owner decision — see `kb/reports/BLOCKED.md` |
-| P-1 | not started | — | router probe |
+| P0.5 | done | PASS (4 gates, scope frozen 20,704 docs) | commit `7419fd3df7` |
+| P-1 | done | PASS (6/7 candidates usable; tools support confirmed) | report `kb/reports/p_m1.md` |
 | P1 | not started | — | |
 | P2 | not started | — | |
 | P3 | not started | — | |
@@ -24,13 +24,13 @@ Live run status. Real spend read from `http://127.0.0.1:4100/stats`.
 
 | Metric | Value | Cap |
 |---|---|---|
-| Enclave (agent, paid V4 Pro) | $21.56 | $45.00 |
+| Enclave (agent, paid V4 Pro) | $22.58 | $45.00 |
+| Ultrafast (free flash) | $0.00 (0 output tok today) | free |
 | Pipeline | $0.00 so far | $97 |
-| Ultrafast output today | 45 | 5,000,000 (pipeline share 3M) |
 
 Smoke-test usage: prompt_tokens 13, completion_tokens 5, model `cyberouter/deepseek-v4-flash`, cost $0.000003.
 
 ## Integrity
 
-Tripwire RED before P0.5 gate — 17 protected `data/` paths vs `origin/main`. None agent-made.
-See `kb/reports/BLOCKED.md`. Head `df7fd0feb4`, branch `kb-build`. Next: owner decision (§6 L194/L198).
+Tripwire clean for P0.5 and P-1 (fleet/ffa-live drift absorbed by `git merge origin/main`).
+Head `7419fd3df7`, branch `kb-build`. Next: P1 chunking.
