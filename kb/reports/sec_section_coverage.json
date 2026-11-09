@@ -1,0 +1,11 @@
+{
+  "phase": "P0_5",
+  "sec_10k_20f_total": 300,
+  "covered": 299,
+  "with_item5_7": 287,
+  "coverage": 0.9967,
+  "item5_7_rate": 0.9567,
+  "missing": [
+    "corpus/10-companies/NAT/20-F/NAT_20-F-A_2017-05-01_0000919574-17-003680.md"
+  ]
+}

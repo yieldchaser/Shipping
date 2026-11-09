@@ -1,0 +1,158 @@
+{
+  "phase": "P0_5",
+  "sample_seed": 369225460,
+  "generated": "2026-11-09",
+  "result": "PASS",
+  "documents": {
+    "total": 20704,
+    "with_published_at": 20704,
+    "with_publisher_id": 20704
+  },
+  "gate_metrics": {
+    "docs_with_published_at": 1.0,
+    "docs_with_publisher_id": 1.0,
+    "sec_item_coverage_top25_10k_20f": 0.9967,
+    "scope_frozen_file": "kb/reports/scope_P0_5.json"
+  },
+  "doc_type_counts": [
+    {
+      "doc_type": "broker_weekly",
+      "count": 14581
+    },
+    {
+      "doc_type": "broker_daily",
+      "count": 4459
+    },
+    {
+      "doc_type": "sec_6k",
+      "count": 816
+    },
+    {
+      "doc_type": "broker_monthly",
+      "count": 288
+    },
+    {
+      "doc_type": "sec_20f",
+      "count": 261
+    },
+    {
+      "doc_type": "sec_8k",
+      "count": 191
+    },
+    {
+      "doc_type": "sec_10q",
+      "count": 57
+    },
+    {
+      "doc_type": "sec_10k",
+      "count": 39
+    },
+    {
+      "doc_type": "book",
+      "count": 12
+    }
+  ],
+  "date_source_counts": [
+    {
+      "date_source": "frontmatter",
+      "count": 20699
+    },
+    {
+      "date_source": "registry",
+      "count": 5
+    }
+  ],
+  "sec_sectioner": {
+    "phase": "P0_5",
+    "sec_10k_20f_total": 300,
+    "covered": 299,
+    "with_item5_7": 287,
+    "coverage": 0.9967,
+    "item5_7_rate": 0.9567,
+    "missing": [
+      "corpus/10-companies/NAT/20-F/NAT_20-F-A_2017-05-01_0000919574-17-003680.md"
+    ]
+  },
+  "sample": [
+    {
+      "doc_id": "6d0f8487379d3075",
+      "path": "data/extracted/md/advanced_shipping/2021/advanced_shipping_2021_W32_ADVANCED-MARKET-REPORT-WEEK-32.md",
+      "publisher_id": "Advanced Shipping & Trading",
+      "doc_type": "broker_weekly",
+      "year": 2021,
+      "date_source": "frontmatter"
+    },
+    {
+      "doc_id": "d70dbeb77ee558d5",
+      "path": "data/extracted/md/advanced_shipping/2022/advanced_shipping_2022_W27_ADVANCED-MARKET-REPORT-WEEK-27.md",
+      "publisher_id": "Advanced Shipping & Trading",
+      "doc_type": "broker_weekly",
+      "year": 2022,
+      "date_source": "frontmatter"
+    },
+    {
+      "doc_id": "2b8a32f304fbeb86",
+      "path": "data/extracted/md/advanced_shipping/2023/advanced_shipping_2023_W37_ADVANCED-MARKET-REPORT-WEEK-37.md",
+      "publisher_id": "Advanced Shipping & Trading",
+      "doc_type": "broker_weekly",
+      "year": 2023,
+      "date_source": "frontmatter"
+    },
+    {
+      "doc_id": "9341aab05f0f0e4d",
+      "path": "data/extracted/md/advanced_shipping/2024/advanced_shipping_2024_W03_ADVANCED-MARKET-REPORT-WEEK-3-1.md",
+      "publisher_id": "Advanced Shipping & Trading",
+      "doc_type": "broker_weekly",
+      "year": 2024,
+      "date_source": "frontmatter"
+    },
+    {
+      "doc_id": "14dd63c9a6db1da6",
+      "path": "data/extracted/md/advanced_shipping/2025/advanced_shipping_2025_W34_ADVANCED-MARKET-REPORT-WEEK-34.md",
+      "publisher_id": "Advanced Shipping & Trading",
+      "doc_type": "broker_weekly",
+      "year": 2025,
+      "date_source": "frontmatter"
+    },
+    {
+      "doc_id": "b7eec61bf51507eb",
+      "path": "data/extracted/md/advanced_shipping/2026/advanced_shipping_2026_W04_ADVANCED-MARKET-REPORT-WEEK-4.md",
+      "publisher_id": "Advanced Shipping & Trading",
+      "doc_type": "broker_weekly",
+      "year": 2026,
+      "date_source": "frontmatter"
+    },
+    {
+      "doc_id": "326f5797c18b97f3",
+      "path": "data/extracted/md/affinity/2021/affinity_2021_Affinity-Tanker-Weekly-13.08.2021-HSN.md",
+      "publisher_id": "Affinity Shipbrokers",
+      "doc_type": "broker_weekly",
+      "year": 2021,
+      "date_source": "frontmatter"
+    },
+    {
+      "doc_id": "11325ff1fbf33b49",
+      "path": "data/extracted/md/affinity/2022/affinity_2022_Affinity-Tanker-Weekly-21.01.2022-HSN.md",
+      "publisher_id": "Affinity Shipbrokers",
+      "doc_type": "broker_weekly",
+      "year": 2022,
+      "date_source": "frontmatter"
+    },
+    {
+      "doc_id": "b01165346b116f58",
+      "path": "data/extracted/md/affinity/2023/affinity_2023_Affinity-Tanker-Weekly-15.06.2023-HSN.md",
+      "publisher_id": "Affinity Shipbrokers",
+      "doc_type": "broker_weekly",
+      "year": 2023,
+      "date_source": "frontmatter"
+    },
+    {
+      "doc_id": "1d723d1b929b8a33",
+      "path": "data/extracted/md/affinity/2024/affinity_2024_Affinity-Tanker-Weekly-25.07.2024-HSN.md",
+      "publisher_id": "Affinity Shipbrokers",
+      "doc_type": "broker_weekly",
+      "year": 2024,
+      "date_source": "frontmatter"
+    }
+  ]
+}
