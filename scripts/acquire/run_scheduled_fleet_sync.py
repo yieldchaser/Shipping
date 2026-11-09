@@ -240,8 +240,10 @@ def main():
         if current_branch == "main":
             subprocess.run(["git", "push", "origin", "main"], cwd=str(REPO_ROOT), check=True)
         else:
-            # On feature/benchmark branch: push current branch safely
+            # On another branch (e.g. kb-build): push it, and also land the same files on main, so main
+            # stays the home of fleet data and the branch never diverges from main on data/ paths.
             subprocess.run(["git", "push", "origin", current_branch], cwd=str(REPO_ROOT), check=False)
+            mirror_commit_to_main(commit_msg)
 
         logger.info("SUCCESS: Fresh fleet data successfully committed and pushed to GitHub!")
     except Exception as ex:
@@ -249,6 +251,52 @@ def main():
         return 1
 
     return 0
+
+def mirror_commit_to_main(commit_msg, attempts=3):
+    """Apply the files changed by HEAD's commit onto origin/main and push, without touching the checkout.
+
+    Uses a temporary index so the current branch, index and working tree are left as they are.
+    Only the files that HEAD changed are written; everything else on main stays as main has it.
+    """
+    import os
+    import tempfile
+
+    def g(*args, env=None, inp=None):
+        return subprocess.run(["git", *args], cwd=str(REPO_ROOT), capture_output=True, text=True,
+                              env=env, input=inp, check=True).stdout
+
+    changes = [ln.split("\t") for ln in g("diff-tree", "--no-commit-id", "-r", "--name-status", "HEAD").splitlines()]
+    if not changes:
+        return
+    for attempt in range(1, attempts + 1):
+        fd, idx = tempfile.mkstemp(prefix="fleet_idx_")
+        os.close(fd)
+        os.unlink(idx)
+        env = {**os.environ, "GIT_INDEX_FILE": idx}
+        try:
+            g("fetch", "-q", "origin", "main")
+            g("read-tree", "origin/main", env=env)
+            for status, path in ((c[0], c[-1]) for c in changes):
+                if status.startswith("D"):
+                    g("update-index", "--force-remove", "--", path, env=env)
+                else:
+                    mode, _, sha = g("ls-tree", "HEAD", "--", path).split("\t")[0].split()
+                    g("update-index", "--add", "--cacheinfo", f"{mode},{sha},{path}", env=env)
+            tree = g("write-tree", env=env).strip()
+            if tree == g("rev-parse", "origin/main^{tree}").strip():
+                logger.info("main already has this fleet data")
+                return
+            commit = g("commit-tree", tree, "-p", "origin/main", "-m", commit_msg).strip()
+            g("push", "origin", f"{commit}:refs/heads/main")
+            logger.info("Fleet data mirrored to main as %s", commit[:10])
+            return
+        except subprocess.CalledProcessError as ex:
+            logger.warning("Mirror to main attempt %d failed: %s", attempt, (ex.stderr or "").strip())
+        finally:
+            if os.path.exists(idx):
+                os.unlink(idx)
+    logger.error("Could not mirror fleet data to main; it is only on the current branch")
+
 
 if __name__ == "__main__":
     sys.exit(main() or 0)
