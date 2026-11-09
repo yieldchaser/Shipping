@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2965,
-      "untracked_bytes": 2297852758
+      "untracked_files": 2961,
+      "untracked_bytes": 2297462316
     },
     {
       "path": "corpus/02-hellenic",
@@ -32,8 +32,8 @@
     },
     {
       "path": "corpus/07-signal",
-      "untracked_files": 298,
-      "untracked_bytes": 174706385
+      "untracked_files": 312,
+      "untracked_bytes": 182434524
     },
     {
       "path": "corpus/09-ppa",
@@ -47,16 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "path": "corpus/01-brokers/_digests/ssy/2026/ssy_09_11_2026_ssy_atlantic_capesize_index_9_november_2026.md",
-      "bytes": 3145,
-      "sha256": "8922b778d4f3ab5cd5d53470279e2f9422eda9a1aa02def0253a543a524d50b9"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/ssy/2026/ssy_09_11_2026_ssy_pacific_capesize_index_9_november_2026.md",
-      "bytes": 3127,
-      "sha256": "22db6efd929807632697b554fd98fcc5a5d819e8792aec4fba6284bceba36485"
-    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -12081,16 +12071,6 @@
       "path": "corpus/01-brokers/ssy/2025/ssy_2025_SSY_Pacific_2025-12-19.pdf",
       "bytes": 167631,
       "sha256": "4f307388f563639b482b4c101ae054050a5575a0ca13e7dd1d8e12312277e8b8"
-    },
-    {
-      "path": "corpus/01-brokers/ssy/2026/ssy_09_11_2026_ssy_atlantic_capesize_index_9_november_2026.pdf",
-      "bytes": 192254,
-      "sha256": "1556c3c1a153b635c8eeafad12baa356702c0d82a325f24e28878dde1c388936"
-    },
-    {
-      "path": "corpus/01-brokers/ssy/2026/ssy_09_11_2026_ssy_pacific_capesize_index_9_november_2026.pdf",
-      "bytes": 191916,
-      "sha256": "48906fa8613f13cdefaf537e1d588ada913fa12be920c007e886c9b3da87f0d0"
     },
     {
       "path": "corpus/01-brokers/ssy/2026/ssy_14_09_2026_ssy_atlantic_capesize_index_14_september_2026.pdf",
@@ -42073,6 +42053,11 @@
       "sha256": "cfb74c938d015edb12df749489317f64447354fc874abe5b10dbd3e604116a9e"
     },
     {
+      "path": "corpus/07-signal/html/market-insights-chinas-2026-thermal-coal-import-outlook.html",
+      "bytes": 237736,
+      "sha256": "ea689686a73d743b4721913c4837cf6756fc152f0351073c2695cb902b7d6d41"
+    },
+    {
       "path": "corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png",
       "bytes": 298514,
       "sha256": "11bbc769a2164d34cbb31e7e4795412aeb91dc285fb7ee3376aa33bacc388c3b"
@@ -43561,6 +43546,71 @@
       "path": "corpus/07-signal/images/6aab9b1af1afff7802ecc95b_Weeklies (Tanker & Dry).png",
       "bytes": 1548138,
       "sha256": "85b4a55553187dc53bebf16853fd14f226ba445c55f28d3b698e48b7abf032de"
+    },
+    {
+      "path": "corpus/07-signal/images/6aede83ef85a7d81adfcd0f1_00344923.png",
+      "bytes": 78963,
+      "sha256": "f40d9d16110240b418abf79a26cf15cf5ad3448142e96fb64100ac99e3f69059"
+    },
+    {
+      "path": "corpus/07-signal/images/6aede878937ce16b1de2ea83_2ffd6c9e.png",
+      "bytes": 55573,
+      "sha256": "952bb652499edd7d3cbbbbfa3d94db36826844e3997ef55846d06d5c1dafdea1"
+    },
+    {
+      "path": "corpus/07-signal/images/6aede8bc4746e541c0db5871_bdd5f81d.png",
+      "bytes": 106714,
+      "sha256": "3e5ccdcbfae0e841a6cda5095eba5cb826377f5e6d07330b7c6c34cb87905822"
+    },
+    {
+      "path": "corpus/07-signal/images/6aede8f5937ce16b1de371de_412b269f.png",
+      "bytes": 25731,
+      "sha256": "85ed35481c48232650d562a126d69a48894317ddd7a249a8f467265f32930340"
+    },
+    {
+      "path": "corpus/07-signal/images/6aede93bd74abf5d74f2d5de_563fd7d9.png",
+      "bytes": 43078,
+      "sha256": "91d3131717d5563c95f1f1ffeda72147071d4d6caee0baacbbabfd574c0ced8f"
+    },
+    {
+      "path": "corpus/07-signal/images/6aede9797d1dbd7f71110507_8af04fb3.png",
+      "bytes": 39667,
+      "sha256": "d471efc92bd9f4d2c5cee72b38b3906ed0b9c696d89cbb25f1cd65567330a2f6"
+    },
+    {
+      "path": "corpus/07-signal/images/6aede991e280f6e1914b617a_70d4e3b4.png",
+      "bytes": 36450,
+      "sha256": "a3b5c446f803ee8f1c9eeb83205d27aa6dd28ae9b9ac9267a74b6a347367a063"
+    },
+    {
+      "path": "corpus/07-signal/newsroom/2026/market-insights-chinas-2026-thermal-coal-import-outlook.md",
+      "bytes": 17096,
+      "sha256": "ea05ea6ee91b48497f10aa1dd41b02a2d21c6df41da445a5f8e384884ccb0ad7"
+    },
+    {
+      "path": "corpus/07-signal/pdfs/1225058381.PDF.pdf",
+      "bytes": 4158214,
+      "sha256": "4f89a50c44db2f01fdbd84e1cc4e16a7848ef8245ff06fe663c5a8e2a368c62e"
+    },
+    {
+      "path": "corpus/07-signal/pdfs/2026102700278.pdf",
+      "bytes": 89886,
+      "sha256": "b47f9c74b7e9c0889198bf1f4934d665dda1aad138fc2b5230c9c1c2c7fa4a01"
+    },
+    {
+      "path": "corpus/07-signal/pdfs/5492F_1-2026-5-25.pdf",
+      "bytes": 403841,
+      "sha256": "1b1ce02697ac793b686c8f3a9fd03e1e798726e39e968d49cd19e5f0863da67f"
+    },
+    {
+      "path": "corpus/07-signal/pdfs/600011_20260325_CS0B.pdf#page=33.pdf",
+      "bytes": 2146617,
+      "sha256": "94d5af3bf6ca4db52511994dc55dcd291aafd1a7d39b7b9af505b815fa6de462"
+    },
+    {
+      "path": "corpus/07-signal/pdfs/aireport_20260914_itmg_public_expose_32148139_lamp1.pdf",
+      "bytes": 288573,
+      "sha256": "fdcfee1b230e87b8ad1d9af6482ec0515361d330488d3904b95295bd130b8040"
     },
     {
       "path": "corpus/09-ppa/_root_pdfs/dampier_2026_june.pdf",
