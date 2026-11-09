@@ -7,13 +7,13 @@
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4061,
-      "untracked_bytes": 2391699102
+      "untracked_files": 4057,
+      "untracked_bytes": 2389108169
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 15,
-      "untracked_bytes": 2712401
+      "untracked_files": 9,
+      "untracked_bytes": 2035986
     },
     {
       "path": "corpus/04-poten",
@@ -32,8 +32,8 @@
     },
     {
       "path": "corpus/07-signal",
-      "untracked_files": 312,
-      "untracked_bytes": 182434524
+      "untracked_files": 298,
+      "untracked_bytes": 174706385
     },
     {
       "path": "corpus/09-ppa",
@@ -20318,16 +20318,6 @@
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
     },
     {
-      "path": "corpus/02-hellenic/iron_ore/2026/2026-11-09_mmi-daily-iron-ore-index-report-november-9-2026.html",
-      "bytes": 4718,
-      "sha256": "4a2cca4bc1dcb42393e517f67a93f30a56f5ceaf755047de46fe3b9f0353cb2b"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-11-09_mmi-daily-iron-ore-index-report-november-9-2026_09112026chinese321_8fc7d2da4fd6.jpg",
-      "bytes": 182011,
-      "sha256": "b782ba0638c381fb347e778bbcae6c8bd0600c9b892b9abbdc1c5c3fdd342dba"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
       "bytes": 1106014,
       "sha256": "b82a5abf0415bdb8da87e942ca7a69caa92b9e22ff1373ec591775898b1b0aa3"
@@ -30323,11 +30313,6 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-11-09_mmi-daily-iron-ore-index-report-november-9-2026_mmi-daily-iron-ore-report-for-9th-no_c8eeeb6ad04b.pdf",
-      "bytes": 1202102,
-      "sha256": "c30a5927356ab0aa63bf7edff785749da3a9ca163a252014a194c03b2bf1cc0f"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31716,11 +31701,6 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-11-09_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-9th-November-2026.pdf",
-      "bytes": 1202102,
-      "sha256": "c30a5927356ab0aa63bf7edff785749da3a9ca163a252014a194c03b2bf1cc0f"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -35158,21 +35138,6 @@
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
     },
     {
-      "path": "corpus/03-breakwave/drybulk/2026/2026-11-10_Breakwave_Dry_Bulk.pdf",
-      "bytes": 513774,
-      "sha256": "9e92a4f30c3f7f2f9e54f41536e424c2a534970b2481ca189efe844f325284d3"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-09_slowing-growth-in-steel-output-ex-china.html",
-      "bytes": 4299,
-      "sha256": "82b503018e1cb28f6dee9ffcdb685f93a60b2b49fe0f693312299e8b4e71abad"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-09_slowing-growth-in-steel-output-ex-china.md",
-      "bytes": 2761,
-      "sha256": "d6363a87ae27f127d492df7dd7da6552e9eab828f926b1c3028d8a4712a98fba"
-    },
-    {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
       "bytes": 69365,
       "sha256": "9848c9a3aaba37a9e84f8cd2263fff62c7771135c466216f51114381d1621e5f"
@@ -35216,21 +35181,6 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-09_slowing-growth-in-steel-output-ex-china_img_chart1_71574a29d53a.jpg",
-      "bytes": 36118,
-      "sha256": "afb6e9a483126a69f885743d7f65be790294e63cd24486eab46800a98e5904b4"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-09_slowing-growth-in-steel-output-ex-china_img_chart2_f2f74bba4584.jpg",
-      "bytes": 25860,
-      "sha256": "aa99ed9d47a8ab7d5848d703cbeb6bc2c1bbb73fe0ec5aecb8ccc23ab588fdbb"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-09_slowing-growth-in-steel-output-ex-china_img_chart3_9a413d0410a4.jpg",
-      "bytes": 93603,
-      "sha256": "eb2e41ab53460cf9ff62e5033a2be1f556dfa4cefecb5c040139bce2266d59cf"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
@@ -42103,11 +42053,6 @@
       "sha256": "cfb74c938d015edb12df749489317f64447354fc874abe5b10dbd3e604116a9e"
     },
     {
-      "path": "corpus/07-signal/html/market-insights-chinas-2026-thermal-coal-import-outlook.html",
-      "bytes": 237736,
-      "sha256": "ea689686a73d743b4721913c4837cf6756fc152f0351073c2695cb902b7d6d41"
-    },
-    {
       "path": "corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png",
       "bytes": 298514,
       "sha256": "11bbc769a2164d34cbb31e7e4795412aeb91dc285fb7ee3376aa33bacc388c3b"
@@ -43596,71 +43541,6 @@
       "path": "corpus/07-signal/images/6aab9b1af1afff7802ecc95b_Weeklies (Tanker & Dry).png",
       "bytes": 1548138,
       "sha256": "85b4a55553187dc53bebf16853fd14f226ba445c55f28d3b698e48b7abf032de"
-    },
-    {
-      "path": "corpus/07-signal/images/6aede83ef85a7d81adfcd0f1_00344923.png",
-      "bytes": 78963,
-      "sha256": "f40d9d16110240b418abf79a26cf15cf5ad3448142e96fb64100ac99e3f69059"
-    },
-    {
-      "path": "corpus/07-signal/images/6aede878937ce16b1de2ea83_2ffd6c9e.png",
-      "bytes": 55573,
-      "sha256": "952bb652499edd7d3cbbbbfa3d94db36826844e3997ef55846d06d5c1dafdea1"
-    },
-    {
-      "path": "corpus/07-signal/images/6aede8bc4746e541c0db5871_bdd5f81d.png",
-      "bytes": 106714,
-      "sha256": "3e5ccdcbfae0e841a6cda5095eba5cb826377f5e6d07330b7c6c34cb87905822"
-    },
-    {
-      "path": "corpus/07-signal/images/6aede8f5937ce16b1de371de_412b269f.png",
-      "bytes": 25731,
-      "sha256": "85ed35481c48232650d562a126d69a48894317ddd7a249a8f467265f32930340"
-    },
-    {
-      "path": "corpus/07-signal/images/6aede93bd74abf5d74f2d5de_563fd7d9.png",
-      "bytes": 43078,
-      "sha256": "91d3131717d5563c95f1f1ffeda72147071d4d6caee0baacbbabfd574c0ced8f"
-    },
-    {
-      "path": "corpus/07-signal/images/6aede9797d1dbd7f71110507_8af04fb3.png",
-      "bytes": 39667,
-      "sha256": "d471efc92bd9f4d2c5cee72b38b3906ed0b9c696d89cbb25f1cd65567330a2f6"
-    },
-    {
-      "path": "corpus/07-signal/images/6aede991e280f6e1914b617a_70d4e3b4.png",
-      "bytes": 36450,
-      "sha256": "a3b5c446f803ee8f1c9eeb83205d27aa6dd28ae9b9ac9267a74b6a347367a063"
-    },
-    {
-      "path": "corpus/07-signal/newsroom/2026/market-insights-chinas-2026-thermal-coal-import-outlook.md",
-      "bytes": 17096,
-      "sha256": "ea05ea6ee91b48497f10aa1dd41b02a2d21c6df41da445a5f8e384884ccb0ad7"
-    },
-    {
-      "path": "corpus/07-signal/pdfs/1225058381.PDF.pdf",
-      "bytes": 4158214,
-      "sha256": "4f89a50c44db2f01fdbd84e1cc4e16a7848ef8245ff06fe663c5a8e2a368c62e"
-    },
-    {
-      "path": "corpus/07-signal/pdfs/2026102700278.pdf",
-      "bytes": 89886,
-      "sha256": "b47f9c74b7e9c0889198bf1f4934d665dda1aad138fc2b5230c9c1c2c7fa4a01"
-    },
-    {
-      "path": "corpus/07-signal/pdfs/5492F_1-2026-5-25.pdf",
-      "bytes": 403841,
-      "sha256": "1b1ce02697ac793b686c8f3a9fd03e1e798726e39e968d49cd19e5f0863da67f"
-    },
-    {
-      "path": "corpus/07-signal/pdfs/600011_20260325_CS0B.pdf#page=33.pdf",
-      "bytes": 2146617,
-      "sha256": "94d5af3bf6ca4db52511994dc55dcd291aafd1a7d39b7b9af505b815fa6de462"
-    },
-    {
-      "path": "corpus/07-signal/pdfs/aireport_20260914_itmg_public_expose_32148139_lamp1.pdf",
-      "bytes": 288573,
-      "sha256": "fdcfee1b230e87b8ad1d9af6482ec0515361d330488d3904b95295bd130b8040"
     },
     {
       "path": "corpus/09-ppa/_root_pdfs/dampier_2026_june.pdf",
