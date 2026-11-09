@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T16:55:01.638491+00:00",
-  "brief_date": "2026-11-07",
+  "generated_at": "2026-11-09T19:53:35.760755+00:00",
+  "brief_date": "2026-11-09",
   "constituent_holdings": {
     "bdry": {
       "prompt_contract": {
@@ -144,13 +144,13 @@
       "momentum_grade": "FLAT",
       "positioning_bias": "NEUTRAL",
       "confidence_score": 0.45,
-      "confluence_note": "Signal alignment is mixed for dry bulk (Z=+0.50sigma); conviction remains limited. Of 6 Breakwave reports: Sentiment 2 pos/0 neg/4 neu; Momentum 1 pos/3 neg/2 neu; Fundamentals 0 pos/0 neg/6 neu.",
-      "summary": "Dry Bulk is in distribution regime at 2805.0, with z-score +0.50sigma and ROC60 -1.4%. Recent analyst sentiment skews neutral (positive:2, neutral:4). Signal alignment is mixed for dry bulk (Z=+0.50sigma); conviction remains limited. Of 6 Breakwave reports: Sentiment 2 pos/0 neg/4 neu; Momentum 1 pos/3 neg/2 neu; Fundamentals 0 pos/0 neg/6 neu.",
+      "confluence_note": "Signal alignment is mixed for dry bulk (Z=+0.50sigma); conviction remains limited. Of 6 Breakwave reports: Sentiment 3 pos/0 neg/3 neu; Momentum 1 pos/3 neg/2 neu; Fundamentals 0 pos/0 neg/6 neu.",
+      "summary": "Dry Bulk is in distribution regime at 2805.0, with z-score +0.50sigma and ROC60 -1.4%. Recent analyst sentiment skews positive (positive:3, neutral:3). Signal alignment is mixed for dry bulk (Z=+0.50sigma); conviction remains limited. Of 6 Breakwave reports: Sentiment 3 pos/0 neg/3 neu; Momentum 1 pos/3 neg/2 neu; Fundamentals 0 pos/0 neg/6 neu.",
       "key_signals": [
         "Quant: BDI value=2805.0, z=+0.50sigma, 5Y percentile=90.3%.",
-        "Qual: last 6 reports sentiment mix -> positive:2, neutral:4.",
+        "Qual: last 6 reports sentiment mix -> positive:3, neutral:3.",
         "Cross-check: CAPESIZE value=4344.0, z=+0.30sigma.",
-        "Latest report 2026-10-27: momentum=negative, fundamentals=neutral."
+        "Latest report 2026-11-10: momentum=neutral, fundamentals=neutral."
       ],
       "trade_idea": "No high-conviction setup: Maintain neutral book positioning and await decisive alignment between momentum and freight fundamentals.",
       "outlook": "dry bulk outlook is range-bound until either quant momentum or analyst tone breaks decisively.",
@@ -158,12 +158,12 @@
       "watch": "Next weekly Baltic Exchange index revisions and Breakwave fundamental assessment.",
       "risk_note": "A rapid expansion beyond ±1.0σ Z-score would break the current range-bound regime.",
       "report_dates": [
+        "2026-11-10",
         "2026-10-27",
         "2026-10-13",
         "2026-09-29",
         "2026-09-15",
-        "2026-09-01",
-        "2026-08-18"
+        "2026-09-01"
       ]
     },
     "tanker": {
@@ -201,12 +201,12 @@
     "positioning_recommendation": "Overweight Dirty Tankers (BDTI/VLCC) relative to Dry Bulk on resilient crude flows."
   },
   "sources": [
+    "breakwave_drybulk_2026-11-10",
     "breakwave_drybulk_2026-10-27",
     "breakwave_drybulk_2026-10-13",
     "breakwave_drybulk_2026-09-29",
     "breakwave_drybulk_2026-09-15",
     "breakwave_drybulk_2026-09-01",
-    "breakwave_drybulk_2026-08-18",
     "breakwave_tankers_2026-11-03",
     "breakwave_tankers_2026-10-20",
     "breakwave_tankers_2026-10-06",
