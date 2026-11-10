@@ -1875,3 +1875,10 @@ issue_date,report_week,sector,index_name,index_value,prev_value,change_pct,avg_y
 2026-11-02,44,Dry,BHSI,1014.0,1020.0,-0.6%,832.0,661.0,704.0,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
 2026-11-02,44,Wet,BDTI,7019.0,7171.0,-2.1%,3066.0,1068.0,1094.0,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
 2026-11-02,44,Wet,BCTI,2850.0,3014.0,-5.4%,1563.0,667.0,821.0,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
+2026-11-09,45,Dry,BDI,2805.0,2714.0,3.4%,2608.0,1676.0,1756.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Dry,BCI,4344.0,4126.0,5.3%,4087.0,2557.0,2724.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Dry,BPI,2003.0,1889.0,6.0%,2053.0,1483.0,1570.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Dry,BSI,1815.0,1865.0,-2.7%,1505.0,1128.0,1243.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Dry,BHSI,1023.0,1014.0,0.9%,837.0,661.0,704.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Wet,BDTI,5480.0,7019.0,-21.9%,3135.0,1068.0,1094.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Wet,BCTI,2636.0,2850.0,-7.5%,1590.0,667.0,821.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf

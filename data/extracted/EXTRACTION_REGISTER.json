@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 00:42:25Z",
+  "updated_at": "2026-11-10 01:09:35Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -3791,7 +3791,7 @@
     {
       "file": "xclusiv_baltic_indices_series.csv",
       "target_metric": "Xclusiv Baltic Indices",
-      "rows": 1876,
+      "rows": 1883,
       "columns": [
         "issue_date",
         "report_week",
@@ -3810,7 +3810,7 @@
     {
       "file": "xclusiv_demo_sales_series.csv",
       "target_metric": "Reported demolition sales fixtures ($/LDT)",
-      "rows": 617,
+      "rows": 619,
       "columns": [
         "issue_date",
         "report_week",
@@ -3830,7 +3830,7 @@
     {
       "file": "xclusiv_demolition_series.csv",
       "target_metric": "Indicative demolition prices ($/LDT)",
-      "rows": 2144,
+      "rows": 2152,
       "columns": [
         "issue_date",
         "report_week",
@@ -3844,7 +3844,7 @@
     {
       "file": "xclusiv_freight_benchmarks_series.csv",
       "target_metric": "Freight spot earnings & 1Y TC benchmarks ($/day)",
-      "rows": 3775,
+      "rows": 3784,
       "columns": [
         "issue_date",
         "report_week",
@@ -3859,7 +3859,7 @@
     {
       "file": "xclusiv_macro_bunkers_series.csv",
       "target_metric": "Macro commodity prices & bunker spreads ($/t)",
-      "rows": 1072,
+      "rows": 1076,
       "columns": [
         "issue_date",
         "report_week",
@@ -3875,7 +3875,7 @@
     {
       "file": "xclusiv_newbuilding_orders_series.csv",
       "target_metric": "Newbuilding reported contracts & orders",
-      "rows": 1363,
+      "rows": 1379,
       "columns": [
         "issue_date",
         "report_week",
@@ -3895,7 +3895,7 @@
     {
       "file": "xclusiv_newbuilding_prices_series.csv",
       "target_metric": "Indicative newbuilding prices ()",
-      "rows": 2412,
+      "rows": 2421,
       "columns": [
         "issue_date",
         "report_week",
@@ -3909,7 +3909,7 @@
     {
       "file": "xclusiv_sales_series.csv",
       "target_metric": "Secondhand sales transactions ()",
-      "rows": 5776,
+      "rows": 5797,
       "columns": [
         "issue_date",
         "report_week",
@@ -3932,7 +3932,7 @@
     {
       "file": "xclusiv_secondhand_series.csv",
       "target_metric": "Dry bulk & tanker secondhand price matrix ()",
-      "rows": 8700,
+      "rows": 8732,
       "columns": [
         "issue_date",
         "report_week",
@@ -3945,13 +3945,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 708787,
+  "total_master_stacked_rows": 708895,
   "total_master_series_csvs": 166,
-  "total_stacked_rows": 708787,
+  "total_stacked_rows": 708895,
   "total_series_csvs": 166,
   "total_master_workbooks": 1,
   "total_series_count": 166,
-  "total_rows_extracted": 709092,
+  "total_rows_extracted": 709200,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 611,
     "advanced_shipping_demolition_series.csv": 2048,
@@ -4110,14 +4110,14 @@
     "star_asia_snp_sales_series.csv": 3745,
     "star_asia_tc_rates_series.csv": 999,
     "star_asia_valuation_matrix_series.csv": 2566,
-    "xclusiv_baltic_indices_series.csv": 1876,
-    "xclusiv_demo_sales_series.csv": 617,
-    "xclusiv_demolition_series.csv": 2144,
-    "xclusiv_freight_benchmarks_series.csv": 3775,
-    "xclusiv_macro_bunkers_series.csv": 1072,
-    "xclusiv_newbuilding_orders_series.csv": 1363,
-    "xclusiv_newbuilding_prices_series.csv": 2412,
-    "xclusiv_sales_series.csv": 5776,
-    "xclusiv_secondhand_series.csv": 8700
+    "xclusiv_baltic_indices_series.csv": 1883,
+    "xclusiv_demo_sales_series.csv": 619,
+    "xclusiv_demolition_series.csv": 2152,
+    "xclusiv_freight_benchmarks_series.csv": 3784,
+    "xclusiv_macro_bunkers_series.csv": 1076,
+    "xclusiv_newbuilding_orders_series.csv": 1379,
+    "xclusiv_newbuilding_prices_series.csv": 2421,
+    "xclusiv_sales_series.csv": 5797,
+    "xclusiv_secondhand_series.csv": 8732
   }
 }

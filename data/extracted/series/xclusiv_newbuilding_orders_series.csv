@@ -1362,3 +1362,19 @@ issue_date,report_week,type,units,size,yard,buyer,price,delivery,comments,page,s
 2026-11-02,44,CONTAINER,2,"9,200 TEU",HUDONG ZHONGHUA,DANAOS,109 EACH,2029,,4,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
 2026-11-02,44,CONTAINER,2+2,"7,100 TEU",DALIAN,NAMSUNG,89 EACH,2030-31,SCRUBBERS,4,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
 2026-11-02,44,CONTAINER,6,"3,100 TEU CSSC",HUANGPU WENCHONG,KMTC,50 EACH,2030-31,SCRUBBERS,4,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
+2026-11-09,45,VLAC,4,"90,000 CBM",HYUNDAI HEAVY,FORESIGHT,118 EACH,2029,LPG DF,4,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,BC,6,"64,500 DWT",NANTONG XIANGYU,MEADWAY,36 EACH,2030,,4,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,CONTAINER,2,"11,000 TEU",SWS,TS LINES,123 EACH,2030,SCRUBBER,4,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,CONTAINER,2,"9,000 TEU",IMABARI,EPS,110 EACH,2030,SCRUBBER,4,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,CONTAINER,2,"6,000 TEU",IMABARI,EPS,70 EACH,2030,SCRUBBER,4,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,CONTAINER,7,"1,400 TEU",HUANGHAI,PIL,32 EACH,2029-30,,4,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,TANKER,2,"320,000 DWT",HANWHA OCEAN,JP MORGAN,133.5 EACH,2030,SCRUBBERS,4,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,TANKER,2,"320,000 DWT",HANWHA OCEAN,STEALTH,133 EACH,2030,,4,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,TANKER,2,"115,000 DWT","HYUNDAI, VIETNAM",STEALTH,78 EACH,2029-30,COATED,4,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,TANKER,2,"114,000 DWT",HENGLI,ALIMIA,N/A,2028,,4,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,TANKER,4,"50,000 DWT",JIANGSU HAIFENG,YANGZIJIANG MARITIME,N/A,N/A,,4,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,TANKER,2,"50,000 DWT",WUHU,NAVIOS,45.6 EACH,2029,SCRUBBER,4,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,TANKER,2,"50,000 DWT",COSCO GUANGDONG,LEON SHIPPING,46.5,2029,,4,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,TANKER,2,"50,000 DWT",ZHOUSHAN CHANGHONG,TORM,46 EACH,2030,OPTIONS,4,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,TANKER,2,"40,000 DWT",KITANIHON,JAPANESE OWNER,n/A,2029,"STST, TC TO ODFJELL",4,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,TANKER,2,"24,200 DWT",DSOC DALIAN,UNION MARITIME,N/A,2028,,4,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
