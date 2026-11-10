@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2026-11-10_2026_11_10_10272026db_reportj47_0o_kes3e__root",
+  "doc_id": "breakwave_insights_insights_2026-11-10_2026_11_10_10272026db_reportj47_0o_kes3e",
+  "parent_id": null,
+  "title": "Breakwave Bi-Weekly Dry Bulk Report - November 10, 2026",
+  "section_path": [
+    "Breakwave Bi-Weekly Dry Bulk Report - November 10, 2026"
+  ],
+  "section_path_text": "Breakwave Bi-Weekly Dry Bulk Report - November 10, 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n• Capesize Spot Rates Back Above 30,000 as Seasonality Kicks In - Although November has traditionally served as a strong period for dry bulk shipping, the recent recovery in spot rates actually commenced earlier than usual in mid-October, defying historical trends that typically point to late-month softness. Looking ahead, we anticipate sustained strength across the spot market for the remainder of November. This bullish momentum is further reflected in the futures curve, where December contracts are once again rallying toward the 40,000 mark and firstquarter pricing remains historically elevated.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel",
+    "asset",
+    "image"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2530,
+  "source_path": "reports/breakwave/2026/2026-11-10_10272026db-reportj47-0o-kes3e.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/10272026db-reportj47-0o-kes3e",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-11-10_2026_11_10_10272026db_reportj47_0o_kes3e__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-11-10_2026_11_10_10272026db_reportj47_0o_kes3e",
+      "parent_id": "breakwave_insights_insights_2026-11-10_2026_11_10_10272026db_reportj47_0o_kes3e__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "• Capesize Spot Rates Back Above 30,000 as Seasonality Kicks In - Although November has traditionally served as a strong period for dry bulk shipping, the recent recovery in spot rates actually commenced earlier than usual in mid-October, defying historical trends that typically point to late-month softness. Looking ahead, we anticipate sustained strength across the spot market for the remainder of November.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "iron_ore",
+        "crude_oil",
+        "steel",
+        "remains",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 716,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-11-10_2026_11_10_10272026db_reportj47_0o_kes3e__s02_linked_asset_2026_11_10_10272026db_reportj47_0o_kes3e_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9b8be4b7b541_png",
+      "doc_id": "breakwave_insights_insights_2026-11-10_2026_11_10_10272026db_reportj47_0o_kes3e",
+      "parent_id": "breakwave_insights_insights_2026-11-10_2026_11_10_10272026db_reportj47_0o_kes3e__root",
+      "title": "Linked asset: 2026-11-10_10272026db-reportj47-0o-kes3e_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9b8be4b7b541.png",
+      "section_path": [
+        "Linked asset: 2026-11-10_10272026db-reportj47-0o-kes3e_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9b8be4b7b541.png"
+      ],
+      "section_path_text": "Linked asset: 2026-11-10_10272026db-reportj47-0o-kes3e_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9b8be4b7b541.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-11-10_10272026db-reportj47-0o-kes3e_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9b8be4b7b541.png\n\nLinked image asset: 2026-11-10_10272026db-reportj47-0o-kes3e_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9b8be4b7b541.png\n\nImage metadata: PNG 277x642 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nShort-term Indicators\nMomentum: Neutral\nSentiment: Positive\nFundamentals: Neutral\nBreakwave Dry 9643\nFutures Index:\n30D: -8.9% v\nYTD: 72.0% t\nYOY: 45.4% t\nBaltic DryIndex 935.4\n(spot):\n30D: -2.2% v\nYTD: 52.1% t\nYOY: 35.6% t\nReuters: BDRY.K\nBloomberg: BDRY US\nExchange: NYSE\nBreakwave Advisors Research\nresearch@ breakwaveadvisors.com",
+      "keywords": [
+        "asset",
+        "image",
+        "neutral",
+        "research",
+        "yoy",
+        "ytd",
+        "bdry",
+        "bdry.k"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 294,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-11-10_2026_11_10_10272026db_reportj47_0o_kes3e__s03_linked_asset_2026_11_10_10272026db_reportj47_0o_kes3e_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c1f8fde0de25_png",
+      "doc_id": "breakwave_insights_insights_2026-11-10_2026_11_10_10272026db_reportj47_0o_kes3e",
+      "parent_id": "breakwave_insights_insights_2026-11-10_2026_11_10_10272026db_reportj47_0o_kes3e__root",
+      "title": "Linked asset: 2026-11-10_10272026db-reportj47-0o-kes3e_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c1f8fde0de25.png",
+      "section_path": [
+        "Linked asset: 2026-11-10_10272026db-reportj47-0o-kes3e_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c1f8fde0de25.png"
+      ],
+      "section_path_text": "Linked asset: 2026-11-10_10272026db-reportj47-0o-kes3e_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c1f8fde0de25.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-11-10_10272026db-reportj47-0o-kes3e_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c1f8fde0de25.png\n\nLinked image asset: 2026-11-10_10272026db-reportj47-0o-kes3e_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c1f8fde0de25.png\n\nImage metadata: PNG 930x560 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\n[structured table]\n| | | BREAKWAVE |\n|---|---|---|\n| | | ADVISORS |\n| | Baltic Dry Index (BDIY) vs Breakwave | Dry Futures Index (BDRYFF) |\n| | 4000 | |\n| | 3500 | |\n| | 3000 | |\n| | 2500 | |\n| | 2000 | |\n| | 1500 | |\n| | 1000 | |\n| | 500 | |\n| | (spot) -- | BDRYFF (futures) |\n| | 5 | |\n| | Dec-25 Jan-26 Feb-26 Mar-26 Apr-26 May-26 | Jun-26 Jul-26 Aug-26 Sep-26 Oct-26 |\n| The | Baltic Dry Index (BDI) measures the average spot rates for dry bulk freight with a | sector weighting of 40% Capesize, 30% Panamax and 30% Supramax. |\n| The | Breakwave Dry Futures Index (BDRYFF) is designed to track freight futures contracts | with a sector weighting of 5036 Capesize, 40% Panamax and 10% |\n| | and a weighted average maturity of approximately 50-70 days.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "bdryff",
+        "average",
+        "sector",
+        "weighting",
+        "bdiy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 660,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-11-10_2026_11_10_10272026db_reportj47_0o_kes3e__s04_linked_asset_2026_11_10_10272026db_reportj47_0o_kes3e_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4ee0b648605f_png",
+      "doc_id": "breakwave_insights_insights_2026-11-10_2026_11_10_10272026db_reportj47_0o_kes3e",
+      "parent_id": "breakwave_insights_insights_2026-11-10_2026_11_10_10272026db_reportj47_0o_kes3e__root",
+      "title": "Linked asset: 2026-11-10_10272026db-reportj47-0o-kes3e_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4ee0b648605f.png",
+      "section_path": [
+        "Linked asset: 2026-11-10_10272026db-reportj47-0o-kes3e_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4ee0b648605f.png"
+      ],
+      "section_path_text": "Linked asset: 2026-11-10_10272026db-reportj47-0o-kes3e_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4ee0b648605f.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-11-10_10272026db-reportj47-0o-kes3e_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4ee0b648605f.png\n\nLinked image asset: 2026-11-10_10272026db-reportj47-0o-kes3e_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4ee0b648605f.png\n\nImage metadata: PNG 931x755 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nDemand YTD YOY\nChina Steel Production 725mt\nChina Steel Inventories 3.4mt -21.4%\nChina Iron Ore Inventories 155mt 11.6%\nChina Iron Ore Imports 955mt\nChina Coal Imports 354mt\nChina Soybean Imports | emt tH\nBrazil Iron Ore Exports 298mt\nSupply\nDry Bulk Fleet 1101 mdwt\nFreight Rates\nBaltic Dry Index, Average 2,609 64.3%\nCapesize Spot Rates, Average 33,560 71.2%\nPanamax Spot rates, Average 18,482 42.4%\nNote: All numbers as of latest available; Imports/Exports/Production are YTD sums as of latest reported; Inventories/Fleet are weekly totals\nSources: Bloomberg, IEA, Clarksons and Breakwave Advisors\nDisclaimer: This research report has been prepared by Breakwave Advisors LLC solely for general information purposes and for the recipient's internal use only. This report does not constitute and will not form part of and should not be construe",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "iron_ore",
+        "coal",
+        "grain",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 686,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

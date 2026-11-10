@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-11-10_2026_11_10_the_november_2026_midterm_elections_introduced_yet_another_turning_point_in_an_a__root",
+  "doc_id": "breakwave_insights_insights_2026-11-10_2026_11_10_the_november_2026_midterm_elections_introduced_yet_another_turning_point_in_an_a",
+  "parent_id": null,
+  "title": "The November 2026 midterm elections introduced yet another turning point in an already turbulent political and economic landscape",
+  "section_path": [
+    "The November 2026 midterm elections introduced yet another turning point in an already turbulent political and economic landscape"
+  ],
+  "section_path_text": "The November 2026 midterm elections introduced yet another turning point in an already turbulent political and economic landscape",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nIn November 2016, with the global economy still absorbing the aftershock of the Brexit referendum, the election of Donald Trump delivered a second political surprise. The initial reaction was one of alarm. As the count turned against expectations, US equity futures fell to their overnight limit, Tokyo suffered its sharpest session since the Brexit vote, Seoul followed it lower, and gold briefly rallied by almost 5 percent as investors sought refuge.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "china",
+    "pacific",
+    "europe",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "gas",
+    "its",
+    "trade"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1564,
+  "source_path": "reports/breakwave/2026/2026-11-10_the-november-2026-midterm-elections-introduced-yet-another-turning-point-in-an-a.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/11/9/the-november-2026-midterm-elections-introduced-yet-another-turning-point-in-an-already-turbulent-political-and-economic-landscape",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-11-10_2026_11_10_the_november_2026_midterm_elections_introduced_yet_another_turning_point_in_an_a__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-11-10_2026_11_10_the_november_2026_midterm_elections_introduced_yet_another_turning_point_in_an_a",
+      "parent_id": "breakwave_insights_insights_2026-11-10_2026_11_10_the_november_2026_midterm_elections_introduced_yet_another_turning_point_in_an_a__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nIn November 2016, with the global economy still absorbing the aftershock of the Brexit referendum, the election of Donald Trump delivered a second political surprise. The initial reaction was one of alarm.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "china",
+        "pacific",
+        "europe",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1562,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2026-11-10_2026_11_10_cheaper_beans_busier_ships__root",
+  "doc_id": "breakwave_insights_insights_2026-11-10_2026_11_10_cheaper_beans_busier_ships",
+  "parent_id": null,
+  "title": "Cheaper Beans, Busier Ships",
+  "section_path": [
+    "Cheaper Beans, Busier Ships"
+  ],
+  "section_path_text": "Cheaper Beans, Busier Ships",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nAfter hitting multi-year highs in September, US soybean futures have trended lower over the past month, returning to levels last seen in the middle of August. The recent decline has been largely fuelled by rising global supplies, which have offset robust demand. The slide may not be fully complete yet, as the world's leading producers are set for record crops in the 2026/27 season.",
+  "keywords": [
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "grain",
+    "products",
+    "per",
+    "cent",
+    "soybean",
+    "exports",
+    "volumes",
+    "brazilian"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1376,
+  "source_path": "reports/breakwave/2026/2026-11-10_cheaper-beans-busier-ships.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/11/10/cheaper-beans-busier-ships",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-11-10_2026_11_10_cheaper_beans_busier_ships__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-11-10_2026_11_10_cheaper_beans_busier_ships",
+      "parent_id": "breakwave_insights_insights_2026-11-10_2026_11_10_cheaper_beans_busier_ships__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nAfter hitting multi-year highs in September, US soybean futures have trended lower over the past month, returning to levels last seen in the middle of August. The recent decline has been largely fuelled by rising global supplies, which have offset robust demand.",
+      "keywords": [
+        "grain",
+        "demand.",
+        "may",
+        "not",
+        "after",
+        "are",
+        "august.",
+        "bearish"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 129,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-11-10_2026_11_10_cheaper_beans_busier_ships__s02_us_and_brazil_are_set_for_record_crops",
+      "doc_id": "breakwave_insights_insights_2026-11-10_2026_11_10_cheaper_beans_busier_ships",
+      "parent_id": "breakwave_insights_insights_2026-11-10_2026_11_10_cheaper_beans_busier_ships__root",
+      "title": "US and Brazil Are Set for Record Crops",
+      "section_path": [
+        "US and Brazil Are Set for Record Crops"
+      ],
+      "section_path_text": "US and Brazil Are Set for Record Crops",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "According to the latest estimates from the USDA, the US soybean harvest is expected to reach a record 4.56 billion bushels. The latest reading was 27 million bushels higher than the preceding estimate, reflecting a higher yield, and, with the harvest nearly 80 per cent complete by late October, the final figure is unlikely to deviate much from it.",
+      "keywords": [
+        "brazil",
+        "grain",
+        "million",
+        "harvest",
+        "per",
+        "soybean",
+        "brazilian",
+        "cent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 320,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-11-10_2026_11_10_cheaper_beans_busier_ships__s03_soybean_exports_on_the_rise",
+      "doc_id": "breakwave_insights_insights_2026-11-10_2026_11_10_cheaper_beans_busier_ships",
+      "parent_id": "breakwave_insights_insights_2026-11-10_2026_11_10_cheaper_beans_busier_ships__root",
+      "title": "Soybean Exports on the Rise",
+      "section_path": [
+        "Soybean Exports on the Rise"
+      ],
+      "section_path_text": "Soybean Exports on the Rise",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The global seaborne trade in soybeans has been strong so far this year. According to the latest data from Signal Ocean, 154.2 million tonnes were exported during the first ten months of the year.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "grain",
+        "per",
+        "cent",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 644,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-11-10_2026_11_10_cheaper_beans_busier_ships__s04_the_outlook_for_the_seaborne_soybean_trade",
+      "doc_id": "breakwave_insights_insights_2026-11-10_2026_11_10_cheaper_beans_busier_ships",
+      "parent_id": "breakwave_insights_insights_2026-11-10_2026_11_10_cheaper_beans_busier_ships__root",
+      "title": "The Outlook for the Seaborne Soybean Trade",
+      "section_path": [
+        "The Outlook for the Seaborne Soybean Trade"
+      ],
+      "section_path_text": "The Outlook for the Seaborne Soybean Trade",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "On the back of October's strong soybean export shipping data, it is tempting to assume more robustness will follow in the coming months. However, a few different factors, both positive and negative for volumes, need to be considered.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "grain",
+        "products",
+        "export",
+        "data"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 251,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
