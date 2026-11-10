@@ -113,7 +113,7 @@ Then apply the improvements that **raise or keep** quality without lowering any 
 | Machine | Windows 11, i3-1215U, **8 GB RAM**, about 40 GB free |
 | Python | Python 3 is already installed with `duckdb`, `scipy`, `pydantic`, `openai`, `tiktoken`, `onnxruntime`. Install anything else into a venv at `kb/.venv` (git-ignored). |
 | Harness | You are running in DeepSeek Harness (dsh), at most 4 subagents at once. Your model calls go through the local **agent gateway**, `tools/agent_gateway/agent_gateway.py`, on `127.0.0.1:4100`. It routes by model:
-  - **You (the main agent) use `deepseek-v4-pro`**: Enclave V4 Pro with reasoning, hard **$60** cap (raised from $45 on 2026-11-10; pipeline cap is now $82).
+  - **You (the main agent) use `deepseek-v4-pro`**: Enclave V4 Pro with reasoning, hard **$66** cap (raised from $45 on 2026-11-10; pipeline cap $82). Money freed by free providers after C1 can raise it further (plan §10.3).
   - **Subagents use `deepseek-v4.1-flash`**: the free Ultrafast queue with thinking on, waiting in the queue automatically.
   - Each side falls back to the other when it is unavailable or its cap is used up.
 
