@@ -1211,13 +1211,13 @@ date,commodity,hs_heading,country,metric_tonnes,fob_usd,source,source_url
 2026-07-01,Crude Oil,2709,Suécia,131399.392,108816645.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Crude Oil,2709,Chile,131241.684,106737684.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Crude Oil,2709,Colômbia,10.801,31956.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Crude Oil,2709,China,3315891.142,1744149754.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Crude Oil,2709,India,1161678.657,770485391.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Crude Oil,2709,Netherlands,619223.819,310549851.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Crude Oil,2709,Spain,599077.165,332215227.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Crude Oil,2709,China,3314901.179,1717491681.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Crude Oil,2709,India,1161119.342,755436649.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Crude Oil,2709,Netherlands,684386.935,325443962.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Crude Oil,2709,Spain,598941.989,324105997.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Crude Oil,2709,Portugal,461238.418,247830634.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Crude Oil,2709,Italy,400625.68,199027388.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Crude Oil,2709,United States,390779.104,198439181.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Crude Oil,2709,United States,389875.488,194280945.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Crude Oil,2709,África do Sul,261859.669,180642464.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Crude Oil,2709,Indonesia,261331.957,135773274.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Crude Oil,2709,Singapore,145666.319,66408790.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
@@ -1226,31 +1226,53 @@ date,commodity,hs_heading,country,metric_tonnes,fob_usd,source,source_url
 2026-08-01,Crude Oil,2709,United Arab Emirates,133498.964,55779284.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Crude Oil,2709,France,125338.204,73977451.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Crude Oil,2709,Bahamas,73897.436,43757886.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Crude Oil,2709,Dinamarca,72015.325,40576246.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Crude Oil,2709,Poland,66225.738,39885223.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Crude Oil,2709,Uruguay,71799.279,40648338.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Crude Oil,2709,Colômbia,26.1,87435.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Crude Oil,2709,China,4083241.471,2346817635.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Crude Oil,2709,Netherlands,1268464.069,724231341.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Crude Oil,2709,China,4082950.378,2333539495.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Crude Oil,2709,Netherlands,1239895.22,736348470.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Crude Oil,2709,Portugal,915417.474,540885279.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Crude Oil,2709,Italy,819647.895,454540598.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Crude Oil,2709,Spain,796763.743,399977147.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Crude Oil,2709,Italy,819371.106,450368971.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Crude Oil,2709,Spain,657096.808,322317372.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Crude Oil,2709,South Korea,542968.756,296543946.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Crude Oil,2709,Mianmar,541388.738,280950581.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Crude Oil,2709,Chile,528263.489,313017540.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Crude Oil,2709,Malaysia,462657.475,229154841.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Crude Oil,2709,United States,272762.326,146362674.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Crude Oil,2709,Malaysia,513225.615,258013755.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Crude Oil,2709,Indonesia,408362.897,228474773.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Crude Oil,2709,United States,272394.003,151569709.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Crude Oil,2709,France,267444.115,144007786.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Crude Oil,2709,India,222458.63,125174090.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Crude Oil,2709,Dinamarca,203733.344,115809734.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Crude Oil,2709,France,203642.454,108634532.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Crude Oil,2709,Singapore,149024.57,84092452.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Crude Oil,2709,Singapore,147236.276,74136698.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Crude Oil,2709,Uruguay,138821.33,73120162.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Crude Oil,2709,Panama,135644.285,61482126.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Crude Oil,2709,United Arab Emirates,135081.079,57371866.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Crude Oil,2709,Indonesia,130284.866,70395169.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Crude Oil,2709,Turkey,66111.035,34432707.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Crude Oil,2709,Suécia,48358.821,22589183.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Crude Oil,2709,Suíça,24917.641,13288000.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Crude Oil,2709,Colômbia,26.1,87435.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,China,4523769.341,2642366419.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,United States,2296314.028,1348772021.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,Netherlands,1685930.788,967041456.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,India,880717.754,534564620.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,Spain,832325.154,497739203.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,Indonesia,803789.39,478924285.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,Chile,408083.415,252421740.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,Thailand,396348.804,231430585.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,Portugal,351759.684,232893495.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,Poland,309573.291,168489724.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,Uruguay,278088.513,181147705.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,France,254414.257,126960167.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,Malaysia,194909.372,113476340.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,United Arab Emirates,139956.295,102466025.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,Mianmar,137249.451,73515751.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,Philippines,136974.019,93412345.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,Norway,136344.198,85432292.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,Peru,134731.308,80626766.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,South Korea,134093.967,70145258.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,Italy,130994.998,76663756.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,África do Sul,129181.186,69302107.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,Jamaica,126543.663,75372597.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,Turkey,67602.495,35450049.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Crude Oil,2709,Chipre,0.025,123.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2018-01-01,Iron Ore,2601,China,18169336.0,873290947.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2018-01-01,Iron Ore,2601,Netherlands,1501352.0,85258379.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2018-01-01,Iron Ore,2601,Oman,1329194.0,62073360.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
@@ -6555,11 +6577,11 @@ date,commodity,hs_heading,country,metric_tonnes,fob_usd,source,source_url
 2026-06-01,Soybeans,1201,Bermudas,0.003,7.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-06-01,Soybeans,1201,Libéria,0.002,34.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-06-01,Soybeans,1201,Panama,0.0,101.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-07-01,Soybeans,1201,China,9424897.56,4116959893.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-07-01,Soybeans,1201,China,9424897.56,4114077385.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Soybeans,1201,Spain,507863.335,221019775.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-07-01,Soybeans,1201,Thailand,386927.672,167800994.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-07-01,Soybeans,1201,Mexico,371034.143,162106099.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-07-01,Soybeans,1201,Iran,352940.584,160934844.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-07-01,Soybeans,1201,Thailand,386927.672,167382883.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-07-01,Soybeans,1201,Mexico,371034.143,162106098.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-07-01,Soybeans,1201,Iran,352940.584,160934843.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Soybeans,1201,Vietnam,343856.032,152060395.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Soybeans,1201,Netherlands,343011.269,157195495.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Soybeans,1201,Pakistan,295399.518,131269369.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
@@ -6590,26 +6612,26 @@ date,commodity,hs_heading,country,metric_tonnes,fob_usd,source,source_url
 2026-07-01,Soybeans,1201,Antígua e Barbuda,0.003,61.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Soybeans,1201,Singapore,0.003,56.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Soybeans,1201,Suíça,0.002,4.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Soybeans,1201,China,6935187.941,3112617011.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Soybeans,1201,China,6935187.94,3112617012.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Soybeans,1201,Spain,488301.981,218877679.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Soybeans,1201,Thailand,452290.06,204945526.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Soybeans,1201,Pakistan,315928.411,147167539.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Soybeans,1201,Mexico,219847.658,97597076.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Soybeans,1201,Pakistan,315928.411,147167538.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Soybeans,1201,Mexico,219847.658,97597075.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Soybeans,1201,Turkey,186031.085,80831000.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Soybeans,1201,Vietnam,185188.096,85718148.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Soybeans,1201,Netherlands,142917.904,65461056.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Soybeans,1201,Taiwan,133242.774,60074583.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Soybeans,1201,United Kingdom,108931.017,47581191.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Soybeans,1201,United Kingdom,108931.018,47581191.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Soybeans,1201,Bangladesh,102969.501,46459900.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Soybeans,1201,Russia,93978.202,41197704.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Soybeans,1201,Algeria,88146.461,40969693.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Soybeans,1201,Italy,83870.427,38097150.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Soybeans,1201,Israel,65005.13,29000007.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Soybeans,1201,Bangladesh,63726.034,28229030.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Soybeans,1201,South Korea,60900.002,28722692.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Soybeans,1201,Suíça,52749.999,22455184.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Soybeans,1201,Japan,52194.27,24112711.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Soybeans,1201,Iraq,45243.467,20932310.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Soybeans,1201,Norway,32142.033,17958076.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Soybeans,1201,Iraq,6000.0,2701440.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Soybeans,1201,Malaysia,3078.0,1363740.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Soybeans,1201,Paraguai,1068.126,1141215.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Soybeans,1201,Argentina,949.138,375840.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
@@ -6623,21 +6645,21 @@ date,commodity,hs_heading,country,metric_tonnes,fob_usd,source,source_url
 2026-08-01,Soybeans,1201,Singapore,0.002,16.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Soybeans,1201,Hong Kong,0.002,13.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Soybeans,1201,United States,0.001,1.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Soybeans,1201,China,5326907.893,2532497267.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Soybeans,1201,Spain,346805.511,159178826.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Soybeans,1201,Thailand,267379.591,121259518.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Soybeans,1201,Pakistan,259815.991,117856488.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Soybeans,1201,China,5326357.893,2509491821.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Soybeans,1201,Spain,378821.26,176492768.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Soybeans,1201,Thailand,267379.591,121259517.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Soybeans,1201,Pakistan,259815.993,124161994.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Soybeans,1201,Iran,203807.451,103242583.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Soybeans,1201,Vietnam,178563.119,81510583.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Soybeans,1201,Turkey,149405.888,67052751.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Soybeans,1201,Vietnam,179113.119,85280507.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Soybeans,1201,Turkey,149405.888,68225297.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Soybeans,1201,Netherlands,119323.427,60107478.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Soybeans,1201,Mexico,113579.442,52088965.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Soybeans,1201,United Kingdom,105644.744,48583657.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Soybeans,1201,Mexico,113579.442,52088966.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Soybeans,1201,Algeria,92045.078,45309999.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Soybeans,1201,Tunísia,60329.69,26210030.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Soybeans,1201,Greece,42354.16,17979700.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Soybeans,1201,United Kingdom,73628.995,34656806.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Soybeans,1201,Tunísia,60329.69,26688236.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Soybeans,1201,Greece,42354.16,21065550.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Soybeans,1201,Israel,39992.861,16397073.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Soybeans,1201,Líbano,17500.0,7175000.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Soybeans,1201,Líbano,17500.0,9124499.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Soybeans,1201,Costa Rica,16972.459,8441252.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Soybeans,1201,Portugal,14520.0,6493200.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Soybeans,1201,Malaysia,3127.28,1494028.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
@@ -6655,6 +6677,29 @@ date,commodity,hs_heading,country,metric_tonnes,fob_usd,source,source_url
 2026-09-01,Soybeans,1201,Singapore,0.003,54.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Soybeans,1201,Egypt,0.002,36.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Soybeans,1201,Bahamas,0.0,1.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Soybeans,1201,China,4448954.628,2205502449.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Soybeans,1201,Pakistan,296780.972,140990988.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Soybeans,1201,Thailand,280408.112,136970848.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Soybeans,1201,Spain,226351.484,108296629.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Soybeans,1201,Vietnam,202267.478,93985847.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Soybeans,1201,Iran,195966.238,104321369.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Soybeans,1201,Turkey,131090.412,61124417.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Soybeans,1201,Italy,128331.553,65422814.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Soybeans,1201,South Korea,116004.584,58568062.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Soybeans,1201,United Kingdom,101603.484,51163666.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Soybeans,1201,Taiwan,70507.73,33803768.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Soybeans,1201,Bangladesh,52784.172,24235639.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Soybeans,1201,Norway,52055.443,33646946.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Soybeans,1201,Tunísia,30836.159,12895687.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Soybeans,1201,Netherlands,10000.0,4896800.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Soybeans,1201,Paraguai,18.511,17662.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Soybeans,1201,Argentina,17.84,17840.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Soybeans,1201,Peru,14.25,5415.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Soybeans,1201,United States,0.05,48.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Soybeans,1201,"Marshall, Ilhas",0.025,60.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Soybeans,1201,Bahamas,0.021,63.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Soybeans,1201,Dinamarca,0.002,42.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Soybeans,1201,Chipre,0.001,12.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2018-01-01,Sugar,1701,Nigeria,204170.139,72564123.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2018-01-01,Sugar,1701,Algeria,188182.256,65362902.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2018-01-01,Sugar,1701,Saudi Arabia,142001.719,49097051.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
@@ -15800,8 +15845,8 @@ date,commodity,hs_heading,country,metric_tonnes,fob_usd,source,source_url
 2026-06-01,Sugar,1701,Turkey,0.001,1.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-06-01,Sugar,1701,Bermudas,0.0,38.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-06-01,Sugar,1701,Barein,0.0,32.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-07-01,Sugar,1701,China,574021.95,198997709.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-07-01,Sugar,1701,Morocco,268594.0,89974956.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-07-01,Sugar,1701,China,574021.95,199252790.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-07-01,Sugar,1701,Morocco,268594.0,90488927.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,India,228630.619,75340705.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,Nigeria,204846.34,70043860.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,Canada,191277.665,64728700.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
@@ -15822,7 +15867,7 @@ date,commodity,hs_heading,country,metric_tonnes,fob_usd,source,source_url
 2026-07-01,Sugar,1701,Benin,37003.35,14199438.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,Yemen,31445.0,10263164.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,Portugal,31255.113,12012912.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-07-01,Sugar,1701,Indonesia,30000.03,9488992.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-07-01,Sugar,1701,Indonesia,30000.03,10507010.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,Guiné,29589.7,12020340.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,Croácia,27600.0,9170636.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,Gana,26569.0,10458636.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
@@ -15836,7 +15881,7 @@ date,commodity,hs_heading,country,metric_tonnes,fob_usd,source,source_url
 2026-07-01,Sugar,1701,Guiana Francesa,8049.7,2430745.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,"Congo, República Democrática",7000.0,3119550.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,United States,6669.598,4991148.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-07-01,Sugar,1701,Tanzânia,6016.008,2487156.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-07-01,Sugar,1701,Tanzânia,6016.008,2511088.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,Madagascar,3510.0,1291148.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,United Arab Emirates,3138.062,1116127.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,Malta,2349.917,1068365.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
@@ -15851,9 +15896,9 @@ date,commodity,hs_heading,country,metric_tonnes,fob_usd,source,source_url
 2026-07-01,Sugar,1701,South Korea,609.428,461528.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,São Tomé e Príncipe,540.0,228146.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,Djibuti,540.0,202730.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-07-01,Sugar,1701,Cuba,504.72,274581.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,Quênia,467.0,201459.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,República Dominicana,456.875,191786.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-07-01,Sugar,1701,Cuba,433.72,238110.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,Nova Zelândia,389.0,193517.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,Netherlands,300.055,190585.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,Japan,260.1,221125.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
@@ -15880,7 +15925,7 @@ date,commodity,hs_heading,country,metric_tonnes,fob_usd,source,source_url
 2026-07-01,Sugar,1701,Bahamas,0.514,1059.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,Chipre,0.336,565.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,Norway,0.287,439.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-07-01,Sugar,1701,Dinamarca,0.176,253.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-07-01,Sugar,1701,Dinamarca,0.176,258.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,Antígua e Barbuda,0.136,189.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,Greece,0.125,279.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Sugar,1701,Islândia,0.1,134.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
@@ -15896,58 +15941,58 @@ date,commodity,hs_heading,country,metric_tonnes,fob_usd,source,source_url
 2026-07-01,Sugar,1701,Bermudas,0.0,32.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Saudi Arabia,266028.504,88205896.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,China,242143.035,83686212.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Sugar,1701,Nigeria,184559.215,63508453.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Sugar,1701,Bangladesh,176970.892,55213912.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Sugar,1701,Nigeria,181382.854,65482925.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Sugar,1701,Bangladesh,176970.892,54657532.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Algeria,167622.27,58239017.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,India,164307.846,54879894.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Sugar,1701,Morocco,159096.781,53484876.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Sugar,1701,Indonesia,157450.0,52104772.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Sugar,1701,Morocco,159096.781,53322343.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Sugar,1701,Indonesia,158500.0,52617857.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Canada,137800.05,45627015.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Egypt,113070.16,38642394.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Senegal,75040.0,28528165.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,United Arab Emirates,72616.04,25676212.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Oman,69531.0,25335034.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Jordan,65540.242,25217261.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Sugar,1701,Somália,64244.954,22037188.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Sugar,1701,United Kingdom,53711.078,19606735.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Sugar,1701,Somália,64244.954,22045505.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Sugar,1701,United Kingdom,53711.078,17382044.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Mauritânia,53480.0,19557353.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Sugar,1701,Guiné,53477.0,22525991.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Sugar,1701,Guiné,53477.0,22563943.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Yemen,50698.321,17275726.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Benin,35909.0,13525764.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Gana,34455.0,12772774.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Suíça,28871.586,9680513.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Camarões,28372.0,10208034.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Geórgia,23540.0,8142562.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Sugar,1701,Sri Lanka,23409.0,9126751.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Sugar,1701,Sri Lanka,23409.0,9131060.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Venezuela,22034.4,10848131.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Costa do Marfim,19440.0,7333888.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Sugar,1701,Angola,18531.6,7345322.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Sugar,1701,Togo,16794.0,6821509.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Sugar,1701,Iraq,15347.952,5070583.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Sugar,1701,Angola,18531.6,7345434.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Sugar,1701,Iraq,18524.313,6146624.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Sugar,1701,Togo,16794.0,6834164.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,África do Sul,13023.123,5439782.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Sugar,1701,Tanzânia,11730.0,4355715.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Sugar,1701,France,11663.529,4235842.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Sugar,1701,Tanzânia,11730.0,4395084.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Sugar,1701,France,10613.529,3820507.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Madagascar,8640.0,3174662.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Djibuti,8100.0,3181379.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,República Dominicana,7743.089,4146478.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,United States,5607.057,3400961.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,"Congo, República Democrática",5600.0,2065533.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Congo,3400.0,1378856.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Sugar,1701,Singapore,3240.861,1306602.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Sugar,1701,Singapore,3240.861,1314715.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Malta,2727.565,1289877.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Cabo Verde,2420.089,1034181.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Peru,1850.0,780000.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Sugar,1701,Libéria,1472.387,573049.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Sugar,1701,Libéria,1472.387,576340.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Turkey,1356.0,606245.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Gâmbia,1350.0,476978.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Uruguay,1100.326,381254.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Croácia,1045.002,466950.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Austrália,944.0,416103.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Guiné Equatorial,827.0,349761.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Sugar,1701,Spain,767.912,347904.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Sugar,1701,Spain,767.912,363274.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Cuba,756.304,406561.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Israel,616.0,256571.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Sugar,1701,Moçambique,520.0,202372.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Sugar,1701,Moçambique,520.0,204951.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,South Korea,413.197,308457.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Netherlands,365.417,236436.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Greece,270.113,105456.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
@@ -15955,7 +16000,7 @@ date,commodity,hs_heading,country,metric_tonnes,fob_usd,source,source_url
 2026-08-01,Sugar,1701,Colômbia,270.0,115889.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Montenegro,270.0,105262.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Suriname,260.015,113899.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Sugar,1701,Namíbia,260.0,99253.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Sugar,1701,Namíbia,260.0,100641.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Italy,176.047,116240.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,República Centro-Africana,176.0,72406.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Panama,173.428,137889.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
@@ -15999,60 +16044,59 @@ date,commodity,hs_heading,country,metric_tonnes,fob_usd,source,source_url
 2026-08-01,Sugar,1701,"Faroe, Ilhas",0.008,11.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,San Marino,0.006,17.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Sugar,1701,Barein,0.0,79.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,China,331633.66,111914411.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,India,323109.597,111166775.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Saudi Arabia,223098.284,78790819.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Morocco,197027.955,69246256.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Bangladesh,176782.958,61683630.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Canada,151314.376,56954001.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Egypt,128576.285,44557383.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Indonesia,110000.0,36150315.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,China,327948.868,108518056.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,India,323109.597,109683202.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Saudi Arabia,225082.682,78811853.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Morocco,194457.8,67188770.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Bangladesh,178680.127,62454338.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Canada,151314.376,53131029.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Egypt,128576.285,44300107.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Indonesia,106270.0,34087021.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Sugar,1701,United Arab Emirates,97902.015,34048798.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Algeria,94230.601,36730283.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Algeria,94230.601,36802996.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Sugar,1701,Iran,72000.0,28819796.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Geórgia,61690.0,20713640.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Malaysia,59754.18,20321164.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Geórgia,64690.0,21833268.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Malaysia,61950.0,21514030.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Sugar,1701,Síria,58027.0,18903458.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Somália,56605.0,20737652.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Venezuela,52813.0,23552079.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Gana,48158.0,17933526.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Somália,56605.0,20790312.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Venezuela,52813.0,21602804.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Togo,40315.0,15890717.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Benin,36919.0,14798829.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Sugar,1701,Nigeria,36500.0,12537150.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Chile,33350.486,11232977.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Chile,33350.486,10964920.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Gana,33158.0,12198350.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Sugar,1701,Djibuti,32830.0,13830651.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Sugar,1701,Senegal,31350.0,11854196.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Togo,30315.0,11886692.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Sri Lanka,29789.0,10520518.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Suíça,27278.181,10904015.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Benin,26919.0,10248712.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Yemen,26457.629,10113727.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Costa do Marfim,25080.0,9401106.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Camarões,23490.0,9848191.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,África do Sul,20419.01,8460681.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Guiné,19440.0,7798032.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Tunísia,14200.0,4353312.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Tanzânia,13820.0,5449405.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Angola,12944.38,5108578.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,United Kingdom,7839.67,3516024.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Sri Lanka,29789.0,10537185.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Yemen,26457.629,10178900.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Tunísia,25200.0,8386549.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Costa do Marfim,25080.0,9597563.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Camarões,23490.0,10027190.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Suíça,21778.181,7640956.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Guiné,19440.0,7802341.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Tanzânia,13820.0,5477224.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Angola,12944.38,5116165.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,África do Sul,10419.01,3462029.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Sugar,1701,Mauritânia,6750.0,2625596.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Sugar,1701,United States,6588.827,3958055.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Sugar,1701,France,4071.13,1500400.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Sugar,1701,Singapore,3510.361,1266393.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Sugar,1701,Cuba,3399.06,2036967.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Sugar,1701,Madagascar,2970.0,1148307.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Jordan,2423.648,785226.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Uruguay,2055.8,759408.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,United Kingdom,2339.67,766024.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Uruguay,2043.8,759408.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Sugar,1701,Malta,1890.426,908510.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Sugar,1701,Austrália,1186.0,573635.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Gâmbia,1080.0,367005.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Quênia,1076.0,423668.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Libéria,946.41,355117.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Gâmbia,1080.0,371314.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Quênia,1076.0,424908.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Libéria,946.41,371784.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Sugar,1701,Netherlands,711.531,461934.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Sugar,1701,Guiné Equatorial,675.0,258410.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Oman,590.0,295000.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Sugar,1701,Spain,536.5,348181.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Namíbia,520.0,198506.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Namíbia,520.0,201200.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Sugar,1701,South Korea,425.594,321308.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Sugar,1701,Serra Leoa,270.04,127050.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Jordan,423.648,125226.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Sugar,1701,Serra Leoa,270.04,155351.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Sugar,1701,Bolívia,243.0,121210.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Sugar,1701,Turkey,153.0,69156.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Sugar,1701,Eslovênia,102.975,72855.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
@@ -16090,3 +16134,95 @@ date,commodity,hs_heading,country,metric_tonnes,fob_usd,source,source_url
 2026-09-01,Sugar,1701,Belize,0.0,45.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Sugar,1701,Russia,0.0,16.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Sugar,1701,Barein,0.0,10.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Nigeria,259875.855,93690333.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Bangladesh,239874.655,86316662.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Saudi Arabia,239607.157,82210865.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,India,239580.326,81104613.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Morocco,219327.174,75269676.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Algeria,156978.895,57629725.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Canada,154410.767,59038779.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Oman,151198.17,53100354.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Indonesia,136257.885,46156328.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Malaysia,135515.841,53454064.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Jordan,95574.143,32635113.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Venezuela,90463.382,31783508.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,United Kingdom,83586.362,30994619.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Yemen,74332.975,25351601.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Benin,73038.0,30786303.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Iran,71335.1,27734944.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Somália,69384.0,25128795.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Suíça,66952.724,26431194.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,África do Sul,63100.028,21706860.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Egypt,61815.345,23854668.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Iraq,58925.58,21134214.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Gana,58258.75,22446497.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Chile,55000.0,19432426.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,United Arab Emirates,46483.171,16313693.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Togo,40991.0,17253316.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Camarões,38764.0,15169583.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,China,35787.01,13383113.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Croácia,29559.17,11520461.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Gâmbia,27500.0,10859726.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Sri Lanka,22301.0,8817335.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Senegal,22210.0,8567983.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Angola,18702.8,8169971.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Tanzânia,17906.0,7818370.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Portugal,15000.235,5948012.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Costa do Marfim,14800.0,6244524.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Cuba,11242.875,5968641.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Mauritânia,8400.0,3259065.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Madagascar,7020.0,2905967.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,United States,6409.452,3961547.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Guiné,4590.0,1734253.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,France,3120.966,1350518.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Uruguay,2715.726,1127209.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Malta,2187.639,1119512.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Djibuti,1350.0,511928.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Spain,1157.504,716568.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Turkey,1122.0,507144.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Austrália,1107.272,525226.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Singapore,1080.57,441886.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Quênia,700.0,308594.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Moçambique,675.0,289575.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Namíbia,550.0,226270.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Costa Rica,540.018,201381.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Geórgia,540.0,209137.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Peru,414.01,281195.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,South Korea,408.824,315691.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Libéria,406.606,169322.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Tunísia,395.0,221519.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,República Dominicana,390.05,171663.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Cabo Verde,390.0,171683.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Nova Zelândia,349.895,246912.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Albânia,322.0,126141.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Israel,320.0,140125.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Netherlands,273.002,179432.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Panama,270.594,144956.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Hong Kong,270.088,177095.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Haiti,135.0,64068.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Jamaica,104.0,57469.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Italy,88.127,58203.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,"Turcas e Caicos, Ilhas",43.718,28658.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Barbados,27.224,12032.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Líbano,26.0,16458.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,"São Martinho, Ilha de (parte francesa)",26.0,12169.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Japan,20.02,17036.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Guiana,11.682,7002.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Mexico,5.0,5400.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,"Marshall, Ilhas",1.675,2549.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Bahamas,0.535,859.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Norway,0.387,612.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Chipre,0.371,616.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Paraguai,0.246,914.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Thailand,0.214,370.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Greece,0.141,378.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Antígua e Barbuda,0.139,253.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Dinamarca,0.125,163.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Suriname,0.108,132.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Belgium,0.063,105.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Guiana Francesa,0.047,755.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Palau,0.03,38.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Brasil,0.025,31.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Argentina,0.02,10.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Bulgária,0.01,8.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Sugar,1701,Bermudas,0.0,19.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general

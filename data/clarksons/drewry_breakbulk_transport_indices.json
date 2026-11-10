@@ -1,10 +1,5 @@
 [
   {
-    "date": "2022-09-01",
-    "project_cargo_index": 172.9,
-    "general_cargo_index": 239.6
-  },
-  {
     "date": "2022-10-01",
     "project_cargo_index": 167.1,
     "general_cargo_index": 226.7
@@ -243,5 +238,10 @@
     "date": "2026-09-01",
     "project_cargo_index": 164.3,
     "general_cargo_index": 170.1
+  },
+  {
+    "date": "2026-10-01",
+    "project_cargo_index": 166.0,
+    "general_cargo_index": 170.9
   }
 ]

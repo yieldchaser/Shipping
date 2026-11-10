@@ -8699,3 +8699,35 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-11-02,44,Tanker,MR2,5 Year,52.2,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
 2026-11-02,44,Tanker,MR2,10 Year,42.2,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
 2026-11-02,44,Tanker,MR2,15 Year,30.2,xclusiv_03_11_2026_xclusiv_shipbrokers_weekly_02nd_november_2026.pdf
+2026-11-09,45,Dry,Capesize,Resale,86.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Dry,Capesize,5 Year,77.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Dry,Capesize,10 Year,61.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Dry,Capesize,15 Year,41.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Dry,Kamsarmax,Resale,47.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Dry,Kamsarmax,5 Year,42.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Dry,Kamsarmax,10 Year,34.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Dry,Kamsarmax,15 Year,23.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Dry,Ultramax,Resale,45.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Dry,Ultramax,5 Year,39.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Dry,Ultramax,10 Year,30.5,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Dry,Supramax,15 Year,21.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Dry,Handysize,Resale,38.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Dry,Handysize,5 Year,31.5,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Dry,Handysize,10 Year,25.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Dry,Handysize,15 Year,15.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Tanker,VLCC,Resale,230.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Tanker,VLCC,5 Year,210.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Tanker,VLCC,10 Year,190.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Tanker,VLCC,15 Year,162.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Tanker,Suezmax,Resale,150.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Tanker,Suezmax,5 Year,130.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Tanker,Suezmax,10 Year,115.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Tanker,Suezmax,15 Year,98.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Tanker,Aframax,Resale,105.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Tanker,Aframax,5 Year,90.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Tanker,Aframax,10 Year,77.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Tanker,Aframax,15 Year,63.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Tanker,MR2,Resale,60.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Tanker,MR2,5 Year,53.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Tanker,MR2,10 Year,43.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-09,45,Tanker,MR2,15 Year,31.0,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf

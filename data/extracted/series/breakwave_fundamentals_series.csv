@@ -3403,3 +3403,15 @@ issue_date,sector,category,metric,ytd_value,yoy_change,source_file
 2026-11-03,tankers,Freight Rates,"Suezmax West Africa-Europe, USD/ton",52.76,201.0%,corpus/03-breakwave/tankers/2026/2026-11-03_Breakwave_Tankers.pdf
 2026-11-03,tankers,Freight Rates,"VLCC Middle East-Asia, USD/ton",103.58,632.4%,corpus/03-breakwave/tankers/2026/2026-11-03_Breakwave_Tankers.pdf
 2026-11-03,tankers,Supply,Tanker Fleet,740.9 mdwt,4.7%,corpus/03-breakwave/tankers/2026/2026-11-03_Breakwave_Tankers.pdf
+2026-11-10,drybulk,Demand,Australia Iron Ore Exports,704mt,3.4%,corpus/03-breakwave/drybulk/2026/2026-11-10_Breakwave_Dry_Bulk.pdf
+2026-11-10,drybulk,Demand,Brazil Iron Ore Exports,298mt,-1.3%,corpus/03-breakwave/drybulk/2026/2026-11-10_Breakwave_Dry_Bulk.pdf
+2026-11-10,drybulk,Demand,China Coal Imports,354mt,2.2%,corpus/03-breakwave/drybulk/2026/2026-11-10_Breakwave_Dry_Bulk.pdf
+2026-11-10,drybulk,Demand,China Iron Ore Imports,955mt,4.0%,corpus/03-breakwave/drybulk/2026/2026-11-10_Breakwave_Dry_Bulk.pdf
+2026-11-10,drybulk,Demand,China Iron Ore Inventories,155mt,11.6%,corpus/03-breakwave/drybulk/2026/2026-11-10_Breakwave_Dry_Bulk.pdf
+2026-11-10,drybulk,Demand,China Soybean Imports,86mt,0.0%,corpus/03-breakwave/drybulk/2026/2026-11-10_Breakwave_Dry_Bulk.pdf
+2026-11-10,drybulk,Demand,China Steel Inventories,3.4mt,-21.4%,corpus/03-breakwave/drybulk/2026/2026-11-10_Breakwave_Dry_Bulk.pdf
+2026-11-10,drybulk,Demand,China Steel Production,725mt,-2.9%,corpus/03-breakwave/drybulk/2026/2026-11-10_Breakwave_Dry_Bulk.pdf
+2026-11-10,drybulk,Freight Rates,"Baltic Dry Index, Average","2,609",64.3%,corpus/03-breakwave/drybulk/2026/2026-11-10_Breakwave_Dry_Bulk.pdf
+2026-11-10,drybulk,Freight Rates,"Capesize Spot Rates, Average","33,560",71.2%,corpus/03-breakwave/drybulk/2026/2026-11-10_Breakwave_Dry_Bulk.pdf
+2026-11-10,drybulk,Freight Rates,"Panamax Spot rates, Average","18,482",42.4%,corpus/03-breakwave/drybulk/2026/2026-11-10_Breakwave_Dry_Bulk.pdf
+2026-11-10,drybulk,Supply,Dry Bulk Fleet,1101 mdwt,3.8%,corpus/03-breakwave/drybulk/2026/2026-11-10_Breakwave_Dry_Bulk.pdf

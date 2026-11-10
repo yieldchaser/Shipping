@@ -25,6 +25,7 @@ Stats: GET http://127.0.0.1:4100/stats
 import asyncio
 import json
 import os
+import re
 import time
 from pathlib import Path
 
@@ -45,7 +46,7 @@ UF_LONG_WAIT_S = 300   # a Retry-After longer than this is not a queue turn (e.g
 EN_BASE = os.environ.get("ENCLAVE_BASE_URL", "https://router.enclave.ai/v1")
 EN_MODEL = os.environ.get("ENCLAVE_MODEL", "cyberouter/deepseek-v4-pro")      # stronger model for the paid fallback
 EN_PRICE_IN, EN_PRICE_OUT = 1.32, 3.96                                   # USD per 1M tokens
-AGENT_CAP_USD = float(os.environ.get("AGENT_CAP_USD", "45"))
+AGENT_CAP_USD = float(os.environ.get("AGENT_CAP_USD", "60"))
 # Routing by requested model id (owner 11-09):
 #   "deepseek-v4-pro"     -> Enclave V4 Pro first while the cap lasts, then Ultrafast  (main agent: planning/design)
 #   "deepseek-v4.1-flash" -> Ultrafast first (free, thinking on), then Enclave V4 Pro  (subagents: bulk coding)
@@ -111,6 +112,10 @@ def _approx_prompt_tokens(body):
     return len(text) // 3
 
 
+# A streamed answer has really started once a delta carries text, reasoning or a tool call.
+OUTPUT_RE = re.compile(rb'"(?:content|reasoning|reasoning_content)"\s*:\s*"[^"]|"tool_calls"\s*:\s*\[\s*\{')
+
+
 class Usage:
     """Collects token usage from a JSON body or from SSE lines."""
 
@@ -170,12 +175,38 @@ async def chat(request):
             await (await headers_sent()).write(b": waiting in queue\n\n")
 
     async def relay(upstream_resp, name, model):
+        """Forward the upstream answer. Returns None (nothing sent to the client) when the upstream stream
+        broke or ended before any real output, so the caller can retry instead of failing the agent's turn."""
         u = Usage()
         if stream:
             resp = await headers_sent()
-            async for chunk in upstream_resp.content.iter_any():
-                u.feed_sse(chunk)
-                await resp.write(chunk)
+            held, started = [], False
+            try:
+                async for chunk in upstream_resp.content.iter_any():
+                    u.feed_sse(chunk)
+                    if started:
+                        await resp.write(chunk)
+                        continue
+                    held.append(chunk)
+                    if OUTPUT_RE.search(b"".join(held)):
+                        started = True
+                        await resp.write(b"".join(held))
+            except Exception as e:
+                if not started:
+                    _log({"upstream": name, "model": model, "status": "broken_before_output",
+                          "error": type(e).__name__, "prompt_tokens": 0, "completion_tokens": 0,
+                          "cached_tokens": 0, "cost_usd": 0.0, "wait_s": round(time.monotonic() - t0, 1),
+                          "stream": True})
+                    return None
+                err = {"error": {"message": f"upstream stream broke: {type(e).__name__}", "type": "agent_gateway"}}
+                await resp.write(b"data: " + json.dumps(err).encode() + b"\n\n")
+            if not started:
+                if u.c == 0:
+                    _log({"upstream": name, "model": model, "status": "empty_stream", "prompt_tokens": u.p,
+                          "completion_tokens": 0, "cached_tokens": u.cached, "cost_usd": 0.0,
+                          "wait_s": round(time.monotonic() - t0, 1), "stream": True})
+                    return None
+                await resp.write(b"".join(held))
             await resp.write_eof()
         else:
             data = await upstream_resp.read()
@@ -202,18 +233,23 @@ async def chat(request):
         # 0) Enclave first while its cap lasts (PRIMARY == "enclave")
         primary = PRIMARY or ("enclave" if "pro" in str(body.get("model", "")).lower() else "ultrafast")
         if primary == "enclave" and EN_KEY and STATE["enclave_spent"] < AGENT_CAP_USD:
-            for attempt in range(3):
+            for attempt in range(5):
+                if attempt:
+                    for _ in range(5 * attempt // KEEPALIVE_S + 1):
+                        await keepalive()
+                        await asyncio.sleep(min(KEEPALIVE_S, 5 * attempt))
                 try:
                     r = await _open(s, EN_BASE, EN_KEY, EN_MODEL, body)
                 except Exception:
-                    await asyncio.sleep(5 * (attempt + 1))
                     continue
                 if r.status == 200:
-                    return await relay(r, "enclave", EN_MODEL)
+                    done = await relay(r, "enclave", EN_MODEL)
+                    if done is not None:
+                        return done
+                    continue
                 r.release()
                 if r.status in (401, 402, 403):
                     break          # key or credit problem: go to Ultrafast
-                await asyncio.sleep(5 * (attempt + 1))
         # 1) Ultrafast (free, queued, one at a time)
         uf_ok = (UF_KEY and _approx_prompt_tokens(body) <= UF_MAX_PROMPT_TOK
                  and STATE["uf_day_out"].get(_today(), 0) < UF_DAILY_OUT
@@ -236,7 +272,11 @@ async def chat(request):
                             await asyncio.sleep(5)
                             continue
                         if r.status == 200:
-                            return await relay(r, "ultrafast", UF_MODEL)
+                            done = await relay(r, "ultrafast", UF_MODEL)
+                            if done is not None:
+                                return done
+                            errors += 1
+                            continue
                         r.release()
                         if r.status == 429:
                             try:
@@ -262,10 +302,24 @@ async def chat(request):
             return await fail("Ultrafast unavailable and no Enclave key", 502)
         if STATE["enclave_spent"] >= AGENT_CAP_USD:
             return await fail(f"Ultrafast unavailable and the agent's Enclave cap ${AGENT_CAP_USD:.0f} is used up", 402)
-        try:
-            r = await _open(s, EN_BASE, EN_KEY, EN_MODEL, body)
-        except Exception as e:
-            return await fail(f"Enclave request failed: {type(e).__name__}", 502)
+        r, last_err = None, "no response"
+        for attempt in range(3):
+            if attempt:
+                await keepalive()
+                await asyncio.sleep(10 * attempt)
+            try:
+                r = await _open(s, EN_BASE, EN_KEY, EN_MODEL, body)
+            except Exception as e:
+                r, last_err = None, type(e).__name__
+                continue
+            if r.status != 200:
+                break
+            done = await relay(r, "enclave", EN_MODEL)
+            if done is not None:
+                return done
+            r, last_err = None, "empty or broken stream"
+        if r is None:
+            return await fail(f"Enclave request failed: {last_err}", 502)
         if r.status != 200:
             data = await r.read()
             if stream and out["resp"] is not None:

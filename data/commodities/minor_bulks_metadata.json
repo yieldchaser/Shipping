@@ -1,7 +1,7 @@
 {
   "dataset_name": "Seaborne Minor Bulks Monthly Trade Flows",
-  "generated_utc": "2026-11-02T16:22:03.794168+00:00",
-  "total_rows": 672,
+  "generated_utc": "2026-11-09T16:18:18.054202+00:00",
+  "total_rows": 673,
   "date_span": "2013-01-01 to 2026-09-01",
   "commodities_covered": [
     "Alumina",
@@ -50,13 +50,13 @@
       "flow": "Imports"
     },
     "Nickel Ore": {
-      "total_records": 56,
+      "total_records": 57,
       "min_date": "2022-01-01",
-      "max_date": "2026-08-01",
-      "mean_monthly_tonnes": 4115732.7,
+      "max_date": "2026-09-01",
+      "mean_monthly_tonnes": 4200277.5,
       "max_monthly_tonnes": 9775064.0,
-      "total_volume_tonnes": 230481033.1,
-      "total_fob_usd": 6286621077.0,
+      "total_volume_tonnes": 239415815.1,
+      "total_fob_usd": 6489675050.0,
       "vessel_class": "Supramax",
       "reporter": "Philippines",
       "flow": "Exports"
