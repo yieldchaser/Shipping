@@ -118,3 +118,5 @@ data/.cache_citations/
 tools/agent_gateway/*.jsonl
 kb/state/
 kb/.venv/
+# kb build scratch probes (local-only)
+kb/_t_*.py

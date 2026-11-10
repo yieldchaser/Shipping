@@ -208,6 +208,15 @@ savings left, and each **keeps** quality:
    `extract`; extend the same skip to the embed matrix so runner time is not spent on footers.
 4. **Reference labels for the bake-off use the free Ultrafast tier where available** for the *second* family, so
    the $7 bake-off budget is spent on the pro-tier family only.
+6. **NVIDIA NIM is a free third provider (owner commit `930fc99e92`, AGENT_TASK §2.1).** Its only *new* quality
+   lever is cross-family judging: Mistral (`mistralai/mistral-large-4-1t-a52b`) and Nemotron
+   (`nvidia/nemotron-3-ultra-550b-a55b`, and the lead `nvidia/nemotron-3.5-super-vl-120b-a12b`) differ in model
+   family from DeepSeek, so they are the preferred judges/verifiers/adjudicators for DeepSeek-extracted output
+   (P4c gate `judge_family_differs_from_extractor`). NIM candidates also join the P4b bake-off; a NIM candidate is
+   chosen only if its F1 ≥ the paid choice (save dollars for escalation/wider coverage). NIM is capped ~40 req/min
+   (429 often without Retry-After → exponential backoff) and is never used for the coding agent itself. Verified
+   live 2026-11-10: nemotron-3-ultra 2–6s, mistral-large-4 1.8s–115s (judge-only, timeout ≥ 180s),
+   nemotron-3.5-super ~0.4s first token, stepfun-5-preview ~21s.
 5. **XBRL-first SEC** already removes the most expensive table-parsing LLM temptation: keep the deterministic
    parser, never let the LLM read cells (the plan already forbids it; this is a confirmation, not a change).
 

@@ -33,10 +33,42 @@ providers:
         price_out: 0.0
     concurrency_max: 1
 
-# Pipeline hard caps (plan §10.3). The coding agent's own $45 is enforced by the gateway, not here.
+  # NVIDIA NIM (free third provider, added owner commit 930fc99e92, AGENT_TASK §2.1).
+  # OpenAI-compatible, full org/model ids (NO cyberouter/ prefix), $0. ~40 req/min per
+  # account, 429 often without Retry-After -> exponential backoff. Probe before use.
+  # Uses (never lower quality): (1) P4b bake-off candidates, (2) cross-family judges /
+  # verifiers (Mistral + Nemotron differ in family from DeepSeek), (3) overflow routing.
+  # NIM is NOT used for the coding agent itself.
+  - id: nim
+    kind: free
+    base_url: "https://integrate.api.nvidia.com/v1"
+    key_source: NVIDIA_API_KEY                  # refs key; env NVIDIA_API_KEY overrides
+    rate_limit_per_min: 40
+    models:
+      - id: mistralai/mistral-large-4-1t-a52b
+        price_in: 0.0
+        price_out: 0.0
+        note: judge-only; slow (60-115s, ~1k reasoning tok); timeout >= 180s
+      - id: nvidia/nemotron-3-ultra-550b-a55b
+        price_in: 0.0
+        price_out: 0.0
+        note: verified 2026-11-10; 2-6s
+      # Candidates from owner tests (leads — verify in P-1/P4b, do not pre-pick):
+      - id: nvidia/nemotron-3.5-super-vl-120b-a12b
+        price_in: 0.0
+        price_out: 0.0
+        note: fast ~0.4s first token, 1M ctx; chat_template_kwargs {"enable_thinking": false}
+      - id: stepfun-ai/step-5-preview
+        price_in: 0.0
+        price_out: 0.0
+        note: lead only
+      # nemotron-3.5-lightning-30b: EXCLUDED — hits max_tokens with empty content unless >= 8k
+    concurrency_max: 4
+
+# Pipeline hard caps (plan §10.3). The coding agent's own $60 is enforced by the gateway, not here.
 budget:
-  pipeline_cap_usd: 97
-  agent_cap_usd: 45
+  pipeline_cap_usd: 82
+  agent_cap_usd: 60
   untouched_usd: 3
   passes:
     router_probe_plus_bakeoff: 7

@@ -34,6 +34,12 @@ class NoKeyError(RuntimeError):
     """Raised when no router key can be found (a §6 stop condition)."""
 
 
+NIM_BASE_URL = "https://integrate.api.nvidia.com/v1"
+# NIM model ids are full org/model ids (contain "/"); they are NOT prefixed with
+# cyberouter/. Router ids have no "/" and take the cyberouter/ prefix.
+NIM_MODEL_GLOBS = ("nvidia/", "mistralai/", "stepfun-ai/", "z-ai/", "deepseek-ai/")
+
+
 def _read_credentials() -> dict:
     """Read ~/.dsh/.credentials.yaml. Never returns a key to the caller directly;
     returns the whole structure so the caller picks the ref name. Keys stay in-process."""
@@ -48,39 +54,67 @@ def _read_credentials() -> dict:
         return {}
 
 
-def load_key() -> str:
-    """Return a router key without exposing it in logs. Order:
-    env ROUTER_API_KEY -> refs.ENCLAVE_API_KEY -> refs.ULTRAFAST_API_KEY."""
+def _ref(name: str) -> str:
+    return (_read_credentials().get("refs") or {}).get(name) or ""
+
+
+def is_nim_model(model: str) -> bool:
+    """True if `model` is a full NIM org/model id (routed to NVIDIA, never prefixed)."""
+    return "/" in model or model.startswith(NIM_MODEL_GLOBS)
+
+
+def load_key(provider: str = "router", model: str = "") -> str:
+    """Return the key for `provider` without exposing it in logs.
+
+    provider 'nim' -> env NVIDIA_API_KEY, else refs.NVIDIA_API_KEY.
+    provider 'router' -> env ROUTER_API_KEY -> refs.ENCLAVE_API_KEY -> refs.ULTRAFAST_API_KEY.
+    If provider is inferred ('auto'), a NIM model id selects the NIM key."""
+    if provider == "nim" or (provider == "auto" and is_nim_model(model)):
+        if os.environ.get("NVIDIA_API_KEY"):
+            return os.environ["NVIDIA_API_KEY"]
+        k = _ref("NVIDIA_API_KEY")
+        if k:
+            return k
+        raise NoKeyError("no NVIDIA key: set NVIDIA_API_KEY or refs.NVIDIA_API_KEY in ~/.dsh/.credentials.yaml")
     if os.environ.get("ROUTER_API_KEY"):
         return os.environ["ROUTER_API_KEY"]
-    refs = _read_credentials().get("refs") or {}
     for name in ("ENCLAVE_API_KEY", "ULTRAFAST_API_KEY"):
-        k = refs.get(name)
+        k = _ref(name)
         if k:
             return k
     raise NoKeyError("no router key: set ROUTER_API_KEY or refs.*_API_KEY in ~/.dsh/.credentials.yaml")
 
 
-def base_url() -> str:
+def base_url(model: str = "") -> str:
+    if is_nim_model(model):
+        return os.environ.get("NVIDIA_BASE_URL") or NIM_BASE_URL
     return os.environ.get("ROUTER_BASE_URL") or DEFAULT_BASE_URL
 
 
 def _model_id(model: str) -> str:
+    if is_nim_model(model):
+        return model  # full org/model id, no prefix
     return model if model.startswith(MODEL_PREFIX) else f"{MODEL_PREFIX}{model}"
 
 
 def chat(model: str, messages: list[dict], max_tokens: int = 16, temperature: float = 0.0,
-         timeout_s: int = 120) -> dict:
-    """One non-streaming chat completion. Returns the whole JSON body (never the key)."""
-    key = load_key()
+         timeout_s: int = 120, provider: str = "auto", extra_body: dict | None = None) -> dict:
+    """One non-streaming chat completion. Returns the whole JSON body (never the key).
+
+    provider 'nim' routes to NVIDIA (OpenAI-compatible); 'router' to Enclave;
+    'auto' (default) infers from the model id. extra_body merges arbitrary OpenAI
+    fields (e.g. chat_template_kwargs for Nemotron)."""
+    key = load_key(provider, model)
     body = {
         "model": _model_id(model),
         "messages": messages,
         "max_tokens": max_tokens,
         "temperature": temperature,
     }
+    if extra_body:
+        body.update(extra_body)
     req = urllib.request.Request(
-        f"{base_url()}/chat/completions",
+        f"{base_url(model)}/chat/completions",
         data=json.dumps(body).encode("utf-8"),
         headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"},
     )
@@ -107,6 +141,33 @@ def smoke_test(model: str = "deepseek-v4-flash", max_tokens: int = 5) -> dict:
         out.update(status="http_error", error=f"{e.code} {e.reason}")
         return out
     except Exception as e:  # transient network / timeout / decode
+        out.update(status="error", error=f"{type(e).__name__}: {e}")
+        return out
+
+
+def nim_smoke(model: str, max_tokens: int = 16, timeout_s: int = 180,
+              extra_body: dict | None = None) -> dict:
+    """One NIM completion (never charges; $0). Returns {status, model_returned, usage, error}."""
+    out = {"status": "ok", "model_returned": None, "usage": None, "error": None}
+    try:
+        data = chat(
+            model,
+            [{"role": "user", "content": "Reply with exactly one word: READY"}],
+            max_tokens=max_tokens,
+            timeout_s=timeout_s,
+            provider="nim",
+            extra_body=extra_body,
+        )
+        out["model_returned"] = data.get("model")
+        out["usage"] = data.get("usage")
+        return out
+    except NoKeyError as e:
+        out.update(status="no_key", error=str(e))
+        return out
+    except urllib.error.HTTPError as e:
+        out.update(status="http_error", error=f"{e.code} {e.reason}")
+        return out
+    except Exception as e:
         out.update(status="error", error=f"{type(e).__name__}: {e}")
         return out
 
