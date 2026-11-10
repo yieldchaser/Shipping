@@ -126,6 +126,16 @@ Then apply the improvements that **raise or keep** quality without lowering any 
 
 ---
 
+### 2.1 NVIDIA NIM: a free third provider for the pipeline (added 2026-11-10)
+- Key: `refs.NVIDIA_API_KEY` in `~/.dsh/.credentials.yaml` (env `NVIDIA_API_KEY` overrides). Never print it. Base URL `https://integrate.api.nvidia.com/v1`, OpenAI-compatible, full `org/model` ids, cost $0, about 40 requests/min per model (429 = back off).
+- Verified by the owner's setup on 2026-11-10: `mistralai/mistral-large-4-1t-a52b` and `nvidia/nemotron-3-ultra-550b-a55b` answer in 2–6 s. `deepseek-ai/deepseek-v4.1-flash` and `z-ai/glm-5.3-flash` timed out at 60 s; `deepseek-ai/deepseek-v4-pro` returns 410. The catalogue lists models that 404 or time out, so probe before use.
+- Reasoning models spend `max_tokens` on reasoning first; give them room.
+- Use it in three places, never at lower quality:
+  1. **P4b bake-off:** add the working NIM models to the candidate pool. If one meets the extraction gates at an F1 at least as high as the paid choice, use it for bulk extraction and put the saved dollars into escalation and wider coverage.
+  2. **Judging and adjudication:** NIM's Mistral and Nemotron are a different model family from DeepSeek. Prefer them as judges and verifiers for DeepSeek-extracted output, so no model family grades its own work.
+  3. **Overflow:** when a pass is rate-limited or Enclave is down, the pool may route to a NIM model that passed the same gate.
+- NIM is not used for the coding agent itself; the agent stays on DeepSeek V4 Pro, then Ultrafast.
+
 ## 3. Non-negotiable rules
 
 1. **Numbers never come from an LLM.** Layer-A facts come from CSVs, XBRL and table parsers only. LLM output numbers must appear in a code-sliced quote (plan §7.4).
