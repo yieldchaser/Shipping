@@ -1,0 +1,11 @@
+{
+  "phase": "P1",
+  "documents": 20704,
+  "sections": 194309,
+  "chunks": 318232,
+  "sentences": 1373917,
+  "chunked_docs": 20704,
+  "table_chunks": 104498,
+  "duplicate_chunks": 98082,
+  "errors": []
+}

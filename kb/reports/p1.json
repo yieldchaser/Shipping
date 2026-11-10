@@ -1,0 +1,381 @@
+{
+  "phase": "P1",
+  "sample_seed": 3763041002,
+  "result": "PASS",
+  "gate_metrics": {
+    "document_rows": 20704,
+    "frozen_doc_count": 20704,
+    "section_rows": 194309,
+    "expected_sections": 194309,
+    "chunk_rows": 318232,
+    "sentence_rows": 1373917,
+    "row_counts_equal_P0_5": true,
+    "chunk_roundtrip_exact_sample": 50,
+    "chunk_roundtrip_exact_sample_threshold": 50,
+    "chunk_roundtrip_exact_sample_pass": true,
+    "fts5_build_ok": true
+  },
+  "chunk_roundtrip_sample": [
+    {
+      "chunk_id": "a4bc4969809a7bb6ed2c0cbad34445e2",
+      "kind": "table",
+      "ok": true,
+      "path": "data/extracted/md/intermodal/2026/intermodal_2026_W23_Intermodal-Report-Week-23-2026.md",
+      "section_ord": 25
+    },
+    {
+      "chunk_id": "e3890deea2b358bea43e430cb967ab55",
+      "kind": "prose",
+      "ok": true,
+      "path": "corpus/10-companies/NVGS/20-F/NVGS_20-F_2020-05-11_0001193125-20-137747.md",
+      "section_ord": 15
+    },
+    {
+      "chunk_id": "213be1c7cb143419fd98bdb2396fd31b",
+      "kind": "prose",
+      "ok": true,
+      "path": "corpus/10-companies/NVGS/6-K/NVGS_6-K_2024-08-14_0001628280-24-037213.md",
+      "section_ord": 0
+    },
+    {
+      "chunk_id": "76071e81c101cb0ffa19718ad4a6aca5",
+      "kind": "prose",
+      "ok": true,
+      "path": "corpus/10-companies/FRO/20-F/FRO_20-F_2024-04-26_0000913290-24-000002.md",
+      "section_ord": 5
+    },
+    {
+      "chunk_id": "365918eacf9a299a81b1263dca610262",
+      "kind": "prose",
+      "ok": true,
+      "path": "corpus/10-companies/FRO/20-F/FRO_20-F_2017-03-16_0000913290-17-000003.md",
+      "section_ord": 7
+    },
+    {
+      "chunk_id": "7a81dc3ff4f47459b9658988369cfe83",
+      "kind": "prose",
+      "ok": true,
+      "path": "corpus/10-companies/VALE/6-K/VALE_6-K_2026-07-31_0001292814-26-004002.md",
+      "section_ord": 0
+    },
+    {
+      "chunk_id": "8da8173166b9f720a0c77143e005befa",
+      "kind": "prose",
+      "ok": true,
+      "path": "data/extracted/md/banchero_costa/2025/banchero_costa_2025_W08_Bancosta-Weekly-2025-08.md",
+      "section_ord": 62
+    },
+    {
+      "chunk_id": "ad9ec5fdc72e6a4117784a613e7afbe6",
+      "kind": "prose",
+      "ok": true,
+      "path": "data/extracted/md/drewry/ais/Product_LR2/Drewry_AIS_Product_LR2_Week36_2026.md",
+      "section_ord": 8
+    },
+    {
+      "chunk_id": "19ac90d93e1ce4ca8e149d8dee30c591",
+      "kind": "table",
+      "ok": true,
+      "path": "corpus/10-companies/BHP/20-F/BHP_20-F_2017-09-28_0001193125-17-297000.md",
+      "section_ord": 13
+    },
+    {
+      "chunk_id": "15ce95800cd35983346dc474e36e7b79",
+      "kind": "prose",
+      "ok": true,
+      "path": "data/extracted/md/fearnleys/voice/dry_bulk/supramax/2025/2025-07-23_supramax_ac9ef868.md",
+      "section_ord": 0
+    },
+    {
+      "chunk_id": "9943889cbeefb7299a2e669cfee269e7",
+      "kind": "table",
+      "ok": true,
+      "path": "data/extracted/md/hellenic/iron_ore_pdf/2024/2024-04-24_mmi-daily-iron-ore-index-report-april-24-2024_mmi-daily-iron-ore-report-for-24th-a_a8f00b4d9114.md",
+      "section_ord": 15
+    },
+    {
+      "chunk_id": "e09a8ddf6b6f8b0215930cd44a03a005",
+      "kind": "prose",
+      "ok": true,
+      "path": "data/extracted/md/baltic/dry/2020/2020-09-11_bulk-report-week-37_dry.md",
+      "section_ord": 3
+    },
+    {
+      "chunk_id": "19e4bc24c64beef480d41bb59084c673",
+      "kind": "prose",
+      "ok": true,
+      "path": "corpus/10-companies/FRO/20-F/FRO_20-F_2021-03-18_0000913290-21-000003.md",
+      "section_ord": 7
+    },
+    {
+      "chunk_id": "5cd9eb4535ec38f78107db5a0f704484",
+      "kind": "table",
+      "ok": true,
+      "path": "corpus/10-companies/GLBS/20-F/GLBS_20-F_2020-04-01_0001104659-20-041302.md",
+      "section_ord": 27
+    },
+    {
+      "chunk_id": "202a51ccfead0d2651f16635be37e00e",
+      "kind": "prose",
+      "ok": true,
+      "path": "corpus/10-companies/STNG/20-F/STNG_20-F_2021-03-31_0001483934-21-000023.md",
+      "section_ord": 28
+    },
+    {
+      "chunk_id": "a967b5e558c9f73ff6090a33e9fefede",
+      "kind": "table",
+      "ok": true,
+      "path": "corpus/10-companies/BHP/20-F/BHP_20-F_2023-09-05_0001193125-23-228105.md",
+      "section_ord": 12
+    },
+    {
+      "chunk_id": "a5f1e642a18dbf26a9ab45dcf760d35f",
+      "kind": "prose",
+      "ok": true,
+      "path": "data/extracted/md/hellenic/iron_ore_pdf/2025/2025-10-01_mmi-daily-iron-ore-index-report-october-01-2025_mmi-daily-iron-ore-report-for-1th-oc_6c2dee7b7b38.md",
+      "section_ord": 7
+    },
+    {
+      "chunk_id": "cfcc56415ecd9370f038bde1337eb36b",
+      "kind": "prose",
+      "ok": true,
+      "path": "corpus/10-companies/STNG/20-F/STNG_20-F_2023-03-24_0001483934-23-000028.md",
+      "section_ord": 29
+    },
+    {
+      "chunk_id": "d3d4abee2363b678995ffb11c769cdd6",
+      "kind": "prose",
+      "ok": true,
+      "path": "data/extracted/md/signal/newsroom/2026/cii-compliance-shipping-decarbonization-guide.md",
+      "section_ord": 6
+    },
+    {
+      "chunk_id": "cdda3441db6967af2825dc0a8d9b561f",
+      "kind": "prose",
+      "ok": true,
+      "path": "data/extracted/md/lion/2026/lion_2026_W03_Lion-Weekly-Report-16-January-2026-W03.md",
+      "section_ord": 12
+    },
+    {
+      "chunk_id": "72c11bb05c617d4f3c35288bd080af9a",
+      "kind": "prose",
+      "ok": true,
+      "path": "data/extracted/md/signal/monitors/2026/weekly-dry-market-monitor-week-41-2026.md",
+      "section_ord": 2
+    },
+    {
+      "chunk_id": "fb6594a49429749c05e2102ce78ad4c8",
+      "kind": "prose",
+      "ok": true,
+      "path": "corpus/10-companies/EDRY/6-K/EDRY_6-K_2026-05-20_0001317861-26-000023.md",
+      "section_ord": 0
+    },
+    {
+      "chunk_id": "73b60bab1616fb35e173c3e97a72491a",
+      "kind": "table",
+      "ok": true,
+      "path": "corpus/10-companies/SHIP/20-F/SHIP_20-F_2020-03-05_0001140361-20-004944.md",
+      "section_ord": 7
+    },
+    {
+      "chunk_id": "f3676cb310273bea670e87050926751b",
+      "kind": "prose",
+      "ok": true,
+      "path": "corpus/10-companies/GNK/10-K/GNK_10-K_2019-03-05_0001558370-19-001507.md",
+      "section_ord": 2
+    },
+    {
+      "chunk_id": "1222c7ab0bd3dfeb5d325e2f54c06939",
+      "kind": "table",
+      "ok": true,
+      "path": "corpus/10-companies/SBLK/6-K/SBLK_6-K_2025-08-07_0000950157-25-000635.md",
+      "section_ord": 0
+    },
+    {
+      "chunk_id": "5797e754e01cce57ffd7fa45fe23b6bc",
+      "kind": "prose",
+      "ok": true,
+      "path": "data/extracted/md/signal/monitors/2024/dry-signal-ocean-capesize-market-insights.md",
+      "section_ord": 1
+    },
+    {
+      "chunk_id": "bf5ac9d1be481f86b75f62bc653bc128",
+      "kind": "table",
+      "ok": true,
+      "path": "corpus/10-companies/GLBS/6-K/GLBS_6-K_2023-09-21_0001104659-23-102820.md",
+      "section_ord": 0
+    },
+    {
+      "chunk_id": "67495e3e5e7527d72a8fcba42293e649",
+      "kind": "prose",
+      "ok": true,
+      "path": "data/extracted/md/fearnleys/voice/gas/lpg_eastern/2023/2023-06-01_lpg_eastern_90A60F52.md",
+      "section_ord": 0
+    },
+    {
+      "chunk_id": "724b921b576a7e17be0af40d0295d0cd",
+      "kind": "table",
+      "ok": true,
+      "path": "corpus/10-companies/SHIP/20-F/SHIP_20-F_2019-03-25_0000919574-19-002573.md",
+      "section_ord": 28
+    },
+    {
+      "chunk_id": "09c60d7192edcd2608dbd4dd0f648f98",
+      "kind": "table",
+      "ok": true,
+      "path": "corpus/10-companies/STNG/20-F/STNG_20-F_2021-03-31_0001483934-21-000023.md",
+      "section_ord": 5
+    },
+    {
+      "chunk_id": "1914eb46853fdca8ff389a88193cee8a",
+      "kind": "prose",
+      "ok": true,
+      "path": "corpus/10-companies/BHP/20-F/BHP_20-F_2020-09-22_0001193125-20-250594.md",
+      "section_ord": 13
+    },
+    {
+      "chunk_id": "0828993697c3f50535a5d12576b907be",
+      "kind": "prose",
+      "ok": true,
+      "path": "data/extracted/md/baltic/ningbo/2021/2021-09-03_Ningbo-Containerised-Freight-Index-03092_ningbo.md",
+      "section_ord": 2
+    },
+    {
+      "chunk_id": "a9c3540ffcd922bc15b9285f2e189792",
+      "kind": "prose",
+      "ok": true,
+      "path": "data/extracted/md/baltic/dry/2021/2021-05-07_bulk-report-week-18_dry.md",
+      "section_ord": 0
+    },
+    {
+      "chunk_id": "e7024a28f7b9e84ff00a0cde686f7de6",
+      "kind": "prose",
+      "ok": true,
+      "path": "corpus/10-companies/STNG/20-F/STNG_20-F_2020-03-31_0001483934-20-000011.md",
+      "section_ord": 4
+    },
+    {
+      "chunk_id": "fb93f6b2e0f15ff84c701f64860fa811",
+      "kind": "prose",
+      "ok": true,
+      "path": "corpus/10-companies/BHP/20-F/BHP_20-F_2016-09-21_0001193125-16-715037.md",
+      "section_ord": 13
+    },
+    {
+      "chunk_id": "5f740eb21372c5a36849d9181204d36a",
+      "kind": "table",
+      "ok": true,
+      "path": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-06-01_mmi-daily-iron-ore-index-report-june-1-2026_mmi-daily-iron-ore-report-for-1th-ju_7f5cf79afc0d.md",
+      "section_ord": 22
+    },
+    {
+      "chunk_id": "7a6cad94b2f2b9f26e6736c8f685c0da",
+      "kind": "prose",
+      "ok": true,
+      "path": "data/extracted/md/fearnleys/voice/dry_bulk/supramax/2023/2023-11-29_supramax_754212d5.md",
+      "section_ord": 1
+    },
+    {
+      "chunk_id": "cbd91fbeb46d4e8e2d6644a88dd21ac8",
+      "kind": "table",
+      "ok": true,
+      "path": "corpus/10-companies/GNK/8-K/GNK_8-K_2024-05-08_0001140361-24-024967.md",
+      "section_ord": 4
+    },
+    {
+      "chunk_id": "747b87dd90ce4c892346aed165a23d28",
+      "kind": "prose",
+      "ok": true,
+      "path": "corpus/10-companies/SBLK/20-F/SBLK_20-F_2025-03-19_0000950157-25-000241.md",
+      "section_ord": 31
+    },
+    {
+      "chunk_id": "04a7dc7361c17de9bcd7285a61c1f225",
+      "kind": "prose",
+      "ok": true,
+      "path": "corpus/10-companies/SHIP/6-K/SHIP_6-K_2026-04-01_0001140361-26-012740.md",
+      "section_ord": 0
+    },
+    {
+      "chunk_id": "f6c9e84c38fe0a4e6fc6f59e4fd95fe7",
+      "kind": "prose",
+      "ok": true,
+      "path": "corpus/10-companies/SBLK/20-F/SBLK_20-F_2020-03-27_0001140361-20-007197.md",
+      "section_ord": 11
+    },
+    {
+      "chunk_id": "a4c672691a5e47b81976854f7ff53f2a",
+      "kind": "prose",
+      "ok": true,
+      "path": "corpus/10-companies/INSW/10-K/INSW_10-K_2018-03-12_0001144204-18-013984.md",
+      "section_ord": 1
+    },
+    {
+      "chunk_id": "c45e24a1f0a5f28dab6ba5f59019498c",
+      "kind": "prose",
+      "ok": true,
+      "path": "data/extracted/md/signal/newsroom/2023/2023-features-look-back.md",
+      "section_ord": 18
+    },
+    {
+      "chunk_id": "9fa3aec9a16cd464cda7ecd1d7ba104d",
+      "kind": "table",
+      "ok": true,
+      "path": "data/extracted/md/intermodal/2025/intermodal_2025_W46_Intermodal-Report-Week-46-2025.md",
+      "section_ord": 28
+    },
+    {
+      "chunk_id": "6d1fbd309b9f0f183b36562532be28b4",
+      "kind": "prose",
+      "ok": true,
+      "path": "corpus/10-companies/FRO/20-F/FRO_20-F_2024-04-26_0000913290-24-000002.md",
+      "section_ord": 32
+    },
+    {
+      "chunk_id": "8c383eee2b8011206789f1d2494281af",
+      "kind": "prose",
+      "ok": true,
+      "path": "corpus/10-companies/SB/6-K/SB_6-K_2026-07-27_0000930413-26-002185.md",
+      "section_ord": 0
+    },
+    {
+      "chunk_id": "b6f8246473bf7e27e5c520e0feb3f9a6",
+      "kind": "prose",
+      "ok": true,
+      "path": "data/extracted/md/poten/2006/poten_2006-05-19_in-or-out.md",
+      "section_ord": 2
+    },
+    {
+      "chunk_id": "31108e33b030a014834f22cd88a4c421",
+      "kind": "prose",
+      "ok": true,
+      "path": "corpus/10-companies/ASC/20-F/ASC_20-F_2024-03-15_0001558370-24-003409.md",
+      "section_ord": 31
+    },
+    {
+      "chunk_id": "49842db3f092c3db51850b7db5fb4d46",
+      "kind": "prose",
+      "ok": true,
+      "path": "data/extracted/md/poten/2004/poten_2004-08-27_the-frenzied-ship-building-market.md",
+      "section_ord": 3
+    },
+    {
+      "chunk_id": "f6c864a5bdbbc17ce0cd39e131819384",
+      "kind": "table",
+      "ok": true,
+      "path": "data/extracted/md/intermodal/2025/intermodal_2025_W33_Intermodal-Report-Week-33-2025.md",
+      "section_ord": 23
+    }
+  ],
+  "p1_chunk": {
+    "phase": "P1",
+    "documents": 20704,
+    "sections": 194309,
+    "chunks": 318232,
+    "sentences": 1373917,
+    "chunked_docs": 20704,
+    "table_chunks": 104498,
+    "duplicate_chunks": 98082,
+    "errors": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "phase": "P1",
+  "non_sec_docs": 20404,
+  "total_sections": 186521,
+  "per_type_docs": {
+    "book": 12,
+    "broker_weekly": 14581,
+    "broker_daily": 4459,
+    "broker_monthly": 288,
+    "sec_6k": 816,
+    "sec_10q": 57,
+    "sec_8k": 191
+  },
+  "per_type_sections": {
+    "book": 2893,
+    "broker_weekly": 125518,
+    "broker_daily": 48686,
+    "broker_monthly": 7122,
+    "sec_6k": 816,
+    "sec_10q": 650,
+    "sec_8k": 836
+  },
+  "empty_docs": []
+}
