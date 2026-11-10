@@ -70,5 +70,5 @@ P8:
 
 budget:
   pipeline_cap_usd: 82
-  agent_enclave_cap_usd: 60
-  untouched_usd: 3
+  agent_enclave_cap_usd: 66
+  untouched_usd: 0

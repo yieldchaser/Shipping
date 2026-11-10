@@ -46,7 +46,7 @@ UF_LONG_WAIT_S = 300   # a Retry-After longer than this is not a queue turn (e.g
 EN_BASE = os.environ.get("ENCLAVE_BASE_URL", "https://router.enclave.ai/v1")
 EN_MODEL = os.environ.get("ENCLAVE_MODEL", "cyberouter/deepseek-v4-pro")      # stronger model for the paid fallback
 EN_PRICE_IN, EN_PRICE_OUT = 1.32, 3.96                                   # USD per 1M tokens
-AGENT_CAP_USD = float(os.environ.get("AGENT_CAP_USD", "60"))
+AGENT_CAP_USD = float(os.environ.get("AGENT_CAP_USD", "66"))
 # Routing by requested model id (owner 11-09):
 #   "deepseek-v4-pro"     -> Enclave V4 Pro first while the cap lasts, then Ultrafast  (main agent: planning/design)
 #   "deepseek-v4.1-flash" -> Ultrafast first (free, thinking on), then Enclave V4 Pro  (subagents: bulk coding)

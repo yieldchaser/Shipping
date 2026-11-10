@@ -519,7 +519,7 @@ USD per 1M tokens, input / output:
 
 | Pass | Planning volume | Cap |
 |---|---|---|
-| **Coding agent (dsh): writing, testing and fixing the pipeline** | main agent V4 Pro (Enclave), subagents V4.1 Flash thinking (Ultrafast, free), ≤ 4 at once | **$60** (enforced by the gateway; raised from $45 on 2026-11-10, owner: the whole credit is for this build) |
+| **Coding agent (dsh): writing, testing and fixing the pipeline** | main agent V4 Pro (Enclave), subagents V4.1 Flash thinking (Ultrafast, free), ≤ 4 at once | **$66** (enforced by the gateway; raised $45 -> $60 -> $66 on 2026-11-10, owner: the whole credit is for this build) |
 | P-1 router probe + P4b bake-off + gold labels | ~1,200 calls | $7 |
 | P4c bulk extraction | 25–35M chunk tokens, ~9–11k packed calls, ~3.5k chunk + 2.5k prompt in, ~1.8k out | $22 (v4-flash ≈ $11–14; glm-5.3-flash ≈ $15–19; v4.1-flash only if its projection fits) |
 | Escalation + targeted gleaning (≤ 10% of packed calls) | ~1k calls on the pro-tier model | $17 |
@@ -529,10 +529,10 @@ USD per 1M tokens, input / output:
 | Eval: gold Q&A generation + judging + 2 regression runs | | $8 |
 | Re-run reserve (one prompt fix over the failing slice) | | $9 |
 | Incremental reserve (left after the build) | | $1 (cut from $16 on 2026-11-10: owner put the credit into this build) |
-| Overshoot margin | | $3 |
+| Overshoot margin | | $0 (moved to the agent 2026-11-10; every pass cap already stops cleanly) |
 | **Total** | | **$145** (pipeline caps sum to $82: the re-run reserve is $9) |
 
-Money released by a cheaper bulk model goes first to escalation (raising the escalated share towards 25%), then to the reserve. (2026-11-10: owner moved $15 of the incremental reserve to the coding agent.)
+Money released by a cheaper bulk model goes first to escalation (raising the escalated share towards 25%), then to the reserve. **After C1 (owner rule 2026-11-10): any pipeline money that NIM or Ultrafast frees (a free model wins the bake-off for a pass) is first offered to escalation and coverage; whatever those cannot use goes to the coding agent cap.** (2026-11-10: owner moved $15 of the incremental reserve to the coding agent.)
 
 Embedding, BM25, resolution, PPR and all layer-A work cost $0: they run on runners or the laptop.
 
