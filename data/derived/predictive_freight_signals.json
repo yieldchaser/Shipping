@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source": "Port Stress Matrix x Baltic Exchange spot indices",
-    "as_of": "2026-11-09 14:17:35 UTC",
+    "as_of": "2026-11-10 13:47:57 UTC",
     "total_signals": 4,
     "methodology": "Port-call z-score anomaly (port stress matrix) paired with the Baltic index of the hub trade; no correlation or lead time is estimated"
   },
@@ -30,7 +30,7 @@
       "bias": "BEARISH",
       "correlated_ticker": "BLNG",
       "ticker_name": "Baltic LNG Index",
-      "current_index_value": 5123.0,
+      "current_index_value": 5067.0,
       "projected_impact": "Sharp arrival slowdown at Ras Laffan (Qatar LNG) (Z-Score -2.18\u03c3). Terminal export reduction or weather shutdown dampens cargo stems, softening prompt demand for BLNG.",
       "recommendation": "Monitor forward cargo fixtures for BLNG softening."
     },
@@ -48,7 +48,7 @@
       "bias": "BEARISH",
       "correlated_ticker": "BLPG",
       "ticker_name": "Baltic LPG Index",
-      "current_index_value": 22210.0,
+      "current_index_value": 22213.0,
       "projected_impact": "Sharp arrival slowdown at Ras Laffan (LPG) (Z-Score -2.18\u03c3). Terminal export reduction or weather shutdown dampens cargo stems, softening prompt demand for BLPG.",
       "recommendation": "Monitor forward cargo fixtures for BLPG softening."
     },
@@ -66,7 +66,7 @@
       "bias": "BEARISH",
       "correlated_ticker": "BLNG",
       "ticker_name": "Baltic LNG Index",
-      "current_index_value": 5123.0,
+      "current_index_value": 5067.0,
       "projected_impact": "Sharp arrival slowdown at Sabine Pass (Cheniere LNG) (Z-Score -2.10\u03c3). Terminal export reduction or weather shutdown dampens cargo stems, softening prompt demand for BLNG.",
       "recommendation": "Monitor forward cargo fixtures for BLNG softening."
     },
@@ -84,7 +84,7 @@
       "bias": "BEARISH",
       "correlated_ticker": "BCI",
       "ticker_name": "Baltic Capesize Index",
-      "current_index_value": 4459.0,
+      "current_index_value": 4457.0,
       "projected_impact": "Sharp arrival slowdown at Hay Point (Z-Score -1.57\u03c3). Terminal export reduction or weather shutdown dampens cargo stems, softening prompt demand for BCI.",
       "recommendation": "Monitor forward cargo fixtures for BCI softening."
     }
