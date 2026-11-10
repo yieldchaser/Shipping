@@ -180,33 +180,34 @@ async def chat(request):
         u = Usage()
         if stream:
             resp = await headers_sent()
-            held, started = [], False
+            # Hold the WHOLE answer before sending any of it (keep-alive comments meanwhile), so a stream
+            # that breaks at any point - before or after output started - can be retried cleanly.
+            held, last_ka = [], time.monotonic()
             try:
                 async for chunk in upstream_resp.content.iter_any():
                     u.feed_sse(chunk)
-                    if started:
-                        await resp.write(chunk)
-                        continue
                     held.append(chunk)
-                    if OUTPUT_RE.search(b"".join(held)):
-                        started = True
-                        await resp.write(b"".join(held))
+                    if time.monotonic() - last_ka > KEEPALIVE_S:
+                        await resp.write(b": generating\n\n")
+                        last_ka = time.monotonic()
             except Exception as e:
-                if not started:
-                    _log({"upstream": name, "model": model, "status": "broken_before_output",
-                          "error": type(e).__name__, "prompt_tokens": 0, "completion_tokens": 0,
-                          "cached_tokens": 0, "cost_usd": 0.0, "wait_s": round(time.monotonic() - t0, 1),
-                          "stream": True})
-                    return None
-                err = {"error": {"message": f"upstream stream broke: {type(e).__name__}", "type": "agent_gateway"}}
-                await resp.write(b"data: " + json.dumps(err).encode() + b"\n\n")
-            if not started:
-                if u.c == 0:
-                    _log({"upstream": name, "model": model, "status": "empty_stream", "prompt_tokens": u.p,
-                          "completion_tokens": 0, "cached_tokens": u.cached, "cost_usd": 0.0,
-                          "wait_s": round(time.monotonic() - t0, 1), "stream": True})
-                    return None
-                await resp.write(b"".join(held))
+                _log({"upstream": name, "model": model, "status": "broken_stream",
+                      "error": type(e).__name__, "prompt_tokens": u.p, "completion_tokens": u.c,
+                      "cached_tokens": u.cached, "cost_usd": 0.0, "wait_s": round(time.monotonic() - t0, 1),
+                      "stream": True})
+                return None
+            body_bytes = b"".join(held)
+            if not OUTPUT_RE.search(body_bytes) and u.c == 0:
+                _log({"upstream": name, "model": model, "status": "empty_stream", "prompt_tokens": u.p,
+                      "completion_tokens": 0, "cached_tokens": u.cached, "cost_usd": 0.0,
+                      "wait_s": round(time.monotonic() - t0, 1), "stream": True})
+                return None
+            if b"[DONE]" not in body_bytes and u.c == 0:
+                _log({"upstream": name, "model": model, "status": "truncated_stream", "prompt_tokens": u.p,
+                      "completion_tokens": 0, "cached_tokens": u.cached, "cost_usd": 0.0,
+                      "wait_s": round(time.monotonic() - t0, 1), "stream": True})
+                return None
+            await resp.write(body_bytes)
             await resp.write_eof()
         else:
             data = await upstream_resp.read()
