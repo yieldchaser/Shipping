@@ -2330,3 +2330,12 @@ issue_date,report_week,fuel_grade,port,price_usd_per_mt,prior_price_usd_per_mt,c
 2026-11-03,44,VLSFO,Rotterdam,794.5,763.5,4.1%,intermodal_04_11_2026_intermodal_weekly_market_report_week_44_2026_broker_s_insi.pdf
 2026-11-03,44,VLSFO,Houston,850.5,814.0,4.5%,intermodal_04_11_2026_intermodal_weekly_market_report_week_44_2026_broker_s_insi.pdf
 2026-11-03,44,VLSFO,Singapore,1019.5,958.3,6.4%,intermodal_04_11_2026_intermodal_weekly_market_report_week_44_2026_broker_s_insi.pdf
+2026-11-10,45,MGO,Rotterdam,1348.5,1425.5,-5.4%,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-10,45,MGO,Houston,1311.5,1407.5,-6.8%,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-10,45,MGO,Singapore,1220.0,1278.0,-4.5%,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-10,45,380cst,Rotterdam,598.0,732.5,-18.4%,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-10,45,380cst,Houston,512.5,626.0,-18.1%,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-10,45,380cst,Singapore,732.0,916.0,-20.1%,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-10,45,VLSFO,Rotterdam,739.5,794.5,-6.9%,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-10,45,VLSFO,Houston,770.5,850.5,-9.4%,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-10,45,VLSFO,Singapore,854.0,1019.5,-16.2%,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf

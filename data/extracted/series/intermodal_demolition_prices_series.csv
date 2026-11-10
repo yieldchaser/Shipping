@@ -2079,3 +2079,11 @@ issue_date,report_week,sector,country,price_current_usd_per_ldt,price_previous_u
 2026-11-03,44,Dry Bulk,India,465.0,460.0,1.1%,intermodal_04_11_2026_intermodal_weekly_market_report_week_44_2026_broker_s_insi.pdf
 2026-11-03,44,Dry Bulk,Pakistan,485.0,475.0,2.1%,intermodal_04_11_2026_intermodal_weekly_market_report_week_44_2026_broker_s_insi.pdf
 2026-11-03,44,Dry Bulk,Turkey,280.0,280.0,0.0%,intermodal_04_11_2026_intermodal_weekly_market_report_week_44_2026_broker_s_insi.pdf
+2026-11-10,45,Tanker,Bangladesh,520.0,1.0,520,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-10,45,Tanker,India,475.0,0.0,475,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-10,45,Tanker,Pakistan,505.0,0.0,505,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-10,45,Tanker,Turkey,290.0,0.0,290,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-10,45,Dry Bulk,Bangladesh,505.0,1.0,505,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-10,45,Dry Bulk,India,465.0,0.0,465,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-10,45,Dry Bulk,Pakistan,485.0,0.0,485,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-10,45,Dry Bulk,Turkey,280.0,0.0,280,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf

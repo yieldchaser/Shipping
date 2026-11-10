@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2961,
-      "untracked_bytes": 2297462316
+      "untracked_files": 2965,
+      "untracked_bytes": 2299058812
     },
     {
       "path": "corpus/02-hellenic",
@@ -47,6 +47,16 @@
     }
   ],
   "entries": [
+    {
+      "path": "corpus/01-brokers/_digests/carriers/2026/carriers_10_11_2026_carriers_sales_purchase_market_report_week_45.md",
+      "bytes": 9120,
+      "sha256": "ceb1134968baef9b161800e02fd2f48d0a141ff6f902c6dc5e5349d6598dabf1"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/intermodal/2026/intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.md",
+      "bytes": 26173,
+      "sha256": "bd873e061a543de5506e2f9323bdbac9c5c1703c709d75dac4af1a88849d0956"
+    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -5428,6 +5438,11 @@
       "sha256": "d614475e31d15e54029376f4c1d53053d6ff96ffd108a6eb646d2e88fc5149f9"
     },
     {
+      "path": "corpus/01-brokers/carriers/2026/carriers_10_11_2026_carriers_sales_purchase_market_report_week_45.pdf",
+      "bytes": 392591,
+      "sha256": "61e0e14fc7817d5621640efc7ee413d01a34efb835371c9e9968a41bad24b770"
+    },
+    {
       "path": "corpus/01-brokers/carriers/2026/carriers_2026_W01_WK-1-26-CARRIERS_SP-MARKET-REPORT.pdf",
       "bytes": 337616,
       "sha256": "80c28b24644b6951bcc1e85b2445d628df622ba40758164b2f44e3953f70cd8b"
@@ -8841,6 +8856,11 @@
       "path": "corpus/01-brokers/intermodal/2025/intermodal_2025_W51_Intermodal-Report-Week-51-2025.pdf",
       "bytes": 1060310,
       "sha256": "c9fac24f50115f7a8d67584cb55124800745db44cb69b19d05fa0cd0a095b456"
+    },
+    {
+      "path": "corpus/01-brokers/intermodal/2026/intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf",
+      "bytes": 1168612,
+      "sha256": "564ddfb83c1bbff8194f3b43ebfe658565ce397c7f433248c5c13e11a88b70d7"
     },
     {
       "path": "corpus/01-brokers/intermodal/2026/intermodal_2026_W02_Intermodal-Report-Week-02-2026.pdf",
