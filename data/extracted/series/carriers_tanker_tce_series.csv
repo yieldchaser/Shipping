@@ -824,3 +824,9 @@ issue_date,report_week,metric_name,current_value,week_change,prev_value,source_f
 2026-11-04,44,SUEZ TCE,535974.0,-96727.0,632701.0,carriers_04_11_2026_carriers_sales_purchase_market_report_week_44.pdf
 2026-11-04,44,AFRA TCE,283660.0,-53194.0,336854.0,carriers_04_11_2026_carriers_sales_purchase_market_report_week_44.pdf
 2026-11-04,44,MR ATLANTIC TC routes,78334.0,422.0,77912.0,carriers_04_11_2026_carriers_sales_purchase_market_report_week_44.pdf
+2026-11-10,45,Baltic DIRTY Tanker Index,5283.0,-1552.0,6835.0,carriers_10_11_2026_carriers_sales_purchase_market_report_week_45.pdf
+2026-11-10,45,Baltic CLEAN Tanker Index,2572.0,-264.0,2836.0,carriers_10_11_2026_carriers_sales_purchase_market_report_week_45.pdf
+2026-11-10,45,VLCC TCE,657317.0,-173416.0,830733.0,carriers_10_11_2026_carriers_sales_purchase_market_report_week_45.pdf
+2026-11-10,45,SUEZ TCE,316852.0,-219122.0,535974.0,carriers_10_11_2026_carriers_sales_purchase_market_report_week_45.pdf
+2026-11-10,45,AFRA TCE,165703.0,-117957.0,283660.0,carriers_10_11_2026_carriers_sales_purchase_market_report_week_45.pdf
+2026-11-10,45,MR ATLANTIC TC routes,71337.0,-6997.0,78334.0,carriers_10_11_2026_carriers_sales_purchase_market_report_week_45.pdf

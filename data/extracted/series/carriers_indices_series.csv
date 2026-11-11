@@ -1889,3 +1889,17 @@ issue_date,report_week,index_category,index_name,current_value,change_val,prev_v
 2026-11-04,44,Baltic Dry Indices,BPI,1874.0,-201.0,2075.0,,carriers_04_11_2026_carriers_sales_purchase_market_report_week_44.pdf
 2026-11-04,44,Baltic Dry Indices,BSI,1856.0,-32.0,1888.0,,carriers_04_11_2026_carriers_sales_purchase_market_report_week_44.pdf
 2026-11-04,44,Baltic Dry Indices,BHSI,1014.0,-6.0,1020.0,,carriers_04_11_2026_carriers_sales_purchase_market_report_week_44.pdf
+2026-11-10,45,Sale and Purchase Index,DSPA,4.688,,,UP,carriers_10_11_2026_carriers_sales_purchase_market_report_week_45.pdf
+2026-11-10,45,Sale and Purchase Index,BSPA,,,,,carriers_10_11_2026_carriers_sales_purchase_market_report_week_45.pdf
+2026-11-10,45,Sale and Purchase Index,TSPA,12.474,,,UP,carriers_10_11_2026_carriers_sales_purchase_market_report_week_45.pdf
+2026-11-10,45,Recycling Index,DSRA,7.143,,,UP,carriers_10_11_2026_carriers_sales_purchase_market_report_week_45.pdf
+2026-11-10,45,Recycling Index,TSRA,12.808,,,UP,carriers_10_11_2026_carriers_sales_purchase_market_report_week_45.pdf
+2026-11-10,45,Recycling Index,BSRA,,,,,carriers_10_11_2026_carriers_sales_purchase_market_report_week_45.pdf
+2026-11-10,45,Newbuilding Index,BNBI,,,,,carriers_10_11_2026_carriers_sales_purchase_market_report_week_45.pdf
+2026-11-10,45,Newbuilding Index,DNBI,5.177,,,UP,carriers_10_11_2026_carriers_sales_purchase_market_report_week_45.pdf
+2026-11-10,45,Newbuilding Index,TNBI,8.22,,,UP,carriers_10_11_2026_carriers_sales_purchase_market_report_week_45.pdf
+2026-11-10,45,Baltic Dry Indices,BDI,2854.0,206.0,2648.0,,carriers_10_11_2026_carriers_sales_purchase_market_report_week_45.pdf
+2026-11-10,45,Baltic Dry Indices,BCI,4459.0,496.0,3963.0,,carriers_10_11_2026_carriers_sales_purchase_market_report_week_45.pdf
+2026-11-10,45,Baltic Dry Indices,BPI,2037.0,163.0,1874.0,,carriers_10_11_2026_carriers_sales_purchase_market_report_week_45.pdf
+2026-11-10,45,Baltic Dry Indices,BSI,1810.0,-46.0,1856.0,,carriers_10_11_2026_carriers_sales_purchase_market_report_week_45.pdf
+2026-11-10,45,Baltic Dry Indices,BHSI,1025.0,11.0,1014.0,,carriers_10_11_2026_carriers_sales_purchase_market_report_week_45.pdf

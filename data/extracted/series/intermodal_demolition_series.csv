@@ -2664,3 +2664,12 @@ issue_date,report_week,record_type,sector,country,price_current_usd_per_ldt,pric
 2026-11-03,44,indicative_price,Dry Bulk,Pakistan,485.0,475.0,2.1%,,,,,,,$485.0/ldt,485.0,,,intermodal_04_11_2026_intermodal_weekly_market_report_week_44_2026_broker_s_insi.pdf
 2026-11-03,44,indicative_price,Dry Bulk,Turkey,280.0,280.0,0.0%,,,,,,,$280.0/ldt,280.0,,,intermodal_04_11_2026_intermodal_weekly_market_report_week_44_2026_broker_s_insi.pdf
 2026-11-03,44,reported_sale,,Bangledeshi,540.0,,,OCEANIC STAR,69043,9807,1994,"IMABARI, Japan",BC,$540/Ldt,540.0,Bangledeshi,incl 200 mt bunkers ROB,intermodal_04_11_2026_intermodal_weekly_market_report_week_44_2026_broker_s_insi.pdf
+2026-11-10,45,indicative_price,Tanker,Bangladesh,520.0,1.0,520,,,,,,,$520.0/ldt,520.0,,,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-10,45,indicative_price,Tanker,India,475.0,0.0,475,,,,,,,$475.0/ldt,475.0,,,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-10,45,indicative_price,Tanker,Pakistan,505.0,0.0,505,,,,,,,$505.0/ldt,505.0,,,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-10,45,indicative_price,Tanker,Turkey,290.0,0.0,290,,,,,,,$290.0/ldt,290.0,,,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-10,45,indicative_price,Dry Bulk,Bangladesh,505.0,1.0,505,,,,,,,$505.0/ldt,505.0,,,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-10,45,indicative_price,Dry Bulk,India,465.0,0.0,465,,,,,,,$465.0/ldt,465.0,,,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-10,45,indicative_price,Dry Bulk,Pakistan,485.0,0.0,485,,,,,,,$485.0/ldt,485.0,,,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-10,45,indicative_price,Dry Bulk,Turkey,280.0,0.0,280,,,,,,,$280.0/ldt,280.0,,,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-10,45,reported_sale,,Bangledeshi,460.0,,,SHINAKI MARU,6520,,1991,"KANDA, Japan",BC,$460/Ldt,460.0,Bangledeshi,,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
