@@ -5025,8 +5025,8 @@ IMO9318137,Evridiki,Tankers,USPOA,Port Arthur / Nederland,2024-10-01,2024-10-04,
 IMO9318137,Evridiki,Tankers,RUPRI,Primorsk,2025-12-29,2026-01-01,451,4703.3,60.36,28.61,19
 IMO9318137,Evridiki,Tankers,USPOA,Port Arthur / Nederland,2026-03-24,2026-03-27,82,4703.3,29.87,-93.93,20
 IMO9318137,Evridiki,Tankers,USPOA,Port Arthur / Nederland,2026-03-25,2026-03-28,1,0.0,29.87,-93.93,21
-IMO9318137,Evridiki,Tankers,USPOA,Port Arthur / Nederland,2026-04-11,2026-04-14,14,0.0,29.87,-93.93,23
-IMO9318137,Evridiki,Tankers,USPOA,Port Arthur / Nederland,2026-05-18,2026-05-21,34,0.0,29.87,-93.93,24
+IMO9318137,Evridiki,Tankers,USPOA,Port Arthur / Nederland,2026-04-11,2026-04-14,14,0.0,29.87,-93.93,22
+IMO9318137,Evridiki,Tankers,USPOA,Port Arthur / Nederland,2026-05-18,2026-05-21,51,0.0,29.87,-93.93,24
 IMO9318137,Evridiki,Tankers,USPOA,Port Arthur / Nederland,2026-05-20,2026-05-23,1,0.0,29.87,-93.93,25
 IMO9318149,Orpheas,Tankers,USPOA,Port Arthur / Nederland,2018-01-22,2018-01-25,0,0.0,29.87,-93.93,1
 IMO9318149,Orpheas,Tankers,SGSIN,Singapore,2018-02-08,2018-02-11,14,8677.6,1.28,103.85,2
@@ -16320,6 +16320,7 @@ IMO9682980,Elisabeth Maersk,Tankers,USCRP,Corpus Christi,2025-05-28,2025-05-31,1
 IMO9682980,Elisabeth Maersk,Tankers,NLRTM,Rotterdam,2025-06-14,2025-06-17,14,4516.2,51.92,4.47,10
 IMO9682980,Elisabeth Maersk,Tankers,SAJUA,Juaymah,2025-09-05,2025-09-08,80,2534.3,26.83,50.02,11
 IMO9682980,Elisabeth Maersk,Tankers,DZAZW,Arzew,2026-06-15,2026-06-18,280,2608.3,35.85,-0.31,12
+IMO9682980,Elisabeth Maersk,Tankers,SGSIN,Singapore,2026-07-02,2026-07-05,14,6044.3,1.28,103.85,13
 IMO9682992,British Tradition,Tankers,USPOA,Port Arthur / Nederland,2018-07-27,2018-07-30,14,0.0,29.87,-93.93,1
 IMO9682992,British Tradition,Tankers,USPOA,Port Arthur / Nederland,2018-09-05,2018-09-08,37,0.0,29.87,-93.93,2
 IMO9682992,British Tradition,Tankers,USPOA,Port Arthur / Nederland,2018-09-24,2018-09-27,16,0.0,29.87,-93.93,3
@@ -21554,6 +21555,7 @@ IMO9831804,Olympic Laurel,Tankers,SAJUA,Juaymah,2025-02-21,2025-02-24,292,0.0,26
 IMO9831804,Olympic Laurel,Tankers,SAJUA,Juaymah,2025-09-25,2025-09-28,213,0.0,26.83,50.02,21
 IMO9831804,Olympic Laurel,Tankers,USPOA,Port Arthur / Nederland,2026-04-08,2026-04-11,192,6822.4,29.87,-93.93,22
 IMO9831804,Olympic Laurel,Tankers,KRUSN,Ulsan,2026-04-25,2026-04-28,14,6182.5,35.5,129.38,23
+IMO9831804,Olympic Laurel (Shell),Tankers,AEFJR,Fujairah,2026-11-11,2026-11-14,0,0.0,25.13,56.34,1
 IMO9831816,Olympic Lyra,Tankers,USPOA,Port Arthur / Nederland,2019-05-19,2019-05-22,0,0.0,29.87,-93.93,1
 IMO9831816,Olympic Lyra,Tankers,CNNGB,Ningbo-Zhoushan,2019-06-05,2019-06-08,14,6686.4,29.87,121.55,2
 IMO9831816,Olympic Lyra,Tankers,SAJUA,Juaymah,2019-08-26,2019-08-29,79,3720.7,26.83,50.02,3
