@@ -7,13 +7,13 @@
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4066,
-      "untracked_bytes": 2392046132
+      "untracked_files": 4057,
+      "untracked_bytes": 2389108169
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 18,
-      "untracked_bytes": 3878571
+      "untracked_files": 9,
+      "untracked_bytes": 2035986
     },
     {
       "path": "corpus/04-poten",
@@ -14868,11 +14868,6 @@
       "sha256": "0bba66ef4bd0790e891d2fa8957aff2678eaaf35df892acb039919ba36270d07"
     },
     {
-      "path": "corpus/02-hellenic/demolition/2026/2026-11-10_athenian-shipbrokers-s-a-demolition-quick-update-week-45-2026.html",
-      "bytes": 3122,
-      "sha256": "27c462b0097ed51f219ab8d954d22da8e659bfd60c7e476ee2384d37e5c9d882"
-    },
-    {
       "path": "corpus/02-hellenic/demolition/pdfs/2024-04-15_Ship-recycling-market-insight-week-15-2024-Ramadan_Resurgence\u2026Or_Not.pdf",
       "bytes": 653148,
       "sha256": "a79a268821e132d8cdeb7fcd037d30c80ded62b9953ad0804fd3f7244207ab74"
@@ -14896,11 +14891,6 @@
       "path": "corpus/02-hellenic/demolition/pdfs/2026-08-15_best-oasis-weekly-recycling-market-report-14-august-2026_weekly-ship-recycling-report-08-augu_4ca6a14ecc27.pdf",
       "bytes": 1526416,
       "sha256": "52b23f9d42d155925f97c66cebc616237a05be249ba46e4de12f1473f63b3c70"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/pdfs/2026-11-10_athenian-shipbrokers-s-a-demolition-quick-update-week-45-2026_week-45-athenian-demolition-report-2_a0112938f400.pdf",
-      "bytes": 628408,
-      "sha256": "5b7e52597c92ccdc1d1e7a5a7ca86de0cf30ea865eff463795ba5288319faa99"
     },
     {
       "path": "corpus/02-hellenic/demolition/pdfs/athenian/2021-07-07_athenian-shipbrokers-s-a-demolition-quick-update-week-26-2021_ship-recycling-weekly-26-2021-atheni_3c137c5215b0.pdf",
@@ -16491,11 +16481,6 @@
       "path": "corpus/02-hellenic/demolition/pdfs/athenian/2026-09-08_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2026_week-36-athenian-demolition-report-2_2c3e38bed81c.pdf",
       "bytes": 628085,
       "sha256": "030e062e3637cde71b5e63a1b0b8f0ff517d5d9562568a2f5c7054fda79775ed"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/pdfs/athenian/2026-11-10_athenian-shipbrokers-s-a-demolition-quic_Week_45_Athenian_Demolition_Report_2026.pdf",
-      "bytes": 628408,
-      "sha256": "5b7e52597c92ccdc1d1e7a5a7ca86de0cf30ea865eff463795ba5288319faa99"
     },
     {
       "path": "corpus/02-hellenic/demolition/pdfs/best_oasis/2021-07-03_Weekly-Ship-Recycling-Report.pdf",
@@ -20331,16 +20316,6 @@
       "path": "corpus/02-hellenic/iron_ore/2024/assets/2024-07-12_mmi-daily-iron-ore-index-report-july-12-2024_img1_1207202\u03b4\u03c3_e133c3395525.jpg",
       "bytes": 469290,
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/2026-11-11_mmi-daily-iron-ore-index-report-november-11-2026.html",
-      "bytes": 4474,
-      "sha256": "6540539e217907500557a0ad0bd5df51eb2f856814d61303df947dc3f076f789"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-11-11_mmi-daily-iron-ore-index-report-november-11-2026_11_74caa570b859.jpg",
-      "bytes": 181645,
-      "sha256": "712e96da465a0f38a0919dbea2547b2562549bc139ea1fa0e9fdf737f5d039ce"
     },
     {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
@@ -30338,11 +30313,6 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-11-11_mmi-daily-iron-ore-index-report-november-11-2026_mmi-daily-iron-ore-report-for-11th-n_26e865e77637.pdf",
-      "bytes": 717880,
-      "sha256": "4051bb0b41fa6761e1bdfa77a4208140e3bfad6a91055a9acef1a5d0eccaf701"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31731,11 +31701,6 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-11-11_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-11th-November-2026.pdf",
-      "bytes": 717880,
-      "sha256": "4051bb0b41fa6761e1bdfa77a4208140e3bfad6a91055a9acef1a5d0eccaf701"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -35173,36 +35138,6 @@
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
     },
     {
-      "path": "corpus/02-hellenic/vessel_valuations/2026/2026-11-10_weekly-vessel-valuations-report-november-10-2026.html",
-      "bytes": 2494,
-      "sha256": "cf9e1d174dec7f084633bcff4744cd573dd58b51f699d52208cf8ac16c957c16"
-    },
-    {
-      "path": "corpus/02-hellenic/vessel_valuations/2026/assets/2026-11-10_weekly-vessel-valuations-report-november-10-2026_10112026matrix.jpg",
-      "bytes": 53652,
-      "sha256": "f64612cce532197702d6996ae8c7acb7cc17b0ae7c4dd98e8484f4ecc0520d88"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-11_another-contraction-in-chinas-dry-bulk-imports.html",
-      "bytes": 4435,
-      "sha256": "e96bff7faaf8d88edc37db5d210594d0f3af9f577b0286dc6837f2055da4c846"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-11_another-contraction-in-chinas-dry-bulk-imports.md",
-      "bytes": 2748,
-      "sha256": "4c4122f20003dc3bdfc3db56daaa032abc09d7315a38499e34aac5b5caf6be96"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-11_secondhand-investment-trends-october-2026.html",
-      "bytes": 7994,
-      "sha256": "1654909e2bb372ccdf7a77d655e5a2252fb7ce33f785a5bebefdd04d9ae0b7c0"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-11_secondhand-investment-trends-october-2026.md",
-      "bytes": 6797,
-      "sha256": "8a106d42c028a2bb3e687d2c7cc0a3fab5a648424d80a73f339623bd99b32fd2"
-    },
-    {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
       "bytes": 69365,
       "sha256": "9848c9a3aaba37a9e84f8cd2263fff62c7771135c466216f51114381d1621e5f"
@@ -35246,31 +35181,6 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-11_another-contraction-in-chinas-dry-bulk-imports_img_chart_a78c76c78fdc.jpg",
-      "bytes": 111130,
-      "sha256": "40379dc1c848b14f0d6b4716649981943fcebe8f755447c0a2f2320fef444619"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-11_secondhand-investment-trends-october-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0561a747cf2d.png",
-      "bytes": 15903,
-      "sha256": "394d1635db0fef30e8d448da984c3883c1f2cff331186a72f8423ae2b705d51a"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-11_secondhand-investment-trends-october-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_658fa2a6efc2.png",
-      "bytes": 41751,
-      "sha256": "f3b8f112f287c07ffcdd0eec093f5b009ba986d6d7e4d38d1d42e7f6d2c2aa70"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-11_secondhand-investment-trends-october-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d10e5007c20e.png",
-      "bytes": 53502,
-      "sha256": "542b929a31f7230f69721ffc40ce40e7fa7eb5e02220244e435ae7d0a07dae11"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-11_secondhand-investment-trends-october-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ed6d856d511f.png",
-      "bytes": 1598325,
-      "sha256": "2a3c98298080074b2261518da449c801f2042c36fca7a6953067b55a9a284cf5"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
