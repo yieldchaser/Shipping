@@ -3639,3 +3639,17 @@ issue_date,report_week,category,market_type,route_code,vessel_class,route_descri
 2026-10-30,44,Dirty Tanker Spot,Spot Worldscale,TD20,Suezmax,Suezmax WAF-UKC,-17.0,714.0,731.0,728.0,688.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-30_freight-squeezes-naphtha-arb.html
 2026-10-30,44,Dirty Tanker Spot,Spot Worldscale,TD25,Aframax,Aframax USG-UKC,56.0,707.0,652.0,729.0,715.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-30_freight-squeezes-naphtha-arb.html
 2026-10-30,44,Dirty Tanker Spot,Spot Worldscale,TD3C,VLCC,VLCC AG-China,54.0,1263.0,1208.0,1145.0,1177.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-30_freight-squeezes-naphtha-arb.html
+2026-11-06,45,Clean Tanker Spot,$/day TCE,TC1,LR2,LR2 AG-Japan,4250.0,308250.0,304000.0,282000.0,,,corpus/01-brokers/gibson/html/2026/2026-11-06_mid-term-fallout.html
+2026-11-06,45,Clean Tanker Spot,$/day TCE,TC18,MR,MR USG-Brazil,-14000.0,70750.0,84750.0,44750.0,51000.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-06_mid-term-fallout.html
+2026-11-06,45,Clean Tanker Spot,$/day TCE,TC5,LR1,LR1 AG-Japan,4250.0,227250.0,223000.0,206000.0,184750.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-06_mid-term-fallout.html
+2026-11-06,45,Clean Tanker Spot,$/day TCE,TC7,MR,MR Singapore-EC Aus,-3750.0,71750.0,75500.0,76250.0,70000.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-06_mid-term-fallout.html
+2026-11-06,45,Clean Tanker Spot,Spot Worldscale,TC1,LR2,LR2 AG-Japan,2.0,1005.0,1003.0,928.0,,,corpus/01-brokers/gibson/html/2026/2026-11-06_mid-term-fallout.html
+2026-11-06,45,Clean Tanker Spot,Spot Worldscale,TC18,MR,MR USG-Brazil,-86.0,496.0,582.0,354.0,402.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-06_mid-term-fallout.html
+2026-11-06,45,Clean Tanker Spot,Spot Worldscale,TC5,LR1,LR1 AG-Japan,4.0,1025.0,1021.0,941.0,864.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-06_mid-term-fallout.html
+2026-11-06,45,Clean Tanker Spot,Spot Worldscale,TC7,MR,MR Singapore-EC Aus,-37.0,541.0,579.0,570.0,538.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-06_mid-term-fallout.html
+2026-11-06,45,Dirty Tanker Spot,$/day TCE,TD20,Suezmax,Suezmax WAF-UKC,-179000.0,238750.0,417750.0,590250.0,297000.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-06_mid-term-fallout.html
+2026-11-06,45,Dirty Tanker Spot,$/day TCE,TD25,Aframax,Aframax USG-UKC,-114000.0,115750.0,229750.0,325000.0,155250.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-06_mid-term-fallout.html
+2026-11-06,45,Dirty Tanker Spot,$/day TCE,TD3C,VLCC,VLCC AG-China,-42750.0,1366000.0,1408750.0,1478500.0,1177000.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-06_mid-term-fallout.html
+2026-11-06,45,Dirty Tanker Spot,Spot Worldscale,TD20,Suezmax,Suezmax WAF-UKC,-284.0,430.0,714.0,981.0,533.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-06_mid-term-fallout.html
+2026-11-06,45,Dirty Tanker Spot,Spot Worldscale,TD25,Aframax,Aframax USG-UKC,-308.0,399.0,707.0,956.0,521.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-06_mid-term-fallout.html
+2026-11-06,45,Dirty Tanker Spot,Spot Worldscale,TD3C,VLCC,VLCC AG-China,-42.0,1221.0,1263.0,1319.0,1065.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-06_mid-term-fallout.html

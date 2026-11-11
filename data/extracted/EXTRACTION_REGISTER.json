@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 22:51:57Z",
+  "updated_at": "2026-11-11 14:58:33Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -1949,7 +1949,7 @@
     {
       "file": "gibson_bunker_prices_series.csv",
       "target_metric": "Gibson Bunker Prices",
-      "rows": 1040,
+      "rows": 1044,
       "columns": [
         "issue_date",
         "report_week",
@@ -1966,7 +1966,7 @@
     {
       "file": "gibson_spot_chart_daily.csv",
       "target_metric": "Gibson Spot Chart Daily.Csv",
-      "rows": 9375,
+      "rows": 9420,
       "columns": [
         "date",
         "chart",
@@ -1979,7 +1979,7 @@
     {
       "file": "gibson_tanker_spot_series.csv",
       "target_metric": "Gibson Tanker Spot",
-      "rows": 3640,
+      "rows": 3654,
       "columns": [
         "issue_date",
         "report_week",
@@ -3945,13 +3945,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 709304,
+  "total_master_stacked_rows": 709367,
   "total_master_series_csvs": 166,
-  "total_stacked_rows": 709304,
+  "total_stacked_rows": 709367,
   "total_series_csvs": 166,
   "total_master_workbooks": 1,
   "total_series_count": 166,
-  "total_rows_extracted": 709609,
+  "total_rows_extracted": 709672,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 611,
     "advanced_shipping_demolition_series.csv": 2048,
@@ -4015,9 +4015,9 @@
     "drewry_opinions_metadata.csv": 564,
     "drewry_wci_series.csv": 11,
     "fearnleys_drybulk_growth_series.csv": 180,
-    "gibson_bunker_prices_series.csv": 1040,
-    "gibson_spot_chart_daily.csv": 9375,
-    "gibson_tanker_spot_series.csv": 3640,
+    "gibson_bunker_prices_series.csv": 1044,
+    "gibson_spot_chart_daily.csv": 9420,
+    "gibson_tanker_spot_series.csv": 3654,
     "gms_demolition_rankings_series.csv": 1104,
     "gms_demolition_sales_series.csv": 161,
     "gms_market_commentary_series.csv": 1291,
