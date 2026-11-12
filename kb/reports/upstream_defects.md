@@ -38,3 +38,21 @@ the KB build works around it or leaves the gap explicit (`corpus_known_gaps`, PL
   file not present in `data/extracted/md/` cannot be attributed to a `doc_id`.
 - Effect: those claims still cluster into `transaction` rows (dedupe key is content-based) but
   their `mention.doc_id` is NULL, so doc-level provenance is missing for them.
+
+### 5. Vessel identity material in the corpus is name-heavy (P3 finding, no code change)
+Measured on the built corpus (not a parser bug — a property of broker prose; logged because it
+caps what identity resolution can prove):
+- Printed IMO appears only in AIS/registry sidecars and in a minority of sale/demolition tables;
+  1,894 checksum-valid printed IMO tags across all 185,454 tagged chunks. Broker fixture text is
+  effectively IMO-free, which is why plan §6.4 requires corroborating DWT/built-year/yard.
+- P2 claim-derived provisional vessels: 11,135 entities, of which 2,484 are single-token names
+  and 18 are pure generic words (`STAR`, `SEA`, ...). Regex-level plausibility gates in
+  `kb/p3_tag.py` reject those at the tagging layer instead of inventing identity:
+  `skipped_implausible_vessel=2,527`, `ambiguous_vessel_norms=3,564` (names shared by >3 IMOs),
+  `ais_name_alias_skipped=2,333`, `vessel_alias_dropped_ambiguous=2,873`.
+- Counterparty columns yield 3,076 `company:int:*` provisional companies, 795 single-token; 1,171
+  generic patterns (`ONE`, `GAS`, `SHIPPING`, ...) are refused as text aliases
+  (`skipped_generic_company`) because they would tag every sentence.
+- Consequence accepted at P3: identity is precision-first. 305 merges PASSED the audit at 0.99
+  precision; unresolved provisional names stay provisional and are tagged as such (visible
+  ambiguity) rather than guessed. Recall cost is documented in `kb/reports/p3.md`.

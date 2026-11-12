@@ -1,0 +1,28 @@
+{
+  "phase": "P3",
+  "stage": "resolve",
+  "run": "p3",
+  "claims": 11135,
+  "known": 57486,
+  "pairs": 23842,
+  "stats": {
+    "claims_with_candidates": 6099,
+    "candidate_pairs": 23842,
+    "judge_insufficient": 920,
+    "judge_same": 952,
+    "judge_different": 2337,
+    "auto_merges": 256,
+    "separate_threshold": 2124,
+    "judge_unsure": 430,
+    "company_unresolved": 3059,
+    "company_merges": 17,
+    "merge_log_rows": 22848,
+    "alias_rows": 305,
+    "merges": 305,
+    "vessel_merges": 288
+  },
+  "judge_calls": 3719,
+  "judge_model": "nvidia/nemotron-3-ultra-550b-a55b",
+  "money_spent_usd": 0.0,
+  "wall_seconds": 57.2
+}

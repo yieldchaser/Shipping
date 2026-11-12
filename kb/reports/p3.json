@@ -1,0 +1,4544 @@
+{
+  "phase": "P3",
+  "sample_seed": 2726325733,
+  "judge_model": "nvidia/nemotron-3-ultra-550b-a55b",
+  "money_spent_usd": 0.0,
+  "wall_seconds": 5.1,
+  "merge_audit_pairs": 300,
+  "merge_precision": 0.99,
+  "merges_with_conflicting_imo_or_cik": 0,
+  "merges_total": 305,
+  "merges_by_method": {
+    "company_exact_name": 17,
+    "judge_same": 32,
+    "splink_auto": 256
+  },
+  "audit_verdicts": {
+    "same": 297,
+    "different": 3
+  },
+  "audit_records": [
+    {
+      "a": "company:int:castor",
+      "b": "company:cik0001720161",
+      "method": "company_exact_name",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Legal suffix variant; core name identical\"}",
+      "a_name": "CASTOR MARITIME",
+      "b_name": "Castor Maritime Inc.",
+      "a_sources": [
+        "p3_counterparty"
+      ],
+      "b_sources": [
+        "p3_merge_company",
+        "p3_sec_ticker"
+      ]
+    },
+    {
+      "a": "company:int:dht",
+      "b": "company:cik0001331284",
+      "method": "company_exact_name",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Only legal suffix 'Inc.' differs; core name identical\"}",
+      "a_name": "DHT Holdings",
+      "b_name": "DHT Holdings, Inc.",
+      "a_sources": [
+        "p3_benchmark_operator"
+      ],
+      "b_sources": [
+        "p3_merge_company"
+      ]
+    },
+    {
+      "a": "company:int:diana",
+      "b": "company:cik0001318885",
+      "method": "company_exact_name",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Legal suffix variant; core name identical\"}",
+      "a_name": "Diana Shipping",
+      "b_name": "Diana Shipping Inc.",
+      "a_sources": [
+        "p3_benchmark_operator"
+      ],
+      "b_sources": [
+        "p3_sec_ticker",
+        "p3_merge_company"
+      ]
+    },
+    {
+      "a": "company:int:dorian_lpg",
+      "b": "company:cik0001596993",
+      "method": "company_exact_name",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Same core name 'Dorian LPG'; 'Ltd.' is a legal suffix variant.\"}",
+      "a_name": "DORIAN LPG",
+      "b_name": "Dorian LPG Ltd.",
+      "a_sources": [
+        "p3_counterparty"
+      ],
+      "b_sources": [
+        "p3_merge_company",
+        "p3_sec_ticker"
+      ]
+    },
+    {
+      "a": "company:int:eurodry",
+      "b": "company:cik0001731388",
+      "method": "company_exact_name",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Same core name EURODRY; Ltd. is legal suffix variant\"}",
+      "a_name": "EURODRY",
+      "b_name": "EuroDry Ltd.",
+      "a_sources": [
+        "p3_counterparty"
+      ],
+      "b_sources": [
+        "p3_sec_ticker",
+        "p3_merge_company"
+      ]
+    },
+    {
+      "a": "company:int:frontline",
+      "b": "company:cik0000913290",
+      "method": "company_exact_name",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Legal suffix 'plc' added; core name 'Frontline' identical\"}",
+      "a_name": "Frontline",
+      "b_name": "Frontline plc",
+      "a_sources": [
+        "p3_benchmark_operator"
+      ],
+      "b_sources": [
+        "p3_merge_company",
+        "p3_sec_ticker"
+      ]
+    },
+    {
+      "a": "company:int:globus",
+      "b": "company:cik0001499780",
+      "method": "company_exact_name",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Legal suffix variant; core name identical\"}",
+      "a_name": "GLOBUS MARITIME",
+      "b_name": "Globus Maritime Ltd",
+      "a_sources": [
+        "p3_counterparty"
+      ],
+      "b_sources": [
+        "p3_merge_company",
+        "p3_sec_ticker"
+      ]
+    },
+    {
+      "a": "company:int:golden_ocean",
+      "b": "company:cik0001029145",
+      "method": "company_exact_name",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Legal suffix variant; core name identical\"}",
+      "a_name": "Golden Ocean",
+      "b_name": "Golden Ocean Group Ltd",
+      "a_sources": [
+        "p3_benchmark_operator"
+      ],
+      "b_sources": [
+        "p3_merge_company",
+        "p3_sec_ticker"
+      ]
+    },
+    {
+      "a": "company:int:nordic_american",
+      "b": "company:cik0001000177",
+      "method": "company_exact_name",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Only legal suffix 'Ltd' differs; core name identical\"}",
+      "a_name": "Nordic American Tankers",
+      "b_name": "Nordic American Tankers Ltd",
+      "a_sources": [
+        "p3_benchmark_operator"
+      ],
+      "b_sources": [
+        "p3_sec_ticker",
+        "p3_merge_company"
+      ]
+    },
+    {
+      "a": "company:int:okeanis_eco",
+      "b": "company:cik0001964954",
+      "method": "company_exact_name",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Same core name; Corp. is legal suffix variant\"}",
+      "a_name": "OKEANIS ECO TANKERS",
+      "b_name": "Okeanis Eco Tankers Corp.",
+      "a_sources": [
+        "p3_counterparty"
+      ],
+      "b_sources": [
+        "p3_sec_ticker",
+        "p3_merge_company"
+      ]
+    },
+    {
+      "a": "company:int:rio_tinto",
+      "b": "company:cik0000863064",
+      "method": "company_exact_name",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Rio Tinto plc is the UK listed entity of Rio Tinto Group; same legal group.\"}",
+      "a_name": "Rio Tinto Group",
+      "b_name": "Rio Tinto plc",
+      "a_sources": [
+        "p3_benchmark_operator"
+      ],
+      "b_sources": [
+        "p3_sec_ticker",
+        "p3_merge_company"
+      ]
+    },
+    {
+      "a": "company:int:safe",
+      "b": "company:cik0001434754",
+      "method": "company_exact_name",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Legal suffix variant; core name identical\"}",
+      "a_name": "Safe Bulkers",
+      "b_name": "Safe Bulkers, Inc.",
+      "a_sources": [
+        "p3_benchmark_operator"
+      ],
+      "b_sources": [
+        "p3_merge_company",
+        "p3_sec_ticker"
+      ]
+    },
+    {
+      "a": "company:int:seanergy",
+      "b": "company:cik0001448397",
+      "method": "company_exact_name",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Legal suffix variant; core name identical\"}",
+      "a_name": "Seanergy Maritime",
+      "b_name": "Seanergy Maritime Holdings Corp.",
+      "a_sources": [
+        "p3_benchmark_operator"
+      ],
+      "b_sources": [
+        "p3_sec_ticker",
+        "p3_merge_company"
+      ]
+    },
+    {
+      "a": "company:int:seaways",
+      "b": "company:cik0001679049",
+      "method": "company_exact_name",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Legal suffix variant; core name identical\"}",
+      "a_name": "INTERNATIONAL SEAWAYS",
+      "b_name": "International Seaways, Inc.",
+      "a_sources": [
+        "p3_counterparty"
+      ],
+      "b_sources": [
+        "p3_merge_company",
+        "p3_sec_ticker"
+      ]
+    },
+    {
+      "a": "company:int:sfl",
+      "b": "company:cik0001289877",
+      "method": "company_exact_name",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Legal suffix variant; core name identical\"}",
+      "a_name": "SFL CORP",
+      "b_name": "SFL Corporation Ltd",
+      "a_sources": [
+        "p3_counterparty"
+      ],
+      "b_sources": [
+        "p3_merge_company"
+      ]
+    },
+    {
+      "a": "company:int:torm",
+      "b": "company:cik0001655891",
+      "method": "company_exact_name",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"TORM plc is legal suffix variant of Torm; registry names overlap\"}",
+      "a_name": "Torm",
+      "b_name": "TORM plc",
+      "a_sources": [
+        "p3_benchmark_operator"
+      ],
+      "b_sources": [
+        "p3_merge_company",
+        "p3_sec_ticker"
+      ]
+    },
+    {
+      "a": "company:int:tsakos_energy",
+      "b": "company:cik0001166663",
+      "method": "company_exact_name",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Legal suffix variant; core name identical\"}",
+      "a_name": "TSAKOS ENERGY NAVIGATION",
+      "b_name": "Tsakos Energy Navigation Ltd",
+      "a_sources": [
+        "p3_counterparty"
+      ],
+      "b_sources": [
+        "p3_merge_company",
+        "p3_sec_ticker"
+      ]
+    },
+    {
+      "a": "vessel:prov:1a4620b9b4790cd3",
+      "b": "vessel:imo:9694361",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, built year same, DWT diff 0.02%, IMO missing on A only\"}",
+      "a_name": "Quartz",
+      "b_name": "Quartz",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:1d5ebc72770ef10e",
+      "b": "vessel:imo:9800623",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Great Intelligence",
+      "b_name": "Great Intelligence",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:2070f725ff1c765b",
+      "b": "vessel:imo:9136058",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "FOREVER",
+      "b_name": "Forever",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:2d508bc1a5a541c4",
+      "b": "vessel:imo:9422615",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "SEA LEOPARD",
+      "b_name": "Sea Leopard",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:4359fc21bd8b5404",
+      "b": "vessel:imo:9151242",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name, DWT, built match; IMO missing on A is normal per policy\"}",
+      "a_name": "Firstec",
+      "b_name": "Firstec",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:48afbde946e49312",
+      "b": "vessel:imo:9607112",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches case-insensitively; DWT and built year identical; IMO present only on B is allowed.\"}",
+      "a_name": "BORA",
+      "b_name": "Bora",
+      "a_sources": [],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:49b8ebd7fa9eb7ec",
+      "b": "vessel:imo:9330628",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches case-insensitively; DWT and built year identical; IMO present only on B is allowed.\"}",
+      "a_name": "VELA",
+      "b_name": "Vela",
+      "a_sources": [],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:5496ddbfef10492b",
+      "b": "vessel:imo:9445655",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Golden Oak",
+      "b_name": "Golden Oak",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:6822a4dbd108799a",
+      "b": "vessel:imo:9449780",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Kefalonia",
+      "b_name": "Kefalonia",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:6ecec36ae0b96846",
+      "b": "vessel:imo:9379313",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "NEW FUTURE",
+      "b_name": "New Future",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:6efa2c660f3ea9ad",
+      "b": "vessel:imo:9437103",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches, DWT and built identical, IMO on one side only\"}",
+      "a_name": "NEW FORTUNE",
+      "b_name": "New Fortune",
+      "a_sources": [],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:6f64f8f83fdfd6ca",
+      "b": "vessel:imo:8908765",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Pine Express",
+      "b_name": "Pine Express",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:6fe4828da85fb4f5",
+      "b": "vessel:imo:9131838",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built year match, IMO missing on one side is normal\"}",
+      "a_name": "EAST PIONEER",
+      "b_name": "East Pioneer",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:762ab7f826f7b95c",
+      "b": "vessel:imo:9498860",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches, DWT and built identical, IMO only on B is normal\"}",
+      "a_name": "SHUN CHANG",
+      "b_name": "Shun Chang",
+      "a_sources": [],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:88bf31488ddf9d2f",
+      "b": "vessel:imo:9336098",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches case-insensitively; DWT and built year identical; IMO present only on B is allowed.\"}",
+      "a_name": "LAYLA",
+      "b_name": "Layla",
+      "a_sources": [],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:94aec9fbed989ece",
+      "b": "vessel:imo:9128116",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name, DWT, built match; IMO on B only is normal per policy\"}",
+      "a_name": "Maria",
+      "b_name": "Maria",
+      "a_sources": [],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:982f367a2aeea5dc",
+      "b": "vessel:imo:9192765",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name, DWT, built match; IMO missing on A is normal\"}",
+      "a_name": "Aquila",
+      "b_name": "Aquila",
+      "a_sources": [],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:aaff677684d67e49",
+      "b": "vessel:imo:9353527",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name one-letter variant, DWT/built match, IMO on one side only\"}",
+      "a_name": "Overseas Long Beac",
+      "b_name": "Overseas Long Beach",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_judge",
+        "p3_ais_name"
+      ]
+    },
+    {
+      "a": "vessel:prov:ad1af8de6a860a91",
+      "b": "vessel:imo:9258363",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "REGENCY",
+      "b_name": "Regency",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:ad9993ecfd276827",
+      "b": "vessel:imo:9655846",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches case-insensitively; DWT and built year identical; IMO present only on B is allowed.\"}",
+      "a_name": "CHINA SPIRIT",
+      "b_name": "China Spirit",
+      "a_sources": [],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:ae6c79d10f1fd410",
+      "b": "vessel:imo:9446867",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name, DWT, built match; IMO missing on A is normal\"}",
+      "a_name": "Hero",
+      "b_name": "Hero",
+      "a_sources": [],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:aeebad4a796fcc2e",
+      "b": "vessel:imo:9632947",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name, DWT, built match; IMO missing on A is normal per policy\"}",
+      "a_name": "Genesis",
+      "b_name": "Genesis",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:afc2e2cfb6315061",
+      "b": "vessel:imo:9114842",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name, DWT, built match; IMO missing on A is normal\"}",
+      "a_name": "New Smile",
+      "b_name": "New Smile",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:bb17603f1dad82c7",
+      "b": "vessel:imo:9908475",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Belmar",
+      "b_name": "Belmar",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:c34ce311989d8bf0",
+      "b": "vessel:imo:9273818",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches, DWT and built identical, IMO on one side only\"}",
+      "a_name": "TAURUS",
+      "b_name": "Taurus",
+      "a_sources": [],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:cde548de9227e23e",
+      "b": "vessel:imo:9157507",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal per policy\"}",
+      "a_name": "Rong Yuan",
+      "b_name": "Rong Yuan",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:d08e34349b278aad",
+      "b": "vessel:imo:9599391",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name, DWT, built match; IMO missing on A is normal\"}",
+      "a_name": "Zorina",
+      "b_name": "Zorina",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:e1b683e26a3aad21",
+      "b": "vessel:imo:8125703",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal per policy.\"}",
+      "a_name": "Vertex",
+      "b_name": "Vertex",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:f33d6075511dab12",
+      "b": "vessel:imo:9214329",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name match, built match, DWT diff 0.01%, IMO on one side only\"}",
+      "a_name": "DEVA",
+      "b_name": "Deva",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:f7db9e5663d861d7",
+      "b": "vessel:imo:9957608",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Aurora Borealis",
+      "b_name": "Aurora Borealis",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:ffb29103283b6b99",
+      "b": "vessel:imo:1014838",
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches case-insensitively; DWT and built identical; IMO on one side only is allowed.\"}",
+      "a_name": "WARRIOR",
+      "b_name": "Warrior",
+      "a_sources": [],
+      "b_sources": [
+        "p3_merge_judge"
+      ]
+    },
+    {
+      "a": "vessel:prov:002528ef5d483cae",
+      "b": "vessel:imo:9304124",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO on one side only\"}",
+      "a_name": "KING LOONG",
+      "b_name": "King Loong",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:019029f9ca41924b",
+      "b": "vessel:imo:9353553",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Seakay Sky",
+      "b_name": "Seakay Sky",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:01a256cdccbaf414",
+      "b": "vessel:imo:9724776",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Same name, built year; DWT diff 0.04%; IMO on one side only\"}",
+      "a_name": "Bellight",
+      "b_name": "Bellight",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:02c7110d669f8946",
+      "b": "vessel:imo:9102277",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Itaugua",
+      "b_name": "Itaugua",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:043e17f7db38e1ba",
+      "b": "vessel:imo:9392781",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Zeze Start",
+      "b_name": "Zeze Start",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:0448d3804657ae23",
+      "b": "vessel:imo:9782338",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A is normal per policy\"}",
+      "a_name": "Federal Iris",
+      "b_name": "Federal Iris",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:06f32ade7b78b9bf",
+      "b": "vessel:imo:9077903",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Wadi S",
+      "b_name": "Wadi S",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:0a378203703cac54",
+      "b": "vessel:imo:9461178",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches case-insensitively; DWT and built year identical; IMO missing on one side is not a contradiction.\"}",
+      "a_name": "KIRRIBILLI",
+      "b_name": "Kirribilli",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:0ae2bddfa8dc8714",
+      "b": "vessel:imo:9323388",
+      "method": "splink_auto",
+      "verdict": "different",
+      "reason": "{\"decision\":\"different\",\"reason\":\"Built year differs by more than 1 year\"}",
+      "a_name": "Uzava",
+      "b_name": "Uzava",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:0b537a275e8d0912",
+      "b": "vessel:imo:1043047",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Names match, built year same, DWT diff 0.33%, IMO on one side only\"}",
+      "a_name": "MOUNT HORIZON",
+      "b_name": "Mount Horizon",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:0c9589edbd3bda3f",
+      "b": "vessel:imo:9210270",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO on one side only\"}",
+      "a_name": "Isa Star",
+      "b_name": "ISA Star",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:0cb31f3bbc182896",
+      "b": "vessel:imo:9591765",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches case-insensitively; DWT and built year identical; IMO missing in A is not a contradiction.\"}",
+      "a_name": "MBA ROSARIA",
+      "b_name": "MBA Rosaria",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:0facc56a835f1a27",
+      "b": "vessel:imo:9873644",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Names match; built year same; DWT diff 1.4% <2%; IMO on one side only\"}",
+      "a_name": "GREAT EPSILON",
+      "b_name": "Great Epsilon",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:1145b39443b278e5",
+      "b": "vessel:imo:9533323",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Mandarin Noble",
+      "b_name": "Mandarin Noble",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:11f3d1cec831e10a",
+      "b": "vessel:imo:9472622",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Normalized names match; DWT and built year identical; IMO missing on one side is not a contradiction.\"}",
+      "a_name": "ADVANTAGE ATOM",
+      "b_name": "Advantage Atom",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:13bedfbb9e07398c",
+      "b": "vessel:imo:9244702",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal per policy.\"}",
+      "a_name": "FP Future",
+      "b_name": "FP Future",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:142c07f2f10439bb",
+      "b": "vessel:imo:9342841",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "AMOY SUNNY",
+      "b_name": "Amoy Sunny",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:14f3d055d6de3f16",
+      "b": "vessel:imo:9483217",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "JPS Barcelona",
+      "b_name": "JPS Barcelona",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:16a23e560101a370",
+      "b": "vessel:imo:9395991",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name, DWT, built match; IMO missing on A is normal per policy\"}",
+      "a_name": "Ayane",
+      "b_name": "Ayane",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:16fe989aaa8dbc11",
+      "b": "vessel:imo:9275335",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, built year same, DWT diff 0.07%, IMO missing on A only\"}",
+      "a_name": "ARCTIC VOYAGER",
+      "b_name": "Arctic Voyager",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:170f7991064dd874",
+      "b": "vessel:imo:9426013",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Claire Z",
+      "b_name": "Claire Z",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:178beed73a213e0e",
+      "b": "vessel:imo:9597070",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches case-insensitively; DWT and built year identical; IMO present only on B is allowed.\"}",
+      "a_name": "XIN DONG GUAN 9",
+      "b_name": "Xin Dong Guan 9",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:19b963c095dc0662",
+      "b": "vessel:imo:9125554",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Names match, built year same, DWT diff 0.06%, IMO on one side only\"}",
+      "a_name": "JIN HAI YU",
+      "b_name": "Jin Hai Yu",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:1a076906fddb92d4",
+      "b": "vessel:imo:9337339",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "LS NEPTUNE",
+      "b_name": "LS Neptune",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:1ac0b68654dccc9f",
+      "b": "vessel:imo:9180906",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name, DWT, built match; IMO missing on A is normal\"}",
+      "a_name": "Tasos",
+      "b_name": "Tasos",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:1b1f49be8e109c06",
+      "b": "vessel:imo:9756743",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Navios Felix",
+      "b_name": "Navios Felix",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:1c056fd362794a8f",
+      "b": "vessel:imo:8907577",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name variant, identical DWT/built, IMO on one side only\"}",
+      "a_name": "BR Glory",
+      "b_name": "Br Glory",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:1c15375cc87a0b71",
+      "b": "vessel:imo:9874600",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "ATLANTIC DRAGON",
+      "b_name": "Atlantic Dragon",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:1c6fd137b03cb9ad",
+      "b": "vessel:imo:9337834",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Dolphin 01",
+      "b_name": "Dolphin 01",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:1e229b5117dba34a",
+      "b": "vessel:imo:9714264",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Hupeh",
+      "b_name": "Hupeh",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:1e3860f7fd2a7432",
+      "b": "vessel:imo:9660621",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Molyvos Luck",
+      "b_name": "Molyvos Luck",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:1e682115f6ff66fe",
+      "b": "vessel:imo:9244685",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Crimson Saturn",
+      "b_name": "Crimson Saturn",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:1ee35462718437b8",
+      "b": "vessel:imo:9948023",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Same name, built year; DWT diff 0.33% <2%; IMO on one side only\"}",
+      "a_name": "Eastern Heather",
+      "b_name": "Eastern Heather",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:1fa118a4a699c343",
+      "b": "vessel:imo:9568031",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "VIRGEN DEL QUINCHE",
+      "b_name": "Virgen Del Quinche",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:202057d91889fa1c",
+      "b": "vessel:imo:9424053",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, built year same, IMO on one side only, DWT diff 1.3% <2%\"}",
+      "a_name": "BDP Spirit",
+      "b_name": "BDP Spirit",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:218f5f59d230bae9",
+      "b": "vessel:imo:9500716",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "SEEB",
+      "b_name": "Seeb",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:24a8f2fbbd149f96",
+      "b": "vessel:imo:9595620",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "C. Challenger",
+      "b_name": "C. Challenger",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:28f23d9c9bb609a7",
+      "b": "vessel:imo:8313702",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Bontrup Emirates",
+      "b_name": "Bontrup Emirates",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:2acb87c6ce1617ec",
+      "b": "vessel:imo:9159402",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal per policy\"}",
+      "a_name": "Giving",
+      "b_name": "Giving",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:2c5adcef9a75d8dc",
+      "b": "vessel:imo:9744415",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches, DWT and built year identical, IMO on one side only\"}",
+      "a_name": "HOUHENG 6",
+      "b_name": "Houheng 6",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:30e734d2852427b4",
+      "b": "vessel:imo:9323390",
+      "method": "splink_auto",
+      "verdict": "different",
+      "reason": "{\"decision\":\"different\",\"reason\":\"DWT diff 0.04% ok; built diff 1yr ok; IMO missing on A ok; but built year 2007 vs 2008 >1yr apart\"}",
+      "a_name": "Salacgriva",
+      "b_name": "Salacgriva",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:34096beb1baae1e3",
+      "b": "vessel:imo:9775854",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "ES WARRIOR",
+      "b_name": "ES Warrior",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:3500b01e6e324f7e",
+      "b": "vessel:imo:9758038",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Names match case-insensitively; DWT and built year identical; IMO missing on one side is not a contradiction.\"}",
+      "a_name": "BOW GLORY",
+      "b_name": "Bow Glory",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:35150089435a7a21",
+      "b": "vessel:imo:9402926",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "MARAN POSEIDON",
+      "b_name": "Maran Poseidon",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:3558c5f75a7ff880",
+      "b": "vessel:imo:9353565",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Overseas Boston",
+      "b_name": "Overseas Boston",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:359af2574a58466a",
+      "b": "vessel:imo:9916123",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "KATHERINE LADY",
+      "b_name": "Katherine Lady",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:3682180696d36d58",
+      "b": "vessel:imo:8918215",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Grouse Arrow",
+      "b_name": "Grouse Arrow",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:36a66c67ba161c72",
+      "b": "vessel:imo:9231303",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "TARIEL",
+      "b_name": "Tariel",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:36cba42e73d39a9b",
+      "b": "vessel:imo:9814143",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "High Navigator",
+      "b_name": "High Navigator",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:36ed59c6cc925268",
+      "b": "vessel:imo:8914726",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Daytona Dynamic",
+      "b_name": "Daytona Dynamic",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:37e20fe5fcc7cf03",
+      "b": "vessel:imo:9380518",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "LEON WISDOM",
+      "b_name": "Leon Wisdom",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:38987f03513c36fe",
+      "b": "vessel:imo:9533347",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Names identical, built year same, DWT diff 0.19% <2%, IMO on one side only\"}",
+      "a_name": "Mandarin Phoenix",
+      "b_name": "Mandarin Phoenix",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:39ce23b1f30c70e4",
+      "b": "vessel:imo:9738052",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Konkar Venture",
+      "b_name": "Konkar Venture",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:3a39eccf21385bd2",
+      "b": "vessel:imo:9568598",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches case-insensitively; DWT and built identical; IMO missing on A is not a contradiction.\"}",
+      "a_name": "MBA GIOVANNI",
+      "b_name": "MBA Giovanni",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:3a6a5a10f4b39b4c",
+      "b": "vessel:imo:9114232",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Bow Faith",
+      "b_name": "Bow Faith",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:3a9090c0bd0db00c",
+      "b": "vessel:imo:9638147",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Names match case-insensitively; DWT and built year identical; IMO missing in A is not a contradiction.\"}",
+      "a_name": "WOOYANG CLES",
+      "b_name": "Wooyang Cles",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:3bcdde62f0014811",
+      "b": "vessel:imo:9145970",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name, DWT, built match; IMO missing in A is normal per policy\"}",
+      "a_name": "Uniorder",
+      "b_name": "Uniorder",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:3d2bb1c7a8824bf3",
+      "b": "vessel:imo:9122590",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Berge Fuji",
+      "b_name": "Berge Fuji",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:3e4afbc83111262f",
+      "b": "vessel:imo:9333761",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT/built match, IMO missing on A only\"}",
+      "a_name": "KUMANO",
+      "b_name": "Kumano",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:3fb40e009c3a47ad",
+      "b": "vessel:imo:9829629",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Dijilah",
+      "b_name": "Dijilah",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:41ac8a4b367c7c29",
+      "b": "vessel:imo:9432048",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "VENDAVEL",
+      "b_name": "Vendavel",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:434fe2dcfbb74b24",
+      "b": "vessel:imo:9105085",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "CONTRACT II",
+      "b_name": "Contract II",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:451dd1769e0165e8",
+      "b": "vessel:imo:9950442",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Names match case-insensitively; DWT and built year identical; IMO missing in A is not a contradiction.\"}",
+      "a_name": "MH SANDEFJORD",
+      "b_name": "MH Sandefjord",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:4539392f66f3f17e",
+      "b": "vessel:imo:9247209",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "ROSE GAS",
+      "b_name": "Rose Gas",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:4588535aebdf0ab2",
+      "b": "vessel:imo:9744398",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "HOUHENG 5",
+      "b_name": "Houheng 5",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:4637d1116d5986f3",
+      "b": "vessel:imo:9488970",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Magnum Fortune",
+      "b_name": "Magnum Fortune",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:49974d4df34433d6",
+      "b": "vessel:imo:9147423",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Long Hu",
+      "b_name": "Long Hu",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:4aca340a5374b5b2",
+      "b": "vessel:imo:9669615",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Melbourne Spirit",
+      "b_name": "Melbourne Spirit",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:4b3c5bc01b55bb76",
+      "b": "vessel:imo:9389851",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Gulf Coral",
+      "b_name": "Gulf Coral",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:4b62367e259e3a3a",
+      "b": "vessel:imo:9643207",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches, DWT and built year identical, IMO missing on one side is normal\"}",
+      "a_name": "OBE LOTUS",
+      "b_name": "Obe Lotus",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:4d68b0418bcadd7c",
+      "b": "vessel:imo:9044035",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Leena",
+      "b_name": "Leena",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:4dbd7b1e7fd32985",
+      "b": "vessel:imo:9175327",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal per policy.\"}",
+      "a_name": "Dong Jiang You",
+      "b_name": "Dong Jiang You",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:4f8ef5092a657183",
+      "b": "vessel:imo:9576909",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "DL Amber",
+      "b_name": "DL Amber",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:503b975e6a624510",
+      "b": "vessel:imo:9110913",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, built year same, IMO on one side only, DWT diff 0.6% <2%\"}",
+      "a_name": "Abraham M",
+      "b_name": "Abraham M",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:5340414648eba427",
+      "b": "vessel:imo:9060247",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Serenity 1",
+      "b_name": "Serenity 1",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:5358fe9bfff27898",
+      "b": "vessel:imo:9829459",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side allowed\"}",
+      "a_name": "PS SYDNEY",
+      "b_name": "PS Sydney",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:53c2ca8103eb3c14",
+      "b": "vessel:imo:9496238",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Normalized names match; DWT and built year identical; missing IMO not contradiction\"}",
+      "a_name": "NAVIOS CHRISTINE B",
+      "b_name": "Navios Christine B",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:53d99111c08ab503",
+      "b": "vessel:imo:9500807",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name, DWT, built match; IMO missing on A is normal\"}",
+      "a_name": "Gruaud Larose",
+      "b_name": "Gruaud Larose",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:54d2074ab9068a42",
+      "b": "vessel:imo:9592068",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "CK VENTURE",
+      "b_name": "CK Venture",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:556bdc49c28392e6",
+      "b": "vessel:imo:8804555",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches, DWT and built identical, IMO on one side only\"}",
+      "a_name": "GREEN BODO",
+      "b_name": "Green Bodo",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:56c4801edfd02bb4",
+      "b": "vessel:imo:9561899",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Oceanic Island",
+      "b_name": "Oceanic Island",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:58cc2dcb7e1c5054",
+      "b": "vessel:imo:9829655",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Kirkuk",
+      "b_name": "Kirkuk",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:5b2ded0163776887",
+      "b": "vessel:imo:9122679",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Vistar",
+      "b_name": "Vistar",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:5c7fd4dd95f22e7b",
+      "b": "vessel:imo:9389526",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "HENNING MAERSK",
+      "b_name": "Henning Maersk",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:5f675a68f57af9eb",
+      "b": "vessel:imo:9241657",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name, DWT, built match; IMO missing on A is normal\"}",
+      "a_name": "Agia Trias",
+      "b_name": "Agia Trias",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:5fc344a45bec6222",
+      "b": "vessel:imo:9393632",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches, DWT and built year identical, IMO missing on one side is normal\"}",
+      "a_name": "LUCKY VOYAGER",
+      "b_name": "Lucky Voyager",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:5ff6b46252a7e16c",
+      "b": "vessel:imo:9569243",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Mandarin China",
+      "b_name": "Mandarin China",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:6069bd9bc910dd26",
+      "b": "vessel:imo:9186716",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A is normal per policy.\"}",
+      "a_name": "Hai Heng",
+      "b_name": "Hai Heng",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:61a32aaecb5777fe",
+      "b": "vessel:imo:9449417",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "KS Clover",
+      "b_name": "KS Clover",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:61bd53d1a87d7a37",
+      "b": "vessel:imo:9596260",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "PYXIS KARTERIA",
+      "b_name": "Pyxis Karteria",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:61f2a8ab4af7f274",
+      "b": "vessel:imo:9543768",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, built year same, DWT diff 0.05%, IMO missing on A only\"}",
+      "a_name": "DESERT SPRING",
+      "b_name": "Desert Spring",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:6223f5ed4247ded0",
+      "b": "vessel:imo:9456135",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Taurus Honor",
+      "b_name": "Taurus Honor",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:624f1f3f2c12afb0",
+      "b": "vessel:imo:9747895",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "True Patriot",
+      "b_name": "True Patriot",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:63219b962d8cf81a",
+      "b": "vessel:imo:9533335",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Mandarin River",
+      "b_name": "Mandarin River",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:63baab5254a247c5",
+      "b": "vessel:imo:8912522",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on A only\"}",
+      "a_name": "Run Fu 7",
+      "b_name": "Run Fu 7",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:64aee3ff5e895156",
+      "b": "vessel:imo:9338917",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches, DWT and built year identical, IMO missing on one side is normal\"}",
+      "a_name": "AEGEAN HARMONY",
+      "b_name": "Aegean Harmony",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:687670c538b895f7",
+      "b": "vessel:imo:9284544",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "SSI Avenger",
+      "b_name": "SSI Avenger",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:69c3ac0c5860b79d",
+      "b": "vessel:imo:9364796",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Sea Aquarius",
+      "b_name": "Sea Aquarius",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:69d34d8a8017803b",
+      "b": "vessel:imo:9265500",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Dukhan",
+      "b_name": "Dukhan",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:6b20cd8ba12f3946",
+      "b": "vessel:imo:9266449",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches case-insensitively; DWT and built year identical; IMO missing on one side is not a contradiction.\"}",
+      "a_name": "HV ALICE",
+      "b_name": "HV Alice",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:6be41bff35a341ca",
+      "b": "vessel:imo:9638434",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Belle Plaine",
+      "b_name": "Belle Plaine",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:6ce59fdd522a354b",
+      "b": "vessel:imo:9244659",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Alaskan Frontier",
+      "b_name": "Alaskan Frontier",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:6cebde1d27bc5ba0",
+      "b": "vessel:imo:9486908",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "VIENNA WOOD",
+      "b_name": "Vienna Wood",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:6cf3e50214abf7bc",
+      "b": "vessel:imo:1150345",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Names match case-insensitively; DWT and built identical; IMO on one side only is allowed.\"}",
+      "a_name": "SAMSUNG 2764",
+      "b_name": "Samsung 2764",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:6ddc1c2c7026096e",
+      "b": "vessel:imo:9100205",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Guo Yuan 9",
+      "b_name": "Guo Yuan 9",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:6de04fc7ec22c4b4",
+      "b": "vessel:imo:9094418",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal per policy.\"}",
+      "a_name": "Xin Run 66",
+      "b_name": "Xin Run 66",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:6ebe04a216030748",
+      "b": "vessel:imo:8794176",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "SHUN SHIN",
+      "b_name": "Shun Shin",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:6eef1840d8bc9774",
+      "b": "vessel:imo:9403176",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name, DWT, built match; IMO missing on A is normal\"}",
+      "a_name": "Carmencita",
+      "b_name": "Carmencita",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:7077c4d2d32c1959",
+      "b": "vessel:imo:9363625",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "DUBAI KNIGHT",
+      "b_name": "Dubai Knight",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:709fa79b61279a3b",
+      "b": "vessel:imo:9000302",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "My Meray",
+      "b_name": "My Meray",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:710b94dd242cae24",
+      "b": "vessel:imo:9513751",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "PHOENIX VIGOR",
+      "b_name": "Phoenix Vigor",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:71e07b65f83cdf12",
+      "b": "vessel:imo:9113991",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal per policy\"}",
+      "a_name": "Sinar Tarakan",
+      "b_name": "Sinar Tarakan",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:721583f99368fd12",
+      "b": "vessel:imo:9451044",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "ANGLO ALEXANDRIA",
+      "b_name": "Anglo Alexandria",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:72bc3b0c81cecdce",
+      "b": "vessel:imo:9438779",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Ianthe",
+      "b_name": "Ianthe",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:753638312f344f94",
+      "b": "vessel:imo:9788435",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A is normal per policy\"}",
+      "a_name": "High Adventurer",
+      "b_name": "High Adventurer",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:7758beec7886279f",
+      "b": "vessel:imo:9491666",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO only on one side\"}",
+      "a_name": "EFFICIENCY OL",
+      "b_name": "Efficiency OL",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:778f63c524a25d5d",
+      "b": "vessel:imo:9228801",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "ULUC KA",
+      "b_name": "Uluc Ka",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:79cd36756f0f26ad",
+      "b": "vessel:imo:9189952",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "EM UNITY",
+      "b_name": "EM Unity",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:7bf2a702dde7069f",
+      "b": "vessel:imo:8819304",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "GREEN FREEZER",
+      "b_name": "Green Freezer",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:7ce44a8d83fbb82e",
+      "b": "vessel:imo:9697909",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Dee4 Larch",
+      "b_name": "Dee4 Larch",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:7cf5585c0549abc7",
+      "b": "vessel:imo:9724453",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side allowed\"}",
+      "a_name": "DAMSGAARD",
+      "b_name": "Damsgaard",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:7e6691e4018b8b93",
+      "b": "vessel:imo:9165504",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Lady Cedros",
+      "b_name": "Lady Cedros",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:7ea36e16f1d3ad49",
+      "b": "vessel:imo:9950430",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name variant, identical DWT/built, IMO on one side only\"}",
+      "a_name": "MH Oslo",
+      "b_name": "Mh Oslo",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:7ee9757fe856d858",
+      "b": "vessel:imo:9215036",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches case-insensitively; DWT and built year identical; IMO missing on one side is not a contradiction.\"}",
+      "a_name": "GRAFF",
+      "b_name": "Graff",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:7f5bf92f18847c3f",
+      "b": "vessel:imo:9429182",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches, DWT and built year identical, IMO missing on one side is normal\"}",
+      "a_name": "BLUE PRINCE",
+      "b_name": "Blue Prince",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:820b7e5e6ba8d4ca",
+      "b": "vessel:imo:9380893",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "SUEZ PROTOPIA",
+      "b_name": "Suez Protopia",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:8263e2335c78989f",
+      "b": "vessel:imo:9846990",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Normalized names identical; DWT and built year match; IMO missing on one side is not a contradiction.\"}",
+      "a_name": "JM SUTERA 8",
+      "b_name": "JM Sutera 8",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:8269c7cead253969",
+      "b": "vessel:imo:9426128",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Solar Africa",
+      "b_name": "Solar Africa",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:86f846081ed24630",
+      "b": "vessel:imo:9722467",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "ICY BAY",
+      "b_name": "Icy Bay",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:872fa88ad8d93c5e",
+      "b": "vessel:imo:9576727",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "TEAM VIEW",
+      "b_name": "Team View",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:89142a09be44de52",
+      "b": "vessel:imo:9333656",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Ice Fighter",
+      "b_name": "Ice Fighter",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:893fd62ebdde3229",
+      "b": "vessel:imo:9324100",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "VADIN",
+      "b_name": "Vadin",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:89623921737742a9",
+      "b": "vessel:imo:9125360",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name, DWT, built match; IMO missing on A is normal per policy\"}",
+      "a_name": "Charlene",
+      "b_name": "Charlene",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:898e2f4f7b783fdc",
+      "b": "vessel:imo:9128817",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name, DWT, built match; IMO missing on A is normal per policy\"}",
+      "a_name": "APJ Mahakali",
+      "b_name": "APJ Mahakali",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:899b21ec4aaf03c6",
+      "b": "vessel:imo:9584102",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Names match case-insensitively; DWT and built year identical; IMO missing in A is not a contradiction.\"}",
+      "a_name": "KAMOME VICTORIA",
+      "b_name": "Kamome Victoria",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:89c358736a29273b",
+      "b": "vessel:imo:9473432",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Maple Fortune",
+      "b_name": "Maple Fortune",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:8a476ea4efa3d0c9",
+      "b": "vessel:imo:9167368",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal per policy\"}",
+      "a_name": "Best Unity",
+      "b_name": "Best Unity",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:8a84e406c08ac959",
+      "b": "vessel:imo:9281853",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT/built match, IMO missing on A only\"}",
+      "a_name": "ROUTE",
+      "b_name": "Route",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:8be1d922d09bab08",
+      "b": "vessel:imo:9416733",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal per policy.\"}",
+      "a_name": "Fraternity",
+      "b_name": "Fraternity",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:8d950c79da2f4015",
+      "b": "vessel:imo:9119000",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Normalized names match; DWT and built year identical; IMO on one side only is normal.\"}",
+      "a_name": "ARK PROGRESS",
+      "b_name": "Ark. Progress",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:8f5976e550a71fd6",
+      "b": "vessel:imo:9740067",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches, DWT and built identical, IMO missing on one side allowed\"}",
+      "a_name": "OCEAN TIANBAO",
+      "b_name": "Ocean Tianbao",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:90300dad829f14c0",
+      "b": "vessel:imo:9500819",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal per policy\"}",
+      "a_name": "Lascombes",
+      "b_name": "Lascombes",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:907522c05a86d9ef",
+      "b": "vessel:imo:9353577",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Overseas Nikiski",
+      "b_name": "Overseas Nikiski",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:909aca8ccc05c97e",
+      "b": "vessel:imo:9346483",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side allowed\"}",
+      "a_name": "SINAR BUSAN",
+      "b_name": "Sinar Busan",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:915edef87e0d89d5",
+      "b": "vessel:imo:9490492",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Names match, built year same, DWT diff 0.05%, IMO missing on A only\"}",
+      "a_name": "ANGLO MARIE LOUISE",
+      "b_name": "Anglo Marie Louise",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:919d2d822e1e1958",
+      "b": "vessel:imo:9271341",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Names match; built year same; DWT diff 0.03%; IMO on one side only\"}",
+      "a_name": "OLYMPIC FLAG",
+      "b_name": "Olympic Flag",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:91d596fe432101ac",
+      "b": "vessel:imo:9370367",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "OBE DINARES",
+      "b_name": "Obe Dinares",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:952d7d3ca1f0d7b5",
+      "b": "vessel:imo:9307798",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches, DWT and built year identical, IMO missing on one side is normal\"}",
+      "a_name": "TORM VENTURE",
+      "b_name": "Torm Venture",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:964451004bc7ca87",
+      "b": "vessel:imo:9336878",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches, DWT and built identical, IMO missing on one side allowed\"}",
+      "a_name": "ROSCO POPLAR",
+      "b_name": "Rosco Poplar",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:97c354d702fcb151",
+      "b": "vessel:imo:9515292",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, built year same, DWT diff 0.01%, IMO on one side only\"}",
+      "a_name": "DS Cougar",
+      "b_name": "DS Cougar",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:97dc70d51dd67ff1",
+      "b": "vessel:imo:9320740",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "BW BIRCH",
+      "b_name": "BW Birch",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:9b42816cca7fc167",
+      "b": "vessel:imo:1015143",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches, DWT and built year identical, IMO on one side only is normal\"}",
+      "a_name": "ZY JUHE",
+      "b_name": "Zy Juhe",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:9b9f7060d3290054",
+      "b": "vessel:imo:9624615",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT/built match, IMO missing on one side allowed\"}",
+      "a_name": "FUGA",
+      "b_name": "Fuga",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:9bd508ef89da1ffb",
+      "b": "vessel:imo:9682344",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Silver Monika",
+      "b_name": "Silver Monika",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:9e299e6fbe282d23",
+      "b": "vessel:imo:9569968",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Mandarin Singapore",
+      "b_name": "Mandarin Singapore",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:9e8d906b9ab9392a",
+      "b": "vessel:imo:9221229",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT/built match, IMO missing on one side allowed\"}",
+      "a_name": "VENIA",
+      "b_name": "Venia",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:a4bb139b217edc5b",
+      "b": "vessel:imo:8917807",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Normalized names match; DWT and built year identical; IMO missing on one side is not a contradiction.\"}",
+      "a_name": "DOUBLE IN",
+      "b_name": "Double In",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:a531a7c3becb836e",
+      "b": "vessel:imo:9221865",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches, DWT and built year identical, IMO missing on one side is normal\"}",
+      "a_name": "BAO NENG 16",
+      "b_name": "Bao Neng 16",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:a5db42773d70ab2d",
+      "b": "vessel:imo:9721891",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Sunny Apatite",
+      "b_name": "Sunny Apatite",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:a62856a7a778ad01",
+      "b": "vessel:imo:9696254",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "High Trust",
+      "b_name": "High Trust",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:a68a2788fd14326f",
+      "b": "vessel:imo:9490480",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, built year same, DWT diff 0.001%, IMO on one side only\"}",
+      "a_name": "ANGLO JESSICA",
+      "b_name": "Anglo Jessica",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:a92710e00dd445cf",
+      "b": "vessel:imo:9597056",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches, DWT and built identical, IMO missing on one side only\"}",
+      "a_name": "XIN DONG GUAN 7",
+      "b_name": "Xin Dong Guan 7",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:a93dc73914b8306b",
+      "b": "vessel:imo:9043732",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal per policy.\"}",
+      "a_name": "Medelin Master",
+      "b_name": "Medelin Master",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:aa400341fc1fede0",
+      "b": "vessel:imo:1080916",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Names match case-insensitively; DWT and built year identical; IMO missing in A is not a contradiction.\"}",
+      "a_name": "GOLDEN POPLAR",
+      "b_name": "Golden Poplar",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:aaf7bf3355c98f53",
+      "b": "vessel:imo:9240122",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches, DWT and built year identical, IMO missing on one side is normal\"}",
+      "a_name": "ORINDA",
+      "b_name": "Orinda",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:abb7e11b13921216",
+      "b": "vessel:imo:9496226",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "NAVIOS CELESTIAL",
+      "b_name": "Navios Celestial",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:ad67ec76ea92f9a3",
+      "b": "vessel:imo:9411965",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "KALLISTA",
+      "b_name": "Kallista",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:aeb92b2e070a68f9",
+      "b": "vessel:imo:9686766",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Names match case-insensitively; built year identical; DWT diff 0.3% <2%; IMO only on B is normal.\"}",
+      "a_name": "STI GRAMERCY",
+      "b_name": "STI Gramercy",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:b698ef4c36f98ee0",
+      "b": "vessel:imo:9700926",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side allowed\"}",
+      "a_name": "IVS KESTREL",
+      "b_name": "IVS Kestrel",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:b902eb574612f734",
+      "b": "vessel:imo:9814155",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "High Leader",
+      "b_name": "High Leader",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:b93e46503cb94833",
+      "b": "vessel:imo:9522178",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "DS VISION",
+      "b_name": "DS Vision",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:babc46e9ed3d6bdc",
+      "b": "vessel:imo:9527075",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Fairchem Kiso",
+      "b_name": "Fairchem Kiso",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:bad4924af6bcaf5a",
+      "b": "vessel:imo:9708265",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Stellar Alazani",
+      "b_name": "Stellar Alazani",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:bb6ad4ab904e00e9",
+      "b": "vessel:imo:9806342",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A is normal per policy\"}",
+      "a_name": "Gold Oak",
+      "b_name": "Gold Oak",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:bc4b55a79e780634",
+      "b": "vessel:imo:9343845",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches case-insensitively; DWT and built year identical; IMO missing on one side is not a contradiction.\"}",
+      "a_name": "KYZIKOS",
+      "b_name": "Kyzikos",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:bca1a9ba9e5dd671",
+      "b": "vessel:imo:9346952",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "ASHOKA",
+      "b_name": "Ashoka",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:bcc7f265ad451bdf",
+      "b": "vessel:imo:9114490",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "YA HUSSEIN",
+      "b_name": "Ya Hussein",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:be423db88e6d9b95",
+      "b": "vessel:imo:9326873",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches case-insensitively; DWT and built year identical; IMO missing on one side is not a contradiction.\"}",
+      "a_name": "ALBARO",
+      "b_name": "Albaro",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:be700770b11a6da5",
+      "b": "vessel:imo:9594858",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "EAGLE SAN PEDRO",
+      "b_name": "Eagle San Pedro",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:c0159d20f8ce5fec",
+      "b": "vessel:imo:9554042",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches case-insensitively; DWT and built year identical; IMO present only on B is allowed.\"}",
+      "a_name": "ASL ILEANA",
+      "b_name": "ASL Ileana",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:c02966df652e53f3",
+      "b": "vessel:imo:9490844",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Names match, built year same, DWT diff 0.03%, IMO on one side only\"}",
+      "a_name": "SPAR CAPELLA",
+      "b_name": "Spar Capella",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:c12b723fe59816eb",
+      "b": "vessel:imo:9431381",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, built year same, DWT diff 0.001%, IMO missing on A only\"}",
+      "a_name": "Afra Rossi",
+      "b_name": "Afra Rossi",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:c41845f5e8ee6b07",
+      "b": "vessel:imo:9623570",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches, DWT and built year identical, IMO missing on one side is normal\"}",
+      "a_name": "WILLIAM OLDENDORFF",
+      "b_name": "William Oldendorff",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:c48daef993fcb9a1",
+      "b": "vessel:imo:9743265",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "New Orleans",
+      "b_name": "New Orleans",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:c4f91a6ab9df1887",
+      "b": "vessel:imo:9478951",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Normalized names match; DWT and built year identical; IMO missing on one side is not a contradiction.\"}",
+      "a_name": "BULK MANARA",
+      "b_name": "Bulk Manara",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:c795454eda2a98a1",
+      "b": "vessel:imo:9078763",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal per policy.\"}",
+      "a_name": "V. L. 15",
+      "b_name": "V. L. 15",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:c81ee510b979e600",
+      "b": "vessel:imo:9258105",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Normalized names match; DWT and built year identical; IMO missing on one side is not a contradiction.\"}",
+      "a_name": "ZEUS ONE",
+      "b_name": "Zeus One",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:c85233a02fb3bca1",
+      "b": "vessel:imo:9350290",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Normalized names identical, DWT and built year match, IMO missing on one side is normal\"}",
+      "a_name": "BW LOYALTY",
+      "b_name": "BW Loyalty",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:c8e6ce4091033d2c",
+      "b": "vessel:imo:9817511",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal per policy\"}",
+      "a_name": "Victoria T",
+      "b_name": "Victoria T",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:c90efb0ee89978df",
+      "b": "vessel:imo:9707273",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT/built match, IMO missing on A only\"}",
+      "a_name": "STI QUEENS",
+      "b_name": "STI Queens",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:c95e32ca37bc891e",
+      "b": "vessel:imo:9258002",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Kazan",
+      "b_name": "Kazan",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:ca549a2a9034b003",
+      "b": "vessel:imo:1016795",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Normalized names match; DWT and built year identical; IMO on one side only is not a contradiction.\"}",
+      "a_name": "DELMAX66",
+      "b_name": "Delmax66",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:cbaceb3cfdad483a",
+      "b": "vessel:imo:9337511",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "LEON GRACE",
+      "b_name": "Leon Grace",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:cbdd772d0781eeca",
+      "b": "vessel:imo:1015337",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Same name, built year; IMO on one side only; DWT diff 0.3% < 2%\"}",
+      "a_name": "Century Zhengzhou",
+      "b_name": "Century Zhengzhou",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:d0f2470dd7031bb6",
+      "b": "vessel:imo:9347188",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "OTSL ATHENA",
+      "b_name": "Otsl Athena",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:d134024803d0b67d",
+      "b": "vessel:imo:9706839",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches case-insensitively; DWT and built year identical; IMO missing on one side is not a contradiction.\"}",
+      "a_name": "STI BRONX",
+      "b_name": "STI Bronx",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:d1cc2fb82ad0a578",
+      "b": "vessel:imo:9537551",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Names match case-insensitively; DWT and built year identical; IMO missing in A is not a contradiction.\"}",
+      "a_name": "HL SAMARINDA",
+      "b_name": "HL Samarinda",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:d1cffd09e63db44a",
+      "b": "vessel:imo:9901790",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Theresa Pride",
+      "b_name": "Theresa Pride",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:d2371d0160356325",
+      "b": "vessel:imo:9116280",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Run Fu 6",
+      "b_name": "Run Fu 6",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:d38cf1e0c770930d",
+      "b": "vessel:imo:9213416",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, built year same, DWT diff 0.34%, IMO on one side only\"}",
+      "a_name": "Trader III",
+      "b_name": "Trader III",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:d472cc45d57cbdc9",
+      "b": "vessel:imo:9410167",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Lan May",
+      "b_name": "Lan May",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:d523d77885ea1a72",
+      "b": "vessel:imo:9472751",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal per policy.\"}",
+      "a_name": "Orwell",
+      "b_name": "Orwell",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:d5779dec8dc56a77",
+      "b": "vessel:imo:9646429",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, built same, DWT within 2%, IMO on one side only\"}",
+      "a_name": "GLORIEUSE",
+      "b_name": "Glorieuse",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:d62e3a11231665e2",
+      "b": "vessel:imo:9422809",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Names match case-insensitively; DWT and built year identical; IMO missing in A is normal per policy.\"}",
+      "a_name": "ANGELIC ANNA",
+      "b_name": "Angelic Anna",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:d639ef36bea6e219",
+      "b": "vessel:imo:9115092",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name, DWT, built match; IMO missing on A is normal per policy\"}",
+      "a_name": "Andulus 1",
+      "b_name": "Andulus 1",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:d75b98e160527c3d",
+      "b": "vessel:imo:9659828",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "HC WISDOM",
+      "b_name": "HC Wisdom",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:d7d30d522aeb7592",
+      "b": "vessel:imo:9104457",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "GNS Hope",
+      "b_name": "GNS Hope",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:d808d738d8c72840",
+      "b": "vessel:imo:9070785",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Shun Da Fa Zhan",
+      "b_name": "Shun Da Fa Zhan",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:d963ee49adc55b69",
+      "b": "vessel:imo:9389514",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Names match, built year same, DWT diff 0.14%, IMO missing on A only\"}",
+      "a_name": "HELENE MAERSK",
+      "b_name": "Helene Maersk",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:db7348f7636af847",
+      "b": "vessel:imo:9359595",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Normalized names identical, DWT and built year match, IMO missing on one side is normal\"}",
+      "a_name": "K ONSET",
+      "b_name": "K Onset",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:dc213e83e08e3155",
+      "b": "vessel:imo:9309514",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "G Harmony",
+      "b_name": "G Harmony",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:dcaa0b95ec251b9d",
+      "b": "vessel:imo:9358321",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Names identical, built year same, DWT diff 0.006%, IMO missing on A only\"}",
+      "a_name": "Hansa Oslo",
+      "b_name": "Hansa Oslo",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:dea2f2eca60cdd36",
+      "b": "vessel:imo:9074822",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Asian Enterprise",
+      "b_name": "Asian Enterprise",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:e158b632547b120e",
+      "b": "vessel:imo:9157416",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Maestro 1",
+      "b_name": "Maestro 1",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:e1d20456188045e9",
+      "b": "vessel:imo:9282912",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Aframax Riviera",
+      "b_name": "Aframax Riviera",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:e2c1da5416f58409",
+      "b": "vessel:imo:9106728",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal per policy.\"}",
+      "a_name": "Lumoso Permai",
+      "b_name": "Lumoso Permai",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:e46e6ff75a406a96",
+      "b": "vessel:imo:9123831",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "SUN GOLD",
+      "b_name": "Sun Gold",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:e6ed2cb62a173de8",
+      "b": "vessel:imo:9666974",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches case-insensitively; DWT and built year identical; IMO missing on one side is not a contradiction.\"}",
+      "a_name": "SURVILLE",
+      "b_name": "Surville",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:e7c624125aea8391",
+      "b": "vessel:imo:9519688",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Normalized names match; DWT and built year identical; IMO missing on one side is not a contradiction.\"}",
+      "a_name": "DL LILY",
+      "b_name": "Dl Lily",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:e926f2693f3f22e2",
+      "b": "vessel:imo:9272199",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches, DWT and built year identical, IMO missing on one side is normal\"}",
+      "a_name": "WINFORT",
+      "b_name": "Winfort",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:e9f2f9bb596dae6c",
+      "b": "vessel:imo:9667942",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Normalized names identical; DWT and built year match; IMO missing on one side is not a contradiction.\"}",
+      "a_name": "ARDMORE ENDEAVOUR",
+      "b_name": "Ardmore Endeavour",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:eb339b4977d074c7",
+      "b": "vessel:imo:9105035",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A is normal per policy\"}",
+      "a_name": "Mandarin Arrow",
+      "b_name": "Mandarin Arrow",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:eb41e8cb3d9f669d",
+      "b": "vessel:imo:9255490",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name, DWT, built match; IMO missing on A is normal\"}",
+      "a_name": "Searay",
+      "b_name": "Searay",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:eb746ddc579231ce",
+      "b": "vessel:imo:9482108",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches, DWT and built identical, IMO missing on one side only\"}",
+      "a_name": "IPSEA COLOSSUS",
+      "b_name": "Ipsea Colossus",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:ebc95b062459df73",
+      "b": "vessel:imo:9689574",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A is normal per policy\"}",
+      "a_name": "Nordic Merchants",
+      "b_name": "Nordic Merchants",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:ebd3141bbb1da6ef",
+      "b": "vessel:imo:8804567",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal per policy.\"}",
+      "a_name": "Green Egersund",
+      "b_name": "Green Egersund",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:eca78ff974bd8b30",
+      "b": "vessel:imo:9642227",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches, DWT and built year identical, IMO missing on one side is normal\"}",
+      "a_name": "BULK GUATEMALA",
+      "b_name": "Bulk Guatemala",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:edb966f80a8bed0a",
+      "b": "vessel:imo:9682356",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A is normal per policy\"}",
+      "a_name": "Silver Emily",
+      "b_name": "Silver Emily",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:ee0b13d6832c6797",
+      "b": "vessel:imo:9597044",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches, DWT and built year identical, IMO missing on one side is normal\"}",
+      "a_name": "XIN DONG GUAN 1",
+      "b_name": "Xin Dong Guan 1",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:ee9f1a511ad98f52",
+      "b": "vessel:imo:9512135",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "SEA CRYSTAL",
+      "b_name": "Sea Crystal",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:f150a8b94d8c6109",
+      "b": "vessel:imo:9691644",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "UNION TAYLOR",
+      "b_name": "Union Taylor",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:f1599686fc392b8b",
+      "b": "vessel:imo:9607526",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Same name, built year; DWT diff 0.19% <2%; IMO on one side only\"}",
+      "a_name": "Yu Ru",
+      "b_name": "Yu Ru",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:f170bda05d910744",
+      "b": "vessel:imo:9701255",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Names match case-insensitively; DWT and built year identical; IMO missing on one side is not a contradiction.\"}",
+      "a_name": "AFRICAN OWL",
+      "b_name": "African Owl",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:f38239aeac02d55d",
+      "b": "vessel:imo:9320831",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "ALRAYA",
+      "b_name": "Alraya",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:f42ffee20339c9ed",
+      "b": "vessel:imo:9607734",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Raffles Harmony",
+      "b_name": "Raffles Harmony",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:f484d71c211b89c3",
+      "b": "vessel:imo:9707584",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO only on one side\"}",
+      "a_name": "PEACEFUL SEAS",
+      "b_name": "Peaceful Seas",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:f5776bc18ff6725f",
+      "b": "vessel:imo:9486570",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, built year same, DWT diff 0.003%, IMO missing on A only\"}",
+      "a_name": "ZBB Serenity",
+      "b_name": "ZBB Serenity",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:f6a3e5134e1014d2",
+      "b": "vessel:imo:8202525",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Sea Dove",
+      "b_name": "Sea Dove",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:f700c563e24a9750",
+      "b": "vessel:imo:9353591",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Overseas Anacortes",
+      "b_name": "Overseas Anacortes",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:f76db2e278da6efb",
+      "b": "vessel:imo:1043035",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Names match case-insensitively; DWT and built year identical; IMO missing on one side is not a contradiction.\"}",
+      "a_name": "MOUNT VISION",
+      "b_name": "Mount Vision",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:f86711bed75f00c5",
+      "b": "vessel:imo:9107679",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a_name": "ONE VICTORY",
+      "b_name": "One Victory",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:f916acf65abaad5f",
+      "b": "vessel:imo:9603300",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Normalized names match; DWT and built year identical; IMO missing on one side is not a contradiction.\"}",
+      "a_name": "DENSA PELICAN",
+      "b_name": "Densa Pelican",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:f92012687660f629",
+      "b": "vessel:imo:9351062",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Overseas Houston",
+      "b_name": "Overseas Houston",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:fa20b66717ffd7a1",
+      "b": "vessel:imo:9161687",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Al Sama",
+      "b_name": "Al Sama",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:faaacccab0c82b3b",
+      "b": "vessel:imo:9658240",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches, DWT and built year identical, IMO missing on one side is normal\"}",
+      "a_name": "MARAN GAS TROY",
+      "b_name": "Maran Gas Troy",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:fad0d39769a510b4",
+      "b": "vessel:imo:9767314",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "ASTRO CASTOR",
+      "b_name": "Astro Castor",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:fb006ed561092639",
+      "b": "vessel:imo:9647291",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, built same, IMO on one side only, DWT diff 1.1% <2%\"}",
+      "a_name": "Nordic Nanjing",
+      "b_name": "Nordic Nanjing",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:fbb907ca862db49b",
+      "b": "vessel:imo:1055923",
+      "method": "splink_auto",
+      "verdict": "different",
+      "reason": "{\"decision\":\"different\",\"reason\":\"Built year differs by 1 year\"}",
+      "a_name": "GOLDEN PINE",
+      "b_name": "Golden Pine",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:fcfae093810a5e42",
+      "b": "vessel:imo:9170262",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a_name": "Harbour Well",
+      "b_name": "Harbour Well",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:fde04daf4c9ab5dc",
+      "b": "vessel:imo:9607007",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a_name": "UNITY MELODY",
+      "b_name": "Unity Melody",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:fe52c7fbb68338fc",
+      "b": "vessel:imo:9567001",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a_name": "Bulk Joyance",
+      "b_name": "Bulk Joyance",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    },
+    {
+      "a": "vessel:prov:ff73225b38e4b497",
+      "b": "vessel:imo:9105463",
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name, DWT, built match; IMO missing on A is normal\"}",
+      "a_name": "Jin Hai Xi",
+      "b_name": "Jin Hai Xi",
+      "a_sources": [
+        "p2_claim_name"
+      ],
+      "b_sources": [
+        "p3_merge_auto"
+      ]
+    }
+  ],
+  "owner_sample_count": 30,
+  "sec_cik_duplicates": 0,
+  "entities_merged_into_multiple_targets": 0,
+  "merges_without_alias_covering_target": 0,
+  "vessel_alias_over_limit": 0,
+  "entity_total": 73427,
+  "alias_total": 71260,
+  "entities_status_merged": 305,
+  "tag": {
+    "patterns": 62094,
+    "chunks_tagged": 185454,
+    "chunks_multi_tag": 115118,
+    "tag_stats": {
+      "hits_needing_corroboration": 1443372,
+      "ambiguous_skipped": 1311642,
+      "hits": 1037342,
+      "ambiguous_corroborated": 131730,
+      "imo_tags": 1894
+    },
+    "ambiguity": {
+      "skipped_implausible_vessel": 2527,
+      "ambiguous_vessel_norms": 3564,
+      "skipped_cross_type": 427,
+      "skipped_generic_company": 1171,
+      "skipped_multi_entity": 10
+    }
+  },
+  "verdict": "PASSED"
+}

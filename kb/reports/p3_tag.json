@@ -1,0 +1,24 @@
+{
+  "phase": "P3",
+  "stage": "tag",
+  "patterns": 62094,
+  "ambiguity": {
+    "skipped_implausible_vessel": 2527,
+    "ambiguous_vessel_norms": 3564,
+    "skipped_cross_type": 427,
+    "skipped_generic_company": 1171,
+    "skipped_multi_entity": 10
+  },
+  "tag_stats": {
+    "hits_needing_corroboration": 1443372,
+    "ambiguous_skipped": 1311642,
+    "hits": 1037342,
+    "ambiguous_corroborated": 131730,
+    "imo_tags": 1894
+  },
+  "chunks_tagged": 185454,
+  "chunks_multi_tag": 115118,
+  "chunks_total": 318232,
+  "money_spent_usd": 0.0,
+  "wall_seconds": 1661.1
+}

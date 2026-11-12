@@ -1,0 +1,1003 @@
+{
+  "phase": "P3",
+  "sample_seed": 2726325733,
+  "records": [
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a": {
+        "entity_id": "vessel:prov:1c15375cc87a0b71",
+        "type": "vessel",
+        "name": "ATLANTIC DRAGON",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:ed63f5f8cee30921",
+          "merged_into": "vessel:imo:9874600"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9874600",
+        "type": "vessel",
+        "name": "Atlantic Dragon",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9874600",
+          "dwt": 209170,
+          "built": 2020,
+          "class": "Capesize",
+          "sector": "dry_bulk",
+          "operator": "Cargill",
+          "vessel_type_id": 3,
+          "tanker_capacity": null,
+          "geared": false,
+          "scrubbers": true,
+          "benchmark": true
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side allowed\"}",
+      "a": {
+        "entity_id": "vessel:prov:5358fe9bfff27898",
+        "type": "vessel",
+        "name": "PS SYDNEY",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:798eec91b75e89fa",
+          "merged_into": "vessel:imo:9829459"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9829459",
+        "type": "vessel",
+        "name": "PS Sydney",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9829459",
+          "dwt": 47499,
+          "built": 2019,
+          "class": "MR2",
+          "sector": "tankers",
+          "operator": "Weco Shipping",
+          "vessel_type_id": 1,
+          "tanker_capacity": 51941,
+          "geared": false,
+          "scrubbers": true
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Names match case-insensitively; DWT and built year identical; IMO missing in A is not a contradiction.\"}",
+      "a": {
+        "entity_id": "vessel:prov:3a9090c0bd0db00c",
+        "type": "vessel",
+        "name": "WOOYANG CLES",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:33cabcda0742acad",
+          "merged_into": "vessel:imo:9638147"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9638147",
+        "type": "vessel",
+        "name": "Wooyang Cles",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9638147",
+          "dwt": 39202,
+          "built": 2014,
+          "class": "Handysize",
+          "sector": "dry_bulk",
+          "operator": "Wooyang Shipping",
+          "vessel_type_id": 3,
+          "tanker_capacity": null,
+          "geared": true,
+          "scrubbers": false
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, built same, IMO on one side only, DWT diff 1.1% <2%\"}",
+      "a": {
+        "entity_id": "vessel:prov:fb006ed561092639",
+        "type": "vessel",
+        "name": "Nordic Nanjing",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:28f0e301e383032c",
+          "merged_into": "vessel:imo:9647291"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9647291",
+        "type": "vessel",
+        "name": "Nordic Nanjing",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9647291",
+          "dwt": 34620,
+          "built": 2013,
+          "class": "Handysize",
+          "sector": "dry_bulk",
+          "operator": "Onebulk",
+          "vessel_type_id": 3,
+          "tanker_capacity": null,
+          "geared": true,
+          "scrubbers": false
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO on one side only\"}",
+      "a": {
+        "entity_id": "vessel:prov:0c9589edbd3bda3f",
+        "type": "vessel",
+        "name": "Isa Star",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:589d1bf96b73d3b9",
+          "merged_into": "vessel:imo:9210270"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9210270",
+        "type": "vessel",
+        "name": "ISA Star",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9210270",
+          "dwt": 8275,
+          "built": 2000,
+          "class": "Small",
+          "sector": "dry_bulk",
+          "operator": "Krey",
+          "vessel_type_id": 3,
+          "tanker_capacity": null,
+          "geared": true,
+          "scrubbers": false
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Same name, built year; DWT diff 0.04%; IMO on one side only\"}",
+      "a": {
+        "entity_id": "vessel:prov:01a256cdccbaf414",
+        "type": "vessel",
+        "name": "Bellight",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:d338d9d043ddc405",
+          "merged_into": "vessel:imo:9724776"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9724776",
+        "type": "vessel",
+        "name": "Bellight",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9724776",
+          "dwt": 63073,
+          "built": 2016,
+          "class": "Supramax",
+          "sector": "dry_bulk",
+          "operator": "Norwegian Bulk Carriers",
+          "vessel_type_id": 3,
+          "tanker_capacity": null,
+          "geared": true,
+          "scrubbers": false
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches case-insensitively; DWT and built year identical; IMO missing in A is not a contradiction.\"}",
+      "a": {
+        "entity_id": "vessel:prov:0cb31f3bbc182896",
+        "type": "vessel",
+        "name": "MBA ROSARIA",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:3bfc499f92656d94",
+          "merged_into": "vessel:imo:9591765"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9591765",
+        "type": "vessel",
+        "name": "MBA Rosaria",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9591765",
+          "dwt": 93326,
+          "built": 2011,
+          "class": "Post Panamax",
+          "sector": "dry_bulk",
+          "operator": "Sinmal Bulk",
+          "vessel_type_id": 3,
+          "tanker_capacity": null,
+          "geared": false,
+          "scrubbers": false
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A is normal per policy.\"}",
+      "a": {
+        "entity_id": "vessel:prov:6069bd9bc910dd26",
+        "type": "vessel",
+        "name": "Hai Heng",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:818fe65d11ec02f3",
+          "merged_into": "vessel:imo:9186716"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9186716",
+        "type": "vessel",
+        "name": "Hai Heng",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9186716",
+          "dwt": 13300,
+          "built": 1999,
+          "class": "Small",
+          "sector": "tankers",
+          "operator": "Unknown",
+          "vessel_type_id": 1,
+          "tanker_capacity": 14957,
+          "geared": true,
+          "scrubbers": false
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a": {
+        "entity_id": "vessel:prov:c95e32ca37bc891e",
+        "type": "vessel",
+        "name": "Kazan",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:a8c31c232353282f",
+          "merged_into": "vessel:imo:9258002"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9258002",
+        "type": "vessel",
+        "name": "Kazan",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9258002",
+          "dwt": 115727,
+          "built": 2003,
+          "class": "Aframax",
+          "sector": "tankers",
+          "operator": "Sovcomflot",
+          "vessel_type_id": 1,
+          "tanker_capacity": 126739,
+          "geared": true,
+          "scrubbers": false,
+          "benchmark": true
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side allowed\"}",
+      "a": {
+        "entity_id": "vessel:prov:909aca8ccc05c97e",
+        "type": "vessel",
+        "name": "SINAR BUSAN",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:2e9616f036c2309a",
+          "merged_into": "vessel:imo:9346483"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9346483",
+        "type": "vessel",
+        "name": "Sinar Busan",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9346483",
+          "dwt": 11277,
+          "built": 2006,
+          "class": "Small",
+          "sector": "tankers",
+          "operator": "Samudera Indonesia",
+          "vessel_type_id": 1,
+          "tanker_capacity": 12250,
+          "geared": true,
+          "scrubbers": false
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a": {
+        "entity_id": "vessel:prov:fcfae093810a5e42",
+        "type": "vessel",
+        "name": "Harbour Well",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:c0ec421879d04f3c",
+          "merged_into": "vessel:imo:9170262"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9170262",
+        "type": "vessel",
+        "name": "Harbour Well",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9170262",
+          "dwt": 72497,
+          "built": 1998,
+          "class": "Panamax",
+          "sector": "dry_bulk",
+          "operator": "Honour Ocean Shipping",
+          "vessel_type_id": 3,
+          "tanker_capacity": null,
+          "geared": true,
+          "scrubbers": false
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a": {
+        "entity_id": "vessel:prov:24a8f2fbbd149f96",
+        "type": "vessel",
+        "name": "C. Challenger",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:e8f5422abb5988d7",
+          "merged_into": "vessel:imo:9595620"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9595620",
+        "type": "vessel",
+        "name": "C. Challenger",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9595620",
+          "dwt": 313918,
+          "built": 2013,
+          "class": "VLCC",
+          "sector": "tankers",
+          "operator": "SK",
+          "vessel_type_id": 1,
+          "tanker_capacity": 346892,
+          "geared": true,
+          "scrubbers": true,
+          "benchmark": true
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO only on one side\"}",
+      "a": {
+        "entity_id": "vessel:prov:f484d71c211b89c3",
+        "type": "vessel",
+        "name": "PEACEFUL SEAS",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:2c950c20a7e959a8",
+          "merged_into": "vessel:imo:9707584"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9707584",
+        "type": "vessel",
+        "name": "Peaceful Seas",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9707584",
+          "dwt": 63331,
+          "built": 2014,
+          "class": "Supramax",
+          "sector": "dry_bulk",
+          "operator": "Seacommercial",
+          "vessel_type_id": 3,
+          "tanker_capacity": null,
+          "geared": true,
+          "scrubbers": true
+        }
+      }
+    },
+    {
+      "method": "company_exact_name",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Legal suffix 'plc' added; core name 'Frontline' identical\"}",
+      "a": {
+        "entity_id": "company:int:frontline",
+        "type": "company",
+        "name": "Frontline",
+        "status": "merged",
+        "attrs": {
+          "source": [
+            "benchmark_fleet"
+          ],
+          "alias_count": 1,
+          "merged_into": "company:cik0000913290"
+        }
+      },
+      "b": {
+        "entity_id": "company:cik0000913290",
+        "type": "company",
+        "name": "Frontline plc",
+        "status": "confirmed",
+        "attrs": {
+          "cik": "0000913290",
+          "ticker": "FRO",
+          "publisher_id": "Frontline plc",
+          "source": [
+            "sec_edgar"
+          ],
+          "doc_count": 47
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a": {
+        "entity_id": "vessel:prov:1145b39443b278e5",
+        "type": "vessel",
+        "name": "Mandarin Noble",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:c2fa0aa4d1f31638",
+          "merged_into": "vessel:imo:9533323"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9533323",
+        "type": "vessel",
+        "name": "Mandarin Noble",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9533323",
+          "dwt": 56693,
+          "built": 2012,
+          "class": "Supramax",
+          "sector": "dry_bulk",
+          "operator": "Dasin Shipping",
+          "vessel_type_id": 3,
+          "tanker_capacity": null,
+          "geared": true,
+          "scrubbers": true
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Names match case-insensitively; DWT and built year identical; IMO missing in A is not a contradiction.\"}",
+      "a": {
+        "entity_id": "vessel:prov:aa400341fc1fede0",
+        "type": "vessel",
+        "name": "GOLDEN POPLAR",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:db87982119e704b7",
+          "merged_into": "vessel:imo:1080916"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:1080916",
+        "type": "vessel",
+        "name": "Golden Poplar",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "1080916",
+          "dwt": 18500,
+          "built": 2026,
+          "class": "Small",
+          "sector": "tankers",
+          "operator": "Pioneer Tanker",
+          "vessel_type_id": 1,
+          "tanker_capacity": 20300,
+          "geared": null,
+          "scrubbers": false
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Normalized names match; DWT and built year identical; IMO missing on one side is not a contradiction.\"}",
+      "a": {
+        "entity_id": "vessel:prov:e7c624125aea8391",
+        "type": "vessel",
+        "name": "DL LILY",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:6131601b143f3230",
+          "merged_into": "vessel:imo:9519688"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9519688",
+        "type": "vessel",
+        "name": "Dl Lily",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9519688",
+          "dwt": 4999,
+          "built": 2011,
+          "class": "Small",
+          "sector": "lpg",
+          "operator": "Dong-A Tanker",
+          "vessel_type_id": 6,
+          "tanker_capacity": 5000,
+          "geared": false,
+          "scrubbers": false
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side is normal\"}",
+      "a": {
+        "entity_id": "vessel:prov:721583f99368fd12",
+        "type": "vessel",
+        "name": "ANGLO ALEXANDRIA",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:af58f56c4a9f5df8",
+          "merged_into": "vessel:imo:9451044"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9451044",
+        "type": "vessel",
+        "name": "Anglo Alexandria",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9451044",
+          "dwt": 114248,
+          "built": 2011,
+          "class": "Post Panamax",
+          "sector": "dry_bulk",
+          "operator": "Oldendorff",
+          "vessel_type_id": 3,
+          "tanker_capacity": null,
+          "geared": false,
+          "scrubbers": false,
+          "benchmark": true
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Names match case-insensitively; DWT and built year identical; IMO missing in A is not a contradiction.\"}",
+      "a": {
+        "entity_id": "vessel:prov:d1cc2fb82ad0a578",
+        "type": "vessel",
+        "name": "HL SAMARINDA",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:e4bfa724d24b58a6",
+          "merged_into": "vessel:imo:9537551"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9537551",
+        "type": "vessel",
+        "name": "HL Samarinda",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9537551",
+          "dwt": 114536,
+          "built": 2011,
+          "class": "Post Panamax",
+          "sector": "dry_bulk",
+          "operator": "H-Line Shipping",
+          "vessel_type_id": 3,
+          "tanker_capacity": null,
+          "geared": false,
+          "scrubbers": false,
+          "benchmark": true
+        }
+      }
+    },
+    {
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a": {
+        "entity_id": "vessel:prov:f7db9e5663d861d7",
+        "type": "vessel",
+        "name": "Aurora Borealis",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:61a897e6811371eb",
+          "merged_into": "vessel:imo:9957608"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9957608",
+        "type": "vessel",
+        "name": "Aurora Borealis",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9957608",
+          "dwt": 82315,
+          "built": 2023,
+          "class": "Panamax",
+          "sector": "dry_bulk",
+          "operator": "Western Bulk",
+          "vessel_type_id": 3,
+          "tanker_capacity": null,
+          "geared": null,
+          "scrubbers": false
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing on one side is normal\"}",
+      "a": {
+        "entity_id": "vessel:prov:babc46e9ed3d6bdc",
+        "type": "vessel",
+        "name": "Fairchem Kiso",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:6d5ff8dcbb4fb2e3",
+          "merged_into": "vessel:imo:9527075"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9527075",
+        "type": "vessel",
+        "name": "Fairchem Kiso",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9527075",
+          "dwt": 21167,
+          "built": 2011,
+          "class": "Small",
+          "sector": "tankers",
+          "operator": "Maersk",
+          "vessel_type_id": 1,
+          "tanker_capacity": 22200,
+          "geared": true,
+          "scrubbers": false
+        }
+      }
+    },
+    {
+      "method": "judge_same",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name one-letter variant, DWT/built match, IMO on one side only\"}",
+      "a": {
+        "entity_id": "vessel:prov:aaff677684d67e49",
+        "type": "vessel",
+        "name": "Overseas Long Beac",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:3ec4f1fcdc818099",
+          "merged_into": "vessel:imo:9353527"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9353527",
+        "type": "vessel",
+        "name": "Overseas Long Beach",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9353527",
+          "dwt": 46911,
+          "built": 2007,
+          "class": "MR2",
+          "sector": "tankers",
+          "operator": "Overseas Shipholding Group",
+          "vessel_type_id": 1,
+          "tanker_capacity": 52733,
+          "geared": false,
+          "scrubbers": false
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches case-insensitively; DWT and built year identical; IMO missing on one side is not a contradiction.\"}",
+      "a": {
+        "entity_id": "vessel:prov:d134024803d0b67d",
+        "type": "vessel",
+        "name": "STI BRONX",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:a9289f1e10978070",
+          "merged_into": "vessel:imo:9706839"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9706839",
+        "type": "vessel",
+        "name": "STI Bronx",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9706839",
+          "dwt": 49990,
+          "built": 2015,
+          "class": "MR2",
+          "sector": "tankers",
+          "operator": "Scorpio Commercial Management",
+          "vessel_type_id": 1,
+          "tanker_capacity": 52953,
+          "geared": false,
+          "scrubbers": true
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name matches, DWT and built identical, IMO missing on one side only\"}",
+      "a": {
+        "entity_id": "vessel:prov:a92710e00dd445cf",
+        "type": "vessel",
+        "name": "XIN DONG GUAN 7",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:ab149aabdf75fbd7",
+          "merged_into": "vessel:imo:9597056"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9597056",
+        "type": "vessel",
+        "name": "Xin Dong Guan 7",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9597056",
+          "dwt": 70807,
+          "built": 2011,
+          "class": "Panamax",
+          "sector": "dry_bulk",
+          "operator": "Dongguan Haichang Shipping",
+          "vessel_type_id": 3,
+          "tanker_capacity": null,
+          "geared": false,
+          "scrubbers": false
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, built year same, DWT diff 0.001%, IMO missing on A only\"}",
+      "a": {
+        "entity_id": "vessel:prov:c12b723fe59816eb",
+        "type": "vessel",
+        "name": "Afra Rossi",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:3fe69b7c25ee0964",
+          "merged_into": "vessel:imo:9431381"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9431381",
+        "type": "vessel",
+        "name": "Afra Rossi",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9431381",
+          "dwt": 115830,
+          "built": 2010,
+          "class": "Aframax",
+          "sector": "tankers",
+          "operator": "Meridian Marine",
+          "vessel_type_id": 1,
+          "tanker_capacity": 128005,
+          "geared": true,
+          "scrubbers": false,
+          "benchmark": true
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a": {
+        "entity_id": "vessel:prov:69d34d8a8017803b",
+        "type": "vessel",
+        "name": "Dukhan",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:7385414c66673a54",
+          "merged_into": "vessel:imo:9265500"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9265500",
+        "type": "vessel",
+        "name": "Dukhan",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9265500",
+          "dwt": 72533,
+          "built": 2004,
+          "class": "LNG",
+          "sector": "lng",
+          "operator": "Adler Denizcilik",
+          "vessel_type_id": 5,
+          "tanker_capacity": 137672,
+          "geared": false,
+          "scrubbers": false
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name, DWT, built match; IMO missing on A is normal\"}",
+      "a": {
+        "entity_id": "vessel:prov:6eef1840d8bc9774",
+        "type": "vessel",
+        "name": "Carmencita",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:18e16fdb05675276",
+          "merged_into": "vessel:imo:9403176"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9403176",
+        "type": "vessel",
+        "name": "Carmencita",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9403176",
+          "dwt": 58773,
+          "built": 2009,
+          "class": "Supramax",
+          "sector": "dry_bulk",
+          "operator": "Oldendorff",
+          "vessel_type_id": 3,
+          "tanker_capacity": null,
+          "geared": true,
+          "scrubbers": false
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Identical name, DWT, built year; IMO missing in A only\"}",
+      "a": {
+        "entity_id": "vessel:prov:36cba42e73d39a9b",
+        "type": "vessel",
+        "name": "High Navigator",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:2578390c0b08c87a",
+          "merged_into": "vessel:imo:9814143"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9814143",
+        "type": "vessel",
+        "name": "High Navigator",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9814143",
+          "dwt": 49921,
+          "built": 2018,
+          "class": "MR2",
+          "sector": "tankers",
+          "operator": "d'Amico",
+          "vessel_type_id": 1,
+          "tanker_capacity": 53930,
+          "geared": true,
+          "scrubbers": false
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name identical, DWT and built match, IMO missing on one side only\"}",
+      "a": {
+        "entity_id": "vessel:prov:434fe2dcfbb74b24",
+        "type": "vessel",
+        "name": "CONTRACT II",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:45acb1b7af42f313",
+          "merged_into": "vessel:imo:9105085"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9105085",
+        "type": "vessel",
+        "name": "Contract II",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9105085",
+          "dwt": 46267,
+          "built": 1996,
+          "class": "MR2",
+          "sector": "tankers",
+          "operator": "Unknown",
+          "vessel_type_id": 1,
+          "tanker_capacity": 50289,
+          "geared": false,
+          "scrubbers": false
+        }
+      }
+    },
+    {
+      "method": "splink_auto",
+      "verdict": "same",
+      "reason": "{\"decision\":\"same\",\"reason\":\"Name, DWT, built match; IMO missing on A is normal\"}",
+      "a": {
+        "entity_id": "vessel:prov:5f675a68f57af9eb",
+        "type": "vessel",
+        "name": "Agia Trias",
+        "status": "merged",
+        "attrs": {
+          "vessel_key": "prov:628eba5e49a84f3d",
+          "merged_into": "vessel:imo:9241657"
+        }
+      },
+      "b": {
+        "entity_id": "vessel:imo:9241657",
+        "type": "vessel",
+        "name": "Agia Trias",
+        "status": "confirmed",
+        "attrs": {
+          "imo": "9241657",
+          "dwt": 185820,
+          "built": 2002,
+          "class": "Capesize",
+          "sector": "dry_bulk",
+          "operator": "Aquavita",
+          "vessel_type_id": 3,
+          "tanker_capacity": null,
+          "geared": false,
+          "scrubbers": false,
+          "benchmark": true
+        }
+      }
+    }
+  ]
+}
