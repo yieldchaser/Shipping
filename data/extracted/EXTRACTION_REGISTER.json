@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 18:07:56Z",
+  "updated_at": "2026-11-12 22:44:10Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -1562,7 +1562,7 @@
     {
       "file": "drewry_ais_chart_series.csv",
       "target_metric": "Drewry AIS chart lines read from the PDF vector paths, all 10 vessel classes (utilisation, tonne-miles, speeds, tonnage at anchor/underway/in port, % laden)",
-      "rows": 83699,
+      "rows": 84005,
       "columns": [
         "vessel_class",
         "sector",
@@ -1581,7 +1581,7 @@
     {
       "file": "drewry_ais_crude_aframax_series.csv",
       "target_metric": "Aframax fleet intelligence, utilisation, speed & earnings",
-      "rows": 32,
+      "rows": 33,
       "columns": [
         "published_date",
         "report_year",
@@ -1677,7 +1677,7 @@
     {
       "file": "drewry_ais_drybulk_capesize_series.csv",
       "target_metric": "Capesize fleet intelligence, utilisation, speed & earnings",
-      "rows": 28,
+      "rows": 29,
       "columns": [
         "published_date",
         "report_year",
@@ -1869,7 +1869,7 @@
     {
       "file": "drewry_ais_product_lr2_series.csv",
       "target_metric": "LR2 Product tanker fleet intelligence & earnings",
-      "rows": 32,
+      "rows": 33,
       "columns": [
         "published_date",
         "report_year",
@@ -1901,7 +1901,7 @@
     {
       "file": "drewry_opinions_metadata.csv",
       "target_metric": "Drewry Opinions Metadata.Csv",
-      "rows": 565,
+      "rows": 566,
       "columns": [
         "issue_date",
         "year",
@@ -1917,7 +1917,7 @@
     {
       "file": "drewry_wci_series.csv",
       "target_metric": "Drewry Wci",
-      "rows": 11,
+      "rows": 12,
       "columns": [
         "date",
         "composite_index",
@@ -3945,13 +3945,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 709849,
+  "total_master_stacked_rows": 710160,
   "total_master_series_csvs": 166,
-  "total_stacked_rows": 709849,
+  "total_stacked_rows": 710160,
   "total_series_csvs": 166,
   "total_master_workbooks": 1,
   "total_series_count": 166,
-  "total_rows_extracted": 710154,
+  "total_rows_extracted": 710465,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 611,
     "advanced_shipping_demolition_series.csv": 2048,
@@ -4001,19 +4001,19 @@
     "clarksons_snp_sales_series.csv": 1316,
     "compare_vs_clarksons_sales_series.csv": 0,
     "compare_vs_clarksons_snp_sales_series.csv": 400,
-    "drewry_ais_chart_series.csv": 83699,
-    "drewry_ais_crude_aframax_series.csv": 32,
+    "drewry_ais_chart_series.csv": 84005,
+    "drewry_ais_crude_aframax_series.csv": 33,
     "drewry_ais_crude_suezmax_series.csv": 31,
     "drewry_ais_crude_vlcc_series.csv": 34,
-    "drewry_ais_drybulk_capesize_series.csv": 28,
+    "drewry_ais_drybulk_capesize_series.csv": 29,
     "drewry_ais_drybulk_handysize_series.csv": 26,
     "drewry_ais_drybulk_panamax_series.csv": 24,
     "drewry_ais_drybulk_supramax_series.csv": 24,
     "drewry_ais_lpg_fr_series.csv": 33,
     "drewry_ais_product_lr1_series.csv": 36,
-    "drewry_ais_product_lr2_series.csv": 32,
-    "drewry_opinions_metadata.csv": 565,
-    "drewry_wci_series.csv": 11,
+    "drewry_ais_product_lr2_series.csv": 33,
+    "drewry_opinions_metadata.csv": 566,
+    "drewry_wci_series.csv": 12,
     "fearnleys_drybulk_growth_series.csv": 180,
     "gibson_bunker_prices_series.csv": 1044,
     "gibson_spot_chart_daily.csv": 9420,

@@ -27,8 +27,8 @@
     },
     {
       "path": "corpus/06-drewry",
-      "untracked_files": 288,
-      "untracked_bytes": 547682493
+      "untracked_files": 292,
+      "untracked_bytes": 553130003
     },
     {
       "path": "corpus/07-signal",
@@ -40673,6 +40673,11 @@
       "sha256": "26f1465e514f2eff4203c88082b360166a09fa27671f7772e4a9bb2bebdb4c63"
     },
     {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Crude_Aframax_Week45_2026.pdf",
+      "bytes": 2083862,
+      "sha256": "4dcc8bfcacce902a0b1c7c696d95db00d4cc603a6c38fb6a6d595c45e0450eb4"
+    },
+    {
       "path": "corpus/06-drewry/ais/Drewry_AIS_Crude_Suezmax_Week26_2026.pdf",
       "bytes": 2130919,
       "sha256": "1f71c83941cab1c98726db8388360098c5de538823cd9f52b450b3883714a8e4"
@@ -40736,6 +40741,11 @@
       "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf",
       "bytes": 1611098,
       "sha256": "bb5b761e49cf3ddca1b9cdf83598b5cd43b620d2f7adeb16879706412a654f05"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Capesize_Week45_2026.pdf",
+      "bytes": 1653923,
+      "sha256": "b350ea6e4e761b7868334782efeea04bbc493f6b8bf759b91748353538556184"
     },
     {
       "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Handysize_Week28_2026.pdf",
@@ -42091,6 +42101,16 @@
       "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week39_2026.pdf",
       "bytes": 1692736,
       "sha256": "cfb74c938d015edb12df749489317f64447354fc874abe5b10dbd3e604116a9e"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week45_2026.pdf",
+      "bytes": 1707946,
+      "sha256": "7abfdd5e4cbee9717e519de75bf94c799e70e9131935d70b6d34f85e6aea742a"
+    },
+    {
+      "path": "corpus/06-drewry/opinions/2026/2026-11-12_drewry_wci.md",
+      "bytes": 1779,
+      "sha256": "aacdb0d933bf7b70db8b768c292fff40f6f1125919b888e7cc755a2dca7b1b84"
     },
     {
       "path": "corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png",
