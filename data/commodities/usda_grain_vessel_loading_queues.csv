@@ -3319,3 +3319,5 @@ date,week,month,year,port,port_region,loading,waiting_to_load,in_port,in_port_4y
 2026-10-22,42,10,2026,PNW,Pacific Northwest,5,9,14,,,,,,
 2026-10-29,43,10,2026,Gulf,Mississippi River,7,11,18,31.0,34.0,30.25,32.0,46.5,32.0
 2026-10-29,43,10,2026,PNW,Pacific Northwest,5,10,15,,,,,,
+2026-11-05,44,11,2026,Gulf,Mississippi River,10,12,22,31.5,23.0,29.0,37.0,47.0,37.0
+2026-11-05,44,11,2026,PNW,Pacific Northwest,5,6,11,,,,,,
