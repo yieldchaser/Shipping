@@ -141,7 +141,10 @@ calls, so this is spine spend accumulated across P0→P1. Flagged, not silently 
 - Upstream defects (logged, not patched): see `kb/reports/upstream_defects.md` — SEC XBRL skipped (no
   `SEC_USER_AGENT`), `seabrokers_fleet_moves_series` has no numeric column, no sidecar `fixtures` block,
   some sidecar `source_file` unresolved to a `document`, name-heavy vessel identity material (P3).
-- Branch `kb-build`. Next: **checkpoint C1** (hard stop, no user question yet).
+- Branch `kb-build`. **At checkpoint C1** — `kb/reports/C1_REVIEW.md` written (generator
+  `kb/c1_review.py`, tests `kb/tests/test_c1_review.py`, 86 tests pass). Hard stop, waiting for the
+  owner's chat reply; on reply write it verbatim into `kb/reports/C1_APPROVED.md` under
+  `owner_message:` and continue with P4c.
 - C1 review packet: (1) `kb/reports/p4b_flagged.md` -- 30 flagged reference records, seed 15063620,
   pool 304 (keep 273 / drop 31), half adjudicator-drops; (2) `kb/reports/p3_owner_sample.json` -- P3
   owner merge sample; (3) `kb/reports/gold_set.md` §"C1 sample packet" -- 25 gold questions;
