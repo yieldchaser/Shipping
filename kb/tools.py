@@ -100,14 +100,21 @@ def _run_with_timeout(con, sql: str, params: list[Any], timeout_s: float = TIMEO
         timer.cancel()
 
 
-def sql(query: str, con=None, cap: int = ROW_CAP, timeout_s: float = TIMEOUT_S) -> dict:
+def sql(query: str, con=None, cap: int = ROW_CAP, timeout_s: float = TIMEOUT_S,
+        params: list | None = None) -> dict:
     """Run a read-only query against the `v_*` views. Returns columns + rows (capped)."""
     q = _guard_sql(query)
+    return _query(q, con=con, cap=cap, timeout_s=timeout_s, params=params)
+
+
+def _query(query: str, con=None, cap: int = ROW_CAP, timeout_s: float = TIMEOUT_S,
+           params: list | None = None) -> dict:
+    """Internal executor for trusted modules (no view guard). Never LLM-facing."""
     own = con is None
     con = con or connect()
     try:
-        wrapped = f"SELECT * FROM ({q}) _q LIMIT {int(cap)}"
-        rows = _run_with_timeout(con, wrapped, [], timeout_s)
+        wrapped = f"SELECT * FROM ({query}) _q LIMIT {int(cap)}"
+        rows = _run_with_timeout(con, wrapped, list(params or []), timeout_s)
         cols = [d[0] for d in con.description]
         return {"columns": cols, "rows": [list(r) for r in rows], "truncated": len(rows) >= cap}
     finally:
