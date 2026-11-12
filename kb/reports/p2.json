@@ -1,0 +1,209 @@
+{
+ "phase": "P2",
+ "sample_seed": 983638808,
+ "result": "PASSED",
+ "gate_metrics": {
+  "raw_cell_found_sample": 2000,
+  "raw_cell_found_all_sec": true,
+  "raw_cell_found_rate": 1.0,
+  "known_values_exact": 40,
+  "known_values_exact_rate": 1.0,
+  "transaction_cluster_audit": 50,
+  "transaction_cluster_precision": 1.0
+ },
+ "gate_checks": {
+  "raw_cell_found_sample": true,
+  "raw_cell_found_all_sec": true,
+  "raw_cell_found_rate": true,
+  "known_values_exact": true,
+  "known_values_exact_rate": true,
+  "transaction_cluster_audit": true,
+  "transaction_cluster_precision": true
+ },
+ "db": {
+  "document": 20704,
+  "section": 194309,
+  "chunk": 318232,
+  "observation": 1762388,
+  "series": 29827,
+  "mention": 45259,
+  "transaction": 43412,
+  "entity": 12911,
+  "corpus_known_gaps": 12,
+  "views": {
+   "v_rate": 1762388,
+   "v_tc_assessment": 127554,
+   "v_fixture": 928,
+   "v_sale": 34171,
+   "v_demolition": 4884,
+   "v_newbuilding": 2117,
+   "v_company_fin": 0,
+   "v_commodity_flow": 965110,
+   "v_series": 29827,
+   "v_gaps": 12
+  },
+  "views_present": 10
+ },
+ "raw_cell": {
+  "sample_requested": 2000,
+  "sample_size": 2000,
+  "strata": 173,
+  "strata_available_rows": 4259,
+  "found": 2000,
+  "rate": 1.0,
+  "mismatch_issues": {},
+  "mismatches_sample": [],
+  "sec_observations": 0,
+  "sec_all_found": true,
+  "sec_note": "SEC_USER_AGENT unset -> SEC XBRL ingestion skipped (AGENT_TASK L123); 0 sec:* observations stored, so every stored SEC fact is vacuously traceable",
+  "sample_seed": 983638808,
+  "passed": true
+ },
+ "known_values": {
+  "source": "kb/reports/p2_known_values.json",
+  "target": 40,
+  "records": 40,
+  "exact": 40,
+  "rate": 1.0,
+  "publishers": [
+   "Advanced Shipping & Trading",
+   "Agora Shipbroking Corporation",
+   "Banchero Costa",
+   "Drewry Maritime Research",
+   "Intermodal Shipbrokers",
+   "Metals Market Index (MMi)",
+   "Star Asia Shipbroking",
+   "VesselsValue (via Hellenic Shipping News)",
+   "Xclusiv Shipbrokers Inc."
+  ],
+  "n_publishers": 9,
+  "failures": [],
+  "checks_sample": [
+   {
+    "obs_id": 208228162338363989,
+    "chunk_id": "ac52382b2e73ad01b02dbcade9e3533d",
+    "token": "99.58",
+    "token_num": 99.58,
+    "obs_value": 99.58,
+    "ok": true,
+    "issue": null
+   },
+   {
+    "obs_id": 219264414724526287,
+    "chunk_id": "ec7a906b13a3a56f9ae8e8605a4f0b2d",
+    "token": "102.06",
+    "token_num": 102.06,
+    "obs_value": 102.06,
+    "ok": true,
+    "issue": null
+   },
+   {
+    "obs_id": 407364785366299319,
+    "chunk_id": "5d03cd518ed17bb15537093cea54f973",
+    "token": "-0.89",
+    "token_num": -0.89,
+    "obs_value": -0.89,
+    "ok": true,
+    "issue": null
+   },
+   {
+    "obs_id": 522252467500847305,
+    "chunk_id": "a1756401b7439b9a4525d5ed98fff63f",
+    "token": "173.06",
+    "token_num": 173.06,
+    "obs_value": 173.06,
+    "ok": true,
+    "issue": null
+   },
+   {
+    "obs_id": 840297740159152957,
+    "chunk_id": "c2f3ce0c46efd6cdc4201e9f02bb2d56",
+    "token": "1.58",
+    "token_num": 1.58,
+    "obs_value": 1.58,
+    "ok": true,
+    "issue": null
+   }
+  ],
+  "declared_passed": true,
+  "passed": true
+ },
+ "transactions": {
+  "target": 50,
+  "precision_required": 0.96,
+  "clusters_total": 43412,
+  "allocation": {
+   "deal": 1,
+   "demolition": 5,
+   "fixture": 1,
+   "newbuild_order": 2,
+   "sale": 41
+  },
+  "kinds": {
+   "sale": 34171,
+   "newbuild_order": 2117,
+   "demolition": 4884,
+   "fixture": 928,
+   "deal": 1312
+  },
+  "sample_size": 50,
+  "passed_clusters": 50,
+  "precision": 1.0,
+  "printed_rows_verified": 54,
+  "failures": [],
+  "checks_sample": [
+   {
+    "txn_id": "t:b25477c8011b6445",
+    "kind": "deal",
+    "ok": true,
+    "fails": [],
+    "mentions": 1,
+    "verified_rows": 1,
+    "price": 56.0,
+    "status": "reported"
+   },
+   {
+    "txn_id": "t:2e06b3e902e624a5",
+    "kind": "demolition",
+    "ok": true,
+    "fails": [],
+    "mentions": 1,
+    "verified_rows": 1,
+    "price": null,
+    "status": "reported"
+   },
+   {
+    "txn_id": "t:38eeb3d3b09bbad5",
+    "kind": "demolition",
+    "ok": true,
+    "fails": [],
+    "mentions": 4,
+    "verified_rows": 4,
+    "price": null,
+    "status": "reported"
+   },
+   {
+    "txn_id": "t:3f6cbabba0a76a8e",
+    "kind": "demolition",
+    "ok": true,
+    "fails": [],
+    "mentions": 1,
+    "verified_rows": 1,
+    "price": null,
+    "status": "reported"
+   },
+   {
+    "txn_id": "t:30fba7865608ffdf",
+    "kind": "demolition",
+    "ok": true,
+    "fails": [],
+    "mentions": 1,
+    "verified_rows": 1,
+    "price": 620.0,
+    "status": "reported"
+   }
+  ],
+  "passed": true
+ },
+ "duration_s": 5.5
+}

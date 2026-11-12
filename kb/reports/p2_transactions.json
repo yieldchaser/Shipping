@@ -1,0 +1,21 @@
+{
+ "phase": "P2_transactions",
+ "stats": {
+  "rows": 58413,
+  "skipped_nodate": 43,
+  "skipped_nonnum_price": 167,
+  "non_txn_skipped": 0,
+  "clusters": 56507,
+  "conflicting": 128,
+  "mentions": 58413,
+  "vessel_entities": 12911,
+  "unresolved_doc": 358,
+  "defects": 0,
+  "cross_source_dupe": 13095,
+  "sidecar_claims": 13638,
+  "sidecar_sidecars": 9050
+ },
+ "actual_transactions": 43412,
+ "actual_mentions": 45259,
+ "defects": []
+}

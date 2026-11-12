@@ -1,0 +1,1071 @@
+# kb/series_map.yaml - P2 series loader map (deterministic)
+# version 1 | source in {shipbrokers,hellenic,seabrokers,drewry_ais_pdfs,drybulk,tankers,baltic}
+# mode in {wide,long} | provenance in {reported_table,chart_derived}
+version: 1
+series:
+  - stem: advanced_shipping_demo_sales_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['dwt', 'ldt', 'yob', 'price_usd_per_ldt']
+    entity_cols: ['vessel_name', 'vessel_type', 'country', 'comments']
+    provenance: reported_table
+  - stem: advanced_shipping_demolition_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_usd_per_ldt']
+    entity_cols: ['country']
+    provenance: reported_table
+  - stem: advanced_shipping_newbuilding_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['capacity', 'capacity_raw', 'price_usd_mill']
+    entity_cols: ['section', 'capacity_unit', 'price_raw', 'owner', 'comments']
+    provenance: reported_table
+  - stem: advanced_shipping_sales_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['DWT', 'TEU', 'CBM', 'BUILT', 'PRICE_USD_MILL']
+    entity_cols: ['section', 'NAME', 'TYPE', 'YARD', 'M_E', 'GEAR', 'PRICE', 'BUYERS', 'SS', 'COMMENTS']
+    provenance: reported_table
+  - stem: advanced_shipping_secondhand_matrix_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['current_price_usd_mill', 'prior_price_usd_mill', 'change_pct']
+    entity_cols: ['vessel_class', 'size_str', 'age']
+    provenance: reported_table
+  - stem: affinity_bda_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_usd_per_ldt', 'change_wow']
+    entity_cols: []
+    provenance: reported_table
+  - stem: affinity_indices_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['value']
+    entity_cols: ['index_name', 'trend_wow']
+    provenance: reported_table
+  - stem: affinity_tce_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['quantity_mt', 'tce_usd_per_day']
+    entity_cols: ['route', 'description', 'trend_wow']
+    provenance: reported_table
+  - stem: agora_indicators_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['val_% 4-weekly', 'val_Actual last', 'val_% weekly', 'val_IFO380', 'val_VLSFO', 'val_MGO']
+    entity_cols: ['section', 'label', 'name']
+    provenance: reported_table
+  - stem: athenian_historical_demolition_prices_series
+    source: hellenic
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_usd_per_ldt']
+    entity_cols: []
+    provenance: reported_table
+  - stem: athenian_indicative_demolition_series
+    source: hellenic
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_usd_per_ldt']
+    entity_cols: ['vessel_type', 'country']
+    provenance: reported_table
+  - {stem: 'athenian_market_commentary_series', kind: commentary, skip: true}
+  - stem: athenian_yearly_demolition_volume_series
+    source: hellenic
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['demolition_mio_dwt']
+    entity_cols: []
+    provenance: reported_table
+  - stem: baltic_ncfi_series
+    source: baltic
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['index_current', 'index_prev', 'weekly_change_pct']
+    entity_cols: ['route']
+    provenance: reported_table
+  - {stem: 'baltic_reports_metadata', kind: metadata, skip: true}
+  - stem: bancosta_commodities_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_current', 'price_previous']
+    entity_cols: ['item', 'unit']
+    provenance: reported_table
+  - stem: bancosta_container_fixtures_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['built', 'teu', 'teu_14', 'rate_usd_day', 'rate_eur_day']
+    entity_cols: ['vessel_name', 'gear', 'account']
+    provenance: reported_table
+  - stem: bancosta_demolition_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_current', 'price_previous', 'w_o_w', 'y_o_y', 'dwt', 'ldt', 'year_built', 'price_usd_per_ldt']
+    entity_cols: ['record_type', 'segment_location', 'unit']
+    row_filter: {record_type: 'recycling_assessment'}
+    provenance: reported_table
+  - stem: bancosta_ffa_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['rate_current', 'rate_previous', 'change_wow', 'premium']
+    entity_cols: ['vessel_class', 'tenor', 'unit']
+    provenance: reported_table
+  - stem: bancosta_freight_rates_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['rate_current', 'rate_previous', 'change_wow', 'change_yoy']
+    entity_cols: ['route_or_benchmark', 'unit']
+    provenance: reported_table
+  - stem: bancosta_fx_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['rate_current', 'rate_previous', 'pct_change_wow', 'pct_change_yoy']
+    entity_cols: ['currency_pair']
+    provenance: reported_table
+  - stem: bancosta_newbuilding_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_current', 'price_previous', 'm_o_m', 'y_o_y', 'vessel_count', 'price_usd_m_each']
+    entity_cols: ['record_type', 'vessel_type', 'unit']
+    row_filter: {record_type: 'indicative_price'}
+    provenance: reported_table
+  - stem: bancosta_sales_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['imo', 'dwt', 'built', 'price_usd_m']
+    entity_cols: ['vessel_type', 'buyers', 'ss', 'ss_due', 'dd_due', 'delivery']
+    provenance: reported_table
+  - stem: bancosta_secondhand_matrix_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_current_usd_m', 'price_previous_usd_m', 'pct_change_wow', 'pct_change_yoy']
+    entity_cols: ['vessel_type', 'unit']
+    provenance: reported_table
+  - stem: bancosta_vhss_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['value_current', 'value_previous', 'pct_change_wow', 'pct_change_yoy']
+    entity_cols: ['unit']
+    provenance: reported_table
+  - {stem: 'best_oasis_deals_series', kind: duplicate, skip: true}
+  - {stem: 'best_oasis_demolition_series', kind: duplicate, skip: true}
+  - stem: best_oasis_exchange_rates_series
+    source: hellenic
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['usd_inr', 'usd_bdt', 'usd_pkr', 'usd_try', 'brent_crude_usd', 'wti_crude_usd']
+    entity_cols: []
+    provenance: reported_table
+  - {stem: 'best_oasis_market_commentary_series', kind: commentary, skip: true}
+  - stem: breakwave_fundamentals_series
+    source: drybulk
+    mixed_sources: true
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['yoy_change']
+    entity_cols: ['metric']
+    provenance: reported_table
+  - {stem: 'breakwave_insights_metadata', kind: metadata, skip: true}
+  - stem: carriers_bda_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_usd_per_ldt']
+    entity_cols: ['place', 'ldt_range', 'sentiment_arrow']
+    provenance: reported_table
+  - stem: carriers_bspa_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['size_dwt', 'price_usd_m']
+    entity_cols: ['vessel_class', 'sentiment_arrow']
+    provenance: reported_table
+  - stem: carriers_demolition_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['dwt', 'ldt', 'built', 'price_usd_per_ldt']
+    entity_cols: ['vessel_name', 'type', 'yard', 'buyers', 'comments']
+    provenance: reported_table
+  - stem: carriers_dry_tc_period_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['rate_usd_day', 'rate_atl_usd_day', 'rate_pac_usd_day']
+    entity_cols: ['vessel_class', 'tenor']
+    provenance: reported_table
+  - stem: carriers_dry_weighted_routes_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['current_rate_usd_day', 'week_change_usd_day', 'prev_rate_usd_day']
+    entity_cols: ['route_vessel_class']
+    provenance: reported_table
+  - stem: carriers_indices_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['current_value', 'change_val', 'prev_value']
+    entity_cols: ['index_category', 'index_name', 'sentiment_arrow']
+    provenance: reported_table
+  - stem: carriers_newbuilding_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['units', 'price_usd_mill']
+    entity_cols: ['type', 'yard', 'owners', 'comments']
+    provenance: reported_table
+  - stem: carriers_sales_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['dwt', 'built', 'price_usd_mill']
+    entity_cols: ['section', 'vessel_name', 'type', 'yard', 'buyers', 'comments']
+    provenance: reported_table
+  - stem: carriers_tanker_tce_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['current_value', 'week_change', 'prev_value']
+    entity_cols: ['metric_name']
+    provenance: reported_table
+  - stem: clarksons_demolition_sales_series
+    source: hellenic
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['dwt', 'built', 'price_usd_per_ldt']
+    entity_cols: ['vessel_name', 'price_raw', 'delivery_location']
+    provenance: reported_table
+  - stem: clarksons_demolition_series
+    source: hellenic
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['dwt', 'built_year', 'ldt', 'price_usd_ldt', 'DWT']
+    entity_cols: ['section', 'vessel', 'built_place', 'price_raw', 'destination', 'NAME', 'TYPE', 'YARD', 'PRICE', 'DELIVERY']
+    provenance: reported_table
+  - {stem: 'clarksons_desk_talk_series', kind: commentary, skip: true}
+  - stem: clarksons_macro_series
+    source: hellenic
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['bdi', 'eur_usd']
+    entity_cols: []
+    provenance: reported_table
+  - stem: clarksons_sales_series
+    source: hellenic
+    mixed_sources: true
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['dwt', 'built_year', 'price_usd_m', 'price_usd_m_per_vessel', 'built_raw', 'DWT', 'BUILT']
+    entity_cols: ['section', 'vessel', 'yard', 'details', 'ss_dd', 'price_raw', 'price_qualifier', 'price_scope', 'buyer', 'en_bloc', 'en_bloc_group', 'NAME', 'TYPE', 'YARD', 'PRICE', 'BUYERS', 'SS_DD', 'COMMENTS']
+    provenance: reported_table
+  - stem: clarksons_snp_sales_series
+    source: hellenic
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['dwt', 'built_year', 'price_usd_m']
+    entity_cols: ['vessel_name', 'bwts_fitted', 'scrubber_fitted', 'gear_cranes', 'special_coating', 'ss_due', 'dd_due', 'is_en_bloc', 'is_auction']
+    provenance: reported_table
+  - {stem: 'compare_vs_clarksons_sales_series', kind: empty, skip: true}
+  - {stem: 'compare_vs_clarksons_snp_sales_series', kind: computed, skip: true}
+  - stem: drewry_ais_chart_series
+    source: drewry_ais_pdfs
+    mode: long
+    date_from: ['year', 'week']   # ISO week -> period_from = Monday (fromisocalendar(y,w,1)); no published_date col
+    value_col: 'value'
+    measurement_col: 'series'
+    entity_cols: ['vessel_class', 'sector', 'chart', 'axis']
+    unit_col: 'unit'
+    frequency: weekly
+    provenance: reported_table
+  - stem: drewry_ais_crude_aframax_series
+    source: drewry_ais_pdfs
+    date_col: 'published_date'
+    mode: wide
+    value_cols: ['current_utilisation_pct', 'mom_utilisation_change_pp', 'yoy_utilisation_change_pp', 'tonne_miles_index', 'tonne_miles_yoy_pct', 'bunker_price_usd_per_t', 'bunker_price_mom_pct', 'ballast_speed_east_mom_pct', 'ballast_speed_west_mom_pct', 'anchor_capacity_west_mom_pct', 'anchor_capacity_east_mom_pct', 'anchor_4w_ma_change_mdwt', 'laden_anchor_days_4w_change_pct', 'laden_share_east_mom_pp', 'laden_share_west_mom_pp']
+    entity_cols: ['vessel_class', 'vessel_category']
+    provenance: reported_table
+  - stem: drewry_ais_crude_suezmax_series
+    source: drewry_ais_pdfs
+    date_col: 'published_date'
+    mode: wide
+    value_cols: ['current_utilisation_pct', 'mom_utilisation_change_pp', 'yoy_utilisation_change_pp', 'tonne_miles_index', 'tonne_miles_yoy_pct', 'bunker_price_usd_per_t', 'bunker_price_mom_pct', 'ballast_speed_east_mom_pct', 'ballast_speed_west_mom_pct', 'anchor_capacity_west_mom_pct', 'anchor_capacity_east_mom_pct', 'anchor_4w_ma_change_mdwt', 'laden_anchor_days_4w_change_pct', 'laden_share_east_mom_pp', 'laden_share_west_mom_pp']
+    entity_cols: ['vessel_class', 'vessel_category']
+    provenance: reported_table
+  - stem: drewry_ais_crude_vlcc_series
+    source: drewry_ais_pdfs
+    date_col: 'published_date'
+    mode: wide
+    value_cols: ['current_utilisation_pct', 'mom_utilisation_change_pp', 'yoy_utilisation_change_pp', 'tonne_miles_index', 'tonne_miles_yoy_pct', 'bunker_price_usd_per_t', 'bunker_price_mom_pct', 'ballast_speed_east_mom_pct', 'ballast_speed_west_mom_pct', 'anchor_capacity_west_mom_pct', 'anchor_capacity_east_mom_pct', 'anchor_4w_ma_change_mdwt', 'laden_anchor_days_4w_change_pct', 'laden_share_east_mom_pp', 'laden_share_west_mom_pp']
+    entity_cols: ['vessel_class', 'vessel_category']
+    provenance: reported_table
+  - stem: drewry_ais_drybulk_capesize_series
+    source: drewry_ais_pdfs
+    date_col: 'published_date'
+    mode: wide
+    value_cols: ['current_utilisation_pct', 'mom_utilisation_change_pp', 'yoy_utilisation_change_pp', 'tonne_miles_index', 'tonne_miles_yoy_pct', 'bunker_price_usd_per_t', 'bunker_price_mom_pct', 'ballast_speed_east_mom_pct', 'ballast_speed_west_mom_pct', 'anchor_capacity_west_mom_pct', 'anchor_capacity_east_mom_pct', 'anchor_4w_ma_change_mdwt', 'laden_anchor_days_4w_change_pct', 'laden_share_east_mom_pp', 'laden_share_west_mom_pp']
+    entity_cols: ['vessel_class', 'vessel_category']
+    provenance: reported_table
+  - stem: drewry_ais_drybulk_handysize_series
+    source: drewry_ais_pdfs
+    date_col: 'published_date'
+    mode: wide
+    value_cols: ['current_utilisation_pct', 'mom_utilisation_change_pp', 'yoy_utilisation_change_pp', 'tonne_miles_index', 'tonne_miles_yoy_pct', 'bunker_price_usd_per_t', 'bunker_price_mom_pct', 'ballast_speed_east_mom_pct', 'ballast_speed_west_mom_pct', 'anchor_capacity_west_mom_pct', 'anchor_capacity_east_mom_pct', 'anchor_4w_ma_change_mdwt', 'laden_anchor_days_4w_change_pct', 'laden_share_east_mom_pp', 'laden_share_west_mom_pp']
+    entity_cols: ['vessel_class', 'vessel_category']
+    provenance: reported_table
+  - stem: drewry_ais_drybulk_panamax_series
+    source: drewry_ais_pdfs
+    date_col: 'published_date'
+    mode: wide
+    value_cols: ['current_utilisation_pct', 'mom_utilisation_change_pp', 'yoy_utilisation_change_pp', 'tonne_miles_index', 'tonne_miles_yoy_pct', 'bunker_price_usd_per_t', 'bunker_price_mom_pct', 'ballast_speed_east_mom_pct', 'ballast_speed_west_mom_pct', 'anchor_capacity_west_mom_pct', 'anchor_capacity_east_mom_pct', 'anchor_4w_ma_change_mdwt', 'laden_anchor_days_4w_change_pct', 'laden_share_east_mom_pp', 'laden_share_west_mom_pp']
+    entity_cols: ['vessel_class', 'vessel_category']
+    provenance: reported_table
+  - stem: drewry_ais_drybulk_supramax_series
+    source: drewry_ais_pdfs
+    date_col: 'published_date'
+    mode: wide
+    value_cols: ['current_utilisation_pct', 'mom_utilisation_change_pp', 'yoy_utilisation_change_pp', 'tonne_miles_index', 'tonne_miles_yoy_pct', 'bunker_price_usd_per_t', 'bunker_price_mom_pct', 'ballast_speed_east_mom_pct', 'ballast_speed_west_mom_pct', 'anchor_capacity_west_mom_pct', 'anchor_capacity_east_mom_pct', 'anchor_4w_ma_change_mdwt', 'laden_anchor_days_4w_change_pct', 'laden_share_east_mom_pp', 'laden_share_west_mom_pp']
+    entity_cols: ['vessel_class', 'vessel_category']
+    provenance: reported_table
+  - stem: drewry_ais_lpg_fr_series
+    source: drewry_ais_pdfs
+    date_col: 'published_date'
+    mode: wide
+    value_cols: ['tonne_miles_index', 'tonne_miles_yoy_pct', 'bunker_price_usd_per_t', 'bunker_price_mom_pct', 'ballast_speed_east_mom_pct', 'ballast_speed_west_mom_pct', 'anchor_capacity_west_mom_pct', 'anchor_capacity_east_mom_pct', 'anchor_4w_ma_change_mdwt', 'laden_anchor_days_4w_change_pct', 'laden_share_east_mom_pp', 'laden_share_west_mom_pp']
+    entity_cols: ['vessel_class', 'vessel_category']
+    provenance: reported_table
+  - stem: drewry_ais_product_lr1_series
+    source: drewry_ais_pdfs
+    date_col: 'published_date'
+    mode: wide
+    value_cols: ['current_utilisation_pct', 'mom_utilisation_change_pp', 'yoy_utilisation_change_pp', 'tonne_miles_index', 'tonne_miles_yoy_pct', 'bunker_price_usd_per_t', 'bunker_price_mom_pct', 'ballast_speed_east_mom_pct', 'ballast_speed_west_mom_pct', 'anchor_capacity_west_mom_pct', 'anchor_capacity_east_mom_pct', 'anchor_4w_ma_change_mdwt', 'laden_anchor_days_4w_change_pct', 'laden_share_east_mom_pp', 'laden_share_west_mom_pp']
+    entity_cols: ['vessel_class', 'vessel_category']
+    provenance: reported_table
+  - stem: drewry_ais_product_lr2_series
+    source: drewry_ais_pdfs
+    date_col: 'published_date'
+    mode: wide
+    value_cols: ['current_utilisation_pct', 'mom_utilisation_change_pp', 'yoy_utilisation_change_pp', 'tonne_miles_index', 'tonne_miles_yoy_pct', 'bunker_price_usd_per_t', 'bunker_price_mom_pct', 'ballast_speed_east_mom_pct', 'ballast_speed_west_mom_pct', 'anchor_capacity_west_mom_pct', 'anchor_capacity_east_mom_pct', 'anchor_4w_ma_change_mdwt', 'laden_anchor_days_4w_change_pct', 'laden_share_east_mom_pp', 'laden_share_west_mom_pp']
+    entity_cols: ['vessel_class', 'vessel_category']
+    provenance: reported_table
+  - {stem: 'drewry_opinions_metadata', kind: metadata, skip: true}
+  - {stem: 'drewry_wci_series', kind: chart_derived, skip: true}
+  - stem: fearnleys_drybulk_growth_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['last_weeks', 'value_pct']
+    entity_cols: ['metric']
+    provenance: reported_table
+  - stem: gibson_bunker_prices_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['change_wow', 'price_current', 'price_prev', 'price_last_month']
+    entity_cols: ['port', 'grade']
+    provenance: reported_table
+  - {stem: 'gibson_spot_chart_daily', kind: chart_derived, skip: true}
+  - stem: gibson_tanker_spot_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['change_wow', 'rate_current', 'rate_prev', 'rate_last_month', 'ffa_value']
+    entity_cols: ['market_type', 'route_code', 'vessel_class', 'route_description', 'ffa_period']
+    provenance: reported_table
+  - {stem: 'gms_demolition_rankings_series', kind: duplicate, skip: true}
+  - stem: gms_demolition_sales_series
+    source: hellenic
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['ldt']
+    entity_cols: ['location', 'vessel_name', 'vessel_type', 'price_reported', 'terms_comments']
+    provenance: reported_table
+  - {stem: 'gms_market_commentary_series', kind: commentary, skip: true}
+  - {stem: 'gms_port_positions_series', kind: duplicate, skip: true}
+  - stem: hellenic_alibra_dry_tc_series
+    source: hellenic
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['rate_usd_pdpr']
+    entity_cols: ['vessel_class', 'tenor', 'basin', 'trend']
+    provenance: reported_table
+  - stem: hellenic_alibra_tanker_tc_series
+    source: hellenic
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['rate_usd_pdpr']
+    entity_cols: ['vessel_class', 'tenor', 'eco_scrubber', 'trend']
+    provenance: reported_table
+  - stem: hellenic_best_oasis_deals_series
+    source: hellenic
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['imo', 'year_built', 'ldt', 'price_usd_ldt']
+    entity_cols: ['vessel_name', 'vessel_type', 'country_built', 'sale_terms', 'delivery_location', 'price_status', 'comments']
+    provenance: reported_table
+  - stem: hellenic_best_oasis_demolition_series
+    source: hellenic
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['container_usd_ldt', 'tanker_usd_ldt', 'bulker_usd_ldt', 'hms_80_20_usd_mt', 'shredded_usd_mt']
+    entity_cols: ['location', 'market_status']
+    provenance: reported_table
+  - stem: hellenic_capesize_c3_c5_series
+    source: hellenic
+    date_col: 'date'
+    mode: wide
+    value_cols: ['c3_tubarao_qingdao_usd_t', 'c3_chg_usd', 'c5_waust_qingdao_usd_t', 'c5_chg_usd']
+    entity_cols: []
+    provenance: reported_table
+  - stem: hellenic_gms_demolition_series
+    source: hellenic
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['volume', 'rank']
+    entity_cols: ['location', 'sentiment', 'dry_bulk_usd_ldt', 'tankers_usd_ldt', 'containers_usd_ldt']
+    provenance: reported_table
+  - stem: hellenic_gms_port_positions_series
+    source: hellenic
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['item_no', 'ldt']
+    entity_cols: ['as_of_date', 'port', 'vessel_name', 'vessel_type', 'status']
+    provenance: reported_table
+  - {stem: 'hellenic_iron_ore_commentary_series', kind: commentary, skip: true}
+  - stem: hellenic_iron_ore_daily_series
+    source: hellenic
+    date_col: 'date'
+    mode: wide
+    value_cols: ['benchmark_fe_grade', 'iopi_bench_rmb_wmt', 'iopi65_rmb_wmt', 'iopi58_rmb_wmt', 'iosi_bench_usd_dmt', 'iosi65_usd_dmt', 'iopli_lump_rmb_wmt', 'dce_iron_ore_rmb_t', 'sgx_iron_ore_usd_dmt', 'shfe_rebar_rmb_t', 'c3_tubarao_qingdao_usd_t', 'c5_waust_qingdao_usd_t', 'steel_rebar_domestic_rmb_t', 'port_iron_ore_inventory_mt', 'steel_inventory_china_mt', 'steel_hrc_domestic_rmb_t', 'iopi_bench_chg_rmb', 'iopi65_chg_rmb', 'iopi58_chg_rmb', 'iosi_bench_chg_usd', 'iosi65_chg_usd', 'iopli_lump_chg_rmb', 'c3_chg_usd', 'c5_chg_usd', 'dce_chg_rmb', 'sgx_chg_usd', 'shfe_rebar_chg_rmb', 'steel_rebar_chg_rmb', 'port_inv_chg_mt', 'steel_inv_chg_mt', 'steel_hrc_chg_rmb']
+    entity_cols: []
+    provenance: reported_table
+  - stem: hellenic_iron_ore_pdf_averages_series
+    source: hellenic
+    date_col: 'date'
+    mode: wide
+    value_cols: ['m_minus_4', 'm_minus_3', 'm_minus_2', 'm_minus_1', 'mtd', 'qtd', 'ytd']
+    entity_cols: ['index_name', 'market_type', 'unit']
+    provenance: reported_table
+  - stem: hellenic_iron_ore_pdf_brand_specs_series
+    source: hellenic
+    date_col: 'date'
+    mode: wide
+    value_cols: ['fe_pct', 'alumina_pct', 'silica_pct', 'phos_pct', 'moisture_pct']
+    entity_cols: ['market_type', 'brand']
+    provenance: reported_table
+  - stem: hellenic_iron_ore_pdf_brands_series
+    source: hellenic
+    date_col: 'date'
+    mode: wide
+    value_cols: ['fe_pct', 'price', 'change', 'change_pct']
+    entity_cols: ['brand', 'market_type', 'product_type', 'unit']
+    provenance: reported_table
+  - stem: hellenic_iron_ore_pdf_dashboard_series
+    source: hellenic
+    date_col: 'date'
+    mode: wide
+    value_cols: ['value', 'change', 'change_pct']
+    entity_cols: ['indicator', 'contract', 'unit']
+    provenance: reported_table
+  - stem: hellenic_iron_ore_pdf_domestic_concentrate_series
+    source: hellenic
+    date_col: 'date'
+    mode: wide
+    value_cols: ['price_rmb_t', 'change_pct_rmb', 'low_rmb_t', 'high_rmb_t', 'price_usd_t', 'change_pct_usd', 'low_usd_t', 'high_usd_t']
+    entity_cols: ['province', 'region', 'product', 'basis']
+    provenance: reported_table
+  - stem: hellenic_iron_ore_pdf_freight_rates_series
+    source: hellenic
+    date_col: 'date'
+    mode: wide
+    value_cols: ['c5_waust_usd_t', 'c3_tubarao_usd_t']
+    entity_cols: ['chart_date', 'value_source']
+    provenance: reported_table
+  - stem: hellenic_iron_ore_pdf_futures_series
+    source: hellenic
+    date_col: 'date'
+    mode: wide
+    value_cols: ['price', 'change', 'change_pct', 'vol_traded_k_lots', 'vol_change', 'vol_change_pct', 'open_positions_k_lots', 'open_positions_change', 'open_positions_change_pct', 'day_low', 'day_low_change', 'day_low_change_pct', 'day_high', 'day_high_change', 'day_high_change_pct']
+    entity_cols: ['exchange', 'contract', 'unit']
+    provenance: reported_table
+  - stem: hellenic_iron_ore_pdf_import_volumes_series
+    source: hellenic
+    date_col: 'date'
+    mode: wide
+    value_cols: ['volume_mt']
+    entity_cols: ['value_source']
+    provenance: reported_table
+  - stem: hellenic_iron_ore_pdf_index_comparisons_series
+    source: hellenic
+    date_col: 'date'
+    mode: wide
+    value_cols: ['iosi62_usd_dmt', 'iopi62_eq_usd_dmt', 'iosi65_usd_dmt', 'iopi65_eq_usd_dmt']
+    entity_cols: ['chart_date', 'value_source']
+    provenance: reported_table
+  - stem: hellenic_iron_ore_pdf_indices_series
+    source: hellenic
+    date_col: 'date'
+    mode: wide
+    value_cols: ['price', 'change', 'change_pct', 'mtd', 'ytd', 'low_52w', 'high_52w']
+    entity_cols: ['index_name', 'market', 'market_type', 'unit']
+    provenance: reported_table
+  - stem: hellenic_iron_ore_pdf_normalisations_series
+    source: hellenic
+    date_col: 'date'
+    mode: wide
+    value_cols: ['value', 'change']
+    entity_cols: ['market_type', 'element', 'applicable_range', 'unit']
+    provenance: reported_table
+  - stem: hellenic_iron_ore_pdf_port_differentials_series
+    source: hellenic
+    date_col: 'date'
+    mode: wide
+    value_cols: ['differential_rmb_wmt', 'change_rmb_wmt']
+    entity_cols: ['port']
+    provenance: reported_table
+  - stem: hellenic_iron_ore_pdf_port_inventories_series
+    source: hellenic
+    date_col: 'date'
+    mode: wide
+    value_cols: ['inventory_mt', 'change_pct', 'low_12m', 'high_12m']
+    entity_cols: ['terminal', 'week_ending', 'value_source']
+    provenance: reported_table
+  - stem: hellenic_iron_ore_pdf_spreads_series
+    source: hellenic
+    date_col: 'date'
+    mode: wide
+    value_cols: ['spread_to_benchmark', 'spread_pct']
+    entity_cols: ['index_name', 'fe_content', 'market_type', 'benchmark_index']
+    provenance: reported_table
+  - stem: hellenic_iron_ore_pdf_steel_mill_pnl_series
+    source: hellenic
+    date_col: 'date'
+    mode: wide
+    value_cols: ['price_or_margin', 'change_wow']
+    entity_cols: ['unit']
+    provenance: reported_table
+  - stem: hellenic_iron_ore_pdf_steel_series
+    source: hellenic
+    date_col: 'date'
+    mode: wide
+    value_cols: ['price_rmb_t', 'change_rmb_t', 'change_pct']
+    entity_cols: ['product']
+    provenance: reported_table
+  - stem: hellenic_iron_ore_table_series
+    source: hellenic
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['fot_rmb_wmt', 'fot_change', 'fot_change_pct', 'fot_mtd', 'fot_ytd', 'fot_low', 'fot_high', 'cfr_usd_dmt', 'cfr_change', 'cfr_change_pct', 'cfr_mtd', 'cfr_ytd', 'cfr_low', 'cfr_high']
+    entity_cols: ['index_family', 'index_code', 'fe_grade']
+    provenance: reported_table
+  - stem: hellenic_smm_market_drivers_series
+    source: hellenic
+    date_col: 'date'
+    mode: wide
+    value_cols: ['freight_c3_usd_mt', 'freight_c5_usd_mt', 'hot_metal_daily_avg_mt_million', 'bf_operating_rate_pct', 'bf_capacity_utilisation_pct', 'port_inventory_10_ports_mt_million', 'port_inventory_35_ports_mt_million', 'daily_outbound_volume_mt_million', 'mill_imported_stocks_242_mills_mt_million', 'mill_stocks_cover_days', 'global_shipments_mt_million', 'arrivals_chinese_ports_mt_million', 'domestic_mine_capacity_utilisation_pct']
+    entity_cols: []
+    provenance: reported_table
+  - stem: hellenic_vv_benchmark_sales_series
+    source: hellenic
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['sale_price_usd_m', 'vv_value_usd_m']
+    entity_cols: ['vessel_name', 'vessel_specs', 'seller', 'raw_transaction']
+    provenance: reported_table
+  - stem: hellenic_vv_matrix_series
+    source: hellenic
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['age_years', 'pct_change_weekly', 'benchmark_size_num']
+    entity_cols: ['vessel_class']
+    provenance: reported_table
+  - stem: hellenic_vv_sales_series
+    source: hellenic
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_usd_m', 'vv_value_usd_m', 'premium_pct', 'size', 'n_vessels', 'en_bloc']
+    entity_cols: ['vessel_name', 'vessel_class', 'dwt_spec', 'yard', 'buyer', 'comments', 'size_unit', 'seller', 'action', 'price_raw', 'flags', 'vessel_class_raw']
+    provenance: reported_table
+  - stem: intermodal_baltic_indices_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['index_current', 'tce_usd_day_current', 'index_prev', 'tce_usd_day_prev', 'point_diff', 'change_pct', 'avg_prev_year_1', 'avg_prev_year_2']
+    entity_cols: ['index_name']
+    provenance: reported_table
+  - stem: intermodal_bunkers_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_usd_per_mt', 'prior_price_usd_per_mt', 'change_pct']
+    entity_cols: ['fuel_grade', 'port']
+    provenance: reported_table
+  - stem: intermodal_currencies_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['rate_current', 'rate_prev_week', 'change_pct', 'ytd_high']
+    entity_cols: ['market_currency']
+    provenance: reported_table
+  - stem: intermodal_demo_sales_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['dwt', 'ldt', 'year_built', 'price_usd_per_ldt']
+    entity_cols: ['vessel_name', 'vessel_type', 'yard', 'buyer_breakers', 'comments']
+    provenance: reported_table
+  - stem: intermodal_demolition_prices_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_current_usd_per_ldt', 'price_previous_usd_per_ldt', 'pct_change']
+    entity_cols: ['country']
+    provenance: reported_table
+  - stem: intermodal_demolition_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_current_usd_per_ldt', 'price_previous_usd_per_ldt', 'pct_change', 'dwt', 'ldt', 'year_built', 'price_usd_per_ldt']
+    entity_cols: ['record_type', 'country', 'vessel_name', 'yard', 'vessel_type', 'buyer_breakers', 'comments']
+    provenance: reported_table
+  - stem: intermodal_indicative_values_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_usd_m_current', 'price_usd_m_prev_month', 'change_pct', 'avg_prev_year_1', 'avg_prev_year_2', 'avg_prev_year_3']
+    entity_cols: ['vessel_class', 'age_profile']
+    provenance: reported_table
+  - stem: intermodal_macro_daily_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['value', 'is_latest', 'wow_change_pct']
+    entity_cols: ['indicator']
+    provenance: reported_table
+  - stem: intermodal_macro_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['latest_value', 'prior_value', 'wow_change_pct']
+    entity_cols: ['indicator']
+    provenance: reported_table
+  - stem: intermodal_maritime_stocks_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['current_price', 'prior_price', 'change_pct']
+    entity_cols: ['company', 'exchange', 'currency']
+    provenance: reported_table
+  - {stem: 'intermodal_newbuilding_orders_series', kind: transaction_table, skip: true}
+  - stem: intermodal_newbuilding_prices_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_current_usd_m', 'price_previous_usd_m', 'pct_change']
+    entity_cols: ['vessel_type', 'size']
+    provenance: reported_table
+  - stem: intermodal_newbuilding_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_current_usd_m', 'price_previous_usd_m', 'pct_change']
+    entity_cols: ['record_type', 'yard', 'price_raw']
+    provenance: reported_table
+  - stem: intermodal_sales_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['dwt', 'year_built', 'price_usd_m']
+    entity_cols: ['section', 'vessel_name', 'vessel_type', 'yard', 'm_e', 'gear_hull', 'buyers', 'comments']
+    provenance: reported_table
+  - stem: intermodal_tanker_spot_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['ws_points_current', 'tce_usd_day_current', 'ws_points_prev', 'tce_usd_day_prev', 'change_pct', 'avg_prev_year_1', 'avg_prev_year_2']
+    entity_cols: ['vessel_class', 'route']
+    provenance: reported_table
+  - stem: intermodal_tc_rates_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['rate_usd_day_current', 'rate_usd_day_prev', 'change_pct', 'diff_usd_day', 'avg_prev_year_1', 'avg_prev_year_2']
+    entity_cols: ['vessel_class', 'tenor']
+    provenance: reported_table
+  - stem: ism_coaster_freight_series
+    source: shipbrokers
+    date_col: 'date'
+    mode: long
+    value_col: 'value'
+    measurement_col: 'series_name'
+    entity_cols: ['segment', 'route_title']
+    unit_col: 'unit'
+    frequency: daily
+    provenance: reported_table
+  - stem: ism_handy_freight_series
+    source: shipbrokers
+    date_col: 'date'
+    mode: long
+    value_col: 'value'
+    measurement_col: 'series_name'
+    entity_cols: ['segment', 'route_title']
+    unit_col: 'unit'
+    frequency: daily
+    provenance: reported_table
+  - stem: lion_deals_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['dwt', 'ldt', 'built_year', 'price_usd_m', 'price_per_lt']
+    entity_cols: ['section', 'sub_section', 'deal_kind', 'tag', 'vessel', 'yard', 'country_built', 'class', 'price_raw', 'en_bloc', 'price_basis', 'buyer', 'destination', 'comments']
+    provenance: reported_table
+  - stem: lion_demo_sales_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['dwt', 'ldt', 'built_year', 'price_usd_per_lt']
+    entity_cols: ['section', 'sub_section', 'tag', 'vessel', 'yard', 'country_built', 'price_raw', 'destination', 'comments']
+    provenance: reported_table
+  - stem: lion_demolition_series
+    source: shipbrokers
+    date_col: 'report_date'
+    mode: wide
+    value_cols: ['price_low', 'price_high', 'price_point']
+    entity_cols: ['country', 'vessel_type', 'trend', 'value_kind']
+    unit_col: 'unit'
+    provenance: reported_table
+  - stem: lion_demometer_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_low', 'price_high', 'price_point']
+    entity_cols: ['country', 'vessel_type', 'trend']
+    unit_col: 'unit'
+    provenance: reported_table
+  - stem: lion_sales_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['dwt', 'built_year', 'price_usd_m']
+    entity_cols: ['section', 'tag', 'vessel', 'yard', 'country_built', 'class', 'ss_due', 'dd_due', 'price_raw', 'en_bloc', 'price_basis', 'buyer', 'comments']
+    provenance: reported_table
+  - stem: poten_fixtures_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['fixtures_count']
+    entity_cols: ['cargo_type', 'vessel_size']
+    provenance: reported_table
+  - {stem: 'poten_fleet_delivery_schedule_series', kind: empty, skip: true}
+  - stem: poten_fleet_statistics_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['fleet_count', 'fleet_dwt', 'orderbook_count', 'orderbook_dwt', 'orderbook_pct', 'fleet_20yr_by_22', '20yr_old_to_orderbook']
+    entity_cols: ['vessel_class']
+    provenance: reported_table
+  - {stem: 'poten_opinions_metadata', kind: metadata, skip: true}
+  - stem: poten_tanker_orderbook_age_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['fleet_count_trading', 'fleet_count_on_order', 'orderbook_pct', 'orderbook_dwt_m', 'fleet_dwt_m', 'pct_0_5_yrs', 'pct_6_10_yrs']
+    entity_cols: ['average_age_years']
+    provenance: reported_table
+  - stem: poten_top_charterers_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['rank', 'cargo_mt_000s', 'pct_total_cargo', 'fixtures_count', 'prev_rank']
+    entity_cols: ['pct_fixtures']
+    provenance: reported_table
+  - {stem: 'poten_vlcc_historical_rates_series', kind: empty, skip: true}
+  - {stem: 'seabrokers_catalog_metadata', kind: metadata, skip: true}
+  - stem: seabrokers_feature_vessels_series
+    source: seabrokers
+    date_col: 'report_date'
+    mode: long
+    value_col: 'value'
+    measurement_col: 'metric'
+    entity_cols: ['vessel_class']
+    unit_col: 'unit'
+    frequency: monthly
+    provenance: reported_table
+  - stem: seabrokers_fleet_moves_series
+    source: seabrokers
+    date_col: 'report_date'
+    mode: long
+    value_col: 'value'
+    measurement_col: 'metric'
+    entity_cols: ['vessel_class']
+    frequency: monthly
+    provenance: reported_table
+  - stem: seabrokers_osv_monthly_history_series
+    source: seabrokers
+    date_col: 'report_date'
+    mode: long
+    value_col: 'value'
+    measurement_col: 'metric'
+    entity_cols: ['period', 'vessel_class']
+    unit_col: 'unit'
+    frequency: monthly
+    provenance: reported_table
+  - stem: seabrokers_osv_spot_rates_series
+    source: seabrokers
+    date_col: 'report_date'
+    mode: long
+    value_col: 'value'
+    measurement_col: 'metric'
+    entity_cols: ['vessel_class']
+    unit_col: 'unit'
+    frequency: monthly
+    provenance: reported_table
+  - stem: seabrokers_osv_utilisation_series
+    source: seabrokers
+    date_col: 'report_date'
+    mode: long
+    value_col: 'value'
+    measurement_col: 'metric'
+    entity_cols: ['period', 'vessel_class']
+    unit_col: 'unit'
+    frequency: monthly
+    provenance: reported_table
+  - stem: seabrokers_renewables_and_ets_series
+    source: seabrokers
+    date_col: 'report_date'
+    mode: long
+    value_col: 'value'
+    measurement_col: 'metric'
+    entity_cols: ['section']
+    unit_col: 'unit'
+    frequency: monthly
+    provenance: reported_table
+  - stem: seabrokers_rig_utilisation_monthly_series
+    source: seabrokers
+    date_col: 'report_date'
+    mode: long
+    value_col: 'value'
+    measurement_col: 'metric'
+    entity_cols: ['period', 'region']
+    unit_col: 'unit'
+    frequency: monthly
+    provenance: reported_table
+  - stem: seabrokers_rigs_market_series
+    source: seabrokers
+    date_col: 'report_date'
+    mode: long
+    value_col: 'value'
+    measurement_col: 'metric'
+    entity_cols: ['section', 'region', 'vessel_class']
+    unit_col: 'unit'
+    frequency: monthly
+    provenance: reported_table
+  - stem: seabrokers_snp_auctions_series
+    source: seabrokers
+    date_col: 'report_date'
+    mode: long
+    value_col: 'value'
+    measurement_col: 'metric'
+    entity_cols: ['vessel_class']
+    unit_col: 'unit'
+    frequency: monthly
+    provenance: reported_table
+  - {stem: 'signal_reports_metadata', kind: metadata, skip: true}
+  - stem: signal_vessel_counts_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['count']
+    entity_cols: ['vessel_class', 'metric', 'region', 'regions_complete']
+    provenance: reported_table
+  - stem: singletons_sales_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['imo', 'dwt', 'built', 'price_usd_m', 'price_raw']
+    entity_cols: ['source', 'section', 'vessel_name', 'type', 'yard', 'buyers']
+    provenance: reported_table
+  - stem: ssy_capesize_index_series
+    source: shipbrokers
+    date_col: 'date'
+    mode: wide
+    value_cols: ['printed_index', 'value', 'n_reports', 'min', 'max', 'value_sd']
+    entity_cols: ['route', 'basis']
+    frequency: daily
+    provenance: reported_table
+  - stem: ssy_capesize_index_time_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['calculated_index_prev', 'calculated_index_curr', 'change_prev_index', 'change_4w', 'change_1y', 'change_2y', 'tc_trip_day_curr', 'tc_round_day_curr', 'tc_trip_day_prev', 'tc_round_day_prev']
+    entity_cols: ['basin']
+    provenance: reported_table
+  - stem: ssy_route_rates_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['weight_pct', 'rate_prev', 'rate_curr', 'change_usd_t']
+    entity_cols: ['basin', 'route', 'cargo_size']
+    provenance: reported_table
+  - stem: star_asia_5y_history_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['year_2021', 'year_2022', 'year_2023', 'year_2024', 'year_2025']
+    entity_cols: ['destination']
+    provenance: reported_table
+  - stem: star_asia_bunker_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_usd_t']
+    entity_cols: ['port', 'grade']
+    provenance: reported_table
+  - stem: star_asia_deals_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['ldt', 'price_usd_per_ldt', 'year_built']
+    entity_cols: ['deal_type', 'vessel_name', 'destination_yard', 'built_country', 'arrival_date', 'beaching_date', 'terms_comments', 'arrival_date_status', 'arrival_date_note', 'beaching_date_note', 'built', 'country_destination', 'buyer_comments', 'terms']
+    provenance: reported_table
+  - stem: star_asia_demolition_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_low', 'price_high', 'price_usd_per_ldt']
+    entity_cols: ['destination', 'country', 'sentiment']
+    provenance: reported_table
+  - stem: star_asia_ferrous_scrap_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_low', 'price_high', 'usd_low', 'usd_high']
+    entity_cols: ['country', 'origin', 'grade', 'currency', 'price_type']
+    provenance: reported_table
+  - stem: star_asia_fx_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['rate', 'rate_prev_week', 'wow_pct_printed']
+    entity_cols: ['currency_pair', 'country']
+    provenance: reported_table
+  - stem: star_asia_iron_ore_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_usd_mt', 'change_wow_pct', 'change_yoy_pct', 'last_week_usd_mt', 'last_year_usd_mt']
+    entity_cols: ['commodity', 'grade_origin']
+    provenance: reported_table
+  - stem: star_asia_ldt_comparison_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['ldt_tonnage']
+    entity_cols: ['location']
+    provenance: reported_table
+  - stem: star_asia_metals_energy_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price', 'change', 'pct_change']
+    entity_cols: ['index_name', 'units', 'contract']
+    provenance: reported_table
+  - stem: star_asia_snp_sales_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['dwt', 'year_built', 'price_usd_mill']
+    entity_cols: ['section', 'vessel_name', 'vessel_type', 'buyers_comments']
+    provenance: reported_table
+  - stem: star_asia_tc_rates_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['dwt', 'rate_usd_day', 'last_week_usd_day', 'last_year_usd_day', 'wow_pct_printed', 'yoy_pct_printed']
+    entity_cols: ['vessel_type', 'check']
+    provenance: reported_table
+  - stem: star_asia_valuation_matrix_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['nb_contract_usd_m', 'nb_prompt_usd_m', 'five_year_usd_m', 'ten_year_usd_m', 'older_year_usd_m']
+    entity_cols: []
+    provenance: reported_table
+  - stem: xclusiv_baltic_indices_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['index_value', 'prev_value', 'change_pct', 'avg_year_1', 'avg_year_2', 'avg_year_3']
+    entity_cols: ['index_name']
+    provenance: reported_table
+  - stem: xclusiv_demo_sales_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['YEAR', 'DWT', 'LDT', 'PRICE_USD_PER_LDT']
+    entity_cols: ['NAME', 'TYPE', 'COUNTRY', 'BUYERS', 'COMMENTS']
+    provenance: reported_table
+  - stem: xclusiv_demolition_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_usd_per_ldt']
+    entity_cols: ['country']
+    provenance: reported_table
+  - stem: xclusiv_freight_benchmarks_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['rate_usd_day']
+    entity_cols: ['vessel_class', 'metric']
+    provenance: reported_table
+  - stem: xclusiv_macro_bunkers_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['vlsfo_usd_mt', 'ifo380_usd_mt', 'mgo_usd_mt', 'spread_vlsfo_ifo380']
+    entity_cols: ['port']
+    provenance: reported_table
+  - {stem: 'xclusiv_newbuilding_orders_series', kind: transaction_table, skip: true}
+  - stem: xclusiv_newbuilding_prices_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_usd_mill']
+    entity_cols: ['vessel_type']
+    provenance: reported_table
+  - stem: xclusiv_sales_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['DWT', 'YEAR', 'PRICE_USD_MILL']
+    entity_cols: ['section', 'NAME', 'TYPE', 'COUNTRY', 'YARD', 'BUYERS', 'COMMENTS']
+    provenance: reported_table
+  - stem: xclusiv_secondhand_series
+    source: shipbrokers
+    date_col: 'issue_date'
+    mode: wide
+    value_cols: ['price_usd_mill']
+    entity_cols: ['vessel_type', 'tenor']
+    provenance: reported_table

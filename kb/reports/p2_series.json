@@ -1,0 +1,132 @@
+{
+ "phase": "P2_series",
+ "stats": {
+  "files_loaded": 48,
+  "files_skipped": 23,
+  "deferred": 28,
+  "resumed": 67,
+  "observations": 387174,
+  "series": 13638,
+  "cells_skipped_nonnum": 400,
+  "rows_skipped_nodate": 0,
+  "unresolved_doc": 338,
+  "git_fallback_used": 0
+ },
+ "actual_series": 29827,
+ "actual_observations": 1762388,
+ "defects": [],
+ "deferred": [
+  {
+   "stem": "advanced_shipping_demo_sales_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "advanced_shipping_newbuilding_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "advanced_shipping_sales_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "bancosta_container_fixtures_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "bancosta_sales_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "carriers_demolition_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "carriers_newbuilding_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "carriers_sales_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "clarksons_demolition_sales_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "clarksons_demolition_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "clarksons_sales_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "clarksons_snp_sales_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "gms_demolition_sales_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "hellenic_best_oasis_deals_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "hellenic_gms_port_positions_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "hellenic_vv_benchmark_sales_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "hellenic_vv_sales_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "intermodal_demo_sales_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "intermodal_sales_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "lion_deals_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "lion_demo_sales_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "lion_sales_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "seabrokers_fleet_moves_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "singletons_sales_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "star_asia_deals_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "star_asia_snp_sales_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "xclusiv_demo_sales_series",
+   "reason": "defer_transactions"
+  },
+  {
+   "stem": "xclusiv_sales_series",
+   "reason": "defer_transactions"
+  }
+ ]
+}
