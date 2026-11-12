@@ -92,8 +92,14 @@ Bulk pass over the frozen 86,607-chunk / 24,978-pack scope, free tier, resumable
 `kb/p4c_daemon.py --pass p4c_bulk` (log `kb/logs/p4c_bulk.log`, state
 `kb/state/p4c/run_p4c_bulk.json`). No paid calls: ledger pipeline spend still **$4.7543**.
 
-- Raws stored: 382/24,978 packs (1.5%), 1,415 chunks. Free-tier rate is the binding constraint
-  (6 calls/min + HTTP 429 storms, 20-min back-off shards), not money.
+- Raws stored: 412/24,978 packs (1.6%) at 2026-11-13 04:39Z. Free-tier rate is the binding
+  constraint (6 calls/min + HTTP 429 storms, 20-min back-off shards), not money. Measured ~4
+  packs/min in the first healthy window => ~4-6 days bulk, then the same order for the glean pass
+  (inside the owner's 12-14 day envelope; do not raise the call rate, 429 storms follow it).
+- Daemon bug fixed at restart (`f2eefdc9ae`): a shard window whose packs were all cached made
+  `pack_shards` restart at pack 1 every round, so the daemon spun with 0 attempted packs. Windows
+  now carry a pack offset (`run_packs(start=) -> start_next`), the driver advances its cursor and
+  only backs off after a full sweep.
 - Real-data rehearsal of the post-processing path (partial raws, no spend): `p4c_union.build` ->
   2,555 records / 376 ok calls / 500 gate drops / 121 dedupes; `p4c_gate.gate_run` -> 86,607 chunk
   rows; `p4c_ladder.build_queue` -> 140 trigger chunks (131 `fail_pct`, 12 `low_confidence`),
