@@ -252,25 +252,30 @@ async def chat(request):
                 if r.status in (401, 402, 403):
                     break          # key or credit problem: go to Ultrafast
         # 1) Ultrafast (free, queued, one at a time)
+        # When Enclave cannot take over (cap used up or no key), Ultrafast is the only road: wait in line
+        # as long as it takes and tolerate more errors, instead of failing the agent's turn after 15 min.
+        en_can = bool(EN_KEY) and STATE["enclave_spent"] < AGENT_CAP_USD
+        deadline_s = FALLBACK_AFTER_S if en_can else float("inf")
+        max_err = 3 if en_can else 30
         uf_ok = (UF_KEY and _approx_prompt_tokens(body) <= UF_MAX_PROMPT_TOK
                  and STATE["uf_day_out"].get(_today(), 0) < UF_DAILY_OUT
-                 and time.time() >= STATE.get("uf_blocked_until", 0))
+                 and (not en_can or time.time() >= STATE.get("uf_blocked_until", 0)))
         if uf_ok:
             errors = 0
             lock = request.app["uf_lock"]
-            while time.monotonic() - t0 < FALLBACK_AFTER_S and errors < 3:
+            while time.monotonic() - t0 < deadline_s and errors < max_err:
                 try:
                     await asyncio.wait_for(lock.acquire(), timeout=KEEPALIVE_S)
                 except asyncio.TimeoutError:
                     await keepalive()
                     continue
                 try:
-                    while time.monotonic() - t0 < FALLBACK_AFTER_S and errors < 3:
+                    while time.monotonic() - t0 < deadline_s and errors < max_err:
                         try:
                             r = await _open(s, UF_BASE, UF_KEY, UF_MODEL, body)
                         except Exception:
                             errors += 1
-                            await asyncio.sleep(5)
+                            await asyncio.sleep(5 if en_can else 20)
                             continue
                         if r.status == 200:
                             done = await relay(r, "ultrafast", UF_MODEL)
@@ -284,17 +289,17 @@ async def chat(request):
                                 wait = float(r.headers.get("Retry-After") or 10)
                             except ValueError:
                                 wait = 10.0
-                            if wait > UF_LONG_WAIT_S:
+                            if wait > UF_LONG_WAIT_S and en_can:
                                 STATE["uf_blocked_until"] = time.time() + wait
-                                errors = 3
+                                errors = max_err
                                 break
-                            end = time.monotonic() + min(max(wait, 1.0), 60.0)
+                            end = time.monotonic() + min(max(wait, 1.0), 60.0 if en_can else 300.0)
                             while time.monotonic() < end:
                                 await keepalive()
                                 await asyncio.sleep(min(KEEPALIVE_S, max(0.1, end - time.monotonic())))
                             continue
                         errors += 1
-                        await asyncio.sleep(5)
+                        await asyncio.sleep(5 if en_can else 20)
                 finally:
                     lock.release()
 
