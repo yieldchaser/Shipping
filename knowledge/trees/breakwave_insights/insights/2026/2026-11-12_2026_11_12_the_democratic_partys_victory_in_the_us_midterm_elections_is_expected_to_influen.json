@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-11-12_2026_11_12_the_democratic_partys_victory_in_the_us_midterm_elections_is_expected_to_influen__root",
+  "doc_id": "breakwave_insights_insights_2026-11-12_2026_11_12_the_democratic_partys_victory_in_the_us_midterm_elections_is_expected_to_influen",
+  "parent_id": null,
+  "title": "The Democratic Party's victory in the US midterm elections, is expected to influence Washington's foreign, energy, trade and maritime policies",
+  "section_path": [
+    "The Democratic Party's victory in the US midterm elections, is expected to influence Washington's foreign, energy, trade and maritime policies"
+  ],
+  "section_path_text": "The Democratic Party's victory in the US midterm elections, is expected to influence Washington's foreign, energy, trade and maritime policies",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Nikolaos Tagoulis\nThe Democratic Party's victory in the US midterm elections, securing control of both chambers of Congress from January 2027, is expected to influence Washington's foreign, energy, trade and maritime policies. Democrats will gain greater leverage over legislation, government spending and congressional oversight. Beyond these institutional powers, the election outcome itself could prompt President Trump to reassess certain policy priorities, even without direct Democratic pressure, as the administration considers the political and economic implications of the result.",
+  "keywords": [
+    "lng",
+    "china",
+    "coal",
+    "crude_oil",
+    "gas",
+    "could",
+    "energy",
+    "democrats",
+    "maritime",
+    "democratic",
+    "greater",
+    "policy"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 767,
+  "source_path": "reports/breakwave/2026/2026-11-12_the-democratic-partys-victory-in-the-us-midterm-elections-is-expected-to-influen.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/11/12/the-democratic-partys-victory-in-the-us-midterm-elections-is-expected-to-influence-washingtons-foreign-energy-trade-and-maritime-policies",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-11-12_2026_11_12_the_democratic_partys_victory_in_the_us_midterm_elections_is_expected_to_influen__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-11-12_2026_11_12_the_democratic_partys_victory_in_the_us_midterm_elections_is_expected_to_influen",
+      "parent_id": "breakwave_insights_insights_2026-11-12_2026_11_12_the_democratic_partys_victory_in_the_us_midterm_elections_is_expected_to_influen__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Nikolaos Tagoulis\nThe Democratic Party's victory in the US midterm elections, securing control of both chambers of Congress from January 2027, is expected to influence Washington's foreign, energy, trade and maritime policies. Democrats will gain greater leverage over legislation, government spending and congressional oversight.",
+      "keywords": [
+        "lng",
+        "china",
+        "coal",
+        "crude_oil",
+        "gas",
+        "could",
+        "energy",
+        "democrats"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 765,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
