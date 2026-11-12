@@ -7,13 +7,13 @@
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4057,
-      "untracked_bytes": 2389108169
+      "untracked_files": 4068,
+      "untracked_bytes": 2391989266
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 9,
-      "untracked_bytes": 2035986
+      "untracked_files": 11,
+      "untracked_bytes": 2050384
     },
     {
       "path": "corpus/04-poten",
@@ -20353,9 +20353,34 @@
       "sha256": "94fe795675127664dd244b56e6220edc2549f31123d5660b14bc632eec0a1395"
     },
     {
+      "path": "corpus/02-hellenic/dry_charter/2026/2026-11-11_weekly-dry-time-charter-estimates-november-11-2026.html",
+      "bytes": 2645,
+      "sha256": "37354d83209fc27be9cf4d40a440a1799f4da65784903ba0e970ce85af5f8368"
+    },
+    {
+      "path": "corpus/02-hellenic/dry_charter/2026/assets/2026-11-11_weekly-dry-time-charter-estimates-november-11-2026_ALIBRA_Dry.jpg",
+      "bytes": 59636,
+      "sha256": "f55e82ef4992419fda9f893250e9357f4c80335d8263a1476793e85ecae24ace"
+    },
+    {
+      "path": "corpus/02-hellenic/dry_charter/2026/assets/2026-11-11_weekly-dry-time-charter-estimates-november-11-2026_alibra-dry_21cbb56e0dc0.jpg",
+      "bytes": 59636,
+      "sha256": "f55e82ef4992419fda9f893250e9357f4c80335d8263a1476793e85ecae24ace"
+    },
+    {
       "path": "corpus/02-hellenic/iron_ore/2024/assets/2024-07-12_mmi-daily-iron-ore-index-report-july-12-2024_img1_1207202\u03b4\u03c3_e133c3395525.jpg",
       "bytes": 469290,
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/2026/2026-11-12_mmi-daily-iron-ore-index-report-november-12-2026.html",
+      "bytes": 4445,
+      "sha256": "19e3accb53b09c7a10a32a1e44ed64d38e39e9d3d4aac8910ccc7ce185f9cb6d"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-11-12_mmi-daily-iron-ore-index-report-november-12-2026_12112026chinesew4_8b5b812b50f6.jpg",
+      "bytes": 181053,
+      "sha256": "c99300f755da60963fbece63930f63615699a0d147c6284c74ba4027ae13ec1a"
     },
     {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
@@ -30353,6 +30378,11 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
+      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-11-12_mmi-daily-iron-ore-index-report-november-12-2026_io20261112-en_e3fee5f04a9f.pdf",
+      "bytes": 1199293,
+      "sha256": "53c7186c099df8f1ac65d4b1cf543aa362f1941e93a49d07777c2c38197ecfd8"
+    },
+    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31741,6 +31771,16 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-11-12_mmi-daily-iron-ore-index-report-november_io20261112-en.pdf",
+      "bytes": 1199293,
+      "sha256": "53c7186c099df8f1ac65d4b1cf543aa362f1941e93a49d07777c2c38197ecfd8"
+    },
+    {
+      "path": "corpus/02-hellenic/shipbuilding/2026/2026-11-11_breakwave-dry-bulk-shipping-report-11-11-2026.html",
+      "bytes": 2754,
+      "sha256": "0db1c2acaf6e1a5f1a513587911e48c12e5afa28e6db4921f172c44a3efb22d1"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -35173,9 +35213,34 @@
       "sha256": "5c5179782527d5b5d012add55657c36a653c42ef6af6b1216b205122d751e410"
     },
     {
+      "path": "corpus/02-hellenic/tanker_charter/2026/2026-11-11_weekly-tanker-time-charter-estimates-november-11-2026.html",
+      "bytes": 2672,
+      "sha256": "27624dea99c42a861d8000ecd302ae4f7f477967ff2d6bfc507a466019a80e00"
+    },
+    {
+      "path": "corpus/02-hellenic/tanker_charter/2026/assets/2026-11-11_weekly-tanker-time-charter-estimates-november-11-2026_ALIBRA_Tanker.jpg",
+      "bytes": 84835,
+      "sha256": "9b9615b3cf0c372156686d7df71fdbb4fa2e427c7cf1f7d7a28b4558acb24b31"
+    },
+    {
+      "path": "corpus/02-hellenic/tanker_charter/2026/assets/2026-11-11_weekly-tanker-time-charter-estimates-november-11-2026_alibra-tanker_ea431b62b5b5.jpg",
+      "bytes": 84835,
+      "sha256": "9b9615b3cf0c372156686d7df71fdbb4fa2e427c7cf1f7d7a28b4558acb24b31"
+    },
+    {
       "path": "corpus/02-hellenic/vessel_valuations/2022/assets/2022-02-15_weekly-vessel-valuations-report-february-15-2022_\u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03ae-4_8c0794a8805a.jpg",
       "bytes": 52460,
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-11-12_the-democratic-partys-victory-in-the-us-midterm-elections-is-expected-to-influen.html",
+      "bytes": 8076,
+      "sha256": "d8010aa6f443f2afd37a9c75ccb920d9a1ed34e988660956c6138a2768178573"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-11-12_the-democratic-partys-victory-in-the-us-midterm-elections-is-expected-to-influen.md",
+      "bytes": 6322,
+      "sha256": "8fd6c71e88764894cfd0e87e825337ae2987411f4603dc41016131b213332cec"
     },
     {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
