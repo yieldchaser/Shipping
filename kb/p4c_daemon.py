@@ -99,6 +99,7 @@ def run(pass_name: str, model: str, packs_path: Path, quota: int, chunk: int,
     print(f"[start] pass {pass_name} model {model} packs {total} done {done_n(pass_name)} "
           f"quota {quota}/day", flush=True)
     round_no = 0
+    cursor = 0
     while True:
         have = done_n(pass_name)
         if have >= total:
@@ -108,16 +109,23 @@ def run(pass_name: str, model: str, packs_path: Path, quota: int, chunk: int,
         t0 = utc_now()
         before_out = day_out_tokens(model)
         st = PR.run_packs(pass_name, model, cap, packs_path=packs_path, limit=chunk, shard=shard,
-                          job_maker=job_maker)
+                          job_maker=job_maker, start=cursor)
+        cursor = st.get("start_next", cursor)
         added_out = day_out_tokens(model) - before_out
         errs = ledger_errors(pass_name, t0.isoformat(timespec="seconds"))
         attempted = max(1, st["packs"])
         print(f"[round {round_no}] attempted {st['packs']} packs, out_tok +{added_out}, "
-              f"errors {errs}, day_out {day_out_tokens(model)}, done {done_n(pass_name)}/{total}",
-              flush=True)
+              f"errors {errs}, day_out {day_out_tokens(model)}, done {done_n(pass_name)}/{total}, "
+              f"cursor {cursor}", flush=True)
         if st["packs"] == 0:
-            # nothing pending in the window but the pass is not finished: shard window was all cached
-            print("[warn] window had no pending packs; continuing from the next window", flush=True)
+            # whole window was already cached: advance instead of spinning on the same packs
+            if cursor >= total:
+                print("[warn] swept every pack window but the pass is not finished (packs without "
+                      "a stored raw); backing off before another sweep", flush=True)
+                time.sleep(STALL_SLEEP_S)
+                cursor = 0
+            else:
+                print(f"[info] window fully cached; continuing from pack {cursor}", flush=True)
             continue
         broke = errs / attempted > STALL_ERROR_RATE
         quota_gone = day_out_tokens(model) >= quota

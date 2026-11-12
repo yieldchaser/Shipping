@@ -38,9 +38,9 @@ def test_run_forwards_job_maker_and_counts_errors(tmp_path, monkeypatch):
     calls = {}
 
     def fake_run_packs(pass_name, model, cap, packs_path=None, limit=0, shard=200,
-                       job_maker=None):
-        calls.update(packs_path=packs_path, limit=limit, job_maker=job_maker)
-        return {"packs": 2, "chunks": 4}
+                       job_maker=None, start=0):
+        calls.update(packs_path=packs_path, limit=limit, job_maker=job_maker, start=start)
+        return {"packs": 2, "chunks": 4, "start_next": start + 2}
 
     seen_done = {"n": 0}
 
@@ -57,6 +57,32 @@ def test_run_forwards_job_maker_and_counts_errors(tmp_path, monkeypatch):
     packs = packs_file(tmp_path)
     assert D.run("p", "m", packs, 10, 5, 200, 5.0, job_maker=sentinel) == 0
     assert calls["job_maker"] is sentinel and calls["packs_path"] == packs and calls["limit"] == 5
+    assert calls["start"] == 0
+
+
+def test_run_advances_cursor_over_fully_cached_windows(tmp_path, monkeypatch):
+    """Regression: a window whose packs all have raws must advance the cursor, not spin forever."""
+    seen_starts = []
+
+    def fake_run_packs(pass_name, model, cap, packs_path=None, limit=0, shard=200,
+                       job_maker=None, start=0):
+        seen_starts.append(start)
+        if start == 0:
+            return {"packs": 0, "chunks": 0, "start_next": 200}   # cached window
+        return {"packs": 1, "chunks": 1, "start_next": start + 200}
+
+    done = {"n": 0}
+
+    def done_n(pass_name):
+        return 0 if len(seen_starts) < 2 else 500
+
+    monkeypatch.setattr(D.B, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(D, "done_n", done_n)
+    monkeypatch.setattr(D, "day_out_tokens", lambda model: 0)
+    monkeypatch.setattr(D, "ledger_errors", lambda pass_name, since: 0)
+    monkeypatch.setattr(D.PR, "run_packs", fake_run_packs)
+    assert D.run("p", "m", packs_file(tmp_path, n=500), 10, 5, 200, 5.0) == 0
+    assert seen_starts == [0, 200]
 
 
 def test_main_glean_refuses_without_pack_list(tmp_path, monkeypatch):

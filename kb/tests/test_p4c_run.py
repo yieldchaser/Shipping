@@ -118,3 +118,25 @@ def test_run_packs_requires_a_recorded_mode(monkeypatch, tmp_path):
         assert "preflight" in str(exc)
     else:
         raise AssertionError("expected SystemExit")
+
+
+def test_run_packs_windows_start_and_advance(monkeypatch, tmp_path):
+    """`start` skips whole cached batches and `start_next` lands past the last batch looked at."""
+    packs = tmp_path / "packs.jsonl"
+    write_jsonl(packs, [pack(doc=f"d{i}", cids=("a",), key=f"d{i}|a") for i in range(5)])
+    monkeypatch.setattr(C, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(C, "state_path", lambda pass_name: tmp_path / f"run_{pass_name}.json")
+    monkeypatch.setattr(C.B, "runner_for", lambda *a, **k: type("R", (), {
+        "run": lambda self, jobs: None, "stats": {"ok": 0}})())
+    monkeypatch.setattr(C.R, "spent", lambda passes=None: 0.0)
+    monkeypatch.setattr(C, "has_raw", lambda *a, **k: True)
+    st = C.run_packs("p4c_bulk", "m", 10.0, packs_path=packs, shard=2, limit=2, progress=False,
+                     start=2)
+    assert st["packs"] == 0 and st["start"] == 2
+    assert st["start_next"] == 4          # two batches of 2 starting at pack 2
+    st2 = C.run_packs("p4c_bulk", "m", 10.0, packs_path=packs, shard=2, limit=2, progress=False,
+                      start=4)
+    assert st2["start_next"] == 5         # tail batch of 1
+    st3 = C.run_packs("p4c_bulk", "m", 10.0, packs_path=packs, shard=2, limit=2, progress=False,
+                      start=5)
+    assert st3["packs"] == 0 and st3["start_next"] == 5   # past the end: no window yielded

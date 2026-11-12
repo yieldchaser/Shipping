@@ -84,22 +84,36 @@ def pending(batch: list[dict], pass_name: str, model: str, mode: str) -> list[di
     return [p for p in batch if not has_raw(pass_name, model, mode, p)]
 
 
-def pack_shards(packs_path: Path, limit: int = 0, shard: int = SHARD):
-    """Yield (batch, chunks_in_batch, batch_no) lazily so memory stays flat on the full scope."""
+def pack_shards(packs_path: Path, limit: int = 0, shard: int = SHARD, start: int = 0):
+    """Yield (batch, chunks_in_batch, batch_no, pack_offset) lazily so memory stays flat.
+
+    `start` skips whole batches that end at or before that pack offset, so a driver can walk the
+    scope in resumable windows without rescanning from pack 1 every round (and without spinning on
+    an all-cached window). `pack_offset` is the 0-based pack index where the yielded batch begins.
+    """
     n = 0
     taken = 0
+    seen = 0
     for batch in batches(load_packs(packs_path), shard):
         n += 1
+        base = seen
+        seen += len(batch)
+        if seen <= start:
+            continue
         taken += len(batch)
-        yield batch, sum(len(p["chunk_ids"]) for p in batch), n
+        yield batch, sum(len(p["chunk_ids"]) for p in batch), n, base
         if limit and taken >= limit:
             break
 
 
 def run_packs(pass_name: str, model: str, cap: float, packs_path: Path | None = None,
               limit: int = 0, shard: int = SHARD, progress: bool = True,
-              job_maker=None) -> dict:
+              job_maker=None, start: int = 0) -> dict:
     """Run the packed bulk calls for one pass/model. Resumable; returns run metadata.
+
+    `start` is the pack offset to resume from (whole batches only); the returned `start_next` is
+    the offset just past the last batch this call looked at, so a driver can advance its window
+    even when every pack in it was already cached.
 
     `job_maker(pass_name, model, mode, pack)` lets a derived pass (gleaning) send a different user
     message while keeping the same ledger key: the key is built from pass name + model + transport
@@ -114,10 +128,12 @@ def run_packs(pass_name: str, model: str, cap: float, packs_path: Path | None = 
     st = {"pass": pass_name, "model": model, "mode": mode, "packs": 0, "packs_skipped": 0,
           "chunks": 0, "chunks_skipped": 0, "wall_s": 0.0, "cost_usd": 0.0,
           "started": dt.datetime.now().isoformat(timespec="seconds"), "finished": None,
-          "batches": 0}
+          "batches": 0, "start": start, "start_next": start}
     t0 = time.time()
     total_chunks = FULL_SCOPE_CHUNKS if not limit else 0
-    for batch, chunks, n in pack_shards(packs_path or PACKS, limit=limit, shard=shard):
+    for batch, chunks, n, base in pack_shards(packs_path or PACKS, limit=limit, shard=shard,
+                                              start=start):
+        st["start_next"] = base + len(batch)
         todo = pending(batch, pass_name, model, mode)
         st["packs"] += len(todo)
         st["chunks"] += sum(len(p["chunk_ids"]) for p in todo)
