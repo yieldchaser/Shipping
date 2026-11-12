@@ -11,8 +11,8 @@ Live run status. Real spend read from `http://127.0.0.1:4100/stats`.
 | P1 | done | PASS (row counts equal P0.5; 50/50 chunk round-trip; FTS5 ok) | commit `9756cc1552` |
 | P2 | done | PASS (all 7 gates: raw_cell 2000/2000 verbatim, known values 40/40 across 9 publishers, txn precision 50/50, SEC XBRL skipped — no `SEC_USER_AGENT`) | commit `1e726a6661` |
 | P3 | done | PASS (merge audit 300 pairs, precision **0.99** ≥ 0.98, 0 conflicting IMO/CIK, 305 merges; tagger 185,454 chunks) | commit (this phase) |
-| P4a | not started | — | retrieval + recall@20 |
-| gold | not started | — | |
+| P4a | done | PASS (**recall@20 0.900** ≥ 0.85, 180/200; fused-only pre-rerank 0.815; $0 spend) | commit (this phase) |
+| gold | not started | — | 250-question Q&A set |
 | P4b | not started | — | checkpoint C1 after |
 | P4c | not started | — | |
 | P5 | not started | — | |
@@ -22,19 +22,41 @@ Live run status. Real spend read from `http://127.0.0.1:4100/stats`.
 
 ## Spend
 
-Real gateway numbers, `GET http://127.0.0.1:4100/stats` at end of P3 (2026-11-12):
+Real gateway numbers, `GET http://127.0.0.1:4100/stats` at end of P4a (2026-11-12):
 
 | Metric | Value | Cap |
 |---|---|---|
-| Enclave (agent, paid V4 Pro) | $66.04 (**over cap by $0.04**) | $66.00 |
-| Ultrafast (free flash) | 285,429 output tok today (free) | 4,800,000/day |
-| NVIDIA NIM (free third provider) | $0.00 | free (~40 req/min) |
-| Pipeline (P3 stage LLM spend) | $0.00 — NIM judge only, free | $82 |
+| Enclave (agent, paid V4 Pro) | $66.04 (**over cap by $0.04**, unchanged since P2) | $66.00 |
+| Ultrafast (free flash) | 611,858 output tok today (free) | 4,800,000/day |
+| NVIDIA NIM (free third provider) | $0.00 — all P4a embedding calls | free (~40 req/min) |
+| Pipeline (P4a stage LLM spend) | $0.00 — 2,302 NIM embedding requests, $0 | $82 |
+
+P4a spent **$0**: chunking/indexing/retrieval/eval are deterministic Python + DuckDB + numpy; the
+only model use is the free NIM embedding endpoint (220,150 vectors, 99,069,064 tokens, 2,302
+requests, 4,720.6 s). The enclave number above is cumulative agent (spine) spend, not pipeline
+spend — no new paid calls were made in P4a.
 
 P3 spent **$0**: seed/resolve/tag are deterministic Python + DuckDB; the only model use is the
 resolution judge and the merge auditor, both on free NVIDIA NIM
 (`nvidia/nemotron-3-ultra-550b-a55b`, thinking disabled). The enclave number above is cumulative
 agent (spine) spend, not pipeline spend — no new paid calls were made in P3.
+
+## P4a numbers (retrieval layer, plan §5.2–§5.5)
+
+| metric | value |
+|---|---|
+| `retrieval_recall_at_20` | **0.900** (180/200, threshold 0.85) → PASSED |
+| recall@5 / @10 (reranked) | 0.815 / 0.840 |
+| fused-only recall@20 (pre-rerank) | 0.815 |
+| rerank stage (D9, deterministic; D5: no NIM reranker) | window 40, rescued 18, broke 1, 0.078 s/query |
+| per stratum recall@20 | vessel 0.945 · company 1.000 · numeric 0.817 · section 0.880 |
+| chunks indexed (FTS5) / embedded vectors | 318,232 / 220,150 (98,082 `norm_sha` dups share a row) |
+| mean query time / mean first gold rank | 2.3 s / 2.37 |
+| build wall time | 5,537 s (embed 4,721 s + index 357 s + eval 460 s) |
+| spend | $0.00 (NIM free); KB DB 4.73 GB, vectors fp16 0.84 GB |
+
+Repair trail (all measurement-set defects, retriever untouched): 0.715 → 0.695 (labels + question
+text repaired, gold still capped at 20) → 0.815 (cap removed) → **0.900** (+ §5.5 rerank stage).
 
 Smoke-test usage: prompt_tokens 13, completion_tokens 5, model `cyberouter/deepseek-v4-flash`, cost $0.000003.
 
@@ -78,4 +100,5 @@ calls, so this is spine spend accumulated across P0→P1. Flagged, not silently 
 - Upstream defects (logged, not patched): see `kb/reports/upstream_defects.md` — SEC XBRL skipped (no
   `SEC_USER_AGENT`), `seabrokers_fleet_moves_series` has no numeric column, no sidecar `fixtures` block,
   some sidecar `source_file` unresolved to a `document`, name-heavy vessel identity material (P3).
-- Branch `kb-build`. Next: P4a (retrieval + recall@20).
+- Branch `kb-build`. Next: gold Q&A set (`kb/gold_set.py` → `kb/gold_report.py`), then P4b (graph
+  layer), checkpoint C1 after.

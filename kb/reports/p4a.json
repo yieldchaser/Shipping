@@ -1,0 +1,435 @@
+{
+ "phase": "P4a",
+ "sample_seed": 478074364,
+ "retrieval_recall_at_20": 0.9,
+ "threshold": 0.85,
+ "recall_at_5": 0.815,
+ "recall_at_10": 0.84,
+ "recall_at_20": 0.9,
+ "fused_recall_at_20": 0.815,
+ "fused_recall_at_5": 0.675,
+ "fused_recall_at_10": 0.725,
+ "rerank_rescued": 18,
+ "rerank_broken": 1,
+ "repair_history": [
+  {
+   "step": "as first measured",
+   "recall_at_20": 0.715,
+   "defect": "section labels pinned one week of a month-recurring heading; numeric questions rendered from raw internal tokens; arm coverage computed on the fused head instead of the 150-candidate arms"
+  },
+  {
+   "step": "after label + question-text repair, gold capped at 20",
+   "recall_at_20": 0.695,
+   "defect": "cap created false negatives for strata whose answer set is larger (company/vessel questions have 13-288 correct chunks)"
+  },
+  {
+   "step": "gold uncapped, pre-rerank (fused top-20)",
+   "recall_at_20": 0.815,
+   "defect": "RRF dilution: gold found only by BM25 lands at fused rank 21-132"
+  },
+  {
+   "step": "after \u00a75.5 rerank stage (this gate)",
+   "recall_at_20": 0.9,
+   "defect": "none \u2014 rerank stage from plan \u00a75.5 step 4, implemented deterministically"
+  }
+ ],
+ "queries_total": 200,
+ "hits_total": 180,
+ "by_stratum": {
+  "company_entity": {
+   "n": 35,
+   "recall": {
+    "at_5": 1.0,
+    "at_10": 1.0,
+    "at_20": 1.0
+   },
+   "hit_count": 35,
+   "misses": [],
+   "fused_recall": {
+    "at_5": 1.0,
+    "at_10": 1.0,
+    "at_20": 1.0
+   },
+   "fused_hit_count": 35
+  },
+  "numeric_series": {
+   "n": 60,
+   "recall": {
+    "at_5": 0.667,
+    "at_10": 0.717,
+    "at_20": 0.817
+   },
+   "hit_count": 49,
+   "misses": [
+    "P4a-090",
+    "P4a-092",
+    "P4a-094",
+    "P4a-105",
+    "P4a-111",
+    "P4a-118",
+    "P4a-126",
+    "P4a-132",
+    "P4a-133",
+    "P4a-139",
+    "P4a-140"
+   ],
+   "fused_recall": {
+    "at_5": 0.433,
+    "at_10": 0.45,
+    "at_20": 0.667
+   },
+   "fused_hit_count": 40
+  },
+  "section_lookup": {
+   "n": 50,
+   "recall": {
+    "at_5": 0.84,
+    "at_10": 0.84,
+    "at_20": 0.88
+   },
+   "hit_count": 44,
+   "misses": [
+    "P4a-156",
+    "P4a-168",
+    "P4a-183",
+    "P4a-184",
+    "P4a-191",
+    "P4a-192"
+   ],
+   "fused_recall": {
+    "at_5": 0.62,
+    "at_10": 0.68,
+    "at_20": 0.74
+   },
+   "fused_hit_count": 37
+  },
+  "vessel_entity": {
+   "n": 55,
+   "recall": {
+    "at_5": 0.836,
+    "at_10": 0.873,
+    "at_20": 0.945
+   },
+   "hit_count": 52,
+   "misses": [
+    "P4a-010",
+    "P4a-042",
+    "P4a-049"
+   ],
+   "fused_recall": {
+    "at_5": 0.782,
+    "at_10": 0.891,
+    "at_20": 0.927
+   },
+   "fused_hit_count": 51
+  }
+ },
+ "arm_coverage": {
+  "gold_only_bm25": 76,
+  "gold_only_dense": 0,
+  "gold_both_arms": 117
+ },
+ "mean_first_gold_rank": 2.37,
+ "mean_query_seconds": 2.3,
+ "recall_set": {
+  "mean_gold_chunks_by_stratum": {
+   "vessel_entity": 26.87,
+   "company_entity": 22.34,
+   "numeric_series": 1.0,
+   "section_lookup": 10.82
+  },
+  "label_fix": "section_lookup gold = every same-heading section of the publisher's docs in the asked month; numeric_series questions rendered from expanded series vocabulary; no cap on gold size"
+ },
+ "retrieval_config": {
+  "bm25_top_k": 150,
+  "dense_top_k": 150,
+  "rrf_k": 60,
+  "rerank_window": 40,
+  "rerank": "deterministic lexical-overlap reranker (plan 5.5 step 4 substitute, D9)",
+  "eval_top_k": 20,
+  "gate_measured_on": "reranked top-20; fused-only number reported too"
+ },
+ "rerank_detail": {
+  "window": 40,
+  "score": "query content tokens found (1 each) + adjacent-token bigrams found (2 each) over context_prefix + body; RRF score is the tie-break; no candidate outside the fused top 40 can enter",
+  "mean_rerank_seconds": 0.078
+ },
+ "index": {
+  "chunks_indexed": 318232,
+  "build_seconds": 357.1,
+  "db_file_bytes": 5078790144,
+  "probe_latency_s": 3.82
+ },
+ "embedding": {
+  "model": "nvidia/nemotron-3-embed-1b",
+  "dims": 2048,
+  "rows": 220150,
+  "requests": 2302,
+  "tokens": 99069064,
+  "wall_seconds": 4720.6,
+  "rows_per_second": 0.5
+ },
+ "link": {
+  "distinct_vec_rows": 220150,
+  "unlinked_chunks": 98082,
+  "rows": 220150
+ },
+ "samples": [
+  {
+   "qid": "P4a-068",
+   "stratum": "company_entity",
+   "query": "What has PASIR GUDANG reported in August 2026?",
+   "filters": {
+    "entity_ids": [
+     "company:int:pasir_gudang"
+    ]
+   },
+   "gold_size": 12,
+   "hit_at": 1,
+   "hit": true,
+   "fused_hit_at": 1,
+   "fused_hit": true,
+   "gold_source_path": "data/extracted/md/banchero_costa/2025/banchero_costa_2025_W37_Bancosta-Weekly-2025-37.md",
+   "gold_chunk_id": "05a3461a1dd3f7dc61d75fbdc612bc3c",
+   "top1_chunk_id": "553f05f08b09030c8a564c5067eef3ff",
+   "top1_bm25_rank": 5,
+   "top1_dense_rank": 2,
+   "top1_rerank_lex": 5,
+   "arms": {
+    "bm25": 12,
+    "dense": 12,
+    "both": 12
+   }
+  },
+  {
+   "qid": "P4a-100",
+   "stratum": "numeric_series",
+   "query": "What was the price for IOPI65 CFR EQ CFR Qingdao Equivalent on 18 August 2025?",
+   "filters": {
+    "date_from": "2025-08-18",
+    "date_to": "2025-08-18"
+   },
+   "gold_size": 1,
+   "hit_at": 2,
+   "hit": true,
+   "fused_hit_at": 1,
+   "fused_hit": true,
+   "gold_source_path": "data/extracted/md/hellenic/iron_ore_pdf/2025/2025-08-18_mmi-daily-iron-ore-index-report-august-18-2025_mmi-daily-iron-ore-report-for-18th-a_903f5b61683e.md",
+   "gold_chunk_id": "b8cb868c8741d83b324357b2bff6e092",
+   "top1_chunk_id": "e1fa32d9c07f51c17e06b99a45aaf00e",
+   "top1_bm25_rank": 1,
+   "top1_dense_rank": null,
+   "top1_rerank_lex": 13,
+   "arms": {
+    "bm25": 1,
+    "dense": 1,
+    "both": 1
+   }
+  },
+  {
+   "qid": "P4a-183",
+   "stratum": "section_lookup",
+   "query": "What does the Breakwave Advisors daily report (February 2026) say about The Three Things Investors and Businesses Should Know This Week?",
+   "filters": {
+    "publisher": [
+     "Breakwave Advisors"
+    ],
+    "date_from": "2026-02-01",
+    "date_to": "2026-02-28"
+   },
+   "gold_size": 2,
+   "hit_at": null,
+   "hit": false,
+   "fused_hit_at": null,
+   "fused_hit": false,
+   "gold_source_path": "data/extracted/md/breakwave/insights/2026/2026-02-26_what-the-supreme-courts-ruling-means-for-businesses-and-your.md",
+   "gold_chunk_id": "9dfd89096f1c89cf7435b09f23139fba",
+   "top1_chunk_id": "e64cf32438bacc36a74a28d2c81e060f",
+   "top1_bm25_rank": 29,
+   "top1_dense_rank": 71,
+   "top1_rerank_lex": 11,
+   "arms": {
+    "bm25": 2,
+    "dense": 0,
+    "both": 0
+   }
+  },
+  {
+   "qid": "P4a-050",
+   "stratum": "vessel_entity",
+   "query": "What did the market report say about the vessel Alrayan?",
+   "filters": {},
+   "gold_size": 4,
+   "hit_at": 1,
+   "hit": true,
+   "fused_hit_at": 2,
+   "fused_hit": true,
+   "gold_source_path": "data/extracted/md/banchero_costa/2026/banchero_costa_2026_W08_Bancosta-Weekly-2026-08_compressed.md",
+   "gold_chunk_id": "f830dd2cc5d7b22d5d118f2a9b276ac3",
+   "top1_chunk_id": "f830dd2cc5d7b22d5d118f2a9b276ac3",
+   "top1_bm25_rank": 1,
+   "top1_dense_rank": null,
+   "top1_rerank_lex": 6,
+   "arms": {
+    "bm25": 4,
+    "dense": 0,
+    "both": 0
+   }
+  },
+  {
+   "qid": "P4a-072",
+   "stratum": "company_entity",
+   "query": "What has ASIATIC LLOYD reported in April 2022?",
+   "filters": {
+    "entity_ids": [
+     "company:int:asiatic_lloyd"
+    ]
+   },
+   "gold_size": 27,
+   "hit_at": 1,
+   "hit": true,
+   "fused_hit_at": 1,
+   "fused_hit": true,
+   "gold_source_path": "data/extracted/md/advanced_shipping/2022/advanced_shipping_2022_W16_ADVANCED-MARKET-REPORT-WEEK-16.md",
+   "gold_chunk_id": "fb1b3b5a9e85ca88a51c5a6699b76f8b",
+   "top1_chunk_id": "b34864071fa4fbc0c6a132b8d88c54e0",
+   "top1_bm25_rank": 9,
+   "top1_dense_rank": 10,
+   "top1_rerank_lex": 6,
+   "arms": {
+    "bm25": 27,
+    "dense": 27,
+    "both": 27
+   }
+  },
+  {
+   "qid": "P4a-134",
+   "stratum": "numeric_series",
+   "query": "What was the percent change for 3Mo Tin (LME.) USD / MT N/A on 04 December 2022?",
+   "filters": {
+    "date_from": "2022-12-04",
+    "date_to": "2022-12-04"
+   },
+   "gold_size": 1,
+   "hit_at": 1,
+   "hit": true,
+   "fused_hit_at": 1,
+   "fused_hit": true,
+   "gold_source_path": "data/extracted/md/star_asia/2022/star_asia_2022_W48_Market-report-Week-48_compressed.md",
+   "gold_chunk_id": "1d6ae2adfa2ebaf67ae612eda4a2f5f7",
+   "top1_chunk_id": "1d6ae2adfa2ebaf67ae612eda4a2f5f7",
+   "top1_bm25_rank": 1,
+   "top1_dense_rank": 1,
+   "top1_rerank_lex": 16,
+   "arms": {
+    "bm25": 1,
+    "dense": 1,
+    "both": 1
+   }
+  },
+  {
+   "qid": "P4a-176",
+   "stratum": "section_lookup",
+   "query": "What does the Seasure Shipbroking (Blue Report, valuations by VesselsValue) weekly report (April 2024) say about Dry BC Baltic Time Charter Weighted Average routes?",
+   "filters": {
+    "publisher": [
+     "Seasure Shipbroking (Blue Report, valuations by VesselsValue)"
+    ],
+    "date_from": "2024-04-01",
+    "date_to": "2024-04-30"
+   },
+   "gold_size": 4,
+   "hit_at": 1,
+   "hit": true,
+   "fused_hit_at": 1,
+   "fused_hit": true,
+   "gold_source_path": "data/extracted/md/carriers/2024/carriers_2024_W14_WK-14-24-CARRIERS_SP-MARKET-REPORT.md",
+   "gold_chunk_id": "63279dc12f753ed0d34b0a9f32860c60",
+   "top1_chunk_id": "3aa81b434b5690013c3d2a659a45a9f7",
+   "top1_bm25_rank": 1,
+   "top1_dense_rank": 11,
+   "top1_rerank_lex": 38,
+   "arms": {
+    "bm25": 4,
+    "dense": 1,
+    "both": 1
+   }
+  },
+  {
+   "qid": "P4a-036",
+   "stratum": "vessel_entity",
+   "query": "What did the market report say about the vessel Sophia Ocean?",
+   "filters": {},
+   "gold_size": 4,
+   "hit_at": 1,
+   "hit": true,
+   "fused_hit_at": 3,
+   "fused_hit": true,
+   "gold_source_path": "data/extracted/md/hellenic/vessel_valuations/2024/vv_2024-10-22.md",
+   "gold_chunk_id": "3d83d67069ad65b305a756d4b962afbb",
+   "top1_chunk_id": "761fe191e95872dbfcb55309e1f22a51",
+   "top1_bm25_rank": 14,
+   "top1_dense_rank": null,
+   "top1_rerank_lex": 8,
+   "arms": {
+    "bm25": 4,
+    "dense": 0,
+    "both": 0
+   }
+  },
+  {
+   "qid": "P4a-061",
+   "stratum": "company_entity",
+   "query": "What has JIANGSU LVHANG LOGISTICS reported in April 2025?",
+   "filters": {
+    "entity_ids": [
+     "company:int:jiangsu_lvhang_logistics"
+    ]
+   },
+   "gold_size": 2,
+   "hit_at": 1,
+   "hit": true,
+   "fused_hit_at": 1,
+   "fused_hit": true,
+   "gold_source_path": "data/extracted/md/intermodal/2025/intermodal_2025_W13_Intermodal-Report-Week-13-2025.md",
+   "gold_chunk_id": "f7b3e4f837336ea91be0a02e16a423d8",
+   "top1_chunk_id": "be3bfe661d51b6cd92f01b375e22f7fc",
+   "top1_bm25_rank": 1,
+   "top1_dense_rank": 2,
+   "top1_rerank_lex": 8,
+   "arms": {
+    "bm25": 2,
+    "dense": 2,
+    "both": 2
+   }
+  },
+  {
+   "qid": "P4a-141",
+   "stratum": "numeric_series",
+   "query": "What was the rate previous for Panamax Q2 23 on 23 September 2022?",
+   "filters": {
+    "date_from": "2022-09-23",
+    "date_to": "2022-09-23"
+   },
+   "gold_size": 1,
+   "hit_at": 6,
+   "hit": true,
+   "fused_hit_at": 4,
+   "fused_hit": true,
+   "gold_source_path": "data/extracted/md/banchero_costa/2022/banchero_costa_2022_W38_Bancosta-Weekly-2022-38.md",
+   "gold_chunk_id": "39c124b7fdfc8de0cf151ce1a667db41",
+   "top1_chunk_id": "d1649ccd7c0ad6ef4a80fcfb05c6c718",
+   "top1_bm25_rank": 4,
+   "top1_dense_rank": null,
+   "top1_rerank_lex": 8,
+   "arms": {
+    "bm25": 1,
+    "dense": 1,
+    "both": 1
+   }
+  }
+ ],
+ "money_spent_usd": 0.0,
+ "wall_seconds": 5537.4,
+ "verdict": "PASSED"
+}

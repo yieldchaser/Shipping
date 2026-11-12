@@ -1,0 +1,38 @@
+{
+ "chunks": 318232,
+ "indexed_columns": [
+  "body",
+  "context_prefix"
+ ],
+ "build_seconds": 357.1,
+ "setup_seconds": 2.6,
+ "index_bytes": 0,
+ "db_file_bytes": 5078790144,
+ "probes": [
+  {
+   "query": "TD3C VLCC Middle East China rate",
+   "hits": 150,
+   "seconds": 11.147,
+   "top": "9203b80752efec684fc90a8cdf1a01ee"
+  },
+  {
+   "query": "Panamax 82000 dwt delivery Singapore",
+   "hits": 150,
+   "seconds": 1.087,
+   "top": "f668512c8188a42e61cc91d8f7e4bb8d"
+  },
+  {
+   "query": "Scorpio Tankers sale and purchase",
+   "hits": 150,
+   "seconds": 1.517,
+   "top": "2d9016b4f5d9823b9fa5237fe7c6e9fb"
+  },
+  {
+   "query": "Baltic Dry Index capesize",
+   "hits": 150,
+   "seconds": 1.544,
+   "top": "e2453fff084c26a59a030843dff7b482"
+  }
+ ],
+ "db_bytes": 5078790144
+}

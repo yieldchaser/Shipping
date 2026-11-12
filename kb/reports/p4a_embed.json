@@ -1,0 +1,15 @@
+{
+ "model": "nvidia/nemotron-3-embed-1b",
+ "dims": 2048,
+ "rows": 220150,
+ "batches": 2302,
+ "requests_total": 2302,
+ "tokens_total": 99069064,
+ "errors": 0,
+ "wall_seconds": 4720.6,
+ "rows_per_second": 0.5,
+ "vec_bytes": 901734528,
+ "money_spent_usd": 0.0,
+ "provider": "NIM free tier",
+ "phase": "P4a"
+}
