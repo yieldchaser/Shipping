@@ -240,7 +240,8 @@ def gate_chunk(ext: Extraction, chunk: dict) -> dict:
 
     def verdict(kind: str, idx: int, rec, quote: str, reasons: list[str]) -> dict:
         return {"kind": kind, "index": idx, "quote": quote, "dropped": bool(reasons),
-                "reasons": reasons, "chunk": rec.chunk, "sids": list(rec.sids)}
+                "reasons": reasons, "chunk": rec.chunk, "sids": list(rec.sids),
+                "confidence": float(rec.confidence) if getattr(rec, "confidence", None) is not None else None}
 
     # rule 4 needs the new entities' sentence text: a name must occur in its own cited sentences
     new_ok = {}

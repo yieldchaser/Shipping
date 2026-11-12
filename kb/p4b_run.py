@@ -155,8 +155,9 @@ def runner_for(pass_name: str, model: str, cap: float) -> R.Runner:
                         rate_per_min=40, pipeline_cap_usd=PIPELINE_CAP, timeout_s=300)
     if pid == "ultrafast":
         # Free tier answers HTTP 429 (bare status, no body) when calls arrive faster than it likes:
-        # 21/29 packed calls 429'd at 30 rpm. Halved for the top-up run.
-        return R.Runner(pass_name, PROMPT_VERSION, cap, start=1, ceiling=1, rate_per_min=12,
+        # 21/29 packed calls 429'd at 30 rpm; 12/min still 429'd 14/65 bulk packs, and the run is
+        # output-token-bound anyway (~4.7M/day = ~5.5k packs/day = 3.9/min), so 6/min is enough.
+        return R.Runner(pass_name, PROMPT_VERSION, cap, start=1, ceiling=1, rate_per_min=6,
                         pipeline_cap_usd=PIPELINE_CAP, timeout_s=300)
     return R.Runner(pass_name, PROMPT_VERSION, cap, start=8, ceiling=24,
                     pipeline_cap_usd=PIPELINE_CAP, timeout_s=180)
@@ -962,8 +963,10 @@ def build_reference(items: list[dict], adj: dict | None = None, refs: dict | Non
     if adj is None:
         adj = {}
         if ADJ_FILE.exists():
+            # adjudication items nest their key under `meta` (see cmd_adjudicate/cand_adj above)
             for d in json.loads(ADJ_FILE.read_text(encoding="utf-8")).get("items", []):
-                adj[(d["chunk_id"], d.get("idx"))] = d.get("decision")
+                meta = d.get("meta") or {}
+                adj[(meta.get("chunk_id"), meta.get("idx"))] = d.get("decision")
     reference = {}
     for item in items:
         cid = item["chunk_id"]

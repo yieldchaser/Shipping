@@ -70,12 +70,18 @@ budget:
   pipeline_cap_usd: 82
   agent_cap_usd: 60
   untouched_usd: 3
+  # Booking after C1 owner reply 2026-02-19 (all remaining phase caps booked first, then the spare
+  # of the $82 goes to a glm-5.3 second extractor on the highest-value chunks - owner decision 4).
+  # Bulk + gleaning ride the free Ultrafast route ($0.00 measured), so their caps are 0 and the
+  # money they would have used is booked to the second extractor instead.
   passes:
-    router_probe_plus_bakeoff: 7
-    p4c_bulk_extraction: 22
-    escalation_plus_gleaning: 17
+    router_probe_plus_bakeoff: 4.75        # measured spend to C1 (was 7 booked, 4.7543 spent)
+    p4c_bulk_extraction: 0                 # free Ultrafast route: measured $0.00 per call
+    p4c_gleaning: 0                        # free Ultrafast recall pass: measured $0.00 per call
+    escalation_plus_gleaning: 17           # glm-5.3 escalation of the rule-6 failure queue
+    p4c_second_extractor: 25.25            # glm-5.3 union pass on high-value chunks (owner dec. 4)
     entity_adjudication: 4
     llm_prefixes: 1
     period_summaries: 13
     eval: 8
-    rerun_reserve: 9
+    rerun_reserve: 9                       # sum = 82.00 exactly

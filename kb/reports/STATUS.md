@@ -14,7 +14,7 @@ Live run status. Real spend read from `http://127.0.0.1:4100/stats`.
 | P4a | done | PASS (**recall@20 0.900** ≥ 0.85, 180/200; fused-only pre-rerank 0.815; $0 spend) | commit (this phase) |
 | gold | done | PASS (250/250 items, all 8 strata on target, 250/250 re-verified from DB, seed 2888775339, $0) | commit (this phase) |
 | P4b | done | **PASS** (120 gold chunks / 29 packed calls; chosen `deepseek-v4.1-flash-1017-ultrafast` P 0.922 R 0.536 F1 0.678; 5/5 `gates.yaml` rows pass; $4.75 total) | checkpoint C1 now |
-| P4c | not started | — | |
+| P4c | scaffolded, $0 spent | — | awaiting C1 owner reply |
 | P5 | not started | — | |
 | P6 | not started | — | |
 | P7 | not started | — | checkpoint C2 after |
@@ -65,6 +65,42 @@ P3 spent **$0**: seed/resolve/tag are deterministic Python + DuckDB; the only mo
 resolution judge and the merge auditor, both on free NVIDIA NIM
 (`nvidia/nemotron-3-ultra-550b-a55b`, thinking disabled). The enclave number above is cumulative
 agent (spine) spend, not pipeline spend — no new paid calls were made in P3.
+
+## P4c scaffold (local, uncommitted, $0 spent)
+
+While waiting at C1: `kb/p4c_pack.py` (packing, dry run 1,149 packs / 4,000 chunks / 794 docs, mean
+depth 3.48, mean 1,081 tokens), `kb/p4c_gate.py` (plan §7.4 gates 1-7 on stored raws, prompt-cid ->
+real-chunk mapping, gated JSONL + failure queue + stats, `--out-dir` per ladder rung) and
+`kb/p4c_run.py` (streaming resumable bulk pass, shard=200 packs, real ledger spend per batch,
+single-chunk escalation ladder, per-pass `run_<pass>.json`). Tests
+`kb/tests/test_p4c_{pack,gate,run}.py` 26 passed. Zero-spend replay check:
+`kb/p4c_gate.py` reproduces the P4b scorer exactly on the 13 stored ultrafast packed raws
+(53/53 chunks, records_total/records_ok identical) -> post-processing path validated before any
+bulk call.
+
+Added since: `kb/p4c_audit.py` (200 seeded stored records re-judged by a different model family,
+wrong-rate gate vs `random_audit_wrong_max` 0.03, refuses a same-family judge) and
+`kb/p4c_report.py` (merges bulk + ladder gated JSONL into per-chunk final status, declared coverage
+of the frozen scope, gate rows, per-pass ledger spend + wall time, ten seeded sample chunks with
+source paths, writes `kb/reports/p4c.json`/`.md` with `phase`/`sample_seed` for the tripwire). Tests
+`kb/tests/test_p4c_{audit,report}.py` 14 passed; full suite **128 passed**; tripwire clean. No model
+calls made; no gate crossed.
+
+End-to-end (fake-raw) smoke of the whole post-processing path found and fixed one real bug: the gate
+writes one flat row per pack-chunk, while `p4c_report.merge` only read the nested `chunks` fixture
+shape, so a real run would have merged **zero** rows and reported 0% failure/coverage. `merge` now
+accepts both shapes (`_row_chunks`), reports `merged_chunks` next to `gated_rows`, and has a flat-row
+regression test; the smoke also caught the scope year count (24 years, 1986-2026) and the report now
+renders that constant instead of the 41-year span. Six synthetic packs / 24 chunks went through
+`p4c_gate.py --out-dir` and `p4c_report.py --md` cleanly (schema pass rate 1.0, gates correctly FAIL
+on the partial slice), then all synthetic state was deleted.
+
+Ladder command sequence (each rung gated into its own dir, later rungs replace a chunk only when
+clean): `p4c_run.py --run --pass p4c_bulk --model M` -> `p4c_gate.py --pass p4c_bulk --model M` ->
+`p4c_run.py --escalate --pass p4c_bulk_retry --model M --failures kb/state/p4c/failures.jsonl` ->
+`p4c_gate.py --pass p4c_bulk_retry --model M --packs kb/state/p4c/singles_p4c_bulk_retry.jsonl
+--out-dir kb/state/p4c/esc_retry` -> repeat for the escalation model into `esc_esc` ->
+`p4c_audit.py --plan` + `--run` -> `p4c_report.py --write`.
 
 ## P4a numbers (retrieval layer, plan §5.2–§5.5)
 

@@ -1,0 +1,99 @@
+"""Tests for kb/p4c_daemon.py - quota accounting, shard loop and the --glean wiring (no calls)."""
+
+from __future__ import annotations
+
+import json
+import sys
+from pathlib import Path
+
+import pytest
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+
+import p4c_daemon as D  # noqa: E402
+import p4c_glean as GL  # noqa: E402
+
+
+def packs_file(tmp_path, n=2) -> Path:
+    path = tmp_path / "packs.jsonl"
+    rows = [{"key": f"k{i}", "chunk_ids": [f"c{i}"], "doc_id": "d1"} for i in range(n)]
+    path.write_text("".join(json.dumps(r) + "\n" for r in rows), encoding="utf-8")
+    return path
+
+
+def test_total_packs_counts_non_blank_lines(tmp_path):
+    path = tmp_path / "p.jsonl"
+    path.write_text('{"a":1}\n\n{"a":2}\n', encoding="utf-8")
+    assert D.total_packs(path) == 2
+
+
+def test_run_stops_when_every_pack_has_a_raw(tmp_path, monkeypatch):
+    monkeypatch.setattr(D.B, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(D, "done_n", lambda pass_name: 2)
+    monkeypatch.setattr(D.PR, "run_packs", lambda *a, **k: pytest.fail("should not run"))
+    assert D.run("p", "m", packs_file(tmp_path), 10, 5, 200, 5.0) == 0
+
+
+def test_run_forwards_job_maker_and_counts_errors(tmp_path, monkeypatch):
+    calls = {}
+
+    def fake_run_packs(pass_name, model, cap, packs_path=None, limit=0, shard=200,
+                       job_maker=None):
+        calls.update(packs_path=packs_path, limit=limit, job_maker=job_maker)
+        return {"packs": 2, "chunks": 4}
+
+    seen_done = {"n": 0}
+
+    def done_n(pass_name):
+        seen_done["n"] += 1
+        return 0 if seen_done["n"] <= 2 else 2   # 1st call = [start] banner, 2nd = loop head
+
+    monkeypatch.setattr(D.B, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(D, "done_n", done_n)
+    monkeypatch.setattr(D, "day_out_tokens", lambda model: 0)
+    monkeypatch.setattr(D, "ledger_errors", lambda pass_name, since: 0)
+    monkeypatch.setattr(D.PR, "run_packs", fake_run_packs)
+    sentinel = object()
+    packs = packs_file(tmp_path)
+    assert D.run("p", "m", packs, 10, 5, 200, 5.0, job_maker=sentinel) == 0
+    assert calls["job_maker"] is sentinel and calls["packs_path"] == packs and calls["limit"] == 5
+
+
+def test_main_glean_refuses_without_pack_list(tmp_path, monkeypatch):
+    monkeypatch.setattr(D.B, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(GL, "GLEAN_PACKS", tmp_path / "missing.jsonl")
+    monkeypatch.setattr(D, "run", lambda *a, **k: pytest.fail("should not run"))
+    monkeypatch.setattr(sys, "argv", ["p4c_daemon.py", "--glean", "--model", "m"])
+    with pytest.raises(SystemExit) as exc:
+        D.main()
+    assert "glean pack list" in str(exc.value)
+
+
+def test_main_glean_passes_job_maker(tmp_path, monkeypatch):
+    seen = {}
+    packs = packs_file(tmp_path)
+
+    def fake_run(pass_name, model, packs_path, quota, chunk, shard, cap, job_maker=None):
+        seen.update(pass_name=pass_name, packs_path=packs_path, has_maker=job_maker is not None)
+        return 0
+
+    monkeypatch.setattr(D.B, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(GL, "GLEAN_PACKS", packs)
+    monkeypatch.setattr(D, "run", fake_run)
+    monkeypatch.setattr(sys, "argv", ["p4c_daemon.py", "--glean", "--model", "m"])
+    assert D.main() == 0
+    assert seen == {"pass_name": GL.GLEAN_PASS, "packs_path": packs, "has_maker": True}
+
+
+def test_main_bulk_defaults_to_the_full_pack_list(monkeypatch):
+    seen = {}
+
+    def fake_run(pass_name, model, packs_path, quota, chunk, shard, cap, job_maker=None):
+        seen.update(pass_name=pass_name, has_maker=job_maker is not None)
+        return 0
+
+    monkeypatch.setattr(D.B, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(D, "run", fake_run)
+    monkeypatch.setattr(sys, "argv", ["p4c_daemon.py", "--model", "m"])
+    assert D.main() == 0
+    assert seen == {"pass_name": D.PR.BULK_PASS, "has_maker": False}
