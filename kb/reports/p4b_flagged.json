@@ -1,0 +1,671 @@
+{
+ "phase": "P4B_FLAGGED",
+ "sample_seed": 15063620,
+ "selection_rule": "flagged reference records = admitted by exactly one of the two reference models; stratified half adjudicator-drops / half adjudicator-keeps, one record per chunk first, seeded shuffle",
+ "scope": {
+  "gold_chunks": 120,
+  "flagged_pool": 304,
+  "pool_by_decision": {
+   "keep": 273,
+   "drop": 31,
+   "unadjudicated": 0
+  },
+  "sample_size": 30
+ },
+ "adjudicator": "nvidia/nemotron-3-ultra-550b-a55b",
+ "reference_models": [
+  "deepseek-v4-pro",
+  "glm-5.3"
+ ],
+ "items": [
+  {
+   "chunk_id": "12d737bf1e550b84d87c840194e0f280",
+   "flagged_idx": 2,
+   "doc_id": "dd5a0b7266a4db6c",
+   "title": "Intermodal Weekly Market Report - Week 37, 2021",
+   "publisher": "Intermodal Shipbrokers",
+   "published_at": "2021-09-21",
+   "doc_type": "broker_weekly",
+   "source_path": "data/extracted/md/intermodal/2021/intermodal_2021_W37_Intermodal-Report-Week-37-2021.md",
+   "single_reference_model": [
+    "glm-5.3"
+   ],
+   "kind": "state_facts",
+   "type": "LISTED_AS",
+   "entities": [
+    "company:new:trafigura_group",
+    "publisher:new:singapore_stock_exchange"
+   ],
+   "evidence_quote": "\n\nThe notes will be listed on the Singapore Stock Exchange, with Trafigura aiming to redeem the debt within six years.",
+   "record_json": "{\"type\": \"LISTED_AS\", \"src\": \"company:new:trafigura_group\", \"dst\": \"publisher:new:singapore_stock_exchange\", \"attrs_printed\": [{\"key\": \"exchange\", \"value_as_printed\": \"Singapore Stock Exchange\"}], \"valid_from_printed\": \"\", \"valid_to_printed\": \"\", \"chunk\": \"c2\", \"sids\": [4], \"confidence\": 0.8}",
+   "adjudicator_decision": "keep",
+   "adjudicator_why": "Sentence 4 explicitly states notes listed on Singapore Stock Exchange"
+  },
+  {
+   "chunk_id": "c57c67f2470c95d97f330b8c16be5642",
+   "flagged_idx": 8,
+   "doc_id": "2067584eb105858a",
+   "title": "Intermodal Weekly Market Report - Week 45, 2023",
+   "publisher": "Intermodal Shipbrokers",
+   "published_at": "2023-11-14",
+   "doc_type": "broker_weekly",
+   "source_path": "data/extracted/md/intermodal/2023/intermodal_2023_W45_Intermodal-Report-Week-45-2023.md",
+   "single_reference_model": [
+    "glm-5.3"
+   ],
+   "kind": "claims",
+   "type": "forecast",
+   "entities": [],
+   "evidence_quote": " Given the typical surge in U.S. soybean exports from September to November, such activity from China may lead to an increase in demand for Kamsarmax and Ultramax/Supramax vessels, which is likely to support their rates at least in the grain trade.",
+   "record_json": "{\"kind\": \"forecast\", \"subjects\": [], \"direction\": \"up\", \"horizon_printed\": \"September to November\", \"chunk\": \"c5\", \"sids\": [6], \"confidence\": 0.75}",
+   "adjudicator_decision": "keep",
+   "adjudicator_why": "Forecast claim matches quoted sentence about soybean export surge supporting vessel rates."
+  },
+  {
+   "chunk_id": "fd14f7db2b053bcf7638de2aea7e7cae",
+   "flagged_idx": 5,
+   "doc_id": "476b408c93849d36",
+   "title": "Seabreeze Monthly Offshore Market Report - August 2026",
+   "publisher": "Seabrokers Chartering",
+   "published_at": "2026-08-01",
+   "doc_type": "broker_monthly",
+   "source_path": "data/extracted/md/seabrokers/2026/2026-08-01_market-report-august-2026.md",
+   "single_reference_model": [
+    "glm-5.3"
+   ],
+   "kind": "state_facts",
+   "type": "RENAMED",
+   "entities": [
+    "vessel:new:ocean_pearl"
+   ],
+   "evidence_quote": "\nThe Swissco Pearl AHTS vessel has been renamed as the Ocean Pearl following her recent acquisition by the J M Baxi Group in India.",
+   "record_json": "{\"type\": \"RENAMED\", \"src\": \"vessel:new:ocean_pearl\", \"dst\": \"vessel:new:ocean_pearl\", \"attrs_printed\": [{\"key\": \"from\", \"value_as_printed\": \"Swissco Pearl\"}, {\"key\": \"to\", \"value_as_printed\": \"Ocean Pearl\"}], \"valid_from_printed\": \"\", \"valid_to_printed\": \"\", \"chunk\": \"c3\", \"sids\": [0], \"confidence\": 0.9}",
+   "adjudicator_decision": "keep",
+   "adjudicator_why": "Renaming explicitly stated in sentence 0."
+  },
+  {
+   "chunk_id": "e9c5c7f17ccadadda3fd2b4ed2d080f2",
+   "flagged_idx": 2,
+   "doc_id": "d20bbf57ac036473",
+   "title": "GMS Week 9 – DWINDLING…SURGE?!",
+   "publisher": "GMS Inc.",
+   "published_at": "2025-02-28",
+   "doc_type": "broker_weekly",
+   "source_path": "data/extracted/md/hellenic/demolition/gms/2025/gms_2025-02-28_week-09_dwindling-surge.md",
+   "single_reference_model": [
+    "glm-5.3"
+   ],
+   "kind": "claims",
+   "type": "view",
+   "entities": [],
+   "evidence_quote": " Fundamentals continue afflict their pricing strategy as well as subdued import and local steel plate prices that continue face weekly jitters, all while the Lira remains in freefall as it collapsed another 20 basis points to end the week at TRY 36.53. Certainly not an even playing field for Aliaga recyclers under the current environment.\n\n**NO MARKET SALES REPORTED**\n",
+   "record_json": "{\"kind\": \"view\", \"subjects\": [], \"direction\": \"na\", \"horizon_printed\": \"\", \"chunk\": \"c6\", \"sids\": [2], \"confidence\": 0.6}",
+   "adjudicator_decision": "keep",
+   "adjudicator_why": "Quote matches chunk sentence 2 exactly with all numbers and text present"
+  },
+  {
+   "chunk_id": "80d1c9037f0ab5b3d7f368272d36c4c2",
+   "flagged_idx": 1,
+   "doc_id": "0c23f8501d1bf20d",
+   "title": "Frontline plc",
+   "publisher": "Frontline plc",
+   "published_at": "2026-02-27",
+   "doc_type": "sec_6k",
+   "source_path": "corpus/10-companies/FRO/6-K/FRO_6-K_2026-02-27_0000919574-26-001430.md",
+   "single_reference_model": [
+    "glm-5.3"
+   ],
+   "kind": "events",
+   "type": "other",
+   "entities": [
+    "company:cik0000913290"
+   ],
+   "evidence_quote": " As of today, six of the vessels have been delivered to the new owner with the remaining two vessels scheduled to be delivered during March 2026. After commissions and repayment of existing debt on the vessels, the transaction is expected to generate net cash proceeds of approximately \\$477.2 million and the Company expects to record a gain in the first quarter of 2026 of approximately \\$212.0 million.",
+   "record_json": "{\"type\": \"other\", \"summary\": \"Six of the eight sold VLCCs have been delivered to the new owner, remaining two scheduled for delivery during March 2026; transaction expected to generate net cash proceeds of approximately $477.2 million and a Q1 2026 gain of approximately $212.0 million\", \"roles\": [{\"role\": \"owner\", \"entity\": \"company:cik0000913290\"}], \"when_printed\": \"As of today\", \"magnitude_printed\": \"$477.2 million\", \"chunk\": \"c5\", \"sids\": [8], \"confidence\": 0.85}",
+   "adjudicator_decision": "keep",
+   "adjudicator_why": "All numbers, dates, and details match the quoted sentence exactly."
+  },
+  {
+   "chunk_id": "189b6d9be8efa0af25056589b0743665",
+   "flagged_idx": 0,
+   "doc_id": "4b79d075d26b4051",
+   "title": "Running Out of Room?",
+   "publisher": "Gibson Shipbrokers",
+   "published_at": "2026-10-02",
+   "doc_type": "broker_weekly",
+   "source_path": "data/extracted/md/gibson/2026/gibson_2026-10-02_running-out-of-room.md",
+   "single_reference_model": [
+    "glm-5.3"
+   ],
+   "kind": "events",
+   "type": "production_guidance",
+   "entities": [
+    "country:US"
+   ],
+   "evidence_quote": " According to Kpler data, exports peaked at around 5.2 mbd in Q2, when releases from the US SPR lifted volumes by close to 1.3 mbd, or more than 30%, on the previous quarter.",
+   "record_json": "{\"type\": \"production_guidance\", \"summary\": \"US crude exports peaked at around 5.2 mbd in Q2, with SPR releases lifting volumes by close to 1.3 mbd or more than 30% on the previous quarter\", \"roles\": [{\"role\": \"subject\", \"entity\": \"country:US\"}], \"when_printed\": \"Q2\", \"magnitude_printed\": \"5.2 mbd\", \"chunk\": \"c2\", \"sids\": [2], \"confidence\": 0.8}",
+   "adjudicator_decision": "keep",
+   "adjudicator_why": "Record accurately reflects Kpler data on US crude export peak and SPR impact in Q2."
+  },
+  {
+   "chunk_id": "1d20b71b21b159b7b28bc6b3629e5ad0",
+   "flagged_idx": 0,
+   "doc_id": "4b79d075d26b4051",
+   "title": "Running Out of Room?",
+   "publisher": "Gibson Shipbrokers",
+   "published_at": "2026-10-02",
+   "doc_type": "broker_weekly",
+   "source_path": "data/extracted/md/gibson/2026/gibson_2026-10-02_running-out-of-room.md",
+   "single_reference_model": [
+    "glm-5.3"
+   ],
+   "kind": "events",
+   "type": "market_move",
+   "entities": [],
+   "evidence_quote": " The market opened with cross-UKC rates around WS430, owners benefiting from the substantial tightening seen over previous weeks.  Consequently, rates only softened modestly, ending the week around WS410-420 for UKC business.\n\n",
+   "record_json": "{\"type\": \"market_move\", \"summary\": \"North Sea cross-UKC rates opened around WS430 and ended the week around WS410-420, softening modestly\", \"roles\": [], \"when_printed\": \"ending the week\", \"magnitude_printed\": \"WS410-420\", \"chunk\": \"c3\", \"sids\": [1, 4], \"confidence\": 0.8}",
+   "adjudicator_decision": "drop",
+   "adjudicator_why": "Name \"North Sea\" not in quoted sentences; evidence lacks that term"
+  },
+  {
+   "chunk_id": "3cff270a0f753c92af06e56241102a22",
+   "flagged_idx": 4,
+   "doc_id": "2067584eb105858a",
+   "title": "Intermodal Weekly Market Report - Week 45, 2023",
+   "publisher": "Intermodal Shipbrokers",
+   "published_at": "2023-11-14",
+   "doc_type": "broker_weekly",
+   "source_path": "data/extracted/md/intermodal/2023/intermodal_2023_W45_Intermodal-Report-Week-45-2023.md",
+   "single_reference_model": [
+    "glm-5.3"
+   ],
+   "kind": "events",
+   "type": "market_move",
+   "entities": [],
+   "evidence_quote": " In terms of fundamentals, the local currency continues its rapid depreciation against the USD, currently trading at 283. In Turkey, steel prices are rising modestly, while offer prices remain broadly unchanged.",
+   "record_json": "{\"type\": \"market_move\", \"summary\": \"Pakistani rupee continues rapid depreciation against USD, currently trading at 283\", \"roles\": [], \"when_printed\": \"currently\", \"magnitude_printed\": \"283\", \"chunk\": \"c1\", \"sids\": [9], \"confidence\": 0.75}",
+   "adjudicator_decision": "drop",
+   "adjudicator_why": "Currency not explicitly named as Pakistani rupee in quote."
+  },
+  {
+   "chunk_id": "3fcf8b568d6f5cba027fca760bd5b72e",
+   "flagged_idx": 1,
+   "doc_id": "1417cb2f50e134dc",
+   "title": "Tanker Report – Week 5 2016",
+   "publisher": "Baltic Exchange",
+   "published_at": "2016-12-30",
+   "doc_type": "broker_weekly",
+   "source_path": "data/extracted/md/baltic/tanker/2016/2016_tanker-report-week52016_tanker.md",
+   "single_reference_model": [
+    "deepseek-v4-pro"
+   ],
+   "kind": "state_facts",
+   "type": "FIXED",
+   "entities": [
+    "company:new:vitol",
+    "vessel:imo:9890989"
+   ],
+   "evidence_quote": "\n\nIn West Africa, the market has held steady at WS 65 for China discharge, while in the North Sea, the *Nave Electron* is said to have gone to Vitol from Hound Point to South Korea at $6.725 million.",
+   "record_json": "{\"type\": \"FIXED\", \"src\": \"vessel:imo:9890989\", \"dst\": \"company:new:vitol\", \"attrs_printed\": [{\"key\": \"rate\", \"value_as_printed\": \"$6.725 million\"}], \"valid_from_printed\": \"\", \"valid_to_printed\": \"\", \"chunk\": \"c2\", \"sids\": [4], \"confidence\": 0.7}",
+   "adjudicator_decision": "drop",
+   "adjudicator_why": "Vessel IMO 9890989 not mentioned in chunk"
+  },
+  {
+   "chunk_id": "9c23e9d27146fa831b02eeb112108faf",
+   "flagged_idx": 9,
+   "doc_id": "348bdb30de415bd4",
+   "title": "Affinity Tanker Weekly - 04 October 2024",
+   "publisher": "Affinity Shipbrokers",
+   "published_at": "2024-10-04",
+   "doc_type": "broker_weekly",
+   "source_path": "data/extracted/md/affinity/2024/affinity_2024_Affinity-Tanker-Weekly-04.10.2024-HSN.md",
+   "single_reference_model": [
+    "glm-5.3"
+   ],
+   "kind": "events",
+   "type": "market_move",
+   "entities": [
+    "country:AE",
+    "port:SAJUB",
+    "port:SARTA"
+   ],
+   "evidence_quote": " LR2s and MRs offering better flexibility and efficiency on USD/T and rate perspectives have naturally softened distinctly, finally leading to some public testing with USD 375,000 on subs for UAE/Kuwait - a notable change from the USD 600,000 fixed last week for Jubail/Ras Tanura!",
+   "record_json": "{\"type\": \"market_move\", \"summary\": \"LR1 public testing with USD 375,000 on subs for UAE/Kuwait, change from USD 600,000 fixed last week for Jubail/Ras Tanura\", \"roles\": [{\"role\": \"country\", \"entity\": \"country:AE\"}, {\"role\": \"port\", \"entity\": \"port:SAJUB\"}, {\"role\": \"port\", \"entity\": \"port:SARTA\"}], \"when_printed\": \"this week\", \"magnitude_printed\": \"USD 375,000 on subs, USD 600,000 fixed last week\", \"chunk\": \"c1\", \"sids\": [6], \"confidence\": 0.85}",
+   "adjudicator_decision": "drop",
+   "adjudicator_why": "Record misidentifies LR2/MR testing as LR1; entities include UAE/Kuwait not in record"
+  },
+  {
+   "chunk_id": "689ca25014b97ecb9aad195823f6373f",
+   "flagged_idx": 5,
+   "doc_id": "bf1f56a9ccec4df5",
+   "title": "The Signal Ocean Platform - Port Congestion",
+   "publisher": "The Signal Group",
+   "published_at": "2023-05-22",
+   "doc_type": "broker_weekly",
+   "source_path": "data/extracted/md/signal/newsroom/2023/the-signal-ocean-platform-port-congestion.md",
+   "single_reference_model": [
+    "glm-5.3"
+   ],
+   "kind": "events",
+   "type": "port_congestion",
+   "entities": [
+    "port:new:black_sea"
+   ],
+   "evidence_quote": " As depicted in Image 2, a few days prior to late April, the number of congested vessels in the Black Sea reached its highest point since the beginning of this year, surpassing the levels observed in 2022. The ongoing grain geopolitical conflicts between Russia and Ukraine have contributed to critical port congestion issues for small bulker vessels that have yet to be resolved.",
+   "record_json": "{\"type\": \"port_congestion\", \"summary\": \"Black Sea small bulker congestion reached its highest point since the beginning of the year before late April, surpassing 2022 levels\", \"roles\": [{\"role\": \"entity\", \"entity\": \"port:new:black_sea\"}], \"when_printed\": \"a few days prior to late April\", \"magnitude_printed\": \"highest point since the beginning of this year\", \"chunk\": \"c2\", \"sids\": [7], \"confidence\": 0.85}",
+   "adjudicator_decision": "keep",
+   "adjudicator_why": "All record fields match chunk sentence 7 exactly."
+  },
+  {
+   "chunk_id": "b5044bb3bd7672dcfc1c5cb337db3626",
+   "flagged_idx": 3,
+   "doc_id": "0c23f8501d1bf20d",
+   "title": "Frontline plc",
+   "publisher": "Frontline plc",
+   "published_at": "2026-02-27",
+   "doc_type": "sec_6k",
+   "source_path": "corpus/10-companies/FRO/6-K/FRO_6-K_2026-02-27_0000919574-26-001430.md",
+   "single_reference_model": [
+    "glm-5.3"
+   ],
+   "kind": "events",
+   "type": "newbuilding_wave",
+   "entities": [
+    "company:cik0000913290"
+   ],
+   "evidence_quote": "\n\nThe overall tanker order book for the asset classes Frontline owns is now 22.2% of the existing global fleet, with 163,123, and 165 vessels on order for VLCCs, Suezmax tankers and LR2 tankers, respectively.",
+   "record_json": "{\"type\": \"newbuilding_wave\", \"summary\": \"The overall tanker order book for Frontline's asset classes is 22.2% of the existing global fleet, with 163, 123 and 165 vessels on order for VLCCs, Suezmax and LR2 tankers respectively\", \"roles\": [{\"role\": \"entity\", \"entity\": \"company:cik0000913290\"}], \"when_printed\": \"now\", \"magnitude_printed\": \"22.2%\", \"chunk\": \"c4\", \"sids\": [9], \"confidence\": 0.85}",
+   "adjudicator_decision": "keep",
+   "adjudicator_why": "Order book data matches chunk sentence 9 exactly"
+  },
+  {
+   "chunk_id": "9453b056d9a059790b17abae27f453ad",
+   "flagged_idx": 0,
+   "doc_id": "348bdb30de415bd4",
+   "title": "Affinity Tanker Weekly - 04 October 2024",
+   "publisher": "Affinity Shipbrokers",
+   "published_at": "2024-10-04",
+   "doc_type": "broker_weekly",
+   "source_path": "data/extracted/md/affinity/2024/affinity_2024_Affinity-Tanker-Weekly-04.10.2024-HSN.md",
+   "single_reference_model": [
+    "deepseek-v4-pro"
+   ],
+   "kind": "claims",
+   "type": "view",
+   "entities": [
+    "route:TC14"
+   ],
+   "evidence_quote": " A lack of volume coupled with a sufficient tonnage list has left rates grounded around WS 90 for TC2.",
+   "record_json": "{\"kind\": \"view\", \"subjects\": [\"route:TC14\"], \"direction\": \"down\", \"horizon_printed\": \"\", \"chunk\": \"c3\", \"sids\": [1], \"confidence\": 0.9}",
+   "adjudicator_decision": "drop",
+   "adjudicator_why": "Evidence quote references TC2, not TC14."
+  },
+  {
+   "chunk_id": "87a1495a1223b632e779a8266afff1c6",
+   "flagged_idx": 0,
+   "doc_id": "bf1f56a9ccec4df5",
+   "title": "The Signal Ocean Platform - Port Congestion",
+   "publisher": "The Signal Group",
+   "published_at": "2023-05-22",
+   "doc_type": "broker_weekly",
+   "source_path": "data/extracted/md/signal/newsroom/2023/the-signal-ocean-platform-port-congestion.md",
+   "single_reference_model": [
+    "glm-5.3"
+   ],
+   "kind": "claims",
+   "type": "causal",
+   "entities": [],
+   "evidence_quote": "\n**What vessel types does the Signal Ocean Port Congestion API cover?** The API covers dry bulk and tanker vessels, including Capesize, VLOC, Panamax, Supramax, Handysize, Suezmax, and MR vessel classes.\n\n**How far back does the historical data go?** Signal Ocean's Port Congestion API provides ten years of historical data, enabling trend analysis and benchmarking against prior congestion cycles.\n\n**Which port regions are tracked?** The platform tracks congestion across all major global regions, including China, the Black Sea, Australia, East Coast South America, and more — at both the port and",
+   "record_json": "{\"kind\": \"causal\", \"subjects\": [], \"direction\": \"up\", \"horizon_printed\": \"\", \"chunk\": \"c3\", \"sids\": [0], \"confidence\": 0.6}",
+   "adjudicator_decision": "drop",
+   "adjudicator_why": "Evidence lacks explicit causal statement"
+  },
+  {
+   "chunk_id": "d8ad69fd7bbd37fba6126fd3a0111f3f",
+   "flagged_idx": 10,
+   "doc_id": "348bdb30de415bd4",
+   "title": "Affinity Tanker Weekly - 04 October 2024",
+   "publisher": "Affinity Shipbrokers",
+   "published_at": "2024-10-04",
+   "doc_type": "broker_weekly",
+   "source_path": "data/extracted/md/affinity/2024/affinity_2024_Affinity-Tanker-Weekly-04.10.2024-HSN.md",
+   "single_reference_model": [
+    "glm-5.3"
+   ],
+   "kind": "claims",
+   "type": "view",
+   "entities": [],
+   "evidence_quote": " Tonnage lists are getting dangerously thin with owners very much in the driving seat to push rates further north, especially when considering that regional tensions remain on a knife’s edge.",
+   "record_json": "{\"kind\": \"view\", \"subjects\": [], \"direction\": \"up\", \"horizon_printed\": \"\", \"chunk\": \"c2\", \"sids\": [9], \"confidence\": 0.75}",
+   "adjudicator_decision": "keep",
+   "adjudicator_why": "Quote matches sentence 9 exactly"
+  },
+  {
+   "chunk_id": "e75b15e0bb6c33ef356ab7ce2ddd140f",
+   "flagged_idx": 0,
+   "doc_id": "b08cda40d686f030",
+   "title": "The Sea and Civilization: A Maritime History of the World - Lincoln Paine",
+   "publisher": "Alfred A. Knopf",
+   "published_at": "2013-01-01",
+   "doc_type": "book",
+   "source_path": "corpus/books/sea_and_civilization_paine.md",
+   "single_reference_model": [
+    "deepseek-v4-pro"
+   ],
+   "kind": "state_facts",
+   "type": "RENAMED",
+   "entities": [
+    "vessel:imo:5122750"
+   ],
+   "evidence_quote": " The inaugural run of Fulton's forty-five-meter-long side-wheel steamer, the North River Steam Boat, took place on the Hudson River between New York and Albany in 1807; after that there was no looking back.",
+   "record_json": "{\"type\": \"RENAMED\", \"src\": \"vessel:imo:5122750\", \"dst\": \"vessel:imo:5122750\", \"attrs_printed\": [{\"key\": \"from\", \"value_as_printed\": \"North River Steam Boat\"}, {\"key\": \"to\", \"value_as_printed\": \"North River Steam Boat\"}], \"valid_from_printed\": \"\", \"valid_to_printed\": \"\", \"chunk\": \"c2\", \"sids\": [1], \"confidence\": 0.3}",
+   "adjudicator_decision": "drop",
+   "adjudicator_why": "Record claims RENAMED with same name; no rename evidence in chunk."
+  },
+  {
+   "chunk_id": "2fc8a302588abf1834eb35cbb69d0fb1",
+   "flagged_idx": 1,
+   "doc_id": "0818fc861f0f4ba9",
+   "title": "EuroDry Ltd.",
+   "publisher": "EuroDry Ltd.",
+   "published_at": "2019-04-30",
+   "doc_type": "sec_20f",
+   "source_path": "corpus/10-companies/EDRY/20-F/EDRY_20-F_2019-04-30_0000919574-19-003068.md",
+   "single_reference_model": [
+    "glm-5.3"
+   ],
+   "kind": "events",
+   "type": "other",
+   "entities": [
+    "company:new:eurobulk",
+    "company:new:eurochart",
+    "person:new:aristides_j_pittas"
+   ],
+   "evidence_quote": "\n\nAristides J. Pittas is currently the Chairman of each of Eurochart and Eurobulk, all of which are our affiliates.",
+   "record_json": "{\"type\": \"other\", \"summary\": \"Aristides J. Pittas is currently the Chairman of each of Eurochart and Eurobulk, all of which are affiliates of EuroDry\", \"roles\": [{\"role\": \"entity\", \"entity\": \"person:new:aristides_j_pittas\"}, {\"role\": \"entity\", \"entity\": \"company:new:eurochart\"}, {\"role\": \"entity\", \"entity\": \"company:new:eurobulk\"}], \"when_printed\": \"currently\", \"magnitude_printed\": \"\", \"chunk\": \"c1\", \"sids\": [7], \"confidence\": 0.8}",
+   "adjudicator_decision": "drop",
+   "adjudicator_why": "Adds \"EuroDry\" affiliation not in source; only says \"our affiliates\""
+  },
+  {
+   "chunk_id": "019dbcec5f3e9b3b9bc73c76790262fc",
+   "flagged_idx": 0,
+   "doc_id": "dd5a0b7266a4db6c",
+   "title": "Intermodal Weekly Market Report - Week 37, 2021",
+   "publisher": "Intermodal Shipbrokers",
+   "published_at": "2021-09-21",
+   "doc_type": "broker_weekly",
+   "source_path": "data/extracted/md/intermodal/2021/intermodal_2021_W37_Intermodal-Report-Week-37-2021.md",
+   "single_reference_model": [
+    "glm-5.3"
+   ],
+   "kind": "claims",
+   "type": "view",
+   "entities": [],
+   "evidence_quote": " The overall picture remains depressed in the crude carrier market, as all sectors reported T/C earnings well below their OPEX levels while any increase in demand cannot provide meaningful support at the time of writing.",
+   "record_json": "{\"kind\": \"view\", \"subjects\": [], \"direction\": \"down\", \"horizon_printed\": \"\", \"chunk\": \"c1\", \"sids\": [3], \"confidence\": 0.8}",
+   "adjudicator_decision": "keep",
+   "adjudicator_why": "Evidence quote matches sentence 3 exactly."
+  },
+  {
+   "chunk_id": "57523f8b2628d11b353ab70e45074a5a",
+   "flagged_idx": 3,
+   "doc_id": "cb0e4073325e5c29",
+   "title": "Shipfix-Global Market Update",
+   "publisher": "Breakwave Advisors",
+   "published_at": "2023-07-04",
+   "doc_type": "broker_daily",
+   "source_path": "data/extracted/md/breakwave/insights/2023/2023-07-04_shipfix-global-market-update.md",
+   "single_reference_model": [
+    "glm-5.3"
+   ],
+   "kind": "events",
+   "type": "market_move",
+   "entities": [
+    "commodity:new:copper",
+    "commodity:new:zinc"
+   ],
+   "evidence_quote": " The copper and zinc three-month futures listed on the LME recorded weekly gains of 0.3 and 1.0 per cent, respectively.",
+   "record_json": "{\"type\": \"market_move\", \"summary\": \"LME copper and zinc three-month futures recorded weekly gains of 0.3 and 1.0 per cent respectively\", \"roles\": [{\"role\": \"commodity\", \"entity\": \"commodity:new:copper\"}, {\"role\": \"commodity\", \"entity\": \"commodity:new:zinc\"}], \"when_printed\": \"week\", \"magnitude_printed\": \"0.3 and 1.0 per cent\", \"chunk\": \"c2\", \"sids\": [12], \"confidence\": 0.85}",
+   "adjudicator_decision": "keep",
+   "adjudicator_why": "Quote matches sentence 12 exactly."
+  },
+  {
+   "chunk_id": "87f155f7f3ea70ea6cb745adcef42f32",
+   "flagged_idx": 1,
+   "doc_id": "653520558ce022b5",
+   "title": "MMi Daily Iron Ore Index Report - 2025-11-04",
+   "publisher": "Metals Market Index (MMi)",
+   "published_at": "2025-11-04",
+   "doc_type": "broker_daily",
+   "source_path": "data/extracted/md/hellenic/iron_ore_pdf/2025/2025-11-04_mmi-daily-iron-ore-index-report-november-04-2025_20251104180538_005d7c73d5c5.md",
+   "single_reference_model": [
+    "glm-5.3"
+   ],
+   "kind": "events",
+   "type": "market_move",
+   "entities": [
+    "commodity:coke"
+   ],
+   "evidence_quote": " In terms of news, the third round of coke price increase has been implemented, squeezing the profits of steel mills; and the consumption of steel has not increased significantly, the market has a strong expectation for the reduction of molten iron in the future, and the sentiment is weak.",
+   "record_json": "{\"type\": \"market_move\", \"summary\": \"The third round of coke price increase has been implemented, squeezing the profits of steel mills\", \"roles\": [{\"role\": \"subject\", \"entity\": \"commodity:coke\"}], \"when_printed\": \"\", \"magnitude_printed\": \"third round of coke price increase\", \"chunk\": \"c1\", \"sids\": [8], \"confidence\": 0.8}",
+   "adjudicator_decision": "keep",
+   "adjudicator_why": "Coke price increase mentioned in sentence 8"
+  },
+  {
+   "chunk_id": "2084e924dee61ce51b789a83550d380c",
+   "flagged_idx": 0,
+   "doc_id": "4b79d075d26b4051",
+   "title": "Running Out of Room?",
+   "publisher": "Gibson Shipbrokers",
+   "published_at": "2026-10-02",
+   "doc_type": "broker_weekly",
+   "source_path": "data/extracted/md/gibson/2026/gibson_2026-10-02_running-out-of-room.md",
+   "single_reference_model": [
+    "deepseek-v4-pro"
+   ],
+   "kind": "claims",
+   "type": "view",
+   "entities": [
+    "route:TD6"
+   ],
+   "evidence_quote": "\nTD6 had stayed relatively constant despite the activity in the Atlantic, but on Friday we saw this market catch up, with WS900 paid for TD6.",
+   "record_json": "{\"kind\": \"view\", \"subjects\": [\"route:TD6\"], \"direction\": \"up\", \"horizon_printed\": \"\", \"chunk\": \"c4\", \"sids\": [0], \"confidence\": 0.8}",
+   "adjudicator_decision": "keep",
+   "adjudicator_why": "Sentence 0 explicitly states TD6 caught up on Friday with WS900 paid, supporting the upward view."
+  },
+  {
+   "chunk_id": "3feeba4d2df95633529c31bda1745d66",
+   "flagged_idx": 1,
+   "doc_id": "2067584eb105858a",
+   "title": "Intermodal Weekly Market Report - Week 45, 2023",
+   "publisher": "Intermodal Shipbrokers",
+   "published_at": "2023-11-14",
+   "doc_type": "broker_weekly",
+   "source_path": "data/extracted/md/intermodal/2023/intermodal_2023_W45_Intermodal-Report-Week-45-2023.md",
+   "single_reference_model": [
+    "glm-5.3"
+   ],
+   "kind": "events",
+   "type": "market_move",
+   "entities": [],
+   "evidence_quote": " By Friday, rates had decreased by 37.81 points, ending at WS 219.69.\n\nVLCC T/C earnings averaged \\$28,324/day, down - \\$3,479/day w-o-w, and closed off the week at the -\\$26,666/day mark.",
+   "record_json": "{\"type\": \"market_move\", \"summary\": \"VLCC T/C earnings averaged $28,324/day, down $3,479/day w-o-w\", \"roles\": [], \"when_printed\": \"w-o-w\", \"magnitude_printed\": \"$28,324/day, -$3,479/day\", \"chunk\": \"c3\", \"sids\": [13], \"confidence\": 0.9}",
+   "adjudicator_decision": "drop",
+   "adjudicator_why": "Evidence quote includes USG Aframax rate (sentence 13) not in record_json; record_json cites only sid 13 but quote spans sentences 13 and 14"
+  },
+  {
+   "chunk_id": "ca1674b395f4db5d23b9e123c1183b16",
+   "flagged_idx": 0,
+   "doc_id": "3645fd56f7d93973",
+   "title": "Golden Ocean Group Ltd",
+   "publisher": "Golden Ocean Group Ltd",
+   "published_at": "2025-03-20",
+   "doc_type": "sec_20f",
+   "source_path": "corpus/10-companies/GOGL/20-F/GOGL_20-F_2025-03-20_0001029145-25-000012.md",
+   "single_reference_model": [
+    "deepseek-v4-pro"
+   ],
+   "kind": "claims",
+   "type": "forecast",
+   "entities": [
+    "country:BM"
+   ],
+   "evidence_quote": " We do not expect Undertaxed Profit rules to be implemented before 2025 for either Singapore or Norway.",
+   "record_json": "{\"kind\": \"forecast\", \"subjects\": [\"country:BM\"], \"direction\": \"na\", \"horizon_printed\": \"2025\", \"chunk\": \"c2\", \"sids\": [8], \"confidence\": 0.7}",
+   "adjudicator_decision": "drop",
+   "adjudicator_why": "Bermuda not mentioned in evidence quote"
+  },
+  {
+   "chunk_id": "26c1232d1c656b5c51ce5f9a6bff1439",
+   "flagged_idx": 3,
+   "doc_id": "d20bbf57ac036473",
+   "title": "GMS Week 9 – DWINDLING…SURGE?!",
+   "publisher": "GMS Inc.",
+   "published_at": "2025-02-28",
+   "doc_type": "broker_weekly",
+   "source_path": "data/extracted/md/hellenic/demolition/gms/2025/gms_2025-02-28_week-09_dwindling-surge.md",
+   "single_reference_model": [
+    "deepseek-v4-pro"
+   ],
+   "kind": "claims",
+   "type": "forecast",
+   "entities": [],
+   "evidence_quote": " Recent alarming news concerning a potential ban on Chinese built / owned tonnage calling U.S. ports also stands to devastate the U.S. economy in turn, eventually sending prices skyrocketing even further as U.S. inflation starts to rise once again and the Feds cancel their recently intended interest rate cut.",
+   "record_json": "{\"kind\": \"forecast\", \"subjects\": [], \"direction\": \"up\", \"horizon_printed\": \"\", \"chunk\": \"c1\", \"sids\": [8], \"confidence\": 0.6}",
+   "adjudicator_decision": "keep",
+   "adjudicator_why": "Quote matches chunk sentence 8 exactly"
+  },
+  {
+   "chunk_id": "d8043179e70fbf5ef519a6805c24d340",
+   "flagged_idx": 0,
+   "doc_id": "b7457aa3cd979b97",
+   "title": "Banchero Costa Weekly Market Report - Week 19 2023",
+   "publisher": "Banchero Costa",
+   "published_at": "2023-05-14",
+   "doc_type": "broker_weekly",
+   "source_path": "data/extracted/md/banchero_costa/2023/banchero_costa_2023_W19_Bancosta-Weekly-2023-19.md",
+   "single_reference_model": [
+    "glm-5.3"
+   ],
+   "kind": "events",
+   "type": "sanction_policy",
+   "entities": [],
+   "evidence_quote": "\nTurkish Foreign Minister Mevlut Cavusoglu said on Wednesday he thought the Ukraine Black Sea grain deal could be extended for at least two more months, as officials from the parties involved held the first day of talks on an extension in Istanbul.  Russia has said it would not extend the pact beyond May 18 unless a list of demands is met to remove obstacles to its own grain and fertilizer exports\n",
+   "record_json": "{\"type\": \"sanction_policy\", \"summary\": \"Turkey said the Ukraine Black Sea grain deal could be extended for at least two more months; Russia said it would not extend the pact beyond May 18 unless demands are met\", \"roles\": [], \"when_printed\": \"beyond May 18\", \"magnitude_printed\": \"at least two more months\", \"chunk\": \"c1\", \"sids\": [0, 1], \"confidence\": 0.8}",
+   "adjudicator_decision": "drop",
+   "adjudicator_why": "Record mentions \"Turkey\" which does not appear verbatim in the source sentences"
+  },
+  {
+   "chunk_id": "1cde27e864567fae55c353c131279d28",
+   "flagged_idx": 1,
+   "doc_id": "695b804723a77efa",
+   "title": "Banchero Costa Weekly Market Report - Week 30 2024",
+   "publisher": "Banchero Costa",
+   "published_at": "2024-07-29",
+   "doc_type": "broker_weekly",
+   "source_path": "data/extracted/md/banchero_costa/2024/banchero_costa_2024_W30_Bancosta-Weekly-2024-30.md",
+   "single_reference_model": [
+    "glm-5.3"
+   ],
+   "kind": "events",
+   "type": "market_move",
+   "entities": [],
+   "evidence_quote": " On the other side of the Atlantic rates fell to WS155 level on the 70,000 mt trade from USG to Europe. **Suezmax** rates softened further, down to WS87.5 ex W Africa and to WS77.5 ex USG to Europe.",
+   "record_json": "{\"type\": \"market_move\", \"summary\": \"Aframax rates fell to WS155 level on the 70,000 mt trade from USG to Europe\", \"roles\": [], \"when_printed\": \"\", \"magnitude_printed\": \"WS155\", \"chunk\": \"c3\", \"sids\": [1], \"confidence\": 0.85}",
+   "adjudicator_decision": "drop",
+   "adjudicator_why": "Record misattributes Suezmax rate to Aframax"
+  },
+  {
+   "chunk_id": "3d94992a317eb2c699f3649ed9516564",
+   "flagged_idx": 1,
+   "doc_id": "2067584eb105858a",
+   "title": "Intermodal Weekly Market Report - Week 45, 2023",
+   "publisher": "Intermodal Shipbrokers",
+   "published_at": "2023-11-14",
+   "doc_type": "broker_weekly",
+   "source_path": "data/extracted/md/intermodal/2023/intermodal_2023_W45_Intermodal-Report-Week-45-2023.md",
+   "single_reference_model": [
+    "deepseek-v4-pro"
+   ],
+   "kind": "state_facts",
+   "type": "ORDERED_AT",
+   "entities": [
+    "company:new:namura_yard",
+    "company:new:taiwanese_owner"
+   ],
+   "evidence_quote": " Furthermore, a Taiwanese owner has placed an order for two 40,000dwt vessels to be built at Namura yard.",
+   "record_json": "{\"type\": \"ORDERED_AT\", \"src\": \"company:new:taiwanese_owner\", \"dst\": \"company:new:namura_yard\", \"attrs_printed\": [{\"key\": \"units\", \"value_as_printed\": \"two 40,000dwt vessels\"}], \"valid_from_printed\": \"\", \"valid_to_printed\": \"\", \"chunk\": \"c2\", \"sids\": [6], \"confidence\": 0.8}",
+   "adjudicator_decision": "keep",
+   "adjudicator_why": "Sentence 6 explicitly states Taiwanese owner ordered two 40,000dwt vessels at Namura yard"
+  },
+  {
+   "chunk_id": "3b4fe09279b3382daa7f5d2bb1e0060f",
+   "flagged_idx": 0,
+   "doc_id": "a8f32dca3fdc7313",
+   "title": "Dorian LPG Ltd.",
+   "publisher": "Dorian LPG Ltd.",
+   "published_at": "2022-06-02",
+   "doc_type": "sec_10k",
+   "source_path": "corpus/10-companies/LPG/10-K/LPG_10-K_2022-06-02_0001596993-22-000028.md",
+   "single_reference_model": [
+    "glm-5.3"
+   ],
+   "kind": "events",
+   "type": "other",
+   "entities": [
+    "company:new:dorian_shanghai_lpg_transport_llc",
+    "vessel:imo:9702003"
+   ],
+   "evidence_quote": " We expect to pay \\$99.7 million on or about June 2, 2022 and the remaining \\$0.6 million will be deferred until certain shares of restricted stock vest.\n\n***Cougar Japanese Financing***\n\nOn May 19, 2022, we refinanced a 2015-built VLGC, the *Cougar* , pursuant to a memorandum of agreement and a bareboat charter agreement.  In connection therewith, we transferred the *Cougar* to the buyer for \\$70.0 million and, as part of the agreement, Dorian Shanghai LPG Transport LLC, our wholly-owned subsidiary, bareboat chartered the vessel back for a period of 10 years , with purchase options from the e",
+   "record_json": "{\"type\": \"other\", \"summary\": \"Dorian LPG transferred the 2015-built VLGC Cougar to the buyer for $70.0 million and bareboat chartered the vessel back via wholly-owned subsidiary Dorian Shanghai LPG Transport LLC for 10 years with purchase options from end of year 3 onwards through a mandatory buyout by 2032\", \"roles\": [{\"role\": \"entity\", \"entity\": \"vessel:imo:9702003\"}, {\"role\": \"owner\", \"entity\": \"company:new:dorian_shanghai_lpg_transport_llc\"}], \"when_printed\": \"May 19, 2022\", \"magnitude_printed\": \"$70.0 million\", \"chunk\": \"c2\", \"sids\": [2, 3], \"confidence\": 0.85}",
+   "adjudicator_decision": "drop",
+   "adjudicator_why": "Vessel IMO 9702003 not mentioned in chunk"
+  },
+  {
+   "chunk_id": "8a380d7c71c8398cc432eff21acfa7f0",
+   "flagged_idx": 0,
+   "doc_id": "c523052d01242f34",
+   "title": "International Seaways, Inc.",
+   "publisher": "International Seaways, Inc.",
+   "published_at": "2023-10-02",
+   "doc_type": "sec_8k",
+   "source_path": "corpus/10-companies/INSW/8-K/INSW_8-K_2023-10-02_0001104659-23-105914.md",
+   "single_reference_model": [
+    "glm-5.3"
+   ],
+   "kind": "state_facts",
+   "type": "SUBSIDIARY_OF",
+   "entities": [
+    "company:cik0001679049",
+    "company:new:international_seaways_operating_corporation"
+   ],
+   "evidence_quote": "\n\nOn September 27, 2023, International Seaways, Inc. (the “ ***Company*** ”), International Seaways Operating Corporation (the “ ***Borrower*** ”) and certain of their subsidiaries entered into a \\$160 million revolving credit agreement (the “ ***Revolving Credit Agreement*** ”) with Nordea Bank Abp, New York Branch (“ ***Nordea*** ”), ING Bank N.V., London Branch (“ ***ING*** ”), Crédit Agricole Corporate & Investment Bank, and DNB Markets Inc. (or their respective affiliates), as mandated lead arrangers and bookrunners; and Danish Ship Finance A/S and Skandinaviska Enskilda Banken AB (PUBL) ",
+   "record_json": "{\"type\": \"SUBSIDIARY_OF\", \"src\": \"company:new:international_seaways_operating_corporation\", \"dst\": \"company:cik0001679049\", \"attrs_printed\": [], \"valid_from_printed\": \"September 27, 2023\", \"valid_to_printed\": \"\", \"chunk\": \"c1\", \"sids\": [1], \"confidence\": 0.7}",
+   "adjudicator_decision": "drop",
+   "adjudicator_why": "No explicit subsidiary relationship stated"
+  },
+  {
+   "chunk_id": "43d54ed0a1353e1931a0b9dc0afe171d",
+   "flagged_idx": 0,
+   "doc_id": "1417cb2f50e134dc",
+   "title": "Tanker Report – Week 5 2016",
+   "publisher": "Baltic Exchange",
+   "published_at": "2016-12-30",
+   "doc_type": "broker_weekly",
+   "source_path": "data/extracted/md/baltic/tanker/2016/2016_tanker-report-week52016_tanker.md",
+   "single_reference_model": [
+    "deepseek-v4-pro"
+   ],
+   "kind": "state_facts",
+   "type": "FIXED",
+   "entities": [
+    "company:new:ara",
+    "port:new:us_gulf"
+   ],
+   "evidence_quote": " However with the onset of delays in Houston slowing the availability of potential ballasters, brokers feel the market may now have bottomed out at WS 122.5 for 55,000 tonnes from ARA back to US Gulf.\n",
+   "record_json": "{\"type\": \"FIXED\", \"src\": \"company:new:ara\", \"dst\": \"port:new:us_gulf\", \"attrs_printed\": [{\"key\": \"qty\", \"value_as_printed\": \"55,000 tonnes\"}, {\"key\": \"rate\", \"value_as_printed\": \"WS 122.5\"}], \"valid_from_printed\": \"\", \"valid_to_printed\": \"\", \"chunk\": \"c3\", \"sids\": [1], \"confidence\": 0.6}",
+   "adjudicator_decision": "drop",
+   "adjudicator_why": "ARA is a region not company"
+  }
+ ]
+}

@@ -57,7 +57,7 @@ providers:
       - id: nvidia/nemotron-3.5-super-vl-120b-a12b
         price_in: 0.0
         price_out: 0.0
-        note: fast ~0.4s first token, 1M ctx; chat_template_kwargs {"enable_thinking": false}
+        note: "fast ~0.4s first token, 1M ctx; chat_template_kwargs {\"enable_thinking\": false}"
       - id: stepfun-ai/step-5-preview
         price_in: 0.0
         price_out: 0.0

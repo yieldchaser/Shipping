@@ -39,6 +39,26 @@ NIM_BASE_URL = "https://integrate.api.nvidia.com/v1"
 # cyberouter/. Router ids have no "/" and take the cyberouter/ prefix.
 NIM_MODEL_GLOBS = ("nvidia/", "mistralai/", "stepfun-ai/", "z-ai/", "deepseek-ai/")
 
+CONFIG = Path(__file__).resolve().parent / "config.yaml"
+_PROVIDER_CACHE: dict[str, dict] | None = None
+
+
+def _provider_spec(model: str) -> dict | None:
+    """The kb/config.yaml provider block that owns `model`, if any (base_url / kind / key name)."""
+    global _PROVIDER_CACHE
+    if _PROVIDER_CACHE is None:
+        _PROVIDER_CACHE = {}
+        try:
+            if yaml is not None and CONFIG.exists():
+                cfg = yaml.safe_load(CONFIG.read_text(encoding="utf-8")) or {}
+                for prov in cfg.get("providers") or []:
+                    for spec in prov.get("models") or []:
+                        _PROVIDER_CACHE[spec["id"]] = {"id": prov.get("id"), "kind": prov.get("kind"),
+                                                       "base_url": prov.get("base_url")}
+        except Exception:
+            _PROVIDER_CACHE = {}
+    return _PROVIDER_CACHE.get(model)
+
 
 def _read_credentials() -> dict:
     """Read ~/.dsh/.credentials.yaml. Never returns a key to the caller directly;
@@ -67,8 +87,13 @@ def load_key(provider: str = "router", model: str = "") -> str:
     """Return the key for `provider` without exposing it in logs.
 
     provider 'nim' -> env NVIDIA_API_KEY, else refs.NVIDIA_API_KEY.
+    provider 'ultrafast' -> env ULTRAFAST_API_KEY, else refs.ULTRAFAST_API_KEY.
     provider 'router' -> env ROUTER_API_KEY -> refs.ENCLAVE_API_KEY -> refs.ULTRAFAST_API_KEY.
-    If provider is inferred ('auto'), a NIM model id selects the NIM key."""
+    If provider is inferred ('auto'), a NIM model id selects the NIM key and a model owned by
+    another configured provider (e.g. the free Ultrafast tier) selects that provider's key."""
+    spec = _provider_spec(model)
+    if provider == "auto" and spec:
+        provider = spec.get("id") or provider
     if provider == "nim" or (provider == "auto" and is_nim_model(model)):
         if os.environ.get("NVIDIA_API_KEY"):
             return os.environ["NVIDIA_API_KEY"]
@@ -76,6 +101,13 @@ def load_key(provider: str = "router", model: str = "") -> str:
         if k:
             return k
         raise NoKeyError("no NVIDIA key: set NVIDIA_API_KEY or refs.NVIDIA_API_KEY in ~/.dsh/.credentials.yaml")
+    if provider == "ultrafast":
+        if os.environ.get("ULTRAFAST_API_KEY"):
+            return os.environ["ULTRAFAST_API_KEY"]
+        k = _ref("ULTRAFAST_API_KEY")
+        if k:
+            return k
+        raise NoKeyError("no Ultrafast key: set ULTRAFAST_API_KEY or refs.ULTRAFAST_API_KEY")
     if os.environ.get("ROUTER_API_KEY"):
         return os.environ["ROUTER_API_KEY"]
     for name in ("ENCLAVE_API_KEY", "ULTRAFAST_API_KEY"):
@@ -88,12 +120,18 @@ def load_key(provider: str = "router", model: str = "") -> str:
 def base_url(model: str = "") -> str:
     if is_nim_model(model):
         return os.environ.get("NVIDIA_BASE_URL") or NIM_BASE_URL
+    spec = _provider_spec(model)
+    if spec and spec.get("base_url") and spec.get("id") != "enclave":
+        return spec["base_url"]
     return os.environ.get("ROUTER_BASE_URL") or DEFAULT_BASE_URL
 
 
 def _model_id(model: str) -> str:
     if is_nim_model(model):
         return model  # full org/model id, no prefix
+    spec = _provider_spec(model)
+    if spec and spec.get("id") not in (None, "enclave"):
+        return model  # provider-local id served unprefixed (e.g. Ultrafast)
     return model if model.startswith(MODEL_PREFIX) else f"{MODEL_PREFIX}{model}"
 
 

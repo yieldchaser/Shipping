@@ -13,7 +13,7 @@ Live run status. Real spend read from `http://127.0.0.1:4100/stats`.
 | P3 | done | PASS (merge audit 300 pairs, precision **0.99** ≥ 0.98, 0 conflicting IMO/CIK, 305 merges; tagger 185,454 chunks) | commit (this phase) |
 | P4a | done | PASS (**recall@20 0.900** ≥ 0.85, 180/200; fused-only pre-rerank 0.815; $0 spend) | commit (this phase) |
 | gold | done | PASS (250/250 items, all 8 strata on target, 250/250 re-verified from DB, seed 2888775339, $0) | commit (this phase) |
-| P4b | in progress | — | checkpoint C1 after |
+| P4b | done | **PASS** (120 gold chunks / 29 packed calls; chosen `deepseek-v4.1-flash-1017-ultrafast` P 0.922 R 0.536 F1 0.678; 5/5 `gates.yaml` rows pass; $4.75 total) | checkpoint C1 now |
 | P4c | not started | — | |
 | P5 | not started | — | |
 | P6 | not started | — | |
@@ -22,19 +22,44 @@ Live run status. Real spend read from `http://127.0.0.1:4100/stats`.
 
 ## Spend
 
-Real gateway numbers, `GET http://127.0.0.1:4100/stats` at end of P4a (2026-11-12):
+Real gateway numbers, `GET http://127.0.0.1:4100/stats` at end of P4b (2026-11-12):
 
 | Metric | Value | Cap |
 |---|---|---|
 | Enclave (agent, paid V4 Pro) | $66.04 (**over cap by $0.04**, unchanged since P2) | $66.00 |
 | Ultrafast (free flash) | 611,858 output tok today (free) | 4,800,000/day |
 | NVIDIA NIM (free third provider) | $0.00 — all P4a embedding calls | free (~40 req/min) |
-| Pipeline (P4a stage LLM spend) | $0.00 — 2,302 NIM embedding requests, $0 | $82 |
+| Pipeline (cumulative stage LLM spend) | **$4.75** (P4b: refs $3.11, candidates $0.61, hole-fill $0.12, adjudication $0.05) | $82 |
 
 P4a spent **$0**: chunking/indexing/retrieval/eval are deterministic Python + DuckDB + numpy; the
 only model use is the free NIM embedding endpoint (220,150 vectors, 99,069,064 tokens, 2,302
 requests, 4,720.6 s). The enclave number above is cumulative agent (spine) spend, not pipeline
 spend — no new paid calls were made in P4a.
+
+P4b spent **$4.75** of the $82 pipeline cap (ledger `kb/state/ledger.sqlite`,
+measured `usage.cost`): references $3.114 (glm-5.3 $2.361 + deepseek-v4-pro $0.753), superseded
+reference supplement $0.861, candidate bake-off $0.608, candidate hole-fill $0.119, third-family
+adjudication $0.053. Free tiers (Ultrafast, NIM) carried 1,464 of the 2,240 calls at $0.
+Gateway `/stats` after P4b: enclave (agent spine) $66.04/66.00 unchanged -- no paid agent calls;
+Ultrafast output today 1,268,319/4,800,000 tokens.
+
+## P4b numbers (extraction bake-off, plan §10.2)
+
+| metric | value |
+|---|---|
+| gold set | 120 chunks in 29 packed calls, 9 doc types, 12 years, 19 publishers, mean pack depth 4.14 (seed 2432301201) |
+| references (2 families) | `deepseek-v4-pro` (DeepSeek) 176 records / `glm-5.3` (Zhipu) 381; 38 pairs agreed outright, 304 disagreements adjudicated |
+| adjudicator (3rd family) | `nvidia/nemotron-3-ultra-550b-a55b` (NVIDIA, free NIM), fallback `gpt-oss-120b`; 1,150 calls, keep 273 / drop 31 (89.8% lenient) |
+| candidates scored | 6 (deepseek-v4-flash, deepseek-v4.1-flash, glm-5.3-flash, gpt-oss-120b, nemotron-ultra, ultrafast) |
+| **selected extractor** | **`deepseek-v4.1-flash-1017-ultrafast`** (free Ultrafast tier, `tools` transport) -- precision 0.922 (95% CI 0.883-0.949, n=257 judged), recall 0.536, F1 **0.678** (best candidate; next best glm-5.3-flash 0.585) |
+| gate rows | `extraction_gold_chunks` 120/120, `reference_models_distinct_families` 2/2, `chosen_bulk_gate_pass_rate` 1.00 >= 0.95, `chosen_bulk_precision` 0.9222 >= 0.92, `chosen_bulk_f1_within_best` gap 0.000 <= 0.03 -> **all_pass true** |
+| record drop rate (plan §7.4) | 0.092 <= 0.30; clean-call 0.385 and chunk gate 0.849 reported audit-only (D10) |
+| measured cost | $0.000000/chunk (free tier), mean latency 3,051 ms, p95 3,947 ms |
+| P4c feasibility | 20,920 packed calls / 26,961,696 output tokens at gold pack depth; free tier 4.8 M out-tok/day => **5.62 days wall alone**; mixed pool (free primary + `deepseek-v4-flash` overflow, 82.2% of corpus) $55.29 => $60.04 cumulative, inside the $82 cap |
+| wall time | references 28.6 s, candidate bake-off 568.1 s; hole-fill and adjudication ran as separate resumable steps and are not separately instrumented in the report |
+| tests | 82 passed (`kb/tests/test_p4b.py`) |
+
+Caveats declared in `kb/reports/p4b.md`: reference set is glm-shaped (381 vs 176 records) so absolute F1 is not truth, only the relative ranking is used; per-model coverage 109-120/120 with hole-fill call for the missing packs; precision gate point estimate sits inside its own 95% sampling interval; 12 of 24 corpus years represented in the gold draw.
 
 P3 spent **$0**: seed/resolve/tag are deterministic Python + DuckDB; the only model use is the
 resolution judge and the merge auditor, both on free NVIDIA NIM
@@ -116,5 +141,15 @@ calls, so this is spine spend accumulated across P0→P1. Flagged, not silently 
 - Upstream defects (logged, not patched): see `kb/reports/upstream_defects.md` — SEC XBRL skipped (no
   `SEC_USER_AGENT`), `seabrokers_fleet_moves_series` has no numeric column, no sidecar `fixtures` block,
   some sidecar `source_file` unresolved to a `document`, name-heavy vessel identity material (P3).
-- Branch `kb-build`. Next: P4b (graph layer from `kb/reports/graph_layer.json`), checkpoint C1 after
-  (C1 packet = `kb/reports/gold_set.md` §"C1 sample packet" + P3 owner sample).
+- Branch `kb-build`. Next: **checkpoint C1** (hard stop, no user question yet).
+- C1 review packet: (1) `kb/reports/p4b_flagged.md` -- 30 flagged reference records, seed 15063620,
+  pool 304 (keep 273 / drop 31), half adjudicator-drops; (2) `kb/reports/p3_owner_sample.json` -- P3
+  owner merge sample; (3) `kb/reports/gold_set.md` §"C1 sample packet" -- 25 gold questions;
+  (4) `kb/reports/p4b.md` -- bake-off table, selected model, P4c feasibility and the open budget /
+  wall-time / mixed-pool decision (options a/b/c in `## Selected model`, not self-approved).
+- Also note: `kb/config.yaml` line 60 was invalid YAML at `origin/main` (unquoted `note:` containing
+  `chat_template_kwargs {"enable_thinking": false}`), which broke every `yaml.safe_load` path; fixed by
+  quoting the note (only change in that file).
+- `origin/main` advanced while P4b ran (daily data commits); merged `origin/main` into `kb-build`
+  (`581b92fe7a`) before the gate so tripwire compares clean again. The 3 dirty `data/ffa_live/*`
+  refresh artifacts were restored to HEAD before the merge (regenerated upstream, not agent edits).
