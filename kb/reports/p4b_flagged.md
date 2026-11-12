@@ -2,7 +2,7 @@
 
 Seed 15063620 (`seed_for("P4B_FLAGGED")`), 30 of 304 flagged reference records ({'keep': 273, 'drop': 31, 'unadjudicated': 0}). Flagged = exactly one reference model extracted it; the third-family adjudicator (nvidia/nemotron-3-ultra-550b-a55b) decided keep/drop.
 
-Review question per item: does the quote support the record as written? Mark `ok / over-claim / wrong entity / wrong number / missing (should have been extraced)`.
+Review question per item: does the quote support the record as written? Mark `ok / over-claim / wrong entity / wrong number / missing (should have been extracted)`.
 
 ### 1. KEEP -> Intermodal Shipbrokers 2021-09-21 (broker_weekly)
 

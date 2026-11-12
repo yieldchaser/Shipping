@@ -14,11 +14,11 @@ Live run status. Real spend read from `http://127.0.0.1:4100/stats`.
 | P4a | done | PASS (**recall@20 0.900** ≥ 0.85, 180/200; fused-only pre-rerank 0.815; $0 spend) | commit (this phase) |
 | gold | done | PASS (250/250 items, all 8 strata on target, 250/250 re-verified from DB, seed 2888775339, $0) | commit (this phase) |
 | P4b | done | **PASS** (120 gold chunks / 29 packed calls; chosen `deepseek-v4.1-flash-1017-ultrafast` P 0.922 R 0.536 F1 0.678; 5/5 `gates.yaml` rows pass; $4.75 total) | checkpoint C1 now |
-| P4c | scaffolded, $0 spent | — | awaiting C1 owner reply |
-| P5 | not started | — | |
-| P6 | not started | — | |
-| P7 | not started | — | checkpoint C2 after |
-| P8 | not started | — | |
+| P4c | **running** (free bulk pass, resumable daemon) | — | bulk 382/24,978 packs done; then glean → union → precision gate → escalation ladder ($17) → glm-5.3 second extractor ($25.25) → audit/recall/report |
+| P5 | scaffolded (code + 20 tests, `5e720111cb` chain) | — | gated on P4c PASS; tables `edge`/`event`/`record_txn` still empty |
+| P6 | scaffolded (code + 28 tests) | — | gated on P5 |
+| P7 | scaffolded (tools/ask/eval/analyst/discovery/rubric/report, 98 tests, `edc962ad70`) | — | gated on P5+P6; checkpoint C2 after |
+| P8 | not started | — | `kb/update.py` + `kb_*.yml` CI + snapshot publish, after C2 approval |
 
 ## Spend
 
@@ -43,6 +43,13 @@ adjudication $0.053. Free tiers (Ultrafast, NIM) carried 1,464 of the 2,240 call
 Gateway `/stats` after P4b: enclave (agent spine) $66.04/66.00 unchanged -- no paid agent calls;
 Ultrafast output today 1,268,319/4,800,000 tokens.
 
+Live pipeline spend 2026-11-12T22:55Z: **$4.7543** of $82 (`kb/state/ledger.sqlite`, all passes).
+Read the counter correctly: `http://127.0.0.1:4100/stats` counts **agent-spine** calls only
+(`agent_gateway_usage.jsonl`, prompt >12k tokens/call); extraction calls go straight to
+`ultrafast.trytokenfactory.dev`, so the gateway's `ultrafast_output_today` (3.03M/4.8M) is the
+agent's own free-tier budget, not the pipeline's. Enclave cap still exhausted at $66.0408/66.00, so
+the agent spine itself runs on the same free tier -- keep agent turns lean while the bulk pass runs.
+
 ## P4b numbers (extraction bake-off, plan §10.2)
 
 | metric | value |
@@ -66,7 +73,37 @@ resolution judge and the merge auditor, both on free NVIDIA NIM
 (`nvidia/nemotron-3-ultra-550b-a55b`, thinking disabled). The enclave number above is cumulative
 agent (spine) spend, not pipeline spend — no new paid calls were made in P3.
 
-## P4c scaffold (local, uncommitted, $0 spent)
+## C1 owner decisions (2026-11-12, `kb/reports/C1_APPROVED.md`)
+
+1. Bulk extraction on the free Ultrafast tier, shape (a), wall time acceptable.
+2. Recall gap vs the glm reference (0.536 vs 0.909) closed by a **free gleaning pass** over every
+   chunk after bulk, merged + deduped, same precision gate (plan §7.6 blanket-gleaning override).
+3. Escalation model = `glm-5.3` (not nemotron), inside $17, gate-failing chunks only, one free retry
+   first, prioritised by document value; cap-prioritised partial coverage accepted (D12).
+4. Leftover budget (~$40 of the $82) = `glm-5.3` second extractor on the highest-value chunks
+   (SEC MD&A/fleet, broker forecasts, fixtures, S&P), union with Ultrafast output, recall gain
+   reported on the gold set.
+5. Judge/auditor = `glm-5.3` (different family from the extractor).
+6. All 304 adjudicated flags accepted as labelled (keep 273 / drop 31).
+
+## P4c run status (live)
+
+Bulk pass over the frozen 86,607-chunk / 24,978-pack scope, free tier, resumable daemon
+`kb/p4c_daemon.py --pass p4c_bulk` (log `kb/logs/p4c_bulk.log`, state
+`kb/state/p4c/run_p4c_bulk.json`). No paid calls: ledger pipeline spend still **$4.7543**.
+
+- Raws stored: 382/24,978 packs (1.5%), 1,415 chunks. Free-tier rate is the binding constraint
+  (6 calls/min + HTTP 429 storms, 20-min back-off shards), not money.
+- Real-data rehearsal of the post-processing path (partial raws, no spend): `p4c_union.build` ->
+  2,555 records / 376 ok calls / 500 gate drops / 121 dedupes; `p4c_gate.gate_run` -> 86,607 chunk
+  rows; `p4c_ladder.build_queue` -> 140 trigger chunks (131 `fail_pct`, 12 `low_confidence`),
+  `plan_retry` 140 singles, `rank_escalation` priced all 140 at $3.13 -> extrapolated trigger rate
+  (~0.37/pack, ~9.1k chunks, ~$204) confirms the $17 cap covers only a prioritised slice (D12).
+- Remaining ladder: `--glean` daemon pass -> `p4c_union` -> precision gate -> `p4c_bulk_retry` ->
+  `p4c_esc` ($17) -> `p4c_glm2` ($25.25) -> union -> `p4c_audit` -> `p4c_recall` ->
+  `p4c_report.py --write` -> tripwire -> commit+push.
+
+## P4c scaffold (code, committed)
 
 While waiting at C1: `kb/p4c_pack.py` (packing, dry run 1,149 packs / 4,000 chunks / 794 docs, mean
 depth 3.48, mean 1,081 tokens), `kb/p4c_gate.py` (plan §7.4 gates 1-7 on stored raws, prompt-cid ->
