@@ -12,8 +12,8 @@ Live run status. Real spend read from `http://127.0.0.1:4100/stats`.
 | P2 | done | PASS (all 7 gates: raw_cell 2000/2000 verbatim, known values 40/40 across 9 publishers, txn precision 50/50, SEC XBRL skipped — no `SEC_USER_AGENT`) | commit `1e726a6661` |
 | P3 | done | PASS (merge audit 300 pairs, precision **0.99** ≥ 0.98, 0 conflicting IMO/CIK, 305 merges; tagger 185,454 chunks) | commit (this phase) |
 | P4a | done | PASS (**recall@20 0.900** ≥ 0.85, 180/200; fused-only pre-rerank 0.815; $0 spend) | commit (this phase) |
-| gold | not started | — | 250-question Q&A set |
-| P4b | not started | — | checkpoint C1 after |
+| gold | done | PASS (250/250 items, all 8 strata on target, 250/250 re-verified from DB, seed 2888775339, $0) | commit (this phase) |
+| P4b | in progress | — | checkpoint C1 after |
 | P4c | not started | — | |
 | P5 | not started | — | |
 | P6 | not started | — | |
@@ -60,6 +60,22 @@ text repaired, gold still capped at 20) → 0.815 (cap removed) → **0.900** (+
 
 Smoke-test usage: prompt_tokens 13, completion_tokens 5, model `cyberouter/deepseek-v4-flash`, cost $0.000003.
 
+## Gold Q&A set numbers (250 questions, plan §12.1)
+
+| metric | value |
+|---|---|
+| items / strata | 250 / 8, every stratum on target (a 50, b 25, c 35, d 25, e 35, f 25, g 15, h 40) |
+| re-verified from DB | 250/250 (`verification.passed`), 0 failures |
+| sample_seed | 2888775339 (`seed_for("GOLD_SET")`) |
+| judge-graded strata | 50 (d 25 + f 25, `judge_only: true`) |
+| build wall time | 30.6 s, $0 (DB reads only, no LLM) |
+| question text | deterministic templates over DB locks; no LLM fact creation |
+| SEC stratum | prose/section lookup, not XBRL (deviation D6 — no `SEC_USER_AGENT`) |
+| occurrences | 2 repair rounds: `build_e` term-uniqueness (pool terms were never unique in-doc) → body-derived rare terms unique to one section; h pools 27→40 candidates via invented tokens checked on a single distinctive word; flat `f` windows rejected (`first != last`); junk-glyph SEC headings rejected; h family caps made target-proportional so `--max-per-type` slices stay balanced |
+
+Files: `kb/state/gold/gold_set.json` (source of truth for P7), `kb/reports/gold_set.{json,md}`
+(report with 10 sampled records + 25-question C1 packet).
+
 ## NIM (cross-family judge / bake-off / overflow)
 
 Free third provider (`https://integrate.api.nvidia.com/v1`, key `refs.NVIDIA_API_KEY`), added owner commit
@@ -100,5 +116,5 @@ calls, so this is spine spend accumulated across P0→P1. Flagged, not silently 
 - Upstream defects (logged, not patched): see `kb/reports/upstream_defects.md` — SEC XBRL skipped (no
   `SEC_USER_AGENT`), `seabrokers_fleet_moves_series` has no numeric column, no sidecar `fixtures` block,
   some sidecar `source_file` unresolved to a `document`, name-heavy vessel identity material (P3).
-- Branch `kb-build`. Next: gold Q&A set (`kb/gold_set.py` → `kb/gold_report.py`), then P4b (graph
-  layer), checkpoint C1 after.
+- Branch `kb-build`. Next: P4b (graph layer from `kb/reports/graph_layer.json`), checkpoint C1 after
+  (C1 packet = `kb/reports/gold_set.md` §"C1 sample packet" + P3 owner sample).

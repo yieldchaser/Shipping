@@ -1,0 +1,1534 @@
+{
+ "phase": "GOLD",
+ "sample_seed": 2888775339,
+ "built_at": "2026-11-12T18:05:48",
+ "wall_seconds": 30.6,
+ "money_spent_usd": 0.0,
+ "method": "code-generated from kb/state/kb.duckdb rows; every answer re-read from the DB; question text from deterministic templates (no LLM fact creation). Judge model used only at P7 scoring time.",
+ "targets": {
+  "a_single_number": 50,
+  "b_window_aggregate": 25,
+  "c_multihop_entity": 35,
+  "d_event_market": 25,
+  "e_sec_section": 35,
+  "f_summary_trend": 25,
+  "g_as_known_on_date": 15,
+  "h_unanswerable": 40
+ },
+ "counts": {
+  "a_single_number": 50,
+  "b_window_aggregate": 25,
+  "c_multihop_entity": 35,
+  "d_event_market": 25,
+  "e_sec_section": 35,
+  "f_summary_trend": 25,
+  "g_as_known_on_date": 15,
+  "h_unanswerable": 40
+ },
+ "total": 250,
+ "short": {},
+ "verified_total": 250,
+ "verification_failures": [],
+ "manifest": [
+  {
+   "id": "G-001",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "12.30 %"
+  },
+  {
+   "id": "G-002",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "35 $/t"
+  },
+  {
+   "id": "G-003",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "45,890 USD/day"
+  },
+  {
+   "id": "G-004",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "30.50 $/t"
+  },
+  {
+   "id": "G-005",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "0 %"
+  },
+  {
+   "id": "G-006",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "30 USDm"
+  },
+  {
+   "id": "G-007",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "0.18 days"
+  },
+  {
+   "id": "G-008",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "14 $/t"
+  },
+  {
+   "id": "G-009",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "19 $/t"
+  },
+  {
+   "id": "G-010",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "2.75 mdwt"
+  },
+  {
+   "id": "G-011",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "40.50 $/t"
+  },
+  {
+   "id": "G-012",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "10.56 Knots"
+  },
+  {
+   "id": "G-013",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "0.77 mdwt"
+  },
+  {
+   "id": "G-014",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "41.50 $/t"
+  },
+  {
+   "id": "G-015",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "1.51 mdwt"
+  },
+  {
+   "id": "G-016",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "22 $/t"
+  },
+  {
+   "id": "G-017",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "21 $/t"
+  },
+  {
+   "id": "G-018",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "0 %"
+  },
+  {
+   "id": "G-019",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "29.10 USDm"
+  },
+  {
+   "id": "G-020",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "19 $/t"
+  },
+  {
+   "id": "G-021",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "-0.20 %"
+  },
+  {
+   "id": "G-022",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "25 $/t"
+  },
+  {
+   "id": "G-023",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "710.30 $/t"
+  },
+  {
+   "id": "G-024",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "91.10 $/t"
+  },
+  {
+   "id": "G-025",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "4,675.20 $/day"
+  },
+  {
+   "id": "G-026",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "0.50 %"
+  },
+  {
+   "id": "G-027",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "27 $/t"
+  },
+  {
+   "id": "G-028",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "3,485 GBP/day"
+  },
+  {
+   "id": "G-029",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "1,242 $/day"
+  },
+  {
+   "id": "G-030",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "46.40 $/t"
+  },
+  {
+   "id": "G-031",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "0.50 %"
+  },
+  {
+   "id": "G-032",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "0.65 mdwt"
+  },
+  {
+   "id": "G-033",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "-34.20 %"
+  },
+  {
+   "id": "G-034",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "28 $/t"
+  },
+  {
+   "id": "G-035",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "48 $/t"
+  },
+  {
+   "id": "G-036",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "9.25 knots"
+  },
+  {
+   "id": "G-037",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "0 %"
+  },
+  {
+   "id": "G-038",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "79 USDm"
+  },
+  {
+   "id": "G-039",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "16.54 mdwt"
+  },
+  {
+   "id": "G-040",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "19,627 GBP/day"
+  },
+  {
+   "id": "G-041",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "0.31 mdwt"
+  },
+  {
+   "id": "G-042",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "510 USDm"
+  },
+  {
+   "id": "G-043",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "-1 %"
+  },
+  {
+   "id": "G-044",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "-1.63 %"
+  },
+  {
+   "id": "G-045",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "7,589 GBP/day"
+  },
+  {
+   "id": "G-046",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "11.10 %"
+  },
+  {
+   "id": "G-047",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "22.50 $/t"
+  },
+  {
+   "id": "G-048",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "4.70 %"
+  },
+  {
+   "id": "G-049",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "49.67 %"
+  },
+  {
+   "id": "G-050",
+   "type": "a_single_number",
+   "judge_only": false,
+   "answer_text": "120 USDm"
+  },
+  {
+   "id": "G-051",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "53.50 $/t"
+  },
+  {
+   "id": "G-052",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "35.05 $/t"
+  },
+  {
+   "id": "G-053",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "266.12 $/t"
+  },
+  {
+   "id": "G-054",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "30.45 $/t"
+  },
+  {
+   "id": "G-055",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "248 USDm"
+  },
+  {
+   "id": "G-056",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "0 %"
+  },
+  {
+   "id": "G-057",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "0 %"
+  },
+  {
+   "id": "G-058",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "0.10 %"
+  },
+  {
+   "id": "G-059",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "9.43 mdwt"
+  },
+  {
+   "id": "G-060",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "5,280 GBP/day"
+  },
+  {
+   "id": "G-061",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "3,784.53 $/day"
+  },
+  {
+   "id": "G-062",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "23.50 $/t"
+  },
+  {
+   "id": "G-063",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "0.64 days"
+  },
+  {
+   "id": "G-064",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "3.79 mdwt"
+  },
+  {
+   "id": "G-065",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "-0.30 %"
+  },
+  {
+   "id": "G-066",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "47.02 $/t"
+  },
+  {
+   "id": "G-067",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "290 USDm"
+  },
+  {
+   "id": "G-068",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "-1.20 %"
+  },
+  {
+   "id": "G-069",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "6,684 GBP/day"
+  },
+  {
+   "id": "G-070",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "12.14 mdwt"
+  },
+  {
+   "id": "G-071",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "17.27 $/t"
+  },
+  {
+   "id": "G-072",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "0.73 %"
+  },
+  {
+   "id": "G-073",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "30.98 $/t"
+  },
+  {
+   "id": "G-074",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "43.19 %"
+  },
+  {
+   "id": "G-075",
+   "type": "b_window_aggregate",
+   "judge_only": false,
+   "answer_text": "16,774 USD/day"
+  },
+  {
+   "id": "G-076",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "95.07 -> 91.33 index (-3.93%)"
+  },
+  {
+   "id": "G-077",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "0.26 -> 0.31 days (+17.62%)"
+  },
+  {
+   "id": "G-078",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "1.06 -> 1.07 mdwt (+1.13%)"
+  },
+  {
+   "id": "G-079",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "2.08 -> 1.29 mdwt (-37.77%)"
+  },
+  {
+   "id": "G-080",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "51.91 -> 48.54 % (-6.49%)"
+  },
+  {
+   "id": "G-081",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "9,085 -> 9,021 USD/day (-0.70%)"
+  },
+  {
+   "id": "G-082",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "23.60 -> 29.20 $/t (+23.73%)"
+  },
+  {
+   "id": "G-083",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "14 -> 11.80 $/t (-15.71%)"
+  },
+  {
+   "id": "G-084",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "22.72 -> 23.07 mdwt (+1.53%)"
+  },
+  {
+   "id": "G-085",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "267.20 -> 250.50 $/t (-6.25%)"
+  },
+  {
+   "id": "G-086",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "92.17 -> 90.18 % (-2.16%)"
+  },
+  {
+   "id": "G-087",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "13 -> 19 $/t (+46.15%)"
+  },
+  {
+   "id": "G-088",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "-2.60 -> -2.30 % (+11.54%)"
+  },
+  {
+   "id": "G-089",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "0.70 -> 0.66 % (-5.71%)"
+  },
+  {
+   "id": "G-090",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "20.60 -> 45.60 $/t (+121.36%)"
+  },
+  {
+   "id": "G-091",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "9,963 -> 12,379 USD/day (+24.25%)"
+  },
+  {
+   "id": "G-092",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "25.50 -> 28 $/t (+9.80%)"
+  },
+  {
+   "id": "G-093",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "-642 -> -16,435 USD/day (-2459.97%)"
+  },
+  {
+   "id": "G-094",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "22,687 -> 262,312 USD/day (+1056.22%)"
+  },
+  {
+   "id": "G-095",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "64.10 -> 43.10 $/t (-32.76%)"
+  },
+  {
+   "id": "G-096",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "61.90 -> 37.40 $/t (-39.58%)"
+  },
+  {
+   "id": "G-097",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "2.05 -> 0 % (-100.00%)"
+  },
+  {
+   "id": "G-098",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "-3.10 -> 11.40 % (+467.74%)"
+  },
+  {
+   "id": "G-099",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "31 -> 59 $/t (+90.32%)"
+  },
+  {
+   "id": "G-100",
+   "type": "f_summary_trend",
+   "judge_only": true,
+   "answer_text": "35,880 -> 28,077 USD/day (-21.75%)"
+  },
+  {
+   "id": "G-101",
+   "type": "g_as_known_on_date",
+   "judge_only": false,
+   "answer_text": "28 EUR/t (period ending 2022-06-13)"
+  },
+  {
+   "id": "G-102",
+   "type": "g_as_known_on_date",
+   "judge_only": false,
+   "answer_text": "0.30 % (period ending 2026-09-30)"
+  },
+  {
+   "id": "G-103",
+   "type": "g_as_known_on_date",
+   "judge_only": false,
+   "answer_text": "0 % (period ending 2021-10-15)"
+  },
+  {
+   "id": "G-104",
+   "type": "g_as_known_on_date",
+   "judge_only": false,
+   "answer_text": "10.70 $/t (period ending 2023-03-27)"
+  },
+  {
+   "id": "G-105",
+   "type": "g_as_known_on_date",
+   "judge_only": false,
+   "answer_text": "0 % (period ending 2022-03-22)"
+  },
+  {
+   "id": "G-106",
+   "type": "g_as_known_on_date",
+   "judge_only": false,
+   "answer_text": "510 USDm (period ending 2023-11-18)"
+  },
+  {
+   "id": "G-107",
+   "type": "g_as_known_on_date",
+   "judge_only": false,
+   "answer_text": "5.51 mdwt (period ending 2023-12-31)"
+  },
+  {
+   "id": "G-108",
+   "type": "g_as_known_on_date",
+   "judge_only": false,
+   "answer_text": "6,701 GBP/day (period ending 2022-11-01)"
+  },
+  {
+   "id": "G-109",
+   "type": "g_as_known_on_date",
+   "judge_only": false,
+   "answer_text": "31.50 $/t (period ending 2023-04-10)"
+  },
+  {
+   "id": "G-110",
+   "type": "g_as_known_on_date",
+   "judge_only": false,
+   "answer_text": "1,786.10 $/day (period ending 2026-08-24)"
+  },
+  {
+   "id": "G-111",
+   "type": "g_as_known_on_date",
+   "judge_only": false,
+   "answer_text": "41 $/t (period ending 2024-04-01)"
+  },
+  {
+   "id": "G-112",
+   "type": "g_as_known_on_date",
+   "judge_only": false,
+   "answer_text": "18 $/t (period ending 2024-09-02)"
+  },
+  {
+   "id": "G-113",
+   "type": "g_as_known_on_date",
+   "judge_only": false,
+   "answer_text": "9,774.20 $/day (period ending 2022-11-07)"
+  },
+  {
+   "id": "G-114",
+   "type": "g_as_known_on_date",
+   "judge_only": false,
+   "answer_text": "3.02 % (period ending 2022-04-28)"
+  },
+  {
+   "id": "G-115",
+   "type": "g_as_known_on_date",
+   "judge_only": false,
+   "answer_text": "27.50 $/t (period ending 2024-06-24)"
+  },
+  {
+   "id": "G-116",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "ROSCO POPLAR: 17.60 usd_m on 2024-08-26; publishers Banchero Costa across 2 documents"
+  },
+  {
+   "id": "G-117",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Western Fedora: 14 usd_m on 2025-02-24; publishers Seasure Shipbroking (Blue Report, valuations by VesselsValue) across 2 documents"
+  },
+  {
+   "id": "G-118",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Miao Xiang: 16 usd_m on 2025-12-15; publishers Seasure Shipbroking (Blue Report, valuations by VesselsValue) across 2 documents"
+  },
+  {
+   "id": "G-119",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "SK Stellar: 469 usd_per_ldt on 2024-11-18; publishers Xclusiv Shipbrokers Inc. across 2 documents"
+  },
+  {
+   "id": "G-120",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Titanas: 14 usd_m on 2026-03-07; publishers Seasure Shipbroking (Blue Report, valuations by VesselsValue) across 2 documents"
+  },
+  {
+   "id": "G-121",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Atlantic Express: 10,250 usd_per_day on 2022-11-14; publishers Banchero Costa across 2 documents"
+  },
+  {
+   "id": "G-122",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "AS Alva: 22.30 usd_m on 2026-06-12; publishers Star Asia Shipbroking across 2 documents"
+  },
+  {
+   "id": "G-123",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "YM WARRANTY / YM WELLBEING / YM WELLSPRING: 306 usd_m on 2023-08-19; publishers Star Asia Shipbroking across 2 documents"
+  },
+  {
+   "id": "G-124",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Cmb Permeke: 34 usd_m on 2024-11-16; publishers Star Asia Shipbroking across 2 documents"
+  },
+  {
+   "id": "G-125",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Wu Zhou 6: 18.50 usd_m on 2024-08-26; publishers Banchero Costa across 2 documents"
+  },
+  {
+   "id": "G-126",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Nord Nanami: 13.50 usd_m on 2025-02-17; publishers Seasure Shipbroking (Blue Report, valuations by VesselsValue) across 2 documents"
+  },
+  {
+   "id": "G-127",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Heung-A Tokyo: 581 usd_per_ldt on 2024-05-14; publishers Intermodal Shipbrokers across 2 documents"
+  },
+  {
+   "id": "G-128",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "MEDKON QUO: 16,000 usd_per_day on 2025-07-28; publishers Banchero Costa across 2 documents"
+  },
+  {
+   "id": "G-129",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Ying Hao 03: 17.20 usd_m on 2024-05-27; publishers Banchero Costa across 2 documents"
+  },
+  {
+   "id": "G-130",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Nordic Malmoe: 16.70 usd_m on 2021-10-29; publishers Banchero Costa across 2 documents"
+  },
+  {
+   "id": "G-131",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Osaka: 60 usd_m on 2022-09-18; publishers Star Asia Shipbroking across 2 documents"
+  },
+  {
+   "id": "G-132",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Tomini Nobility: 30 usd_m on 2024-09-30; publishers Seasure Shipbroking (Blue Report, valuations by VesselsValue) across 2 documents"
+  },
+  {
+   "id": "G-133",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "SK Splendor: 469 usd_per_ldt on 2024-11-18; publishers Xclusiv Shipbrokers Inc. across 2 documents"
+  },
+  {
+   "id": "G-134",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Joy: 31 usd_m on 2026-05-19; publishers Intermodal Shipbrokers across 2 documents"
+  },
+  {
+   "id": "G-135",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Seacon 9: 14.70 usd_m on 2024-08-26; publishers Banchero Costa across 2 documents"
+  },
+  {
+   "id": "G-136",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Warnow Whale: 13 usd_m on 2025-11-07; publishers Star Asia Shipbroking across 2 documents"
+  },
+  {
+   "id": "G-137",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "YK Sovereign: 620 usd_per_ldt on 2024-05-14; publishers Intermodal Shipbrokers across 2 documents"
+  },
+  {
+   "id": "G-138",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "SDTR Dora: 24.65 usd_m on 2025-06-09; publishers Seasure Shipbroking (Blue Report, valuations by VesselsValue) across 2 documents"
+  },
+  {
+   "id": "G-139",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Green Egersund: 440 usd_per_ldt on 2025-07-19; publishers Best Oasis Limited across 2 documents"
+  },
+  {
+   "id": "G-140",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Atlantik Miracle: 7 usd_m on 2022-09-02; publishers Banchero Costa across 2 documents"
+  },
+  {
+   "id": "G-141",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Sky Pride: 8.50 usd_m on 2023-02-14; publishers VesselsValue (via Hellenic Shipping News) across 2 documents"
+  },
+  {
+   "id": "G-142",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Monemvasia: 17,300 usd_per_day on 2022-11-14; publishers Banchero Costa across 2 documents"
+  },
+  {
+   "id": "G-143",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Interlink Affinity: 25 usd_m on 2022-01-28; publishers Clarksons Hellas across 2 documents"
+  },
+  {
+   "id": "G-144",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Federal Iris: 30 usd_m on 2023-05-23; publishers VesselsValue (via Hellenic Shipping News) across 2 documents"
+  },
+  {
+   "id": "G-145",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Pan Energen: 16.40 usd_m on 2024-11-11; publishers Banchero Costa across 2 documents"
+  },
+  {
+   "id": "G-146",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Crude Centurion: 33.25 usd_m on 2024-12-23; publishers Xclusiv Shipbrokers Inc. across 2 documents"
+  },
+  {
+   "id": "G-147",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Hamburg Trader: 12,000 usd_per_day on 2023-10-02; publishers Banchero Costa across 2 documents"
+  },
+  {
+   "id": "G-148",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "RTM Cartier: 90 usd_m on 2026-04-21; publishers Intermodal Shipbrokers across 2 documents"
+  },
+  {
+   "id": "G-149",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "DK 03: 388 usd_per_ldt on 2025-07-05; publishers Star Asia Shipbroking across 2 documents"
+  },
+  {
+   "id": "G-150",
+   "type": "c_multihop_entity",
+   "judge_only": false,
+   "answer_text": "Lady Cedros: 467 usd_per_ldt on 2024-12-06; publishers Advanced Shipping & Trading across 2 documents"
+  },
+  {
+   "id": "G-151",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: 13.30 -> 6.90 % (-48.12%)"
+  },
+  {
+   "id": "G-152",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: 1 -> 14.90 % (+1390.00%)"
+  },
+  {
+   "id": "G-153",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: -8.20 -> 4.70 % (+157.32%)"
+  },
+  {
+   "id": "G-154",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: -3 -> -1.50 % (+50.00%)"
+  },
+  {
+   "id": "G-155",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: 3.30 -> -5.70 % (-272.73%)"
+  },
+  {
+   "id": "G-156",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: 3.70 -> -0.90 % (-124.32%)"
+  },
+  {
+   "id": "G-157",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: 10.20 -> -9.90 % (-197.06%)"
+  },
+  {
+   "id": "G-158",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: -11.30 -> 0 % (+100.00%)"
+  },
+  {
+   "id": "G-159",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: 15.80 -> 10.10 % (-36.08%)"
+  },
+  {
+   "id": "G-160",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: 3.70 -> -0.90 % (-124.32%)"
+  },
+  {
+   "id": "G-161",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: -0.90 -> -8.50 % (-844.44%)"
+  },
+  {
+   "id": "G-162",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: -3 -> -1.50 % (+50.00%)"
+  },
+  {
+   "id": "G-163",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: -1.50 -> 1.80 % (+220.00%)"
+  },
+  {
+   "id": "G-164",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: 4.60 -> -0.60 % (-113.04%)"
+  },
+  {
+   "id": "G-165",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: 4.80 -> -1.60 % (-133.33%)"
+  },
+  {
+   "id": "G-166",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: -4.60 -> 1.80 % (+139.13%)"
+  },
+  {
+   "id": "G-167",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: 4.90 -> -0.70 % (-114.29%)"
+  },
+  {
+   "id": "G-168",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: 10.20 -> -9.90 % (-197.06%)"
+  },
+  {
+   "id": "G-169",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: 0.10 -> -7.90 % (-8000.00%)"
+  },
+  {
+   "id": "G-170",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: 2.50 -> -0.10 % (-104.00%)"
+  },
+  {
+   "id": "G-171",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: 3.20 -> 7.80 % (+143.75%)"
+  },
+  {
+   "id": "G-172",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: 3.70 -> -0.90 % (-124.32%)"
+  },
+  {
+   "id": "G-173",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "2023 year for Coaster / Steel billets, 5-6,000t, Novorossiysk - Diliskelesi (2000c/2000x), $/t: 19 -> 19 $/t (+0.00%)"
+  },
+  {
+   "id": "G-174",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: -5 -> 0.40 % (+108.00%)"
+  },
+  {
+   "id": "G-175",
+   "type": "d_event_market",
+   "judge_only": true,
+   "answer_text": "Change pct for TSAKOS ENERGY NAVIGATION / NYSE / USD: -1.50 -> -2.50 % (-66.67%)"
+  },
+  {
+   "id": "G-176",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'The Offer and Listing'"
+  },
+  {
+   "id": "G-177",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'ADDITIONAL INFORMATION'"
+  },
+  {
+   "id": "G-178",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'CONTROLS AND PROCEDURES'"
+  },
+  {
+   "id": "G-179",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'Key Information'"
+  },
+  {
+   "id": "G-180",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'MAJOR SHAREHOLDERS AND RELATED PARTY TRANSACTIONS'"
+  },
+  {
+   "id": "G-181",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'DIRECTORS, SENIOR MANAGEMENT AND EMPLOYEES'"
+  },
+  {
+   "id": "G-182",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'MAJOR SHAREHOLDERS AND RELATED PARTY TRANSACTIONS'"
+  },
+  {
+   "id": "G-183",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'Quantitative and Qualitative Disclosures about Market Risk'"
+  },
+  {
+   "id": "G-184",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'Controls and Procedures'"
+  },
+  {
+   "id": "G-185",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'Major Shareholders and Related Party Transactions'"
+  },
+  {
+   "id": "G-186",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'Operating and Financial Review and Prospects'"
+  },
+  {
+   "id": "G-187",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'Principal Accountant Fees and Services'"
+  },
+  {
+   "id": "G-188",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'Quantitative and Qualitative Disclosures About Market Risk'"
+  },
+  {
+   "id": "G-189",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'ADDITIONAL INFORMATION'"
+  },
+  {
+   "id": "G-190",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'Directors, Senior Management and Employees'"
+  },
+  {
+   "id": "G-191",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'**CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE'"
+  },
+  {
+   "id": "G-192",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'RISK FACTORS'"
+  },
+  {
+   "id": "G-193",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA'"
+  },
+  {
+   "id": "G-194",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'Financial Information'"
+  },
+  {
+   "id": "G-195",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'Controls and Procedures'"
+  },
+  {
+   "id": "G-196",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'CONTROLS AND PROCEDURES'"
+  },
+  {
+   "id": "G-197",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'ADDITIONAL INFORMATION'"
+  },
+  {
+   "id": "G-198",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'ADDITIONAL INFORMATION'"
+  },
+  {
+   "id": "G-199",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'Directors, Senior Management and Employees'"
+  },
+  {
+   "id": "G-200",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'CORPORATE GOVERNANCE'"
+  },
+  {
+   "id": "G-201",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'Information on the Company'"
+  },
+  {
+   "id": "G-202",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'Directors, Senior Management and Employees'"
+  },
+  {
+   "id": "G-203",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'DIRECTORS, SENIOR MANAGEMENT AND EMPLOYEES'"
+  },
+  {
+   "id": "G-204",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'Directors, Senior Management and Employees'"
+  },
+  {
+   "id": "G-205",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNER S AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS.'"
+  },
+  {
+   "id": "G-206",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'PRINCIPAL ACCOUNTANT FEES AND SERVICES'"
+  },
+  {
+   "id": "G-207",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'INFORMATION ON THE COMPANY'"
+  },
+  {
+   "id": "G-208",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES.'"
+  },
+  {
+   "id": "G-209",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'OPERATING AND FINANCIAL REVIEW AND PROSPECTS'"
+  },
+  {
+   "id": "G-210",
+   "type": "e_sec_section",
+   "judge_only": false,
+   "answer_text": "'THE OFFER AND LISTING'"
+  },
+  {
+   "id": "G-211",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: no series or document in the corpus mentions route code TD27X"
+  },
+  {
+   "id": "G-212",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: no series or document in the corpus mentions route code TC5L"
+  },
+  {
+   "id": "G-213",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: no series or document in the corpus mentions route code MR14J"
+  },
+  {
+   "id": "G-214",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: no series or document in the corpus mentions route code C9X"
+  },
+  {
+   "id": "G-215",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: no series or document in the corpus mentions route code MR56D"
+  },
+  {
+   "id": "G-216",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: no series or document in the corpus mentions route code TC8B"
+  },
+  {
+   "id": "G-217",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: no series or document in the corpus mentions route code MR72Y"
+  },
+  {
+   "id": "G-218",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: no series or document in the corpus mentions route code TD41Q"
+  },
+  {
+   "id": "G-219",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: no series or document in the corpus mentions route code TC77X"
+  },
+  {
+   "id": "G-220",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: no series or document in the corpus mentions route code TD88W"
+  },
+  {
+   "id": "G-221",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: no series or document in the corpus mentions route code MR99"
+  },
+  {
+   "id": "G-222",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: no series or document in the corpus mentions route code TD62K"
+  },
+  {
+   "id": "G-223",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: Duskmere Freight is not an entity in the corpus and appears in no chunk"
+  },
+  {
+   "id": "G-224",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: Marlowe Quay Group is not an entity in the corpus and appears in no chunk"
+  },
+  {
+   "id": "G-225",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: Vantrix Bulk is not an entity in the corpus and appears in no chunk"
+  },
+  {
+   "id": "G-226",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: Starbucks Corp is not an entity in the corpus and appears in no chunk"
+  },
+  {
+   "id": "G-227",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: Trelvane Chartering is not an entity in the corpus and appears in no chunk"
+  },
+  {
+   "id": "G-228",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: Oremachi Lines is not an entity in the corpus and appears in no chunk"
+  },
+  {
+   "id": "G-229",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: Quillbrook Maritime is not an entity in the corpus and appears in no chunk"
+  },
+  {
+   "id": "G-230",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: Palantir Technologies is not an entity in the corpus and appears in no chunk"
+  },
+  {
+   "id": "G-231",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: LVMH Moet Hennessy is not an entity in the corpus and appears in no chunk"
+  },
+  {
+   "id": "G-232",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: Brindlemoor Tankers is not an entity in the corpus and appears in no chunk"
+  },
+  {
+   "id": "G-233",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: the corpus ends before 2030-01-15: no observations or documents that late"
+  },
+  {
+   "id": "G-234",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: the corpus ends before 2031-06-01: no observations or documents that late"
+  },
+  {
+   "id": "G-235",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: the corpus ends before 2032-11-20: no observations or documents that late"
+  },
+  {
+   "id": "G-236",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: the corpus ends before 2030-09-09: no observations or documents that late"
+  },
+  {
+   "id": "G-237",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: the corpus ends before 2033-02-04: no observations or documents that late"
+  },
+  {
+   "id": "G-238",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: the corpus ends before 2031-11-30: no observations or documents that late"
+  },
+  {
+   "id": "G-239",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: the corpus ends before 2032-05-21: no observations or documents that late"
+  },
+  {
+   "id": "G-240",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: the corpus ends before 2030-12-12: no observations or documents that late"
+  },
+  {
+   "id": "G-241",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: no entity or chunk in the corpus mentions a vessel called MV Grimsel Dawn"
+  },
+  {
+   "id": "G-242",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: no entity or chunk in the corpus mentions a vessel called MT Tarrow Reach"
+  },
+  {
+   "id": "G-243",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: no entity or chunk in the corpus mentions a vessel called MV Wendover Straits"
+  },
+  {
+   "id": "G-244",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: no entity or chunk in the corpus mentions a vessel called MT Ellisand Bay"
+  },
+  {
+   "id": "G-245",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: no entity or chunk in the corpus mentions a vessel called MV Corvid Sound"
+  },
+  {
+   "id": "G-246",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: no entity or chunk in the corpus mentions a vessel called MT Mardle Bank"
+  },
+  {
+   "id": "G-247",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: the question is outside the shipping/maritime corpus domain"
+  },
+  {
+   "id": "G-248",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: the question is outside the shipping/maritime corpus domain"
+  },
+  {
+   "id": "G-249",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: the question is outside the shipping/maritime corpus domain"
+  },
+  {
+   "id": "G-250",
+   "type": "h_unanswerable",
+   "judge_only": false,
+   "answer_text": "The corpus has a gap here: the question is outside the shipping/maritime corpus domain"
+  }
+ ]
+}
