@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2973,
-      "untracked_bytes": 2299046363
+      "untracked_files": 2969,
+      "untracked_bytes": 2297474765
     },
     {
       "path": "corpus/02-hellenic",
@@ -47,16 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "path": "corpus/01-brokers/_digests/banchero_costa/2026/banchero_costa_12_11_2026_banchero_costa_weekly_market_report_week_45_2026.md",
-      "bytes": 57920,
-      "sha256": "ccb5384dfe55810f3d71baf200e4683cafe9011cd8b4bbff16bd8fd15d615545"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/fearnleys/2026/fearnleys_12_11_2026_fearnleys_week_46_2026.md",
-      "bytes": 11152,
-      "sha256": "5f42d8cec00117f330a41e28f3aabc2baa08119d39bd56d9257853a8b8233a3e"
-    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -4768,11 +4758,6 @@
       "sha256": "035ed9c7822847eb5ea01f3ec2d635dfcf038a18fdc8e8abc77ed049344bb636"
     },
     {
-      "path": "corpus/01-brokers/banchero_costa/2026/banchero_costa_12_11_2026_banchero_costa_weekly_market_report_week_45_2026.pdf",
-      "bytes": 1043752,
-      "sha256": "591ca1522d28e5fa12777842a111ff02d29fce2dba9dce72ee1c63403c55e0c9"
-    },
-    {
       "path": "corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W02_Bancosta-Weekly-2026-02_compressed.pdf",
       "bytes": 1690694,
       "sha256": "22fb18d2aa95c3ff2e2b1c8da06098447a028bf5318a236ca0f78590216c66d6"
@@ -6796,11 +6781,6 @@
       "path": "corpus/01-brokers/fearnleys/2026/fearnleys_01_10_2026_fearnleys_week_40_2026.pdf",
       "bytes": 463756,
       "sha256": "62cf00a3cc089f203f0f78bba113eae955cc570863e8e86f31ab61a0f3909015"
-    },
-    {
-      "path": "corpus/01-brokers/fearnleys/2026/fearnleys_12_11_2026_fearnleys_week_46_2026.pdf",
-      "bytes": 458774,
-      "sha256": "c878426a7f5ce767ac8715fd73bf6d91cf491b66b1db67939333af593b91296a"
     },
     {
       "path": "corpus/01-brokers/fearnleys/2026/fearnleys_2026_W01_Fearnleys-Weekly-Report-_-Fearnpulse.pdf",
