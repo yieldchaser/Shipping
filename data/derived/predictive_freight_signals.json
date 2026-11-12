@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source": "Port Stress Matrix x Baltic Exchange spot indices",
-    "as_of": "2026-11-11 13:00:01 UTC",
+    "as_of": "2026-11-12 14:02:43 UTC",
     "total_signals": 5,
     "methodology": "Port-call z-score anomaly (port stress matrix) paired with the Baltic index of the hub trade; no correlation or lead time is estimated"
   },
@@ -30,7 +30,7 @@
       "bias": "BEARISH",
       "correlated_ticker": "BLNG",
       "ticker_name": "Baltic LNG Index",
-      "current_index_value": 4881.0,
+      "current_index_value": 4717.0,
       "projected_impact": "Sharp arrival slowdown at Ras Laffan (Qatar LNG) (Z-Score -2.05\u03c3). Terminal export reduction or weather shutdown dampens cargo stems, softening prompt demand for BLNG.",
       "recommendation": "Monitor forward cargo fixtures for BLNG softening."
     },
@@ -48,7 +48,7 @@
       "bias": "BEARISH",
       "correlated_ticker": "BLPG",
       "ticker_name": "Baltic LPG Index",
-      "current_index_value": 21824.0,
+      "current_index_value": 21585.0,
       "projected_impact": "Sharp arrival slowdown at Ras Laffan (LPG) (Z-Score -2.05\u03c3). Terminal export reduction or weather shutdown dampens cargo stems, softening prompt demand for BLPG.",
       "recommendation": "Monitor forward cargo fixtures for BLPG softening."
     },
@@ -66,7 +66,7 @@
       "bias": "BEARISH",
       "correlated_ticker": "BCI",
       "ticker_name": "Baltic Capesize Index",
-      "current_index_value": 4700.0,
+      "current_index_value": 4836.0,
       "projected_impact": "Sharp arrival slowdown at Tubarao (Z-Score -1.81\u03c3). Terminal export reduction or weather shutdown dampens cargo stems, softening prompt demand for BCI.",
       "recommendation": "Monitor forward cargo fixtures for BCI softening."
     },
@@ -84,7 +84,7 @@
       "bias": "BEARISH",
       "correlated_ticker": "BCI",
       "ticker_name": "Baltic Capesize Index",
-      "current_index_value": 4700.0,
+      "current_index_value": 4836.0,
       "projected_impact": "Sharp arrival slowdown at Newcastle (Z-Score -1.78\u03c3). Terminal export reduction or weather shutdown dampens cargo stems, softening prompt demand for BCI.",
       "recommendation": "Monitor forward cargo fixtures for BCI softening."
     },
@@ -102,7 +102,7 @@
       "bias": "BEARISH",
       "correlated_ticker": "BCI",
       "ticker_name": "Baltic Capesize Index",
-      "current_index_value": 4700.0,
+      "current_index_value": 4836.0,
       "projected_impact": "Sharp arrival slowdown at Hay Point (Z-Score -1.47\u03c3). Terminal export reduction or weather shutdown dampens cargo stems, softening prompt demand for BCI.",
       "recommendation": "Monitor forward cargo fixtures for BCI softening."
     }
