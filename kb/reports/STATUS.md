@@ -67,8 +67,8 @@ measurement behind it. Gates are unchanged by the amendment — only the provide
 | key pool | **8 verified accounts** `AMD_TOKENLAB_API_KEY_1..8`, all individually valid, 160 RPM aggregate |
 | tariff | in **$0.28/M**, cached in **$0.0056/M**, out **$0.56/M** (NOT free) |
 | fit quality | exact (max abs err $0.000000) over 11 stored parity usages; replicated in code to $0.000000000 |
-| unit cost | **$0.001249/call**, **$0.00134 per accepted pack** at real pack depth |
-| projection | 23,488 packs remaining ≈ **$29.35**; all 24,978 ≈ **$31.21** (booked $31.25) |
+| unit cost | **$0.001249/call**, **$0.00134 per accepted pack** at real pack depth (live daemon window: **$0.000923/pack**) |
+| projection | 23,488 packs remaining ≈ **$29.35**; all 24,978 ≈ **$31.21** (booked $31.25); live extrapolation ≈$23 |
 | refusal mode | uniform `HTTP 429` `model_concurrency_rate_limit_exceeded` — **model-wide ceiling 144**, not per-key quota |
 | acceptance rate | ≈0.56 ok/call, flat in pacing (8 s/5 s/3 s rungs 9/16, 9/16, 7/16) ⇒ retries, not pacing |
 | auth errors | 48-call per-key probe (8 calls × 6 keys): **zero 401/403**; a lone transient 401 is soft, rotates key, never fatal |
@@ -124,10 +124,16 @@ Bulk pass over the frozen 86,607-chunk / 24,978-pack scope on the AMD Token Lab 
 daemon `kb/p4c_daemon.py --pass p4c_bulk --model DeepSeek-V4.1-Flash --quota 0 --chunk 400 --shard 200
 --cap 31.25` (log `kb/logs/p4c_bulk_daemon.log`, state `kb/state/p4c/run_p4c_bulk.json`).
 
-- Raws stored: **1,490 Ultrafast raws from the abandoned free run plus a growing AMD count**; the
-  daemon counts progress model-scoped from the ledger (`status='ok' AND model=?`), so the stale
-  Ultrafast raws no longer inflate the AMD cursor. `--quota 0` means "no daily token ceiling", i.e.
-  the AMD pool has no free-tier reset to wait for.
+- Raws stored 2026-11-13T22:37Z: **1,595 / 24,978** = 1,490 Ultrafast raws from the abandoned free run
+  plus **105 AMD raws**. Raw files and ledger agree exactly (`p4c_bulk` ok rows 1,595, raw files 1,595,
+  zero orphans either way), and the daemon counts progress model-scoped from the ledger
+  (`status='ok' AND model=?`), so the stale Ultrafast raws no longer inflate the AMD cursor.
+- Live AMD measurement over the first 32-minute window (99 ok / 19 error, all errors `HTTP 429`
+  attempts 5, **zero 401/403**): **$0.000923 per accepted pack** (vs $0.00134 in the parity harness,
+  which included its own retry depth), 828 output tok per accepted pack, **3.09 accepted packs/min**.
+  Extrapolated: remaining 24,879 packs ≈ **$23** (inside the $31.25 booking) and **≈5.6 days wall**.
+  Ledger pipeline total **$4.8661 / $82** ⇒ $77.13 left. `--quota 0` means "no daily token ceiling",
+  i.e. the AMD pool has no free-tier reset to wait for; the limiter is the shared concurrency ceiling.
 - AMD refusal is the shared concurrency ceiling (144), so the pool degrades and recovers in waves
   rather than draining a per-key daily quota. The daemon treats an error rate above 50% in a window as
   a stall, backs off 20 min, and resumes; already-stored packs are skipped free on the next sweep.
