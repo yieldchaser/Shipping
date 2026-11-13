@@ -83,6 +83,27 @@ side and published in one assignment; a 30-round × 8-thread cold-cache stress t
 `("amd_tokenlab", 8)` on every worker. `p4c_run` and the daemon now also name the **P4c** modes file in
 their `SystemExit` text rather than P4b.
 
+### Amendment 2 — truncated responses are retried, not accepted (2026-11-13)
+
+Authority: plan §7.2 sets `max_tokens` 2,500 and §7.4 gate 1 (verbatim, L420) says *"A blank or
+truncated response is retried, at most 3 times."* The §7.2 cap was applied to the AMD bulk pass, and
+every schema failure measured on it was a **cap truncation**, not model quality:
+
+| fact | measured value |
+|---|---|
+| cause | 400-pack sample: 18 schema failures, **every one** `finish_reason='length'` at exactly 2,500 completion tokens |
+| rate | 76 / 1,244 accepted `p4c_bulk` AMD raws truncated (6.1%); 195 truncations across all `p4c_*` passes, $0.1474 spent on them |
+| leak | `runner._one` writes the raw and records `status='ok'` **before** parsing ⇒ truncation was invisible to `done_n`/`has_raw`; with `records_total == 0` also invisible to `ladder.triggers` (all three branches guarded by `if total`), a truncated chunk could be neither re-extracted nor escalated |
+| fix 1 | `p4b_run.MODEL_MAX_TOKENS` 2,500 → **8,000** for `glm-5.3`, `DeepSeek-V4.1-Flash`, `DeepSeek-V4-Flash` |
+| fix 2 | new `p4b_run.stored_usable`; `p4c_run.has_raw`/`pending` now route through it, so a truncated or blank raw stays pending and is re-requested |
+| fix 3 | `p4c_daemon.done_n` excludes `finish_reason='length'` |
+| blast radius | nil for passed gates: exact-case AMD ids exist only in `p4c_*` passes (P4b/P4a raws are all lowercase model ids, and `kb/state/p4b/modes.json` has no AMD entry) |
+| re-key cost | `key_variant` embeds `mt{cap}`, so the cap raise orphans the 1,244 stored AMD bulk raws for re-extraction — ≈**$1.08** at the live rate, and required by §7.4 gate 1 for the 76 truncated ones |
+
+C1 gate unchanged; no gate value was lowered. The cap raise is the literal §7.2→§7.4 reconciliation:
+the plan's 2,500-token cap produces truncated JSON on this corpus, and the plan's own gate says
+truncated responses are retried.
+
 ## P4b numbers (extraction bake-off, plan §10.2)
 
 | metric | value |

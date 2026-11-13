@@ -76,12 +76,38 @@ def batches(packs, size: int = SHARD):
 
 
 def has_raw(pass_name: str, model: str, mode: str, pack: dict) -> bool:
-    return B.load_result(pass_name, B.make_job(pass_name, model, mode, pack)) is not None
+    """True only when the stored raw is *usable* (parseable, non-blank, not truncated at the cap).
+
+    Presence alone is not enough: the runner stores a raw and records `status='ok'` before parsing,
+    so a truncated answer would otherwise block its own retry forever. Plan §7.4 gate 1 requires a
+    blank or truncated response to be retried, up to 3 times.
+    """
+    return B.stored_usable(pass_name, B.make_job(pass_name, model, mode, pack))
 
 
 def pending(batch: list[dict], pass_name: str, model: str, mode: str) -> list[dict]:
-    """Drop packs that already have a stored raw for this pass/model/mode (resume without a re-bill)."""
+    """Drop packs that already have a usable raw for this pass/model/mode (resume without a re-bill)."""
     return [p for p in batch if not has_raw(pass_name, model, mode, p)]
+
+
+def done_packs(pass_name: str, model: str, mode: str, packs_path: Path | None = None,
+               limit: int = 0) -> int:
+    """Packs in the frozen scope that already have a usable stored raw for this pass/model/mode.
+
+    Key-exact on purpose. A ledger `COUNT(*)` by pass+model is cheaper but wrong after a job-key
+    change: `p4b_run.key_variant` embeds `mt{max_tokens}`, so raising the cap (Amendment 2) orphans
+    every previously stored raw under a now-unreachable key while its `status='ok'` ledger row
+    survives. Counting those rows would report the run as complete hundreds of packs early. Building
+    the expected key per pack and testing `has_raw` cannot drift. Costs ~3 s over the full 24,978-pack
+    scope (~9k packs/s), against rounds of ~33 min.
+    """
+    n = 0
+    for i, pack in enumerate(load_packs(packs_path or PACKS)):
+        if limit and i >= limit:
+            break
+        if has_raw(pass_name, model, mode, pack):
+            n += 1
+    return n
 
 
 def pack_shards(packs_path: Path, limit: int = 0, shard: int = SHARD, start: int = 0):

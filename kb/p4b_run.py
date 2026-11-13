@@ -264,7 +264,15 @@ def key_variant(model: str) -> str:
 # growing with pack depth), so the cap is raised for that model only: the visible JSON keeps its full
 # 2,500-token room plus the measured trace overhead and margin. Every other model runs at the plan
 # cap. Truncation was still 2/8 packed calls at 4,000 (probe 2026-11-12), 0/8 at 8,000.
-MODEL_MAX_TOKENS = {"glm-5.3": 8000}
+#
+# 2026-11-13 (AMD bulk pass): the plan cap truncates deep AMD packs. Over the first 400 packs of
+# `p4c_bulk`, 18 of 378 AMD raw answers ended with finish_reason=length at exactly 2,500 completion
+# tokens and failed JSON parse (rate 0.048) - every schema failure in the slice, none of them a
+# quality failure. Re-running those exact packs at a 8,000 cap returned finish_reason=tool_calls,
+# 2,739 completion tokens, parse_ok=True. Same measured artefact as the glm-5.3 entry above, so the
+# AMD models carried by the bulk pass take the same exception. The cap is a ceiling, not a bill:
+# suites that finish early are unaffected. Recorded in kb/reports/STATUS.md (Amendment 2).
+MODEL_MAX_TOKENS = {"glm-5.3": 8000, "DeepSeek-V4.1-Flash": 8000, "DeepSeek-V4-Flash": 8000}
 
 
 def max_tokens_for(model: str) -> int:
@@ -442,6 +450,22 @@ def load_result(pass_name: str, job: dict) -> dict | None:
         return json.loads(p.read_text(encoding="utf-8"))
     except ValueError:
         return None
+
+
+def stored_usable(pass_name: str, job: dict) -> bool:
+    """True only when the stored raw is a *usable* answer, not merely a stored one.
+
+    Plan §7.4 gate 1: "A blank or truncated response is retried, at most 3 times." The runner writes
+    a raw and records `status='ok'` before any parsing, so a truncated answer (`finish_reason` =
+    `length`) is stored and counted as done while being unusable - and because `records_total` is 0
+    for it, rule 6 sees nothing to escalate either. Resume logic must therefore treat it as pending.
+    """
+    res = load_result(pass_name, job)
+    if not res:
+        return False
+    if str(res.get("finish_reason") or "") == "length":
+        return False
+    return bool((res.get("raw") or "").strip())
 
 
 def run_extraction(pass_name: str, models: list[str], cap: float, limit: int = 0) -> dict:

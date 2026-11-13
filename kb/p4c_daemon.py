@@ -54,12 +54,17 @@ def done_n(pass_name: str, model: str = "") -> int:
 
     Counted from the ledger, not from the raw directory: `kb/state/raw/p4c_bulk` also holds the
     earlier free-Ultrafast raws of the same pass, and a directory count would report the AMD run as
-    nearly finished before it had sent a single call. Ledger rows are one per job_key, and a job_key
-    is one per pack/model/transport, so an `ok` row means exactly one usable raw on disk.
+    nearly finished before it had sent a single call.
+
+    Truncated answers are excluded: the runner records `status='ok'` with `finish_reason='length'`
+    for a response the provider cut off at `max_tokens`, which is unusable and must be re-requested
+    (plan §7.4 gate 1). Counting them as done would also mask the re-key that a raised cap causes
+    (`p4b_run.key_variant` embeds `mt{max_tokens}`, so a cap change orphans every stored raw).
     """
     con = R.connect()
     try:
-        sql = "SELECT COUNT(DISTINCT job_key) FROM jobs WHERE pass=? AND status='ok'"
+        sql = ("SELECT COUNT(DISTINCT job_key) FROM jobs WHERE pass=? AND status='ok' "
+               "AND COALESCE(finish_reason,'')!='length'")
         params: list = [pass_name]
         if model:
             sql += " AND model=?"
@@ -67,6 +72,19 @@ def done_n(pass_name: str, model: str = "") -> int:
         return int(con.execute(sql, params).fetchone()[0] or 0)
     finally:
         con.close()
+
+
+def scope_done(pass_name: str, model: str, packs_path: Path) -> int:
+    """Key-exact count of packs in the scope with a usable raw for this pass/model.
+
+    `done_n` counts ledger rows by pass+model, which survives a job-key change and would therefore
+    over-report a pass whose cap was raised (see `p4c_run.done_packs`). This is the completion test
+    the loop actually uses.
+    """
+    mode = PR.load_modes().get(model)
+    if not mode:
+        return done_n(pass_name, model)
+    return PR.done_packs(pass_name, model, mode, packs_path=packs_path)
 
 
 def total_packs(packs_path: Path) -> int:
@@ -118,12 +136,12 @@ def run(pass_name: str, model: str, packs_path: Path, quota: int, chunk: int,
             f"no transport mode for {model} in {PR.MODE_FILE}: run the P4c transport preflight first "
             f"(python -m kb.p4c_preflight)")
     total = total_packs(packs_path)
-    print(f"[start] pass {pass_name} model {model} packs {total} done {done_n(pass_name, model)} "
+    print(f"[start] pass {pass_name} model {model} packs {total} done {scope_done(pass_name, model, packs_path)} "
           f"quota {quota}/day", flush=True)
     round_no = 0
     cursor = 0
     while True:
-        have = done_n(pass_name, model)
+        have = scope_done(pass_name, model, packs_path)
         if have >= total:
             print(f"[done] {have}/{total} packs have a stored raw", flush=True)
             return 0
@@ -137,7 +155,8 @@ def run(pass_name: str, model: str, packs_path: Path, quota: int, chunk: int,
         errs = ledger_errors(pass_name, t0.isoformat(timespec="seconds"))
         attempted = max(1, st["packs"])
         print(f"[round {round_no}] attempted {st['packs']} packs, out_tok +{added_out}, "
-              f"errors {errs}, day_out {day_out_tokens(model)}, done {done_n(pass_name, model)}/{total}, "
+              f"errors {errs}, day_out {day_out_tokens(model)}, "
+              f"done {scope_done(pass_name, model, packs_path)}/{total}, "
               f"cursor {cursor}", flush=True)
         if st["packs"] == 0:
             # whole window was already cached: advance instead of spinning on the same packs

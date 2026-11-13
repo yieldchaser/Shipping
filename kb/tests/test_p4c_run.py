@@ -58,6 +58,25 @@ def test_singles_for_only_failed_chunks():
     assert [s["chunk_ids"][0] for s in out] == ["b"]
 
 
+def test_pending_retries_a_truncated_raw(monkeypatch):
+    """Regression: a raw stored with finish_reason=length at the max_tokens cap is unusable, so the
+    pack must stay pending and be re-requested (plan §7.4 gate 1) rather than counted as done."""
+    import p4b_run as B
+
+    packs = [pack(cids=("a",)), pack(cids=("b",))]
+    raws = {packs[0]["key"]: {"raw": '{"records":[]}', "finish_reason": "length"},
+            packs[1]["key"]: {"raw": '{"records":[]}', "finish_reason": "tool_calls"}}
+    monkeypatch.setattr(B, "load_result", lambda pass_name, job: raws.get(job["request_hash"]))
+
+    def fake_make_job(pass_name, model, mode, p):
+        return {"request_hash": p["key"]}
+
+    monkeypatch.setattr(B, "make_job", fake_make_job)
+    assert C.has_raw("p4c_bulk", "m", "tools", packs[0]) is False   # truncated -> retry
+    assert C.has_raw("p4c_bulk", "m", "tools", packs[1]) is True    # complete -> cached
+    assert [p["key"] for p in C.pending(packs, "p4c_bulk", "m", "tools")] == [packs[0]["key"]]
+
+
 def test_plan_escalation_writes_singles(tmp_path):
     packs = tmp_path / "packs.jsonl"
     write_jsonl(packs, [pack(cids=("a", "b")), pack(doc="d2", cids=("c",), key="d2|c")])
