@@ -104,6 +104,27 @@ C1 gate unchanged; no gate value was lowered. The cap raise is the literal §7.2
 the plan's 2,500-token cap produces truncated JSON on this corpus, and the plan's own gate says
 truncated responses are retried.
 
+### Amendment 3 — ledger timestamps are measured on the ledger's own clock (2026-11-14)
+
+Authority: none needed; this is a defect fix with no gate, cap or plan change. `kb/runner.py:194`
+stamps `jobs.created_at` with `time.strftime("%Y-%m-%dT%H:%M:%S")` — **naive local time**, no offset.
+`p4c_daemon` compared that column against a **UTC** ISO string. The two disagree on the *date*, not
+merely the offset, so:
+
+| symptom | measured | truth |
+|---|---|---|
+| spurious stall | `[stall] errors 223/400, no quota regime` and a 20-min back-off | only **67** rows were `error`; `created_at >= t0` also matched the previous run's 156 errors |
+| quota meter dead | `[round 1] day_out 827658` frozen at the pre-restart value, `out_tok +0` | `substr(created_at,1,10)` was a UTC date the ledger never stores; `day_out_tokens` returned 0 for every fresh row |
+| clock skew | daemon UTC `2026-11-13T20:03Z` vs ledger local `2026-11-14T01:30` | 5h05m apart |
+
+Fix: `ledger_now()`/`now()`/`next_midnight()` on the local clock, used by the round start `t0`, the
+error window and the midnight boundary; `_ledger_day_utc`→`_ledger_day`. Regression tests
+`test_ledger_clock_is_naive_local_not_utc` and `test_ledger_error_window_counts_only_this_round`
+(351 tests pass). Post-fix round prints `errors 0, day_out 657091` — both meters live.
+
+Consequence for the record: the stalled daemon had already written 333 usable raws before it backed
+off; those are kept and counted, since the resume is key-exact (`done 333` on restart, not 0).
+
 ## P4b numbers (extraction bake-off, plan §10.2)
 
 | metric | value |
