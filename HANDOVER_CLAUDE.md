@@ -25,8 +25,14 @@
 
 ## 3. Shipping GraphRAG Build Status
 * **Branch**: `kb-build` in `C:\Users\Dell\Github\Shipping`.
-* **Workload Remaining**: ~23,485 packs of the 24,978 frozen scope (1,490 Ultrafast raws + the growing
-  AMD count, counted model-scoped from the ledger). Measured ~581 output tokens per accepted pack.
+* **Workload Remaining**: ~24,670 packs of the 24,978 frozen scope (1,490 Ultrafast raws + the growing
+  AMD count, counted model-scoped from the ledger). Measured **825 output tokens per accepted pack**.
+* **Throughput**: worker-bound, not ceiling-bound. Measured 2026-11-13 (real packs, 300 s windows):
+  4 workers / 6 rpm → **2.67 ok/min**, 16 workers / 120 rpm → **11.00 ok/min** (chosen), 32 / 240 →
+  9.60. The optimum is the code default in `kb/p4b_run.runner_for`; `KB_AMD_WORKERS` / `KB_AMD_RATE`
+  override it. At 16 workers the remaining scope is **≈1.6 days wall**, not the ~5.6 days the
+  original 4-worker setting implied. Overnight runs go faster under `powercfg`-free conditions only —
+  no special flags needed.
 * **Launch Command**:
   ```bash
   cmd /c "cd /d C:\Users\Dell\Github\Shipping && python -X utf8 -u kb/p4c_daemon.py --pass p4c_bulk --model DeepSeek-V4.1-Flash --quota 0 --chunk 400 --shard 200 --cap 31.25 >> kb/logs/p4c_bulk_daemon.log 2>&1"
@@ -37,8 +43,9 @@
   8 accounts is individually valid; a transient 401/403/429 on one call is a soft failure — the runner
   rotates to the next key and continues, and must never treat it as fatal for the shard.
 * **Quality & Budget Policy**: Bulk extraction on AMD Token Lab is **paid, not free**. Measured tariff
-  $0.28/M in, $0.0056/M cached in, $0.56/M out ⇒ $0.001249/call and **$0.00134 per accepted pack**;
-  ~$31.5 for the remaining scope, booked under `p4c_bulk_extraction` ($31.25). The $82 pipeline cap is
+  $0.28/M in, $0.0056/M cached in, $0.56/M out ⇒ $0.001249/call and **$0.000871 per accepted pack**
+  live at 16 workers (parity harness: $0.00134); the remaining scope projects to **≈$21.5**, inside the
+  `p4c_bulk_extraction` booking ($31.25). The $82 pipeline cap is
   held by rebooking the glm-5.3 second extractor to $0 (the AMD pass IS the second extractor) and
   trimming the escalation line to $11. The enclave agent reserve is untouched by bulk — extraction
   bypasses the gateway entirely. Verify both the tariff and the pool size before any relaunch:

@@ -67,12 +67,13 @@ measurement behind it. Gates are unchanged by the amendment — only the provide
 | key pool | **8 verified accounts** `AMD_TOKENLAB_API_KEY_1..8`, all individually valid, 160 RPM aggregate |
 | tariff | in **$0.28/M**, cached in **$0.0056/M**, out **$0.56/M** (NOT free) |
 | fit quality | exact (max abs err $0.000000) over 11 stored parity usages; replicated in code to $0.000000000 |
-| unit cost | **$0.001249/call**, **$0.00134 per accepted pack** at real pack depth (live daemon window: **$0.000923/pack**) |
-| projection | 23,488 packs remaining ≈ **$29.35**; all 24,978 ≈ **$31.21** (booked $31.25); live extrapolation ≈$23 |
+| unit cost | **$0.001249/call**, **$0.00134 per accepted pack** at real pack depth (live daemon window: **$0.000871/pack**) |
+| projection | 24,671 packs remaining ≈ **$21.48**; all 24,978 ≈ **$21.76** (booked $31.25, so ≈$9.5 of headroom) |
 | refusal mode | uniform `HTTP 429` `model_concurrency_rate_limit_exceeded` — **model-wide ceiling 144**, not per-key quota |
-| acceptance rate | ≈0.56 ok/call, flat in pacing (8 s/5 s/3 s rungs 9/16, 9/16, 7/16) ⇒ retries, not pacing |
+| throughput | worker-bound, not ceiling-bound: 4 workers → 2.67 ok/min, **16 workers → 11.00 ok/min**, 32 → 9.60; default now 16 (measured 2026-11-13, 300 s windows) |
+| acceptance rate | 0.948 ok/call at 16 workers (net of retries), attempts/ok 2.19; flat in pacing (8 s/5 s/3 s rungs 9/16, 9/16, 7/16) ⇒ retries, not pacing |
 | auth errors | full-pool probe (8 calls × **all 8 keys** = 64 calls): **zero 401/403**, ok 39 / 429 25 = 0.609, distinct key fingerprints `_1` c37b2d4c … `_8` b01e6947; a lone transient 401 is soft, rotates key, never fatal |
-| throughput shape | 8.1 s/pack wall at concurrency; gate drop rate 0.0; 5.6 records per accepted pack; 581 out tok per accepted pack |
+| throughput shape | gate drop rate 0.0; 5.6 records per accepted pack; 825 out tok per accepted pack |
 
 Soft-auth hardening (this round): `_provider_spec` published its config cache non-atomically, so a
 concurrent worker could observe a half-built cache — the model then looked like an unknown provider
@@ -128,12 +129,15 @@ daemon `kb/p4c_daemon.py --pass p4c_bulk --model DeepSeek-V4.1-Flash --quota 0 -
   plus **105 AMD raws**. Raw files and ledger agree exactly (`p4c_bulk` ok rows 1,595, raw files 1,595,
   zero orphans either way), and the daemon counts progress model-scoped from the ledger
   (`status='ok' AND model=?`), so the stale Ultrafast raws no longer inflate the AMD cursor.
-- Live AMD measurement over the first 32-minute window (99 ok / 19 error, all errors `HTTP 429`
-  attempts 5, **zero 401/403**): **$0.000923 per accepted pack** (vs $0.00134 in the parity harness,
-  which included its own retry depth), 828 output tok per accepted pack, **3.09 accepted packs/min**.
-  Extrapolated: remaining 24,879 packs ≈ **$23** (inside the $31.25 booking) and **≈5.6 days wall**.
-  Ledger pipeline total **$4.8661 / $82** ⇒ $77.13 left. `--quota 0` means "no daily token ceiling",
-  i.e. the AMD pool has no free-tier reset to wait for; the limiter is the shared concurrency ceiling.
+- Live AMD measurement at 2026-11-13T23:10Z (307 ok raws, all errors `HTTP 429` attempts 5, **zero
+  401/403**): **$0.000871 per accepted pack**, 825 output tok per accepted pack. Throughput is
+  **worker-bound, not ceiling-bound**: the original 4-worker setting delivered 2.67 ok/min (measured
+  180 s window); **16 workers delivers 11.00 ok/min** (300 s window), 32 regresses to 9.60. Optimum is
+  now the code default (`KB_AMD_WORKERS` / `KB_AMD_RATE` override it). Extrapolated: remaining 24,671
+  packs ≈ **$21.48** (inside the $31.25 booking, ≈$9.5 headroom) and **≈1.6 days wall** at 16 workers
+  — down from the 5.6-day projection the 4-worker rate implied. Ledger pipeline total **$5.0421 / $82**
+  ⇒ $76.96 left. `--quota 0` means "no daily token ceiling", i.e. the AMD pool has no free-tier reset
+  to wait for; the limiter is the shared concurrency ceiling, which we were not close to touching.
 - AMD refusal is the shared concurrency ceiling (144), so the pool degrades and recovers in waves
   rather than draining a per-key daily quota. The daemon treats an error rate above 50% in a window as
   a stall, backs off 20 min, and resumes; already-stored packs are skipped free on the next sweep.
