@@ -34,6 +34,7 @@ import argparse
 import datetime as dt
 import hashlib
 import json
+import os
 import random
 import re
 import statistics
@@ -163,11 +164,22 @@ def runner_for(pass_name: str, model: str, cap: float) -> R.Runner:
         # AMD Token Lab advertises 60 rpm / 8 concurrent per account; the pool was expanded to 8
         # accounts (owner update 2026-11-13). Measured ladders: 9/16, 8/16, 7/16 calls succeeded at
         # 7.5/12/20 rpm, i.e. the ceiling is flat in pacing — the binding limit is the model's shared
-        # concurrency pool, and refusals always arrive as 429 `model_concurrency_rate_limit_exceeded`.
-        # So the win is not a faster rate but more parallel slots plus key rotation across accounts:
-        # every 401/403 re-keys and retries (runner soft-auth), every 429/503 rides the retry ladder.
-        return R.Runner(pass_name, PROMPT_VERSION, cap, start=4, ceiling=6, rate_per_min=6,
-                        pipeline_cap_usd=PIPELINE_CAP, timeout_s=300, attempts=5)
+        # concurrency pool (144 model-wide), and refusals always arrive as 429
+        # `model_concurrency_rate_limit_exceeded`. So the win is not a faster rate but more parallel
+        # slots plus key rotation across accounts: every 401/403 re-keys and retries (runner
+        # soft-auth), every 429/503 rides the retry ladder.
+        #
+        # Measured 2026-11-13 on the live pass (300 s windows, real packs):
+        #   4 workers /   6 rpm ->  2.67 ok/min, accept 0.56
+        #  16 workers / 120 rpm -> 11.00 ok/min, accept 0.764   <-- chosen
+        #  32 workers / 240 rpm ->  9.60 ok/min, accept (net ok gain lower; 429s climb)
+        # i.e. throughput is worker-bound up to ~16 slots and regresses beyond it, far below AMD's
+        # shared ceiling of 144. Default 16 / 120 here so daemon restarts and gate runs keep the
+        # measured optimum; KB_AMD_WORKERS / KB_AMD_RATE override it for a fresh experiment.
+        workers = int(os.environ.get("KB_AMD_WORKERS") or 16)
+        rate = int(os.environ.get("KB_AMD_RATE") or 120)
+        return R.Runner(pass_name, PROMPT_VERSION, cap, start=workers, ceiling=workers,
+                        rate_per_min=rate, pipeline_cap_usd=PIPELINE_CAP, timeout_s=300, attempts=5)
     return R.Runner(pass_name, PROMPT_VERSION, cap, start=8, ceiling=24,
                     pipeline_cap_usd=PIPELINE_CAP, timeout_s=180)
 
