@@ -52,7 +52,7 @@ NODES = OUT / "nodes.jsonl"
 INDEX = OUT / "index.json"
 TREE = OUT / "tree.json"
 
-WRITER_MODEL = "deepseek-v4.1-flash-1017-ultrafast"  # free bulk model, family deepseek
+WRITER_MODEL = "DeepSeek-V4.1-Flash"  # free bulk model, family deepseek
 JUDGE_MODEL = "openai/gpt-oss-120b"                  # Nim free, family openai != deepseek
 GRAINS = ("month", "quarter", "year")
 LEAF_OBS = 12

@@ -1,14 +1,19 @@
-"""P4c bulk daemon: keep the free Ultrafast run moving across the gateway's daily output quota.
+"""P4c bulk daemon: keep the free bulk run moving across provider throttling and daily quotas.
 
 DESIGN NOTE (plan §7.5 "partial coverage beats lower quality", §10.3, C1 owner reply 1)
-The free route publishes an output-token ceiling per UTC day, so the bulk pass cannot finish in one
-sitting: it runs until the quota is spent, then the gateway starts refusing or truncating calls.
-This driver runs the resumable bulk pass in fixed shards, measures output tokens added and errors
-recorded from the ledger after every shard, and when a shard is mostly errors it sleeps until the
-next UTC midnight (quota reset) before resuming. Nothing is re-billed: `p4c_run.pending` skips every
-pack that already has a stored raw, so the driver is safe to kill and restart at any moment. It is
-deliberately dumb - one pass name, one model, one retry cadence - so the run state stays legible in
-`kb/state/p4c/run_<pass>.json` and in the ledger.
+The bulk pass is free but throttled, so it cannot finish in one sitting. Two regimes:
+  * Ultrafast publishes an output-token ceiling per UTC day (4.7M): it runs until the quota is spent,
+    then the gateway refuses/truncates calls. This driver runs the resumable bulk pass in fixed
+    shards, measures output tokens added and errors recorded from the ledger after every shard, and
+    when a shard is mostly errors it sleeps until the next UTC midnight (quota reset) before resuming.
+  * AMD Token Lab (owner amendment to D10, 2026-11-13) has no output-token ceiling but a hard
+    per-key request quota: a 3x16-call ladder at 7.5/12/20 rpm succeeded 9/16, 8/16, 7/16 times, so
+    roughly every other call needs the runner's retry ladder. There is nothing to wait for at
+    midnight, so `--quota 0` disables the daily-quota branch and a much higher stall threshold is
+    used: sustained failure there means the pool itself is down, not a spent quota.
+Nothing is re-billed: `p4c_run.pending` skips every pack that already has a stored raw, so the driver
+is safe to kill and restart at any moment. It is deliberately dumb - one pass name, one model, one
+retry cadence - so the run state stays legible in `kb/state/p4c/run_<pass>.json` and in the ledger.
 """
 
 from __future__ import annotations
@@ -44,9 +49,24 @@ def next_utc_midnight() -> dt.datetime:
     return (now + dt.timedelta(days=1)).replace(hour=0, minute=0, second=0, microsecond=0)
 
 
-def done_n(pass_name: str) -> int:
-    d = R.RAW / pass_name
-    return sum(1 for _ in d.glob("*.json")) if d.exists() else 0
+def done_n(pass_name: str, model: str = "") -> int:
+    """Packs with a successful stored raw for this pass *and* model.
+
+    Counted from the ledger, not from the raw directory: `kb/state/raw/p4c_bulk` also holds the
+    earlier free-Ultrafast raws of the same pass, and a directory count would report the AMD run as
+    nearly finished before it had sent a single call. Ledger rows are one per job_key, and a job_key
+    is one per pack/model/transport, so an `ok` row means exactly one usable raw on disk.
+    """
+    con = R.connect()
+    try:
+        sql = "SELECT COUNT(DISTINCT job_key) FROM jobs WHERE pass=? AND status='ok'"
+        params: list = [pass_name]
+        if model:
+            sql += " AND model=?"
+            params.append(model)
+        return int(con.execute(sql, params).fetchone()[0] or 0)
+    finally:
+        con.close()
 
 
 def total_packs(packs_path: Path) -> int:
@@ -93,15 +113,17 @@ def sleep_until(ts: dt.datetime) -> None:
 
 def run(pass_name: str, model: str, packs_path: Path, quota: int, chunk: int,
         shard: int, cap: float, job_maker=None) -> int:
-    if not B.load_modes().get(model):
-        raise SystemExit(f"no transport mode for {model}: run the p4c transport preflight first")
+    if not PR.load_modes().get(model):
+        raise SystemExit(
+            f"no transport mode for {model} in {PR.MODE_FILE}: run the P4c transport preflight first "
+            f"(python -m kb.p4c_preflight)")
     total = total_packs(packs_path)
-    print(f"[start] pass {pass_name} model {model} packs {total} done {done_n(pass_name)} "
+    print(f"[start] pass {pass_name} model {model} packs {total} done {done_n(pass_name, model)} "
           f"quota {quota}/day", flush=True)
     round_no = 0
     cursor = 0
     while True:
-        have = done_n(pass_name)
+        have = done_n(pass_name, model)
         if have >= total:
             print(f"[done] {have}/{total} packs have a stored raw", flush=True)
             return 0
@@ -115,7 +137,7 @@ def run(pass_name: str, model: str, packs_path: Path, quota: int, chunk: int,
         errs = ledger_errors(pass_name, t0.isoformat(timespec="seconds"))
         attempted = max(1, st["packs"])
         print(f"[round {round_no}] attempted {st['packs']} packs, out_tok +{added_out}, "
-              f"errors {errs}, day_out {day_out_tokens(model)}, done {done_n(pass_name)}/{total}, "
+              f"errors {errs}, day_out {day_out_tokens(model)}, done {done_n(pass_name, model)}/{total}, "
               f"cursor {cursor}", flush=True)
         if st["packs"] == 0:
             # whole window was already cached: advance instead of spinning on the same packs
@@ -128,8 +150,14 @@ def run(pass_name: str, model: str, packs_path: Path, quota: int, chunk: int,
                 print(f"[info] window fully cached; continuing from pack {cursor}", flush=True)
             continue
         broke = errs / attempted > STALL_ERROR_RATE
-        quota_gone = day_out_tokens(model) >= quota
+        quota_gone = quota > 0 and day_out_tokens(model) >= quota
         if broke or quota_gone:
+            if quota <= 0:
+                # no daily ceiling (AMD): the pool is just unhealthy, re-test after a back-off
+                print(f"[stall] errors {errs}/{attempted}, no quota regime; backing off "
+                      f"{STALL_SLEEP_S // 60} min", flush=True)
+                time.sleep(STALL_SLEEP_S)
+                continue
             nm = next_utc_midnight()
             if (nm - utc_now()).total_seconds() > STALL_SLEEP_S * 3:
                 # early in the UTC day and already broken: retry after a short back-off first
@@ -144,7 +172,7 @@ def run(pass_name: str, model: str, packs_path: Path, quota: int, chunk: int,
 def main() -> int:
     ap = argparse.ArgumentParser(description="P4c: daily-quota-aware bulk driver")
     ap.add_argument("--pass", dest="pass_name", default=PR.BULK_PASS)
-    ap.add_argument("--model", default="deepseek-v4.1-flash-1017-ultrafast")
+    ap.add_argument("--model", default="DeepSeek-V4.1-Flash")
     ap.add_argument("--packs", default=str(PR.PACKS))
     ap.add_argument("--quota", type=int, default=QUOTA_OUT_TOKENS)
     ap.add_argument("--chunk", type=int, default=CHUNK_PACKS)
@@ -159,7 +187,7 @@ def main() -> int:
     if args.glean:
         import p4c_glean as GL
         bulk_model = args.bulk_model or args.model
-        bulk_mode = B.load_modes().get(bulk_model)
+        bulk_mode = PR.load_modes().get(bulk_model)
         if not bulk_mode:
             raise SystemExit(f"no transport mode for the bulk model {bulk_model}")
         job_maker = GL.job_maker(bulk_model, bulk_mode)

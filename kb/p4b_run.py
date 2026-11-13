@@ -159,6 +159,15 @@ def runner_for(pass_name: str, model: str, cap: float) -> R.Runner:
         # output-token-bound anyway (~4.7M/day = ~5.5k packs/day = 3.9/min), so 6/min is enough.
         return R.Runner(pass_name, PROMPT_VERSION, cap, start=1, ceiling=1, rate_per_min=6,
                         pipeline_cap_usd=PIPELINE_CAP, timeout_s=300)
+    if pid == "amd_tokenlab":
+        # AMD Token Lab advertises 60 rpm / 8 concurrent per account; the pool was expanded to 8
+        # accounts (owner update 2026-11-13). Measured ladders: 9/16, 8/16, 7/16 calls succeeded at
+        # 7.5/12/20 rpm, i.e. the ceiling is flat in pacing — the binding limit is the model's shared
+        # concurrency pool, and refusals always arrive as 429 `model_concurrency_rate_limit_exceeded`.
+        # So the win is not a faster rate but more parallel slots plus key rotation across accounts:
+        # every 401/403 re-keys and retries (runner soft-auth), every 429/503 rides the retry ladder.
+        return R.Runner(pass_name, PROMPT_VERSION, cap, start=4, ceiling=6, rate_per_min=6,
+                        pipeline_cap_usd=PIPELINE_CAP, timeout_s=300, attempts=5)
     return R.Runner(pass_name, PROMPT_VERSION, cap, start=8, ceiling=24,
                     pipeline_cap_usd=PIPELINE_CAP, timeout_s=180)
 
@@ -358,7 +367,7 @@ def detect_mode(model: str) -> dict:
     each transport gets a short pause and one retry on 429/5xx before the next one is tried."""
     item = preflight_item(load_items()[0])
     attempts = []
-    pace = 3.0 if provider_of(model).get("id") == "ultrafast" else 1.0
+    pace = 3.0 if provider_of(model).get("id") in ("ultrafast", "amd_tokenlab") else 1.0
     for mode in ("tools", "json_schema", "json_object", "plain"):
         extra = model_extra(mode, PROMPT_CID, model)
         body = None

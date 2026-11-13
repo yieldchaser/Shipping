@@ -48,16 +48,18 @@ OUT = KB.parent / "kb/state/p4c"
 UNION_DIR = OUT / "union"
 KINDS = G.KINDS
 
-ULTRAFAST = "deepseek-v4.1-flash-1017-ultrafast"
+AMD = "DeepSeek-V4.1-Flash"
 GLM = "glm-5.3"
 # (pass, model) in priority order: earlier sources win confidence ties on a duplicate
 SOURCE_SPEC = [
-    ("p4c_bulk", ULTRAFAST),
-    ("p4c_glean", ULTRAFAST),
-    ("p4c_bulk_retry", ULTRAFAST),
+    ("p4c_bulk", AMD),
+    ("p4c_glean", AMD),
+    ("p4c_bulk_retry", AMD),
     ("p4c_esc", GLM),
     ("p4c_glm2", GLM),
 ]
+# pre-amendment bulk model (free Ultrafast tier), kept only so old raws stay addressable by name
+ULTRAFAST = "deepseek-v4.1-flash-1017-ultrafast"
 
 
 def source_mode(pass_name: str, model: str, modes: dict | None = None) -> str:

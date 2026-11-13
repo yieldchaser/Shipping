@@ -26,7 +26,8 @@ sys.path.insert(0, str(KB))
 
 from extract_gates import gate_chunk  # noqa: E402
 from extract_schema import canonicalize, parse_extraction  # noqa: E402
-from p4b_run import load_modes, make_job  # noqa: E402  (identical job keys / prompts as P4b)
+from p4b_run import make_job  # noqa: E402  (identical job keys / prompts as P4b)
+from p4c_run import load_modes  # noqa: E402  (P4c has its own transport map: p4c/modes.json)
 from runner import raw_path  # noqa: E402
 
 ROOT = KB.parent

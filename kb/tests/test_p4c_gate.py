@@ -67,9 +67,9 @@ def stub_raw(monkeypatch, tmp_path, text):
 def test_raw_for_uses_the_runner_job_key(tmp_path, monkeypatch):
     monkeypatch.setattr(R, "RAW", tmp_path / "raw")
     pack = make_pack()
-    path = G.raw_for("p4c_bulk", "deepseek-v4.1-flash-1017-ultrafast", "tools", pack)
+    path = G.raw_for("p4c_bulk", "DeepSeek-V4.1-Flash", "tools", pack)
     from p4b_run import make_job
-    job = make_job("p4c_bulk", "deepseek-v4.1-flash-1017-ultrafast", "tools", pack)
+    job = make_job("p4c_bulk", "DeepSeek-V4.1-Flash", "tools", pack)
     assert path == R.raw_path("p4c_bulk", job["job_key"])
     assert path.name.endswith(".json")
 

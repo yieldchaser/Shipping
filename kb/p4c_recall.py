@@ -36,10 +36,11 @@ PACKS = STATE / "p4c" / "packs.jsonl"
 OUT = STATE / "p4c" / "recall.json"
 AUDIT_SAMPLE = 10
 KINDS = U.KINDS
-DEFAULT_SOURCES = [("p4b_cand", "deepseek-v4.1-flash-1017-ultrafast"),
-                   ("p4c_bulk", "deepseek-v4.1-flash-1017-ultrafast"),
-                   ("p4c_glean", "deepseek-v4.1-flash-1017-ultrafast"),
-                   ("p4c_bulk_retry", "deepseek-v4.1-flash-1017-ultrafast"),
+AMD = "DeepSeek-V4.1-Flash"
+DEFAULT_SOURCES = [("p4b_cand", AMD),
+                   ("p4c_bulk", AMD),
+                   ("p4c_glean", AMD),
+                   ("p4c_bulk_retry", AMD),
                    ("p4c_esc", "glm-5.3"),
                    ("p4c_glm2", "glm-5.3")]
 

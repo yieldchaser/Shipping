@@ -120,7 +120,7 @@ def test_nums_and_attrs_helpers():
 
 
 def test_cmd_run_refuses_unknown_mode(monkeypatch):
-    monkeypatch.setattr(GL.B, "load_modes", lambda: {})
+    monkeypatch.setattr(GL.PR, "load_modes", lambda: {})
     with pytest.raises(SystemExit):
         GL.cmd_run(type("A", (), {"model": "m", "bulk_model": None, "cap": 0.0,
                                   "packs": None, "limit": 0, "shard": 200})())
@@ -135,7 +135,7 @@ def test_cmd_run_calls_run_packs_with_job_maker(monkeypatch):
                 "packs_skipped": 0, "chunks": 1, "chunks_skipped": 0, "cost_usd": 0.0,
                 "wall_s": 0.0}
 
-    monkeypatch.setattr(GL.B, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(GL.PR, "load_modes", lambda: {"m": "tools"})
     monkeypatch.setattr(GL.PR, "run_packs", fake_run)
     rc = GL.main(["--run", "--model", "m", "--cap", "0"])
     assert rc == 0
@@ -146,7 +146,7 @@ def test_cmd_prepare_writes_only_packs_with_a_first_pass(tmp_path, monkeypatch):
     src = tmp_path / "packs.jsonl"
     src.write_text(json.dumps(mk_pack("c1")) + "\n" + json.dumps(mk_pack("c2")) + "\n",
                    encoding="utf-8")
-    monkeypatch.setattr(GL.B, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(GL.PR, "load_modes", lambda: {"m": "tools"})
     monkeypatch.setattr(GL, "first_pass_lines",
                         lambda pack, model, mode: ["x"] if pack["chunk_ids"] == ["c1"] else [])
     out = tmp_path / "packs_glean.jsonl"
@@ -158,7 +158,7 @@ def test_cmd_prepare_writes_only_packs_with_a_first_pass(tmp_path, monkeypatch):
 
 
 def test_cmd_prepare_refuses_unknown_mode(tmp_path, monkeypatch):
-    monkeypatch.setattr(GL.B, "load_modes", lambda: {})
+    monkeypatch.setattr(GL.PR, "load_modes", lambda: {})
     args = type("A", (), {"model": "m", "bulk_model": None, "packs": str(tmp_path / "p.jsonl"),
                           "out_packs": str(tmp_path / "o.jsonl")})()
     with pytest.raises(SystemExit):

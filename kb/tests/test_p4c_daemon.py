@@ -28,8 +28,8 @@ def test_total_packs_counts_non_blank_lines(tmp_path):
 
 
 def test_run_stops_when_every_pack_has_a_raw(tmp_path, monkeypatch):
-    monkeypatch.setattr(D.B, "load_modes", lambda: {"m": "tools"})
-    monkeypatch.setattr(D, "done_n", lambda pass_name: 2)
+    monkeypatch.setattr(D.PR, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(D, "done_n", lambda pass_name, model="": 2)
     monkeypatch.setattr(D.PR, "run_packs", lambda *a, **k: pytest.fail("should not run"))
     assert D.run("p", "m", packs_file(tmp_path), 10, 5, 200, 5.0) == 0
 
@@ -44,11 +44,11 @@ def test_run_forwards_job_maker_and_counts_errors(tmp_path, monkeypatch):
 
     seen_done = {"n": 0}
 
-    def done_n(pass_name):
+    def done_n(pass_name, model=""):
         seen_done["n"] += 1
         return 0 if seen_done["n"] <= 2 else 2   # 1st call = [start] banner, 2nd = loop head
 
-    monkeypatch.setattr(D.B, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(D.PR, "load_modes", lambda: {"m": "tools"})
     monkeypatch.setattr(D, "done_n", done_n)
     monkeypatch.setattr(D, "day_out_tokens", lambda model: 0)
     monkeypatch.setattr(D, "ledger_errors", lambda pass_name, since: 0)
@@ -73,10 +73,10 @@ def test_run_advances_cursor_over_fully_cached_windows(tmp_path, monkeypatch):
 
     done = {"n": 0}
 
-    def done_n(pass_name):
+    def done_n(pass_name, model=""):
         return 0 if len(seen_starts) < 2 else 500
 
-    monkeypatch.setattr(D.B, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(D.PR, "load_modes", lambda: {"m": "tools"})
     monkeypatch.setattr(D, "done_n", done_n)
     monkeypatch.setattr(D, "day_out_tokens", lambda model: 0)
     monkeypatch.setattr(D, "ledger_errors", lambda pass_name, since: 0)
@@ -85,8 +85,59 @@ def test_run_advances_cursor_over_fully_cached_windows(tmp_path, monkeypatch):
     assert seen_starts == [0, 200]
 
 
+def test_done_n_is_model_scoped(tmp_path, monkeypatch):
+    """Regression: the raw dir also holds the earlier free-Ultrafast raws of the same pass, so a
+    directory count made the AMD run look finished before it had sent a call. Count ledger rows."""
+    rows = [(f"k{i}", "p4c_bulk", "old-free-model", "ok") for i in range(3)]
+    rows += [("k4", "p4c_bulk", "AMD", "ok"), ("k5", "p4c_bulk", "AMD", "error")]
+
+    class Con:
+        def __init__(self):
+            self.sql, self.params = "", []
+
+        def execute(self, sql, params):
+            self.sql, self.params = sql, list(params)
+            wanted, model = params[0], (params[1] if len(params) > 1 else "")
+            self.n = len({r[0] for r in rows
+                          if r[1] == wanted and r[3] == "ok" and (not model or r[2] == model)})
+            return self
+
+        def fetchone(self):
+            return (self.n,)
+
+        def close(self):
+            pass
+
+    monkeypatch.setattr(D.R, "connect", lambda: Con())
+    assert D.done_n("p4c_bulk") == 4              # all models: old free raws + the AMD one
+    assert D.done_n("p4c_bulk", "AMD") == 1       # only this model
+
+
+def test_run_backs_off_when_pool_unhealthy_without_quota(tmp_path, monkeypatch):
+    """`--quota 0` (AMD pool) must back off rather than sleep to UTC midnight."""
+    slept, ran = [], {"n": 0}
+
+    def fake_run_packs(pass_name, model, cap, packs_path=None, limit=0, shard=200,
+                       job_maker=None, start=0):
+        ran["n"] += 1
+        if ran["n"] >= 3:
+            raise SystemExit(0)          # leave the loop once the branch under test has run
+        return {"packs": 10, "chunks": 20, "start_next": 10}
+
+    monkeypatch.setattr(D.PR, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(D, "done_n", lambda pass_name, model="": 0)
+    monkeypatch.setattr(D, "day_out_tokens", lambda model: 0)
+    monkeypatch.setattr(D, "ledger_errors", lambda pass_name, since: 9)   # 90% broken
+    monkeypatch.setattr(D, "sleep_until", lambda ts: pytest.fail("must not wait for UTC midnight"))
+    monkeypatch.setattr(D.time, "sleep", lambda s: slept.append(s))
+    monkeypatch.setattr(D.PR, "run_packs", fake_run_packs)
+    with pytest.raises(SystemExit):
+        D.run("p", "m", packs_file(tmp_path, n=200), 0, 10, 200, 5.0)
+    assert slept and slept[0] == D.STALL_SLEEP_S
+
+
 def test_main_glean_refuses_without_pack_list(tmp_path, monkeypatch):
-    monkeypatch.setattr(D.B, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(D.PR, "load_modes", lambda: {"m": "tools"})
     monkeypatch.setattr(GL, "GLEAN_PACKS", tmp_path / "missing.jsonl")
     monkeypatch.setattr(D, "run", lambda *a, **k: pytest.fail("should not run"))
     monkeypatch.setattr(sys, "argv", ["p4c_daemon.py", "--glean", "--model", "m"])
@@ -103,7 +154,7 @@ def test_main_glean_passes_job_maker(tmp_path, monkeypatch):
         seen.update(pass_name=pass_name, packs_path=packs_path, has_maker=job_maker is not None)
         return 0
 
-    monkeypatch.setattr(D.B, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(D.PR, "load_modes", lambda: {"m": "tools"})
     monkeypatch.setattr(GL, "GLEAN_PACKS", packs)
     monkeypatch.setattr(D, "run", fake_run)
     monkeypatch.setattr(sys, "argv", ["p4c_daemon.py", "--glean", "--model", "m"])
@@ -118,7 +169,7 @@ def test_main_bulk_defaults_to_the_full_pack_list(monkeypatch):
         seen.update(pass_name=pass_name, has_maker=job_maker is not None)
         return 0
 
-    monkeypatch.setattr(D.B, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(D.PR, "load_modes", lambda: {"m": "tools"})
     monkeypatch.setattr(D, "run", fake_run)
     monkeypatch.setattr(sys, "argv", ["p4c_daemon.py", "--model", "m"])
     assert D.main() == 0

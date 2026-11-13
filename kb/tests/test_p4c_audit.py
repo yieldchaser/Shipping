@@ -26,11 +26,12 @@ def gated_row(cid="c1", n_facts=2):
 
 
 def test_model_family_and_rule():
+    assert A.model_family("DeepSeek-V4.1-Flash") == "deepseek"
     assert A.model_family("deepseek-v4.1-flash-1017-ultrafast") == "deepseek"
     assert A.model_family("glm-5.3") == "glm"
     assert A.model_family("nvidia/nemotron-3-ultra-550b-a55b") == "nvidia"
-    assert A.judge_family_ok("glm-5.3", "deepseek-v4.1-flash-1017-ultrafast")
-    assert not A.judge_family_ok("deepseek-v4-flash", "deepseek-v4.1-flash-1017-ultrafast")
+    assert A.judge_family_ok("glm-5.3", "DeepSeek-V4.1-Flash")
+    assert not A.judge_family_ok("deepseek-v4-flash", "DeepSeek-V4.1-Flash")
 
 
 def test_flat_records_one_entry_per_record():

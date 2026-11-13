@@ -131,7 +131,7 @@ def cmd_prepare(args) -> int:
     here and reported - they stay in the rule-6 ladder, not in this pass.
     """
     bulk_model = args.bulk_model or args.model
-    bulk_mode = B.load_modes().get(bulk_model)
+    bulk_mode = PR.load_modes().get(bulk_model)
     if not bulk_mode:
         raise SystemExit(f"no transport mode for the bulk model {bulk_model}")
     packs_path = Path(args.packs) if args.packs else PR.PACKS
@@ -158,11 +158,11 @@ def cmd_prepare(args) -> int:
 
 def cmd_run(args) -> int:
     model = args.model
-    mode = B.load_modes().get(model)
+    mode = PR.load_modes().get(model)
     if not mode:
         raise SystemExit(f"no transport mode for {model}: rerun the P4c transport preflight")
     bulk_model = args.bulk_model or model
-    bulk_mode = B.load_modes().get(bulk_model)
+    bulk_mode = PR.load_modes().get(bulk_model)
     if not bulk_mode:
         raise SystemExit(f"no transport mode for the bulk model {bulk_model}")
     cap = args.cap if args.cap is not None else max(0.0, B.PIPELINE_CAP - R.spent())
@@ -180,7 +180,7 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--run", action="store_true")
     ap.add_argument("--prepare", action="store_true",
                     help="write --out-packs: the packs whose bulk raw yields a first-pass list")
-    ap.add_argument("--model", default="deepseek-v4.1-flash-1017-ultrafast")
+    ap.add_argument("--model", default="DeepSeek-V4.1-Flash")
     ap.add_argument("--bulk-model", default=None, help="model whose raws seed <first_pass_records>")
     ap.add_argument("--packs", default=None)
     ap.add_argument("--out-packs", default=str(GLEAN_PACKS))

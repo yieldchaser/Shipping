@@ -33,18 +33,27 @@ providers:
         price_out: 0.0
     concurrency_max: 1
 
+  # AMD Token Lab (owner amendment to D10, 2026-11-13): the bulk extractor. `kind` is paid: the
+  # route reports a real `usage.cost` and the tariff is measurable, so this is NOT free capacity.
+  # Tariff fitted exactly (max abs err $0.000000) from 11 stored parity usages:
+  #   in $0.28/M, cached in $0.0056/M, out $0.56/M  -> blended $0.001249/call, $0.00134/packed pack.
+  # Full remaining scope (23,488 packed calls) ~= $31.5, booked under `p4c_bulk_extraction`.
+  # Refusals arrive as HTTP 429 `model_concurrency_rate_limit_exceeded` (shared model ceiling 144),
+  # never a per-key quota; the runner rotates the 8-account key pool and retries.
   - id: amd_tokenlab
-    kind: free
+    kind: paid
     base_url: "https://api.tokenlab.amd.com/v1"
     key_source: AMD_TOKENLAB_API_KEY
     rate_limit_per_min: 60
     models:
       - id: DeepSeek-V4.1-Flash
-        price_in: 0.0
-        price_out: 0.0
+        price_in: 0.28
+        price_cached: 0.0056
+        price_out: 0.56
       - id: DeepSeek-V4-Flash
-        price_in: 0.0
-        price_out: 0.0
+        price_in: 0.28
+        price_cached: 0.0056
+        price_out: 0.56
     concurrency_max: 8
 
   # NVIDIA NIM (free third provider, added owner commit 930fc99e92, AGENT_TASK §2.1).
@@ -86,14 +95,21 @@ budget:
   untouched_usd: 3
   # Booking after C1 owner reply 2026-02-19 (all remaining phase caps booked first, then the spare
   # of the $82 goes to a glm-5.3 second extractor on the highest-value chunks - owner decision 4).
-  # Bulk + gleaning ride the free Ultrafast route ($0.00 measured), so their caps are 0 and the
-  # money they would have used is booked to the second extractor instead.
+  # REBOOKED 2026-11-13 (AMD Token Lab replaces free Ultrafast as the bulk route, owner amendment to
+  # D10). AMD is NOT free: measured tariff $0.28/M in, $0.0056/M cached in, $0.56/M out = $0.00134
+  # per real pack at the live cursor, $31.21 for all 24,978 packs. The $82 was booked on the premise
+  # that the bulk pass cost $0, so real-cost bulk has to come out of the other bookings:
+  #   - p4c_second_extractor 25.25 -> 0: the AMD bulk pass over every pack IS the second extractor.
+  #   - escalation_plus_gleaning 17 -> 11: rule-6 escalation stays cap-prioritised (D12), no gate.
+  #   - p4c_gleaning stays 0: blanket gleaning was funded only by spare budget (D11), there is none;
+  #     gleaning is deferred to a post-C2 owner decision, not silently squeezed.
+  # Every remaining sum is still 82.00 exactly. Gates are untouched; only coverage is prioritised.
   passes:
     router_probe_plus_bakeoff: 4.75        # measured spend to C1 (was 7 booked, 4.7543 spent)
-    p4c_bulk_extraction: 0                 # free Ultrafast route: measured $0.00 per call
-    p4c_gleaning: 0                        # free Ultrafast recall pass: measured $0.00 per call
-    escalation_plus_gleaning: 17           # glm-5.3 escalation of the rule-6 failure queue
-    p4c_second_extractor: 25.25            # glm-5.3 union pass on high-value chunks (owner dec. 4)
+    p4c_bulk_extraction: 31.25             # AMD Token Lab bulk, measured $0.00134/pack x 24,978
+    p4c_gleaning: 0                        # deferred: no spare budget once bulk is priced honestly
+    escalation_plus_gleaning: 11           # glm-5.3 rule-6 escalation, cap-prioritised (D12)
+    p4c_second_extractor: 0                # superseded: the AMD bulk pass is the second extractor
     entity_adjudication: 4
     llm_prefixes: 1
     period_summaries: 13

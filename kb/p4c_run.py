@@ -123,7 +123,9 @@ def run_packs(pass_name: str, model: str, cap: float, packs_path: Path | None = 
     modes = load_modes()
     mode = modes.get(model)
     if not mode:
-        raise SystemExit(f"no transport mode for {model}: run the P4b transport preflight first")
+        raise SystemExit(
+            f"no transport mode for {model} in {MODE_FILE}: run the P4c transport preflight first "
+            f"(python -m kb.p4c_preflight)")
     runner = B.runner_for(pass_name, model, cap)
     st = {"pass": pass_name, "model": model, "mode": mode, "packs": 0, "packs_skipped": 0,
           "chunks": 0, "chunks_skipped": 0, "wall_s": 0.0, "cost_usd": 0.0,

@@ -245,7 +245,10 @@ def test_analyse_escalates_on_malformed(db, monkeypatch):
     assert rec["model"] == P.A.ESCALATION_MODEL
 
 
-def test_analyse_not_in_data_when_thin(db):
+def test_analyse_not_in_data_when_thin(db, monkeypatch):
+    # Hermetic: `book_rules` -> `T.search` reaches the live reranker, which is flaky by nature
+    # (503/429) and made this assertion depend on the network instead of on the code under test.
+    monkeypatch.setattr(P.T, "search", lambda *a, **k: {"results": []})
     rec = P.analyse("q", "lng", date(2026, 1, 1), db=db)
     assert rec["status"] == "not_in_data" and rec["answer"] == P.A.NOT_IN_DATA
 

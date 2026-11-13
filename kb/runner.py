@@ -16,6 +16,10 @@ Guarantees:
     that model and reports it.
   - Concurrency: starts at `start` workers, ramps while the error rate stays under 2% (cap `ceiling`),
     exponential backoff with jitter on 429/5xx. Free NIM capacity is used before paid (plan §7.5).
+  - Soft auth failures (owner directive 2026-11-13, multi-key free pools): on 401/402/403 the runner
+    retries, and `llm_runner.load_key` rotates to the next key in the pool, instead of ending the
+    shard. Only when every attempt in the ladder failed for that reason does the job settle as
+    `status="fatal"` — a single-key paid provider still stops at §6 on its first refused call.
 
 Keys are never printed: `llm_runner.load_key` returns them in-process only.
 """
@@ -94,6 +98,7 @@ def price_table() -> dict:
     for prov in (cfg.get("providers") or []):
         for spec in (prov.get("models") or []):
             out[spec["id"]] = {"in": spec.get("price_in"), "out": spec.get("price_out"),
+                               "cached": spec.get("price_cached"),
                                "provider": prov.get("id"), "kind": prov.get("kind")}
     return out
 
@@ -114,7 +119,15 @@ def cost_usd(model: str, usage: dict | None) -> float:
     pin, pout = spec.get("in"), spec.get("out")
     if not isinstance(pin, (int, float)) or not isinstance(pout, (int, float)):
         return 0.0
-    return (usage.get("prompt_tokens", 0) * pin + usage.get("completion_tokens", 0) * pout) / 1e6
+    ptok = float(usage.get("prompt_tokens", 0) or 0)
+    otok = float(usage.get("completion_tokens", 0) or 0)
+    ctok = float(usage.get("cached_tokens", 0) or 0)
+    pcached = spec.get("cached")
+    if isinstance(pcached, (int, float)) and 0 < ctok <= ptok:
+        # Cache-aware tariff: cached prefix tokens are billed at the discounted cached rate
+        # (AMD Token Lab: in $0.28/M vs cached $0.0056/M). Only used when the config records one.
+        return ((ptok - ctok) * pin + ctok * pcached + otok * pout) / 1e6
+    return (ptok * pin + otok * pout) / 1e6
 
 
 def spent(passes: list[str] | None = None, prefix: str | None = None) -> float:
@@ -153,7 +166,7 @@ class Runner:
 
     def __init__(self, pass_name: str, prompt_version: str, cap_usd: float,
                  start: int = 8, ceiling: int = 48, rate_per_min: int | None = None,
-                 pipeline_cap_usd: float = 82.0, timeout_s: int = 180):
+                 pipeline_cap_usd: float = 82.0, timeout_s: int = 180, attempts: int = 3):
         self.pass_name = pass_name
         self.prompt_version = prompt_version
         self.cap_usd = float(cap_usd)
@@ -162,6 +175,7 @@ class Runner:
         self.ceiling = max(self.start, ceiling)
         self.rate_per_min = rate_per_min
         self.timeout_s = timeout_s
+        self.attempts = max(1, int(attempts))
         self.con = connect()
         self.prices = price_table()
         self.drift: dict[str, str] = {}
@@ -244,7 +258,9 @@ class Runner:
                     "latency_ms": cached.get("latency_ms", 0), "attempts": cached.get("attempts", 1),
                     "model_returned": cached.get("model_returned")}
         last = None
-        for attempt in range(1, 4):
+        soft_auth = LR.key_pool_size("auto", job["model"]) > 1
+        n_att = max(2, self.attempts) if soft_auth else self.attempts
+        for attempt in range(1, n_att + 1):
             t0 = time.time()
             try:
                 body = LR.chat(job["model"], job["messages"], max_tokens=job.get("max_tokens", 2500),
@@ -284,10 +300,16 @@ class Runner:
             except urllib.error.HTTPError as exc:
                 last = f"HTTP {exc.code}"
                 if exc.code in (401, 402, 403):
-                    # §6 stop condition: no credit / key refused — report, do not hammer
-                    self._record(job, status="fatal", attempts=attempt, error=last)
-                    self.stats["errors"] += 1
-                    return {"status": "fatal", "error": last}
+                    # §6 stop condition: no credit / key refused. A single-key provider stops here; a
+                    # multi-account free pool (owner directive 2026-11-13) is a soft failure: the next
+                    # attempt runs through `load_key` again, which rotates to the next key in the pool.
+                    if not soft_auth:
+                        self._record(job, status="fatal", attempts=attempt, error=last)
+                        self.stats["errors"] += 1
+                        return {"status": "fatal", "error": last}
+                    self.stats["retries"] += 1
+                    time.sleep(min(10, (2 ** attempt) * 0.5) + random.random())
+                    continue
                 if exc.code == 429 or exc.code >= 500:
                     self.stats["retries"] += 1
                     time.sleep(min(30, (2 ** attempt) * 0.5) + random.random())
@@ -300,8 +322,9 @@ class Runner:
                 self.stats["retries"] += 1
                 time.sleep(min(30, (2 ** attempt) * 0.5) + random.random())
         self.stats["errors"] += 1
-        self._record(job, status="error", attempts=3, error=last)
-        return {"status": "error", "error": last}
+        final = "fatal" if soft_auth and (last or "").startswith("HTTP 40") else "error"
+        self._record(job, status=final, attempts=n_att, error=last)
+        return {"status": final, "error": last}
 
     # --- batch ----------------------------------------------------------------------------
     def run(self, jobs: list[dict]) -> dict[str, dict]:

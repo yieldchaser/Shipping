@@ -133,31 +133,37 @@ certify precision above its CI, which matters for the 0.92 gate; three candidate
 
 | role | model | family | why | cost basis |
 |---|---|---|---|---|
-| bulk extraction | `deepseek-v4.1-flash-1017-ultrafast` | deepseek | highest candidate F1 {sel['f1']:.4f}, precision {sel['precision']:.4f}, call success {sel['call_success_rate']:.2f}, free tier | $0.00 |
-| escalation (gate-failing chunks) | proposed: free NIM `nvidia/nemotron-3-ultra-550b-a55b`, laddered after a free same-model retry | nvidia | keeps escalation inside the $17 line; plan §10.2's "ref with higher agreement" would be `glm-5.3` at $0.0197/chunk = ${0.019673 * 86607 * 0.3:.0f} worst case for 30% escalation, which busts the cap | $0.00 |
-| judge / auditor (P4c audit + failure queue) | proposed: `glm-5.3` | glm (≠ deepseek extractor) | satisfies `judge_family_differs_from_extractor`; judged 285 gold records at P4b; per-record calls ≈ $0.002 | ≈ $5 for ~1.9k judged records |
+| bulk extraction | `DeepSeek-V4.1-Flash` on the 8-account AMD Token Lab pool (owner amendment 2026-11-13 to the ultrafast pick below) | deepseek | same 1017 weights as the F1 leader `deepseek-v4.1-flash-1017-ultrafast` (P4b F1 {sel['f1']:.4f}, precision {sel['precision']:.4f}, call success {sel['call_success_rate']:.2f}); Ultrafast excluded as congested | **paid**: $0.00134/accepted pack ($0.28/M in, $0.0056/M cached, $0.56/M out); ≈$31.5 booked at $31.25 |
+| escalation (gate-failing chunks) | approved: `glm-5.3`, one free same-model retry first, ordered by doc value | glm | owner decision 3; kept inside the escalation line by cap-prioritised partial coverage (D12); plan §10.2's "ref with higher agreement" is the same model at $0.0197/chunk = ${0.019673 * 86607 * 0.3:.0f} worst case for 30% escalation, which busts the cap | $11 booked |
+| judge / auditor (P4c audit + failure queue) | approved: `glm-5.3` | glm (≠ deepseek extractor) | satisfies `judge_family_differs_from_extractor`; judged 285 gold records at P4b; per-record calls ≈ $0.002 | ≈ $5 for ~1.9k judged records |
 | label adjudicator (already used at P4b) | `nvidia/nemotron-3-ultra-550b-a55b` | nvidia | third family, not a reference, free | $0.05 spent |
 
-Open choices for the owner: (i) escalation as proposed (free NIM + free retry) versus plan-§10.2
-literal `glm-5.3` at a cap that does not fit; (ii) judge `glm-5.3` (paid, strong) vs free
-`nvidia/nemotron-3-ultra-550b-a55b` / `gpt-oss-120b` (weaker, and gpt-oss precision 0.94 at 157
-judged records but free-tier p95 latency is long). Whatever you pick, the judge stays a different
-family from the extractor.
+Owner rulings on the two open choices: (i) escalation = `glm-5.3` (not nemotron), one free retry
+first, cap-prioritised inside the escalation line; (ii) judge = `glm-5.3` (paid, strong). The judge
+stays a different family from the extractor. Owner ruling 4 (the ~$40 glm-5.3 second extractor) is
+**booked at $0**: the AMD bulk pass over every pack now IS the second extractor, and the honest AMD
+tariff consumes the budget that ruling 4 was premised on being spare.
 
 ## 3. Projected full-build cost
 
 Bulk pass shape on the frozen prose-only scope (86,607 chunks, 16,945 docs): {call:,} packed calls,
 {out_tok:,} output tokens, {days:.2f} wall days on the free daily cap ({feas['free_tier_daily_out_cap']:,}
-output tok/day). Three run shapes, not self-approved:
+output tok/day) **if the route were a free daily cap — the chosen AMD route has no daily cap; it has
+a shared concurrency ceiling of 144 and a real per-token tariff**. Three run shapes, not self-approved:
 
 | shape | bulk cost | wall time | total booked incl. spent ${spend['total_usd']:.2f} | fits $82 cap? |
 |---|---|---|---|---|
-| (a) free `deepseek-v4.1-flash-1017-ultrafast` alone | $0.00 | {days:.2f} days | ${spend['total_usd']:.2f} + remaining phase budgets ($35) = ${spend['total_usd'] + 35:.2f} | yes |
+| (a) `DeepSeek-V4.1-Flash` on the 8-account AMD Token Lab pool, ultrafast excluded | **${31.25:.2f} booked** ($0.00134/pack measured) | ~{days:.2f} days at free-tier pacing; ~2 days at measured AMD concurrency | ${spend['total_usd'] + 35:.2f} | yes, after rebooking ruling 4 to $0 |
 | (b) paid `deepseek-v4-flash` alone | ${feas['paid_overflow']['deepseek-v4-flash']['projected_full_scope_usd']:.2f} | hours | ${spend['total_usd'] + feas['paid_overflow']['deepseek-v4-flash']['projected_full_scope_usd'] + 35:.2f} | no |
-| (c) mixed one-day pool: free primary + flash overflow ({opt['paid_chunk_share'] * 100:.1f}% of chunks paid) | ${opt['paid_cost_usd']:.2f} | {opt['wall_days']:.1f} day | ${opt['total_with_spent_usd']:.2f} + remaining phase budgets = ${opt['total_with_spent_usd'] + 35:.2f} | no (bulk alone fits, the rest of the build does not) |
+| (c) mixed one-day pool: primary + flash overflow ({opt['paid_chunk_share'] * 100:.1f}% of chunks paid) | ${opt['paid_cost_usd']:.2f} | {opt['wall_days']:.1f} day | ${opt['total_with_spent_usd']:.2f} + remaining phase budgets = ${opt['total_with_spent_usd'] + 35:.2f} | no (bulk alone fits, the rest of the build does not) |
 
-So (a) is the only shape that fits the frozen $82 cap; it costs {days:.2f} days of wall time. (c)
-would need either a cap raise of ~$15 or dropping later-phase budgets. (b) additionally lands at F1
+So (a) is the only shape that fits the frozen $82 cap. The honest correction the owner should note:
+this table was drafted while the bulk route was believed to be free; AMD Token Lab reports a real
+`usage.cost`, so the $31.25 line is now a **measured** charge, not zero. It is funded by rebooking the
+owner's ruling-4 second extractor to $0 (the AMD pass IS that second extractor) and trimming
+`escalation_plus_gleaning` from $17 to $11 — an amendment to D10's provider choice that lowers no
+gate. (c) would need either a cap raise of ~$15 or dropping later-phase budgets. (b) additionally
+lands at F1
 {feas['paid_overflow']['deepseek-v4-flash']['f1']:.4f} (chosen minus {sel['f1'] - feas['paid_overflow']['deepseek-v4-flash']['f1']:.3f})
 and precision {feas['paid_overflow']['deepseek-v4-flash']['precision']:.4f}, under the 0.92 gate, so it is
 worse on quality too. Remaining pipeline budget right now: ${feas['remaining_pipeline_usd']:.2f}.

@@ -12,7 +12,7 @@ Design note (5 lines):
    tool that accepts a window, never by asking the model to remember.
 4. Declared gaps (`gaps` tool / v_gaps) are surfaced in the answer when they cover the
    window, so a refusal can name what is missing instead of inventing.
-5. Default model is the bulk model (free ultrafast); one glm-5.3 escalation is allowed
+5. Default model is the bulk model (free AMD Token Lab pool); one glm-5.3 escalation is allowed
    only when the number post-check fails and the pipeline budget still has room.
 """
 from __future__ import annotations
@@ -33,7 +33,8 @@ ROOT = Path(__file__).resolve().parents[1]
 P7_DIR = ROOT / "kb/state/p7"
 CALL_LOG = P7_DIR / "calls.jsonl"
 
-DEFAULT_MODEL = "deepseek-v4.1-flash-1017-ultrafast"
+DEFAULT_MODEL = "DeepSeek-V4.1-Flash"  # AMD Token Lab bulk model (owner amendment to D10; PAID,
+# measured $0.28/M in, $0.0056/M cached, $0.56/M out -- not a free tier)
 ESCALATION_MODEL = "glm-5.3"
 MAX_TOOL_CALLS = 4
 MAX_ANSWER_CHARS = 1200

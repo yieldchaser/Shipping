@@ -44,21 +44,30 @@ _PROVIDER_CACHE: dict[str, dict] | None = None
 
 
 def _provider_spec(model: str) -> dict | None:
-    """The kb/config.yaml provider block that owns `model`, if any (base_url / kind / key name)."""
+    """The kb/config.yaml provider block that owns `model`, if any (base_url / kind / key name).
+
+    The cache must be published atomically: the runner calls this from worker threads, and a
+    half-built cache would make a provider look unknown. That is not a cosmetic race — `load_key`
+    would then fall through to the router key and send it to another provider's base_url, and
+    `key_pool_size` would report 1, turning a soft key rotation into a fatal §6 stop."""
     global _PROVIDER_CACHE
-    if _PROVIDER_CACHE is None:
-        _PROVIDER_CACHE = {}
+    cache = _PROVIDER_CACHE
+    if cache is None:
+        built: dict[str, dict] = {}
         try:
             if yaml is not None and CONFIG.exists():
                 cfg = yaml.safe_load(CONFIG.read_text(encoding="utf-8")) or {}
                 for prov in cfg.get("providers") or []:
                     for spec in prov.get("models") or []:
-                        _PROVIDER_CACHE[spec["id"]] = {"id": prov.get("id"), "kind": prov.get("kind"),
-                                                       "base_url": prov.get("base_url"),
-                                                       "key_source": prov.get("key_source")}
+                        built[spec["id"]] = {"id": prov.get("id"), "kind": prov.get("kind"),
+                                             "base_url": prov.get("base_url"),
+                                             "key_source": prov.get("key_source")}
         except Exception:
-            _PROVIDER_CACHE = {}
-    return _PROVIDER_CACHE.get(model)
+            built = {}
+        _PROVIDER_CACHE = cache = built
+    if cache is None:
+        return None
+    return cache.get(model)
 
 
 def _read_credentials() -> dict:
@@ -137,6 +146,25 @@ def load_key(provider: str = "router", model: str = "") -> str:
         if k:
             return k
     raise NoKeyError("no router key: set ROUTER_API_KEY or refs.*_API_KEY in ~/.dsh/.credentials.yaml")
+
+
+def key_pool_size(provider: str = "auto", model: str = "") -> int:
+    """How many credentials `load_key` can rotate through for this target (1 = single key).
+
+    Used by `runner` to decide whether an auth failure is fatal (§6: one refused key = stop) or
+    soft (a multi-account free pool: re-key and retry). Never returns key material."""
+    spec = _provider_spec(model)
+    if provider == "auto" and spec:
+        provider = spec.get("id") or provider
+    if provider == "nim" or (provider == "auto" and is_nim_model(model)):
+        return 1
+    if spec and spec.get("key_source"):
+        ks = spec["key_source"]
+        n = sum(1 for i in range(1, 10) if _ref(f"{ks}_{i}"))
+        if n:
+            return n
+        return 1
+    return 1
 
 
 def base_url(model: str = "") -> str:

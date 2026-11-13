@@ -14,7 +14,7 @@ Live run status. Real spend read from `http://127.0.0.1:4100/stats`.
 | P4a | done | PASS (**recall@20 0.900** ≥ 0.85, 180/200; fused-only pre-rerank 0.815; $0 spend) | commit (this phase) |
 | gold | done | PASS (250/250 items, all 8 strata on target, 250/250 re-verified from DB, seed 2888775339, $0) | commit (this phase) |
 | P4b | done | **PASS** (120 gold chunks / 29 packed calls; chosen `deepseek-v4.1-flash-1017-ultrafast` P 0.922 R 0.536 F1 0.678; 5/5 `gates.yaml` rows pass; $4.75 total) | checkpoint C1 now |
-| P4c | **running** (free bulk pass, resumable daemon) | — | bulk 382/24,978 packs done; then glean → union → precision gate → escalation ladder ($17) → glm-5.3 second extractor ($25.25) → audit/recall/report |
+| P4c | **running** (AMD Token Lab bulk pass, resumable daemon) | — | owner amendment 2026-11-13 (Amendment 1 in `C1_APPROVED.md`): bulk extractor moved off congested Ultrafast to the **8-account AMD Token Lab pool** (`DeepSeek-V4.1-Flash`, fallback `DeepSeek-V4-Flash`). AMD is **paid**, not free: measured $0.28/M in, $0.0056/M cached, $0.56/M out = $0.00134/accepted pack ⇒ ~$31.5 for the remaining 23,488 packs, booked at $31.25. Transport parity vs P4b scorer PASS at 0.92. Then union → precision gate → escalation ladder ($11, D12 cap-prioritised) → audit/recall/report. Gleaning and the glm-5.3 second extractor are booked at $0 and deferred to a post-C2 owner decision |
 | P5 | scaffolded (code + 20 tests, `5e720111cb` chain) | — | gated on P4c PASS; tables `edge`/`event`/`record_txn` still empty |
 | P6 | scaffolded (code + 28 tests) | — | gated on P5 |
 | P7 | scaffolded (tools/ask/eval/analyst/discovery/rubric/report, 98 tests, `edc962ad70`) | — | gated on P5+P6; checkpoint C2 after |
@@ -43,12 +43,44 @@ adjudication $0.053. Free tiers (Ultrafast, NIM) carried 1,464 of the 2,240 call
 Gateway `/stats` after P4b: enclave (agent spine) $66.04/66.00 unchanged -- no paid agent calls;
 Ultrafast output today 1,268,319/4,800,000 tokens.
 
-Live pipeline spend 2026-11-12T22:55Z: **$4.7543** of $82 (`kb/state/ledger.sqlite`, all passes).
-Read the counter correctly: `http://127.0.0.1:4100/stats` counts **agent-spine** calls only
-(`agent_gateway_usage.jsonl`, prompt >12k tokens/call); extraction calls go straight to
-`ultrafast.trytokenfactory.dev`, so the gateway's `ultrafast_output_today` (3.03M/4.8M) is the
-agent's own free-tier budget, not the pipeline's. Enclave cap still exhausted at $66.0408/66.00, so
-the agent spine itself runs on the same free tier -- keep agent turns lean while the bulk pass runs.
+Live pipeline spend 2026-11-13T22:15Z: read it from the ledger, not from this file —
+`kb/state/ledger.sqlite` is the authority (sum `cost_usd` over all passes, or the query in the AMD
+amendment section below). At the last measurement: **$4.7680** ledger-measured for all passes up to
+the AMD cut-over, plus a small amount of live AMD bulk spend; against the $82 cap that leaves ≈$77.2.
+
+Read the gateway counter correctly: `http://127.0.0.1:4100/stats` counts **agent-spine** calls only
+(`agent_gateway_usage.jsonl`, prompt >12k tokens/call). **Extraction calls bypass the gateway
+entirely** — both the old Ultrafast route and the current AMD Token Lab route — so pipeline bulk spend
+never appears there and the gateway's 76 USD agent cap is untouched by bulk. Do not read the gateway's
+per-day token line as the pipeline's bulk budget. Enclave cap still exhausted at $66.0408/66.00, so the
+agent spine itself runs on the free tier -- keep agent turns lean while the bulk pass runs.
+
+## AMD amendment (owner, 2026-11-13) — measured route facts
+
+`kb/reports/C1_APPROVED.md` "Amendment 1" is the record of authority; this section is the live
+measurement behind it. Gates are unchanged by the amendment — only the provider changed.
+
+| fact | measured value |
+|---|---|
+| provider | `amd_tokenlab`, base `https://api.tokenlab.amd.com/v1`, `kind: paid` |
+| models | `DeepSeek-V4.1-Flash` (`tools`), fallback `DeepSeek-V4-Flash` (`json_object`) |
+| key pool | **8 verified accounts** `AMD_TOKENLAB_API_KEY_1..8`, all individually valid, 160 RPM aggregate |
+| tariff | in **$0.28/M**, cached in **$0.0056/M**, out **$0.56/M** (NOT free) |
+| fit quality | exact (max abs err $0.000000) over 11 stored parity usages; replicated in code to $0.000000000 |
+| unit cost | **$0.001249/call**, **$0.00134 per accepted pack** at real pack depth |
+| projection | 23,488 packs remaining ≈ **$29.35**; all 24,978 ≈ **$31.21** (booked $31.25) |
+| refusal mode | uniform `HTTP 429` `model_concurrency_rate_limit_exceeded` — **model-wide ceiling 144**, not per-key quota |
+| acceptance rate | ≈0.56 ok/call, flat in pacing (8 s/5 s/3 s rungs 9/16, 9/16, 7/16) ⇒ retries, not pacing |
+| auth errors | 48-call per-key probe (8 calls × 6 keys): **zero 401/403**; a lone transient 401 is soft, rotates key, never fatal |
+| throughput shape | 8.1 s/pack wall at concurrency; gate drop rate 0.0; 5.6 records per accepted pack; 581 out tok per accepted pack |
+
+Soft-auth hardening (this round): `_provider_spec` published its config cache non-atomically, so a
+concurrent worker could observe a half-built cache — the model then looked like an unknown provider
+(`key_pool_size` returned 1, turning a transient 401 into a fatal §6 stop) and `load_key` fell through
+to the router key against the AMD base URL, itself a 401 generator. The cache is now built off to the
+side and published in one assignment; a 30-round × 8-thread cold-cache stress test sees
+`("amd_tokenlab", 8)` on every worker. `p4c_run` and the daemon now also name the **P4c** modes file in
+their `SystemExit` text rather than P4b.
 
 ## P4b numbers (extraction bake-off, plan §10.2)
 
@@ -88,26 +120,40 @@ agent (spine) spend, not pipeline spend — no new paid calls were made in P3.
 
 ## P4c run status (live)
 
-Bulk pass over the frozen 86,607-chunk / 24,978-pack scope, free tier, resumable daemon
-`kb/p4c_daemon.py --pass p4c_bulk` (log `kb/logs/p4c_bulk.log`, state
-`kb/state/p4c/run_p4c_bulk.json`). No paid calls: ledger pipeline spend still **$4.7543**.
+Bulk pass over the frozen 86,607-chunk / 24,978-pack scope on the AMD Token Lab pool, resumable
+daemon `kb/p4c_daemon.py --pass p4c_bulk --model DeepSeek-V4.1-Flash --quota 0 --chunk 400 --shard 200
+--cap 31.25` (log `kb/logs/p4c_bulk_daemon.log`, state `kb/state/p4c/run_p4c_bulk.json`).
 
-- Raws stored: 412/24,978 packs (1.6%) at 2026-11-13 04:39Z. Free-tier rate is the binding
-  constraint (6 calls/min + HTTP 429 storms, 20-min back-off shards), not money. Measured ~4
-  packs/min in the first healthy window => ~4-6 days bulk, then the same order for the glean pass
-  (inside the owner's 12-14 day envelope; do not raise the call rate, 429 storms follow it).
+- Raws stored: **1,490 Ultrafast raws from the abandoned free run plus a growing AMD count**; the
+  daemon counts progress model-scoped from the ledger (`status='ok' AND model=?`), so the stale
+  Ultrafast raws no longer inflate the AMD cursor. `--quota 0` means "no daily token ceiling", i.e.
+  the AMD pool has no free-tier reset to wait for.
+- AMD refusal is the shared concurrency ceiling (144), so the pool degrades and recovers in waves
+  rather than draining a per-key daily quota. The daemon treats an error rate above 50% in a window as
+  a stall, backs off 20 min, and resumes; already-stored packs are skipped free on the next sweep.
+- Cost is real and is charged per accepted pack, not per call: the failed 429 calls cost nothing and
+  the ok calls average $0.00134/pack. Budget is enforced per pass against the $31.25 booking.
+- Progress is measured in **accepted packs**, not attempted: acceptance ≈0.56/call at 8.1 s/pack wall,
+  so the remaining 23,488 packs are on the order of 2 days wall clock at full concurrency. The daemon
+  must survive UTC-midnight windows; `--quota 0` makes that a no-op, and any restart resumes from the
+  ledger, never from pack 1.
 - Daemon bug fixed at restart (`f2eefdc9ae`): a shard window whose packs were all cached made
   `pack_shards` restart at pack 1 every round, so the daemon spun with 0 attempted packs. Windows
   now carry a pack offset (`run_packs(start=) -> start_next`), the driver advances its cursor and
   only backs off after a full sweep.
-- Real-data rehearsal of the post-processing path (partial raws, no spend): `p4c_union.build` ->
+- Hardening this round: the soft-auth path can no longer terminate the pass on one transient 401 (the
+  profile-cache race above), and the three post-P4b modules (`p4c_gate`, `p4c_glean`, `p4c_daemon`)
+  now read the **P4c** modes file, which is what actually carries `DeepSeek-V4.1-Flash`; reading P4b's
+  bake-off map had made the daemon abort with "no transport mode".
+- Real-data rehearsal of the post-processing path (partial raws, no extra spend): `p4c_union.build` ->
   2,555 records / 376 ok calls / 500 gate drops / 121 dedupes; `p4c_gate.gate_run` -> 86,607 chunk
   rows; `p4c_ladder.build_queue` -> 140 trigger chunks (131 `fail_pct`, 12 `low_confidence`),
   `plan_retry` 140 singles, `rank_escalation` priced all 140 at $3.13 -> extrapolated trigger rate
-  (~0.37/pack, ~9.1k chunks, ~$204) confirms the $17 cap covers only a prioritised slice (D12).
-- Remaining ladder: `--glean` daemon pass -> `p4c_union` -> precision gate -> `p4c_bulk_retry` ->
-  `p4c_esc` ($17) -> `p4c_glm2` ($25.25) -> union -> `p4c_audit` -> `p4c_recall` ->
-  `p4c_report.py --write` -> tripwire -> commit+push.
+  (~0.37/pack, ~9.1k chunks, ~$204) confirms the **$11** escalation booking covers only a prioritised
+  slice (D12) — the shortfall is stated, not hidden, and is a C2 agenda item.
+- Remaining ladder: `p4c_union` -> precision gate -> `p4c_bulk_retry` -> `p4c_esc` ($11) ->
+  union -> `p4c_audit` -> `p4c_recall` -> `p4c_report.py --write` -> tripwire -> commit+push.
+  `--glean` and `p4c_glm2` are booked at $0 and deferred to a post-C2 owner decision (Amendment 1).
 
 ## P4c scaffold (code, committed)
 

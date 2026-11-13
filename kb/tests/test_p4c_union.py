@@ -138,7 +138,7 @@ def test_build_writes_audit_compatible_rows(monkeypatch, tmp_path):
 
 def test_parse_sources_accepts_defaults_and_overrides():
     assert [p for p, _ in U.parse_sources(None)] == [p for p, _ in U.SOURCE_SPEC]
-    assert U.parse_sources("p4c_bulk,p4c_glm2:glm-5.3") == [("p4c_bulk", U.ULTRAFAST),
+    assert U.parse_sources("p4c_bulk,p4c_glm2:glm-5.3") == [("p4c_bulk", U.AMD),
                                                             ("p4c_glm2", "glm-5.3")]
 
 
