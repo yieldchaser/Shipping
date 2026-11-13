@@ -1,0 +1,62 @@
+{
+  "node_id": "baltic_container_2026-11-13_2026_11_13_w46_container_report_week_46_container__root",
+  "doc_id": "baltic_container_2026-11-13_2026_11_13_w46_container_report_week_46_container",
+  "parent_id": null,
+  "title": "Container Report - Week 46",
+  "section_path": [
+    "Container Report - Week 46"
+  ],
+  "section_path_text": "Container Report - Week 46",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Container\nThe container shipping market experienced a relatively subdued week, with the Baltic Exchange's four main east-west trades recording an average decline of 0.52%. Transpacific rates edged lower, with China/US West Coast falling 0.77%, while the East Coast remained unchanged. Asia-Europe rates also weakened slightly, with North Europe down 0.53% and the Mediterranean declining 0.79%.",
+  "keywords": [
+    "container",
+    "china",
+    "pacific",
+    "europe",
+    "carriers",
+    "can",
+    "coast",
+    "demand",
+    "further",
+    "relatively",
+    "subdued",
+    "trades"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 229,
+  "source_path": "reports/baltic/container/2026/2026-11-13_W46_container-report-week-46_container.html",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "baltic_container_2026-11-13_2026_11_13_w46_container_report_week_46_container__s01_container",
+      "doc_id": "baltic_container_2026-11-13_2026_11_13_w46_container_report_week_46_container",
+      "parent_id": "baltic_container_2026-11-13_2026_11_13_w46_container_report_week_46_container__root",
+      "title": "Container",
+      "section_path": [
+        "Container"
+      ],
+      "section_path_text": "Container",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The container shipping market experienced a relatively subdued week, with the Baltic Exchange's four main east-west trades recording an average decline of 0.52%. Transpacific rates edged lower, with China/US West Coast falling 0.77%, while the East Coast remained unchanged.",
+      "keywords": [
+        "container",
+        "china",
+        "pacific",
+        "europe",
+        "carriers",
+        "can",
+        "coast",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 227,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
