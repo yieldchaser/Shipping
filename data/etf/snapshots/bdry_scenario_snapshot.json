@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generation_timestamp_utc": "2026-11-12T21:32:26.828164+00:00",
+  "generation_timestamp_utc": "2026-11-13T12:56:39.582320+00:00",
   "fund_symbol": "BDRY",
   "contract_spec_version": "2026.08.14-VERIFIED-V1",
   "holdings_snapshot_as_of_date": "2026-11-12",
@@ -20,16 +20,16 @@
     "immutable_archive_path": "data/etf/raw_holdings/BDRY/2026-11-12.csv",
     "expected_registry_sha256": "772c4a29362d4e44eabbef954ba5ad27d4701d03c20583a0d64eb8188a24e606",
     "computed_archive_sha256": "772c4a29362d4e44eabbef954ba5ad27d4701d03c20583a0d64eb8188a24e606",
-    "snapshot_content_sha256": "59df2a72a7fea8178f516a2b5b6412e0a394c503b0edf7ea45da00a86948e7d7",
-    "manifest_snapshot_sha256": "59df2a72a7fea8178f516a2b5b6412e0a394c503b0edf7ea45da00a86948e7d7",
+    "snapshot_content_sha256": "c3755070f05ad033bbc026d44449d4728da016676cb4a5a32bcd7efa459f2b37",
+    "manifest_snapshot_sha256": "c3755070f05ad033bbc026d44449d4728da016676cb4a5a32bcd7efa459f2b37",
     "provenance_verified": true,
     "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE"
   },
   "freshness_state": {
-    "business_day_age": 0,
+    "business_day_age": 1,
     "is_fresh": true,
     "max_freshness_limit_bdays": 3,
-    "reference_time_utc": "2026-11-12T21:32:26.828164+00:00"
+    "reference_time_utc": "2026-11-13T12:56:39.582320+00:00"
   },
   "baseline": {
     "as_of_date": "2026-11-12",

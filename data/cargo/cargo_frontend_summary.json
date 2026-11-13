@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-11-12T21:51:08Z",
-    "as_of": "2026-11-12",
+    "generated_at": "2026-11-13T12:56:06Z",
+    "as_of": "2026-11-13",
     "version": "2.0.0",
     "tab": "Cargo & Trade Flows"
   },
   "provenance_registry": {
     "registry_metadata": {
       "version": "2.0.0",
-      "generated_at": "2026-11-12T21:51:08Z",
-      "as_of": "2026-11-12",
+      "generated_at": "2026-11-13T12:56:06Z",
+      "as_of": "2026-11-13",
       "total_datasets": 19,
       "architecture": "Centralized Dynamic Live Ingest Registry"
     },
@@ -87239,7 +87239,7 @@
         10.03,
         12.74,
         14.68,
-        13.27,
+        13.28,
         14.46,
         16.16,
         21.57,
