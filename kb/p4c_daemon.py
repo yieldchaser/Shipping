@@ -40,13 +40,26 @@ STALL_SLEEP_S = 20 * 60        # back-off before re-testing a possibly non-quota
 RESET_MARGIN_S = 5 * 60
 
 
-def utc_now() -> dt.datetime:
-    return dt.datetime.now(dt.timezone.utc)
+def ledger_now() -> dt.datetime:
+    """Naive local clock, matching how `kb/runner.py` stamps `jobs.created_at`.
+
+    The ledger column is written with `time.strftime("%Y-%m-%dT%H:%M:%S")` — naive local time, no
+    offset. Comparing it against a UTC ISO string is not merely off by the zone offset: the two
+    strings disagree on the date, so `created_at >= t0` matched *all* of the day's rows, including
+    the previous run's, and `substr(created_at,1,10)` never equalled the UTC date. That made the
+    stall detector fire spuriously (`errors 223/400` when only 67 rows were `error`) and reported
+    `day_out_tokens` as 0 forever. Every ledger-derived measurement uses this clock.
+    """
+    return dt.datetime.now()
 
 
-def next_utc_midnight() -> dt.datetime:
-    now = utc_now()
-    return (now + dt.timedelta(days=1)).replace(hour=0, minute=0, second=0, microsecond=0)
+def now() -> dt.datetime:
+    return ledger_now()
+
+
+def next_midnight() -> dt.datetime:
+    """Next local midnight — the boundary of the day bucket the ledger actually stores."""
+    return (ledger_now() + dt.timedelta(days=1)).replace(hour=0, minute=0, second=0, microsecond=0)
 
 
 def done_n(pass_name: str, model: str = "") -> int:
@@ -96,15 +109,15 @@ def total_packs(packs_path: Path) -> int:
     return n
 
 
-def _ledger_day_utc() -> str:
-    return utc_now().strftime("%Y-%m-%d")
+def _ledger_day() -> str:
+    return ledger_now().strftime("%Y-%m-%d")
 
 
 def day_out_tokens(model: str) -> int:
     con = R.connect()
     try:
         row = con.execute("SELECT COALESCE(SUM(out_tok),0) FROM jobs WHERE model=? AND substr("
-                          "created_at,1,10)=?", [model, _ledger_day_utc()]).fetchone()
+                          "created_at,1,10)=?", [model, _ledger_day()]).fetchone()
     finally:
         con.close()
     return int(row[0] or 0)
@@ -122,7 +135,7 @@ def ledger_errors(pass_name: str, since_iso: str) -> int:
 
 def sleep_until(ts: dt.datetime) -> None:
     while True:
-        left = (ts - utc_now()).total_seconds()
+        left = (ts - ledger_now()).total_seconds()
         if left <= 0:
             return
         print(f"sleeping {left / 60:.0f} min until {ts.strftime('%Y-%m-%dT%H:%MZ')}", flush=True)
@@ -146,7 +159,7 @@ def run(pass_name: str, model: str, packs_path: Path, quota: int, chunk: int,
             print(f"[done] {have}/{total} packs have a stored raw", flush=True)
             return 0
         round_no += 1
-        t0 = utc_now()
+        t0 = ledger_now()
         before_out = day_out_tokens(model)
         st = PR.run_packs(pass_name, model, cap, packs_path=packs_path, limit=chunk, shard=shard,
                           job_maker=job_maker, start=cursor)
@@ -177,9 +190,9 @@ def run(pass_name: str, model: str, packs_path: Path, quota: int, chunk: int,
                       f"{STALL_SLEEP_S // 60} min", flush=True)
                 time.sleep(STALL_SLEEP_S)
                 continue
-            nm = next_utc_midnight()
-            if (nm - utc_now()).total_seconds() > STALL_SLEEP_S * 3:
-                # early in the UTC day and already broken: retry after a short back-off first
+            nm = next_midnight()
+            if (nm - ledger_now()).total_seconds() > STALL_SLEEP_S * 3:
+                # early in the ledger day and already broken: retry after a short back-off first
                 print(f"[stall] errors {errs}/{attempted}, day_out {day_out_tokens(model)}; "
                       f"backing off {STALL_SLEEP_S // 60} min", flush=True)
                 time.sleep(STALL_SLEEP_S)

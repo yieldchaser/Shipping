@@ -203,6 +203,42 @@ def test_main_glean_passes_job_maker(tmp_path, monkeypatch):
     assert seen == {"pass_name": GL.GLEAN_PASS, "packs_path": packs, "has_maker": True}
 
 
+def test_ledger_clock_is_naive_local_not_utc():
+    """Regression: `jobs.created_at` is written by `time.strftime` (naive local). Comparing it to a
+    UTC ISO string matched every row of the day, including the previous run's, so the stall detector
+    fired on `errors 223/400` when only 67 rows were `error`, and `day_out_tokens` read 0 forever."""
+    import datetime as dt
+    assert D.ledger_now().tzinfo is None
+    # the two clocks must agree on the date substring the ledger stores
+    assert D.ledger_now().strftime("%Y-%m-%d") == dt.datetime.now().strftime("%Y-%m-%d")
+    assert "Z" not in D.ledger_now().isoformat(timespec="seconds")
+    assert "+00:00" not in D.ledger_now().isoformat(timespec="seconds")
+
+
+def test_ledger_error_window_counts_only_this_round(tmp_path, monkeypatch):
+    """A `t0` stamped on the ledger clock must not match the previous run's rows."""
+    import datetime as dt
+    con = None
+    try:
+        import sqlite3
+        p = tmp_path / "led.sqlite"
+        con = sqlite3.connect(str(p))
+        con.execute("CREATE TABLE jobs (pass TEXT, created_at TEXT, status TEXT)")
+        old = (dt.datetime.now() - dt.timedelta(hours=6)).strftime("%Y-%m-%dT%H:%M:%S")
+        fresh = dt.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
+        con.executemany("INSERT INTO jobs VALUES (?,?,?)",
+                        [("p4c_bulk", old, "error")] * 156
+                        + [("p4c_bulk", fresh, "error")] * 67
+                        + [("p4c_bulk", fresh, "ok")] * 333)
+        con.commit()
+        monkeypatch.setattr(D.R, "connect", lambda: sqlite3.connect(str(p)))
+        t0 = D.ledger_now().isoformat(timespec="seconds")
+        assert D.ledger_errors("p4c_bulk", t0) == 67          # not 223
+    finally:
+        if con is not None:
+            con.close()
+
+
 def test_main_bulk_defaults_to_the_full_pack_list(monkeypatch):
     seen = {}
 
