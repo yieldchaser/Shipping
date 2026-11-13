@@ -26,6 +26,7 @@ Keys are never printed: `llm_runner.load_key` returns them in-process only.
 from __future__ import annotations
 
 import asyncio
+import concurrent.futures
 import hashlib
 import json
 import random
@@ -341,7 +342,8 @@ class Runner:
         for j in todo:
             queue.put_nowait(j)
 
-        async def worker(name: int) -> None:
+        async def worker(name: int, ex: concurrent.futures.ThreadPoolExecutor) -> None:
+            loop = asyncio.get_running_loop()
             while True:
                 if self._stop:
                     return
@@ -351,15 +353,21 @@ class Runner:
                     return
                 if self.rate_per_min:
                     await asyncio.sleep(60.0 / self.rate_per_min)
-                res = await asyncio.to_thread(self._one, job)
+                res = await loop.run_in_executor(ex, self._one, job)
                 results[job["job_key"]] = res
                 if res["status"] == "fatal" or self.budget_left() <= 0:
                     self._stop = True
 
         async def main() -> None:
             n = min(self.start, len(todo))
-            tasks = [asyncio.create_task(worker(i)) for i in range(n)]
-            await asyncio.gather(*tasks)
+            # `asyncio.to_thread` would use the loop's *default* executor, capped at
+            # min(32, cpu_count + 4) — 12 on the 8-core build box, so 16 requested workers measured
+            # as ~10.6 real in-flight calls and the batch ran at 13.5 ok/min instead of ~22. Size the
+            # pool to the worker count we actually asked for.
+            with concurrent.futures.ThreadPoolExecutor(
+                    max_workers=n, thread_name_prefix=f"kb-{self.pass_name}") as ex:
+                tasks = [asyncio.create_task(worker(i, ex)) for i in range(n)]
+                await asyncio.gather(*tasks)
 
         asyncio.run(main())
         log(f"pass {self.pass_name}: done ok={self.stats['ok']} cached={self.stats['cached']} "

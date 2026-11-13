@@ -187,6 +187,41 @@ def test_ledger_roundtrip_and_spend_sum(tmp_path, monkeypatch):
     assert R.spent(passes=["p4b_test"], prefix=None) >= 0.0
 
 
+def test_runner_concurrency_reaches_the_requested_worker_count(tmp_path, monkeypatch):
+    """Regression: `asyncio.to_thread` used the loop's default executor, capped at
+    min(32, cpu_count + 4) = 12 on the 8-core build box. 16 requested workers therefore measured as
+    ~10.6 real in-flight calls and the AMD bulk batch ran at 13.5 ok/min instead of ~22. The runner
+    now sizes its own ThreadPoolExecutor to `start`, so the observed ceiling must be >= `start`."""
+    import threading
+    import time as _time
+    monkeypatch.setattr(R, "LEDGER", tmp_path / "ledger.sqlite")
+    # `_SCHEMA_INIT` is a module global, already True if an earlier test built the real ledger, so
+    # reset it or this tmp ledger never gets its `jobs` table.
+    monkeypatch.setattr(R, "_SCHEMA_INIT", False)
+    R._ledger_lock = R.threading.Lock()
+
+    lock = threading.Lock()
+    live = {"now": 0, "peak": 0}
+
+    def fake_chat(model, messages, **kw):
+        with lock:
+            live["now"] += 1
+            live["peak"] = max(live["peak"], live["now"])
+        _time.sleep(0.25)
+        with lock:
+            live["now"] -= 1
+        return {"model": model, "choices": [{"message": {"content": "{}"}, "finish_reason": "stop"}],
+                "usage": {"prompt_tokens": 1, "completion_tokens": 1}}
+
+    monkeypatch.setattr(R.LR, "chat", fake_chat)
+    monkeypatch.setattr(R.LR, "key_pool_size", lambda *a, **k: 1)
+    r = R.Runner("p4b_conc", "extraction-v1", cap_usd=100.0, start=16, ceiling=16)
+    jobs = [{"job_key": f"k{i}", "model": "deepseek-v4-flash", "messages": [],
+             "meta": {"chunk": f"c{i}"}} for i in range(16)]
+    r.run(jobs)
+    assert live["peak"] >= 16, f"only {live['peak']} calls were ever in flight"
+
+
 def test_no_content_extraction_passes_gate():
     ext, err = S.parse_extraction(_ext(no_content=True))
     assert err is None
