@@ -37,6 +37,7 @@ QUOTA_OUT_TOKENS = 4_700_000   # stay under the 4.8M/day gateway ceiling
 CHUNK_PACKS = 400              # packs per invocation: ~33 min at 12 calls/min
 STALL_ERROR_RATE = 0.50        # a shard this broken means the daily quota is gone
 STALL_SLEEP_S = 20 * 60        # back-off before re-testing a possibly non-quota outage
+UNPRODUCTIVE_ROUNDS = 3        # consecutive rounds adding neither a raw nor an output token
 RESET_MARGIN_S = 5 * 60
 
 
@@ -153,6 +154,7 @@ def run(pass_name: str, model: str, packs_path: Path, quota: int, chunk: int,
           f"quota {quota}/day", flush=True)
     round_no = 0
     cursor = 0
+    barren = 0
     while True:
         have = scope_done(pass_name, model, packs_path)
         if have >= total:
@@ -167,9 +169,10 @@ def run(pass_name: str, model: str, packs_path: Path, quota: int, chunk: int,
         added_out = day_out_tokens(model) - before_out
         errs = ledger_errors(pass_name, t0.isoformat(timespec="seconds"))
         attempted = max(1, st["packs"])
+        have_after = scope_done(pass_name, model, packs_path)
         print(f"[round {round_no}] attempted {st['packs']} packs, out_tok +{added_out}, "
               f"errors {errs}, day_out {day_out_tokens(model)}, "
-              f"done {scope_done(pass_name, model, packs_path)}/{total}, "
+              f"done {have_after}/{total}, "
               f"cursor {cursor}", flush=True)
         if st["packs"] == 0:
             # whole window was already cached: advance instead of spinning on the same packs
@@ -180,6 +183,22 @@ def run(pass_name: str, model: str, packs_path: Path, quota: int, chunk: int,
                 cursor = 0
             else:
                 print(f"[info] window fully cached; continuing from pack {cursor}", flush=True)
+            continue
+        # Blind-stall guard. `ledger_errors` counts rows by `created_at`, and `runner._record`
+        # deliberately does NOT refresh `created_at` on the re-processing UPDATE (the P4b key-stability
+        # contract), so a pack that fails, is retried and fails again keeps its ORIGINAL timestamp and
+        # contributes nothing to `errs`. On 2026-11-14 03:37-04:00 the AMD pool brownout (429 plus a
+        # hung socket) made exactly one shard run for 20+ min with `attempted 1`, `errs 0` and
+        # `scope_done` frozen at 1349, i.e. the error-rate rule could never fire. Progress is therefore
+        # measured the only way that cannot lie: did this round add a stored raw, or spend an output
+        # token? Neither for UNPRODUCTIVE_ROUNDS rounds in a row means the pool, not the quota, is the
+        # problem - back off and let it recover instead of grinding through the retry ladder.
+        barren = 0 if (have_after > have or added_out > 0) else barren + 1
+        if barren >= UNPRODUCTIVE_ROUNDS:
+            print(f"[stall] {barren} consecutive unproductive rounds (no new raw, no output tokens); "
+                  f"backing off {STALL_SLEEP_S // 60} min", flush=True)
+            time.sleep(STALL_SLEEP_S)
+            barren = 0
             continue
         broke = errs / attempted > STALL_ERROR_RATE
         quota_gone = quota > 0 and day_out_tokens(model) >= quota

@@ -251,3 +251,57 @@ def test_main_bulk_defaults_to_the_full_pack_list(monkeypatch):
     monkeypatch.setattr(sys, "argv", ["p4c_daemon.py", "--model", "m"])
     assert D.main() == 0
     assert seen == {"pass_name": D.PR.BULK_PASS, "has_maker": False}
+
+
+def test_run_backs_off_when_rounds_add_neither_raw_nor_tokens(tmp_path, monkeypatch):
+    """Regression for the 2026-11-14 03:37 brownout: `ledger_errors` counts rows by `created_at`,
+    and the ledger UPDATE keeps the ORIGINAL stamp when a pack is re-processed, so a shard that
+    retried the same failing packs logged `errors 0` at `attempted > 0` and the error-rate rule
+    never fired. The daemon sat unproductive for 20+ min. Productivity, not row age, must drive the
+    back-off."""
+    slept = []
+    ran = {"n": 0}
+
+    def fake_run_packs(pass_name, model, cap, packs_path=None, limit=0, shard=200,
+                       job_maker=None, start=0):
+        ran["n"] += 1
+        if ran["n"] > D.UNPRODUCTIVE_ROUNDS:
+            raise SystemExit(0)          # leave once the guard under test has fired
+        return {"packs": 1, "chunks": 4, "start_next": 0}
+
+    monkeypatch.setattr(D.PR, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(D, "scope_done", lambda pass_name, model, packs_path: 0)
+    monkeypatch.setattr(D, "day_out_tokens", lambda model: 0)      # no output tokens spent
+    monkeypatch.setattr(D, "ledger_errors", lambda pass_name, since: 0)   # blind detector
+    monkeypatch.setattr(D.time, "sleep", lambda s: slept.append(s))
+    monkeypatch.setattr(D.PR, "run_packs", fake_run_packs)
+    with pytest.raises(SystemExit):
+        D.run("p", "m", packs_file(tmp_path, n=200), 0, 10, 200, 5.0)
+    assert slept and slept[0] == D.STALL_SLEEP_S
+
+
+def test_run_does_not_back_off_while_rounds_stay_productive(tmp_path, monkeypatch):
+    """A round that adds a stored raw is progress even with zero ledger errors, so the guard must
+    stay quiet - otherwise a healthy run would nap 20 min every few rounds."""
+    slept = []
+    ran = {"n": 0}
+    done = {"n": 0}
+
+    def fake_run_packs(pass_name, model, cap, packs_path=None, limit=0, shard=200,
+                       job_maker=None, start=0):
+        ran["n"] += 1
+        done["n"] += 1                  # every round stores one more usable raw
+        if ran["n"] >= D.UNPRODUCTIVE_ROUNDS + 2:
+            raise SystemExit(0)
+        return {"packs": 1, "chunks": 4, "start_next": 0}
+
+    monkeypatch.setattr(D.PR, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(D, "scope_done", lambda pass_name, model, packs_path: done["n"])
+    monkeypatch.setattr(D, "day_out_tokens", lambda model: 0)
+    monkeypatch.setattr(D, "ledger_errors", lambda pass_name, since: 0)
+    monkeypatch.setattr(D.time, "sleep", lambda s: slept.append(s))
+    monkeypatch.setattr(D.PR, "run_packs", fake_run_packs)
+    with pytest.raises(SystemExit):
+        D.run("p", "m", packs_file(tmp_path, n=200), 0, 10, 200, 5.0)
+    assert slept == []
+

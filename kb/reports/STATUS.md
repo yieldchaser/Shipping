@@ -177,6 +177,50 @@ the 12-thread default executor, so it needed a clean read. It holds, harder:
 config stays `KB_AMD_WORKERS` 16 / `KB_AMD_RATE` 120, which is now a measured optimum rather than an
 artifact of the executor cap.
 
+**Clean 32-worker A/B, post-fix** (`kb/logs/p4c_d32b.log`, PID 22428): started 03:38, wrote **nothing**
+for 25 min — 6 consecutive 30 s samples showed `att +0 out +0 rows +0`, `MAX(created_at)` frozen at
+`03:37:14`. That is not the executor artifact; 32 remains worse even with a correctly sized pool.
+
+### Amendment 5 — the daemon could not see a stall (2026-11-14)
+
+Authority: none needed; defect fix, no gate, cap or plan change.
+
+**Defect (run-stopping).** Between 03:37 and 04:14 the bulk pass added **zero** rows. Two causes, both
+real and independent:
+
+1. **Provider brownout.** A raw-bytes probe (`kb/_t_body.py`) showed the AMD gateway answering
+   `HTTP 429 {"error":{"message":"Model 'DeepSeek-V4.1-Flash' is at its concurrency limit (144) …"}}`
+   for 2 of 3 sequential calls, and one call hanging **60.5 s** then `TimeoutError`. This is the shared
+   model-wide pool (144) being consumed by other tenants, not our pacing: a **single** concurrent call
+   was refused. Nothing on our side can raise that ceiling; §7.5 "partial coverage beats lower quality"
+   and the provider-pool rule apply — wait it out and keep resumability.
+2. **The stall detector was blind to exactly this failure.** `ledger_errors` counts rows by
+   `jobs.created_at`, and `runner._record` deliberately does **not** refresh `created_at` on the
+   re-processing UPDATE (the P4b key-stability contract, `kb/runner.py:197-209`). A pack that fails,
+   is retried and fails again keeps its **original** timestamp, so `errs` stayed `0` while `attempted`
+   was `1` and `scope_done` sat frozen at `1349`. The `errs / attempted > STALL_ERROR_RATE` rule could
+   never fire, and the log shows the loop grinding: `attempted 2 packs … errors 0` with `out_tok +0`.
+   Compounding it, `timeout_s=300` x 5 attempts meant **one** hung pack could burn 25 min of a shard.
+
+**Fix.**
+* `kb/p4b_run.runner_for` AMD branch: `timeout_s` 300 -> **120** (`KB_AMD_TIMEOUT` overrides). A healthy
+  AMD pack answers in 5-60 s (p95 ~ 61 s; observed max 57-61 s), so 120 s admits every real answer and
+  fails fast on a black hole.
+* `kb/p4c_daemon.run`: progress guard. A round that adds neither a stored raw nor an output token is
+  `barren`; `UNPRODUCTIVE_ROUNDS = 3` consecutive barren rounds triggers the same 20 min back-off as the
+  error-rate rule. Productivity is the only signal that cannot be spoofed by the ledger's stale stamps.
+
+Tests: `test_run_backs_off_when_rounds_add_neither_raw_nor_tokens` (the exact regression) and
+`test_run_does_not_back_off_while_rounds_stay_productive` (a healthy run must not nap). Suite:
+`test_p4b + test_p4c_run + test_p4c_daemon` = **54 passed**; daemon file **16 passed**.
+
+**Honest state at 04:15.** The brownout is still active: the restarted 16-worker daemon logged
+`batch 1 packs 1/200 … wall 102s` then `att +0 out +0 rows +0` for 2.5 min, and the sequential probe is
+still 429-dominant. This is a **provider-side** outage of the shared AMD pool - no code change can make
+those calls succeed. The run is resumable from the ledger at `done 1363 / 24978`, and the daemon now
+backs off instead of pinning a shard. Throughput figure to reuse when the pool recovers: **~19-22
+accepted packs/min** at 16/120.
+
 ## P4b numbers (extraction bake-off, plan §10.2)
 
 | metric | value |

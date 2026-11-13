@@ -176,10 +176,18 @@ def runner_for(pass_name: str, model: str, cap: float) -> R.Runner:
         # i.e. throughput is worker-bound up to ~16 slots and regresses beyond it, far below AMD's
         # shared ceiling of 144. Default 16 / 120 here so daemon restarts and gate runs keep the
         # measured optimum; KB_AMD_WORKERS / KB_AMD_RATE override it for a fresh experiment.
+        #
+        # Timeout lowered 300 s -> 120 s (2026-11-14). During the 03:37-04:00 brownout the gateway
+        # answered 429 for 2 of 3 probes and one probe hung 60.5 s; with `timeout_s=300` a hung call
+        # burned 300 s per attempt x 5 attempts = 25 min for ONE pack, so a shard could sit
+        # unproductive for hours while `scope_done` never moved. A healthy AMD pack lands in 5-60 s
+        # (p95 ~61 s), so 120 s is generous for a real answer and fails fast on a black hole.
         workers = int(os.environ.get("KB_AMD_WORKERS") or 16)
         rate = int(os.environ.get("KB_AMD_RATE") or 120)
+        timeout = int(os.environ.get("KB_AMD_TIMEOUT") or 120)
         return R.Runner(pass_name, PROMPT_VERSION, cap, start=workers, ceiling=workers,
-                        rate_per_min=rate, pipeline_cap_usd=PIPELINE_CAP, timeout_s=300, attempts=5)
+                        rate_per_min=rate, pipeline_cap_usd=PIPELINE_CAP, timeout_s=timeout,
+                        attempts=5)
     return R.Runner(pass_name, PROMPT_VERSION, cap, start=8, ceiling=24,
                     pipeline_cap_usd=PIPELINE_CAP, timeout_s=180)
 
