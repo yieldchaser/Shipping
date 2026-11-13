@@ -164,6 +164,19 @@ Suite: **352 passed**.
 Round 1 of the restarted daemon showed 9 attempted packs before the pool was warm; rounds 2+ recover.
 No gate, threshold or cap was changed to obtain this.
 
+**Re-tested 32/240 now that the cap is lifted** — the old "32 is worse" result was also measured under
+the 12-thread default executor, so it needed a clean read. It holds, harder:
+
+| config | accepted packs/min | notes |
+|---|---|---|
+| 16 workers / 120 rpm | ≈19 | 02:51–02:53: 17 + 27 + 14 ok |
+| 32 workers / 240 rpm | ≈0.3 | 02:54 36 ok, 02:55 28 ok, then **2 rows in 7.5 min**; mean ok-latency 20.7–23.6 s but max 57 s, and the tail stopped draining |
+
+32 concurrent calls against this pool starve rather than scale: the fast rows finish and the slow tail
+(30–60 s) pins the workers, so accepted-per-minute collapses once the queue is saturated. Shipped
+config stays `KB_AMD_WORKERS` 16 / `KB_AMD_RATE` 120, which is now a measured optimum rather than an
+artifact of the executor cap.
+
 ## P4b numbers (extraction bake-off, plan §10.2)
 
 | metric | value |
