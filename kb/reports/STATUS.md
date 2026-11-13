@@ -125,6 +125,45 @@ error window and the midnight boundary; `_ledger_day_utc`→`_ledger_day`. Regre
 Consequence for the record: the stalled daemon had already written 333 usable raws before it backed
 off; those are kept and counted, since the resume is key-exact (`done 333` on restart, not 0).
 
+### Amendment 4 — the bulk extractor was running at ~10 of its 16 workers (2026-11-14)
+
+Authority: none needed; defect fix, no gate, cap or plan change. Two defects in a row cost throughput
+and neither was a model-quality problem.
+
+**Defect.** `kb/runner.py` dispatched every job with `asyncio.to_thread`, which submits to the event
+loop's **default** `ThreadPoolExecutor` — capped at `min(32, cpu_count + 4)` = **12** threads on this
+8-core box. The AMD daemon asks for `KB_AMD_WORKERS` = 16 (and 32 was tried). Measured effective
+in-flight concurrency (`kb/_t_threads.py`, cpu 8, default cap 12):
+
+| requested workers | effective concurrency |
+|---|---|
+| 8 | 7.9 |
+| 16 | 8.0 |
+| 32 | 10.6 |
+
+So the pool never saw the load the config believed it was sending. Predicted rate with ~10 real slots,
+21.2 s mean ok-latency and 1.81 attempts per accepted pack is `10 × 60 / (21.2 × 1.81)` = **15.6 ok/min**
+against **13.5 ok/min** observed — the shortfall was the hidden cap, not the AMD ceiling (144).
+
+This also invalidated the earlier reading that 16 workers was optimal and 32 worse: both runs were
+pinned to the same default executor, so neither preference was ever measured.
+
+**Fix.** `run()` now builds its own `concurrent.futures.ThreadPoolExecutor(max_workers=n)` sized to the
+worker count and dispatches with `loop.run_in_executor(ex, self._one, job)`. Regression test
+`test_runner_concurrency_reaches_the_requested_worker_count` asserts peak concurrency ≥ 16 (it also
+resets the `_SCHEMA_INIT` global, which had made the tmp-ledger variant fail only in a full-suite run).
+Suite: **352 passed**.
+
+**Measured after the fix** (fresh window, same model, same pool, 4 of 8 accounts in play at the time):
+
+| window | accepted packs/min |
+|---|---|
+| pre-fix, 300 s windows (rounds at 16 workers) | 13.5 |
+| post-fix, 02:51–02:53 | **≈19** (17 + 27 + 14 ok in ~3 min) |
+
+Round 1 of the restarted daemon showed 9 attempted packs before the pool was warm; rounds 2+ recover.
+No gate, threshold or cap was changed to obtain this.
+
 ## P4b numbers (extraction bake-off, plan §10.2)
 
 | metric | value |
