@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2969,
-      "untracked_bytes": 2297474765
+      "untracked_files": 2974,
+      "untracked_bytes": 2298654179
     },
     {
       "path": "corpus/02-hellenic",
@@ -47,6 +47,16 @@
     }
   ],
   "entries": [
+    {
+      "path": "corpus/01-brokers/_digests/clarksons/2026/clarksons_13_11_2026_clarksons_hellas_snp_weekly.md",
+      "bytes": 6823,
+      "sha256": "c291914d3eb4a6d0fc11605f363769e4f9b581532595e947498132a82a9f2005"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/lion/2026/lion_13_11_2026_lion_shipbrokers_weekly_market_report_week_46_2026.md",
+      "bytes": 17789,
+      "sha256": "cf48d40900393f195122712c51a39b0f67cf99466ac70fc51813f6e7eb7b0099"
+    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -5618,6 +5628,11 @@
       "sha256": "ea2f9d8190b075cb5bb74762a4f4056f8d202e9b112c6415af813fc5aa8e7346"
     },
     {
+      "path": "corpus/01-brokers/clarksons/2026/clarksons_13_11_2026_clarksons_hellas_snp_weekly.pdf",
+      "bytes": 190231,
+      "sha256": "8305347f6be8cfded7606058e49de23f5f27fd2407fc2be987207faf446a9652"
+    },
+    {
       "path": "corpus/01-brokers/clarksons/2026/clarksons_18_09_2026_clarksons_hellas_snp_weekly.pdf",
       "bytes": 230628,
       "sha256": "39f913e909f353881610da5533cca596353a6e0e1f1e770c650b441ad531962b"
@@ -7788,6 +7803,11 @@
       "sha256": "98705825d2fed4e4dd41bb9f492a44d129f8eb0333a3d62047701191060f5f7e"
     },
     {
+      "path": "corpus/01-brokers/gibson/html/2026/2026-11-13_crude-correction.html",
+      "bytes": 157524,
+      "sha256": "4697228a44982c156906cc4802246b2b7469361c4997543aff6e2f7f77d9d46c"
+    },
+    {
       "path": "corpus/01-brokers/intermodal/2021/intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf",
       "bytes": 1819519,
       "sha256": "74d668d29d02a4cd0bf051175c2bb711faa3f5bc19077555b23ac5a43a721153"
@@ -9711,6 +9731,11 @@
       "path": "corpus/01-brokers/lion/2026/lion_02_10_2026_lion_shipbrokers_weekly_market_report_week_40_2026.pdf",
       "bytes": 1852449,
       "sha256": "f6f19434443cd370be0109bd415ee4c6c8063d2565c376703dcdcd5979194806"
+    },
+    {
+      "path": "corpus/01-brokers/lion/2026/lion_13_11_2026_lion_shipbrokers_weekly_market_report_week_46_2026.pdf",
+      "bytes": 807047,
+      "sha256": "7c984772d58551eef11345a227457f80208ea4e28872621b576fe8e26860c6f1"
     },
     {
       "path": "corpus/01-brokers/lion/2026/lion_2026_W02_Lion-Weekly-Report-09-January-2026-W02.pdf",
