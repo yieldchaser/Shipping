@@ -54,7 +54,8 @@ def _provider_spec(model: str) -> dict | None:
                 for prov in cfg.get("providers") or []:
                     for spec in prov.get("models") or []:
                         _PROVIDER_CACHE[spec["id"]] = {"id": prov.get("id"), "kind": prov.get("kind"),
-                                                       "base_url": prov.get("base_url")}
+                                                       "base_url": prov.get("base_url"),
+                                                       "key_source": prov.get("key_source")}
         except Exception:
             _PROVIDER_CACHE = {}
     return _PROVIDER_CACHE.get(model)
@@ -83,6 +84,9 @@ def is_nim_model(model: str) -> bool:
     return "/" in model or model.startswith(NIM_MODEL_GLOBS)
 
 
+_KEY_ROTATION: dict[str, int] = {}
+
+
 def load_key(provider: str = "router", model: str = "") -> str:
     """Return the key for `provider` without exposing it in logs.
 
@@ -101,6 +105,24 @@ def load_key(provider: str = "router", model: str = "") -> str:
         if k:
             return k
         raise NoKeyError("no NVIDIA key: set NVIDIA_API_KEY or refs.NVIDIA_API_KEY in ~/.dsh/.credentials.yaml")
+    if spec and spec.get("key_source"):
+        ks = spec["key_source"]
+        multi_keys = []
+        for i in range(1, 10):
+            mk = _ref(f"{ks}_{i}")
+            if mk:
+                multi_keys.append(mk)
+        if multi_keys:
+            idx = _KEY_ROTATION.get(ks, 0)
+            chosen = multi_keys[idx % len(multi_keys)]
+            _KEY_ROTATION[ks] = idx + 1
+            return chosen
+        if os.environ.get(ks):
+            return os.environ[ks]
+        k = _ref(ks)
+        if k:
+            return k
+        raise NoKeyError(f"no key for {spec.get('id')}: set {ks} or refs.{ks} in ~/.dsh/.credentials.yaml")
     if provider == "ultrafast":
         if os.environ.get("ULTRAFAST_API_KEY"):
             return os.environ["ULTRAFAST_API_KEY"]

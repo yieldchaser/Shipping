@@ -57,9 +57,17 @@ def log(msg: str) -> None:
         fh.write(line + "\n")
 
 
-def connect() -> sqlite3.Connection:
+_SCHEMA_INIT = False
+
+
+def init_ledger() -> None:
+    global _SCHEMA_INIT
+    if _SCHEMA_INIT:
+        return
     LEDGER.parent.mkdir(parents=True, exist_ok=True)
-    con = sqlite3.connect(LEDGER, check_same_thread=False)
+    con = sqlite3.connect(LEDGER, timeout=60.0)
+    con.execute("PRAGMA journal_mode=WAL")
+    con.execute("PRAGMA busy_timeout=60000")
     con.execute("""CREATE TABLE IF NOT EXISTS jobs(
         job_key TEXT PRIMARY KEY, pass TEXT, prompt_version TEXT, model TEXT, status TEXT,
         attempts INTEGER DEFAULT 0, request_hash TEXT, in_tok INTEGER DEFAULT 0,
@@ -68,6 +76,14 @@ def connect() -> sqlite3.Connection:
         created_at TEXT, meta TEXT)""")
     con.execute("CREATE INDEX IF NOT EXISTS jobs_pass ON jobs(pass)")
     con.commit()
+    con.close()
+    _SCHEMA_INIT = True
+
+
+def connect() -> sqlite3.Connection:
+    init_ledger()
+    con = sqlite3.connect(LEDGER, timeout=60.0, check_same_thread=False)
+    con.execute("PRAGMA busy_timeout=60000")
     return con
 
 

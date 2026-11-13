@@ -33,6 +33,20 @@ providers:
         price_out: 0.0
     concurrency_max: 1
 
+  - id: amd_tokenlab
+    kind: free
+    base_url: "https://api.tokenlab.amd.com/v1"
+    key_source: AMD_TOKENLAB_API_KEY
+    rate_limit_per_min: 60
+    models:
+      - id: DeepSeek-V4.1-Flash
+        price_in: 0.0
+        price_out: 0.0
+      - id: DeepSeek-V4-Flash
+        price_in: 0.0
+        price_out: 0.0
+    concurrency_max: 8
+
   # NVIDIA NIM (free third provider, added owner commit 930fc99e92, AGENT_TASK §2.1).
   # OpenAI-compatible, full org/model ids (NO cyberouter/ prefix), $0. ~40 req/min per
   # account, 429 often without Retry-After -> exponential backoff. Probe before use.
