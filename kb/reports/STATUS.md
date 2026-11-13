@@ -71,7 +71,7 @@ measurement behind it. Gates are unchanged by the amendment — only the provide
 | projection | 23,488 packs remaining ≈ **$29.35**; all 24,978 ≈ **$31.21** (booked $31.25); live extrapolation ≈$23 |
 | refusal mode | uniform `HTTP 429` `model_concurrency_rate_limit_exceeded` — **model-wide ceiling 144**, not per-key quota |
 | acceptance rate | ≈0.56 ok/call, flat in pacing (8 s/5 s/3 s rungs 9/16, 9/16, 7/16) ⇒ retries, not pacing |
-| auth errors | 48-call per-key probe (8 calls × 6 keys): **zero 401/403**; a lone transient 401 is soft, rotates key, never fatal |
+| auth errors | full-pool probe (8 calls × **all 8 keys** = 64 calls): **zero 401/403**, ok 39 / 429 25 = 0.609, distinct key fingerprints `_1` c37b2d4c … `_8` b01e6947; a lone transient 401 is soft, rotates key, never fatal |
 | throughput shape | 8.1 s/pack wall at concurrency; gate drop rate 0.0; 5.6 records per accepted pack; 581 out tok per accepted pack |
 
 Soft-auth hardening (this round): `_provider_spec` published its config cache non-atomically, so a

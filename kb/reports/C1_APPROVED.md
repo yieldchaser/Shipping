@@ -38,7 +38,8 @@ Owner directive (chat, 2026-11-13), recorded here without altering the C1 owner_
   "DeepSeek-V4.1-Flash") == 8` is asserted before every pass.
 - Measured refusal mode is uniform: every rejection is `HTTP 429`
   `model_concurrency_rate_limit_exceeded` — a **model-wide concurrency ceiling (144)**, *not* per-key
-  quota. An 8-call-per-key probe (48 calls) saw zero 401/403. Observed acceptance ≈0.56 ok/call, flat in
+  quota. A full-pool probe (8 calls × all 8 keys = 64 calls) saw zero 401/403 and ok 39 / 429 25 = 0.609.
+  Observed acceptance ≈0.56 ok/call in the bulk window, flat in
   pacing (8 s/5 s/3 s rungs: 9/16, 9/16, 7/16), so no pacing value recovers the deficit; the runner
   retries within the same call and the daemon skips already-stored raws cost-free on the next sweep.
 - **AMD Token Lab is NOT free.** The route reports a real `usage.cost`; the tariff fits exactly
