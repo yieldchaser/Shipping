@@ -438,7 +438,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/hellenic/demolition`](../data/extracted/md/hellenic/demolition)
 - **Publication Cadence:** Weekly (Saturday/Sunday) (Expected day: Saturday)
 - **Coverage Span:** `2021-07-02` to `2026-11-10`
-- **Latest Ingested Document:** `2026-11-10_athenian-shipbrokers-s-a-demolition-quic_Week_45_Athenian_Demolition_Report_2026.pdf` (Status: **CURRENT (3d)**)
+- **Latest Ingested Document:** `2026-11-10_athenian-shipbrokers-s-a-demolition-quick-update-week-45-2026.html` (Status: **CURRENT (3d)**)
 - **Sample Ingested Report (Corpus):** [`2026-11-10_athenian-shipbrokers-s-a-demolition-quick-update-week-45-2026.html`](../corpus/02-hellenic/demolition/2026/2026-11-10_athenian-shipbrokers-s-a-demolition-quick-update-week-45-2026.html)
 - **Sample Extracted Markdown (Digest):** [`gms_2026-11-06_week-45_bids-hold-fast-against-the-tide.md`](../data/extracted/md/hellenic/demolition/gms/2026/gms_2026-11-06_week-45_bids-hold-fast-against-the-tide.md)
 - **Raw Corpus Inventory:** 1,965 PDFs, 825 HTML files, 1,216 Images
