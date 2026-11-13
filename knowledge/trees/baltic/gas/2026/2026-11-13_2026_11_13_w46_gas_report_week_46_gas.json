@@ -1,0 +1,90 @@
+{
+  "node_id": "baltic_gas_2026-11-13_2026_11_13_w46_gas_report_week_46_gas__root",
+  "doc_id": "baltic_gas_2026-11-13_2026_11_13_w46_gas_report_week_46_gas",
+  "parent_id": null,
+  "title": "Gas report - Week 46",
+  "section_path": [
+    "Gas report - Week 46"
+  ],
+  "section_path_text": "Gas report - Week 46",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "LNG\nThe LNG spot market saw a mixed week, with the East remaining active and rates holding at a premium to the Atlantic. In the Atlantic, activity picked up across the US Gulf and West Africa, but extensive vessel availability and subdued cargo liquidity continue to limit upside. On the BLNG1 Australia-Japan route, 174k cbm vessels edged up $200 week-on-week to settle at $54,600/day, supported by continued enquiry and a tighter tonnage list, especially for 2-Stroke vessels.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "australia",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "japan",
+    "gas",
+    "day.",
+    "route",
+    "settle"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 431,
+  "source_path": "reports/baltic/gas/2026/2026-11-13_W46_gas-report-week-46_gas.html",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "baltic_gas_2026-11-13_2026_11_13_w46_gas_report_week_46_gas__s01_lng",
+      "doc_id": "baltic_gas_2026-11-13_2026_11_13_w46_gas_report_week_46_gas",
+      "parent_id": "baltic_gas_2026-11-13_2026_11_13_w46_gas_report_week_46_gas__root",
+      "title": "LNG",
+      "section_path": [
+        "LNG"
+      ],
+      "section_path_text": "LNG",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The LNG spot market saw a mixed week, with the East remaining active and rates holding at a premium to the Atlantic. In the Atlantic, activity picked up across the US Gulf and West Africa, but extensive vessel availability and subdued cargo liquidity continue to limit upside.",
+      "keywords": [
+        "lng",
+        "australia",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "us_gulf",
+        "japan",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 239,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_gas_2026-11-13_2026_11_13_w46_gas_report_week_46_gas__s02_lpg",
+      "doc_id": "baltic_gas_2026-11-13_2026_11_13_w46_gas_report_week_46_gas",
+      "parent_id": "baltic_gas_2026-11-13_2026_11_13_w46_gas_report_week_46_gas__root",
+      "title": "LPG",
+      "section_path": [
+        "LPG"
+      ],
+      "section_path_text": "LPG",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The LPG market came under pressure this week, with narrowing arbitrage economics and a lengthening tonnage list weighing on sentiment across the board. Reduced cargo economics and softer fixing interest contributed to a general downward correction in freight rates.",
+      "keywords": [
+        "lpg",
+        "atlantic",
+        "gas",
+        "route",
+        "tce",
+        "tonne",
+        "contributed",
+        "day."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 186,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
