@@ -541,6 +541,7 @@ The rehearsal above was fixture-shaped. Re-ran the whole downstream chain on **l
 | union | `p4c_union --packs packs_done2.jsonl --out-dir _rehearse/union4` | chunks 26,953, with_records 14,387, broken 806, missing 0, `failure_queue_rate` **0.0299**, duplicates 3,023, dropped_by_gates 6,140 |
 | audit | `p4c_audit --plan --gated .../union4/gated_union.jsonl` | 200 items from 52,381 records — union export read correctly |
 | ladder | `p4c_ladder --plan-only --gated .../gate2/gated.jsonl` | queue 260 of 2,769 on the old slice; on the live slice ranked and cap-picked without error |
+| recall | `p4c_recall --packs packs_done2.jsonl` | runs end-to-end: 26 of the 120 gold chunks in the partial slice, 342 reference records, `p4c_bulk` recall 0.0439 on that subset — plumbing only, **not** a gate number (the gate's 120-chunk gold scope needs the full extraction) |
 | retry rung | `p4c_run --run --pass p4c_retry_smoke --packs singles_retry.jsonl` | real single-chunk packs accepted: **93 ok / 4 err**, `finish_reason=tool_calls`, $0.0523 — the retry rung's job-key shape is proven against the live store |
 
 Two things this establishes that no fixture did: (a) the fixed union predicate holds at production width
@@ -706,6 +707,19 @@ daemon `kb/p4c_daemon.py --pass p4c_bulk --model DeepSeek-V4.1-Flash --quota 0 -
   emits one row per chunk — and its `union/gated_union.jsonl` is first in precedence, so every source
   (bulk, retry, escalation) reaches P5 through the union row's merged `kept` records regardless. The rung
   paths remain a fallback for a per-rung rebuild. Contract closed; no code change needed.
+- **Two escalation planners exist; they agree on shape and differ only on who is queued — the ladder's
+  rule-6 queue is the shipped one.** `p4c_ladder.py` builds `singles_retry.jsonl` from **gate rows** and
+  picks chunks by the plan §7.4 rule-6 triggers (`fail_pct`, `low_confidence`, `thin_long_sec`);
+  `p4c_run.py --escalate` builds `singles_<pass>.jsonl` from the gate's `failures.jsonl` and picks **every**
+  chunk that failed any gate. Diffed both on the same live 7,411-pack slice (`_rehearse/packs_done2.jsonl`,
+  `gate2/`): **identical 14-key pack schema** (`blocks, chunk_ids, doc, doc_id, key, known, known_ids, n,
+  ord_first, pack_id, section_class, tokens, year`, byte-identical first pack), but **3,232 singles from
+  `p4c_run` vs 260 from `p4c_ladder`** (247 shared, 13 ladder-only, 2,985 run-only). Both are valid
+  one-single-chunk packs; the 12× difference is trigger breadth, not a defect. The shipped retry rung is
+  therefore `p4c_ladder`'s rule-6 queue (D5/D11: retry the *cheap-per-call* failures first, keep the glm-5.3
+  escalation inside its $11 booking via D12 cap priority), and `p4c_run --escalate` stays as the
+  exhaustive-repair fallback. No code change; the finding is recorded so a future run does not "fix" a
+  disagreement that does not exist.
 
 ## P4c scaffold (code, committed)
 
