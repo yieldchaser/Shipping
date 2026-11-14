@@ -43,19 +43,22 @@ adjudication $0.053. Free tiers (Ultrafast, NIM) carried 1,464 of the 2,240 call
 Gateway `/stats` after P4b: enclave (agent spine) $66.04/66.00 unchanged -- no paid agent calls;
 Ultrafast output today 1,268,319/4,800,000 tokens.
 
-Live pipeline spend 2026-11-15T02:4xZ: read it from the ledger, not from this file —
+Live pipeline spend 2026-11-15T03:0xZ: read it from the ledger, not from this file —
 `kb/state/ledger.sqlite` is the authority (sum `cost_usd` over all passes, or the query in the AMD
-amendment section below). At the last measurement: **$18.9875** ledger-measured by `runner.spent()`
-(`p4c_bulk`/`DeepSeek-V4.1-Flash` **$14.0249** of it, `p4c_bulk_retry` $0.1227, `p4c_esc_preflight`
-$0.0111); against the $82 cap that leaves **≈$63.01**. The ladder's `--cap 11` is a *booking* limit
+amendment section below). At the last measurement: **$19.1612** ledger-measured by `runner.spent()`
+(`p4c_bulk`/`DeepSeek-V4.1-Flash` **$14.1986** of it, `p4c_bulk_retry` $0.1227, `p4c_esc_preflight`
+$0.0111); against the $82 cap that leaves **≈$62.84**. The ladder's `--cap 11` is a *booking* limit
 for escalation, not the pipeline cap.
 
 That headroom comfortably covers the remaining drain: the retry rung is ~2,137 AMD single-pack calls
-at the **ledger-measured $0.000511/call** (`p4c_bulk_retry`: 236 calls for $0.1227 — a single-chunk
-call is half the price of a bulk pack) ≈ **$1.09**, the esc rung spends its whole **$11.00** booking on
-445 of its 2,137 triggered candidates (true cost ~$5.5–8.9; see the esc correction below), and the
+at the **ledger-measured `$0.1227 / 236 = $0.000520/call`** — a single-chunk call is half the price of
+a bulk per-pack call, and the independent `p4c_retry_smoke` pass agrees ($0.0542 / 97 = $0.000559) —
+so ≈ **$1.11**. (Superseded: an earlier version of this file said `$0.000511` ⇒ `$1.09`, computed
+before the `p4c_bulk_retry` row was complete; `$0.000520` is the measured value and the small delta is
+recorded rather than silently rounded.) The esc rung spends its whole **$11.00** booking on 445 of its
+2,137 triggered candidates (true cost ~$5.5–8.9; see the esc correction below), and the
 gate/union/report/judge-audit steps make no billable AMD calls. Worst case ≈$12.1 of drain against
-$63.0 of headroom, so the drain cannot approach the $82 cap even if the retry queue doubles.
+$62.8 of headroom, so the drain cannot approach the $82 cap even if the retry queue doubles.
 
 Read the gateway counter correctly: `http://127.0.0.1:4100/stats` counts **agent-spine** calls only
 (`agent_gateway_usage.jsonl`, prompt >12k tokens/call). **Extraction calls bypass the gateway
@@ -637,6 +640,49 @@ Every remaining default in the chain was re-checked against the sequence and is 
 unioned; `p4c_report --packs` / `--union` / `--ladder-plan` → exactly what steps 2-3 wrote; ladder
 `--retry-out` / `--esc-out` → the two `singles_*.jsonl` step 4-5 consume.
 
+### Amendment 9 — the fleet had no outer ring, so a host reboot ended the drain silently (2026-11-15)
+
+Authority: none needed; process-supervision fix, no gate, cap or plan change.
+
+`kb/p4c_supervisor.py` restarts the **daemon** after a crash, but nothing restarted the **supervisor**.
+Amendment 6 is the proof it matters: a scheduled Windows update restarted the host at 04:45 and the
+daemon died with it; the fleet sat dead until a human noticed at 08:42. The remaining drain needs
+**~11-21 h** of uninterrupted wall clock (monitor tail at 02:59: 13,921/24,978 = 55.7%, rate
+10.3 ok/min, eta 17.9 h — re-read `kb\logs\p4c_mon9.log`, the figure moves), so one more unattended
+reboot loses the rest of the wait with no local signal — the log
+just stops, and a stopped log looks exactly like a slow batch.
+
+`kb/p4c_watchdog.py` is the outer ring. It imports **no `kb` module** (so it still works if the
+pipeline code is mid-edit or a module fails to import), scans `psutil` process cmdlines for
+`p4c_supervisor.py` / `p4c_daemon.py`, exits **0 and silently** when any is alive, and otherwise
+launches the supervisor detached and hidden (`DETACHED_PROCESS | CREATE_NO_WINDOW`, stdio to DEVNULL).
+Detached is required, not cosmetic: killing an SSL-busy daemon with `-Force` has aborted the
+interpreter before, so the fleet must outlive whatever console starts it.
+
+*Persistence.* `Register-ScheduledTask` returned `Access is denied.` at user scope, and the `schtasks`
+equivalent likewise — task registration needs admin on this host. Used the Startup folder instead,
+matching the launchers already there (`Agent Gateway.lnk`, `byok-proxy.vbs`, several `*.vbs`):
+`%APPDATA%\...\Startup\ShippingP4cWatchdog.vbs` runs the interpreter hidden at logon. Because the
+watchdog is a no-op while the fleet is alive, a logon-time launch is safe on every logon, not just
+after a reboot. `kb/p4c_watchdog.cmd` exists as the same launch path for any future non-admin
+mechanism, so the command lives in one place.
+
+*Verified live, not just asserted.* With the real fleet running (supervisor 5888 + daemon 25088):
+direct `pythonw` run → exit 0, **log line count unchanged** (silent no-op), fleet still exactly 2;
+executing the Startup `.vbs` → same, no new line, no new process; `--force` with the fleet alive →
+logs a refusal and launches nothing, so the "force" path cannot stack a second supervisor. The
+launch path itself was proven by blinding liveness (probe at `kb/_t_wdtest.py`, now deleted) and
+pointing it at a stub: exactly **1** launch, stub alive, then killed, real fleet untouched. A logged
+`RecursionError` during that probe was my harness patching `subprocess.Popen` to a wrapper that
+called `subprocess.Popen` — a probe bug, not a watchdog defect (capture the original callable before
+patching); the production path uses the real `Popen`.
+
+*Regression tests.* `kb/tests/test_p4c_watchdog.py` (5 tests) pins the two properties that make the
+ring safe: quiet-and-no-launch when the fleet is alive (an extra supervisor would contend for the AMD
+pool, which is capacity-bound at 8 accounts — Amendment 7), and exactly one detached launch when the
+fleet is gone, with the verified flags carried through. A launch failure must be logged and reported
+(exit 1), never swallowed. Full suite **391 → 396 passed**; tripwire clean.
+
 ## P4b numbers (extraction bake-off, plan §10.2)
 
 **Defect 3 — fatal interpreter abort.** The daemon died at 09:56:12 with
@@ -923,8 +969,9 @@ been run (`kb/_t_retrysample.py` → `kb/p4c_run.py`) on 240 of the 806 broken c
 stratified samples: it repairs **142/240 = 59.2%** (51.7% and 66.7% per sample). Projected onto the slice
 that is ≈477 repaired, leaving ≈329 broken versus 858 required — and on the full scope ≈151–181 residual
 against the 1,732 allowance, i.e. a post-retry rate of **0.0056–0.0067 vs the 0.02 gate**. Cost of
-retrying the entire 2,137-call queue is ≈**$1.09** (2137 × $0.1227/240), no escalation needed. Details and
-the retracted structural argument are in the next subsection.
+retrying the entire 2,137-call queue is ≈**$1.11** (2137 × $0.000520 = `$0.1227/236` ok calls; an earlier
+`$1.09` divided by 240 attempts instead of 236 successes — the ledger counts the ok rows), no escalation
+needed. Details and the retracted structural argument are in the next subsection.
 
 ### Can the free retry rung actually repair the broken chunks? YES — measured, not argued
 **(CORRECTED 01:5x: MEASURED. The earlier version of this subsection claimed NO and was WRONG — it
@@ -948,7 +995,7 @@ spend, so the second run's "cost" already included the first's):
 Applying the pooled repair rate to the 806 broken chunks of the rehearsal scope gives residual ≈151
 broken ⇒ post-retry **broken/chunks = 0.0056**, i.e. **0.56% against the 2% gate** (allowed 539 broken;
 pre-retry 0.0299). Even the worst sample's residual (18.8% → ≈181) gives 0.0067. Retrying the whole
-2,137-call queue costs ≈**$1.09** (2137 × $0.1227/240) and needs **no** escalation budget. 858 is moot:
+2,137-call queue costs ≈**$1.11** (2137 × $0.000520 = `$0.1227/236`) and needs **no** escalation budget. 858 is moot:
 the free rung already clears the gate.
 
 Why the repeat *does* differ — the shape lever is large, not meagre:
@@ -1015,7 +1062,8 @@ python -X utf8 kb\p4c_ladder.py --cap 11 --gated kb\state\p4c\rungs\p4c_bulk\gat
 #    ladder's 260) — that duplicate is what had to be cleaned up above.
 #    THIS RUNG CARRIES THE 2% GATE. Measured on 240 broken rehearsal chunks: it repairs 59.2%
 #    (51.7%/66.7% per sample), projecting a post-retry rate of 0.0056-0.0067 vs the 0.02 gate, for
-#    ~$1.09 across all 2,137 queued calls. Do not skip it and do not assume it is a no-op.
+#    ~$1.11 across all 2,137 queued calls ($0.000520/call = $0.1227/236 ok). Do not skip it and do not
+#    assume it is a no-op.
 python -X utf8 kb\p4c_run.py --run --pass p4c_bulk_retry --model DeepSeek-V4.1-Flash `
   --packs kb\state\p4c\singles_retry.jsonl
 # --packs is REQUIRED here too: with it omitted, `p4c_gate.load_packs(None)` defaults to
