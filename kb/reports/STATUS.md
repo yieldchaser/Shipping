@@ -43,11 +43,18 @@ adjudication $0.053. Free tiers (Ultrafast, NIM) carried 1,464 of the 2,240 call
 Gateway `/stats` after P4b: enclave (agent spine) $66.04/66.00 unchanged -- no paid agent calls;
 Ultrafast output today 1,268,319/4,800,000 tokens.
 
-Live pipeline spend 2026-11-15T00:5xZ: read it from the ledger, not from this file —
+Live pipeline spend 2026-11-15T02:4xZ: read it from the ledger, not from this file —
 `kb/state/ledger.sqlite` is the authority (sum `cost_usd` over all passes, or the query in the AMD
-amendment section below). At the last measurement: **$17.8277** ledger-measured across 19,064 jobs
-(`p4c_bulk`/`DeepSeek-V4.1-Flash` $12.8761 of it, `p4c_bulk_retry` $0.1227); against the $82 cap that
-leaves ≈$64.2. The ladder's `--cap 11` is a *booking* limit for escalation, not the pipeline cap.
+amendment section below). At the last measurement: **$18.9875** ledger-measured by `runner.spent()`
+(`p4c_bulk`/`DeepSeek-V4.1-Flash` **$14.0249** of it, `p4c_bulk_retry` $0.1227, `p4c_esc_preflight`
+$0.0111); against the $82 cap that leaves **≈$63.01**. The ladder's `--cap 11` is a *booking* limit
+for escalation, not the pipeline cap.
+
+That headroom comfortably covers the remaining drain: the retry rung is ~2,137 AMD single-pack calls
+at ~$0.0010 (measured rate: 240 calls for $0.1227) ≈ **$2.2**, the esc rung is the 445-candidate pool
+at an `est_cost` total of **$11.00** (true cost ~$5.5–8.9, see the esc correction below), and the
+gate/union/report/judge-audit steps make no billable AMD calls. Worst case ≈$13.2 of drain against
+$63.0 of headroom, so the drain cannot approach the $82 cap even if the retry queue doubles.
 
 Read the gateway counter correctly: `http://127.0.0.1:4100/stats` counts **agent-spine** calls only
 (`agent_gateway_usage.jsonl`, prompt >12k tokens/call). **Extraction calls bypass the gateway
