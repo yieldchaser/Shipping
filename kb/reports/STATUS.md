@@ -1096,6 +1096,34 @@ shows `broken/chunks` **806/26,953 = 0.0299** against `failure_queue_max 0.02`, 
 the retry and escalation rungs exist. `p4c_gate.gate_run` (L212-214) also refuses to append over a
 non-empty `gated.jsonl`, so every rung needs its own fresh `--out-dir` — as written in step 6 above.
 
+Schema note for anyone reading a union row: `p4c_union.build` writes the broken flag as
+**`call_broken`** (L~330), not `broken`; `p4c_report.merge_union` renames it to `broken` when it
+builds its per-chunk state, which is the key `totals()` (L257) and the gate row (L307) read. So
+`broken` is absent from `gated_union.jsonl` rows and present in `p4c_report` output — a probe
+filtering union rows on `broken` silently finds **zero** and concludes the failure queue is empty.
+Filter union rows on `call_broken`.
+
+### Escalation rung preflighted with one real call (2026-11-15, $0.0111)
+
+The esc rung was the one drain step with no rehearsal coverage (`kb\state\raw\p4c_esc\` was empty,
+and the `union4` rehearsal slice shows `p4c_esc: missing` for every chunk). Since it is the most
+expensive rung, it was preflighted through the production path (`single_pack` -> one-pack scratch
+packs file -> `p4c_run.run_packs(limit=1)` -> `p4c_gate.gate_pack`) rather than assumed:
+
+- route is gateway-independent, as expected: `llm_runner._provider_spec("glm-5.3")` is `None`, so
+  `base_url` resolves to `https://router.enclave.ai/v1` and the key comes from `ENCLAVE_API_KEY`.
+  The AMD pool is untouched by this rung.
+- the call answered and was charged: `finish_reason tool_calls`, 401 out tok, **$0.011052**.
+- it repaired the chunk it was given: target `1518bbd40c2a9cad6675971e3ec58e81` (doc `000195bee10e2381`,
+  `records_total 0` with `call_broken true`) came back with **`records_total 1`, `records_ok 1`,
+  `gates_2_4_failed 0`) — an answered chunk that had kept zero records now keeps one.
+- **esc cost is ~$0.0111/call, not the estimated ~$0.024.** At the ladder's ~451 escalation
+  candidates that is **~$5.0** against the `escalation_plus_gleaning: 11` booking, i.e. the cap is
+  now generous rather than binding. The earlier $11.00 figure was a projection, not a measurement.
+
+Scratch from this preflight: `kb\state\raw\p4c_esc_preflight\`, `kb\state\p4c\_scratch_escpreflight\`
+— both to be deleted before the P4c PASS commit.
+
 ## P4c scaffold (code, committed)
 
 While waiting at C1: `kb/p4c_pack.py` (packing, dry run 1,149 packs / 4,000 chunks / 794 docs, mean
