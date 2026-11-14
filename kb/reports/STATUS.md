@@ -845,6 +845,11 @@ daemon `kb/p4c_daemon.py --pass p4c_bulk --model DeepSeek-V4.1-Flash --quota 0 -
 
 ## Completion counter correction (found 23:18 on the live run)
 
+**Live progress at 2026-11-15T01:06 (authoritative `p4c_run.done_packs`, key-exact + `stored_usable`):
+12,493 / 24,978 = 50.0%**, remaining 12,485, rate 17.7 ok/min, ETA ≈11.7 h, spend `p4c_bulk`
+$12.8761 (`kb/logs/p4c_mon9.log`). Both the supervisor (PID 5888) and the daemon child (PID 25088)
+are alive. Ledger pipeline total **$17.8277 / $82**.
+
 The progress figure used earlier in this file ("key-exact done") was **over-reporting**, and the
 over-report is a trap for the post-drain check, so the authoritative definition is pinned here.
 
@@ -998,6 +1003,9 @@ python -X utf8 kb\p4c_ladder.py --cap 11 --gated kb\state\p4c\rungs\p4c_bulk\gat
 #    Consume the LADDER's singles file. Do NOT use `p4c_run.py --escalate`, which re-derives its own
 #    queue from failures.jsonl and writes a competing singles_p4c_bulk_retry.jsonl (3,232 rows vs the
 #    ladder's 260) — that duplicate is what had to be cleaned up above.
+#    THIS RUNG CARRIES THE 2% GATE. Measured on 240 broken rehearsal chunks: it repairs 59.2%
+#    (51.7%/66.7% per sample), projecting a post-retry rate of 0.0056-0.0067 vs the 0.02 gate, for
+#    ~$1.09 across all 2,137 queued calls. Do not skip it and do not assume it is a no-op.
 python -X utf8 kb\p4c_run.py --run --pass p4c_bulk_retry --model DeepSeek-V4.1-Flash `
   --packs kb\state\p4c\singles_retry.jsonl
 # --packs is REQUIRED here too: with it omitted, `p4c_gate.load_packs(None)` defaults to
@@ -1010,6 +1018,10 @@ python -X utf8 -m kb.p4c_gate --pass p4c_bulk_retry --model DeepSeek-V4.1-Flash 
 # 5. paid glm-5.3 escalation rung, D12 cap-prioritised, inside the $11 booking.
 #    Step 3 wrote the esc packs for real (445 single-chunk calls at the $11 cap, verified on the
 #    rehearsal gate); the rung reads those, never a re-derived queue.
+#    QUALITY BACKSTOP, NOT A GATE DEPENDENCY: after the measured step-4 repair rate the 2% gate is
+#    already cleared without this rung. Run it for the residual hard chunks (records returned but all
+#    dropped on entity_unresolved / number_not_in_quote) and for the family-different second opinion,
+#    and keep it capped at $11 so period_summaries/eval/rerun_reserve are untouched.
 python -X utf8 kb\p4c_run.py --run --pass p4c_esc --model glm-5.3 --cap 11 `
   --packs kb\state\p4c\singles_esc.jsonl
 # --packs is REQUIRED: the rung's raws are single-chunk keyed, and the gate must read the same
