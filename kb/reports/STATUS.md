@@ -1091,6 +1091,17 @@ an allocator abort — but the rule stands: **run the step-6 consumers one at a 
 AMD daemon's 16 pool threads**, and stop the daemon before step 2 in any case (it must stop anyway,
 since step 2 gates the finished bulk pass).
 
+Sized the ladder too, because it is the other whole-scope loader and it runs twice (pre-retry at
+step 3 and post-retry at step 4b). `p4c_ladder.load_gated` itself streams (L51-60), but
+`gated_chunk_map(paths=[...])` (L63-72) materialises `{chunk_id: gate row}` for **every** chunk, and
+`build_queue` then copies the list again (L114). Measured on the gate2 rehearsal slice
+(26,953 rows / 2,671 B per row): the dict alone is **236.8 MB**, i.e. ~8.8 KB per chunk, which scales
+to **~761 MB** at 86,607 chunks. So step 4b (`--gated` pre-retry **plus** `--esc-gated` post-retry,
+the only path that builds the merged map) is the heaviest drain step — heavier than the
+`merge_union` projection above — and it must run alone. Step 3, with `--gated` only, never builds the
+merged map and stays in the ~290 MB class measured earlier. The two ladder invocations must not
+overlap either: run step 3, let it exit, then step 4's gate, then step 4b.
+
 Until the drain, the live union row is legitimately above the gate: the rehearsal slice already
 shows `broken/chunks` **806/26,953 = 0.0299** against `failure_queue_max 0.02`, which is exactly why
 the retry and escalation rungs exist. `p4c_gate.gate_run` (L212-214) also refuses to append over a
