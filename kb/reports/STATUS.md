@@ -43,10 +43,11 @@ adjudication $0.053. Free tiers (Ultrafast, NIM) carried 1,464 of the 2,240 call
 Gateway `/stats` after P4b: enclave (agent spine) $66.04/66.00 unchanged -- no paid agent calls;
 Ultrafast output today 1,268,319/4,800,000 tokens.
 
-Live pipeline spend 2026-11-13T22:15Z: read it from the ledger, not from this file —
+Live pipeline spend 2026-11-15T00:5xZ: read it from the ledger, not from this file —
 `kb/state/ledger.sqlite` is the authority (sum `cost_usd` over all passes, or the query in the AMD
-amendment section below). At the last measurement: **$4.7680** ledger-measured for all passes up to
-the AMD cut-over, plus a small amount of live AMD bulk spend; against the $82 cap that leaves ≈$77.2.
+amendment section below). At the last measurement: **$17.8277** ledger-measured across 19,064 jobs
+(`p4c_bulk`/`DeepSeek-V4.1-Flash` $12.8761 of it, `p4c_bulk_retry` $0.1227); against the $82 cap that
+leaves ≈$64.2. The ladder's `--cap 11` is a *booking* limit for escalation, not the pipeline cap.
 
 Read the gateway counter correctly: `http://127.0.0.1:4100/stats` counts **agent-spine** calls only
 (`agent_gateway_usage.jsonl`, prompt >12k tokens/call). **Extraction calls bypass the gateway
@@ -904,36 +905,63 @@ chain runs. The retry rung is free (AMD, one retry per owner decision 3); the pa
 backstop and is capped at $11. **The 0.0299 is not a defect and must not be "fixed" by touching
 `gates.yaml`.**
 
-### Can the free retry rung actually repair 858 chunks? NO — and 858 was always the wrong model
-(checked 01:1x, no spend). The 858 figure above assumes a repeat call can flip a broken chunk to
-non-broken. It cannot, and the reason is structural:
+**RESOLVED 01:5x by measurement — the ≥858 target is met by the free rung alone.** The retry rung has now
+been run (`kb/_t_retrysample.py` → `kb/p4c_run.py`) on 240 of the 806 broken chunks in two disjoint
+stratified samples: it repairs **142/240 = 59.2%** (51.7% and 66.7% per sample). Projected onto the slice
+that is ≈477 repaired, leaving ≈329 broken versus 858 required — and on the full scope ≈151–181 residual
+against the 1,732 allowance, i.e. a post-retry rate of **0.0056–0.0067 vs the 0.02 gate**. Cost of
+retrying the entire 2,137-call queue is ≈**$1.09** (2137 × $0.1227/240), no escalation needed. Details and
+the retracted structural argument are in the next subsection.
 
-* **The retry request is byte-identical to the bulk request on a single-block pack.** `p4b_run.make_job`
-  L301 builds the user turn from `(doc, blocks, known)` with no pass-dependent text, and `key_variant`
-  canonicalises `tools`/`max_tokens` away, so `p4c_bulk_retry` and `p4c_bulk` send the same prompt.
-* **`make_job` sets `temperature: 0.0`** (L309), so the same prompt yields the same answer. A repeat
-  call is therefore deterministic: it can only differ through (a) transport blank/5xx, or (b) the changed
-  call shape (1 block vs ≤6 blocks, ≤3.5k tok).
-* **Both escape hatches are empty on the real data.** Cross-tab over the rehearsal queue
-  (`kb/_t_brokenmix.py`, 2,137 queued chunks): transport blank/schema-fail calls **0**, missing raw rows
-  **0**, chunks whose own verdict is broken **804** (rate 0.376) — i.e. every queued chunk's call parsed
-  and returned records.
-* **Gate 2–4 drops dominate, and they are content properties, not noise.** Of the 804 broken,
-  `kb/_t_brokenreasons.py` gives reasons `entity_unresolved` 1,809, `number_not_in_quote` 273,
-  `sid_missing` 118, `quote_empty` 111 (a chunk can carry several). Ref classes:
-  `canonical_but_rule4_failed` 2,309 (new entity's printed name absent from its own cited sentences —
-  rule 4 working), `declared_handle_unmapped` 787 + `malformed_N_handle` 379 (references the model never
-  declared in `new_entities`), `free_text_name` 627. **None of these is a code defect**: `canonicalize.fix`
-  accepts a prompt id, a registry id, a declared handle, or a known printed name, and deliberately leaves
-  anything else verbatim so the gate drops the record rather than guessing.
-* Shape lever: meagre. Only **29%** of broken chunks (216/732) sit in packs with ≥2 blocks, and those
-  still carry content-drop reasons, so the sibling-records shape change cannot help them.
+### Can the free retry rung actually repair the broken chunks? YES — measured, not argued
+**(CORRECTED 01:5x: MEASURED. The earlier version of this subsection claimed NO and was WRONG — it
+reasoned from the prompt being byte-identical under `temperature: 0.0` and never ran the rung. It has
+been run. The free rung repairs ~59% of broken chunks and the 2% gate is reached without any
+escalation spend. Superseded claim, kept only as a warning: the byte-identical-prompt argument is
+irrelevant because the rung is *not* the same call.)**
 
-Conclusion: the free rung's ceiling on this slice is the transport-blank population — **zero**. The
-honest paths are (1) the paid, family-different `glm-5.3` escalation rung (445 calls, $11 cap, already
-`partial_coverage: true` by design), and (2) if that is insufficient, the §7.5 L438 `partial_coverage`
-declaration to the owner. **Do not touch `gates.yaml`; do not lower a gate.** The live post-retry rate
-is still unmeasured — this only removes the *false* expectation that 858 is reachable for free.
+Measured run (real, paid, on the rehearsal queue — `kb/_t_retrysample.py` → `kb/p4c_run.py --pass
+p4c_bulk_retry` → `kb/p4c_gate.py`, 240 broken chunks in two disjoint stratified samples,
+`KB_AMD_WORKERS=4 KB_AMD_RATE=30` beside the daemon, **$0.1227** — ledger-verified `p4c_bulk_retry`
+total, 240 rows, 236 ok / 3×HTTP 429 / 1×HTTP 503; note `p4c_run` L213/L228 prints **cumulative per-pass**
+spend, so the second run's "cost" already included the first's):
+
+| sample | n | repaired (kept>0) | still broken (records returned, all dropped) | no_content (returned nothing) |
+|---|---|---|---|---|
+| s1 | 120 | 62 (**51.7%**) | 27 (22.5%) | 31 |
+| s2 | 120 | 80 (**66.7%**) | 18 (15.0%) | 22 |
+| pooled | 240 | 142 (**59.2%**) | 45 (18.8%) | 53 |
+
+Applying the pooled repair rate to the 806 broken chunks of the rehearsal scope gives residual ≈151
+broken ⇒ post-retry **broken/chunks = 0.0056**, i.e. **0.56% against the 2% gate** (allowed 539 broken;
+pre-retry 0.0299). Even the worst sample's residual (18.8% → ≈181) gives 0.0067. Retrying the whole
+2,137-call queue costs ≈**$1.09** (2137 × $0.1227/240) and needs **no** escalation budget. 858 is moot:
+the free rung already clears the gate.
+
+Why the repeat *does* differ — the shape lever is large, not meagre:
+* Transport/schema escape hatches are indeed empty on the real data (blank/schema-fail calls **0**,
+  missing raw rows **0**), exactly as the earlier draft found. So the repair is not retry-of-a-failure.
+* The lever is the call shape: `p4c_run.single_pack` sends **1 chunk / 1 block** where the bulk call sent
+  up to 6 chunks / 3.5k tok, and `known` is carried as `pack.get("known") or []` with sibling blocks
+  dropped. That removes the sibling chunks' competing entity handles from the prompt.
+* **96.8% of broken chunks (780/806) sit in parents with ≥2 blocks** — the earlier "29% (216/732)" figure
+  was a wrong-slice artifact and is retracted. The shape change is available for essentially the whole
+  broken population.
+* Residual still-broken chunks are the hard ones: records returned, every one dropped on
+  `entity_unresolved` / `number_not_in_quote`. Those are the genuine candidates for the paid
+  family-different `glm-5.3` rung (445 calls, $11 cap, `partial_coverage: true` by design) — but the 2%
+  gate no longer depends on them.
+* `no_content` (22% of the sampled broken set) is **not** broken under D12: the chunk returned nothing
+  and is a legitimately empty chunk (`p4c_union` L284, `p4c_gate` L152, `p4c_report` L83). Counting
+  `kept == 0` alone over-reports broken by conflating it with `no_content`; `kept == 0 AND
+  records_total > 0` is the broken test.
+
+**Do not touch `gates.yaml`; do not lower a gate — and now do not need to.** Retained from the earlier
+draft as a hard rule: the retry request *would* be byte-identical for a 1-block parent
+(`p4b_run.make_job` L301 has no pass-dependent text; `key_variant` canonicalises `tools`/`max_tokens`
+away), and `temperature: 0.0` (L309) makes a same-shape repeat deterministic — so the rung only works
+because its shape differs, which is why a same-shape "second bulk attempt" would be worthless. The
+lesson stands: **a structural argument is not a measurement.**
 
 ## Post-drain P4c chain (exact commands, run in this order)
 
