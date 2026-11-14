@@ -408,6 +408,18 @@ daemon `kb/p4c_daemon.py --pass p4c_bulk --model DeepSeek-V4.1-Flash --quota 0 -
 - Remaining ladder: `p4c_union` -> precision gate -> `p4c_bulk_retry` -> `p4c_esc` ($11) ->
   union -> `p4c_audit` -> `p4c_recall` -> `p4c_report.py --write` -> tripwire -> commit+push.
   `--glean` and `p4c_glm2` are booked at $0 and deferred to a post-C2 owner decision (Amendment 1).
+- **Ceiling is generation-throughput bound, not admission-bound (measured 2026-11-14T11:12Z, `kb/_t_tps.py`).**
+  800 recent `p4c_bulk`/`DeepSeek-V4.1-Flash` ok rows: per-call output rate p10 **17.3**, p50 **31.4**,
+  p90 **49.7** tok/s. The pool is 8 accounts (`AMD_TOKENLAB_API_KEY_1..8`), so aggregate generation
+  capacity is at most ~8 × 31.4 = **~251 tok/s**. Live ledger: 3,334,669 out_tok over 2,540 done packs =
+  **1,313 tok/pack**. 251 / 1,313 = **11.5 packs/min predicted** against **12.4 packs/min observed** —
+  we are running at ~100% of what eight accounts can physically stream. This supersedes the earlier
+  "provider admitted-concurrency cap" reading: admission (HTTP 429 / ceiling 144) is a *symptom* of the
+  same saturation, and it explains why 48 workers and two concurrent 16-worker extractors both failed to
+  beat 16 — there is no unused capacity to claim. **Worker count cannot be tuned past this; only more
+  accounts raise it.** At 12.4 ok/min the remaining ~22,438 packs are ≈ **30 h** wall, and the wall-clock
+  cost is fixed by provider streaming, not by our scheduling. §7.5 "partial coverage beats lower quality"
+  (plan L438) is therefore the live lever if the owner wants P4c inside a shorter window than 30 h.
 
 ## P4c scaffold (code, committed)
 
