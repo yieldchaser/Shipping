@@ -14,9 +14,10 @@ import p4c_ladder as L
 
 
 def row(cid="c1", doc_type="broker_weekly", section="prose", tokens=900,
-        total=4, ok=4, conf=0.9, fail=None) -> dict:
+        total=4, ok=4, conf=0.9, fail=None, call_missing=False) -> dict:
     return {"chunk_id": cid, "doc_id": "d1", "doc_type": doc_type, "section_class": section,
             "approx_tokens": tokens, "records_total": total, "records_ok": ok,
+            "call_missing": call_missing,
             "failed_pct": round((total - ok) / total, 4) if fail is None and total else (fail or 0.0),
             "mean_confidence": conf}
 
@@ -60,6 +61,19 @@ def test_build_queue_counts_and_rate():
     assert [x["chunk_id"] for x in q["queue"]] == ["a", "b"]
     assert q["trigger_counts"] == {"fail_pct": 1, "low_confidence": 1}
     assert q["queue_rate"] == pytest.approx(0.6667)
+
+
+def test_missing_rows_are_not_gated_and_do_not_lower_medians():
+    """A never-extracted row must not enter the queue, its rate, or the rule 6c medians."""
+    rows = [row("a", total=10, ok=1), row("m1", call_missing=True, tokens=900, ok=0),
+            row("m2", call_missing=True, tokens=900, ok=0), row("b", conf=0.2), row("c")]
+    q = L.build_queue(rows)
+    assert q["chunks_gated"] == 3
+    assert [x["chunk_id"] for x in q["queue"]] == ["a", "b"]
+    assert q["queue_rate"] == pytest.approx(0.6667)
+    # medians see only real rows [1,4,4] -> 4.0; including the two zero-record missing rows would
+    # give median([1,0,0,4,4]) == 0.0, which would make every real long chunk look "thin".
+    assert L.section_medians(rows) == {"broker_weekly/prose": 4.0}
 
 
 def test_load_gated_flattens_pack_rows(tmp_path):

@@ -426,6 +426,63 @@ dict by the real `cid`, so P4b was never affected. `p4c_report.merge_union` (L12
 touches `chunk_ids` only. So the union export and the recall scorer are the field's only two readers and
 both are fixed.
 
+**Defect 10 — "no raw stored yet" was graded as "the model answered blank", so every unextracted pack
+entered the D12 repair queue.** `p4c_gate.gate_pack` branched on `if text is None or not text.strip():` and
+set `call_failed=True` with `call["blank"]=True`, which is the *broken* flag `p4c_union.kept_for` (L80-85) and
+`p4c_report.chunk_state` use to build `failure_queue_max`. `p4c_union` had always distinguished the two
+(L80-81 default `"call": "missing"`, L84 `"blank" if text is not None else "missing"`), and `p4c_ladder`'s
+rule-6 sub-triggers are all guarded by `if total`, so nothing else in the pipeline treated a missing pack as a
+failure — the gate was the lone divergent reader. Measured blast radius: full frozen scope is 24,978 packs;
+raw present **6,103**, raw MISSING **18,875**. Left unfixed, the eventual full-scope gate would have reported
+~18.9k packs as broken and `failure_queue_max` would have been ~76% against a 2% gate, i.e. the gate would
+have been unmeetable for a reason that is pure bookkeeping, and the ladder would have queued ~1.5k chunks that
+were never asked. The interim slice on disk (1,366 packs / 4,826 rows) happened to contain only extracted
+packs, so it showed `calls_missing 0` — the defect was latent there and only full scope exposes it, which is
+why the fix was proven on a synthetic mixed slice instead (see below).
+
+*Fix (four files, one discriminator — byte-identical to `p4c_union.kept_for` L85):*
+- `p4c_gate.gate_pack`: split `if text is None:` → `call["missing"]=True` +
+  `_empty_chunk(reason="missing_raw", call_failed=False, call_missing=True)`, from
+  `if not text.strip():` → `call["blank"]=True` + `_empty_chunk(reason="blank_answer")` (unchanged, still
+  `call_failed=True`). Every chunk row now carries `call_failed` **and** `call_missing`; `_empty_chunk` gained
+  the two flags; `gate_run` gained `calls_missing` / `chunks_missing` counters and `packs_answered = packs −
+  calls_blank − calls_schema_fail − calls_missing`. `gate_pass_rate` now uses `packs_answered` so an
+  unextracted pack is **not** counted as passed (it is not a pass, it is an absence);
+  `chunk_failure_rate` excludes missing chunks from its denominator, since an unanswered chunk cannot fail.
+- `p4c_report.chunk_state` / `merge_union`: `missing = bool(chunk.get("call_missing"))`; `clean` is now
+  `not failed and not missing`. This is the load-bearing half: without it a missing rung row is "clean but
+  empty" and would **overwrite an earlier rung's real records** under ladder precedence. `totals` gained
+  `chunks_extracted` / `chunks_missing`, and `strict_failed` excludes missing rows.
+- `p4c_report.coverage`: counts only non-missing chunks (`live`), so a placeholder row is no longer reported
+  as covered; `rows` and `missing_chunks_rows` are published alongside so the excluded rows stay visible.
+- `p4c_ladder.section_medians` / `build_queue`: missing rows are dropped before the rule-6c pilot median and
+  before the queue. Both were *inert* (the `if total` guards) but not *harmless*: a missing row is a
+  zero-record row, and on a partly-extracted slice those zeros would drag the per-section median to ~0 and
+  make every real long SEC chunk look thin, i.e. one bookkeeping artefact would have created escalation spend.
+- `failure_queue_max` denominator deliberately **unchanged and still frozen** (`broken / chunks`, i.e. all
+  merged rows), because that is the literal binding in `p4c_union.py` L297 that Defect 9 unified on. The
+  extraction-only reading is published next to it as `failure_queue_rate_extracted` (report output only, not
+  a gate). Threshold untouched at 0.02.
+
+*Proof.* (a) New synthetic-mixed-slice proof over a real ledger-derived pack list: 400 packs = 200 with a
+stored raw + 200 without → `packs 400 / packs_answered 200 / chunks 1757 / chunks_missing 998 /
+calls_missing 200 / calls_blank 0 / calls_schema_fail 0 / chunk_failures 91 / chunk_failure_rate 0.1199 /
+gate_pass_rate 0.5000`, `failures.jsonl` **91 rows, none with reason `missing_raw`**, and every gated row for
+the unextracted packs reads `call_missing=True and call_failed=False`. Under the old code those 998 chunks
+would all have been failures. (b) Direct assertion that an absent raw yields `missing_raw` and never
+`blank_answer`, with the genuine-blank test (stored `""` → `call_failed=True`, reason `blank_answer`) left
+untouched, so the split is pinned on both sides. (c) `p4c_report` tests: a missing row is not `clean`, not
+`broken`, not counted as coverage, and a later clean-but-empty rung cannot overwrite an earlier rung's
+records. (d) `p4c_ladder` test: missing rows stay out of `chunks_gated`/`queue_rate` and out of the medians.
+Tests added: 6 (`test_p4c_gate` 2, `test_p4c_report` 3, `test_p4c_ladder` 1); full suite **375 → 381
+passed**.
+
+*Same discipline as Defect 9:* the missing packs were **excluded** from the repair queue, not reclassified to
+make the gate look better, and no threshold moved. Excluding them is what `p4c_union` already did, and it is
+the honest reading: an unextracted pack is a **coverage** fact (reported via `chunks_missing`,
+`missing_chunks_rows`, `packs_answered`), not a quality fact. `p4c_report` and `p4c_union` must still agree
+once the bulk pass finishes; if they do not, the mismatch is a new defect, not a threshold question.
+
 ## P4b numbers (extraction bake-off, plan §10.2)
 
 **Defect 3 — fatal interpreter abort.** The daemon died at 09:56:12 with

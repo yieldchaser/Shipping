@@ -172,6 +172,45 @@ def test_merge_accepts_flat_gate_rows(tmp_path):
     assert merged["chunks"]["b"]["rung"] == "bulk"
 
 
+def test_missing_rows_are_not_coverage_and_not_clean():
+    """A never-extracted placeholder row (Defect 10) is neither covered nor clean nor broken."""
+    st = P.chunk_state({"chunk_id": "m", "call_missing": True, "call_failed": False,
+                        "records_total": 0, "kept": {}})
+    assert st["missing"] and not st["clean"] and not st["broken"] and not st["call_failed"]
+    t = P.totals({"m": st, "ok": P.chunk_state(gchunk("ok"))})
+    assert t["chunks"] == 2 and t["chunks_missing"] == 1 and t["chunks_extracted"] == 1
+    assert t["chunks_clean"] == 1 and t["chunks_failed"] == 0
+    # missing dilutes neither reading: strict failure counts only extracted chunks
+    assert t["failure_queue_rate"] == 0.0 and t["strict_failure_rate"] == 0.0
+    cov = P.coverage({"m": dict(st, doc_id="d1"), "ok": dict(P.chunk_state(gchunk("ok")), doc_id="d2")},
+                     {"d1": {}, "d2": {}})
+    assert cov["chunks"] == 1 and cov["rows"] == 2 and cov["missing_chunks_rows"] == 1
+
+
+def test_merge_keeps_records_when_a_later_rung_has_no_raw(tmp_path):
+    """A clean-but-empty rung row must not overwrite an earlier rung's real records."""
+    good = tmp_path / "bulk" / "gated.jsonl"
+    good.parent.mkdir(parents=True)
+    good.write_text(json.dumps(gchunk("a")) + "\n", encoding="utf-8")
+    miss = tmp_path / "retry" / "gated.jsonl"
+    miss.parent.mkdir(parents=True)
+    miss.write_text(json.dumps({"chunk_id": "a", "call_missing": True, "call_failed": False,
+                                "records_total": 0, "gates_2_4_failed": 0, "kept": {}}) + "\n",
+                    encoding="utf-8")
+    merged = P.merge([good, miss])
+    assert merged["chunks"]["a"]["clean"] and merged["chunks"]["a"]["kept"]["state_facts"] == 1
+    assert merged["chunks"]["a"]["rung"] == "bulk"
+
+
+def test_merge_union_missing_row_is_not_clean(tmp_path):
+    up = tmp_path / "union" / "gated_union.jsonl"
+    up.parent.mkdir(parents=True)
+    up.write_text(json.dumps(union_row("a", kept=0, missing=True)) + "\n", encoding="utf-8")
+    m = P.merge_union(up)
+    assert m["chunks"]["a"]["missing"] and not m["chunks"]["a"]["clean"]
+    assert not m["chunks"]["a"]["broken"]
+
+
 def test_scope_year_count_matches_corpus():
     assert P.SCOPE_YEARS == 24
 

@@ -105,6 +105,36 @@ def test_gate_pack_blank_answer_queues_every_chunk(monkeypatch, tmp_path):
         assert ch["call_failed"] is True and ch["reasons"] == ["blank_answer"]
 
 
+def test_gate_pack_absent_raw_is_missing_never_broken(monkeypatch, tmp_path):
+    """A pack with no stored raw has not been extracted yet: not a failure, not a blank answer."""
+    monkeypatch.setattr(G, "raw_for", lambda *a, **k: tmp_path / "never_written.json")
+    res = G.gate_pack(make_pack(), "p4c_bulk", "m", "tools")
+    assert res["call"]["missing"] is True
+    assert res["call"]["blank"] is False and res["call"]["schema_fail"] is False
+    for cid in ("a", "b"):
+        ch = res["chunks"][cid]
+        assert ch["call_failed"] is False and ch["call_missing"] is True
+        assert ch["reasons"] == ["missing_raw"]
+        assert ch["records_total"] == 0 and ch["gates_2_4_failed"] == 0
+
+
+def test_gate_run_missing_packs_stay_out_of_the_failure_queue(monkeypatch, tmp_path):
+    monkeypatch.setattr(G, "raw_for", lambda *a, **k: tmp_path / "never_written.json")
+    packs = tmp_path / "packs.jsonl"
+    packs.write_text(json.dumps(make_pack()) + "\n", encoding="utf-8")
+    out = tmp_path / "out"
+    st = G.gate_run("p4c_bulk", "m", mode="tools", packs_path=packs, out_dir=out)
+    assert st["packs"] == 1 and st["chunks"] == 2
+    assert st["calls_missing"] == 1 and st["chunks_missing"] == 2
+    assert st["calls_blank"] == 0 and st["chunk_failures"] == 0
+    assert st["packs_answered"] == 0 and st["gate_pass_rate"] == 0.0
+    assert st["chunk_failure_rate"] == 0.0
+    assert (out / "failures.jsonl").read_text(encoding="utf-8") == ""
+    rows = [json.loads(x) for x in (out / "gated.jsonl").read_text(encoding="utf-8").splitlines()]
+    assert all(r["call_missing"] and not r["call_failed"] for r in rows)
+    assert all("missing_raw" in r["reasons"] for r in rows)
+
+
 def test_gate_pack_schema_failure_queues_every_chunk(monkeypatch, tmp_path):
     stub_raw(monkeypatch, tmp_path, "not json at all")
     res = G.gate_pack(make_pack(), "p4c_bulk", "m", "tools")

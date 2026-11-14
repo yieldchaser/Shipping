@@ -99,12 +99,21 @@ def read_raw(path: Path) -> tuple[str | None, dict | None]:
 def gate_pack(pack: dict, pass_name: str, model: str, mode: str) -> dict:
     """Parse + gate one pack. Returns {chunks: {cid: gated_chunk}, call: {...}} for the pack."""
     out = {"pack_key": pack["key"], "doc_id": pack["doc_id"], "chunks": {},
-           "call": {"parse_ok": False, "schema_fail": False, "blank": False,
+           "call": {"parse_ok": False, "schema_fail": False, "blank": False, "missing": False,
                     "records_total": 0, "records_ok": 0, "no_content": False, "reasons": {}}}
     path = raw_for(pass_name, model, mode, pack)
     text, _usage = read_raw(path)
     call = out["call"]
-    if text is None or not text.strip():
+    if text is None:
+        # No stored raw at all: this pack has not been extracted yet (or its pass never ran).
+        # Same split as `p4c_union.kept_for` L85: missing != broken. A missing pack must never
+        # enter the D12 repair queue, or every not-yet-covered pack inflates it.
+        call["missing"] = True
+        for cid in pack["chunk_ids"]:
+            out["chunks"][cid] = _empty_chunk(pack, cid, reason="missing_raw",
+                                              call_failed=False, call_missing=True)
+        return out
+    if not text.strip():
         call["blank"] = True
         for block, cid in zip(pack["blocks"], pack["chunk_ids"]):
             out["chunks"][cid] = _empty_chunk(pack, cid, reason="blank_answer")
@@ -150,6 +159,7 @@ def gate_pack(pack: dict, pass_name: str, model: str, mode: str) -> dict:
             "new_entities_ok": dict(g.get("new_entities_ok") or {}),
             "new_names": {k: v for k, v in new_names.items() if k in (g.get("new_entities_ok") or {})},
             "reasons": [r for rec in recs for r in (rec.get("reasons") or [])],
+            "call_failed": False, "call_missing": False,
         }
     return out
 
@@ -171,7 +181,10 @@ def _as_dict(rec, cid: str) -> dict:
     return row
 
 
-def _empty_chunk(pack: dict, cid: str, reason: str) -> dict:
+def _empty_chunk(pack: dict, cid: str, reason: str, call_failed: bool = True,
+                 call_missing: bool = False) -> dict:
+    """A chunk row with no records. `call_failed` marks the D12 repair queue (blank / schema_fail);
+    a chunk whose pass simply has no stored raw yet is `call_missing`, never `call_failed`."""
     block = next((b for b, c in zip(pack.get("blocks") or [], pack.get("chunk_ids") or [])
                   if c == cid), {})
     return {"chunk_id": cid, "doc_id": pack["doc_id"],
@@ -183,7 +196,8 @@ def _empty_chunk(pack: dict, cid: str, reason: str) -> dict:
             "no_content": False, "records_total": 0, "records_ok": 0, "gates_2_4_failed": 0,
             "failed_pct": 0.0, "mean_confidence": None,
             "records": [], "kept": {k: [] for k in KINDS}, "new_entities_ok": {}, "new_names": {},
-            "reasons": [reason], "call_failed": True}
+            "reasons": [reason], "call_failed": bool(call_failed),
+            "call_missing": bool(call_missing)}
 
 
 def gate_run(pass_name: str, model: str, mode: str | None = None,
@@ -200,6 +214,7 @@ def gate_run(pass_name: str, model: str, mode: str | None = None,
             raise SystemExit(f"refusing to append: {p} already exists (delete it first)")
     st = {"pass": pass_name, "model": model, "mode": mode, "packs": 0, "packs_seen": 0,
           "chunks": 0, "chunk_failures": 0, "calls_blank": 0, "calls_schema_fail": 0,
+          "calls_missing": 0, "chunks_missing": 0,
           "records_total": 0, "records_ok": 0, "no_content_chunks": 0,
           "reasons": Counter(), "fail_reasons": Counter()}
     with gated_p.open("a", encoding="utf-8") as gf, fail_p.open("a", encoding="utf-8") as ff:
@@ -210,6 +225,7 @@ def gate_run(pass_name: str, model: str, mode: str | None = None,
             st["packs"] += 1
             st["calls_blank"] += int(call["blank"])
             st["calls_schema_fail"] += int(call["schema_fail"])
+            st["calls_missing"] += int(call.get("missing", False))
             st["records_total"] += call["records_total"]
             st["records_ok"] += call["records_ok"]
             for r, n in (call["reasons"] or {}).items():
@@ -218,6 +234,7 @@ def gate_run(pass_name: str, model: str, mode: str | None = None,
                 ch = res["chunks"][cid]
                 st["chunks"] += 1
                 st["no_content_chunks"] += int(ch["no_content"])
+                st["chunks_missing"] += int(ch.get("call_missing", False))
                 gf.write(json.dumps({"pack_key": res["pack_key"], **ch}, ensure_ascii=False) + "\n")
                 bad = ch.get("call_failed") or ch["gates_2_4_failed"] > 0
                 if bad:
@@ -227,16 +244,20 @@ def gate_run(pass_name: str, model: str, mode: str | None = None,
                     ff.write(json.dumps({"pack_key": res["pack_key"], "chunk_id": cid,
                                          "doc_id": ch["doc_id"], "reasons": ch["reasons"],
                                          "call_failed": bool(ch.get("call_failed")),
+                                         "call_missing": bool(ch.get("call_missing")),
                                          "records_total": ch["records_total"]}, ensure_ascii=False)
                                 + "\n")
             if limit and st["packs"] >= limit:
                 break
     stats = {k: (dict(v) if isinstance(v, Counter) else v) for k, v in st.items()}
-    stats["gate_pass_rate"] = round(st["packs"] and (st["packs"] - st["calls_blank"]
-                                                     - st["calls_schema_fail"]) / st["packs"], 6)
+    # missing packs are not answered calls: they are outside this pass' coverage, not failures.
+    answered = st["packs"] - st["calls_blank"] - st["calls_schema_fail"] - st["calls_missing"]
+    stats["packs_answered"] = answered
+    stats["gate_pass_rate"] = round(st["packs"] and answered / st["packs"], 6)
     stats["record_drop_rate"] = round(1 - (st["records_ok"] / st["records_total"]), 6) \
         if st["records_total"] else 0.0
-    stats["chunk_failure_rate"] = round(st["chunk_failures"] / st["chunks"], 6) if st["chunks"] else 0.0
+    stats["chunk_failure_rate"] = round(st["chunk_failures"]
+                                        / max(1, st["chunks"] - st["chunks_missing"]), 6)
     stats["out"] = str(gated_p)
     (out_dir / "gate_stats.json").write_text(json.dumps(stats, indent=2), encoding="utf-8")
     return stats
@@ -249,6 +270,7 @@ def cmd_gate(args) -> int:
     print("packs", st["packs"], "chunks", st["chunks"], "chunk failures", st["chunk_failures"],
           "(rate", st["chunk_failure_rate"], ")")
     print("calls blank", st["calls_blank"], "schema_fail", st["calls_schema_fail"],
+          "missing", st["calls_missing"], "chunks missing", st["chunks_missing"],
           "gate pass rate", st["gate_pass_rate"], "record drop rate", st["record_drop_rate"])
     print("reasons", st["reasons"])
     print("fail reasons", st["fail_reasons"])

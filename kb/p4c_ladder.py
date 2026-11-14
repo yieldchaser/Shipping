@@ -76,6 +76,10 @@ def section_medians(rows) -> dict[str, float]:
     """Pilot median kept-record count for long chunks, per doc_type/section class (rule 6c)."""
     buckets: dict[str, list[int]] = {}
     for row in rows:
+        if row.get("call_missing"):
+            # Never-extracted chunk: it has no records because it was never asked, so letting it
+            # into the pilot median would drag rule 6c down and escalate chunks that are fine.
+            continue
         if int(row.get("approx_tokens") or 0) < LONG_TOKENS:
             continue
         key = f"{row.get('doc_type') or '?'}/{row.get('section_class') or '?'}"
@@ -102,8 +106,12 @@ def triggers(row: dict, medians: dict[str, float]) -> list[str]:
 
 
 def build_queue(rows) -> dict:
-    """Rule-6 queue over all gated chunks: ordered list of {chunk_id, doc_id, triggers}."""
-    rows = list(rows)
+    """Rule-6 queue over all gated chunks: ordered list of {chunk_id, doc_id, triggers}.
+
+    Rows that are `call_missing` (pack never extracted - Defect 10) are not "gated" in any useful
+    sense: nothing was asked, so nothing failed. They are excluded from the queue and its rate.
+    """
+    rows = [r for r in rows if not r.get("call_missing")]
     med = section_medians(rows)
     queue, counts = [], {}
     for row in rows:

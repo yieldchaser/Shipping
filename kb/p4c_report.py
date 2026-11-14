@@ -79,9 +79,12 @@ def chunk_state(chunk: dict) -> dict:
     kept = chunk.get("kept") or {}
     counts = {k: len(kept.get(k) or []) for k in KINDS}
     total = int(chunk.get("records_total") or 0)
+    missing = bool(chunk.get("call_missing"))
     broken = bool(chunk.get("call_failed")) or (total > 0 and sum(counts.values()) == 0)
-    return {"chunk_id": chunk.get("chunk_id"), "clean": not failed, "broken": broken,
-            "call_failed": bool(chunk.get("call_failed")),
+    # A missing chunk is *not* clean: `merge` lets a clean later rung replace an earlier verdict, so
+    # calling "never extracted" clean would let an empty rung row overwrite real records.
+    return {"chunk_id": chunk.get("chunk_id"), "clean": not failed and not missing, "broken": broken,
+            "call_failed": bool(chunk.get("call_failed")), "missing": missing,
             "records_total": total,
             "records_ok": int(chunk.get("records_ok") or 0),
             "dropped": int(chunk.get("gates_2_4_failed") or 0),
@@ -147,8 +150,10 @@ def merge_union(path: Path) -> dict:
         kept = {k: len((row.get("kept") or {}).get(k) or []) for k in KINDS}
         n = int(row.get("records_total") or 0)
         broken = bool(row.get("call_broken"))
+        missing = bool(row.get("call_missing"))
         st = {"chunk_id": row["chunk_id"], "doc_id": row.get("doc_id"),
-              "clean": not broken, "broken": broken, "kept": kept,
+              "clean": not broken and not missing, "broken": broken, "missing": missing,
+              "kept": kept,
               "records_total": n, "records_ok": int(row.get("records_ok") or 0),
               "dropped": int(row.get("gates_dropped") or 0),
               "no_content": bool(row.get("no_content")),
@@ -223,13 +228,17 @@ def doc_meta(packs_path: Path) -> dict[str, dict]:
 
 
 def coverage(chunks: dict, meta: dict) -> dict:
-    covered = [c["doc_id"] for c in chunks.values() if c["doc_id"]]
+    # "Extracted" means a call actually answered: a chunk whose row is a `missing` placeholder was
+    # never extracted and must not be counted as covered (D12 / L438 partial coverage).
+    live = [c for c in chunks.values() if not c.get("missing")]
+    covered = [c["doc_id"] for c in live if c["doc_id"]]
     docs = sorted(set(covered))
     pubs = sorted({(meta.get(d) or {}).get("publisher") for d in docs} - {None})
     types = sorted({(meta.get(d) or {}).get("doc_type") for d in docs} - {None})
     years = sorted({str((meta.get(d) or {}).get("published_at") or "")[:4] for d in docs} - {"", "None"})
-    total = len(chunks)
+    total = len(live)
     return {"chunks": total, "scope_chunks": SCOPE_CHUNKS,
+            "rows": len(chunks), "missing_chunks_rows": len(chunks) - total,
             "chunk_coverage": round(total / SCOPE_CHUNKS, 4),
             "docs": len(docs), "scope_docs": SCOPE_DOCS,
             "doc_coverage": round(len(docs) / SCOPE_DOCS, 4),
@@ -246,17 +255,23 @@ def totals(chunks: dict) -> dict:
     rec_total = sum(c["records_total"] for c in chunks.values())
     clean = sum(1 for c in chunks.values() if c["clean"])
     broken = [c for c in chunks.values() if c.get("broken")]
-    strict_failed = [c for c in chunks.values() if not c["clean"]]
+    strict_failed = [c for c in chunks.values() if not c["clean"] and not c.get("missing")]
+    missing = [c for c in chunks.values() if c.get("missing")]
     n = len(chunks)
-    return {"chunks": n, "chunks_clean": clean, "chunks_failed": len(broken),
+    extracted = n - len(missing)
+    return {"chunks": n, "chunks_extracted": extracted, "chunks_missing": len(missing),
+            "chunks_clean": clean, "chunks_failed": len(broken),
             "chunks_broken": len(broken),
             "chunks_no_content": sum(1 for c in chunks.values() if c["no_content"]),
             # frozen gate: `failure_queue_max` is the D12 repair queue (broken chunks / chunks).
+            # Denominator = rows merged, identical to `p4c_union` L297 (broken_chunks / chunks),
+            # so the frozen key reads the same number whichever export `build()` consumes.
             "failure_queue_rate": round(len(broken) / max(1, n), 4),
+            "failure_queue_rate_extracted": round(len(broken) / max(1, extracted), 4),
             # strict quality reading: chunks where >=1 returned record failed gates 2-4. Reported,
             # never gated - rule 6 does not queue these, so spend cannot move this number.
             "chunks_strict_failed": len(strict_failed),
-            "strict_failure_rate": round(len(strict_failed) / max(1, n), 4),
+            "strict_failure_rate": round(len(strict_failed) / max(1, extracted), 4),
             "records_total": rec_total, "records_kept": sum(by_kind.values()),
             "records_dropped": sum(c["dropped"] for c in chunks.values()),
             "record_drop_rate": round(sum(c["dropped"] for c in chunks.values()) / max(1, rec_total), 4),
