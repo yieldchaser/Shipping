@@ -1066,6 +1066,36 @@ Two shape traps that cost time earlier and must not be re-learned: `p4c_audit.py
 flag, and `p4c_recall.py --items` wants the **bare 120-item list** (`kb\state\gold\p4b_items.json`) —
 `audit_items.json` is a dict wrapper and raises `TypeError: string indices must be integers`.
 
+### Drain readiness: frozen-scope arithmetic and consumer memory (pre-validated 2026-11-15)
+
+Measured while the bulk daemon drains, so the step-6 drain is not discovered to be the wrong size
+after the writers stop. All zero-spend, read-only.
+
+Frozen scope reconciled exactly. `kb\state\p4c\packs.jsonl` (169.8 MB) streams to
+**24,978 packs / 86,607 chunks / 0 duplicate chunk keys / 24 years (1986-2026)** — identical to
+`p4c_run.FULL_SCOPE_CHUNKS = 86607`, so `coverage_complete` (union L364: no `--limit`, no missing
+call, chunks >= frozen scope) is reachable with the planned commands and needs no constant change.
+
+Producer memory is streaming: `p4c_gate.load_packs` is a line-by-line generator (peak 59.5 MB over
+the whole 169.8 MB packs file), `p4c_gate.gate_run` writes one row per pack-chunk as it goes, and
+`p4c_union.build` (L319-352) writes `gated_union.jsonl.tmp` per pack and only accumulates counters
+— none of the three holds the scope in RAM.
+
+Consumer memory is the one real constraint. `p4c_report.merge_union` (L139-167) is a genuine
+read-all loader: it keeps a per-chunk status dict for every chunk. Measured on the largest
+rehearsal artifact (`_rehearse/union4/gated_union.jsonl`, 81.5 MB / 26,953 chunks): RSS 49.8 MB
+after imports -> **374.2 MB peak**, 2.6 s wall, i.e. ~11.7 KB per chunk. Scaled to the frozen
+86,607 chunks that projects **~1.0-1.2 GB**, which is at or above the ~1.1 GB that tends to be free
+on this 7.9 GB box. Pagefile is 16 GB, so the expected failure mode is slowness/cache pressure, not
+an allocator abort — but the rule stands: **run the step-6 consumers one at a time, never beside the
+AMD daemon's 16 pool threads**, and stop the daemon before step 2 in any case (it must stop anyway,
+since step 2 gates the finished bulk pass).
+
+Until the drain, the live union row is legitimately above the gate: the rehearsal slice already
+shows `broken/chunks` **806/26,953 = 0.0299** against `failure_queue_max 0.02`, which is exactly why
+the retry and escalation rungs exist. `p4c_gate.gate_run` (L212-214) also refuses to append over a
+non-empty `gated.jsonl`, so every rung needs its own fresh `--out-dir` — as written in step 6 above.
+
 ## P4c scaffold (code, committed)
 
 While waiting at C1: `kb/p4c_pack.py` (packing, dry run 1,149 packs / 4,000 chunks / 794 docs, mean
