@@ -173,3 +173,35 @@ def test_cli_plan_only_writes_plan_and_packs(tmp_path):
     assert d["escalation"]["partial_coverage"] is True
     esc = [json.loads(line) for line in (tmp_path / "e.jsonl").read_text(encoding="utf-8").splitlines()]
     assert [p["chunk_ids"] for p in esc] == [["c1"]]
+
+
+def test_esc_gated_overrides_only_the_escalation_ranking(tmp_path):
+    """--esc-gated repoints esc at the post-retry residual; the bulk rule-6 queue is untouched."""
+    packs = write_packs(tmp_path, [mk_pack("p1", ["c1"]), mk_pack("p2", ["c2"])])
+    bulk = tmp_path / "bulk.jsonl"
+    # c1 and c2 both fail pre-retry, so both queue and both are esc candidates
+    bulk.write_text("\n".join(json.dumps(r) for r in
+                              [row("c1", total=10, ok=1), row("c2", total=10, ok=1)]) + "\n",
+                    encoding="utf-8")
+    post = tmp_path / "post.jsonl"
+    # post-retry: c1 is now clean, c2 is still failing
+    post.write_text("\n".join(json.dumps(r) for r in
+                              [row("c1", total=4, ok=4), row("c2", total=10, ok=1)]) + "\n",
+                     encoding="utf-8")
+    plan = tmp_path / "plan.json"
+    sys.argv = ["p4c_ladder", "--gated", str(bulk), "--esc-gated", str(post),
+                "--packs", str(packs), "--plan", str(plan),
+                "--retry-out", str(tmp_path / "r.jsonl"),
+                "--esc-out", str(tmp_path / "e.jsonl"), "--cap", "10"]
+    assert L.main() == 0
+    d = json.loads(plan.read_text(encoding="utf-8"))
+    # the free-retry queue still follows the BULK gate: both chunks were failing there
+    assert d["retry"]["singles"] == 2
+    assert d["queue"]["chunks_gated"] == 2
+    # esc follows the POST slice: only the still-broken chunk is bought. `skipped` counts chunks
+    # dropped by the CAP, not chunks filtered out by the gate, so it stays 0 here.
+    assert d["escalation"]["candidates"] == 1
+    assert d["escalation"]["skipped"] == 0
+    assert d["escalation"]["esc_source"] == str(post)
+    esc = [json.loads(line) for line in (tmp_path / "e.jsonl").read_text(encoding="utf-8").splitlines()]
+    assert [p["chunk_ids"] for p in esc] == [["c2"]]

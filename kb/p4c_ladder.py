@@ -220,7 +220,15 @@ def cmd_plan(args) -> int:
     rows = load_gated(Path(args.gated))
     q = build_queue(rows)
     retry = plan_retry(Path(args.packs), q["queue"], Path(args.retry_out))
-    esc = rank_escalation(Path(args.packs), q["queue"], args.cap)
+    # The escalation rung is a quality backstop for chunks the free retry did NOT cure, so when a
+    # post-retry gate slice is supplied it overrides the bulk row per chunk. Sourcing esc from the
+    # pre-retry rows spends the (capped) esc booking re-buying chunks the free retry already fixes.
+    esc_gated = getattr(args, "esc_gated", None)
+    if esc_gated:
+        esc_q = build_queue(gated_chunk_map(paths=[args.gated, esc_gated]).values())["queue"]
+    else:
+        esc_q = q["queue"]
+    esc = rank_escalation(Path(args.packs), esc_q, args.cap)
     if not args.plan_only:
         esc_written = write_escalation(esc["picked"], Path(args.packs), Path(args.esc_out))
     else:
@@ -232,7 +240,8 @@ def cmd_plan(args) -> int:
             "escalation": {**{k: v for k, v in esc.items() if k != "picked"},
                            "packs_written": esc_written, "model": ESC_MODEL,
                            "pass": ESC_PASS, "retry_pass": RETRY_PASS,
-                           "partial_coverage": True, "out": str(args.esc_out)}}
+                           "partial_coverage": True, "out": str(args.esc_out),
+                           "esc_source": str(esc_gated or args.gated)}}
     Path(args.plan).write_text(json.dumps(plan, indent=2), encoding="utf-8")
     return 0
 
@@ -240,6 +249,8 @@ def cmd_plan(args) -> int:
 def main() -> int:
     ap = argparse.ArgumentParser(description="P4c: rule-6 queue + retry/escalation plan")
     ap.add_argument("--gated", default=str(GATED))
+    ap.add_argument("--esc-gated", default=None,
+                    help="post-retry gate slice that overrides --gated when ranking escalation")
     ap.add_argument("--packs", default=str(PACKS))
     ap.add_argument("--plan", default=str(PLAN))
     ap.add_argument("--retry-out", default=str(RETRY_PACKS))

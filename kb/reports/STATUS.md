@@ -997,6 +997,8 @@ python -X utf8 -m kb.p4c_gate --pass p4c_bulk --model DeepSeek-V4.1-Flash `
 #    Do NOT pass --plan-only: it suppresses write_escalation (`p4c_ladder.py` L224-227) so
 #    singles_esc.jsonl is never written and step 5 fails on a missing file. Run it for real; it only
 #    writes packs (no model calls), and the retry singles it emits are exactly what step 4 consumes.
+#    KNOWN, INTENTIONAL AT THIS STEP: the ladder sources BOTH rungs from this one --gated file, so the
+#    esc list first written here is ranked from PRE-retry rows. Step 4b repoints it after the retry.
 python -X utf8 kb\p4c_ladder.py --cap 11 --gated kb\state\p4c\rungs\p4c_bulk\gated.jsonl
 
 # 4. free single-chunk retry rung (AMD, one retry per owner decision 3).
@@ -1015,8 +1017,23 @@ python -X utf8 -m kb.p4c_gate --pass p4c_bulk_retry --model DeepSeek-V4.1-Flash 
   --packs kb\state\p4c\singles_retry.jsonl `
   --out-dir kb\state\p4c\rungs\p4c_bulk_retry
 
+# 4b. REPOINT the escalation rung at the POST-retry residual (defect fix, measured).
+#    Step 3 ranked esc from PRE-retry rows, so it spends the capped $11 partly re-buying chunks the
+#    free retry already cures: on the rehearsal gate 124 of the pre-retry esc picks were in the
+#    retried sample and 97 (78.2%) came back clean. --esc-gated overrides --gated per chunk
+#    (`gated_chunk_map`, later path wins) for the ESC ranking ONLY; the bulk rule-6 queue is
+#    unchanged (still 2,137 singles from the bulk gate).
+#    Measured effect on the rehearsal slices: picks 445 -> 451, spend $11.00 -> $10.99, skipped
+#    1,692 -> 1,532, and the tier mix stops being pure sec_mda_fleet (401 tier-1 + 48 broker_forecast
+#    tier-2) i.e. the same money moves onto genuinely-still-broken chunks.
+#    Re-run the ladder with BOTH --gated (bulk) and --esc-gated (step 4's output). It rewrites
+#    singles_retry.jsonl identically and singles_esc.jsonl with the repointed list; --cap 11 still.
+python -X utf8 kb\p4c_ladder.py --cap 11 `
+  --gated kb\state\p4c\rungs\p4c_bulk\gated.jsonl `
+  --esc-gated kb\state\p4c\rungs\p4c_bulk_retry\gated.jsonl
+
 # 5. paid glm-5.3 escalation rung, D12 cap-prioritised, inside the $11 booking.
-#    Step 3 wrote the esc packs for real (445 single-chunk calls at the $11 cap, verified on the
+#    Step 4b wrote the esc packs for real (~451 single-chunk calls at the $11 cap, verified on the
 #    rehearsal gate); the rung reads those, never a re-derived queue.
 #    QUALITY BACKSTOP, NOT A GATE DEPENDENCY: after the measured step-4 repair rate the 2% gate is
 #    already cleared without this rung. Run it for the residual hard chunks (records returned but all
