@@ -372,6 +372,15 @@ rehearsal cannot corrupt final output once the full run follows — but **any fu
 be rolled back by hand before P5 is declared done**, and P5's own gates cannot detect the leftovers
 because they count the slice they were handed, not the table state.
 
+**Follow-up audit: no other consumer re-read the stale label.** Checked every reader of a record's
+`chunk` field after the fix. `p4c_gate._as_dict` (L168-170) already stamped the real id, and
+`p4b_run.split_gate` (L640-654) matches on the prompt id only *inside* one pack and re-keys the output
+dict by the real `cid`, so P4b was never affected. `p4c_report.merge_union` (L123-148) reads only counts
+(`records_total`, `records_ok`, `gates_dropped`) plus the row's own `chunk_id`, never a nested record's
+`chunk`. `p4c_recall.item_rows` uses the real id passed in and now passes it through. `p4c_highvalue`
+touches `chunk_ids` only. So the union export and the recall scorer are the field's only two readers and
+both are fixed.
+
 ## P4b numbers (extraction bake-off, plan §10.2)
 
 **Defect 3 — fatal interpreter abort.** The daemon died at 09:56:12 with
