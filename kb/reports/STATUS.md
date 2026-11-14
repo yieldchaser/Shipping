@@ -554,6 +554,67 @@ this gap. The pack-level `call_status.missing 29,644` is call accounting for the
 union source list (glean/retry/esc/glm2 have not run yet); per-chunk `missing_chunks` is **0**, which is
 the metric the gate reads. No gate touched, no threshold moved.
 
+**Defect 12 — the ladder rungs wrote their raws under a key the union never looked up, so the D12
+repair queue could not be moved by any amount of rung spend.**
+
+Found by *executing* the reader/writer key contract instead of trusting the green suite. The retry
+(`p4c_bulk_retry`) and escalation (`p4c_esc`) rungs are dispatched from `p4c_run.single_pack`
+(`p4c_run.py` L235-244), which rewrites the pack as **one chunk** and keys it
+`f"{doc_id}|{cid}"`. The runner addresses raws by `sha256(pass|model|key_variant|mode|pack["key"])`
+(`p4b_run.make_job` L304-310 → `runner.job_key` L52-53 → `runner.raw_path` L147-150), so a rung raw
+lands under the **single-chunk** key. But `p4c_union.kept_for` (L90) looked up
+`G.raw_for(pass, model, mode, pack)` with the **full multi-chunk pack** — the pack the union holds,
+whose key is `"<doc_id>|<cid1>+<cid2>+…+"`. The two paths differ, so every rung answer read back as
+`missing`.
+
+Falsified with `kb/_t_keymatch.py` (single-chunk-key raw `4cdd921dc42daaa90374d373d04f42ce.json` vs
+full-pack-key `ae6d9a3ab4afa090d73f2ea3cb8df99b.json` on one 5-chunk pack), BEFORE the fix:
+
+| raw written under | union `calls` | `call_missing` row | `call_broken` row |
+| --- | --- | --- | --- |
+| nothing | `missing` | True | False |
+| **single-chunk key** (what the ladder writes) | `missing` | True | False |
+| full-pack key (what the union read) | `schema_fail` | False | True |
+
+Rows 1 and 2 are byte-identical: the rung's real output was indistinguishable from "never ran". So the
+`failure_queue_rate` 0.0299 → ≤0.02 repair the rungs were budgeted ($11 retry + $11 esc) for was
+**structurally unreachable**, and `p4c_recall` (which reads the same `kept_for` via
+`source_candidates` L113-117) would likewise have seen none of the escalated records. `p4c_gate` is
+internally consistent — it reads its own `--packs` file — so a rung gate run could look green while
+the union ignored it entirely. Same blind-spot family as Defects 5-11: every test in
+`test_p4c_union.py` / `test_p4c_recall.py` monkeypatches `kept_for`, `union_pack`, `G.raw_for` or
+`G.read_raw`, so **no test ever exercised real path resolution**.
+
+*Fix (one choke point, reader-side).* `kept_for` now tries the pack-keyed raw first and, only when
+that is absent/unreadable (`text is None`), probes the single-chunk address per addressed cid via
+`_single_rung_text` → `RUN.single_pack(pack, cid)`; an answered chunk wins, a blank is preserved as
+`blank`, and a pack with no rung call anywhere stays **`missing`**. The probe is restricted to
+`SINGLE_RUNG_PASSES = {p4c_bulk_retry, p4c_esc}` — the only passes `single_pack` ever dispatched — so
+`p4c_bulk` / `p4c_glean` / `p4c_glm2` keep their pack-keyed address byte-identically. The writer and
+the ledger keying are untouched, so nothing is re-billed and no pass table is needed.
+
+Rejected: keeping the parent `pack["key"]` in `single_pack`. That key is the *only* pack-dependent
+input to `job_key`, and a parent pack owns ~3.6 queued chunks on average (86,607 chunks / 24,978
+packs), so several singles would collapse onto one raw path — silent overwrite/collision.
+
+*Proof after the fix.* The same harness: raw under the **single-chunk** key now yields
+`calls={'p4c_bulk_retry': 'schema_fail'}` / `call_missing=False` / `call_broken=True` — identical to the
+full-pack-key row, i.e. the union sees exactly what the ladder wrote. Four regression tests added that
+exercise **real path resolution, not patched lookups**: a rung raw keyed by the single-chunk key is
+read and attributed to the right chunk, a pack with no rung call stays `missing`, the fallback does
+not apply to full-pack passes, and the union row flips off `call_missing`. Full suite **386 → 390
+passed**; tripwire clean.
+
+Two runbook defects fixed in the same edit, both would have silently voided rung output:
+**#4** the `p4c_gate` calls for `p4c_bulk_retry`/`p4c_esc` omitted `--packs`, so `load_packs(None)`
+defaulted to the 169.8 MB full-scope `packs.jsonl` and would have scanned 200-chunk packs for a few
+thousand single-chunk raws (every pack `call_missing`); both now pass
+`kb\state\p4c\singles_retry.jsonl` / `singles_esc.jsonl`, the same packs the rung was dispatched with.
+Earlier, already committed: **#1** `--plan-only` suppressed `write_escalation`, so `singles_esc.jsonl`
+was never written; **#2** `--mode amd_tokenlab` changed the hashed raw path and found zero raws (omit
+`--mode`, let `gate_run` resolve it); **#3** `p4c_report --write` needed explicit `--gated` because the
+rungs live under `rungs/`, which its default discovery does not match.
+
 ## P4b numbers (extraction bake-off, plan §10.2)
 
 **Defect 3 — fatal interpreter abort.** The daemon died at 09:56:12 with
@@ -844,7 +905,11 @@ Remove-Item -Recurse -Force kb\state\p4c\_rehearse, kb\state\p4c\interim, kb\sta
 Remove-Item -Force kb\state\p4c\singles_p4c_bulk_retry.jsonl, kb\state\p4c\escalation_plan.json
 
 # 2. gate the real bulk output (fresh out-dir; gate_run refuses to append over non-empty gated.jsonl)
-python -X utf8 -m kb.p4c_gate --pass p4c_bulk --model DeepSeek-V4.1-Flash --mode amd_tokenlab `
+#    Do NOT pass --mode amd_tokenlab: mode is hashed into the job_key and therefore into the raw path.
+#    The daemon wrote every bulk raw under mode `tools` (kb/state/p4c/modes.json), so a gate run with
+#    --mode amd_tokenlab finds zero raws and reports every pack `missing` (call_missing, not broken),
+#    silently voiding the failure-queue rate. Omit --mode and let gate_run resolve it (L206).
+python -X utf8 -m kb.p4c_gate --pass p4c_bulk --model DeepSeek-V4.1-Flash `
   --out-dir kb\state\p4c\rungs\p4c_bulk
 
 # 3. rule-6 queue + free retry singles + capped glm-5.3 escalation plan
@@ -860,7 +925,11 @@ python -X utf8 kb\p4c_ladder.py --cap 11
 #    ladder's 260) — that duplicate is what had to be cleaned up above.
 python -X utf8 kb\p4c_run.py --run --pass p4c_bulk_retry --model DeepSeek-V4.1-Flash `
   --packs kb\state\p4c\singles_retry.jsonl
+# --packs is REQUIRED here too: with it omitted, `p4c_gate.load_packs(None)` defaults to
+# OUT\packs.jsonl (169.8 MB of 200-chunk packs) and reports call_missing for every pack while
+# scanning the whole scope for a few thousand single-chunk raws.
 python -X utf8 -m kb.p4c_gate --pass p4c_bulk_retry --model DeepSeek-V4.1-Flash `
+  --packs kb\state\p4c\singles_retry.jsonl `
   --out-dir kb\state\p4c\rungs\p4c_bulk_retry
 
 # 5. paid glm-5.3 escalation rung, D12 cap-prioritised, inside the $11 booking.
@@ -868,7 +937,10 @@ python -X utf8 -m kb.p4c_gate --pass p4c_bulk_retry --model DeepSeek-V4.1-Flash 
 #    rehearsal gate); the rung reads those, never a re-derived queue.
 python -X utf8 kb\p4c_run.py --run --pass p4c_esc --model glm-5.3 --cap 11 `
   --packs kb\state\p4c\singles_esc.jsonl
+# --packs is REQUIRED: the rung's raws are single-chunk keyed, and the gate must read the same
+# single-chunk packs to address them.
 python -X utf8 -m kb.p4c_gate --pass p4c_esc --model glm-5.3 `
+  --packs kb\state\p4c\singles_esc.jsonl `
   --out-dir kb\state\p4c\rungs\p4c_esc
 
 # 6. union the rungs, judge-audit, recall, report
@@ -876,7 +948,13 @@ python -X utf8 -m kb.p4c_union
 python -X utf8 -m kb.p4c_audit --plan          # -> kb\state\p4c\audit_items.json (no --out arg exists)
 python -X utf8 -m kb.p4c_audit --run --model glm-5.3 --extractor DeepSeek-V4.1-Flash
 python -X utf8 -m kb.p4c_recall --items kb\state\gold\p4b_items.json   # bare list, not the dict wrapper
-python -X utf8 kb\p4c_report.py --write
+# --gated is REQUIRED because the rungs live under rungs/: p4c_report defaults to OUT\gated.jsonl plus
+# an OUT\esc* glob (p4c_report.py L~520), and `rungs/` matches neither, so with no --gated it exits
+# "no gated output under ...". Order matters: ladder order, best source last.
+python -X utf8 kb\p4c_report.py --write --gated `
+  kb\state\p4c\rungs\p4c_bulk\gated.jsonl `
+  kb\state\p4c\rungs\p4c_bulk_retry\gated.jsonl `
+  kb\state\p4c\rungs\p4c_esc\gated.jsonl
 python kb\tripwire.py && git fetch -q origin main && git merge -q -X ours origin/main
 ```
 

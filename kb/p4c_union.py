@@ -58,6 +58,10 @@ SOURCE_SPEC = [
     ("p4c_esc", GLM),
     ("p4c_glm2", GLM),
 ]
+# The only passes the runner ever dispatched from `p4c_run.single_pack` (one chunk per call), so
+# the only ones whose raws are keyed by the single-chunk key. The full-pack passes (`p4c_bulk`,
+# `p4c_glean`, `p4c_glm2`) keep their pack-keyed address untouched - see `_single_rung_text`.
+SINGLE_RUNG_PASSES = frozenset({RUN.RETRY_PASS, RUN.ESC_PASS})
 # pre-amendment bulk model (free Ultrafast tier), kept only so old raws stay addressable by name
 ULTRAFAST = "deepseek-v4.1-flash-1017-ultrafast"
 
@@ -71,6 +75,38 @@ def sentences_of(pack: dict) -> dict[str, list[tuple[int, str]]]:
     return {b["cid"]: [(int(s), t) for s, t in b["sentences"]] for b in pack["blocks"]}
 
 
+def _single_rung_text(pack: dict, pass_name: str, model: str, mode: str,
+                      fallback: str | None) -> str | None:
+    """Text of a ladder rung's raw addressed per single chunk, else `fallback`.
+
+    Defect 12. The retry (`p4c_bulk_retry`) and escalation (`p4c_esc`) rungs are written by
+    `p4c_run` from `p4c_run.single_pack` - one chunk per call - so the runner keys their raw by the
+    *single-chunk* key (`f"{doc_id}|{cid}"`), never by this multi-chunk pack's key. Reading only
+    the pack-keyed path made every rung answer read back as `missing`: the ladder could never move
+    `failure_queue_rate` and `p4c_recall` never saw the escalated records either.
+
+    The probe is address-only: it returns an answered chunk if one exists, else a blank answer,
+    else the caller's `fallback`. A pack with no rung call anywhere therefore stays `missing`
+    instead of being reported as answered.
+    """
+    blank: str | None = None
+    if pass_name not in SINGLE_RUNG_PASSES:
+        return fallback
+    for cid in pack["chunk_ids"]:
+        try:
+            single = RUN.single_pack(pack, cid)
+        except (ValueError, KeyError):
+            continue
+        text, _usage = G.read_raw(G.raw_for(pass_name, model, mode, single))
+        if text is None:
+            continue
+        if text.strip():
+            return text
+        if blank is None:
+            blank = text
+    return blank if blank is not None else fallback
+
+
 def kept_for(pack: dict, pass_name: str, model: str, mode: str | None = None) -> dict:
     """Gate one source's stored raw for this pack and return kept records per chunk.
 
@@ -82,6 +118,10 @@ def kept_for(pack: dict, pass_name: str, model: str, mode: str | None = None) ->
     per-chunk truth is `records_total` for that chunk, not the pack sum. Using the pack sum here
     marked every empty-but-fine chunk (headings, boilerplate, short blocks) as broken whenever a
     sibling chunk in the same pack returned records.
+
+    The `call` status is pack-level only for accounting. A rung pack can be answered for some
+    chunks and not others, so `call` reports `ok` as soon as any addressed chunk was answered;
+    whether an individual chunk recovered is decided by the gate rows this feeds, not here.
     """
     res = {"call": "missing", "total": 0, "dropped": 0,
            "chunk_total": {cid: 0 for cid in pack["chunk_ids"]},
@@ -89,8 +129,12 @@ def kept_for(pack: dict, pass_name: str, model: str, mode: str | None = None) ->
     mode = mode or source_mode(pass_name, model)
     text, _usage = G.read_raw(G.raw_for(pass_name, model, mode, pack))
     if text is None or not text.strip():
-        res["call"] = "blank" if text is not None else "missing"
-        return res
+        text = _single_rung_text(pack, pass_name, model, mode, text)
+        if text is None:  # not a single-keyed rung, or the run left no trace at all
+            return res
+        if not text.strip():
+            res["call"] = "blank"
+            return res
     ext, _err = E.parse_extraction(text)
     if ext is None:
         res["call"] = "schema_fail"

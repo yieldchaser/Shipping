@@ -247,6 +247,74 @@ def test_kept_for_reports_blank_and_missing(monkeypatch):
     assert U.kept_for(p, "p4c_bulk", "m1", "tools")["call"] == "blank"
 
 
+def _two_chunk_pack() -> dict:
+    """A pack whose own key differs from either chunk's single-chunk key (Defect 12 shape)."""
+    p = pack()
+    p["chunk_ids"] = ["chunk_a", "chunk_b"]
+    p["blocks"] = [{"cid": "c1", "sentences": [[1, "The ship SHIP TWO was sold for $10m."]]},
+                   {"cid": "c2", "sentences": [[1, "The ship SHIP TWO was sold for $10m."]]}]
+    p["key"] = "doc_a|aaa+bbb"  # multi-chunk key: not equal to any single-chunk key
+    return p
+
+
+def _rung_answer(cid: str = "c2") -> str:
+    return json.dumps({"no_content": False, "state_facts": [
+        {"type": "OWNS", "src": "E1", "dst": "N#1", "sids": [1], "confidence": 0.9,
+         "chunk": cid, "attr_notes": ""}], "events": [], "claims": [],
+        "new_entities": [{"id": "N#1", "type": "vessel", "name": "SHIP TWO",
+                          "chunk": cid, "sids": [1]}]})
+
+
+def _address_only_raw(monkeypatch, answered_key: str | None):
+    """Make `raw_for` return a path that carries the addressed key, and answer only for one key."""
+    monkeypatch.setattr(U.G, "raw_for", lambda pass_name, model, mode, p: Path(f"{p['key']}.json"))
+    monkeypatch.setattr(U.G, "read_raw",
+                        lambda path: (_rung_answer(), {}) if path.name == f"{answered_key}.json"
+                        else (None, None))
+
+
+def test_kept_for_reads_a_single_chunk_rung_raw(monkeypatch):
+    """A ladder rung raw is keyed by `f"{doc_id}|{cid}"`, not by the parent pack key (Defect 12).
+
+    Reading only the pack-keyed path made every retry/escalation answer look `missing`, so the
+    D12 repair rungs could never move `failure_queue_rate` and `p4c_recall` never saw them either.
+    """
+    p = _two_chunk_pack()
+    _address_only_raw(monkeypatch, "doc_a|chunk_b")  # the single-chunk key of the second cid
+    got = U.kept_for(p, "p4c_bulk_retry", "DeepSeek-V4.1-Flash", "tools")
+    assert got["call"] == "ok"
+    assert got["chunk_total"] == {"chunk_a": 0, "chunk_b": 1}
+    assert len(got["chunks"]["chunk_b"]["state_facts"]) == 1
+    assert got["chunks"]["chunk_a"]["state_facts"] == []
+
+
+def test_rung_fallback_keeps_a_missing_pack_missing(monkeypatch):
+    """No rung call anywhere must stay `missing` - never reported as answered."""
+    _address_only_raw(monkeypatch, "some_other_key")
+    got = U.kept_for(_two_chunk_pack(), "p4c_bulk_retry", "DeepSeek-V4.1-Flash", "tools")
+    assert got["call"] == "missing"
+    assert got["total"] == 0
+
+
+def test_rung_fallback_only_applies_to_single_keyed_passes(monkeypatch):
+    """Full-pack passes (`p4c_bulk`) must keep their pack-keyed address only."""
+    p = _two_chunk_pack()
+    _address_only_raw(monkeypatch, "doc_a|chunk_b")
+    assert U.kept_for(p, "p4c_bulk", "DeepSeek-V4.1-Flash", "tools")["call"] == "missing"
+    assert "p4c_bulk" not in U.SINGLE_RUNG_PASSES
+    assert {"p4c_bulk_retry", "p4c_esc"} <= U.SINGLE_RUNG_PASSES
+
+
+def test_union_pack_sees_a_recovered_rung_chunk(monkeypatch):
+    """The union row must flip off `call_missing` once the rung raw is addressable."""
+    p = _two_chunk_pack()
+    _address_only_raw(monkeypatch, "doc_a|chunk_b")
+    got = U.union_pack(p, [("p4c_bulk_retry", "DeepSeek-V4.1-Flash")], modes={"DeepSeek-V4.1-Flash": "tools"})
+    rows = {r["chunk_id"]: r for r in got["rows"]}
+    assert rows["chunk_b"]["call_missing"] is False
+    assert rows["chunk_b"]["records_ok"] == 1
+
+
 def test_record_row_stamps_the_real_chunk_id_not_the_prompt_label():
     """`chunk` must be the DB chunk id, never the prompt-local label the extractor saw.
 
