@@ -56,10 +56,24 @@ def test_totals_and_failure_rate():
               "c": P.chunk_state(gchunk("c", call_failed=True, facts=0, dropped=0)),
               "d": P.chunk_state(gchunk("d", facts=0))}
     st = P.totals(chunks)
-    assert st["chunks"] == 4 and st["chunks_clean"] == 2 and st["chunks_failed"] == 2
-    assert st["failure_queue_rate"] == 0.5
+    # frozen gate = D12 repair queue: only `c` broke (call failed). `a` kept a record, so it is
+    # quality-dirty but repairable-by-nobody, and rule 6 never queues it.
+    assert st["chunks"] == 4 and st["chunks_clean"] == 2 and st["chunks_failed"] == 1
+    assert st["chunks_broken"] == 1 and st["failure_queue_rate"] == 0.25
+    # the strict per-record reading is reported, distinct, and deliberately not the gated value
+    assert st["chunks_strict_failed"] == 2 and st["strict_failure_rate"] == 0.5
     assert st["records_kept"] == 2 and st["records_dropped"] == 1
     assert st["chunks_no_content"] == 2
+
+
+def test_failure_queue_counts_broken_not_dropped_records():
+    """A chunk that kept >=1 record is never in the D12 queue, however many records it dropped."""
+    kept_one = P.chunk_state(gchunk("a", facts=1, dropped=9))
+    assert not kept_one["clean"] and not kept_one["broken"]
+    all_dropped = P.chunk_state(gchunk("b", facts=0, dropped=5))
+    assert not all_dropped["clean"] and all_dropped["broken"]
+    # never extracted: missing, not broken
+    assert not P.chunk_state(gchunk("c", facts=0))["broken"]
 
 
 def test_coverage_declares_partial(tmp_path):
@@ -179,7 +193,7 @@ def test_merge_union_is_the_final_record_set(tmp_path, monkeypatch):
     assert merged["gated_rows"] == 3 and set(merged["chunks"]) == {"a", "b", "c"}
     a, b, c = (merged["chunks"][k] for k in "abc")
     assert a["clean"] and a["rung"] == "union" and sum(a["kept"].values()) == 3
-    assert not b["clean"] and b["call_failed"]
+    assert not b["clean"] and b["call_failed"] and b["broken"]
     assert c["clean"] and c["no_content"]
 
 

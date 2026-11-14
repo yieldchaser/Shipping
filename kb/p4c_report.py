@@ -64,16 +64,29 @@ def load_jsonl(path: Path) -> list[dict]:
 
 
 def chunk_state(chunk: dict) -> dict:
-    """One chunk's gate outcome as a comparable status (clean / no_content / failed + counts)."""
+    """One chunk's gate outcome as a comparable status (clean / no_content / failed + counts).
+
+    Two different questions, answered separately so neither can be mistaken for the other:
+
+    * ``clean``  - strict quality: *every* record the model returned survived gates 2-4. This is
+      what decides whether a later ladder rung may replace the bulk verdict.
+    * ``broken`` - the D12 repair queue: every source call for the chunk broke, or records came
+      back and *all* of them failed gates 2-4. This is the quantity the frozen gate key
+      ``failure_queue_max`` is bound to (see ``p4c_union`` L299, and the key's own name).
+      "Missing" (never extracted) is not broken, and neither is a chunk that kept some records.
+    """
     failed = bool(chunk.get("call_failed")) or int(chunk.get("gates_2_4_failed") or 0) > 0
     kept = chunk.get("kept") or {}
-    return {"chunk_id": chunk.get("chunk_id"), "clean": not failed,
+    counts = {k: len(kept.get(k) or []) for k in KINDS}
+    total = int(chunk.get("records_total") or 0)
+    broken = bool(chunk.get("call_failed")) or (total > 0 and sum(counts.values()) == 0)
+    return {"chunk_id": chunk.get("chunk_id"), "clean": not failed, "broken": broken,
             "call_failed": bool(chunk.get("call_failed")),
-            "records_total": int(chunk.get("records_total") or 0),
+            "records_total": total,
             "records_ok": int(chunk.get("records_ok") or 0),
             "dropped": int(chunk.get("gates_2_4_failed") or 0),
             "no_content": bool(chunk.get("no_content")),
-            "kept": {k: len(kept.get(k) or []) for k in KINDS},
+            "kept": counts,
             "gated": chunk}
 
 
@@ -133,12 +146,13 @@ def merge_union(path: Path) -> dict:
         rows += 1
         kept = {k: len((row.get("kept") or {}).get(k) or []) for k in KINDS}
         n = int(row.get("records_total") or 0)
+        broken = bool(row.get("call_broken"))
         st = {"chunk_id": row["chunk_id"], "doc_id": row.get("doc_id"),
-              "clean": not bool(row.get("call_broken")), "kept": kept,
+              "clean": not broken, "broken": broken, "kept": kept,
               "records_total": n, "records_ok": int(row.get("records_ok") or 0),
               "dropped": int(row.get("gates_dropped") or 0),
               "no_content": bool(row.get("no_content")),
-              "call_failed": bool(row.get("call_broken")),
+              "call_failed": broken,
               "was_failed": False, "rung": "union"}
         prev = final.get(row["chunk_id"])
         if prev is None:
@@ -231,10 +245,18 @@ def totals(chunks: dict) -> dict:
     rec_ok = sum(c["records_ok"] for c in chunks.values())
     rec_total = sum(c["records_total"] for c in chunks.values())
     clean = sum(1 for c in chunks.values() if c["clean"])
-    failed = [c for c in chunks.values() if not c["clean"]]
-    return {"chunks": len(chunks), "chunks_clean": clean, "chunks_failed": len(failed),
+    broken = [c for c in chunks.values() if c.get("broken")]
+    strict_failed = [c for c in chunks.values() if not c["clean"]]
+    n = len(chunks)
+    return {"chunks": n, "chunks_clean": clean, "chunks_failed": len(broken),
+            "chunks_broken": len(broken),
             "chunks_no_content": sum(1 for c in chunks.values() if c["no_content"]),
-            "failure_queue_rate": round(len(failed) / max(1, len(chunks)), 4),
+            # frozen gate: `failure_queue_max` is the D12 repair queue (broken chunks / chunks).
+            "failure_queue_rate": round(len(broken) / max(1, n), 4),
+            # strict quality reading: chunks where >=1 returned record failed gates 2-4. Reported,
+            # never gated - rule 6 does not queue these, so spend cannot move this number.
+            "chunks_strict_failed": len(strict_failed),
+            "strict_failure_rate": round(len(strict_failed) / max(1, n), 4),
             "records_total": rec_total, "records_kept": sum(by_kind.values()),
             "records_dropped": sum(c["dropped"] for c in chunks.values()),
             "record_drop_rate": round(sum(c["dropped"] for c in chunks.values()) / max(1, rec_total), 4),
@@ -247,7 +269,7 @@ def ladder_stats(chunks: dict) -> dict:
     for c in chunks.values():
         by_rung[c["rung"]] = by_rung.get(c["rung"], 0) + 1
     return {"final_rung": by_rung,
-            "still_failed": sum(1 for c in chunks.values() if not c["clean"]),
+            "still_failed": sum(1 for c in chunks.values() if c.get("broken")),
             "recovered": sum(1 for c in chunks.values() if c["clean"] and c.get("was_failed"))}
 
 
@@ -395,10 +417,12 @@ def _md(rep: dict) -> str:
              "## Extraction", "",
              "| metric | value |", "|---|---|",
              f"| chunks attempted | {st['chunks']:,} |",
-             f"| chunks fully clean | {st['chunks_clean']:,} |",
+             f"| chunks clean (every returned record survived gates 2-4) | {st['chunks_clean']:,} |",
              f"| chunks escalated then clean | {st['recovered_by_ladder']:,} |",
-             f"| chunks still failing (failure queue) | {st['chunks_failed']:,} "
+             f"| broken chunks (D12 failure queue, gated) | {st['chunks_broken']:,} "
              f"({st['failure_queue_rate']:.2%}) |",
+             f"| chunks with >=1 dropped record (diagnostic, **not** gated) | "
+             f"{st['chunks_strict_failed']:,} ({st['strict_failure_rate']:.2%}) |",
              f"| chunks answering `no_content` | {st['chunks_no_content']:,} |",
              f"| records kept | {st['records_kept']:,} (state_facts {st['by_kind']['state_facts']:,}, "
              f"events {st['by_kind']['events']:,}, claims {st['by_kind']['claims']:,}) |",
