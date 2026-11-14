@@ -75,9 +75,16 @@ def kept_for(pack: dict, pass_name: str, model: str, mode: str | None = None) ->
     """Gate one source's stored raw for this pack and return kept records per chunk.
 
     Returns {"call": "ok"|"missing"|"blank"|"schema_fail", "total": n, "dropped": n,
-             "chunks": {cid: {kind: [pydantic records]}}}
+             "chunk_total": {cid: n}, "chunks": {cid: {kind: [pydantic records]}}}
+
+    `total`/`dropped` are pack-level (call accounting). `chunk_total` is the per-chunk count of
+    records the call *returned*, which is what the D12 repair queue must key on: the gate's own
+    per-chunk truth is `records_total` for that chunk, not the pack sum. Using the pack sum here
+    marked every empty-but-fine chunk (headings, boilerplate, short blocks) as broken whenever a
+    sibling chunk in the same pack returned records.
     """
     res = {"call": "missing", "total": 0, "dropped": 0,
+           "chunk_total": {cid: 0 for cid in pack["chunk_ids"]},
            "chunks": {cid: {k: [] for k in KINDS} for cid in pack["chunk_ids"]}}
     mode = mode or source_mode(pass_name, model)
     text, _usage = G.read_raw(G.raw_for(pass_name, model, mode, pack))
@@ -96,6 +103,13 @@ def kept_for(pack: dict, pass_name: str, model: str, mode: str | None = None) ->
     res["new_entities"] = {k: v for k, v in new_names.items()
                            if k in (g.get("new_entities_ok") or {}) and g["new_entities_ok"][k]}
     bcid_to_chunk = {b["cid"]: cid for cid, b in zip(pack["chunk_ids"], pack["blocks"])}
+    # `g["records"]` are verdict dicts (kept *and* dropped), not pydantic models: read `chunk` as a
+    # key, exactly like `p4c_gate` L141. `getattr` here silently yielded None and zeroed every count.
+    for rec in g["records"]:
+        cid = bcid_to_chunk.get(rec.get("chunk") if isinstance(rec, dict)
+                                else getattr(rec, "chunk", None))
+        if cid:
+            res["chunk_total"][cid] += 1
     for kind in KINDS:
         for rec in g["kept"].get(kind) or []:
             cid = bcid_to_chunk.get(getattr(rec, "chunk", None))
@@ -182,7 +196,7 @@ def union_pack(pack: dict, sources: list[tuple[str, str]], modes: dict | None = 
     doc = pack.get("doc") or {}
     acc: dict[str, dict] = {}
     stats = {"calls": {}, "total": 0, "dropped": 0, "added": Counter(), "duplicates": 0,
-             "new_entities": {}}
+             "new_entities": {}, "chunk_total": {cid: 0 for cid in pack["chunk_ids"]}}
     for cid in pack["chunk_ids"]:
         acc[cid] = {k: [] for k in KINDS}
     for pass_name, model in sources:
@@ -191,6 +205,8 @@ def union_pack(pack: dict, sources: list[tuple[str, str]], modes: dict | None = 
         stats["total"] += got["total"]
         stats["dropped"] += got["dropped"]
         stats["new_entities"].update(got.get("new_entities") or {})
+        for cid, n in (got.get("chunk_total") or {}).items():
+            stats["chunk_total"][cid] += n
         for cid, kinds in got["chunks"].items():
             for kind in KINDS:
                 rows = [record_row(kind, rec, sents[bcid[cid]], pass_name, cid) for rec in kinds[kind]]
@@ -215,9 +231,13 @@ def union_pack(pack: dict, sources: list[tuple[str, str]], modes: dict | None = 
         for kind in KINDS:
             for row in kept[kind]:
                 prov.update(row["sources"])
-        # D12: "broken" = every source that answered this pack broke, or records came back and all
-        # failed gates 2-4. "missing" is not broken - it just has not been extracted yet.
-        broken = all_blank or (stats["total"] > 0 and n == 0)
+        # D12: "broken" = every source that answered this pack broke, or this chunk came back with
+        # records and all of them failed gates 2-4. "missing" is not broken - it has not been
+        # extracted yet. The second test is per chunk (`records_total == 0` for a chunk that returned
+        # nothing is a fine empty chunk, not a failure) - matching `p4c_gate` L152 and `p4c_report`
+        # L83. Using the pack-level sum here mislabels chunks whose siblings carried the records.
+        chunk_total = stats["chunk_total"].get(cid, 0)
+        broken = all_blank or (chunk_total > 0 and n == 0)
         rows.append({
             "chunk_id": cid, "doc_id": pack["doc_id"],
             "publisher": doc.get("publisher"), "doc_type": doc.get("doc_type"),

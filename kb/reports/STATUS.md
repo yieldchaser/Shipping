@@ -483,6 +483,52 @@ the honest reading: an unextracted pack is a **coverage** fact (reported via `ch
 `missing_chunks_rows`, `packs_answered`), not a quality fact. `p4c_report` and `p4c_union` must still agree
 once the bulk pass finishes; if they do not, the mismatch is a new defect, not a threshold question.
 
+**Defect 11 — the union scored a chunk's emptiness against the whole pack's activity, so every
+legitimately empty chunk inside a productive pack entered the D12 repair queue.**
+`p4c_union.union_pack` (L220) read `broken = all_blank or (stats["total"] > 0 and n == 0)`. `stats["total"]`
+is the **pack-cumulative** count of records every source returned for the pack, while `n` is **one chunk's**
+kept record count. So any chunk that returned nothing (headings, table-of-contents blocks, boilerplate,
+short blocks) was labelled `call_broken` whenever *any sibling chunk in the same pack* returned records — a
+category error, not a threshold question. The gate, by contrast, computes `records_total` **per chunk**
+(`p4c_gate` L141-152: `recs = [r for r in g["records"] if r.get("chunk") == pid]`) and only marks a
+zero-record chunk broken when the call itself failed; `p4c_report.chunk_state` L83 is likewise per-chunk.
+The union was the lone divergent reader, and it is the artifact the frozen P4c gate reads (`failure_queue_max`
+= `broken_chunks / chunks`, L297-299).
+
+*Measured blast radius (zero spend).* Real 800-pack AMD slice
+(`kb/state/p4c/_rehearse/packs_done.jsonl`, 2,769 chunks), gate truth vs union cross-tab:
+
+| gate per-chunk truth | union `call_broken` BEFORE | AFTER |
+| --- | --- | --- |
+| `has_records` (n=1,557) | False 1,557 | False 1,557 |
+| `no_records_returned` (n=1,106) | False 239 / **True 867** | False 1,106 |
+| `records_all_dropped` (n=106) | True 106 | True 106 |
+
+`failure_queue_rate` was **0.3514** (973/2,769) against gate `records_all_dropped` **0.0383** (106/2,769) —
+a **~9.2× inflation**, all of it false positives, none of it missed real failures. The metric still FAILS the
+frozen 0.02 on this partial slice (0.0383 > 0.02), so again the fix is not a gate trade.
+
+*Fix (one file + one discriminator).* `kept_for` now also returns `chunk_total: {cid: n}` — the per-chunk
+count of records the call **returned**, computed from the same verdict rows the gate uses (`g["records"]`,
+read as dicts: `rec.get("chunk")`). `union_pack` accumulates those per chunk and the predicate becomes
+`broken = all_blank or (chunk_total > 0 and n == 0)`, i.e. *this chunk* returned records and kept none.
+`stats["total"]` / `stats["dropped"]` keep their pack-level (call accounting) meaning untouched, so nothing
+else shifts. Frozen `failure_queue_max = 0.02` untouched; package-level `records_total`/`records_ok` export
+fields untouched. A first attempt using `getattr(rec, "chunk", None)` zeroed every count (verdict rows are
+dicts, not pydantic models) and produced a suspicious `broken_chunks 0` — caught precisely because the
+cross-tab was run against real gate truth rather than a fixture; the real fix gives 106, matching exactly.
+
+*Proof.* (a) `broken_chunks` 973 → **106**, exactly equal to the gate's `records_all_dropped`; cross-tab shows
+**0** false positives and **0** false negatives (the 106 real failure chunks are still queued). (b) Union
+`failure_queue_rate` 0.3514 → **0.0383**. (c) Three tests added to `kb/tests/test_p4c_union.py`: an
+empty-but-fine chunk beside a productive sibling is not broken (and is `no_content`), a chunk that returned
+records but kept none **is** broken, and `kept_for` exposes per-chunk counts. Existing tests were
+fixture-shaped and could not have caught this: their packs were single-chunk, where pack sum and chunk count
+coincide — the same blind spot as Defects 5-10. Full suite **381 → 384 passed**; tripwire clean.
+
+*Carry-forward rule.* Any union/report/gate predicate that tests "this chunk produced nothing" must key on
+that chunk's own returned-record count. Pack sums may only be used for call-level accounting.
+
 ## P4b numbers (extraction bake-off, plan §10.2)
 
 **Defect 3 — fatal interpreter abort.** The daemon died at 09:56:12 with

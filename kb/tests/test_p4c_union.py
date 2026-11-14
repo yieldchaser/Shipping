@@ -111,6 +111,71 @@ def test_union_pack_flags_broken_chunk_when_every_call_failed(monkeypatch):
     assert row["records_total"] == 0
 
 
+def test_union_pack_empty_chunk_is_not_broken_when_a_sibling_has_records(monkeypatch):
+    """Defect 11: an empty-but-fine chunk must not inherit a sibling chunk's activity.
+
+    The gate's per-chunk truth is that chunk's own `records_total`; a pack sum used to be compared
+    against a per-chunk kept count, so every heading/boilerplate chunk inside a pack that returned
+    records elsewhere was queued for D12 repair (~9x inflation of `failure_queue_rate`).
+    """
+    p = pack()
+    p["chunk_ids"] = ["chunk_a", "chunk_b"]
+    p["key"] = "doc_a|chunk_a"
+    p["blocks"] = [dict(p["blocks"][0]),
+                   {"cid": "c2", "sentences": [[3, "Table of contents"]]}]
+
+    def fake_kept_for(pack_, pass_name, model, mode=None):
+        return {"call": "ok", "total": 1, "dropped": 0,
+                "chunk_total": {"chunk_a": 1, "chunk_b": 0},
+                "chunks": {"chunk_a": {"state_facts": [_Model()], "events": [], "claims": []},
+                           "chunk_b": {"state_facts": [], "events": [], "claims": []}}}
+
+    monkeypatch.setattr(U, "kept_for", fake_kept_for)
+    got = U.union_pack(p, [("p4c_bulk", "m1")], modes={"m1": "tools"})
+    by_id = {r["chunk_id"]: r for r in got["rows"]}
+    assert by_id["chunk_a"]["call_broken"] is False
+    assert by_id["chunk_b"]["call_broken"] is False
+    assert by_id["chunk_b"]["no_content"] is True  # legitimately empty, not broken
+    assert got["stats"]["duplicates"] == 0
+
+
+def test_union_pack_chunk_with_all_records_dropped_is_broken(monkeypatch):
+    """The real D12 case: the chunk returned records and every one failed gates 2-4."""
+    p = pack()
+    p["chunk_ids"] = ["chunk_a", "chunk_b"]
+    p["blocks"] = [dict(p["blocks"][0]), {"cid": "c2", "sentences": [[3, "More"]]}]
+
+    def fake_kept_for(pack_, pass_name, model, mode=None):
+        return {"call": "ok", "total": 1, "dropped": 1,
+                "chunk_total": {"chunk_a": 1, "chunk_b": 1},
+                "chunks": {"chunk_a": {"state_facts": [_Model()], "events": [], "claims": []},
+                           "chunk_b": {"state_facts": [], "events": [], "claims": []}}}
+
+    monkeypatch.setattr(U, "kept_for", fake_kept_for)
+    got = U.union_pack(p, [("p4c_bulk", "m1")], modes={"m1": "tools"})
+    by_id = {r["chunk_id"]: r for r in got["rows"]}
+    assert by_id["chunk_a"]["call_broken"] is False  # kept a record
+    assert by_id["chunk_b"]["call_broken"] is True   # returned one, kept none
+    assert by_id["chunk_b"]["no_content"] is False
+
+
+def test_kept_for_counts_records_per_chunk(monkeypatch):
+    """`kept_for` must expose per-chunk returned counts, not just the pack sum."""
+    p = pack()
+    p["chunk_ids"] = ["chunk_a", "chunk_b"]
+    p["blocks"] = [dict(p["blocks"][0]), {"cid": "c2", "sentences": [[3, "More"]]}]
+    answer = json.dumps({"no_content": False, "state_facts": [
+        {"type": "OWNS", "src": "E1", "dst": "N#1", "sids": [1], "confidence": 0.9,
+         "chunk": "c1", "attr_notes": ""}], "events": [], "claims": [],
+        "new_entities": [{"id": "N#1", "type": "vessel", "name": "SHIP TWO",
+                          "chunk": "c1", "sids": [1]}]})
+    monkeypatch.setattr(U.G, "raw_for", lambda *a, **k: Path("unused.json"))
+    monkeypatch.setattr(U.G, "read_raw", lambda path: (answer, {}))
+    got = U.kept_for(p, "p4c_bulk", "m1", "tools")
+    assert got["total"] == 1
+    assert got["chunk_total"] == {"chunk_a": 1, "chunk_b": 0}
+
+
 def test_build_writes_audit_compatible_rows(monkeypatch, tmp_path):
     packs = tmp_path / "packs.jsonl"
     packs.write_text(json.dumps(pack()) + "\n", encoding="utf-8")
