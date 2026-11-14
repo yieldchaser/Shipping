@@ -904,6 +904,37 @@ chain runs. The retry rung is free (AMD, one retry per owner decision 3); the pa
 backstop and is capped at $11. **The 0.0299 is not a defect and must not be "fixed" by touching
 `gates.yaml`.**
 
+### Can the free retry rung actually repair 858 chunks? NO — and 858 was always the wrong model
+(checked 01:1x, no spend). The 858 figure above assumes a repeat call can flip a broken chunk to
+non-broken. It cannot, and the reason is structural:
+
+* **The retry request is byte-identical to the bulk request on a single-block pack.** `p4b_run.make_job`
+  L301 builds the user turn from `(doc, blocks, known)` with no pass-dependent text, and `key_variant`
+  canonicalises `tools`/`max_tokens` away, so `p4c_bulk_retry` and `p4c_bulk` send the same prompt.
+* **`make_job` sets `temperature: 0.0`** (L309), so the same prompt yields the same answer. A repeat
+  call is therefore deterministic: it can only differ through (a) transport blank/5xx, or (b) the changed
+  call shape (1 block vs ≤6 blocks, ≤3.5k tok).
+* **Both escape hatches are empty on the real data.** Cross-tab over the rehearsal queue
+  (`kb/_t_brokenmix.py`, 2,137 queued chunks): transport blank/schema-fail calls **0**, missing raw rows
+  **0**, chunks whose own verdict is broken **804** (rate 0.376) — i.e. every queued chunk's call parsed
+  and returned records.
+* **Gate 2–4 drops dominate, and they are content properties, not noise.** Of the 804 broken,
+  `kb/_t_brokenreasons.py` gives reasons `entity_unresolved` 1,809, `number_not_in_quote` 273,
+  `sid_missing` 118, `quote_empty` 111 (a chunk can carry several). Ref classes:
+  `canonical_but_rule4_failed` 2,309 (new entity's printed name absent from its own cited sentences —
+  rule 4 working), `declared_handle_unmapped` 787 + `malformed_N_handle` 379 (references the model never
+  declared in `new_entities`), `free_text_name` 627. **None of these is a code defect**: `canonicalize.fix`
+  accepts a prompt id, a registry id, a declared handle, or a known printed name, and deliberately leaves
+  anything else verbatim so the gate drops the record rather than guessing.
+* Shape lever: meagre. Only **29%** of broken chunks (216/732) sit in packs with ≥2 blocks, and those
+  still carry content-drop reasons, so the sibling-records shape change cannot help them.
+
+Conclusion: the free rung's ceiling on this slice is the transport-blank population — **zero**. The
+honest paths are (1) the paid, family-different `glm-5.3` escalation rung (445 calls, $11 cap, already
+`partial_coverage: true` by design), and (2) if that is insufficient, the §7.5 L438 `partial_coverage`
+declaration to the owner. **Do not touch `gates.yaml`; do not lower a gate.** The live post-retry rate
+is still unmeasured — this only removes the *false* expectation that 858 is reachable for free.
+
 ## Post-drain P4c chain (exact commands, run in this order)
 
 Stated here so the sequence is executed from a committed note. `$PY` = the Python 3.12 interpreter.
