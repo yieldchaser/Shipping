@@ -307,6 +307,39 @@ now guarded by a lock covering only the two dict ops, never I/O. Tests:
 `kb/tests/test_p4c_supervisor.py` (restart-then-success, escalating back-off, no `--start` cursor).
 Full suite **358 passed** plus the new cases.
 
+### Amendment 8 — two silent downstream defects found during the bulk wait (2026-11-14)
+
+Both were found by reading the P4c→P5 contract while the bulk pass ran, not by a test failure: neither
+raised an exception, both would have degraded the published KB without any gate going red. Fixing them
+now, while they cost nothing, is the whole point of hardening the chain before the raws land.
+
+**Defect 5 — the audit labelled the wrong extractor.** `kb/p4c_audit._selected_extractor()` resolved
+the model under audit from `kb/reports/p4b.json`'s winner (`deepseek-v4.1-flash-1017-ultrafast`), but
+the P4c records actually under audit are produced by the **P4c bulk** pass over the AMD pool
+(`DeepSeek-V4.1-Flash`). The `gates.yaml` family check still passed (both are `deepseek`), so the gate
+would not have gone red — the report would simply have named a model that produced none of the audited
+records, and a later re-point of P4b's winner could have flipped the judge into a same-family
+violation that the check was meant to catch. It now resolves from `p4c_union.SOURCE_SPEC`'s `p4c_bulk`
+entry, falling back to `p4b.json` only if that entry disappears. The report's markdown also no longer
+hardcodes `different family: yes`; it prints the computed comparison, so a violation is legible instead
+of asserted-away. Tests: `test_selected_extractor_is_the_p4c_bulk_source`.
+
+**Defect 6 — P5 silently dropped every record that cited a declared new entity.** Union rows
+(`p4c_union.gated_union.jsonl`, which wins precedence in `p5_build.default_gated_paths`) carry the
+approved ids as `new_entities`, but `provision_new_entities` read only the per-rung gate-row keys
+`new_entities_ok` + `new_names`. With the union export present it therefore provisioned **nothing**;
+every kept record citing a `type:new:...` id then failed `build_rows`' known-set check, was counted as
+`dangling_entity:...`, and was dropped. Measured on the real 300-pack rehearsal slice: **2,807 of
+10,324 kept records (27.2%) cite a `new:` id**, and 3,463 gate rows carry at least one approved new
+entity (22,934 ids); on the probe union export the old path provisioned **0**, the new path provisions
+**9**. This is why the defect mattered: a quarter of the graph would have vanished while the P5 gates
+(`records_without_code_sliced_quote`, `dangling_entity_ids`) still read clean, because the drop is
+counted before the rows exist. `row_new_entities()` now accepts both shapes. Tests:
+`test_row_new_entities_accepts_union_and_gate_shapes`,
+`test_union_shaped_new_entity_is_provisioned_and_resolves`.
+
+Full suite after both fixes: **369 passed**.
+
 ## P4b numbers (extraction bake-off, plan §10.2)
 
 **Defect 3 — fatal interpreter abort.** The daemon died at 09:56:12 with
