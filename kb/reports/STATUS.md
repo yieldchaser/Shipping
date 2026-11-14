@@ -617,6 +617,26 @@ read and attributed to the right chunk, a pack with no rung call stays `missing`
 not apply to full-pack passes, and the union row flips off `call_missing`. Full suite **386 → 390
 passed**; tripwire clean.
 
+*Counterfactual measured on real data (2026-11-15, zero spend, `kb\_t_d12real.py` + `kb\_t_d12counter.py`).*
+The fix was proven against the unit harness earlier; both directions are now measured against the
+real 169.8 MB `packs.jsonl` and the real 236 rung raws:
+
+- the 2,137-row `_rehearse/ladder3/singles_retry.jsonl` addresses **236 (doc_id, cid) pairs with a
+  stored raw**, spread over **172 distinct parent packs** (1.37 addressed chunks per parent, so the
+  collision argument above is real, not theoretical).
+- **post-fix:** streaming the real packs and calling `UN.kept_for(pack, p4c_bulk_retry, …)` with the
+  *full multi-chunk* pack gives `call_matched=172`, `call_missing=0` — the fallback finds every one.
+  Of the 236 addressed chunks, **98 came back with records** (a repair) and 138 were answered with no
+  records (a legitimate empty answer, not a missing call).
+- **pre-fix:** `kb\_t_d12counter.py` addresses the same 172 parents with the *parent* pack key and
+  finds the raw present for only **4** of them — **168 have no parent-keyed raw**. Those 168 would
+  have read `call_missing` under the old lookup, i.e. the repair was unreachable for 97.7% of the
+  addressed packs, exactly as Defect 12 claimed. (The 4 hits are parents that happen to be
+  single-chunk packs, where both key forms coincide.)
+
+So the defect and its fix are now both falsified/confirmed on production inputs, not just on
+synthetic fixtures.
+
 Three runbook defects fixed in the same edit, each of which would have silently voided rung output:
 **#4** the `p4c_gate` calls for `p4c_bulk_retry`/`p4c_esc` omitted `--packs`, so `load_packs(None)`
 defaulted to the 169.8 MB full-scope `packs.jsonl` and would have scanned 200-chunk packs for a few
