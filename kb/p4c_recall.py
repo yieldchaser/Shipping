@@ -73,7 +73,7 @@ def item_rows(kept: dict, cid: str, sents: list[tuple[int, str]], source: str) -
     rows = []
     for kind in KINDS:
         for rec in kept["chunks"].get(cid, {}).get(kind) or []:
-            rows.append(U.record_row(kind, rec, sents, source))
+            rows.append(U.record_row(kind, rec, sents, source, cid))
     return rows
 
 

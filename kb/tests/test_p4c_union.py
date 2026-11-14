@@ -180,3 +180,34 @@ def test_kept_for_reports_blank_and_missing(monkeypatch):
     assert U.kept_for(p, "p4c_bulk", "m1", "tools")["call"] == "missing"
     monkeypatch.setattr(U.G, "read_raw", lambda path: ("   ", {}))
     assert U.kept_for(p, "p4c_bulk", "m1", "tools")["call"] == "blank"
+
+
+def test_record_row_stamps_the_real_chunk_id_not_the_prompt_label():
+    """`chunk` must be the DB chunk id, never the prompt-local label the extractor saw.
+
+    P5's `chunk_mismatch` rejects any record whose `chunk` differs from the row it arrived in, so a
+    prompt-local label makes every union record unusable and the graph silently comes out empty.
+    """
+    rec = _Model()
+    assert rec.chunk == "c1"  # the raw record still carries the prompt-local label
+    body = U.record_row("claims", rec, [(1, "The ship SHIP TWO was sold for $10m.")], "p4c_bulk",
+                        "chunk_a")
+    assert body["chunk"] == "chunk_a"
+    assert body["sids"] == [1]
+
+
+def test_union_pack_rows_carry_ids_that_match_their_pack(monkeypatch):
+    p = pack()
+
+    def fake_kept_for(pack_, pass_name, model, mode=None):
+        return {"call": "ok", "total": 1, "dropped": 0,
+                "chunks": {pack_["chunk_ids"][0]: {"state_facts": [_Model()], "events": [],
+                                                   "claims": []}},
+                "new_entities": {}}
+
+    monkeypatch.setattr(U, "kept_for", fake_kept_for)
+    got = U.union_pack(p, [("p4c_bulk", "m1")], modes={"m1": "tools"})
+    row = got["rows"][0]
+    assert row["chunk_id"] == "chunk_a"
+    kept = row["kept"]["state_facts"]
+    assert kept and all(r["chunk"] == row["chunk_id"] for r in kept)

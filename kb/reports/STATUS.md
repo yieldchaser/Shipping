@@ -340,6 +340,27 @@ counted before the rows exist. `row_new_entities()` now accepts both shapes. Tes
 
 Full suite after both fixes: **369 passed**.
 
+**Defect 7 — union records carried prompt-local chunk labels, so P5 rejected every record.** Found by
+running the real end-to-end P5 build over a 40-pack union slice pulled from the live ledger (zero spend,
+`kb/state/p4c/_vfy_union`) instead of trusting the unit fixtures. Result was `INSERTED {edge 0, event 0,
+claim 0}` with `drops {chunk_mismatch: 234}` — **100% of records dropped**. Cause: the extractor only
+ever sees prompt-local block labels (`c2`, `c3`), and `p4c_union.record_row` re-derived each record from
+the raw transport copy, leaving `body["chunk"]` as that label. `p4c_gate._as_dict` already overrode
+`row["chunk"] = cid` with the real DB chunk id, and `kept_for` mapped the labels correctly — but
+`record_row` reintroduced the stale one, and the union export has first precedence in P5's
+`default_gated_paths()`. P5's `chunk_mismatch` then rejects the record, so the graph would have shipped
+**empty** while all three P5 gates (`records_without_code_sliced_quote`, `dangling_entity_ids`, coverage)
+still read clean — a total silent loss, strictly worse than Defect 6. Fix: `record_row` takes the real
+`cid` and stamps it, both call sites (`p4c_union.union_pack`, `p4c_recall.item_rows`) pass the id they
+already have in scope, so no caller can regress. Same real-data slice after the fix:
+**`INSERTED {edge 11, event 116, claim 107, event_role 59, record_txn 14}`, drops `{}`, quote/dangling
+gates 0**. Tests: `test_record_row_stamps_the_real_chunk_id_not_the_prompt_label`,
+`test_union_pack_rows_carry_ids_that_match_their_pack`. Full suite: **371 passed**.
+
+Note for the record: Defects 5-7 were all found by *executing* the contract against real ledger data
+during the wait, not by the test suite, which was green throughout. That is why the chain is being
+rehearsed on live AMD raws before the bulk pass finishes rather than after.
+
 ## P4b numbers (extraction bake-off, plan §10.2)
 
 **Defect 3 — fatal interpreter abort.** The daemon died at 09:56:12 with

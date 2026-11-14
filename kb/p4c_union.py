@@ -104,10 +104,15 @@ def kept_for(pack: dict, pass_name: str, model: str, mode: str | None = None) ->
     return res
 
 
-def record_row(kind: str, rec, sents: list[tuple[int, str]], source: str) -> dict:
+def record_row(kind: str, rec, sents: list[tuple[int, str]], source: str,
+               cid: str | None = None) -> dict:
     body = rec.model_dump(mode="json") if hasattr(rec, "model_dump") else dict(rec)
     body["record_kind"] = kind  # claims carry their own `kind` (forecast/view/causal); do not clobber
-    body["chunk"] = getattr(rec, "chunk", body.get("chunk"))
+    # The extractor only ever sees prompt-local labels (`c2`, `c3`), so re-deriving records from the raw
+    # transport copy leaves `chunk` pointing at a label that exists in no chunk table. `p4c_gate` fixes
+    # this with a real-cid override; without the same override here P5's `chunk_mismatch` check rejects
+    # every record and the graph comes out empty while its own gates stay green. Callers pass the real id.
+    body["chunk"] = cid or getattr(rec, "chunk", body.get("chunk"))
     body["sids"] = list(getattr(rec, "sids", body.get("sids") or []))
     body["quote"] = B.record_quote(kind, rec, sents)
     body["sources"] = [source]
@@ -188,7 +193,7 @@ def union_pack(pack: dict, sources: list[tuple[str, str]], modes: dict | None = 
         stats["new_entities"].update(got.get("new_entities") or {})
         for cid, kinds in got["chunks"].items():
             for kind in KINDS:
-                rows = [record_row(kind, rec, sents[bcid[cid]], pass_name) for rec in kinds[kind]]
+                rows = [record_row(kind, rec, sents[bcid[cid]], pass_name, cid) for rec in kinds[kind]]
                 if not rows:
                     continue
                 added, dup = merge_records(acc[cid][kind], rows, pass_name)
