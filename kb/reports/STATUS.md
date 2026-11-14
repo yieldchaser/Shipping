@@ -523,6 +523,9 @@ daemon `kb/p4c_daemon.py --pass p4c_bulk --model DeepSeek-V4.1-Flash --quota 0 -
   generation-bound prediction above; `attempts` 11,412 → 12,604; `out_tok` 4,594,619 → 5,196,044;
   pipeline spend **$9.5434 → $10.1157**. Latest batch line
   `[14:04:35] done ok=328 cached=0 err=72 retries=686 cost=$0.3142`, budget left **$67.631**.
+  Rate since: **4,640 @ 14:25 → 4,804 @ 14:36 → 4,912 @ 14:46 → 5,051 @ 14:57 → 5,138 @ 15:07**
+  (~11.6 ok/min over 14:25→14:57, then a slower 15:07 window at ~8.4), `attempts` 12,923 → 13,950,
+  `out_tok` 5,274,220 → 5,765,128, pipeline spend **$10.1933 → $10.6646**; 20.57% of packs banked.
   `kb/logs/p4c_bulk16.err.log` mtime is frozen at **11:06:32** (my own force-kill dump, not a crash), so
   there has been no spontaneous interpreter abort since the detached relaunch. Remaining ~20.4k packs
   ⇒ **~30 h** wall at this rate; nothing about worker count can shorten it (see the ceiling bullet).
