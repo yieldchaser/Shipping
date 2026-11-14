@@ -43,11 +43,11 @@ adjudication $0.053. Free tiers (Ultrafast, NIM) carried 1,464 of the 2,240 call
 Gateway `/stats` after P4b: enclave (agent spine) $66.04/66.00 unchanged -- no paid agent calls;
 Ultrafast output today 1,268,319/4,800,000 tokens.
 
-Live pipeline spend 2026-11-15T03:0xZ: read it from the ledger, not from this file —
+Live pipeline spend 2026-11-15T03:5xZ: read it from the ledger, not from this file —
 `kb/state/ledger.sqlite` is the authority (sum `cost_usd` over all passes, or the query in the AMD
-amendment section below). At the last measurement: **$19.1612** ledger-measured by `runner.spent()`
-(`p4c_bulk`/`DeepSeek-V4.1-Flash` **$14.1986** of it, `p4c_bulk_retry` $0.1227, `p4c_esc_preflight`
-$0.0111); against the $82 cap that leaves **≈$62.84**. The ladder's `--cap 11` is a *booking* limit
+amendment section below). At the last measurement: **$19.7233** ledger-measured by `runner.spent()`
+(`p4c_bulk`/`DeepSeek-V4.1-Flash` **$14.7764** of it, `p4c_bulk_retry` $0.1227, `p4c_esc_preflight`
+$0.0111); against the $82 cap that leaves **≈$62.28**. The ladder's `--cap 11` is a *booking* limit
 for escalation, not the pipeline cap.
 
 That headroom comfortably covers the remaining drain: the retry rung is ~2,137 AMD single-pack calls
@@ -58,7 +58,7 @@ before the `p4c_bulk_retry` row was complete; `$0.000520` is the measured value 
 recorded rather than silently rounded.) The esc rung spends its whole **$11.00** booking on 445 of its
 2,137 triggered candidates (true cost ~$5.5–8.9; see the esc correction below), and the
 gate/union/report/judge-audit steps make no billable AMD calls. Worst case ≈$12.1 of drain against
-$62.8 of headroom, so the drain cannot approach the $82 cap even if the retry queue doubles.
+$62.3 of headroom, so the drain cannot approach the $82 cap even if the retry queue doubles.
 
 Read the gateway counter correctly: `http://127.0.0.1:4100/stats` counts **agent-spine** calls only
 (`agent_gateway_usage.jsonl`, prompt >12k tokens/call). **Extraction calls bypass the gateway
@@ -647,8 +647,8 @@ Authority: none needed; process-supervision fix, no gate, cap or plan change.
 `kb/p4c_supervisor.py` restarts the **daemon** after a crash, but nothing restarted the **supervisor**.
 Amendment 6 is the proof it matters: a scheduled Windows update restarted the host at 04:45 and the
 daemon died with it; the fleet sat dead until a human noticed at 08:42. The remaining drain needs
-**~11-21 h** of uninterrupted wall clock (monitor tail at 02:59: 13,921/24,978 = 55.7%, rate
-10.3 ok/min, eta 17.9 h — re-read `kb\logs\p4c_mon9.log`, the figure moves), so one more unattended
+**~11-21 h** of uninterrupted wall clock (monitor tail at 03:46: 14,438/24,978 = 57.8%, rate
+10.2 ok/min, eta 17.2 h — re-read `kb\logs\p4c_mon9.log`, the figure moves), so one more unattended
 reboot loses the rest of the wait with no local signal — the log
 just stops, and a stopped log looks exactly like a slow batch.
 
@@ -870,8 +870,10 @@ daemon `kb/p4c_daemon.py --pass p4c_bulk --model DeepSeek-V4.1-Flash --quota 0 -
   measured x3.21 chunk factor.
   - `p4c_union.build` — **safe**: it streams each pack's rows straight to `gated_union.jsonl.tmp` and
     keeps only `Counter`s plus an `int` total, so its footprint is O(pack), not O(corpus).
-  - `p4c_report.merge_union` — **safe**: iterates via `load_jsonl` into one compact per-chunk status
-    dict (drops the `kept` payloads).
+  - `p4c_report.merge_union` — **NOT safe at full scope; superseded by the measurement in the drain
+    readiness section below.** It looks compact (one per-chunk status dict, `kept` payloads dropped)
+    but it still holds one entry for *every* chunk: measured 374.2 MB peak on the 26,953-chunk
+    rehearsal union ⇒ **~1.0-1.2 GB projected at 86,607 chunks**. Run it alone, daemon stopped.
   - `p4c_audit.plan` — **tight, 0.87 GB peak** (264 MB just for `load_gated` rows, +14 MB for the
     `flat_records` list) because it materialises every union row *and* a second one-entry-per-record
     list before drawing the 200 seeded items. On a box already running the 16-worker daemon this can
@@ -1064,6 +1066,14 @@ python -X utf8 kb\p4c_ladder.py --cap 11 --gated kb\state\p4c\rungs\p4c_bulk\gat
 #    (51.7%/66.7% per sample), projecting a post-retry rate of 0.0056-0.0067 vs the 0.02 gate, for
 #    ~$1.11 across all 2,137 queued calls ($0.000520/call = $0.1227/236 ok). Do not skip it and do not
 #    assume it is a no-op.
+#    CACHE NOTE (measured 2026-11-15, zero spend): `runner._cached` (kb/runner.py L212-223) matches
+#    on job_key ONLY, with no pass/budget/prompt-version guard, so the 236 rehearsal raws left in
+#    kb\state\raw\p4c_bulk_retry\ are served as free cache hits for this rung. They are LEGITIMATE and
+#    must NOT be deleted: rebuilt from the real packs.jsonl, all 236 collide byte-exactly
+#    (job_key 236/236, messages/extra_body/max_tokens all equal; doc/known/blocks 0 diffs) because the
+#    single-chunk key is a pure function of (doc_id, cid) and prompt_version/model/mode are unchanged.
+#    Deleting them would only re-spend $0.1227 for identical answers. What must stay true is that the
+#    rung's inputs are real `singles_retry.jsonl` rows, which the ladder rewrites from the bulk gate.
 python -X utf8 kb\p4c_run.py --run --pass p4c_bulk_retry --model DeepSeek-V4.1-Flash `
   --packs kb\state\p4c\singles_retry.jsonl
 # --packs is REQUIRED here too: with it omitted, `p4c_gate.load_packs(None)` defaults to
@@ -1157,6 +1167,21 @@ the only path that builds the merged map) is the heaviest drain step — heavier
 `merge_union` projection above — and it must run alone. Step 3, with `--gated` only, never builds the
 merged map and stays in the ~290 MB class measured earlier. The two ladder invocations must not
 overlap either: run step 3, let it exit, then step 4's gate, then step 4b.
+
+**Free RAM is the binding constraint, and it must be read as *free*, not *total* (measured
+2026-11-15T03:5x, zero spend).** Host total is **7,876.7 MB** but free is only **647.8 MB**
+(used 7,228.9, commit headroom 11,166.3 MB, C: 7.30 GB free) — *below* the 761 MB step-4b projection
+and far below `merge_union`'s 1.0-1.2 GB. The projections above were validated against total RAM on
+the assumption that a boot leaves ~1.1 GB free; right now it does not, because the box is also
+running the daemon (PID 25088, 83.5 MB RSS / 159.3 MB private), the supervisor (PID 5888), plus
+unrelated services (`hermes_cli` gateway PID 16856 44.3 MB, `litellm` proxy on port 4000 PID 20284
+11.6 MB RSS but **522.6 MB private**, `agent_gateway` PID 20168 21.2 MB); all python procs together
+are only 170.6 MB RSS, so the pressure is user-space `.exe` load + page cache, not the KB run.
+Consequence for the drain: step 2 and step 4b in particular must run with the **daemon stopped**
+(it must stop for step 2 in any case), one heavy consumer at a time, and the file-page cache should be
+allowed to drain first. Do **not** start step 4b speculatively while the daemon still holds pool
+threads. If a consumer still can't get memory, the pagefile (16 GB) makes the expected symptom
+slowness rather than an abort — so treat a sudden 10x wall-time as the memory signal, not a hang.
 
 Until the drain, the live union row is legitimately above the gate: the rehearsal slice already
 shows `broken/chunks` **806/26,953 = 0.0299** against `failure_queue_max 0.02`, which is exactly why
