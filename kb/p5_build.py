@@ -266,16 +266,32 @@ def case_new(ref: str) -> dict | None:
     return None
 
 
+def row_new_entities(row: dict) -> dict[str, str]:
+    """`{id: printed name}` for the model-declared new entities of one gated chunk row.
+
+    Two row shapes reach this function. Union rows (`p4c_union.gated_union.jsonl`, which wins
+    precedence in `default_gated_paths`) carry `new_entities` already filtered to the gate-approved
+    ids. Per-rung gate rows (`p4c_gate.gated.jsonl`) instead carry `new_entities_ok` plus `new_names`.
+    Reading only the gate shape silently provisioned nothing whenever the union export existed, which
+    left every record citing a `type:new:...` id dangling and `build_rows` dropped them.
+    """
+    declared = row.get("new_entities")
+    if isinstance(declared, dict) and declared:
+        return {str(eid): str(name) for eid, name in declared.items() if name}
+    ok = row.get("new_entities_ok") or {}
+    names = row.get("new_names") or {}
+    out: dict[str, str] = {}
+    for eid, good in ok.items():
+        if good and names.get(eid):
+            out[str(eid)] = str(names[eid])
+    return out
+
+
 def provision_new_entities(con, rows: list[dict]) -> dict[str, str]:
     """Insert provisional `entity` + `alias` rows for declared new entities; return {id: name}."""
     wanted: dict[str, str] = {}
     for row in rows:
-        ok = row.get("new_entities_ok") or {}
-        names = row.get("new_names") or {}
-        for eid, good in ok.items():
-            if not good:
-                continue
-            name = names.get(eid)
+        for eid, name in row_new_entities(row).items():
             if not name:
                 continue
             info = case_new(eid)

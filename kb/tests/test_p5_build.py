@@ -253,6 +253,31 @@ def test_declared_new_entity_is_provisioned_and_resolves(db, tmp_path):
         con.close()
 
 
+def test_row_new_entities_accepts_union_and_gate_shapes():
+    """Union rows (which win precedence) carry `new_entities`; rung rows carry `new_entities_ok`."""
+    assert P.row_new_entities({"new_entities": {"index:new:i2701": "I2701"}}) == {"index:new:i2701": "I2701"}
+    assert P.row_new_entities({"new_entities_ok": {"vessel:new:a": True, "vessel:new:b": False},
+                               "new_names": {"vessel:new:a": "A", "vessel:new:b": "B"}}) == {"vessel:new:a": "A"}
+    assert P.row_new_entities({}) == {}
+    assert P.row_new_entities({"new_entities": {}}) == {}
+
+
+def test_union_shaped_new_entity_is_provisioned_and_resolves(db, tmp_path):
+    """The union export is the precedence winner, so its `new_entities` must provision too."""
+    nid = "vessel:new:mv-argo"
+    row = {"chunk_id": "c1", "doc_id": "d1", "published_at": "2026-03-01",
+           "kept": {"state_facts": [state_fact(src=nid)], "events": [], "claims": []},
+           "new_entities": {nid: "MV Argo"}}
+    report, _out, _g = run(db, tmp_path, [row])
+    assert report["inserted"]["edge"] == 1 and report["dangling_entity_ids"] == 0
+    con = P.connect(db, read_only=True)
+    try:
+        assert con.execute("select canonical_name, status from entity where entity_id = ?",
+                           [nid]).fetchone() == ("MV Argo", "provisional")
+    finally:
+        con.close()
+
+
 def test_merged_entity_ref_is_replaced_by_survivor(db, tmp_path):
     report, _out, gated = run(tmp_path and db, tmp_path, [gated_row(
         kept={"state_facts": [state_fact(src="vessel:old:9")], "events": [], "claims": []})])
