@@ -1135,6 +1135,22 @@ packs file -> `p4c_run.run_packs(limit=1)` -> `p4c_gate.gate_pack`) rather than 
 Scratch from this preflight: `kb\state\raw\p4c_esc_preflight\`, `kb\state\p4c\_scratch_escpreflight\`
 — both to be deleted before the P4c PASS commit.
 
+### `p4c_report --write` needs an explicit `--gated` when the rungs live under `rungs/`
+
+Verified against the real defaults (`p4c_report.GATED` = `kb\state\p4c\gated.jsonl`, which does not
+exist and will not, because step 2+ write under `rungs\<pass>\`). With no `--gated`, `main` (L527-533)
+falls back to `[GATED] + sorted(OUT.glob("esc*"))/gated.jsonl`, filters to existing paths, and exits
+`no gated output under ...` — so the final report step would abort *after* the whole drain, on a
+missing default file. Pass the rung paths explicitly, e.g.
+`--gated kb\state\p4c\rungs\p4c_bulk\gated.jsonl kb\state\p4c\rungs\p4c_bulk_retry\gated.jsonl kb\state\p4c\rungs\p4c_esc\gated.jsonl`.
+Note the same glob's `esc*` prefix would not match a `rungs\p4c_esc` directory either, so relying on
+the default is wrong in two independent ways.
+
+The union path needs no flag: `p4c_union.UNION_DIR` (`kb/state/p4c/union`) is exactly
+`p4c_report.UNION_GATED`'s default, so `--union` can be left alone as long as union writes its default
+output. Choose one of the two sources deliberately — `build` (L375-376) prefers the union merge when
+the file exists and only falls back to the rung merge otherwise.
+
 ## P4c scaffold (code, committed)
 
 While waiting at C1: `kb/p4c_pack.py` (packing, dry run 1,149 packs / 4,000 chunks / 794 docs, mean
