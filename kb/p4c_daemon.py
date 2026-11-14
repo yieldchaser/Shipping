@@ -144,7 +144,7 @@ def sleep_until(ts: dt.datetime) -> None:
 
 
 def run(pass_name: str, model: str, packs_path: Path, quota: int, chunk: int,
-        shard: int, cap: float, job_maker=None) -> int:
+        shard: int, cap: float, job_maker=None, dense: bool = True) -> int:
     if not PR.load_modes().get(model):
         raise SystemExit(
             f"no transport mode for {model} in {PR.MODE_FILE}: run the P4c transport preflight first "
@@ -164,7 +164,7 @@ def run(pass_name: str, model: str, packs_path: Path, quota: int, chunk: int,
         t0 = ledger_now()
         before_out = day_out_tokens(model)
         st = PR.run_packs(pass_name, model, cap, packs_path=packs_path, limit=chunk, shard=shard,
-                          job_maker=job_maker, start=cursor)
+                          job_maker=job_maker, start=cursor, dense=dense)
         cursor = st.get("start_next", cursor)
         added_out = day_out_tokens(model) - before_out
         errs = ledger_errors(pass_name, t0.isoformat(timespec="seconds"))
@@ -175,6 +175,15 @@ def run(pass_name: str, model: str, packs_path: Path, quota: int, chunk: int,
               f"done {have_after}/{total}, "
               f"cursor {cursor}", flush=True)
         if st["packs"] == 0:
+            if dense:
+                # dense mode re-derives pending packs from the ledger every round, so an empty round
+                # means there is nothing left to send even if `scope_done` still disagrees. Do not
+                # spin: back off and let the next round re-check.
+                print(f"[info] dense round found no pending packs (done {have_after}/{total}, "
+                      f"scope_done wants {total - have_after} more); backing off "
+                      f"{STALL_SLEEP_S // 60} min", flush=True)
+                time.sleep(STALL_SLEEP_S)
+                continue
             # whole window was already cached: advance instead of spinning on the same packs
             if cursor >= total:
                 print("[warn] swept every pack window but the pass is not finished (packs without "

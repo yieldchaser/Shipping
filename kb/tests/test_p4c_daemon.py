@@ -38,7 +38,7 @@ def test_run_forwards_job_maker_and_counts_errors(tmp_path, monkeypatch):
     calls = {}
 
     def fake_run_packs(pass_name, model, cap, packs_path=None, limit=0, shard=200,
-                       job_maker=None, start=0):
+                       job_maker=None, start=0, dense=True):
         calls.update(packs_path=packs_path, limit=limit, job_maker=job_maker, start=start)
         return {"packs": 2, "chunks": 4, "start_next": start + 2}
 
@@ -61,11 +61,14 @@ def test_run_forwards_job_maker_and_counts_errors(tmp_path, monkeypatch):
 
 
 def test_run_advances_cursor_over_fully_cached_windows(tmp_path, monkeypatch):
-    """Regression: a window whose packs all have raws must advance the cursor, not spin forever."""
+    """Regression: a window whose packs all have raws must advance the cursor, not spin forever.
+
+    This is the windowed (`dense=False`) scheduler: the AMD bulk daemon now runs dense, but the
+    quota-based / non-AMD paths still use pack offsets, so the cursor contract stays tested."""
     seen_starts = []
 
     def fake_run_packs(pass_name, model, cap, packs_path=None, limit=0, shard=200,
-                       job_maker=None, start=0):
+                       job_maker=None, start=0, dense=True):
         seen_starts.append(start)
         if start == 0:
             return {"packs": 0, "chunks": 0, "start_next": 200}   # cached window
@@ -79,8 +82,33 @@ def test_run_advances_cursor_over_fully_cached_windows(tmp_path, monkeypatch):
     monkeypatch.setattr(D, "day_out_tokens", lambda model: 0)
     monkeypatch.setattr(D, "ledger_errors", lambda pass_name, since: 0)
     monkeypatch.setattr(D.PR, "run_packs", fake_run_packs)
-    assert D.run("p", "m", packs_file(tmp_path, n=500), 10, 5, 200, 5.0) == 0
+    assert D.run("p", "m", packs_file(tmp_path, n=500), 10, 5, 200, 5.0, dense=False) == 0
     assert seen_starts == [0, 200]
+
+
+def test_run_dense_empty_round_backs_off_instead_of_advancing(tmp_path, monkeypatch):
+    """Dense mode re-derives pending packs from the ledger every round, so an empty round means the
+    ledger and `scope_done` disagree. It must not walk a cursor (dense has none) - it backs off."""
+    slept, rounds = [], {"n": 0}
+
+    def fake_run_packs(pass_name, model, cap, packs_path=None, limit=0, shard=200,
+                       job_maker=None, start=0, dense=True):
+        assert dense is True, "the bulk daemon must run the dense scheduler"
+        rounds["n"] += 1
+        if rounds["n"] >= 2:
+            raise SystemExit(0)
+        return {"packs": 0, "chunks": 0, "start_next": start}
+
+    monkeypatch.setattr(D.PR, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(D, "scope_done", lambda pass_name, model, packs_path: 0)
+    monkeypatch.setattr(D, "day_out_tokens", lambda model: 0)
+    monkeypatch.setattr(D, "ledger_errors", lambda pass_name, since: 0)
+    monkeypatch.setattr(D.time, "sleep", lambda s: slept.append(s))
+    monkeypatch.setattr(D.PR, "run_packs", fake_run_packs)
+    with pytest.raises(SystemExit):
+        D.run("p", "m", packs_file(tmp_path, n=500), 0, 5, 200, 5.0)
+    assert slept == [D.STALL_SLEEP_S]
+
 
 
 def test_done_n_is_model_scoped(tmp_path, monkeypatch):
@@ -159,7 +187,7 @@ def test_run_backs_off_when_pool_unhealthy_without_quota(tmp_path, monkeypatch):
     slept, ran = [], {"n": 0}
 
     def fake_run_packs(pass_name, model, cap, packs_path=None, limit=0, shard=200,
-                       job_maker=None, start=0):
+                       job_maker=None, start=0, dense=True):
         ran["n"] += 1
         if ran["n"] >= 3:
             raise SystemExit(0)          # leave the loop once the branch under test has run
@@ -263,7 +291,7 @@ def test_run_backs_off_when_rounds_add_neither_raw_nor_tokens(tmp_path, monkeypa
     ran = {"n": 0}
 
     def fake_run_packs(pass_name, model, cap, packs_path=None, limit=0, shard=200,
-                       job_maker=None, start=0):
+                       job_maker=None, start=0, dense=True):
         ran["n"] += 1
         if ran["n"] > D.UNPRODUCTIVE_ROUNDS:
             raise SystemExit(0)          # leave once the guard under test has fired
@@ -288,7 +316,7 @@ def test_run_does_not_back_off_while_rounds_stay_productive(tmp_path, monkeypatc
     done = {"n": 0}
 
     def fake_run_packs(pass_name, model, cap, packs_path=None, limit=0, shard=200,
-                       job_maker=None, start=0):
+                       job_maker=None, start=0, dense=True):
         ran["n"] += 1
         done["n"] += 1                  # every round stores one more usable raw
         if ran["n"] >= D.UNPRODUCTIVE_ROUNDS + 2:

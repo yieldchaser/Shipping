@@ -252,6 +252,59 @@ record drop rate **0.101** (`entity_unresolved` 998, `number_not_in_quote` 287, 
 the 400-pack sample it was measured on. Fail reasons are the expected gate-2/4 drops the retry +
 escalation rungs exist to absorb.
 
+### Amendment 7 — dense scheduling, real throughput, and crash-resilient relaunch (2026-11-14)
+
+Authority: none needed; scheduler, measurement and process-supervision fix, no gate, cap or plan change.
+
+**Defect 1 — the daemon re-walked a finished head.** The monotonic cursor assumed the pending packs
+were contiguous behind the cursor. They are not: after the cap change (Amendment 2) the frozen scope is
+key-exact-pending in windows 0-6 (1-10 each), **all of windows 7-123 at 200 pending each**, and window
+124 at 178 - 23,595 of 24,978 packs (94.5%) pending, but the *head* of the list is largely cached. A
+`start`-anchored walk therefore burned its whole round on a cached head and dispatched nothing; the
+`[round N]` line that would have shown this was never reached because the process crashed first (below).
+Fix: `dense=True` (now the daemon default) re-derives the pending set from the ledger every round and
+batches it contiguously, ignoring `start` and skipping the cursor advance entirely. A monotonic cursor
+would step over the sparse tail, so the dense path never touches it. First live batch after the fix:
+`[10:28:05] pass p4c_bulk: 200 jobs, budget left $71.521` - full width, 200 jobs / 715 chunks.
+Verified by `kb/tests/test_p4c_run.py` (dense batches behind a finished head; `pending_shards` skip of
+cached packs; `limit`/`shard` honoured) and `kb/tests/test_p4c_daemon.py` (empty dense round backs off
+instead of advancing).
+
+**Defect 2 — the recorded pool throughput was measuring the wrong thing.** Amendment 3-era probes
+(`kb/_t_conc.py`) reported `n=8 -> 119.7`, `n=16 -> 129.6` accepted calls/min. Those probes sent
+`max_tokens=8`: they measured admission into the shared model pool, not 8,000-token extraction. A/B on
+real pending packs with the real prompt (`kb/_t_ab.py`, key-exact accounting):
+
+| workers / rate | packs | ok | wall | ok/min | attempts/ok | latency p50 / p90 / max |
+|---|---|---|---|---|---|---|
+| 16 / 120 rpm | 100 | 86 | 571 s | **9.0** | 1.86 | 21.3 s / 51.2 s / 60.9 s |
+| 48 / 600 rpm | 150 | 76 | 394 s | **11.6** | 7.16 | 20.8 s / 50.0 s / 59.9 s |
+
+At 48 workers 74% of attempts are rejected (429/503) to buy 2.6 extra ok/min, and each reject burns a
+worker slot; 16 is the throughput/quality sweet spot and stays the setting. Real worker saturation is
+therefore ~4-5 in-flight calls, not the nominal 16 - the shared AMD pool is the ceiling, not our thread
+pool. Consequence for planning: 23,285 pending packs at ~9-11 ok/min is **~35 h**, not the ~3 h the
+wrong number implied. Cost tracks completions, not attempts, so rejects are free in dollars but not in
+wall time.
+
+**Defect 3 — fatal interpreter abort.** The daemon died at 09:56:12 with
+`Fatal Python error: PyEval_SaveThread: ... the GIL is released (the current Python thread state is
+NULL)`, thread dumps showing pool threads parked in `llm_runner.chat` SSL reads. That is an
+interpreter-level abort, not a Python exception: it cannot be caught in-process, so recovery must live
+outside the process. Fix: `kb/p4c_supervisor.py`, a thin wrapper that restarts the daemon after any
+non-zero exit with a 20 s back-off and appends every launch/exit to
+`kb/logs/p4c_bulk_supervisor.log`, so a crash loop is visible instead of a silent stall. The daemon was
+relaunched under it at **10:27** (supervisor PID 5396, daemon child PID 20396); the ledger is the
+resume point, so a crash now costs only the in-flight batch. Batch yield from the crashed 09:50 run
+(same ledger, since 09:45): `ok 59` / `error 5` (all `HTTP 429`, `attempts=5`) - progress, not loss.
+
+| check | value |
+|---|---|
+| key-exact usable raws | **1,810 / 24,978** at relaunch (`done 1810`) |
+| pending | 23,595 packs (94.5%) |
+| `p4c_bulk` sub-ledger | $2.79 of the $31.25 booking; pipeline $7.57 of $82 |
+| tests | `kb/tests/test_p4c_run.py` + `kb/tests/test_p4c_daemon.py` 30 passed |
+
 ## P4b numbers (extraction bake-off, plan §10.2)
 
 | metric | value |

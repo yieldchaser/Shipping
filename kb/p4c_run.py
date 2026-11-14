@@ -132,9 +132,40 @@ def pack_shards(packs_path: Path, limit: int = 0, shard: int = SHARD, start: int
             break
 
 
+def pending_shards(packs_path: Path, pass_name: str, model: str, mode: str,
+                   limit: int = 0, shard: int = SHARD):
+    """Yield batches holding ONLY packs that still need a usable raw, packed densely (dense mode).
+
+    The windowed walk in `pack_shards` resumes by pack offset, which is wrong for the tail of a run
+    that was already mostly done: on 2026-11-14 packs 0-1399 were finished, so each 200-pack window
+    there held only 1-2 pending packs. Sixteen workers were asked for and got two jobs, the round
+    finished in ~0.5 ok/min, and amortised 0.5 ok/min looked exactly like a provider brownout even
+    though a side probe was accepting 120 synchronous calls/min on the same pool. A monotonic cursor
+    can also step over a sparse tail it then never revisits. Re-deriving pending from the ledger every
+    call and batching the pending packs contiguously keeps every batch at ~`shard` real calls and
+    cannot skip a pack. Costs one full-scope `has_raw` scan (~30 s over 24,978 packs) per call.
+    """
+    batch: list[dict] = []
+    chunks = 0
+    taken = 0
+    for pack in load_packs(packs_path):
+        if has_raw(pass_name, model, mode, pack):
+            continue
+        batch.append(pack)
+        chunks += len(pack["chunk_ids"])
+        if len(batch) >= shard:
+            taken += len(batch)
+            yield batch, chunks, 0, 0
+            if limit and taken >= limit:
+                return
+            batch, chunks = [], 0
+    if batch:
+        yield batch, chunks, 0, 0
+
+
 def run_packs(pass_name: str, model: str, cap: float, packs_path: Path | None = None,
               limit: int = 0, shard: int = SHARD, progress: bool = True,
-              job_maker=None, start: int = 0) -> dict:
+              job_maker=None, start: int = 0, dense: bool = False) -> dict:
     """Run the packed bulk calls for one pass/model. Resumable; returns run metadata.
 
     `start` is the pack offset to resume from (whole batches only); the returned `start_next` is
@@ -144,6 +175,9 @@ def run_packs(pass_name: str, model: str, cap: float, packs_path: Path | None = 
     `job_maker(pass_name, model, mode, pack)` lets a derived pass (gleaning) send a different user
     message while keeping the same ledger key: the key is built from pass name + model + transport
     variant + pack key, so raw paths stay derivable by `p4c_gate.raw_for`.
+
+    `dense=True` ignores `start` and walks `pending_shards` instead, so a run whose head is already
+    finished still gets full-width batches (see `pending_shards` for why that matters).
     """
     make = job_maker or B.make_job
     modes = load_modes()
@@ -159,10 +193,14 @@ def run_packs(pass_name: str, model: str, cap: float, packs_path: Path | None = 
           "batches": 0, "start": start, "start_next": start}
     t0 = time.time()
     total_chunks = FULL_SCOPE_CHUNKS if not limit else 0
-    for batch, chunks, n, base in pack_shards(packs_path or PACKS, limit=limit, shard=shard,
-                                              start=start):
-        st["start_next"] = base + len(batch)
-        todo = pending(batch, pass_name, model, mode)
+    source = (pending_shards(packs_path or PACKS, pass_name, model, mode, limit=limit, shard=shard)
+              if dense else
+              pack_shards(packs_path or PACKS, limit=limit, shard=shard, start=start))
+    for batch, chunks, n, base in source:
+        # `pending_shards` already filtered by `has_raw`, so re-checking would double the scan cost.
+        todo = batch if dense else pending(batch, pass_name, model, mode)
+        if not dense:
+            st["start_next"] = base + len(batch)
         st["packs"] += len(todo)
         st["chunks"] += sum(len(p["chunk_ids"]) for p in todo)
         st["packs_skipped"] += len(batch) - len(todo)

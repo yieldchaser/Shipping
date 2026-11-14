@@ -159,3 +159,74 @@ def test_run_packs_windows_start_and_advance(monkeypatch, tmp_path):
     st3 = C.run_packs("p4c_bulk", "m", 10.0, packs_path=packs, shard=2, limit=2, progress=False,
                       start=5)
     assert st3["packs"] == 0 and st3["start_next"] == 5   # past the end: no window yielded
+
+
+def test_pending_shards_packs_only_missing_packs_densely(tmp_path, monkeypatch):
+    """Regression for the 2026-11-14 head-sweep stall: with packs 0-1399 done, the windowed walk
+    handed the runner 1-2 packs per batch (~0.5 ok/min from a pool accepting 120/min) and a
+    monotonic cursor could step over a sparse tail it never revisited. Dense mode must hand over
+    exactly the pending packs, in full-width batches, and must not skip a pending pack."""
+    packs = tmp_path / "packs.jsonl"
+    write_jsonl(packs, [pack(doc=f"d{i}", cids=("a",), key=f"d{i}|a") for i in range(7)])
+    done = {f"d{i}|a" for i in range(5)}          # head finished, pending = d5, d6
+    monkeypatch.setattr(C, "has_raw", lambda pass_name, model, mode, p: p["key"] in done)
+
+    def has_raw(pass_name, model, mode, p):
+        return p["key"] in done
+
+    batches = list(C.pending_shards(packs, "p4c_bulk", "m", "tools", limit=0, shard=2))
+    assert [[p["key"] for p in b] for b, _c, _n, _o in batches] == [["d5|a", "d6|a"]]
+    assert [c for _b, c, _n, _o in batches] == [2]
+
+    # a limit caps the number of pending packs taken, not the number of windows walked
+    capped = list(C.pending_shards(packs, "p4c_bulk", "m", "tools", limit=1, shard=1))
+    assert [[p["key"] for p in b] for b, _c, _n, _o in capped] == [["d5|a"]]
+
+
+def test_run_packs_dense_delivers_full_batches_behind_a_finished_head(monkeypatch, tmp_path):
+    """Same regression through `run_packs(dense=True)`: the six finished head packs must not starve
+    the batch, and every pending pack must still be sent exactly once."""
+    packs = tmp_path / "packs.jsonl"
+    write_jsonl(packs, [pack(doc=f"d{i}", cids=("a",), key=f"d{i}|a") for i in range(8)])
+    done = {f"d{i}|a" for i in range(6)}
+    monkeypatch.setattr(C, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(C, "state_path", lambda pass_name: tmp_path / f"run_{pass_name}.json")
+    sent = []
+
+    class FakeRunner:
+        def __init__(self, *a, **k):
+            self.stats = {"ok": 0}
+
+        def run(self, jobs):
+            sent.extend(j["meta"]["pack_key"] for j in jobs)
+
+    monkeypatch.setattr(C.B, "runner_for", lambda *a, **k: FakeRunner())
+    monkeypatch.setattr(C.R, "spent", lambda passes=None: 0.0)
+    monkeypatch.setattr(C, "has_raw",
+                        lambda pass_name, model, mode, p: p["key"] in done)
+    st = C.run_packs("p4c_bulk", "m", 10.0, packs_path=packs, shard=2, dense=True,
+                     progress=False)
+    assert sent == ["d6|a", "d7|a"]
+    assert st["packs"] == 2 and st["chunks"] == 2 and st["batches"] == 1
+
+
+def test_run_packs_dense_flag_reaches_pending_shards(monkeypatch, tmp_path):
+    """The daemon's round call must actually switch the scheduler, not silently keep windowing."""
+    seen = {}
+
+    def fake_pending(packs_path, pass_name, model, mode, limit=0, shard=200):
+        seen["pending"] = (pass_name, model, mode, limit, shard)
+        return iter(())
+
+    monkeypatch.setattr(C, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(C, "state_path", lambda pass_name: tmp_path / f"run_{pass_name}.json")
+    monkeypatch.setattr(C.B, "runner_for", lambda *a, **k: type("R", (), {
+        "run": lambda self, jobs: None, "stats": {"ok": 0}})())
+    monkeypatch.setattr(C.R, "spent", lambda passes=None: 0.0)
+    monkeypatch.setattr(C, "pending_shards", fake_pending)
+    monkeypatch.setattr(C, "pack_shards", lambda *a, **k: pytest.fail(
+        "dense run must not use the windowed scheduler"))
+    st = C.run_packs("p4c_bulk", "m", 10.0, packs_path=tmp_path / "p.jsonl", shard=3, limit=9,
+                     dense=True, progress=False)
+    assert seen["pending"] == ("p4c_bulk", "m", "tools", 9, 3)
+    assert st["packs"] == 0
