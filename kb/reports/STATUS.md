@@ -768,10 +768,36 @@ daemon `kb/p4c_daemon.py --pass p4c_bulk --model DeepSeek-V4.1-Flash --quota 0 -
   gate change: no threshold in `gates.yaml` is touched. Recorded here because the config sum (82.00)
   and the ladder default disagree, and the ladder default is the one that would bind silently.
 
+## Completion counter correction (found 23:18 on the live run)
+
+The progress figure used earlier in this file ("key-exact done") was **over-reporting**, and the
+over-report is a trap for the post-drain check, so the authoritative definition is pinned here.
+
+`SELECT COUNT(DISTINCT job_key) FROM jobs WHERE pass='p4c_bulk' AND status='ok'` returns **13,514**
+(raw) / **13,322** (excluding `finish_reason='length'`), but the number of packs that actually have a
+usable raw is **10,781**. The counter is not key-exact in the sense that matters:
+
+- **1,167 rows** are AMD answers stored under a **superseded key** — the pre-Amendment-2 `mt2500` key
+  (`p4b_run.key_variant` embeds `mt{max_tokens}`; raising the cap to 8,000 changed every pack's key).
+  Their `status='ok'` row and raw file survive under a key the daemon will never compute again, so
+  they are *orphaned* and get re-billed. This is the already-known ~$1.05–1.08 orphan cost.
+- **1,374 rows** belong to the earlier **free Ultrafast** model, which shares the `p4c_bulk` pass
+  name; a pass-only count conflates the two models. (76/116 more rows in each are `length`-truncated.)
+- 10,781 + 1,167 + 1,374 = **13,322**, exactly the pass-wide non-`length` distinct count. The gap is
+  fully explained; nothing is missing on disk.
+
+The daemon's own completion test is `p4c_daemon.scope_done` → `p4c_run.done_packs` → `has_raw` per pack,
+i.e. "this pack's **current** key has a usable, untruncated raw". That is the correct number and the one
+to use at the gate. It is also why the daemon will not stop early: it runs `dense=True`, re-deriving
+pending packs from `has_raw` every round. **Check `done_packs == 24,978`, scoped to
+`model='DeepSeek-V4.1-Flash'`, not the raw ledger key count.** `kb/_t_mon9.py` prints the authoritative
+number; the earlier `_t_prog.py`/`_t_mon8.py` figures were ~2.5k packs optimistic.
+
 ## Post-drain P4c chain (exact commands, run in this order)
 
 Stated here so the sequence is executed from a committed note. `$PY` = the Python 3.12 interpreter.
-Before any of it: confirm key-exact done == 24,978 and the daemon has exited (one writer only).
+Before any of it: confirm `p4c_run.done_packs("p4c_bulk", "DeepSeek-V4.1-Flash", mode) == 24978` and the
+daemon has exited (one writer only).
 
 ```powershell
 # 0. stop writers: supervisor PID + daemon PID must be gone before the gate reads state
