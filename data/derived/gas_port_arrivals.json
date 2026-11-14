@@ -1,14 +1,14 @@
 {
-  "as_of": "2026-11-12 04:32:28 UTC",
-  "total_gas_arrivals": 1016,
-  "ports_count": 368,
+  "as_of": "2026-11-14 04:32:00 UTC",
+  "total_gas_arrivals": 1018,
+  "ports_count": 369,
   "ports": [
     {
       "locode": "",
       "portname": "Blanglancang",
       "country": "Indonesia",
       "asset_class": "LPG",
-      "count": 173,
+      "count": 172,
       "vessels": [
         {
           "imo": 9596234,
@@ -113,14 +113,6 @@
           "status": "At Anchor",
           "operator": "Sinopec",
           "distance_km": 18.8
-        },
-        {
-          "imo": 9941001,
-          "name": "Gas Kaiserin",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "BGN",
-          "distance_km": 5.2
         },
         {
           "imo": 9207144,
@@ -243,6 +235,14 @@
           "distance_km": 9.9
         },
         {
+          "imo": 9938585,
+          "name": "HLS Citrine",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "E1 Corporation",
+          "distance_km": 2.9
+        },
+        {
           "imo": 9364382,
           "name": "Gas Warich",
           "speed": 0.0,
@@ -257,14 +257,6 @@
           "status": "At Anchor",
           "operator": "China Merchants Energy",
           "distance_km": 11.4
-        },
-        {
-          "imo": 9972232,
-          "name": "Gas Zhujiang",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Wanhua Industrial Group",
-          "distance_km": 2.5
         },
         {
           "imo": 9241176,
@@ -299,20 +291,20 @@
           "distance_km": 2.4
         },
         {
-          "imo": 9919175,
-          "name": "Gas Bluebonnet",
-          "speed": 0.0,
-          "status": "Underway",
-          "operator": "Wanhua Industrial Group",
-          "distance_km": 3.9
-        },
-        {
           "imo": 9204922,
           "name": "Forte De Sao Luiz",
           "speed": 0.0,
           "status": "Moored",
           "operator": "Petrobras",
           "distance_km": 1.3
+        },
+        {
+          "imo": 9350604,
+          "name": "NY Lord",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "BW",
+          "distance_km": 12.1
         },
         {
           "imo": 9627930,
@@ -353,6 +345,14 @@
           "status": "At Anchor",
           "operator": "Unknown",
           "distance_km": 15.2
+        },
+        {
+          "imo": 9670004,
+          "name": "Gas Aries",
+          "speed": 0.3,
+          "status": "Underway",
+          "operator": "E1 Corporation",
+          "distance_km": 4.9
         },
         {
           "imo": 9146235,
@@ -443,30 +443,6 @@
           "distance_km": 5.0
         },
         {
-          "imo": 9947495,
-          "name": "Aquamarine Progress II",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Gyxis",
-          "distance_km": 12.0
-        },
-        {
-          "imo": 9933509,
-          "name": "Henbit",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Petredec",
-          "distance_km": 1.8
-        },
-        {
-          "imo": 9370537,
-          "name": "Monarch",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "BW",
-          "distance_km": 2.7
-        },
-        {
           "imo": 9698288,
           "name": "Gas Top",
           "speed": 0.1,
@@ -483,12 +459,12 @@
           "distance_km": 8.5
         },
         {
-          "imo": 1051630,
-          "name": "Energia Grandeur",
+          "imo": 9902794,
+          "name": "Gas Sagittarius",
           "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "MOL Energia",
-          "distance_km": 12.8
+          "status": "Underway",
+          "operator": "Wanhua Industrial Group",
+          "distance_km": 7.1
         },
         {
           "imo": 9365051,
@@ -565,10 +541,10 @@
         {
           "imo": 9415686,
           "name": "Green Sanvi",
-          "speed": 0.3,
+          "speed": 0.0,
           "status": "Underway",
           "operator": "Hindustan Petroleum",
-          "distance_km": 7.5
+          "distance_km": 7.6
         },
         {
           "imo": 9132789,
@@ -587,12 +563,12 @@
           "distance_km": 5.0
         },
         {
-          "imo": 9735036,
-          "name": "BW Magellan",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "BW",
-          "distance_km": 10.6
+          "imo": 9735050,
+          "name": "BW Mindoro",
+          "speed": 0.1,
+          "status": "At Anchor",
+          "operator": "BW LPG",
+          "distance_km": 17.6
         },
         {
           "imo": 9003990,
@@ -643,14 +619,6 @@
           "distance_km": 13.5
         },
         {
-          "imo": 1026829,
-          "name": "Clipper Galleon",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Unknown",
-          "distance_km": 7.1
-        },
-        {
           "imo": 9113379,
           "name": "Da LI",
           "speed": 0.1,
@@ -688,7 +656,7 @@
           "speed": 0.0,
           "status": "At Anchor",
           "operator": "Unknown",
-          "distance_km": 16.7
+          "distance_km": 16.9
         },
         {
           "imo": 9959369,
@@ -739,20 +707,20 @@
           "distance_km": 2.1
         },
         {
+          "imo": 9937074,
+          "name": "Pertamina Gas Dahlia",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Swisschemgas",
+          "distance_km": 15.6
+        },
+        {
           "imo": 9130391,
           "name": "Lady Roxana",
           "speed": 0.8,
           "status": "At Anchor",
           "operator": "Chandra Asri Petrochemical",
           "distance_km": 21.3
-        },
-        {
-          "imo": 9984704,
-          "name": "Monza L",
-          "speed": 0.4,
-          "status": "At Anchor",
-          "operator": "Geogas Trading",
-          "distance_km": 21.2
         },
         {
           "imo": 9682198,
@@ -843,6 +811,22 @@
           "distance_km": 22.7
         },
         {
+          "imo": 1030246,
+          "name": "Gas Lotus",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Wanhua Industrial Group",
+          "distance_km": 7.9
+        },
+        {
+          "imo": 1100273,
+          "name": "Al Sumood",
+          "speed": 0.3,
+          "status": "At Anchor",
+          "operator": "ADMIC",
+          "distance_km": 23.0
+        },
+        {
           "imo": 9141962,
           "name": "Gas Rga",
           "speed": 0.0,
@@ -873,6 +857,14 @@
           "status": "Moored",
           "operator": "Tabuchi Kaiun",
           "distance_km": 0.4
+        },
+        {
+          "imo": 1030337,
+          "name": "Gas Bauhinia",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Unknown",
+          "distance_km": 4.0
         },
         {
           "imo": 9046801,
@@ -1401,7 +1393,7 @@
       "portname": "Xiagong",
       "country": "China",
       "asset_class": "LNG",
-      "count": 127,
+      "count": 129,
       "vessels": [
         {
           "imo": 9035852,
@@ -1430,10 +1422,10 @@
         {
           "imo": 9665085,
           "name": "PFLNG Satu",
-          "speed": 0.1,
+          "speed": 0.0,
           "status": "Restricted Manoeuvrability",
           "operator": "Petronas",
-          "distance_km": 0.5
+          "distance_km": 0.1
         },
         {
           "imo": 9337705,
@@ -1450,6 +1442,14 @@
           "status": "Moored",
           "operator": "Shandong Shipping",
           "distance_km": 6.7
+        },
+        {
+          "imo": 9337755,
+          "name": "Mozah",
+          "speed": 0.1,
+          "status": "Moored",
+          "operator": "QatarEnergy",
+          "distance_km": 11.7
         },
         {
           "imo": 9888766,
@@ -1498,22 +1498,6 @@
           "status": "At Anchor",
           "operator": "NYK LNG Shipmanagement",
           "distance_km": 7.9
-        },
-        {
-          "imo": 9986283,
-          "name": "HL Fortuna",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "LMCS Maritime",
-          "distance_km": 6.9
-        },
-        {
-          "imo": 9946398,
-          "name": "Ignacy Lukasiewicz",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "PKN Orlen",
-          "distance_km": 2.3
         },
         {
           "imo": 9320374,
@@ -1580,6 +1564,14 @@
           "distance_km": 14.5
         },
         {
+          "imo": 9850666,
+          "name": "BW Magnolia",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "BP",
+          "distance_km": 12.2
+        },
+        {
           "imo": 9361990,
           "name": "Tangguh Sago",
           "speed": 0.0,
@@ -1602,6 +1594,22 @@
           "status": "Moored",
           "operator": "Venture Global LNG",
           "distance_km": 1.0
+        },
+        {
+          "imo": 9976903,
+          "name": "Nuaijah",
+          "speed": 0.1,
+          "status": "At Anchor",
+          "operator": "QatarEnergy",
+          "distance_km": 14.3
+        },
+        {
+          "imo": 9997672,
+          "name": "Puteri Kedah",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Petronas",
+          "distance_km": 23.8
         },
         {
           "imo": 9403669,
@@ -1676,12 +1684,12 @@
           "distance_km": 3.9
         },
         {
-          "imo": 9975519,
-          "name": "Mesaieed",
-          "speed": 0.3,
-          "status": "At Anchor",
-          "operator": "QatarEnergy",
-          "distance_km": 12.9
+          "imo": 9892456,
+          "name": "Tenergy",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Trafigura",
+          "distance_km": 1.8
         },
         {
           "imo": 9271248,
@@ -1748,14 +1756,6 @@
           "distance_km": 0.3
         },
         {
-          "imo": 9613135,
-          "name": "Papua",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Papua New Guinea LNG",
-          "distance_km": 27.1
-        },
-        {
           "imo": 9613147,
           "name": "Southern Cross",
           "speed": 0.2,
@@ -1798,10 +1798,10 @@
         {
           "imo": 9431111,
           "name": "Al Khattiya",
-          "speed": 0.4,
+          "speed": 0.0,
           "status": "Moored",
           "operator": "QatarEnergy",
-          "distance_km": 15.4
+          "distance_km": 15.0
         },
         {
           "imo": 9284192,
@@ -1818,14 +1818,6 @@
           "status": "At Anchor",
           "operator": "Trada Maritime",
           "distance_km": 3.8
-        },
-        {
-          "imo": 9766530,
-          "name": "British Partner",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Natural Gas Ocean Transportation Investment No 20",
-          "distance_km": 3.5
         },
         {
           "imo": 9696266,
@@ -1878,10 +1870,10 @@
         {
           "imo": 9431214,
           "name": "Zarga",
-          "speed": 0.5,
+          "speed": 0.1,
           "status": "At Anchor",
           "operator": "QatarEnergy",
-          "distance_km": 15.4
+          "distance_km": 15.1
         },
         {
           "imo": 9761803,
@@ -1914,6 +1906,14 @@
           "status": "Moored",
           "operator": "BW LNG",
           "distance_km": 5.1
+        },
+        {
+          "imo": 9948700,
+          "name": "Energy Fortitude",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Jeragm Singapore",
+          "distance_km": 2.3
         },
         {
           "imo": 9230050,
@@ -2020,19 +2020,19 @@
           "distance_km": 10.3
         },
         {
+          "imo": 9768368,
+          "name": "Boris Vilkitsky",
+          "speed": 0.1,
+          "status": "Moored",
+          "operator": "Yamal LNG",
+          "distance_km": 13.7
+        },
+        {
           "imo": 9252539,
           "name": "Excellence",
           "speed": 0.0,
           "status": "Moored",
           "operator": "PetroBangla",
-          "distance_km": 0.2
-        },
-        {
-          "imo": 9837066,
-          "name": "Saros",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "BOTAS Petroleum Pipeline Corporation",
           "distance_km": 0.2
         },
         {
@@ -2145,7 +2145,7 @@
           "speed": 0.1,
           "status": "Underway",
           "operator": "Shell",
-          "distance_km": 20.3
+          "distance_km": 20.2
         },
         {
           "imo": 9992098,
@@ -2188,6 +2188,14 @@
           "distance_km": 1.8
         },
         {
+          "imo": 9851646,
+          "name": "Flex Resolute",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "BP",
+          "distance_km": 30.0
+        },
+        {
           "imo": 9699945,
           "name": "Tango FLNG",
           "speed": 0.1,
@@ -2210,6 +2218,14 @@
           "status": "Moored",
           "operator": "GNA - Gas Natural Acu",
           "distance_km": 3.2
+        },
+        {
+          "imo": 9672818,
+          "name": "Cesi Lianyungang",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Sinopec",
+          "distance_km": 20.6
         },
         {
           "imo": 7382720,
@@ -2366,10 +2382,10 @@
         {
           "imo": 9947603,
           "name": "Puteri Mahsuri",
-          "speed": 0.0,
+          "speed": 0.2,
           "status": "At Anchor",
           "operator": "Hyundai LNG Shipping",
-          "distance_km": 7.2
+          "distance_km": 6.9
         },
         {
           "imo": 9372743,
@@ -2410,14 +2426,6 @@
           "status": "Moored",
           "operator": "Excelerate Energy",
           "distance_km": 0.6
-        },
-        {
-          "imo": 9682605,
-          "name": "Maran Gas Hector",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Shell",
-          "distance_km": 0.2
         }
       ]
     },
@@ -2567,11 +2575,140 @@
       ]
     },
     {
+      "locode": "USGLS",
+      "portname": "Galveston",
+      "country": "United States",
+      "asset_class": "LPG",
+      "count": 15,
+      "vessels": [
+        {
+          "imo": 1014072,
+          "name": "Gas Queen",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Arab Maritime Petroleum Transport",
+          "distance_km": 24.8
+        },
+        {
+          "imo": 1044974,
+          "name": "Jane Maersk",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Unknown",
+          "distance_km": 25.2
+        },
+        {
+          "imo": 9711494,
+          "name": "0th0ni",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Eletson",
+          "distance_km": 19.2
+        },
+        {
+          "imo": 9711509,
+          "name": "Astipalea",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Eletson",
+          "distance_km": 22.5
+        },
+        {
+          "imo": 9409302,
+          "name": "G. Forever",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "SK Gas",
+          "distance_km": 7.8
+        },
+        {
+          "imo": 9776341,
+          "name": "Leo Green",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "E1 Corporation",
+          "distance_km": 9.2
+        },
+        {
+          "imo": 9739977,
+          "name": "Gas Prime",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Pacific Gas HK Holdings",
+          "distance_km": 22.3
+        },
+        {
+          "imo": 9407122,
+          "name": "Fritzi N",
+          "speed": 0.1,
+          "status": "At Anchor",
+          "operator": "SHV Energy",
+          "distance_km": 23.9
+        },
+        {
+          "imo": 9794288,
+          "name": "Albert III",
+          "speed": 0.5,
+          "status": "At Anchor",
+          "operator": "Grupo Tomza",
+          "distance_km": 29.4
+        },
+        {
+          "imo": 9553634,
+          "name": "Etagas",
+          "speed": 0.3,
+          "status": "At Anchor",
+          "operator": "Unigas",
+          "distance_km": 23.5
+        },
+        {
+          "imo": 9395501,
+          "name": "Yuyo Spirits",
+          "speed": 0.1,
+          "status": "At Anchor",
+          "operator": "Vitol",
+          "distance_km": 25.5
+        },
+        {
+          "imo": 9969821,
+          "name": "Tinos I",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Unknown",
+          "distance_km": 20.8
+        },
+        {
+          "imo": 9763033,
+          "name": "Seasurfer",
+          "speed": 0.4,
+          "status": "At Anchor",
+          "operator": "Thenamaris",
+          "distance_km": 27.0
+        },
+        {
+          "imo": 9553660,
+          "name": "Theano Schulte",
+          "speed": 0.2,
+          "status": "At Anchor",
+          "operator": "Bernhard Schulte Shipmanagement",
+          "distance_km": 24.1
+        },
+        {
+          "imo": 9287948,
+          "name": "Sunny Bright",
+          "speed": 0.1,
+          "status": "At Anchor",
+          "operator": "Eneos Corporation",
+          "distance_km": 24.5
+        }
+      ]
+    },
+    {
       "locode": "KRUSN",
       "portname": "Ulsan",
       "country": "Korea",
       "asset_class": "LPG",
-      "count": 15,
+      "count": 14,
       "vessels": [
         {
           "imo": 1019979,
@@ -2624,8 +2761,8 @@
         {
           "imo": 1049144,
           "name": "Purus Ineos Bamble",
-          "speed": 0.1,
-          "status": "Restricted Manoeuvrability",
+          "speed": 0.0,
+          "status": "Moored",
           "operator": "Ineos",
           "distance_km": 2.4
         },
@@ -2644,14 +2781,6 @@
           "status": "Moored",
           "operator": "KSS Line",
           "distance_km": 3.4
-        },
-        {
-          "imo": 9656888,
-          "name": "G. Paragon",
-          "speed": 0.1,
-          "status": "Moored",
-          "operator": "SK Gas",
-          "distance_km": 1.2
         },
         {
           "imo": 9371189,
@@ -2678,141 +2807,20 @@
           "distance_km": 2.5
         },
         {
+          "imo": 1058731,
+          "name": "Emf Viking I",
+          "speed": 0.1,
+          "status": "Restricted Manoeuvrability",
+          "operator": "Unknown",
+          "distance_km": 12.1
+        },
+        {
           "imo": 9726827,
           "name": "Saehan Mirinae",
           "speed": 0.0,
           "status": "Moored",
           "operator": "Saehan Marine",
           "distance_km": 4.3
-        },
-        {
-          "imo": 1049912,
-          "name": "Pasco K. Aslan",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Unknown",
-          "distance_km": 2.9
-        }
-      ]
-    },
-    {
-      "locode": "USGLS",
-      "portname": "Galveston",
-      "country": "United States",
-      "asset_class": "LPG",
-      "count": 14,
-      "vessels": [
-        {
-          "imo": 1044974,
-          "name": "Jane Maersk",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Unknown",
-          "distance_km": 25.3
-        },
-        {
-          "imo": 9711494,
-          "name": "0th0ni",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Eletson",
-          "distance_km": 19.2
-        },
-        {
-          "imo": 9711509,
-          "name": "Astipalea",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Eletson",
-          "distance_km": 22.5
-        },
-        {
-          "imo": 9739977,
-          "name": "Gas Prime",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Pacific Gas HK Holdings",
-          "distance_km": 22.4
-        },
-        {
-          "imo": 9989651,
-          "name": "Hellas Prosperity",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Chevron",
-          "distance_km": 25.5
-        },
-        {
-          "imo": 9407122,
-          "name": "Fritzi N",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "SHV Energy",
-          "distance_km": 23.9
-        },
-        {
-          "imo": 9794288,
-          "name": "Albert III",
-          "speed": 0.5,
-          "status": "At Anchor",
-          "operator": "Grupo Tomza",
-          "distance_km": 29.4
-        },
-        {
-          "imo": 9553634,
-          "name": "Etagas",
-          "speed": 0.3,
-          "status": "At Anchor",
-          "operator": "Unigas",
-          "distance_km": 23.5
-        },
-        {
-          "imo": 9395501,
-          "name": "Yuyo Spirits",
-          "speed": 0.1,
-          "status": "At Anchor",
-          "operator": "Vitol",
-          "distance_km": 25.5
-        },
-        {
-          "imo": 9969821,
-          "name": "Tinos I",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Unknown",
-          "distance_km": 21.0
-        },
-        {
-          "imo": 9987081,
-          "name": "Rosablanche",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Clearlake Shipping",
-          "distance_km": 22.4
-        },
-        {
-          "imo": 9763033,
-          "name": "Seasurfer",
-          "speed": 0.4,
-          "status": "At Anchor",
-          "operator": "Thenamaris",
-          "distance_km": 27.0
-        },
-        {
-          "imo": 9553660,
-          "name": "Theano Schulte",
-          "speed": 0.2,
-          "status": "At Anchor",
-          "operator": "Bernhard Schulte Shipmanagement",
-          "distance_km": 24.1
-        },
-        {
-          "imo": 9287948,
-          "name": "Sunny Bright",
-          "speed": 0.1,
-          "status": "At Anchor",
-          "operator": "Eneos Corporation",
-          "distance_km": 24.5
         }
       ]
     },
@@ -3019,91 +3027,91 @@
       ]
     },
     {
-      "locode": "SGSIN",
-      "portname": "Singapore",
-      "country": "Singapore",
-      "asset_class": "LNG",
+      "locode": "USHOU",
+      "portname": "Houston (US-TX)",
+      "country": "United States",
+      "asset_class": "LPG",
       "count": 10,
       "vessels": [
         {
-          "imo": 9880764,
-          "name": "Brassavola",
-          "speed": 0.1,
-          "status": "At Anchor",
-          "operator": "Total",
-          "distance_km": 11.7
-        },
-        {
-          "imo": 9253222,
-          "name": "Shandong Juniper",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Sinopec",
-          "distance_km": 11.7
-        },
-        {
-          "imo": 9967342,
-          "name": "Clean Sirocco",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Cheniere Energy",
-          "distance_km": 13.1
-        },
-        {
-          "imo": 9937115,
-          "name": "Fuelng Venosa St",
+          "imo": 9997189,
+          "name": "Megrez",
           "speed": 0.0,
           "status": "Moored",
-          "operator": "Korea Line Corporation",
-          "distance_km": 13.9
+          "operator": "Al Seer Marine",
+          "distance_km": 2.4
         },
         {
-          "imo": 9397353,
-          "name": "Onaiza",
+          "imo": 9711511,
+          "name": "Paros",
           "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "QatarEnergy",
-          "distance_km": 12.6
-        },
-        {
-          "imo": 9333620,
-          "name": "Kmarin Diamond",
-          "speed": 0.3,
-          "status": "At Anchor",
-          "operator": "Petronas",
+          "status": "Moored",
+          "operator": "Eletson",
           "distance_km": 13.2
         },
         {
-          "imo": 9431123,
-          "name": "Al Karaana",
-          "speed": 0.1,
-          "status": "At Anchor",
-          "operator": "QatarEnergy",
-          "distance_km": 9.3
-        },
-        {
-          "imo": 9961398,
-          "name": "Maran Gas Syros",
-          "speed": 0.1,
-          "status": "At Anchor",
-          "operator": "Maran Gas Maritime",
-          "distance_km": 13.1
-        },
-        {
-          "imo": 9956836,
-          "name": "Paolina Cosulich",
-          "speed": 0.1,
-          "status": "At Anchor",
-          "operator": "Petronas",
-          "distance_km": 10.4
-        },
-        {
-          "imo": 9859636,
-          "name": "Fuelng Bellina",
+          "imo": 9706499,
+          "name": "Constitution",
           "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "FueLNG",
-          "distance_km": 11.9
+          "status": "Moored",
+          "operator": "Helios LPG Pool",
+          "distance_km": 2.3
+        },
+        {
+          "imo": 9989651,
+          "name": "Hellas Prosperity",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Chevron",
+          "distance_km": 6.9
+        },
+        {
+          "imo": 1029986,
+          "name": "Amadeus",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Aramco Trading Company",
+          "distance_km": 6.7
+        },
+        {
+          "imo": 9855941,
+          "name": "Clipper Wilma",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "ExxonMobil",
+          "distance_km": 2.3
+        },
+        {
+          "imo": 9744128,
+          "name": "Africa Gas",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "West Africa Gas",
+          "distance_km": 6.8
+        },
+        {
+          "imo": 9699505,
+          "name": "Clipper Jupiter",
+          "speed": 1.0,
+          "status": "Underway",
+          "operator": "Equinor",
+          "distance_km": 6.7
+        },
+        {
+          "imo": 9839739,
+          "name": "Red Marauder",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Petredec",
+          "distance_km": 6.8
+        },
+        {
+          "imo": 9987081,
+          "name": "Rosablanche",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Clearlake Shipping",
+          "distance_km": 2.1
         }
       ]
     },
@@ -3172,7 +3180,7 @@
         },
         {
           "imo": 1017165,
-          "name": "Clean",
+          "name": "Clean Astraeus",
           "speed": 0.0,
           "status": "Default",
           "operator": "Dynagas",
@@ -3250,6 +3258,217 @@
           "status": "Moored",
           "operator": "Qatar Gas Transport",
           "distance_km": 18.3
+        }
+      ]
+    },
+    {
+      "locode": "SGSIN",
+      "portname": "Singapore",
+      "country": "Singapore",
+      "asset_class": "LNG",
+      "count": 8,
+      "vessels": [
+        {
+          "imo": 9880764,
+          "name": "Brassavola",
+          "speed": 0.1,
+          "status": "At Anchor",
+          "operator": "Total",
+          "distance_km": 11.7
+        },
+        {
+          "imo": 9253222,
+          "name": "Shandong Juniper",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Sinopec",
+          "distance_km": 11.7
+        },
+        {
+          "imo": 9937115,
+          "name": "Fuelng Venosa St",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Korea Line Corporation",
+          "distance_km": 13.9
+        },
+        {
+          "imo": 9333620,
+          "name": "Kmarin Diamond",
+          "speed": 0.3,
+          "status": "At Anchor",
+          "operator": "Petronas",
+          "distance_km": 13.2
+        },
+        {
+          "imo": 9431123,
+          "name": "Al Karaana",
+          "speed": 0.1,
+          "status": "At Anchor",
+          "operator": "QatarEnergy",
+          "distance_km": 9.9
+        },
+        {
+          "imo": 9961398,
+          "name": "Maran Gas Syros",
+          "speed": 0.1,
+          "status": "At Anchor",
+          "operator": "Maran Gas Maritime",
+          "distance_km": 9.7
+        },
+        {
+          "imo": 9956836,
+          "name": "Paolina Cosulich",
+          "speed": 0.1,
+          "status": "At Anchor",
+          "operator": "Petronas",
+          "distance_km": 10.4
+        },
+        {
+          "imo": 9859636,
+          "name": "Fuelng Bellina",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "FueLNG",
+          "distance_km": 11.9
+        }
+      ]
+    },
+    {
+      "locode": "INMUN",
+      "portname": "Mundra",
+      "country": "India",
+      "asset_class": "LPG",
+      "count": 8,
+      "vessels": [
+        {
+          "imo": 9876490,
+          "name": "Gas Venus",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Sinogas",
+          "distance_km": 24.4
+        },
+        {
+          "imo": 9324746,
+          "name": "Green Bhavishya",
+          "speed": 0.2,
+          "status": "Moored",
+          "operator": "Bharat Petroleum (BPCL)",
+          "distance_km": 25.9
+        },
+        {
+          "imo": 9686388,
+          "name": "BW Levant",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "BW",
+          "distance_km": 20.6
+        },
+        {
+          "imo": 9412074,
+          "name": "Andover",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Eletson",
+          "distance_km": 25.2
+        },
+        {
+          "imo": 9923085,
+          "name": "Al Salam",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "AW Shipping",
+          "distance_km": 9.3
+        },
+        {
+          "imo": 9763813,
+          "name": "Oriental Jubilee",
+          "speed": 1.1,
+          "status": "At Anchor",
+          "operator": "Trafigura",
+          "distance_km": 21.5
+        },
+        {
+          "imo": 9929209,
+          "name": "Lupinus Planet",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Astomos Energy",
+          "distance_km": 24.4
+        },
+        {
+          "imo": 9356892,
+          "name": "Shivalik",
+          "speed": 0.3,
+          "status": "At Anchor",
+          "operator": "Indian Oil",
+          "distance_km": 25.9
+        }
+      ]
+    },
+    {
+      "locode": "EGSOK",
+      "portname": "El Sokhna",
+      "country": "Egypt",
+      "asset_class": "LNG",
+      "count": 7,
+      "vessels": [
+        {
+          "imo": 9820013,
+          "name": "Hoegh Galleon",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "CCB Marine Corporation",
+          "distance_km": 5.1
+        },
+        {
+          "imo": 9864784,
+          "name": "Celsius Copenhagen",
+          "speed": 0.2,
+          "status": "At Anchor",
+          "operator": "China Merchants Bank",
+          "distance_km": 17.2
+        },
+        {
+          "imo": 9861809,
+          "name": "Energos Power",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Energos",
+          "distance_km": 0.6
+        },
+        {
+          "imo": 9681687,
+          "name": "Seapeak Creole",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Seapeak",
+          "distance_km": 15.8
+        },
+        {
+          "imo": 9943841,
+          "name": "Amore Mio I",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Capital Gas Ship Management",
+          "distance_km": 15.3
+        },
+        {
+          "imo": 9687019,
+          "name": "Gaslog Greece",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "GasLog LNG Services",
+          "distance_km": 22.5
+        },
+        {
+          "imo": 9624940,
+          "name": "Energos Eskimo",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "New Fortress Energy",
+          "distance_km": 5.6
         }
       ]
     },
@@ -3384,71 +3603,6 @@
       ]
     },
     {
-      "locode": "USHOU",
-      "portname": "Houston (US-TX)",
-      "country": "United States",
-      "asset_class": "LPG",
-      "count": 7,
-      "vessels": [
-        {
-          "imo": 9711511,
-          "name": "Paros",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Eletson",
-          "distance_km": 13.2
-        },
-        {
-          "imo": 1029986,
-          "name": "Amadeus",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Aramco Trading Company",
-          "distance_km": 6.7
-        },
-        {
-          "imo": 9855941,
-          "name": "Clipper Wilma",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "ExxonMobil",
-          "distance_km": 2.3
-        },
-        {
-          "imo": 9744128,
-          "name": "Africa Gas",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "West Africa Gas",
-          "distance_km": 6.8
-        },
-        {
-          "imo": 9699505,
-          "name": "Clipper Jupiter",
-          "speed": 1.0,
-          "status": "Underway",
-          "operator": "Equinor",
-          "distance_km": 6.7
-        },
-        {
-          "imo": 9839739,
-          "name": "Red Marauder",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Petredec",
-          "distance_km": 6.8
-        },
-        {
-          "imo": 9918420,
-          "name": "Stl Nanhu",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Unknown",
-          "distance_km": 13.2
-        }
-      ]
-    },
-    {
       "locode": "INDMQ",
       "portname": "Dhamra Port",
       "country": "India",
@@ -3514,120 +3668,6 @@
       ]
     },
     {
-      "locode": "EGSOK",
-      "portname": "El Sokhna",
-      "country": "Egypt",
-      "asset_class": "LNG",
-      "count": 6,
-      "vessels": [
-        {
-          "imo": 9820013,
-          "name": "Hoegh Galleon",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "CCB Marine Corporation",
-          "distance_km": 5.1
-        },
-        {
-          "imo": 9864784,
-          "name": "Celsius Copenhagen",
-          "speed": 0.2,
-          "status": "At Anchor",
-          "operator": "China Merchants Bank",
-          "distance_km": 17.2
-        },
-        {
-          "imo": 9861809,
-          "name": "Energos Power",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Energos",
-          "distance_km": 0.6
-        },
-        {
-          "imo": 9943841,
-          "name": "Amore Mio I",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Capital Gas Ship Management",
-          "distance_km": 15.3
-        },
-        {
-          "imo": 9687019,
-          "name": "Gaslog Greece",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "GasLog LNG Services",
-          "distance_km": 22.5
-        },
-        {
-          "imo": 9624940,
-          "name": "Energos Eskimo",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "New Fortress Energy",
-          "distance_km": 5.6
-        }
-      ]
-    },
-    {
-      "locode": "MYBTU",
-      "portname": "Bintulu",
-      "country": "Malaysia",
-      "asset_class": "LNG",
-      "count": 6,
-      "vessels": [
-        {
-          "imo": 9997684,
-          "name": "Puteri Kelantan",
-          "speed": 0.7,
-          "status": "At Anchor",
-          "operator": "ENN Group",
-          "distance_km": 22.7
-        },
-        {
-          "imo": 9293832,
-          "name": "Seri Alam",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "MISC Bhd",
-          "distance_km": 1.7
-        },
-        {
-          "imo": 9293844,
-          "name": "Seri Amanah",
-          "speed": 0.1,
-          "status": "At Anchor",
-          "operator": "MISC Bhd",
-          "distance_km": 22.0
-        },
-        {
-          "imo": 1013494,
-          "name": "Sea Energy",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "China Merchants Energy",
-          "distance_km": 2.2
-        },
-        {
-          "imo": 9134323,
-          "name": "Aman Sendai",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "MISC Bhd",
-          "distance_km": 22.5
-        },
-        {
-          "imo": 9714305,
-          "name": "Seri Camar",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "MISC Bhd",
-          "distance_km": 22.1
-        }
-      ]
-    },
-    {
       "locode": "CNZOS",
       "portname": "Zhoushan",
       "country": "China",
@@ -3664,7 +3704,7 @@
           "speed": 0.0,
           "status": "Moored",
           "operator": "Pacific Gas HK Holdings",
-          "distance_km": 2.3
+          "distance_km": 2.5
         },
         {
           "imo": 9584530,
@@ -3685,59 +3725,59 @@
       ]
     },
     {
-      "locode": "INMUN",
-      "portname": "Mundra",
-      "country": "India",
+      "locode": "IDTSE",
+      "portname": "Tanjung Sekong",
+      "country": "Indonesia",
       "asset_class": "LPG",
       "count": 6,
       "vessels": [
         {
-          "imo": 9324746,
-          "name": "Green Bhavishya",
-          "speed": 0.2,
-          "status": "Moored",
-          "operator": "Bharat Petroleum (BPCL)",
-          "distance_km": 25.9
-        },
-        {
-          "imo": 9686388,
-          "name": "BW Levant",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "BW",
-          "distance_km": 20.6
-        },
-        {
-          "imo": 9412074,
-          "name": "Andover",
+          "imo": 9227118,
+          "name": "Jabbar Energy",
           "speed": 0.0,
           "status": "Moored",
-          "operator": "Eletson",
-          "distance_km": 25.2
+          "operator": "Pertamina",
+          "distance_km": 2.3
         },
         {
-          "imo": 9763813,
-          "name": "Oriental Jubilee",
-          "speed": 1.1,
-          "status": "At Anchor",
-          "operator": "Trafigura",
-          "distance_km": 21.5
-        },
-        {
-          "imo": 9347516,
-          "name": "Victoria Wing",
+          "imo": 9364394,
+          "name": "Gas Alyssa",
           "speed": 0.0,
           "status": "At Anchor",
           "operator": "Pertamina",
-          "distance_km": 26.1
+          "distance_km": 2.9
         },
         {
-          "imo": 9356892,
-          "name": "Shivalik",
-          "speed": 0.3,
+          "imo": 9275426,
+          "name": "Marianna Glory",
+          "speed": 0.0,
           "status": "At Anchor",
-          "operator": "Indian Oil",
-          "distance_km": 25.9
+          "operator": "Qatar Petrochemical Company",
+          "distance_km": 3.6
+        },
+        {
+          "imo": 9752723,
+          "name": "Gas Scorpio",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Sinogas",
+          "distance_km": 2.0
+        },
+        {
+          "imo": 9355305,
+          "name": "Gas Suasa",
+          "speed": 0.1,
+          "status": "Moored",
+          "operator": "Pertamina",
+          "distance_km": 2.1
+        },
+        {
+          "imo": 9151448,
+          "name": "Sc Eternity Xlvii",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Soechi Lines",
+          "distance_km": 2.4
         }
       ]
     },
@@ -3799,149 +3839,51 @@
       ]
     },
     {
-      "locode": "CNZOS",
-      "portname": "Zhoushan",
-      "country": "China",
+      "locode": "MYBTU",
+      "portname": "Bintulu",
+      "country": "Malaysia",
       "asset_class": "LNG",
       "count": 5,
       "vessels": [
         {
-          "imo": 9337743,
-          "name": "Al Hamla",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "QatarEnergy",
-          "distance_km": 17.6
-        },
-        {
-          "imo": 9737187,
-          "name": "Chris. De Marge",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Yamal LNG",
-          "distance_km": 25.9
-        },
-        {
-          "imo": 9317315,
-          "name": "Luch",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Unknown",
-          "distance_km": 21.5
-        },
-        {
-          "imo": 9904546,
-          "name": "Alexey Kosygin",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Novatek",
-          "distance_km": 22.8
-        },
-        {
-          "imo": 9246621,
-          "name": "Portovyy",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Gazprom",
-          "distance_km": 9.9
-        }
-      ]
-    },
-    {
-      "locode": "NLRTM",
-      "portname": "Rotterdam",
-      "country": "The Netherlands",
-      "asset_class": "LNG",
-      "count": 5,
-      "vessels": [
-        {
-          "imo": 9941520,
-          "name": "Maran Gas Antibes",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Maran Gas Maritime",
-          "distance_km": 10.6
-        },
-        {
-          "imo": 9850680,
-          "name": "Gas Agility",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Mitsui OSK Lines",
-          "distance_km": 1.4
-        },
-        {
-          "imo": 9721724,
-          "name": "La Mancha Knutsen",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Naturgy",
-          "distance_km": 11.0
-        },
-        {
-          "imo": 9888194,
-          "name": "LNG London",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "LNG Shipping",
-          "distance_km": 11.3
-        },
-        {
-          "imo": 9901362,
-          "name": "K. Lotus",
-          "speed": 0.3,
-          "status": "At Anchor",
-          "operator": "Korea Line Corporation",
-          "distance_km": 29.2
-        }
-      ]
-    },
-    {
-      "locode": "USNSS",
-      "portname": "Sabine Pass",
-      "country": "United States",
-      "asset_class": "LNG",
-      "count": 5,
-      "vessels": [
-        {
-          "imo": 9864928,
-          "name": "Gaslog Galveston",
+          "imo": 9997684,
+          "name": "Puteri Kelantan",
           "speed": 0.0,
           "status": "At Anchor",
-          "operator": "GasLog LNG Services",
-          "distance_km": 26.4
+          "operator": "ENN Group",
+          "distance_km": 23.0
         },
         {
-          "imo": 9845764,
-          "name": "La Seine",
+          "imo": 9293832,
+          "name": "Seri Alam",
           "speed": 0.0,
           "status": "Moored",
-          "operator": "Total",
-          "distance_km": 1.6
+          "operator": "MISC Bhd",
+          "distance_km": 1.7
         },
         {
-          "imo": 9781918,
-          "name": "Seapeak Glasgow",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Seapeak",
-          "distance_km": 1.6
-        },
-        {
-          "imo": 9961518,
-          "name": "Greenergy Wind",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "CNOOC",
-          "distance_km": 1.8
-        },
-        {
-          "imo": 9742807,
-          "name": "Castillo De Merida",
-          "speed": 0.0,
+          "imo": 9293844,
+          "name": "Seri Amanah",
+          "speed": 0.1,
           "status": "At Anchor",
-          "operator": "Naturgy",
+          "operator": "MISC Bhd",
           "distance_km": 22.0
+        },
+        {
+          "imo": 9134323,
+          "name": "Aman Sendai",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "MISC Bhd",
+          "distance_km": 22.5
+        },
+        {
+          "imo": 9714305,
+          "name": "Seri Camar",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "MISC Bhd",
+          "distance_km": 22.1
         }
       ]
     },
@@ -3991,55 +3933,6 @@
           "status": "At Anchor",
           "operator": "Jadroplov International Maritime Transport",
           "distance_km": 12.4
-        }
-      ]
-    },
-    {
-      "locode": "PATBG",
-      "portname": "Taboguilla",
-      "country": "Panama",
-      "asset_class": "LPG",
-      "count": 5,
-      "vessels": [
-        {
-          "imo": 9621584,
-          "name": "G. Arete",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "SK Gas",
-          "distance_km": 6.1
-        },
-        {
-          "imo": 9957892,
-          "name": "Future Luminous",
-          "speed": 0.2,
-          "status": "At Anchor",
-          "operator": "Unknown",
-          "distance_km": 7.0
-        },
-        {
-          "imo": 9714642,
-          "name": "Navigator Castor",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Pacific Gas HK Holdings",
-          "distance_km": 6.8
-        },
-        {
-          "imo": 9944986,
-          "name": "Globe Frontier",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Mitsui",
-          "distance_km": 6.7
-        },
-        {
-          "imo": 9990519,
-          "name": "Pacific Ineos Sela",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Ineos",
-          "distance_km": 7.8
         }
       ]
     },
@@ -4142,55 +4035,6 @@
       ]
     },
     {
-      "locode": "USBPT",
-      "portname": "Beaumont",
-      "country": "United States",
-      "asset_class": "LPG",
-      "count": 5,
-      "vessels": [
-        {
-          "imo": 1017115,
-          "name": "Lilac Cove",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Eastern Pacific Shipping",
-          "distance_km": 4.3
-        },
-        {
-          "imo": 9938573,
-          "name": "Hls Blue Sapphire",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "E1 Corporation",
-          "distance_km": 5.1
-        },
-        {
-          "imo": 1051472,
-          "name": "Energy North",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Neptune VLGC Pool",
-          "distance_km": 1.4
-        },
-        {
-          "imo": 9752618,
-          "name": "Ethane Topaz",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Mitsui OSK Lines",
-          "distance_km": 1.2
-        },
-        {
-          "imo": 9864954,
-          "name": "Seri Everest",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Zhejiang Satellite Petrochemical",
-          "distance_km": 4.9
-        }
-      ]
-    },
-    {
       "locode": "JPTKY",
       "portname": "Tokuyama",
       "country": "Japan",
@@ -4255,6 +4099,14 @@
           "distance_km": 2.4
         },
         {
+          "imo": 9810032,
+          "name": "BW Kizoku",
+          "speed": 0.1,
+          "status": "At Anchor",
+          "operator": "BW",
+          "distance_km": 11.6
+        },
+        {
           "imo": 9925461,
           "name": "Gas Explorer",
           "speed": 0.0,
@@ -4277,14 +4129,55 @@
           "status": "At Anchor",
           "operator": "Murakami Hide Shipbuilding",
           "distance_km": 7.2
-        },
+        }
+      ]
+    },
+    {
+      "locode": "USBPT",
+      "portname": "Beaumont",
+      "country": "United States",
+      "asset_class": "LPG",
+      "count": 5,
+      "vessels": [
         {
-          "imo": 9847956,
-          "name": "Gas Nouveau Crystal",
+          "imo": 9941221,
+          "name": "Jirisan Explorer",
           "speed": 0.0,
           "status": "At Anchor",
-          "operator": "China Gas Holdings",
-          "distance_km": 9.5
+          "operator": "Trafigura",
+          "distance_km": 4.4
+        },
+        {
+          "imo": 9832793,
+          "name": "Red Rum",
+          "speed": 0.8,
+          "status": "Underway",
+          "operator": "Petredec",
+          "distance_km": 4.9
+        },
+        {
+          "imo": 9752618,
+          "name": "Ethane Topaz",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Mitsui OSK Lines",
+          "distance_km": 1.4
+        },
+        {
+          "imo": 9943528,
+          "name": "North Gas",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "BGN",
+          "distance_km": 4.3
+        },
+        {
+          "imo": 9918171,
+          "name": "Stl Yangtze",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Unknown",
+          "distance_km": 0.5
         }
       ]
     },
@@ -4314,10 +4207,10 @@
         {
           "imo": 9938511,
           "name": "Pacificator",
-          "speed": 0.0,
+          "speed": 0.1,
           "status": "At Anchor",
           "operator": "Evalend Shipping",
-          "distance_km": 5.7
+          "distance_km": 5.6
         },
         {
           "imo": 9185827,
@@ -4334,6 +4227,55 @@
           "status": "At Anchor",
           "operator": "Vitol",
           "distance_km": 10.7
+        }
+      ]
+    },
+    {
+      "locode": "USXAS",
+      "portname": "Freeport (US-FL)",
+      "country": "United States",
+      "asset_class": "LPG",
+      "count": 5,
+      "vessels": [
+        {
+          "imo": 9893656,
+          "name": "Legacy",
+          "speed": 0.1,
+          "status": "At Anchor",
+          "operator": "Empresas Nieto",
+          "distance_km": 18.6
+        },
+        {
+          "imo": 9947483,
+          "name": "Phoenix Harmonia",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "MOL Energia",
+          "distance_km": 1.1
+        },
+        {
+          "imo": 9689914,
+          "name": "Comet",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "ExxonMobil",
+          "distance_km": 1.1
+        },
+        {
+          "imo": 9746671,
+          "name": "Eco Frost",
+          "speed": 0.1,
+          "status": "At Anchor",
+          "operator": "Hyproc Shipping",
+          "distance_km": 20.1
+        },
+        {
+          "imo": 9702039,
+          "name": "Cresques",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Helios LPG Pool",
+          "distance_km": 16.8
         }
       ]
     },
@@ -4387,43 +4329,125 @@
       ]
     },
     {
-      "locode": "RUKOR",
-      "portname": "Korsakov",
-      "country": "Russian Federation",
+      "locode": "NLRTM",
+      "portname": "Rotterdam",
+      "country": "The Netherlands",
       "asset_class": "LNG",
       "count": 4,
       "vessels": [
         {
-          "imo": 9315393,
-          "name": "Blue Dragon 1",
-          "speed": 0.1,
-          "status": "At Anchor",
-          "operator": "Stena Bulk",
-          "distance_km": 13.3
-        },
-        {
-          "imo": 9373008,
-          "name": "K. Jasmine",
+          "imo": 9941520,
+          "name": "Maran Gas Antibes",
           "speed": 0.0,
           "status": "Moored",
-          "operator": "Korea LNG Trading",
-          "distance_km": 3.8
+          "operator": "Maran Gas Maritime",
+          "distance_km": 10.6
         },
         {
-          "imo": 9750737,
-          "name": "Vladimir Voronin",
+          "imo": 9850680,
+          "name": "Gas Agility",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Mitsui OSK Lines",
+          "distance_km": 1.4
+        },
+        {
+          "imo": 9888194,
+          "name": "LNG London",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "LNG Shipping",
+          "distance_km": 11.3
+        },
+        {
+          "imo": 9901362,
+          "name": "K. Lotus",
+          "speed": 0.3,
+          "status": "At Anchor",
+          "operator": "Korea Line Corporation",
+          "distance_km": 29.2
+        }
+      ]
+    },
+    {
+      "locode": "USNSS",
+      "portname": "Sabine Pass",
+      "country": "United States",
+      "asset_class": "LNG",
+      "count": 4,
+      "vessels": [
+        {
+          "imo": 9946374,
+          "name": "Gordon Waters Knutsen",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Engie",
+          "distance_km": 1.8
+        },
+        {
+          "imo": 9864928,
+          "name": "Gaslog Galveston",
           "speed": 0.0,
           "status": "At Anchor",
-          "operator": "Yamal LNG",
-          "distance_km": 19.4
+          "operator": "GasLog LNG Services",
+          "distance_km": 26.4
         },
         {
-          "imo": 9338955,
-          "name": "Grand Aniva",
+          "imo": 9781918,
+          "name": "Seapeak Glasgow",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Seapeak",
+          "distance_km": 1.6
+        },
+        {
+          "imo": 9742807,
+          "name": "Castillo De Merida",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Naturgy",
+          "distance_km": 1.6
+        }
+      ]
+    },
+    {
+      "locode": "CNZOS",
+      "portname": "Zhoushan",
+      "country": "China",
+      "asset_class": "LNG",
+      "count": 4,
+      "vessels": [
+        {
+          "imo": 9737187,
+          "name": "Chris. De Marge",
           "speed": 0.1,
-          "status": "At Anchor",
-          "operator": "Sakhalin Energy Investment",
-          "distance_km": 28.0
+          "status": "Moored",
+          "operator": "Yamal LNG",
+          "distance_km": 25.9
+        },
+        {
+          "imo": 9317315,
+          "name": "Luch",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Unknown",
+          "distance_km": 21.5
+        },
+        {
+          "imo": 9904546,
+          "name": "Alexey Kosygin",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Novatek",
+          "distance_km": 22.8
+        },
+        {
+          "imo": 9246621,
+          "name": "Portovyy",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Gazprom",
+          "distance_km": 9.9
         }
       ]
     },
@@ -4510,43 +4534,43 @@
       ]
     },
     {
-      "locode": "QARLF",
-      "portname": "Ras Laffan",
-      "country": "Qatar",
-      "asset_class": "LNG",
+      "locode": "PATBG",
+      "portname": "Taboguilla",
+      "country": "Panama",
+      "asset_class": "LPG",
       "count": 4,
       "vessels": [
         {
-          "imo": 9325685,
-          "name": "Al Marrouna",
-          "speed": 0.0,
-          "status": "Underway",
-          "operator": "Seapeak",
-          "distance_km": 27.6
-        },
-        {
-          "imo": 9360829,
-          "name": "Umm Al Amad",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "QatarEnergy",
-          "distance_km": 3.9
-        },
-        {
-          "imo": 9360855,
-          "name": "Al Sahla",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "QatarEnergy",
-          "distance_km": 6.4
-        },
-        {
-          "imo": 9981049,
-          "name": "Qtaifan",
+          "imo": 9621584,
+          "name": "G. Arete",
           "speed": 0.0,
           "status": "At Anchor",
-          "operator": "Orion Global Transport",
-          "distance_km": 23.2
+          "operator": "SK Gas",
+          "distance_km": 6.1
+        },
+        {
+          "imo": 9938535,
+          "name": "Mercator",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Unknown",
+          "distance_km": 5.1
+        },
+        {
+          "imo": 9714642,
+          "name": "Navigator Castor",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Pacific Gas HK Holdings",
+          "distance_km": 6.8
+        },
+        {
+          "imo": 1026829,
+          "name": "Clipper Galleon",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Unknown",
+          "distance_km": 3.9
         }
       ]
     },
@@ -4715,88 +4739,6 @@
       ]
     },
     {
-      "locode": "USXAS",
-      "portname": "Freeport (US-FL)",
-      "country": "United States",
-      "asset_class": "LPG",
-      "count": 4,
-      "vessels": [
-        {
-          "imo": 9893656,
-          "name": "Legacy",
-          "speed": 0.1,
-          "status": "At Anchor",
-          "operator": "Empresas Nieto",
-          "distance_km": 18.6
-        },
-        {
-          "imo": 9947483,
-          "name": "Phoenix Harmonia",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "MOL Energia",
-          "distance_km": 23.7
-        },
-        {
-          "imo": 9689914,
-          "name": "Comet",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "ExxonMobil",
-          "distance_km": 1.1
-        },
-        {
-          "imo": 9746671,
-          "name": "Eco Frost",
-          "speed": 0.1,
-          "status": "At Anchor",
-          "operator": "Hyproc Shipping",
-          "distance_km": 20.1
-        }
-      ]
-    },
-    {
-      "locode": "IDTSE",
-      "portname": "Tanjung Sekong",
-      "country": "Indonesia",
-      "asset_class": "LPG",
-      "count": 4,
-      "vessels": [
-        {
-          "imo": 9227118,
-          "name": "Jabbar Energy",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Pertamina",
-          "distance_km": 2.3
-        },
-        {
-          "imo": 9275426,
-          "name": "Marianna Glory",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Qatar Petrochemical Company",
-          "distance_km": 3.6
-        },
-        {
-          "imo": 9355305,
-          "name": "Gas Suasa",
-          "speed": 0.1,
-          "status": "Moored",
-          "operator": "Pertamina",
-          "distance_km": 2.1
-        },
-        {
-          "imo": 9151448,
-          "name": "Sc Eternity Xlvii",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Soechi Lines",
-          "distance_km": 2.4
-        }
-      ]
-    },
-    {
       "locode": "OMDQM",
       "portname": "Duqm",
       "country": "Oman",
@@ -4920,35 +4862,35 @@
       ]
     },
     {
-      "locode": "NGBON",
-      "portname": "Bonny",
-      "country": "Nigeria",
+      "locode": "RUKOR",
+      "portname": "Korsakov",
+      "country": "Russian Federation",
       "asset_class": "LNG",
       "count": 3,
       "vessels": [
         {
-          "imo": 9986116,
-          "name": "Shafallah",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "QatarEnergy",
-          "distance_km": 1.7
+          "imo": 9315393,
+          "name": "Blue Dragon 1",
+          "speed": 0.1,
+          "status": "At Anchor",
+          "operator": "Stena Bulk",
+          "distance_km": 13.3
         },
         {
-          "imo": 9322815,
-          "name": "LNG Ogun",
+          "imo": 9373008,
+          "name": "K. Jasmine",
           "speed": 0.0,
           "status": "Moored",
-          "operator": "NYK LNG Shipmanagement",
-          "distance_km": 1.5
+          "operator": "Korea LNG Trading",
+          "distance_km": 3.8
         },
         {
-          "imo": 9262223,
-          "name": "LNG Cross River",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Nigeria LNG",
-          "distance_km": 1.7
+          "imo": 9338955,
+          "name": "Grand Aniva",
+          "speed": 0.1,
+          "status": "At Anchor",
+          "operator": "Sakhalin Energy Investment",
+          "distance_km": 28.0
         }
       ]
     },
@@ -4981,7 +4923,40 @@
           "speed": 0.0,
           "status": "Moored",
           "operator": "China Merchants Bank",
-          "distance_km": 5.6
+          "distance_km": 5.5
+        }
+      ]
+    },
+    {
+      "locode": "AUDAM",
+      "portname": "Dampier",
+      "country": "Australia",
+      "asset_class": "LNG",
+      "count": 3,
+      "vessels": [
+        {
+          "imo": 9962433,
+          "name": "Woodside Barrumbara",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "GasLog LNG Services",
+          "distance_km": 2.8
+        },
+        {
+          "imo": 9627485,
+          "name": "Woodside Rogers",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Maran Nakilat",
+          "distance_km": 2.8
+        },
+        {
+          "imo": 9645736,
+          "name": "LNG Venus",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Mitsui OSK Lines",
+          "distance_km": 4.5
         }
       ]
     },
@@ -5015,39 +4990,6 @@
           "status": "Underway",
           "operator": "Seapeak",
           "distance_km": 4.2
-        }
-      ]
-    },
-    {
-      "locode": "MYPGG",
-      "portname": "Pengerang",
-      "country": "Malaysia",
-      "asset_class": "LNG",
-      "count": 3,
-      "vessels": [
-        {
-          "imo": 9211872,
-          "name": "Puteri Delima Satu",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "MISC Bhd",
-          "distance_km": 2.5
-        },
-        {
-          "imo": 9997701,
-          "name": "Puteri Johor",
-          "speed": 0.2,
-          "status": "Moored",
-          "operator": "ENN Group",
-          "distance_km": 2.6
-        },
-        {
-          "imo": 9350927,
-          "name": "LNG Glory",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "K Line",
-          "distance_km": 11.6
         }
       ]
     },
@@ -5151,35 +5093,35 @@
       ]
     },
     {
-      "locode": "USXAS",
-      "portname": "Freeport (US-FL)",
-      "country": "United States",
+      "locode": "QARLF",
+      "portname": "Ras Laffan",
+      "country": "Qatar",
       "asset_class": "LNG",
       "count": 3,
       "vessels": [
         {
-          "imo": 9774628,
-          "name": "LNG Juno",
-          "speed": 0.1,
-          "status": "At Anchor",
-          "operator": "Osaka Gas",
-          "distance_km": 29.1
+          "imo": 9325685,
+          "name": "Al Marrouna",
+          "speed": 0.0,
+          "status": "Underway",
+          "operator": "Seapeak",
+          "distance_km": 27.6
         },
         {
-          "imo": 9948724,
-          "name": "Celsius Greenwich",
+          "imo": 9360855,
+          "name": "Al Sahla",
           "speed": 0.0,
           "status": "Moored",
-          "operator": "BP",
-          "distance_km": 1.9
+          "operator": "QatarEnergy",
+          "distance_km": 6.4
         },
         {
-          "imo": 9888481,
-          "name": "Prism Courage",
+          "imo": 9981049,
+          "name": "Qtaifan",
           "speed": 0.0,
           "status": "At Anchor",
-          "operator": "SK",
-          "distance_km": 19.1
+          "operator": "Orion Global Transport",
+          "distance_km": 23.2
         }
       ]
     },
@@ -5283,6 +5225,39 @@
       ]
     },
     {
+      "locode": "TRDYL",
+      "portname": "Delta Terminal",
+      "country": "T\u00fcrkiye",
+      "asset_class": "LPG",
+      "count": 3,
+      "vessels": [
+        {
+          "imo": 9176369,
+          "name": "Djanet",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Sonatrach",
+          "distance_km": 3.0
+        },
+        {
+          "imo": 9369760,
+          "name": "Gas River",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Unknown",
+          "distance_km": 6.6
+        },
+        {
+          "imo": 9295581,
+          "name": "Hassi Messaoud 2",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Sonatrach",
+          "distance_km": 5.4
+        }
+      ]
+    },
+    {
       "locode": "JPIWK",
       "portname": "Iwakuni",
       "country": "Japan",
@@ -5312,6 +5287,39 @@
           "status": "Moored",
           "operator": "Unknown",
           "distance_km": 1.8
+        }
+      ]
+    },
+    {
+      "locode": "JPIMI",
+      "portname": "Imari",
+      "country": "Japan",
+      "asset_class": "LPG",
+      "count": 3,
+      "vessels": [
+        {
+          "imo": 9845881,
+          "name": "Kinyo Maru No. 11",
+          "speed": 0.1,
+          "status": "At Anchor",
+          "operator": "Kinriki Kisen",
+          "distance_km": 18.0
+        },
+        {
+          "imo": 9606481,
+          "name": "Kinyo Maru No. 15",
+          "speed": 0.0,
+          "status": "Underway",
+          "operator": "Unknown",
+          "distance_km": 3.8
+        },
+        {
+          "imo": 9996020,
+          "name": "Atlantic Voyager",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Chevron",
+          "distance_km": 4.3
         }
       ]
     },
@@ -5481,39 +5489,6 @@
       ]
     },
     {
-      "locode": "JPOIT",
-      "portname": "Oita",
-      "country": "Japan",
-      "asset_class": "LPG",
-      "count": 3,
-      "vessels": [
-        {
-          "imo": 9622095,
-          "name": "Naikai Maru No. 3",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Unknown",
-          "distance_km": 1.7
-        },
-        {
-          "imo": 9996020,
-          "name": "Atlantic Voyager",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Chevron",
-          "distance_km": 8.5
-        },
-        {
-          "imo": 9473614,
-          "name": "Yuho Maru No. 32",
-          "speed": 0.0,
-          "status": "Underway",
-          "operator": "Tabuchi Kaiun",
-          "distance_km": 1.8
-        }
-      ]
-    },
-    {
       "locode": "CNSGH",
       "portname": "Shanghai",
       "country": "China",
@@ -5613,39 +5588,6 @@
       ]
     },
     {
-      "locode": "DZAZW",
-      "portname": "Arzew",
-      "country": "Algeria",
-      "asset_class": "LPG",
-      "count": 3,
-      "vessels": [
-        {
-          "imo": 9739953,
-          "name": "Pacific Qingdao",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Oriental Energy",
-          "distance_km": 2.1
-        },
-        {
-          "imo": 9284013,
-          "name": "Alrar",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Sonatrach",
-          "distance_km": 2.0
-        },
-        {
-          "imo": 9537044,
-          "name": "Rhourd El Fares",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Hyproc Shipping",
-          "distance_km": 1.8
-        }
-      ]
-    },
-    {
       "locode": "IDPNK",
       "portname": "Pontianak",
       "country": "Indonesia",
@@ -5679,6 +5621,39 @@
       ]
     },
     {
+      "locode": "CAPRR",
+      "portname": "Prince Rupert",
+      "country": "Canada",
+      "asset_class": "LPG",
+      "count": 3,
+      "vessels": [
+        {
+          "imo": 9398307,
+          "name": "BW Tokyo",
+          "speed": 0.2,
+          "status": "At Anchor",
+          "operator": "Seapeak",
+          "distance_km": 23.9
+        },
+        {
+          "imo": 9945198,
+          "name": "Boreal Pioneer",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Petrogas Shipping",
+          "distance_km": 21.3
+        },
+        {
+          "imo": 9704518,
+          "name": "Navigator Ceres",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Trafigura",
+          "distance_km": 4.2
+        }
+      ]
+    },
+    {
       "locode": "IDBPN",
       "portname": "Balikpapan",
       "country": "Indonesia",
@@ -5696,10 +5671,10 @@
         {
           "imo": 9346134,
           "name": "Gas Benua",
-          "speed": 0.5,
+          "speed": 0.7,
           "status": "At Anchor",
           "operator": "Sillo Maritime Perdana",
-          "distance_km": 26.1
+          "distance_km": 25.8
         },
         {
           "imo": 9629433,
@@ -5741,39 +5716,6 @@
           "status": "At Anchor",
           "operator": "Unigas",
           "distance_km": 19.1
-        }
-      ]
-    },
-    {
-      "locode": "KRINC",
-      "portname": "Incheon",
-      "country": "Korea",
-      "asset_class": "LPG",
-      "count": 3,
-      "vessels": [
-        {
-          "imo": 9622722,
-          "name": "K Gas",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Unknown",
-          "distance_km": 6.8
-        },
-        {
-          "imo": 9978781,
-          "name": "Crystal Explorer",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Trafigura",
-          "distance_km": 11.9
-        },
-        {
-          "imo": 9578878,
-          "name": "No 7 SJ Gas",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Unknown",
-          "distance_km": 7.1
         }
       ]
     },
@@ -5980,63 +5922,13 @@
           "speed": 0.0,
           "status": "Moored",
           "operator": "Qatar Gas Transport",
-          "distance_km": 3.5
+          "distance_km": 3.7
         }
       ]
     },
     {
-      "locode": "USCRP",
-      "portname": "Corpus Christi",
-      "country": "United States",
-      "asset_class": "LNG",
-      "count": 2,
-      "vessels": [
-        {
-          "imo": 9959008,
-          "name": "Celsius Galapagos",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Celsius Shipping",
-          "distance_km": 11.6
-        },
-        {
-          "imo": 9876737,
-          "name": "Gaslog Winchester",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Cheniere Energy",
-          "distance_km": 11.9
-        }
-      ]
-    },
-    {
-      "locode": "ITLIV",
-      "portname": "Livorno",
-      "country": "Italy",
-      "asset_class": "LNG",
-      "count": 2,
-      "vessels": [
-        {
-          "imo": 9963815,
-          "name": "Rotmistrz Witold Pilecki",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "PKN Orlen",
-          "distance_km": 10.6
-        },
-        {
-          "imo": 9253284,
-          "name": "FSRU Toscana",
-          "speed": 0.1,
-          "status": "At Anchor",
-          "operator": "OLT",
-          "distance_km": 27.8
-        }
-      ]
-    },
-    {
-      "locode": "PAONX",
-      "portname": "Colon",
+      "locode": "PATBG",
+      "portname": "Taboguilla",
       "country": "Panama",
       "asset_class": "LNG",
       "count": 2,
@@ -6047,40 +5939,15 @@
           "speed": 0.0,
           "status": "At Anchor",
           "operator": "Maran Gas Maritime",
-          "distance_km": 15.0
+          "distance_km": 8.3
         },
         {
-          "imo": 9851634,
-          "name": "Flex Artemis",
+          "imo": 9962419,
+          "name": "Marvel Phoenix",
           "speed": 0.0,
           "status": "At Anchor",
-          "operator": "Flex LNG",
-          "distance_km": 10.5
-        }
-      ]
-    },
-    {
-      "locode": "COCTG",
-      "portname": "Cartagena",
-      "country": "Colombia",
-      "asset_class": "LNG",
-      "count": 2,
-      "vessels": [
-        {
-          "imo": 9674907,
-          "name": "Hoegh Grace",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Hoegh UK",
-          "distance_km": 7.7
-        },
-        {
-          "imo": 9953262,
-          "name": "Hlaitan",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "QatarEnergy",
-          "distance_km": 7.6
+          "operator": "Mitsui",
+          "distance_km": 8.0
         }
       ]
     },
@@ -6152,10 +6019,10 @@
         {
           "imo": 9854765,
           "name": "Traiano Knutsen",
-          "speed": 0.3,
-          "status": "At Anchor",
+          "speed": 0.0,
+          "status": "Moored",
           "operator": "Endesa",
-          "distance_km": 5.0
+          "distance_km": 1.2
         }
       ]
     },
@@ -6185,6 +6052,31 @@
       ]
     },
     {
+      "locode": "MYPGG",
+      "portname": "Pengerang",
+      "country": "Malaysia",
+      "asset_class": "LNG",
+      "count": 2,
+      "vessels": [
+        {
+          "imo": 9211872,
+          "name": "Puteri Delima Satu",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "MISC Bhd",
+          "distance_km": 2.5
+        },
+        {
+          "imo": 9350927,
+          "name": "LNG Glory",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "K Line",
+          "distance_km": 11.6
+        }
+      ]
+    },
+    {
       "locode": "LTKLJ",
       "portname": "Klaipeda",
       "country": "Lithuania",
@@ -6194,10 +6086,10 @@
         {
           "imo": 9968932,
           "name": "BW Nivalis",
-          "speed": 0.2,
-          "status": "At Anchor",
+          "speed": 0.0,
+          "status": "Moored",
           "operator": "Equinor",
-          "distance_km": 24.8
+          "distance_km": 2.3
         },
         {
           "imo": 9629536,
@@ -6235,27 +6127,177 @@
       ]
     },
     {
-      "locode": "AUDAM",
-      "portname": "Dampier",
-      "country": "Australia",
+      "locode": "BEZEE",
+      "portname": "Zeebrugge",
+      "country": "Belgium",
       "asset_class": "LNG",
       "count": 2,
       "vessels": [
         {
-          "imo": 9627485,
-          "name": "Woodside Rogers",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Maran Nakilat",
-          "distance_km": 2.8
+          "imo": 9918004,
+          "name": "Pyotr Kapitsa",
+          "speed": 0.1,
+          "status": "At Anchor",
+          "operator": "Novatek",
+          "distance_km": 8.9
         },
         {
-          "imo": 9645736,
-          "name": "LNG Venus",
+          "imo": 9750725,
+          "name": "Nikolay Yevgenov",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Yamal LNG",
+          "distance_km": 3.0
+        }
+      ]
+    },
+    {
+      "locode": "PEPMC",
+      "portname": "Peru LNG Terminal",
+      "country": "Peru",
+      "asset_class": "LNG",
+      "count": 2,
+      "vessels": [
+        {
+          "imo": 9748899,
+          "name": "Gaslog Houston",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Shell",
+          "distance_km": 0.8
+        },
+        {
+          "imo": 9926910,
+          "name": "New Nature",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Pan Ocean",
+          "distance_km": 7.9
+        }
+      ]
+    },
+    {
+      "locode": "JPYKK",
+      "portname": "Yokkaichi",
+      "country": "Japan",
+      "asset_class": "LNG",
+      "count": 2,
+      "vessels": [
+        {
+          "imo": 9862293,
+          "name": "Kaguya",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "NYK LNG Shipmanagement",
+          "distance_km": 5.0
+        },
+        {
+          "imo": 9976111,
+          "name": "Puteri Terengganu",
+          "speed": 0.1,
+          "status": "Moored",
+          "operator": "Petronas",
+          "distance_km": 4.9
+        }
+      ]
+    },
+    {
+      "locode": "GIGIB",
+      "portname": "Gibraltar",
+      "country": "Gibraltar",
+      "asset_class": "LNG",
+      "count": 2,
+      "vessels": [
+        {
+          "imo": 9701217,
+          "name": "Maran Gas Amphipolis",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Maran Gas Maritime",
+          "distance_km": 1.9
+        },
+        {
+          "imo": 9942524,
+          "name": "Levante LNG",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Peninsula Petroleum",
+          "distance_km": 5.7
+        }
+      ]
+    },
+    {
+      "locode": "RUSAB",
+      "portname": "Sabetta",
+      "country": "Russian Federation",
+      "asset_class": "LNG",
+      "count": 2,
+      "vessels": [
+        {
+          "imo": 9750749,
+          "name": "Georgiy Ushakov",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Yamal LNG",
+          "distance_km": 0.8
+        },
+        {
+          "imo": 9768526,
+          "name": "Nikolay Zubov",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Yamal LNG",
+          "distance_km": 1.1
+        }
+      ]
+    },
+    {
+      "locode": "NGBON",
+      "portname": "Bonny",
+      "country": "Nigeria",
+      "asset_class": "LNG",
+      "count": 2,
+      "vessels": [
+        {
+          "imo": 9322815,
+          "name": "LNG Ogun",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "NYK LNG Shipmanagement",
+          "distance_km": 1.5
+        },
+        {
+          "imo": 9262223,
+          "name": "LNG Cross River",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Nigeria LNG",
+          "distance_km": 1.7
+        }
+      ]
+    },
+    {
+      "locode": "OMQAL",
+      "portname": "Qalhat LNG Terminal",
+      "country": "Oman",
+      "asset_class": "LNG",
+      "count": 2,
+      "vessels": [
+        {
+          "imo": 1023413,
+          "name": "Toho Emerald",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "K Line",
+          "distance_km": 1.5
+        },
+        {
+          "imo": 9770440,
+          "name": "Marvel Heron",
           "speed": 0.0,
           "status": "Moored",
           "operator": "Mitsui OSK Lines",
-          "distance_km": 4.5
+          "distance_km": 1.5
         }
       ]
     },
@@ -6281,6 +6323,31 @@
           "status": "Underway",
           "operator": "Moeve",
           "distance_km": 4.0
+        }
+      ]
+    },
+    {
+      "locode": "CNQZH",
+      "portname": "Qinzhou",
+      "country": "China",
+      "asset_class": "LPG",
+      "count": 2,
+      "vessels": [
+        {
+          "imo": 9307736,
+          "name": "Nv Aquamarine",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Indian Oil",
+          "distance_km": 2.8
+        },
+        {
+          "imo": 9625152,
+          "name": "Tethys",
+          "speed": 8.2,
+          "status": "Moored",
+          "operator": "Siam Gas Trading",
+          "distance_km": 2.9
         }
       ]
     },
@@ -6452,60 +6519,10 @@
         {
           "imo": 9889564,
           "name": "Durham",
-          "speed": 0.2,
-          "status": "At Anchor",
-          "operator": "Gyxis",
-          "distance_km": 6.2
-        }
-      ]
-    },
-    {
-      "locode": "JPIMI",
-      "portname": "Imari",
-      "country": "Japan",
-      "asset_class": "LPG",
-      "count": 2,
-      "vessels": [
-        {
-          "imo": 9845881,
-          "name": "Kinyo Maru No. 11",
           "speed": 0.1,
           "status": "At Anchor",
-          "operator": "Kinriki Kisen",
-          "distance_km": 18.0
-        },
-        {
-          "imo": 9606481,
-          "name": "Kinyo Maru No. 15",
-          "speed": 0.0,
-          "status": "Underway",
-          "operator": "Unknown",
-          "distance_km": 3.8
-        }
-      ]
-    },
-    {
-      "locode": "TRDYL",
-      "portname": "Delta Terminal",
-      "country": "T\u00fcrkiye",
-      "asset_class": "LPG",
-      "count": 2,
-      "vessels": [
-        {
-          "imo": 9369760,
-          "name": "Gas River",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Unknown",
-          "distance_km": 6.6
-        },
-        {
-          "imo": 9295581,
-          "name": "Hassi Messaoud 2",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Sonatrach",
-          "distance_km": 5.4
+          "operator": "Gyxis",
+          "distance_km": 5.7
         }
       ]
     },
@@ -6650,37 +6667,12 @@
           "distance_km": 11.7
         },
         {
-          "imo": 9754824,
-          "name": "Jagannath",
-          "speed": 0.0,
+          "imo": 9415662,
+          "name": "Ayame",
+          "speed": 0.1,
           "status": "At Anchor",
-          "operator": "Petrobras",
-          "distance_km": 14.6
-        }
-      ]
-    },
-    {
-      "locode": "DOSPM",
-      "portname": "San Pedro De Macoris",
-      "country": "Dominican Republic",
-      "asset_class": "LPG",
-      "count": 2,
-      "vessels": [
-        {
-          "imo": 1042574,
-          "name": "Gaz Gotham",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Naftomar Shipping",
-          "distance_km": 6.1
-        },
-        {
-          "imo": 9870513,
-          "name": "Irene A",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Geogas Trading",
-          "distance_km": 6.2
+          "operator": "Aramco Trading Company",
+          "distance_km": 12.1
         }
       ]
     },
@@ -6785,6 +6777,31 @@
       ]
     },
     {
+      "locode": "JPOIT",
+      "portname": "Oita",
+      "country": "Japan",
+      "asset_class": "LPG",
+      "count": 2,
+      "vessels": [
+        {
+          "imo": 9622095,
+          "name": "Naikai Maru No. 3",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Unknown",
+          "distance_km": 1.7
+        },
+        {
+          "imo": 9473614,
+          "name": "Yuho Maru No. 32",
+          "speed": 0.0,
+          "status": "Underway",
+          "operator": "Tabuchi Kaiun",
+          "distance_km": 1.8
+        }
+      ]
+    },
+    {
       "locode": "MXTUX",
       "portname": "Tuxpan",
       "country": "Mexico",
@@ -6831,31 +6848,6 @@
           "status": "At Anchor",
           "operator": "Unknown",
           "distance_km": 7.3
-        }
-      ]
-    },
-    {
-      "locode": "CAPRR",
-      "portname": "Prince Rupert",
-      "country": "Canada",
-      "asset_class": "LPG",
-      "count": 2,
-      "vessels": [
-        {
-          "imo": 9398307,
-          "name": "BW Tokyo",
-          "speed": 0.1,
-          "status": "At Anchor",
-          "operator": "Seapeak",
-          "distance_km": 23.8
-        },
-        {
-          "imo": 9704518,
-          "name": "Navigator Ceres",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Trafigura",
-          "distance_km": 4.2
         }
       ]
     },
@@ -6985,6 +6977,31 @@
       ]
     },
     {
+      "locode": "KRINC",
+      "portname": "Incheon",
+      "country": "Korea",
+      "asset_class": "LPG",
+      "count": 2,
+      "vessels": [
+        {
+          "imo": 9622722,
+          "name": "K Gas",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Unknown",
+          "distance_km": 6.8
+        },
+        {
+          "imo": 9578878,
+          "name": "No 7 SJ Gas",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Unknown",
+          "distance_km": 7.1
+        }
+      ]
+    },
+    {
       "locode": "INJGD",
       "portname": "Jaigad Port",
       "country": "India",
@@ -7106,6 +7123,31 @@
           "status": "Moored",
           "operator": "Trafigura",
           "distance_km": 11.6
+        }
+      ]
+    },
+    {
+      "locode": "DZAZW",
+      "portname": "Arzew",
+      "country": "Algeria",
+      "asset_class": "LPG",
+      "count": 2,
+      "vessels": [
+        {
+          "imo": 9284013,
+          "name": "Alrar",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Sonatrach",
+          "distance_km": 2.0
+        },
+        {
+          "imo": 9537044,
+          "name": "Rhourd El Fares",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Hyproc Shipping",
+          "distance_km": 1.8
         }
       ]
     },
@@ -7385,31 +7427,6 @@
       ]
     },
     {
-      "locode": "INHAL",
-      "portname": "Haldia",
-      "country": "India",
-      "asset_class": "LPG",
-      "count": 2,
-      "vessels": [
-        {
-          "imo": 9351919,
-          "name": "Green Sarita",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Bharat Petroleum (BPCL)",
-          "distance_km": 5.8
-        },
-        {
-          "imo": 9800491,
-          "name": "Maple Gas",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Astomos Energy",
-          "distance_km": 3.4
-        }
-      ]
-    },
-    {
       "locode": "NOBVK",
       "portname": "Brevik",
       "country": "Norway",
@@ -7444,10 +7461,10 @@
         {
           "imo": 1049883,
           "name": "Ethane Diamond",
-          "speed": 0.0,
+          "speed": 0.1,
           "status": "At Anchor",
           "operator": "Reliance",
-          "distance_km": 24.0
+          "distance_km": 23.9
         },
         {
           "imo": 1050117,
@@ -7455,7 +7472,7 @@
           "speed": 0.0,
           "status": "At Anchor",
           "operator": "Alpha Gas",
-          "distance_km": 23.4
+          "distance_km": 23.1
         }
       ]
     },
@@ -7506,6 +7523,31 @@
           "status": "At Anchor",
           "operator": "Transgas Shipping Lines",
           "distance_km": 17.7
+        }
+      ]
+    },
+    {
+      "locode": "DOSPM",
+      "portname": "San Pedro De Macoris",
+      "country": "Dominican Republic",
+      "asset_class": "LPG",
+      "count": 2,
+      "vessels": [
+        {
+          "imo": 9870513,
+          "name": "Irene A",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Geogas Trading",
+          "distance_km": 6.2
+        },
+        {
+          "imo": 9904211,
+          "name": "Freycinet",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Geogas Trading",
+          "distance_km": 6.6
         }
       ]
     },
@@ -7619,6 +7661,23 @@
       ]
     },
     {
+      "locode": "USCRP",
+      "portname": "Corpus Christi",
+      "country": "United States",
+      "asset_class": "LNG",
+      "count": 1,
+      "vessels": [
+        {
+          "imo": 9959008,
+          "name": "Celsius Galapagos",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Celsius Shipping",
+          "distance_km": 11.6
+        }
+      ]
+    },
+    {
       "locode": "JMKIN",
       "portname": "Kingston",
       "country": "Jamaica",
@@ -7636,19 +7695,36 @@
       ]
     },
     {
-      "locode": "FRCQF",
-      "portname": "Calais",
-      "country": "France",
+      "locode": "ITLIV",
+      "portname": "Livorno",
+      "country": "Italy",
       "asset_class": "LNG",
       "count": 1,
       "vessels": [
         {
-          "imo": 9810551,
-          "name": "Prism Brilliance",
+          "imo": 9253284,
+          "name": "FSRU Toscana",
           "speed": 0.1,
           "status": "At Anchor",
-          "operator": "SK",
-          "distance_km": 11.2
+          "operator": "OLT",
+          "distance_km": 27.8
+        }
+      ]
+    },
+    {
+      "locode": "COCTG",
+      "portname": "Cartagena",
+      "country": "Colombia",
+      "asset_class": "LNG",
+      "count": 1,
+      "vessels": [
+        {
+          "imo": 9674907,
+          "name": "Hoegh Grace",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Hoegh UK",
+          "distance_km": 7.6
         }
       ]
     },
@@ -7682,7 +7758,7 @@
           "speed": 0.0,
           "status": "At Anchor",
           "operator": "ENN Group",
-          "distance_km": 5.3
+          "distance_km": 5.1
         }
       ]
     },
@@ -7781,10 +7857,27 @@
         {
           "imo": 9976927,
           "name": "Lebrethah",
-          "speed": 0.2,
+          "speed": 0.0,
           "status": "At Anchor",
           "operator": "QatarEnergy",
-          "distance_km": 28.6
+          "distance_km": 28.2
+        }
+      ]
+    },
+    {
+      "locode": "NOHFT",
+      "portname": "Hammerfest",
+      "country": "Norway",
+      "asset_class": "LNG",
+      "count": 1,
+      "vessels": [
+        {
+          "imo": 9968944,
+          "name": "BW Borealis",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Equinor",
+          "distance_km": 2.7
         }
       ]
     },
@@ -7823,23 +7916,6 @@
       ]
     },
     {
-      "locode": "MYPKG",
-      "portname": "Pelabuhan Sungai Udang",
-      "country": "Malaysia",
-      "asset_class": "LNG",
-      "count": 1,
-      "vessels": [
-        {
-          "imo": 9986635,
-          "name": "Mihzem",
-          "speed": 0.3,
-          "status": "At Anchor",
-          "operator": "QatarEnergy",
-          "distance_km": 17.4
-        }
-      ]
-    },
-    {
       "locode": "BRRIO",
       "portname": "Rio De Janeiro",
       "country": "Brazil",
@@ -7853,23 +7929,6 @@
           "status": "Moored",
           "operator": "Petrobras",
           "distance_km": 13.1
-        }
-      ]
-    },
-    {
-      "locode": "BEZEE",
-      "portname": "Zeebrugge",
-      "country": "Belgium",
-      "asset_class": "LNG",
-      "count": 1,
-      "vessels": [
-        {
-          "imo": 9918004,
-          "name": "Pyotr Kapitsa",
-          "speed": 0.1,
-          "status": "At Anchor",
-          "operator": "Hanwha",
-          "distance_km": 8.9
         }
       ]
     },
@@ -8010,53 +8069,19 @@
       ]
     },
     {
-      "locode": "PEPMC",
-      "portname": "Peru LNG Terminal",
-      "country": "Peru",
+      "locode": "PTLIS",
+      "portname": "Lisboa",
+      "country": "Portugal",
       "asset_class": "LNG",
       "count": 1,
       "vessels": [
         {
-          "imo": 9748899,
-          "name": "Gaslog Houston",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Shell",
-          "distance_km": 0.8
-        }
-      ]
-    },
-    {
-      "locode": "JPYKK",
-      "portname": "Yokkaichi",
-      "country": "Japan",
-      "asset_class": "LNG",
-      "count": 1,
-      "vessels": [
-        {
-          "imo": 9862293,
-          "name": "Kaguya",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "NYK LNG Shipmanagement",
-          "distance_km": 5.0
-        }
-      ]
-    },
-    {
-      "locode": "THMAT",
-      "portname": "Map Ta Phut",
-      "country": "Thailand",
-      "asset_class": "LNG",
-      "count": 1,
-      "vessels": [
-        {
-          "imo": 9360879,
-          "name": "Al Huwaila",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "QatarEnergy",
-          "distance_km": 4.2
+          "imo": 9721736,
+          "name": "Rioja Knutsen",
+          "speed": 0.2,
+          "status": "At Anchor",
+          "operator": "Naturgy",
+          "distance_km": 2.0
         }
       ]
     },
@@ -8104,10 +8129,10 @@
         {
           "imo": 9980552,
           "name": "Elisa Halcyon",
-          "speed": 0.2,
+          "speed": 0.0,
           "status": "At Anchor",
           "operator": "Jeragm Singapore",
-          "distance_km": 19.8
+          "distance_km": 19.7
         }
       ]
     },
@@ -8142,40 +8167,6 @@
           "status": "Moored",
           "operator": "Tokyo Gas",
           "distance_km": 2.9
-        }
-      ]
-    },
-    {
-      "locode": "TTPTF",
-      "portname": "Point Fortin",
-      "country": "Trinidad and Tobago",
-      "asset_class": "LNG",
-      "count": 1,
-      "vessels": [
-        {
-          "imo": 9766580,
-          "name": "British Sponsor",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Natural Gas Ocean Transportation Investment No 20",
-          "distance_km": 1.5
-        }
-      ]
-    },
-    {
-      "locode": "PATBG",
-      "portname": "Taboguilla",
-      "country": "Panama",
-      "asset_class": "LNG",
-      "count": 1,
-      "vessels": [
-        {
-          "imo": 9844863,
-          "name": "Maran Gas Psara",
-          "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Glencore",
-          "distance_km": 7.9
         }
       ]
     },
@@ -8231,6 +8222,57 @@
       ]
     },
     {
+      "locode": "CNJYG",
+      "portname": "Yuedong LNG Terminal",
+      "country": "China",
+      "asset_class": "LNG",
+      "count": 1,
+      "vessels": [
+        {
+          "imo": 9958298,
+          "name": "Aeolus",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Toyo Sangyo",
+          "distance_km": 0.8
+        }
+      ]
+    },
+    {
+      "locode": "USXAS",
+      "portname": "Freeport (US-FL)",
+      "country": "United States",
+      "asset_class": "LNG",
+      "count": 1,
+      "vessels": [
+        {
+          "imo": 9948724,
+          "name": "Celsius Greenwich",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "BP",
+          "distance_km": 1.9
+        }
+      ]
+    },
+    {
+      "locode": "RUMMK",
+      "portname": "Murmansk",
+      "country": "Russian Federation",
+      "asset_class": "LNG",
+      "count": 1,
+      "vessels": [
+        {
+          "imo": 9958315,
+          "name": "Neleus",
+          "speed": 0.0,
+          "status": "Underway",
+          "operator": "Novatek",
+          "distance_km": 15.3
+        }
+      ]
+    },
+    {
       "locode": "AEDXB",
       "portname": "Dubai",
       "country": "United Arab Emirates",
@@ -8244,23 +8286,6 @@
           "status": "Moored",
           "operator": "Dixstone Holdings",
           "distance_km": 4.1
-        }
-      ]
-    },
-    {
-      "locode": "RUSAB",
-      "portname": "Sabetta",
-      "country": "Russian Federation",
-      "asset_class": "LNG",
-      "count": 1,
-      "vessels": [
-        {
-          "imo": 9750713,
-          "name": "Rudolf Samoylovich",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Yamal LNG",
-          "distance_km": 0.8
         }
       ]
     },
@@ -8486,19 +8511,19 @@
       ]
     },
     {
-      "locode": "GIGIB",
-      "portname": "Gibraltar",
-      "country": "Gibraltar",
+      "locode": "ESBIO",
+      "portname": "Bilbao",
+      "country": "Spain",
       "asset_class": "LNG",
       "count": 1,
       "vessels": [
         {
-          "imo": 9942524,
-          "name": "Levante LNG",
+          "imo": 9976135,
+          "name": "Kool Tiger",
           "speed": 0.0,
-          "status": "At Anchor",
-          "operator": "Peninsula Petroleum",
-          "distance_km": 5.7
+          "status": "Moored",
+          "operator": "Cool Company Management",
+          "distance_km": 4.7
         }
       ]
     },
@@ -8554,19 +8579,19 @@
       ]
     },
     {
-      "locode": "OMQAL",
-      "portname": "Qalhat LNG Terminal",
-      "country": "Oman",
+      "locode": "PAONX",
+      "portname": "Colon",
+      "country": "Panama",
       "asset_class": "LNG",
       "count": 1,
       "vessels": [
         {
-          "imo": 1023413,
-          "name": "Toho Emerald",
+          "imo": 9851634,
+          "name": "Flex Artemis",
           "speed": 0.0,
-          "status": "Moored",
-          "operator": "K Line",
-          "distance_km": 1.5
+          "status": "At Anchor",
+          "operator": "Flex LNG",
+          "distance_km": 10.2
         }
       ]
     },
@@ -8601,23 +8626,6 @@
           "status": "Moored",
           "operator": "Excelerate Energy",
           "distance_km": 8.6
-        }
-      ]
-    },
-    {
-      "locode": "CAKTM",
-      "portname": "Kitimat",
-      "country": "Canada",
-      "asset_class": "LNG",
-      "count": 1,
-      "vessels": [
-        {
-          "imo": 9947500,
-          "name": "New Green",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Pan Ocean",
-          "distance_km": 1.0
         }
       ]
     },
@@ -8673,6 +8681,23 @@
       ]
     },
     {
+      "locode": "INDAH",
+      "portname": "Dahej",
+      "country": "India",
+      "asset_class": "LNG",
+      "count": 1,
+      "vessels": [
+        {
+          "imo": 9862906,
+          "name": "Aristidis I",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "BP",
+          "distance_km": 7.5
+        }
+      ]
+    },
+    {
       "locode": "IDSKP",
       "portname": "Sekupang",
       "country": "Indonesia",
@@ -8686,6 +8711,23 @@
           "status": "At Anchor",
           "operator": "Cheniere Energy",
           "distance_km": 7.3
+        }
+      ]
+    },
+    {
+      "locode": "USGLS",
+      "portname": "Galveston",
+      "country": "United States",
+      "asset_class": "LNG",
+      "count": 1,
+      "vessels": [
+        {
+          "imo": 9989118,
+          "name": "Sea Creation",
+          "speed": 0.0,
+          "status": "At Anchor",
+          "operator": "Sinochem",
+          "distance_km": 22.8
         }
       ]
     },
@@ -8754,23 +8796,6 @@
           "status": "At Anchor",
           "operator": "RasGas",
           "distance_km": 24.9
-        }
-      ]
-    },
-    {
-      "locode": "CNQZH",
-      "portname": "Qinzhou",
-      "country": "China",
-      "asset_class": "LPG",
-      "count": 1,
-      "vessels": [
-        {
-          "imo": 9307736,
-          "name": "Nv Aquamarine",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "Indian Oil",
-          "distance_km": 2.8
         }
       ]
     },
@@ -9285,23 +9310,6 @@
       ]
     },
     {
-      "locode": "EGADA",
-      "portname": "Al Adabiyah",
-      "country": "Egypt",
-      "asset_class": "LPG",
-      "count": 1,
-      "vessels": [
-        {
-          "imo": 9941441,
-          "name": "Madam Xian",
-          "speed": 0.3,
-          "status": "At Anchor",
-          "operator": "Oriental Energy",
-          "distance_km": 17.6
-        }
-      ]
-    },
-    {
       "locode": "LBBEY",
       "portname": "Beirut",
       "country": "Lebanon",
@@ -9501,7 +9509,7 @@
           "speed": 0.0,
           "status": "At Anchor",
           "operator": "Unknown",
-          "distance_km": 26.9
+          "distance_km": 27.0
         }
       ]
     },
@@ -10220,6 +10228,23 @@
       ]
     },
     {
+      "locode": "INDAH",
+      "portname": "Dahej",
+      "country": "India",
+      "asset_class": "LPG",
+      "count": 1,
+      "vessels": [
+        {
+          "imo": 9984704,
+          "name": "Monza L",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Geogas Trading",
+          "distance_km": 6.9
+        }
+      ]
+    },
+    {
       "locode": "NGPHC",
       "portname": "Port Harcourt",
       "country": "Nigeria",
@@ -10402,7 +10427,7 @@
           "speed": 0.0,
           "status": "At Anchor",
           "operator": "Trafigura",
-          "distance_km": 8.3
+          "distance_km": 8.2
         }
       ]
     },
@@ -10832,6 +10857,23 @@
       ]
     },
     {
+      "locode": "INHAL",
+      "portname": "Haldia",
+      "country": "India",
+      "asset_class": "LPG",
+      "count": 1,
+      "vessels": [
+        {
+          "imo": 9800491,
+          "name": "Maple Gas",
+          "speed": 0.0,
+          "status": "Moored",
+          "operator": "Astomos Energy",
+          "distance_km": 3.4
+        }
+      ]
+    },
+    {
       "locode": "TZZNZ",
       "portname": "Zanzibar",
       "country": "Tanzania",
@@ -10930,23 +10972,6 @@
           "status": "At Anchor",
           "operator": "Unknown",
           "distance_km": 6.5
-        }
-      ]
-    },
-    {
-      "locode": "VNTOT",
-      "portname": "Cai Mep",
-      "country": "Vietnam",
-      "asset_class": "LPG",
-      "count": 1,
-      "vessels": [
-        {
-          "imo": 9540091,
-          "name": "BW Rigel",
-          "speed": 0.0,
-          "status": "Moored",
-          "operator": "BW LPG",
-          "distance_km": 4.3
         }
       ]
     },
