@@ -474,6 +474,24 @@ daemon `kb/p4c_daemon.py --pass p4c_bulk --model DeepSeek-V4.1-Flash --quota 0 -
   accounts raise it.** At 12.4 ok/min the remaining ~22,438 packs are ≈ **30 h** wall, and the wall-clock
   cost is fixed by provider streaming, not by our scheduling. §7.5 "partial coverage beats lower quality"
   (plan L438) is therefore the live lever if the owner wants P4c inside a shorter window than 30 h.
+- **Bulk pass resume after the 04:45 host update restart (2026-11-14, ledger is the resume point).**
+  Three detached processes only — supervisor PID 5888, daemon child PID 25088, progress sampler
+  PID 21584 — and exactly one supervisor at a time, so the AMD pool is never double-subscribed and
+  spend never double-counts. Observed mid-window: `done` (key-exact, model-scoped)
+  **3,942 @ 13:22 → 4,539 @ 14:15**, i.e. **~11.3 ok/min** sustained, right at the ~11.5/min
+  generation-bound prediction above; `attempts` 11,412 → 12,604; `out_tok` 4,594,619 → 5,196,044;
+  pipeline spend **$9.5434 → $10.1157**. Latest batch line
+  `[14:04:35] done ok=328 cached=0 err=72 retries=686 cost=$0.3142`, budget left **$67.631**.
+  `kb/logs/p4c_bulk16.err.log` mtime is frozen at **11:06:32** (my own force-kill dump, not a crash), so
+  there has been no spontaneous interpreter abort since the detached relaunch. Remaining ~20.4k packs
+  ⇒ **~30 h** wall at this rate; nothing about worker count can shorten it (see the ceiling bullet).
+- **P4c→P5 contract checked before P5 runs: no `rungs/` files are required.** `p5_build.default_gated_paths()`
+  lists `rungs/p4c_bulk|p4c_bulk_retry|p4c_esc|p4c_glm2.jsonl` after the union export, but no script writes
+  them, and `load_gated` skips missing files. That is benign rather than a latent break: `p4c_union.build`
+  does **not** read rung files at all — it replays the ledger by `(pass, model)` from `SOURCE_SPEC` and
+  emits one row per chunk — and its `union/gated_union.jsonl` is first in precedence, so every source
+  (bulk, retry, escalation) reaches P5 through the union row's merged `kept` records regardless. The rung
+  paths remain a fallback for a per-rung rebuild. Contract closed; no code change needed.
 
 ## P4c scaffold (code, committed)
 
