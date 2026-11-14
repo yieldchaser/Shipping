@@ -793,6 +793,43 @@ pending packs from `has_raw` every round. **Check `done_packs == 24,978`, scoped
 `model='DeepSeek-V4.1-Flash'`, not the raw ledger key count.** `kb/_t_mon9.py` prints the authoritative
 number; the earlier `_t_prog.py`/`_t_mon8.py` figures were ~2.5k packs optimistic.
 
+## Is the P4c 2% failure-queue gate reachable? (checked 23:40, no spend)
+
+Yes — verified by cross-tab, not assumed. The gate (`p4c_union` L317 and `p4c_report.totals` L269) is
+`broken_chunks / chunks`, where a chunk is `broken` iff every source that answered returned blank/
+schema_fail, or it returned records and **all** were dropped by gates 2–4 (D12 semantics). The only
+mechanism that can repair a chunk is the rule-6 queue in `p4c_ladder.build_queue`, so a "broken" chunk
+the queue never selects would make the 2% threshold **structurally unreachable** — that is the risk this
+check rules out.
+
+On the 26,953-chunk rehearsal gate (`_rehearse/gate2/gated.jsonl`), via `kb/_t_fq2.py`:
+
+| quantity | value |
+| --- | --- |
+| chunks | 26,953 |
+| broken (the gated metric) | **806** → rate **0.0299** |
+| rule-6 queued | 2,137 → rate 0.0793 |
+| broken **and** queued | **804** |
+| broken and **not** queued | **2** |
+| "not clean" but not queued (strict reading, not gated) | 1,183 |
+
+Two conclusions. First, **804/806 = 99.8%** of broken chunks are queued, so the repair rung can move the
+gated number; the 2 unqueued ones are 0.0074% of chunks, immaterial against a 2% cap. Second, the gate is
+**not** the 0.1199 "not clean" rate — that strict reading (`chunks_strict_failed`,
+`strict_failure_rate`) counts a chunk whose *some* records dropped, rule 6 does not queue those, and it is
+reported but never gated. Anyone reading 0.12 as the gate number is reading the wrong key.
+
+Margin on the full scope — **projection, not measurement** (`kb/_t_gate_math.py`). The slice is 26,953 of
+86,607 chunks (ratio 3.213). If the rehearsal rate held, broken would be 806 × 3.213 ≈ **2,590** against a
+cap of 0.02 × 86,607 = **1,732**, so the rungs must repair **≥858** chunks — **33.1%** of the broken set.
+Candidate pool is adequate: rule 6 queues **2,137** chunks on the slice (2.65x the broken count) and
+selects 99.8% of the known-broken, so the repair target sits well inside the queue. Note the rehearsal
+never actually ran its retry rung — `_rehearse/union4` still reports `broken_chunks 806`, identical to its
+`gate2` input — so this is headroom arithmetic, and the real post-retry rate is unmeasured until the live
+chain runs. The retry rung is free (AMD, one retry per owner decision 3); the paid glm-5.3 rung is the
+backstop and is capped at $11. **The 0.0299 is not a defect and must not be "fixed" by touching
+`gates.yaml`.**
+
 ## Post-drain P4c chain (exact commands, run in this order)
 
 Stated here so the sequence is executed from a committed note. `$PY` = the Python 3.12 interpreter.
