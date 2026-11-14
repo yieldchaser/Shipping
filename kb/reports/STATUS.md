@@ -405,9 +405,30 @@ daemon `kb/p4c_daemon.py --pass p4c_bulk --model DeepSeek-V4.1-Flash --quota 0 -
   `plan_retry` 140 singles, `rank_escalation` priced all 140 at $3.13 -> extrapolated trigger rate
   (~0.37/pack, ~9.1k chunks, ~$204) confirms the **$11** escalation booking covers only a prioritised
   slice (D12) — the shortfall is stated, not hidden, and is a C2 agenda item.
+- **Downstream chain smoke-tested on real AMD raws while the bulk pass runs (2026-11-14T12:35Z, no extra spend).**
+  Ran the whole post-processing path over the first 300 AMD-scoped packs (`packs.jsonl`, limit 300):
+  `p4c_gate` → 1,091 chunks, **calls blank 0, schema_fail 0, gate pass rate 1.0**, record drop rate 0.1024;
+  chunk failures 124 (0.1137) with reasons `entity_unresolved 219 / number_not_in_quote 61 / sid_missing 13 /
+  quote_empty 12`. The 1.0 parse rate is the material result: the AMD transport (tools mode, `max_tokens` 8000)
+  is producing well-formed JSON on every call, so §7.4 gate 1's retry path is not being exercised at scale.
+  `p4c_union` over the same slice → 2,088 records, 111 duplicates, 251 gate drops, `call_status {ok: 300,
+  missing: 1,200}` (missing = the 18,000 packs not yet extracted, correct for a 300-pack slice).
+  `p4c_ladder --plan-only` on the slice's **gate** rows → **118 queued chunks (10.8%)**, triggers
+  `fail_pct 81 / thin_long_sec 37 / low_confidence 9`, priced at **$2.68** (tiers `sec_mda_fleet` 46,
+  `other` 50, `sp_index` 13, `broker_forecast` 5, `fixtures_tc` 4).
+- Extrapolating that 10.8% queue rate and $2.68/1,091-chunk price to the frozen 86,607-chunk scope gives
+  ~9.4k escalation chunks ≈ **$213 against the $11 booking** — confirming (again, now on real raws rather
+  than the rehearsal) that D12's cap-prioritised escalation covers only the top slice, and that the
+  uncovered remainder is a C2 agenda item stated honestly rather than silently dropped.
 - Remaining ladder: `p4c_union` -> precision gate -> `p4c_bulk_retry` -> `p4c_esc` ($11) ->
   union -> `p4c_audit` -> `p4c_recall` -> `p4c_report.py --write` -> tripwire -> commit+push.
   `--glean` and `p4c_glm2` are booked at $0 and deferred to a post-C2 owner decision (Amendment 1).
+- Operationally hardened while waiting: the extraction daemon and a progress sampler are launched
+  **detached** (`Start-Process`), not as children of a foreground shell, because foreground `pwsh`
+  children are reaped when the call returns (this is exactly what killed the 11:08 supervisor). Only one
+  supervisor runs at a time — the 11:11 pair was explicitly killed when the detached pair started, so the
+  pool is never double-subscribed and spend never double-counts. The sampler appends one JSON line per
+  10 min to `kb/logs/p4c_monitor.log` (`done`, `pct`, `attempts`, `out_tok`, `pipeline_spend`).
 - **Ceiling is generation-throughput bound, not admission-bound (measured 2026-11-14T11:12Z, `kb/_t_tps.py`).**
   800 recent `p4c_bulk`/`DeepSeek-V4.1-Flash` ok rows: per-call output rate p10 **17.3**, p50 **31.4**,
   p90 **49.7** tok/s. The pool is 8 accounts (`AMD_TOKENLAB_API_KEY_1..8`), so aggregate generation
