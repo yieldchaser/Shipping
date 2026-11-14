@@ -32,8 +32,8 @@
     },
     {
       "path": "corpus/07-signal",
-      "untracked_files": 298,
-      "untracked_bytes": 174706385
+      "untracked_files": 342,
+      "untracked_bytes": 180082950
     },
     {
       "path": "corpus/09-ppa",
@@ -42093,6 +42093,21 @@
       "sha256": "cfb74c938d015edb12df749489317f64447354fc874abe5b10dbd3e604116a9e"
     },
     {
+      "path": "corpus/07-signal/html/market-insights-lr2s-turn-dirty-a-changing-balance-in-tanker-employment.html",
+      "bytes": 235285,
+      "sha256": "410de69df6806e424549b85735da9b0d4feb700e27bd23f9e449c28e70d174f0"
+    },
+    {
+      "path": "corpus/07-signal/html/weekly-dry-market-monitor-week-45-2026.html",
+      "bytes": 237877,
+      "sha256": "cc7cb16e3fc73421834e5eba2a769c180f360f7cc56498bbadac0101f52c324c"
+    },
+    {
+      "path": "corpus/07-signal/html/weekly-tanker-market-monitor-week-45-2026.html",
+      "bytes": 230303,
+      "sha256": "d2a044edef2f1a228a4db41eb4ef1d62e0f7620d6353771286c2f8bdf269721f"
+    },
+    {
       "path": "corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png",
       "bytes": 298514,
       "sha256": "11bbc769a2164d34cbb31e7e4795412aeb91dc285fb7ee3376aa33bacc388c3b"
@@ -43581,6 +43596,211 @@
       "path": "corpus/07-signal/images/6aab9b1af1afff7802ecc95b_Weeklies (Tanker & Dry).png",
       "bytes": 1548138,
       "sha256": "85b4a55553187dc53bebf16853fd14f226ba445c55f28d3b698e48b7abf032de"
+    },
+    {
+      "path": "corpus/07-signal/images/6af2d4dcf010dfa11c796e85_33ace712.png",
+      "bytes": 161837,
+      "sha256": "ace57352973fc204ce32b99007520b4b16e98e6accc1b69f149968d3eee5bc26"
+    },
+    {
+      "path": "corpus/07-signal/images/6af2d4dcf010dfa11c796e88_745005be.png",
+      "bytes": 265505,
+      "sha256": "ac15d52b43fd0a4e59b92ef0aff43d8ad22d235bbaa11439f7f0417f1caee10f"
+    },
+    {
+      "path": "corpus/07-signal/images/6af2d4dcf010dfa11c796e8b_34463dbb.png",
+      "bytes": 40745,
+      "sha256": "03f628eaa81ed35d69d53f91917e18df5afa9d81d7f2fb4ad30a3607e35ee041"
+    },
+    {
+      "path": "corpus/07-signal/images/6af2d4ff072b478d2eff5f78_f1f26da9.png",
+      "bytes": 161568,
+      "sha256": "20e1a7582d2032628bc71cc23c5074686179d635716c9bef300de5c78817ba7d"
+    },
+    {
+      "path": "corpus/07-signal/images/6af2d5c301b435785fd7afa0_8056bfbb.png",
+      "bytes": 96245,
+      "sha256": "968ece2bf73540de0e570edf5661e697bcc86ba74cecee432698f66458d384c9"
+    },
+    {
+      "path": "corpus/07-signal/images/6af2d5f43406c85a38789c04_ce5485b7.png",
+      "bytes": 121255,
+      "sha256": "442005108d43c3318cd35b776bbfc86283f1a2f4d4b464c4e09829e569e98df0"
+    },
+    {
+      "path": "corpus/07-signal/images/6af2d60014f7d4ff502e6066_2a2a2a66.png",
+      "bytes": 171099,
+      "sha256": "297293eac0e349f516322794c4863ab52c185822aa3d775af03d2938bcbbb735"
+    },
+    {
+      "path": "corpus/07-signal/images/6af2d63b86fa7c05b67039d2_0fa7abff.png",
+      "bytes": 111189,
+      "sha256": "bda1a7f3cd5c851832f42ea9861c3f1e75337af6239c1411270dbc7627e80df2"
+    },
+    {
+      "path": "corpus/07-signal/images/6af2d6566ca3909083900624_d313af6a.png",
+      "bytes": 83463,
+      "sha256": "e06a2bfe932a2222b16bd5a835ec421af18d1cad4f32384e83cd586a6de0a633"
+    },
+    {
+      "path": "corpus/07-signal/images/6af595d5a8806f8d351ec041_2209cc12.png",
+      "bytes": 164274,
+      "sha256": "f10997c3d02e9c8c92f1da83e2803d8becb4034463fcf6da5539e63d46b61149"
+    },
+    {
+      "path": "corpus/07-signal/images/6af596122ed5539bc2555c80_66733867.png",
+      "bytes": 44971,
+      "sha256": "54e7c897f81ee3a68b2bd882e72a88fcc1dbae4da94dbf05e11f0fe0565e3e29"
+    },
+    {
+      "path": "corpus/07-signal/images/6af59640caca39f8326dcb30_1b1f240e.png",
+      "bytes": 175264,
+      "sha256": "24b418b341ce86c807ad90ec72b27bca48f7599411b132f3fe4796494daf0ac1"
+    },
+    {
+      "path": "corpus/07-signal/images/6af5966f47907d0f95a86946_855ef661.png",
+      "bytes": 101660,
+      "sha256": "a5451b147f2fde9dd699ca160948a27527c691e8564c8935edd819b82a9a2534"
+    },
+    {
+      "path": "corpus/07-signal/images/6af596936586ab140986f313_063c3ee8.png",
+      "bytes": 114988,
+      "sha256": "b9a58625428012b0d6efe5eb3750b32e4ad1beb44aea54ea5ea8fd4016fa9b97"
+    },
+    {
+      "path": "corpus/07-signal/images/6af596c2dfc23de1ad598540_dcba8f81.png",
+      "bytes": 176246,
+      "sha256": "51b8fc8f4dcf88d7ca8eb746f5518a5580f84a6028fd29224444d8a134de4147"
+    },
+    {
+      "path": "corpus/07-signal/images/6af6c4724a78dbda3296660b_52c4e293.png",
+      "bytes": 35557,
+      "sha256": "5cca068bd084d4d46ae429f771c22f97d6c06350ffe9cf4d263bffc18cded0a2"
+    },
+    {
+      "path": "corpus/07-signal/images/6af6c4ca37a7b707768572ae_fa325fd7.png",
+      "bytes": 49699,
+      "sha256": "74045e8ee27d001b1071cd451e7a53f214db9bd8136092b165e5042cbe3665f8"
+    },
+    {
+      "path": "corpus/07-signal/images/6af6c50f253af4c7d4005bad_b268f5ae.png",
+      "bytes": 35897,
+      "sha256": "946eaef90340d06675fabca450bcf71f55f05c689fce8c97e80e9d9d1e2a7c59"
+    },
+    {
+      "path": "corpus/07-signal/images/6af6c51b6f05df7da5bdda6c_521505c2.png",
+      "bytes": 164794,
+      "sha256": "a7924b67a1d0cf32ed8e9325ecba17c984dd49b6c824634460a2d44068e60f28"
+    },
+    {
+      "path": "corpus/07-signal/images/6af6c5262b3f5d9e0335070e_cb6968ac.png",
+      "bytes": 46141,
+      "sha256": "11c7d7aacac365ac954fe0b87b704636b33931d90766ff7490f48696640b07a7"
+    },
+    {
+      "path": "corpus/07-signal/images/6af6c54036d72cf79e9b8370_6a6bb396.png",
+      "bytes": 80367,
+      "sha256": "76054598ea0564e56d6b7efcd358831963cc02e41d647760a31120f52e13d1d3"
+    },
+    {
+      "path": "corpus/07-signal/images/6af6c5bcdf17554fe0407a01_8fa1d540.png",
+      "bytes": 110180,
+      "sha256": "7a9110a5fcea0f0300088247f7f85b2790e5afe4087e24b27f3ec9616c48e71b"
+    },
+    {
+      "path": "corpus/07-signal/images/6af6c5f86baa68906a7eff4c_f03eec04.png",
+      "bytes": 54955,
+      "sha256": "ad143918c012396eb2671398a18b1bfd8464bc338b70fc9e4467259aeaaff8ab"
+    },
+    {
+      "path": "corpus/07-signal/images/6af6c60e6f32850ed1ec8740_6868275b.png",
+      "bytes": 129324,
+      "sha256": "0e179fb3c4e867ceae62c5e9bd0fb2be7bfec0cced5e29dee20f37adfc16b0fa"
+    },
+    {
+      "path": "corpus/07-signal/images/6af6c62ce19252585970af3b_51f97653.png",
+      "bytes": 67473,
+      "sha256": "ccaa95ee4b1f19a3696bcd1888db63e31e6d9052100d86781e28ae4af04b46aa"
+    },
+    {
+      "path": "corpus/07-signal/images/6af6c6634db2a7a3510af249_45588833.png",
+      "bytes": 164820,
+      "sha256": "43dce8ba7d3349ef462ad1492acc25612a9f2cf146a5cdae5aef71f244bdc074"
+    },
+    {
+      "path": "corpus/07-signal/images/6af6c67b4db2a7a3510b0a03_fb5418c1.png",
+      "bytes": 180713,
+      "sha256": "9204f6d7af22f22473e56b8bde39e555bdc8e7fe67d90708d113ba47c24e79c6"
+    },
+    {
+      "path": "corpus/07-signal/images/6af6c6876f05df7da5bf7a85_c71f2de0.png",
+      "bytes": 70061,
+      "sha256": "f5c458eb4d08e4544c0cbd645c8f7593d6a41715ceacfcabe96ce281d74dc420"
+    },
+    {
+      "path": "corpus/07-signal/images/6af6c6b3a1377e06247111ac_da87dcdf.png",
+      "bytes": 136736,
+      "sha256": "f955ec2f7a0cf8646111c8f0a167579637cf83e47c00062b1887a18bfeed9d4c"
+    },
+    {
+      "path": "corpus/07-signal/images/6af6c6d14a78dbda3297965f_dcebadee.png",
+      "bytes": 184668,
+      "sha256": "804eb83fe7484c0e5c3fd8a5b8c3add1dd5e76ede9e56452b132eeb65263ef89"
+    },
+    {
+      "path": "corpus/07-signal/images/6af6c6e04a78dbda3297cf6d_6427eb2e.png",
+      "bytes": 155961,
+      "sha256": "ee210eb833e7dd5822cf9c0d1f294df80a55f3ff75ea08af3d4621f97701830c"
+    },
+    {
+      "path": "corpus/07-signal/images/6af6c7156f05df7da5bfb319_8f8f02df.png",
+      "bytes": 169185,
+      "sha256": "e61a5f772ea9e414ef1cbd36aceabe868a31036a2d070eb5e73a6190b5ede79e"
+    },
+    {
+      "path": "corpus/07-signal/images/6af6c722eadcdf18fc09f491_d27c1c9f.png",
+      "bytes": 186322,
+      "sha256": "bce5887a0e61a0b48b9c00faabb63e94b27bc27515d17fb2626ad0dbfb8891a5"
+    },
+    {
+      "path": "corpus/07-signal/images/6af6c72f85fcdc91c6c025a7_46cbcdaf.png",
+      "bytes": 142326,
+      "sha256": "1b6e481544352bcfc3e5be63f6c94facce31c5a9274974cb78b895fced17b746"
+    },
+    {
+      "path": "corpus/07-signal/images/6af6c75ae1925258597163e0_89d36865.png",
+      "bytes": 126337,
+      "sha256": "b24d7b1302bd52dc760a9a6c9d46342a8965fc84401d5cd79a4307f9c2f1c36d"
+    },
+    {
+      "path": "corpus/07-signal/images/6af6c7686baa68906a7f841e_2ff32dc2.png",
+      "bytes": 187546,
+      "sha256": "c4bc662679f3f5fe3513857fe678b0196bcc946cc31186e206dfe3024745ffe7"
+    },
+    {
+      "path": "corpus/07-signal/images/6af6c7837ad37a78da4e09e6_edbc8b49.png",
+      "bytes": 143704,
+      "sha256": "6b722e0bec86b5bc4d191e0201d0db9901fcd0e7b806889e20c45da5522d72b0"
+    },
+    {
+      "path": "corpus/07-signal/monitors/2026/weekly-dry-market-monitor-week-45-2026.md",
+      "bytes": 24798,
+      "sha256": "55261c266030a5a6fe1ac4f3fae92317a7c2c5ef263466ca6816afb1c557accb"
+    },
+    {
+      "path": "corpus/07-signal/monitors/2026/weekly-tanker-market-monitor-week-45-2026.md",
+      "bytes": 15960,
+      "sha256": "a26864a0c82d3a9a8c89eaee1f8ab5005baadd7073d266612d2c39e61aac29a3"
+    },
+    {
+      "path": "corpus/07-signal/newsroom/2026/market-insights-lr2s-turn-dirty-a-changing-balance-in-tanker-employment.md",
+      "bytes": 12957,
+      "sha256": "56ba6e39225d9f2841fda841f688ff5823a365242e94853eae1f30f6a885acdb"
+    },
+    {
+      "path": "corpus/07-signal/newsroom/2026/the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows.md",
+      "bytes": 6310,
+      "sha256": "b64e55ee03d7b1d292878fe4f1ec5e0bd6f100b08c8b1450f92cbb9466d0ad82"
     },
     {
       "path": "corpus/09-ppa/_root_pdfs/dampier_2026_june.pdf",

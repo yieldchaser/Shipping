@@ -623,3 +623,15 @@ report_date,week,country,vessel_type,price_low,price_high,price_point,trend,unit
 2026-11-06,45,BANGLADESH,BULKER,515.0,520.0,517.5,very firm,USD_per_LDT,range,lion_2026_W45_Lion-Weekly-Report-06-November-2026-W45
 2026-11-06,45,BANGLADESH,TANKER,540.0,540.0,540.0,very firm,USD_per_LDT,single,lion_2026_W45_Lion-Weekly-Report-06-November-2026-W45
 2026-11-06,45,BANGLADESH,CONT/TWEEN,550.0,550.0,550.0,very firm,USD_per_LDT,single,lion_2026_W45_Lion-Weekly-Report-06-November-2026-W45
+2026-11-13,46,TURKEY,BULKER,290.0,290.0,290.0,stable,USD_per_LDT,single,lion_13_11_2026_lion_shipbrokers_weekly_market_report_week_46_2026
+2026-11-13,46,TURKEY,TANKER,300.0,300.0,300.0,stable,USD_per_LDT,single,lion_13_11_2026_lion_shipbrokers_weekly_market_report_week_46_2026
+2026-11-13,46,TURKEY,CONT/TWEEN,310.0,310.0,310.0,stable,USD_per_LDT,single,lion_13_11_2026_lion_shipbrokers_weekly_market_report_week_46_2026
+2026-11-13,46,PAKISTAN,BULKER,485.0,490.0,487.5,stable,USD_per_LDT,range,lion_13_11_2026_lion_shipbrokers_weekly_market_report_week_46_2026
+2026-11-13,46,PAKISTAN,TANKER,500.0,510.0,505.0,stable,USD_per_LDT,range,lion_13_11_2026_lion_shipbrokers_weekly_market_report_week_46_2026
+2026-11-13,46,PAKISTAN,CONT/TWEEN,520.0,530.0,525.0,stable,USD_per_LDT,range,lion_13_11_2026_lion_shipbrokers_weekly_market_report_week_46_2026
+2026-11-13,46,INDIA,BULKER,470.0,480.0,475.0,firm,USD_per_LDT,range,lion_13_11_2026_lion_shipbrokers_weekly_market_report_week_46_2026
+2026-11-13,46,INDIA,TANKER,490.0,495.0,492.5,firm,USD_per_LDT,range,lion_13_11_2026_lion_shipbrokers_weekly_market_report_week_46_2026
+2026-11-13,46,INDIA,CONT/TWEEN,500.0,500.0,500.0,firm,USD_per_LDT,single,lion_13_11_2026_lion_shipbrokers_weekly_market_report_week_46_2026
+2026-11-13,46,BANGLADESH,BULKER,540.0,550.0,545.0,firm,USD_per_LDT,range,lion_13_11_2026_lion_shipbrokers_weekly_market_report_week_46_2026
+2026-11-13,46,BANGLADESH,TANKER,560.0,560.0,560.0,firm,USD_per_LDT,single,lion_13_11_2026_lion_shipbrokers_weekly_market_report_week_46_2026
+2026-11-13,46,BANGLADESH,CONT/TWEEN,570.0,570.0,570.0,firm,USD_per_LDT,single,lion_13_11_2026_lion_shipbrokers_weekly_market_report_week_46_2026

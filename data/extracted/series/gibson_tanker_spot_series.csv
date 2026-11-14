@@ -3653,3 +3653,17 @@ issue_date,report_week,category,market_type,route_code,vessel_class,route_descri
 2026-11-06,45,Dirty Tanker Spot,Spot Worldscale,TD20,Suezmax,Suezmax WAF-UKC,-284.0,430.0,714.0,981.0,533.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-06_mid-term-fallout.html
 2026-11-06,45,Dirty Tanker Spot,Spot Worldscale,TD25,Aframax,Aframax USG-UKC,-308.0,399.0,707.0,956.0,521.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-06_mid-term-fallout.html
 2026-11-06,45,Dirty Tanker Spot,Spot Worldscale,TD3C,VLCC,VLCC AG-China,-42.0,1221.0,1263.0,1319.0,1065.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-06_mid-term-fallout.html
+2026-11-13,46,Clean Tanker Spot,$/day TCE,TC1,LR2,LR2 AG-Japan,4750.0,313000.0,308250.0,300250.0,,,corpus/01-brokers/gibson/html/2026/2026-11-13_crude-correction.html
+2026-11-13,46,Clean Tanker Spot,$/day TCE,TC18,MR,MR USG-Brazil,-4750.0,66000.0,70750.0,64000.0,51250.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-13_crude-correction.html
+2026-11-13,46,Clean Tanker Spot,$/day TCE,TC5,LR1,LR1 AG-Japan,-4000.0,223250.0,227250.0,215250.0,183250.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-13_crude-correction.html
+2026-11-13,46,Clean Tanker Spot,$/day TCE,TC7,MR,MR Singapore-EC Aus,-4250.0,67500.0,71750.0,72250.0,70000.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-13_crude-correction.html
+2026-11-13,46,Clean Tanker Spot,Spot Worldscale,TC1,LR2,LR2 AG-Japan,12.0,1017.0,1005.0,986.0,,,corpus/01-brokers/gibson/html/2026/2026-11-13_crude-correction.html
+2026-11-13,46,Clean Tanker Spot,Spot Worldscale,TC18,MR,MR USG-Brazil,-28.0,468.0,496.0,460.0,405.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-13_crude-correction.html
+2026-11-13,46,Clean Tanker Spot,Spot Worldscale,TC5,LR1,LR1 AG-Japan,-19.0,1006.0,1025.0,982.0,857.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-13_crude-correction.html
+2026-11-13,46,Clean Tanker Spot,Spot Worldscale,TC7,MR,MR Singapore-EC Aus,-29.0,513.0,541.0,550.0,534.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-13_crude-correction.html
+2026-11-13,46,Dirty Tanker Spot,$/day TCE,TD20,Suezmax,Suezmax WAF-UKC,-78750.0,160000.0,238750.0,550750.0,286750.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-13_crude-correction.html
+2026-11-13,46,Dirty Tanker Spot,$/day TCE,TD25,Aframax,Aframax USG-UKC,-39500.0,76250.0,115750.0,249000.0,158000.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-13_crude-correction.html
+2026-11-13,46,Dirty Tanker Spot,$/day TCE,TD3C,VLCC,VLCC AG-China,-237500.0,1128500.0,1366000.0,1433750.0,1127500.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-13_crude-correction.html
+2026-11-13,46,Dirty Tanker Spot,Spot Worldscale,TD20,Suezmax,Suezmax WAF-UKC,-123.0,307.0,430.0,920.0,520.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-13_crude-correction.html
+2026-11-13,46,Dirty Tanker Spot,Spot Worldscale,TD25,Aframax,Aframax USG-UKC,-104.0,294.0,399.0,756.0,532.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-13_crude-correction.html
+2026-11-13,46,Dirty Tanker Spot,Spot Worldscale,TD3C,VLCC,VLCC AG-China,-206.0,1014.0,1221.0,1281.0,1022.0,Q4,corpus/01-brokers/gibson/html/2026/2026-11-13_crude-correction.html

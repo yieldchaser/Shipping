@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 22:32:16Z",
+  "updated_at": "2026-11-13 23:51:43Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -1949,7 +1949,7 @@
     {
       "file": "gibson_bunker_prices_series.csv",
       "target_metric": "Gibson Bunker Prices",
-      "rows": 1044,
+      "rows": 1048,
       "columns": [
         "issue_date",
         "report_week",
@@ -1966,7 +1966,7 @@
     {
       "file": "gibson_spot_chart_daily.csv",
       "target_metric": "Gibson Spot Chart Daily.Csv",
-      "rows": 9420,
+      "rows": 9465,
       "columns": [
         "date",
         "chart",
@@ -1979,7 +1979,7 @@
     {
       "file": "gibson_tanker_spot_series.csv",
       "target_metric": "Gibson Tanker Spot",
-      "rows": 3654,
+      "rows": 3668,
       "columns": [
         "issue_date",
         "report_week",
@@ -3011,7 +3011,7 @@
     {
       "file": "lion_deals_series.csv",
       "target_metric": "Secondhand sales transactions & demo deals",
-      "rows": 1431,
+      "rows": 1470,
       "columns": [
         "issue_date",
         "report_week",
@@ -3041,7 +3041,7 @@
     {
       "file": "lion_demo_sales_series.csv",
       "target_metric": "Reported demolition scrap sales fixtures ($/LDT)",
-      "rows": 116,
+      "rows": 117,
       "columns": [
         "issue_date",
         "report_week",
@@ -3065,7 +3065,7 @@
     {
       "file": "lion_demolition_series.csv",
       "target_metric": "Indicative scrap price assessments ($/LDT)",
-      "rows": 624,
+      "rows": 636,
       "columns": [
         "report_date",
         "week",
@@ -3084,7 +3084,7 @@
     {
       "file": "lion_demometer_series.csv",
       "target_metric": "Lion's Demometer sentiment & price indices ($/LDT)",
-      "rows": 624,
+      "rows": 636,
       "columns": [
         "issue_date",
         "report_week",
@@ -3101,7 +3101,7 @@
     {
       "file": "lion_sales_series.csv",
       "target_metric": "Secondhand sales transactions ()",
-      "rows": 1315,
+      "rows": 1353,
       "columns": [
         "issue_date",
         "report_week",
@@ -3440,7 +3440,7 @@
     {
       "file": "signal_reports_metadata.csv",
       "target_metric": "The Signal Group weekly monitors, market reviews, commodity radars, and newsletters metadata (2019\u20132026)",
-      "rows": 459,
+      "rows": 462,
       "columns": [
         "issue_date",
         "year",
@@ -3945,13 +3945,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 710219,
+  "total_master_stacked_rows": 710387,
   "total_master_series_csvs": 166,
-  "total_stacked_rows": 710219,
+  "total_stacked_rows": 710387,
   "total_series_csvs": 166,
   "total_master_workbooks": 1,
   "total_series_count": 166,
-  "total_rows_extracted": 710524,
+  "total_rows_extracted": 710692,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 611,
     "advanced_shipping_demolition_series.csv": 2048,
@@ -4015,9 +4015,9 @@
     "drewry_opinions_metadata.csv": 566,
     "drewry_wci_series.csv": 12,
     "fearnleys_drybulk_growth_series.csv": 180,
-    "gibson_bunker_prices_series.csv": 1044,
-    "gibson_spot_chart_daily.csv": 9420,
-    "gibson_tanker_spot_series.csv": 3654,
+    "gibson_bunker_prices_series.csv": 1048,
+    "gibson_spot_chart_daily.csv": 9465,
+    "gibson_tanker_spot_series.csv": 3668,
     "gms_demolition_rankings_series.csv": 1104,
     "gms_demolition_sales_series.csv": 161,
     "gms_market_commentary_series.csv": 1291,
@@ -4070,11 +4070,11 @@
     "intermodal_tc_rates_series.csv": 5353,
     "ism_coaster_freight_series.csv": 12491,
     "ism_handy_freight_series.csv": 17851,
-    "lion_deals_series.csv": 1431,
-    "lion_demo_sales_series.csv": 116,
-    "lion_demolition_series.csv": 624,
-    "lion_demometer_series.csv": 624,
-    "lion_sales_series.csv": 1315,
+    "lion_deals_series.csv": 1470,
+    "lion_demo_sales_series.csv": 117,
+    "lion_demolition_series.csv": 636,
+    "lion_demometer_series.csv": 636,
+    "lion_sales_series.csv": 1353,
     "poten_fixtures_series.csv": 82,
     "poten_fleet_delivery_schedule_series.csv": 0,
     "poten_fleet_statistics_series.csv": 8,
@@ -4092,7 +4092,7 @@
     "seabrokers_rig_utilisation_monthly_series.csv": 4877,
     "seabrokers_rigs_market_series.csv": 3146,
     "seabrokers_snp_auctions_series.csv": 311,
-    "signal_reports_metadata.csv": 459,
+    "signal_reports_metadata.csv": 462,
     "signal_vessel_counts_series.csv": 120,
     "singletons_sales_series.csv": 46,
     "ssy_capesize_index_series.csv": 928,
