@@ -390,6 +390,33 @@ as `p4c_gate` writes it. Full suite **374 passed**. That is now **four** silent-
 defects (5, 6, 7, 8) the green suite did not catch and that only surfaced from running the chain on real
 ledger data.
 
+**Defect 9 — `failure_queue_max` had two definitions in one file.** `p4c_report.chunk_state` (L66-77)
+computed a failed chunk as `call_failed OR gates_2_4_failed > 0` — *any* dropped record — giving
+**0.1281** (618/4,826) on the interim slice, while `merge_union` (L137) computed `clean = not
+call_broken` — the D12 repair queue — giving **0.0346** (167/4,826). `build()` (L339) silently switched
+between them depending on whether `union/gated_union.jsonl` existed, so the gated number was a function of
+which export happened to be on disk. Ruling: unify on the **repair-queue** metric. Three independent
+reasons, none of them "the number is smaller":
+1. The frozen key is bound to it in code: `p4c_union.py` L299 emits `failure_queue_max = 0.02` next to
+   `broken_chunks / chunks` (L297-298), and L23-27 spells out the definition — every source call broke, or
+   records came back and all failed gates 2-4 — adding that extraction quality "is measured on the gold set
+   by `p4c_recall.py`, not hidden inside this count".
+2. The per-record number is **unreachable at 2% by construction**. Cross-tab on the interim slice:
+   `broken_and_unqueued 0` (all 167 broken chunks are rule-6 queued) but `report_failed_and_unqueued 216`
+   — those 216 kept ≥3 records with 10-25% dropped, so rule 6 never queues them and no amount of escalation
+   can move their count. A gate that cannot be satisfied by any available action is mis-specified.
+3. The report already labelled the number "chunks still failing (failure queue)" / "broken chunks (D12)"
+   (L397-402, L425-426); the rungs path was the outlier against its own prose.
+Both readings still **FAIL** 0.02 on the partial slice, so no gate is traded down. Implementation: `chunk_state`
+now returns `broken` alongside `clean`; `totals` reports `failure_queue_rate` (gated, 0.0346) and keeps the
+strict reading under `chunks_strict_failed` / `strict_failure_rate` (0.1281) as an explicitly **ungated**
+diagnostic; `ladder_stats.still_failed` uses the queue sense; the MD table shows both, labelled. Proof:
+rungs fallback moved 0.1281 → 0.0346, exactly matching the union path, while the strict figure stayed visible
+at 0.1281. `chunks_clean` still means "every returned record survived gates 2-4" and still governs ladder
+precedence, so no rung can overwrite a clean verdict on the strength of the looser reading. One test rewritten
+to the unified definition plus a new test pinning that a chunk keeping ≥1 record is *never* in the queue;
+full suite **375 passed**. Threshold untouched at 0.02 (`kb/gates.yaml` L4: lowering never).
+
 **Follow-up audit: no other consumer re-read the stale label.** Checked every reader of a record's
 `chunk` field after the fix. `p4c_gate._as_dict` (L168-170) already stamped the real id, and
 `p4b_run.split_gate` (L640-654) matches on the prompt id only *inside* one pack and re-keys the output
