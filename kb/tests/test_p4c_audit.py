@@ -103,6 +103,46 @@ def test_sample_records_is_seeded_and_capped():
     assert len(A.sample_records(flat[:3], n=5, seed=1)) == 3
 
 
+def test_plan_streams_the_same_sample_it_used_to_load(tmp_path, monkeypatch):
+    """`plan()` must pick the records the in-memory selection picked, without loading them all.
+
+    Guards the memory fix: the streaming plan is only acceptable because its output is identical, so
+    this pins the two implementations against each other on a file with more rows than the sample.
+    """
+    import json as _json
+    rows = [gated_row(n_facts=3) for _ in range(12)]
+    for i, r in enumerate(rows):
+        r["chunk_id"] = f"c{i:03d}"
+    path = tmp_path / "gated.jsonl"
+    path.write_text("\n".join(_json.dumps(r) for r in rows) + "\n", encoding="utf-8")
+    monkeypatch.setattr(A, "AUDIT_ITEMS", tmp_path / "audit_items.json")
+
+    total = A.count_records(path)
+    assert total == sum(len(A.flat_row_records(r)) for r in rows) == len(A.flat_records(rows))
+
+    st = A.plan(path, n=5)
+    got = _json.loads((tmp_path / "audit_items.json").read_text(encoding="utf-8"))
+    assert st["records_available"] == total and st["items"] == 5
+
+    # same seeded indices the whole-file version would draw, walked in ascending order
+    flat = A.flat_records(rows)
+    old = A.sample_records(flat, n=5, seed=A.seed_for())
+    assert _json.dumps(got["items"], sort_keys=True) == _json.dumps(old, sort_keys=True)
+    assert [x["audit_id"] for x in got["items"]] == ["a000", "a001", "a002", "a003", "a004"]
+
+
+def test_plan_over_a_small_file_takes_everything(tmp_path, monkeypatch):
+    import json as _json
+    rows = [gated_row(n_facts=2)]
+    path = tmp_path / "gated.jsonl"
+    path.write_text(_json.dumps(rows[0]) + "\n", encoding="utf-8")
+    monkeypatch.setattr(A, "AUDIT_ITEMS", tmp_path / "audit_items.json")
+    st = A.plan(path, n=200)
+    got = _json.loads((tmp_path / "audit_items.json").read_text(encoding="utf-8"))
+    assert st["records_available"] == 3 and st["items"] == 3  # 2 facts + 1 claim, fewer than the target
+    assert [x["audit_id"] for x in got["items"]] == ["a000", "a001", "a002"]
+
+
 def test_parse_verdict_variants():
     assert A.parse_verdict('{"verdict": "keep", "reason": "ok"}') == ("keep", "ok")
     assert A.parse_verdict('```json\n{"verdict":"drop","reason":"number missing"}\n```')[0] == "drop"

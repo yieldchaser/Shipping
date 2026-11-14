@@ -83,20 +83,46 @@ def row_kept(row: dict) -> dict:
     return {kind: row.get(kind) or [] for kind in ("state_facts", "events", "claims")}
 
 
+def iter_rows(path: Path):
+    """Stream gate/union rows so the audit plan never holds the whole export in memory."""
+    with path.open("r", encoding="utf-8") as fh:
+        for line in fh:
+            if line.strip():
+                yield json.loads(line)
+
+
+def flat_row_records(row: dict) -> list[dict]:
+    """One entry per kept record of a single row, with the quote the gate accepted for it."""
+    out = []
+    kept = row_kept(row)
+    for kind in ("state_facts", "events", "claims"):
+        for i, rec in enumerate(kept[kind]):
+            quote = "; ".join(rec.get("quote") or []) if isinstance(rec.get("quote"), list) \
+                else str(rec.get("quote") or "")
+            out.append({"chunk_id": row.get("chunk_id"), "doc_id": row.get("doc_id"),
+                        "kind": kind, "index": i, "quote": quote,
+                        "publisher": row.get("publisher"), "doc_type": row.get("doc_type"),
+                        "published_at": row.get("published_at"), "record": rec})
+    return out
+
+
 def flat_records(rows: list[dict]) -> list[dict]:
     """One entry per kept extracted record, with the quote the gate accepted for it."""
     out = []
     for row in rows:
-        kept = row_kept(row)
-        for kind in ("state_facts", "events", "claims"):
-            for i, rec in enumerate(kept[kind]):
-                quote = "; ".join(rec.get("quote") or "") if isinstance(rec.get("quote"), list) \
-                    else str(rec.get("quote") or "")
-                out.append({"chunk_id": row.get("chunk_id"), "doc_id": row.get("doc_id"),
-                            "kind": kind, "index": i, "quote": quote,
-                            "publisher": row.get("publisher"), "doc_type": row.get("doc_type"),
-                            "published_at": row.get("published_at"), "record": rec})
+        out.extend(flat_row_records(row))
     return out
+
+
+def iter_flat_records(path: Path):
+    """Stream `flat_records` over a file, yielding records in file order."""
+    for row in iter_rows(path):
+        yield from flat_row_records(row)
+
+
+def count_records(path: Path) -> int:
+    """Number of records `flat_records` would return, without retaining any of them."""
+    return sum(len(flat_row_records(row)) for row in iter_rows(path))
 
 
 def sample_records(records: list[dict], n: int = RECORDS_TARGET, seed: int | None = None) -> list[dict]:
@@ -158,13 +184,31 @@ def default_gated() -> Path:
 
 
 def plan(gated: Path | None = None, n: int = RECORDS_TARGET) -> dict:
+    """Seeded sample of `n` records, selected without materialising the export.
+
+    The selection is the same one `sample_records(flat_records(all_rows))` makes — indices drawn from
+    `random.Random(seed).sample(range(total), n)`, then walked in ascending order — so the chosen
+    records and their `audit_id`s are byte-identical to the in-memory version. It is computed in two
+    streaming passes (count, then pick) to keep peak memory at O(n) instead of O(records): the full
+    scope is ~52k records and the whole-file load peaked near 0.9 GB on a box with ~1 GB free.
+    """
     gated = gated or default_gated()
-    records = flat_records(load_gated(gated))
-    items = sample_records(records, n=n)
+    total = count_records(gated)
+    seed = seed_for()
+    if total <= n:
+        wanted = set(range(total))
+    else:
+        wanted = set(random.Random(seed).sample(range(total), n))
+    picked = []
+    for i, rec in enumerate(iter_flat_records(gated)):
+        if i in wanted:
+            picked.append(rec)
+    for i, item in enumerate(picked):
+        item["audit_id"] = f"a{i:03d}"
     OUT.mkdir(parents=True, exist_ok=True)
-    AUDIT_ITEMS.write_text(json.dumps({"phase": PHASE, "seed": seed_for(), "records_available":
-                                       len(records), "items": items}, indent=1), encoding="utf-8")
-    return {"records_available": len(records), "items": len(items), "out": str(AUDIT_ITEMS)}
+    AUDIT_ITEMS.write_text(json.dumps({"phase": PHASE, "seed": seed, "records_available":
+                                       total, "items": picked}, indent=1), encoding="utf-8")
+    return {"records_available": total, "items": len(picked), "out": str(AUDIT_ITEMS)}
 
 
 def run_judge(model: str, cap: float, limit: int = 0) -> dict:
