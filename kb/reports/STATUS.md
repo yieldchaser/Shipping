@@ -51,10 +51,10 @@ $0.0111); against the $82 cap that leaves **≈$63.01**. The ladder's `--cap 11`
 for escalation, not the pipeline cap.
 
 That headroom comfortably covers the remaining drain: the retry rung is ~2,137 AMD single-pack calls
-at ~$0.0010 (measured rate: 240 calls for $0.1227) ≈ **$2.2**, the esc rung is the 445-candidate pool
-at an `est_cost` total of **$11.00** (true cost ~$5.5–8.9, see the esc correction below), and the
-gate/union/report/judge-audit steps make no billable AMD calls. Worst case ≈$13.2 of drain against
-$63.0 of headroom, so the drain cannot approach the $82 cap even if the retry queue doubles.
+at ~$0.0010 (measured rate: 240 calls for $0.1227) ≈ **$2.2**, the esc rung spends its whole **$11.00**
+booking on 445 of its 2,137 triggered candidates (true cost ~$5.5–8.9; see the esc correction below),
+and the gate/union/report/judge-audit steps make no billable AMD calls. Worst case ≈$13.2 of drain
+against $63.0 of headroom, so the drain cannot approach the $82 cap even if the retry queue doubles.
 
 Read the gateway counter correctly: `http://127.0.0.1:4100/stats` counts **agent-spine** calls only
 (`agent_gateway_usage.jsonl`, prompt >12k tokens/call). **Extraction calls bypass the gateway
@@ -1149,19 +1149,44 @@ the real esc pool is much larger. Re-measured over the rehearsal's real 445-cand
   `tokens` onto a one-chunk pack).
 - **the honest per-call figure is ~$0.0124** using the preflight's own 401 out tok, or **~$0.0199**
   using the tariff's fitted 1,490 out tok: `(658 + 3700) x 2.205e-6 + out x 6.93e-6`.
-- so the full 445-candidate rung projects to **~$5.5–$8.9**, and `est_cost`'s own estimate
-  (mean $0.02471, total $11.00) is **conservative, not inflated** — it prices a full parent pack.
+- so those 445 picked chunks would truly cost **~$5.5–$8.9**, less than `est_cost`'s own $11.00 for
+  the same set — `est_cost` is **conservative, not inflated**, because it prices a full parent pack.
 
-Net: the original ~$0.024 estimate was closer to right than my correction was. The `--cap 11`
-booking still covers the whole pool (est_cost's own arithmetic comes to exactly $11.00 for all 445,
-and the true cost is lower), but the margin is thin — the cap must **not** be raised, and the esc
-rung must be planned with `--cap 11` so a larger post-retry candidate set cannot overrun the
-`escalation_plus_gleaning: 11` booking.
+**And the cap binds hard.** A second error in the same earlier revision: the 445-chunk file
+`_rehearse/ladder3/singles_esc.jsonl` is the *output* of a cap-11 selection, so summing it to
+"$11.00 total" merely re-derived the cap. `_rehearse/ladder3/plan.json` shows the real arithmetic:
+
+| | value |
+|---|---|
+| triggered candidates (after retry, rule 6) | **2,137** |
+| picked | **445** |
+| **skipped by the cap** | **1,692** |
+| `spent` (est_cost) | $10.9979 of $11.00 |
+| `partial_coverage` | `true` |
+| tiers | tier 1: 443 calls / $10.9486; tier 0: 2 calls / $0.0493 |
+
+So the esc rung is **capped, not exhaustive: ~79% of triggered chunks never get an escalation call**,
+and the plan declares `partial_coverage: true` exactly as the build plan L438 intends. At true cost
+the $11 booking would actually buy ~550–890 calls, but the selection is driven by `est_cost`'s
+conservative per-call price, so the cap spends its whole booking on 445 chunks. That is the correct
+and conservative behaviour — do not raise the cap, do not re-price the ranking to buy more calls.
+
+Net: the original ~$0.024/call estimate was closer to right than my $0.0111 correction was, and the
+cap is binding, not generous. The esc rung drains ~445 of 2,137 triggered chunks and must be reported
+as partial coverage, not as "every flagged chunk escalated".
 
 Method note: a single preflighted call measured the *mechanism* correctly (route, repair, charge) but
 its *magnitude* was unrepresentative — 1 chunk of 86,607. Fitting a per-call rate from n=1 and
 generalising it to 445 was the mistake; the distribution had to be measured over the real candidate
 set.
+
+**Consequence for the P4c gate (important).** The 2% failure-queue gate is measured over *all*
+86,607 chunks, but the paid esc rung reaches only 445 of the 2,137 triggered chunks. Therefore the
+gate must be reachable on the **free retry rung alone**, which does cover all 2,137 — and it is:
+pooled retry repair measured **142/240 = 59.2%**, projecting residual broken ≈151–181 of 806, i.e.
+**broken/chunks ≈0.0056–0.0067** against the 0.02 gate. Escalation is quality upside on top of a gate
+that already passes without it. If a future re-plan ever finds the gate reachable *only* with esc,
+that is a stop-and-escalate condition, because the cap cannot deliver escalation breadth.
 
 Scratch from this preflight: `kb\state\raw\p4c_esc_preflight\`, `kb\state\p4c\_scratch_escpreflight\`
 — both to be deleted before the P4c PASS commit.
