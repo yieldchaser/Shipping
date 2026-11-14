@@ -25,6 +25,21 @@ def gated_row(cid="c1", n_facts=2):
             "claims": [rec(kind="claims")]}
 
 
+def real_gate_row(cid="c1", n_facts=2):
+    """The shape `p4c_gate.py` actually writes: kinds live *inside* `kept`, never at top level."""
+    return {"chunk_id": cid, "doc_id": "d1", "publisher": "Baltic Exchange",
+            "doc_type": "broker_weekly", "published_at": "2015-10-02",
+            "kept": {"state_facts": [rec() for _ in range(n_facts)], "events": [],
+                     "claims": [rec(kind="claims")]}}
+
+
+def union_row(cid="c1", n_facts=2):
+    """The union export writes `kept` *and* spreads the same lists at top level."""
+    row = real_gate_row(cid, n_facts)
+    row.update(row["kept"])
+    return row
+
+
 def test_model_family_and_rule():
     assert A.model_family("DeepSeek-V4.1-Flash") == "deepseek"
     assert A.model_family("deepseek-v4.1-flash-1017-ultrafast") == "deepseek"
@@ -49,6 +64,31 @@ def test_flat_records_one_entry_per_record():
     assert [f["kind"] for f in flat] == ["state_facts", "state_facts", "claims", "claims"]
     assert flat[0]["quote"] == "Rotterdam handled 12 vessels."
     assert flat[0]["doc_id"] == "d1" and flat[0]["index"] == 0
+
+
+def test_flat_records_reads_the_shape_the_gate_writes():
+    """Regression: gate rows keep kinds inside `kept`, so a top-level-only reader yielded 0 records
+    and the 200-record audit gate could never be satisfied."""
+    flat = A.flat_records([real_gate_row(n_facts=2)])
+    assert len(flat) == 3
+    assert [f["kind"] for f in flat] == ["state_facts", "state_facts", "claims"]
+    assert flat[0]["quote"] == "Rotterdam handled 12 vessels."
+
+
+def test_flat_records_reads_the_union_shape_without_double_counting():
+    """Union rows carry both shapes; the reader must count each record once."""
+    flat = A.flat_records([union_row(n_facts=2)])
+    assert len(flat) == 3
+    assert [f["kind"] for f in flat] == ["state_facts", "state_facts", "claims"]
+
+
+def test_default_gated_prefers_the_union_export(tmp_path, monkeypatch):
+    """The audit must judge the same record set P5 loads, which puts the union export first."""
+    monkeypatch.setattr(A, "OUT", tmp_path)
+    assert A.default_gated() == tmp_path / "gated.jsonl"  # union missing -> gate rows
+    (tmp_path / "union").mkdir()
+    (tmp_path / "union/gated_union.jsonl").write_text("", encoding="utf-8")
+    assert A.default_gated() == tmp_path / "union/gated_union.jsonl"
 
 
 def test_sample_records_is_seeded_and_capped():

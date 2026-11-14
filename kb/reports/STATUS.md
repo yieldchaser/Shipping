@@ -372,6 +372,24 @@ rehearsal cannot corrupt final output once the full run follows — but **any fu
 be rolled back by hand before P5 is declared done**, and P5's own gates cannot detect the leftovers
 because they count the slice they were handed, not the table state.
 
+**Defect 8 — the P4c audit read the wrong row shape, so the §11 200-record gate could never be met.**
+Found by rehearsing `kb/p4c_audit.py --plan` against the real interim gate rows during the bulk wait
+(zero spend). `flat_records` read `row["state_facts"] / ["events"] / ["claims"]` at the row's top level,
+but `p4c_gate.py` writes those lists **inside `kept`** — top-level kinds are absent on every one of the
+4,826 real rows. Result: `--plan` reported `records_available 0 / items 0`, so `--run` would have judged
+nothing, `audit.json` would carry `wrong_rate 0.0`, and any reader that did not check `sampled` would see
+a clean audit; `p4c_report.gate_rows` (L271-274) does check `sampled >= 200`, so the gate failed loudly
+instead of passing vacuously — but with no error message pointing at the cause, that reads as "audit not
+run" forever. The unit fixture built the top-level shape itself, so the suite was green throughout. Fix:
+new `row_kept(row)` accepts both shapes (`kept` first, then the spread keys), and `flat_records` goes
+through it; union rows, which carry `kept` *and* the spread lists, are counted once. Also added
+`default_gated()`, which prefers `union/gated_union.jsonl` over `gated.jsonl` — the audit must judge the
+same record set P5 loads, otherwise it would score records the union had already deduped away. Proof on
+real data: `records_available` **0 → 10,324**, `items 200`. Four new tests, one building the row exactly
+as `p4c_gate` writes it. Full suite **374 passed**. That is now **four** silent-loss-or-quality-gate
+defects (5, 6, 7, 8) the green suite did not catch and that only surfaced from running the chain on real
+ledger data.
+
 **Follow-up audit: no other consumer re-read the stale label.** Checked every reader of a record's
 `chunk` field after the fix. `p4c_gate._as_dict` (L168-170) already stamped the real id, and
 `p4b_run.split_gate` (L640-654) matches on the prompt id only *inside* one pack and re-keys the output

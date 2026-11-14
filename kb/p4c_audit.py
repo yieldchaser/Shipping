@@ -70,12 +70,26 @@ def load_gated(path: Path) -> list[dict]:
     return rows
 
 
+def row_kept(row: dict) -> dict:
+    """Kept records per kind, tolerating both row shapes.
+
+    Gate rows (`p4c_gate.gated.jsonl`) carry only `kept`; union rows
+    (`p4c_union.gated_union.jsonl`) carry `kept` plus the same three lists spread at top level. Read
+    `kept` first so neither shape is missed, and fall back to the spread keys for any older row.
+    """
+    kept = row.get("kept")
+    if isinstance(kept, dict):
+        return {kind: kept.get(kind) or [] for kind in ("state_facts", "events", "claims")}
+    return {kind: row.get(kind) or [] for kind in ("state_facts", "events", "claims")}
+
+
 def flat_records(rows: list[dict]) -> list[dict]:
     """One entry per kept extracted record, with the quote the gate accepted for it."""
     out = []
     for row in rows:
+        kept = row_kept(row)
         for kind in ("state_facts", "events", "claims"):
-            for i, rec in enumerate((row.get(kind) or [])):
+            for i, rec in enumerate(kept[kind]):
                 quote = "; ".join(rec.get("quote") or "") if isinstance(rec.get("quote"), list) \
                     else str(rec.get("quote") or "")
                 out.append({"chunk_id": row.get("chunk_id"), "doc_id": row.get("doc_id"),
@@ -132,8 +146,19 @@ def parse_verdict(text: str) -> tuple[str | None, str]:
     return verdict, str(doc.get("reason") or "")
 
 
+def default_gated() -> Path:
+    """The audit judges the record set that survives into the graph: union export first, else gate rows.
+
+    Same precedence as `p5_build.default_gated_paths()` so the audit and the graph describe one body of
+    records — auditing `gated.jsonl` after the union has deduped and merged would score records that
+    were replaced.
+    """
+    union = OUT / "union/gated_union.jsonl"
+    return union if union.exists() else OUT / "gated.jsonl"
+
+
 def plan(gated: Path | None = None, n: int = RECORDS_TARGET) -> dict:
-    gated = gated or OUT / "gated.jsonl"
+    gated = gated or default_gated()
     records = flat_records(load_gated(gated))
     items = sample_records(records, n=n)
     OUT.mkdir(parents=True, exist_ok=True)
