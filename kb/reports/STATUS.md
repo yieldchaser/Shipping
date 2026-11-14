@@ -758,6 +758,64 @@ daemon `kb/p4c_daemon.py --pass p4c_bulk --model DeepSeek-V4.1-Flash --quota 0 -
     (~5.6 KB/pack), so the remaining ~13k packs add only ~75 MB. The 2.76 GB free-space drop this
     window came from outside `kb/` (largest recent write was a 141 MB `.git` pack; `.claude/` is 11.6 GB
     of harness session data) and the repo's tracked footprint is unchanged.
+- **Budget guard found before the paid rung runs (no gate touched).** `p4c_ladder.ESC_CAP_USD` is
+  **17.0** (L43) while the config booking is `escalation_plus_gleaning: **11**`. `cmd_plan` writes the
+  plan with `--cap`'s value and `p4c_run.cmd_escalate` falls back to `B.PIPELINE_CAP - R.spent()` when
+  `--cap` is omitted (L307) — i.e. **17**, or whatever the shared $82 cap still allows. Both are larger
+  than the $11 the plan booked for this rung, so the ladder must be invoked with an explicit
+  `--cap 11`; otherwise a capped rung can spend past its booking and eat the `period_summaries` (13),
+  `eval` (8) and `rerun_reserve` (9) lines that P5–P8 depend on. This is a **call-site** guard, not a
+  gate change: no threshold in `gates.yaml` is touched. Recorded here because the config sum (82.00)
+  and the ladder default disagree, and the ladder default is the one that would bind silently.
+
+## Post-drain P4c chain (exact commands, run in this order)
+
+Stated here so the sequence is executed from a committed note. `$PY` = the Python 3.12 interpreter.
+Before any of it: confirm key-exact done == 24,978 and the daemon has exited (one writer only).
+
+```powershell
+# 0. stop writers: supervisor PID + daemon PID must be gone before the gate reads state
+# 1. delete rehearsal + scratch so the gate's fresh --out-dir sees a clean tree
+Remove-Item -Recurse -Force kb\state\p4c\_rehearse, kb\state\p4c\interim, kb\state\p4c\dry, `
+  kb\state\p4c\gated_amd_dry, kb\state\p4c\probe_union, kb\state\p4c\probe_glean
+Remove-Item -Force kb\state\p4c\singles_p4c_bulk_retry.jsonl, kb\state\p4c\escalation_plan.json
+
+# 2. gate the real bulk output (fresh out-dir; gate_run refuses to append over non-empty gated.jsonl)
+python -X utf8 -m kb.p4c_gate --pass p4c_bulk --model DeepSeek-V4.1-Flash --mode amd_tokenlab `
+  --out-dir kb\state\p4c\rungs\p4c_bulk
+
+# 3. rule-6 queue + free retry singles + capped glm-5.3 escalation plan
+#    --cap 11 is REQUIRED: the ladder default is 17 and would exceed the booking (see finding above)
+python -X utf8 kb\p4c_ladder.py --plan-only --cap 11
+
+# 4. free single-chunk retry rung (AMD, one retry per owner decision 3).
+#    Consume the LADDER's singles file. Do NOT use `p4c_run.py --escalate`, which re-derives its own
+#    queue from failures.jsonl and writes a competing singles_p4c_bulk_retry.jsonl (3,232 rows vs the
+#    ladder's 260) — that duplicate is what had to be cleaned up above.
+python -X utf8 kb\p4c_run.py --run --pass p4c_bulk_retry --model DeepSeek-V4.1-Flash `
+  --packs kb\state\p4c\singles_retry.jsonl
+python -X utf8 -m kb.p4c_gate --pass p4c_bulk_retry --model DeepSeek-V4.1-Flash `
+  --out-dir kb\state\p4c\rungs\p4c_bulk_retry
+
+# 5. paid glm-5.3 escalation rung, D12 cap-prioritised, inside the $11 booking.
+#    `p4c_ladder --plan-only` wrote no esc packs; the capped rung reads the ladder's ranked plan.
+python -X utf8 kb\p4c_run.py --run --pass p4c_esc --model glm-5.3 --cap 11 `
+  --packs kb\state\p4c\singles_esc.jsonl
+python -X utf8 -m kb.p4c_gate --pass p4c_esc --model glm-5.3 `
+  --out-dir kb\state\p4c\rungs\p4c_esc
+
+# 6. union the rungs, judge-audit, recall, report
+python -X utf8 -m kb.p4c_union
+python -X utf8 -m kb.p4c_audit --plan          # -> kb\state\p4c\audit_items.json (no --out arg exists)
+python -X utf8 -m kb.p4c_audit --run --model glm-5.3 --extractor DeepSeek-V4.1-Flash
+python -X utf8 -m kb.p4c_recall --items kb\state\gold\p4b_items.json   # bare list, not the dict wrapper
+python -X utf8 kb\p4c_report.py --write
+python kb\tripwire.py && git fetch -q origin main && git merge -q -X ours origin/main
+```
+
+Two shape traps that cost time earlier and must not be re-learned: `p4c_audit.py` has **no `--out`**
+flag, and `p4c_recall.py --items` wants the **bare 120-item list** (`kb\state\gold\p4b_items.json`) —
+`audit_items.json` is a dict wrapper and raises `TypeError: string indices must be integers`.
 
 ## P4c scaffold (code, committed)
 
