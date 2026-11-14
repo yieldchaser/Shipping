@@ -1114,7 +1114,7 @@ builds its per-chunk state, which is the key `totals()` (L257) and the gate row 
 filtering union rows on `broken` silently finds **zero** and concludes the failure queue is empty.
 Filter union rows on `call_broken`.
 
-### Escalation rung preflighted with one real call (2026-11-15, $0.0111)
+### Escalation rung preflighted with one real call (2026-11-15, $0.011052 for a 52-token chunk)
 
 The esc rung was the one drain step with no rehearsal coverage (`kb\state\raw\p4c_esc\` was empty,
 and the `union4` rehearsal slice shows `p4c_esc: missing` for every chunk). Since it is the most
@@ -1124,13 +1124,37 @@ packs file -> `p4c_run.run_packs(limit=1)` -> `p4c_gate.gate_pack`) rather than 
 - route is gateway-independent, as expected: `llm_runner._provider_spec("glm-5.3")` is `None`, so
   `base_url` resolves to `https://router.enclave.ai/v1` and the key comes from `ENCLAVE_API_KEY`.
   The AMD pool is untouched by this rung.
-- the call answered and was charged: `finish_reason tool_calls`, 401 out tok, **$0.011052**.
+- the call answered and was charged: `finish_reason tool_calls`, `in_tok 3752`, 401 out tok,
+  **$0.011052**.
 - it repaired the chunk it was given: target `1518bbd40c2a9cad6675971e3ec58e81` (doc `000195bee10e2381`,
   `records_total 0` with `call_broken true`) came back with **`records_total 1`, `records_ok 1`,
   `gates_2_4_failed 0`) — an answered chunk that had kept zero records now keeps one.
-- **esc cost is ~$0.0111/call, not the estimated ~$0.024.** At the ladder's ~451 escalation
-  candidates that is **~$5.0** against the `escalation_plus_gleaning: 11` booking, i.e. the cap is
-  now generous rather than binding. The earlier $11.00 figure was a projection, not a measurement.
+
+**CORRECTION (same day, zero spend).** An earlier revision of this section read the $0.011052 as
+"esc cost is ~$0.0111/call ... ~$5.0 for ~451 candidates", i.e. that the original ~$0.024 estimate
+was an overestimate. That was wrong, and it was my error, not a code defect: the preflighted chunk
+is a 52-token outlier. `in_tok 3752` is `3700` prompt overhead plus a **52**-token payload, whereas
+the real esc pool is much larger. Re-measured over the rehearsal's real 445-candidate esc set
+(`_rehearse/ladder3/singles_esc.jsonl`):
+
+- real single-chunk payload: mean **658** tok, median 700, max 1016 (vs parent-pack `tokens` mean
+  2,825 — a 4.3x overstatement, because `p4c_run.single_pack` L241 copies the *parent* pack's
+  `tokens` onto a one-chunk pack).
+- **the honest per-call figure is ~$0.0124** using the preflight's own 401 out tok, or **~$0.0199**
+  using the tariff's fitted 1,490 out tok: `(658 + 3700) x 2.205e-6 + out x 6.93e-6`.
+- so the full 445-candidate rung projects to **~$5.5–$8.9**, and `est_cost`'s own estimate
+  (mean $0.02471, total $11.00) is **conservative, not inflated** — it prices a full parent pack.
+
+Net: the original ~$0.024 estimate was closer to right than my correction was. The `--cap 11`
+booking still covers the whole pool (est_cost's own arithmetic comes to exactly $11.00 for all 445,
+and the true cost is lower), but the margin is thin — the cap must **not** be raised, and the esc
+rung must be planned with `--cap 11` so a larger post-retry candidate set cannot overrun the
+`escalation_plus_gleaning: 11` booking.
+
+Method note: a single preflighted call measured the *mechanism* correctly (route, repair, charge) but
+its *magnitude* was unrepresentative — 1 chunk of 86,607. Fitting a per-call rate from n=1 and
+generalising it to 445 was the mistake; the distribution had to be measured over the real candidate
+set.
 
 Scratch from this preflight: `kb\state\raw\p4c_esc_preflight\`, `kb\state\p4c\_scratch_escpreflight\`
 — both to be deleted before the P4c PASS commit.
