@@ -281,11 +281,33 @@ real pending packs with the real prompt (`kb/_t_ab.py`, key-exact accounting):
 | 48 / 600 rpm | 150 | 76 | 394 s | **11.6** | 7.16 | 20.8 s / 50.0 s / 59.9 s |
 
 At 48 workers 74% of attempts are rejected (429/503) to buy 2.6 extra ok/min, and each reject burns a
-worker slot; 16 is the throughput/quality sweet spot and stays the setting. Real worker saturation is
-therefore ~4-5 in-flight calls, not the nominal 16 - the shared AMD pool is the ceiling, not our thread
-pool. Consequence for planning: 23,285 pending packs at ~9-11 ok/min is **~35 h**, not the ~3 h the
-wrong number implied. Cost tracks completions, not attempts, so rejects are free in dollars but not in
-wall time.
+worker slot; 16 is the throughput/quality sweet spot and stays the setting. Live daemon batches
+confirm the corrected number rather than the probe: 190/200 ok in 733 s (15.6 ok/min), 166/200 in
+1441 s (6.9/min), 176/200 in 404 s (26/min) - pooled 532/600 ok in 2,578 s = **12.4 ok/min**, and the
+spread tracks the provider's congested/clear cycles, not our worker count. A recent 600-row ledger
+sample shows why worker count cannot help: ok latency p50 **13.0 s**, p90 46.9 s, but 542/600 accepted,
+so a nominal 16 in-flight calls should yield ~50-70 ok/min. It yields ~12. The gap is not our pool
+(already sized to 16 via `b958cc2650`), not the rate limiter, and not the GIL: an extra independent
+16-worker extractor run concurrently changed nothing. The campus AMD endpoint caps *admitted*
+concurrency far below the nominal 144, and excess calls are rejected in ~1 s. Raising workers only
+converts successes into rejects while the accepted rate holds - so 16 workers / 120 rpm is final. Cost
+tracks completions, not attempts, so rejects are free in dollars but not in wall time; at ~12 ok/min
+the remaining 23,285 packs is **~32 h** of wall clock, so the §7.5 partial-coverage clause is the live
+question, not the budget.
+
+**Defect 4 - two argument errors found while hardening.** `kb/p4c_supervisor.py` had a flat 20 s
+restart with no cap, so a permanent fault (revoked key, full disk) would spin forever; it now uses an
+exponential back-off capped at 300 s that resets only after a child has stayed up 120 s, so a crash
+loop slows down and stays visible in `kb/logs/p4c_bulk_supervisor.log` instead of hammering the host.
+`kb/llm_runner.py` rotated its multi-key index with an unguarded read-modify-write from the runner's
+thread pool: concurrent `load_key` calls could read the same index and duplicate a key or lose an
+increment. Never fatal for a shard (any pool key works) but it defeats even rotation on a long run;
+now guarded by a lock covering only the two dict ops, never I/O. Tests:
+`kb/tests/test_llm_runner_keys.py` (even rotation + 16-thread evenness),
+`kb/tests/test_p4c_supervisor.py` (restart-then-success, escalating back-off, no `--start` cursor).
+Full suite **358 passed** plus the new cases.
+
+## P4b numbers (extraction bake-off, plan §10.2)
 
 **Defect 3 — fatal interpreter abort.** The daemon died at 09:56:12 with
 `Fatal Python error: PyEval_SaveThread: ... the GIL is released (the current Python thread state is

@@ -17,6 +17,7 @@ from __future__ import annotations
 import json
 import os
 import sys
+import threading
 import urllib.error
 import urllib.request
 from pathlib import Path
@@ -94,6 +95,12 @@ def is_nim_model(model: str) -> bool:
 
 
 _KEY_ROTATION: dict[str, int] = {}
+# `load_key` is called from the runner's thread pool (`worker` -> `_one` -> `chat`), so the
+# read-modify-write of the rotation index is a genuine race: two threads can read the same idx
+# (duplicate key, wasted rotation) or lose an increment. Neither corrupts a key, but on a
+# multi-hour run the pool should still be walked evenly. A short lock is enough — it guards two
+# dict ops, never I/O.
+_KEY_ROTATION_LOCK = threading.Lock()
 
 
 def load_key(provider: str = "router", model: str = "") -> str:
@@ -122,9 +129,10 @@ def load_key(provider: str = "router", model: str = "") -> str:
             if mk:
                 multi_keys.append(mk)
         if multi_keys:
-            idx = _KEY_ROTATION.get(ks, 0)
-            chosen = multi_keys[idx % len(multi_keys)]
-            _KEY_ROTATION[ks] = idx + 1
+            with _KEY_ROTATION_LOCK:
+                idx = _KEY_ROTATION.get(ks, 0)
+                chosen = multi_keys[idx % len(multi_keys)]
+                _KEY_ROTATION[ks] = idx + 1
             return chosen
         if os.environ.get(ks):
             return os.environ[ks]
