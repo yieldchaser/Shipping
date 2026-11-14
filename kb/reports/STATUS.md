@@ -605,15 +605,28 @@ read and attributed to the right chunk, a pack with no rung call stays `missing`
 not apply to full-pack passes, and the union row flips off `call_missing`. Full suite **386 → 390
 passed**; tripwire clean.
 
-Two runbook defects fixed in the same edit, both would have silently voided rung output:
+Three runbook defects fixed in the same edit, each of which would have silently voided rung output:
 **#4** the `p4c_gate` calls for `p4c_bulk_retry`/`p4c_esc` omitted `--packs`, so `load_packs(None)`
 defaulted to the 169.8 MB full-scope `packs.jsonl` and would have scanned 200-chunk packs for a few
 thousand single-chunk raws (every pack `call_missing`); both now pass
 `kb\state\p4c\singles_retry.jsonl` / `singles_esc.jsonl`, the same packs the rung was dispatched with.
+**#5** step 3's ladder omitted `--gated`, defaulting to `OUT\gated.jsonl` while step 2 had just written
+`rungs\p4c_bulk\gated.jsonl` — the file does not exist, so the ladder died with `FileNotFoundError` at
+`p4c_ladder.py` L53 before emitting a single retry or esc pack. Reproduced by running the step verbatim:
+`FileNotFoundError: kb\state\p4c\gated.jsonl`; the step now passes
+`--gated kb\state\p4c\rungs\p4c_bulk\gated.jsonl`, and the queue is built from the bulk rung's real gate
+rows, never a re-derived or rehearse export. This is the same class as #1-#4: a default path that is
+correct in isolation and wrong in the sequence the runbook actually uses.
 Earlier, already committed: **#1** `--plan-only` suppressed `write_escalation`, so `singles_esc.jsonl`
 was never written; **#2** `--mode amd_tokenlab` changed the hashed raw path and found zero raws (omit
 `--mode`, let `gate_run` resolve it); **#3** `p4c_report --write` needed explicit `--gated` because the
 rungs live under `rungs/`, which its default discovery does not match.
+
+Every remaining default in the chain was re-checked against the sequence and is correct:
+`p4c_union` (no `--packs`) → `OUT\packs.jsonl` full scope; `p4c_recall --items` → the bare gold list
+`kb\state\gold\p4b_items.json`; `p4c_audit` (no `--gated`) → `union\gated_union.jsonl` once step 6 has
+unioned; `p4c_report --packs` / `--union` / `--ladder-plan` → exactly what steps 2-3 wrote; ladder
+`--retry-out` / `--esc-out` → the two `singles_*.jsonl` step 4-5 consume.
 
 ## P4b numbers (extraction bake-off, plan §10.2)
 
@@ -914,10 +927,13 @@ python -X utf8 -m kb.p4c_gate --pass p4c_bulk --model DeepSeek-V4.1-Flash `
 
 # 3. rule-6 queue + free retry singles + capped glm-5.3 escalation plan
 #    --cap 11 is REQUIRED: the ladder default is 17 and would exceed the booking (see finding above).
+#    --gated is REQUIRED: step 2 wrote to rungs\p4c_bulk\, but the ladder defaults to
+#    OUT\gated.jsonl (p4c_ladder.py L34/L242) which does not exist -> FileNotFoundError at L53.
+#    The queue must be built from the BULK rung's gate rows, never a re-derived or rehearse export.
 #    Do NOT pass --plan-only: it suppresses write_escalation (`p4c_ladder.py` L224-227) so
 #    singles_esc.jsonl is never written and step 5 fails on a missing file. Run it for real; it only
 #    writes packs (no model calls), and the retry singles it emits are exactly what step 4 consumes.
-python -X utf8 kb\p4c_ladder.py --cap 11
+python -X utf8 kb\p4c_ladder.py --cap 11 --gated kb\state\p4c\rungs\p4c_bulk\gated.jsonl
 
 # 4. free single-chunk retry rung (AMD, one retry per owner decision 3).
 #    Consume the LADDER's singles file. Do NOT use `p4c_run.py --escalate`, which re-derives its own
