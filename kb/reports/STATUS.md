@@ -361,6 +361,17 @@ Note for the record: Defects 5-7 were all found by *executing* the contract agai
 during the wait, not by the test suite, which was green throughout. That is why the chain is being
 rehearsed on live AMD raws before the bulk pass finishes rather than after.
 
+**Operational hazard found the same way: a P5 rehearsal mutates the live KB.** `p5_build.build()` opens
+`kb/state/kb.duckdb` **read-write** (`connect(db)` at L605, `ensure_schema` L606, then `DELETE`/`INSERT`
+per batch) — there is no `--db` sandbox for a dry run, so the proof run above wrote 11 edges / 116
+events / 107 claims / 59 event_roles / 14 record_txns into the production database and provisioned 114
+provisional `%:new:%` entities. Reverted exactly (graph tables were empty beforehand and the `%:new:%`
+ids were created by the run): now `edge 0, event 0, event_role 0, claim 0, record_txn 0`, entities
+73,427 = 59,216 / 13,906 / 305, `%:new:%` 0. The real P5 pass rewrites its scope by `chunk_id`, so a
+rehearsal cannot corrupt final output once the full run follows — but **any future slice rehearsal must
+be rolled back by hand before P5 is declared done**, and P5's own gates cannot detect the leftovers
+because they count the slice they were handed, not the table state.
+
 ## P4b numbers (extraction bake-off, plan §10.2)
 
 **Defect 3 — fatal interpreter abort.** The daemon died at 09:56:12 with
