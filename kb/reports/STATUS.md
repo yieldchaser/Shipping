@@ -734,6 +734,30 @@ daemon `kb/p4c_daemon.py --pass p4c_bulk --model DeepSeek-V4.1-Flash --quota 0 -
   provider targets: `glm-5.3` pool 1, `gpt-oss-120b` pool 1, `DeepSeek-V4.1-Flash` pool 8 — a single-key
   rung is the reason the runner treats a hard 401/403 there as fatal while the 8-account AMD pool treats
   it as soft rotation.
+- **Pre-gate memory watch item (measured, no gate touched).** Host total RAM is 7.69 GB and free RAM
+  right now is ~0.55 GB, so the full-scope (86,607-chunk) downstream passes were sized *before* the
+  gate rather than discovered as an OOM at gate time. Method: `tracemalloc` peak over the live
+  26,953-chunk / 52,381-record rehearsal union (`_rehearse/union4/gated_union.jsonl`), scaled by the
+  measured x3.21 chunk factor.
+  - `p4c_union.build` — **safe**: it streams each pack's rows straight to `gated_union.jsonl.tmp` and
+    keeps only `Counter`s plus an `int` total, so its footprint is O(pack), not O(corpus).
+  - `p4c_report.merge_union` — **safe**: iterates via `load_jsonl` into one compact per-chunk status
+    dict (drops the `kept` payloads).
+  - `p4c_audit.plan` — **tight, 0.87 GB peak** (264 MB just for `load_gated` rows, +14 MB for the
+    `flat_records` list) because it materialises every union row *and* a second one-entry-per-record
+    list before drawing the 200 seeded items. On a box already running the 16-worker daemon this can
+    swap-thrash. Mitigation if it bites at gate time: run `--plan` with the extraction daemon stopped,
+    or stream `load_gated`/`flat_records` (they only need `random.sample` over an index range — a
+    reserve-sample over a streaming counter is seed-equivalent only if the ordering is preserved, so
+    this is a code change to make deliberately, not under time pressure).
+  - `p5_build.load_gated` — **tight, ~0.83 GB** plus DuckDB's own `memory_limit='700MB'`, and unlike the
+    audit it genuinely needs every chunk row for the graph build; P5 should therefore run with the
+    daemon stopped and on a fresh boot's RAM, and its `connect(db)` write must still be rolled back for
+    any verification build.
+  - Also confirmed the disk scare was *not* the KB run: 15,053 stored raw responses total **85 MB**
+    (~5.6 KB/pack), so the remaining ~13k packs add only ~75 MB. The 2.76 GB free-space drop this
+    window came from outside `kb/` (largest recent write was a 141 MB `.git` pack; `.claude/` is 11.6 GB
+    of harness session data) and the repo's tracked footprint is unchanged.
 
 ## P4c scaffold (code, committed)
 
