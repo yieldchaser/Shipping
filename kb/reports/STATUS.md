@@ -542,6 +542,8 @@ The rehearsal above was fixture-shaped. Re-ran the whole downstream chain on **l
 | audit | `p4c_audit --plan --gated .../union4/gated_union.jsonl` | 200 items from 52,381 records — union export read correctly |
 | ladder | `p4c_ladder --plan-only --gated .../gate2/gated.jsonl` | queue 260 of 2,769 on the old slice; on the live slice ranked and cap-picked without error |
 | recall | `p4c_recall --packs packs_done2.jsonl` | runs end-to-end: 26 of the 120 gold chunks in the partial slice, 342 reference records, `p4c_bulk` recall 0.0439 on that subset — plumbing only, **not** a gate number (the gate's 120-chunk gold scope needs the full extraction) |
+| report | `p4c_report --gated gate2 --packs packs_done2 --union union4 --ladder-plan` | emits the full gate block: `failure_queue_max false` (0.0299 > 0.02), coverage **0.3112**, cost $9.5282, `all_pass false` — honest red, as expected mid-run |
+| audit plan | `p4c_audit --plan --gated union4/gated_union.jsonl` | `records_available` **52,381**, 200 seeded items written — the union export is read correctly at live width (Defect 8 regression check) |
 | retry rung | `p4c_run --run --pass p4c_retry_smoke --packs singles_retry.jsonl` | real single-chunk packs accepted: **93 ok / 4 err**, `finish_reason=tool_calls`, $0.0523 — the retry rung's job-key shape is proven against the live store |
 
 Two things this establishes that no fixture did: (a) the fixed union predicate holds at production width
@@ -720,6 +722,18 @@ daemon `kb/p4c_daemon.py --pass p4c_bulk --model DeepSeek-V4.1-Flash --quota 0 -
   escalation inside its $11 booking via D12 cap priority), and `p4c_run --escalate` stays as the
   exhaustive-repair fallback. No code change; the finding is recorded so a future run does not "fix" a
   disagreement that does not exist.
+- **Budget de-risk checked before the esc rung: the remaining rungs are not throttled by the agent
+  gateway's cap.** `kb/llm_runner.base_url` / `load_key` resolve `glm-5.3` (and `gpt-oss-120b`) to
+  `https://router.enclave.ai/v1` with `refs.ENCLAVE_API_KEY` read directly from
+  `~/.dsh/.credentials.yaml` — `_provider_spec('glm-5.3')` is `None`, so it falls through to
+  `DEFAULT_BASE_URL`, exactly like `DeepSeek-V4.1-Flash` falls through to the AMD `base_url`. KB's paid
+  rungs therefore bypass the port-4100 gateway process entirely, and the gateway's `AGENT_CAP_USD` $76
+  (`AGENT_CAP_USD` hard cap, currently ~$70.66 spent) governs only agent-harness traffic, **not** the
+  pipeline. The binding constraint on `p4c_esc` is its own **$11** booking against `pipeline_cap_usd` $82
+  (pipeline spend so far ≈$9.5), and D12 cap-prioritisation keeps it inside that. Sanity check on the
+  provider targets: `glm-5.3` pool 1, `gpt-oss-120b` pool 1, `DeepSeek-V4.1-Flash` pool 8 — a single-key
+  rung is the reason the runner treats a hard 401/403 there as fatal while the 8-account AMD pool treats
+  it as soft rotation.
 
 ## P4c scaffold (code, committed)
 
