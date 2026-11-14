@@ -221,6 +221,37 @@ those calls succeed. The run is resumable from the ledger at `done 1363 / 24978`
 backs off instead of pinning a shard. Throughput figure to reuse when the pool recovers: **~19-22
 accepted packs/min** at 16/120.
 
+### Amendment 6 — host reboot, resumable restart (2026-11-14)
+
+Authority: none needed; host event, no gate, cap or plan change.
+
+A scheduled Windows update restarted the host at **04:45**. The daemon (PID 30280) died with it; a
+`Get-CimInstance` sweep at 08:42 confirmed no `kb/*` python process survived. Nothing was lost:
+
+| check | value |
+|---|---|
+| ledger integrity | intact; `p4c_bulk` ok rows 1,713, `MAX(created_at)` `2026-11-14T03:37:14` |
+| key-exact usable raws (`p4c_run.done_packs`) | **1,374 / 24,978** |
+| gateway | port 4100 up, enclave $68.87 / $76 |
+| disk / memory | 10.17 GB free; 10+ GB RAM free after the reboot |
+
+The 2,634 "banked" figure counts ledger `status='ok'` rows over all passes and models; the gateable
+number is the key-exact one (1,374), because raising `max_tokens` to 8,000 orphaned the pre-cap AMD
+keys (Amendment 2) and 1,490 of the ok rows are the abandoned Ultrafast raws. Both are true statements
+about different things; the run resumes on the key-exact one.
+
+Daemon relaunched at **08:46** (PID 11992, `KB_AMD_*` cleared to defaults 16/120/120), log
+`kb/logs/p4c_bulk16.log`, previous log preserved as `kb/logs/p4c_bulk16.pre-reboot.log`. Startup line
+proves the resume path: `[start] pass p4c_bulk model DeepSeek-V4.1-Flash packs 24978 done 1374 quota 0/day`
+— it restarts from the ledger, never from pack 1.
+
+**Interim gate read on the banked slice (zero spend).** Key-exact AMD subset (1,366 packs at 04:40,
+4,826 chunks) gated to `kb/state/p4c/interim/`: **0 blank, 0 schema_fail** -> gate 1 pass rate **1.000**,
+record drop rate **0.101** (`entity_unresolved` 998, `number_not_in_quote` 287, `sid_missing` 78,
+`quote_empty` 76). The Amendment 2 cap fix is therefore holding across the whole banked slice, not just
+the 400-pack sample it was measured on. Fail reasons are the expected gate-2/4 drops the retry +
+escalation rungs exist to absorb.
+
 ## P4b numbers (extraction bake-off, plan §10.2)
 
 | metric | value |
