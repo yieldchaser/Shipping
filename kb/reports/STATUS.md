@@ -1114,6 +1114,18 @@ python -X utf8 -m kb.p4c_gate --pass p4c_bulk_retry --model DeepSeek-V4.1-Flash 
 #    tier-2) i.e. the same money moves onto genuinely-still-broken chunks.
 #    Re-run the ladder with BOTH --gated (bulk) and --esc-gated (step 4's output). It rewrites
 #    singles_retry.jsonl identically and singles_esc.jsonl with the repointed list; --cap 11 still.
+#    CHAIN VERIFIED END-TO-END (2026-11-15, zero spend, scratch dir kb\state\p4c\_tprobe): ran step 3
+#    and step 4b back to back over the same real bulk gate slice (300 packs / 1091 chunks) and the
+#    real retry gate slice (260 single-chunk raws). Results:
+#      - queue identical both runs: 118 triggered chunks (10.8%), triggers fail_pct 81 /
+#        low_confidence 9 / thin_long_sec 37; retry singles 118, unmatched 0.
+#      - step 3 esc: 118 picks, est $2.68/$11, skipped 0.
+#      - step 4b esc: 64 picks, est $1.52/$11, skipped 0.
+#      - retry3.jsonl and retry4b.jsonl are BYTE-IDENTICAL (both 437,852 B, same sha256) => the
+#        --esc-gated slice provably does not perturb the free-retry rung. esc3.jsonl (437,852 B) and
+#        esc4b.jsonl (262,896 B) differ, and each plan's `escalation.esc_source` records exactly the
+#        file it ranked from (bulk gated for step 3, retry gated for step 4b).
+#    So the repoint is confirmed as ranking-only in both directions, not just by reading the code.
 python -X utf8 kb\p4c_ladder.py --cap 11 `
   --gated kb\state\p4c\rungs\p4c_bulk\gated.jsonl `
   --esc-gated kb\state\p4c\rungs\p4c_bulk_retry\gated.jsonl
