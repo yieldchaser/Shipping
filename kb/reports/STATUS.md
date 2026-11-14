@@ -848,8 +848,11 @@ python -X utf8 -m kb.p4c_gate --pass p4c_bulk --model DeepSeek-V4.1-Flash --mode
   --out-dir kb\state\p4c\rungs\p4c_bulk
 
 # 3. rule-6 queue + free retry singles + capped glm-5.3 escalation plan
-#    --cap 11 is REQUIRED: the ladder default is 17 and would exceed the booking (see finding above)
-python -X utf8 kb\p4c_ladder.py --plan-only --cap 11
+#    --cap 11 is REQUIRED: the ladder default is 17 and would exceed the booking (see finding above).
+#    Do NOT pass --plan-only: it suppresses write_escalation (`p4c_ladder.py` L224-227) so
+#    singles_esc.jsonl is never written and step 5 fails on a missing file. Run it for real; it only
+#    writes packs (no model calls), and the retry singles it emits are exactly what step 4 consumes.
+python -X utf8 kb\p4c_ladder.py --cap 11
 
 # 4. free single-chunk retry rung (AMD, one retry per owner decision 3).
 #    Consume the LADDER's singles file. Do NOT use `p4c_run.py --escalate`, which re-derives its own
@@ -861,7 +864,8 @@ python -X utf8 -m kb.p4c_gate --pass p4c_bulk_retry --model DeepSeek-V4.1-Flash 
   --out-dir kb\state\p4c\rungs\p4c_bulk_retry
 
 # 5. paid glm-5.3 escalation rung, D12 cap-prioritised, inside the $11 booking.
-#    `p4c_ladder --plan-only` wrote no esc packs; the capped rung reads the ladder's ranked plan.
+#    Step 3 wrote the esc packs for real (445 single-chunk calls at the $11 cap, verified on the
+#    rehearsal gate); the rung reads those, never a re-derived queue.
 python -X utf8 kb\p4c_run.py --run --pass p4c_esc --model glm-5.3 --cap 11 `
   --packs kb\state\p4c\singles_esc.jsonl
 python -X utf8 -m kb.p4c_gate --pass p4c_esc --model glm-5.3 `
