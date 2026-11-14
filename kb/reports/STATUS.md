@@ -51,10 +51,11 @@ $0.0111); against the $82 cap that leaves **≈$63.01**. The ladder's `--cap 11`
 for escalation, not the pipeline cap.
 
 That headroom comfortably covers the remaining drain: the retry rung is ~2,137 AMD single-pack calls
-at ~$0.0010 (measured rate: 240 calls for $0.1227) ≈ **$2.2**, the esc rung spends its whole **$11.00**
-booking on 445 of its 2,137 triggered candidates (true cost ~$5.5–8.9; see the esc correction below),
-and the gate/union/report/judge-audit steps make no billable AMD calls. Worst case ≈$13.2 of drain
-against $63.0 of headroom, so the drain cannot approach the $82 cap even if the retry queue doubles.
+at the **ledger-measured $0.000511/call** (`p4c_bulk_retry`: 236 calls for $0.1227 — a single-chunk
+call is half the price of a bulk pack) ≈ **$1.09**, the esc rung spends its whole **$11.00** booking on
+445 of its 2,137 triggered candidates (true cost ~$5.5–8.9; see the esc correction below), and the
+gate/union/report/judge-audit steps make no billable AMD calls. Worst case ≈$12.1 of drain against
+$63.0 of headroom, so the drain cannot approach the $82 cap even if the retry queue doubles.
 
 Read the gateway counter correctly: `http://127.0.0.1:4100/stats` counts **agent-spine** calls only
 (`agent_gateway_usage.jsonl`, prompt >12k tokens/call). **Extraction calls bypass the gateway
