@@ -23,6 +23,7 @@ sys.path.insert(0, str(KB))
 
 import llm_runner as LR  # noqa: E402
 import p4b_run as B  # noqa: E402
+import p4c_union as U  # noqa: E402
 import runner as R  # noqa: E402
 from extract_schema import parse_extraction  # noqa: E402
 
@@ -202,18 +203,32 @@ def cmd_run(args) -> int:
 
 
 def _selected_extractor() -> str:
+    """The model that actually produced the gated records under audit.
+
+    P4c's bulk extractor is the P4c ladder's own source, not P4b's selection: the pass under audit is
+    `p4c_bulk` (see `p4c_run.BULK_PASS`) over the AMD pool. Resolve it from `p4c_union.SOURCE_SPEC`
+    so this label cannot silently drift back to the P4b winner the way it did while P4b's report was
+    the only source; fall back to `p4b.json` only if the union spec has no bulk entry.
+    """
+    try:
+        for pass_name, model in U.SOURCE_SPEC:
+            if pass_name == "p4c_bulk":
+                return model
+    except (AttributeError, TypeError, ValueError):
+        pass
     try:
         rep = json.loads((KB.parent / "kb/reports/p4b.json").read_text(encoding="utf-8"))
         return rep["selected"]["model"]
     except (OSError, ValueError, KeyError):
-        raise SystemExit("no extractor model given and kb/reports/p4b.json has no selection")
+        raise SystemExit("no extractor model given and no p4c_bulk source in p4c_union.SOURCE_SPEC")
 
 
 def _md(st: dict) -> str:
     return "\n".join([
         "# P4c random audit", "",
         f"- judge: `{st['model']}` ({st['judge_family']} family) vs extractor "
-        f"`{st['extractor_model']}` ({st['extractor_family']} family) — different family: yes",
+        f"`{st['extractor_model']}` ({st['extractor_family']} family) — different family: "
+        f"{'yes' if st['judge_family'] != st['extractor_family'] else 'NO (gate violation)'}",
         f"- sample: {st['sampled']} records of {json.loads(AUDIT_ITEMS.read_text())['records_available']}"
         f" available (seed {st['seed']})",
         f"- judged: {st['judged']}, keep {st['keep']}, drop {st['drop']}, "

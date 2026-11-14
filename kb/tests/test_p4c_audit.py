@@ -34,6 +34,14 @@ def test_model_family_and_rule():
     assert not A.judge_family_ok("deepseek-v4-flash", "DeepSeek-V4.1-Flash")
 
 
+def test_selected_extractor_is_the_p4c_bulk_source():
+    """The label must follow P4c's own extractor, not whatever P4b happened to select."""
+    assert A._selected_extractor() == "DeepSeek-V4.1-Flash"
+    assert A.model_family(A._selected_extractor()) == "deepseek"
+    assert A.judge_family_ok("glm-5.3", A._selected_extractor())
+    assert not A.judge_family_ok("DeepSeek-V4.1-Flash", A._selected_extractor())
+
+
 def test_flat_records_one_entry_per_record():
     rows = [gated_row(n_facts=2), gated_row(cid="c2", n_facts=0)]
     flat = A.flat_records(rows)
