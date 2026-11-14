@@ -529,6 +529,28 @@ coincide — the same blind spot as Defects 5-10. Full suite **381 → 384 passe
 *Carry-forward rule.* Any union/report/gate predicate that tests "this chunk produced nothing" must key on
 that chunk's own returned-record count. Pack sums may only be used for call-level accounting.
 
+### Defect 11 live re-validation on the real AMD slice (not a rehearsal fixture)
+
+The rehearsal above was fixture-shaped. Re-ran the whole downstream chain on **live daemon output**:
+`kb/_t_mkdone.py` key-exact slice of everything the real `p4c_bulk` pass has banked (7,411 packs of the
+24,978-pack scope), then the real gate, union, audit and ladder over it — zero LLM spend.
+
+| stage | command | result |
+| --- | --- | --- |
+| gate | `p4c_gate --pass p4c_bulk --packs packs_done2.jsonl --out-dir _rehearse/gate2` | 7,411 packs, 26,953 chunks, failures 3,232 (rate 0.119912), blank 0 / schema_fail 2 / missing 0, gate pass rate **0.99973** |
+| union | `p4c_union --packs packs_done2.jsonl --out-dir _rehearse/union4` | chunks 26,953, with_records 14,387, broken 806, missing 0, `failure_queue_rate` **0.0299**, duplicates 3,023, dropped_by_gates 6,140 |
+| audit | `p4c_audit --plan --gated .../union4/gated_union.jsonl` | 200 items from 52,381 records — union export read correctly |
+| ladder | `p4c_ladder --plan-only --gated .../gate2/gated.jsonl` | queue 260 of 2,769 on the old slice; on the live slice ranked and cap-picked without error |
+| retry rung | `p4c_run --run --pass p4c_retry_smoke --packs singles_retry.jsonl` | real single-chunk packs accepted: **93 ok / 4 err**, `finish_reason=tool_calls`, $0.0523 — the retry rung's job-key shape is proven against the live store |
+
+Two things this establishes that no fixture did: (a) the fixed union predicate holds at production width
+(26,953 chunks, 0 missing, 0.0299), and (b) **the run is legitimately above the frozen 0.02 gate**, so the
+D12 repair rung is required, not optional. It is not a gate trade: 0.0299 > 0.02 is the honest reading of
+live data with ~30% of the scope still unextracted, and the retry/escalation rungs exist to close exactly
+this gap. The pack-level `call_status.missing 29,644` is call accounting for the other sources in the
+union source list (glean/retry/esc/glm2 have not run yet); per-chunk `missing_chunks` is **0**, which is
+the metric the gate reads. No gate touched, no threshold moved.
+
 ## P4b numbers (extraction bake-off, plan §10.2)
 
 **Defect 3 — fatal interpreter abort.** The daemon died at 09:56:12 with
