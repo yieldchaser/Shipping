@@ -1231,32 +1231,44 @@ step 3 and post-retry at step 4b). **This was the real memory defect, and it is 
 (2026-11-15, zero spend, streaming `build_queue_stream`).** `p4c_ladder.load_gated` streams (L51-60),
 but the plan path used to call `gated_chunk_map(paths=[...])` (L63-72) — which materialises
 `{chunk_id: gate row}` for **every** chunk — and `build_queue` then copied that whole list again
-(L114). At the frozen scope a gate row is ~9,630 B (it carries the `records` verdict list), so step 3
-alone projected **~834 MB** and step 4b, which additionally held the merged `gated_chunk_map`, peaked
-near **~1.6 GB** — against 416-1,228 MB actually free. `cmd_plan` now uses `build_queue_stream`, which
+(L114). Measured in-memory cost of a gate row is **11,440 B** (deep `sys.getsizeof` over the nested
+dict; 2,713 B as JSON, 464 B as a bare dict shell — the nested `records`/`kept`/`new_*` structures
+dominate), so at the frozen scope step 3 alone projected **~888 MB** — matching the 888.5 MB actually
+measured below — and step 4b, which additionally held the merged `gated_chunk_map`, peaked higher
+still, against 416-1,228 MB actually free. `cmd_plan` now uses `build_queue_stream`, which
 reads the gate files once through `_merged_rows` (holding chunk-id strings plus only the *overriding*
 rows from the later file — in the step-4b shape that is the retry rung, a few thousand rows) and
 `section_medians_stream` (per-bucket median inputs only). Measured peak RSS on the same 26,953-row
-gate2 slice, both shapes, via `kb\_t_childpeak.py`: **313.5 MB before -> 59.3 MB shape B / 58.7 MB
-shape A after**. A first attempt left a second defect inside the fix: the replacement yielded
-duplicate rows for a repeated `chunk_id` where the dict kept only the last, so `_merged_rows` now
-detects repeated ids per file (`_has_duplicate_chunk_ids`) and falls back to the exact materialising
+gate2 slice, both shapes, via `kb\_t_childpeak.py`: **313.5 MB before -> 58.7 MB shape A**.
+**Measured again at FULL frozen scope** (synthetic 86,607-row gate file built by
+`kb\_t_fullscope.py` from real gate rows, 233.0 MB on disk, free RAM 716 MB at the time):
+**new path 54.7 MB vs old path 888.5 MB peak** — identical `chunks_gated 86607` / `queue 6914` on
+both paths, so the equivalence holds at drain scale as well as rehearsal scale. The old path's
+888.5 MB **exceeded the 716 MB actually free**, which is why this was a hard requirement and not an
+optimisation: at full scope step 3 alone did not fit. A first attempt left a second defect inside
+the fix: the replacement yielded
+duplicate rows for a repeated `chunk_id` where the dict kept only the last, so `_merged_rows` nowdetects repeated ids per file (`_has_duplicate_chunk_ids`) and falls back to the exact materialising
 map for that pathological case. Equivalence is proven three ways: identical stdout, byte-identical
 `retry`/`esc` outputs (`retry` sha256 `6FA452006374B42D777D94D346ED8E25009227FA5C54C6A0DFF46692FF0187F2`,
 `esc` `AD244C92C176816AF23A40CB1FAD2D826C4C4E81C831D222F0D529DB86077285`, unchanged from the pre-edit
 baseline), and a plan-JSON diff whose only differing leaves are the different `--retry-out`/`--esc-out`
 paths I passed. `kb/tests/test_p4c_ladder.py` now also pins order, later-file override, later-only
 chunks, duplicate-id last-wins, and stream-vs-list equality (15 tests pass). The whole-file
-`gated_chunk_map` is still exported and still costs ~9,630 B/row, but nothing on the plan path calls
+`gated_chunk_map` is still exported and still costs ~11,440 B/row, but nothing on the plan path calls
 it. Step 3, step 4's gate and step 4b still must not overlap — the fix makes them cheap, it does not
 make them free.
 
 **Free RAM is the binding constraint, and it must be read as *free*, not *total* (measured
 2026-11-15, zero spend).** Host total is **7,876.7 MB**; free RAM across this session ranged
 **416.5 MB -> 1,227.5 MB** (used 7,228.9 at the low point, commit headroom 11,166.3 MB, C: 7.30 GB
-free). Every whole-file projection above must be compared against *currently free* RAM, not total:
-`merge_union` projecting 1.0-1.2 GB, or the pre-fix ladder's 834 MB / ~1.6 GB, is at or above what is
-actually available even though it looks affordable against 7.9 GB total. The pressure is user-space
+free). Every whole-file projection above must be compared against *currently free* RAM, not total.
+The step-6 union merge is now **measured, not projected**: `p4c_report.merge_union` costs **301.3 MB
+RSS at 26,953 union rows (11,179 B/chunk) -> 968 MB at the frozen 86,607 chunks**
+(`kb\_t_mergemem.py`, child peak 350.4 MB). `merge_union` keeps only a small per-chunk status dict
+(L154-161), so most of that is allocator retention from parsing 26,953 large union rows rather than
+the dict itself — but RSS is what the box has to supply, so 968 MB stands. That is above the 716 MB
+free at measurement time, exactly as the pre-fix ladder's 888.5 MB was: both must run with writers
+stopped and one heavy consumer at a time. The pressure is user-space
 `.exe` load plus page cache rather than the KB run itself; all python procs together are only
 ~170 MB RSS. Consequence for the drain: step 2 and step 4b in particular must run with the **daemon
 stopped** (it must stop for step 2 in any case), one heavy consumer at a time, and the file-page cache
