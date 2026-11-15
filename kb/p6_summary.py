@@ -486,8 +486,13 @@ def write_node(messages: list[dict], model: str = WRITER_MODEL, max_tokens: int 
             data = chat(model, messages, max_tokens=max_tokens, temperature=0.0, timeout_s=300)
             txt = (data.get("choices") or [{}])[0].get("message", {}).get("content") or ""
             usage = data.get("usage") or {}
-            _log(job_key or f"p6:{hashlib.sha256(json.dumps(messages).encode()).hexdigest()[:16]}",
-                 "p6_summary", model, usage)
+            # Defect 18: same collision class as the judge row. `job_key` is a stable per-node id
+            # (`f"p6:{nid}"`), so a retry inside this loop, or a `--force` re-run of the node,
+            # overwrote the previous paid row and its spend. Suffix the attempt on the retry path.
+            wkey = job_key or f"p6:{hashlib.sha256(json.dumps(messages).encode()).hexdigest()[:16]}"
+            if attempt > 1:
+                wkey = f"{wkey}#a{attempt}"
+            _log(wkey, "p6_summary", model, usage)
             if txt.strip():
                 return {"status": "ok", "text": txt, "usage": usage, "error": None}
             last = "blank"
@@ -514,8 +519,15 @@ def judge_node(summary: str, ev: list[dict], model: str = JUDGE_MODEL, retries: 
             active = model if attempt < retries else (JUDGE_FALLBACK_MODEL or model)
             data = chat(active, msgs, max_tokens=200, temperature=0.0, timeout_s=300)
             txt = (data.get("choices") or [{}])[0].get("message", {}).get("content") or ""
-            _log(f"p6judge:{hashlib.sha256(summary.encode()).hexdigest()[:16]}", "p6_judge", active,
-                 data.get("usage") or {})
+            # Defect 18: key the row by the whole request (model + evidence + summary + attempt),
+            # not by the summary text alone. Every attempt is a separately invoiced call; a shared
+            # key made `ON CONFLICT(job_key) DO UPDATE` overwrite the earlier paid row, so retry
+            # spend silently vanished from `runner.spent()` and the §7.5 pipeline cap. Retries are
+            # routine here: an unusable score is retried (Defect 17) and the last attempt runs on a
+            # different (fallback) model id.
+            jkey = "p6judge:" + hashlib.sha256(
+                json.dumps([active, msgs, attempt]).encode()).hexdigest()[:16]
+            _log(jkey, "p6_judge", active, data.get("usage") or {})
             # Defect 16: Gemma fences its JSON; keep tolerating a leading sentence too.
             obj = parse_json_object(txt)
             if obj:

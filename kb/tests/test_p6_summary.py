@@ -587,3 +587,111 @@ def test_build_report_spend_is_none_not_zero_when_ledger_unreadable(monkeypatch)
     assert rep["spend_usd"] is None
     md = P._md(rep)
     assert "UNMEASURED" in md and "0.0000" not in md
+
+
+# ------------------------------------------------------------------ ledger keying (Defect 18)
+def _scratch_ledger(monkeypatch, tmp_path):
+    """Point the real `runner` ledger at a scratch file so `P._log` writes for real."""
+    import runner as R
+
+    ledger = tmp_path / "ledger.sqlite"
+    monkeypatch.setattr(R, "LEDGER", ledger)
+    monkeypatch.setattr(R, "_SCHEMA_INIT", False)
+    return ledger
+
+
+def _judge_rows(ledger, pass_name="p6_judge"):
+    import sqlite3
+
+    con = sqlite3.connect(f"file:{ledger}?mode=ro", uri=True)
+    try:
+        return con.execute("SELECT job_key, model, cost_usd FROM jobs WHERE pass=?",
+                           [pass_name]).fetchall()
+    finally:
+        con.close()
+
+
+def test_judge_retry_attempts_each_book_a_separate_row(monkeypatch, tmp_path):
+    """Defect 18: key was sha256(summary) alone, so the retry's upsert erased the first paid call."""
+    import runner as R
+
+    ledger = _scratch_ledger(monkeypatch, tmp_path)
+    seen = []
+
+    def fake_chat(model, msgs, **_kw):
+        seen.append(model)
+        txt = ('{"verdict": "supported", "why": "no score here"}' if len(seen) == 1
+               else '{"score": 0.9, "verdict": "supported", "why": "ok"}')
+        return {"choices": [{"message": {"content": txt}}],
+                "usage": {"prompt_tokens": 216, "completion_tokens": 39}}
+
+    monkeypatch.setattr(P, "chat", fake_chat)
+    out = P.judge_node("spot was 5 [obs:1]",
+                       [{"kind": "chunk", "ref": "t#1", "text": "spot was 5"}], retries=2)
+    assert out["score"] == 0.9 and out["error"] is None
+    assert seen == [P.JUDGE_MODEL, P.JUDGE_FALLBACK_MODEL], "second attempt is the fallback judge"
+
+    rows = _judge_rows(ledger)
+    assert len(rows) == 2, rows
+    assert len({r[0] for r in rows}) == 2, "one key per paid attempt"
+    assert {r[1] for r in rows} == {P.JUDGE_MODEL, P.JUDGE_FALLBACK_MODEL}
+    assert all(r[2] > 0.0 for r in rows), "both attempts are paid and must stay visible"
+    assert R.spent(passes=["p6_judge"]) == pytest.approx(sum(r[2] for r in rows))
+
+
+def test_distinct_summaries_sharing_a_summary_text_key_stay_separate(monkeypatch, tmp_path):
+    """The old key hashed only the summary, so the same sentence on other evidence collided."""
+    ledger = _scratch_ledger(monkeypatch, tmp_path)
+
+    def fake_chat(model, msgs, **_kw):
+        return {"choices": [{"message": {"content": '{"score": 1.0, "verdict": "supported"}'}}],
+                "usage": {"prompt_tokens": 100, "completion_tokens": 10}}
+
+    monkeypatch.setattr(P, "chat", fake_chat)
+    same = "spot was 5 in March."
+    P.judge_node(same, [{"kind": "chunk", "ref": "a#1", "text": "spot was 5"}])
+    P.judge_node(same, [{"kind": "chunk", "ref": "b#9", "text": "spot was 5"}])
+
+    rows = _judge_rows(ledger)
+    assert len(rows) == 2, rows
+    assert len({r[0] for r in rows}) == 2, "evidence must be part of the key"
+
+
+def test_write_node_retries_book_one_row_per_paid_attempt(monkeypatch, tmp_path):
+    """A blank writer reply is retried; both paid calls must survive in the ledger."""
+    import runner as R
+
+    ledger = _scratch_ledger(monkeypatch, tmp_path)
+    n = {"i": 0}
+
+    def fake_chat(model, msgs, **_kw):
+        n["i"] += 1
+        return {"choices": [{"message": {"content": "" if n["i"] == 1 else "spot was 5."}}],
+                "usage": {"prompt_tokens": 100, "completion_tokens": 20}}
+
+    monkeypatch.setattr(P, "chat", fake_chat)
+    res = P.write_node([{"role": "user", "content": "hi"}], job_key="p6:test-node", retries=2)
+    assert res["status"] == "ok" and n["i"] == 2
+
+    rows = _judge_rows(ledger, "p6_summary")
+    assert len(rows) == 2, rows
+    assert len({r[0] for r in rows}) == 2, "the retry must not upsert over the first attempt"
+    assert all(r[2] > 0.0 for r in rows)
+    assert R.spent(passes=["p6_summary"]) == pytest.approx(sum(r[2] for r in rows))
+
+
+def test_write_node_keeps_one_row_when_the_first_attempt_succeeds(monkeypatch, tmp_path):
+    """No retry: keying must stay stable so a cached/re-run node reuses its row."""
+    ledger = _scratch_ledger(monkeypatch, tmp_path)
+
+    def fake_chat(model, msgs, **_kw):
+        return {"choices": [{"message": {"content": "spot was 5."}}],
+                "usage": {"prompt_tokens": 100, "completion_tokens": 20}}
+
+    monkeypatch.setattr(P, "chat", fake_chat)
+    P.write_node([{"role": "user", "content": "hi"}], job_key="p6:stable", retries=2)
+    P.write_node([{"role": "user", "content": "hi"}], job_key="p6:stable", retries=2)
+
+    rows = _judge_rows(ledger, "p6_summary")
+    assert len(rows) == 1, rows
+    assert rows[0][0] == "p6:stable"
