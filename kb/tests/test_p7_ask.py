@@ -464,6 +464,48 @@ def test_ledger_booking_failure_never_breaks_an_answer(tmp_path, monkeypatch):
     assert out == pytest.approx(0.001), "the caller still gets its cost back"
 
 
+# ------------------------------------------------- ask: record cost is every paid call (Defect 19)
+def test_answer_record_cost_includes_the_planner_call(tmp_path, db, monkeypatch):
+    """The planner is billed too; a record that counts only the composer understates the run."""
+    monkeypatch.setattr(A, "CALL_LOG", tmp_path / "calls.jsonl")
+
+    def chat(model, messages, max_tokens=400, **kw):
+        if "Plan tool calls" in messages[-1]["content"]:
+            return "[]", {"prompt_tokens": 10}, 0.003          # planner
+        return ("ANSWER: Capesize averaged USD 24,500/day [cite:obs:101].",
+                {"prompt_tokens": 10}, 0.007)                  # composer
+    rec = A.answer_question("Capesize rate?", con=T.connect(db), chat=chat, escalate=False)
+    assert rec["status"] == "ok"
+    assert rec["cost_usd"] == pytest.approx(0.010), "0.003 planner + 0.007 composer"
+
+
+def test_answer_record_cost_accumulates_the_escalation(tmp_path, db, monkeypatch):
+    """A successful escalation used to *replace* the first-pass cost instead of adding to it."""
+    monkeypatch.setattr(A, "CALL_LOG", tmp_path / "calls.jsonl")
+
+    def chat(model, messages, max_tokens=400, **kw):
+        if "Plan tool calls" in messages[-1]["content"]:
+            return "[]", {}, 0.001
+        if model == A.ESCALATION_MODEL:
+            return "ANSWER: Capesize averaged USD 24,500/day [cite:obs:101].", {}, 0.050
+        return "ANSWER: Capesize hit USD 77,777/day [cite:obs:101].", {}, 0.004
+    rec = A.answer_question("Capesize rate?", con=T.connect(db), chat=chat)
+    assert rec["escalated"] is True and rec["model"] == A.ESCALATION_MODEL
+    assert rec["cost_usd"] == pytest.approx(0.055), "0.001 + 0.004 + 0.050"
+
+
+def test_answer_record_cost_keeps_the_planner_when_the_composer_fails(tmp_path, db, monkeypatch):
+    monkeypatch.setattr(A, "CALL_LOG", tmp_path / "calls.jsonl")
+
+    def chat(model, messages, max_tokens=400, **kw):
+        if "Plan tool calls" in messages[-1]["content"]:
+            return "[]", {}, 0.002
+        raise RuntimeError("composer down")
+    rec = A.answer_question("Capesize rate?", con=T.connect(db), chat=chat, escalate=False)
+    assert rec["status"] == "model_error"
+    assert rec["cost_usd"] == pytest.approx(0.002), "the planner was still paid for"
+
+
 def test_chat_books_an_error_row_when_llm_runner_chat_returns_garbage(tmp_path, monkeypatch):
     path, _ = _scratch_ledger(tmp_path, monkeypatch)
     monkeypatch.setattr(A.llm_runner, "chat", lambda *a, **k: {})

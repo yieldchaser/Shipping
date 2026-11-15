@@ -289,22 +289,30 @@ def default_calls(question: str, as_of: str | None) -> list[dict]:
 
 
 def plan_calls(question: str, as_of: str | None, model: str, chat=None) -> list[dict]:
+    """Planner tool calls only. See `plan_calls_cost` to also capture the planner's spend."""
+    return plan_calls_cost(question, as_of, model, chat=chat)[0]
+
+
+def plan_calls_cost(question: str, as_of: str | None, model: str,
+                    chat=None) -> tuple[list[dict], float]:
+    """Plan tool calls. Returns `(calls, cost_usd)` — the planner is a paid call too (Defect 19)."""
     chat = chat or _chat
     user = (f"Question: {question}\n"
             + (f"Knowledge cutoff: only documents published on or before {as_of} may be used.\n" if as_of else "")
             + "Plan tool calls as a JSON array.")
     try:
-        text, _usage, _cost = chat(model, [{"role": "system", "content": PLANNER_SYSTEM},
-                                           {"role": "user", "content": user}], 300)
+        text, _usage, cost = chat(model, [{"role": "system", "content": PLANNER_SYSTEM},
+                                          {"role": "user", "content": user}], 300)
     except Exception:  # noqa: BLE001 - planner is optional
-        return []
+        return [], 0.0
+    spent = round(float(cost or 0.0), 6)
     m = re.search(r"\[.*\]", text or "", re.S)
     if not m:
-        return []
+        return [], spent
     try:
         raw = json.loads(m.group(0))
     except Exception:  # noqa: BLE001
-        return []
+        return [], spent
     calls = []
     for item in raw if isinstance(raw, list) else []:
         if not isinstance(item, dict):
@@ -325,7 +333,7 @@ def plan_calls(question: str, as_of: str | None, model: str, chat=None) -> list[
         calls.append({"tool": name, "args": args})
         if len(calls) >= 2:
             break
-    return calls
+    return calls, spent
 
 
 def _run_calls(calls: list[dict], con) -> list[dict]:
@@ -397,8 +405,11 @@ def answer_question(question: str, model: str = DEFAULT_MODEL, escalate: bool = 
     con = con or T.connect(db or T.KB_DB)
     as_of = as_of_of(question)
     calls = default_calls(question, as_of)
+    spent = 0.0  # Defect 19: every paid call in this pipeline must reach the record's cost
     try:
-        calls += plan_calls(question, as_of, model, chat=chat)
+        planned, plan_cost = plan_calls_cost(question, as_of, model, chat=chat)
+        calls += planned
+        spent += plan_cost
     except Exception:  # noqa: BLE001 - planning is optional
         pass
     calls = calls[:MAX_TOOL_CALLS]
@@ -411,9 +422,10 @@ def answer_question(question: str, model: str = DEFAULT_MODEL, escalate: bool = 
     text, usage = "", {}
     try:
         text, usage, cost = compose(question, results, as_of, model, chat=chat)
+        spent += float(cost or 0.0)
     except Exception as exc:  # noqa: BLE001
         record.update(status="model_error", answer=NOT_IN_DATA, error=f"{type(exc).__name__}: {exc}",
-                      elapsed_s=round(time.time() - t0, 2), cost_usd=0.0)
+                      elapsed_s=round(time.time() - t0, 2), cost_usd=round(spent, 6))
         return record
     parsed = parse_answer(text)
     final, dropped = contract_filter(parsed, have, resolve)
@@ -425,15 +437,16 @@ def answer_question(question: str, model: str = DEFAULT_MODEL, escalate: bool = 
                 + ". Copy numbers verbatim from the tool results and cite every sentence.")
         try:
             text2, usage2, cost2 = compose(question, results, as_of, ESCALATION_MODEL, chat=chat, hint=hint)
+            spent += float(cost2 or 0.0)
             parsed2 = parse_answer(text2)
             final2, dropped2 = contract_filter(parsed2, have, resolve)
             record["escalated"] = True
             record["escalation_checks"] = {"dropped": dropped2, "status": final2["status"]}
             if final2["status"] == "ok":
-                final, dropped, text, usage, cost = final2, dropped2, text2, usage2, cost2
+                final, dropped, text, usage = final2, dropped2, text2, usage2
                 record["model"] = ESCALATION_MODEL
             else:
-                record["cost_usd"] = round(float(cost) + float(cost2), 6)
+                record["cost_usd"] = round(spent, 6)
                 record.update(status="not_in_data", answer=NOT_IN_DATA,
                               sentences=[], cites=[],
                               elapsed_s=round(time.time() - t0, 2))
@@ -447,7 +460,7 @@ def answer_question(question: str, model: str = DEFAULT_MODEL, escalate: bool = 
                   sentences=final.get("sentences", []),
                   cites=[h for s in final.get("sentences", []) for h in s["cites"]],
                   raw_reply=text[:2000], usage=usage,
-                  cost_usd=round(float(record.get("cost_usd") or cost), 6),
+                  cost_usd=round(spent, 6),
                   elapsed_s=round(time.time() - t0, 2))
     if own:
         con.close()
