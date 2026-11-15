@@ -108,9 +108,35 @@ def gold_numbers_from_text(text: str) -> list[float]:
     return out
 
 
-def tolerance_of(it: dict) -> float:
-    tol = answer_dict(it).get("tolerance")
-    return float(tol) if isinstance(tol, (int, float)) else 0.0
+def tolerance_of(it: dict) -> float | None:
+    """The gold item's *authored* tolerance, or `None` when it does not carry one.
+
+    Absent and unreadable are different states, and this is the read that keeps them apart. An item
+    type whose authoring convention is exact match legitimately has no `tolerance` key at all (all 35
+    live `c_multihop_entity` items), so `None` here means "the type declares the semantics", not "the
+    read failed". A tolerance that is *present* but not a real finite number (`true`, `"0.01"`, NaN,
+    inf) is a broken read - `M.as_float` collapses those to `None` too, and `tolerance_or_exact`
+    refuses them rather than silently grading exact. `isinstance(tol, (int, float))` used to accept
+    `true` and returned `0.0` for both cases, i.e. it invented a strict tolerance whenever the read
+    failed (Defect 17 class on the grading path).
+    """
+    return M.as_float(answer_dict(it).get("tolerance"))
+
+
+def tolerance_or_exact(it: dict) -> float:
+    """The tolerance to grade with, or the exact-match floor `0.0` when the item declares none.
+
+    Raises `ValueError` for a tolerance that is present but unreadable: that is a corrupt gold item,
+    and grading it by exact match would deflate the §12 gate using an invented number.
+    """
+    ans = answer_dict(it)
+    raw = ans.get("tolerance")
+    if raw is None:
+        return 0.0
+    tol = M.as_float(raw)
+    if tol is None:
+        raise ValueError(f"gold item {it.get('id')!r} has an unreadable tolerance: {raw!r}")
+    return tol
 
 
 def numbers_match(expected: float, tol: float, found: list[float]) -> bool:
@@ -139,7 +165,8 @@ def score_exact(it: dict, rec: dict) -> bool | None:
     if not exp:
         return None
     found = [float(x) for x in A.numbers_in(A.strip_cites(text))]
-    return all(numbers_match(v, tolerance_of(it), found) for v in exp)
+    tol = tolerance_or_exact(it)
+    return all(numbers_match(v, tol, found) for v in exp)
 
 
 MH_COMPONENTS = ("price", "publishers", "n_docs", "used_by_d", "date")
@@ -156,8 +183,8 @@ def found_components(it: dict, rec: dict) -> set[str]:
     found_nums = [float(x) for x in A.numbers_in(text)]
     ans = answer_dict(it)
     out: set[str] = set()
-    price = ans.get("price")
-    if isinstance(price, (int, float)) and numbers_match(float(price), tolerance_of(it), found_nums):
+    price = M.as_float(ans.get("price"))
+    if price is not None and numbers_match(price, tolerance_or_exact(it), found_nums):
         out.add("price")
     pubs = ans.get("publishers") or []
     if pubs and any(str(p).lower() in low for p in pubs):

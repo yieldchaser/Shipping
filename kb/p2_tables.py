@@ -22,6 +22,7 @@ from datetime import date
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import money as M  # noqa: E402  the single config/printed-numeric guard
 import p2_series as P2  # noqa: E402  reuse to_number/parse_date/resolve_doc/sha16
 import p2_transactions as TX  # noqa: E402  reuse vessel_key/get/norm_counterparty
 
@@ -102,9 +103,19 @@ NON_DEAL_KEYS = ("indicative_demolition_prices", "newbuilding_prices", "chartere
 
 
 def _num(v):
-    if v is None or isinstance(v, (int, float)):
-        return float(v) if v not in (None, "") else None
-    return P2.to_number(str(v))
+    """A printed price cell as a real finite float, else `None`.
+
+    Rows carry the printed string for most publishers and an already-parsed number for some, so the
+    string arm stays `p2_series.to_number` ($/,/() handling). The numeric arm goes through
+    `money.as_float`: `bool` is an `int` in Python, so the old `isinstance(v, (int, float))` would have
+    booked `$1` for a cell reading `true`, and a `NaN` cell would have carried `nan` straight into a
+    claim's `price_val` and its dedupe key. Live sidecars hold 0 bool / 0 NaN among 176,043 price
+    cells, so this closes a latent fabrication rather than an observed one - the value outlives the
+    read, which is exactly why the guard belongs at the read.
+    """
+    if isinstance(v, str):
+        return P2.to_number(v)
+    return M.as_float(v)
 
 
 def iter_sidecars():

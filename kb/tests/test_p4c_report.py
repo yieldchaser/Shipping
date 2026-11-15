@@ -298,6 +298,9 @@ def test_rule6_and_recall_readers(tmp_path):
     # The fixture used to carry `est_usd`/`cap_usd` - the vocabulary this reader *asked* for and that
     # `p4c_ladder` never wrote - so the round-trip looked healthy while §12 rendered `$None of $None
     # cap`. Pin the real ladder keys (`spent`/`cap`) AND that the dead vocabulary is not what is read.
+    # `cap: 17.0` is deliberately NOT the config booking (11.0): this fixture pins the reader's key, not
+    # the policy number. The booking itself is pinned by test_p4c_ladder.py:256-268, which asserts the
+    # live default equals config and that config is no longer 17.
     assert r6["escalation_est_usd"] == 0.07 and r6["escalation_cap_usd"] == 17.0
     plan.write_text(json.dumps({"escalation": {"est_usd": 0.07, "cap_usd": 17.0}}), encoding="utf-8")
     dead = P.rule6(plan)

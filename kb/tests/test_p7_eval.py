@@ -35,6 +35,29 @@ def test_gold_numbers_and_tolerance():
     assert E.unit_of(it) == "usd/day"
 
 
+def test_absent_tolerance_is_an_exact_match_but_an_unreadable_one_refuses():
+    """Absent and unreadable must not be collapsed into one invented `0.0`.
+
+    Every live `c_multihop_entity` item (35/35) has no `tolerance` key: for that type the authoring
+    convention *is* exact match, so its absence is declared semantics, not a failed read.
+    """
+    absent = item("G-5", "c_multihop_entity", {"price": 17.6, "publishers": ["broker_a"]})
+    assert E.tolerance_of(absent) is None
+    assert E.tolerance_or_exact(absent) == 0.0
+
+    stated = item("G-6", "a_single_number", {"value": 1.0, "tolerance": 0})
+    assert E.tolerance_of(stated) == 0.0          # an authored 0.0 is a real measurement
+    assert E.tolerance_or_exact(stated) == 0.0
+
+    # Present but not a real finite number: `true` used to be accepted by isinstance(True, int) and
+    # grade exact; NaN/inf used to pass isinstance too. All three are broken reads, never a tolerance.
+    for bad in (True, False, float("nan"), float("inf"), "0.01", [0.01]):
+        corrupt = item("G-7", "a_single_number", {"value": 1.0, "tolerance": bad})
+        assert E.tolerance_of(corrupt) is None, bad
+        with pytest.raises(ValueError):
+            E.tolerance_or_exact(corrupt)
+
+
 def test_score_exact_single_number():
     it = item("G-1", "a_single_number", {"value": 24500.0, "tolerance": 10})
     assert E.score_exact(it, {"status": "ok", "answer": "Capesize averaged 24,500 usd/day."}) is True

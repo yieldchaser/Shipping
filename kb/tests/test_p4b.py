@@ -193,6 +193,10 @@ def test_runner_cost_is_unmeasured_not_zero_when_nothing_prices_the_call():
 
 def test_ledger_roundtrip_and_spend_sum(tmp_path, monkeypatch):
     monkeypatch.setattr(R, "LEDGER", tmp_path / "ledger.sqlite")
+    # `_SCHEMA_INIT` is a module global that any earlier test has already flipped True against the
+    # real ledger, so `init_ledger()` would early-return and this tmp DB would have no `jobs` table
+    # ("no such table: jobs" — order-dependent, passes alone). Same guard the sibling ledger tests use.
+    monkeypatch.setattr(R, "_SCHEMA_INIT", False)
     con = R.connect()
     job = {"job_key": "k1", "model": "deepseek-v4-pro", "meta": {"chunk": "c1"}}
     R._ledger_lock = R.threading.Lock()
@@ -618,3 +622,332 @@ def test_cap_arg_prefers_the_operator_cap_and_never_clamps_an_unmeasured_read(mo
     monkeypatch.setattr(B.R, "spent_exact", lambda *a, **k: 10.0)
     assert B.cap_arg(None) is None                     # unreadable config -> unmeasured
     assert B.cap_arg(0.0) == 0.0                       # `0.0` stays a deliberate operator choice
+
+
+# --- money tri-state in the P4b scoring / selection block ------------------------------------
+
+def _row(model, *, f1=0.90, projected=5.0, per_chunk=None, cost=None, out_tok=100.0, precision=0.95):
+    """One `score_model` row with the money fields under test left explicit."""
+    return {"model": model, "precision": precision, "recall": 0.90, "f1": f1,
+            "call_success_rate": 1.0, "record_drop_rate": 0.0,
+            "cost_usd": cost, "cost_per_chunk_usd": per_chunk,
+            "projected_full_scope_usd": projected, "out_tok_per_call": out_tok,
+            "calls": 1, "clean_calls": 1}
+
+
+def _score_harness(monkeypatch, tmp_path, rows, *, allowance=31.25, pipe_cap=82.0, spent_now=10.0,
+                   ref_ledger=None):
+    """Drive `B.cmd_score` over a synthetic model table, then read back the written report.
+
+    The selection block is pure arithmetic over `score_model` rows, so the money tri-state can be
+    pinned here without a ledger, models or raw responses.
+    """
+    import p4b_run as B
+    item = {"chunk_id": "C1", "known": [], "sentences": [(0, "lead")]}
+    monkeypatch.setattr(B, "load_items", lambda: [item])
+    monkeypatch.setattr(B, "build_reference", lambda items, adj=None, refs=None: {})
+    monkeypatch.setattr(B, "evaluate", lambda pass_name, model, items_: {
+        "model": model, "chunks": {"C1": {"records": []}}, "supplement_chunks": 0,
+        "records_total": 0, "records_ok": 0, "calls": 1, "clean_calls": 1, "schema_fail": 0,
+        "blank": 0, "chunks_with_drop": 0, "chunks_with_records": 1, "reasons": {}, "errors": {},
+        "latency_ms": [], "in_tok": 0, "out_tok": 0, "cached_tok": 0})
+    monkeypatch.setattr(B, "ledger_cost", lambda pass_name, model: (ref_ledger or {}).get(model))
+    monkeypatch.setattr(B, "score_model", lambda items_, ev, reference, cand_adj=None: dict(rows[ev["model"]]))
+    monkeypatch.setattr(B, "p4c_allowance", lambda: allowance)
+    monkeypatch.setattr(B, "pipeline_cap", lambda: pipe_cap)
+    monkeypatch.setattr(B.R, "spent_exact", lambda *a, **k: spent_now)
+    monkeypatch.setattr(B, "provider_of", lambda m: {"id": "nim"})
+    monkeypatch.setattr(B, "load_modes", lambda: {})
+    monkeypatch.setattr(B, "write_md", lambda *a, **k: None)
+    monkeypatch.setattr(B, "REFERENCE_MODELS", ["r1", "r2"])
+    monkeypatch.setattr(B, "CANDIDATES", [m for m in rows if m not in ("r1", "r2")])
+    monkeypatch.setattr(B, "STATE", tmp_path)
+    monkeypatch.setattr(B, "GOLD", tmp_path)
+    monkeypatch.setattr(B, "REPORTS", tmp_path)
+    monkeypatch.setattr(B, "KB", tmp_path)
+    monkeypatch.setattr(B, "_EV_COST", {})
+    assert B.cmd_score() == 0
+    return json.loads((tmp_path / "p4b.json").read_text(encoding="utf-8"))
+
+
+def test_a_measured_zero_remaining_cap_still_fits_a_zero_projection(monkeypatch, tmp_path):
+    """`or 1e9` inverted `fits_remaining_pipeline_cap`: a measured `$0.00` projection read as "no fit".
+
+    `projected_full_scope_usd == 0.0` is a *measurement* (a free transport), and `remaining == 0.0` is
+    the operator's cap exactly met. `0.0 <= 0.0` is True; only `None` — unmeasured — is genuinely
+    unknown, and it must read False rather than "too expensive" (Defect 17/21 class, Lesson 69).
+    """
+    out = _score_harness(monkeypatch, tmp_path,
+                         {"r1": _row("r1"), "r2": _row("r2"),
+                          "A": _row("A", f1=0.92, projected=0.0, per_chunk=0.0),
+                          "B": _row("B", f1=0.90, projected=0.0, per_chunk=0.0)},
+                         pipe_cap=10.0, spent_now=10.0)
+    fe = out["p4c_feasibility"]
+    assert fe["remaining_pipeline_usd"] == 0.0                      # measured zero, not None
+    assert fe["chosen_model"] == "A"                                # tie -> higher F1, not cheaper-read
+    assert fe["paid_overflow"]["B"]["projected_full_scope_usd"] == 0.0
+    assert fe["paid_overflow"]["B"]["fits_remaining_pipeline_cap"] is True
+    mix = fe["mixed_pool_one_day"]
+    assert mix["paid_cost_usd"] == 0.0                              # measured zero stays a zero
+    assert mix["total_with_spent_usd"] == 10.0
+    assert mix["fits_pipeline_cap"] is True                         # 10.0 <= cap exactly
+
+
+def test_an_unreadable_pipeline_cap_makes_every_fit_test_false_not_true(monkeypatch, tmp_path):
+    """A cap that cannot be read makes the remainder unmeasured, so no model can be reported as fitting.
+
+    The old `or 1e9` default made unmeasured read as "enormous budget"; the old `max(0.0, ...)` made it
+    read as "exhausted". Both are fabricated measurements of a value nobody read (Defect 17 class).
+    """
+    out = _score_harness(monkeypatch, tmp_path,
+                         {"r1": _row("r1"), "r2": _row("r2"),
+                          "A": _row("A", f1=0.92, projected=0.0, per_chunk=0.0),
+                          "B": _row("B", f1=0.90, projected=0.0, per_chunk=0.0)},
+                         pipe_cap=None, spent_now=10.0)
+    fe = out["p4c_feasibility"]
+    assert fe["pipeline_cap_usd"] is None
+    assert fe["remaining_pipeline_usd"] is None
+    assert fe["paid_overflow"]["B"]["fits_remaining_pipeline_cap"] is False
+    # No overflow pool can be priced without a readable cap, so the mixed pool is not claimed at all.
+    assert fe["mixed_pool_one_day"] is None
+    assert fe["spent_usd"] == 10.0                                  # the ledger read still stands
+
+
+def test_an_unreadable_ledger_keeps_spent_and_total_unmeasured(monkeypatch, tmp_path):
+    """No ledger sum -> every spend field reads `None`; nothing is coerced to a measured `$0.0000`."""
+    out = _score_harness(monkeypatch, tmp_path,
+                         {"r1": _row("r1"), "r2": _row("r2"),
+                          "A": _row("A", f1=0.92, projected=0.0, per_chunk=0.0),
+                          "B": _row("B", f1=0.90, projected=0.0, per_chunk=0.0)},
+                         pipe_cap=82.0, spent_now=None)
+    fe = out["p4c_feasibility"]
+    assert fe["spent_usd"] is None
+    assert fe["remaining_pipeline_usd"] is None
+    assert fe["paid_overflow"]["B"]["fits_remaining_pipeline_cap"] is False
+    # the remainder is unmeasured for the same reason, so the mixed pool cannot be priced either
+    assert fe["mixed_pool_one_day"] is None
+    assert out["spend"]["pipeline_spent_before_p4b_usd"] is None
+    assert out["spend"]["total_usd"] is None
+    assert out["spend"]["unmeasured_passes"]                     # the unmeasured passes are named
+    assert out["spend"]["adjudication_usd"] is None
+
+
+def test_a_model_with_an_unmeasured_projection_is_never_the_cheap_choice(monkeypatch, tmp_path):
+    """Affordability needs a measured projection: `None` is unknown, so it cannot win a `min` on cost.
+
+    Coercing an absent projection to `0.0` (the old `.get(model, 0.0)` shape) would make the model with
+    no ledger row the cheapest and preselect an unpriced extractor for the full P4c scope.
+    """
+    out = _score_harness(monkeypatch, tmp_path,
+                         {"r1": _row("r1"), "r2": _row("r2"),
+                          "A": _row("A", f1=0.92, projected=None, per_chunk=None),
+                          "B": _row("B", f1=0.90, projected=5.0, per_chunk=0.05)})
+    assert out["models"]["A"]["projected_full_scope_usd"] is None
+    assert out["selected"]["model"] == "B"                          # the only *measured* projection
+    assert out["selected"]["projected_full_scope_usd"] == 5.0
+    assert out["selected"]["within_p4c_allowance"] is True
+    assert "A" not in out["p4c_feasibility"]["paid_overflow"]       # unmeasured not offered as overflow
+    assert set(out["p4c_feasibility"]["paid_overflow"]) == set()
+
+
+def test_nothing_is_selected_and_no_feasibility_is_claimed_when_every_projection_is_unmeasured(
+        monkeypatch, tmp_path):
+    """All-unmeasured projections -> no choice, no feasibility block, and the gate does not pass."""
+    out = _score_harness(monkeypatch, tmp_path,
+                         {"r1": _row("r1"), "r2": _row("r2"),
+                          "A": _row("A", f1=0.92, projected=None, per_chunk=None),
+                          "B": _row("B", f1=0.90, projected=None, per_chunk=None)})
+    assert out["selected"] is None
+    assert out["p4c_feasibility"] is None
+    gr = out["gate_results"]
+    assert gr["chosen_bulk_precision"]["measured"] is None
+    assert gr["chosen_bulk_precision"]["pass"] is False
+    assert gr["chosen_bulk_gate_pass_rate"]["measured"] is None
+    assert gr["all_pass"] is False
+
+
+# --- runner: an unreadable budget must not start work ----------------------------------------
+
+def _frozen_runner(monkeypatch, R, *, cap_usd=5.0):
+    """A `Runner` with no ledger/config/lock dependencies — only the cap arithmetic under test."""
+    monkeypatch.setattr(R, "connect", lambda: None)
+    monkeypatch.setattr(R, "price_table", lambda: {})
+    return R.Runner("p4b_cand", "v1", cap_usd=cap_usd)
+
+
+def test_budget_left_is_unmeasured_when_the_pipeline_cap_cannot_be_read(monkeypatch):
+    import runner as R
+    monkeypatch.setattr(R, "pipeline_cap", lambda: None)
+    monkeypatch.setattr(R, "spent", lambda *a, **k: 0.0)
+    r = _frozen_runner(monkeypatch, R)
+    assert r.pipeline_cap is None
+    assert r.budget_left() is None          # not `min(5.0, -inf)`, and not a fabricated `0.0`
+
+
+def test_run_launches_no_worker_against_an_unreadable_pipeline_cap(monkeypatch):
+    """`None` headroom -> refuse before any queue/executor/coroutine exists.
+
+    `(self.budget_left() or 0.0) <= 0` would read the unmeasured budget as an exhausted one, and a
+    fabricated `0.0` here starts a pass whose spend nobody can price (Defect 17 class).
+    """
+    import runner as R
+    monkeypatch.setattr(R, "pipeline_cap", lambda: None)
+    monkeypatch.setattr(R, "spent", lambda *a, **k: 0.0)
+    r = _frozen_runner(monkeypatch, R)
+
+    class _Boom:
+        def __init__(self, *a, **k):
+            raise AssertionError("a worker pool was built against an unmeasured cap")
+
+    msgs = []
+    monkeypatch.setattr(R.concurrent.futures, "ThreadPoolExecutor", _Boom)
+    monkeypatch.setattr(R, "asyncio", object())   # touched only if `run` reaches `asyncio.run`
+    monkeypatch.setattr(R, "log", msgs.append)
+    assert r.budget_left() is None
+    assert r.run([{"model": "m", "job_key": "k", "messages": [], "extra_body": {}}]) == {}
+    assert r.stats["calls"] == 0
+    assert any("pipeline cap unreadable" in m for m in msgs)
+
+
+def test_run_launches_no_worker_when_a_measured_budget_is_exhausted(monkeypatch):
+    """The measured-zero branch stays separate and still refuses, with its own message."""
+    import runner as R
+    monkeypatch.setattr(R, "pipeline_cap", lambda: 10.0)
+    monkeypatch.setattr(R, "spent", lambda *a, **k: 10.0)
+    r = _frozen_runner(monkeypatch, R, cap_usd=10.0)
+
+    class _Boom:
+        def __init__(self, *a, **k):
+            raise AssertionError("a worker pool was built against an exhausted budget")
+
+    msgs = []
+    monkeypatch.setattr(R.concurrent.futures, "ThreadPoolExecutor", _Boom)
+    monkeypatch.setattr(R, "asyncio", object())
+    monkeypatch.setattr(R, "log", msgs.append)
+    assert r.budget_left() == 0.0           # measured zero: a real measurement, not None
+    assert r.run([{"model": "m", "job_key": "k", "messages": [], "extra_body": {}}]) == {}
+    assert r.stats["calls"] == 0
+    assert any("budget already exhausted" in m for m in msgs)
+
+
+# --- p4b_run: spend fields survive an unmeasured ledger ---------------------------------------
+
+def _fake_runner(stats=None):
+    class _Fake:
+        def __init__(self):
+            self.stats = {"calls": 0, "ok": 1, "cached": 0, "errors": 0, "retries": 0,
+                          "cost": 0.0, "in_tok": 10, "out_tok": 20, "cached_tok": 0}
+            self.stats.update(stats or {})
+
+        def run(self, jobs):
+            return {}
+    return _Fake()
+
+
+def test_run_extraction_keeps_an_unmeasured_spend_unmeasured(monkeypatch):
+    """The pass delta and the pass total are `None` when neither ledger read landed."""
+    import p4b_run as B
+    item = {"chunk_id": "C1", "known": [], "sentences": [(0, "lead")]}
+    monkeypatch.setattr(B, "load_items", lambda: [item])
+    monkeypatch.setattr(B, "build_packs", lambda items: [{"key": "p1", "chunk_ids": ["C1"]}])
+    monkeypatch.setattr(B, "load_modes", lambda: {"m1": "enabled"})
+    monkeypatch.setattr(B, "make_job", lambda pass_name, model, mode, pack: {"model": model, "job_key": "k"})
+    monkeypatch.setattr(B, "runner_for", lambda pass_name, model, cap: _fake_runner())
+    monkeypatch.setattr(B, "load_result", lambda pass_name, job: None)
+    reads = [None, None, None]
+    monkeypatch.setattr(B.R, "spent_exact", lambda *a, **k: reads.pop(0))
+    msgs = []
+    monkeypatch.setattr(B, "log", msgs.append)
+    meta = B.run_extraction("p4b_cand", ["m1"], 1.0)
+    assert meta["models"]["m1"]["cost_usd"] is None
+    assert meta["cost"] is None
+    assert any("spend=UNMEASURED" in m for m in msgs)
+
+
+def test_run_extraction_reports_a_measured_zero_spend_as_zero(monkeypatch):
+    """A readable ledger that booked nothing is a measurement: `0.0`, rendered `$0.0000`."""
+    import p4b_run as B
+    item = {"chunk_id": "C1", "known": [], "sentences": [(0, "lead")]}
+    monkeypatch.setattr(B, "load_items", lambda: [item])
+    monkeypatch.setattr(B, "build_packs", lambda items: [{"key": "p1", "chunk_ids": ["C1"]}])
+    monkeypatch.setattr(B, "load_modes", lambda: {"m1": "enabled"})
+    monkeypatch.setattr(B, "make_job", lambda pass_name, model, mode, pack: {"model": model, "job_key": "k"})
+    monkeypatch.setattr(B, "runner_for", lambda pass_name, model, cap: _fake_runner())
+    monkeypatch.setattr(B, "load_result", lambda pass_name, job: None)
+    reads = [0.0, 0.0, 0.0]
+    monkeypatch.setattr(B.R, "spent_exact", lambda *a, **k: reads.pop(0))
+    msgs = []
+    monkeypatch.setattr(B, "log", msgs.append)
+    meta = B.run_extraction("p4b_cand", ["m1"], 1.0)
+    assert meta["models"]["m1"]["cost_usd"] == 0.0
+    assert meta["cost"] == 0.0
+    assert any("spend=$0.0000" in m for m in msgs)
+
+
+def test_cmd_supplement_books_an_unmeasured_cost_as_null(monkeypatch, tmp_path, capsys):
+    """`cost_usd` is written as JSON null, not `0.0`, when the ledger sum is unavailable."""
+    import p4b_run as B
+    monkeypatch.setattr(B, "load_items", lambda: [{"chunk_id": "C1"}])
+    monkeypatch.setattr(B, "missing_for_model", lambda pass_name, model, items: [])
+    monkeypatch.setattr(B, "supplement_reference", lambda model, missing, cap, *a: 0)
+    monkeypatch.setattr(B, "STATE", tmp_path)
+    monkeypatch.setattr(B.R, "spent_exact", lambda *a, **k: None)
+    assert B.cmd_supplement(["m1"]) == 0
+    captured = capsys.readouterr().out
+    printed = json.loads(captured[captured.index("{"):])     # the payload follows the log lines
+    on_disk = json.loads((tmp_path / "supplement.json").read_text(encoding="utf-8"))
+    assert printed["cost_usd"] is None
+    assert on_disk["cost_usd"] is None
+    assert json.dumps(on_disk).count("0.0") == 0
+
+
+def test_cmd_fill_candidates_books_an_unmeasured_cost_as_null(monkeypatch, tmp_path, capsys):
+    import p4b_run as B
+    monkeypatch.setattr(B, "load_items", lambda: [{"chunk_id": "C1"}])
+    monkeypatch.setattr(B, "missing_for_model", lambda pass_name, model, items: [])
+    monkeypatch.setattr(B, "supplement_reference", lambda model, missing, cap, *a: 0)
+    monkeypatch.setattr(B, "STATE", tmp_path)
+    monkeypatch.setattr(B.R, "spent_exact", lambda *a, **k: None)
+    assert B.cmd_fill_candidates(["m1"]) == 0
+    captured = capsys.readouterr().out
+    printed = json.loads(captured[captured.index("{"):])
+    on_disk = json.loads((tmp_path / "candidates_fill.json").read_text(encoding="utf-8"))
+    assert printed["cost_usd"] is None
+    assert on_disk["cost_usd"] is None
+
+
+def test_cmd_adjudicate_books_an_unmeasured_cost_as_null(monkeypatch, tmp_path, capsys):
+    """With no adjudication work and an unreadable ledger the payload cost is null and logged UNMEASURED."""
+    import p4b_run as B
+    monkeypatch.setattr(B, "load_items", lambda: [{"chunk_id": "C1", "known": [], "sentences": [(0, "lead")]}])
+    monkeypatch.setattr(B, "evaluate", lambda pass_name, model, items: {"model": model, "chunks": {}})
+    monkeypatch.setattr(B, "STATE", tmp_path)
+    monkeypatch.setattr(B.R, "spent_exact", lambda *a, **k: None)
+    assert B.cmd_adjudicate() == 0
+    out = capsys.readouterr().out
+    on_disk = json.loads((tmp_path / "adjudication.json").read_text(encoding="utf-8"))
+    assert on_disk["cost_usd"] is None
+    assert on_disk["candidate_items"] == []
+    assert "spend=UNMEASURED" in out
+
+
+def test_supplement_reference_logs_an_unmeasured_fill_spend_as_unmeasured(monkeypatch):
+    """The per-fill log line is the only spend output here: it must render `UNMEASURED`, not `$0.0000`."""
+    import p4b_run as B
+    item = {"chunk_id": "C1", "known": [], "sentences": [(0, "lead")]}
+    monkeypatch.setattr(B, "load_items", lambda: [item])
+    monkeypatch.setattr(B, "load_modes", lambda: {"m1": "enabled"})
+    monkeypatch.setattr(B, "make_single_job", lambda pass_name, model, mode, it: {"model": model, "job_key": "k"})
+    monkeypatch.setattr(B, "runner_for", lambda pass_name, model, cap: _fake_runner())
+    monkeypatch.setattr(B, "gate_single", lambda pass_name, model, it: {"kept": {}})
+    reads = [None, None]
+    monkeypatch.setattr(B.R, "spent_exact", lambda *a, **k: reads.pop(0))
+    msgs = []
+    monkeypatch.setattr(B, "log", msgs.append)
+    assert B.supplement_reference("m1", ["C1"], 1.0) == 1
+    assert any("spend=UNMEASURED" in m for m in msgs)
+
+    monkeypatch.setattr(B.R, "spent_exact", lambda *a, **k: 0.0)
+    msgs.clear()
+    assert B.supplement_reference("m1", ["C1"], 1.0) == 1
+    assert any("spend=$0.0000" in m for m in msgs)
