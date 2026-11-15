@@ -44,7 +44,16 @@ def load_json(path: Path, default=None):
         return default
 
 
-def spend_usd() -> float:
+def spend_usd() -> float | None:
+    """Real pipeline spend from the ledger, or None if it cannot be read.
+
+    Was `-> float` with `except sqlite3.Error: return 0.0`. That is the Defect 17 shape a second time:
+    the C2 packet is the owner's *approval* artefact and it prints "real pipeline spend $X of the $82
+    cap", so an unreadable/locked ledger made it assert **$0.0000** — a confident false statement about
+    money, in the one document whose whole purpose is to justify publishing. `p6_summary.phase_spend_usd`
+    already returns None for exactly this reason; \"unmeasured\" is the honest value, and a reader can
+    tell it apart from \"measured, and it was zero\".
+    """
     try:
         con = sqlite3.connect(f"file:{LEDGER}?mode=ro", uri=True)
         try:
@@ -52,8 +61,14 @@ def spend_usd() -> float:
         finally:
             con.close()
         return round(float(row[0] or 0.0), 4)
-    except sqlite3.Error:
-        return 0.0
+    except (sqlite3.Error, OSError, ValueError):
+        return None
+
+
+def spend_text(report: dict) -> str:
+    """`$1.2345`, or `UNMEASURED (ledger unreadable)` — never a fake `$0.0000`."""
+    v = report.get("money_spent_usd")
+    return f"${v:.4f}" if isinstance(v, (int, float)) else "UNMEASURED (ledger unreadable)"
 
 
 def _mean(values: list[float]) -> float | None:
@@ -123,7 +138,7 @@ def check_discovery(dc: dict) -> dict:
 
 
 def build(ev: dict | None, rb: dict | None, bt: dict | None, dc: dict | None,
-          spend: float, wall: float | None = None) -> dict:
+          spend: float | None, wall: float | None = None) -> dict:
     eval_c = check_eval(ev or {})
     rubric_c = check_rubric(rb or {})
     bt_c = check_backtest(bt or {})
@@ -133,7 +148,7 @@ def build(ev: dict | None, rb: dict | None, bt: dict | None, dc: dict | None,
     report = {
         "phase": PHASE, "built_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
         "wall_seconds": wall if wall is not None else 0.0,
-        "money_spent_usd": round(float(spend or 0.0), 4),
+        "money_spent_usd": (None if spend is None else round(float(spend), 4)),
         "targets": TARGETS, "rubric_target": RUBRIC_TARGET,
         "checks": checks,
         "gate": {"p7": ok},
@@ -158,7 +173,7 @@ def _md(report: dict) -> str:
     lines = [
         "# P7 — tools, answer contract, CLI, Q&A eval",
         "",
-        f"- result: **{'PASS' if report['pass'] else 'FAIL'}** · spend ${report['money_spent_usd']:.4f}"
+        f"- result: **{'PASS' if report['pass'] else 'FAIL'}** · spend {spend_text(report)}"
         f" · wall {report['wall_seconds']} s",
         f"- eval items: {report['counts']['eval_items']} · writer `{report['model']}` · "
         f"judge `{report['judge_model']}`",
@@ -203,7 +218,7 @@ def _c2_md(report: dict, dc: dict | None, rb: dict | None, bt: dict | None,
     lines = [
         "# C2 evaluation — P7 complete, request to publish the snapshot",
         "",
-        f"Built {report['built_at']} · real pipeline spend ${report['money_spent_usd']:.4f} of the "
+        f"Built {report['built_at']} · real pipeline spend {spend_text(report)} of the "
         f"$82 cap · result **{'PASS' if report['pass'] else 'FAIL'}**.",
         "",
         "## 1. Q&A eval (§12 targets)",

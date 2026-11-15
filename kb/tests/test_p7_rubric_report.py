@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import sqlite3
 import sys
 from pathlib import Path
 
@@ -310,6 +311,37 @@ def test_c2_packet_contents():
 def test_load_and_spend():
     assert P.load_json(Path("does-not-exist.json"), {"x": 1}) == {"x": 1}
     assert isinstance(P.spend_usd(), float)
+
+
+def test_unreadable_ledger_reports_unmeasured_not_zero(monkeypatch):
+    """Defect 17 class, second site: an unreadable ledger must NOT print `$0.0000`.
+
+    `money_spent_usd` appears in the C2 packet, the owner's approval artefact. A false `$0.0000`
+    there is a confident claim about money in the one document whose job is to justify publishing,
+    and it is indistinguishable from "measured, and it was zero".
+    """
+    def boom(*a, **k):
+        raise sqlite3.OperationalError("unable to open database file")
+
+    monkeypatch.setattr(P.sqlite3, "connect", boom)
+    assert P.spend_usd() is None
+
+    rep = P.build(good_eval(), good_rubric(), good_backtest(), good_discovery(), P.spend_usd(), 100.0)
+    assert rep["money_spent_usd"] is None
+    assert "$" not in P.spend_text(rep) and "UNMEASURED" in P.spend_text(rep)
+    assert "UNMEASURED" in P._md(rep)
+    c2 = P._c2_md(rep, good_discovery(), good_rubric(), good_backtest(), good_eval())
+    assert "UNMEASURED" in c2 and "$0.0000" not in c2
+    # An unmeasured spend is not a gate: the other four components still decide PASS on their own.
+    assert rep["pass"] is True
+
+
+def test_measured_zero_spend_still_prints_a_dollar_figure():
+    """The None path must not swallow a genuine 0.0 — these are different states."""
+    rep = P.build(good_eval(), good_rubric(), good_backtest(), good_discovery(), 0.0, 1.0)
+    assert rep["money_spent_usd"] == 0.0
+    assert P.spend_text(rep) == "$0.0000"
+
 
 
 def test_main_write_and_exit(tmp_path):
