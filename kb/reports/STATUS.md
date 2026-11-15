@@ -74,11 +74,10 @@ Ultrafast output today 1,268,319/4,800,000 tokens.
 
 Live pipeline spend 2026-11-15 (bulk daemon live, so this drifts upward): read it from the ledger,
 not from this file — `kb/state/ledger.sqlite` is the authority (sum `cost_usd` over all passes, or the
-query in the AMD amendment section below). At the last measurement: **$20.4732** ledger-measured by
-`runner.spent()` (`p4c_bulk`/`DeepSeek-V4.1-Flash` **$15.5105** of it, `p4c_bulk_retry` $0.1227,
-`p4c_esc_preflight` $0.0111, `p4b_cand` $0.6081); against the $82 cap that leaves **≈$61.53**. The
+query in the AMD amendment section below). At the last measurement: **$20.9118** ledger-measured by
+`runner.spent()` (`p4c_bulk`/`DeepSeek-V4.1-Flash` **$15.9492** of it, `p4c_bulk_retry` $0.1227,
+`p4c_esc_preflight` $0.0111, `p4b_cand` $0.6081); against the $82 cap that leaves **≈$61.09**. The
 ladder's `--cap 11` is a *booking* limit for escalation, not the pipeline cap.
-for escalation, not the pipeline cap.
 
 That headroom comfortably covers the remaining drain: the retry rung is ~2,137 AMD single-pack calls
 at the **ledger-measured `$0.1227 / 236 = $0.000520/call`** — a single-chunk call is half the price of
@@ -407,12 +406,17 @@ rehearsed on live AMD raws before the bulk pass finishes rather than after.
 `kb/state/kb.duckdb` **read-write** (`connect(db)` at L605, `ensure_schema` L606, then `DELETE`/`INSERT`
 per batch) — there is no `--db` sandbox for a dry run, so the proof run above wrote 11 edges / 116
 events / 107 claims / 59 event_roles / 14 record_txns into the production database and provisioned 114
-provisional `%:new:%` entities. Reverted exactly (graph tables were empty beforehand and the `%:new:%`
-ids were created by the run): now `edge 0, event 0, event_role 0, claim 0, record_txn 0`, entities
-73,427 = 59,216 / 13,906 / 305, `%:new:%` 0. The real P5 pass rewrites its scope by `chunk_id`, so a
+provisional `%:new:%` entities. The graph tables were reverted (`edge 0, event 0, event_role 0, claim 0,
+record_txn 0`, entities 73,427 = 59,216 / 13,906 / 305, `%:new:%` 0) — **but the revert was not exact, and
+this line said it was.** It removed the `entity` rows and left the **114 matching `alias` rows** behind,
+because nothing checked `alias`. Those 114 orphans are the direct cause of Defect 13 (see above): the first
+real P5 preflight crashed on them. As of the Defect 13 fix the gate checks `alias` too, so a partial revert
+can no longer hide here. The real P5 pass rewrites its scope by `chunk_id`, so a
 rehearsal cannot corrupt final output once the full run follows — but **any future slice rehearsal must
-be rolled back by hand before P5 is declared done**, and P5's own gates cannot detect the leftovers
-because they count the slice they were handed, not the table state.
+be rolled back by hand before P5 is declared done**. P5's gate two now reads table state for `alias`
+orphans (Defect 13), so an unrolled-back alias is caught; it still counts only `edge`/`event_role`/`claim`
+rows against the slice it was handed, so leftover graph records from a rehearsal slice are detected only if
+that slice is re-run.
 
 **Defect 8 — the P4c audit read the wrong row shape, so the §11 200-record gate could never be met.**
 Found by rehearsing `kb/p4c_audit.py --plan` against the real interim gate rows during the bulk wait
@@ -689,6 +693,36 @@ Every remaining default in the chain was re-checked against the sequence and is 
 `kb\state\gold\p4b_items.json`; `p4c_audit` (no `--gated`) → `union\gated_union.jsonl` once step 6 has
 unioned; `p4c_report --packs` / `--union` / `--ladder-plan` → exactly what steps 2-3 wrote; ladder
 `--retry-out` / `--esc-out` → the two `singles_*.jsonl` step 4-5 consume.
+
+**Defect 13 — P5's new-entity provisioning was not idempotent, and gate two was blind to the dirt class it created.** Found by running the real P5 preflight over the real 26,953-row union export (`kb/state/p4c/_rehearse/union4/gated_union.jsonl`) against a **pristine copy** of the production DB, instead of the unit fixtures. The preflight died:
+
+```
+_duckdb.ConstraintException: Constraint Error: Duplicate key
+  "alias_norm: A REFINING COMPANY, entity_id: company:new:a_refining_company"
+  violates primary key constraint.            kb\p5_build.py L316
+```
+
+`provision_new_entities` guards only on `entity` (`if eid in existing: continue`, L306); its `alias` insert has `PRIMARY KEY(alias_norm, entity_id)` in the real DB and no `ON CONFLICT`. DuckDB autocommits each `executemany`, so **any** interrupted or partial build leaves the alias rows committed with their entity rows lost, and the next build re-inserts the same key and aborts before a record is written.
+
+*Why the fixtures never saw it.* Three compounding holes, each individually sufficient:
+1. the test fixture's `alias` table had **no primary key** (`CREATE TABLE alias (…)`, no key clause), so a duplicate insert could not fail in a test;
+2. `test_build_is_idempotent` passes a payload that declares **no** new entity, so `provision_new_entities` returns at L301-302 and never reaches the insert — the idempotency test does not exercise the non-idempotent branch;
+3. the fixture DB is built fresh, so no pre-existing dirty row exists to trigger the conflict.
+
+*Measured on the real DB (read-only probes, `kb\_t_p5dirt.py`, `kb\_t_p5orphan.py`, `kb\_t_p5state.py`).* The production DB held exactly **114 `alias` rows with no matching `entity` row**, every one `source='p5_records'` and `%:new:%`; no other alias source contributed a single orphan. Of the 11,539 new ids the real union declares: **11,425 fully absent**, **114 entity-absent + alias-present**, **0** complete, **0** alias-absent. All 114 orphans are declared by the authoritative union, and **0** orphans are undeclared — so the residue is an interrupted-provisioning artifact of the Defect 7/8-era rehearsal that STATUS.md L406-415 recorded as "reverted exactly". That revert removed the `entity` rows and the `%:new:%` entities but left the `alias` rows behind, which is why the production DB carried this trap into the real run. **Repair, not purge, is the correct remedy**: the alias text is legitimate data about a declared entity, and purging it would delete the only surviving record of the name the first attempt approved.
+
+*Second, independent defect in the same area: gate two could not see the dirt.* `dangling_count` checked `edge`, `event_role` and `claim` against `entity` and **never checked `alias`**. So the 114 orphans sat in the production DB behind a green `dangling_entity_ids == 0` gate. An alias whose entity never landed is invisible to entity resolution and silently drops matches — the exact failure class the gate exists to catch.
+
+*Fix.* `provision_new_entities` (L290-319) now consults **both** tables via a new `aliased_entities(con, ids)` (batched by `SCAN`, mirroring `entity_map`'s `IN (…)` pattern): an id with both rows is left alone; an id with an alias row but no entity row is **repaired** — its already-recorded alias text becomes the canonical name, so the second insert for that id is skipped entirely and no duplicate alias key can be minted; every insert carries `ON CONFLICT DO NOTHING` (verified available: `kb\_t_duckconflict.py` → DuckDB 1.5.6). `dangling_count` now also counts `alias` orphans and folds them into `total`, so the gate covers the class it used to miss.
+
+*Proof, both directions, on the real inputs (zero spend, pristine DB copy re-copied before every run).*
+- The preflight that crashed now completes: `--limit 25` → `chunks 25/25`, gate `dangling_entity_ids` reported honestly instead of aborting.
+- `kb\_t_p5pre.py 200` on a fresh copy: **BEFORE** `entity 73,427 / alias 71,374 / edge 0 / event 0 / claim 0 / orphan_alias 114`; **AFTER** `orphan_alias 0`, `entity 73,560` (+133), `alias 71,393` (+19), `dangling {edge 0, event_role 0, claim 0, alias 0}`, `drops {}`, `INSERTED {edge 21, event 151, claim 147, event_role 79, record_txn 14}`. The arithmetic closes exactly: **114 repaired entities produced no new alias row** (their alias already existed) **+ 19 genuinely new entities produced 19 new alias rows = +133 entity / +19 alias**.
+- Second build on the same now-dirty copy: identical `INSERTED`, `orphan_alias 0`, counts unchanged — idempotent.
+- **Counter-direction:** reverted to the old `p5_build.py` with the new tests in place → both new tests fail with the exact production exception (`Duplicate key "alias_norm: ALUMINIUM, entity_id: commodity:new:aluminium"`, `kb\p5_build.py:316`); restored → both pass.
+- Fixture made faithful to the real schema (entity PK + `PRIMARY KEY (alias_norm, entity_id)`), otherwise the regression cannot reproduce production. Three new tests: `test_provisioning_survives_preexisting_orphan_alias` (seeds a dangling alias, asserts repair, `dangling_entity_ids == 0`, a second build stays clean, and zero orphans remain), `test_provisioning_keeps_existing_alias_text_over_declared_name`, `test_dangling_alias_row_is_visible_to_gate_two`. P5 file 22 → **25 passed**; full suite **402 → 405 passed**.
+
+Generalised lessons: **(50)** a guard that checks one table while the insert carries a primary key in another table is not idempotent — the async autocommit of a multi-statement "insert entity then insert alias" is what makes the partial state reachable; **(51)** a test fixture that omits the production schema's keys silently disables every test of that constraint; **(52)** an idempotency test that supplies no work to do passes without touching the code under test; **(53)** a gate that enumerates its checks by hand can be blind to a whole table — `alias` was never checked; **(54)** all four failure modes here were invisible to a green suite and only surfaced from executing the contract against production inputs; **(55)** a STATUS.md entry can assert a rollback was exact when only the table it checked was cleaned — the earlier "reverted exactly … `%:new:% 0`" claim was true of `entity` and false of `alias`.
 
 ### Amendment 9 — the fleet had no outer ring, so a host reboot ended the drain silently (2026-11-15)
 

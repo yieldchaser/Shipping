@@ -287,8 +287,35 @@ def row_new_entities(row: dict) -> dict[str, str]:
     return out
 
 
+def aliased_entities(con, ids: set[str]) -> dict[str, dict]:
+    """entity_id -> {alias, alias_norm} for ids that already carry an `alias` row."""
+    ids = {i for i in ids if i}
+    if not ids:
+        return {}
+    out: dict[str, dict] = {}
+    ids = list(ids)
+    for i in range(0, len(ids), SCAN):
+        part = ids[i:i + SCAN]
+        ph = ",".join("?" * len(part))
+        rows = con.execute(
+            f"select entity_id, alias, alias_norm from alias where entity_id in ({ph})", part).fetchall()
+        for eid, alias, alias_norm in rows:
+            out.setdefault(eid, {"alias": alias, "alias_norm": alias_norm})
+    return out
+
+
 def provision_new_entities(con, rows: list[dict]) -> dict[str, str]:
-    """Insert provisional `entity` + `alias` rows for declared new entities; return {id: name}."""
+    """Insert provisional `entity` + `alias` rows for declared new entities; return {id: name}.
+
+    The existence guard must cover BOTH tables. DuckDB autocommits each `executemany`, so a build
+    interrupted between the two inserts (or any partial run) leaves `alias` rows whose `entity` row
+    never landed and nothing rolls them back. Guarding on `entity` alone re-inserts the same
+    `(alias_norm, entity_id)` and dies on the alias primary key before a gate can even run — which
+    is exactly what 114 live residue rows did. Here an id with both rows is left alone, an id with
+    an alias row but no entity row is repaired (the alias text it already recorded becomes the
+    canonical name, so no duplicate alias key is minted), and every insert carries
+    `ON CONFLICT DO NOTHING` so a pre-existing row can never abort the build.
+    """
     wanted: dict[str, str] = {}
     for row in rows:
         for eid, name in row_new_entities(row).items():
@@ -301,21 +328,26 @@ def provision_new_entities(con, rows: list[dict]) -> dict[str, str]:
     if not wanted:
         return {}
     existing = entity_map(con, set(wanted))
+    aliased = aliased_entities(con, set(wanted) - set(existing))
     new_rows, alias_rows = [], []
     for eid, name in sorted(wanted.items()):
         if eid in existing:
             continue
         info = case_new(eid)
         attrs = json.dumps({"provisional": True, "origin": "p4c_new_entity"})
-        new_rows.append((eid, info["type"], name, attrs, "provisional", "p5_records"))
-        alias_rows.append((name, name.upper(), eid, "p5_records", 1.0, None, None, None))
+        prior = aliased.get(eid) or {}
+        canonical = prior.get("alias") or name
+        new_rows.append((eid, info["type"], canonical, attrs, "provisional", "p5_records"))
+        if eid not in aliased:
+            alias_rows.append((canonical, canonical.upper(), eid, "p5_records", 1.0, None, None, None))
     if new_rows:
         con.executemany(
             "INSERT INTO entity (entity_id, type, canonical_name, attrs, status, created_by) "
-            "VALUES (?,?,?,?,?,?)", new_rows)
-        con.executemany(
-            "INSERT INTO alias (alias, alias_norm, entity_id, source, confidence, merged_by, "
-            "valid_from, valid_to) VALUES (?,?,?,?,?,?,?,?)", alias_rows)
+            "VALUES (?,?,?,?,?,?) ON CONFLICT DO NOTHING", new_rows)
+        if alias_rows:
+            con.executemany(
+                "INSERT INTO alias (alias, alias_norm, entity_id, source, confidence, merged_by, "
+                "valid_from, valid_to) VALUES (?,?,?,?,?,?,?,?) ON CONFLICT DO NOTHING", alias_rows)
     return wanted
 
 
@@ -554,8 +586,16 @@ def dangling_count(con) -> dict:
         SELECT count(*) FROM (SELECT unnest(subject_ids) AS s FROM claim)
         WHERE s IS NOT NULL AND s <> '' AND s NOT IN (SELECT entity_id FROM entity)
     """).fetchone()[0]
+    # Gate two previously looked only at records, so 114 `alias` rows pointing at no `entity` row
+    # sat in the real DB behind a green gate. An alias whose entity never landed is invisible to
+    # entity resolution and silently drops matches.
+    alias_bad = con.execute("""
+        SELECT count(*) FROM alias a LEFT JOIN entity e ON a.entity_id = e.entity_id
+        WHERE e.entity_id IS NULL
+    """).fetchone()[0]
     return {"edge": int(edge_bad), "event_role": int(role_bad), "claim": int(claim_bad),
-            "total": int(edge_bad) + int(role_bad) + int(claim_bad)}
+            "alias": int(alias_bad),
+            "total": int(edge_bad) + int(role_bad) + int(claim_bad) + int(alias_bad)}
 
 
 def audit_quotes(db: Path = KB_DB, scan: int = SCAN) -> dict:

@@ -18,10 +18,13 @@ DDL = [
     "CREATE TABLE document (doc_id VARCHAR PRIMARY KEY, path VARCHAR, published_at DATE NOT NULL)",
     "CREATE TABLE chunk (chunk_id VARCHAR PRIMARY KEY, doc_id VARCHAR, body VARCHAR)",
     "CREATE TABLE sentence (chunk_id VARCHAR, sid INTEGER, start_char INTEGER, end_char INTEGER)",
-    "CREATE TABLE entity (entity_id VARCHAR, type VARCHAR, canonical_name VARCHAR, attrs JSON, "
-    "status VARCHAR, created_by VARCHAR)",
+    # Faithful to the real schema (`kb/state/kb.duckdb`): both keys are enforced there, and a fixture
+    # without the alias primary key cannot fail the way production does.
+    "CREATE TABLE entity (entity_id VARCHAR PRIMARY KEY, type VARCHAR, canonical_name VARCHAR, "
+    "attrs JSON, status VARCHAR, created_by VARCHAR)",
     "CREATE TABLE alias (alias VARCHAR, alias_norm VARCHAR, entity_id VARCHAR, source VARCHAR, "
-    "confidence FLOAT, merged_by VARCHAR, valid_from DATE, valid_to DATE)",
+    "confidence FLOAT, merged_by VARCHAR, valid_from DATE, valid_to DATE, "
+    "PRIMARY KEY (alias_norm, entity_id))",
     "CREATE TABLE transaction (txn_id VARCHAR PRIMARY KEY, kind VARCHAR, vessel_id VARCHAR, "
     "counterparties JSON, date_from DATE, date_to DATE, terms JSON, status VARCHAR)",
 ]
@@ -178,6 +181,86 @@ def test_build_inserts_records_and_clears_both_gates(db, tmp_path):
         assert ev[0] == "SALE" and ev[1] == dt.date(2026, 1, 1) and ev[2] == "USD 26 M"
         cl = con.execute("select kind, subject_ids, direction, horizon, quote from claim").fetchone()
         assert cl[0] == "forecast" and cl[1] == ["vessel:imo:1"]
+    finally:
+        con.close()
+
+
+def test_dangling_alias_row_is_visible_to_gate_two(db, tmp_path):
+    """Gate two must see orphan `alias` rows; it previously checked records only."""
+    run(db, tmp_path, [gated_row(kept={"state_facts": [state_fact()], "events": [], "claims": []})])
+    con = P.connect(db, read_only=True)
+    try:
+        assert P.dangling_count(con)["total"] == 0
+    finally:
+        con.close()
+    con = P.connect(db)
+    try:
+        con.execute("INSERT INTO alias VALUES (?,?,?,?,?,?,?,?)",
+                    ["ghost", "GHOST", "vessel:new:ghost", "p5_records", 1.0, None, None, None])
+    finally:
+        con.close()
+    con = P.connect(db, read_only=True)
+    try:
+        bad = P.dangling_count(con)
+        assert bad["alias"] == 1 and bad["total"] == 1
+    finally:
+        con.close()
+
+
+def test_provisioning_survives_preexisting_orphan_alias(db, tmp_path):
+    """An `alias` row whose `entity` row never landed must not crash a later build.
+
+    DuckDB autocommits each `executemany`, so an interrupted build can leave the alias insert
+    committed with the entity insert lost; the real DB held 114 such rows (all `p5_records`,
+    all `:new:`). Guarding on `entity` alone re-inserts the same `(alias_norm, entity_id)` and
+    violates the alias primary key. The build must repair the entity row instead.
+    """
+    nid = "vessel:new:mv-argo"
+    con = P.connect(db)
+    try:
+        con.execute("INSERT INTO alias VALUES (?,?,?,?,?,?,?,?)",
+                    ["MV Argo", "MV ARGO", nid, "p5_records", 1.0, None, None, None])
+    finally:
+        con.close()
+
+    kept = {"state_facts": [state_fact(src=nid)], "events": [], "claims": []}
+    row = gated_row(kept=kept, new_ok={nid: True}, new_names={nid: "MV Argo"})
+    report, _out, gated = run(db, tmp_path, [row])
+    assert report["inserted"]["edge"] == 1 and report["dangling_entity_ids"] == 0
+
+    second = P.build([gated], db=db, out=tmp_path / "p5b", progress=False)
+    assert second["inserted"]["edge"] == 1 and second["dangling_entity_ids"] == 0
+
+    con = P.connect(db, read_only=True)
+    try:
+        assert con.execute("select canonical_name, status, created_by from entity where entity_id = ?",
+                           [nid]).fetchone() == ("MV Argo", "provisional", "p5_records")
+        assert con.execute("select count(*) from alias where entity_id = ?", [nid]).fetchone()[0] == 1
+        assert con.execute(
+            "select count(*) from alias a left join entity e on a.entity_id = e.entity_id "
+            "where e.entity_id is null").fetchone()[0] == 0
+    finally:
+        con.close()
+
+
+def test_provisioning_keeps_existing_alias_text_over_declared_name(db, tmp_path):
+    """The recorded alias text wins, so no second alias key is minted for a case variant."""
+    nid = "commodity:new:aluminium"
+    con = P.connect(db)
+    try:
+        con.execute("INSERT INTO alias VALUES (?,?,?,?,?,?,?,?)",
+                    ["aluminium", "ALUMINIUM", nid, "p5_records", 1.0, None, None, None])
+    finally:
+        con.close()
+    row = gated_row(kept={"state_facts": [state_fact(src=nid)], "events": [], "claims": []},
+                    new_ok={nid: True}, new_names={nid: "Aluminium"})
+    report, _out, _g = run(db, tmp_path, [row])
+    assert report["inserted"]["edge"] == 1
+    con = P.connect(db, read_only=True)
+    try:
+        assert con.execute("select canonical_name from entity where entity_id = ?",
+                           [nid]).fetchone()[0] == "aluminium"
+        assert con.execute("select count(*) from alias where entity_id = ?", [nid]).fetchone()[0] == 1
     finally:
         con.close()
 
