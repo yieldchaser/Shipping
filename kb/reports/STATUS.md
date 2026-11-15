@@ -1020,6 +1020,18 @@ both ways against the real ledger: `p7_report.spend_usd()` → `24.7146` and the
 `spend $24.7146`, while pointing `P.LEDGER` at a missing file yields `None` and the md/C2 lines read
 `spend UNMEASURED (ledger unreadable)`. Suite **445 passed**; `pyflakes kb/p7_report.py` clean.
 
+Same section, same packet, adjacent defect: the C2 first line read "real pipeline spend $X **of the $82
+cap**", and `$82` was a **typed string**, while the cap actually lives in `kb/config.yaml`
+`budget.pipeline_cap_usd` — and that value has already been amended once on this project (the AMD
+rebooking changed the neighbouring numbers). A stale denominator is the same failure as a stale
+numerator: it turns "share of budget" into a false claim in the document that authorises publishing, and
+it is exactly the number a reader never re-derives. `build()` now records `pipeline_cap_usd` from
+`pipeline_cap()` (reads config; returns `None` on an unreadable/missing key rather than guessing), and
+`spend_text_full()` renders `$X.XXXX of the $82 cap` from that field, degrading to a bare `$X.XXXX` when
+the cap cannot be read — no invented denominator. Test asserts a monkeypatched 95.0 flows into both the
+JSON field and the C2 line, that `$82` is gone from that line, and that a `None` cap prints no "cap"
+wording at all. Suite **446 passed**.
+
 Checked the sibling readers for the same shape and left them alone: `runner.cost_usd` (L107-131) and
 `p4c_report.cost()` price *known* usage against a config tariff table, so a missing tariff there raises
 rather than inventing a number; `p7_eval.multihop_f1` and the `score_*` helpers return `0.0` for a

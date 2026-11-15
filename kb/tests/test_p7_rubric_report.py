@@ -343,6 +343,27 @@ def test_measured_zero_spend_still_prints_a_dollar_figure():
     assert P.spend_text(rep) == "$0.0000"
 
 
+def test_cap_comes_from_config_not_a_hardcoded_string(monkeypatch):
+    """The C2 packet's `$82 cap` denominator must be read, not typed.
+
+    The cap lives in `kb/config.yaml` `budget.pipeline_cap_usd`, and the project has already amended
+    it once. A stale hardcoded denominator turns "spend of cap" into a false claim in the artefact
+    that authorises publishing, and it is the kind of number a reader never re-checks.
+    """
+    assert P.pipeline_cap() == 82.0  # committed value
+    monkeypatch.setattr(P, "pipeline_cap", lambda: 95.0)
+    rep = P.build(good_eval(), good_rubric(), good_backtest(), good_discovery(), 1.0, 1.0)
+    assert rep["pipeline_cap_usd"] == 95.0
+    line = P._c2_md(rep, good_discovery(), good_rubric(), good_backtest(), good_eval()).splitlines()[2]
+    assert "of the $95 cap" in line and "$82" not in line
+    # An unreadable cap degrades to a plain amount rather than inventing a denominator.
+    monkeypatch.setattr(P, "pipeline_cap", lambda: None)
+    rep2 = P.build(good_eval(), good_rubric(), good_backtest(), good_discovery(), 1.0, 1.0)
+    line2 = P._c2_md(rep2, good_discovery(), good_rubric(), good_backtest(), good_eval()).splitlines()[2]
+    assert "spend $1.0000 ·" in line2 and "cap" not in line2
+
+
+
 
 def test_main_write_and_exit(tmp_path):
     ev = tmp_path / "eval.json"

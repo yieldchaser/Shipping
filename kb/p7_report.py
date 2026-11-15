@@ -71,6 +71,37 @@ def spend_text(report: dict) -> str:
     return f"${v:.4f}" if isinstance(v, (int, float)) else "UNMEASURED (ledger unreadable)"
 
 
+def pipeline_cap() -> float | None:
+    """The committed pipeline cap from `kb/config.yaml` `budget.pipeline_cap_usd`.
+
+    The C2 packet used to hardcode the string `$82` in its first line while the cap actually lives in
+    config and has already been amended once on this project. That denominator is exactly the kind of
+    number a reader trusts without checking, and a stale one turns "spend of cap" into a false
+    statement in the approval artefact. Read it; return None rather than guessing if unreadable, so the
+    packet says so instead of printing a number it cannot support.
+    """
+    try:
+        import yaml
+        cfg = yaml.safe_load((KB_DIR / "config.yaml").read_text(encoding="utf-8")) or {}
+        v = (cfg.get("budget") or {}).get("pipeline_cap_usd")
+        return float(v) if v is not None else None
+    except (OSError, ValueError, ImportError, AttributeError):
+        return None
+
+
+def spend_text_full(report: dict) -> str:
+    """`$1.2345 of the $82 cap`, degrading to a riderless amount / UNMEASURED.
+
+    Takes the cap from the report when `build` recorded it (so the rendered text matches the JSON),
+    and only falls back to reading config for reports built before the cap was added.
+    """
+    cap = report.get("pipeline_cap_usd")
+    if cap is None:
+        cap = pipeline_cap()
+    tail = f" of the ${cap:g} cap" if isinstance(cap, (int, float)) else ""
+    return spend_text(report) + tail
+
+
 def _mean(values: list[float]) -> float | None:
     vals = [v for v in values if isinstance(v, (int, float))]
     return round(sum(vals) / len(vals), 4) if vals else None
@@ -149,6 +180,7 @@ def build(ev: dict | None, rb: dict | None, bt: dict | None, dc: dict | None,
         "phase": PHASE, "built_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
         "wall_seconds": wall if wall is not None else 0.0,
         "money_spent_usd": (None if spend is None else round(float(spend), 4)),
+        "pipeline_cap_usd": pipeline_cap(),
         "targets": TARGETS, "rubric_target": RUBRIC_TARGET,
         "checks": checks,
         "gate": {"p7": ok},
@@ -218,8 +250,8 @@ def _c2_md(report: dict, dc: dict | None, rb: dict | None, bt: dict | None,
     lines = [
         "# C2 evaluation — P7 complete, request to publish the snapshot",
         "",
-        f"Built {report['built_at']} · real pipeline spend {spend_text(report)} of the "
-        f"$82 cap · result **{'PASS' if report['pass'] else 'FAIL'}**.",
+        f"Built {report['built_at']} · real pipeline spend {spend_text_full(report)} · "
+        f"result **{'PASS' if report['pass'] else 'FAIL'}**.",
         "",
         "## 1. Q&A eval (§12 targets)",
         "",
