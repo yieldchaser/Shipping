@@ -31,6 +31,8 @@ from pathlib import Path
 import duckdb
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "kb"))
+import money as M  # noqa: E402  the single finite-float guard for every numeric read
 
 
 def seed_for(phase):
@@ -68,7 +70,11 @@ def to_number(s):
         if not m:
             return None
         v = float(m.group(0))
-    return -v if neg else v
+    v = -v if neg else v
+    # Delegate to the single finite-float guard (`money.as_float`) instead of testing `inf` locally:
+    # the `"inf"` literal and an overflowed digit run are broken reads, not prices, and a local copy
+    # of the predicate is the duplication that re-admitted `bool` via `p2_tables._num`.
+    return M.as_float(v)
 
 
 def variants(raw_cell):

@@ -38,6 +38,8 @@ from pathlib import Path
 import duckdb
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "kb"))
+import money as M  # noqa: E402  the single finite-float guard for every numeric read
 DB = ROOT / "kb" / "state" / "kb.duckdb"
 REPORTS = ROOT / "kb" / "reports"
 SERIES = ROOT / "data" / "extracted" / "series"
@@ -87,9 +89,14 @@ def to_number(raw):
         else:
             s = "".join(parts)
     try:
-        return sign * float(s)
+        v = sign * float(s)
     except ValueError:
         return None
+    # Delegate to the single finite-float guard (`money.as_float`) rather than testing `inf` locally:
+    # an overflowed cell (`1` + 400 zeros) is a broken read, and a local copy of the predicate is the
+    # same duplication that let `bool` back in through `p2_tables._num`. `as_float` returns `None` for
+    # `inf`, `-inf` and `nan`, so a non-finite price reads unmeasured instead of being fabricated.
+    return M.as_float(v)
 
 
 def connect():

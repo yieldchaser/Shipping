@@ -31,15 +31,19 @@ ROOT = Path(__file__).resolve().parents[2]
 KB = ROOT / "kb"
 
 MONEY_MODULES = (
-    "money.py", "runner.py", "ask.py", "c1_review.py", "p2_tables.py", "p4a_report.py",
+    "money.py", "runner.py", "ask.py", "c1_review.py", "p2_tables.py", "p2_series.py",
+    "p2_report.py", "p2_known_values.py", "p4a_report.py",
     "p4b_run.py", "p4c_audit.py", "p4c_daemon.py", "p4c_glean.py", "p4c_highvalue.py",
     "p4c_ladder.py", "p4c_report.py", "p4c_run.py", "p5_build.py", "p6_summary.py",
     "p7_analyst.py", "p7_eval.py", "p7_report.py", "p7_rubric.py", "gold_report.py",
     "p3_report.py", "resume.py",
 )
 
-# Every function that reads a numeric out of `kb/config.yaml` or a report JSON on a money path.
-# Each must be a thin wrapper over `money.as_float`; the mapping is the invariant, asserted below.
+# Every function that reads a numeric out of `kb/config.yaml`, a report JSON, or a *printed numeric
+# cell* on a money path. Each must be a thin wrapper over `money.as_float`; the mapping is the
+# invariant, asserted below. The three P2 printed-cell parsers are separate implementations of the
+# same read, so each is listed: fixing one and missing another leaves the same fabrication reachable
+# through a different caller (`float("1" + "0"*400)` is `inf`, not an exception).
 ACCESSORS: dict[str, tuple[str, ...]] = {
     "money.py": ("as_float",),
     "runner.py": ("pipeline_cap",),
@@ -47,6 +51,9 @@ ACCESSORS: dict[str, tuple[str, ...]] = {
     "p4c_highvalue.py": ("bulk_budget",),
     "p4c_ladder.py": ("escalation_cap",),
     "p2_tables.py": ("_num",),
+    "p2_series.py": ("to_number",),
+    "p2_report.py": ("to_number",),
+    "p2_known_values.py": ("to_number",),
     "p7_report.py": ("_cap_num", "pipeline_cap"),
     "p7_eval.py": ("tolerance_of", "tolerance_or_exact"),
     "c1_review.py": ("_num",),

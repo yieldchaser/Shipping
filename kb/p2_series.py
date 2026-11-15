@@ -59,6 +59,8 @@ def free_ram_bytes():
 class MemoryPressure(Exception):
     pass
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "kb"))
+import money as M  # noqa: E402  the single finite-float guard for every numeric read
 DB = ROOT / "kb" / "state" / "kb.duckdb"
 SERIES = ROOT / "data" / "extracted" / "series"
 MAP = ROOT / "kb" / "series_map.yaml"
@@ -146,7 +148,14 @@ CREATE TABLE IF NOT EXISTS meta (key VARCHAR PRIMARY KEY, value JSON);
 """
 ISO_RE = re.compile(r"^(\d{4})-(\d{2})-(\d{2})$")
 def to_number(cell: str):
-    """Parse a numeric cell to float. Handles $ % , () -paren negatives. Returns None if non-numeric."""
+    """Parse a numeric cell to float. Handles $ % , () -paren negatives. Returns None if non-numeric.
+
+    A cell that is *numeric-looking* can still overflow to `inf`: `float("1" + "0"*400)` does not
+    raise, and `1e400` in a printed price column is a typo or a unit error, not a price. An infinite
+    price is the same Defect 17/21 fabrication as a `0.0` invented from a failed read - it flows into
+    the claim's `price_val`, its dedupe key and the D9 clusterer. Non-finite => unmeasured (`None`).
+    `nan` never reaches `float()` here because the `[A-Za-z]` reject above catches the literals.
+    """
     s = cell.strip()
     if not s:
         return None
@@ -164,7 +173,10 @@ def to_number(cell: str):
         v = float(s)
     except ValueError:
         return None
-    return -v if neg else v
+    # Delegate to the single finite-float guard rather than testing `isfinite` locally: `float()` does
+    # not raise on an overflowed cell (`1` + 400 zeros) and returns `inf`, which would enter the claim's
+    # `price_val` and its dedupe key as an infinite price. `as_float` -> `None` for `inf`/`-inf`/`nan`.
+    return M.as_float(-v if neg else v)
 def parse_date(s: str):
     s = (s or "").strip()
     m = ISO_RE.match(s)
