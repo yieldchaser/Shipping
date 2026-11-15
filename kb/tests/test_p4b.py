@@ -191,6 +191,67 @@ def test_runner_cost_is_unmeasured_not_zero_when_nothing_prices_the_call():
     assert R.cost_usd("deepseek-v4-pro", {"prompt_tokens": 10, "cost": 0.0}) == 0.0
 
 
+def test_runner_cost_rejects_an_unreadable_config_tariff(monkeypatch):
+    """Defect 23: the *config* arm of the same read, tested with a bare `isinstance`.
+
+    `price_in: true` and `price_out: true` pass `isinstance(x, (int, float))` -- `bool` is an `int`
+    in Python -- so the old guard booked a $1/M tariff nobody authored. `float("1" + "0"*400)` is
+    `inf` without raising, so a digit-run tariff booked an infinite cost into the ledger. Both are
+    unreadable reads and must price as UNMEASURED, through the one shared guard.
+    """
+    # `price_table()` re-reads the config on every call, so the *reader* is replaced, not the dict.
+    base = R.price_table()
+    assert R.cost_usd("deepseek-v4-pro", {"prompt_tokens": 1_000_000}) == 1.32  # baseline intact
+    for pin, pout, cached in ((True, 0.56, None),
+                              (0.28, False, None),
+                              (float("nan"), 0.56, None),
+                              (float("inf"), 0.56, None),
+                              ("1" + "0" * 400, 0.56, None),
+                              ("0.28", 0.56, None),
+                              (0.28, 0.56, True),
+                              (0.28, 0.56, "0.0056")):
+        spec = {"in": pin, "out": pout, "cached": cached}
+        monkeypatch.setattr(R, "price_table", lambda spec=spec: {"deepseek-v4-pro": spec})
+        assert R.cost_usd("deepseek-v4-pro",
+                          {"prompt_tokens": 10, "completion_tokens": 10}) is None, (pin, pout, cached)
+    # A genuine numeric tariff still prices, so the pin above is not vacuous.
+    good = {"in": 0.28, "out": 0.56, "cached": 0.0056}
+    monkeypatch.setattr(R, "price_table", lambda: {"deepseek-v4-pro": good})
+    assert R.cost_usd("deepseek-v4-pro", {"prompt_tokens": 10, "completion_tokens": 10}) > 0.0
+    monkeypatch.setattr(R, "price_table", lambda: base)
+    assert R.cost_usd("deepseek-v4-pro", {"prompt_tokens": 1_000_000}) == 1.32
+
+
+def test_runner_cost_treats_a_present_but_unreadable_usage_value_as_unmeasured(
+        monkeypatch):
+    """A *present* `usage` value that cannot be read is a broken measurement, not an absent one.
+
+    `float(usage.get("prompt_tokens", 0) or 0)` collapsed both into a zero token count, so a call
+    whose provider reported `"prompt_tokens": "many"` (or `true`, or `NaN`) was billed as if it had
+    sent no tokens -- an understated spend, the Defect-17 direction. `usage.cost` is treated the same
+    way: present-and-unreadable must NOT silently fall through to the config tariff, which would
+    report a different, fabricated number for a call the provider did price.
+    """
+    # Absent key = the documented absent-count convention: contributes 0 tokens, still priced.
+    assert R.cost_usd("deepseek-v4-pro", {"prompt_tokens": 1_000_000}) == 1.32
+    assert R.cost_usd("deepseek-v4-pro", {"completion_tokens": 0}) == 0.0
+    # Present but unreadable token counts: UNMEASURED, never a zero-token bill.
+    for bad in (True, "many", float("nan"), float("inf"), [1]):
+        assert R.cost_usd("deepseek-v4-pro",
+                          {"prompt_tokens": bad, "completion_tokens": 0}) is None
+        assert R.cost_usd("deepseek-v4-pro",
+                          {"prompt_tokens": 10, "completion_tokens": bad}) is None
+        assert R.cost_usd("deepseek-v4-pro",
+                          {"prompt_tokens": 10, "cached_tokens": bad}) is None
+    # Present but unreadable provider cost: UNMEASURED, and the tariff is not substituted for it.
+    # `deepseek-v4-pro` HAS a usable tariff, so a fall-through would return 1.32 here.
+    for bad in (True, "0.5", float("nan"), float("inf"), [0.5]):
+        assert R.cost_usd("deepseek-v4-pro", {"prompt_tokens": 0, "cost": bad}) is None
+    # An explicit null is the absent case, not a failed read: the tariff still prices the call.
+    assert R.cost_usd("deepseek-v4-pro", {"prompt_tokens": 1_000_000, "cost": None}) == 1.32
+    assert R.cost_usd("deepseek-v4-flash", {"prompt_tokens": 10, "cost": None}) is None
+
+
 def test_ledger_roundtrip_and_spend_sum(tmp_path, monkeypatch):
     monkeypatch.setattr(R, "LEDGER", tmp_path / "ledger.sqlite")
     # `_SCHEMA_INIT` is a module global that any earlier test has already flipped True against the

@@ -105,6 +105,20 @@ def price_table() -> dict:
     return out
 
 
+def _tokens(usage: dict, key: str) -> float | None:
+    """A token count reported in `usage`, or `None` when the reported value is unreadable.
+
+    Tri-state, matching the money contract: the key being *absent* (or explicitly null) is the
+    documented absent-key convention - that count was not reported, so it contributes no tokens
+    (`0.0`). A *present* value that cannot be read as a finite number (a `bool`, a string, `NaN`,
+    `inf`) is a broken read, not a zero, and poisons the price for the whole call.
+    """
+    v = usage.get(key)
+    if v is None:
+        return 0.0
+    return M.as_float(v)
+
+
 def cost_usd(model: str, usage: dict | None) -> float | None:
     """Real cost of one call, or `None` when it cannot be measured.
 
@@ -122,21 +136,40 @@ def cost_usd(model: str, usage: dict | None) -> float | None:
 
     A provider-reported number is authoritative even when it is exactly zero; free in-process routes
     (`nim`, `ultrafast`) are priced from their explicit `0.0` config tariff, not from silence.
+
+    Defect 23 (same class, the *config* arm): every numeric below is a read of an external source -
+    the provider's `usage` block and `kb/config.yaml` - and each was tested with a bare
+    `isinstance(x, (int, float))`, which `bool` passes (`price_in: true` books a $1/M tariff) and
+    which lets `float("1" + "0"*400) == inf` through untouched, booking an infinite cost into the
+    ledger. `float(usage.get("prompt_tokens", 0) or 0)` is the same fabrication from the other side:
+    a *present but unreadable* token count silently became a zero token count, understating the call.
+    All of it now goes through the single guard (`money.as_float`), with the one documented
+    convention kept explicit: a key that is *absent* (or explicitly null) contains no reported
+    count, which is the absent-key case, not a failed read. A `usage.cost` that is present but
+    unreadable is likewise a broken measurement - the tariff is not substituted for it.
     """
     if not usage:
         return None
-    measured = usage.get("cost")
-    if isinstance(measured, (int, float)) and not isinstance(measured, bool):
-        return float(measured)
+    if "cost" in usage and usage["cost"] is not None:
+        # Present-and-reported: authoritative, even when exactly 0.0. If it is present but
+        # unreadable, that is a broken measurement - do NOT substitute the config tariff, which
+        # would report a different (fabricated) number for a call the provider did price.
+        return M.as_float(usage["cost"])
     spec = price_table().get(model) or {}
-    pin, pout = spec.get("in"), spec.get("out")
-    if not isinstance(pin, (int, float)) or not isinstance(pout, (int, float)):
+    pin, pout = M.as_float(spec.get("in")), M.as_float(spec.get("out"))
+    if pin is None or pout is None:
         return None
-    ptok = float(usage.get("prompt_tokens", 0) or 0)
-    otok = float(usage.get("completion_tokens", 0) or 0)
-    ctok = float(usage.get("cached_tokens", 0) or 0)
-    pcached = spec.get("cached")
-    if isinstance(pcached, (int, float)) and 0 < ctok <= ptok:
+    ptok, otok, ctok = (_tokens(usage, k) for k in ("prompt_tokens", "completion_tokens",
+                                                    "cached_tokens"))
+    if ptok is None or otok is None or ctok is None:
+        return None  # a reported count was unreadable: this call cannot be priced
+    pcached = M.as_float(spec.get("cached"))
+    if pcached is None and spec.get("cached") is not None:
+        # The config declares a cached tariff (present) but it cannot be read: the call's price is
+        # unmeasurable. Silently ignoring it would bill the cached prefix at the full input rate --
+        # a fabricated, higher number -- so the whole call is UNMEASURED instead.
+        return None
+    if pcached is not None and 0 < ctok <= ptok:
         # Cache-aware tariff: cached prefix tokens are billed at the discounted cached rate
         # (AMD Token Lab: in $0.28/M vs cached $0.0056/M). Only used when the config records one.
         return ((ptok - ctok) * pin + ctok * pcached + otok * pout) / 1e6
@@ -144,14 +177,22 @@ def cost_usd(model: str, usage: dict | None) -> float | None:
 
 
 def spent_rows(passes: list[str] | None = None, prefix: str | None = None) -> tuple[float | None, int]:
-    """The measured cost sum and the number of ledger rows that produced it.
+    """The measured cost sum and the number of ledger rows that matched the filter.
 
-    The ledger today has no NULL `cost_usd` (verified at 28,856 of 28,856 rows; the earlier note said
-    27,418 and the bulk drain has since grown it), so `COALESCE(...,0)` only
-    ever fires when *no row matches at all* - i.e. `spent()` reports the measured-zero string `0.0`
-    for a pass that was never priced, was never run, or whose rows were replaced. "Unmeasured" and
-    "measured zero" are different claims, and an owner-facing spend field must not conflate them
-    (Defect 17 class, Lesson 69). This returns `(None, 0)` in that case: unmeasured, not free.
+    `n` counts *matching rows*, including a row whose `cost_usd` is SQL NULL (a call that failed
+    before the provider reported any usage, e.g. an HTTP 429 with retries exhausted): such a row
+    contributes nothing to the SUM but is still a row the pass wrote. `test_p7_ask` pins exactly that
+    (`rows == 1 and total is None`), so do not "fix" `n` into a priced-row count.
+
+    The earlier note here claimed the ledger had no NULL `cost_usd` at all (28,856 of 28,856 rows).
+    That is no longer true: the live ledger carries a handful of NULL-cost rows, all of them
+    costless failures. `COALESCE(...,0)` therefore has two distinct firing cases, and conflating
+    them was the original defect - `spent()` reported the measured-zero string `0.0` for a pass that
+    was never priced, was never run, or whose rows were replaced. "Unmeasured" and "measured zero"
+    are different claims, and an owner-facing spend field must not conflate them (Defect 17 class,
+    Lesson 69). This returns `(None, 0)` when *no row matched*: unmeasured, not free. A pass whose
+    rows all matched but were all NULL also yields `(None, n)` - the sum is unmeasured while the
+    rows are real - and a pass with at least one priced row yields that measured total.
     """
     con = connect()
     where, params = [], []

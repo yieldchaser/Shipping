@@ -53,7 +53,7 @@ MONEY_MODULES = (
 # through a different caller (`float("1" + "0"*400)` is `inf`, not an exception).
 ACCESSORS: dict[str, tuple[str, ...]] = {
     "money.py": ("as_float", "unit_score"),
-    "runner.py": ("pipeline_cap",),
+    "runner.py": ("pipeline_cap", "cost_usd", "_tokens"),
     "p4b_run.py": ("pipeline_cap", "p4c_allowance"),
     "p4c_highvalue.py": ("bulk_budget",),
     "p4c_ladder.py": ("escalation_cap",),
