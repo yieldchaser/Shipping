@@ -3,12 +3,16 @@
 from __future__ import annotations
 
 import json
+import re
 import sys
 from pathlib import Path
+
+import pytest
 
 KB = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(KB))
 
+import money as M  # noqa: E402
 import p4c_run as C  # noqa: E402
 
 
@@ -230,3 +234,130 @@ def test_run_packs_dense_flag_reaches_pending_shards(monkeypatch, tmp_path):
                      dense=True, progress=False)
     assert seen["pending"] == ("p4c_bulk", "m", "tools", 9, 3)
     assert st["packs"] == 0
+
+
+# --- money tri-state in the operator log and at the cap gate -----------------------------------
+def _run_packs_args(**kw):
+    base = {"packs": None, "failures": None, "cap": None, "pass_name": "p4c_bulk",
+            "model": "m", "limit": 0, "shard": 200, "plan_only": False}
+    base.update(kw)
+    return type("Args", (), base)()
+
+
+def _patch_run_packs_core(monkeypatch, tmp_path, spends):
+    """Wire a run_packs call with no model traffic and a scripted sequence of ledger reads."""
+    packs = tmp_path / "packs.jsonl"
+    write_jsonl(packs, [pack(cids=("a",), key="d1|a")])
+    monkeypatch.setattr(C, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(C, "state_path", lambda pass_name: tmp_path / f"run_{pass_name}.json")
+    monkeypatch.setattr(C.B, "runner_for", lambda *a, **k: type("R", (), {
+        "run": lambda self, jobs: None, "stats": {"ok": 0}})())
+    monkeypatch.setattr(C, "has_raw", lambda *a, **k: False)
+    calls = {"n": 0}
+
+    def fake_spent_exact(passes=None):
+        v = spends[min(calls["n"], len(spends) - 1)]
+        calls["n"] += 1
+        return v
+
+    monkeypatch.setattr(C.R, "spent_exact", fake_spent_exact)
+    return packs
+
+
+def test_progress_line_widens_a_sub_cent_batch_delta(monkeypatch, tmp_path, capsys):
+    """Defect-17 class at the render site: a running drain must not print the measured-zero string.
+
+    `spent_exact` is tri-state - `None` UNMEASURED, `0.0` measured zero, and a real sub-cent value -
+    and the progress line used `:.4f`, so a genuine `$0.00001` batch delta rendered as `$0.0000`:
+    the exact string reserved for "measured, and it was zero", i.e. a drain that looks free.
+    `$0.00001` *contains* `$0.0000`, so the absence check is boundary-anchored rather than `not in`.
+    """
+    packs = _patch_run_packs_core(monkeypatch, tmp_path, [0.0, 0.00001, 0.00001])
+    st = C.run_packs("p4c_bulk", "m", 10.0, packs_path=packs, shard=1, progress=True)
+    line = [ln for ln in capsys.readouterr().out.splitlines() if "spend" in ln][0]
+    assert "spend $0.00001" in line
+    assert M.fmt_usd(0.00001) in line
+    assert "(+$0.00001)" in line                       # the widening must reach the batch delta too
+    assert re.search(r"\$0\.0000(?![0-9])", line) is None
+    assert st["cost_usd"] == 0.00001                   # the state survives into the run metadata
+
+
+def test_progress_line_keeps_an_unmeasured_spend_unmeasured(monkeypatch, tmp_path, capsys):
+    """A ladder read that yields nothing is UNMEASURED, not a fabricated `$0.0000` and not a delta."""
+    packs = _patch_run_packs_core(monkeypatch, tmp_path, [None, None, None])
+    st = C.run_packs("p4c_bulk", "m", 10.0, packs_path=packs, shard=1, progress=True)
+    line = [ln for ln in capsys.readouterr().out.splitlines() if "spend" in ln][0]
+    assert "spend UNMEASURED" in line and "(+UNMEASURED)" in line
+    assert "$" not in line
+    assert st["cost_usd"] is None
+
+
+def test_run_packs_reports_a_measured_zero_spend_as_zero(monkeypatch, tmp_path):
+    """The other side of the contract: `0.0` is a real measurement and must not become `None`."""
+    packs = _patch_run_packs_core(monkeypatch, tmp_path, [0.0, 0.0, 0.0])
+    st = C.run_packs("p4c_bulk", "m", 10.0, packs_path=packs, shard=1, progress=False)
+    assert st["cost_usd"] == 0.0
+
+
+def test_cmd_run_refuses_to_book_a_bulk_run_against_an_unreadable_cap(monkeypatch):
+    """The old `max(0.0, cap - spent())` turned a failed read into "budget exhausted" and would book a
+    full-scope pass against a fabricated `$0`. Unmeasured must refuse, naming the reason and `--cap`."""
+    monkeypatch.setattr(C.B, "cap_arg", lambda explicit: None)
+    monkeypatch.setattr(C, "run_packs", lambda *a, **k: pytest.fail("must not book a bulk run"))
+    with pytest.raises(SystemExit) as exc:
+        C.cmd_run(_run_packs_args())
+    msg = str(exc.value)
+    assert "cannot price this bulk run" in msg
+    assert "unreadable" in msg and "--cap" in msg
+
+
+def test_cmd_run_honours_an_explicit_cap_when_both_reads_are_unmeasured(monkeypatch):
+    """An operator `--cap` is authoritative: the guard must not fire, and it must reach the runner."""
+    monkeypatch.setattr(C.B, "pipeline_cap", lambda: None)
+    monkeypatch.setattr(C.R, "spent_exact", lambda *a, **k: None)
+    seen = {}
+
+    def fake_run_packs(pass_name, model, cap, **kw):
+        seen["cap"] = cap
+        return {"pass": pass_name, "model": model, "mode": "tools", "packs": 0,
+                "packs_skipped": 0, "chunks": 0, "chunks_skipped": 0, "cost_usd": None,
+                "wall_s": 0.0}
+
+    monkeypatch.setattr(C, "run_packs", fake_run_packs)
+    assert C.cmd_run(_run_packs_args(cap=0.0)) == 0
+    assert seen["cap"] == 0.0
+
+
+def test_cmd_escalate_refuses_to_book_against_an_unreadable_cap(monkeypatch, tmp_path):
+    packs = tmp_path / "packs.jsonl"
+    write_jsonl(packs, [pack()])
+    fails = tmp_path / "failures.jsonl"
+    write_jsonl(fails, [{"doc_id": "d1", "chunk_id": "a", "reasons": ["sid_missing"]}])
+    monkeypatch.setattr(C, "OUT", tmp_path)
+    monkeypatch.setattr(C.B, "cap_arg", lambda explicit: None)
+    monkeypatch.setattr(C, "run_packs", lambda *a, **k: pytest.fail("must not book escalation"))
+    args = _run_packs_args(packs=str(packs), failures=str(fails), pass_name="p4c_esc")
+    with pytest.raises(SystemExit) as exc:
+        C.cmd_escalate(args)
+    msg = str(exc.value)
+    assert "cannot price this escalation run" in msg
+    assert "unreadable" in msg and "--cap" in msg
+
+
+def test_cmd_escalate_plan_only_needs_no_cap_and_writes_no_ledger_row(monkeypatch, tmp_path):
+    """`--plan-only` plans the singles and stops before pricing, so it must not raise and must not run.
+
+    Pinned because the guard above is placed *after* the plan write: moving it earlier would make a
+    pure planning call refuse whenever the ledger is unreadable."""
+    packs = tmp_path / "packs.jsonl"
+    write_jsonl(packs, [pack()])
+    fails = tmp_path / "failures.jsonl"
+    write_jsonl(fails, [{"doc_id": "d1", "chunk_id": "a", "reasons": ["sid_missing"]}])
+    monkeypatch.setattr(C, "OUT", tmp_path)
+    monkeypatch.setattr(C.B, "cap_arg", lambda explicit: None)
+    monkeypatch.setattr(C, "run_packs", lambda *a, **k: pytest.fail("plan-only must not run"))
+    args = _run_packs_args(packs=str(packs), failures=str(fails), pass_name="p4c_esc",
+                           plan_only=True)
+    assert C.cmd_escalate(args) == 0
+    assert (tmp_path / "escalation_plan.json").exists()
+    assert (tmp_path / "singles_p4c_esc.jsonl").exists()

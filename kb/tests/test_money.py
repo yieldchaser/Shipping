@@ -77,3 +77,25 @@ def test_round_usd_does_not_launder_a_nonzero_value_to_zero():
 def test_custom_unmeasured_label_is_respected():
     assert M.fmt_usd(None, unmeasured="UNMEASURED (ledger unreadable)") == \
         "UNMEASURED (ledger unreadable)"
+
+
+def test_as_float_rejects_bool_nan_inf_and_non_numbers():
+    """The one guard every `budget.*` reader goes through.
+
+    `bool` is an `int` in Python, so `pipeline_cap_usd: true` (a plausible typo for `82`) satisfied
+    every `isinstance(x, (int, float))` guard in the codebase and read as a `$1` cap in the C2 packet.
+    NaN is the same defect the other way: it renders `$nan` and makes every `<=` silently False.
+    """
+    assert M.as_float(True) is None
+    assert M.as_float(False) is None
+    assert M.as_float(float("nan")) is None
+    assert M.as_float(float("inf")) is None
+    assert M.as_float(float("-inf")) is None
+    assert M.as_float(None) is None
+    assert M.as_float("82") is None
+    assert M.as_float([82]) is None
+    # A genuine number survives, and the measured zero survives too (it is a real measurement).
+    assert M.as_float(82) == 82.0
+    assert M.as_float(82.0) == 82.0
+    assert M.as_float(0.0) == 0.0
+    assert isinstance(M.as_float(82), float) and not isinstance(M.as_float(82), bool)

@@ -26,6 +26,66 @@ def md_table(headers: list[str], rows: list[list[str]]) -> str:
     return "\n".join(out)
 
 
+# Passes booked for the rest of the build (everything that is neither the bulk pass, the escalation
+# line, nor already-spent work). Read from config, never typed: `35` used to be a literal inside the
+# projection table below, i.e. an authored booking duplicated as a module constant (Defect-17 class).
+RESIDUAL_PASS_KEYS = ("entity_adjudication", "llm_prefixes", "period_summaries", "eval",
+                      "rerun_reserve")
+
+
+def _num(v) -> float | None:
+    """True finite float or None — the money-path guard, single-sourced in `money.as_float`.
+
+    `isinstance(True, (int, float))` is True, so `bool` must be excluded, and a NaN parsed out of a
+    config file (`pipeline_cap_usd: .nan`) is a broken measurement, not a cap — `"${nan:g}"` would
+    print `$nan` and `nan` comparisons silently fail every `<=`.
+    """
+    return M.as_float(v)
+
+
+def budget_bookings() -> dict:
+    """Authored policy numbers from `kb/config.yaml`: the pipeline cap and two booked totals.
+
+    Every one of them used to be a literal in this packet's prose (`$82`, `31.25`, `35`) while the cap
+    and the bookings actually live in config and have already been amended twice on this project. A
+    duplicated authored number is a fabricated measurement the moment config moves; unreadable config
+    yields `None` so the packet prints UNMEASURED instead of a denominator it cannot support.
+    """
+    out = {"pipeline_cap_usd": None, "p4c_bulk_extraction": None, "residual_phase_bookings": None}
+    try:
+        import yaml
+        cfg = yaml.safe_load((ROOT / "kb" / "config.yaml").read_text(encoding="utf-8")) or {}
+    except (OSError, ValueError, ImportError, AttributeError):
+        return out
+    budget = cfg.get("budget") or {}
+    passes = budget.get("passes") or {}
+    out["pipeline_cap_usd"] = _num(budget.get("pipeline_cap_usd"))
+    out["p4c_bulk_extraction"] = _num(passes.get("p4c_bulk_extraction"))
+    residual = [_num(passes.get(k)) for k in RESIDUAL_PASS_KEYS]
+    out["residual_phase_bookings"] = None if any(v is None for v in residual) else sum(residual)
+    return out
+
+
+def money_sum(*vals) -> float | None:
+    """Sum, or `None` if any term is unmeasured (Defect 17/21 class).
+
+    `sum(v for v in vals if v is not None)` silently drops the unmeasured term and books the rest,
+    which is how a partial projection reads as a total. One unknown term makes the whole total unknown.
+    """
+    if any(v is None for v in vals):
+        return None
+    try:
+        return sum(float(v) for v in vals)
+    except (TypeError, ValueError):
+        return None
+
+
+def cap_text(cap) -> str:
+    """`$82`, or `UNMEASURED` — never a `$` glued to a value that may not exist."""
+    v = _num(cap)
+    return f"${v:g}" if v is not None else "UNMEASURED"
+
+
 def bakeoff_table(p4b: dict) -> str:
     # Defect 19/17 class: `m.get("cost_usd", 0)` renders a *missing* measurement as a booked `$0.0000`.
     # Absent -> UNMEASURED; present (even an exact `0.0`, e.g. a free NIM route) -> rendered as measured.
@@ -91,11 +151,12 @@ def merge_section(own: dict) -> str:
     return md_table(["a", "b", "method", "verdict", "model reason"], rows)
 
 
-def main() -> int:
-    p4b = load("p4b.json")
-    fl = load("p4b_flagged.json")
-    gold = load("gold_set.json")
-    own = load("p3_owner_sample.json")
+def build_packet(p4b: dict, fl: dict, gold: dict, own: dict) -> str:
+    """Pure renderer: report JSON in, packet markdown out. No file writes, no model calls.
+
+    Split out from `main()` so the money path can be exercised with an unmeasured ledger (`None`)
+    without running the generator or touching the committed `C1_REVIEW.md`.
+    """
     sel = p4b["selected"]
     feas = p4b["p4c_feasibility"]
     spend = p4b["spend"]
@@ -105,6 +166,20 @@ def main() -> int:
     out_tok = feas["out_tokens_full_scope"]
     days = feas["wall_days_at_daily_cap"]
 
+    # Authored denominators: read, never typed (the packet's whole purpose is an owner money decision).
+    book = budget_bookings()
+    cap = book["pipeline_cap_usd"]
+    bulk_booked = book["p4c_bulk_extraction"]
+    residual = book["residual_phase_bookings"]
+    # `M.fmt_usd(None)` -> "UNMEASURED"; the literal `$` stays only in front of the *policy* strings.
+    spend_now = spend.get("total_usd")
+    # Row (a)'s total is `spent + residual pass budgets` — the same arithmetic the owner approved at C1
+    # (`$4.75 + $35 = $39.75`); only the literal `35` is gone, replaced by the config sum (still 35.0).
+    total_a = money_sum(spend_now, residual)
+    flash_proj = (feas["paid_overflow"]["deepseek-v4-flash"].get("projected_full_scope_usd"))
+    total_b = money_sum(spend_now, flash_proj, residual)
+    total_c = money_sum(opt.get("total_with_spent_usd"), residual)
+
     gate_rows = [[f"`{k}`", str(v["measured"]), str(v["required"]), "PASS" if v.get("pass") else "FAIL"]
                  for k, v in gr.items() if isinstance(v, dict) and "pass" in v]
 
@@ -112,7 +187,7 @@ def main() -> int:
 
 Hard stop per `docs/GRAPHRAG_AGENT_TASK.md` §5. Owner rules on the items below in chat; nothing here
 is approved until then. Branch `kb-build`, P4b commit on top of the gold-set commit, tripwire clean,
-82 tests pass. Spend so far ${spend['total_usd']:.4f} of the $82 pipeline cap; agent spine
+82 tests pass. Spend so far {M.fmt_usd(spend_now)} of the {cap_text(cap)} pipeline cap; agent spine
 (enclave) $66.04/$66.00 — over cap, unchanged, no paid agent calls since P2.
 
 ## 1. Bake-off table (plan §10.2, gates P4b)
@@ -157,22 +232,22 @@ Bulk pass shape on the frozen prose-only scope (86,607 chunks, 16,945 docs): {ca
 output tok/day) **if the route were a free daily cap — the chosen AMD route has no daily cap; it has
 a shared concurrency ceiling of 144 and a real per-token tariff**. Three run shapes, not self-approved:
 
-| shape | bulk cost | wall time | total booked incl. spent ${spend['total_usd']:.2f} | fits $82 cap? |
+| shape | bulk cost | wall time | total booked incl. spent {M.fmt_usd(spend_now, 2)} | fits {cap_text(cap)} cap? |
 |---|---|---|---|---|
-| (a) `DeepSeek-V4.1-Flash` on the 8-account AMD Token Lab pool, ultrafast excluded | **${31.25:.2f} booked** ($0.00134/pack measured) | ~{days:.2f} days at free-tier pacing; ~2 days at measured AMD concurrency | ${spend['total_usd'] + 35:.2f} | yes, after rebooking ruling 4 to $0 |
-| (b) paid `deepseek-v4-flash` alone | ${feas['paid_overflow']['deepseek-v4-flash']['projected_full_scope_usd']:.2f} | hours | ${spend['total_usd'] + feas['paid_overflow']['deepseek-v4-flash']['projected_full_scope_usd'] + 35:.2f} | no |
-| (c) mixed one-day pool: primary + flash overflow ({opt['paid_chunk_share'] * 100:.1f}% of chunks paid) | ${opt['paid_cost_usd']:.2f} | {opt['wall_days']:.1f} day | ${opt['total_with_spent_usd']:.2f} + remaining phase budgets = ${opt['total_with_spent_usd'] + 35:.2f} | no (bulk alone fits, the rest of the build does not) |
+| (a) `DeepSeek-V4.1-Flash` on the 8-account AMD Token Lab pool, ultrafast excluded | **{M.fmt_usd(bulk_booked, 2)} booked** ($0.00134/pack measured) | ~{days:.2f} days at free-tier pacing; ~2 days at measured AMD concurrency | {M.fmt_usd(total_a, 2)} | yes, after rebooking ruling 4 to $0 |
+| (b) paid `deepseek-v4-flash` alone | {M.fmt_usd(flash_proj, 2)} | hours | {M.fmt_usd(total_b, 2)} | no |
+| (c) mixed one-day pool: primary + flash overflow ({opt['paid_chunk_share'] * 100:.1f}% of chunks paid) | {M.fmt_usd(opt.get('paid_cost_usd'), 2)} | {opt['wall_days']:.1f} day | {M.fmt_usd(opt.get('total_with_spent_usd'), 2)} + remaining phase budgets = {M.fmt_usd(total_c, 2)} | no (bulk alone fits, the rest of the build does not) |
 
-So (a) is the only shape that fits the frozen $82 cap. The honest correction the owner should note:
+So (a) is the only shape that fits the frozen {cap_text(cap)} cap. The honest correction the owner should note:
 this table was drafted while the bulk route was believed to be free; AMD Token Lab reports a real
-`usage.cost`, so the $31.25 line is now a **measured** charge, not zero. It is funded by rebooking the
+`usage.cost`, so the {M.fmt_usd(bulk_booked, 2)} line is now a **measured** charge, not zero. It is funded by rebooking the
 owner's ruling-4 second extractor to $0 (the AMD pass IS that second extractor) and trimming
 `escalation_plus_gleaning` from $17 to $11 — an amendment to D10's provider choice that lowers no
 gate. (c) would need either a cap raise of ~$15 or dropping later-phase budgets. (b) additionally
 lands at F1
 {feas['paid_overflow']['deepseek-v4-flash']['f1']:.4f} (chosen minus {sel['f1'] - feas['paid_overflow']['deepseek-v4-flash']['f1']:.3f})
 and precision {feas['paid_overflow']['deepseek-v4-flash']['precision']:.4f}, under the 0.92 gate, so it is
-worse on quality too. Remaining pipeline budget right now: ${feas['remaining_pipeline_usd']:.2f}.
+worse on quality too. Remaining pipeline budget right now: {M.fmt_usd(feas.get('remaining_pipeline_usd'), 2)}.
 
 ## 4. Thirty flagged gold-label items to rule on
 
@@ -205,6 +280,12 @@ Write `kb/reports/C1_APPROVED.md` with your message verbatim under `owner_messag
 label overrides, then continue P4c (bulk extraction on the frozen scope) → P5 → P6 → P7 → C2. I stop
 here until you reply.
 """
+    return doc
+
+
+def main() -> int:
+    doc = build_packet(load("p4b.json"), load("p4b_flagged.json"), load("gold_set.json"),
+                       load("p3_owner_sample.json"))
     (REPORTS / "C1_REVIEW.md").write_text(doc, encoding="utf-8")
     print(f"wrote kb/reports/C1_REVIEW.md ({len(doc)} bytes)")
     return 0

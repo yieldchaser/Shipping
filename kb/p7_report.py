@@ -78,6 +78,16 @@ def spend_text(report: dict) -> str:
                      unmeasured="UNMEASURED (ledger unreadable)")
 
 
+def _cap_num(v) -> float | None:
+    """Config/report cap as a true finite float, or None — the money-path guard, single-sourced.
+
+    Kept as a local alias so call sites read in this module's vocabulary; the rule itself (bool and
+    NaN/inf are broken reads, not denominators) lives in `money.as_float` so no module can re-implement
+    it slightly differently.
+    """
+    return M.as_float(v)
+
+
 def pipeline_cap() -> float | None:
     """The committed pipeline cap from `kb/config.yaml` `budget.pipeline_cap_usd`.
 
@@ -90,8 +100,7 @@ def pipeline_cap() -> float | None:
     try:
         import yaml
         cfg = yaml.safe_load((KB_DIR / "config.yaml").read_text(encoding="utf-8")) or {}
-        v = (cfg.get("budget") or {}).get("pipeline_cap_usd")
-        return float(v) if v is not None else None
+        return _cap_num((cfg.get("budget") or {}).get("pipeline_cap_usd"))
     except (OSError, ValueError, ImportError, AttributeError):
         return None
 
@@ -100,12 +109,14 @@ def spend_text_full(report: dict) -> str:
     """`$1.2345 of the $82 cap`, degrading to a riderless amount / UNMEASURED.
 
     Takes the cap from the report when `build` recorded it (so the rendered text matches the JSON),
-    and only falls back to reading config for reports built before the cap was added.
+    and only falls back to reading config for reports built before the cap was added. Both routes go
+    through `_cap_num`, so the report-supplied cap is guarded by the same bool/NaN rule as the config
+    read — the packet must not render "of the $1 cap" from either source.
     """
-    cap = report.get("pipeline_cap_usd")
+    cap = _cap_num(report.get("pipeline_cap_usd"))
     if cap is None:
-        cap = pipeline_cap()
-    tail = f" of the ${cap:g} cap" if isinstance(cap, (int, float)) else ""
+        cap = _cap_num(pipeline_cap())
+    tail = f" of the ${cap:g} cap" if cap is not None else ""
     return spend_text(report) + tail
 
 

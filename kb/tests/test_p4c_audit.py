@@ -6,6 +6,8 @@ import json
 import sys
 from pathlib import Path
 
+import pytest
+
 KB = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(KB))
 
@@ -190,3 +192,63 @@ def test_cmd_run_refuses_same_family(monkeypatch):
         assert "family" in str(exc)
     else:
         raise AssertionError("expected SystemExit")
+
+
+# --- cap gate and unmeasured judge spend -------------------------------------------------------
+def _audit_args(**kw):
+    base = {"model": "glm-5.3", "extractor": "deepseek-v4-flash", "cap": None, "limit": 0}
+    base.update(kw)
+    return type("Args", (), base)()
+
+
+def test_cmd_run_refuses_to_book_a_judge_pass_against_an_unreadable_cap(monkeypatch, tmp_path):
+    """`max(0.0, None - x)` either raises or lies; the guard must refuse and name `--cap`."""
+    monkeypatch.setattr(A, "AUDIT_ITEMS", tmp_path / "audit_items.json")
+    (tmp_path / "audit_items.json").write_text(
+        json.dumps({"records_available": 0, "items": []}), encoding="utf-8")
+    monkeypatch.setattr(A.B, "cap_arg", lambda explicit: None)
+    monkeypatch.setattr(A, "run_judge", lambda *a, **k: pytest.fail("must not book a judge pass"))
+    monkeypatch.setattr(A, "summarise", lambda *a, **k: pytest.fail("must not write a summary"))
+    with pytest.raises(SystemExit) as exc:
+        A.cmd_run(_audit_args())
+    msg = str(exc.value)
+    assert "cannot price this audit run" in msg
+    assert "unreadable" in msg and "--cap" in msg
+
+
+def test_cmd_run_honours_an_explicit_cap_with_an_unreadable_ledger(monkeypatch, tmp_path):
+    """An operator `--cap 0.0` is a deliberate choice: the guard must not fire and the cap must arrive."""
+    monkeypatch.setattr(A, "AUDIT_ITEMS", tmp_path / "audit_items.json")
+    (tmp_path / "audit_items.json").write_text(
+        json.dumps({"seed": 1, "records_available": 0, "items": []}), encoding="utf-8")
+    monkeypatch.setattr(A, "AUDIT_JSON", tmp_path / "audit.json")
+    monkeypatch.setattr(A, "AUDIT_MD", tmp_path / "audit.md")
+    monkeypatch.setattr(A.B, "pipeline_cap", lambda: None)
+    monkeypatch.setattr(A.R, "spent_exact", lambda *a, **k: None)
+    seen = {}
+
+    def fake_run_judge(model, cap, limit=0):
+        seen["cap"] = cap
+        return {"model": model, "mode": "tools", "jobs": 0, "ok": 0,
+                "cost_usd": A.M.round_usd(A.R.spent_exact(passes=[A.PASS])), "wall_s": 0.0}
+
+    monkeypatch.setattr(A, "run_judge", fake_run_judge)
+    assert A.cmd_run(_audit_args(cap=0.0)) == 0
+    assert seen["cap"] == 0.0
+    assert json.loads((tmp_path / "audit.json").read_text(encoding="utf-8"))["run"]["cost_usd"] is None
+
+
+def test_run_judge_reports_an_unpriced_ledger_as_unmeasured(monkeypatch):
+    """`round(R.spent(...), 6)` collapsed "no measurement" to the measured-zero string `0.0`.
+
+    The judge spend sits beside the §11 gate verdict in the owner-facing audit, so an unpriced ledger
+    must read UNMEASURED rather than free (Defect 17 class)."""
+    monkeypatch.setattr(A.B, "load_modes", lambda: {"glm-5.3": "tools"})
+    monkeypatch.setattr(A.B, "runner_for", lambda *a, **k: type("R", (), {
+        "run": lambda self, jobs: None, "stats": {"ok": 0}})())
+    monkeypatch.setattr(A.R, "spent_exact", lambda passes=None: None)
+    got = A.run_judge("glm-5.3", 5.0, limit=0)
+    assert got["cost_usd"] is None
+    monkeypatch.setattr(A.R, "spent_exact", lambda passes=None: 0.0)
+    assert A.run_judge("glm-5.3", 5.0, limit=0)["cost_usd"] == 0.0   # a measured zero survives
+

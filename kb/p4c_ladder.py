@@ -66,9 +66,7 @@ def escalation_cap() -> float | None:
              .get("escalation_plus_gleaning"))
     except (OSError, ValueError, ImportError, AttributeError, TypeError):
         return None
-    if not isinstance(v, (int, float)) or isinstance(v, bool):
-        return None
-    return float(v)
+    return M.as_float(v)
 
 
 FAIL_PCT_MAX = 0.30

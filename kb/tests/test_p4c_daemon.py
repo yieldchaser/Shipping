@@ -333,3 +333,31 @@ def test_run_does_not_back_off_while_rounds_stay_productive(tmp_path, monkeypatc
         D.run("p", "m", packs_file(tmp_path, n=200), 0, 10, 200, 5.0)
     assert slept == []
 
+
+# --- cap gate ----------------------------------------------------------------------------------
+def test_main_refuses_a_daemon_tick_against_an_unreadable_cap(monkeypatch):
+    """A daemon that cannot read its own budget must not substitute `$0` and idle for a day believing
+    the pipeline is spent (Defect 17 class). Refuse the tick instead, naming `--cap`."""
+    monkeypatch.setattr(sys, "argv", ["p4c_daemon.py"])
+    monkeypatch.setattr(D.B, "cap_arg", lambda explicit: None)
+    monkeypatch.setattr(D, "run", lambda *a, **k: pytest.fail("must not start a daemon tick"))
+    with pytest.raises(SystemExit) as exc:
+        D.main()
+    msg = str(exc.value)
+    assert "cannot price this daemon tick" in msg
+    assert "unreadable" in msg and "--cap" in msg
+
+
+def test_main_honours_an_explicit_cap_when_the_ledger_is_unreadable(monkeypatch, tmp_path):
+    """`--cap 0` is an operator decision: the guard must not fire, and the cap must reach `run`."""
+    packs = packs_file(tmp_path)
+    monkeypatch.setattr(sys, "argv", ["p4c_daemon.py", "--model", "m", "--packs", str(packs),
+                                     "--cap", "0"])
+    monkeypatch.setattr(D.B, "pipeline_cap", lambda: None)
+    monkeypatch.setattr(D.B.R, "spent_exact", lambda *a, **k: None)
+    seen = {}
+    monkeypatch.setattr(D, "run", lambda *a, **k: seen.update(args=a, kw=k) or 0)
+    assert D.main() == 0
+    assert seen["args"][6] == 0.0
+
+

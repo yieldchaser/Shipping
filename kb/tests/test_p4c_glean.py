@@ -163,3 +163,42 @@ def test_cmd_prepare_refuses_unknown_mode(tmp_path, monkeypatch):
                           "out_packs": str(tmp_path / "o.jsonl")})()
     with pytest.raises(SystemExit):
         GL.cmd_prepare(args)
+
+
+# --- cap gate ----------------------------------------------------------------------------------
+def _glean_args(**kw):
+    base = {"model": "m", "bulk_model": None, "cap": None, "packs": None, "limit": 0, "shard": 200}
+    base.update(kw)
+    return type("A", (), base)()
+
+
+def test_cmd_run_refuses_to_book_a_glean_run_against_an_unreadable_cap(monkeypatch):
+    """A glean run started against a fabricated exhausted budget would silently do nothing and look
+    like a pass, so an unreadable cap must refuse and name `--cap` instead of booking."""
+    monkeypatch.setattr(GL.PR, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(GL.B, "cap_arg", lambda explicit: None)
+    monkeypatch.setattr(GL.PR, "run_packs", lambda *a, **k: pytest.fail("must not book a glean run"))
+    with pytest.raises(SystemExit) as exc:
+        GL.cmd_run(_glean_args())
+    msg = str(exc.value)
+    assert "cannot price this glean run" in msg
+    assert "unreadable" in msg and "--cap" in msg
+
+
+def test_cmd_run_honours_an_explicit_cap_when_the_ledger_is_unreadable(monkeypatch):
+    """An operator `--cap 0` is a deliberate choice: the guard must not fire and the cap must arrive."""
+    monkeypatch.setattr(GL.PR, "load_modes", lambda: {"m": "tools"})
+    monkeypatch.setattr(GL.B, "pipeline_cap", lambda: None)
+    monkeypatch.setattr(GL.B.R, "spent_exact", lambda *a, **k: None)
+    seen = {}
+
+    def fake_run_packs(pass_name, model, cap, **kw):
+        seen["cap"] = cap
+        return {"pass": pass_name, "model": model, "mode": "tools", "packs": 0,
+                "packs_skipped": 0, "chunks": 0, "chunks_skipped": 0, "cost_usd": None,
+                "wall_s": 0.0}
+
+    monkeypatch.setattr(GL.PR, "run_packs", fake_run_packs)
+    assert GL.cmd_run(_glean_args(cap=0.0)) == 0
+    assert seen["cap"] == 0.0
+

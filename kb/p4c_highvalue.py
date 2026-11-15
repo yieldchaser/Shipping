@@ -62,9 +62,7 @@ def bulk_budget() -> float | None:
         v = (((cfg.get("budget") or {}).get("passes") or {}).get("p4c_bulk_extraction"))
     except (OSError, ValueError, ImportError, AttributeError, TypeError):
         return None
-    if not isinstance(v, (int, float)) or isinstance(v, bool):
-        return None
-    return float(v)
+    return M.as_float(v)
 
 
 TIERS = {

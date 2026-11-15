@@ -162,9 +162,7 @@ def pipeline_cap() -> float | None:
         v = (cfg.get("budget") or {}).get("pipeline_cap_usd")
     except (OSError, ValueError):
         return None
-    if not isinstance(v, (int, float)) or isinstance(v, bool):
-        return None
-    return float(v)
+    return M.as_float(v)
 
 
 def cap_arg(explicit: float | None) -> float | None:
@@ -1218,7 +1216,7 @@ def p4c_allowance() -> float | None:
         import yaml
         cfg = yaml.safe_load((ROOT / "kb/config.yaml").read_text(encoding="utf-8")) or {}
         v = ((cfg.get("budget") or {}).get("passes") or {}).get("p4c_bulk_extraction")
-        return float(v) if v is not None else None
+        return M.as_float(v)
     except Exception:  # noqa: BLE001
         return None
 

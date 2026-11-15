@@ -146,7 +146,8 @@ def cost_usd(model: str, usage: dict | None) -> float | None:
 def spent_rows(passes: list[str] | None = None, prefix: str | None = None) -> tuple[float | None, int]:
     """The measured cost sum and the number of ledger rows that produced it.
 
-    The ledger today has no NULL `cost_usd` (verified: 0 of 27,418 rows), so `COALESCE(...,0)` only
+    The ledger today has no NULL `cost_usd` (verified at 28,856 of 28,856 rows; the earlier note said
+    27,418 and the bulk drain has since grown it), so `COALESCE(...,0)` only
     ever fires when *no row matches at all* - i.e. `spent()` reports the measured-zero string `0.0`
     for a pass that was never priced, was never run, or whose rows were replaced. "Unmeasured" and
     "measured zero" are different claims, and an owner-facing spend field must not conflate them
@@ -195,9 +196,7 @@ def pipeline_cap() -> float | None:
         v = (cfg.get("budget") or {}).get("pipeline_cap_usd")
     except (OSError, ValueError):
         return None
-    if not isinstance(v, (int, float)) or isinstance(v, bool):
-        return None
-    return float(v)
+    return M.as_float(v)
 
 
 def raw_path(pass_name: str, key: str) -> Path:

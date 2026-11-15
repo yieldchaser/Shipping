@@ -396,6 +396,55 @@ def test_cap_comes_from_config_not_a_hardcoded_string(monkeypatch):
     assert "spend $1.0000 ·" in line2 and "cap" not in line2
 
 
+def test_a_bool_or_nan_cap_is_unmeasured_not_one_dollar(monkeypatch, tmp_path):
+    """A YAML `pipeline_cap_usd: true` must not read as a `$1` cap; nor may NaN render as `$nan`.
+
+    `isinstance(True, (int, float))` is True, so the old `isinstance(cap, (int, float))` guard in
+    `spend_text_full` accepted a bool and printed "of the $1 cap" in the approval packet — a
+    denominator the owner never booked, in the one artefact where a denominator is trusted. NaN is
+    the same broken read from the other side.
+    """
+    assert P._cap_num(True) is None
+    assert P._cap_num(False) is None
+    assert P._cap_num(float("nan")) is None
+    assert P._cap_num(float("inf")) is None
+    assert P._cap_num("82") is None
+    assert P._cap_num(82) == 82.0
+
+    # Both routes are guarded: the report-supplied cap and the config fallback.
+    rep = dict(P.build(good_eval(), good_rubric(), good_backtest(), good_discovery(), 1.0, 1.0))
+    rep["pipeline_cap_usd"] = True
+    monkeypatch.setattr(P, "pipeline_cap", lambda: True)
+    line = P._c2_md(rep, good_discovery(), good_rubric(), good_backtest(), good_eval()).splitlines()[2]
+    assert "$1 cap" not in line and "cap" not in line, line
+    assert "spend $1.0000 ·" in line, line
+    # `spend_text_full` itself, not only the packet line: unmeasured spend stays unmeasured and the
+    # bool cap adds no denominator rider.
+    assert P.spend_text_full({"money_spent_usd": 1.0, "pipeline_cap_usd": True}) == "$1.0000"
+    assert P.spend_text_full({"money_spent_usd": 1.0, "pipeline_cap_usd": 82}) == \
+        "$1.0000 of the $82 cap"
+    assert P.spend_text_full({"money_spent_usd": None, "pipeline_cap_usd": 82}) == \
+        "UNMEASURED (ledger unreadable) of the $82 cap"
+
+
+def test_allowance_from_config_is_a_bool_guarded_float_or_none(monkeypatch, tmp_path):
+    """`p4b_run.p4c_allowance` is the second reader of the P4c bulk booking: `true` is not `$1`.
+
+    Same defect shape as the cap readers: a bare `float(v) if v is not None` accepts a YAML bool. The
+    allowance is a denominator in the P4b projection, so it must be unmeasured when config is
+    unreadable or holds a non-number — never a fallback constant.
+    """
+    import p4b_run as B  # noqa: PLC0415
+
+    assert B.p4c_allowance() == 31.25
+    assert B.M.as_float(True) is None
+    assert B.M.as_float(31.25) == 31.25
+    # Unreadable config -> None (no `22.0`-style fallback, which is what froze a stale denominator
+    # into the committed reports/p4b.json in the first place).
+    monkeypatch.setattr(B, "ROOT", tmp_path)
+    assert B.p4c_allowance() is None
+
+
 
 
 def test_main_write_and_exit(tmp_path):

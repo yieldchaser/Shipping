@@ -68,3 +68,92 @@ def test_packet_numbers_match_p4b_report():
     assert f"{p4b['selected']['f1']:.4f}" in t
     assert f"{p4b['spend']['total_usd']:.4f}" in t
     assert p4b["selected"]["model"] in t
+
+
+def test_money_sum_is_unmeasured_when_any_term_is_unmeasured():
+    """Defect 17/21: dropping an unknown term books the rest as if it were the total.
+
+    `sum(v for v in vals if v is not None)` is exactly the bug — a projection that is missing its
+    biggest component must read UNMEASURED, while a genuine measured `0.0` term must keep the total
+    measured (the four states: known/known, unknown term, empty, exact zero).
+    """
+    assert C.money_sum(4.75, 35.0) == 39.75
+    assert C.money_sum(4.75, 0.0) == 4.75
+    assert C.money_sum(0.0, 0.0) == 0.0
+    assert C.money_sum(4.75, None) is None
+    assert C.money_sum(None, None) is None
+    assert C.money_sum() == 0.0
+
+
+def test_cap_and_bool_config_reads_are_unmeasured_not_one_dollar():
+    """A `$` must never be glued to a value that may not exist.
+
+    `cap_text(None)` -> `UNMEASURED`, and a config `pipeline_cap_usd: true` (readable YAML, not a
+    number) must not become `$1` — `isinstance(True, int)` is True, so `bool` has to be excluded.
+    """
+    assert C.cap_text(82.0) == "$82"
+    assert C.cap_text(82) == "$82"
+    assert C.cap_text(None) == "UNMEASURED"
+    assert C.cap_text(True) == "UNMEASURED"
+    assert C.cap_text("82") == "UNMEASURED"
+    assert C.cap_text(float("nan")) == "UNMEASURED"
+
+
+def test_budget_bookings_come_from_config_and_residual_matches_the_approved_arithmetic():
+    """The packet's denominators are authored once, in config, and read here — never typed.
+
+    Row (a) of the projection table is the arithmetic the owner approved at C1 (`$4.75 + $35`), so the
+    config-derived residual must still be 35.0: if config moves, this pin fails *and* the packet changes,
+    which is the point (a stale literal would have silently kept the old number).
+    """
+    book = C.budget_bookings()
+    assert book["pipeline_cap_usd"] == 82.0
+    assert book["p4c_bulk_extraction"] == 31.25
+    assert book["residual_phase_bookings"] == 35.0
+
+
+def test_packet_renders_unmeasured_spend_as_unmeasured_and_never_as_zero():
+    """End-to-end on the money path with an unmeasured ledger.
+
+    Before the fix these seven fields were `"${v:.4f}"` f-strings: `None` raised a `TypeError` inside
+    the generator instead of printing `UNMEASURED`, and a fabricated `0.0` would have printed a booked
+    `$0.00` — the same defect class as the `bakeoff_table` `.get("cost_usd", 0)` case. Also pins the
+    split of `build_packet` out of `main()` (a pure renderer the money path can be tested through
+    without rewriting the committed packet).
+    """
+    fixtures = {n: json.loads((ROOT / "kb" / "reports" / n).read_text(encoding="utf-8"))
+                for n in ("p4b.json", "p4b_flagged.json", "gold_set.json", "p3_owner_sample.json")}
+    p4b = dict(fixtures["p4b.json"])
+    p4b["spend"] = dict(p4b["spend"], total_usd=None)
+    p4b["p4c_feasibility"] = dict(p4b["p4c_feasibility"], remaining_pipeline_usd=None)
+
+    doc = C.build_packet(p4b, fixtures["p4b_flagged.json"], fixtures["gold_set.json"],
+                         fixtures["p3_owner_sample.json"])
+    line3 = [l for l in doc.splitlines() if l.startswith("82 tests pass")][0]
+    # Spend is unknown -> it must not claim a measurement. "of the $82 cap" stays: the cap is config,
+    # independent of the ledger, so it is still a legitimate measured policy number.
+    assert "UNMEASURED" in line3, line3
+    assert "$0.0000" not in line3, line3
+    # The projection rows fall back to the config-derived total, never to a bare "$0.00".
+    assert "| UNMEASURED |" in doc
+    assert "budget right now: UNMEASURED" in doc
+
+
+def test_packet_renders_a_tiny_nonzero_spend_without_flattening_it_to_zero():
+    """A real sub-cent spend must not render as the measured-zero string `$0.0000` (Lesson 67).
+
+    `$0.00001` *contains* `$0.0000`, so assert on the parsed cell/token, never with `not in`.
+    """
+    fixtures = {n: json.loads((ROOT / "kb" / "reports" / n).read_text(encoding="utf-8"))
+                for n in ("p4b.json", "p4b_flagged.json", "gold_set.json", "p3_owner_sample.json")}
+    p4b = dict(fixtures["p4b.json"])
+    p4b["spend"] = dict(p4b["spend"], total_usd=0.000019)
+
+    doc = C.build_packet(p4b, fixtures["p4b_flagged.json"], fixtures["gold_set.json"],
+                         fixtures["p3_owner_sample.json"])
+    line3 = [l for l in doc.splitlines() if l.startswith("82 tests pass")][0]
+    # `fmt_usd` widens to 5 dp here: `$0.00002`, i.e. visibly nonzero. Assert the *token*, because the
+    # flatten-to-zero string `$0.0000` is a prefix of `$0.00002` (never test this with `not in`).
+    token = re.search(r"Spend so far (\S+) of the", line3).group(1)
+    assert token != "$0.0000", line3
+    assert float(token.lstrip("$")) != 0.0, line3

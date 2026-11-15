@@ -22,6 +22,24 @@ from __future__ import annotations
 MAX_PLACES = 9
 
 
+def as_float(v) -> float | None:
+    """A number read out of config/report JSON as a true finite float, or `None`.
+
+    The single guard every `budget.*` reader must go through, because `bool` is an `int` in Python:
+    `isinstance(True, (int, float))` is True, so a YAML `pipeline_cap_usd: true` (a plausible typo for
+    `82`) passed every `isinstance(x, (int, float))` check in the codebase and rendered "of the $1 cap"
+    inside the C2 approval packet. `float("nan")` is the same defect from the other side: it prints
+    `$nan` and makes every `<=` comparison silently False.
+
+        None / bool / str / NaN / inf -> None   (unmeasured: never a denominator)
+        int / real float              -> float
+    """
+    if isinstance(v, bool) or not isinstance(v, (int, float)):
+        return None
+    f = float(v)
+    return None if f != f or f in (float("inf"), float("-inf")) else f
+
+
 def fmt_usd(v, places: int = 4, unmeasured: str = "UNMEASURED") -> str:
     """Render a spend amount without ever flattening a nonzero value to `$0.0000`.
 
