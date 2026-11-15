@@ -58,6 +58,46 @@ def test_merge_dedupes_same_fact_and_keeps_provenance():
     assert len(acc) == 2
 
 
+def _dup_pair(ca, cb) -> tuple[list[dict], int]:
+    """Seed one record with confidence `ca`, then merge an identical fact carrying `cb`."""
+    acc: list[dict] = []
+    assert U.merge_records(acc, [rec_row("state_facts", type="OWNS", src="E1", dst="E2",
+                                         confidence=ca)], "p4c_bulk") == (1, 0)
+    added, dup = U.merge_records(acc, [rec_row("state_facts", type="OWNS", src="E1", dst="E2",
+                                               confidence=cb)], "p4c_glean")
+    assert (added, dup) == (0, 1)
+    return acc, acc[0]["confidence"]
+
+
+def test_merge_confidence_reads_both_copies_through_the_grade_guard():
+    """Defect 25: the duplicate merge is a max-merge of an LLM score carried in a plain row dict.
+
+    `confidence` reaches P5's `coalesce(confidence, 0.5)` edge weights and `p4c_ladder`'s
+    `low_confidence` trigger, so a `True` (== 1) or `inf` challenger must not beat a real 0.9, and a
+    broken incumbent must not silently win by default.
+    """
+    # A readable, higher challenger wins; a readable lower one does not.
+    assert _dup_pair(0.8, 0.9)[1] == 0.9
+    assert _dup_pair(0.9, 0.8)[1] == 0.9
+    # `True` is not a score of 1.0: it cannot displace a readable 0.8.
+    assert _dup_pair(0.8, True)[1] == 0.8
+    # A non-finite challenger cannot win a max-merge either.
+    assert _dup_pair(0.8, float("inf"))[1] == 0.8
+    # Off-scale and stringified copies are unreadable too.
+    for bad in (1.5, -0.1, float("nan"), "0.9", None, [0.9]):
+        assert _dup_pair(0.8, bad)[1] == 0.8, bad
+
+
+def test_merge_confidence_lets_a_readable_challenger_repair_a_broken_incumbent():
+    """A broken incumbent must not win by default; two broken copies stay UNMEASURED (`None`)."""
+    assert _dup_pair(True, 0.4)[1] == 0.4
+    assert _dup_pair(float("inf"), 0.4)[1] == 0.4
+    assert _dup_pair(True, "0.9")[1] is None
+    assert _dup_pair(float("nan"), 1.5)[1] is None
+    # A readable zero is measured, so it repairs nothing and is not confused with UNMEASURED.
+    assert _dup_pair(0.0, 0.0)[1] == 0.0
+
+
 def test_merge_keeps_records_with_identical_identity_but_different_evidence():
     acc: list[dict] = []
     a = rec_row("claims", kind="view", subjects=["E1"])

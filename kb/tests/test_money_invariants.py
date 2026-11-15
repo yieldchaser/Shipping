@@ -40,8 +40,9 @@ KB = ROOT / "kb"
 MONEY_MODULES = (
     "money.py", "runner.py", "ask.py", "c1_review.py", "p2_tables.py", "p2_series.py",
     "p2_report.py", "p2_known_values.py", "p3_resolve.py", "p4a_report.py",
-    "p4b_run.py", "p4c_audit.py", "p4c_daemon.py", "p4c_glean.py", "p4c_highvalue.py",
-    "p4c_ladder.py", "p4c_report.py", "p4c_run.py", "p5_build.py", "p6_summary.py",
+    "p4b_run.py", "p4c_audit.py", "p4c_daemon.py", "p4c_gate.py", "p4c_glean.py",
+    "p4c_highvalue.py", "p4c_ladder.py", "p4c_report.py", "p4c_run.py", "p4c_union.py",
+    "p5_build.py", "p6_summary.py",
     "p7_analyst.py", "p7_eval.py", "p7_report.py", "p7_rubric.py", "gold_report.py",
     "p3_report.py", "resume.py",
 )
@@ -76,6 +77,13 @@ GRADE_READERS: dict[str, tuple[str, ...]] = {
     "p7_eval.py": ("judge_faithful_cost",),
     "p7_analyst.py": ("parse_analyst",),
     "p7_report.py": ("_metric",),
+    # Defect 25: a merge/aggregate read of an LLM-emitted confidence out of a *plain row dict*. The
+    # union and gate rows are built from `model_dump`/`dict(rec)` and re-read on the JSONL path, so
+    # they never pass the pydantic pin; a bare `isinstance(v, (int, float))` admits `True` (== 1) and
+    # `inf`, which then wins a max-merge or drags a mean past `p4c_ladder`'s `low_confidence` trigger.
+    # `confidence` is a [0, 1] score, so the one grade-scale rule applies: `money.unit_score`.
+    "p4c_gate.py": ("_mean_confidence",),
+    "p4c_union.py": ("merge_records",),
 }
 
 MONEY_KEY_HINTS = ("cost", "spend", "money", "usd", "budget", "allowance", "cap", "price")

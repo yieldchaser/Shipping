@@ -24,6 +24,8 @@ from pathlib import Path
 KB = Path(__file__).resolve().parent
 sys.path.insert(0, str(KB))
 
+import money as M  # noqa: E402  (the single numeric guard: Defect 25)
+
 from extract_gates import gate_chunk  # noqa: E402
 from extract_schema import canonicalize, parse_extraction  # noqa: E402
 from p4b_run import make_job  # noqa: E402  (identical job keys / prompts as P4b)
@@ -170,7 +172,16 @@ def _approx_tokens(sentences) -> int:
 
 
 def _mean_confidence(records) -> float | None:
-    vals = [r.get("confidence") for r in records if r.get("confidence") is not None]
+    """Mean `confidence` of the kept records, or `None` when nothing is measured.
+
+    Defect 25: `confidence` here comes out of a plain row dict (and, on the JSONL/union path, around
+    the pydantic schema entirely), so a bare `is not None` filter admits `True` (== 1) and `inf`.
+    `inf` makes the mean `inf` and `p4c_ladder.triggers` then never fires `low_confidence`; `True`
+    drags the mean up the same way. `confidence` is a [0, 1] score, so it is a grade read: go through
+    `money.unit_score` (which also requires the value to be in range) and drop the ones that do not
+    read - only readable confidences are measured, and an unreadable one is not a zero.
+    """
+    vals = [f for f in (M.unit_score(r.get("confidence")) for r in records) if f is not None]
     return round(sum(vals) / len(vals), 6) if vals else None
 
 

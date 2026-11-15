@@ -187,3 +187,33 @@ def test_gated_chunk_rows_carry_the_rule6_fields(monkeypatch, tmp_path):
     # a chunk with no records has no confidence signal and no failure share
     b = rows["b"]
     assert b["failed_pct"] == 0.0 and b["mean_confidence"] is None
+
+
+def test_mean_confidence_reads_every_value_through_the_grade_guard():
+    """Defect 25: `mean_confidence` is a merge read of an LLM score out of a plain row dict.
+
+    The gated row feeds `p4c_ladder.triggers` `low_confidence` (a chunk whose mean sits below
+    `CONF_MIN` gets escalated), so an unreadable value must not be averaged as if it were a 1.0.
+    """
+    # A readable in-range score is measured; a genuine `0.0` stays a measured zero (not UNMEASURED).
+    assert G._mean_confidence([{"confidence": 0.9}, {"confidence": 0.9}]) == 0.9
+    assert G._mean_confidence([{"confidence": 0.0}]) == 0.0
+    # Nothing to measure => UNMEASURED, never 0.0.
+    assert G._mean_confidence([]) is None
+    assert G._mean_confidence([{}, {"confidence": None}]) is None
+
+
+def test_mean_confidence_rejects_unreadable_values():
+    """`True` (== 1), a non-finite, an off-scale and a stringified confidence are unreadable.
+
+    Kept apart from the readable-arm assertions on purpose: a bool-first loop would mask the
+    non-finite arm, and `inf` is exactly the value that made the trigger never fire.
+    """
+    assert G._mean_confidence([{"confidence": True}, {"confidence": 0.8}]) == 0.8
+    assert G._mean_confidence([{"confidence": float("inf")}, {"confidence": 0.8}]) == 0.8
+    assert G._mean_confidence([{"confidence": float("-inf")}]) is None
+    assert G._mean_confidence([{"confidence": float("nan")}]) is None
+    assert G._mean_confidence([{"confidence": 1.5}]) is None
+    assert G._mean_confidence([{"confidence": -0.1}]) is None
+    assert G._mean_confidence([{"confidence": "0.9"}]) is None
+    assert G._mean_confidence([{"confidence": [0.9]}]) is None

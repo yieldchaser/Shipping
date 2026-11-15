@@ -38,6 +38,7 @@ from pathlib import Path
 KB = Path(__file__).resolve().parent
 sys.path.insert(0, str(KB))
 
+import money as M  # noqa: E402  (the single numeric guard: Defect 25)
 import extract_schema as E  # noqa: E402
 import extract_gates as GR  # noqa: E402
 import p4b_run as B  # noqa: E402
@@ -223,8 +224,16 @@ def merge_records(acc: list[dict], rows: list[dict], source: str) -> tuple[int, 
             continue
         dup += 1
         hit["sources"] = sorted(set(hit["sources"]) | {source})
-        ca, cb = hit.get("confidence"), row.get("confidence")
-        if isinstance(cb, (int, float)) and (not isinstance(ca, (int, float)) or cb > ca):
+        # Defect 25: `confidence` is an LLM-emitted score carried in a plain row dict, so
+        # `isinstance(v, (int, float))` admits `True` (== 1) and `inf`; a bare `>` max-merge then
+        # lets a broken value beat every real one, and a broken incumbent silently wins by default.
+        # Read BOTH sides through `money.unit_score`: only a readable in-range copy can win, a broken
+        # incumbent never blocks a readable challenger, and two unreadable copies stay UNMEASURED
+        # (`None`) rather than becoming a fabricated number.
+        ca, cb = M.unit_score(hit.get("confidence")), M.unit_score(row.get("confidence"))
+        if ca is None:
+            hit["confidence"] = cb
+        elif cb is not None and cb > ca:
             hit["confidence"] = cb
         # keep entity refs the other copy resolved (same identity, different printed handle)
         for key in ("entities", "subjects", "roles"):
