@@ -1242,7 +1242,12 @@ never-run pass is `None`/`(None, 0)` while a booked `$0.00` is `(0.0, 1)`; the a
 `total_usd is None`, never a measured `$0.0000`), `::test_cost_total_sums_only_measured_passes`,
 `test_p4c_ladder.py::test_escalation_cap_defaults_to_the_config_booking_not_a_hardcoded_17` (the stale
 `ESC_CAP_USD = 17.0` outlived the C1 rebooking that cut `escalation_plus_gleaning` to 11 — a hardcoded
-*denominator* is the same defect class as a hardcoded cost), `::test_cap_missing_from_config_falls_back_and_still_reports_a_number`,
+*denominator* is the same defect class as a hardcoded cost),
+`::test_cap_missing_from_config_is_unmeasured_and_never_a_fallback_constant` (a *documented fallback*
+`FALLBACK_ESC_CAP_USD = 11.0` was still a fabricated measurement: the reader now returns `None`, the
+constant is deleted, and `rank_escalation` raises `ValueError` rather than booking against a cap the owner
+never booked), `::test_a_missing_or_bool_cap_is_unmeasured` (`isinstance(True, (int, float))` is True, so a
+`escalation_plus_gleaning: true` booking would have read as a `$1` cap),
 `::test_summarise_renders_money_through_the_three_state_formatter`. Live proof on the real ledger at 19:19:
 `p4c_bulk` `$20.5355`, `p4c_bulk_retry` `$0.122691`, `p4c_glean` `$0.0000` (measured zero — rows exist),
 `p4c_esc`/`p4c_glm2`/`p4c_audit` `UNMEASURED`, `total_usd` `$20.658221` over measured passes only. Full
@@ -1468,6 +1473,15 @@ daemon `kb/p4c_daemon.py --pass p4c_bulk --model DeepSeek-V4.1-Flash --quota 0 -
   `eval` (8) and `rerun_reserve` (9) lines that P5–P8 depend on. This is a **call-site** guard, not a
   gate change: no threshold in `gates.yaml` is touched. Recorded here because the config sum (82.00)
   and the ladder default disagree, and the ladder default is the one that would bind silently.
+  - **RESOLVED (Defect-17 sweep).** `ESC_CAP_USD = 17.0` and its successor fallback
+    `FALLBACK_ESC_CAP_USD = 11.0` are both deleted; `p4c_ladder.escalation_cap() -> float | None` reads
+    `budget.passes.escalation_plus_gleaning` directly (C1 booking, 11) and returns `None` when the config
+    is unreadable. `rank_escalation` raises `ValueError`, and `cmd_plan` raises `SystemExit` naming the
+    config key, instead of booking against a substitute cap. The `p4c_run.cmd_escalate` fallback is now
+    `B.cap_arg(args.cap)` — one config reader for the $82 pipeline cap, no module literal. The stale
+    literal described above can no longer bind silently; an explicit `--cap 11` at drain time is still
+    the intended call (keeps the rung inside its own booking), but a forgotten `--cap` now reads the
+    config booking rather than 17.
 
 ## Completion counter correction (found 23:18 on the live run)
 

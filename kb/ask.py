@@ -31,6 +31,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import tools as T  # noqa: E402
 import llm_runner  # noqa: E402
+import money as M  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 P7_DIR = ROOT / "kb/state/p7"
@@ -188,8 +189,9 @@ def contract_filter(parsed: dict, have: list[float], resolve) -> tuple[dict, dic
 
 
 # ------------------------------------------------------------------ engine
-def _book(model: str, usage: dict, cost: float, *, status: str = "ok", prompt_version: str = "p7-v1",
-          error: str | None = None, latency_ms: int = 0, job_key: str | None = None) -> float:
+def _book(model: str, usage: dict, cost: float | None, *, status: str = "ok",
+          prompt_version: str = "p7-v1",
+          error: str | None = None, latency_ms: int = 0, job_key: str | None = None) -> float | None:
     """Book one P7 model call into the shared `jobs` ledger. Returns the booked cost.
 
     Defect 15b: P7 used to record spend ONLY in `calls.jsonl` (see `_log_call`), so every P7 call
@@ -199,9 +201,19 @@ def _book(model: str, usage: dict, cost: float, *, status: str = "ok", prompt_ve
     then the cache-aware config tariff). Best-effort by design: an unwritable ledger must never
     fail an answer, but it must also never silently pretend the call was free -- the JSONL call log
     remains the per-call trace.
+
+    `cost` is `None` when nothing priced the call (`runner.cost_usd` returns None for an unknown
+    model / missing usage, and a failed call was never measured at all). It is written as SQL NULL,
+    never as `0.0`: a fabricated measured zero understates spend and lets the §7.5 cap drift
+    (Defect 17/21 class). Note the column is `REAL DEFAULT 0`, but the column default only applies
+    to an INSERT that omits it -- we pass the parameter explicitly, so NULL lands as NULL.
     """
     usage = usage or {}
-    cost = float(cost or 0.0)
+
+    def _f(v):
+        return None if v is None else float(v)
+
+    cost = _f(cost)
     try:
         import runner as R
         key = job_key or R.job_key(PASS_NAME, prompt_version, model,
@@ -217,7 +229,7 @@ def _book(model: str, usage: dict, cost: float, *, status: str = "ok", prompt_ve
             con.execute("""CREATE TABLE IF NOT EXISTS jobs(
                 job_key TEXT PRIMARY KEY, pass TEXT, prompt_version TEXT, model TEXT, status TEXT,
                 attempts INTEGER DEFAULT 0, request_hash TEXT, in_tok INTEGER DEFAULT 0,
-                cached_tok INTEGER DEFAULT 0, out_tok INTEGER DEFAULT 0, cost_usd REAL DEFAULT 0,
+                cached_tok INTEGER DEFAULT 0, out_tok INTEGER DEFAULT 0, cost_usd REAL,
                 finish_reason TEXT, latency_ms INTEGER, model_returned TEXT, error TEXT,
                 created_at TEXT, meta TEXT)""")
         with R._ledger_lock:
@@ -228,7 +240,8 @@ def _book(model: str, usage: dict, cost: float, *, status: str = "ok", prompt_ve
                    VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
                    ON CONFLICT(job_key) DO UPDATE SET status=excluded.status,
                        in_tok=excluded.in_tok, cached_tok=excluded.cached_tok,
-                       out_tok=excluded.out_tok, cost_usd=excluded.cost_usd, error=excluded.error""",
+                       out_tok=excluded.out_tok, cost_usd=COALESCE(excluded.cost_usd, jobs.cost_usd),
+                       error=excluded.error""",
                 (key, PASS_NAME, prompt_version, model, status, 1, "",
                  int(usage.get("prompt_tokens") or 0), int(usage.get("cached_tokens") or 0),
                  int(usage.get("completion_tokens") or 0), cost,
@@ -242,13 +255,19 @@ def _book(model: str, usage: dict, cost: float, *, status: str = "ok", prompt_ve
 
 
 def _chat(model: str, messages: list[dict], max_tokens: int = 400,
-          timeout_s: int = 180) -> tuple[str, dict, float]:
+          timeout_s: int = 180) -> tuple[str, dict, float | None]:
+    """One model call. Third element = cost, or `None` when the call could not be priced.
+
+    `None` covers "no usage block came back", "unknown model", and "config price still null" --
+    all states where any number we invented would be a fabricated measurement (Defect 17/21 class).
+    A genuinely free route still reports its explicit `0.0` tariff, so the two stay distinct.
+    """
     t0 = time.time()
     try:
         body = llm_runner.chat(model, messages, max_tokens=max_tokens, temperature=0.0,
                                timeout_s=timeout_s)
     except Exception as exc:  # noqa: BLE001 - bill the attempt, then let the caller degrade
-        _book(model, {}, 0.0, status="error", error=f"{type(exc).__name__}: {exc}",
+        _book(model, {}, None, status="error", error=f"{type(exc).__name__}: {exc}",
               latency_ms=int((time.time() - t0) * 1000))
         raise
     text = ""
@@ -257,7 +276,7 @@ def _chat(model: str, messages: list[dict], max_tokens: int = 400,
     except Exception:  # noqa: BLE001
         text = ""
     usage = body.get("usage") or {}
-    cost = 0.0
+    cost = None
     try:
         import runner as R
         # Delegate to the one authoritative pricer: it prefers the provider-reported measured
@@ -265,13 +284,14 @@ def _chat(model: str, messages: list[dict], max_tokens: int = 400,
         # over-charge cache hits and ignore measured cost (Defect 14 class, found when the judge
         # moved onto the PAID AMD route with a 2%-of-input cache rate).
         cost = R.cost_usd(model, usage)
-    except Exception:  # noqa: BLE001 - unknown model / unreadable config
-        cost = 0.0
+    except Exception:  # noqa: BLE001 - unknown model / unreadable config stays unmeasured
+        cost = None
     latency_ms = int((time.time() - t0) * 1000)
     _book(model, usage, cost, latency_ms=latency_ms)
-    _log_call({"model": model, "usage": usage, "cost_usd": round(cost, 6),
+    _log_call({"model": model, "usage": usage,
+               "cost_usd": None if cost is None else round(cost, 6),
                "latency_ms": latency_ms})
-    return text, usage, round(cost, 6)
+    return text, usage, cost
 
 
 def _log_call(rec: dict) -> None:
@@ -294,8 +314,12 @@ def plan_calls(question: str, as_of: str | None, model: str, chat=None) -> list[
 
 
 def plan_calls_cost(question: str, as_of: str | None, model: str,
-                    chat=None) -> tuple[list[dict], float]:
-    """Plan tool calls. Returns `(calls, cost_usd)` — the planner is a paid call too (Defect 19)."""
+                    chat=None) -> tuple[list[dict], float | None]:
+    """Plan tool calls. Returns `(calls, cost_usd)` — the planner is a paid call too (Defect 19).
+
+    `cost_usd` is `None` when the planner call happened but could not be priced, so the caller's
+    accumulator must treat "unmeasured" as a third state instead of adding a fake `0.0`.
+    """
     chat = chat or _chat
     user = (f"Question: {question}\n"
             + (f"Knowledge cutoff: only documents published on or before {as_of} may be used.\n" if as_of else "")
@@ -305,7 +329,7 @@ def plan_calls_cost(question: str, as_of: str | None, model: str,
                                           {"role": "user", "content": user}], 300)
     except Exception:  # noqa: BLE001 - planner is optional
         return [], 0.0
-    spent = round(float(cost or 0.0), 6)
+    spent = None if cost is None else round(float(cost), 6)
     m = re.search(r"\[.*\]", text or "", re.S)
     if not m:
         return [], spent
@@ -369,7 +393,7 @@ def _trim_results(results: list[dict], budget: int = 14000) -> list[dict]:
 
 
 def compose(question: str, results: list[dict], as_of: str | None, model: str,
-            chat=None, hint: str | None = None) -> tuple[str, dict, float]:
+            chat=None, hint: str | None = None) -> tuple[str, dict, float | None]:
     chat = chat or _chat
     payload = json.dumps(_trim_results(results), ensure_ascii=False, default=str)
     user = (f"Question: {question}\n"
@@ -379,7 +403,7 @@ def compose(question: str, results: list[dict], as_of: str | None, model: str,
     max_tok = 800 if model == ESCALATION_MODEL else 500
     text, usage, cost = chat(model, [{"role": "system", "content": COMPOSER_SYSTEM},
                                      {"role": "user", "content": user}], max_tok)
-    return text, usage or {}, float(cost or 0.0)
+    return text, usage or {}, (None if cost is None else float(cost))
 
 
 def _resolver(con, cache: dict):
@@ -405,11 +429,22 @@ def answer_question(question: str, model: str = DEFAULT_MODEL, escalate: bool = 
     con = con or T.connect(db or T.KB_DB)
     as_of = as_of_of(question)
     calls = default_calls(question, as_of)
-    spent = 0.0  # Defect 19: every paid call in this pipeline must reach the record's cost
+    # Defect 19: every paid call in this pipeline must reach the record's cost. The accumulator is
+    # tri-state (`None` = at least one call went unmeasured) so a question that could not be priced
+    # reports `UNMEASURED` rather than a fabricated `0.0` (Defect 17/21 class).
+    def _add(total: float | None, part: float | None) -> float | None:
+        if total is None or part is None:
+            return None
+        return total + part
+
+    def _r6(v: float | None) -> float | None:
+        return None if v is None else round(v, 6)
+
+    spent: float | None = 0.0
     try:
         planned, plan_cost = plan_calls_cost(question, as_of, model, chat=chat)
         calls += planned
-        spent += plan_cost
+        spent = _add(spent, plan_cost)
     except Exception:  # noqa: BLE001 - planning is optional
         pass
     calls = calls[:MAX_TOOL_CALLS]
@@ -422,10 +457,10 @@ def answer_question(question: str, model: str = DEFAULT_MODEL, escalate: bool = 
     text, usage = "", {}
     try:
         text, usage, cost = compose(question, results, as_of, model, chat=chat)
-        spent += float(cost or 0.0)
+        spent = _add(spent, cost)
     except Exception as exc:  # noqa: BLE001
         record.update(status="model_error", answer=NOT_IN_DATA, error=f"{type(exc).__name__}: {exc}",
-                      elapsed_s=round(time.time() - t0, 2), cost_usd=round(spent, 6))
+                      elapsed_s=round(time.time() - t0, 2), cost_usd=_r6(spent))
         return record
     parsed = parse_answer(text)
     final, dropped = contract_filter(parsed, have, resolve)
@@ -437,7 +472,7 @@ def answer_question(question: str, model: str = DEFAULT_MODEL, escalate: bool = 
                 + ". Copy numbers verbatim from the tool results and cite every sentence.")
         try:
             text2, usage2, cost2 = compose(question, results, as_of, ESCALATION_MODEL, chat=chat, hint=hint)
-            spent += float(cost2 or 0.0)
+            spent = _add(spent, cost2)
             parsed2 = parse_answer(text2)
             final2, dropped2 = contract_filter(parsed2, have, resolve)
             record["escalated"] = True
@@ -446,7 +481,7 @@ def answer_question(question: str, model: str = DEFAULT_MODEL, escalate: bool = 
                 final, dropped, text, usage = final2, dropped2, text2, usage2
                 record["model"] = ESCALATION_MODEL
             else:
-                record["cost_usd"] = round(spent, 6)
+                record["cost_usd"] = _r6(spent)
                 record.update(status="not_in_data", answer=NOT_IN_DATA,
                               sentences=[], cites=[],
                               elapsed_s=round(time.time() - t0, 2))
@@ -460,7 +495,7 @@ def answer_question(question: str, model: str = DEFAULT_MODEL, escalate: bool = 
                   sentences=final.get("sentences", []),
                   cites=[h for s in final.get("sentences", []) for h in s["cites"]],
                   raw_reply=text[:2000], usage=usage,
-                  cost_usd=round(spent, 6),
+                  cost_usd=_r6(spent),
                   elapsed_s=round(time.time() - t0, 2))
     if own:
         con.close()
@@ -487,8 +522,10 @@ def main(argv: list[str] | None = None) -> int:
                 handles = ", ".join(c if isinstance(c, str) else c.get("id", "") for c in s["cites"])
                 print(f"  - {s['sentence']}")
                 print(f"    sources: {handles}")
+        # Owner-facing spend line: `spent_exact`-style semantics via `money.fmt_usd`, so an unmeasured
+        # run prints UNMEASURED instead of a fabricated `$0` (Defect 17/21 class, Lesson 69).
         print(f"[status={rec['status']} model={rec.get('model')} "
-              f"escalated={rec.get('escalated')} cost=${rec.get('cost_usd', 0)} "
+              f"escalated={rec.get('escalated')} cost={M.fmt_usd(rec.get('cost_usd'))} "
               f"elapsed={rec.get('elapsed_s')}s]")
     return 0 if rec["status"] in ("ok", "not_in_data") else 1
 

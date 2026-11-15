@@ -10,6 +10,24 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 DOC = ROOT / "kb" / "reports" / "C1_REVIEW.md"
 
+sys.path.insert(0, str(ROOT / "kb"))
+import c1_review as C  # noqa: E402
+
+
+def test_bakeoff_table_renders_a_missing_cost_as_unmeasured_not_zero():
+    """Defect 19/17: a model row without `cost_usd` must not claim a booked `$0.0000`.
+
+    `.get("cost_usd", 0)` fabricated a measured zero for a key nobody wrote. A row that *does* carry
+    `0.0` (a free NIM route) stays a writer-declared `$0.0000` — the two states must differ.
+    """
+    row = {"precision": 0.9, "precision_ci95": [0.88, 0.92], "recall": 0.8, "f1": 0.85}
+    table = C.bakeoff_table({"models": {"free": {**row, "cost_usd": 0.0},
+                                        "unknown": dict(row)},
+                             "roles": {"reference_models": []}})
+    free, unknown = table.splitlines()[2:4]
+    assert free.endswith("| $0.0000 | UNMEASURED |"), free
+    assert unknown.endswith("| UNMEASURED | UNMEASURED |"), unknown
+
 
 def test_generator_runs_and_writes_packet():
     r = subprocess.run([sys.executable, "-X", "utf8", "-u", str(ROOT / "kb" / "c1_review.py")],

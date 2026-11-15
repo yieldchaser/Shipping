@@ -360,7 +360,8 @@ def _evidence_lines(inds: dict, rules: list[dict], ledger: dict) -> list[str]:
 
 
 def compose_analyst(question: str, segment: str, as_of: date | None, inds: dict,
-                    rules: list[dict], ledger: dict, model: str, chat=None) -> tuple[str, dict, float]:
+                    rules: list[dict], ledger: dict, model: str, chat=None
+                    ) -> tuple[str, dict, float | None]:
     chat = chat or A._chat
     val = valuation_label(inds)
     user = (f"Question: {question}\nSegment: {segment}\nAs of: {(as_of or date.today()).isoformat()}\n"
@@ -368,7 +369,7 @@ def compose_analyst(question: str, segment: str, as_of: date | None, inds: dict,
             + "\n\n" + ANALYST_PROMPT)
     text, usage, cost = chat(model, [{"role": "system", "content": ANALYST_PROMPT},
                                      {"role": "user", "content": user}], 900)
-    return text, usage or {}, float(cost or 0.0)
+    return text, usage or {}, (None if cost is None else float(cost))
 
 
 def parse_analyst(text: str) -> dict:
@@ -513,11 +514,14 @@ def analyse(question: str, segment: str, as_of: date | None = None, model: str =
         record = {"question": question, "segment": segment,
                   "as_of": (as_of or date.today()).isoformat(), "model": model, "escalated": False}
         parsed = {"status": "empty", "sentences": [], "confidence": None, "counter_argument": ""}
-        cost = 0.0
+        # Tri-state accumulator: a call that could not be priced makes the whole record UNMEASURED
+        # (`None`) rather than silently shrinking the run to the calls that happened to be priced
+        # (Defect 17/21 class). `0.0` below is a genuine measured zero: no model call was made.
+        cost: float | None = 0.0
         for attempt_model in ([model, A.ESCALATION_MODEL] if escalate else [model]):
             text, _usage, c = compose_analyst(question, segment, as_of, inds, rules, ledger,
                                              attempt_model, chat=chat)
-            cost += c
+            cost = None if (cost is None or c is None) else cost + c
             parsed = parse_analyst(text)
             if parsed["status"] in ("ok", "not_enough_data"):
                 record["model"] = attempt_model
@@ -533,7 +537,8 @@ def analyse(question: str, segment: str, as_of: date | None = None, model: str =
                        "facts": parsed.get("facts", ""), "indicators_text": parsed.get("indicators", ""),
                        "judgment": parsed.get("judgment", ""), "confidence": parsed.get("confidence"),
                        "counter_argument": parsed.get("counter_argument", ""),
-                       "cites": [], "cost_usd": round(cost, 6), "indicators": inds,
+                       "cites": [], "cost_usd": (None if cost is None else round(cost, 6)),
+                       "indicators": inds,
                        "rules": rules, "ledger": ledger, "dropped": drops})
         for s in parsed.get("sentences", []):
             record["cites"].extend(A.CITE.findall(s["sentence"]))
@@ -549,12 +554,15 @@ def judge_answer(question: str, record: dict, model: str = JUDGE_MODEL, chat=Non
 
 
 def judge_answer_cost(question: str, record: dict, model: str = JUDGE_MODEL,
-                      chat=None) -> tuple[dict, float]:
+                      chat=None) -> tuple[dict, float | None]:
     """Grade an analyst answer. Returns `(verdict, cost_usd)`.
 
     The cost used to be discarded, so `p7_rubric`'s report summed only the analyst's own calls and
     hid every rubric-judge dollar from `money_spent_usd` (Defect 19 class). A call that raises
     propagates the exception with no spend claimed; the caller books the failure it caught.
+
+    `cost_usd` is `None` when the judge call could not be priced -- an unmeasured judge call must
+    not be summed as a measured `0.0` (Defect 17/21 class).
     """
     chat = chat or A._chat
     ind_lines = [f"{i['name']}: {i.get('value', i.get('orders_last_12m', i.get('net', '')))}"
@@ -563,12 +571,12 @@ def judge_answer_cost(question: str, record: dict, model: str = JUDGE_MODEL,
             f"Indicator table:\n" + "\n".join(ind_lines) + "\n\n" + JUDGE_PROMPT)
     text, usage, cost = chat(model, [{"role": "system", "content": JUDGE_PROMPT},
                                      {"role": "user", "content": user}], 500)
-    spent = float(cost or 0.0)
+    spent = None if cost is None else float(cost)
     if not text and JUDGE_FALLBACK_MODEL:
         text, usage, cost = chat(JUDGE_FALLBACK_MODEL,
                                  [{"role": "system", "content": JUDGE_PROMPT},
                                   {"role": "user", "content": user}], 500)
-        spent += float(cost or 0.0)
+        spent = None if (spent is None or cost is None) else spent + float(cost)
     # Defect 16: the fenced reply Gemma actually returns must not be scored as "no verdict".
     return LR.parse_json_object(text), spent
 
@@ -585,9 +593,15 @@ def run_backtest(segment: str, n: int = BACKTEST_DATES, con=None, chat=None, db=
             rows.append({"as_of": d.isoformat(), "call": call,
                          "confidence": rec.get("confidence"), "status": rec["status"],
                          "realised": realised_move(con, segment, d),
-                         "cost_usd": rec.get("cost_usd", 0.0)})
+                         "cost_usd": rec.get("cost_usd")})
+        # Tri-state: one unpriced date makes the whole backtest `None` (UNMEASURED), not a total
+        # that quietly excludes the date it failed to price (Defect 17/21 class).
+        spend: float | None = 0.0
+        for r in rows:
+            c = r.get("cost_usd")
+            spend = None if (spend is None or c is None) else spend + float(c)
         return {"segment": segment, "dates": len(rows), "rows": rows,
-                "spend_usd": round(sum(float(r.get("cost_usd") or 0.0) for r in rows), 6),
+                "spend_usd": None if spend is None else round(spend, 6),
                 **score_calls(rows)}
     finally:
         if own:

@@ -268,10 +268,34 @@ def test_escalation_cap_defaults_to_the_config_booking_not_a_hardcoded_17():
     assert booked != 17.0, "if the booking moves back to 17 this test no longer proves anything"
 
 
-def test_cap_missing_from_config_falls_back_and_still_reports_a_number(monkeypatch):
-    """Config unreadable must degrade to the module default, never to None-in-an-f-string."""
+def test_cap_missing_from_config_is_unmeasured_and_never_a_fallback_constant(monkeypatch):
+    """An unreadable config must read as UNMEASURED, not as a cap the owner never booked.
+
+    The old reader returned `FALLBACK_ESC_CAP_USD = 11.0` here, so a broken config silently booked
+    against a fabricated `$11` denominator and the plan printed it as measured (Defect 17 class).
+    """
     monkeypatch.setattr(L, "KB", L.Path("no/such/dir"))
-    assert L.escalation_cap() == L.FALLBACK_ESC_CAP_USD
+    assert L.escalation_cap() is None
+    assert not hasattr(L, "FALLBACK_ESC_CAP_USD"), (
+        "a fallback cap constant is the defect: an unreadable config must not resolve to a number")
+    with pytest.raises(ValueError):
+        L.rank_escalation(L.PACKS, [], None)
+
+
+def test_a_missing_or_bool_cap_is_unmeasured(monkeypatch, tmp_path):
+    """`isinstance(True, (int, float))` is True, so a `true` booking would read as a `$1` cap."""
+    cfg = tmp_path / "config.yaml"
+
+    def reader(value):
+        cfg.write_text("budget:\n  passes:\n    escalation_plus_gleaning: "
+                       + ("null\n" if value is None else f"{value!r}\n"), encoding="utf-8")
+        monkeypatch.setattr(L, "KB", tmp_path)
+        return L.escalation_cap()
+
+    assert reader(None) is None
+    assert reader(True) is None
+    assert reader("17") is None
+    assert reader(11) == 11.0
 
 
 def test_summarise_renders_money_through_the_three_state_formatter():

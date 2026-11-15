@@ -6,7 +6,8 @@ mean record confidence is below 0.5, or (c) it is a long SEC MD&A-class chunk wh
 count is under half the pilot median for its section type. This module implements that test over the
 gated bulk output, puts every firing chunk through the free Ultrafast single-chunk retry rung first
 (one free retry, per owner decision 3), and only then spends money. The paid rung is glm-5.3
-(owner decision 3: nemotron is excluded from extraction escalation) inside the booked $17 cap,
+(owner decision 3: nemotron is excluded from extraction escalation) inside the escalation booking
+read from `kb/config.yaml` (`budget.passes.escalation_plus_gleaning`, `escalation_cap()`),
 ordered by document value exactly as the bulk high-value selection is ordered (gold chunks, SEC
 MD&A/fleet, broker forecasts, fixtures/TC, S&P, rest) so a capped rung buys the most valuable
 chunks first and reports the remainder as declared partial coverage (D12). Chunk length, failure
@@ -44,27 +45,30 @@ ESC_PASS = "p4c_esc"
 ESC_MODEL = "glm-5.3"
 
 
-def escalation_cap() -> float:
+def escalation_cap() -> float | None:
     """The escalation booking from `kb/config.yaml` `budget.passes.escalation_plus_gleaning`.
 
     This module shipped a literal `ESC_CAP_USD = 17.0` while the booking it spends has since been
     amended down to 11 (the AMD bulk pass, being paid, had to come out of the other bookings - see the
     rebooking block in config). A hardcoded cap is the same defect class as a hardcoded spend: the
     number is a *denominator the owner reads in the ladder plan*, and a stale one silently authorises
-    6 dollars more escalation than was ever booked. Read it, and fall back to the module default only
-    if config is genuinely unreadable - in which case `summarise` reports the cap it actually used.
+    6 dollars more escalation than was ever booked.
+
+    Returns `None` when the config cannot be read or does not hold a numeric booking. A fallback
+    constant was the previous behaviour and is exactly the defect: an unreadable config would resolve
+    to `$11` and the plan would print a cap the owner never booked. `None` forces the caller to
+    refuse (`rank_escalation`) or to pass `--cap` explicitly, and renders as `UNMEASURED`.
     """
     try:
         import yaml
         cfg = yaml.safe_load((KB / "config.yaml").read_text(encoding="utf-8")) or {}
         v = (((cfg.get("budget") or {}).get("passes") or {})
              .get("escalation_plus_gleaning"))
-        return float(v) if v is not None else FALLBACK_ESC_CAP_USD
     except (OSError, ValueError, ImportError, AttributeError, TypeError):
-        return FALLBACK_ESC_CAP_USD
-
-
-FALLBACK_ESC_CAP_USD = 11.0
+        return None
+    if not isinstance(v, (int, float)) or isinstance(v, bool):
+        return None
+    return float(v)
 
 
 FAIL_PCT_MAX = 0.30
@@ -249,8 +253,11 @@ def build_queue_stream(paths) -> dict:
 def _single_meta(pack: dict, cid: str, gold: set[str], n: int) -> dict:
     sp = R.single_pack(pack, cid, n)
     tier = HV.TIERS[HV.tier_of(sp, gold)]
+    # `cost` is projected money: route it through money.round_usd so the precision lives in one place
+    # and the projection cannot be rounded with a per-file literal that outlives the house rule
+    # (Defect 17 class). `score` is a ranking score, not money, and keeps its own rounding.
     return {"n": n, "chunk_id": cid, "doc_id": pack["doc_id"], "tier": tier,
-            "score": round(HV.score_of(sp), 4), "cost": round(HV.est_cost(sp), 6)}
+            "score": round(HV.score_of(sp), 4), "cost": M.round_usd(HV.est_cost(sp))}
 
 
 def plan_retry(packs_path: Path = PACKS, queue=(), out_path: Path = RETRY_PACKS) -> dict:
@@ -277,8 +284,13 @@ def rank_escalation(packs_path: Path = PACKS, queue=(), cap: float | None = None
 
     `cap=None` (the default) reads the booking from config rather than trusting the old literal, so a
     caller that forgets to pass one still cannot overrun the rebooked escalation line.
+    `escalation_cap()` is tri-state: it returns `None` when the config is unreadable. That must never
+    become a fallback constant (a cap the owner never booked) nor `0.0` (which would make every chunk
+    "unaffordable" and report a fabricated "cap exhausted" verdict). It is a hard error instead.
     """
     cap = escalation_cap() if cap is None else cap
+    if cap is None:
+        raise ValueError("p4c_ladder: escalation cap unreadable; pass --cap explicitly")
     wanted = {q["chunk_id"] for q in queue}
     gold = HV.load_gold_chunk_ids()
     meta: list[dict] = []
@@ -301,8 +313,11 @@ def rank_escalation(packs_path: Path = PACKS, queue=(), cap: float | None = None
     for m in picked:
         t = tiers.setdefault(m["tier"], {"calls": 0, "est_cost": 0.0})
         t["calls"] += 1
-        t["est_cost"] = round(t["est_cost"] + m["cost"], 4)
-    return {"picked": picked, "spent": round(spent, 4), "cap": cap,
+        # Projected tier money: `round(..., 4)` flattens a sub-cent estimate into the measured-zero
+        # value `0.0`; `M.round_usd` keeps 6 places so the projection stays distinguishable
+        # (Defect 17 class). `calls` is a count, not money, and is untouched.
+        t["est_cost"] = M.round_usd(t["est_cost"] + m["cost"])
+    return {"picked": picked, "spent": M.round_usd(spent), "cap": cap,
             "candidates": len(meta), "skipped": len(meta) - len(picked),
             "tiers": tiers, "unmatched_queue": len(wanted) - len(meta)}
 
@@ -359,7 +374,15 @@ def cmd_plan(args) -> int:
         esc_q = build_queue_stream([Path(args.gated), Path(esc_gated)])["queue"]
     else:
         esc_q = q["queue"]
-    esc = rank_escalation(Path(args.packs), esc_q, args.cap)
+    esc = rank_escalation(Path(args.packs), esc_q, args.cap) if args.cap is not None else None
+    if esc is None:
+        # Resolve the booking before any ranking/writing so an unreadable config aborts cleanly
+        # instead of booking against a fallback cap (Defect 17 class). `--cap` bypasses the read.
+        cap = escalation_cap()
+        if cap is None:
+            raise SystemExit("p4c_ladder: cannot read budget.passes.escalation_plus_gleaning from "
+                             "kb/config.yaml; pass --cap explicitly")
+        esc = rank_escalation(Path(args.packs), esc_q, cap)
     if not args.plan_only:
         esc_written = write_escalation(esc["picked"], Path(args.packs), Path(args.esc_out))
     else:

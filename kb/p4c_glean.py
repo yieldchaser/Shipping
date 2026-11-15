@@ -27,7 +27,6 @@ sys.path.insert(0, str(KB))
 import p4b_run as B  # noqa: E402
 import p4c_gate as G  # noqa: E402
 import p4c_run as PR  # noqa: E402
-import runner as R  # noqa: E402
 from extract_schema import STATIC_PROMPT, NUMBER_RE, parse_extraction  # noqa: E402
 
 GLEAN_PASS = "p4c_glean"
@@ -165,7 +164,12 @@ def cmd_run(args) -> int:
     bulk_mode = PR.load_modes().get(bulk_model)
     if not bulk_mode:
         raise SystemExit(f"no transport mode for the bulk model {bulk_model}")
-    cap = args.cap if args.cap is not None else max(0.0, B.PIPELINE_CAP - R.spent())
+    # Tri-state cap: a failed config/ledger read is UNMEASURED, not "$0 of budget left" - a glean run
+    # started against a fabricated exhausted budget would silently do nothing and look like a pass.
+    cap = B.cap_arg(args.cap)
+    if cap is None:
+        raise SystemExit("cannot price this glean run: pipeline cap or ledger sum unreadable "
+                         "(pass --cap to run anyway)")
     packs = Path(args.packs) if args.packs else PR.PACKS
     st = PR.run_packs(GLEAN_PASS, model, cap, packs_path=packs, limit=args.limit,
                       shard=args.shard, job_maker=job_maker(bulk_model, bulk_mode))

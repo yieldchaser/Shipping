@@ -10,8 +10,22 @@ import pytest
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 import p4a_recall_set as RS  # noqa: E402
+import p4a_report as RP  # noqa: E402
 import p4a_retrieve as R  # noqa: E402
 from p4a_eval import summarise  # noqa: E402
+
+
+def test_absent_money_key_is_unmeasured_not_a_measured_zero():
+    """Defect 19/17: an absent producer key must not render as a spend.
+
+    `p4a_index.py` writes no `money_spent_usd` at all, so `.get(k, 0.0)` would report the free-tier
+    embed's real `$0.0000` as the *total* — a fabricated measurement of a key nobody wrote.
+    """
+    assert RP.money_total({"money_spent_usd": 0.0}, {"money_spent_usd": 0.0}) == 0.0
+    assert RP.money_total({"money_spent_usd": 0.0}, {}) is None
+    assert RP.money_total({}, {"money_spent_usd": 0.0}) is None
+    assert RP.money_total({"money_spent_usd": 1.25}, {"money_spent_usd": 0.5}) == 1.75
+    assert RP.money_total() == 0.0
 
 ROOT = Path(__file__).resolve().parents[2]
 GOLD = ROOT / "kb/reports/p4a_recall_set.json"

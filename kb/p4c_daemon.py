@@ -243,7 +243,12 @@ def main() -> int:
     ap.add_argument("--bulk-model", default=None,
                     help="bulk model whose raws seed <first_pass_records> (with --glean)")
     args = ap.parse_args()
-    cap = args.cap if args.cap is not None else max(0.0, B.PIPELINE_CAP - R.spent())
+    # Tri-state cap: a daemon that cannot read its own budget must not substitute `$0` and idle for a
+    # day believing the pipeline is spent (Defect 17 class). Refuse the tick instead.
+    cap = B.cap_arg(args.cap)
+    if cap is None:
+        raise SystemExit("cannot price this daemon tick: pipeline cap or ledger sum unreadable "
+                         "(pass --cap to run anyway)")
     if args.glean:
         import p4c_glean as GL
         bulk_model = args.bulk_model or args.model

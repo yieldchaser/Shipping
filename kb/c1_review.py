@@ -6,9 +6,12 @@ p3_owner_sample.json. No model calls, no randomness.
 from __future__ import annotations
 
 import json
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "kb"))
+import money as M  # noqa: E402
 REPORTS = ROOT / "kb" / "reports"
 
 
@@ -24,6 +27,9 @@ def md_table(headers: list[str], rows: list[list[str]]) -> str:
 
 
 def bakeoff_table(p4b: dict) -> str:
+    # Defect 19/17 class: `m.get("cost_usd", 0)` renders a *missing* measurement as a booked `$0.0000`.
+    # Absent -> UNMEASURED; present (even an exact `0.0`, e.g. a free NIM route) -> rendered as measured.
+    # `M.fmt_usd(..., 2)` keeps the projected column byte-identical to the old `:.2f` for present values.
     rows = []
     for name, m in p4b["models"].items():
         role = "reference" if name in p4b["roles"]["reference_models"] else "candidate"
@@ -37,8 +43,8 @@ def bakeoff_table(p4b: dict) -> str:
             f"{m['f1']:.4f}",
             f"{m.get('gate_pass_rate', 0):.4f}",
             f"{m.get('call_success_rate', 0):.4f}",
-            f"${m.get('cost_usd', 0):.4f}",
-            f"${m.get('projected_full_scope_usd', 0):.2f}",
+            M.fmt_usd(m.get("cost_usd")),
+            M.fmt_usd(m.get("projected_full_scope_usd"), 2),
         ])
     return md_table(
         ["model", "role", "coverage", "P", "P 95% CI", "R", "F1", "gate pass",

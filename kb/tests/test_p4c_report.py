@@ -289,12 +289,20 @@ def test_rule6_and_recall_readers(tmp_path):
     plan.write_text(json.dumps({"queue": {"chunks": 100, "queue": 8, "queue_rate": 0.08,
                                          "triggers": {"fail_pct": 6}},
                                 "retry": {"selected": 8, "unmatched": 1},
-                                "escalation": {"picked": 5, "skipped": 3, "est_usd": 0.07,
-                                               "cap_usd": 17.0, "model": "glm-5.3",
+                                "escalation": {"picked": 5, "skipped": 3, "spent": 0.07,
+                                               "cap": 17.0, "model": "glm-5.3",
                                                "partial_coverage": True}}), encoding="utf-8")
     r6 = P.rule6(plan)
     assert r6["present"] and r6["queue"] == 8 and r6["escalation_skipped"] == 3
     assert r6["partial_coverage"] is True and r6["escalation_model"] == "glm-5.3"
+    # The fixture used to carry `est_usd`/`cap_usd` - the vocabulary this reader *asked* for and that
+    # `p4c_ladder` never wrote - so the round-trip looked healthy while §12 rendered `$None of $None
+    # cap`. Pin the real ladder keys (`spent`/`cap`) AND that the dead vocabulary is not what is read.
+    assert r6["escalation_est_usd"] == 0.07 and r6["escalation_cap_usd"] == 17.0
+    plan.write_text(json.dumps({"escalation": {"est_usd": 0.07, "cap_usd": 17.0}}), encoding="utf-8")
+    dead = P.rule6(plan)
+    assert dead["present"] and dead["escalation_est_usd"] is None
+    assert dead["escalation_cap_usd"] is None
     rec = tmp_path / "recall.json"
     rec.write_text(json.dumps({"union": {"recall": 0.61, "candidates": 500, "matched": 200},
                                "baseline_replayed_p4b_cand_recall": 0.4006,

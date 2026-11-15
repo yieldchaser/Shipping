@@ -510,5 +510,23 @@ def test_chat_books_an_error_row_when_llm_runner_chat_returns_garbage(tmp_path, 
     path, _ = _scratch_ledger(tmp_path, monkeypatch)
     monkeypatch.setattr(A.llm_runner, "chat", lambda *a, **k: {})
     text, usage, cost = A._chat(A.DEFAULT_MODEL, [{"role": "user", "content": "x"}])
-    assert text == "" and usage == {} and cost == 0.0
+    # No usage block came back, so nothing priced the call: UNMEASURED (`None`), not a fake `0.0`
+    # (Defect 17/21 class). A genuinely free route reports its explicit `0.0` tariff instead.
+    assert text == "" and usage == {} and cost is None
     assert _rows(path)[0][2] == "ok"
+    assert _rows(path)[0][6] is None, "the NULL row keeps the unmeasured state at rest"
+
+
+def test_unmeasured_chat_spend_stays_null_and_is_not_a_measured_zero(tmp_path, monkeypatch):
+    """`None` cost must survive the round-trip through the ledger as SQL NULL."""
+    path, R = _scratch_ledger(tmp_path, monkeypatch)
+    monkeypatch.setattr(A.llm_runner, "chat",
+                        lambda *a, **k: {"choices": [{"message": {"content": "x"}}]})
+    A._chat(A.DEFAULT_MODEL, [{"role": "user", "content": "x"}])
+    real = R.LEDGER
+    monkeypatch.setattr(R, "LEDGER", path)
+    try:
+        total, rows = R.spent_rows(passes=[A.PASS_NAME])
+    finally:
+        monkeypatch.setattr(R, "LEDGER", real)
+    assert rows == 1 and total is None, "one unmeasured row, not $0.00"

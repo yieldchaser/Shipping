@@ -173,7 +173,22 @@ def test_runner_cost_prefers_measured_cost_then_price_table():
     assert R.cost_usd("deepseek-v4-pro", {"prompt_tokens": 1_000_000, "completion_tokens": 0}) == 1.32
     assert R.cost_usd("deepseek-v4-pro", {"prompt_tokens": 10, "completion_tokens": 10, "cost": 0.5}) == 0.5
     assert R.cost_usd("nvidia/nemotron-3-ultra-550b-a55b", {"prompt_tokens": 10, "completion_tokens": 10}) == 0.0
-    assert R.cost_usd("deepseek-v4-flash", {"prompt_tokens": 10, "completion_tokens": 10}) == 0.0
+
+
+def test_runner_cost_is_unmeasured_not_zero_when_nothing_prices_the_call():
+    """Defect 17/21 class, runner ceiling: silence must never book as a measured zero.
+
+    `deepseek-v4-flash` has an explicit `null` tariff in `kb/config.yaml` (enclave is billed through
+    the measured `usage.cost`, not the table), so a call to it with no reported cost is UNMEASURED.
+    Booking it as 0.0 understated spend and let the §7.5 pipeline cap drift. A route whose config
+    tariff is an explicit 0.0 still reports a measured zero -- the two states stay distinct.
+    """
+    assert R.cost_usd("deepseek-v4-flash", {"prompt_tokens": 10, "completion_tokens": 10}) is None
+    assert R.cost_usd("no-such-model-id", {"prompt_tokens": 10}) is None
+    assert R.cost_usd("deepseek-v4-pro", {}) is None
+    assert R.cost_usd("deepseek-v4-pro", None) is None
+    # A provider-reported number is authoritative even when it is exactly zero.
+    assert R.cost_usd("deepseek-v4-pro", {"prompt_tokens": 10, "cost": 0.0}) == 0.0
 
 
 def test_ledger_roundtrip_and_spend_sum(tmp_path, monkeypatch):
@@ -232,6 +247,77 @@ def test_spent_exact_reads_the_same_total_as_spent_when_rows_exist(tmp_path, mon
     assert R.spent(passes=["p4b_y"]) == pytest.approx(exact)
     assert R.spent_exact() >= exact  # whole-ledger form still works
 
+
+def test_a_failed_reattempt_cannot_erase_an_already_booked_measured_cost(tmp_path, monkeypatch):
+    """Defect 19 (real cost dropped) at the ledger primitive.
+
+    `_record` upserts `ON CONFLICT(job_key)`. Plain `cost_usd=excluded.cost_usd` meant that a
+    re-attempt which books no cost (retry exhaustion, HTTP error, fatal) replaced the earlier measured
+    cost of that same job with NULL, and `SUM(cost_usd)` then stopped counting spend that really
+    happened. Reachable in the planned drain: the scratch raw-dir cleanup removes the cached raw JSON,
+    the ledger still says `ok`, so `_one` re-calls the job and a failure wipes the row's cost.
+    """
+    monkeypatch.setattr(R, "LEDGER", tmp_path / "ledger.sqlite")
+    monkeypatch.setattr(R, "_SCHEMA_INIT", False)
+    R._ledger_lock = R.threading.Lock()
+    con = R.connect()
+    r = R.Runner("p4b_keep", "extraction-v1", cap_usd=1.0)
+    r.con = con
+    job = {"job_key": "k1", "model": "m", "meta": {}}
+    r._record(job, status="ok", in_tok=10, out_tok=5, cost=0.25, model_returned="m")
+    assert R.spent_exact(passes=["p4b_keep"]) == pytest.approx(0.25)
+    # the re-attempt fails and carries no measurement
+    r._record(job, status="error", attempts=3, error="HTTP 500")
+    assert con.execute("SELECT status, cost_usd FROM jobs WHERE job_key='k1'").fetchone() == \
+        ("error", pytest.approx(0.25)), "the measured 0.25 must survive a costless failure"
+    assert R.spent_exact(passes=["p4b_keep"]) == pytest.approx(0.25)
+    # a later SUCCESSFUL re-call may replace it: that is a fresh measurement, not a loss
+    r._record(job, status="ok", in_tok=1, out_tok=1, cost=0.5, model_returned="m")
+    assert R.spent_exact(passes=["p4b_keep"]) == pytest.approx(0.5)
+    # and a brand-new failed job still books NULL, not 0.0
+    r._record({"job_key": "k2", "model": "m", "meta": {}}, status="fatal", error="HTTP 402")
+    assert con.execute("SELECT cost_usd FROM jobs WHERE job_key='k2'").fetchone()[0] is None
+    # the NULL row is not counted, so the pass total stays exactly the measured 0.5
+    assert R.spent_exact(passes=["p4b_keep"]) == pytest.approx(0.5)
+
+
+def test_runner_stats_cost_goes_unmeasured_when_a_call_cannot_be_priced(tmp_path, monkeypatch):
+    """The in-process batch total must not silently omit an unpriced call (Defect 17 class)."""
+    monkeypatch.setattr(R, "LEDGER", tmp_path / "ledger.sqlite")
+    monkeypatch.setattr(R, "_SCHEMA_INIT", False)
+    R._ledger_lock = R.threading.Lock()
+
+    def fake_chat(model, messages, **kw):
+        return {"model": model, "choices": [{"message": {"content": "{}"}, "finish_reason": "stop"}],
+                "usage": {}}
+
+    monkeypatch.setattr(R.LR, "chat", fake_chat)
+    monkeypatch.setattr(R.LR, "key_pool_size", lambda *a, **k: 1)
+    r = R.Runner("p4b_unpriced", "extraction-v1", cap_usd=100.0, start=2, ceiling=2)
+    r.run([{"job_key": "u1", "model": "deepseek-v4-flash", "messages": [], "meta": {}}])
+    assert r.stats["cost"] is None, "one unpriced call unmeasures the batch total"
+    assert "UNMEASURED" in R.M.fmt_usd(r.stats["cost"])
+    assert R.spent_exact(passes=["p4b_unpriced"]) is None, "the row is NULL, not a measured zero"
+
+
+def test_cached_reenqueue_preserves_the_cached_cost(tmp_path, monkeypatch):
+    """The cached path returns the stored cost -- `None` must survive the round trip."""
+    monkeypatch.setattr(R, "LEDGER", tmp_path / "ledger.sqlite")
+    monkeypatch.setattr(R, "_SCHEMA_INIT", False)
+    R._ledger_lock = R.threading.Lock()
+    con = R.connect()
+    r = R.Runner("p4b_cache", "extraction-v1", cap_usd=1.0)
+    r.con = con
+    job = {"job_key": "c1", "model": "m", "messages": [], "meta": {}}
+    raw = tmp_path / "raw"
+    monkeypatch.setattr(R, "RAW", raw)
+    r._record(job, status="ok", in_tok=3, out_tok=2, cost=None, model_returned="m")
+    raw_path = R.raw_path("p4b_cache", "c1")
+    raw_path.write_text(R.json.dumps({"status": "ok", "cost": None, "usage": {"prompt_tokens": 3}}),
+                        encoding="utf-8")
+    got = r._cached(job)
+    assert got is not None and got.get("cost") is None, "an unpriced cached row must not become 0.0"
+    assert R.spent_exact(passes=["p4b_cache"]) is None
 
 def test_runner_concurrency_reaches_the_requested_worker_count(tmp_path, monkeypatch):
     """Regression: `asyncio.to_thread` used the loop's default executor, capped at
@@ -490,3 +576,45 @@ def test_p4b_report_seed_matches_gates_seed():
     import p4b_run as B
     assert d["phase"] == "P4B"
     assert d["sample_seed"] == B.seed_for("P4B")
+
+
+def test_pipeline_cap_is_read_from_config_and_unmeasured_when_it_cannot_be(monkeypatch, tmp_path):
+    """The cap was a module literal `PIPELINE_CAP = 82.0` duplicating `budget.pipeline_cap_usd`.
+
+    A duplicate of an authored money value can silently drift from the authored one, and a *hardcoded*
+    duplicate can never be unmeasured: when the config read fails the old literal kept answering `$82`,
+    which is the "fabricated measurement" shape this sweep removes (Defect 17 class, Lesson 69).
+    """
+    assert B.pipeline_cap() == 82.0  # the committed `budget.pipeline_cap_usd`
+    assert not hasattr(B, "PIPELINE_CAP")  # the duplicate is gone, so it cannot drift back
+
+    bad = tmp_path / "config.yaml"
+    bad.write_text("budget: {pipeline_cap_usd: null}\n", encoding="utf-8")
+    monkeypatch.setattr(B, "CONFIG", bad)
+    assert B.pipeline_cap() is None                    # config prices the cap as unknown
+    assert B.cap_arg(None) is None                     # -> the headroom is unmeasured too
+    bad.write_text("budget: {pipeline_cap_usd: true}\n", encoding="utf-8")
+    assert B.pipeline_cap() is None                    # `bool` is an `int` in Python; not a price
+    monkeypatch.setattr(B, "CONFIG", tmp_path / "absent.yaml")
+    assert B.pipeline_cap() is None                    # unreadable file
+
+
+def test_cap_arg_prefers_the_operator_cap_and_never_clamps_an_unmeasured_read(monkeypatch):
+    """An operator `--cap` is authoritative even when the ledger cannot be read.
+
+    The old fallback `max(0.0, B.PIPELINE_CAP - R.spent())` turned a failed read into "budget
+    exhausted": `max(0.0, ...)` both hides the failure and answers with the measured-zero string. A
+    `None` cap makes `Runner` refuse to start instead, and must never be coerced with `or 0.0`.
+    """
+    assert B.cap_arg(3.5) == 3.5                       # explicit wins, no ledger read needed
+    monkeypatch.setattr(B, "pipeline_cap", lambda: 82.0)
+    monkeypatch.setattr(B.R, "spent_exact", lambda *a, **k: 10.0)
+    assert B.cap_arg(None) == 72.0                     # measured headroom
+    monkeypatch.setattr(B.R, "spent_exact", lambda *a, **k: 0.0)
+    assert B.cap_arg(None) == 82.0                     # measured zero spend is a real measurement
+    monkeypatch.setattr(B.R, "spent_exact", lambda *a, **k: None)
+    assert B.cap_arg(None) is None                     # sumless ledger -> unmeasured, not $82
+    monkeypatch.setattr(B, "pipeline_cap", lambda: None)
+    monkeypatch.setattr(B.R, "spent_exact", lambda *a, **k: 10.0)
+    assert B.cap_arg(None) is None                     # unreadable config -> unmeasured
+    assert B.cap_arg(0.0) == 0.0                       # `0.0` stays a deliberate operator choice

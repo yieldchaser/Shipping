@@ -475,6 +475,33 @@ def test_log_keeps_explicit_zero_for_free_judge(monkeypatch, tmp_path):
     assert got == 0.0
 
 
+def test_log_leaves_an_unpriceable_call_unmeasured_not_zero(monkeypatch, tmp_path):
+    """Defect 17/21 class: no usage block / a null tariff must book NULL, never a measured 0.0."""
+    import sqlite3
+
+    import runner as R
+
+    ledger = tmp_path / "ledger.sqlite"
+    monkeypatch.setattr(R, "LEDGER", ledger)
+    monkeypatch.setattr(R, "_SCHEMA_INIT", False)
+
+    # no usage at all: nothing to price, so nothing may be invented
+    assert P._log("p6:unmeasured-probe", "p6_summary", P.WRITER_MODEL, {}) is None
+    # tariff still `null` in kb/config.yaml (measured in P-1) => unknown price, not free
+    assert P._log("p6:null-price-probe", "p6_summary", "deepseek-v4-flash",
+                  {"prompt_tokens": 500, "completion_tokens": 50}) is None
+    con = sqlite3.connect(f"file:{ledger}?mode=ro", uri=True)
+    try:
+        rows = con.execute("SELECT job_key, cost_usd FROM jobs ORDER BY job_key").fetchall()
+    finally:
+        con.close()
+    assert [r[0] for r in rows] == ["p6:null-price-probe", "p6:unmeasured-probe"]
+    assert all(r[1] is None for r in rows), f"unmeasured rows must stay NULL, got {rows}"
+    # phase_spend_usd() must report UNMEASURED rather than an omission of those two rows
+    monkeypatch.setattr(R, "spent_exact", lambda passes=None, prefix=None: None)
+    assert P.phase_spend_usd() is None
+
+
 # ------------------------------------------------------------------ judge score trust
 def test_clamp_score_rejects_unusable_judge_scores():
     """Defect 17: a judge score outside [0, 1] (or non-numeric) must never be graded."""
@@ -512,11 +539,82 @@ def test_judge_node_rejects_inflated_score(monkeypatch):
 
 
 def test_judge_node_does_not_silently_grade_a_missing_score(monkeypatch):
-    """A JSON reply without a usable score must be retried, not coerced to 0.0 and counted graded."""
+    """Defect 21: a JSON reply without a usable score must be retried, then left UNGRADED (None).
+
+    This test used to assert `out["score"] == 0.0`, which cemented the bug: `run_judge` classifies
+    ungraded rows by `score is None`, so a 0.0 was booked as a *graded* zero and the outage never
+    reached `ungraded`.
+    """
     _judge_stub(monkeypatch, ['{"verdict": "supported", "why": "no score here"}'])
     out = P.judge_node("spot was 5 [obs:1]", [], retries=2)
-    assert out["score"] == 0.0 and out["verdict"] is None
+    assert out["score"] is None, "an exhausted judge must not be graded 0.0"
+    assert out["verdict"] is None
     assert out["error"] is not None and out["error"].startswith("bad_score"), out
+
+
+def test_judge_node_returns_none_after_a_dead_judge(monkeypatch):
+    """Defect 21: a raising judge must return score=None so `run_judge` counts the row ungraded."""
+    def dead_chat(model, msgs, **_kw):
+        raise RuntimeError("429 rate limited")
+
+    monkeypatch.setattr(P, "chat", dead_chat)
+    monkeypatch.setattr(P.time, "sleep", lambda _s: None)
+    out = P.judge_node("spot was 5 [obs:1]", [], retries=2)
+    assert out["score"] is None, out
+    assert "429" in (out["error"] or ""), out
+
+
+def test_a_dead_judge_is_reported_as_ungraded_not_as_unfaithful(monkeypatch, tmp_path):
+    """Defect 21 end to end: the producer, the classifier and the gate must agree on ONE sentinel.
+
+    The old contract had a producer emitting 0.0 and a classifier testing for None, so a judge that
+    never answered produced `graded=sampled, ungraded=0, ungraded_errors=[]` -- a fabricated benign
+    zero -- and the gate failed only via `faithful_rate 0.0`, i.e. it blamed the writer.
+    """
+    nodes = tmp_path / "nodes.jsonl"
+    rows = [{"node_id": f"n:{i}", "segment": "capesize", "grain": "month", "period": "2026-03",
+             "evidence": [], "sentences": [{"sentence": f"spot was {i}", "cites": ["obs:1"]}]}
+            for i in range(4)]
+    nodes.write_text("\n".join(json.dumps(r) for r in rows) + "\n")
+    index = {r["node_id"]: {k: v for k, v in r.items() if k != "evidence"} for r in rows}
+
+    def dead_chat(model, msgs, **_kw):
+        raise RuntimeError("429 rate limited")
+
+    monkeypatch.setattr(P, "chat", dead_chat)
+    monkeypatch.setattr(P.time, "sleep", lambda _s: None)
+    out = P.run_judge(index, n=4, seed=1,
+                      judge=lambda text, ev, **_kw: P.judge_node(text, ev, retries=2), path=nodes)
+
+    assert out["sampled"] == 4, out
+    assert out["graded"] == 0, "nothing was graded, so nothing may be counted as a grade"
+    assert out["ungraded"] == out["sampled"] == 4
+    assert out["ungraded_rate"] == 1.0
+    assert out["mean_score"] is None and out["faithful_rate"] is None, \
+        "no graded row means no mean; 0.0 would read as unfaithfulness"
+    assert out["ungraded_errors"] and all("429" in e for e in out["ungraded_errors"]), out
+
+    build = {"counts": {"leaves": 4, "parents_q": 0, "parents_y": 0, "cached": 0, "empty": 0,
+                        "sentences": 4, "dropped": 0}, "wall_seconds": 1.0}
+    rep = P.build_report(index, build, out)
+    assert rep["gate_passed"] is False, "a dead judge must fail the P6 gate"
+    assert rep["judge"]["ungraded"] == 4 and rep["judge"]["faithful_rate"] is None
+
+
+def test_run_judge_reports_none_when_it_grades_nothing(tmp_path):
+    """Defect 21 corollary: `if scores else 0.0` faked a `faithful_rate 0.0` out of an empty run."""
+    nodes = tmp_path / "nodes.jsonl"
+    rec = {"node_id": "n:0", "segment": "capesize", "grain": "month", "period": "2026-03",
+           "evidence": [], "sentences": [{"sentence": "spot was 5", "cites": ["obs:1"]}]}
+    nodes.write_text(json.dumps(rec) + "\n")
+    index = {"n:0": {k: v for k, v in rec.items() if k != "evidence"}}
+    out = P.run_judge(index, n=1, seed=1,
+                      judge=lambda text, ev, **_kw: {"score": None, "verdict": None,
+                                                     "why": None, "error": "bad_score:None"},
+                      path=nodes)
+    assert out["graded"] == 0 and out["ungraded"] == 1
+    assert out["mean_score"] is None and out["faithful_rate"] is None
+    assert out["ungraded_rate"] == 1.0
 
 
 def test_judge_node_falls_back_to_the_fallback_model_on_bad_score(monkeypatch):

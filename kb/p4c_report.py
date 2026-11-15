@@ -205,7 +205,10 @@ def rule6(path: Path = LADDER_PLAN) -> dict:
             "queue_rate": q.get("queue_rate"), "triggers": q.get("triggers"),
             "retry_singles": retry.get("selected"), "retry_unmatched": retry.get("unmatched"),
             "escalation_picked": esc.get("picked"), "escalation_skipped": esc.get("skipped"),
-            "escalation_est_usd": esc.get("est_usd"), "escalation_cap_usd": esc.get("cap_usd"),
+            # Ladder writes `spent`/`cap` (`p4c_ladder.py::plan` end). These two keys used to read
+            # `est_usd`/`cap_usd`, which exist nowhere in the plan, so the §12 line below rendered
+            # `$None of $None cap` instead of a number. `None` still renders if the plan is stale.
+            "escalation_est_usd": esc.get("spent"), "escalation_cap_usd": esc.get("cap"),
             "escalation_model": esc.get("model"), "partial_coverage": esc.get("partial_coverage")}
 
 
@@ -499,8 +502,12 @@ def _md(rep: dict) -> str:
                   f"(unmatched {r6.get('retry_unmatched')}) |",
                   f"| escalated to `{r6.get('escalation_model')}` | {r6.get('escalation_picked')} "
                   f"(skipped by cap {r6.get('escalation_skipped')}) |",
-                  f"| escalation spend | ${r6.get('escalation_est_usd')} of "
-                  f"${r6.get('escalation_cap_usd')} cap |",
+                  # `est_usd`/`cap_usd` were dead keys for a while, so this row rendered
+                  # `$None of $None cap`. Now that the keys resolve they also have to render honestly:
+                  # `M.fmt_usd` keeps a sub-cent estimate off the measured-zero string (Lesson 69), and
+                  # a stale plan with no escalation block reads UNMEASURED rather than `$0`.
+                  f"| escalation spend | {M.fmt_usd(r6.get('escalation_est_usd'))} of "
+                  f"{M.fmt_usd(r6.get('escalation_cap_usd'))} cap |",
                   f"| partial coverage declared | {r6.get('partial_coverage')} |", ""]
     rc = rep.get("recall") or {}
     if rc.get("present"):

@@ -50,6 +50,7 @@ KB = Path(__file__).resolve().parent
 sys.path.insert(0, str(KB))
 
 import llm_runner as LR  # noqa: E402
+import money as M  # noqa: E402
 import runner as R  # noqa: E402
 from extract_gates import gate_chunk, quote_for  # noqa: E402
 from extract_schema import (  # noqa: E402
@@ -85,7 +86,10 @@ CAP_REF_SUP = 0.8
 CAP_CAND = 2.6
 CAP_CAND_SUP = 0.5
 CAP_ADJ = 1.5  # primary adjudicator is free NIM; budget covers the gpt-oss fallback share
-PIPELINE_CAP = 82.0
+# Per-pass `CAP_*` above are *policy ceilings* carved out of the P4b booking (design-time split, not a
+# measurement), so they stay literals. `PIPELINE_CAP = 82.0` was a different animal: a duplicate of an
+# authored config value on a money path. It is gone; read it with `pipeline_cap()` / `cap_arg()`, which
+# report UNMEASURED (`None`) instead of a made-up `$82` when the config cannot be read (Lesson 69).
 
 # candidate bulk models: paid router, free NIM, free Ultrafast. minimax-m3 excluded at P-1 (502 on
 # every request). Reference models are also scored, as optimistic baselines.
@@ -147,19 +151,51 @@ def provider_of(model: str) -> dict:
     return {"id": "nim" if LR.is_nim_model(model) else "enclave", "kind": "free" if LR.is_nim_model(model) else "paid"}
 
 
+def pipeline_cap() -> float | None:
+    """The §7.5 global pipeline cap, straight from `kb/config.yaml` `budget.pipeline_cap_usd`.
+
+    One authored copy, no literal duplicate. `None` when unreadable: budget arithmetic then refuses to
+    start (`Runner.budget_left` -> `None`) rather than substituting a stale `$82`.
+    """
+    try:
+        cfg = yaml.safe_load(CONFIG.read_text(encoding="utf-8")) or {}
+        v = (cfg.get("budget") or {}).get("pipeline_cap_usd")
+    except (OSError, ValueError):
+        return None
+    if not isinstance(v, (int, float)) or isinstance(v, bool):
+        return None
+    return float(v)
+
+
+def cap_arg(explicit: float | None) -> float | None:
+    """The cap a CLI run should book against, tri-state.
+
+    `explicit` (an operator `--cap`) wins. Otherwise the remaining pipeline headroom, which is `None`
+    when either the config cap or the ledger sum is unreadable. Callers must not turn that `None` into
+    `max(0.0, ...)`: a "budget exhausted" verdict derived from a failed read is a fabricated
+    measurement (Defect 17 class), and `max(0.0, None - x)` would raise long before it lied.
+    """
+    if explicit is not None:
+        return float(explicit)
+    cap, spent = pipeline_cap(), R.spent_exact()
+    if cap is None or spent is None:
+        return None
+    return cap - spent
+
+
 def runner_for(pass_name: str, model: str, cap: float) -> R.Runner:
     prov = provider_of(model)
     pid = prov.get("id")
     conc = int(prov.get("concurrency_max") or 8)
     if pid == "nim":
         return R.Runner(pass_name, PROMPT_VERSION, cap, start=min(4, conc), ceiling=min(4, conc),
-                        rate_per_min=40, pipeline_cap_usd=PIPELINE_CAP, timeout_s=300)
+                        rate_per_min=40, timeout_s=300)
     if pid == "ultrafast":
         # Free tier answers HTTP 429 (bare status, no body) when calls arrive faster than it likes:
         # 21/29 packed calls 429'd at 30 rpm; 12/min still 429'd 14/65 bulk packs, and the run is
         # output-token-bound anyway (~4.7M/day = ~5.5k packs/day = 3.9/min), so 6/min is enough.
         return R.Runner(pass_name, PROMPT_VERSION, cap, start=1, ceiling=1, rate_per_min=6,
-                        pipeline_cap_usd=PIPELINE_CAP, timeout_s=300)
+                        timeout_s=300)
     if pid == "amd_tokenlab":
         # AMD Token Lab advertises 60 rpm / 8 concurrent per account; the pool was expanded to 8
         # accounts (owner update 2026-11-13). Measured ladders: 9/16, 8/16, 7/16 calls succeeded at
@@ -186,10 +222,8 @@ def runner_for(pass_name: str, model: str, cap: float) -> R.Runner:
         rate = int(os.environ.get("KB_AMD_RATE") or 120)
         timeout = int(os.environ.get("KB_AMD_TIMEOUT") or 120)
         return R.Runner(pass_name, PROMPT_VERSION, cap, start=workers, ceiling=workers,
-                        rate_per_min=rate, pipeline_cap_usd=PIPELINE_CAP, timeout_s=timeout,
-                        attempts=5)
-    return R.Runner(pass_name, PROMPT_VERSION, cap, start=8, ceiling=24,
-                    pipeline_cap_usd=PIPELINE_CAP, timeout_s=180)
+                        rate_per_min=rate, timeout_s=timeout, attempts=5)
+    return R.Runner(pass_name, PROMPT_VERSION, cap, start=8, ceiling=24, timeout_s=180)
 
 
 # --- request assembly -----------------------------------------------------------------------
@@ -480,7 +514,7 @@ def run_extraction(pass_name: str, models: list[str], cap: float, limit: int = 0
     items = load_items()
     packs = build_packs(items)
     modes = load_modes()
-    meta = {"models": {}, "wall_s": 0.0, "cost": 0.0, "packed": True,
+    meta = {"models": {}, "wall_s": 0.0, "cost": None, "packed": True,
             "packs": len(packs), "chunks": len(items),
             "mean_pack_depth": round(sum(len(p["chunk_ids"]) for p in packs) / max(1, len(packs)), 2)}
     t0 = time.time()
@@ -493,27 +527,32 @@ def run_extraction(pass_name: str, models: list[str], cap: float, limit: int = 0
         todo = packs[:limit] if limit else packs
         jobs = [make_job(pass_name, model, mode, p) for p in todo]
         runner = runner_for(pass_name, model, cap)
-        before = R.spent(passes=[pass_name])
+        # `spent()` collapses an absent measurement to 0.0, so a pass whose rows never landed
+        # (cache hit, ledger unreadable, rejected write) reported a measured `$0.0000` delta.
+        # `spent_exact` gives None = UNMEASURED, and None propagates through the subtraction
+        # (Defect 17/19 class: a cost nobody measured must not be rendered as a measured zero).
+        before = R.spent_exact(passes=[pass_name])
         t_model = time.time()
         runner.run(jobs)
         raws = [load_result(pass_name, j) for j in jobs]
         got = sum(1 for r in raws if r)
         trunc = sum(1 for r in raws if r and r.get("finish_reason") == "length")
-        spent_model = R.spent(passes=[pass_name]) - before
+        after = R.spent_exact(passes=[pass_name])
+        spent_model = None if (before is None or after is None) else after - before
         elapsed = time.time() - t_model
         meta["models"][model] = {"mode": mode, "jobs": len(jobs), "raw": got,
                                  "ok": runner.stats["ok"], "cached": runner.stats["cached"],
                                  "errors": runner.stats["errors"], "truncated": trunc,
                                  "max_tokens": max_tokens_for(model),
-                                 "cost_usd": round(spent_model, 6),
+                                 "cost_usd": None if spent_model is None else round(spent_model, 6),
                                  "wall_s": round(elapsed, 1),
                                  "in_tok": runner.stats["in_tok"], "out_tok": runner.stats["out_tok"],
                                  "cached_tok": runner.stats["cached_tok"]}
         log(f"{model}: {got}/{len(jobs)} packed calls raw, ok={runner.stats['ok']} "
-            f"trunc={trunc} err={runner.stats['errors']} spend=${spent_model:.4f} elapsed={elapsed:.0f}s")
-        _ = before
+            f"trunc={trunc} err={runner.stats['errors']} "
+            f"spend={M.fmt_usd(spent_model)} elapsed={elapsed:.0f}s")
     meta["wall_s"] = round(time.time() - t0, 1)
-    meta["cost"] = round(R.spent(passes=[pass_name]), 6)
+    meta["cost"] = R.spent_exact(passes=[pass_name])
     return meta
 
 
@@ -564,11 +603,12 @@ def supplement_reference(model: str, missing: list[str], cap: float,
         return 0
     jobs = [make_single_job(pass_name, model, mode, items[c]) for c in todo]
     runner = runner_for(pass_name, model, cap)
-    before = R.spent(passes=[pass_name])
+    before = R.spent_exact(passes=[pass_name])
     runner.run(jobs)
-    spent = round(R.spent(passes=[pass_name]) - before, 6)
+    after = R.spent_exact(passes=[pass_name])
+    spent = None if (before is None or after is None) else round(after - before, 6)
     got = sum(1 for c in todo if gate_single(pass_name, model, items[c]))
-    log(f"supplement {model}: {got}/{len(todo)} single-chunk fills spend=${spent:.4f}")
+    log(f"supplement {model}: {got}/{len(todo)} single-chunk fills spend={M.fmt_usd(spent)}")
     return got
 
 
@@ -582,7 +622,7 @@ def cmd_supplement(models: list[str]) -> int:
         report[model] = {"missing": len(missing), "filled": got}
         log(f"{model}: missing {len(missing)} -> filled {got}")
     payload = {"models": models, "report": report,
-               "cost_usd": round(R.spent(passes=[PASS_REF_SUP]), 6)}
+               "cost_usd": R.spent_exact(passes=[PASS_REF_SUP])}
     (STATE / "supplement.json").write_text(json.dumps(payload, indent=2), encoding="utf-8")
     print(json.dumps(payload, indent=2))
     return 0
@@ -598,7 +638,7 @@ def cmd_fill_candidates(models: list[str]) -> int:
         report[model] = {"missing": len(missing), "filled": got}
         log(f"{model}: candidate holes {len(missing)} -> filled {got}")
     payload = {"models": models, "report": report,
-               "cost_usd": round(R.spent(passes=[PASS_CAND_SUP]), 6)}
+               "cost_usd": R.spent_exact(passes=[PASS_CAND_SUP])}
     (STATE / "candidates_fill.json").write_text(json.dumps(payload, indent=2), encoding="utf-8")
     print(json.dumps(payload, indent=2))
     return 0
@@ -1002,9 +1042,9 @@ def cmd_adjudicate(cand_per_model: int = ADJ_CAND_MAX_PER_MODEL) -> int:
                "thinning": thin_note,
                "candidate_items": cand_decisions, "candidate_summary": cand_summary,
                "candidate_per_model": per_model, "candidate_models": sorted(per_model),
-               "cost_usd": round(R.spent(passes=[PASS_ADJ]), 6)}
+               "cost_usd": R.spent_exact(passes=[PASS_ADJ])}
     (STATE / "adjudication.json").write_text(json.dumps(payload, indent=2, default=str), encoding="utf-8")
-    log(f"adjudication: ref {summary} cand {cand_summary} spend=${payload['cost_usd']:.4f}")
+    log(f"adjudication: ref {summary} cand {cand_summary} spend={M.fmt_usd(payload['cost_usd'])}")
     return 0
 
 
@@ -1105,7 +1145,10 @@ def score_model(items: list[dict], ev: dict, reference: dict,
     f1 = 2 * precision * recall / (precision + recall) if precision + recall else 0.0
     n_chunks = max(1, len(ev["chunks"]))
     chunks_with_schema = ev["schema_fail"] + ev["blank"]
-    cost_per_chunk = ev_cost(ev) / n_chunks
+    ev_cost_usd = ev_cost(ev)
+    # `None` (no ledger row for this pass/model) must stay part of every rendered cost field rather
+    # than being coerced to 0.0; `M.fmt_usd` renders it as UNMEASURED downstream.
+    cost_per_chunk = (ev_cost_usd / n_chunks) if ev_cost_usd is not None else None
     calls = ev["calls"]
     return {"precision": round(precision, 4), "recall": round(recall, 4), "f1": round(f1, 4),
             "precision_ci95": [ci_lo, ci_hi], "precision_judged_n": judged,
@@ -1129,20 +1172,28 @@ def score_model(items: list[dict], ev: dict, reference: dict,
             "mean_latency_ms": int(statistics.mean(ev["latency_ms"])) if ev["latency_ms"] else 0,
             "p95_latency_ms": (sorted(ev["latency_ms"])[int(0.95 * (len(ev["latency_ms"]) - 1))]
                                if ev["latency_ms"] else 0),
-            "cost_usd": round(ev_cost(ev), 6), "cost_per_chunk_usd": round(cost_per_chunk, 6),
-            "cost_per_1k_chunks_usd": round(cost_per_chunk * 1000, 4),
-            "projected_full_scope_usd": round(cost_per_chunk * FULL_SCOPE_CHUNKS, 2),
+            "cost_usd": M.round_usd(ev_cost_usd),
+            "cost_per_chunk_usd": M.round_usd(cost_per_chunk),
+            "cost_per_1k_chunks_usd": M.round_usd(cost_per_chunk * 1000 if cost_per_chunk is not None
+                                                  else None),
+            "projected_full_scope_usd": M.round_usd(cost_per_chunk * FULL_SCOPE_CHUNKS
+                                                    if cost_per_chunk is not None else None),
             "in_tok": ev["in_tok"], "out_tok": ev["out_tok"], "cached_tok": ev["cached_tok"],
             "out_tok_per_call": round(ev["out_tok"] / calls, 1) if calls else 0.0,
             "cached_share": round(ev["cached_tok"] / ev["in_tok"], 4) if ev["in_tok"] else 0.0,
             "per_chunk": per_chunk}
 
 
-_EV_COST: dict[str, float] = {}
+_EV_COST: dict[str, float | None] = {}
 
 
-def ev_cost(ev: dict) -> float:
-    return _EV_COST.get(ev["model"], 0.0)
+def ev_cost(ev: dict) -> float | None:
+    """Booked cost for a (pass, model) pair. `None` = no ledger row -> unmeasured, not free.
+
+    Was `.get(ev["model"], 0.0)`: a model whose pass was never priced/run reported a measured
+    `$0.0000`, indistinguishable from a genuinely free route (D10 price 0.0/0.0).
+    """
+    return _EV_COST.get(ev["model"])
 
 
 def cmd_candidates(limit: int = 0, models: list[str] | None = None) -> int:
@@ -1155,21 +1206,36 @@ def cmd_candidates(limit: int = 0, models: list[str] | None = None) -> int:
 
 
 # --- report ----------------------------------------------------------------------------------
-def p4c_allowance() -> float:
-    """Pipeline money reserved for the P4c bulk pass in kb/config.yaml budget.passes."""
+def p4c_allowance() -> float | None:
+    """Pipeline money reserved for the P4c bulk pass in kb/config.yaml budget.passes.
+
+    No hardcoded fallback: the old `22.0` default was frozen into the committed `reports/p4b.json`
+    (`p4c_allowance_usd: 22.0`) while config concurrently booked `31.25`, so a stale denominator sat
+    inside a past owner artefact and made `within_p4c_allowance` a false statement. Unreadable config
+    now returns `None` (unmeasured) instead of inventing an allowance.
+    """
     try:
         import yaml
         cfg = yaml.safe_load((ROOT / "kb/config.yaml").read_text(encoding="utf-8")) or {}
-        return float((((cfg.get("budget") or {}).get("passes") or {}).get("p4c_bulk_extraction", 22.0)))
+        v = ((cfg.get("budget") or {}).get("passes") or {}).get("p4c_bulk_extraction")
+        return float(v) if v is not None else None
     except Exception:  # noqa: BLE001
-        return 22.0
+        return None
 
 
-def ledger_cost(pass_name: str, model: str) -> float:
+def ledger_cost(pass_name: str, model: str) -> float | None:
+    """Measured ledger cost for one (pass, model), or `None` when no row matches.
+
+    Was `SELECT COALESCE(SUM(cost_usd),0) ...` + `float(r[0])`: COALESCE only ever fires when *no row
+    matches*, so a model that never ran (or whose rows were replaced) booked the measured-zero string
+    `0.0` into the projections. Row-count guard now mirrors `runner.spent_rows` (Defect 17 class).
+    """
     con = R.connect()
-    r = con.execute("SELECT COALESCE(SUM(cost_usd),0) FROM jobs WHERE pass=? AND model=?",
+    r = con.execute("SELECT count(*), SUM(cost_usd) FROM jobs WHERE pass=? AND model=?",
                     [pass_name, model]).fetchone()
-    return float(r[0])
+    if not r or not r[0]:
+        return None
+    return float(r[1]) if r[1] is not None else None
 
 
 def _run_meta(name: str) -> dict:
@@ -1223,12 +1289,24 @@ def cmd_score(limit: int = 0) -> int:
 
     ref_records = sum(len(v["records"]) for v in reference.values())
     flagged = sum(v["flagged"] for v in reference.values())
-    ref_cost = round(sum(ledger_cost(PASS_REF, m) for m in REFERENCE_MODELS), 4)
-    sup_cost = round(R.spent(passes=[PASS_REF_SUP]), 4)
-    fill_cost = round(R.spent(passes=[PASS_CAND_SUP]), 4)
-    cand_cost = round(R.spent(passes=[PASS_CAND]), 4)
-    adj_cost = round(R.spent(passes=[PASS_ADJ]), 4)
-    spent_before = round(R.spent() - ref_cost - sup_cost - cand_cost - fill_cost - adj_cost, 4)
+    # Per-(pass,model) parts sum only what is measured; a part with no ledger row stays out of the
+    # sum and is listed instead, rather than contributing a fabricated `0.0` (Defect 17 class).
+    ref_parts = {m: ledger_cost(PASS_REF, m) for m in REFERENCE_MODELS}
+    ref_unmeasured = sorted(m for m, v in ref_parts.items() if v is None)
+    ref_cost = round(sum(v for v in ref_parts.values() if v is not None), 6)
+    spent_by_pass = {p: R.spent_exact(passes=[p]) for p in (PASS_REF_SUP, PASS_CAND_SUP,
+                                                            PASS_CAND, PASS_ADJ)}
+    spent_unmeasured = sorted(p for p, v in spent_by_pass.items() if v is None)
+    sup_cost = spent_by_pass[PASS_REF_SUP]
+    fill_cost = spent_by_pass[PASS_CAND_SUP]
+    cand_cost = spent_by_pass[PASS_CAND]
+    adj_cost = spent_by_pass[PASS_ADJ]
+    measured_parts = [ref_cost] + [v for v in spent_by_pass.values() if v is not None]
+    # On an unreadable/absent ledger the residual is NOT a measured zero: keep it None so
+    # `pipeline_spent_before_p4b_usd` reads UNMEASURED instead of `$0.0000` (Defect 17 class).
+    total_spent = R.spent_exact()
+    spent_before = (round(total_spent - sum(measured_parts), 6)
+                    if total_spent is not None else None)
     allowance = p4c_allowance()
     cand_meta = (_run_meta("candidates_run.json") or {}).get("models") or {}
     fill_meta = {}  # this file holds a per-model fill report, not run metadata
@@ -1259,11 +1337,17 @@ def cmd_score(limit: int = 0) -> int:
     best_f1 = max([r["f1"] for m, r in rows.items()
                    if r.get("role") == "candidate" and "f1" in r], default=0.0)
     near_best = {m: r for m, r in eligible.items() if r["f1"] >= best_f1 - 0.03}
-    affordable = {m: r for m, r in near_best.items() if r["projected_full_scope_usd"] <= allowance}
+    # Affordability needs a *measured* projection and a *readable* allowance: `None` on either side is
+    # unmeasured, not affordable/over-budget. A model with no ledger cost must not be selected as the
+    # cheap choice on the strength of a fabricated `$0.00` (Defect 17 class).
+    affordable = {m: r for m, r in near_best.items()
+                  if allowance is not None and r["projected_full_scope_usd"] is not None
+                  and r["projected_full_scope_usd"] <= allowance}
     pool = affordable or near_best
     choice = None
-    if pool:
-        choice = min(pool.items(), key=lambda kv: (kv[1]["projected_full_scope_usd"], -kv[1]["f1"]))
+    measurable = {m: r for m, r in pool.items() if r["projected_full_scope_usd"] is not None}
+    if measurable:
+        choice = min(measurable.items(), key=lambda kv: (kv[1]["projected_full_scope_usd"], -kv[1]["f1"]))
     if choice:
         # P4c feasibility: calls scale with the pack depth measured on the gold set, and free tiers
         # publish a daily output-token cap, so wall time (not money) is the binding constraint.
@@ -1275,13 +1359,12 @@ def cmd_score(limit: int = 0) -> int:
     # P4c feasibility: money is not the only cap. The free tier publishes a daily output-token
     # ceiling, so a 0-cost choice can still be wall-time infeasible; report the arithmetic and the
     # paid overflow inside the remaining pipeline cap so C1 can decide with numbers in hand.
-    try:
-        _cfg = yaml.safe_load(CONFIG.read_text(encoding="utf-8")) or {}
-    except (OSError, ValueError):
-        _cfg = {}
-    pipe_cap = float((_cfg.get("budget") or {}).get("pipeline_cap_usd") or 82.0)
-    spent_now = round(R.spent(), 4)
-    remaining = round(pipe_cap - spent_now, 4)
+    # Second copy of the config read removed: `pipeline_cap()` already excludes `bool` (an `int` in
+    # Python, so `isinstance(True, (int, float))` accepted `pipeline_cap_usd: true` as `$1`).
+    pipe_cap = pipeline_cap()
+    spent_now = R.spent_exact()
+    remaining = (pipe_cap - spent_now
+                 if pipe_cap is not None and spent_now is not None else None)
     feas = None
     if choice:
         sel = choice[1]
@@ -1296,8 +1379,12 @@ def cmd_score(limit: int = 0) -> int:
             paid[m] = {"model": m, "precision": r.get("precision"), "f1": r.get("f1"),
                        "calls": r.get("calls"), "cost_usd": r.get("cost_usd"),
                        "projected_full_scope_usd": r.get("projected_full_scope_usd"),
+                       # `or 1e9` inverted this: a *measured* `$0.00` projection became "does not fit",
+                       # i.e. a free model reported as over-budget. Unmeasured (None) is the only case
+                       # that is genuinely unknown, and it reads False, not "too expensive".
                        "fits_remaining_pipeline_cap": bool(
-                           (r.get("projected_full_scope_usd") or 1e9) <= remaining)}
+                           r.get("projected_full_scope_usd") is not None and remaining is not None
+                           and r["projected_full_scope_usd"] <= remaining)}
         fe = {m: v for m, v in paid.items() if v["projected_full_scope_usd"] is not None}
         free_calls_per_day = int(daily / max(sel.get("out_tok_per_call") or 1.0, 1.0)) if daily else 0
         cheap = min((v for v in fe.values() if v["fits_remaining_pipeline_cap"]),
@@ -1308,13 +1395,15 @@ def cmd_score(limit: int = 0) -> int:
             # cost basis is the measured $/chunk (it already carries the fill calls too), scaled by
             # the share of the corpus the paid model has to cover.
             paid_share = paid_calls / proj_calls if proj_calls else 0.0
-            paid_cost = paid_share * float(cheap.get("projected_full_scope_usd") or 0.0)
+            paid_cost = paid_share * float(cheap["projected_full_scope_usd"])
+            total_with_spent = (spent_now + paid_cost) if spent_now is not None else None
             mixed = {"free_calls_per_day": free_calls_per_day,
                      "paid_overflow_model": cheap["model"], "paid_calls": paid_calls,
                      "paid_chunk_share": round(paid_share, 4),
-                     "paid_cost_usd": round(paid_cost, 2),
-                     "total_with_spent_usd": round(spent_now + paid_cost, 2),
-                     "fits_pipeline_cap": bool(spent_now + paid_cost <= pipe_cap),
+                     "paid_cost_usd": M.round_usd(paid_cost),
+                     "total_with_spent_usd": M.round_usd(total_with_spent),
+                     "fits_pipeline_cap": bool(total_with_spent is not None and pipe_cap is not None
+                                               and total_with_spent <= pipe_cap),
                      "wall_days": 1.0}
         feas = {"chosen_model": choice[0],
                 "calls_at_gold_pack_depth": proj_calls,
@@ -1332,7 +1421,9 @@ def cmd_score(limit: int = 0) -> int:
                          "prompt/schema, so it is raised for the C1 owner instead of self-approving.")
                 if days else ("the selected extractor is paid; total spend fits the pipeline cap.")}
     chosen = {"model": choice[0], **choice[1],
-              "within_p4c_allowance": bool(choice and choice[1]["projected_full_scope_usd"] <= allowance),
+              "within_p4c_allowance": (None if allowance is None or
+                                       choice[1]["projected_full_scope_usd"] is None else
+                                       bool(choice[1]["projected_full_scope_usd"] <= allowance)),
               "p4c_allowance_usd": allowance} if choice else None
 
     # machine-checkable gate result block, so C1/tripwire do not have to re-derive it from prose.
@@ -1414,7 +1505,9 @@ def cmd_score(limit: int = 0) -> int:
            "spend": {"references_usd": ref_cost, "reference_supplement_usd": sup_cost,
                      "candidates_usd": cand_cost, "candidate_fill_usd": fill_cost,
                      "adjudication_usd": adj_cost,
-                     "total_usd": round(ref_cost + sup_cost + cand_cost + fill_cost + adj_cost, 4),
+                     "total_usd": (M.round_usd(sum(measured_parts))
+                                   if not spent_unmeasured and not ref_unmeasured else None),
+                     "unmeasured_passes": sorted(set(spent_unmeasured + ref_unmeasured)),
                      "pipeline_spent_before_p4b_usd": spent_before,
                      "p4c_allowance_usd": allowance},
            "transport_table": [{"model": m, "provider": provider_of(m).get("id"),
@@ -1457,7 +1550,8 @@ def cmd_score(limit: int = 0) -> int:
 
     (REPORTS / "p4b.json").write_text(json.dumps(out, indent=2, default=str), encoding="utf-8")
     write_md(out, items)
-    log(f"wrote kb/reports/p4b.json and p4b.md; spend refs=${ref_cost:.2f} cand=${cand_cost:.2f} adj=${adj_cost:.2f}")
+    log(f"wrote kb/reports/p4b.json and p4b.md; spend refs={M.fmt_usd(ref_cost)} "
+        f"cand={M.fmt_usd(cand_cost)} adj={M.fmt_usd(adj_cost)}")
     log(f"selected: {chosen['model'] if chosen else None}")
     return 0
 
@@ -1467,11 +1561,14 @@ def _fmt_row(r: dict) -> str:
         return "| `{}` | - | - | - | - | - | - | - | - |".format(r.get("status", "no output"))
     cov = r.get("coverage_chunks")
     cov_s = f"{cov}/{r.get('gold_chunks')}" if cov is not None else "-"
-    return ("| `{m}` | {cov} | {p:.3f} | {rc:.3f} | {f:.3f} | {g} | {c} | ${cost:.4f} | "
-            "${proj:,.0f} |").format(
+    # UNMEASURED via fmt_usd: `"${:.4f}"` on None raised TypeError, and `"${:.4f}".format(None or 0.0)`
+    # would print a fabricated `$0.0000` (Lesson 69).
+    return ("| `{m}` | {cov} | {p:.3f} | {rc:.3f} | {f:.3f} | {g} | {c} | {cost} | "
+            "{proj} |").format(
         m=r.get("model_label", ""), cov=cov_s, p=r["precision"], rc=r["recall"], f=r["f1"],
         g=(f"{r['gate_pass_rate']:.3f}" if r["gate_pass_rate"] is not None else "-"),
-        c=r["cached_share"], cost=r["cost_per_chunk_usd"], proj=r["projected_full_scope_usd"])
+        c=r["cached_share"], cost=M.fmt_usd(r.get("cost_per_chunk_usd")),
+        proj=M.fmt_usd(r.get("projected_full_scope_usd"), places=2))
 
 
 def write_md(out: dict, items: list[dict]) -> None:
@@ -1502,14 +1599,17 @@ def write_md(out: dict, items: list[dict]) -> None:
                  f"(single-chunk supplement: {ref.get('supplement_chunks_per_model')})")
     lines.append(f"- candidate false positives judged: {cadj.get('items')} "
                  f"({cadj.get('summary')}, cap/model {cadj.get('cap_per_model')})")
-    lines.append(f"- spend: references ${out['spend']['references_usd']:.2f}, "
-                 f"reference supplement ${out['spend'].get('reference_supplement_usd', 0.0):.2f}, "
-                 f"candidates ${out['spend']['candidates_usd']:.2f}, "
-                 f"candidate coverage fill ${out['spend'].get('candidate_fill_usd', 0.0):.2f}, "
-                 f"adjudication ${out['spend']['adjudication_usd']:.2f}, "
-                 f"total ${out['spend']['total_usd']:.2f} "
-                 f"(pipeline spent before P4b ${out['spend'].get('pipeline_spent_before_p4b_usd', 0.0):.2f}, "
-                 f"P4c allowance ${out['spend'].get('p4c_allowance_usd', 0.0):.2f})\n")
+    sp = out["spend"]
+    lines.append(f"- spend: references {M.fmt_usd(sp.get('references_usd'))}, "
+                 f"reference supplement {M.fmt_usd(sp.get('reference_supplement_usd'))}, "
+                 f"candidates {M.fmt_usd(sp.get('candidates_usd'))}, "
+                 f"candidate coverage fill {M.fmt_usd(sp.get('candidate_fill_usd'))}, "
+                 f"adjudication {M.fmt_usd(sp.get('adjudication_usd'))}, "
+                 f"total {M.fmt_usd(sp.get('total_usd'))} "
+                 f"(pipeline spent before P4b {M.fmt_usd(sp.get('pipeline_spent_before_p4b_usd'))}, "
+                 f"P4c allowance {M.fmt_usd(sp.get('p4c_allowance_usd'))})"
+                 + (f" [unmeasured passes: {', '.join(sp.get('unmeasured_passes') or [])}]"
+                    if sp.get("unmeasured_passes") else "") + "\n")
     lines.append("| model | role | provider | transport | calls ok/jobs | transport errors |")
     lines.append("|---|---|---|---|---|---|")
     timing = out.get("run_timing") or {}
@@ -1530,10 +1630,10 @@ def write_md(out: dict, items: list[dict]) -> None:
     for role in ("references", "candidates"):
         bank = timing.get(role) or {}
         if bank.get("wall_s"):
-            lines.append(f"- {role} wall: {bank['wall_s']} s, ledger ${bank.get('cost_usd') or 0.0:.4f}")
+            lines.append(f"- {role} wall: {bank['wall_s']} s, ledger {M.fmt_usd(bank.get('cost_usd'))}")
     fillt = timing.get("candidate_fill") or {}
     if fillt.get("models"):
-        lines.append(f"- candidate coverage fill: ${fillt.get('cost_usd') or 0.0:.4f}, "
+        lines.append(f"- candidate coverage fill: {M.fmt_usd(fillt.get('cost_usd'))}, "
                      f"{fillt.get('models')}")
     lines.append("")
     lines.append("")
@@ -1573,10 +1673,11 @@ def write_md(out: dict, items: list[dict]) -> None:
         lines.append(f"- precision {ch['precision']:.3f}, recall {ch['recall']:.3f}, F1 {ch['f1']:.3f}, "
                      f"clean-call gate rate {ch.get('clean_call_rate')}, strict record gate pass "
                      f"{ch['gate_pass_rate']}, chunk gate rate {ch['chunk_gate_rate']}")
-        lines.append(f"- measured ${ch['cost_per_chunk_usd']:.6f}/chunk ({ch['calls']} packed calls, "
+        lines.append(f"- measured {M.fmt_usd(ch['cost_per_chunk_usd'], places=6)}/chunk "
+                     f"({ch['calls']} packed calls, "
                      f"cached share {ch['cached_share']}); projected full scope "
-                     f"${ch['projected_full_scope_usd']:,.2f} for {FULL_SCOPE_CHUNKS} chunks "
-                     f"(P4c allowance ${ch.get('p4c_allowance_usd', 0.0):.2f}, "
+                     f"{M.fmt_usd(ch['projected_full_scope_usd'], places=2)} for {FULL_SCOPE_CHUNKS} "
+                     f"chunks (P4c allowance {M.fmt_usd(ch.get('p4c_allowance_usd'))}, "
                      f"within allowance: {ch.get('within_p4c_allowance')})")
         lines.append(f"- mean latency {ch['mean_latency_ms']} ms, p95 {ch['p95_latency_ms']} ms")
         fe = out.get("p4c_feasibility") or {}
@@ -1586,13 +1687,15 @@ def write_md(out: dict, items: list[dict]) -> None:
             if fe.get("free_tier_daily_out_cap"):
                 lines.append(f"- free-tier cap {fe['free_tier_daily_out_cap']:,} output tokens/day => "
                              f"{fe['wall_days_at_daily_cap']} days wall time alone")
-            lines.append(f"- pipeline cap ${fe['pipeline_cap_usd']:.2f}, spent ${fe['spent_usd']:.2f}, "
-                         f"remaining ${fe['remaining_pipeline_usd']:.2f}")
+            lines.append(f"- pipeline cap {M.fmt_usd(fe['pipeline_cap_usd'])}, spent "
+                         f"{M.fmt_usd(fe['spent_usd'])}, remaining "
+                         f"{M.fmt_usd(fe['remaining_pipeline_usd'])}")
             overflow = {m: v for m, v in (fe.get("paid_overflow") or {}).items()
                         if v.get("fits_remaining_pipeline_cap")}
             if overflow:
                 lines.append("- paid overflow fitting the remaining cap: " + ", ".join(
-                    f"`{m}` (${v['projected_full_scope_usd']:,.2f}, F1 {v['f1']:.3f})"
+                    f"`{m}` ({M.fmt_usd(v['projected_full_scope_usd'], places=2)}, "
+                    f"F1 {v['f1']:.3f})"
                     for m, v in sorted(overflow.items(),
                                        key=lambda kv: kv[1]["projected_full_scope_usd"])))
             mix = fe.get("mixed_pool_one_day")
@@ -1601,8 +1704,9 @@ def write_md(out: dict, items: list[dict]) -> None:
                              f"{mix['free_calls_per_day']:,} calls/day; paid overflow "
                              f"`{mix['paid_overflow_model']}` takes {mix['paid_calls']:,} calls "
                              f"({mix['paid_chunk_share']:.1%} of the corpus) => "
-                             f"${mix['paid_cost_usd']:,.2f}; total spend with what is already booked "
-                             f"${mix['total_with_spent_usd']:,.2f} (inside pipeline cap: "
+                             f"{M.fmt_usd(mix['paid_cost_usd'], places=2)}; total spend with what is "
+                             f"already booked "
+                             f"{M.fmt_usd(mix['total_with_spent_usd'], places=2)} (inside pipeline cap: "
                              f"{mix['fits_pipeline_cap']})")
             lines.append(f"- C1 decision: {fe['note']}")
     else:

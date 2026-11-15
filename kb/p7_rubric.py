@@ -123,17 +123,20 @@ def run(con=None, chat=None, judge_chat=None, n: int = N_QUESTIONS,
     con = con or PA.connect()
     t0 = time.time()
     items, failures = [], []
-    judge_cost = 0.0
+    # Tri-state accumulators: an unpriced analyst or judge call makes the whole money figure
+    # UNMEASURED (`None`) rather than a total that quietly omits the call it could not price
+    # (Defect 17/21 class). `0.0` here is a genuine measured zero -- no paid call made yet.
+    judge_cost: float | None = 0.0
     try:
         for q in questions(n):
             try:
                 rec = PA.analyse(q["question"], q["segment"], con=con, chat=chat, model=model)
             except Exception as exc:  # noqa: BLE001 - keep the set, record the failure
                 failures.append({"id": q["id"], "error": f"{type(exc).__name__}: {exc}"})
-                items.append({**q, "status": "error", "score": None, "cost_usd": 0.0})
+                items.append({**q, "status": "error", "score": None, "cost_usd": None})
                 continue
             item = {**q, "status": rec.get("status"), "model": rec.get("model"),
-                    "escalated": rec.get("escalated"), "cost_usd": rec.get("cost_usd", 0.0),
+                    "escalated": rec.get("escalated"), "cost_usd": rec.get("cost_usd"),
                     "answer": rec.get("answer", ""), "confidence": rec.get("confidence"),
                     "dropped": (rec.get("dropped") or {}).get("sentences", 0)
                     if isinstance(rec.get("dropped"), dict) else rec.get("dropped"),
@@ -144,7 +147,7 @@ def run(con=None, chat=None, judge_chat=None, n: int = N_QUESTIONS,
                     # Defect 19: take the judge's spend back from the call, or the report hides it.
                     judged, spent = PA.judge_answer_cost(q["question"], rec, model=judge_model,
                                                          chat=judge_chat)
-                    judge_cost += spent
+                    judge_cost = None if (judge_cost is None or spent is None) else judge_cost + spent
                 except Exception as exc:  # noqa: BLE001 - judge unavailable: ungraded
                     judged = {}
                     item["judge_error"] = f"{type(exc).__name__}: {exc}"
@@ -190,12 +193,17 @@ def run(con=None, chat=None, judge_chat=None, n: int = N_QUESTIONS,
         + by_status.get("malformed", 0) + by_status.get("error", 0),
     }
     counts["balanced"] = counts["buckets_sum"] == counts["questions"]
+    paid: float | None = 0.0
+    for i in items:
+        c = i.get("cost_usd")
+        paid = None if (paid is None or c is None) else paid + float(c)
+    total: float | None = None if (paid is None or judge_cost is None) else paid + judge_cost
     report = {
         "phase": PHASE, "built_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
         "wall_seconds": round(time.time() - t0, 1),
         "model": model, "judge_model": judge_model,
-        "money_spent_usd": round(sum(i.get("cost_usd") or 0.0 for i in items) + judge_cost, 6),
-        "judge_cost_usd": round(judge_cost, 6),
+        "money_spent_usd": None if total is None else round(total, 6),
+        "judge_cost_usd": None if judge_cost is None else round(judge_cost, 6),
         "target": TARGET,
         "counts": counts,
         "mean_score": mean(scores),
@@ -209,6 +217,15 @@ def run(con=None, chat=None, judge_chat=None, n: int = N_QUESTIONS,
                           and counts["balanced"]
                           and counts["ungraded_ok"] == 0)
     return report
+
+
+def _analyst_spend(report: dict) -> float | None:
+    """Total minus the judge's share. `None` propagates as UNMEASURED, never a fabricated zero."""
+    total = report.get("money_spent_usd")
+    judge = report.get("judge_cost_usd")
+    if total is None or judge is None:
+        return None
+    return total - judge
 
 
 def _md(report: dict) -> str:
@@ -228,9 +245,12 @@ def _md(report: dict) -> str:
         f"(different family from the extractor)",
         f"- mean rubric score: {report['mean_score']} (target >= {report['target']}) · "
         f"result: {'PASS' if report['pass'] else 'FAIL'}",
+        # Lesson 69: no default in a money renderer -- `.get('judge_cost_usd', 0.0)` rendered a
+        # fabricated $0.0000 (twice) whenever the field was absent. `judge_cost_usd` is always set by
+        # `report`, so a missing key now reads UNMEASURED instead of a silent zero.
         f"- spend: {M.fmt_usd(report['money_spent_usd'])} "
-        f"(analyst {M.fmt_usd(report['money_spent_usd'] - report.get('judge_cost_usd', 0.0))} + "
-        f"judge {M.fmt_usd(report.get('judge_cost_usd', 0.0))}) · wall: {report['wall_seconds']} s",
+        f"(analyst {M.fmt_usd(_analyst_spend(report))} + "
+        f"judge {M.fmt_usd(report.get('judge_cost_usd'))}) · wall: {report['wall_seconds']} s",
         "",
         "| rubric field | mean |",
         "|---|---|",

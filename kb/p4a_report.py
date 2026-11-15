@@ -9,14 +9,18 @@ Run: python kb/p4a_report.py
 """
 from __future__ import annotations
 
+import argparse
 import json
 import random
+import sys
 import time
 from pathlib import Path
 
 import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "kb"))
+import money as M  # noqa: E402
 REPORTS = ROOT / "kb/reports"
 GATES = ROOT / "kb/gates.yaml"
 METRIC = "retrieval_recall_at_20"
@@ -48,6 +52,24 @@ def pick_samples(queries: list[dict], eval_by_qid: dict[str, dict], rng: random.
             picks.append(pool.pop(rng.randrange(len(pool))))
         i += 1
     return picks
+
+
+def money_total(*sources: dict) -> float | None:
+    """Sum `money_spent_usd` across the P4a producer reports, tri-state.
+
+    Defect 19/17 class: `x.get("money_spent_usd", 0.0)` reports a measured `$0.00` when a producer
+    never wrote the key at all — an absent measurement rendered as a spend. A key present with `0.0`
+    is a writer-declared zero (p4a_embed: NIM free tier) and must stay `0.0`. Any source missing the
+    key makes the whole total `UNMEASURED`; it must never be silently dropped from the sum.
+    """
+    total: float | None = 0.0
+    for src in sources:
+        v = src.get("money_spent_usd")
+        if v is None:
+            return None
+        if total is not None:
+            total += float(v)
+    return total
 
 
 def main() -> int:
@@ -94,7 +116,10 @@ def main() -> int:
     for q in queries:
         gold_by_stratum.setdefault(q["stratum"], []).append(len(q["gold"]))
     mean_gold = {s: round(sum(v) / len(v), 2) for s, v in gold_by_stratum.items()}
-    money = float(embed.get("money_spent_usd", 0.0)) + float(index.get("money_spent_usd", 0.0))
+    # Defect 19/17 class: `float(x.get("money_spent_usd", 0.0))` would report a measured `$0.00` when
+    # a producer never wrote the key at all — an absent measurement rendered as a spend. A key that
+    # *is* present with `0.0` is a writer-declared zero (p4a_embed: NIM free tier) and stays `0.0`.
+    money = money_total(embed, index)
     eval_records = evaluation.get("records", [])
     mean_rerank_s = round(sum(c["timing"].get("rerank_s", 0.0) for c in eval_records) /
                           max(len(eval_records), 1), 3)
@@ -229,7 +254,7 @@ def main() -> int:
         f" {round(float(records['index']['db_file_bytes'] or 0) / 1e9, 2)} GB",
         f"- vectors: {embed.get('rows')} rows × {embed.get('dims')} d, {embed.get('model')},"
         f" {embed.get('requests_total')} requests, {embed.get('tokens_total')} tokens, $0 (NIM free tier)",
-        f"- spend ${money:.2f} · wall {wall / 60:.1f} min",
+        f"- spend {M.fmt_usd(money)} · wall {wall / 60:.1f} min",
         "",
         "## Per stratum",
         "",

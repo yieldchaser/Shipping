@@ -13,6 +13,7 @@ KB = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(KB))
 
 import p7_analyst as P  # noqa: E402
+import money as M  # noqa: E402
 
 
 # --------------------------------------------------------------------------- fixtures
@@ -303,3 +304,41 @@ def test_run_backtest_reports_the_spend_it_incurred(db, monkeypatch):
 def test_main_requires_question(monkeypatch):
     with pytest.raises(SystemExit):
         P.main(["--segment", "capesize"])
+
+
+# --------------------------------------------------------------- tri-state money (Defect 17/21)
+def test_an_unpriced_analyst_call_makes_the_record_cost_unmeasured(db, monkeypatch):
+    """A call nobody could price must not be recorded as a measured `0.0`."""
+    monkeypatch.setattr(P.A, "_resolver", lambda con, cache: (lambda h: True))
+    monkeypatch.setattr(P.A, "_chat", _chat([GOOD], cost=None))
+    rec = P.analyse("Where are capesize rates going?", "capesize", date(2026, 1, 1), db=db)
+    assert rec["status"] == "ok", "the answer is still usable; only its money is unknown"
+    assert rec["cost_usd"] is None
+    assert M.fmt_usd(rec["cost_usd"]) == "UNMEASURED"
+
+
+def test_compose_analyst_propagates_an_unmeasured_cost():
+    chat = _chat([GOOD], cost=None)
+    text, _evidence, cost = P.compose_analyst("q", "capesize", date(2026, 1, 1),
+                                              {"indicators": []}, [], {},
+                                              P.A.DEFAULT_MODEL, chat=chat)
+    assert text
+    assert cost is None, "an unpriced compose call is UNMEASURED, not free"
+
+
+def test_judge_answer_cost_is_unmeasured_when_the_judge_call_cannot_be_priced():
+    chat = _chat(['{"score": 0.8}'], cost=None)
+    verdict, spent = P.judge_answer_cost("q", {"answer": "a", "indicators": {}}, chat=chat)
+    assert verdict, "the verdict still parses"
+    assert spent is None, "an unpriceable judge call must stay UNMEASURED, never a measured 0.0"
+
+
+def test_run_backtest_reports_unmeasured_spend_rather_than_a_partial_sum(db, monkeypatch):
+    """Defect 17/19 class: a partially-priced backtest must not report the priced subset as the total."""
+    monkeypatch.setattr(P.A, "_resolver", lambda con, cache: (lambda h: True))
+    monkeypatch.setattr(P.A, "_chat", _chat([GOOD] * 40, cost=None))
+    res = P.run_backtest("capesize", 20, db=db)
+    assert res["dates"] >= 15
+    assert res["spend_usd"] is None
+    assert all(r["cost_usd"] is None for r in res["rows"])
+    assert M.fmt_usd(res["spend_usd"]) == "UNMEASURED"

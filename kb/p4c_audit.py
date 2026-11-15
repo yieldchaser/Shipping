@@ -22,6 +22,7 @@ KB = Path(__file__).resolve().parent
 sys.path.insert(0, str(KB))
 
 import llm_runner as LR  # noqa: E402
+import money as M  # noqa: E402
 import p4b_run as B  # noqa: E402
 import p4c_union as U  # noqa: E402
 import runner as R  # noqa: E402
@@ -223,7 +224,10 @@ def run_judge(model: str, cap: float, limit: int = 0) -> dict:
     t0 = time.time()
     runner.run(jobs)
     return {"model": model, "mode": mode, "jobs": len(jobs),
-            "ok": runner.stats.get("ok"), "cost_usd": round(R.spent(passes=[PASS]), 6),
+            # `round(R.spent(...), 6)` collapsed "no measurement" to the measured-zero string `0.0`.
+            # The audit's spend is owner-facing (it sits beside the §11 gate verdict), so an
+            # unpriced/sumless ledger must read UNMEASURED, not free (Defect 17 class, Lesson 69).
+            "ok": runner.stats.get("ok"), "cost_usd": M.round_usd(R.spent_exact(passes=[PASS])),
             "wall_s": round(time.time() - t0, 1)}
 
 
@@ -253,7 +257,12 @@ def cmd_run(args) -> int:
         raise SystemExit(f"judge {args.model} shares {model_family(args.model)} family with extractor "
                          f"{extractor}: gates.yaml requires a different family")
     payload = json.loads(AUDIT_ITEMS.read_text(encoding="utf-8"))
-    cap = args.cap if args.cap is not None else max(0.0, B.PIPELINE_CAP - R.spent())
+    # Unreadable cap/ledger -> `None`: bail out and say so, rather than book a judge pass against a
+    # fabricated $0.0 headroom (Defect 17 class: `max(0.0, None - x)` either raises or lies).
+    cap = B.cap_arg(args.cap)
+    if cap is None:
+        raise SystemExit("cannot price this audit run: pipeline cap or ledger sum unreadable "
+                         "(pass --cap to run anyway)")
     run = run_judge(args.model, cap, limit=args.limit)
     st = summarise(payload, args.model, run["mode"])
     st.update({"phase": PHASE, "seed": payload["seed"], "extractor_model": extractor,

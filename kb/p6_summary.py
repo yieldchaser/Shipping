@@ -445,21 +445,29 @@ def summary_cites(kept: list[dict]) -> list[str]:
 
 # ------------------------------------------------------------------ model calls
 def _log(job_key: str, pass_name: str, model: str, usage: dict | None, cost: float | None = None,
-         status: str = "ok", error: str | None = None, meta: dict | None = None) -> float:
-    """Ledger row for a P6 call. Returns the booked cost.
+         status: str = "ok", error: str | None = None, meta: dict | None = None
+         ) -> float | None:
+    """Ledger row for a P6 call. Returns the booked cost, or `None` when unmeasured.
 
     `cost=None` prices the call from `runner.cost_usd(model, usage)`, which prefers the
     provider-reported `usage.cost` and falls back to kb/config.yaml's tariff. Required:
     the writer runs on the paid `amd_tokenlab` route (D10 amendment), so a hardcoded 0.0
     would hide real spend from `runner.spent()` and the global pipeline cap.
+
+    Defect 17/21 class: an unpriceable call (no usage block, unknown model, config price still
+    `null`) must stay UNMEASURED. Coercing it to `0.0` wrote SQLite a measured zero and let the
+    phase total shrink to the calls that happened to be priced. `None` is written as SQL NULL and
+    `phase_spend_usd()` reports `UNMEASURED`; an explicit provider-reported `0.0` still books as
+    `0.0` because a provider number is authoritative even at exactly zero.
     """
     usage = usage or {}
     if cost is None:
         try:
             cost = R.cost_usd(model, usage)
         except Exception:  # noqa: BLE001 - unknown model / unreadable config: do not lose the row
-            cost = 0.0
-    cost = float(cost)
+            cost = None
+    if cost is not None:
+        cost = float(cost)
     try:
         con = R.connect()
         con.execute(
@@ -467,7 +475,8 @@ def _log(job_key: str, pass_name: str, model: str, usage: dict | None, cost: flo
                    in_tok, cached_tok, out_tok, cost_usd, finish_reason, latency_ms, model_returned,
                    error, created_at, meta) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
                ON CONFLICT(job_key) DO UPDATE SET status=excluded.status, in_tok=excluded.in_tok,
-                   out_tok=excluded.out_tok, cost_usd=excluded.cost_usd, error=excluded.error""",
+                   out_tok=excluded.out_tok, cost_usd=COALESCE(excluded.cost_usd, jobs.cost_usd),
+                   error=excluded.error""",
             (job_key, pass_name, "p6-v1", model, status, 1, "",
              int(usage.get("prompt_tokens") or 0), int(usage.get("cached_tokens") or 0),
              int(usage.get("completion_tokens") or 0), cost, None, 0, None, error,
@@ -549,7 +558,13 @@ def judge_node(summary: str, ev: list[dict], model: str = JUDGE_MODEL, retries: 
         except Exception as exc:
             last = f"{type(exc).__name__}: {exc}"
             time.sleep(min(20, attempt * 2))
-    return {"score": 0.0, "verdict": None, "why": None, "error": last}
+    # Defect 21: an exhausted judge returns `score=None`, NOT 0.0. `run_judge` classifies the
+    # ungraded rows by `r["score"] is None`, so the old 0.0 landed in `scores` as a *graded* zero:
+    # a dead judge reported `graded=sampled, ungraded=0, ungraded_errors=[]`, and the gate's
+    # `not judge_ungraded` guard never engaged. The outage then surfaced only as a low
+    # `faithful_rate` -- i.e. it was misreported as unfaithfulness. The sentinel the classifier
+    # tests for must be the sentinel the producer emits.
+    return {"score": None, "verdict": None, "why": None, "error": last}
 
 
 # ------------------------------------------------------------------ tree build
@@ -812,10 +827,15 @@ def run_judge(index: dict, n: int = JUDGE_SAMPLE, seed: int | None = None,
     # silent-zero class. `ungraded_*` makes that visible and `gate_passed` requires it to be zero.
     return {"sampled": len(rows), "seed": seed,
             "graded": len(scores), "ungraded": len(ungraded),
-            "ungraded_rate": round(len(ungraded) / len(rows), 4) if rows else 0.0,
+            "ungraded_rate": round(len(ungraded) / len(rows), 4) if rows else None,
             "ungraded_errors": sorted({str(r.get("error")) for r in ungraded}),
-            "mean_score": round(sum(scores) / len(scores), 4) if scores else 0.0,
-            "faithful_rate": round(sum(1 for s in scores if s >= 0.5) / len(scores), 4) if scores else 0.0,
+            # Defect 21 corollary: with no graded row there is no mean and no rate -- `if scores
+            # else 0.0` printed `faithful_rate 0.0` for a judge that graded nothing, which reads as
+            # "the writer was unfaithful" instead of "the judge did not run". None keeps the outage
+            # distinct from a measured zero, and `build_report` already treats a None rate as a
+            # failed gate rather than a passing one.
+            "mean_score": round(sum(scores) / len(scores), 4) if scores else None,
+            "faithful_rate": round(sum(1 for s in scores if s >= 0.5) / len(scores), 4) if scores else None,
             "rows": rows}
 
 
@@ -828,7 +848,7 @@ def phase_spend_usd() -> float | None:
     missing/locked ledger degrades to None (explicitly "unmeasured") instead of a false 0.0.
     """
     try:
-        return round(R.spent(passes=["p6_summary", "p6_judge"]), 6)
+        return R.spent_exact(passes=["p6_summary", "p6_judge"])
     except Exception:  # noqa: BLE001 - a report must never fail on accounting
         return None
 

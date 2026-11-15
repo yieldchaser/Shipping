@@ -99,7 +99,8 @@ def _chat(replies):
 def test_judge_faithful_parses_json():
     rec = {"question": "q", "answer": "a", "evidence": ["quote 1"], "sentences": []}
     assert E.judge_faithful(rec, chat=_chat(['{"supported": 0.75}'])) == 0.75
-    assert E.judge_faithful(rec, chat=_chat(["not json"])) == 0.0
+    # Defect 21: unparseable judge output is UNGRADED (None), not a graded 0.0.
+    assert E.judge_faithful(rec, chat=_chat(["not json"])) is None
     assert E.judge_faithful({"evidence": []}, chat=_chat(['{"supported": 1.0}'])) == 0.0
 
 
@@ -185,9 +186,69 @@ def test_judge_faithful_cost_reports_score_and_spend(monkeypatch):
 
     score, cost = E.judge_faithful_cost(rec, chat=paid)
     assert score == 0.5 and cost == pytest.approx(0.002)
-    # no evidence => no call => no spend, and the score-only wrapper stays compatible
+    # no evidence => no call => no spend; a MEASURED zero, not an ungraded read
     assert E.judge_faithful({"evidence": []}, chat=paid) == 0.0
     assert E.judge_faithful_cost({"evidence": []}, chat=paid) == (0.0, 0.0)
+
+
+def test_judge_faithful_reports_a_judge_outage_as_ungraded(monkeypatch):
+    """Defect 21 (P7 twin): a dead judge used to return a graded 0.0, i.e. 'unfaithful'."""
+    rec = {"question": "q", "answer": "a", "evidence": ["quote 1"], "sentences": []}
+
+    def dead(model, messages, max_tokens=400, **kw):
+        raise RuntimeError("429 rate limited")
+
+    assert E.judge_faithful(rec, chat=dead) is None
+    assert E.judge_faithful_cost(rec, chat=dead) == (None, 0.0)
+
+    def garbled(model, messages, max_tokens=400, **kw):
+        return "the judge made no json", {}, 0.001
+
+    score, cost = E.judge_faithful_cost(rec, chat=garbled)
+    assert score is None, "an unparseable verdict is ungraded, not a 0.0 grade"
+    assert cost == pytest.approx(0.001), "the call still cost money and must be booked"
+
+
+def test_an_unpriceable_judge_call_makes_the_report_spend_unmeasured(patched, monkeypatch):
+    """Defect 17/21 class on the money limb: `None` must not be summed as a measured `0.0`."""
+    monkeypatch.setattr(E.A, "answer_question",
+                        lambda q, model=None, con=None, chat=None: {
+                            **REPLIES[q.split()[-1]], "evidence": ["quote"], "cost_usd": 0.0})
+
+    def unpriced(model, messages, max_tokens=400, **kw):
+        return '{"supported": 1.0}', {}, None      # provider reported no usage
+
+    rep = E.evaluate(GOLD, with_search=False, with_judge=True, judge_chat=unpriced)
+    assert rep["judged"] == 3, "the verdict still grades; only the money is unmeasured"
+    assert rep["judge_cost_usd"] is None and rep["money_spent_usd"] is None
+    assert "UNMEASURED" in E._md(rep)
+
+    def unpriced_answer(q, model=None, con=None, chat=None):
+        return {**REPLIES[q.split()[-1]], "evidence": ["quote"], "cost_usd": None}
+
+    monkeypatch.setattr(E.A, "answer_question", unpriced_answer)
+    rep2 = E.evaluate(GOLD, with_search=False, with_judge=False)
+    assert rep2["money_spent_usd"] is None, "one unpriced answer unmeasures the whole run"
+
+
+def test_a_dead_judge_fails_its_own_gate_not_the_faithfulness_metric(patched, monkeypatch):
+    """Defect 21 end to end: the outage must surface as UNGRADED, never as a low faithfulness."""
+    monkeypatch.setattr(E.A, "answer_question",
+                        lambda q, model=None, con=None, chat=None: {
+                            **REPLIES[q.split()[-1]], "evidence": ["quote"]})
+
+    def dead(model, messages, max_tokens=400, **kw):
+        raise RuntimeError("429 rate limited")
+
+    rep = E.evaluate(GOLD, with_search=False, with_judge=True, judge_chat=dead)
+    assert rep["counts"]["faithfulness_graded"] == 0
+    assert rep["counts"]["faithfulness_ungraded"] == 3
+    assert rep["metrics"]["faithfulness"] is None, "no grade => no mean, never a 0.0 mean"
+    assert rep["gates"]["faithfulness"]["pass"] is False
+    assert rep["judged"] == 0 and rep["judged_ungraded"] == 3
+    assert rep["pass"] is False
+    md = E._md(rep)
+    assert "UNGRADED" in md and "429 rate limited" in md
 
 
 def test_evaluate_handles_pipeline_errors(patched):

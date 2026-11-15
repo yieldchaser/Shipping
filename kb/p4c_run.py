@@ -190,7 +190,7 @@ def run_packs(pass_name: str, model: str, cap: float, packs_path: Path | None = 
             f"(python -m kb.p4c_preflight)")
     runner = B.runner_for(pass_name, model, cap)
     st = {"pass": pass_name, "model": model, "mode": mode, "packs": 0, "packs_skipped": 0,
-          "chunks": 0, "chunks_skipped": 0, "wall_s": 0.0, "cost_usd": 0.0,
+          "chunks": 0, "chunks_skipped": 0, "wall_s": 0.0, "cost_usd": None,
           "started": dt.datetime.now().isoformat(timespec="seconds"), "finished": None,
           "batches": 0, "start": start, "start_next": start}
     t0 = time.time()
@@ -208,11 +208,11 @@ def run_packs(pass_name: str, model: str, cap: float, packs_path: Path | None = 
         st["packs_skipped"] += len(batch) - len(todo)
         st["chunks_skipped"] += chunks - sum(len(p["chunk_ids"]) for p in todo)
         st["batches"] += 1
-        spent_before = R.spent(passes=[pass_name])
+        spent_before = R.spent_exact(passes=[pass_name])
         if todo:
             jobs = [make(pass_name, model, mode, p) for p in todo]
             runner.run(jobs)
-        cost = round(R.spent(passes=[pass_name]), 6)
+        cost = R.spent_exact(passes=[pass_name])
         st["cost_usd"] = cost
         st["wall_s"] = round(time.time() - t0, 1)
         done_chunks = max(1, st["chunks"] + st["chunks_skipped"])
@@ -223,16 +223,19 @@ def run_packs(pass_name: str, model: str, cap: float, packs_path: Path | None = 
             # zero" - so a running drain looked free. money.fmt_usd keeps the three states apart in the
             # operator log too (Defect 17 class, Lesson 69). `cost - spent_before` can be slightly
             # negative on a replayed ledger read; the sign is preserved by formatting the delta itself.
-            delta = cost - spent_before
+            # `spent_exact` returns None when the ledger read yields nothing at all: that is UNMEASURED,
+            # and subtracting it would either raise or fabricate a delta.
+            delta = None if (cost is None or spent_before is None) else cost - spent_before
             print(f"batch {st['batches']} packs {len(todo)}/{len(batch)} "
                   f"chunks_done {done_chunks}/{total_chunks or '?'} "
-                  f"spend {M.fmt_usd(cost)} (+{M.fmt_usd(abs(delta))}) wall {st['wall_s']:.0f}s"
+                  f"spend {M.fmt_usd(cost)} (+{M.fmt_usd(None if delta is None else abs(delta))}) "
+                  f"wall {st['wall_s']:.0f}s"
                   + (f" eta {eta_h:.1f}h" if eta_h is not None else ""), flush=True)
             state_path(pass_name).write_text(json.dumps({**st, "updated": dt.datetime.now().isoformat(
                 timespec="seconds"), "spent_total": st["cost_usd"]}, indent=2), encoding="utf-8")
     st["finished"] = dt.datetime.now().isoformat(timespec="seconds")
     st["wall_s"] = round(time.time() - t0, 1)
-    st["cost_usd"] = round(R.spent(passes=[pass_name]), 6)
+    st["cost_usd"] = R.spent_exact(passes=[pass_name])
     st["rate_packs_per_min"] = round(st["packs"] / max(1e-9, st["wall_s"] / 60), 2)
     state_path(pass_name).write_text(json.dumps(st, indent=2), encoding="utf-8")
     return st
@@ -295,7 +298,15 @@ def plan_escalation(packs_path: Path, failures_path: Path, out_path: Path) -> di
 
 def cmd_run(args) -> int:
     packs = Path(args.packs) if args.packs else PACKS
-    cap = args.cap if args.cap is not None else max(0.0, B.PIPELINE_CAP - R.spent())
+    # Cap in three states, not two: an operator `--cap`, the measured remaining pipeline headroom, or
+    # UNMEASURED (`None`) when the config cap or the ledger sum cannot be read. The old
+    # `max(0.0, B.PIPELINE_CAP - R.spent())` turned a failed read into "budget exhausted" and would book
+    # a full-scope pass against `$0` (Defect 17 class, Lesson 69: a default in a money path is a
+    # fabricated measurement). Refuse to start rather than run free.
+    cap = B.cap_arg(args.cap)
+    if cap is None:
+        raise SystemExit("cannot price this bulk run: pipeline cap or ledger sum unreadable "
+                         "(pass --cap to run anyway)")
     st = run_packs(args.pass_name, args.model, cap, packs_path=packs, limit=args.limit,
                    shard=args.shard)
     print(json.dumps({k: st[k] for k in ("pass", "model", "mode", "packs", "packs_skipped",
@@ -311,7 +322,10 @@ def cmd_escalate(args) -> int:
     print(json.dumps(st, indent=2))
     if args.plan_only:
         return 0
-    cap = args.cap if args.cap is not None else max(0.0, B.PIPELINE_CAP - R.spent())
+    cap = B.cap_arg(args.cap)
+    if cap is None:
+        raise SystemExit("cannot price this escalation run: pipeline cap or ledger sum unreadable "
+                         "(pass --cap to run anyway)")
     run = run_packs(args.pass_name, args.model, cap, packs_path=out_path, shard=args.shard)
     print(json.dumps({k: run[k] for k in ("packs", "chunks", "cost_usd", "wall_s")}, indent=2))
     return 0

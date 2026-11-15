@@ -10,9 +10,12 @@ keyword hits with a light recency bonus, so a tier that cannot be covered fully 
 densest evidence first. Selection is budget-first, not tier-complete: `est_cost` prices a pack with
 the glm-5.3 tariff fitted from the ledger (`fresh in $2.205/M, cached in $0.2205/M, out $6.93/M`,
 exact fit on 244 ok jobs) using a conservative no-cache assumption plus prompt-overhead and output
-means, and the picker stops when the reserved budget is spent. The unselected remainder is reported
-as declared partial coverage (deviation D12), so the P4c report never claims full coverage of the
-value tiers. Output is a normal `packs.jsonl`-shaped file so `p4c_run.run_packs` can consume it.
+means, and the picker stops when the reserved budget is spent (`bulk_budget()`, the authored
+`budget.passes.p4c_bulk_extraction` booking - never a module literal). The unselected remainder is
+reported as declared partial coverage (deviation D12), so the P4c report never claims full coverage
+of the value tiers. Output is a normal `packs.jsonl`-shaped file so `p4c_run.run_packs` can consume
+it. Projected money is stored through `money.round_usd` and rendered through `money.fmt_usd`, so a
+sub-cent projection can never be stored or printed as the measured-zero value `0.0`.
 """
 
 from __future__ import annotations
@@ -26,6 +29,8 @@ from pathlib import Path
 KB = Path(__file__).resolve().parent
 sys.path.insert(0, str(KB))
 
+import money as M  # noqa: E402
+
 STATE = KB / "state"
 OUT = STATE / "p4c"
 PACKS = OUT / "packs.jsonl"
@@ -34,13 +39,33 @@ SELECTED = OUT / "packs_glm2.jsonl"
 STATS = OUT / "highvalue_stats.json"
 
 MODEL = "glm-5.3"
-BUDGET_USD = 25.25
 SAFETY = 0.90  # keep 10% of the cap unbooked so ledger-priced overruns cannot breach it
 PRICE_IN = 2.205 / 1_000_000
 PRICE_OUT = 6.93 / 1_000_000
 IN_OVERHEAD = 3_700  # static prompt + tool schema + known_entities block, measured off p4c_dry
 OUT_TOKENS = 1_490  # glm-5.3 mean output tokens per pack (p4b ledger)
 CACHED_SHARE = 0.0  # no cache credit: conservative
+
+
+def bulk_budget() -> float | None:
+    """The P4c bulk allowance from `kb/config.yaml` `budget.passes.p4c_bulk_extraction`.
+
+    This module shipped `BUDGET_USD = 25.25` while the authored booking has since been rebooked to
+    31.25 (AMD Token Lab took the bulk line; `p4c_second_extractor` went to 0). A hardcoded
+    denominator is the same defect class as a hardcoded spend: the picker would stop at a cap the
+    owner never booked and the `budget` field in its stats would be a fabricated measurement.
+    `None` when unreadable/non-numeric/bool - the caller must refuse, never substitute a constant.
+    """
+    try:
+        import yaml
+        cfg = yaml.safe_load((KB / "config.yaml").read_text(encoding="utf-8")) or {}
+        v = (((cfg.get("budget") or {}).get("passes") or {}).get("p4c_bulk_extraction"))
+    except (OSError, ValueError, ImportError, AttributeError, TypeError):
+        return None
+    if not isinstance(v, (int, float)) or isinstance(v, bool):
+        return None
+    return float(v)
+
 
 TIERS = {
     "gold": 0,
@@ -115,8 +140,15 @@ def est_cost(pack: dict) -> float:
     return fresh_in * PRICE_IN * (1.0 - CACHED_SHARE) + OUT_TOKENS * PRICE_OUT
 
 
-def plan(path: Path = PACKS, budget: float = BUDGET_USD, safety: float = SAFETY) -> dict:
-    """Metadata-only pass: tier+score every pack, then budget-greedy pick without holding rows."""
+def plan(path: Path = PACKS, budget: float | None = None, safety: float = SAFETY) -> dict:
+    """Metadata-only pass: tier+score every pack, then budget-greedy pick without holding rows.
+
+    `budget=None` reads the authored booking from config (`bulk_budget`) rather than trusting a
+    module literal, so a caller that forgets to pass one still cannot run against a stale cap.
+    """
+    budget = bulk_budget() if budget is None else budget
+    if budget is None:
+        raise ValueError("p4c_bulk_extraction budget unreadable: kb/config.yaml budget.passes")
     gold = load_gold_chunk_ids()
     meta = []
     with path.open("r", encoding="utf-8") as fh:
@@ -129,7 +161,7 @@ def plan(path: Path = PACKS, budget: float = BUDGET_USD, safety: float = SAFETY)
                          "score": round(score_of(pack), 4),
                          "chunks": len(pack.get("chunk_ids") or []),
                          "tokens": int(pack.get("tokens") or 0),
-                         "cost": round(est_cost(pack), 6)})
+                         "cost": M.round_usd(est_cost(pack))})
     eff = budget * safety
     meta.sort(key=lambda m: (m["tier"], -m["score"], m["i"]))
     picked, spent = [], 0.0
@@ -157,18 +189,22 @@ def plan(path: Path = PACKS, budget: float = BUDGET_USD, safety: float = SAFETY)
             picked.append(m)
             got += m["cost"]
             spent += m["cost"]
-        used[name] = round(got, 4)
-        carry = round(carry + QUOTA[name] * pool - got, 6)
+        used[name] = M.round_usd(got)
+        carry = M.round_usd(carry + QUOTA[name] * pool - got)
     tiers = {}
     for m in picked:
         name = next(k for k, v in TIERS.items() if v == m["tier"])
         t = tiers.setdefault(name, {"packs": 0, "chunks": 0, "est_cost": 0.0})
         t["packs"] += 1
         t["chunks"] += m["chunks"]
-        t["est_cost"] = round(t["est_cost"] + m["cost"], 4)
-    return {"picked": picked, "spent": round(spent, 4), "effective_budget": round(eff, 4),
+        # Projected money: `round(..., 4)` would flatten a sub-cent tier estimate into the measured-zero
+        # value `0.0`. `M.round_usd` keeps 6 places so the estimate is never laundered (Defect 17 class).
+        t["est_cost"] = M.round_usd(t["est_cost"] + m["cost"])
+    # Same for the projected total and the quota carry: `round(..., 4)` cannot express a sub-cent
+    # projection and would floor it to the measured-zero `0.0` (Defect 17 class).
+    return {"picked": picked, "spent": M.round_usd(spent), "effective_budget": M.round_usd(eff),
             "budget": budget, "tiers": tiers, "quota": QUOTA, "tier_spend": used,
-            "carry": round(carry, 4),
+            "carry": M.round_usd(carry),
             "candidates": len(meta),
             "tier_candidates": {k: sum(1 for m in meta if m["tier"] == v)
                                 for k, v in TIERS.items()}}
@@ -189,8 +225,8 @@ def write(plan_result: dict, path: Path = PACKS, out: Path = SELECTED) -> dict:
     stats = {k: v for k, v in plan_result.items() if k != "picked"}
     stats.update({"packs_written": n, "model": MODEL,
                   "selected_path": str(out),
-                  "est_cost_per_chunk": round(
-                      plan_result["spent"] / max(1, sum(m["chunks"] for m in plan_result["picked"])), 6),
+                  "est_cost_per_chunk": M.round_usd(
+                      plan_result["spent"] / max(1, sum(m["chunks"] for m in plan_result["picked"]))),
                   "gold_chunks": len(load_gold_chunk_ids()),
                   "partial_coverage": True,
                   "note": "declared partial coverage (D12): remaining value tiers not extracted by glm-5.3"})
@@ -199,14 +235,17 @@ def write(plan_result: dict, path: Path = PACKS, out: Path = SELECTED) -> dict:
 
 
 def summarise(stats: dict, dry: bool = False) -> str:
+    # Money goes through money.fmt_usd: `:.2f` printed a sub-cent projected estimate as `$0.00`, the
+    # measured-zero string, and `budget` may be `None` (unreadable config) where `:.2f` would raise
+    # (Defect 17 class, Lesson 69). Counts/chunks stay as-is - they are not money.
     lines = [f"glm2 packs {stats['packs_written']} chunks "
              f"{sum(t['chunks'] for t in stats['tiers'].values())} "
-             f"est cost ${stats['spent']:.2f} / ${stats['budget']:.2f} "
-             f"(effective ${stats['effective_budget']:.2f})"]
+             f"est cost {M.fmt_usd(stats.get('spent'))} / {M.fmt_usd(stats.get('budget'))} "
+             f"(effective {M.fmt_usd(stats.get('effective_budget'))})"]
     for name in sorted(stats["tiers"], key=lambda k: TIERS[k]):
         t = stats["tiers"][name]
         lines.append(f"  {name:<16} packs {t['packs']:>5} chunks {t['chunks']:>6} "
-                     f"est ${t['est_cost']:.2f}")
+                     f"est {M.fmt_usd(t.get('est_cost'))}")
     if dry:
         lines.insert(0, "DRY: selection only, no extraction")
     return "\n".join(lines)
@@ -217,29 +256,36 @@ def main() -> int:
     ap.add_argument("--packs", default=str(PACKS))
     ap.add_argument("--out", default=str(SELECTED))
     ap.add_argument("--stats", default=str(STATS))
-    ap.add_argument("--budget", type=float, default=BUDGET_USD)
+    ap.add_argument("--budget", type=float, default=None,
+                    help="bulk allowance in USD; default = config budget.passes.p4c_bulk_extraction")
     ap.add_argument("--safety", type=float, default=SAFETY)
     ap.add_argument("--dry", action="store_true", help="report the selection, write nothing")
     ap.add_argument("--limit", type=int, default=0, help="cap the number of selected packs (debug)")
     args = ap.parse_args()
-    res = plan(Path(args.packs), args.budget, args.safety)
+    # Resolve the cap before any arithmetic: `plan` divides/multiplies it, so a `None` from an
+    # unreadable config must be a clear SystemExit, not a stale constant or a TypeError (Defect 17).
+    budget = args.budget if args.budget is not None else bulk_budget()
+    if budget is None:
+        raise SystemExit("p4c_highvalue: cannot read budget.passes.p4c_bulk_extraction from "
+                         "kb/config.yaml; pass --budget explicitly")
+    res = plan(Path(args.packs), budget, args.safety)
     if args.limit:
         res["picked"] = res["picked"][:args.limit]
-        res["spent"] = round(sum(m["cost"] for m in res["picked"]), 4)
+        res["spent"] = M.round_usd(sum(m["cost"] for m in res["picked"]))
         tiers = {}
         for m in res["picked"]:
             name = next(k for k, v in TIERS.items() if v == m["tier"])
             t = tiers.setdefault(name, {"packs": 0, "chunks": 0, "est_cost": 0.0})
             t["packs"] += 1
             t["chunks"] += m["chunks"]
-            t["est_cost"] = round(t["est_cost"] + m["cost"], 4)
+            t["est_cost"] = M.round_usd(t["est_cost"] + m["cost"])
         res["tiers"] = tiers
     stats = write(res, Path(args.packs), Path(args.out)) if not args.dry else {
         k: v for k, v in res.items() if k != "picked"}
     stats.setdefault("packs_written", len(res["picked"]))
     if "est_cost_per_chunk" not in stats:
-        stats["est_cost_per_chunk"] = round(
-            res["spent"] / max(1, sum(m["chunks"] for m in res["picked"])), 6)
+        stats["est_cost_per_chunk"] = M.round_usd(
+            res["spent"] / max(1, sum(m["chunks"] for m in res["picked"])))
         stats["model"] = MODEL
         stats["partial_coverage"] = True
         stats["gold_chunks"] = len(load_gold_chunk_ids())

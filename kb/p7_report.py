@@ -59,10 +59,15 @@ def spend_usd() -> float | None:
     try:
         con = sqlite3.connect(f"file:{LEDGER}?mode=ro", uri=True)
         try:
-            row = con.execute("SELECT coalesce(sum(cost_usd), 0) FROM jobs").fetchone()
+            row = con.execute("SELECT count(*), sum(cost_usd) FROM jobs").fetchone()
         finally:
             con.close()
-        return round(float(row[0] or 0.0), 4)
+        if not row or not row[0]:
+            return None  # nothing booked at all: unmeasured, not a measured $0.0000
+        # 6 dp, not 4: `round(x, 4)` turned the real P6 phase spend (`$0.000013`) into `0.0`, so the
+        # later `M.round_usd(spend)` in `build()` could not recover what this line had already
+        # destroyed (Defect-17 class, Lesson 67 - a fixed-precision read is a lossy read).
+        return M.round_usd(row[1])
     except (sqlite3.Error, OSError, ValueError):
         return None
 

@@ -77,7 +77,7 @@ def init_ledger() -> None:
     con.execute("""CREATE TABLE IF NOT EXISTS jobs(
         job_key TEXT PRIMARY KEY, pass TEXT, prompt_version TEXT, model TEXT, status TEXT,
         attempts INTEGER DEFAULT 0, request_hash TEXT, in_tok INTEGER DEFAULT 0,
-        cached_tok INTEGER DEFAULT 0, out_tok INTEGER DEFAULT 0, cost_usd REAL DEFAULT 0,
+        cached_tok INTEGER DEFAULT 0, out_tok INTEGER DEFAULT 0, cost_usd REAL,
         finish_reason TEXT, latency_ms INTEGER, model_returned TEXT, error TEXT,
         created_at TEXT, meta TEXT)""")
     con.execute("CREATE INDEX IF NOT EXISTS jobs_pass ON jobs(pass)")
@@ -105,22 +105,33 @@ def price_table() -> dict:
     return out
 
 
-def cost_usd(model: str, usage: dict | None) -> float:
-    """Real cost of one call.
+def cost_usd(model: str, usage: dict | None) -> float | None:
+    """Real cost of one call, or `None` when it cannot be measured.
 
     Precedence: the provider-reported measured `usage.cost` (the router bills per token, so this is the
     ground truth and works for models whose config price is still null) -> config price table ->
-    0.0 for free/NIM models (they never report a cost).
+    `None` when neither source can price the call.
+
+    Defect 17/21 class: this used to return `0.0` for both "the route is genuinely free" and "no
+    measurement exists", so an empty/absent `usage` block, an unknown model id, or a config price
+    that is still `null` all booked as *measured zero* — a fabricated measurement that understates
+    spend and lets a pass run past the §7.5 cap unnoticed. Two states are now distinct:
+
+        None  -> unmeasured (no usage reported, unknown model, config price null)
+        0.0   -> measured zero (the config tariff for that model is an explicit 0.0)
+
+    A provider-reported number is authoritative even when it is exactly zero; free in-process routes
+    (`nim`, `ultrafast`) are priced from their explicit `0.0` config tariff, not from silence.
     """
     if not usage:
-        return 0.0
+        return None
     measured = usage.get("cost")
-    if isinstance(measured, (int, float)) and measured > 0:
+    if isinstance(measured, (int, float)) and not isinstance(measured, bool):
         return float(measured)
     spec = price_table().get(model) or {}
     pin, pout = spec.get("in"), spec.get("out")
     if not isinstance(pin, (int, float)) or not isinstance(pout, (int, float)):
-        return 0.0
+        return None
     ptok = float(usage.get("prompt_tokens", 0) or 0)
     otok = float(usage.get("completion_tokens", 0) or 0)
     ctok = float(usage.get("cached_tokens", 0) or 0)
@@ -173,6 +184,22 @@ def spent(passes: list[str] | None = None, prefix: str | None = None) -> float:
     return 0.0 if total is None else total
 
 
+def pipeline_cap() -> float | None:
+    """The §7.5 global pipeline cap, authored in `kb/config.yaml` `budget.pipeline_cap_usd`.
+
+    `None` when the config or the key is unreadable: budget arithmetic then refuses to run (see
+    `Runner.budget_left`) instead of substituting a made-up `$82` that a raised cap would contradict.
+    """
+    try:
+        cfg = yaml.safe_load(CONFIG.read_text(encoding="utf-8")) or {}
+        v = (cfg.get("budget") or {}).get("pipeline_cap_usd")
+    except (OSError, ValueError):
+        return None
+    if not isinstance(v, (int, float)) or isinstance(v, bool):
+        return None
+    return float(v)
+
+
 def raw_path(pass_name: str, key: str) -> Path:
     p = RAW / pass_name / f"{key}.json"
     p.parent.mkdir(parents=True, exist_ok=True)
@@ -196,11 +223,16 @@ class Runner:
 
     def __init__(self, pass_name: str, prompt_version: str, cap_usd: float,
                  start: int = 8, ceiling: int = 48, rate_per_min: int | None = None,
-                 pipeline_cap_usd: float = 82.0, timeout_s: int = 180, attempts: int = 3):
+                 pipeline_cap_usd: float | None = None, timeout_s: int = 180, attempts: int = 3):
         self.pass_name = pass_name
         self.prompt_version = prompt_version
         self.cap_usd = float(cap_usd)
-        self.pipeline_cap = float(pipeline_cap_usd)
+        # §7.5 global cap is authored in `kb/config.yaml` `budget.pipeline_cap_usd`; a hardcoded
+        # literal here would silently diverge from the gate the tripwire checks (Lesson 69: a
+        # default argument in a money path is a fabricated measurement).
+        if pipeline_cap_usd is None:
+            pipeline_cap_usd = pipeline_cap()
+        self.pipeline_cap = None if pipeline_cap_usd is None else float(pipeline_cap_usd)
         self.start = max(1, start)
         self.ceiling = max(self.start, ceiling)
         self.rate_per_min = rate_per_min
@@ -219,7 +251,7 @@ class Runner:
                    model=job["model"], status=kw.get("status", "ok"), attempts=kw.get("attempts", 1),
                    request_hash=job.get("request_hash", ""), in_tok=kw.get("in_tok", 0),
                    cached_tok=kw.get("cached_tok", 0), out_tok=kw.get("out_tok", 0),
-                   cost_usd=kw.get("cost", 0.0), finish_reason=kw.get("finish_reason"),
+                   cost_usd=kw.get("cost"), finish_reason=kw.get("finish_reason"),
                    latency_ms=kw.get("latency_ms", 0), model_returned=kw.get("model_returned"),
                    error=kw.get("error"), created_at=time.strftime("%Y-%m-%dT%H:%M:%S"),
                    meta=json.dumps(job.get("meta", {}))[:4000])
@@ -229,7 +261,14 @@ class Runner:
                 model_returned, error, created_at, meta) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
                 ON CONFLICT(job_key) DO UPDATE SET status=excluded.status, attempts=excluded.attempts,
                 in_tok=excluded.in_tok, cached_tok=excluded.cached_tok, out_tok=excluded.out_tok,
-                cost_usd=excluded.cost_usd, finish_reason=excluded.finish_reason,
+                -- Defect 17/19 class (real cost dropped): a FAILED re-attempt books no cost, and this
+                -- upsert keys on the same `job_key`. Plain `cost_usd=excluded.cost_usd` therefore
+                -- replaced an earlier measured cost for that job with NULL. Reachable whenever the
+                -- ledger says `ok` but the raw JSON is gone (e.g. the planned scratch raw-dir
+                -- cleanup): `_cached` then re-calls, and a failure erases spend that really happened.
+                -- COALESCE keeps the earlier measurement; a brand-new failed row is still NULL.
+                cost_usd=COALESCE(excluded.cost_usd, jobs.cost_usd),
+                finish_reason=excluded.finish_reason,
                 latency_ms=excluded.latency_ms, model_returned=excluded.model_returned,
                 error=excluded.error""",
                 (row["job_key"], row["pass_"], row["prompt_version"], row["model"], row["status"],
@@ -252,9 +291,18 @@ class Runner:
             return None
 
     # --- cheap helpers --------------------------------------------------------------------
-    def budget_left(self) -> float:
+    def budget_left(self) -> float | None:
+        """Headroom under both the per-pass cap and the §7.5 pipeline cap.
+
+        `None` means the pipeline cap itself could not be read — a budget that cannot be measured
+        must not be reported as `0.0`, because callers treat `<= 0` as "stop" and `0.0` would read as
+        a legitimately exhausted budget. Callers decide: `p4b_run` refuses to start, the daemon
+        re-reads the config on its next tick.
+        """
         used_pass = spent(passes=[self.pass_name])
-        used_all = spent(prefix="p") if False else spent()
+        used_all = spent()
+        if self.pipeline_cap is None:
+            return None
         return min(self.cap_usd - used_pass, self.pipeline_cap - used_all)
 
     def _check_drift(self, job: dict, returned: str | None) -> None:
@@ -284,7 +332,7 @@ class Runner:
         if cached is not None:
             self.stats["cached"] += 1
             return {"status": "cached", "raw": cached.get("raw"), "body": cached.get("body"),
-                    "usage": cached.get("usage") or {}, "cost": cached.get("cost", 0.0),
+                    "usage": cached.get("usage") or {}, "cost": cached.get("cost"),
                     "latency_ms": cached.get("latency_ms", 0), "attempts": cached.get("attempts", 1),
                     "model_returned": cached.get("model_returned")}
         last = None
@@ -320,7 +368,11 @@ class Runner:
                              cached_tok=usage["cached_tokens"], out_tok=usage["completion_tokens"],
                              cost=cost, finish_reason=done.get("finish_reason"), latency_ms=latency,
                              model_returned=returned)
-                self.stats.update(ok=self.stats["ok"] + 1, cost=self.stats["cost"] + cost,
+                self.stats.update(ok=self.stats["ok"] + 1,
+                                  # Tri-state: one unpriced call makes the running figure
+                                  # UNMEASURED (`None`) rather than a total that quietly omits it.
+                                  cost=(None if (self.stats["cost"] is None or cost is None)
+                                        else self.stats["cost"] + cost),
                                   in_tok=self.stats["in_tok"] + usage["prompt_tokens"],
                                   out_tok=self.stats["out_tok"] + usage["completion_tokens"],
                                   cached_tok=self.stats["cached_tok"] + usage["cached_tokens"],
@@ -361,7 +413,11 @@ class Runner:
         """Run the batch concurrently; returns job_key -> result. Stops cleanly at the caps."""
         if not jobs:
             return {}
-        if self.budget_left() <= 0:
+        left = self.budget_left()
+        if left is None:
+            log(f"pass {self.pass_name}: pipeline cap unreadable, nothing started")
+            return {}
+        if left <= 0:
             log(f"pass {self.pass_name}: budget already exhausted, nothing started")
             return {}
         todo = [j for j in jobs if j.get("model")]
@@ -386,7 +442,7 @@ class Runner:
                     await asyncio.sleep(60.0 / self.rate_per_min)
                 res = await loop.run_in_executor(ex, self._one, job)
                 results[job["job_key"]] = res
-                if res["status"] == "fatal" or self.budget_left() <= 0:
+                if res["status"] == "fatal" or (self.budget_left() or 0.0) <= 0:
                     self._stop = True
 
         async def main() -> None:
@@ -419,5 +475,7 @@ def summarise_ledger(passes: list[str] | None = None) -> dict:
         params = passes
     sql += " GROUP BY pass ORDER BY pass"
     rows = con.execute(sql, params).fetchall()
+    # A row exists but its `cost_usd` is NULL => the call was booked without a measurement; `None`
+    # keeps that distinct from a measured `0.0` row (`money.round_usd` passes None through).
     return {r[0]: {"jobs": r[1], "ok": r[2], "in_tok": r[3], "out_tok": r[4], "cached_tok": r[5],
-                   "cost_usd": round(r[6] or 0.0, 6)} for r in rows}
+                   "cost_usd": M.round_usd(r[6])} for r in rows}
