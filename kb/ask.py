@@ -12,16 +12,19 @@ Design note (5 lines):
    tool that accepts a window, never by asking the model to remember.
 4. Declared gaps (`gaps` tool / v_gaps) are surfaced in the answer when they cover the
    window, so a refusal can name what is missing instead of inventing.
-5. Default model is the bulk model (free AMD Token Lab pool); one glm-5.3 escalation is allowed
-   only when the number post-check fails and the pipeline budget still has room.
+5. Default model is the bulk model on the AMD Token Lab pool (owner amendment to D10; PAID, measured
+   $0.28/M in, $0.0056/M cached, $0.56/M out -- not a free tier); one glm-5.3 escalation is
+   allowed only when the number post-check fails and the pipeline budget still has room.
 """
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import re
 import sys
 import time
+import uuid
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -32,6 +35,8 @@ import llm_runner  # noqa: E402
 ROOT = Path(__file__).resolve().parents[1]
 P7_DIR = ROOT / "kb/state/p7"
 CALL_LOG = P7_DIR / "calls.jsonl"
+LEDGER = None  # resolved to runner.LEDGER on first book; tests point this at a scratch file
+PASS_NAME = "p7_ask"
 
 DEFAULT_MODEL = "DeepSeek-V4.1-Flash"  # AMD Token Lab bulk model (owner amendment to D10; PAID,
 # measured $0.28/M in, $0.0056/M cached, $0.56/M out -- not a free tier)
@@ -183,11 +188,69 @@ def contract_filter(parsed: dict, have: list[float], resolve) -> tuple[dict, dic
 
 
 # ------------------------------------------------------------------ engine
+def _book(model: str, usage: dict, cost: float, *, status: str = "ok", prompt_version: str = "p7-v1",
+          error: str | None = None, latency_ms: int = 0, job_key: str | None = None) -> float:
+    """Book one P7 model call into the shared `jobs` ledger. Returns the booked cost.
+
+    Defect 15b: P7 used to record spend ONLY in `calls.jsonl` (see `_log_call`), so every P7 call
+    -- the bulk writer on the PAID AMD route, the escalation, and the Gemma judge -- was invisible
+    to `runner.spent()`, to the global pipeline cap in §7.5 and to `/stats`. This books the same
+    call in the one authoritative ledger, priced by `runner.cost_usd` (measured `usage.cost` first,
+    then the cache-aware config tariff). Best-effort by design: an unwritable ledger must never
+    fail an answer, but it must also never silently pretend the call was free -- the JSONL call log
+    remains the per-call trace.
+    """
+    usage = usage or {}
+    cost = float(cost or 0.0)
+    try:
+        import runner as R
+        key = job_key or R.job_key(PASS_NAME, prompt_version, model,
+                                   hashlib.sha256(json.dumps(usage, sort_keys=True).encode()
+                                                  ).hexdigest()[:16], uuid.uuid4().hex[:8])
+        path = LEDGER or R.LEDGER
+        if LEDGER is None:
+            con = R.connect()
+        else:  # scratch ledger (tests): create the same schema locally
+            import sqlite3
+            Path(path).parent.mkdir(parents=True, exist_ok=True)
+            con = sqlite3.connect(str(path), timeout=60.0, check_same_thread=False)
+            con.execute("""CREATE TABLE IF NOT EXISTS jobs(
+                job_key TEXT PRIMARY KEY, pass TEXT, prompt_version TEXT, model TEXT, status TEXT,
+                attempts INTEGER DEFAULT 0, request_hash TEXT, in_tok INTEGER DEFAULT 0,
+                cached_tok INTEGER DEFAULT 0, out_tok INTEGER DEFAULT 0, cost_usd REAL DEFAULT 0,
+                finish_reason TEXT, latency_ms INTEGER, model_returned TEXT, error TEXT,
+                created_at TEXT, meta TEXT)""")
+        with R._ledger_lock:
+            con.execute(
+                """INSERT INTO jobs(job_key, pass, prompt_version, model, status, attempts,
+                       request_hash, in_tok, cached_tok, out_tok, cost_usd, finish_reason,
+                       latency_ms, model_returned, error, created_at, meta)
+                   VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+                   ON CONFLICT(job_key) DO UPDATE SET status=excluded.status,
+                       in_tok=excluded.in_tok, cached_tok=excluded.cached_tok,
+                       out_tok=excluded.out_tok, cost_usd=excluded.cost_usd, error=excluded.error""",
+                (key, PASS_NAME, prompt_version, model, status, 1, "",
+                 int(usage.get("prompt_tokens") or 0), int(usage.get("cached_tokens") or 0),
+                 int(usage.get("completion_tokens") or 0), cost,
+                 usage.get("finish_reason"), int(latency_ms or 0), None, error,
+                 time.strftime("%Y-%m-%dT%H:%M:%S"), json.dumps({"source": "ask"})[:2000]))
+            con.commit()
+            con.close()
+    except Exception:  # noqa: BLE001 - ledger write is best-effort; never break an answer
+        pass
+    return cost
+
+
 def _chat(model: str, messages: list[dict], max_tokens: int = 400,
           timeout_s: int = 180) -> tuple[str, dict, float]:
     t0 = time.time()
-    body = llm_runner.chat(model, messages, max_tokens=max_tokens, temperature=0.0,
-                           timeout_s=timeout_s)
+    try:
+        body = llm_runner.chat(model, messages, max_tokens=max_tokens, temperature=0.0,
+                               timeout_s=timeout_s)
+    except Exception as exc:  # noqa: BLE001 - bill the attempt, then let the caller degrade
+        _book(model, {}, 0.0, status="error", error=f"{type(exc).__name__}: {exc}",
+              latency_ms=int((time.time() - t0) * 1000))
+        raise
     text = ""
     try:
         text = body["choices"][0]["message"].get("content") or ""
@@ -204,8 +267,10 @@ def _chat(model: str, messages: list[dict], max_tokens: int = 400,
         cost = R.cost_usd(model, usage)
     except Exception:  # noqa: BLE001 - unknown model / unreadable config
         cost = 0.0
+    latency_ms = int((time.time() - t0) * 1000)
+    _book(model, usage, cost, latency_ms=latency_ms)
     _log_call({"model": model, "usage": usage, "cost_usd": round(cost, 6),
-               "latency_ms": int((time.time() - t0) * 1000)})
+               "latency_ms": latency_ms})
     return text, usage, round(cost, 6)
 
 

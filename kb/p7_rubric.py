@@ -85,12 +85,31 @@ def mean(vals: list[float]) -> float | None:
     return round(sum(vals) / len(vals), 4) if vals else None
 
 
+def clamp_score(value) -> float | None:
+    """A judge score is only usable inside [0, 1]; anything else is `None`, never a silent pass.
+
+    Defect 17: `rubric_fields` used to accept the judge's `score` unchanged. The judge is an LLM:
+    a reply of `"score": 3` (or `"score": "0.9"`) would have entered `mean_score` unvalidated and
+    pushed a run past `TARGET = 0.8` with no question actually graded well. `p7_eval.judge_faithful`
+    already clamps; this is the same contract.
+    """
+    if isinstance(value, bool) or not isinstance(value, (int, float)):
+        return None
+    try:
+        value = float(value)
+    except (TypeError, ValueError):  # pragma: no cover - float() of a number cannot fail
+        return None
+    if value != value:  # NaN
+        return None
+    return max(0.0, min(1.0, value))
+
+
 def rubric_fields(judged: dict) -> dict:
     fields = ("facts_cited", "indicators_correct", "judgment_reasoned", "counter_argument_present")
-    got = {f: judged.get(f) for f in fields}
-    score = judged.get("score")
-    if not isinstance(score, (int, float)):
-        parts = [got[f] for f in fields if isinstance(got[f], (int, float))]
+    got = {f: clamp_score(judged.get(f)) for f in fields}
+    score = clamp_score(judged.get("score"))
+    if score is None:
+        parts = [got[f] for f in fields if got[f] is not None]
         score = round(sum(parts) / len(parts), 4) if parts else None
     got["score"] = score
     got["notes"] = judged.get("notes", "")
@@ -136,15 +155,43 @@ def run(con=None, chat=None, judge_chat=None, n: int = N_QUESTIONS,
     graded = [i for i in items if i.get("judged") and isinstance(i.get("score"), (int, float))]
     scores = [i["score"] for i in graded]
     fields = ("facts_cited", "indicators_correct", "judgment_reasoned", "counter_argument_present")
+    # Defect 17: `counts` used to categorise only ok/graded/failures/not_enough_data, so a record the
+    # writer parsed fine (status "ok") but the judge could not grade -- an exception, no JSON, or a
+    # score outside [0, 1] -- appeared in no bucket at all. `questions` then did not equal the sum of
+    # the buckets and a run in which the judge silently never ran looked exactly like a run in which
+    # every question was graded badly. Every question now lands in exactly one bucket.
+    by_status: dict[str, int] = {}
+    for i in items:
+        by_status[str(i.get("status"))] = by_status.get(str(i.get("status")), 0) + 1
+    named = {"not_enough_data", "not_in_data", "malformed", "error"}
+    ungraded_ok = [i for i in items
+                   if not (i.get("judged") and isinstance(i.get("score"), (int, float)))
+                   and str(i.get("status")) not in named]
+    counts = {
+        "questions": len(items),
+        "ok": by_status.get("ok", 0),
+        "graded": len(graded),
+        "failures": len(failures),
+        "not_enough_data": by_status.get("not_enough_data", 0),
+        "not_in_data": by_status.get("not_in_data", 0),
+        "malformed": by_status.get("malformed", 0),
+        "error": by_status.get("error", 0),
+        # not graded, and not explained by a producer status: the silent-zero class this defect is
+        # about (judge raised, judge returned no usable score, or an unrecognised status)
+        "ungraded_ok": len(ungraded_ok),
+        "judge_error": sum(1 for i in items if i.get("judge_error")),
+        "buckets_sum": len(graded) + len(ungraded_ok)
+        + by_status.get("not_enough_data", 0) + by_status.get("not_in_data", 0)
+        + by_status.get("malformed", 0) + by_status.get("error", 0),
+    }
+    counts["balanced"] = counts["buckets_sum"] == counts["questions"]
     report = {
         "phase": PHASE, "built_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
         "wall_seconds": round(time.time() - t0, 1),
         "model": model, "judge_model": judge_model,
         "money_spent_usd": round(sum(i.get("cost_usd") or 0.0 for i in items), 6),
         "target": TARGET,
-        "counts": {"questions": len(items), "ok": sum(1 for i in items if i.get("status") == "ok"),
-                   "graded": len(graded), "failures": len(failures),
-                   "not_enough_data": sum(1 for i in items if i.get("status") == "not_enough_data")},
+        "counts": counts,
         "mean_score": mean(scores),
         "field_means": {f: mean([i.get(f) for i in graded]) for f in fields},
         "failures": failures,
@@ -152,7 +199,9 @@ def run(con=None, chat=None, judge_chat=None, n: int = N_QUESTIONS,
     }
     report["pass"] = bool(report["mean_score"] is not None
                           and report["mean_score"] >= TARGET
-                          and len(graded) >= N_QUESTIONS)
+                          and len(graded) >= N_QUESTIONS
+                          and counts["balanced"]
+                          and counts["ungraded_ok"] == 0)
     return report
 
 
@@ -163,6 +212,12 @@ def _md(report: dict) -> str:
         "",
         f"- questions: {c['questions']} · ok: {c['ok']} · graded: {c['graded']} · "
         f"failures: {c['failures']}",
+        f"- ungraded: {c.get('ungraded_ok')} (no usable judge score and no producer status to "
+        f"explain it; {c.get('judge_error')} judge errors) · not_enough_data: "
+        f"{c.get('not_enough_data')} · not_in_data: {c.get('not_in_data')} · "
+        f"malformed: {c.get('malformed')} · error: {c.get('error')}",
+        f"- buckets sum to {c.get('buckets_sum')} of {c['questions']} questions "
+        f"({'balanced' if c.get('balanced') else 'UNBALANCED — a question landed in no bucket'})",
         f"- writer: `{report['model']}` · judge: `{report['judge_model']}` "
         f"(different family from the extractor)",
         f"- mean rubric score: {report['mean_score']} (target >= {report['target']}) · "
@@ -181,8 +236,9 @@ def _md(report: dict) -> str:
                      f"{i.get('score')} |")
     lines += ["", "## Deviations", "",
               "- D19: rubric-graded analyst set (30 questions, segment × topic grid), judge from "
-              "a different model family; ungraded questions are excluded and the gate needs all "
-              "30 graded."]
+              "a different model family. The mean is over graded questions only; the gate needs all "
+              "30 graded, every question in a bucket, and no ungraded-but-ok row (Defect 17), so "
+              "the mean can never be carried by the handful of questions the judge answered."]
     return "\n".join(lines) + "\n"
 
 

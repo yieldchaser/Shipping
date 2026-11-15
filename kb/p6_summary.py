@@ -80,6 +80,24 @@ def _family(model: str) -> str:
     return model.split("/")[0].split("-")[0].lower()
 
 
+def clamp_score(value) -> float | None:
+    """A judge score is only usable inside [0, 1]; anything else is `None`, never a silent 0.0.
+
+    Defect 17 (same class as Defect 16): the judge is an LLM, so its `score` field is untrusted
+    input. Accepting it verbatim let `"score": 3` inflate `faithful_rate` past the 0.95 P6 gate and
+    let a missing/garbage score be coerced to a plausible-looking 0.0 that still counted as graded.
+    """
+    if isinstance(value, bool) or not isinstance(value, (int, float)):
+        return None
+    try:
+        value = float(value)
+    except (TypeError, ValueError):  # pragma: no cover - float() of a number cannot fail
+        return None
+    if value != value:  # NaN
+        return None
+    return max(0.0, min(1.0, value))
+
+
 # plan §8 segments, plus `company:<ticker>` nodes (quarterly)
 SEGMENT_PATTERNS: list[tuple[str, tuple[str, ...]]] = [
     ("capesize", (r"\bcapesize\b", r"\bcape\s+size\b", r"\bbci\b", r"\bc5\b", r"\bc3\b", r"\btubarao\b")),
@@ -501,7 +519,17 @@ def judge_node(summary: str, ev: list[dict], model: str = JUDGE_MODEL, retries: 
             # Defect 16: Gemma fences its JSON; keep tolerating a leading sentence too.
             obj = parse_json_object(txt)
             if obj:
-                return {"score": float(obj.get("score") or 0.0), "verdict": obj.get("verdict"),
+                score = clamp_score(obj.get("score"))
+                if score is None:
+                    # Defect 17: the judge answered but its score is unusable (missing, non-numeric,
+                    # or outside [0, 1]). `float(obj.get("score") or 0.0)` used to coerce that to a
+                    # silent 0.0 (dropping a bad grade into `mean_score`) while `float("score": 3)`
+                    # inflated `faithful_rate` past the 0.95 gate. Neither may be graded: retry, and
+                    # if every attempt is unusable the row is returned with error='bad_score' so
+                    # `run_judge` counts it as ungraded instead of scoring it.
+                    last = f"bad_score:{obj.get('score')!r}"
+                    continue
+                return {"score": score, "verdict": obj.get("verdict"),
                         "why": obj.get("why"), "error": None}
             last = "no_json"
         except Exception as exc:
@@ -764,10 +792,31 @@ def run_judge(index: dict, n: int = JUDGE_SAMPLE, seed: int | None = None,
                      "period": node.get("period"), "score": res.get("score"),
                      "verdict": res.get("verdict"), "error": res.get("error")})
     scores = [r["score"] for r in rows if r["score"] is not None]
+    ungraded = [r for r in rows if r["score"] is None]
+    # Defect 17: rows the judge could not score used to vanish from every statistic, so a judge that
+    # never answered reported `sampled=60, faithful_rate=1.0` off the few rows it did answer -- the
+    # silent-zero class. `ungraded_*` makes that visible and `gate_passed` requires it to be zero.
     return {"sampled": len(rows), "seed": seed,
+            "graded": len(scores), "ungraded": len(ungraded),
+            "ungraded_rate": round(len(ungraded) / len(rows), 4) if rows else 0.0,
+            "ungraded_errors": sorted({str(r.get("error")) for r in ungraded}),
             "mean_score": round(sum(scores) / len(scores), 4) if scores else 0.0,
             "faithful_rate": round(sum(1 for s in scores if s >= 0.5) / len(scores), 4) if scores else 0.0,
             "rows": rows}
+
+
+def phase_spend_usd() -> float | None:
+    """Cumulative ledger spend for the P6 passes, or None if the ledger is unreadable.
+
+    Defect 17: `build_report` hardcoded `spend_usd: 0.0`. After the owner's amendment both P6 models
+    run on the PAID `amd_tokenlab` route, so a literal 0.0 told the gate report, the §7.5 global cap
+    ($82) and the owner's `/stats` view that P6 cost nothing. Measured from `jobs`, best-effort so a
+    missing/locked ledger degrades to None (explicitly "unmeasured") instead of a false 0.0.
+    """
+    try:
+        return round(R.spent(passes=["p6_summary", "p6_judge"]), 6)
+    except Exception:  # noqa: BLE001 - a report must never fail on accounting
+        return None
 
 
 def build_report(index: dict, build: dict, judge: dict | None = None) -> dict:
@@ -799,12 +848,16 @@ def build_report(index: dict, build: dict, judge: dict | None = None) -> dict:
         # literal would have kept certifying a family that is no longer running (Defect 15).
         "judge_family": _family(JUDGE_MODEL),
         "judge_family_differs_from_writer": _family(JUDGE_MODEL) != _family(WRITER_MODEL),
-        "spend_usd": 0.0,
+        "spend_usd": phase_spend_usd(),
         "sample_nodes": nodes[:10],
     }
+    # Defect 17: ungraded rows must block the gate. `run_judge` reports them; a judge that answered
+    # only a handful of nodes otherwise showed a `faithful_rate` computed over that handful.
+    judge_ungraded = (judge or {}).get("ungraded")
     report["gate_passed"] = bool(judge and judge.get("faithful_rate") is not None
                                  and judge["faithful_rate"] >= 0.95
-                                 and report["number_check"]["pass_rate"] == 1.0)
+                                 and report["number_check"]["pass_rate"] == 1.0
+                                 and not judge_ungraded)
     return report
 
 
@@ -832,7 +885,12 @@ def _md(report: dict) -> str:
         f"(kept-sentence failures {report['number_check']['kept_sentences_with_number_failure']})",
         f"- judge faithfulness: {j.get('faithful_rate')} over {j.get('sampled')} nodes "
         f"(mean score {j.get('mean_score')}, need >= 0.95)",
-        f"- spend ${report['spend_usd']:.4f}, wall {report['wall_seconds']}s",
+        f"- judge graded {j.get('graded', j.get('sampled'))} · ungraded {j.get('ungraded', 0)} "
+        f"(rate {j.get('ungraded_rate')}; ungraded rows block the gate)",
+        "- spend "
+        + (f"${report['spend_usd']:.4f}" if isinstance(report.get("spend_usd"), (int, float))
+           else "UNMEASURED (ledger unreadable)")
+        + f", wall {report['wall_seconds']}s",
         f"- gate: {'PASSED' if report['gate_passed'] else 'FAILED'}",
         "",
         "## Sample nodes",

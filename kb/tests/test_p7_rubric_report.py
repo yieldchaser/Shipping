@@ -79,6 +79,99 @@ def test_run_counts_ungraded_as_fail(monkeypatch):
     assert rep["counts"]["not_enough_data"] == 30
 
 
+# ------------------------------------------------------------------ Defect 17
+def test_clamp_score_rejects_unusable_judge_scores():
+    """An LLM-provided score is untrusted input; only numbers inside [0, 1] are usable."""
+    assert R.clamp_score(0.9) == 0.9
+    assert R.clamp_score(1) == 1.0
+    assert R.clamp_score(3) == 1.0, "out-of-range score is clamped, not passed through"
+    assert R.clamp_score(-2) == 0.0
+    assert R.clamp_score(None) is None
+    assert R.clamp_score("0.9") is None, "a stringified number is not a usable score"
+    assert R.clamp_score(True) is None, "bool is an int subclass but not a score"
+    assert R.clamp_score(float("nan")) is None
+
+
+def test_rubric_fields_clamps_every_field():
+    got = R.rubric_fields({"facts_cited": 5, "indicators_correct": "1.0",
+                           "judgment_reasoned": 0.4, "counter_argument_present": True,
+                           "score": 99})
+    assert got["facts_cited"] == 1.0
+    assert got["indicators_correct"] is None
+    assert got["counter_argument_present"] is None
+    assert got["score"] == 1.0, "judge score must be clamped into [0, 1]"
+    assert not isinstance(got["score"], bool)
+
+
+def test_run_does_not_let_an_out_of_range_score_pass_the_gate(monkeypatch):
+    """Defect 17: `"score": 3` used to raise mean_score above TARGET and flip PASS on its own."""
+    monkeypatch.setattr(R.PA, "analyse", lambda *a, **k: ok_rec())
+    monkeypatch.setattr(R.PA, "judge_answer",
+                        lambda *a, **k: {"facts_cited": 3, "indicators_correct": 3,
+                                         "judgment_reasoned": 3, "counter_argument_present": 3,
+                                         "score": 3})
+    rep = R.run(con=DummyCon())
+    assert rep["counts"]["graded"] == 30
+    assert rep["mean_score"] == 1.0, "clamped, so no score can exceed the scale"
+    assert rep["field_means"]["facts_cited"] == 1.0
+
+
+def test_run_marks_an_unusable_judge_verdict_ungraded(monkeypatch):
+    """No usable score *and* no usable fields: the judge effectively did not grade."""
+    monkeypatch.setattr(R.PA, "analyse", lambda *a, **k: ok_rec())
+    monkeypatch.setattr(R.PA, "judge_answer",
+                        lambda *a, **k: {"score": "0.9", "facts_cited": "yes",
+                                         "indicators_correct": None})
+    rep = R.run(con=DummyCon(), n=4)
+    c = rep["counts"]
+    assert c["graded"] == 0 and c["ungraded_ok"] == 4 and c["ok"] == 4
+    assert c["buckets_sum"] == c["questions"] and c["balanced"] is True
+    assert rep["pass"] is False, "ungraded-but-ok rows must block the gate"
+    md = R._md(rep)
+    assert "UNBALANCED" not in md and "balanced" in md
+
+
+def test_rubric_fields_falls_back_to_the_field_mean_when_score_is_missing():
+    """A judge that omits `score` but scores every field is still graded, by the field mean."""
+    got = R.rubric_fields({**GOOD_JUDGE, "score": "0.9"})
+    assert got["score"] == pytest.approx(0.925)
+    assert got["facts_cited"] == 1.0
+
+
+def test_run_buckets_always_sum_to_the_question_count(monkeypatch):
+    """Every question lands in exactly one bucket, whatever the producer/judge combination."""
+    statuses = ["ok", "not_enough_data", "not_in_data", "malformed", "weird_status"]
+    seq = iter(statuses)
+
+    def analyse(*a, **k):
+        return ok_rec(status=next(seq))
+
+    monkeypatch.setattr(R.PA, "analyse", analyse)
+    monkeypatch.setattr(R.PA, "judge_answer",
+                        lambda *a, **k: {**GOOD_JUDGE, "score": 3})
+    rep = R.run(con=DummyCon(), n=5)
+    c = rep["counts"]
+    assert c["questions"] == 5 and c["buckets_sum"] == 5 and c["balanced"] is True
+    assert c["graded"] == 1 and c["ungraded_ok"] == 1, "the unrecognised status is not silently ok"
+    assert c["not_enough_data"] == 1 and c["not_in_data"] == 1 and c["malformed"] == 1
+    assert rep["pass"] is False
+
+
+def test_run_judge_error_is_counted_and_blocks_the_gate(monkeypatch):
+    monkeypatch.setattr(R.PA, "analyse", lambda *a, **k: ok_rec())
+
+    def bad(*a, **k):
+        raise ValueError("bad json")
+
+    monkeypatch.setattr(R.PA, "judge_answer", bad)
+    rep = R.run(con=DummyCon(), n=3)
+    c = rep["counts"]
+    assert c["ungraded_ok"] == 3 and c["judge_error"] == 3 and c["graded"] == 0
+    assert c["buckets_sum"] == 3 and c["balanced"] is True
+    assert rep["pass"] is False
+    assert "ungraded: 3" in R._md(rep)
+
+
 def test_run_records_errors(monkeypatch):
     def boom(*a, **k):
         raise RuntimeError("db down")

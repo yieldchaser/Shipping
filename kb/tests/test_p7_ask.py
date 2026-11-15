@@ -383,3 +383,90 @@ def test_cli_main_json(tmp_path, db, monkeypatch, capsys):
     rc = A.main(["--json", "--db", str(db), "What was the capesize rate?"])
     out = json.loads(capsys.readouterr().out)
     assert rc == 0 and out["status"] == "ok"
+
+
+# ------------------------------------------------------- ask: ledger booking (Defect 15b)
+def _scratch_ledger(tmp_path, monkeypatch):
+    import runner as R
+    path = tmp_path / "ledger.sqlite"
+    monkeypatch.setattr(A, "LEDGER", path)
+    monkeypatch.setattr(A, "CALL_LOG", tmp_path / "calls.jsonl")
+    return path, R
+
+
+def _rows(path, sql="SELECT pass, model, status, in_tok, cached_tok, out_tok, cost_usd FROM jobs"):
+    import sqlite3
+    con = sqlite3.connect(str(path))
+    try:
+        return con.execute(sql).fetchall()
+    finally:
+        con.close()
+
+
+def test_chat_books_its_spend_into_the_jobs_ledger(tmp_path, monkeypatch):
+    """Defect 15b: the JSONL call log alone left P7 spend invisible to runner.spent()."""
+    import runner as R
+    path, _ = _scratch_ledger(tmp_path, monkeypatch)
+
+    def fake_llm_chat(model, messages, **kw):
+        return {"choices": [{"message": {"content": "hi"}}],
+                "usage": {"prompt_tokens": 1_000_000, "completion_tokens": 0}}
+
+    monkeypatch.setattr(A.llm_runner, "chat", fake_llm_chat)
+    text, usage, cost = A._chat(A.DEFAULT_MODEL, [{"role": "user", "content": "x"}])
+    assert text == "hi"
+    expected = R.price_table()[A.DEFAULT_MODEL]["in"]
+    assert cost == pytest.approx(expected), "priced by runner.cost_usd, not a literal 0.0"
+    rows = _rows(path)
+    assert len(rows) == 1
+    assert rows[0][0] == "p7_ask" and rows[0][1] == A.DEFAULT_MODEL and rows[0][2] == "ok"
+    assert rows[0][6] == pytest.approx(expected)
+
+
+def test_booked_p7_spend_is_visible_to_runner_spent(tmp_path, monkeypatch):
+    path, R = _scratch_ledger(tmp_path, monkeypatch)
+    monkeypatch.setattr(A.llm_runner, "chat",
+                        lambda *a, **k: {"choices": [{"message": {"content": "x"}}],
+                                         "usage": {"prompt_tokens": 500_000,
+                                                   "completion_tokens": 100_000}})
+    A._chat(A.DEFAULT_MODEL, [{"role": "user", "content": "x"}])
+    real = R.LEDGER
+    monkeypatch.setattr(R, "LEDGER", path)
+    try:
+        spent = R.spent(passes=[A.PASS_NAME])
+    finally:
+        monkeypatch.setattr(R, "LEDGER", real)
+    pt = R.price_table()[A.DEFAULT_MODEL]
+    assert spent == pytest.approx((500_000 * pt["in"] + 100_000 * pt["out"]) / 1e6)
+    assert spent > 0.0
+
+
+def test_failed_chat_is_booked_as_an_error_row(tmp_path, monkeypatch):
+    path, _ = _scratch_ledger(tmp_path, monkeypatch)
+
+    def boom(*a, **k):
+        raise RuntimeError("upstream down")
+
+    monkeypatch.setattr(A.llm_runner, "chat", boom)
+    with pytest.raises(RuntimeError):
+        A._chat(A.DEFAULT_MODEL, [{"role": "user", "content": "x"}])
+    rows = _rows(path)
+    assert len(rows) == 1 and rows[0][2] == "error"
+
+
+def test_ledger_booking_failure_never_breaks_an_answer(tmp_path, monkeypatch):
+    """Best-effort by design: an unwritable ledger must not take the answer engine down."""
+    blocker = tmp_path / "blocker"
+    blocker.write_text("not a directory", encoding="utf-8")
+    monkeypatch.setattr(A, "LEDGER", blocker / "ledger.sqlite")  # mkdir/sqlite must fail here
+    monkeypatch.setattr(A, "CALL_LOG", tmp_path / "calls.jsonl")
+    out = A._book(A.DEFAULT_MODEL, {"prompt_tokens": 10}, 0.001)
+    assert out == pytest.approx(0.001), "the caller still gets its cost back"
+
+
+def test_chat_books_an_error_row_when_llm_runner_chat_returns_garbage(tmp_path, monkeypatch):
+    path, _ = _scratch_ledger(tmp_path, monkeypatch)
+    monkeypatch.setattr(A.llm_runner, "chat", lambda *a, **k: {})
+    text, usage, cost = A._chat(A.DEFAULT_MODEL, [{"role": "user", "content": "x"}])
+    assert text == "" and usage == {} and cost == 0.0
+    assert _rows(path)[0][2] == "ok"

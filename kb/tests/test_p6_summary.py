@@ -473,3 +473,117 @@ def test_log_keeps_explicit_zero_for_free_judge(monkeypatch, tmp_path):
     finally:
         con.close()
     assert got == 0.0
+
+
+# ------------------------------------------------------------------ judge score trust
+def test_clamp_score_rejects_unusable_judge_scores():
+    """Defect 17: a judge score outside [0, 1] (or non-numeric) must never be graded."""
+    assert P.clamp_score(0.75) == 0.75
+    assert P.clamp_score(1) == 1.0
+    assert P.clamp_score(3) == 1.0, "out-of-range score is clamped, not passed through"
+    assert P.clamp_score(-0.4) == 0.0
+    assert P.clamp_score(None) is None
+    assert P.clamp_score("0.9") is None, "a stringified number is not a usable score"
+    assert P.clamp_score(True) is None, "bool is an int subclass but not a judge score"
+    assert P.clamp_score(float("nan")) is None
+
+
+def _judge_stub(monkeypatch, replies):
+    """Feed judge_node a scripted reply per attempt and capture the pass it books."""
+    seen = []
+
+    def fake_chat(model, msgs, **_kw):
+        seen.append(model)
+        text = replies[min(len(seen) - 1, len(replies) - 1)]
+        return {"choices": [{"message": {"content": text}}],
+                "usage": {"prompt_tokens": 10, "completion_tokens": 5}}
+
+    monkeypatch.setattr(P, "chat", fake_chat)
+    monkeypatch.setattr(P, "_log", lambda *a, **k: 0.0)
+    return seen
+
+
+def test_judge_node_rejects_inflated_score(monkeypatch):
+    """A `"score": 3` reply used to inflate faithful_rate past the 0.95 gate; now clamped to 1.0."""
+    _judge_stub(monkeypatch, ['{"verdict": "supported", "score": 3, "why": "x"}'])
+    out = P.judge_node("spot was 5 [obs:1]", [])
+    assert out["score"] == 1.0
+    assert out["error"] is None
+
+
+def test_judge_node_does_not_silently_grade_a_missing_score(monkeypatch):
+    """A JSON reply without a usable score must be retried, not coerced to 0.0 and counted graded."""
+    _judge_stub(monkeypatch, ['{"verdict": "supported", "why": "no score here"}'])
+    out = P.judge_node("spot was 5 [obs:1]", [], retries=2)
+    assert out["score"] == 0.0 and out["verdict"] is None
+    assert out["error"] is not None and out["error"].startswith("bad_score"), out
+
+
+def test_judge_node_falls_back_to_the_fallback_model_on_bad_score(monkeypatch):
+    seen = _judge_stub(monkeypatch, ['{"score": "high", "verdict": "supported"}',
+                                     '{"score": 0.9, "verdict": "supported"}'])
+    out = P.judge_node("spot was 5 [obs:1]", [], retries=2)
+    assert out["score"] == 0.9
+    assert seen[0] == P.JUDGE_MODEL and seen[1] == P.JUDGE_FALLBACK_MODEL
+
+
+def test_run_judge_counts_ungraded_rows(monkeypatch, tmp_path):
+    """Defect 17: an unanswered row used to vanish, so a half-dead judge scored 1.0."""
+    nodes = tmp_path / "nodes.jsonl"
+    rows = []
+    for i in range(4):
+        rows.append({"node_id": f"n:{i}", "segment": "capesize", "grain": "month",
+                     "period": "2026-03", "evidence": [],
+                     "sentences": [{"sentence": f"spot was {i}", "cites": ["obs:1"]}]})
+    nodes.write_text("\n".join(json.dumps(r) for r in rows) + "\n")
+
+    def fake_judge(text, ev, **_kw):
+        good = "spot was 0" in text
+        return {"score": 1.0 if good else None, "verdict": "supported" if good else None,
+                "why": "x", "error": None if good else "bad_score:None"}
+
+    index = {r["node_id"]: {k: v for k, v in r.items() if k != "evidence"} for r in rows}
+    out = P.run_judge(index, n=4, seed=1, judge=fake_judge, path=nodes)
+    assert out["sampled"] == 4 and out["graded"] == 1 and out["ungraded"] == 3
+    assert out["ungraded_rate"] == 0.75
+    assert out["faithful_rate"] == 1.0, "rate is over the graded rows only; ungraded is reported apart"
+    assert any("bad_score" in e for e in out["ungraded_errors"])
+
+    build = {"counts": {"leaves": 4, "parents_q": 0, "parents_y": 0, "cached": 0, "empty": 0,
+                        "sentences": 4, "dropped": 0}, "wall_seconds": 1.0}
+    rep = P.build_report(index, build, out)
+    assert rep["gate_passed"] is False, "ungraded rows must block the P6 gate"
+
+
+def test_build_report_reports_measured_spend_not_a_literal_zero(monkeypatch, tmp_path):
+    """Defect 17: `spend_usd` was hardcoded 0.0 while both P6 routes are PAID (Defect 14 class)."""
+    import runner as R
+
+    ledger = tmp_path / "ledger.sqlite"
+    monkeypatch.setattr(R, "LEDGER", ledger)
+    monkeypatch.setattr(R, "_SCHEMA_INIT", False)
+    P._log("p6:spend-probe", "p6_judge", P.JUDGE_MODEL,
+           {"prompt_tokens": 1_000_000, "completion_tokens": 0})
+
+    index = {"n:a": {"grain": "month", "segment": "capesize", "period": "2026-03", "input_hash": "x",
+                     "summary": "s", "sentences": [{"sentence": "s", "cites": ["obs:1"]}]}}
+    build = {"counts": {"leaves": 1, "parents_q": 0, "parents_y": 0, "cached": 0, "empty": 0,
+                        "sentences": 1, "dropped": 0}, "wall_seconds": 1.0}
+    rep = P.build_report(index, build, {"sampled": 1, "graded": 1, "ungraded": 0,
+                                        "faithful_rate": 0.99})
+    spec = R.price_table()[P.JUDGE_MODEL]
+    assert rep["spend_usd"] == pytest.approx(1_000_000 * spec["in"] / 1e6)
+    assert rep["spend_usd"] > 0.0, "a PAID phase must not report a hardcoded 0.0 spend"
+    assert "$" in P._md(rep)
+
+
+def test_build_report_spend_is_none_not_zero_when_ledger_unreadable(monkeypatch):
+    monkeypatch.setattr(P, "phase_spend_usd", lambda: None)
+    index = {"n:a": {"grain": "month", "segment": "capesize", "period": "2026-03", "input_hash": "x",
+                     "summary": "s", "sentences": [{"sentence": "s", "cites": ["obs:1"]}]}}
+    build = {"counts": {"leaves": 1, "parents_q": 0, "parents_y": 0, "cached": 0, "empty": 0,
+                        "sentences": 1, "dropped": 0}, "wall_seconds": 1.0}
+    rep = P.build_report(index, build, None)
+    assert rep["spend_usd"] is None
+    md = P._md(rep)
+    assert "UNMEASURED" in md and "0.0000" not in md

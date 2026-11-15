@@ -14,7 +14,7 @@ Live run status. Real spend read from `http://127.0.0.1:4100/stats`.
 | P4a | done | PASS (**recall@20 0.900** ≥ 0.85, 180/200; fused-only pre-rerank 0.815; $0 spend) | commit (this phase) |
 | gold | done | PASS (250/250 items, all 8 strata on target, 250/250 re-verified from DB, seed 2888775339, $0) | commit (this phase) |
 | P4b | done | **PASS** (120 gold chunks / 29 packed calls; chosen `deepseek-v4.1-flash-1017-ultrafast` P 0.922 R 0.536 F1 0.678; 5/5 `gates.yaml` rows pass; $4.75 total) | checkpoint C1 now |
-| P4c |  **running** (AMD Token Lab bulk pass, resumable daemon; **18,017 of 24,978 packs key-exact = 72.13%**, measured 2026-11-15 14:26 local; restarted itself after the 04:19 power loss) | — | owner amendment 2026-11-13 (Amendment 1 in `C1_APPROVED.md`): bulk extractor moved off congested Ultrafast to the **8-account AMD Token Lab pool** (`DeepSeek-V4.1-Flash`, fallback `DeepSeek-V4-Flash`). AMD is **paid**, not free: measured $0.28/M in, $0.0056/M cached, $0.56/M out = $0.00134/accepted pack ⇒ ~$31.5 for the remaining 23,488 packs, booked at $31.25. Transport parity vs P4b scorer PASS at 0.92. Then union → precision gate → escalation ladder ($11, D12 cap-prioritised) → audit/recall/report. Gleaning and the glm-5.3 second extractor are booked at $0 and deferred to a post-C2 owner decision. Judge for the upcoming P6/P7 work is Google `Gemma-4-31B-IT` on AMD Token Lab (Amendment 10, replacing NIM); its fenced reply format is handled by the Defect 16 fix |
+| P4c |  **running** (AMD Token Lab bulk pass, resumable daemon; **18,765 of 24,978 packs key-exact = 75.13%**, measured 2026-11-15 15:49 local; restarted itself after the 04:19 power loss) | — | owner amendment 2026-11-13 (Amendment 1 in `C1_APPROVED.md`): bulk extractor moved off congested Ultrafast to the **8-account AMD Token Lab pool** (`DeepSeek-V4.1-Flash`, fallback `DeepSeek-V4-Flash`). AMD is **paid**, not free: measured $0.28/M in, $0.0056/M cached, $0.56/M out = $0.00134/accepted pack ⇒ ~$31.5 for the remaining packs, booked at $31.25. Transport parity vs P4b scorer PASS at 0.92. Then union → precision gate → escalation ladder ($11, D12 cap-prioritised) → audit/recall/report. Gleaning and the glm-5.3 second extractor are booked at $0 and deferred to a post-C2 owner decision. Judge for the upcoming P6/P7 work is Google `Gemma-4-31B-IT` on AMD Token Lab (Amendment 10, replacing NIM); its fenced reply format is handled by the Defect 16 fix |
 | P5 | scaffolded (code + 20 tests, `5e720111cb` chain) | — | gated on P4c PASS; tables `edge`/`event`/`record_txn` still empty |
 | P6 | scaffolded (code + 28 tests) | — | gated on P5 |
 | P7 | scaffolded (tools/ask/eval/analyst/discovery/rubric/report, 98 tests, `edc962ad70`) | — | gated on P5+P6; checkpoint C2 after |
@@ -37,8 +37,8 @@ quota 0/day`. Live fleet after resume: supervisor `pythonw.exe` **PID 22400**, d
 `pythonw.exe` **PID 7620**.
 
 Resume measurement (2026-11-15, `kb/_t_prog2.py`, zero spend): key-exact
-`p4c_run.done_packs("p4c_bulk", "DeepSeek-V4.1-Flash", "tools")` = **18,017 / 24,978 = 72.13%**,
-`runner.spent()` = **$22.9656** of $82, ledger `max(created_at)` = `2026-11-15T14:26:26`. (The earlier
+`p4c_run.done_packs("p4c_bulk", "DeepSeek-V4.1-Flash", "tools")` = **18,765 / 24,978 = 75.13%**,
+`runner.spent()` = **$23.6855** of $82, ledger `max(created_at)` = `2026-11-15T15:48:46`. (The earlier
 resume reading in this block was 15,367 / 61.5% on a snapshot probe; both were re-measured with the
 authoritative counter, and `kb/_t_prog2.py` deliberately re-reads the live ledger so this file cannot
 drift silently uphill of the daemon.) Two gotchas this reading flushed out, both worth keeping:
@@ -854,6 +854,44 @@ Found during the P7 chain rehearsal (`kb/_t_p7rehearse.py`), *after* Amendment 1
 *Verified live.* `python -X utf8 kb/_t_p7rehearse.py` under GENTLE env (`KB_AMD_WORKERS=4 KB_AMD_RATE=30 KB_AMD_TIMEOUT=120`, daemon owns the pool quota): `analyse: ok | model DeepSeek-V4.1-Flash`; real judge verdict parses (`score 0.75`, `notes` non-empty); `rubric counts {"questions": 2, "ok": 2, "graded": 2, "failures": 0}`, `judge_model Gemma-4-31B-IT`, judge-only spend delta `$0.021579`. Scores are honestly low (`0.25`) because the writer is a deliberate refusal-stub — that is the rubric working, not failing. Full suite **412 passed**.
 
 *Lesson (60).* A judge swap must be verified on the judge's **reply format**, not only its route, tariff and family. Every field of the amendment was true and every probe was green while two of three graders were effectively scoring zero — because a bare `json.loads` fails loudly in one caller and silently in another, and a ```` ```json ```` fence is the whole difference. Corollary: a rehearsal that asserts only "the report exists" can pass while the judge is never called; assert the *graded* count, not just the OK count.
+
+### Defect 17 — the gate accepted an LLM judge's score with no range check, and the rubric's buckets did not have to sum to the question count (2026-11-15)
+
+Found while reviewing the P6/P7 chain hardening after Defect 16, *before* either gate was trusted. Both gates lean on a model-generated number; neither validated it.
+
+*Half one — out-of-range and missing scores were gate bypasses.* `p7_rubric.run` clamped nothing: `judged.get(f)` went straight into the field means, so a judge reply of `{"score": 3, "facts_cited": 3}` produced `mean_score`/`faithful_rate = 1.0` and a **PASS against the §12 faithfulness ≥95% gate** — the judge could pass its own homework with a typo. `p6_summary.judge_node` had the mirror defect: `score = float(obj.get("score") or 0.0)` coerced a *missing* or non-numeric score to `0.0`, counted the row as **graded**, and thereby diluted `faithful_rate` instead of flagging an ungraded sample. `p7_rubric.rubric_fields` also treated `True` as `1.0` and `"0.9"` as `0.9`.
+
+*Half two — the buckets could not distinguish "never graded" from "graded badly".* `counts` reported `graded` plus failure statuses, but rows whose status was `ok` and whose judge verdict was unusable fell into **no bucket at all**: `graded + named_failures < questions`. A gate report with fewer rows than questions is not evidence, it is arithmetic that happens to look green.
+
+*Half three — spend was hardcoded to zero on a paid route.* `p6_summary.build_report` wrote `"spend_usd": 0.0` as a literal. After Amendment 10 the P6 judge runs on the paid `amd_tokenlab` route, so a paid phase was reported as free to the gate report, to the §7.5 $82 pipeline cap and to `/stats`.
+
+*Fix — one clamp contract in both modules, explicit buckets, measured spend.*
+
+| change | file | effect |
+|---|---|---|
+| `clamp_score(value)` | `p7_rubric.py`, `p6_summary.py` | rejects `bool` first, rejects non-numerics and NaN, clamps to `[0.0, 1.0]`; `None` means *unusable*, never zero |
+| `rubric_fields` clamps every field + `score` | `p7_rubric.py` | a `3` is `1.0`; a `"0.9"` is ungraded; field-mean fallback only when `score` alone is unusable |
+| `judge_node` retries then falls back on a bad score | `p6_summary.py` | `bad_score:<repr>` → retry, then `JUDGE_FALLBACK_MODEL`; exhausted ⇒ `error` set and the row is **ungraded** |
+| `counts.ungraded_ok`, `judge_error`, `balanced`, `buckets_sum` | `p7_rubric.py` | `graded + ungraded_ok + not_enough_data + not_in_data + malformed + error == questions`; `pass` now requires `balanced` and `ungraded_ok == 0` |
+| `run_judge` returns `ungraded`/`ungraded_rate` | `p6_summary.py` | a `None` score is no longer counted as graded |
+| `gate_passed` requires `not judge_ungraded` | `p6_summary.py` | one ungraded sample blocks the §13 faithfulness gate |
+| `phase_spend_usd()` | `p6_summary.py` | `runner.spent(passes=["p6_summary","p6_judge"])`; unreadable ledger ⇒ `None` ⇒ report prints `UNMEASURED`, never `$0.0000` |
+
+Regression tests: 7 in `kb/tests/test_p6_summary.py` and 6 in `kb/tests/test_p7_rubric_report.py` — clamp edges (`3`, `-2`, `"0.9"`, `True`, `nan`, `None`), a whole-verdict-unusable row, the documented field-mean fallback (`score: "0.9"` ⇒ `0.925`), bucket-sum invariant over five mixed statuses, judge-error accounting, an ungraded row blocking the P6 gate, and `spend_usd` proving non-zero *and* `None`-not-`0.0` when the ledger is unreadable.
+
+*Lesson (61).* A model-provided score is untrusted input and belongs behind the same validation as any other external field: a missing score coerced to `0.0` and an inflated score accepted at face value are the same bug — the gate cannot tell "the judge said no" from "the judge never answered". Corollary: a report whose buckets do not sum to its sample size is not a report; make the invariant explicit in the code and assert it in a test. Second corollary: a hardcoded `0.0` cost on a pass that has since moved to a paid route hides real spend from the budget gate — spend must always be *measured* or *explicitly unmeasured*.
+
+### Defect 15b — P7's spend went to a JSONL call log and never reached the ledger, so the paid P7 phase was invisible to the §7.5 cap (2026-11-15)
+
+`kb/ask.py::_chat` is the single funnel for every P7 model call (answer composer, planner escalation, and — via `A._chat` — the analyst and rubric judges). It priced each call correctly with `runner.cost_usd` and appended the result to `kb/state/p7/calls.jsonl`, then stopped. `_log_call` wrote **JSONL only**: no `jobs` row, so `runner.spent()`, the global `pipeline_cap_usd: 82` and `/stats` never saw a single P7 dollar while `kb/p7_report.spend_usd()` reported the ledger total as if P7 were free.
+
+*Fix.* `ask._book(model, usage, cost, ...)` books each call into the one authoritative `jobs` ledger with the same explicit 17-column `INSERT ... ON CONFLICT(job_key) DO UPDATE` used by `p6_summary._log` and `Runner._record`, keyed by `runner.job_key(PASS_NAME="p7_ask", prompt_version="p7-v1", model, usage-digest, uuid4)` so repeated identical calls are distinct rows. The JSONL call log stays as the secondary per-call trace. `_chat` also books a row on a transport exception (`status="error"`) before re-raising, so a failed paid attempt is billed rather than vanishing, and it keeps delegating pricing to `runner.cost_usd` (measured `usage.cost` first, then the cache-aware tariff — a flat in/out sum would over-charge cache hits). The module docstring's stale claim that the default model rides a "free AMD Token Lab pool" was corrected to the paid measured tariff.
+
+*Hermetic by construction.* `ask.LEDGER` is `None` → the real `runner.LEDGER`; tests point it at a scratch file, in which case `_book` creates the same schema locally. The ledger write is best-effort and wrapped so an unwritable ledger can never fail an answer, while still returning the measured cost to the caller. Verified no test touches the real ledger: after the full suite, `select count(*) from jobs where pass='p7_ask'` = **0** and the real ledger is unchanged at **$23.628263** (ledger `SUM(cost_usd)` == `runner.spent()`).
+
+Regression tests: 5 new in `kb/tests/test_p7_ask.py` — a call books one `p7_ask` row priced by `runner.cost_usd` (asserted against `price_table()`, not a literal); the booked row is visible to `runner.spent(passes=["p7_ask"])`; a transport failure books an `error` row; a broken ledger still returns the cost; a garbage response body is handled and booked. Full suite **431 passed**.
+
+*Lesson (62).* A per-call audit log is not an accounting ledger. Any pass that can spend money must write the *same* `jobs` table the cap is enforced against, or the budget gate silently measures a pipeline that excludes it — and the phase's own report will happily print the total as if it were free.
 
 
 
