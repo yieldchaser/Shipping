@@ -14,7 +14,7 @@ Live run status. Real spend read from `http://127.0.0.1:4100/stats`.
 | P4a | done | PASS (**recall@20 0.900** ≥ 0.85, 180/200; fused-only pre-rerank 0.815; $0 spend) | commit (this phase) |
 | gold | done | PASS (250/250 items, all 8 strata on target, 250/250 re-verified from DB, seed 2888775339, $0) | commit (this phase) |
 | P4b | done | **PASS** (120 gold chunks / 29 packed calls; chosen `deepseek-v4.1-flash-1017-ultrafast` P 0.922 R 0.536 F1 0.678; 5/5 `gates.yaml` rows pass; $4.75 total) | checkpoint C1 now |
-| P4c |  **running** (AMD Token Lab bulk pass, resumable daemon; **20,460 of 24,978 packs key-exact = 81.91%**, measured 2026-11-15 18:39 local, `runner.spent()` $25.23351 of $82; restarted itself after the 04:19 power loss) | — | owner amendment 2026-11-13 (Amendment 1 in `C1_APPROVED.md`): bulk extractor moved off congested Ultrafast to the **8-account AMD Token Lab pool** (`DeepSeek-V4.1-Flash`, fallback `DeepSeek-V4-Flash`). AMD is **paid**, not free: measured $0.28/M in, $0.0056/M cached, $0.56/M out = $0.00134/accepted pack ⇒ ~$31.5 for the remaining packs, booked at $31.25. Transport parity vs P4b scorer PASS at 0.92. Then union → precision gate → escalation ladder ($11, D12 cap-prioritised) → audit/recall/report. Gleaning and the glm-5.3 second extractor are booked at $0 and deferred to a post-C2 owner decision. Judge for the upcoming P6/P7 work is Google `Gemma-4-31B-IT` on AMD Token Lab (Amendment 10, replacing NIM); its fenced reply format is handled by the Defect 16 fix |
+| P4c |  **running** (AMD Token Lab bulk pass, resumable daemon; **20,490 of 24,978 packs key-exact = 82.03%**, measured 2026-11-15 19:05 local, `runner.spent()` $25.272948 of $82; restarted itself after the 04:19 power loss) | — | owner amendment 2026-11-13 (Amendment 1 in `C1_APPROVED.md`): bulk extractor moved off congested Ultrafast to the **8-account AMD Token Lab pool** (`DeepSeek-V4.1-Flash`, fallback `DeepSeek-V4-Flash`). AMD is **paid**, not free: measured $0.28/M in, $0.0056/M cached, $0.56/M out = $0.00134/accepted pack ⇒ ~$31.5 for the remaining packs, booked at $31.25. Transport parity vs P4b scorer PASS at 0.92. Then union → precision gate → escalation ladder ($11, D12 cap-prioritised) → audit/recall/report. Gleaning and the glm-5.3 second extractor are booked at $0 and deferred to a post-C2 owner decision. Judge for the upcoming P6/P7 work is Google `Gemma-4-31B-IT` on AMD Token Lab (Amendment 10, replacing NIM); its fenced reply format is handled by the Defect 16 fix |
 | P5 | scaffolded (code + 20 tests, `5e720111cb` chain) | — | gated on P4c PASS; tables `edge`/`event`/`record_txn` still empty |
 | P6 | scaffolded (code + 28 tests) | — | gated on P5 |
 | P7 | scaffolded (tools/ask/eval/analyst/discovery/rubric/report, 98 tests, `edc962ad70`) | — | gated on P5+P6; checkpoint C2 after |
@@ -82,21 +82,29 @@ adjudication $0.053. Free tiers (Ultrafast, NIM) carried 1,464 of the 2,240 call
 Gateway `/stats` after P4b: enclave (agent spine) $66.04/66.00 unchanged -- no paid agent calls;
 Ultrafast output today 1,268,319/4,800,000 tokens.
 
-Live pipeline spend re-measured 2026-11-15 18:39 local (bulk daemon live, so this drifts upward; read it
+Live pipeline spend re-measured 2026-11-15 19:05 local (bulk daemon live, so this drifts upward; read it
 from the ledger, not from this file — `kb/state/ledger.sqlite` is the authority (sum `cost_usd` over all
-passes, or the query in the AMD amendment section below): **$25.23351** ledger-measured by `runner.spent()`,
-`max(created_at)` `2026-11-15T18:39:12`, i.e. **≈$56.77 left of the $82 cap** (the $95 owner gateway cap
+passes, or the query in the AMD amendment section below): **$25.272948** ledger-measured by `runner.spent()`,
+`max(created_at)` `2026-11-15T19:05:00`, i.e. **≈$56.73 left of the $82 cap** (the $95 owner gateway cap
 is a separate, higher ceiling). Drain progress at the same instant: `done_packs("p4c_bulk",
-"DeepSeek-V4.1-Flash", "tools")` = **20,460 / 24,978 = 81.91 %** (278.9 s to count — the counter stays
-memory-starved by the live daemon; see the load-signal paragraph). Previous measurements: 18:02 =
-20,194 / 80.85 %, $25.0284; 17:34 = 19,883 / 79.60 %, $24.7156.
+"DeepSeek-V4.1-Flash", "tools")` = **20,490 / 24,978 = 82.03 %** (122.3 s to count — the counter stays
+memory-starved by the live daemon; see the load-signal paragraph). Previous measurements: 18:39 =
+20,460 / 81.91 %, $25.23351; 18:02 = 20,194 / 80.85 %, $25.0284; 17:34 = 19,883 / 79.60 %, $24.7156.
 The 18:02-to-18:39 span is also the answer to the "daemon stalled?" question raised at 18:15: it was *not*
 stalled. `kb/logs/p4c_bulk_supervisor.log` shows the last launch at 08:37:17 and no exit since, PID 7620 was
 burning ~2.6 s CPU per 20 s with 16 live sockets to the AMD host (plus 4 `SynSent`), and the missing ledger
 rows were the **gap between 400-pack batches**: `run_p4c_bulk.json` showed a batch finishing 18:02:45 with
 `start_next: 0` because `--quota 0` means "no wall-clock quota", not "stop"; the next batch's rows landed by
 18:39. Batch cadence ≈26 min for 400 packs, so a 13-minute silence is one third of a normal inter-batch gap.
+A second, subtler instance of the same false alarm appeared at 19:05: the progress probe reported
+`max(created_at) 18:39:12` alongside a *higher* pack count (20,490), which looks self-contradictory until you
+notice the probe read the ledger after a 122.3 s count and printed a timestamp captured inside its own
+snapshot — a direct read three minutes later showed the ledger advancing live (`19:05:00`, last three rows all
+`p4c_bulk`/`ok`, 60 s apart). **A stale timestamp next to a fresh counter is a probe artefact, not a stall**;
+verify with a direct `SELECT max(created_at)` before escalating a stall question.
 The
+breakdown below is the 14:26 snapshot that first itemised the passes (`p4c_bulk`/`DeepSeek-V4.1-Flash`
+**$18.0029** of it,
 breakdown below is the 14:26 snapshot that first itemised the passes (`p4c_bulk`/`DeepSeek-V4.1-Flash`
 **$18.0029** of it,
 plus the completed P4b rows `p4b_ref` $3.1140 / `p4b_ref_sup` $0.8608 / `p4b_cand` $0.6081 /
@@ -1149,6 +1157,50 @@ a half-injection: the un-injected output silently keeps writing to production. W
 escape hatch to a function that emits several artefacts, thread it through **every** write, and pin it with a
 test that asserts the real state dir is *untouched* — "the test passed" and "the test had no side effects"
 are separate claims.
+
+### Defect 17 class, fourth sweep — the P4c gate report and the P5 report still invented zeros (FIXED, 2026-11-15)
+
+Applying Lesson (67) as a *rule* rather than a one-off: enumerated every remaining money renderer in
+`kb/`. Two owner-facing gate artefacts were still unfixed, and one of them is the report for the **next
+gate to be run**.
+
+| site | mechanism | before | after |
+|---|---|---|---|
+| `p4c_report._md` L514 | `per_pass.get(p, 0)` — an unpriced pass reads as a **measured zero** | `$0.0000` | `UNMEASURED` |
+| `p4c_report._md` L516 | `f"${total:.4f}"` on the grand total | `$0.0000` for `1.3e-05` | `$0.00001` |
+| `p5_build._md` L780 | `f"${report['spend_usd']:.4f}"`, later an unflagged `KeyError` if absent | `$0.0000` | three states |
+
+The `p4c_report` instance is a *different* mechanism from the `:.4f` one and worth separating: `.get(p, 0)`
+does not lose a value, it **manufactures** one. The report's money table is driven by the *wall-time* table,
+which can contain a pass the ledger never priced — so every such row asserted "this pass cost exactly
+nothing", the same false claim as the unreadable-ledger bug but reached by a default argument rather than a
+failed read. The `p5_build` instance is the mirror case: P5 makes no model calls (module docstring), so its
+`spend_usd: 0.0` is a **true** structural zero and had to keep rendering `$0.0000` — the fix therefore had
+to preserve the measured zero while making an absent field degrade to `UNMEASURED`, i.e. prove the helper is
+idempotent on real zeros before trusting it on real spend. A sweep that only looked for *lost* costs would
+have missed the invented one, and a sweep that only looked for invented ones would have "fixed" P5's honest
+zero into a lie.
+
+New tests: `test_p4c_report.py::test_unpriced_pass_renders_unmeasured_not_a_measured_zero` (asserts the
+money cell is exactly `UNMEASURED`), `::test_tiny_pass_cost_is_not_flattened_to_zero_in_the_money_table`
+(asserts the cell is exactly `$0.00001` — the earlier substring form of this assertion was itself wrong,
+because `"$0.0000" in "$0.00001"` is true; a *containment* check cannot distinguish the two strings, which
+is precisely the confusion the defect is about, so the test now compares whole cells),
+`test_p5_build.py::test_p5_spend_line_distinguishes_unmeasured_from_a_structural_zero`.
+
+*Live proof (real ledger, during the drain):* `p4c_report.cost()` → total `20.432929` renders `$20.4329`;
+`fmt_usd(None)` → `UNMEASURED`, `fmt_usd(0.0)` → `$0.0000`, `fmt_usd(1.3e-05)` → `$0.00001`. Real
+`p5_build._md`: `- spend $0.0000,` (honest zero), `- spend UNMEASURED,` (field removed), `- spend $0.00002,`
+(real tiny). Focused **47 passed**; full suite **460 passed** in 39.93 s, live `pack_stats.json` hash
+unchanged across the run; `pyflakes` clean on the four touched files except one pre-existing line-shifted
+`rec_ok` unused local in `p4c_report.py` (confirmed identical in `HEAD`'s copy).
+
+*Lesson (69).* A default argument in a money renderer is a **fabricated measurement**, and it is the exact
+twin of a failed read that yields zero — the first invents a value for data that was never fetched, the
+second invents one for data that could not be fetched. Both collapse "unknown" into "zero". A sweep for this
+class must therefore ask **both** questions of every site — *is a real cost dropped?* and *is a fake cost
+invented when the read fails or the key is absent?* — because the two failure directions look nothing alike
+in the source but identical in the report the owner reads.
 
 **Defect 3 — fatal interpreter abort.** The daemon died at 09:56:12 with
 `Fatal Python error: PyEval_SaveThread: ... the GIL is released (the current Python thread state is

@@ -21,6 +21,7 @@ from pathlib import Path
 KB = Path(__file__).resolve().parent
 sys.path.insert(0, str(KB))
 
+import money as M  # noqa: E402
 import runner as R  # noqa: E402
 
 ROOT = KB.parent
@@ -511,9 +512,11 @@ def _md(rep: dict) -> str:
               "| pass | cost USD | wall s | packs | packs/min |", "|---|---|---|---|---|"]
     for p, w in rep["wall"].items():
         w = w or {}
-        lines.append(f"| `{p}` | ${rep['cost']['per_pass'].get(p, 0):.4f} | {w.get('wall_s', '-')} | "
+        # get(p, 0) invented a measured-zero for a pass the ledger never reported; a pass with a
+        # wall time but no cost row is UNMEASURED, not free (Defect 17 class, Lesson 67/68).
+        lines.append(f"| `{p}` | {M.fmt_usd(rep['cost']['per_pass'].get(p))} | {w.get('wall_s', '-')} | "
                      f"{w.get('packs', '-')} | {w.get('rate_packs_per_min', '-')} |")
-    lines += [f"| **total** | **${rep['cost']['total_usd']:.4f}** | | | |", "",
+    lines += [f"| **total** | **{M.fmt_usd(rep['cost']['total_usd'])}** | | | |", "",
               "## Ten sampled chunks (seeded)", "",
               "| chunk | publisher | type | date | records | source path |", "|---|---|---|---|---|---|"]
     for s in rep["sample"]:

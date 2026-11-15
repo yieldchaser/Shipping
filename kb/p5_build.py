@@ -43,6 +43,7 @@ sys.path.insert(0, str(ROOT / "kb"))
 import duckdb  # noqa: E402
 
 from extract_gates import MAX_QUOTE_SENTENCES, numbers_ok, resolve_printed  # noqa: E402
+import money as M  # noqa: E402
 
 KB_DB = ROOT / "kb/state/kb.duckdb"
 OUT = ROOT / "kb/state/p5"
@@ -777,7 +778,11 @@ def _md(report: dict) -> str:
         f"- drops {report['drops']}",
         f"- quote audit {report['quote_audit']} over {counts['edge'] + counts['event'] + counts['claim']} rows",
         f"- PPR {report.get('ppr')}",
-        f"- spend ${report['spend_usd']:.4f}, wall {report['wall_seconds']}s, ref_date {report['ref_date']}",
+        # Structural zero, not a coincidence: P5 makes no model calls (see module docstring), so
+        # 0.0 here is a true measured zero. Render through money.fmt_usd anyway so that the day a
+        # paid call is added - or the field is absent - the report degrades to UNMEASURED instead of
+        # silently claiming "free" (Defect 17 class, Lesson 67/68).
+        f"- spend {M.fmt_usd(report.get('spend_usd'))}, wall {report['wall_seconds']}s, ref_date {report['ref_date']}",
         "",
         "## Sample records (deterministic seed)",
         "",

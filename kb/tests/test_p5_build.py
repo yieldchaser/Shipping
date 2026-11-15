@@ -436,3 +436,22 @@ def test_cli_returns_nonzero_when_gate_fails(db, tmp_path, monkeypatch):
     monkeypatch.setattr(P, "audit_quotes", lambda *a, **k: {"checked": 1, "bad": 1, "samples": []})
     code = P.main(["--gated", str(gated), "--db", str(db), "--out", str(tmp_path / "p5"), "--no-ppr"])
     assert code == 1
+
+
+def test_p5_spend_line_distinguishes_unmeasured_from_a_structural_zero(db, tmp_path):
+    """P5 makes no paid calls, so 0.0 is a true measured zero - and must render as such.
+
+    The renderer must still separate the three money states: an absent/unreadable spend field is
+    UNMEASURED, not `$0.0000` (Defect 17 class, Lessons 67/68).
+    """
+    report, _out, _g = run(db, tmp_path, [gated_row(kept={"state_facts": [state_fact()],
+                                                          "events": [], "claims": []})])
+    assert report["spend_usd"] == 0.0
+    md = P._md(report)
+    line = next(ln for ln in md.splitlines() if ln.startswith("- spend"))
+    assert line.startswith("- spend $0.0000,"), line
+    report.pop("spend_usd")
+    unmeasured = P._md(report)
+    uline = next(ln for ln in unmeasured.splitlines() if ln.startswith("- spend"))
+    assert uline.startswith("- spend UNMEASURED,"), uline
+    assert "$0.0000" not in uline, uline

@@ -347,3 +347,46 @@ def test_main_refuses_without_gated(tmp_path, monkeypatch):
         raise AssertionError("expected SystemExit")
 
 
+def test_unpriced_pass_renders_unmeasured_not_a_measured_zero(tmp_path, monkeypatch):
+    """A pass with wall time but no cost row must not be reported as `$0.0000` (Defect 17 class).
+
+    `per_pass.get(p, 0)` invented a measured zero for a pass the ledger never reported, i.e. the
+    report claimed "free" for something it had not measured. The money table must say UNMEASURED.
+    """
+    bulk = gated("d1", {"b": gchunk("b")}, tmp_path / "bulk")
+    audit = tmp_path / "audit.json"
+    audit.write_text(json.dumps({"present": True}), encoding="utf-8")
+    monkeypatch.setattr(P, "OUT", tmp_path)
+    monkeypatch.setattr(P, "doc_paths", lambda ids: {d: f"corpus/x/{d}.md" for d in ids})
+    # Ledger reports only the first pass; every other pass in the wall table stays unpriced.
+    monkeypatch.setattr(P.R, "spent", lambda passes=None: 1.5 if passes == [P.PASSES[0]] else 0.0)
+    rep = P.build([bulk], packs_file(tmp_path), audit)
+    rep["wall"]["p4c_absent"] = {"wall_s": 12, "packs": 3}
+    rep["cost"]["per_pass"] = {"p4c_absent": None}
+    md = P._md(rep)
+    row = next(ln for ln in md.splitlines() if "p4c_absent" in ln)
+    cells = [c.strip() for c in row.strip("|").split("|")]
+    assert cells[1] == "UNMEASURED", row
+    assert cells[1] != "$0.0000", row
+
+
+def test_tiny_pass_cost_is_not_flattened_to_zero_in_the_money_table(tmp_path, monkeypatch):
+    """A real sub-cent pass cost must survive the gate report's money table (Lesson 67)."""
+    bulk = gated("d1", {"b": gchunk("b")}, tmp_path / "bulk")
+    audit = tmp_path / "audit.json"
+    audit.write_text(json.dumps({"present": True}), encoding="utf-8")
+    monkeypatch.setattr(P, "OUT", tmp_path)
+    monkeypatch.setattr(P, "doc_paths", lambda ids: {d: f"corpus/x/{d}.md" for d in ids})
+    monkeypatch.setattr(P.R, "spent", lambda passes=None: 0.0)
+    rep = P.build([bulk], packs_file(tmp_path), audit)
+    rep["wall"]["p6_judge"] = {"wall_s": 1, "packs": 1}
+    rep["cost"]["per_pass"] = {"p6_judge": 1.3e-05}
+    rep["cost"]["total_usd"] = 1.3e-05
+    md = P._md(rep)
+    row = next(ln for ln in md.splitlines() if "p6_judge" in ln)
+    cells = [c.strip() for c in row.strip("|").split("|")]
+    assert cells[1] == "$0.00001", row          # not the measured-zero string, and not flattened
+    assert cells[1] != "$0.0000", row
+    assert "**$0.00001**" in md, "total line flattened a real spend to the measured-zero string"
+
+
