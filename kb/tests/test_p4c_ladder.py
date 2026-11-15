@@ -84,6 +84,52 @@ def test_load_gated_flattens_pack_rows(tmp_path):
     assert [r["chunk_id"] for r in L.load_gated(path)] == ["c1", "c2"]
 
 
+def _write_gate(tmp_path, name, rows):
+    path = tmp_path / name
+    path.write_text("\n".join(json.dumps(r) for r in rows) + "\n", encoding="utf-8")
+    return path
+
+
+def test_merged_rows_matches_materialising_map_on_order_and_overrides(tmp_path):
+    """Memory fix must not change which row wins, nor the order the queue is built in.
+
+    Later files override per chunk; chunks introduced only by a later file keep that file's order
+    and are appended after the shared ones — exactly `gated_chunk_map(...).values()`.
+    """
+    a = _write_gate(tmp_path, "a.jsonl", [row("c1", conf=0.1), row("c2", conf=0.1),
+                                          row("onlyA", conf=0.1)])
+    b = _write_gate(tmp_path, "b.jsonl", [row("c2", conf=0.9), row("onlyB", conf=0.9)])
+    c = _write_gate(tmp_path, "c.jsonl", [row("c1", conf=0.3), row("onlyC", conf=0.9)])
+    paths = [a, b, c]
+    expected = list(L.gated_chunk_map(paths=paths).values())
+    got = list(L._merged_rows(paths))
+    assert [r["chunk_id"] for r in got] == [r["chunk_id"] for r in expected]
+    assert [r["chunk_id"] for r in got] == ["c1", "c2", "onlyA", "onlyB", "onlyC"]
+    # overrides really did take effect: c1 <- c, c2 <- b
+    assert {r["chunk_id"]: r["mean_confidence"] for r in got} == {
+        "c1": 0.3, "c2": 0.9, "onlyA": 0.1, "onlyB": 0.9, "onlyC": 0.9}
+    # and the streaming queue agrees with the materialising build_queue on the same rows
+    assert L.build_queue_stream(paths) == L.build_queue(expected)
+
+
+def test_merged_rows_is_exact_when_a_file_repeats_a_chunk_id(tmp_path):
+    """Duplicated chunk_ids (pathological) must still resolve last-wins, as the dict does."""
+    a = _write_gate(tmp_path, "a.jsonl", [row("c1", conf=0.1), row("c1", conf=0.7)])
+    b = _write_gate(tmp_path, "b.jsonl", [row("c1", conf=0.2)])
+    paths = [a, b]
+    expected = list(L.gated_chunk_map(paths=paths).values())
+    got = list(L._merged_rows(paths))
+    assert [(r["chunk_id"], r["mean_confidence"]) for r in got] == \
+           [(r["chunk_id"], r["mean_confidence"]) for r in expected]
+    assert [r["mean_confidence"] for r in got] == [0.2]
+
+
+def test_merged_rows_single_file_streams_without_buffering(tmp_path):
+    a = _write_gate(tmp_path, "a.jsonl", [row("c1"), row("c2")])
+    assert [r["chunk_id"] for r in L._merged_rows([a])] == ["c1", "c2"]
+    assert L.build_queue_stream([a]) == L.build_queue([row("c1"), row("c2")])
+
+
 def mk_pack(pid, cids, doc_type="broker_weekly", text="plain text", tokens=800):
     return {"n": 0, "pack_id": pid, "doc_id": "d1", "ord_first": 0, "key": pid,
             "chunk_ids": list(cids), "tokens": tokens,

@@ -14,11 +14,40 @@ Live run status. Real spend read from `http://127.0.0.1:4100/stats`.
 | P4a | done | PASS (**recall@20 0.900** ≥ 0.85, 180/200; fused-only pre-rerank 0.815; $0 spend) | commit (this phase) |
 | gold | done | PASS (250/250 items, all 8 strata on target, 250/250 re-verified from DB, seed 2888775339, $0) | commit (this phase) |
 | P4b | done | **PASS** (120 gold chunks / 29 packed calls; chosen `deepseek-v4.1-flash-1017-ultrafast` P 0.922 R 0.536 F1 0.678; 5/5 `gates.yaml` rows pass; $4.75 total) | checkpoint C1 now |
-| P4c | **running** (AMD Token Lab bulk pass, resumable daemon) | — | owner amendment 2026-11-13 (Amendment 1 in `C1_APPROVED.md`): bulk extractor moved off congested Ultrafast to the **8-account AMD Token Lab pool** (`DeepSeek-V4.1-Flash`, fallback `DeepSeek-V4-Flash`). AMD is **paid**, not free: measured $0.28/M in, $0.0056/M cached, $0.56/M out = $0.00134/accepted pack ⇒ ~$31.5 for the remaining 23,488 packs, booked at $31.25. Transport parity vs P4b scorer PASS at 0.92. Then union → precision gate → escalation ladder ($11, D12 cap-prioritised) → audit/recall/report. Gleaning and the glm-5.3 second extractor are booked at $0 and deferred to a post-C2 owner decision |
+| P4c | **running** (AMD Token Lab bulk pass, resumable daemon; **15,367 of 24,978 packs key-exact = 61.5%**, restarted itself after the 04:19 power loss) | — | owner amendment 2026-11-13 (Amendment 1 in `C1_APPROVED.md`): bulk extractor moved off congested Ultrafast to the **8-account AMD Token Lab pool** (`DeepSeek-V4.1-Flash`, fallback `DeepSeek-V4-Flash`). AMD is **paid**, not free: measured $0.28/M in, $0.0056/M cached, $0.56/M out = $0.00134/accepted pack ⇒ ~$31.5 for the remaining 23,488 packs, booked at $31.25. Transport parity vs P4b scorer PASS at 0.92. Then union → precision gate → escalation ladder ($11, D12 cap-prioritised) → audit/recall/report. Gleaning and the glm-5.3 second extractor are booked at $0 and deferred to a post-C2 owner decision |
 | P5 | scaffolded (code + 20 tests, `5e720111cb` chain) | — | gated on P4c PASS; tables `edge`/`event`/`record_txn` still empty |
 | P6 | scaffolded (code + 28 tests) | — | gated on P5 |
 | P7 | scaffolded (tools/ask/eval/analyst/discovery/rubric/report, 98 tests, `edc962ad70`) | — | gated on P5+P6; checkpoint C2 after |
 | P8 | not started | — | `kb/update.py` + `kb_*.yml` CI + snapshot publish, after C2 approval |
+
+## Power loss and auto-resume (2026-11-15)
+
+The box lost power at **04:19** (last live monitor line in `kb/logs/p4c_mon9.log`:
+`[04:18:51] done 14888/24978 (59.6%) ... spend $15.0716 errs 222 rate 15.8 ok/min eta 10.7 h`) and
+again for a scheduled OS update restart at 04:45. Nothing was lost: the bulk pass is resumable
+(`p4c_run.pending` drops any pack that already has a usable raw for this pass/model/mode), so the
+work banked in `ledger.sqlite` survived intact.
+
+What made recovery automatic was the Startup-folder watchdog (`kb/p4c_watchdog.py`, commit
+`7abfa83a0e`; launcher `%APPDATA%\...\Startup\ShippingP4cWatchdog.vbs`). It fired on logon and
+relaunched the whole fleet, which is **proven in production, not just in its unit tests**:
+`kb/logs/p4c_bulk_supervisor.log` = `[supervisor] launch #1 at 2026-11-15T08:37:17`, and
+`kb/logs/p4c_bulk16.log` opens `[start] pass p4c_bulk model DeepSeek-V4.1-Flash packs 24978 done 14916
+quota 0/day`. Live fleet after resume: supervisor `pythonw.exe` **PID 22400**, daemon child
+`pythonw.exe` **PID 7620**.
+
+Resume measurement (2026-11-15, `kb/_t_state.py`, zero spend): key-exact
+`p4c_run.done_packs("p4c_bulk", "DeepSeek-V4.1-Flash", "tools")` = **15,367 / 24,978 = 61.5%**,
+`runner.spent()` = **$20.4732** of $82. Two gotchas this reading flushed out, both worth keeping:
+`mode` is the **transport** mode from `kb/state/p4c/modes.json` (`"tools"` for
+`DeepSeek-V4.1-Flash`), *not* a run label like `"bulk"` — passing the wrong string returns 0 for a
+healthy run; and the ledger table is **`jobs`**, not `ledger`, so an ad-hoc `COUNT(*)` query fails
+instead of returning a wrong number.
+
+**Progress must be quoted key-exact.** The owner reported 17,625 packs banked; that is a raw-file
+count (`kb/state/raw/p4c_bulk` held 17,650 `.json` files) and it over-reports by ~18%, because
+`upsert` does not refresh `created_at`/`pass` and orphaned rows survive a key change. Only
+`p4c_run.done_packs(...)` is authoritative. Never quote a raw or `COUNT(*)` figure as progress.
 
 ## Spend
 
@@ -43,11 +72,12 @@ adjudication $0.053. Free tiers (Ultrafast, NIM) carried 1,464 of the 2,240 call
 Gateway `/stats` after P4b: enclave (agent spine) $66.04/66.00 unchanged -- no paid agent calls;
 Ultrafast output today 1,268,319/4,800,000 tokens.
 
-Live pipeline spend 2026-11-15T03:5xZ: read it from the ledger, not from this file —
-`kb/state/ledger.sqlite` is the authority (sum `cost_usd` over all passes, or the query in the AMD
-amendment section below). At the last measurement: **$19.7233** ledger-measured by `runner.spent()`
-(`p4c_bulk`/`DeepSeek-V4.1-Flash` **$14.7764** of it, `p4c_bulk_retry` $0.1227, `p4c_esc_preflight`
-$0.0111); against the $82 cap that leaves **≈$62.28**. The ladder's `--cap 11` is a *booking* limit
+Live pipeline spend 2026-11-15 (bulk daemon live, so this drifts upward): read it from the ledger,
+not from this file — `kb/state/ledger.sqlite` is the authority (sum `cost_usd` over all passes, or the
+query in the AMD amendment section below). At the last measurement: **$20.4732** ledger-measured by
+`runner.spent()` (`p4c_bulk`/`DeepSeek-V4.1-Flash` **$15.5105** of it, `p4c_bulk_retry` $0.1227,
+`p4c_esc_preflight` $0.0111, `p4b_cand` $0.6081); against the $82 cap that leaves **≈$61.53**. The
+ladder's `--cap 11` is a *booking* limit for escalation, not the pipeline cap.
 for escalation, not the pipeline cap.
 
 That headroom comfortably covers the remaining drain: the retry rung is ~2,137 AMD single-pack calls
@@ -703,7 +733,7 @@ pool, which is capacity-bound at 8 accounts — Amendment 7), and exactly one de
 fleet is gone, with the verified flags carried through. A launch failure must be logged and reported
 (exit 1), never swallowed. Full suite **391 → 396 passed**; tripwire clean.
 
-## P4b numbers (extraction bake-off, plan §10.2)
+## P4c bulk daemon — defect 3, fatal interpreter abort
 
 **Defect 3 — fatal interpreter abort.** The daemon died at 09:56:12 with
 `Fatal Python error: PyEval_SaveThread: ... the GIL is released (the current Python thread state is
@@ -1126,6 +1156,13 @@ python -X utf8 -m kb.p4c_gate --pass p4c_bulk_retry --model DeepSeek-V4.1-Flash 
 #        esc4b.jsonl (262,896 B) differ, and each plan's `escalation.esc_source` records exactly the
 #        file it ranked from (bulk gated for step 3, retry gated for step 4b).
 #    So the repoint is confirmed as ranking-only in both directions, not just by reading the code.
+#    SCHEMA RULE (learned the hard way, zero spend, `_rehearse/union4/gated_union.jsonl`): --esc-gated
+#    and --gated must BOTH be GATE-format files (`p4c_gate` output: chunk_id / records / mean_confidence
+#    / approx_tokens / call_missing). Feeding a UNION-format file (the `call_broken` schema,
+#    `p4c_union` output) produces SILENTLY ZERO escalation picks -- no error, no warning: the union row
+#    has none of the gate trigger keys, so `triggers()` returns [] for every row and the plan prints
+#    `escalation 0 calls est $0.00/$11 skipped 0`. Assert the schema of every rung input before
+#    trusting a "nothing to do" result (defect 28).
 python -X utf8 kb\p4c_ladder.py --cap 11 `
   --gated kb\state\p4c\rungs\p4c_bulk\gated.jsonl `
   --esc-gated kb\state\p4c\rungs\p4c_bulk_retry\gated.jsonl
@@ -1190,29 +1227,41 @@ AMD daemon's 16 pool threads**, and stop the daemon before step 2 in any case (i
 since step 2 gates the finished bulk pass).
 
 Sized the ladder too, because it is the other whole-scope loader and it runs twice (pre-retry at
-step 3 and post-retry at step 4b). `p4c_ladder.load_gated` itself streams (L51-60), but
-`gated_chunk_map(paths=[...])` (L63-72) materialises `{chunk_id: gate row}` for **every** chunk, and
-`build_queue` then copies the list again (L114). Measured on the gate2 rehearsal slice
-(26,953 rows / 2,671 B per row): the dict alone is **236.8 MB**, i.e. ~8.8 KB per chunk, which scales
-to **~761 MB** at 86,607 chunks. So step 4b (`--gated` pre-retry **plus** `--esc-gated` post-retry,
-the only path that builds the merged map) is the heaviest drain step — heavier than the
-`merge_union` projection above — and it must run alone. Step 3, with `--gated` only, never builds the
-merged map and stays in the ~290 MB class measured earlier. The two ladder invocations must not
-overlap either: run step 3, let it exit, then step 4's gate, then step 4b.
+step 3 and post-retry at step 4b). **This was the real memory defect, and it is now fixed
+(2026-11-15, zero spend, streaming `build_queue_stream`).** `p4c_ladder.load_gated` streams (L51-60),
+but the plan path used to call `gated_chunk_map(paths=[...])` (L63-72) — which materialises
+`{chunk_id: gate row}` for **every** chunk — and `build_queue` then copied that whole list again
+(L114). At the frozen scope a gate row is ~9,630 B (it carries the `records` verdict list), so step 3
+alone projected **~834 MB** and step 4b, which additionally held the merged `gated_chunk_map`, peaked
+near **~1.6 GB** — against 416-1,228 MB actually free. `cmd_plan` now uses `build_queue_stream`, which
+reads the gate files once through `_merged_rows` (holding chunk-id strings plus only the *overriding*
+rows from the later file — in the step-4b shape that is the retry rung, a few thousand rows) and
+`section_medians_stream` (per-bucket median inputs only). Measured peak RSS on the same 26,953-row
+gate2 slice, both shapes, via `kb\_t_childpeak.py`: **313.5 MB before -> 59.3 MB shape B / 58.7 MB
+shape A after**. A first attempt left a second defect inside the fix: the replacement yielded
+duplicate rows for a repeated `chunk_id` where the dict kept only the last, so `_merged_rows` now
+detects repeated ids per file (`_has_duplicate_chunk_ids`) and falls back to the exact materialising
+map for that pathological case. Equivalence is proven three ways: identical stdout, byte-identical
+`retry`/`esc` outputs (`retry` sha256 `6FA452006374B42D777D94D346ED8E25009227FA5C54C6A0DFF46692FF0187F2`,
+`esc` `AD244C92C176816AF23A40CB1FAD2D826C4C4E81C831D222F0D529DB86077285`, unchanged from the pre-edit
+baseline), and a plan-JSON diff whose only differing leaves are the different `--retry-out`/`--esc-out`
+paths I passed. `kb/tests/test_p4c_ladder.py` now also pins order, later-file override, later-only
+chunks, duplicate-id last-wins, and stream-vs-list equality (15 tests pass). The whole-file
+`gated_chunk_map` is still exported and still costs ~9,630 B/row, but nothing on the plan path calls
+it. Step 3, step 4's gate and step 4b still must not overlap — the fix makes them cheap, it does not
+make them free.
 
 **Free RAM is the binding constraint, and it must be read as *free*, not *total* (measured
-2026-11-15T03:5x, zero spend).** Host total is **7,876.7 MB** but free is only **647.8 MB**
-(used 7,228.9, commit headroom 11,166.3 MB, C: 7.30 GB free) — *below* the 761 MB step-4b projection
-and far below `merge_union`'s 1.0-1.2 GB. The projections above were validated against total RAM on
-the assumption that a boot leaves ~1.1 GB free; right now it does not, because the box is also
-running the daemon (PID 25088, 83.5 MB RSS / 159.3 MB private), the supervisor (PID 5888), plus
-unrelated services (`hermes_cli` gateway PID 16856 44.3 MB, `litellm` proxy on port 4000 PID 20284
-11.6 MB RSS but **522.6 MB private**, `agent_gateway` PID 20168 21.2 MB); all python procs together
-are only 170.6 MB RSS, so the pressure is user-space `.exe` load + page cache, not the KB run.
-Consequence for the drain: step 2 and step 4b in particular must run with the **daemon stopped**
-(it must stop for step 2 in any case), one heavy consumer at a time, and the file-page cache should be
-allowed to drain first. Do **not** start step 4b speculatively while the daemon still holds pool
-threads. If a consumer still can't get memory, the pagefile (16 GB) makes the expected symptom
+2026-11-15, zero spend).** Host total is **7,876.7 MB**; free RAM across this session ranged
+**416.5 MB -> 1,227.5 MB** (used 7,228.9 at the low point, commit headroom 11,166.3 MB, C: 7.30 GB
+free). Every whole-file projection above must be compared against *currently free* RAM, not total:
+`merge_union` projecting 1.0-1.2 GB, or the pre-fix ladder's 834 MB / ~1.6 GB, is at or above what is
+actually available even though it looks affordable against 7.9 GB total. The pressure is user-space
+`.exe` load plus page cache rather than the KB run itself; all python procs together are only
+~170 MB RSS. Consequence for the drain: step 2 and step 4b in particular must run with the **daemon
+stopped** (it must stop for step 2 in any case), one heavy consumer at a time, and the file-page cache
+should be allowed to drain first. Do **not** start step 4b speculatively while the daemon still holds
+pool threads. If a consumer still can't get memory, the pagefile (16 GB) makes the expected symptom
 slowness rather than an abort — so treat a sudden 10x wall-time as the memory signal, not a hang.
 
 Until the drain, the live union row is legitimately above the gate: the rehearsal slice already

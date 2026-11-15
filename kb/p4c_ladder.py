@@ -61,7 +61,14 @@ def load_gated(path: Path = GATED):
 
 
 def gated_chunk_map(path: Path | None = None, paths=()) -> dict[str, dict]:
-    """{chunk_id: gate row}, later passed wins (retry/escalation rungs override the bulk row)."""
+    """{chunk_id: gate row}, later passed wins (retry/escalation rungs override the bulk row).
+
+    NOTE: this materialises every row of every supplied file. It is retained for callers that
+    genuinely need the whole merged map, but the plan path does NOT use it any more: at the frozen
+    scope (86,607 chunks) each retained row costs ~9.6 KB (the gate row carries the `records`
+    verdict list), so the merged map alone projects to ~834 MB. See cmd_plan for the streaming
+    equivalent.
+    """
     out: dict[str, dict] = {}
     for p in paths:
         for row in load_gated(Path(p)):
@@ -110,6 +117,10 @@ def build_queue(rows) -> dict:
 
     Rows that are `call_missing` (pack never extracted - Defect 10) are not "gated" in any useful
     sense: nothing was asked, so nothing failed. They are excluded from the queue and its rate.
+
+    NOTE: materialises `rows`. At the frozen scope a gate row costs ~9.6 KB (it carries the
+    `records` verdict list), so this cost ~834 MB for 86,607 chunks. `build_queue_stream` is the
+    memory-safe equivalent used by cmd_plan.
     """
     rows = [r for r in rows if not r.get("call_missing")]
     med = section_medians(rows)
@@ -125,6 +136,89 @@ def build_queue(rows) -> dict:
     return {"queue": queue, "medians": med, "trigger_counts": counts,
             "chunks_gated": len(rows),
             "queue_rate": round(len(queue) / max(1, len(rows)), 4)}
+
+
+def _has_duplicate_chunk_ids(path: Path) -> bool:
+    """True if a gate file repeats a chunk_id (dict-based readers keep only the last one)."""
+    seen: set[str] = set()
+    for row in load_gated(path):
+        cid = row["chunk_id"]
+        if cid in seen:
+            return True
+        seen.add(cid)
+    return False
+
+
+def _merged_rows(paths):
+    """Stream gate rows with later files winning per chunk_id, in first-appearance order.
+
+    Equivalent to iterating `gated_chunk_map(paths=paths).values()`: dict insertion order is the
+    first appearance of each chunk_id across the concatenated files, and the stored value is its
+    last occurrence. Retains only chunk-id strings plus the override rows from the later files
+    (bounded by the union of those files: in the step-4b shape that is the retry rung, a few
+    thousand rows, not the frozen scope). Duplicated chunk_ids are pathological — the gate writer
+    emits one row per chunk — so that case falls back to the materialising map and stays exact.
+    """
+    paths = [Path(p) for p in paths]
+    if not paths:
+        return
+    if len(paths) == 1:
+        yield from load_gated(paths[0])
+        return
+    if any(_has_duplicate_chunk_ids(p) for p in paths):
+        yield from gated_chunk_map(paths=paths).values()
+        return
+
+    override: dict[str, dict] = {}
+    later_order: list[str] = []
+    for p in paths[1:]:
+        for row in load_gated(p):
+            cid = row["chunk_id"]
+            if cid not in override:
+                later_order.append(cid)
+            override[cid] = row
+
+    first_ids: set[str] = set()
+    for row in load_gated(paths[0]):
+        cid = row["chunk_id"]
+        first_ids.add(cid)
+        yield override[cid] if cid in override else row
+    # Chunks that only a later file introduced keep the later files' first-appearance order.
+    for cid in later_order:
+        if cid not in first_ids:
+            yield override[cid]
+
+
+def section_medians_stream(rows) -> dict[str, float]:
+    """Streaming `section_medians`: keeps only the per-bucket median inputs."""
+    buckets: dict[str, list[int]] = {}
+    for row in rows:
+        if row.get("call_missing"):
+            continue
+        if int(row.get("approx_tokens") or 0) < LONG_TOKENS:
+            continue
+        key = f"{row.get('doc_type') or '?'}/{row.get('section_class') or '?'}"
+        buckets.setdefault(key, []).append(int(row.get("records_ok") or 0))
+    return {k: float(statistics.median(v)) for k, v in buckets.items() if v}
+
+
+def build_queue_stream(paths) -> dict:
+    """Streaming `build_queue` over gated files (later file wins). Same result, bounded memory."""
+    med = section_medians_stream(_merged_rows(paths))
+    queue, counts, n = [], {}, 0
+    for row in _merged_rows(paths):
+        if row.get("call_missing"):
+            continue
+        n += 1
+        trig = triggers(row, med)
+        if not trig:
+            continue
+        for t in trig:
+            counts[t] = counts.get(t, 0) + 1
+        queue.append({"chunk_id": row["chunk_id"], "doc_id": row.get("doc_id"),
+                      "triggers": trig})
+    return {"queue": queue, "medians": med, "trigger_counts": counts,
+            "chunks_gated": n, "queue_rate": round(len(queue) / max(1, n), 4)}
 
 
 def _single_meta(pack: dict, cid: str, gold: set[str], n: int) -> dict:
@@ -217,15 +311,17 @@ def summarise(plan: dict) -> str:
 
 
 def cmd_plan(args) -> int:
-    rows = load_gated(Path(args.gated))
-    q = build_queue(rows)
+    # Streaming: at the frozen scope (86,607 chunks) retaining gate rows costs ~9.6 KB each, so
+    # `build_queue(load_gated(...))` alone projects to ~834 MB and the merged esc map doubles it.
+    # build_queue_stream holds only chunk-id strings plus the overriding (later-file) rows.
+    q = build_queue_stream([Path(args.gated)])
     retry = plan_retry(Path(args.packs), q["queue"], Path(args.retry_out))
     # The escalation rung is a quality backstop for chunks the free retry did NOT cure, so when a
     # post-retry gate slice is supplied it overrides the bulk row per chunk. Sourcing esc from the
     # pre-retry rows spends the (capped) esc booking re-buying chunks the free retry already fixes.
     esc_gated = getattr(args, "esc_gated", None)
     if esc_gated:
-        esc_q = build_queue(gated_chunk_map(paths=[args.gated, esc_gated]).values())["queue"]
+        esc_q = build_queue_stream([Path(args.gated), Path(esc_gated)])["queue"]
     else:
         esc_q = q["queue"]
     esc = rank_escalation(Path(args.packs), esc_q, args.cap)
