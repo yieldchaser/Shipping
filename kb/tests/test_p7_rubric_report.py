@@ -346,6 +346,65 @@ def test_build_all_missing():
         assert d in md
 
 
+def test_a_bool_or_nonfinite_metric_can_never_pass_a_gate():
+    """Defect 24: the gate-verdict read of an on-disk metric was a bare `isinstance(v, (int, float))`.
+
+    `isinstance(True, (int, float))` is True, so an artefact JSON holding `"recall_at_20": true` read as
+    the number 1 and passed a §12 target; `inf >= target` is also True, so an overflow-to-inf metric
+    passed. Both then flipped `report["pass"]` and the C2 packet's `Recommend publishing the snapshot
+    and starting P8.` — the one line that authorises the release. NaN was silently a FAIL, which is the
+    same broken read from the other side. This is the Defect-23 shape moved from money/config reads to
+    the gate-verdict reads, so the read must go through `money.unit_score`.
+    """
+    # Non-vacuity: a real in-range metric still reads as itself, and the shared grade rule is reached.
+    assert P._metric(0.96) == 0.96
+    assert P._metric(1.0) == 1.0
+    assert P._metric(0) == 0.0
+    # Broken reads: bool, non-finite, non-numeric, and off a `[0, 1]` metric scale.
+    for bad in (True, False, float("nan"), float("inf"), float("-inf"), "0.96", [0.96], None, 1.5, -0.1):
+        assert P._metric(bad) is None, bad
+
+    # Every metric of the eval artefact, one arm per bad value.
+    for bad in (True, float("nan"), float("inf"), "0.96"):
+        ev = good_eval()
+        for k in P.TARGETS:
+            ev["metrics"][k] = bad
+        c = P.check_eval(ev)
+        assert c["ok"] is False, (bad, k)
+        assert all(g["ok"] is False for g in c["gates"].values()), (bad, c["gates"])
+
+    # The rubric mean is a gate input too (`>= RUBRIC_TARGET`), same three broken reads.
+    for bad in (True, float("nan"), float("inf"), "0.86"):
+        c = P.check_rubric({"mean_score": bad, "counts": {"graded": 30}})
+        assert c["ok"] is False, bad
+    assert P.check_rubric(good_rubric())["ok"] is True  # non-vacuity: the good arm still passes
+
+    # End to end: the poisoned metric reaches the owner-facing recommendation line.
+    ev = good_eval()
+    ev["metrics"]["recall_at_20"] = float("inf")
+    rep = P.build(ev, good_rubric(), good_backtest(), good_discovery(), 1.0, 1.0)
+    assert rep["pass"] is False and rep["gate"]["p7"] is False
+    c2 = P._c2_md(rep, good_discovery(), good_rubric(), good_backtest(), ev)
+    assert "Do not publish yet." in c2 and "Recommend publishing" not in c2
+    assert "inf (target 0.85) — FAIL" in c2
+
+
+def test_mean_never_lets_a_broken_value_poison_the_average():
+    """`inf` in `sum()` yields `inf`, not a crash — so one unreadable member silently became the mean.
+
+    `_mean` is a display-side aggregate over artefact metrics, but it is the same read: a `True`, a
+    NaN or an overflow-to-inf member must be dropped as unread, never averaged in. A bool-first
+    assertion loop would mask the later non-finite arm, so each arm is asserted separately.
+    """
+    assert P._mean([0.5, 0.7]) == 0.6  # non-vacuity
+    assert P._mean([0.5, True]) == 0.5
+    assert P._mean([0.5, float("inf")]) == 0.5
+    assert P._mean([0.5, float("nan")]) == 0.5
+    assert P._mean([0.5, "0.7"]) == 0.5
+    assert P._mean([]) is None
+    assert P._mean([True, float("inf"), "x", None]) is None
+
+
 def test_c2_packet_contents():
     dc = good_discovery()
     rep = P.build(good_eval(), good_rubric(), good_backtest(), dc, 3.0)

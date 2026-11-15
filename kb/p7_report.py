@@ -120,8 +120,18 @@ def spend_text_full(report: dict) -> str:
     return spend_text(report) + tail
 
 
+def _metric(v) -> float | None:
+    """A §12 metric as a true in-range score, or None — the one grade-scale rule, single-sourced.
+
+    Kept as a local alias so call sites read in this module's vocabulary. The rule (a bool, NaN, +-inf
+    or an off-scale number is a broken read, not a passing metric) lives in `money.unit_score`, so this
+    gate module cannot re-implement it slightly differently (Defect 24 / Lesson 73).
+    """
+    return M.unit_score(v)
+
+
 def _mean(values: list[float]) -> float | None:
-    vals = [v for v in values if isinstance(v, (int, float))]
+    vals = [f for f in (M.as_float(v) for v in values) if f is not None]
     return round(sum(vals) / len(vals), 4) if vals else None
 
 
@@ -130,8 +140,9 @@ def check_eval(ev: dict) -> dict:
     gates = {}
     for k, target in TARGETS.items():
         v = m.get(k)
+        score = _metric(v)
         gates[k] = {"value": v, "target": target,
-                    "ok": (v is not None and isinstance(v, (int, float)) and v >= target)}
+                    "ok": (score is not None and score >= target)}
     count = (ev or {}).get("counts", {}).get("items", 0)
     return {"present": bool(ev), "counts": (ev or {}).get("counts", {}), "items": count,
             "metrics": m, "gates": gates,
@@ -142,8 +153,8 @@ def check_rubric(rb: dict) -> dict:
     c = (rb or {}).get("counts", {})
     graded = c.get("graded", 0) or 0
     score = (rb or {}).get("mean_score")
-    ok = bool(rb) and isinstance(score, (int, float)) and score >= RUBRIC_TARGET \
-        and graded >= MIN_QUESTIONS
+    mean = _metric(score)
+    ok = bool(rb) and mean is not None and mean >= RUBRIC_TARGET and graded >= MIN_QUESTIONS
     return {"present": bool(rb), "mean_score": score, "graded": graded,
             "target": RUBRIC_TARGET, "ok": ok,
             "field_means": (rb or {}).get("field_means", {})}

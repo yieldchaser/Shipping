@@ -62,7 +62,7 @@ ACCESSORS: dict[str, tuple[str, ...]] = {
     "p2_report.py": ("to_number",),
     "p2_known_values.py": ("to_number",),
     "p3_resolve.py": ("_num",),
-    "p7_report.py": ("_cap_num", "pipeline_cap"),
+    "p7_report.py": ("_cap_num", "pipeline_cap", "_mean"),
     "p7_eval.py": ("tolerance_of", "tolerance_or_exact"),
     "c1_review.py": ("_num",),
 }
@@ -75,6 +75,7 @@ GRADE_READERS: dict[str, tuple[str, ...]] = {
     "p7_rubric.py": ("clamp_score",),
     "p7_eval.py": ("judge_faithful_cost",),
     "p7_analyst.py": ("parse_analyst",),
+    "p7_report.py": ("_metric",),
 }
 
 MONEY_KEY_HINTS = ("cost", "spend", "money", "usd", "budget", "allowance", "cap", "price")
