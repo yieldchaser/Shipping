@@ -31,7 +31,8 @@ import tools as T  # noqa: E402
 ROOT = Path(__file__).resolve().parents[1]
 P7_DIR = ROOT / "kb" / "state" / "p7"
 ANALYST_LOG = P7_DIR / "analyst.jsonl"
-JUDGE_MODEL = "openai/gpt-oss-120b"
+JUDGE_MODEL = "Gemma-4-31B-IT"      # owner amendment 2026-11-15: Google, AMD Token Lab, family gemma
+JUDGE_FALLBACK_MODEL = "Qwen3.8-27B"  # family qwen; fallback only (reasoning-heavy, may return "")
 SEGMENT_ALIASES = {
     "capesize": ["capesize", "cape", "bci"],
     "panamax": ["panamax", "pnmx", "bpi"],
@@ -549,6 +550,10 @@ def judge_answer(question: str, record: dict, model: str = JUDGE_MODEL, chat=Non
             f"Indicator table:\n" + "\n".join(ind_lines) + "\n\n" + JUDGE_PROMPT)
     text, usage, cost = chat(model, [{"role": "system", "content": JUDGE_PROMPT},
                                      {"role": "user", "content": user}], 500)
+    if not text and JUDGE_FALLBACK_MODEL:
+        text, usage, cost = chat(JUDGE_FALLBACK_MODEL,
+                                 [{"role": "system", "content": JUDGE_PROMPT},
+                                  {"role": "user", "content": user}], 500)
     return json.loads(text, strict=False) if text else {}
 
 

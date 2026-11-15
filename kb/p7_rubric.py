@@ -5,7 +5,8 @@ Design note (D19):
   so they can be re-run and diffed. They are stored in kb/state/p7/rubric.json.
 - Each answer is produced by `p7_analyst.analyse` (facts / indicators / judgement separated,
   numbers post-checked against computed evidence) and graded by a model from a different
-  family than the extractor (default nim `openai/gpt-oss-120b`, free) on the rubric
+  family than the extractor (default Google `Gemma-4-31B-IT` on AMD Token Lab, family gemma;
+  owner amendment 2026-11-15 replaced the NIM free tier) on the rubric
   facts_cited / indicators_correct / judgment_reasoned / counter_argument_present.
 - Gate: mean rubric score >= 0.8 over >= 30 graded questions. Scores are not fabricated:
   ungraded questions are excluded and reported, and the gate needs every question graded.

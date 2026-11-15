@@ -368,7 +368,7 @@ def test_report_markdown_declares_design_and_gates():
     assert "Design note" in md
     assert "number check" in md
     assert "PASSED" in md
-    assert "gpt-oss-120b" in md
+    assert P.JUDGE_MODEL in md, "report must name the judge actually used (owner amendment 2026-11-15)"
 
 
 def test_run_judge_streams_evidence_and_scores(monkeypatch, tmp_path):
@@ -400,3 +400,76 @@ def test_cli_dry_run_returns_zero(db, monkeypatch, tmp_path):
     monkeypatch.setattr(P, "REPORTS", tmp_path / "reports")
     rc = P.main(["--db", str(db), "--months-back", "1", "--segment", "capesize", "--dry"])
     assert rc == 0
+
+
+# ------------------------------------------------------------------ ledger cost
+def test_log_prices_paid_writer_from_usage(monkeypatch, tmp_path):
+    """Defect 14: the writer runs on the PAID amd_tokenlab route, so _log must book real cost."""
+    import sqlite3
+
+    import runner as R
+
+    ledger = tmp_path / "ledger.sqlite"
+    monkeypatch.setattr(R, "LEDGER", ledger)
+    monkeypatch.setattr(R, "_SCHEMA_INIT", False)
+
+    usage = {"prompt_tokens": 5310, "completion_tokens": 1169, "cached_tokens": 3840,
+             "cost": 0.001087744}
+    booked = P._log("p6:cost-probe", "p6_summary", P.WRITER_MODEL, usage)
+
+    assert booked == pytest.approx(0.001087744), "provider-reported measured cost must win"
+    con = sqlite3.connect(f"file:{ledger}?mode=ro", uri=True)
+    try:
+        row = con.execute("SELECT cost_usd, in_tok, cached_tok, out_tok FROM jobs "
+                          "WHERE job_key='p6:cost-probe'").fetchone()
+    finally:
+        con.close()
+    assert row is not None
+    assert row[0] == pytest.approx(0.001087744)
+    assert (row[1], row[2], row[3]) == (5310, 3840, 1169)
+
+
+def test_log_prices_writer_from_config_tariff_without_measured_cost(monkeypatch, tmp_path):
+    """No provider-reported cost: fall back to the config tariff, cache-aware, never silently 0."""
+    import sqlite3
+
+    import runner as R
+
+    ledger = tmp_path / "ledger.sqlite"
+    monkeypatch.setattr(R, "LEDGER", ledger)
+    monkeypatch.setattr(R, "_SCHEMA_INIT", False)
+
+    usage = {"prompt_tokens": 1_000_000, "completion_tokens": 1_000_000, "cached_tokens": 0}
+    booked = P._log("p6:tariff-probe", "p6_summary", P.WRITER_MODEL, usage)
+
+    spec = R.price_table()[P.WRITER_MODEL]
+    expected = (1_000_000 * spec["in"] + 1_000_000 * spec["out"]) / 1e6
+    assert booked == pytest.approx(expected)
+    assert booked > 0.0, "a paid writer must never book 0.0 when usage and a tariff exist"
+    con = sqlite3.connect(f"file:{ledger}?mode=ro", uri=True)
+    try:
+        got = con.execute("SELECT cost_usd FROM jobs WHERE job_key='p6:tariff-probe'").fetchone()[0]
+    finally:
+        con.close()
+    assert got == pytest.approx(expected)
+
+
+def test_log_keeps_explicit_zero_for_free_judge(monkeypatch, tmp_path):
+    """Explicit 0.0 is still honoured (any genuinely free route), not silently re-priced."""
+    import sqlite3
+
+    import runner as R
+
+    ledger = tmp_path / "ledger.sqlite"
+    monkeypatch.setattr(R, "LEDGER", ledger)
+    monkeypatch.setattr(R, "_SCHEMA_INIT", False)
+
+    booked = P._log("p6judge:free-probe", "p6_judge", "openai/gpt-oss-120b",
+                    {"prompt_tokens": 900, "completion_tokens": 40}, 0.0)
+    assert booked == 0.0
+    con = sqlite3.connect(f"file:{ledger}?mode=ro", uri=True)
+    try:
+        got = con.execute("SELECT cost_usd FROM jobs WHERE job_key='p6judge:free-probe'").fetchone()[0]
+    finally:
+        con.close()
+    assert got == 0.0

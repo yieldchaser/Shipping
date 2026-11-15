@@ -14,7 +14,7 @@ Live run status. Real spend read from `http://127.0.0.1:4100/stats`.
 | P4a | done | PASS (**recall@20 0.900** ≥ 0.85, 180/200; fused-only pre-rerank 0.815; $0 spend) | commit (this phase) |
 | gold | done | PASS (250/250 items, all 8 strata on target, 250/250 re-verified from DB, seed 2888775339, $0) | commit (this phase) |
 | P4b | done | **PASS** (120 gold chunks / 29 packed calls; chosen `deepseek-v4.1-flash-1017-ultrafast` P 0.922 R 0.536 F1 0.678; 5/5 `gates.yaml` rows pass; $4.75 total) | checkpoint C1 now |
-| P4c | **running** (AMD Token Lab bulk pass, resumable daemon; **15,367 of 24,978 packs key-exact = 61.5%**, restarted itself after the 04:19 power loss) | — | owner amendment 2026-11-13 (Amendment 1 in `C1_APPROVED.md`): bulk extractor moved off congested Ultrafast to the **8-account AMD Token Lab pool** (`DeepSeek-V4.1-Flash`, fallback `DeepSeek-V4-Flash`). AMD is **paid**, not free: measured $0.28/M in, $0.0056/M cached, $0.56/M out = $0.00134/accepted pack ⇒ ~$31.5 for the remaining 23,488 packs, booked at $31.25. Transport parity vs P4b scorer PASS at 0.92. Then union → precision gate → escalation ladder ($11, D12 cap-prioritised) → audit/recall/report. Gleaning and the glm-5.3 second extractor are booked at $0 and deferred to a post-C2 owner decision |
+| P4c | **running** (AMD Token Lab bulk pass, resumable daemon; **17,057 of 24,978 packs key-exact = 68.3%**, measured 2026-11-15 12:55 local; restarted itself after the 04:19 power loss) | — | owner amendment 2026-11-13 (Amendment 1 in `C1_APPROVED.md`): bulk extractor moved off congested Ultrafast to the **8-account AMD Token Lab pool** (`DeepSeek-V4.1-Flash`, fallback `DeepSeek-V4-Flash`). AMD is **paid**, not free: measured $0.28/M in, $0.0056/M cached, $0.56/M out = $0.00134/accepted pack ⇒ ~$31.5 for the remaining 23,488 packs, booked at $31.25. Transport parity vs P4b scorer PASS at 0.92. Then union → precision gate → escalation ladder ($11, D12 cap-prioritised) → audit/recall/report. Gleaning and the glm-5.3 second extractor are booked at $0 and deferred to a post-C2 owner decision. Judge for the upcoming P6/P7 work is Google `Gemma-4-31B-IT` on AMD Token Lab (Amendment 10, replacing NIM) |
 | P5 | scaffolded (code + 20 tests, `5e720111cb` chain) | — | gated on P4c PASS; tables `edge`/`event`/`record_txn` still empty |
 | P6 | scaffolded (code + 28 tests) | — | gated on P5 |
 | P7 | scaffolded (tools/ask/eval/analyst/discovery/rubric/report, 98 tests, `edc962ad70`) | — | gated on P5+P6; checkpoint C2 after |
@@ -72,12 +72,18 @@ adjudication $0.053. Free tiers (Ultrafast, NIM) carried 1,464 of the 2,240 call
 Gateway `/stats` after P4b: enclave (agent spine) $66.04/66.00 unchanged -- no paid agent calls;
 Ultrafast output today 1,268,319/4,800,000 tokens.
 
-Live pipeline spend 2026-11-15 (bulk daemon live, so this drifts upward): read it from the ledger,
-not from this file — `kb/state/ledger.sqlite` is the authority (sum `cost_usd` over all passes, or the
-query in the AMD amendment section below). At the last measurement: **$20.9118** ledger-measured by
-`runner.spent()` (`p4c_bulk`/`DeepSeek-V4.1-Flash` **$15.9492** of it, `p4c_bulk_retry` $0.1227,
-`p4c_esc_preflight` $0.0111, `p4b_cand` $0.6081); against the $82 cap that leaves **≈$61.09**. The
-ladder's `--cap 11` is a *booking* limit for escalation, not the pipeline cap.
+Live pipeline spend 2026-11-15 12:55 local (bulk daemon live, so this drifts upward): read it from the
+ledger, not from this file — `kb/state/ledger.sqlite` is the authority (sum `cost_usd` over all passes,
+or the query in the AMD amendment section below). The measurement above and at every later edit:
+**$22.0111** ledger-measured by `runner.spent()` (`p4c_bulk`/`DeepSeek-V4.1-Flash` **$17.0392** of it,
+plus the completed P4b rows `p4b_ref` $3.1140 / `p4b_ref_sup` $0.8608 / `p4b_cand` $0.6081 /
+`p4b_cand_sup` $0.1187 / `p4b_adj` $0.0527, `p4c_bulk_retry` $0.1227, `p4c_retry_smoke` $0.0542,
+`p4c_parity` $0.0137, `p4c_esc_preflight` $0.0111, `p4c_parity_real` $0.0067, `p4c_glean` $0.0); against
+the $82 cap that leaves **≈$59.99**. The ladder's `--cap 11` is a *booking* limit for escalation, not
+the pipeline cap. P6's writer is paid (Defect 14): since the fix its cost is booked through
+`runner.cost_usd()`, so this sum now includes P6 — and from Amendment 10 the **P7 judge is paid too**
+(`Gemma-4-31B-IT`, 0.035/0.07 per 1M with a 0.0007 cached rate), priced through the same function.
+`p4c_glean` and `p4c_glm2` remain booked at $0 by owner deferral (Amendment 1).
 
 That headroom comfortably covers the remaining drain: the retry rung is ~2,137 AMD single-pack calls
 at the **ledger-measured `$0.1227 / 236 = $0.000520/call`** — a single-chunk call is half the price of
@@ -724,6 +730,19 @@ _duckdb.ConstraintException: Constraint Error: Duplicate key
 
 Generalised lessons: **(50)** a guard that checks one table while the insert carries a primary key in another table is not idempotent — the async autocommit of a multi-statement "insert entity then insert alias" is what makes the partial state reachable; **(51)** a test fixture that omits the production schema's keys silently disables every test of that constraint; **(52)** an idempotency test that supplies no work to do passes without touching the code under test; **(53)** a gate that enumerates its checks by hand can be blind to a whole table — `alias` was never checked; **(54)** all four failure modes here were invisible to a green suite and only surfaced from executing the contract against production inputs; **(55)** a STATUS.md entry can assert a rollback was exact when only the table it checked was cleaned — the earlier "reverted exactly … `%:new:% 0`" claim was true of `entity` and false of `alias`.
 
+**Defect 14 — P6's writer ran on the PAID AMD route but booked `cost_usd 0.0`, so its spend was invisible to the ledger, `runner.spent()` and the $82 pipeline cap.** Found by re-reading the P6 call sites against the resolved provider config during the bulk wait (zero spend to diagnose). `kb/p6_summary.py` L55 `WRITER_MODEL = "DeepSeek-V4.1-Flash"` is served by `kb/config.yaml` L43-57 under `- id: amd_tokenlab`, `kind: paid` (`price_in 0.28 / price_cached 0.0056 / price_out 0.56`, `concurrency_max: 8`) — the same D10 amendment that moved the bulk extractor to AMD. Yet `_log` (L419-438) hardcoded the cost under a docstring that asserted *"Ledger row for a P6 call (free routes: cost 0.0)"* and a comment *"ledger is best-effort for a free pass"*, and `write_node` L451 passed a literal `0.0`. The module docstring and the `WRITER_MODEL` trailing comment (`# free bulk model, family deepseek`) both carried the same stale pre-amendment assumption.
+
+*Why it matters, three ways.* (a) `p6_judge` is genuinely free (`JUDGE_MODEL = "openai/gpt-oss-120b"`, `provider="nim"`), but `p6_summary` is not, and `runner.spent()` — the authoritative function behind the global cap and the STATUS.md spend block — is a plain `SUM(cost_usd)` over `jobs` (L134-144). A hardcoded `0.0` therefore understates real pipeline spend and lets P6 run past the cap unrecorded. (b) The provider-reported measured cost was available and discarded: a stored AMD parity raw carries `usage.cost = 0.001087744`, and `runner.cost_usd()` (L107-131) already prefers that field and otherwise computes a cache-aware config tariff. (c) P6's writer draws on the same AMD pool as the bulk drain (8 concurrent / 120 rpm), so an unknown-width P6 pass contends with the drain.
+
+*Fix.* `_log` now takes `cost: float | None = None` and, when `None`, books `runner.cost_usd(model, usage)` (provider-reported measured cost → cache-aware config tariff → 0.0 only when no tariff exists), returns the booked cost, and keeps the write best-effort without discarding the number. `write_node` omits the argument so the API path prices automatically; `judge_node` keeps its explicit `0.0` because that route is genuinely free. The stale docstring and `WRITER_MODEL` comment now state that the route is paid.
+
+*Proof, both directions, on the real ledger (rows removed afterwards; `spent()` restored exactly).*
+- Old call shape (`_log(..., usage, 0.0)`): booked `0.0`, ledger `0.0` — the defect.
+- New call shape (`_log(..., usage)`): booked `0.001087744`, ledger `0.001087744`, `spent()` delta `+0.001088` — matches the provider-reported measured cost exactly. Full ledger restored after the probe (`spent` before == after).
+- Three permanent tests: `test_log_prices_paid_writer_from_usage` (measured cost wins and token columns land), `test_log_prices_writer_from_config_tariff_without_measured_cost` (no measured cost → config tariff, asserted `> 0.0`), `test_log_keeps_explicit_zero_for_free_judge` (explicit 0.0 for the free judge is not re-priced). P6 file 28 → **31 passed**.
+
+Generalised lessons: **(56)** a comment asserting a route is free is not evidence the route is free — the resolved provider in `kb/config.yaml` is; **(57)** a hardcoded `0.0` cost makes a paid pass invisible to the one function (`runner.spent()`) that enforces the global cap, so the cap silently cannot bind; **(58)** when the transport already returns a measured `usage.cost`, discarding it in favour of a literal is a data-loss bug, not a rounding choice.
+
 ### Amendment 9 — the fleet had no outer ring, so a host reboot ended the drain silently (2026-11-15)
 
 Authority: none needed; process-supervision fix, no gate, cap or plan change.
@@ -767,7 +786,34 @@ pool, which is capacity-bound at 8 accounts — Amendment 7), and exactly one de
 fleet is gone, with the verified flags carried through. A launch failure must be logged and reported
 (exit 1), never swallowed. Full suite **391 → 396 passed**; tripwire clean.
 
-## P4c bulk daemon — defect 3, fatal interpreter abort
+**Defect 15 — P6/P7 reports certified a judge family that was no longer running.** Found by executing the P6 report builder under the new judge instead of trusting the constant. `build_report` hardcoded `"judge_family": "openai"`, `"writer_family": "deepseek"` and `"judge_family_differs_from_writer": True`, and `_md` printed the prose *"judge = Nim gpt-oss-120b (family openai)"* — frozen literals written when the judge was NIM `openai/gpt-oss-120b`. The moment the owner amendment moved the judge to Google `Gemma-4-31B-IT`, the report would have gone on certifying a cross-family gate for a model that is not called, and the P6 test `assert "gpt-oss-120b" in md` still passed on the stale prose. Fix: a local `_family(model)` (same leading-vendor-token rule as `p4c_audit.model_family`) now derives `writer_family`, `judge_family` and `judge_family_differs_from_writer` from the live model ids, and the markdown names the actual judge; the test asserts `P.JUDGE_MODEL in md` so a future swap fails the suite instead of the report lying quietly.
+
+Generalised lesson: **(59)** a gate result that is asserted as a constant instead of computed from the live configuration is not evidence — it is a comment with a boolean type; when a model id moves, every literal that describes it (prose, family, "differs from writer", and the tests asserting the old id) must move with it.
+
+### Amendment 10 — owner architectural amendment: Google `Gemma-4-31B-IT` on AMD Token Lab replaces NIM as the official cross-family judge (2026-11-15)
+
+Authority: owner message in chat (verbatim intent: 8 active AMD Token Lab keys with 64.03 points remaining, so the rate-limited NVIDIA NIM free tier is no longer the judge source; register `Gemma-4-31B-IT` with `Qwen3.8-27B` fallback, set `JUDGE_MODEL`, record the replacement in STATUS.md, and **do not destabilize the running `p4c_bulk` pass**). **No gate, metric, cap or seed changes**: `judge_family_differs_from_extractor: true` is satisfied exactly as before, and the `$82` pipeline cap is untouched.
+
+*Cross-family compliance.* `kb/p4c_audit.model_family` takes the leading vendor token of the model id. Measured this session: `Gemma-4-31B-IT` → `gemma`, `Qwen3.8-27B` → `qwen3.8`, `openai/gpt-oss-120b` → `openai`, writer `DeepSeek-V4.1-Flash` → `deepseek`. `judge_family_ok(judge, "DeepSeek-V4.1-Flash")` is `True` for gemma and qwen3.8, `False` for deepseek. Google vs DeepSeek is independent by construction, so "do not grade your own homework" holds with the NIM path removed.
+
+*Endpoint and registration.* Both ids were confirmed live in AMD Token Lab's `/v1/models` and are now registered under `amd_tokenlab` in `kb/config.yaml` (router L7-9, enclave L12-23 and every other provider unchanged). `JUDGE_MODEL = "Gemma-4-31B-IT"` and `JUDGE_FALLBACK_MODEL = "Qwen3.8-27B"` are set in `kb/p6_summary.py` L58-59, `kb/p7_analyst.py` L34, `kb/p7_eval.py` L39; `kb/p7_rubric.py` L100/L194 inherit `PA.JUDGE_MODEL`, so there is no second judge literal to forget.
+
+*Tariff, reconciled against measured usage, not against the owner's shorthand.* The owner stated "0.035 in / 0.07 out pts/1M". That is the API's own `cost` unit, i.e. USD per 1M tokens; probing both ids live (`kb/_t_judge_route.py`) and comparing the provider-reported `usage.cost` with `runner.cost_usd()` gave an exact two-way match on both models, so the config now carries the verified tariff rather than the shorthand:
+
+| model | price_in | price_cached | price_out | fitted from |
+|---|---|---|---|---|
+| `Gemma-4-31B-IT` | 0.035 | 0.0007 | 0.07 | `ptok 41 cached 4 ctok 14` → `(41-4)*0.035 + 4*0.0007 + 14*0.07` = `2.2778e-06`, equal to measured `usage.cost` |
+| `Qwen3.8-27B` | 0.035 | 0.0007 | 0.07 | `ptok 76 cached 0 ctok 54` → `76*0.035 + 54*0.07` = `6.44e-06`, equal to measured `usage.cost` |
+
+Cache is 2% of input, the AMD convention already used for `DeepSeek-V4.1-Flash`. Both ids echo `model_returned` and return usable JSON at `max_tokens 200` (`Gemma` `{"score": 1, "verdict": "ok"}`); an earlier Qwen empty-content read was `max_tokens 24` reasoning exhaustion, not a model fault. A `DeepSeek-V4.1-Flash` probe returned **HTTP 429** because the daemon owns the pool quota — the amendment's "do not destabilize `p4c_bulk`" instruction is why nothing wide was run against the pool, and why the judge swap is config-only until P6/P7 execute.
+
+*Consequence that had to be fixed with it (Defect 14 class).* The old judge was genuinely free (`provider="nim"`), so `judge_node` passed an explicit `0.0` cost and asserted it in the tests. The new judge is **PAID**: judge spend is now real, must reach `runner.spent()` and the `$82` cap, and must not be booked zero. `kb/p6_summary.py` `judge_node` now drops `provider="nim"`, auto-resolves to `amd_tokenlab`, retries the `Qwen3.8-27B` fallback when the primary returns empty text, and prices the call through the fixed `_log` (measured `usage.cost` → cache-aware config tariff). `kb/p7_eval.judge_faithful` gained the same fallback-on-empty. `kb/ask._chat` was repointed from a flat `in`/`out` computation to `runner.cost_usd(model, usage)` for the same reason: the new judge has a cache rate, and flat pricing would have over-charged cache hits and ignored the provider-reported cost.
+
+*Verified.* `kb/_t_judge_route.py` proves `_provider_spec` → `amd_tokenlab`/`kind: paid` for both ids (`openai/gpt-oss-120b` also still resolves), `price_table()` shows `0.035 / 0.07 / cached 0.0007` for both, `judge_family_ok` is True/True/True/False against the writer, and the live measured-vs-config cost matches exactly for both. Tests: `kb/tests/test_p6_summary.py test_p7_ask.py test_p7_eval.py test_p7_rubric_report.py test_p4c_audit.py` → **112 passed**.
+
+Fleet left untouched throughout: supervisor `pythonw.exe` PID 22400 and daemon child PID 7620 still alive on `--model DeepSeek-V4.1-Flash`.
+
+
 
 **Defect 3 — fatal interpreter abort.** The daemon died at 09:56:12 with
 `Fatal Python error: PyEval_SaveThread: ... the GIL is released (the current Python thread state is

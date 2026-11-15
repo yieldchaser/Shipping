@@ -197,12 +197,12 @@ def _chat(model: str, messages: list[dict], max_tokens: int = 400,
     cost = 0.0
     try:
         import runner as R
-        price = R.price_table()
-        if model in price:
-            p = price[model]
-            cost = (float(usage.get("prompt_tokens") or 0) * p["in"]
-                    + float(usage.get("completion_tokens") or 0) * p["out"]) / 1_000_000.0
-    except Exception:  # noqa: BLE001 - free model / no price
+        # Delegate to the one authoritative pricer: it prefers the provider-reported measured
+        # `usage.cost`, then the cache-aware config tariff. A flat in/out computation here would
+        # over-charge cache hits and ignore measured cost (Defect 14 class, found when the judge
+        # moved onto the PAID AMD route with a 2%-of-input cache rate).
+        cost = R.cost_usd(model, usage)
+    except Exception:  # noqa: BLE001 - unknown model / unreadable config
         cost = 0.0
     _log_call({"model": model, "usage": usage, "cost_usd": round(cost, 6),
                "latency_ms": int((time.time() - t0) * 1000)})

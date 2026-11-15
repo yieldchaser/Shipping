@@ -16,9 +16,11 @@ Design note (5 points, per `docs/GRAPHRAG_AGENT_TASK.md` §4):
    hashes for parents), so a rebuild touches only leaves whose evidence changed and
    their ancestors.
 5. Everything except the two model calls (`write_node`, `judge_node`) is pure and
-   unit-tested offline; the writer is the free bulk model (family deepseek) and the
-   judge is a Nim model of a different family (plan §11 P6 gate: number check 100%,
-   judge faithfulness >= 95% on 60 nodes).
+   unit-tested offline; the writer is the AMD Token Lab bulk model (family deepseek,
+   PAID since the D10 amendment) and the judge is Google `Gemma-4-31B-IT` on AMD Token
+   Lab (family gemma, owner amendment 2026-11-15, replacing the NIM free tier) - both
+   routes are priced from `usage.cost`/the config tariff, never assumed 0.0 (Defect 14).
+   Plan §11 P6 gate: number check 100%, judge faithfulness >= 95% on 60 nodes.
 """
 from __future__ import annotations
 
@@ -52,8 +54,9 @@ NODES = OUT / "nodes.jsonl"
 INDEX = OUT / "index.json"
 TREE = OUT / "tree.json"
 
-WRITER_MODEL = "DeepSeek-V4.1-Flash"  # free bulk model, family deepseek
-JUDGE_MODEL = "openai/gpt-oss-120b"                  # Nim free, family openai != deepseek
+WRITER_MODEL = "DeepSeek-V4.1-Flash"  # AMD Token Lab bulk model (owner amendment to D10): PAID but family deepseek
+JUDGE_MODEL = "Gemma-4-31B-IT"                       # AMD Token Lab, family gemma != deepseek
+JUDGE_FALLBACK_MODEL = "Qwen3.8-27B"                 # family qwen != deepseek (owner amendment)
 GRAINS = ("month", "quarter", "year")
 LEAF_OBS = 12
 LEAF_CHUNKS = 8
@@ -70,6 +73,11 @@ PHASE = "P6"
 def seed_for(phase: str = PHASE) -> int:
     """Deterministic gate seed (same recipe as every other phase gate)."""
     return int(hashlib.sha256(f"{phase}|kb-gates-v1".encode()).hexdigest()[:8], 16)
+
+
+def _family(model: str) -> str:
+    """Leading vendor token of a model id (same rule as `p4c_audit.model_family`)."""
+    return model.split("/")[0].split("-")[0].lower()
 
 
 # plan §8 segments, plus `company:<ticker>` nodes (quarterly)
@@ -416,12 +424,24 @@ def summary_cites(kept: list[dict]) -> list[str]:
 
 
 # ------------------------------------------------------------------ model calls
-def _log(job_key: str, pass_name: str, model: str, usage: dict | None, cost: float,
-         status: str = "ok", error: str | None = None, meta: dict | None = None) -> None:
-    """Ledger row for a P6 call (free routes: cost 0.0)."""
+def _log(job_key: str, pass_name: str, model: str, usage: dict | None, cost: float | None = None,
+         status: str = "ok", error: str | None = None, meta: dict | None = None) -> float:
+    """Ledger row for a P6 call. Returns the booked cost.
+
+    `cost=None` prices the call from `runner.cost_usd(model, usage)`, which prefers the
+    provider-reported `usage.cost` and falls back to kb/config.yaml's tariff. Required:
+    the writer runs on the paid `amd_tokenlab` route (D10 amendment), so a hardcoded 0.0
+    would hide real spend from `runner.spent()` and the global pipeline cap.
+    """
+    usage = usage or {}
+    if cost is None:
+        try:
+            cost = R.cost_usd(model, usage)
+        except Exception:  # noqa: BLE001 - unknown model / unreadable config: do not lose the row
+            cost = 0.0
+    cost = float(cost)
     try:
         con = R.connect()
-        usage = usage or {}
         con.execute(
             """INSERT INTO jobs(job_key, pass, prompt_version, model, status, attempts, request_hash,
                    in_tok, cached_tok, out_tok, cost_usd, finish_reason, latency_ms, model_returned,
@@ -434,8 +454,9 @@ def _log(job_key: str, pass_name: str, model: str, usage: dict | None, cost: flo
              time.strftime("%Y-%m-%dT%H:%M:%S"), json.dumps(meta or {})[:2000]))
         con.commit()
         con.close()
-    except Exception:  # ledger is best-effort for a free pass
+    except Exception:  # ledger write is best-effort; the cost is still returned and counted
         pass
+    return cost
 
 
 def write_node(messages: list[dict], model: str = WRITER_MODEL, max_tokens: int = 400,
@@ -448,7 +469,7 @@ def write_node(messages: list[dict], model: str = WRITER_MODEL, max_tokens: int 
             txt = (data.get("choices") or [{}])[0].get("message", {}).get("content") or ""
             usage = data.get("usage") or {}
             _log(job_key or f"p6:{hashlib.sha256(json.dumps(messages).encode()).hexdigest()[:16]}",
-                 "p6_summary", model, usage, 0.0)
+                 "p6_summary", model, usage)
             if txt.strip():
                 return {"status": "ok", "text": txt, "usage": usage, "error": None}
             last = "blank"
@@ -459,16 +480,24 @@ def write_node(messages: list[dict], model: str = WRITER_MODEL, max_tokens: int 
 
 
 def judge_node(summary: str, ev: list[dict], model: str = JUDGE_MODEL, retries: int = 3) -> dict:
-    """Judge one node's summary for faithfulness (0..1). Returns {score, verdict, why, error}."""
+    """Judge one node's summary for faithfulness (0..1). Returns {score, verdict, why, error}.
+
+    Owner architectural amendment (2026-11-15): the judge is Google `Gemma-4-31B-IT` on AMD Token
+    Lab, replacing the rate-limited NIM free tier. No `provider=` is passed: the model id resolves
+    through `llm_runner._provider_spec` to `amd_tokenlab`. The route is PAID, so `_log` is left to
+    price the call (Defect 14) instead of booking an assumed 0.0. On the last attempt we fall back
+    to the owner's `Qwen3.8-27B` before giving up.
+    """
     msgs = [{"role": "system", "content": JUDGE_PROMPT},
             {"role": "user", "content": "EVIDENCE\n" + evidence_lines(ev) + "\n\nSUMMARY\n" + summary}]
     last = ""
     for attempt in range(1, retries + 1):
         try:
-            data = chat(model, msgs, max_tokens=200, temperature=0.0, timeout_s=300, provider="nim")
+            active = model if attempt < retries else (JUDGE_FALLBACK_MODEL or model)
+            data = chat(active, msgs, max_tokens=200, temperature=0.0, timeout_s=300)
             txt = (data.get("choices") or [{}])[0].get("message", {}).get("content") or ""
-            _log(f"p6judge:{hashlib.sha256(summary.encode()).hexdigest()[:16]}", "p6_judge", model,
-                 data.get("usage") or {}, 0.0)
+            _log(f"p6judge:{hashlib.sha256(summary.encode()).hexdigest()[:16]}", "p6_judge", active,
+                 data.get("usage") or {})
             m = re.search(r"\{.*\}", txt, re.S)
             if m:
                 obj = json.loads(m.group(0))
@@ -764,10 +793,12 @@ def build_report(index: dict, build: dict, judge: dict | None = None) -> dict:
         },
         "judge": judge or {"sampled": 0, "mean_score": None, "faithful_rate": None},
         "writer_model": WRITER_MODEL,
-        "writer_family": "deepseek",
+        "writer_family": _family(WRITER_MODEL),
         "judge_model": JUDGE_MODEL,
-        "judge_family": "openai",
-        "judge_family_differs_from_writer": True,
+        # Derived, never hardcoded: the owner swapped the judge (NIM openai -> AMD gemma) and a frozen
+        # literal would have kept certifying a family that is no longer running (Defect 15).
+        "judge_family": _family(JUDGE_MODEL),
+        "judge_family_differs_from_writer": _family(JUDGE_MODEL) != _family(WRITER_MODEL),
         "spend_usd": 0.0,
         "sample_nodes": nodes[:10],
     }
@@ -790,8 +821,9 @@ def _md(report: dict) -> str:
         "- Every kept sentence cites an obs/chunk/event/claim id from its evidence pack and every number",
         "  in it must occur in the cited evidence text; failing sentences are dropped and counted.",
         "- `input_hash` over the evidence pack (plus child hashes) makes rebuilds incremental.",
-        "- Writer = free bulk model (family deepseek); judge = Nim gpt-oss-120b (family openai), so the",
-        "  judge family differs from the writer family (§11 P6).",
+        "- Writer = AMD bulk model (family deepseek); judge = Google `Gemma-4-31B-IT` on AMD Token Lab",
+        "  (family gemma, owner amendment 2026-11-15 replacing the NIM free tier), so the judge family",
+        "  differs from the writer family (§11 P6).",
         "",
         f"- leaves {c['leaves']}, quarter nodes {c['parents_q']}, year nodes {c['parents_y']}",
         f"- cached {c['cached']}, empty {c['empty']}",

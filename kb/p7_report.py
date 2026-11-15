@@ -184,8 +184,9 @@ def _md(report: dict) -> str:
               "", "## Deviations", "",
               "- D16: exact-match scoring compares gold numbers (with tolerance) against numbers "
               "printed in the answer; unit/rounding tolerant.",
-              "- D17: faithfulness is judged by nim `openai/gpt-oss-120b` on a seeded, reproducible "
-              "sample of answers.",
+              "- D17: faithfulness is judged by Google `Gemma-4-31B-IT` on AMD Token Lab (family "
+              "gemma, owner amendment 2026-11-15 replacing the NIM free tier; fallback "
+              "`Qwen3.8-27B`) on a seeded, reproducible sample of answers.",
               "- D18: discovery statistics are Pearson lead/lag and co-movement on monthly percent "
               "changes with BH-FDR and an out-of-sample split; bridges/events/claims are "
               "descriptive and labelled `computed`.",

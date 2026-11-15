@@ -4,9 +4,11 @@ Design note (D16/D17):
 - Metrics are computed by code, never by a model: exact-match on gold answer numbers
   (unit/tolerance aware), refusal on unanswerable items, recall@20 by document id,
   multi-hop F1 over the required components of type-c answers.
-- Faithfulness is the only judged metric: a nim judge from a different model family
-  than the extractor (openai/gpt-oss-120b) returns a supported fraction per answer
-  from the cited evidence text; faithfulness = mean supported.
+- Faithfulness is the only judged metric: a judge from a different model family
+  than the extractor (Google `Gemma-4-31B-IT` on AMD Token Lab, family gemma;
+  owner amendment 2026-11-15 replaced the NIM free tier, fallback `Qwen3.8-27B`)
+  returns a supported fraction per answer from the cited evidence text;
+  faithfulness = mean supported.
 - Every question runs the real `ask.answer_question` pipeline (planner -> tools ->
   composer -> answer contract) so the numbers reflect what P7 will ship.
 - Costs are summed from the pipeline's own `cost_usd`; free ultrafast calls cost 0.
@@ -36,7 +38,8 @@ PHASE = "P7"
 GOLD = ROOT / "kb" / "state" / "gold" / "gold_set.json"
 OUT = ROOT / "kb" / "state" / "p7"
 REPORTS = ROOT / "kb" / "reports"
-JUDGE_MODEL = "openai/gpt-oss-120b"
+JUDGE_MODEL = "Gemma-4-31B-IT"       # owner amendment 2026-11-15 (replaces NIM free tier)
+JUDGE_FALLBACK_MODEL = "Qwen3.8-27B"
 EXACT_TYPES = ("a_single_number", "b_window_aggregate", "e_sec_section", "g_as_known_on_date")
 TARGETS = {"exact_a_b_e_g": 0.97, "recall_at_20": 0.85, "multihop_f1": 0.75,
            "refusal": 0.95, "faithfulness": 0.95}
@@ -232,6 +235,10 @@ def judge_faithful(rec: dict, chat=None) -> float:
     try:
         text, _usage, _cost = chat(JUDGE_MODEL, [{"role": "system", "content": JUDGE_PROMPT},
                                                  {"role": "user", "content": user}], 400)
+        if not text and JUDGE_FALLBACK_MODEL:
+            text, _usage, _cost = chat(JUDGE_FALLBACK_MODEL,
+                                       [{"role": "system", "content": JUDGE_PROMPT},
+                                        {"role": "user", "content": user}], 400)
     except Exception:  # noqa: BLE001
         return 0.0
     try:

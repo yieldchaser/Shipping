@@ -54,6 +54,25 @@ providers:
         price_in: 0.28
         price_cached: 0.0056
         price_out: 0.56
+      # Owner architectural amendment (2026-11-15, chat): the cross-family JUDGE. Google Gemma
+      # replaces the rate-limited NIM free tier now that the 8-key AMD pool has capacity.
+      # Independence: family `gemma` (Google) != `deepseek`, so "do not grade your own homework"
+      # holds. Tariff fitted EXACTLY (max abs err 0.0) from provider-reported `usage.cost`:
+      #   in $0.035/M, cached in $0.0007/M (2% of input), out $0.07/M.
+      # Verified live 2026-11-15: /v1/models lists both; both calls returned the `model` echo and
+      # usable JSON at max_tokens 200, with provider `usage.cost` equal to the fitted tariff exactly.
+      # Qwen3.8-27B is the fallback (family `qwen` != deepseek). It is a reasoning model: at
+      # max_tokens 24 it spent all 24 output tokens on `reasoning_tokens` and returned an EMPTY
+      # content string (6.44e-06 measured cost with 39 reasoning tokens at max_tokens 200). That is
+      # output-budget exhaustion, not a model fault — a caller must give it room or take empty text.
+      - id: Gemma-4-31B-IT
+        price_in: 0.035
+        price_cached: 0.0007
+        price_out: 0.07
+      - id: Qwen3.8-27B
+        price_in: 0.035
+        price_cached: 0.0007
+        price_out: 0.07
     concurrency_max: 8
 
   # NVIDIA NIM (free third provider, added owner commit 930fc99e92, AGENT_TASK §2.1).
