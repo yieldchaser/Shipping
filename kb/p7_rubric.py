@@ -24,6 +24,7 @@ KB_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(KB_DIR))
 
 import ask as A  # noqa: E402
+import money as M  # noqa: E402
 import p7_analyst as PA  # noqa: E402
 
 ROOT = KB_DIR.parent
@@ -227,9 +228,9 @@ def _md(report: dict) -> str:
         f"(different family from the extractor)",
         f"- mean rubric score: {report['mean_score']} (target >= {report['target']}) · "
         f"result: {'PASS' if report['pass'] else 'FAIL'}",
-        f"- spend: ${report['money_spent_usd']:.4f} "
-        f"(analyst ${report['money_spent_usd'] - report.get('judge_cost_usd', 0.0):.4f} + "
-        f"judge ${report.get('judge_cost_usd', 0.0):.4f}) · wall: {report['wall_seconds']} s",
+        f"- spend: {M.fmt_usd(report['money_spent_usd'])} "
+        f"(analyst {M.fmt_usd(report['money_spent_usd'] - report.get('judge_cost_usd', 0.0))} + "
+        f"judge {M.fmt_usd(report.get('judge_cost_usd', 0.0))}) · wall: {report['wall_seconds']} s",
         "",
         "| rubric field | mean |",
         "|---|---|",

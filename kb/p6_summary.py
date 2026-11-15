@@ -42,6 +42,8 @@ if str(ROOT / "kb") not in sys.path:
 
 import duckdb  # noqa: E402
 
+import money as M  # noqa: E402
+
 from extract_gates import numbers_ok  # noqa: E402 (kept for reference/parity in reports)
 from extract_schema import printed_numbers  # noqa: E402
 from llm_runner import chat, parse_json_object  # noqa: E402
@@ -900,8 +902,7 @@ def _md(report: dict) -> str:
         f"- judge graded {j.get('graded', j.get('sampled'))} · ungraded {j.get('ungraded', 0)} "
         f"(rate {j.get('ungraded_rate')}; ungraded rows block the gate)",
         "- spend "
-        + (f"${report['spend_usd']:.4f}" if isinstance(report.get("spend_usd"), (int, float))
-           else "UNMEASURED (ledger unreadable)")
+        + M.fmt_usd(report.get("spend_usd"), unmeasured="UNMEASURED (ledger unreadable)")
         + f", wall {report['wall_seconds']}s",
         f"- gate: {'PASSED' if report['gate_passed'] else 'FAILED'}",
         "",

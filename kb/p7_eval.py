@@ -32,6 +32,7 @@ sys.path.insert(0, str(KB_DIR))
 
 import ask as A  # noqa: E402
 import llm_runner as LR  # noqa: E402
+import money as M  # noqa: E402
 import tools as T  # noqa: E402
 
 ROOT = KB_DIR.parent
@@ -362,7 +363,9 @@ def evaluate(items: list[dict], con=None, chat=None, judge_chat=None, limit: int
 def _md(report: dict) -> str:
     g = report["gates"]
     lines = ["# P7 eval — §12 gold-set scoring", "",
-             f"- items: {report['counts']['items']} · wall: {report['wall_seconds']} s · spend: ${report['money_spent_usd']}",
+             f"- items: {report['counts']['items']} · wall: {report['wall_seconds']} s · "
+             f"spend: {M.fmt_usd(report['money_spent_usd'])} "
+             f"(judge {M.fmt_usd(report.get('judge_cost_usd', 0.0))})",
              f"- model: `{report['model']}` · judge: `{report['judge_model']}` · judged: {report['judged']}",
              f"- result: {'PASS' if report['pass'] else 'FAIL'}", "",
              "| metric | value | target | pass |", "|---|---|---|---|"]

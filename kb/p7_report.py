@@ -23,6 +23,8 @@ from pathlib import Path
 KB_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(KB_DIR))
 
+import money as M  # noqa: E402
+
 ROOT = KB_DIR.parent
 PHASE = "P7"
 STATE = ROOT / "kb" / "state" / "p7"
@@ -66,9 +68,9 @@ def spend_usd() -> float | None:
 
 
 def spend_text(report: dict) -> str:
-    """`$1.2345`, or `UNMEASURED (ledger unreadable)` — never a fake `$0.0000`."""
-    v = report.get("money_spent_usd")
-    return f"${v:.4f}" if isinstance(v, (int, float)) else "UNMEASURED (ledger unreadable)"
+    """`$1.2345`, or `UNMEASURED (ledger unreadable)` — never a fake `$0.0000` for a real spend."""
+    return M.fmt_usd(report.get("money_spent_usd"),
+                     unmeasured="UNMEASURED (ledger unreadable)")
 
 
 def pipeline_cap() -> float | None:
@@ -179,7 +181,7 @@ def build(ev: dict | None, rb: dict | None, bt: dict | None, dc: dict | None,
     report = {
         "phase": PHASE, "built_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
         "wall_seconds": wall if wall is not None else 0.0,
-        "money_spent_usd": (None if spend is None else round(float(spend), 4)),
+        "money_spent_usd": M.round_usd(spend),  # 6 dp: 4 dp turned a real $0.000013 into 0.0
         "pipeline_cap_usd": pipeline_cap(),
         "targets": TARGETS, "rubric_target": RUBRIC_TARGET,
         "checks": checks,

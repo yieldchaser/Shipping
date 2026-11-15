@@ -343,6 +343,39 @@ def test_measured_zero_spend_still_prints_a_dollar_figure():
     assert P.spend_text(rep) == "$0.0000"
 
 
+def test_real_tiny_spend_never_renders_as_the_measured_zero_string():
+    """Defect-17 class, third instance: `$0.0000` is a claim, and it must be true.
+
+    `None` (unmeasured) and `0.0` (measured zero) were already distinct. The third state hid inside
+    the second: a real nonzero spend small enough that a fixed `:.4f` flattens it to the exact string
+    reserved for measured zero. One P7 judge call really costs `$0.000019`, and the whole P6 phase
+    `$0.000013` — both used to print as `$0.0000`, i.e. "free", in the owner's approval artefact.
+    """
+    tiny = 1.9e-05  # a real single judge call
+    rep = P.build(good_eval(), good_rubric(), good_backtest(), good_discovery(), tiny, 1.0)
+    # The field must survive storage: `round(1.9e-05, 4) == 0.0` is how the value was destroyed.
+    assert rep["money_spent_usd"] not in (0.0, None), "4 dp laundered a real spend into zero"
+    assert P.spend_text(rep) != "$0.0000"
+    assert P.spend_text(rep) == "$0.00002"
+    c2 = P._c2_md(rep, good_discovery(), good_rubric(), good_backtest(), good_eval())
+    line = c2.splitlines()[2]
+    assert "spend $0.00002 of the $82 cap" in line
+    assert "spend $0.0000 " not in line
+
+
+def test_three_spend_states_are_three_distinct_c2_lines():
+    """Unmeasured / measured-zero / real-tiny must be three visibly different approval lines."""
+    dc, rb, bt, ev = good_discovery(), good_rubric(), good_backtest(), good_eval()
+    lines = []
+    for v in (None, 0.0, 1.9e-05):
+        rep = P.build(ev, rb, bt, dc, v, 1.0)
+        lines.append(P._c2_md(rep, dc, rb, bt, ev).splitlines()[2])
+    assert len(set(lines)) == 3, lines
+    assert "UNMEASURED (ledger unreadable)" in lines[0]
+    assert "$0.0000 " in lines[1]
+    assert "$0.00002" in lines[2]
+
+
 def test_cap_comes_from_config_not_a_hardcoded_string(monkeypatch):
     """The C2 packet's `$82 cap` denominator must be read, not typed.
 

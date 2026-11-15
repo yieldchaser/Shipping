@@ -82,10 +82,14 @@ adjudication $0.053. Free tiers (Ultrafast, NIM) carried 1,464 of the 2,240 call
 Gateway `/stats` after P4b: enclave (agent spine) $66.04/66.00 unchanged -- no paid agent calls;
 Ultrafast output today 1,268,319/4,800,000 tokens.
 
-Live pipeline spend re-measured 2026-11-15 17:34 local (bulk daemon live, so this drifts upward; read it
+Live pipeline spend re-measured 2026-11-15 18:02 local (bulk daemon live, so this drifts upward; read it
 from the ledger, not from this file — `kb/state/ledger.sqlite` is the authority (sum `cost_usd` over all
-passes, or the query in the AMD amendment section below): **$24.7156** ledger-measured by `runner.spent()`,
-`max(created_at)` `2026-11-15T17:34:29`, 26,382 `jobs` rows — i.e. **≈$57.28 left of the $82 cap**. The
+passes, or the query in the AMD amendment section below): **$25.0284** ledger-measured by `runner.spent()`,
+`max(created_at)` `2026-11-15T18:02:45`, i.e. **≈$56.97 left of the $82 cap** (the $95 owner gateway cap
+is a separate, higher ceiling). Drain progress at the same instant: `done_packs("p4c_bulk",
+"DeepSeek-V4.1-Flash", "tools")` = **20,194 / 24,978 = 80.85 %** (220.1 s to count — the counter stays
+memory-starved by the live daemon; see the load-signal paragraph). Previous measurement: 17:34 =
+19,883 / 79.60 %, $24.7156. The
 breakdown below is the 14:26 snapshot that first itemised the passes (`p4c_bulk`/`DeepSeek-V4.1-Flash`
 **$18.0029** of it,
 plus the completed P4b rows `p4b_ref` $3.1140 / `p4b_ref_sup` $0.8608 / `p4b_cand` $0.6081 /
@@ -1036,6 +1040,61 @@ Checked the sibling readers for the same shape and left them alone: `runner.cost
 `p4c_report.cost()` price *known* usage against a config tariff table, so a missing tariff there raises
 rather than inventing a number; `p7_eval.multihop_f1` and the `score_*` helpers return `0.0` for a
 **scored** item, which is a real measurement of a wrong answer, not a failed read.
+
+### Defect 17 class, third site — a `None`/`0.0` fix destroyed again by `:.4f` (FIXED, 2026-11-15)
+
+The two fixes above separated **unmeasured** (`None` → `UNMEASURED`) from **measured zero** (`0.0` →
+`$0.0000`). Re-running the P6 emit probe showed a **third state hiding inside the second**: a *real,
+nonzero* spend small enough that a fixed `:.4f` renders it as the exact string reserved for measured
+zero. P6's entire tracked phase spend is `$0.000013` and a single P7 judge call is `$0.000019`; both
+printed `$0.0000`, which reads as "free" — a false claim about money, in the artefact the owner
+approves, arriving from the opposite direction to the unreadable-ledger bug. A distinction that a
+lossy renderer re-destroys is not a distinction.
+
+Four places, two mechanisms:
+
+| site | mechanism | before | after |
+|---|---|---|---|
+| `p7_report.build` L184 | `round(spend, 4)` **at storage** | `1.3e-05` → `0.0` | `M.round_usd` (6 dp) → `1.3e-05` |
+| `p7_report.spend_text` L71 | `f"${v:.4f}"` | `$0.0000` | `$0.00001` |
+| `p6_summary._md` L903 | `f"${v:.4f}"` | `$0.0000` | `$0.00001` |
+| `p7_rubric._md` L231-232 | three `:.4f` (total/analyst/judge) | `$0.0000` | `$0.00002` |
+| `p7_eval._md` L367 | raw `$` interpolation | `$1.9e-05` | `$0.00002` (unified, was immune) |
+
+The storage-side half is the one worth naming: `round(1.3e-05, 4) == 0.0` laundered the value into a
+literal **measured zero before any renderer ran**, so fixing only the formatter would have fixed
+nothing. A report field and its rendering are two separate loss points.
+
+Fix: new shared `kb/money.py` with `fmt_usd(v)` / `round_usd(v)`. `fmt_usd` keeps the three states
+distinct — `None`/NaN → `UNMEASURED`, exact `0.0` → `$0.0000`, otherwise `$X.XXXX` **widened to more
+decimals only when 4 dp would round a nonzero value away** (up to 9 dp, then exponential). Readable
+amounts keep their existing 4-dp format, so nothing else churns. Consistency check: `p7_eval` was
+already immune (it interpolated the raw float) but now uses the same helper, so all four P6/P7 report
+renderers agree.
+
+*Live proof (real ledger, during the drain):* `p6_summary.phase_spend_usd()` → `1.3e-05`, rendered
+`$0.00001` (was `$0.0000`); `p7_report.spend_usd()` → `25.0284`, rendered `$25.0284`. Real C2 packet,
+all five states on one line: `spend None` → `… spend UNMEASURED (ledger unreadable) of the $82 cap …`,
+`0.0` → `$0.0000`, `1.9e-05` → `$0.00002`, `24.7385` → `$24.7385`.
+
+New tests: `kb/tests/test_money.py` (7 — the three states are three distinct strings, tiny values never
+flatten, a genuine zero is never relabelled unmeasured, NaN is unmeasured, normal amounts unchanged,
+`round_usd` does not launder, counterexample `round(1.3e-05, 4) == 0.0` pinned); plus
+`test_p7_rubric_report.py::test_real_tiny_spend_never_renders_as_the_measured_zero_string` and
+`::test_three_spend_states_are_three_distinct_c2_lines` (asserts three different C2 lines), and
+`test_p6_summary.py::test_build_report_marks_for_a_real_tiny_spend_are_visible`. The two tests that pin
+the *correct* ends — `$0.0000` for a measured zero (`test_p7_rubric_report.py:343`) and `UNMEASURED`
+with no `0.0000` for an unreadable ledger (`test_p6_summary.py:589`) — still pass unchanged. Focused
+files **81 passed**; full suite **456 passed** in 39.76 s; `pyflakes` on the five touched files shows
+only pre-existing line-shifted unused imports (`p6_summary.py:47,48`, `p7_rubric.py:20`, `p7_eval.py:26`).
+
+*Lesson (67).* A fixed-precision format is a **lossy read**, and a lossy read of a spend figure is the
+same defect class as a lost or invented one: `$0.0000` is both a valid measurement string and the
+string that means "free", so for a nonzero sub-cent amount the two meanings collide and the reader
+cannot tell them apart. Corollary: the `None`-vs-`0.0` distinction must survive *every* stage it passes
+through — the reader, the stored report field, and the renderer; here the field was rounded to zero
+before the formatter could misprint it. Corollary: audit *every* money renderer, not just the one where
+the bug was found (`p7_eval` was immune by accident of style, not by design).
 
 **Defect 3 — fatal interpreter abort.** The daemon died at 09:56:12 with
 `Fatal Python error: PyEval_SaveThread: ... the GIL is released (the current Python thread state is

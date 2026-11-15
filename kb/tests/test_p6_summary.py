@@ -589,6 +589,31 @@ def test_build_report_spend_is_none_not_zero_when_ledger_unreadable(monkeypatch)
     assert "UNMEASURED" in md and "0.0000" not in md
 
 
+def test_build_report_marks_for_a_real_tiny_spend_are_visible(monkeypatch):
+    """Defect-17 class, third instance: P6's whole phase spend renders as `$0.00001`, not `$0.0000`.
+
+    P6's real tracked spend is on the order of $0.000013. A fixed `:.4f` printed that as the exact
+    string reserved for a measured zero, so the owner read "free" for a paid phase. The renderer must
+    widen the decimals rather than flatten a real amount into the zero claim.
+    """
+    monkeypatch.setattr(P, "phase_spend_usd", lambda: 1.3e-05)
+    index = {"n:a": {"grain": "month", "segment": "capesize", "period": "2026-03", "input_hash": "x",
+                     "summary": "s", "sentences": [{"sentence": "s", "cites": ["obs:1"]}]}}
+    build = {"counts": {"leaves": 1, "parents_q": 0, "parents_y": 0, "cached": 0, "empty": 0,
+                        "sentences": 1, "dropped": 0}, "wall_seconds": 1.0}
+    rep = P.build_report(index, build, {"sampled": 1, "graded": 1, "ungraded": 0,
+                                        "faithful_rate": 0.99})
+    line = [ln for ln in P._md(rep).splitlines() if ln.startswith("- spend")][0]
+    assert "$0.00001" in line, line
+    assert "$0.0000," not in line, "a real spend must not read as measured zero"
+    # A genuine measured zero keeps its own, different rendering.
+    monkeypatch.setattr(P, "phase_spend_usd", lambda: 0.0)
+    rep0 = P.build_report(index, build, {"sampled": 1, "graded": 1, "ungraded": 0,
+                                         "faithful_rate": 0.99})
+    line0 = [ln for ln in P._md(rep0).splitlines() if ln.startswith("- spend")][0]
+    assert "$0.0000," in line0 and line0 != line
+
+
 # ------------------------------------------------------------------ ledger keying (Defect 18)
 def _scratch_ledger(monkeypatch, tmp_path):
     """Point the real `runner` ledger at a scratch file so `P._log` writes for real."""
