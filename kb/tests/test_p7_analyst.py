@@ -111,12 +111,12 @@ def con(db):
     c.close()
 
 
-def _chat(replies):
+def _chat(replies, cost: float = 0.0):
     seq = list(replies)
 
     def chat(model, messages, max_tokens=400, **kw):
         text = seq.pop(0) if seq else "NOT_ENOUGH_DATA"
-        return text, {"prompt_tokens": 10, "completion_tokens": 10}, 0.0
+        return text, {"prompt_tokens": 10, "completion_tokens": 10}, cost
 
     return chat
 
@@ -288,6 +288,16 @@ def test_main_backtest_writes_json(db, monkeypatch, tmp_path, capsys):
     assert rc == 0 and out.exists()
     payload = json.loads(out.read_text(encoding="utf-8"))
     assert payload["segment"] == "capesize" and "rows" in payload
+
+
+def test_run_backtest_reports_the_spend_it_incurred(db, monkeypatch):
+    """Defect 19 shape: per-row costs were kept but the backtest reported no total."""
+    monkeypatch.setattr(P.A, "_resolver", lambda con, cache: (lambda h: True))
+    monkeypatch.setattr(P.A, "_chat", _chat([GOOD] * 40, cost=0.002))
+    res = P.run_backtest("capesize", 20, db=db)
+    assert res["dates"] >= 15
+    assert res["spend_usd"] == pytest.approx(0.002 * res["dates"])
+    assert res["spend_usd"] == pytest.approx(sum(r["cost_usd"] for r in res["rows"]))
 
 
 def test_main_requires_question(monkeypatch):

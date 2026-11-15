@@ -14,7 +14,7 @@ Live run status. Real spend read from `http://127.0.0.1:4100/stats`.
 | P4a | done | PASS (**recall@20 0.900** ≥ 0.85, 180/200; fused-only pre-rerank 0.815; $0 spend) | commit (this phase) |
 | gold | done | PASS (250/250 items, all 8 strata on target, 250/250 re-verified from DB, seed 2888775339, $0) | commit (this phase) |
 | P4b | done | **PASS** (120 gold chunks / 29 packed calls; chosen `deepseek-v4.1-flash-1017-ultrafast` P 0.922 R 0.536 F1 0.678; 5/5 `gates.yaml` rows pass; $4.75 total) | checkpoint C1 now |
-| P4c |  **running** (AMD Token Lab bulk pass, resumable daemon; **18,765 of 24,978 packs key-exact = 75.13%**, measured 2026-11-15 15:49 local; restarted itself after the 04:19 power loss) | — | owner amendment 2026-11-13 (Amendment 1 in `C1_APPROVED.md`): bulk extractor moved off congested Ultrafast to the **8-account AMD Token Lab pool** (`DeepSeek-V4.1-Flash`, fallback `DeepSeek-V4-Flash`). AMD is **paid**, not free: measured $0.28/M in, $0.0056/M cached, $0.56/M out = $0.00134/accepted pack ⇒ ~$31.5 for the remaining packs, booked at $31.25. Transport parity vs P4b scorer PASS at 0.92. Then union → precision gate → escalation ladder ($11, D12 cap-prioritised) → audit/recall/report. Gleaning and the glm-5.3 second extractor are booked at $0 and deferred to a post-C2 owner decision. Judge for the upcoming P6/P7 work is Google `Gemma-4-31B-IT` on AMD Token Lab (Amendment 10, replacing NIM); its fenced reply format is handled by the Defect 16 fix |
+| P4c |  **running** (AMD Token Lab bulk pass, resumable daemon; **19,579 of 24,978 packs key-exact = 78.38%**, measured 2026-11-15 17:03 local, `runner.spent()` $24.4425 of $82; restarted itself after the 04:19 power loss) | — | owner amendment 2026-11-13 (Amendment 1 in `C1_APPROVED.md`): bulk extractor moved off congested Ultrafast to the **8-account AMD Token Lab pool** (`DeepSeek-V4.1-Flash`, fallback `DeepSeek-V4-Flash`). AMD is **paid**, not free: measured $0.28/M in, $0.0056/M cached, $0.56/M out = $0.00134/accepted pack ⇒ ~$31.5 for the remaining packs, booked at $31.25. Transport parity vs P4b scorer PASS at 0.92. Then union → precision gate → escalation ladder ($11, D12 cap-prioritised) → audit/recall/report. Gleaning and the glm-5.3 second extractor are booked at $0 and deferred to a post-C2 owner decision. Judge for the upcoming P6/P7 work is Google `Gemma-4-31B-IT` on AMD Token Lab (Amendment 10, replacing NIM); its fenced reply format is handled by the Defect 16 fix |
 | P5 | scaffolded (code + 20 tests, `5e720111cb` chain) | — | gated on P4c PASS; tables `edge`/`event`/`record_txn` still empty |
 | P6 | scaffolded (code + 28 tests) | — | gated on P5 |
 | P7 | scaffolded (tools/ask/eval/analyst/discovery/rubric/report, 98 tests, `edc962ad70`) | — | gated on P5+P6; checkpoint C2 after |
@@ -37,9 +37,10 @@ quota 0/day`. Live fleet after resume: supervisor `pythonw.exe` **PID 22400**, d
 `pythonw.exe` **PID 7620**.
 
 Resume measurement (2026-11-15, `kb/_t_prog2.py`, zero spend): key-exact
-`p4c_run.done_packs("p4c_bulk", "DeepSeek-V4.1-Flash", "tools")` = **18,765 / 24,978 = 75.13%**,
-`runner.spent()` = **$23.6855** of $82, ledger `max(created_at)` = `2026-11-15T15:48:46`. (The earlier
-resume reading in this block was 15,367 / 61.5% on a snapshot probe; both were re-measured with the
+`p4c_run.done_packs("p4c_bulk", "DeepSeek-V4.1-Flash", "tools")` = **19,579 / 24,978 = 78.38%**,
+`runner.spent()` = **$24.4425** of $82, ledger `max(created_at)` = `2026-11-15T17:03:03` (re-measured
+2026-11-15 17:0x local, after the Defect-19 `ask` cost fix). (Earlier resume readings in this block were
+18,765 / 75.13% at 15:49 and 15,367 / 61.5% on a snapshot probe; both were re-measured with the
 authoritative counter, and `kb/_t_prog2.py` deliberately re-reads the live ledger so this file cannot
 drift silently uphill of the daemon.) Two gotchas this reading flushed out, both worth keeping:
 `mode` is the **transport** mode from `kb/state/p4c/modes.json` (`"tools"` for
@@ -928,6 +929,8 @@ Regression tests: 2 new in `kb/tests/test_p7_eval.py` — a judged run with a pr
 *Lesson (65).* Fixing one judge call site is not fixing the defect — `p7_eval`, `p7_rubric` and `p6_summary` each had their own hand-rolled judge invocation with its own view of the cost. When a defect class is defined by a *role* (any call that grades another call's output), audit every implementation of that role and give it one shared accounting shape (`(value, cost)`), otherwise the next reviewer finds the same omission one file over.
 
 *Lesson (66).* A cost returned by a paid call is not the same thing as a cost *recorded*. `_chat` booking the ledger row made the money safe but hid the bug: the return value was still being dropped (`_cost`) or overwritten (`cost = cost2`) by callers that assumed the ledger was the only consumer. Ledger-level correctness and record-level correctness are two different claims and both need a test — the ledger assertion passed while `records[*].cost_usd` was understated by the whole planner line and, on escalated questions, by the entire first-pass composer call.
+
+*Same defect, aggregate-report half.* `p7_analyst.run_backtest` kept a correct `cost_usd` on every row but returned no total, so a 20-date backtest reported its hit rate and hid what it cost — the same "the number exists but nothing surfaces it" shape as `p7_eval`/`p7_rubric` before their fixes. Report now carries `spend_usd` = the sum of its own row costs, with a test asserting it equals `sum(r["cost_usd"] for r in rows)` and not just a plausible positive number. Suite **443 passed**. `analyse` was already correct (`cost += c` across the attempt loop, covering the escalation) and was left alone.
 
 
 

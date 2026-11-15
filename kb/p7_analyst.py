@@ -586,7 +586,9 @@ def run_backtest(segment: str, n: int = BACKTEST_DATES, con=None, chat=None, db=
                          "confidence": rec.get("confidence"), "status": rec["status"],
                          "realised": realised_move(con, segment, d),
                          "cost_usd": rec.get("cost_usd", 0.0)})
-        return {"segment": segment, "dates": len(rows), "rows": rows, **score_calls(rows)}
+        return {"segment": segment, "dates": len(rows), "rows": rows,
+                "spend_usd": round(sum(float(r.get("cost_usd") or 0.0) for r in rows), 6),
+                **score_calls(rows)}
     finally:
         if own:
             con.close()
