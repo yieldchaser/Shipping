@@ -55,12 +55,22 @@ def seed_for(phase: str = PHASE) -> int:
 
 
 def load_jsonl(path: Path) -> list[dict]:
-    rows = []
+    """Whole-file load. Materialises every row, so peak memory is O(file), not O(distinct chunks).
+
+    Kept for callers that genuinely need a list. Both merges below (`merge`, `merge_union`) use
+    ``iter_jsonl`` instead: a union gated file is ~11 KB of parsed JSON per chunk, so at the frozen
+    86,607-chunk scope this function costs ~970 MB (measured 301 MB at 26,953 rows) on a box with
+    well under 1 GB free.
+    """
+    return list(iter_jsonl(path))
+
+
+def iter_jsonl(path: Path):
+    """Stream rows so a merge holds only its O(distinct chunks) status dict, never the raw rows."""
     with path.open("r", encoding="utf-8") as fh:
         for line in fh:
             if line.strip():
-                rows.append(json.loads(line))
-    return rows
+                yield json.loads(line)
 
 
 def chunk_state(chunk: dict) -> dict:
@@ -116,7 +126,7 @@ def merge(gated_paths: list[Path]) -> dict:
     rows = 0
     merged = 0
     for path in gated_paths:
-        for row in load_jsonl(path):
+        for row in iter_jsonl(path):
             rows += 1
             for cid, chunk, doc_id in _row_chunks(row):
                 merged += 1
@@ -145,7 +155,7 @@ def merge_union(path: Path) -> dict:
     final: dict[str, dict] = {}
     order: list[str] = []
     rows = 0
-    for row in load_jsonl(path):
+    for row in iter_jsonl(path):
         rows += 1
         kept = {k: len((row.get("kept") or {}).get(k) or []) for k in KINDS}
         n = int(row.get("records_total") or 0)

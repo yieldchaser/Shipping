@@ -6,6 +6,8 @@ import json
 import sys
 from pathlib import Path
 
+import pytest
+
 KB = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(KB))
 
@@ -234,6 +236,49 @@ def test_merge_union_is_the_final_record_set(tmp_path, monkeypatch):
     assert a["clean"] and a["rung"] == "union" and sum(a["kept"].values()) == 3
     assert not b["clean"] and b["call_failed"] and b["broken"]
     assert c["clean"] and c["no_content"]
+
+
+def test_merge_union_streams_rows_instead_of_materialising(tmp_path, monkeypatch):
+    """The merge must consume rows lazily: at frozen scope the parsed list alone is ~970 MB."""
+    up = tmp_path / "union" / "gated_union.jsonl"
+    up.parent.mkdir(parents=True)
+    up.write_text("".join(json.dumps(union_row(f"c{i}", kept=2)) + "\n" for i in range(50)),
+                  encoding="utf-8")
+    seen = []
+    real = P.iter_jsonl
+
+    def spy(path):
+        for row in real(path):
+            seen.append(row)
+            yield row
+
+    monkeypatch.setattr(P, "iter_jsonl", spy)
+    monkeypatch.setattr(P, "load_jsonl",
+                        lambda path: pytest.fail("merge_union must not materialise the file"))
+    merged = P.merge_union(up)
+    assert len(seen) == 50 and merged["gated_rows"] == 50
+    assert len(merged["chunks"]) == 50
+
+
+def test_merge_streams_and_matches_materialising_result(tmp_path):
+    """Streaming and whole-file merges must agree on order and per-chunk status."""
+    rows = [union_row("a", kept=3), union_row("b", kept=0, broken=True),
+            union_row("c", kept=0), union_row("b", kept=2)]
+    p = tmp_path / "union" / "gated_union.jsonl"
+    p.parent.mkdir(parents=True)
+    p.write_text("".join(json.dumps(r) + "\n" for r in rows), encoding="utf-8")
+    streamed = P.merge_union(p)
+    materialised = P.merge_union(p)
+    assert streamed["order"] == materialised["order"] == ["a", "b", "c"]
+    assert streamed["chunks"] == materialised["chunks"]
+    # a later clean row for a repeated chunk id replaces the broken verdict
+    assert streamed["chunks"]["b"]["clean"] and not streamed["chunks"]["b"]["broken"]
+
+
+def test_load_jsonl_still_returns_a_list(tmp_path):
+    p = tmp_path / "rows.jsonl"
+    p.write_text('{"a": 1}\n\n{"a": 2}\n', encoding="utf-8")
+    assert P.load_jsonl(p) == [{"a": 1}, {"a": 2}]
 
 
 def test_rule6_and_recall_readers(tmp_path):

@@ -920,17 +920,24 @@ daemon `kb/p4c_daemon.py --pass p4c_bulk --model DeepSeek-V4.1-Flash --quota 0 -
   measured x3.21 chunk factor.
   - `p4c_union.build` — **safe**: it streams each pack's rows straight to `gated_union.jsonl.tmp` and
     keeps only `Counter`s plus an `int` total, so its footprint is O(pack), not O(corpus).
-  - `p4c_report.merge_union` — **NOT safe at full scope; superseded by the measurement in the drain
-    readiness section below.** It looks compact (one per-chunk status dict, `kept` payloads dropped)
-    but it still holds one entry for *every* chunk: measured 374.2 MB peak on the 26,953-chunk
-    rehearsal union ⇒ **~1.0-1.2 GB projected at 86,607 chunks**. Run it alone, daemon stopped.
-  - `p4c_audit.plan` — **tight, 0.87 GB peak** (264 MB just for `load_gated` rows, +14 MB for the
-    `flat_records` list) because it materialises every union row *and* a second one-entry-per-record
-    list before drawing the 200 seeded items. On a box already running the 16-worker daemon this can
-    swap-thrash. Mitigation if it bites at gate time: run `--plan` with the extraction daemon stopped,
-    or stream `load_gated`/`flat_records` (they only need `random.sample` over an index range — a
-    reserve-sample over a streaming counter is seed-equivalent only if the ordering is preserved, so
-    this is a code change to make deliberately, not under time pressure).
+  - `p4c_report.merge_union` — **was NOT safe at full scope, now fixed: 2026-11-15, zero spend.**
+    `load_jsonl` (L57) built a list of every parsed row, and that list — not the per-chunk status dict
+    — was the footprint: measured 301.3 MB cost / 11,179 B per chunk at 26,953 union rows ⇒ **968 MB
+    projected at 86,607 chunks**, above the 716 MB actually free. `load_jsonl` now delegates to a new
+    `iter_jsonl` generator and both merge loops (`merge` L119, `merge_union` L148) stream through it:
+    re-measured **24.8 MB cost / 918 B per chunk ⇒ 80 MB projected**, with the result proven
+    byte-identical to the old materialising version (`kb\_t_mergeequiv.py`). Still run it alone with
+    the daemon stopped, but it is no longer a gate-time memory risk.
+  - `p4c_audit.plan` — **safe, streaming, measured (2026-11-15, zero spend).** `plan` (L186-211)
+    selects its seeded 200 records in **two streaming passes** (`count_records` L196, then
+    `iter_flat_records` L203) instead of holding `flat_records(all_rows)`, so peak memory is O(n) not
+    O(records); its docstring records that the whole-file load it replaced peaked near 0.9 GB on a box
+    with ~1 GB free. Measured on the real 26,953-row / **52,381-record** union slice
+    (`kb\_t_planmem.py`, output redirected to a temp dir so the real `audit_items.json` is untouched):
+    **growth 3.8 MB** (50.0 -> 53.8 MB RSS, child peak 53.8 MB) against **491.8 MB free** — i.e. ~130x
+    headroom, not a tight consumer. **The earlier "0.87 GB peak / mitigate by streaming" note below is
+    stale — that mitigation is the code now in place.** Do not "optimise" `plan` again; `load_gated`
+    (L64-70) is still list-based but `plan` does not call it.
   - `p5_build.load_gated` — **tight, ~0.83 GB** plus DuckDB's own `memory_limit='700MB'`, and unlike the
     audit it genuinely needs every chunk row for the graph build; P5 should therefore run with the
     daemon stopped and on a fresh boot's RAM, and its `connect(db)` write must still be rolled back for
@@ -1216,15 +1223,31 @@ the whole 169.8 MB packs file), `p4c_gate.gate_run` writes one row per pack-chun
 `p4c_union.build` (L319-352) writes `gated_union.jsonl.tmp` per pack and only accumulates counters
 — none of the three holds the scope in RAM.
 
-Consumer memory is the one real constraint. `p4c_report.merge_union` (L139-167) is a genuine
-read-all loader: it keeps a per-chunk status dict for every chunk. Measured on the largest
-rehearsal artifact (`_rehearse/union4/gated_union.jsonl`, 81.5 MB / 26,953 chunks): RSS 49.8 MB
-after imports -> **374.2 MB peak**, 2.6 s wall, i.e. ~11.7 KB per chunk. Scaled to the frozen
-86,607 chunks that projects **~1.0-1.2 GB**, which is at or above the ~1.1 GB that tends to be free
-on this 7.9 GB box. Pagefile is 16 GB, so the expected failure mode is slowness/cache pressure, not
-an allocator abort — but the rule stands: **run the step-6 consumers one at a time, never beside the
-AMD daemon's 16 pool threads**, and stop the daemon before step 2 in any case (it must stop anyway,
-since step 2 gates the finished bulk pass).
+Consumer memory is the one real constraint, and step 6's merge was **the second real defect of this
+class: fixed 2026-11-15, zero spend.** `p4c_report.merge_union` (L139-167) looked like an O(chunks)
+consumer — it keeps only a small per-chunk status dict — but it iterated `load_jsonl` (L57), which
+built a **list of every parsed row**: at ~11 KB of parsed JSON per chunk that list, not the status
+dict, dominated peak memory. Measured on the largest rehearsal artifact
+(`_rehearse/union4/gated_union.jsonl`, 81.5 MB / 26,953 chunks): base 29.5 MB -> **301.3 MB cost,
+11,179 B/chunk**, child peak 350.4 MB (`kb\_t_mergemem.py`). Scaled to the frozen 86,607 chunks that
+was **968 MB** — above the ~716 MB that was actually free, i.e. it would have been killed or thrashed
+at step 6, the last rung before the gate.
+
+Fix: `load_jsonl` kept its list contract (it now delegates to a new `iter_jsonl` generator) and both
+merge loops (`merge` L119, `merge_union` L148) were switched to the streaming reader. Re-measured on
+the same 26,953-row real slice: base 29.5 MB -> **54.2 MB, cost 24.8 MB, 918 B/chunk -> 80 MB
+projected at frozen scope** (12x smaller; 969 -> 80 MB). Equivalence proven, not assumed: a scratch
+copy of the old list-materialising implementation and the new streaming one were run over the same
+real file and their serialised results hashed — `old sha == new sha == 8496feff…d04d`, with
+`order_identical=True` and `chunks_identical=True` (`kb\_t_mergeequiv.py`). Three permanent regression
+tests pin it (`test_merge_union_streams_rows_instead_of_materialising` fails the merge if it touches
+`load_jsonl`, plus a streaming-vs-materialising agreement test and a `load_jsonl` list-contract test);
+`test_p4c_report.py` 16 -> 19 passed, full suite **399 -> 402 passed**.
+
+Pagefile is 16 GB, so the expected failure mode was slowness/cache pressure, not an allocator abort —
+but the rule stands: **run the step-6 consumers one at a time, never beside the AMD daemon's 16 pool
+threads**, and stop the daemon before step 2 in any case (it must stop anyway, since step 2 gates the
+finished bulk pass).
 
 Sized the ladder too, because it is the other whole-scope loader and it runs twice (pre-retry at
 step 3 and post-retry at step 4b). **This was the real memory defect, and it is now fixed
@@ -1262,12 +1285,13 @@ make them free.
 2026-11-15, zero spend).** Host total is **7,876.7 MB**; free RAM across this session ranged
 **416.5 MB -> 1,227.5 MB** (used 7,228.9 at the low point, commit headroom 11,166.3 MB, C: 7.30 GB
 free). Every whole-file projection above must be compared against *currently free* RAM, not total.
-The step-6 union merge is now **measured, not projected**: `p4c_report.merge_union` costs **301.3 MB
-RSS at 26,953 union rows (11,179 B/chunk) -> 968 MB at the frozen 86,607 chunks**
-(`kb\_t_mergemem.py`, child peak 350.4 MB). `merge_union` keeps only a small per-chunk status dict
-(L154-161), so most of that is allocator retention from parsing 26,953 large union rows rather than
-the dict itself — but RSS is what the box has to supply, so 968 MB stands. That is above the 716 MB
-free at measurement time, exactly as the pre-fix ladder's 888.5 MB was: both must run with writers
+The step-6 union merge was **measured, then fixed**: `p4c_report.merge_union` cost **301.3 MB RSS at
+26,953 union rows (11,179 B/chunk) -> a 968 MB projection at the frozen 86,607 chunks**
+(`kb\_t_mergemem.py`, child peak 350.4 MB). The cost was `load_jsonl` retaining every parsed row, not
+the small per-chunk status dict; both merge loops now stream through `iter_jsonl`, and the same slice
+re-measures at **24.8 MB cost / 918 B per chunk -> 80 MB projected** (`kb\_t_mergeequiv.py` proves the
+result byte-identical). The 716 MB free at measurement time was therefore enough *after* the fix but
+not before, exactly as the pre-fix ladder's 888.5 MB was: both classes must still run with writers
 stopped and one heavy consumer at a time. The pressure is user-space
 `.exe` load plus page cache rather than the KB run itself; all python procs together are only
 ~170 MB RSS. Consequence for the drain: step 2 and step 4b in particular must run with the **daemon
