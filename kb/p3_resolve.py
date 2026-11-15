@@ -32,6 +32,7 @@ import pandas as pd
 from rapidfuzz import fuzz
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import money as M  # noqa: E402  the single finite-float guard for every numeric read
 import p3_names as N  # noqa: E402
 from llm_runner import chat  # noqa: E402
 
@@ -194,12 +195,18 @@ def splink_pairs(claims: pd.DataFrame, known: pd.DataFrame, log=print) -> pd.Dat
 
 # --------------------------------------------------------------------------- judge
 def _num(v):
-    """None/nan-safe rendering for judge prompts."""
-    try:
-        f = float(v)
-    except (TypeError, ValueError):
+    """None/nan-safe rendering for judge prompts.
+
+    The judge reads these labels as evidence, so a fabricated number here grades a pair on data that
+    does not exist. `float(True)` is `1.0`, so a YAML `dwt: true` (or any bool) used to render as
+    `dwt=1` - a plausible tonnage - and `int(float("inf"))` raised `OverflowError`, aborting the whole
+    resolve pass rather than degrading one label. Both are the Defect 17/21 read: delegate the
+    numeric check to the single guard (`money.as_float`) and render anything unreadable as "unknown".
+    """
+    f = M.as_float(v)
+    if f is None:
         return "unknown"
-    return "unknown" if f != f else int(f)
+    return int(f)
 
 
 def load_cache() -> dict:

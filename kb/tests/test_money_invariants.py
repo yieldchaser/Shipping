@@ -32,7 +32,7 @@ KB = ROOT / "kb"
 
 MONEY_MODULES = (
     "money.py", "runner.py", "ask.py", "c1_review.py", "p2_tables.py", "p2_series.py",
-    "p2_report.py", "p2_known_values.py", "p4a_report.py",
+    "p2_report.py", "p2_known_values.py", "p3_resolve.py", "p4a_report.py",
     "p4b_run.py", "p4c_audit.py", "p4c_daemon.py", "p4c_glean.py", "p4c_highvalue.py",
     "p4c_ladder.py", "p4c_report.py", "p4c_run.py", "p5_build.py", "p6_summary.py",
     "p7_analyst.py", "p7_eval.py", "p7_report.py", "p7_rubric.py", "gold_report.py",
@@ -54,6 +54,7 @@ ACCESSORS: dict[str, tuple[str, ...]] = {
     "p2_series.py": ("to_number",),
     "p2_report.py": ("to_number",),
     "p2_known_values.py": ("to_number",),
+    "p3_resolve.py": ("_num",),
     "p7_report.py": ("_cap_num", "pipeline_cap"),
     "p7_eval.py": ("tolerance_of", "tolerance_or_exact"),
     "c1_review.py": ("_num",),

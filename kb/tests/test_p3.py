@@ -131,3 +131,25 @@ def test_precision_ok():
     assert precision_ok(99, 100)
     assert not precision_ok(97, 100)
     assert not precision_ok(0, 0)
+
+
+def test_judge_num_rendering_never_invents_or_crashes():
+    """`p3_resolve._num` renders evidence for the merge judge, so a fabricated number grades a pair
+    on data that does not exist.
+
+    Two live defects: a bool is an int in Python, so `float(True)` was `1.0` and a `dwt: true` typo
+    reached the prompt as `dwt=1` (a plausible tonnage); and a non-finite float reached `int(...)`,
+    which raises `OverflowError` - not caught by the old `(TypeError, ValueError)` arm - aborting the
+    whole resolve pass instead of degrading one label. Both now read "unknown" via `money.as_float`.
+    """
+    import p3_resolve as R
+
+    for bad in (True, False, float("nan"), float("inf"), float("-inf"), float("1e400"), [], {}, object()):
+        assert R._num(bad) == "unknown", bad
+    assert R._num(None) == "unknown"
+    assert R._num("abc") == "unknown"
+    # The real producer is `p3_names.parse_dwt`/`parse_year`, which return an int or `None`; ordinary
+    # values must still render as the judge expects.
+    assert R._num(parse_dwt("261,838")) == 261838
+    assert R._num(parse_year("2011")) == 2011
+    assert R._num(1521) == 1521
