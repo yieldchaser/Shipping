@@ -39,6 +39,7 @@ from pathlib import Path
 import yaml
 
 import llm_runner as LR
+import money as M
 
 ROOT = Path(__file__).resolve().parents[1]
 STATE = ROOT / "kb/state"
@@ -131,7 +132,15 @@ def cost_usd(model: str, usage: dict | None) -> float:
     return (ptok * pin + otok * pout) / 1e6
 
 
-def spent(passes: list[str] | None = None, prefix: str | None = None) -> float:
+def spent_rows(passes: list[str] | None = None, prefix: str | None = None) -> tuple[float | None, int]:
+    """The measured cost sum and the number of ledger rows that produced it.
+
+    The ledger today has no NULL `cost_usd` (verified: 0 of 27,418 rows), so `COALESCE(...,0)` only
+    ever fires when *no row matches at all* - i.e. `spent()` reports the measured-zero string `0.0`
+    for a pass that was never priced, was never run, or whose rows were replaced. "Unmeasured" and
+    "measured zero" are different claims, and an owner-facing spend field must not conflate them
+    (Defect 17 class, Lesson 69). This returns `(None, 0)` in that case: unmeasured, not free.
+    """
     con = connect()
     where, params = [], []
     if passes:
@@ -140,8 +149,28 @@ def spent(passes: list[str] | None = None, prefix: str | None = None) -> float:
     if prefix:
         where.append("pass LIKE ?")
         params.append(prefix + "%")
-    sql = "SELECT COALESCE(SUM(cost_usd),0) FROM jobs" + (" WHERE " + " AND ".join(where) if where else "")
-    return float(con.execute(sql, params).fetchone()[0])
+    tail = " WHERE " + " AND ".join(where) if where else ""
+    n = int(con.execute("SELECT COUNT(*) FROM jobs" + tail, params).fetchone()[0])
+    if not n:
+        return None, 0
+    total = con.execute("SELECT SUM(cost_usd) FROM jobs" + tail, params).fetchone()[0]
+    return (float(total) if total is not None else None), n
+
+
+def spent_exact(passes: list[str] | None = None, prefix: str | None = None) -> float | None:
+    """`spent()` that keeps "no measurement" distinct from "measured zero": `None` when absent."""
+    return spent_rows(passes, prefix)[0]
+
+
+def spent(passes: list[str] | None = None, prefix: str | None = None) -> float:
+    """Arithmetic spend, collapsing an absent measurement to `0.0`.
+
+    This is the wrong function for anything the owner reads: use `spent_exact()` for reports and
+    render through `money.fmt_usd`, so an unmeasured pass prints `UNMEASURED` rather than `$0.0000`.
+    Kept `float`-returning so budget arithmetic (`budget_left`, daemon caps) is never handed a None.
+    """
+    total = spent_exact(passes, prefix)
+    return 0.0 if total is None else total
 
 
 def raw_path(pass_name: str, key: str) -> Path:
@@ -336,7 +365,9 @@ class Runner:
             log(f"pass {self.pass_name}: budget already exhausted, nothing started")
             return {}
         todo = [j for j in jobs if j.get("model")]
-        log(f"pass {self.pass_name}: {len(todo)} jobs, budget left ${self.budget_left():.3f}")
+        # `budget left` is a *headroom*, not a spend: it is derived from the cap and is defined
+        # whenever the cap is, so a plain figure is honest here.
+        log(f"pass {self.pass_name}: {len(todo)} jobs, budget left {M.fmt_usd(self.budget_left())}")
         results: dict[str, dict] = {}
         queue = asyncio.Queue()
         for j in todo:
@@ -370,8 +401,12 @@ class Runner:
                 await asyncio.gather(*tasks)
 
         asyncio.run(main())
+        # `self.stats['cost']` is accumulated in-process from real `usage.cost` readings, so a genuine
+        # zero is possible and must keep reading as `$0.0000`; `:.4f` would flatten a sub-cent batch
+        # to that same string (Defect 17 class, Lesson 69).
         log(f"pass {self.pass_name}: done ok={self.stats['ok']} cached={self.stats['cached']} "
-            f"err={self.stats['errors']} retries={self.stats['retries']} cost=${self.stats['cost']:.4f}")
+            f"err={self.stats['errors']} retries={self.stats['retries']} "
+            f"cost={M.fmt_usd(self.stats['cost'])}")
         return results
 
 

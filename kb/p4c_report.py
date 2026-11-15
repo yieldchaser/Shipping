@@ -339,8 +339,22 @@ def gate_rows(st: dict, audit: dict, cov: dict) -> dict:
 
 
 def cost() -> dict:
-    per_pass = {p: round(R.spent(passes=[p]), 6) for p in PASSES + ("p4c_audit",)}
-    return {"per_pass": per_pass, "total_usd": round(sum(per_pass.values()), 6)}
+    """Per-pass spend, with "never priced" kept distinct from "measured zero".
+
+    `R.spent()` collapses an absent measurement to `0.0` at the source (`SUM` over no rows), which is
+    exactly the string `money.fmt_usd` prints for a genuine zero - so the renderer alone could not tell
+    the reader which one it was given. `spent_exact()` returns `None` when no ledger row matches, and
+    the report renders that as `UNMEASURED` instead of inventing a free pass (Defect 17 class, fifth
+    site: the mitigation belongs at the reader, not only in the formatter).
+    """
+    per_pass = {}
+    for p in PASSES + ("p4c_audit",):
+        v = R.spent_exact(passes=[p])
+        per_pass[p] = None if v is None else round(v, 6)
+    measured = [v for v in per_pass.values() if v is not None]
+    return {"per_pass": per_pass,
+            "total_usd": round(sum(measured), 6) if measured else None,
+            "passes_unmeasured": sorted(p for p, v in per_pass.items() if v is None)}
 
 
 def wall() -> dict:

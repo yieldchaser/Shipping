@@ -117,7 +117,10 @@ def test_build_and_markdown(tmp_path, monkeypatch):
                                  "wrong": 2, "wrong_rate": 0.01}), encoding="utf-8")
     monkeypatch.setattr(P, "OUT", tmp_path)
     monkeypatch.setattr(P, "doc_paths", lambda ids: {d: f"corpus/x/{d}.md" for d in ids})
-    monkeypatch.setattr(P.R, "spent", lambda passes=None: 1.5)
+    # `cost()` now reads `spent_exact` so that "no ledger row" stays distinct from a measured zero;
+    # the old `spent` stub is repointed rather than left to silently exercise the live ledger
+    # (Defect 19 corollary: splitting a helper means every stub of the old one must move).
+    monkeypatch.setattr(P.R, "spent_exact", lambda passes=None: 1.5)
     rep = P.build([bulk, esc], packs_file(tmp_path), audit)
     assert rep["sample_seed"] == P.seed_for("P4C")
     assert rep["all_pass"]
@@ -141,7 +144,7 @@ def test_main_writes_reports(tmp_path, monkeypatch):
     monkeypatch.setattr(P, "REPORT_JSON", tmp_path / "reports" / "p4c.json")
     monkeypatch.setattr(P, "REPORT_MD", tmp_path / "reports" / "p4c.md")
     monkeypatch.setattr(P, "doc_paths", lambda ids: {})
-    monkeypatch.setattr(P.R, "spent", lambda passes=None: 0.0)
+    monkeypatch.setattr(P.R, "spent_exact", lambda passes=None: 0.0)
     monkeypatch.setattr(sys, "argv", ["p4c_report.py", "--gated", str(bulk), "--packs", str(packs),
                                       "--audit", str(audit), "--write"])
     assert P.main() == 0
@@ -324,7 +327,7 @@ def test_build_prefers_union_when_present(tmp_path, monkeypatch):
          "failure_queue_rate": 0.0}), encoding="utf-8")
     monkeypatch.setattr(P, "OUT", tmp_path)
     monkeypatch.setattr(P, "doc_paths", lambda ids: {})
-    monkeypatch.setattr(P.R, "spent", lambda passes=None: 0.0)
+    monkeypatch.setattr(P.R, "spent_exact", lambda passes=None: 0.0)
     rep = P.build([bulk], packs_file(tmp_path), audit, up, tmp_path / "nope.json",
                   tmp_path / "nope2.json")
     assert rep["gated_source"] == "union" and rep["union"]["records"] == 5
@@ -359,7 +362,8 @@ def test_unpriced_pass_renders_unmeasured_not_a_measured_zero(tmp_path, monkeypa
     monkeypatch.setattr(P, "OUT", tmp_path)
     monkeypatch.setattr(P, "doc_paths", lambda ids: {d: f"corpus/x/{d}.md" for d in ids})
     # Ledger reports only the first pass; every other pass in the wall table stays unpriced.
-    monkeypatch.setattr(P.R, "spent", lambda passes=None: 1.5 if passes == [P.PASSES[0]] else 0.0)
+    monkeypatch.setattr(P.R, "spent_exact",
+                        lambda passes=None: 1.5 if passes == [P.PASSES[0]] else None)
     rep = P.build([bulk], packs_file(tmp_path), audit)
     rep["wall"]["p4c_absent"] = {"wall_s": 12, "packs": 3}
     rep["cost"]["per_pass"] = {"p4c_absent": None}
@@ -377,7 +381,7 @@ def test_tiny_pass_cost_is_not_flattened_to_zero_in_the_money_table(tmp_path, mo
     audit.write_text(json.dumps({"present": True}), encoding="utf-8")
     monkeypatch.setattr(P, "OUT", tmp_path)
     monkeypatch.setattr(P, "doc_paths", lambda ids: {d: f"corpus/x/{d}.md" for d in ids})
-    monkeypatch.setattr(P.R, "spent", lambda passes=None: 0.0)
+    monkeypatch.setattr(P.R, "spent_exact", lambda passes=None: 0.0)
     rep = P.build([bulk], packs_file(tmp_path), audit)
     rep["wall"]["p6_judge"] = {"wall_s": 1, "packs": 1}
     rep["cost"]["per_pass"] = {"p6_judge": 1.3e-05}
@@ -388,5 +392,30 @@ def test_tiny_pass_cost_is_not_flattened_to_zero_in_the_money_table(tmp_path, mo
     assert cells[1] == "$0.00001", row          # not the measured-zero string, and not flattened
     assert cells[1] != "$0.0000", row
     assert "**$0.00001**" in md, "total line flattened a real spend to the measured-zero string"
+
+
+def test_cost_reads_the_ledger_exactly_so_an_unpriced_pass_is_none(tmp_path, monkeypatch):
+    """`cost()` must hand the renderer `None` for a pass with no ledger row, not `0.0`.
+
+    `R.spent()` collapses "no measurement" to 0.0 with `SUM` over no rows - the same value a genuine
+    zero produces. The mitigation has to live in the reader, so this pins the contract at the reader.
+    """
+    monkeypatch.setattr(P.R, "spent_exact", lambda passes=None: None)
+    rep = P.cost()
+    want = set(P.PASSES) | {"p4c_audit"}
+    assert set(rep["per_pass"]) == want
+    assert all(v is None for v in rep["per_pass"].values())
+    assert rep["total_usd"] is None, "an all-unmeasured ledger must not total to a measured $0.0000"
+    assert rep["passes_unmeasured"] == sorted(want)
+
+
+def test_cost_total_sums_only_measured_passes(tmp_path, monkeypatch):
+    """One measured pass plus one unpriced pass must not be totalled as a one-pass zero-sum."""
+    monkeypatch.setattr(P.R, "spent_exact",
+                        lambda passes=None: 0.5 if passes == ["p4c_bulk"] else None)
+    rep = P.cost()
+    assert rep["per_pass"]["p4c_bulk"] == 0.5
+    assert rep["total_usd"] == 0.5
+    assert "p4c_esc" in rep["passes_unmeasured"] and "p4c_bulk" not in rep["passes_unmeasured"]
 
 

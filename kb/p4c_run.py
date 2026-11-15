@@ -26,6 +26,8 @@ sys.path.insert(0, str(KB))
 import p4b_run as B  # noqa: E402  (same prompts, job keys and transport policy as the bake-off)
 import runner as R  # noqa: E402
 
+import money as M  # noqa: E402
+
 OUT = KB.parent / "kb/state/p4c"
 PACKS = OUT / "packs.jsonl"
 MODE_FILE = OUT / "modes.json"
@@ -217,9 +219,14 @@ def run_packs(pass_name: str, model: str, cap: float, packs_path: Path | None = 
         rate = done_chunks / max(1.0, st["wall_s"])
         eta_h = (total_chunks - done_chunks) / rate / 3600 if total_chunks else None
         if progress:
+            # `:.4f` flattened a sub-cent batch delta to `$0.0000` - the string that means "measured
+            # zero" - so a running drain looked free. money.fmt_usd keeps the three states apart in the
+            # operator log too (Defect 17 class, Lesson 69). `cost - spent_before` can be slightly
+            # negative on a replayed ledger read; the sign is preserved by formatting the delta itself.
+            delta = cost - spent_before
             print(f"batch {st['batches']} packs {len(todo)}/{len(batch)} "
                   f"chunks_done {done_chunks}/{total_chunks or '?'} "
-                  f"spend ${cost:.4f} (+${cost - spent_before:.4f}) wall {st['wall_s']:.0f}s"
+                  f"spend {M.fmt_usd(cost)} (+{M.fmt_usd(abs(delta))}) wall {st['wall_s']:.0f}s"
                   + (f" eta {eta_h:.1f}h" if eta_h is not None else ""), flush=True)
             state_path(pass_name).write_text(json.dumps({**st, "updated": dt.datetime.now().isoformat(
                 timespec="seconds"), "spent_total": st["cost_usd"]}, indent=2), encoding="utf-8")

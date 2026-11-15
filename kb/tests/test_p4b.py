@@ -10,6 +10,8 @@ import json
 import sys
 from pathlib import Path
 
+import pytest
+
 KB = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(KB))
 
@@ -185,6 +187,50 @@ def test_ledger_roundtrip_and_spend_sum(tmp_path, monkeypatch):
     row = con.execute("SELECT status, cost_usd, model_returned FROM jobs WHERE job_key='k1'").fetchone()
     assert row == ("ok", 0.25, "cyberouter/deepseek-v4-pro")
     assert R.spent(passes=["p4b_test"], prefix=None) >= 0.0
+
+
+def test_spent_exact_distinguishes_unmeasured_from_measured_zero(tmp_path, monkeypatch):
+    """A pass with no ledger row is UNMEASURED, not free.
+
+    `spent()` collapsed "no matching row" to 0.0 via `SUM` over nothing - the identical value a
+    genuine zero produces - so every owner-facing report that rendered it printed the measured-zero
+    string for a pass the ledger had never priced. `spent_exact()` keeps the states apart at the
+    source; `spent()` stays float-returning for budget arithmetic (Defect 17 class, fifth site).
+    """
+    monkeypatch.setattr(R, "LEDGER", tmp_path / "ledger.sqlite")
+    monkeypatch.setattr(R, "_SCHEMA_INIT", False)
+    R._ledger_lock = R.threading.Lock()
+    con = R.connect()
+    r = R.Runner("p4b_x", "extraction-v1", cap_usd=1.0)
+    r.con = con
+    # never run at all
+    assert R.spent_exact(passes=["p4b_never_ran"]) is None
+    assert R.spent_rows(passes=["p4b_never_ran"]) == (None, 0)
+    # a real zero-cost booking is a measurement: zero rows is not
+    r._record({"job_key": "k0", "model": "m", "meta": {}}, status="ok", in_tok=0, out_tok=0,
+              cost=0.0, model_returned="m")
+    assert R.spent_exact(passes=["p4b_x"]) == 0.0
+    assert R.spent_rows(passes=["p4b_x"]) == (0.0, 1)
+    assert R.spent(passes=["p4b_x"]) == 0.0          # arithmetic view unchanged
+    # and the absent pass stays absent, not adjacent to a real zero
+    assert R.spent(passes=["p4b_absent"]) == 0.0 and R.spent_exact(passes=["p4b_absent"]) is None
+
+
+def test_spent_exact_reads_the_same_total_as_spent_when_rows_exist(tmp_path, monkeypatch):
+    """The split must not change arithmetic for passes that do have rows."""
+    monkeypatch.setattr(R, "LEDGER", tmp_path / "ledger.sqlite")
+    monkeypatch.setattr(R, "_SCHEMA_INIT", False)
+    R._ledger_lock = R.threading.Lock()
+    con = R.connect()
+    r = R.Runner("p4b_y", "extraction-v1", cap_usd=1.0)
+    r.con = con
+    for i, c in enumerate((0.25, 1.3e-05, 0.5)):
+        r._record({"job_key": f"k{i}", "model": "m", "meta": {}}, status="ok", in_tok=1, out_tok=1,
+                  cost=c, model_returned="m")
+    exact = R.spent_exact(passes=["p4b_y"])
+    assert exact == pytest.approx(0.750013)
+    assert R.spent(passes=["p4b_y"]) == pytest.approx(exact)
+    assert R.spent_exact() >= exact  # whole-ledger form still works
 
 
 def test_runner_concurrency_reaches_the_requested_worker_count(tmp_path, monkeypatch):

@@ -28,6 +28,9 @@ LEDGER = STATE / "ledger.sqlite"
 STATUS_MD = KB / "reports" / "STATUS.md"
 HEARTBEAT_MAX_AGE_S = 180  # §10.2: older than 3 min AND no live PID => dead
 
+sys.path.insert(0, str(KB))
+import money as M  # noqa: E402
+
 
 def git(*a):
     return subprocess.run(["git", *a], cwd=ROOT, capture_output=True, text=True)
@@ -62,6 +65,16 @@ def section(title):
 
 
 def main() -> int:
+    # STATUS.md is UTF-8 and carries typographic characters (⇒, ≈, —). On Windows stdout defaults to
+    # cp1252, so printing a STATUS line raised UnicodeEncodeError *inside* main() and the resume banner
+    # died before it could report the gateway, jobs, or ledger - i.e. the one command the owner runs
+    # after a crash was itself the first thing to crash. Reconfigure the streams instead of sanitising
+    # the report: the banner must show the file verbatim.
+    for stream in (sys.stdout, sys.stderr):
+        try:
+            stream.reconfigure(encoding="utf-8", errors="replace")
+        except (AttributeError, ValueError):
+            pass
     print(f"resume @ {datetime.now(timezone.utc).isoformat()}  workdir {ROOT}")
 
     # ---- STATUS.md phase / next action ----
@@ -136,8 +149,14 @@ def main() -> int:
 
         with urllib.request.urlopen("http://127.0.0.1:4100/stats", timeout=5) as r:
             stats = json.loads(r.read().decode("utf-8"))
-        print(f"  UP  enclave ${stats.get('enclave_spent_usd'):.2f} / ${stats.get('enclave_cap_usd'):.2f}"
-              f"  ultrafast_out_today {stats.get('ultrafast_output_today')}")
+        # A missing/renamed field used to raise TypeError inside this f-string, and the bare
+        # `except Exception` below then reported a *healthy* gateway as DOWN - the wrong direction
+        # for a resume banner whose entire job is "can I continue?". Render whatever is missing as
+        # UNMEASURED and keep the UP verdict driven by the HTTP read, not by the fields (Defect 17
+        # class, Lesson 69: a .get() default that invents a number is the twin of a failed read).
+        print(f"  UP  enclave {M.fmt_usd(stats.get('enclave_spent_usd'))}"
+              f" / {M.fmt_usd(stats.get('enclave_cap_usd'))}"
+              f"  ultrafast_out_today {stats.get('ultrafast_output_today', 'UNMEASURED')}")
     except Exception as e:
         print(f"  DOWN ({e}) — start with tools/agent_gateway/start_gateway.bat")
 

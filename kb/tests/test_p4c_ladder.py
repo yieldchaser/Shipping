@@ -251,3 +251,38 @@ def test_esc_gated_overrides_only_the_escalation_ranking(tmp_path):
     assert d["escalation"]["esc_source"] == str(post)
     esc = [json.loads(line) for line in (tmp_path / "e.jsonl").read_text(encoding="utf-8").splitlines()]
     assert [p["chunk_ids"] for p in esc] == [["c2"]]
+
+
+def test_escalation_cap_defaults_to_the_config_booking_not_a_hardcoded_17():
+    """The ladder must spend the booking that config actually authorises.
+
+    `ESC_CAP_USD = 17.0` outlived the C1 rebooking that cut `escalation_plus_gleaning` to 11 (the AMD
+    bulk pass is paid, so it came out of the other lines). A stale hardcoded cap silently authorises
+    six dollars of escalation the owner never booked - the third-site defect class, where the number
+    the reader trusts is the *denominator*.
+    """
+    import yaml
+    cfg = yaml.safe_load((L.KB / "config.yaml").read_text(encoding="utf-8"))
+    booked = float(cfg["budget"]["passes"]["escalation_plus_gleaning"])
+    assert L.escalation_cap() == booked
+    assert booked != 17.0, "if the booking moves back to 17 this test no longer proves anything"
+
+
+def test_cap_missing_from_config_falls_back_and_still_reports_a_number(monkeypatch):
+    """Config unreadable must degrade to the module default, never to None-in-an-f-string."""
+    monkeypatch.setattr(L, "KB", L.Path("no/such/dir"))
+    assert L.escalation_cap() == L.FALLBACK_ESC_CAP_USD
+
+
+def test_summarise_renders_money_through_the_three_state_formatter():
+    """A sub-cent tier estimate and an unmeasured cap must not both print as `$0.00`."""
+    plan = {"queue": {"chunks_gated": 10, "queue": [1], "queue_rate": 0.1,
+                      "trigger_counts": {"fail_pct": 1}},
+            "retry": {"singles": 1, "unmatched": 0},
+            "escalation": {"picked": [1], "spent": 1.3e-05, "cap": None, "skipped": 0,
+                           "tiers": {1: {"calls": 1, "est_cost": 1.3e-05}}}}
+    text = L.summarise(plan)
+    assert "est $0.00001/UNMEASURED" in text, text
+    assert "$0.00 " not in text, "the old `:.2f` renderer flattened a real sub-cent estimate to $0.00"
+    tier_line = next(ln for ln in text.splitlines() if "sec_mda_fleet" in ln)
+    assert tier_line.rstrip().endswith("est $0.00001"), tier_line

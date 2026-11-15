@@ -29,6 +29,8 @@ sys.path.insert(0, str(KB))
 import p4c_highvalue as HV  # noqa: E402
 import p4c_run as R  # noqa: E402
 
+import money as M  # noqa: E402
+
 STATE = KB / "state"
 OUT = STATE / "p4c"
 GATED = OUT / "gated.jsonl"
@@ -40,7 +42,30 @@ ESC_PACKS = OUT / "singles_esc.jsonl"
 RETRY_PASS = "p4c_bulk_retry"
 ESC_PASS = "p4c_esc"
 ESC_MODEL = "glm-5.3"
-ESC_CAP_USD = 17.0
+
+
+def escalation_cap() -> float:
+    """The escalation booking from `kb/config.yaml` `budget.passes.escalation_plus_gleaning`.
+
+    This module shipped a literal `ESC_CAP_USD = 17.0` while the booking it spends has since been
+    amended down to 11 (the AMD bulk pass, being paid, had to come out of the other bookings - see the
+    rebooking block in config). A hardcoded cap is the same defect class as a hardcoded spend: the
+    number is a *denominator the owner reads in the ladder plan*, and a stale one silently authorises
+    6 dollars more escalation than was ever booked. Read it, and fall back to the module default only
+    if config is genuinely unreadable - in which case `summarise` reports the cap it actually used.
+    """
+    try:
+        import yaml
+        cfg = yaml.safe_load((KB / "config.yaml").read_text(encoding="utf-8")) or {}
+        v = (((cfg.get("budget") or {}).get("passes") or {})
+             .get("escalation_plus_gleaning"))
+        return float(v) if v is not None else FALLBACK_ESC_CAP_USD
+    except (OSError, ValueError, ImportError, AttributeError, TypeError):
+        return FALLBACK_ESC_CAP_USD
+
+
+FALLBACK_ESC_CAP_USD = 11.0
+
 
 FAIL_PCT_MAX = 0.30
 CONF_MIN = 0.5
@@ -247,8 +272,13 @@ def plan_retry(packs_path: Path = PACKS, queue=(), out_path: Path = RETRY_PACKS)
     return {"singles": written, "unmatched": len(wanted) - written, "out": str(out_path)}
 
 
-def rank_escalation(packs_path: Path = PACKS, queue=(), cap: float = ESC_CAP_USD) -> dict:
-    """Doc-value-ordered, cap-bounded selection of the chunks that go to glm-5.3."""
+def rank_escalation(packs_path: Path = PACKS, queue=(), cap: float | None = None) -> dict:
+    """Doc-value-ordered, cap-bounded selection of the chunks that go to glm-5.3.
+
+    `cap=None` (the default) reads the booking from config rather than trusting the old literal, so a
+    caller that forgets to pass one still cannot overrun the rebooked escalation line.
+    """
+    cap = escalation_cap() if cap is None else cap
     wanted = {q["chunk_id"] for q in queue}
     gold = HV.load_gold_chunk_ids()
     meta: list[dict] = []
@@ -296,17 +326,22 @@ def write_escalation(picked, packs_path: Path = PACKS, out_path: Path = ESC_PACK
 
 
 def summarise(plan: dict) -> str:
+    # `:.2f` here was a lossy read of a real number: a sub-cent tier estimate printed as `$0.00`, the
+    # measured-zero string, and the cap printed with `:.0f` even though it is a dollar figure read from
+    # config. Money goes through money.fmt_usd so "not measured" and "measured zero" stay distinct in
+    # the plan the owner reads (Defect 17 class, Lesson 69).
+    esc = plan["escalation"]
     lines = [f"gated chunks {plan['queue']['chunks_gated']} queue "
              f"{len(plan['queue']['queue'])} ({plan['queue']['queue_rate'] * 100:.1f}%) "
              f"triggers {plan['queue']['trigger_counts']}",
              f"free retry singles {plan['retry']['singles']} "
              f"(unmatched {plan['retry']['unmatched']})",
-             f"glm-5.3 escalation {len(plan['escalation']['picked'])} calls "
-             f"est ${plan['escalation']['spent']:.2f}/${plan['escalation']['cap']:.0f} "
-             f"skipped {plan['escalation']['skipped']}"]
-    for tier, t in sorted(plan["escalation"]["tiers"].items()):
+             f"glm-5.3 escalation {len(esc['picked'])} calls "
+             f"est {M.fmt_usd(esc.get('spent'))}/{M.fmt_usd(esc.get('cap'))} "
+             f"skipped {esc['skipped']}"]
+    for tier, t in sorted(esc["tiers"].items()):
         name = next(k for k, v in HV.TIERS.items() if v == tier)
-        lines.append(f"  {name:<16} calls {t['calls']:>5} est ${t['est_cost']:.2f}")
+        lines.append(f"  {name:<16} calls {t['calls']:>5} est {M.fmt_usd(t.get('est_cost'))}")
     return "\n".join(lines)
 
 
@@ -351,7 +386,9 @@ def main() -> int:
     ap.add_argument("--plan", default=str(PLAN))
     ap.add_argument("--retry-out", default=str(RETRY_PACKS))
     ap.add_argument("--esc-out", default=str(ESC_PACKS))
-    ap.add_argument("--cap", type=float, default=ESC_CAP_USD)
+    ap.add_argument("--cap", type=float, default=None,
+                    help="escalation booking cap in USD; default = config budget.passes."
+                         "escalation_plus_gleaning")
     ap.add_argument("--plan-only", action="store_true", help="rank and report, write no packs")
     return cmd_plan(ap.parse_args())
 

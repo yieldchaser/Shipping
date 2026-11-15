@@ -14,7 +14,7 @@ Live run status. Real spend read from `http://127.0.0.1:4100/stats`.
 | P4a | done | PASS (**recall@20 0.900** ≥ 0.85, 180/200; fused-only pre-rerank 0.815; $0 spend) | commit (this phase) |
 | gold | done | PASS (250/250 items, all 8 strata on target, 250/250 re-verified from DB, seed 2888775339, $0) | commit (this phase) |
 | P4b | done | **PASS** (120 gold chunks / 29 packed calls; chosen `deepseek-v4.1-flash-1017-ultrafast` P 0.922 R 0.536 F1 0.678; 5/5 `gates.yaml` rows pass; $4.75 total) | checkpoint C1 now |
-| P4c |  **running** (AMD Token Lab bulk pass, resumable daemon; **20,490 of 24,978 packs key-exact = 82.03%**, measured 2026-11-15 19:05 local, `runner.spent()` $25.272948 of $82; restarted itself after the 04:19 power loss) | — | owner amendment 2026-11-13 (Amendment 1 in `C1_APPROVED.md`): bulk extractor moved off congested Ultrafast to the **8-account AMD Token Lab pool** (`DeepSeek-V4.1-Flash`, fallback `DeepSeek-V4-Flash`). AMD is **paid**, not free: measured $0.28/M in, $0.0056/M cached, $0.56/M out = $0.00134/accepted pack ⇒ ~$31.5 for the remaining packs, booked at $31.25. Transport parity vs P4b scorer PASS at 0.92. Then union → precision gate → escalation ladder ($11, D12 cap-prioritised) → audit/recall/report. Gleaning and the glm-5.3 second extractor are booked at $0 and deferred to a post-C2 owner decision. Judge for the upcoming P6/P7 work is Google `Gemma-4-31B-IT` on AMD Token Lab (Amendment 10, replacing NIM); its fenced reply format is handled by the Defect 16 fix |
+| P4c |  **running** (AMD Token Lab bulk pass, resumable daemon; **24,352 ledger rows of 24,978 packs** (`p4c_bulk` $20.535530 of the $25.498239 total), last `done_packs` counter 20,490 / 24,978 = 82.03%, daemon verified alive 2026-11-15 19:19 local, 0 NULL-cost rows) | — | owner amendment 2026-11-13 (Amendment 1 in `C1_APPROVED.md`): bulk extractor moved off congested Ultrafast to the **8-account AMD Token Lab pool** (`DeepSeek-V4.1-Flash`, fallback `DeepSeek-V4-Flash`). AMD is **paid**, not free: measured $0.28/M in, $0.0056/M cached, $0.56/M out = $0.00134/accepted pack ⇒ ~$31.5 for the remaining packs, booked at $31.25. Transport parity vs P4b scorer PASS at 0.92. Then union → precision gate → escalation ladder ($11, D12 cap-prioritised) → audit/recall/report. Gleaning and the glm-5.3 second extractor are booked at $0 and deferred to a post-C2 owner decision. Judge for the upcoming P6/P7 work is Google `Gemma-4-31B-IT` on AMD Token Lab (Amendment 10, replacing NIM); its fenced reply format is handled by the Defect 16 fix |
 | P5 | scaffolded (code + 20 tests, `5e720111cb` chain) | — | gated on P4c PASS; tables `edge`/`event`/`record_txn` still empty |
 | P6 | scaffolded (code + 28 tests) | — | gated on P5 |
 | P7 | scaffolded (tools/ask/eval/analyst/discovery/rubric/report, 98 tests, `edc962ad70`) | — | gated on P5+P6; checkpoint C2 after |
@@ -102,6 +102,24 @@ notice the probe read the ledger after a 122.3 s count and printed a timestamp c
 snapshot — a direct read three minutes later showed the ledger advancing live (`19:05:00`, last three rows all
 `p4c_bulk`/`ok`, 60 s apart). **A stale timestamp next to a fresh counter is a probe artefact, not a stall**;
 verify with a direct `SELECT max(created_at)` before escalating a stall question.
+
+Live pipeline spend re-measured 2026-11-15 19:19 local (bulk daemon still live): **$25.498239429 by
+`runner.spent()`** (27,418 ledger rows, 0 rows with `cost_usd IS NULL`), `max(created_at)`
+`2026-11-15T19:19:14`, i.e. **≈$56.50 left of the $82 pipeline cap**. Progress at the same instant,
+read as ledger rows rather than by the 2-minute counter: `pass='p4c_bulk'` = **24,352 rows /
+$20.535530** (99.3 s of the counter's 122.3 s reading was memory contention, so the row count is now
+the cheap cross-check); last counter reading `done_packs(...)` = 20,490 / 24,978 = 82.03 %.
+
+**Owner-facing readout rule now enforced in code.** `runner.spent()` sums with `COALESCE(SUM(...),0)`,
+which renders "the ledger holds no row for this pass" as the same value a genuine zero produces. The
+collapse is latent on the live ledger (0 NULL-cost rows) but was live for every pass that has not run
+yet — `p4c_report.cost()` printed the measured-zero string `$0.0000` for `p4c_esc`, `p4c_glm2` and
+`p4c_audit`. `runner.spent_exact()`/`spent_rows()` now return `None` for the no-row case; `spent()`
+keeps the float for budget arithmetic (`max(0.0, CAP - …)`), and everything the owner reads renders
+through `money.fmt_usd`, which prints `UNMEASURED`. Live check after the change: `p4c_bulk` $20.53553,
+`p4c_bulk_retry` $0.122691, `p4c_glean` **`$0.0000` (a measured zero — the ledger has rows for it)**,
+`p4c_esc`/`p4c_glm2`/`p4c_audit` **`UNMEASURED`**, `total_usd` = $20.658221 summing only the measured
+passes, with `passes_unmeasured` naming the three absent ones.
 The
 breakdown below is the 14:26 snapshot that first itemised the passes (`p4c_bulk`/`DeepSeek-V4.1-Flash`
 **$18.0029** of it,
@@ -1201,6 +1219,34 @@ second invents one for data that could not be fetched. Both collapse "unknown" i
 class must therefore ask **both** questions of every site — *is a real cost dropped?* and *is a fake cost
 invented when the read fails or the key is absent?* — because the two failure directions look nothing alike
 in the source but identical in the report the owner reads.
+
+*Lesson (70).* **The accounting primitive itself can be the renderer.** After eight sweeps over report
+builders, gate tables and diagnostic banners, the collapse turned out to also live one level below all of
+them: `runner.spent()` summed with `COALESCE(SUM(cost_usd),0)`, so "the ledger holds no row for this pass"
+and "this pass genuinely cost nothing" became the same `0.0` *before* any renderer saw it. Every fix so far
+had been asserting that the renderers preserve three states — unmeasured, measured zero, real tiny — while
+the value they were handed had already lost one of them. The rule that follows: when a class of defect keeps
+reappearing across consumers, audit the **producer** of the value as well as its consumers; a helper whose
+name promises a number is not exonerated by its arithmetic being correct. `spent()` keeps the float for cap
+arithmetic (`max(0.0, CAP - …)`, where an absent row and a zero row are interchangeable), and
+`spent_exact()`/`spent_rows()` return `None`/`(None, 0)` for the owner-facing path. Because the split
+renamed nothing but changed which helper the readers call, **every test that stubbed `spent` by name had to
+be repointed** — the recurring Defect 19 corollary: a stub that patches a helper by name silently starts
+exercising the real dependency the moment that helper is split, and here it did so against the *live ledger*,
+which is why the stale stub surfaced as `expected 9.0, got 20.611405` rather than as an error.
+
+New tests (this commit): `test_p4b.py::test_spent_exact_distinguishes_unmeasured_from_measured_zero` (a
+never-run pass is `None`/`(None, 0)` while a booked `$0.00` is `(0.0, 1)`; the arithmetic view is unchanged),
+`::test_spent_exact_reads_the_same_total_as_spent_when_rows_exist`,
+`test_p4c_report.py::test_cost_reads_the_ledger_exactly_so_an_unpriced_pass_is_none` (all-unmeasured ⇒
+`total_usd is None`, never a measured `$0.0000`), `::test_cost_total_sums_only_measured_passes`,
+`test_p4c_ladder.py::test_escalation_cap_defaults_to_the_config_booking_not_a_hardcoded_17` (the stale
+`ESC_CAP_USD = 17.0` outlived the C1 rebooking that cut `escalation_plus_gleaning` to 11 — a hardcoded
+*denominator* is the same defect class as a hardcoded cost), `::test_cap_missing_from_config_falls_back_and_still_reports_a_number`,
+`::test_summarise_renders_money_through_the_three_state_formatter`. Live proof on the real ledger at 19:19:
+`p4c_bulk` `$20.5355`, `p4c_bulk_retry` `$0.122691`, `p4c_glean` `$0.0000` (measured zero — rows exist),
+`p4c_esc`/`p4c_glm2`/`p4c_audit` `UNMEASURED`, `total_usd` `$20.658221` over measured passes only. Full
+suite **467 passed** in 49.65 s; `pyflakes` clean on the touched files except the one pre-existing `rec_ok`.
 
 **Defect 3 — fatal interpreter abort.** The daemon died at 09:56:12 with
 `Fatal Python error: PyEval_SaveThread: ... the GIL is released (the current Python thread state is
