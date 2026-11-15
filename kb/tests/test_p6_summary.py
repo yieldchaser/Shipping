@@ -504,15 +504,18 @@ def test_log_leaves_an_unpriceable_call_unmeasured_not_zero(monkeypatch, tmp_pat
 
 # ------------------------------------------------------------------ judge score trust
 def test_clamp_score_rejects_unusable_judge_scores():
-    """Defect 17: a judge score outside [0, 1] (or non-numeric) must never be graded."""
+    """Defect 17/22: a judge score outside [0, 1] (or non-numeric) must never be graded."""
     assert P.clamp_score(0.75) == 0.75
     assert P.clamp_score(1) == 1.0
-    assert P.clamp_score(3) == 1.0, "out-of-range score is clamped, not passed through"
-    assert P.clamp_score(-0.4) == 0.0
+    assert P.clamp_score(0.0) == 0.0
+    assert P.clamp_score(3) is None, "an off-scale score is a failed read, never a coerced 1.0"
+    assert P.clamp_score(-0.4) is None, "an off-scale score is never a coerced 0.0"
     assert P.clamp_score(None) is None
     assert P.clamp_score("0.9") is None, "a stringified number is not a usable score"
     assert P.clamp_score(True) is None, "bool is an int subclass but not a judge score"
     assert P.clamp_score(float("nan")) is None
+    assert P.clamp_score(float("inf")) is None, "min(1.0, inf) is 1.0 -- a fabricated perfect grade"
+    assert P.clamp_score(float("-inf")) is None
 
 
 def _judge_stub(monkeypatch, replies):
@@ -531,11 +534,17 @@ def _judge_stub(monkeypatch, replies):
 
 
 def test_judge_node_rejects_inflated_score(monkeypatch):
-    """A `"score": 3` reply used to inflate faithful_rate past the 0.95 gate; now clamped to 1.0."""
+    """A `"score": 3` reply is an unusable read: retried, then left UNGRADED (Defect 22).
+
+    This test used to assert `out["score"] == 1.0` ("clamped"), which cemented the defect: clamping
+    `3` to a perfect `1.0` lets the judge inflate `faithful_rate` past the 0.95 P6 gate that this
+    very module names in its `clamp_score` docstring. A score off the declared scale means the read
+    failed, so the row must land in `ungraded` -- exactly like the missing-score case below.
+    """
     _judge_stub(monkeypatch, ['{"verdict": "supported", "score": 3, "why": "x"}'])
-    out = P.judge_node("spot was 5 [obs:1]", [])
-    assert out["score"] == 1.0
-    assert out["error"] is None
+    out = P.judge_node("spot was 5 [obs:1]", [], retries=2)
+    assert out["score"] is None, "an off-scale score must not be coerced into a graded 1.0"
+    assert out["error"] is not None and out["error"].startswith("bad_score"), out
 
 
 def test_judge_node_does_not_silently_grade_a_missing_score(monkeypatch):

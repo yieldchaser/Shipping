@@ -16,8 +16,15 @@ The rules, and why each is a real defect rather than a style preference:
   R3  Every config/money numeric accessor must delegate to `money.as_float`. A guard re-implemented
       per module is how `isinstance(v, (int, float))` (which accepts `bool`, so
       `pipeline_cap_usd: true` reads as a `$1` cap) got back in after the single-sourcing commit.
-      This rule pins the *delegation*, not the `isinstance` spelling: metric/token guards and
-      judge-score clamps legitimately narrow a number to a range and are not config readers.
+      This rule pins the *delegation*, not the `isinstance` spelling: metric/token guards are not
+      config readers.
+  R4  Every read of an untrusted *LLM score* (judge `score`/`supported`, analyst `CONFIDENCE`) must
+      go through `money.unit_score`, and the `max(0.0, min(1.0, ...))` clamp idiom must not appear on
+      those modules at all. The clamp is not a guard: `min(1.0, nan)` is `1.0` and `min(1.0, 3)` is
+      `1.0`, so it converts a broken or off-scale read into a *perfect* grade -- inflating exactly the
+      gates (`faithful_rate >= 0.95`, `p7_rubric mean_score >= 0.8`) it is supposed to protect. An
+      interval clamp on a confidence-interval *bound* (`p4b_run.py`) is arithmetic, not grading, so
+      that module is deliberately not listed.
 
 Scope is the money-path modules by name, not the whole tree: metric-only modules (recall, gate,
 discovery) legitimately carry raw numbers, and a scanner that flagged them would be switched off.
@@ -45,7 +52,7 @@ MONEY_MODULES = (
 # same read, so each is listed: fixing one and missing another leaves the same fabrication reachable
 # through a different caller (`float("1" + "0"*400)` is `inf`, not an exception).
 ACCESSORS: dict[str, tuple[str, ...]] = {
-    "money.py": ("as_float",),
+    "money.py": ("as_float", "unit_score"),
     "runner.py": ("pipeline_cap",),
     "p4b_run.py": ("pipeline_cap", "p4c_allowance"),
     "p4c_highvalue.py": ("bulk_budget",),
@@ -58,6 +65,16 @@ ACCESSORS: dict[str, tuple[str, ...]] = {
     "p7_report.py": ("_cap_num", "pipeline_cap"),
     "p7_eval.py": ("tolerance_of", "tolerance_or_exact"),
     "c1_review.py": ("_num",),
+}
+
+# The read of an untrusted LLM *score*. The named function must reach `money.unit_score`, and the
+# `min(1.0, min(...))` clamp idiom must not appear anywhere in the module: an off-scale or non-finite
+# grade is an unusable read (UNGRADED), never a coerced pass.
+GRADE_READERS: dict[str, tuple[str, ...]] = {
+    "p6_summary.py": ("clamp_score",),
+    "p7_rubric.py": ("clamp_score",),
+    "p7_eval.py": ("judge_faithful_cost",),
+    "p7_analyst.py": ("parse_analyst",),
 }
 
 MONEY_KEY_HINTS = ("cost", "spend", "money", "usd", "budget", "allowance", "cap", "price")
@@ -183,12 +200,57 @@ def _rule_r3(name: str, src: str) -> list[str]:
     return out
 
 
+def _rule_r4(name: str, src: str) -> list[str]:
+    """An untrusted LLM score must be read through `money.unit_score`, never range-clamped.
+
+    Two independent checks, because either alone is escapable: the named reader must reach the shared
+    guard, and the clamp idiom must not be spelled anywhere in the module (including in an unnamed
+    helper that the named reader calls).
+
+    Scoped to GRADE_READERS: a `[0, 1]` interval clamp on a confidence-interval *bound*
+    (`p4b_run.py:1140`) is arithmetic on a bound, not a read of an LLM grade, so it is not in scope.
+    """
+    if name not in GRADE_READERS:
+        return []
+    tree = ast.parse(src)
+    skip = _skip_lines(src)
+    lines = src.splitlines()
+    out: list[str] = []
+    for fn in GRADE_READERS[name]:
+        node = next((n for n in ast.walk(tree)
+                     if isinstance(n, ast.FunctionDef) and n.name == fn), None)
+        if node is None:
+            out.append(f"{name}: grade reader `{fn}` is gone - either renamed or the score is no "
+                       f"longer read through money.unit_score")
+        elif not _delegates(node, {"unit_score", "as_float"}):
+            out.append(f"{name}:{node.lineno}: grade reader `{fn}` never reaches money.unit_score - "
+                       f"a per-module score guard can re-admit the off-scale/non-finite defect")
+    for node in ast.walk(tree):
+        if not isinstance(node, ast.Call):
+            continue
+        # `min(1.0, ...)` / `max(0.0, ...)` is the clamp. `max(1.0, x)` (`p2_report`'s relative
+        # tolerance, `p4c_run`'s elapsed seconds) is arithmetic and not part of this idiom.
+        for inner in node.args:
+            if not (isinstance(inner, ast.Call) and inner.args
+                    and isinstance(inner.func, ast.Name) and inner.func.id == "min"):
+                continue
+            lo = inner.args[0]
+            if not (isinstance(lo, ast.Constant) and lo.value == 1.0):
+                continue
+            if node.lineno in skip:
+                continue
+            out.append(f"{name}:{node.lineno}: range-clamps an untrusted score instead of reading it "
+                       f"through money.unit_score: {lines[node.lineno - 1].strip()[:110]}")
+    return out
+
+
 def scan(sources: list[tuple[str, str]]) -> dict[str, list[str]]:
     """Scan named sources; split from the module list so a test can feed it a bad file."""
     return {
         "R1": [m for n, s in sources for m in _rule_r1(n, s)],
         "R2": [m for n, s in sources for m in _rule_r2(n, s)],
         "R3": [m for n, s in sources for m in _rule_r3(n, s)],
+        "R4": [m for n, s in sources for m in _rule_r4(n, s)],
     }
 
 
@@ -216,12 +278,40 @@ def test_r3_every_money_accessor_delegates_to_as_float():
     assert not _FINDINGS["R3"], "\n".join(_FINDINGS["R3"])
 
 
+def test_r4_every_untrusted_score_is_read_through_unit_score():
+    assert not _FINDINGS["R4"], "\n".join(_FINDINGS["R4"])
+
+
 def test_the_scanner_actually_sees_the_money_modules():
     """Guards against a silent pass caused by parsing nothing."""
     names = [n for n, _ in _money_sources()]
     assert "money.py" in names and "p7_report.py" in names and len(names) >= 20
     assert all(MONEY_MODULES.count(n) == 1 for n in names), "duplicate module entry"
     assert set(ACCESSORS) <= set(names), "an accessor module is missing from MONEY_MODULES"
+    assert set(GRADE_READERS) <= set(names), "a grade module is missing from MONEY_MODULES"
+    # Non-vacuity for R4: every named grade reader must actually be found in its module, so the rule
+    # cannot pass by finding no function to inspect.
+    srcs = dict(_money_sources())
+    for mod, fns in GRADE_READERS.items():
+        tree = ast.parse(srcs[mod])
+        present = {n.name for n in ast.walk(tree) if isinstance(n, ast.FunctionDef)}
+        assert set(fns) <= present, f"{mod} is missing {set(fns) - present}"
+
+
+def test_the_scanner_catches_r4_when_reintroduced():
+    """Prove R4 is load-bearing: a range clamp and a score guard that bypasses `unit_score`."""
+    clamped = ("def parse_analyst(t):\n"
+               "    out = {}\n"
+               "    out['confidence'] = max(0.0, min(1.0, float(t)))\n"
+               "    return out\n")
+    got = scan([("p7_analyst.py", clamped)])
+    assert any("range-clamps" in m for m in got["R4"]), got["R4"]
+    # A local guard that never reaches unit_score is caught by the delegation half, not the idiom half.
+    local = ("def clamp_score(v):\n"
+             "    import math\n"
+             "    return float(v) if math.isfinite(float(v)) else None\n")
+    got2 = scan([("p6_summary.py", local)])
+    assert any("never reaches money.unit_score" in m for m in got2["R4"]), got2["R4"]
 
 
 def test_the_scanner_catches_each_rule_when_reintroduced():
@@ -256,6 +346,6 @@ def test_the_scanner_ignores_prose_and_exact_renders():
         'm = isinstance(cap, float)  # not a config read: narrows to a type\n'
     )
     got = scan([("okmod.py", ok)])
-    assert got == {"R1": [], "R2": [], "R3": []}, got
+    assert got == {"R1": [], "R2": [], "R3": [], "R4": []}, got
     assert scan([("money.py", KB.joinpath("money.py").read_text(encoding="utf-8"))]) == {
-        "R1": [], "R2": [], "R3": []}
+        "R1": [], "R2": [], "R3": [], "R4": []}

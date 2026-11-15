@@ -40,6 +40,29 @@ def as_float(v) -> float | None:
     return None if f != f or f in (float("inf"), float("-inf")) else f
 
 
+def unit_score(v) -> float | None:
+    """A judge/analyst score on the prompt-declared `[0.0, 1.0]` scale, or `None` if unusable.
+
+    Defect 22 (Defect-17 class, grade side): `max(0.0, min(1.0, value))` is not a guard, it is a
+    *fabrication*. Three modules read an untrusted LLM score this way, and the clamp converted an
+    out-of-scale answer into a usable one:
+
+        "score": 3      -> 1.0   (a perfect grade the judge never gave)
+        "score": -0.4   -> 0.0   (a graded failure the judge never gave)
+        "score": nan    -> 1.0   (`min(1.0, nan)` is 1.0, so a broken read scored perfect)
+
+    `p6_summary`'s docstring already describes the attack ("`\"score\": 3` inflate `faithful_rate`
+    past the 0.95 P6 gate") and `p7_rubric`/`p7_eval` already document "outside [0, 1] is not
+    graded" - all three bodies contradicted the contract they stated. An off-scale answer means the
+    read failed, so the honest report is UNGRADED, never a coerced pass.
+
+        None / bool / str / NaN / inf / <0 / >1 -> None   (unusable: ungraded, never 0.0 or 1.0)
+        real float in [0.0, 1.0]                -> float
+    """
+    f = as_float(v)
+    return None if f is None or not 0.0 <= f <= 1.0 else f
+
+
 def fmt_usd(v, places: int = 4, unmeasured: str = "UNMEASURED") -> str:
     """Render a spend amount without ever flattening a nonzero value to `$0.0000`.
 

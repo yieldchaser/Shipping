@@ -27,6 +27,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import ask as A  # noqa: E402
 import llm_runner as LR  # noqa: E402
+import money as M  # noqa: E402
 import tools as T  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -390,8 +391,11 @@ def parse_analyst(text: str) -> dict:
             cur = head
             val = line.split(":", 1)[1].strip() if ":" in line else ""
             if cur == "confidence":
+                # Defect 22: `max(0.0, min(1.0, ...))` coerced an off-scale CONFIDENCE into a usable
+                # one and, because `min(1.0, nan)` is 1.0, silently scored a non-finite read as
+                # maximum confidence. Out-of-scale means the read failed -> ungraded (`None`).
                 try:
-                    out["confidence"] = max(0.0, min(1.0, float(val.split()[0])))
+                    out["confidence"] = M.unit_score(float(val.split()[0]))
                 except (ValueError, IndexError):
                     out["confidence"] = None
             else:

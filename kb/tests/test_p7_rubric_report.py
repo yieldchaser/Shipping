@@ -85,36 +85,44 @@ def test_clamp_score_rejects_unusable_judge_scores():
     """An LLM-provided score is untrusted input; only numbers inside [0, 1] are usable."""
     assert R.clamp_score(0.9) == 0.9
     assert R.clamp_score(1) == 1.0
-    assert R.clamp_score(3) == 1.0, "out-of-range score is clamped, not passed through"
-    assert R.clamp_score(-2) == 0.0
+    assert R.clamp_score(0.0) == 0.0
+    assert R.clamp_score(3) is None, "an off-scale score is a failed read, never a coerced 1.0"
+    assert R.clamp_score(-2) is None, "an off-scale score is never a coerced 0.0"
     assert R.clamp_score(None) is None
     assert R.clamp_score("0.9") is None, "a stringified number is not a usable score"
     assert R.clamp_score(True) is None, "bool is an int subclass but not a score"
     assert R.clamp_score(float("nan")) is None
+    assert R.clamp_score(float("inf")) is None, "min(1.0, inf) is 1.0 -- a fabricated maximum"
+    assert R.clamp_score(float("-inf")) is None
 
 
 def test_rubric_fields_clamps_every_field():
     got = R.rubric_fields({"facts_cited": 5, "indicators_correct": "1.0",
                            "judgment_reasoned": 0.4, "counter_argument_present": True,
                            "score": 99})
-    assert got["facts_cited"] == 1.0
+    assert got["facts_cited"] is None, "off-scale field is a failed read, not a coerced 1.0"
     assert got["indicators_correct"] is None
     assert got["counter_argument_present"] is None
-    assert got["score"] == 1.0, "judge score must be clamped into [0, 1]"
+    assert got["judgment_reasoned"] == 0.4
+    # `score` is unusable, so it falls back to the mean of the fields that *were* readable -- never
+    # to a coerced 1.0 (Defect 22).
+    assert got["score"] == 0.4, "unusable judge score falls back to readable fields only"
     assert not isinstance(got["score"], bool)
 
 
 def test_run_does_not_let_an_out_of_range_score_pass_the_gate(monkeypatch):
-    """Defect 17: `"score": 3` used to raise mean_score above TARGET and flip PASS on its own."""
+    """Defect 17/22: `"score": 3` used to be clamped to 1.0 and flip PASS on its own."""
     monkeypatch.setattr(R.PA, "analyse", lambda *a, **k: ok_rec())
     monkeypatch.setattr(R.PA, "judge_answer_cost",
                         lambda *a, **k: ({"facts_cited": 3, "indicators_correct": 3,
                                           "judgment_reasoned": 3, "counter_argument_present": 3,
                                           "score": 3}, 0.0))
     rep = R.run(con=DummyCon())
-    assert rep["counts"]["graded"] == 30
-    assert rep["mean_score"] == 1.0, "clamped, so no score can exceed the scale"
-    assert rep["field_means"]["facts_cited"] == 1.0
+    # Every field is off the declared scale, so nothing was actually graded: the honest report is
+    # UNGRADED, which must not be able to read as a PASS.
+    assert rep["counts"]["graded"] == 0
+    assert rep["mean_score"] is None
+    assert rep["field_means"]["facts_cited"] is None
 
 
 def test_run_marks_an_unusable_judge_verdict_ungraded(monkeypatch):

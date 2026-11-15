@@ -924,17 +924,42 @@ Found while reviewing the P6/P7 chain hardening after Defect 16, *before* either
 
 | change | file | effect |
 |---|---|---|
-| `clamp_score(value)` | `p7_rubric.py`, `p6_summary.py` | rejects `bool` first, rejects non-numerics and NaN, clamps to `[0.0, 1.0]`; `None` means *unusable*, never zero |
-| `rubric_fields` clamps every field + `score` | `p7_rubric.py` | a `3` is `1.0`; a `"0.9"` is ungraded; field-mean fallback only when `score` alone is unusable |
+| `clamp_score(value)` | `p7_rubric.py`, `p6_summary.py` | one thin wrapper over `money.unit_score`: rejects `bool`, non-numerics, NaN/±inf; an off-scale value (`3`, `-0.4`) is **unusable ⇒ `None`/ungraded, never clamped**; `None` means *unusable*, never zero |
+| `rubric_fields` guards every field + `score` | `p7_rubric.py` | a `3` is ungraded (not `1.0`); a `"0.9"` is ungraded; field-mean fallback only when `score` alone is unusable |
 | `judge_node` retries then falls back on a bad score | `p6_summary.py` | `bad_score:<repr>` → retry, then `JUDGE_FALLBACK_MODEL`; exhausted ⇒ `error` set and the row is **ungraded** |
 | `counts.ungraded_ok`, `judge_error`, `balanced`, `buckets_sum` | `p7_rubric.py` | `graded + ungraded_ok + not_enough_data + not_in_data + malformed + error == questions`; `pass` now requires `balanced` and `ungraded_ok == 0` |
 | `run_judge` returns `ungraded`/`ungraded_rate` | `p6_summary.py` | a `None` score is no longer counted as graded |
 | `gate_passed` requires `not judge_ungraded` | `p6_summary.py` | one ungraded sample blocks the §13 faithfulness gate |
 | `phase_spend_usd()` | `p6_summary.py` | `runner.spent(passes=["p6_summary","p6_judge"])`; unreadable ledger ⇒ `None` ⇒ report prints `UNMEASURED`, never `$0.0000` |
 
-Regression tests: 7 in `kb/tests/test_p6_summary.py` and 6 in `kb/tests/test_p7_rubric_report.py` — clamp edges (`3`, `-2`, `"0.9"`, `True`, `nan`, `None`), a whole-verdict-unusable row, the documented field-mean fallback (`score: "0.9"` ⇒ `0.925`), bucket-sum invariant over five mixed statuses, judge-error accounting, an ungraded row blocking the P6 gate, and `spend_usd` proving non-zero *and* `None`-not-`0.0` when the ledger is unreadable.
+Regression tests: 7 in `kb/tests/test_p6_summary.py` and 6 in `kb/tests/test_p7_rubric_report.py` — unusable-value edges (`3`, `-2`, `"0.9"`, `True`, `nan`, `None`, now asserted `None` rather than clamped; see **Defect 22**), a whole-verdict-unusable row, the documented field-mean fallback, bucket-sum invariant over five mixed statuses, judge-error accounting, an ungraded row blocking the P6 gate, and `spend_usd` proving non-zero *and* `None`-not-`0.0` when the ledger is unreadable.
 
 *Lesson (61).* A model-provided score is untrusted input and belongs behind the same validation as any other external field: a missing score coerced to `0.0` and an inflated score accepted at face value are the same bug — the gate cannot tell "the judge said no" from "the judge never answered". Corollary: a report whose buckets do not sum to its sample size is not a report; make the invariant explicit in the code and assert it in a test. Second corollary: a hardcoded `0.0` cost on a pass that has since moved to a paid route hides real spend from the budget gate — spend must always be *measured* or *explicitly unmeasured*.
+
+### Defect 22 — the Defect-17 fix was itself a clamp, so `3` and `NaN` both graded as a perfect `1.0` (FIXED, 2026-11-15)
+
+Found during the P6/P7 chain hardening sweep (owner-resumed run, item 3), by asking the second half of the Defect-17 question of the *fix*: not "is a real grade dropped?" but **"is a grade invented when the read fails?"** The Defect-17 remedy had been written as `max(0.0, min(1.0, value))` in four places. That is not validation, it is coercion, and it manufactured a passing grade out of two different failures.
+
+*The clamp is not a guard.* Arithmetic, verified live in the interpreter:
+
+| judge/analyst says | `max(0.0, min(1.0, v))` | what the gate read |
+|---|---|---|
+| `3` | `1.0` | a **perfect** grade the judge never gave |
+| `-0.4` | `0.0` | a measured failure the judge never gave |
+| `nan` | `1.0` | `min(1.0, nan)` is `1.0` — a broken read scored perfect |
+| `inf` / `-inf` | `1.0` / `0.0` | a non-finite read scored maximum / minimum |
+
+`float("nan")` and `float("inf")` do not raise, so the surrounding `except (ValueError, IndexError)` never fired and nothing was logged. The consequence is on the two live gates, not on an abstraction: a single `{"score": 3}` reply inflates `faithful_rate` on the §13 P6 gate (target ≥ 0.95 over 60 nodes) and `mean_score` on the §12 P7 rubric (target ≥ 0.8). The judge could again pass its own homework — the exact outcome Defect 17 was opened to stop.
+
+*The code contradicted its own docstring.* `p6_summary.clamp_score`'s docstring already named the attack in the words `"score": 3` inflates `faithful_rate` past the 0.95 gate, while the body coerced that same `3` to `1.0`; `p7_rubric`/`p7_eval` likewise already documented "outside `[0, 1]` is not graded" while grading it. Worse, **four existing passing pins encoded the defect**: `test_clamp_score_*` asserted `clamp_score(3) == 1.0`, and `test_run_does_not_let_an_out_of_range_score_pass_the_gate` asserted `graded == 30` / `mean_score == 1.0` — a test written to prevent the failure had been written to require it. Those pins are now rewritten to assert `None` and, where every field is off-scale, `graded == 0` / `mean_score is None`.
+
+*Fix — one implementation of the grade-scale rule.* `money.unit_score(v) -> float | None` joins `money.as_float` as the single authored source: `bool`/`str`/`None`/NaN/±inf is `None`, a real float inside `[0.0, 1.0]` is returned, and a value outside the declared scale is `None` — ungraded, never clamped. `p6_summary.clamp_score`, `p7_rubric.clamp_score`, `p7_eval.judge_faithful_cost` and `p7_analyst`'s `CONFIDENCE` arm are now thin delegations. The P6 retry loop then does the right thing for free: `None` ⇒ `bad_score:<repr>` ⇒ retry on `JUDGE_FALLBACK_MODEL` ⇒ remains ungraded if exhausted, so an off-scale reply is *visible* instead of absorbed.
+
+*Scanner rule R4* (`kb/tests/test_money_invariants.py`) keeps it single-sourced: each named grade reader must reach `money.unit_score`, and the `max(0.0, min(1.0, …))` idiom must not be spelled anywhere in a grade module. Both halves are proven load-bearing by a reintroduction probe (a clamp hit and a local-`math.isfinite` hit), and `unit_score` itself is registered in `ACCESSORS ∪ R3`, so it must reach `as_float`. Scope is the four grade modules by name: the `[0, 1]` clamp on a confidence-interval *bound* (`p4b_run.py:1140`) is interval arithmetic on a bound, not a grade, and is deliberately not flagged.
+
+*Mutation proof.* Reverting `unit_score` to the clamp idiom ⇒ `7 failed, 132 passed in 35.01s` across `test_p6_summary.py`, `test_p7_rubric_report.py`, `test_p7_eval.py`, `test_p7_analyst.py` (`AssertionError: an off-scale score is a failed read, never a coerced 1.0` / `assert 1.0 is None`, and `assert 30 == 0` for the every-field-off-scale gate pin); restored byte-identical (`sha256 kb/money.py` → `dd7996a8679f`, unchanged across the revert).
+
+*Lesson (71).* **A clamp is a coercion, and coercing a failed read into range is the same fabrication class as coercing it to `0.0`.** The Defect-17 sweep asked whether a real measurement was being *dropped*; it did not ask whether a fabricated one was being *invented* by the guard itself, so the fix passed its own review while re-opening the defect in the opposite direction. When a "validation" helper's body contains `min`/`max` against a hardcoded bound, ask what an out-of-range input *means*: for an untrusted grade it means the read failed, so the honest answer is `None`/ungraded. Corollary: `min(1.0, nan)` is `1.0`, so a non-finite arm can pass a `<= 1.0` pin unnoticed — test the non-finite cases explicitly, and do not let a bool-first loop mask them.
 
 ### Defect 15b — P7's spend went to a JSONL call log and never reached the ledger, so the paid P7 phase was invisible to the §7.5 cap (2026-11-15)
 

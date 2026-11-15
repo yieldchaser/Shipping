@@ -88,16 +88,13 @@ def clamp_score(value) -> float | None:
     Defect 17 (same class as Defect 16): the judge is an LLM, so its `score` field is untrusted
     input. Accepting it verbatim let `"score": 3` inflate `faithful_rate` past the 0.95 P6 gate and
     let a missing/garbage score be coerced to a plausible-looking 0.0 that still counted as graded.
+
+    Defect 22: this docstring described the contract the body did not keep. `max(0.0, min(1.0, x))`
+    coerced `3` to a perfect `1.0` (inflating the very gate named above), `-0.4` to `0.0`, and
+    `nan` to `1.0` (`min(1.0, nan)` is `1.0`). An off-scale or non-finite answer is a failed read,
+    so it is UNGRADED -- `money.unit_score` is now the one implementation of that rule.
     """
-    if isinstance(value, bool) or not isinstance(value, (int, float)):
-        return None
-    try:
-        value = float(value)
-    except (TypeError, ValueError):  # pragma: no cover - float() of a number cannot fail
-        return None
-    if value != value:  # NaN
-        return None
-    return max(0.0, min(1.0, value))
+    return M.unit_score(value)
 
 
 # plan §8 segments, plus `company:<ticker>` nodes (quarterly)

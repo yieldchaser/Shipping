@@ -91,18 +91,14 @@ def clamp_score(value) -> float | None:
 
     Defect 17: `rubric_fields` used to accept the judge's `score` unchanged. The judge is an LLM:
     a reply of `"score": 3` (or `"score": "0.9"`) would have entered `mean_score` unvalidated and
-    pushed a run past `TARGET = 0.8` with no question actually graded well. `p7_eval.judge_faithful`
-    already clamps; this is the same contract.
+    pushed a run past `TARGET = 0.8` with no question actually graded well.
+
+    Defect 22: the body kept neither half of that promise -- `max(0.0, min(1.0, 3))` is a coerced
+    perfect `1.0`, and `min(1.0, nan)` is also `1.0`, so a non-finite read scored maximum. This is
+    the same fabrication as coercing a failed spend read to `0.0`, so it goes through the one shared
+    guard, `money.unit_score`.
     """
-    if isinstance(value, bool) or not isinstance(value, (int, float)):
-        return None
-    try:
-        value = float(value)
-    except (TypeError, ValueError):  # pragma: no cover - float() of a number cannot fail
-        return None
-    if value != value:  # NaN
-        return None
-    return max(0.0, min(1.0, value))
+    return M.unit_score(value)
 
 
 def rubric_fields(judged: dict) -> dict:

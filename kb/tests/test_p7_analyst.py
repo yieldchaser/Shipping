@@ -209,6 +209,23 @@ def test_parse_analyst_sections_and_channel():
     assert P.parse_analyst("NOT_ENOUGH_DATA")["status"] == "not_enough_data"
 
 
+def test_parse_analyst_rejects_an_off_scale_confidence():
+    """Defect 22: the prompt declares `CONFIDENCE: <0-1>`, so an off-scale read is a failed read.
+
+    `max(0.0, min(1.0, ...))` coerced `CONFIDENCE: 3` to 1.0 and `CONFIDENCE: nan` to 1.0
+    (`min(1.0, nan)` is 1.0), and neither raised, so the `except (ValueError, IndexError)` arm never
+    fired. Unusable confidence -> `None` -> the record is `malformed`, never a confident answer.
+    """
+    for bad in ("3", "-0.4", "nan", "inf", "-inf", "1e400"):
+        txt = GOOD.replace("CONFIDENCE: 0.6", f"CONFIDENCE: {bad}")
+        parsed = P.parse_analyst(txt)
+        assert parsed["confidence"] is None, bad
+        assert parsed["status"] == "malformed", bad
+    # A genuine edge of the declared scale stays usable.
+    assert P.parse_analyst(GOOD.replace("CONFIDENCE: 0.6", "CONFIDENCE: 1.0"))["confidence"] == 1.0
+    assert P.parse_analyst(GOOD.replace("CONFIDENCE: 0.6", "CONFIDENCE: 0.0"))["confidence"] == 0.0
+
+
 def test_check_analyst_drops_uncited_and_bad_numbers():
     parsed = P.parse_analyst(GOOD)
     parsed["sentences"].append({"part": "facts", "sentence": "Rates hit 99999 usd/day [cite:obs:160]."})

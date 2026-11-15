@@ -308,10 +308,14 @@ def judge_faithful_cost(rec: dict, chat=None) -> tuple[float | None, float | Non
         rec["judge_error"] = "bad_score:missing 'supported'"
         return None, cost
     val = payload["supported"]
-    if isinstance(val, bool) or not isinstance(val, (int, float)):
+    # Defect 22: the key being present is not enough if its value is off the prompt-declared scale.
+    # `max(0.0, min(1.0, val))` coerced `{"supported": 3}` into a perfect 1.0 and `nan` into 1.0
+    # (`min(1.0, nan)` is 1.0), i.e. a fabricated maximum on the `faithfulness >= 0.95` path.
+    score = M.unit_score(val)
+    if score is None:
         rec["judge_error"] = f"bad_score:{val!r}"
         return None, cost
-    return max(0.0, min(1.0, float(val))), cost
+    return score, cost
 
 
 # --------------------------------------------------------------------------- run

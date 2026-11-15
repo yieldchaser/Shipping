@@ -127,6 +127,22 @@ def test_judge_faithful_parses_json():
     assert E.judge_faithful({"evidence": []}, chat=_chat(['{"supported": 1.0}'])) == 0.0
 
 
+def test_judge_faithful_rejects_an_off_scale_score():
+    """Defect 22: the prompt declares `supported` in [0, 1]; a value off that scale is a failed read.
+
+    The old `max(0.0, min(1.0, val))` coerced `{"supported": 3}` into a perfect 1.0 and `nan` into
+    1.0 (`min(1.0, nan)` is 1.0) -- a fabricated maximum on the `faithfulness >= 0.95` path. Both
+    must be UNGRADED (`None`) with `judge_error` set, like the missing-key case.
+    """
+    rec = {"question": "q", "answer": "a", "evidence": ["quote 1"], "sentences": []}
+    for bad in (3, -0.4, "0.9", True, float("nan"), float("inf"), float("-inf")):
+        out = dict(rec)
+        assert E.judge_faithful(out, chat=_chat([json.dumps({"supported": bad})])) is None, bad
+        assert out["judge_error"].startswith("bad_score"), (bad, out["judge_error"])
+    # The floor stays a real measured zero, not an unusable read.
+    assert E.judge_faithful(rec, chat=_chat(['{"supported": 0.0}'])) == 0.0
+
+
 def test_cite_evidence_collects_quotes():
     rec = {"evidence": ["e1"], "sentences": [{"quote": "q1"}, {"quote": "q2"}]}
     txt = E.cite_evidence(rec)
