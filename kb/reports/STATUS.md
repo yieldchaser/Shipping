@@ -14,7 +14,7 @@ Live run status. Real spend read from `http://127.0.0.1:4100/stats`.
 | P4a | done | PASS (**recall@20 0.900** ≥ 0.85, 180/200; fused-only pre-rerank 0.815; $0 spend) | commit (this phase) |
 | gold | done | PASS (250/250 items, all 8 strata on target, 250/250 re-verified from DB, seed 2888775339, $0) | commit (this phase) |
 | P4b | done | **PASS** (120 gold chunks / 29 packed calls; chosen `deepseek-v4.1-flash-1017-ultrafast` P 0.922 R 0.536 F1 0.678; 5/5 `gates.yaml` rows pass; $4.75 total) | checkpoint C1 now |
-| P4c |  **running** (AMD Token Lab bulk pass, resumable daemon; **19,579 of 24,978 packs key-exact = 78.38%**, measured 2026-11-15 17:03 local, `runner.spent()` $24.4425 of $82; restarted itself after the 04:19 power loss) | — | owner amendment 2026-11-13 (Amendment 1 in `C1_APPROVED.md`): bulk extractor moved off congested Ultrafast to the **8-account AMD Token Lab pool** (`DeepSeek-V4.1-Flash`, fallback `DeepSeek-V4-Flash`). AMD is **paid**, not free: measured $0.28/M in, $0.0056/M cached, $0.56/M out = $0.00134/accepted pack ⇒ ~$31.5 for the remaining packs, booked at $31.25. Transport parity vs P4b scorer PASS at 0.92. Then union → precision gate → escalation ladder ($11, D12 cap-prioritised) → audit/recall/report. Gleaning and the glm-5.3 second extractor are booked at $0 and deferred to a post-C2 owner decision. Judge for the upcoming P6/P7 work is Google `Gemma-4-31B-IT` on AMD Token Lab (Amendment 10, replacing NIM); its fenced reply format is handled by the Defect 16 fix |
+| P4c |  **running** (AMD Token Lab bulk pass, resumable daemon; **19,784 of 24,978 packs key-exact = 79.21%**, measured 2026-11-15 17:27 local, `runner.spent()` $24.6294 of $82; restarted itself after the 04:19 power loss) | — | owner amendment 2026-11-13 (Amendment 1 in `C1_APPROVED.md`): bulk extractor moved off congested Ultrafast to the **8-account AMD Token Lab pool** (`DeepSeek-V4.1-Flash`, fallback `DeepSeek-V4-Flash`). AMD is **paid**, not free: measured $0.28/M in, $0.0056/M cached, $0.56/M out = $0.00134/accepted pack ⇒ ~$31.5 for the remaining packs, booked at $31.25. Transport parity vs P4b scorer PASS at 0.92. Then union → precision gate → escalation ladder ($11, D12 cap-prioritised) → audit/recall/report. Gleaning and the glm-5.3 second extractor are booked at $0 and deferred to a post-C2 owner decision. Judge for the upcoming P6/P7 work is Google `Gemma-4-31B-IT` on AMD Token Lab (Amendment 10, replacing NIM); its fenced reply format is handled by the Defect 16 fix |
 | P5 | scaffolded (code + 20 tests, `5e720111cb` chain) | — | gated on P4c PASS; tables `edge`/`event`/`record_txn` still empty |
 | P6 | scaffolded (code + 28 tests) | — | gated on P5 |
 | P7 | scaffolded (tools/ask/eval/analyst/discovery/rubric/report, 98 tests, `edc962ad70`) | — | gated on P5+P6; checkpoint C2 after |
@@ -37,10 +37,10 @@ quota 0/day`. Live fleet after resume: supervisor `pythonw.exe` **PID 22400**, d
 `pythonw.exe` **PID 7620**.
 
 Resume measurement (2026-11-15, `kb/_t_prog2.py`, zero spend): key-exact
-`p4c_run.done_packs("p4c_bulk", "DeepSeek-V4.1-Flash", "tools")` = **19,579 / 24,978 = 78.38%**,
-`runner.spent()` = **$24.4425** of $82, ledger `max(created_at)` = `2026-11-15T17:03:03` (re-measured
-2026-11-15 17:0x local, after the Defect-19 `ask` cost fix). (Earlier resume readings in this block were
-18,765 / 75.13% at 15:49 and 15,367 / 61.5% on a snapshot probe; both were re-measured with the
+`p4c_run.done_packs("p4c_bulk", "DeepSeek-V4.1-Flash", "tools")` = **19,784 / 24,978 = 79.21%**,
+`runner.spent()` = **$24.6294** of $82, ledger `max(created_at)` = `2026-11-15T17:27:37` (re-measured
+2026-11-15 17:27 local, after the Defect-19 `ask` cost fix). (Earlier resume readings in this block were
+19,579 / 78.38% at 17:03, 18,765 / 75.13% at 15:49 and 15,367 / 61.5% on a snapshot probe; all were re-measured with the
 authoritative counter, and `kb/_t_prog2.py` deliberately re-reads the live ledger so this file cannot
 drift silently uphill of the daemon.) Two gotchas this reading flushed out, both worth keeping:
 `mode` is the **transport** mode from `kb/state/p4c/modes.json` (`"tools"` for
@@ -76,15 +76,26 @@ adjudication $0.053. Free tiers (Ultrafast, NIM) carried 1,464 of the 2,240 call
 Gateway `/stats` after P4b: enclave (agent spine) $66.04/66.00 unchanged -- no paid agent calls;
 Ultrafast output today 1,268,319/4,800,000 tokens.
 
-Live pipeline spend 2026-11-15 14:26 local (bulk daemon live, so this drifts upward): read it from the
-ledger, not from this file — `kb/state/ledger.sqlite` is the authority (sum `cost_usd` over all passes,
-or the query in the AMD amendment section below). The measurement above and at every later edit:
-**$22.9656** ledger-measured by `runner.spent()` (`p4c_bulk`/`DeepSeek-V4.1-Flash` **$18.0029** of it,
+Live pipeline spend re-measured 2026-11-15 17:27 local (bulk daemon live, so this drifts upward; read it
+from the ledger, not from this file — `kb/state/ledger.sqlite` is the authority (sum `cost_usd` over all
+passes, or the query in the AMD amendment section below): **$24.6294** ledger-measured by `runner.spent()`,
+`max(created_at)` `2026-11-15T17:27:37`, 26,382 `jobs` rows — i.e. **≈$57.37 left of the $82 cap**. The
+breakdown below is the 14:26 snapshot that first itemised the passes (`p4c_bulk`/`DeepSeek-V4.1-Flash`
+**$18.0029** of it,
 plus the completed P4b rows `p4b_ref` $3.1140 / `p4b_ref_sup` $0.8608 / `p4b_cand` $0.6081 /
 `p4b_cand_sup` $0.1187 / `p4b_adj` $0.0527, `p4c_bulk_retry` $0.1227, `p4c_retry_smoke` $0.0542,
 `p4c_parity` $0.0137, `p4c_esc_preflight` $0.0111, `p4c_parity_real` $0.0067, `p4c_glean` $0.0,
-`p4c_dry` $0.0; measured by `kb/_t_passes.py` at 14:26 local, `SUM(cost_usd)` over the `jobs` table);
-against the $82 cap that leaves **≈$59.03**. The ladder's `--cap 11` is a *booking* limit for escalation, not
+`p4c_dry` $0.0; measured by `kb/_t_passes.py` at 14:26 local, `SUM(cost_usd)` over the `jobs` table).
+**Known unbooked spend** (measured, not omitted): the transport probe `p4b_run.detect_mode` /
+`kb/p4c_preflight.py` and `kb/router_probe.py` call `LR.chat` without a ledger row — **$0.013821** over
+119 calls, summed from the provider-reported `usage.cost` cached in `kb/state/raw/router_probe/**`, i.e.
+0.02% of the $82 cap; the legacy NIM judges in `p3_report`/`p3_resolve` likewise discard `usage`, but the
+`nim` provider is `kind: free` (`price_in: 0.0`), so the discarded quantity is 0.0 by construction. Both
+are documented rather than patched (see "Defect-19 sweep closed"), so the ledger figure below remains
+authoritative for everything the pipeline books and these two add ~$0.014 on top.
+
+Against the $82 cap that leaves **≈$57.37** at the 17:27 measurement ($59.03 at the 14:26 snapshot;
+quoted from the live ledger each time, not extrapolated). The ladder's `--cap 11` is a *booking* limit for escalation, not
 the pipeline cap. P6's writer is paid (Defect 14): since the fix its cost is booked through
 `runner.cost_usd()`, so this sum now includes P6 — and from Amendment 10 the **P7 judge is paid too**
 (`Gemma-4-31B-IT`, 0.035/0.07 per 1M with a 0.0007 cached rate), priced through the same function.
@@ -932,7 +943,45 @@ Regression tests: 2 new in `kb/tests/test_p7_eval.py` — a judged run with a pr
 
 *Same defect, aggregate-report half.* `p7_analyst.run_backtest` kept a correct `cost_usd` on every row but returned no total, so a 20-date backtest reported its hit rate and hid what it cost — the same "the number exists but nothing surfaces it" shape as `p7_eval`/`p7_rubric` before their fixes. Report now carries `spend_usd` = the sum of its own row costs, with a test asserting it equals `sum(r["cost_usd"] for r in rows)` and not just a plausible positive number. Suite **443 passed**. `analyse` was already correct (`cost += c` across the attempt loop, covering the escalation) and was left alone.
 
+### Defect-19 sweep closed — every remaining paid-call site audited (2026-11-15)
 
+Defect 19 was originally written up as three sites, but its *shape* ("a paid call's cost is returned and
+then discarded, replaced, or never surfaced") is a **role**, not a file. Every implementation of that
+role was therefore enumerated rather than assumed: `git ls-files kb` → every non-test module matching
+`chat(`. That is `ask.py`, `llm_runner.py`, `p3_report.py`, `p3_resolve.py`, `p4b_run.py`,
+`p6_summary.py`, `p7_analyst.py`, `p7_eval.py`, `runner.py` — plus the scratch probes, which are
+deleted at gate time and never gate anything.
+
+Clean, each verified against the source rather than inferred from a green suite:
+
+- **`p7_report.spend_usd()`** sums the whole `jobs` table (`kb/p7_report.py` L47-56), so it is already
+  judge-inclusive and ledger-authoritative; it cannot under-report a new P7 pass the way
+  `p7_eval`/`p7_rubric` did, because it is not per-pass at all.
+- **`p7_discovery`** makes zero model calls (header: "statistics only, no model calls") — nothing to book.
+- **`p6_summary`** books both roles through `_log` on **per-paid-attempt** keys (`p6:{nid}`, `#a{n}`;
+  `p6judge:` + hash of `[active, msgs, attempt]`) and reports `phase_spend_usd()` from `R.spent`.
+- **`p4c_report.cost()`** is ledger-derived per pass; **`p4c_run`/`p4c_audit`** book only via
+  `Runner.run`/`_record`; **`p4c_ladder`/`p4c_highvalue`** sum *plan-time tier estimates*, never real
+  spend, so there is no cost to drop.
+- **`p7_analyst.analyse`/`judge_answer_cost`/`run_backtest`** and **`p6_summary.judge_node`** accumulate
+  across the fallback-model retry.
+
+Two sites are **not defects and were deliberately left unchanged**:
+
+1. **`p4b_run.detect_mode` / `kb/p4c_preflight.py`** calls `LR.chat` directly and never books, so the
+   transport preflight's real spend is invisible to `runner.spent()`. Measured, it is **$0.013821** over
+   119 probe calls (sum of provider-reported `usage.cost` across `kb/state/raw/router_probe/**`) —
+   0.02% of the $82 cap. It is a one-shot transport probe with no pass identity, and the fix would mean
+   inventing a ledger pass whose only effect is to move a 1.4-cent line inside a 0.02% band.
+2. **`p3_report`/`p3_resolve` NIM judges** discard `usage`. They run on the `kind: free` `nim` provider
+   (`config.yaml` L84-105, `price_in: 0.0`), i.e. the discarded quantity is priced 0.0 by
+   construction, and they are NIM-era code outside the owner's Gemma-judge amendment.
+
+Both are recorded as **known unbooked spend**, not silently omitted: the ledger is authoritative for
+everything the pipeline books ($24.59 of $82 as of this writing), and these two add ~$0.014 on top.
+Patching either mid-drain would restart nothing but would still touch a live code path for no gate
+effect, so the change is deferred to the P4c/P5 gate window where the working tree is already being
+frozen and re-tested. Suite remains **443 passed**; no code changed in this sweep.
 
 **Defect 3 — fatal interpreter abort.** The daemon died at 09:56:12 with
 `Fatal Python error: PyEval_SaveThread: ... the GIL is released (the current Python thread state is
