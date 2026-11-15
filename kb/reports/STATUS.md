@@ -1500,3 +1500,17 @@ calls, so this is spine spend accumulated across P0→P1. Flagged, not silently 
 - `origin/main` advanced while P4b ran (daily data commits); merged `origin/main` into `kb-build`
   (`581b92fe7a`) before the gate so tripwire compares clean again. The 3 dirty `data/ffa_live/*`
   refresh artifacts were restored to HEAD before the merge (regenerated upstream, not agent edits).
+- **Recurring tripwire trap: the scheduled task `ShippingFleetSync` (daily, `StartBoundary`
+  10:00 local) rewrites protected `data/` in the working tree while it runs.** On 2026-11-15 it made
+  `data/geospatial/history/ais_positions_2026_11.parquet` plus four
+  `signal_live_fleet_positions_*.json` dirty (mtimes 10:02-10:03), and `python kb\tripwire.py` then
+  reported `TRIPWIRE FAILED` on five protected paths. This is **not** an agent edit and **not** an
+  upstream advance: `git merge-base --is-ancestor origin/main HEAD` was already true and
+  `git diff --name-status origin/main HEAD -- data/geospatial` was empty — the dirt was
+  working-tree-only. Remedy: wait for the task to leave `Running` (`Get-ScheduledTaskInfo` →
+  `LastTaskResult 0`), then `git checkout -- data/geospatial`, then re-run tripwire. Do **not** commit
+  or `git add` protected paths, and do not treat the failure as an upstream advance needing a merge.
+  Consequence: run the gate's tripwire step *after* 10:05 local, or after this task settles, and never
+  chain `tripwire.py; git commit` in one shell line — `tripwire.py` returning 1 does not stop a
+  subsequent `git commit` unless the exit code is checked explicitly (learned by violating it: the
+  STATUS commit `5ff5a3f3ed` was created while tripwire was red, though its own content was clean).
