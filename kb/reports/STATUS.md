@@ -909,6 +909,16 @@ Two live `judge_node` calls on the same summary therefore produced **one** `p6_j
 
 *Lesson (63).* `ON CONFLICT DO UPDATE` on a deterministic key is a *content* upsert: correct for a cache, silently destructive for a cost ledger. When a call can be retried, fall back to another model, or re-run, the key must carry the invoice's identity (model + attempt + payload), not the request's hash — otherwise the phase's own error handling deletes the evidence that it spent money.
 
+### Defect 19 — `p7_eval`'s report summed only the answer costs, so a judged run hid every judge dollar (2026-11-15)
+
+`kb/p7_eval.judge_faithful` called the cross-family judge and threw the returned cost away (`text, _usage, _cost = chat(...)`), and `evaluate` built `money_spent_usd` from `sum(r["cost_usd"] for r in records)` — answer calls only. On the paid AMD route the judged P7 run therefore printed a spend that omitted the entire P6/P7 judge line, while the ledger (correctly) held it. Third instance of the same accounting class as Defects 15b and 18, all found by comparing a phase's own report against `runner.spent()`.
+
+*Fix.* Split the judge into `judge_faithful_cost(rec, chat=...) -> (score, cost_usd)`, keeping `judge_faithful(rec, chat=...) -> float` as the score-only wrapper so every existing caller and test is unchanged. `judge_faithful_cost` accumulates the cost of both the primary and the fallback attempt, returns `0.0` score *and* `0.0` cost when there is no evidence (no call is made) or when the call raises, and still parses fenced JSON via `LR.parse_json_object` (Defect 16). `evaluate` accumulates into `judge_cost`, folds it into `money_spent_usd`, and exposes it separately as `judge_cost_usd` so the judge line is auditable on its own. Cost attribution in the record itself is unchanged — records keep answer cost only, and the ledger remains authoritative for the cap.
+
+Regression tests: 2 new in `kb/tests/test_p7_eval.py` — a judged run with a priced stub asserts `judge_cost_usd == 3 x 0.005` and `money_spent_usd == 4 x 0.01 + 0.015`; and `judge_faithful_cost` returns `(0.75, 0.0)` on the zero-cost stub, `(0.5, 0.002)` on a priced one, and `(0.0, 0.0)` with no evidence, while the score-only wrapper keeps its old contract. Full suite **437 passed**.
+
+*Lesson (64).* A phase's own spend figure is a claim about the ledger, not a substitute for it: if a report computes spend by summing a subset of its calls, it will drift from `runner.spent()` exactly on the phases that retry, escalate or judge. Return each call's cost to the caller that decided to make it, and keep one line item per model role so the omission is visible instead of averaged away.
+
 
 
 **Defect 3 — fatal interpreter abort.** The daemon died at 09:56:12 with

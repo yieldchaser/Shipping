@@ -157,6 +157,37 @@ def test_evaluate_with_search_and_judge(patched, monkeypatch):
     assert rep["metrics"]["faithfulness"] == 1.0
     assert rep["pass"] is True and rep["judged"] == 3
     assert rep["money_spent_usd"] == 0.0
+    assert rep["judge_cost_usd"] == 0.0
+
+
+def test_evaluate_report_spend_includes_the_judge_it_paid_for(patched, monkeypatch):
+    """The report summed only per-answer costs, so a judged run hid every judge dollar."""
+    monkeypatch.setattr(E.A, "answer_question",
+                        lambda q, model=None, con=None, chat=None: {
+                            **REPLIES[q.split()[-1]], "evidence": ["quote"], "cost_usd": 0.01})
+
+    def pricey_chat(model, messages, max_tokens=400, **kw):
+        return '{"supported": 1.0}', {}, 0.005
+
+    rep = E.evaluate(GOLD, with_search=False, with_judge=True, judge_chat=pricey_chat)
+    assert rep["judged"] == 3
+    assert rep["judge_cost_usd"] == pytest.approx(0.015)      # 3 judge calls x $0.005
+    assert rep["money_spent_usd"] == pytest.approx(0.01 * 4 + 0.015)
+
+
+def test_judge_faithful_cost_reports_score_and_spend(monkeypatch):
+    rec = {"question": "q", "answer": "a", "evidence": ["quote 1"], "sentences": []}
+    score, cost = E.judge_faithful_cost(rec, chat=_chat(['{"supported": 0.75}']))
+    assert score == 0.75 and cost == 0.0                     # stub returns cost 0.0
+
+    def paid(model, messages, max_tokens=400, **kw):
+        return '{"supported": 0.5}', {}, 0.002
+
+    score, cost = E.judge_faithful_cost(rec, chat=paid)
+    assert score == 0.5 and cost == pytest.approx(0.002)
+    # no evidence => no call => no spend, and the score-only wrapper stays compatible
+    assert E.judge_faithful({"evidence": []}, chat=paid) == 0.0
+    assert E.judge_faithful_cost({"evidence": []}, chat=paid) == (0.0, 0.0)
 
 
 def test_evaluate_handles_pipeline_errors(patched):

@@ -227,27 +227,42 @@ def cite_evidence(rec: dict) -> str:
 
 
 def judge_faithful(rec: dict, chat=None) -> float:
+    """Faithfulness score only. See `judge_faithful_cost` to also capture the judge's spend."""
+    return judge_faithful_cost(rec, chat=chat)[0]
+
+
+def judge_faithful_cost(rec: dict, chat=None) -> tuple[float, float]:
+    """Judge one answer's faithfulness. Returns `(score, cost_usd)`.
+
+    The cost is returned rather than discarded: `evaluate` used to sum only the per-record
+    *answer* costs, so a judged run reported a `money_spent_usd` that excluded every judge
+    call — the same class as Defect 15b (a paid phase invisible to its own report). The
+    ledger stays authoritative; this keeps the report consistent with it.
+    """
     chat = chat or A._chat
     evidence = cite_evidence(rec)
     if not evidence:
-        return 0.0
+        return 0.0, 0.0
     user = (f"QUESTION: {rec.get('question', '')}\n\n"
             f"ANSWER: {rec.get('answer', '')}\n\nEVIDENCE:\n{evidence}\n\nReturn JSON only.")
+    cost = 0.0
     try:
-        text, _usage, _cost = chat(JUDGE_MODEL, [{"role": "system", "content": JUDGE_PROMPT},
+        text, _usage, spent = chat(JUDGE_MODEL, [{"role": "system", "content": JUDGE_PROMPT},
                                                  {"role": "user", "content": user}], 400)
+        cost += float(spent or 0.0)
         if not text and JUDGE_FALLBACK_MODEL:
-            text, _usage, _cost = chat(JUDGE_FALLBACK_MODEL,
+            text, _usage, spent = chat(JUDGE_FALLBACK_MODEL,
                                        [{"role": "system", "content": JUDGE_PROMPT},
                                         {"role": "user", "content": user}], 400)
+            cost += float(spent or 0.0)
     except Exception:  # noqa: BLE001
-        return 0.0
+        return 0.0, 0.0
     try:
         # Defect 16: Gemma fences its JSON; a bare json.loads floored every verdict to 0.0.
         payload = LR.parse_json_object(text)
-        return max(0.0, min(1.0, float(payload.get("supported", 0.0))))
+        return max(0.0, min(1.0, float(payload.get("supported", 0.0)))), cost
     except (ValueError, TypeError):
-        return 0.0
+        return 0.0, cost
 
 
 # --------------------------------------------------------------------------- run
@@ -313,12 +328,14 @@ def evaluate(items: list[dict], con=None, chat=None, judge_chat=None, limit: int
                     recall_flags.append(hit)
 
         faith_scores: list[float] = []
+        judge_cost = 0.0
         if with_judge:
             candidates = [r for r in records if r.get("status") == "ok"]
             rng = random.Random(seed)
             sample = rng.sample(candidates, min(judge_sample, len(candidates)))
             for r in sample:
-                r["faithfulness"] = judge_faithful(r, chat=judge_chat)
+                r["faithfulness"], spent = judge_faithful_cost(r, chat=judge_chat)
+                judge_cost += spent
             faith_scores = [r["faithfulness"] for r in sample]
     finally:
         if own:
@@ -328,9 +345,10 @@ def evaluate(items: list[dict], con=None, chat=None, judge_chat=None, limit: int
                 pass
 
     report = build_report(items, records, recall_flags, mh, faith_scores)
-    cost = round(sum(float(r.get("cost_usd") or 0.0) for r in records), 6)
+    cost = round(sum(float(r.get("cost_usd") or 0.0) for r in records) + judge_cost, 6)
     report.update({"sample_seed": seed, "built_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
                    "wall_seconds": round(time.time() - t0, 1), "money_spent_usd": cost,
+                   "judge_cost_usd": round(judge_cost, 6),
                    "model": model, "judge_model": JUDGE_MODEL if with_judge else None,
                    "judged": len(faith_scores), "with_search": with_search,
                    "items": [{k: r.get(k) for k in ("item_id", "type", "question", "status",
