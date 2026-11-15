@@ -14,7 +14,7 @@ Live run status. Real spend read from `http://127.0.0.1:4100/stats`.
 | P4a | done | PASS (**recall@20 0.900** ≥ 0.85, 180/200; fused-only pre-rerank 0.815; $0 spend) | commit (this phase) |
 | gold | done | PASS (250/250 items, all 8 strata on target, 250/250 re-verified from DB, seed 2888775339, $0) | commit (this phase) |
 | P4b | done | **PASS** (120 gold chunks / 29 packed calls; chosen `deepseek-v4.1-flash-1017-ultrafast` P 0.922 R 0.536 F1 0.678; 5/5 `gates.yaml` rows pass; $4.75 total) | checkpoint C1 now |
-| P4c | **running** (AMD Token Lab bulk pass, resumable daemon; **17,057 of 24,978 packs key-exact = 68.3%**, measured 2026-11-15 12:55 local; restarted itself after the 04:19 power loss) | — | owner amendment 2026-11-13 (Amendment 1 in `C1_APPROVED.md`): bulk extractor moved off congested Ultrafast to the **8-account AMD Token Lab pool** (`DeepSeek-V4.1-Flash`, fallback `DeepSeek-V4-Flash`). AMD is **paid**, not free: measured $0.28/M in, $0.0056/M cached, $0.56/M out = $0.00134/accepted pack ⇒ ~$31.5 for the remaining 23,488 packs, booked at $31.25. Transport parity vs P4b scorer PASS at 0.92. Then union → precision gate → escalation ladder ($11, D12 cap-prioritised) → audit/recall/report. Gleaning and the glm-5.3 second extractor are booked at $0 and deferred to a post-C2 owner decision. Judge for the upcoming P6/P7 work is Google `Gemma-4-31B-IT` on AMD Token Lab (Amendment 10, replacing NIM) |
+| P4c |  **running** (AMD Token Lab bulk pass, resumable daemon; **18,017 of 24,978 packs key-exact = 72.13%**, measured 2026-11-15 14:26 local; restarted itself after the 04:19 power loss) | — | owner amendment 2026-11-13 (Amendment 1 in `C1_APPROVED.md`): bulk extractor moved off congested Ultrafast to the **8-account AMD Token Lab pool** (`DeepSeek-V4.1-Flash`, fallback `DeepSeek-V4-Flash`). AMD is **paid**, not free: measured $0.28/M in, $0.0056/M cached, $0.56/M out = $0.00134/accepted pack ⇒ ~$31.5 for the remaining 23,488 packs, booked at $31.25. Transport parity vs P4b scorer PASS at 0.92. Then union → precision gate → escalation ladder ($11, D12 cap-prioritised) → audit/recall/report. Gleaning and the glm-5.3 second extractor are booked at $0 and deferred to a post-C2 owner decision. Judge for the upcoming P6/P7 work is Google `Gemma-4-31B-IT` on AMD Token Lab (Amendment 10, replacing NIM); its fenced reply format is handled by the Defect 16 fix |
 | P5 | scaffolded (code + 20 tests, `5e720111cb` chain) | — | gated on P4c PASS; tables `edge`/`event`/`record_txn` still empty |
 | P6 | scaffolded (code + 28 tests) | — | gated on P5 |
 | P7 | scaffolded (tools/ask/eval/analyst/discovery/rubric/report, 98 tests, `edc962ad70`) | — | gated on P5+P6; checkpoint C2 after |
@@ -36,9 +36,12 @@ relaunched the whole fleet, which is **proven in production, not just in its uni
 quota 0/day`. Live fleet after resume: supervisor `pythonw.exe` **PID 22400**, daemon child
 `pythonw.exe` **PID 7620**.
 
-Resume measurement (2026-11-15, `kb/_t_state.py`, zero spend): key-exact
-`p4c_run.done_packs("p4c_bulk", "DeepSeek-V4.1-Flash", "tools")` = **15,367 / 24,978 = 61.5%**,
-`runner.spent()` = **$20.4732** of $82. Two gotchas this reading flushed out, both worth keeping:
+Resume measurement (2026-11-15, `kb/_t_prog2.py`, zero spend): key-exact
+`p4c_run.done_packs("p4c_bulk", "DeepSeek-V4.1-Flash", "tools")` = **18,017 / 24,978 = 72.13%**,
+`runner.spent()` = **$22.9656** of $82, ledger `max(created_at)` = `2026-11-15T14:26:26`. (The earlier
+resume reading in this block was 15,367 / 61.5% on a snapshot probe; both were re-measured with the
+authoritative counter, and `kb/_t_prog2.py` deliberately re-reads the live ledger so this file cannot
+drift silently uphill of the daemon.) Two gotchas this reading flushed out, both worth keeping:
 `mode` is the **transport** mode from `kb/state/p4c/modes.json` (`"tools"` for
 `DeepSeek-V4.1-Flash`), *not* a run label like `"bulk"` — passing the wrong string returns 0 for a
 healthy run; and the ledger table is **`jobs`**, not `ledger`, so an ad-hoc `COUNT(*)` query fails
@@ -72,14 +75,15 @@ adjudication $0.053. Free tiers (Ultrafast, NIM) carried 1,464 of the 2,240 call
 Gateway `/stats` after P4b: enclave (agent spine) $66.04/66.00 unchanged -- no paid agent calls;
 Ultrafast output today 1,268,319/4,800,000 tokens.
 
-Live pipeline spend 2026-11-15 12:55 local (bulk daemon live, so this drifts upward): read it from the
+Live pipeline spend 2026-11-15 14:26 local (bulk daemon live, so this drifts upward): read it from the
 ledger, not from this file — `kb/state/ledger.sqlite` is the authority (sum `cost_usd` over all passes,
 or the query in the AMD amendment section below). The measurement above and at every later edit:
-**$22.0111** ledger-measured by `runner.spent()` (`p4c_bulk`/`DeepSeek-V4.1-Flash` **$17.0392** of it,
+**$22.9656** ledger-measured by `runner.spent()` (`p4c_bulk`/`DeepSeek-V4.1-Flash` **$18.0029** of it,
 plus the completed P4b rows `p4b_ref` $3.1140 / `p4b_ref_sup` $0.8608 / `p4b_cand` $0.6081 /
 `p4b_cand_sup` $0.1187 / `p4b_adj` $0.0527, `p4c_bulk_retry` $0.1227, `p4c_retry_smoke` $0.0542,
-`p4c_parity` $0.0137, `p4c_esc_preflight` $0.0111, `p4c_parity_real` $0.0067, `p4c_glean` $0.0); against
-the $82 cap that leaves **≈$59.99**. The ladder's `--cap 11` is a *booking* limit for escalation, not
+`p4c_parity` $0.0137, `p4c_esc_preflight` $0.0111, `p4c_parity_real` $0.0067, `p4c_glean` $0.0,
+`p4c_dry` $0.0; measured by `kb/_t_passes.py` at 14:26 local, `SUM(cost_usd)` over the `jobs` table);
+against the $82 cap that leaves **≈$59.03**. The ladder's `--cap 11` is a *booking* limit for escalation, not
 the pipeline cap. P6's writer is paid (Defect 14): since the fix its cost is booked through
 `runner.cost_usd()`, so this sum now includes P6 — and from Amendment 10 the **P7 judge is paid too**
 (`Gemma-4-31B-IT`, 0.035/0.07 per 1M with a 0.0007 cached rate), priced through the same function.
@@ -93,7 +97,7 @@ before the `p4c_bulk_retry` row was complete; `$0.000520` is the measured value 
 recorded rather than silently rounded.) The esc rung spends its whole **$11.00** booking on 445 of its
 2,137 triggered candidates (true cost ~$5.5–8.9; see the esc correction below), and the
 gate/union/report/judge-audit steps make no billable AMD calls. Worst case ≈$12.1 of drain against
-$62.3 of headroom, so the drain cannot approach the $82 cap even if the retry queue doubles.
+$59.0 of headroom, so the drain cannot approach the $82 cap even if the retry queue doubles.
 
 Read the gateway counter correctly: `http://127.0.0.1:4100/stats` counts **agent-spine** calls only
 (`agent_gateway_usage.jsonl`, prompt >12k tokens/call). **Extraction calls bypass the gateway
@@ -809,9 +813,47 @@ Cache is 2% of input, the AMD convention already used for `DeepSeek-V4.1-Flash`.
 
 *Consequence that had to be fixed with it (Defect 14 class).* The old judge was genuinely free (`provider="nim"`), so `judge_node` passed an explicit `0.0` cost and asserted it in the tests. The new judge is **PAID**: judge spend is now real, must reach `runner.spent()` and the `$82` cap, and must not be booked zero. `kb/p6_summary.py` `judge_node` now drops `provider="nim"`, auto-resolves to `amd_tokenlab`, retries the `Qwen3.8-27B` fallback when the primary returns empty text, and prices the call through the fixed `_log` (measured `usage.cost` → cache-aware config tariff). `kb/p7_eval.judge_faithful` gained the same fallback-on-empty. `kb/ask._chat` was repointed from a flat `in`/`out` computation to `runner.cost_usd(model, usage)` for the same reason: the new judge has a cache rate, and flat pricing would have over-charged cache hits and ignored the provider-reported cost.
 
-*Verified.* `kb/_t_judge_route.py` proves `_provider_spec` → `amd_tokenlab`/`kind: paid` for both ids (`openai/gpt-oss-120b` also still resolves), `price_table()` shows `0.035 / 0.07 / cached 0.0007` for both, `judge_family_ok` is True/True/True/False against the writer, and the live measured-vs-config cost matches exactly for both. Tests: `kb/tests/test_p6_summary.py test_p7_ask.py test_p7_eval.py test_p7_rubric_report.py test_p4c_audit.py` → **112 passed**.
+*Verified.* `kb/_t_judge_route.py` proves `_provider_spec` → `amd_tokenlab`/`kind: paid` for both ids (`openai/gpt-oss-120b` also still resolves), `price_table()` shows `0.035 / 0.07 / cached 0.0007` for both, `judge_family_ok` is True/True/True/False against the writer, and the live measured-vs-config cost matches exactly for both. Tests: `kb/tests/test_p6_summary.py test_p7_ask.py test_p7_eval.py test_p7_rubric_report.py test_p4c_audit.py` → **112 passed**. (Superseded by the full suite after the Defect 16 fix: **412 passed** — see that section.)
 
 Fleet left untouched throughout: supervisor `pythonw.exe` PID 22400 and daemon child PID 7620 still alive on `--model DeepSeek-V4.1-Flash`.
+
+
+### Defect 16 — the new cross-family judge wraps its verdict in a ```` ```json ```` fence, so one caller raised and another silently scored 0.0 (2026-11-15)
+
+Found during the P7 chain rehearsal (`kb/_t_p7rehearse.py`), *after* Amendment 10 had already been committed. The judge swap was verified against `usage.cost`, `_provider_spec`, `price_table()` and the family gate — every one of which passes — but **none of them exercises the reply format**. Two independent raw calls to `Gemma-4-31B-IT` (`kb/_t_judgeraw2.py`) returned byte-identical 401-character text — a ```` ```json ```` fence around the object:
+
+~~~text
+```json
+{
+  "facts_cited": 1,
+  "indicators_correct": 1,
+  "judgment_reasoned": 0,
+  "counter_argument_present": 0,
+  "score": 0.5,
+  "notes": "..."
+}
+```
+~~~
+
+`json.loads(text, strict=False)` → `json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)`.
+
+*Blast radius differed by caller, which is what made it invisible.* `kb/p7_analyst.judge_answer` L557 had a bare `json.loads` with no handler, so it **raised** `JSONDecodeError`; `kb/p7_rubric.run` catches that and records the item as ungraded with a `judge_error`, so the gate can never pass. `kb/p7_eval.judge_faithful` L244-248 had the same bare parse inside a `try/except (ValueError, TypeError) → return 0.0`, so it **silently floored every faithfulness verdict to 0.0** — faithfulness 0.0, rubric all-ungraded, gate-fail, with no error anywhere in the report. A judge that never grades is numerically indistinguishable from a judge that says no.
+
+*Fix — one tolerant extractor, used by every judge reader.* New `llm_runner.parse_json_object(text)` strips an optional ```` ```lang ```` fence, tries the whole body, then falls back to the outermost `{...}` span (the `p4c_audit.parse_verdict` idiom), returns `{}` on nothing, and never raises. Wired into all three judge readers so the class cannot survive in a sibling:
+
+| reader | before | after |
+|---|---|---|
+| `p7_analyst.judge_answer` | `json.loads(text, strict=False) if text else {}` (raises) | `LR.parse_json_object(text)` |
+| `p7_eval.judge_faithful` | `json.loads(text or "{}", strict=False)` (silent 0.0) | `LR.parse_json_object(text)` |
+| `p6_summary.judge_node` | `re.search(r"\{.*\}", txt, re.S)` + `json.loads` | `parse_json_object(txt)` |
+
+`p4c_audit.parse_verdict` and `ask.plan_calls` were already fence-tolerant and are unchanged. Regression tests: `kb/tests/test_judge_json_fence.py` (4 tests) — the exact fenced payload above through `parse_json_object`, a fenced verdict through `p7_analyst.judge_answer`, a fenced `{"supported": 0.75}` through `p7_eval.judge_faithful`, and a fenced verdict through `p6_summary.judge_node` with `chat` injected.
+
+*Rehearsal also caught a second, quieter problem: the test writer was lying.* The first stub emitted a JSON object, so `parse_analyst` returned `malformed` and the rubric skipped the judge entirely — the rehearsal printed `graded 0` and "passed". The stub was rewritten to emit real analyst text (`Facts:`/`Indicators:`/`Judgment:`/`Confidence:`), `analyse` now reaches `status=ok`, and the rehearsal asserts `counts.ok == 2` **and** `counts.graded == 2`, so a future regression that stops driving the judge fails loudly instead of passing vacuously.
+
+*Verified live.* `python -X utf8 kb/_t_p7rehearse.py` under GENTLE env (`KB_AMD_WORKERS=4 KB_AMD_RATE=30 KB_AMD_TIMEOUT=120`, daemon owns the pool quota): `analyse: ok | model DeepSeek-V4.1-Flash`; real judge verdict parses (`score 0.75`, `notes` non-empty); `rubric counts {"questions": 2, "ok": 2, "graded": 2, "failures": 0}`, `judge_model Gemma-4-31B-IT`, judge-only spend delta `$0.021579`. Scores are honestly low (`0.25`) because the writer is a deliberate refusal-stub — that is the rubric working, not failing. Full suite **412 passed**.
+
+*Lesson (60).* A judge swap must be verified on the judge's **reply format**, not only its route, tariff and family. Every field of the amendment was true and every probe was green while two of three graders were effectively scoring zero — because a bare `json.loads` fails loudly in one caller and silently in another, and a ```` ```json ```` fence is the whole difference. Corollary: a rehearsal that asserts only "the report exists" can pass while the judge is never called; assert the *graded* count, not just the OK count.
 
 
 

@@ -26,6 +26,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import ask as A  # noqa: E402
+import llm_runner as LR  # noqa: E402
 import tools as T  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -554,7 +555,8 @@ def judge_answer(question: str, record: dict, model: str = JUDGE_MODEL, chat=Non
         text, usage, cost = chat(JUDGE_FALLBACK_MODEL,
                                  [{"role": "system", "content": JUDGE_PROMPT},
                                   {"role": "user", "content": user}], 500)
-    return json.loads(text, strict=False) if text else {}
+    # Defect 16: the fenced reply Gemma actually returns must not be scored as "no verdict".
+    return LR.parse_json_object(text)
 
 
 def run_backtest(segment: str, n: int = BACKTEST_DATES, con=None, chat=None, db=None) -> dict:

@@ -44,7 +44,7 @@ import duckdb  # noqa: E402
 
 from extract_gates import numbers_ok  # noqa: E402 (kept for reference/parity in reports)
 from extract_schema import printed_numbers  # noqa: E402
-from llm_runner import chat  # noqa: E402
+from llm_runner import chat, parse_json_object  # noqa: E402
 import runner as R  # noqa: E402
 
 KB_DB = ROOT / "kb/state/kb.duckdb"
@@ -498,9 +498,9 @@ def judge_node(summary: str, ev: list[dict], model: str = JUDGE_MODEL, retries: 
             txt = (data.get("choices") or [{}])[0].get("message", {}).get("content") or ""
             _log(f"p6judge:{hashlib.sha256(summary.encode()).hexdigest()[:16]}", "p6_judge", active,
                  data.get("usage") or {})
-            m = re.search(r"\{.*\}", txt, re.S)
-            if m:
-                obj = json.loads(m.group(0))
+            # Defect 16: Gemma fences its JSON; keep tolerating a leading sentence too.
+            obj = parse_json_object(txt)
+            if obj:
                 return {"score": float(obj.get("score") or 0.0), "verdict": obj.get("verdict"),
                         "why": obj.get("why"), "error": None}
             last = "no_json"

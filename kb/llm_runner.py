@@ -16,6 +16,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import sys
 import threading
 import urllib.error
@@ -239,6 +240,38 @@ def smoke_test(model: str = "deepseek-v4-flash", max_tokens: int = 5) -> dict:
     except Exception as e:  # transient network / timeout / decode
         out.update(status="error", error=f"{type(e).__name__}: {e}")
         return out
+
+
+def parse_json_object(text: str) -> dict:
+    """Best-effort JSON object from a model reply, tolerating a ```json fence.
+
+    Gemma-4-31B-IT (the owner-mandated cross-family judge, 2026-11-15) wraps its verdict in
+    a fenced code block. A bare `json.loads` therefore raises on a perfectly good verdict and
+    the caller silently scores it 0.0 — a judge that never grades looks exactly like a judge
+    that grades everything as unfaithful. Strip the fence, then fall back to the outermost
+    `{...}` span. Returns {} when nothing parses; never raises.
+    """
+    raw = (text or "").strip()
+    if not raw:
+        return {}
+    fence = re.match(r"^```[A-Za-z0-9_-]*\s*\n?(.*?)\n?\s*```\s*$", raw, re.S)
+    if fence:
+        raw = fence.group(1).strip()
+    try:
+        doc = json.loads(raw)
+        if isinstance(doc, dict):
+            return doc
+    except ValueError:
+        pass
+    start, end = raw.find("{"), raw.rfind("}")
+    if 0 <= start < end:
+        try:
+            doc = json.loads(raw[start:end + 1])
+            if isinstance(doc, dict):
+                return doc
+        except ValueError:
+            pass
+    return {}
 
 
 def nim_smoke(model: str, max_tokens: int = 16, timeout_s: int = 180,

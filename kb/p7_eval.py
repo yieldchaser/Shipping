@@ -31,6 +31,7 @@ KB_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(KB_DIR))
 
 import ask as A  # noqa: E402
+import llm_runner as LR  # noqa: E402
 import tools as T  # noqa: E402
 
 ROOT = KB_DIR.parent
@@ -242,7 +243,8 @@ def judge_faithful(rec: dict, chat=None) -> float:
     except Exception:  # noqa: BLE001
         return 0.0
     try:
-        payload = json.loads(text or "{}", strict=False)
+        # Defect 16: Gemma fences its JSON; a bare json.loads floored every verdict to 0.0.
+        payload = LR.parse_json_object(text)
         return max(0.0, min(1.0, float(payload.get("supported", 0.0))))
     except (ValueError, TypeError):
         return 0.0
@@ -340,8 +342,8 @@ def evaluate(items: list[dict], con=None, chat=None, judge_chat=None, limit: int
 
 
 def _md(report: dict) -> str:
-    m, g = report["metrics"], report["gates"]
-    lines = [f"# P7 eval — §12 gold-set scoring", "",
+    g = report["gates"]
+    lines = ["# P7 eval — §12 gold-set scoring", "",
              f"- items: {report['counts']['items']} · wall: {report['wall_seconds']} s · spend: ${report['money_spent_usd']}",
              f"- model: `{report['model']}` · judge: `{report['judge_model']}` · judged: {report['judged']}",
              f"- result: {'PASS' if report['pass'] else 'FAIL'}", "",
