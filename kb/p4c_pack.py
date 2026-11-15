@@ -234,8 +234,15 @@ def build(limit_docs: int = 0, out_path: Path | None = None, db: Path = DB) -> d
     con.close()
     enrich_con.close()
     stats = summarise(st, out_path)
-    OUT.mkdir(parents=True, exist_ok=True)
-    (OUT / "pack_stats.json").write_text(json.dumps(stats, indent=2), encoding="utf-8")
+    # Sidecar stats must follow the packs file they describe, not the module-global OUT.
+    # Writing to OUT unconditionally meant a test (or a --limit-docs dry run) that injected
+    # out_path still overwrote the real full-scope kb/state/p4c/pack_stats.json with fixture
+    # numbers - a partial-injection leak into live gate evidence. The real run is unaffected:
+    # out_path defaults to OUT/"packs.jsonl", whose stem still yields the canonical name.
+    stats_path = OUT / "pack_stats.json" if out_path.parent == OUT and out_path.stem == "packs" \
+        else out_path.parent / f"{out_path.stem}_stats.json"
+    stats_path.parent.mkdir(parents=True, exist_ok=True)
+    stats_path.write_text(json.dumps(stats, indent=2), encoding="utf-8")
     return stats
 
 

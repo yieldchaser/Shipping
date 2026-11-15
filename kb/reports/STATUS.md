@@ -14,7 +14,7 @@ Live run status. Real spend read from `http://127.0.0.1:4100/stats`.
 | P4a | done | PASS (**recall@20 0.900** ≥ 0.85, 180/200; fused-only pre-rerank 0.815; $0 spend) | commit (this phase) |
 | gold | done | PASS (250/250 items, all 8 strata on target, 250/250 re-verified from DB, seed 2888775339, $0) | commit (this phase) |
 | P4b | done | **PASS** (120 gold chunks / 29 packed calls; chosen `deepseek-v4.1-flash-1017-ultrafast` P 0.922 R 0.536 F1 0.678; 5/5 `gates.yaml` rows pass; $4.75 total) | checkpoint C1 now |
-| P4c |  **running** (AMD Token Lab bulk pass, resumable daemon; **19,883 of 24,978 packs key-exact = 79.60%**, measured 2026-11-15 17:34 local, `runner.spent()` $24.7156 of $82; restarted itself after the 04:19 power loss) | — | owner amendment 2026-11-13 (Amendment 1 in `C1_APPROVED.md`): bulk extractor moved off congested Ultrafast to the **8-account AMD Token Lab pool** (`DeepSeek-V4.1-Flash`, fallback `DeepSeek-V4-Flash`). AMD is **paid**, not free: measured $0.28/M in, $0.0056/M cached, $0.56/M out = $0.00134/accepted pack ⇒ ~$31.5 for the remaining packs, booked at $31.25. Transport parity vs P4b scorer PASS at 0.92. Then union → precision gate → escalation ladder ($11, D12 cap-prioritised) → audit/recall/report. Gleaning and the glm-5.3 second extractor are booked at $0 and deferred to a post-C2 owner decision. Judge for the upcoming P6/P7 work is Google `Gemma-4-31B-IT` on AMD Token Lab (Amendment 10, replacing NIM); its fenced reply format is handled by the Defect 16 fix |
+| P4c |  **running** (AMD Token Lab bulk pass, resumable daemon; **20,460 of 24,978 packs key-exact = 81.91%**, measured 2026-11-15 18:39 local, `runner.spent()` $25.23351 of $82; restarted itself after the 04:19 power loss) | — | owner amendment 2026-11-13 (Amendment 1 in `C1_APPROVED.md`): bulk extractor moved off congested Ultrafast to the **8-account AMD Token Lab pool** (`DeepSeek-V4.1-Flash`, fallback `DeepSeek-V4-Flash`). AMD is **paid**, not free: measured $0.28/M in, $0.0056/M cached, $0.56/M out = $0.00134/accepted pack ⇒ ~$31.5 for the remaining packs, booked at $31.25. Transport parity vs P4b scorer PASS at 0.92. Then union → precision gate → escalation ladder ($11, D12 cap-prioritised) → audit/recall/report. Gleaning and the glm-5.3 second extractor are booked at $0 and deferred to a post-C2 owner decision. Judge for the upcoming P6/P7 work is Google `Gemma-4-31B-IT` on AMD Token Lab (Amendment 10, replacing NIM); its fenced reply format is handled by the Defect 16 fix |
 | P5 | scaffolded (code + 20 tests, `5e720111cb` chain) | — | gated on P4c PASS; tables `edge`/`event`/`record_txn` still empty |
 | P6 | scaffolded (code + 28 tests) | — | gated on P5 |
 | P7 | scaffolded (tools/ask/eval/analyst/discovery/rubric/report, 98 tests, `edc962ad70`) | — | gated on P5+P6; checkpoint C2 after |
@@ -82,14 +82,21 @@ adjudication $0.053. Free tiers (Ultrafast, NIM) carried 1,464 of the 2,240 call
 Gateway `/stats` after P4b: enclave (agent spine) $66.04/66.00 unchanged -- no paid agent calls;
 Ultrafast output today 1,268,319/4,800,000 tokens.
 
-Live pipeline spend re-measured 2026-11-15 18:02 local (bulk daemon live, so this drifts upward; read it
+Live pipeline spend re-measured 2026-11-15 18:39 local (bulk daemon live, so this drifts upward; read it
 from the ledger, not from this file — `kb/state/ledger.sqlite` is the authority (sum `cost_usd` over all
-passes, or the query in the AMD amendment section below): **$25.0284** ledger-measured by `runner.spent()`,
-`max(created_at)` `2026-11-15T18:02:45`, i.e. **≈$56.97 left of the $82 cap** (the $95 owner gateway cap
+passes, or the query in the AMD amendment section below): **$25.23351** ledger-measured by `runner.spent()`,
+`max(created_at)` `2026-11-15T18:39:12`, i.e. **≈$56.77 left of the $82 cap** (the $95 owner gateway cap
 is a separate, higher ceiling). Drain progress at the same instant: `done_packs("p4c_bulk",
-"DeepSeek-V4.1-Flash", "tools")` = **20,194 / 24,978 = 80.85 %** (220.1 s to count — the counter stays
-memory-starved by the live daemon; see the load-signal paragraph). Previous measurement: 17:34 =
-19,883 / 79.60 %, $24.7156. The
+"DeepSeek-V4.1-Flash", "tools")` = **20,460 / 24,978 = 81.91 %** (278.9 s to count — the counter stays
+memory-starved by the live daemon; see the load-signal paragraph). Previous measurements: 18:02 =
+20,194 / 80.85 %, $25.0284; 17:34 = 19,883 / 79.60 %, $24.7156.
+The 18:02-to-18:39 span is also the answer to the "daemon stalled?" question raised at 18:15: it was *not*
+stalled. `kb/logs/p4c_bulk_supervisor.log` shows the last launch at 08:37:17 and no exit since, PID 7620 was
+burning ~2.6 s CPU per 20 s with 16 live sockets to the AMD host (plus 4 `SynSent`), and the missing ledger
+rows were the **gap between 400-pack batches**: `run_p4c_bulk.json` showed a batch finishing 18:02:45 with
+`start_next: 0` because `--quota 0` means "no wall-clock quota", not "stop"; the next batch's rows landed by
+18:39. Batch cadence ≈26 min for 400 packs, so a 13-minute silence is one third of a normal inter-batch gap.
+The
 breakdown below is the 14:26 snapshot that first itemised the passes (`p4c_bulk`/`DeepSeek-V4.1-Flash`
 **$18.0029** of it,
 plus the completed P4b rows `p4b_ref` $3.1140 / `p4b_ref_sup` $0.8608 / `p4b_cand` $0.6081 /
@@ -1041,7 +1048,7 @@ Checked the sibling readers for the same shape and left them alone: `runner.cost
 rather than inventing a number; `p7_eval.multihop_f1` and the `score_*` helpers return `0.0` for a
 **scored** item, which is a real measurement of a wrong answer, not a failed read.
 
-### Defect 17 class, third site — a `None`/`0.0` fix destroyed again by `:.4f` (FIXED, 2026-11-15)
+### Defect 17 class, third site (and its three siblings) — a `None`/`0.0` fix destroyed again by `:.4f` (FIXED, 2026-11-15)
 
 The two fixes above separated **unmeasured** (`None` → `UNMEASURED`) from **measured zero** (`0.0` →
 `$0.0000`). Re-running the P6 emit probe showed a **third state hiding inside the second**: a *real,
@@ -1050,6 +1057,11 @@ zero. P6's entire tracked phase spend is `$0.000013` and a single P7 judge call 
 printed `$0.0000`, which reads as "free" — a false claim about money, in the artefact the owner
 approves, arriving from the opposite direction to the unreadable-ledger bug. A distinction that a
 lossy renderer re-destroys is not a distinction.
+
+Naming note, for anyone auditing this later: this defect is the **third site of the `None`/`0.0` class**
+(after the cap and `spend_usd()`), but closing it required touching **four** renderers plus one storage
+site — the sites above are the class; the rows below are the stops. The sweep only ended because every
+money renderer in `kb/` was enumerated (Lesson 67) rather than only the one that re-broke.
 
 Four places, two mechanisms:
 
@@ -1095,6 +1107,48 @@ cannot tell them apart. Corollary: the `None`-vs-`0.0` distinction must survive 
 through — the reader, the stored report field, and the renderer; here the field was rounded to zero
 before the formatter could misprint it. Corollary: audit *every* money renderer, not just the one where
 the bug was found (`p7_eval` was immune by accident of style, not by design).
+
+### Defect 20 — the test suite wrote into live gate state (FIXED, 2026-11-15)
+
+Found by sweeping "what else touches `kb/state/` while a gate is being built", not by a failing test:
+`kb/state/p4c/pack_stats.json` — the full-scope stats sidecar for the frozen P4c packs — was found at
+18:13:39 containing two-pack **fixture** numbers (`packs: 2, chunks: 2, docs: 1, out: ...\Temp\pytest-of-Dell\...`).
+
+Mechanism, a *partial injection*: `p4c_pack.build(limit_docs, out_path, db)` accepts an injected `out_path`,
+but its final write used the **module-global** `OUT`:
+
+```python
+stats = summarise(st, out_path)
+OUT.mkdir(parents=True, exist_ok=True)
+(OUT / "pack_stats.json").write_text(json.dumps(stats, indent=2), encoding="utf-8")
+```
+
+so `test_p4c_pack.py::test_build_writes_jsonl_and_refuses_second_append` — which correctly passes
+`out_path=tmp_path/"packs.jsonl"` — still wrote its fixture stats into the **real** `kb/state/p4c/`. The
+injection covered the packs file but not the sidecar. Live proof of the leak, and of the fix:
+
+| check | before fix | after fix |
+|---|---|---|
+| `pack_stats.json` after running the suite | `packs: 2, chunks: 2, docs: 1` (fixtures) | byte-identical to before the run (sha256 `B43C2C5A…46F1EF`) |
+| where the sidecar lands | `kb/state/p4c/` always | next to the packs file it describes (`<out_dir>/<stem>_stats.json`) |
+| regression test | — | `test_build_never_writes_into_the_live_state_dir` points `OUT` at a sentinel dir and asserts nothing lands in it |
+
+The real run is unaffected: `out_path` defaults to `OUT/"packs.jsonl"`, whose stem still resolves to the
+canonical `pack_stats.json`, so gate-time output paths are unchanged. `git grep pack_stats` confirms exactly
+one writer and **zero** consumers in `kb/*.py`, so the clobbered file gated nothing — the defect is that the
+suite *can* mutate live evidence at all, which is the same class as defects 5-19: something the unit suite
+structurally cannot see. The damaged file was not hand-edited back: it was **recomputed** from the frozen
+`packs.jsonl` through the module's own `add_pack`/`summarise` (helper since deleted), which independently
+re-derived the frozen scope — **24,978 packs / 86,607 chunks / 16,945 docs / 24 years (1986-2026) /
+`coverage_complete: true`** — matching the frozen-scope constants to the chunk. Sweep of sibling builders
+(`p5_build`, `p6_summary`, `p4c_report`, `p4c_audit`, `p4c_gate`, `p4c_union`) shows each honours its
+injected `out`; this was the only site. Suite **457 passed**; live state hash unchanged across a full run.
+
+*Lesson (68).* A parameter that is injected for *one* of a function's two outputs is not an injection, it is
+a half-injection: the un-injected output silently keeps writing to production. When adding an `out`/`db`
+escape hatch to a function that emits several artefacts, thread it through **every** write, and pin it with a
+test that asserts the real state dir is *untouched* — "the test passed" and "the test had no side effects"
+are separate claims.
 
 **Defect 3 — fatal interpreter abort.** The daemon died at 09:56:12 with
 `Fatal Python error: PyEval_SaveThread: ... the GIL is released (the current Python thread state is

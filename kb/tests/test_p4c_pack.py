@@ -166,3 +166,24 @@ def test_build_writes_jsonl_and_refuses_second_append(tmp_path):
     assert rec["chunk_ids"] == ["d1-1"] and rec["blocks"][0]["sentences"]
     with pytest.raises(SystemExit):
         P.build(out_path=out, db=db)
+
+
+def test_build_never_writes_into_the_live_state_dir(tmp_path, monkeypatch):
+    """A build with an injected out_path must not touch kb/state/p4c.
+
+    Regression: build() wrote its pack_stats.json to the module-global OUT regardless of
+    out_path, so running this suite overwrote the real full-scope pack_stats.json with
+    two-pack fixture numbers - the stats sidecar for the P4c gate silently replaced by
+    test data. Point OUT at a sentinel dir and assert nothing lands there.
+    """
+    live = tmp_path / "live_state"
+    live.mkdir()
+    monkeypatch.setattr(P, "OUT", live)
+    db = fixture_db(tmp_path / "kb.duckdb")
+    out = tmp_path / "nested" / "packs.jsonl"
+    st = P.build(out_path=out, db=db)
+    assert st["packs"] == 2
+    assert list(live.iterdir()) == [], f"build leaked into the state dir: {list(live.iterdir())}"
+    sidecar = out.parent / "packs_stats.json"
+    assert sidecar.exists()
+    assert json.loads(sidecar.read_text(encoding="utf-8"))["packs"] == 2
