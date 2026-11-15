@@ -208,6 +208,45 @@ def test_run_report_spend_includes_the_rubric_judge(monkeypatch):
     assert "analyst $0.3000 + judge $0.1200" in md, md
 
 
+def test_an_unpriced_judge_call_leaves_the_judge_cost_unmeasured(monkeypatch):
+    """`judge_cost` must carry its own tri-state, independently of the analyst money.
+
+    `judge_answer_cost` returns `(verdict, None)` when the call succeeded but its price could not
+    be read (Defect 17/21 class: an unreadable price on a *made* call). Folding that `None` to
+    `0.0` would book the judge as free in the C2 approval artefact -- the same fabricated
+    measured-zero the cap readers were fixed for.
+    """
+    monkeypatch.setattr(R.PA, "analyse", lambda *a, **k: ok_rec())
+    monkeypatch.setattr(R.PA, "judge_answer_cost", lambda *a, **k: (dict(GOOD_JUDGE), None))
+    rep = R.run(con=DummyCon(), n=2)
+    assert rep["counts"]["graded"] == 2, "the verdict still grades; only the money is unmeasured"
+    assert rep["judge_cost_usd"] is None
+    assert rep["money_spent_usd"] is None, "an unmeasured judge dollar must not vanish from the total"
+    assert "UNMEASURED" in R._md(rep)
+
+
+def test_a_measured_zero_judge_cost_is_not_unmeasured(monkeypatch):
+    """The `None` guard must not swallow a genuine `0.0` — a judged call really can be free."""
+    monkeypatch.setattr(R.PA, "analyse", lambda *a, **k: ok_rec())
+    monkeypatch.setattr(R.PA, "judge_answer_cost", lambda *a, **k: (dict(GOOD_JUDGE), 0.0))
+    rep = R.run(con=DummyCon(), n=2)
+    assert rep["judge_cost_usd"] == 0.0
+    assert rep["money_spent_usd"] == pytest.approx(0.01 * 2), "only the judge was free, not the analyst"
+
+
+def test_unmeasured_analyst_money_does_not_hide_a_measured_judge_cost(monkeypatch):
+    """The two axes are independent: one unmeasured item must not null the judge's own figure.
+
+    `money_spent_usd` goes `None` (some analyst call is unpriced), but `judge_cost_usd` was fully
+    priced and must still be reported as the number it measured.
+    """
+    monkeypatch.setattr(R.PA, "analyse", lambda *a, **k: ok_rec(cost_usd=None))
+    monkeypatch.setattr(R.PA, "judge_answer_cost", lambda *a, **k: (dict(GOOD_JUDGE), 0.004))
+    rep = R.run(con=DummyCon(), n=2)
+    assert rep["money_spent_usd"] is None
+    assert rep["judge_cost_usd"] == pytest.approx(0.008)
+
+
 def _fenced(model, messages, max_tokens=500, **kw):
     return ('```json\n{"score": 1.0}\n```', {}, 0.0)
 
