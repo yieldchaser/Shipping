@@ -122,6 +122,7 @@ def run(con=None, chat=None, judge_chat=None, n: int = N_QUESTIONS,
     con = con or PA.connect()
     t0 = time.time()
     items, failures = [], []
+    judge_cost = 0.0
     try:
         for q in questions(n):
             try:
@@ -139,7 +140,10 @@ def run(con=None, chat=None, judge_chat=None, n: int = N_QUESTIONS,
                                    (rec.get("indicators") or {}).get("indicators", [])]}
             if rec.get("status") == "ok":
                 try:
-                    judged = PA.judge_answer(q["question"], rec, model=judge_model, chat=judge_chat)
+                    # Defect 19: take the judge's spend back from the call, or the report hides it.
+                    judged, spent = PA.judge_answer_cost(q["question"], rec, model=judge_model,
+                                                         chat=judge_chat)
+                    judge_cost += spent
                 except Exception as exc:  # noqa: BLE001 - judge unavailable: ungraded
                     judged = {}
                     item["judge_error"] = f"{type(exc).__name__}: {exc}"
@@ -189,7 +193,8 @@ def run(con=None, chat=None, judge_chat=None, n: int = N_QUESTIONS,
         "phase": PHASE, "built_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
         "wall_seconds": round(time.time() - t0, 1),
         "model": model, "judge_model": judge_model,
-        "money_spent_usd": round(sum(i.get("cost_usd") or 0.0 for i in items), 6),
+        "money_spent_usd": round(sum(i.get("cost_usd") or 0.0 for i in items) + judge_cost, 6),
+        "judge_cost_usd": round(judge_cost, 6),
         "target": TARGET,
         "counts": counts,
         "mean_score": mean(scores),
@@ -222,7 +227,9 @@ def _md(report: dict) -> str:
         f"(different family from the extractor)",
         f"- mean rubric score: {report['mean_score']} (target >= {report['target']}) · "
         f"result: {'PASS' if report['pass'] else 'FAIL'}",
-        f"- spend: ${report['money_spent_usd']:.4f} · wall: {report['wall_seconds']} s",
+        f"- spend: ${report['money_spent_usd']:.4f} "
+        f"(analyst ${report['money_spent_usd'] - report.get('judge_cost_usd', 0.0):.4f} + "
+        f"judge ${report.get('judge_cost_usd', 0.0):.4f}) · wall: {report['wall_seconds']} s",
         "",
         "| rubric field | mean |",
         "|---|---|",
@@ -238,7 +245,10 @@ def _md(report: dict) -> str:
               "- D19: rubric-graded analyst set (30 questions, segment × topic grid), judge from "
               "a different model family. The mean is over graded questions only; the gate needs all "
               "30 graded, every question in a bucket, and no ungraded-but-ok row (Defect 17), so "
-              "the mean can never be carried by the handful of questions the judge answered."]
+              "the mean can never be carried by the handful of questions the judge answered.",
+              "- D19 spend: `money_spent_usd` includes the judge line (`judge_cost_usd`); the judge "
+              "cost is taken back from every call `p7_analyst.judge_answer_cost` makes, including a "
+              "fallback attempt, so the report cannot understate a judged run."]
     return "\n".join(lines) + "\n"
 
 

@@ -54,7 +54,7 @@ def test_rubric_fields():
 
 def test_run_grades_and_passes(monkeypatch):
     monkeypatch.setattr(R.PA, "analyse", lambda *a, **k: ok_rec())
-    monkeypatch.setattr(R.PA, "judge_answer", lambda *a, **k: dict(GOOD_JUDGE))
+    monkeypatch.setattr(R.PA, "judge_answer_cost", lambda *a, **k: (dict(GOOD_JUDGE), 0.0))
     rep = R.run(con=DummyCon())
     assert rep["counts"]["questions"] == 30 and rep["counts"]["graded"] == 30
     assert rep["mean_score"] == 0.9 and rep["pass"] is True
@@ -65,15 +65,15 @@ def test_run_grades_and_passes(monkeypatch):
 
 def test_run_fails_on_low_scores(monkeypatch):
     monkeypatch.setattr(R.PA, "analyse", lambda *a, **k: ok_rec())
-    monkeypatch.setattr(R.PA, "judge_answer",
-                        lambda *a, **k: {**GOOD_JUDGE, "score": 0.5})
+    monkeypatch.setattr(R.PA, "judge_answer_cost",
+                        lambda *a, **k: ({**GOOD_JUDGE, "score": 0.5}, 0.0))
     rep = R.run(con=DummyCon())
     assert rep["mean_score"] == 0.5 and rep["pass"] is False
 
 
 def test_run_counts_ungraded_as_fail(monkeypatch):
     monkeypatch.setattr(R.PA, "analyse", lambda *a, **k: ok_rec(status="not_enough_data"))
-    monkeypatch.setattr(R.PA, "judge_answer", lambda *a, **k: dict(GOOD_JUDGE))
+    monkeypatch.setattr(R.PA, "judge_answer_cost", lambda *a, **k: (dict(GOOD_JUDGE), 0.0))
     rep = R.run(con=DummyCon())
     assert rep["counts"]["graded"] == 0 and rep["pass"] is False
     assert rep["counts"]["not_enough_data"] == 30
@@ -106,10 +106,10 @@ def test_rubric_fields_clamps_every_field():
 def test_run_does_not_let_an_out_of_range_score_pass_the_gate(monkeypatch):
     """Defect 17: `"score": 3` used to raise mean_score above TARGET and flip PASS on its own."""
     monkeypatch.setattr(R.PA, "analyse", lambda *a, **k: ok_rec())
-    monkeypatch.setattr(R.PA, "judge_answer",
-                        lambda *a, **k: {"facts_cited": 3, "indicators_correct": 3,
-                                         "judgment_reasoned": 3, "counter_argument_present": 3,
-                                         "score": 3})
+    monkeypatch.setattr(R.PA, "judge_answer_cost",
+                        lambda *a, **k: ({"facts_cited": 3, "indicators_correct": 3,
+                                          "judgment_reasoned": 3, "counter_argument_present": 3,
+                                          "score": 3}, 0.0))
     rep = R.run(con=DummyCon())
     assert rep["counts"]["graded"] == 30
     assert rep["mean_score"] == 1.0, "clamped, so no score can exceed the scale"
@@ -119,9 +119,9 @@ def test_run_does_not_let_an_out_of_range_score_pass_the_gate(monkeypatch):
 def test_run_marks_an_unusable_judge_verdict_ungraded(monkeypatch):
     """No usable score *and* no usable fields: the judge effectively did not grade."""
     monkeypatch.setattr(R.PA, "analyse", lambda *a, **k: ok_rec())
-    monkeypatch.setattr(R.PA, "judge_answer",
-                        lambda *a, **k: {"score": "0.9", "facts_cited": "yes",
-                                         "indicators_correct": None})
+    monkeypatch.setattr(R.PA, "judge_answer_cost",
+                        lambda *a, **k: ({"score": "0.9", "facts_cited": "yes",
+                                          "indicators_correct": None}, 0.0))
     rep = R.run(con=DummyCon(), n=4)
     c = rep["counts"]
     assert c["graded"] == 0 and c["ungraded_ok"] == 4 and c["ok"] == 4
@@ -147,8 +147,8 @@ def test_run_buckets_always_sum_to_the_question_count(monkeypatch):
         return ok_rec(status=next(seq))
 
     monkeypatch.setattr(R.PA, "analyse", analyse)
-    monkeypatch.setattr(R.PA, "judge_answer",
-                        lambda *a, **k: {**GOOD_JUDGE, "score": 3})
+    monkeypatch.setattr(R.PA, "judge_answer_cost",
+                        lambda *a, **k: ({**GOOD_JUDGE, "score": 3}, 0.0))
     rep = R.run(con=DummyCon(), n=5)
     c = rep["counts"]
     assert c["questions"] == 5 and c["buckets_sum"] == 5 and c["balanced"] is True
@@ -163,7 +163,7 @@ def test_run_judge_error_is_counted_and_blocks_the_gate(monkeypatch):
     def bad(*a, **k):
         raise ValueError("bad json")
 
-    monkeypatch.setattr(R.PA, "judge_answer", bad)
+    monkeypatch.setattr(R.PA, "judge_answer_cost", bad)
     rep = R.run(con=DummyCon(), n=3)
     c = rep["counts"]
     assert c["ungraded_ok"] == 3 and c["judge_error"] == 3 and c["graded"] == 0
@@ -188,10 +188,44 @@ def test_run_judge_error_is_ungraded(monkeypatch):
     def bad(*a, **k):
         raise ValueError("bad json")
 
-    monkeypatch.setattr(R.PA, "judge_answer", bad)
+    monkeypatch.setattr(R.PA, "judge_answer_cost", bad)
     rep = R.run(con=DummyCon(), n=2)
     assert rep["counts"]["graded"] == 0 and rep["items"][0]["judged"] is False
     assert "judge_error" in rep["items"][0]
+
+
+# ------------------------------------------------------------------ Defect 19 (rubric half)
+def test_run_report_spend_includes_the_rubric_judge(monkeypatch):
+    """The rubric report summed only analyst costs, so every judge dollar was invisible."""
+    monkeypatch.setattr(R.PA, "analyse", lambda *a, **k: ok_rec())
+    monkeypatch.setattr(R.PA, "judge_answer_cost", lambda *a, **k: (dict(GOOD_JUDGE), 0.004))
+    rep = R.run(con=DummyCon())
+    assert rep["counts"]["graded"] == 30
+    assert rep["judge_cost_usd"] == pytest.approx(0.004 * 30)
+    assert rep["money_spent_usd"] == pytest.approx(0.01 * 30 + 0.004 * 30)
+    md = R._md(rep)
+    assert "analyst $0.3000 + judge $0.1200" in md, md
+
+
+def _fenced(model, messages, max_tokens=500, **kw):
+    return ('```json\n{"score": 1.0}\n```', {}, 0.0)
+
+
+def test_judge_answer_cost_accumulates_the_fallback_attempt():
+    """A blank first reply falls back to the other family: both calls are spend."""
+    import p7_analyst as PA
+
+    seen = []
+
+    def chat(model, messages, max_tokens=500, **kw):
+        seen.append(model)
+        return ("", {}, 0.001) if len(seen) == 1 else ('{"score": 1.0}', {}, 0.002)
+
+    verdict, cost = PA.judge_answer_cost("q", {"answer": "a"}, chat=chat)
+    assert seen == [PA.JUDGE_MODEL, PA.JUDGE_FALLBACK_MODEL]
+    assert verdict == {"score": 1.0} and cost == pytest.approx(0.003)
+    # the score-only wrapper keeps its old contract, fenced reply included (Defect 16)
+    assert PA.judge_answer("q", {"answer": "a"}, chat=_fenced) == {"score": 1.0}
 
 
 def test_main_writes_out(tmp_path, monkeypatch):

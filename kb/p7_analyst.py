@@ -544,6 +544,18 @@ def analyse(question: str, segment: str, as_of: date | None = None, model: str =
 
 
 def judge_answer(question: str, record: dict, model: str = JUDGE_MODEL, chat=None) -> dict:
+    """Judge verdict only. See `judge_answer_cost` to also capture the judge's spend."""
+    return judge_answer_cost(question, record, model=model, chat=chat)[0]
+
+
+def judge_answer_cost(question: str, record: dict, model: str = JUDGE_MODEL,
+                      chat=None) -> tuple[dict, float]:
+    """Grade an analyst answer. Returns `(verdict, cost_usd)`.
+
+    The cost used to be discarded, so `p7_rubric`'s report summed only the analyst's own calls and
+    hid every rubric-judge dollar from `money_spent_usd` (Defect 19 class). A call that raises
+    propagates the exception with no spend claimed; the caller books the failure it caught.
+    """
     chat = chat or A._chat
     ind_lines = [f"{i['name']}: {i.get('value', i.get('orders_last_12m', i.get('net', '')))}"
                  for i in record.get("indicators", {}).get("indicators", []) if i.get("status") == "ok"]
@@ -551,12 +563,14 @@ def judge_answer(question: str, record: dict, model: str = JUDGE_MODEL, chat=Non
             f"Indicator table:\n" + "\n".join(ind_lines) + "\n\n" + JUDGE_PROMPT)
     text, usage, cost = chat(model, [{"role": "system", "content": JUDGE_PROMPT},
                                      {"role": "user", "content": user}], 500)
+    spent = float(cost or 0.0)
     if not text and JUDGE_FALLBACK_MODEL:
         text, usage, cost = chat(JUDGE_FALLBACK_MODEL,
                                  [{"role": "system", "content": JUDGE_PROMPT},
                                   {"role": "user", "content": user}], 500)
+        spent += float(cost or 0.0)
     # Defect 16: the fenced reply Gemma actually returns must not be scored as "no verdict".
-    return LR.parse_json_object(text)
+    return LR.parse_json_object(text), spent
 
 
 def run_backtest(segment: str, n: int = BACKTEST_DATES, con=None, chat=None, db=None) -> dict:
