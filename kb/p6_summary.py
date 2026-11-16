@@ -284,6 +284,7 @@ def series_segment_map(con) -> dict[str, list[str]]:
     return out
 
 
+
 # ------------------------------------------------------------------ evidence
 def _sig(kind: str, ref: str, text: str) -> str:
     return hashlib.sha256(f"{kind}|{ref}|{' '.join((text or '').split())}".encode()).hexdigest()[:16]
@@ -293,10 +294,164 @@ def _obs_text(name: str, value, unit, period_from, period_to) -> str:
     return (f"{name}: value {value} {unit or ''} for {period_from}..{period_to}").strip()
 
 
-def leaf_evidence(con, segment: str, period: str, segmap: dict[str, list[str]] | None = None) -> list[dict]:
+def _scored_chunks(con, period: str) -> dict[str, list]:
+    """segment -> top `LEAF_CHUNKS` `(chunk_id, doc_id, body, published_at, path)` rows.
+
+    One streamed pass over the month's extractable chunks, classifying every body once with
+    the frozen `segment_of_text` and appending it to each segment it matches. Each segment's
+    bucket keeps the frozen ranking key `(-hits, chunk_id)` -- a total order, so the cap is
+    the same `scored.sort(...)[:LEAF_CHUNKS]` slice `leaf_evidence` used to take per leaf.
+
+    The naive path re-ran this scan (and the ~2.6 ms/body `segment_of_text` regex) for every
+    one of the 4,968 (segment, month) leaves over all 220,150 extractable chunks, i.e. tens
+    of hours of identical work. This function runs it once per month; callers share the
+    result across that month's 18 segments.
+    """
+    start, end = period_bounds(period)
+    ranked: dict[str, list] = {}
+    cur = con.execute(
+        """select c.chunk_id, c.doc_id, c.body, d.published_at, d.path
+             from chunk c join document d on d.doc_id = c.doc_id
+            where d.published_at between ? and ? and c.extract
+            order by c.chunk_id limit ?""",
+        [start, end, CHUNK_SCAN_CAP])
+    while True:
+        rows = cur.fetchmany(2000)
+        if not rows:
+            break
+        for cid, doc_id, body, pub, path in rows:
+            segs = segment_of_text(body)
+            if not segs:
+                continue
+            for seg in segs:
+                hits = sum(1 for p in dict(PATTERNS)[seg] if p.search(body or ""))
+                ranked.setdefault(seg, []).append((-hits, cid, doc_id, body, str(pub or ""), path))
+    per: dict[str, list] = {}
+    for seg, rows in ranked.items():
+        rows.sort(key=lambda t: (t[0], t[1]))
+        per[seg] = [row[1:] for row in rows[:LEAF_CHUNKS]]
+    return per
+
+
+# ------------------------------------------------------------------ chunk-scan disk cache
+CHUNK_CACHE = OUT / "chunk_scan"
+CACHE_VERSION = 1
+# Caches the one genuinely expensive month scan. Observations and event/claim rows stay
+# uncached: they are two cheap indexed-window queries per leaf (obs 0.1-1.4 s, records <0.1 s)
+# and both carry live `published_at`/typed date columns whose JSON round-trip would be a
+# silent faithfulness risk for no measurable gain.
+#
+# A month key alone is NOT a cache key: the cached rows are corpus content, so a cache built
+# from one database would be served to another (this is exactly how the P6 suite caught a
+# leaked cache poisoning `build_leaf`'s `no_evidence` path). Every payload carries a corpus
+# fingerprint and is only honoured when it matches the database the caller is reading.
+CHUNK_SCAN: dict[str, dict] | None = None
+CORPUS_FP: str | None = None
+
+
+def corpus_fingerprint(con) -> str:
+    """Cheap identity of the source corpus: chunk count + max chunk_id + doc count + max date.
+
+    ~0.08 s against the full graph (aggregate-only, no scan), so it costs nothing next to the
+    571 s month pass it guards, and it changes whenever the corpus is rebuilt or extended.
+    """
+    row = con.execute(
+        """select (select count(*) from chunk), (select max(chunk_id) from chunk),
+                  (select count(*) from document), (select max(published_at) from document)
+        """).fetchone()
+    return hashlib.sha256("|".join(str(v) for v in row).encode()).hexdigest()[:16]
+
+
+def set_corpus(con) -> str:
+    """Pin the cache namespace to `con`'s corpus. Returns the fingerprint."""
+    global CORPUS_FP
+    CORPUS_FP = corpus_fingerprint(con)
+    return CORPUS_FP
+
+
+def chunk_cache_path(period: str, fp: str | None = None) -> Path:
+    return CHUNK_CACHE / (fp or CORPUS_FP or "unbound") / f"{period}.json"
+
+
+def read_chunk_cache(period: str, version: int = CACHE_VERSION) -> dict | None:
+    path = chunk_cache_path(period)
+    if not path.exists():
+        return None
+    try:
+        obj = json.loads(path.read_text(encoding="utf-8"))
+    except ValueError:
+        return None
+    if not isinstance(obj, dict) or obj.get("cache_version") != version:
+        return None
+    return obj
+
+
+def write_chunk_cache(period: str, segments: dict[str, list]) -> None:
+    path = chunk_cache_path(period)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_suffix(".json.tmp")
+    tmp.write_text(json.dumps({"cache_version": CACHE_VERSION, "period": period,
+                               "corpus_fingerprint": CORPUS_FP,
+                               "segments": segments}, default=str), encoding="utf-8")
+    tmp.replace(path)
+
+
+def build_chunk_caches(con, months: list[str], force: bool = False, progress: bool = True) -> dict:
+    """Materialise the shared month chunk scan on disk once, for every segment to reuse."""
+    t0 = time.time()
+    set_corpus(con)
+    stats = {"months": 0, "cached": 0, "chunks": 0, "rows": 0, "segments": 0,
+             "corpus_fingerprint": CORPUS_FP}
+    for i, period in enumerate(months, 1):
+        if not force and read_chunk_cache(period) is not None:
+            stats["cached"] += 1
+        else:
+            per = _scored_chunks(con, period)
+            stats["chunks"] += 1
+            stats["rows"] += sum(len(v) for v in per.values())
+            stats["segments"] += len(per)
+            write_chunk_cache(period, {seg: [list(r) for r in rows] for seg, rows in per.items()})
+        stats["months"] += 1
+        if progress and i % 10 == 0:
+            print(f"[p6] chunk-cache {i}/{len(months)} scanned={stats['chunks']} "
+                  f"rows={stats['rows']} wall={time.time() - t0:.0f}s", flush=True)
+    return stats
+
+
+def load_chunk_cache(force: bool = False) -> dict[str, dict]:
+    """Load this corpus's materialised month chunk scans. Returns `{}` when nothing is cached."""
+    global CHUNK_SCAN
+    if CHUNK_SCAN is None or force:
+        out: dict[str, dict] = {}
+        if CORPUS_FP:
+            for path in sorted((CHUNK_CACHE / CORPUS_FP).glob("*.json")):
+                obj = read_chunk_cache(path.stem)
+                if obj:
+                    out[path.stem] = obj.get("segments") or {}
+        CHUNK_SCAN = out
+    return CHUNK_SCAN
+
+
+def cached_chunks(period: str) -> dict[str, list] | None:
+    """The cached per-segment chunk rows for `period`, or `None` when it was not materialised.
+
+    Only consults the cache while a corpus fingerprint is pinned (`set_corpus`/`load_chunk_cache`).
+    Unbound callers get `None` and fall back to the live query, so a stale cache can never be
+    served to a database it was not built from.
+    """
+    if CORPUS_FP is None:
+        return None
+    return load_chunk_cache().get(period)
+
+
+def leaf_evidence(con, segment: str, period: str, segmap: dict[str, list[str]] | None = None,
+                  month: dict[str, list] | None = None) -> list[dict]:
     """Evidence pack for one (segment, month) leaf: observations, chunks, events, claims.
 
     Deterministic: every query is ordered, every cap fixed; `signature` feeds `input_hash`.
+    `month` may carry the pre-materialised chunk scan for this period (see
+    `build_chunk_caches`), in which case the per-segment ranking is skipped -- the cached
+    rows are already that segment's `scored.sort(...)[:LEAF_CHUNKS]` slice.
     """
     start, end = period_bounds(period)
     segmap = segmap if segmap is not None else series_segment_map(con)
@@ -318,20 +473,11 @@ def leaf_evidence(con, segment: str, period: str, segmap: dict[str, list[str]] |
             ev.append({"kind": "obs", "ref": str(obs_id), "text": text,
                        "published_at": str(pub or ""), "signature": _sig("obs", str(obs_id), text)})
 
-    rows = con.execute(
-        """select c.chunk_id, c.doc_id, c.body, d.published_at, d.path
-             from chunk c join document d on d.doc_id = c.doc_id
-            where d.published_at between ? and ? and c.extract
-            order by c.chunk_id limit ?""",
-        [start, end, CHUNK_SCAN_CAP]).fetchall()
-    scored = []
-    for cid, doc_id, body, pub, path in rows:
-        segs = segment_of_text(body)
-        if segment in segs:
-            hits = sum(1 for p in dict(PATTERNS)[segment] if p.search(body or ""))
-            scored.append((-hits, cid, doc_id, body, pub, path))
-    scored.sort(key=lambda t: (t[0], t[1]))
-    for _neg, cid, doc_id, body, pub, path in scored[:LEAF_CHUNKS]:
+    if month is None:
+        month = cached_chunks(period)
+    if month is None:
+        month = _scored_chunks(con, period)
+    for cid, doc_id, body, pub, path in month.get(segment, [])[:LEAF_CHUNKS]:
         text = " ".join((body or "").split())[:600]
         ev.append({"kind": "chunk", "ref": str(cid), "text": text, "published_at": str(pub or ""),
                    "path": path, "signature": _sig("chunk", str(cid), text)})
@@ -675,8 +821,8 @@ def choose_leaves(con, months_back: int = 0, segments: list[str] | None = None,
 
 def build_leaf(con, index: dict, segment: str, period: str,
                segmap: dict[str, list[str]], writer=write_node, force: bool = False,
-               dry: bool = False) -> dict:
-    ev = leaf_evidence(con, segment, period, segmap)
+               dry: bool = False, month: dict[str, list] | None = None) -> dict:
+    ev = leaf_evidence(con, segment, period, segmap, month=month)
     nid = node_id(segment, "month", period)
     ih = node_input_hash(segment, "month", period, ev)
     prior = index.get(nid) or {}
@@ -759,15 +905,24 @@ def build_tree(con, months_back: int = 0, segments: list[str] | None = None,
     OUT.mkdir(parents=True, exist_ok=True)
     index = load_index()
     segmap = series_segment_map(con)
+    fp = set_corpus(con)
+    cached = load_chunk_cache(force=force)
+    if progress:
+        print(f"[p6] corpus {fp}: {len(cached)} month(s) of chunk-scan cache", flush=True)
+        if not cached:
+            print("[p6] WARNING: no chunk-scan cache for this corpus; each leaf will re-scan its "
+                  "whole month (the un-cached path is ~78 h across 18 segments x 276 months). "
+                  "Run --build-cache first.", flush=True)
     leaves = choose_leaves(con, months_back=months_back, segments=segments, month_from=month_from)
     if limit:
         leaves = leaves[:limit]
     done: dict[tuple[str, str], dict] = {}
     counts = {"leaves": 0, "parents_q": 0, "parents_y": 0, "cached": 0, "empty": 0,
-              "sentences": 0, "dropped": 0}
+              "sentences": 0, "dropped": 0, "cached_months": len(cached)}
     drop_reasons: dict[str, int] = {}
     for i, (seg, month) in enumerate(leaves, 1):
-        node = build_leaf(con, index, seg, month, segmap, writer=writer, force=force, dry=dry)
+        node = build_leaf(con, index, seg, month, segmap, writer=writer, force=force, dry=dry,
+                          month=cached.get(month))
         done[(seg, month)] = node
         counts["leaves"] += 1
         counts["cached"] += int(bool(node.get("cached")))
@@ -1016,6 +1171,15 @@ def build_report(index: dict, build: dict, judge: dict | None = None) -> dict:
         "writer_model": WRITER_MODEL,
         "writer_family": _family(WRITER_MODEL),
         "judge_model": JUDGE_MODEL,
+        # Provenance of the month chunk scan: the whole leaf loop reads cached corpus rows, so the
+        # report states which corpus they came from and how many months were materialised.
+        "chunk_scan_cache": {
+            "corpus_fingerprint": CORPUS_FP,
+            "months_materialised": (build.get("counts") or {}).get("cached_months"),
+            "path": str(CHUNK_CACHE / (CORPUS_FP or "unbound")),
+            "note": ("per-segment chunk rows are cached per corpus fingerprint; observations and "
+                     "event/claim rows are always read live from the corpus"),
+        },
         # Derived, never hardcoded: the owner swapped the judge (NIM openai -> AMD gemma) and a frozen
         # literal would have kept certifying a family that is no longer running (Defect 15).
         "judge_family": _family(JUDGE_MODEL),
@@ -1057,6 +1221,8 @@ def _md(report: dict) -> str:
         f"- leaves {c['leaves']}, quarter nodes {c['parents_q']}, year nodes {c['parents_y']}",
         f"- cached {c['cached']}, empty {c['empty']}",
         f"- sentences kept {report['sentences_kept']}, rule-dropped {c['dropped']}",
+        f"- chunk-scan cache: corpus {report['chunk_scan_cache']['corpus_fingerprint']}, "
+        f"{_r(report['chunk_scan_cache']['months_materialised'])} month(s) materialised",
         f"- automatic number check: pass rate {_r(report['number_check']['pass_rate'])} "
         f"over {_r(report['number_check'].get('sentences_proposed'))} proposed sentences "
         f"(kept-sentence failures {report['number_check']['kept_sentences_with_number_failure']}, "
@@ -1094,10 +1260,25 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--judge", action="store_true")
     ap.add_argument("--report", action="store_true")
+    # The month chunk scan is the only genuinely expensive corpus pass (`segment_of_text` over
+    # 220k bodies); materialise it once, then every segment of that month reuses it.
+    ap.add_argument("--build-cache", action="store_true",
+                    help="materialise the per-month chunk scan before building")
+    ap.add_argument("--build-cache-force", action="store_true",
+                    help="rebuild the chunk scan even where a cache file already exists")
     ap.add_argument("--db", default=str(KB_DB))
     args = ap.parse_args(argv)
     con = connect(Path(args.db))
     try:
+        if args.build_cache or args.build_cache_force:
+            months = sorted({m for _seg, m in choose_leaves(
+                con, months_back=args.months_back, segments=args.segment,
+                month_from=args.month_from)})
+            if args.limit:
+                months = months[:args.limit]
+            stats = build_chunk_caches(con, months, force=args.build_cache_force)
+            print(f"[p6] chunk-cache {stats}", flush=True)
+            load_chunk_cache(force=True)
         build = build_tree(con, months_back=args.months_back, segments=args.segment,
                            month_from=args.month_from, limit=args.limit, dry=args.dry,
                            force=args.force)
