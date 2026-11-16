@@ -65,6 +65,16 @@ def _pct(v) -> str:
     return f"{f:.2%}" if f is not None else "n/a"
 
 
+def _r(v) -> str:
+    """Render a possibly-unmeasured artefact read; a broken read must not print as raw `inf`/`True`.
+
+    Defect 32 twin of `_pct`: the audit line prints four *counts* straight out of `audit.json`, and
+    before the guard an artefact holding `inf` printed `inf sampled` into the C1/owner packet, while
+    a missing key printed a fabricated `0` (via `or 0`). Unmeasured says so.
+    """
+    return "n/a" if v is None else str(v)
+
+
 def load_jsonl(path: Path) -> list[dict]:
     """Whole-file load. Materialises every row, so peak memory is O(file), not O(distinct chunks).
 
@@ -321,6 +331,22 @@ def ladder_stats(chunks: dict) -> dict:
             "recovered": sum(1 for c in chunks.values() if c["clean"] and c.get("was_failed"))}
 
 
+def _count(v) -> int | None:
+    """An artefact *count* that a gate compares, as a true finite whole number - or None.
+
+    Defect 32: `random_audit_records` is `sampled >= 200` and the coverage row is `chunks > 0`, but
+    both operands were read straight out of the on-disk artefact, so `inf >= 200` and `inf > 0` PASSED
+    a §12 gate, `True >= 200` was False-but-silent, and `sampled or 0` invented a measured zero for a
+    key the audit never wrote. A count cannot come from any producer here (`len(rows)`), so a
+    non-whole result is a broken artefact too. This is the Defect-27 rule one module over: the shared
+    finite guard, then a whole-number check - not a rival copy of `money.as_float`.
+    """
+    f = M.as_float(v)
+    if f is None or not f.is_integer():
+        return None
+    return int(f)
+
+
 def audit_gate(audit_path: Path = AUDIT) -> dict:
     """Read the judge's audit artefact, with `wrong_rate` behind the single-sourced ratio guard.
 
@@ -329,6 +355,10 @@ def audit_gate(audit_path: Path = AUDIT) -> dict:
     admitted `True` (rendered `100.00%`) and `-inf` (`-inf <= 0.03` is True, so a broken read PASSED
     the §12 audit gate). A broken read is UNMEASURED, not a passing rate: `money.unit_score` returns
     `None`, and both the renderer and `gate_rows` then treat it as unmeasured-and-failing.
+
+    Defect 32: the four *count* fields are the other half of the same read - `sampled` is the gate-200
+    operand and the rest are printed. They go through `_count` so an unreadable count is UNMEASURED
+    rather than a raw `inf`/`True` in the packet (the `100.00%`-shaped lie, count flavour).
     """
     try:
         a = json.loads(audit_path.read_text(encoding="utf-8"))
@@ -336,8 +366,9 @@ def audit_gate(audit_path: Path = AUDIT) -> dict:
         return {"present": False}
     return {"present": True, "judge": a.get("model"), "judge_family": a.get("judge_family"),
             "extractor": a.get("extractor_model"), "extractor_family": a.get("extractor_family"),
-            "sampled": a.get("sampled"), "judged": a.get("judged"), "drop": a.get("drop"),
-            "unparseable": a.get("unparseable"), "wrong": a.get("wrong"),
+            "sampled": _count(a.get("sampled")), "judged": _count(a.get("judged")),
+            "drop": _count(a.get("drop")), "unparseable": _count(a.get("unparseable")),
+            "wrong": _count(a.get("wrong")),
             "wrong_rate": M.unit_score(a.get("wrong_rate"))}
 
 
@@ -349,16 +380,23 @@ def gate_rows(st: dict, audit: dict, cov: dict) -> dict:
     §12 gate; a broken read must FAIL the row as unmeasured. Guarding at the verdict as well as at
     the artefact reader is what makes the rule single-sourced across callers (a dict passed in by a
     future caller is untrusted too).
+
+    Defect 32: the same treatment for the two *count* operands. `random_audit_records` is
+    `sampled >= 200` and the coverage row is `chunks > 0`; raw, `inf >= 200` / `inf > 0` PASSED and
+    `sampled or 0` printed a fabricated `0` for a key that was never written. `_count` is the one
+    whole-number rule, and an unreadable count FAILS the row as unmeasured (`None`, never `0`).
     """
     fqr = M.unit_score(st.get("failure_queue_rate"))
     wrong = M.unit_score(audit.get("wrong_rate")) if audit.get("present") else None
+    sampled = _count(audit.get("sampled")) if audit.get("present") else None
+    chunks = _count(cov.get("chunks"))
     rows = {
         "failure_queue_max": {"required": GATES["failure_queue_max"], "measured": fqr,
                               "pass": fqr is not None and fqr <= GATES["failure_queue_max"]},
         "random_audit_records": {"required": GATES["random_audit_records"],
-                                 "measured": audit.get("sampled") or 0,
-                                 "pass": bool(audit.get("present")) and (audit.get("sampled") or 0)
-                                 >= GATES["random_audit_records"]},
+                                 "measured": sampled,
+                                 "pass": sampled is not None
+                                 and sampled >= GATES["random_audit_records"]},
         "random_audit_wrong_max": {"required": GATES["random_audit_wrong_max"],
                                    "measured": wrong,
                                    "pass": wrong is not None
@@ -370,8 +408,8 @@ def gate_rows(st: dict, audit: dict, cov: dict) -> dict:
             "pass": bool(audit.get("present")) and audit.get("judge_family") !=
             audit.get("extractor_family") and audit.get("judge_family") is not None},
         "coverage_of_frozen_scope_reported": {"required": GATES["coverage_of_frozen_scope_reported"],
-                                              "measured": cov["chunks"] > 0,
-                                              "pass": cov["chunks"] > 0},
+                                              "measured": chunks is not None and chunks > 0,
+                                              "pass": chunks is not None and chunks > 0},
     }
     return {"rows": rows, "all_pass": all(r["pass"] for r in rows.values())}
 
@@ -396,14 +434,21 @@ def cost() -> dict:
 
 
 def wall() -> dict:
+    """Per-pass wall/pack table, with each on-disk number behind the shared finite guard.
+
+    Defect 32 twin: `run_<pass>.json` is an artefact like the audit file, so `inf` used to print
+    `inf` into the money table and a `bool` printed `True`. Nothing here is gated, so an unusable
+    read reports `n/a` (`_r`) instead of failing a row - the Defect-27 rule for reported-only reads.
+    """
     out = {}
     for p in PASSES + ("p4c_audit",):
         path = OUT / f"run_{p}.json"
         try:
             st = json.loads(path.read_text(encoding="utf-8"))
-            out[p] = {"wall_s": st.get("wall_s"), "packs": st.get("packs"),
-                      "cost_usd": st.get("cost_usd"),
-                      "rate_packs_per_min": st.get("rate_packs_per_min")}
+            out[p] = {"wall_s": M.as_float(st.get("wall_s")),
+                      "packs": _count(st.get("packs")),
+                      "cost_usd": M.as_float(st.get("cost_usd")),
+                      "rate_packs_per_min": M.as_float(st.get("rate_packs_per_min"))}
         except (OSError, ValueError):
             out[p] = None
     return out
@@ -510,9 +555,9 @@ def _md(rep: dict) -> str:
              "## Gates (`kb/gates.yaml` P4c)", "",
              "| gate | required | measured | pass |", "|---|---|---|---|"]
     for name, row in ga.items():
-        req = row["required"]
-        meas = row["measured"]
-        lines.append(f"| `{name}` | {req} | {meas} | {'PASS' if row['pass'] else 'FAIL'} |")
+        # Defect 32 twin: an unusable read renders as `n/a`, not as the literal `None`/`inf`.
+        lines.append(f"| `{name}` | {_r(row['required'])} | {_r(row['measured'])} | "
+                     f"{'PASS' if row['pass'] else 'FAIL'} |")
     lines += ["", f"**all_pass: {rep['all_pass']}**", "",
               f"Final record set read from: **{rep['gated_source']}**.", ""]
     u = rep.get("union") or {}
@@ -561,8 +606,9 @@ def _md(rep: dict) -> str:
         # possible rate instead of as unmeasured (and the same value fed the gate row below).
         rate_s = _pct(rate)
         lines += [f"Judge `{a['judge']}` ({a['judge_family']} family) vs extractor `{a['extractor']}` "
-                  f"({a['extractor_family']} family): {a['sampled']} sampled, {a['judged']} judged, "
-                  f"{a['drop']} dropped, {a['unparseable']} unparseable -> wrong rate "
+                  f"({a['extractor_family']} family): {_r(a['sampled'])} sampled, "
+                  f"{_r(a['judged'])} judged, {_r(a['drop'])} dropped, "
+                  f"{_r(a['unparseable'])} unparseable -> wrong rate "
                   f"**{rate_s}** (max {GATES['random_audit_wrong_max']:.0%})."]
     else:
         lines += ["Audit not run yet (`kb/state/p4c/audit.json` missing) - gate rows above fail on purpose."]
@@ -572,8 +618,8 @@ def _md(rep: dict) -> str:
         w = w or {}
         # get(p, 0) invented a measured-zero for a pass the ledger never reported; a pass with a
         # wall time but no cost row is UNMEASURED, not free (Defect 17 class, Lesson 67/68).
-        lines.append(f"| `{p}` | {M.fmt_usd(rep['cost']['per_pass'].get(p))} | {w.get('wall_s', '-')} | "
-                     f"{w.get('packs', '-')} | {w.get('rate_packs_per_min', '-')} |")
+        lines.append(f"| `{p}` | {M.fmt_usd(rep['cost']['per_pass'].get(p))} | {_r(w.get('wall_s'))} | "
+                     f"{_r(w.get('packs'))} | {_r(w.get('rate_packs_per_min'))} |")
     lines += [f"| **total** | **{M.fmt_usd(rep['cost']['total_usd'])}** | | | |", "",
               "## Ten sampled chunks (seeded)", "",
               "| chunk | publisher | type | date | records | source path |", "|---|---|---|---|---|---|"]

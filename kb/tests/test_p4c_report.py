@@ -161,6 +161,78 @@ def test_artefact_rate_readers_guard_their_value(tmp_path):
     assert P._pct("0.01") == "n/a" and P._pct(1.5) == "n/a"
 
 
+def test_gate_rows_reject_unreadable_counts_instead_of_passing_them():
+    """Defect 32: `inf >= 200` and `inf > 0` are True, so an unreadable *count* PASSED a §12 gate.
+
+    The two count limbs of the gate (`random_audit_records` on `audit.json`'s `sampled`, and
+    `coverage_of_frozen_scope_reported` on the coverage dict's `chunks`) were read raw while the
+    sibling rates were already guarded. `sampled or 0` additionally invented a measured zero for a
+    key the audit never wrote - and `_count(True)`/`_count(1.5)` must be `None`, since no producer
+    here (`len(rows)`) can yield a bool or a fraction.
+    """
+    assert P._count(0) == 0 and P._count(200) == 200 and P._count(200.0) == 200
+    for broken in (True, float("inf"), float("-inf"), float("nan"), "200", [200], 200.5, -0.1, None):
+        assert P._count(broken) is None, broken
+
+    st = {"failure_queue_rate": 0.0}
+    cov = {"chunks": 100}
+    base = {"present": True, "sampled": 200, "wrong_rate": 0.01, "judge_family": "glm",
+            "extractor_family": "deepseek"}
+    # Non-vacuity: the boundary arms still pass, so the fix cannot pass by blanket-failing.
+    assert P.gate_rows(st, base, cov)["all_pass"]
+    assert P.gate_rows(st, dict(base, sampled=199), cov)["rows"]["random_audit_records"]["pass"] is False
+    for broken in (True, float("inf"), float("-inf"), float("nan"), "200", [200], 200.5, -0.1):
+        rows = P.gate_rows(st, dict(base, sampled=broken), cov)["rows"]
+        assert rows["random_audit_records"]["measured"] is None, broken
+        assert not rows["random_audit_records"]["pass"], broken
+        assert not P.gate_rows(st, dict(base, sampled=broken), cov)["all_pass"], broken
+        crows = P.gate_rows(st, base, {"chunks": broken})["rows"]
+        assert crows["coverage_of_frozen_scope_reported"]["measured"] is False, broken
+        assert not crows["coverage_of_frozen_scope_reported"]["pass"], broken
+        assert not P.gate_rows(st, base, {"chunks": broken})["all_pass"], broken
+    # A count the artefact never wrote is UNMEASURED, not a fabricated measured zero.
+    absent = dict(base)
+    absent.pop("sampled")
+    assert P.gate_rows(st, absent, cov)["rows"]["random_audit_records"]["measured"] is None
+    assert not P.gate_rows(st, absent, cov)["all_pass"]
+    # A missing coverage key must not raise a KeyError either: it fails as unmeasured.
+    assert not P.gate_rows(st, base, {})["rows"]["coverage_of_frozen_scope_reported"]["pass"]
+
+
+def test_audit_gate_guards_its_counts_and_the_render_says_unmeasured(tmp_path):
+    """Defect 32: the audit artefact's four counts feed a gate (200) and the rendered packet."""
+    audit = tmp_path / "audit.json"
+    audit.write_text(json.dumps({"model": "glm-5.3", "judge_family": "glm",
+                                 "extractor_family": "deepseek", "sampled": float("inf"),
+                                 "judged": True, "drop": "2", "unparseable": 0.5,
+                                 "wrong": 2, "wrong_rate": 0.01}), encoding="utf-8")
+    a = P.audit_gate(audit)
+    assert a["sampled"] is None and a["judged"] is None
+    assert a["drop"] is None and a["unparseable"] is None
+    assert a["wrong"] == 2  # a readable count survives
+    # The renderer must not print a raw unusable read into the owner packet. Build the coverage
+    # block and totals through their real producers so the pin exercises the true `_md` shape.
+    cs = P.chunk_state({"chunk_id": "a", "call_failed": False, "gates_2_4_failed": 0,
+                        "kept": {"state_facts": [{}]}, "records_total": 1, "records_ok": 1,
+                        "no_content": False})
+    cs["doc_id"], cs["rung"] = "d1", "bulk"
+    chunks = {"a": cs}
+    meta = {"d1": {"publisher": "P1", "doc_type": "broker_weekly", "published_at": "2015-10-02"}}
+    cov, st = P.coverage(chunks, meta), P.totals(chunks)
+    assert P._r(None) == "n/a" and P._r(0) == "0" and P._r(200) == "200"
+    rep = {"extraction": st, "coverage": cov, "audit": a, "gate_results": P.gate_rows(st, a, cov)["rows"],
+           "cost": {"per_pass": {}, "total_usd": None}, "wall": {}, "sample": [],
+           "sample_seed": P.seed_for("P4C"), "phase": "P4C", "generated": "now",
+           "scope": {}, "ladder": {"final_rung": None}, "rule6": {}, "union": {"present": False},
+           "recall": {}, "gated_source": "rungs", "gated_rows": 0, "merged_chunks": 1, "rungs": {},
+           "all_pass": False}
+    md = P._md(rep)
+    assert "n/a sampled" in md and "inf sampled" not in md
+    # An unsurveyed count is not silently reported as zero either.
+    audit.write_text(json.dumps({"model": "glm-5.3", "wrong_rate": 0.0}), encoding="utf-8")
+    assert P.audit_gate(audit)["sampled"] is None
+
+
 def test_build_and_markdown(tmp_path, monkeypatch):
     bulk = gated("d1", {"a": gchunk("a", ok=False, dropped=1), "b": gchunk("b")}, tmp_path / "bulk")
     esc = gated("d1", {"a": gchunk("a")}, tmp_path / "esc1")
