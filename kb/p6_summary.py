@@ -367,15 +367,25 @@ def parse_summary(text: str) -> list[dict]:
     return out
 
 
-def num_tokens(text: str) -> list[float]:
-    """Numeric tokens of a sentence/evidence line, comma separators stripped."""
-    out = []
+def num_tokens(text: str) -> list[float | None]:
+    """Every numeric token, comma separators stripped; an unreadable literal is kept as `None`.
+
+    Defect 29/30: this used to `float()` each token raw and `except ValueError: continue`. Neither
+    half is a guard. A 401-digit literal is not a `ValueError` - it is `inf` - so the token entered
+    the list and then `abs(v - h) <= max(1e-9, 0.005 * abs(v))` became `inf <= inf`, i.e. **True
+    against any evidence line**, so the number contract passed a sentence whose number it could not
+    read. Dropping the token instead is equally wrong the other way: `number_check_ok` returns True
+    for a sentence with no numeric token, so silently discarding it turns an unreadable assertion
+    into a number-free sentence that is exempt by construction. `None` means "unreadable" and the
+    caller must treat it as unsupported.
+    """
+    out: list[float | None] = []
     for tok in NUMTOK.findall(text or ""):
-        tok = tok.replace(",", "").rstrip(".")
         try:
-            out.append(float(tok))
+            raw = float(tok.replace(",", "").rstrip("."))
         except ValueError:
             continue
+        out.append(M.as_float(raw))   # `raw` is already a float: the finite rule, not a cast
     return out
 
 
@@ -385,12 +395,20 @@ def number_check_ok(sentence: str, evidence_text: str) -> bool:
     Tighter than `numbers_ok` for P6 because summary sentences carry unit suffixes
     ("24,500/day") that the printed evidence splits ("24,500 usd/day"), so comparison is
     numeric with a small rounding tolerance rather than a substring test.
+
+    Defect 30: an unreadable asserted number (`None` from `num_tokens`) is not "not in the
+    evidence" - it is a broken read, and both operands are unreadable in the same way:
+    `inf` self-matched under the tolerance, so a 401-digit fabrication passed the check that
+    is the P6 gate's "automatic number check 100%". Reject before comparing, and reject an
+    unreadable *evidence* token too rather than skipping the only `h` that might match.
     """
     nums = num_tokens(sentence)
     if not nums:
         return True
     have = num_tokens(evidence_text)
     if not have:
+        return False
+    if any(v is None for v in nums) or any(h is None for h in have):
         return False
     for v in nums:
         if any(abs(v - h) <= max(1e-9, 0.005 * abs(v)) for h in have):

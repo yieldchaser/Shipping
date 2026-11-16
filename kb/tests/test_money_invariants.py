@@ -71,6 +71,10 @@ ACCESSORS: dict[str, tuple[str, ...]] = {
     # analyst's indicator payloads; both feed `number_ok`, whose `value` may be an unreadable literal.
     "ask.py": ("numbers_in", "numbers_claimed", "_finite_token", "number_ok"),
     "p7_analyst.py": ("evidence_numbers",),
+    # Defect 30: the same two-sided read on the P6 writer path. `num_tokens` tokenises both the
+    # writer's own sentence and the extracted evidence, and `number_check_ok` is the P6 gate's
+    # "automatic number check 100%"; the 401-digit `inf` self-matched under `0.005 * abs(inf)`.
+    "p6_summary.py": ("num_tokens", "number_check_ok"),
 }
 
 # The read of an untrusted LLM *score*. The named function must reach `money.unit_score`, and the

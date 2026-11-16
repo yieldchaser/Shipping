@@ -217,6 +217,38 @@ def test_number_check_tolerates_units_and_rounding():
     assert P.number_check_ok("USD 30,000/day", "value 24,500 usd/day") is False
 
 
+def test_an_unreadable_number_never_passes_the_number_check():
+    """Defect 30: P6's own number check was the Defect-29 hole, inverted.
+
+    A 401-digit literal is not a `ValueError` and not a finite float: `float()` gives `inf`, and
+    `abs(inf - h) <= max(1e-9, 0.005 * abs(inf))` is `inf <= inf` -> True for EVERY `h`, so the
+    fabrication self-matched and the sentence survived `validate_sentences` with all drop counters
+    zero. That check is the P6 gate's "automatic number check 100%", so the vacuity was in the
+    verdict, not just in a renderer. Both operands are read the same way, so both must reject.
+    """
+    big = "1" + "0" * 400
+    assert float(big) == float("inf")                       # the literal really is unreadable
+    assert P.num_tokens("we saw " + big + " tonnes") == [None]
+    assert P.num_tokens("we saw 24,500 usd/day") == [24500.0]
+    # non-vacuity: the same predicate still accepts the genuine number
+    assert P.number_check_ok("we saw 24,500 usd/day", "value 24,500 usd/day") is True
+    # the fabrication is rejected against matching, non-matching and number-free evidence alike
+    assert P.number_check_ok("we saw " + big + " tonnes", "value 24,500 usd/day") is False
+    assert P.number_check_ok("we saw " + big + " tonnes", "nothing here") is False
+    # an unreadable *evidence* token is a broken read too, not a candidate to skip over
+    assert P.number_check_ok("we saw 24,500 usd/day", "value " + big + " usd/day") is False
+    # end-to-end: the fabricated sentence must not survive the contract
+    ev = [{"kind": "obs", "ref": "1", "text": "Capesize spot 24,500 usd/day", "signature": "a"}]
+    kept, drops = P.validate_sentences(
+        [{"sentence": "Capesize averaged " + big + " usd/day", "cites": ["obs:1"]}], ev, max_sent=3)
+    assert kept == []
+    assert drops["number_not_in_evidence"] == 1
+    # and the genuine sentence still survives the same path
+    kept2, drops2 = P.validate_sentences(
+        [{"sentence": "Capesize averaged 24,500 usd/day", "cites": ["obs:1"]}], ev, max_sent=3)
+    assert len(kept2) == 1 and drops2["number_not_in_evidence"] == 0
+
+
 def test_summary_text_and_cites_dedupe():
     kept = [{"sentence": "A", "cites": ["obs:1", "chunk:2"]},
             {"sentence": "B", "cites": ["chunk:2", "event:3"]}]
