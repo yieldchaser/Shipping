@@ -3,14 +3,14 @@ title: "Fearnleys Weekly Broker Commentary - Week 46, 2026"
 source: "Fearnleys Hasura GraphQL API (fearnpulse.com)"
 year: 2026
 week: 46
-date_range: "2026-11-11 to 2026-11-11"
-comments_count: 8
+date_range: "2026-11-11 to 2026-11-13"
+comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-11-12 14:01:32"
+generated_at: "2026-11-16 14:00:03"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 46, 2026
-*Coverage Period: 2026-11-11 to 2026-11-11 | Total Notes: 8*
+*Coverage Period: 2026-11-11 to 2026-11-13 | Total Notes: 9*
 
 ## Executive Summary
 Institutional desk intelligence harvested directly from the Fearnleys Hasura GraphQL backend, covering global Dry Bulk, Crude & Product Tankers, Gas/LNG markets, and Secondhand S&P deals for Week 46 (2026).
@@ -76,6 +76,15 @@ A number of requirements have been worked in the Atlantic out of both the US Gul
 ---
 
 ## 4. Sale and Purchase (S&P) & Corporate Activity
+### SnP Weekly Comment
+**Date:** 2026-11-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+
+Crude tanker rates have seen a sharp correction this week, though still remain at historically healthy levels. This downward revision was seemingly anticipated by the second-hand market, as the overriding sentiment of the past few weeks has been one of increasing caution as opposed to frenzied buying. Behind the scenes there are reports of deals failing on buyers’ subjects, rather than sellers’, which gives a feel that asset values, although justifiable by the current rates on offer, are feeling toppy to buyers in this market. Still, huge sums are available to sellers of units with favourable deliveries such as CLEAROCEAN FUYO/FUKU (73k dwt New Times 2008) selling at USD 40M each.
+ 
+The dry market continues to quietly tick away, showing impressive strength. Capesize spot rates recovered from their drop to USD 30k/day and now are trading close to USD 40k/day, with attractive TC opportunity also on offer to owners. Willing sellers can capitalise on this pricing or indeed continue to enjoy the bumper earnings available. In the modern Kamsarmax sector, TAHO AUSTRALIA (81k dwt Oshima 2019) sold for USD 39M.
+
+---
+
 ### Chartering Weekly Comment
 **Date:** 2026-11-11 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 

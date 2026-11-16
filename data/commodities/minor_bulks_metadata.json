@@ -1,7 +1,7 @@
 {
   "dataset_name": "Seaborne Minor Bulks Monthly Trade Flows",
-  "generated_utc": "2026-11-09T16:18:18.054202+00:00",
-  "total_rows": 673,
+  "generated_utc": "2026-11-16T15:50:09.912926+00:00",
+  "total_rows": 674,
   "date_span": "2013-01-01 to 2026-09-01",
   "commodities_covered": [
     "Alumina",
@@ -38,13 +38,13 @@
       "flow": "Exports"
     },
     "Fertiliser (NPK/DAP)": {
-      "total_records": 56,
+      "total_records": 57,
       "min_date": "2022-01-01",
-      "max_date": "2026-08-01",
-      "mean_monthly_tonnes": 710456.5,
+      "max_date": "2026-09-01",
+      "mean_monthly_tonnes": 705888.8,
       "max_monthly_tonnes": 1210243.9,
-      "total_volume_tonnes": 39785565.4,
-      "total_fob_usd": 25682601648.0,
+      "total_volume_tonnes": 40235659.6,
+      "total_fob_usd": 26004518501.0,
       "vessel_class": "Supramax / Handysize",
       "reporter": "Brazil",
       "flow": "Imports"

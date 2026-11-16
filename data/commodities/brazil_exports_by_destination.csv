@@ -3875,14 +3875,14 @@ date,commodity,hs_heading,country,metric_tonnes,fob_usd,source,source_url
 2026-06-01,Iron Ore,2601,Saudi Arabia,0.15,180.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-06-01,Iron Ore,2601,United Kingdom,0.12,120.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-06-01,Iron Ore,2601,Chile,0.065,3070.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-07-01,Iron Ore,2601,China,25453967.8,1565517896.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-07-01,Iron Ore,2601,Japan,2075174.0,146775061.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-07-01,Iron Ore,2601,China,25453967.8,1550429608.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-07-01,Iron Ore,2601,Japan,2075174.0,145105018.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Iron Ore,2601,Malaysia,1390337.0,90079937.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-07-01,Iron Ore,2601,Oman,753267.0,52812122.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-07-01,Iron Ore,2601,Oman,753267.0,50837653.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Iron Ore,2601,Turkey,740387.0,49868122.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Iron Ore,2601,India,726258.0,47054256.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Iron Ore,2601,Suíça,703429.0,31925908.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-07-01,Iron Ore,2601,Egypt,660907.0,64659916.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-07-01,Iron Ore,2601,Egypt,660907.0,62882866.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Iron Ore,2601,Netherlands,645884.101,43376400.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Iron Ore,2601,United States,518783.201,59333979.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Iron Ore,2601,South Korea,503595.4,41646615.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
@@ -3908,7 +3908,7 @@ date,commodity,hs_heading,country,metric_tonnes,fob_usd,source,source_url
 2026-07-01,Iron Ore,2601,Peru,0.22,22.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Iron Ore,2601,Spain,0.05,50.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-07-01,Iron Ore,2601,Chile,0.032,2445.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-08-01,Iron Ore,2601,China,27675719.734,1646977448.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-08-01,Iron Ore,2601,China,27675719.734,1647482531.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Iron Ore,2601,India,1590708.0,100628188.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Iron Ore,2601,Malaysia,1100350.0,70205033.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Iron Ore,2601,Japan,778797.0,50919801.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
@@ -3936,32 +3936,57 @@ date,commodity,hs_heading,country,metric_tonnes,fob_usd,source,source_url
 2026-08-01,Iron Ore,2601,Germany,0.96,124.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Iron Ore,2601,France,0.255,306.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-08-01,Iron Ore,2601,Peru,0.001,5400.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Iron Ore,2601,China,25025763.87,1402427894.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Iron Ore,2601,China,24898246.47,1399804904.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Iron Ore,2601,Malaysia,1382583.0,81254406.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Iron Ore,2601,India,881244.98,51791883.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Iron Ore,2601,South Korea,746808.0,57634982.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Iron Ore,2601,South Korea,738496.0,57146486.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Iron Ore,2601,Netherlands,595497.0,36563884.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Iron Ore,2601,Uruguay,547118.841,13455927.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Iron Ore,2601,Egypt,533966.0,45693343.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Iron Ore,2601,Turkey,520857.0,32740740.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Iron Ore,2601,Uruguay,497118.841,11205927.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Iron Ore,2601,Japan,470402.0,27645525.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Iron Ore,2601,Philippines,401193.0,26411816.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Iron Ore,2601,Belgium,318407.0,28821142.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Iron Ore,2601,Algeria,314846.0,25409036.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Iron Ore,2601,United States,311299.176,34977783.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Iron Ore,2601,Líbia,305738.0,39058887.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Iron Ore,2601,Áustria,276786.024,6058360.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Iron Ore,2601,Mexico,258678.0,18668117.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Iron Ore,2601,Argentina,251457.352,16933206.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Iron Ore,2601,Argentina,258090.353,17361885.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-09-01,Iron Ore,2601,Singapore,190014.38,7613491.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Iron Ore,2601,United Arab Emirates,182631.0,24115057.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Iron Ore,2601,Vietnam,174297.13,11026184.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Iron Ore,2601,Trinidad and Tobago,171083.0,19915915.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Iron Ore,2601,Luxemburgo,165000.0,15976769.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Iron Ore,2601,Belgium,159635.0,13682686.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
-2026-09-01,Iron Ore,2601,Singapore,117730.93,4992547.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Iron Ore,2601,France,80226.0,7707312.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Iron Ore,2601,Saudi Arabia,66000.0,8469567.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Iron Ore,2601,Bolívia,320.0,7040.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2026-09-01,Iron Ore,2601,Germany,3.025,3630.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,China,24972585.0,1342463121.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,Malaysia,2148258.0,121857726.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,Japan,1528948.01,91880487.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,India,1247080.0,70173190.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,Oman,975153.0,55849236.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,Uruguay,811393.842,29060522.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,South Korea,811392.0,68233693.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,Netherlands,572498.0,40057243.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,Philippines,557427.0,32071194.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,Egypt,498448.0,50524983.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,Algeria,409802.0,26706251.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,Turkey,337467.0,25727206.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,Mexico,324383.0,25637309.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,Belgium,235801.2,20631892.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,United States,228422.032,32695165.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,Trinidad and Tobago,176000.0,19943469.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,Argentina,171365.537,8116164.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,Singapore,155302.18,19977332.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,Líbia,154236.0,23797828.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,France,80600.67,7989228.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,United Kingdom,72000.0,4051439.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,Germany,68038.222,6527263.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,Paraguai,160.0,3520.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,Canada,1.223,236.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,Áustria,0.151,29.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
+2026-10-01,Iron Ore,2601,Chile,0.004,1.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2018-01-01,Soybeans,1201,China,1341873.298,509197320.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2018-01-01,Soybeans,1201,Netherlands,65342.16,24682203.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general
 2018-01-01,Soybeans,1201,Russia,59896.88,23616563.0,Brazil MDIC SECEX ComexStat API (exports by destination),https://api-comexstat.mdic.gov.br/general

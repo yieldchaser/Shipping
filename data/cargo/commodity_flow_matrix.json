@@ -1,11 +1,11 @@
 {
   "metadata": {
     "source": "Fearnleys Fixtures Ledger (data/derived/fearnleys_fixtures_full.csv)",
-    "total_fixtures": 592499,
-    "classified_fixtures": 441477,
-    "unclassified_fixtures": 151022,
+    "total_fixtures": 592527,
+    "classified_fixtures": 441499,
+    "unclassified_fixtures": 151028,
     "unclassified_pct": 25.49,
-    "fixtures_with_parsed_qty": 28053,
+    "fixtures_with_parsed_qty": 28054,
     "parsed_qty_pct": 4.73,
     "corridor_mapped_fixtures": 36097,
     "corridor_mapped_share_pct": 8.18,
@@ -53,7 +53,7 @@
       "2023": 6998,
       "2024": 19052,
       "2025": 287341,
-      "2026": 248881
+      "2026": 248909
     },
     "recent_months": [
       "2024-01",
@@ -95,15 +95,15 @@
   "groups": {
     "Unclassified": {
       "group": "Unclassified",
-      "fixture_count": 151022,
+      "fixture_count": 151028,
       "parsed_qty_count": 2738,
       "parsed_qty_pct": 1.81,
-      "coverage_label": "2,738 / 151,022 fixtures (1.81% volume coverage)",
+      "coverage_label": "2,738 / 151,028 fixtures (1.81% volume coverage)",
       "total_qty_mt": 129888714.0,
       "top_commodities": [
         {
           "name": "Unclassified / General Fixture",
-          "count": 151022
+          "count": 151028
         }
       ],
       "top_trade_lanes": [
@@ -182,10 +182,10 @@
     },
     "Tankers & Gas": {
       "group": "Tankers & Gas",
-      "fixture_count": 115045,
+      "fixture_count": 115046,
       "parsed_qty_count": 3205,
       "parsed_qty_pct": 2.79,
-      "coverage_label": "3,205 / 115,045 fixtures (2.79% volume coverage)",
+      "coverage_label": "3,205 / 115,046 fixtures (2.79% volume coverage)",
       "total_qty_mt": 123076044.7,
       "top_commodities": [
         {
@@ -194,7 +194,7 @@
         },
         {
           "name": "Clean Petroleum Products (CPP)",
-          "count": 44667
+          "count": 44668
         },
         {
           "name": "LNG",
@@ -297,19 +297,19 @@
     },
     "Agricultural Products": {
       "group": "Agricultural Products",
-      "fixture_count": 88265,
+      "fixture_count": 88271,
       "parsed_qty_count": 11597,
       "parsed_qty_pct": 13.14,
-      "coverage_label": "11,597 / 88,265 fixtures (13.14% volume coverage)",
+      "coverage_label": "11,597 / 88,271 fixtures (13.14% volume coverage)",
       "total_qty_mt": 467684877.7,
       "top_commodities": [
         {
           "name": "Grain (Clean/General)",
-          "count": 64562
+          "count": 64563
         },
         {
           "name": "Wheat",
-          "count": 9905
+          "count": 9909
         },
         {
           "name": "Corn",
@@ -317,7 +317,7 @@
         },
         {
           "name": "Rice",
-          "count": 4083
+          "count": 4084
         },
         {
           "name": "Sugar",
@@ -412,15 +412,15 @@
     },
     "General & Breakbulk": {
       "group": "General & Breakbulk",
-      "fixture_count": 75363,
+      "fixture_count": 75364,
       "parsed_qty_count": 4357,
       "parsed_qty_pct": 5.78,
-      "coverage_label": "4,357 / 75,363 fixtures (5.78% volume coverage)",
+      "coverage_label": "4,357 / 75,364 fixtures (5.78% volume coverage)",
       "total_qty_mt": 216226715.8,
       "top_commodities": [
         {
           "name": "Bulk Unspecified",
-          "count": 50905
+          "count": 50906
         },
         {
           "name": "General Cargo / Breakbulk",
@@ -507,10 +507,10 @@
     },
     "Other Classified Cargo": {
       "group": "Other Classified Cargo",
-      "fixture_count": 60994,
+      "fixture_count": 61001,
       "parsed_qty_count": 2404,
       "parsed_qty_pct": 3.94,
-      "coverage_label": "2,404 / 60,994 fixtures (3.94% volume coverage)",
+      "coverage_label": "2,404 / 61,001 fixtures (3.94% volume coverage)",
       "total_qty_mt": 144682974.8,
       "top_commodities": [
         {
@@ -622,15 +622,15 @@
     },
     "Energy": {
       "group": "Energy",
-      "fixture_count": 33026,
+      "fixture_count": 33030,
       "parsed_qty_count": 679,
       "parsed_qty_pct": 2.06,
-      "coverage_label": "679 / 33,026 fixtures (2.06% volume coverage)",
+      "coverage_label": "679 / 33,030 fixtures (2.06% volume coverage)",
       "total_qty_mt": 36978473.9,
       "top_commodities": [
         {
           "name": "Coal",
-          "count": 28253
+          "count": 28257
         },
         {
           "name": "Petcoke",
@@ -832,15 +832,15 @@
     },
     "Minerals and Metals": {
       "group": "Minerals and Metals",
-      "fixture_count": 20902,
-      "parsed_qty_count": 1543,
-      "parsed_qty_pct": 7.38,
-      "coverage_label": "1,543 / 20,902 fixtures (7.38% volume coverage)",
-      "total_qty_mt": 46988274.6,
+      "fixture_count": 20904,
+      "parsed_qty_count": 1544,
+      "parsed_qty_pct": 7.39,
+      "coverage_label": "1,544 / 20,904 fixtures (7.39% volume coverage)",
+      "total_qty_mt": 47013274.6,
       "top_commodities": [
         {
           "name": "Steel Products",
-          "count": 17821
+          "count": 17823
         },
         {
           "name": "Scrap Metal",
@@ -1026,15 +1026,15 @@
     },
     "Dry Bulk / Industrial Minerals": {
       "group": "Dry Bulk / Industrial Minerals",
-      "fixture_count": 8242,
+      "fixture_count": 8243,
       "parsed_qty_count": 160,
       "parsed_qty_pct": 1.94,
-      "coverage_label": "160 / 8,242 fixtures (1.94% volume coverage)",
+      "coverage_label": "160 / 8,243 fixtures (1.94% volume coverage)",
       "total_qty_mt": 6017544.7,
       "top_commodities": [
         {
           "name": "Limestone",
-          "count": 2128
+          "count": 2129
         },
         {
           "name": "Salt",
@@ -1216,15 +1216,15 @@
       "canonical": "Unclassified / General Fixture",
       "group": "Unclassified",
       "subgroup": "Unclassified / General Fixture",
-      "fixture_count": 151022,
+      "fixture_count": 151028,
       "parsed_qty_count": 2738,
       "parsed_qty_pct": 1.81,
-      "coverage_label": "2,738 / 151,022 fixtures (1.81% volume coverage)",
+      "coverage_label": "2,738 / 151,028 fixtures (1.81% volume coverage)",
       "total_qty_mt": 129888714.0,
       "avg_cargo_size_mt": 47439.3,
       "periods": {
         "all_time": {
-          "fixtures": 151022,
+          "fixtures": 151028,
           "qty_mt": 129888714.0
         },
         "last_12m": {
@@ -1249,15 +1249,15 @@
           "qty_mt": 5564442.9
         },
         "Supramax": {
-          "fixtures": 37691,
+          "fixtures": 37693,
           "qty_mt": 24932747.1
         },
         "Panamax": {
-          "fixtures": 54917,
+          "fixtures": 54919,
           "qty_mt": 26964858.7
         },
         "Handysize": {
-          "fixtures": 48003,
+          "fixtures": 48005,
           "qty_mt": 72426665.3
         },
         "Lme": {
@@ -1309,15 +1309,15 @@
       "top_vessel_classes": [
         {
           "class": "Panamax",
-          "count": 54917
+          "count": 54919
         },
         {
           "class": "Handysize",
-          "count": 48003
+          "count": 48005
         },
         {
           "class": "Supramax",
-          "count": 37691
+          "count": 37693
         },
         {
           "class": "Capesize",
@@ -1364,15 +1364,15 @@
       "canonical": "Grain (Clean/General)",
       "group": "Agricultural Products",
       "subgroup": "Grains",
-      "fixture_count": 64562,
+      "fixture_count": 64563,
       "parsed_qty_count": 10763,
       "parsed_qty_pct": 16.67,
-      "coverage_label": "10,763 / 64,562 fixtures (16.67% volume coverage)",
+      "coverage_label": "10,763 / 64,563 fixtures (16.67% volume coverage)",
       "total_qty_mt": 440362800.4,
       "avg_cargo_size_mt": 40914.5,
       "periods": {
         "all_time": {
-          "fixtures": 64562,
+          "fixtures": 64563,
           "qty_mt": 440362800.4
         },
         "last_12m": {
@@ -1405,7 +1405,7 @@
           "qty_mt": 213548656.5
         },
         "Handysize": {
-          "fixtures": 15544,
+          "fixtures": 15545,
           "qty_mt": 78125104.4
         },
         "Tankers & Gas": {
@@ -1465,7 +1465,7 @@
         },
         {
           "class": "Handysize",
-          "count": 15544
+          "count": 15545
         },
         {
           "class": "Capesize",
@@ -1512,15 +1512,15 @@
       "canonical": "Bulk Unspecified",
       "group": "General & Breakbulk",
       "subgroup": "Dry Bulk",
-      "fixture_count": 50905,
+      "fixture_count": 50906,
       "parsed_qty_count": 2917,
       "parsed_qty_pct": 5.73,
-      "coverage_label": "2,917 / 50,905 fixtures (5.73% volume coverage)",
+      "coverage_label": "2,917 / 50,906 fixtures (5.73% volume coverage)",
       "total_qty_mt": 129766084.7,
       "avg_cargo_size_mt": 44486.1,
       "periods": {
         "all_time": {
-          "fixtures": 50905,
+          "fixtures": 50906,
           "qty_mt": 129766084.7
         },
         "last_12m": {
@@ -1541,7 +1541,7 @@
       },
       "vessel_breakdown": {
         "Supramax": {
-          "fixtures": 14743,
+          "fixtures": 14744,
           "qty_mt": 45296302.4
         },
         "Capesize": {
@@ -1609,7 +1609,7 @@
         },
         {
           "class": "Supramax",
-          "count": 14743
+          "count": 14744
         },
         {
           "class": "Handysize",
@@ -1808,15 +1808,15 @@
       "canonical": "Clean Petroleum Products (CPP)",
       "group": "Tankers & Gas",
       "subgroup": "CPP",
-      "fixture_count": 44667,
+      "fixture_count": 44668,
       "parsed_qty_count": 306,
       "parsed_qty_pct": 0.69,
-      "coverage_label": "306 / 44,667 fixtures (0.69% volume coverage)",
+      "coverage_label": "306 / 44,668 fixtures (0.69% volume coverage)",
       "total_qty_mt": 34156832.4,
       "avg_cargo_size_mt": 111623.6,
       "periods": {
         "all_time": {
-          "fixtures": 44667,
+          "fixtures": 44668,
           "qty_mt": 34156832.4
         },
         "last_12m": {
@@ -1837,7 +1837,7 @@
       },
       "vessel_breakdown": {
         "Tankers & Gas": {
-          "fixtures": 25370,
+          "fixtures": 25371,
           "qty_mt": 27942014.0
         },
         "Handysize": {
@@ -1909,7 +1909,7 @@
         },
         {
           "class": "Suezmax",
-          "count": 7342
+          "count": 7343
         },
         {
           "class": "VLCC",
@@ -1956,15 +1956,15 @@
       "canonical": "Coal",
       "group": "Energy",
       "subgroup": "Coal",
-      "fixture_count": 28253,
+      "fixture_count": 28257,
       "parsed_qty_count": 523,
       "parsed_qty_pct": 1.85,
-      "coverage_label": "523 / 28,253 fixtures (1.85% volume coverage)",
+      "coverage_label": "523 / 28,257 fixtures (1.85% volume coverage)",
       "total_qty_mt": 26375038.5,
       "avg_cargo_size_mt": 50430.3,
       "periods": {
         "all_time": {
-          "fixtures": 28253,
+          "fixtures": 28257,
           "qty_mt": 26375038.5
         },
         "last_12m": {
@@ -1985,11 +1985,11 @@
       },
       "vessel_breakdown": {
         "Panamax": {
-          "fixtures": 24278,
+          "fixtures": 24281,
           "qty_mt": 19294294.5
         },
         "Supramax": {
-          "fixtures": 2871,
+          "fixtures": 2872,
           "qty_mt": 4602729.6
         },
         "Capesize": {
@@ -2049,11 +2049,11 @@
       "top_vessel_classes": [
         {
           "class": "Panamax",
-          "count": 24278
+          "count": 24281
         },
         {
           "class": "Supramax",
-          "count": 2871
+          "count": 2872
         },
         {
           "class": "Capesize",
@@ -2252,16 +2252,16 @@
       "canonical": "Steel Products",
       "group": "Minerals and Metals",
       "subgroup": "Steel",
-      "fixture_count": 17821,
-      "parsed_qty_count": 1441,
+      "fixture_count": 17823,
+      "parsed_qty_count": 1442,
       "parsed_qty_pct": 8.09,
-      "coverage_label": "1,441 / 17,821 fixtures (8.09% volume coverage)",
-      "total_qty_mt": 44240797.3,
-      "avg_cargo_size_mt": 30701.5,
+      "coverage_label": "1,442 / 17,823 fixtures (8.09% volume coverage)",
+      "total_qty_mt": 44265797.3,
+      "avg_cargo_size_mt": 30697.5,
       "periods": {
         "all_time": {
-          "fixtures": 17821,
-          "qty_mt": 44240797.3
+          "fixtures": 17823,
+          "qty_mt": 44265797.3
         },
         "last_12m": {
           "fixtures": 11043,
@@ -2281,11 +2281,11 @@
       },
       "vessel_breakdown": {
         "Supramax": {
-          "fixtures": 4481,
-          "qty_mt": 24465953.4
+          "fixtures": 4482,
+          "qty_mt": 24490953.4
         },
         "Handysize": {
-          "fixtures": 1812,
+          "fixtures": 1813,
           "qty_mt": 11390349.6
         },
         "Capesize": {
@@ -2349,11 +2349,11 @@
         },
         {
           "class": "Supramax",
-          "count": 4481
+          "count": 4482
         },
         {
           "class": "Handysize",
-          "count": 1812
+          "count": 1813
         },
         {
           "class": "Capesize",
@@ -2548,15 +2548,15 @@
       "canonical": "Wheat",
       "group": "Agricultural Products",
       "subgroup": "Grains",
-      "fixture_count": 9905,
+      "fixture_count": 9909,
       "parsed_qty_count": 534,
       "parsed_qty_pct": 5.39,
-      "coverage_label": "534 / 9,905 fixtures (5.39% volume coverage)",
+      "coverage_label": "534 / 9,909 fixtures (5.39% volume coverage)",
       "total_qty_mt": 14950404.3,
       "avg_cargo_size_mt": 27997.0,
       "periods": {
         "all_time": {
-          "fixtures": 9905,
+          "fixtures": 9909,
           "qty_mt": 14950404.3
         },
         "last_12m": {
@@ -2585,7 +2585,7 @@
           "qty_mt": 3803827.7
         },
         "Panamax": {
-          "fixtures": 7219,
+          "fixtures": 7223,
           "qty_mt": 1413334.9
         },
         "Capesize": {
@@ -2637,7 +2637,7 @@
       "top_vessel_classes": [
         {
           "class": "Panamax",
-          "count": 7219
+          "count": 7223
         },
         {
           "class": "Supramax",
@@ -3232,15 +3232,15 @@
       "canonical": "Rice",
       "group": "Agricultural Products",
       "subgroup": "Grains",
-      "fixture_count": 4083,
+      "fixture_count": 4084,
       "parsed_qty_count": 50,
       "parsed_qty_pct": 1.22,
-      "coverage_label": "50 / 4,083 fixtures (1.22% volume coverage)",
+      "coverage_label": "50 / 4,084 fixtures (1.22% volume coverage)",
       "total_qty_mt": 2759607.4,
       "avg_cargo_size_mt": 55192.1,
       "periods": {
         "all_time": {
-          "fixtures": 4083,
+          "fixtures": 4084,
           "qty_mt": 2759607.4
         },
         "last_12m": {
@@ -3265,7 +3265,7 @@
           "qty_mt": 463059.0
         },
         "Supramax": {
-          "fixtures": 512,
+          "fixtures": 513,
           "qty_mt": 844846.5
         },
         "Capesize": {
@@ -3325,7 +3325,7 @@
         },
         {
           "class": "Supramax",
-          "count": 512
+          "count": 513
         },
         {
           "class": "Handysize",
@@ -4327,15 +4327,15 @@
       "canonical": "Limestone",
       "group": "Dry Bulk / Industrial Minerals",
       "subgroup": "Industrial Minerals",
-      "fixture_count": 2128,
+      "fixture_count": 2129,
       "parsed_qty_count": 114,
-      "parsed_qty_pct": 5.36,
-      "coverage_label": "114 / 2,128 fixtures (5.36% volume coverage)",
+      "parsed_qty_pct": 5.35,
+      "coverage_label": "114 / 2,129 fixtures (5.35% volume coverage)",
       "total_qty_mt": 3546676.9,
       "avg_cargo_size_mt": 31111.2,
       "periods": {
         "all_time": {
-          "fixtures": 2128,
+          "fixtures": 2129,
           "qty_mt": 3546676.9
         },
         "last_12m": {
@@ -4356,7 +4356,7 @@
       },
       "vessel_breakdown": {
         "Panamax": {
-          "fixtures": 1595,
+          "fixtures": 1596,
           "qty_mt": 663000.0
         },
         "Supramax": {
@@ -4409,7 +4409,7 @@
       "top_vessel_classes": [
         {
           "class": "Panamax",
-          "count": 1595
+          "count": 1596
         },
         {
           "class": "Supramax",
@@ -10916,15 +10916,15 @@
       "canonical": "Cgo",
       "group": "Other Classified Cargo",
       "subgroup": "Specialized / Niche",
-      "fixture_count": 229,
+      "fixture_count": 230,
       "parsed_qty_count": 3,
-      "parsed_qty_pct": 1.31,
-      "coverage_label": "3 / 229 fixtures (1.31% volume coverage)",
+      "parsed_qty_pct": 1.3,
+      "coverage_label": "3 / 230 fixtures (1.3% volume coverage)",
       "total_qty_mt": 90000.0,
       "avg_cargo_size_mt": 30000.0,
       "periods": {
         "all_time": {
-          "fixtures": 229,
+          "fixtures": 230,
           "qty_mt": 90000.0
         },
         "last_12m": {
@@ -10945,7 +10945,7 @@
       },
       "vessel_breakdown": {
         "Panamax": {
-          "fixtures": 224,
+          "fixtures": 225,
           "qty_mt": 0.0
         },
         "Handysize": {
@@ -10961,7 +10961,7 @@
       "top_vessel_classes": [
         {
           "class": "Panamax",
-          "count": 224
+          "count": 225
         },
         {
           "class": "Supramax",
@@ -11012,15 +11012,15 @@
       "canonical": "Agriprods",
       "group": "Other Classified Cargo",
       "subgroup": "Specialized / Niche",
-      "fixture_count": 222,
+      "fixture_count": 223,
       "parsed_qty_count": 0,
       "parsed_qty_pct": 0.0,
-      "coverage_label": "0 / 222 fixtures (0.0% volume coverage)",
+      "coverage_label": "0 / 223 fixtures (0.0% volume coverage)",
       "total_qty_mt": 0.0,
       "avg_cargo_size_mt": null,
       "periods": {
         "all_time": {
-          "fixtures": 222,
+          "fixtures": 223,
           "qty_mt": 0.0
         },
         "last_12m": {
@@ -11053,7 +11053,7 @@
           "qty_mt": 0.0
         },
         "Panamax": {
-          "fixtures": 113,
+          "fixtures": 114,
           "qty_mt": 0.0
         }
       },
@@ -11097,7 +11097,7 @@
       "top_vessel_classes": [
         {
           "class": "Panamax",
-          "count": 113
+          "count": 114
         },
         {
           "class": "Supramax",
@@ -20089,6 +20089,94 @@
         12
       ]
     },
+    "Rapeseeds": {
+      "canonical": "Rapeseeds",
+      "group": "Other Classified Cargo",
+      "subgroup": "Specialized / Niche",
+      "fixture_count": 81,
+      "parsed_qty_count": 0,
+      "parsed_qty_pct": 0.0,
+      "coverage_label": "0 / 81 fixtures (0.0% volume coverage)",
+      "total_qty_mt": 0.0,
+      "avg_cargo_size_mt": null,
+      "periods": {
+        "all_time": {
+          "fixtures": 81,
+          "qty_mt": 0.0
+        },
+        "last_12m": {
+          "fixtures": 60,
+          "qty_mt": 0.0
+        },
+        "last_4w": {
+          "fixtures": 13,
+          "qty_mt": 0.0
+        },
+        "prior_12m": {
+          "fixtures": 10,
+          "qty_mt": 0.0
+        },
+        "yoy_pct": 500.0,
+        "prior_comparable": false,
+        "coverage_affected": true
+      },
+      "vessel_breakdown": {
+        "Panamax": {
+          "fixtures": 80,
+          "qty_mt": 0.0
+        },
+        "Supramax": {
+          "fixtures": 1,
+          "qty_mt": 0.0
+        }
+      },
+      "top_trade_lanes": [],
+      "top_vessel_classes": [
+        {
+          "class": "Panamax",
+          "count": 80
+        },
+        {
+          "class": "Supramax",
+          "count": 1
+        }
+      ],
+      "recent_monthly_fixtures": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        3,
+        4,
+        1,
+        2,
+        1,
+        0,
+        2,
+        4,
+        0,
+        6,
+        2,
+        5,
+        15,
+        10,
+        13
+      ]
+    },
     "HLSS": {
       "canonical": "HLSS",
       "group": "Other Classified Cargo",
@@ -20183,94 +20271,6 @@
         5,
         1,
         3
-      ]
-    },
-    "Rapeseeds": {
-      "canonical": "Rapeseeds",
-      "group": "Other Classified Cargo",
-      "subgroup": "Specialized / Niche",
-      "fixture_count": 80,
-      "parsed_qty_count": 0,
-      "parsed_qty_pct": 0.0,
-      "coverage_label": "0 / 80 fixtures (0.0% volume coverage)",
-      "total_qty_mt": 0.0,
-      "avg_cargo_size_mt": null,
-      "periods": {
-        "all_time": {
-          "fixtures": 80,
-          "qty_mt": 0.0
-        },
-        "last_12m": {
-          "fixtures": 60,
-          "qty_mt": 0.0
-        },
-        "last_4w": {
-          "fixtures": 13,
-          "qty_mt": 0.0
-        },
-        "prior_12m": {
-          "fixtures": 10,
-          "qty_mt": 0.0
-        },
-        "yoy_pct": 500.0,
-        "prior_comparable": false,
-        "coverage_affected": true
-      },
-      "vessel_breakdown": {
-        "Panamax": {
-          "fixtures": 79,
-          "qty_mt": 0.0
-        },
-        "Supramax": {
-          "fixtures": 1,
-          "qty_mt": 0.0
-        }
-      },
-      "top_trade_lanes": [],
-      "top_vessel_classes": [
-        {
-          "class": "Panamax",
-          "count": 79
-        },
-        {
-          "class": "Supramax",
-          "count": 1
-        }
-      ],
-      "recent_monthly_fixtures": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        2,
-        3,
-        4,
-        1,
-        2,
-        1,
-        0,
-        2,
-        4,
-        0,
-        6,
-        2,
-        5,
-        15,
-        10,
-        13
       ]
     },
     "Sbm": {
@@ -27315,6 +27315,102 @@
         0
       ]
     },
+    "LOG": {
+      "canonical": "LOG",
+      "group": "Other Classified Cargo",
+      "subgroup": "Specialized / Niche",
+      "fixture_count": 48,
+      "parsed_qty_count": 2,
+      "parsed_qty_pct": 4.17,
+      "coverage_label": "2 / 48 fixtures (4.17% volume coverage)",
+      "total_qty_mt": 39730.9,
+      "avg_cargo_size_mt": 19865.5,
+      "periods": {
+        "all_time": {
+          "fixtures": 48,
+          "qty_mt": 39730.9
+        },
+        "last_12m": {
+          "fixtures": 35,
+          "qty_mt": 20730.9
+        },
+        "last_4w": {
+          "fixtures": 2,
+          "qty_mt": 0.0
+        },
+        "prior_12m": {
+          "fixtures": 7,
+          "qty_mt": 19000.0
+        },
+        "yoy_pct": 400.0,
+        "prior_comparable": false,
+        "coverage_affected": true
+      },
+      "vessel_breakdown": {
+        "Handysize": {
+          "fixtures": 40,
+          "qty_mt": 39730.9
+        },
+        "Supramax": {
+          "fixtures": 7,
+          "qty_mt": 0.0
+        },
+        "Panamax": {
+          "fixtures": 1,
+          "qty_mt": 0.0
+        }
+      },
+      "top_trade_lanes": [],
+      "top_vessel_classes": [
+        {
+          "class": "Handysize",
+          "count": 40
+        },
+        {
+          "class": "Supramax",
+          "count": 7
+        },
+        {
+          "class": "Panamax",
+          "count": 1
+        }
+      ],
+      "recent_monthly_fixtures": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        5,
+        4,
+        2,
+        4,
+        3,
+        0,
+        2,
+        3,
+        1,
+        3,
+        7,
+        4,
+        2
+      ]
+    },
     "CLASS 9 DAGEROUS CGO": {
       "canonical": "CLASS 9 DAGEROUS CGO",
       "group": "Other Classified Cargo",
@@ -27585,102 +27681,6 @@
         6,
         2,
         0
-      ]
-    },
-    "LOG": {
-      "canonical": "LOG",
-      "group": "Other Classified Cargo",
-      "subgroup": "Specialized / Niche",
-      "fixture_count": 47,
-      "parsed_qty_count": 2,
-      "parsed_qty_pct": 4.26,
-      "coverage_label": "2 / 47 fixtures (4.26% volume coverage)",
-      "total_qty_mt": 39730.9,
-      "avg_cargo_size_mt": 19865.5,
-      "periods": {
-        "all_time": {
-          "fixtures": 47,
-          "qty_mt": 39730.9
-        },
-        "last_12m": {
-          "fixtures": 35,
-          "qty_mt": 20730.9
-        },
-        "last_4w": {
-          "fixtures": 2,
-          "qty_mt": 0.0
-        },
-        "prior_12m": {
-          "fixtures": 7,
-          "qty_mt": 19000.0
-        },
-        "yoy_pct": 400.0,
-        "prior_comparable": false,
-        "coverage_affected": true
-      },
-      "vessel_breakdown": {
-        "Handysize": {
-          "fixtures": 39,
-          "qty_mt": 39730.9
-        },
-        "Supramax": {
-          "fixtures": 7,
-          "qty_mt": 0.0
-        },
-        "Panamax": {
-          "fixtures": 1,
-          "qty_mt": 0.0
-        }
-      },
-      "top_trade_lanes": [],
-      "top_vessel_classes": [
-        {
-          "class": "Handysize",
-          "count": 39
-        },
-        {
-          "class": "Supramax",
-          "count": 7
-        },
-        {
-          "class": "Panamax",
-          "count": 1
-        }
-      ],
-      "recent_monthly_fixtures": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        2,
-        5,
-        4,
-        2,
-        4,
-        3,
-        0,
-        2,
-        3,
-        1,
-        3,
-        7,
-        4,
-        2
       ]
     },
     "Tapioca": {
@@ -84050,10 +84050,10 @@
       "canonical": "Other Minor Cargoes",
       "group": "Other Classified Cargo",
       "subgroup": "Specialized / Niche",
-      "fixture_count": 15975,
+      "fixture_count": 15978,
       "parsed_qty_count": 1149,
       "parsed_qty_pct": 7.19,
-      "coverage_label": "1,149 / 15,975 fixtures (7.19% volume coverage)",
+      "coverage_label": "1,149 / 15,978 fixtures (7.19% volume coverage)",
       "total_qty_mt": 67953734.4,
       "avg_cargo_size_mt": 59141.6,
       "top_trade_lanes": [],
@@ -85086,7 +85086,7 @@
       "group": "Agricultural Products",
       "status": "LIVE_NATIONAL",
       "source": "USDA FAS Commitments, USDA FGIS Inspections, Argentina MAGyP & MDIC ComexStat",
-      "fixtures": 80078,
+      "fixtures": 80083,
       "has_national": true
     },
     {
@@ -85094,7 +85094,7 @@
       "group": "Energy",
       "status": "LIVE_NATIONAL",
       "source": "Port of Newcastle Coal Terminal, Australia DISR REQ & Indonesia BPS Coal Series",
-      "fixtures": 28253,
+      "fixtures": 28257,
       "has_national": true
     },
     {
@@ -85118,7 +85118,7 @@
       "group": "Minerals and Metals",
       "status": "LIVE_NATIONAL",
       "source": "World Steel Association & TurkStat General Trade (Scrap)",
-      "fixtures": 19303,
+      "fixtures": 19305,
       "has_national": true
     },
     {
