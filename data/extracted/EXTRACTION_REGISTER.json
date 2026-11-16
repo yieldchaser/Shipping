@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 18:57:19Z",
+  "updated_at": "2026-11-16 20:13:55Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -1132,7 +1132,7 @@
     {
       "file": "best_oasis_deals_series.csv",
       "target_metric": "Best Oasis Deals",
-      "rows": 924,
+      "rows": 927,
       "columns": [
         "issue_date",
         "vessel_name",
@@ -1153,7 +1153,7 @@
     {
       "file": "best_oasis_demolition_series.csv",
       "target_metric": "Best Oasis Demolition",
-      "rows": 882,
+      "rows": 886,
       "columns": [
         "issue_date",
         "location",
@@ -1170,7 +1170,7 @@
     {
       "file": "best_oasis_exchange_rates_series.csv",
       "target_metric": "Best Oasis Exchange Rates",
-      "rows": 174,
+      "rows": 175,
       "columns": [
         "issue_date",
         "usd_inr",
@@ -1231,7 +1231,7 @@
     {
       "file": "carriers_bda_series.csv",
       "target_metric": "Subcontinent scrap price assessments ($/LDT)",
-      "rows": 408,
+      "rows": 411,
       "columns": [
         "issue_date",
         "report_week",
@@ -1247,7 +1247,7 @@
     {
       "file": "carriers_bspa_series.csv",
       "target_metric": "Secondhand 5Y price assessments () with visual sentiment",
-      "rows": 823,
+      "rows": 831,
       "columns": [
         "issue_date",
         "report_week",
@@ -1284,7 +1284,7 @@
     {
       "file": "carriers_dry_tc_period_series.csv",
       "target_metric": "Dry bulk time charter period indicative ideas ($/day)",
-      "rows": 3264,
+      "rows": 3288,
       "columns": [
         "issue_date",
         "report_week",
@@ -1301,7 +1301,7 @@
     {
       "file": "carriers_dry_weighted_routes_series.csv",
       "target_metric": "Dry BC Baltic TC weighted average routes ($/day)",
-      "rows": 680,
+      "rows": 685,
       "columns": [
         "issue_date",
         "report_week",
@@ -1316,7 +1316,7 @@
     {
       "file": "carriers_indices_series.csv",
       "target_metric": "DSPA, BSPA, TSPA, DSRA, TSRA, BSRA, BNBI, DNBI, TNBI & Baltic Dry indices",
-      "rows": 1904,
+      "rows": 1918,
       "columns": [
         "issue_date",
         "report_week",
@@ -1333,7 +1333,7 @@
     {
       "file": "carriers_newbuilding_series.csv",
       "target_metric": "Newbuilding reported contracting orders",
-      "rows": 311,
+      "rows": 314,
       "columns": [
         "issue_date",
         "report_week",
@@ -1354,7 +1354,7 @@
     {
       "file": "carriers_sales_series.csv",
       "target_metric": "Secondhand sales transactions () with sister-ship en bloc",
-      "rows": 3242,
+      "rows": 3266,
       "columns": [
         "issue_date",
         "report_week",
@@ -1376,7 +1376,7 @@
     {
       "file": "carriers_tanker_tce_series.csv",
       "target_metric": "Baltic dirty/clean tanker indices & VLCC/Suez/Afra TCE ($/day)",
-      "rows": 831,
+      "rows": 837,
       "columns": [
         "issue_date",
         "report_week",
@@ -2100,7 +2100,7 @@
     {
       "file": "hellenic_best_oasis_deals_series.csv",
       "target_metric": "Hellenic Best Oasis Deals",
-      "rows": 924,
+      "rows": 927,
       "columns": [
         "issue_date",
         "vessel_name",
@@ -2121,7 +2121,7 @@
     {
       "file": "hellenic_best_oasis_demolition_series.csv",
       "target_metric": "Hellenic Best Oasis Demolition",
-      "rows": 882,
+      "rows": 886,
       "columns": [
         "issue_date",
         "location",
@@ -3516,7 +3516,7 @@
     {
       "file": "ssy_capesize_index_time_series.csv",
       "target_metric": "SSY Capesize Index, historical changes, and T/C day rates",
-      "rows": 529,
+      "rows": 531,
       "columns": [
         "issue_date",
         "report_week",
@@ -3541,7 +3541,7 @@
     {
       "file": "ssy_route_rates_series.csv",
       "target_metric": "SSY assessed route freight rates ($/t) across Atlantic & Pacific",
-      "rows": 5290,
+      "rows": 5310,
       "columns": [
         "issue_date",
         "report_week",
@@ -3945,13 +3945,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 710658,
+  "total_master_stacked_rows": 710782,
   "total_master_series_csvs": 166,
-  "total_stacked_rows": 710658,
+  "total_stacked_rows": 710782,
   "total_series_csvs": 166,
   "total_master_workbooks": 1,
   "total_series_count": 166,
-  "total_rows_extracted": 710963,
+  "total_rows_extracted": 711087,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 611,
     "advanced_shipping_demolition_series.csv": 2056,
@@ -3978,21 +3978,21 @@
     "bancosta_sales_series.csv": 3326,
     "bancosta_secondhand_matrix_series.csv": 1966,
     "bancosta_vhss_series.csv": 665,
-    "best_oasis_deals_series.csv": 924,
-    "best_oasis_demolition_series.csv": 882,
-    "best_oasis_exchange_rates_series.csv": 174,
+    "best_oasis_deals_series.csv": 927,
+    "best_oasis_demolition_series.csv": 886,
+    "best_oasis_exchange_rates_series.csv": 175,
     "best_oasis_market_commentary_series.csv": 1031,
     "breakwave_fundamentals_series.csv": 3416,
     "breakwave_insights_metadata.csv": 3264,
-    "carriers_bda_series.csv": 408,
-    "carriers_bspa_series.csv": 823,
+    "carriers_bda_series.csv": 411,
+    "carriers_bspa_series.csv": 831,
     "carriers_demolition_series.csv": 174,
-    "carriers_dry_tc_period_series.csv": 3264,
-    "carriers_dry_weighted_routes_series.csv": 680,
-    "carriers_indices_series.csv": 1904,
-    "carriers_newbuilding_series.csv": 311,
-    "carriers_sales_series.csv": 3242,
-    "carriers_tanker_tce_series.csv": 831,
+    "carriers_dry_tc_period_series.csv": 3288,
+    "carriers_dry_weighted_routes_series.csv": 685,
+    "carriers_indices_series.csv": 1918,
+    "carriers_newbuilding_series.csv": 314,
+    "carriers_sales_series.csv": 3266,
+    "carriers_tanker_tce_series.csv": 837,
     "clarksons_demolition_sales_series.csv": 70,
     "clarksons_demolition_series.csv": 123,
     "clarksons_desk_talk_series.csv": 352,
@@ -4024,8 +4024,8 @@
     "gms_port_positions_series.csv": 3027,
     "hellenic_alibra_dry_tc_series.csv": 6659,
     "hellenic_alibra_tanker_tc_series.csv": 7588,
-    "hellenic_best_oasis_deals_series.csv": 924,
-    "hellenic_best_oasis_demolition_series.csv": 882,
+    "hellenic_best_oasis_deals_series.csv": 927,
+    "hellenic_best_oasis_demolition_series.csv": 886,
     "hellenic_capesize_c3_c5_series.csv": 1164,
     "hellenic_gms_demolition_series.csv": 1104,
     "hellenic_gms_port_positions_series.csv": 3027,
@@ -4096,8 +4096,8 @@
     "signal_vessel_counts_series.csv": 120,
     "singletons_sales_series.csv": 46,
     "ssy_capesize_index_series.csv": 928,
-    "ssy_capesize_index_time_series.csv": 529,
-    "ssy_route_rates_series.csv": 5290,
+    "ssy_capesize_index_time_series.csv": 531,
+    "ssy_route_rates_series.csv": 5310,
     "star_asia_5y_history_series.csv": 800,
     "star_asia_bunker_series.csv": 3014,
     "star_asia_deals_series.csv": 3612,

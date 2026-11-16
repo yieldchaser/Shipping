@@ -2430,5 +2430,45 @@
     "drawings": 268,
     "image_rel": "../../../charts/star_asia/2026/star_asia_16_11_2026_star_asia_shipbroking_weekly_market_report_week_46_figure_p16.png",
     "text_snippet": "STAR ASIA | WEEKLY MARKET REPORT    Week 46 | November 13th, 2026  snp@starasiasg.com | +65 6227 7264 |  www.star-asia.com.sg      Page 16  Member of BIMCO, The Baltic Exchange & Singapore Shipping As"
+  },
+  {
+    "pub": "carriers",
+    "file": "carriers_2026_W46_WK-46-26-CARRIERS_SP-MARKET-REPORT",
+    "page": 1,
+    "drawings": 617,
+    "image_rel": "../../../charts/carriers/2026/carriers_2026_W46_WK-46-26-CARRIERS_SP-MARKET-REPORT_figure_p1.png",
+    "text_snippet": "             Week 46, 16th November 2026    SALES & PURCHASE MARKET REPORT   Carriers Chartering Corp. S.A.  Kaplanon 7 & Massalias Street, 106 80 Athens, Greece. Tel: +30-210 3668700 / Fax: +30-210 3"
+  },
+  {
+    "pub": "carriers",
+    "file": "carriers_2026_W46_WK-46-26-CARRIERS_SP-MARKET-REPORT",
+    "page": 2,
+    "drawings": 574,
+    "image_rel": "../../../charts/carriers/2026/carriers_2026_W46_WK-46-26-CARRIERS_SP-MARKET-REPORT_figure_p2.png",
+    "text_snippet": "  BALTIC INDICES & STOCK EXCHANGE    Carriers Chartering Corp. S.A.  Kaplanon 7 & Massalias Street, 106 80 Athens, Greece. Tel: +30-210 3668700 / Fax: +30-210 3631493 / www.carriers.gr  Email Address:"
+  },
+  {
+    "pub": "carriers",
+    "file": "carriers_2026_W46_WK-46-26-CARRIERS_SP-MARKET-REPORT",
+    "page": 3,
+    "drawings": 306,
+    "image_rel": "../../../charts/carriers/2026/carriers_2026_W46_WK-46-26-CARRIERS_SP-MARKET-REPORT_figure_p3.png",
+    "text_snippet": "  BALTIC INDICES & STOCK EXCHANGE    Carriers Chartering Corp. S.A.  Kaplanon 7 & Massalias Street, 106 80 Athens, Greece. Tel: +30-210 3668700 / Fax: +30-210 3631493 / www.carriers.gr  Email Address:"
+  },
+  {
+    "pub": "ssy",
+    "file": "ssy_2026_20261113-Atlantic-Capesize-Report",
+    "page": 1,
+    "drawings": 296,
+    "image_rel": "../../../charts/ssy/2026/ssy_2026_20261113-Atlantic-Capesize-Report_figure_p1.png",
+    "text_snippet": "16th November 2026 06/11/2026 13/11/2026 Trade Cargo Size Weight $/t $/t NARVIK/ROTTERDAM 150,000/10% 10% 9.40 9.95 TUBARAO/ROTTERDAM 170,000/10% 10% 17.75 18.85 RICHARDS BAY/ROTTERDAM 150,000/10% 10%"
+  },
+  {
+    "pub": "ssy",
+    "file": "ssy_2026_20261113-Pacific-Capesize-Report",
+    "page": 1,
+    "drawings": 296,
+    "image_rel": "../../../charts/ssy/2026/ssy_2026_20261113-Pacific-Capesize-Report_figure_p1.png",
+    "text_snippet": "16th November 2026 06/11/2026 13/11/2026 Trade Cargo Size Weight $/t $/t RICHARDS BAY/MUNDRA 150,000/10% 10% 18.60 17.90 DAMPIER/QINGDAO 170,000/10% 10% 13.30 14.55 SALDAHNA BAY/QINGDAO 170,000/10% 10"
   }
 ]
