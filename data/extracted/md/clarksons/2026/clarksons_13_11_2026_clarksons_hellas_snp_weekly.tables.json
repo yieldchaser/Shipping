@@ -1,0 +1,215 @@
+{
+  "schema": "parse_engine/v1",
+  "issue_date": "2026-11-13",
+  "report_week": 46,
+  "source_file": "corpus/01-brokers/clarksons/2026/clarksons_13_11_2026_clarksons_hellas_snp_weekly.pdf",
+  "source_sha256": "8305347f6be8cfded7606058e49de23f5f27fd2407fc2be987207faf446a9652",
+  "sales_count": 2,
+  "demo_count": 0,
+  "tables": [
+    {
+      "name": "Bulk Carriers",
+      "title": "Bulker Sales",
+      "page": 2,
+      "bbox": [
+        40.2,
+        225.15,
+        567.94,
+        381.32
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "CARAVOS LIBERTY",
+          "63,301",
+          "2013",
+          "SINOPACIFIC DAYANG",
+          "B. & W. 5S60ME-C8.2 C:4X36T",
+          "SS/DD 02/28",
+          "USD 24.5M",
+          "U/D"
+        ],
+        [
+          "DANAE",
+          "40,015",
+          "2022",
+          "SK KOCHI JYUKO",
+          "B. & W. 6S46ME-B8.5 C:4X30T",
+          "SS/DD 09/2027",
+          "USD 34.5M",
+          "U/D"
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": false,
+      "boundary_source": "header-midpoints",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [
+        [
+          2,
+          289.6,
+          329.7,
+          0
+        ],
+        [
+          2,
+          329.7,
+          369.8,
+          1
+        ]
+      ],
+      "column_bounds": [
+        0.0,
+        108.5,
+        179.1,
+        274.3,
+        375.8,
+        455.7,
+        521.9,
+        612.0
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    },
+    {
+      "name": "Tankers - Chemicals - LPG/LNGs",
+      "title": "Tanker Sales",
+      "page": 2,
+      "bbox": [
+        40.92,
+        384.9,
+        565.66,
+        487.63
+      ],
+      "columns": [
+        "Vessel",
+        "DWT",
+        "Year",
+        "Yard",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "No reported sales",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "en_bloc_rows": [],
+      "empty": true,
+      "boundary_source": "header-midpoints",
+      "row_source": "rulings",
+      "unassigned_words": 0,
+      "row_meta": [],
+      "column_bounds": [
+        0.0,
+        120.1,
+        195.1,
+        285.8,
+        379.2,
+        451.6,
+        517.3,
+        612.0
+      ],
+      "source_columns": [
+        "Vessel",
+        "DWT",
+        "Built",
+        "Details",
+        "SS/DD",
+        "Price",
+        "Buyer"
+      ]
+    }
+  ],
+  "sales": [
+    {
+      "issue_date": "2026-11-13",
+      "report_week": 46,
+      "source_file": "corpus/01-brokers/clarksons/2026/clarksons_13_11_2026_clarksons_hellas_snp_weekly.pdf",
+      "source_sha256": "8305347f6be8cfded7606058e49de23f5f27fd2407fc2be987207faf446a9652",
+      "section": "bulk",
+      "vessel": "CARAVOS LIBERTY",
+      "page": 2,
+      "dwt_raw": "63,301",
+      "dwt": 63301,
+      "built_year": 2013,
+      "yard": "SINOPACIFIC DAYANG",
+      "details": "B. & W. 5S60ME-C8.2 C:4X36T",
+      "ss_dd": "SS/DD 02/28",
+      "price_raw": "USD 24.5M",
+      "price_usd_m": 24.5,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "U/D",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2013",
+      "price_usd_m_per_vessel": 24.5,
+      "NAME": "CARAVOS LIBERTY",
+      "DWT": 63301,
+      "BUILT": 2013,
+      "YARD": "SINOPACIFIC DAYANG",
+      "PRICE": "USD 24.5M",
+      "BUYERS": "U/D",
+      "SS_DD": "SS/DD 02/28"
+    },
+    {
+      "issue_date": "2026-11-13",
+      "report_week": 46,
+      "source_file": "corpus/01-brokers/clarksons/2026/clarksons_13_11_2026_clarksons_hellas_snp_weekly.pdf",
+      "source_sha256": "8305347f6be8cfded7606058e49de23f5f27fd2407fc2be987207faf446a9652",
+      "section": "bulk",
+      "vessel": "DANAE",
+      "page": 2,
+      "dwt_raw": "40,015",
+      "dwt": 40015,
+      "built_year": 2022,
+      "yard": "SK KOCHI JYUKO",
+      "details": "B. & W. 6S46ME-B8.5 C:4X30T",
+      "ss_dd": "SS/DD 09/2027",
+      "price_raw": "USD 34.5M",
+      "price_usd_m": 34.5,
+      "price_qualifier": "",
+      "price_scope": "vessel",
+      "buyer": "U/D",
+      "en_bloc": false,
+      "en_bloc_group": "",
+      "built_raw": "2022",
+      "price_usd_m_per_vessel": 34.5,
+      "NAME": "DANAE",
+      "DWT": 40015,
+      "BUILT": 2022,
+      "YARD": "SK KOCHI JYUKO",
+      "PRICE": "USD 34.5M",
+      "BUYERS": "U/D",
+      "SS_DD": "SS/DD 09/2027"
+    }
+  ],
+  "demolitions": []
+}

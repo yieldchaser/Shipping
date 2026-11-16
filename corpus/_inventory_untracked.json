@@ -2,18 +2,18 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2976,
-      "untracked_bytes": 2299545255
+      "untracked_files": 2969,
+      "untracked_bytes": 2297474765
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4057,
-      "untracked_bytes": 2389108169
+      "untracked_files": 4060,
+      "untracked_bytes": 2390493481
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 9,
-      "untracked_bytes": 2035986
+      "untracked_files": 18,
+      "untracked_bytes": 2409010
     },
     {
       "path": "corpus/04-poten",
@@ -47,26 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "path": "corpus/01-brokers/_digests/advanced_shipping/2026/advanced_shipping_14_11_2026_advanced_shipping_trading_weekly_shipping_marke.md",
-      "bytes": 19467,
-      "sha256": "cd3b5159665667728403ebf9636205c8a817953e07ed4528563ba0412a9bd496"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/affinity/2026/affinity_14_11_2026_affinity_tanker_weekly_13_november_2026.md",
-      "bytes": 12056,
-      "sha256": "09a7f6e0633c2fbdccbde526a81fd001d37d416be1127ae8eafbfe2af18194ed"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/gibson/2026/gibson_14_11_2026_gibson_tanker_report_crude_correction.md",
-      "bytes": 732,
-      "sha256": "a7416cf81caf58973b0a7e6ecb835244491c43abc03c7329214d026254b8e4f9"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/star_asia/2026/star_asia_16_11_2026_star_asia_shipbroking_weekly_market_report_week_46.md",
-      "bytes": 32174,
-      "sha256": "5bd9d8e1c3acf7f376c7e9288b65a065d133752456e664874137419008bebc48"
-    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -1141,11 +1121,6 @@
       "path": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_03_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf",
       "bytes": 1023184,
       "sha256": "65cfe5f2afb8feb3b295356965e488d620377b628bb791b70b7c8be282126764"
-    },
-    {
-      "path": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_14_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf",
-      "bytes": 1060994,
-      "sha256": "5b20c26f72f9f3a90c4842dca58f3865e8b59632c59586d6ed5c0825d785cd61"
     },
     {
       "path": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_19_09_2026_advanced_shipping_trading_weekly_shipping_marke.pdf",
@@ -2426,11 +2401,6 @@
       "path": "corpus/01-brokers/affinity/2026/affinity_03_10_2026_affinity_tanker_weekly_2_october_2026.pdf",
       "bytes": 270530,
       "sha256": "dcbcb0dc5c0a7ae86f9b7a364ca86153b5c50566f99a9ec18c900db6839ef838"
-    },
-    {
-      "path": "corpus/01-brokers/affinity/2026/affinity_14_11_2026_affinity_tanker_weekly_13_november_2026.pdf",
-      "bytes": 271392,
-      "sha256": "990b9265182b5f834f76040d21513cfb57b9ac849c1fd288149152eb1074658d"
     },
     {
       "path": "corpus/01-brokers/affinity/2026/affinity_19_09_2026_affinity_tanker_weekly_18_september_2026.pdf",
@@ -13383,11 +13353,6 @@
       "sha256": "955868f82571b12bfc798a8943c41c4a7af6e89e5070729676d03907fd2f696f"
     },
     {
-      "path": "corpus/01-brokers/star_asia/2026/star_asia_16_11_2026_star_asia_shipbroking_weekly_market_report_week_46.pdf",
-      "bytes": 673675,
-      "sha256": "d05b144491a356a64635726c13c9d9ddb76ba0388f2e64353d6ec61a1eaa6870"
-    },
-    {
       "path": "corpus/01-brokers/star_asia/2026/star_asia_2026_W01_Market-report-Week-1-2.pdf",
       "bytes": 815738,
       "sha256": "340fd83a738b209e688dbde4365ea755de4670ef084661db72844027e4edc05e"
@@ -20391,6 +20356,16 @@
       "path": "corpus/02-hellenic/iron_ore/2024/assets/2024-07-12_mmi-daily-iron-ore-index-report-july-12-2024_img1_1207202\u03b4\u03c3_e133c3395525.jpg",
       "bytes": 469290,
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/2026/2026-11-16_mmi-daily-iron-ore-index-report-november-16-2026.html",
+      "bytes": 4471,
+      "sha256": "538574033e5d8fcb0efc822c892558b0dcc9ff1c4a9aa5eae0a017464b91eb59"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-11-16_mmi-daily-iron-ore-index-report-november-16-2026_16112026chinese24_5581b481f1f5.jpg",
+      "bytes": 183527,
+      "sha256": "81c301f6d11d1bfc88e4f30e04d0c6d2d017944b03874f99d456e0293217d514"
     },
     {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
@@ -30388,6 +30363,11 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
+      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-11-16_mmi-daily-iron-ore-index-report-november-16-2026_mmi-daily-iron-ore-report-for-16th-n_f76b4fd2a5bd.pdf",
+      "bytes": 1197314,
+      "sha256": "ec918ee5db810e4508bfe33674fdcebe222fe028e107c57bfc545c3df9c08b02"
+    },
+    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -35213,6 +35193,26 @@
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
     },
     {
+      "path": "corpus/03-breakwave/insights/2026/2026-11-16_brazilian-iron-ore-squeezed-margins-resilient-shipments.html",
+      "bytes": 9569,
+      "sha256": "9aa31d7ed03be753878552e1f15cb40b0e21e8cdea75ed536cdefdaaf7f30842"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-11-16_brazilian-iron-ore-squeezed-margins-resilient-shipments.md",
+      "bytes": 8653,
+      "sha256": "e96b1b1feac7f02ad557f0526306e0e9a03aeeda224c88888a871684cb84cbaf"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-11-16_global-grain-market.html",
+      "bytes": 11326,
+      "sha256": "b022fd48d935d7a1222d97e16d2a74c41d0aa67ecbedf3e6a7a4ebd61464fbe6"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-11-16_global-grain-market.md",
+      "bytes": 9521,
+      "sha256": "1e47ad0ab33c2c516c292762432cbef90852c2d75e486b427dbabe16ecc6ecb0"
+    },
+    {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
       "bytes": 69365,
       "sha256": "9848c9a3aaba37a9e84f8cd2263fff62c7771135c466216f51114381d1621e5f"
@@ -35256,6 +35256,31 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-16_brazilian-iron-ore-squeezed-margins-resilient-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5bd63156a67f.png",
+      "bytes": 27156,
+      "sha256": "5dabec14a387d0f7830fca808aea8836c2531c2413ebc870c5b76be738b14214"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-16_brazilian-iron-ore-squeezed-margins-resilient-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98899daaa41d.png",
+      "bytes": 41580,
+      "sha256": "81eda43efd4898e36ab1e461cf7842f7d8d8ec987e6a360db9c514a8d7794469"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-16_brazilian-iron-ore-squeezed-margins-resilient-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ab22ce25ec44.png",
+      "bytes": 49615,
+      "sha256": "5a3852196098ab40e0f6ec7e82ef530b747d18727fd43c608a9190bd1c13367b"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-16_brazilian-iron-ore-squeezed-margins-resilient-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fdb955fc3c8b.png",
+      "bytes": 28333,
+      "sha256": "392c58c5e19cf4481188d45ea851837c89019e9c6a4c5a5ed1bff497d12c5eb6"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-16_brazilian-iron-ore-squeezed-margins-resilient-shipments_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png",
+      "bytes": 187271,
+      "sha256": "a71e6d4f37fccf966018a1881470c6b0c2d6eb21234a5aa245a44a6f401ba0fe"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
