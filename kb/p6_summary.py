@@ -68,6 +68,9 @@ MAX_SENTENCES_LEAF = 3
 MAX_SENTENCES_PARENT = 5
 CHUNK_SCAN_CAP = 20_000
 JUDGE_SAMPLE = 60
+# `kb/gates.yaml` P6.summary_nodes_judged (frozen): the judge must cover 60 nodes. Named here so the
+# gate operand is explicit rather than a magic number inside `build_report`.
+MIN_JUDGE_NODES = 60
 
 PHASE = "P6"
 
@@ -732,6 +735,22 @@ def build_parent(con, index: dict, segment: str, grain: str, period: str,
     return node
 
 
+def _accumulate_drops(total: dict[str, int], drops: dict | None) -> None:
+    """Sum a node's per-reason drop counters into `total` (Defect 40: the report needs the reasons).
+
+    A non-numeric or unreadable counter is skipped, never coerced to 0, so a poisoned reason map
+    cannot widen the denominator silently (`dropped_breakdown` reports the poisoned map as
+    unmeasured instead).
+    """
+    if not isinstance(drops, dict):
+        return
+    for reason, n in drops.items():
+        v = _count(n)
+        if v is None:
+            continue
+        total[str(reason)] = total.get(str(reason), 0) + v
+
+
 def build_tree(con, months_back: int = 0, segments: list[str] | None = None,
                month_from: str | None = None, limit: int = 0, dry: bool = False,
                force: bool = False, writer=write_node, progress: bool = True) -> dict:
@@ -746,6 +765,7 @@ def build_tree(con, months_back: int = 0, segments: list[str] | None = None,
     done: dict[tuple[str, str], dict] = {}
     counts = {"leaves": 0, "parents_q": 0, "parents_y": 0, "cached": 0, "empty": 0,
               "sentences": 0, "dropped": 0}
+    drop_reasons: dict[str, int] = {}
     for i, (seg, month) in enumerate(leaves, 1):
         node = build_leaf(con, index, seg, month, segmap, writer=writer, force=force, dry=dry)
         done[(seg, month)] = node
@@ -754,6 +774,7 @@ def build_tree(con, months_back: int = 0, segments: list[str] | None = None,
         counts["empty"] += int(node["status"] in ("empty", "no_evidence", "no_sentences"))
         counts["sentences"] += len(node.get("sentences") or [])
         counts["dropped"] += sum((node.get("drops") or {}).values())
+        _accumulate_drops(drop_reasons, node.get("drops"))
         if not dry:
             append_node(node)
             if node["status"] == "ok":
@@ -780,6 +801,7 @@ def build_tree(con, months_back: int = 0, segments: list[str] | None = None,
             counts["empty"] += int(node["status"] in ("empty", "no_evidence", "no_sentences"))
             counts["sentences"] += len(node.get("sentences") or [])
             counts["dropped"] += sum((node.get("drops") or {}).values())
+            _accumulate_drops(drop_reasons, node.get("drops"))
             if not dry:
                 append_node(node)
                 if node["status"] == "ok":
@@ -803,6 +825,7 @@ def build_tree(con, months_back: int = 0, segments: list[str] | None = None,
             counts["empty"] += int(node["status"] in ("empty", "no_evidence", "no_sentences"))
             counts["sentences"] += len(node.get("sentences") or [])
             counts["dropped"] += sum((node.get("drops") or {}).values())
+            _accumulate_drops(drop_reasons, node.get("drops"))
             if not dry:
                 append_node(node)
                 if node["status"] == "ok":
@@ -818,7 +841,8 @@ def build_tree(con, months_back: int = 0, segments: list[str] | None = None,
                 "nodes": {nid: {k: v for k, v in meta.items() if k != "sentences"}
                           for nid, meta in index.items()}}
         TREE.write_text(json.dumps(tree, indent=0, default=str), encoding="utf-8")
-    return {"counts": counts, "wall_seconds": round(time.time() - t0, 1), "dry": dry}
+    return {"counts": counts, "wall_seconds": round(time.time() - t0, 1), "dry": dry,
+            "drops": drop_reasons}
 
 
 def top_evidence(children: list[dict], n: int) -> list[dict]:
@@ -920,6 +944,43 @@ def phase_spend_usd() -> float | None:
         return None
 
 
+def number_check_rate(build: dict) -> float | None:
+    """Measured share of *candidate* summary sentences that survived the automatic number check.
+
+    `None` when the build's counters are unreadable, so the gate fails closed instead of reading a
+    broken operand as a clean 1.0.
+    """
+    counts = (build or {}).get("counts") or {}
+    dropped = _count(counts.get("dropped"))
+    if dropped is None:
+        return None
+    kept = _count(counts.get("sentences"))
+    if kept is None or kept < 0:
+        return None
+    candidates = kept + dropped
+    return 1.0 if candidates == 0 else round(kept / candidates, 6)
+
+
+def dropped_breakdown(build: dict) -> dict | None:
+    """The build's per-reason drop counters (`build_tree` sums the per-node `drops` maps).
+
+    Defect 40 (P6 instrument): the report carried `pass_rate: 1.0` as a literal, so the number-check
+    row certified 100% no matter what the build actually dropped. Only the aggregate was reachable
+    from `build_tree`'s counters, so the row now reports the measured rate plus the honest note that
+    the *reason* breakdown is not propagated to the summary counters (rather than inventing zeros).
+    """
+    by_reason = (build or {}).get("drops") or {}
+    if not isinstance(by_reason, dict):
+        return None
+    out: dict[str, int] = {}
+    for reason, n in by_reason.items():
+        v = _count(n)
+        if v is None:
+            return None
+        out[str(reason)] = v
+    return out or None
+
+
 def build_report(index: dict, build: dict, judge: dict | None = None) -> dict:
     nodes = [{"node_id": nid, **{k: v for k, v in meta.items() if k != "sentences"}}
              for nid, meta in sorted(index.items())]
@@ -928,6 +989,11 @@ def build_report(index: dict, build: dict, judge: dict | None = None) -> dict:
         by_grain.setdefault(nd["grain"], 0)
         by_grain[nd["grain"]] += 1
     total_sentences = sum(len(m.get("sentences") or []) for m in index.values())
+    # Defect 40: the surface scanned is every candidate sentence the writer proposed, not only the
+    # survivors. `1.0` over survivors only was the tautology the literal encoded.
+    nc_rate = number_check_rate(build)
+    nc_dropped = _count(((build or {}).get("counts") or {}).get("dropped"))
+    nc_candidates = None if nc_rate is None else total_sentences + (nc_dropped or 0)
     report = {
         "phase": PHASE,
         "sample_seed": seed_for(PHASE),
@@ -937,9 +1003,14 @@ def build_report(index: dict, build: dict, judge: dict | None = None) -> dict:
         "sentences_kept": total_sentences,
         "number_check": {
             "sentences_kept": total_sentences,
-            "kept_sentences_with_number_failure": 0,  # dropped by construction (§8 citation rule)
+            "sentences_proposed": nc_candidates,
+            "sentences_dropped": nc_dropped,
+            # Kept sentences are number-verified by construction (§8 citation rule); this field stays
+            # 0 because `validate_sentences` drops before keeping, and every drop is counted.
+            "kept_sentences_with_number_failure": 0,
+            "drops_by_reason": dropped_breakdown(build),
             "silent_drop": "none: every rule failure is counted in the per-node drops",
-            "pass_rate": 1.0,
+            "pass_rate": nc_rate,
         },
         "judge": judge or {"sampled": 0, "mean_score": None, "faithful_rate": None},
         "writer_model": WRITER_MODEL,
@@ -955,9 +1026,13 @@ def build_report(index: dict, build: dict, judge: dict | None = None) -> dict:
     # Defect 17: ungraded rows must block the gate. `run_judge` reports them; a judge that answered
     # only a handful of nodes otherwise showed a `faithful_rate` computed over that handful.
     judge_ungraded = (judge or {}).get("ungraded")
+    # Defect 40 (limb 2): `gates.yaml` P6 requires `summary_nodes_judged: 60`. The gate tested the
+    # rate but never the sample size, so a judge that answered 3 nodes could have certified P6.
+    judged = None if judge is None else _count((judge or {}).get("sampled"))
     report["gate_passed"] = bool(judge and judge.get("faithful_rate") is not None
                                  and judge["faithful_rate"] >= 0.95
-                                 and report["number_check"]["pass_rate"] == 1.0
+                                 and judged is not None and judged >= MIN_JUDGE_NODES
+                                 and nc_rate == 1.0
                                  and not judge_ungraded)
     return report
 
@@ -982,10 +1057,12 @@ def _md(report: dict) -> str:
         f"- leaves {c['leaves']}, quarter nodes {c['parents_q']}, year nodes {c['parents_y']}",
         f"- cached {c['cached']}, empty {c['empty']}",
         f"- sentences kept {report['sentences_kept']}, rule-dropped {c['dropped']}",
-        f"- automatic number check: pass rate {report['number_check']['pass_rate']} "
-        f"(kept-sentence failures {report['number_check']['kept_sentences_with_number_failure']})",
+        f"- automatic number check: pass rate {_r(report['number_check']['pass_rate'])} "
+        f"over {_r(report['number_check'].get('sentences_proposed'))} proposed sentences "
+        f"(kept-sentence failures {report['number_check']['kept_sentences_with_number_failure']}, "
+        f"rule-dropped {_r(report['number_check'].get('sentences_dropped'))})",
         f"- judge faithfulness: {_r(j.get('faithful_rate'))} over {_r(j.get('sampled'))} nodes "
-        f"(mean score {_r(j.get('mean_score'))}, need >= 0.95)",
+        f"(mean score {_r(j.get('mean_score'))}, need >= 0.95 over >= {MIN_JUDGE_NODES} judged nodes)",
         f"- judge graded {_r(j.get('graded', j.get('sampled')))} · "
         f"ungraded {_r(j.get('ungraded', 0))} "
         f"(rate {_r(j.get('ungraded_rate'))}; ungraded rows block the gate)",

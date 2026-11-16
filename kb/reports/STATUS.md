@@ -15,8 +15,8 @@ Live run status. Real spend read from `http://127.0.0.1:4100/stats`.
 | gold | done | PASS (250/250 items, all 8 strata on target, 250/250 re-verified from DB, seed 2888775339, $0) | commit (this phase) |
 | P4b | done | **PASS** (120 gold chunks / 29 packed calls; chosen `deepseek-v4.1-flash-1017-ultrafast` P 0.922 R 0.536 F1 0.678; 5/5 `gates.yaml` rows pass; $4.75 total) | checkpoint C1 now |
 | P4c | **done** | **PASS all 5 gates** (union 86,607 chunks / 183,486 records, `failure_queue_rate 0.02` = 1730/86,607 on the ceiling, `coverage 1.0` declared per §7.5; audit 200/200 judged, `wrong_rate 0.005`, judge `glm-5.3` vs extractor `DeepSeek-V4.1-Flash`; `p4c_esc` $11.076) | commit `b02cee68ef`; see "P4c CLOSED" below | (Amendment 1 in `C1_APPROVED.md`): bulk extractor moved off congested Ultrafast to the **8-account AMD Token Lab pool** (`DeepSeek-V4.1-Flash`, fallback `DeepSeek-V4-Flash`). AMD is **paid**, not free: measured $0.28/M in, $0.0056/M cached, $0.56/M out = $0.00134/accepted pack ⇒ ~$31.5 for the remaining packs, booked at $31.25. Transport parity vs P4b scorer PASS at 0.92. Then union → precision gate → escalation ladder ($11, D12 cap-prioritised) → audit/recall/report. Gleaning and the glm-5.3 second extractor are booked at $0 and deferred to a post-C2 owner decision. Judge for the upcoming P6/P7 work is Google `Gemma-4-31B-IT` on AMD Token Lab (Amendment 10, replacing NIM); its fenced reply format is handled by the Defect 16 fix. **The 10-pack tail was proven provider-side, not self-inflicted**: rounds 17–19 each attempted the same 10 packs for `out_tok +0, errors 0, ok=0 cached=0 err=10 retries=50 cost=$0.0000`, so with writers SIGKILLed and the pool idle for 180 s a fresh control probe (`kb/_t_quiet.py`, no ledger write) got `HTTP 429` in 1–2 s on *finished* packs 24,976/24,977 as well as on the stuck ones, and `HTTP 503` after 61 s on the rest — a fully idle pool serving nothing is account-level throttling, not a code defect, so **no code change was warranted** and the only response is to retry the transport. (The earlier "314 error rows" reading was a `ledger_errors`-vs-`status='error'` gap: `runner._record` deliberately never refreshes `created_at` on retry, per the P4b key-stability contract, so a re-failed pack keeps its first-seen timestamp.) Owner has since raised the gateway cap to $95 and restored Enclave high-speed routing; the drain was restarted detached 2026-11-16 10:5x local. **Tail closed 2026-11-16 15:34**: the last 2 packs (`p017656` HTTP 503, `p021624` HTTP 429) were permanent AMD refusals after 5 attempts each (`ok=0 err=2 retries=10` in 852 s on a 1-worker/6-rpm drain), so they were cleared on the designed escalation rung instead — `p4c_esc`/`glm-5.3`, 7 single-chunk packs, `ok=7 err=0 retries=0`, 4 batches, 29.5 s, **$0.111980** (`kb/state/p4c/run_p4c_esc.json`). `p4c_esc` is now a *measured* pass in the ledger, not `UNMEASURED`. Whole-path `spent_exact` re-read at that point: **$29.216919** over 31,543 ledger rows, of the `$82` pipeline cap; bulk progress **24,976 / 24,978 = 99.992%** |
-| P5 | scaffolded (code + 20 tests, `5e720111cb` chain) | — | gated on P4c PASS; tables `edge`/`event`/`record_txn` still empty |
-| P6 | scaffolded (code + 28 tests) | — | gated on P5 |
+| P5 | **done** | **PASS both gates**: `records_without_code_sliced_quote 0`, `dangling_entity_ids 0`; 86,607/86,607 chunks, `edge 23,666` / `event 80,409` / `claim 79,411` / `event_role 54,479` / `record_txn 26,698`; quote audit 183,486/183,486 verbatim; `dangling total 0`; $0 spend, 2,475.6 s | commit (this phase) |
+| P6 | scaffolded (code + 56 tests) | — | gated on P5 — **now unblocked** |
 | P7 | scaffolded (tools/ask/eval/analyst/discovery/rubric/report, 98 tests, `edc962ad70`) | — | gated on P5+P6; checkpoint C2 after |
 | P8 | not started | — | `kb/update.py` + `kb_*.yml` CI + snapshot publish, after C2 approval |
 
@@ -68,7 +68,7 @@ Real gateway numbers, `GET http://127.0.0.1:4100/stats` at end of P4b (2026-11-1
 | Enclave (agent, paid V4 Pro) | $66.04 (**over cap by $0.04**, unchanged since P2) | $66.00 |
 | Ultrafast (free flash) | 611,858 output tok today (free) | 4,800,000/day |
 | NVIDIA NIM (free third provider) | $0.00 — all P4a embedding calls | free (~40 req/min) |
-| Pipeline (cumulative stage LLM spend) | **$4.75** (P4b: refs $3.11, candidates $0.61, hole-fill $0.12, adjudication $0.05) | $82 |
+| Pipeline (cumulative stage LLM spend) | **$37.019666** measured (ledger, 33,918 rows) after P5 | $82 frozen (owner raised the gateway cap to $95, operational) |
 
 P4a spent **$0**: chunking/indexing/retrieval/eval are deterministic Python + DuckDB + numpy; the
 only model use is the free NIM embedding endpoint (220,150 vectors, 99,069,064 tokens, 2,302
@@ -2423,4 +2423,80 @@ the probe, not the corpus.
 `kb/state/p4c/singles_retry.jsonl` (7,538 lines) has no consumer — decide retire vs rerun;
 `p4c_recall.py` union recall gain unmeasured; `p4c_glean` (2 raws) and `p4c_glm2` (0 raws) are booked
 at $0 and deferred to the post-C2 owner decision (D14).
+
+## 2026-11-17 — P5 DuckDB graph build: GATE PASSED
+
+Command: `python kb/p5_build.py --report` (no `--limit`), tee `kb/state/tmp/p5_full.out.txt`,
+wall **2,475.6 s** (~41 min), spend **$0.00** (pure DuckDB/graph work, no model calls).
+
+Input precedence: `default_gated_paths()` → **`kb/state/p4c/union/gated_union.jsonl`** first (the
+highest rung that exists), then `gated.jsonl`, then the four rungs — all four lower rungs reported
+`exists: false`, so the build is a single-pass union load with no double insert.
+
+| Frozen P5 gate (`gates.yaml` P5) | Required | Measured | Verdict |
+|---|---|---|---|
+| `records_without_code_sliced_quote` | 0 | **0** (`quote_audit: checked 183,486 / bad 0`) | PASS |
+| `dangling_entity_ids` | 0 | **0** (`edge 0`, `event_role 0`, `claim 0`, `alias 0`, `total 0`) | PASS |
+
+Volume: `chunks_in 86,607` = `chunks_processed 86,607` (no skipped/short read), `kept_by_kind
+{state_facts 23,666, events 80,409, claims 79,411}` = the union totals exactly, so the loader
+dropped nothing on the way in (`drops: {}`). Inserted rows: `edge 23,666`, `event 80,409`,
+`claim 79,411`, `event_role 54,479`, `record_txn 26,698`; `table_counts` equals `inserted` for every
+table (post-build re-read, not the in-flight counters). Graph projection `ppr`:
+**310,794 nodes / 334,094 edges** written to `kb/state/p5/ppr_nodes.parquet` +
+`ppr_edges.parquet`. `ref_date 2026-11-07`.
+
+`drops` is an empty map, not a missing key: `records_without_code_sliced_quote 0` is therefore a
+measured zero over all 183,486 records, and `quote_audit.checked 183,486` proves the audit ran over
+the whole population rather than a sample (`quote_audit_samples: []` because there were no bad rows
+to sample). No threshold was lowered and no slice was cut; the run is resumable and was executed to
+`chunks 86,607/86,607` in one pass.
+
+Artefacts: `kb/reports/P5.json`, `kb/reports/P5.md`, DB `kb/state/kb.duckdb`.
+
+### Defect 40 (P6 instrument, found before T6, fixed)
+
+While P5 ran, the P6 gate instrument was audited against `gates.yaml` P6:49–52
+(`summary_number_check_rate 1.0`, `summary_faithfulness_judge 0.95`, `summary_nodes_judged 60`) and
+Plan §11 P6 (`docs/GRAPHRAG_BUILD_PLAN.md:557`). Two ways the instrument could have certified P6
+without meeting the frozen contract:
+
+1. **No sample-size term.** `gate_passed` tested `faithful_rate >= 0.95` but never the frozen
+   **60**-node sample. A judge that answered 3 nodes perfectly reported `faithful_rate 1.0` and
+   `gate_passed True`. Fixed by `MIN_JUDGE_NODES = 60` (`kb/p6_summary.py`) and a
+   `judged >= MIN_JUDGE_NODES` term, where `judged = _count(judge["sampled"])` — an unreadable or
+   non-whole sample size is `None` ⇒ gate **fails closed**, never "large enough".
+2. **`number_check.pass_rate` was a hardcoded `1.0`.** The row read
+   `"pass_rate": 1.0` as a literal with the comment "dropped by construction", so the
+   `summary_number_check_rate: 1.0` gate operand was not actually measured — any silent drop passed.
+   Now `number_check_rate(build)` measures the survivor share of the sentences the writer
+   **proposed** (`kept / (kept + dropped)` from `build_tree`'s real counters), `_accumulate_drops`
+   collects the per-reason drop map (and `build_tree` now returns it as `"drops"`), and the report
+   carries `sentences_proposed`, `sentences_dropped` and `drops_by_reason` so
+   `number_not_in_evidence` is visible. An unreadable `dropped` counter ⇒ `pass_rate None` ⇒ gate
+   false. The MD renderer now prints the measured rate and the `>= 60` requirement instead of a
+   literal.
+
+Honesty note: `kept_sentences_with_number_failure` remains `0` **by construction and by measurement**
+— `validate_sentences` drops a sentence before it can be kept, so the *candidate* surface is where
+the rate lives, which is exactly why the literal was wrong. Three new tests
+(`test_report_gate_requires_the_frozen_judged_sample_size`,
+`test_report_number_check_rate_is_measured_from_the_build_not_a_literal`,
+`test_build_tree_collects_drop_reasons_and_pass_rate_path`) pin both limbs, including the
+`sampled < 60` FAIL cases and the `pass_rate 0.6` FAIL case; `kb/tests/test_p6_summary.py` is
+**56 passed** and `kb/tests/test_money_invariants.py` stayed green (64 passed together). No gate
+value was changed.
+
+### Spend after P5
+
+Ledger-measured (`kb/state/ledger.sqlite`, table `jobs`), 33,918 rows:
+`p4c_bulk 28,470 $24.142231`, `p4c_esc 763 $6.342838`, `p4b_ref 341 $3.114049`,
+`p4c_audit 800 $1.197532`, `p4b_ref_sup 75 $0.860778`, `p4b_cand 896 $0.608100`,
+`p4c_bulk_retry 1,059 $0.497048`, `p4b_cand_sup 201 $0.118674`, `p4c_retry_smoke 101 $0.054164`,
+`p4b_adj 1,150 $0.052701`, `p4c_parity 20 $0.013744`, `p4c_esc_preflight 1 $0.011052`,
+`p4c_parity_real 8 $0.006699`, `p6_judge 2 $0.000013`, `p7_ask 17 $0.000043`,
+`p4c_dry 12 $0.0`, `p4c_glean 2 $0.0` — **total $37.019666** of the frozen $82 pipeline cap
+(owner authorized $95 operationally; the frozen `gates.yaml` value is untouched). P5 itself added
+$0. P6/P7 judge spend is still near zero because the P6 judge has only run smoke probes so far.
+
 

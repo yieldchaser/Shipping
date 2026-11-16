@@ -391,6 +391,84 @@ def test_report_gate_requires_judge_faithfulness():
     assert high["sample_seed"] == P.seed_for("P6")
 
 
+def test_report_gate_requires_the_frozen_judged_sample_size():
+    """Defect 40: `gates.yaml` P6 requires 60 judged nodes; the rate alone let a tiny sample certify.
+
+    A judge that answered 3 nodes perfectly reported `faithful_rate 1.0`, and the gate had no
+    sample-size term, so P6 could have been certified off 3 nodes instead of the frozen 60.
+    """
+    index = {"n:a": {"grain": "month", "segment": "capesize", "period": "2026-03", "input_hash": "x",
+                     "summary": "s", "sentences": [{"sentence": "s", "cites": ["obs:1"]}]}}
+    build = {"counts": {"leaves": 1, "parents_q": 0, "parents_y": 0, "cached": 0, "empty": 0,
+                        "sentences": 1, "dropped": 0}, "wall_seconds": 1.0}
+    assert P.MIN_JUDGE_NODES == 60, "the frozen P6 operand is summary_nodes_judged: 60"
+    for n in (0, 1, 3, 59):
+        rep = P.build_report(index, build, {"sampled": n, "ungraded": 0,
+                                            "mean_score": 1.0, "faithful_rate": 1.0})
+        assert rep["gate_passed"] is False, f"a {n}-node judge sample may not certify P6"
+    ok = P.build_report(index, build, {"sampled": 60, "ungraded": 0,
+                                       "mean_score": 1.0, "faithful_rate": 1.0})
+    assert ok["gate_passed"] is True
+    # An unreadable sample size is unmeasured, never "large enough".
+    for bad in (None, float("inf"), "60", True):
+        rep = P.build_report(index, build, {"sampled": bad, "ungraded": 0,
+                                            "mean_score": 1.0, "faithful_rate": 1.0})
+        assert rep["gate_passed"] is False, f"sampled={bad!r} is not a measured 60"
+
+
+def test_report_number_check_rate_is_measured_from_the_build_not_a_literal():
+    """Defect 40: `number_check.pass_rate` was hardcoded 1.0, so the row certified 100% regardless.
+
+    The rate is now the measured survivor share of the candidate sentences the writer proposed, and
+    the drop-reason breakdown reaches the report; a build with an unreadable counter is UNMEASURED
+    and fails the gate instead of reading as clean.
+    """
+    index = {"n:a": {"grain": "month", "segment": "capesize", "period": "2026-03", "input_hash": "x",
+                     "summary": "s", "sentences": [{"sentence": "s", "cites": ["obs:1"]}]}}
+    clean = {"counts": {"leaves": 1, "parents_q": 0, "parents_y": 0, "cached": 0, "empty": 0,
+                        "sentences": 1, "dropped": 0},
+             "wall_seconds": 1.0,
+             "drops": {"no_cite": 0, "unknown_cite": 0, "number_not_in_evidence": 0, "over_limit": 0,
+                       "no_number_sentence_ok": 0}}
+    rep = P.build_report(index, clean, {"sampled": 60, "ungraded": 0, "mean_score": 1.0,
+                                        "faithful_rate": 1.0})
+    assert rep["number_check"]["pass_rate"] == 1.0
+    assert rep["number_check"]["sentences_proposed"] == 1
+    assert rep["number_check"]["drops_by_reason"]["number_not_in_evidence"] == 0
+    assert rep["gate_passed"] is True
+
+    dirty = {"counts": {"leaves": 1, "parents_q": 0, "parents_y": 0, "cached": 0, "empty": 0,
+                        "sentences": 3, "dropped": 2},
+             "wall_seconds": 1.0,
+             "drops": {"no_cite": 0, "unknown_cite": 0, "number_not_in_evidence": 2, "over_limit": 0,
+                       "no_number_sentence_ok": 0}}
+    rep = P.build_report(index, dirty, {"sampled": 60, "ungraded": 0, "mean_score": 1.0,
+                                        "faithful_rate": 1.0})
+    assert rep["number_check"]["pass_rate"] == 0.6, "3 of 5 proposed sentences survived the check"
+    assert rep["number_check"]["drops_by_reason"]["number_not_in_evidence"] == 2
+    assert rep["gate_passed"] is False, "a number-check drop must fail the 100% gate"
+
+    for bad in (None, float("inf"), "0", True):
+        broken = {"counts": {"leaves": 1, "parents_q": 0, "parents_y": 0, "cached": 0, "empty": 0,
+                             "sentences": 1, "dropped": bad},
+                  "wall_seconds": 1.0}
+        rep = P.build_report(index, broken, {"sampled": 60, "ungraded": 0, "mean_score": 1.0,
+                                             "faithful_rate": 1.0})
+        assert rep["number_check"]["pass_rate"] is None, f"dropped={bad!r} is not a measured 0"
+        assert rep["gate_passed"] is False
+
+
+def test_build_tree_collects_drop_reasons_and_pass_rate_path():
+    """The report's drop breakdown must come from the build's real per-node counters."""
+    total = {}
+    P._accumulate_drops(total, {"no_cite": 1, "number_not_in_evidence": 2})
+    P._accumulate_drops(total, {"no_cite": 3, "bogus": None, "worse": "x"})
+    assert total == {"no_cite": 4, "number_not_in_evidence": 2}, "unreadable counters are skipped"
+    assert P.number_check_rate({"counts": {"sentences": 3, "dropped": 1}}) == 0.75
+    assert P.number_check_rate({"counts": {"sentences": 0, "dropped": 0}}) == 1.0
+    assert P.number_check_rate({"counts": {"sentences": 1, "dropped": None}}) is None
+
+
 def test_report_markdown_declares_design_and_gates():
     index = {"n:a": {"grain": "month", "segment": "capesize", "period": "2026-03", "input_hash": "x",
                      "summary": "s", "sentences": [{"sentence": "s", "cites": ["obs:1"]}]}}

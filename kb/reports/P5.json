@@ -1,0 +1,149 @@
+{
+  "phase": "P5",
+  "sample_seed": 4149439492,
+  "gated_files": [
+    {
+      "path": "C:\\Users\\Dell\\Github\\Shipping\\kb\\state\\p4c\\union\\gated_union.jsonl",
+      "exists": true
+    },
+    {
+      "path": "C:\\Users\\Dell\\Github\\Shipping\\kb\\state\\p4c\\gated.jsonl",
+      "exists": false
+    },
+    {
+      "path": "C:\\Users\\Dell\\Github\\Shipping\\kb\\state\\p4c\\rungs\\p4c_bulk.jsonl",
+      "exists": false
+    },
+    {
+      "path": "C:\\Users\\Dell\\Github\\Shipping\\kb\\state\\p4c\\rungs\\p4c_bulk_retry.jsonl",
+      "exists": false
+    },
+    {
+      "path": "C:\\Users\\Dell\\Github\\Shipping\\kb\\state\\p4c\\rungs\\p4c_esc.jsonl",
+      "exists": false
+    },
+    {
+      "path": "C:\\Users\\Dell\\Github\\Shipping\\kb\\state\\p4c\\rungs\\p4c_glm2.jsonl",
+      "exists": false
+    }
+  ],
+  "chunks_in": 86607,
+  "chunks_processed": 86607,
+  "inserted": {
+    "edge": 23666,
+    "event": 80409,
+    "claim": 79411,
+    "event_role": 54479,
+    "record_txn": 26698
+  },
+  "table_counts": {
+    "edge": 23666,
+    "event": 80409,
+    "event_role": 54479,
+    "claim": 79411,
+    "record_txn": 26698
+  },
+  "kept_by_kind": {
+    "state_facts": 23666,
+    "events": 80409,
+    "claims": 79411
+  },
+  "drops": {},
+  "dangling": {
+    "edge": 0,
+    "event_role": 0,
+    "claim": 0,
+    "alias": 0,
+    "total": 0
+  },
+  "quote_audit": {
+    "checked": 183486,
+    "bad": 0
+  },
+  "quote_audit_samples": [],
+  "ppr": {
+    "nodes": 310794,
+    "edges": 334094,
+    "nodes_path": "C:\\Users\\Dell\\Github\\Shipping\\kb\\state\\p5\\ppr_nodes.parquet",
+    "edges_path": "C:\\Users\\Dell\\Github\\Shipping\\kb\\state\\p5\\ppr_edges.parquet"
+  },
+  "records_without_code_sliced_quote": 0,
+  "dangling_entity_ids": 0,
+  "sample_records": [
+    {
+      "table": "edge",
+      "record_id": "e:c7ebb67614ca9417",
+      "chunk_id": "3a75d331e180891a61dd38be7f2873e9",
+      "doc_id": "32413df945f57ec6",
+      "published_at": "2025-08-07",
+      "source_path": "corpus/10-companies/DHT/6-K/DHT_6-K_2025-08-07_0000950157-25-000623.md"
+    },
+    {
+      "table": "edge",
+      "record_id": "e:a8a42927a517fcd6",
+      "chunk_id": "c9418341c6691ff463f403a70fe98056",
+      "doc_id": "c59c4ef8246fe2dc",
+      "published_at": "2021-11-19",
+      "source_path": "data/extracted/md/banchero_costa/2021/banchero_costa_2021_W46_Bancosta-Weekly-2021-46.md"
+    },
+    {
+      "table": "claim",
+      "record_id": "c:49ab36582d94a47a",
+      "chunk_id": "fe5520bc858a36ede47b8937e4f3959c",
+      "doc_id": "6a3696bf54026ec0",
+      "published_at": "2015-06-04",
+      "source_path": "corpus/10-companies/LPG/10-K/LPG_10-K_2015-06-04_0000919574-15-004764.md"
+    },
+    {
+      "table": "event",
+      "record_id": "ev:1ea1bea0786c7ac3",
+      "chunk_id": "d01290f18a2dc49d790b2c0a6a3b16e1",
+      "doc_id": "0a126ee32ff194db",
+      "published_at": "2024-11-01",
+      "source_path": "data/extracted/md/breakwave/insights/2024/2024-11-01_oej89m96rcx7jz4rm92idp7vvri184.md"
+    },
+    {
+      "table": "claim",
+      "record_id": "c:2005662ef5513a83",
+      "chunk_id": "fc3686a71e040ace280f5e45f102d622",
+      "doc_id": "be2efdc0e986f487",
+      "published_at": "2023-08-01",
+      "source_path": "data/extracted/md/breakwave/drybulk/2023/2023-08-01_Breakwave_Dry_Bulk.md"
+    },
+    {
+      "table": "claim",
+      "record_id": "c:884ced59f040aa4a",
+      "chunk_id": "e9e0e0645cfd579684d6141f3fcaeb80",
+      "doc_id": "4716de64631fbaf2",
+      "published_at": "2024-06-19",
+      "source_path": "data/extracted/md/drewry/opinions/2024/2024-06-19_fsru-market-thrives-amid-robust-lng-demand-growth.md"
+    },
+    {
+      "table": "event",
+      "record_id": "ev:86974eae6bc3bf93",
+      "chunk_id": "99c383653303d934c6defc09b6de1c71",
+      "doc_id": "4d20ffc03669415a",
+      "published_at": "2023-01-01",
+      "source_path": "data/extracted/md/seabrokers/2023/2023-01-01_markedsrapport-januar-2023.md"
+    },
+    {
+      "table": "event",
+      "record_id": "ev:482acb92c355bf84",
+      "chunk_id": "332fc983978f90bc7bba401f2969f377",
+      "doc_id": "5660744069367bd5",
+      "published_at": "2024-06-22",
+      "source_path": "data/extracted/md/star_asia/2024/star_asia_2024_W25_Market-report-Week-25.md"
+    },
+    {
+      "table": "edge",
+      "record_id": "e:0cb0c80859871101",
+      "chunk_id": "de228577861fcfa78cb435c1cba03fc9",
+      "doc_id": "6725b6fda4320049",
+      "published_at": "2025-04-11",
+      "source_path": "data/extracted/md/advanced_shipping/2025/advanced_shipping_2025_W15_ADVANCED-MARKET-REPORT-WEEK-15.md"
+    }
+  ],
+  "spend_usd": 0.0,
+  "wall_seconds": 2475.6,
+  "ref_date": "2026-11-07"
+}
