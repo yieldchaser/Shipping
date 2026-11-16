@@ -183,6 +183,88 @@ def test_plan_writes_seeded_items(monkeypatch, tmp_path):
     assert payload["seed"] == A.seed_for("P4C") and len(payload["items"]) == 3
 
 
+def test_judge_job_never_carries_the_extractor_tool(monkeypatch):
+    """Defect 37: judge calls inherited the extractor's forced `record_extraction` tool.
+
+    `make_job` built `extra_body` from the extractor transport mode, so with `mode="tools"` every
+    judge call was forced to call the extraction function and answered with an extraction body. The
+    audit then read 184/200 verdicts as unparseable and reported `wrong_rate 1.0` - a failing gate
+    invented by the harness. Pin the judge transport: JSON verdict, no `tools`/`tool_choice`, however
+    the extractor negotiated its own mode, and bump the version tag so polluted verdicts cannot be
+    served from the raw cache.
+    """
+    item = {"chunk_id": "c1", "kind": "state_facts", "index": 0, "audit_id": "a000",
+            "record": rec(), "quote": ["Rotterdam handled 12 vessels."]}
+    for mode in ("tools", "json_schema", "json_object"):
+        body = A.make_job(item, "glm-5.3", mode)["extra_body"]
+        assert "tools" not in body and "tool_choice" not in body, mode
+        assert body["response_format"] == {"type": "json_object"}
+    plain = A.make_job(item, "deepseek-v4-flash", "tools")
+    assert "tools" not in plain["extra_body"]
+    assert plain["job_key"] != A.make_job(item, "glm-5.3", "tools")["job_key"]
+    # the version tag moved past the polluted cache, not just the transport mode
+    assert A.make_job(item, "glm-5.3", "tools")["job_key"] != A.R.job_key(
+        A.PASS, "glm-5.3", "audit-v1", "tools", "c1|state_facts|0")
+
+
+def test_the_cache_tag_is_derived_from_the_prompt(monkeypatch):
+    """Defect 38: a literal version tag replays verdicts from a superseded prompt.
+
+    Rewriting `JUDGE_PROMPT` to score the frozen §7.4 contract changed the instrument. If the cache
+    tag stayed a constant, `runner.run` would serve the previous prompt's raw verdicts and the audit
+    would report a measurement it never took. The tag must be a function of the prompt text.
+    """
+    item = {"chunk_id": "c1", "kind": "state_facts", "index": 0, "audit_id": "a000",
+            "record": rec(), "quote": ["Rotterdam handled 12 vessels."]}
+    before = A.make_job(item, "glm-5.3", "tools")["job_key"]
+    assert A.judge_prompt_version().startswith("audit-")
+    assert len(A.judge_prompt_version()) == len("audit-") + 12
+    monkeypatch.setattr(A, "JUDGE_PROMPT", A.JUDGE_PROMPT + "\nOne more sentence.")
+    after = A.make_job(item, "glm-5.3", "tools")["job_key"]
+    assert after != before, "editing the judge prompt must invalidate the cached verdicts"
+
+
+def test_the_judge_prompt_scores_only_the_frozen_contract():
+    """The judge must not demand evidence the acceptance contract never asks for.
+
+    Measured: 0/183,486 union records violate §7.4 rules 3-4 (union re-gates every record through
+    `extract_gates`), yet the old prompt produced 44/184 drops. Prompting for `direction` and entity
+    semantics that the frozen contract resolves code-side is an instrument defect (Defect 37/38
+    family), not a record defect.
+    """
+    p = A.JUDGE_PROMPT
+    assert "§7.4" in p
+    assert "need NOT appear in the quote" in p  # known ids resolve document-wide (rule 4)
+    assert "new_entities_verified" in p  # Defect 39: the catalog the gate verified must be given
+    assert "Do not judge tone" in p and "paraphrase" in p
+    # the five legal direction values, and nothing beyond them
+    assert all(v in p for v in ("`up`", "`down`", "`flat`", "`mixed`", "`na`"))
+
+
+def test_the_audit_item_carries_the_catalog_rule_4_is_checked_against():
+    """Defect 39: rule 4 is checked against a new entity's OWN sentences, so the item must carry them.
+
+    The frozen `extract_gates.gate_chunk` verifies each new entity against `quote_for(ne.sids,
+    ne_sents)` and `p4c_union` keeps only the passing ids. An audit item that omitted that catalog
+    made the judge re-test rule 4 against the *record's* quote and drop 8 compliant records
+    (`kb/state/tmp/audit9_unionmap.out.txt`: every dropped `new:` ref had `unresolved_new=[]`).
+    """
+    row = {"chunk_id": "c9", "doc_id": "d9", "publisher": "Fearnleys", "doc_type": "broker_weekly",
+           "published_at": "2026-01-05",
+           "new_entities": {"company:new:nautilus_international": "Nautilus International"},
+           "kept": {"claims": [{"subjects": ["company:new:nautilus_international"], "direction": "na",
+                                "quote": ["Owners are reorganising."]}]}}
+    (item,) = A.flat_row_records(row)
+    assert item["new_entities_verified"] == {
+        "company:new:nautilus_international": "Nautilus International"}
+    body = json.loads(A.item_messages(item)[1]["content"])
+    assert body["new_entities_verified"]["company:new:nautilus_international"] == "Nautilus International"
+    # a row with no catalog must still produce a usable item, not crash or fabricate one
+    (bare,) = A.flat_row_records({"chunk_id": "c1", "kept": {"claims": [{"quote": ["x"]}]}})
+    assert bare["new_entities_verified"] == {}
+    assert json.loads(A.item_messages(bare)[1]["content"])["new_entities_verified"] == {}
+
+
 def test_cmd_run_refuses_same_family(monkeypatch):
     monkeypatch.setattr(A, "_selected_extractor", lambda: "deepseek-v4-flash")
     args = type("Args", (), {"model": "deepseek-v4-pro", "extractor": None, "cap": 0.0, "limit": 0})()

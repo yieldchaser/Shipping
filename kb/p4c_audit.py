@@ -37,15 +37,40 @@ AUDIT_MD = KB.parent / "kb/reports/p4c_audit.md"
 
 RECORDS_TARGET = 200
 
-JUDGE_PROMPT = """You audit extracted records against the sentences the extractor quoted.
+JUDGE_PROMPT = """You audit extracted records against the frozen acceptance contract (plan §7.4).
 
 For each item you get: publisher, doc type, date, the quoted sentence(s), and one extracted record
-JSON. Decide whether the quote supports the record exactly as written:
-- keep: every printed number, direction and entity in the record occurs in the quote
-- drop: something in the record is absent, altered, or contradicted by the quote
+JSON. Judge ONLY these three code-checkable rules. Do not judge tone, wording, paraphrase,
+completeness, role semantics, whether an entity is the "right kind", or anything the contract below
+does not state - the contract is the whole standard, not a starting point.
 
-Printed numbers must match as printed. Do not add facts from outside the quote. Answer with JSON only:
-{"verdict": "keep" | "drop", "reason": "<=12 words"}
+RULE 3 - printed numbers. Collect the numbers that are printed in these fields only:
+`attrs_printed[].value_as_printed`, `valid_from_printed`, `valid_to_printed`, `when_printed`,
+`magnitude_printed`, `horizon_printed`. Every number token in them must appear in the quoted
+sentence(s), matching as printed. A number that is absent from the quote fails.
+Ignore whether descriptive words around a number appear; only the number tokens matter here. A value
+with no digit in it (e.g. `"the decade ahead"`) has no number tokens and cannot fail this rule.
+
+RULE 4 - entity references. `src`, `dst`, `roles[].entity` and `subjects[]` must each be either an
+existing id (any id of the form `type:NAME`, e.g. `company:cik0000913290`, `country:IN`,
+`route:TC5`, `commodity:crude_oil`) or a newly proposed entity (an id whose name part begins with
+`new:`). Existing ids resolve against a document-wide catalog, so they need NOT appear in the quote.
+A NEW id is accepted when it appears as a key of `new_entities_verified` - that map lists exactly the
+new entities the acceptance code already verified against their OWN cited sentences, so treat its
+keys as resolved and do not re-test them against `quote`. Only if a `new:` id is ABSENT from
+`new_entities_verified` may you test its printed name against `quote` (slug `_` renders as a space,
+and an abbreviation counts as present if its letters occur in the quote).
+
+RULE 1 - schema. `direction` must be one of `up`, `down`, `flat`, `mixed`, `na`. Nothing else.
+
+- keep: no printed number token is missing from the quote, every reference resolves under rule 4, and
+  `direction` (if present) is a legal value. Length, style, and omitted detail do not matter.
+- drop: at least one number token is absent from the quote, or a `new:` id is absent from
+  `new_entities_verified` AND its printed name is absent from the quote, or `direction` is not one of
+  the five legal values. Name the rule in `reason`. A word-only value such as `"the decade ahead"`
+  carries no number token, so it cannot fail rule 3.
+
+Answer with JSON only: {"verdict": "keep" | "drop", "reason": "<=12 words, name the rule"}
 """
 
 
@@ -92,10 +117,28 @@ def iter_rows(path: Path):
                 yield json.loads(line)
 
 
+def row_new_entities(row: dict) -> dict[str, str]:
+    """The gate-verified new-entity catalog this row carries: `new:` id -> printed name.
+
+    Defect 39. `extract_gates.gate_chunk` (frozen) verifies §7.4 rule 4 for a new entity against the
+    entity's *own* cited sentences: `new_ok[ne.id] = bool(ne.name and search(ne.name, quote_for(
+    ne.sids, ne_sents)))` (extract_gates.py:246-258), and `p4c_union.kept_for` keeps only the ids that
+    passed (`p4c_union.py:147-148`). The audit item previously carried neither that catalog nor those
+    sentences, so the judge re-tested rule 4 against the *record's* quote - evidence the contract never
+    consults - and dropped 8 of 200 compliant records for "new entity name absent from quote". The
+    full-population check (`kb/state/tmp/union_literal_full.py` over all 183,486 union records) finds
+    0 dangling `new:` refs, 0 illegal `direction`, 0 numbers outside their quote: the drops were the
+    instrument, not the records.
+    """
+    ne = row.get("new_entities")
+    return {str(k): str(v) for k, v in ne.items()} if isinstance(ne, dict) else {}
+
+
 def flat_row_records(row: dict) -> list[dict]:
     """One entry per kept record of a single row, with the quote the gate accepted for it."""
     out = []
     kept = row_kept(row)
+    new_entities = row_new_entities(row)
     for kind in ("state_facts", "events", "claims"):
         for i, rec in enumerate(kept[kind]):
             quote = "; ".join(rec.get("quote") or []) if isinstance(rec.get("quote"), list) \
@@ -103,7 +146,8 @@ def flat_row_records(row: dict) -> list[dict]:
             out.append({"chunk_id": row.get("chunk_id"), "doc_id": row.get("doc_id"),
                         "kind": kind, "index": i, "quote": quote,
                         "publisher": row.get("publisher"), "doc_type": row.get("doc_type"),
-                        "published_at": row.get("published_at"), "record": rec})
+                        "published_at": row.get("published_at"),
+                        "new_entities_verified": new_entities, "record": rec})
     return out
 
 
@@ -143,16 +187,49 @@ def item_messages(item: dict) -> list[dict]:
     rec = json.loads(json.dumps(item["record"], default=str))
     body = {"publisher": item.get("publisher"), "doc_type": item.get("doc_type"),
             "published_at": item.get("published_at"), "kind": item.get("kind"),
-            "quote": item.get("quote"), "record": rec}
+            "quote": item.get("quote"),
+            "new_entities_verified": item.get("new_entities_verified") or {},
+            "record": rec}
     return [{"role": "system", "content": JUDGE_PROMPT},
             {"role": "user", "content": json.dumps(body, ensure_ascii=False, indent=1)}]
 
 
+def judge_extra(model: str) -> dict:
+    """Transport for a *judge* call. Must never carry the extractor's `record_extraction` tool.
+
+    Defect 37: `make_job` built `extra_body` from `B.model_extra(mode, [], model)` where `mode` came
+    from `modes.json` - the mode the *extractor* negotiated (`tools` for `glm-5.3`). That attaches
+    `tools=[record_extraction]` plus a `tool_choice` forcing it, so every judge call was compelled to
+    call the extraction function and returned an extraction body (`{"claims": [], ..., "no_content":
+    true}`) instead of a verdict. `parse_verdict` could not read one of them, `summarise` counts an
+    unreadable verdict as wrong, and the audit reported `wrong_rate 1.0` on 184/200 judged items -
+    a failing gate produced by the harness, not by the records.
+
+    A judge answers in JSON and uses no tools. Measured on `glm-5.3` (probe
+    `kb/state/tmp/audit_transport_probe.out.txt`): `response_format=json_object` and
+    `reasoning_effort=minimal` both return a clean `{"verdict": ...}` with 0 tool calls.
+    """
+    return {"response_format": {"type": "json_object"}, **B.REASONING_EXTRA.get(model, {})}
+
+
+def judge_prompt_version() -> str:
+    """Cache tag derived from the prompt itself.
+
+    Defect 38: the raw ledger is keyed by `job_key`, which carried the hard-coded literal
+    `"audit-v2"`. Rewriting `JUDGE_PROMPT` (Defect 37 follow-up: hold the judge to the frozen
+    §7.4 contract instead of asking it for tone/paraphrase evidence the contract never gates)
+    left the tag unchanged, so `runner.run` would have replayed the *old* verdicts from disk and
+    the new prompt would have measured nothing. Hashing the prompt makes the tag move with it.
+    """
+    import hashlib
+    return "audit-" + hashlib.sha256(JUDGE_PROMPT.encode("utf-8")).hexdigest()[:12]
+
+
 def make_job(item: dict, model: str, mode: str) -> dict:
     key = f"{item['chunk_id']}|{item['kind']}|{item['index']}"
-    return {"job_key": R.job_key(PASS, model, "audit-v1", mode, key), "model": model,
+    return {"job_key": R.job_key(PASS, model, judge_prompt_version(), mode, key), "model": model,
             "messages": item_messages(item),
-            "extra_body": B.model_extra(mode, [], model),
+            "extra_body": judge_extra(model),
             "max_tokens": 300, "temperature": 0.0,
             "meta": {"chunk_id": item["chunk_id"], "kind": item["kind"], "audit_id": item["audit_id"]}}
 

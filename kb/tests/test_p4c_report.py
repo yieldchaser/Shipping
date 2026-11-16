@@ -247,7 +247,12 @@ def test_build_and_markdown(tmp_path, monkeypatch):
     # the old `spent` stub is repointed rather than left to silently exercise the live ledger
     # (Defect 19 corollary: splitting a helper means every stub of the old one must move).
     monkeypatch.setattr(P.R, "spent_exact", lambda passes=None: 1.5)
-    rep = P.build([bulk, esc], packs_file(tmp_path), audit)
+    # `build()`'s `union_path` default is bound at def time to the gitignored live export, so a
+    # fixture-only test that omits it silently scored `kb/state/p4c/union/gated_union.jsonl` (280 MB,
+    # 86,607 chunks) while asserting `gated_source == "rungs"` and `recovered_by_ladder == 1` - the
+    # assertions held only until the live escalation changed that artefact (Defect 37 class: a unit
+    # test reading live state is not a unit test). Point it at a missing path explicitly.
+    rep = P.build([bulk, esc], packs_file(tmp_path), audit, tmp_path / "no_union.json")
     assert rep["sample_seed"] == P.seed_for("P4C")
     assert rep["all_pass"]
     assert rep["extraction"]["recovered_by_ladder"] == 1
@@ -272,7 +277,8 @@ def test_main_writes_reports(tmp_path, monkeypatch):
     monkeypatch.setattr(P, "doc_paths", lambda ids: {})
     monkeypatch.setattr(P.R, "spent_exact", lambda passes=None: 0.0)
     monkeypatch.setattr(sys, "argv", ["p4c_report.py", "--gated", str(bulk), "--packs", str(packs),
-                                      "--audit", str(audit), "--write"])
+                                      "--audit", str(audit), "--union", str(tmp_path / "no_union.json"),
+                                      "--write"])
     assert P.main() == 0
     rep = json.loads((tmp_path / "reports" / "p4c.json").read_text(encoding="utf-8"))
     assert rep["phase"] == "P4C" and rep["sample_seed"] == P.seed_for("P4C")
@@ -501,7 +507,7 @@ def test_unpriced_pass_renders_unmeasured_not_a_measured_zero(tmp_path, monkeypa
     # Ledger reports only the first pass; every other pass in the wall table stays unpriced.
     monkeypatch.setattr(P.R, "spent_exact",
                         lambda passes=None: 1.5 if passes == [P.PASSES[0]] else None)
-    rep = P.build([bulk], packs_file(tmp_path), audit)
+    rep = P.build([bulk], packs_file(tmp_path), audit, tmp_path / "no_union.json")
     rep["wall"]["p4c_absent"] = {"wall_s": 12, "packs": 3}
     rep["cost"]["per_pass"] = {"p4c_absent": None}
     md = P._md(rep)
@@ -519,7 +525,7 @@ def test_tiny_pass_cost_is_not_flattened_to_zero_in_the_money_table(tmp_path, mo
     monkeypatch.setattr(P, "OUT", tmp_path)
     monkeypatch.setattr(P, "doc_paths", lambda ids: {d: f"corpus/x/{d}.md" for d in ids})
     monkeypatch.setattr(P.R, "spent_exact", lambda passes=None: 0.0)
-    rep = P.build([bulk], packs_file(tmp_path), audit)
+    rep = P.build([bulk], packs_file(tmp_path), audit, tmp_path / "no_union.json")
     rep["wall"]["p6_judge"] = {"wall_s": 1, "packs": 1}
     rep["cost"]["per_pass"] = {"p6_judge": 1.3e-05}
     rep["cost"]["total_usd"] = 1.3e-05

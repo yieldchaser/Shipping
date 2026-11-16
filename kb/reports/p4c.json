@@ -1,0 +1,454 @@
+{
+  "phase": "P4C",
+  "sample_seed": 196579347,
+  "generated": "2026-11-16T22:06:10",
+  "scope": {
+    "chunks": 86607,
+    "docs": 16945,
+    "publishers": 59,
+    "doc_types": 19
+  },
+  "coverage": {
+    "chunks": 86607,
+    "scope_chunks": 86607,
+    "rows": 86607,
+    "missing_chunks_rows": 0,
+    "chunk_coverage": 1.0,
+    "docs": 16945,
+    "scope_docs": 16945,
+    "doc_coverage": 1.0,
+    "publishers": [
+      "Advanced Shipping & Trading",
+      "Affinity Shipbrokers",
+      "Agora Shipbroking Corporation",
+      "Alfred A. Knopf",
+      "Alibra Shipping Limited",
+      "Ardmore Shipping Corp",
+      "Athenian Shipbrokers S.A.",
+      "BHP Group Ltd",
+      "Baltic Exchange",
+      "Banchero Costa",
+      "Best Oasis Limited",
+      "Breakwave Advisors",
+      "Castor Maritime Inc.",
+      "Clarksons Hellas",
+      "DHT Holdings, Inc.",
+      "Diana Shipping Inc.",
+      "Dorian LPG Ltd.",
+      "Drewry Maritime Research",
+      "EuroDry Ltd.",
+      "Fearnleys",
+      "Frontline plc",
+      "GMS Inc.",
+      "Genco Shipping & Trading Ltd",
+      "Gibson Shipbrokers",
+      "Globus Maritime Ltd",
+      "Golden Ocean Group Ltd",
+      "ISM Coasters & Mini-Bulkers",
+      "Informa UK Ltd.",
+      "Intermodal Shipbrokers",
+      "International Seaways, Inc.",
+      "Lion Shipbrokers",
+      "Marine Money, Inc.",
+      "Metals Market Index (MMi)",
+      "NAMEPA Education Project",
+      "Navigator Holdings Ltd.",
+      "Nordic American Tankers Ltd",
+      "Okeanis Eco Tankers Corp.",
+      "Palgrave Macmillan",
+      "Poten & Partners",
+      "Reference Literature",
+      "Rio Tinto plc",
+      "Routledge",
+      "SFL Corporation Ltd",
+      "SSY (Simpson Spence Young)",
+      "Safe Bulkers, Inc.",
+      "Scorpio Tankers Inc.",
+      "Seabrokers Chartering",
+      "Seanergy Maritime Holdings Corp.",
+      "Seasure Shipbroking (Blue Report, valuations by VesselsValue)",
+      "Shanghai Metals Market (SMM)",
+      "Star Asia Shipbroking",
+      "Star Bulk Carriers Corp.",
+      "TORM plc",
+      "Teekay Tankers Ltd.",
+      "The Signal Group",
+      "Tsakos Energy Navigation Ltd",
+      "Vale S.A.",
+      "VesselsValue (via Hellenic Shipping News)",
+      "Xclusiv Shipbrokers Inc."
+    ],
+    "publisher_count": 59,
+    "scope_publishers": 59,
+    "doc_types": [
+      "book",
+      "broker_daily",
+      "broker_monthly",
+      "broker_weekly",
+      "sec_10k",
+      "sec_10q",
+      "sec_20f",
+      "sec_6k",
+      "sec_8k"
+    ],
+    "doc_type_count": 9,
+    "scope_doc_types": 19,
+    "years": [
+      "1986",
+      "2004",
+      "2005",
+      "2006",
+      "2007",
+      "2008",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "year_count": 24,
+    "partial": false,
+    "missing_chunks": 0
+  },
+  "extraction": {
+    "chunks": 86607,
+    "chunks_extracted": 86607,
+    "chunks_missing": 0,
+    "chunks_clean": 84877,
+    "chunks_failed": 1730,
+    "chunks_broken": 1730,
+    "chunks_no_content": 34236,
+    "failure_queue_rate": 0.02,
+    "failure_queue_rate_extracted": 0.02,
+    "chunks_strict_failed": 1730,
+    "strict_failure_rate": 0.02,
+    "records_total": 183486,
+    "records_kept": 183486,
+    "records_dropped": 108969,
+    "record_drop_rate": 0.5939,
+    "by_kind": {
+      "state_facts": 23666,
+      "events": 80409,
+      "claims": 79411
+    },
+    "recovered_by_ladder": 0
+  },
+  "ladder": {
+    "final_rung": {
+      "union": 86607
+    },
+    "still_failed": 1730,
+    "recovered": 0
+  },
+  "rule6": {
+    "present": true,
+    "gated_chunks": null,
+    "queue": null,
+    "queue_rate": 0.0939,
+    "triggers": null,
+    "retry_singles": null,
+    "retry_unmatched": 0,
+    "escalation_picked": null,
+    "escalation_skipped": 0,
+    "escalation_est_usd": 5.638,
+    "escalation_cap_usd": 17.0,
+    "escalation_model": "glm-5.3",
+    "partial_coverage": true
+  },
+  "union": {
+    "present": true,
+    "chunks": 86607,
+    "records": 183486,
+    "by_kind": {
+      "state_facts": 23666,
+      "events": 80409,
+      "claims": 79411
+    },
+    "records_per_source": {
+      "p4c_bulk_retry": 2108,
+      "p4c_bulk": 180400,
+      "p4c_esc": 999
+    },
+    "duplicates": 11181,
+    "duplicates_rate": 0.0609,
+    "dropped_by_gates": 23936,
+    "broken_chunks": 1730,
+    "failure_queue_rate": 0.02,
+    "sources": [
+      {
+        "pass": "p4c_bulk",
+        "model": "DeepSeek-V4.1-Flash",
+        "mode": "tools"
+      },
+      {
+        "pass": "p4c_glean",
+        "model": "DeepSeek-V4.1-Flash",
+        "mode": "tools"
+      },
+      {
+        "pass": "p4c_bulk_retry",
+        "model": "DeepSeek-V4.1-Flash",
+        "mode": "tools"
+      },
+      {
+        "pass": "p4c_esc",
+        "model": "glm-5.3",
+        "mode": "tools"
+      },
+      {
+        "pass": "p4c_glm2",
+        "model": "glm-5.3",
+        "mode": "tools"
+      }
+    ]
+  },
+  "recall": {
+    "present": false
+  },
+  "gated_source": "union",
+  "audit": {
+    "present": true,
+    "judge": "glm-5.3",
+    "judge_family": "glm",
+    "extractor": "DeepSeek-V4.1-Flash",
+    "extractor_family": "deepseek",
+    "sampled": 200,
+    "judged": 200,
+    "drop": 1,
+    "unparseable": 0,
+    "wrong": 1,
+    "wrong_rate": 0.005
+  },
+  "gate_results": {
+    "failure_queue_max": {
+      "required": 0.02,
+      "measured": 0.02,
+      "pass": true
+    },
+    "random_audit_records": {
+      "required": 200,
+      "measured": 200,
+      "pass": true
+    },
+    "random_audit_wrong_max": {
+      "required": 0.03,
+      "measured": 0.005,
+      "pass": true
+    },
+    "judge_family_differs_from_extractor": {
+      "required": true,
+      "measured": true,
+      "pass": true
+    },
+    "coverage_of_frozen_scope_reported": {
+      "required": true,
+      "measured": true,
+      "pass": true
+    }
+  },
+  "all_pass": true,
+  "cost": {
+    "per_pass": {
+      "p4c_bulk": 24.142231,
+      "p4c_bulk_retry": 0.497048,
+      "p4c_glean": 0.0,
+      "p4c_esc": 6.342838,
+      "p4c_glm2": null,
+      "p4c_audit": 1.197532
+    },
+    "total_usd": 32.179649,
+    "passes_unmeasured": [
+      "p4c_glm2"
+    ]
+  },
+  "wall": {
+    "p4c_bulk": {
+      "wall_s": 851.9,
+      "packs": 2,
+      "cost_usd": 24.142230784000173,
+      "rate_packs_per_min": 0.14
+    },
+    "p4c_bulk_retry": {
+      "wall_s": 1279.7,
+      "packs": 549,
+      "cost_usd": 0.449560048,
+      "rate_packs_per_min": null
+    },
+    "p4c_glean": {
+      "wall_s": 23.2,
+      "packs": 2,
+      "cost_usd": 0.0,
+      "rate_packs_per_min": 5.17
+    },
+    "p4c_esc": {
+      "wall_s": 152.3,
+      "packs": 256,
+      "cost_usd": 6.342837920000001,
+      "rate_packs_per_min": 100.85
+    },
+    "p4c_glm2": null,
+    "p4c_audit": null
+  },
+  "rungs": [
+    "p4c_bulk",
+    "p4c_bulk_retry",
+    "p4c_esc"
+  ],
+  "gated_rows": 259821,
+  "merged_chunks": 259821,
+  "sample": [
+    {
+      "chunk_id": "231baf511b63ac8259936b26578de017",
+      "doc_id": "36950e1e50c9cb2d",
+      "records": 3,
+      "kept": {
+        "state_facts": 0,
+        "events": 1,
+        "claims": 2
+      },
+      "source_path": "data/extracted/md/breakwave/insights/2022/2022-10-14_braemar-weekly-dry-market-report.md",
+      "publisher": "Breakwave Advisors",
+      "doc_type": "broker_daily",
+      "published_at": "2022-10-14"
+    },
+    {
+      "chunk_id": "3f163fcc8eee7f1d8dc761476eec4071",
+      "doc_id": "18d6f714b30c60c9",
+      "records": 6,
+      "kept": {
+        "state_facts": 0,
+        "events": 2,
+        "claims": 4
+      },
+      "source_path": "data/extracted/md/poten/2006/poten_2006-03-03_the-return-of-the-double-exponential.md",
+      "publisher": "Poten & Partners",
+      "doc_type": "broker_weekly",
+      "published_at": "2006-03-03"
+    },
+    {
+      "chunk_id": "67120b381b7198a778f2aab483fd8fb2",
+      "doc_id": "f132fdb02ed07fe9",
+      "records": 1,
+      "kept": {
+        "state_facts": 0,
+        "events": 0,
+        "claims": 1
+      },
+      "source_path": "data/extracted/md/breakwave/drybulk/2019/2019-09-17_Breakwave_Dry_Bulk.md",
+      "publisher": "Breakwave Advisors",
+      "doc_type": "broker_weekly",
+      "published_at": "2019-09-17"
+    },
+    {
+      "chunk_id": "2bcf0e730e4103a65a03ee849529946b",
+      "doc_id": "60526ae2f0281820",
+      "records": 2,
+      "kept": {
+        "state_facts": 0,
+        "events": 1,
+        "claims": 1
+      },
+      "source_path": "corpus/10-companies/SHIP/6-K/SHIP_6-K_2025-03-28_0001140361-25-010987.md",
+      "publisher": "Seanergy Maritime Holdings Corp.",
+      "doc_type": "sec_6k",
+      "published_at": "2025-03-28"
+    },
+    {
+      "chunk_id": "4e2842bfcf35f19d90da6ff2a800aac7",
+      "doc_id": "2f997db3356f407d",
+      "records": 1,
+      "kept": {
+        "state_facts": 0,
+        "events": 0,
+        "claims": 1
+      },
+      "source_path": "data/extracted/md/banchero_costa/2025/banchero_costa_2025_W03_Bancosta-Weekly-2025-03.md",
+      "publisher": "Banchero Costa",
+      "doc_type": "broker_weekly",
+      "published_at": "2025-01-20"
+    },
+    {
+      "chunk_id": "f2749f63e9b421861d009dab41a745d8",
+      "doc_id": "2dae1e20c733595a",
+      "records": 1,
+      "kept": {
+        "state_facts": 0,
+        "events": 1,
+        "claims": 0
+      },
+      "source_path": "corpus/10-companies/SHIP/6-K/SHIP_6-K_2023-12-15_0001140361-23-057943.md",
+      "publisher": "Seanergy Maritime Holdings Corp.",
+      "doc_type": "sec_6k",
+      "published_at": "2023-12-15"
+    },
+    {
+      "chunk_id": "e9a5ce99325575d7f38c68f314506d7b",
+      "doc_id": "857431b3f13929b1",
+      "records": 3,
+      "kept": {
+        "state_facts": 0,
+        "events": 0,
+        "claims": 3
+      },
+      "source_path": "data/extracted/md/seabrokers/2018/2018-05-01_markedsrapport-mai-2018.md",
+      "publisher": "Seabrokers Chartering",
+      "doc_type": "broker_monthly",
+      "published_at": "2018-05-01"
+    },
+    {
+      "chunk_id": "79e3c6b5c4a0108a4f6bf9afe3072e8a",
+      "doc_id": "5757048d40f56a6a",
+      "records": 10,
+      "kept": {
+        "state_facts": 0,
+        "events": 6,
+        "claims": 4
+      },
+      "source_path": "data/extracted/md/poten/2026/poten_2026-10-02_tanker-demand-destruction.md",
+      "publisher": "Poten & Partners",
+      "doc_type": "broker_weekly",
+      "published_at": "2026-10-02"
+    },
+    {
+      "chunk_id": "312ee9a28d92a2da32dfc1abbf5ca58a",
+      "doc_id": "55d08efcf23e10ba",
+      "records": 2,
+      "kept": {
+        "state_facts": 0,
+        "events": 0,
+        "claims": 2
+      },
+      "source_path": "data/extracted/md/baltic/tanker/2017/2017_tanker-report-week26_tanker.md",
+      "publisher": "Baltic Exchange",
+      "doc_type": "broker_weekly",
+      "published_at": "2017-06-30"
+    },
+    {
+      "chunk_id": "1318ed94c733d40437b9bbc729dbcf39",
+      "doc_id": "8fe2c8c68c0e96f6",
+      "records": 2,
+      "kept": {
+        "state_facts": 0,
+        "events": 2,
+        "claims": 0
+      },
+      "source_path": "data/extracted/md/baltic/tanker/2015/2015_tanker-report-week36_tanker.md",
+      "publisher": "Baltic Exchange",
+      "doc_type": "broker_weekly",
+      "published_at": "2015-09-04"
+    }
+  ]
+}
