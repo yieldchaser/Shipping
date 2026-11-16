@@ -14,7 +14,7 @@ Live run status. Real spend read from `http://127.0.0.1:4100/stats`.
 | P4a | done | PASS (**recall@20 0.900** ≥ 0.85, 180/200; fused-only pre-rerank 0.815; $0 spend) | commit (this phase) |
 | gold | done | PASS (250/250 items, all 8 strata on target, 250/250 re-verified from DB, seed 2888775339, $0) | commit (this phase) |
 | P4b | done | **PASS** (120 gold chunks / 29 packed calls; chosen `deepseek-v4.1-flash-1017-ultrafast` P 0.922 R 0.536 F1 0.678; 5/5 `gates.yaml` rows pass; $4.75 total) | checkpoint C1 now |
-| P4c |  **tail only** (AMD Token Lab bulk pass, resumable daemon; **24,976 key-exact packs of 24,978** = 99.992%, **2 remaining**; `p4c_bulk` ok 26,021 `$24.03023` + error 357 `$0.112001`; whole-path `spent_exact $29.216919` of the `$82` pipeline cap; 0 NULL-`cost_usd` rows — a later successful re-measurement overwrote them) | — | owner amendment 2026-11-13 (Amendment 1 in `C1_APPROVED.md`): bulk extractor moved off congested Ultrafast to the **8-account AMD Token Lab pool** (`DeepSeek-V4.1-Flash`, fallback `DeepSeek-V4-Flash`). AMD is **paid**, not free: measured $0.28/M in, $0.0056/M cached, $0.56/M out = $0.00134/accepted pack ⇒ ~$31.5 for the remaining packs, booked at $31.25. Transport parity vs P4b scorer PASS at 0.92. Then union → precision gate → escalation ladder ($11, D12 cap-prioritised) → audit/recall/report. Gleaning and the glm-5.3 second extractor are booked at $0 and deferred to a post-C2 owner decision. Judge for the upcoming P6/P7 work is Google `Gemma-4-31B-IT` on AMD Token Lab (Amendment 10, replacing NIM); its fenced reply format is handled by the Defect 16 fix. **The 10-pack tail was proven provider-side, not self-inflicted**: rounds 17–19 each attempted the same 10 packs for `out_tok +0, errors 0, ok=0 cached=0 err=10 retries=50 cost=$0.0000`, so with writers SIGKILLed and the pool idle for 180 s a fresh control probe (`kb/_t_quiet.py`, no ledger write) got `HTTP 429` in 1–2 s on *finished* packs 24,976/24,977 as well as on the stuck ones, and `HTTP 503` after 61 s on the rest — a fully idle pool serving nothing is account-level throttling, not a code defect, so **no code change was warranted** and the only response is to retry the transport. (The earlier "314 error rows" reading was a `ledger_errors`-vs-`status='error'` gap: `runner._record` deliberately never refreshes `created_at` on retry, per the P4b key-stability contract, so a re-failed pack keeps its first-seen timestamp.) Owner has since raised the gateway cap to $95 and restored Enclave high-speed routing; the drain was restarted detached 2026-11-16 10:5x local. **Tail closed 2026-11-16 15:34**: the last 2 packs (`p017656` HTTP 503, `p021624` HTTP 429) were permanent AMD refusals after 5 attempts each (`ok=0 err=2 retries=10` in 852 s on a 1-worker/6-rpm drain), so they were cleared on the designed escalation rung instead — `p4c_esc`/`glm-5.3`, 7 single-chunk packs, `ok=7 err=0 retries=0`, 4 batches, 29.5 s, **$0.111980** (`kb/state/p4c/run_p4c_esc.json`). `p4c_esc` is now a *measured* pass in the ledger, not `UNMEASURED`. Whole-path `spent_exact` re-read at that point: **$29.216919** over 31,543 ledger rows, of the `$82` pipeline cap; bulk progress **24,976 / 24,978 = 99.992%** |
+| P4c | **done** | **PASS all 5 gates** (union 86,607 chunks / 183,486 records, `failure_queue_rate 0.02` = 1730/86,607 on the ceiling, `coverage 1.0` declared per §7.5; audit 200/200 judged, `wrong_rate 0.005`, judge `glm-5.3` vs extractor `DeepSeek-V4.1-Flash`; `p4c_esc` $11.076) | commit `b02cee68ef`; see "P4c CLOSED" below | (Amendment 1 in `C1_APPROVED.md`): bulk extractor moved off congested Ultrafast to the **8-account AMD Token Lab pool** (`DeepSeek-V4.1-Flash`, fallback `DeepSeek-V4-Flash`). AMD is **paid**, not free: measured $0.28/M in, $0.0056/M cached, $0.56/M out = $0.00134/accepted pack ⇒ ~$31.5 for the remaining packs, booked at $31.25. Transport parity vs P4b scorer PASS at 0.92. Then union → precision gate → escalation ladder ($11, D12 cap-prioritised) → audit/recall/report. Gleaning and the glm-5.3 second extractor are booked at $0 and deferred to a post-C2 owner decision. Judge for the upcoming P6/P7 work is Google `Gemma-4-31B-IT` on AMD Token Lab (Amendment 10, replacing NIM); its fenced reply format is handled by the Defect 16 fix. **The 10-pack tail was proven provider-side, not self-inflicted**: rounds 17–19 each attempted the same 10 packs for `out_tok +0, errors 0, ok=0 cached=0 err=10 retries=50 cost=$0.0000`, so with writers SIGKILLed and the pool idle for 180 s a fresh control probe (`kb/_t_quiet.py`, no ledger write) got `HTTP 429` in 1–2 s on *finished* packs 24,976/24,977 as well as on the stuck ones, and `HTTP 503` after 61 s on the rest — a fully idle pool serving nothing is account-level throttling, not a code defect, so **no code change was warranted** and the only response is to retry the transport. (The earlier "314 error rows" reading was a `ledger_errors`-vs-`status='error'` gap: `runner._record` deliberately never refreshes `created_at` on retry, per the P4b key-stability contract, so a re-failed pack keeps its first-seen timestamp.) Owner has since raised the gateway cap to $95 and restored Enclave high-speed routing; the drain was restarted detached 2026-11-16 10:5x local. **Tail closed 2026-11-16 15:34**: the last 2 packs (`p017656` HTTP 503, `p021624` HTTP 429) were permanent AMD refusals after 5 attempts each (`ok=0 err=2 retries=10` in 852 s on a 1-worker/6-rpm drain), so they were cleared on the designed escalation rung instead — `p4c_esc`/`glm-5.3`, 7 single-chunk packs, `ok=7 err=0 retries=0`, 4 batches, 29.5 s, **$0.111980** (`kb/state/p4c/run_p4c_esc.json`). `p4c_esc` is now a *measured* pass in the ledger, not `UNMEASURED`. Whole-path `spent_exact` re-read at that point: **$29.216919** over 31,543 ledger rows, of the `$82` pipeline cap; bulk progress **24,976 / 24,978 = 99.992%** |
 | P5 | scaffolded (code + 20 tests, `5e720111cb` chain) | — | gated on P4c PASS; tables `edge`/`event`/`record_txn` still empty |
 | P6 | scaffolded (code + 28 tests) | — | gated on P5 |
 | P7 | scaffolded (tools/ask/eval/analyst/discovery/rubric/report, 98 tests, `edc962ad70`) | — | gated on P5+P6; checkpoint C2 after |
@@ -2298,3 +2298,129 @@ calls, so this is spine spend accumulated across P0→P1. Flagged, not silently 
 - **Still open (Defect-35 limb 3, not started):** the remaining unguarded render/dump surfaces —
   `kb/p7_discovery.py` (stat/count renders + raw `json.dumps`), `kb/p6_summary.py` (render + `P6.json`
   writer), `kb/p4a_report.py:168-169` raw wall sum.
+
+## 2026-11-16 22:0x — P4c CLOSED (gate PASS); escalation rounds, union, audit (Defects 37/38/39)
+
+**Gate verdict.** `kb/p4c_report.py --gated <three rung gated.jsonl> --write` → all five `gates.yaml`
+P4c rows **true**, `all_pass: true`, `coverage: 1.0`, `failures: 0.02`:
+`failure_queue_max` true (rate **0.02** = 1730/86607 ≤ 0.02), `random_audit_records` true (200/200),
+`random_audit_wrong_max` true (`wrong_rate 0.005` = 1/200 ≤ 0.03),
+`judge_family_differs_from_extractor` true (judge `glm-5.3` / glm vs extractor
+`DeepSeek-V4.1-Flash` / deepseek), `coverage_of_frozen_scope_reported` true.
+Commit `b02cee68ef` (pushed); report artefacts `kb/reports/p4c.{json,md}`, `kb/reports/p4c_audit.md`.
+
+### Escalation rounds (glm-5.3 repair of the broken chunks)
+
+Owner directive 2026-11-16: stop the bulk retry runner, spend the escalation booking on the
+highest-value broken chunks (gold + SEC MD&A/fleet, ~444), then re-run the union. Cap always read as
+`L.escalation_cap() − R.spent_rows(passes=["p4c_esc"])`, never a literal.
+
+| round | picks | ok | wall | spend | broken chunks remaining |
+|---|---|---|---|---|---|
+| start | — | — | — | — | 2,559 |
+| 1 | 439 | 439 | — | $4.175 | 1,852 |
+| 2 | 82 | 82 | — | $0.558 | 1,815 |
+| 3 | 256 | 256 | — | $6.3428 | 1,730 |
+
+Repair yield: 707/2559 = **0.276**, 37/82 = **0.451**, 85/256 ≈ **0.332**. Measured unit economics
+$0.00951/chunk (round 1) → $0.02478/chunk (round 3). Round 3 spent $6.3428 vs the $6.2672 estimate.
+**Total `p4c_esc` = $11.076**, i.e. **$0.076 over the $11.00 booking** — reported, not hidden; covered
+by the owner's authorisation raising the pipeline cap to **$95.00** (operational override; the frozen
+`gates.yaml` `$82` was not edited and was not lowered).
+
+### Union export (`python -m kb.p4c_union`, `kb/state/p4c/union/`)
+
+`gated_union.jsonl` 280,766,421 B + `union_stats.json` (mtime 2026-11-16 20:07):
+`chunks 86607` (= `FULL_SCOPE_CHUNKS`), `docs 16945`, `chunks_with_records 50641`,
+`broken_chunks 1730`, `missing_chunks 0`, `records 183486`
+(`state_facts 23666 / events 80409 / claims 79411`), `duplicates 11181` (`duplicates_rate 0.0609`),
+`dropped_by_gates 23936`, `call_status {ok 26201, missing 98611, schema_fail 78}`,
+`new_entities 97965`, `missing_rate 0.0`, `failure_queue_rate **0.02**` (1730/86607),
+`coverage_complete true`. `records_per_source`: `p4c_bulk 180400`, `p4c_bulk_retry 2108`,
+`p4c_esc 999`. Per publisher, three sources are 0 (Agora, Informa, NAMEPA) — declared, not dropped.
+
+**Plan §7.5 declared coverage** (verbatim: "**Partial coverage beats lower quality:** if caps are hit,
+the pass stops with coverage declared."): the escalation booking hit its cap with 1,730 chunks still
+recordless. Declared: **86,607/86,607 chunks visited (100% of frozen scope), 50,641 carried ≥1
+gated record, 35,966 emitted none, 1,730 are over the 2% failure ceiling** — `failure_queue_rate
+0.02` sits exactly on `failure_queue_max`. Coverage is complete over the frozen scope and the residual
+is declared rather than papered over. `gates.yaml` P4c sets **no absolute coverage threshold**; the
+required `coverage_of_frozen_scope_reported` row is satisfied by this declaration.
+
+### Audit instrument (three runs, one gate)
+
+| attempt | commit | prompt | judged | drops | wrong_rate | verdict |
+|---|---|---|---|---|---|---|
+| 1 | — | over-reaching (judged tone/semantics) | 184 | 44 | 0.2391 | FAIL |
+| 2 | — | scoped to §7.4, **but item withheld its evidence** | 200 | 9 | 0.045 | FAIL |
+| 3 | `b02cee68ef` | scoped to §7.4 + catalog supplied | 200 | 1 | **0.005** | **PASS** |
+
+Attempt 3 needed two invocations: the first judged 184/200 (16 items exhausted retries on **HTTP 429**,
+75 retries, ledger 400 rows / 368 ok / 32 error all 429), the second filled exactly those 16
+(`ok=16 cached=184 err=0 retries=0`, $0.0270). A verdict on 184/200 would leave the worst case
+17/200 = 0.085 — above the threshold — so the 16 were completed before the gate was declared.
+
+- **Defect 37 (FIXED).** The judge inherited the extractor's tool transport. For a judge that is an
+  instrument coupling: `judge_extra` now returns `{"response_format":{"type":"json_object"},
+  **B.REASONING_EXTRA.get(model,{})}` with no `tools`/`tool_choice`. Regression:
+  `test_judge_job_never_carries_the_extractor_tool`.
+- **Defect 38 (FIXED, `b02cee68ef`).** `make_job` used the literal cache tag `"audit-v2"`, so a prompt
+  rewrite replayed verdicts from the superseded prompt. Tag is now `judge_prompt_version()` =
+  `"audit-" + sha256(JUDGE_PROMPT)[:12]`. Regression: `test_the_cache_tag_is_derived_from_the_prompt`.
+- **Defect 39 (FIXED, `b02cee68ef`) — the audit item withheld the evidence rule 4 is checked against.**
+  The frozen `extract_gates.gate_chunk` verifies a new entity against **its own** cited sentences
+  (`quote_for(ne.sids, ne_sents)`, `:246-258`) and `p4c_union.kept_for` keeps only the gate-approved
+  ids (`:147-148`). `flat_row_records` emitted only the *record's* `quote`, so the judge re-tested
+  rule 4 against evidence the contract never consults and dropped 8 compliant records as "new entity
+  name absent from quote". Fix: `row_new_entities(row)` + `new_entities_verified` on every item, exposed
+  in `item_messages`; prompt rule 4 now treats any `new:` id present in that map as resolved. Regression:
+  `test_the_audit_item_carries_the_catalog_rule_4_is_checked_against`. After re-plan, all 9 previously
+  dropped items carry the catalog (156/200 items have a non-empty one).
+
+### Literal-contract measurement — the authority for any drop
+
+`kb/state/tmp/union_literal_full.py` re-applies **§7.4 as written** to the **entire** union export,
+importing the frozen tokenizer (`extract_schema.NUMBER_RE = r"\d[\d,\./\-]*"`, `:445`) and
+`extract_gates._boundary_match` — never a re-implementation:
+
+```
+tokenizer: \d[\d,\./\-]*
+rows=86607 records=183486 printed_fields=175279
+R4a dangling new refs: 0 []
+R1 illegal direction: 0 []
+R3 records w/ number not in quote: 0
+```
+
+Printed fields = `valid_from_printed`, `valid_to_printed`, `when_printed`, `magnitude_printed`,
+`horizon_printed`, `attrs_printed[].value_as_printed`. Corroborating probe on just the 200 audited
+records: **0/200** violations. `kb/state/tmp/audit9_unionmap.py` proves the 9 attempt-2 drops were
+instrument artifacts: every cited `new:` ref resolves in its row's `new_entities` map with
+`unresolved_new=[]` (`a002`→`Nautilus International`, `a009`→`Vancouver`, `a027`→`chargers`/`charterers`,
+`a070`→`Baltic Dry Index`, `a087`→`BPI 4TC-index`, `a092`→`Buxcontact`, `a093`→`Deepsea Bergen`/
+`Vår Energi`, `a106`→`MUMBAI`/`Hyundai Mipo`); `a074` carries no `new:` ref and its Rule-3 flag on
+`'decade'` is unsupported because `horizon_printed = "the decade ahead"` holds no numeric token.
+
+### The one surviving drop (attempt 3) — reported, not suppressed
+
+`a092` `claims 8f5e63db4c`: `subjects ["vessel:new:buxcontact"]`, `direction "down"`, `quote` = an
+S&P price-prospects sentence; judge reason `"Rule 4: new entity Buxcontact absent from quote and
+unverified"`. The item **does** carry `{"vessel:new:buxcontact": "Buxcontact"}` in
+`new_entities_verified`, so this is a judge misread of rule 4 (the id *is* in the map). It is 1 record
+of the 200 sampled (0.005), well inside `random_audit_wrong_max 0.03`, and is recorded here rather than
+excused. Judge-vs-gate strictness asymmetry: the gate resolves rule 4 code-side and short-circuits known
+ids (`resolve_entity`, `:255-258`), while the judge reads prose — hence the prompt now carries the
+catalog and the rule text verbatim.
+
+### Lesson recorded
+
+**Never re-implement a frozen gate's tokenizer in a probe — import it.** An early probe used a local
+`\d[\d,.]*` and produced a false violation on `BDTI today (12/10/2021) closed at 701 points…`; the
+frozen `NUMBER_RE` treats `12/10/2021` as one token. A probe that approximates a frozen gate measures
+the probe, not the corpus.
+
+### Still open after P4c
+
+`kb/state/p4c/singles_retry.jsonl` (7,538 lines) has no consumer — decide retire vs rerun;
+`p4c_recall.py` union recall gain unmeasured; `p4c_glean` (2 raws) and `p4c_glm2` (0 raws) are booked
+at $0 and deferred to the post-C2 owner decision (D14).
+
