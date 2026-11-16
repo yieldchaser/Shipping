@@ -71,7 +71,12 @@ ACCESSORS: dict[str, tuple[str, ...]] = {
     # function shape: the shared finite guard, then a whole-number check.
     "p4c_report.py": ("_count",),
     "p7_eval.py": ("tolerance_of", "tolerance_or_exact", "gold_numbers"),
-    "c1_review.py": ("_num",),
+    # Defect 33: the C1 owner packet's operand readers. `_num` is the money guard; `_count` applies the
+    # Defect-27 whole-number rule on top of it (a `120.5` count is a broken read, not a rounding);
+    # `_num_text` renders a guarded value and `money_sum`/`cap_text` are the booked-money readers.
+    # `_ratio`/`_pct`/`_ratio_text`/`gate_rows` are *ratio* reads, so they live in GRADE_READERS below
+    # (`money.unit_score` is the one scale rule) while `gate_rows` also reaches `as_float` via `_count`.
+    "c1_review.py": ("_num", "_count", "_num_text", "money_sum", "cap_text"),
     # Defect 29: the number contract's two-sided reads. `numbers_claimed`/`numbers_in` parse the
     # composer's own sentence (an external, LLM-authored string) and `evidence_numbers` reads the
     # analyst's indicator payloads; both feed `number_ok`, whose `value` may be an unreadable literal.
@@ -112,6 +117,13 @@ GRADE_READERS: dict[str, tuple[str, ...]] = {
     # ratio is a `[0, 1]` score, so `money.unit_score` is the one scale rule. `recall_rate` is the
     # artefact reader; `gate_verdict` is the verdict site (Defect 26), re-reading both operands.
     "p4a_report.py": ("recall_rate", "gate_verdict"),
+    # Defect 33: the C1 packet's ratio reads. The packet is the owner's decision surface, and its
+    # §1 gate rows, §2 F1/precision/call-success cells, §3 shares and the bake-off table all read
+    # `[0, 1]` scores out of `p4b.json`; `f"{inf:.4f}"` printed a confident `inf` and `inf >= 0.92`
+    # PASSED a gate on an operand nobody could read. `money.unit_score` is the one scale rule.
+    # `_ratio` is the reader every render site calls; `gate_rows` is the verdict site (Defect 26) and
+    # re-reads both operands itself, so it must reach `unit_score` directly.
+    "c1_review.py": ("_ratio", "gate_rows"),
 }
 
 MONEY_KEY_HINTS = ("cost", "spend", "money", "usd", "budget", "allowance", "cap", "price")

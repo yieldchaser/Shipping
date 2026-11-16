@@ -11,9 +11,9 @@ is approved until then. Branch `kb-build`, P4b commit on top of the gold-set com
 |---|---|---|---|
 | `extraction_gold_chunks` | 120 | 120 | PASS |
 | `reference_models_distinct_families` | 2 | 2 | PASS |
-| `chosen_bulk_gate_pass_rate` | 1.0 | 0.95 | PASS |
-| `chosen_bulk_precision` | 0.9222 | 0.92 | PASS |
-| `chosen_bulk_f1_within_best` | 0.0 | 0.03 | PASS |
+| `chosen_bulk_gate_pass_rate` | 1.0000 | 0.9500 | PASS |
+| `chosen_bulk_precision` | 0.9222 | 0.9200 | PASS |
+| `chosen_bulk_f1_within_best` | 0.0000 | 0.0300 | PASS |
 
 Gold set: 120 stratified chunks / 29 packs / 9 doc types / 12 years / 19 publishers, mean pack depth
 4.14. References: `deepseek-v4-pro` + `glm-5.3` (different
@@ -44,8 +44,8 @@ certify precision above its CI, which matters for the 0.92 gate; three candidate
 
 | role | model | family | why | cost basis |
 |---|---|---|---|---|
-| bulk extraction | `DeepSeek-V4.1-Flash` on the 8-account AMD Token Lab pool (owner amendment 2026-11-13 to the ultrafast pick below) | deepseek | same 1017 weights as the F1 leader `deepseek-v4.1-flash-1017-ultrafast` (P4b F1 0.6781, precision 0.9222, call success 1.00); Ultrafast excluded as congested | **paid**: $0.00134/accepted pack ($0.28/M in, $0.0056/M cached, $0.56/M out); ≈$31.5 booked at $31.25 |
-| escalation (gate-failing chunks) | approved: `glm-5.3`, one free same-model retry first, ordered by doc value | glm | owner decision 3; kept inside the escalation line by cap-prioritised partial coverage (D12); plan §10.2's "ref with higher agreement" is the same model at $0.0197/chunk = $511 worst case for 30% escalation, which busts the cap | $11 booked |
+| bulk extraction | `DeepSeek-V4.1-Flash` on the 8-account AMD Token Lab pool (owner amendment 2026-11-13 to the ultrafast pick below) | deepseek | same 1017 weights as the F1 leader `deepseek-v4.1-flash-1017-ultrafast` (P4b F1 0.6781, precision 0.9222, call success 1.0000); Ultrafast excluded as congested | **paid**: $0.00134/accepted pack ($0.28/M in, $0.0056/M cached, $0.56/M out); ≈$31.5 booked at $31.25 |
+| escalation (gate-failing chunks) | approved: `glm-5.3`, one free same-model retry first, ordered by doc value | glm | owner decision 3; kept inside the escalation line by cap-prioritised partial coverage (D12); plan §10.2's "ref with higher agreement" is the same model at $0.0197/chunk = $511 worst case for 30% escalation of the 20,920 packed calls, which busts the cap | $11 booked |
 | judge / auditor (P4c audit + failure queue) | approved: `glm-5.3` | glm (≠ deepseek extractor) | satisfies `judge_family_differs_from_extractor`; judged 285 gold records at P4b; per-record calls ≈ $0.002 | ≈ $5 for ~1.9k judged records |
 | label adjudicator (already used at P4b) | `nvidia/nemotron-3-ultra-550b-a55b` | nvidia | third family, not a reference, free | $0.05 spent |
 

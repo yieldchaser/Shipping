@@ -56,7 +56,7 @@ def test_packet_counts_and_gate_table():
     # 30 merge rows
     merges = t[t.index("## 6. Thirty sampled"):t.index("## 7. What happens")]
     assert len([l for l in merges.splitlines() if l.startswith("| `")]) == 30
-    # every P4b gate row says PASS
+    # every P4b gate row says PASS against its own operands (recomputed, not copied)
     gates = t[t.index("| gate | measured |"):t.index("Gold set: 120 stratified")]
     assert gates.count("| PASS |") == 5 and "FAIL" not in gates
 
@@ -157,3 +157,99 @@ def test_packet_renders_a_tiny_nonzero_spend_without_flattening_it_to_zero():
     token = re.search(r"Spend so far (\S+) of the", line3).group(1)
     assert token != "$0.0000", line3
     assert float(token.lstrip("$")) != 0.0, line3
+
+
+def _fixtures():
+    return {n: json.loads((ROOT / "kb" / "reports" / n).read_text(encoding="utf-8"))
+            for n in ("p4b.json", "p4b_flagged.json", "gold_set.json", "p3_owner_sample.json")}
+
+
+def test_money_sum_rejects_an_unreadable_term_even_when_it_is_not_none():
+    """Defect 33 (M1): `sum(float(v) ...)` around a bare `None` test is not a guard.
+
+    A 401-digit literal parses to `inf` and `True` is an `int`, so `sum()` booked
+    `money_sum(inf, 4.75) == inf` and `money_sum(True, 4.75) == 5.75` while every `is None`
+    check passed — the Defect 17/21 class reached around its own fix. Every term must go
+    through `money.as_float` first, exactly like the terms in `budget_bookings`.
+    """
+    assert C.money_sum(4.75, 35.0) == 39.75
+    assert C.money_sum(4.75, float("inf")) is None
+    assert C.money_sum(float("-inf"), 4.75) is None
+    assert C.money_sum(float("nan"), 4.75) is None
+    assert C.money_sum(True, 4.75) is None
+    assert C.money_sum("4.75", 35.0) is None
+    assert C.money_sum({}, 4.75) is None
+    assert C.money_sum(4.75, 0.0) == 4.75
+
+
+def test_gate_rows_recompute_the_verdict_and_never_trust_the_stored_flag():
+    """Defect 33 (M2): the packet is the owner's decision surface, so a gate row is a measurement.
+
+    The stored `pass` bool is `bool(...)` of raw `or 0` arithmetic in `p4b_run`, and the row used to
+    `str()` its operands: a stored `pass: true` next to `measured: inf` printed `PASS` beside `inf`.
+    Each verdict is recomputed from guarded operands — counts `>=`, ratios `>=` except the inverted
+    F1-proximity gate `<=` — and any unreadable operand or absent key is a FAIL, never a coercion.
+    """
+    # The committed artefact still yields 5 PASS + the inverted-gate operand, all readable.
+    live = _fixtures()["p4b.json"]["gate_results"]
+    assert [r[3] for r in C.gate_rows(live)].count("PASS") == 5
+
+    lying = {"extraction_gold_chunks": {"required": 120, "measured": 120, "pass": True},
+             "chosen_bulk_precision": {"required": 0.92, "measured": float("inf"), "pass": True},
+             "chosen_bulk_gate_pass_rate": {"required": 0.95, "measured": 0.10, "pass": True},
+             "chosen_bulk_f1_within_best": {"required": 0.03, "measured": 0.0, "pass": False},
+             "reference_models_distinct_families": {"required": 2, "measured": None, "pass": True}}
+    rows = {r[0]: r for r in C.gate_rows(lying)}
+    assert rows["`extraction_gold_chunks`"][3] == "PASS"
+    assert rows["`chosen_bulk_precision`"][3] == "FAIL"          # inf is not a precision
+    assert rows["`chosen_bulk_precision`"][1] == "n/a"           # ... and must not print as `inf`
+    assert rows["`chosen_bulk_gate_pass_rate`"][3] == "FAIL"     # 0.10 < 0.95, stored flag lies
+    assert rows["`chosen_bulk_f1_within_best`"][3] == "PASS"     # inverted: `<=`
+    assert rows["`reference_models_distinct_families`"][3] == "FAIL" and \
+        rows["`reference_models_distinct_families`"][1] == "UNMEASURED"
+    # A count that is not whole, an absent key, a missing operand: unmeasured, not rounded/fabricated.
+    # A missing operand must still render a FAIL row — a dropped row reads as "no such gate".
+    half = C.gate_rows({"extraction_gold_chunks": {"required": 120, "measured": 120.5,
+                                                  "pass": True}})[0]
+    assert half[3] == "FAIL" and half[1] == "UNMEASURED"
+    gap = C.gate_rows({"extraction_gold_chunks": {"required": 120, "pass": True}})[0]
+    assert gap[3] == "FAIL" and gap[1] == "UNMEASURED" and gap[2] == "120"
+    assert C.gate_rows({"chosen_bulk_precision": {"required": 0.92, "measured": True,
+                                                  "pass": True}})[0][3] == "FAIL"
+    assert C.gate_rows({"chosen_bulk_precision": "PASS"}) == []
+    # `all_pass` is a derived bool, not an operand row: it is never rendered as a measured gate.
+    assert C.gate_rows({"all_pass": True}) == []
+
+
+def test_packet_render_never_prints_an_unreadable_operand_as_a_number():
+    """Defect 33: `f"{inf:.4f}"` is a confident `inf`; a missing key used to raise or fabricate `0`.
+
+    Drives the whole packet (not one helper) with poisoned artefacts, because the §2/§3 prose carried
+    its own copies of these renders: `{sel['f1']:.4f}`, `{call:,}`, `{days:.2f}`, `{...['precision']:.4f}`.
+    """
+    f = _fixtures()
+    p4b = dict(f["p4b.json"])
+    feas = dict(p4b["p4c_feasibility"])
+    feas.update({"calls_at_gold_pack_depth": float("inf"), "out_tokens_full_scope": None,
+                 "wall_days_at_daily_cap": float("nan"), "free_tier_daily_out_cap": True,
+                 "paid_overflow": {"deepseek-v4-flash": {"f1": float("inf"),
+                                                         "precision": None}}})
+    feas["mixed_pool_one_day"] = dict(feas["mixed_pool_one_day"],
+                                      paid_chunk_share=float("inf"), wall_days=None)
+    p4b["p4c_feasibility"] = feas
+    p4b["selected"] = dict(p4b["selected"], f1=float("inf"), precision=None,
+                           call_success_rate=True)
+    fl = {"scope": {"sample_size": float("inf"), "flagged_pool": None,
+                    "pool_by_decision": {"keep": 2}},
+          "sample_seed": float("nan"), "items": f["p4b_flagged.json"]["items"]}
+
+    doc = C.build_packet(p4b, fl, dict(f["gold_set.json"], total=float("inf"), sample_seed=None),
+                         dict(f["p3_owner_sample.json"], sample_seed=True))
+    # The flagged quotes/why are corpus prose, so only the numeric renders can be asserted here: no
+    # line may carry an `inf`/`nan` *number*, and the count/ratio renders must say n/a or UNMEASURED.
+    assert not re.search(r"\binf\b|\bnan\b", doc), \
+        [l for l in doc.splitlines() if re.search(r"\binf\b|\bnan\b", l)][:3]
+    assert "n/a" in doc and "UNMEASURED" in doc
+    # The gate table is still rendered and still measured for the gates whose operands are readable.
+    gates = doc[doc.index("| gate | measured |"):doc.index("Gold set: 120 stratified")]
+    assert gates.count("| PASS |") == 5
