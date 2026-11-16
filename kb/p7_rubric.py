@@ -82,8 +82,42 @@ def questions(n: int = N_QUESTIONS) -> list[dict]:
 
 
 def mean(vals: list[float]) -> float | None:
-    vals = [v for v in vals if isinstance(v, (int, float))]
+    """Mean of the readable members; `None` when none are readable.
+
+    Defect 35 (Defect 34's sibling on the rubric artefact): the filter used to be
+    `isinstance(v, (int, float))`, which admits both `bool` and non-finite floats. `mean([True])` was
+    a fabricated `1.0` -- a perfect score out of a judge reply that said `true` -- and an unreadable
+    `inf` member dragged the whole mean past `TARGET = 0.8`. The same two admissions sat in the
+    `graded` and `ungraded_ok` predicates below, where a `bool` score counted as a graded question and
+    could satisfy `len(graded) >= N_QUESTIONS` without the judge ever answering. Every member now goes
+    through the one shared read, `money.as_float`; an unreadable member is dropped from the mean and
+    never counted as graded (Defect 17/22/34 class).
+    """
+    vals = [f for f in (M.as_float(v) for v in vals) if f is not None]
     return round(sum(vals) / len(vals), 4) if vals else None
+
+
+def _r(v) -> str:
+    """Render a value that must be a readable number, or `n/a` when it is not."""
+    return "n/a" if M.as_float(v) is None else str(v)
+
+
+def _text(v) -> str:
+    """Render a free-text cell, mapping the stringified forms of an unreadable value to `n/a`."""
+    if not isinstance(v, str):
+        return _r(v)
+    return "n/a" if v.strip().lower() in ("", "none", "nan", "inf", "-inf", "infinity") else v
+
+
+def _json_safe(obj):
+    """Recursively replace non-finite floats so `json.dumps` never writes `Infinity`/`NaN`."""
+    if isinstance(obj, dict):
+        return {k: _json_safe(v) for k, v in obj.items()}
+    if isinstance(obj, (list, tuple)):
+        return [_json_safe(v) for v in obj]
+    if isinstance(obj, float) and M.as_float(obj) is None:
+        return None
+    return obj
 
 
 def clamp_score(value) -> float | None:
@@ -156,7 +190,7 @@ def run(con=None, chat=None, judge_chat=None, n: int = N_QUESTIONS,
     finally:
         if own:
             con.close()
-    graded = [i for i in items if i.get("judged") and isinstance(i.get("score"), (int, float))]
+    graded = [i for i in items if i.get("judged") and M.as_float(i.get("score")) is not None]
     scores = [i["score"] for i in graded]
     fields = ("facts_cited", "indicators_correct", "judgment_reasoned", "counter_argument_present")
     # Defect 17: `counts` used to categorise only ok/graded/failures/not_enough_data, so a record the
@@ -169,7 +203,7 @@ def run(con=None, chat=None, judge_chat=None, n: int = N_QUESTIONS,
         by_status[str(i.get("status"))] = by_status.get(str(i.get("status")), 0) + 1
     named = {"not_enough_data", "not_in_data", "malformed", "error"}
     ungraded_ok = [i for i in items
-                   if not (i.get("judged") and isinstance(i.get("score"), (int, float)))
+                   if not (i.get("judged") and M.as_float(i.get("score")) is not None)
                    and str(i.get("status")) not in named]
     counts = {
         "questions": len(items),
@@ -239,25 +273,26 @@ def _md(report: dict) -> str:
         f"({'balanced' if c.get('balanced') else 'UNBALANCED — a question landed in no bucket'})",
         f"- writer: `{report['model']}` · judge: `{report['judge_model']}` "
         f"(different family from the extractor)",
-        f"- mean rubric score: {report['mean_score']} (target >= {report['target']}) · "
+        f"- mean rubric score: {_r(report['mean_score'])} (target >= {report['target']}) · "
         f"result: {'PASS' if report['pass'] else 'FAIL'}",
         # Lesson 69: no default in a money renderer -- `.get('judge_cost_usd', 0.0)` rendered a
         # fabricated $0.0000 (twice) whenever the field was absent. `judge_cost_usd` is always set by
         # `report`, so a missing key now reads UNMEASURED instead of a silent zero.
         f"- spend: {M.fmt_usd(report['money_spent_usd'])} "
         f"(analyst {M.fmt_usd(_analyst_spend(report))} + "
-        f"judge {M.fmt_usd(report.get('judge_cost_usd'))}) · wall: {report['wall_seconds']} s",
+        f"judge {M.fmt_usd(report.get('judge_cost_usd'))}) · "
+        f"wall: {_r(report['wall_seconds'])} s",
         "",
         "| rubric field | mean |",
         "|---|---|",
     ]
     for f, v in report["field_means"].items():
-        lines.append(f"| {f} | {v} |")
+        lines.append(f"| {f} | {_r(v)} |")
     lines += ["", "## Sampled items", "",
               "| id | segment | topic | status | score |", "|---|---|---|---|---|"]
     for i in report["items"][:10]:
         lines.append(f"| {i['id']} | {i['segment']} | {i['topic']} | {i.get('status')} | "
-                     f"{i.get('score')} |")
+                     f"{_r(i.get('score'))} |")
     lines += ["", "## Deviations", "",
               "- D19: rubric-graded analyst set (30 questions, segment × topic grid), judge from "
               "a different model family. The mean is over graded questions only; the gate needs all "
@@ -286,13 +321,16 @@ def main(argv: list[str] | None = None) -> int:
         con.close()
     out = Path(a.out)
     out.parent.mkdir(parents=True, exist_ok=True)
-    out.write_text(json.dumps(report, indent=1, default=str), encoding="utf-8")
+    # Defect 35: `json.dumps(report, default=str)` still wrote `Infinity`/`NaN` verbatim (json's
+    # allow_nan default), so the artefact could not be re-read by a strict parser and every downstream
+    # reader saw a non-standard token instead of an unmeasured value. Same sanitisation as p7_report.
+    out.write_text(json.dumps(_json_safe(report), indent=1, default=str), encoding="utf-8")
     if a.report:
         REPORT.parent.mkdir(parents=True, exist_ok=True)
-        REPORT.write_text(json.dumps(report, indent=1, default=str), encoding="utf-8")
+        REPORT.write_text(json.dumps(_json_safe(report), indent=1, default=str), encoding="utf-8")
     counts = report.get("counts") or {}
     print(f"questions {counts.get('questions')} graded {counts.get('graded')} "
-          f"mean {report.get('mean_score')} pass {report.get('pass')}")
+          f"mean {_r(report.get('mean_score'))} pass {report.get('pass')}")
     return 0 if report["pass"] else 1
 
 

@@ -70,7 +70,18 @@ ACCESSORS: dict[str, tuple[str, ...]] = {
     # `audit.json` and the coverage dict. Same rule as `p7_report._count` (Defect 27), so the same
     # function shape: the shared finite guard, then a whole-number check.
     "p4c_report.py": ("_count",),
-    "p7_eval.py": ("tolerance_of", "tolerance_or_exact", "gold_numbers"),
+    # Defect 35: the P7 eval report's own aggregate producer and its render/JSON writers. `_mean` is
+    # the Defect-34 `_mean` shape on this module (readable members only); `_r`/`_json_safe` are the
+    # guarded writers so a non-finite metric cannot reach `p7_eval.md` or the JSON artefact.
+    # `_ratio` is deliberately NOT registered: it is a tally over *bool* grading flags, not a numeric
+    # read, so its guard is `isinstance(f, bool)` and it has no `money.as_float` node to find -- the
+    # same category as `_pt`/`_count_text` in `c1_review.py`. Its own test asserts the truthy-string /
+    # numeric-stand-in rejection, so the rule stays covered without a false R3 entry.
+    "p7_eval.py": ("tolerance_of", "tolerance_or_exact", "gold_numbers", "_mean", "_r", "_json_safe"),
+    # Defect 35: the rubric artefact's aggregate/mean and its render/JSON writers. `mean` is the
+    # Defect-34 `_mean` shape on this module (readable members only); `_r`/`_text`/`_json_safe` are the
+    # guarded writers so a non-finite judge score cannot reach `p7_rubric.md` or the JSON artefact.
+    "p7_rubric.py": ("mean", "_r", "_text", "_json_safe"),
     # Defect 33: the C1 owner packet's operand readers. `_num` is the money guard; `_count` applies the
     # Defect-27 whole-number rule on top of it (a `120.5` count is a broken read, not a rounding);
     # `_num_text` renders a guarded value and `money_sum`/`cap_text` are the booked-money readers.

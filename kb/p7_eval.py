@@ -179,7 +179,7 @@ def score_exact(it: dict, rec: dict) -> bool | None:
     exp = gold_numbers(it)
     if not exp:
         return None
-    found = [float(x) for x in A.numbers_in(A.strip_cites(text))]
+    found = [f for f in (M.as_float(x) for x in A.numbers_in(A.strip_cites(text))) if f is not None]
     tol = tolerance_or_exact(it)
     return all(numbers_match(v, tol, found) for v in exp)
 
@@ -208,7 +208,7 @@ def multihop_components(it: dict) -> set[str]:
 def found_components(it: dict, rec: dict) -> set[str]:
     text = A.strip_cites(rec.get("answer") or "")
     low = text.lower()
-    found_nums = [float(x) for x in A.numbers_in(text)]
+    found_nums = [f for f in (M.as_float(x) for x in A.numbers_in(text)) if f is not None]
     ans = answer_dict(it)
     out: set[str] = set()
     price = M.as_float(ans.get("price"))
@@ -349,11 +349,44 @@ def judge_faithful_cost(rec: dict, chat=None) -> tuple[float | None, float | Non
 
 # --------------------------------------------------------------------------- run
 def _mean(xs: list[float]) -> float | None:
-    return round(sum(xs) / len(xs), 4) if xs else None
+    """Mean of the readable members; `None` when none are readable.
+
+    Defect 35 (P7 eval twin of Defect 34): this used to be `round(sum(xs)/len(xs), 4)`, with the only
+    filter at the call sites. A `True` in the list (an `int` subclass, so `sum` takes it as 1) or an
+    unreadable `inf` (`float("1" + "0"*400)` overflows, its own `numbers_match` tolerance is
+    `0.005 * abs(inf)`) could carry `metrics["multihop_f1"]`/`["faithfulness"]` past its §12 target.
+    Every member now goes through the one shared read, `money.as_float`; an unreadable member is
+    dropped from the mean instead of being counted (Defect 17/22/34 class).
+    """
+    vals = [f for f in (M.as_float(v) for v in xs) if f is not None]
+    return round(sum(vals) / len(vals), 4) if vals else None
 
 
 def _ratio(flags: list[bool]) -> float | None:
+    """Hit rate over the *readable* flags; `None` when no flag is readable.
+
+    A flag is an answer to a yes/no question about one item, so only a real `bool` counts. A string
+    (`"false"` is truthy) or a numeric stand-in would otherwise be counted as a hit, and an unreadable
+    entry would silently inflate the denominator with no way to see it.
+    """
+    flags = [f for f in flags if isinstance(f, bool)]
     return round(sum(1 for f in flags if f) / len(flags), 4) if flags else None
+
+
+def _r(v) -> str:
+    """Render a value that must be a readable number, or `n/a` when it is not."""
+    return "n/a" if M.as_float(v) is None else str(v)
+
+
+def _json_safe(obj):
+    """Recursively replace non-finite floats so `json.dumps` never writes `Infinity`/`NaN`."""
+    if isinstance(obj, dict):
+        return {k: _json_safe(v) for k, v in obj.items()}
+    if isinstance(obj, (list, tuple)):
+        return [_json_safe(v) for v in obj]
+    if isinstance(obj, float) and M.as_float(obj) is None:
+        return None
+    return obj
 
 
 def build_report(items: list[dict], records: list[dict], recall_flags: list[bool],
@@ -477,21 +510,34 @@ def evaluate(items: list[dict], con=None, chat=None, judge_chat=None, limit: int
 def _md(report: dict) -> str:
     g = report["gates"]
     lines = ["# P7 eval — §12 gold-set scoring", "",
-             f"- items: {report['counts']['items']} · wall: {report['wall_seconds']} s · "
+             f"- items: {_r(report['counts']['items'])} · wall: {_r(report['wall_seconds'])} s · "
              f"spend: {M.fmt_usd(report['money_spent_usd'])} "
              # Lesson 69: no default in a money renderer -- `.get('judge_cost_usd', 0.0)` printed a
              # fabricated $0.0000 if the key were ever absent. Missing now reads UNMEASURED.
              f"(judge {M.fmt_usd(report.get('judge_cost_usd'))})",
              f"- model: `{report['model']}` · judge: `{report['judge_model']}` · "
-             f"judged: {report['judged']} graded"
-             + (f" · {report['judged_ungraded']} UNGRADED" if report.get("judged_ungraded") else ""),
+             f"judged: {_r(report['judged'])} graded"
+             + (f" · {_r(report['judged_ungraded'])} UNGRADED" if report.get("judged_ungraded")
+                else ""),
              f"- result: {'PASS' if report['pass'] else 'FAIL'}", "",
              "| metric | value | target | pass |", "|---|---|---|---|"]
     for k, target in TARGETS.items():
         v = g.get(k, {})
-        lines.append(f"| {k} | {v.get('value')} | {target} | {v.get('pass')} |")
+        # Defect 35: the gate table used to render `v.get('pass')` -- the artefact's own stored
+        # verdict -- and the raw value beside it. Re-derive the verdict from the guarded operand
+        # (Defect 33's rule: a stored boolean is a read, not a result), keeping the one deliberate
+        # exception: a faithfulness gate with ungraded judge rows can never pass on the rows the
+        # judge did answer.
+        val = M.as_float(v.get("value"))
+        if val is None:
+            verdict = "n/a"
+        elif v.get("ungraded"):
+            verdict = "NO"
+        else:
+            verdict = "yes" if val >= target else "NO"
+        lines.append(f"| {k} | {_r(v.get('value'))} | {target} | {verdict} |")
     lines += ["", "## Graded counts", ""]
-    lines += [f"- {k}: {v}" for k, v in report["counts"].items()]
+    lines += [f"- {k}: {_r(v)}" for k, v in report["counts"].items()]
     if (g.get("faithfulness") or {}).get("ungraded_errors"):
         lines += ["", "## Judge outages (ungraded, not scored)",
                   ""] + [f"- {e}" for e in g["faithfulness"]["ungraded_errors"]]
@@ -528,14 +574,14 @@ def main(argv: list[str] | None = None) -> int:
         con.close()
     out = Path(args.out)
     out.parent.mkdir(parents=True, exist_ok=True)
-    out.write_text(json.dumps(report, indent=1), encoding="utf-8")
+    out.write_text(json.dumps(_json_safe(report), indent=1, default=str), encoding="utf-8")
     if args.report:
         REPORTS.mkdir(parents=True, exist_ok=True)
-        (REPORTS / "p7_eval.json").write_text(json.dumps(report, indent=1), encoding="utf-8")
-        (REPORTS / "p7_eval.md").write_text(_md(report), encoding="utf-8")
+        (REPORTS / "p7_eval.json").write_text(json.dumps(_json_safe(report), indent=1, default=str),
+                                              encoding="utf-8")
         (REPORTS / "p7_eval.md").write_text(_md(report), encoding="utf-8")
     for k in TARGETS:
-        print(f"{k}: {report['metrics'].get(k)} target {TARGETS[k]}")
+        print(f"{k}: {_r(report['metrics'].get(k))} target {TARGETS[k]}")
     print("PASS" if report["pass"] else "FAIL", "->", out)
     return 0 if report["pass"] else 1
 

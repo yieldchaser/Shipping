@@ -33,10 +33,18 @@ def as_float(v) -> float | None:
 
         None / bool / str / NaN / inf -> None   (unmeasured: never a denominator)
         int / real float              -> float
+
+    Defect 35: an `int` literal that does not fit a float used to escape as an `OverflowError`
+    instead of the unmeasured `None` it is. `json.load` parses a 401-digit literal as an exact `int`
+    (only the *string* form overflows on parse), so a corrupted artefact crashed the whole render
+    path -- the guard's job is to make the number unavailable, not to raise.
     """
     if isinstance(v, bool) or not isinstance(v, (int, float)):
         return None
-    f = float(v)
+    try:
+        f = float(v)
+    except (OverflowError, ValueError, TypeError):
+        return None
     return None if f != f or f in (float("inf"), float("-inf")) else f
 
 

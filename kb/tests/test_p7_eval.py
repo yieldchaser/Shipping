@@ -387,3 +387,87 @@ def test_main_empty_gold(tmp_path):
     gold = tmp_path / "gold.json"
     gold.write_text('{"items": []}', encoding="utf-8")
     assert E.main(["--gold", str(gold)]) == 2
+
+
+# ------------------------------------------------------------------ Defect 35
+BIG = float("1" + "0" * 400)
+
+
+def test_eval_mean_and_ratio_reject_unreadable_members():
+    """Defect 35 (P7 eval twin of Defect 34): the producers admitted `True` and `inf`.
+
+    `_mean` was `sum(xs)/len(xs)`: a `True` counts as 1, and one overflowed member drags the §12 arm
+    past its target. `_ratio` counted *any* truthy flag -- the string `"false"` scored as a hit.
+    """
+    assert E._mean([0.5, 0.7]) == 0.6
+    assert E._mean([0.5, True]) == 0.5
+    assert E._mean([0.5, float("inf"), float("nan"), "0.7"]) == 0.5
+    assert E._mean([0.5, BIG]) == 0.5
+    assert E._mean([True, float("inf"), "x", None]) is None
+    assert E._mean([]) is None
+    assert E._ratio([True, False, True, True]) == 0.75
+    assert E._ratio([True, "false", 1, None, BIG]) == 1.0, "only real bools count"
+    assert E._ratio([]) is None and E._ratio(["false", 0]) is None
+    assert E._r(BIG) == "n/a" and E._r(float("nan")) == "n/a" and E._r(0.75) == "0.75"
+    assert E._json_safe({"a": [1.0, BIG], "b": float("nan")}) == {"a": [1.0, None], "b": None}
+
+
+def test_an_unreadable_faithfulness_score_cannot_pass_the_gate(patched, monkeypatch):
+    monkeypatch.setattr(E.A, "answer_question",
+                        lambda q, model=None, con=None, chat=None: {
+                            **REPLIES[q.split()[-1]], "evidence": ["quote"], "cost_usd": 0.0})
+    # a judge reply whose `supported` literal overflows to inf -> `unit_score` rejects -> UNGRADED
+    rep = E.evaluate(GOLD, with_search=False, with_judge=True,
+                     judge_chat=_chat(['{"supported": 1' + "0" * 400 + '}'] * 5))
+    assert rep["counts"]["faithfulness_graded"] == 0
+    assert rep["metrics"]["faithfulness"] is None
+    assert rep["gates"]["faithfulness"]["pass"] is False
+    assert rep["pass"] is False
+
+
+def test_no_unreadable_value_reaches_the_eval_artefact(patched, monkeypatch, tmp_path):
+    monkeypatch.setattr(E.A, "answer_question",
+                        lambda q, model=None, con=None, chat=None: {
+                            **REPLIES[q.split()[-1]], "evidence": ["quote"]})
+    rep = E.evaluate(GOLD, with_search=True, with_judge=False)
+    rep["wall_seconds"] = BIG
+    rep["metrics"] = {k: BIG for k in E.TARGETS}
+    rep["counts"]["items"] = BIG
+    rep["gates"] = {k: {"value": BIG, "target": t, "pass": True} for k, t in E.TARGETS.items()}
+    md = E._md(rep)
+    assert "inf" not in md and "Infinity" not in md and "nan" not in md
+    assert "wall: n/a s" in md
+    for k in E.TARGETS:
+        assert f"| {k} | n/a | {E.TARGETS[k]} | n/a |" in md, md
+    assert "- items: n/a" in md
+    # an honest run still renders its real numbers and derives real verdicts
+    good = E.evaluate(GOLD, with_search=True, with_judge=False)
+    gmd = E._md(good)
+    assert "| refusal | 1.0 | 0.95 | yes |" in gmd
+    # a faithfulness outage keeps its deliberate ungraded NO, and a low-but-read value is a real NO
+    low = dict(good)
+    low["gates"] = {"faithfulness": {"value": 0.5, "target": 0.95, "pass": False},
+                    "refusal": {"value": 1.0, "target": 0.95, "pass": True}}
+    lmd = E._md(low)
+    assert "| faithfulness | 0.5 | 0.95 | NO |" in lmd and "| refusal | 1.0 | 0.95 | yes |" in lmd
+    ung = dict(good)
+    ung["gates"] = {"faithfulness": {"value": 0.99, "target": 0.95, "pass": False, "ungraded": 2}}
+    assert "| faithfulness | 0.99 | 0.95 | NO |" in E._md(ung)
+
+
+def test_main_json_artefact_never_writes_infinity(patched, monkeypatch, tmp_path):
+    gold = tmp_path / "gold.json"
+    gold.write_text(json.dumps({"items": GOLD}), encoding="utf-8")
+    out = tmp_path / "out.json"
+    monkeypatch.setattr(E, "REPORTS", tmp_path / "reports")
+    monkeypatch.setattr(E, "evaluate", lambda *a, **k: {
+        "metrics": {k: BIG for k in E.TARGETS}, "gates": {}, "counts": {"items": BIG},
+        "pass": False, "wall_seconds": BIG, "money_spent_usd": None,
+        "model": "m", "judge_model": None, "judged": 0, "items": [{"cost_usd": BIG}]})
+    assert E.main(["--gold", str(gold), "--out", str(out), "--report",
+                   "--no-search", "--no-judge"]) == 1
+    for path in (out, tmp_path / "reports" / "p7_eval.json"):
+        text = path.read_text(encoding="utf-8")
+        assert "Infinity" not in text and "NaN" not in text, path
+        assert json.loads(text)["items"][0]["cost_usd"] is None
+    assert "n/a" in (tmp_path / "reports" / "p7_eval.md").read_text(encoding="utf-8")

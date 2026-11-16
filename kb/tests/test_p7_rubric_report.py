@@ -288,6 +288,61 @@ def test_main_writes_out(tmp_path, monkeypatch):
     assert R.main(["--out", str(tmp_path / "x.json")]) == 1
 
 
+# ------------------------------------------------------------------ Defect 35
+BIG_STAT = float("1" + "0" * 400)
+
+
+def test_mean_and_the_graded_predicate_reject_bool_and_non_finite():
+    """Defect 35: `isinstance(v, (int, float))` admitted `True` (== 1.0) and `inf`.
+
+    `mean([True])` was a fabricated perfect score out of a judge reply that said `true`, and one `inf`
+    member dragged the mean past the 0.8 target. The same two admissions sat in the `graded` /
+    `ungraded_ok` predicates, where a `bool` score counted as a graded question.
+    """
+    assert R.mean([0.5, 0.7]) == 0.6
+    assert R.mean([0.5, True]) == 0.5, "bool is an int subclass but not a score"
+    assert R.mean([True]) is None
+    assert R.mean([0.5, float("inf"), float("nan"), "0.7"]) == 0.5
+    assert R.mean([0.5, BIG_STAT]) == 0.5
+    assert R.mean([]) is None
+    assert R.mean([True, float("inf"), "x", None]) is None
+    assert R._r(None) == "n/a" and R._r(BIG_STAT) == "n/a" and R._r(0.5) == "0.5"
+    assert R._json_safe({"a": [1.0, BIG_STAT], "b": BIG_STAT}) == {"a": [1.0, None], "b": None}
+
+
+def test_no_unreadable_value_reaches_the_rubric_artefact(monkeypatch):
+    monkeypatch.setattr(R.PA, "analyse", lambda *a, **k: ok_rec())
+    monkeypatch.setattr(R.PA, "judge_answer_cost", lambda *a, **k: (dict(GOOD_JUDGE), 0.0))
+    rep = R.run(con=DummyCon())
+    rep["mean_score"] = BIG_STAT
+    rep["field_means"]["facts_cited"] = BIG_STAT
+    rep["wall_seconds"] = BIG_STAT
+    rep["items"][0]["score"] = BIG_STAT
+    md = R._md(rep)
+    assert "inf" not in md and "Infinity" not in md and "nan" not in md
+    assert "mean rubric score: n/a" in md
+    assert "| facts_cited | n/a |" in md
+    assert "wall: n/a s" in md
+    # a good arm still renders its real numbers
+    good = R._md(R.run(con=DummyCon()))
+    assert "mean rubric score: 0.9" in good and "| facts_cited | 1.0 |" in good
+    payload = json.dumps(R._json_safe(rep), indent=1, default=str)
+    assert "Infinity" not in payload and "NaN" not in payload
+    loaded = json.loads(payload)
+    assert loaded["mean_score"] is None
+    assert loaded["field_means"]["facts_cited"] is None
+    assert loaded["wall_seconds"] is None
+
+
+def test_main_json_artefact_never_writes_infinity(tmp_path, monkeypatch):
+    monkeypatch.setattr(R, "run", lambda **k: {"mean_score": BIG_STAT, "pass": False})
+    out = tmp_path / "rubric.json"
+    assert R.main(["--out", str(out)]) == 1
+    text = out.read_text(encoding="utf-8")
+    assert "Infinity" not in text and "NaN" not in text
+    assert json.loads(text)["mean_score"] is None
+
+
 # ------------------------------------------------------------------ p7_report
 def good_eval():
     return {"metrics": {k: min(1.0, v + 0.01) for k, v in P.TARGETS.items()},
