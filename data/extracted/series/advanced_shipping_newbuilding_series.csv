@@ -1945,3 +1945,17 @@ issue_date,report_week,section,units,capacity,capacity_raw,capacity_unit,yard,de
 2026-11-06,45,Containers,2,6000.0,6.000,teu,"Imabari, Japan",2030,Undisclosed,,Singaporean (Eastern Pacific),,4,advanced_shipping_07_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
 2026-11-06,45,Gas,1,102000.0,102.000,cbm,"Jiangnan, China",2030,$ 165m,165.0,Chinese (Zhejiang Jiahua Energy),Liquified hydrocarbon carriers,4,advanced_shipping_07_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
 2026-11-06,45,Gas,2,48000.0,48.000,cbm,"Huangpu Wenchong, China",2030,Undisclosed,,Greek (Benelux Overseas),,4,advanced_shipping_07_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-13,46,Bulk Carriers,1,82000.0,82.000,dwt,"Oshima, Japan",2030,Undisclosed,,Greek (AE Nomikos),,5,advanced_shipping_14_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-13,46,Bulk Carriers,1,82000.0,82.000,dwt,"Hengli, China",2029,Undisclosed,,Greek (Leon Shipping & Trading),,5,advanced_shipping_14_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-13,46,Tankers,6,309000.0,309.000,dwt,"Cosco Yangzhou, China",2029/2030,Undisclosed,,Chinese (CSET),LNG ready,5,advanced_shipping_14_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-13,46,Tankers,4,309000.0,309.000,dwt,"DSIC, China",2029/2030,Undisclosed,,Chinese (CSET),LNG ready,5,advanced_shipping_14_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-13,46,Tankers,2,114000.0,114.000,dwt,"Hengli, China",2028,Undisclosed,,Greek (Laskaridis),,5,advanced_shipping_14_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-13,46,Tankers,2,75000.0,75.000,dwt,"Jiangsu Yangzijiang, China",2029/2030,Undisclosed,,Greek (Leon Shipping & Trading),,5,advanced_shipping_14_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-13,46,Tankers,4,50000.0,50.000,dwt,"Jiangsu Haifeng, China",2028,Undisclosed,,Chinese (Yangzijiang Maritime),,5,advanced_shipping_14_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-13,46,Tankers,2,50000.0,50.000,dwt,"Cosco Guangdong, China",2029,Undisclosed,,Greek (Leon Shipping & Trading),,5,advanced_shipping_14_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-13,46,Containers,2,11000.0,11.000,teu,"SWS, China",2030,$ 123m,123.0,HK based (TS Lines),"Scrubber fitted, Methanol ready",5,advanced_shipping_14_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-13,46,Containers,4,3700.0,3.700,teu,"Chengxi, China",2029,Undisclosed,,German (Peter Dohle),,5,advanced_shipping_14_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-13,46,Containers,1,3000.0,3.000,teu,"Jiangsu New Yangzi, China",2030,Undisclosed,,Singaporean (Samudera Shipping Line),,5,advanced_shipping_14_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-13,46,Containers,1,3000.0,3.000,teu,"Yamic, China",2030,Undisclosed,,Singaporean (Samudera Shipping Line),,5,advanced_shipping_14_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-13,46,Containers,7,1400.0,1.400,teu,"Huanghai, China",2029/2030,Undisclosed,,Singaporean (PIL),Methanol ready,5,advanced_shipping_14_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-13,46,Gas,4,90000.0,90.000,cbm,"Hyundai, Korea",2029/2030,"$ 117,5m",117.5,Foresight Group,LPG/Ammonia,5,advanced_shipping_14_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
