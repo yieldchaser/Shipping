@@ -107,6 +107,60 @@ def test_gate_rows_follow_audit_state():
     assert not slow["rows"]["failure_queue_max"]["pass"]
 
 
+def test_gate_rows_reject_unreadable_rates_instead_of_passing_them():
+    """Defect 26: `inf <= 0.02` and `-inf <= 0.03` are True, so a non-finite rate PASSED a §12 gate.
+
+    The gates are ratio reads out of on-disk artefacts, so both operands go through
+    `money.unit_score` at the verdict: a broken read is unmeasured and the row FAILS.
+    """
+    cov = {"chunks": 100}
+    audit = {"present": True, "sampled": 200, "wrong_rate": 0.01, "judge_family": "glm",
+             "extractor_family": "deepseek"}
+    # Non-vacuity: the in-range boundary arms still pass, so the fix cannot pass by blanket-failing.
+    assert P.gate_rows({"failure_queue_rate": 0.0}, audit, cov)["rows"]["failure_queue_max"]["pass"]
+    assert P.gate_rows({"failure_queue_rate": 0.02}, audit, cov)["rows"]["failure_queue_max"]["pass"]
+    for broken in (True, float("inf"), float("-inf"), float("nan"), "0.01", [0.01], 1.5, -0.1):
+        bad = P.gate_rows({"failure_queue_rate": broken}, audit, cov)["rows"]
+        assert bad["failure_queue_max"]["measured"] is None, broken
+        assert not bad["failure_queue_max"]["pass"], broken
+        assert not P.gate_rows({"failure_queue_rate": broken}, audit, cov)["all_pass"], broken
+        a_bad = dict(audit, wrong_rate=broken)
+        assert P.gate_rows({"failure_queue_rate": 0.0}, a_bad, cov)["rows"][
+            "random_audit_wrong_max"]["measured"] is None, broken
+        assert not P.gate_rows({"failure_queue_rate": 0.0}, a_bad, cov)["all_pass"], broken
+    # An audit that was never run stays unmeasured, not a fabricated zero rate.
+    assert P.gate_rows({"failure_queue_rate": 0.0}, {"present": False}, cov)["rows"][
+        "random_audit_wrong_max"]["measured"] is None
+
+
+def test_artefact_rate_readers_guard_their_value(tmp_path):
+    """`audit_gate` and `union_stats` are the two artefact readers; both rates are guarded there.
+
+    The render path then prints `n/a` for an unusable read rather than `True` / `100.00%` / `inf`.
+    """
+    audit = tmp_path / "audit.json"
+    stats = tmp_path / "union_stats.json"
+
+    def read(audit_row, stats_row):
+        audit.write_text(json.dumps(audit_row), encoding="utf-8")
+        stats.write_text(json.dumps(stats_row), encoding="utf-8")
+        return P.audit_gate(audit), P.union_stats(stats)
+
+    for broken in (True, float("inf"), float("-inf"), float("nan"), "0.01", [0.01], 1.5, -0.1):
+        g, u = read({"model": "glm-5.3", "wrong_rate": broken},
+                    {"duplicates_rate": broken, "failure_queue_rate": broken})
+        assert g["wrong_rate"] is None, broken
+        assert u["duplicates_rate"] is None and u["failure_queue_rate"] is None, broken
+    g, u = read({"model": "glm-5.3", "wrong_rate": 0.0},
+                {"duplicates_rate": 0.0, "failure_queue_rate": 0.02})
+    assert g["wrong_rate"] == 0.0  # a genuine measured zero stays, not None
+    assert u["duplicates_rate"] == 0.0 and u["failure_queue_rate"] == 0.02
+    # The renderer: a guarded rate renders as a percentage, an unusable one as `n/a`.
+    assert P._pct(0.02) == "2.00%" and P._pct(0.0) == "0.00%"
+    assert P._pct(None) == "n/a" and P._pct(True) == "n/a" and P._pct(float("inf")) == "n/a"
+    assert P._pct("0.01") == "n/a" and P._pct(1.5) == "n/a"
+
+
 def test_build_and_markdown(tmp_path, monkeypatch):
     bulk = gated("d1", {"a": gchunk("a", ok=False, dropped=1), "b": gchunk("b")}, tmp_path / "bulk")
     esc = gated("d1", {"a": gchunk("a")}, tmp_path / "esc1")

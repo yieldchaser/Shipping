@@ -84,6 +84,12 @@ GRADE_READERS: dict[str, tuple[str, ...]] = {
     # `confidence` is a [0, 1] score, so the one grade-scale rule applies: `money.unit_score`.
     "p4c_gate.py": ("_mean_confidence",),
     "p4c_union.py": ("merge_records",),
+    # Defect 26: the P4c gate verdict reads its two rates out of on-disk artefacts (`audit.json`'s
+    # `wrong_rate`, `union_stats.json`'s `failure_queue_rate`). Both are `[0, 1]` ratios that a §12
+    # gate compares as `rate <= max`, so `inf`/`-inf` used to PASS and `True` used to render as
+    # `100.00%`; `money.unit_score` is the one scale rule. `gate_rows` is the verdict site, and the
+    # two artefact readers are where the value enters the process.
+    "p4c_report.py": ("gate_rows", "audit_gate", "union_stats"),
 }
 
 MONEY_KEY_HINTS = ("cost", "spend", "money", "usd", "budget", "allowance", "cap", "price")

@@ -55,6 +55,16 @@ def seed_for(phase: str = PHASE) -> int:
     return int(hashlib.sha256(f"{phase}|kb-gates-v1".encode()).hexdigest()[:8], 16)
 
 
+def _pct(v) -> str:
+    """Render an already-guarded rate as a percentage, or `n/a` when the read was unusable.
+
+    The `n/a` arm is the declared convention for an unmeasured rate (the same convention the audit
+    line used before); it is only reachable now for a value that is not a finite `[0, 1]` number.
+    """
+    f = M.unit_score(v)
+    return f"{f:.2%}" if f is not None else "n/a"
+
+
 def load_jsonl(path: Path) -> list[dict]:
     """Whole-file load. Materialises every row, so peak memory is O(file), not O(distinct chunks).
 
@@ -179,16 +189,25 @@ def merge_union(path: Path) -> dict:
 
 
 def union_stats(path: Path = UNION_STATS) -> dict:
+    """`union_stats.json` read, with both rate fields behind the single-sourced ratio guard.
+
+    Defect 26 (second site): `duplicates_rate` and `failure_queue_rate` are rendered in the D13 table
+    straight from the artefact. Raw, a `True` renders `True` and an `inf` renders `inf` in an
+    owner-facing report; `failure_queue_rate` is also the D12 number the reader compares against the
+    2% gate by eye, so a broken read must print as unmeasured rather than as a plausible-looking rate.
+    Counts (`chunks`, `records`, `duplicates`, ...) stay raw: they are integers we render directly,
+    not a rate we judge on.
+    """
     try:
         st = json.loads(path.read_text(encoding="utf-8"))
     except (OSError, ValueError):
         return {"present": False}
     return {"present": True, "chunks": st.get("chunks"), "records": st.get("records"),
             "by_kind": st.get("by_kind"), "records_per_source": st.get("records_per_source"),
-            "duplicates": st.get("duplicates"), "duplicates_rate": st.get("duplicates_rate"),
+            "duplicates": st.get("duplicates"), "duplicates_rate": M.unit_score(st.get("duplicates_rate")),
             "dropped_by_gates": st.get("dropped_by_gates"),
             "broken_chunks": st.get("broken_chunks"),
-            "failure_queue_rate": st.get("failure_queue_rate"),
+            "failure_queue_rate": M.unit_score(st.get("failure_queue_rate")),
             "sources": st.get("sources")}
 
 
@@ -303,6 +322,14 @@ def ladder_stats(chunks: dict) -> dict:
 
 
 def audit_gate(audit_path: Path = AUDIT) -> dict:
+    """Read the judge's audit artefact, with `wrong_rate` behind the single-sourced ratio guard.
+
+    Defect 26: `wrong_rate` is a `[0, 1]` rate out of an on-disk JSON artefact, and it is both a
+    *rendered* number and the operand of the `random_audit_wrong_max` verdict. Passed through raw it
+    admitted `True` (rendered `100.00%`) and `-inf` (`-inf <= 0.03` is True, so a broken read PASSED
+    the §12 audit gate). A broken read is UNMEASURED, not a passing rate: `money.unit_score` returns
+    `None`, and both the renderer and `gate_rows` then treat it as unmeasured-and-failing.
+    """
     try:
         a = json.loads(audit_path.read_text(encoding="utf-8"))
     except (OSError, ValueError):
@@ -311,23 +338,31 @@ def audit_gate(audit_path: Path = AUDIT) -> dict:
             "extractor": a.get("extractor_model"), "extractor_family": a.get("extractor_family"),
             "sampled": a.get("sampled"), "judged": a.get("judged"), "drop": a.get("drop"),
             "unparseable": a.get("unparseable"), "wrong": a.get("wrong"),
-            "wrong_rate": a.get("wrong_rate")}
+            "wrong_rate": M.unit_score(a.get("wrong_rate"))}
 
 
 def gate_rows(st: dict, audit: dict, cov: dict) -> dict:
+    """Judge the `gates.yaml` P4c rows.
+
+    Defect 26: both rate operands are read through `money.unit_score` *here*, not only at their
+    call sites. `inf <= 0.02` and `-inf <= 0.03` are both True, so a non-finite rate used to PASS a
+    §12 gate; a broken read must FAIL the row as unmeasured. Guarding at the verdict as well as at
+    the artefact reader is what makes the rule single-sourced across callers (a dict passed in by a
+    future caller is untrusted too).
+    """
+    fqr = M.unit_score(st.get("failure_queue_rate"))
+    wrong = M.unit_score(audit.get("wrong_rate")) if audit.get("present") else None
     rows = {
-        "failure_queue_max": {"required": GATES["failure_queue_max"],
-                              "measured": st["failure_queue_rate"],
-                              "pass": st["failure_queue_rate"] <= GATES["failure_queue_max"]},
+        "failure_queue_max": {"required": GATES["failure_queue_max"], "measured": fqr,
+                              "pass": fqr is not None and fqr <= GATES["failure_queue_max"]},
         "random_audit_records": {"required": GATES["random_audit_records"],
                                  "measured": audit.get("sampled") or 0,
                                  "pass": bool(audit.get("present")) and (audit.get("sampled") or 0)
                                  >= GATES["random_audit_records"]},
         "random_audit_wrong_max": {"required": GATES["random_audit_wrong_max"],
-                                   "measured": audit.get("wrong_rate"),
-                                   "pass": audit.get("present") and
-                                   (audit.get("wrong_rate") is not None) and
-                                   audit["wrong_rate"] <= GATES["random_audit_wrong_max"]},
+                                   "measured": wrong,
+                                   "pass": wrong is not None
+                                   and wrong <= GATES["random_audit_wrong_max"]},
         "judge_family_differs_from_extractor": {
             "required": GATES["judge_family_differs_from_extractor"],
             "measured": bool(audit.get("present")) and audit.get("judge_family") !=
@@ -486,11 +521,11 @@ def _md(rep: dict) -> str:
         lines += ["## Union of extraction passes (D13)", "",
                   "| metric | value |", "|---|---|",
                   f"| records after merge | {u.get('records'):,} |",
-                  f"| duplicates removed | {u.get('duplicates')} ({u.get('duplicates_rate')}) |",
+                  f"| duplicates removed | {u.get('duplicates')} ({_pct(u.get('duplicates_rate'))}) |",
                   f"| records per source | {json.dumps(rps)} |",
                   f"| records dropped by gates | {u.get('dropped_by_gates')} |",
                   f"| broken chunks (D12) | {u.get('broken_chunks')} "
-                  f"({u.get('failure_queue_rate')}) |", ""]
+                  f"({_pct(u.get('failure_queue_rate'))}) |", ""]
     r6 = rep.get("rule6") or {}
     if r6.get("present"):
         lines += ["## Rule-6 escalation queue (D12)", "",
@@ -522,7 +557,9 @@ def _md(rep: dict) -> str:
     a = rep["audit"]
     if a.get("present"):
         rate = a.get("wrong_rate")
-        rate_s = f"{rate:.2%}" if isinstance(rate, (int, float)) else "n/a"
+        # Defect 26: `f"{True:.2%}"` renders `100.00%`, i.e. a broken read printed as the worst
+        # possible rate instead of as unmeasured (and the same value fed the gate row below).
+        rate_s = _pct(rate)
         lines += [f"Judge `{a['judge']}` ({a['judge_family']} family) vs extractor `{a['extractor']}` "
                   f"({a['extractor_family']} family): {a['sampled']} sampled, {a['judged']} judged, "
                   f"{a['drop']} dropped, {a['unparseable']} unparseable -> wrong rate "
