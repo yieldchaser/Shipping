@@ -442,13 +442,25 @@ def check_analyst(parsed: dict, have_numbers: list[float], resolve) -> tuple[dic
 
 
 def evidence_numbers(inds: dict) -> list[float]:
+    """Finite numbers carried by the analyst's own indicators.
+
+    Defect 29 twin: this read is the `have` side of `A.numbers_supported`, so a present-but-unreadable
+    indicator (`inf`, a 400-digit string, `true`) used to enter the supported-number pool. An `inf` in
+    that pool is not merely inert: `abs(v - inf) <= ...` is False, but `number_ok(inf, have)` is True,
+    so a broken pool member could *certify* a sentence and a finite one could `abs(inf - v) == inf` its
+    way into a false negative. Unreadable members are dropped from the pool entirely.
+    """
     vals = []
     for i in inds["indicators"]:
         for k, v in i.items():
-            if isinstance(v, (int, float)) and not isinstance(v, bool):
-                vals.append(float(v))
+            f = M.as_float(v)
+            if f is not None:
+                vals.append(f)
             elif isinstance(v, list):
-                vals.extend(float(x) for x in v if isinstance(x, (int, float)))
+                for x in v:
+                    fx = M.as_float(x)
+                    if fx is not None:
+                        vals.append(fx)
     return vals
 
 

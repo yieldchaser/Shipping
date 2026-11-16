@@ -243,6 +243,29 @@ def test_check_analyst_unresolved_cite():
     assert drops["cite_unresolved"] == 1 and parsed["status"] == "not_in_data"
 
 
+def test_evidence_numbers_drops_unreadable_members():
+    """Defect 29 twin: this pool is the `have` side of the number contract.
+
+    A present-but-unreadable indicator (`inf`, a 400-digit literal, `true`) used to enter the pool,
+    where `abs(v - inf) == inf` made it hostile in both directions: `number_ok(inf, [..])` is True, so
+    a pool member nobody could read could *certify* a sentence, and a finite pool member never
+    matched a finite claim. Unreadable members must be dropped, not coerced.
+    """
+    # non-vacuity: the good path is unchanged
+    assert P.evidence_numbers({"indicators": [{"a": 1.5, "b": 7}]}) == [1.5, 7.0]
+    big = "1" + "0" * 400
+    assert P.evidence_numbers({"indicators": [{"a": float("inf"), "b": 5}]}) == [5.0]
+    assert P.evidence_numbers({"indicators": [{"a": float("nan"), "b": float("-inf"), "c": 5}]}) \
+        == [5.0]
+    assert P.evidence_numbers({"indicators": [{"a": True, "b": big, "c": 5}]}) == [5.0]
+    assert P.evidence_numbers({"indicators": [{"xs": [1.5, True, float("inf"), big, 7]}]}) \
+        == [1.5, 7.0]
+    assert P.evidence_numbers({"indicators": [{"a": float("inf")}]}) == []
+    # the pool it produces can no longer certify an arbitrary number
+    assert P.A.number_ok(float("inf"), P.evidence_numbers(
+        {"indicators": [{"a": float("inf")}]})) is False
+
+
 def test_analyse_happy_path(db, monkeypatch):
     monkeypatch.setattr(P.A, "_resolver", lambda con, cache: (lambda h: True))
     monkeypatch.setattr(P.A, "_chat", _chat([GOOD]))

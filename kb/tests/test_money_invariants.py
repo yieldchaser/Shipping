@@ -66,6 +66,11 @@ ACCESSORS: dict[str, tuple[str, ...]] = {
     "p7_report.py": ("_cap_num", "pipeline_cap", "_mean", "_count"),
     "p7_eval.py": ("tolerance_of", "tolerance_or_exact", "gold_numbers"),
     "c1_review.py": ("_num",),
+    # Defect 29: the number contract's two-sided reads. `numbers_claimed`/`numbers_in` parse the
+    # composer's own sentence (an external, LLM-authored string) and `evidence_numbers` reads the
+    # analyst's indicator payloads; both feed `number_ok`, whose `value` may be an unreadable literal.
+    "ask.py": ("numbers_in", "numbers_claimed", "_finite_token", "number_ok"),
+    "p7_analyst.py": ("evidence_numbers",),
 }
 
 # The read of an untrusted LLM *score*. The named function must reach `money.unit_score`, and the

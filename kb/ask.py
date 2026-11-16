@@ -78,26 +78,55 @@ def as_of_of(question: str) -> str | None:
     return m.group(1) if m else None
 
 
+def _finite_token(tok: str) -> float | None:
+    """Parse one numeric token and return it only if it is a finite float (else `None`).
+
+    The tri-state this module needs is finer than "is it a number": a token that is *not* a numeric
+    literal at all is simply not a claim, so it drops out of the sentence silently; a token that *is*
+    one but cannot be read (a 400-digit literal is `inf`, not an exception) is a **broken read of a
+    number the composer did assert**, and that must make the sentence fail the contract rather than
+    disappear from it. `None` here means "unreadable", and the caller counts it as unsupported.
+    """
+    try:
+        raw = float(tok.replace(",", "").rstrip("."))
+    except ValueError:
+        return None
+    return M.as_float(raw)   # `raw` is already a float: this is the finite-value rule, not a cast
+
+
 def numbers_in(text: str) -> list[float]:
+    """Finite numbers tokenised out of text; unreadable numeric literals are omitted."""
     out = []
     for tok in NUM.findall(text or ""):
-        tok = tok.replace(",", "").rstrip(".")
-        try:
-            out.append(float(tok))
-        except ValueError:
-            continue
+        f = _finite_token(tok)
+        if f is not None:
+            out.append(f)
     return out
 
 
+def numbers_claimed(text: str) -> list[float | None]:
+    """Every numeric token in text, with an unreadable literal kept as `None`.
+
+    Defect 29: `numbers_in` used to `float()` each token raw, so a 400-digit literal became `inf` and
+    `abs(inf - h) <= tol` was False for every finite `h` — the number silently counted as *supported*
+    by the very check whose job is to reject unsupported numbers (`numbers_supported` returned
+    `(True, [])` for a sentence whose only number was unreadable). Dropping the token is just as
+    wrong in the other direction: the sentence asserted a number and got away with it. The contract
+    filter must see one `None` (unreadable) and reject the sentence.
+    """
+    return [_finite_token(tok) for tok in NUM.findall(text or "")]
+
+
 def _result_numbers(obj) -> list[float]:
-    """All numeric tokens in a tool result (strings scanned, floats taken directly)."""
+    """All finite numeric tokens in a tool result (strings scanned, floats taken directly)."""
     vals: list[float] = []
 
     def walk(x):
         if isinstance(x, bool) or x is None:
             return
-        if isinstance(x, (int, float)):
-            vals.append(float(x))
+        f = M.as_float(x)
+        if f is not None:
+            vals.append(f)
         elif isinstance(x, str):
             vals.extend(numbers_in(x))
         elif isinstance(x, dict):
@@ -118,11 +147,24 @@ def result_numbers(results: list[dict]) -> list[float]:
     return vals
 
 
-def number_ok(value: float, have: list[float]) -> bool:
-    if not have:
+def number_ok(value: float | None, have: list[float]) -> bool:
+    """Is one asserted number backed by the tool results?
+
+    Defect 29: `value` may be `None` (the sentence asserted a numeric literal that cannot be read),
+    and that is never supportable. Rejecting it *before* the tolerance arithmetic also closes the
+    mirror hole the old code had: `number_ok(inf, [17.6])` was True, because `abs(inf - 17.6) == inf`
+    and `max(1e-9, 0.005 * inf, ...) == inf`, so an unreadable number in the *answer text* used to
+    certify itself. Both operands are read through `M.as_float`, so the arithmetic below only ever
+    sees finite values regardless of what a caller passes.
+    """
+    v = M.as_float(value)
+    if v is None or not have:
         return False
     for h in have:
-        if abs(value - h) <= max(1e-9, 0.005 * abs(value), 0.5 if abs(value) >= 100 else 0.01):
+        fh = M.as_float(h)
+        if fh is None:
+            continue
+        if abs(v - fh) <= max(1e-9, 0.005 * abs(v), 0.5 if abs(v) >= 100 else 0.01):
             return True
     return False
 
@@ -132,8 +174,14 @@ def strip_cites(text: str) -> str:
     return CITE.sub(" ", text or "")
 
 
-def numbers_supported(answer_text: str, have: list[float]) -> tuple[bool, list[float]]:
-    missing = [v for v in numbers_in(strip_cites(answer_text)) if not number_ok(v, have)]
+def numbers_supported(answer_text: str, have: list[float]) -> tuple[bool, list[float | None]]:
+    """Check every number the answer text asserts against the tool results.
+
+    An unreadable literal (a 400-digit overflow) comes back as `None` from `numbers_claimed` and lands
+    in `missing` rather than vanishing from the sentence: the composer did assert a number, and a
+    contract filter that cannot read it must not call it supported.
+    """
+    missing = [v for v in numbers_claimed(strip_cites(answer_text)) if not number_ok(v, have)]
     return (not missing), missing
 
 

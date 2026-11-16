@@ -243,6 +243,39 @@ def test_numbers_and_support():
     assert A.number_ok(12.3, [12.5]) is False
 
 
+def test_an_unreadable_number_never_counts_as_supported():
+    """Defect 29.
+
+    `numbers_in` used `float()` raw, so a 400-digit literal became `inf`. The old
+    `numbers_supported` then filtered with `not number_ok(inf, have)`, and `number_ok(inf, ...)` was
+    True for *any* non-empty `have` (`abs(inf - h) == inf <= max(1e-9, 0.005 * inf, ...) == inf`), so
+    the sentence was certified on a number nobody could read. The mirror case matters too: with the
+    unreadable token simply dropped, the sentence would pass because it appears to assert nothing.
+    Non-vacuity first: a real supported number still passes, a real unsupported one still fails.
+    """
+    assert A.numbers_supported("USD 24,500/day", [24500.0]) == (True, [])
+    assert A.numbers_supported("Rates hit USD 99,999/day", [24500.0])[0] is False
+
+    big = "1" + "0" * 400
+    assert A.numbers_in("we saw " + big + " tonnes") == []
+    assert A.numbers_claimed("we saw " + big + " tonnes") == [None]
+    # the value side: unreadable literal in the answer text is not supportable...
+    ok, missing = A.numbers_supported("we saw " + big + " tonnes", [24500.0])
+    assert ok is False and missing == [None]
+    # ...and not supportable by an unreadable `have` member either
+    assert A.numbers_supported("we saw " + big + " tonnes", [24500.0])[0] is False
+    for bad in (True, False, float("inf"), float("-inf"), float("nan"), "24500", [24500], {}):
+        assert A.number_ok(bad, [24500.0]) is False, bad
+        assert A.number_ok(None, [24500.0]) is False
+    # the `have` side never carries an unreadable member into the tolerance arithmetic
+    assert A.result_numbers([{"result": {"t": float("inf"), "n": float("nan"), "ok": 24500}}]) \
+        == [24500.0]
+    assert A.result_numbers([{"result": {"b": True, "s": "1" + "0" * 400}}]) == []
+    # non-vacuity on the good path
+    assert A.number_ok(24500.0, [24500.0]) is True
+    assert A.result_numbers([{"result": {"n": 3, "price": 24500}}]) == [3.0, 24500.0]
+
+
 def test_parse_answer_and_not_in_data():
     parsed = A.parse_answer("ANSWER: Capesize was USD 24,500/day [cite:obs:101].\n"
                             "- Brazil-China run firmed [cite:obs:101].")
