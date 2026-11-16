@@ -121,12 +121,12 @@
       "fetch_method": "Wayback PDF Parse",
       "fetch_script": "scripts/scrapers/fetch_australia_ppa.py",
       "output_file": "data/commodities/australia_ppa_iron_ore.csv",
-      "row_count": 425,
+      "row_count": 427,
       "date_span": [
         "2002-07-01",
-        "2026-09-01"
+        "2026-10-01"
       ],
-      "last_fetched_utc": "2026-11-16T13:26:45Z",
+      "last_fetched_utc": "2026-11-16T15:25:28.149264+00:00",
       "unit": "Throughput MT",
       "is_derived": false,
       "derivation": null,
@@ -2137,12 +2137,12 @@
       "fetch_method": "Multi-Source National Statistics Harvesters",
       "fetch_script": "scripts/scrapers/fetch_minor_bulks.py",
       "output_file": "data/commodities/minor_bulks_monthly.csv",
-      "row_count": 673,
+      "row_count": 674,
       "date_span": [
         "2013-01-01",
         "2026-09-01"
       ],
-      "last_fetched_utc": "2026-11-09T16:18:18.055899+00:00",
+      "last_fetched_utc": "2026-11-16T15:50:09.913981+00:00",
       "unit": "Tonnes / USD FOB/CIF",
       "is_derived": false,
       "derivation": null
@@ -2161,7 +2161,7 @@
         "2024-01-01",
         "2026-09-01"
       ],
-      "last_fetched_utc": "2026-11-09T16:18:26.528021+00:00",
+      "last_fetched_utc": "2026-11-16T15:50:30.038290+00:00",
       "unit": "Mt / month",
       "is_derived": false,
       "derivation": null,
@@ -2181,7 +2181,7 @@
         "2022-01-01",
         "2026-09-01"
       ],
-      "last_fetched_utc": "2026-11-09T16:19:06.857176+00:00",
+      "last_fetched_utc": "2026-11-16T15:51:17.531275+00:00",
       "unit": "Mt / month",
       "is_derived": false,
       "derivation": null,

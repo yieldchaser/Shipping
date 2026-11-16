@@ -133,6 +133,7 @@ date,port,total_throughput_mt,iron_ore_exports_mt,destinations_t,mom_pct,yoy_pct
 2026-07-01,Port Hedland,44.225,44.225,"{""China"": 37856534.0, ""India"": 190538.0, ""Indonesia"": 462913.0, ""Japan"": 2064734.0, ""Korea, Republic of"": 2276862.0, ""Malaysia"": 215890.0, ""Taiwan, Province of China"": 149921.0, ""Vietnam"": 1007588.0}",-14.47,-3.79,live_ppa_pdf
 2026-08-01,Port Hedland,46.605,46.605,"{""China"": 38000572.0, ""India"": 547374.0, ""Indonesia"": 1061738.0, ""Japan"": 1823627.0, ""Korea, Republic of"": 4104546.0, ""Malaysia"": 164474.0, ""Taiwan, Province of China"": 454005.0, ""Vietnam"": 448282.0}",5.38,5.16,live_ppa_pdf
 2026-09-01,Port Hedland,48.904,48.904,"{""China"": 40958126.0, ""India"": 747492.0, ""Indonesia"": 1000200.0, ""Japan"": 2010787.0, ""Korea, Republic of"": 3219873.0, ""Malaysia"": 155626.0, ""Taiwan, Province of China"": 160009.0, ""Vietnam"": 651949.0}",4.93,0.69,live_ppa_pdf
+2026-10-01,Port Hedland,48.165,48.165,"{""Australia"": 28914.32, ""China"": 40492021.0, ""India"": 569552.0, ""Indonesia"": 897781.0, ""Japan"": 1852647.0, ""Korea, Republic of"": 3157077.0, ""Malaysia"": 103498.0, ""Taiwan, Province of China"": 472965.0, ""Vietnam"": 619757.0}",-1.51,-2.68,live_ppa_pdf
 2002-07-01,Port of Dampier,8.219,6.765,,,,live_ppa_dampier_fy
 2002-08-01,Port of Dampier,7.844,6.334,,-6.37,,live_ppa_dampier_fy
 2002-09-01,Port of Dampier,7.777,6.126,,-3.28,,live_ppa_dampier_fy
@@ -424,3 +425,4 @@ date,port,total_throughput_mt,iron_ore_exports_mt,destinations_t,mom_pct,yoy_pct
 2026-07-01,Port of Dampier,14.692,12.587,,-7.18,2.94,live_ppa_dampier_fy
 2026-08-01,Port of Dampier,14.849,12.8,,1.69,-7.56,live_ppa_dampier_fy
 2026-09-01,Port of Dampier,15.235,13.532,,5.72,3.42,live_ppa_dampier_fy
+2026-10-01,Port of Dampier,17.23,14.918,,10.24,-0.07,live_ppa_dampier_fy

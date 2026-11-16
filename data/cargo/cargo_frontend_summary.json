@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-16T14:43:00Z",
+    "generated_at": "2026-11-16T15:57:15Z",
     "as_of": "2026-11-16",
     "version": "2.0.0",
     "tab": "Cargo & Trade Flows"
@@ -8,7 +8,7 @@
   "provenance_registry": {
     "registry_metadata": {
       "version": "2.0.0",
-      "generated_at": "2026-11-16T14:43:00Z",
+      "generated_at": "2026-11-16T15:57:15Z",
       "as_of": "2026-11-16",
       "total_datasets": 19,
       "architecture": "Centralized Dynamic Live Ingest Registry"
@@ -21,9 +21,9 @@
         "source_url": "https://comexstat.mdic.gov.br/",
         "span": "2017\u20132026",
         "min_date": "2017-01-01",
-        "max_date": "2026-09-01",
-        "as_of": "2026-09",
-        "row_count": 584,
+        "max_date": "2026-10-01",
+        "as_of": "2026-10",
+        "row_count": 588,
         "status": "LIVE",
         "unit": "Million Tonnes (Mt/mo)"
       },
@@ -34,11 +34,11 @@
         "source_url": "https://www.pilbaraports.com.au/",
         "span": "2002\u20132026",
         "min_date": "2002-07-01",
-        "max_date": "2026-09-01",
+        "max_date": "2026-10-01",
         "hedland_min_date": "2015-08",
         "dampier_min_date": "2002-07",
-        "as_of": "2026-09",
-        "row_count": 425,
+        "as_of": "2026-10",
+        "row_count": 427,
         "miners_row_count": 40,
         "status": "LIVE",
         "unit": "Million Tonnes (Mt/mo)"
@@ -63,9 +63,9 @@
         "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCREXUS2&f=W",
         "span": "1991\u20132026",
         "min_date": "1991-02-08",
-        "max_date": "2026-10-30",
-        "as_of": "2026-10-30",
-        "row_count": 1865,
+        "max_date": "2026-11-06",
+        "as_of": "2026-11-06",
+        "row_count": 1866,
         "status": "LIVE",
         "unit": "Thousand Barrels/Day (kbpd)"
       },
@@ -145,9 +145,9 @@
         "source_url": "http://english.customs.gov.cn/Statistics/Statistics?ColumnId=1",
         "span": "2018\u20132026",
         "min_date": "2018-01",
-        "max_date": "2026-09",
-        "as_of": "2026-09",
-        "row_count": 971,
+        "max_date": "2026-10",
+        "as_of": "2026-10",
+        "row_count": 974,
         "status": "LIVE_USD_DISCLAIMER",
         "disclaimer": "USD value, not tonnage (tonnage for the bulletin lines is in china_customs_bulletin)",
         "unit": "USD Millions ($M/mo)"
@@ -159,9 +159,9 @@
         "source_url": "http://english.customs.gov.cn/Statistics/Statistics?ColumnId=1",
         "span": "2019\u20132026",
         "min_date": "2019-01",
-        "max_date": "2026-09",
-        "as_of": "2026-09",
-        "row_count": 5473,
+        "max_date": "2026-10",
+        "as_of": "2026-10",
+        "row_count": 5538,
         "status": "LIVE",
         "unit": "Mt and USD million per month"
       },
@@ -174,7 +174,7 @@
         "min_date": "2018-01",
         "max_date": "2026-10",
         "as_of": "2026-10",
-        "row_count": 16227,
+        "row_count": 16252,
         "status": "LIVE",
         "unit": "Mt per month (exporter-side, FOB)"
       },
@@ -227,7 +227,7 @@
         "min_date": "2013-01-01",
         "max_date": "2026-09-01",
         "as_of": "2026-09",
-        "row_count": 673,
+        "row_count": 674,
         "status": "LIVE",
         "unit": "Million Tonnes (Mt/mo)"
       },
@@ -85689,7 +85689,7 @@
         39.667,
         35.0028,
         34.3515,
-        31.6605
+        31.5536
       ],
       "freight_label": "Baltic C3 Freight Rate ($/MT)",
       "freight_unit": "USD/MT",
@@ -88039,9 +88039,9 @@
       "source_url": "https://comexstat.mdic.gov.br/",
       "span": "2017\u20132026",
       "min_date": "2017-01-01",
-      "max_date": "2026-09-01",
-      "as_of": "2026-09",
-      "row_count": 584,
+      "max_date": "2026-10-01",
+      "as_of": "2026-10",
+      "row_count": 588,
       "status": "LIVE",
       "unit": "Million Tonnes (Mt/mo)"
     },
@@ -88281,7 +88281,8 @@
         "2026-06": 8.4531,
         "2026-07": 7.675,
         "2026-08": 8.3588,
-        "2026-09": 11.6897
+        "2026-09": 11.7074,
+        "2026-10": 14.4897
       },
       "Iron Ore": {
         "2017-01": 26.5982,
@@ -88400,7 +88401,8 @@
         "2026-06": 39.667,
         "2026-07": 35.0028,
         "2026-08": 34.3515,
-        "2026-09": 31.6605
+        "2026-09": 31.5536,
+        "2026-10": 33.7823
       },
       "Raw Sugar": {
         "2017-01": 1.7771,
@@ -88519,7 +88521,8 @@
         "2026-06": 2.7714,
         "2026-07": 2.5303,
         "2026-08": 2.2212,
-        "2026-09": 2.3062
+        "2026-09": 2.3027,
+        "2026-10": 2.7649
       },
       "Soybeans": {
         "2017-01": 0.9118,
@@ -88638,7 +88641,8 @@
         "2026-06": 14.505,
         "2026-07": 13.4059,
         "2026-08": 9.8119,
-        "2026-09": 7.3586
+        "2026-09": 7.3586,
+        "2026-10": 6.344
       }
     },
     "envelopes": {
@@ -89050,8 +89054,8 @@
             8.45,
             7.67,
             8.36,
-            11.69,
-            null,
+            11.71,
+            14.49,
             null,
             null
           ]
@@ -89258,8 +89262,8 @@
             39.67,
             35.0,
             34.35,
-            31.66,
-            null,
+            31.55,
+            33.78,
             null,
             null
           ]
@@ -89466,8 +89470,8 @@
             2.77,
             2.53,
             2.22,
-            2.31,
-            null,
+            2.3,
+            2.76,
             null,
             null
           ]
@@ -89675,7 +89679,7 @@
             13.41,
             9.81,
             7.36,
-            null,
+            6.34,
             null,
             null
           ]
@@ -89692,11 +89696,11 @@
       "source_url": "https://www.pilbaraports.com.au/",
       "span": "2002\u20132026",
       "min_date": "2002-07-01",
-      "max_date": "2026-09-01",
+      "max_date": "2026-10-01",
       "hedland_min_date": "2015-08",
       "dampier_min_date": "2002-07",
-      "as_of": "2026-09",
-      "row_count": 425,
+      "as_of": "2026-10",
+      "row_count": 427,
       "miners_row_count": 40,
       "status": "LIVE",
       "unit": "Million Tonnes (Mt/mo)"
@@ -89930,7 +89934,7 @@
           44.23,
           46.6,
           48.9,
-          null,
+          48.16,
           null,
           null
         ]
@@ -90348,7 +90352,7 @@
           14.69,
           14.85,
           15.23,
-          null,
+          17.23,
           null,
           null
         ]
@@ -90766,7 +90770,7 @@
           12.59,
           12.8,
           13.53,
-          null,
+          14.92,
           null,
           null
         ]
@@ -91184,7 +91188,7 @@
           58.92,
           61.45,
           64.14,
-          null,
+          65.39,
           null,
           null
         ]
@@ -91677,7 +91681,8 @@
       "2026-06": 51.71,
       "2026-07": 44.225,
       "2026-08": 46.605,
-      "2026-09": 48.904
+      "2026-09": 48.904,
+      "2026-10": 48.165
     },
     "hedland_total_monthly_raw": {
       "2015-08": 39.176,
@@ -91813,7 +91818,8 @@
       "2026-06": 51.71,
       "2026-07": 44.225,
       "2026-08": 46.605,
-      "2026-09": 48.904
+      "2026-09": 48.904,
+      "2026-10": 48.165
     },
     "dampier_monthly_raw": {
       "2002-07": 8.219,
@@ -92106,7 +92112,8 @@
       "2026-06": 15.429,
       "2026-07": 14.692,
       "2026-08": 14.849,
-      "2026-09": 15.235
+      "2026-09": 15.235,
+      "2026-10": 17.23
     },
     "dampier_iron_ore_monthly_raw": {
       "2002-07": 6.765,
@@ -92399,7 +92406,8 @@
       "2026-06": 13.561,
       "2026-07": 12.587,
       "2026-08": 12.8,
-      "2026-09": 13.532
+      "2026-09": 13.532,
+      "2026-10": 14.918
     },
     "dampier_total_monthly_raw": {
       "2002-07": 8.219,
@@ -92692,7 +92700,8 @@
       "2026-06": 15.429,
       "2026-07": 14.692,
       "2026-08": 14.849,
-      "2026-09": 15.235
+      "2026-09": 15.235,
+      "2026-10": 17.23
     },
     "pilbara_iron_ore_monthly_raw": {
       "2002-07": 6.76,
@@ -92985,60 +92994,67 @@
       "2026-06": 65.27,
       "2026-07": 56.81,
       "2026-08": 59.41,
-      "2026-09": 62.44
+      "2026-09": 62.44,
+      "2026-10": 63.08
     },
     "latest_destinations": {
-      "date": "2026-09",
-      "china_share_pct": 83.75,
-      "total_reported_mt": 48.9,
+      "date": "2026-10",
+      "china_share_pct": 84.02,
+      "total_reported_mt": 48.19,
       "destinations": [
         {
           "destination": "China",
-          "tonnes": 40958126.0,
-          "tonnes_mt": 40.958,
-          "share_pct": 83.75
+          "tonnes": 40492021.0,
+          "tonnes_mt": 40.492,
+          "share_pct": 84.02
         },
         {
           "destination": "Korea, Republic of",
-          "tonnes": 3219873.0,
-          "tonnes_mt": 3.22,
-          "share_pct": 6.58
+          "tonnes": 3157077.0,
+          "tonnes_mt": 3.157,
+          "share_pct": 6.55
         },
         {
           "destination": "Japan",
-          "tonnes": 2010787.0,
-          "tonnes_mt": 2.011,
-          "share_pct": 4.11
+          "tonnes": 1852647.0,
+          "tonnes_mt": 1.853,
+          "share_pct": 3.84
         },
         {
           "destination": "Indonesia",
-          "tonnes": 1000200.0,
-          "tonnes_mt": 1.0,
-          "share_pct": 2.05
-        },
-        {
-          "destination": "India",
-          "tonnes": 747492.0,
-          "tonnes_mt": 0.747,
-          "share_pct": 1.53
+          "tonnes": 897781.0,
+          "tonnes_mt": 0.898,
+          "share_pct": 1.86
         },
         {
           "destination": "Vietnam",
-          "tonnes": 651949.0,
-          "tonnes_mt": 0.652,
-          "share_pct": 1.33
+          "tonnes": 619757.0,
+          "tonnes_mt": 0.62,
+          "share_pct": 1.29
+        },
+        {
+          "destination": "India",
+          "tonnes": 569552.0,
+          "tonnes_mt": 0.57,
+          "share_pct": 1.18
         },
         {
           "destination": "Taiwan, Province of China",
-          "tonnes": 160009.0,
-          "tonnes_mt": 0.16,
-          "share_pct": 0.33
+          "tonnes": 472965.0,
+          "tonnes_mt": 0.473,
+          "share_pct": 0.98
         },
         {
           "destination": "Malaysia",
-          "tonnes": 155626.0,
-          "tonnes_mt": 0.156,
-          "share_pct": 0.32
+          "tonnes": 103498.0,
+          "tonnes_mt": 0.103,
+          "share_pct": 0.21
+        },
+        {
+          "destination": "Australia",
+          "tonnes": 28914.3,
+          "tonnes_mt": 0.029,
+          "share_pct": 0.06
         }
       ]
     }
@@ -93472,9 +93488,9 @@
       "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCREXUS2&f=W",
       "span": "1991\u20132026",
       "min_date": "1991-02-08",
-      "max_date": "2026-10-30",
-      "as_of": "2026-10-30",
-      "row_count": 1865,
+      "max_date": "2026-11-06",
+      "as_of": "2026-11-06",
+      "row_count": 1866,
       "status": "LIVE",
       "unit": "Thousand Barrels/Day (kbpd)"
     },
@@ -95638,7 +95654,7 @@
           3442.0,
           4854.0,
           3675.0,
-          null,
+          3455.0,
           null,
           null,
           null,
@@ -108503,9 +108519,9 @@
       "source_url": "http://english.customs.gov.cn/Statistics/Statistics?ColumnId=1",
       "span": "2018\u20132026",
       "min_date": "2018-01",
-      "max_date": "2026-09",
-      "as_of": "2026-09",
-      "row_count": 971,
+      "max_date": "2026-10",
+      "as_of": "2026-10",
+      "row_count": 974,
       "status": "LIVE_USD_DISCLAIMER",
       "disclaimer": "USD value, not tonnage (tonnage for the bulletin lines is in china_customs_bulletin)",
       "unit": "USD Millions ($M/mo)"
@@ -109172,7 +109188,8 @@
           "2026-06",
           "2026-07",
           "2026-08",
-          "2026-09"
+          "2026-09",
+          "2026-10"
         ],
         "values_usd_m": [
           19141.18,
@@ -109279,9 +109296,10 @@
           22305.77,
           22782.43,
           22723.61,
-          24608.9
+          24608.9,
+          34144.9
         ],
-        "latest_value_usd_m": 24608.9,
+        "latest_value_usd_m": 34144.9,
         "top_partners": [
           {
             "country": "Russia",
@@ -109873,7 +109891,8 @@
           "2026-06",
           "2026-07",
           "2026-08",
-          "2026-09"
+          "2026-09",
+          "2026-10"
         ],
         "values_usd_m": [
           7245.72,
@@ -109980,9 +109999,10 @@
           11637.98,
           10876.33,
           10363.54,
-          10444.1
+          10444.1,
+          9908.7
         ],
-        "latest_value_usd_m": 10444.1,
+        "latest_value_usd_m": 9908.7,
         "top_partners": [
           {
             "country": "Australia",
@@ -110341,7 +110361,8 @@
           "2026-06",
           "2026-07",
           "2026-08",
-          "2026-09"
+          "2026-09",
+          "2026-10"
         ],
         "values_usd_m": [
           3552.33,
@@ -110448,9 +110469,10 @@
           6337.28,
           5636.28,
           5848.29,
-          5915.0
+          5915.0,
+          3817.2
         ],
-        "latest_value_usd_m": 5915.0,
+        "latest_value_usd_m": 3817.2,
         "top_partners": [
           {
             "country": "Brazil",
@@ -110700,9 +110722,9 @@
       "source_url": "http://english.customs.gov.cn/Statistics/Statistics?ColumnId=1",
       "span": "2019\u20132026",
       "min_date": "2019-01",
-      "max_date": "2026-09",
-      "as_of": "2026-09",
-      "row_count": 5473,
+      "max_date": "2026-10",
+      "as_of": "2026-10",
+      "row_count": 5538,
       "status": "LIVE",
       "unit": "Mt and USD million per month"
     },
@@ -110797,6 +110819,7 @@
           "Iron ores and concentrates",
           "Iron ores and concentrates",
           "Iron ores and concentrates",
+          "Iron ores and concentrates",
           "Iron ores and concentrates"
         ],
         "dates": [
@@ -110884,7 +110907,8 @@
           "2026-06",
           "2026-07",
           "2026-08",
-          "2026-09"
+          "2026-09",
+          "2026-10"
         ],
         "quantity_mt": [
           91.264,
@@ -110971,7 +110995,8 @@
           112.689,
           108.085,
           108.539,
-          109.817
+          109.817,
+          105.658
         ],
         "value_usd_m": [
           6769.9,
@@ -111058,7 +111083,8 @@
           11645.8,
           10876.3,
           10363.5,
-          10444.1
+          10444.1,
+          9908.7
         ],
         "jan_feb_combined": [
           false,
@@ -111145,6 +111171,7 @@
           false,
           false,
           false,
+          false,
           false
         ]
       },
@@ -111154,6 +111181,7 @@
         "line_printed": "Coal and lignite",
         "qty_unit_printed": "10,000 Tons",
         "lines_printed": [
+          "Coal and lignite",
           "Coal and lignite",
           "Coal and lignite",
           "Coal and lignite",
@@ -111325,7 +111353,8 @@
           "2026-06",
           "2026-07",
           "2026-08",
-          "2026-09"
+          "2026-09",
+          "2026-10"
         ],
         "quantity_mt": [
           33.503,
@@ -111412,7 +111441,8 @@
           42.779,
           42.728,
           42.092,
-          43.369
+          43.369,
+          39.431
         ],
         "value_usd_m": [
           2797.8,
@@ -111499,7 +111529,8 @@
           3862.5,
           4354.5,
           4170.9,
-          4542.9
+          4542.9,
+          4767.1
         ],
         "jan_feb_combined": [
           false,
@@ -111569,6 +111600,7 @@
           false,
           false,
           true,
+          false,
           false,
           false,
           false,
@@ -111679,6 +111711,7 @@
           "Crude petroleum oils",
           "Crude petroleum oils",
           "Crude petroleum oils",
+          "Crude petroleum oils",
           "Crude petroleum oils"
         ],
         "dates": [
@@ -111766,7 +111799,8 @@
           "2026-06",
           "2026-07",
           "2026-08",
-          "2026-09"
+          "2026-09",
+          "2026-10"
         ],
         "quantity_mt": [
           42.597,
@@ -111853,7 +111887,8 @@
           29.272,
           35.726,
           37.928,
-          37.096
+          37.096,
+          41.938
         ],
         "value_usd_m": [
           18678.8,
@@ -111940,7 +111975,8 @@
           22406.1,
           22782.4,
           22723.6,
-          24608.9
+          24608.9,
+          34144.9
         ],
         "jan_feb_combined": [
           false,
@@ -112010,6 +112046,7 @@
           false,
           false,
           true,
+          false,
           false,
           false,
           false,
@@ -112120,6 +112157,7 @@
           "Soya beans",
           "Soya beans",
           "Soya beans",
+          "Soya beans",
           "Soya beans"
         ],
         "dates": [
@@ -112207,7 +112245,8 @@
           "2026-06",
           "2026-07",
           "2026-08",
-          "2026-09"
+          "2026-09",
+          "2026-10"
         ],
         "quantity_mt": [
           7.377,
@@ -112294,7 +112333,8 @@
           13.547,
           11.477,
           12.141,
-          11.88
+          11.88,
+          7.345
         ],
         "value_usd_m": [
           3316.4,
@@ -112381,7 +112421,8 @@
           6337.0,
           5499.9,
           5848.3,
-          5915.0
+          5915.0,
+          3817.2
         ],
         "jan_feb_combined": [
           false,
@@ -112451,6 +112492,7 @@
           false,
           false,
           true,
+          false,
           false,
           false,
           false,
@@ -112561,6 +112603,7 @@
           "Grain food",
           "Grain food",
           "Grain food",
+          "Grain food",
           "Grain food"
         ],
         "dates": [
@@ -112648,7 +112691,8 @@
           "2026-06",
           "2026-07",
           "2026-08",
-          "2026-09"
+          "2026-09",
+          "2026-10"
         ],
         "quantity_mt": [
           2.447,
@@ -112735,7 +112779,8 @@
           17.665,
           14.935,
           15.235,
-          15.481
+          15.481,
+          10.994
         ],
         "value_usd_m": [
           774.4,
@@ -112822,7 +112867,8 @@
           7670.4,
           6625.5,
           6864.4,
-          7079.6
+          7079.6,
+          4946.9
         ],
         "jan_feb_combined": [
           false,
@@ -112892,6 +112938,7 @@
           false,
           false,
           true,
+          false,
           false,
           false,
           false,
@@ -113002,6 +113049,7 @@
           "Copper ores and concentrates",
           "Copper ores and concentrates",
           "Copper ores and concentrates",
+          "Copper ores and concentrates",
           "Copper ores and concentrates"
         ],
         "dates": [
@@ -113089,7 +113137,8 @@
           "2026-06",
           "2026-07",
           "2026-08",
-          "2026-09"
+          "2026-09",
+          "2026-10"
         ],
         "quantity_mt": [
           1.895,
@@ -113176,7 +113225,8 @@
           2.335,
           2.379,
           2.508,
-          2.482
+          2.482,
+          2.167
         ],
         "value_usd_m": [
           2903.9,
@@ -113263,7 +113313,8 @@
           8522.4,
           8771.2,
           9359.0,
-          9282.3
+          9282.3,
+          8562.7
         ],
         "jan_feb_combined": [
           false,
@@ -113333,6 +113384,7 @@
           false,
           false,
           true,
+          false,
           false,
           false,
           false,
@@ -113443,6 +113495,7 @@
           "Natural gases",
           "Natural gases",
           "Natural gases",
+          "Natural gases",
           "Natural gases"
         ],
         "dates": [
@@ -113530,7 +113583,8 @@
           "2026-06",
           "2026-07",
           "2026-08",
-          "2026-09"
+          "2026-09",
+          "2026-10"
         ],
         "quantity_mt": [
           9.809,
@@ -113617,7 +113671,8 @@
           10.931,
           10.54,
           10.327,
-          10.863
+          10.863,
+          10.013
         ],
         "value_usd_m": [
           4864.6,
@@ -113704,7 +113759,8 @@
           5531.6,
           5699.6,
           5691.0,
-          6346.4
+          6346.4,
+          6238.0
         ],
         "jan_feb_combined": [
           false,
@@ -113774,6 +113830,7 @@
           false,
           false,
           true,
+          false,
           false,
           false,
           false,
@@ -113884,6 +113941,7 @@
           "Paper pulp",
           "Paper pulp",
           "Paper pulp",
+          "Paper pulp",
           "Paper pulp"
         ],
         "dates": [
@@ -113971,7 +114029,8 @@
           "2026-06",
           "2026-07",
           "2026-08",
-          "2026-09"
+          "2026-09",
+          "2026-10"
         ],
         "quantity_mt": [
           2.274,
@@ -114058,7 +114117,8 @@
           2.916,
           2.73,
           2.731,
-          2.927
+          2.927,
+          2.804
         ],
         "value_usd_m": [
           1673.7,
@@ -114145,7 +114205,8 @@
           1782.8,
           1643.1,
           1668.6,
-          1746.0
+          1746.0,
+          1678.4
         ],
         "jan_feb_combined": [
           false,
@@ -114215,6 +114276,7 @@
           false,
           false,
           true,
+          false,
           false,
           false,
           false,
@@ -114325,6 +114387,7 @@
           "Fertilizers",
           "Fertilizers",
           "Fertilizers",
+          "Fertilizers",
           "Fertilizers"
         ],
         "dates": [
@@ -114412,7 +114475,8 @@
           "2026-06",
           "2026-07",
           "2026-08",
-          "2026-09"
+          "2026-09",
+          "2026-10"
         ],
         "quantity_mt": [
           1.281,
@@ -114499,7 +114563,8 @@
           1.503,
           1.402,
           1.473,
-          1.506
+          1.506,
+          1.61
         ],
         "value_usd_m": [
           403.3,
@@ -114586,7 +114651,8 @@
           561.4,
           531.2,
           553.0,
-          576.0
+          576.0,
+          602.4
         ],
         "jan_feb_combined": [
           false,
@@ -114656,6 +114722,7 @@
           false,
           false,
           true,
+          false,
           false,
           false,
           false,
@@ -114766,6 +114833,7 @@
           "Products, of steel or iron",
           "Products, of steel or iron",
           "Products, of steel or iron",
+          "Products, of steel or iron",
           "Products, of steel or iron"
         ],
         "dates": [
@@ -114853,7 +114921,8 @@
           "2026-06",
           "2026-07",
           "2026-08",
-          "2026-09"
+          "2026-09",
+          "2026-10"
         ],
         "quantity_mt": [
           6.188,
@@ -114940,7 +115009,8 @@
           10.32,
           10.121,
           10.155,
-          10.492
+          10.492,
+          9.854
         ],
         "value_usd_m": [
           5085.7,
@@ -115027,7 +115097,8 @@
           7335.4,
           7243.3,
           7334.0,
-          7718.9
+          7718.9,
+          7151.8
         ],
         "jan_feb_combined": [
           false,
@@ -115097,6 +115168,7 @@
           false,
           false,
           true,
+          false,
           false,
           false,
           false,
@@ -115207,6 +115279,7 @@
           "Products, of steel or iron",
           "Products, of steel or iron",
           "Products, of steel or iron",
+          "Products, of steel or iron",
           "Products, of steel or iron"
         ],
         "dates": [
@@ -115294,7 +115367,8 @@
           "2026-06",
           "2026-07",
           "2026-08",
-          "2026-09"
+          "2026-09",
+          "2026-10"
         ],
         "quantity_mt": [
           1.179,
@@ -115381,7 +115455,8 @@
           0.441,
           0.445,
           0.434,
-          0.492
+          0.492,
+          0.395
         ],
         "value_usd_m": [
           1400.7,
@@ -115468,7 +115543,8 @@
           849.1,
           868.8,
           869.0,
-          930.8
+          930.8,
+          784.6
         ],
         "jan_feb_combined": [
           false,
@@ -115538,6 +115614,7 @@
           false,
           false,
           true,
+          false,
           false,
           false,
           false,
@@ -115648,6 +115725,7 @@
           "Refined petroleum products",
           "Refined petroleum products",
           "Refined petroleum products",
+          "Refined petroleum products",
           "Refined petroleum products"
         ],
         "dates": [
@@ -115735,7 +115813,8 @@
           "2026-06",
           "2026-07",
           "2026-08",
-          "2026-09"
+          "2026-09",
+          "2026-10"
         ],
         "quantity_mt": [
           5.42,
@@ -115822,7 +115901,8 @@
           4.361,
           4.653,
           6.01,
-          7.162
+          7.162,
+          5.18
         ],
         "value_usd_m": [
           3005.4,
@@ -115909,7 +115989,8 @@
           4453.8,
           4366.0,
           6496.6,
-          7546.2
+          7546.2,
+          5762.8
         ],
         "jan_feb_combined": [
           false,
@@ -115996,6 +116077,7 @@
           false,
           false,
           false,
+          false,
           false
         ]
       },
@@ -116017,6 +116099,7 @@
           "Mineral Fertilizers and Chemical Fertilizers",
           "Mineral Fertilizers and Chemical Fertilizers",
           "Mineral Fertilizers and Chemical Fertilizers",
+          "Fertilizers",
           "Fertilizers",
           "Fertilizers",
           "Fertilizers",
@@ -116176,7 +116259,8 @@
           "2026-06",
           "2026-07",
           "2026-08",
-          "2026-09"
+          "2026-09",
+          "2026-10"
         ],
         "quantity_mt": [
           2.182,
@@ -116263,7 +116347,8 @@
           2.232,
           1.868,
           2.857,
-          6.132
+          6.132,
+          3.741
         ],
         "value_usd_m": [
           612.4,
@@ -116350,7 +116435,8 @@
           613.7,
           505.9,
           717.6,
-          1685.6
+          1685.6,
+          935.4
         ],
         "jan_feb_combined": [
           false,
@@ -116420,6 +116506,7 @@
           false,
           false,
           true,
+          false,
           false,
           false,
           false,
@@ -116518,6 +116605,7 @@
           "Grain food",
           "Grain food",
           "Grain food",
+          "Grain food",
           "Grain food"
         ],
         "dates": [
@@ -116593,7 +116681,8 @@
           "2026-06",
           "2026-07",
           "2026-08",
-          "2026-09"
+          "2026-09",
+          "2026-10"
         ],
         "quantity_mt": [
           0.444,
@@ -116668,7 +116757,8 @@
           0.328,
           0.196,
           0.271,
-          0.297
+          0.297,
+          0.371
         ],
         "value_usd_m": [
           246.3,
@@ -116743,7 +116833,8 @@
           155.9,
           98.7,
           118.5,
-          140.1
+          140.1,
+          167.6
         ],
         "jan_feb_combined": [
           false,
@@ -116818,6 +116909,7 @@
           false,
           false,
           false,
+          false,
           false
         ]
       },
@@ -116849,6 +116941,7 @@
           "Unwrought Aluminum and Aluminum Products",
           "Unwrought Aluminum and Aluminum Products",
           "Unwrought Aluminum and Aluminum Products",
+          "Unwrought aluminium and aluminium products",
           "Unwrought aluminium and aluminium products",
           "Unwrought aluminium and aluminium products",
           "Unwrought aluminium and aluminium products",
@@ -116998,7 +117091,8 @@
           "2026-06",
           "2026-07",
           "2026-08",
-          "2026-09"
+          "2026-09",
+          "2026-10"
         ],
         "quantity_mt": [
           0.552,
@@ -117085,7 +117179,8 @@
           0.711,
           0.643,
           0.626,
-          0.656
+          0.656,
+          0.594
         ],
         "value_usd_m": [
           1457.2,
@@ -117172,7 +117267,8 @@
           2950.2,
           2659.5,
           2536.5,
-          2661.2
+          2661.2,
+          2437.8
         ],
         "jan_feb_combined": [
           false,
@@ -117259,6 +117355,7 @@
           false,
           false,
           false,
+          false,
           false
         ]
       }
@@ -117274,7 +117371,7 @@
       "min_date": "2018-01",
       "max_date": "2026-10",
       "as_of": "2026-10",
-      "row_count": 16227,
+      "row_count": 16252,
       "status": "LIVE",
       "unit": "Mt per month (exporter-side, FOB)"
     },
@@ -117906,7 +118003,8 @@
           "2026-06",
           "2026-07",
           "2026-08",
-          "2026-09"
+          "2026-09",
+          "2026-10"
         ],
         "total_mt": [
           30.44,
@@ -118013,7 +118111,8 @@
           42.045,
           37.59,
           37.07,
-          33.941
+          33.828,
+          36.537
         ],
         "china_mt": [
           18.169,
@@ -118120,7 +118219,8 @@
           31.924,
           25.454,
           27.676,
-          25.026
+          24.898,
+          24.973
         ],
         "china_share_pct": [
           59.7,
@@ -118227,91 +118327,92 @@
           75.9,
           67.7,
           74.7,
-          73.7
+          73.6,
+          68.3
         ],
-        "latest_month": "2026-09",
+        "latest_month": "2026-10",
         "top_latest": [
           {
             "country": "China",
-            "mt": 25.026,
-            "share_pct": 73.7
+            "mt": 24.973,
+            "share_pct": 68.3
           },
           {
             "country": "Malaysia",
-            "mt": 1.383,
-            "share_pct": 4.1
+            "mt": 2.148,
+            "share_pct": 5.9
+          },
+          {
+            "country": "Japan",
+            "mt": 1.529,
+            "share_pct": 4.2
           },
           {
             "country": "India",
-            "mt": 0.881,
-            "share_pct": 2.6
+            "mt": 1.247,
+            "share_pct": 3.4
+          },
+          {
+            "country": "Oman",
+            "mt": 0.975,
+            "share_pct": 2.7
+          },
+          {
+            "country": "Uruguay",
+            "mt": 0.811,
+            "share_pct": 2.2
           },
           {
             "country": "South Korea",
-            "mt": 0.747,
+            "mt": 0.811,
             "share_pct": 2.2
           },
           {
             "country": "Netherlands",
-            "mt": 0.595,
-            "share_pct": 1.8
-          },
-          {
-            "country": "Uruguay",
-            "mt": 0.547,
+            "mt": 0.572,
             "share_pct": 1.6
-          },
-          {
-            "country": "Egypt",
-            "mt": 0.534,
-            "share_pct": 1.6
-          },
-          {
-            "country": "Turkey",
-            "mt": 0.521,
-            "share_pct": 1.5
           }
         ],
         "top_12m": [
           {
             "country": "China",
-            "mt": 294.905,
-            "share_pct": 71.5
+            "mt": 291.228,
+            "share_pct": 71.3
           },
           {
             "country": "Malaysia",
-            "mt": 16.112,
-            "share_pct": 3.9
+            "mt": 16.701,
+            "share_pct": 4.1
           },
           {
             "country": "Japan",
-            "mt": 12.959,
-            "share_pct": 3.1
+            "mt": 13.234,
+            "share_pct": 3.2
           },
           {
             "country": "India",
-            "mt": 8.916,
+            "mt": 9.109,
             "share_pct": 2.2
           },
           {
             "country": "South Korea",
-            "mt": 8.913,
-            "share_pct": 2.2
+            "mt": 8.067,
+            "share_pct": 2.0
           },
           {
             "country": "Oman",
-            "mt": 7.655,
+            "mt": 7.794,
             "share_pct": 1.9
           },
           {
             "country": "Netherlands",
-            "mt": 7.386,
-            "share_pct": 1.8
+            "mt": 7.061,
+            "share_pct": 1.7
           },
           {
             "country": "Egypt",
-            "mt": 6.217,
-            "share_pct": 1.5
+            "mt": 6.388,
+            "share_pct": 1.6
           }
         ]
       },
@@ -131534,7 +131635,7 @@
       "min_date": "2013-01-01",
       "max_date": "2026-09-01",
       "as_of": "2026-09",
-      "row_count": 673,
+      "row_count": 674,
       "status": "LIVE",
       "unit": "Million Tonnes (Mt/mo)"
     },
@@ -132311,7 +132412,7 @@
               0.65,
               0.76,
               0.52,
-              null,
+              0.45,
               null,
               null,
               null
@@ -132375,9 +132476,10 @@
           "2026-05": 0.4883,
           "2026-06": 0.6503,
           "2026-07": 0.7589,
-          "2026-08": 0.523
+          "2026-08": 0.524,
+          "2026-09": 0.449
         },
-        "latest_mt": 0.523
+        "latest_mt": 0.449
       },
       "Nickel Ore": {
         "vessel_class": "Supramax",
