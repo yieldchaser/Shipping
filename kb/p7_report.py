@@ -130,9 +130,44 @@ def _metric(v) -> float | None:
     return M.unit_score(v)
 
 
+def _count(v) -> float | None:
+    """An artefact count that a gate *compares*, as a true finite number — or None.
+
+    Defect 27: `items`, `graded`, `dates`, `n`, `hits`, `hops`, `survivors` and `written` are read out
+    of on-disk artefact JSON and then compared (`>= MIN_BACKTEST`, `>= MIN_QUESTIONS`, `> 0`, `>= 3`,
+    `==`). Passed through raw, an artefact holding `true` read as 1 and one holding an overflow
+    to `inf` read as a huge number, so `inf >= 20` / `inf >= 30` / `True > 0` all PASSED a §13 gate
+    the artefact cannot support; a string count (`"20"`) raised `TypeError` straight out of `main()`
+    instead of producing a FAIL packet. `inf` in a `sum()` also fabricated a `hit_rate`. This is the
+    Defect-24 shape one field over — a gate-operand read of an untrusted artefact — so it goes through
+    the single-sourced numeric guard: unreadable ⇒ None ⇒ the gate FAILS as unmeasured.
+    Integral results stay `int` so this module's renders and comparisons are unchanged in vocabulary.
+    """
+    f = M.as_float(v)
+    if f is None:
+        return None
+    # A *count* is a whole number of things. `20.5 dates` cannot come from any producer (`len(rows)`),
+    # so it is a broken artefact; letting it through would satisfy `>= MIN_BACKTEST` (20) on a count the
+    # producer can never emit. This is a type rule layered on the shared finite guard, not a rival copy
+    # of it: `M.as_float` has already rejected bool/NaN/inf, and `_count` still reaches it (R3-pinned).
+    if not f.is_integer():
+        return None
+    return int(f)
+
+
 def _mean(values: list[float]) -> float | None:
     vals = [f for f in (M.as_float(v) for v in values) if f is not None]
     return round(sum(vals) / len(vals), 4) if vals else None
+
+
+def _r(v) -> str:
+    """Render a possibly-unmeasured artefact read; UNMEASURED must never print as `None`/raw `True`.
+
+    Defect 27 twin: `hit_rate` is reported rather than gated, and the discovery questions are printed
+    straight from the artefact, so both still reach this output file. A broken read is unmeasured and
+    says so — it must not render `inf`, `True`, `"0.5"` or a bare `None` into the C2 packet.
+    """
+    return "n/a" if v is None else str(v)
 
 
 def check_eval(ev: dict) -> dict:
@@ -143,37 +178,56 @@ def check_eval(ev: dict) -> dict:
         score = _metric(v)
         gates[k] = {"value": v, "target": target,
                     "ok": (score is not None and score >= target)}
-    count = (ev or {}).get("counts", {}).get("items", 0)
+    # Defect 27: `items` is the §12 gate operand (`count > 0`), read out of an on-disk artefact.
+    count = _count((ev or {}).get("counts", {}).get("items", 0))
     return {"present": bool(ev), "counts": (ev or {}).get("counts", {}), "items": count,
             "metrics": m, "gates": gates,
-            "ok": bool(ev) and count > 0 and all(g["ok"] for g in gates.values())}
+            "ok": bool(ev) and count is not None and count > 0
+            and all(g["ok"] for g in gates.values())}
 
 
 def check_rubric(rb: dict) -> dict:
     c = (rb or {}).get("counts", {})
-    graded = c.get("graded", 0) or 0
+    # Absent `graded` keeps the artefact's documented zero-count convention; a *present* but unreadable
+    # one is a broken read (Defect 23 distinction), and `_count` then returns None so the §13 arm FAILS.
+    graded = _count(c["graded"]) if "graded" in c else 0
     score = (rb or {}).get("mean_score")
     mean = _metric(score)
-    ok = bool(rb) and mean is not None and mean >= RUBRIC_TARGET and graded >= MIN_QUESTIONS
+    ok = bool(rb) and mean is not None and mean >= RUBRIC_TARGET \
+        and graded is not None and graded >= MIN_QUESTIONS
     return {"present": bool(rb), "mean_score": score, "graded": graded,
             "target": RUBRIC_TARGET, "ok": ok,
             "field_means": (rb or {}).get("field_means", {})}
+
+
+def _seg_count(rows: list, key: str):
+    """One segment's guarded count; a segment that is not a row dict reads as unmeasured."""
+    return [_count(r.get(key, 0)) if isinstance(r, dict) else None for r in rows]
+
+
+def _agg(vals: list, how: str = "sum"):
+    """Aggregate guarded segment counts: any unreadable member makes the whole aggregate unmeasured."""
+    if any(v is None for v in vals):
+        return None
+    return (max(vals) if how == "max" else sum(vals)) if vals else 0
 
 
 def check_backtest(bt: dict) -> dict:
     if not bt:
         return {"present": False, "dates": 0, "hit_rate": None, "ok": False}
     if "segments" in bt:  # multi-segment aggregate
-        rows = bt["segments"]
-        dates = max((r.get("dates", 0) for r in rows), default=0)
-        n = sum(r.get("n", 0) for r in rows)
-        hits = sum(r.get("hits", 0) for r in rows)
-        rate = round(hits / n, 4) if n else None
+        rows = bt["segments"] if isinstance(bt["segments"], list) else []
+        dates = _agg(_seg_count(rows, "dates"), "max")
+        n = _agg(_seg_count(rows, "n"))
+        hits = _agg(_seg_count(rows, "hits"))
+        # The rate is computed from guarded counts and is itself a gate operand (`rate is not None`),
+        # so an incoherent pair (hits > n) is a broken read rather than a rendered `1.5`.
+        rate = _metric(round(hits / n, 4)) if (n and hits is not None) else None
     else:
-        dates = bt.get("dates", 0)
-        rate = bt.get("hit_rate")
-        n = bt.get("n", 0)
-    ok = dates >= MIN_BACKTEST and rate is not None
+        dates = _count(bt.get("dates", 0))
+        rate = _metric(bt.get("hit_rate"))
+        n = _count(bt.get("n", 0))
+    ok = dates is not None and dates >= MIN_BACKTEST and rate is not None
     return {"present": True, "dates": dates, "n": n, "hit_rate": rate,
             "target_dates": MIN_BACKTEST, "ok": ok}
 
@@ -186,14 +240,19 @@ def check_discovery(dc: dict) -> dict:
     c = dc.get("counts", {})
     fnd = dc.get("findings") or []
     qs = dc.get("questions") or []
-    hops_ok = all((q.get("hops") or 0) >= 3 for q in qs) if qs else False
+    hops = [_count(q["hops"]) if isinstance(q, dict) and "hops" in q else 0 for q in qs]
+    hops_ok = bool(hops) and all(h is not None and h >= 3 for h in hops)
     with_ev = all(bool(q.get("evidence")) for q in fnd) if fnd else False
+    # The `-1` default preserves the artefact's existing sentinel semantics for a missing `survivors`
+    # key: the equality arm must FAIL then, not read as `0 == 0` and pass on an absent count.
+    survivors = _count(c.get("survivors", -1))
+    written = _count(c.get("written", 0))
     ok = len(fnd) >= MIN_FINDINGS \
         and len(qs) >= MIN_DISCOVERY_Q and hops_ok \
-        and c.get("survivors", 0) >= len(fnd) and c.get("written", 0) == c.get("survivors", -1) \
-        and with_ev
+        and survivors is not None and survivors >= len(fnd) \
+        and written is not None and written == survivors and with_ev
     return {"present": True, "findings": len(fnd), "questions": len(qs),
-            "survivors": c.get("survivors", 0), "written": c.get("written", 0),
+            "survivors": _count(c.get("survivors", 0)), "written": _count(c.get("written", 0)),
             "hops_ok": hops_ok, "findings_have_evidence": with_ev, "ok": bool(ok)}
 
 
@@ -250,12 +309,12 @@ def _md(report: dict) -> str:
               f"- analyst rubric: mean {c['rubric']['mean_score']} over "
               f"{c['rubric']['graded']} graded (target >= {RUBRIC_TARGET}) — "
               f"{'PASS' if c['rubric']['ok'] else 'FAIL'}",
-              f"- backtest: {c['backtest']['dates']} dates, hit rate "
-              f"{c['backtest']['hit_rate']} (>= {MIN_BACKTEST} dates) — "
+              f"- backtest: {_r(c['backtest']['dates'])} dates, hit rate "
+              f"{_r(c['backtest']['hit_rate'])} (>= {MIN_BACKTEST} dates) — "
               f"{'PASS' if c['backtest']['ok'] else 'FAIL'}",
-              f"- discovery: {c['discovery']['findings']} findings · "
-              f"{c['discovery']['questions']} questions (>= 3 hops: "
-              f"{c['discovery']['hops_ok']}) · {c['discovery']['written']} "
+              f"- discovery: {_r(c['discovery']['findings'])} findings · "
+              f"{_r(c['discovery']['questions'])} questions (>= 3 hops: "
+              f"{c['discovery']['hops_ok']}) · {_r(c['discovery']['written'])} "
               f"`discovered_link` rows — {'PASS' if c['discovery']['ok'] else 'FAIL'}",
               "", "## Deviations", "",
               "- D16: exact-match scoring compares gold numbers (with tolerance) against numbers "
@@ -287,16 +346,16 @@ def _c2_md(report: dict, dc: dict | None, rb: dict | None, bt: dict | None,
     ]
     for k, g in c["eval"]["gates"].items():
         lines.append(f"- {k}: {g['value']} (target {g['target']}) — {'PASS' if g['ok'] else 'FAIL'}")
-    lines += ["", f"Items in the gold set: {report['counts']['eval_items']}.", "",
+    lines += ["", f"Items in the gold set: {_r(report['counts']['eval_items'])}.", "",
               "## 2. Gold-set additions", "",
-              f"- Analyst-mode rubric: {c['rubric']['graded']} questions graded, mean "
-              f"{c['rubric']['mean_score']} (target {RUBRIC_TARGET}), judge "
+              f"- Analyst-mode rubric: {_r(c['rubric']['graded'])} questions graded, mean "
+              f"{_r(c['rubric']['mean_score'])} (target {RUBRIC_TARGET}), judge "
               f"`{(rb or {}).get('judge_model')}`.",
-              f"- Backtest: {c['backtest']['dates']} historical dates, directional hit rate "
-              f"{c['backtest']['hit_rate']} (reported, not a gate).",
-              f"- Discovery: {c['discovery']['findings']} findings, "
-              f"{c['discovery']['questions']} cross-domain questions needing >= 3 hops, "
-              f"{c['discovery']['written']} rows in `discovered_link` labelled `computed`.",
+              f"- Backtest: {_r(c['backtest']['dates'])} historical dates, directional hit rate "
+              f"{_r(c['backtest']['hit_rate'])} (reported, not a gate).",
+              f"- Discovery: {_r(c['discovery']['findings'])} findings, "
+              f"{_r(c['discovery']['questions'])} cross-domain questions needing >= 3 hops, "
+              f"{_r(c['discovery']['written'])} rows in `discovered_link` labelled `computed`.",
               "", "## 3. Top 30 discovered findings (computed, with evidence)", ""]
     fnd = (dc or {}).get("findings") or []
     for i, f in enumerate(fnd[:MIN_FINDINGS], 1):
@@ -305,7 +364,8 @@ def _c2_md(report: dict, dc: dict | None, rb: dict | None, bt: dict | None,
                      f"{f.get('window_to')} · evidence {', '.join(str(e) for e in (f.get('evidence') or [])[:6])}")
     lines += ["", "## 4. Discovery questions (>= 3 hops)", ""]
     for q in ((dc or {}).get("questions") or [])[:MIN_DISCOVERY_Q]:
-        lines.append(f"- {q['id']} ({q['kind']}, hops {q['hops']}): {q['question']}")
+        lines.append(f"- {q['id']} ({q['kind']}, hops {_r(_count(q.get('hops')))})"
+                     f": {q['question']}")
     if not (dc or {}).get("questions"):
         lines.append("- none produced")
     lines += ["", "## 5. Recommendation", "",

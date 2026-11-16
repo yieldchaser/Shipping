@@ -389,6 +389,111 @@ def test_a_bool_or_nonfinite_metric_can_never_pass_a_gate():
     assert "inf (target 0.85) — FAIL" in c2
 
 
+def test_gate_operand_counts_reject_unreadable_artefact_values():
+    """Defect 27: the §12/§13 *count* operands were read out of on-disk artefact JSON raw.
+
+    `items`, `graded`, `dates`, `n`, `hits`, `hops`, `survivors` and `written` are compared
+    (`count > 0`, `graded >= 30`, `dates >= 20`, `hops >= 3`, `written == survivors`). Raw, an
+    artefact holding `true` read as 1 and one holding an overflow-to-`inf` read as a huge number, so
+    `inf >= 20`, `inf >= 30`, `inf > 0` and `True > 0` all PASSED a gate the artefact cannot support;
+    a string count (`"20"`) raised `TypeError` straight out of `main()` instead of producing a FAIL
+    packet, and `inf` in a `sum()` fabricated a `hit_rate`. The read must go through the single
+    numeric guard, so unreadable ⇒ None ⇒ the arm FAILS as unmeasured.
+    """
+    # Non-vacuity: a real count still reads as itself, and each arm still passes on good data.
+    assert P._count(250) == 250
+    assert P._count(30.0) == 30
+    assert P.check_eval(good_eval())["items"] == 250
+    assert P.check_rubric(good_rubric())["graded"] == 30
+    assert P.check_backtest(good_backtest())["ok"] is True
+    assert P.check_discovery(good_discovery())["ok"] is True
+    # The boundary arms still pass: exactly the minimum is a pass, one under is a fail.
+    assert P.check_rubric({"mean_score": 0.86, "counts": {"graded": 30}})["ok"] is True
+    assert P.check_rubric({"mean_score": 0.86, "counts": {"graded": 29}})["ok"] is False
+    assert P.check_backtest({"dates": 20, "hit_rate": 0.5, "n": 5})["ok"] is True
+    assert P.check_backtest({"dates": 19, "hit_rate": 0.5, "n": 5})["ok"] is False
+
+    # Broken reads: bool, non-finite, non-numeric, a container, and off a count's own value domain.
+    bad = (True, False, float("inf"), float("-inf"), float("nan"), "20", [20], 1.5, -0.1)
+    for b in bad:
+        assert P._count(b) is None, b
+    assert P._count(None) is None
+
+    # Each gate operand, one arm per broken value — asserted separately so a bool arm cannot mask a
+    # later non-finite one.
+    for b in bad:
+        c = P.check_eval({"metrics": good_eval()["metrics"], "counts": {"items": b}})
+        assert c["ok"] is False, ("eval items", b)
+        assert c["items"] is None, ("eval items", b)
+    for b in bad:
+        c = P.check_rubric({"mean_score": 0.86, "counts": {"graded": b}})
+        assert c["ok"] is False, ("rubric graded", b)
+        assert c["graded"] is None, ("rubric graded", b)
+    for b in bad:
+        c = P.check_backtest({"dates": b, "hit_rate": 0.5, "n": 5})
+        assert c["ok"] is False, ("backtest dates", b)
+        assert c["dates"] is None, ("backtest dates", b)
+
+    # The multi-segment aggregate: `inf` used to win `max()` on dates, and `inf`/`True` in `sum()`
+    # fabricated `hit_rate` (`nan`/`1.0`) out of the counts.
+    for b in bad:
+        c = P.check_backtest({"segments": [{"dates": b, "n": 1, "hits": 1}]})
+        assert c["dates"] is None and c["ok"] is False, ("multi dates", b)
+        c = P.check_backtest({"segments": [{"dates": 20, "n": b, "hits": 1}]})
+        assert c["hit_rate"] is None and c["ok"] is False, ("multi n", b)
+        c = P.check_backtest({"segments": [{"dates": 20, "n": 10, "hits": b}]})
+        assert c["hit_rate"] is None and c["ok"] is False, ("multi hits", b)
+    # A segment that is not a row dict is a broken read too, not an AttributeError.
+    assert P.check_backtest({"segments": [None, "capesize"]})["dates"] is None
+
+    # The reported-not-gated rate must still not render a raw `inf`/`True`/`"0.5"`/`1.5`.
+    for b in bad:
+        assert P.check_backtest({"dates": 20, "hit_rate": b, "n": 5})["hit_rate"] is None, b
+    assert P.check_backtest({"dates": 20, "hit_rate": 0.5, "n": 5})["hit_rate"] == 0.5
+
+    # Discovery: `hops` used to be read with `or 0` (so an unreadable hop count read as 0 and passed
+    # nothing) and `written == survivors` compared raw counts.
+    for b in bad:
+        dc = good_discovery()
+        dc["questions"][0]["hops"] = b
+        c = P.check_discovery(dc)
+        assert c["hops_ok"] is False and c["ok"] is False, ("hops", b)
+    for key in ("survivors", "written"):
+        for b in bad:
+            dc = good_discovery()
+            dc["counts"][key] = b
+            assert P.check_discovery(dc)["ok"] is False, (key, b)
+            assert P.check_discovery(dc)[key] is None, (key, b)
+    # Non-vacuity on the equality arm: `written == survivors` still passes on coherent counts.
+    assert P.check_discovery(good_discovery())["ok"] is True
+
+    # End to end: one broken count no longer passes the §13 gate or reaches the approval packet.
+    rep = P.build(good_eval(), {"mean_score": 0.86, "counts": {"graded": float("inf")}},
+                  good_backtest(), good_discovery(), 1.0, 1.0)
+    assert rep["pass"] is False and rep["gate"]["p7"] is False
+    c2 = P._c2_md(rep, good_discovery(), good_rubric(), good_backtest(), good_eval())
+    assert "Do not publish yet." in c2 and "Recommend publishing" not in c2
+    assert rep["checks"]["rubric"]["graded"] is None
+    # A raw `inf` count must never render, and no string count may crash a report render.
+    rep2 = P.build(good_eval(), good_rubric(), good_backtest(), good_discovery(), 1.0)
+    assert rep2["pass"] is True  # non-vacuity: the good report still passes
+
+    # Render side: the reported-not-gated rate and the per-question hop counts go straight into the
+    # markdown, so an unmeasured read must print as `n/a` — never `inf`/`True`/`None`.
+    assert P._r(None) == "n/a"
+    assert P._r(0.5) == "0.5" and P._r(20) == "20"
+    dq = good_discovery()
+    dq["questions"][0]["hops"] = float("inf")
+    dq["counts"]["written"] = float("inf")
+    c2 = P._c2_md(rep, dq, good_rubric(), {"dates": 20, "hit_rate": float("inf"), "n": 5},
+                  good_eval())
+    md = P._md(P.build(good_eval(), good_rubric(), {"dates": 20, "hit_rate": float("inf"), "n": 5},
+                       dq, 1.0))
+    for text in (c2, md):
+        assert "inf" not in text and "True" not in text and "None" not in text
+        assert "n/a" in text
+
+
 def test_mean_never_lets_a_broken_value_poison_the_average():
     """`inf` in `sum()` yields `inf`, not a crash — so one unreadable member silently became the mean.
 
