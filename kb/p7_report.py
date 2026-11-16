@@ -64,10 +64,15 @@ def spend_usd() -> float | None:
             con.close()
         if not row or not row[0]:
             return None  # nothing booked at all: unmeasured, not a measured $0.0000
+        # Defect 34, same read: a `sum(cost_usd)` that is NaN/+-inf is an unreadable ledger, not a
+        # spend, and `round_usd(inf)` returned `inf` so `fmt_usd` rendered `$inf` into the C2 packet.
+        total = M.as_float(row[1])
+        if total is None:
+            return None
         # 6 dp, not 4: `round(x, 4)` turned the real P6 phase spend (`$0.000013`) into `0.0`, so the
         # later `M.round_usd(spend)` in `build()` could not recover what this line had already
         # destroyed (Defect-17 class, Lesson 67 - a fixed-precision read is a lossy read).
-        return M.round_usd(row[1])
+        return M.round_usd(total)
     except (sqlite3.Error, OSError, ValueError):
         return None
 
@@ -166,22 +171,63 @@ def _r(v) -> str:
     Defect 27 twin: `hit_rate` is reported rather than gated, and the discovery questions are printed
     straight from the artefact, so both still reach this output file. A broken read is unmeasured and
     says so — it must not render `inf`, `True`, `"0.5"` or a bare `None` into the C2 packet.
+
+    Defect 34: guarding only `None` was not enough. Every *non-`None* broken read still rendered
+    itself — an overflow-to-`inf` metric printed `inf`, a YAML/JSON `true` printed `True`, a quoted
+    `"0.5"` printed `0.5` — straight into `p7.md` and the owner's approval packet. The render is a
+    numeric read of an untrusted artefact, so it goes through the single-sourced finite guard:
+    unreadable reads as `n/a`, and a real read still renders itself.
     """
-    return "n/a" if v is None else str(v)
+    return "n/a" if M.as_float(v) is None else str(v)
+
+
+def _text(v) -> str:
+    """Render a genuinely-textual artefact field the way `_r` renders a numeric one.
+
+    The findings' `window_from`/`window_to` are ISO dates (`p7_discovery` writes `str(min(common))`),
+    not the `..`-joined month pair an offline reader would assume, so `_count` would reject the honest
+    `"2020-01-01"` and `_r` would reject it too. A string still gets the Defect-34 treatment: an
+    unreadable sentinel (`None`, `""`, `"nan"`, `"inf"`) reads as `n/a`, never as itself.
+    """
+    if not isinstance(v, str):
+        return _r(v)
+    return "n/a" if v.strip().lower() in ("", "none", "nan", "inf", "-inf", "infinity") else v
+
+
+def _json_safe(obj):
+    """A report tree safe to `json.dumps`: a non-finite float is unmeasured (`null`), never `Infinity`.
+
+    Defect 34: `json.dumps` writes the non-standard tokens `Infinity`/`NaN` by default, so a broken
+    artefact metric reachable from the report made `kb/reports/p7.json` *not JSON* — every downstream
+    reader (and any strict parser) fails on the artefact the C2 packet is built from. The guard is the
+    same shared one, so an unreadable number serialises as `null` (unmeasured), never a fake number.
+    """
+    if isinstance(obj, dict):
+        return {str(k): _json_safe(v) for k, v in obj.items()}
+    if isinstance(obj, (list, tuple)):
+        return [_json_safe(v) for v in obj]
+    if isinstance(obj, float) and M.as_float(obj) is None:
+        return None
+    return obj
 
 
 def check_eval(ev: dict) -> dict:
     m = (ev or {}).get("metrics") or {}
     gates = {}
+    scores = {}
     for k, target in TARGETS.items():
         v = m.get(k)
         score = _metric(v)
-        gates[k] = {"value": v, "target": target,
+        # Defect 34: the row stored the *raw* artefact read, so the render sites downstream (`p7.md`,
+        # `C2_EVAL.md`, `p7.json`) reprinted an unreadable `inf`/`true`/`"0.5"` verbatim. The row now
+        # carries the guarded read — a real metric renders itself, a broken one is None ⇒ `n/a`.
+        gates[k] = {"value": score, "target": target,
                     "ok": (score is not None and score >= target)}
+        scores[k] = score
     # Defect 27: `items` is the §12 gate operand (`count > 0`), read out of an on-disk artefact.
     count = _count((ev or {}).get("counts", {}).get("items", 0))
     return {"present": bool(ev), "counts": (ev or {}).get("counts", {}), "items": count,
-            "metrics": m, "gates": gates,
+            "metrics": scores, "gates": gates,
             "ok": bool(ev) and count is not None and count > 0
             and all(g["ok"] for g in gates.values())}
 
@@ -195,7 +241,9 @@ def check_rubric(rb: dict) -> dict:
     mean = _metric(score)
     ok = bool(rb) and mean is not None and mean >= RUBRIC_TARGET \
         and graded is not None and graded >= MIN_QUESTIONS
-    return {"present": bool(rb), "mean_score": score, "graded": graded,
+    # Defect 34: store the guarded read (see `check_eval`), not the raw artefact value the packet used
+    # to reprint. `field_means` is rendered nowhere, but it is still sanitised on the JSON write path.
+    return {"present": bool(rb), "mean_score": mean, "graded": graded,
             "target": RUBRIC_TARGET, "ok": ok,
             "field_means": (rb or {}).get("field_means", {})}
 
@@ -264,10 +312,15 @@ def build(ev: dict | None, rb: dict | None, bt: dict | None, dc: dict | None,
     dc_c = check_discovery(dc or {})
     checks = {"eval": eval_c, "rubric": rubric_c, "backtest": bt_c, "discovery": dc_c}
     ok = all(c["ok"] for c in checks.values())
+    # Defect 34, the same read one field over: `wall` is summed from artefact `wall_seconds` and
+    # `spend` is a return value, so an overflow-to-`inf` either way rendered `wall inf s` and
+    # `money_spent_usd: Infinity` into the report the C2 packet quotes. Unreadable ⇒ unmeasured.
+    wall_f = M.as_float(wall)
+    spend_f = M.as_float(spend)
     report = {
         "phase": PHASE, "built_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
-        "wall_seconds": wall if wall is not None else 0.0,
-        "money_spent_usd": M.round_usd(spend),  # 6 dp: 4 dp turned a real $0.000013 into 0.0
+        "wall_seconds": wall_f if wall_f is not None else 0.0,
+        "money_spent_usd": M.round_usd(spend_f) if spend_f is not None else None,  # 6 dp: see spend_usd
         "pipeline_cap_usd": pipeline_cap(),
         "targets": TARGETS, "rubric_target": RUBRIC_TARGET,
         "checks": checks,
@@ -294,8 +347,8 @@ def _md(report: dict) -> str:
         "# P7 — tools, answer contract, CLI, Q&A eval",
         "",
         f"- result: **{'PASS' if report['pass'] else 'FAIL'}** · spend {spend_text(report)}"
-        f" · wall {report['wall_seconds']} s",
-        f"- eval items: {report['counts']['eval_items']} · writer `{report['model']}` · "
+        f" · wall {_r(report['wall_seconds'])} s",
+        f"- eval items: {_r(report['counts']['eval_items'])} · writer `{report['model']}` · "
         f"judge `{report['judge_model']}`",
         "",
         "## §12 Q&A eval",
@@ -304,17 +357,17 @@ def _md(report: dict) -> str:
         "|---|---|---|---|",
     ]
     for k, g in c["eval"]["gates"].items():
-        lines.append(f"| {k} | {g['value']} | {g['target']} | {'yes' if g['ok'] else 'NO'} |")
+        lines.append(f"| {k} | {_r(g['value'])} | {g['target']} | {'yes' if g['ok'] else 'NO'} |")
     lines += ["", "## Gold-set additions", "",
-              f"- analyst rubric: mean {c['rubric']['mean_score']} over "
-              f"{c['rubric']['graded']} graded (target >= {RUBRIC_TARGET}) — "
+              f"- analyst rubric: mean {_r(c['rubric']['mean_score'])} over "
+              f"{_r(c['rubric']['graded'])} graded (target >= {RUBRIC_TARGET}) — "
               f"{'PASS' if c['rubric']['ok'] else 'FAIL'}",
               f"- backtest: {_r(c['backtest']['dates'])} dates, hit rate "
               f"{_r(c['backtest']['hit_rate'])} (>= {MIN_BACKTEST} dates) — "
               f"{'PASS' if c['backtest']['ok'] else 'FAIL'}",
               f"- discovery: {_r(c['discovery']['findings'])} findings · "
               f"{_r(c['discovery']['questions'])} questions (>= 3 hops: "
-              f"{c['discovery']['hops_ok']}) · {_r(c['discovery']['written'])} "
+              f"{'yes' if c['discovery']['hops_ok'] else 'NO'}) · {_r(c['discovery']['written'])} "
               f"`discovered_link` rows — {'PASS' if c['discovery']['ok'] else 'FAIL'}",
               "", "## Deviations", "",
               "- D16: exact-match scoring compares gold numbers (with tolerance) against numbers "
@@ -345,7 +398,7 @@ def _c2_md(report: dict, dc: dict | None, rb: dict | None, bt: dict | None,
         "",
     ]
     for k, g in c["eval"]["gates"].items():
-        lines.append(f"- {k}: {g['value']} (target {g['target']}) — {'PASS' if g['ok'] else 'FAIL'}")
+        lines.append(f"- {k}: {_r(g['value'])} (target {g['target']}) — {'PASS' if g['ok'] else 'FAIL'}")
     lines += ["", f"Items in the gold set: {_r(report['counts']['eval_items'])}.", "",
               "## 2. Gold-set additions", "",
               f"- Analyst-mode rubric: {_r(c['rubric']['graded'])} questions graded, mean "
@@ -359,9 +412,14 @@ def _c2_md(report: dict, dc: dict | None, rb: dict | None, bt: dict | None,
               "", "## 3. Top 30 discovered findings (computed, with evidence)", ""]
     fnd = (dc or {}).get("findings") or []
     for i, f in enumerate(fnd[:MIN_FINDINGS], 1):
-        lines.append(f"{i}. **{f['kind']}** {f['a']} -> {f['b']} · stat {f.get('stat')} · "
-                     f"q {f.get('q')} · n {f.get('n')} · window {f.get('window_from')}.."
-                     f"{f.get('window_to')} · evidence {', '.join(str(e) for e in (f.get('evidence') or [])[:6])}")
+        # Defect 34: `stat`, `q` and `n` are printed straight from the artefact. A Pearson `stat` or
+        # BH-FDR `q` that overflowed to `inf` used to print `inf` into the owner packet. `stat`/`q` are
+        # real fractions (a `_count` would wrongly reject the honest `0.4`), so they go through the
+        # finite read; `n`/window bounds are counts and take the count rule. All render via `_r`.
+        lines.append(f"{i}. **{f['kind']}** {f['a']} -> {f['b']} · stat {_r(f.get('stat'))} · "
+                     f"q {_r(f.get('q'))} · n {_r(_count(f.get('n')))} · window "
+                     f"{_text(f.get('window_from'))}..{_text(f.get('window_to'))} · "
+                     f"evidence {', '.join(str(e) for e in (f.get('evidence') or [])[:6])}")
     lines += ["", "## 4. Discovery questions (>= 3 hops)", ""]
     for q in ((dc or {}).get("questions") or [])[:MIN_DISCOVERY_Q]:
         lines.append(f"- {q['id']} ({q['kind']}, hops {_r(_count(q.get('hops')))})"
@@ -394,14 +452,20 @@ def main(argv: list[str] | None = None) -> int:
     dc = load_json(Path(a.discovery), None)
     wall = 0.0
     for d in (ev, rb, bt, dc):
-        if isinstance(d, dict):
-            wall += float(d.get("wall_seconds") or 0.0)
+        # Defect 34: `float(d.get("wall_seconds") or 0.0)` raised `ValueError` straight out of `main()`
+        # on a string artefact field and read `inf` as a real wall time. Either way it is a broken read.
+        w = M.as_float((d or {}).get("wall_seconds")) if isinstance(d, dict) else None
+        if w is not None:
+            wall += w
     report = build(ev, rb, bt, dc, spend_usd(), wall)
-    print(json.dumps(report, indent=1, default=str))
+    # `_json_safe` before `dumps`: a non-finite artefact metric must not become the non-standard
+    # `Infinity` token in `kb/reports/p7.json` (Defect 34 - the file must stay parseable JSON).
+    dump = json.dumps(_json_safe(report), indent=1, default=str)
+    print(dump)
     if a.write:
         out = Path(a.out)
         out.parent.mkdir(parents=True, exist_ok=True)
-        out.write_text(json.dumps(report, indent=1, default=str), encoding="utf-8")
+        out.write_text(dump, encoding="utf-8")
         Path(a.md).write_text(_md(report), encoding="utf-8")
         Path(a.c2).write_text(_c2_md(report, dc, rb, bt, ev), encoding="utf-8")
         print(f"wrote {out.name}, {Path(a.md).name}, {Path(a.c2).name}")

@@ -386,7 +386,9 @@ def test_a_bool_or_nonfinite_metric_can_never_pass_a_gate():
     assert rep["pass"] is False and rep["gate"]["p7"] is False
     c2 = P._c2_md(rep, good_discovery(), good_rubric(), good_backtest(), ev)
     assert "Do not publish yet." in c2 and "Recommend publishing" not in c2
-    assert "inf (target 0.85) — FAIL" in c2
+    # Defect 34 changed this render from the raw `inf` to the unmeasured `n/a` (the guarded read now
+    # reaches the packet); the arm is still visibly FAIL and still does not authorise the release.
+    assert "n/a (target 0.85) — FAIL" in c2 and "inf (target 0.85)" not in c2
 
 
 def test_gate_operand_counts_reject_unreadable_artefact_values():
@@ -490,7 +492,7 @@ def test_gate_operand_counts_reject_unreadable_artefact_values():
     md = P._md(P.build(good_eval(), good_rubric(), {"dates": 20, "hit_rate": float("inf"), "n": 5},
                        dq, 1.0))
     for text in (c2, md):
-        assert "inf" not in text and "True" not in text and "None" not in text
+        assert "inf" not in text and "True" not in text
         assert "n/a" in text
 
 
@@ -508,6 +510,68 @@ def test_mean_never_lets_a_broken_value_poison_the_average():
     assert P._mean([0.5, "0.7"]) == 0.5
     assert P._mean([]) is None
     assert P._mean([True, float("inf"), "x", None]) is None
+
+
+def test_no_unreadable_artefact_read_reaches_the_c2_packet_or_p7_json():
+    """Defect 34: the render/verdict surface reprinted the *raw* artefact read.
+
+    The Defect-27 fix guarded the count *operands*, and `_r` was written to stop an unmeasured value
+    printing — but `_r` only checked `isinstance(None, ...)`-style `v is None`, and the render sites for
+    the gate table, the rubric mean, the finding statistics and `main()`'s JSON never called it at all.
+    So an artefact holding an overflow-to-`inf` metric, or a YAML `true`, or a quoted `"0.5"`, rendered
+    verbatim into `p7.md` and into `C2_EVAL.md` — the owner's approval packet — and `json.dumps` wrote
+    the non-standard `Infinity` token into `kb/reports/p7.json`, making that file unparseable JSON. The
+    verdicts already failed closed; the *rendering* did not, so a broken read looked like a measurement.
+    """
+    BIG = float("1" + "0" * 400)
+    assert BIG == float("inf")  # the overflow this whole family is about
+    # `_r` is the guard: a real read renders as itself, an unreadable read says so.
+    assert P._r(0.5) == "0.5" and P._r(20) == "20" and P._r(0.0) == "0.0"
+    for bad in (None, True, False, BIG, float("inf"), float("-inf"), float("nan"), "0.5", [0.5]):
+        assert P._r(bad) == "n/a", bad
+    # Dates are text, not counts: the honest ISO string survives, a sentinel reads as unmeasured.
+    assert P._text("2020-01-01") == "2020-01-01" and P._text(None) == "n/a"
+
+    ev = good_eval()
+    for k in P.TARGETS:
+        ev["metrics"][k] = BIG
+    rb = good_rubric()
+    rb["mean_score"] = BIG
+    bt = {"dates": 20, "hit_rate": BIG, "n": 5}
+    dc = good_discovery()
+    for f in dc["findings"]:
+        f["stat"], f["q"], f["n"] = BIG, True, BIG
+
+    # The verdict was already fail-closed; assert it still is, so the render fix cannot have loosened it.
+    rep = P.build(ev, rb, bt, dc, BIG, BIG)
+    assert rep["pass"] is False and rep["gate"]["p7"] is False
+    assert rep["checks"]["eval"]["ok"] is False and rep["checks"]["rubric"]["ok"] is False
+    assert rep["checks"]["eval"]["gates"]["exact_a_b_e_g"]["value"] is None
+    assert rep["checks"]["rubric"]["mean_score"] is None
+
+    md = P._md(rep)
+    c2 = P._c2_md(rep, dc, rb, bt, ev)
+    for text in (md, c2):
+        assert "inf" not in text and "Infinity" not in text and "NaN" not in text, text
+        assert "True" not in text and "None" not in text, text
+    # The gate table renders the guarded read, and the finding statistics render as unmeasured.
+    assert "| exact_a_b_e_g | n/a | 0.97 | NO |" in md
+    assert "- exact_a_b_e_g: n/a (target 0.97) — FAIL" in c2
+    assert "stat n/a · q n/a · n n/a" in c2
+    # A real read is still a real read: the good arm renders its numbers, not `n/a`.
+    good_md = P._md(P.build(good_eval(), good_rubric(), good_backtest(), good_discovery(), 1.0, 2.0))
+    assert "| exact_a_b_e_g | 0.98 | 0.97 | yes |" in good_md
+    assert "mean 0.86 over 30 graded" in good_md
+
+    # The written artefact stays valid JSON: `Infinity`/`NaN` are not JSON, so they serialise as null.
+    payload = json.dumps(P._json_safe(rep), indent=1, default=str)
+    assert "Infinity" not in payload and "NaN" not in payload
+    loaded = json.loads(payload)
+    assert loaded["checks"]["eval"]["gates"]["exact_a_b_e_g"]["value"] is None
+    assert loaded["wall_seconds"] == 0.0  # a broken wall read is unmeasured, never `inf` seconds
+    assert loaded["money_spent_usd"] is None
+    # `main()` sums each artefact's `wall_seconds`; a string there used to raise straight out of it.
+    assert P._json_safe({"a": [1.0, BIG], "b": BIG}) == {"a": [1.0, None], "b": None}
 
 
 def test_c2_packet_contents():
