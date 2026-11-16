@@ -83,13 +83,23 @@ def answer_dict(it: dict) -> dict:
 
 
 def gold_numbers(it: dict) -> list[float]:
-    """Every number the gold answer requires (a/b/d/f/g shapes)."""
+    """Every number the gold answer requires (a/b/d/f/g shapes).
+
+    Defect 28: this read used `isinstance(v, (int, float))`, which admits `inf`. The fabrication is in
+    the tolerance floor: `numbers_match` computes `lim = max(tol, abs(expected) * 1e-6)`, and
+    `abs(inf) * 1e-6` is `inf`, so `lim` became `inf` and `abs(n - inf) <= inf` held for **every**
+    candidate number. A gold item authored with an overflowing cell therefore graded `True` against any
+    answer text at all, inflating the §12 `exact_a_b_e_g` arm; the same class of read let
+    `n_docs: true`/`inf` grant a multihop component for free. `M.as_float` is the one finite-value
+    rule: anything it rejects is dropped here, so the item falls through to the authored text (or
+    grades as ungradable) rather than being graded against a fabricated expectation.
+    """
     ans = answer_dict(it)
     out: list[float] = []
     for key in ("value", "first", "last", "pct_change", "price"):
-        v = ans.get(key)
-        if isinstance(v, (int, float)) and not isinstance(v, bool):
-            out.append(float(v))
+        f = M.as_float(ans.get(key))
+        if f is not None:
+            out.append(f)
     if not out:
         out = gold_numbers_from_text(it.get("answer_text") or "")
     return out
@@ -99,12 +109,17 @@ NUM = re.compile(r"-?\d[\d,]*(?:\.\d+)?")
 
 
 def gold_numbers_from_text(text: str) -> list[float]:
+    """Numbers found in an authored answer string. Same finite rule as `gold_numbers`: a token that
+    overflows to `inf` (`float("1" + "0"*400)`) is a broken read, not a requirement."""
     out = []
     for tok in NUM.findall(text or ""):
         try:
-            out.append(float(tok.replace(",", "")))
+            raw = float(tok.replace(",", ""))
         except ValueError:
             continue
+        f = M.as_float(raw)   # `raw` is already a float: this is the finite-value rule, not a cast
+        if f is not None:
+            out.append(f)
     return out
 
 
@@ -170,11 +185,24 @@ def score_exact(it: dict, rec: dict) -> bool | None:
 
 
 MH_COMPONENTS = ("price", "publishers", "n_docs", "used_by_d", "date")
+NUMERIC_COMPONENTS = ("price", "n_docs")
 
 
 def multihop_components(it: dict) -> set[str]:
+    """Which multihop components the gold item *requires*.
+
+    Defect 28: presence used to be the only test, so a `n_docs`/`price` that is present but unreadable
+    (`true`, `"5"`, `inf`) counted as a required component while the same value could never be
+    *found*, deflating the §12 `multihop_f1` arm with a fabricated requirement. The numeric members
+    go through `M.as_float`; the string/list members stay presence-tested.
+    """
     ans = answer_dict(it)
-    return {k for k in MH_COMPONENTS if ans.get(k) not in (None, "", [], {})}
+    out = {k for k in MH_COMPONENTS if k not in NUMERIC_COMPONENTS
+           and ans.get(k) not in (None, "", [], {})}
+    for k in NUMERIC_COMPONENTS:
+        if M.as_float(ans.get(k)) is not None:
+            out.add(k)
+    return out
 
 
 def found_components(it: dict, rec: dict) -> set[str]:
@@ -189,7 +217,8 @@ def found_components(it: dict, rec: dict) -> set[str]:
     pubs = ans.get("publishers") or []
     if pubs and any(str(p).lower() in low for p in pubs):
         out.add("publishers")
-    if ans.get("n_docs") is not None and numbers_match(float(ans["n_docs"]), 0.0, found_nums):
+    n_docs = M.as_float(ans.get("n_docs"))
+    if n_docs is not None and numbers_match(n_docs, 0.0, found_nums):
         out.add("n_docs")
     used = ans.get("used_by_d")
     if used and any(str(u).lower() in low for u in ([used] if isinstance(used, str) else used)):

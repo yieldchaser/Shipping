@@ -35,7 +35,56 @@ def test_gold_numbers_and_tolerance():
     assert E.unit_of(it) == "usd/day"
 
 
-def test_absent_tolerance_is_an_exact_match_but_an_unreadable_one_refuses():
+def test_an_unreadable_authored_number_never_grades_a_wrong_answer_correct():
+    """Defect 28. A gold number that is present but unreadable must leave the item *ungradable*.
+
+    `gold_numbers` used `isinstance(v, (int, float))`, which admits `inf`. The item is then graded by
+    `numbers_match(inf, tol, found)`, whose tolerance floor is `max(tol, abs(inf) * 1e-6) == inf`, so
+    `abs(n - inf) <= inf` held for **every** candidate number and any answer text at all scored True
+    on the §12 `exact_a_b_e_g` arm. `-inf` behaves the same; `nan` never matches and silently grades a
+    correct answer False. All three are broken reads.
+    """
+    wrong = {"status": "ok", "answer": "completely wrong 12345 dollars"}
+    # Non-vacuity: the real item still grades True/False as before.
+    good = item("G-8", "a_single_number", {"value": 24500.0, "tolerance": 50})
+    assert E.gold_numbers(good) == [24500.0]
+    assert E.score_exact(good, {"status": "ok", "answer": "avg 24,500 usd/day"}) is True
+    assert E.score_exact(good, wrong) is False
+
+    for bad in (True, False, float("inf"), float("-inf"), float("nan"), "24500", [24500], {}):
+        corrupt = item("G-9", "a_single_number", {"value": bad, "tolerance": 50})
+        assert E.gold_numbers(corrupt) == [], bad
+        # An empty expectation cannot grade, so the metric drops the item instead of crediting it.
+        assert E.score_exact(corrupt, wrong) is None, bad
+        assert E.score_exact(corrupt, {"status": "ok", "answer": "avg 24,500 usd/day"}) is None, bad
+
+    # A token that overflows `float` on parse is a broken read too, not a fabricated expectation.
+    assert E.gold_numbers_from_text("1" + "0" * 400) == []
+    assert E.gold_numbers(item("G-10", "a_single_number", {}, answer_text="1" + "0" * 400)) == []
+    # ... while real text still parses.
+    assert E.gold_numbers_from_text("averaged 24,500 usd/day") == [24500.0]
+
+
+def test_multihop_components_ignore_unreadable_numeric_members():
+    """Defect 28 twin: a required component that is present but unreadable must not be required.
+
+    `multihop_components` presence-tested `price`/`n_docs`, so `true`/`"5"`/`inf` inflated the
+    denominator of the §12 `multihop_f1` arm with a component `found_components` could never award
+    (it reads the same value through the finite rule).
+    """
+    good = E.multihop_components({"answer": {"price": 17.6, "n_docs": 5, "publishers": ["a"]}})
+    assert good == {"price", "n_docs", "publishers"}  # non-vacuity
+
+    for bad in (True, False, float("inf"), float("-inf"), float("nan"), "5", [5], {}):
+        comps = E.multihop_components({"answer": {"price": bad, "n_docs": bad, "publishers": ["a"]}})
+        assert comps == {"publishers"}, bad
+        # Symmetry: the found-side reader must not award it either, or the two disagree.
+        assert E.found_components({"answer": {"price": bad, "n_docs": bad}},
+                                  {"status": "ok", "answer": "saw 5 docs at 17.6"}) == set(), bad
+
+    assert E.found_components({"answer": {"n_docs": 5}},
+                              {"status": "ok", "answer": "saw 5 docs"}) == {"n_docs"}
+
     """Absent and unreadable must not be collapsed into one invented `0.0`.
 
     Every live `c_multihop_entity` item (35/35) has no `tolerance` key: for that type the authoring

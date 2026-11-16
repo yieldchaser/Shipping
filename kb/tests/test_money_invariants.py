@@ -64,7 +64,7 @@ ACCESSORS: dict[str, tuple[str, ...]] = {
     "p2_known_values.py": ("to_number",),
     "p3_resolve.py": ("_num",),
     "p7_report.py": ("_cap_num", "pipeline_cap", "_mean", "_count"),
-    "p7_eval.py": ("tolerance_of", "tolerance_or_exact"),
+    "p7_eval.py": ("tolerance_of", "tolerance_or_exact", "gold_numbers"),
     "c1_review.py": ("_num",),
 }
 
