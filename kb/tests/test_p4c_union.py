@@ -355,6 +355,93 @@ def test_union_pack_sees_a_recovered_rung_chunk(monkeypatch):
     assert rows["chunk_b"]["records_ok"] == 1
 
 
+def _rung_raws(monkeypatch, by_key: dict[str, str | None]):
+    """Address each single-chunk rung raw by its own key and answer with the mapped text."""
+    monkeypatch.setattr(U.G, "raw_for", lambda pass_name, model, mode, p: Path(f"{p['key']}.json"))
+    monkeypatch.setattr(U.G, "read_raw", lambda path: (by_key.get(path.stem), {}))
+
+
+def test_kept_for_recovers_a_rung_chunk_when_a_sibling_raw_is_unparseable(monkeypatch):
+    """Defect 36: one broken rung raw must not discard the sibling that parses.
+
+    `p017656` escalated to four single-chunk `p4c_esc` raws; three failed schema (`events.0.sids:
+    Field required`) and one parsed. The old first-wins probe gated the whole pack against whichever
+    candidate came first, so every chunk came out `call_broken=True total=0` and the readable sibling's
+    records were silently dropped from the union - a lost measurement, never a real absence.
+    """
+    _rung_raws(monkeypatch, {"doc_a|chunk_a": '{"no_content": false, "events": [{"sids": null}]}',
+                             "doc_a|chunk_b": _rung_answer("c2")})
+    got = U.kept_for(_two_chunk_pack(), "p4c_esc", "glm-5.3", "tools")
+    assert got["call"] == "ok"
+    assert got["total"] == 1
+    assert got["chunk_total"] == {"chunk_a": 0, "chunk_b": 1}
+    assert len(got["chunks"]["chunk_b"]["state_facts"]) == 1
+    assert got["chunks"]["chunk_a"]["state_facts"] == []
+
+
+def test_rung_schema_fail_needs_every_candidate_to_be_unreadable(monkeypatch):
+    """`schema_fail` means *no* candidate parsed - not that the first one happened to be broken."""
+    _rung_raws(monkeypatch, {"doc_a|chunk_a": "{not json",
+                             "doc_a|chunk_b": '{"no_content": false, "events": [{"sids": null}]}'})
+    got = U.kept_for(_two_chunk_pack(), "p4c_esc", "glm-5.3", "tools")
+    assert got["call"] == "schema_fail"
+    assert got["total"] == 0
+    _rung_raws(monkeypatch, {"doc_a|chunk_a": None, "doc_a|chunk_b": '{"no_content": false, "events": []}'})
+    assert U.kept_for(_two_chunk_pack(), "p4c_esc", "glm-5.3", "tools")["call"] == "ok"
+
+
+def test_union_pack_keeps_a_chunk_whose_sibling_rung_raw_failed_to_parse(monkeypatch):
+    """The recovered chunk must stay off `call_broken` in the union row, and keep its records."""
+    _rung_raws(monkeypatch, {"doc_a|chunk_a": '{"no_content": false, "events": [{"sids": null}]}',
+                             "doc_a|chunk_b": _rung_answer("c2")})
+    got = U.union_pack(_two_chunk_pack(), [("p4c_esc", "glm-5.3")], modes={"glm-5.3": "tools"})
+    rows = {r["chunk_id"]: r for r in got["rows"]}
+    assert rows["chunk_b"]["call_broken"] is False
+    assert rows["chunk_b"]["records_ok"] == 1
+    assert rows["chunk_b"]["provenance"] == {"p4c_esc": 1}
+    assert rows["chunk_b"]["call_missing"] is False
+
+
+def test_rung_blank_candidates_make_a_blank_pack_and_absent_ones_make_it_missing(monkeypatch):
+    """`blank` is a delivered-but-empty answer; `missing` is no answer at all - never conflated."""
+    _rung_raws(monkeypatch, {"doc_a|chunk_a": "   ", "doc_a|chunk_b": ""})
+    got = U.kept_for(_two_chunk_pack(), "p4c_esc", "glm-5.3", "tools")
+    assert got["call"] == "blank"
+    assert got["total"] == 0
+    _rung_raws(monkeypatch, {"doc_a|chunk_a": None, "doc_a|chunk_b": None})
+    assert U.kept_for(_two_chunk_pack(), "p4c_esc", "glm-5.3", "tools")["call"] == "missing"
+
+
+def test_a_blank_primary_raw_cannot_bury_a_readable_rung_sibling(monkeypatch):
+    """Defect 36 top half: the pack-keyed raw arriving blank must not stop the rung read."""
+    _rung_raws(monkeypatch, {"doc_a|aaa+bbb": "  ", "doc_a|chunk_b": _rung_answer("c2")})
+    got = U.kept_for(_two_chunk_pack(), "p4c_esc", "glm-5.3", "tools")
+    assert got["call"] == "ok"
+    assert got["chunk_total"] == {"chunk_a": 0, "chunk_b": 1}
+
+
+def test_union_pack_keeps_each_parsed_rung_candidate_for_its_own_chunk(monkeypatch):
+    """Two parseable rung candidates must each keep their records - never the last one only.
+
+    A one-chunk rung raw carries its own block's labels (`c1`/`c2`), and `G.pack_ctx` holds the whole
+    pack's chunk ids, so folding each candidate in attributes it to the right chunk. Overwriting the
+    accumulator per candidate would silently drop every earlier chunk's records (Defect 36, one level
+    down).
+    """
+    p = _two_chunk_pack()
+    _rung_raws(monkeypatch, {"doc_a|chunk_a": _rung_answer("c1"),
+                             "doc_a|chunk_b": _rung_answer("c2")})
+    got = U.kept_for(p, "p4c_esc", "glm-5.3", "tools")
+    assert got["chunk_total"] == {"chunk_a": 1, "chunk_b": 1}
+    assert got["total"] == 2
+    assert got["chunks"]["chunk_a"]["state_facts"][0].chunk == "c1"
+    assert got["chunks"]["chunk_b"]["state_facts"][0].chunk == "c2"
+    rows = {r["chunk_id"]: r for r in U.union_pack(
+        p, [("p4c_esc", "glm-5.3")], modes={"glm-5.3": "tools"})["rows"]}
+    assert rows["chunk_a"]["records_ok"] == 1
+    assert rows["chunk_b"]["records_ok"] == 1
+
+
 def test_record_row_stamps_the_real_chunk_id_not_the_prompt_label():
     """`chunk` must be the DB chunk id, never the prompt-local label the extractor saw.
 

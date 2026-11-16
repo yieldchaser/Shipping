@@ -77,8 +77,8 @@ def sentences_of(pack: dict) -> dict[str, list[tuple[int, str]]]:
 
 
 def _single_rung_text(pack: dict, pass_name: str, model: str, mode: str,
-                      fallback: str | None) -> str | None:
-    """Text of a ladder rung's raw addressed per single chunk, else `fallback`.
+                      fallback: str | None) -> list[tuple[str, str | None]]:
+    """`[(cid, text), ...]` of a ladder rung's raws addressed per single chunk, else `[]`.
 
     Defect 12. The retry (`p4c_bulk_retry`) and escalation (`p4c_esc`) rungs are written by
     `p4c_run` from `p4c_run.single_pack` - one chunk per call - so the runner keys their raw by the
@@ -86,26 +86,26 @@ def _single_rung_text(pack: dict, pass_name: str, model: str, mode: str,
     the pack-keyed path made every rung answer read back as `missing`: the ladder could never move
     `failure_queue_rate` and `p4c_recall` never saw the escalated records either.
 
-    The probe is address-only: it returns an answered chunk if one exists, else a blank answer,
-    else the caller's `fallback`. A pack with no rung call anywhere therefore stays `missing`
-    instead of being reported as answered.
+    Defect 36. The probe used to stop at the *first* non-blank candidate and the whole pack was then
+    gated against that one text, so a single `schema_fail` raw discarded its readable siblings: on
+    `p017656` one of four escalation raws parsed while all four chunks came out `call_broken=True
+    total=0`. Every candidate is returned with the chunk it answers instead, so `kept_for` parses and
+    gates them one by one and a bad candidate cannot bury a good one.
+
+    A chunk with no rung call at all yields `(cid, fallback)` - still addressed, still not answered.
+    An empty list (no candidate anywhere, or a full-pack pass) is what leaves the pack `missing`.
     """
-    blank: str | None = None
     if pass_name not in SINGLE_RUNG_PASSES:
-        return fallback
+        return []
+    out: list[tuple[str, str | None]] = []
     for cid in pack["chunk_ids"]:
         try:
             single = RUN.single_pack(pack, cid)
         except (ValueError, KeyError):
             continue
         text, _usage = G.read_raw(G.raw_for(pass_name, model, mode, single))
-        if text is None:
-            continue
-        if text.strip():
-            return text
-        if blank is None:
-            blank = text
-    return blank if blank is not None else fallback
+        out.append((cid, fallback if text is None else text))
+    return out
 
 
 def kept_for(pack: dict, pass_name: str, model: str, mode: str | None = None) -> dict:
@@ -123,43 +123,77 @@ def kept_for(pack: dict, pass_name: str, model: str, mode: str | None = None) ->
     The `call` status is pack-level only for accounting. A rung pack can be answered for some
     chunks and not others, so `call` reports `ok` as soon as any addressed chunk was answered;
     whether an individual chunk recovered is decided by the gate rows this feeds, not here.
+
+    Defect 36. Each rung candidate is parsed and gated *on its own* and the survivors merged, rather
+    than gating the whole pack against whichever candidate happened to come first. One unreadable
+    raw (`schema: events.0.sids: Field required` on `p017656`) used to discard the siblings that did
+    parse, so four readable-ish chunks all reported `call_broken`/`total=0` and their records were
+    silently lost. A candidate that breaks now only costs itself.
     """
-    res = {"call": "missing", "total": 0, "dropped": 0,
-           "chunk_total": {cid: 0 for cid in pack["chunk_ids"]},
-           "chunks": {cid: {k: [] for k in KINDS} for cid in pack["chunk_ids"]}}
+    res: dict = {"call": "missing", "total": 0, "dropped": 0,
+                 "chunk_total": {cid: 0 for cid in pack["chunk_ids"]},
+                 "chunks": {cid: {k: [] for k in KINDS} for cid in pack["chunk_ids"]},
+                 "new_entities": {}}
     mode = mode or source_mode(pass_name, model)
-    text, _usage = G.read_raw(G.raw_for(pass_name, model, mode, pack))
-    if text is None or not text.strip():
-        text = _single_rung_text(pack, pass_name, model, mode, text)
-        if text is None:  # not a single-keyed rung, or the run left no trace at all
-            return res
-        if not text.strip():
-            res["call"] = "blank"
-            return res
-    ext, _err = E.parse_extraction(text)
-    if ext is None:
-        res["call"] = "schema_fail"
-        return res
-    ext, _new_ids, new_names = E.canonicalize(ext, pack.get("known") or [])
-    g = GR.gate_chunk(ext, G.pack_ctx(pack, new_names))
-    res["call"] = "ok"
-    res["total"] = int(g.get("records_total") or 0)
-    res["dropped"] = sum(1 for r in g["records"] if r.get("dropped"))
-    res["new_entities"] = {k: v for k, v in new_names.items()
-                           if k in (g.get("new_entities_ok") or {}) and g["new_entities_ok"][k]}
     bcid_to_chunk = {b["cid"]: cid for cid, b in zip(pack["chunk_ids"], pack["blocks"])}
-    # `g["records"]` are verdict dicts (kept *and* dropped), not pydantic models: read `chunk` as a
-    # key, exactly like `p4c_gate` L141. `getattr` here silently yielded None and zeroed every count.
-    for rec in g["records"]:
-        cid = bcid_to_chunk.get(rec.get("chunk") if isinstance(rec, dict)
-                                else getattr(rec, "chunk", None))
-        if cid:
-            res["chunk_total"][cid] += 1
-    for kind in KINDS:
-        for rec in g["kept"].get(kind) or []:
-            cid = bcid_to_chunk.get(getattr(rec, "chunk", None))
+
+    def merge(ext) -> None:
+        """Fold one parsed raw into `res` under the pack's own chunk ids."""
+        ext, _new_ids, new_names = E.canonicalize(ext, pack.get("known") or [])
+        g = GR.gate_chunk(ext, G.pack_ctx(pack, new_names))
+        res["call"] = "ok"
+        res["total"] += int(g.get("records_total") or 0)
+        res["dropped"] += sum(1 for r in g["records"] if r.get("dropped"))
+        res["new_entities"].update({k: v for k, v in new_names.items()
+                                    if k in (g.get("new_entities_ok") or {}) and g["new_entities_ok"][k]})
+        # `g["records"]` are verdict dicts (kept *and* dropped), not pydantic models: read `chunk` as
+        # a key, exactly like `p4c_gate` L141. `getattr` silently yielded None and zeroed every count.
+        for rec in g["records"]:
+            cid = bcid_to_chunk.get(rec.get("chunk") if isinstance(rec, dict)
+                                    else getattr(rec, "chunk", None))
             if cid:
-                res["chunks"][cid][kind].append(rec)
+                res["chunk_total"][cid] += 1
+        for kind in KINDS:
+            for rec in g["kept"].get(kind) or []:
+                cid = bcid_to_chunk.get(getattr(rec, "chunk", None))
+                if cid:
+                    res["chunks"][cid][kind].append(rec)
+
+    pack_text, _usage = G.read_raw(G.raw_for(pass_name, model, mode, pack))
+    if pack_text is None or not pack_text.strip():
+        candidates = _single_rung_text(pack, pass_name, model, mode, pack_text)
+        if not candidates:  # not a single-keyed rung, or the run left no trace at all
+            if pack_text is not None:
+                res["call"] = "blank"  # a pack-keyed raw arrived empty: answered, with no content
+            return res
+        # No early return on a blank pack-level raw: a rung candidate that *did* answer must still be
+        # read, or the blank primary would bury its readable sibling (Defect 36).
+    else:
+        candidates = [(None, pack_text)]
+
+    seen_blank = False
+    seen_text = False
+    for _cid, text in candidates:
+        if text is None:
+            continue
+        seen_text = True
+        if not text.strip():
+            seen_blank = True
+            continue
+        ext, _err = E.parse_extraction(text)
+        if ext is None:
+            continue
+        # Every candidate is folded in (never overwritten): a one-chunk rung raw carries its own
+        # block's labels, and `G.pack_ctx` keeps all of this pack's chunk ids, so `bcid_to_chunk`
+        # attributes each candidate's records to its own chunk. Resetting per candidate would let the
+        # last parseable one erase its siblings' records (Defect 36 again, one level down).
+        merge(ext)
+    if res["call"] != "ok":
+        if seen_blank:
+            res["call"] = "blank"
+        elif seen_text:
+            res["call"] = "schema_fail"  # every candidate arrived but none parsed
+        # else: no candidate anywhere - stays "missing", never reported as answered
     return res
 
 
