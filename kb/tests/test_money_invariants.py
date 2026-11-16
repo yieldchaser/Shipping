@@ -55,6 +55,8 @@ MONEY_MODULES = (
 ACCESSORS: dict[str, tuple[str, ...]] = {
     "money.py": ("as_float", "unit_score"),
     "runner.py": ("pipeline_cap", "cost_usd", "_tokens"),
+    # Defect 31 readers live in GRADE_READERS below: a recall ratio is a [0, 1] *score*, so the one
+    # scale rule (`money.unit_score`) is the guard, not `as_float`.
     "p4b_run.py": ("pipeline_cap", "p4c_allowance"),
     "p4c_highvalue.py": ("bulk_budget",),
     "p4c_ladder.py": ("escalation_cap",),
@@ -99,6 +101,13 @@ GRADE_READERS: dict[str, tuple[str, ...]] = {
     # `100.00%`; `money.unit_score` is the one scale rule. `gate_rows` is the verdict site, and the
     # two artefact readers are where the value enters the process.
     "p4c_report.py": ("gate_rows", "audit_gate", "union_stats"),
+    # Defect 31: the P4a gate verdict reads `retrieval_recall_at_20` — and the report's recall cells
+    # and per-stratum/repair-history rows — out of `p4a_recall_eval.json`. A `1e999`/401-digit
+    # literal read as `inf`, `inf >= 0.85` PASSED, the module printed `PASSED`, wrote
+    # `verdict: "PASSED"`, and `main()` returned 0 on a measurement it could not read. A recall
+    # ratio is a `[0, 1]` score, so `money.unit_score` is the one scale rule. `recall_rate` is the
+    # artefact reader; `gate_verdict` is the verdict site (Defect 26), re-reading both operands.
+    "p4a_report.py": ("recall_rate", "gate_verdict"),
 }
 
 MONEY_KEY_HINTS = ("cost", "spend", "money", "usd", "budget", "allowance", "cap", "price")

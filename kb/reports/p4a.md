@@ -50,7 +50,7 @@ Gate: `retrieval_recall_at_20` = **0.9** (threshold 0.85) → **PASSED**
 - mean first-gold rank 2.37 · mean query 2.3 s
 - FTS index: 318232 chunks in 357.1 s, warm probe latency 3.82 s, DB file 5.08 GB
 - vectors: 220150 rows × 2048 d, nvidia/nemotron-3-embed-1b, 2302 requests, 99069064 tokens, $0 (NIM free tier)
-- spend $0.00 · wall 92.3 min
+- spend UNMEASURED · wall 92.3 min
 
 ## Per stratum
 

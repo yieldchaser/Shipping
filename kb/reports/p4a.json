@@ -429,7 +429,7 @@
    }
   }
  ],
- "money_spent_usd": 0.0,
+ "money_spent_usd": null,
  "wall_seconds": 5537.4,
  "verdict": "PASSED"
 }

@@ -72,9 +72,47 @@ def money_total(*sources: dict) -> float | None:
     return total
 
 
+def recall_rate(value) -> float | None:
+    """Read a measured `[0, 1]` recall ratio out of the on-disk eval artefact.
+
+    Defect 31, Defect 24/26 class: `round(float(overall["hit_at_20"]), 4)` reads the gate operand
+    straight out of `p4a_recall_eval.json`, and `float()` is not a guard — a 401-digit literal, or a
+    JSON `1e999`, becomes `inf`, and `inf >= 0.85` is True. The P4a gate then printed `PASSED`,
+    stored `verdict: "PASSED"` and exited 0 on a measurement it could not read. A recall ratio *is* a
+    `[0, 1]` score, so the single-sourced scale rule applies (`money.unit_score`); an unreadable or
+    off-scale operand is UNMEASURED (`None`) and the verdict must fail closed.
+    """
+    return M.unit_score(value)
+
+
+def gate_verdict(hit: float | None, threshold: float | None) -> str:
+    """The P4a gate rule. UNMEASURED is never a pass — `None >= threshold` would raise, and any
+    truthiness fallback (`hit or 0.0`, `float(hit)`) re-admits the fabrication this module fixes.
+
+    Defect 26 pattern: the guard sits at the *verdict* as well as at the artefact reader. Both
+    operands are re-read through the one implementation of each rule — `money.unit_score` for the
+    `[0, 1]` recall ratio, `money.as_float` for the authored gate threshold — so a caller that
+    reaches this function without going through `recall_rate` still cannot PASS on a broken read.
+    Unreadable ⇒ `FAILED`: no verdict this module cannot compute is ever reported as a pass.
+    """
+    h = M.unit_score(hit)
+    th = M.as_float(threshold)
+    if h is None or th is None:
+        return "FAILED"
+    return "PASSED" if h >= th else "FAILED"
+
+
+def _r(v: float | None) -> str:
+    """A reported-not-gated measurement: `n/a` when unreadable, never `None` and never `inf`."""
+    return "n/a" if v is None else f"{v}"
+
+
 def main() -> int:
     gates = yaml.safe_load(GATES.read_text(encoding="utf-8"))
-    threshold = float(gates["P4a"][METRIC])
+    # Defect 31 sibling: the threshold is an authored gate operand read out of the frozen gates file
+    # through a bare `float()`. Unreadable -> `None`, and `gate_verdict` then fails closed, so P4a
+    # can never PASS on a threshold nobody could read.
+    threshold = M.as_float(gates["P4a"][METRIC])
     gold = load("p4a_recall_set.json")
     evaluation = load("p4a_recall_eval.json")
     index = load("p4a_index.json")
@@ -109,9 +147,13 @@ def main() -> int:
         })
 
     overall = evaluation["overall"]
-    metric_value = round(float(overall["hit_at_20"]), 4)
-    fused_value = round(float(overall.get("fused_hit_at_20", metric_value)), 4)
-    verdict = "PASSED" if metric_value >= threshold else "FAILED"
+    # Defect 31: both gate operands are on-disk numbers; read them through the one ratio rule and
+    # fail the verdict closed when the read is broken (see `recall_rate`/`gate_verdict`).
+    metric_raw = recall_rate(overall.get("hit_at_20"))
+    fused_raw = recall_rate(overall.get("fused_hit_at_20"))
+    metric_value = None if metric_raw is None else round(metric_raw, 4)
+    fused_value = None if fused_raw is None else round(fused_raw, 4)
+    verdict = gate_verdict(metric_value, threshold)
     gold_by_stratum: dict[str, list[int]] = {}
     for q in queries:
         gold_by_stratum.setdefault(q["stratum"], []).append(len(q["gold"]))
@@ -130,12 +172,12 @@ def main() -> int:
         "sample_seed": seed,
         METRIC: metric_value,
         "threshold": threshold,
-        "recall_at_5": overall["recall"]["at_5"],
-        "recall_at_10": overall["recall"]["at_10"],
-        "recall_at_20": overall["recall"]["at_20"],
+        "recall_at_5": recall_rate(overall["recall"]["at_5"]),
+        "recall_at_10": recall_rate(overall["recall"]["at_10"]),
+        "recall_at_20": recall_rate(overall["recall"]["at_20"]),
         "fused_recall_at_20": fused_value,
-        "fused_recall_at_5": overall.get("fused_recall", {}).get("at_5"),
-        "fused_recall_at_10": overall.get("fused_recall", {}).get("at_10"),
+        "fused_recall_at_5": recall_rate(overall.get("fused_recall", {}).get("at_5")),
+        "fused_recall_at_10": recall_rate(overall.get("fused_recall", {}).get("at_10")),
         "rerank_rescued": overall.get("rerank_rescued"),
         "rerank_broken": overall.get("rerank_broken"),
         "repair_history": [
@@ -237,11 +279,13 @@ def main() -> int:
         "rows at a time instead of 20,000 after a 156 MiB numpy allocation failed on this machine's",
         "free RAM — identical arithmetic, smaller peak allocation, no effect on ranking.",
         "",
-        f"Gate: `{METRIC}` = **{metric_value}** (threshold {threshold}) → **{verdict}**",
+        f"Gate: `{METRIC}` = **{_r(metric_value)}** (threshold {threshold}) → **{verdict}**",
         "",
         f"- questions: {overall['n']} · hits@20: {overall['hit_count']}"
-        f" · recall@5/10/20: {overall['recall']['at_5']}/{overall['recall']['at_10']}/{overall['recall']['at_20']}"
-        f" · same but pre-rerank (fused only): {fused_value}",
+        f" · recall@5/10/20: {_r(recall_rate(overall.get('recall', {}).get('at_5')))}"
+        f"/{_r(recall_rate(overall.get('recall', {}).get('at_10')))}"
+        f"/{_r(recall_rate(overall.get('recall', {}).get('at_20')))}"
+        f" · same but pre-rerank (fused only): {_r(fused_value)}",
         f"- rerank stage: window 40, rescued {overall.get('rerank_rescued')},"
         f" broke {overall.get('rerank_broken')}, {mean_rerank_s} s/query",
         f"- arm coverage: gold found by BM25 only {overall['gold_only_bm25']},"
@@ -262,13 +306,16 @@ def main() -> int:
         "|---|---|---|---|---|---|",
     ]
     for name, row in evaluation["by_stratum"].items():
-        fused_cell = row.get("fused_recall", {}).get("at_20", "-")
-        lines.append(f"| {name} | {row['n']} | {row['recall']['at_5']} | {row['recall']['at_10']}"
-                     f" | {row['recall']['at_20']} | {fused_cell} |")
+        fused_cell = recall_rate(row.get("fused_recall", {}).get("at_20"))
+        lines.append(f"| {name} | {row['n']}"
+                     f" | {_r(recall_rate(row.get('recall', {}).get('at_5')))}"
+                     f" | {_r(recall_rate(row.get('recall', {}).get('at_10')))}"
+                     f" | {_r(recall_rate(row.get('recall', {}).get('at_20')))}"
+                     f" | {_r(fused_cell)} |")
     lines += ["", "## Repair history", "",
               "| measurement | recall@20 | what was wrong |", "|---|---|---|"]
     for h in records["repair_history"]:
-        lines.append(f"| {h['step']} | {h['recall_at_20']} | {h['defect']} |")
+        lines.append(f"| {h['step']} | {_r(recall_rate(h['recall_at_20']))} | {h['defect']} |")
     lines += ["", "## Sampled records", ""]
     for s in sample_records:
         mark = "hit" if s["hit"] else "MISS"
@@ -285,7 +332,7 @@ def main() -> int:
                      f" {s['top1_rerank_lex']}); arms hit bm25/dense {s['arms']['bm25']}/{s['arms']['dense']}")
         lines.append("")
     (REPORTS / "p4a.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
-    print(f"P4a {verdict}: {METRIC}={metric_value} ({overall['hit_count']}/{overall['n']})"
+    print(f"P4a {verdict}: {METRIC}={_r(metric_value)} ({overall['hit_count']}/{overall['n']})"
           f" wall {wall}s samples {len(sample_records)}")
     return 0 if verdict == "PASSED" else 1
 

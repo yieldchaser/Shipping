@@ -31,6 +31,82 @@ ROOT = Path(__file__).resolve().parents[2]
 GOLD = ROOT / "kb/reports/p4a_recall_set.json"
 
 
+# ---- Defect 31: the gate verdict is a read of an on-disk number ----------------
+def test_an_unreadable_recall_metric_never_passes_the_p4a_gate():
+    """Defect 31: `retrieval_recall_at_20` is read out of `p4a_recall_eval.json`.
+
+    `float(overall["hit_at_20"])` is not a guard. A 401-digit literal (or a JSON `1e999`) becomes
+    `inf`, and `inf >= 0.85` is True — so `float()` + `>=` printed `PASSED`, wrote
+    `verdict: "PASSED"`, and returned 0 from `main()` on a measurement the module could not read.
+    A recall ratio is a `[0, 1]` score, so the one scale rule applies and the verdict fails closed.
+    """
+    big = float("1" + "0" * 400)
+    assert big == float("inf")
+    # the reader: every unreadable or off-scale operand is UNMEASURED, never a number
+    assert RP.recall_rate(big) is None
+    assert RP.recall_rate(1e999) is None
+    assert RP.recall_rate(float("nan")) is None
+    assert RP.recall_rate(float("-inf")) is None
+    assert RP.recall_rate(True) is None          # bool is an int; `True >= 0.85` is True
+    assert RP.recall_rate("0.91") is None        # str must be parsed, not coerced
+    assert RP.recall_rate(1.5) is None           # off the [0, 1] scale
+    assert RP.recall_rate(-0.1) is None
+    assert RP.recall_rate(None) is None          # absent key
+    assert RP.recall_rate({}.get("hit_at_20")) is None
+    # measured values survive unchanged
+    assert RP.recall_rate(0.0) == 0.0
+    assert RP.recall_rate(0.9123) == 0.9123
+    # the verdict: UNMEASURED is not a pass, and an unreadable threshold fails closed too
+    assert RP.gate_verdict(None, 0.85) == "FAILED"
+    assert RP.gate_verdict(big, 0.85) == "FAILED"
+    assert RP.gate_verdict(True, 0.85) == "FAILED"
+    assert RP.gate_verdict(0.9, None) == "FAILED"
+    assert RP.gate_verdict(0.9, float("1" + "0" * 400)) == "FAILED"
+    assert RP.gate_verdict(0.9, 0.85) == "PASSED"
+    assert RP.gate_verdict(0.8, 0.85) == "FAILED"
+    assert RP.gate_verdict(0.85, 0.85) == "PASSED"
+
+
+def test_main_fails_closed_when_the_eval_metric_is_unreadable(tmp_path, monkeypatch, capsys):
+    """Defect 31, end-to-end: the pin above only holds if `main()` routes through the guarded read.
+
+    Mutating `main()` back to `round(float(overall["hit_at_20"]), 4)` leaves every helper assertion
+    above green — the fabrication lives in the caller — so this arm runs the real entry point over
+    the real eval artefact with just the gate operand corrupted, and asserts the *process* outcome.
+    """
+    import shutil
+    names = ["p4a_recall_set.json", "p4a_recall_eval.json", "p4a_index.json", "p4a_embed.json"]
+    for n in names:
+        shutil.copyfile(ROOT / "kb/reports" / n, tmp_path / n)
+    monkeypatch.setattr(RP, "REPORTS", tmp_path)
+
+    def run() -> tuple[int, str]:
+        capsys.readouterr()
+        code = RP.main()
+        return code, capsys.readouterr().out
+
+    # control arm: the real measurement still gates exactly as before
+    code, out = run()
+    written = json.loads((tmp_path / "p4a.json").read_text(encoding="utf-8"))
+    assert code == 0, out
+    assert "PASSED" in out and "FAILED" not in out
+    assert written["retrieval_recall_at_20"] == 0.9
+    assert written["verdict"] == "PASSED"
+
+    # corrupted arm: an unreadable operand must NOT print PASSED and must NOT exit 0
+    ev = json.loads((tmp_path / "p4a_recall_eval.json").read_text(encoding="utf-8"))
+    ev["overall"]["hit_at_20"] = 1e999
+    (tmp_path / "p4a_recall_eval.json").write_text(json.dumps(ev), encoding="utf-8")
+    code, out = run()
+    written = json.loads((tmp_path / "p4a.json").read_text(encoding="utf-8"))
+    assert code != 0, out
+    assert "PASSED" not in out, out
+    assert "FAILED" in out, out
+    assert written["verdict"] == "FAILED"
+    assert written["retrieval_recall_at_20"] is None      # UNMEASURED, not `inf`, not `0.0`
+    assert "n/a" in (tmp_path / "p4a.md").read_text(encoding="utf-8")
+
+
 # ---- filter_sql ---------------------------------------------------------------
 def test_filter_sql_empty():
     where, params = R.filter_sql(None)
