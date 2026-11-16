@@ -107,6 +107,41 @@ def test_main_fails_closed_when_the_eval_metric_is_unreadable(tmp_path, monkeypa
     assert "n/a" in (tmp_path / "p4a.md").read_text(encoding="utf-8")
 
 
+def test_main_keeps_p4a_json_strict_when_a_wall_reading_is_non_finite(tmp_path, monkeypatch, capsys):
+    """Defect 35 (limb 3), end-to-end: the writer, not just the helper, must keep the artefact parseable.
+
+    `json.dumps(records)` emits native `Infinity`/`NaN` tokens for a non-finite float, so a corrupted
+    wall reading would have shipped a p4a.json no strict reader accepts. The sanitised writer plus the
+    guarded wall sum must keep the file strict JSON and report the unreadable timing as UNMEASURED.
+    """
+    import shutil
+    names = ["p4a_recall_set.json", "p4a_recall_eval.json", "p4a_index.json", "p4a_embed.json"]
+    for n in names:
+        shutil.copyfile(ROOT / "kb/reports" / n, tmp_path / n)
+    monkeypatch.setattr(RP, "REPORTS", tmp_path)
+
+    em = json.loads((tmp_path / "p4a_embed.json").read_text(encoding="utf-8"))
+    em["wall_seconds"] = 1e999            # parses as `inf`, silently
+    ix = json.loads((tmp_path / "p4a_index.json").read_text(encoding="utf-8"))
+    ix["build_seconds"] = 1e999
+    ev = json.loads((tmp_path / "p4a_recall_eval.json").read_text(encoding="utf-8"))
+    ev["wall_seconds"] = 1e999
+    (tmp_path / "p4a_embed.json").write_text(json.dumps(em), encoding="utf-8")
+    (tmp_path / "p4a_index.json").write_text(json.dumps(ix), encoding="utf-8")
+    (tmp_path / "p4a_recall_eval.json").write_text(json.dumps(ev), encoding="utf-8")
+
+    capsys.readouterr()
+    code = RP.main()
+    text = (tmp_path / "p4a.json").read_text(encoding="utf-8")
+    assert "Infinity" not in text and "NaN" not in text
+    written = json.loads(text)
+    assert written["wall_seconds"] is None            # UNMEASURED, never `inf`
+    assert written["embedding"]["wall_seconds"] is None
+    assert "n/a" in (tmp_path / "p4a.md").read_text(encoding="utf-8")
+    assert code == 0, "an unreadable timing is a report nuisance, not a gate failure"
+
+
+
 # ---- filter_sql ---------------------------------------------------------------
 def test_filter_sql_empty():
     where, params = R.filter_sql(None)
@@ -342,3 +377,56 @@ def test_gold_paths_exist():
     data = json.loads(GOLD.read_text(encoding="utf-8"))
     for q in data["queries"][:10]:
         assert (ROOT / q["gold"][0]["path"]).exists(), q["gold"][0]["path"]
+
+
+# ---- Defect 35 (limb 3): unguarded numeric reads in the report path -----------
+BIG = float("1" + "0" * 400)
+
+
+def test_a_poisoned_money_value_is_unmeasured_not_raised_or_coerced():
+    """Defect 35 limb 3: the present-value branch was a bare `float(v)`.
+
+    A corrupted producer value (`"abc"`, `null`, a 401-digit literal -> `OverflowError`) raised out of
+    the report instead of reading as the unmeasured spend it is. An absent key stays UNMEASURED
+    (Defect 19/17) and a declared `0.0` stays a measured zero.
+    """
+    assert RP.money_total({"money_spent_usd": "abc"}, {"money_spent_usd": 0.0}) is None
+    assert RP.money_total({"money_spent_usd": None}) is None
+    assert RP.money_total({"money_spent_usd": BIG}) is None
+    assert RP.money_total({"money_spent_usd": True}) is None
+    assert RP.money_total({}) is None
+    # measured reads survive, including a genuine zero
+    assert RP.money_total({"money_spent_usd": 0.0}) == 0.0
+    assert RP.money_total({"money_spent_usd": 1.25}, {"money_spent_usd": 0.5}) == 1.75
+
+
+def test_wall_total_reads_unreadable_timings_as_unavailable_not_infinity():
+    """Defect 35 limb 3: `round(float(a) + float(b) + float(c), 1)` raised on junk and passed `inf`.
+
+    `float("1" + "0"*400)` is `inf` (no exception), and `json.dumps` then emitted a bare `Infinity`
+    token into p4a.json. An unreadable reading must be unavailable, never a fabricated number, and
+    the total is `None` only when *no* producer wrote a readable timing.
+    """
+    assert RP._wall_total("12.5", 1.5) == 1.5, "an unreadable reading must not raise, it drops out"
+    assert RP._wall_total("12.5") is None
+    assert RP._wall_total(BIG) is None
+    assert RP._wall_total(None, None) is None
+    assert RP._wall_total() is None
+    # a partial reading is a partial measurement, not a raise and not a zero for the missing part
+    assert RP._wall_total(2.0, None, 3.5) == 5.5
+    assert RP._wall_total(0.0) == 0.0
+    assert RP._wall_total(True) is None
+
+
+def test_render_guard_prints_na_for_a_non_finite_measurement():
+    assert RP._r(None) == "n/a" and RP._r(BIG) == "n/a" and RP._r(True) == "n/a"
+    assert RP._r(0.0) == "0.0" and RP._r(1.25) == "1.25"
+
+
+def test_json_safe_nullifies_non_finite_so_p4a_json_stays_strict():
+    safe = RP._json_safe({"wall_seconds": BIG, "nested": [float("nan"), {"x": "inf"}]})
+    text = json.dumps(safe)
+    assert "Infinity" not in text and "NaN" not in text
+    assert safe["wall_seconds"] is None and safe["nested"][0] is None
+    assert safe["nested"][1]["x"] == "inf"  # a string reading is data, left alone
+

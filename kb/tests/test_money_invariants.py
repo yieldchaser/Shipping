@@ -43,7 +43,8 @@ MONEY_MODULES = (
     "p4b_run.py", "p4c_audit.py", "p4c_daemon.py", "p4c_gate.py", "p4c_glean.py",
     "p4c_highvalue.py", "p4c_ladder.py", "p4c_report.py", "p4c_run.py", "p4c_union.py",
     "p5_build.py", "p6_summary.py",
-    "p7_analyst.py", "p7_eval.py", "p7_report.py", "p7_rubric.py", "gold_report.py",
+    "p7_analyst.py", "p7_discovery.py", "p7_eval.py", "p7_report.py", "p7_rubric.py",
+    "gold_report.py",
     "p3_report.py", "resume.py",
 )
 
@@ -65,6 +66,18 @@ ACCESSORS: dict[str, tuple[str, ...]] = {
     "p2_report.py": ("to_number",),
     "p2_known_values.py": ("to_number",),
     "p3_resolve.py": ("_num",),
+    # Defect 35 (limb 3): this module's on-disk readings. `money_total` sums producer
+    # `money_spent_usd`, `_wall_total` sums the phase wall-clock readings, and `_r`/`_json_safe` are
+    # the render/JSON writers, so a corrupted reading is unmeasured (never a raise, never `inf`, never
+    # the `Infinity` token in p4a.json).
+    "p4a_report.py": ("money_total", "_wall_total", "_r", "_json_safe"),
+    # Defect 35 (limb 3): the P7 discovery rows are read back off disk (`links` table / report JSON)
+    # before the questions and artefacts are built. `_stat` reads a correlation, `_count` applies the
+    # Defect-27 whole-number rule on top of the shared finite guard, and `_r`/`_text`/`_json_safe` are
+    # the guard on the render/JSON writers, so a poisoned row cannot raise the pass, print `inf` in a
+    # question, or make `p7_discovery.json` unparseable. NOT in GRADE_READERS: `stat`/`p` are
+    # correlations on [-1, 1], not `[0, 1]` grades, so `money.unit_score` is the wrong rule here.
+    "p7_discovery.py": ("_r", "_text", "_json_safe", "_stat", "_count"),
     "p7_report.py": ("_cap_num", "pipeline_cap", "_mean", "_count"),
     # Defect 32: the P4c gate's *count* operands (`sampled >= 200`, `chunks > 0`) read out of
     # `audit.json` and the coverage dict. Same rule as `p7_report._count` (Defect 27), so the same
@@ -96,7 +109,7 @@ ACCESSORS: dict[str, tuple[str, ...]] = {
     # Defect 30: the same two-sided read on the P6 writer path. `num_tokens` tokenises both the
     # writer's own sentence and the extracted evidence, and `number_check_ok` is the P6 gate's
     # "automatic number check 100%"; the 401-digit `inf` self-matched under `0.005 * abs(inf)`.
-    "p6_summary.py": ("num_tokens", "number_check_ok"),
+    "p6_summary.py": ("num_tokens", "number_check_ok", "_count", "_r", "_json_safe"),
 }
 
 # The read of an untrusted LLM *score*. The named function must reach `money.unit_score`, and the

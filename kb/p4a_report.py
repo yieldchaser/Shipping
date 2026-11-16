@@ -61,14 +61,20 @@ def money_total(*sources: dict) -> float | None:
     never wrote the key at all — an absent measurement rendered as a spend. A key present with `0.0`
     is a writer-declared zero (p4a_embed: NIM free tier) and must stay `0.0`. Any source missing the
     key makes the whole total `UNMEASURED`; it must never be silently dropped from the sum.
+
+    Defect 35 (limb 3): the present-value branch was a bare `float(v)`, so a corrupted producer value
+    (`"abc"`, `null`-adjacent junk, a 401-digit literal) raised out of the report instead of reading
+    as the unmeasured spend it is. Each reading goes through `money.as_float`; unreadable -> `None`.
     """
     total: float | None = 0.0
     for src in sources:
-        v = src.get("money_spent_usd")
-        if v is None:
+        if "money_spent_usd" not in src:
+            return None
+        f = M.as_float(src.get("money_spent_usd"))
+        if f is None:
             return None
         if total is not None:
-            total += float(v)
+            total += f
     return total
 
 
@@ -103,8 +109,47 @@ def gate_verdict(hit: float | None, threshold: float | None) -> str:
 
 
 def _r(v: float | None) -> str:
-    """A reported-not-gated measurement: `n/a` when unreadable, never `None` and never `inf`."""
-    return "n/a" if v is None else f"{v}"
+    """A reported-not-gated measurement: `n/a` when unreadable, never `None` and never `inf`.
+
+    Defect 35 (limb 3): the old body tested `v is None` only, so a non-finite read (`inf` from an
+    overflowed byte/seconds division) rendered the literal text `inf` into p4a.md where a human reads
+    a timing. Read through the single-sourced guard instead: unmeasured -> `n/a`, a real read renders.
+    """
+    return "n/a" if M.as_float(v) is None else f"{v}"
+
+
+def _wall_total(*readings) -> float | None:
+    """Sum the phase wall-clock readings; unreadable readings contribute nothing, all-unreadable -> None.
+
+    Defect 35 (limb 3): the old body was `round(float(a.get("wall_seconds", 0.0)) + float(...) + ...)`.
+    `float()` raised `ValueError` on a corrupted string reading (killing the report before the artefact
+    was written) and passed `float("1" + "0"*400)` -> `inf` straight through, so `json.dumps` emitted
+    the non-standard `Infinity` token and made `p4a.json` unparseable. Each reading goes through
+    `money.as_float`, so a broken reading is unavailable, never a fabricated number and never a raise.
+    `None` only when *no* producer wrote a readable timing -- otherwise this is a partial total of the
+    readings that do exist.
+    """
+    total = None
+    for r in readings:
+        f = M.as_float(r)
+        if f is not None:
+            total = f if total is None else total + f
+    return None if total is None else round(total, 1)
+
+
+def _json_safe(obj):
+    """A report tree safe to `json.dumps`: a non-finite float is unmeasured (`null`), never `Infinity`.
+
+    Defect 35 (limb 3): `json.dumps(records)` emits native `Infinity`/`NaN` tokens for a non-finite
+    float, which no strict JSON reader accepts. Shared guard, same shape as `p7_report._json_safe`.
+    """
+    if isinstance(obj, dict):
+        return {str(k): _json_safe(v) for k, v in obj.items()}
+    if isinstance(obj, (list, tuple)):
+        return [_json_safe(v) for v in obj]
+    if isinstance(obj, float) and M.as_float(obj) is None:
+        return None
+    return obj
 
 
 def main() -> int:
@@ -165,8 +210,11 @@ def main() -> int:
     eval_records = evaluation.get("records", [])
     mean_rerank_s = round(sum(c["timing"].get("rerank_s", 0.0) for c in eval_records) /
                           max(len(eval_records), 1), 3)
-    wall = round(float(embed.get("wall_seconds", 0.0)) + float(evaluation.get("wall_seconds", 0.0))
-                 + float(index.get("build_seconds", index.get("wall_seconds", 0.0))), 1)
+    # Defect 35 (limb 3): bare `float(a.get(k, 0.0)) + ...` raised on a corrupted reading and let a
+    # non-finite one through to `json.dumps` (native `Infinity` token, unparseable p4a.json). The
+    # readings delegate to `money.as_float`; an unavailable one contributes nothing.
+    wall = _wall_total(embed.get("wall_seconds"), evaluation.get("wall_seconds"),
+                       index.get("build_seconds", index.get("wall_seconds")))
     records = {
         "phase": "P4a",
         "sample_seed": seed,
@@ -231,7 +279,9 @@ def main() -> int:
         "wall_seconds": wall,
         "verdict": verdict,
     }
-    (REPORTS / "p4a.json").write_text(json.dumps(records, indent=1), encoding="utf-8")
+    # Defect 35 (limb 3): `json.dumps(records)` writes native `Infinity`/`NaN` tokens for a non-finite
+    # float, which no strict JSON reader accepts; sanitise before the artefact hits disk.
+    (REPORTS / "p4a.json").write_text(json.dumps(_json_safe(records), indent=1), encoding="utf-8")
 
     lines = [
         "# P4a — retrieval layer (plan §5.2–§5.5)",
@@ -295,10 +345,12 @@ def main() -> int:
         f"- FTS index: {records['index']['chunks_indexed']} chunks in"
         f" {records['index']['build_seconds']} s, warm probe latency"
         f" {records['index']['probe_latency_s']} s, DB file"
-        f" {round(float(records['index']['db_file_bytes'] or 0) / 1e9, 2)} GB",
+        # Defect 35 (limb 3): the size is read from an on-disk artefact, so it goes through the same
+        # guard -- an unreadable byte count renders `n/a`, never `inf` GB and never `0.00` GB.
+        f" {_r(round((M.as_float(records['index'].get('db_file_bytes')) or 0.0) / 1e9, 2))} GB",
         f"- vectors: {embed.get('rows')} rows × {embed.get('dims')} d, {embed.get('model')},"
         f" {embed.get('requests_total')} requests, {embed.get('tokens_total')} tokens, $0 (NIM free tier)",
-        f"- spend {M.fmt_usd(money)} · wall {wall / 60:.1f} min",
+        f"- spend {M.fmt_usd(money)} · wall {_r(wall)} s",
         "",
         "## Per stratum",
         "",
@@ -333,7 +385,7 @@ def main() -> int:
         lines.append("")
     (REPORTS / "p4a.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"P4a {verdict}: {METRIC}={_r(metric_value)} ({overall['hit_count']}/{overall['n']})"
-          f" wall {wall}s samples {len(sample_records)}")
+          f" wall {_r(wall)}s samples {len(sample_records)}")
     return 0 if verdict == "PASSED" else 1
 
 

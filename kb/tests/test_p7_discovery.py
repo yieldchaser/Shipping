@@ -163,3 +163,88 @@ def test_main_writes_files(db, tmp_path, monkeypatch):
     assert rc == 0 and out.exists() and rep.exists()
     data = json.loads(out.read_text(encoding="utf-8"))
     assert data["counts"]["tests"] >= 1
+
+
+# ---- Defect 35 (limb 3): on-disk stat/count reads, render guards, JSON writers ----
+BIG = float("1" + "0" * 400)
+
+
+def test_unreadable_readings_are_unmeasured_never_raised_or_fabricated():
+    """Defect 35: a poisoned link row must read as unmeasured, not crash and not fake a number.
+
+    `round(r, 4)` raised `OverflowError` on a 401-digit int literal, `float(len(...))`/`int(ln["n"])`
+    raised `TypeError` on a string, and `inf`/`True` passed through as a real statistic.
+    """
+    assert D._stat(BIG) is None
+    assert D._stat(float("inf")) is None and D._stat(float("nan")) is None
+    assert D._stat(True) is None and D._stat("0.5") is None and D._stat(None) is None
+    assert D._stat(0.123456) == 0.1235          # a real read survives, rounded
+    assert D._stat(0.0) == 0.0                  # measured zero is not unmeasured
+
+    assert D._count(BIG) is None
+    assert D._count(float("inf")) is None and D._count(True) is None
+    assert D._count("3") is None and D._count(None) is None
+    assert D._count(2.5) is None                # a broken count, not a rounding
+    assert D._count(3.0) == 3 and D._count(0) == 0
+
+    # the render guards: unmeasured prints `n/a`, never `None`/`True`/`inf`, and an ISO date is text
+    assert D._r(None) == "n/a" and D._r(BIG) == "n/a" and D._r(True) == "n/a"
+    assert D._r(0.5) == "0.5" and D._r(0) == "0"
+    assert D._text("2020-01-01") == "2020-01-01"
+    assert D._text(None) == "n/a" and D._text("nan") == "n/a" and D._text("") == "n/a"
+
+
+def test_json_safe_nullifies_non_finite_so_the_artefact_stays_parsable():
+    """Defect 35: `json.dumps` emits bare `Infinity`/`NaN` tokens for a non-finite float."""
+    safe = D._json_safe({"stat": BIG, "p": float("nan"), "nested": [float("-inf"), {"x": "inf"}]})
+    text = json.dumps(safe)
+    assert "Infinity" not in text and "NaN" not in text
+    assert safe["stat"] is None and safe["p"] is None and safe["nested"][0] is None
+    assert safe["nested"][1]["x"] == "inf"      # a *string* reading is data, left alone
+
+
+def test_a_poisoned_row_degrades_to_sql_null_instead_of_raising(db):
+    """Defect 35: the writer is where a poisoned upstream read used to kill the whole pass."""
+    links = D.add_ids([{"kind": "comovement", "a": "a", "b": "b", "stat": BIG, "p": float("nan"),
+                        "lag": "x", "n": True, "evidence": ["a"]}])
+    w = duckdb.connect(str(db))
+    try:
+        assert D.write_links(w, links) == 1
+        row = w.execute("SELECT stat, p_value, q_value, lag_months, n FROM discovered_link").fetchone()
+    finally:
+        w.close()
+    assert row[0] is None and row[1] is None and row[2] is None
+    assert row[3] is None and row[4] is None
+
+
+def test_main_writes_strict_json_when_a_stat_is_non_finite(db, tmp_path, monkeypatch):
+    """Defect 35, end-to-end: the writer, not just the helper, must keep the artefact parseable.
+
+    Only `json.dumps(_json_safe(...))` survives: the default encoder writes `Infinity`, which
+    `json.loads` (tests here) accepts but no strict JSON reader does, and the raw `default=str`
+    fallback does not sanitise native floats at all.
+    """
+    real_build = D.build
+
+    def poisoned(con, **kw):
+        rep = real_build(con, **kw)
+        rep["links"] = [{"kind": "comovement", "a": "a", "b": "b", "stat": BIG, "p": float("nan"),
+                         "q": float("inf"), "lag": 0, "n": 30, "window_from": None,
+                         "window_to": None, "evidence": ["a"], "link_id": "dl:00001",
+                         "label": "computed"}]
+        rep["counts"]["by_kind"]["comovement"] = 1
+        return rep
+
+    monkeypatch.setattr(D, "build", poisoned)
+    out = tmp_path / "discovery.json"
+    rep_path = tmp_path / "report.json"
+    monkeypatch.setattr(D, "REPORT", rep_path)
+    assert D.main(["--db", str(db), "--out", str(out), "--report"]) == 0
+    for path in (out, rep_path):
+        text = path.read_text(encoding="utf-8")
+        assert "Infinity" not in text and "NaN" not in text, path
+        data = json.loads(text)
+        assert data["links"][0]["stat"] is None
+        assert data["links"][0]["p"] is None
+        assert data["links"][0]["q"] is None
+

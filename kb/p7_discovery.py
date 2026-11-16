@@ -29,6 +29,7 @@ from scipy import stats as sstats
 KB_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(KB_DIR))
 
+import money as M  # noqa: E402
 import tools as T  # noqa: E402
 
 ROOT = KB_DIR.parent
@@ -193,6 +194,74 @@ def window_of(months: list[date]) -> tuple[str | None, str | None]:
     return str(min(months)), str(max(months))
 
 
+# --------------------------------------------------------------------------- read/emit guards
+def _r(v) -> str:
+    """Render a possibly-unmeasured statistic; UNMEASURED must never print as `None`/`True`/`inf`.
+
+    Defect 35 (limb 3): the discovery questions are built from *on-disk* link rows, so a stat or lag
+    that arrived broken (`inf` from an overflowed division, a YAML `true`, the string `"0.5"`) was
+    interpolated straight into the C2 question text. This is the same untrusted-numeric read as
+    `p7_report._r` (Defect 27/34), so it goes through the single-sourced finite guard: unreadable
+    reads as `n/a`, a real read still renders itself.
+    """
+    return "n/a" if M.as_float(v) is None else str(v)
+
+
+def _text(v) -> str:
+    """Render a genuinely-textual artefact field the way `_r` renders a numeric one.
+
+    `window_from`/`window_to` are ISO dates written by this module (`str(min(common))`), not a numeric
+    count, so `_r` would reject the honest `"2020-01-01"` read. An unreadable sentinel (`None`, `""`,
+    `"nan"`, `"inf"`) still reads as `n/a` rather than the literal text `None` (Defect 35).
+    """
+    if not isinstance(v, str):
+        return _r(v)
+    return "n/a" if v.strip().lower() in ("", "none", "nan", "inf", "-inf", "infinity") else v
+
+
+def _json_safe(obj):
+    """A report tree safe to `json.dumps`: a non-finite float is unmeasured (`null`), never `Infinity`.
+
+    Defect 35 (limb 3): both writers below dumped the report raw, so one broken link stat (or the
+    Pearson `inf` produced by dividing by a zero variance) made `p7_discovery.json` *not JSON* —
+    `json.dumps` emits the non-standard tokens `Infinity`/`NaN` by default. Same shared guard as
+    `p7_report._json_safe`, so an unreadable number serialises as `null` (unmeasured).
+    """
+    if isinstance(obj, dict):
+        return {str(k): _json_safe(v) for k, v in obj.items()}
+    if isinstance(obj, (list, tuple)):
+        return [_json_safe(v) for v in obj]
+    if isinstance(obj, float) and M.as_float(obj) is None:
+        return None
+    return obj
+
+
+def _stat(v) -> float | None:
+    """A correlation `stat` read out of a row, rounded to 4 places — or None when unreadable.
+
+    Defect 35 (limb 3): `round(r, 4)` raises `OverflowError` on a 401-digit int literal and passes
+    `inf` through untouched, so a poisoned upstream read crashed the whole discovery pass or wrote
+    `Infinity` into the artefact. Non-finite and non-numeric reads are unmeasured, not a fake number.
+    """
+    f = M.as_float(v)
+    return None if f is None else round(f, 4)
+
+
+def _count(v) -> int | None:
+    """A row count (bridge domains, claim subjects, t-test n) as a true finite whole number — or None.
+
+    Defect 35 (limb 3): `float(len(...))`/`int(ln["n"])` trusted the row, so a string count raised
+    `TypeError` out of the writer and `inf`/`True` passed as a huge count. `M.as_float` rejects
+    bool/NaN/inf; a non-integral result is a broken producer read, not a count.
+    """
+    f = M.as_float(v)
+    if f is None:
+        return None
+    if not f.is_integer():
+        return None
+    return int(f)
+
+
 # --------------------------------------------------------------------------- tests
 def lead_lag(series: dict) -> list[dict]:
     """Co-movement and lead/lag across domains (composite monthly change per domain)."""
@@ -227,10 +296,11 @@ def lead_lag(series: dict) -> list[dict]:
                 if not pr:
                     continue
                 r, p, n = pr
-                if best is None or abs(r) > abs(best["stat"]):
-                    best = {"kind": "lead_lag", "a": a, "b": b, "stat": round(r, 4),
-                            "p": p, "lag": lag, "n": n,
-                            "window_from": str(min(common)), "window_to": str(max(common)),
+                sf = _stat(r)
+                if best is None or (sf is not None and abs(sf) > abs(_stat(best["stat"]) or 0.0)):
+                    best = {"kind": "lead_lag", "a": a, "b": b, "stat": sf,
+                            "p": _stat(p), "lag": _count(lag), "n": _count(n),
+                            "window_from": _text(str(min(common))), "window_to": _text(str(max(common))),
                             "evidence": [f"domain:{a}", f"domain:{b}"],
                             "hops": 2,
                             "oos": oos_ok(xs, ys)}
@@ -254,9 +324,9 @@ def comovement(series: dict) -> list[dict]:
                 if not pr:
                     continue
                 r, p, n = pr
-                out.append({"kind": "comovement", "a": a, "b": b, "stat": round(r, 4), "p": p,
-                            "lag": 0, "n": n,
-                            "window_from": str(min(common)), "window_to": str(max(common)),
+                out.append({"kind": "comovement", "a": a, "b": b, "stat": _stat(r), "p": _stat(p),
+                            "lag": 0, "n": _count(n),
+                            "window_from": _text(str(min(common))), "window_to": _text(str(max(common))),
                             "evidence": [a, b], "hops": 2, "oos": oos_ok(x, y),
                             "names": [series[a]["name"], series[b]["name"]]})
     return out
@@ -288,8 +358,8 @@ def bridges(series: dict, con) -> list[dict]:
             continue
         dom_list = sorted(doms)
         out.append({"kind": "bridge", "a": ent, "b": "+".join(dom_list),
-                    "stat": float(len(dom_list)), "p": 0.0, "lag": 0,
-                    "n": sum(len(v) for v in doms.values()),
+                    "stat": _count(len(dom_list)), "p": 0.0, "lag": 0,
+                    "n": _count(sum(len(v) for v in doms.values())),
                     "window_from": None, "window_to": None,
                     "evidence": sorted({s for v in doms.values() for s in v})[:20],
                     "hops": 3, "oos": True,
@@ -327,9 +397,9 @@ def event_study(series: dict, con) -> list[dict]:
                 continue
             if not np.isfinite(p):
                 continue
-            out.append({"kind": "event", "a": str(event_id), "b": dom, "stat": round(float(t), 4),
-                        "p": float(p), "lag": 0, "n": len(after) + len(before),
-                        "window_from": str(d), "window_to": None,
+            out.append({"kind": "event", "a": str(event_id), "b": dom, "stat": _stat(t),
+                        "p": _stat(p), "lag": 0, "n": _count(len(after) + len(before)),
+                        "window_from": _text(str(d)), "window_to": None,
                         "evidence": [str(event_id)], "hops": 2, "oos": True})
     return out
 
@@ -376,8 +446,8 @@ def claims_cross_domain(series: dict, con) -> list[dict]:
         if len(doms) < 2:
             continue
         out.append({"kind": "claims", "a": str(claim_id), "b": "+".join(sorted(doms)),
-                    "stat": float(len(doms)), "p": 0.0, "lag": 0, "n": len(parsed),
-                    "window_from": str(published) if published else None, "window_to": None,
+                    "stat": _count(len(doms)), "p": 0.0, "lag": 0, "n": _count(len(parsed)),
+                    "window_from": _text(str(published)) if published else None, "window_to": None,
                     "evidence": [str(claim_id)] + [str(s) for s in parsed][:10],
                     "hops": 3, "oos": True})
     return out
@@ -402,7 +472,8 @@ def survive(tests: list[dict], alpha: float = ALPHA) -> list[dict]:
 
 def add_ids(links: list[dict]) -> list[dict]:
     out = []
-    for i, ln in enumerate(sorted(links, key=lambda d: (-abs(d["stat"]), d["kind"], d["a"], d["b"]))):
+    for i, ln in enumerate(sorted(links, key=lambda d: (
+            -abs(M.as_float(d.get("stat")) or 0.0), d["kind"], d["a"], d["b"]))):
         ln = dict(ln)
         ln["link_id"] = f"dl:{i + 1:05d}"
         ln["label"] = "computed"
@@ -411,9 +482,12 @@ def add_ids(links: list[dict]) -> list[dict]:
 
 
 def _score(ln: dict) -> float:
+    """Rank a link; an unreadable stat/n contributes nothing rather than crashing the ranking."""
+    n = _count(ln.get("n")) or 0
+    s = abs(M.as_float(ln.get("stat")) or 0.0)
     if ln["kind"] in ("lead_lag", "comovement"):
-        return abs(ln["stat"]) * math.sqrt(max(1, ln["n"]))
-    return math.sqrt(max(1, ln["n"])) * (1.0 + 0.1 * abs(ln["stat"]))
+        return s * math.sqrt(max(1, n))
+    return math.sqrt(max(1, n)) * (1.0 + 0.1 * s)
 
 
 def findings(links: list[dict], n: int = MAX_FINDINGS) -> list[dict]:
@@ -437,8 +511,10 @@ def bridge_questions(links: list[dict], n: int = N_QUESTIONS) -> list[dict]:
                  f"Cite every hop.")
             hops = 3
         elif ln["kind"] == "lead_lag":
-            q = (f"Between {ln['window_from']} and {ln['window_to']}, did {ln['a']} move "
-                 f"{abs(ln['lag'])} month(s) {'ahead of' if ln['lag'] > 0 else 'behind'} "
+            lag = _count(ln.get("lag"))
+            q = (f"Between {_text(ln.get('window_from'))} and {_text(ln.get('window_to'))}, did "
+                 f"{ln['a']} move {_r(abs(lag) if lag is not None else None)} month(s) "
+                 f"{'ahead of' if (lag or 0) > 0 else 'behind'} "
                  f"{ln['b']}? Quantify it, then find the documents that connect the two domains.")
             hops = 4
         elif ln["kind"] == "comovement":
@@ -455,6 +531,7 @@ def bridge_questions(links: list[dict], n: int = N_QUESTIONS) -> list[dict]:
 
 # --------------------------------------------------------------------------- write
 def write_links(con, links: list[dict]) -> int:
+    """Persist computed links; a poisoned row degrades to SQL NULL, it never raises out of the pass."""
     con.execute(DDL)
     con.execute("DELETE FROM discovered_link")
     for ln in links:
@@ -462,9 +539,10 @@ def write_links(con, links: list[dict]) -> int:
             "INSERT INTO discovered_link (link_id, kind, a, b, stat, p_value, q_value,"
             " lag_months, n, window_from, window_to, evidence_ids, method, label)"
             " VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'computed')",
-            [ln["link_id"], ln["kind"], ln["a"], ln["b"], float(ln["stat"]),
-             float(ln["p"]), float(ln.get("q") or 0.0), int(ln.get("lag") or 0),
-             int(ln["n"]), ln.get("window_from"), ln.get("window_to"),
+            [ln["link_id"], ln["kind"], ln["a"], ln["b"], _stat(ln.get("stat")),
+             _stat(ln.get("p")), _stat(ln.get("q")),
+             _count(ln.get("lag") or 0), _count(ln.get("n")),
+             ln.get("window_from"), ln.get("window_to"),
              list(ln.get("evidence") or []),
              "pearson_monthly_pct_change_bh_fdr_oos" if ln["kind"] in ("lead_lag", "comovement")
              else "descriptive_evidence"])
@@ -518,10 +596,13 @@ def main(argv: list[str] | None = None) -> int:
         con.close()
     out = Path(args.out)
     out.parent.mkdir(parents=True, exist_ok=True)
-    out.write_text(json.dumps(report, indent=1), encoding="utf-8")
+    # Defect 35 (limb 3): `json.dumps` emits `Infinity`/`NaN` for a non-finite float, so a broken
+    # link stat would make this artefact unparseable. Sanitise once, write both files from it.
+    payload = json.dumps(_json_safe(report), indent=1)
+    out.write_text(payload, encoding="utf-8")
     if args.report:
         REPORT.parent.mkdir(parents=True, exist_ok=True)
-        REPORT.write_text(json.dumps(report, indent=1), encoding="utf-8")
+        REPORT.write_text(payload, encoding="utf-8")
     c = report["counts"]
     print(f"series {c['series']} tests {c['tests']} survivors {c['survivors']} "
           f"findings {c['findings']} questions {c['questions']} written {c['written']}")

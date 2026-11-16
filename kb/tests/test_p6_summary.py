@@ -859,3 +859,100 @@ def test_write_node_keeps_one_row_when_the_first_attempt_succeeds(monkeypatch, t
     rows = _judge_rows(ledger, "p6_summary")
     assert len(rows) == 1, rows
     assert rows[0][0] == "p6:stable"
+
+
+# ------------------------------------------------ Defect 35 (limb 3): unguarded numeric paths
+BIG = float("1" + "0" * 400)
+
+
+def test_unreadable_token_counts_and_cost_are_unmeasured_not_raised_or_fabricated(monkeypatch, tmp_path):
+    """Defect 35 limb 3: the ledger write trusted the provider payload.
+
+    `int(usage.get("prompt_tokens") or 0)` raised `ValueError` on a string count (losing the row and
+    the measured cost with it); `float(cost)` raised on a non-numeric provider value and passed
+    `inf` through to the ledger as fabricated phase spend. An unreadable reading is UNMEASURED
+    (SQL NULL), the row is still written, and a genuine `0`/`0.0` stays a measured zero.
+    """
+    import sqlite3
+
+    ledger = _scratch_ledger(monkeypatch, tmp_path)
+
+    # a poisoned usage block with a measured provider cost: the cost must survive
+    assert P._log("p6:poisoned-tok", "p6_summary", P.WRITER_MODEL,
+                  {"prompt_tokens": "many", "cached_tokens": BIG, "completion_tokens": True,
+                   "cost": 0.002}) == pytest.approx(0.002)
+    # a non-numeric provider cost: UNMEASURED, never 0.0 and never a raise
+    assert P._log("p6:poisoned-cost", "p6_summary", P.WRITER_MODEL,
+                  {"prompt_tokens": 10, "completion_tokens": 2}, cost="free") is None
+    assert P._log("p6:inf-cost", "p6_summary", P.WRITER_MODEL,
+                  {"prompt_tokens": 10, "completion_tokens": 2}, cost=BIG) is None
+    # a genuine zero and a genuine whole count are measurements, not unmeasured
+    assert P._log("p6:zero", "p6_summary", P.WRITER_MODEL,
+                  {"prompt_tokens": 0, "cached_tokens": 0, "completion_tokens": 0},
+                  cost=0.0) == 0.0
+
+    con = sqlite3.connect(f"file:{ledger}?mode=ro", uri=True)
+    try:
+        rows = {r[0]: r[1:] for r in con.execute(
+            "SELECT job_key, in_tok, cached_tok, out_tok, cost_usd FROM jobs").fetchall()}
+    finally:
+        con.close()
+    assert rows["p6:poisoned-tok"] == (None, None, None, pytest.approx(0.002))
+    assert rows["p6:poisoned-cost"][3] is None
+    assert rows["p6:inf-cost"][3] is None
+    assert rows["p6:zero"] == (0, 0, 0, 0.0)
+
+
+def test_count_reads_a_true_finite_whole_number_or_unmeasured():
+    assert P._count(BIG) is None and P._count(float("inf")) is None and P._count(True) is None
+    assert P._count("7") is None and P._count(None) is None and P._count(2.5) is None
+    assert P._count(7.0) == 7 and P._count(0) == 0
+
+
+def test_render_guard_never_prints_none_or_inf_as_a_measurement():
+    assert P._r(None) == "UNMEASURED" and P._r(BIG) == "UNMEASURED"
+    assert P._r(True) == "UNMEASURED" and P._r("0.5") == "UNMEASURED"
+    assert P._r(0.98) == "0.98" and P._r(0) == "0"
+    assert P._r(None, unmeasured="n/a") == "n/a"
+
+
+def test_md_renders_an_ungraded_or_unreadable_judge_as_unmeasured(monkeypatch, tmp_path):
+    """The markdown renderer interpolated report fields raw, printing literal `None`/`inf`."""
+    monkeypatch.setattr(P, "phase_spend_usd", lambda: None)
+    index = {"n:a": {"grain": "month", "segment": "capesize", "period": "2026-03", "input_hash": "x",
+                     "summary": "s", "sentences": [{"sentence": "s", "cites": ["obs:1"]}]}}
+    build = {"counts": {"leaves": 1, "parents_q": 0, "parents_y": 0, "cached": 0, "empty": 0,
+                        "sentences": 1, "dropped": 0}, "wall_seconds": BIG}
+    rep = P.build_report(index, build, {"faithful_rate": BIG, "sampled": None, "mean_score": None})
+    md = P._md(rep)
+    assert "None" not in md and "inf" not in md.lower()
+    assert "UNMEASURED" in md
+
+
+def test_json_safe_and_the_p6_writers_keep_the_artefact_strict_json(db, monkeypatch, tmp_path):
+    """Defect 35 limb 3, end-to-end: `default=str` does not sanitise a native non-finite float.
+
+    `json.dumps` emits the non-standard `Infinity`/`NaN` tokens for a raw float, so P6.json was not
+    parseable by any strict reader. Only the recursive sanitiser (a poison field -> `null`) survives.
+    """
+    safe = P._json_safe({"faithful_rate": BIG, "nested": [float("nan"), {"x": "inf"}]})
+    text = json.dumps(safe, default=str)
+    assert "Infinity" not in text and "NaN" not in text
+    assert safe["faithful_rate"] is None and safe["nested"][0] is None
+    assert safe["nested"][1]["x"] == "inf"  # a string reading is data, left alone
+
+    monkeypatch.setattr(P, "REPORTS", tmp_path)
+    monkeypatch.setattr(P, "phase_spend_usd", lambda: None)
+    index = {"n:a": {"grain": "month", "segment": "capesize", "period": "2026-03", "input_hash": "x",
+                     "summary": "s [obs:1]", "sentences": [{"sentence": "s", "cites": ["obs:1"]}]}}
+    build = {"counts": {"leaves": 1, "parents_q": 0, "parents_y": 0, "cached": 0, "empty": 0,
+                        "sentences": 1, "dropped": 0}, "wall_seconds": BIG, "sample_nodes": []}
+    monkeypatch.setattr(P, "build_tree", lambda *a, **k: build)
+    monkeypatch.setattr(P, "load_index", lambda: index)
+    rc = P.main(["--report", "--db", str(db)])
+    assert rc in (0, 1)
+    text = (tmp_path / "P6.json").read_text(encoding="utf-8")
+    assert "Infinity" not in text and "NaN" not in text
+    assert json.loads(text)["wall_seconds"] is None
+    assert "UNMEASURED" in (tmp_path / "P6.md").read_text(encoding="utf-8")
+

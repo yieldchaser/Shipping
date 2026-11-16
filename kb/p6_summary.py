@@ -97,6 +97,51 @@ def clamp_score(value) -> float | None:
     return M.unit_score(value)
 
 
+def _count(value) -> int | None:
+    """A token/row tally read out of an untrusted usage block as a true finite whole number, else None.
+
+    Defect 35 (limb 3): `int(usage.get("prompt_tokens") or 0)` trusted the provider payload, so a
+    string count raised `ValueError` out of the ledger write (losing the whole row, and with it the
+    measured cost) while `inf`/`true` booked a fabricated token total. Same rule as every other count
+    in the codebase -- `money.as_float` rejects bool/NaN/inf, and a non-integral result is a broken
+    producer read, not a count. UNMEASURED is `None` (SQL NULL), never a measured `0`.
+    """
+    f = M.as_float(value)
+    if f is None:
+        return None
+    if not f.is_integer():
+        return None
+    return int(f)
+
+
+def _r(v, unmeasured: str = "UNMEASURED") -> str:
+    """Render a possibly-unmeasured report number; an unavailable read never prints as `None`/`inf`.
+
+    Defect 35 (limb 3): the markdown renderer interpolated report fields raw, so an unreadable field
+    (judge never ran, ledger unreadable, JSON written by another phase) printed the literal text
+    `None`/`nan`/`Infinity` into P6.md where a human reads a measurement. Same contract as
+    `p7_report._r` and `p4c_report._r`: unreadable reads as `UNMEASURED`, a real read still renders.
+    """
+    return unmeasured if M.as_float(v) is None else str(v)
+
+
+def _json_safe(obj):
+    """A report tree safe to `json.dumps`: a non-finite float is unmeasured (`null`), never `Infinity`.
+
+    Defect 35 (limb 3): the P6 writers relied on `default=str`, which is only consulted for values the
+    encoder cannot handle at all -- native floats are handled, so `inf`/`nan` went out as the
+    non-standard `Infinity`/`NaN` tokens and made `P6.json` unparseable by any strict reader. Same
+    shared guard as `p7_report._json_safe`.
+    """
+    if isinstance(obj, dict):
+        return {str(k): _json_safe(v) for k, v in obj.items()}
+    if isinstance(obj, (list, tuple)):
+        return [_json_safe(v) for v in obj]
+    if isinstance(obj, float) and M.as_float(obj) is None:
+        return None
+    return obj
+
+
 # plan §8 segments, plus `company:<ticker>` nodes (quarterly)
 SEGMENT_PATTERNS: list[tuple[str, tuple[str, ...]]] = [
     ("capesize", (r"\bcapesize\b", r"\bcape\s+size\b", r"\bbci\b", r"\bc5\b", r"\bc3\b", r"\btubarao\b")),
@@ -481,8 +526,11 @@ def _log(job_key: str, pass_name: str, model: str, usage: dict | None, cost: flo
             cost = R.cost_usd(model, usage)
         except Exception:  # noqa: BLE001 - unknown model / unreadable config: do not lose the row
             cost = None
-    if cost is not None:
-        cost = float(cost)
+    # Defect 35 (limb 3): `float(cost)` raised on a non-numeric provider value and passed `inf`/`nan`
+    # straight through to the ledger, where it fabricated phase spend. Read it through the
+    # single-sourced guard: an unreadable cost is UNMEASURED (`None` -> SQL NULL), never `0.0`, and
+    # never an exception that would lose the row.
+    cost = M.as_float(cost)
     try:
         con = R.connect()
         con.execute(
@@ -493,8 +541,12 @@ def _log(job_key: str, pass_name: str, model: str, usage: dict | None, cost: flo
                    out_tok=excluded.out_tok, cost_usd=COALESCE(excluded.cost_usd, jobs.cost_usd),
                    error=excluded.error""",
             (job_key, pass_name, "p6-v1", model, status, 1, "",
-             int(usage.get("prompt_tokens") or 0), int(usage.get("cached_tokens") or 0),
-             int(usage.get("completion_tokens") or 0), cost, None, 0, None, error,
+             # Defect 35 (limb 3): the same untrusted usage block, token counts through the count
+             # rule above -- a string count raised `ValueError` out of the ledger write, `inf`/`true`
+             # booked a fabricated token total. An unreadable count is UNMEASURED (`NULL`); the row
+             # and the measured cost are still recorded.
+             _count(usage.get("prompt_tokens")), _count(usage.get("cached_tokens")),
+             _count(usage.get("completion_tokens")), cost, None, 0, None, error,
              time.strftime("%Y-%m-%dT%H:%M:%S"), json.dumps(meta or {})[:2000]))
         con.commit()
         con.close()
@@ -932,13 +984,14 @@ def _md(report: dict) -> str:
         f"- sentences kept {report['sentences_kept']}, rule-dropped {c['dropped']}",
         f"- automatic number check: pass rate {report['number_check']['pass_rate']} "
         f"(kept-sentence failures {report['number_check']['kept_sentences_with_number_failure']})",
-        f"- judge faithfulness: {j.get('faithful_rate')} over {j.get('sampled')} nodes "
-        f"(mean score {j.get('mean_score')}, need >= 0.95)",
-        f"- judge graded {j.get('graded', j.get('sampled'))} · ungraded {j.get('ungraded', 0)} "
-        f"(rate {j.get('ungraded_rate')}; ungraded rows block the gate)",
+        f"- judge faithfulness: {_r(j.get('faithful_rate'))} over {_r(j.get('sampled'))} nodes "
+        f"(mean score {_r(j.get('mean_score'))}, need >= 0.95)",
+        f"- judge graded {_r(j.get('graded', j.get('sampled')))} · "
+        f"ungraded {_r(j.get('ungraded', 0))} "
+        f"(rate {_r(j.get('ungraded_rate'))}; ungraded rows block the gate)",
         "- spend "
         + M.fmt_usd(report.get("spend_usd"), unmeasured="UNMEASURED (ledger unreadable)")
-        + f", wall {report['wall_seconds']}s",
+        + f", wall {_r(report['wall_seconds'])}s",
         f"- gate: {'PASSED' if report['gate_passed'] else 'FAILED'}",
         "",
         "## Sample nodes",
@@ -976,11 +1029,14 @@ def main(argv: list[str] | None = None) -> int:
     index = load_index()
     judge = run_judge(index) if args.judge else None
     report = build_report(index, build, judge)
-    print(json.dumps({"counts": report["counts"], "judge": report["judge"],
-                      "gate_passed": report["gate_passed"]}, indent=2, default=str))
+    # Defect 35 (limb 3): `default=str` does not sanitise a native non-finite float, so a broken
+    # report field would emit `Infinity`/`NaN` and make P6.json unparseable. Sanitise once.
+    safe = _json_safe(report)
+    print(json.dumps({"counts": safe["counts"], "judge": safe["judge"],
+                      "gate_passed": safe["gate_passed"]}, indent=2, default=str))
     if args.report:
         REPORTS.mkdir(parents=True, exist_ok=True)
-        (REPORTS / "P6.json").write_text(json.dumps(report, indent=2, default=str), encoding="utf-8")
+        (REPORTS / "P6.json").write_text(json.dumps(safe, indent=2, default=str), encoding="utf-8")
         (REPORTS / "P6.md").write_text(_md(report), encoding="utf-8")
         print("wrote kb/reports/P6.json + P6.md")
     return 0 if (not args.report or report["gate_passed"]) else 1
