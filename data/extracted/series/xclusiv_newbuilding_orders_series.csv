@@ -1378,3 +1378,16 @@ issue_date,report_week,type,units,size,yard,buyer,price,delivery,comments,page,s
 2026-11-09,45,TANKER,2,"50,000 DWT",ZHOUSHAN CHANGHONG,TORM,46 EACH,2030,OPTIONS,4,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
 2026-11-09,45,TANKER,2,"40,000 DWT",KITANIHON,JAPANESE OWNER,n/A,2029,"STST, TC TO ODFJELL",4,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
 2026-11-09,45,TANKER,2,"24,200 DWT",DSOC DALIAN,UNION MARITIME,N/A,2028,,4,xclusiv_10_11_2026_xclusiv_shipbrokers_weekly_09th_november_2026.pdf
+2026-11-16,45,TANKER,6,"307,000 DWT",COSCO HI YANGZHOU,COSCO SHIPPING ENERGY,142 EACH,2029-30,LNG READY,4,xclusiv_17_11_2026_xclusiv_shipbrokers_weekly_16th_november_2026.pdf
+2026-11-16,45,TANKER,4,"307,000 DWT",DALIAN,COSCO SHIPPING ENERGY,147.25 EACH,2029-30,LNG/METH READY,4,xclusiv_17_11_2026_xclusiv_shipbrokers_weekly_16th_november_2026.pdf
+2026-11-16,45,TANKER,1,"320,000 DWT",HANWHA OCEAN,DHT MANAGEMENT,N/A,2029,,4,xclusiv_17_11_2026_xclusiv_shipbrokers_weekly_16th_november_2026.pdf
+2026-11-16,45,TANKER,2+2,"157,000 DWT",DH SHIPBUILDING,TEEKAY,93 EACH,2030,,4,xclusiv_17_11_2026_xclusiv_shipbrokers_weekly_16th_november_2026.pdf
+2026-11-16,45,TANKER,4,"115,000 DWT",DALIAN,CMG NANJING TANKER,N/A,2029,"LR, METH READY",4,xclusiv_17_11_2026_xclusiv_shipbrokers_weekly_16th_november_2026.pdf
+2026-11-16,45,LNG,2,"174,000 CBM",HYUNDAI,THENAMARIS,247 EACH,2029,,4,xclusiv_17_11_2026_xclusiv_shipbrokers_weekly_16th_november_2026.pdf
+2026-11-16,45,LPG,4,"9,000 CBM",HYUNDAI,NAFTOMAR,N/A,2028-29,SEMI REF,4,xclusiv_17_11_2026_xclusiv_shipbrokers_weekly_16th_november_2026.pdf
+2026-11-16,45,GC,1,"9,200 DWT",CSSC GUANGXI,VE NA DI NAVIGAZIONE,N/A,2028,,4,xclusiv_17_11_2026_xclusiv_shipbrokers_weekly_16th_november_2026.pdf
+2026-11-16,45,BC,1,"82,000 DWT",OSHIMA,AE NOMIKOS,N/A,2030,SCRUBBER FITTED,4,xclusiv_17_11_2026_xclusiv_shipbrokers_weekly_16th_november_2026.pdf
+2026-11-16,45,CONTAINER,2,"9,200 TEU",HUANGPU WENCHONG,RCL,106.5 EACH,2030,,4,xclusiv_17_11_2026_xclusiv_shipbrokers_weekly_16th_november_2026.pdf
+2026-11-16,45,LPG,2,"48,000 CBM",HUANGPU WENCHONG,BENELUX OVERSEAS,N/A,2030,,4,xclusiv_17_11_2026_xclusiv_shipbrokers_weekly_16th_november_2026.pdf
+2026-11-16,45,LPG,1,"102,000 CBM",JIANGNAN,,165,2030,LPG DF,4,xclusiv_17_11_2026_xclusiv_shipbrokers_weekly_16th_november_2026.pdf
+2026-11-16,45,CONTAINER,4,"3,700 TEU",CHENGXI,PETER DOEHLE,49 EACH,2029,,4,xclusiv_17_11_2026_xclusiv_shipbrokers_weekly_16th_november_2026.pdf
