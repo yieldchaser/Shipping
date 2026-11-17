@@ -21,9 +21,12 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import os
+import random
 import re
 import sys
 import time
+import urllib.error
 import uuid
 from pathlib import Path
 
@@ -302,6 +305,43 @@ def _book(model: str, usage: dict, cost: float | None, *, status: str = "ok",
     return cost
 
 
+# Defect 41 (measured, 2026-11-17): `ask._chat` is the ONE funnel every paid P7 call takes -- the
+# writer planner/composer, the glm escalation, the Gemma judge, the backtest and the rubric set -- and
+# it had NO transient-retry ladder, while `runner.Runner._one` (`runner.py:422-445`) retries 429/5xx
+# with exponential backoff. Measured consequence: the rubric slice lost 11 of 30 questions to
+# `HTTP Error 429: Too Many Requests` / `503`, and the first real backtest run died outright on a 429,
+# so the P7 gate could not be measured at all. A 429/503 is the provider telling us to come back, not
+# a verdict about the corpus; treating it as one silently converts a rate limit into a failed gate.
+# Bounded (never an infinite loop) and env-overridable, mirroring the `KB_AMD_*` knob convention.
+RETRY_ATTEMPTS = 4          # total tries per logical call, counting the first
+RETRY_BASE_S = 2.0          # backoff base: base * 2**attempt
+RETRY_MAX_S = 30.0          # per-sleep ceiling, as in runner.Runner._one
+
+
+def _retry_attempts() -> int:
+    try:
+        return max(1, int(os.environ.get("KB_RETRY_ATTEMPTS", RETRY_ATTEMPTS)))
+    except (TypeError, ValueError):
+        return RETRY_ATTEMPTS
+
+
+def _is_transient(exc: BaseException) -> bool:
+    """Only states that mean "the request never ran" are retryable.
+
+    A 429/5xx or a transport error may succeed on a later try; anything else (no key, bad request,
+    a decode failure we cannot attribute to the network) is a real error and must not be retried,
+    so a genuine fault cannot be laundered into a later success.
+    """
+    if isinstance(exc, urllib.error.HTTPError):
+        return exc.code == 429 or exc.code >= 500
+    return isinstance(exc, (urllib.error.URLError, TimeoutError, ConnectionError))
+
+
+def _retry_sleep(attempt: int) -> None:
+    """Backoff between tries. Module-level so tests can make it a no-op."""
+    time.sleep(min(RETRY_MAX_S, RETRY_BASE_S * (2 ** attempt)) + random.random())
+
+
 def _chat(model: str, messages: list[dict], max_tokens: int = 400,
           timeout_s: int = 180) -> tuple[str, dict, float | None]:
     """One model call. Third element = cost, or `None` when the call could not be priced.
@@ -309,12 +349,27 @@ def _chat(model: str, messages: list[dict], max_tokens: int = 400,
     `None` covers "no usage block came back", "unknown model", and "config price still null" --
     all states where any number we invented would be a fabricated measurement (Defect 17/21 class).
     A genuinely free route still reports its explicit `0.0` tariff, so the two stay distinct.
+
+    Defect 41: rides a bounded backoff ladder over transient 429/5xx/transport failures (see
+    `_is_transient`). Each try re-enters `llm_runner.chat`, which re-picks a key, so a per-account
+    free-pool limit is soft. Only the logical call's FINAL outcome is booked: a 429 incurred no
+    provider-side usage, so booking a row per try would invent a measurement to go with it.
     """
     t0 = time.time()
+    tries = _retry_attempts()
     try:
-        body = llm_runner.chat(model, messages, max_tokens=max_tokens, temperature=0.0,
-                               timeout_s=timeout_s)
-    except Exception as exc:  # noqa: BLE001 - bill the attempt, then let the caller degrade
+        for attempt in range(tries):
+            try:
+                body = llm_runner.chat(model, messages, max_tokens=max_tokens, temperature=0.0,
+                                       timeout_s=timeout_s)
+                break
+            except Exception as exc:  # noqa: BLE001 - classify, then either back off or degrade
+                if attempt + 1 >= tries or not _is_transient(exc):
+                    raise
+                _retry_sleep(attempt)
+        else:  # pragma: no cover - unreachable: the loop either breaks or raises
+            raise RuntimeError("retry ladder fell through")
+    except Exception as exc:  # noqa: BLE001 - bill the logical call, then let the caller degrade
         _book(model, {}, None, status="error", error=f"{type(exc).__name__}: {exc}",
               latency_ms=int((time.time() - t0) * 1000))
         raise

@@ -476,6 +476,42 @@ def test_hit_rate_reported_is_false_when_no_call_was_scored(db, monkeypatch):
     assert P.hit_rate_reported({}) is False
 
 
+def test_the_module_is_actually_runnable_as_the_documented_cli():
+    """Defect 40 family: `main()` existed but the `__main__` guard did not.
+
+    `python kb/p7_analyst.py --backtest` therefore exited 0 having run NOTHING and written no
+    artefact, so `kb/p7_report.py --backtest` graded `present: False` while the phase looked clean.
+    The unit tests all call `P.main([...])` in-process, so a missing guard was structurally invisible
+    to them. This asserts the entry point is reachable as a script -- an AST check, not a subprocess,
+    because the real `main` would hit the network.
+    """
+    import ast
+    src = (KB / "p7_analyst.py").read_text(encoding="utf-8")
+    tree = ast.parse(src)
+    guards = [n for n in tree.body if isinstance(n, ast.If)
+              and "__main__" in ast.unparse(n.test)]
+    assert guards, "kb/p7_analyst.py has main() but no `if __name__ == '__main__'` guard"
+    body = ast.unparse(guards[0])
+    assert "main()" in body, body
+    # and the guard must PROPAGATE main's fail-closed verdict, not mask it with a bare 0
+    assert "SystemExit" in body or "sys.exit" in body, body
+
+
+def test_every_kb_entrypoint_with_a_main_is_reachable_as_a_script():
+    """The same shape across the phase CLIs: a `main()` without a guard is an unreachable entry point."""
+    import ast
+    missing = []
+    for name in ("p7_analyst", "p7_eval", "p7_report", "p7_discovery", "p7_rubric", "p6_summary",
+                 "gold_set", "ask"):
+        tree = ast.parse((KB / f"{name}.py").read_text(encoding="utf-8"))
+        if not any(isinstance(n, (ast.FunctionDef, ast.AsyncFunctionDef)) and n.name == "main"
+                   for n in tree.body):
+            continue
+        if not any(isinstance(n, ast.If) and "__main__" in ast.unparse(n.test) for n in tree.body):
+            missing.append(name)
+    assert not missing, f"kb CLIs unreachable as scripts: {missing}"
+
+
 def test_artefact_carries_writer_and_judge_families(db, monkeypatch):
     """§12.3: the artefact must let a report assert the judge is cross-family, not just claim it."""
     monkeypatch.setattr(P.A, "_resolver", lambda con, cache: (lambda h: True))

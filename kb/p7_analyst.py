@@ -755,3 +755,13 @@ def main(argv=None) -> int:
     # went could exit 0.
     status = res.get("status")
     return 0 if status in SUCCESS_STATUSES else 1
+
+
+# Defect 40 family: this module had `main()` but NO `__main__` guard, so the documented P7 CLI
+# (`python kb/p7_analyst.py --backtest`) exited 0 without running anything and wrote no artefact --
+# `p7_report --backtest` then graded `present: False` while the phase looked fine. Every other kb
+# entry point (`p7_eval`, `p7_report`, `p7_discovery`, `p7_rubric`, `p6_summary`, `gold_set`, `ask`)
+# carries the guard; the tests call `P.main([...])` directly, so a missing guard was invisible to
+# them. Exit code is `main`'s fail-closed verdict, never 0-by-default.
+if __name__ == "__main__":
+    raise SystemExit(main())

@@ -487,6 +487,106 @@ def test_failed_chat_is_booked_as_an_error_row(tmp_path, monkeypatch):
     assert len(rows) == 1 and rows[0][2] == "error"
 
 
+# ------------------------------------------- ask: transient retry ladder (Defect 41)
+def _http_error(code: int) -> "urllib.error.HTTPError":
+    import urllib.error
+    return urllib.error.HTTPError("http://x/y", code, f"HTTP {code}", {}, None)
+
+
+def _no_sleep(monkeypatch):
+    import ask as _A
+    monkeypatch.setattr(_A, "_retry_sleep", lambda attempt: None)
+
+
+def test_a_rate_limit_is_retried_instead_of_failing_the_logical_call(tmp_path, monkeypatch):
+    """Measured defect 41: 11 of 30 rubric questions died on HTTP 429 with no retry anywhere.
+
+    A 429 is the provider saying "come back later", not a verdict about the corpus, so the logical
+    call must survive it -- and book ONE row for the logical call, not one per wasted try.
+    """
+    path, _ = _scratch_ledger(tmp_path, monkeypatch)
+    _no_sleep(monkeypatch)
+    tries = {"n": 0}
+
+    def flaky(model, messages, **kw):
+        tries["n"] += 1
+        if tries["n"] == 1:
+            raise _http_error(429)
+        return {"choices": [{"message": {"content": "hi"}}],
+                "usage": {"prompt_tokens": 10, "completion_tokens": 5}}
+
+    monkeypatch.setattr(A.llm_runner, "chat", flaky)
+    text, _usage, _cost = A._chat(A.DEFAULT_MODEL, [{"role": "user", "content": "x"}])
+    assert text == "hi" and tries["n"] == 2, "one retry recovers the call"
+    rows = _rows(path)
+    assert len(rows) == 1 and rows[0][2] == "ok", "one row per logical call, status ok"
+
+
+def test_a_5xx_is_retried_and_an_exhausted_ladder_still_fails_closed(tmp_path, monkeypatch):
+    """Exhausting the ladder must raise: never launder a rate limit into a graded zero."""
+    path, _ = _scratch_ledger(tmp_path, monkeypatch)
+    _no_sleep(monkeypatch)
+    monkeypatch.setenv("KB_RETRY_ATTEMPTS", "3")
+    tries = {"n": 0}
+
+    def always_503(model, messages, **kw):
+        tries["n"] += 1
+        raise _http_error(503)
+
+    monkeypatch.setattr(A.llm_runner, "chat", always_503)
+    with pytest.raises(Exception) as err:
+        A._chat(A.DEFAULT_MODEL, [{"role": "user", "content": "x"}])
+    assert "503" in str(err.value)
+    assert tries["n"] == 3, "the ladder is bounded by KB_RETRY_ATTEMPTS"
+    rows = _rows(path)
+    assert len(rows) == 1 and rows[0][2] == "error"
+    assert rows[0][6] is None, "a failed logical call is UNMEASURED, not a $0.00"
+
+    monkeypatch.delenv("KB_RETRY_ATTEMPTS", raising=False)
+    assert A._retry_attempts() == A.RETRY_ATTEMPTS, "the default is restored when unset"
+
+
+def test_a_permanent_error_is_not_retried(tmp_path, monkeypatch):
+    """A 400 is a real fault. Retrying it would just burn budget and hide the cause."""
+    _scratch_ledger(tmp_path, monkeypatch)
+    _no_sleep(monkeypatch)
+    tries = {"n": 0}
+
+    def bad_request(model, messages, **kw):
+        tries["n"] += 1
+        raise _http_error(400)
+
+    monkeypatch.setattr(A.llm_runner, "chat", bad_request)
+    with pytest.raises(Exception):
+        A._chat(A.DEFAULT_MODEL, [{"role": "user", "content": "x"}])
+    assert tries["n"] == 1, "non-transient failures fail on the first try"
+
+
+def test_only_rate_limits_and_transport_faults_are_classified_transient(monkeypatch):
+    """The ladder's admission test is the thing that decides the cost of an outage."""
+    import urllib.error
+    assert A._is_transient(_http_error(429))
+    assert A._is_transient(_http_error(500)) and A._is_transient(_http_error(503))
+    assert not A._is_transient(_http_error(400))
+    assert not A._is_transient(_http_error(401)) and not A._is_transient(_http_error(404))
+    assert A._is_transient(urllib.error.URLError("reset"))
+    assert A._is_transient(TimeoutError("slow"))
+    assert not A._is_transient(ValueError("bad json")), \
+        "a decode fault is ours to fix, not the provider's to retry"
+
+
+def test_the_backoff_is_bounded_and_grows(monkeypatch):
+    """An unbounded or flat sleep is a hang or a thundering herd at 30 questions a slice."""
+    slept: list[float] = []
+    monkeypatch.setattr(A.time, "sleep", lambda s: slept.append(s))
+    monkeypatch.setattr(A.random, "random", lambda: 0.0)
+    for attempt in range(6):
+        A._retry_sleep(attempt)
+    assert slept == [2.0, 4.0, 8.0, 16.0, 30.0, 30.0], slept
+    assert max(slept) <= A.RETRY_MAX_S
+
+
+
 def test_ledger_booking_failure_never_breaks_an_answer(tmp_path, monkeypatch):
     """Best-effort by design: an unwritable ledger must not take the answer engine down."""
     blocker = tmp_path / "blocker"
