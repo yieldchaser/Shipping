@@ -27,8 +27,8 @@
     },
     {
       "path": "corpus/06-drewry",
-      "untracked_files": 288,
-      "untracked_bytes": 547682493
+      "untracked_files": 289,
+      "untracked_bytes": 547685095
     },
     {
       "path": "corpus/07-signal",
@@ -42091,6 +42091,11 @@
       "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week39_2026.pdf",
       "bytes": 1692736,
       "sha256": "cfb74c938d015edb12df749489317f64447354fc874abe5b10dbd3e604116a9e"
+    },
+    {
+      "path": "corpus/06-drewry/opinions/2026/2026-11-17_drewry-maritime-equity-indices-17-november-2026.md",
+      "bytes": 2602,
+      "sha256": "a80459e8121f96df517e4663bc6ea4dc5f584961e9119fedc7caca65187d3c96"
     },
     {
       "path": "corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png",
