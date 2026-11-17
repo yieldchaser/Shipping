@@ -26,13 +26,19 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import ask as A  # noqa: E402
+import gates as G  # noqa: E402
 import llm_runner as LR  # noqa: E402
 import money as M  # noqa: E402
 import tools as T  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
+PHASE = "P7"
 P7_DIR = ROOT / "kb" / "state" / "p7"
 ANALYST_LOG = P7_DIR / "analyst.jsonl"
+# The artefact this module writes by default is the one `kb/p7_report.py --backtest` reads by default
+# (`STATE = ROOT/"kb"/"state"/"p7"`, `--backtest str(STATE/"backtest.json")`). Landing the backtest
+# anywhere else left the report grading `present: False` forever while the analyst printed a pass.
+BACKTEST_JSON = P7_DIR / "backtest.json"
 JUDGE_MODEL = "Gemma-4-31B-IT"      # owner amendment 2026-11-15: Google, AMD Token Lab, family gemma
 JUDGE_FALLBACK_MODEL = "Qwen3.8-27B"  # family qwen; fallback only (reasoning-heavy, may return "")
 SEGMENT_ALIASES = {
@@ -70,7 +76,13 @@ MIN_HISTORY = 12
 HORIZON_DAYS = 90
 FLAT_BAND = 0.05
 SENTIMENT_WINDOW = 90
-BACKTEST_DATES = 20
+# Defect 40 family: the number of backtest dates is a FROZEN gate operand (`kb/gates.yaml` P7
+# `analyst_backtest_dates`), and this module used to carry its own hardcoded copy of it. A frozen
+# value can be amended in `gates.yaml` without moving a single verdict when the instrument grades
+# against a private literal, and an unreadable gate could not fail closed because `20` was always
+# there. The read is now the frozen one: a broken/missing read stays `None` (UNMEASURED) and every
+# caller that would have invented `20` must instead refuse to produce a number.
+BACKTEST_DATES = G.count_threshold(PHASE, "analyst_backtest_dates")
 
 JUDGE_PROMPT = """You grade an analyst-mode answer from a maritime research system.
 Rubric (0..1 each): facts_cited (every factual sentence has a [cite:...] handle),
@@ -123,6 +135,27 @@ def median(vals: list[float]) -> float | None:
 
 def segment_terms(segment: str) -> list[str]:
     return SEGMENT_ALIASES.get((segment or "").lower(), [segment])
+
+
+def judge_family(model: str, judge: str) -> tuple[str | None, bool | None]:
+    """(judge family, does it differ from the answering model's family) — or (None, None).
+
+    §12.3 requires the analyst judge to come from another model family (`JUDGE_MODEL` is Google
+    gemma, the default writer route is DeepSeek). The instrument used to *say* that only in prose:
+    nothing computed it, so the artefact the report and the C2 packet are built from could not show
+    a same-family judge had graded the arm. The comparison rule is single-sourced in
+    `p4c_audit.model_family`/`judge_family_ok` (same rule as `p6_summary._family`), imported lazily
+    so this module does not pay that import cost unless a call is actually graded. An unreadable
+    route is UNMEASURED (`None`), never a silent cross-family PASS.
+    """
+    try:
+        import p4c_audit as PA  # noqa: PLC0415
+    except Exception:  # noqa: BLE001
+        return None, None
+    try:
+        return PA.model_family(judge), bool(PA.judge_family_ok(judge, model))
+    except Exception:  # noqa: BLE001
+        return None, None
 
 
 def _like_any(col: str, terms: list[str]) -> tuple[str, list]:
@@ -477,6 +510,13 @@ def render(parsed: dict) -> str:
 
 # --------------------------------------------------------------------------- backtest
 def backtest_dates(con, segment: str, n: int = BACKTEST_DATES) -> list[date]:
+    """The `n` `as_of` dates the backtest walks. `n=None` (unreadable frozen operand) picks nothing.
+
+    The old body compared `len(ser) < n` directly, so a `None` date count raised `TypeError` straight
+    out of the CLI instead of producing the unmeasured artefact the caller has to report (D1).
+    """
+    if n is None:
+        return []
     ser = earnings_series(con, segment, None)
     if len(ser) < n:
         return []
@@ -507,11 +547,40 @@ def call_direction(text: str) -> str | None:
 
 
 def score_calls(rows: list[dict]) -> dict:
+    """Per-row backtest scoring. The dict shape is load-bearing (`_score` callers index it directly)."""
     scored = [r for r in rows if r.get("call") and r.get("realised") is not None]
     hits = [r for r in scored if (r["realised"] > FLAT_BAND if r["call"] == "up"
                                   else r["realised"] < -FLAT_BAND)]
     return {"n": len(scored), "hits": len(hits),
             "hit_rate": round(len(hits) / len(scored), 4) if scored else None}
+
+
+def hit_rate_reported(score: dict) -> bool:
+    """The frozen gate flag `analyst_backtest_hit_rate_reported` (Defect 16 class).
+
+    Nothing in the artefact used to say whether the hit rate was *actually* computed: a backtest
+    whose scored set was empty reported `hit_rate: None` next to a green status, and a reader could
+    take the missing field as "no news" instead of "the gate operand is unmeasured". Derived from the
+    read itself, never from a default that reads as success: `True` only when a rate was computed
+    from real scored calls (`n > 0`), else `False`.
+    """
+    return bool(score.get("hit_rate") is not None and score.get("n"))
+
+
+def families(writer_model: str, judge_model: str = JUDGE_MODEL) -> dict:
+    """The writer/judge route plus the cross-family verdict, for the artefact a report reads.
+
+    §12.3's cross-family rule was only asserted in prose. This block is what makes the P7 analyst
+    artefact *checkable*: the report can compare `judge_family` with `writer_family` instead of
+    trusting the claim, and an unreadable route leaves both strings `None` (UNMEASURED) with
+    `judge_family_differs` `None`, never a silent PASS. Rule single-sourced in
+    `p4c_audit.model_family`/`judge_family_ok` via `judge_family()`; note that helper returns the
+    family of its *second* argument, so the writer side is read with the arguments swapped.
+    """
+    judge_fam, differs = judge_family(writer_model, judge_model)
+    writer_fam, _ = judge_family(judge_model, writer_model)
+    return {"model": writer_model, "judge_model": judge_model, "writer_family": writer_fam,
+            "judge_family": judge_fam, "judge_family_differs": differs}
 
 
 # --------------------------------------------------------------------------- entry points
@@ -597,10 +666,28 @@ def judge_answer_cost(question: str, record: dict, model: str = JUDGE_MODEL,
     return LR.parse_json_object(text), spent
 
 
-def run_backtest(segment: str, n: int = BACKTEST_DATES, con=None, chat=None, db=None) -> dict:
+def run_backtest(segment: str, n: int = BACKTEST_DATES, con=None, chat=None, db=None,
+                 model: str = A.DEFAULT_MODEL, judge_model: str = JUDGE_MODEL) -> dict:
+    """Backtest one segment over `n` historical `as_of` dates.
+
+    Defect 40 family / D1: `n` defaults to the FROZEN gate operand (`BACKTEST_DATES`, read from
+    `kb/gates.yaml`). When that read failed it is `None`, and the caller must not silently grade
+    against an invented date count: an unreadable operand propagates as an unmeasured artefact
+    (`dates: None`, `hit_rate: None`, `hit_rate_reported: False`) rather than a fabricated pass.
+
+    The artefact also carries the writer/judge families (`families`), so the P7 report can assert the
+    §12.3 cross-family rule from the artefact instead of from prose.
+    """
     own = con is None
     con = con or connect(db)
     try:
+        fam = families(model, judge_model)
+        if n is None:
+            # No frozen date count -> nothing may be measured. The artefact says so instead of
+            # picking a number (the old code's hardcoded `20` could never fail this way).
+            return {"status": "ok", "segment": segment, "dates": None, "rows": [],
+                    "spend_usd": None, "n": 0, "hits": 0, "hit_rate": None,
+                    "hit_rate_reported": False, **fam}
         rows = []
         for d in backtest_dates(con, segment, n):
             rec = analyse(f"Where will {segment} be from {d.isoformat()}?", segment, d,
@@ -616,12 +703,18 @@ def run_backtest(segment: str, n: int = BACKTEST_DATES, con=None, chat=None, db=
         for r in rows:
             c = r.get("cost_usd")
             spend = None if (spend is None or c is None) else spend + float(c)
-        return {"segment": segment, "dates": len(rows), "rows": rows,
+        score = score_calls(rows)
+        return {"status": "ok", "segment": segment, "dates": len(rows), "rows": rows,
                 "spend_usd": None if spend is None else round(spend, 6),
-                **score_calls(rows)}
+                "hit_rate_reported": hit_rate_reported(score), **fam, **score}
     finally:
         if own:
             con.close()
+
+
+# D5: the ONLY statuses that authorise exit 0, enumerated explicitly. `.get("status", "ok")` treated
+# an absent status as success, so an artefact that never said how it went could exit 0.
+SUCCESS_STATUSES = ("ok", "not_in_data", "not_enough_data")
 
 
 def main(argv=None) -> int:
@@ -632,12 +725,22 @@ def main(argv=None) -> int:
     ap.add_argument("--segment", default="capesize")
     ap.add_argument("--as-of", default=None)
     ap.add_argument("--backtest", action="store_true")
+    # D1: the default date count is the FROZEN read, never a private literal. `None` means the
+    # frozen gate operand could not be read; the run then fails closed instead of inventing 20.
     ap.add_argument("--dates", type=int, default=BACKTEST_DATES)
     ap.add_argument("--model", default=A.DEFAULT_MODEL)
     ap.add_argument("--db", default=None)
-    ap.add_argument("--out", default=None)
+    # D6: this is the artefact path `kb/p7_report.py --backtest` reads by default; an implicit
+    # `--out` used to write nothing, so the report graded `present: False` while the run looked fine.
+    ap.add_argument("--out", default=str(BACKTEST_JSON))
     a = ap.parse_args(argv)
     if a.backtest:
+        if a.dates is None:
+            # Fail closed: an unreadable frozen operand is not a licence to pick a date count.
+            print(json.dumps({"status": "unmeasured", "error": "backtest_dates_unreadable",
+                              "segment": a.segment, "dates": None, "hit_rate": None,
+                              "hit_rate_reported": False}, indent=1), file=sys.stderr)
+            return 2
         res = run_backtest(a.segment, a.dates, db=a.db)
     else:
         if not a.question:
@@ -647,4 +750,8 @@ def main(argv=None) -> int:
         Path(a.out).parent.mkdir(parents=True, exist_ok=True)
         Path(a.out).write_text(json.dumps(res, indent=1, default=str), encoding="utf-8")
     print(json.dumps(res, indent=1, default=str))
-    return 0 if res.get("status", "ok") in ("ok", "not_in_data", "not_enough_data") else 1
+    # D5: fail closed. The status must be an EXPLICITLY enumerated success; the old
+    # `.get("status", "ok")` treated an absent status as OK, so an artefact that never said how it
+    # went could exit 0.
+    status = res.get("status")
+    return 0 if status in SUCCESS_STATUSES else 1

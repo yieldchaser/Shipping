@@ -29,7 +29,10 @@ from scipy import stats as sstats
 KB_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(KB_DIR))
 
+import ask as A  # noqa: E402
+import gates as G  # noqa: E402
 import money as M  # noqa: E402
+import p7_eval as E  # noqa: E402
 import tools as T  # noqa: E402
 
 ROOT = KB_DIR.parent
@@ -46,6 +49,20 @@ OOS_MIN_R = 0.20
 MAX_FINDINGS = 30
 N_QUESTIONS = 20
 LINK_KINDS = ("lead_lag", "comovement", "bridge", "event", "claims")
+# Hypothesis-tested kinds: the only rows that belong to the Benjamini-Hochberg family (Defect 9).
+# `bridge`/`event`/`claims` are descriptive cross-domain rows with no null hypothesis, kept on their
+# own evidence and labelled `descriptive_evidence` at the write site.
+STAT_KINDS = ("lead_lag", "comovement")
+# Gate operands read from the frozen `kb/gates.yaml` P7 block (Defect 40 family). An unreadable
+# operand is `None`; `build` then reports it and the row cannot silently satisfy the gate.
+FDR_MAX = G.threshold(PHASE, "discovered_links_fdr_max")
+OOS_REQUIRED = G.flag_threshold(PHASE, "discovered_links_out_of_sample_checked")
+MIN_DISCOVERY_Q = G.count_threshold(PHASE, "discovery_questions_3hop")
+# Defect 40 (limb 3): the frozen `discovery_multihop_f1: 0.70` operand had NO producer anywhere in the
+# repo -- `p7_report.check_discovery` read `dc["multihop_f1"]` and `p7_discovery.build` never wrote it,
+# so the C2 discovery gate was permanently UNMEASURED. The threshold is READ from the frozen file
+# (never hardcoded); unreadable => `None` => the arm fails closed.
+MIN_DISCOVERY_F1 = G.threshold(PHASE, "discovery_multihop_f1")
 DDL = """CREATE TABLE IF NOT EXISTS discovered_link (
     link_id VARCHAR PRIMARY KEY,
     kind VARCHAR NOT NULL,
@@ -455,8 +472,17 @@ def claims_cross_domain(series: dict, con) -> list[dict]:
 
 # --------------------------------------------------------------------------- select
 def survive(tests: list[dict], alpha: float = ALPHA) -> list[dict]:
-    """Keep FDR survivors; bridge/claims/event rows are descriptive and kept on n only."""
-    stat_tests = [t for t in tests if t["p"] > 0]
+    """Keep FDR survivors; bridge/claims/event rows are descriptive and kept on n only.
+
+    Defect 9: selection used to split on the *value* `p == 0.0` and re-append every such row after BH,
+    so a `lead_lag`/`comovement` row whose p-value underflowed to `0.0` (or was written as `0.0` by a
+    broken upstream read) entered `discovered_link` with `q = 0.0` without ever entering the FDR family
+    — a free pass through the `discovered_links_fdr_max` gate. The split is now on `kind`: real
+    hypothesis tests are *all* in the BH family (a genuinely tiny p still survives on its computed q),
+    and the descriptive rows the docstring names are the only ones exempt, because they carry no
+    hypothesis test at all.
+    """
+    stat_tests = [t for t in tests if t.get("kind") in STAT_KINDS]
     qs = bh_fdr([t["p"] for t in stat_tests], alpha=alpha)
     kept = []
     for t, q in zip(stat_tests, qs):
@@ -464,10 +490,34 @@ def survive(tests: list[dict], alpha: float = ALPHA) -> list[dict]:
             t["q"] = float(q)
             kept.append(t)
     for t in tests:
-        if t["p"] == 0.0:
-            t.setdefault("q", 0.0)
+        if t.get("kind") not in STAT_KINDS:
             kept.append(t)
     return kept
+
+
+def fdr_max_seen(links: list[dict]) -> float | None:
+    """Max BH q over the hypothesis-tested survivors, or `None` when that read is unreadable.
+
+    Defect 40 family: `discovered_links_fdr_max` is a frozen gate operand, so the instrument must
+    *report* the observed q it is graded on. A single unreadable q makes the whole figure UNMEASURED
+    rather than a maximum computed over the well-behaved subset (which could hide a bad row).
+    """
+    qs = [M.as_float(ln.get("q")) for ln in links if ln.get("kind") in STAT_KINDS]
+    if not qs or any(q is None for q in qs):
+        return None if qs else 0.0
+    return max(qs)
+
+
+def oos_checked(links: list[dict]) -> bool | None:
+    """True iff every hypothesis-tested survivor carries an out-of-sample split result (boolean).
+
+    `None` when there is nothing to check -- an empty or all-descriptive survivor set cannot be said
+    to have been out-of-sample checked, so the frozen boolean operand fails closed.
+    """
+    rows = [ln.get("oos") for ln in links if ln.get("kind") in STAT_KINDS]
+    if not rows:
+        return None
+    return all(isinstance(v, bool) and v for v in rows)
 
 
 def add_ids(links: list[dict]) -> list[dict]:
@@ -549,6 +599,220 @@ def write_links(con, links: list[dict]) -> int:
     return len(links)
 
 
+# --------------------------------------------------------------------------- graded questions
+def _link_date(ln: dict) -> str | None:
+    """The link's window as an ISO `YYYY-MM-DD` day, or `None` when the row carries no window.
+
+    Defect 40 (limb 3): the multihop `date` component must be a genuinely recorded window. A missing or
+    broken window leaves the slot ABSENT rather than invented from `built_at`/`date.today()`, which
+    would hand the grader an expectation the instrument never discovered.
+    """
+    for key in ("window_to", "window_from"):
+        v = ln.get(key)
+        if isinstance(v, str) and len(v.strip()) >= 10:
+            return v.strip()[:10]
+    return None
+
+
+def gold_from_link(ln: dict) -> dict:
+    """The multihop gold components a discovered link genuinely supports -- nothing invented.
+
+    Link field -> §12 `c_multihop_entity` component:
+      `stat` (the tested statistic, a finite number) -> `price`
+      `n`    (overlapping months / evidence rows)    -> `n_docs`
+      `window_to` (else `window_from`), ISO day      -> `date`
+      `a`    (a BRIDGE's shared entity id only)      -> `used_by_d`
+      `publishers`                                   -> `publishers` (only if the row has the field)
+
+    Defect 40 (limb 3): the frozen `discovery_multihop_f1: 0.70` operand had no producer. `price` and
+    `n_docs` are the two NUMERIC components `p7_eval.multihop_components` accepts, so they are written as
+    flat numbers (a nested `{"value": ...}` is not a number and would silently drop the requirement), and
+    every read goes through the single finite guard: a poisoned `stat`/`n` (`true`, `inf`, `"0.5"`) leaves
+    that component ABSENT, so the grader is never handed an unreadable expectation. `publishers`/`used_by_d`
+    exist only where the bridge genuinely carries them -- a comovement link's series `names` are NOT
+    publishers and are never promoted to one.
+    """
+    ans: dict = {}
+    stat = M.as_float(ln.get("stat"))
+    if stat is not None:
+        ans["price"] = stat
+    n = _count(ln.get("n"))
+    if n is not None:
+        ans["n_docs"] = n
+    day = _link_date(ln)
+    if day:
+        ans["date"] = day
+    if ln.get("kind") == "bridge":
+        ent = ln.get("a")
+        if isinstance(ent, str) and ent.strip():
+            ans["used_by_d"] = ent.strip()
+    pubs = ln.get("publishers")
+    if isinstance(pubs, (list, tuple)) and pubs:
+        ans["publishers"] = [str(p) for p in pubs if str(p).strip()]
+    return ans
+
+
+def _recover_tests(series: dict) -> dict:
+    """Re-derive the hypothesis statistics FROM THE MONTHLY SERIES -- not from the link rows graded.
+
+    Defect 40 (limb 3): grading the instrument against its own `discovered_link` row would be vacuous
+    (every question would score 1.0 by construction). The answer side is therefore re-derived with the
+    module's own pure statistics over `data["series"]`; the row under grading only supplies the gold.
+    """
+    out: dict = {}
+    if not series:
+        return out
+    try:
+        rows = lead_lag(series) + comovement(series)
+    except Exception:  # noqa: BLE001 - a broken series read leaves the questions ungradable
+        return out
+    for ln in rows:
+        out[(str(ln.get("kind")), str(ln.get("a")), str(ln.get("b")))] = ln
+    return out
+
+
+def _recover_bridge(ent: str, series: dict) -> dict | None:
+    """Re-count a bridge entity's domains and series FROM `series.entity_ids`, or `None`."""
+    doms: dict[str, set] = {}
+    for sid, rec in series.items():
+        if ent not in (rec.get("entities") or []):
+            continue
+        dom = rec.get("domain")
+        if not dom:
+            continue
+        doms.setdefault(str(dom), set()).add(sid)
+    if len(doms) < 2:
+        return None
+    return {"domains": len(doms), "series": sum(len(v) for v in doms.values()),
+            "names": sorted(doms)}
+
+
+def _tool_citations(q: dict, ln: dict, con) -> str:
+    """Best-effort citation text from the REAL tool layer; a missing index is not an error here.
+
+    Defect 40 (limb 3): grading exercises the tools the pipeline ships (`tools.search`, `tools.graph`),
+    but a DB without `edge`/`entity`/`chunk`/`document` is a normal state (the tools raise `ToolError`).
+    That only means this limb recovers no citation -- it never crashes the discovery pass and never
+    fabricates one.
+    """
+    out = []
+    for query in (str(ln.get("a") or ""), str(q.get("id") or "")):
+        if not query.strip():
+            continue
+        try:
+            res = T.search(query, k=5, con=con)
+        except Exception:  # noqa: BLE001 - no chunk/document/fts in this DB
+            continue
+        for r in (res.get("results") or [])[:3]:
+            snip = str(r.get("snippet") or "").strip()
+            if snip:
+                out.append(snip)
+        break
+    ent = str(ln.get("a") or "")
+    if ent:
+        try:
+            g = T.graph(ent, con=con)
+        except Exception:  # noqa: BLE001 - no edge/entity table in this DB
+            g = None
+        if g:
+            labels = [str(n.get("label")) for n in (g.get("nodes") or [])[:3] if n.get("label")]
+            if labels:
+                out.append("graph: " + ", ".join(labels))
+    return " | ".join(out)[:A.MAX_ANSWER_CHARS // 2]
+
+
+def _answer_record(q: dict, ln: dict, series: dict, tests: dict, con) -> dict:
+    """The deterministic ANSWER text for one discovery question -- no model call anywhere.
+
+    Defect 40 (limb 3): the request is a `{"status","answer"}` record shaped for `p7_eval.multihop_f1`.
+    The statistic is re-derived from the monthly series (`_recover_tests`) and the bridge entity re-counted
+    from `series.entity_ids` (`_recover_bridge`); the real tool layer may add citations. When nothing can
+    be recovered the record is `not_in_data`, which `grade_questions` counts as UNGRADED -- never 0.0.
+    """
+    kind = str(ln.get("kind") or "")
+    a, b = str(ln.get("a")), str(ln.get("b"))
+    parts = []
+    if kind in STAT_KINDS:
+        rec = tests.get((kind, a, b)) or tests.get((kind, b, a))
+        if rec:
+            parts.append(
+                f"Re-derived from the monthly series: {a} and {b} move together with correlation"
+                f" {_r(rec.get('stat'))} over {_r(_count(rec.get('n')))} overlapping months, from"
+                f" {_text(rec.get('window_from'))} to {_text(rec.get('window_to'))}.")
+    elif kind == "bridge":
+        got = _recover_bridge(a, series)
+        if got:
+            parts.append(f"Re-counted from the series table: entity {a} is listed on"
+                         f" {got['domains']} domains ({', '.join(got['names'])}) across"
+                         f" {got['series']} series.")
+    if con is not None:
+        cite = _tool_citations(q, ln, con)
+        if cite:
+            parts.append(cite)
+    if not parts:
+        return {"status": "not_in_data", "answer": "", "recovered": 0}
+    return {"status": "ok", "answer": " ".join(parts)[:A.MAX_ANSWER_CHARS], "recovered": len(parts)}
+
+
+def grade_questions(qs, links, data, con=None) -> dict:
+    """Score the bridge questions with the SHARED §12 multihop metric -- and never call a model.
+
+    Defect 40 (limb 3): the frozen `discovery_multihop_f1: 0.70` operand had NO producer anywhere in the
+    repo -- `p7_report.check_discovery` read `dc["multihop_f1"]` while `p7_discovery.build` never wrote it,
+    so the C2 discovery arm was permanently UNMEASURED. This is the missing producer. Each `bridge_questions`
+    row is graded by `p7_eval.multihop_f1` against the components its own discovered link genuinely supports
+    (`gold_from_link`), with the answer side re-derived from source data and the real tool layer.
+
+    UNMEASURED is `None`, never `0.0`: a question whose link carries no readable component, or whose facts
+    cannot be re-derived, is counted UNGRADED and dropped from the mean, so `questions_f1` is `None` when
+    nothing is gradable and the gate arm fails closed. `graded + ungraded == len(qs)` always.
+    """
+    qlist = list(qs or [])
+    by_id: dict = {}
+    for ln in links or []:
+        if isinstance(ln, dict) and ln.get("link_id") is not None:
+            by_id[str(ln["link_id"])] = ln
+    series = ((data or {}).get("series") if isinstance(data, dict) else None) or {}
+    tests = _recover_tests(series)
+    rows = []
+    f1s: list[float] = []
+    for q in qlist:
+        q = q if isinstance(q, dict) else {}
+        lid = None if q.get("link_id") is None else str(q["link_id"])
+        ln = by_id.get(lid)
+        gold = gold_from_link(ln) if ln else {}
+        row = {"id": q.get("id"), "link_id": lid, "kind": (ln or {}).get("kind"),
+               "multihop_f1": None}
+        if not gold:
+            row["status"] = "ungraded"
+            row["reason"] = "link carries no readable gold component" if ln else "no link row"
+            rows.append(row)
+            continue
+        it = {"id": q.get("id"), "type": "c_multihop_entity", "answer": gold}
+        rec = _answer_record(q, ln, series, tests, con)
+        f1 = None
+        if rec.get("status") == "ok":
+            try:
+                f1 = M.as_float(E.multihop_f1(it, rec))
+            except Exception:  # noqa: BLE001 - a corrupt gold row is UNGRADED, not a crash
+                f1 = None
+        if f1 is None:
+            row["status"] = "ungraded"
+            row["reason"] = "facts not recovered" if rec.get("status") != "ok" else "not gradable"
+            rows.append(row)
+            continue
+        f1s.append(f1)
+        row["status"] = "graded"
+        row["multihop_f1"] = _stat(f1)
+        row["answer"] = rec.get("answer")
+        rows.append(row)
+    graded = len(f1s)
+    mean = None if not f1s else round(sum(f1s) / len(f1s), 4)
+    if mean is not None and M.as_float(mean) is None:
+        mean = None
+    return {"questions_f1": mean, "graded": graded, "ungraded": len(qlist) - graded, "rows": rows}
+
+
 # --------------------------------------------------------------------------- run
 def build(con, min_months: int = MIN_MONTHS, write: bool = False) -> dict:
     t0 = time.time()
@@ -562,6 +826,40 @@ def build(con, min_months: int = MIN_MONTHS, write: bool = False) -> dict:
     written = write_links(con, links) if write else 0
     fnd = findings(links)
     qs = bridge_questions(links)
+    # Defect 10: `main` returned 0 unconditionally, so a discovery pass that found nothing (or wrote
+    # nothing) exited "success" and the frozen `discovered_links_fdr_max` /
+    # `discovered_links_out_of_sample_checked` operands were never read at all. Each operand is now
+    # computed from the survivors and compared against the frozen file; an unreadable operand is
+    # UNMEASURED and fails closed.
+    fdr = fdr_max_seen(links)
+    oos = oos_checked(links)
+    hops = [_count(q.get("hops")) for q in qs]
+    # Defect 40 (limb 3): the frozen `discovery_multihop_f1: 0.70` operand had NO producer -- the
+    # `multihop_f1` key `p7_report.check_discovery` reads was never written here, so the C2 discovery
+    # arm was permanently UNMEASURED. Grade the questions against the shared §12 metric; an
+    # ungradable set leaves `questions_f1` None and the arm below fails closed.
+    grading = grade_questions(qs, links, data, con=con)
+    mh_f1 = grading["questions_f1"]
+    gates = {
+        "discovered_links_fdr_max": {
+            "value": None if fdr is None else round(fdr, 6), "target": FDR_MAX,
+            "ok": None if (fdr is None or FDR_MAX is None) else fdr <= FDR_MAX},
+        "discovered_links_out_of_sample_checked": {
+            "value": oos, "target": OOS_REQUIRED,
+            "ok": None if (oos is None or OOS_REQUIRED is None) else (oos is OOS_REQUIRED)},
+        "discovery_questions_3hop": {
+            "value": len(qs) if qs else 0, "target": MIN_DISCOVERY_Q,
+            "ok": None if MIN_DISCOVERY_Q is None
+            else (bool(hops) and len(qs) >= MIN_DISCOVERY_Q
+                  and all(h is not None and h >= 3 for h in hops))},
+        # Defect 40 (limb 3): `value`/`target`/`ok` in the same shape as the three arms above; the
+        # threshold is READ from the frozen file and an unreadable value or target is UNMEASURED
+        # (`None`), which `pass` below treats as failure.
+        "discovery_multihop_f1": {
+            "value": mh_f1, "target": MIN_DISCOVERY_F1,
+            "ok": None if (mh_f1 is None or MIN_DISCOVERY_F1 is None) else mh_f1 >= MIN_DISCOVERY_F1},
+    }
+    pass_ = bool(gates) and all(g["ok"] is True for g in gates.values())
     report = {"phase": PHASE, "sample_seed": seed_for(PHASE),
               "built_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
               "wall_seconds": round(time.time() - t0, 1),
@@ -574,10 +872,16 @@ def build(con, min_months: int = MIN_MONTHS, write: bool = False) -> dict:
                          "stat_tests": len(stats_tests), "survivors": len(links),
                          "by_kind": {k: sum(1 for l in links if l["kind"] == k) for k in LINK_KINDS},
                          "written": written, "findings": len(fnd), "questions": len(qs),
+                         "questions_graded": grading["graded"],
                          "events": 0 if not any(l["kind"] == "event" for l in links) else
                                    sum(1 for l in links if l["kind"] == "event"),
                          "claims": sum(1 for l in links if l["kind"] == "claims")},
-              "findings": fnd, "questions": qs, "links": links}
+              "fdr_max": None if fdr is None else round(fdr, 6), "oos_checked": oos,
+              # Defect 40 (limb 3): the frozen key name `multihop_f1` is what `p7_report` reads.
+              "multihop_f1": mh_f1,
+              "gates": gates, "pass": pass_,
+              "findings": fnd, "questions": qs, "links": links,
+              "graded_questions": grading["rows"]}
     return report
 
 
@@ -606,7 +910,13 @@ def main(argv: list[str] | None = None) -> int:
     c = report["counts"]
     print(f"series {c['series']} tests {c['tests']} survivors {c['survivors']} "
           f"findings {c['findings']} questions {c['questions']} written {c['written']}")
-    return 0
+    # Defect 10: the exit code IS the gate verdict. `pass` is True only when every frozen P7
+    # discovery operand was readable and satisfied; anything else (including an unreadable
+    # `kb/gates.yaml`) exits non-zero so a caller cannot read silence as success.
+    for key, g in report["gates"].items():
+        print(f"{key}: {_r(g['value'])} (target {_r(g['target'])}) "
+              f"{'ok' if g['ok'] else 'n/a' if g['ok'] is None else 'FAIL'}")
+    return 0 if report["pass"] else 1
 
 
 if __name__ == "__main__":

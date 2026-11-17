@@ -31,6 +31,7 @@ KB_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(KB_DIR))
 
 import ask as A  # noqa: E402
+import gates as G  # noqa: E402
 import llm_runner as LR  # noqa: E402
 import money as M  # noqa: E402
 import tools as T  # noqa: E402
@@ -43,8 +44,17 @@ REPORTS = ROOT / "kb" / "reports"
 JUDGE_MODEL = "Gemma-4-31B-IT"       # owner amendment 2026-11-15 (replaces NIM free tier)
 JUDGE_FALLBACK_MODEL = "Qwen3.8-27B"
 EXACT_TYPES = ("a_single_number", "b_window_aggregate", "e_sec_section", "g_as_known_on_date")
-TARGETS = {"exact_a_b_e_g": 0.97, "recall_at_20": 0.85, "multihop_f1": 0.75,
-           "refusal": 0.95, "faithfulness": 0.95}
+# The five §12 metric arms, under their FROZEN names (`kb/gates.yaml` P7). The instrument used to
+# carry a private `TARGETS` dict with *different* key names (`exact_a_b_e_g`, `recall_at_20`,
+# `refusal`): the frozen file could have been edited without moving a single verdict, and the report
+# the owner reviews did not speak the language of the gate it claimed to enforce (Defect 40 family).
+METRIC_KEYS = ("exact_match_numeric", "retrieval_recall_at_20", "multihop_f1",
+               "refusal_gap_accuracy", "faithfulness")
+# The thresholds are READ from the frozen `kb/gates.yaml` P7 block (Defect 40). A key that cannot be
+# read stays `None` here, so the gate table renders `n/a` and the arm FAILS closed -- the instrument
+# can never quietly grade against a target it invented.
+TARGETS = {k: G.threshold(PHASE, k) for k in METRIC_KEYS}
+QA_COUNT_KEY = "qa_gold_questions"
 JUDGE_SAMPLE = 60
 RECALL_K = 20
 MAX_EVIDENCE = 3
@@ -64,6 +74,26 @@ Rules:
 
 def seed_for(phase: str) -> int:
     return int(sha256(f"{phase}|kb-gates-v1".encode("utf-8")).hexdigest()[:8], 16)
+
+
+def judge_family(model: str, judge: str) -> tuple[str | None, bool | None]:
+    """(judge family, does it differ from the answering model's family) — or (None, None).
+
+    Defect 16: §12.3 requires the faithfulness judge to come from another model family, and the
+    instrument only *said* so in prose — nothing computed it, so a same-family judge could have
+    graded the whole arm and the report would still have claimed a cross-family check. The rule
+    itself is single-sourced in `p4c_audit.model_family`/`judge_family_ok` (the P4c extraction
+    judge), imported lazily so this module does not pay its import cost unless judging happens.
+    An unreadable route is UNMEASURED (`None`), never a silent PASS.
+    """
+    try:
+        import p4c_audit as PA  # noqa: PLC0415
+    except Exception:  # noqa: BLE001
+        return None, None
+    try:
+        return PA.model_family(judge), bool(PA.judge_family_ok(judge, model))
+    except Exception:  # noqa: BLE001
+        return None, None
 
 
 # --------------------------------------------------------------------------- gold
@@ -228,6 +258,35 @@ def found_components(it: dict, rec: dict) -> set[str]:
     return out
 
 
+def claimed_components(it: dict, rec: dict) -> set[str]:
+    """Which component slots the answer *attempts* to fill — the precision denominator.
+
+    Defect 8 needs a real denominator. Charging every `MH_COMPONENTS` member would penalise a correct
+    answer to a question that only asked for two of them; using `len(got)` (the old code) is
+    identically 1.0. The honest set is "slots the answer reached for": a numeric slot counts as
+    attempted when the answer states any number at all (`price` 17.6 answering with 99 is a wrong
+    attempt), the text slots count when the item's own value for them appears.
+    """
+    text = A.strip_cites(rec.get("answer") or "")
+    low = text.lower()
+    nums = [f for f in (M.as_float(x) for x in A.numbers_in(text)) if f is not None]
+    ans = answer_dict(it)
+    out: set[str] = set()
+    if nums and M.as_float(ans.get("price")) is not None:
+        out.add("price")
+    if nums and M.as_float(ans.get("n_docs")) is not None:
+        out.add("n_docs")
+    pubs = ans.get("publishers") or []
+    if pubs and any(str(p).lower() in low for p in pubs):
+        out.add("publishers")
+    used = ans.get("used_by_d")
+    if used and any(str(u).lower() in low for u in ([used] if isinstance(used, str) else used)):
+        out.add("used_by_d")
+    if ans.get("date") and str(ans["date"]).lower()[:10] in low:
+        out.add("date")
+    return out
+
+
 def multihop_f1(it: dict, rec: dict) -> float | None:
     gold = multihop_components(it)
     if not gold:
@@ -237,14 +296,24 @@ def multihop_f1(it: dict, rec: dict) -> float | None:
     got = found_components(it, rec) & gold
     if not got:
         return 0.0
-    prec, rec_ = len(got) / max(1, len(got)), len(got) / len(gold)
+    # Defect 8: precision used to be `len(got) / max(1, len(got))` -- identically 1.0, so the F1
+    # collapsed to recall and a half-answered multi-hop question scored as well as a complete one.
+    # Precision must charge the slots the answer reached for but got wrong.
+    claimed = claimed_components(it, rec)
+    prec = len(got) / max(1, len(claimed))
+    rec_ = len(got) / len(gold)
     return round(2 * prec * rec_ / (prec + rec_), 4)
 
 
 def score_refusal(it: dict, rec: dict) -> bool | None:
     if item_type(it) != "h_unanswerable":
         return None
-    if rec.get("status") in ("not_in_data", "model_error"):
+    # Defect 7: `model_error` used to score as a correct refusal. An infrastructure failure is not an
+    # answer that says "not in the data" -- crediting it inflated gap accuracy on exactly the type (h)
+    # questions the arm exists to measure. Only a genuine `not_in_data` status counts.
+    if rec.get("status") == "model_error" or rec.get("error"):
+        return False
+    if rec.get("status") == "not_in_data":
         return True
     text = (rec.get("answer") or "").strip()
     return text == A.NOT_IN_DATA or text.startswith(A.NOT_IN_DATA)
@@ -405,14 +474,15 @@ def build_report(items: list[dict], records: list[dict], recall_flags: list[bool
     refusals = [score_refusal(it, rec) for it, rec in zip(items, records)]
     refusals = [r for r in refusals if r is not None]
     metrics = {
-        "exact_a_b_e_g": _ratio(exact),
-        "recall_at_20": _ratio(recall_flags),
+        "exact_match_numeric": _ratio(exact),
+        "retrieval_recall_at_20": _ratio(recall_flags),
         "multihop_f1": _mean(mh_scores),
-        "refusal": _ratio(refusals),
+        "refusal_gap_accuracy": _ratio(refusals),
         "faithfulness": _mean(faith_scores),
     }
     gates = {}
-    for key, target in TARGETS.items():
+    for key in METRIC_KEYS:
+        target = TARGETS.get(key)
         value = metrics.get(key)
         if key == "faithfulness" and ungraded:
             # Ungraded rows are not a metric value: the gate cannot pass on the rows the judge did
@@ -420,9 +490,19 @@ def build_report(items: list[dict], records: list[dict], recall_flags: list[bool
             gates[key] = {"value": value, "target": target, "pass": False,
                           "ungraded": len(ungraded), "ungraded_errors": sorted(set(ungraded))}
             continue
+        # An unreadable target (or value) is UNMEASURED: the gate cannot pass on a threshold the
+        # frozen file did not supply, and `value >= None` would otherwise raise out of the pass.
         gates[key] = {"value": value, "target": target,
-                      "pass": None if value is None else value >= target}
-    return {"phase": PHASE, "metrics": metrics, "gates": gates,
+                      "pass": None if (value is None or target is None) else value >= target}
+    # Defect 40: the frozen P7 block also fixes HOW MANY gold questions the §12 estimate must rest on
+    # (`qa_gold_questions: 250`). The instrument never read it, so a 4-item smoke run could have been
+    # graded and presented beside a 250-question claim. It is reported as its own arm (not folded into
+    # `gates`, which the five §12 metric arms own) and `p7_report.check_eval` enforces it on the
+    # artefact; an unreadable threshold stays `None` and cannot pass.
+    qa_target = G.count_threshold(PHASE, QA_COUNT_KEY)
+    question_count = {"value": len(items), "target": qa_target,
+                      "pass": None if qa_target is None else len(items) >= qa_target}
+    return {"phase": PHASE, "metrics": metrics, "gates": gates, "question_count": question_count,
             "counts": {"items": len(items), "exact_graded": len(exact),
                        "recall_graded": len(recall_flags), "refusal_graded": len(refusals),
                        "multihop_graded": len(mh_scores), "faithfulness_graded": len(faith_scores),
@@ -492,18 +572,28 @@ def evaluate(items: list[dict], con=None, chat=None, judge_chat=None, limit: int
         c = r.get("cost_usd")
         paid = None if (paid is None or c is None) else paid + float(c)
     cost: float | None = None if (paid is None or judge_cost is None) else paid + judge_cost
+    # Defect 16: compute the cross-family check §12.3 requires instead of asserting it in prose.
+    judge_model = JUDGE_MODEL if with_judge else None
+    j_family, j_differs = (None, None) if not with_judge else judge_family(model, JUDGE_MODEL)
+    w_family, _ = judge_family(JUDGE_MODEL, model)  # same single-sourced rule, writer side only
     report.update({"sample_seed": seed, "built_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
                    "wall_seconds": round(time.time() - t0, 1),
                    "money_spent_usd": None if cost is None else round(cost, 6),
                    "judge_cost_usd": None if judge_cost is None else round(judge_cost, 6),
-                   "model": model, "judge_model": JUDGE_MODEL if with_judge else None,
+                   "model": model, "judge_model": judge_model, "writer_family": w_family,
+                   "judge_family": j_family, "judge_family_differs": j_differs,
                    "judged": len(faith_scores), "judged_ungraded": len(faith_ungraded),
                    "with_search": with_search,
                    "items": [{k: r.get(k) for k in ("item_id", "type", "question", "status",
                                                      "answer", "model", "escalated", "cost_usd")}
                               for r in records]})
+    # Defect 40: the count arm is part of the verdict. A run graded on fewer gold questions than the
+    # frozen `qa_gold_questions` can PASS its metric arms and still not be the §12 result, so the
+    # count has to reach `report["pass"]` -- otherwise the artefact says PASS and the reader never
+    # sees the arm the gate file fixed.
     report["pass"] = bool(all(g["pass"] for g in report["gates"].values() if g["pass"] is not None)
-                          and all(g["pass"] is True for g in report["gates"].values()))
+                          and all(g["pass"] is True for g in report["gates"].values())
+                          and report["question_count"]["pass"] is True)
     return report
 
 
@@ -521,30 +611,43 @@ def _md(report: dict) -> str:
                 else ""),
              f"- result: {'PASS' if report['pass'] else 'FAIL'}", "",
              "| metric | value | target | pass |", "|---|---|---|---|"]
-    for k, target in TARGETS.items():
+    for k in METRIC_KEYS:
         v = g.get(k, {})
+        # The target column comes from the frozen gate file (the same read `build_report` graded
+        # against); an unreadable threshold renders `n/a` rather than a number the instrument guessed.
+        target = v.get("target") if v.get("target") is not None else TARGETS.get(k)
         # Defect 35: the gate table used to render `v.get('pass')` -- the artefact's own stored
         # verdict -- and the raw value beside it. Re-derive the verdict from the guarded operand
         # (Defect 33's rule: a stored boolean is a read, not a result), keeping the one deliberate
         # exception: a faithfulness gate with ungraded judge rows can never pass on the rows the
         # judge did answer.
         val = M.as_float(v.get("value"))
-        if val is None:
+        if val is None or target is None:
             verdict = "n/a"
         elif v.get("ungraded"):
             verdict = "NO"
         else:
             verdict = "yes" if val >= target else "NO"
-        lines.append(f"| {k} | {_r(v.get('value'))} | {target} | {verdict} |")
+        lines.append(f"| {k} | {_r(v.get('value'))} | {_r(target)} | {verdict} |")
     lines += ["", "## Graded counts", ""]
+    qc = report.get("question_count") or {}
+    lines += [f"- gold questions: {_r(qc.get('value'))} (frozen `qa_gold_questions` target "
+              f"{_r(qc.get('target'))}) — "
+              + ("PASS" if qc.get("pass") is True else ("n/a" if qc.get("pass") is None else "FAIL"))]
     lines += [f"- {k}: {_r(v)}" for k, v in report["counts"].items()]
     if (g.get("faithfulness") or {}).get("ungraded_errors"):
         lines += ["", "## Judge outages (ungraded, not scored)",
                   ""] + [f"- {e}" for e in g["faithfulness"]["ungraded_errors"]]
     lines += ["", "## Deviations", "",
               "- D16: exact match compares gold numbers (tolerance aware) against numbers in the answer.",
-              "- D17: faithfulness is judged by a nim model from a different family than the extractor;",
-              "  the judged sample is seeded and reproducible.", ""]
+              "- D17: faithfulness is judged by a model from another family than the extractor "
+              f"(`{JUDGE_MODEL}`, fallback `{JUDGE_FALLBACK_MODEL}`);",
+              f"  measured cross-family check: `judge_family_differs = "
+              f"{_r(report.get('judge_family_differs'))}` (judge family "
+              f"`{report.get('judge_family')}` vs writer family `{report.get('writer_family')}`);",
+              "  the judged sample is seeded and reproducible.",
+              "- D40: every §12 target in this table is read from the frozen `kb/gates.yaml`; an "
+              "unreadable one shows `n/a` and cannot pass.", ""]
     return "\n".join(lines)
 
 
@@ -580,8 +683,11 @@ def main(argv: list[str] | None = None) -> int:
         (REPORTS / "p7_eval.json").write_text(json.dumps(_json_safe(report), indent=1, default=str),
                                               encoding="utf-8")
         (REPORTS / "p7_eval.md").write_text(_md(report), encoding="utf-8")
-    for k in TARGETS:
-        print(f"{k}: {_r(report['metrics'].get(k))} target {TARGETS[k]}")
+    for k in METRIC_KEYS:
+        print(f"{k}: {_r(report['metrics'].get(k))} target {_r(TARGETS.get(k))}")
+    qc = report.get("question_count") or {}
+    print(f"{QA_COUNT_KEY}: {_r(qc.get('value'))} target {_r(qc.get('target'))} "
+          + ("ok" if qc.get("pass") is True else ("n/a" if qc.get("pass") is None else "FAIL")))
     print("PASS" if report["pass"] else "FAIL", "->", out)
     return 0 if report["pass"] else 1
 

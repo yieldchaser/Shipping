@@ -228,13 +228,19 @@ def patched(monkeypatch):
 
 def test_evaluate_metrics_and_pass(patched):
     rep = E.evaluate(GOLD, with_search=False, with_judge=False)
-    assert rep["metrics"]["exact_a_b_e_g"] == 1.0
-    assert rep["metrics"]["refusal"] == 1.0
+    assert rep["metrics"]["exact_match_numeric"] == 1.0
+    assert rep["metrics"]["refusal_gap_accuracy"] == 1.0
     assert rep["metrics"]["multihop_f1"] == 1.0
-    assert rep["metrics"]["recall_at_20"] is None
+    assert rep["metrics"]["retrieval_recall_at_20"] is None
     assert rep["counts"]["items"] == 4
     assert rep["phase"] == "P7" and rep["sample_seed"] == E.seed_for("P7")
-    assert rep["pass"] is False          # skipped metric never passes the gate
+    # Two independent reasons to FAIL: the skipped recall metric and the 4-item fixture against the
+    # frozen `qa_gold_questions: 250` count arm (Defect 40). The count arm is reported separately;
+    # this fixture legitimately cannot reach 250, and loosening the arm to make it green would be a
+    # silent scope cut.
+    assert rep["pass"] is False
+    assert rep["gates"]["retrieval_recall_at_20"]["pass"] is None
+    assert rep["question_count"]["target"] == 250 and rep["question_count"]["pass"] is False
 
 
 def test_evaluate_with_search_and_judge(patched, monkeypatch):
@@ -242,9 +248,15 @@ def test_evaluate_with_search_and_judge(patched, monkeypatch):
                         lambda q, model=None, con=None, chat=None: {
                             **REPLIES[q.split()[-1]], "evidence": ["quote"]})
     rep = E.evaluate(GOLD, with_search=True, with_judge=True, judge_chat=_chat(['{"supported": 1.0}'] * 5))
-    assert rep["metrics"]["recall_at_20"] == 1.0
+    assert rep["metrics"]["retrieval_recall_at_20"] == 1.0
     assert rep["metrics"]["faithfulness"] == 1.0
-    assert rep["pass"] is True and rep["judged"] == 3
+    assert rep["judged"] == 3
+    # Every §12 metric arm passes on this fixture ...
+    assert all(g["pass"] is True for g in rep["gates"].values()), rep["gates"]
+    # ... and the run still FAILS as a whole, because 4 questions are not the frozen 250. The metric
+    # arms are graded independently of the count so a smoke run cannot be presented as the §12 result.
+    assert rep["question_count"] == {"value": 4, "target": 250, "pass": False}
+    assert rep["pass"] is False
     assert rep["money_spent_usd"] == 0.0
     assert rep["judge_cost_usd"] == 0.0
 
@@ -345,8 +357,10 @@ def test_evaluate_handles_pipeline_errors(patched):
 
     patched.setattr(E.A, "answer_question", boom)
     rep = E.evaluate(GOLD, with_search=False, with_judge=False)
-    assert rep["metrics"]["exact_a_b_e_g"] == 0.0
-    assert rep["metrics"]["refusal"] == 1.0          # model_error counts as refusal
+    assert rep["metrics"]["exact_match_numeric"] == 0.0
+    # Defect 7: a `model_error` is an infrastructure failure, NOT a correct refusal. Only a genuine
+    # `not_in_data` answer counts, so the sole (h) item is ungraded rather than credited.
+    assert rep["metrics"]["refusal_gap_accuracy"] == 0.0
     assert rep["items"][0]["status"] == "model_error"
 
 
@@ -356,12 +370,16 @@ def test_md_and_report_files(patched, monkeypatch, tmp_path):
                             **REPLIES[q.split()[-1]], "evidence": ["quote"]})
     rep = E.evaluate(GOLD, with_search=True, with_judge=True, judge_chat=_chat(['{"supported": 1.0}'] * 5))
     md = E._md(rep)
-    assert "| exact_a_b_e_g |" in md, md
-    assert "PASS" in md, (rep["pass"], rep["metrics"], md)
+    assert "| exact_match_numeric |" in md, md
+    # The metric arms all pass, but the run result is FAIL on the 4-question count arm (Defect 40),
+    # and both facts must be visible in the render: a smoke run cannot read as a PASS.
+    assert all(g["pass"] is True for g in rep["gates"].values())
+    assert "- result: FAIL" in md and "qa_gold_questions" in md, md
+    assert "| exact_match_numeric | 1.0 | 0.97 | yes |" in md, md
     assert "D16" in md
     out = tmp_path / "eval.json"
     out.write_text(json.dumps(rep), encoding="utf-8")
-    assert json.loads(out.read_text(encoding="utf-8"))["metrics"]["refusal"] == 1.0
+    assert json.loads(out.read_text(encoding="utf-8"))["metrics"]["refusal_gap_accuracy"] == 1.0
 
 
 def test_main_cli_exit_codes(patched, monkeypatch, tmp_path):
@@ -443,13 +461,14 @@ def test_no_unreadable_value_reaches_the_eval_artefact(patched, monkeypatch, tmp
     # an honest run still renders its real numbers and derives real verdicts
     good = E.evaluate(GOLD, with_search=True, with_judge=False)
     gmd = E._md(good)
-    assert "| refusal | 1.0 | 0.95 | yes |" in gmd
+    assert "| refusal_gap_accuracy | 1.0 | 0.95 | yes |" in gmd
     # a faithfulness outage keeps its deliberate ungraded NO, and a low-but-read value is a real NO
     low = dict(good)
     low["gates"] = {"faithfulness": {"value": 0.5, "target": 0.95, "pass": False},
-                    "refusal": {"value": 1.0, "target": 0.95, "pass": True}}
+                    "refusal_gap_accuracy": {"value": 1.0, "target": 0.95, "pass": True}}
     lmd = E._md(low)
-    assert "| faithfulness | 0.5 | 0.95 | NO |" in lmd and "| refusal | 1.0 | 0.95 | yes |" in lmd
+    assert ("| faithfulness | 0.5 | 0.95 | NO |" in lmd
+            and "| refusal_gap_accuracy | 1.0 | 0.95 | yes |" in lmd)
     ung = dict(good)
     ung["gates"] = {"faithfulness": {"value": 0.99, "target": 0.95, "pass": False, "ungraded": 2}}
     assert "| faithfulness | 0.99 | 0.95 | NO |" in E._md(ung)

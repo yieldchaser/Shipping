@@ -23,6 +23,7 @@ from pathlib import Path
 KB_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(KB_DIR))
 
+import gates as G  # noqa: E402
 import money as M  # noqa: E402
 
 ROOT = KB_DIR.parent
@@ -30,13 +31,27 @@ PHASE = "P7"
 STATE = ROOT / "kb" / "state" / "p7"
 REPORTS = ROOT / "kb" / "reports"
 LEDGER = ROOT / "kb" / "state" / "ledger.sqlite"
-TARGETS = {"exact_a_b_e_g": 0.97, "recall_at_20": 0.85, "multihop_f1": 0.75,
-           "refusal": 0.95, "faithfulness": 0.95}
-RUBRIC_TARGET = 0.8
-MIN_QUESTIONS = 30
-MIN_BACKTEST = 20
+# Every gate operand below is READ from the frozen `kb/gates.yaml` P7 block (Defect 40 family): the
+# instrument used to carry its own private copies of the §12 targets, so the frozen file could have
+# been edited without moving a single verdict and the C2 packet spoke names the gate never had. An
+# unreadable operand stays `None`, so the arm FAILS closed instead of grading against a guess.
+TARGETS = {"exact_match_numeric": G.threshold(PHASE, "exact_match_numeric"),
+           "retrieval_recall_at_20": G.threshold(PHASE, "retrieval_recall_at_20"),
+           "multihop_f1": G.threshold(PHASE, "multihop_f1"),
+           "refusal_gap_accuracy": G.threshold(PHASE, "refusal_gap_accuracy"),
+           "faithfulness": G.threshold(PHASE, "faithfulness")}
+RUBRIC_TARGET = G.threshold(PHASE, "analyst_mode_rubric")
+MIN_QUESTIONS = G.count_threshold(PHASE, "analyst_mode_questions")
+MIN_BACKTEST = G.count_threshold(PHASE, "analyst_backtest_dates")
 MIN_FINDINGS = 30
-MIN_DISCOVERY_Q = 20
+MIN_DISCOVERY_Q = G.count_threshold(PHASE, "discovery_questions_3hop")
+MIN_DISCOVERY_F1 = G.threshold(PHASE, "discovery_multihop_f1")
+FDR_MAX = G.threshold(PHASE, "discovered_links_fdr_max")
+OOS_CHECKED = G.flag_threshold(PHASE, "discovered_links_out_of_sample_checked")
+HIT_RATE_REPORTED = G.flag_threshold(PHASE, "analyst_backtest_hit_rate_reported")
+# The eval arm's count target is a `count_threshold`-shaped frozen key (an integral number of gold
+# questions), not a float score; keeping the key name in one place stops the two call sites drifting.
+QA_COUNT_KEY = "qa_gold_questions"
 
 
 def load_json(path: Path, default=None):
@@ -226,9 +241,20 @@ def check_eval(ev: dict) -> dict:
         scores[k] = score
     # Defect 27: `items` is the §12 gate operand (`count > 0`), read out of an on-disk artefact.
     count = _count((ev or {}).get("counts", {}).get("items", 0))
+    # Defect 40: the frozen `qa_gold_questions` count target was enforced ONLY by the eval producer
+    # (`p7_eval.build_report`), so the report -- the artefact the C2 packet and the release decision are
+    # built from -- could emit `"pass": true` over a 4-question eval. The target is read here from
+    # `kb/gates.yaml`, never from the artefact's own copy, so a doctored eval file cannot widen its own
+    # gate; the observed count comes from `question_count.value` when the producer supplied it (a real
+    # read) and otherwise from `counts.items`, and unreadable either way is UNMEASURED ⇒ FAIL closed.
+    qa_target = G.count_threshold(PHASE, QA_COUNT_KEY)
+    qc = (ev or {}).get("question_count")
+    qa_value = _count(qc.get("value")) if isinstance(qc, dict) and "value" in qc else count
+    qa_ok = (qa_value is not None and qa_target is not None and qa_value >= qa_target)
     return {"present": bool(ev), "counts": (ev or {}).get("counts", {}), "items": count,
+            "question_count": {"value": qa_value, "target": qa_target, "ok": qa_ok},
             "metrics": scores, "gates": gates,
-            "ok": bool(ev) and count is not None and count > 0
+            "ok": bool(ev) and count is not None and count > 0 and qa_ok
             and all(g["ok"] for g in gates.values())}
 
 
@@ -260,9 +286,27 @@ def _agg(vals: list, how: str = "sum"):
     return (max(vals) if how == "max" else sum(vals)) if vals else 0
 
 
+def _reported_flag(v) -> bool | None:
+    """Defect 40: a frozen *boolean* gate operand, kept strict so no numeric read can impersonate it.
+
+    `analyst_backtest_hit_rate_reported` and `discovered_links_out_of_sample_checked` are booleans in
+    `kb/gates.yaml`. `money.as_float` deliberately rejects bools, so routing them through the numeric
+    guard would read `true` as UNMEASURED and fail a gate that is actually satisfied; scanning for a
+    truthy value instead would let `"yes"`, `1` or `inf` satisfy a boolean contract. Only a real
+    `bool` is a read here; anything else is `None` (unmeasured ⇒ the arm fails closed).
+    """
+    return v if isinstance(v, bool) else None
+
+
 def check_backtest(bt: dict) -> dict:
     if not bt:
-        return {"present": False, "dates": 0, "hit_rate": None, "ok": False}
+        return {"present": False, "dates": 0, "hit_rate": None, "hit_rate_reported": False,
+                "ok": False}
+    # Defect 40: `analyst_backtest_hit_rate_reported: true` is a frozen P7 requirement — the owner
+    # asked for the hit rate to be *reported*, so a run that silently could not compute it (unreadable
+    # hits/n, zero scored calls) may not pass on the date count alone. The frozen flag and the
+    # artefact's own flag must both be readable `True`.
+    frozen_flag = _reported_flag(HIT_RATE_REPORTED)
     if "segments" in bt:  # multi-segment aggregate
         rows = bt["segments"] if isinstance(bt["segments"], list) else []
         dates = _agg(_seg_count(rows, "dates"), "max")
@@ -271,20 +315,29 @@ def check_backtest(bt: dict) -> dict:
         # The rate is computed from guarded counts and is itself a gate operand (`rate is not None`),
         # so an incoherent pair (hits > n) is a broken read rather than a rendered `1.5`.
         rate = _metric(round(hits / n, 4)) if (n and hits is not None) else None
+        # A segment row that is not a dict is a broken read, not an `AttributeError` straight out of
+        # `main()`: `_seg_count` treats it as unreadable, and the flag arm must agree rather than crash.
+        reported = bool(rows) and all(
+            isinstance(r, dict) and _reported_flag(r.get("hit_rate_reported")) is True for r in rows)
     else:
         dates = _count(bt.get("dates", 0))
         rate = _metric(bt.get("hit_rate"))
         n = _count(bt.get("n", 0))
-    ok = dates is not None and dates >= MIN_BACKTEST and rate is not None
+        reported = _reported_flag(bt.get("hit_rate_reported")) is True
+    ok = dates is not None and dates >= MIN_BACKTEST and rate is not None \
+        and reported and frozen_flag is True
     return {"present": True, "dates": dates, "n": n, "hit_rate": rate,
-            "target_dates": MIN_BACKTEST, "ok": ok}
+            "hit_rate_reported": reported, "target_dates": MIN_BACKTEST, "ok": ok}
 
 
 def check_discovery(dc: dict) -> dict:
+    # Guarded reads, so the miss and hit paths report the same types for the same fields: the previous
+    # miss path hardcoded `survivors: 0`/`written: 0` while the hit path used a `-1` sentinel, i.e. two
+    # different meanings for one printed count. `None` = unmeasured on both paths.
     if not dc:
-        return {"present": False, "findings": 0, "questions": 0, "survivors": 0,
-                "written": 0, "hops_ok": False, "findings_have_evidence": False,
-                "ok": False}
+        return {"present": False, "findings": 0, "questions": 0, "survivors": None,
+                "written": None, "hops_ok": False, "findings_have_evidence": False,
+                "f1": None, "fdr_max": None, "oos_checked": None, "ok": False}
     c = dc.get("counts", {})
     fnd = dc.get("findings") or []
     qs = dc.get("questions") or []
@@ -295,13 +348,34 @@ def check_discovery(dc: dict) -> dict:
     # key: the equality arm must FAIL then, not read as `0 == 0` and pass on an absent count.
     survivors = _count(c.get("survivors", -1))
     written = _count(c.get("written", 0))
+    # Defect 40: three frozen P7 discovery operands were declared at the top of this module but never
+    # read, so `discovered_links_fdr_max: 0.10`, `discovered_links_out_of_sample_checked: true` and
+    # `discovery_multihop_f1: 0.70` could not fail the report the C2 packet is built from: a survivor
+    # set with a q-value of 0.4, an in-sample-only scan, or a question set that recovered no multi-hop
+    # component at all still produced `"pass": true` as long as the counts and hops lined up. Each
+    # operand is read from the artefact through the single-sourced guards and compared to the frozen
+    # target; unreadable ⇒ `None` ⇒ the arm fails closed.
+    f1 = _metric(dc.get("multihop_f1"))
+    fdr_max = _metric(dc.get("fdr_max"))
+    oos = _reported_flag(dc.get("oos_checked"))
+    f1_ok = f1 is not None and MIN_DISCOVERY_F1 is not None and f1 >= MIN_DISCOVERY_F1
+    fdr_ok = fdr_max is not None and FDR_MAX is not None and fdr_max <= FDR_MAX
+    # `is True` on both sides: an unreadable artefact flag is never "not False", and the frozen
+    # boolean is the requirement, not a hint — a frozen `false` fails closed rather than inverting the
+    # contract into "must NOT be checked".
+    oos_ok = oos is True and OOS_CHECKED is True
     ok = len(fnd) >= MIN_FINDINGS \
         and len(qs) >= MIN_DISCOVERY_Q and hops_ok \
         and survivors is not None and survivors >= len(fnd) \
-        and written is not None and written == survivors and with_ev
+        and written is not None and written == survivors and with_ev \
+        and f1_ok and fdr_ok and oos_ok
     return {"present": True, "findings": len(fnd), "questions": len(qs),
-            "survivors": _count(c.get("survivors", 0)), "written": _count(c.get("written", 0)),
-            "hops_ok": hops_ok, "findings_have_evidence": with_ev, "ok": bool(ok)}
+            "survivors": survivors, "written": written,
+            "hops_ok": hops_ok, "findings_have_evidence": with_ev,
+            "f1": f1, "fdr_max": fdr_max, "oos_checked": oos,
+            "f1_ok": f1_ok, "fdr_ok": fdr_ok, "oos_ok": oos_ok,
+            "targets": {"f1": MIN_DISCOVERY_F1, "fdr_max": FDR_MAX, "oos": OOS_CHECKED},
+            "ok": bool(ok)}
 
 
 def build(ev: dict | None, rb: dict | None, bt: dict | None, dc: dict | None,
@@ -358,16 +432,28 @@ def _md(report: dict) -> str:
     ]
     for k, g in c["eval"]["gates"].items():
         lines.append(f"| {k} | {_r(g['value'])} | {g['target']} | {'yes' if g['ok'] else 'NO'} |")
+    # Defect 40: the frozen `qa_gold_questions` count target is a gate arm in its own right; it was
+    # invisible in both artefacts, so a short eval read as a clean sweep of the five scored metrics.
+    qc = c["eval"].get("question_count") or {}
+    lines.append(f"| qa_gold_questions | {_r(qc.get('value'))} | {_r(qc.get('target'))} | "
+                 f"{'yes' if qc.get('ok') else 'NO'} |")
     lines += ["", "## Gold-set additions", "",
               f"- analyst rubric: mean {_r(c['rubric']['mean_score'])} over "
               f"{_r(c['rubric']['graded'])} graded (target >= {RUBRIC_TARGET}) — "
               f"{'PASS' if c['rubric']['ok'] else 'FAIL'}",
               f"- backtest: {_r(c['backtest']['dates'])} dates, hit rate "
-              f"{_r(c['backtest']['hit_rate'])} (>= {MIN_BACKTEST} dates) — "
+              f"{_r(c['backtest']['hit_rate'])} reported: "
+              f"{'yes' if c['backtest'].get('hit_rate_reported') else 'NO'} "
+              f"(>= {MIN_BACKTEST} dates) — "
               f"{'PASS' if c['backtest']['ok'] else 'FAIL'}",
               f"- discovery: {_r(c['discovery']['findings'])} findings · "
               f"{_r(c['discovery']['questions'])} questions (>= 3 hops: "
-              f"{'yes' if c['discovery']['hops_ok'] else 'NO'}) · {_r(c['discovery']['written'])} "
+              f"{'yes' if c['discovery']['hops_ok'] else 'NO'}) · "
+              f"multi-hop F1 {_r(c['discovery'].get('f1'))} (target {MIN_DISCOVERY_F1}) · "
+              f"max q {_r(c['discovery'].get('fdr_max'))} (<= {FDR_MAX}) · "
+              f"out-of-sample checked: "
+              f"{'yes' if c['discovery'].get('oos_checked') is True else 'NO'} · "
+              f"{_r(c['discovery']['written'])} "
               f"`discovered_link` rows — {'PASS' if c['discovery']['ok'] else 'FAIL'}",
               "", "## Deviations", "",
               "- D16: exact-match scoring compares gold numbers (with tolerance) against numbers "
@@ -399,15 +485,26 @@ def _c2_md(report: dict, dc: dict | None, rb: dict | None, bt: dict | None,
     ]
     for k, g in c["eval"]["gates"].items():
         lines.append(f"- {k}: {_r(g['value'])} (target {g['target']}) — {'PASS' if g['ok'] else 'FAIL'}")
-    lines += ["", f"Items in the gold set: {_r(report['counts']['eval_items'])}.", "",
+    qc = c["eval"].get("question_count") or {}
+    lines += ["", f"Items in the gold set: {_r(report['counts']['eval_items'])} "
+              f"(frozen `qa_gold_questions` target {_r(qc.get('target'))}) — "
+              f"{'PASS' if qc.get('ok') else 'FAIL'}.", "",
               "## 2. Gold-set additions", "",
               f"- Analyst-mode rubric: {_r(c['rubric']['graded'])} questions graded, mean "
               f"{_r(c['rubric']['mean_score'])} (target {RUBRIC_TARGET}), judge "
               f"`{(rb or {}).get('judge_model')}`.",
+              # Defect 40: the frozen flag `analyst_backtest_hit_rate_reported: true` makes the
+              # reported hit rate a REQUIREMENT, not a courtesy; the old prose called it "reported,
+              # not a gate" and the report therefore never checked it.
               f"- Backtest: {_r(c['backtest']['dates'])} historical dates, directional hit rate "
-              f"{_r(c['backtest']['hit_rate'])} (reported, not a gate).",
+              f"{_r(c['backtest']['hit_rate'])} (frozen `analyst_backtest_hit_rate_reported` "
+              f"requirement: {'met' if c['backtest'].get('hit_rate_reported') else 'NOT met'}).",
               f"- Discovery: {_r(c['discovery']['findings'])} findings, "
               f"{_r(c['discovery']['questions'])} cross-domain questions needing >= 3 hops, "
+              f"multi-hop F1 {_r(c['discovery'].get('f1'))} (target {MIN_DISCOVERY_F1}), "
+              f"max BH-FDR q {_r(c['discovery'].get('fdr_max'))} (target <= {FDR_MAX}), "
+              f"out-of-sample checked "
+              f"{'yes' if c['discovery'].get('oos_checked') is True else 'NO'}, "
               f"{_r(c['discovery']['written'])} rows in `discovered_link` labelled `computed`.",
               "", "## 3. Top 30 discovered findings (computed, with evidence)", ""]
     fnd = (dc or {}).get("findings") or []

@@ -24,6 +24,7 @@ KB_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(KB_DIR))
 
 import ask as A  # noqa: E402
+import gates as G  # noqa: E402
 import money as M  # noqa: E402
 import p7_analyst as PA  # noqa: E402
 
@@ -31,8 +32,12 @@ ROOT = KB_DIR.parent
 PHASE = "P7"
 OUT = ROOT / "kb" / "state" / "p7" / "rubric.json"
 REPORT = ROOT / "kb" / "reports" / "p7_rubric.json"
-TARGET = 0.8
-N_QUESTIONS = 30
+# Defect 40: the two rubric operands are frozen in `kb/gates.yaml` (`analyst_mode_rubric: 0.80`,
+# `analyst_mode_questions: 30`). They used to be module literals, so the instrument's own copy of the
+# threshold was the thing being graded and a `gates.yaml` change would not have reached this slice.
+# Unreadable ⇒ `None` ⇒ every comparison below fails closed rather than passing on a hardcoded 0.8.
+TARGET = G.threshold(PHASE, "analyst_mode_rubric")
+N_QUESTIONS = G.count_threshold(PHASE, "analyst_mode_questions")
 
 SEGMENTS = ["capesize", "panamax", "supramax", "handysize", "vlcc", "suezmax", "aframax",
             "mr_lr", "lng", "lpg", "container", "snp", "demolition", "newbuilding",
@@ -228,10 +233,17 @@ def run(con=None, chat=None, judge_chat=None, n: int = N_QUESTIONS,
         c = i.get("cost_usd")
         paid = None if (paid is None or c is None) else paid + float(c)
     total: float | None = None if (paid is None or judge_cost is None) else paid + judge_cost
+    # Defect 16/40: §12.3 requires the rubric judge to come from another model family, and the only
+    # record of that was the prose line below — nothing computed it, so a same-family judge could have
+    # graded all 30 questions while the report still claimed a cross-family check. The rule is
+    # single-sourced in `p7_analyst.judge_family` (which delegates to `p4c_audit`). Unreadable route
+    # ⇒ `None`, never a silent claim of difference.
+    judge_fam, fam_differs = PA.judge_family(judge_model, model)
     report = {
         "phase": PHASE, "built_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
         "wall_seconds": round(time.time() - t0, 1),
         "model": model, "judge_model": judge_model,
+        "judge_family": judge_fam, "judge_family_differs": fam_differs,
         "money_spent_usd": None if total is None else round(total, 6),
         "judge_cost_usd": None if judge_cost is None else round(judge_cost, 6),
         "target": TARGET,
@@ -241,7 +253,11 @@ def run(con=None, chat=None, judge_chat=None, n: int = N_QUESTIONS,
         "failures": failures,
         "items": items,
     }
-    report["pass"] = bool(report["mean_score"] is not None
+    # Fail closed on an unreadable frozen operand: `TARGET`/`N_QUESTIONS` are `None` if `gates.yaml`
+    # cannot be read, and every comparison below would then be a `TypeError` at best. `>= None` is not
+    # a pass — it is an unmeasured gate.
+    report["pass"] = bool(TARGET is not None and N_QUESTIONS is not None
+                          and report["mean_score"] is not None
                           and report["mean_score"] >= TARGET
                           and len(graded) >= N_QUESTIONS
                           and counts["balanced"]
@@ -272,7 +288,8 @@ def _md(report: dict) -> str:
         f"- buckets sum to {c.get('buckets_sum')} of {c['questions']} questions "
         f"({'balanced' if c.get('balanced') else 'UNBALANCED — a question landed in no bucket'})",
         f"- writer: `{report['model']}` · judge: `{report['judge_model']}` "
-        f"(different family from the extractor)",
+        f"(judge family `{report.get('judge_family')}` differs from the writer: "
+        f"{'yes' if report.get('judge_family_differs') is True else 'NO'})",
         f"- mean rubric score: {_r(report['mean_score'])} (target >= {report['target']}) · "
         f"result: {'PASS' if report['pass'] else 'FAIL'}",
         # Lesson 69: no default in a money renderer -- `.get('judge_cost_usd', 0.0)` rendered a
@@ -314,6 +331,13 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--out", default=str(OUT))
     ap.add_argument("--report", action="store_true", help="also write kb/reports/p7_rubric.json")
     a = ap.parse_args(argv)
+    if a.n is None:  # frozen `analyst_mode_questions` unreadable: fail closed before any paid call
+        print("rubric question count unreadable (frozen analyst_mode_questions missing)", file=sys.stderr)
+        json.dump({"pass": False, "counts": {"questions": 0, "graded": 0}, "mean_score": None,
+                   "target": TARGET, "counts_gate": None, "unmeasured": ["analyst_mode_questions"]},
+                  sys.stderr, default=str)
+        print(file=sys.stderr)
+        return 2
     con = PA.connect(a.db)
     try:
         report = run(con=con, n=a.n, model=a.model, judge_model=a.judge_model)

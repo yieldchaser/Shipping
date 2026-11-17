@@ -80,6 +80,35 @@ def test_run_counts_ungraded_as_fail(monkeypatch):
     assert rep["counts"]["not_enough_data"] == 30
 
 
+def test_rubric_operands_come_from_the_frozen_gate_file():
+    """Defect 40: `analyst_mode_rubric`/`analyst_mode_questions` are frozen in `kb/gates.yaml`.
+
+    Both were module literals (`TARGET = 0.8`, `N_QUESTIONS = 30`), so the instrument graded itself
+    against its own copy of the threshold: a freeze-budget change in `gates.yaml` would never have
+    reached this slice. The operand now comes from the gate file and an unreadable read fails closed
+    instead of comparing against `None` (which is a `TypeError`, not a PASS).
+    """
+    import gates as G
+    assert R.TARGET == G.threshold(R.PHASE, "analyst_mode_rubric") == 0.80
+    assert R.N_QUESTIONS == G.count_threshold(R.PHASE, "analyst_mode_questions") == 30
+
+
+def test_rubric_gate_is_read_not_hardcoded(monkeypatch):
+    """An unreadable frozen operand must fail the gate, never pass on a literal 0.8/30."""
+    monkeypatch.setattr(R.PA, "analyse", lambda *a, **k: ok_rec())
+    monkeypatch.setattr(R.PA, "judge_answer_cost", lambda *a, **k: (dict(GOOD_JUDGE), 0.0))
+    assert R.run(con=DummyCon())["pass"] is True, "control: the frozen reads are live"
+    monkeypatch.setattr(R, "TARGET", None)
+    assert R.run(con=DummyCon())["pass"] is False
+    monkeypatch.setattr(R, "TARGET", 0.80)
+    monkeypatch.setattr(R, "N_QUESTIONS", None)
+    assert R.run(con=DummyCon())["pass"] is False
+    # A doctored `--n` below the frozen count cannot pass either: the arm reads the frozen 30.
+    monkeypatch.setattr(R, "N_QUESTIONS", 30)
+    rep = R.run(con=DummyCon(), n=5)
+    assert rep["counts"]["questions"] == 5 and rep["pass"] is False
+
+
 # ------------------------------------------------------------------ Defect 17
 def test_clamp_score_rejects_unusable_judge_scores():
     """An LLM-provided score is untrusted input; only numbers inside [0, 1] are usable."""
@@ -345,8 +374,13 @@ def test_main_json_artefact_never_writes_infinity(tmp_path, monkeypatch):
 
 # ------------------------------------------------------------------ p7_report
 def good_eval():
+    # Defect 40: the eval artefact now carries its own `qa_gold_questions` count arm, so the fixture
+    # must state the frozen 250-question target's operand explicitly — the report re-reads the target
+    # from `kb/gates.yaml` itself and never trusts this field, so a doctored value here cannot widen
+    # the gate (see `test_qa_count_target_is_read_from_the_frozen_file_not_the_artefact`).
     return {"metrics": {k: min(1.0, v + 0.01) for k, v in P.TARGETS.items()},
-            "counts": {"items": 250}, "model": "ultrafast", "judge_model": "gpt-oss-120b"}
+            "counts": {"items": 250}, "question_count": {"value": 250, "target": 250},
+            "model": "ultrafast", "judge_model": "gpt-oss-120b"}
 
 
 def good_rubric():
@@ -355,12 +389,20 @@ def good_rubric():
 
 
 def good_backtest():
-    return {"segments": [{"segment": "capesize", "dates": 20, "n": 30, "hits": 18},
-                         {"segment": "vlcc", "dates": 20, "n": 10, "hits": 6}]}
+    # Defect 40: the frozen `analyst_backtest_hit_rate_reported: true` requirement is now enforced, so
+    # every segment row and the single-segment shape must state a real boolean.
+    return {"segments": [{"segment": "capesize", "dates": 20, "n": 30, "hits": 18,
+                          "hit_rate_reported": True},
+                         {"segment": "vlcc", "dates": 20, "n": 10, "hits": 6,
+                          "hit_rate_reported": True}]}
 
 
 def good_discovery(n: int = 30):
+    # Defect 40: the three frozen discovery operands (`discovered_links_fdr_max`,
+    # `discovered_links_out_of_sample_checked`, `discovery_multihop_f1`) are now gate arms, so the
+    # fixture states each operand the way `kb/p7_discovery.py` emits it.
     return {"counts": {"findings": n, "survivors": n + 5, "written": n + 5},
+            "multihop_f1": 0.75, "fdr_max": 0.01, "oos_checked": True,
             "findings": [{"kind": "lead_lag", "a": "commodity_iron_ore", "b": "freight_dry",
                           "stat": 0.4, "q": 0.01, "n": 30, "window_from": "2020-01-01",
                           "window_to": "2024-12-01", "evidence": ["series:a", "series:b"]}
@@ -380,16 +422,66 @@ def test_build_passes():
 def test_build_fails_per_component(mutate):
     ev, rb, bt, dc = good_eval(), good_rubric(), good_backtest(), good_discovery()
     if mutate == "eval":
-        ev["metrics"]["recall_at_20"] = 0.10
+        ev["metrics"]["exact_match_numeric"] = 0.10
     elif mutate == "rubric":
         rb["counts"]["graded"] = 29
     elif mutate == "backtest":
-        bt = {"dates": 5, "hit_rate": 0.5, "n": 5}
+        bt = {"dates": 5, "hit_rate": 0.5, "n": 5, "hit_rate_reported": True}
     else:
         dc = good_discovery(29)
     rep = P.build(ev, rb, bt, dc, 1.0)
     assert rep["pass"] is False and rep["checks"][mutate]["ok"] is False
     assert "FAIL" in P._md(rep)
+
+
+def test_frozen_operands_are_read_from_the_gate_file_not_the_artefact():
+    """Defect 40: five frozen P7 operands were never read, and their artefact twins were trusted.
+
+    `qa_gold_questions`, `analyst_backtest_hit_rate_reported`, `discovery_multihop_f1`,
+    `discovered_links_fdr_max` and `discovered_links_out_of_sample_checked` are in `kb/gates.yaml`, but
+    the report either ignored them (`fdr_max`, `oos_checked`, `multihop_f1` — so a 0.4 q-value, an
+    in-sample-only scan and an F1 of zero all read as a clean sweep) or took the target from the very
+    artefact it was judging (`question_count.target`), so a doctored eval JSON could widen its own gate.
+    The target must come from the frozen file, and an unreadable frozen side must fail closed.
+    """
+    # The frozen reads themselves resolve to the gate file's own values.
+    assert P.MIN_BACKTEST == 20 and P.RUBRIC_TARGET == 0.80
+    assert P.MIN_DISCOVERY_F1 == 0.70 and P.FDR_MAX == 0.10 and P.OOS_CHECKED is True
+    assert P.QA_COUNT_KEY == "qa_gold_questions"
+    assert P.check_eval(good_eval())["question_count"] == {"value": 250, "target": 250, "ok": True}
+
+    # A doctored `target` in the artefact cannot widen the arm: the frozen file still says 250.
+    ev = good_eval()
+    ev["question_count"] = {"value": 5, "target": 5}
+    c = P.check_eval(ev)
+    assert c["question_count"]["target"] == 250 and c["question_count"]["ok"] is False
+    assert c["ok"] is False
+    # ...and with the target `None`-ed in the artefact the arm still reads the frozen value.
+    ev["question_count"] = {"value": 250, "target": None}
+    assert P.check_eval(ev)["question_count"] == {"value": 250, "target": 250, "ok": True}
+
+    # Each frozen float arm fails closed on its own boundary.
+    for f1, ok in ((0.70, True), (0.69, False), (None, False)):
+        assert P.check_discovery(good_discovery() | {"multihop_f1": f1})["ok"] is ok, f1
+    for q, ok in ((0.10, True), (0.11, False), (None, False)):
+        assert P.check_discovery(good_discovery() | {"fdr_max": q})["ok"] is ok, q
+    # Out-of-sample must be an explicit `True`: `False`, a missing key and a truthy non-bool all fail.
+    for oos in (True, False, None, "yes", 1):
+        c = P.check_discovery(good_discovery() | {"oos_checked": oos})
+        assert c["ok"] is (oos is True), oos
+        assert c["oos_ok"] is (oos is True), oos
+    # The hit-rate flag is the same shape: only a real bool `True` satisfies the frozen requirement.
+    # The aggregate shape carries no rate of its own — every segment row must state the flag.
+    for flag in (True, False, None, "yes", 1):
+        c = P.check_backtest({"dates": 20, "n": 5, "hits": 3, "hit_rate": 0.6,
+                              "hit_rate_reported": flag})
+        assert c["ok"] is (flag is True), flag
+        assert c["hit_rate_reported"] is (flag is True), flag
+    # Every segment row must state it, not just the aggregate.
+    bt = good_backtest()
+    bt["segments"][1]["hit_rate_reported"] = False
+    assert P.check_backtest(bt)["ok"] is False
+    assert P.check_backtest(bt)["hit_rate_reported"] is False
 
 
 def test_build_all_missing():
@@ -404,8 +496,8 @@ def test_build_all_missing():
 def test_a_bool_or_nonfinite_metric_can_never_pass_a_gate():
     """Defect 24: the gate-verdict read of an on-disk metric was a bare `isinstance(v, (int, float))`.
 
-    `isinstance(True, (int, float))` is True, so an artefact JSON holding `"recall_at_20": true` read as
-    the number 1 and passed a §12 target; `inf >= target` is also True, so an overflow-to-inf metric
+    `isinstance(True, (int, float))` is True, so an artefact JSON holding `"retrieval_recall_at_20":
+    true` read as the number 1 and passed a §12 target; `inf >= target` is also True, so an overflow-to-inf metric
     passed. Both then flipped `report["pass"]` and the C2 packet's `Recommend publishing the snapshot
     and starting P8.` — the one line that authorises the release. NaN was silently a FAIL, which is the
     same broken read from the other side. This is the Defect-23 shape moved from money/config reads to
@@ -436,7 +528,7 @@ def test_a_bool_or_nonfinite_metric_can_never_pass_a_gate():
 
     # End to end: the poisoned metric reaches the owner-facing recommendation line.
     ev = good_eval()
-    ev["metrics"]["recall_at_20"] = float("inf")
+    ev["metrics"]["retrieval_recall_at_20"] = float("inf")
     rep = P.build(ev, good_rubric(), good_backtest(), good_discovery(), 1.0, 1.0)
     assert rep["pass"] is False and rep["gate"]["p7"] is False
     c2 = P._c2_md(rep, good_discovery(), good_rubric(), good_backtest(), ev)
@@ -467,8 +559,18 @@ def test_gate_operand_counts_reject_unreadable_artefact_values():
     # The boundary arms still pass: exactly the minimum is a pass, one under is a fail.
     assert P.check_rubric({"mean_score": 0.86, "counts": {"graded": 30}})["ok"] is True
     assert P.check_rubric({"mean_score": 0.86, "counts": {"graded": 29}})["ok"] is False
-    assert P.check_backtest({"dates": 20, "hit_rate": 0.5, "n": 5})["ok"] is True
-    assert P.check_backtest({"dates": 19, "hit_rate": 0.5, "n": 5})["ok"] is False
+    # Defect 40: the single-segment literals carry the artefact's own boolean flag, because the frozen
+    # `analyst_backtest_hit_rate_reported: true` requirement is now an arm of `check_backtest`.
+    assert P.check_backtest({"dates": 20, "hit_rate": 0.5, "n": 5,
+                             "hit_rate_reported": True})["ok"] is True
+    assert P.check_backtest({"dates": 19, "hit_rate": 0.5, "n": 5,
+                             "hit_rate_reported": True})["ok"] is False
+    # ...and the flag arm itself fails closed on every way of not stating it.
+    assert P.check_backtest({"dates": 20, "hit_rate": 0.5, "n": 5})["ok"] is False
+    assert P.check_backtest({"dates": 20, "hit_rate": 0.5, "n": 5,
+                             "hit_rate_reported": False})["ok"] is False
+    assert P.check_backtest({"dates": 20, "hit_rate": None, "n": 0,
+                             "hit_rate_reported": True})["ok"] is False
 
     # Broken reads: bool, non-finite, non-numeric, a container, and off a count's own value domain.
     bad = (True, False, float("inf"), float("-inf"), float("nan"), "20", [20], 1.5, -0.1)
@@ -601,7 +703,7 @@ def test_no_unreadable_artefact_read_reaches_the_c2_packet_or_p7_json():
     rep = P.build(ev, rb, bt, dc, BIG, BIG)
     assert rep["pass"] is False and rep["gate"]["p7"] is False
     assert rep["checks"]["eval"]["ok"] is False and rep["checks"]["rubric"]["ok"] is False
-    assert rep["checks"]["eval"]["gates"]["exact_a_b_e_g"]["value"] is None
+    assert rep["checks"]["eval"]["gates"]["exact_match_numeric"]["value"] is None
     assert rep["checks"]["rubric"]["mean_score"] is None
 
     md = P._md(rep)
@@ -610,19 +712,19 @@ def test_no_unreadable_artefact_read_reaches_the_c2_packet_or_p7_json():
         assert "inf" not in text and "Infinity" not in text and "NaN" not in text, text
         assert "True" not in text and "None" not in text, text
     # The gate table renders the guarded read, and the finding statistics render as unmeasured.
-    assert "| exact_a_b_e_g | n/a | 0.97 | NO |" in md
-    assert "- exact_a_b_e_g: n/a (target 0.97) — FAIL" in c2
+    assert "| exact_match_numeric | n/a | 0.97 | NO |" in md
+    assert "- exact_match_numeric: n/a (target 0.97) — FAIL" in c2
     assert "stat n/a · q n/a · n n/a" in c2
     # A real read is still a real read: the good arm renders its numbers, not `n/a`.
     good_md = P._md(P.build(good_eval(), good_rubric(), good_backtest(), good_discovery(), 1.0, 2.0))
-    assert "| exact_a_b_e_g | 0.98 | 0.97 | yes |" in good_md
+    assert "| exact_match_numeric | 0.98 | 0.97 | yes |" in good_md
     assert "mean 0.86 over 30 graded" in good_md
 
     # The written artefact stays valid JSON: `Infinity`/`NaN` are not JSON, so they serialise as null.
     payload = json.dumps(P._json_safe(rep), indent=1, default=str)
     assert "Infinity" not in payload and "NaN" not in payload
     loaded = json.loads(payload)
-    assert loaded["checks"]["eval"]["gates"]["exact_a_b_e_g"]["value"] is None
+    assert loaded["checks"]["eval"]["gates"]["exact_match_numeric"]["value"] is None
     assert loaded["wall_seconds"] == 0.0  # a broken wall read is unmeasured, never `inf` seconds
     assert loaded["money_spent_usd"] is None
     # `main()` sums each artefact's `wall_seconds`; a string there used to raise straight out of it.

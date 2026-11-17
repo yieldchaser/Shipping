@@ -160,9 +160,13 @@ def test_main_writes_files(db, tmp_path, monkeypatch):
     rep = tmp_path / "report.json"
     monkeypatch.setattr(D, "REPORT", rep)
     rc = D.main(["--db", str(db), "--out", str(out), "--report"])
-    assert rc == 0 and out.exists() and rep.exists()
+    # Defect 10: both artefacts are written on every run, and the exit code is the frozen-gate
+    # verdict — the five-series fixture cannot reach `discovery_questions_3hop: 20`, so it exits 1.
+    assert out.exists() and rep.exists()
     data = json.loads(out.read_text(encoding="utf-8"))
     assert data["counts"]["tests"] >= 1
+    assert rc == (0 if data["pass"] else 1)
+    assert rc == 1, "a discovery pass below the frozen gate must not report success"
 
 
 # ---- Defect 35 (limb 3): on-disk stat/count reads, render guards, JSON writers ----
@@ -223,11 +227,16 @@ def test_main_writes_strict_json_when_a_stat_is_non_finite(db, tmp_path, monkeyp
     Only `json.dumps(_json_safe(...))` survives: the default encoder writes `Infinity`, which
     `json.loads` (tests here) accepts but no strict JSON reader does, and the raw `default=str`
     fallback does not sanitise native floats at all.
+
+    Defect 10: the exit code is now the frozen-gate verdict, so this case asserts the artefact stays
+    strict JSON *and* that the code matches the verdict the pass actually computed.
     """
     real_build = D.build
+    seen = {}
 
     def poisoned(con, **kw):
         rep = real_build(con, **kw)
+        seen["pass"] = rep["pass"]
         rep["links"] = [{"kind": "comovement", "a": "a", "b": "b", "stat": BIG, "p": float("nan"),
                          "q": float("inf"), "lag": 0, "n": 30, "window_from": None,
                          "window_to": None, "evidence": ["a"], "link_id": "dl:00001",
@@ -239,7 +248,8 @@ def test_main_writes_strict_json_when_a_stat_is_non_finite(db, tmp_path, monkeyp
     out = tmp_path / "discovery.json"
     rep_path = tmp_path / "report.json"
     monkeypatch.setattr(D, "REPORT", rep_path)
-    assert D.main(["--db", str(db), "--out", str(out), "--report"]) == 0
+    code = D.main(["--db", str(db), "--out", str(out), "--report"])
+    assert code == (0 if seen["pass"] else 1), seen
     for path in (out, rep_path):
         text = path.read_text(encoding="utf-8")
         assert "Infinity" not in text and "NaN" not in text, path
@@ -247,4 +257,137 @@ def test_main_writes_strict_json_when_a_stat_is_non_finite(db, tmp_path, monkeyp
         assert data["links"][0]["stat"] is None
         assert data["links"][0]["p"] is None
         assert data["links"][0]["q"] is None
+
+
+def test_main_exit_code_is_the_frozen_gate_verdict(db, tmp_path, monkeypatch):
+    """Defect 10: `main` used to `return 0` unconditionally — a discovery pass that met nothing at
+    all exited "success", and the frozen `discovered_links_*` operands were never read.
+
+    Every way of missing the frozen gate must exit non-zero, including an unreadable `kb/gates.yaml`
+    operand (UNMEASURED fails closed).
+    """
+    out = tmp_path / "discovery.json"
+    monkeypatch.setattr(D, "REPORT", tmp_path / "report.json")
+    assert D.main(["--db", str(db), "--out", str(out)]) == 1  # tiny fixture: gates unmet
+
+    # a poisoned operand (readable nowhere) must not be able to look satisfied
+    monkeypatch.setattr(D, "FDR_MAX", None)
+    assert D.main(["--db", str(db), "--out", str(out)]) == 1
+    monkeypatch.setattr(D, "FDR_MAX", 0.10)
+
+    # and a pass is reported as pass only when every operand is readable and satisfied
+    real_build = D.build
+
+    def forced(con, **kw):
+        rep = real_build(con, **kw)
+        rep["gates"] = {k: {**g, "ok": True} for k, g in rep["gates"].items()}
+        rep["pass"] = True
+        return rep
+
+    monkeypatch.setattr(D, "build", forced)
+    assert D.main(["--db", str(db), "--out", str(out)]) == 0
+
+
+# ---- Defect 40 (limb 3): the frozen `discovery_multihop_f1: 0.70` operand's missing producer ----
+
+
+def test_discovery_multihop_f1_arm_reads_the_frozen_threshold(con):
+    """Defect 40 (limb 3): `p7_report.check_discovery` read `dc["multihop_f1"]`, but `build` never
+    wrote it and no module produced it — the C2 discovery arm was permanently UNMEASURED.
+
+    The new arm must use the frozen operand name, READ `0.70` from `kb/gates.yaml` (never a literal),
+    and sit in the same `{"value","target","ok"}` shape as the three existing arms.
+    """
+    rep = D.build(con)
+    arm = rep["gates"]["discovery_multihop_f1"]
+    assert set(arm) == {"value", "target", "ok"}
+    assert arm["target"] == 0.70 == D.MIN_DISCOVERY_F1
+    assert rep["multihop_f1"] == arm["value"]                 # the frozen consumer-facing key
+    assert isinstance(rep["counts"]["questions_graded"], int)
+    assert rep["counts"]["questions_graded"] == sum(
+        1 for r in rep["graded_questions"] if r["status"] == "graded")
+    assert rep["counts"]["questions_graded"] + sum(
+        1 for r in rep["graded_questions"] if r["status"] == "ungraded") == len(rep["questions"])
+    # `ok` is null exactly when either side is UNMEASURED; otherwise it is the comparison itself
+    assert arm["ok"] == (None if (arm["value"] is None or arm["target"] is None)
+                         else (arm["value"] >= arm["target"]))
+    # the five-series fixture cannot reach `discovery_questions_3hop: 20`, so the pass still fails —
+    # but the new arm is MEASURED here, not vacuous
+    assert arm["ok"] is True and rep["pass"] is False
+    text = json.dumps(D._json_safe(rep))
+    assert "Infinity" not in text and "NaN" not in text
+
+
+def test_multihop_f1_arm_satisfied_only_by_a_real_graded_mean(db, monkeypatch):
+    """Defect 40 (limb 3): non-vacuity both ways — an UNMEASURED mean must fail closed, and a real
+    graded mean must be what satisfies the arm. A `None` mean must never read as `ok: true`."""
+    con = duckdb.connect(str(db), read_only=True)
+    try:
+        real = D.build(con)
+    finally:
+        con.close()
+    arm = real["gates"]["discovery_multihop_f1"]
+    assert real["counts"]["questions_graded"] >= 1
+    assert arm["value"] is not None and arm["value"] >= arm["target"]
+    assert arm["ok"] is True and real["multihop_f1"] is not None
+
+    monkeypatch.setattr(D, "grade_questions",
+                        lambda *a, **k: {"questions_f1": None, "graded": 0, "ungraded": 0, "rows": []})
+    con = duckdb.connect(str(db), read_only=True)
+    try:
+        unmeasured = D.build(con)
+    finally:
+        con.close()
+    arm = unmeasured["gates"]["discovery_multihop_f1"]
+    assert arm["value"] is None and arm["target"] == 0.70 and arm["ok"] is None
+    assert unmeasured["multihop_f1"] is None and unmeasured["counts"]["questions_graded"] == 0
+    assert unmeasured["pass"] is False
+
+
+def test_graded_mean_is_never_non_finite_or_bool(con):
+    """Defect 40 (limb 3): a poisoned link `stat`/`n` (`True`, `inf`, `nan`, `"0.5"`, a 401-digit int)
+    must read as an ABSENT component or an UNGRADED question — never `inf`, never `True` (which is a
+    README-visible `bool` where a float belongs and, being a subclass of `int`, would also JSON-encode
+    as `true`) and never a hardcoded `1.0`."""
+    data = D.load_monthly(con)
+    D.attach_entities(data["series"], con)
+    qs = [{"id": f"D-{i:03d}", "question": "?", "kind": "comovement", "link_id": f"dl:{i:05d}",
+           "hops": 3, "evidence": ["D1", "D2"]} for i in range(1, 3)]
+    for poison in (True, False, float("inf"), float("-inf"), float("nan"), "0.5", BIG, None, 0.974):
+        links = [{"link_id": f"dl:{i:05d}", "kind": "comovement", "a": "D1", "b": "D2",
+                  "stat": poison, "p": 0.0, "lag": 0, "n": poison, "evidence": ["D1", "D2"],
+                  "window_from": "2023-02-01 00:00:00", "window_to": "2025-12-01 00:00:00"}
+                 for i in range(1, 3)]
+        got = D.grade_questions(qs, links, data, con=con)
+        f1 = got["questions_f1"]
+        assert not isinstance(f1, bool), (poison, got)
+        assert f1 is None or (isinstance(f1, float) and math.isfinite(f1)), (poison, got)
+        assert got["graded"] + got["ungraded"] == len(qs)
+        text = json.dumps(D._json_safe(got))
+        assert "Infinity" not in text and "NaN" not in text, (poison, text)
+
+
+def test_graded_mean_divides_by_graded_questions_only(con):
+    """Defect 40 (limb 3): an ungradable question is dropped from the mean, not scored `0.0`, so the
+    denominator is the graded count and `graded + ungraded == len(questions)` always holds."""
+    data = D.load_monthly(con)
+    D.attach_entities(data["series"], con)
+    links = D.add_ids(D.survive(D.lead_lag(data["series"]) + D.comovement(data["series"])
+                                + D.bridges(data["series"], con)))
+    qs = D.bridge_questions(links)
+    full = D.grade_questions(qs, links, data, con=con)
+    assert full["graded"] == len(qs) and full["ungraded"] == 0
+    assert full["questions_f1"] is not None
+
+    victim = qs[-1]["link_id"]                      # lose one question's link row -> UNGRADED
+    fewer = D.grade_questions(qs, [l for l in links if l["link_id"] != victim], data, con=con)
+    assert fewer["graded"] == full["graded"] - 1 and fewer["ungraded"] == 1
+    assert fewer["graded"] + fewer["ungraded"] == len(qs)
+    remaining = [r["multihop_f1"] for r in fewer["rows"] if r["status"] == "graded"]
+    assert fewer["questions_f1"] == round(sum(remaining) / len(remaining), 4)
+
+    # nothing gradable at all is UNMEASURED, never `0.0`
+    empty = D.grade_questions(qs, [], data, con=con)
+    assert empty["questions_f1"] is None and empty["graded"] == 0
+    assert empty["ungraded"] == len(qs) and all(r["status"] == "ungraded" for r in empty["rows"])
 

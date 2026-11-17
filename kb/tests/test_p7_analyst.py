@@ -382,3 +382,110 @@ def test_run_backtest_reports_unmeasured_spend_rather_than_a_partial_sum(db, mon
     assert res["spend_usd"] is None
     assert all(r["cost_usd"] is None for r in res["rows"])
     assert M.fmt_usd(res["spend_usd"]) == "UNMEASURED"
+
+
+# ------------------------------------------- D1: frozen date count (Defect 40 family, gates.yaml)
+def test_backtest_dates_default_is_the_frozen_gate_read():
+    """The default date count is the frozen P7 operand, never a private literal.
+
+    Non-vacuity: if `kb/gates.yaml` is readable in this environment the read must be the frozen `20`;
+    if it is not, the module must carry `None` (UNMEASURED) rather than a fabricated number.
+    """
+    import gates as G
+
+    frozen = G.count_threshold("P7", "analyst_backtest_dates")
+    assert P.BACKTEST_DATES == frozen
+    assert P.BACKTEST_DATES in (20, None), "no invented date count may appear here"
+    import inspect
+
+    src = inspect.getsource(P)
+    assert "BACKTEST_DATES = G.count_threshold(PHASE, \"analyst_backtest_dates\")" in src
+
+
+def test_unreadable_frozen_dates_fail_closed_in_main(db, monkeypatch, tmp_path):
+    """D1: an unreadable frozen operand must not be graded as a backtest of an invented 20 dates."""
+    monkeypatch.setattr(P, "BACKTEST_DATES", None)
+    monkeypatch.setattr(P.A, "_resolver", lambda con, cache: (lambda h: True))
+    monkeypatch.setattr(P.A, "_chat", _chat([GOOD] * 40))
+    out = tmp_path / "bt.json"
+    rc = P.main(["--backtest", "--segment", "capesize", "--db", str(db), "--out", str(out)])
+    assert rc != 0, "unreadable frozen date count must fail closed"
+    # It must not have written a fabricated-pass artefact.
+    assert not out.exists() or json.loads(out.read_text(encoding="utf-8"))["dates"] is None
+
+
+def test_run_backtest_none_dates_is_unmeasured_not_a_pass(db, monkeypatch):
+    """`run_backtest(n=None)` reports unmeasured date count, never a 0-date green backtest."""
+    monkeypatch.setattr(P.A, "_resolver", lambda con, cache: (lambda h: True))
+    monkeypatch.setattr(P.A, "_chat", _chat([GOOD] * 40))
+    res = P.run_backtest("capesize", None, db=db)
+    assert res["dates"] is None
+    assert res["hit_rate"] is None and res["hit_rate_reported"] is False
+    assert res["rows"] == []
+
+
+# ------------------------------------------- D5: fail-closed exit code
+def test_main_exit_code_is_fail_closed(monkeypatch, tmp_path):
+    """D5: only an EXPLICITLY enumerated success status exits 0; missing/unknown status exits 1."""
+    out = tmp_path / "d5.json"
+    for res, expected in (({"status": "ok"}, 0),
+                          ({"status": "not_in_data"}, 0),
+                          ({"status": "not_enough_data"}, 0),
+                          ({"status": "malformed"}, 1),
+                          ({"status": "unmeasured"}, 1),
+                          ({}, 1),
+                          ({"status": None}, 1),
+                          ({"status": "whatever"}, 1)):
+        monkeypatch.setattr(P, "analyse", lambda *a, _r=res, **k: _r)
+        rc = P.main(["q", "--segment", "capesize", "--out", str(out)])
+        assert rc == expected, (res.get("status"), expected)
+    assert out.exists()
+
+
+# ------------------------------------------- D6: durable artefact path
+def test_main_default_out_is_the_path_p7_report_reads(db, monkeypatch, tmp_path, capsys):
+    """D6: an implicit `--out` writes the artefact `kb/p7_report.py --backtest` reads by default."""
+    assert P.BACKTEST_JSON == P.ROOT / "kb" / "state" / "p7" / "backtest.json"
+    dest = tmp_path / "p7" / "backtest.json"
+    monkeypatch.setattr(P, "BACKTEST_JSON", dest)
+    monkeypatch.setattr(P.A, "_resolver", lambda con, cache: (lambda h: True))
+    monkeypatch.setattr(P.A, "_chat", _chat([GOOD] * 40))
+    rc = P.main(["--backtest", "--segment", "capesize", "--dates", "20", "--db", str(db)])
+    assert rc == 0
+    payload = json.loads(dest.read_text(encoding="utf-8"))
+    assert payload["segment"] == "capesize" and payload["dates"] >= 15
+    # Fixture answers make no up/down call, so no call is scored: the flag must read False, not True.
+    assert payload["hit_rate_reported"] is (payload["hit_rate"] is not None and payload["n"] > 0)
+    assert payload["hit_rate_reported"] is False
+    # stdout JSON is kept as well
+    assert json.loads(capsys.readouterr().out)["segment"] == "capesize"
+
+
+def test_hit_rate_reported_is_false_when_no_call_was_scored(db, monkeypatch):
+    """The frozen `analyst_backtest_hit_rate_reported` flag is derived, never defaulted to True."""
+    monkeypatch.setattr(P.A, "_resolver", lambda con, cache: (lambda h: True))
+    monkeypatch.setattr(P.A, "_chat", _chat([GOOD] * 40))
+    res = P.run_backtest("capesize", 20, db=db)
+    assert isinstance(res["hit_rate_reported"], bool)
+    assert res["hit_rate_reported"] is (res["hit_rate"] is not None and res["n"] > 0)
+    # the flag rides the score dict it is derived from, in both directions
+    rows = [{"call": "up", "realised": 0.2}, {"call": "up", "realised": -0.1}]
+    assert P.score_calls(rows) == {"n": 2, "hits": 1, "hit_rate": 0.5}
+    assert P.hit_rate_reported(P.score_calls(rows)) is True
+    assert P.hit_rate_reported({"n": 0, "hits": 0, "hit_rate": None}) is False
+    assert P.hit_rate_reported({}) is False
+
+
+def test_artefact_carries_writer_and_judge_families(db, monkeypatch):
+    """§12.3: the artefact must let a report assert the judge is cross-family, not just claim it."""
+    monkeypatch.setattr(P.A, "_resolver", lambda con, cache: (lambda h: True))
+    monkeypatch.setattr(P.A, "_chat", _chat([GOOD] * 40))
+    res = P.run_backtest("capesize", 20, db=db)
+    assert res["model"] == P.A.DEFAULT_MODEL and res["judge_model"] == P.JUDGE_MODEL
+    assert res["writer_family"] == "deepseek"
+    assert res["judge_family"] == "gemma"
+    assert res["judge_family_differs"] is True
+    # the single-sourced rule, read the other way round
+    fam, differs = P.judge_family(P.A.DEFAULT_MODEL, P.JUDGE_MODEL)
+    assert fam == "gemma" and differs is True
+    assert P.judge_family("gemma-4-31b", "Gemma-4-31B-IT")[1] is False
