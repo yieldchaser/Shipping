@@ -1758,7 +1758,7 @@ port2380,Donggi Senoro LNG Terminal,Indonesia,IDN,Asia & Pacific,"Donggi Senoro 
 port2381,Dongguan LNG Terminal,China,CHN,Asia & Pacific,"Dongguan LNG Terminal, China",22.950090353838224,113.55846369487617,1922,1,13,13,0,1895,,,,0.28,0.0,,16b4a3fde77c4962a1736ce6d666ef52,China,1758
 port2382,Escobar LNG Terminal,Argentina,ARG,South America,"Escobar LNG Terminal, Argentina",-34.24209991937602,-58.76005938687225,122,1,16,17,13,75,,,,0.3,0.13,,cb5cb8ac9fa5405e902a1624302d4b7f,Argentina,1759
 port2383,Guangdong Dapeng LNG Terminal,China,CHN,Asia & Pacific,"Guangdong Dapeng LNG Terminal, China",22.581784172818544,114.44171478330917,166,0,0,0,0,166,,,,0.18,0.0,CN GUT,97fe65b9cc5246f7843c3977539d2574,China,1760
-port2384,Pagbilao LNG Terminal,Philippines,PHL,Asia & Pacific,"Pagbilao LNG Terminal, Philippines",13.894151584375521,121.74331249925454,28,0,28,0,0,0,,,,1.96,0.0,PH PGB,301403d7d14e42958d39439f1a19e29b,Philippines,1761
+port2384,Pagbilao,Philippines,PHL,Asia & Pacific,"Pagbilao, Philippines",13.894151584375521,121.74331249925454,28,0,28,0,0,0,,,,1.96,0.0,PH PGB,301403d7d14e42958d39439f1a19e29b,Philippines,1761
 port2385,Peru LNG Terminal,Peru,PER,South America,"Peru LNG Terminal, Peru",-13.26202704562233,-76.30734169561661,54,0,0,0,0,54,,,,0.0,3.1,PE PMC,9f90189c669e42cc8a0b85e8a085e798,Peru,1762
 port2386,Revithoussa LNG Terminal,Greece,GRC,Europe,"Revithoussa LNG Terminal, Greece",37.960310610130925,23.401960166606223,44,0,0,0,0,44,,,,1.72,0.0,GR REV,7fccc3fec3524c03a9733b95061a7d0f,Greece,1763
 port2387,Rudong Jiangsu LNG Terminal,China,CHN,Asia & Pacific,"Rudong Jiangsu LNG Terminal, China",32.52938810707759,121.41493623806116,229,0,5,5,0,219,,,,0.03,0.0,CN YKG,7b6a2f5a098c4818b3e430e54471c125,China,1764
@@ -2064,3 +2064,9 @@ port2505,Wenzhou LNG Terminal,China,CHN,Asia & Pacific,"Wenzhou LNG Terminal, Ch
 port2506,Woodfibre LNG Terminal,Canada,CAN,North America,"Woodfibre LNG Terminal, Canada",49.66464480869747,-123.25162935184521,0,0,0,0,0,0,,,,0.0,0.0,,4a60188780884b038db8f78ffe61b151,Canada,2064
 port2507,Yancheng,China,CHN,Asia & Pacific,"Yancheng, China",34.29697046466422,120.27855945133764,0,0,0,0,0,0,,,,0.0,0.0,,e83c0354a80b448f9bbaf14bb0f0f3ef,China,2065
 port2508,Zhangzhou LNG Terminal,China,CHN,Asia & Pacific,"Zhangzhou LNG Terminal, China",24.283851978106735,118.12163045108677,0,0,0,0,0,0,,,,0.0,0.0,,f7b87ec117f741cebfae5c73671edb7f,China,2066
+port2509,Cayo Arcas,Mexico,MEX,North America,"Cayo Arcas, Mexico",20.1614934199062,-91.9593530651112,0,0,0,0,0,0,,,,0.0,0.0,,f1625aeef8234f98884ec00bfd466857,Mexico,2067
+port2510,El Boleo,Mexico,MEX,North America,"El Boleo, Mexico",27.371850742714464,-112.28658609764456,0,0,0,0,0,0,,,,0.0,0.0,,e0aef82375064bca84bc72cf218821e4,Mexico,2068
+port2511,Isla Cedros,Mexico,MEX,North America,"Isla Cedros, Mexico",28.043245629417545,-115.17891517416328,0,0,0,0,0,0,,,,0.0,0.0,,d0ab7835cc3a4546a600e1a73dafc7ac,Mexico,2069
+port2512,Isla San Marcos,Mexico,MEX,North America,"Isla San Marcos, Mexico",27.18883027704299,-112.08257728068938,0,0,0,0,0,0,,,,0.0,0.0,,08c44b76bc7c4aaa9f361196b7f6b17a,Mexico,2070
+port2513,Santa María,Mexico,MEX,North America,"Santa María, Mexico",27.434185109237198,-112.31429274776958,0,0,0,0,0,0,,,,0.0,0.0,,7d6caadedc5b41b0af650d8f107c09e1,Mexico,2071
+port2514,Seybaplaya,Mexico,MEX,North America,"Seybaplaya, Mexico",19.651898250793252,-90.70706836666837,0,0,0,0,0,0,,,,0.0,0.0,,0ceb50e07d5447ae8723f1d8fa5ff393,Mexico,2072

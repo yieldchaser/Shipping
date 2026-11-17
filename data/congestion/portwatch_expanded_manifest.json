@@ -4,8 +4,8 @@
   "payload_decision": "Full 2019->live daily universe ~5.8M rows ~726MB raw CSV exceeds GitHub 100MB/file hard limit; ships as current-year hot CSV (+zstd parquet) plus per-prior-year csv.gz shards (measured 25.7 B/row gz). No data pruned.",
   "sizes": {
     "portwatch_ports_master.csv": {
-      "rows": 2065,
-      "bytes": 460098
+      "rows": 2071,
+      "bytes": 461122
     },
     "chokepoints_master.csv": {
       "rows": 28,
@@ -16,19 +16,19 @@
       "bytes": 48762
     },
     "port_calls_daily_expanded.csv": {
-      "rows": 600264,
-      "bytes": 68219817
+      "rows": 614761,
+      "bytes": 69882460
     },
     "port_calls_daily_expanded.parquet": {
-      "rows": 600264,
-      "bytes": 9911829
+      "rows": 614761,
+      "bytes": 10134676
     }
   },
-  "rows": 0,
-  "ports_ingested": 2065,
-  "max_date": "2026-11-06",
+  "rows": 14497,
+  "ports_ingested": 2071,
+  "max_date": "2026-11-13",
   "min_date": "2026-01-01",
   "mode": "refresh",
-  "elapsed_s": 15.1,
-  "generated_utc": "2026-11-12 14:02 UTC"
+  "elapsed_s": 899.4,
+  "generated_utc": "2026-11-17 15:08 UTC"
 }
