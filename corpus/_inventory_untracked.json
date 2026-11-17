@@ -7,13 +7,13 @@
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4067,
-      "untracked_bytes": 2393376057
+      "untracked_files": 4057,
+      "untracked_bytes": 2389108169
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 18,
-      "untracked_bytes": 3775359
+      "untracked_files": 9,
+      "untracked_bytes": 2035986
     },
     {
       "path": "corpus/04-poten",
@@ -14908,26 +14908,6 @@
       "sha256": "0bba66ef4bd0790e891d2fa8957aff2678eaaf35df892acb039919ba36270d07"
     },
     {
-      "path": "corpus/02-hellenic/demolition/2026/2026-11-14_best-oasis-weekly-recycling-market-report-13-november-2026.html",
-      "bytes": 3126,
-      "sha256": "132a9ea8036991186bac07d6cca4a0691faf7d24cf76c299edfaa3f0508b1565"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/2026/2026-11-14_gms-week-46-freight-takes-the-helm.html",
-      "bytes": 6788,
-      "sha256": "13e0b7a0867a9a1a2ba896b8d70cdce21c80c60135bd6f62e28966bb8b099c71"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/2026/2026-11-17_athenian-shipbrokers-s-a-demolition-quick-update-week-46-2026.html",
-      "bytes": 3122,
-      "sha256": "93a05628de9f1a58b92118013ef29e8b4f6a3d9c92bf06bc5e831de3c037cc01"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/2026/assets/2026-11-14_gms-week-46-freight-takes-the-helm_1512_28fc4812e79b.jpg",
-      "bytes": 42822,
-      "sha256": "634f35e47d84890144b8c597755cd5a1a9e9c0974f36e809db38e58a42159164"
-    },
-    {
       "path": "corpus/02-hellenic/demolition/pdfs/2024-04-15_Ship-recycling-market-insight-week-15-2024-Ramadan_Resurgence\u2026Or_Not.pdf",
       "bytes": 653148,
       "sha256": "a79a268821e132d8cdeb7fcd037d30c80ded62b9953ad0804fd3f7244207ab74"
@@ -14951,16 +14931,6 @@
       "path": "corpus/02-hellenic/demolition/pdfs/2026-08-15_best-oasis-weekly-recycling-market-report-14-august-2026_weekly-ship-recycling-report-08-augu_4ca6a14ecc27.pdf",
       "bytes": 1526416,
       "sha256": "52b23f9d42d155925f97c66cebc616237a05be249ba46e4de12f1473f63b3c70"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/pdfs/2026-11-14_gms-week-46-freight-takes-the-helm_ship-recycling-market-insight-week-4_f455b110ae48.pdf",
-      "bytes": 960013,
-      "sha256": "9d95e491c019e1b295233e3e1f9d6c04dc56302858ed0246fb893b67fe34bb4b"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/pdfs/2026-11-17_athenian-shipbrokers-s-a-demolition-quick-update-week-46-2026_week-46-athenian-demolition-report-2_95c6815df15e.pdf",
-      "bytes": 628175,
-      "sha256": "202244206235217e9adc260210ccefb89076d47d0af63146e3002c47494393b0"
     },
     {
       "path": "corpus/02-hellenic/demolition/pdfs/athenian/2021-07-07_athenian-shipbrokers-s-a-demolition-quick-update-week-26-2021_ship-recycling-weekly-26-2021-atheni_3c137c5215b0.pdf",
@@ -20386,16 +20356,6 @@
       "path": "corpus/02-hellenic/iron_ore/2024/assets/2024-07-12_mmi-daily-iron-ore-index-report-july-12-2024_img1_1207202\u03b4\u03c3_e133c3395525.jpg",
       "bytes": 469290,
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/2026-11-17_mmi-daily-iron-ore-index-report-november-17-2026.html",
-      "bytes": 4539,
-      "sha256": "bd016f3765bf59b572d3918533b34eefb9bc378d48551dc46fc7203b0a2b50f5"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-11-17_mmi-daily-iron-ore-index-report-november-17-2026_17112026chinese_4b6e30c3476b.jpg",
-      "bytes": 186153,
-      "sha256": "ba3404e6973071a407a969dc6982861c2952688e5fc6ec2fdaabb23e82e2965b"
     },
     {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
@@ -30393,11 +30353,6 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-11-17_mmi-daily-iron-ore-index-report-november-17-2026_mmi-daily-iron-ore-report-for-17th-n_2394d78121c3.pdf",
-      "bytes": 1216575,
-      "sha256": "d536550a579ef48ddfe6ba71f8ca32cfe60fb714472a537b407a54107eea98d0"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31786,11 +31741,6 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-11-17_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-17th-November-2026.pdf",
-      "bytes": 1216575,
-      "sha256": "d536550a579ef48ddfe6ba71f8ca32cfe60fb714472a537b407a54107eea98d0"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -35228,26 +35178,6 @@
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
     },
     {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-17_11172026wetreportjj876-oo9.html",
-      "bytes": 6425,
-      "sha256": "4b48565a72ccf6724cbf1f46a2f4068a19bdb83225e4467ce14e7b74730ebd9b"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-17_11172026wetreportjj876-oo9.md",
-      "bytes": 4950,
-      "sha256": "aec0db421b3cc2189f51f09c317ed209cac4075d112447037f1ffdb735a84157"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-17_kamsarmax-rebounds-soybeans-set-records.html",
-      "bytes": 7071,
-      "sha256": "4e58b43a73158a0ff56620536392008f3fbe3a1f1d1bf817229a1cf40d22dff3"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-17_kamsarmax-rebounds-soybeans-set-records.md",
-      "bytes": 5358,
-      "sha256": "52ca97a62fd746fbc77b526113b863e6d0f82be0b4a2236dc2cdde2a6b2f5ed5"
-    },
-    {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
       "bytes": 69365,
       "sha256": "9848c9a3aaba37a9e84f8cd2263fff62c7771135c466216f51114381d1621e5f"
@@ -35291,31 +35221,6 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-17_11172026wetreportjj876-oo9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_275952a438cb.png",
-      "bytes": 179711,
-      "sha256": "c39c1372fb33b796458a1c6d5be37b97e5339cdf10ef94af9dedec497e1cf53b"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-17_11172026wetreportjj876-oo9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_285c07c6af6e.png",
-      "bytes": 45607,
-      "sha256": "c862f5812447d6c342438f1c2a9057016d9edab7a4aab451c554fd187c6216ad"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-17_11172026wetreportjj876-oo9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a9a82dcae8b.png",
-      "bytes": 78770,
-      "sha256": "746e90628e6e24fb013ecc732e399a4c0c3a93569512049df2c727024e518c00"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-17_kamsarmax-rebounds-soybeans-set-records_img_unsplash-image-pbbkarmfts_efbdc77b5088.jpg",
-      "bytes": 896238,
-      "sha256": "03a4a4fbf781601db654affeb608313e99479243ed292f9fcad5c3a2ca1ac7df"
-    },
-    {
-      "path": "corpus/03-breakwave/tankers/2026/2026-11-17_Breakwave_Tankers.pdf",
-      "bytes": 515243,
-      "sha256": "36eef557bbc95d0daf8b339565202b1edfbf0e7a1a2e70a9aeebde5b717952f8"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
