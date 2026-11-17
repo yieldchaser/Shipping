@@ -2,13 +2,13 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2972,
-      "untracked_bytes": 2298187033
+      "untracked_files": 2969,
+      "untracked_bytes": 2297474765
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4059,
-      "untracked_bytes": 2391580772
+      "untracked_files": 4057,
+      "untracked_bytes": 2389108169
     },
     {
       "path": "corpus/03-breakwave",
@@ -17,8 +17,8 @@
     },
     {
       "path": "corpus/04-poten",
-      "untracked_files": 1085,
-      "untracked_bytes": 290831542
+      "untracked_files": 1087,
+      "untracked_bytes": 291102149
     },
     {
       "path": "corpus/05-seabrokers",
@@ -5606,11 +5606,6 @@
       "path": "corpus/01-brokers/carriers/2026/carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf",
       "bytes": 322974,
       "sha256": "d15bafa10bd54633a7b5285d9e264caae96f172e69648994576a3cc5b6f0a774"
-    },
-    {
-      "path": "corpus/01-brokers/carriers/2026/carriers_2026_W46_WK-46-26-CARRIERS_SP-MARKET-REPORT.pdf",
-      "bytes": 327063,
-      "sha256": "27a37a87ec048c7d111f4ea827f2dee8cc788470e9a4d695dd2276345b0072c1"
     },
     {
       "path": "corpus/01-brokers/carriers/2026/general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf",
@@ -12483,16 +12478,6 @@
       "sha256": "f0fbb8ae76960171fa1d93a79aa36fe31e920cf1f262194c7d5e7c3efc7e9e8c"
     },
     {
-      "path": "corpus/01-brokers/ssy/2026/ssy_2026_20261113-Atlantic-Capesize-Report.pdf",
-      "bytes": 192734,
-      "sha256": "3111c9ffbec415f14ad8d81a8442ea9b8f682b0518a508b50c3f7ba29e036fe0"
-    },
-    {
-      "path": "corpus/01-brokers/ssy/2026/ssy_2026_20261113-Pacific-Capesize-Report.pdf",
-      "bytes": 192471,
-      "sha256": "23b82e4f9fbfadc6dba3e56da983ed3a0dafc9ca16a684f719d90e6f0edfe09c"
-    },
-    {
       "path": "corpus/01-brokers/ssy/2026/ssy_2026_nan_20260807-Atlantic-Capesize-Report.pdf",
       "bytes": 173935,
       "sha256": "3421fc3642620b2dbba9cb4c27334d6060cfb13fa2360c3ad31d312c33a30010"
@@ -17858,11 +17843,6 @@
       "sha256": "7a526abe182eb3180698b293ecab270c9013bd392dab9c82c8d27534dac96b4e"
     },
     {
-      "path": "corpus/02-hellenic/demolition/pdfs/best_oasis/2026-11-14_best-oasis-weekly-recycling-market-repor_Weekly-Ship-Recycling-Report-07-November-13-November-2026.pdf",
-      "bytes": 1512590,
-      "sha256": "bd2a5342719639701960f2c69649c88d388f1592bbfc6b463f20314c0dd342f5"
-    },
-    {
       "path": "corpus/02-hellenic/demolition/pdfs/gms/2021-07-05_gms-week-27-double-trouble_web_818af89830b3.pdf",
       "bytes": 92695,
       "sha256": "7e926d7c780688c2730e09f8d3b78f1f80cfcc722d8d092b87398031a9b35d29"
@@ -20371,11 +20351,6 @@
       "path": "corpus/02-hellenic/demolition/pdfs/gms/2026-10-03_gms-week-40-scarcity-puts-chattogram-on-_Ship-recycling-market-insight-Week-40-10-02-2026-Scarcity-Puts-Chattogram-On-Top.pdf",
       "bytes": 936712,
       "sha256": "94fe795675127664dd244b56e6220edc2549f31123d5660b14bc632eec0a1395"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/pdfs/gms/2026-11-14_gms-week-46-freight-takes-the-helm_Ship-recycling-market-insight-Week-46-11-13-2026-Freight-Takes-The-Helm.pdf",
-      "bytes": 960013,
-      "sha256": "9d95e491c019e1b295233e3e1f9d6c04dc56302858ed0246fb893b67fe34bb4b"
     },
     {
       "path": "corpus/02-hellenic/iron_ore/2024/assets/2024-07-12_mmi-daily-iron-ore-index-report-july-12-2024_img1_1207202\u03b4\u03c3_e133c3395525.jpg",
@@ -35248,6 +35223,11 @@
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
     },
     {
+      "path": "corpus/04-poten/2026/poten_2026-11-14_the_gift_that_keeps_on_giving.md",
+      "bytes": 2133,
+      "sha256": "51e3923bc6e09fdcd2c059a298ab8c6b2eaa3d98f77558e695ca6d4831898399"
+    },
+    {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
       "bytes": 101160,
       "sha256": "e5b57740021416658f4dc257269af8015b08548688b7282c7e12db11fd5c3e99"
@@ -40546,6 +40526,11 @@
       "path": "corpus/04-poten/pdfs/2026/Weekly Opinion - 14 August 2026 - China To The Rescue.pdf",
       "bytes": 288979,
       "sha256": "69262031974377461caf2ec06c38d018eccb211957bb5ff204e9c892ae508b52"
+    },
+    {
+      "path": "corpus/04-poten/pdfs/2026/Weekly Opinion - 14 November 2026 - The Gift That Keeps On Giving.pdf",
+      "bytes": 268474,
+      "sha256": "1f9af42dbaf6f8553ea6a712cf479e3811c6f5274dc3f2599233cacb972ff176"
     },
     {
       "path": "corpus/04-poten/pdfs/2026/Weekly Opinion - 15 May 2026 - Insurance By Distance.pdf",
