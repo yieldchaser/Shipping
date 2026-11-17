@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-11-17_2026_11_17_kamsarmax_rebounds_soybeans_set_records__root",
+  "doc_id": "breakwave_insights_insights_2026-11-17_2026_11_17_kamsarmax_rebounds_soybeans_set_records",
+  "parent_id": null,
+  "title": "Kamsarmax Rebounds, Soybeans Set Records",
+  "section_path": [
+    "Kamsarmax Rebounds, Soybeans Set Records"
+  ],
+  "section_path_text": "Kamsarmax Rebounds, Soybeans Set Records",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: unsplash-image-_pBBkarmFTs.jpg | assets/2026-11-17_kamsarmax-rebounds-soybeans-set-records_img_unsplash-image-pbbkarmfts_efbdc77b5088.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe dry bulk market continues to demonstrate contrasting dynamics across the Kamsarmax and Ultramax segments, although the considerable earnings differential observed in late October has narrowed during the first half of November. According to Baltic Exchange data, average Kamsarmax earnings (P5TC) increased by 5.7% week-on-week, reaching USD 19,063/day on 13 November, compared with USD 16,999/day at the end of October. Meanwhile, Ultramax earnings (S11TC) stood at USD 23,203/day, recording a more modest weekly increase of 1.1%.",
+  "keywords": [
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "meg",
+    "coal",
+    "grain",
+    "products",
+    "steel",
+    "eee",
+    "see",
+    "sees"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3624,
+  "source_path": "reports/breakwave/2026/2026-11-17_kamsarmax-rebounds-soybeans-set-records.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/11/17/kamsarmax-rebounds-soybeans-set-records",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-11-17_2026_11_17_kamsarmax_rebounds_soybeans_set_records__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-11-17_2026_11_17_kamsarmax_rebounds_soybeans_set_records",
+      "parent_id": "breakwave_insights_insights_2026-11-17_2026_11_17_kamsarmax_rebounds_soybeans_set_records__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: unsplash-image-_pBBkarmFTs.jpg | assets/2026-11-17_kamsarmax-rebounds-soybeans-set-records_img_unsplash-image-pbbkarmfts_efbdc77b5088.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe dry bulk market continues to demonstrate contrasting dynamics across the Kamsarmax and Ultramax segments, although the considerable earnings differential observed in late October has narrowed during the first half of November. According to Baltic Exchange data, average Kamsarmax earnings (P5TC) increased by 5.7% week-on-week, reaching USD 19,063/day on 13 November, compared with USD 16,999/day at the end of October.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "coal",
+        "grain",
+        "products",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 813,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-11-17_2026_11_17_kamsarmax_rebounds_soybeans_set_records__s02_linked_asset_2026_11_17_kamsarmax_rebounds_soybeans_set_records_img_unsplash_image_pbbkarmfts_efbdc77b5088_jpg",
+      "doc_id": "breakwave_insights_insights_2026-11-17_2026_11_17_kamsarmax_rebounds_soybeans_set_records",
+      "parent_id": "breakwave_insights_insights_2026-11-17_2026_11_17_kamsarmax_rebounds_soybeans_set_records__root",
+      "title": "Linked asset: 2026-11-17_kamsarmax-rebounds-soybeans-set-records_img_unsplash-image-pbbkarmfts_efbdc77b5088.jpg",
+      "section_path": [
+        "Linked asset: 2026-11-17_kamsarmax-rebounds-soybeans-set-records_img_unsplash-image-pbbkarmfts_efbdc77b5088.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-11-17_kamsarmax-rebounds-soybeans-set-records_img_unsplash-image-pbbkarmfts_efbdc77b5088.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-11-17_kamsarmax-rebounds-soybeans-set-records_img_unsplash-image-pbbkarmfts_efbdc77b5088.jpg\n\nLinked image asset: 2026-11-17_kamsarmax-rebounds-soybeans-set-records_img_unsplash-image-pbbkarmfts_efbdc77b5088.jpg\n\nImage metadata: JPEG 2500x1406 mode=RGB\n\nOCR text:\nhe am = \"\n. - SS\noo 2a inp 7\nSe EX Si\now ey oro eattoes elie Papen =\nYaa \"3 See Ships teste - > re E eS TS ponies é > S=\nS ne - res Se -- : ee ‘ irae - roar .",
+      "keywords": [
+        "meg",
+        "grain",
+        "eee",
+        "see",
+        "sees",
+        "aes",
+        "eae",
+        "pee"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2769,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2026-11-14_2026_11_14_best_oasis_weekly_recycling_market_report_13_november_2026__root",
+  "doc_id": "hellenic_demolition_2026-11-14_2026_11_14_best_oasis_weekly_recycling_market_report_13_november_2026",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 13 November 2026",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 13 November 2026"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 13 November 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe Indian ship recycling market has started to regain momentum following the five-day Diwali holiday break,\nSource: Best Oasis Limited\n\nLinked asset: 2026-11-14_best-oasis-weekly-recycling-market-repor_Weekly-Ship-Recycling-Report-07-November-13-November-2026.pdf\nSource asset: reports/hellenic/demolition/pdfs/best_oasis/2026-11-14_best-oasis-weekly-recycling-market-repor_Weekly-Ship-Recycling-Report-07-November-13-November-2026.pdf\n\n# WEEKLY SHIP RECYCLING REPORT\n\n## ( 07 NOVEMBER - 13 NOVEMBER ) 2026\n\n## OUR OFFICES\n\n**Scan to view the Tide Table**\n\n**Head Office:** 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E **Contact**: +971 4575 4667 **Visit** : www.best-oasis.com **Email**: bol@bol.ae\n\n## MARKET SUMMARY\n\n## INDIA\n\nThe Indian ship recycling market has started to regain momentum following the five-day Diwali holiday break, with market activity gradually picking up. Local steel demand is expected to improve as markets return to normal operations, supporting renewed buying interest among recyclers. Buying indications are expected to strengthen further in the coming week as demand improves and market activity gathers pace.",
+  "keywords": [
+    "europe",
+    "india",
+    "steel",
+    "recycling",
+    "buying",
+    "ship",
+    "remains",
+    "activity",
+    "remain",
+    "expected",
+    "interest",
+    "limited"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1124,
+  "source_path": "reports/hellenic/demolition/2026/2026-11-14_best-oasis-weekly-recycling-market-report-13-november-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-13-november-2026",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2026-11-14_2026_11_14_best_oasis_weekly_recycling_market_report_13_november_2026__s01_main",
+      "doc_id": "hellenic_demolition_2026-11-14_2026_11_14_best_oasis_weekly_recycling_market_report_13_november_2026",
+      "parent_id": "hellenic_demolition_2026-11-14_2026_11_14_best_oasis_weekly_recycling_market_report_13_november_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Indian ship recycling market has started to regain momentum following the five-day Diwali holiday break,\nSource: Best Oasis Limited",
+      "keywords": [
+        "india",
+        "best",
+        "break",
+        "diwali",
+        "five-day",
+        "following",
+        "holiday",
+        "indian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 25,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-11-14_2026_11_14_best_oasis_weekly_recycling_market_report_13_november_2026__s02_linked_asset_2026_11_14_best_oasis_weekly_recycling_market_repor_weekly_ship_recycling_report_07_november_13_november_2026_pdf",
+      "doc_id": "hellenic_demolition_2026-11-14_2026_11_14_best_oasis_weekly_recycling_market_report_13_november_2026",
+      "parent_id": "hellenic_demolition_2026-11-14_2026_11_14_best_oasis_weekly_recycling_market_report_13_november_2026__root",
+      "title": "Linked asset: 2026-11-14_best-oasis-weekly-recycling-market-repor_Weekly-Ship-Recycling-Report-07-November-13-November-2026.pdf",
+      "section_path": [
+        "Linked asset: 2026-11-14_best-oasis-weekly-recycling-market-repor_Weekly-Ship-Recycling-Report-07-November-13-November-2026.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-11-14_best-oasis-weekly-recycling-market-repor_Weekly-Ship-Recycling-Report-07-November-13-November-2026.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/best_oasis/2026-11-14_best-oasis-weekly-recycling-market-repor_Weekly-Ship-Recycling-Report-07-November-13-November-2026.pdf\n\n# WEEKLY SHIP RECYCLING REPORT\n\n## ( 07 NOVEMBER - 13 NOVEMBER ) 2026\n\n## OUR OFFICES\n\n**Scan to view the Tide Table**\n\n**Head Office:** 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E **Contact**: +971 4575 4667 **Visit** : www.best-oasis.com **Email**: bol@bol.ae\n\n## MARKET SUMMARY\n\n## INDIA\n\nThe Indian ship recycling market has started to regain momentum following the five-day Diwali holiday break, with market activity gradually picking up. Local steel demand is expected to improve as markets return to normal operations, supporting renewed buying interest among recyclers.",
+      "keywords": [
+        "europe",
+        "india",
+        "steel",
+        "recycling",
+        "buying",
+        "remains",
+        "ship",
+        "activity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1054,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

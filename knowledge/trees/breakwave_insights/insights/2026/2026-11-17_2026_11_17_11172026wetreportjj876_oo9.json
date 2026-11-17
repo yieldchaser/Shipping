@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2026-11-17_2026_11_17_11172026wetreportjj876_oo9__root",
+  "doc_id": "breakwave_insights_insights_2026-11-17_2026_11_17_11172026wetreportjj876_oo9",
+  "parent_id": null,
+  "title": "Breakwave Bi-Weekly Tanker Report - November 17, 2026",
+  "section_path": [
+    "Breakwave Bi-Weekly Tanker Report - November 17, 2026"
+  ],
+  "section_path_text": "Breakwave Bi-Weekly Tanker Report - November 17, 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n• Sentiment-Driven Correction Meets Improving Vessel Supply - Crude tanker freight has corrected sharply from October's unprecedented highs , initially driven by changing geopolitical sentiment following the US midterm elections. Expectations of de-escalation weakened freight sentiment, although the subsequent decline has increasingly been supported by changes in physical market conditions. Improving crude availability and rising inventories have reduced refiners' urgency to secure cargoes, while the resumption of Saudi Arabia's East-West pipeline operations has allowed tanker positioning to adjust to more established trading patterns.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "oil",
+    "asset",
+    "image",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2611,
+  "source_path": "reports/breakwave/2026/2026-11-17_11172026wetreportjj876-oo9.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/11172026wetreportjj876-oo9",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-11-17_2026_11_17_11172026wetreportjj876_oo9__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-11-17_2026_11_17_11172026wetreportjj876_oo9",
+      "parent_id": "breakwave_insights_insights_2026-11-17_2026_11_17_11172026wetreportjj876_oo9__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "• Sentiment-Driven Correction Meets Improving Vessel Supply - Crude tanker freight has corrected sharply from October's unprecedented highs , initially driven by changing geopolitical sentiment following the US midterm elections. Expectations of de-escalation weakened freight sentiment, although the subsequent decline has increasingly been supported by changes in physical market conditions.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "us_gulf",
+        "crude_oil",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 782,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-11-17_2026_11_17_11172026wetreportjj876_oo9__s02_linked_asset_2026_11_17_11172026wetreportjj876_oo9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_285c07c6af6e_png",
+      "doc_id": "breakwave_insights_insights_2026-11-17_2026_11_17_11172026wetreportjj876_oo9",
+      "parent_id": "breakwave_insights_insights_2026-11-17_2026_11_17_11172026wetreportjj876_oo9__root",
+      "title": "Linked asset: 2026-11-17_11172026wetreportjj876-oo9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_285c07c6af6e.png",
+      "section_path": [
+        "Linked asset: 2026-11-17_11172026wetreportjj876-oo9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_285c07c6af6e.png"
+      ],
+      "section_path_text": "Linked asset: 2026-11-17_11172026wetreportjj876-oo9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_285c07c6af6e.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-11-17_11172026wetreportjj876-oo9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_285c07c6af6e.png\n\nLinked image asset: 2026-11-17_11172026wetreportjj876-oo9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_285c07c6af6e.png\n\nImage metadata: PNG 250x612 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nShort-term Indicators\nMomentum: Negative\nSentiment: Neutral\nFundamentals: Positive\nBreakwave Tanker 11759\nFutures Index:\n30D: -36.4% vy\nYTD: 700.4% 4p\nYOY: 492.5% 4p\nVLCC Middle East- 200.96\nAsia Spot Rates:\n30D: -23.3% vy\nYTD: 1311.7% Ip\nYOY: 621.3% 4p\nReuters: BWET.K\nBloomberg: BWET US\nExchange: NYSE\nBreakwave Advisors Research\nresearch@ breakwaveadvisors.com",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "image",
+        "research",
+        "yoy",
+        "ytd",
+        "asia",
+        "bloomberg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 293,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-11-17_2026_11_17_11172026wetreportjj876_oo9__s03_linked_asset_2026_11_17_11172026wetreportjj876_oo9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a9a82dcae8b_png",
+      "doc_id": "breakwave_insights_insights_2026-11-17_2026_11_17_11172026wetreportjj876_oo9",
+      "parent_id": "breakwave_insights_insights_2026-11-17_2026_11_17_11172026wetreportjj876_oo9__root",
+      "title": "Linked asset: 2026-11-17_11172026wetreportjj876-oo9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a9a82dcae8b.png",
+      "section_path": [
+        "Linked asset: 2026-11-17_11172026wetreportjj876-oo9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a9a82dcae8b.png"
+      ],
+      "section_path_text": "Linked asset: 2026-11-17_11172026wetreportjj876-oo9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a9a82dcae8b.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-11-17_11172026wetreportjj876-oo9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a9a82dcae8b.png\n\nLinked image asset: 2026-11-17_11172026wetreportjj876-oo9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a9a82dcae8b.png\n\nImage metadata: PNG 840x532 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\n[structured table]\n| | BREAKWAVE | |\n|---|---|---|\n| | ADVISORS | |\n| VLCC Spot Index (TD3C) vs | Breakwave Tanker Futures Index (BWETEF) | |\n| | 300, | |\n| 20,000 | | |\n| | 250 | |\n| 15,000 | 200, | |\n| | 150 | |\n| 10,000 | | |\n| | 100, | |\n| 5,000 | | |\n| | so | |\n| -- BWETFF (futures) | = TD3C (spot), $/t | |\n| | ~ | |\n| Nov-25 Dec-25 Jan-26 Feb-26 Mar-26 Apr-26 | May-26 Jun-26 Jul-26 Aug-26 Sep-26 Oct-26 | |\n| \"The ic TORC index the spot ate n USD per ton for Very | Large Grade Carries (VICE) operating nthe Mile The Breakwave | |\n| Tanker Futures Index (BDRYF) is designed to track freight ftures | contacts witha sector of 90% VCC TD3C and 10% Suezmax TD20 ond | |\n| weighted average maturity of approximately 50-70 days. | | |\n\n[raw ocr]\n/J© BREAKWAVE\nADVISORS\nVLCC Spot Index (TD3C) vs Breakwave Tanker Futures Index (BWETFF)\n300.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "td3c",
+        "bwetff",
+        "approximately",
+        "apr-26",
+        "asset",
+        "aug-26"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 667,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-11-17_2026_11_17_11172026wetreportjj876_oo9__s04_linked_asset_2026_11_17_11172026wetreportjj876_oo9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_275952a438cb_png",
+      "doc_id": "breakwave_insights_insights_2026-11-17_2026_11_17_11172026wetreportjj876_oo9",
+      "parent_id": "breakwave_insights_insights_2026-11-17_2026_11_17_11172026wetreportjj876_oo9__root",
+      "title": "Linked asset: 2026-11-17_11172026wetreportjj876-oo9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_275952a438cb.png",
+      "section_path": [
+        "Linked asset: 2026-11-17_11172026wetreportjj876-oo9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_275952a438cb.png"
+      ],
+      "section_path_text": "Linked asset: 2026-11-17_11172026wetreportjj876-oo9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_275952a438cb.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-11-17_11172026wetreportjj876-oo9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_275952a438cb.png\n\nLinked image asset: 2026-11-17_11172026wetreportjj876-oo9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_275952a438cb.png\n\nImage metadata: PNG 836x646 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nDemand YTD YOY\nWorld Oil Demand 106,082 kbpd\nOil Supply, OPEC 22,800 kbpd -21.6%\nOil Supply, non-OPEC 79,604 kbpd\nOECD Total Crude Oil Stocks 1064.3 MMbIs\nUS Crude Oil Exports | 35.9MMbs 16.2%\nChina Oil Imports 400.4 MMbls -15.2%\nGlobal Crude Oil On Water 1332.4 MMbIls\nSupply\nTanker Fleet 740.9 mdwt\nFreight Rates\nVLCC Middle East-Asia, USD/ton 109.39 648.6%\nSuezmax West Africa-Europe, USD/ton 53.76 199.1%\nNate: All numbers as of latest available; Imports/Exports/Production are YTD sums as of latest reported; Inventories/Fleet are weekly totals\nSources' Bloomberg, IEA, Clarksons and Breakwave Advisors\nDisclaimer: This research report has been prepared by Breakwave Advisors LLC solely for general information purposes and for the recipient's internal use only. This report does not constitute and will not form part of and should not be constru",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "funds",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 706,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
