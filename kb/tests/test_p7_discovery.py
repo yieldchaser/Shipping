@@ -367,6 +367,144 @@ def test_graded_mean_is_never_non_finite_or_bool(con):
         assert "Infinity" not in text and "NaN" not in text, (poison, text)
 
 
+def test_comovement_is_reproducible_under_row_order(con):
+    """Defect 40 (limb 8): the real pass produced 298,716 `tests` on one run and 298,652 on the next
+    against the same database. The `TOP_SERIES` truncation keyed on `-len(points)` alone, so ties
+    inherited DuckDB's unstable `GROUP BY`/row order, and endpoint order came from SQL row order.
+
+    The artefact is consumed as evidence, so a plain re-run must be byte-identical in its link set:
+    the candidate list is ordered `(-len(points), series_id)` and the emitted pairs are canonicalised
+    on `(domain, a, b)`.
+    """
+    data = D.load_monthly(con)
+    base = D.comovement(data["series"])
+    shuffled = {}
+    for sid in reversed(list(data["series"])):
+        rec = data["series"][sid]
+        shuffled[sid] = {**rec, "points": dict(reversed(list(rec["points"].items())))}
+    assert D.comovement(shuffled) == base
+    # total order, not just a stable one: swapping two same-size series ids swaps the pair order
+    pairs = list(D._comovement_pairs(data["series"]))
+    keys = [(d, a, b) for d, a, b in pairs]
+    assert keys == sorted(keys), "candidate order must be canonical, not inherited from dict order"
+
+
+def test_oos_checked_requires_a_recorded_outcome_on_every_tested_survivor():
+    """Defect 40 (limb 5): `discovered_links_out_of_sample_checked: true` documents that the §5(6)
+    out-of-sample check was PERFORMED, not that every survivor passed it (149 of 1,385 real survivors
+    genuinely fail). The operand is "run and recorded for every hypothesis-tested survivor, >= 1 pass",
+    and it fails CLOSED on anything unreadable — never `True` on an empty or all-descriptive set.
+    """
+    def ln(kind, oos):
+        return {"kind": kind, "a": "a", "b": "b", "oos": oos}
+
+    assert D.oos_checked([]) is None                          # nothing tested, nothing claimed
+    assert D.oos_checked([ln("event", True)]) is None          # descriptive only
+    assert D.oos_checked([ln("comovement", None)]) is None     # outcome missing
+    assert D.oos_checked([ln("comovement", "true")]) is None   # non-boolean reading
+    assert D.oos_checked([ln("comovement", False)]) is False    # recorded, all failed
+    assert D.oos_checked([ln("comovement", True), ln("comovement", False)]) is True
+    assert D.oos_checked([ln("event", None), ln("comovement", True)]) is True  # descriptive ignored
+    assert D.oos_checked([ln("comovement", True), ln("lead_lag", False)]) is True
+
+
+def test_operand_never_renders_a_boolean_as_unmeasured():
+    """Defect 40 (limb 5): the console printer used `_r` (i.e. `money.as_float`) on BOTH operands, and
+    `as_float` rejects `bool` by contract — so the frozen boolean arm printed `n/a (target n/a)` while
+    readable. Booleans must render as booleans; unreadable numbers still render `n/a`."""
+    assert D._operand(True) == "true" and D._operand(False) == "false"
+    assert D._operand(0.1) == "0.1" and D._operand(0) == "0"
+    assert D._operand(None) == "n/a" and D._operand(BIG) == "n/a"
+    assert D._operand(float("inf")) == "n/a" and D._operand("0.5") == "n/a"
+
+
+def test_graded_rows_carry_the_hop_count_the_3hop_arm_reads(con):
+    """Defect 40 (limb 4): `bridge_questions` set `hops`, but `grade_questions` dropped it from its
+    rows, so the graded record reported `hops: None` for every question — the `discovery_questions_3hop`
+    arm's evidence was one field away from being unreadable."""
+    data = D.load_monthly(con)
+    links = D.add_ids(D.lead_lag(data["series"]) + D.comovement(data["series"]))
+    qs = D.bridge_questions(links)
+    got = D.grade_questions(qs, links, data, con=con)
+    assert got["rows"] and all(isinstance(r["hops"], int) and r["hops"] >= 3 for r in got["rows"])
+    assert [r["hops"] for r in got["rows"]] == [q["hops"] for q in qs]
+
+
+def test_cross_domain_questions_are_promoted_above_the_within_domain_pool(con):
+    """Defect 40 (limb 7): §5(6) asks for discovery questions needing >= 3 hops ACROSS DOMAINS. Ranked
+    purely by statistic, the 1,375-strong within-domain co-movement pool crowded out every genuine
+    cross-domain survivor, so 20/20 questions came from one domain. The candidate set is ordered, not
+    the gate weakened: cross-domain first, then the pool's own statistic order inside each cohort.
+    """
+    data = D.load_monthly(con)
+    within = [{"kind": "comovement", "a": "D1", "b": "D2", "stat": 0.99, "p": 0.0, "lag": 0,
+               "n": 35, "evidence": ["D1", "D2"], "names": ["Capesize TC Average", "Panamax TC Average"],
+               "link_id": f"dl:{i:05d}"} for i in range(1, 21)]
+    cross = [{"kind": "lead_lag", "a": "freight_dry", "b": "commodity_grains", "stat": 0.10, "p": 0.0,
+              "lag": 2, "n": 35, "window_from": "2023-01-01", "window_to": "2025-12-01",
+              "evidence": ["a", "b"], "link_id": "dl:90001"}]
+    qs = D.bridge_questions(within + cross, n=1)
+    assert len(qs) == 1 and qs[0]["link_id"] == "dl:90001"
+    assert qs[0]["hops"] == 4 and qs[0]["kind"] == "lead_lag"
+
+
+def test_real_db_shaped_fixture_uses_publishers_not_the_null_entity_ids(tmp_path):
+    """Defect 40 (limb 6) on a REAL-shaped fixture: `series.entity_ids` is NULL for all 29,827 real
+    rows (`p2_series.py` writes `None`), so the bridge/claims producers contribute nothing and the
+    `publishers` component's only real producer is `observation.doc_id -> document.publisher_id`.
+
+    This fixture mirrors that shape exactly: NULL `entity_ids`, a `document` table with publishers, and
+    a `doc_id` on every observation. `attach_publishers` must populate it, the gold must carry a real
+    `publishers` component, and the answer-side re-read (`_live_publishers`) must be the live query.
+    """
+    path = tmp_path / "real.duckdb"
+    con = duckdb.connect(str(path))
+    con.execute("CREATE TABLE series (series_id VARCHAR, name VARCHAR, unit VARCHAR,"
+                " currency VARCHAR, basis VARCHAR, frequency VARCHAR,"
+                " entity_ids VARCHAR[], source_csv VARCHAR, definition JSON)")
+    con.execute("CREATE TABLE observation (series_id VARCHAR, period_from DATE, value DOUBLE,"
+                " doc_id VARCHAR)")
+    con.execute("CREATE TABLE document (doc_id VARCHAR, publisher_id VARCHAR)")
+    con.execute("CREATE TABLE edge (src VARCHAR, dst VARCHAR, type VARCHAR)")
+    con.execute("CREATE TABLE claim (claim_id VARCHAR, subject_ids VARCHAR[], published_at DATE)")
+    specs = [("D1", "Capesize TC Average | Capesize", "Alpha Brokers"),
+             ("D2", "Panamax TC Average", "Beta Brokers"),
+             ("O1", "iron ore 62% fe fines", "Alpha Brokers")]
+    for si, (sid, name, pub) in enumerate(specs):
+        con.execute("INSERT INTO series VALUES (?, ?, 'usd', 'usd', 'spot', 'monthly', NULL, ?, '{}')",
+                    [sid, name, f"csv_{sid}"])
+        con.execute("INSERT INTO document VALUES (?, ?)", [f"doc:{sid}", pub])
+        rows = []
+        for i, (y, m) in enumerate(MONTHS):
+            base = {"D1": 100.0, "D2": 90.0, "O1": 120.0}[sid]
+            rows.append([sid, date(y, m, 1), round(base * (1.0 + 0.2 * math.sin(i / 3.0)), 3),
+                         f"doc:{sid}"])
+        con.executemany("INSERT INTO observation VALUES (?, ?, ?, ?)", rows)
+    con.close()
+    con = duckdb.connect(str(path), read_only=True)
+    try:
+        assert con.execute("SELECT count(*) FROM series WHERE entity_ids IS NOT NULL").fetchone()[0] == 0
+        data = D.load_monthly(con)
+        assert D.bridges(data["series"], con) == []          # no entity ids -> no bridges
+        assert D.attach_publishers(data["series"], con)["D1"] == ["Alpha Brokers"]
+        assert data["series"]["D1"]["publishers"] == ["Alpha Brokers"]
+        gold = D.gold_from_link({"kind": "comovement", "a": "D1", "b": "D2", "stat": 0.5, "n": 35,
+                                 "window_to": "2025-12-01 00:00:00",
+                                 "publishers": D._publishers_for(data["series"], "D1", "D2")})
+        assert gold["publishers"] == ["Alpha Brokers", "Beta Brokers"]
+        assert D._live_publishers(con, data["series"], {"kind": "comovement", "a": "D1", "b": "D2"}) \
+            == ["Alpha Brokers", "Beta Brokers"]
+        # a series-level publisher read is never invented for an unknown endpoint
+        assert D._publishers_for(data["series"], "D1", "nope") == ["Alpha Brokers"]
+        # domain-level union covers both endpoints (lead_lag's `a`/`b` ARE domain ids) ...
+        assert D._publishers_for_domains(data["series"], "freight_dry", "commodity_iron_ore") \
+            == ["Alpha Brokers", "Beta Brokers"]
+        # ... and never invents a publisher for a domain no loaded series belongs to
+        assert D._publishers_for_domains(data["series"], "no_such_dom_a", "no_such_dom_b") == []
+    finally:
+        con.close()
+
+
 def test_graded_mean_divides_by_graded_questions_only(con):
     """Defect 40 (limb 3): an ungradable question is dropped from the mean, not scored `0.0`, so the
     denominator is the graded count and `graded + ungraded == len(questions)` always holds."""

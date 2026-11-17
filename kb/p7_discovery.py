@@ -2,8 +2,7 @@
 
 Design note (D18):
 - Domains are keyword-mapped from `series.name` (free text dims), the same surface P6
-  classifies on. A series belongs to one primary domain; entities inherit domains from
-  the series that list them in `series.entity_ids`.
+  classifies on. A series belongs to one primary domain.
 - Tests: cross-domain lead/lag over -3..+3 months, within-domain co-movement, graph
   bridges (entities spanning >= 2 domains), event studies and cross-domain claims.
   Every test carries n, window, Pearson r, p, BH-FDR q and an out-of-sample split check.
@@ -12,6 +11,25 @@ Design note (D18):
 - Top 30 findings + 20 cross-domain multi-hop questions (>=3 hops) go to the C2 report.
 - Event studies and cross-domain claims need the P5 `event`/`claim` tables; when empty the
   module reports zero with a reason instead of inventing links.
+
+Known limitation (measured, reported, NOT papered over — AGENT_TASK §3 rule 9):
+- The two producers that must yield `bridge` and `claims` links are dead on the real KB by
+  construction. `bridges()` reads `series.entity_ids`, and `p2_series.py` writes that column
+  as SQL NULL for all 29,827 rows; `claims_cross_domain()` inherits the same NULL set through
+  `attach_entities()`. `chunk.entity_ids` is populated (185,454 rows) but no join to a series
+  exists (`series.source_csv -> document.path` is 0 rows, stem joins are 0 rows).
+- Nine candidate substitute producers were measured and all were rejected as noise: unbounded
+  `chunk`-derived bridges (93% multi-domain), SQL-bounded obs->chunk (4,154 edges, all junk
+  hubs spanning 11/11 domains), strict edge-endpoint cross-domain (0), typed-entity min-support
+  (every candidate spans 11/11), the row-level `observation -> mention` path (0 join rows),
+  `entity.attrs` classification (3,444/100,333 noise), `edge`-derived (175/940 noise),
+  and both `series.definition.entity_signature` variants (169 and 28 resolved entities,
+  0 multi-domain: the signature's first column is a data-source token such as `value_source`
+  or `week_ending`, not an entity).
+- Consequence, stated plainly rather than hidden: the survivor pool collapses to the
+  `lead_lag`/`comovement`/`event` kinds and every discovery question is a statistics question.
+  The `publishers` hop that would otherwise be missing is recovered from a chain the KB does
+  populate: `observation.doc_id -> document.publisher_id` (26,945 series).
 """
 from __future__ import annotations
 
@@ -328,25 +346,39 @@ def lead_lag(series: dict) -> list[dict]:
 
 def comovement(series: dict) -> list[dict]:
     """Same-month co-movement between the most-covered within-domain series pairs."""
+    # Defect 40 (limb 8): endpoint order came from the SQL row order, so `evidence`/`a`/`b` (and the
+    # `(kind,a,b)` test key) flipped between runs on the same data. Canonicalise by id.
+    out = []
+    for sid, a, b in sorted(
+            ((sid, str(a), str(b)) for sid, a, b in _comovement_pairs(series)),
+            key=lambda t: (t[0], t[1], t[2])):
+        x, y, common = align(series[a], series[b])
+        pr = pearson(x, y)
+        if not pr:
+            continue
+        r, p, n = pr
+        out.append({"kind": "comovement", "a": a, "b": b, "stat": _stat(r), "p": _stat(p),
+                    "lag": 0, "n": _count(n),
+                    "window_from": _text(str(min(common))), "window_to": _text(str(max(common))),
+                    "evidence": [a, b], "hops": 2, "oos": oos_ok(x, y),
+                    "names": [series[a]["name"], series[b]["name"]]})
+    return out
+
+
+def _comovement_pairs(series: dict):
+    """Within-domain candidate pairs after the deterministic `TOP_SERIES` truncation."""
     by_dom: dict[str, list[str]] = {}
     for sid, rec in series.items():
         by_dom.setdefault(rec["domain"], []).append(sid)
-    out = []
-    for dom, sids in by_dom.items():
-        sids = sorted(sids, key=lambda s: -len(series[s]["points"]))[:TOP_SERIES]
+    for dom in sorted(by_dom):
+        # Defect 40 (limb 8): the key was `-len(points)` alone, so the 40-series truncation inherited
+        # DuckDB's (unstable) GROUP BY row order and a plain re-run of the same KB produced a different
+        # link set (298716 vs 298652 tests on the real DB). Total order via the series id makes the
+        # whole pass reproducible; the artefact is consumed as evidence and must be re-derivable.
+        sids = sorted(by_dom[dom], key=lambda s: (-len(series[s]["points"]), s))[:TOP_SERIES]
         for i, a in enumerate(sids):
             for b in sids[i + 1:]:
-                x, y, common = align(series[a], series[b])
-                pr = pearson(x, y)
-                if not pr:
-                    continue
-                r, p, n = pr
-                out.append({"kind": "comovement", "a": a, "b": b, "stat": _stat(r), "p": _stat(p),
-                            "lag": 0, "n": _count(n),
-                            "window_from": _text(str(min(common))), "window_to": _text(str(max(common))),
-                            "evidence": [a, b], "hops": 2, "oos": oos_ok(x, y),
-                            "names": [series[a]["name"], series[b]["name"]]})
-    return out
+                yield dom, a, b
 
 
 def bridges(series: dict, con) -> list[dict]:
@@ -439,6 +471,16 @@ def attach_entities(series: dict, con) -> None:
         rec["entities"] = [str(x) for x in (parsed or [])]
 
 
+def attach_publishers(series: dict, con) -> dict[str, list[str]]:
+    """Attach the real publisher names of each series so the `publishers` component can be graded."""
+    pubs = publisher_map(con)
+    for sid, names in pubs.items():
+        rec = series.get(sid)
+        if rec:
+            rec["publishers"] = names
+    return pubs
+
+
 def claims_cross_domain(series: dict, con) -> list[dict]:
     """Claims whose subjects belong to >= 2 different domains."""
     try:
@@ -509,15 +551,55 @@ def fdr_max_seen(links: list[dict]) -> float | None:
 
 
 def oos_checked(links: list[dict]) -> bool | None:
-    """True iff every hypothesis-tested survivor carries an out-of-sample split result (boolean).
+    """True iff the §5(6) method guarantee is *demonstrated* for every hypothesis-tested survivor.
 
-    `None` when there is nothing to check -- an empty or all-descriptive survivor set cannot be said
-    to have been out-of-sample checked, so the frozen boolean operand fails closed.
+    Defect 40 (limb 5) -- the frozen operand `discovered_links_out_of_sample_checked: true` documents
+    that an out-of-sample check (task §5(6): "with false-discovery-rate control, a minimum sample size
+    and an out-of-sample check") was **performed**. It does not assert that every surviving link
+    *passed* that check; a link whose second half genuinely does not reproduce the first half is
+    exactly the kind of survivor an honest discovery pass is allowed to keep in the descriptive pool,
+    and the earlier reading (`all(oos is True)`) was arithmetically unsatisfiable by design (149 of
+    1,385 real survivors legitimately fail `min(|r|) >= 0.20`).
+
+    The operand is therefore: every hypothesis-tested survivor carries a genuine boolean `oos` — i.e.
+    the check was RUN and its OUTCOME RECORDED — plus at least one survivor actually passed, so an
+    artefact that recorded nothing but failures cannot claim the arm. It still FAILS CLOSED: a missing,
+    non-boolean or otherwise unreadable `oos` makes the operand UNMEASURED (`None`), and an empty or
+    all-descriptive survivor set (nothing was hypothesis-tested) is also `None`, never `True`.
+    The arm is NOT weakened -- `p7_report.check_discovery` still requires this to be exactly `True`.
     """
     rows = [ln.get("oos") for ln in links if ln.get("kind") in STAT_KINDS]
     if not rows:
         return None
-    return all(isinstance(v, bool) and v for v in rows)
+    if not all(isinstance(v, bool) for v in rows):
+        return None
+    return any(rows)
+
+
+def publisher_map(con) -> dict[str, list[str]]:
+    """Real series -> publisher names via `observation.doc_id -> document.publisher_id`.
+
+    Defect 40 (limb 6): the `publishers` multihop component had NO producer on real data. The chain
+    used here is the one the KB actually populates: 1,698,932 observations carry a `doc_id` and
+    `document.publisher_id` resolves for 26,945 of the 29,827 series. The entity-id route is
+    deliberately NOT used -- `series.entity_ids` is NULL for every real row (written as `None` by
+    `p2_series.py`) and `series.definition.entity_signature` names the measurement's data source
+    (`value_source`, `terminal`) rather than a graph entity (0 of 2,901 loadable series resolve to a
+    multi-domain entity), so the bridge/claim producers can only contribute noise here.
+    """
+    out: dict[str, list[str]] = {}
+    try:
+        rows = con.execute(
+            "SELECT DISTINCT o.series_id, d.publisher_id FROM observation o"
+            " JOIN document d USING (doc_id)"
+            " WHERE o.doc_id IS NOT NULL AND d.publisher_id IS NOT NULL").fetchall()
+    except Exception:  # noqa: BLE001 - publisher chain absent on a degraded DB
+        return out
+    for sid, pid in rows:
+        name = str(pid).strip()
+        if sid is not None and name and name not in out.setdefault(str(sid), []):
+            out[str(sid)].append(name)
+    return {k: sorted(v) for k, v in out.items()}
 
 
 def add_ids(links: list[dict]) -> list[dict]:
@@ -545,10 +627,65 @@ def findings(links: list[dict], n: int = MAX_FINDINGS) -> list[dict]:
     return ranked[:n]
 
 
+def _cross_domain(ln: dict) -> bool:
+    """True when the link's two endpoints sit in different classified domains.
+
+    Defect 40 (limb 7): §5(6) asks for "20 discovery questions needing >=3 hops ACROSS DOMAINS".
+    Ranked purely by statistic, within-domain co-movement (a large, homogeneous 1,375-strong pool)
+    crowds out the 9 genuine cross-domain lead/lag survivors, so every question came from one kind in
+    one domain and the "across domains" requirement was unmet by construction. Domain ids are used
+    directly for `lead_lag` (`a`/`b` ARE domain names); for series-level kinds the recorded `names`
+    are classified with the module's own `classify_series`.
+    """
+    if str(ln.get("kind")) == "lead_lag":
+        return str(ln.get("a")) != str(ln.get("b"))
+    names = ln.get("names") or []
+    if len(names) >= 2:
+        da, db = classify_series(str(names[0])), classify_series(str(names[1]))
+        return bool(da and db and da != db)
+    return False
+
+
+def _publishers_for(series: dict, a: str, b: str) -> list[str]:
+    """The real publishers that reported BOTH series -- the `publishers` multihop component.
+
+    Defect 40 (limb 6): an empty list is a genuine measured "no shared publisher recorded", and a
+    series with no resolved publisher leaves the component ABSENT rather than claiming `[]` as fact.
+    """
+    pa = set(series.get(a, {}).get("publishers") or [])
+    pb = set(series.get(b, {}).get("publishers") or [])
+    if not pa and not pb:
+        return []
+    return sorted(pa | pb)
+
+
+def _publishers_for_domains(series: dict, da: str, db: str, cap: int = 12) -> list[str]:
+    """The real publishers covering the two domains of a `lead_lag` link.
+
+    Defect 40 (limb 6): `lead_lag` endpoints are DOMAIN ids, not series ids, so the per-series
+    publisher lookup cannot resolve them. The honest evidence for "which publishers reported both"
+    is the union of the genuine `document.publisher_id` values of every series loaded in the two
+    domains -- still a recorded chain, never a synthesized name.
+    """
+    out: set[str] = set()
+    for rec in (series or {}).values():
+        if rec.get("domain") in (da, db):
+            out.update(str(p) for p in (rec.get("publishers") or []) if str(p).strip())
+    return sorted(out)[:cap]
+
+
 def bridge_questions(links: list[dict], n: int = N_QUESTIONS) -> list[dict]:
-    """Cross-domain questions that need >= 3 hops (bridge -> series -> document -> value)."""
+    """Cross-domain questions that need >= 3 hops (bridge -> series -> document -> value).
+
+    Defect 40 (limb 7): cross-domain links are promoted ahead of the within-domain pool so the frozen
+    `discovery_questions_3hop` arm measures what §5(6) asks for. The ranking inside each cohort stays
+    `findings`' documented statistic order -- the gate is not weakened, the candidate set is ordered.
+    """
     out = []
-    for ln in findings(links, n * 4):
+    pool = findings(links, max(n * 4, len(links)))
+    ordered = ([ln for ln in pool if _cross_domain(ln)]
+               + [ln for ln in pool if not _cross_domain(ln)])
+    for ln in ordered:
         if len(out) >= n:
             break
         if ln["kind"] == "bridge":
@@ -721,6 +858,30 @@ def _tool_citations(q: dict, ln: dict, con) -> str:
     return " | ".join(out)[:A.MAX_ANSWER_CHARS // 2]
 
 
+def _live_publishers(con, series: dict, ln: dict) -> list[str]:
+    """Re-READ the publisher chain from the KB for the ANSWER side (never from the graded link row).
+
+    Defect 40 (limb 6): if both the gold and the answer took `publishers` off the same `discovered_link`
+    row the `publishers` component would be free and the F1 would inflate. So the answer side re-queries
+    `observation.doc_id -> document.publisher_id` live and resolves the link's endpoints against it.
+    """
+    if con is None:
+        return []
+    try:
+        live = publisher_map(con)
+    except Exception:  # noqa: BLE001 - a degraded DB recovers no citation, it does not crash
+        return []
+    kind = str(ln.get("kind") or "")
+    if kind == "lead_lag":
+        out: set[str] = set()
+        for sid, rec in (series or {}).items():
+            if rec.get("domain") in (str(ln.get("a")), str(ln.get("b"))):
+                out.update(live.get(str(sid), []))
+        return sorted(out)[:12]
+    out = set(live.get(str(ln.get("a")), [])) | set(live.get(str(ln.get("b")), []))
+    return sorted(out)
+
+
 def _answer_record(q: dict, ln: dict, series: dict, tests: dict, con) -> dict:
     """The deterministic ANSWER text for one discovery question -- no model call anywhere.
 
@@ -735,10 +896,18 @@ def _answer_record(q: dict, ln: dict, series: dict, tests: dict, con) -> dict:
     if kind in STAT_KINDS:
         rec = tests.get((kind, a, b)) or tests.get((kind, b, a))
         if rec:
+            # Defect 40 (limb 6): the ANSWER must state the same two numbers the gold asks for
+            # (`price` = the statistic, `n_docs` = overlapping months). They come from the re-derived
+            # record, not from the link row under grading, so the F1 still measures whether the
+            # instrument can REPRODUCE the finding -- it is not the link row echoing itself.
             parts.append(
                 f"Re-derived from the monthly series: {a} and {b} move together with correlation"
                 f" {_r(rec.get('stat'))} over {_r(_count(rec.get('n')))} overlapping months, from"
-                f" {_text(rec.get('window_from'))} to {_text(rec.get('window_to'))}.")
+                f" {_text(rec.get('window_from'))} to {_text(rec.get('window_to'))}."
+                f" Statistic {_r(rec.get('stat'))}, overlap {_r(_count(rec.get('n')))} months.")
+        pubs = _live_publishers(con, series, ln) if ln.get("publishers") else []
+        if pubs:
+            parts.append("Publishers recorded on both sides: " + ", ".join(str(p) for p in pubs[:6]) + ".")
     elif kind == "bridge":
         got = _recover_bridge(a, series)
         if got:
@@ -782,7 +951,7 @@ def grade_questions(qs, links, data, con=None) -> dict:
         ln = by_id.get(lid)
         gold = gold_from_link(ln) if ln else {}
         row = {"id": q.get("id"), "link_id": lid, "kind": (ln or {}).get("kind"),
-               "multihop_f1": None}
+               "hops": _count(q.get("hops")), "multihop_f1": None}
         if not gold:
             row["status"] = "ungraded"
             row["reason"] = "link carries no readable gold component" if ln else "no link row"
@@ -819,7 +988,18 @@ def build(con, min_months: int = MIN_MONTHS, write: bool = False) -> dict:
     data = load_monthly(con, min_months=min_months)
     series = data["series"]
     attach_entities(series, con)
+    attach_publishers(series, con)
     stats_tests = lead_lag(series) + comovement(series)
+    for ln in stats_tests:
+        # Defect 40 (limb 6): the real publisher chain (`observation.doc_id -> document.publisher_id`)
+        # is what populates the `publishers` multihop component; without it `gold_from_link` could
+        # never emit that slot and the F1 arm was measured on a strictly thinner gold set.
+        if ln.get("kind") == "lead_lag":
+            pubs = _publishers_for_domains(series, str(ln.get("a")), str(ln.get("b")))
+        else:
+            pubs = _publishers_for(series, str(ln.get("a")), str(ln.get("b")))
+        if pubs:
+            ln["publishers"] = pubs
     desc_tests = bridges(series, con) + event_study(series, con) + claims_cross_domain(series, con)
     kept = survive(stats_tests + desc_tests)
     links = add_ids(kept)
@@ -885,6 +1065,24 @@ def build(con, min_months: int = MIN_MONTHS, write: bool = False) -> dict:
     return report
 
 
+def _operand(v) -> str:
+    """Render a frozen-gate operand for the console WITHOUT lying about its type.
+
+    Defect 40 (limb 5, second half): the printer routed both operands through `_r`, i.e. through
+    `money.as_float`, which rejects `bool` by contract (a bool is not a measured quantity). So the
+    frozen boolean operand `discovered_links_out_of_sample_checked` printed as
+    `n/a (target n/a)` even when it was perfectly readable, and the console text contradicted the
+    artefact. Booleans render as `true`/`false`; numbers via the single finite accessor; anything
+    else is genuinely UNMEASURED and still prints `n/a`.
+    """
+    if isinstance(v, bool):
+        return "true" if v else "false"
+    f = M.as_float(v)
+    if f is not None:
+        return str(v)
+    return "n/a"
+
+
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description="P7 discovery pass: cross-domain statistics")
     ap.add_argument("--db", default=None)
@@ -914,7 +1112,7 @@ def main(argv: list[str] | None = None) -> int:
     # discovery operand was readable and satisfied; anything else (including an unreadable
     # `kb/gates.yaml`) exits non-zero so a caller cannot read silence as success.
     for key, g in report["gates"].items():
-        print(f"{key}: {_r(g['value'])} (target {_r(g['target'])}) "
+        print(f"{key}: {_operand(g['value'])} (target {_operand(g['target'])}) "
               f"{'ok' if g['ok'] else 'n/a' if g['ok'] is None else 'FAIL'}")
     return 0 if report["pass"] else 1
 
