@@ -595948,3 +595948,5 @@ id,date,charterer,owner,vessel,imo,rate,period,route,segment,department,commodit
 893495,2026-11-18,,,Amar Meray,,,,,Handysize,BULK,,,,,
 893496,2026-11-18,,,,,,,,Panamax,BULK,Coal,,,,max 25 yrs
 893497,2026-11-18,A1,,,,,,,Panamax,BULK,Rock Phosphate,,,,
+893498,2026-11-18,Vedanta Iron Ore & Steel,,,,,,,Panamax,BULK,Iron Ore Fines,,,,Geared; Not exceeding 15 years
+893499,2026-11-18,,,,,,,,Panamax,BULK,Alumina,,,,CHOPT
