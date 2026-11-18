@@ -5227,3 +5227,23 @@ issue_date,report_week,record_type,sector,vessel_type,size,price_current_usd_m,p
 2026-11-10,45,reported_order,,Containership,"1,400 teu",,,,7,"Huanghai Shipbuilding, China",2029–2030,2029-2030,Singaporean (Pacific International Lines),undisclosed,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
 2026-11-10,45,reported_order,,Gas Carrier,"90,000 cbm",,,,4,"HD Hyundai HI, S. Korea",2029–2030,2029-2030,Singapore based (Foresight Group),$ 117.5m,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
 2026-11-10,45,reported_order,,Gas Carrier,"48,000 cbm",,,,2,"CSSC Guangzhou Huangpu Wenchong, China",2030,2030,Greek (Benelux Overseas),undisclosed,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-17,46,indicative_price,Bulkers,Newcastlemax,205k,80.0,80.0,0.0%,,,,,$80.0m,,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,indicative_price,Bulkers,Capesize,180k,76.5,76.5,0.0%,,,,,$76.5m,,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,indicative_price,Bulkers,Kamsarmax,82k,38.5,38.5,0.0%,,,,,$38.5m,,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,indicative_price,Bulkers,Ultramax,63k,36.0,36.0,0.0%,,,,,$36.0m,,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,indicative_price,Bulkers,Handysize,38k,31.0,31.0,0.0%,,,,,$31.0m,,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,indicative_price,Tankers,VLCC,300k,131.5,131.5,0.0%,,,,,$131.5m,,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,indicative_price,Tankers,Suezmax,160k,90.5,90.5,0.0%,,,,,$90.5m,,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,indicative_price,Tankers,Aframax,115k,79.5,79.5,0.0%,,,,,$79.5m,,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,indicative_price,Tankers,MR,50k,52.5,52.5,0.0%,,,,,$52.5m,,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,indicative_price,Gas,LNG 174k cbm,,245.0,245.0,0.0%,,,,,$245.0m,,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,indicative_price,Gas,MGC LPG 55k cbm,,86.0,86.0,0.0%,,,,,$86.0m,,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,indicative_price,Gas,SGC LPG 25k cbm,,62.0,62.0,0.0%,,,,,$62.0m,,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,reported_order,,Tanker,"320,000 dwt",,,,1,"Hanwha Ocean, S. Korea",2029,2029,Monaco-based (DHT),undisclosed,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,reported_order,,Tanker,"50,000 dwt",,,,2,"K Shipbuilding, S. Korea",2029,2029,Greek (JHI Steamship),undisclosed,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,reported_order,,Gas Carrier,"180,000 cbm",,,,1,"Samsung HI, S. Korea",2029,2029,Danish (Celsius Tankers),$ 256.7m,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,reported_order,,Gas Carrier,"174,000 cbm",,,,2,"HD Hyundai HI, S. Korea",2029,2029,Greek (Thenamaris),$ 247.0m,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,reported_order,,Gas Carrier,"9,000 cbm",,,,4,"HD Hyundai, S. Korea",2028-2029,2028-2029,Greek (Naftomar),$ 51.0m,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,reported_order,,VLAC,"93,000 cbm",,,,2,"Hengli Heavy Industries, China",2028-2029,2028-2029,Greek (SwissChemGas),undisclosed,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,reported_order,,PCTC,"8,600 ceu",,,,2,"CMHI Weihai, China",2030-2031,2030-2031,Swiss (MSC),$ 100.0m,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,reported_order,,General Cargo,"9,200 dwt",,,,1,"CSSC Guangxi, China",2028,2028,Italian (Ve-Na Di Navigazione),undisclosed,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf

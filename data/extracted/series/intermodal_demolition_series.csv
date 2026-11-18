@@ -2673,3 +2673,11 @@ issue_date,report_week,record_type,sector,country,price_current_usd_per_ldt,pric
 2026-11-10,45,indicative_price,Dry Bulk,Pakistan,485.0,0.0,485,,,,,,,$485.0/ldt,485.0,,,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
 2026-11-10,45,indicative_price,Dry Bulk,Turkey,280.0,0.0,280,,,,,,,$280.0/ldt,280.0,,,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
 2026-11-10,45,reported_sale,,Bangledeshi,460.0,,,SHINAKI MARU,6520,,1991,"KANDA, Japan",BC,$460/Ldt,460.0,Bangledeshi,,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-17,46,indicative_price,Tanker,Bangladesh,525.0,1.0,525,,,,,,,$525.0/ldt,525.0,,,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,indicative_price,Tanker,India,480.0,1.1,480,,,,,,,$480.0/ldt,480.0,,,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,indicative_price,Tanker,Pakistan,505.0,0.0,505,,,,,,,$505.0/ldt,505.0,,,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,indicative_price,Tanker,Turkey,290.0,0.0,290,,,,,,,$290.0/ldt,290.0,,,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,indicative_price,Dry Bulk,Bangladesh,510.0,1.0,510,,,,,,,$510.0/ldt,510.0,,,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,indicative_price,Dry Bulk,India,470.0,1.1,470,,,,,,,$470.0/ldt,470.0,,,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,indicative_price,Dry Bulk,Pakistan,485.0,0.0,485,,,,,,,$485.0/ldt,485.0,,,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,indicative_price,Dry Bulk,Turkey,280.0,0.0,280,,,,,,,$280.0/ldt,280.0,,,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf

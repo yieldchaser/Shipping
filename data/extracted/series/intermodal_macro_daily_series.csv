@@ -23299,3 +23299,93 @@ issue_date,report_week,category,indicator,print_date,day_offset,value,is_latest,
 2026-11-10,45,Currencies,$ INDEX,2026-11-04,2,101.57,0,0.4%,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
 2026-11-10,45,Currencies,$ INDEX,2026-11-03,3,101.87,0,0.4%,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
 2026-11-10,45,Currencies,$ INDEX,2026-11-02,4,101.75,0,0.4%,intermodal_11_11_2026_intermodal_weekly_market_report_week_45_2026_broker_s_insi.pdf
+2026-11-17,46,Bonds,10year US Bond,2026-11-13,0,5.153,1,6.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Bonds,10year US Bond,2026-11-12,1,5.103,0,6.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Bonds,10year US Bond,2026-11-11,2,4.983,0,6.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Bonds,10year US Bond,2026-11-10,3,4.983,0,6.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Bonds,10year US Bond,2026-11-09,4,4.862,0,6.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,S&P 500,2026-11-13,0,7561.67,1,2.5%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,S&P 500,2026-11-12,1,7592.4,0,2.5%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,S&P 500,2026-11-11,2,7619.38,0,2.5%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,S&P 500,2026-11-10,3,7520.93,0,2.5%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,S&P 500,2026-11-09,4,7549.94,0,2.5%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Nasdaq,2026-11-13,0,27943.74,1,3.5%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Nasdaq,2026-11-12,1,28289.19,0,3.5%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Nasdaq,2026-11-11,2,28374.25,0,3.5%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Nasdaq,2026-11-10,3,27740.8,0,3.5%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Nasdaq,2026-11-09,4,27907.63,0,3.5%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Dow Jones,2026-11-13,0,52347.55,1,2.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Dow Jones,2026-11-12,1,52297.09,0,2.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Dow Jones,2026-11-11,2,52486.49,0,2.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Dow Jones,2026-11-10,3,52231.89,0,2.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Dow Jones,2026-11-09,4,52389.75,0,2.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,FTSE 100,2026-11-13,0,10902.56,1,2.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,FTSE 100,2026-11-12,1,10863.09,0,2.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,FTSE 100,2026-11-11,2,10835.47,0,2.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,FTSE 100,2026-11-10,3,10751.59,0,2.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,FTSE 100,2026-11-09,4,10782.87,0,2.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,FTSE All-Share UK,2026-11-13,0,5876.01,1,2.0%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,FTSE All-Share UK,2026-11-12,1,5860.41,0,2.0%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,FTSE All-Share UK,2026-11-11,2,5847.46,0,2.0%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,FTSE All-Share UK,2026-11-10,3,5802.64,0,2.0%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,FTSE All-Share UK,2026-11-09,4,5816.34,0,2.0%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,CAC40,2026-11-13,0,8368.91,1,2.8%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,CAC40,2026-11-12,1,8361.36,0,2.8%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,CAC40,2026-11-11,2,8332.87,0,2.8%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,CAC40,2026-11-10,3,8278.59,0,2.8%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,CAC40,2026-11-09,4,8233.3,0,2.8%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Xetra Dax,2026-11-13,0,26749.95,1,3.6%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Xetra Dax,2026-11-12,1,26771.88,0,3.6%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Xetra Dax,2026-11-11,2,26662.77,0,3.6%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Xetra Dax,2026-11-10,3,26347.45,0,3.6%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Xetra Dax,2026-11-09,4,26267.19,0,3.6%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Nikkei,2026-11-13,0,61142.35,1,6.5%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Nikkei,2026-11-12,1,60819.36,0,6.5%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Nikkei,2026-11-11,2,61248.59,0,6.5%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Nikkei,2026-11-10,3,60459.58,0,6.5%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Nikkei,2026-11-09,4,58775.5,0,6.5%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Hang Seng,2026-11-13,0,23637.6,1,-3.4%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Hang Seng,2026-11-12,1,24008.55,0,-3.4%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Hang Seng,2026-11-11,2,24315.92,0,-3.4%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Hang Seng,2026-11-10,3,24557.04,0,-3.4%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,Hang Seng,2026-11-09,4,24448.95,0,-3.4%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,DJ US Maritime,2026-11-13,0,425.81,1,7.2%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,DJ US Maritime,2026-11-12,1,421.84,0,7.2%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,DJ US Maritime,2026-11-11,2,420.72,0,7.2%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,DJ US Maritime,2026-11-10,3,407.56,0,7.2%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Stock Indices,DJ US Maritime,2026-11-09,4,408.38,0,7.2%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,€ / $,2026-11-13,0,1.1,1,-1.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,€ / $,2026-11-12,1,1.11,0,-1.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,€ / $,2026-11-11,2,1.11,0,-1.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,€ / $,2026-11-10,3,1.12,0,-1.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,€ / $,2026-11-09,4,1.12,0,-1.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,£ / $,2026-11-13,0,1.32,1,-1.0%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,£ / $,2026-11-12,1,1.32,0,-1.0%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,£ / $,2026-11-11,2,1.33,0,-1.0%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,£ / $,2026-11-10,3,1.33,0,-1.0%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,£ / $,2026-11-09,4,1.34,0,-1.0%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,$ / ¥,2026-11-13,0,159.66,1,0.8%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,$ / ¥,2026-11-12,1,159.85,0,0.8%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,$ / ¥,2026-11-11,2,159.77,0,0.8%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,$ / ¥,2026-11-10,3,158.73,0,0.8%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,$ / ¥,2026-11-09,4,157.9,0,0.8%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,$ / NoK,2026-11-13,0,9.57,1,1.3%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,$ / NoK,2026-11-12,1,9.55,0,1.3%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,$ / NoK,2026-11-11,2,9.55,0,1.3%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,$ / NoK,2026-11-10,3,9.49,0,1.3%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,$ / NoK,2026-11-09,4,9.39,0,1.3%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,Yuan / $,2026-11-13,0,6.67,1,-0.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,Yuan / $,2026-11-12,1,6.67,0,-0.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,Yuan / $,2026-11-11,2,6.67,0,-0.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,Yuan / $,2026-11-10,3,6.67,0,-0.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,Yuan / $,2026-11-09,4,6.67,0,-0.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,Won / $,2026-11-13,0,1335.0,1,-2.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,Won / $,2026-11-12,1,1335.3,0,-2.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,Won / $,2026-11-11,2,1338.64,0,-2.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,Won / $,2026-11-10,3,1342.15,0,-2.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,Won / $,2026-11-09,4,1340.2,0,-2.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,$ INDEX,2026-11-13,0,103.41,1,1.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,$ INDEX,2026-11-12,1,103.17,0,1.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,$ INDEX,2026-11-11,2,102.91,0,1.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,$ INDEX,2026-11-10,3,102.23,0,1.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-17,46,Currencies,$ INDEX,2026-11-09,4,101.65,0,1.1%,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf

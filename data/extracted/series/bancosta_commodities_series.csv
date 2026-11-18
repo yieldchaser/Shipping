@@ -8653,3 +8653,30 @@ issue_date,report_week,category,item,unit,price_current,price_previous,source_fi
 2026-11-09,45,AGRICULTURAL,Wheat CBoT,usc/bu,591.2,599.7,banchero_costa_12_11_2026_banchero_costa_weekly_market_report_week_45_2026.pdf
 2026-11-09,45,AGRICULTURAL,Sugar ICE N.11,usc/lb,18.24,18.33,banchero_costa_12_11_2026_banchero_costa_weekly_market_report_week_45_2026.pdf
 2026-11-09,45,AGRICULTURAL,Palm Oil Malaysia,usd/t,997.8,1067.0,banchero_costa_12_11_2026_banchero_costa_weekly_market_report_week_45_2026.pdf
+2026-11-16,46,GENERAL,Rotterdam,usd/t,555.8,586.8,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,GENERAL,Fujairah,usd/t,557.5,594.5,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,GENERAL,Singapore,usd/t,658.8,739.8,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,OIL & GAS,Crude Oil ICE Brent,usd/bbl,95.8,98.3,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,OIL & GAS,Crude Oil Nymex WTI,usd/bbl,88.6,90.8,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,OIL & GAS,Crude Oil Russia Urals,usd/bbl,68.0,68.0,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,OIL & GAS,Crude Oil Shanghai,rmb/bbl,615.2,636.8,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,OIL & GAS,Gasoil ICE,usd/t,1287.5,1364.5,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,OIL & GAS,Gasoline Nymex,usd/gal,2.62,2.78,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,OIL & GAS,Naphtha C\&F Japan,usd/t,855.2,871.1,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,OIL & GAS,Jet Fuel Singapore,usd/bbl,153.2,158.9,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,OIL & GAS,Nat Gas Henry Hub,usd/mmbtu,3.23,3.00,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,OIL & GAS,LNG TTF Netherlands,usd/mmbtu,28.92,27.91,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,OIL & GAS,LNG North East Asia,usd/mmbtu,31.30,31.40,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,COAL,Steam Coal Richards Bay,usd/t,130.3,130.4,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,COAL,Steam Coal Newcastle,usd/t,148.3,151.2,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,COAL,Coking Coal Australia SGX,usd/t,260.5,259.0,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,IRON ORE & STEEL,Iron Ore SGX 62%,usd/t,91.4,93.2,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,IRON ORE & STEEL,Iron Ore Dalian CE,rmb/t,672.0,673.0,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,IRON ORE & STEEL,Rebar Steel in China,rmb/t,3000.0,3015.0,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,IRON ORE & STEEL,HRC Steel in China,rmb/t,3115.0,3160.0,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,IRON ORE & STEEL,HR Coil in China CISA,rmb/t,3115.0,3160.0,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,AGRICULTURAL,Soybeans CBoT,usc/bu,1231.5,1189.0,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,AGRICULTURAL,Corn CBoT,usc/bu,445.5,441.5,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,AGRICULTURAL,Wheat CBoT,usc/bu,593.2,591.2,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,AGRICULTURAL,Sugar ICE N.11,usc/lb,18.41,18.24,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,46,AGRICULTURAL,Palm Oil Malaysia,usd/t,1058.5,997.8,banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
