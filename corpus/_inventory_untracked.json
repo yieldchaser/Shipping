@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2978,
-      "untracked_bytes": 2297488606
+      "untracked_files": 2980,
+      "untracked_bytes": 2297966586
     },
     {
       "path": "corpus/02-hellenic",
@@ -27,8 +27,8 @@
     },
     {
       "path": "corpus/06-drewry",
-      "untracked_files": 289,
-      "untracked_bytes": 547684043
+      "untracked_files": 288,
+      "untracked_bytes": 547682493
     },
     {
       "path": "corpus/07-signal",
@@ -47,6 +47,11 @@
     }
   ],
   "entries": [
+    {
+      "path": "corpus/01-brokers/_digests/fearnleys/2026/fearnleys_19_11_2026_fearnleys_week_47_2026.md",
+      "bytes": 11359,
+      "sha256": "fdf24ab6827a47142dcda9830a78948ae82829402244e73ef2c88e6b4f106f51"
+    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -6781,6 +6786,11 @@
       "path": "corpus/01-brokers/fearnleys/2026/fearnleys_01_10_2026_fearnleys_week_40_2026.pdf",
       "bytes": 463756,
       "sha256": "62cf00a3cc089f203f0f78bba113eae955cc570863e8e86f31ab61a0f3909015"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys/2026/fearnleys_19_11_2026_fearnleys_week_47_2026.pdf",
+      "bytes": 466621,
+      "sha256": "eaf6dfb05863f8c95e23ffc9726b495978d8aee217c8322e0e1dc43153af11b1"
     },
     {
       "path": "corpus/01-brokers/fearnleys/2026/fearnleys_2026_W01_Fearnleys-Weekly-Report-_-Fearnpulse.pdf",
@@ -42136,11 +42146,6 @@
       "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week39_2026.pdf",
       "bytes": 1692736,
       "sha256": "cfb74c938d015edb12df749489317f64447354fc874abe5b10dbd3e604116a9e"
-    },
-    {
-      "path": "corpus/06-drewry/opinions/2026/2026-11-18_decoding-lpg-shipping-stocks-outperformance.md",
-      "bytes": 1550,
-      "sha256": "b832f3989dbfa18bf6fda722678bd9942a99daf70561800f86416be6c5be4251"
     },
     {
       "path": "corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png",
