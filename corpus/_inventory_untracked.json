@@ -7,13 +7,13 @@
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4057,
-      "untracked_bytes": 2389108169
+      "untracked_files": 4065,
+      "untracked_bytes": 2392428089
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 9,
-      "untracked_bytes": 2035986
+      "untracked_files": 17,
+      "untracked_bytes": 3483200
     },
     {
       "path": "corpus/04-poten",
@@ -16523,6 +16523,11 @@
       "sha256": "030e062e3637cde71b5e63a1b0b8f0ff517d5d9562568a2f5c7054fda79775ed"
     },
     {
+      "path": "corpus/02-hellenic/demolition/pdfs/athenian/2026-11-17_athenian-shipbrokers-s-a-demolition-quic_Week_46_Athenian_Demolition_Report_2026.pdf",
+      "bytes": 628175,
+      "sha256": "202244206235217e9adc260210ccefb89076d47d0af63146e3002c47494393b0"
+    },
+    {
       "path": "corpus/02-hellenic/demolition/pdfs/best_oasis/2021-07-03_Weekly-Ship-Recycling-Report.pdf",
       "bytes": 446331,
       "sha256": "01fe277505d29d2039671ad2880688cc2a9d894833b83c1d8e3b9107a95461a6"
@@ -20356,6 +20361,16 @@
       "path": "corpus/02-hellenic/iron_ore/2024/assets/2024-07-12_mmi-daily-iron-ore-index-report-july-12-2024_img1_1207202\u03b4\u03c3_e133c3395525.jpg",
       "bytes": 469290,
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/2026/2026-11-18_mmi-daily-iron-ore-index-report-november-18-2026.html",
+      "bytes": 4515,
+      "sha256": "affc06a37b6d636deec5c49f897a87c5ef0c7387784816e8266687e137844c6a"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-11-18_mmi-daily-iron-ore-index-report-november-18-2026_18112026chinese323_a06ec85eb081.jpg",
+      "bytes": 187543,
+      "sha256": "6edce0bc5c308b82c8dac4eb9bdd0430241a08f403fe0c7fc69b26cdee6170dc"
     },
     {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
@@ -30353,6 +30368,11 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
+      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-11-18_mmi-daily-iron-ore-index-report-november-18-2026_mmi-daily-iron-ore-report-for-18th-n_da9457a0512c.pdf",
+      "bytes": 1217463,
+      "sha256": "df2d075d784bdfb5dc269bfa2e1126aeaedbdf7fb40d96d0dcc953c2a4f395d4"
+    },
+    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31741,6 +31761,16 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-11-18_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-18th-November-2026.pdf",
+      "bytes": 1217463,
+      "sha256": "df2d075d784bdfb5dc269bfa2e1126aeaedbdf7fb40d96d0dcc953c2a4f395d4"
+    },
+    {
+      "path": "corpus/02-hellenic/shipbuilding/2026/2026-11-17_breakwave-tanker-report-11-17-2026.html",
+      "bytes": 2735,
+      "sha256": "43359022b6e8d79be80f6b6658cad5a6fecee4f8f8678e41a41b4ff83df7d72d"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -35178,6 +35208,36 @@
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
     },
     {
+      "path": "corpus/02-hellenic/vessel_valuations/2026/2026-11-17_weekly-vessel-valuations-report-november-17-2026.html",
+      "bytes": 2859,
+      "sha256": "481484c9b3383f8a8ba490b36bc280789bfac9799d0fe8284c19834f8c64d86f"
+    },
+    {
+      "path": "corpus/02-hellenic/vessel_valuations/2026/assets/2026-11-17_weekly-vessel-valuations-report-november-17-2026_678-1.jpg",
+      "bytes": 59167,
+      "sha256": "7d924fec9e925dc3a2eb0e023483f213ffa35663aa908d649c898e70c79d59ad"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-11-18_chinas-trade-booms-but-iron-ore-slips.html",
+      "bytes": 9210,
+      "sha256": "53f1bf836fc150bc92808c9dddcb2545c612da2420d3b6ea31418557295b7c46"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-11-18_chinas-trade-booms-but-iron-ore-slips.md",
+      "bytes": 7369,
+      "sha256": "ebb2a2194843246ca33176d999231d472f3160e27b92e0eb3f3bc88fe5b0c01a"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-11-18_tanker-markets-at-two-chokepoints.html",
+      "bytes": 8903,
+      "sha256": "51726b8534b958a2668c17efcdd000099eab841b53f9f9209695805f7de3ab78"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-11-18_tanker-markets-at-two-chokepoints.md",
+      "bytes": 7591,
+      "sha256": "fdf738dae8521efe296414606dda12d569777509aaa0a33382d3b16227d52447"
+    },
+    {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
       "bytes": 69365,
       "sha256": "9848c9a3aaba37a9e84f8cd2263fff62c7771135c466216f51114381d1621e5f"
@@ -35221,6 +35281,26 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-18_tanker-markets-at-two-chokepoints_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7e24f08c81cb.png",
+      "bytes": 1320183,
+      "sha256": "b0d5c1cdf3d4b5fe20db94d61da8798a120143beab9c4e5b890533a9fefd8a42"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-18_tanker-markets-at-two-chokepoints_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ab6a4d292110.png",
+      "bytes": 20862,
+      "sha256": "a4ae62743fe473ea38032821b66070cea060c17e4fe2462a5e862bd6df6b54d3"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-18_tanker-markets-at-two-chokepoints_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d1550455bcc6.png",
+      "bytes": 32673,
+      "sha256": "59a40a4e64336f922391f0af8af64a39e1d0ed290f107bd69393ddd22b33865a"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-18_tanker-markets-at-two-chokepoints_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e6d20578e644.png",
+      "bytes": 40423,
+      "sha256": "176d319b739c25f14ebf0e3abfd428bcde3f279f11d5cdfae72a40e96403c4ea"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
