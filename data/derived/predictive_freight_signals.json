@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source": "Port Stress Matrix x Baltic Exchange spot indices",
-    "as_of": "2026-11-18 14:33:10 UTC",
+    "as_of": "2026-11-19 14:44:24 UTC",
     "total_signals": 8,
     "methodology": "Port-call z-score anomaly (port stress matrix) paired with the Baltic index of the hub trade; no correlation or lead time is estimated"
   },
@@ -31,7 +31,7 @@
       "bias": "BEARISH",
       "correlated_ticker": "BCI",
       "ticker_name": "Baltic Capesize Index",
-      "current_index_value": 4549.0,
+      "current_index_value": 4514.0,
       "projected_impact": "Sharp arrival slowdown at Newcastle (Z-Score -1.91\u03c3). Terminal export reduction or weather shutdown dampens cargo stems, softening prompt demand for BCI.",
       "recommendation": "Monitor forward cargo fixtures for BCI softening."
     },
@@ -49,7 +49,7 @@
       "bias": "BEARISH",
       "correlated_ticker": "BCI",
       "ticker_name": "Baltic Capesize Index",
-      "current_index_value": 4549.0,
+      "current_index_value": 4514.0,
       "projected_impact": "Sharp arrival slowdown at Hay Point (Z-Score -1.80\u03c3). Terminal export reduction or weather shutdown dampens cargo stems, softening prompt demand for BCI.",
       "recommendation": "Monitor forward cargo fixtures for BCI softening."
     },
@@ -67,7 +67,7 @@
       "bias": "BEARISH",
       "correlated_ticker": "BCI",
       "ticker_name": "Baltic Capesize Index",
-      "current_index_value": 4549.0,
+      "current_index_value": 4514.0,
       "projected_impact": "Sharp arrival slowdown at Tubarao (Z-Score -1.77\u03c3). Terminal export reduction or weather shutdown dampens cargo stems, softening prompt demand for BCI.",
       "recommendation": "Monitor forward cargo fixtures for BCI softening."
     },
@@ -85,7 +85,7 @@
       "bias": "BULLISH",
       "correlated_ticker": "BLNG",
       "ticker_name": "Baltic LNG Index",
-      "current_index_value": 4053.0,
+      "current_index_value": 3823.0,
       "projected_impact": "Severe vessel queuing and berthing delays at Bintulu (Petronas MLNG) (Z-Score +1.63\u03c3). Concentrated tonnage detention constrains prompt fleet supply across the LNG basin, creating acute upward spot charter rate pressure on BLNG (Baltic LNG Index).",
       "recommendation": "Watch BLNG for spot rate pressure."
     },
@@ -103,7 +103,7 @@
       "bias": "BEARISH",
       "correlated_ticker": "BLNG",
       "ticker_name": "Baltic LNG Index",
-      "current_index_value": 4053.0,
+      "current_index_value": 3823.0,
       "projected_impact": "Sharp arrival slowdown at Ras Laffan (Qatar LNG) (Z-Score -1.63\u03c3). Terminal export reduction or weather shutdown dampens cargo stems, softening prompt demand for BLNG.",
       "recommendation": "Monitor forward cargo fixtures for BLNG softening."
     },
@@ -121,7 +121,7 @@
       "bias": "BEARISH",
       "correlated_ticker": "BLPG",
       "ticker_name": "Baltic LPG Index",
-      "current_index_value": 21195.0,
+      "current_index_value": 20983.0,
       "projected_impact": "Sharp arrival slowdown at Ras Laffan (LPG) (Z-Score -1.63\u03c3). Terminal export reduction or weather shutdown dampens cargo stems, softening prompt demand for BLPG.",
       "recommendation": "Monitor forward cargo fixtures for BLPG softening."
     },
@@ -139,7 +139,7 @@
       "bias": "BULLISH",
       "correlated_ticker": "BLNG",
       "ticker_name": "Baltic LNG Index",
-      "current_index_value": 4053.0,
+      "current_index_value": 3823.0,
       "projected_impact": "Severe vessel queuing and berthing delays at Hammerfest (Snohvit LNG) (Z-Score +1.53\u03c3). Concentrated tonnage detention constrains prompt fleet supply across the LNG basin, creating acute upward spot charter rate pressure on BLNG (Baltic LNG Index).",
       "recommendation": "Watch BLNG for spot rate pressure."
     },
@@ -157,7 +157,7 @@
       "bias": "BULLISH",
       "correlated_ticker": "BDTI",
       "ticker_name": "Baltic Dirty Tanker Index",
-      "current_index_value": 4469.0,
+      "current_index_value": 4564.0,
       "projected_impact": "Severe vessel queuing and berthing delays at Sikka / Jamnagar (Z-Score +1.51\u03c3). Concentrated tonnage detention constrains prompt fleet supply across the Tankers basin, creating acute upward spot charter rate pressure on BDTI (Baltic Dirty Tanker Index).",
       "recommendation": "Watch BDTI for spot rate pressure."
     }

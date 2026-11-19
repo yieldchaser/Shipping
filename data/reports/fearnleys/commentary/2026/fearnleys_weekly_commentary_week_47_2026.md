@@ -4,13 +4,13 @@ source: "Fearnleys Hasura GraphQL API (fearnpulse.com)"
 year: 2026
 week: 47
 date_range: "2026-11-18 to 2026-11-18"
-comments_count: 6
+comments_count: 8
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-11-18 14:31:42"
+generated_at: "2026-11-19 14:43:17"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 47, 2026
-*Coverage Period: 2026-11-18 to 2026-11-18 | Total Notes: 6*
+*Coverage Period: 2026-11-18 to 2026-11-18 | Total Notes: 8*
 
 ## Executive Summary
 Institutional desk intelligence harvested directly from the Fearnleys Hasura GraphQL backend, covering global Dry Bulk, Crude & Product Tankers, Gas/LNG markets, and Secondhand S&P deals for Week 47 (2026).
@@ -27,6 +27,13 @@ After a slow decline earlier in the week, the Pacific C5 West Australia/China sa
 **Date:** 2026-11-18 | **Subtype:** Dry Bulk Weekly Comment | **Desk:** Fearnleys Research
 
 The Panamax market maintained a steady-to-firmer tone this week, with Atlantic strength offsetting a softer Pacific. ECSA remained the key driver, supported by tight early-December tonnage and firm grain fronthaul demand, while transatlantic and US mineral enquiry provided further support. However, growing Continent tonnage and discounted late-December dates suggest a more balanced northern Atlantic. Meanwhile, the Pacific remained under pressure, with ample tonnage and limited fresh NoPac grain enquiry outweighing healthy Australian and Indonesian coal demand. Our research indicates shipment growth continues to lag fleet expansion, while tightness indicators suggest the recent rebound is losing momentum. Combined with weak Chinese macroeconomic conditions, we expect a broadly sideways market into early December, with Atlantic tightness providing a floor and Pacific oversupply limiting recovery, although coal futures suggest gradual firming over the next two months.
+
+---
+
+### Supramax Weekly Comment
+**Date:** 2026-11-18 | **Subtype:** Dry Bulk Weekly Comment | **Desk:** Fearnleys Research
+
+The Handy market is generally balanced, with the Indian Ocean and Atlantic showing better cargo support, while the Pacific remains more competitive. The Supra/Ultramax market is well supplied across most regions, with steady cargo enquiry across grains all cargoes. The Atlantic remains the most active area, while the Indian Ocean and Pacific continue to see reasonable activity. However, tonnage availability is limiting upward pressure on rates, with owners remaining flexible on trading direction and employment options. Overall, the market remains active but largely balanced, with regional tonnage supply, positioning and the bid/offer gap continuing to influence freight levels. Period sentiment remains relatively balanced, although fixture activity is somewhat limited by a visible gap between owners’ and charterers’ ideas.
 
 ---
 
@@ -57,7 +64,14 @@ Steady activity so far this week has kept rates stable but has also reduced the 
 ---
 
 ## 3. Gas & LNG Markets
-*No dedicated gas/LNG commentary published this week.*
+### LNG Market Report
+**Date:** 2026-11-18 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+
+Increased Qatari production continues to drive demand for vessels in the Middle East, both for ferrying cargoes out of the Gulf through the Strait of Hormuz, and for loading STS off Oman for onward voyage. Both requirements are offering significant premia to the general Pacific spot market, and by enticing vessels away from conventional cargoes, are keeping supply tight enough in the Pacific that rates have been broadly maintained ahead of the Atlantic. The higher risk trade continues to be dominated by independent owners, while portfolio length competes for opportunities out of Australia, Canada and Qalhat.
+ 
+With no sign of open arbitrage to draw vessels into longer voyages, and an increase in FOB cargo sales, the Atlantic remains considerably long on the prompt. This week has seen an increase in firm requirements and fixing activity, but with ample tonnage to service competing demand, charterers bids can afford to be aggressive and soft fixing levels are reflecting this.
+
+---
 
 ## 4. Sale and Purchase (S&P) & Corporate Activity
 ### Chartering Weekly Comment
