@@ -20174,6 +20174,20 @@ function buildMaster() {
       const stats = getStats(productKey);
       if (!stats) return;
 
+      // Boot data is a five-year slice, so until the per-product deep view
+      // lands the All-Time / 10Y percentiles, the 10Y mean and the seasonal
+      // z-score would all silently be five-year numbers (they used to print
+      // identical values under three different headings). Render now, then
+      // once more on the deep history if the product is still on screen.
+      if (typeof ensureDeepHistory === 'function' && !(PRODUCTS[productKey] || {}).computed) {
+        ensureDeepHistory(productKey).then(function (extended) {
+          if (extended && (window.currentProduct || 'bdiy') === productKey &&
+              (!window.currentTab || window.currentTab === 'dashboard')) {
+            renderDashboard(productKey);
+          }
+        });
+      }
+
       const rows = getRows(productKey);
       const latest = rows[rows.length - 1];
 
@@ -25406,6 +25420,24 @@ function buildMaster() {
           }
 
           DATA.years = [...new Set(DATA.master.map(function (r) { return r.year; }))].sort(function (a, b) { return a - b; });
+
+          // Rebuild this product's per-year trading-day index over the deep
+          // span. Boot built <key>_td from the five-year master, so the first
+          // (partial) year was numbered from its first in-window session and
+          // DATA.byTdProduct - which feeds the Dashboard's seasonal z-score -
+          // only ever held five observations per trading day.
+          var tdKeyD = productKey + '_td';
+          var tdIdx = {}, tdYear = null, tdN = 0;
+          for (var t = 0; t < DATA.master.length; t++) {
+            var tr = DATA.master[t];
+            if (tr[productKey] == null) continue;
+            if (tr.year !== tdYear) { tdYear = tr.year; tdN = 0; }
+            tdN++;
+            tr[tdKeyD] = tdN;
+            (tdIdx[tdN] || (tdIdx[tdN] = [])).push(tr[productKey]);
+          }
+          DATA.byTdProduct = DATA.byTdProduct || {};
+          DATA.byTdProduct[productKey] = tdIdx;
 
           // The range slider preserves the visible DATE window across data
           // changes, which would pin the chart to the five-year window it was

@@ -313,7 +313,13 @@ def fetch_latest_solactive(isin):
             records.append({'timestamp_ms': timestamp, 'value': value})
 
         df = pd.DataFrame(records)
-        df['date'] = pd.to_datetime(df['timestamp_ms'], unit='ms').dt.normalize()
+        # Solactive stamps each daily close at 00:00 Europe/Berlin. Read in UTC
+        # that is 22:00/23:00 on the PREVIOUS day, which put every batch row one
+        # day early (Monday's close on Sunday, no Fridays at all) until
+        # scripts/repair/fix_solactive_dates.py rebased the history. Convert in
+        # Berlin time, exactly as fetch_solactive_live() does.
+        df['date'] = (pd.to_datetime(df['timestamp_ms'], unit='ms', utc=True)
+                        .dt.tz_convert('Europe/Berlin').dt.tz_localize(None).dt.normalize())
         df = df[['date', 'value']].sort_values('date')
 
         # Return only the latest row
@@ -333,18 +339,31 @@ def update_solactive_csv(filename, latest_row):
 
     if os.path.exists(filename):
         existing = pd.read_csv(filename)
-        existing['date'] = pd.to_datetime(existing['date'], errors='coerce').dt.normalize()
+        existing['date'] = pd.to_datetime(existing['date'], format='%d-%m-%Y', errors='coerce').dt.normalize()
 
         if latest_date in existing['date'].values:
-            print(f"{filename}: {latest_date.date()} already present, nothing to append")
+            # The batch print is the official close; an evening live quote may
+            # have taken this date first. Overwrite the value, never add a row.
+            mask = existing['date'] == latest_date
+            batch_val = float(latest_row['value'].iloc[0])
+            if not existing.loc[mask, 'value'].astype(float).eq(batch_val).all():
+                existing.loc[mask, 'value'] = batch_val
+                out = existing.sort_values('date')
+                out['date'] = out['date'].dt.strftime('%d-%m-%Y')
+                out.to_csv(filename, index=False, lineterminator="\n")
+                print(f"{filename}: {latest_date.date()} replaced live quote with batch close {batch_val}")
+            else:
+                print(f"{filename}: {latest_date.date()} already present, nothing to append")
             return
 
         combined = pd.concat([existing, latest_row], ignore_index=True)
     else:
         combined = latest_row.copy()
 
-    combined = combined.sort_values('date')
-    combined['date'] = combined['date'].dt.strftime('%Y-%m-%d')
+    combined = combined.dropna(subset=['date']).sort_values('date')
+    # Keep the file's own DD-MM-YYYY format (the live fallback, build_views
+    # and the frontend all read it that way).
+    combined['date'] = combined['date'].dt.strftime('%d-%m-%Y')
     combined.to_csv(filename, index=False, lineterminator="\n")
     print(f"{filename}: Appended {latest_date.date()} -> value {latest_row['value'].iloc[0]}")
 
