@@ -336,12 +336,16 @@ def test_real_json_round_trip_and_size(real):
 def test_real_date_to_tracks_csv(real):
     # the cache must carry the CSV's own newest date (same-day rebuild);
     # NOT pinned to a literal date — cron data commits advance both files.
+    # date_to is the newest tanker ASSESSMENT. Fixture counts are stamped at
+    # their loading month and once pushed it to a date that had not happened.
     newest = ""
     with open(CSV_PATH, newline="", encoding="utf-8") as f:
         for r in csv.DictReader(f):
-            if r["rate_type"] in ("TANK", "counts") and r["date"] > newest:
+            if r["rate_type"] == "TANK" and r["date"] > newest:
                 newest = r["date"]
     assert real["meta"]["date_to"] == newest
+    import datetime as _dt
+    assert real["meta"]["date_to"] <= (_dt.date.today() + _dt.timedelta(days=1)).isoformat()
 
 
 def test_real_monthly_twin_codes_match(real):

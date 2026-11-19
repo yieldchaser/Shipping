@@ -1436,6 +1436,14 @@
     /* ETF Research Links */
     /* Link directories behind each fund: collapsed by default, they were
        ~900px of static links between the holdings and the analytics. */
+    .fx-hide-route [data-fxcol="route"], .fx-hide-period [data-fxcol="period"],
+    .fx-hide-laycan [data-fxcol="laycan"], .fx-hide-rate [data-fxcol="rate"] { display: none; }
+    .fearn-catalogue-details { margin-bottom: 20px; border: 1px solid var(--border); border-radius: 8px; background: var(--card); }
+    .fearn-catalogue-details > summary { cursor: pointer; padding: 12px 16px; font-size: 13px; font-weight: 700; color: var(--text); list-style: none; }
+    .fearn-catalogue-details > summary::-webkit-details-marker { display: none; }
+    .fearn-catalogue-details > summary::after { content: ' \25BE'; color: var(--text-muted); }
+    .fearn-catalogue-details[open] > summary::after { content: ' \25B4'; }
+    .fearn-catalogue-details > .chart-container { margin: 0 8px 8px; }
     .etf-sources-details { margin-top: 12px; border: 1px solid var(--border); border-radius: 8px; }
     .etf-sources-details > summary {
       cursor: pointer; padding: 10px 14px; font-size: 12px; font-weight: 600;
@@ -14374,7 +14382,7 @@ html.auth-locked body > *:not(#authGateModal) {
       <div class="fearn-sec" id="fearnSec12" style="display:none;">
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title" data-tooltip="Contracting prices for newbuild tonnage, monthly means in USD millions from the newbuilding price cache. Families: dry bulk classes, tanker classes, gas carriers and container classes."><span style="font-size:11px;color:var(--text-muted);font-weight:400;">· monthly means, USD M · families: Dry Bulk / Tankers / Gas / Other-Container</span></div>
+            <div class="chart-title" data-tooltip="Contracting prices for newbuild tonnage, monthly means in USD millions from the newbuilding price cache. Families: dry bulk classes, tanker classes, gas carriers and container classes.">Newbuilding Prices <span style="font-size:11px;color:var(--text-muted);font-weight:400;">· monthly means, USD M · families: Dry Bulk / Tankers / Gas / Other-Container</span></div>
           </div>
           <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:10px;">
             <div style="display:flex;gap:4px;flex-wrap:wrap;" id="fearnNbPills"></div>
@@ -14439,7 +14447,7 @@ html.auth-locked body > *:not(#authGateModal) {
       <div class="fearn-sec" id="fearnSec5" style="display:none;">
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title" data-tooltip="Secondhand asset values by ship age (5y/10y ladder) with the demolition scrap value overlaid, from the asset-curve cache. Class picked with the selector; hover the chart for per-month values."><span style="font-size:11px;color:var(--text-muted);font-weight:400;">· tenor ladder + demolition overlay</span></div>
+            <div class="chart-title" data-tooltip="Secondhand asset values by ship age (5y/10y ladder) with the demolition scrap value overlaid, from the asset-curve cache. Class picked with the selector; hover the chart for per-month values.">Asset Values by Age <span style="font-size:11px;color:var(--text-muted);font-weight:400;">· tenor ladder + demolition overlay</span></div>
             <div style="font-size:var(--fs-micro);color:var(--text-muted);font-family:'IBM Plex Mono',monospace;" id="fearnAcMeta"></div>
           </div>
           <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:10px;">
@@ -14450,7 +14458,7 @@ html.auth-locked body > *:not(#authGateModal) {
         </div>
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title" data-tooltip="Parity ratio: five-year-old secondhand value as a percent of newbuilding price for the selected class. Values near 100% mean the secondhand market is pricing close to replacement cost."><span style="font-size:11px;color:var(--text-muted);font-weight:400;">· 5y-old secondhand value as % of newbuild price</span></div>
+            <div class="chart-title" data-tooltip="Parity ratio: five-year-old secondhand value as a percent of newbuilding price for the selected class. Values near 100% mean the secondhand market is pricing close to replacement cost.">Secondhand-to-Newbuild Parity <span style="font-size:11px;color:var(--text-muted);font-weight:400;">· 5y-old secondhand value as % of newbuild price</span></div>
           </div>
           <div class="chart-canvas-wrap" style="height:300px;"><canvas id="fearnAcParity"></canvas></div>
           <div id="fearnAcParityNote" style="font-size:var(--fs-micro);color:var(--text-muted);padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;"></div>
@@ -14614,7 +14622,7 @@ html.auth-locked body > *:not(#authGateModal) {
       <div class="fearn-sec" id="fearnSec6" style="display:none;">
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title" data-tooltip="LNG carrier broker valuations grouped by subtype from the gas cache, with gas-carrier spot jobs and project cargo valuations overlaid on the right axis."><span style="font-size:11px;color:var(--text-muted);font-weight:400;">· grouped by subtype · spot &amp; project jobs overlay on right axis</span></div>
+            <div class="chart-title" data-tooltip="LNG carrier broker valuations grouped by subtype from the gas cache, with gas-carrier spot jobs and project cargo valuations overlaid on the right axis.">LNG Carrier Rates &amp; Valuations <span style="font-size:11px;color:var(--text-muted);font-weight:400;">· grouped by subtype · spot &amp; project jobs overlay on right axis</span></div>
           </div>
           <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:10px;">
             <select id="fearnLngSelect" class="tracking-select" style="min-width:360px;max-width:100%;" onchange="onFearnGasSel('LNG')"></select>
@@ -14652,7 +14660,7 @@ html.auth-locked body > *:not(#authGateModal) {
       <div class="fearn-sec" id="fearnSec7" style="display:none;">
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title" data-tooltip="LPG carrier broker valuations grouped by subtype. The archived BLPG block (series no longer published) is excluded here and lives in the Series Museum, disclosed rather than silently dropped."><span style="font-size:11px;color:var(--text-muted);font-weight:400;">· grouped by subtype · BLPG archived block lives in Museum only</span></div>
+            <div class="chart-title" data-tooltip="LPG carrier broker valuations grouped by subtype. The archived BLPG block (series no longer published) is excluded here and lives in the Series Museum, disclosed rather than silently dropped.">LPG Carrier Rates &amp; Prices <span style="font-size:11px;color:var(--text-muted);font-weight:400;">· grouped by subtype · BLPG archived block lives in Museum only</span></div>
           </div>
           <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:10px;">
             <select id="fearnLpgSelect" class="tracking-select" style="min-width:360px;max-width:100%;" onchange="onFearnGasSel('LPG')"></select>
@@ -14690,7 +14698,7 @@ html.auth-locked body > *:not(#authGateModal) {
       <div class="fearn-sec" id="fearnSec8" style="display:none;">
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title" data-tooltip="Brokered fixture records from 2024 onward: vessel, charterer, rate and period. Search and desk filters act on the fixtures cache; counts and rows always reflect what is published."><span style="font-size:11px;color:var(--text-muted);font-weight:400;">· Fixtures from 2024 onward</span></div>
+            <div class="chart-title" data-tooltip="Brokered fixture records from 2024 onward: vessel, charterer, rate and period. Search and desk filters act on the fixtures cache; counts and rows always reflect what is published.">Fixtures Tape <span style="font-size:11px;color:var(--text-muted);font-weight:400;">· Fixtures from 2024 onward</span></div>
             <div style="font-size:var(--fs-micro);color:var(--text-muted);font-family:'IBM Plex Mono',monospace;" id="fearnFxMeta"></div>
           </div>
           <div style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin-bottom:8px;">
@@ -14702,7 +14710,7 @@ html.auth-locked body > *:not(#authGateModal) {
             <div style="flex:1;min-width:0;">
               <div class="tracking-table-wrap" style="max-height:560px;overflow:auto;">
                 <table class="tracking-table" style="font-size:11px;">
-                  <thead><tr><th>Date</th><th>Dept</th><th>Segment</th><th>Vessel / Owner</th><th>Charterer</th><th>Route / Ports</th><th>Commodity</th><th>Period</th><th>Laycan</th><th style="text-align:right;">Rate</th><th style="min-width:220px;">Comment <span style="font-size:10px;font-weight:normal;color:var(--text-muted);">(click row for full details)</span></th></tr></thead>
+                  <thead><tr><th>Date</th><th>Dept</th><th>Segment</th><th>Vessel / Owner</th><th>Charterer</th><th data-fxcol="route">Route / Ports</th><th>Commodity</th><th data-fxcol="period">Period</th><th data-fxcol="laycan">Laycan</th><th data-fxcol="rate" style="text-align:right;">Rate</th><th style="min-width:220px;">Comment <span style="font-size:10px;font-weight:normal;color:var(--text-muted);">(click row for full details)</span></th></tr></thead>
                   <tbody id="fearnFxBody"><tr><td colspan="11" style="text-align:center;color:var(--text-muted);padding:14px;">Loading tape…</td></tr></tbody>
                 </table>
               </div>
@@ -14736,7 +14744,7 @@ html.auth-locked body > *:not(#authGateModal) {
       <div class="fearn-sec" id="fearnSec9" style="display:none;">
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title" data-tooltip="Browse every monthly series in the Fearnleys archive: latest value, all-time high/low, and full history for the selected label. Coverage badge shows the span from the cache."><span id="fearnBrowserCoverage" style="font-size:11px;color:var(--text-muted);font-weight:400;"></span></div>
+            <div class="chart-title" data-tooltip="Browse every monthly series in the Fearnleys archive: latest value, all-time high/low, and full history for the selected label. Coverage badge shows the span from the cache.">Series Browser <span id="fearnBrowserCoverage" style="font-size:11px;color:var(--text-muted);font-weight:400;"></span></div>
             <div style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;">pick a desk, then a series · stats recompute from cached monthly history</div>
           </div>
           <div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px;" id="fearnTypePills"></div>
@@ -14753,6 +14761,11 @@ html.auth-locked body > *:not(#authGateModal) {
           <div class="chart-canvas-wrap" style="height:340px;margin-top:10px;"><canvas id="fearnMainChart"></canvas></div>
           <div id="fearnSeriesNote" style="font-size:11px;color:var(--text-muted);padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;"></div>
         </div>
+        <!-- App-wide data catalogue: it lists all 112 series across every tab, not
+             broker data, and ran ~4,000px below the series browser. Collapsed by
+             default; the cards still render so search/filter work when opened. -->
+        <details class="fearn-catalogue-details" id="fearnCatalogueDetails">
+          <summary data-tooltip="Every data series behind the site, with its source, status, span and a link to where it is charted.">Data Catalogue &amp; Provenance (all tabs)</summary>
         <div class="chart-container mb-20">
           <div class="chart-header">
             <div>
@@ -14766,6 +14779,7 @@ html.auth-locked body > *:not(#authGateModal) {
           </div>
           <div id="fearnMusWall" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px;"></div>
         </div>
+        </details>
       </div>
 
       <!-- S10 BROKER VOICE -->
@@ -14774,7 +14788,7 @@ html.auth-locked body > *:not(#authGateModal) {
           <div class="chart-header">
             <div>
               <div class="chart-title" data-tooltip="Broker voice & research repository — Fearnleys weekly comments, Gibson research reports (548), and shipbroker report digests. Full-text search across all commentary and publications.">Broker Voice & Research Repository <span id="fearnVoiceCount" style="font-size:11px;color:var(--text-muted);font-weight:400;"></span></div>
-              <div style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;margin-top:2px;">12,500+ commercial broker commentaries, outlook reports, and sector digests with direct document links</div>
+              <div style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;margin-top:2px;">Recent desk comments and research reports load first; "Load full archive" adds the per-desk comment archive (~11,800 rows across dry, tanker, gas and S&amp;P)</div>
             </div>
           </div>
           <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px;">
@@ -54781,19 +54795,22 @@ var FDESK_ICONS = {
   12: '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>'
 };
 
+// Display order groups the desk the way it is used: rates, then assets, then
+// gas, then market colour, then tools. Newbuilding used to sit last, eleven
+// buttons away from S&P & Assets. Section ids are unchanged.
 var FDESK_SECTIONS = [
-  { id: 1,  name: 'Overview' },
-  { id: 2,  name: 'TC Rates' },
-  { id: 3,  name: 'Tanker Routes' },
-  { id: 4,  name: 'Dry Routes' },
-  { id: 5,  name: 'S&P & Assets' },
-  { id: 6,  name: 'LNG Desk' },
-  { id: 7,  name: 'LPG Desk' },
-  { id: 8,  name: 'Fixtures Tape' },
-  { id: 9,  name: 'Series Museum' },
-  { id: 10, name: 'Broker Voice' },
-  { id: 11, name: 'Backtest Lab' },
-  { id: 12, name: 'Newbuilding' }
+  { id: 1,  name: 'Overview',      grp: 'overview' },
+  { id: 4,  name: 'Dry Routes',    grp: 'rates' },
+  { id: 3,  name: 'Tanker Routes', grp: 'rates' },
+  { id: 2,  name: 'TC Rates',      grp: 'rates' },
+  { id: 12, name: 'Newbuilding',   grp: 'assets' },
+  { id: 5,  name: 'S&P & Assets',  grp: 'assets' },
+  { id: 6,  name: 'LNG Desk',      grp: 'gas' },
+  { id: 7,  name: 'LPG Desk',      grp: 'gas' },
+  { id: 8,  name: 'Fixtures Tape', grp: 'flow' },
+  { id: 10, name: 'Broker Voice',  grp: 'flow' },
+  { id: 9,  name: 'Series Museum', grp: 'tools' },
+  { id: 11, name: 'Backtest Lab',  grp: 'tools' }
 ];
 
 var FDESK = {
@@ -54911,11 +54928,14 @@ function initFearnSubNav() {
   var nav = document.getElementById('fearnSubNav');
   if (!nav) return;
   if (!nav.innerHTML) {
+    var _prevGrp = null;
     nav.innerHTML = FDESK_SECTIONS.map(function (s) {
+      var sep = (_prevGrp && s.grp !== _prevGrp) ? '<span aria-hidden="true" style="width:1px;align-self:stretch;margin:4px 4px;background:var(--border);"></span>' : '';
+      _prevGrp = s.grp;
       var ic = FDESK_ICONS[s.id] || '';
       var FDESK_SECTION_DESC = { 1: 'Broker-desk dashboard: TC rates, newbuilding prices, S-P/resale and gas tiles in desk order, all values from the Fearnleys caches.', 2: 'Time-charter rates by class from the Baltic weekly archive (2000+) and Fearnleys monthly archive (1977+); one source active at a time.', 3: 'Daily tanker route assessments from the Fearnleys daily cache: per-group tiles with last print, day delta and live/frozen state; click a tile for the full daily chart.', 4: 'Baltic dry-route benchmarks (Capesize, Panamax, Supramax) daily from the dry-route cache, plus newbuilding prices by vessel family, monthly means in USD millions from the NB price cache.', 12: 'Newbuilding prices by vessel family, monthly means in USD millions from the NB price cache.', 5: 'Secondhand S-P and asset-value curves: 5y/10y tenor ladder with demolition overlay from the asset-curve cache.', 6: 'LNG desk: broker gas valuations grouped by subtype with the gas-extra overlay cache.', 7: 'LPG desk: broker gas valuations grouped by subtype; archived BLPG blocks disclosed in the chart tooltip.', 8: 'Fixtures tape: brokered fixture records from 2024 onward with search and desk filters.', 9: 'Series museum: every archived series in the monthly cache, searchable by name, full history plotted.', 10: 'Broker voice: desk commentary archive from the broker-comments caches.', 11: 'Backtest lab: replay historical desk series against simple strategy rules; educational tool, not advice.' };
       var fdesc = FDESK_SECTION_DESC[s.id] || 'Broker desk sub-section.';
-      return '<button class="tracking-status-btn" data-fsec="' + s.id + '" data-tooltip="' + fdesc + '" onclick="switchFearnSection(' + s.id + ')" style="font-size:11px;display:inline-flex;align-items:center;gap:5px;">' + ic + '<span>' + s.name + '</span></button>';
+      return sep + '<button class="tracking-status-btn" data-fsec="' + s.id + '" data-tooltip="' + fdesc + '" onclick="switchFearnSection(' + s.id + ')" style="font-size:11px;display:inline-flex;align-items:center;gap:5px;">' + ic + '<span>' + s.name + '</span></button>';
     }).join('');
   }
   document.querySelectorAll('#fearnSubNav [data-fsec]').forEach(function (b) {
@@ -55044,7 +55064,7 @@ function renderFearnOverview() {
   if (grid && picks.length) {
     banner = '';
   }
-  if (grid) grid.innerHTML = banner + picks.map(function (s) {
+  var tileHtml = function (s) {
     var t = s.type, col = COLORS[t] || '#4d9aff';
     var m36 = s.m.slice(-36), mn = Infinity, mx = -Infinity;
     m36.forEach(function (p) { if (p[1] < mn) mn = p[1]; if (p[1] > mx) mx = p[1]; });
@@ -55063,22 +55083,37 @@ function renderFearnOverview() {
     var sec = deskOf[t] != null ? deskOf[t] : 9;
     var st = fearnStatusOf(s);
     return '<div class="tracking-kpi-card fearn-kpi-click" data-sec="' + sec + '" onclick="switchFearnSection(' + sec + ')" style="cursor:pointer;" ' + ttTile + '>' +
-      '<div class="tracking-kpi-label" style="display:flex;justify-content:space-between;gap:6px;"><span style="color:' + col + ';font-weight:700;">' + escapeHtml(DESK_NAMES[t] || t) + '</span><span style="text-transform:none;letter-spacing:0;">' + escapeHtml(s.unit) + '</span>' + fearnStatusBadge(st, s) + '</div>' +
+      '<div class="tracking-kpi-label" style="display:flex;justify-content:space-between;gap:6px;"><span style="color:' + col + ';font-weight:700;">' + escapeHtml(DESK_NAMES[t] || t) + '</span><span style="text-transform:none;letter-spacing:0;">' + escapeHtml(fearnDisplayUnit(s)) + '</span>' + fearnStatusBadge(st, s) + '</div>' +
       '<div style="font-size:11px;font-weight:600;color:var(--text);margin-top:3px;white-space:normal;line-height:1.25;" title="' + escapeHtml(s.route || s.k) + '">' + escapeHtml(s.route || s.k) + '</div>' +
-      '<div class="tracking-kpi-val" style="font-size:19px;">' + (s.latest == null ? '—' : Number(s.latest).toLocaleString('en-US', { maximumFractionDigits: 2 })) + '</div>' +
+      '<div class="tracking-kpi-val" style="font-size:19px;">' + fearnFmtTile(s.latest, fearnDisplayUnit(s)) + '</div>' +
       '<div class="tracking-kpi-sub" style="' + chgStyle + '">' + chgTxt + '</div>' +
       '<div style="height:3px;background:rgba(28,35,51,0.8);border-radius:2px;margin:6px 0 4px;"><div style="height:3px;width:' + Math.max(2, Math.min(100, pr)).toFixed(0) + '%;background:' + prCol + ';opacity:0.75;border-radius:2px;"></div></div>' +
       '<div style="font-size:var(--fs-micro);color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;">P' + pr.toFixed(0) + ' · ' + s.n + 'm ' + s.first + '→' + s.last + '</div>' +
       '<div style="margin-top:4px;"><svg width="100%" height="40" viewBox="0 0 100 40" preserveAspectRatio="none"><polyline points="' + pts + '" fill="none" stroke="' + col + '" stroke-width="1.5" vector-effect="non-scaling-stroke"/></svg></div>' +
-      '<div style="font-size:var(--fs-micro);color:var(--text-muted);margin-top:2px;font-family:\'IBM Plex Mono\',monospace;white-space:normal;line-height:1.25;">' + escapeHtml(s.route || s.k) + '</div>' +
       '</div>';
-  }).join('');
+  };
+  // Group headers: the four groups were already ordered but ran together as
+  // one undifferentiated wall of ~40 tiles.
+  var GRP_UNIT = { 0: '$/day', 1: '$M', 2: '$M', 3: 'units as published per tile' };
+  var htmlTiles = '', lastGrp = null;
+  picks.forEach(function (s) {
+    var g = s._grp >= 98 ? 1 : s._grp;
+    if (g !== lastGrp) {
+      lastGrp = g;
+      var nInGrp = picks.filter(function (x) { return (x._grp >= 98 ? 1 : x._grp) === g; }).length;
+      htmlTiles += '<div class="fearn-ov-group" style="grid-column:1/-1;display:flex;align-items:baseline;gap:8px;margin:' + (htmlTiles ? '10px' : '0') + ' 0 2px;padding-bottom:4px;border-bottom:1px solid var(--border);">' +
+        '<span style="font-size:12px;font-weight:700;color:var(--text-bright);">' + escapeHtml(GRP_LABEL[g] || '') + '</span>' +
+        '<span style="font-size:var(--fs-micro);color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;">' + nInGrp + ' series \u00b7 ' + escapeHtml(GRP_UNIT[g] || '') + '</span></div>';
+    }
+    htmlTiles += tileHtml(s);
+  });
+  if (grid) grid.innerHTML = banner + htmlTiles;
   var note = document.getElementById('fearnOverviewNote');
   if (note) {
     var tankWs = keys.filter(function (k) { return labels[k].type === 'TANK' && labels[k].unit === 'ws' && labels[k].n >= 3; }).length;
     var arch = keys.filter(function (k) { return fearnStatusOf(labels[k]) === 'ARCHIVED'; }).length;
     note.innerHTML = '<span style="color:var(--text-muted);">' +
-      (tankWs ? tankWs + ' Worldscale spot routes below · ' : '') +
+      (tankWs ? tankWs + ' Worldscale spot routes are in Tanker Routes · ' : '') +
       arch + ' archived labels live in the Series Museum only.' +
       '</span>';
   }
@@ -55593,6 +55628,53 @@ function fearnFmtVal(v) {
   var n = Number(v);
   return (n % 1 === 0 ? n.toLocaleString('en-US') : n.toLocaleString('en-US', { minimumFractionDigits: 1, maximumFractionDigits: 2 }));
 }
+// The Fearnleys archive tags every series 'usd', whether it is a $/day
+// time-charter, a $M asset value or a $/month LPG hire. Infer the unit a
+// reader needs from the series' desk and subtype. LPG TC/spot are monthly:
+// VLGC 1Y TC printed 1,150,000 in 2019-07, i.e. ~$38k/day, not $1.15M/day.
+function fearnDisplayUnit(s) {
+  if (!s) return '';
+  var t = s.type, sub = String(s.subtype || ''), u = String(s.unit || ''), r = String(s.route || '');
+  if (u === 'ws') return 'WS';
+  if (u === 'tce') return '$/day';
+  if (t === 'BULK' && sub === 'TC') return '$/day';
+  if (t === 'TANK' && /T\/C/.test(sub)) return '$/day';
+  if (t === 'NEWBUILDING' || t === 'S&P') return '$M';
+  if (t === 'LPG') {
+    if (sub === 'TC') return '$/month';   // SPOT is ambiguous (monthly hire vs voyage lump sum): left as published
+    if (/FOB/.test(sub)) return '$/t';
+  }
+  if (t === 'LNG') {
+    if (/\bTC\b|Spot|TCE|Rate/i.test(r)) return '$/day';
+    if (/Built|Newbuilding|Value|NB (Price|Cost)/i.test(r)) return '$M';
+  }
+  return u === 'usd' ? 'USD' : u;
+}
+window.fearnDisplayUnit = fearnDisplayUnit;
+// Compact value for tiles: no '.67' tails on six-figure numbers.
+function fearnFmtTile(v, dispUnit) {
+  if (v == null || v !== v) return '\u2014';
+  var n = Number(v), a = Math.abs(n);
+  if (dispUnit === '$/month' && a >= 1e6) return '$' + (n / 1e6).toFixed(2) + 'M';
+  if (dispUnit === '$/month' && a >= 1e4) return '$' + Math.round(n / 1e3).toLocaleString('en-US') + 'k';
+  var pre = dispUnit && dispUnit.charAt(0) === '$' ? '$' : '';
+  if (a >= 1000) return pre + Math.round(n).toLocaleString('en-US');
+  return pre + n.toLocaleString('en-US', { maximumFractionDigits: a >= 100 ? 1 : 2 });
+}
+window.fearnFmtTile = fearnFmtTile;
+// Index where a trailing run of placeholder prints begins (>= 12 identical
+// values at or below 1,000), or m.length when there is none. Fearnleys keeps
+// publishing 0 / 1,000 for 1st-gen steam LNG carriers that no longer trade;
+// plotted, they read as a real flat rate.
+function fearnPlaceholderStart(m) {
+  if (!m || m.length < 12) return m ? m.length : 0;
+  var last = m[m.length - 1][1];
+  if (last == null || Math.abs(last) > 1000) return m.length;
+  var i = m.length - 1;
+  while (i > 0 && m[i - 1][1] === last) i--;
+  return (m.length - i >= 12) ? i : m.length;
+}
+window.fearnPlaceholderStart = fearnPlaceholderStart;
 function fearnUnitName(u) {
   return u === 'ws' ? 'Worldscale points' : (u === 'tce' ? 'USD/day TCE' : (u === 'usd/day' ? 'USD/day' : (u === 'usd/tonne' ? 'USD/tonne' : (u === 'count' ? 'fixtures (count)' : (u === 'usd' ? 'USD' : String(u))))));
 }
@@ -55891,7 +55973,7 @@ function renderFearnTank() {
             subHtml = '<div class="tracking-kpi-sub" style="' + dStyle + 'font-family:\'IBM Plex Mono\',monospace;">' + dTxt + '</div>';
           }
           return '<div class="tracking-kpi-card" style="cursor:pointer;" role="button" data-tt-type="fearn-tank-tile" data-tt-code="' + escapeHtml(s.code) + '" onclick="openFearnTankChart(\'' + escapeHtml(s.code).replace(/'/g, '&#039;') + '\')" title="' + escapeHtml(s.label) + '">' +
-            '<div class="tracking-kpi-label" style="display:flex;justify-content:space-between;gap:6px;"><span style="color:' + col + ';font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">' + escapeHtml(s.label) + '</span>' + fearnStatusBadgeLive(s) + '</div>' +
+            '<div class="tracking-kpi-label" style="display:flex;justify-content:space-between;align-items:flex-start;gap:6px;"><span style="color:' + col + ';font-weight:700;white-space:normal;line-height:1.25;" title="' + escapeHtml(s.label) + '">' + escapeHtml(s.label) + '</span>' + fearnStatusBadgeLive(s) + '</div>' +
             '<div class="tracking-kpi-val" style="font-size:19px;">' + valHtml + '</div>' +
             subHtml +
             '<div style="font-size:var(--fs-micro);color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;margin-top:2px;">' + escapeHtml(String(s.first || '')) + ' \u2192 ' + escapeHtml(String(s.last || '')) + ' \u00b7 ' + (s.n != null ? Number(s.n).toLocaleString('en-US') : '\u2014') + ' pts \u00b7 ' + escapeHtml(s.unit || '') + '</div>' +
@@ -56044,7 +56126,7 @@ function renderFearnDryGrid() {
           subHtml = '<div class="tracking-kpi-sub" style="' + dStyle + 'font-family:\'IBM Plex Mono\',monospace;">' + dTxt + '</div>';
         }
         return '<div class="tracking-kpi-card" style="cursor:pointer;' + (isAvg ? 'border-color:rgba(163,113,247,0.45);' : '') + '" role="button" data-tt-type="fearn-dry-tile" data-tt-code="' + escapeHtml(s.code) + '" onclick="openFearnDryChart(\'' + escapeHtml(s.code).replace(/'/g, '&#039;') + '\')" title="' + escapeHtml(s.label) + '">' +
-          '<div class="tracking-kpi-label" style="display:flex;justify-content:space-between;gap:6px;"><span style="color:' + col + ';font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">' + escapeHtml(s.label) + '</span>' + fearnStatusBadgeLive(s) + '</div>' +
+          '<div class="tracking-kpi-label" style="display:flex;justify-content:space-between;align-items:flex-start;gap:6px;"><span style="color:' + col + ';font-weight:700;white-space:normal;line-height:1.25;" title="' + escapeHtml(s.label) + '">' + escapeHtml(s.label) + '</span>' + fearnStatusBadgeLive(s) + '</div>' +
           '<div class="tracking-kpi-val" style="font-size:19px;">' + valHtml + '</div>' +
           subHtml +
           '<div style="font-size:var(--fs-micro);color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;margin-top:2px;">since ' + escapeHtml(String(s.first || '')) + ' \u00b7 ' + (s.n != null ? Number(s.n).toLocaleString('en-US') : '\u2014') + ' pts \u00b7 ' + escapeHtml(String(s.unit || '')) + '</div>' +
@@ -56451,8 +56533,15 @@ function renderFearnGas(kind) {
   var sel = document.getElementById(selId);
   if (!keys.length) return;
   if (!FDESK[stateKey] || keys.indexOf(FDESK[stateKey]) < 0) {
+    // Open on the market's headline freight benchmark. The old rule took the
+    // alphabetically first series, which opened LNG on a flat $1,000/day
+    // 1st-generation steam TC and LPG on a North Sea butane FOB price.
+    var HEADLINE = kind === 'LNG'
+      ? ['LNG_BROKER_SPOT_EAST_174K_2_STROKE', 'LNG_BROKER_1_YR_TC_155_165K_TFDE']
+      : ['LPG_TC_VLGC_84_000_CBM', 'LPG_SPOT_VLGC_84_000_CBM'];
+    var hk = HEADLINE.filter(function (k) { return keys.indexOf(k) >= 0; })[0];
     var pref = keys.filter(function (k) { return labels[k].subtype === 'BROKER'; });
-    FDESK[stateKey] = (pref.length ? pref : keys)[0];
+    FDESK[stateKey] = hk || (pref.length ? pref : keys)[0];
   }
   if (sel && !sel.options.length) {
     var bySub = {};
@@ -56498,7 +56587,8 @@ function renderFearnGas(kind) {
       var ok = Object.keys(gx.lng_charter).filter(function (c) { return /tc$/.test(c); });
       overlay = { title: 'LNGC TC overlay (right axis, $/day)', colors: ['#f778ba', '#d2a8ff'], cols: ok, data: gx.lng_charter };
     } else if (kind === 'LPG' && gx.lpg_tc) {
-      overlay = { title: 'LPG TC overlay (right axis, $/day)', colors: ['#f778ba', '#d2a8ff', '#ffa198'], cols: Object.keys(gx.lpg_tc), data: gx.lpg_tc };
+      // Same Fearnleys LPG TC prints as the TC Tenor Family below: monthly hire.
+      overlay = { title: 'LPG TC overlay (right axis, $/month)', unit: '$/month', colors: ['#f778ba', '#d2a8ff', '#ffa198'], cols: Object.keys(gx.lpg_tc), data: gx.lpg_tc };
     }
   }
   var allMs = s.m;
@@ -56533,7 +56623,7 @@ function renderFearnGas(kind) {
           if (p[0] >= s0 && p[0] <= s1 && ymIx[p[0]] != null) gvals[ymIx[p[0]]] = p[1];
         });
         datasets.push({
-          label: prettyGasLabel(c, null), data: gvals,
+          label: overlay.unit ? prettyGasLabel(c, null).replace(/\s*\([^)]*\)\s*$/, '') + ' (' + overlay.unit + ')' : prettyGasLabel(c, null), data: gvals,
           borderColor: overlay.colors[i % overlay.colors.length], backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [5, 4], pointRadius: 0, tension: 0.2, spanGaps: false, yAxisID: 'y2'
         });
       });
@@ -56601,6 +56691,9 @@ function prettyGasLabel(k, s) {
   }
   var sub = s ? s.subtype : (/(_tc)$/i.test(k) ? 'TC' : (/FOB/i.test(k) ? 'FOB' : (/SPOT/i.test(k) ? 'SPOT' : '')));
   var unit = s && s.unit ? s.unit : 'usd';
+  // LPG hire is quoted per month (VLGC 1Y TC 1,150,000 in 2019 = ~$38k/day);
+  // labelling it '/day' overstated it thirty-fold.
+  if (s && s.type === 'LPG' && sub === 'TC') return body + ' ($/month)';
   if (sub === 'BROKER' || sub === 'CALCULATED' || sub === 'TC' || sub === 'BLPG-TCE') return body + ' (' + unit + '/day)';
   return body + ' (' + unit + ')';
 }
@@ -56642,9 +56735,10 @@ function renderFearnGasFamily(kind) {
     var datasets = shown.map(function (k, i) {
       var s = labels[k];
       var vals = new Array(dates.length).fill(null);
-      s.m.forEach(function (p) { vals[dIx[p[0]]] = p[1]; });
+      var cut = fearnPlaceholderStart(s.m);
+      s.m.forEach(function (p, j) { if (j < cut) vals[dIx[p[0]]] = p[1]; });
       return {
-        label: prettyGasLabel(k, s), data: vals,
+        label: prettyGasLabel(k, s) + (cut < s.m.length ? ' \u00b7 no live print since ' + s.m[cut][0] : ''), data: vals,
         borderColor: FEARnGAS_PALETTE[i % FEARnGAS_PALETTE.length], backgroundColor: 'transparent',
         borderWidth: 1.5, pointRadius: 0, pointHoverRadius: 4, tension: 0.15, spanGaps: true
       };
@@ -56829,14 +56923,33 @@ function renderFearnFxTable() {
       '<td style="white-space:nowrap;">' + escapeHtml(r.sg || '—') + '</td>' +
       '<td>' + vHtml + '</td>' +
       '<td>' + escapeHtml(r.c || '—') + '</td>' +
-      '<td>' + routeHtml + '</td>' +
+      '<td data-fxcol="route">' + routeHtml + '</td>' +
       '<td>' + escapeHtml(r.cm || '—') + '</td>' +
-      '<td class="mono" style="white-space:nowrap;">' + escapeHtml(r.p || '—') + '</td>' +
-      '<td class="mono" style="white-space:nowrap;">' + escapeHtml(r.lc || '—') + '</td>' +
-      '<td class="mono" style="text-align:right;color:var(--accent);">' + rate + '</td>' +
+      '<td data-fxcol="period" class="mono" style="white-space:nowrap;">' + escapeHtml(r.p || '—') + '</td>' +
+      '<td data-fxcol="laycan" class="mono" style="white-space:nowrap;">' + escapeHtml(r.lc || '—') + '</td>' +
+      '<td data-fxcol="rate" class="mono" style="text-align:right;color:var(--accent);">' + rate + '</td>' +
       '<td style="' + commentStyle + '" title="' + escapeHtml(commentText) + '">' + escapeHtml(commentText) + '</td>' +
       '</tr>';
   }).join('') || '<tr><td colspan="11" style="text-align:center;color:var(--text-muted);padding:14px;">No fixtures match.</td></tr>';
+
+  // Route, period, laycan and numeric rate are filled on 0-1.3% of tape rows
+  // (the detail lives in the comment), so on most pages those four columns
+  // were solid em-dashes pushing the comment off screen. Show each one only
+  // when the page on screen actually has values for it.
+  var fxTable = body.closest('table');
+  if (fxTable) {
+    var cnt = { route: 0, period: 0, laycan: 0, rate: 0 };
+    slice.forEach(function (r) {
+      if (r.rt || r.lp || r.dst) cnt.route++;
+      if (r.p) cnt.period++;
+      if (r.lc) cnt.laycan++;
+      if (r.r != null && r.r !== '' && isFinite(Number(r.r))) cnt.rate++;
+    });
+    // A column earns its width when at least 1 row in 10 on the page uses it;
+    // the inspector (row click) still shows every field for every row.
+    var need = Math.max(1, Math.ceil(slice.length * 0.1));
+    Object.keys(cnt).forEach(function (k) { fxTable.classList.toggle('fx-hide-' + k, cnt[k] < need); });
+  }
 
   var count = document.getElementById('fearnFxCount');
   if (count) count.textContent = rows.length.toLocaleString('en-US') + ' of ' + (FDESK.tape ? FDESK.tape.rows.length.toLocaleString('en-US') : 0) + ' tape rows';
@@ -57589,12 +57702,12 @@ function renderFearnStats(cache) {
   var chg = s.chg_pct, chgStyle = chg == null ? '' : (chg >= 0 ? 'color:var(--green);' : 'color:var(--red);');
   var chgTxt = chg == null ? '—' : ((chg >= 0 ? '+' : '') + chg.toFixed(2) + '% MoM');
   var cards = [
-    { l: 'Latest (' + s.last + ')', v: Number(s.latest).toLocaleString('en-US', { maximumFractionDigits: 2 }) + ' ' + s.unit, sub: s.route || '' },
+    { l: 'Latest (' + s.last + ')', v: fearnFmtTile(s.latest, fearnDisplayUnit(s)) + (fearnDisplayUnit(s).charAt(0) === '$' ? fearnDisplayUnit(s).slice(1) : ' ' + fearnDisplayUnit(s)), sub: s.route || '' },
     { l: 'MoM Change', v: chgTxt, sub: 'vs ' + (s.m.length > 1 ? s.m[s.m.length - 2][0] : '—'), style: chgStyle },
-    { l: 'All-Time High', v: Number(s.ath).toLocaleString('en-US', { maximumFractionDigits: 2 }), sub: s.ath_date, id: '' },
-    { l: 'All-Time Low', v: Number(s.atl).toLocaleString('en-US', { maximumFractionDigits: 2 }), sub: s.first + ' → ' + s.last, id: '' },
-    { l: 'History Percentile', v: s.pct_rank.toFixed(1) + 'th', sub: 'latest vs ' + s.n + ' months', id: '' },
-    { l: 'Unit / Subtype', v: s.unit, sub: s.subtype, id: '' }
+    { l: 'All-Time High', v: fearnFmtTile(s.ath, fearnDisplayUnit(s)), sub: s.ath_date, id: '' },
+    { l: 'All-Time Low', v: fearnFmtTile(s.atl, fearnDisplayUnit(s)), sub: s.first + ' → ' + s.last, id: '' },
+    { l: 'History Percentile', v: s.pct_rank != null ? s.pct_rank.toFixed(1) + 'th' : '—', sub: 'latest vs ' + s.n + ' months', id: '' },
+    { l: 'Unit / Subtype', v: fearnDisplayUnit(s), sub: s.subtype + (s.unit && fearnDisplayUnit(s) !== s.unit ? ' · source tag \'' + s.unit + '\'' : ''), id: '' }
   ];
   el.innerHTML = cards.map(function (c) {
     return '<div class="tracking-kpi-card"><div class="tracking-kpi-label">' + c.l + '</div>' +
