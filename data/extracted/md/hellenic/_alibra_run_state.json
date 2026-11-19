@@ -1,7 +1,7 @@
 {
-  "dry_reports": 272,
-  "dry_observations": 0,
-  "wet_reports": 271,
-  "wet_observations": 0,
-  "elapsed_seconds": 0.2
+  "dry_reports": 273,
+  "dry_observations": 24,
+  "wet_reports": 272,
+  "wet_observations": 28,
+  "elapsed_seconds": 12.5
 }

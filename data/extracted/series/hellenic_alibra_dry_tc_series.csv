@@ -6658,3 +6658,27 @@ issue_date,vessel_class,tenor,basin,rate_usd_pdpr,trend,source_file
 2026-11-11,SMAX/ULTRA,2 YR,PAC,19150,up,2026-11-11_weekly-dry-time-charter-estimates-november-11-2026.html
 2026-11-11,SMAX/ULTRA,4/6 MOS,ATL,24000,down,2026-11-11_weekly-dry-time-charter-estimates-november-11-2026.html
 2026-11-11,SMAX/ULTRA,4/6 MOS,PAC,23750,flat,2026-11-11_weekly-dry-time-charter-estimates-november-11-2026.html
+2026-11-18,CAPESIZE,1 YR,ATL,38500,flat,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
+2026-11-18,CAPESIZE,1 YR,PAC,32500,flat,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
+2026-11-18,CAPESIZE,2 YR,ATL,35000,flat,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
+2026-11-18,CAPESIZE,2 YR,PAC,30000,flat,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
+2026-11-18,CAPESIZE,4/6 MOS,ATL,49000,flat,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
+2026-11-18,CAPESIZE,4/6 MOS,PAC,33000,flat,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
+2026-11-18,HANDY (38k dwt),1 YR,ATL,23000,up,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
+2026-11-18,HANDY (38k dwt),1 YR,PAC,17000,flat,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
+2026-11-18,HANDY (38k dwt),2 YR,ATL,21000,flat,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
+2026-11-18,HANDY (38k dwt),2 YR,PAC,16000,flat,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
+2026-11-18,HANDY (38k dwt),4/6 MOS,ATL,25000,up,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
+2026-11-18,HANDY (38k dwt),4/6 MOS,PAC,18000,flat,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
+2026-11-18,PANA/KMAX,1 YR,ATL,21500,flat,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
+2026-11-18,PANA/KMAX,1 YR,PAC,19500,up,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
+2026-11-18,PANA/KMAX,2 YR,ATL,18000,flat,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
+2026-11-18,PANA/KMAX,2 YR,PAC,18000,up,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
+2026-11-18,PANA/KMAX,4/6 MOS,ATL,24000,flat,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
+2026-11-18,PANA/KMAX,4/6 MOS,PAC,18500,down,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
+2026-11-18,SMAX/ULTRA,1 YR,ATL,19500,down,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
+2026-11-18,SMAX/ULTRA,1 YR,PAC,20750,down,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
+2026-11-18,SMAX/ULTRA,2 YR,ATL,19000,flat,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
+2026-11-18,SMAX/ULTRA,2 YR,PAC,19150,flat,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
+2026-11-18,SMAX/ULTRA,4/6 MOS,ATL,22000,down,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
+2026-11-18,SMAX/ULTRA,4/6 MOS,PAC,23750,flat,2026-11-18_weekly-dry-time-charter-estimates-november-18-2026.html
