@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated_at_utc": "2026-11-18T21:47:26.884195+00:00",
+  "updated_at_utc": "2026-11-19T02:48:36.114521+00:00",
   "quotes": {
     "BDRY": {
       "symbol": "BDRY",
@@ -15,8 +15,8 @@
       "currency": "USD",
       "exchange": "PCX",
       "source": "yahoo_finance",
-      "navPrice": 12.8199,
-      "netAssets": 27883773.73,
+      "navPrice": 13.0524,
+      "netAssets": 28389410.14,
       "sharesOutstanding": 2175040
     },
     "BWET": {
@@ -27,14 +27,14 @@
       "change_percent": 11.3203,
       "regular_market_day_high": 733.39,
       "regular_market_day_low": 665.0,
-      "regular_market_volume": 70327,
+      "regular_market_volume": 70446,
       "market_time_utc": "2026-11-18T20:59:59+00:00",
       "currency": "USD",
       "exchange": "PCX",
       "source": "yahoo_finance",
-      "navPrice": 636.1604,
-      "netAssets": 70041257.81,
-      "sharesOutstanding": 110100
+      "navPrice": 645.4907,
+      "netAssets": 83978341.03,
+      "sharesOutstanding": 130100
     }
   }
 }
