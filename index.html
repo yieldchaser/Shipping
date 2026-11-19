@@ -1438,6 +1438,10 @@
        ~900px of static links between the holdings and the analytics. */
     .fx-hide-route [data-fxcol="route"], .fx-hide-period [data-fxcol="period"],
     .fx-hide-laycan [data-fxcol="laycan"], .fx-hide-rate [data-fxcol="rate"] { display: none; }
+    /* Four segments: 4 across, else 2x2, else 1 - never a lone 3+1 row. */
+    .ffa-strip-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; }
+    @media (max-width: 1150px) { .ffa-strip-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+    @media (max-width: 560px) { .ffa-strip-grid { grid-template-columns: minmax(0, 1fr); } }
     .fearn-catalogue-details { margin-bottom: 20px; border: 1px solid var(--border); border-radius: 8px; background: var(--card); }
     .fearn-catalogue-details > summary { cursor: pointer; padding: 12px 16px; font-size: 13px; font-weight: 700; color: var(--text); list-style: none; }
     .fearn-catalogue-details > summary::-webkit-details-marker { display: none; }
@@ -14090,7 +14094,7 @@ html.auth-locked body > *:not(#authGateModal) {
             </div>
             <div style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;" data-tooltip="Dry-bulk FFAs trade between brokers during the London day; SGX clears them and publishes one settlement price per contract each evening (UTC). This strip shows the live traded price, read every 2 minutes on weekdays 02:30-18:30 UTC (Singapore late morning to London close), against the last SGX settlement, so a move shows up hours before the next settlement. Quarter and calendar settlements are the average of their monthly contracts. Click a price to chart today.">Live market snapshot · change vs previous SGX settlement · Cape / Panamax / Supramax / Handysize</div>
           </div>
-          <div id="ffaStripGrid" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(240px, 1fr));gap:10px;"></div>
+          <div id="ffaStripGrid" class="ffa-strip-grid"></div>
           <div id="ffaLiveAlerts" style="margin-top:10px;font-size:12px;"></div>
           <div id="ffaLiveDetail" style="margin-top:10px;background:var(--card-subtle);border:1px solid var(--border);border-radius:6px;padding:10px 12px;">
             <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:6px;flex-wrap:wrap;">
