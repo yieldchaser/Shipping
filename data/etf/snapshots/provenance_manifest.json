@@ -1,6 +1,6 @@
 {
   "manifest_version": "1.0.0",
-  "last_updated_utc": "2026-11-19T14:13:12.415952+00:00",
+  "last_updated_utc": "2026-11-19T22:08:09.501307+00:00",
   "records": {
     "BDRY": {
       "2026-08-13": {
@@ -2697,6 +2697,33 @@
           }
         },
         "active_archive_sha256": "cf7baaae27aa559b09a15ee76328b159bcb3284d016a4069614e8db4db0243b5"
+      },
+      "2026-11-19": {
+        "versions": {
+          "6befeff545ef99704f58338b228b36ed374d824269e26759d5686ccd60a0f7c2": {
+            "retrieval_id": "ret:BDRY:2026-11-19:6befeff545ef99704f58338b228b36ed374d824269e26759d5686ccd60a0f7c2",
+            "fund": "BDRY",
+            "holdings_as_of_date": "2026-11-19",
+            "is_official_as_of_date": true,
+            "date_sourcing": "OFFICIAL_SOURCE_DISCLOSED",
+            "retrieval_timestamp_utc": "2026-11-19T22:08:08.606958+00:00",
+            "official_source_url": "https://amplifyetfs.com/bdry-holdings/",
+            "raw_source_path": "data/etf/raw_sources/amplify_master_2026-11-19.csv",
+            "raw_source_sha256": "6d10334a3612bf32fd901e603a3c00429feb32eda1196d09abcd3c949b9a9d86",
+            "immutable_archive_path": "data/etf/raw_holdings/BDRY/2026-11-19.csv",
+            "archive_sha256": "6befeff545ef99704f58338b228b36ed374d824269e26759d5686ccd60a0f7c2",
+            "parser_version": "2026.08.14-V2",
+            "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE",
+            "status": "VERIFIED_OFFICIAL_ARCHIVE",
+            "record_id": "pub:BDRY:2026-11-19:6befeff545ef99704f58338b228b36ed374d824269e26759d5686ccd60a0f7c2",
+            "snapshot_content_sha256": "6e78215ebcd9c3faee7cb16ca06b8916d900e3094aa28f3a759663cc0d8a99cb",
+            "snapshot_sha256": "6e78215ebcd9c3faee7cb16ca06b8916d900e3094aa28f3a759663cc0d8a99cb",
+            "manifest_snapshot_sha256": "6e78215ebcd9c3faee7cb16ca06b8916d900e3094aa28f3a759663cc0d8a99cb",
+            "expected_sha256": "6befeff545ef99704f58338b228b36ed374d824269e26759d5686ccd60a0f7c2",
+            "local_archive_path": "data/etf/raw_holdings/BDRY/2026-11-19.csv"
+          }
+        },
+        "active_archive_sha256": "6befeff545ef99704f58338b228b36ed374d824269e26759d5686ccd60a0f7c2"
       }
     },
     "BWET": {
@@ -5414,6 +5441,33 @@
           }
         },
         "active_archive_sha256": "5b3c5e72539effc21f05548d4378c26e204a13a965dcb02a2142defdb54d42c3"
+      },
+      "2026-11-19": {
+        "versions": {
+          "90599c2cdb51eb85683185c0b6cbcc14e8363dd75dfbb32f50a8313ac61f85e9": {
+            "retrieval_id": "ret:BWET:2026-11-19:90599c2cdb51eb85683185c0b6cbcc14e8363dd75dfbb32f50a8313ac61f85e9",
+            "fund": "BWET",
+            "holdings_as_of_date": "2026-11-19",
+            "is_official_as_of_date": true,
+            "date_sourcing": "OFFICIAL_SOURCE_DISCLOSED",
+            "retrieval_timestamp_utc": "2026-11-19T22:08:08.640896+00:00",
+            "official_source_url": "https://amplifyetfs.com/bwet-holdings/",
+            "raw_source_path": "data/etf/raw_sources/amplify_master_2026-11-19.csv",
+            "raw_source_sha256": "6d10334a3612bf32fd901e603a3c00429feb32eda1196d09abcd3c949b9a9d86",
+            "immutable_archive_path": "data/etf/raw_holdings/BWET/2026-11-19.csv",
+            "archive_sha256": "90599c2cdb51eb85683185c0b6cbcc14e8363dd75dfbb32f50a8313ac61f85e9",
+            "parser_version": "2026.08.14-V2",
+            "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE",
+            "status": "VERIFIED_OFFICIAL_ARCHIVE",
+            "record_id": "pub:BWET:2026-11-19:90599c2cdb51eb85683185c0b6cbcc14e8363dd75dfbb32f50a8313ac61f85e9",
+            "snapshot_content_sha256": "56bb36fa6d0c742bdf793b4092ba15e605d0a54b47705d043188a3126763bec2",
+            "snapshot_sha256": "56bb36fa6d0c742bdf793b4092ba15e605d0a54b47705d043188a3126763bec2",
+            "manifest_snapshot_sha256": "56bb36fa6d0c742bdf793b4092ba15e605d0a54b47705d043188a3126763bec2",
+            "expected_sha256": "90599c2cdb51eb85683185c0b6cbcc14e8363dd75dfbb32f50a8313ac61f85e9",
+            "local_archive_path": "data/etf/raw_holdings/BWET/2026-11-19.csv"
+          }
+        },
+        "active_archive_sha256": "90599c2cdb51eb85683185c0b6cbcc14e8363dd75dfbb32f50a8313ac61f85e9"
       }
     }
   },
@@ -12584,11 +12638,29 @@
       "archive_sha256": "5b3c5e72539effc21f05548d4378c26e204a13a965dcb02a2142defdb54d42c3",
       "snapshot_content_sha256": "614694b67a494b97006a41b36cb71c949dbaba08a2641ab807c8400607c04fe2",
       "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE"
+    },
+    {
+      "record_id": "pub:BDRY:2026-11-19:6befeff545ef99704f58338b228b36ed374d824269e26759d5686ccd60a0f7c2",
+      "timestamp_utc": "2026-11-19T22:08:08.606958+00:00",
+      "fund": "BDRY",
+      "as_of_date": "2026-11-19",
+      "archive_sha256": "6befeff545ef99704f58338b228b36ed374d824269e26759d5686ccd60a0f7c2",
+      "snapshot_content_sha256": "6e78215ebcd9c3faee7cb16ca06b8916d900e3094aa28f3a759663cc0d8a99cb",
+      "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE"
+    },
+    {
+      "record_id": "pub:BWET:2026-11-19:90599c2cdb51eb85683185c0b6cbcc14e8363dd75dfbb32f50a8313ac61f85e9",
+      "timestamp_utc": "2026-11-19T22:08:08.640896+00:00",
+      "fund": "BWET",
+      "as_of_date": "2026-11-19",
+      "archive_sha256": "90599c2cdb51eb85683185c0b6cbcc14e8363dd75dfbb32f50a8313ac61f85e9",
+      "snapshot_content_sha256": "56bb36fa6d0c742bdf793b4092ba15e605d0a54b47705d043188a3126763bec2",
+      "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE"
     }
   ],
   "active_snapshot_record_ids": {
-    "BDRY": "pub:BDRY:2026-11-18:cf7baaae27aa559b09a15ee76328b159bcb3284d016a4069614e8db4db0243b5",
-    "BWET": "pub:BWET:2026-11-18:5b3c5e72539effc21f05548d4378c26e204a13a965dcb02a2142defdb54d42c3"
+    "BDRY": "pub:BDRY:2026-11-19:6befeff545ef99704f58338b228b36ed374d824269e26759d5686ccd60a0f7c2",
+    "BWET": "pub:BWET:2026-11-19:90599c2cdb51eb85683185c0b6cbcc14e8363dd75dfbb32f50a8313ac61f85e9"
   },
   "retrieval_records": {
     "BDRY": {
@@ -14191,6 +14263,22 @@
         "parser_version": "2026.08.14-V2",
         "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE",
         "status": "VERIFIED_OFFICIAL_ARCHIVE"
+      },
+      "ret:BDRY:2026-11-19:6befeff545ef99704f58338b228b36ed374d824269e26759d5686ccd60a0f7c2": {
+        "retrieval_id": "ret:BDRY:2026-11-19:6befeff545ef99704f58338b228b36ed374d824269e26759d5686ccd60a0f7c2",
+        "fund": "BDRY",
+        "holdings_as_of_date": "2026-11-19",
+        "is_official_as_of_date": true,
+        "date_sourcing": "OFFICIAL_SOURCE_DISCLOSED",
+        "retrieval_timestamp_utc": "2026-11-19T22:08:08.606958+00:00",
+        "official_source_url": "https://amplifyetfs.com/bdry-holdings/",
+        "raw_source_path": "data/etf/raw_sources/amplify_master_2026-11-19.csv",
+        "raw_source_sha256": "6d10334a3612bf32fd901e603a3c00429feb32eda1196d09abcd3c949b9a9d86",
+        "immutable_archive_path": "data/etf/raw_holdings/BDRY/2026-11-19.csv",
+        "archive_sha256": "6befeff545ef99704f58338b228b36ed374d824269e26759d5686ccd60a0f7c2",
+        "parser_version": "2026.08.14-V2",
+        "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE",
+        "status": "VERIFIED_OFFICIAL_ARCHIVE"
       }
     },
     "BWET": {
@@ -15790,6 +15878,22 @@
         "raw_source_sha256": "e377bc63cdd1764753a54bb5c609b8c5d27000421f6e5df649773a7ad155d23d",
         "immutable_archive_path": "data/etf/raw_holdings/BWET/2026-11-18.csv",
         "archive_sha256": "5b3c5e72539effc21f05548d4378c26e204a13a965dcb02a2142defdb54d42c3",
+        "parser_version": "2026.08.14-V2",
+        "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE",
+        "status": "VERIFIED_OFFICIAL_ARCHIVE"
+      },
+      "ret:BWET:2026-11-19:90599c2cdb51eb85683185c0b6cbcc14e8363dd75dfbb32f50a8313ac61f85e9": {
+        "retrieval_id": "ret:BWET:2026-11-19:90599c2cdb51eb85683185c0b6cbcc14e8363dd75dfbb32f50a8313ac61f85e9",
+        "fund": "BWET",
+        "holdings_as_of_date": "2026-11-19",
+        "is_official_as_of_date": true,
+        "date_sourcing": "OFFICIAL_SOURCE_DISCLOSED",
+        "retrieval_timestamp_utc": "2026-11-19T22:08:08.640896+00:00",
+        "official_source_url": "https://amplifyetfs.com/bwet-holdings/",
+        "raw_source_path": "data/etf/raw_sources/amplify_master_2026-11-19.csv",
+        "raw_source_sha256": "6d10334a3612bf32fd901e603a3c00429feb32eda1196d09abcd3c949b9a9d86",
+        "immutable_archive_path": "data/etf/raw_holdings/BWET/2026-11-19.csv",
+        "archive_sha256": "90599c2cdb51eb85683185c0b6cbcc14e8363dd75dfbb32f50a8313ac61f85e9",
         "parser_version": "2026.08.14-V2",
         "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE",
         "status": "VERIFIED_OFFICIAL_ARCHIVE"
