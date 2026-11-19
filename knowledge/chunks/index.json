@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T18:09:28Z",
+ "generated_at": "2026-11-19T18:17:43Z",
  "compiler_version": 2,
  "count": 106,
  "files": [
@@ -134,7 +134,7 @@
    "path": "knowledge/chunks/breakwave_insights_insights_2026.jsonl",
    "stem": "breakwave_insights_insights_2026",
    "year": 2026,
-   "bytes": 5452565
+   "bytes": 5483986
   },
   {
    "file": "breakwave_tankers.jsonl",
@@ -323,7 +323,7 @@
    "path": "knowledge/chunks/hellenic_dry_charter_2026.jsonl",
    "stem": "hellenic_dry_charter_2026",
    "year": 2026,
-   "bytes": 168770
+   "bytes": 174964
   },
   {
    "file": "hellenic_iron_ore.jsonl",
@@ -386,7 +386,7 @@
    "path": "knowledge/chunks/hellenic_iron_ore_2026.jsonl",
    "stem": "hellenic_iron_ore_2026",
    "year": 2026,
-   "bytes": 16652206
+   "bytes": 16692534
   },
   {
    "file": "hellenic_shipbuilding.jsonl",
@@ -498,7 +498,7 @@
    "path": "knowledge/chunks/hellenic_tanker_charter_2026.jsonl",
    "stem": "hellenic_tanker_charter_2026",
    "year": 2026,
-   "bytes": 188493
+   "bytes": 194907
   },
   {
    "file": "hellenic_vessel_valuations.jsonl",
