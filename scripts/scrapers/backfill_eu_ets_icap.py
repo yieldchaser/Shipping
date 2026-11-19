@@ -9,7 +9,7 @@ from pathlib import Path
 
 import pandas as pd
 
-ROOT = Path(r"C:\Users\Dell\Github\Shipping")
+ROOT = Path(__file__).resolve().parents[2]   # was a hard-coded Windows path; CI could never run it
 OUT = ROOT / "data" / "derived" / "eu_ets_carbon_daily.csv"
 
 ctx = ssl.create_default_context()

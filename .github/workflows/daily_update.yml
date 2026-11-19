@@ -95,6 +95,19 @@ jobs:
       continue-on-error: true
       run: python -m bunker_pipeline.run_pipeline --mode bix || true
 
+    - name: Run Bunker 12M forward curves collector
+      # bunker_pipeline has had --mode forward / --mode volumes since it was
+      # written, but no workflow ever ran them: the Bunkers tab's forward
+      # curves sat at 2026-09-21 and physical volumes at 2026-08. Both read
+      # bunkerindex.com (the same host the BIX step reaches daily) and only
+      # overwrite their files when the fetch returns rows.
+      continue-on-error: true
+      run: python -m bunker_pipeline.run_pipeline --mode forward || true
+
+    - name: Run Bunker physical sales volumes collector
+      continue-on-error: true
+      run: python -m bunker_pipeline.run_pipeline --mode volumes || true
+
     - name: Build BIX benchmark history
       continue-on-error: true
       run: python scripts/bunkers/build_bix_history.py || true

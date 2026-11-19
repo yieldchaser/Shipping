@@ -277,6 +277,7 @@ def build_bunker_summary():
         if obs_date > p['latest_date']:
             p['latest_date'] = obs_date
 
+        p.setdefault('_gdate', {})[grade] = obs_date
         if grade == 'VLSFO': p['vlsfo'] = price
         elif grade in ['MGO', 'LSMGO']: 
             if p['mgo'] is None or grade == 'MGO': p['mgo'] = price
@@ -308,9 +309,17 @@ def build_bunker_summary():
 
     # Ensure Hi-5 spread and spread vs Singapore are calculated
     singapore_vlsfo = ports_dict.get('Singapore', {}).get('vlsfo') or 848.0
+    def _same_week(p):
+        # Only difference two grades quoted within a week of each other: Augusta
+        # paired a 09-25 VLSFO with a 10-23 HSFO and showed a -$68 Hi-5.
+        gd = p.get('_gdate') or {}
+        dv, dh = gd.get('VLSFO'), gd.get('IFO380') or gd.get('HSFO')
+        if not dv or not dh:
+            return True   # dated by the daily feed instead; nothing to compare
+        return abs((pd.to_datetime(dv) - pd.to_datetime(dh)).days) <= 7
     for p in ports_dict.values():
         if p['vlsfo'] and p['ifo380'] and (p['hi5_spread'] is None or p['hi5_spread'] == 0):
-            p['hi5_spread'] = round(p['vlsfo'] - p['ifo380'], 2)
+            p['hi5_spread'] = round(p['vlsfo'] - p['ifo380'], 2) if _same_week(p) else None
         if p['vlsfo']:
             p['spread_vs_singapore'] = round(p['vlsfo'] - singapore_vlsfo, 2)
 
@@ -443,6 +452,18 @@ def build_bunker_summary():
     else:  # fallback: last verified MPA monthly (2026-07)
         latest_vol, yoy_pct, latest_vol_per = 4731910.0, -3.8, '2026-07'
 
+    _eua_px = _eua_date = _eua_pen = None
+    try:
+        _eua = pd.read_csv(os.path.join(ROOT, 'data', 'derived', 'eu_ets_carbon_daily.csv'))
+        _eua = _eua.dropna(subset=['eua_carbon_price_eur_tco2']).sort_values('date')
+        if len(_eua):
+            _eua_px = sanitize_float(_eua['eua_carbon_price_eur_tco2'].iloc[-1])
+            _eua_date = str(_eua['date'].iloc[-1])[:10]
+            _pen = pd.to_numeric(_eua.get('capesize_eu_ets_surcharge_usd_day'), errors='coerce').dropna()
+            _eua_pen = sanitize_float(_pen.iloc[-1]) if len(_pen) else None
+    except Exception as e:
+        print(f"WARNING: EUA KPI unavailable ({e})")
+
     kpis = {
         'global_vlsfo': sanitize_float(vlsfo_val),
         'global_vlsfo_chg': vlsfo_chg,
@@ -458,8 +479,11 @@ def build_bunker_summary():
         'hi5_prev_obs': hi5_prev,
         'scrubber_payback_months': payback_months,
         'cape_scrubber_tce_bonus': cape_daily_benefit,
-        'eu_ets_carbon_eur': 72.50,
-        'eu_ets_daily_penalty_usd': 1850.0,
+        # Both used to be literals (72.50 / 1850.0) shown as live KPIs while the
+        # chart on the same tab plotted the real series.
+        'eu_ets_carbon_eur': _eua_px,
+        'eu_ets_obs': _eua_date,
+        'eu_ets_daily_penalty_usd': _eua_pen,
         'singapore_monthly_vol_mt': latest_vol,
         'singapore_vol_yoy_pct': yoy_pct,
         'singapore_vol_period': latest_vol_per
@@ -589,21 +613,31 @@ def build_bunker_summary():
         fwd_dict[port] = []
         p_fwd = df_fwd[df_fwd['port'] == port].sort_values('month_offset')
         
-        # M0 Spot anchor point
+        # M0 Spot anchor point: the port spot comes from a different feed, so
+        # only splice it in when it was observed near the curve's own date.
+        # A months-apart anchor produced a fake 'backwardation' kink at M0.
+        fwd_asof = str(p_fwd['as_of_date'].dropna().max()) if 'as_of_date' in p_fwd else ''
         spot_port = ports_dict.get(port)
+        if spot_port and fwd_asof:
+            try:
+                if abs((pd.to_datetime(spot_port.get('latest_date')) - pd.to_datetime(fwd_asof)).days) > 10:
+                    spot_port = None
+            except Exception:
+                spot_port = None
         spot_v = spot_port.get('vlsfo') if spot_port else None
         spot_h = spot_port.get('ifo380') if spot_port else None
         spot_m = spot_port.get('mgo') if spot_port else None
         spot_sp = round(spot_v - spot_h, 2) if (spot_v and spot_h) else None
         
-        fwd_dict[port].append({
-            'offset': 0,
-            'month': 'Spot',
-            'ifo380': spot_h,
-            'vlsfo': spot_v,
-            'mgo': spot_m,
-            'spread': spot_sp
-        })
+        if spot_v is not None:
+            fwd_dict[port].append({
+                'offset': 0,
+                'month': 'Spot',
+                'ifo380': spot_h,
+                'vlsfo': spot_v,
+                'mgo': spot_m,
+                'spread': spot_sp
+            })
         
         for _, r in p_fwd.iterrows():
             fwd_dict[port].append({
@@ -624,11 +658,13 @@ def build_bunker_summary():
             slope_pct = round(((m12_val - m1_val) / m1_val) * 100, 1)
             structure = 'Contango' if m12_val > m1_val else 'Backwardation'
             
-        bix_latest_date = str(df_bix['observation_date'].dropna().max()) if not df_bix.empty and 'observation_date' in df_bix else datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        # as_of is the forward file's own date (it used to borrow the BIX date,
+        # labelling a September curve with today's date).
         fwd_meta[port] = {
             'hub': port,
             'provenance': 'BunkerIndex modelled curve — one slope applied per hub',
-            'as_of': bix_latest_date,
+            'as_of': fwd_asof or None,
+            'spot_anchor': bool(spot_port),
             'is_modelled': True,
             'structure': structure,
             'slope_pct': slope_pct
@@ -730,9 +766,9 @@ def build_bunker_summary():
             'sources': ['Ship & Bunker RPC API', 'Bunker Index BIX Suites', 'MPA Singapore', 'Port of Rotterdam Authority', 'USDA AMS']
         },
         'kpis': kpis,
-        'ports': list(ports_dict.values()),
-        'composites': list(composites_dict.values()),
-        'macro_benchmarks': list(macro_dict.values()),
+        'ports': [{k: v for k, v in p.items() if k != '_gdate'} for p in ports_dict.values()],
+        'composites': [{k: v for k, v in p.items() if k != '_gdate'} for p in composites_dict.values()],
+        'macro_benchmarks': [{k: v for k, v in p.items() if k != '_gdate'} for p in macro_dict.values()],
         'scrubber_ranking': scrubber_ranking,
         'monthly_series': monthly_series,
         'daily_series': daily_series,

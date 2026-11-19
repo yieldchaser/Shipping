@@ -5603,8 +5603,30 @@
     .bunkers-tool-left, .bunkers-tool-right {
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 8px 18px;
       flex-wrap: wrap;
+    }
+    /* Each filter is a labelled group that wraps as a unit, and the search box
+       grows into whatever is left of the last row. Before, the search sat alone
+       on its own line under a half-empty row of pills. */
+    .bunkers-tool-left { flex: 1 1 auto; min-width: 0; }
+    .bunkers-tool-right { flex: 1 1 200px; justify-content: flex-end; }
+    .bunkers-tool-right .bunkers-input { width: 100%; max-width: 360px; }
+    .bunkers-filter-group { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+    .bunkers-filter-label {
+      font-size: 10px; font-weight: 700; letter-spacing: 0.06em;
+      color: var(--text-muted); margin-right: 2px;
+    }
+    .bix-mc-row { font-size: var(--fs-micro); color: var(--text-muted); white-space: nowrap; }
+    .bix-mc-row .bix-mc { display: inline; }
+    @media (max-width: 1100px) {
+      /* Stack the port workstation: side by side it squeezed the chart drawer
+         into a 200px column and pushed the page wider than the screen. */
+      #tab-bunkers .bunkers-workstation { grid-template-columns: minmax(0, 1fr); }
+      #tab-bunkers .bunkers-left-pane { height: auto; min-height: 0; max-height: 900px; }
+      #tab-bunkers .bunkers-right-pane { min-width: 0; }
+      .bunkers-tool-right { justify-content: flex-start; }
+      .bunkers-tool-right .bunkers-input { max-width: none; }
     }
     .bunkers-pill {
       background: var(--bg);
@@ -16842,22 +16864,28 @@ if (intelTabsContainer) {
       <div class="bunkers-toolbar">
         <div class="bunkers-tool-left">
           <span class="bnkr-tag">BNKR</span>
-          <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-right:4px;">REGION:</div>
+          <div class="bunkers-filter-group">
+          <div class="bunkers-filter-label">REGION</div>
           <button class="bunkers-pill active" data-region="all" onclick="setBunkerRegion('all')" data-tt-type="bunker-region-btn" data-tt-region="all">All Regions (213 Ports)</button>
           <button class="bunkers-pill" data-region="APAC" onclick="setBunkerRegion('APAC')" data-tt-type="bunker-region-btn" data-tt-region="APAC">Asia-Pacific (APAC)</button>
           <button class="bunkers-pill" data-region="EMEA" onclick="setBunkerRegion('EMEA')" data-tt-type="bunker-region-btn" data-tt-region="EMEA">Europe, MidEast, Africa</button>
           <button class="bunkers-pill" data-region="Americas" onclick="setBunkerRegion('Americas')" data-tt-type="bunker-region-btn" data-tt-region="Americas">Americas</button>
 
-          <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-left:12px; margin-right:4px;">GRADE:</div>
+          </div>
+          <div class="bunkers-filter-group">
+          <div class="bunkers-filter-label">GRADE</div>
           <button class="bunkers-pill active" data-grade="all" onclick="setBunkerGrade('all')" data-tt-type="bunker-grade-btn" data-tt-grade="all">All Grades</button>
           <button class="bunkers-pill" data-grade="VLSFO" onclick="setBunkerGrade('VLSFO')" data-tt-type="bunker-grade-btn" data-tt-grade="VLSFO">VLSFO</button>
           <button class="bunkers-pill" data-grade="MGO" onclick="setBunkerGrade('MGO')" data-tt-type="bunker-grade-btn" data-tt-grade="MGO">MGO</button>
           <button class="bunkers-pill" data-grade="IFO380" onclick="setBunkerGrade('IFO380')" data-tt-type="bunker-grade-btn" data-tt-grade="IFO380">HSFO</button>
           <button class="bunkers-pill" data-grade="BIO" onclick="setBunkerGrade('BIO')" data-tt-type="bunker-grade-btn" data-tt-grade="BIO">Biofuels</button>
 
-          <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-left:12px; margin-right:4px;">STATUS:</div>
+          </div>
+          <div class="bunkers-filter-group">
+          <div class="bunkers-filter-label">STATUS</div>
           <button class="bunkers-pill active" id="bunkerPillStatusAll" data-freshness="all" onclick="setBunkerFreshness('all')" data-tt-type="bunker-freshness-btn" data-tt-freshness="all">All Ports (213)</button>
           <button class="bunkers-pill" id="bunkerPillStatusActive" data-freshness="active" onclick="setBunkerFreshness('active')" data-tt-type="bunker-freshness-btn" data-tt-freshness="active" data-tooltip="Filter to active bunkering ports with verified quotes updated in September 2026 (161 ports).">Active / Sep 2026 (161)</button>
+          </div>
         </div>
         <div class="bunkers-tool-right">
           <input type="text" id="bunkersSearchInput" class="bunkers-input" placeholder="Search port, country, code..." oninput="onBunkersSearchInput()" data-tt-type="bunker-search">
@@ -16979,7 +17007,7 @@ if (intelTabsContainer) {
                   <option value="Rotterdam">Rotterdam (Port Authority Deliveries)</option>
                 </select>
               </div>
-              <span id="bunkerVolBadge" class="bunker-term-badge" data-tt-type="cargo-generic-card" data-tt-title="Bunker Sales Seasonal Envelope" data-tt-val="5-Year Historical Band (2021–2026)" data-tt-sub="Monthly Sales Volumes" data-tt-vessel="Merchant Fleet Refueling" data-tt-source="MPA Singapore &amp; Port of Rotterdam" data-tt-note="Compares current monthly bunker sales against historical 5-year monthly minimum and maximum volumes to detect macro shipping activity trends." style="background:rgba(0,229,255,0.12); color:#00e5ff; border:1px solid rgba(0,229,255,0.3); cursor:help;">5-YEAR SEASONAL ENVELOPE</span>
+              <span id="bunkerVolBadge" class="bunker-term-badge" data-tt-type="cargo-generic-card" data-tt-title="Bunker Sales Seasonal Envelope" data-tt-val="Year-on-year monthly sales" data-tt-sub="Monthly Sales Volumes" data-tt-vessel="Merchant Fleet Refueling" data-tt-source="MPA Singapore &amp; Port of Rotterdam" data-tt-note="Each calendar year of Singapore monthly bunker sales drawn as its own line, so the current year reads directly against the same months of prior years." style="background:rgba(0,229,255,0.12); color:#00e5ff; border:1px solid rgba(0,229,255,0.3); cursor:help;">YEAR-ON-YEAR</span>
             </div>
             <!-- Physical Volumes Chart -->
             <div style="height:230px; position:relative; padding:10px; background:#070b10; border-bottom:1px solid var(--border);">
@@ -17044,7 +17072,7 @@ if (intelTabsContainer) {
                     <th data-tooltip="Price premium of VLSFO over HSFO ($/MT).">Hi-5 Spread</th>
                     <th data-tooltip="Daily earnings premium for scrubber-fitted Capesize vessel (45 MT/d).">Cape TCE Bonus</th>
                     <th data-tooltip="Daily earnings premium for scrubber-fitted VLCC vessel (55 MT/d).">VLCC TCE Bonus</th>
-                    <th data-tooltip="Estimated EU ETS carbon compliance cost per MT of fuel burned.">EU ETS Cost</th>
+                    <th data-tooltip="Date of the port's latest quote; spreads from old quotes are less reliable.">Quoted</th>
                   </tr>
                 </thead>
                 <tbody id="bunkersScrubberTableBody">
@@ -31128,14 +31156,16 @@ function buildMaster() {
         const latestEua = latest.euaPriceEur != null ? latest.euaPriceEur : latest.euaCarbonPriceEur;
         const h5 = latest.singHi5 != null ? latest.singHi5 : latest.sgHi5Spread;
         badge.innerHTML = `EUA Carbon: <strong>€${(latestEua || 0).toFixed(1)}/t</strong>` +
-          (h5 != null ? ` | Hi-5 Spread: <strong>$${h5.toFixed(1)}/MT</strong>` : '');
+          (h5 != null ? ` | Hi-5 Spread: <strong>$${h5.toFixed(1)}/MT</strong>` : '') +
+          (latest.dateStr ? ` <span style="opacity:.7">· obs ${latest.dateStr}</span>` : '');
       }
 
       const datasets = [
-        { label: 'EU ETS Carbon Allowance (€/t CO2)', data: eua, borderColor: '#58a6ff', borderWidth: 2, tension: 0.1 },
+        // pointRadius 0: ~4,000 daily points drew as a smear of dots.
+        { label: 'EU ETS Carbon Allowance (€/t CO2)', data: eua, borderColor: '#58a6ff', borderWidth: 1.5, tension: 0.1, pointRadius: 0, pointHoverRadius: 3, spanGaps: true },
       ];
       if (hasHi5) {
-        datasets.push({ label: 'Singapore Hi-5 Fuel Spread ($/MT)', data: hi5, borderColor: '#3fb950', borderWidth: 2, tension: 0.1, yAxisID: 'y1' });
+        datasets.push({ label: 'Singapore Hi-5 Fuel Spread ($/MT)', data: hi5, borderColor: '#3fb950', borderWidth: 1.5, tension: 0.1, pointRadius: 0, pointHoverRadius: 3, spanGaps: true, yAxisID: 'y1' });
       }
 
       destroyChart('carbonEtsChart');
@@ -31154,7 +31184,7 @@ function buildMaster() {
             tooltip: { callbacks: { label: c => c.datasetIndex === 0 ? ` ${c.dataset.label}: €${c.parsed.y}/t` : ` ${c.dataset.label}: $${c.parsed.y}/MT` } }
           },
           scales: {
-            x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, maxTicksLimit: 12 } },
+            x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, maxTicksLimit: 9, maxRotation: 0, callback: function (v) { var l = this.getLabelForValue(v); return l ? String(l).slice(0, 7) : l; } } },
             y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, callback: v => '€' + v }, title: { display: true, text: 'EUA Carbon Price (€/t)', color: '#8b949e', font: { size: 11 } } },
             y1: { position: 'right', grid: { drawOnChartArea: false }, ticks: { color: '#3fb950', font: { size: 11 }, callback: v => '$' + v }, title: { display: true, text: 'Hi-5 Bunker Spread ($/MT)', color: '#3fb950', font: { size: 11 } } }
           }
@@ -51848,7 +51878,7 @@ function escapeHtml(str) {
             html += `<div class="rt-row"><span class="rt-label">Operating Areas</span><span class="rt-val">Baltic, North Sea, North American ECAs &amp; In-Port</span></div>`;
             html += `<div class="rt-note">Distillate fuel mandatory inside designated Emission Control Areas (0.10% sulfur) and during EU port stays.</div>`;
           } else if (grade === 'EUA') {
-            const val = k ? '€' + k.eu_ets_carbon_eur.toFixed(2) + '/t' : 'EUA reference value not in the loaded bunker data; no fallback figure shown';
+            const val = (k && k.eu_ets_carbon_eur != null) ? '€' + k.eu_ets_carbon_eur.toFixed(2) + '/t' : 'EUA reference value not in the loaded bunker data; no fallback figure shown';
             if (k && k.eu_ets_obs) html += `<div class="rt-row"><span class="rt-label">Observation Date</span><span class="rt-val" style="font-family:IBM Plex Mono, monospace;">${k.eu_ets_obs} (static screening assumption)</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Carbon Allowance</span><span class="rt-val" style="color:var(--yellow);font-weight:700;">${val}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Scope</span><span class="rt-val">EU MRV Shipping Voyages (5,000+ GT)</span></div>`;
@@ -53081,11 +53111,12 @@ function updateBunkersHUD() {
   var elEts = document.getElementById('bunkerKpiEts');
   var elVol = document.getElementById('bunkerKpiVol');
 
+  try { updateBunkerStatusPills(); } catch (e) {}
   if (elVlsfo) elVlsfo.textContent = '$' + k.global_vlsfo.toFixed(2);
   if (elHsfo) elHsfo.textContent = '$' + k.global_hsfo.toFixed(2);
   if (elMgo) elMgo.textContent = '$' + k.global_mgo.toFixed(2);
   if (elHi5) elHi5.textContent = '$' + k.singapore_hi5.toFixed(2);
-  if (elEts) elEts.textContent = '€' + k.eu_ets_carbon_eur.toFixed(2);
+  if (elEts) elEts.textContent = k.eu_ets_carbon_eur != null ? '€' + k.eu_ets_carbon_eur.toFixed(2) : '\u2014';
   if (elVol) elVol.textContent = (k.singapore_monthly_vol_mt / 1000000).toFixed(2) + 'M MT';
 
   var gObs = (k.global_obs || '').slice(5), gPrev = (k.global_prev_obs || '').slice(5);
@@ -53094,7 +53125,11 @@ function updateBunkersHUD() {
   setSub('bunkerKpiMgoSub', fmtChg(k.global_mgo_chg) + ' D/D (' + gObs + ' vs ' + gPrev + ') · ECA Zone & Port Auxiliary Marine Gasoil', k.global_mgo_chg <= 0 ? 'good' : 'alert');
   var hObs = (k.hi5_obs || '').slice(5), hPrev = (k.hi5_prev_obs || '').slice(5);
   setSub('bunkerKpiHi5Sub', fmtChg(k.singapore_hi5_chg) + ' 7D (SS ' + hObs + ' vs ' + hPrev + ') · Cape TCE +$' + Math.round(k.cape_scrubber_tce_bonus).toLocaleString('en-US') + '/d · Payback ~' + k.scrubber_payback_months + ' Mos', k.singapore_hi5_chg <= 0 ? 'purple' : 'alert');
-  setSub('bunkerKpiEtsSub', 'Voyage Penalty: ~$' + Math.round(k.eu_ets_daily_penalty_usd).toLocaleString('en-US') + '/d on EU MRV Routes (static screen)', 'warn');
+  var etsAge = ageDays(k.eu_ets_obs);
+  setSub('bunkerKpiEtsSub',
+    (k.eu_ets_obs ? 'EUA obs ' + k.eu_ets_obs + (etsAge > 10 ? ' (stale)' : '') + ' \u00b7 ' : '') +
+    (k.eu_ets_daily_penalty_usd != null ? 'Capesize EU ETS cost ~$' + Math.round(k.eu_ets_daily_penalty_usd).toLocaleString('en-US') + '/d at 100% phase-in' : 'voyage cost unavailable'),
+    etsAge > 10 ? 'alert' : 'warn');
   var yoy = k.singapore_vol_yoy_pct;
   setSub('bunkerKpiVolSub', (yoy > 0 ? '+' : '') + yoy.toFixed(1) + '% YoY · MPA Singapore ' + (k.singapore_vol_period || '') + ' Monthly Delivery', yoy >= 0 ? 'cyan' : 'alert');
 
@@ -53103,7 +53138,7 @@ function updateBunkersHUD() {
   // "Global" cards kept showing the last port average as if it were today's.
   // Past a week, show the daily BunkerIndex World benchmark instead and say so;
   // Hi-5 has no BIX equivalent, so it is marked stale in place.
-  var ageDays = function (iso) {
+  function ageDays(iso) {
     if (!iso) return null;
     var t = Date.parse(iso + 'T00:00:00Z');
     return isNaN(t) ? null : Math.floor((Date.now() - t) / 86400000);
@@ -53159,7 +53194,7 @@ function plotBunkerPortMarkers() {
     if (ports.length === totalMaster) {
       hud.textContent = totalMaster + ' Global Bunker Supply Ports Active';
     } else {
-      var filterDesc = bunkersSelectedGrade !== 'all' ? (bunkersSelectedGrade === 'BIO' ? 'Biofuel (B24) Supply Hubs' : bunkersSelectedGrade + ' Grade') : (bunkersSelectedFreshness === 'active' ? 'Active Sep 2026' : (bunkersSelectedRegion !== 'all' ? bunkersSelectedRegion + ' Region' : 'Filtered'));
+      var filterDesc = bunkersSelectedGrade !== 'all' ? (bunkersSelectedGrade === 'BIO' ? 'Biofuel (B24) Supply Hubs' : bunkersSelectedGrade + ' Grade') : (bunkersSelectedFreshness === 'active' ? 'Recently quoted' : (bunkersSelectedRegion !== 'all' ? bunkersSelectedRegion + ' Region' : 'Filtered'));
       hud.textContent = ports.length + ' of ' + totalMaster + ' Supply Ports Active (' + filterDesc + ')';
     }
   }
@@ -53248,6 +53283,33 @@ function plotBunkerPortMarkers() {
   })();
 }
 
+// 'Active' = quoted within 60 days of the newest port observation in the
+// cache. This was a literal '2026-09-01' with a pill reading 'Active / Sep
+// 2026 (161)', which would have silently drifted as the archive moved on.
+var BUNKER_ACTIVE_WINDOW_DAYS = 60;
+function bunkerActiveCutoff() {
+  var ports = (DATA.bunkerSummary && DATA.bunkerSummary.ports) || [];
+  var newest = '';
+  for (var i = 0; i < ports.length; i++) if (ports[i].latest_date && ports[i].latest_date > newest) newest = ports[i].latest_date;
+  if (!newest) return '0000-00-00';
+  var d = new Date(Date.parse(newest + 'T00:00:00Z') - BUNKER_ACTIVE_WINDOW_DAYS * 86400000);
+  return d.toISOString().slice(0, 10);
+}
+function updateBunkerStatusPills() {
+  var ports = (DATA.bunkerSummary && DATA.bunkerSummary.ports) || [];
+  if (!ports.length) return;
+  var cut = bunkerActiveCutoff();
+  var nActive = ports.filter(function (p) { return p.latest_date && p.latest_date >= cut; }).length;
+  var all = document.getElementById('bunkerPillStatusAll');
+  var act = document.getElementById('bunkerPillStatusActive');
+  if (all) all.textContent = 'All Ports (' + ports.length + ')';
+  if (act) {
+    act.textContent = 'Quoted since ' + cut.slice(5) + ' (' + nActive + ')';
+    act.setAttribute('data-tooltip', 'Ports with a quote within ' + BUNKER_ACTIVE_WINDOW_DAYS + ' days of the newest port observation in the archive (' + nActive + ' of ' + ports.length + ').');
+  }
+}
+window.updateBunkerStatusPills = updateBunkerStatusPills;
+
 function filterBunkersData() {
   var summary = DATA.bunkerSummary;
   var ports = summary && summary.ports ? summary.ports : [];
@@ -53255,7 +53317,7 @@ function filterBunkersData() {
 
   return ports.filter(function(p) {
     if (bunkersSelectedFreshness === 'active') {
-      if (!p.latest_date || p.latest_date < '2026-09-01') return false;
+      if (!p.latest_date || p.latest_date < bunkerActiveCutoff()) return false;
     }
 
     if (bunkersSelectedRegion !== 'all') {
@@ -53330,8 +53392,11 @@ function renderBunkersCompositesStrip() {
     var hi5 = c.hi5_spread ? '$' + c.hi5_spread.toFixed(1) : '—';
     var shortName = c.name.replace(' Average Bunker Price', ' Avg').replace(' Average', ' Avg');
 
-    html += '<div class="bunkers-comp-card' + (isSel ? ' selected' : '') + '" onclick="focusBunkerPort(\'" + escapeHtml(c.name) + "\')" data-tooltip="Composite benchmark: ' + escapeHtml(c.name) + ' (' + escapeHtml(c.region) + '). Click to plot historical series in the main chart.">' +
-      '<div class="bunkers-comp-title"><span>' + escapeHtml(shortName) + '</span><span style="font-size:11px;color:var(--accent);">' + escapeHtml(c.region) + '</span></div>' +
+    // The onclick used to be built as "...(\'" + escapeHtml(c.name) + "\')" inside a
+    // single-quoted string, so the handler received the literal text
+    // '" + escapeHtml(c.name) + "' and a click never selected the composite.
+    html += '<div class="bunkers-comp-card' + (isSel ? ' selected' : '') + '" onclick="focusBunkerPort(\'' + escapeHtml(String(c.name).replace(/'/g, "\\'")) + '\')" data-tooltip="Composite benchmark: ' + escapeHtml(c.name) + ' (' + escapeHtml(c.region) + '). Click to plot historical series in the main chart.">' +
+      '<div class="bunkers-comp-title"><span>' + escapeHtml(shortName) + '</span><span style="font-size:11px;color:var(--accent);">' + escapeHtml(c.region) + (c.latest_date ? ' \u00b7 ' + escapeHtml(String(c.latest_date).slice(5)) : '') + '</span></div>' +
       '<div class="bunkers-comp-val-grid">' +
       '<div><span class="bunkers-comp-lbl">VLSFO: </span><span style="color:#3fb950; font-weight:600;">' + vlsfo + '</span></div>' +
       '<div><span class="bunkers-comp-lbl">MGO: </span><span style="color:#e3b341; font-weight:600;">' + mgo + '</span></div>' +
@@ -53371,7 +53436,7 @@ function renderBunkersSpotTable() {
       } else if (bunkersSelectedGrade !== 'all') {
         bannerText.innerHTML = '<strong>Filtered by ' + escapeHtml(bunkersSelectedGrade) + '</strong>: ' + total + ' of ' + totalMaster + ' ports provide verified indications.';
       } else if (bunkersSelectedFreshness === 'active') {
-        bannerText.innerHTML = '<strong>Filtered by Active Ports (Sep 2026)</strong>: ' + total + ' of ' + totalMaster + ' ports with live indications updated this month.';
+        bannerText.innerHTML = '<strong>Filtered to recently quoted ports</strong>: ' + total + ' of ' + totalMaster + ' ports quoted since ' + bunkerActiveCutoff() + '.';
       } else if (bunkersSelectedRegion !== 'all') {
         bannerText.innerHTML = '<strong>Filtered by ' + escapeHtml(bunkersSelectedRegion) + ' Region</strong>: ' + total + ' of ' + totalMaster + ' ports.';
       } else if (bunkersSearchQuery) {
@@ -53445,14 +53510,17 @@ function renderBunkersSpotTable() {
 
     var hi5Text = p.hi5_spread ? '$' + p.hi5_spread.toFixed(2) : '—';
 
+    // Relative to the newest port observation (were literal 2026-01-01 / 2026-08-01).
+    var _bkActiveCut = bunkerActiveCutoff();
+    var _bkAncientCut = new Date(Date.parse(_bkActiveCut + 'T00:00:00Z') - 305 * 86400000).toISOString().slice(0, 10);
     var statusHtml = '<span class="bunker-normal-pill">Normal</span>';
     if (p.is_outlier && p.outlier_flags && p.outlier_flags.length) {
       var outDesc = p.outlier_flags.map(function(f) { return f.grade + ' ' + (f.zscore > 0 ? '+' : '') + f.zscore + 'σ'; }).join(', ');
       statusHtml = '<span class="bunker-outlier-pill" data-tooltip="Statistical 3σ outlier: ' + escapeHtml(outDesc) + '">3σ OUTLIER</span>';
-    } else if (p.latest_date && p.latest_date < '2026-01-01') {
+    } else if (p.latest_date && p.latest_date < _bkAncientCut) {
       var yr = p.latest_date.slice(0, 4);
       statusHtml = '<span class="bunker-ancient-pill" title="Historical baseline quote dating to ' + escapeHtml(p.latest_date) + ' (infrequent broker publication)">Hist ' + yr + '</span>';
-    } else if (p.latest_date && p.latest_date < '2026-08-01') {
+    } else if (p.latest_date && p.latest_date < _bkActiveCut) {
       var ym = p.latest_date.slice(0, 7);
       statusHtml = '<span class="bunker-stale-pill" title="Prior observation from ' + escapeHtml(p.latest_date) + '">Obs ' + ym + '</span>';
     }
@@ -53490,7 +53558,7 @@ function renderBunkersSpotTable() {
       '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>' +
       '</button>' +
       '</div>' +
-      '<div style="font-size:var(--fs-micro); color:var(--text-muted); font-family:\'IBM Plex Mono\', monospace;">' + escapeHtml(p.code) + ' · ' + escapeHtml(p.country) + (p.latest_date ? (' · <span title="Last quote observation: ' + escapeHtml(p.latest_date) + '" style="color:' + (p.latest_date >= '2026-09-01' ? '#3fb950' : (p.latest_date < '2026-01-01' ? '#e3b341' : 'var(--text-muted)')) + ';">obs ' + escapeHtml(p.latest_date) + '</span>') : '') + '</div>' +
+      '<div style="font-size:var(--fs-micro); color:var(--text-muted); font-family:\'IBM Plex Mono\', monospace;">' + escapeHtml(p.code) + ' · ' + escapeHtml(p.country) + (p.latest_date ? (' · <span title="Last quote observation: ' + escapeHtml(p.latest_date) + '" style="color:' + (p.latest_date >= _bkActiveCut ? '#3fb950' : (p.latest_date < _bkAncientCut ? '#e3b341' : 'var(--text-muted)')) + ';">obs ' + escapeHtml(p.latest_date) + '</span>') : '') + '</div>' +
       '</td>' +
       '<td><span class="class-badge">' + escapeHtml(p.region) + '</span></td>' +
       '<td style="font-family:\'IBM Plex Mono\', monospace; font-weight:600; color:' + (p.vlsfo ? '#3fb950' : 'var(--text-muted)') + ';">' + vlsfoDisplay + '</td>' +
@@ -53569,7 +53637,7 @@ function nextBunkersPage() {
 function setBunkerRegion(region) {
   bunkersSelectedRegion = region;
   bunkersCurrentPage = 1;
-  document.querySelectorAll('.bunkers-tools-bar .bunkers-pill[data-region]').forEach(function(btn) {
+  document.querySelectorAll('.bunkers-toolbar .bunkers-pill[data-region]').forEach(function(btn) {
     btn.classList.toggle('active', btn.dataset.region === region);
   });
   renderBunkersSpotTable();
@@ -53579,7 +53647,7 @@ function setBunkerRegion(region) {
 function setBunkerGrade(grade) {
   bunkersSelectedGrade = grade;
   bunkersCurrentPage = 1;
-  document.querySelectorAll('.bunkers-tools-bar .bunkers-pill[data-grade]').forEach(function(btn) {
+  document.querySelectorAll('.bunkers-toolbar .bunkers-pill[data-grade]').forEach(function(btn) {
     btn.classList.toggle('active', btn.dataset.grade === grade);
   });
   renderBunkersSpotTable();
@@ -53589,7 +53657,7 @@ function setBunkerGrade(grade) {
 function setBunkerFreshness(freshness) {
   bunkersSelectedFreshness = freshness;
   bunkersCurrentPage = 1;
-  document.querySelectorAll('.bunkers-tools-bar .bunkers-pill[data-freshness]').forEach(function(btn) {
+  document.querySelectorAll('.bunkers-toolbar .bunkers-pill[data-freshness]').forEach(function(btn) {
     btn.classList.toggle('active', btn.dataset.freshness === freshness);
   });
   renderBunkersSpotTable();
@@ -53658,6 +53726,7 @@ function renderBunkersForwardChart() {
     if (!fwdCurves || !fwdCurves.length) {
       tbody.innerHTML = '<tr><td colspan="5" style="text-align:center; padding:16px; color:var(--text-muted);">No forward curve quotes available for ' + escapeHtml(hub) + '</td></tr>';
     } else {
+      var money = function (v) { return v != null && isFinite(v) ? '$' + Number(v).toFixed(2) : '\u2014'; };
       fwdCurves.forEach(function(r) {
         var tr = document.createElement('tr');
         var isSpot = r.offset === 0;
@@ -53673,10 +53742,10 @@ function renderBunkersForwardChart() {
         tr.setAttribute('data-tt-title', hub + ' Forward: ' + r.month);
 
         tr.innerHTML = '<td><div style="font-weight:700; color:' + (isSpot ? '#58a6ff' : '#fff') + '; font-family:\'IBM Plex Mono\', monospace;">' + escapeHtml(monthLabel) + '</div><div style="font-size:11px; color:var(--text-muted);">' + escapeHtml(tenorLabel) + '</div></td>' +
-          '<td style="font-family:\'IBM Plex Mono\', monospace; font-weight:600; color:#3fb950;">$' + r.vlsfo.toFixed(2) + '</td>' +
-          '<td style="font-family:\'IBM Plex Mono\', monospace; color:#e3b341;">$' + r.mgo.toFixed(2) + '</td>' +
-          '<td style="font-family:\'IBM Plex Mono\', monospace; color:#4d9aff;">$' + r.ifo380.toFixed(2) + '</td>' +
-          '<td style="font-family:\'IBM Plex Mono\', monospace; color:#a371f7; font-weight:700;">$' + r.spread.toFixed(2) + '</td>';
+          '<td style="font-family:\'IBM Plex Mono\', monospace; font-weight:600; color:#3fb950;">' + money(r.vlsfo) + '</td>' +
+          '<td style="font-family:\'IBM Plex Mono\', monospace; color:#e3b341;">' + money(r.mgo) + '</td>' +
+          '<td style="font-family:\'IBM Plex Mono\', monospace; color:#4d9aff;">' + money(r.ifo380) + '</td>' +
+          '<td style="font-family:\'IBM Plex Mono\', monospace; color:#a371f7; font-weight:700;">' + money(r.spread) + '</td>';
         tbody.appendChild(tr);
       });
     }
@@ -53746,7 +53815,7 @@ function renderBunkersVolumesChart() {
 
   var badge = document.getElementById('bunkerVolBadge');
   if (badge) {
-    badge.textContent = (hub === 'Singapore') ? '5-YEAR SEASONAL ENVELOPE' : 'QUARTERLY DELIVERIES';
+    badge.textContent = (hub === 'Singapore') ? 'YEAR-ON-YEAR' : 'QUARTERLY DELIVERIES';
   }
 
   if (tbody) {
@@ -53754,7 +53823,7 @@ function renderBunkersVolumesChart() {
     if (!vols || !vols.length) {
       tbody.innerHTML = '<tr><td colspan="4" style="text-align:center; padding:16px; color:var(--text-muted);">No sales volume data available.</td></tr>';
     } else {
-      vols.slice(0, 36).forEach(function(r) {
+      vols.slice().sort(function (a, b) { return String(b.period).localeCompare(String(a.period)); }).slice(0, 36).forEach(function(r) {
         var tr = document.createElement('tr');
         tr.innerHTML = '<td><div style="font-weight:700; color:#fff; font-family:\'IBM Plex Mono\', monospace;">' + escapeHtml(r.period) + '</div></td>' +
           '<td><span class="class-badge">' + escapeHtml(r.freq) + '</span></td>' +
@@ -53773,66 +53842,40 @@ function renderBunkersVolumesChart() {
 
   var ctx = canvas.getContext('2d');
 
-  if (hub === 'Singapore' && envelope && envelope.length) {
-    var labels = envelope.map(function(m) { return m.month_name; });
-    var maxVals = envelope.map(function(m) { return Math.round(m.max / 1000); });
-    var minVals = envelope.map(function(m) { return Math.round(m.min / 1000); });
-    var meanVals = envelope.map(function(m) { return Math.round(m.mean / 1000); });
-
-    var actualsMap = {};
-    if (vols && vols.length) {
-      vols.forEach(function(v) {
-        if (v.period && (v.period.startsWith('2025') || v.period.startsWith('2026'))) {
-          var parts = v.period.split('-');
-          var mNum = parseInt(parts[1], 10);
-          if (!actualsMap[mNum]) actualsMap[mNum] = Math.round(v.volume_mt / 1000);
-        }
-      });
-    }
-    var actualData = envelope.map(function(m) { return actualsMap[m.month] || null; });
+  // Singapore: one line per calendar year (Jan-Dec). This replaced a
+  // '5-year envelope' built from a hard-coded 2019-2025 window over data that
+  // starts in 2024-09 (Jan-Aug had one year, so min = max = mean), whose
+  // 'Latest Actuals' line also picked the OLDEST value per month.
+  var sgMonthly = (vols || []).filter(function (v) { return v.metric === 'Sales_Monthly_MT' && /^\d{4}-\d{2}$/.test(v.period || ''); });
+  if (hub === 'Singapore' && sgMonthly.length) {
+    var labels = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    var byYear = {};
+    sgMonthly.forEach(function (v) {
+      var y = v.period.slice(0, 4), m = parseInt(v.period.slice(5, 7), 10) - 1;
+      (byYear[y] || (byYear[y] = new Array(12).fill(null)))[m] = v.volume_mt != null ? Math.round(v.volume_mt / 1000) : null;
+    });
+    var years = Object.keys(byYear).sort();
+    if (badge) badge.textContent = 'YEAR-ON-YEAR \u00b7 ' + years[0] + (years.length > 1 ? '\u2013' + years[years.length - 1] : '');
+    var yrColors = ['#6e7681', '#8b949e', '#58a6ff', '#00e5ff'];
+    var dsets = years.map(function (y, i) {
+      var isLast = i === years.length - 1;
+      var col = yrColors[Math.max(0, yrColors.length - (years.length - i))];
+      return {
+        label: y + (isLast ? ' (latest)' : ''),
+        data: byYear[y],
+        borderColor: col,
+        backgroundColor: col,
+        borderWidth: isLast ? 2.5 : 1.5,
+        borderDash: isLast ? [] : [4, 3],
+        pointRadius: isLast ? 3.5 : 2,
+        spanGaps: false,
+        fill: false
+      };
+    });
 
     bunkerVolumesChartInstance = new Chart(ctx, {
       type: 'line',
-      data: {
-        labels: labels,
-        datasets: [
-          {
-            label: '5Y Max (k MT)',
-            data: maxVals,
-            borderColor: 'rgba(0, 229, 255, 0.4)',
-            backgroundColor: 'rgba(0, 229, 255, 0.08)',
-            fill: '+1',
-            pointRadius: 0,
-            borderWidth: 1
-          },
-          {
-            label: '5Y Min (k MT)',
-            data: minVals,
-            borderColor: 'rgba(0, 229, 255, 0.4)',
-            backgroundColor: 'transparent',
-            pointRadius: 0,
-            borderWidth: 1
-          },
-          {
-            label: '5Y Historical Avg (k MT)',
-            data: meanVals,
-            borderColor: '#8b949e',
-            borderDash: [4, 4],
-            borderWidth: 1.5,
-            pointRadius: 2,
-            fill: false
-          },
-          {
-            label: 'Latest Actuals (k MT)',
-            data: actualData,
-            borderColor: '#00e5ff',
-            backgroundColor: 'rgba(0, 229, 255, 0.8)',
-            borderWidth: 2,
-            pointRadius: 4,
-            fill: false
-          }
-        ]
-      },
+      data: { labels: labels, datasets: dsets },
       options: {
         responsive: true,
         maintainAspectRatio: false,
@@ -53842,7 +53885,7 @@ function renderBunkersVolumesChart() {
           tooltip: {
             callbacks: {
               label: function(c) {
-                return ' ' + c.dataset.label + ': ' + (c.parsed.y ? c.parsed.y.toLocaleString('en-US') + 'k MT' : '—');
+                return ' ' + c.dataset.label + ': ' + (c.parsed.y ? c.parsed.y.toLocaleString('en-US') + 'k MT' : '\u2014');
               }
             }
           }
@@ -54006,6 +54049,49 @@ function renderBunkersBixMovers() {
     var k = r.index + '|' + r.grade;
     if (!latest[k] || r.date > latest[k].date) latest[k] = r;
   });
+
+  // The chip strip above already shows each benchmark's 1-day move, so this
+  // table used to repeat it number for number. It now reads the BIX archive
+  // and shows the 1-week / 1-month / 3-month change instead.
+  var hist = summary.bix_history && summary.bix_history.series;
+  if (hist) {
+    var headEl = document.getElementById('bunkerBixMoversHead');
+    if (headEl) headEl.textContent = 'Regional movers \u00b7 latest price with 1-week, 1-month and 3-month change (BIX archive)';
+    var back = function (sr, days) {
+      if (!sr || !sr.dates || !sr.dates.length) return null;
+      var n = sr.dates.length - 1, last = Date.parse(sr.dates[n]);
+      var target = last - days * 86400000;
+      for (var i = n; i >= 0; i--) { if (Date.parse(sr.dates[i]) <= target) return sr.prices[i]; }
+      return null;
+    };
+    var chg = function (now, then) {
+      if (now == null || then == null || !then) return '<span class="bix-mc flat">\u2014</span>';
+      var pc = (now - then) / then * 100;
+      return '<span class="bix-mc ' + (pc > 0 ? 'up' : (pc < 0 ? 'dn' : 'flat')) + '">' + (pc > 0 ? '+' : '') + pc.toFixed(1) + '%</span>';
+    };
+    order.forEach(function (ix) {
+      var safeIx = ix.replace('BIX_', '');
+      var tr = document.createElement('tr');
+      tr.setAttribute('data-tooltip', ' ');
+      tr.setAttribute('data-tt-type', 'bix-movers-row');
+      tr.setAttribute('data-tt-region', safeIx);
+      var cells = '<td><span class="bix-mx">' + escapeHtml(safeIx) + '</span></td>';
+      grades.forEach(function (g) {
+        var sr = hist[ix] && hist[ix][g];
+        var r = latest[ix + '|' + g];
+        if (!sr || !sr.prices || !sr.prices.length) { cells += '<td style="color:var(--text-muted);text-align:center;">\u2014</td>'; return; }
+        var now = sr.prices[sr.prices.length - 1];
+        cells += '<td data-tt-type="bix-movers-cell" data-tt-region="' + safeIx + '" data-tt-grade="' + g + '" data-tt-price="' + now + '"' +
+          (r ? ' data-tt-chg="' + r.change + '" data-tt-low="' + r.low + '" data-tt-high="' + r.high + '"' : '') +
+          ' data-tt-date="' + sr.dates[sr.dates.length - 1] + '">' +
+          '<div style="font-weight:700; color:#fff;">$' + Number(now).toFixed(2) + '</div>' +
+          '<div class="bix-mc-row">1W ' + chg(now, back(sr, 7)) + ' \u00b7 1M ' + chg(now, back(sr, 30)) + ' \u00b7 3M ' + chg(now, back(sr, 91)) + '</div></td>';
+      });
+      tr.innerHTML = cells;
+      tbody.appendChild(tr);
+    });
+    return;
+  }
 
   order.forEach(function(ix) {
     var safeIx = ix.replace('BIX_', '');
@@ -54303,7 +54389,9 @@ function renderBunkersScrubberTable() {
     var hi5Val = typeof r.hi5 === 'number' ? r.hi5 : 0;
     var capePrem = typeof r.cape_tce_premium === 'number' ? r.cape_tce_premium : Math.round(hi5Val * 45);
     var vlccPrem = typeof r.vlcc_tce_premium === 'number' ? r.vlcc_tce_premium : Math.round(hi5Val * 55);
-    var euEtsCost = typeof r.eu_ets_penalty_usd === 'number' ? r.eu_ets_penalty_usd : Math.round(45 * 3.114 * 0.5 * 72.5);
+    // The fifth column used to be an 'EU ETS cost' computed from a constant
+    // EUA of 72.5, i.e. the same $5,080/d on every row. Show the quote date.
+    var quoted = r.latest_date ? String(r.latest_date).slice(0, 10) : '\u2014';
 
     var tr = document.createElement('tr');
     tr.setAttribute('data-tooltip', ' ');
@@ -54318,7 +54406,7 @@ function renderBunkersScrubberTable() {
       '<td style="font-family:\'IBM Plex Mono\', monospace; font-weight:700; color:#a371f7;">$' + hi5Val.toFixed(2) + '</td>' +
       '<td style="font-family:\'IBM Plex Mono\', monospace; color:var(--green);">+$' + capePrem.toLocaleString('en-US') + '/d</td>' +
       '<td style="font-family:\'IBM Plex Mono\', monospace; color:var(--green);">+$' + vlccPrem.toLocaleString('en-US') + '/d</td>' +
-      '<td style="font-family:\'IBM Plex Mono\', monospace; color:var(--yellow); font-size:var(--fs-micro);">$' + euEtsCost.toLocaleString('en-US') + '/d</td>';
+      '<td style="font-family:\'IBM Plex Mono\', monospace; color:var(--text-muted); font-size:var(--fs-micro);">' + escapeHtml(quoted) + '</td>';
 
     tbody.appendChild(tr);
   });
