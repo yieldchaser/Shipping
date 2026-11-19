@@ -52174,7 +52174,7 @@ function escapeHtml(str) {
             const momCls = (cat.mom_pct || 0) >= 0 ? 'pos' : 'neg';
             html = `<div class="rt-title">${cat.name || cat.label}: Spot Benchmark</div>`;
             html += `<div class="rt-row"><span class="rt-label">Latest Dayrate</span><span class="rt-val" style="color:var(--accent);font-weight:700;">£${rateGbp.toLocaleString('en-US')} / d (~$${rateUsd.toLocaleString('en-US')})</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">YoY Momentum</span><span class="rt-val ${yoyCls}">${yoy} (vs Aug '25 spot trough)</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">YoY Momentum</span><span class="rt-val ${yoyCls}">${yoy} (vs same month last year)</span></div>`;
             if (mom) html += `<div class="rt-row"><span class="rt-label">MoM Velocity</span><span class="rt-val ${momCls}">${mom}</span></div>`;
             if (cat.utilization_pct != null) html += `<div class="rt-row"><span class="rt-label">Fleet Utilisation</span><span class="rt-val">${cat.utilization_pct}%</span></div>`;
             if (cat.hi_52w) html += `<div class="rt-row"><span class="rt-label">52-Week Range</span><span class="rt-val">£${Math.round(cat.lo_52w || 0).toLocaleString('en-US')} – £${Math.round(cat.hi_52w).toLocaleString('en-US')}</span></div>`;
@@ -53026,6 +53026,42 @@ function updateBunkersHUD() {
   setSub('bunkerKpiEtsSub', 'Voyage Penalty: ~$' + Math.round(k.eu_ets_daily_penalty_usd).toLocaleString('en-US') + '/d on EU MRV Routes (static screen)', 'warn');
   var yoy = k.singapore_vol_yoy_pct;
   setSub('bunkerKpiVolSub', (yoy > 0 ? '+' : '') + yoy.toFixed(1) + '% YoY · MPA Singapore ' + (k.singapore_vol_period || '') + ' Monthly Delivery', yoy >= 0 ? 'cyan' : 'alert');
+
+  // Port-level spot feed freshness. When the Ship & Bunker port feed stops
+  // (it began returning HTTP 403 to the collector on 2026-10-27), the three
+  // "Global" cards kept showing the last port average as if it were today's.
+  // Past a week, show the daily BunkerIndex World benchmark instead and say so;
+  // Hi-5 has no BIX equivalent, so it is marked stale in place.
+  var ageDays = function (iso) {
+    if (!iso) return null;
+    var t = Date.parse(iso + 'T00:00:00Z');
+    return isNaN(t) ? null : Math.floor((Date.now() - t) / 86400000);
+  };
+  var gAge = ageDays(k.global_obs);
+  var bixW = summary.bix_history && summary.bix_history.series && summary.bix_history.series.BIX_World;
+  if (gAge != null && gAge > 7 && bixW) {
+    var lastOf = function (g) {
+      var sr = bixW[g];
+      if (!sr || !sr.dates || !sr.dates.length) return null;
+      var vals = sr.values || sr.prices || sr.price;
+      if (!vals) return null;
+      var n = sr.dates.length - 1;
+      return { d: sr.dates[n], v: vals[n], p: n > 0 ? vals[n - 1] : null };
+    };
+    var swaps = [['VLSFO', elVlsfo, 'bunkerKpiVlsfoSub'], ['IFO380', elHsfo, 'bunkerKpiHsfoSub'], ['MGO', elMgo, 'bunkerKpiMgoSub']];
+    swaps.forEach(function (sw) {
+      var o = lastOf(sw[0]);
+      if (!o || o.v == null || !sw[1]) return;
+      sw[1].textContent = '$' + Number(o.v).toFixed(2);
+      var chg = o.p != null ? o.v - o.p : 0;
+      setSub(sw[2], fmtChg(chg) + ' D/D \u00b7 BunkerIndex World ' + o.d.slice(5) + ' \u00b7 port feed paused since ' + (k.global_obs || '').slice(5), chg <= 0 ? 'good' : 'alert');
+    });
+  }
+  var hAge = ageDays(k.hi5_obs);
+  if (hAge != null && hAge > 10) {
+    var hs = document.getElementById('bunkerKpiHi5Sub');
+    if (hs) { hs.textContent = 'Stale \u00b7 last port observation ' + k.hi5_obs + ' \u00b7 ' + hs.textContent; hs.className = 'bunkers-kpi-sub alert'; }
+  }
 
   var hi5Card = document.querySelector('.bunkers-kpi-grid [data-tt-type="bunker-scrubber-cell"]');
   if (hi5Card) {
@@ -57981,7 +58017,7 @@ function renderOffshoreKPIs() {
       const yoy = c.yoy_change_pct != null ? (c.yoy_change_pct >= 0 ? '+' : '') + c.yoy_change_pct.toFixed(1) + '%' : '—';
       const yoyColor = (c.yoy_change_pct || 0) >= 0 ? 'var(--green)' : 'var(--red)';
       const util = c.utilization_pct != null ? c.utilization_pct + '%' : '—';
-      subEl.innerHTML = `YoY: <strong style="color:${yoyColor};">${yoy}</strong> <span style="font-size:10px;color:var(--text-muted);font-weight:normal;">(vs Aug '25 trough)</span> · Util: <strong>${util}</strong>`;
+      subEl.innerHTML = `YoY: <strong style="color:${yoyColor};">${yoy}</strong> <span style="font-size:10px;color:var(--text-muted);font-weight:normal;">(vs same month last year)</span> · Util: <strong>${util}</strong>`;
     }
   });
 }
