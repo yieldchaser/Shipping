@@ -330,6 +330,20 @@
       margin: 0 auto;
     }
     .tabs-bar::-webkit-scrollbar { display: none; }
+    /* Thin rule between tab groups: Markets | Instruments & desk | Physical | Research */
+    .tab-sep {
+      flex: 0 0 1px;
+      align-self: stretch;
+      margin: 11px 6px;
+      background: var(--border);
+    }
+    /* The sector pills only drive Dashboard, Seasonality and Signals; on every
+       other tab they changed nothing, so they are hidden there. The bar itself
+       stays for the data-as-of stamp and sign-out. */
+    body[data-tab]:not([data-tab="dashboard"]):not([data-tab="seasonality"]):not([data-tab="signals"]) .index-bar .index-pill,
+    body[data-tab]:not([data-tab="dashboard"]):not([data-tab="seasonality"]):not([data-tab="signals"]) .index-bar .index-bar-label {
+      display: none;
+    }
 
     .tab-btn {
       background: none;
@@ -11844,19 +11858,25 @@ html.auth-locked body > *:not(#authGateModal) {
 
   <!-- TABS BAR -->
   <div class="tabs-bar-outer">
-  <div class="tabs-bar">
+  <div class="tabs-bar" role="tablist">
+    <!-- Markets: benchmark prices and the analytics built on them -->
     <button class="tab-btn active" data-tab="dashboard">Dashboard</button>
-    <button class="tab-btn" data-tab="yearly-dash">Yearly</button>
     <button class="tab-btn" data-tab="seasonality">Seasonality</button>
     <button class="tab-btn" data-tab="indices">Indices</button>
-    <button class="tab-btn" data-tab="etfs">ETFs</button>
     <button class="tab-btn" data-tab="signals">Signals</button>
+    <span class="tab-sep" aria-hidden="true"></span>
+    <!-- Instruments & desk -->
+    <button class="tab-btn" data-tab="etfs">ETFs</button>
     <button class="tab-btn" data-tab="fearnleys">Broker Desk</button>
-    <button class="tab-btn" data-tab="intelligence">Intelligence</button>
+    <span class="tab-sep" aria-hidden="true"></span>
+    <!-- Physical market -->
     <button class="tab-btn" data-tab="tracking">Tracking</button>
-      <button class="tab-btn" data-tab="cargo">Cargo &amp; Trade Flows</button>
+    <button class="tab-btn" data-tab="cargo">Cargo &amp; Trade Flows</button>
     <button class="tab-btn" data-tab="bunkers">Bunkers</button>
     <button class="tab-btn" data-tab="offshore">Offshore</button>
+    <span class="tab-sep" aria-hidden="true"></span>
+    <!-- Research -->
+    <button class="tab-btn" data-tab="intelligence">Intelligence</button>
   </div>
   </div><!-- /tabs-bar-outer -->
 
@@ -11996,6 +12016,31 @@ html.auth-locked body > *:not(#authGateModal) {
         </div>
       </div>
 
+      <!-- Full-history price (moved from the former Yearly tab) -->
+      <div class="chart-container mb-20">
+        <div class="chart-header">
+          <div class="chart-title" data-tooltip="Long-term price chart compared against historical 5Y and 10Y benchmarks to identify multi-year cycles.">Full-History Price</div>
+          <div class="flex-row" style="gap:6px;flex-wrap:wrap;align-items:center;">
+            <button class="toggle-btn active" id="ydAvgBtn5" data-tooltip="Draw the 5-year rolling average line on the historical price chart." onclick="setYDHistAvg(5)">5Y Avg</button>
+            <button class="toggle-btn" id="ydAvgBtn10" data-tooltip="Draw the 10-year rolling average line on the historical price chart." onclick="setYDHistAvg(10)">10Y Avg</button>
+            <button class="toggle-btn" id="ydAvgBtnAll" data-tooltip="Draw the all-time average line on the historical price chart." onclick="setYDHistAvg(0)">All-Time Avg</button>
+            <button class="dl-btn" id="ydHistDlBtn" data-tooltip="Download the full historical price series as CSV — exactly the values plotted from the master cache."><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-right:3px;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>CSV</button>
+          </div>
+        </div>
+        <div class="index-range-wrap" style="padding: 2px 0 6px;">
+          <div class="index-range-label">
+            <span>Range:</span>
+            <span id="ydHistRangeLabel">Loading…</span>
+          </div>
+          <div class="dual-range-track" id="ydHistRangeTrack">
+            <div class="dual-range-fill" id="ydHistRangeFill"></div>
+            <input type="range" id="ydHistRangeStart" data-tooltip="Drag to set the left (start) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="0" step="1">
+            <input type="range" id="ydHistRangeEnd" data-tooltip="Drag to set the right (end) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="100" step="1">
+          </div>
+        </div>
+        <div class="chart-canvas-wrap" style="height:320px"><canvas id="yearlyHistChart"></canvas></div>
+      </div>
+
       <!-- Overlay Chart -->
       <div class="chart-container mb-20">
         <div class="chart-header">
@@ -12074,6 +12119,47 @@ html.auth-locked body > *:not(#authGateModal) {
         </div>
       </div>
 
+      <!-- Cross-benchmark history (moved from the former Yearly tab; rendered on first open) -->
+      <div class="collapsible-section mb-20">
+        <button class="collapsible-toggle" id="crossBenchToggle" onclick="toggleCrossBench()" data-tooltip="Expand to compare every benchmark on a common scale: rolling 1-year z-scores and annual average rates. Opens on the seven Baltic indices; click legend items to add equities, futures and gas.">
+          <span>Cross-Benchmark History (Z-Scores &amp; Annual Averages)</span>
+          <span class="toggle-arrow">▼</span>
+        </button>
+        <div class="collapsible-content" id="crossBenchContent">
+      <div class="chart-container mb-12">
+        <div class="chart-header">
+          <div class="chart-title" id="ydZscoreTitle" data-tooltip="Standardized measure of price deviation from its rolling mean. Normalizes completely different shipping segments onto a common statistical scale. Values > +2.0 or < -2.0 identify extreme overbought or oversold conditions.">Z-Score (Rolling Window Comparison) <span id="yearlyZscoreYearRange" class="badge" style="font-size:11px;font-weight:600;padding:2px 8px;border-radius:4px;background:rgba(88,166,255,0.12);color:#58a6ff;border:1px solid rgba(88,166,255,0.25);margin-left:6px;display:none;" data-tooltip="Active calendar span across all visible product curves. Automatically rescales when products like BDI are toggled."></span></div>
+          <div class="flex-row" style="gap:6px;align-items:center;">
+            <button class="toggle-btn" id="ydZscoreBtn63" data-tooltip="Zoom chart and slider to the trailing 3 months." onclick="setYDZscoreWindow(63)">3M</button>
+            <button class="toggle-btn" id="ydZscoreBtn126" data-tooltip="Zoom chart and slider to the trailing 6 months." onclick="setYDZscoreWindow(126)">6M</button>
+            <button class="toggle-btn active" id="ydZscoreBtn252" data-tooltip="Zoom chart and slider to the trailing 1 year (default)." onclick="setYDZscoreWindow(252)">1Y</button>
+            <button class="toggle-btn" id="ydZscoreBtn504" data-tooltip="Zoom chart and slider to the trailing 2 years." onclick="setYDZscoreWindow(504)">2Y</button>
+            <button class="toggle-btn" id="ydZscoreBtn756" data-tooltip="Zoom chart and slider to the trailing 3 years." onclick="setYDZscoreWindow(756)">3Y</button>
+            <button class="toggle-btn" id="ydZscoreBtnAll" data-tooltip="Show full historical date range across visible products." onclick="setYDZscoreWindow('all')">All</button>
+          </div>
+        </div>
+        <div class="index-range-wrap" style="padding: 2px 0 6px;">
+          <div class="index-range-label">
+            <span>Range:</span>
+            <span id="ydZscoreRangeLabel">Loading…</span>
+          </div>
+          <div class="dual-range-track" id="ydZscoreRangeTrack">
+            <div class="dual-range-fill" id="ydZscoreRangeFill"></div>
+            <input type="range" id="ydZscoreRangeStart" data-tooltip="Drag to set the left (start) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="0" step="1">
+            <input type="range" id="ydZscoreRangeEnd" data-tooltip="Drag to set the right (end) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="100" step="1">
+          </div>
+        </div>
+        <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyZscoreChart"></canvas></div>
+      </div>
+      <div class="chart-container mb-20">
+        <div class="chart-header">
+          <div class="chart-title" data-tooltip="Decade-Scale Benchmarks - yearly average closing rates. Tracks the slow-moving structural 'higher lows' characteristic of a tightening global fleet.">Multi-Year Rates (Annual Averages by Product) <span id="yearlyMultiRatesYearRange" class="badge" style="font-size:11px;font-weight:600;padding:2px 8px;border-radius:4px;background:rgba(88,166,255,0.12);color:#58a6ff;border:1px solid rgba(88,166,255,0.25);margin-left:6px;display:none;" data-tooltip="Active calendar year span across all visible product curves. Automatically rescales when products like BDI are toggled."></span></div>
+        </div>
+        <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyMultiRatesChart"></canvas></div>
+      </div>
+        </div>
+      </div>
+
       <!-- Correlation Matrix -->
       <div class="corr-section mb-20">
         <div class="section-title" data-tooltip="Pearson Correlation Matrix - measures the linear co-movement between pairs of shipping indices (BDI, BCI, BPI, BSI, BCTI, BDTI). Correlations of +0.9+ mean indices move in near-lockstep; values near 0 indicate independent price discovery. Use the 1Y window to see whether historical pairs have recently decoupled.">Index Correlation Matrix</div>
@@ -12114,90 +12200,6 @@ html.auth-locked body > *:not(#authGateModal) {
     <!-- ===== TAB: HEATMAPS ===== -->
 
     <!-- ===== TAB: YEARLY ===== -->
-    <div class="tab-panel" id="tab-yearly-dash">
-      <div id="yd-kpi-row" class="dashboard-hero mb-20"></div>
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Long-term price chart compared against historical 5Y and 10Y benchmarks to identify multi-year cycles.">Historical Price</div>
-          <div class="flex-row" style="gap:6px;flex-wrap:wrap;align-items:center;">
-            <button class="toggle-btn active" id="ydAvgBtn5" data-tooltip="Draw the 5-year rolling average line on the historical price chart." onclick="setYDHistAvg(5)">5Y Avg</button>
-            <button class="toggle-btn" id="ydAvgBtn10" data-tooltip="Draw the 10-year rolling average line on the historical price chart." onclick="setYDHistAvg(10)">10Y Avg</button>
-            <button class="toggle-btn" id="ydAvgBtnAll" data-tooltip="Draw the all-time average line on the historical price chart." onclick="setYDHistAvg(0)">All-Time Avg</button>
-            <button class="dl-btn" id="ydHistDlBtn" data-tooltip="Download the full historical price series as CSV — exactly the values plotted from the master cache."><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-right:3px;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>CSV</button>
-          </div>
-        </div>
-        <div class="index-range-wrap" style="padding: 2px 0 6px;">
-          <div class="index-range-label">
-            <span>Range:</span>
-            <span id="ydHistRangeLabel">Loading…</span>
-          </div>
-          <div class="dual-range-track" id="ydHistRangeTrack">
-            <div class="dual-range-fill" id="ydHistRangeFill"></div>
-            <input type="range" id="ydHistRangeStart" data-tooltip="Drag to set the left (start) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="0" step="1">
-            <input type="range" id="ydHistRangeEnd" data-tooltip="Drag to set the right (end) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="100" step="1">
-          </div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:320px"><canvas id="yearlyHistChart"></canvas></div>
-      </div>
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" id="ydZscoreTitle" data-tooltip="Standardized measure of price deviation from its rolling mean. Normalizes completely different shipping segments onto a common statistical scale. Values > +2.0 or < -2.0 identify extreme overbought or oversold conditions.">Z-Score (Rolling Window Comparison) <span id="yearlyZscoreYearRange" class="badge" style="font-size:11px;font-weight:600;padding:2px 8px;border-radius:4px;background:rgba(88,166,255,0.12);color:#58a6ff;border:1px solid rgba(88,166,255,0.25);margin-left:6px;display:none;" data-tooltip="Active calendar span across all visible product curves. Automatically rescales when products like BDI are toggled."></span></div>
-          <div class="flex-row" style="gap:6px;align-items:center;">
-            <button class="toggle-btn" id="ydZscoreBtn63" data-tooltip="Zoom chart and slider to the trailing 3 months." onclick="setYDZscoreWindow(63)">3M</button>
-            <button class="toggle-btn" id="ydZscoreBtn126" data-tooltip="Zoom chart and slider to the trailing 6 months." onclick="setYDZscoreWindow(126)">6M</button>
-            <button class="toggle-btn active" id="ydZscoreBtn252" data-tooltip="Zoom chart and slider to the trailing 1 year (default)." onclick="setYDZscoreWindow(252)">1Y</button>
-            <button class="toggle-btn" id="ydZscoreBtn504" data-tooltip="Zoom chart and slider to the trailing 2 years." onclick="setYDZscoreWindow(504)">2Y</button>
-            <button class="toggle-btn" id="ydZscoreBtn756" data-tooltip="Zoom chart and slider to the trailing 3 years." onclick="setYDZscoreWindow(756)">3Y</button>
-            <button class="toggle-btn" id="ydZscoreBtnAll" data-tooltip="Show full historical date range across visible products." onclick="setYDZscoreWindow('all')">All</button>
-          </div>
-        </div>
-        <div class="index-range-wrap" style="padding: 2px 0 6px;">
-          <div class="index-range-label">
-            <span>Range:</span>
-            <span id="ydZscoreRangeLabel">Loading…</span>
-          </div>
-          <div class="dual-range-track" id="ydZscoreRangeTrack">
-            <div class="dual-range-fill" id="ydZscoreRangeFill"></div>
-            <input type="range" id="ydZscoreRangeStart" data-tooltip="Drag to set the left (start) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="0" step="1">
-            <input type="range" id="ydZscoreRangeEnd" data-tooltip="Drag to set the right (end) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="100" step="1">
-          </div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyZscoreChart"></canvas></div>
-      </div>
-      
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Decade-Scale Benchmarks - yearly average closing rates. Tracks the slow-moving structural 'higher lows' characteristic of a tightening global fleet.">Multi-Year Rates (Annual Averages by Product) <span id="yearlyMultiRatesYearRange" class="badge" style="font-size:11px;font-weight:600;padding:2px 8px;border-radius:4px;background:rgba(88,166,255,0.12);color:#58a6ff;border:1px solid rgba(88,166,255,0.25);margin-left:6px;display:none;" data-tooltip="Active calendar year span across all visible product curves. Automatically rescales when products like BDI are toggled."></span></div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyMultiRatesChart"></canvas></div>
-      </div>
-      
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Seasonal Fingerprint - overlays current action against the last 3 clusters. Reveals if current freight pricing is leading or lagging its historical average.">Rates • Multi-Year Overlay</div>
-          <select id="ratesOverlayProduct" data-tooltip="Pick which freight benchmark to overlay on the long-term historical chart; choices map to series keys in the master cache.">
-            <option value="bdiy">Baltic Dry Index (BDI)</option>
-            <option value="bdry_spot">BDRY Spot Composite</option>
-            <option value="cape">Capesize</option>
-            <option value="panama">Panamax</option>
-            <option value="suprama">Supramax</option>
-            <option value="handysize">Handysize</option>
-            <option value="dirtytanker">Dirty Tanker (BDTI)</option>
-            <option value="cleantanker">Clean Tanker (BCTI)</option>
-            <option value="bdryff">BDRY Freight Futures (BDRYFF)</option>
-            <option value="bwetff">BWET Freight Futures (BWETFF)</option>
-          </select>
-        </div>
-        <div class="chart-canvas-wrap" style="height:320px"><canvas id="yearlyRatesChart"></canvas></div>
-      </div>
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Peak Retracement (52-Week Rolling, Last 5 Years) — each point shows how far the index sits below its rolling 1-year high on that date. Freight corrections of 30–50% after major spikes are historically normal; deeper or sustained drawdowns signal structural bear markets.">Drawdown % (52-Week Rolling, Last 5 Years)</div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyDrawdownChart"></canvas></div>
-      </div>
-    </div>
-
     <!-- ===== TAB: MONTHLY DASHBOARD ===== -->
 
     <!-- ===== TAB: QUARTERLY ===== -->
@@ -19707,7 +19709,6 @@ if (intelTabsContainer) {
 
     window.TAB_LOADERS = {
       'dashboard': null,
-      'yearly-dash': null,
       'seasonality': null,
       'indices': null,
       'etfs': loadEtfsData,
@@ -19722,7 +19723,6 @@ if (intelTabsContainer) {
 
     window.TAB_LOADED = {
       'dashboard': true,
-      'yearly-dash': true,
       'seasonality': true,
       'indices': true
     };
@@ -20352,6 +20352,7 @@ function buildMaster() {
         function () { renderMacroCyclesTable(productKey, 'macroCyclesTable', 'macroCyclesDlBtn'); },
         function () { renderCorrMatrix(currentCorrTimeframe); },
         function () { renderRecentChanges(productKey); },
+        function () { renderYearlyDash(productKey); },
       ];
       // Synchronous Batch 1 (0ms latency), Batch 2 in RAF
       for (let i = 0; i < 2 && i < dashCharts.length; i++) {
@@ -24643,10 +24644,14 @@ function buildMaster() {
 
     async function switchTab(tabId) {
       window.switchTab = switchTab;
+      // The Yearly tab was folded into the Dashboard; keep old links working.
+      var _scrollToHistory = false;
+      if (tabId === 'yearly-dash') { tabId = 'dashboard'; _scrollToHistory = true; }
       document.querySelectorAll('.tab-btn').forEach(b => b.classList.toggle('active', b.dataset.tab === tabId));
       document.querySelectorAll('.tab-panel').forEach(p => p.classList.toggle('active', p.id === `tab-${tabId}`));
       currentTab = tabId;
       window.currentTab = currentTab;
+      if (document.body) document.body.setAttribute('data-tab', tabId);
       // Hide alert bar on non-dashboard tabs
       const alertsEl = document.getElementById('alertsContainer');
       if (alertsEl) alertsEl.style.display = tabId === 'dashboard' ? '' : 'none';
@@ -24673,7 +24678,13 @@ function buildMaster() {
         }
       }
 
-      if (tabId === 'dashboard') renderDashboard(currentProduct);
+      if (tabId === 'dashboard') {
+        renderDashboard(currentProduct);
+        if (_scrollToHistory) {
+          var _fh = document.getElementById('yearlyHistChart');
+          if (_fh && _fh.scrollIntoView) setTimeout(function () { _fh.scrollIntoView({ block: 'center' }); }, 50);
+        }
+      }
       if (tabId === 'seasonality') withDeepHistory(currentProduct, function () {
         renderQuarterlyTab(currentProduct); renderMonthlyDash(currentProduct); renderHeatmaps(currentProduct);
       });
@@ -24690,7 +24701,6 @@ function buildMaster() {
           } catch (e) { console.error('[ETFTab Engine]', e); }
         }
       }
-      if (tabId === 'yearly-dash') withDeepHistory(currentProduct, function () { renderYearlyDash(currentProduct); });
       if (tabId === 'signals') {
         if (typeof window.closeFFAContractHistory === 'function') window.closeFFAContractHistory();
         renderSignalsTab(currentProduct);
@@ -25243,7 +25253,6 @@ function buildMaster() {
       if (currentTab === 'seasonality') withDeepHistory(currentProduct, function () {
         renderQuarterlyTab(currentProduct); renderMonthlyDash(currentProduct); renderHeatmaps(currentProduct);
       });
-      if (currentTab === 'yearly-dash') withDeepHistory(currentProduct, function () { renderYearlyDash(currentProduct); });
       if (currentTab === 'signals') renderSignalsTab(currentProduct);
       if (currentTab === 'intelligence') renderIntelligenceTab();
       if (currentTab === 'etfs') {
@@ -25252,9 +25261,6 @@ function buildMaster() {
       }
     });
 
-    document.getElementById('ratesOverlayProduct').addEventListener('change', function () {
-      if (DATA.loaded && currentTab === 'yearly-dash') renderYDRatesOverlay('yearlyRatesChart');
-    });
 
     // =====================================================================
     // BOOTSTRAP
@@ -25530,39 +25536,37 @@ function buildMaster() {
     }
     window.setSeasonGranularity = setSeasonGranularity;
 
+    // The former Yearly tab now lives on the Dashboard: the full-history price
+    // chart renders with the Dashboard, the cross-benchmark pair only once its
+    // collapsible is opened (the rolling z-score matrix over every product is
+    // the single most expensive build on the page, so it stays off boot).
     function renderYearlyDash(productKey) {
       _ydHistProductKey = productKey;
-      var fns = [
-        function () { renderYDKpi(productKey); },
-        function () { initYDHistChart(productKey); },
-        function () { renderYDZscore(productKey, _ydZscoreAllTime === true, 'yearlyZscoreChart'); },
-        function () { renderYDMultiRates('yearlyMultiRatesChart'); },
-        function () { renderYDRatesOverlay('yearlyRatesChart'); },
-        function () { renderYDDrawdown(productKey, 'yearlyDrawdownChart'); },
-      ];
-      // Synchronous Batch 1 (0ms latency): KPI + history chart paint first.
-      for (let i = 0; i < 2 && i < fns.length; i++) {
-        try { fns[i](); } catch (e) { console.error('[YearlyDash]', e); }
-      }
-      // PHASE SPEED progressive render: fns[2..3] own the first-visit rolling
-      // z-score builds (the 252-day matrix over every product, ~250ms on first
-      // paint) and fns[4..] the multi-rates/overlay set. KPI + history chart
-      // are already on screen by now, so the heavy builds run on the NEXT two
-      // frames instead of blocking this tab's first paint. Same compute, same
-      // charts, same order - just off the critical path; on revisit the
-      // z-score cache answers instantly.
-      const rafAll = window.requestAnimationFrame || function (cb) { setTimeout(cb, 16); };
-      rafAll(function () {
-        for (let i = 2; i < 4 && i < fns.length; i++) {
-          try { fns[i](); } catch (e) { console.error('[YearlyDash]', e); }
-        }
-        rafAll(function () {
-          for (let i = 4; i < fns.length; i++) {
-            try { fns[i](); } catch (e) { console.error('[YearlyDash]', e); }
-          }
-        });
-      });
+      try { initYDHistChart(productKey); } catch (e) { console.error('[FullHistory]', e); }
+      var cb = document.getElementById('crossBenchContent');
+      if (cb && cb.classList.contains('open')) renderCrossBench(productKey);
     }
+    window.renderYearlyDash = renderYearlyDash;
+
+    function renderCrossBench(productKey) {
+      productKey = productKey || window.currentProduct || 'bdiy';
+      try { renderYDZscore(productKey, _ydZscoreAllTime === true, 'yearlyZscoreChart'); } catch (e) { console.error('[CrossBench z]', e); }
+      try { renderYDMultiRates('yearlyMultiRatesChart'); } catch (e) { console.error('[CrossBench annual]', e); }
+    }
+
+    function toggleCrossBench() {
+      var btn = document.getElementById('crossBenchToggle');
+      var content = document.getElementById('crossBenchContent');
+      if (!btn || !content) return;
+      btn.classList.toggle('open');
+      content.classList.toggle('open');
+      if (content.classList.contains('open')) {
+        (window.requestAnimationFrame || function (cb) { setTimeout(cb, 16); })(function () {
+          renderCrossBench(window.currentProduct);
+        });
+      }
+    }
+    window.toggleCrossBench = toggleCrossBench;
 
     function setYDHistAvg(w) {
       window.setYDHistAvg = setYDHistAvg;
@@ -25582,7 +25586,9 @@ function buildMaster() {
 
     function setYDHistRange(productKey) {
       const allRows = getRows(productKey);
-      initDualRangeSlider('ydHistRange', allRows, function (s, e) {
+      // initDualRangeSlider calls back with (isManual, s, e); reading it as
+      // (s, e) made the label print '-> 1985-01' for a 1985->2026 window.
+      initDualRangeSlider('ydHistRange', allRows, function (_manual, s, e) {
         // Update label (specific to Indices tab: YYYY-MM)
         var labelEl = document.getElementById('ydHistRangeLabel');
         if (labelEl) {
@@ -25750,7 +25756,16 @@ function buildMaster() {
     var _ydZscoreProductKey = null; // cached so setYDZscoreWindow can re-render
     var _ydZscoreCache = {};        // lazy cache keyed by windowSize - computed once per window, reused forever
     var _ydZscoreActivePreset = '1Y';
-    var _ydZscoreHiddenMap = {};
+    // Default to the seven Baltic benchmarks. With all 22 products drawn the
+    // chart was an unreadable band of lines; the equity, futures and gas
+    // series are still one legend click away.
+    var CROSS_BENCH_CORE = { bdiy: 1, cape: 1, panama: 1, suprama: 1, handysize: 1, dirtytanker: 1, cleantanker: 1 };
+    function crossBenchDefaultHidden() {
+      var m = {};
+      Object.keys(PRODUCTS).forEach(function (k) { if (!CROSS_BENCH_CORE[k]) m[PRODUCTS[k].label] = true; });
+      return m;
+    }
+    var _ydZscoreHiddenMap = null;
 
     var _ydZscoreWindowLabels = {
       63: '3M',
@@ -25838,13 +25853,14 @@ function buildMaster() {
       if (!masterLabels || !masterLabels.length) return;
 
       // Preserve hidden state from existing chart
+      if (!_ydZscoreHiddenMap) _ydZscoreHiddenMap = crossBenchDefaultHidden();
       var prevChart = chartRegistry[canvasId];
       if (prevChart && prevChart.data && prevChart.data.datasets) {
         prevChart.data.datasets.forEach(function (ds, i) {
           _ydZscoreHiddenMap[ds.label] = !prevChart.isDatasetVisible(i);
         });
       }
-      var hiddenByLabel = _ydZscoreHiddenMap || {};
+      var hiddenByLabel = _ydZscoreHiddenMap || (_ydZscoreHiddenMap = crossBenchDefaultHidden());
 
       var visibleKeys = PRODUCT_KEYS.filter(function (key) {
         var prod = PRODUCTS[key];
@@ -25979,7 +25995,7 @@ function buildMaster() {
       var slicedSet = {};
       slicedLabels.forEach(function (l) { slicedSet[l] = true; });
 
-      var hiddenByLabel = _ydZscoreHiddenMap || {};
+      var hiddenByLabel = _ydZscoreHiddenMap || (_ydZscoreHiddenMap = crossBenchDefaultHidden());
 
       // Build full-resolution aligned data per product first
       var fullDatasets = PRODUCT_KEYS.map(function (key) {
@@ -26143,13 +26159,17 @@ function buildMaster() {
         });
       });
 
-      // Preserve hidden state from previous chart instance (legend clicks)
+      // Preserve hidden state from previous chart instance (legend clicks);
+      // first draw shows the Baltic core set (annual averages of equity and
+      // air-freight indices sit on a 5x larger scale and flattened the rest).
       var hiddenByLabel = {};
       var prevChart = chartRegistry[canvasId];
       if (prevChart && prevChart.data && prevChart.data.datasets) {
         prevChart.data.datasets.forEach(function (ds, i) {
           hiddenByLabel[ds.label] = !prevChart.isDatasetVisible(i);
         });
+      } else {
+        hiddenByLabel = crossBenchDefaultHidden();
       }
 
       // Helper to compute active continuous year range from all visible datasets
@@ -34315,7 +34335,11 @@ function renderSignalsTab(productKey) {
 
         if (document.getElementById('bbRangeStart')) initBBRange(productKey);
         if (document.getElementById('basisRangeStart')) initBasisRange();
-        if (document.getElementById('bdiContribRangeStart')) initBDIContribRange();
+        // Apply the highlighted 3M/6M/1Y preset on first paint (a bare init
+        // opened on all 18 years of daily bars under a lit 3M button).
+        var _bcs = document.getElementById('bdiContribRangeStart');
+        if (_bcs && !_bcs._presetApplied) { _bcs._presetApplied = true; setBDIContribWindow(_bdiContribWindow || '3m'); }
+        else if (_bcs) initBDIContribRange();
         if (document.getElementById('hvRangeStart')) initHVRange(productKey);
         if (dead()) return;
 
@@ -34363,6 +34387,8 @@ function renderSignalsTab(productKey) {
         else cutoff.setFullYear(2000);
         let sIdx = rows.findIndex(function (r) { return r.date >= cutoff; });
         if (sIdx === -1 || w === 'all') sIdx = 0;
+        startEl._allRows = null;            // let the preset beat the remembered window
+        startEl.max = endEl.max = rows.length - 1;
         startEl.value = sIdx;
         endEl.value = rows.length - 1;
         initHVRange(_currentHVProduct);
@@ -34571,6 +34597,9 @@ function renderSignalsTab(productKey) {
 
         let sIdx = allRows.findIndex(r => r.date >= cutoff);
         if (sIdx === -1) sIdx = 0;
+        startEl._allRows = null;            // let the preset beat the remembered window
+        startEl._bbInited = true;
+        startEl.max = endEl.max = allRows.length - 1;
         startEl.value = sIdx;
         endEl.value = allRows.length - 1;
         initBBRange(_currentBBProduct);
@@ -34582,6 +34611,20 @@ function renderSignalsTab(productKey) {
     var _currentBBProduct = 'bdiy';
 
     function initBBRange(productKey) {
+      var bbStart = document.getElementById('bbRangeStart');
+      var firstBB = bbStart && !bbStart._bbInited;
+      if (firstBB) {
+        // Open on the 1Y window the active button advertises; Bollinger bands
+        // over 40 years of daily data are unreadable.
+        var bbRows = getRows(productKey), bbEnd = document.getElementById('bbRangeEnd');
+        var cut = new Date(); cut.setFullYear(cut.getFullYear() - 1);
+        var si = bbRows.findIndex(function (r) { return r.date >= cut; });
+        bbStart._bbInited = true;
+        bbStart._allRows = null;
+        bbStart.max = bbEnd.max = Math.max(0, bbRows.length - 1);
+        bbStart.value = si < 0 ? 0 : si;
+        bbEnd.value = bbRows.length - 1;
+      }
       initDualRangeSlider('bbRange', getRows(productKey), () => renderBollingerBands(productKey));
     }
 
@@ -37996,6 +38039,11 @@ function renderSignalsTab(productKey) {
 
         let sIdx = rows.findIndex(r => r.date >= cutoff);
         if (sIdx === -1) sIdx = 0;
+        // Widen the inputs before assigning (the HTML default max is 100, which
+        // clamped sIdx), and drop the slider's remembered window so the preset
+        // wins; otherwise the 3M button lit up over an 18-year chart.
+        startEl._allRows = null;
+        startEl.max = endEl.max = rows.length - 1;
         startEl.value = sIdx;
         endEl.value = rows.length - 1;
         initBDIContribRange();
@@ -44176,7 +44224,7 @@ window.refreshVisibleCharts = window.refreshVisibleCharts || function refreshVis
     var renders = {
       dashboard: ['renderDashboard', true], seasonality: ['renderQuarterlyTab', true],
       indices: ['renderIndicesTab', true], etfs: ['renderETFTab', true],
-      'yearly-dash': ['renderYearlyDash', true], signals: ['renderSignalsTab', true],
+      signals: ['renderSignalsTab', true],
       fearnleys: ['renderFearnleysTab', true], intelligence: ['renderIntelligenceTab', true],
       tracking: ['renderTrackingTab', false], cargo: ['renderCargoTab', true], bunkers: ['renderBunkersTab', true],
       offshore: ['renderOffshoreTab', true]
@@ -44191,7 +44239,7 @@ window.refreshVisibleCharts = window.refreshVisibleCharts || function refreshVis
     if (!fn) return;
     if (chartsOnly) return;
     try {
-      if (active === 'dashboard' || active === 'seasonality' || active === 'yearly-dash' || active === 'signals') fn(window.currentProduct);
+      if (active === 'dashboard' || active === 'seasonality' || active === 'signals') fn(window.currentProduct);
       else fn();
     } catch (err) { console.error('[refreshVisibleCharts ' + active + ']', err); }
   };

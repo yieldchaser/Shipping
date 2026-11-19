@@ -2,7 +2,7 @@
 """
 tests/test_ui_tabs.py
 =====================
-Playwright End-to-End Proof Suite across all 12 tabs and sub-views.
+Playwright End-to-End Proof Suite across all 11 tabs and sub-views.
 
 Validates:
 1. Q-002: test_no_console_errors (pageerror, console.error, [stale-guard] warning; baseline: 5 tabs failing)
@@ -31,7 +31,6 @@ ALLOWLIST_PATH = REPO_ROOT / "data" / "reference" / "ui_test_allowlist.json"
 
 TABS = [
     ("dashboard", "tab-dashboard"),
-    ("yearly-dash", "tab-yearly-dash"),
     ("seasonality", "tab-seasonality"),
     ("indices", "tab-indices"),
     ("etfs", "tab-etfs"),
@@ -66,7 +65,7 @@ ALL_CAPS_PILLS = [
 
 @pytest.fixture(scope="module")
 def tab_audit_data(web_server):
-    """Mounts all 12 tabs and subviews using the required mount helper and audits DOM state."""
+    """Mounts all 11 tabs and subviews using the required mount helper and audits DOM state."""
     results = {
         "boot_transfer_mb": 0.0,
         "cumulative_transfer_mb": 0.0,
@@ -157,7 +156,7 @@ def tab_audit_data(web_server):
         results["tab_layout"]["nav_1920"] = tab_nav_1920
         results["tab_layout"]["nav_1366"] = tab_nav_1366
 
-        # 3. Mount helper across all 12 tabs
+        # 3. Mount helper across all 11 tabs
         for tab_id, panel_id in TABS:
             logs_before = len(console_entries)
             errs_before = len(page_errors)
@@ -829,7 +828,9 @@ def test_yearly_and_seasonality_use_deep_history(web_server):
         try:
             page.goto(f"{web_server}/index.html", wait_until="networkidle")
             page.wait_for_timeout(5000)
-            page.evaluate("""() => { const b = document.querySelector('button[data-tab=\"yearly-dash\"]'); if (b) b.click(); }""")
+            # The Yearly tab was folded into the Dashboard; its full-history
+            # price chart now renders there.
+            page.evaluate("""() => { const b = document.querySelector('button[data-tab=\"dashboard\"]'); if (b) b.click(); }""")
             page.wait_for_timeout(7000)
             for _ in range(4):
                 page.mouse.wheel(0, 1000)
@@ -843,7 +844,7 @@ def test_yearly_and_seasonality_use_deep_history(web_server):
                 return {first: String(labs[0]), n: labs.length,
                         masterYears: (window.DATA && DATA.master) ? DATA.master.length : 0};
             }""")
-            assert hist, "yearlyHistChart must exist on the Yearly tab"
+            assert hist, "yearlyHistChart (Full-History Price) must exist on the Dashboard"
             first_year = int(str(hist["first"])[:4])
             assert first_year <= 2010, (
                 f"the historical price chart must open on the full series; it starts {hist['first']} "
@@ -1492,9 +1493,10 @@ def test_cargo_flagship_units_guinea_volume_only_and_eia_has_data(web_server):
                 }""")
 
             c3 = hud("brazil_c3")
-            assert c3["rate"] == f"${last(fp['brazil_c3'])[1]} / MT" and c3["n"] == 2, c3
+            # The tile names the month it averages, e.g. "$35.94 / MT (Nov 2026)".
+            assert c3["rate"].startswith(f"${last(fp['brazil_c3'])[1]} / MT") and c3["n"] == 2, c3
             usg = hud("usg_grain")
-            assert usg["rate"] == f"${last(fp['usg_grain'])[1]}k / day" and usg["n"] == 2, usg
+            assert usg["rate"].startswith(f"${last(fp['usg_grain'])[1]}k / day") and usg["n"] == 2, usg
             gn = hud("guinea_cape")
             assert gn["rate"] == "No matching route" and gn["code"] == "—" and gn["n"] == 1, gn
 

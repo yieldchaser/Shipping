@@ -87,10 +87,9 @@ def run_regression_and_design():
         print(f"Boot metrics: {results['metrics']}")
 
         # 2. Phase 8.4: Tab Switching Sweep
-        # 12 tabs: 7 untouched + 5 modified/reviewed
+        # 11 tabs (Yearly folded into Dashboard)
         tabs_to_test = [
             ("DASHBOARD", "dashboard", "tab-dashboard"),
-            ("YEARLY", "yearly-dash", "tab-yearly-dash"),
             ("SEASONALITY", "seasonality", "tab-seasonality"),
             ("INDICES", "indices", "tab-indices"),
             ("ETFS", "etfs", "tab-etfs"),
