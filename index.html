@@ -15981,7 +15981,7 @@ if (intelTabsContainer) {
           </div>
         </div>
         <div style="display:flex;align-items:center;gap:8px;">
-          <span class="badge" data-tt-type="cargo-generic-card" data-tt-title="Commercial Charter Fixtures Ledger" data-tt-val="Fixture count on the matrix badge" data-tt-sub="2018–2026 Continuous Record" data-tt-vessel="Capesize, Panamax, Supramax, Handysize, Tanker &amp; Gas" data-tt-source="Fearnleys Broker Fixture Archive" data-tt-note="Global fixture database capturing commercial charter party transactions across major dry bulk, liquid tanker, LPG and LNG segments with multi-field taxonomy." style="font-size:11px;padding:3px 8px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);cursor:help;">547k Commercial Fixtures</span>
+          <span class="badge" data-tt-type="cargo-generic-card" data-tt-title="Commercial Charter Fixtures Ledger" data-tt-val="Fixture count on the matrix badge" data-tt-sub="2018–2026 Continuous Record" data-tt-vessel="Capesize, Panamax, Supramax, Handysize, Tanker &amp; Gas" data-tt-source="Fearnleys Broker Fixture Archive" data-tt-note="Global fixture database capturing commercial charter party transactions across major dry bulk, liquid tanker, LPG and LNG segments with multi-field taxonomy." style="font-size:11px;padding:3px 8px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);cursor:help;" id="cargoFixtureCountBadge">Commercial Fixtures</span>
           <span class="badge" data-tt-type="cargo-generic-card" data-tt-title="Global Arterial Trade Corridors" data-tt-val="14 Core Maritime Routes" data-tt-sub="Cross-Basin Cargo Networks" data-tt-vessel="Capesize, Panamax, Supramax" data-tt-source="AIS Tracking &amp; Customs Port Pairs" data-tt-note="Normalized bilateral shipping lanes linking primary loading basins (Pilbara, Tubarao, Santos, US Gulf, Newcastle, Kalimantan, Boke) with key Asian and Atlantic discharge hubs." style="font-size:11px;padding:3px 8px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);cursor:help;">14 Trade Corridors</span>
         </div>
       </div>
@@ -16071,7 +16071,7 @@ if (intelTabsContainer) {
               <div id="flagshipHudVol" style="font-size:13px;font-weight:700;color:#3fb950;">—</div>
             </div>
             <div id="flagshipRateTile" data-tt-type="cargo-generic-card" data-tt-title="Benchmark Freight Assessment" data-tt-val="Market Clearing Settlement Rate" data-tt-sub="Baltic Exchange Index or Spot Assessment" data-tt-vessel="Standardized Specification DWT" data-tt-source="Baltic Exchange &amp; Fearnleys Intelligence" data-tt-note="Continuous settlement benchmark used for freight derivatives (FFA) and commercial charter party settlements." style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;cursor:help;">
-              <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Baltic Route Spot Rate</div>
+              <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Route Rate (Latest Monthly Avg)</div>
               <div id="flagshipHudRate" style="font-size:13px;font-weight:700;color:#e3b341;">—</div>
             </div>
             <div id="flagshipTsidTile" data-tt-type="cargo-generic-card" data-tt-title="Time-Series Curve Identifier (TSID)" data-tt-val="Baltic Standard Curve ID" data-tt-sub="Deterministic Index Code" data-tt-vessel="Official Baltic Specification" data-tt-source="Baltic Exchange Market Data" data-tt-note="Unique system identifier for the underlying daily route curve, guaranteeing exact auditability with official Baltic market feeds." style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;cursor:help;">
@@ -32397,7 +32397,8 @@ function renderFearnleysSnpTable() {
 
       if (volEl) volEl.textContent = lastVol != null ? fmtVol + ' ' + pairData.volume_unit + '/mo' + volSuffix : '—';
       if (rateEl) {
-        rateEl.textContent = hasFreight ? fmtRate(lastRate) : 'No matching route';
+        var lastRateMonth = lastRateIdx !== -1 && pairData.months ? pairData.months[lastRateIdx] : null;
+        rateEl.textContent = hasFreight ? fmtRate(lastRate) + (lastRateMonth ? ' (' + formatMonthLabel(lastRateMonth) + ')' : '') : 'No matching route';
         var rateTile = document.getElementById('flagshipRateTile') || rateEl.parentElement;
         if (rateTile) rateTile.style.display = hasFreight ? '' : 'none';
       }
@@ -32421,9 +32422,13 @@ function renderFearnleysSnpTable() {
         }
       }
       if (provEl) {
-        provEl.textContent = (pairData.provenance && pairData.provenance.publisher)
-          ? ('Source: ' + pairData.provenance.publisher + ' · Direct Customs & Continuous Route Benchmarks · 2023–2026 · Mt/mo & USD/MT')
-          : 'MDIC / Baltic Exchange · Direct Customs & Continuous Route Benchmarks · 2023–2026 · Mt/mo & USD/MT';
+        // Built from the pair's own provenance; this used to be a fixed
+        // "MDIC / Baltic Exchange · 2023–2026" string on every corridor.
+        var pv = pairData.provenance || {};
+        var srcParts = [pv.volume_source, pv.freight_source].filter(Boolean);
+        var unitParts = [pairData.volume_unit ? pairData.volume_unit + '/mo' : null, pairData.freight_unit].filter(Boolean);
+        provEl.textContent = (srcParts.length ? srcParts.join(' + ') : 'Customs & route benchmarks') +
+          (pv.span ? ' · ' + pv.span : '') + (unitParts.length ? ' · ' + unitParts.join(' & ') : '');
       }
       if (badgeEl) {
         badgeEl.textContent = 'LIVE';
@@ -34221,6 +34226,8 @@ function renderFearnleysSnpTable() {
       var fixSub = document.getElementById('cargoHudFixturesSub');
       var meta = (cfm && cfm.metadata) || {};
       var totFix = meta.total_fixtures, classFix = meta.classified_fixtures, unclassPct = meta.unclassified_pct;
+      var fixBadge = document.getElementById('cargoFixtureCountBadge');
+      if (fixBadge && totFix) fixBadge.textContent = (totFix / 1000).toFixed(0) + 'k Commercial Fixtures';
       if (totFix && classFix && unclassPct != null) {
         if (fixEl) fixEl.textContent = (classFix / 1000).toFixed(0) + 'k Classified (' + (100 - unclassPct).toFixed(1) + '%)';
         if (fixSub) fixSub.textContent = (totFix / 1000).toFixed(0) + 'k Fixtures | ' + ((totFix - classFix) / 1000).toFixed(0) + 'k Unclassified (' + unclassPct.toFixed(1) + '%)';
@@ -34244,10 +34251,13 @@ function renderFearnleysSnpTable() {
       if (spreadEl && c3 && c5) {
         var sp = c3.v - c5.v;
         spreadEl.textContent = (sp >= 0 ? '+$' : '-$') + Math.abs(sp).toFixed(2) + ' / MT';
-        if (spreadSub) spreadSub.textContent = 'C3: $' + c3.v.toFixed(2) + '/t | C5: $' + c5.v.toFixed(2) + '/t (' + (c3.m || '2026-09') + ' MTD average)';
+        var nowYm = new Date().toISOString().slice(0, 7);
+        var avgLbl = c3.m === nowYm ? ' month-to-date average)' : ' monthly average)';
+        if (spreadSub) spreadSub.textContent = 'C3: $' + c3.v.toFixed(2) + '/t | C5: $' + c5.v.toFixed(2) + '/t (' + (c3.m || '') + avgLbl;
       } else if (spreadEl) {
-        spreadEl.textContent = '+$24.10 / MT';
-        if (spreadSub) spreadSub.textContent = 'C3: $41.48/t | C5: $17.38/t (2026-09 MTD average)';
+        // No data: say so. This used to print a hard-coded +$24.10 spread.
+        spreadEl.textContent = '\u2014';
+        if (spreadSub) spreadSub.textContent = 'C3 / C5 route averages unavailable';
       }
     }
 

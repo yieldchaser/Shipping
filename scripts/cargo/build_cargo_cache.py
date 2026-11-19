@@ -1505,9 +1505,17 @@ def load_commodity_flow_matrix():
 
 
 def build_flagship_pair(title, origin, dest, route_code, vol_dict, rate_dict, vol_label, vol_unit,
-                        freight_label, freight_unit, prov_dict, min_ym=None, max_ym="2026-09",
+                        freight_label, freight_unit, prov_dict, min_ym=None, max_ym=None,
                         rate_scale=1.0, freight_note=None):
-    """Builds a single flagship origin-to-freight corridor without artificial truncation."""
+    """Builds a single flagship origin-to-freight corridor without artificial truncation.
+
+    max_ym defaults to the current UTC month. It used to default to a literal
+    "2026-09", which froze every flagship chart (and the Cargo HUD's C3/C5
+    tiles, which read the same arrays) at September while the volume and
+    route inputs kept updating underneath.
+    """
+    if max_ym is None:
+        max_ym = datetime.now(timezone.utc).strftime("%Y-%m")
     all_months = set(vol_dict.keys())
     if rate_dict:
         all_months = all_months.union(rate_dict.keys())

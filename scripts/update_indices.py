@@ -596,6 +596,14 @@ def update_amplify_csv(filename, new_data):
         combined = new_data
 
     combined = combined.dropna(subset=['Rate Date']).drop_duplicates(subset=['Rate Date'], keep='last')
+    # A premium/discount print can never be dated in the future. Six BWET rows
+    # once arrived month/day-swapped (2026-01-12 stored as 2026-12-01 ...),
+    # which stretched every P/D chart's x-axis three weeks past today.
+    future = combined['Rate Date'] > pd.Timestamp(date.today()) + pd.Timedelta(days=1)
+    if future.any():
+        print(f"{filename}: dropping {int(future.sum())} future-dated row(s): "
+              f"{combined.loc[future, 'Rate Date'].dt.strftime('%Y-%m-%d').tolist()}")
+        combined = combined[~future]
     combined = combined.sort_values('Rate Date')
     before = len(existing) if os.path.exists(filename) else 0
     added = len(combined) - before
