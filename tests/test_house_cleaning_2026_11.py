@@ -116,3 +116,17 @@ def test_cargo_flagship_pairs_not_frozen():
     assert months[-1] > "2026-09", f"flagship corridor still stops at {months[-1]}"
     src = (ROOT / "scripts" / "cargo" / "build_cargo_cache.py").read_text()
     assert 'max_ym="2026-09"' not in src
+
+
+def test_monthly_series_never_mix_units():
+    """A route whose source switched TCE -> WS/USD in 2023-05 must not keep one
+    key across both units (VLCC MEG/FEAST read 23,679 then 47.36 as 'tce')."""
+    d = json.loads((ROOT / "data" / "derived" / "fearnleys_series_monthly.json").read_text())
+    L = d["labels"]
+    ws = L["TANK_VLCC_MEG_FEAST"]
+    tce = L["TANK_VLCC_MEG_FEAST_TCE"]
+    assert ws["unit"] == "ws" and tce["unit"] == "tce"
+    assert tce["last"] <= "2023-04" and tce["twin_of"] == "TANK_VLCC_MEG_FEAST"
+    # no WS-sized value inside a TCE series and vice versa
+    assert min(v for _, v in tce["m"] if v) > 1000
+    assert max(v for _, v in ws["m"]) < 5000

@@ -121,7 +121,7 @@ def load_monthly_twins(path=MONTHLY):
         return {}
     return {(v.get("subtype"), v.get("route")): k
             for k, v in mon.get("labels", {}).items()
-            if v.get("type") == "TANK"}
+            if v.get("type") == "TANK" and not v.get("twin_of")}
 
 
 def load_rows(src):

@@ -14167,6 +14167,38 @@ html.auth-locked body > *:not(#authGateModal) {
           </div>
           <div class="chart-canvas-wrap" style="height:380px"><canvas id="timeCharterChart"></canvas></div>
         </div>
+        <!-- Spot momentum vs spot/TC regime (moved from S&P & Assets) -->
+          <div class="chart-container mb-20" id="marketCycleQuadrantContainer">
+            <div class="chart-header">
+              <div class="chart-title" id="quadrantChartTitle" data-tooltip="Shipping Cycle Quadrant — 4-phase shipping cycle model plotting spot rate momentum (60D ROC) against Spot/TC ratio Z-score. Classifies the market into: 1) Recovery, 2) Boom, 3) Over-ordering / Distribution, and 4) Restructuring." data-tt-type="concept-quadrant">Shipping Market Cycle Quadrant</div>
+              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                <div id="quadrantGroupToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn active" id="quadGrpDry" onclick="setQuadrantGroup('dry')" data-tooltip=" " data-tt-type="concept-quad-grp" data-tt-grp="dry" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Dry Bulk</button>
+                  <button class="toggle-btn" id="quadGrpCrude" onclick="setQuadrantGroup('crude')" data-tooltip=" " data-tt-type="concept-quad-grp" data-tt-grp="crude" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Crude Tankers</button>
+                  <button class="toggle-btn" id="quadGrpProduct" onclick="setQuadrantGroup('product')" data-tooltip=" " data-tt-type="concept-quad-grp" data-tt-grp="product" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Product Tankers</button>
+                  <button class="toggle-btn" id="quadGrpAll" onclick="setQuadrantGroup('all')" data-tooltip=" " data-tt-type="concept-quad-grp" data-tt-grp="all" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Fleet Overview</button>
+                </div>
+              </div>
+            </div>
+            <div style="display:flex;flex-wrap:wrap;gap:16px;align-items:stretch;">
+              <div class="chart-canvas-wrap" style="height:360px;flex:1;min-width:300px;"><canvas id="marketCycleQuadrantChart"></canvas></div>
+              <div id="quadrantLegendCard" style="flex:0 0 280px;padding:16px;background:var(--hover);border:1px solid var(--border);border-radius:6px;font-size:12px;color:var(--text-muted);display:flex;flex-direction:column;justify-content:space-between;">
+                <div>
+                  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">
+                    <span style="font-weight:600;color:var(--text);font-size:13px;">Cycle Phase Analysis</span>
+                    <span id="quadrantRegimeCounterBadge" style="padding:2px 6px;border-radius:3px;font-size:var(--fs-micro);font-weight:600;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Regime Active</span>
+                  </div>
+                  <div id="quadrantPhaseText" style="font-weight:700;font-size:14px;color:var(--accent);margin-bottom:8px;"></div>
+                  <div id="quadrantDaysCounterWrap" style="background:var(--bg);border:1px solid var(--border);border-radius:4px;padding:8px 10px;margin-bottom:8px;">
+                    <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.3px;">Days in Active Regime</div>
+                    <div id="quadrantDaysCounterVal" style="font-size:13px;font-weight:700;color:var(--text-bright);margin-top:2px;"></div>
+                    <div id="quadrantMedianDurationVal" style="font-size:11px;color:var(--text-muted);margin-top:2px;">10Y Historical Median: —</div>
+                  </div>
+                </div>
+                <div id="quadrantPhaseDesc" style="margin-top:8px;line-height:1.4;border-top:1px solid var(--border);padding-top:8px;">Recovery phase: Spot starting to lift relative to term. Accumulation window.</div>
+              </div>
+            </div>
+          </div>
 
         <!-- SECONDARY: PERIOD TC TERM STRUCTURE CURVES -->
         <div class="chart-container mb-20">
@@ -14217,6 +14249,59 @@ html.auth-locked body > *:not(#authGateModal) {
             </div>
             <div id="tceMatrixTableWrap" style="overflow-x:auto;margin-top:10px;"></div>
             <div id="tceRowDrilldownWrap" style="display:none;margin-top:12px;padding:12px 16px;background:rgba(22,27,34,0.7);border:1px solid var(--border);border-radius:6px;font-size:12px;"></div>
+          </div>
+        <!-- Atlantic vs Pacific period TC (moved from Dry Routes: it is a TC analytic) -->
+          <div class="chart-container mb-20" id="basinSpreadContainer">
+            <div class="chart-header">
+              <div class="chart-title" id="basinSpreadTitle" data-tooltip="Atlantic vs Pacific time-charter spread — positive = Atlantic premium, drives ballast repositioning." data-tt-type="concept-basinspread">Tonnage Basin Arbitrage (Atlantic vs Pacific TC)</div>
+              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                <div id="basinSectorToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn active" id="basinSecCape" onclick="setBasinSector('cape')" data-tooltip="Capesize 180k DWT Atlantic vs Pacific Period Charter Arbitrage" data-tt-type="concept-basin-sector" data-tt-sector="cape" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Capesize</button>
+                  <button class="toggle-btn" id="basinSecPanama" onclick="setBasinSector('panama')" data-tooltip="Panamax 82k DWT Atlantic vs Pacific Period Charter Arbitrage" data-tt-type="concept-basin-sector" data-tt-sector="panama" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Panamax</button>
+                  <button class="toggle-btn" id="basinSecSuprama" onclick="setBasinSector('suprama')" data-tooltip="Supramax 58k DWT Atlantic vs Pacific Period Charter Arbitrage" data-tt-type="concept-basin-sector" data-tt-sector="suprama" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Supramax</button>
+                  <button class="toggle-btn" id="basinSecHandy" onclick="setBasinSector('handysize')" data-tooltip="Handysize 38k DWT Atlantic vs Pacific Period Charter Arbitrage" data-tt-type="concept-basin-sector" data-tt-sector="handysize" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Handysize</button>
+                  <button class="toggle-btn" id="basinSecAll" onclick="setBasinSector('all')" data-tooltip="All Dry Bulk sectors comparative basin arbitrage overlay" data-tt-type="concept-basin-sector" data-tt-sector="all" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Dry Sectors</button>
+                </div>
+                <div id="basinTenorToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn" id="basinTenor4_6m" onclick="setBasinTenor('4_6m')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="4_6m" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;">4/6M</button>
+                  <button class="toggle-btn active" id="basinTenor1y" onclick="setBasinTenor('1y')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="1y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1Y</button>
+                  <button class="toggle-btn" id="basinTenor2y" onclick="setBasinTenor('2y')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="2y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">2Y</button>
+                </div>
+                <div id="basinRatioBadge" class="kpi-badge" data-tooltip="Atlantic-to-Pacific Period Rate Ratio (>1.2 = Atlantic Premium / Tonnage Demand; <0.8 = Pacific Premium)">Atl/Pac: —</div>
+              </div>
+            </div>
+            <!-- Basin Arbitrage HUD bar -->
+            <div id="basinHudStrip" style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
+              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:120px;" data-tooltip="Net Atlantic minus Pacific Time Charter Spread ($/day)" data-tt-type="basin-net-spread">
+                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Net Spread</div>
+                <div id="basinHudNetSpread" style="font-size:14px;font-weight:700;color:var(--accent);"></div>
+              </div>
+              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:120px;" data-tooltip="Atlantic rate premium over Pacific as a percentage" data-tt-type="basin-atl-premium">
+                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Atlantic Premium %</div>
+                <div id="basinHudAtlPremium" style="font-size:14px;font-weight:700;color:#3fb950;"></div>
+              </div>
+              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:120px;" data-tooltip="30-Day Moving Average of the Atlantic-Pacific Spread" data-tt-type="basin-30d-ma">
+                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">30D MA Spread</div>
+                <div id="basinHud30dMa" style="font-size:14px;font-weight:700;color:#79c0ff;"></div>
+              </div>
+              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Historical 90th Percentile Spread Corridor (Top decile Atlantic premium regime)" data-tt-type="basin-90p-corridor">
+                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">90th Pctl Corridor</div>
+                <div id="basinHud90p" style="font-size:14px;font-weight:700;color:#e3b341;"></div>
+              </div>
+            </div>
+            <div class="index-range-wrap" style="padding: 2px 0 6px;">
+              <div class="index-range-label">
+                <span>Range:</span>
+                <span id="basinRangeLabel">Loading…</span>
+              </div>
+              <div class="dual-range-track" id="basinRangeTrack">
+                <div class="dual-range-fill" id="basinRangeFill"></div>
+                <input type="range" id="basinRangeStart" data-tooltip="Drag to set the left (start) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="0" step="1">
+                <input type="range" id="basinRangeEnd" data-tooltip="Drag to set the right (end) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="100" step="1">
+              </div>
+              <div id="basinDataStartNote" style="font-size:var(--fs-micro);color:var(--text-muted);margin-top:4px;"></div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="basinSpreadChart"></canvas></div>
           </div>
 
       </div>
@@ -14327,58 +14412,6 @@ html.auth-locked body > *:not(#authGateModal) {
           <div style="font-size:var(--fs-micro);color:var(--text-muted);padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;">daily points, uninterpolated · decimation is render-only (pointRadius 0) — the plotted data stays daily</div>
         </div>
 
-          <div class="chart-container mb-20" id="basinSpreadContainer">
-            <div class="chart-header">
-              <div class="chart-title" id="basinSpreadTitle" data-tooltip="Atlantic vs Pacific time-charter spread — positive = Atlantic premium, drives ballast repositioning." data-tt-type="concept-basinspread">Tonnage Basin Arbitrage (Atlantic vs Pacific TC)</div>
-              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-                <div id="basinSectorToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="basinSecCape" onclick="setBasinSector('cape')" data-tooltip="Capesize 180k DWT Atlantic vs Pacific Period Charter Arbitrage" data-tt-type="concept-basin-sector" data-tt-sector="cape" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Capesize</button>
-                  <button class="toggle-btn" id="basinSecPanama" onclick="setBasinSector('panama')" data-tooltip="Panamax 82k DWT Atlantic vs Pacific Period Charter Arbitrage" data-tt-type="concept-basin-sector" data-tt-sector="panama" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Panamax</button>
-                  <button class="toggle-btn" id="basinSecSuprama" onclick="setBasinSector('suprama')" data-tooltip="Supramax 58k DWT Atlantic vs Pacific Period Charter Arbitrage" data-tt-type="concept-basin-sector" data-tt-sector="suprama" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Supramax</button>
-                  <button class="toggle-btn" id="basinSecHandy" onclick="setBasinSector('handysize')" data-tooltip="Handysize 38k DWT Atlantic vs Pacific Period Charter Arbitrage" data-tt-type="concept-basin-sector" data-tt-sector="handysize" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Handysize</button>
-                  <button class="toggle-btn" id="basinSecAll" onclick="setBasinSector('all')" data-tooltip="All Dry Bulk sectors comparative basin arbitrage overlay" data-tt-type="concept-basin-sector" data-tt-sector="all" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Dry Sectors</button>
-                </div>
-                <div id="basinTenorToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn" id="basinTenor4_6m" onclick="setBasinTenor('4_6m')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="4_6m" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;">4/6M</button>
-                  <button class="toggle-btn active" id="basinTenor1y" onclick="setBasinTenor('1y')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="1y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1Y</button>
-                  <button class="toggle-btn" id="basinTenor2y" onclick="setBasinTenor('2y')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="2y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">2Y</button>
-                </div>
-                <div id="basinRatioBadge" class="kpi-badge" data-tooltip="Atlantic-to-Pacific Period Rate Ratio (>1.2 = Atlantic Premium / Tonnage Demand; <0.8 = Pacific Premium)">Atl/Pac: —</div>
-              </div>
-            </div>
-            <!-- Basin Arbitrage HUD bar -->
-            <div id="basinHudStrip" style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:120px;" data-tooltip="Net Atlantic minus Pacific Time Charter Spread ($/day)" data-tt-type="basin-net-spread">
-                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Net Spread</div>
-                <div id="basinHudNetSpread" style="font-size:14px;font-weight:700;color:var(--accent);"></div>
-              </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:120px;" data-tooltip="Atlantic rate premium over Pacific as a percentage" data-tt-type="basin-atl-premium">
-                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Atlantic Premium %</div>
-                <div id="basinHudAtlPremium" style="font-size:14px;font-weight:700;color:#3fb950;"></div>
-              </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:120px;" data-tooltip="30-Day Moving Average of the Atlantic-Pacific Spread" data-tt-type="basin-30d-ma">
-                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">30D MA Spread</div>
-                <div id="basinHud30dMa" style="font-size:14px;font-weight:700;color:#79c0ff;"></div>
-              </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Historical 90th Percentile Spread Corridor (Top decile Atlantic premium regime)" data-tt-type="basin-90p-corridor">
-                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">90th Pctl Corridor</div>
-                <div id="basinHud90p" style="font-size:14px;font-weight:700;color:#e3b341;"></div>
-              </div>
-            </div>
-            <div class="index-range-wrap" style="padding: 2px 0 6px;">
-              <div class="index-range-label">
-                <span>Range:</span>
-                <span id="basinRangeLabel">Loading…</span>
-              </div>
-              <div class="dual-range-track" id="basinRangeTrack">
-                <div class="dual-range-fill" id="basinRangeFill"></div>
-                <input type="range" id="basinRangeStart" data-tooltip="Drag to set the left (start) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="0" step="1">
-                <input type="range" id="basinRangeEnd" data-tooltip="Drag to set the right (end) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="100" step="1">
-              </div>
-              <div id="basinDataStartNote" style="font-size:var(--fs-micro);color:var(--text-muted);margin-top:4px;"></div>
-            </div>
-            <div class="chart-canvas-wrap" style="height:320px"><canvas id="basinSpreadChart"></canvas></div>
-          </div>
 
       </div>
 
@@ -14523,37 +14556,6 @@ html.auth-locked body > *:not(#authGateModal) {
           </div>
 
 
-          <div class="chart-container mb-20" id="marketCycleQuadrantContainer">
-            <div class="chart-header">
-              <div class="chart-title" id="quadrantChartTitle" data-tooltip="Shipping Cycle Quadrant — 4-phase shipping cycle model plotting spot rate momentum (60D ROC) against Spot/TC ratio Z-score. Classifies the market into: 1) Recovery, 2) Boom, 3) Over-ordering / Distribution, and 4) Restructuring." data-tt-type="concept-quadrant">Shipping Market Cycle Quadrant</div>
-              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-                <div id="quadrantGroupToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="quadGrpDry" onclick="setQuadrantGroup('dry')" data-tooltip=" " data-tt-type="concept-quad-grp" data-tt-grp="dry" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Dry Bulk</button>
-                  <button class="toggle-btn" id="quadGrpCrude" onclick="setQuadrantGroup('crude')" data-tooltip=" " data-tt-type="concept-quad-grp" data-tt-grp="crude" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Crude Tankers</button>
-                  <button class="toggle-btn" id="quadGrpProduct" onclick="setQuadrantGroup('product')" data-tooltip=" " data-tt-type="concept-quad-grp" data-tt-grp="product" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Product Tankers</button>
-                  <button class="toggle-btn" id="quadGrpAll" onclick="setQuadrantGroup('all')" data-tooltip=" " data-tt-type="concept-quad-grp" data-tt-grp="all" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Fleet Overview</button>
-                </div>
-              </div>
-            </div>
-            <div style="display:flex;flex-wrap:wrap;gap:16px;align-items:stretch;">
-              <div class="chart-canvas-wrap" style="height:360px;flex:1;min-width:300px;"><canvas id="marketCycleQuadrantChart"></canvas></div>
-              <div id="quadrantLegendCard" style="flex:0 0 280px;padding:16px;background:var(--hover);border:1px solid var(--border);border-radius:6px;font-size:12px;color:var(--text-muted);display:flex;flex-direction:column;justify-content:space-between;">
-                <div>
-                  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">
-                    <span style="font-weight:600;color:var(--text);font-size:13px;">Cycle Phase Analysis</span>
-                    <span id="quadrantRegimeCounterBadge" style="padding:2px 6px;border-radius:3px;font-size:var(--fs-micro);font-weight:600;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Regime Active</span>
-                  </div>
-                  <div id="quadrantPhaseText" style="font-weight:700;font-size:14px;color:var(--accent);margin-bottom:8px;"></div>
-                  <div id="quadrantDaysCounterWrap" style="background:var(--bg);border:1px solid var(--border);border-radius:4px;padding:8px 10px;margin-bottom:8px;">
-                    <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.3px;">Days in Active Regime</div>
-                    <div id="quadrantDaysCounterVal" style="font-size:13px;font-weight:700;color:var(--text-bright);margin-top:2px;"></div>
-                    <div id="quadrantMedianDurationVal" style="font-size:11px;color:var(--text-muted);margin-top:2px;">10Y Historical Median: —</div>
-                  </div>
-                </div>
-                <div id="quadrantPhaseDesc" style="margin-top:8px;line-height:1.4;border-top:1px solid var(--border);padding-top:8px;">Recovery phase: Spot starting to lift relative to term. Accumulation window.</div>
-              </div>
-            </div>
-          </div>
 
 
 <div class="chart-container mb-20" id="fearnleysSnpLedgerContainer">
@@ -14820,7 +14822,7 @@ html.auth-locked body > *:not(#authGateModal) {
             <input type="text" id="fearnVoiceSearch" class="tracking-input" placeholder="Search commentary, titles, keywords..." style="min-width:200px;flex:1;font-size:11px;" oninput="onFearnVoiceChange()" data-tooltip="Search commentary by keyword, vessel name, charterer, or route.">
             <button id="fearnArchiveBtn" class="tracking-status-btn" onclick="loadFearnArchive()" data-tooltip="Lazy-load the full per-desk comment archive (11k+ rows in 4 chunks, refreshed twice daily) for deeper search.">Load full archive</button>
           </div>
-          <div id="fearnVoiceStream" style="display:flex;flex-direction:column;gap:8px;max-height:560px;overflow-y:auto;"></div>
+          <div id="fearnVoiceStream" style="display:flex;flex-direction:column;gap:8px;max-height:min(1100px, 80vh);overflow-y:auto;"></div>
         </div>
       </div>
 
@@ -27420,6 +27422,19 @@ function buildMaster() {
       if (!allTcRows.length) return;
 
       if (isMainCall) {
+        var _tcS0 = document.getElementById('tcRangeStart');
+        if (_tcS0 && !_tcS0._fiveYrDefault && allTcRows.length) {
+          // First paint: last five years (26 years of daily points was the
+          // default and buried the current cycle). The slider still spans 2000+.
+          _tcS0._fiveYrDefault = true;
+          var _tcE0 = document.getElementById('tcRangeEnd');
+          var _cut = new Date(allTcRows[allTcRows.length - 1].date); _cut.setFullYear(_cut.getFullYear() - 5);
+          var _si = allTcRows.findIndex(function (r) { return r.date >= _cut; });
+          _tcS0._allRows = null;
+          _tcS0.max = _tcE0.max = allTcRows.length - 1;
+          _tcS0.value = _si < 0 ? 0 : _si;
+          _tcE0.value = allTcRows.length - 1;
+        }
         initDualRangeSlider('tcRange', allTcRows, function(isManual) { if (isManual) renderTimeCharterChart(productKey); });
       }
       const tcSEl = document.getElementById('tcRangeStart');
@@ -29954,7 +29969,9 @@ function buildMaster() {
         const filteredPoints = points.filter(p => p.date >= cutoff);
         if (!filteredPoints.length) return;
 
-        const lastWeeks = filteredPoints.slice(-20);
+        // 12 weekly prints per class (was 20 with curved joins: four classes
+        // drew an unreadable tangle). Older points fade; the dot is today.
+        const lastWeeks = filteredPoints.slice(-12);
         if (!lastWeeks.length) return;
 
         if (sIdx === 0) {
@@ -29974,15 +29991,22 @@ function buildMaster() {
           };
         });
 
+        const hexA = (h, a) => {
+          const m = /^#?([0-9a-f]{6})$/i.exec(h || '');
+          if (!m) return h;
+          const n = parseInt(m[1], 16);
+          return 'rgba(' + ((n >> 16) & 255) + ',' + ((n >> 8) & 255) + ',' + (n & 255) + ',' + a.toFixed(2) + ')';
+        };
         datasets.push({
           label: lbl,
           data: scatterData,
-          borderColor: col,
-          backgroundColor: scatterData.map(p => col),
-          borderWidth: 1.8,
+          borderColor: hexA(col, 0.45),
+          backgroundColor: scatterData.map(p => hexA(col, p.opacity)),
+          pointBorderColor: scatterData.map(p => hexA(col, p.opacity)),
+          borderWidth: 1.2,
           showLine: true,
-          tension: 0.3,
-          pointRadius: scatterData.map((p, idx) => idx === scatterData.length - 1 ? 6 : 2.5),
+          tension: 0,
+          pointRadius: scatterData.map((p, idx) => idx === scatterData.length - 1 ? 7 : 2),
           pointHoverRadius: 7
         });
       });
@@ -54937,7 +54961,7 @@ function initFearnSubNav() {
       var sep = (_prevGrp && s.grp !== _prevGrp) ? '<span aria-hidden="true" style="width:1px;align-self:stretch;margin:4px 4px;background:var(--border);"></span>' : '';
       _prevGrp = s.grp;
       var ic = FDESK_ICONS[s.id] || '';
-      var FDESK_SECTION_DESC = { 1: 'Broker-desk dashboard: TC rates, newbuilding prices, S-P/resale and gas tiles in desk order, all values from the Fearnleys caches.', 2: 'Time-charter rates by class from the Baltic weekly archive (2000+) and Fearnleys monthly archive (1977+); one source active at a time.', 3: 'Daily tanker route assessments from the Fearnleys daily cache: per-group tiles with last print, day delta and live/frozen state; click a tile for the full daily chart.', 4: 'Baltic dry-route benchmarks (Capesize, Panamax, Supramax) daily from the dry-route cache, plus newbuilding prices by vessel family, monthly means in USD millions from the NB price cache.', 12: 'Newbuilding prices by vessel family, monthly means in USD millions from the NB price cache.', 5: 'Secondhand S-P and asset-value curves: 5y/10y tenor ladder with demolition overlay from the asset-curve cache.', 6: 'LNG desk: broker gas valuations grouped by subtype with the gas-extra overlay cache.', 7: 'LPG desk: broker gas valuations grouped by subtype; archived BLPG blocks disclosed in the chart tooltip.', 8: 'Fixtures tape: brokered fixture records from 2024 onward with search and desk filters.', 9: 'Series museum: every archived series in the monthly cache, searchable by name, full history plotted.', 10: 'Broker voice: desk commentary archive from the broker-comments caches.', 11: 'Backtest lab: replay historical desk series against simple strategy rules; educational tool, not advice.' };
+      var FDESK_SECTION_DESC = { 1: 'Broker-desk dashboard: TC rates, newbuilding prices, S-P/resale and gas tiles in desk order, all values from the Fearnleys caches.', 2: 'Time-charter desk: spot vs period rates, the spot/TC cycle quadrant, period TC term structure, the Alibra period TCE matrix and the Atlantic vs Pacific basin spread.', 3: 'Daily tanker route assessments from the Fearnleys daily cache: per-group tiles with last print, day delta and live/frozen state; click a tile for the full daily chart.', 4: 'Baltic dry-route benchmarks (Capesize, Panamax, Supramax) daily from the dry-route cache; click a tile for its full daily history.', 12: 'Newbuilding prices by vessel family, monthly means in USD millions from the NB price cache.', 5: 'Secondhand values: age ladder with scrap overlay, secondhand-to-newbuild parity, 10-year values vs scrap floor, and the S&P deal ledger.', 6: 'LNG desk: broker gas valuations grouped by subtype with the gas-extra overlay cache.', 7: 'LPG desk: broker gas valuations grouped by subtype; archived BLPG blocks disclosed in the chart tooltip.', 8: 'Fixtures tape: brokered fixture records from 2024 onward with search and desk filters.', 9: 'Series museum: every archived series in the monthly cache, searchable by name, full history plotted.', 10: 'Broker voice: desk commentary archive from the broker-comments caches.', 11: 'Backtest lab: replay historical desk series against simple strategy rules; educational tool, not advice.' };
       var fdesc = FDESK_SECTION_DESC[s.id] || 'Broker desk sub-section.';
       return sep + '<button class="tracking-status-btn" data-fsec="' + s.id + '" data-tooltip="' + fdesc + '" onclick="switchFearnSection(' + s.id + ')" style="font-size:11px;display:inline-flex;align-items:center;gap:5px;">' + ic + '<span>' + s.name + '</span></button>';
     }).join('');
@@ -54957,6 +54981,18 @@ function switchFearnSection(id) {
   });
   renderFearnSection(id);
 }
+// Vessel class the desk charts use. The desk used to pass the global sector
+// pill (BDI by default) into the TC charts, so they drew 'BDI Spot' against
+// Capesize period rates while the desk's own selector read 'Capesize'. The
+// sector pills are hidden on this tab, so the desk selector decides.
+function fearnDeskProduct() {
+  var ok = ['cape', 'panama', 'suprama', 'handysize', 'dirtytanker', 'suezmax', 'aframax', 'cleantanker'];
+  var cp = window.currentProduct;
+  if (ok.indexOf(cp) >= 0) return cp;
+  var sel = document.getElementById('tcVesselSelect');
+  return (sel && ok.indexOf(sel.value) >= 0) ? sel.value : 'cape';
+}
+window.fearnDeskProduct = fearnDeskProduct;
 function renderFearnSection(id) {
   if (!DATA.loaded) return;
   // PHASE SPEED: render-once + dirty-flag memoization. A section re-renders
@@ -54986,11 +55022,11 @@ function renderFearnSection(id) {
     };
   };
   if (id === 1) return done(renderFearnOverview)();
-  if (id === 2) { fearnLoadDeskCaches(done(function () { try { renderTimeCharterChart(window.currentProduct || 'cape'); } catch(e){} renderFearnTc(); try { renderTCEMatrixTable(); } catch(e){} })); return; }
+  if (id === 2) { fearnLoadDeskCaches(done(function () { var pk = fearnDeskProduct(); try { renderTimeCharterChart(pk); } catch(e){} try { renderMarketCycleQuadrantChart(pk); } catch(e){} renderFearnTc(); try { renderTCEMatrixTable(); } catch(e){} try { renderBasinSpreadChart(pk); } catch(e){} })); return; }
   if (id === 3) return done(function () { renderFearnTank(); try { renderTankerForwardChart(); } catch(e){} })();
-  if (id === 4) { fearnLoadDeskCaches(done(function () { renderFearnDryGrid(); renderFearnNb(); try { renderBasinSpreadChart(window.currentProduct || 'cape'); } catch(e){} })); return; }
+  if (id === 4) { fearnLoadDeskCaches(done(function () { renderFearnDryGrid(); renderFearnNb(); })); return; }
   if (id === 12) { fearnLoadDeskCaches(done(function () { renderFearnNb(); if (typeof renderFleetSupplyOrderbook === "function") renderFleetSupplyOrderbook(); })); return; }
-  if (id === 5) { fearnLoadDeskCaches(done(function () { renderFearnAc(); try { renderVesselValuationsChart(window.currentProduct || 'cape'); } catch(e){} try { renderMarketCycleQuadrantChart(window.currentProduct || 'cape'); } catch(e){} try { renderFearnleysSnpTable(); } catch(e){} })); return; }
+  if (id === 5) { fearnLoadDeskCaches(done(function () { renderFearnAc(); try { renderVesselValuationsChart(fearnDeskProduct()); } catch(e){} try { renderFearnleysSnpTable(); } catch(e){} })); return; }
   if (id === 6) { fearnLoadDeskCaches(done(function () { renderFearnGas('LNG'); renderFearnGasFamily('LNG'); })); return; }
   if (id === 7) { fearnLoadDeskCaches(done(function () { renderFearnGas('LPG'); renderFearnGasFamily('LPG'); })); return; }
   if (id === 8) { fearnLoadJson('data/derived/fearnleys_fixtures_tape.json', 'fearnFixturesTape', function () { fearnLoadJson('data/derived/fearnleys_fixtures_facets.json', 'fearnFixturesFacets', done(renderFearnFx)); }); return; }
@@ -55038,12 +55074,20 @@ function renderFearnOverview() {
   var NB_RANK = { 'NEWBUILDING_PRICES_KAMSARMAX': 0, 'NEWBUILDING_PRICES_NEWCASTLEMAX': 1, 'NEWBUILDING_PRICES_ULTRAMAX': 2, 'NEWBUILDING_PRICES_VLCC': 10, 'NEWBUILDING_PRICES_SUEZMAX': 11, 'NEWBUILDING_PRICES_AFRAMAX': 12, 'NEWBUILDING_PRICES_PRODUCT': 13, 'NEWBUILDING_PRICES_LNGC_MEGI_CBM': 20, 'NEWBUILDING_PRICES_VLGC_88_000_CBM_PANAMAX_LPG_DF': 21, 'NEWBUILDING_PRICES_MGC_40_000_CBM_LPG_DF': 22, 'NEWBUILDING_PRICES_16_000_TEU_LNG_DF': 30, 'NEWBUILDING_PRICES_21_000_TEU_LNG_DF': 31, 'NEWBUILDING_PRICES_9_000_TEU_LNG_DF': 32, 'NEWBUILDING_PRICES_7_000_TEU': 33, 'NEWBUILDING_PRICES_4_500_TEU': 34, 'NEWBUILDING_PRICES_3_100_TEU': 35, 'NEWBUILDING_PRICES_1_900_TEU': 36 };
   var SP_RANK = { 'S_P_DRY_5_CAPESIZE': 0, 'S_P_DRY_10_CAPESIZE': 1, 'S_P_DRY_5_HANDYSIZE': 2, 'S_P_DRY_10_HANDYSIZE': 3, 'S_P_DRY_5_ULTRAMAX': 4, 'S_P_DRY_10_ULTRAMAX': 5, 'S_P_DRY_5_KAMSARMAX': 6, 'S_P_DRY_10_KAMSARMAX': 7, 'S_P_DRY_RESALE_NEWCASTLEMAX': 8, 'S_P_WET_5_VLCC': 9, 'S_P_WET_10_VLCC': 10, 'S_P_WET_5_SUEZMAX': 11, 'S_P_WET_10_SUEZMAX': 12, 'S_P_WET_5_AFRAMAX_LR2': 13, 'S_P_WET_10_AFRAMAX_LR2': 14, 'S_P_WET_5_MR': 15, 'S_P_WET_10_MR': 16, 'S_P_WET_RESALE_VLCC': 20, 'S_P_WET_RESALE_SUEZMAX': 21, 'S_P_WET_RESALE_AFRAMAX_LR2': 22, 'S_P_WET_RESALE_MR': 23, 'S_P_DRY_RESALE_KAMSARMAX': 24, 'S_P_DRY_RESALE_ULTRAMAX': 25 };
   var GRP4 = { LNG: ['LNG_BROKER_2005_BUILT_145KM3_STEAM', 'LNG_BROKER_PACIFIC_OCEAN', 'LNG_BROKER_ATLANTIC_OCEAN'], LPG: ['LPG_SPOT_COASTER_EUROPE_3_500_5_000_CBM', 'LPG_SPOT_ETH_8_12_000_CBM', 'LPG_SPOT_LGC_60_000_CBM'] };
+  // The full restored tile set stays (nothing dropped), but each group opens
+  // on its headline tiles: one per class and measure, 27 in all instead of
+  // 53. The rest of a group is one 'show all' click away. Gas headlines are
+  // the liquid freight benchmarks; they lead the gas group.
+  var GAS_HEAD = ['LNG_BROKER_SPOT_EAST_174K_2_STROKE', 'LNG_BROKER_1_YR_TC_155_165K_TFDE', 'LPG_TC_VLGC_84_000_CBM', 'LPG_SPOT_VLGC_84_000_CBM'];
+  var HEADLINE = { 'NEWBUILDING_PRICES_KAMSARMAX': 1, 'NEWBUILDING_PRICES_NEWCASTLEMAX': 1, 'NEWBUILDING_PRICES_ULTRAMAX': 1, 'NEWBUILDING_PRICES_VLCC': 1, 'NEWBUILDING_PRICES_SUEZMAX': 1, 'NEWBUILDING_PRICES_AFRAMAX': 1, 'NEWBUILDING_PRICES_PRODUCT': 1, 'NEWBUILDING_PRICES_LNGC_MEGI_CBM': 1,
+    'S_P_DRY_5_CAPESIZE': 1, 'S_P_DRY_5_KAMSARMAX': 1, 'S_P_DRY_5_ULTRAMAX': 1, 'S_P_DRY_5_HANDYSIZE': 1, 'S_P_WET_5_VLCC': 1, 'S_P_WET_5_SUEZMAX': 1, 'S_P_WET_5_AFRAMAX_LR2': 1, 'S_P_WET_5_MR': 1 };
+  GAS_HEAD.forEach(function (k) { HEADLINE[k] = 1; });
   var GRP_LABEL = { 0: 'Time-Charter Rates', 1: 'Newbuilding Prices', 2: 'S&P / Resale', 3: 'LNG / LPG' };
   function groupOf(s) {
     if (s.type === 'NEWBUILDING') return (NB_RANK[s.k] != null) ? 1 : 98;
     if (s.type === 'S&P') return (SP_RANK[s.k] != null) ? 2 : 99; // ranked classes only — CN/JP basis curves were never on the pre-change overview
     if (TC_RANK[s.k] != null) return 0;
-    if ((s.type === 'LNG' || s.type === 'LPG') && GRP4[s.type] && GRP4[s.type].indexOf(s.k) >= 0) return 3;
+    if ((s.type === 'LNG' || s.type === 'LPG') && ((GRP4[s.type] && GRP4[s.type].indexOf(s.k) >= 0) || GAS_HEAD.indexOf(s.k) >= 0)) return 3;
     return 99; // everything else (incl. counts) stays off the overview run
   }
   var picks = [];
@@ -55056,7 +55100,7 @@ function renderFearnOverview() {
     var rank = (g === 0) ? (TC_RANK[k] != null ? TC_RANK[k] : 900)
       : (g === 1) ? (NB_RANK[k] != null ? NB_RANK[k] : 900)
       : (g === 2) ? (SP_RANK[k] != null ? SP_RANK[k] : 890)
-      : GRP4[s.type] ? GRP4[s.type].indexOf(k) : 900;
+      : (GAS_HEAD.indexOf(k) >= 0 ? GAS_HEAD.indexOf(k) - 10 : (GRP4[s.type] ? GRP4[s.type].indexOf(k) : 900));
     picks.push(Object.assign({ k: k, _grp: g, _r: rank }, s));
   });
   // group 98 = NB classes outside the ranked families (container/gas extras ride
@@ -55088,7 +55132,7 @@ function renderFearnOverview() {
     var st = fearnStatusOf(s);
     return '<div class="tracking-kpi-card fearn-kpi-click" data-sec="' + sec + '" onclick="switchFearnSection(' + sec + ')" style="cursor:pointer;" ' + ttTile + '>' +
       '<div class="tracking-kpi-label" style="display:flex;justify-content:space-between;gap:6px;"><span style="color:' + col + ';font-weight:700;">' + escapeHtml(DESK_NAMES[t] || t) + '</span><span style="text-transform:none;letter-spacing:0;">' + escapeHtml(fearnDisplayUnit(s)) + '</span>' + fearnStatusBadge(st, s) + '</div>' +
-      '<div style="font-size:11px;font-weight:600;color:var(--text);margin-top:3px;white-space:normal;line-height:1.25;" title="' + escapeHtml(s.route || s.k) + '">' + escapeHtml(s.route || s.k) + '</div>' +
+      '<div style="font-size:11px;font-weight:600;color:var(--text);margin-top:3px;white-space:normal;line-height:1.25;" title="' + escapeHtml(s.route || s.k) + '">' + escapeHtml(fearnTileTitle(s)) + '</div>' +
       '<div class="tracking-kpi-val" style="font-size:19px;">' + fearnFmtTile(s.latest, fearnDisplayUnit(s)) + '</div>' +
       '<div class="tracking-kpi-sub" style="' + chgStyle + '">' + chgTxt + '</div>' +
       '<div style="height:3px;background:rgba(28,35,51,0.8);border-radius:2px;margin:6px 0 4px;"><div style="height:3px;width:' + Math.max(2, Math.min(100, pr)).toFixed(0) + '%;background:' + prCol + ';opacity:0.75;border-radius:2px;"></div></div>' +
@@ -55098,18 +55142,24 @@ function renderFearnOverview() {
   };
   // Group headers: the four groups were already ordered but ran together as
   // one undifferentiated wall of ~40 tiles.
-  var GRP_UNIT = { 0: '$/day', 1: '$M', 2: '$M', 3: 'units as published per tile' };
+  var GRP_UNIT = { 0: '$/day', 1: '$M', 2: '$M', 3: 'LNG $/day \u00b7 LPG as published' };
+  FDESK.ovOpen = FDESK.ovOpen || {};
   var htmlTiles = '', lastGrp = null;
   picks.forEach(function (s) {
     var g = s._grp >= 98 ? 1 : s._grp;
     if (g !== lastGrp) {
       lastGrp = g;
-      var nInGrp = picks.filter(function (x) { return (x._grp >= 98 ? 1 : x._grp) === g; }).length;
+      var inGrp = picks.filter(function (x) { return (x._grp >= 98 ? 1 : x._grp) === g; });
+      var nExtra = g === 0 ? 0 : inGrp.filter(function (x) { return !HEADLINE[x.k]; }).length;
+      var open = !!FDESK.ovOpen[g];
       htmlTiles += '<div class="fearn-ov-group" style="grid-column:1/-1;display:flex;align-items:baseline;gap:8px;margin:' + (htmlTiles ? '10px' : '0') + ' 0 2px;padding-bottom:4px;border-bottom:1px solid var(--border);">' +
         '<span style="font-size:12px;font-weight:700;color:var(--text-bright);">' + escapeHtml(GRP_LABEL[g] || '') + '</span>' +
-        '<span style="font-size:var(--fs-micro);color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;">' + nInGrp + ' series \u00b7 ' + escapeHtml(GRP_UNIT[g] || '') + '</span></div>';
+        '<span style="font-size:var(--fs-micro);color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;">' + inGrp.length + ' series \u00b7 ' + escapeHtml(GRP_UNIT[g] || '') + '</span>' +
+        (nExtra ? '<button class="tracking-status-btn" style="margin-left:auto;font-size:var(--fs-micro);padding:2px 8px;" onclick="toggleFearnOvGroup(' + g + ')">' + (open ? 'Headline only' : 'Show all ' + inGrp.length + ' (+' + nExtra + ')') + '</button>' : '') +
+        '</div>';
     }
-    htmlTiles += tileHtml(s);
+    var hide = g !== 0 && !HEADLINE[s.k] && !FDESK.ovOpen[g];
+    htmlTiles += hide ? '' : tileHtml(s);
   });
   if (grid) grid.innerHTML = banner + htmlTiles;
   var note = document.getElementById('fearnOverviewNote');
@@ -55122,6 +55172,13 @@ function renderFearnOverview() {
       '</span>';
   }
 }
+
+function toggleFearnOvGroup(g) {
+  FDESK.ovOpen = FDESK.ovOpen || {};
+  FDESK.ovOpen[g] = !FDESK.ovOpen[g];
+  renderFearnOverview();
+}
+window.toggleFearnOvGroup = toggleFearnOvGroup;
 
 // ---------- S2 TC RATES ----------
 function onTcVesselSelect(pk) {
@@ -55679,6 +55736,23 @@ function fearnPlaceholderStart(m) {
   return (m.length - i >= 12) ? i : m.length;
 }
 window.fearnPlaceholderStart = fearnPlaceholderStart;
+// Tile title with the tenor/age that distinguishes otherwise identical names
+// (S&P 'Capesize' existed as 5-yr, 10-yr and resale; LPG TC vs spot).
+function fearnTileTitle(s) {
+  var r = s.route || s.k || '';
+  var sub = String(s.subtype || '');
+  if (s.type === 'S&P') {
+    var m = /(\d+)(?:-(CN|JP))?$/.exec(sub);
+    var age = /RESALE/.test(sub) ? 'resale' : (m ? m[1] + '-yr' : sub);
+    var yard = /-(CN|JP)$/.exec(sub);
+    return r + ' \u00b7 ' + age + (yard ? ' (' + yard[1] + ')' : '');
+  }
+  if (s.type === 'LPG' && (sub === 'TC' || sub === 'SPOT')) return r + ' \u00b7 ' + (sub === 'TC' ? '1-yr TC' : 'spot');
+  if (s.type === 'TANK' && /T\/C/.test(sub)) return r + ' \u00b7 1-yr TC';
+  if (s.type === 'BULK' && sub === 'TC') return r + ' \u00b7 TC';
+  return r;
+}
+window.fearnTileTitle = fearnTileTitle;
 function fearnUnitName(u) {
   return u === 'ws' ? 'Worldscale points' : (u === 'tce' ? 'USD/day TCE' : (u === 'usd/day' ? 'USD/day' : (u === 'usd/tonne' ? 'USD/tonne' : (u === 'count' ? 'fixtures (count)' : (u === 'usd' ? 'USD' : String(u))))));
 }
@@ -55914,7 +55988,13 @@ function fearnTankKlassSeries(klass) {
     // read as a zero market rate. Counted + disclosed in the footer instead.
     if (s.klass === klass && !fearnSeriesIsAllZero(s)) out.push(Object.assign({ code: code }, s));
   });
-  out.sort(function (a, b) { return (a.route < b.route ? -1 : (a.route > b.route ? 1 : (a.unit < b.unit ? -1 : 1))); });
+  // Live series first, then the frozen 2023 TCE twins, each alphabetical by
+  // route. They were interleaved, so a 2023 value sat between today's prints.
+  out.sort(function (a, b) {
+    var la = fearnIsLive(a) ? 0 : 1, lb = fearnIsLive(b) ? 0 : 1;
+    if (la !== lb) return la - lb;
+    return (a.route < b.route ? -1 : (a.route > b.route ? 1 : (a.unit < b.unit ? -1 : 1)));
+  });
   return out;
 }
 function fearnTankKlassZeroCount(klass) {
@@ -55958,9 +56038,15 @@ function renderFearnTank() {
       if (!series.length) {
         grid.innerHTML = '<div style="grid-column:1/-1;color:var(--text-muted);font-size:12px;">No published series in this group.</div>';
       } else {
+        var _frozenHdr = false;
         grid.innerHTML = series.map(function (s) {
           var d = fearnDeltaOf(s);
           var live = fearnIsLive(s);
+          var divider = '';
+          if (!live && !_frozenHdr) {
+            _frozenHdr = true;
+            divider = '<div style="grid-column:1/-1;font-size:var(--fs-micro);color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;border-top:1px solid var(--border);padding-top:8px;margin-top:2px;">Frozen series \u00b7 the source stopped publishing these (most TCE twins ended 2023-04 when it switched to WS/USD)</div>';
+          }
           var disc = fearnDiscontinuedOf(s);
           var col = live ? 'var(--accent)' : 'var(--text-muted)';
           var dStyle = d ? (d.d > 0 ? 'color:var(--green);' : (d.d < 0 ? 'color:var(--red);' : 'color:var(--text-muted);')) : '';
@@ -55976,7 +56062,7 @@ function renderFearnTank() {
             valHtml = d ? fearnFmtVal(d.last) : '\u2014';
             subHtml = '<div class="tracking-kpi-sub" style="' + dStyle + 'font-family:\'IBM Plex Mono\',monospace;">' + dTxt + '</div>';
           }
-          return '<div class="tracking-kpi-card" style="cursor:pointer;" role="button" data-tt-type="fearn-tank-tile" data-tt-code="' + escapeHtml(s.code) + '" onclick="openFearnTankChart(\'' + escapeHtml(s.code).replace(/'/g, '&#039;') + '\')" title="' + escapeHtml(s.label) + '">' +
+          return divider + '<div class="tracking-kpi-card" style="cursor:pointer;' + (live ? '' : 'opacity:0.6;') + '" role="button" data-tt-type="fearn-tank-tile" data-tt-code="' + escapeHtml(s.code) + '" onclick="openFearnTankChart(\'' + escapeHtml(s.code).replace(/'/g, '&#039;') + '\')" title="' + escapeHtml(s.label) + '">' +
             '<div class="tracking-kpi-label" style="display:flex;justify-content:space-between;align-items:flex-start;gap:6px;"><span style="color:' + col + ';font-weight:700;white-space:normal;line-height:1.25;" title="' + escapeHtml(s.label) + '">' + escapeHtml(s.label) + '</span>' + fearnStatusBadgeLive(s) + '</div>' +
             '<div class="tracking-kpi-val" style="font-size:19px;">' + valHtml + '</div>' +
             subHtml +
