@@ -1959,3 +1959,15 @@ issue_date,report_week,section,units,capacity,capacity_raw,capacity_unit,yard,de
 2026-11-13,46,Containers,1,3000.0,3.000,teu,"Yamic, China",2030,Undisclosed,,Singaporean (Samudera Shipping Line),,5,advanced_shipping_14_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
 2026-11-13,46,Containers,7,1400.0,1.400,teu,"Huanghai, China",2029/2030,Undisclosed,,Singaporean (PIL),Methanol ready,5,advanced_shipping_14_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
 2026-11-13,46,Gas,4,90000.0,90.000,cbm,"Hyundai, Korea",2029/2030,"$ 117,5m",117.5,Foresight Group,LPG/Ammonia,5,advanced_shipping_14_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-20,47,Bulk Carriers,4,64400.0,64.400,dwt,"Wuhu, China",2028/2029,Undisclosed,,Chinese (Huaxing Shipping),,4,advanced_shipping_21_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-20,47,Tankers,1,320000.0,320.000,dwt,"Hanwha Ocean, Korea",2029,Undisclosed,,DHT Holdings,,4,advanced_shipping_21_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-20,47,Tankers,1,319000.0,319.000,dwt,"Wuhu, China",2029,$ 124m,124.0,Greek (Navios),Option exercised,4,advanced_shipping_21_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-20,47,Tankers,2+2,157000.0,157.000,dwt,"DH, Korea",2030,$ 93m,93.0,Canadian (Teekay Tankers),,4,advanced_shipping_21_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-20,47,Tankers,8,114000.0,114.000,dwt,"Guangxi Lanshui, China",2029/2030,Undisclosed,,JV (YZJ Maritime & TORM),,4,advanced_shipping_21_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-20,47,Tankers,2,114000.0,114.000,dwt,"DSIC, China",2030,Undisclosed,,HK (Wah Kwong Maritime),"Options exercised, Scrubber fitted, LNG & Methanol ready",4,advanced_shipping_21_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-20,47,Tankers,2,50000.0,50.000,dwt,"Wuhu, China",2029,"$ 45,6m",45.6,Greek (Navios),Scrubber fitted,4,advanced_shipping_21_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-20,47,Tankers,2,50000.0,50.000,dwt,"K, Korea",2029,Undisclosed,,Greek (JHI Steamship),,4,advanced_shipping_21_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-20,47,Containers,2,9200.0,9.200,teu,"Huangpu Wenchong, China",2030,"$ 106,5m",106.5,Thai (RCL),,4,advanced_shipping_21_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-20,47,Gas,1,180000.0,180.000,cbm,"Samsung, Korea",2029,"$ 256,7m",256.7,Danish (Celsius Tankers),LNG,4,advanced_shipping_21_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-20,47,Gas,2,174000.0,174.000,cbm,"Hyundai, Korea",2029,$ 247m,247.0,Greek (Thenamaris),LNG,4,advanced_shipping_21_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-11-20,47,Gas,2,93000.0,93.000,cbm,"Hengli, China",2028/2029,Undisclosed,,Greek (SwissChemGas),LPG/Ammonia,4,advanced_shipping_21_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf

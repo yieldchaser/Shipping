@@ -1047,3 +1047,7 @@ issue_date,report_week,port,grade,change_wow,price_current,price_prev,price_last
 2026-11-13,46,Rotterdam,LSMGO,-31.0,1213.0,1243.0,1375.0,corpus/01-brokers/gibson/html/2026/2026-11-13_crude-correction.html
 2026-11-13,46,Rotterdam,VLSFO,17.0,734.0,717.0,733.0,corpus/01-brokers/gibson/html/2026/2026-11-13_crude-correction.html
 2026-11-13,46,Singapore,VLSFO,-28.0,827.0,855.0,903.0,corpus/01-brokers/gibson/html/2026/2026-11-13_crude-correction.html
+2026-11-20,47,Fujairah,VLSFO,-43.0,808.0,851.0,967.0,corpus/01-brokers/gibson/html/2026/2026-11-20_cracks-are-showing.html
+2026-11-20,47,Rotterdam,LSMGO,-86.0,1126.0,1213.0,1401.0,corpus/01-brokers/gibson/html/2026/2026-11-20_cracks-are-showing.html
+2026-11-20,47,Rotterdam,VLSFO,-46.0,688.0,734.0,747.0,corpus/01-brokers/gibson/html/2026/2026-11-20_cracks-are-showing.html
+2026-11-20,47,Singapore,VLSFO,12.0,839.0,827.0,926.0,corpus/01-brokers/gibson/html/2026/2026-11-20_cracks-are-showing.html
