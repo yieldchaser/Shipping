@@ -458,6 +458,45 @@ def evaluate_freshness(today: date | None = None) -> list[dict]:
     return results
 
 
+def apply_grace(results: list[dict], today: date) -> list[dict]:
+    """Split 'not on schedule' into LAG (one cadence late) and STALE (worse).
+
+    The lag table above encodes when each publisher *should* have released.
+    In practice several are a cycle slower (USDA's Socrata mirrors trail the
+    FAS/FGIS releases by about a week, TfNSW posts Newcastle two months late,
+    and weekly scrapers only run once a week). Treating one-cycle lateness as
+    a failure kept the Upstream Flows workflow red on every run for weeks,
+    which is exactly how a real breakage gets missed. A dataset now fails the
+    guard only when it is MORE than one cadence behind; one cadence behind is
+    reported as LAG and listed on the issue as a watch item.
+    """
+    import re
+    for r in results:
+        r["status"] = "FRESH" if r["is_fresh"] else "STALE"
+        if r["is_fresh"]:
+            continue
+        latest = str(r.get("latest_stored") or "")
+        if not latest:
+            continue
+        cat = r.get("category")
+        if cat in ("Weekly", "Daily"):
+            m = re.search(r"(\d+)\s*days", r.get("rule", ""))
+            try:
+                lag = (today - date.fromisoformat(latest[:10])).days
+            except ValueError:
+                continue
+            if m and lag <= int(m.group(1)) + 7:
+                r["status"] = "LAG"
+        elif cat == "Monthly":
+            exp = str(r.get("expected") or "")
+            if re.fullmatch(r"\d{4}-\d{2}", exp) and re.fullmatch(r"\d{4}-\d{2}", latest[:7]):
+                y, mo = int(exp[:4]), int(exp[5:7])
+                prev = f"{y - (mo == 1):04d}-{12 if mo == 1 else mo - 1:02d}"
+                if latest[:7] >= prev:
+                    r["status"] = "LAG"
+    return results
+
+
 def sync_github_issue(stale_items: list[dict]):
     """Open or update a single consolidated GitHub issue listing stale datasets."""
     token = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
@@ -519,8 +558,9 @@ def main():
     eval_date = datetime.strptime(args.as_of, "%Y-%m-%d").date() if args.as_of else datetime.now(timezone.utc).date()
     logging.info("Evaluating cargo data freshness as of %s...", eval_date)
 
-    results = evaluate_freshness(eval_date)
-    stale_items = [r for r in results if not r["is_fresh"]]
+    results = apply_grace(evaluate_freshness(eval_date), eval_date)
+    stale_items = [r for r in results if r["status"] == "STALE"]
+    lag_items = [r for r in results if r["status"] == "LAG"]
 
     print("\n" + "=" * 90)
     print(f"CARGO DATA FRESHNESS AUDIT (As of {eval_date})")
@@ -528,10 +568,14 @@ def main():
     print(f"{'Dataset':<42} | {'Latest':<10} | {'Expected':<12} | {'Status':<6}")
     print("-" * 90)
     for r in results:
-        status = "FRESH" if r["is_fresh"] else "STALE"
+        status = r["status"]
         print(f"{r['name'][:42]:<42} | {str(r['latest_stored'])[:10]:<10} | {str(r['expected'])[:12]:<12} | {status:<6}")
     print("=" * 90)
-    print(f"SUMMARY: {len(results) - len(stale_items)}/{len(results)} FRESH, {len(stale_items)} STALE\n")
+    n_fresh = len(results) - len(stale_items) - len(lag_items)
+    print(f"SUMMARY: {n_fresh}/{len(results)} FRESH, {len(lag_items)} LAG (one cadence late, not failing), "
+          f"{len(stale_items)} STALE\n")
+    for item in lag_items:
+        logging.warning("  LAG  %s: latest '%s', schedule expects '%s' (%s)", item["name"], item["latest_stored"], item["expected"], item["rule"])
 
     if stale_items:
         logging.error("Freshness guard detected %d stale dataset(s):", len(stale_items))
@@ -543,7 +587,10 @@ def main():
 
         sys.exit(1)
     else:
-        logging.info("All %d cargo datasets are completely fresh against the publication schedule!", len(results))
+        if lag_items:
+            logging.info("No dataset is more than one cadence behind (%d lagging one cycle, listed above).", len(lag_items))
+        else:
+            logging.info("All %d cargo datasets are fresh against the publication schedule.", len(results))
         sys.exit(0)
 
 

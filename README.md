@@ -202,25 +202,17 @@ Main quantitative overview for the selected index.
   - 🔵 **ACCUMULATION**: Price $\le \text{MA}_{200}$, $\text{RoC}_{60} > 0$
   - 🔴 **CONTRACTION**: Price $\le \text{MA}_{200}$, $\text{RoC}_{60} \le 0$
 - **6 Stat Cards**: All-Time Pctl · 10Y Pctl · 5Y Pctl · Z-Score · 52-Week Drawdown · 20D RoC.
-- **Historical Context Strip**: 5Y avg, current vs 5Y avg %, current vs 10Y avg %.
+- **Historical Context Strip**: 5Y avg, current vs 5Y avg %, current vs 10Y avg %. Percentiles, the 10Y mean and the seasonal z-score are computed on the product's full history (`data/views/indices/<key>.json` is loaded after boot; the boot manifest is a 5-year slice).
+- **Full-History Price** *(formerly the Yearly tab)*: Full history with rolling average toggle (5Y / 10Y / All-Time) and dual-handle range slider.
 - **Current Year vs Historical Overlay Chart**: Overlays current year against prior trading years with 3Y/5Y/10Y/All presets.
 - **Drawdown from 52-Week High Chart**: Last 5 years with 1Y/3Y/5Y/10Y/All toggle buttons.
 - **Recent Daily Changes Table**: Last 10 sessions (day $\Delta$, day $\Delta\%$, 5D change %).
 - **Yearly Performance Table** *(collapsible, sortable)*: Annual avg, YoY %, min, max, Volatility % (dispersion: $(\text{max}-\text{min})/\text{avg}$), Trough → Peak % (theoretical max gain).
 - **Macro Cycle History (Multi-Year)** *(collapsible, sortable)*: Identifies historical peak and trough cycles using a 30% threshold with duration and move magnitude tooltips.
-- **Index Correlation Matrix**: Pearson correlation for all shipping benchmarks, switchable across All Time / 5Y / 1Y windows.
+- **Cross-Benchmark History** *(collapsible, formerly the Yearly tab; built on first open)*: rolling 252-day z-scores and annual average rates for every benchmark, opening on the seven Baltic indices.
+- **Index Correlation Matrix**: Pearson correlation of daily returns for all shipping benchmarks, switchable across All Time / 5Y / 1Y windows.
 
----
-
-### 📅 Yearly Tab
-
-Multi-year macro cycles and decade-scale benchmark tracking. Opening the tab loads each index's full history (`data/views/indices/<key>.json`), not the 5-year boot window.
-
-- **Historical Price Chart**: Full history with rolling average toggle (5Y / 10Y / All-Time) and dual-handle range slider.
-- **Z-Score (Rolling 252-Day)**: All 7 products, selected product highlighted, with 3M/6M/1Y/2Y/3Y and **All** (full history) windows.
-- **Multi-Year Rates**: Annual averages by product across all years.
-- **Rates — All Products Multi-Year Overlay**: Last 4 years by trading day with product selector dropdown.
-- **Drawdown % (52-Week Rolling, Last 5 Years)**: Peak retracement depth across the last 5 years.
+> **Navigation (11 tabs, grouped):** Markets — Dashboard · Seasonality · Indices · Signals │ Instruments & desk — ETFs · Broker Desk │ Physical — Tracking · Cargo & Trade Flows · Bunkers · Offshore │ Research — Intelligence. The sector pills only appear on the tabs they drive (Dashboard, Seasonality, Signals). `switchTab('yearly-dash')` still resolves, to the Dashboard.
 
 ---
 

@@ -330,6 +330,20 @@
       margin: 0 auto;
     }
     .tabs-bar::-webkit-scrollbar { display: none; }
+    /* Thin rule between tab groups: Markets | Instruments & desk | Physical | Research */
+    .tab-sep {
+      flex: 0 0 1px;
+      align-self: stretch;
+      margin: 11px 6px;
+      background: var(--border);
+    }
+    /* The sector pills only drive Dashboard, Seasonality and Signals; on every
+       other tab they changed nothing, so they are hidden there. The bar itself
+       stays for the data-as-of stamp and sign-out. */
+    body[data-tab]:not([data-tab="dashboard"]):not([data-tab="seasonality"]):not([data-tab="signals"]) .index-bar .index-pill,
+    body[data-tab]:not([data-tab="dashboard"]):not([data-tab="seasonality"]):not([data-tab="signals"]) .index-bar .index-bar-label {
+      display: none;
+    }
 
     .tab-btn {
       background: none;
@@ -1420,6 +1434,30 @@
     }
 
     /* ETF Research Links */
+    /* Link directories behind each fund: collapsed by default, they were
+       ~900px of static links between the holdings and the analytics. */
+    .fx-hide-route [data-fxcol="route"], .fx-hide-period [data-fxcol="period"],
+    .fx-hide-laycan [data-fxcol="laycan"], .fx-hide-rate [data-fxcol="rate"] { display: none; }
+    /* Four segments: 4 across, else 2x2, else 1 - never a lone 3+1 row. */
+    .ffa-strip-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; }
+    @media (max-width: 1150px) { .ffa-strip-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+    @media (max-width: 560px) { .ffa-strip-grid { grid-template-columns: minmax(0, 1fr); } }
+    .fearn-catalogue-details { margin-bottom: 20px; border: 1px solid var(--border); border-radius: 8px; background: var(--card); }
+    .fearn-catalogue-details > summary { cursor: pointer; padding: 12px 16px; font-size: 13px; font-weight: 700; color: var(--text); list-style: none; }
+    .fearn-catalogue-details > summary::-webkit-details-marker { display: none; }
+    .fearn-catalogue-details > summary::after { content: ' \25BE'; color: var(--text-muted); }
+    .fearn-catalogue-details[open] > summary::after { content: ' \25B4'; }
+    .fearn-catalogue-details > .chart-container { margin: 0 8px 8px; }
+    .etf-sources-details { margin-top: 12px; border: 1px solid var(--border); border-radius: 8px; }
+    .etf-sources-details > summary {
+      cursor: pointer; padding: 10px 14px; font-size: 12px; font-weight: 600;
+      color: var(--text-muted); list-style: none;
+    }
+    .etf-sources-details > summary::-webkit-details-marker { display: none; }
+    .etf-sources-details > summary::after { content: ' \25BE'; }
+    .etf-sources-details[open] > summary::after { content: ' \25B4'; }
+    .etf-sources-details > summary:hover { color: var(--text); }
+    .etf-sources-details[open] { padding-bottom: 8px; }
     .etf-research-section {
       margin-top: auto;
       padding-top: 16px;
@@ -5577,8 +5615,30 @@
     .bunkers-tool-left, .bunkers-tool-right {
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 8px 18px;
       flex-wrap: wrap;
+    }
+    /* Each filter is a labelled group that wraps as a unit, and the search box
+       grows into whatever is left of the last row. Before, the search sat alone
+       on its own line under a half-empty row of pills. */
+    .bunkers-tool-left { flex: 1 1 auto; min-width: 0; }
+    .bunkers-tool-right { flex: 1 1 200px; justify-content: flex-end; }
+    .bunkers-tool-right .bunkers-input { width: 100%; max-width: 360px; }
+    .bunkers-filter-group { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+    .bunkers-filter-label {
+      font-size: 10px; font-weight: 700; letter-spacing: 0.06em;
+      color: var(--text-muted); margin-right: 2px;
+    }
+    .bix-mc-row { font-size: var(--fs-micro); color: var(--text-muted); white-space: nowrap; }
+    .bix-mc-row .bix-mc { display: inline; }
+    @media (max-width: 1100px) {
+      /* Stack the port workstation: side by side it squeezed the chart drawer
+         into a 200px column and pushed the page wider than the screen. */
+      #tab-bunkers .bunkers-workstation { grid-template-columns: minmax(0, 1fr); }
+      #tab-bunkers .bunkers-left-pane { height: auto; min-height: 0; max-height: 900px; }
+      #tab-bunkers .bunkers-right-pane { min-width: 0; }
+      .bunkers-tool-right { justify-content: flex-start; }
+      .bunkers-tool-right .bunkers-input { max-width: none; }
     }
     .bunkers-pill {
       background: var(--bg);
@@ -11844,19 +11904,25 @@ html.auth-locked body > *:not(#authGateModal) {
 
   <!-- TABS BAR -->
   <div class="tabs-bar-outer">
-  <div class="tabs-bar">
+  <div class="tabs-bar" role="tablist">
+    <!-- Markets: benchmark prices and the analytics built on them -->
     <button class="tab-btn active" data-tab="dashboard">Dashboard</button>
-    <button class="tab-btn" data-tab="yearly-dash">Yearly</button>
     <button class="tab-btn" data-tab="seasonality">Seasonality</button>
     <button class="tab-btn" data-tab="indices">Indices</button>
-    <button class="tab-btn" data-tab="etfs">ETFs</button>
     <button class="tab-btn" data-tab="signals">Signals</button>
+    <span class="tab-sep" aria-hidden="true"></span>
+    <!-- Instruments & desk -->
+    <button class="tab-btn" data-tab="etfs">ETFs</button>
     <button class="tab-btn" data-tab="fearnleys">Broker Desk</button>
-    <button class="tab-btn" data-tab="intelligence">Intelligence</button>
+    <span class="tab-sep" aria-hidden="true"></span>
+    <!-- Physical market -->
     <button class="tab-btn" data-tab="tracking">Tracking</button>
-      <button class="tab-btn" data-tab="cargo">Cargo &amp; Trade Flows</button>
+    <button class="tab-btn" data-tab="cargo">Cargo &amp; Trade Flows</button>
     <button class="tab-btn" data-tab="bunkers">Bunkers</button>
     <button class="tab-btn" data-tab="offshore">Offshore</button>
+    <span class="tab-sep" aria-hidden="true"></span>
+    <!-- Research -->
+    <button class="tab-btn" data-tab="intelligence">Intelligence</button>
   </div>
   </div><!-- /tabs-bar-outer -->
 
@@ -11996,6 +12062,31 @@ html.auth-locked body > *:not(#authGateModal) {
         </div>
       </div>
 
+      <!-- Full-history price (moved from the former Yearly tab) -->
+      <div class="chart-container mb-20">
+        <div class="chart-header">
+          <div class="chart-title" data-tooltip="Long-term price chart compared against historical 5Y and 10Y benchmarks to identify multi-year cycles.">Full-History Price</div>
+          <div class="flex-row" style="gap:6px;flex-wrap:wrap;align-items:center;">
+            <button class="toggle-btn active" id="ydAvgBtn5" data-tooltip="Draw the 5-year rolling average line on the historical price chart." onclick="setYDHistAvg(5)">5Y Avg</button>
+            <button class="toggle-btn" id="ydAvgBtn10" data-tooltip="Draw the 10-year rolling average line on the historical price chart." onclick="setYDHistAvg(10)">10Y Avg</button>
+            <button class="toggle-btn" id="ydAvgBtnAll" data-tooltip="Draw the all-time average line on the historical price chart." onclick="setYDHistAvg(0)">All-Time Avg</button>
+            <button class="dl-btn" id="ydHistDlBtn" data-tooltip="Download the full historical price series as CSV — exactly the values plotted from the master cache."><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-right:3px;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>CSV</button>
+          </div>
+        </div>
+        <div class="index-range-wrap" style="padding: 2px 0 6px;">
+          <div class="index-range-label">
+            <span>Range:</span>
+            <span id="ydHistRangeLabel">Loading…</span>
+          </div>
+          <div class="dual-range-track" id="ydHistRangeTrack">
+            <div class="dual-range-fill" id="ydHistRangeFill"></div>
+            <input type="range" id="ydHistRangeStart" data-tooltip="Drag to set the left (start) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="0" step="1">
+            <input type="range" id="ydHistRangeEnd" data-tooltip="Drag to set the right (end) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="100" step="1">
+          </div>
+        </div>
+        <div class="chart-canvas-wrap" style="height:320px"><canvas id="yearlyHistChart"></canvas></div>
+      </div>
+
       <!-- Overlay Chart -->
       <div class="chart-container mb-20">
         <div class="chart-header">
@@ -12074,6 +12165,47 @@ html.auth-locked body > *:not(#authGateModal) {
         </div>
       </div>
 
+      <!-- Cross-benchmark history (moved from the former Yearly tab; rendered on first open) -->
+      <div class="collapsible-section mb-20">
+        <button class="collapsible-toggle" id="crossBenchToggle" onclick="toggleCrossBench()" data-tooltip="Expand to compare every benchmark on a common scale: rolling 1-year z-scores and annual average rates. Opens on the seven Baltic indices; click legend items to add equities, futures and gas.">
+          <span>Cross-Benchmark History (Z-Scores &amp; Annual Averages)</span>
+          <span class="toggle-arrow">▼</span>
+        </button>
+        <div class="collapsible-content" id="crossBenchContent">
+      <div class="chart-container mb-12">
+        <div class="chart-header">
+          <div class="chart-title" id="ydZscoreTitle" data-tooltip="Standardized measure of price deviation from its rolling mean. Normalizes completely different shipping segments onto a common statistical scale. Values > +2.0 or < -2.0 identify extreme overbought or oversold conditions.">Z-Score (Rolling Window Comparison) <span id="yearlyZscoreYearRange" class="badge" style="font-size:11px;font-weight:600;padding:2px 8px;border-radius:4px;background:rgba(88,166,255,0.12);color:#58a6ff;border:1px solid rgba(88,166,255,0.25);margin-left:6px;display:none;" data-tooltip="Active calendar span across all visible product curves. Automatically rescales when products like BDI are toggled."></span></div>
+          <div class="flex-row" style="gap:6px;align-items:center;">
+            <button class="toggle-btn" id="ydZscoreBtn63" data-tooltip="Zoom chart and slider to the trailing 3 months." onclick="setYDZscoreWindow(63)">3M</button>
+            <button class="toggle-btn" id="ydZscoreBtn126" data-tooltip="Zoom chart and slider to the trailing 6 months." onclick="setYDZscoreWindow(126)">6M</button>
+            <button class="toggle-btn active" id="ydZscoreBtn252" data-tooltip="Zoom chart and slider to the trailing 1 year (default)." onclick="setYDZscoreWindow(252)">1Y</button>
+            <button class="toggle-btn" id="ydZscoreBtn504" data-tooltip="Zoom chart and slider to the trailing 2 years." onclick="setYDZscoreWindow(504)">2Y</button>
+            <button class="toggle-btn" id="ydZscoreBtn756" data-tooltip="Zoom chart and slider to the trailing 3 years." onclick="setYDZscoreWindow(756)">3Y</button>
+            <button class="toggle-btn" id="ydZscoreBtnAll" data-tooltip="Show full historical date range across visible products." onclick="setYDZscoreWindow('all')">All</button>
+          </div>
+        </div>
+        <div class="index-range-wrap" style="padding: 2px 0 6px;">
+          <div class="index-range-label">
+            <span>Range:</span>
+            <span id="ydZscoreRangeLabel">Loading…</span>
+          </div>
+          <div class="dual-range-track" id="ydZscoreRangeTrack">
+            <div class="dual-range-fill" id="ydZscoreRangeFill"></div>
+            <input type="range" id="ydZscoreRangeStart" data-tooltip="Drag to set the left (start) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="0" step="1">
+            <input type="range" id="ydZscoreRangeEnd" data-tooltip="Drag to set the right (end) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="100" step="1">
+          </div>
+        </div>
+        <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyZscoreChart"></canvas></div>
+      </div>
+      <div class="chart-container mb-20">
+        <div class="chart-header">
+          <div class="chart-title" data-tooltip="Decade-Scale Benchmarks - yearly average closing rates. Tracks the slow-moving structural 'higher lows' characteristic of a tightening global fleet.">Multi-Year Rates (Annual Averages by Product) <span id="yearlyMultiRatesYearRange" class="badge" style="font-size:11px;font-weight:600;padding:2px 8px;border-radius:4px;background:rgba(88,166,255,0.12);color:#58a6ff;border:1px solid rgba(88,166,255,0.25);margin-left:6px;display:none;" data-tooltip="Active calendar year span across all visible product curves. Automatically rescales when products like BDI are toggled."></span></div>
+        </div>
+        <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyMultiRatesChart"></canvas></div>
+      </div>
+        </div>
+      </div>
+
       <!-- Correlation Matrix -->
       <div class="corr-section mb-20">
         <div class="section-title" data-tooltip="Pearson Correlation Matrix - measures the linear co-movement between pairs of shipping indices (BDI, BCI, BPI, BSI, BCTI, BDTI). Correlations of +0.9+ mean indices move in near-lockstep; values near 0 indicate independent price discovery. Use the 1Y window to see whether historical pairs have recently decoupled.">Index Correlation Matrix</div>
@@ -12114,90 +12246,6 @@ html.auth-locked body > *:not(#authGateModal) {
     <!-- ===== TAB: HEATMAPS ===== -->
 
     <!-- ===== TAB: YEARLY ===== -->
-    <div class="tab-panel" id="tab-yearly-dash">
-      <div id="yd-kpi-row" class="dashboard-hero mb-20"></div>
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Long-term price chart compared against historical 5Y and 10Y benchmarks to identify multi-year cycles.">Historical Price</div>
-          <div class="flex-row" style="gap:6px;flex-wrap:wrap;align-items:center;">
-            <button class="toggle-btn active" id="ydAvgBtn5" data-tooltip="Draw the 5-year rolling average line on the historical price chart." onclick="setYDHistAvg(5)">5Y Avg</button>
-            <button class="toggle-btn" id="ydAvgBtn10" data-tooltip="Draw the 10-year rolling average line on the historical price chart." onclick="setYDHistAvg(10)">10Y Avg</button>
-            <button class="toggle-btn" id="ydAvgBtnAll" data-tooltip="Draw the all-time average line on the historical price chart." onclick="setYDHistAvg(0)">All-Time Avg</button>
-            <button class="dl-btn" id="ydHistDlBtn" data-tooltip="Download the full historical price series as CSV — exactly the values plotted from the master cache."><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-right:3px;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>CSV</button>
-          </div>
-        </div>
-        <div class="index-range-wrap" style="padding: 2px 0 6px;">
-          <div class="index-range-label">
-            <span>Range:</span>
-            <span id="ydHistRangeLabel">Loading…</span>
-          </div>
-          <div class="dual-range-track" id="ydHistRangeTrack">
-            <div class="dual-range-fill" id="ydHistRangeFill"></div>
-            <input type="range" id="ydHistRangeStart" data-tooltip="Drag to set the left (start) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="0" step="1">
-            <input type="range" id="ydHistRangeEnd" data-tooltip="Drag to set the right (end) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="100" step="1">
-          </div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:320px"><canvas id="yearlyHistChart"></canvas></div>
-      </div>
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" id="ydZscoreTitle" data-tooltip="Standardized measure of price deviation from its rolling mean. Normalizes completely different shipping segments onto a common statistical scale. Values > +2.0 or < -2.0 identify extreme overbought or oversold conditions.">Z-Score (Rolling Window Comparison) <span id="yearlyZscoreYearRange" class="badge" style="font-size:11px;font-weight:600;padding:2px 8px;border-radius:4px;background:rgba(88,166,255,0.12);color:#58a6ff;border:1px solid rgba(88,166,255,0.25);margin-left:6px;display:none;" data-tooltip="Active calendar span across all visible product curves. Automatically rescales when products like BDI are toggled."></span></div>
-          <div class="flex-row" style="gap:6px;align-items:center;">
-            <button class="toggle-btn" id="ydZscoreBtn63" data-tooltip="Zoom chart and slider to the trailing 3 months." onclick="setYDZscoreWindow(63)">3M</button>
-            <button class="toggle-btn" id="ydZscoreBtn126" data-tooltip="Zoom chart and slider to the trailing 6 months." onclick="setYDZscoreWindow(126)">6M</button>
-            <button class="toggle-btn active" id="ydZscoreBtn252" data-tooltip="Zoom chart and slider to the trailing 1 year (default)." onclick="setYDZscoreWindow(252)">1Y</button>
-            <button class="toggle-btn" id="ydZscoreBtn504" data-tooltip="Zoom chart and slider to the trailing 2 years." onclick="setYDZscoreWindow(504)">2Y</button>
-            <button class="toggle-btn" id="ydZscoreBtn756" data-tooltip="Zoom chart and slider to the trailing 3 years." onclick="setYDZscoreWindow(756)">3Y</button>
-            <button class="toggle-btn" id="ydZscoreBtnAll" data-tooltip="Show full historical date range across visible products." onclick="setYDZscoreWindow('all')">All</button>
-          </div>
-        </div>
-        <div class="index-range-wrap" style="padding: 2px 0 6px;">
-          <div class="index-range-label">
-            <span>Range:</span>
-            <span id="ydZscoreRangeLabel">Loading…</span>
-          </div>
-          <div class="dual-range-track" id="ydZscoreRangeTrack">
-            <div class="dual-range-fill" id="ydZscoreRangeFill"></div>
-            <input type="range" id="ydZscoreRangeStart" data-tooltip="Drag to set the left (start) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="0" step="1">
-            <input type="range" id="ydZscoreRangeEnd" data-tooltip="Drag to set the right (end) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="100" step="1">
-          </div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyZscoreChart"></canvas></div>
-      </div>
-      
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Decade-Scale Benchmarks - yearly average closing rates. Tracks the slow-moving structural 'higher lows' characteristic of a tightening global fleet.">Multi-Year Rates (Annual Averages by Product) <span id="yearlyMultiRatesYearRange" class="badge" style="font-size:11px;font-weight:600;padding:2px 8px;border-radius:4px;background:rgba(88,166,255,0.12);color:#58a6ff;border:1px solid rgba(88,166,255,0.25);margin-left:6px;display:none;" data-tooltip="Active calendar year span across all visible product curves. Automatically rescales when products like BDI are toggled."></span></div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyMultiRatesChart"></canvas></div>
-      </div>
-      
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Seasonal Fingerprint - overlays current action against the last 3 clusters. Reveals if current freight pricing is leading or lagging its historical average.">Rates • Multi-Year Overlay</div>
-          <select id="ratesOverlayProduct" data-tooltip="Pick which freight benchmark to overlay on the long-term historical chart; choices map to series keys in the master cache.">
-            <option value="bdiy">Baltic Dry Index (BDI)</option>
-            <option value="bdry_spot">BDRY Spot Composite</option>
-            <option value="cape">Capesize</option>
-            <option value="panama">Panamax</option>
-            <option value="suprama">Supramax</option>
-            <option value="handysize">Handysize</option>
-            <option value="dirtytanker">Dirty Tanker (BDTI)</option>
-            <option value="cleantanker">Clean Tanker (BCTI)</option>
-            <option value="bdryff">BDRY Freight Futures (BDRYFF)</option>
-            <option value="bwetff">BWET Freight Futures (BWETFF)</option>
-          </select>
-        </div>
-        <div class="chart-canvas-wrap" style="height:320px"><canvas id="yearlyRatesChart"></canvas></div>
-      </div>
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Peak Retracement (52-Week Rolling, Last 5 Years) — each point shows how far the index sits below its rolling 1-year high on that date. Freight corrections of 30–50% after major spikes are historically normal; deeper or sustained drawdowns signal structural bear markets.">Drawdown % (52-Week Rolling, Last 5 Years)</div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyDrawdownChart"></canvas></div>
-      </div>
-    </div>
-
     <!-- ===== TAB: MONTHLY DASHBOARD ===== -->
 
     <!-- ===== TAB: QUARTERLY ===== -->
@@ -14046,7 +14094,7 @@ html.auth-locked body > *:not(#authGateModal) {
             </div>
             <div style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;" data-tooltip="Dry-bulk FFAs trade between brokers during the London day; SGX clears them and publishes one settlement price per contract each evening (UTC). This strip shows the live traded price, read every 2 minutes on weekdays 02:30-18:30 UTC (Singapore late morning to London close), against the last SGX settlement, so a move shows up hours before the next settlement. Quarter and calendar settlements are the average of their monthly contracts. Click a price to chart today.">Live market snapshot · change vs previous SGX settlement · Cape / Panamax / Supramax / Handysize</div>
           </div>
-          <div id="ffaStripGrid" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(240px, 1fr));gap:10px;"></div>
+          <div id="ffaStripGrid" class="ffa-strip-grid"></div>
           <div id="ffaLiveAlerts" style="margin-top:10px;font-size:12px;"></div>
           <div id="ffaLiveDetail" style="margin-top:10px;background:var(--card-subtle);border:1px solid var(--border);border-radius:6px;padding:10px 12px;">
             <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:6px;flex-wrap:wrap;">
@@ -14119,6 +14167,38 @@ html.auth-locked body > *:not(#authGateModal) {
           </div>
           <div class="chart-canvas-wrap" style="height:380px"><canvas id="timeCharterChart"></canvas></div>
         </div>
+        <!-- Spot momentum vs spot/TC regime (moved from S&P & Assets) -->
+          <div class="chart-container mb-20" id="marketCycleQuadrantContainer">
+            <div class="chart-header">
+              <div class="chart-title" id="quadrantChartTitle" data-tooltip="Shipping Cycle Quadrant — 4-phase shipping cycle model plotting spot rate momentum (60D ROC) against Spot/TC ratio Z-score. Classifies the market into: 1) Recovery, 2) Boom, 3) Over-ordering / Distribution, and 4) Restructuring." data-tt-type="concept-quadrant">Shipping Market Cycle Quadrant</div>
+              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                <div id="quadrantGroupToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn active" id="quadGrpDry" onclick="setQuadrantGroup('dry')" data-tooltip=" " data-tt-type="concept-quad-grp" data-tt-grp="dry" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Dry Bulk</button>
+                  <button class="toggle-btn" id="quadGrpCrude" onclick="setQuadrantGroup('crude')" data-tooltip=" " data-tt-type="concept-quad-grp" data-tt-grp="crude" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Crude Tankers</button>
+                  <button class="toggle-btn" id="quadGrpProduct" onclick="setQuadrantGroup('product')" data-tooltip=" " data-tt-type="concept-quad-grp" data-tt-grp="product" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Product Tankers</button>
+                  <button class="toggle-btn" id="quadGrpAll" onclick="setQuadrantGroup('all')" data-tooltip=" " data-tt-type="concept-quad-grp" data-tt-grp="all" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Fleet Overview</button>
+                </div>
+              </div>
+            </div>
+            <div style="display:flex;flex-wrap:wrap;gap:16px;align-items:stretch;">
+              <div class="chart-canvas-wrap" style="height:360px;flex:1;min-width:300px;"><canvas id="marketCycleQuadrantChart"></canvas></div>
+              <div id="quadrantLegendCard" style="flex:0 0 280px;padding:16px;background:var(--hover);border:1px solid var(--border);border-radius:6px;font-size:12px;color:var(--text-muted);display:flex;flex-direction:column;justify-content:space-between;">
+                <div>
+                  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">
+                    <span style="font-weight:600;color:var(--text);font-size:13px;">Cycle Phase Analysis</span>
+                    <span id="quadrantRegimeCounterBadge" style="padding:2px 6px;border-radius:3px;font-size:var(--fs-micro);font-weight:600;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Regime Active</span>
+                  </div>
+                  <div id="quadrantPhaseText" style="font-weight:700;font-size:14px;color:var(--accent);margin-bottom:8px;"></div>
+                  <div id="quadrantDaysCounterWrap" style="background:var(--bg);border:1px solid var(--border);border-radius:4px;padding:8px 10px;margin-bottom:8px;">
+                    <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.3px;">Days in Active Regime</div>
+                    <div id="quadrantDaysCounterVal" style="font-size:13px;font-weight:700;color:var(--text-bright);margin-top:2px;"></div>
+                    <div id="quadrantMedianDurationVal" style="font-size:11px;color:var(--text-muted);margin-top:2px;">10Y Historical Median: —</div>
+                  </div>
+                </div>
+                <div id="quadrantPhaseDesc" style="margin-top:8px;line-height:1.4;border-top:1px solid var(--border);padding-top:8px;">Recovery phase: Spot starting to lift relative to term. Accumulation window.</div>
+              </div>
+            </div>
+          </div>
 
         <!-- SECONDARY: PERIOD TC TERM STRUCTURE CURVES -->
         <div class="chart-container mb-20">
@@ -14169,6 +14249,59 @@ html.auth-locked body > *:not(#authGateModal) {
             </div>
             <div id="tceMatrixTableWrap" style="overflow-x:auto;margin-top:10px;"></div>
             <div id="tceRowDrilldownWrap" style="display:none;margin-top:12px;padding:12px 16px;background:rgba(22,27,34,0.7);border:1px solid var(--border);border-radius:6px;font-size:12px;"></div>
+          </div>
+        <!-- Atlantic vs Pacific period TC (moved from Dry Routes: it is a TC analytic) -->
+          <div class="chart-container mb-20" id="basinSpreadContainer">
+            <div class="chart-header">
+              <div class="chart-title" id="basinSpreadTitle" data-tooltip="Atlantic vs Pacific time-charter spread — positive = Atlantic premium, drives ballast repositioning." data-tt-type="concept-basinspread">Tonnage Basin Arbitrage (Atlantic vs Pacific TC)</div>
+              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                <div id="basinSectorToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn active" id="basinSecCape" onclick="setBasinSector('cape')" data-tooltip="Capesize 180k DWT Atlantic vs Pacific Period Charter Arbitrage" data-tt-type="concept-basin-sector" data-tt-sector="cape" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Capesize</button>
+                  <button class="toggle-btn" id="basinSecPanama" onclick="setBasinSector('panama')" data-tooltip="Panamax 82k DWT Atlantic vs Pacific Period Charter Arbitrage" data-tt-type="concept-basin-sector" data-tt-sector="panama" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Panamax</button>
+                  <button class="toggle-btn" id="basinSecSuprama" onclick="setBasinSector('suprama')" data-tooltip="Supramax 58k DWT Atlantic vs Pacific Period Charter Arbitrage" data-tt-type="concept-basin-sector" data-tt-sector="suprama" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Supramax</button>
+                  <button class="toggle-btn" id="basinSecHandy" onclick="setBasinSector('handysize')" data-tooltip="Handysize 38k DWT Atlantic vs Pacific Period Charter Arbitrage" data-tt-type="concept-basin-sector" data-tt-sector="handysize" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Handysize</button>
+                  <button class="toggle-btn" id="basinSecAll" onclick="setBasinSector('all')" data-tooltip="All Dry Bulk sectors comparative basin arbitrage overlay" data-tt-type="concept-basin-sector" data-tt-sector="all" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Dry Sectors</button>
+                </div>
+                <div id="basinTenorToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn" id="basinTenor4_6m" onclick="setBasinTenor('4_6m')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="4_6m" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;">4/6M</button>
+                  <button class="toggle-btn active" id="basinTenor1y" onclick="setBasinTenor('1y')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="1y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1Y</button>
+                  <button class="toggle-btn" id="basinTenor2y" onclick="setBasinTenor('2y')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="2y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">2Y</button>
+                </div>
+                <div id="basinRatioBadge" class="kpi-badge" data-tooltip="Atlantic-to-Pacific Period Rate Ratio (>1.2 = Atlantic Premium / Tonnage Demand; <0.8 = Pacific Premium)">Atl/Pac: —</div>
+              </div>
+            </div>
+            <!-- Basin Arbitrage HUD bar -->
+            <div id="basinHudStrip" style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
+              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:120px;" data-tooltip="Net Atlantic minus Pacific Time Charter Spread ($/day)" data-tt-type="basin-net-spread">
+                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Net Spread</div>
+                <div id="basinHudNetSpread" style="font-size:14px;font-weight:700;color:var(--accent);"></div>
+              </div>
+              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:120px;" data-tooltip="Atlantic rate premium over Pacific as a percentage" data-tt-type="basin-atl-premium">
+                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Atlantic Premium %</div>
+                <div id="basinHudAtlPremium" style="font-size:14px;font-weight:700;color:#3fb950;"></div>
+              </div>
+              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:120px;" data-tooltip="30-Day Moving Average of the Atlantic-Pacific Spread" data-tt-type="basin-30d-ma">
+                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">30D MA Spread</div>
+                <div id="basinHud30dMa" style="font-size:14px;font-weight:700;color:#79c0ff;"></div>
+              </div>
+              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Historical 90th Percentile Spread Corridor (Top decile Atlantic premium regime)" data-tt-type="basin-90p-corridor">
+                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">90th Pctl Corridor</div>
+                <div id="basinHud90p" style="font-size:14px;font-weight:700;color:#e3b341;"></div>
+              </div>
+            </div>
+            <div class="index-range-wrap" style="padding: 2px 0 6px;">
+              <div class="index-range-label">
+                <span>Range:</span>
+                <span id="basinRangeLabel">Loading…</span>
+              </div>
+              <div class="dual-range-track" id="basinRangeTrack">
+                <div class="dual-range-fill" id="basinRangeFill"></div>
+                <input type="range" id="basinRangeStart" data-tooltip="Drag to set the left (start) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="0" step="1">
+                <input type="range" id="basinRangeEnd" data-tooltip="Drag to set the right (end) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="100" step="1">
+              </div>
+              <div id="basinDataStartNote" style="font-size:var(--fs-micro);color:var(--text-muted);margin-top:4px;"></div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="basinSpreadChart"></canvas></div>
           </div>
 
       </div>
@@ -14279,58 +14412,6 @@ html.auth-locked body > *:not(#authGateModal) {
           <div style="font-size:var(--fs-micro);color:var(--text-muted);padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;">daily points, uninterpolated · decimation is render-only (pointRadius 0) — the plotted data stays daily</div>
         </div>
 
-          <div class="chart-container mb-20" id="basinSpreadContainer">
-            <div class="chart-header">
-              <div class="chart-title" id="basinSpreadTitle" data-tooltip="Atlantic vs Pacific time-charter spread — positive = Atlantic premium, drives ballast repositioning." data-tt-type="concept-basinspread">Tonnage Basin Arbitrage (Atlantic vs Pacific TC)</div>
-              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-                <div id="basinSectorToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="basinSecCape" onclick="setBasinSector('cape')" data-tooltip="Capesize 180k DWT Atlantic vs Pacific Period Charter Arbitrage" data-tt-type="concept-basin-sector" data-tt-sector="cape" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Capesize</button>
-                  <button class="toggle-btn" id="basinSecPanama" onclick="setBasinSector('panama')" data-tooltip="Panamax 82k DWT Atlantic vs Pacific Period Charter Arbitrage" data-tt-type="concept-basin-sector" data-tt-sector="panama" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Panamax</button>
-                  <button class="toggle-btn" id="basinSecSuprama" onclick="setBasinSector('suprama')" data-tooltip="Supramax 58k DWT Atlantic vs Pacific Period Charter Arbitrage" data-tt-type="concept-basin-sector" data-tt-sector="suprama" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Supramax</button>
-                  <button class="toggle-btn" id="basinSecHandy" onclick="setBasinSector('handysize')" data-tooltip="Handysize 38k DWT Atlantic vs Pacific Period Charter Arbitrage" data-tt-type="concept-basin-sector" data-tt-sector="handysize" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Handysize</button>
-                  <button class="toggle-btn" id="basinSecAll" onclick="setBasinSector('all')" data-tooltip="All Dry Bulk sectors comparative basin arbitrage overlay" data-tt-type="concept-basin-sector" data-tt-sector="all" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Dry Sectors</button>
-                </div>
-                <div id="basinTenorToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn" id="basinTenor4_6m" onclick="setBasinTenor('4_6m')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="4_6m" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;">4/6M</button>
-                  <button class="toggle-btn active" id="basinTenor1y" onclick="setBasinTenor('1y')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="1y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1Y</button>
-                  <button class="toggle-btn" id="basinTenor2y" onclick="setBasinTenor('2y')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="2y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">2Y</button>
-                </div>
-                <div id="basinRatioBadge" class="kpi-badge" data-tooltip="Atlantic-to-Pacific Period Rate Ratio (>1.2 = Atlantic Premium / Tonnage Demand; <0.8 = Pacific Premium)">Atl/Pac: —</div>
-              </div>
-            </div>
-            <!-- Basin Arbitrage HUD bar -->
-            <div id="basinHudStrip" style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:120px;" data-tooltip="Net Atlantic minus Pacific Time Charter Spread ($/day)" data-tt-type="basin-net-spread">
-                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Net Spread</div>
-                <div id="basinHudNetSpread" style="font-size:14px;font-weight:700;color:var(--accent);"></div>
-              </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:120px;" data-tooltip="Atlantic rate premium over Pacific as a percentage" data-tt-type="basin-atl-premium">
-                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Atlantic Premium %</div>
-                <div id="basinHudAtlPremium" style="font-size:14px;font-weight:700;color:#3fb950;"></div>
-              </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:120px;" data-tooltip="30-Day Moving Average of the Atlantic-Pacific Spread" data-tt-type="basin-30d-ma">
-                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">30D MA Spread</div>
-                <div id="basinHud30dMa" style="font-size:14px;font-weight:700;color:#79c0ff;"></div>
-              </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Historical 90th Percentile Spread Corridor (Top decile Atlantic premium regime)" data-tt-type="basin-90p-corridor">
-                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">90th Pctl Corridor</div>
-                <div id="basinHud90p" style="font-size:14px;font-weight:700;color:#e3b341;"></div>
-              </div>
-            </div>
-            <div class="index-range-wrap" style="padding: 2px 0 6px;">
-              <div class="index-range-label">
-                <span>Range:</span>
-                <span id="basinRangeLabel">Loading…</span>
-              </div>
-              <div class="dual-range-track" id="basinRangeTrack">
-                <div class="dual-range-fill" id="basinRangeFill"></div>
-                <input type="range" id="basinRangeStart" data-tooltip="Drag to set the left (start) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="0" step="1">
-                <input type="range" id="basinRangeEnd" data-tooltip="Drag to set the right (end) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="100" step="1">
-              </div>
-              <div id="basinDataStartNote" style="font-size:var(--fs-micro);color:var(--text-muted);margin-top:4px;"></div>
-            </div>
-            <div class="chart-canvas-wrap" style="height:320px"><canvas id="basinSpreadChart"></canvas></div>
-          </div>
 
       </div>
 
@@ -14338,7 +14419,7 @@ html.auth-locked body > *:not(#authGateModal) {
       <div class="fearn-sec" id="fearnSec12" style="display:none;">
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title" data-tooltip="Contracting prices for newbuild tonnage, monthly means in USD millions from the newbuilding price cache. Families: dry bulk classes, tanker classes, gas carriers and container classes."><span style="font-size:11px;color:var(--text-muted);font-weight:400;">· monthly means, USD M · families: Dry Bulk / Tankers / Gas / Other-Container</span></div>
+            <div class="chart-title" data-tooltip="Contracting prices for newbuild tonnage, monthly means in USD millions from the newbuilding price cache. Families: dry bulk classes, tanker classes, gas carriers and container classes.">Newbuilding Prices <span style="font-size:11px;color:var(--text-muted);font-weight:400;">· monthly means, USD M · families: Dry Bulk / Tankers / Gas / Other-Container</span></div>
           </div>
           <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:10px;">
             <div style="display:flex;gap:4px;flex-wrap:wrap;" id="fearnNbPills"></div>
@@ -14393,8 +14474,8 @@ html.auth-locked body > *:not(#authGateModal) {
           </div>
 
           <div class="cargo-provenance-strip" style="margin-top:10px;">
-            <div><strong>Source:</strong> Signal Ocean Commercial Fleet &middot; Automated Fleet &amp; AIS Registry Ingest (as recorded by Signal Ocean) &middot; Status mapping is inferred</div>
-            <span class="cargo-badge-live">LIVE SUPPLY REGISTRY</span>
+            <div><strong>Source:</strong> Signal Ocean Commercial Fleet registry &middot; one-off pull (2026-09), not refreshed automatically &middot; status mapping is inferred</div>
+            <span class="badge" style="font-size:11px;padding:2px 8px;border:1px solid var(--border);color:var(--text-muted);" data-tooltip="The vessel registry behind this table was pulled once in 2026-09; no workflow refreshes it, so fleet counts and the orderbook do not move until it is pulled again.">Registry snapshot 2026-09</span>
           </div>
         </div>
       </div>
@@ -14403,7 +14484,7 @@ html.auth-locked body > *:not(#authGateModal) {
       <div class="fearn-sec" id="fearnSec5" style="display:none;">
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title" data-tooltip="Secondhand asset values by ship age (5y/10y ladder) with the demolition scrap value overlaid, from the asset-curve cache. Class picked with the selector; hover the chart for per-month values."><span style="font-size:11px;color:var(--text-muted);font-weight:400;">· tenor ladder + demolition overlay</span></div>
+            <div class="chart-title" data-tooltip="Secondhand asset values by ship age (5y/10y ladder) with the demolition scrap value overlaid, from the asset-curve cache. Class picked with the selector; hover the chart for per-month values.">Asset Values by Age <span style="font-size:11px;color:var(--text-muted);font-weight:400;">· tenor ladder + demolition overlay</span></div>
             <div style="font-size:var(--fs-micro);color:var(--text-muted);font-family:'IBM Plex Mono',monospace;" id="fearnAcMeta"></div>
           </div>
           <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:10px;">
@@ -14414,7 +14495,7 @@ html.auth-locked body > *:not(#authGateModal) {
         </div>
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title" data-tooltip="Parity ratio: five-year-old secondhand value as a percent of newbuilding price for the selected class. Values near 100% mean the secondhand market is pricing close to replacement cost."><span style="font-size:11px;color:var(--text-muted);font-weight:400;">· 5y-old secondhand value as % of newbuild price</span></div>
+            <div class="chart-title" data-tooltip="Parity ratio: five-year-old secondhand value as a percent of newbuilding price for the selected class. Values near 100% mean the secondhand market is pricing close to replacement cost.">Secondhand-to-Newbuild Parity <span style="font-size:11px;color:var(--text-muted);font-weight:400;">· 5y-old secondhand value as % of newbuild price</span></div>
           </div>
           <div class="chart-canvas-wrap" style="height:300px;"><canvas id="fearnAcParity"></canvas></div>
           <div id="fearnAcParityNote" style="font-size:var(--fs-micro);color:var(--text-muted);padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;"></div>
@@ -14475,37 +14556,6 @@ html.auth-locked body > *:not(#authGateModal) {
           </div>
 
 
-          <div class="chart-container mb-20" id="marketCycleQuadrantContainer">
-            <div class="chart-header">
-              <div class="chart-title" id="quadrantChartTitle" data-tooltip="Shipping Cycle Quadrant — 4-phase shipping cycle model plotting spot rate momentum (60D ROC) against Spot/TC ratio Z-score. Classifies the market into: 1) Recovery, 2) Boom, 3) Over-ordering / Distribution, and 4) Restructuring." data-tt-type="concept-quadrant">Shipping Market Cycle Quadrant</div>
-              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-                <div id="quadrantGroupToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="quadGrpDry" onclick="setQuadrantGroup('dry')" data-tooltip=" " data-tt-type="concept-quad-grp" data-tt-grp="dry" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Dry Bulk</button>
-                  <button class="toggle-btn" id="quadGrpCrude" onclick="setQuadrantGroup('crude')" data-tooltip=" " data-tt-type="concept-quad-grp" data-tt-grp="crude" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Crude Tankers</button>
-                  <button class="toggle-btn" id="quadGrpProduct" onclick="setQuadrantGroup('product')" data-tooltip=" " data-tt-type="concept-quad-grp" data-tt-grp="product" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Product Tankers</button>
-                  <button class="toggle-btn" id="quadGrpAll" onclick="setQuadrantGroup('all')" data-tooltip=" " data-tt-type="concept-quad-grp" data-tt-grp="all" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Fleet Overview</button>
-                </div>
-              </div>
-            </div>
-            <div style="display:flex;flex-wrap:wrap;gap:16px;align-items:stretch;">
-              <div class="chart-canvas-wrap" style="height:360px;flex:1;min-width:300px;"><canvas id="marketCycleQuadrantChart"></canvas></div>
-              <div id="quadrantLegendCard" style="flex:0 0 280px;padding:16px;background:var(--hover);border:1px solid var(--border);border-radius:6px;font-size:12px;color:var(--text-muted);display:flex;flex-direction:column;justify-content:space-between;">
-                <div>
-                  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">
-                    <span style="font-weight:600;color:var(--text);font-size:13px;">Cycle Phase Analysis</span>
-                    <span id="quadrantRegimeCounterBadge" style="padding:2px 6px;border-radius:3px;font-size:var(--fs-micro);font-weight:600;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Regime Active</span>
-                  </div>
-                  <div id="quadrantPhaseText" style="font-weight:700;font-size:14px;color:var(--accent);margin-bottom:8px;"></div>
-                  <div id="quadrantDaysCounterWrap" style="background:var(--bg);border:1px solid var(--border);border-radius:4px;padding:8px 10px;margin-bottom:8px;">
-                    <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.3px;">Days in Active Regime</div>
-                    <div id="quadrantDaysCounterVal" style="font-size:13px;font-weight:700;color:var(--text-bright);margin-top:2px;"></div>
-                    <div id="quadrantMedianDurationVal" style="font-size:11px;color:var(--text-muted);margin-top:2px;">10Y Historical Median: —</div>
-                  </div>
-                </div>
-                <div id="quadrantPhaseDesc" style="margin-top:8px;line-height:1.4;border-top:1px solid var(--border);padding-top:8px;">Recovery phase: Spot starting to lift relative to term. Accumulation window.</div>
-              </div>
-            </div>
-          </div>
 
 
 <div class="chart-container mb-20" id="fearnleysSnpLedgerContainer">
@@ -14578,7 +14628,7 @@ html.auth-locked body > *:not(#authGateModal) {
       <div class="fearn-sec" id="fearnSec6" style="display:none;">
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title" data-tooltip="LNG carrier broker valuations grouped by subtype from the gas cache, with gas-carrier spot jobs and project cargo valuations overlaid on the right axis."><span style="font-size:11px;color:var(--text-muted);font-weight:400;">· grouped by subtype · spot &amp; project jobs overlay on right axis</span></div>
+            <div class="chart-title" data-tooltip="LNG carrier broker valuations grouped by subtype from the gas cache, with gas-carrier spot jobs and project cargo valuations overlaid on the right axis.">LNG Carrier Rates &amp; Valuations <span style="font-size:11px;color:var(--text-muted);font-weight:400;">· grouped by subtype · spot &amp; project jobs overlay on right axis</span></div>
           </div>
           <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:10px;">
             <select id="fearnLngSelect" class="tracking-select" style="min-width:360px;max-width:100%;" onchange="onFearnGasSel('LNG')"></select>
@@ -14616,7 +14666,7 @@ html.auth-locked body > *:not(#authGateModal) {
       <div class="fearn-sec" id="fearnSec7" style="display:none;">
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title" data-tooltip="LPG carrier broker valuations grouped by subtype. The archived BLPG block (series no longer published) is excluded here and lives in the Series Museum, disclosed rather than silently dropped."><span style="font-size:11px;color:var(--text-muted);font-weight:400;">· grouped by subtype · BLPG archived block lives in Museum only</span></div>
+            <div class="chart-title" data-tooltip="LPG carrier broker valuations grouped by subtype. The archived BLPG block (series no longer published) is excluded here and lives in the Series Museum, disclosed rather than silently dropped.">LPG Carrier Rates &amp; Prices <span style="font-size:11px;color:var(--text-muted);font-weight:400;">· grouped by subtype · BLPG archived block lives in Museum only</span></div>
           </div>
           <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:10px;">
             <select id="fearnLpgSelect" class="tracking-select" style="min-width:360px;max-width:100%;" onchange="onFearnGasSel('LPG')"></select>
@@ -14654,7 +14704,7 @@ html.auth-locked body > *:not(#authGateModal) {
       <div class="fearn-sec" id="fearnSec8" style="display:none;">
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title" data-tooltip="Brokered fixture records from 2024 onward: vessel, charterer, rate and period. Search and desk filters act on the fixtures cache; counts and rows always reflect what is published."><span style="font-size:11px;color:var(--text-muted);font-weight:400;">· Fixtures from 2024 onward</span></div>
+            <div class="chart-title" data-tooltip="Brokered fixture records from 2024 onward: vessel, charterer, rate and period. Search and desk filters act on the fixtures cache; counts and rows always reflect what is published.">Fixtures Tape <span style="font-size:11px;color:var(--text-muted);font-weight:400;">· Fixtures from 2024 onward</span></div>
             <div style="font-size:var(--fs-micro);color:var(--text-muted);font-family:'IBM Plex Mono',monospace;" id="fearnFxMeta"></div>
           </div>
           <div style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin-bottom:8px;">
@@ -14666,7 +14716,7 @@ html.auth-locked body > *:not(#authGateModal) {
             <div style="flex:1;min-width:0;">
               <div class="tracking-table-wrap" style="max-height:560px;overflow:auto;">
                 <table class="tracking-table" style="font-size:11px;">
-                  <thead><tr><th>Date</th><th>Dept</th><th>Segment</th><th>Vessel / Owner</th><th>Charterer</th><th>Route / Ports</th><th>Commodity</th><th>Period</th><th>Laycan</th><th style="text-align:right;">Rate</th><th style="min-width:220px;">Comment <span style="font-size:10px;font-weight:normal;color:var(--text-muted);">(click row for full details)</span></th></tr></thead>
+                  <thead><tr><th>Date</th><th>Dept</th><th>Segment</th><th>Vessel / Owner</th><th>Charterer</th><th data-fxcol="route">Route / Ports</th><th>Commodity</th><th data-fxcol="period">Period</th><th data-fxcol="laycan">Laycan</th><th data-fxcol="rate" style="text-align:right;">Rate</th><th style="min-width:220px;">Comment <span style="font-size:10px;font-weight:normal;color:var(--text-muted);">(click row for full details)</span></th></tr></thead>
                   <tbody id="fearnFxBody"><tr><td colspan="11" style="text-align:center;color:var(--text-muted);padding:14px;">Loading tape…</td></tr></tbody>
                 </table>
               </div>
@@ -14700,7 +14750,7 @@ html.auth-locked body > *:not(#authGateModal) {
       <div class="fearn-sec" id="fearnSec9" style="display:none;">
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title" data-tooltip="Browse every monthly series in the Fearnleys archive: latest value, all-time high/low, and full history for the selected label. Coverage badge shows the span from the cache."><span id="fearnBrowserCoverage" style="font-size:11px;color:var(--text-muted);font-weight:400;"></span></div>
+            <div class="chart-title" data-tooltip="Browse every monthly series in the Fearnleys archive: latest value, all-time high/low, and full history for the selected label. Coverage badge shows the span from the cache.">Series Browser <span id="fearnBrowserCoverage" style="font-size:11px;color:var(--text-muted);font-weight:400;"></span></div>
             <div style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;">pick a desk, then a series · stats recompute from cached monthly history</div>
           </div>
           <div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px;" id="fearnTypePills"></div>
@@ -14717,6 +14767,11 @@ html.auth-locked body > *:not(#authGateModal) {
           <div class="chart-canvas-wrap" style="height:340px;margin-top:10px;"><canvas id="fearnMainChart"></canvas></div>
           <div id="fearnSeriesNote" style="font-size:11px;color:var(--text-muted);padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;"></div>
         </div>
+        <!-- App-wide data catalogue: it lists all 112 series across every tab, not
+             broker data, and ran ~4,000px below the series browser. Collapsed by
+             default; the cards still render so search/filter work when opened. -->
+        <details class="fearn-catalogue-details" id="fearnCatalogueDetails">
+          <summary data-tooltip="Every data series behind the site, with its source, status, span and a link to where it is charted.">Data Catalogue &amp; Provenance (all tabs)</summary>
         <div class="chart-container mb-20">
           <div class="chart-header">
             <div>
@@ -14730,6 +14785,7 @@ html.auth-locked body > *:not(#authGateModal) {
           </div>
           <div id="fearnMusWall" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px;"></div>
         </div>
+        </details>
       </div>
 
       <!-- S10 BROKER VOICE -->
@@ -14738,7 +14794,7 @@ html.auth-locked body > *:not(#authGateModal) {
           <div class="chart-header">
             <div>
               <div class="chart-title" data-tooltip="Broker voice & research repository — Fearnleys weekly comments, Gibson research reports (548), and shipbroker report digests. Full-text search across all commentary and publications.">Broker Voice & Research Repository <span id="fearnVoiceCount" style="font-size:11px;color:var(--text-muted);font-weight:400;"></span></div>
-              <div style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;margin-top:2px;">12,500+ commercial broker commentaries, outlook reports, and sector digests with direct document links</div>
+              <div style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;margin-top:2px;">Recent desk comments and research reports load first; "Load full archive" adds the per-desk comment archive (~11,800 rows across dry, tanker, gas and S&amp;P)</div>
             </div>
           </div>
           <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px;">
@@ -14766,7 +14822,7 @@ html.auth-locked body > *:not(#authGateModal) {
             <input type="text" id="fearnVoiceSearch" class="tracking-input" placeholder="Search commentary, titles, keywords..." style="min-width:200px;flex:1;font-size:11px;" oninput="onFearnVoiceChange()" data-tooltip="Search commentary by keyword, vessel name, charterer, or route.">
             <button id="fearnArchiveBtn" class="tracking-status-btn" onclick="loadFearnArchive()" data-tooltip="Lazy-load the full per-desk comment archive (11k+ rows in 4 chunks, refreshed twice daily) for deeper search.">Load full archive</button>
           </div>
-          <div id="fearnVoiceStream" style="display:flex;flex-direction:column;gap:8px;max-height:560px;overflow-y:auto;"></div>
+          <div id="fearnVoiceStream" style="display:flex;flex-direction:column;gap:8px;max-height:min(1100px, 80vh);overflow-y:auto;"></div>
         </div>
       </div>
 
@@ -15981,7 +16037,7 @@ if (intelTabsContainer) {
           </div>
         </div>
         <div style="display:flex;align-items:center;gap:8px;">
-          <span class="badge" data-tt-type="cargo-generic-card" data-tt-title="Commercial Charter Fixtures Ledger" data-tt-val="Fixture count on the matrix badge" data-tt-sub="2018–2026 Continuous Record" data-tt-vessel="Capesize, Panamax, Supramax, Handysize, Tanker &amp; Gas" data-tt-source="Fearnleys Broker Fixture Archive" data-tt-note="Global fixture database capturing commercial charter party transactions across major dry bulk, liquid tanker, LPG and LNG segments with multi-field taxonomy." style="font-size:11px;padding:3px 8px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);cursor:help;">547k Commercial Fixtures</span>
+          <span class="badge" data-tt-type="cargo-generic-card" data-tt-title="Commercial Charter Fixtures Ledger" data-tt-val="Fixture count on the matrix badge" data-tt-sub="2018–2026 Continuous Record" data-tt-vessel="Capesize, Panamax, Supramax, Handysize, Tanker &amp; Gas" data-tt-source="Fearnleys Broker Fixture Archive" data-tt-note="Global fixture database capturing commercial charter party transactions across major dry bulk, liquid tanker, LPG and LNG segments with multi-field taxonomy." style="font-size:11px;padding:3px 8px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);cursor:help;" id="cargoFixtureCountBadge">Commercial Fixtures</span>
           <span class="badge" data-tt-type="cargo-generic-card" data-tt-title="Global Arterial Trade Corridors" data-tt-val="14 Core Maritime Routes" data-tt-sub="Cross-Basin Cargo Networks" data-tt-vessel="Capesize, Panamax, Supramax" data-tt-source="AIS Tracking &amp; Customs Port Pairs" data-tt-note="Normalized bilateral shipping lanes linking primary loading basins (Pilbara, Tubarao, Santos, US Gulf, Newcastle, Kalimantan, Boke) with key Asian and Atlantic discharge hubs." style="font-size:11px;padding:3px 8px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);cursor:help;">14 Trade Corridors</span>
         </div>
       </div>
@@ -16071,7 +16127,7 @@ if (intelTabsContainer) {
               <div id="flagshipHudVol" style="font-size:13px;font-weight:700;color:#3fb950;">—</div>
             </div>
             <div id="flagshipRateTile" data-tt-type="cargo-generic-card" data-tt-title="Benchmark Freight Assessment" data-tt-val="Market Clearing Settlement Rate" data-tt-sub="Baltic Exchange Index or Spot Assessment" data-tt-vessel="Standardized Specification DWT" data-tt-source="Baltic Exchange &amp; Fearnleys Intelligence" data-tt-note="Continuous settlement benchmark used for freight derivatives (FFA) and commercial charter party settlements." style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;cursor:help;">
-              <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Baltic Route Spot Rate</div>
+              <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Route Rate (Latest Monthly Avg)</div>
               <div id="flagshipHudRate" style="font-size:13px;font-weight:700;color:#e3b341;">—</div>
             </div>
             <div id="flagshipTsidTile" data-tt-type="cargo-generic-card" data-tt-title="Time-Series Curve Identifier (TSID)" data-tt-val="Baltic Standard Curve ID" data-tt-sub="Deterministic Index Code" data-tt-vessel="Official Baltic Specification" data-tt-source="Baltic Exchange Market Data" data-tt-note="Unique system identifier for the underlying daily route curve, guaranteeing exact auditability with official Baltic market feeds." style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;cursor:help;">
@@ -16828,22 +16884,28 @@ if (intelTabsContainer) {
       <div class="bunkers-toolbar">
         <div class="bunkers-tool-left">
           <span class="bnkr-tag">BNKR</span>
-          <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-right:4px;">REGION:</div>
+          <div class="bunkers-filter-group">
+          <div class="bunkers-filter-label">REGION</div>
           <button class="bunkers-pill active" data-region="all" onclick="setBunkerRegion('all')" data-tt-type="bunker-region-btn" data-tt-region="all">All Regions (213 Ports)</button>
           <button class="bunkers-pill" data-region="APAC" onclick="setBunkerRegion('APAC')" data-tt-type="bunker-region-btn" data-tt-region="APAC">Asia-Pacific (APAC)</button>
           <button class="bunkers-pill" data-region="EMEA" onclick="setBunkerRegion('EMEA')" data-tt-type="bunker-region-btn" data-tt-region="EMEA">Europe, MidEast, Africa</button>
           <button class="bunkers-pill" data-region="Americas" onclick="setBunkerRegion('Americas')" data-tt-type="bunker-region-btn" data-tt-region="Americas">Americas</button>
 
-          <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-left:12px; margin-right:4px;">GRADE:</div>
+          </div>
+          <div class="bunkers-filter-group">
+          <div class="bunkers-filter-label">GRADE</div>
           <button class="bunkers-pill active" data-grade="all" onclick="setBunkerGrade('all')" data-tt-type="bunker-grade-btn" data-tt-grade="all">All Grades</button>
           <button class="bunkers-pill" data-grade="VLSFO" onclick="setBunkerGrade('VLSFO')" data-tt-type="bunker-grade-btn" data-tt-grade="VLSFO">VLSFO</button>
           <button class="bunkers-pill" data-grade="MGO" onclick="setBunkerGrade('MGO')" data-tt-type="bunker-grade-btn" data-tt-grade="MGO">MGO</button>
           <button class="bunkers-pill" data-grade="IFO380" onclick="setBunkerGrade('IFO380')" data-tt-type="bunker-grade-btn" data-tt-grade="IFO380">HSFO</button>
           <button class="bunkers-pill" data-grade="BIO" onclick="setBunkerGrade('BIO')" data-tt-type="bunker-grade-btn" data-tt-grade="BIO">Biofuels</button>
 
-          <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-left:12px; margin-right:4px;">STATUS:</div>
+          </div>
+          <div class="bunkers-filter-group">
+          <div class="bunkers-filter-label">STATUS</div>
           <button class="bunkers-pill active" id="bunkerPillStatusAll" data-freshness="all" onclick="setBunkerFreshness('all')" data-tt-type="bunker-freshness-btn" data-tt-freshness="all">All Ports (213)</button>
           <button class="bunkers-pill" id="bunkerPillStatusActive" data-freshness="active" onclick="setBunkerFreshness('active')" data-tt-type="bunker-freshness-btn" data-tt-freshness="active" data-tooltip="Filter to active bunkering ports with verified quotes updated in September 2026 (161 ports).">Active / Sep 2026 (161)</button>
+          </div>
         </div>
         <div class="bunkers-tool-right">
           <input type="text" id="bunkersSearchInput" class="bunkers-input" placeholder="Search port, country, code..." oninput="onBunkersSearchInput()" data-tt-type="bunker-search">
@@ -16965,7 +17027,7 @@ if (intelTabsContainer) {
                   <option value="Rotterdam">Rotterdam (Port Authority Deliveries)</option>
                 </select>
               </div>
-              <span id="bunkerVolBadge" class="bunker-term-badge" data-tt-type="cargo-generic-card" data-tt-title="Bunker Sales Seasonal Envelope" data-tt-val="5-Year Historical Band (2021–2026)" data-tt-sub="Monthly Sales Volumes" data-tt-vessel="Merchant Fleet Refueling" data-tt-source="MPA Singapore &amp; Port of Rotterdam" data-tt-note="Compares current monthly bunker sales against historical 5-year monthly minimum and maximum volumes to detect macro shipping activity trends." style="background:rgba(0,229,255,0.12); color:#00e5ff; border:1px solid rgba(0,229,255,0.3); cursor:help;">5-YEAR SEASONAL ENVELOPE</span>
+              <span id="bunkerVolBadge" class="bunker-term-badge" data-tt-type="cargo-generic-card" data-tt-title="Bunker Sales Seasonal Envelope" data-tt-val="Year-on-year monthly sales" data-tt-sub="Monthly Sales Volumes" data-tt-vessel="Merchant Fleet Refueling" data-tt-source="MPA Singapore &amp; Port of Rotterdam" data-tt-note="Each calendar year of Singapore monthly bunker sales drawn as its own line, so the current year reads directly against the same months of prior years." style="background:rgba(0,229,255,0.12); color:#00e5ff; border:1px solid rgba(0,229,255,0.3); cursor:help;">YEAR-ON-YEAR</span>
             </div>
             <!-- Physical Volumes Chart -->
             <div style="height:230px; position:relative; padding:10px; background:#070b10; border-bottom:1px solid var(--border);">
@@ -17030,7 +17092,7 @@ if (intelTabsContainer) {
                     <th data-tooltip="Price premium of VLSFO over HSFO ($/MT).">Hi-5 Spread</th>
                     <th data-tooltip="Daily earnings premium for scrubber-fitted Capesize vessel (45 MT/d).">Cape TCE Bonus</th>
                     <th data-tooltip="Daily earnings premium for scrubber-fitted VLCC vessel (55 MT/d).">VLCC TCE Bonus</th>
-                    <th data-tooltip="Estimated EU ETS carbon compliance cost per MT of fuel burned.">EU ETS Cost</th>
+                    <th data-tooltip="Date of the port's latest quote; spreads from old quotes are less reliable.">Quoted</th>
                   </tr>
                 </thead>
                 <tbody id="bunkersScrubberTableBody">
@@ -19707,7 +19769,6 @@ if (intelTabsContainer) {
 
     window.TAB_LOADERS = {
       'dashboard': null,
-      'yearly-dash': null,
       'seasonality': null,
       'indices': null,
       'etfs': loadEtfsData,
@@ -19722,7 +19783,6 @@ if (intelTabsContainer) {
 
     window.TAB_LOADED = {
       'dashboard': true,
-      'yearly-dash': true,
       'seasonality': true,
       'indices': true
     };
@@ -20174,6 +20234,20 @@ function buildMaster() {
       const stats = getStats(productKey);
       if (!stats) return;
 
+      // Boot data is a five-year slice, so until the per-product deep view
+      // lands the All-Time / 10Y percentiles, the 10Y mean and the seasonal
+      // z-score would all silently be five-year numbers (they used to print
+      // identical values under three different headings). Render now, then
+      // once more on the deep history if the product is still on screen.
+      if (typeof ensureDeepHistory === 'function' && !(PRODUCTS[productKey] || {}).computed) {
+        ensureDeepHistory(productKey).then(function (extended) {
+          if (extended && (window.currentProduct || 'bdiy') === productKey &&
+              (!window.currentTab || window.currentTab === 'dashboard')) {
+            renderDashboard(productKey);
+          }
+        });
+      }
+
       const rows = getRows(productKey);
       const latest = rows[rows.length - 1];
 
@@ -20338,6 +20412,7 @@ function buildMaster() {
         function () { renderMacroCyclesTable(productKey, 'macroCyclesTable', 'macroCyclesDlBtn'); },
         function () { renderCorrMatrix(currentCorrTimeframe); },
         function () { renderRecentChanges(productKey); },
+        function () { renderYearlyDash(productKey); },
       ];
       // Synchronous Batch 1 (0ms latency), Batch 2 in RAF
       for (let i = 0; i < 2 && i < dashCharts.length; i++) {
@@ -22194,7 +22269,10 @@ function buildMaster() {
         const vals52w = allVals.slice(-252);
         const w52High = Math.max(...vals52w);
         const w52Low = Math.min(...vals52w);
-        const w52RangeStr = `${fmt(w52High, precision)} - ${fmt(w52Low, precision)}`;
+        // Drop decimals once values reach four digits: '3,651.69 - 2,301.…' was
+        // truncated in the card; '3,652 - 2,301' fits and loses nothing useful.
+        const rangePrec = Math.abs(w52High) >= 1000 ? 0 : precision;
+        const w52RangeStr = `${fmt(w52High, rangePrec)} - ${fmt(w52Low, rangePrec)}`;
 
         // 2. 52W Position
         const denom = w52High - w52Low;
@@ -23412,7 +23490,10 @@ function buildMaster() {
       const prices = rows.map(r => r.nav);
       const inflows = rows.map(r => r.daily_inflow || 0);
       const outflows = rows.map(r => r.daily_outflow || 0);
-      const dailyNet = rows.map(r => (r.daily_inflow || 0) - (r.daily_outflow || 0));
+      // daily_outflow is stored as a NEGATIVE dollar amount. Subtracting it (and
+      // negating it again for the bar) drew every redemption as a positive bar
+      // above zero; use magnitudes so outflows hang below the axis.
+      const dailyNet = rows.map(r => Math.abs(r.daily_inflow || 0) - Math.abs(r.daily_outflow || 0));
 
       let currentCum = 0;
       const cumFlows = rows.map(r => {
@@ -23520,7 +23601,7 @@ function buildMaster() {
             },
             {
               label: 'Daily Outflow',
-              data: outflows.map(v => -v),
+              data: outflows.map(v => -Math.abs(v)),
               backgroundColor: 'rgba(248, 81, 73, 0.65)',
               borderColor: 'rgba(248, 81, 73, 1)',
               borderWidth: 0,
@@ -24330,6 +24411,8 @@ function buildMaster() {
         <div class="etf-legend-line"><span class="etf-legend-dash"></span>Dry Bulk Routes</div>
       </div>
     </div>
+    <details class="etf-sources-details">
+      <summary data-tooltip="External reference links behind this fund: fundamentals data portals, broker and research publications, the issuer pages and the Baltic route-weight documents.">Fundamentals &amp; research sources</summary>
     <div class="etf-fundamentals-section">
       <div class="etf-research-title"><span class="icon-tile icon-tile-accent icon-tile-md" style=""><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M2 21c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1 .6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1"/><path d="M19.38 20A11.6 11.6 0 0 0 21 14l-9-4-9 4c0 2.9.94 5.34 2.81 7.76"/><path d="M19 13V7a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v6"/></svg></span> &nbsp;Dry Bulk Fundamentals - Data Sources</div>
       <div class="etf-fund-group">
@@ -24359,6 +24442,8 @@ function buildMaster() {
         <div class="etf-legend-item"><span class="icon-tile icon-tile-purple icon-tile-sm" style="margin-right:4px;"><span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:currentColor;"></span></span>BWET Focused Routes</div>
       </div>
     </div>
+    <details class="etf-sources-details">
+      <summary data-tooltip="External reference links behind this fund: fundamentals data portals, broker and research publications, the issuer pages and the Baltic route-weight documents.">Fundamentals &amp; research sources</summary>
     <div class="etf-fundamentals-section">
       <div class="etf-research-title"><span class="icon-tile icon-tile-orange icon-tile-md" style=""><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/></svg></span> &nbsp;Tanker Fundamentals - Data Sources</div>
       <div class="etf-fund-group">
@@ -24404,6 +24489,7 @@ function buildMaster() {
         <div class="research-link"><span class="icon-tile icon-tile-green icon-tile-sm" style=""><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="3" y="3" width="18" height="18" rx="2"/><line x1="3" y1="9" x2="21" y2="9"/><line x1="3" y1="15" x2="21" y2="15"/><line x1="9" y1="3" x2="9" y2="21"/></svg></span> &nbsp;<a href="assets/reference/Baltic_Exchange_Indices_Route_Allocation.xlsx" download data-tooltip="${etfKey === 'bdry' ? 'Excel workbook: route-by-route BDI weights with formulas (class share x route weight), one sheet each for dry bulk, tankers and gas/chemicals.' : 'Excel workbook: BDTI and BCTI route tables with weights, one sheet each for dry bulk, tankers and gas/chemicals.'}">Baltic Indices Route Allocation Workbook (.xlsx)</a></div>
       </div>
     </div>
+    </details>
 `;
     }
 
@@ -24629,10 +24715,14 @@ function buildMaster() {
 
     async function switchTab(tabId) {
       window.switchTab = switchTab;
+      // The Yearly tab was folded into the Dashboard; keep old links working.
+      var _scrollToHistory = false;
+      if (tabId === 'yearly-dash') { tabId = 'dashboard'; _scrollToHistory = true; }
       document.querySelectorAll('.tab-btn').forEach(b => b.classList.toggle('active', b.dataset.tab === tabId));
       document.querySelectorAll('.tab-panel').forEach(p => p.classList.toggle('active', p.id === `tab-${tabId}`));
       currentTab = tabId;
       window.currentTab = currentTab;
+      if (document.body) document.body.setAttribute('data-tab', tabId);
       // Hide alert bar on non-dashboard tabs
       const alertsEl = document.getElementById('alertsContainer');
       if (alertsEl) alertsEl.style.display = tabId === 'dashboard' ? '' : 'none';
@@ -24659,7 +24749,13 @@ function buildMaster() {
         }
       }
 
-      if (tabId === 'dashboard') renderDashboard(currentProduct);
+      if (tabId === 'dashboard') {
+        renderDashboard(currentProduct);
+        if (_scrollToHistory) {
+          var _fh = document.getElementById('yearlyHistChart');
+          if (_fh && _fh.scrollIntoView) setTimeout(function () { _fh.scrollIntoView({ block: 'center' }); }, 50);
+        }
+      }
       if (tabId === 'seasonality') withDeepHistory(currentProduct, function () {
         renderQuarterlyTab(currentProduct); renderMonthlyDash(currentProduct); renderHeatmaps(currentProduct);
       });
@@ -24676,7 +24772,6 @@ function buildMaster() {
           } catch (e) { console.error('[ETFTab Engine]', e); }
         }
       }
-      if (tabId === 'yearly-dash') withDeepHistory(currentProduct, function () { renderYearlyDash(currentProduct); });
       if (tabId === 'signals') {
         if (typeof window.closeFFAContractHistory === 'function') window.closeFFAContractHistory();
         renderSignalsTab(currentProduct);
@@ -25229,7 +25324,6 @@ function buildMaster() {
       if (currentTab === 'seasonality') withDeepHistory(currentProduct, function () {
         renderQuarterlyTab(currentProduct); renderMonthlyDash(currentProduct); renderHeatmaps(currentProduct);
       });
-      if (currentTab === 'yearly-dash') withDeepHistory(currentProduct, function () { renderYearlyDash(currentProduct); });
       if (currentTab === 'signals') renderSignalsTab(currentProduct);
       if (currentTab === 'intelligence') renderIntelligenceTab();
       if (currentTab === 'etfs') {
@@ -25238,9 +25332,6 @@ function buildMaster() {
       }
     });
 
-    document.getElementById('ratesOverlayProduct').addEventListener('change', function () {
-      if (DATA.loaded && currentTab === 'yearly-dash') renderYDRatesOverlay('yearlyRatesChart');
-    });
 
     // =====================================================================
     // BOOTSTRAP
@@ -25407,6 +25498,24 @@ function buildMaster() {
 
           DATA.years = [...new Set(DATA.master.map(function (r) { return r.year; }))].sort(function (a, b) { return a - b; });
 
+          // Rebuild this product's per-year trading-day index over the deep
+          // span. Boot built <key>_td from the five-year master, so the first
+          // (partial) year was numbered from its first in-window session and
+          // DATA.byTdProduct - which feeds the Dashboard's seasonal z-score -
+          // only ever held five observations per trading day.
+          var tdKeyD = productKey + '_td';
+          var tdIdx = {}, tdYear = null, tdN = 0;
+          for (var t = 0; t < DATA.master.length; t++) {
+            var tr = DATA.master[t];
+            if (tr[productKey] == null) continue;
+            if (tr.year !== tdYear) { tdYear = tr.year; tdN = 0; }
+            tdN++;
+            tr[tdKeyD] = tdN;
+            (tdIdx[tdN] || (tdIdx[tdN] = [])).push(tr[productKey]);
+          }
+          DATA.byTdProduct = DATA.byTdProduct || {};
+          DATA.byTdProduct[productKey] = tdIdx;
+
           // The range slider preserves the visible DATE window across data
           // changes, which would pin the chart to the five-year window it was
           // first built with and hide the history we just loaded. Drop the
@@ -25498,39 +25607,37 @@ function buildMaster() {
     }
     window.setSeasonGranularity = setSeasonGranularity;
 
+    // The former Yearly tab now lives on the Dashboard: the full-history price
+    // chart renders with the Dashboard, the cross-benchmark pair only once its
+    // collapsible is opened (the rolling z-score matrix over every product is
+    // the single most expensive build on the page, so it stays off boot).
     function renderYearlyDash(productKey) {
       _ydHistProductKey = productKey;
-      var fns = [
-        function () { renderYDKpi(productKey); },
-        function () { initYDHistChart(productKey); },
-        function () { renderYDZscore(productKey, _ydZscoreAllTime === true, 'yearlyZscoreChart'); },
-        function () { renderYDMultiRates('yearlyMultiRatesChart'); },
-        function () { renderYDRatesOverlay('yearlyRatesChart'); },
-        function () { renderYDDrawdown(productKey, 'yearlyDrawdownChart'); },
-      ];
-      // Synchronous Batch 1 (0ms latency): KPI + history chart paint first.
-      for (let i = 0; i < 2 && i < fns.length; i++) {
-        try { fns[i](); } catch (e) { console.error('[YearlyDash]', e); }
-      }
-      // PHASE SPEED progressive render: fns[2..3] own the first-visit rolling
-      // z-score builds (the 252-day matrix over every product, ~250ms on first
-      // paint) and fns[4..] the multi-rates/overlay set. KPI + history chart
-      // are already on screen by now, so the heavy builds run on the NEXT two
-      // frames instead of blocking this tab's first paint. Same compute, same
-      // charts, same order - just off the critical path; on revisit the
-      // z-score cache answers instantly.
-      const rafAll = window.requestAnimationFrame || function (cb) { setTimeout(cb, 16); };
-      rafAll(function () {
-        for (let i = 2; i < 4 && i < fns.length; i++) {
-          try { fns[i](); } catch (e) { console.error('[YearlyDash]', e); }
-        }
-        rafAll(function () {
-          for (let i = 4; i < fns.length; i++) {
-            try { fns[i](); } catch (e) { console.error('[YearlyDash]', e); }
-          }
-        });
-      });
+      try { initYDHistChart(productKey); } catch (e) { console.error('[FullHistory]', e); }
+      var cb = document.getElementById('crossBenchContent');
+      if (cb && cb.classList.contains('open')) renderCrossBench(productKey);
     }
+    window.renderYearlyDash = renderYearlyDash;
+
+    function renderCrossBench(productKey) {
+      productKey = productKey || window.currentProduct || 'bdiy';
+      try { renderYDZscore(productKey, _ydZscoreAllTime === true, 'yearlyZscoreChart'); } catch (e) { console.error('[CrossBench z]', e); }
+      try { renderYDMultiRates('yearlyMultiRatesChart'); } catch (e) { console.error('[CrossBench annual]', e); }
+    }
+
+    function toggleCrossBench() {
+      var btn = document.getElementById('crossBenchToggle');
+      var content = document.getElementById('crossBenchContent');
+      if (!btn || !content) return;
+      btn.classList.toggle('open');
+      content.classList.toggle('open');
+      if (content.classList.contains('open')) {
+        (window.requestAnimationFrame || function (cb) { setTimeout(cb, 16); })(function () {
+          renderCrossBench(window.currentProduct);
+        });
+      }
+    }
+    window.toggleCrossBench = toggleCrossBench;
 
     function setYDHistAvg(w) {
       window.setYDHistAvg = setYDHistAvg;
@@ -25550,7 +25657,9 @@ function buildMaster() {
 
     function setYDHistRange(productKey) {
       const allRows = getRows(productKey);
-      initDualRangeSlider('ydHistRange', allRows, function (s, e) {
+      // initDualRangeSlider calls back with (isManual, s, e); reading it as
+      // (s, e) made the label print '-> 1985-01' for a 1985->2026 window.
+      initDualRangeSlider('ydHistRange', allRows, function (_manual, s, e) {
         // Update label (specific to Indices tab: YYYY-MM)
         var labelEl = document.getElementById('ydHistRangeLabel');
         if (labelEl) {
@@ -25718,7 +25827,16 @@ function buildMaster() {
     var _ydZscoreProductKey = null; // cached so setYDZscoreWindow can re-render
     var _ydZscoreCache = {};        // lazy cache keyed by windowSize - computed once per window, reused forever
     var _ydZscoreActivePreset = '1Y';
-    var _ydZscoreHiddenMap = {};
+    // Default to the seven Baltic benchmarks. With all 22 products drawn the
+    // chart was an unreadable band of lines; the equity, futures and gas
+    // series are still one legend click away.
+    var CROSS_BENCH_CORE = { bdiy: 1, cape: 1, panama: 1, suprama: 1, handysize: 1, dirtytanker: 1, cleantanker: 1 };
+    function crossBenchDefaultHidden() {
+      var m = {};
+      Object.keys(PRODUCTS).forEach(function (k) { if (!CROSS_BENCH_CORE[k]) m[PRODUCTS[k].label] = true; });
+      return m;
+    }
+    var _ydZscoreHiddenMap = null;
 
     var _ydZscoreWindowLabels = {
       63: '3M',
@@ -25806,13 +25924,14 @@ function buildMaster() {
       if (!masterLabels || !masterLabels.length) return;
 
       // Preserve hidden state from existing chart
+      if (!_ydZscoreHiddenMap) _ydZscoreHiddenMap = crossBenchDefaultHidden();
       var prevChart = chartRegistry[canvasId];
       if (prevChart && prevChart.data && prevChart.data.datasets) {
         prevChart.data.datasets.forEach(function (ds, i) {
           _ydZscoreHiddenMap[ds.label] = !prevChart.isDatasetVisible(i);
         });
       }
-      var hiddenByLabel = _ydZscoreHiddenMap || {};
+      var hiddenByLabel = _ydZscoreHiddenMap || (_ydZscoreHiddenMap = crossBenchDefaultHidden());
 
       var visibleKeys = PRODUCT_KEYS.filter(function (key) {
         var prod = PRODUCTS[key];
@@ -25947,7 +26066,7 @@ function buildMaster() {
       var slicedSet = {};
       slicedLabels.forEach(function (l) { slicedSet[l] = true; });
 
-      var hiddenByLabel = _ydZscoreHiddenMap || {};
+      var hiddenByLabel = _ydZscoreHiddenMap || (_ydZscoreHiddenMap = crossBenchDefaultHidden());
 
       // Build full-resolution aligned data per product first
       var fullDatasets = PRODUCT_KEYS.map(function (key) {
@@ -26111,13 +26230,17 @@ function buildMaster() {
         });
       });
 
-      // Preserve hidden state from previous chart instance (legend clicks)
+      // Preserve hidden state from previous chart instance (legend clicks);
+      // first draw shows the Baltic core set (annual averages of equity and
+      // air-freight indices sit on a 5x larger scale and flattened the rest).
       var hiddenByLabel = {};
       var prevChart = chartRegistry[canvasId];
       if (prevChart && prevChart.data && prevChart.data.datasets) {
         prevChart.data.datasets.forEach(function (ds, i) {
           hiddenByLabel[ds.label] = !prevChart.isDatasetVisible(i);
         });
+      } else {
+        hiddenByLabel = crossBenchDefaultHidden();
       }
 
       // Helper to compute active continuous year range from all visible datasets
@@ -27299,6 +27422,19 @@ function buildMaster() {
       if (!allTcRows.length) return;
 
       if (isMainCall) {
+        var _tcS0 = document.getElementById('tcRangeStart');
+        if (_tcS0 && !_tcS0._fiveYrDefault && allTcRows.length) {
+          // First paint: last five years (26 years of daily points was the
+          // default and buried the current cycle). The slider still spans 2000+.
+          _tcS0._fiveYrDefault = true;
+          var _tcE0 = document.getElementById('tcRangeEnd');
+          var _cut = new Date(allTcRows[allTcRows.length - 1].date); _cut.setFullYear(_cut.getFullYear() - 5);
+          var _si = allTcRows.findIndex(function (r) { return r.date >= _cut; });
+          _tcS0._allRows = null;
+          _tcS0.max = _tcE0.max = allTcRows.length - 1;
+          _tcS0.value = _si < 0 ? 0 : _si;
+          _tcE0.value = allTcRows.length - 1;
+        }
         initDualRangeSlider('tcRange', allTcRows, function(isManual) { if (isManual) renderTimeCharterChart(productKey); });
       }
       const tcSEl = document.getElementById('tcRangeStart');
@@ -29833,7 +29969,9 @@ function buildMaster() {
         const filteredPoints = points.filter(p => p.date >= cutoff);
         if (!filteredPoints.length) return;
 
-        const lastWeeks = filteredPoints.slice(-20);
+        // 12 weekly prints per class (was 20 with curved joins: four classes
+        // drew an unreadable tangle). Older points fade; the dot is today.
+        const lastWeeks = filteredPoints.slice(-12);
         if (!lastWeeks.length) return;
 
         if (sIdx === 0) {
@@ -29853,15 +29991,22 @@ function buildMaster() {
           };
         });
 
+        const hexA = (h, a) => {
+          const m = /^#?([0-9a-f]{6})$/i.exec(h || '');
+          if (!m) return h;
+          const n = parseInt(m[1], 16);
+          return 'rgba(' + ((n >> 16) & 255) + ',' + ((n >> 8) & 255) + ',' + (n & 255) + ',' + a.toFixed(2) + ')';
+        };
         datasets.push({
           label: lbl,
           data: scatterData,
-          borderColor: col,
-          backgroundColor: scatterData.map(p => col),
-          borderWidth: 1.8,
+          borderColor: hexA(col, 0.45),
+          backgroundColor: scatterData.map(p => hexA(col, p.opacity)),
+          pointBorderColor: scatterData.map(p => hexA(col, p.opacity)),
+          borderWidth: 1.2,
           showLine: true,
-          tension: 0.3,
-          pointRadius: scatterData.map((p, idx) => idx === scatterData.length - 1 ? 6 : 2.5),
+          tension: 0,
+          pointRadius: scatterData.map((p, idx) => idx === scatterData.length - 1 ? 7 : 2),
           pointHoverRadius: 7
         });
       });
@@ -31053,14 +31198,16 @@ function buildMaster() {
         const latestEua = latest.euaPriceEur != null ? latest.euaPriceEur : latest.euaCarbonPriceEur;
         const h5 = latest.singHi5 != null ? latest.singHi5 : latest.sgHi5Spread;
         badge.innerHTML = `EUA Carbon: <strong>€${(latestEua || 0).toFixed(1)}/t</strong>` +
-          (h5 != null ? ` | Hi-5 Spread: <strong>$${h5.toFixed(1)}/MT</strong>` : '');
+          (h5 != null ? ` | Hi-5 Spread: <strong>$${h5.toFixed(1)}/MT</strong>` : '') +
+          (latest.dateStr ? ` <span style="opacity:.7">· obs ${latest.dateStr}</span>` : '');
       }
 
       const datasets = [
-        { label: 'EU ETS Carbon Allowance (€/t CO2)', data: eua, borderColor: '#58a6ff', borderWidth: 2, tension: 0.1 },
+        // pointRadius 0: ~4,000 daily points drew as a smear of dots.
+        { label: 'EU ETS Carbon Allowance (€/t CO2)', data: eua, borderColor: '#58a6ff', borderWidth: 1.5, tension: 0.1, pointRadius: 0, pointHoverRadius: 3, spanGaps: true },
       ];
       if (hasHi5) {
-        datasets.push({ label: 'Singapore Hi-5 Fuel Spread ($/MT)', data: hi5, borderColor: '#3fb950', borderWidth: 2, tension: 0.1, yAxisID: 'y1' });
+        datasets.push({ label: 'Singapore Hi-5 Fuel Spread ($/MT)', data: hi5, borderColor: '#3fb950', borderWidth: 1.5, tension: 0.1, pointRadius: 0, pointHoverRadius: 3, spanGaps: true, yAxisID: 'y1' });
       }
 
       destroyChart('carbonEtsChart');
@@ -31079,7 +31226,7 @@ function buildMaster() {
             tooltip: { callbacks: { label: c => c.datasetIndex === 0 ? ` ${c.dataset.label}: €${c.parsed.y}/t` : ` ${c.dataset.label}: $${c.parsed.y}/MT` } }
           },
           scales: {
-            x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, maxTicksLimit: 12 } },
+            x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, maxTicksLimit: 9, maxRotation: 0, callback: function (v) { var l = this.getLabelForValue(v); return l ? String(l).slice(0, 7) : l; } } },
             y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, callback: v => '€' + v }, title: { display: true, text: 'EUA Carbon Price (€/t)', color: '#8b949e', font: { size: 11 } } },
             y1: { position: 'right', grid: { drawOnChartArea: false }, ticks: { color: '#3fb950', font: { size: 11 }, callback: v => '$' + v }, title: { display: true, text: 'Hi-5 Bunker Spread ($/MT)', color: '#3fb950', font: { size: 11 } } }
           }
@@ -32365,7 +32512,8 @@ function renderFearnleysSnpTable() {
 
       if (volEl) volEl.textContent = lastVol != null ? fmtVol + ' ' + pairData.volume_unit + '/mo' + volSuffix : '—';
       if (rateEl) {
-        rateEl.textContent = hasFreight ? fmtRate(lastRate) : 'No matching route';
+        var lastRateMonth = lastRateIdx !== -1 && pairData.months ? pairData.months[lastRateIdx] : null;
+        rateEl.textContent = hasFreight ? fmtRate(lastRate) + (lastRateMonth ? ' (' + formatMonthLabel(lastRateMonth) + ')' : '') : 'No matching route';
         var rateTile = document.getElementById('flagshipRateTile') || rateEl.parentElement;
         if (rateTile) rateTile.style.display = hasFreight ? '' : 'none';
       }
@@ -32389,9 +32537,13 @@ function renderFearnleysSnpTable() {
         }
       }
       if (provEl) {
-        provEl.textContent = (pairData.provenance && pairData.provenance.publisher)
-          ? ('Source: ' + pairData.provenance.publisher + ' · Direct Customs & Continuous Route Benchmarks · 2023–2026 · Mt/mo & USD/MT')
-          : 'MDIC / Baltic Exchange · Direct Customs & Continuous Route Benchmarks · 2023–2026 · Mt/mo & USD/MT';
+        // Built from the pair's own provenance; this used to be a fixed
+        // "MDIC / Baltic Exchange · 2023–2026" string on every corridor.
+        var pv = pairData.provenance || {};
+        var srcParts = [pv.volume_source, pv.freight_source].filter(Boolean);
+        var unitParts = [pairData.volume_unit ? pairData.volume_unit + '/mo' : null, pairData.freight_unit].filter(Boolean);
+        provEl.textContent = (srcParts.length ? srcParts.join(' + ') : 'Customs & route benchmarks') +
+          (pv.span ? ' · ' + pv.span : '') + (unitParts.length ? ' · ' + unitParts.join(' & ') : '');
       }
       if (badgeEl) {
         badgeEl.textContent = 'LIVE';
@@ -34189,6 +34341,8 @@ function renderFearnleysSnpTable() {
       var fixSub = document.getElementById('cargoHudFixturesSub');
       var meta = (cfm && cfm.metadata) || {};
       var totFix = meta.total_fixtures, classFix = meta.classified_fixtures, unclassPct = meta.unclassified_pct;
+      var fixBadge = document.getElementById('cargoFixtureCountBadge');
+      if (fixBadge && totFix) fixBadge.textContent = (totFix / 1000).toFixed(0) + 'k Commercial Fixtures';
       if (totFix && classFix && unclassPct != null) {
         if (fixEl) fixEl.textContent = (classFix / 1000).toFixed(0) + 'k Classified (' + (100 - unclassPct).toFixed(1) + '%)';
         if (fixSub) fixSub.textContent = (totFix / 1000).toFixed(0) + 'k Fixtures | ' + ((totFix - classFix) / 1000).toFixed(0) + 'k Unclassified (' + unclassPct.toFixed(1) + '%)';
@@ -34212,10 +34366,13 @@ function renderFearnleysSnpTable() {
       if (spreadEl && c3 && c5) {
         var sp = c3.v - c5.v;
         spreadEl.textContent = (sp >= 0 ? '+$' : '-$') + Math.abs(sp).toFixed(2) + ' / MT';
-        if (spreadSub) spreadSub.textContent = 'C3: $' + c3.v.toFixed(2) + '/t | C5: $' + c5.v.toFixed(2) + '/t (' + (c3.m || '2026-09') + ' MTD average)';
+        var nowYm = new Date().toISOString().slice(0, 7);
+        var avgLbl = c3.m === nowYm ? ' month-to-date average)' : ' monthly average)';
+        if (spreadSub) spreadSub.textContent = 'C3: $' + c3.v.toFixed(2) + '/t | C5: $' + c5.v.toFixed(2) + '/t (' + (c3.m || '') + avgLbl;
       } else if (spreadEl) {
-        spreadEl.textContent = '+$24.10 / MT';
-        if (spreadSub) spreadSub.textContent = 'C3: $41.48/t | C5: $17.38/t (2026-09 MTD average)';
+        // No data: say so. This used to print a hard-coded +$24.10 spread.
+        spreadEl.textContent = '\u2014';
+        if (spreadSub) spreadSub.textContent = 'C3 / C5 route averages unavailable';
       }
     }
 
@@ -34273,7 +34430,11 @@ function renderSignalsTab(productKey) {
 
         if (document.getElementById('bbRangeStart')) initBBRange(productKey);
         if (document.getElementById('basisRangeStart')) initBasisRange();
-        if (document.getElementById('bdiContribRangeStart')) initBDIContribRange();
+        // Apply the highlighted 3M/6M/1Y preset on first paint (a bare init
+        // opened on all 18 years of daily bars under a lit 3M button).
+        var _bcs = document.getElementById('bdiContribRangeStart');
+        if (_bcs && !_bcs._presetApplied) { _bcs._presetApplied = true; setBDIContribWindow(_bdiContribWindow || '3m'); }
+        else if (_bcs) initBDIContribRange();
         if (document.getElementById('hvRangeStart')) initHVRange(productKey);
         if (dead()) return;
 
@@ -34321,6 +34482,8 @@ function renderSignalsTab(productKey) {
         else cutoff.setFullYear(2000);
         let sIdx = rows.findIndex(function (r) { return r.date >= cutoff; });
         if (sIdx === -1 || w === 'all') sIdx = 0;
+        startEl._allRows = null;            // let the preset beat the remembered window
+        startEl.max = endEl.max = rows.length - 1;
         startEl.value = sIdx;
         endEl.value = rows.length - 1;
         initHVRange(_currentHVProduct);
@@ -34529,6 +34692,9 @@ function renderSignalsTab(productKey) {
 
         let sIdx = allRows.findIndex(r => r.date >= cutoff);
         if (sIdx === -1) sIdx = 0;
+        startEl._allRows = null;            // let the preset beat the remembered window
+        startEl._bbInited = true;
+        startEl.max = endEl.max = allRows.length - 1;
         startEl.value = sIdx;
         endEl.value = allRows.length - 1;
         initBBRange(_currentBBProduct);
@@ -34540,6 +34706,20 @@ function renderSignalsTab(productKey) {
     var _currentBBProduct = 'bdiy';
 
     function initBBRange(productKey) {
+      var bbStart = document.getElementById('bbRangeStart');
+      var firstBB = bbStart && !bbStart._bbInited;
+      if (firstBB) {
+        // Open on the 1Y window the active button advertises; Bollinger bands
+        // over 40 years of daily data are unreadable.
+        var bbRows = getRows(productKey), bbEnd = document.getElementById('bbRangeEnd');
+        var cut = new Date(); cut.setFullYear(cut.getFullYear() - 1);
+        var si = bbRows.findIndex(function (r) { return r.date >= cut; });
+        bbStart._bbInited = true;
+        bbStart._allRows = null;
+        bbStart.max = bbEnd.max = Math.max(0, bbRows.length - 1);
+        bbStart.value = si < 0 ? 0 : si;
+        bbEnd.value = bbRows.length - 1;
+      }
       initDualRangeSlider('bbRange', getRows(productKey), () => renderBollingerBands(productKey));
     }
 
@@ -37954,6 +38134,11 @@ function renderSignalsTab(productKey) {
 
         let sIdx = rows.findIndex(r => r.date >= cutoff);
         if (sIdx === -1) sIdx = 0;
+        // Widen the inputs before assigning (the HTML default max is 100, which
+        // clamped sIdx), and drop the slider's remembered window so the preset
+        // wins; otherwise the 3M button lit up over an 18-year chart.
+        startEl._allRows = null;
+        startEl.max = endEl.max = rows.length - 1;
         startEl.value = sIdx;
         endEl.value = rows.length - 1;
         initBDIContribRange();
@@ -44134,7 +44319,7 @@ window.refreshVisibleCharts = window.refreshVisibleCharts || function refreshVis
     var renders = {
       dashboard: ['renderDashboard', true], seasonality: ['renderQuarterlyTab', true],
       indices: ['renderIndicesTab', true], etfs: ['renderETFTab', true],
-      'yearly-dash': ['renderYearlyDash', true], signals: ['renderSignalsTab', true],
+      signals: ['renderSignalsTab', true],
       fearnleys: ['renderFearnleysTab', true], intelligence: ['renderIntelligenceTab', true],
       tracking: ['renderTrackingTab', false], cargo: ['renderCargoTab', true], bunkers: ['renderBunkersTab', true],
       offshore: ['renderOffshoreTab', true]
@@ -44149,7 +44334,7 @@ window.refreshVisibleCharts = window.refreshVisibleCharts || function refreshVis
     if (!fn) return;
     if (chartsOnly) return;
     try {
-      if (active === 'dashboard' || active === 'seasonality' || active === 'yearly-dash' || active === 'signals') fn(window.currentProduct);
+      if (active === 'dashboard' || active === 'seasonality' || active === 'signals') fn(window.currentProduct);
       else fn();
     } catch (err) { console.error('[refreshVisibleCharts ' + active + ']', err); }
   };
@@ -51735,7 +51920,7 @@ function escapeHtml(str) {
             html += `<div class="rt-row"><span class="rt-label">Operating Areas</span><span class="rt-val">Baltic, North Sea, North American ECAs &amp; In-Port</span></div>`;
             html += `<div class="rt-note">Distillate fuel mandatory inside designated Emission Control Areas (0.10% sulfur) and during EU port stays.</div>`;
           } else if (grade === 'EUA') {
-            const val = k ? '€' + k.eu_ets_carbon_eur.toFixed(2) + '/t' : 'EUA reference value not in the loaded bunker data; no fallback figure shown';
+            const val = (k && k.eu_ets_carbon_eur != null) ? '€' + k.eu_ets_carbon_eur.toFixed(2) + '/t' : 'EUA reference value not in the loaded bunker data; no fallback figure shown';
             if (k && k.eu_ets_obs) html += `<div class="rt-row"><span class="rt-label">Observation Date</span><span class="rt-val" style="font-family:IBM Plex Mono, monospace;">${k.eu_ets_obs} (static screening assumption)</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Carbon Allowance</span><span class="rt-val" style="color:var(--yellow);font-weight:700;">${val}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Scope</span><span class="rt-val">EU MRV Shipping Voyages (5,000+ GT)</span></div>`;
@@ -52132,7 +52317,7 @@ function escapeHtml(str) {
             const momCls = (cat.mom_pct || 0) >= 0 ? 'pos' : 'neg';
             html = `<div class="rt-title">${cat.name || cat.label}: Spot Benchmark</div>`;
             html += `<div class="rt-row"><span class="rt-label">Latest Dayrate</span><span class="rt-val" style="color:var(--accent);font-weight:700;">£${rateGbp.toLocaleString('en-US')} / d (~$${rateUsd.toLocaleString('en-US')})</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">YoY Momentum</span><span class="rt-val ${yoyCls}">${yoy} (vs Aug '25 spot trough)</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">YoY Momentum</span><span class="rt-val ${yoyCls}">${yoy} (vs same month last year)</span></div>`;
             if (mom) html += `<div class="rt-row"><span class="rt-label">MoM Velocity</span><span class="rt-val ${momCls}">${mom}</span></div>`;
             if (cat.utilization_pct != null) html += `<div class="rt-row"><span class="rt-label">Fleet Utilisation</span><span class="rt-val">${cat.utilization_pct}%</span></div>`;
             if (cat.hi_52w) html += `<div class="rt-row"><span class="rt-label">52-Week Range</span><span class="rt-val">£${Math.round(cat.lo_52w || 0).toLocaleString('en-US')} – £${Math.round(cat.hi_52w).toLocaleString('en-US')}</span></div>`;
@@ -52968,11 +53153,12 @@ function updateBunkersHUD() {
   var elEts = document.getElementById('bunkerKpiEts');
   var elVol = document.getElementById('bunkerKpiVol');
 
+  try { updateBunkerStatusPills(); } catch (e) {}
   if (elVlsfo) elVlsfo.textContent = '$' + k.global_vlsfo.toFixed(2);
   if (elHsfo) elHsfo.textContent = '$' + k.global_hsfo.toFixed(2);
   if (elMgo) elMgo.textContent = '$' + k.global_mgo.toFixed(2);
   if (elHi5) elHi5.textContent = '$' + k.singapore_hi5.toFixed(2);
-  if (elEts) elEts.textContent = '€' + k.eu_ets_carbon_eur.toFixed(2);
+  if (elEts) elEts.textContent = k.eu_ets_carbon_eur != null ? '€' + k.eu_ets_carbon_eur.toFixed(2) : '\u2014';
   if (elVol) elVol.textContent = (k.singapore_monthly_vol_mt / 1000000).toFixed(2) + 'M MT';
 
   var gObs = (k.global_obs || '').slice(5), gPrev = (k.global_prev_obs || '').slice(5);
@@ -52981,9 +53167,49 @@ function updateBunkersHUD() {
   setSub('bunkerKpiMgoSub', fmtChg(k.global_mgo_chg) + ' D/D (' + gObs + ' vs ' + gPrev + ') · ECA Zone & Port Auxiliary Marine Gasoil', k.global_mgo_chg <= 0 ? 'good' : 'alert');
   var hObs = (k.hi5_obs || '').slice(5), hPrev = (k.hi5_prev_obs || '').slice(5);
   setSub('bunkerKpiHi5Sub', fmtChg(k.singapore_hi5_chg) + ' 7D (SS ' + hObs + ' vs ' + hPrev + ') · Cape TCE +$' + Math.round(k.cape_scrubber_tce_bonus).toLocaleString('en-US') + '/d · Payback ~' + k.scrubber_payback_months + ' Mos', k.singapore_hi5_chg <= 0 ? 'purple' : 'alert');
-  setSub('bunkerKpiEtsSub', 'Voyage Penalty: ~$' + Math.round(k.eu_ets_daily_penalty_usd).toLocaleString('en-US') + '/d on EU MRV Routes (static screen)', 'warn');
+  var etsAge = ageDays(k.eu_ets_obs);
+  setSub('bunkerKpiEtsSub',
+    (k.eu_ets_obs ? 'EUA obs ' + k.eu_ets_obs + (etsAge > 10 ? ' (stale)' : '') + ' \u00b7 ' : '') +
+    (k.eu_ets_daily_penalty_usd != null ? 'Capesize EU ETS cost ~$' + Math.round(k.eu_ets_daily_penalty_usd).toLocaleString('en-US') + '/d at 100% phase-in' : 'voyage cost unavailable'),
+    etsAge > 10 ? 'alert' : 'warn');
   var yoy = k.singapore_vol_yoy_pct;
   setSub('bunkerKpiVolSub', (yoy > 0 ? '+' : '') + yoy.toFixed(1) + '% YoY · MPA Singapore ' + (k.singapore_vol_period || '') + ' Monthly Delivery', yoy >= 0 ? 'cyan' : 'alert');
+
+  // Port-level spot feed freshness. When the Ship & Bunker port feed stops
+  // (it began returning HTTP 403 to the collector on 2026-10-27), the three
+  // "Global" cards kept showing the last port average as if it were today's.
+  // Past a week, show the daily BunkerIndex World benchmark instead and say so;
+  // Hi-5 has no BIX equivalent, so it is marked stale in place.
+  function ageDays(iso) {
+    if (!iso) return null;
+    var t = Date.parse(iso + 'T00:00:00Z');
+    return isNaN(t) ? null : Math.floor((Date.now() - t) / 86400000);
+  };
+  var gAge = ageDays(k.global_obs);
+  var bixW = summary.bix_history && summary.bix_history.series && summary.bix_history.series.BIX_World;
+  if (gAge != null && gAge > 7 && bixW) {
+    var lastOf = function (g) {
+      var sr = bixW[g];
+      if (!sr || !sr.dates || !sr.dates.length) return null;
+      var vals = sr.values || sr.prices || sr.price;
+      if (!vals) return null;
+      var n = sr.dates.length - 1;
+      return { d: sr.dates[n], v: vals[n], p: n > 0 ? vals[n - 1] : null };
+    };
+    var swaps = [['VLSFO', elVlsfo, 'bunkerKpiVlsfoSub'], ['IFO380', elHsfo, 'bunkerKpiHsfoSub'], ['MGO', elMgo, 'bunkerKpiMgoSub']];
+    swaps.forEach(function (sw) {
+      var o = lastOf(sw[0]);
+      if (!o || o.v == null || !sw[1]) return;
+      sw[1].textContent = '$' + Number(o.v).toFixed(2);
+      var chg = o.p != null ? o.v - o.p : 0;
+      setSub(sw[2], fmtChg(chg) + ' D/D \u00b7 BunkerIndex World ' + o.d.slice(5) + ' \u00b7 port feed paused since ' + (k.global_obs || '').slice(5), chg <= 0 ? 'good' : 'alert');
+    });
+  }
+  var hAge = ageDays(k.hi5_obs);
+  if (hAge != null && hAge > 10) {
+    var hs = document.getElementById('bunkerKpiHi5Sub');
+    if (hs) { hs.textContent = 'Stale \u00b7 last port observation ' + k.hi5_obs + ' \u00b7 ' + hs.textContent; hs.className = 'bunkers-kpi-sub alert'; }
+  }
 
   var hi5Card = document.querySelector('.bunkers-kpi-grid [data-tt-type="bunker-scrubber-cell"]');
   if (hi5Card) {
@@ -53010,7 +53236,7 @@ function plotBunkerPortMarkers() {
     if (ports.length === totalMaster) {
       hud.textContent = totalMaster + ' Global Bunker Supply Ports Active';
     } else {
-      var filterDesc = bunkersSelectedGrade !== 'all' ? (bunkersSelectedGrade === 'BIO' ? 'Biofuel (B24) Supply Hubs' : bunkersSelectedGrade + ' Grade') : (bunkersSelectedFreshness === 'active' ? 'Active Sep 2026' : (bunkersSelectedRegion !== 'all' ? bunkersSelectedRegion + ' Region' : 'Filtered'));
+      var filterDesc = bunkersSelectedGrade !== 'all' ? (bunkersSelectedGrade === 'BIO' ? 'Biofuel (B24) Supply Hubs' : bunkersSelectedGrade + ' Grade') : (bunkersSelectedFreshness === 'active' ? 'Recently quoted' : (bunkersSelectedRegion !== 'all' ? bunkersSelectedRegion + ' Region' : 'Filtered'));
       hud.textContent = ports.length + ' of ' + totalMaster + ' Supply Ports Active (' + filterDesc + ')';
     }
   }
@@ -53099,6 +53325,33 @@ function plotBunkerPortMarkers() {
   })();
 }
 
+// 'Active' = quoted within 60 days of the newest port observation in the
+// cache. This was a literal '2026-09-01' with a pill reading 'Active / Sep
+// 2026 (161)', which would have silently drifted as the archive moved on.
+var BUNKER_ACTIVE_WINDOW_DAYS = 60;
+function bunkerActiveCutoff() {
+  var ports = (DATA.bunkerSummary && DATA.bunkerSummary.ports) || [];
+  var newest = '';
+  for (var i = 0; i < ports.length; i++) if (ports[i].latest_date && ports[i].latest_date > newest) newest = ports[i].latest_date;
+  if (!newest) return '0000-00-00';
+  var d = new Date(Date.parse(newest + 'T00:00:00Z') - BUNKER_ACTIVE_WINDOW_DAYS * 86400000);
+  return d.toISOString().slice(0, 10);
+}
+function updateBunkerStatusPills() {
+  var ports = (DATA.bunkerSummary && DATA.bunkerSummary.ports) || [];
+  if (!ports.length) return;
+  var cut = bunkerActiveCutoff();
+  var nActive = ports.filter(function (p) { return p.latest_date && p.latest_date >= cut; }).length;
+  var all = document.getElementById('bunkerPillStatusAll');
+  var act = document.getElementById('bunkerPillStatusActive');
+  if (all) all.textContent = 'All Ports (' + ports.length + ')';
+  if (act) {
+    act.textContent = 'Quoted since ' + cut.slice(5) + ' (' + nActive + ')';
+    act.setAttribute('data-tooltip', 'Ports with a quote within ' + BUNKER_ACTIVE_WINDOW_DAYS + ' days of the newest port observation in the archive (' + nActive + ' of ' + ports.length + ').');
+  }
+}
+window.updateBunkerStatusPills = updateBunkerStatusPills;
+
 function filterBunkersData() {
   var summary = DATA.bunkerSummary;
   var ports = summary && summary.ports ? summary.ports : [];
@@ -53106,7 +53359,7 @@ function filterBunkersData() {
 
   return ports.filter(function(p) {
     if (bunkersSelectedFreshness === 'active') {
-      if (!p.latest_date || p.latest_date < '2026-09-01') return false;
+      if (!p.latest_date || p.latest_date < bunkerActiveCutoff()) return false;
     }
 
     if (bunkersSelectedRegion !== 'all') {
@@ -53181,8 +53434,11 @@ function renderBunkersCompositesStrip() {
     var hi5 = c.hi5_spread ? '$' + c.hi5_spread.toFixed(1) : '—';
     var shortName = c.name.replace(' Average Bunker Price', ' Avg').replace(' Average', ' Avg');
 
-    html += '<div class="bunkers-comp-card' + (isSel ? ' selected' : '') + '" onclick="focusBunkerPort(\'" + escapeHtml(c.name) + "\')" data-tooltip="Composite benchmark: ' + escapeHtml(c.name) + ' (' + escapeHtml(c.region) + '). Click to plot historical series in the main chart.">' +
-      '<div class="bunkers-comp-title"><span>' + escapeHtml(shortName) + '</span><span style="font-size:11px;color:var(--accent);">' + escapeHtml(c.region) + '</span></div>' +
+    // The onclick used to be built as "...(\'" + escapeHtml(c.name) + "\')" inside a
+    // single-quoted string, so the handler received the literal text
+    // '" + escapeHtml(c.name) + "' and a click never selected the composite.
+    html += '<div class="bunkers-comp-card' + (isSel ? ' selected' : '') + '" onclick="focusBunkerPort(\'' + escapeHtml(String(c.name).replace(/'/g, "\\'")) + '\')" data-tooltip="Composite benchmark: ' + escapeHtml(c.name) + ' (' + escapeHtml(c.region) + '). Click to plot historical series in the main chart.">' +
+      '<div class="bunkers-comp-title"><span>' + escapeHtml(shortName) + '</span><span style="font-size:11px;color:var(--accent);">' + escapeHtml(c.region) + (c.latest_date ? ' \u00b7 ' + escapeHtml(String(c.latest_date).slice(5)) : '') + '</span></div>' +
       '<div class="bunkers-comp-val-grid">' +
       '<div><span class="bunkers-comp-lbl">VLSFO: </span><span style="color:#3fb950; font-weight:600;">' + vlsfo + '</span></div>' +
       '<div><span class="bunkers-comp-lbl">MGO: </span><span style="color:#e3b341; font-weight:600;">' + mgo + '</span></div>' +
@@ -53222,7 +53478,7 @@ function renderBunkersSpotTable() {
       } else if (bunkersSelectedGrade !== 'all') {
         bannerText.innerHTML = '<strong>Filtered by ' + escapeHtml(bunkersSelectedGrade) + '</strong>: ' + total + ' of ' + totalMaster + ' ports provide verified indications.';
       } else if (bunkersSelectedFreshness === 'active') {
-        bannerText.innerHTML = '<strong>Filtered by Active Ports (Sep 2026)</strong>: ' + total + ' of ' + totalMaster + ' ports with live indications updated this month.';
+        bannerText.innerHTML = '<strong>Filtered to recently quoted ports</strong>: ' + total + ' of ' + totalMaster + ' ports quoted since ' + bunkerActiveCutoff() + '.';
       } else if (bunkersSelectedRegion !== 'all') {
         bannerText.innerHTML = '<strong>Filtered by ' + escapeHtml(bunkersSelectedRegion) + ' Region</strong>: ' + total + ' of ' + totalMaster + ' ports.';
       } else if (bunkersSearchQuery) {
@@ -53296,14 +53552,17 @@ function renderBunkersSpotTable() {
 
     var hi5Text = p.hi5_spread ? '$' + p.hi5_spread.toFixed(2) : '—';
 
+    // Relative to the newest port observation (were literal 2026-01-01 / 2026-08-01).
+    var _bkActiveCut = bunkerActiveCutoff();
+    var _bkAncientCut = new Date(Date.parse(_bkActiveCut + 'T00:00:00Z') - 305 * 86400000).toISOString().slice(0, 10);
     var statusHtml = '<span class="bunker-normal-pill">Normal</span>';
     if (p.is_outlier && p.outlier_flags && p.outlier_flags.length) {
       var outDesc = p.outlier_flags.map(function(f) { return f.grade + ' ' + (f.zscore > 0 ? '+' : '') + f.zscore + 'σ'; }).join(', ');
       statusHtml = '<span class="bunker-outlier-pill" data-tooltip="Statistical 3σ outlier: ' + escapeHtml(outDesc) + '">3σ OUTLIER</span>';
-    } else if (p.latest_date && p.latest_date < '2026-01-01') {
+    } else if (p.latest_date && p.latest_date < _bkAncientCut) {
       var yr = p.latest_date.slice(0, 4);
       statusHtml = '<span class="bunker-ancient-pill" title="Historical baseline quote dating to ' + escapeHtml(p.latest_date) + ' (infrequent broker publication)">Hist ' + yr + '</span>';
-    } else if (p.latest_date && p.latest_date < '2026-08-01') {
+    } else if (p.latest_date && p.latest_date < _bkActiveCut) {
       var ym = p.latest_date.slice(0, 7);
       statusHtml = '<span class="bunker-stale-pill" title="Prior observation from ' + escapeHtml(p.latest_date) + '">Obs ' + ym + '</span>';
     }
@@ -53341,7 +53600,7 @@ function renderBunkersSpotTable() {
       '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>' +
       '</button>' +
       '</div>' +
-      '<div style="font-size:var(--fs-micro); color:var(--text-muted); font-family:\'IBM Plex Mono\', monospace;">' + escapeHtml(p.code) + ' · ' + escapeHtml(p.country) + (p.latest_date ? (' · <span title="Last quote observation: ' + escapeHtml(p.latest_date) + '" style="color:' + (p.latest_date >= '2026-09-01' ? '#3fb950' : (p.latest_date < '2026-01-01' ? '#e3b341' : 'var(--text-muted)')) + ';">obs ' + escapeHtml(p.latest_date) + '</span>') : '') + '</div>' +
+      '<div style="font-size:var(--fs-micro); color:var(--text-muted); font-family:\'IBM Plex Mono\', monospace;">' + escapeHtml(p.code) + ' · ' + escapeHtml(p.country) + (p.latest_date ? (' · <span title="Last quote observation: ' + escapeHtml(p.latest_date) + '" style="color:' + (p.latest_date >= _bkActiveCut ? '#3fb950' : (p.latest_date < _bkAncientCut ? '#e3b341' : 'var(--text-muted)')) + ';">obs ' + escapeHtml(p.latest_date) + '</span>') : '') + '</div>' +
       '</td>' +
       '<td><span class="class-badge">' + escapeHtml(p.region) + '</span></td>' +
       '<td style="font-family:\'IBM Plex Mono\', monospace; font-weight:600; color:' + (p.vlsfo ? '#3fb950' : 'var(--text-muted)') + ';">' + vlsfoDisplay + '</td>' +
@@ -53420,7 +53679,7 @@ function nextBunkersPage() {
 function setBunkerRegion(region) {
   bunkersSelectedRegion = region;
   bunkersCurrentPage = 1;
-  document.querySelectorAll('.bunkers-tools-bar .bunkers-pill[data-region]').forEach(function(btn) {
+  document.querySelectorAll('.bunkers-toolbar .bunkers-pill[data-region]').forEach(function(btn) {
     btn.classList.toggle('active', btn.dataset.region === region);
   });
   renderBunkersSpotTable();
@@ -53430,7 +53689,7 @@ function setBunkerRegion(region) {
 function setBunkerGrade(grade) {
   bunkersSelectedGrade = grade;
   bunkersCurrentPage = 1;
-  document.querySelectorAll('.bunkers-tools-bar .bunkers-pill[data-grade]').forEach(function(btn) {
+  document.querySelectorAll('.bunkers-toolbar .bunkers-pill[data-grade]').forEach(function(btn) {
     btn.classList.toggle('active', btn.dataset.grade === grade);
   });
   renderBunkersSpotTable();
@@ -53440,7 +53699,7 @@ function setBunkerGrade(grade) {
 function setBunkerFreshness(freshness) {
   bunkersSelectedFreshness = freshness;
   bunkersCurrentPage = 1;
-  document.querySelectorAll('.bunkers-tools-bar .bunkers-pill[data-freshness]').forEach(function(btn) {
+  document.querySelectorAll('.bunkers-toolbar .bunkers-pill[data-freshness]').forEach(function(btn) {
     btn.classList.toggle('active', btn.dataset.freshness === freshness);
   });
   renderBunkersSpotTable();
@@ -53509,6 +53768,7 @@ function renderBunkersForwardChart() {
     if (!fwdCurves || !fwdCurves.length) {
       tbody.innerHTML = '<tr><td colspan="5" style="text-align:center; padding:16px; color:var(--text-muted);">No forward curve quotes available for ' + escapeHtml(hub) + '</td></tr>';
     } else {
+      var money = function (v) { return v != null && isFinite(v) ? '$' + Number(v).toFixed(2) : '\u2014'; };
       fwdCurves.forEach(function(r) {
         var tr = document.createElement('tr');
         var isSpot = r.offset === 0;
@@ -53524,10 +53784,10 @@ function renderBunkersForwardChart() {
         tr.setAttribute('data-tt-title', hub + ' Forward: ' + r.month);
 
         tr.innerHTML = '<td><div style="font-weight:700; color:' + (isSpot ? '#58a6ff' : '#fff') + '; font-family:\'IBM Plex Mono\', monospace;">' + escapeHtml(monthLabel) + '</div><div style="font-size:11px; color:var(--text-muted);">' + escapeHtml(tenorLabel) + '</div></td>' +
-          '<td style="font-family:\'IBM Plex Mono\', monospace; font-weight:600; color:#3fb950;">$' + r.vlsfo.toFixed(2) + '</td>' +
-          '<td style="font-family:\'IBM Plex Mono\', monospace; color:#e3b341;">$' + r.mgo.toFixed(2) + '</td>' +
-          '<td style="font-family:\'IBM Plex Mono\', monospace; color:#4d9aff;">$' + r.ifo380.toFixed(2) + '</td>' +
-          '<td style="font-family:\'IBM Plex Mono\', monospace; color:#a371f7; font-weight:700;">$' + r.spread.toFixed(2) + '</td>';
+          '<td style="font-family:\'IBM Plex Mono\', monospace; font-weight:600; color:#3fb950;">' + money(r.vlsfo) + '</td>' +
+          '<td style="font-family:\'IBM Plex Mono\', monospace; color:#e3b341;">' + money(r.mgo) + '</td>' +
+          '<td style="font-family:\'IBM Plex Mono\', monospace; color:#4d9aff;">' + money(r.ifo380) + '</td>' +
+          '<td style="font-family:\'IBM Plex Mono\', monospace; color:#a371f7; font-weight:700;">' + money(r.spread) + '</td>';
         tbody.appendChild(tr);
       });
     }
@@ -53597,7 +53857,7 @@ function renderBunkersVolumesChart() {
 
   var badge = document.getElementById('bunkerVolBadge');
   if (badge) {
-    badge.textContent = (hub === 'Singapore') ? '5-YEAR SEASONAL ENVELOPE' : 'QUARTERLY DELIVERIES';
+    badge.textContent = (hub === 'Singapore') ? 'YEAR-ON-YEAR' : 'QUARTERLY DELIVERIES';
   }
 
   if (tbody) {
@@ -53605,7 +53865,7 @@ function renderBunkersVolumesChart() {
     if (!vols || !vols.length) {
       tbody.innerHTML = '<tr><td colspan="4" style="text-align:center; padding:16px; color:var(--text-muted);">No sales volume data available.</td></tr>';
     } else {
-      vols.slice(0, 36).forEach(function(r) {
+      vols.slice().sort(function (a, b) { return String(b.period).localeCompare(String(a.period)); }).slice(0, 36).forEach(function(r) {
         var tr = document.createElement('tr');
         tr.innerHTML = '<td><div style="font-weight:700; color:#fff; font-family:\'IBM Plex Mono\', monospace;">' + escapeHtml(r.period) + '</div></td>' +
           '<td><span class="class-badge">' + escapeHtml(r.freq) + '</span></td>' +
@@ -53624,66 +53884,40 @@ function renderBunkersVolumesChart() {
 
   var ctx = canvas.getContext('2d');
 
-  if (hub === 'Singapore' && envelope && envelope.length) {
-    var labels = envelope.map(function(m) { return m.month_name; });
-    var maxVals = envelope.map(function(m) { return Math.round(m.max / 1000); });
-    var minVals = envelope.map(function(m) { return Math.round(m.min / 1000); });
-    var meanVals = envelope.map(function(m) { return Math.round(m.mean / 1000); });
-
-    var actualsMap = {};
-    if (vols && vols.length) {
-      vols.forEach(function(v) {
-        if (v.period && (v.period.startsWith('2025') || v.period.startsWith('2026'))) {
-          var parts = v.period.split('-');
-          var mNum = parseInt(parts[1], 10);
-          if (!actualsMap[mNum]) actualsMap[mNum] = Math.round(v.volume_mt / 1000);
-        }
-      });
-    }
-    var actualData = envelope.map(function(m) { return actualsMap[m.month] || null; });
+  // Singapore: one line per calendar year (Jan-Dec). This replaced a
+  // '5-year envelope' built from a hard-coded 2019-2025 window over data that
+  // starts in 2024-09 (Jan-Aug had one year, so min = max = mean), whose
+  // 'Latest Actuals' line also picked the OLDEST value per month.
+  var sgMonthly = (vols || []).filter(function (v) { return v.metric === 'Sales_Monthly_MT' && /^\d{4}-\d{2}$/.test(v.period || ''); });
+  if (hub === 'Singapore' && sgMonthly.length) {
+    var labels = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    var byYear = {};
+    sgMonthly.forEach(function (v) {
+      var y = v.period.slice(0, 4), m = parseInt(v.period.slice(5, 7), 10) - 1;
+      (byYear[y] || (byYear[y] = new Array(12).fill(null)))[m] = v.volume_mt != null ? Math.round(v.volume_mt / 1000) : null;
+    });
+    var years = Object.keys(byYear).sort();
+    if (badge) badge.textContent = 'YEAR-ON-YEAR \u00b7 ' + years[0] + (years.length > 1 ? '\u2013' + years[years.length - 1] : '');
+    var yrColors = ['#6e7681', '#8b949e', '#58a6ff', '#00e5ff'];
+    var dsets = years.map(function (y, i) {
+      var isLast = i === years.length - 1;
+      var col = yrColors[Math.max(0, yrColors.length - (years.length - i))];
+      return {
+        label: y + (isLast ? ' (latest)' : ''),
+        data: byYear[y],
+        borderColor: col,
+        backgroundColor: col,
+        borderWidth: isLast ? 2.5 : 1.5,
+        borderDash: isLast ? [] : [4, 3],
+        pointRadius: isLast ? 3.5 : 2,
+        spanGaps: false,
+        fill: false
+      };
+    });
 
     bunkerVolumesChartInstance = new Chart(ctx, {
       type: 'line',
-      data: {
-        labels: labels,
-        datasets: [
-          {
-            label: '5Y Max (k MT)',
-            data: maxVals,
-            borderColor: 'rgba(0, 229, 255, 0.4)',
-            backgroundColor: 'rgba(0, 229, 255, 0.08)',
-            fill: '+1',
-            pointRadius: 0,
-            borderWidth: 1
-          },
-          {
-            label: '5Y Min (k MT)',
-            data: minVals,
-            borderColor: 'rgba(0, 229, 255, 0.4)',
-            backgroundColor: 'transparent',
-            pointRadius: 0,
-            borderWidth: 1
-          },
-          {
-            label: '5Y Historical Avg (k MT)',
-            data: meanVals,
-            borderColor: '#8b949e',
-            borderDash: [4, 4],
-            borderWidth: 1.5,
-            pointRadius: 2,
-            fill: false
-          },
-          {
-            label: 'Latest Actuals (k MT)',
-            data: actualData,
-            borderColor: '#00e5ff',
-            backgroundColor: 'rgba(0, 229, 255, 0.8)',
-            borderWidth: 2,
-            pointRadius: 4,
-            fill: false
-          }
-        ]
-      },
+      data: { labels: labels, datasets: dsets },
       options: {
         responsive: true,
         maintainAspectRatio: false,
@@ -53693,7 +53927,7 @@ function renderBunkersVolumesChart() {
           tooltip: {
             callbacks: {
               label: function(c) {
-                return ' ' + c.dataset.label + ': ' + (c.parsed.y ? c.parsed.y.toLocaleString('en-US') + 'k MT' : '—');
+                return ' ' + c.dataset.label + ': ' + (c.parsed.y ? c.parsed.y.toLocaleString('en-US') + 'k MT' : '\u2014');
               }
             }
           }
@@ -53857,6 +54091,49 @@ function renderBunkersBixMovers() {
     var k = r.index + '|' + r.grade;
     if (!latest[k] || r.date > latest[k].date) latest[k] = r;
   });
+
+  // The chip strip above already shows each benchmark's 1-day move, so this
+  // table used to repeat it number for number. It now reads the BIX archive
+  // and shows the 1-week / 1-month / 3-month change instead.
+  var hist = summary.bix_history && summary.bix_history.series;
+  if (hist) {
+    var headEl = document.getElementById('bunkerBixMoversHead');
+    if (headEl) headEl.textContent = 'Regional movers \u00b7 latest price with 1-week, 1-month and 3-month change (BIX archive)';
+    var back = function (sr, days) {
+      if (!sr || !sr.dates || !sr.dates.length) return null;
+      var n = sr.dates.length - 1, last = Date.parse(sr.dates[n]);
+      var target = last - days * 86400000;
+      for (var i = n; i >= 0; i--) { if (Date.parse(sr.dates[i]) <= target) return sr.prices[i]; }
+      return null;
+    };
+    var chg = function (now, then) {
+      if (now == null || then == null || !then) return '<span class="bix-mc flat">\u2014</span>';
+      var pc = (now - then) / then * 100;
+      return '<span class="bix-mc ' + (pc > 0 ? 'up' : (pc < 0 ? 'dn' : 'flat')) + '">' + (pc > 0 ? '+' : '') + pc.toFixed(1) + '%</span>';
+    };
+    order.forEach(function (ix) {
+      var safeIx = ix.replace('BIX_', '');
+      var tr = document.createElement('tr');
+      tr.setAttribute('data-tooltip', ' ');
+      tr.setAttribute('data-tt-type', 'bix-movers-row');
+      tr.setAttribute('data-tt-region', safeIx);
+      var cells = '<td><span class="bix-mx">' + escapeHtml(safeIx) + '</span></td>';
+      grades.forEach(function (g) {
+        var sr = hist[ix] && hist[ix][g];
+        var r = latest[ix + '|' + g];
+        if (!sr || !sr.prices || !sr.prices.length) { cells += '<td style="color:var(--text-muted);text-align:center;">\u2014</td>'; return; }
+        var now = sr.prices[sr.prices.length - 1];
+        cells += '<td data-tt-type="bix-movers-cell" data-tt-region="' + safeIx + '" data-tt-grade="' + g + '" data-tt-price="' + now + '"' +
+          (r ? ' data-tt-chg="' + r.change + '" data-tt-low="' + r.low + '" data-tt-high="' + r.high + '"' : '') +
+          ' data-tt-date="' + sr.dates[sr.dates.length - 1] + '">' +
+          '<div style="font-weight:700; color:#fff;">$' + Number(now).toFixed(2) + '</div>' +
+          '<div class="bix-mc-row">1W ' + chg(now, back(sr, 7)) + ' \u00b7 1M ' + chg(now, back(sr, 30)) + ' \u00b7 3M ' + chg(now, back(sr, 91)) + '</div></td>';
+      });
+      tr.innerHTML = cells;
+      tbody.appendChild(tr);
+    });
+    return;
+  }
 
   order.forEach(function(ix) {
     var safeIx = ix.replace('BIX_', '');
@@ -54154,7 +54431,9 @@ function renderBunkersScrubberTable() {
     var hi5Val = typeof r.hi5 === 'number' ? r.hi5 : 0;
     var capePrem = typeof r.cape_tce_premium === 'number' ? r.cape_tce_premium : Math.round(hi5Val * 45);
     var vlccPrem = typeof r.vlcc_tce_premium === 'number' ? r.vlcc_tce_premium : Math.round(hi5Val * 55);
-    var euEtsCost = typeof r.eu_ets_penalty_usd === 'number' ? r.eu_ets_penalty_usd : Math.round(45 * 3.114 * 0.5 * 72.5);
+    // The fifth column used to be an 'EU ETS cost' computed from a constant
+    // EUA of 72.5, i.e. the same $5,080/d on every row. Show the quote date.
+    var quoted = r.latest_date ? String(r.latest_date).slice(0, 10) : '\u2014';
 
     var tr = document.createElement('tr');
     tr.setAttribute('data-tooltip', ' ');
@@ -54169,7 +54448,7 @@ function renderBunkersScrubberTable() {
       '<td style="font-family:\'IBM Plex Mono\', monospace; font-weight:700; color:#a371f7;">$' + hi5Val.toFixed(2) + '</td>' +
       '<td style="font-family:\'IBM Plex Mono\', monospace; color:var(--green);">+$' + capePrem.toLocaleString('en-US') + '/d</td>' +
       '<td style="font-family:\'IBM Plex Mono\', monospace; color:var(--green);">+$' + vlccPrem.toLocaleString('en-US') + '/d</td>' +
-      '<td style="font-family:\'IBM Plex Mono\', monospace; color:var(--yellow); font-size:var(--fs-micro);">$' + euEtsCost.toLocaleString('en-US') + '/d</td>';
+      '<td style="font-family:\'IBM Plex Mono\', monospace; color:var(--text-muted); font-size:var(--fs-micro);">' + escapeHtml(quoted) + '</td>';
 
     tbody.appendChild(tr);
   });
@@ -54544,19 +54823,22 @@ var FDESK_ICONS = {
   12: '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>'
 };
 
+// Display order groups the desk the way it is used: rates, then assets, then
+// gas, then market colour, then tools. Newbuilding used to sit last, eleven
+// buttons away from S&P & Assets. Section ids are unchanged.
 var FDESK_SECTIONS = [
-  { id: 1,  name: 'Overview' },
-  { id: 2,  name: 'TC Rates' },
-  { id: 3,  name: 'Tanker Routes' },
-  { id: 4,  name: 'Dry Routes' },
-  { id: 5,  name: 'S&P & Assets' },
-  { id: 6,  name: 'LNG Desk' },
-  { id: 7,  name: 'LPG Desk' },
-  { id: 8,  name: 'Fixtures Tape' },
-  { id: 9,  name: 'Series Museum' },
-  { id: 10, name: 'Broker Voice' },
-  { id: 11, name: 'Backtest Lab' },
-  { id: 12, name: 'Newbuilding' }
+  { id: 1,  name: 'Overview',      grp: 'overview' },
+  { id: 4,  name: 'Dry Routes',    grp: 'rates' },
+  { id: 3,  name: 'Tanker Routes', grp: 'rates' },
+  { id: 2,  name: 'TC Rates',      grp: 'rates' },
+  { id: 12, name: 'Newbuilding',   grp: 'assets' },
+  { id: 5,  name: 'S&P & Assets',  grp: 'assets' },
+  { id: 6,  name: 'LNG Desk',      grp: 'gas' },
+  { id: 7,  name: 'LPG Desk',      grp: 'gas' },
+  { id: 8,  name: 'Fixtures Tape', grp: 'flow' },
+  { id: 10, name: 'Broker Voice',  grp: 'flow' },
+  { id: 9,  name: 'Series Museum', grp: 'tools' },
+  { id: 11, name: 'Backtest Lab',  grp: 'tools' }
 ];
 
 var FDESK = {
@@ -54674,11 +54956,14 @@ function initFearnSubNav() {
   var nav = document.getElementById('fearnSubNav');
   if (!nav) return;
   if (!nav.innerHTML) {
+    var _prevGrp = null;
     nav.innerHTML = FDESK_SECTIONS.map(function (s) {
+      var sep = (_prevGrp && s.grp !== _prevGrp) ? '<span aria-hidden="true" style="width:1px;align-self:stretch;margin:4px 4px;background:var(--border);"></span>' : '';
+      _prevGrp = s.grp;
       var ic = FDESK_ICONS[s.id] || '';
-      var FDESK_SECTION_DESC = { 1: 'Broker-desk dashboard: TC rates, newbuilding prices, S-P/resale and gas tiles in desk order, all values from the Fearnleys caches.', 2: 'Time-charter rates by class from the Baltic weekly archive (2000+) and Fearnleys monthly archive (1977+); one source active at a time.', 3: 'Daily tanker route assessments from the Fearnleys daily cache: per-group tiles with last print, day delta and live/frozen state; click a tile for the full daily chart.', 4: 'Baltic dry-route benchmarks (Capesize, Panamax, Supramax) daily from the dry-route cache, plus newbuilding prices by vessel family, monthly means in USD millions from the NB price cache.', 12: 'Newbuilding prices by vessel family, monthly means in USD millions from the NB price cache.', 5: 'Secondhand S-P and asset-value curves: 5y/10y tenor ladder with demolition overlay from the asset-curve cache.', 6: 'LNG desk: broker gas valuations grouped by subtype with the gas-extra overlay cache.', 7: 'LPG desk: broker gas valuations grouped by subtype; archived BLPG blocks disclosed in the chart tooltip.', 8: 'Fixtures tape: brokered fixture records from 2024 onward with search and desk filters.', 9: 'Series museum: every archived series in the monthly cache, searchable by name, full history plotted.', 10: 'Broker voice: desk commentary archive from the broker-comments caches.', 11: 'Backtest lab: replay historical desk series against simple strategy rules; educational tool, not advice.' };
+      var FDESK_SECTION_DESC = { 1: 'Broker-desk dashboard: TC rates, newbuilding prices, S-P/resale and gas tiles in desk order, all values from the Fearnleys caches.', 2: 'Time-charter desk: spot vs period rates, the spot/TC cycle quadrant, period TC term structure, the Alibra period TCE matrix and the Atlantic vs Pacific basin spread.', 3: 'Daily tanker route assessments from the Fearnleys daily cache: per-group tiles with last print, day delta and live/frozen state; click a tile for the full daily chart.', 4: 'Baltic dry-route benchmarks (Capesize, Panamax, Supramax) daily from the dry-route cache; click a tile for its full daily history.', 12: 'Newbuilding prices by vessel family, monthly means in USD millions from the NB price cache.', 5: 'Secondhand values: age ladder with scrap overlay, secondhand-to-newbuild parity, 10-year values vs scrap floor, and the S&P deal ledger.', 6: 'LNG desk: broker gas valuations grouped by subtype with the gas-extra overlay cache.', 7: 'LPG desk: broker gas valuations grouped by subtype; archived BLPG blocks disclosed in the chart tooltip.', 8: 'Fixtures tape: brokered fixture records from 2024 onward with search and desk filters.', 9: 'Series museum: every archived series in the monthly cache, searchable by name, full history plotted.', 10: 'Broker voice: desk commentary archive from the broker-comments caches.', 11: 'Backtest lab: replay historical desk series against simple strategy rules; educational tool, not advice.' };
       var fdesc = FDESK_SECTION_DESC[s.id] || 'Broker desk sub-section.';
-      return '<button class="tracking-status-btn" data-fsec="' + s.id + '" data-tooltip="' + fdesc + '" onclick="switchFearnSection(' + s.id + ')" style="font-size:11px;display:inline-flex;align-items:center;gap:5px;">' + ic + '<span>' + s.name + '</span></button>';
+      return sep + '<button class="tracking-status-btn" data-fsec="' + s.id + '" data-tooltip="' + fdesc + '" onclick="switchFearnSection(' + s.id + ')" style="font-size:11px;display:inline-flex;align-items:center;gap:5px;">' + ic + '<span>' + s.name + '</span></button>';
     }).join('');
   }
   document.querySelectorAll('#fearnSubNav [data-fsec]').forEach(function (b) {
@@ -54696,6 +54981,18 @@ function switchFearnSection(id) {
   });
   renderFearnSection(id);
 }
+// Vessel class the desk charts use. The desk used to pass the global sector
+// pill (BDI by default) into the TC charts, so they drew 'BDI Spot' against
+// Capesize period rates while the desk's own selector read 'Capesize'. The
+// sector pills are hidden on this tab, so the desk selector decides.
+function fearnDeskProduct() {
+  var ok = ['cape', 'panama', 'suprama', 'handysize', 'dirtytanker', 'suezmax', 'aframax', 'cleantanker'];
+  var cp = window.currentProduct;
+  if (ok.indexOf(cp) >= 0) return cp;
+  var sel = document.getElementById('tcVesselSelect');
+  return (sel && ok.indexOf(sel.value) >= 0) ? sel.value : 'cape';
+}
+window.fearnDeskProduct = fearnDeskProduct;
 function renderFearnSection(id) {
   if (!DATA.loaded) return;
   // PHASE SPEED: render-once + dirty-flag memoization. A section re-renders
@@ -54725,11 +55022,11 @@ function renderFearnSection(id) {
     };
   };
   if (id === 1) return done(renderFearnOverview)();
-  if (id === 2) { fearnLoadDeskCaches(done(function () { try { renderTimeCharterChart(window.currentProduct || 'cape'); } catch(e){} renderFearnTc(); try { renderTCEMatrixTable(); } catch(e){} })); return; }
+  if (id === 2) { fearnLoadDeskCaches(done(function () { var pk = fearnDeskProduct(); try { renderTimeCharterChart(pk); } catch(e){} try { renderMarketCycleQuadrantChart(pk); } catch(e){} renderFearnTc(); try { renderTCEMatrixTable(); } catch(e){} try { renderBasinSpreadChart(pk); } catch(e){} })); return; }
   if (id === 3) return done(function () { renderFearnTank(); try { renderTankerForwardChart(); } catch(e){} })();
-  if (id === 4) { fearnLoadDeskCaches(done(function () { renderFearnDryGrid(); renderFearnNb(); try { renderBasinSpreadChart(window.currentProduct || 'cape'); } catch(e){} })); return; }
+  if (id === 4) { fearnLoadDeskCaches(done(function () { renderFearnDryGrid(); renderFearnNb(); })); return; }
   if (id === 12) { fearnLoadDeskCaches(done(function () { renderFearnNb(); if (typeof renderFleetSupplyOrderbook === "function") renderFleetSupplyOrderbook(); })); return; }
-  if (id === 5) { fearnLoadDeskCaches(done(function () { renderFearnAc(); try { renderVesselValuationsChart(window.currentProduct || 'cape'); } catch(e){} try { renderMarketCycleQuadrantChart(window.currentProduct || 'cape'); } catch(e){} try { renderFearnleysSnpTable(); } catch(e){} })); return; }
+  if (id === 5) { fearnLoadDeskCaches(done(function () { renderFearnAc(); try { renderVesselValuationsChart(fearnDeskProduct()); } catch(e){} try { renderFearnleysSnpTable(); } catch(e){} })); return; }
   if (id === 6) { fearnLoadDeskCaches(done(function () { renderFearnGas('LNG'); renderFearnGasFamily('LNG'); })); return; }
   if (id === 7) { fearnLoadDeskCaches(done(function () { renderFearnGas('LPG'); renderFearnGasFamily('LPG'); })); return; }
   if (id === 8) { fearnLoadJson('data/derived/fearnleys_fixtures_tape.json', 'fearnFixturesTape', function () { fearnLoadJson('data/derived/fearnleys_fixtures_facets.json', 'fearnFixturesFacets', done(renderFearnFx)); }); return; }
@@ -54777,12 +55074,20 @@ function renderFearnOverview() {
   var NB_RANK = { 'NEWBUILDING_PRICES_KAMSARMAX': 0, 'NEWBUILDING_PRICES_NEWCASTLEMAX': 1, 'NEWBUILDING_PRICES_ULTRAMAX': 2, 'NEWBUILDING_PRICES_VLCC': 10, 'NEWBUILDING_PRICES_SUEZMAX': 11, 'NEWBUILDING_PRICES_AFRAMAX': 12, 'NEWBUILDING_PRICES_PRODUCT': 13, 'NEWBUILDING_PRICES_LNGC_MEGI_CBM': 20, 'NEWBUILDING_PRICES_VLGC_88_000_CBM_PANAMAX_LPG_DF': 21, 'NEWBUILDING_PRICES_MGC_40_000_CBM_LPG_DF': 22, 'NEWBUILDING_PRICES_16_000_TEU_LNG_DF': 30, 'NEWBUILDING_PRICES_21_000_TEU_LNG_DF': 31, 'NEWBUILDING_PRICES_9_000_TEU_LNG_DF': 32, 'NEWBUILDING_PRICES_7_000_TEU': 33, 'NEWBUILDING_PRICES_4_500_TEU': 34, 'NEWBUILDING_PRICES_3_100_TEU': 35, 'NEWBUILDING_PRICES_1_900_TEU': 36 };
   var SP_RANK = { 'S_P_DRY_5_CAPESIZE': 0, 'S_P_DRY_10_CAPESIZE': 1, 'S_P_DRY_5_HANDYSIZE': 2, 'S_P_DRY_10_HANDYSIZE': 3, 'S_P_DRY_5_ULTRAMAX': 4, 'S_P_DRY_10_ULTRAMAX': 5, 'S_P_DRY_5_KAMSARMAX': 6, 'S_P_DRY_10_KAMSARMAX': 7, 'S_P_DRY_RESALE_NEWCASTLEMAX': 8, 'S_P_WET_5_VLCC': 9, 'S_P_WET_10_VLCC': 10, 'S_P_WET_5_SUEZMAX': 11, 'S_P_WET_10_SUEZMAX': 12, 'S_P_WET_5_AFRAMAX_LR2': 13, 'S_P_WET_10_AFRAMAX_LR2': 14, 'S_P_WET_5_MR': 15, 'S_P_WET_10_MR': 16, 'S_P_WET_RESALE_VLCC': 20, 'S_P_WET_RESALE_SUEZMAX': 21, 'S_P_WET_RESALE_AFRAMAX_LR2': 22, 'S_P_WET_RESALE_MR': 23, 'S_P_DRY_RESALE_KAMSARMAX': 24, 'S_P_DRY_RESALE_ULTRAMAX': 25 };
   var GRP4 = { LNG: ['LNG_BROKER_2005_BUILT_145KM3_STEAM', 'LNG_BROKER_PACIFIC_OCEAN', 'LNG_BROKER_ATLANTIC_OCEAN'], LPG: ['LPG_SPOT_COASTER_EUROPE_3_500_5_000_CBM', 'LPG_SPOT_ETH_8_12_000_CBM', 'LPG_SPOT_LGC_60_000_CBM'] };
+  // The full restored tile set stays (nothing dropped), but each group opens
+  // on its headline tiles: one per class and measure, 27 in all instead of
+  // 53. The rest of a group is one 'show all' click away. Gas headlines are
+  // the liquid freight benchmarks; they lead the gas group.
+  var GAS_HEAD = ['LNG_BROKER_SPOT_EAST_174K_2_STROKE', 'LNG_BROKER_1_YR_TC_155_165K_TFDE', 'LPG_TC_VLGC_84_000_CBM', 'LPG_SPOT_VLGC_84_000_CBM'];
+  var HEADLINE = { 'NEWBUILDING_PRICES_KAMSARMAX': 1, 'NEWBUILDING_PRICES_NEWCASTLEMAX': 1, 'NEWBUILDING_PRICES_ULTRAMAX': 1, 'NEWBUILDING_PRICES_VLCC': 1, 'NEWBUILDING_PRICES_SUEZMAX': 1, 'NEWBUILDING_PRICES_AFRAMAX': 1, 'NEWBUILDING_PRICES_PRODUCT': 1, 'NEWBUILDING_PRICES_LNGC_MEGI_CBM': 1,
+    'S_P_DRY_5_CAPESIZE': 1, 'S_P_DRY_5_KAMSARMAX': 1, 'S_P_DRY_5_ULTRAMAX': 1, 'S_P_DRY_5_HANDYSIZE': 1, 'S_P_WET_5_VLCC': 1, 'S_P_WET_5_SUEZMAX': 1, 'S_P_WET_5_AFRAMAX_LR2': 1, 'S_P_WET_5_MR': 1 };
+  GAS_HEAD.forEach(function (k) { HEADLINE[k] = 1; });
   var GRP_LABEL = { 0: 'Time-Charter Rates', 1: 'Newbuilding Prices', 2: 'S&P / Resale', 3: 'LNG / LPG' };
   function groupOf(s) {
     if (s.type === 'NEWBUILDING') return (NB_RANK[s.k] != null) ? 1 : 98;
     if (s.type === 'S&P') return (SP_RANK[s.k] != null) ? 2 : 99; // ranked classes only — CN/JP basis curves were never on the pre-change overview
     if (TC_RANK[s.k] != null) return 0;
-    if ((s.type === 'LNG' || s.type === 'LPG') && GRP4[s.type] && GRP4[s.type].indexOf(s.k) >= 0) return 3;
+    if ((s.type === 'LNG' || s.type === 'LPG') && ((GRP4[s.type] && GRP4[s.type].indexOf(s.k) >= 0) || GAS_HEAD.indexOf(s.k) >= 0)) return 3;
     return 99; // everything else (incl. counts) stays off the overview run
   }
   var picks = [];
@@ -54795,7 +55100,7 @@ function renderFearnOverview() {
     var rank = (g === 0) ? (TC_RANK[k] != null ? TC_RANK[k] : 900)
       : (g === 1) ? (NB_RANK[k] != null ? NB_RANK[k] : 900)
       : (g === 2) ? (SP_RANK[k] != null ? SP_RANK[k] : 890)
-      : GRP4[s.type] ? GRP4[s.type].indexOf(k) : 900;
+      : (GAS_HEAD.indexOf(k) >= 0 ? GAS_HEAD.indexOf(k) - 10 : (GRP4[s.type] ? GRP4[s.type].indexOf(k) : 900));
     picks.push(Object.assign({ k: k, _grp: g, _r: rank }, s));
   });
   // group 98 = NB classes outside the ranked families (container/gas extras ride
@@ -54807,7 +55112,7 @@ function renderFearnOverview() {
   if (grid && picks.length) {
     banner = '';
   }
-  if (grid) grid.innerHTML = banner + picks.map(function (s) {
+  var tileHtml = function (s) {
     var t = s.type, col = COLORS[t] || '#4d9aff';
     var m36 = s.m.slice(-36), mn = Infinity, mx = -Infinity;
     m36.forEach(function (p) { if (p[1] < mn) mn = p[1]; if (p[1] > mx) mx = p[1]; });
@@ -54826,26 +55131,54 @@ function renderFearnOverview() {
     var sec = deskOf[t] != null ? deskOf[t] : 9;
     var st = fearnStatusOf(s);
     return '<div class="tracking-kpi-card fearn-kpi-click" data-sec="' + sec + '" onclick="switchFearnSection(' + sec + ')" style="cursor:pointer;" ' + ttTile + '>' +
-      '<div class="tracking-kpi-label" style="display:flex;justify-content:space-between;gap:6px;"><span style="color:' + col + ';font-weight:700;">' + escapeHtml(DESK_NAMES[t] || t) + '</span><span style="text-transform:none;letter-spacing:0;">' + escapeHtml(s.unit) + '</span>' + fearnStatusBadge(st, s) + '</div>' +
-      '<div style="font-size:11px;font-weight:600;color:var(--text);margin-top:3px;white-space:normal;line-height:1.25;" title="' + escapeHtml(s.route || s.k) + '">' + escapeHtml(s.route || s.k) + '</div>' +
-      '<div class="tracking-kpi-val" style="font-size:19px;">' + (s.latest == null ? '—' : Number(s.latest).toLocaleString('en-US', { maximumFractionDigits: 2 })) + '</div>' +
+      '<div class="tracking-kpi-label" style="display:flex;justify-content:space-between;gap:6px;"><span style="color:' + col + ';font-weight:700;">' + escapeHtml(DESK_NAMES[t] || t) + '</span><span style="text-transform:none;letter-spacing:0;">' + escapeHtml(fearnDisplayUnit(s)) + '</span>' + fearnStatusBadge(st, s) + '</div>' +
+      '<div style="font-size:11px;font-weight:600;color:var(--text);margin-top:3px;white-space:normal;line-height:1.25;" title="' + escapeHtml(s.route || s.k) + '">' + escapeHtml(fearnTileTitle(s)) + '</div>' +
+      '<div class="tracking-kpi-val" style="font-size:19px;">' + fearnFmtTile(s.latest, fearnDisplayUnit(s)) + '</div>' +
       '<div class="tracking-kpi-sub" style="' + chgStyle + '">' + chgTxt + '</div>' +
       '<div style="height:3px;background:rgba(28,35,51,0.8);border-radius:2px;margin:6px 0 4px;"><div style="height:3px;width:' + Math.max(2, Math.min(100, pr)).toFixed(0) + '%;background:' + prCol + ';opacity:0.75;border-radius:2px;"></div></div>' +
       '<div style="font-size:var(--fs-micro);color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;">P' + pr.toFixed(0) + ' · ' + s.n + 'm ' + s.first + '→' + s.last + '</div>' +
       '<div style="margin-top:4px;"><svg width="100%" height="40" viewBox="0 0 100 40" preserveAspectRatio="none"><polyline points="' + pts + '" fill="none" stroke="' + col + '" stroke-width="1.5" vector-effect="non-scaling-stroke"/></svg></div>' +
-      '<div style="font-size:var(--fs-micro);color:var(--text-muted);margin-top:2px;font-family:\'IBM Plex Mono\',monospace;white-space:normal;line-height:1.25;">' + escapeHtml(s.route || s.k) + '</div>' +
       '</div>';
-  }).join('');
+  };
+  // Group headers: the four groups were already ordered but ran together as
+  // one undifferentiated wall of ~40 tiles.
+  var GRP_UNIT = { 0: '$/day', 1: '$M', 2: '$M', 3: 'LNG $/day \u00b7 LPG as published' };
+  FDESK.ovOpen = FDESK.ovOpen || {};
+  var htmlTiles = '', lastGrp = null;
+  picks.forEach(function (s) {
+    var g = s._grp >= 98 ? 1 : s._grp;
+    if (g !== lastGrp) {
+      lastGrp = g;
+      var inGrp = picks.filter(function (x) { return (x._grp >= 98 ? 1 : x._grp) === g; });
+      var nExtra = g === 0 ? 0 : inGrp.filter(function (x) { return !HEADLINE[x.k]; }).length;
+      var open = !!FDESK.ovOpen[g];
+      htmlTiles += '<div class="fearn-ov-group" style="grid-column:1/-1;display:flex;align-items:baseline;gap:8px;margin:' + (htmlTiles ? '10px' : '0') + ' 0 2px;padding-bottom:4px;border-bottom:1px solid var(--border);">' +
+        '<span style="font-size:12px;font-weight:700;color:var(--text-bright);">' + escapeHtml(GRP_LABEL[g] || '') + '</span>' +
+        '<span style="font-size:var(--fs-micro);color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;">' + inGrp.length + ' series \u00b7 ' + escapeHtml(GRP_UNIT[g] || '') + '</span>' +
+        (nExtra ? '<button class="tracking-status-btn" style="margin-left:auto;font-size:var(--fs-micro);padding:2px 8px;" onclick="toggleFearnOvGroup(' + g + ')">' + (open ? 'Headline only' : 'Show all ' + inGrp.length + ' (+' + nExtra + ')') + '</button>' : '') +
+        '</div>';
+    }
+    var hide = g !== 0 && !HEADLINE[s.k] && !FDESK.ovOpen[g];
+    htmlTiles += hide ? '' : tileHtml(s);
+  });
+  if (grid) grid.innerHTML = banner + htmlTiles;
   var note = document.getElementById('fearnOverviewNote');
   if (note) {
     var tankWs = keys.filter(function (k) { return labels[k].type === 'TANK' && labels[k].unit === 'ws' && labels[k].n >= 3; }).length;
     var arch = keys.filter(function (k) { return fearnStatusOf(labels[k]) === 'ARCHIVED'; }).length;
     note.innerHTML = '<span style="color:var(--text-muted);">' +
-      (tankWs ? tankWs + ' Worldscale spot routes below · ' : '') +
+      (tankWs ? tankWs + ' Worldscale spot routes are in Tanker Routes · ' : '') +
       arch + ' archived labels live in the Series Museum only.' +
       '</span>';
   }
 }
+
+function toggleFearnOvGroup(g) {
+  FDESK.ovOpen = FDESK.ovOpen || {};
+  FDESK.ovOpen[g] = !FDESK.ovOpen[g];
+  renderFearnOverview();
+}
+window.toggleFearnOvGroup = toggleFearnOvGroup;
 
 // ---------- S2 TC RATES ----------
 function onTcVesselSelect(pk) {
@@ -55356,6 +55689,70 @@ function fearnFmtVal(v) {
   var n = Number(v);
   return (n % 1 === 0 ? n.toLocaleString('en-US') : n.toLocaleString('en-US', { minimumFractionDigits: 1, maximumFractionDigits: 2 }));
 }
+// The Fearnleys archive tags every series 'usd', whether it is a $/day
+// time-charter, a $M asset value or a $/month LPG hire. Infer the unit a
+// reader needs from the series' desk and subtype. LPG TC/spot are monthly:
+// VLGC 1Y TC printed 1,150,000 in 2019-07, i.e. ~$38k/day, not $1.15M/day.
+function fearnDisplayUnit(s) {
+  if (!s) return '';
+  var t = s.type, sub = String(s.subtype || ''), u = String(s.unit || ''), r = String(s.route || '');
+  if (u === 'ws') return 'WS';
+  if (u === 'tce') return '$/day';
+  if (t === 'BULK' && sub === 'TC') return '$/day';
+  if (t === 'TANK' && /T\/C/.test(sub)) return '$/day';
+  if (t === 'NEWBUILDING' || t === 'S&P') return '$M';
+  if (t === 'LPG') {
+    if (sub === 'TC') return '$/month';   // SPOT is ambiguous (monthly hire vs voyage lump sum): left as published
+    if (/FOB/.test(sub)) return '$/t';
+  }
+  if (t === 'LNG') {
+    if (/\bTC\b|Spot|TCE|Rate/i.test(r)) return '$/day';
+    if (/Built|Newbuilding|Value|NB (Price|Cost)/i.test(r)) return '$M';
+  }
+  return u === 'usd' ? 'USD' : u;
+}
+window.fearnDisplayUnit = fearnDisplayUnit;
+// Compact value for tiles: no '.67' tails on six-figure numbers.
+function fearnFmtTile(v, dispUnit) {
+  if (v == null || v !== v) return '\u2014';
+  var n = Number(v), a = Math.abs(n);
+  if (dispUnit === '$/month' && a >= 1e6) return '$' + (n / 1e6).toFixed(2) + 'M';
+  if (dispUnit === '$/month' && a >= 1e4) return '$' + Math.round(n / 1e3).toLocaleString('en-US') + 'k';
+  var pre = dispUnit && dispUnit.charAt(0) === '$' ? '$' : '';
+  if (a >= 1000) return pre + Math.round(n).toLocaleString('en-US');
+  return pre + n.toLocaleString('en-US', { maximumFractionDigits: a >= 100 ? 1 : 2 });
+}
+window.fearnFmtTile = fearnFmtTile;
+// Index where a trailing run of placeholder prints begins (>= 12 identical
+// values at or below 1,000), or m.length when there is none. Fearnleys keeps
+// publishing 0 / 1,000 for 1st-gen steam LNG carriers that no longer trade;
+// plotted, they read as a real flat rate.
+function fearnPlaceholderStart(m) {
+  if (!m || m.length < 12) return m ? m.length : 0;
+  var last = m[m.length - 1][1];
+  if (last == null || Math.abs(last) > 1000) return m.length;
+  var i = m.length - 1;
+  while (i > 0 && m[i - 1][1] === last) i--;
+  return (m.length - i >= 12) ? i : m.length;
+}
+window.fearnPlaceholderStart = fearnPlaceholderStart;
+// Tile title with the tenor/age that distinguishes otherwise identical names
+// (S&P 'Capesize' existed as 5-yr, 10-yr and resale; LPG TC vs spot).
+function fearnTileTitle(s) {
+  var r = s.route || s.k || '';
+  var sub = String(s.subtype || '');
+  if (s.type === 'S&P') {
+    var m = /(\d+)(?:-(CN|JP))?$/.exec(sub);
+    var age = /RESALE/.test(sub) ? 'resale' : (m ? m[1] + '-yr' : sub);
+    var yard = /-(CN|JP)$/.exec(sub);
+    return r + ' \u00b7 ' + age + (yard ? ' (' + yard[1] + ')' : '');
+  }
+  if (s.type === 'LPG' && (sub === 'TC' || sub === 'SPOT')) return r + ' \u00b7 ' + (sub === 'TC' ? '1-yr TC' : 'spot');
+  if (s.type === 'TANK' && /T\/C/.test(sub)) return r + ' \u00b7 1-yr TC';
+  if (s.type === 'BULK' && sub === 'TC') return r + ' \u00b7 TC';
+  return r;
+}
+window.fearnTileTitle = fearnTileTitle;
 function fearnUnitName(u) {
   return u === 'ws' ? 'Worldscale points' : (u === 'tce' ? 'USD/day TCE' : (u === 'usd/day' ? 'USD/day' : (u === 'usd/tonne' ? 'USD/tonne' : (u === 'count' ? 'fixtures (count)' : (u === 'usd' ? 'USD' : String(u))))));
 }
@@ -55591,7 +55988,13 @@ function fearnTankKlassSeries(klass) {
     // read as a zero market rate. Counted + disclosed in the footer instead.
     if (s.klass === klass && !fearnSeriesIsAllZero(s)) out.push(Object.assign({ code: code }, s));
   });
-  out.sort(function (a, b) { return (a.route < b.route ? -1 : (a.route > b.route ? 1 : (a.unit < b.unit ? -1 : 1))); });
+  // Live series first, then the frozen 2023 TCE twins, each alphabetical by
+  // route. They were interleaved, so a 2023 value sat between today's prints.
+  out.sort(function (a, b) {
+    var la = fearnIsLive(a) ? 0 : 1, lb = fearnIsLive(b) ? 0 : 1;
+    if (la !== lb) return la - lb;
+    return (a.route < b.route ? -1 : (a.route > b.route ? 1 : (a.unit < b.unit ? -1 : 1)));
+  });
   return out;
 }
 function fearnTankKlassZeroCount(klass) {
@@ -55635,9 +56038,15 @@ function renderFearnTank() {
       if (!series.length) {
         grid.innerHTML = '<div style="grid-column:1/-1;color:var(--text-muted);font-size:12px;">No published series in this group.</div>';
       } else {
+        var _frozenHdr = false;
         grid.innerHTML = series.map(function (s) {
           var d = fearnDeltaOf(s);
           var live = fearnIsLive(s);
+          var divider = '';
+          if (!live && !_frozenHdr) {
+            _frozenHdr = true;
+            divider = '<div style="grid-column:1/-1;font-size:var(--fs-micro);color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;border-top:1px solid var(--border);padding-top:8px;margin-top:2px;">Frozen series \u00b7 the source stopped publishing these (most TCE twins ended 2023-04 when it switched to WS/USD)</div>';
+          }
           var disc = fearnDiscontinuedOf(s);
           var col = live ? 'var(--accent)' : 'var(--text-muted)';
           var dStyle = d ? (d.d > 0 ? 'color:var(--green);' : (d.d < 0 ? 'color:var(--red);' : 'color:var(--text-muted);')) : '';
@@ -55653,8 +56062,8 @@ function renderFearnTank() {
             valHtml = d ? fearnFmtVal(d.last) : '\u2014';
             subHtml = '<div class="tracking-kpi-sub" style="' + dStyle + 'font-family:\'IBM Plex Mono\',monospace;">' + dTxt + '</div>';
           }
-          return '<div class="tracking-kpi-card" style="cursor:pointer;" role="button" data-tt-type="fearn-tank-tile" data-tt-code="' + escapeHtml(s.code) + '" onclick="openFearnTankChart(\'' + escapeHtml(s.code).replace(/'/g, '&#039;') + '\')" title="' + escapeHtml(s.label) + '">' +
-            '<div class="tracking-kpi-label" style="display:flex;justify-content:space-between;gap:6px;"><span style="color:' + col + ';font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">' + escapeHtml(s.label) + '</span>' + fearnStatusBadgeLive(s) + '</div>' +
+          return divider + '<div class="tracking-kpi-card" style="cursor:pointer;' + (live ? '' : 'opacity:0.6;') + '" role="button" data-tt-type="fearn-tank-tile" data-tt-code="' + escapeHtml(s.code) + '" onclick="openFearnTankChart(\'' + escapeHtml(s.code).replace(/'/g, '&#039;') + '\')" title="' + escapeHtml(s.label) + '">' +
+            '<div class="tracking-kpi-label" style="display:flex;justify-content:space-between;align-items:flex-start;gap:6px;"><span style="color:' + col + ';font-weight:700;white-space:normal;line-height:1.25;" title="' + escapeHtml(s.label) + '">' + escapeHtml(s.label) + '</span>' + fearnStatusBadgeLive(s) + '</div>' +
             '<div class="tracking-kpi-val" style="font-size:19px;">' + valHtml + '</div>' +
             subHtml +
             '<div style="font-size:var(--fs-micro);color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;margin-top:2px;">' + escapeHtml(String(s.first || '')) + ' \u2192 ' + escapeHtml(String(s.last || '')) + ' \u00b7 ' + (s.n != null ? Number(s.n).toLocaleString('en-US') : '\u2014') + ' pts \u00b7 ' + escapeHtml(s.unit || '') + '</div>' +
@@ -55807,7 +56216,7 @@ function renderFearnDryGrid() {
           subHtml = '<div class="tracking-kpi-sub" style="' + dStyle + 'font-family:\'IBM Plex Mono\',monospace;">' + dTxt + '</div>';
         }
         return '<div class="tracking-kpi-card" style="cursor:pointer;' + (isAvg ? 'border-color:rgba(163,113,247,0.45);' : '') + '" role="button" data-tt-type="fearn-dry-tile" data-tt-code="' + escapeHtml(s.code) + '" onclick="openFearnDryChart(\'' + escapeHtml(s.code).replace(/'/g, '&#039;') + '\')" title="' + escapeHtml(s.label) + '">' +
-          '<div class="tracking-kpi-label" style="display:flex;justify-content:space-between;gap:6px;"><span style="color:' + col + ';font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">' + escapeHtml(s.label) + '</span>' + fearnStatusBadgeLive(s) + '</div>' +
+          '<div class="tracking-kpi-label" style="display:flex;justify-content:space-between;align-items:flex-start;gap:6px;"><span style="color:' + col + ';font-weight:700;white-space:normal;line-height:1.25;" title="' + escapeHtml(s.label) + '">' + escapeHtml(s.label) + '</span>' + fearnStatusBadgeLive(s) + '</div>' +
           '<div class="tracking-kpi-val" style="font-size:19px;">' + valHtml + '</div>' +
           subHtml +
           '<div style="font-size:var(--fs-micro);color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;margin-top:2px;">since ' + escapeHtml(String(s.first || '')) + ' \u00b7 ' + (s.n != null ? Number(s.n).toLocaleString('en-US') : '\u2014') + ' pts \u00b7 ' + escapeHtml(String(s.unit || '')) + '</div>' +
@@ -56214,8 +56623,15 @@ function renderFearnGas(kind) {
   var sel = document.getElementById(selId);
   if (!keys.length) return;
   if (!FDESK[stateKey] || keys.indexOf(FDESK[stateKey]) < 0) {
+    // Open on the market's headline freight benchmark. The old rule took the
+    // alphabetically first series, which opened LNG on a flat $1,000/day
+    // 1st-generation steam TC and LPG on a North Sea butane FOB price.
+    var HEADLINE = kind === 'LNG'
+      ? ['LNG_BROKER_SPOT_EAST_174K_2_STROKE', 'LNG_BROKER_1_YR_TC_155_165K_TFDE']
+      : ['LPG_TC_VLGC_84_000_CBM', 'LPG_SPOT_VLGC_84_000_CBM'];
+    var hk = HEADLINE.filter(function (k) { return keys.indexOf(k) >= 0; })[0];
     var pref = keys.filter(function (k) { return labels[k].subtype === 'BROKER'; });
-    FDESK[stateKey] = (pref.length ? pref : keys)[0];
+    FDESK[stateKey] = hk || (pref.length ? pref : keys)[0];
   }
   if (sel && !sel.options.length) {
     var bySub = {};
@@ -56261,7 +56677,8 @@ function renderFearnGas(kind) {
       var ok = Object.keys(gx.lng_charter).filter(function (c) { return /tc$/.test(c); });
       overlay = { title: 'LNGC TC overlay (right axis, $/day)', colors: ['#f778ba', '#d2a8ff'], cols: ok, data: gx.lng_charter };
     } else if (kind === 'LPG' && gx.lpg_tc) {
-      overlay = { title: 'LPG TC overlay (right axis, $/day)', colors: ['#f778ba', '#d2a8ff', '#ffa198'], cols: Object.keys(gx.lpg_tc), data: gx.lpg_tc };
+      // Same Fearnleys LPG TC prints as the TC Tenor Family below: monthly hire.
+      overlay = { title: 'LPG TC overlay (right axis, $/month)', unit: '$/month', colors: ['#f778ba', '#d2a8ff', '#ffa198'], cols: Object.keys(gx.lpg_tc), data: gx.lpg_tc };
     }
   }
   var allMs = s.m;
@@ -56296,7 +56713,7 @@ function renderFearnGas(kind) {
           if (p[0] >= s0 && p[0] <= s1 && ymIx[p[0]] != null) gvals[ymIx[p[0]]] = p[1];
         });
         datasets.push({
-          label: prettyGasLabel(c, null), data: gvals,
+          label: overlay.unit ? prettyGasLabel(c, null).replace(/\s*\([^)]*\)\s*$/, '') + ' (' + overlay.unit + ')' : prettyGasLabel(c, null), data: gvals,
           borderColor: overlay.colors[i % overlay.colors.length], backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [5, 4], pointRadius: 0, tension: 0.2, spanGaps: false, yAxisID: 'y2'
         });
       });
@@ -56364,6 +56781,9 @@ function prettyGasLabel(k, s) {
   }
   var sub = s ? s.subtype : (/(_tc)$/i.test(k) ? 'TC' : (/FOB/i.test(k) ? 'FOB' : (/SPOT/i.test(k) ? 'SPOT' : '')));
   var unit = s && s.unit ? s.unit : 'usd';
+  // LPG hire is quoted per month (VLGC 1Y TC 1,150,000 in 2019 = ~$38k/day);
+  // labelling it '/day' overstated it thirty-fold.
+  if (s && s.type === 'LPG' && sub === 'TC') return body + ' ($/month)';
   if (sub === 'BROKER' || sub === 'CALCULATED' || sub === 'TC' || sub === 'BLPG-TCE') return body + ' (' + unit + '/day)';
   return body + ' (' + unit + ')';
 }
@@ -56405,9 +56825,10 @@ function renderFearnGasFamily(kind) {
     var datasets = shown.map(function (k, i) {
       var s = labels[k];
       var vals = new Array(dates.length).fill(null);
-      s.m.forEach(function (p) { vals[dIx[p[0]]] = p[1]; });
+      var cut = fearnPlaceholderStart(s.m);
+      s.m.forEach(function (p, j) { if (j < cut) vals[dIx[p[0]]] = p[1]; });
       return {
-        label: prettyGasLabel(k, s), data: vals,
+        label: prettyGasLabel(k, s) + (cut < s.m.length ? ' \u00b7 no live print since ' + s.m[cut][0] : ''), data: vals,
         borderColor: FEARnGAS_PALETTE[i % FEARnGAS_PALETTE.length], backgroundColor: 'transparent',
         borderWidth: 1.5, pointRadius: 0, pointHoverRadius: 4, tension: 0.15, spanGaps: true
       };
@@ -56592,14 +57013,33 @@ function renderFearnFxTable() {
       '<td style="white-space:nowrap;">' + escapeHtml(r.sg || '—') + '</td>' +
       '<td>' + vHtml + '</td>' +
       '<td>' + escapeHtml(r.c || '—') + '</td>' +
-      '<td>' + routeHtml + '</td>' +
+      '<td data-fxcol="route">' + routeHtml + '</td>' +
       '<td>' + escapeHtml(r.cm || '—') + '</td>' +
-      '<td class="mono" style="white-space:nowrap;">' + escapeHtml(r.p || '—') + '</td>' +
-      '<td class="mono" style="white-space:nowrap;">' + escapeHtml(r.lc || '—') + '</td>' +
-      '<td class="mono" style="text-align:right;color:var(--accent);">' + rate + '</td>' +
+      '<td data-fxcol="period" class="mono" style="white-space:nowrap;">' + escapeHtml(r.p || '—') + '</td>' +
+      '<td data-fxcol="laycan" class="mono" style="white-space:nowrap;">' + escapeHtml(r.lc || '—') + '</td>' +
+      '<td data-fxcol="rate" class="mono" style="text-align:right;color:var(--accent);">' + rate + '</td>' +
       '<td style="' + commentStyle + '" title="' + escapeHtml(commentText) + '">' + escapeHtml(commentText) + '</td>' +
       '</tr>';
   }).join('') || '<tr><td colspan="11" style="text-align:center;color:var(--text-muted);padding:14px;">No fixtures match.</td></tr>';
+
+  // Route, period, laycan and numeric rate are filled on 0-1.3% of tape rows
+  // (the detail lives in the comment), so on most pages those four columns
+  // were solid em-dashes pushing the comment off screen. Show each one only
+  // when the page on screen actually has values for it.
+  var fxTable = body.closest('table');
+  if (fxTable) {
+    var cnt = { route: 0, period: 0, laycan: 0, rate: 0 };
+    slice.forEach(function (r) {
+      if (r.rt || r.lp || r.dst) cnt.route++;
+      if (r.p) cnt.period++;
+      if (r.lc) cnt.laycan++;
+      if (r.r != null && r.r !== '' && isFinite(Number(r.r))) cnt.rate++;
+    });
+    // A column earns its width when at least 1 row in 10 on the page uses it;
+    // the inspector (row click) still shows every field for every row.
+    var need = Math.max(1, Math.ceil(slice.length * 0.1));
+    Object.keys(cnt).forEach(function (k) { fxTable.classList.toggle('fx-hide-' + k, cnt[k] < need); });
+  }
 
   var count = document.getElementById('fearnFxCount');
   if (count) count.textContent = rows.length.toLocaleString('en-US') + ' of ' + (FDESK.tape ? FDESK.tape.rows.length.toLocaleString('en-US') : 0) + ' tape rows';
@@ -57352,12 +57792,12 @@ function renderFearnStats(cache) {
   var chg = s.chg_pct, chgStyle = chg == null ? '' : (chg >= 0 ? 'color:var(--green);' : 'color:var(--red);');
   var chgTxt = chg == null ? '—' : ((chg >= 0 ? '+' : '') + chg.toFixed(2) + '% MoM');
   var cards = [
-    { l: 'Latest (' + s.last + ')', v: Number(s.latest).toLocaleString('en-US', { maximumFractionDigits: 2 }) + ' ' + s.unit, sub: s.route || '' },
+    { l: 'Latest (' + s.last + ')', v: fearnFmtTile(s.latest, fearnDisplayUnit(s)) + (fearnDisplayUnit(s).charAt(0) === '$' ? fearnDisplayUnit(s).slice(1) : ' ' + fearnDisplayUnit(s)), sub: s.route || '' },
     { l: 'MoM Change', v: chgTxt, sub: 'vs ' + (s.m.length > 1 ? s.m[s.m.length - 2][0] : '—'), style: chgStyle },
-    { l: 'All-Time High', v: Number(s.ath).toLocaleString('en-US', { maximumFractionDigits: 2 }), sub: s.ath_date, id: '' },
-    { l: 'All-Time Low', v: Number(s.atl).toLocaleString('en-US', { maximumFractionDigits: 2 }), sub: s.first + ' → ' + s.last, id: '' },
-    { l: 'History Percentile', v: s.pct_rank.toFixed(1) + 'th', sub: 'latest vs ' + s.n + ' months', id: '' },
-    { l: 'Unit / Subtype', v: s.unit, sub: s.subtype, id: '' }
+    { l: 'All-Time High', v: fearnFmtTile(s.ath, fearnDisplayUnit(s)), sub: s.ath_date, id: '' },
+    { l: 'All-Time Low', v: fearnFmtTile(s.atl, fearnDisplayUnit(s)), sub: s.first + ' → ' + s.last, id: '' },
+    { l: 'History Percentile', v: s.pct_rank != null ? s.pct_rank.toFixed(1) + 'th' : '—', sub: 'latest vs ' + s.n + ' months', id: '' },
+    { l: 'Unit / Subtype', v: fearnDisplayUnit(s), sub: s.subtype + (s.unit && fearnDisplayUnit(s) !== s.unit ? ' · source tag \'' + s.unit + '\'' : ''), id: '' }
   ];
   el.innerHTML = cards.map(function (c) {
     return '<div class="tracking-kpi-card"><div class="tracking-kpi-label">' + c.l + '</div>' +
@@ -57939,7 +58379,7 @@ function renderOffshoreKPIs() {
       const yoy = c.yoy_change_pct != null ? (c.yoy_change_pct >= 0 ? '+' : '') + c.yoy_change_pct.toFixed(1) + '%' : '—';
       const yoyColor = (c.yoy_change_pct || 0) >= 0 ? 'var(--green)' : 'var(--red)';
       const util = c.utilization_pct != null ? c.utilization_pct + '%' : '—';
-      subEl.innerHTML = `YoY: <strong style="color:${yoyColor};">${yoy}</strong> <span style="font-size:10px;color:var(--text-muted);font-weight:normal;">(vs Aug '25 trough)</span> · Util: <strong>${util}</strong>`;
+      subEl.innerHTML = `YoY: <strong style="color:${yoyColor};">${yoy}</strong> <span style="font-size:10px;color:var(--text-muted);font-weight:normal;">(vs same month last year)</span> · Util: <strong>${util}</strong>`;
     }
   });
 }
@@ -58172,6 +58612,7 @@ function renderOffshoreMainChart() {
       position: 'left',
       grid: { color: 'rgba(28, 35, 51, 0.5)' },
       grace: '8%',
+      min: 0,   // dayrates and utilisation are never negative; grace pushed the axis to -£20,000
       ticks: {
         color: '#7a8494',
         font: { family: 'IBM Plex Mono', size: 11 },

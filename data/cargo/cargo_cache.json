@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-11-19T22:40:08Z",
-    "as_of": "2026-11-19",
+    "generated_at": "2026-11-20T03:30:19Z",
+    "as_of": "2026-11-20",
     "version": "2.0.0",
     "tab": "Cargo & Trade Flows"
   },
   "provenance_registry": {
     "registry_metadata": {
       "version": "2.0.0",
-      "generated_at": "2026-11-19T22:40:08Z",
-      "as_of": "2026-11-19",
+      "generated_at": "2026-11-20T03:30:19Z",
+      "as_of": "2026-11-20",
       "total_datasets": 19,
       "architecture": "Centralized Dynamic Live Ingest Registry"
     },
@@ -239,10 +239,10 @@
         "span": "Current Commercial Fleet & Orderbook",
         "min_date": null,
         "max_date": null,
-        "as_of": "2026-11",
+        "as_of": "2026-09",
         "row_count": 11,
-        "status": "LIVE",
-        "mapping_note": "Status mapping is inferred: orderbook status based on shipyard contracts; scrapped vessels excluded; unresolved status flagged."
+        "status": "SNAPSHOT",
+        "mapping_note": "Status mapping is inferred: orderbook status based on shipyard contracts; scrapped vessels excluded; unresolved status flagged. Registry snapshot, not refreshed automatically."
       },
       "commodity_flow_matrix": {
         "source": "Fearnleys Fixtures Ledger (data/derived/fearnleys_fixtures_full.csv)",
@@ -86016,7 +86016,9 @@
         "2026-06",
         "2026-07",
         "2026-08",
-        "2026-09"
+        "2026-09",
+        "2026-10",
+        "2026-11"
       ],
       "volume_label": "Brazil Seaborne Iron Ore Exports (Mt/mo)",
       "volume_unit": "Mt",
@@ -86137,7 +86139,9 @@
         39.667,
         35.0028,
         34.3515,
-        31.5536
+        31.5536,
+        33.7823,
+        null
       ],
       "freight_label": "Baltic C3 Freight Rate ($/MT)",
       "freight_unit": "USD/MT",
@@ -86258,7 +86262,9 @@
         33.5,
         32.74,
         36.1,
-        41.65
+        41.65,
+        34.02,
+        35.94
       ],
       "freight_note": null,
       "provenance": {
@@ -86266,9 +86272,9 @@
         "freight_source": "Fearnleys Continuous Benchmark Rates (Route 10001)",
         "status": "LIVE",
         "span": "2017\u20132026",
-        "as_of": "2026-09",
+        "as_of": "2026-11",
         "min_month": "2017-01",
-        "max_month": "2026-09"
+        "max_month": "2026-11"
       }
     },
     "pilbara_c5": {
@@ -86410,7 +86416,9 @@
         "2026-06",
         "2026-07",
         "2026-08",
-        "2026-09"
+        "2026-09",
+        "2026-10",
+        "2026-11"
       ],
       "volume_label": "Port Hedland Iron Ore Throughput (Mt/mo)",
       "volume_unit": "Mt",
@@ -86548,7 +86556,9 @@
         51.71,
         44.225,
         46.605,
-        48.904
+        48.904,
+        48.165,
+        null
       ],
       "freight_label": "Baltic C5 Freight Rate ($/MT)",
       "freight_unit": "USD/MT",
@@ -86686,7 +86696,9 @@
         12.18,
         12.43,
         14.91,
-        16.61
+        16.61,
+        13.72,
+        13.91
       ],
       "freight_note": null,
       "provenance": {
@@ -86694,9 +86706,9 @@
         "freight_source": "Fearnleys Continuous Benchmark Rates (Route 10002)",
         "status": "LIVE",
         "span": "2015\u20132026",
-        "as_of": "2026-09",
+        "as_of": "2026-11",
         "min_month": "2015-08",
-        "max_month": "2026-09"
+        "max_month": "2026-11"
       }
     },
     "dampier_c5": {
@@ -86995,7 +87007,9 @@
         "2026-06",
         "2026-07",
         "2026-08",
-        "2026-09"
+        "2026-09",
+        "2026-10",
+        "2026-11"
       ],
       "volume_label": "Port of Dampier Iron Ore Throughput (Mt/mo)",
       "volume_unit": "Mt",
@@ -87290,7 +87304,9 @@
         15.429,
         14.692,
         14.849,
-        15.235
+        15.235,
+        17.23,
+        null
       ],
       "freight_label": "Baltic C5 Freight Rate ($/MT)",
       "freight_unit": "USD/MT",
@@ -87585,7 +87601,9 @@
         12.18,
         12.43,
         14.91,
-        16.61
+        16.61,
+        13.72,
+        13.91
       ],
       "freight_note": null,
       "provenance": {
@@ -87593,9 +87611,9 @@
         "freight_source": "Fearnleys Continuous Benchmark Rates (Route 10002)",
         "status": "LIVE",
         "span": "2002\u20132026",
-        "as_of": "2026-09",
+        "as_of": "2026-11",
         "min_month": "2002-07",
-        "max_month": "2026-09"
+        "max_month": "2026-11"
       }
     },
     "newcastle_coal": {
@@ -87708,7 +87726,9 @@
         "2026-06",
         "2026-07",
         "2026-08",
-        "2026-09"
+        "2026-09",
+        "2026-10",
+        "2026-11"
       ],
       "volume_label": "Newcastle Seaborne Coal Shipments (Mt/mo)",
       "volume_unit": "Mt",
@@ -87817,6 +87837,8 @@
         15.1358,
         12.6345,
         12.6738,
+        null,
+        null,
         null
       ],
       "freight_label": "Newcastle\u2013Qingdao Coal Freight ($/MT)",
@@ -87863,7 +87885,7 @@
         10.03,
         12.74,
         14.68,
-        13.27,
+        13.28,
         14.46,
         16.16,
         21.57,
@@ -87926,7 +87948,9 @@
         19.48,
         19.39,
         19.98,
-        23.49
+        23.49,
+        18.8,
+        19.46
       ],
       "freight_note": null,
       "provenance": {
@@ -87934,9 +87958,9 @@
         "freight_source": "Fearnleys Continuous Benchmark Rates (Route 10003)",
         "status": "LIVE",
         "span": "2018\u20132026",
-        "as_of": "2026-09",
+        "as_of": "2026-11",
         "min_month": "2018-01",
-        "max_month": "2026-09"
+        "max_month": "2026-11"
       }
     },
     "usg_grain": {
@@ -87989,7 +88013,9 @@
         "2026-06",
         "2026-07",
         "2026-08",
-        "2026-09"
+        "2026-09",
+        "2026-10",
+        "2026-11"
       ],
       "volume_label": "US Gulf Grain Inspections, all export destinations (Mt/mo)",
       "volume_unit": "Mt",
@@ -88038,7 +88064,9 @@
         4.93,
         5.59,
         4.7,
-        6.03
+        6.03,
+        7.92,
+        null
       ],
       "freight_label": "Supramax USG\u2013Japan Rate ($k/day)",
       "freight_unit": "$k/day",
@@ -88087,7 +88115,9 @@
         30.05,
         31.19,
         30.24,
-        32.9
+        32.9,
+        31.02,
+        30.76
       ],
       "freight_note": null,
       "provenance": {
@@ -88095,9 +88125,9 @@
         "freight_source": "Fearnleys Continuous Benchmark Rates (Route 120129)",
         "status": "LIVE",
         "span": "2023\u20132026",
-        "as_of": "2026-09",
+        "as_of": "2026-11",
         "min_month": "2023-01",
-        "max_month": "2026-09"
+        "max_month": "2026-11"
       }
     },
     "guinea_cape": {
@@ -134113,10 +134143,10 @@
       "span": "Current Commercial Fleet & Orderbook",
       "min_date": null,
       "max_date": null,
-      "as_of": "2026-11",
+      "as_of": "2026-09",
       "row_count": 11,
-      "status": "LIVE",
-      "mapping_note": "Status mapping is inferred: orderbook status based on shipyard contracts; scrapped vessels excluded; unresolved status flagged."
+      "status": "SNAPSHOT",
+      "mapping_note": "Status mapping is inferred: orderbook status based on shipyard contracts; scrapped vessels excluded; unresolved status flagged. Registry snapshot, not refreshed automatically."
     },
     "classes": [
       {

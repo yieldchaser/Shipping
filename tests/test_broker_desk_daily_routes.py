@@ -267,8 +267,9 @@ def test_dry_grid_series_and_first_dates():
 
 def test_section_framework_flow_preserved():
     # 12 sub-sections; Newbuilding relocated to its own id 12
-    assert "{ id: 12, name: 'Newbuilding' }" in C
-    assert "{ id: 4,  name: 'Dry Routes' }" in C
+    # entries carry a nav group since the desk nav was regrouped
+    assert "{ id: 12, name: 'Newbuilding'," in C
+    assert "{ id: 4,  name: 'Dry Routes'," in C
     assert "id=\"fearnSec12\"" in C
     assert "if (id === 12)" in C
     # hide/show loop covers all 12

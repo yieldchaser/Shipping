@@ -82,6 +82,14 @@ jobs:
         timeout-minutes: 15
         run: python scripts/scrapers/fetch_eu_ets_carbon.py
 
+      - name: Fill EU ETS gaps from ICAP (keyless official series)
+        # The live fetch needs OILPRICE_API_KEY and has written nothing since
+        # 2026-09-03; ICAP's Allowance Price Explorer is public. Live rows win
+        # on any date both cover.
+        continue-on-error: true
+        timeout-minutes: 10
+        run: python scripts/scrapers/backfill_eu_ets_icap.py
+
       - name: Scrape GACC Bauxite & Alumina
         id: step_gacc
         continue-on-error: true

@@ -121,7 +121,7 @@ def load_monthly_twins(path=MONTHLY):
         return {}
     return {(v.get("subtype"), v.get("route")): k
             for k, v in mon.get("labels", {}).items()
-            if v.get("type") == "TANK"}
+            if v.get("type") == "TANK" and not v.get("twin_of")}
 
 
 def load_rows(src):
@@ -141,14 +141,18 @@ def load_rows(src):
             ds = r.get("date") or ""
             if not ds:
                 continue
-            if ds > max_date:
-                max_date = ds
             if rt == "TANK":
                 st = r.get("rate_subtype") or ""
                 if st in STALE_SUBTYPES:
                     if ds > stale_last.get(st, ""):
                         stale_last[st] = ds
                     continue
+                # date_to = newest tanker ASSESSMENT. It used to be the max over
+                # every row in the shared CSV, so a fixture count stamped at its
+                # loading month (2026-12-01) made the tab say 'data to' a date
+                # that had not happened yet.
+                if ds > max_date:
+                    max_date = ds
                 groups[(st, r.get("route") or "", r.get("unit") or "")].append(
                     (ds, r.get("rate") or ""))
             elif rt == "counts" and r.get("rate_subtype") == "BROKER":

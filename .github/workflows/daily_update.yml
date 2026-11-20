@@ -95,6 +95,19 @@ jobs:
       continue-on-error: true
       run: python -m bunker_pipeline.run_pipeline --mode bix || true
 
+    - name: Run Bunker 12M forward curves collector
+      # bunker_pipeline has had --mode forward / --mode volumes since it was
+      # written, but no workflow ever ran them: the Bunkers tab's forward
+      # curves sat at 2026-09-21 and physical volumes at 2026-08. Both read
+      # bunkerindex.com (the same host the BIX step reaches daily) and only
+      # overwrite their files when the fetch returns rows.
+      continue-on-error: true
+      run: python -m bunker_pipeline.run_pipeline --mode forward || true
+
+    - name: Run Bunker physical sales volumes collector
+      continue-on-error: true
+      run: python -m bunker_pipeline.run_pipeline --mode volumes || true
+
     - name: Build BIX benchmark history
       continue-on-error: true
       run: python scripts/bunkers/build_bix_history.py || true
@@ -102,6 +115,24 @@ jobs:
     - name: Build bunker frontend summary cache
       continue-on-error: true
       run: python scripts/bunkers/build_bunker_cache.py || true
+
+    - name: Flag a stalled bunker port feed
+      # The spot step is allowed to fail so the rest of the daily run still
+      # lands, which also let a site-side HTTP 403 go unnoticed for weeks.
+      # Surface it as a run annotation instead of letting it vanish.
+      continue-on-error: true
+      run: |
+        python - <<'PY'
+        import json, datetime
+        k = json.load(open('data/bunkers/bunker_frontend_summary.json')).get('kpis', {})
+        obs = k.get('global_obs')
+        if obs:
+            age = (datetime.date.today() - datetime.date.fromisoformat(obs)).days
+            if age > 7:
+                print(f"::warning title=Bunker port feed stale::Ship & Bunker port prices last observed {obs} ({age} days). The Bunkers tab is showing BunkerIndex World in the headline cards until it recovers.")
+            else:
+                print(f"Bunker port feed fresh: {obs}")
+        PY
 
     - name: Build Cape spot distribution view
       # data/views/signals/cape_ffa_distribution.json from the cape_historical.csv updated above
