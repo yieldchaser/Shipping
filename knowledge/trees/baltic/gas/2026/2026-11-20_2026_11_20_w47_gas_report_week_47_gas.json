@@ -1,0 +1,90 @@
+{
+  "node_id": "baltic_gas_2026-11-20_2026_11_20_w47_gas_report_week_47_gas__root",
+  "doc_id": "baltic_gas_2026-11-20_2026_11_20_w47_gas_report_week_47_gas",
+  "parent_id": null,
+  "title": "Gas report - Week 47",
+  "section_path": [
+    "Gas report - Week 47"
+  ],
+  "section_path_text": "Gas report - Week 47",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "LNG\nThe LNG market remained under pressure this week, with an abundance of prompt vessel availability in the Atlantic continuing to weigh on freight rates. Increased fixing activity and firmer requirements offered little support to rates, as ample tonnage allowed charterers to maintain aggressive bids. On the BLNG1 Gladstone-Tokyo route, rates declined $2,800 week-on-week to settle at $50,600/day.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "atlantic",
+    "pacific",
+    "us_gulf",
+    "grain",
+    "gas",
+    "route",
+    "day.",
+    "day",
+    "settle",
+    "activity"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 427,
+  "source_path": "reports/baltic/gas/2026/2026-11-20_W47_gas-report-week-47_gas.html",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "baltic_gas_2026-11-20_2026_11_20_w47_gas_report_week_47_gas__s01_lng",
+      "doc_id": "baltic_gas_2026-11-20_2026_11_20_w47_gas_report_week_47_gas",
+      "parent_id": "baltic_gas_2026-11-20_2026_11_20_w47_gas_report_week_47_gas__root",
+      "title": "LNG",
+      "section_path": [
+        "LNG"
+      ],
+      "section_path_text": "LNG",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The LNG market remained under pressure this week, with an abundance of prompt vessel availability in the Atlantic continuing to weigh on freight rates. Increased fixing activity and firmer requirements offered little support to rates, as ample tonnage allowed charterers to maintain aggressive bids.",
+      "keywords": [
+        "lng",
+        "atlantic",
+        "pacific",
+        "grain",
+        "gas",
+        "day",
+        "assessment",
+        "route"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 232,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_gas_2026-11-20_2026_11_20_w47_gas_report_week_47_gas__s02_lpg",
+      "doc_id": "baltic_gas_2026-11-20_2026_11_20_w47_gas_report_week_47_gas",
+      "parent_id": "baltic_gas_2026-11-20_2026_11_20_w47_gas_report_week_47_gas__root",
+      "title": "LPG",
+      "section_path": [
+        "LPG"
+      ],
+      "section_path_text": "LPG",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The LPG market firmed this week, with a notable pick-up in activity in the US Gulf. Close to around 10 cargoes were fixed or worked for the upcoming month, steadily absorbing available tonnage and tightening the position list.",
+      "keywords": [
+        "lpg",
+        "us_gulf",
+        "gas",
+        "day.",
+        "route",
+        "tce",
+        "tonne",
+        "activity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 189,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
