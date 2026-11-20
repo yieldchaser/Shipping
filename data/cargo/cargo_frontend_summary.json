@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-20T03:28:31Z",
+    "generated_at": "2026-11-20T03:30:19Z",
     "as_of": "2026-11-20",
     "version": "2.0.0",
     "tab": "Cargo & Trade Flows"
@@ -8,7 +8,7 @@
   "provenance_registry": {
     "registry_metadata": {
       "version": "2.0.0",
-      "generated_at": "2026-11-20T03:28:31Z",
+      "generated_at": "2026-11-20T03:30:19Z",
       "as_of": "2026-11-20",
       "total_datasets": 19,
       "architecture": "Centralized Dynamic Live Ingest Registry"
@@ -239,10 +239,10 @@
         "span": "Current Commercial Fleet & Orderbook",
         "min_date": null,
         "max_date": null,
-        "as_of": "2026-11",
+        "as_of": "2026-09",
         "row_count": 11,
-        "status": "LIVE",
-        "mapping_note": "Status mapping is inferred: orderbook status based on shipyard contracts; scrapped vessels excluded; unresolved status flagged."
+        "status": "SNAPSHOT",
+        "mapping_note": "Status mapping is inferred: orderbook status based on shipyard contracts; scrapped vessels excluded; unresolved status flagged. Registry snapshot, not refreshed automatically."
       },
       "commodity_flow_matrix": {
         "source": "Fearnleys Fixtures Ledger (data/derived/fearnleys_fixtures_full.csv)",
@@ -134143,10 +134143,10 @@
       "span": "Current Commercial Fleet & Orderbook",
       "min_date": null,
       "max_date": null,
-      "as_of": "2026-11",
+      "as_of": "2026-09",
       "row_count": 11,
-      "status": "LIVE",
-      "mapping_note": "Status mapping is inferred: orderbook status based on shipyard contracts; scrapped vessels excluded; unresolved status flagged."
+      "status": "SNAPSHOT",
+      "mapping_note": "Status mapping is inferred: orderbook status based on shipyard contracts; scrapped vessels excluded; unresolved status flagged. Registry snapshot, not refreshed automatically."
     },
     "classes": [
       {

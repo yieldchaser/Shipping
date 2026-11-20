@@ -1467,13 +1467,20 @@ def process_minor_bulks():
     }
 
 
+FLEET_REGISTRY_SNAPSHOT = "2026-09"  # month the Signal Ocean registry files were pulled
+
+
 def process_fleet_orderbook():
     """Process Signal Ocean commercial fleet & orderbook summary."""
     fpath = SUPPLY_DIR / "fleet_orderbook_and_age_profile.csv"
     rows = list(csv.DictReader(open(fpath, "r", encoding="utf-8")))
     rows.sort(key=lambda r: float(r["orderbook_to_fleet_pct"]), reverse=True)
 
-    as_of = datetime.now(timezone.utc).strftime("%Y-%m")
+    # The Signal Ocean vessel registry files carry no date and no workflow
+    # runs scripts/acquire/signal_ocean_sync.py, so this is a one-off
+    # snapshot. as_of used to be the CURRENT month, which made a static
+    # snapshot read as fresh every month. Use the recorded pull month.
+    as_of = FLEET_REGISTRY_SNAPSHOT
     provenance = {
         "source": "Signal Ocean Commercial Fleet",
         "publisher": "The Signal Group",
@@ -1484,8 +1491,8 @@ def process_fleet_orderbook():
         "max_date": None,
         "as_of": as_of,
         "row_count": len(rows),
-        "status": "LIVE",
-        "mapping_note": "Status mapping is inferred: orderbook status based on shipyard contracts; scrapped vessels excluded; unresolved status flagged."
+        "status": "SNAPSHOT",
+        "mapping_note": "Status mapping is inferred: orderbook status based on shipyard contracts; scrapped vessels excluded; unresolved status flagged. Registry snapshot, not refreshed automatically."
     }
 
     return {
