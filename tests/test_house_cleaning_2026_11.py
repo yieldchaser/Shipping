@@ -127,6 +127,8 @@ def test_monthly_series_never_mix_units():
     tce = L["TANK_VLCC_MEG_FEAST_TCE"]
     assert ws["unit"] == "ws" and tce["unit"] == "tce"
     assert tce["last"] <= "2023-04" and tce["twin_of"] == "TANK_VLCC_MEG_FEAST"
-    # no WS-sized value inside a TCE series and vice versa
-    assert min(v for _, v in tce["m"] if v) > 1000
+    # TCE values are $/day (they were halved by WS points averaged in, and
+    # by zero 'no assessment' days); WS stays in Worldscale range.
+    tm = dict(tce["m"])
+    assert tm["2023-03"] > 70000 and tm["2019-03"] > 20000
     assert max(v for _, v in ws["m"]) < 5000

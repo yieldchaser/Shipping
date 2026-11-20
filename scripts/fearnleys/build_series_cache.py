@@ -50,7 +50,15 @@ def main():
     # daily caches share codes.
     df["unit"] = df["unit"].astype(str).str.strip()
     meta_rows = df.drop_duplicates(["label", "unit"]).set_index(["label", "unit"])
-    monthly = df.groupby(["label", "unit", "ym"])["rate"].mean().round(2)
+    # Exact-zero prints are feed debris on days without an assessment (the
+    # daily builder drops them too). Averaged in, they diluted real months:
+    # VLCC MEG/FEAST TCE 2019-03 had 7 zero days among ~$30k prints. Drop a
+    # zero only when its month also has a real print, so all-zero months (and
+    # the placeholder series the frontend flags) stay as published.
+    grp_keys = ["label", "unit", "ym"]
+    has_real = df.assign(_nz=df["rate"] != 0).groupby(grp_keys)["_nz"].transform("any")
+    df = df[(df["rate"] != 0) | (~has_real)]
+    monthly = df.groupby(grp_keys)["rate"].mean().round(2)
     units_by_label = {}
     for (lab, unit) in monthly.index.droplevel(2).unique():
         units_by_label.setdefault(lab, []).append(unit)
