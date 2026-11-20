@@ -597656,3 +597656,6 @@ id,date,charterer,owner,vessel,imo,rate,period,route,segment,department,commodit
 895248,2026-11-20,,NIAVIGRAINS TRADING CHARTERING,SUN P,,,,,Supramax,BULK,,,,,
 895249,2026-11-20,,Yangtze,YANGTZE SELINDA,,,,,Panamax,BULK,,,,,including transatlantic
 895250,2026-11-20,Fotis Commodity,,,,,,,Panamax,BULK,Wheat,,,,FOB; Subject to further details to be mutually agreed
+895251,2026-11-20,Exiros,,,,,,,Panamax,BULK,Metcoke,,,,TUP PRAIA MOLE CHRTRS ACCT
+895252,2026-11-20,UNIPEC,Greenfell Marine Inc,Seavoyager,9907653,W380,,,Suezmax,TANK,,LIBYA,PEMBROKE,2/12,RPLC KRITI KING
+895253,2026-11-20,SOCAR,Orion Star Corp,Aegean Unity,9745237,W355,,,Suezmax,TANK,,GUYANA,ALIAGA,15-16/12,CVRD
