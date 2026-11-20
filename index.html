@@ -17601,9 +17601,9 @@ if (intelTabsContainer) {
                       <th>Leg</th>
                       <th>Port Name</th>
                       <th>LOCODE</th>
-                      <th>Arrival</th>
-                      <th>Departure</th>
-                      <th>Transit (d)</th>
+                      <th data-tooltip="First AIS fix seen at the port (fixes are roughly weekly, so the real arrival can be earlier).">Arrival (first fix)</th>
+                      <th data-tooltip="Last AIS fix seen at the port (the real departure can be later).">Departure (last fix)</th>
+                      <th data-tooltip="Days from the last fix at the previous port to the first fix at this one.">Transit (d)</th>
                       <th>Distance (NM)</th>
                     </tr>
                   </thead>
@@ -46468,11 +46468,12 @@ function openVesselDrillDown(imo, name) {
   var vCountEl = document.getElementById('vmVoyageCount');
   var legs = (DATA.vesselVoyagesLookup && DATA.vesselVoyagesLookup.vessels && DATA.vesselVoyagesLookup.vessels[cleanImo]) || [];
 
-  if (vCountEl) vCountEl.textContent = legs.length + ' recorded legs';
+  var _vvWin = DATA.vesselVoyagesLookup && DATA.vesselVoyagesLookup.archive_window;
+  if (vCountEl) vCountEl.textContent = legs.length + ' AIS port calls' + (_vvWin ? ' (' + _vvWin[0] + ' → ' + _vvWin[1] + ')' : '');
   if (tbody) {
     if (!legs.length) {
       tbody.innerHTML = '<tr><td colspan="7" style="text-align:center; padding:16px; color:var(--text-muted);">' +
-        'No voyage tracks recorded in the master voyage registry for this hull.</td></tr>';
+        'No AIS port calls recorded for this hull in the archive window.</td></tr>';
     } else {
       var html = '';
       legs.forEach(function(leg) {
@@ -47217,7 +47218,9 @@ function renderPortPageActivity(meta) {
     var hp = portHistoryCache.ports.find(function(p) { return p.portid === meta.portid; });
     var rows = (hp && hp.rows) ? hp.rows : [];
     if (!useFull) {
-      rows = rows.filter(function(r) { return r.dateStr >= '2026-01-01'; });
+      // Year-to-date of the newest row (was a literal '2026-01-01').
+      var _ytdStart = (hp && hp.rows && hp.rows.length) ? String(hp.rows[hp.rows.length - 1].dateStr).slice(0, 4) + '-01-01' : '';
+      rows = rows.filter(function(r) { return r.dateStr >= _ytdStart; });
       if (!rows.length && hp && hp.rows && hp.rows.length) {
         rows = hp.rows.slice(-250);
       }
@@ -52577,7 +52580,7 @@ function escapeHtml(str) {
             const iso = (ms) => new Date(ms).toISOString().slice(0, 10);
             const fmt = (v) => (v == null ? 'n/a' : (v % 1 === 0 ? Number(v).toLocaleString('en-US') : Number(v).toLocaleString('en-US', { minimumFractionDigits: 1, maximumFractionDigits: 2 })));
             const unitName = (u) => u === 'ws' ? 'Worldscale points' : (u === 'tce' ? 'USD/day TCE' : (u === 'usd/day' ? 'USD/day' : (u === 'usd/tonne' ? 'USD/tonne' : (u === 'count' ? 'fixtures (count)' : (u === 'usd' ? 'USD' : String(u))))));
-            const live = (s.last || '') >= '2026-08-01';
+            const live = typeof fearnIsLive === 'function' ? fearnIsLive(s) : (s.last || '') >= '2026-08-01';
             const disc = fearnDiscontinuedOf(s);
             const kb = (window.FDESK_ROUTE_KB && FDESK_ROUTE_KB[(s.klass || '') + '|' + (s.route || '')]) || null;
             const built = type === 'fearn-tank-tile' ? (window.FDESK_TANKER_META && FDESK_TANKER_META.builtUtc) : (window.FDESK_DRY_META && FDESK_DRY_META.builtUtc);
@@ -52656,7 +52659,7 @@ function escapeHtml(str) {
             if (pts.length) html += `<div class="rt-row"><span class="rt-label">Span</span><span class="rt-val">${escapeHtml(String(s.first))} \u2192 ${escapeHtml(String(s.last))}</span></div>`;
             if (last) html += `<div class="rt-row"><span class="rt-label">Latest print</span><span class="rt-val">${fmt(last[1])} \u00b7 ${new Date(last[0]).toISOString().slice(0, 10)}</span></div>`;
             if (kb) html += `<div class="rt-row"><span class="rt-label">What it is</span><span class="rt-val">${escapeHtml(kb.what)}</span></div>`;
-            const liveChart = (s.last || '') >= '2026-08-01';
+            const liveChart = typeof fearnIsLive === 'function' ? fearnIsLive(s) : (s.last || '') >= '2026-08-01';
             if (liveChart) {
               html += `<div class="rt-note">Hover the line for exact date and value. Points pass through uninterpolated: gaps stay gaps.${kb ? ' ' + escapeHtml(kb.drivers) : ''}${built ? ' Fearnleys daily assessments \u00b7 fetched ' + escapeHtml(String(built)) : ''}</div>`;
             } else {
@@ -55680,6 +55683,19 @@ function fearnDiscontinuedOf(s) {
 var FROZEN_CUTOFF_MS = 1785542400000; // 2026-08-01 UTC midnight (design constant)
 var FDESK_TANKER_META = { builtUtc: null, dateTo: null, source: '', notes: '', excluded: [] };
 var FDESK_DRY_META = { builtUtc: null, dateTo: null, source: '', notes: '' };
+// The design constant is now only a floor. A series is LIVE when its last
+// print falls within FDESK_LIVE_WINDOW_DAYS of the newest print in its cache,
+// so the split keeps working after 2026: with the fixed date alone every
+// series that stopped in, say, March 2027 would still read LIVE.
+var FDESK_LIVE_WINDOW_DAYS = 90;
+function fearnLiveCutoffMs() {
+  var dt = FDESK_TANKER_META.dateTo || FDESK_DRY_META.dateTo;
+  var t = dt ? Date.parse(String(dt).slice(0, 10) + 'T00:00:00Z') : NaN;
+  var rel = isNaN(t) ? FROZEN_CUTOFF_MS : t - FDESK_LIVE_WINDOW_DAYS * 86400000;
+  return Math.max(FROZEN_CUTOFF_MS, rel);
+}
+function fearnLiveCutoffIso() { return new Date(fearnLiveCutoffMs()).toISOString().slice(0, 10); }
+window.fearnLiveCutoffIso = fearnLiveCutoffIso;
 
 function fearnEpochToIso(ms) {
   return new Date(ms).toISOString().slice(0, 10);
@@ -55879,7 +55895,8 @@ function fearnDeltaOf(s) {
   return { prevMs: pts[pts.length - 2][0], prev: pts[pts.length - 2][1], lastMs: pts[pts.length - 1][0], last: pts[pts.length - 1][1], d: pts[pts.length - 1][1] - pts[pts.length - 2][1] };
 }
 function fearnIsLive(s) {
-  return (s.last || '') >= '2026-08-01' || (s.pts && s.pts.length && s.pts[s.pts.length - 1][0] >= FROZEN_CUTOFF_MS);
+  var cutMs = fearnLiveCutoffMs();
+  return (s.last || '') >= fearnLiveCutoffIso() || !!(s.pts && s.pts.length && s.pts[s.pts.length - 1][0] >= cutMs);
 }
 function fearnFrozenReason() {
   return FDESK_TANKER_META.notes || 'frozen: the source stopped publishing this series';
@@ -56797,10 +56814,15 @@ function renderFearnGasFamily(kind) {
     tc: { canvasId: isLng ? 'fearnLngTcFamily' : 'fearnLpgTcFamily', metaId: isLng ? 'fearnLngTcFamilyMeta' : 'fearnLpgTcFamilyMeta', chartKey: isLng ? 'lngTcFamChart' : 'lpgTcFamChart', keys: [] },
     spot: { canvasId: isLng ? 'fearnLngSpotFamily' : 'fearnLpgSpotFamily', metaId: isLng ? 'fearnLngSpotFamilyMeta' : 'fearnLpgSpotFamilyMeta', chartKey: isLng ? 'lngSpotFamChart' : 'lpgSpotFamChart', keys: [] }
   };
+  // 'Live' = printed within 12 months of the newest month in the cache (was
+  // a literal '2025-01', which would have let series dead since early 2025
+  // count as live forever).
+  var _newestYm = Object.keys(labels).reduce(function (m, k) { return labels[k].last > m ? labels[k].last : m; }, '0000-00');
+  var _liveFromYm = (parseInt(_newestYm.slice(0, 4), 10) - 1) + _newestYm.slice(4, 7);
   Object.keys(labels).forEach(function (k) {
     var s = labels[k];
     if (s.type !== kind || s.n < 3) return;
-    if (!(s.last >= '2025-01')) return; // live labels only
+    if (!(s.last >= _liveFromYm)) return; // live labels only
     if (s.unit !== 'usd') return;
     var sub = s.subtype;
     var kUp = k.toUpperCase();

@@ -80,6 +80,12 @@ jobs:
         id: step_eu_ets
         continue-on-error: true
         timeout-minutes: 15
+        # The script reads OILPRICE_API_KEY from the environment, but the step
+        # never passed it, so CI could not fetch a live EUA price; the rows up
+        # to 2026-09-03 came from local runs. Without the secret the script
+        # still exits cleanly and writes nothing (ICAP fills in below).
+        env:
+          OILPRICE_API_KEY: ${{ secrets.OILPRICE_API_KEY }}
         run: python scripts/scrapers/fetch_eu_ets_carbon.py
 
       - name: Fill EU ETS gaps from ICAP (keyless official series)
