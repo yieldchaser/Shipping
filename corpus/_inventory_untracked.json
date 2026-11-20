@@ -7,13 +7,13 @@
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4057,
-      "untracked_bytes": 2389108169
+      "untracked_files": 4061,
+      "untracked_bytes": 2391730310
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 9,
-      "untracked_bytes": 2035986
+      "untracked_files": 15,
+      "untracked_bytes": 2308403
     },
     {
       "path": "corpus/04-poten",
@@ -34,6 +34,11 @@
       "path": "corpus/07-signal",
       "untracked_files": 298,
       "untracked_bytes": 174706385
+    },
+    {
+      "path": "corpus/08-baltic",
+      "untracked_files": 10,
+      "untracked_bytes": 45955
     },
     {
       "path": "corpus/09-ppa",
@@ -20403,6 +20408,16 @@
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
     },
     {
+      "path": "corpus/02-hellenic/iron_ore/2026/2026-11-20_mmi-daily-iron-ore-index-report-november-20-2026.html",
+      "bytes": 4683,
+      "sha256": "464b36d0ba107adbfb4e5b5e5edfeade9f00097e22eb886e23ed22a9e83b6449"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-11-20_mmi-daily-iron-ore-index-report-november-20-2026_20112026chinese434_e62ad656120d.jpg",
+      "bytes": 182008,
+      "sha256": "27f407c269be4b15bda2db8c321f2f77d0a7f4bf89b6c1640406383a8593f40c"
+    },
+    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
       "bytes": 1106014,
       "sha256": "b82a5abf0415bdb8da87e942ca7a69caa92b9e22ff1373ec591775898b1b0aa3"
@@ -30398,6 +30413,11 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
+      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-11-20_mmi-daily-iron-ore-index-report-november-20-2026_io20261120-en_e7616421fc63.pdf",
+      "bytes": 1217725,
+      "sha256": "b5d4c4d5a14a8d344af13afbeb2fa0667fa4eb92ca7774a737b7dade1b931ad7"
+    },
+    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31786,6 +31806,11 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-11-20_mmi-daily-iron-ore-index-report-november_io20261120-en.pdf",
+      "bytes": 1217725,
+      "sha256": "b5d4c4d5a14a8d344af13afbeb2fa0667fa4eb92ca7774a737b7dade1b931ad7"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -35223,6 +35248,26 @@
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
     },
     {
+      "path": "corpus/03-breakwave/insights/2026/2026-11-20_rising-attacks-in-middle-east-pushes-oil-higher.html",
+      "bytes": 7495,
+      "sha256": "aefdbebafc982be5a407b763ba933adab63e49b0f5e169d1c456955c0a6a090b"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-11-20_rising-attacks-in-middle-east-pushes-oil-higher.md",
+      "bytes": 6309,
+      "sha256": "a5e9060ac14ba93b27ab25b9f2491e6292e600aa958b4f507471e86337946b17"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-11-20_vlccs-more-ships-heading-for-the-gulf-fewer-cargoes.html",
+      "bytes": 3816,
+      "sha256": "1ea25d09ed9e2a9bd5ac7c738862a30428fa83817ac4ac3a90c908dd377ed778"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-11-20_vlccs-more-ships-heading-for-the-gulf-fewer-cargoes.md",
+      "bytes": 2063,
+      "sha256": "75a27d47b443e70fce8149f567a11b1189e85c30622bc2dcd4e74a9846553f89"
+    },
+    {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
       "bytes": 69365,
       "sha256": "9848c9a3aaba37a9e84f8cd2263fff62c7771135c466216f51114381d1621e5f"
@@ -35266,6 +35311,16 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-20_rising-attacks-in-middle-east-pushes-oil-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_10f8d9da619d.png",
+      "bytes": 144868,
+      "sha256": "599012b6fd2f676944e30592cc697206a2bd9e5b7c646b48763c9be2b61e86fc"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-20_rising-attacks-in-middle-east-pushes-oil-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3b02e99e7ec1.png",
+      "bytes": 107866,
+      "sha256": "d32028e8f305ed0c722360174bb35fa4b058d88c2ea22fa4019298b54a206ad0"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
@@ -43626,6 +43681,56 @@
       "path": "corpus/07-signal/images/6aab9b1af1afff7802ecc95b_Weeklies (Tanker & Dry).png",
       "bytes": 1548138,
       "sha256": "85b4a55553187dc53bebf16853fd14f226ba445c55f28d3b698e48b7abf032de"
+    },
+    {
+      "path": "corpus/08-baltic/container/2026/2026-11-20_W47_container-report-week-47_container.html",
+      "bytes": 2748,
+      "sha256": "85fc308e4c5cbb10b28b5dc0ee74898f544f5018bee67819a8f694df039c1701"
+    },
+    {
+      "path": "corpus/08-baltic/container/2026/2026-11-20_W47_container-report-week-47_container.md",
+      "bytes": 1656,
+      "sha256": "7e617a01394bd2932c688754b3c1ac487b1505786ec1a6d755e93a9a52e35345"
+    },
+    {
+      "path": "corpus/08-baltic/dry/2026/2026-11-20_W47_bulk-report-week-47_dry.html",
+      "bytes": 7413,
+      "sha256": "7c21a284d78d8428adb6a948ffc11df91f20a3ce5bdc294add3d823cfcad204c"
+    },
+    {
+      "path": "corpus/08-baltic/dry/2026/2026-11-20_W47_bulk-report-week-47_dry.md",
+      "bytes": 6313,
+      "sha256": "72c7f37578ba4fbd42b7dfd2b551220612cccaf8dc758f7d53f50a36241f97b1"
+    },
+    {
+      "path": "corpus/08-baltic/gas/2026/2026-11-20_W47_gas-report-week-47_gas.html",
+      "bytes": 3825,
+      "sha256": "17a9ad1d2ee4ad4a5269dbdae3338dc3131d3b7282ba8a0bf4d0f51f0ceddfe0"
+    },
+    {
+      "path": "corpus/08-baltic/gas/2026/2026-11-20_W47_gas-report-week-47_gas.md",
+      "bytes": 2668,
+      "sha256": "53202b4b7222a00f3b4daef90451897f74fbc1d6b63c421585973587c04f9809"
+    },
+    {
+      "path": "corpus/08-baltic/ningbo/2026/2026-11-20_ningbo-containerised-freight-index-20112_ningbo.html",
+      "bytes": 4974,
+      "sha256": "17d4391ae95b1b8532573ddc0e3a014d6546a0da5ae4bf010eb7d4a04ad4ffdd"
+    },
+    {
+      "path": "corpus/08-baltic/ningbo/2026/2026-11-20_ningbo-containerised-freight-index-20112_ningbo.md",
+      "bytes": 3141,
+      "sha256": "83d22a9995d6022b819ca3eefcb936fba9a649fa05e3da5c716b8761eb5f439b"
+    },
+    {
+      "path": "corpus/08-baltic/tanker/2026/2026-11-20_W47_tanker-report-week-47_tanker.html",
+      "bytes": 7204,
+      "sha256": "0ac5e2a5ba21f81a76a5cc858a68e81634fd96ebdd58c50bc57288ac5ce6d79f"
+    },
+    {
+      "path": "corpus/08-baltic/tanker/2026/2026-11-20_W47_tanker-report-week-47_tanker.md",
+      "bytes": 6013,
+      "sha256": "7633bc55feb019f918b323d8b18e104c36a6e85403d6e1076e01b42ba1cb09b8"
     },
     {
       "path": "corpus/09-ppa/_root_pdfs/dampier_2026_june.pdf",
