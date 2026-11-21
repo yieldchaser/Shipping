@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2988,
-      "untracked_bytes": 2299383200
+      "untracked_files": 2978,
+      "untracked_bytes": 2297488606
     },
     {
       "path": "corpus/02-hellenic",
@@ -32,8 +32,8 @@
     },
     {
       "path": "corpus/07-signal",
-      "untracked_files": 298,
-      "untracked_bytes": 174706385
+      "untracked_files": 329,
+      "untracked_bytes": 182186077
     },
     {
       "path": "corpus/09-ppa",
@@ -47,31 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "path": "corpus/01-brokers/_digests/advanced_shipping/2026/advanced_shipping_21_11_2026_advanced_shipping_trading_weekly_shipping_marke.md",
-      "bytes": 16967,
-      "sha256": "ade3924394543094db75364d8ded5cc59a7635eba0f0be114b9f92952780b078"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/affinity/2026/affinity_21_11_2026_affinity_tanker_weekly_20_november_2026.md",
-      "bytes": 13171,
-      "sha256": "877a49a49f0d91283e3106177d89ac2e5da2637ba3181441b416edd18ad763f7"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/agora/2026/agora_20_11_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.md",
-      "bytes": 10185,
-      "sha256": "a71208b8598cd166edd4e5013eb7745ae9a3f1a088870d0112f044995b2e4937"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/gibson/2026/gibson_21_11_2026_gibson_tanker_report_cracks_are_showing.md",
-      "bytes": 745,
-      "sha256": "37c835807b8e2e2f2e88caa1d71b372ea5c61245992aa694b5927fba9eade1ec"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/lion/2026/lion_20_11_2026_lion_shipbrokers_weekly_market_report_week_47_2026.md",
-      "bytes": 18344,
-      "sha256": "9fb217d0b27e76b79ebe1fdf8eeadcac356d3b32af08d0b00b3ab3f3214beec3"
-    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -1341,11 +1316,6 @@
       "path": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_2026_W40_ADVANCED-MARKET-REPORT-WEEK-40.pdf",
       "bytes": 1023184,
       "sha256": "65cfe5f2afb8feb3b295356965e488d620377b628bb791b70b7c8be282126764"
-    },
-    {
-      "path": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_21_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf",
-      "bytes": 1004338,
-      "sha256": "865ddeba4a57763dce3f3298ec37497096899cd57ffe37bbd4be8dd09e4e6ba0"
     },
     {
       "path": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_26_09_2026_advanced_shipping_trading_weekly_shipping_marke.pdf",
@@ -2628,11 +2598,6 @@
       "sha256": "89056739c28ff76e1d96d6f7fb22faca502e20e9d52295a4ae3e9c7fc6850435"
     },
     {
-      "path": "corpus/01-brokers/affinity/2026/affinity_21_11_2026_affinity_tanker_weekly_20_november_2026.pdf",
-      "bytes": 273478,
-      "sha256": "2070d5b5756071d2fc577e7dc400c8287ed800015e695846194293ebda4dc63c"
-    },
-    {
       "path": "corpus/01-brokers/affinity/2026/affinity_26_09_2026_affinity_tanker_weekly_25_september_2026.pdf",
       "bytes": 273401,
       "sha256": "8a67890265f1ebe52080804ede7fa77ceb875c633ac51a542c1da65010fae052"
@@ -3726,11 +3691,6 @@
       "path": "corpus/01-brokers/agora/2026/agora_2026_w14.pdf",
       "bytes": 1034068,
       "sha256": "a0a6a4c4e727878f6787e1d7181285765941878a8356dc556961df2bb2f24c23"
-    },
-    {
-      "path": "corpus/01-brokers/agora/2026/agora_20_11_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.pdf",
-      "bytes": 276257,
-      "sha256": "f40e178d609173c6ffed64dcdc932921a242ef65e76f79b13d97981078acaaf5"
     },
     {
       "path": "corpus/01-brokers/agora/2026/agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.pdf",
@@ -7873,11 +7833,6 @@
       "sha256": "98705825d2fed4e4dd41bb9f492a44d129f8eb0333a3d62047701191060f5f7e"
     },
     {
-      "path": "corpus/01-brokers/gibson/html/2026/2026-11-20_cracks-are-showing.html",
-      "bytes": 156275,
-      "sha256": "93091294ea9187038027a90414506f92e58e913407889c4e166bd3cbbfaa2389"
-    },
-    {
       "path": "corpus/01-brokers/intermodal/2021/intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf",
       "bytes": 1819519,
       "sha256": "74d668d29d02a4cd0bf051175c2bb711faa3f5bc19077555b23ac5a43a721153"
@@ -9976,11 +9931,6 @@
       "path": "corpus/01-brokers/lion/2026/lion_2026_W40_Lion-Weekly-Report-02-October-2026-W40.pdf",
       "bytes": 1852449,
       "sha256": "f6f19434443cd370be0109bd415ee4c6c8063d2565c376703dcdcd5979194806"
-    },
-    {
-      "path": "corpus/01-brokers/lion/2026/lion_20_11_2026_lion_shipbrokers_weekly_market_report_week_47_2026.pdf",
-      "bytes": 124834,
-      "sha256": "9454f90d11b152f011f6a21cc3e56fb5500f883c07a4c1415a8f9d2513a7b484"
     },
     {
       "path": "corpus/01-brokers/ssy/2021/ssy_2021_A20210705.pdf",
@@ -42188,6 +42138,16 @@
       "sha256": "cfb74c938d015edb12df749489317f64447354fc874abe5b10dbd3e604116a9e"
     },
     {
+      "path": "corpus/07-signal/html/weekly-dry-market-monitor-week-46-2026.html",
+      "bytes": 231210,
+      "sha256": "bd34d14a29ad093127ecc46039af85e30ee4f8147d60fc7be260148ea657752e"
+    },
+    {
+      "path": "corpus/07-signal/html/weekly-tanker-market-monitor-week-46-2026.html",
+      "bytes": 235835,
+      "sha256": "b5fc978bef6fdbcf8b15e85f40b5f4eab32494da3c58481ba900123f89079c6c"
+    },
+    {
       "path": "corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png",
       "bytes": 298514,
       "sha256": "11bbc769a2164d34cbb31e7e4795412aeb91dc285fb7ee3376aa33bacc388c3b"
@@ -43676,6 +43636,151 @@
       "path": "corpus/07-signal/images/6aab9b1af1afff7802ecc95b_Weeklies (Tanker & Dry).png",
       "bytes": 1548138,
       "sha256": "85b4a55553187dc53bebf16853fd14f226ba445c55f28d3b698e48b7abf032de"
+    },
+    {
+      "path": "corpus/07-signal/images/6afc29ed9bb46b9ad35b3cc9_246320c4.png",
+      "bytes": 1644386,
+      "sha256": "cafb572856ab62f3156ff261396c32f141552dc218c01e623cb07c732485aab9"
+    },
+    {
+      "path": "corpus/07-signal/images/6afc29ed9bb46b9ad35b3ccc_0c77c907.png",
+      "bytes": 45223,
+      "sha256": "ce84a96ef082529867e6b2f589162369118942887ea085fa2883257238a652ea"
+    },
+    {
+      "path": "corpus/07-signal/images/6afc29ed9bb46b9ad35b3ccf_112ad548.png",
+      "bytes": 21193,
+      "sha256": "fbe5dcd893e2911e9c17e91e437e782378f8711d71886735d5eaa3a114e8722b"
+    },
+    {
+      "path": "corpus/07-signal/images/6afc29ed9bb46b9ad35b3cd2_7cad88d8.png",
+      "bytes": 260016,
+      "sha256": "d8f819036a52740fb9317cd6d00dccbe4fa8ae1114344be6ca07742bd9fd6e65"
+    },
+    {
+      "path": "corpus/07-signal/images/6afc29ed9bb46b9ad35b3cd5_da9a6260.png",
+      "bytes": 596879,
+      "sha256": "878cc8f677d6329de698744b07f187b2dc0ac24b434547a459794ab1b65c377b"
+    },
+    {
+      "path": "corpus/07-signal/images/6afc29ed9bb46b9ad35b3cd8_6a660b13.png",
+      "bytes": 50634,
+      "sha256": "0f798b089b07b362a3995177f219cddb37035085a1aa461be0bdfd291f7ef2d6"
+    },
+    {
+      "path": "corpus/07-signal/images/6afc29ed9bb46b9ad35b3cdb_4817ac46.png",
+      "bytes": 1726009,
+      "sha256": "906605082cbf23444387965e9a1a224e49bb4ca97163be78197183c66c6d5bce"
+    },
+    {
+      "path": "corpus/07-signal/images/6afc29ed9bb46b9ad35b3cde_c2367195.png",
+      "bytes": 103689,
+      "sha256": "4cf86fed5cf3dc009e084f95480bb0ad2e278093f1b982b43d4e015f50fe234a"
+    },
+    {
+      "path": "corpus/07-signal/images/6afc29ed9bb46b9ad35b3ce1_7a2aad44.png",
+      "bytes": 158977,
+      "sha256": "6aa53b3b85d3517d5893ef63e6d23dfdab1ca8256b893efb16a517403439340b"
+    },
+    {
+      "path": "corpus/07-signal/images/6afc29ed9bb46b9ad35b3ce4_934529fb.png",
+      "bytes": 330357,
+      "sha256": "aa756013c95ef44ca356d0a57882ceb8b3e36cb811bde65bbca4250ff019616c"
+    },
+    {
+      "path": "corpus/07-signal/images/6afc29ed9bb46b9ad35b3ce8_1ea56f9e.png",
+      "bytes": 178742,
+      "sha256": "cca9a5187bc452fdc31997f1caa34b778e4f2ed3ae3693ac25a3336426d68e1a"
+    },
+    {
+      "path": "corpus/07-signal/images/6aff023311658ef2b6cc4c3b_66da36be.png",
+      "bytes": 67373,
+      "sha256": "f1955e4ca616f995c1926c7f3fde51796c8c7eff47de79e9a78325b5077330f7"
+    },
+    {
+      "path": "corpus/07-signal/images/6aff024be15d762c01aa3dbb_a18c6fa1.png",
+      "bytes": 144861,
+      "sha256": "a891f80bd184f0ae166d80b02e5d52c6a512190a568df7e59c3f749aa920d445"
+    },
+    {
+      "path": "corpus/07-signal/images/6aff02b98a2f288dbbb1f1ce_0450d4b5.png",
+      "bytes": 83760,
+      "sha256": "37dfd3e763aba920dce79715f542f50f4ac001772daa2bae560452080268e023"
+    },
+    {
+      "path": "corpus/07-signal/images/6aff0352237d3907fd0f0d6d_3e53aac0.png",
+      "bytes": 24475,
+      "sha256": "71148f279bd6b2e1a697b5904a5a5cd03316d2322fdc1d03f567f1cf32570f2a"
+    },
+    {
+      "path": "corpus/07-signal/images/6aff03c276a3586479b1a97a_0f91f134.png",
+      "bytes": 164182,
+      "sha256": "4062aca42e078b3846e900760cd953ab3b2f5af508ad0099349ad4c8ab31509d"
+    },
+    {
+      "path": "corpus/07-signal/images/6aff03cc2d9e2d470651e335_8b71b70e.png",
+      "bytes": 97699,
+      "sha256": "97f82500fbc8e9f801dd386fd83e115c73955f81b0e81d1a85abd11a2bbc4129"
+    },
+    {
+      "path": "corpus/07-signal/images/6aff03ed439fdf0fbf191ba6_90b36881.png",
+      "bytes": 61796,
+      "sha256": "fe382b5caf7152f211a57ca2c2fb41b33721f3b305eb7308db4306c6cbb3518d"
+    },
+    {
+      "path": "corpus/07-signal/images/6aff04107da050dec31c6a7a_9f48bd29.png",
+      "bytes": 152157,
+      "sha256": "bbbf391c1d0dce847e863d662b521101ae97b0e36752d501ea7be69347ece150"
+    },
+    {
+      "path": "corpus/07-signal/images/6aff04302cd946de605cfa0f_9e2e03a6.png",
+      "bytes": 99758,
+      "sha256": "593f5bbd02ee118b49ab80e9f3aea1d68ad77e8e17ca5aa0f2d3967974ef668a"
+    },
+    {
+      "path": "corpus/07-signal/images/6aff043c7e2b39900fe9dc22_3a187a3d.png",
+      "bytes": 138126,
+      "sha256": "859f3258459e39b9ef514b6cd913905b9d009e9e32e4e998369125d730e16e14"
+    },
+    {
+      "path": "corpus/07-signal/images/6aff04616c384344847341d1_0bdbe9f9.png",
+      "bytes": 198052,
+      "sha256": "ed56fcdb3589f28e6eaf2022f8e65791bb410d3a0265f90fc317f43e2e818d23"
+    },
+    {
+      "path": "corpus/07-signal/images/6aff04772e5051b8eeabbbe8_af34333c.png",
+      "bytes": 97953,
+      "sha256": "7714a785b6aced3860275390b427dd5b896430c96bfc92687738bc9727b5c770"
+    },
+    {
+      "path": "corpus/07-signal/images/6aff048247122ff1b6a8bef4_1eda88a6.png",
+      "bytes": 150497,
+      "sha256": "d51f298099d180a9f9cc6121eb04c9a9b5faf0d03ff25e593df2b6efe370f13f"
+    },
+    {
+      "path": "corpus/07-signal/images/6aff04b4850b56cd56b45261_68605584.png",
+      "bytes": 142651,
+      "sha256": "bc59ad5f04859e3442d071694591ec2f675d7cd633c3bcf273d163e8c47474f7"
+    },
+    {
+      "path": "corpus/07-signal/images/6aff04cd439fdf0fbf19a882_f7986c91.png",
+      "bytes": 96177,
+      "sha256": "977d531d3339b20d6b6d440cab85f659c6f0779e2fea148c425aad48f0c1a33d"
+    },
+    {
+      "path": "corpus/07-signal/images/6aff04cd439fdf0fbf19a885_921955f3.png",
+      "bytes": 140084,
+      "sha256": "d546c3c0405aa2bd752142c512d3678c08ff2589d45a4690fc6caf3972099628"
+    },
+    {
+      "path": "corpus/07-signal/monitors/2026/weekly-dry-market-monitor-week-46-2026.md",
+      "bytes": 16894,
+      "sha256": "f6b8042c656ff2c3d528cb5c1795d41acf34cbe2175e0772d652f75358a0062b"
+    },
+    {
+      "path": "corpus/07-signal/monitors/2026/weekly-tanker-market-monitor-week-46-2026.md",
+      "bytes": 20047,
+      "sha256": "75dd28eb4c69f2574bf555b5f6276018da432935a262208070f22b1ae95d453e"
     },
     {
       "path": "corpus/09-ppa/_root_pdfs/dampier_2026_june.pdf",
