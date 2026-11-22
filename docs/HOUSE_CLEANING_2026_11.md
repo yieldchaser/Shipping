@@ -1,10 +1,11 @@
 # House-cleaning pass, November 2026
 
-A record of the clean-up done on 19–20 Nov 2026: what was found, what was changed, what was deliberately **not** done and why, and what still needs a person.
+A record of the clean-up done on 19–22 Nov 2026: what was found, what was changed, what was deliberately **not** done and why, and what still needs a person.
 
 - **PR #54** (merged into `main`): data fixes, the tab restructure, and the Bunkers and Broker Desk passes.
-- **PR #55** (open): relative live cutoffs, EU ETS key wiring, and the AIS-derived voyage history.
-- **Regression tests:** `tests/test_house_cleaning_2026_11.py`.
+- **PR #55** (merged): relative live cutoffs, EU ETS key wiring, the AIS-derived voyage history, and the fixes for three failing workflows (section 2a).
+- **PR #56** (merged): installs the parquet engine the voyage-history builder needs in CI.
+- **Regression tests:** `tests/test_house_cleaning_2026_11.py` and `tests/test_pages_artifact.py`.
 
 ## How the work was done
 
@@ -42,6 +43,21 @@ A record of the clean-up done on 19–20 Nov 2026: what was found, what was chan
 - **ICAP EUA backfill.** It had a hard-coded `C:\Users\Dell\...` path. It is now portable and runs weekly as a keyless fallback.
 - **EU ETS live fetch (PR #55).** The workflow never passed `OILPRICE_API_KEY` to the script, so it could not run in CI; the rows up to 2026-09-03 came from local runs. The secret is now mapped into the step.
 - **Voyage history (PR #55).** `scripts/geospatial/build_vessel_port_calls.py` rebuilds it daily in `scheduled_pipeline_sync.yml`, offline from the AIS archive.
+
+## 2a. Failing workflows fixed (22 Nov)
+
+Each fix was merged to `main`, and a run of each workflow was then watched to success.
+
+| Workflow | Failure | Cause | Fix |
+|---|---|---|---|
+| Fast GitHub Pages Deploy | 8 failed deploys, 18–22 Nov: "No artifacts named github-pages were found" | The deploy step ran in the same job as the upload and asked for the artifact about 0.3 s after it finished, before GitHub had registered it. The artifact was 427 MB. | Upload and deploy are now separate jobs (`deploy` needs `build`), as in GitHub's Pages starter workflow. Raw files the site never loads are stripped before upload (parquet, the duplicate `bunker_master_historical.csv` copies, `port_calls_daily*`, the full Fearnleys dumps). The artifact is now 172 MB. `tests/test_pages_artifact.py` fails if a served page references a stripped file. |
+| Scheduled Pipeline Sync | Crash on `15-03-2010` (21 Nov) | `backtest_macro_health_radar.py` let pandas guess the BDRYFF date format from the first row. After the Solactive date rebase that row became `01-03-2010`, which was read month-first. | The script now parses DD-MM-YYYY day-first explicitly. |
+| Scheduled Pipeline Sync | `ImportError` on parquet (22 Nov, first run after #55) | The new voyage-history builder reads the AIS parquet archive, but the workflow installed no parquet engine. | `pyarrow` added to the install step (PR #56). |
+| Broker Voice Sync | Every run since 19 Nov | `git add data/extracted/charts` exits 1: the path matches the `data/extracted/*` ignore rule, although its 1,795 files are tracked. | Falls back to `git add -u`. |
+
+Runs watched to success: Pages 3270, 3275 and 3277; Pipeline Sync 74; Broker Voice Sync 140. Pages runs marked "cancelled" are deploys superseded by a newer one (`cancel-in-progress`), not failures.
+
+Also fixed: one older `|| true` in `broker_voice_sync.yml` (on the paragraph clean-up step) silently swallowed failures and kept `test_broker_voice_workflow_runs_daily_and_fails_loudly` red. It now logs a warning, like the neighbouring steps, and the test passes.
 
 ## 3. UI and layout
 
@@ -116,4 +132,4 @@ A record of the clean-up done on 19–20 Nov 2026: what was found, what was chan
 1. Decide on Ship & Bunker data access, or accept BunkerIndex-only bunker coverage.
 2. Confirm or add the `OILPRICE_API_KEY` repository secret.
 3. Optionally provide an official `SIGNAL_OCEAN_API_KEY` so the fleet/AIS sync can run in CI.
-4. Review and merge PR #55.
+4. Nothing left to merge: PRs #54, #55 and #56 are all on `main`.
