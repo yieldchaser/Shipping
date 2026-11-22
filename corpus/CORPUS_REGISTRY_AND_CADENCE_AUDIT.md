@@ -7,10 +7,10 @@
 
 ## 1. Executive Summary
 
-- **Raw corpus:** 58,925 files across 32 sources: 12,180 PDF, 9,155 HTML, 23,549 images, 13,607 native MD.
-- **Parsed Markdown:** 20,826 MDs.
+- **Raw corpus:** 58,936 files across 32 sources: 12,180 PDF, 9,155 HTML, 23,549 images, 13,618 native MD.
+- **Parsed Markdown:** 20,837 MDs.
   - Broker reports: 8,119 MDs from 16 brokers.
-  - SEC filings: 1,375 MDs.
+  - SEC filings: 1,386 MDs.
   - Reference books: 12 MDs for 12 PDFs.
 - **Status (2026-11-22)**, from each source's cadence (CURRENT within the allowed gap, DUE up to twice it, STALE beyond; PARSE BEHIND = a raw issue from the last 120 days has no MD near its date, or the newest MD is older than the newest issue):
   - CURRENT: 29
@@ -58,7 +58,7 @@
 | **Signal Ocean (Fleet Telemetry & Monitors)** | Weekly (Friday) & Live Telemetry | `2026-11-19` | `2026-11-19` | **CURRENT (3d)** | 15 PDF, 533 HTML, 1,691 IMG, 465 MD | 465 | 0.9% | 0 / 0 | [`data/extracted/md/signal`](../data/extracted/md/signal) | Yes (Bauxite/Coal/Crude flow monitors, trade flow heatmaps) | `signal_reports_metadata.csv (464 rows)` |
 | **Baltic Exchange Weekly** | Weekly (Friday) | `2026-11-20` | `2026-11-20` | **CURRENT (2d)** | 3,084 HTML, 2,264 MD | 2,264 | 24.5% | 0 / 0 | [`data/extracted/md/baltic`](../data/extracted/md/baltic) | No (Detailed fixture narratives and route earnings) | `baltic_reports_metadata.csv (2,264 rows)` |
 | **Pilbara Ports Authority (PPA)** | Monthly (month M figures published ~20th of M+1) | `2026-07-28` | `n/a` | **CURRENT (21d)** | 518 PDF | 0 | 0.0% | 0 / 0 | [`data/commodities`](../data/commodities) | No (Port Hedland & Dampier iron ore export tonnage tables) | `australia_ppa_iron_ore.csv (427 rows)` |
-| **SEC EDGAR: Listed Shipping & Dry Bulk Corporates (26 Issuers)** | Continuous / Statutory Filing Triggers (10-K, 20-F, 10-Q, 6-K, Material 8-K) | `2026-11-13` | `2026-11-13` | **CURRENT (9d)** | 1,375 MD | 1,375 | 0.0% | 0 / 0 | [`corpus/10-companies`](../corpus/10-companies) | No (Complete tabular statutory financials, fleet lists, debt notes) | `Direct structured Markdown with standardized YAML frontmatter across 26 corporate subdirectories` |
+| **SEC EDGAR: Listed Shipping & Dry Bulk Corporates (26 Issuers)** | Continuous / Statutory Filing Triggers (10-K, 20-F, 10-Q, 6-K, Material 8-K) | `2026-11-20` | `2026-11-20` | **CURRENT (2d)** | 1,386 MD | 1,386 | 0.0% | 0 / 0 | [`corpus/10-companies`](../corpus/10-companies) | No (Complete tabular statutory financials, fleet lists, debt notes) | `Direct structured Markdown with standardized YAML frontmatter across 26 corporate subdirectories` |
 | **Maritime Reference Literature & Academic Textbooks (12 Books)** | Static Reference Corpus | `n/a` | `n/a` | **REFERENCE** | 12 PDF, 12 MD | 12 | 0.0% | 0 / 0 | [`corpus/books`](../corpus/books) | Yes (LaTeX math formulas, figures, port facilities) | `Normalized Markdown in corpus/books/*.md (no series; text corpus)` |
 
 ### 2.1 Sources needing attention
@@ -284,7 +284,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Dossiers:** 268 Markdown files + 268 .tables.json sidecars
 - **Chart Extraction:** No (weekly MDs are commentary; rates come from the Fearnpulse API)
 - **Chart Engine / Technique:** Fearnpulse API (no card parse: it was ~7% wrong against the PDFs, removed 2026-11-01)
-- **Stacked Series CSVs:** [`fearnpulse_rates_full.csv`](../data/reference/fearnpulse_rates_full.csv) (310,161 rows), [`fearnpulse_dry_routes_full.csv`](../data/derived/fearnpulse_dry_routes_full.csv) (35,468 rows)
+- **Stacked Series CSVs:** [`fearnpulse_rates_full.csv`](../data/derived/fearnpulse_rates_full.csv) (310,161 rows), [`fearnpulse_dry_routes_full.csv`](../data/derived/fearnpulse_dry_routes_full.csv) (35,468 rows)
 - **Extraction Script:** [`run_fearnleys_normalized.py`](../scripts/extract/publishers/run_fearnleys_normalized.py)
 - **Notes & Rules Applied:** Ingested live for Week 40. 419 weekly commentary reports generated across all 9 years (2018-2026) in reports/fearnleys/commentary/<year>/ and data/reports/fearnleys/commentary/<year>/. 182 bespoke research reports mirrored into reports/fearnleys/<year>/.
 
@@ -437,7 +437,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/hellenic/demolition`](../data/extracted/md/hellenic/demolition)
 - **Publication Cadence:** Weekly (Saturday/Sunday) (Expected day: Saturday)
 - **Coverage Span:** `2021-07-02` to `2026-11-17`
-- **Latest Ingested Document:** `2026-11-17_athenian-shipbrokers-s-a-demolition-quick-update-week-46-2026.html` (Status: **CURRENT (5d)**)
+- **Latest Ingested Document:** `2026-11-17_athenian-shipbrokers-s-a-demolition-quick-update-week-46-2026_week-46-athenian-demolition-report-2_95c6815df15e.pdf` (Status: **CURRENT (5d)**)
 - **Sample Ingested Report (Corpus):** [`2026-11-17_athenian-shipbrokers-s-a-demolition-quick-update-week-46-2026.html`](../corpus/02-hellenic/demolition/2026/2026-11-17_athenian-shipbrokers-s-a-demolition-quick-update-week-46-2026.html)
 - **Sample Extracted Markdown (Digest):** [`gms_2026-11-06_week-45_bids-hold-fast-against-the-tide.md`](../data/extracted/md/hellenic/demolition/gms/2026/gms_2026-11-06_week-45_bids-hold-fast-against-the-tide.md)
 - **Raw Corpus Inventory:** 1,970 PDFs, 828 HTML files, 1,217 Images
@@ -469,7 +469,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/hellenic/iron_ore_pdf`](../data/extracted/md/hellenic/iron_ore_pdf)
 - **Publication Cadence:** Daily (Mon-Fri) (Expected day: Daily)
 - **Coverage Span:** `2021-07-14` to `2026-11-20`
-- **Latest Ingested Document:** `2026-11-20_mmi-daily-iron-ore-index-report-november-20-2026_io20261120-en_e7616421fc63.pdf` (Status: **CURRENT (2d)**)
+- **Latest Ingested Document:** `2026-11-20_mmi-daily-iron-ore-index-report-november_io20261120-en.pdf` (Status: **CURRENT (2d)**)
 - **Sample Ingested Report (Corpus):** [`2026-11-20_mmi-daily-iron-ore-index-report-november_io20261120-en.pdf`](../corpus/02-hellenic/iron_ore/pdfs/2026/2026-11-20_mmi-daily-iron-ore-index-report-november_io20261120-en.pdf)
 - **Sample Extracted Markdown (Digest):** [`2026-11-20_mmi-daily-iron-ore-index-report-november_io20261120-en.md`](../data/extracted/md/hellenic/iron_ore_pdf/2026/2026-11-20_mmi-daily-iron-ore-index-report-november_io20261120-en.md)
 - **Raw Corpus Inventory:** 3,590 PDFs
@@ -581,7 +581,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/drewry/ais`](../data/extracted/md/drewry/ais)
 - **Publication Cadence:** Weekly (Tuesday) (Expected day: Tuesday)
 - **Coverage Span:** `2024-01-09` to `2026-11-12`
-- **Latest Ingested Document:** `Drewry_AIS_Drybulk_Capesize_Week45_2026.pdf` (Status: **CURRENT (10d)**)
+- **Latest Ingested Document:** `Drewry_AIS_Product_LR2_Week45_2026.pdf` (Status: **CURRENT (10d)**)
 - **Sample Ingested Report (Corpus):** [`Drewry_AIS_Product_LR2_Week45_2026.pdf`](../corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week45_2026.pdf)
 - **Sample Extracted Markdown (Digest):** [`Drewry_AIS_Product_LR2_Week45_2026.md`](../data/extracted/md/drewry/ais/Product_LR2/Drewry_AIS_Product_LR2_Week45_2026.md)
 - **Raw Corpus Inventory:** 303 PDFs
@@ -683,12 +683,12 @@ Drewry AIS reports are organized into 10 distinct vessel sectors, each with dedi
 - **Corpus Directory (Raw Source):** [`corpus/10-companies`](../corpus/10-companies)
 - **Extracted Markdown Path (Normalized Dossiers):** [`corpus/10-companies`](../corpus/10-companies)
 - **Publication Cadence:** Continuous / Statutory Filing Triggers (10-K, 20-F, 10-Q, 6-K, Material 8-K) (Expected day: Continuous)
-- **Coverage Span:** `2015-03-02` to `2026-11-13`
-- **Latest Ingested Document:** `SB_6-K_2026-11-13_0001317861-26-000056.md` (Status: **CURRENT (9d)**)
-- **Sample Ingested Report (Corpus):** [`VALE_6-K_2026-11-10_0001292814-26-005201.md`](../corpus/10-companies/VALE/6-K/VALE_6-K_2026-11-10_0001292814-26-005201.md)
-- **Sample Extracted Markdown (Digest):** [`VALE_6-K_2026-11-10_0001292814-26-005201.md`](../corpus/10-companies/VALE/6-K/VALE_6-K_2026-11-10_0001292814-26-005201.md)
-- **Raw Corpus Inventory:** 1,375 Native Markdown files
-- **Extracted Markdown Dossiers:** 1,375 Markdown files
+- **Coverage Span:** `2015-03-02` to `2026-11-20`
+- **Latest Ingested Document:** `ECO_6-K_2026-11-20_0001104659-26-130324.md` (Status: **CURRENT (2d)**)
+- **Sample Ingested Report (Corpus):** [`VALE_6-K_2026-11-16_0001292814-26-005319.md`](../corpus/10-companies/VALE/6-K/VALE_6-K_2026-11-16_0001292814-26-005319.md)
+- **Sample Extracted Markdown (Digest):** [`VALE_6-K_2026-11-16_0001292814-26-005319.md`](../corpus/10-companies/VALE/6-K/VALE_6-K_2026-11-16_0001292814-26-005319.md)
+- **Raw Corpus Inventory:** 1,386 Native Markdown files
+- **Extracted Markdown Dossiers:** 1,386 Markdown files
 - **Chart Extraction:** No (Complete tabular statutory financials, fleet lists, debt notes)
 - **Chart Engine / Technique:** sec2md HTML DOM parser + standardized YAML frontmatter normalizer
 - **Stacked Series CSVs:** Direct structured Markdown with standardized YAML frontmatter across 26 corporate subdirectories
