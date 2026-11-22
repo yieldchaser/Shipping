@@ -70,7 +70,10 @@ jobs:
                        data/extracted/EXTRACTION_REGISTER.json docs/EXTRACTION_REGISTER.md \
                        corpus/_inventory_untracked.json corpus/CORPUS_REGISTRY_AND_CADENCE_AUDIT.md \
                        docs/CORPUS_CADENCE_AND_AUDIT.md corpus/CORPUS_PUBLICATION_CADENCE_AND_AUDIT.xlsx; do
-            if [ -e "$tpath" ]; then git add "$tpath"; fi
+            # data/extracted/charts matches the data/extracted/* ignore rule (its
+            # 1,795 files are tracked anyway), so a plain add exits 1 and failed
+            # every sync since 2026-11-19; -u refreshes the tracked files.
+            if [ -e "$tpath" ]; then git add "$tpath" 2>/dev/null || git add -u "$tpath"; fi
           done
           git add data/derived/fearnleys_broker_comments.csv \
                   data/derived/fearnleys_comments_tanker.json data/derived/fearnleys_comments_dry.json \

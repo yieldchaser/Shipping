@@ -73,7 +73,10 @@ def run_backtest():
 
     # 3. Load Futures BDRYFF
     bdryff_df = pd.read_csv(os.path.join(DATA_DIR, 'futures', 'bdryff_history.csv'))
-    bdryff_df['date'] = pd.to_datetime(bdryff_df['date'])
+    # Solactive history is DD-MM-YYYY. Letting pandas infer the format from the
+    # first row broke once that row became 01-03-2010 (read as month-first,
+    # then '15-03-2010' crashed the 2026-11-21 pipeline run).
+    bdryff_df['date'] = pd.to_datetime(bdryff_df['date'], format='mixed', dayfirst=True, errors='coerce')
     bdryff_df['bdryff'] = pd.to_numeric(bdryff_df['value'], errors='coerce')
     bdryff_df = bdryff_df.dropna(subset=['date', 'bdryff']).sort_values('date').reset_index(drop=True)
 
