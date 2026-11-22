@@ -3,14 +3,14 @@ title: "Fearnleys Weekly Broker Commentary - Week 47, 2026"
 source: "Fearnleys Hasura GraphQL API (fearnpulse.com)"
 year: 2026
 week: 47
-date_range: "2026-11-18 to 2026-11-18"
-comments_count: 8
+date_range: "2026-11-18 to 2026-11-20"
+comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-11-19 14:43:17"
+generated_at: "2026-11-22 12:57:08"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 47, 2026
-*Coverage Period: 2026-11-18 to 2026-11-18 | Total Notes: 8*
+*Coverage Period: 2026-11-18 to 2026-11-20 | Total Notes: 9*
 
 ## Executive Summary
 Institutional desk intelligence harvested directly from the Fearnleys Hasura GraphQL backend, covering global Dry Bulk, Crude & Product Tankers, Gas/LNG markets, and Secondhand S&P deals for Week 47 (2026).
@@ -74,6 +74,15 @@ With no sign of open arbitrage to draw vessels into longer voyages, and an incre
 ---
 
 ## 4. Sale and Purchase (S&P) & Corporate Activity
+### SnP Weekly Comment
+**Date:** 2026-11-20 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+
+It has been a quieter week on the tanker second-hand front which is reflective of a more cautious feeling that has enveloped the market over recent weeks. Behind the scenes, while firm interest remains, swinging rates are signalling to prospective buyers that perhaps holding off and observing the market is a smart way to navigate current conditions. This week Chinese buyers acquired ENERGY CENTAUR (75k dwt Sungdong 2008) for USD 36M.
+
+The dry market also had a quiet week. Owners are under no pressure to act given rates are healthy and many see these conditions continuing into next 2027. Selling now could capture a solid market, but there is an element of the same cautiousness displayed in the tanker market where buyers are wary of transacting near the top of the market. In the capesize sector, scrubber fitted EVER BEAUTY (180k dwt Qingdao Beihai 2011) sold for USD 40M basis SSDD passed.
+
+---
+
 ### Chartering Weekly Comment
 **Date:** 2026-11-18 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
