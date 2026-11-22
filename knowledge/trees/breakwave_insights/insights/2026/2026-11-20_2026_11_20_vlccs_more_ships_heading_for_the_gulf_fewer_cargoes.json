@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-11-20_2026_11_20_vlccs_more_ships_heading_for_the_gulf_fewer_cargoes__root",
+  "doc_id": "breakwave_insights_insights_2026-11-20_2026_11_20_vlccs_more_ships_heading_for_the_gulf_fewer_cargoes",
+  "parent_id": null,
+  "title": "VLCCs | More Ships Heading for the Gulf, Fewer Cargoes",
+  "section_path": [
+    "VLCCs | More Ships Heading for the Gulf, Fewer Cargoes"
+  ],
+  "section_path_text": "VLCCs | More Ships Heading for the Gulf, Fewer Cargoes",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe Gulf tonnage build accelerated this week. Twelve of the 17 additional Gulf-bound ballasters appeared in the past week, while the tracked cargo count fell from 81 to 66. West Africa moved the other way, with fewer ships heading into the region.",
+  "keywords": [
+    "china",
+    "west_africa",
+    "crude",
+    "gulf",
+    "ships",
+    "ballasters",
+    "before",
+    "cargo",
+    "early",
+    "gulf-bound",
+    "prompt",
+    "reported"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 231,
+  "source_path": "reports/breakwave/2026/2026-11-20_vlccs-more-ships-heading-for-the-gulf-fewer-cargoes.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/11/20/vlccs-more-ships-heading-for-the-gulf-fewer-cargoes",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-11-20_2026_11_20_vlccs_more_ships_heading_for_the_gulf_fewer_cargoes__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-11-20_2026_11_20_vlccs_more_ships_heading_for_the_gulf_fewer_cargoes",
+      "parent_id": "breakwave_insights_insights_2026-11-20_2026_11_20_vlccs_more_ships_heading_for_the_gulf_fewer_cargoes__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Gulf tonnage build accelerated this week. Twelve of the 17 additional Gulf-bound ballasters appeared in the past week, while the tracked cargo count fell from 81 to 66.",
+      "keywords": [
+        "china",
+        "west_africa",
+        "crude",
+        "gulf",
+        "ships",
+        "ballasters",
+        "before",
+        "cargo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 229,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

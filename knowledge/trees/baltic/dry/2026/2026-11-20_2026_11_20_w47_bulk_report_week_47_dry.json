@@ -1,0 +1,146 @@
+{
+  "node_id": "baltic_dry_2026-11-20_2026_11_20_w47_bulk_report_week_47_dry__root",
+  "doc_id": "baltic_dry_2026-11-20_2026_11_20_w47_bulk_report_week_47_dry",
+  "parent_id": null,
+  "title": "Bulk report - Week 47",
+  "section_path": [
+    "Bulk report - Week 47"
+  ],
+  "section_path_text": "Bulk report - Week 47",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Capesize\nThe market endured a mixed and generally softer week, with early weakness in the Pacific weighing on sentiment before a midweek recovery helped steady the overall picture. The BCI 182 5TC fluctuated throughout the week, recovering some of its early losses midweek before easing again towards Friday, ultimately finishing $507 below Monday's opening level. In the Pacific, C5 eased from $13.81 at the start of the week to a low of $13.40, before recovering to the $14.20-14.30 range by Thursday and ending the week at $14.40.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "australia",
+    "atlantic",
+    "pacific",
+    "west_africa",
+    "europe",
+    "india",
+    "us_gulf"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1175,
+  "source_path": "reports/baltic/dry/2026/2026-11-20_W47_bulk-report-week-47_dry.html",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "baltic_dry_2026-11-20_2026_11_20_w47_bulk_report_week_47_dry__s01_capesize",
+      "doc_id": "baltic_dry_2026-11-20_2026_11_20_w47_bulk_report_week_47_dry",
+      "parent_id": "baltic_dry_2026-11-20_2026_11_20_w47_bulk_report_week_47_dry__root",
+      "title": "Capesize",
+      "section_path": [
+        "Capesize"
+      ],
+      "section_path_text": "Capesize",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The market endured a mixed and generally softer week, with early weakness in the Pacific weighing on sentiment before a midweek recovery helped steady the overall picture. The BCI 182 5TC fluctuated throughout the week, recovering some of its early losses midweek before easing again towards Friday, ultimately finishing $507 below Monday's opening level.",
+      "keywords": [
+        "atlantic",
+        "pacific",
+        "before",
+        "midweek",
+        "continued",
+        "early",
+        "improved",
+        "list"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 300,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_dry_2026-11-20_2026_11_20_w47_bulk_report_week_47_dry__s02_panamax_kamsarmax",
+      "doc_id": "baltic_dry_2026-11-20_2026_11_20_w47_bulk_report_week_47_dry",
+      "parent_id": "baltic_dry_2026-11-20_2026_11_20_w47_bulk_report_week_47_dry__root",
+      "title": "Panamax-Kamsarmax",
+      "section_path": [
+        "Panamax-Kamsarmax"
+      ],
+      "section_path_text": "Panamax-Kamsarmax",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Atlantic strength continued to offset softer Pacific conditions this week. North Atlantic activity picked up, with limited prompt tonnage and healthy mineral enquiry supporting owners' expectations, while transatlantic grain rates edged higher.",
+      "keywords": [
+        "australia",
+        "atlantic",
+        "pacific",
+        "india",
+        "grain",
+        "dwt",
+        "fixed",
+        "tonnage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 290,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_dry_2026-11-20_2026_11_20_w47_bulk_report_week_47_dry__s03_ultramax_supramax",
+      "doc_id": "baltic_dry_2026-11-20_2026_11_20_w47_bulk_report_week_47_dry",
+      "parent_id": "baltic_dry_2026-11-20_2026_11_20_w47_bulk_report_week_47_dry__root",
+      "title": "Ultramax/Supramax",
+      "section_path": [
+        "Ultramax/Supramax"
+      ],
+      "section_path_text": "Ultramax/Supramax",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "It seemed like a week of consolidation, or possibly a turning point, with the market only slightly down overall from last week. The declining rates in the Pacific appeared to slow with some improved trades reported in the North during the second half of the week, with two 64,000-dwt modern types fixed from North China to West Africa at $25,100 and $25,250 respectively, and a newbuilding ex yard said to have agreed $24,500 for a NoPac round voyage.",
+      "keywords": [
+        "china",
+        "atlantic",
+        "pacific",
+        "west_africa",
+        "europe",
+        "india",
+        "us_gulf",
+        "dwt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 301,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_dry_2026-11-20_2026_11_20_w47_bulk_report_week_47_dry__s04_handysize",
+      "doc_id": "baltic_dry_2026-11-20_2026_11_20_w47_bulk_report_week_47_dry",
+      "parent_id": "baltic_dry_2026-11-20_2026_11_20_w47_bulk_report_week_47_dry__root",
+      "title": "Handysize",
+      "section_path": [
+        "Handysize"
+      ],
+      "section_path_text": "Handysize",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Handysize market maintained a broadly supportive tone throughout the week, although activity was uneven and often subdued. The Continent and Mediterranean remained broadly balanced, with rates steady to marginally firmer.",
+      "keywords": [
+        "handysize",
+        "australia",
+        "atlantic",
+        "pacific",
+        "europe",
+        "us_gulf",
+        "dwt",
+        "fixed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 262,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

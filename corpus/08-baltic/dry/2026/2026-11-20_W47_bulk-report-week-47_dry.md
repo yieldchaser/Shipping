@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 47"
+date: "2026-11-20"
+display_date: "20 November 2026"
+year: 2026
+week: 47
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2026/bulk-report-week-47.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 893
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2026/2026-11-20_W47_bulk-report-week-47_dry.html"
+---
+
+# Bulk Report – Week 47
+
+**Date:** 20 November 2026  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2026/bulk-report-week-47.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2026/bulk-report-week-47.html)  
+
+---
+
+### Capesize
+
+The market endured a mixed and generally softer week, with early weakness in the Pacific weighing on sentiment before a midweek recovery helped steady the overall picture. The BCI 182 5TC fluctuated throughout the week, recovering some of its early losses midweek before easing again towards Friday, ultimately finishing $507 below Monday's opening level. In the Pacific, C5 eased from $13.81 at the start of the week to a low of $13.40, before recovering to the $14.20–14.30 range by Thursday and ending the week at $14.40. The recovery was supported by strong miner participation, particularly on Wednesday, when all the major miners were active. The Atlantic remained more challenging, although the South Atlantic showed some resilience midweek as a tightening ballast list supported improved fixing activity around $35.00–35.25 on C3. This proved difficult to sustain, however, with rates subsequently coming under pressure and a wide spread between bids and offers highlighting continued uncertainty. Most first-half December cargoes have now been covered, with attention gradually shifting towards the second-half window. The North Atlantic remained the weakest area, with limited fresh demand, softer transatlantic fixtures and a lengthening tonnage list continuing to weigh on sentiment. Overall, the Pacific provided some welcome support and sentiment improved from the early-week lows, but persistent weakness across the North Atlantic and a lack of sustained momentum in the South Atlantic continued to limit the broader market’s recovery.
+
+### Panamax-Kamsarmax
+
+Atlantic strength continued to offset softer Pacific conditions this week. North Atlantic activity picked up, with limited prompt tonnage and healthy mineral enquiry supporting owners’ expectations, while transatlantic grain rates edged higher. From the US East Coast, an 82,000-dwt fixed a transatlantic trip at $17,250 and an 81,000-dwt fixed to India at $28,000. EC South America remained well supported, with tight tonnage for first-half December arrivals helping to firm sentiment for later laycans. A 76,000-dwt, 77,000-dwt and 82,000-dwt fixed fronthaul trips at $17,200, $21,000 and $20,000 respectively, all basis delivery WC India. Conversely, slowing Australian mineral demand, limited North Pacific grain enquiry and growing tonnage availability continued to pressure Pacific rates. An 82,000-dwt fixed a North Pacific grain round at $19,250, with another 82,000-dwt fixing Australia to Taiwan at $20,900. Indonesian business also softened amid competition from older tonnage, with a 76,000-dwt fixing at $13,750. Period activity remained evident, with an 82,000-dwt fixing for one year at $21,500, scrubber benefit to charterers, while an 81,000-dwt secured $19,260 for a similar duration.
+
+### Ultramax/Supramax
+
+It seemed like a week of consolidation, or possibly a turning point, with the market only slightly down overall from last week. The declining rates in the Pacific appeared to slow with some improved trades reported in the North during the second half of the week, with two 64,000-dwt modern types fixed from North China to West Africa at $25,100 and $25,250 respectively, and a newbuilding ex yard said to have agreed $24,500 for a NoPac round voyage. There were also two 60,000-dwt vessels fixed from North China to the US Gulf at around $19,000 and a 63,000-dwt from South China agreed $30,750 for a trip to Bangladesh. These were all positive indications, while, by comparison, Southeast Asia continued to struggle, with rates under pressure from ballasters arriving from the Indian Ocean. There wasn’t much movement in the Atlantic, with the Continent remaining firm, driven by scrap demand with a 63,000-dwt fixed from Bremen to the East Mediterranean at $32,000. The Mediterranean had a quiet week with few reported trades, but the South Atlantic was active with rates nudging up due to limited tonnage availability on early dates. North American rates were maintained following last week's big uplift, but are very positional, with November demand still paying high $30,000s for Ultras on transatlantic business, but December looking more balanced. Period activity was muted this week.
+
+### Handysize
+
+The Handysize market maintained a broadly supportive tone throughout the week, although activity was uneven and often subdued. The Continent and Mediterranean remained broadly balanced, with rates steady to marginally firmer. A 41,000-dwt was reported fixed from Brake to the US Gulf with lumber at $19,000. The South Atlantic retained a firm tone, supported by tight tonnage and strong fixture levels. A 40,000-dwt was fixed from Recalada to the US East Coast at $32,000. The US Gulf maintained upward momentum, with firmer bids and offers and a tightening tonnage list supporting further rate increases. A 42,000-dwt was reported fixed from the Mississippi River to Colombia at $24,000. In the Pacific, reported activity remained limited, but a steady cargo book and tightening tonnage, particularly in the North Pacific, helped underpin rates. A 38,000-dwt open in Gresik on 21–23 November was placed on subjects for an Australian round trip at around $20,000. Period activity included a 34,000-dwt open in Gibraltar prompt, fixed for four to six months at $16,750, and a 36,000-dwt fixed from Rio Grande for one year at $16,500.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  
