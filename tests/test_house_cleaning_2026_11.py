@@ -132,3 +132,19 @@ def test_monthly_series_never_mix_units():
     tm = dict(tce["m"])
     assert tm["2023-03"] > 70000 and tm["2019-03"] > 20000
     assert max(v for _, v in ws["m"]) < 5000
+
+
+def test_bdryff_history_is_parsed_day_first():
+    """The Solactive history is DD-MM-YYYY; inferring from the first row
+    (01-03-2010) read it month-first and crashed the pipeline sync."""
+    import pandas as pd
+    src = (ROOT / "scripts" / "backtest_macro_health_radar.py").read_text(encoding="utf-8")
+    assert "bdryff_df['date'] = pd.to_datetime(bdryff_df['date'], format='mixed', dayfirst=True" in src
+    df = pd.read_csv(ROOT / "data" / "futures" / "bdryff_history.csv")
+    d = pd.to_datetime(df["date"], format="mixed", dayfirst=True, errors="coerce")
+    assert d.notna().all() and d.is_monotonic_increasing
+
+
+def test_broker_voice_add_survives_ignored_tracked_dirs():
+    wf = (ROOT / ".github" / "workflows" / "broker_voice_sync.yml").read_text(encoding="utf-8")
+    assert 'git add "$tpath" 2>/dev/null || git add -u "$tpath"' in wf
