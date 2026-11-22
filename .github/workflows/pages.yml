@@ -41,12 +41,14 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 
+# Two jobs, as in GitHub's own Pages starter workflow. With upload and deploy
+# in one job, deploy-pages asked for the artifact ~0.3 s after the upload
+# finished and intermittently got an empty list ("No artifacts named
+# github-pages were found"): 8 failed deploys between 2026-11-18 and 11-22.
+# A separate job only starts once the upload is complete and listed.
 jobs:
-  deploy:
+  build:
     timeout-minutes: 15
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -82,12 +84,31 @@ jobs:
           rm -f knowledge/derived/signals.jsonl knowledge/derived/section_index.jsonl \
             knowledge/derived/topic_evidence.jsonl knowledge/derived/themes.jsonl \
             knowledge/derived/timelines.json
+          # Raw and intermediate files the site never fetches (no served HTML/JS
+          # names them; tests/test_pages_artifact.py checks this stays true).
+          # They took the artifact to ~1.4 GB unpacked / 427 MB packed.
+          find . -name '*.parquet' -not -path './.git/*' -delete
+          rm -rf data/geospatial/history data/stashed_redundant_sources
+          rm -f bunker_master_historical.csv data/bunkers/bunker_master_historical.csv \
+            data/congestion/port_calls_daily*.csv data/congestion/port_calls_daily*.csv.gz \
+            data/derived/fearnleys_fixtures_full.csv data/derived/fearnpulse_rates_full.csv \
+            data/reference/fearnpulse_rates_full.csv data/equities/sec_master_filing_catalog.csv
+          du -sh --exclude=.git . || true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: '.'
 
+  deploy:
+    needs: build
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
