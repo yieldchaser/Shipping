@@ -58,7 +58,7 @@ jobs:
           python scripts/verify/build_corpus_inventory.py --merge-existing || echo "::warning::build_corpus_inventory failed; the sync itself is committed, the extract/audit refresh waits for the next run"
           python scripts/sync_extraction_register.py || echo "::warning::sync_extraction_register failed; the sync itself is committed, the extract/audit refresh waits for the next run"
           # rejoin sentences the conversion split into paragraphs (only the MDs this run wrote)
-          python scripts/md_cleanup/join_wrapped_paragraphs.py --changed --apply || true
+          python scripts/md_cleanup/join_wrapped_paragraphs.py --changed --apply || echo "::warning::join_wrapped_paragraphs failed; the sync itself is committed, the paragraph clean-up waits for the next run"
           python scripts/audit/generate_cadence_audit.py || echo "::warning::generate_cadence_audit failed; the sync itself is committed, the extract/audit refresh waits for the next run"
 
       - name: Commit and push
