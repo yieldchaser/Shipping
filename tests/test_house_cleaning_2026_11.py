@@ -148,3 +148,12 @@ def test_bdryff_history_is_parsed_day_first():
 def test_broker_voice_add_survives_ignored_tracked_dirs():
     wf = (ROOT / ".github" / "workflows" / "broker_voice_sync.yml").read_text(encoding="utf-8")
     assert 'git add "$tpath" 2>/dev/null || git add -u "$tpath"' in wf
+
+
+def test_pipeline_sync_installs_a_parquet_engine():
+    """build_vessel_port_calls.py reads the AIS parquet archive; without pyarrow
+    the 2026-11-22 dispatch of the pipeline sync died on import."""
+    wf = (ROOT / ".github" / "workflows" / "scheduled_pipeline_sync.yml").read_text(encoding="utf-8")
+    assert "build_vessel_port_calls.py" in wf
+    install = next(l for l in wf.splitlines() if "pip install" in l)
+    assert "pyarrow" in install or "fastparquet" in install
