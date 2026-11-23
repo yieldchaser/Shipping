@@ -7,13 +7,13 @@
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4096,
-      "untracked_bytes": 2396991624
+      "untracked_files": 4057,
+      "untracked_bytes": 2389108169
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 20,
-      "untracked_bytes": 2991201
+      "untracked_files": 9,
+      "untracked_bytes": 2035986
     },
     {
       "path": "corpus/04-poten",
@@ -14958,21 +14958,6 @@
       "sha256": "0bba66ef4bd0790e891d2fa8957aff2678eaaf35df892acb039919ba36270d07"
     },
     {
-      "path": "corpus/02-hellenic/demolition/2026/2026-11-21_best-oasis-weekly-recycling-market-report-20-november-2026.html",
-      "bytes": 3167,
-      "sha256": "bc16962ae69d1535185eeae5b7ad9b15057e0426ac22a73b73854b17293870e6"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/2026/2026-11-21_gms-week-47-the-tide-of-second-thoughts.html",
-      "bytes": 6453,
-      "sha256": "2b0742c12cee225733d35950be328348a59058fbcd5ad158f7c37d65756285a8"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/2026/assets/2026-11-21_gms-week-47-the-tide-of-second-thoughts_img1_152354_5d4ac9ec42de.jpg",
-      "bytes": 42893,
-      "sha256": "0d0b84a3b607282425344f7fc1c3b767288ddd08e6da73d898a7fee92798a6d8"
-    },
-    {
       "path": "corpus/02-hellenic/demolition/pdfs/2024-04-15_Ship-recycling-market-insight-week-15-2024-Ramadan_Resurgence\u2026Or_Not.pdf",
       "bytes": 653148,
       "sha256": "a79a268821e132d8cdeb7fcd037d30c80ded62b9953ad0804fd3f7244207ab74"
@@ -14996,16 +14981,6 @@
       "path": "corpus/02-hellenic/demolition/pdfs/2026-08-15_best-oasis-weekly-recycling-market-report-14-august-2026_weekly-ship-recycling-report-08-augu_4ca6a14ecc27.pdf",
       "bytes": 1526416,
       "sha256": "52b23f9d42d155925f97c66cebc616237a05be249ba46e4de12f1473f63b3c70"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/pdfs/2026-11-21_best-oasis-weekly-recycling-market-report-20-november-2026_weekly-ship-recycling-report-14-nove_1363f37db50f.pdf",
-      "bytes": 384999,
-      "sha256": "1d572368a7a033232fbf3bab48e5302f032510f7cd4fdaabe07672f641174de6"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/pdfs/2026-11-21_gms-week-47-the-tide-of-second-thoughts_ship-recycling-market-insight-week-4_66cd8fffbc42.pdf",
-      "bytes": 970210,
-      "sha256": "90e9ed99e4ccf3930e169aeae948ea798bb495aa28f638bea9f19adae305ddf7"
     },
     {
       "path": "corpus/02-hellenic/demolition/pdfs/athenian/2021-07-07_athenian-shipbrokers-s-a-demolition-quick-update-week-26-2021_ship-recycling-weekly-26-2021-atheni_3c137c5215b0.pdf",
@@ -17918,11 +17893,6 @@
       "sha256": "7a526abe182eb3180698b293ecab270c9013bd392dab9c82c8d27534dac96b4e"
     },
     {
-      "path": "corpus/02-hellenic/demolition/pdfs/best_oasis/2026-11-21_best-oasis-weekly-recycling-market-repor_Weekly-Ship-Recycling-Report-14-November-20-November-2026.pdf",
-      "bytes": 384999,
-      "sha256": "1d572368a7a033232fbf3bab48e5302f032510f7cd4fdaabe07672f641174de6"
-    },
-    {
       "path": "corpus/02-hellenic/demolition/pdfs/gms/2021-07-05_gms-week-27-double-trouble_web_818af89830b3.pdf",
       "bytes": 92695,
       "sha256": "7e926d7c780688c2730e09f8d3b78f1f80cfcc722d8d092b87398031a9b35d29"
@@ -20433,24 +20403,9 @@
       "sha256": "94fe795675127664dd244b56e6220edc2549f31123d5660b14bc632eec0a1395"
     },
     {
-      "path": "corpus/02-hellenic/demolition/pdfs/gms/2026-11-21_gms-week-47-the-tide-of-second-thoughts_Ship-recycling-market-insight-Week-47-11-20-2026-The-Tide-Of-Second-Thoughts.pdf",
-      "bytes": 970210,
-      "sha256": "90e9ed99e4ccf3930e169aeae948ea798bb495aa28f638bea9f19adae305ddf7"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/2024/assets/2024-07-12_mmi-daily-iron-ore-index-report-july-12-2024_img1_1207202\u03b4\u03c3_e133c3395525.jpg",
       "bytes": 469290,
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/2026-11-23_mmi-daily-iron-ore-index-report-november-23-2026.html",
-      "bytes": 4983,
-      "sha256": "6871044a9be76a822a378dbd33b55bf10dd43744d2db0bbb05b25ca5a326275f"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-11-23_mmi-daily-iron-ore-index-report-november-23-2026_23112026cihnese3_406c4a9d3cdd.jpg",
-      "bytes": 182792,
-      "sha256": "79523521202b139e7de9d8b69554fcd1f4673a6c09a1a93b842587a6c111b473"
     },
     {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
@@ -30448,11 +30403,6 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-11-23_mmi-daily-iron-ore-index-report-november-23-2026_mmi-daily-iron-ore-report-for-23th-n_deece82d75ed.pdf",
-      "bytes": 1175342,
-      "sha256": "fc5f1ecb9f4dd0bf12a236e13e65f81885d0914d1904fa0ce85b5a3fe4de6f55"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31841,91 +31791,6 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-11-23_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-23th-November-2026.pdf",
-      "bytes": 1175342,
-      "sha256": "fc5f1ecb9f4dd0bf12a236e13e65f81885d0914d1904fa0ce85b5a3fe4de6f55"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/2026/2026-08-07_clarksons-hellas-snp-weekly-4.html",
-      "bytes": 5403,
-      "sha256": "6b4cc2f5cacffd33654ad6bf5999b4dc10821c043f962c6575a86331bcb62c50"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/2026/2026-08-14_clarksons-hellas-snp-weekly-5.html",
-      "bytes": 4342,
-      "sha256": "8125999ce84c35d068a676f238551bacaece976206cf37bd70caea734db0ea85"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/2026/2026-08-21_clarksons-hellas-snp-weekly-6.html",
-      "bytes": 5588,
-      "sha256": "010fb699457bec328d8f574a553206ad743c88dd3ca5335c0af5fbe609971dd3"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/2026/2026-08-29_clarksons-hellas-snp-weekly-7.html",
-      "bytes": 5366,
-      "sha256": "b36055bee2d383752bc388e91341aee08525ab7481bda3618f502b897c813d94"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/2026/2026-09-04_clarksons-hellas-snp-weekly-8.html",
-      "bytes": 5011,
-      "sha256": "549e56afa884caae23e6a421630b8daf16dc949fd2d64fb3e4e9e7a7e13ed377"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/2026/2026-09-11_clarksons-hellas-snp-weekly-9.html",
-      "bytes": 5870,
-      "sha256": "da5d5dfce56476d6f58f64806ee75aa29addb3a776f12ee88a60aa87b69e3479"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/2026/2026-09-18_clarksons-hellas-snp-weekly-10.html",
-      "bytes": 5960,
-      "sha256": "40d5e6b1ea49ff99daa383d7310c0e7a0bb89626aadd9c5fbf91a1c177948278"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/2026/2026-09-25_clarksons-hellas-snp-weekly-11.html",
-      "bytes": 4610,
-      "sha256": "9b805f4ec7b43b88d3002c20ca1749b7af0987f9028fd3f6870760e390eac2b0"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/2026/2026-10-02_clarksons-hellas-snp-weekly-12.html",
-      "bytes": 5830,
-      "sha256": "cdfdade214decd026f671c77b595a3665f8a0fb23f54a41571c160b656ca4651"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/2026/2026-10-09_clarksons-hellas-snp-weekly-13.html",
-      "bytes": 5491,
-      "sha256": "4660fcbb4e8f2a95e27e4a28dcedd371d33e9dea1ee760c126be397a49ab10c5"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/2026/2026-10-16_clarksons-hellas-snp-weekly-14.html",
-      "bytes": 5771,
-      "sha256": "983e72256f75f6c9b1aced4bd1d6c80cf0bdff9daf6c3a3695f3e6ef7a364eb0"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/2026/2026-10-23_clarksons-hellas-snp-weekly-15.html",
-      "bytes": 6163,
-      "sha256": "970aab72c3f290fa86585bd127044fe79478799cfa2d79bae28896925b09b00f"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/2026/2026-10-30_clarksons-hellas-snp-weekly-16.html",
-      "bytes": 5554,
-      "sha256": "f9f2ae6f89be885626dabe2dbe5377d35e5808689ecff6abaae1fc9eeb364c1c"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/2026/2026-11-06_clarksons-hellas-snp-weekly-17.html",
-      "bytes": 4962,
-      "sha256": "4397fa4e01ce712419126db161959b1b97f8c576d45a2d5a2a7dd3bca6c75014"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/2026/2026-11-13_clarksons-hellas-snp-weekly-18.html",
-      "bytes": 4805,
-      "sha256": "0878c1183005ca02a9eed09d56ae6508f83753d0aee3b402151d71a6b2ed8e1f"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/2026/2026-11-20_clarksons-hellas-snp-weekly-19.html",
-      "bytes": 6601,
-      "sha256": "50ccbecc60dbcd8b952def281396fa93b450b6453a720ad7d818b42b418ee1fb"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -35173,66 +35038,6 @@
       "sha256": "f9b17ac1d3d8345d08fa3e1dff456fbda1b177a8892fc18ae73fa9e8d055ee75"
     },
     {
-      "path": "corpus/02-hellenic/shipbuilding/pdfs/2026-08-07_clarksons-hellas-snp-weekly-4_weekly-sales-7th-august-2026_29271e56f422.pdf",
-      "bytes": 186084,
-      "sha256": "ae4069231c5ba43de6b80c9312ef4d52770ecf74060768b1e66890a9067dbfd7"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/pdfs/2026-08-14_clarksons-hellas-snp-weekly-5_weekly-sales-14th-aug-2026_7bc480a7562d.pdf",
-      "bytes": 229738,
-      "sha256": "d6d2477d6458a10dbed138fdc3e96ae560740c632cca0e194389d4aebba9e1dd"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/pdfs/2026-08-21_clarksons-hellas-snp-weekly-6_weekly-sales-21st-aug-2026_fc58462e03c3.pdf",
-      "bytes": 218149,
-      "sha256": "1ba059d0990e4b94f993310fb04f444a5dc7ff1e6dcbd78ada56a8374c533c9e"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/pdfs/2026-08-29_clarksons-hellas-snp-weekly-7_weekly-sales-28th-aug-2026_c67e38810432.pdf",
-      "bytes": 191760,
-      "sha256": "4a7685e07f84462a1c01b9026a64c5e2b18a53a2c1f56cafb334642157dc6315"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/pdfs/2026-09-04_clarksons-hellas-snp-weekly-8_weekly-sales-04th-sept-2026_1effc7d48348.pdf",
-      "bytes": 193934,
-      "sha256": "b53f09739818dc39859bef4dbe5d46c7e31684ec68eb58f08e08007055451de3"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/pdfs/2026-09-11_clarksons-hellas-snp-weekly-9_weekly-sales-11th-sep-2026_a6ea5861222a.pdf",
-      "bytes": 199452,
-      "sha256": "622f1022090baaffeeb6c89252ca8a5bfdd0845ab77a94b34ffec778e6eaad3c"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/pdfs/2026-09-18_clarksons-hellas-snp-weekly-10_weekly-sales-18th-sept-2026_71bb6e8d6906.pdf",
-      "bytes": 230628,
-      "sha256": "39f913e909f353881610da5533cca596353a6e0e1f1e770c650b441ad531962b"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/pdfs/2026-09-25_clarksons-hellas-snp-weekly-11_weekly-sales-25th-sept-2026_4a40c7674f06.pdf",
-      "bytes": 192836,
-      "sha256": "f95311df16aaa6fe4b19ed4a0a6a8be17c1179e0115c06b32cc132fcb3ec1617"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/pdfs/2026-10-02_clarksons-hellas-snp-weekly-12_weekly-sales-2nd-october-2026_1e653c721fb7.pdf",
-      "bytes": 208705,
-      "sha256": "ea2f9d8190b075cb5bb74762a4f4056f8d202e9b112c6415af813fc5aa8e7346"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/pdfs/2026-10-16_clarksons-hellas-snp-weekly-14_weekly-sales-16th-october-2026_8a83671e000e.pdf",
-      "bytes": 224526,
-      "sha256": "823f9b15b739378120055775717db8b2d6eebf9834808e0116a6d2dbe70c76a9"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/pdfs/2026-10-23_clarksons-hellas-snp-weekly-15_weekly-sales-23rd-october-2026_8f7285f6c4ac.pdf",
-      "bytes": 209959,
-      "sha256": "734d9d135e2deffd84e535558c5584aafe4b8cc2942c7aa3d4bbe5cb4d21a1f0"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/pdfs/2026-11-20_clarksons-hellas-snp-weekly-19_weekly-sales-20th-november-2026_1b911ac9b386.pdf",
-      "bytes": 208967,
-      "sha256": "38a120f3df6db76ec3d4b9290c67c8a2f80215384f238cea6f52f9b4225d9358"
-    },
-    {
       "path": "corpus/02-hellenic/shipbuilding/pdfs/2026/2026-01-09_Weekly-Sales-09th-Jan-2026.pdf",
       "bytes": 265051,
       "sha256": "1cfe3b032023eceffc182a223688d542594e1739a53bbd1c115511ef84ddfc52"
@@ -35423,26 +35228,6 @@
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
     },
     {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-23_is-the-northern-sea-route-becoming-more-relevant-for-bulk-shipping.html",
-      "bytes": 14716,
-      "sha256": "e5c3657f65aa9ac54fbf47d693914ed36318a3bb33d4dc90edffcb49dbf5fcba"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-23_is-the-northern-sea-route-becoming-more-relevant-for-bulk-shipping.md",
-      "bytes": 13255,
-      "sha256": "7f5d7bbc32b7e326634b8328c2dd4363d90015a34caa46547fc2df70a5d49ea6"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-23_less-grain-exports-still-expected.html",
-      "bytes": 5471,
-      "sha256": "4a55c4a8acfdbab118b9c49df75cd88e04cf5600bb4d3353f8baa86fadca0eda"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-23_less-grain-exports-still-expected.md",
-      "bytes": 3984,
-      "sha256": "eb8b0c266c0ea3661520491fe3bda04ba3202b8f2f19ee9e6d51a9908335c5bb"
-    },
-    {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
       "bytes": 69365,
       "sha256": "9848c9a3aaba37a9e84f8cd2263fff62c7771135c466216f51114381d1621e5f"
@@ -35486,41 +35271,6 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-23_is-the-northern-sea-route-becoming-more-relevant-for-bulk-shipping_img_2tow1_543553da2113.png",
-      "bytes": 135619,
-      "sha256": "5de8b78adcc90c24d1af80c03090bf25316435f5e2a43c7939bf9475e77c5e4a"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-23_is-the-northern-sea-route-becoming-more-relevant-for-bulk-shipping_img_3tow2_1ccf3ba91204.png",
-      "bytes": 376545,
-      "sha256": "aaf6b14cac2763da3ae55fc02b0116033bd161b5f20d4ef722c2422957fee995"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-23_is-the-northern-sea-route-becoming-more-relevant-for-bulk-shipping_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png",
-      "bytes": 187271,
-      "sha256": "a71e6d4f37fccf966018a1881470c6b0c2d6eb21234a5aa245a44a6f401ba0fe"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-23_less-grain-exports-still-expected_img_chart1_0c333930904d.jpg",
-      "bytes": 57411,
-      "sha256": "bf42b042c5c5eeab7f170b095a8e0dc785c3041ea090d3ea0c6df2fdd9dff99b"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-23_less-grain-exports-still-expected_img_chart2_0286f3587f1a.jpg",
-      "bytes": 61741,
-      "sha256": "120004f0d1969eeccd7a4512e94a0a7dc63960489bf7c402548961d4482a5865"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-23_less-grain-exports-still-expected_img_chart3_32c79fc1dc27.jpg",
-      "bytes": 47245,
-      "sha256": "2fc19d1ed0187f3fa3bea16149778f6d1ee426722b5f6637f6180b03a4fe3a6a"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-23_less-grain-exports-still-expected_img_chart4_3326e852e325.jpg",
-      "bytes": 51957,
-      "sha256": "308ec3855f7226ddb419c48033740e0ca6f45bc7355d4592bcefaf8ec4e4520c"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
