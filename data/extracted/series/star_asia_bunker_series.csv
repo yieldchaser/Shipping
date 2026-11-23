@@ -3013,3 +3013,18 @@ issue_date,report_week,port,grade,price_usd_t,source_file
 2026-11-13,46,Houston,VLSFO (0.5%),800.0,corpus/01-brokers/star_asia/2026/star_asia_16_11_2026_star_asia_shipbroking_weekly_market_report_week_46.pdf
 2026-11-13,46,Houston,HSFO (3.5%),593.0,corpus/01-brokers/star_asia/2026/star_asia_16_11_2026_star_asia_shipbroking_weekly_market_report_week_46.pdf
 2026-11-13,46,Houston,MGO (0.1%),1430.0,corpus/01-brokers/star_asia/2026/star_asia_16_11_2026_star_asia_shipbroking_weekly_market_report_week_46.pdf
+2026-11-20,47,Singapore,VLSFO (0.5%),940.0,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf
+2026-11-20,47,Singapore,HSFO (3.5%),879.0,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf
+2026-11-20,47,Singapore,MGO (0.1%),1334.0,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf
+2026-11-20,47,Hong Kong,VLSFO (0.5%),963.0,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf
+2026-11-20,47,Hong Kong,HSFO (3.5%),952.0,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf
+2026-11-20,47,Hong Kong,MGO (0.1%),1349.0,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf
+2026-11-20,47,Fujairah,VLSFO (0.5%),974.0,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf
+2026-11-20,47,Fujairah,HSFO (3.5%),748.0,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf
+2026-11-20,47,Fujairah,MGO (0.1%),1750.0,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf
+2026-11-20,47,Rotterdam,VLSFO (0.5%),761.0,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf
+2026-11-20,47,Rotterdam,HSFO (3.5%),677.0,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf
+2026-11-20,47,Rotterdam,MGO (0.1%),1437.0,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf
+2026-11-20,47,Houston,VLSFO (0.5%),800.0,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf
+2026-11-20,47,Houston,HSFO (3.5%),593.0,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf
+2026-11-20,47,Houston,MGO (0.1%),1430.0,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf

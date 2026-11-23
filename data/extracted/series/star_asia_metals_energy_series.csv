@@ -1417,3 +1417,12 @@ issue_date,report_week,category,index_name,units,price,change,pct_change,contrac
 2026-11-13,46,Energy,Brent Crude (ICE),USD / bbl.,95.98,+0.16,+0.17%,JAN 2026,corpus/01-brokers/star_asia/2026/star_asia_16_11_2026_star_asia_shipbroking_weekly_market_report_week_46.pdf
 2026-11-13,46,Energy,Crude Oil (Tokyo),JPY / kl,"96,800.00","+1,250.00",+1.31%,NOV 2026,corpus/01-brokers/star_asia/2026/star_asia_16_11_2026_star_asia_shipbroking_weekly_market_report_week_46.pdf
 2026-11-13,46,Energy,Natural Gas (Nymex),USD / MMBtu,3.27,-0.07,-2.16%,DEC 2026,corpus/01-brokers/star_asia/2026/star_asia_16_11_2026_star_asia_shipbroking_weekly_market_report_week_46.pdf
+2026-11-20,47,Industrial Metals,Copper (Comex),USD / lb.,615.10,-4.50,-0.73%,DEC 2026,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf
+2026-11-20,47,Industrial Metals,3Mo Copper (LME),USD / MT,"13,588.00",-229.00,-1.66%,N/A,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf
+2026-11-20,47,Industrial Metals,3Mo Aluminium (LME),USD / MT,"3,030.50",-38.00,-1.24%,N/A,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf
+2026-11-20,47,Industrial Metals,3Mo Zinc (LME),USD / MT,"3,716.00",-39.50,-1.05%,N/A,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf
+2026-11-20,47,Industrial Metals,3Mo Tin (LME),USD / MT,"46,652.00",+124.00,+0.27%,N/A,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf
+2026-11-20,47,Energy,WTI Crude Oil (Nymex),USD / bbl.,88.59,-0.15,-0.17%,DEC 2026,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf
+2026-11-20,47,Energy,Brent Crude (ICE),USD / bbl.,95.98,+0.16,+0.17%,JAN 2026,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf
+2026-11-20,47,Energy,Crude Oil (Tokyo),JPY / kl,"96,800.00","+1,250.00",+1.31%,NOV 2026,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf
+2026-11-20,47,Energy,Natural Gas (Nymex),USD / MMBtu,3.27,-0.07,-2.16%,DEC 2026,corpus/01-brokers/star_asia/2026/star_asia_23_11_2026_star_asia_shipbroking_weekly_market_report_week_47.pdf
