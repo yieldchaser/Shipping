@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-23T17:19:23Z",
+    "generated_at": "2026-11-23T18:13:02Z",
     "as_of": "2026-11-23",
     "version": "2.0.0",
     "tab": "Cargo & Trade Flows"
@@ -8,7 +8,7 @@
   "provenance_registry": {
     "registry_metadata": {
       "version": "2.0.0",
-      "generated_at": "2026-11-23T17:19:23Z",
+      "generated_at": "2026-11-23T18:13:02Z",
       "as_of": "2026-11-23",
       "total_datasets": 19,
       "architecture": "Centralized Dynamic Live Ingest Registry"
@@ -63,9 +63,9 @@
         "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCREXUS2&f=W",
         "span": "1991\u20132026",
         "min_date": "1991-02-08",
-        "max_date": "2026-11-06",
-        "as_of": "2026-11-06",
-        "row_count": 1866,
+        "max_date": "2026-11-13",
+        "as_of": "2026-11-13",
+        "row_count": 1867,
         "status": "LIVE",
         "unit": "Thousand Barrels/Day (kbpd)"
       },
@@ -128,9 +128,9 @@
         "source_url": "https://www.guineamininginsights.com/data-hub",
         "span": "2017\u20132026",
         "min_date": "2017-01",
-        "max_date": "2026-09",
-        "as_of": "2026-09",
-        "row_count": 157,
+        "max_date": "2026-10",
+        "as_of": "2026-10",
+        "row_count": 158,
         "status": "LIVE_MIRROR",
         "mirror_notice": "Bilateral trade flow: China-reported imports (GACC / UN Comtrade & SMM HS 260600 mirror) cross-referenced with Republic of Guinea Ministry of Mines direct releases.",
         "direct_source_status": "PARTIAL",
@@ -198,9 +198,9 @@
         "source_url": "https://www.argentina.gob.ar/agricultura",
         "span": "2022\u20132026",
         "min_date": "2022-01",
-        "max_date": "2026-09",
-        "as_of": "2026-09",
-        "row_count": 57,
+        "max_date": "2026-10",
+        "as_of": "2026-10",
+        "row_count": 58,
         "status": "LIVE",
         "unit": "Million Tonnes (Mt/mo)"
       },
@@ -225,9 +225,9 @@
         "span": "2022\u20132026",
         "archive_span": "2013\u20132026",
         "min_date": "2013-01-01",
-        "max_date": "2026-09-01",
-        "as_of": "2026-09",
-        "row_count": 674,
+        "max_date": "2026-10-01",
+        "as_of": "2026-10",
+        "row_count": 676,
         "status": "LIVE",
         "unit": "Million Tonnes (Mt/mo)"
       },
@@ -88356,7 +88356,8 @@
         "2026-06",
         "2026-07",
         "2026-08",
-        "2026-09"
+        "2026-09",
+        "2026-10"
       ],
       "volume_label": "China Import of Guinea Bauxite (Mt/mo)",
       "volume_unit": "Mt",
@@ -88477,11 +88478,13 @@
         15.84,
         14.88,
         11.55,
-        13.83
+        13.83,
+        15.2
       ],
       "freight_label": null,
       "freight_unit": null,
       "freight_data": [
+        null,
         null,
         null,
         null,
@@ -88607,9 +88610,9 @@
         "status": "LIVE_MIRROR",
         "mirror_notice": "Mirror trade flow. Bilateral GACC China import mirror cross-referenced with Guinea Ministry of Mines direct releases.",
         "span": "2017\u20132026",
-        "as_of": "2026-09",
+        "as_of": "2026-10",
         "min_month": "2017-01",
-        "max_month": "2026-09"
+        "max_month": "2026-10"
       }
     }
   },
@@ -94070,9 +94073,9 @@
       "source_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCREXUS2&f=W",
       "span": "1991\u20132026",
       "min_date": "1991-02-08",
-      "max_date": "2026-11-06",
-      "as_of": "2026-11-06",
-      "row_count": 1866,
+      "max_date": "2026-11-13",
+      "as_of": "2026-11-13",
+      "row_count": 1867,
       "status": "LIVE",
       "unit": "Thousand Barrels/Day (kbpd)"
     },
@@ -96237,7 +96240,7 @@
           4854.0,
           3675.0,
           3455.0,
-          null,
+          4488.0,
           null,
           null,
           null,
@@ -108614,9 +108617,9 @@
       "source_url": "https://www.guineamininginsights.com/data-hub",
       "span": "2017\u20132026",
       "min_date": "2017-01",
-      "max_date": "2026-09",
-      "as_of": "2026-09",
-      "row_count": 157,
+      "max_date": "2026-10",
+      "as_of": "2026-10",
+      "row_count": 158,
       "status": "LIVE_MIRROR",
       "mirror_notice": "Bilateral trade flow: China-reported imports (GACC / UN Comtrade & SMM HS 260600 mirror) cross-referenced with Republic of Guinea Ministry of Mines direct releases.",
       "direct_source_status": "PARTIAL",
@@ -108741,7 +108744,8 @@
       "2026-06": 15.84,
       "2026-07": 14.88,
       "2026-08": 11.55,
-      "2026-09": 13.83
+      "2026-09": 13.83,
+      "2026-10": 15.2
     },
     "avg_cif_usd_t": {
       "2017-01": 50.46,
@@ -131317,9 +131321,9 @@
       "source_url": "https://www.argentina.gob.ar/agricultura",
       "span": "2022\u20132026",
       "min_date": "2022-01",
-      "max_date": "2026-09",
-      "as_of": "2026-09",
-      "row_count": 57,
+      "max_date": "2026-10",
+      "as_of": "2026-10",
+      "row_count": 58,
       "status": "LIVE",
       "unit": "Million Tonnes (Mt/mo)"
     },
@@ -131380,7 +131384,8 @@
       "2026-06",
       "2026-07",
       "2026-08",
-      "2026-09"
+      "2026-09",
+      "2026-10"
     ],
     "totals_mt": [
       6.796,
@@ -131439,7 +131444,8 @@
       6.568,
       8.101,
       7.14,
-      8.529
+      8.529,
+      8.338
     ],
     "stacked_grains": {
       "corn": [
@@ -131499,7 +131505,8 @@
         2.743,
         4.531,
         3.229,
-        3.804
+        3.804,
+        3.525
       ],
       "wheat": [
         2.722,
@@ -131558,7 +131565,8 @@
         0.457,
         0.671,
         0.553,
-        1.001
+        1.001,
+        0.992
       ],
       "soybeans": [
         0.0,
@@ -131617,7 +131625,8 @@
         0.701,
         0.281,
         0.296,
-        0.835
+        0.835,
+        1.163
       ],
       "soymeal_pellets": [
         1.598,
@@ -131676,7 +131685,8 @@
         2.002,
         2.031,
         2.689,
-        2.404
+        2.404,
+        2.314
       ],
       "barley": [
         0.653,
@@ -131735,7 +131745,8 @@
         0.177,
         0.062,
         0.103,
-        0.227
+        0.227,
+        0.031
       ],
       "sorghum": [
         0.039,
@@ -131794,7 +131805,8 @@
         0.249,
         0.21,
         0.038,
-        0.067
+        0.067,
+        0.112
       ],
       "sunflower": [
         0.0,
@@ -131853,6 +131865,7 @@
         0.078,
         0.057,
         0.033,
+        0.0,
         0.0
       ],
       "other_grains": [
@@ -131912,7 +131925,8 @@
         0.162,
         0.257,
         0.199,
-        0.19
+        0.19,
+        0.202
       ]
     },
     "up_river_share_pct": [
@@ -131961,7 +131975,7 @@
       74.32,
       74.33,
       69.46,
-      71.5,
+      69.8,
       73.74,
       75.44,
       69.19,
@@ -131972,53 +131986,36 @@
       78.06,
       82.01,
       79.75,
-      78.69
+      78.69,
+      72.15
     ],
     "latest_ports_breakdown": [
       {
-        "port": "SAN LORENZO",
+        "port": "SANLORENZO",
         "basin": "Up-River Parana",
-        "tonnes": 4907167.0,
-        "share_pct": 57.53
+        "tonnes": 4504355.0,
+        "share_pct": 54.02
       },
       {
-        "port": "ROSARIO",
+        "port": "BAHIABLANCA",
         "basin": "Up-River Parana",
-        "tonnes": 1522000.0,
-        "share_pct": 17.84
-      },
-      {
-        "port": "BAHIA BLANCA",
-        "basin": "Ocean Deepwater",
-        "tonnes": 1313300.0,
-        "share_pct": 15.4
-      },
-      {
-        "port": "NECOCHEA",
-        "basin": "Ocean Deepwater",
-        "tonnes": 503958.0,
-        "share_pct": 5.91
-      },
-      {
-        "port": "RAMALLO",
-        "basin": "Up-River Parana",
-        "tonnes": 176560.0,
-        "share_pct": 2.07
+        "tonnes": 1303709.0,
+        "share_pct": 15.64
       },
       {
         "port": "ZARATE",
         "basin": "Up-River Parana",
-        "tonnes": 73890.0,
-        "share_pct": 0.87
+        "tonnes": 106600.0,
+        "share_pct": 1.28
       },
       {
-        "port": "SAN PEDRO",
+        "port": "SANPEDRO",
         "basin": "Up-River Parana",
-        "tonnes": 32343.0,
-        "share_pct": 0.38
+        "tonnes": 101250.0,
+        "share_pct": 1.21
       }
     ],
-    "latest_up_river_share": 78.69,
+    "latest_up_river_share": 72.15,
     "freight_note": "Up-river Paran\u00e1 draft restrictions (~32-34 ft at Rosario/San Lorenzo) dictate smaller parcels and require Handysize or Supramax/Panamax top-off at deepwater Necochea/Bah\u00eda Blanca."
   },
   "world_steel": {
@@ -132215,9 +132212,9 @@
       "span": "2022\u20132026",
       "archive_span": "2013\u20132026",
       "min_date": "2013-01-01",
-      "max_date": "2026-09-01",
-      "as_of": "2026-09",
-      "row_count": 674,
+      "max_date": "2026-10-01",
+      "as_of": "2026-10",
+      "row_count": 676,
       "status": "LIVE",
       "unit": "Million Tonnes (Mt/mo)"
     },
@@ -133906,8 +133903,8 @@
               2.77,
               2.53,
               2.22,
-              2.31,
-              null,
+              2.3,
+              2.76,
               null,
               null
             ]
@@ -134031,9 +134028,10 @@
           "2026-06": 2.7714,
           "2026-07": 2.5303,
           "2026-08": 2.2212,
-          "2026-09": 2.3062
+          "2026-09": 2.3027,
+          "2026-10": 2.7649
         },
-        "latest_mt": 2.3062
+        "latest_mt": 2.7649
       },
       "Urea / Fertiliser": {
         "vessel_class": "Handysize / Supramax",
@@ -134168,7 +134166,7 @@
               1.82,
               1.82,
               1.31,
-              null,
+              0.88,
               null,
               null,
               null
@@ -134232,9 +134230,10 @@
           "2026-05": 0.5058,
           "2026-06": 1.8193,
           "2026-07": 1.8216,
-          "2026-08": 1.3127
+          "2026-08": 1.3127,
+          "2026-09": 0.8776
         },
-        "latest_mt": 1.3127
+        "latest_mt": 0.8776
       }
     }
   },

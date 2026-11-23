@@ -2859,6 +2859,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port1020,Primorsk,Russian Federation,port1020,0,0,0,0,0.0,0.0,0.0,0.0
 2026-11-05,port1020,Primorsk,Russian Federation,port1020,2,0,2,0,0.0,0.0,0.0,73.75
 2026-11-06,port1020,Primorsk,Russian Federation,port1020,1,0,1,0,0.0,0.0,0.0,44.76
+2026-11-07,port1020,Primorsk,Russian Federation,port1020,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-08,port1020,Primorsk,Russian Federation,port1020,1,0,1,0,0.0,0.0,0.0,36.1
+2026-11-09,port1020,Primorsk,Russian Federation,port1020,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-10,port1020,Primorsk,Russian Federation,port1020,2,1,0,0,0.24,8.94,0.0,0.0
+2026-11-11,port1020,Primorsk,Russian Federation,port1020,3,0,3,0,0.0,0.0,0.0,114.16
+2026-11-12,port1020,Primorsk,Russian Federation,port1020,2,0,2,0,0.0,0.0,0.0,132.99
+2026-11-13,port1020,Primorsk,Russian Federation,port1020,1,0,1,0,0.0,0.0,0.0,103.73
 2019-01-01,port1069,Qingdao Port,China,port1069,23,4,1,13,182.76,2.46,0.0,3.65
 2019-01-02,port1069,Qingdao Port,China,port1069,25,4,3,16,442.22,1.36,0.0,24.38
 2019-01-03,port1069,Qingdao Port,China,port1069,34,5,5,19,134.04,4.51,543.77,46.39
@@ -5726,6 +5733,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port1069,Qingdao Port,China,port1069,28,2,3,21,186.98,0.0,139.11,18.13
 2026-11-05,port1069,Qingdao Port,China,port1069,29,2,4,19,214.18,0.0,144.09,36.55
 2026-11-06,port1069,Qingdao Port,China,port1069,34,4,4,21,275.8,12.57,100.37,45.88
+2026-11-07,port1069,Qingdao Port,China,port1069,24,3,0,17,144.25,4.48,0.0,0.0
+2026-11-08,port1069,Qingdao Port,China,port1069,12,0,0,12,0.0,0.0,0.0,0.0
+2026-11-09,port1069,Qingdao Port,China,port1069,36,4,4,24,240.38,0.0,0.0,89.48
+2026-11-10,port1069,Qingdao Port,China,port1069,28,2,5,16,55.15,34.14,2.13,12.43
+2026-11-11,port1069,Qingdao Port,China,port1069,33,4,4,22,176.38,0.0,71.73,9.3
+2026-11-12,port1069,Qingdao Port,China,port1069,28,3,4,17,193.43,8.96,9.82,83.88
+2026-11-13,port1069,Qingdao Port,China,port1069,27,1,2,20,55.15,4.48,0.0,19.37
 2019-01-01,port1072,Qinhuangdao,China,port1072,9,8,0,1,0.0,279.64,0.0,0.0
 2019-01-02,port1072,Qinhuangdao,China,port1072,9,9,0,0,0.0,341.78,0.0,0.0
 2019-01-03,port1072,Qinhuangdao,China,port1072,15,13,1,1,0.0,567.14,4.58,0.0
@@ -8593,6 +8607,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port1072,Qinhuangdao,China,port1072,11,8,2,1,0.0,239.41,14.93,6.65
 2026-11-05,port1072,Qinhuangdao,China,port1072,8,7,1,0,0.0,231.05,0.0,33.44
 2026-11-06,port1072,Qinhuangdao,China,port1072,8,8,0,0,0.0,249.72,0.0,0.0
+2026-11-07,port1072,Qinhuangdao,China,port1072,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-08,port1072,Qinhuangdao,China,port1072,4,2,1,0,0.0,63.12,4.55,0.0
+2026-11-09,port1072,Qinhuangdao,China,port1072,15,11,0,3,0.0,375.34,0.0,0.0
+2026-11-10,port1072,Qinhuangdao,China,port1072,4,3,1,0,0.0,54.71,0.0,36.25
+2026-11-11,port1072,Qinhuangdao,China,port1072,4,4,0,0,0.0,218.55,0.0,0.0
+2026-11-12,port1072,Qinhuangdao,China,port1072,9,6,2,1,0.0,182.78,5.84,6.81
+2026-11-13,port1072,Qinhuangdao,China,port1072,3,3,0,0,0.0,128.73,0.0,0.0
 2019-01-01,port1090,Ras Laffan,Qatar,port1090,3,0,2,0,0.0,0.0,0.0,0.0
 2019-01-02,port1090,Ras Laffan,Qatar,port1090,7,1,6,0,0.0,40.26,0.0,336.66
 2019-01-03,port1090,Ras Laffan,Qatar,port1090,3,0,3,0,0.0,0.0,0.0,133.19
@@ -11451,6 +11472,12 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port1090,Ras Laffan,Qatar,port1090,1,0,1,0,0.0,0.0,0.0,26.78
 2026-11-05,port1090,Ras Laffan,Qatar,port1090,4,0,3,0,0.0,0.0,0.0,178.82
 2026-11-06,port1090,Ras Laffan,Qatar,port1090,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-08,port1090,Ras Laffan,Qatar,port1090,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-09,port1090,Ras Laffan,Qatar,port1090,3,0,1,0,0.0,0.0,0.0,0.77
+2026-11-10,port1090,Ras Laffan,Qatar,port1090,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-11,port1090,Ras Laffan,Qatar,port1090,3,0,3,0,0.0,0.0,0.0,77.68
+2026-11-12,port1090,Ras Laffan,Qatar,port1090,1,0,1,0,0.0,0.0,0.0,28.22
+2026-11-13,port1090,Ras Laffan,Qatar,port1090,1,0,0,0,0.0,0.0,0.0,0.0
 2019-01-01,port1091,Ras Tanura,Saudi Arabia,port1091,1,0,1,0,0.0,0.0,66.9,0.0
 2019-01-02,port1091,Ras Tanura,Saudi Arabia,port1091,2,0,2,0,0.0,0.0,0.0,31.78
 2019-01-03,port1091,Ras Tanura,Saudi Arabia,port1091,1,0,1,0,0.0,0.0,0.0,247.53
@@ -14311,6 +14338,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port1091,Ras Tanura,Saudi Arabia,port1091,1,0,1,0,0.0,0.0,22.76,17.22
 2026-11-05,port1091,Ras Tanura,Saudi Arabia,port1091,1,0,1,0,0.0,0.0,36.64,0.0
 2026-11-06,port1091,Ras Tanura,Saudi Arabia,port1091,1,0,1,0,0.0,0.0,36.27,0.0
+2026-11-07,port1091,Ras Tanura,Saudi Arabia,port1091,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-08,port1091,Ras Tanura,Saudi Arabia,port1091,1,0,1,0,0.0,0.0,37.69,0.0
+2026-11-09,port1091,Ras Tanura,Saudi Arabia,port1091,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-10,port1091,Ras Tanura,Saudi Arabia,port1091,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-11,port1091,Ras Tanura,Saudi Arabia,port1091,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-12,port1091,Ras Tanura,Saudi Arabia,port1091,1,0,1,0,0.0,0.0,34.55,0.0
+2026-11-13,port1091,Ras Tanura,Saudi Arabia,port1091,0,0,0,0,0.0,0.0,0.0,0.0
 2019-01-01,port1099,Richards Bay,South Africa,port1099,1,1,0,0,0.0,0.0,0.0,0.0
 2019-01-02,port1099,Richards Bay,South Africa,port1099,2,2,0,0,0.0,164.68,0.0,0.0
 2019-01-03,port1099,Richards Bay,South Africa,port1099,6,6,0,0,0.0,296.06,0.0,0.0
@@ -17169,6 +17203,12 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port1099,Richards Bay,South Africa,port1099,5,5,0,0,0.0,332.71,0.0,0.0
 2026-11-05,port1099,Richards Bay,South Africa,port1099,1,1,0,0,0.0,79.13,0.0,0.0
 2026-11-06,port1099,Richards Bay,South Africa,port1099,6,5,1,0,0.0,233.81,4.28,6.99
+2026-11-08,port1099,Richards Bay,South Africa,port1099,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-09,port1099,Richards Bay,South Africa,port1099,3,3,0,0,0.0,211.65,0.0,0.0
+2026-11-10,port1099,Richards Bay,South Africa,port1099,7,7,0,0,0.0,321.77,0.0,0.0
+2026-11-11,port1099,Richards Bay,South Africa,port1099,2,2,0,0,0.0,140.8,0.0,0.0
+2026-11-12,port1099,Richards Bay,South Africa,port1099,7,6,0,0,0.0,238.85,0.0,0.0
+2026-11-13,port1099,Richards Bay,South Africa,port1099,1,1,0,0,0.0,59.4,0.0,0.0
 2019-01-01,port1105,Rizhao,China,port1105,6,2,0,1,277.1,0.0,0.0,0.0
 2019-01-02,port1105,Rizhao,China,port1105,9,3,2,3,189.28,7.95,1.43,0.0
 2019-01-03,port1105,Rizhao,China,port1105,8,4,2,1,221.19,4.09,0.68,0.1
@@ -20036,6 +20076,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port1105,Rizhao,China,port1105,6,2,0,2,306.38,6.77,0.0,0.0
 2026-11-05,port1105,Rizhao,China,port1105,12,7,0,3,501.46,35.38,0.0,0.0
 2026-11-06,port1105,Rizhao,China,port1105,12,7,0,5,333.12,50.76,0.0,0.0
+2026-11-07,port1105,Rizhao,China,port1105,4,3,0,1,71.83,89.41,0.0,0.0
+2026-11-08,port1105,Rizhao,China,port1105,5,2,0,2,151.95,0.0,0.0,0.0
+2026-11-09,port1105,Rizhao,China,port1105,10,7,0,3,662.45,13.56,0.0,0.0
+2026-11-10,port1105,Rizhao,China,port1105,12,6,0,2,401.93,35.19,0.0,0.0
+2026-11-11,port1105,Rizhao,China,port1105,7,3,2,0,122.1,38.73,3.03,0.0
+2026-11-12,port1105,Rizhao,China,port1105,7,6,0,1,657.63,13.56,0.0,0.0
+2026-11-13,port1105,Rizhao,China,port1105,4,4,0,0,24.44,43.59,0.0,0.0
 2019-01-01,port1114,Rotterdam,The Netherlands,port1114,81,1,45,19,0.0,0.0,446.91,57.92
 2019-01-02,port1114,Rotterdam,The Netherlands,port1114,77,0,42,12,0.0,0.0,362.04,57.84
 2019-01-03,port1114,Rotterdam,The Netherlands,port1114,98,1,49,27,29.76,0.0,647.08,92.19
@@ -22896,6 +22943,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port1114,Rotterdam,The Netherlands,port1114,67,2,30,13,69.92,2.89,181.27,121.55
 2026-11-05,port1114,Rotterdam,The Netherlands,port1114,77,2,34,23,89.11,6.04,470.71,81.8
 2026-11-06,port1114,Rotterdam,The Netherlands,port1114,95,2,58,20,60.3,3.15,278.33,86.47
+2026-11-07,port1114,Rotterdam,The Netherlands,port1114,82,1,39,18,48.09,3.13,264.47,80.74
+2026-11-08,port1114,Rotterdam,The Netherlands,port1114,74,3,37,11,130.89,3.13,683.38,72.18
+2026-11-09,port1114,Rotterdam,The Netherlands,port1114,93,1,49,23,48.09,3.13,530.24,144.62
+2026-11-10,port1114,Rotterdam,The Netherlands,port1114,76,1,37,16,1.68,0.0,452.67,81.04
+2026-11-11,port1114,Rotterdam,The Netherlands,port1114,98,2,58,21,65.61,15.02,670.75,106.88
+2026-11-12,port1114,Rotterdam,The Netherlands,port1114,84,2,37,17,80.4,3.13,214.49,111.15
+2026-11-13,port1114,Rotterdam,The Netherlands,port1114,66,3,31,20,144.27,9.39,497.77,75.66
 2019-01-01,port1133,Saldanha Bay,South Africa,port1133,1,1,0,0,0.0,177.8,0.0,0.0
 2019-01-02,port1133,Saldanha Bay,South Africa,port1133,1,1,0,0,0.0,45.8,0.0,0.0
 2019-01-03,port1133,Saldanha Bay,South Africa,port1133,1,1,0,0,0.0,197.58,0.0,0.0
@@ -25754,6 +25808,12 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port1133,Saldanha Bay,South Africa,port1133,1,1,0,0,0.0,93.66,0.0,0.0
 2026-11-05,port1133,Saldanha Bay,South Africa,port1133,3,3,0,0,0.0,362.51,0.0,0.0
 2026-11-06,port1133,Saldanha Bay,South Africa,port1133,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-08,port1133,Saldanha Bay,South Africa,port1133,1,1,0,0,0.0,7.76,0.0,0.0
+2026-11-09,port1133,Saldanha Bay,South Africa,port1133,3,3,0,0,0.0,187.52,0.0,0.0
+2026-11-10,port1133,Saldanha Bay,South Africa,port1133,1,1,0,0,0.0,72.14,0.0,0.0
+2026-11-11,port1133,Saldanha Bay,South Africa,port1133,1,1,0,0,0.0,93.69,0.0,0.0
+2026-11-12,port1133,Saldanha Bay,South Africa,port1133,1,1,0,0,0.0,76.88,0.0,0.0
+2026-11-13,port1133,Saldanha Bay,South Africa,port1133,0,0,0,0,0.0,0.0,0.0,0.0
 2019-01-01,port1160,Santos,Brazil,port1160,10,5,0,4,37.08,39.62,0.0,0.0
 2019-01-02,port1160,Santos,Brazil,port1160,16,6,2,7,26.56,95.76,37.55,0.0
 2019-01-03,port1160,Santos,Brazil,port1160,12,6,0,5,59.26,71.12,0.0,0.0
@@ -28614,6 +28674,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port1160,Santos,Brazil,port1160,22,11,1,9,62.56,323.16,25.62,0.0
 2026-11-05,port1160,Santos,Brazil,port1160,13,6,2,4,13.11,273.04,2.45,0.0
 2026-11-06,port1160,Santos,Brazil,port1160,17,8,3,5,38.93,286.67,25.1,6.23
+2026-11-07,port1160,Santos,Brazil,port1160,19,9,4,5,82.29,182.73,26.66,17.72
+2026-11-08,port1160,Santos,Brazil,port1160,13,5,2,5,6.53,224.64,1.94,3.65
+2026-11-09,port1160,Santos,Brazil,port1160,13,3,2,7,0.0,157.72,22.72,57.85
+2026-11-10,port1160,Santos,Brazil,port1160,14,3,2,6,23.8,105.1,40.39,6.25
+2026-11-11,port1160,Santos,Brazil,port1160,9,3,1,3,19.6,111.0,6.99,6.25
+2026-11-12,port1160,Santos,Brazil,port1160,21,8,3,8,26.14,316.83,13.99,48.99
+2026-11-13,port1160,Santos,Brazil,port1160,13,5,3,5,19.6,249.65,6.99,6.25
 2019-01-01,port1199,Sikka,India,port1199,0,0,0,0,0.0,0.0,0.0,0.0
 2019-01-02,port1199,Sikka,India,port1199,0,0,0,0,0.0,0.0,0.0,0.0
 2019-01-03,port1199,Sikka,India,port1199,2,0,2,0,0.0,0.0,4.27,63.43
@@ -31472,6 +31539,12 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port1199,Sikka,India,port1199,2,0,2,0,0.0,0.0,0.0,18.26
 2026-11-05,port1199,Sikka,India,port1199,3,0,3,0,0.0,0.0,0.0,150.85
 2026-11-06,port1199,Sikka,India,port1199,1,0,1,0,0.0,0.0,0.0,67.68
+2026-11-08,port1199,Sikka,India,port1199,1,0,1,0,0.0,0.0,0.0,40.26
+2026-11-09,port1199,Sikka,India,port1199,1,0,1,0,0.0,0.0,0.0,40.85
+2026-11-10,port1199,Sikka,India,port1199,2,0,2,0,0.0,0.0,0.0,58.51
+2026-11-11,port1199,Sikka,India,port1199,3,0,3,0,0.0,0.0,0.0,66.43
+2026-11-12,port1199,Sikka,India,port1199,2,0,2,0,0.0,0.0,3.5,52.95
+2026-11-13,port1199,Sikka,India,port1199,3,0,3,0,0.0,0.0,3.5,92.52
 2019-01-01,port1201,Singapore,Singapore,port1201,134,5,67,52,57.24,5.93,337.43,346.76
 2019-01-02,port1201,Singapore,Singapore,port1201,117,2,64,40,13.29,8.9,337.66,489.54
 2019-01-03,port1201,Singapore,Singapore,port1201,116,1,69,39,0.0,4.59,803.16,369.08
@@ -34330,6 +34403,12 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port1201,Singapore,Singapore,port1201,114,3,75,33,66.92,2.98,470.33,327.63
 2026-11-05,port1201,Singapore,Singapore,port1201,111,3,65,34,13.38,26.45,322.61,209.24
 2026-11-06,port1201,Singapore,Singapore,port1201,112,1,62,35,0.0,0.0,564.04,314.07
+2026-11-08,port1201,Singapore,Singapore,port1201,128,8,78,36,98.87,13.06,438.84,266.52
+2026-11-09,port1201,Singapore,Singapore,port1201,133,8,87,31,99.79,35.09,515.39,391.72
+2026-11-10,port1201,Singapore,Singapore,port1201,122,0,82,31,0.0,0.0,670.57,273.42
+2026-11-11,port1201,Singapore,Singapore,port1201,106,2,62,30,13.38,5.57,168.93,309.67
+2026-11-12,port1201,Singapore,Singapore,port1201,127,7,74,38,86.51,16.72,530.79,324.59
+2026-11-13,port1201,Singapore,Singapore,port1201,101,1,56,37,0.0,0.0,360.52,208.09
 2019-01-01,port1266,Tangshan (Jingtang),China,port1266,7,7,0,0,261.47,163.46,0.0,0.0
 2019-01-02,port1266,Tangshan (Jingtang),China,port1266,11,9,0,1,340.39,207.95,0.0,0.0
 2019-01-03,port1266,Tangshan (Jingtang),China,port1266,14,10,1,3,424.89,197.0,0.0,7.01
@@ -37190,6 +37269,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port1266,Tangshan (Jingtang),China,port1266,9,9,0,0,356.41,200.81,0.0,0.0
 2026-11-05,port1266,Tangshan (Jingtang),China,port1266,9,7,0,1,494.51,71.1,0.0,0.0
 2026-11-06,port1266,Tangshan (Jingtang),China,port1266,12,10,0,1,416.52,230.22,0.0,0.0
+2026-11-07,port1266,Tangshan (Jingtang),China,port1266,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-08,port1266,Tangshan (Jingtang),China,port1266,7,5,1,0,244.78,49.01,216.77,0.0
+2026-11-09,port1266,Tangshan (Jingtang),China,port1266,11,7,0,1,332.75,167.97,0.0,0.0
+2026-11-10,port1266,Tangshan (Jingtang),China,port1266,8,4,1,2,372.57,56.57,0.0,1.41
+2026-11-11,port1266,Tangshan (Jingtang),China,port1266,15,13,0,0,409.32,318.29,0.0,0.0
+2026-11-12,port1266,Tangshan (Jingtang),China,port1266,9,6,0,2,597.26,113.28,0.0,0.0
+2026-11-13,port1266,Tangshan (Jingtang),China,port1266,8,6,0,0,292.82,115.76,0.0,0.0
 2019-01-01,port1328,Tubarao,Brazil,port1328,4,4,0,0,35.31,272.09,0.0,0.0
 2019-01-02,port1328,Tubarao,Brazil,port1328,3,3,0,0,0.0,307.46,0.0,0.0
 2019-01-03,port1328,Tubarao,Brazil,port1328,5,5,0,0,178.08,180.32,0.0,0.0
@@ -40050,6 +40136,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port1328,Tubarao,Brazil,port1328,3,3,0,0,76.12,218.28,0.0,0.0
 2026-11-05,port1328,Tubarao,Brazil,port1328,1,1,0,0,0.0,198.43,0.0,0.0
 2026-11-06,port1328,Tubarao,Brazil,port1328,2,2,0,0,31.36,92.36,0.0,0.0
+2026-11-07,port1328,Tubarao,Brazil,port1328,4,4,0,0,238.71,145.3,0.0,0.0
+2026-11-08,port1328,Tubarao,Brazil,port1328,1,1,0,0,0.69,307.33,0.0,0.0
+2026-11-09,port1328,Tubarao,Brazil,port1328,1,1,0,0,0.0,198.52,0.0,0.0
+2026-11-10,port1328,Tubarao,Brazil,port1328,1,1,0,0,0.0,288.69,0.0,0.0
+2026-11-11,port1328,Tubarao,Brazil,port1328,4,4,0,0,31.23,212.4,0.0,0.0
+2026-11-12,port1328,Tubarao,Brazil,port1328,2,2,0,0,15.62,334.59,0.0,0.0
+2026-11-13,port1328,Tubarao,Brazil,port1328,1,1,0,0,15.62,46.25,0.0,0.0
 2019-01-01,port1338,Ulsan,Korea,port1338,39,2,27,5,12.97,2.92,451.91,179.72
 2019-01-02,port1338,Ulsan,Korea,port1338,35,3,25,1,22.09,0.98,618.74,101.66
 2019-01-03,port1338,Ulsan,Korea,port1338,42,1,32,4,0.0,2.02,153.54,206.44
@@ -42908,6 +43001,12 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port1338,Ulsan,Korea,port1338,36,1,26,3,0.0,0.0,63.26,121.13
 2026-11-05,port1338,Ulsan,Korea,port1338,29,2,23,3,15.1,3.14,139.4,148.88
 2026-11-06,port1338,Ulsan,Korea,port1338,32,1,26,2,13.05,2.91,113.66,105.88
+2026-11-08,port1338,Ulsan,Korea,port1338,22,0,20,0,0.0,0.0,89.0,185.28
+2026-11-09,port1338,Ulsan,Korea,port1338,26,3,17,4,50.02,2.9,74.49,79.6
+2026-11-10,port1338,Ulsan,Korea,port1338,37,1,26,2,9.44,0.0,279.48,114.38
+2026-11-11,port1338,Ulsan,Korea,port1338,38,0,28,0,0.0,0.0,309.16,120.3
+2026-11-12,port1338,Ulsan,Korea,port1338,36,5,21,4,69.2,8.49,82.72,144.44
+2026-11-13,port1338,Ulsan,Korea,port1338,40,1,25,6,13.04,2.9,293.55,154.5
 2019-01-01,port134,Beaumont,United States,port134,1,0,1,0,0.0,0.0,0.0,51.5
 2019-01-02,port134,Beaumont,United States,port134,8,0,6,0,0.0,0.0,0.97,144.36
 2019-01-03,port134,Beaumont,United States,port134,2,1,1,0,0.0,20.57,0.97,25.46
@@ -45768,6 +45867,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port134,Beaumont,United States,port134,3,0,2,0,0.0,0.0,80.33,50.82
 2026-11-05,port134,Beaumont,United States,port134,3,0,2,0,0.0,0.0,24.77,36.65
 2026-11-06,port134,Beaumont,United States,port134,6,0,6,0,0.0,0.0,0.0,176.51
+2026-11-07,port134,Beaumont,United States,port134,5,0,5,0,0.0,0.0,37.16,63.99
+2026-11-08,port134,Beaumont,United States,port134,7,0,7,0,0.0,0.0,0.38,144.08
+2026-11-09,port134,Beaumont,United States,port134,3,0,3,0,0.0,0.0,0.0,84.05
+2026-11-10,port134,Beaumont,United States,port134,4,1,3,0,2.77,22.22,1.86,66.58
+2026-11-11,port134,Beaumont,United States,port134,6,0,6,0,0.0,0.0,0.97,198.33
+2026-11-12,port134,Beaumont,United States,port134,3,0,3,0,0.0,0.0,0.76,122.04
+2026-11-13,port134,Beaumont,United States,port134,4,1,3,0,0.0,0.52,24.38,39.38
 2019-01-01,port1417,Yokohama,Japan,port1417,17,1,5,7,2.34,0.08,0.53,1.8
 2019-01-02,port1417,Yokohama,Japan,port1417,21,3,6,10,4.12,0.0,4.4,5.6
 2019-01-03,port1417,Yokohama,Japan,port1417,18,2,3,9,42.71,0.0,0.0,0.0
@@ -48635,6 +48741,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port1417,Yokohama,Japan,port1417,29,2,6,10,49.42,0.0,7.27,0.25
 2026-11-05,port1417,Yokohama,Japan,port1417,32,2,7,16,3.75,0.0,1.44,2.75
 2026-11-06,port1417,Yokohama,Japan,port1417,38,2,11,10,5.02,0.0,49.69,6.11
+2026-11-07,port1417,Yokohama,Japan,port1417,37,1,4,13,0.0,6.24,0.38,1.54
+2026-11-08,port1417,Yokohama,Japan,port1417,33,3,8,10,0.71,0.0,7.86,1.43
+2026-11-09,port1417,Yokohama,Japan,port1417,49,5,10,11,15.29,0.0,6.11,6.2
+2026-11-10,port1417,Yokohama,Japan,port1417,34,3,9,10,7.66,0.0,48.86,2.99
+2026-11-11,port1417,Yokohama,Japan,port1417,42,4,6,12,2.67,0.08,1.27,0.58
+2026-11-12,port1417,Yokohama,Japan,port1417,40,3,15,10,33.41,0.0,15.26,6.48
+2026-11-13,port1417,Yokohama,Japan,port1417,44,3,10,13,29.82,3.03,4.14,9.18
 2019-01-01,port1426,Zhanjiang,China,port1426,8,2,3,1,247.16,0.0,44.2,14.02
 2019-01-02,port1426,Zhanjiang,China,port1426,6,3,3,0,44.76,24.28,270.33,4.08
 2019-01-03,port1426,Zhanjiang,China,port1426,15,7,6,2,228.34,44.84,308.92,8.95
@@ -51495,6 +51608,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port1426,Zhanjiang,China,port1426,8,2,5,1,103.43,9.97,81.11,15.02
 2026-11-05,port1426,Zhanjiang,China,port1426,6,3,3,0,359.52,0.0,86.33,8.46
 2026-11-06,port1426,Zhanjiang,China,port1426,6,3,3,0,64.68,40.0,113.04,6.09
+2026-11-07,port1426,Zhanjiang,China,port1426,5,3,0,1,135.8,0.0,0.0,0.0
+2026-11-08,port1426,Zhanjiang,China,port1426,6,1,4,0,92.05,0.0,2.42,12.33
+2026-11-09,port1426,Zhanjiang,China,port1426,9,2,7,0,69.77,7.51,86.71,93.25
+2026-11-10,port1426,Zhanjiang,China,port1426,6,3,3,0,447.03,0.0,44.77,26.08
+2026-11-11,port1426,Zhanjiang,China,port1426,6,2,3,1,52.69,7.51,275.52,3.12
+2026-11-12,port1426,Zhanjiang,China,port1426,4,2,2,0,265.68,7.52,39.07,1.86
+2026-11-13,port1426,Zhanjiang,China,port1426,7,3,3,0,158.03,7.51,0.54,4.21
 2019-01-01,port149,Bintulu,Malaysia,port149,1,1,0,0,9.43,6.87,0.0,0.0
 2019-01-02,port149,Bintulu,Malaysia,port149,1,0,0,1,0.0,0.0,0.0,0.0
 2019-01-03,port149,Bintulu,Malaysia,port149,1,0,0,1,0.0,0.0,0.0,0.0
@@ -54353,6 +54473,12 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port149,Bintulu,Malaysia,port149,6,0,3,1,0.0,0.0,1.73,96.9
 2026-11-05,port149,Bintulu,Malaysia,port149,6,0,2,3,0.0,0.0,0.0,44.06
 2026-11-06,port149,Bintulu,Malaysia,port149,7,0,5,2,0.0,0.0,10.84,159.04
+2026-11-08,port149,Bintulu,Malaysia,port149,6,0,4,2,0.0,0.0,16.42,85.74
+2026-11-09,port149,Bintulu,Malaysia,port149,4,0,4,0,0.0,0.0,3.98,10.01
+2026-11-10,port149,Bintulu,Malaysia,port149,6,0,3,2,0.0,0.0,0.0,15.68
+2026-11-11,port149,Bintulu,Malaysia,port149,5,0,5,0,0.0,0.0,8.74,14.02
+2026-11-12,port149,Bintulu,Malaysia,port149,3,0,2,0,0.0,0.0,0.0,5.62
+2026-11-13,port149,Bintulu,Malaysia,port149,8,1,4,2,9.96,6.74,2.8,91.13
 2019-01-01,port155,Bonny,Nigeria,port155,2,0,2,0,0.0,0.0,0.0,101.26
 2019-01-02,port155,Bonny,Nigeria,port155,1,0,1,0,0.0,0.0,0.0,73.83
 2019-01-03,port155,Bonny,Nigeria,port155,1,0,1,0,0.0,0.0,0.0,0.0
@@ -57211,6 +57337,12 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port155,Bonny,Nigeria,port155,1,0,1,0,0.0,0.0,0.0,29.08
 2026-11-05,port155,Bonny,Nigeria,port155,1,0,1,0,0.0,0.0,0.0,0.0
 2026-11-06,port155,Bonny,Nigeria,port155,2,0,2,0,0.0,0.0,0.0,32.87
+2026-11-08,port155,Bonny,Nigeria,port155,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-09,port155,Bonny,Nigeria,port155,2,0,2,0,0.0,0.0,0.0,58.28
+2026-11-10,port155,Bonny,Nigeria,port155,1,0,1,0,0.0,0.0,0.0,48.59
+2026-11-11,port155,Bonny,Nigeria,port155,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-12,port155,Bonny,Nigeria,port155,2,0,2,0,0.0,0.0,0.0,45.54
+2026-11-13,port155,Bonny,Nigeria,port155,1,0,1,0,0.0,0.0,0.0,29.14
 2019-01-01,port2379,Dominion Cove Point,United States,port2379,0,0,0,0,0.0,0.0,0.0,0.0
 2019-01-02,port2379,Dominion Cove Point,United States,port2379,1,0,1,0,0.0,0.0,0.0,0.0
 2019-01-03,port2379,Dominion Cove Point,United States,port2379,0,0,0,0,0.0,0.0,0.0,0.0
@@ -60069,6 +60201,12 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port2379,Dominion Cove Point,United States,port2379,0,0,0,0,0.0,0.0,0.0,0.0
 2026-11-05,port2379,Dominion Cove Point,United States,port2379,0,0,0,0,0.0,0.0,0.0,0.0
 2026-11-06,port2379,Dominion Cove Point,United States,port2379,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-08,port2379,Dominion Cove Point,United States,port2379,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-09,port2379,Dominion Cove Point,United States,port2379,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-10,port2379,Dominion Cove Point,United States,port2379,1,0,1,0,0.0,0.0,0.0,0.0
+2026-11-11,port2379,Dominion Cove Point,United States,port2379,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-12,port2379,Dominion Cove Point,United States,port2379,1,0,1,0,0.0,0.0,0.0,42.79
+2026-11-13,port2379,Dominion Cove Point,United States,port2379,0,0,0,0,0.0,0.0,0.0,0.0
 2019-01-01,port2388,Sabine Pass,United States,port2388,1,0,1,0,0.0,0.0,0.0,77.0
 2019-01-02,port2388,Sabine Pass,United States,port2388,3,0,3,0,0.0,0.0,0.0,95.64
 2019-01-03,port2388,Sabine Pass,United States,port2388,2,0,2,0,0.0,0.0,0.0,116.44
@@ -62927,6 +63065,12 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port2388,Sabine Pass,United States,port2388,1,0,1,0,0.0,0.0,0.0,39.42
 2026-11-05,port2388,Sabine Pass,United States,port2388,2,0,2,0,0.0,0.0,0.0,18.11
 2026-11-06,port2388,Sabine Pass,United States,port2388,3,0,3,0,0.0,0.0,0.0,128.35
+2026-11-08,port2388,Sabine Pass,United States,port2388,2,0,2,0,0.0,0.0,0.0,19.76
+2026-11-09,port2388,Sabine Pass,United States,port2388,1,0,1,0,0.0,0.0,0.0,0.0
+2026-11-10,port2388,Sabine Pass,United States,port2388,3,0,3,0,0.0,0.0,0.0,41.74
+2026-11-11,port2388,Sabine Pass,United States,port2388,2,0,2,0,0.0,0.0,0.0,10.36
+2026-11-12,port2388,Sabine Pass,United States,port2388,2,0,2,0,0.0,0.0,0.0,0.0
+2026-11-13,port2388,Sabine Pass,United States,port2388,1,0,1,0,0.0,0.0,0.0,81.38
 2019-01-01,port239,Chiba,Japan,port239,18,0,16,0,0.0,0.0,10.9,13.77
 2019-01-02,port239,Chiba,Japan,port239,32,1,26,0,51.0,0.0,22.42,25.16
 2019-01-03,port239,Chiba,Japan,port239,32,3,21,1,44.38,0.0,61.33,26.42
@@ -65787,6 +65931,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port239,Chiba,Japan,port239,31,1,25,0,23.17,2.38,79.31,22.23
 2026-11-05,port239,Chiba,Japan,port239,21,1,15,0,4.32,0.08,6.63,48.85
 2026-11-06,port239,Chiba,Japan,port239,32,1,22,2,1.45,0.0,19.18,72.6
+2026-11-07,port239,Chiba,Japan,port239,30,2,22,0,5.4,0.0,7.57,47.35
+2026-11-08,port239,Chiba,Japan,port239,46,3,32,0,8.68,0.08,31.1,56.64
+2026-11-09,port239,Chiba,Japan,port239,43,2,29,0,0.0,1.01,12.76,57.94
+2026-11-10,port239,Chiba,Japan,port239,33,0,26,1,0.0,0.0,53.91,34.69
+2026-11-11,port239,Chiba,Japan,port239,50,2,40,0,5.65,0.0,34.21,38.51
+2026-11-12,port239,Chiba,Japan,port239,41,2,27,0,16.72,0.0,76.83,53.06
+2026-11-13,port239,Chiba,Japan,port239,46,3,30,1,27.47,8.72,26.58,28.29
 2019-01-01,port264,Corpus Christi,United States,port264,5,0,5,0,0.0,0.0,0.0,94.06
 2019-01-02,port264,Corpus Christi,United States,port264,3,1,2,0,25.93,0.0,0.0,69.5
 2019-01-03,port264,Corpus Christi,United States,port264,7,1,6,0,18.78,20.31,232.96,19.73
@@ -68645,6 +68796,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port264,Corpus Christi,United States,port264,4,0,3,0,0.0,0.0,0.0,106.15
 2026-11-05,port264,Corpus Christi,United States,port264,6,0,6,0,0.0,0.0,80.55,94.22
 2026-11-06,port264,Corpus Christi,United States,port264,6,1,4,0,0.0,4.44,0.0,166.82
+2026-11-07,port264,Corpus Christi,United States,port264,6,0,6,0,0.0,0.0,0.0,285.16
+2026-11-08,port264,Corpus Christi,United States,port264,2,1,1,0,34.62,0.0,0.0,28.78
+2026-11-09,port264,Corpus Christi,United States,port264,6,0,6,0,0.0,0.0,0.0,184.76
+2026-11-10,port264,Corpus Christi,United States,port264,4,0,4,0,0.0,0.0,2.97,102.68
+2026-11-11,port264,Corpus Christi,United States,port264,8,0,8,0,0.0,0.0,154.6,165.22
+2026-11-12,port264,Corpus Christi,United States,port264,8,0,7,0,0.0,0.0,20.37,301.97
+2026-11-13,port264,Corpus Christi,United States,port264,2,0,2,0,0.0,0.0,0.0,41.18
 2019-01-01,port276,Dampier,Australia,port276,3,1,1,0,0.0,167.61,0.0,60.86
 2019-01-02,port276,Dampier,Australia,port276,6,4,2,0,0.0,708.27,0.0,156.5
 2019-01-03,port276,Dampier,Australia,port276,3,1,2,0,0.0,165.43,0.14,114.74
@@ -71505,6 +71663,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port276,Dampier,Australia,port276,4,2,1,0,0.09,234.43,0.0,35.5
 2026-11-05,port276,Dampier,Australia,port276,6,4,1,0,0.0,574.41,0.0,0.0
 2026-11-06,port276,Dampier,Australia,port276,3,1,1,0,0.0,176.77,0.13,45.79
+2026-11-07,port276,Dampier,Australia,port276,2,1,1,0,0.0,181.24,0.0,0.0
+2026-11-08,port276,Dampier,Australia,port276,4,3,1,0,0.0,400.68,0.0,80.65
+2026-11-09,port276,Dampier,Australia,port276,1,0,0,0,0.0,0.0,0.0,0.0
+2026-11-10,port276,Dampier,Australia,port276,4,3,0,0,0.0,307.66,0.0,0.0
+2026-11-11,port276,Dampier,Australia,port276,6,2,2,0,0.08,316.96,43.92,45.8
+2026-11-12,port276,Dampier,Australia,port276,3,3,0,0,0.0,543.45,0.0,0.0
+2026-11-13,port276,Dampier,Australia,port276,4,3,1,0,0.0,378.8,0.0,66.48
 2019-01-01,port280,Darwin,Australia,port280,1,0,0,1,0.0,0.0,0.0,0.0
 2019-01-02,port280,Darwin,Australia,port280,3,0,1,0,0.0,0.0,0.0,68.37
 2019-01-03,port280,Darwin,Australia,port280,3,0,1,0,0.0,0.0,7.69,0.0
@@ -74365,6 +74530,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port280,Darwin,Australia,port280,2,0,1,0,0.0,0.0,0.0,0.0
 2026-11-05,port280,Darwin,Australia,port280,2,0,0,0,0.0,0.0,0.0,0.0
 2026-11-06,port280,Darwin,Australia,port280,3,0,0,1,0.0,0.0,0.0,0.0
+2026-11-07,port280,Darwin,Australia,port280,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-08,port280,Darwin,Australia,port280,2,0,1,0,0.0,0.0,0.0,90.05
+2026-11-09,port280,Darwin,Australia,port280,3,0,0,0,0.0,0.0,0.0,0.0
+2026-11-10,port280,Darwin,Australia,port280,2,0,1,0,0.0,0.0,0.0,76.83
+2026-11-11,port280,Darwin,Australia,port280,1,0,0,0,0.0,0.0,0.0,0.0
+2026-11-12,port280,Darwin,Australia,port280,2,0,1,0,0.0,0.0,0.0,46.13
+2026-11-13,port280,Darwin,Australia,port280,3,0,0,1,0.0,0.0,0.0,0.0
 2019-01-01,port362,Fujairah,United Arab Emirates,port362,10,2,8,0,0.0,163.8,22.79,122.68
 2019-01-02,port362,Fujairah,United Arab Emirates,port362,7,0,7,0,0.0,0.0,179.18,37.18
 2019-01-03,port362,Fujairah,United Arab Emirates,port362,5,2,3,0,0.0,103.99,15.48,30.73
@@ -77225,6 +77397,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port362,Fujairah,United Arab Emirates,port362,10,1,6,2,6.53,41.4,32.05,47.07
 2026-11-05,port362,Fujairah,United Arab Emirates,port362,9,2,7,0,6.53,97.05,44.17,131.13
 2026-11-06,port362,Fujairah,United Arab Emirates,port362,6,0,5,1,0.0,0.0,31.74,107.17
+2026-11-07,port362,Fujairah,United Arab Emirates,port362,12,1,9,1,0.0,60.84,64.27,122.64
+2026-11-08,port362,Fujairah,United Arab Emirates,port362,8,0,6,1,0.0,0.0,31.48,129.29
+2026-11-09,port362,Fujairah,United Arab Emirates,port362,7,2,4,0,62.81,41.37,21.18,59.91
+2026-11-10,port362,Fujairah,United Arab Emirates,port362,11,3,8,0,19.85,124.1,45.76,189.62
+2026-11-11,port362,Fujairah,United Arab Emirates,port362,6,2,2,2,13.24,82.74,7.25,9.99
+2026-11-12,port362,Fujairah,United Arab Emirates,port362,4,1,3,0,0.0,41.99,15.74,18.81
+2026-11-13,port362,Fujairah,United Arab Emirates,port362,9,1,7,1,6.62,41.37,204.51,266.37
 2019-01-01,port386,General Santos,Philippines,port386,0,0,0,0,0.0,0.0,0.0,0.0
 2019-01-02,port386,General Santos,Philippines,port386,2,0,0,1,0.0,0.0,0.0,0.0
 2019-01-03,port386,General Santos,Philippines,port386,0,0,0,0,0.0,0.0,0.0,0.0
@@ -80085,6 +80264,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port386,General Santos,Philippines,port386,2,0,0,1,0.0,0.0,0.0,0.0
 2026-11-05,port386,General Santos,Philippines,port386,0,0,0,0,0.0,0.0,0.0,0.0
 2026-11-06,port386,General Santos,Philippines,port386,2,0,0,1,0.0,0.0,0.0,0.0
+2026-11-07,port386,General Santos,Philippines,port386,2,0,0,0,0.0,0.0,0.0,0.0
+2026-11-08,port386,General Santos,Philippines,port386,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-09,port386,General Santos,Philippines,port386,4,0,0,0,0.0,0.0,0.0,0.0
+2026-11-10,port386,General Santos,Philippines,port386,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-11,port386,General Santos,Philippines,port386,2,0,0,2,0.0,0.0,0.0,0.0
+2026-11-12,port386,General Santos,Philippines,port386,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-13,port386,General Santos,Philippines,port386,3,0,0,0,0.0,0.0,0.0,0.0
 2019-01-01,port398,Gladstone,Australia,port398,7,3,3,0,0.0,264.15,7.68,84.41
 2019-01-02,port398,Gladstone,Australia,port398,6,4,1,0,196.14,107.59,0.0,0.19
 2019-01-03,port398,Gladstone,Australia,port398,6,4,1,1,30.1,248.84,0.0,0.0
@@ -82945,6 +83131,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port398,Gladstone,Australia,port398,4,4,0,0,0.0,271.11,0.0,0.0
 2026-11-05,port398,Gladstone,Australia,port398,6,4,2,0,12.96,398.6,0.0,111.16
 2026-11-06,port398,Gladstone,Australia,port398,4,3,1,0,38.87,181.01,0.52,0.0
+2026-11-07,port398,Gladstone,Australia,port398,7,4,3,0,32.57,365.47,0.0,0.0
+2026-11-08,port398,Gladstone,Australia,port398,3,2,1,0,22.76,190.17,0.0,74.82
+2026-11-09,port398,Gladstone,Australia,port398,3,2,1,0,0.0,164.69,12.46,0.0
+2026-11-10,port398,Gladstone,Australia,port398,7,2,5,0,83.97,35.57,21.7,84.85
+2026-11-11,port398,Gladstone,Australia,port398,2,1,1,0,25.25,0.0,0.0,4.5
+2026-11-12,port398,Gladstone,Australia,port398,7,6,1,0,12.9,412.81,0.0,26.5
+2026-11-13,port398,Gladstone,Australia,port398,3,2,1,0,56.04,79.36,5.79,0.0
 2019-01-01,port449,Hammerfest,Norway,port449,2,0,1,0,0.0,0.0,0.0,22.25
 2019-01-02,port449,Hammerfest,Norway,port449,2,0,1,0,0.0,0.0,0.0,0.58
 2019-01-03,port449,Hammerfest,Norway,port449,2,0,0,1,0.0,0.0,0.0,0.0
@@ -85805,6 +85998,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port449,Hammerfest,Norway,port449,1,0,0,0,0.0,0.0,0.0,0.0
 2026-11-05,port449,Hammerfest,Norway,port449,1,0,0,0,0.0,0.0,0.0,0.0
 2026-11-06,port449,Hammerfest,Norway,port449,1,0,0,0,0.0,0.0,0.0,0.0
+2026-11-07,port449,Hammerfest,Norway,port449,2,0,0,0,0.0,0.0,0.0,0.0
+2026-11-08,port449,Hammerfest,Norway,port449,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-09,port449,Hammerfest,Norway,port449,1,0,1,0,0.0,0.0,0.0,0.0
+2026-11-10,port449,Hammerfest,Norway,port449,2,0,1,0,0.0,0.0,0.0,79.32
+2026-11-11,port449,Hammerfest,Norway,port449,2,0,1,0,0.0,0.0,0.0,0.0
+2026-11-12,port449,Hammerfest,Norway,port449,1,0,0,0,0.0,0.0,0.0,0.0
+2026-11-13,port449,Hammerfest,Norway,port449,2,0,1,0,0.0,0.0,0.0,17.44
 2019-01-01,port458,Hay Point,Australia,port458,3,3,0,0,0.0,191.35,0.0,0.0
 2019-01-02,port458,Hay Point,Australia,port458,4,3,1,0,0.0,199.78,0.0,0.0
 2019-01-03,port458,Hay Point,Australia,port458,5,5,0,0,0.0,454.32,0.0,0.0
@@ -88672,6 +88872,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port458,Hay Point,Australia,port458,2,2,0,0,0.0,131.78,0.0,0.0
 2026-11-05,port458,Hay Point,Australia,port458,3,3,0,0,0.0,324.18,0.0,0.0
 2026-11-06,port458,Hay Point,Australia,port458,2,2,0,0,0.0,128.57,0.0,0.0
+2026-11-07,port458,Hay Point,Australia,port458,2,2,0,0,0.0,165.84,0.0,0.0
+2026-11-08,port458,Hay Point,Australia,port458,1,1,0,0,0.0,168.69,0.0,0.0
+2026-11-09,port458,Hay Point,Australia,port458,3,3,0,0,0.0,240.51,0.0,0.0
+2026-11-10,port458,Hay Point,Australia,port458,3,3,0,0,0.0,247.06,0.0,0.0
+2026-11-11,port458,Hay Point,Australia,port458,1,1,0,0,0.0,76.88,0.0,0.0
+2026-11-12,port458,Hay Point,Australia,port458,4,4,0,0,0.0,222.55,0.0,0.0
+2026-11-13,port458,Hay Point,Australia,port458,2,2,0,0,0.0,107.0,0.0,0.0
 2019-01-01,port481,Houston (US-TX),United States,port481,22,1,16,3,31.32,0.0,72.19,299.8
 2019-01-02,port481,Houston (US-TX),United States,port481,22,2,11,4,0.0,54.1,79.09,151.2
 2019-01-03,port481,Houston (US-TX),United States,port481,19,0,13,5,0.0,0.0,5.57,236.8
@@ -91530,6 +91737,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port481,Houston (US-TX),United States,port481,20,2,12,3,10.91,61.0,45.61,301.15
 2026-11-05,port481,Houston (US-TX),United States,port481,20,4,13,3,17.19,36.11,6.78,380.91
 2026-11-06,port481,Houston (US-TX),United States,port481,21,2,13,3,10.91,27.19,30.82,334.92
+2026-11-07,port481,Houston (US-TX),United States,port481,15,1,12,2,0.0,0.0,12.92,204.54
+2026-11-08,port481,Houston (US-TX),United States,port481,26,4,17,3,15.48,98.33,14.36,237.92
+2026-11-09,port481,Houston (US-TX),United States,port481,23,2,14,4,10.9,56.3,0.0,397.74
+2026-11-10,port481,Houston (US-TX),United States,port481,21,3,16,0,21.79,60.16,47.89,308.34
+2026-11-11,port481,Houston (US-TX),United States,port481,27,2,17,6,10.42,13.66,11.15,547.41
+2026-11-12,port481,Houston (US-TX),United States,port481,25,7,14,3,65.38,107.68,48.68,266.7
+2026-11-13,port481,Houston (US-TX),United States,port481,20,1,15,2,10.9,13.64,27.41,431.1
 2019-01-01,port506,Itaqui,Brazil,port506,8,5,2,0,0.0,907.85,9.64,36.23
 2019-01-02,port506,Itaqui,Brazil,port506,3,3,0,0,0.0,164.2,0.0,0.0
 2019-01-03,port506,Itaqui,Brazil,port506,5,4,1,0,0.0,898.21,5.29,0.0
@@ -94390,6 +94604,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port506,Itaqui,Brazil,port506,5,4,1,0,0.0,584.88,15.62,0.0
 2026-11-05,port506,Itaqui,Brazil,port506,3,3,0,0,0.0,422.56,0.0,0.0
 2026-11-06,port506,Itaqui,Brazil,port506,2,1,0,0,0.0,317.28,0.0,0.0
+2026-11-07,port506,Itaqui,Brazil,port506,7,6,1,0,0.0,765.69,33.29,0.0
+2026-11-08,port506,Itaqui,Brazil,port506,4,3,1,0,0.0,418.35,46.24,0.0
+2026-11-09,port506,Itaqui,Brazil,port506,5,3,2,0,0.0,303.48,3.71,0.24
+2026-11-10,port506,Itaqui,Brazil,port506,6,4,2,0,0.0,355.67,43.37,37.42
+2026-11-11,port506,Itaqui,Brazil,port506,6,3,3,0,0.0,378.12,87.92,0.0
+2026-11-12,port506,Itaqui,Brazil,port506,2,2,0,0,0.0,171.12,0.0,0.0
+2026-11-13,port506,Itaqui,Brazil,port506,6,4,2,0,0.0,771.39,52.69,2.76
 2019-01-01,port526,Juaymah,Saudi Arabia,port526,1,0,1,0,0.0,0.0,0.0,299.84
 2019-01-02,port526,Juaymah,Saudi Arabia,port526,2,0,2,0,0.0,0.0,0.0,0.0
 2019-01-03,port526,Juaymah,Saudi Arabia,port526,1,0,1,0,0.0,0.0,0.0,259.3
@@ -97250,6 +97471,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port526,Juaymah,Saudi Arabia,port526,0,0,0,0,0.0,0.0,0.0,0.0
 2026-11-05,port526,Juaymah,Saudi Arabia,port526,0,0,0,0,0.0,0.0,0.0,0.0
 2026-11-06,port526,Juaymah,Saudi Arabia,port526,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-07,port526,Juaymah,Saudi Arabia,port526,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-08,port526,Juaymah,Saudi Arabia,port526,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-09,port526,Juaymah,Saudi Arabia,port526,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-10,port526,Juaymah,Saudi Arabia,port526,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-11,port526,Juaymah,Saudi Arabia,port526,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-12,port526,Juaymah,Saudi Arabia,port526,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-13,port526,Juaymah,Saudi Arabia,port526,0,0,0,0,0.0,0.0,0.0,0.0
 2019-01-01,port536,Kamsar,Guinea,port536,1,1,0,0,0.0,65.7,0.0,0.0
 2019-01-02,port536,Kamsar,Guinea,port536,1,0,0,0,0.0,0.0,0.0,0.0
 2019-01-03,port536,Kamsar,Guinea,port536,0,0,0,0,0.0,0.0,0.0,0.0
@@ -100108,6 +100336,12 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port536,Kamsar,Guinea,port536,2,2,0,0,0.0,123.75,0.0,0.0
 2026-11-05,port536,Kamsar,Guinea,port536,1,1,0,0,0.0,65.7,0.0,0.0
 2026-11-06,port536,Kamsar,Guinea,port536,1,1,0,0,0.75,52.71,0.0,0.0
+2026-11-08,port536,Kamsar,Guinea,port536,2,1,0,0,0.0,65.03,0.0,0.0
+2026-11-09,port536,Kamsar,Guinea,port536,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-10,port536,Kamsar,Guinea,port536,1,1,0,0,7.86,38.25,0.0,0.0
+2026-11-11,port536,Kamsar,Guinea,port536,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-12,port536,Kamsar,Guinea,port536,1,0,0,0,0.0,0.0,0.0,0.0
+2026-11-13,port536,Kamsar,Guinea,port536,0,0,0,0,0.0,0.0,0.0,0.0
 2019-01-01,port570,Yanbu (King Fahd Port),Saudi Arabia,port570,3,0,3,0,0.0,0.0,0.0,46.15
 2019-01-02,port570,Yanbu (King Fahd Port),Saudi Arabia,port570,5,1,4,0,73.08,0.0,0.0,146.74
 2019-01-03,port570,Yanbu (King Fahd Port),Saudi Arabia,port570,3,0,3,0,0.0,0.0,13.26,0.0
@@ -102968,6 +103202,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port570,Yanbu (King Fahd Port),Saudi Arabia,port570,0,0,0,0,0.0,0.0,0.0,0.0
 2026-11-05,port570,Yanbu (King Fahd Port),Saudi Arabia,port570,0,0,0,0,0.0,0.0,0.0,0.0
 2026-11-06,port570,Yanbu (King Fahd Port),Saudi Arabia,port570,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-07,port570,Yanbu (King Fahd Port),Saudi Arabia,port570,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-08,port570,Yanbu (King Fahd Port),Saudi Arabia,port570,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-09,port570,Yanbu (King Fahd Port),Saudi Arabia,port570,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-10,port570,Yanbu (King Fahd Port),Saudi Arabia,port570,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-11,port570,Yanbu (King Fahd Port),Saudi Arabia,port570,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-12,port570,Yanbu (King Fahd Port),Saudi Arabia,port570,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-13,port570,Yanbu (King Fahd Port),Saudi Arabia,port570,0,0,0,0,0.0,0.0,0.0,0.0
 2019-01-01,port629,Lake Charles,United States,port629,4,2,2,0,0.0,31.71,9.18,17.5
 2019-01-02,port629,Lake Charles,United States,port629,1,0,1,0,0.0,0.0,72.66,0.0
 2019-01-03,port629,Lake Charles,United States,port629,3,0,3,0,0.0,0.0,75.82,25.05
@@ -105828,6 +106069,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port629,Lake Charles,United States,port629,1,0,1,0,0.0,0.0,0.0,42.25
 2026-11-05,port629,Lake Charles,United States,port629,2,0,1,0,0.0,0.0,0.0,78.07
 2026-11-06,port629,Lake Charles,United States,port629,4,1,2,0,11.67,12.23,0.0,88.5
+2026-11-07,port629,Lake Charles,United States,port629,2,0,2,0,0.0,0.0,0.0,13.32
+2026-11-08,port629,Lake Charles,United States,port629,2,0,1,0,0.0,0.0,0.75,20.45
+2026-11-09,port629,Lake Charles,United States,port629,2,0,2,0,0.0,0.0,14.37,0.0
+2026-11-10,port629,Lake Charles,United States,port629,1,0,1,0,0.0,0.0,0.0,20.86
+2026-11-11,port629,Lake Charles,United States,port629,2,1,1,0,11.63,12.26,0.0,33.8
+2026-11-12,port629,Lake Charles,United States,port629,6,2,4,0,11.63,20.88,0.0,169.93
+2026-11-13,port629,Lake Charles,United States,port629,2,0,1,0,0.0,0.0,0.0,0.0
 2019-01-01,port70,Arzew,Algeria,port70,4,1,2,0,0.0,0.82,0.0,214.81
 2019-01-02,port70,Arzew,Algeria,port70,3,0,2,1,0.0,0.0,0.2,66.71
 2019-01-03,port70,Arzew,Algeria,port70,2,0,1,1,0.0,0.0,0.0,89.39
@@ -108688,6 +108936,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port70,Arzew,Algeria,port70,5,0,5,0,0.0,0.0,0.66,268.5
 2026-11-05,port70,Arzew,Algeria,port70,6,0,3,1,0.0,0.0,0.39,102.2
 2026-11-06,port70,Arzew,Algeria,port70,4,1,2,1,22.61,19.32,0.6,102.42
+2026-11-07,port70,Arzew,Algeria,port70,3,1,2,0,0.0,23.12,16.16,24.33
+2026-11-08,port70,Arzew,Algeria,port70,3,0,2,1,0.0,0.0,0.0,6.94
+2026-11-09,port70,Arzew,Algeria,port70,5,0,4,0,0.0,0.0,0.65,216.25
+2026-11-10,port70,Arzew,Algeria,port70,3,0,2,0,0.0,0.0,0.0,34.29
+2026-11-11,port70,Arzew,Algeria,port70,5,0,4,0,0.0,0.0,0.45,122.05
+2026-11-12,port70,Arzew,Algeria,port70,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-13,port70,Arzew,Algeria,port70,2,0,2,0,0.0,0.0,0.39,30.44
 2019-01-01,port743,Mina Al Ahmadi,Kuwait,port743,1,0,1,0,0.0,0.0,0.0,0.0
 2019-01-02,port743,Mina Al Ahmadi,Kuwait,port743,2,0,2,0,0.0,0.0,0.0,122.61
 2019-01-03,port743,Mina Al Ahmadi,Kuwait,port743,1,0,1,0,0.0,0.0,0.0,34.68
@@ -111555,6 +111810,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port743,Mina Al Ahmadi,Kuwait,port743,0,0,0,0,0.0,0.0,0.0,0.0
 2026-11-05,port743,Mina Al Ahmadi,Kuwait,port743,0,0,0,0,0.0,0.0,0.0,0.0
 2026-11-06,port743,Mina Al Ahmadi,Kuwait,port743,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-07,port743,Mina Al Ahmadi,Kuwait,port743,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-08,port743,Mina Al Ahmadi,Kuwait,port743,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-09,port743,Mina Al Ahmadi,Kuwait,port743,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-10,port743,Mina Al Ahmadi,Kuwait,port743,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-11,port743,Mina Al Ahmadi,Kuwait,port743,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-12,port743,Mina Al Ahmadi,Kuwait,port743,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-13,port743,Mina Al Ahmadi,Kuwait,port743,0,0,0,0,0.0,0.0,0.0,0.0
 2019-01-01,port816,Newcastle,Australia,port816,7,4,1,0,0.0,318.46,41.25,0.0
 2019-01-02,port816,Newcastle,Australia,port816,3,3,0,0,0.0,214.95,0.0,0.0
 2019-01-03,port816,Newcastle,Australia,port816,10,8,1,0,0.0,316.62,7.33,0.0
@@ -114415,6 +114677,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port816,Newcastle,Australia,port816,5,5,0,0,0.0,342.57,0.0,0.0
 2026-11-05,port816,Newcastle,Australia,port816,6,4,0,0,0.0,204.93,0.0,0.0
 2026-11-06,port816,Newcastle,Australia,port816,7,6,1,0,0.0,477.91,38.96,0.0
+2026-11-07,port816,Newcastle,Australia,port816,3,3,0,0,0.0,284.7,0.0,0.0
+2026-11-08,port816,Newcastle,Australia,port816,2,2,0,0,0.0,111.54,0.0,0.0
+2026-11-09,port816,Newcastle,Australia,port816,3,3,0,0,0.0,235.34,0.0,0.0
+2026-11-10,port816,Newcastle,Australia,port816,9,6,2,0,0.0,369.31,15.82,0.0
+2026-11-11,port816,Newcastle,Australia,port816,7,6,0,0,0.0,585.79,0.0,0.0
+2026-11-12,port816,Newcastle,Australia,port816,4,3,0,0,0.0,257.99,0.0,0.0
+2026-11-13,port816,Newcastle,Australia,port816,9,7,1,0,0.0,550.35,20.58,0.55
 2019-01-01,port824,Ningbo,China,port824,48,8,8,31,165.77,159.33,150.79,24.89
 2019-01-02,port824,Ningbo,China,port824,44,4,8,27,153.19,26.85,65.7,14.98
 2019-01-03,port824,Ningbo,China,port824,53,5,14,30,352.38,6.42,230.14,64.6
@@ -117275,6 +117544,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port824,Ningbo,China,port824,47,8,8,30,481.29,34.11,88.41,32.44
 2026-11-05,port824,Ningbo,China,port824,44,5,7,28,18.7,102.05,51.2,10.74
 2026-11-06,port824,Ningbo,China,port824,57,9,24,21,206.16,100.64,772.96,68.25
+2026-11-07,port824,Ningbo,China,port824,51,5,12,31,34.68,16.24,390.35,64.57
+2026-11-08,port824,Ningbo,China,port824,52,7,10,33,564.73,40.28,481.22,4.29
+2026-11-09,port824,Ningbo,China,port824,8,0,0,8,0.0,0.0,0.0,0.0
+2026-11-10,port824,Ningbo,China,port824,73,9,20,40,197.58,94.42,350.4,83.68
+2026-11-11,port824,Ningbo,China,port824,42,5,10,25,77.9,55.97,153.91,49.97
+2026-11-12,port824,Ningbo,China,port824,57,13,12,29,312.46,104.77,375.53,2.73
+2026-11-13,port824,Ningbo,China,port824,57,5,14,32,271.61,16.84,133.73,33.81
 2019-01-01,port933,Port Arthur,United States,port933,5,2,3,0,0.0,75.64,64.34,43.58
 2019-01-02,port933,Port Arthur,United States,port933,2,0,2,0,0.0,0.0,2.15,23.1
 2019-01-03,port933,Port Arthur,United States,port933,2,0,2,0,0.0,0.0,0.0,79.34
@@ -120135,6 +120411,13 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port933,Port Arthur,United States,port933,2,0,1,0,0.0,0.0,64.45,0.0
 2026-11-05,port933,Port Arthur,United States,port933,4,0,4,0,0.0,0.0,0.0,124.86
 2026-11-06,port933,Port Arthur,United States,port933,6,0,4,0,0.0,0.0,72.47,85.74
+2026-11-07,port933,Port Arthur,United States,port933,0,0,0,0,0.0,0.0,0.0,0.0
+2026-11-08,port933,Port Arthur,United States,port933,2,0,2,0,0.0,0.0,0.0,49.39
+2026-11-09,port933,Port Arthur,United States,port933,1,1,0,0,0.0,35.35,0.0,0.0
+2026-11-10,port933,Port Arthur,United States,port933,4,0,4,0,0.0,0.0,175.14,0.0
+2026-11-11,port933,Port Arthur,United States,port933,2,0,2,0,0.0,0.0,0.0,41.01
+2026-11-12,port933,Port Arthur,United States,port933,2,1,1,0,0.0,27.77,0.0,10.36
+2026-11-13,port933,Port Arthur,United States,port933,1,0,0,0,0.0,0.0,0.0,0.0
 2019-01-01,port955,Port Hedland,Australia,port955,6,6,0,0,0.0,943.99,0.0,0.0
 2019-01-02,port955,Port Hedland,Australia,port955,9,8,0,0,0.0,1461.14,0.0,0.0
 2019-01-03,port955,Port Hedland,Australia,port955,8,8,0,0,0.0,1199.02,0.0,0.0
@@ -122995,3 +123278,10 @@ date,portid,portname,country,hub_code,daily_port_calls_total,daily_port_calls_dr
 2026-11-04,port955,Port Hedland,Australia,port955,9,8,0,0,0.0,912.15,0.0,0.0
 2026-11-05,port955,Port Hedland,Australia,port955,5,5,0,0,0.0,748.75,0.0,0.0
 2026-11-06,port955,Port Hedland,Australia,port955,6,6,0,0,0.0,895.33,0.0,0.0
+2026-11-07,port955,Port Hedland,Australia,port955,9,9,0,0,0.0,1372.48,0.0,0.0
+2026-11-08,port955,Port Hedland,Australia,port955,7,6,1,0,0.0,965.98,40.72,0.0
+2026-11-09,port955,Port Hedland,Australia,port955,9,9,0,0,0.0,1671.39,0.0,0.0
+2026-11-10,port955,Port Hedland,Australia,port955,8,8,0,0,0.0,1102.48,0.0,0.0
+2026-11-11,port955,Port Hedland,Australia,port955,10,10,0,0,0.0,1595.27,0.0,0.0
+2026-11-12,port955,Port Hedland,Australia,port955,8,8,0,0,0.0,1318.96,0.0,0.0
+2026-11-13,port955,Port Hedland,Australia,port955,10,9,1,0,0.0,1773.81,41.2,0.0

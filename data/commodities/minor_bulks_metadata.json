@@ -1,8 +1,8 @@
 {
   "dataset_name": "Seaborne Minor Bulks Monthly Trade Flows",
-  "generated_utc": "2026-11-16T15:50:09.912926+00:00",
-  "total_rows": 674,
-  "date_span": "2013-01-01 to 2026-09-01",
+  "generated_utc": "2026-11-23T18:06:10.381817+00:00",
+  "total_rows": 676,
+  "date_span": "2013-01-01 to 2026-10-01",
   "commodities_covered": [
     "Alumina",
     "Cement / Clinker",
@@ -74,25 +74,25 @@
       "flow": "Imports"
     },
     "Sugar": {
-      "total_records": 117,
+      "total_records": 118,
       "min_date": "2017-01-01",
-      "max_date": "2026-09-01",
-      "mean_monthly_tonnes": 2051914.4,
+      "max_date": "2026-10-01",
+      "mean_monthly_tonnes": 2057926.7,
       "max_monthly_tonnes": 3604459.4,
-      "total_volume_tonnes": 240073981.2,
-      "total_fob_usd": 57074428022.0,
+      "total_volume_tonnes": 242835353.1,
+      "total_fob_usd": 58049647720.0,
       "vessel_class": "Supramax / Handysize",
       "reporter": "Brazil",
       "flow": "Export"
     },
     "Urea / Fertiliser": {
-      "total_records": 56,
+      "total_records": 57,
       "min_date": "2022-01-01",
-      "max_date": "2026-08-01",
-      "mean_monthly_tonnes": 874379.4,
+      "max_date": "2026-09-01",
+      "mean_monthly_tonnes": 874436.4,
       "max_monthly_tonnes": 2305891.9,
-      "total_volume_tonnes": 48965245.6,
-      "total_fob_usd": 24100790000.0,
+      "total_volume_tonnes": 49842876.9,
+      "total_fob_usd": 24453490000.0,
       "vessel_class": "Handysize / Supramax",
       "reporter": "India",
       "flow": "Imports"
