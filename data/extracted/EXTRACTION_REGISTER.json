@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 20:30:48Z",
+  "updated_at": "2026-11-23 20:47:08Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -1132,7 +1132,7 @@
     {
       "file": "best_oasis_deals_series.csv",
       "target_metric": "Best Oasis Deals",
-      "rows": 927,
+      "rows": 939,
       "columns": [
         "issue_date",
         "vessel_name",
@@ -1153,7 +1153,7 @@
     {
       "file": "best_oasis_demolition_series.csv",
       "target_metric": "Best Oasis Demolition",
-      "rows": 886,
+      "rows": 890,
       "columns": [
         "issue_date",
         "location",
@@ -1170,7 +1170,7 @@
     {
       "file": "best_oasis_exchange_rates_series.csv",
       "target_metric": "Best Oasis Exchange Rates",
-      "rows": 175,
+      "rows": 176,
       "columns": [
         "issue_date",
         "usd_inr",
@@ -1214,7 +1214,7 @@
     {
       "file": "breakwave_insights_metadata.csv",
       "target_metric": "Breakwave Insights articles catalog, image references, tags, and full text metadata",
-      "rows": 3271,
+      "rows": 3273,
       "columns": [
         "issue_date",
         "year",
@@ -1469,7 +1469,7 @@
     {
       "file": "clarksons_sales_series.csv",
       "target_metric": "Clarksons Platou Hellas secondhand sales transactions ($M)",
-      "rows": 1397,
+      "rows": 1403,
       "columns": [
         "issue_date",
         "report_week",
@@ -1550,7 +1550,7 @@
     {
       "file": "compare_vs_clarksons_snp_sales_series.csv",
       "target_metric": "Compare Vs Clarksons Snp Sales",
-      "rows": 402,
+      "rows": 408,
       "columns": [
         "side",
         "issue_date",
@@ -2001,7 +2001,7 @@
     {
       "file": "gms_demolition_rankings_series.csv",
       "target_metric": "Gms Demolition Rankings",
-      "rows": 1104,
+      "rows": 1108,
       "columns": [
         "issue_date",
         "report_week",
@@ -2037,7 +2037,7 @@
     {
       "file": "gms_market_commentary_series.csv",
       "target_metric": "Gms Market Commentary",
-      "rows": 1291,
+      "rows": 1296,
       "columns": [
         "issue_date",
         "report_week",
@@ -2052,7 +2052,7 @@
     {
       "file": "gms_port_positions_series.csv",
       "target_metric": "Gms Port Positions",
-      "rows": 3027,
+      "rows": 3036,
       "columns": [
         "issue_date",
         "report_week",
@@ -2100,7 +2100,7 @@
     {
       "file": "hellenic_best_oasis_deals_series.csv",
       "target_metric": "Hellenic Best Oasis Deals",
-      "rows": 927,
+      "rows": 939,
       "columns": [
         "issue_date",
         "vessel_name",
@@ -2121,7 +2121,7 @@
     {
       "file": "hellenic_best_oasis_demolition_series.csv",
       "target_metric": "Hellenic Best Oasis Demolition",
-      "rows": 886,
+      "rows": 890,
       "columns": [
         "issue_date",
         "location",
@@ -2154,7 +2154,7 @@
     {
       "file": "hellenic_gms_demolition_series.csv",
       "target_metric": "Hellenic Gms Demolition",
-      "rows": 1104,
+      "rows": 1108,
       "columns": [
         "issue_date",
         "report_week",
@@ -2173,7 +2173,7 @@
     {
       "file": "hellenic_gms_port_positions_series.csv",
       "target_metric": "Hellenic Gms Port Positions",
-      "rows": 3027,
+      "rows": 3036,
       "columns": [
         "issue_date",
         "report_week",
@@ -2191,7 +2191,7 @@
     {
       "file": "hellenic_iron_ore_commentary_series.csv",
       "target_metric": "Hellenic Iron Ore Commentary",
-      "rows": 1221,
+      "rows": 1222,
       "columns": [
         "\ufeffissue_date",
         "commentary",
@@ -2202,7 +2202,7 @@
     {
       "file": "hellenic_iron_ore_daily_series.csv",
       "target_metric": "Daily iron ore spot, futures (DCE, SGX), steel benchmarks",
-      "rows": 1213,
+      "rows": 1214,
       "columns": [
         "date",
         "year",
@@ -2246,7 +2246,7 @@
     {
       "file": "hellenic_iron_ore_pdf_averages_series.csv",
       "target_metric": "MMi Daily Iron Ore weekly/monthly brand price averages & historical benchmarks",
-      "rows": 11912,
+      "rows": 11918,
       "columns": [
         "date",
         "year",
@@ -2286,7 +2286,7 @@
     {
       "file": "hellenic_iron_ore_pdf_brands_series.csv",
       "target_metric": "Hellenic Iron Ore Pdf Brands",
-      "rows": 32882,
+      "rows": 32902,
       "columns": [
         "date",
         "year",
@@ -2305,7 +2305,7 @@
     {
       "file": "hellenic_iron_ore_pdf_dashboard_series.csv",
       "target_metric": "Hellenic Iron Ore Pdf Dashboard",
-      "rows": 18096,
+      "rows": 18108,
       "columns": [
         "date",
         "year",
@@ -2361,7 +2361,7 @@
     {
       "file": "hellenic_iron_ore_pdf_futures_series.csv",
       "target_metric": "Hellenic Iron Ore Pdf Futures",
-      "rows": 2418,
+      "rows": 2420,
       "columns": [
         "date",
         "year",
@@ -2425,7 +2425,7 @@
     {
       "file": "hellenic_iron_ore_pdf_indices_series.csv",
       "target_metric": "Hellenic Iron Ore Pdf Indices",
-      "rows": 11738,
+      "rows": 11744,
       "columns": [
         "date",
         "year",
@@ -2572,7 +2572,7 @@
     {
       "file": "hellenic_smm_market_drivers_series.csv",
       "target_metric": "Hellenic Smm Market Drivers",
-      "rows": 48,
+      "rows": 49,
       "columns": [
         "date",
         "year",
@@ -3945,13 +3945,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 712168,
+  "total_master_stacked_rows": 712295,
   "total_master_series_csvs": 166,
-  "total_stacked_rows": 712168,
+  "total_stacked_rows": 712295,
   "total_series_csvs": 166,
   "total_master_workbooks": 1,
   "total_series_count": 166,
-  "total_rows_extracted": 712473,
+  "total_rows_extracted": 712600,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 611,
     "advanced_shipping_demolition_series.csv": 2064,
@@ -3978,12 +3978,12 @@
     "bancosta_sales_series.csv": 3356,
     "bancosta_secondhand_matrix_series.csv": 1973,
     "bancosta_vhss_series.csv": 672,
-    "best_oasis_deals_series.csv": 927,
-    "best_oasis_demolition_series.csv": 886,
-    "best_oasis_exchange_rates_series.csv": 175,
+    "best_oasis_deals_series.csv": 939,
+    "best_oasis_demolition_series.csv": 890,
+    "best_oasis_exchange_rates_series.csv": 176,
     "best_oasis_market_commentary_series.csv": 1031,
     "breakwave_fundamentals_series.csv": 3426,
-    "breakwave_insights_metadata.csv": 3271,
+    "breakwave_insights_metadata.csv": 3273,
     "carriers_bda_series.csv": 411,
     "carriers_bspa_series.csv": 831,
     "carriers_demolition_series.csv": 174,
@@ -3997,10 +3997,10 @@
     "clarksons_demolition_series.csv": 123,
     "clarksons_desk_talk_series.csv": 352,
     "clarksons_macro_series.csv": 165,
-    "clarksons_sales_series.csv": 1397,
+    "clarksons_sales_series.csv": 1403,
     "clarksons_snp_sales_series.csv": 1316,
     "compare_vs_clarksons_sales_series.csv": 0,
-    "compare_vs_clarksons_snp_sales_series.csv": 402,
+    "compare_vs_clarksons_snp_sales_series.csv": 408,
     "drewry_ais_chart_series.csv": 84005,
     "drewry_ais_crude_aframax_series.csv": 33,
     "drewry_ais_crude_suezmax_series.csv": 31,
@@ -4018,29 +4018,29 @@
     "gibson_bunker_prices_series.csv": 1052,
     "gibson_spot_chart_daily.csv": 9510,
     "gibson_tanker_spot_series.csv": 3682,
-    "gms_demolition_rankings_series.csv": 1104,
+    "gms_demolition_rankings_series.csv": 1108,
     "gms_demolition_sales_series.csv": 161,
-    "gms_market_commentary_series.csv": 1291,
-    "gms_port_positions_series.csv": 3027,
+    "gms_market_commentary_series.csv": 1296,
+    "gms_port_positions_series.csv": 3036,
     "hellenic_alibra_dry_tc_series.csv": 6683,
     "hellenic_alibra_tanker_tc_series.csv": 7616,
-    "hellenic_best_oasis_deals_series.csv": 927,
-    "hellenic_best_oasis_demolition_series.csv": 886,
+    "hellenic_best_oasis_deals_series.csv": 939,
+    "hellenic_best_oasis_demolition_series.csv": 890,
     "hellenic_capesize_c3_c5_series.csv": 1164,
-    "hellenic_gms_demolition_series.csv": 1104,
-    "hellenic_gms_port_positions_series.csv": 3027,
-    "hellenic_iron_ore_commentary_series.csv": 1221,
-    "hellenic_iron_ore_daily_series.csv": 1213,
-    "hellenic_iron_ore_pdf_averages_series.csv": 11912,
+    "hellenic_gms_demolition_series.csv": 1108,
+    "hellenic_gms_port_positions_series.csv": 3036,
+    "hellenic_iron_ore_commentary_series.csv": 1222,
+    "hellenic_iron_ore_daily_series.csv": 1214,
+    "hellenic_iron_ore_pdf_averages_series.csv": 11918,
     "hellenic_iron_ore_pdf_brand_specs_series.csv": 32564,
-    "hellenic_iron_ore_pdf_brands_series.csv": 32882,
-    "hellenic_iron_ore_pdf_dashboard_series.csv": 18096,
+    "hellenic_iron_ore_pdf_brands_series.csv": 32902,
+    "hellenic_iron_ore_pdf_dashboard_series.csv": 18108,
     "hellenic_iron_ore_pdf_domestic_concentrate_series.csv": 5820,
     "hellenic_iron_ore_pdf_freight_rates_series.csv": 22781,
-    "hellenic_iron_ore_pdf_futures_series.csv": 2418,
+    "hellenic_iron_ore_pdf_futures_series.csv": 2420,
     "hellenic_iron_ore_pdf_import_volumes_series.csv": 21561,
     "hellenic_iron_ore_pdf_index_comparisons_series.csv": 14826,
-    "hellenic_iron_ore_pdf_indices_series.csv": 11738,
+    "hellenic_iron_ore_pdf_indices_series.csv": 11744,
     "hellenic_iron_ore_pdf_normalisations_series.csv": 28990,
     "hellenic_iron_ore_pdf_port_differentials_series.csv": 18672,
     "hellenic_iron_ore_pdf_port_inventories_series.csv": 6984,
@@ -4048,7 +4048,7 @@
     "hellenic_iron_ore_pdf_steel_mill_pnl_series.csv": 9627,
     "hellenic_iron_ore_pdf_steel_series.csv": 8509,
     "hellenic_iron_ore_table_series.csv": 5614,
-    "hellenic_smm_market_drivers_series.csv": 48,
+    "hellenic_smm_market_drivers_series.csv": 49,
     "hellenic_vv_benchmark_sales_series.csv": 124,
     "hellenic_vv_matrix_series.csv": 20257,
     "hellenic_vv_sales_series.csv": 2126,
