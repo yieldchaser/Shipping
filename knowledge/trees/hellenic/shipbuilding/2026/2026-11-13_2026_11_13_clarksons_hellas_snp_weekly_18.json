@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-11-13_2026_11_13_clarksons_hellas_snp_weekly_18__root",
+  "doc_id": "hellenic_shipbuilding_2026-11-13_2026_11_13_clarksons_hellas_snp_weekly_18",
+  "parent_id": null,
+  "title": "CLARKSONS HELLAS - SnP WEEKLY",
+  "section_path": [
+    "CLARKSONS HELLAS - SnP WEEKLY"
+  ],
+  "section_path_text": "CLARKSONS HELLAS - SnP WEEKLY",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn the aftermath of the US midterm elections, oil prices have softened and freight rates have started to ease, at least for the time being.Asset values, however, remain relatively firm, as shipowners, traders and charterers seek to assess the evolving market dynamics and anticipate what lies ahead, particularly in relation to the operational inefficiencies that have driven tanker freight rates to extraordinary levels since March. Even if an agreement is reached between the US and Iran, a swift return to normality in tanker operations is unlikely. Security concerns, insurance requirements and the gradual unwinding of shuttle tanker operations and ship-to-ship (STS) transfers will continue to disrupt established trading patterns and constrain operational efficiency.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "handysize",
+    "atlantic",
+    "iron_ore",
+    "bauxite",
+    "crude_oil",
+    "meanwhile",
+    "usd",
+    "abt",
+    "ahead",
+    "any"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 456,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-11-13_clarksons-hellas-snp-weekly-18.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-18",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-11-13_2026_11_13_clarksons_hellas_snp_weekly_18__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-11-13_2026_11_13_clarksons_hellas_snp_weekly_18",
+      "parent_id": "hellenic_shipbuilding_2026-11-13_2026_11_13_clarksons_hellas_snp_weekly_18__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the aftermath of the US midterm elections, oil prices have softened and freight rates have started to ease, at least for the time being.Asset values, however, remain relatively firm, as shipowners, traders and charterers seek to assess the evolving market dynamics and anticipate what lies ahead, particularly in relation to the operational inefficiencies that have driven tanker freight rates to extraordinary levels since March. Even if an agreement is reached between the US and Iran, a swift return to normality in tanker operations is unlikely.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "handysize",
+        "atlantic",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "meanwhile"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 454,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

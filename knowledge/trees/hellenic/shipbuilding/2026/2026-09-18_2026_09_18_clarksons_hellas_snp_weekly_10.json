@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-09-18_2026_09_18_clarksons_hellas_snp_weekly_10__root",
+  "doc_id": "hellenic_shipbuilding_2026-09-18_2026_09_18_clarksons_hellas_snp_weekly_10",
+  "parent_id": null,
+  "title": "CLARKSONS HELLAS - SnP WEEKLY",
+  "section_path": [
+    "CLARKSONS HELLAS - SnP WEEKLY"
+  ],
+  "section_path_text": "CLARKSONS HELLAS - SnP WEEKLY",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe tanker market remains in the spotlight, now with Saudi Arabia's East-West pipeline shutdown amplifying theimpact of the disruption of the Strait of Hormuz even more. Wednesday's developments suggested that a restart of the pipeline is likely, with around half of its total 7 mb/d capacity expected to be restored in the near term, while a full return to operations is considered realistic by October. At the same time, shuttling / STS operations that free up trapped cargo which is loaded at the Gulf of Oman continue to be preferred by shipowners over performing a crossing of the Strait.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "aframax",
+    "china",
+    "japan",
+    "coal",
+    "grain",
+    "bauxite",
+    "crude_oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3060,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-09-18_clarksons-hellas-snp-weekly-10.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-10",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-09-18_2026_09_18_clarksons_hellas_snp_weekly_10__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-09-18_2026_09_18_clarksons_hellas_snp_weekly_10",
+      "parent_id": "hellenic_shipbuilding_2026-09-18_2026_09_18_clarksons_hellas_snp_weekly_10__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The tanker market remains in the spotlight, now with Saudi Arabia's East-West pipeline shutdown amplifying theimpact of the disruption of the Strait of Hormuz even more. Wednesday's developments suggested that a restart of the pipeline is likely, with around half of its total 7 mb/d capacity expected to be restored in the near term, while a full return to operations is considered realistic by October.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "aframax",
+        "china",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 781,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-09-18_2026_09_18_clarksons_hellas_snp_weekly_10__s02_linked_asset_2026_09_18_clarksons_hellas_snp_weekly_10_weekly_sales_18th_sept_2026_71bb6e8d6906_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-09-18_2026_09_18_clarksons_hellas_snp_weekly_10",
+      "parent_id": "hellenic_shipbuilding_2026-09-18_2026_09_18_clarksons_hellas_snp_weekly_10__root",
+      "title": "Linked asset: 2026-09-18_clarksons-hellas-snp-weekly-10_weekly-sales-18th-sept-2026_71bb6e8d6906.pdf",
+      "section_path": [
+        "Linked asset: 2026-09-18_clarksons-hellas-snp-weekly-10_weekly-sales-18th-sept-2026_71bb6e8d6906.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-09-18_clarksons-hellas-snp-weekly-10_weekly-sales-18th-sept-2026_71bb6e8d6906.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-09-18_clarksons-hellas-snp-weekly-10_weekly-sales-18th-sept-2026_71bb6e8d6906.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\nThe tanker market remains in the spotlight, now with Saudi Arabia's East-West pipeline shutdown amplifying the impact of the disruption of the Strait of Hormuz even more.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "aframax",
+        "china",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2233,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

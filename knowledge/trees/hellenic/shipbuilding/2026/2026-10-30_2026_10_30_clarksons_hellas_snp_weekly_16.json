@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-10-30_2026_10_30_clarksons_hellas_snp_weekly_16__root",
+  "doc_id": "hellenic_shipbuilding_2026-10-30_2026_10_30_clarksons_hellas_snp_weekly_16",
+  "parent_id": null,
+  "title": "CLARKSONS HELLAS - SnP WEEKLY",
+  "section_path": [
+    "CLARKSONS HELLAS - SnP WEEKLY"
+  ],
+  "section_path_text": "CLARKSONS HELLAS - SnP WEEKLY",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThis week, tanker activity has increased compared with the previous few weeks across most segments. VLCC spot rates appear to have established a near-term floor of around $500,000/day, with the global average across the mainstream roots currently assessed at $564,300 today. In the product tanker market, contrary to much of this year, MR TCE averages are now at similar levels across both Atlantic and Pacific basins, with earnings captured globally being assessed at $86,500/day.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "brazil",
+    "atlantic",
+    "pacific",
+    "iron_ore",
+    "bauxite",
+    "abt",
+    "dwt",
+    "sold"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 672,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-10-30_clarksons-hellas-snp-weekly-16.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-16",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-10-30_2026_10_30_clarksons_hellas_snp_weekly_16__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-10-30_2026_10_30_clarksons_hellas_snp_weekly_16",
+      "parent_id": "hellenic_shipbuilding_2026-10-30_2026_10_30_clarksons_hellas_snp_weekly_16__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This week, tanker activity has increased compared with the previous few weeks across most segments. VLCC spot rates appear to have established a near-term floor of around $500,000/day, with the global average across the mainstream roots currently assessed at $564,300 today.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "brazil",
+        "atlantic",
+        "pacific",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 670,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

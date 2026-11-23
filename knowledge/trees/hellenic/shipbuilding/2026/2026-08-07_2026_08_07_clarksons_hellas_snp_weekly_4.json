@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-08-07_2026_08_07_clarksons_hellas_snp_weekly_4__root",
+  "doc_id": "hellenic_shipbuilding_2026-08-07_2026_08_07_clarksons_hellas_snp_weekly_4",
+  "parent_id": null,
+  "title": "CLARKSONS HELLAS - SnP WEEKLY",
+  "section_path": [
+    "CLARKSONS HELLAS - SnP WEEKLY"
+  ],
+  "section_path_text": "CLARKSONS HELLAS - SnP WEEKLY",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nSummer seasonality has brought a broader slowdown in market activity, consistent with the typical seasonal pattern. Against this backdrop,the Strait of Hormuz picture remains little changed:\nTransits stay well below pre-crisis levels as markets watch for progress in Iran-Oman talks. Flow is concentrated on discounted Iraqi crude drawing Asian refiner demand.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "japan",
+    "any",
+    "information",
+    "clarksons",
+    "its"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2064,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-08-07_clarksons-hellas-snp-weekly-4.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-4",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-08-07_2026_08_07_clarksons_hellas_snp_weekly_4__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-08-07_2026_08_07_clarksons_hellas_snp_weekly_4",
+      "parent_id": "hellenic_shipbuilding_2026-08-07_2026_08_07_clarksons_hellas_snp_weekly_4__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Summer seasonality has brought a broader slowdown in market activity, consistent with the typical seasonal pattern. Against this backdrop,the Strait of Hormuz picture remains little changed:\nTransits stay well below pre-crisis levels as markets watch for progress in Iran-Oman talks.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 507,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-08-07_2026_08_07_clarksons_hellas_snp_weekly_4__s02_linked_asset_2026_08_07_clarksons_hellas_snp_weekly_4_weekly_sales_7th_august_2026_29271e56f422_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-08-07_2026_08_07_clarksons_hellas_snp_weekly_4",
+      "parent_id": "hellenic_shipbuilding_2026-08-07_2026_08_07_clarksons_hellas_snp_weekly_4__root",
+      "title": "Linked asset: 2026-08-07_clarksons-hellas-snp-weekly-4_weekly-sales-7th-august-2026_29271e56f422.pdf",
+      "section_path": [
+        "Linked asset: 2026-08-07_clarksons-hellas-snp-weekly-4_weekly-sales-7th-august-2026_29271e56f422.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-08-07_clarksons-hellas-snp-weekly-4_weekly-sales-7th-august-2026_29271e56f422.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-08-07_clarksons-hellas-snp-weekly-4_weekly-sales-7th-august-2026_29271e56f422.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\nSummer seasonality has brought a broader slowdown in market activity, consistent with the typical seasonal pattern.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1512,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

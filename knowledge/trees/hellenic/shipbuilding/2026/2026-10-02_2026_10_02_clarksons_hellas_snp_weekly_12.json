@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-10-02_2026_10_02_clarksons_hellas_snp_weekly_12__root",
+  "doc_id": "hellenic_shipbuilding_2026-10-02_2026_10_02_clarksons_hellas_snp_weekly_12",
+  "parent_id": null,
+  "title": "CLARKSONS HELLAS - SnP WEEKLY",
+  "section_path": [
+    "CLARKSONS HELLAS - SnP WEEKLY"
+  ],
+  "section_path_text": "CLARKSONS HELLAS - SnP WEEKLY",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nTanker rates remain at or near record highs as hopes of a reopening faded. President Trump rejected Iran's proposalto reopen the Strait, at least five tankers were struck in Hormuz this week, and the US is reported to be sending a third aircraft carrier to the region. VLCC earnings are averaging over USD 700,000 p/d on the Baltic Exchange's assessment, with Middle East Gulf-China voyages at USD 1.2 million p/d.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
+    "meg",
+    "products",
+    "usd",
+    "any",
+    "dwt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2863,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-10-02_clarksons-hellas-snp-weekly-12.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-12",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-10-02_2026_10_02_clarksons_hellas_snp_weekly_12__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-10-02_2026_10_02_clarksons_hellas_snp_weekly_12",
+      "parent_id": "hellenic_shipbuilding_2026-10-02_2026_10_02_clarksons_hellas_snp_weekly_12__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Tanker rates remain at or near record highs as hopes of a reopening faded. President Trump rejected Iran's proposalto reopen the Strait, at least five tankers were struck in Hormuz this week, and the US is reported to be sending a third aircraft carrier to the region.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "vlcc",
+        "suezmax",
+        "china",
+        "atlantic",
+        "meg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 778,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-10-02_2026_10_02_clarksons_hellas_snp_weekly_12__s02_linked_asset_2026_10_02_clarksons_hellas_snp_weekly_12_weekly_sales_2nd_october_2026_1e653c721fb7_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-10-02_2026_10_02_clarksons_hellas_snp_weekly_12",
+      "parent_id": "hellenic_shipbuilding_2026-10-02_2026_10_02_clarksons_hellas_snp_weekly_12__root",
+      "title": "Linked asset: 2026-10-02_clarksons-hellas-snp-weekly-12_weekly-sales-2nd-october-2026_1e653c721fb7.pdf",
+      "section_path": [
+        "Linked asset: 2026-10-02_clarksons-hellas-snp-weekly-12_weekly-sales-2nd-october-2026_1e653c721fb7.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-10-02_clarksons-hellas-snp-weekly-12_weekly-sales-2nd-october-2026_1e653c721fb7.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-10-02_clarksons-hellas-snp-weekly-12_weekly-sales-2nd-october-2026_1e653c721fb7.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\nTanker rates remain at or near record highs as hopes of a reopening faded.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "vlcc",
+        "suezmax",
+        "china",
+        "atlantic",
+        "meg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2039,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

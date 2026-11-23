@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-08-14_2026_08_14_clarksons_hellas_snp_weekly_5__root",
+  "doc_id": "hellenic_shipbuilding_2026-08-14_2026_08_14_clarksons_hellas_snp_weekly_5",
+  "parent_id": null,
+  "title": "CLARKSONS HELLAS - SnP WEEKLY",
+  "section_path": [
+    "CLARKSONS HELLAS - SnP WEEKLY"
+  ],
+  "section_path_text": "CLARKSONS HELLAS - SnP WEEKLY",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDry Cargo\nAs mentioned, the Kamsarmax sector has seen particularly strong activity recently, with a number of around 10 years old vessels changing hands. The MEDI POSITANO (ABT 82K DWT, 2015, TSUNEISHI ZOSEN, SCRUBBER) was sold to Greek Buyers for around USD 32m. Meanwhile, the PRESINGE (ABT 82K DWT, 2015 TSUNEISHI ZHOUSHAN) has been acquired by Indian interests for USD 29.25m.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "container",
+    "china",
+    "india",
+    "iron_ore",
+    "coal",
+    "usd"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2655,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-08-14_clarksons-hellas-snp-weekly-5.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-5",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-08-14_2026_08_14_clarksons_hellas_snp_weekly_5__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-08-14_2026_08_14_clarksons_hellas_snp_weekly_5",
+      "parent_id": "hellenic_shipbuilding_2026-08-14_2026_08_14_clarksons_hellas_snp_weekly_5__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dry Cargo\nAs mentioned, the Kamsarmax sector has seen particularly strong activity recently, with a number of around 10 years old vessels changing hands. The MEDI POSITANO (ABT 82K DWT, 2015, TSUNEISHI ZOSEN, SCRUBBER) was sold to Greek Buyers for around USD 32m.",
+      "keywords": [
+        "supramax",
+        "suezmax",
+        "china",
+        "india",
+        "abt",
+        "dwt",
+        "usd",
+        "was"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 455,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-08-14_2026_08_14_clarksons_hellas_snp_weekly_5__s02_linked_asset_2026_08_14_clarksons_hellas_snp_weekly_5_weekly_sales_14th_aug_2026_7bc480a7562d_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-08-14_2026_08_14_clarksons_hellas_snp_weekly_5",
+      "parent_id": "hellenic_shipbuilding_2026-08-14_2026_08_14_clarksons_hellas_snp_weekly_5__root",
+      "title": "Linked asset: 2026-08-14_clarksons-hellas-snp-weekly-5_weekly-sales-14th-aug-2026_7bc480a7562d.pdf",
+      "section_path": [
+        "Linked asset: 2026-08-14_clarksons-hellas-snp-weekly-5_weekly-sales-14th-aug-2026_7bc480a7562d.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-08-14_clarksons-hellas-snp-weekly-5_weekly-sales-14th-aug-2026_7bc480a7562d.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-08-14_clarksons-hellas-snp-weekly-5_weekly-sales-14th-aug-2026_7bc480a7562d.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\nEven with the expected seasonal slowdown we are seeing healthy activity in the S&P market, with several transactions recorded and ongoing negotiations.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "container",
+        "china"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2155,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

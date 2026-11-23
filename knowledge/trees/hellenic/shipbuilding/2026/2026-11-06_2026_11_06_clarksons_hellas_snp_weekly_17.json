@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-11-06_2026_11_06_clarksons_hellas_snp_weekly_17__root",
+  "doc_id": "hellenic_shipbuilding_2026-11-06_2026_11_06_clarksons_hellas_snp_weekly_17",
+  "parent_id": null,
+  "title": "CLARKSONS HELLAS - SnP WEEKLY",
+  "section_path": [
+    "CLARKSONS HELLAS - SnP WEEKLY"
+  ],
+  "section_path_text": "CLARKSONS HELLAS - SnP WEEKLY",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe main discussion over the past few months has consistently been the significant increase in Hormuz crude oil flows and the associatedsurge in tanker earnings. Following the onset of the US-Iran crisis, cargo volumes shipped from the MEG to the East initially remained relatively modest amid the threats posed. However, shuttle volumes through the strait subsequently increased significantly, reaching an estimated average of 10.5 mb/d in October.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "meg",
+    "crude_oil",
+    "remains",
+    "abt",
+    "asset",
+    "cargo",
+    "conditions",
+    "demand",
+    "dwt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 467,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-11-06_clarksons-hellas-snp-weekly-17.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-17",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-11-06_2026_11_06_clarksons_hellas_snp_weekly_17__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-11-06_2026_11_06_clarksons_hellas_snp_weekly_17",
+      "parent_id": "hellenic_shipbuilding_2026-11-06_2026_11_06_clarksons_hellas_snp_weekly_17__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The main discussion over the past few months has consistently been the significant increase in Hormuz crude oil flows and the associatedsurge in tanker earnings. Following the onset of the US-Iran crisis, cargo volumes shipped from the MEG to the East initially remained relatively modest amid the threats posed.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "meg",
+        "crude_oil",
+        "remains",
+        "abt",
+        "asset"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 465,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-11-20_2026_11_20_clarksons_hellas_snp_weekly_19__root",
+  "doc_id": "hellenic_shipbuilding_2026-11-20_2026_11_20_clarksons_hellas_snp_weekly_19",
+  "parent_id": null,
+  "title": "CLARKSONS HELLAS - SnP WEEKLY",
+  "section_path": [
+    "CLARKSONS HELLAS - SnP WEEKLY"
+  ],
+  "section_path_text": "CLARKSONS HELLAS - SnP WEEKLY",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nOn the geopolitical front, Hormuz remains the main flashpoint. Tanker attacks continue almost daily,with Iran claiming more vessels hit mines this week, while US-Iran talks to reopen the strait have stalled, keeping shipping exposed to further disruption. Separately, Trump, Putin and Xi agreed at their first three-way summit in Shenzhen on 19 November to increase the production and supply of refined petroleum products.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "japan",
+    "iron_ore",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2937,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-11-20_clarksons-hellas-snp-weekly-19.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-19",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-11-20_2026_11_20_clarksons_hellas_snp_weekly_19__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-11-20_2026_11_20_clarksons_hellas_snp_weekly_19",
+      "parent_id": "hellenic_shipbuilding_2026-11-20_2026_11_20_clarksons_hellas_snp_weekly_19__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On the geopolitical front, Hormuz remains the main flashpoint. Tanker attacks continue almost daily,with Iran claiming more vessels hit mines this week, while US-Iran talks to reopen the strait have stalled, keeping shipping exposed to further disruption.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 877,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-11-20_2026_11_20_clarksons_hellas_snp_weekly_19__s02_linked_asset_2026_11_20_clarksons_hellas_snp_weekly_19_weekly_sales_20th_november_2026_1b911ac9b386_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-11-20_2026_11_20_clarksons_hellas_snp_weekly_19",
+      "parent_id": "hellenic_shipbuilding_2026-11-20_2026_11_20_clarksons_hellas_snp_weekly_19__root",
+      "title": "Linked asset: 2026-11-20_clarksons-hellas-snp-weekly-19_weekly-sales-20th-november-2026_1b911ac9b386.pdf",
+      "section_path": [
+        "Linked asset: 2026-11-20_clarksons-hellas-snp-weekly-19_weekly-sales-20th-november-2026_1b911ac9b386.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-11-20_clarksons-hellas-snp-weekly-19_weekly-sales-20th-november-2026_1b911ac9b386.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-11-20_clarksons-hellas-snp-weekly-19_weekly-sales-20th-november-2026_1b911ac9b386.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\nOn the geopolitical front, Hormuz remains the main flashpoint.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2014,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

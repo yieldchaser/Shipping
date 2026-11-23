@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-08-21_2026_08_21_clarksons_hellas_snp_weekly_6__root",
+  "doc_id": "hellenic_shipbuilding_2026-08-21_2026_08_21_clarksons_hellas_snp_weekly_6",
+  "parent_id": null,
+  "title": "CLARKSONS HELLAS - SnP WEEKLY",
+  "section_path": [
+    "CLARKSONS HELLAS - SnP WEEKLY"
+  ],
+  "section_path_text": "CLARKSONS HELLAS - SnP WEEKLY",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nMarket sentiment this week continued to be shaped by escalating security risk across two flashpoints.Hormuz transits stayed near record lows, with attacks continuing, and the Black Sea saw a fresh spike in hostilities. On Tankers, Suezmax demand remained strong, spanning from the US Gulf, West Africa, the Mediterranean and now Yanbu, while VLCCs are also seeing active chartering activity across multiple loading regions, including inside Hormuz itself. Ship-to-ship activity off Oman and Fujairah continues to build as exporters find ways to move crude despite ongoing Strait disruption, and there are early signs that some inner-Gulf export activity is cautiously resuming, though still limited to risk-tolerant players.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "vlcc",
+    "suezmax",
+    "china",
+    "pacific",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "iron_ore",
+    "any",
+    "information"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2324,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-08-21_clarksons-hellas-snp-weekly-6.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-6",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-08-21_2026_08_21_clarksons_hellas_snp_weekly_6__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-08-21_2026_08_21_clarksons_hellas_snp_weekly_6",
+      "parent_id": "hellenic_shipbuilding_2026-08-21_2026_08_21_clarksons_hellas_snp_weekly_6__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Market sentiment this week continued to be shaped by escalating security risk across two flashpoints.Hormuz transits stayed near record lows, with attacks continuing, and the Black Sea saw a fresh spike in hostilities. On Tankers, Suezmax demand remained strong, spanning from the US Gulf, West Africa, the Mediterranean and now Yanbu, while VLCCs are also seeing active chartering activity across multiple loading regions, including inside Hormuz itself.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "vlcc",
+        "suezmax",
+        "china",
+        "pacific",
+        "west_africa",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 631,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-08-21_2026_08_21_clarksons_hellas_snp_weekly_6__s02_linked_asset_2026_08_21_clarksons_hellas_snp_weekly_6_weekly_sales_21st_aug_2026_fc58462e03c3_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-08-21_2026_08_21_clarksons_hellas_snp_weekly_6",
+      "parent_id": "hellenic_shipbuilding_2026-08-21_2026_08_21_clarksons_hellas_snp_weekly_6__root",
+      "title": "Linked asset: 2026-08-21_clarksons-hellas-snp-weekly-6_weekly-sales-21st-aug-2026_fc58462e03c3.pdf",
+      "section_path": [
+        "Linked asset: 2026-08-21_clarksons-hellas-snp-weekly-6_weekly-sales-21st-aug-2026_fc58462e03c3.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-08-21_clarksons-hellas-snp-weekly-6_weekly-sales-21st-aug-2026_fc58462e03c3.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-08-21_clarksons-hellas-snp-weekly-6_weekly-sales-21st-aug-2026_fc58462e03c3.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\nMarket sentiment this week continued to be shaped by escalating security risk across two flashpoints.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "vlcc",
+        "suezmax",
+        "china",
+        "pacific",
+        "west_africa",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1649,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}
