@@ -2,18 +2,18 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2980,
-      "untracked_bytes": 2297800927
+      "untracked_files": 2979,
+      "untracked_bytes": 2297490120
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4066,
-      "untracked_bytes": 2393430734
+      "untracked_files": 4057,
+      "untracked_bytes": 2389108169
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 18,
-      "untracked_bytes": 3449802
+      "untracked_files": 9,
+      "untracked_bytes": 2035986
     },
     {
       "path": "corpus/04-poten",
@@ -5606,11 +5606,6 @@
       "path": "corpus/01-brokers/carriers/2026/carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf",
       "bytes": 322974,
       "sha256": "d15bafa10bd54633a7b5285d9e264caae96f172e69648994576a3cc5b6f0a774"
-    },
-    {
-      "path": "corpus/01-brokers/carriers/2026/carriers_2026_W47_WK-47-26-CARRIERS_SP-MARKET-REPORT.pdf",
-      "bytes": 310807,
-      "sha256": "28f023f37e9b7b6b111da9be58958f621ced3d16aa1a1776ce18401a11cd3397"
     },
     {
       "path": "corpus/01-brokers/carriers/2026/general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf",
@@ -14963,11 +14958,6 @@
       "sha256": "0bba66ef4bd0790e891d2fa8957aff2678eaaf35df892acb039919ba36270d07"
     },
     {
-      "path": "corpus/02-hellenic/demolition/2026/2026-11-24_athenian-shipbrokers-s-a-demolition-quick-update-week-47-2026.html",
-      "bytes": 3122,
-      "sha256": "8ad3f6f65e657ae87659bde0d4945f10e3393143ead8aaed7e8a540bd4b6d4f8"
-    },
-    {
       "path": "corpus/02-hellenic/demolition/pdfs/2024-04-15_Ship-recycling-market-insight-week-15-2024-Ramadan_Resurgence\u2026Or_Not.pdf",
       "bytes": 653148,
       "sha256": "a79a268821e132d8cdeb7fcd037d30c80ded62b9953ad0804fd3f7244207ab74"
@@ -14991,11 +14981,6 @@
       "path": "corpus/02-hellenic/demolition/pdfs/2026-08-15_best-oasis-weekly-recycling-market-report-14-august-2026_weekly-ship-recycling-report-08-augu_4ca6a14ecc27.pdf",
       "bytes": 1526416,
       "sha256": "52b23f9d42d155925f97c66cebc616237a05be249ba46e4de12f1473f63b3c70"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/pdfs/2026-11-24_athenian-shipbrokers-s-a-demolition-quick-update-week-47-2026_week-47-athenian-demolition-report-2_b584c36f337d.pdf",
-      "bytes": 628333,
-      "sha256": "8e406212afea2105124ee208f077838cb22c44129a6a2cfcc73bd08f767509e0"
     },
     {
       "path": "corpus/02-hellenic/demolition/pdfs/athenian/2021-07-07_athenian-shipbrokers-s-a-demolition-quick-update-week-26-2021_ship-recycling-weekly-26-2021-atheni_3c137c5215b0.pdf",
@@ -16586,11 +16571,6 @@
       "path": "corpus/02-hellenic/demolition/pdfs/athenian/2026-09-08_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2026_week-36-athenian-demolition-report-2_2c3e38bed81c.pdf",
       "bytes": 628085,
       "sha256": "030e062e3637cde71b5e63a1b0b8f0ff517d5d9562568a2f5c7054fda79775ed"
-    },
-    {
-      "path": "corpus/02-hellenic/demolition/pdfs/athenian/2026-11-24_athenian-shipbrokers-s-a-demolition-quic_Week_47_Athenian_Demolition_Report_2026.pdf",
-      "bytes": 628333,
-      "sha256": "8e406212afea2105124ee208f077838cb22c44129a6a2cfcc73bd08f767509e0"
     },
     {
       "path": "corpus/02-hellenic/demolition/pdfs/best_oasis/2021-07-03_Weekly-Ship-Recycling-Report.pdf",
@@ -20426,16 +20406,6 @@
       "path": "corpus/02-hellenic/iron_ore/2024/assets/2024-07-12_mmi-daily-iron-ore-index-report-july-12-2024_img1_1207202\u03b4\u03c3_e133c3395525.jpg",
       "bytes": 469290,
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/2026-11-24_mmi-daily-iron-ore-index-report-november-24-2026.html",
-      "bytes": 4988,
-      "sha256": "dacc53cee4e2004b60b961e3e2729fdaffe7a87171a81885e817f149560c6d61"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-11-24_mmi-daily-iron-ore-index-report-november-24-2026_24112026chinese32_210b8cff40ea.jpg",
-      "bytes": 184261,
-      "sha256": "4b2fb3b33fe89bc0580233bae69f0dae05908c081c63d2cba8340ff9f3197948"
     },
     {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
@@ -30433,11 +30403,6 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-11-24_mmi-daily-iron-ore-index-report-november-24-2026_mmi-daily-iron-ore-report-for-24th-n_5d3e53947784.pdf",
-      "bytes": 1180002,
-      "sha256": "f0bac155e4ba2c9b74cdd10910815c496e4d3e4273ed5267753b8b85fecabd6b"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31826,16 +31791,6 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-11-24_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-24th-November-2026.pdf",
-      "bytes": 1180002,
-      "sha256": "f0bac155e4ba2c9b74cdd10910815c496e4d3e4273ed5267753b8b85fecabd6b"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/2026/2026-11-24_breakwave-dry-bulk-shipping-report-11-24-2026.html",
-      "bytes": 3055,
-      "sha256": "9aad124905f3f5c49e06afa3d1a9a7a2a74da8073b5f23b85ba51ba9c2bfb6f1"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -35083,11 +35038,6 @@
       "sha256": "f9b17ac1d3d8345d08fa3e1dff456fbda1b177a8892fc18ae73fa9e8d055ee75"
     },
     {
-      "path": "corpus/02-hellenic/shipbuilding/pdfs/2026-11-24_breakwave-dry-bulk-shipping-report-11-24-2026_breakwavedrynovember242026report_32c3f8a82a6d.pdf",
-      "bytes": 510469,
-      "sha256": "67c5fd3289ecfaeedcd08cf8dac678a765cc043373f8de0270c03e72e00260ae"
-    },
-    {
       "path": "corpus/02-hellenic/shipbuilding/pdfs/2026/2026-01-09_Weekly-Sales-09th-Jan-2026.pdf",
       "bytes": 265051,
       "sha256": "1cfe3b032023eceffc182a223688d542594e1739a53bbd1c115511ef84ddfc52"
@@ -35278,31 +35228,6 @@
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
     },
     {
-      "path": "corpus/03-breakwave/drybulk/2026/2026-11-24_Breakwave_Dry_Bulk.pdf",
-      "bytes": 510469,
-      "sha256": "67c5fd3289ecfaeedcd08cf8dac678a765cc043373f8de0270c03e72e00260ae"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-24_11242026db-report11ki887j.html",
-      "bytes": 5992,
-      "sha256": "4d031d9ae333e7899f31ee139ebfbf1e2ad42d93ef7a2d8348360b7758dece28"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-24_11242026db-report11ki887j.md",
-      "bytes": 4514,
-      "sha256": "adf2b6575f6a2c8356f2b0695f28a6172553642e7728cbad590a807166e8abf5"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-24_greek-newbuilding-investment-shapes-the-next-fleet-cycle.html",
-      "bytes": 6914,
-      "sha256": "36bed217e703b1192d4bf7dc1626548097fdcd3ecca7eb2164b1419327b53404"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-24_greek-newbuilding-investment-shapes-the-next-fleet-cycle.md",
-      "bytes": 5239,
-      "sha256": "3f00f3243957a1d565fed3e9827c9033cfc83b6360967e0540a075ca0bb40127"
-    },
-    {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
       "bytes": 69365,
       "sha256": "9848c9a3aaba37a9e84f8cd2263fff62c7771135c466216f51114381d1621e5f"
@@ -35346,26 +35271,6 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-24_11242026db-report11ki887j_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c2b573608ba.png",
-      "bytes": 208970,
-      "sha256": "41fcaa1d9969c9ac037a519c510f801cd0b062293d43b7b24b80312e4c424a93"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-24_11242026db-report11ki887j_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7a1a02f50320.png",
-      "bytes": 46104,
-      "sha256": "9ea24645ecd79f5a9f561b88c5f47fa7a4ee5122a7ea5651eabc3a7354a5e51c"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-24_11242026db-report11ki887j_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dbcf46ea5aa4.png",
-      "bytes": 87296,
-      "sha256": "005ba65ab136a1660f50beb8c8a7ef089f46a49dede5e58e4272d9db615df459"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-24_greek-newbuilding-investment-shapes-the-next-fleet-cycle_img_unsplash-image-q8mdl6ca-2k_eedccb1e6a45.jpg",
-      "bytes": 538318,
-      "sha256": "21e95661808586ca44c805d2b00a95e23e504e7a1eabede13535cb3b6bce35db"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
