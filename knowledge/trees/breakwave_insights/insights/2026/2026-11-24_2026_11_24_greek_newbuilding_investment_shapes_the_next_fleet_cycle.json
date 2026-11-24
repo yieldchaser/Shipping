@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-11-24_2026_11_24_greek_newbuilding_investment_shapes_the_next_fleet_cycle__root",
+  "doc_id": "breakwave_insights_insights_2026-11-24_2026_11_24_greek_newbuilding_investment_shapes_the_next_fleet_cycle",
+  "parent_id": null,
+  "title": "Greek Newbuilding Investment Shapes the Next Fleet Cycle",
+  "section_path": [
+    "Greek Newbuilding Investment Shapes the Next Fleet Cycle"
+  ],
+  "section_path_text": "Greek Newbuilding Investment Shapes the Next Fleet Cycle",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: unsplash-image-q8MDl6ca_2k.jpg | assets/2026-11-24_greek-newbuilding-investment-shapes-the-next-fleet-cycle_img_unsplash-image-q8mdl6ca-2k_eedccb1e6a45.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nGreek owners account for more than one in five newbuilding orders placed in 2026 across bulk carriers, tankers, containerships and gas carriers, with 455 contracts out of 2,200 worldwide. Their participation in this year's contracting exceeds their share of the outstanding orderbook across the three main conventional sectors. Greeks represent 16.4% of new bulker orders against 11.3% of the global bulker orderbook, 30.7% against 27.0% in tankers, and 14.5% against 12.6% in containers.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "lng",
+    "container",
+    "brazil",
+    "gas",
+    "greek",
+    "orderbook",
+    "fleet"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1318,
+  "source_path": "reports/breakwave/2026/2026-11-24_greek-newbuilding-investment-shapes-the-next-fleet-cycle.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/11/24/greek-newbuilding-investment-shapes-the-next-fleet-cycle",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-11-24_2026_11_24_greek_newbuilding_investment_shapes_the_next_fleet_cycle__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-11-24_2026_11_24_greek_newbuilding_investment_shapes_the_next_fleet_cycle",
+      "parent_id": "breakwave_insights_insights_2026-11-24_2026_11_24_greek_newbuilding_investment_shapes_the_next_fleet_cycle__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: unsplash-image-q8MDl6ca_2k.jpg | assets/2026-11-24_greek-newbuilding-investment-shapes-the-next-fleet-cycle_img_unsplash-image-q8mdl6ca-2k_eedccb1e6a45.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nGreek owners account for more than one in five newbuilding orders placed in 2026 across bulk carriers, tankers, containerships and gas carriers, with 455 contracts out of 2,200 worldwide. Their participation in this year's contracting exceeds their share of the outstanding orderbook across the three main conventional sectors.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "lng",
+        "container",
+        "brazil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 890,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-11-24_2026_11_24_greek_newbuilding_investment_shapes_the_next_fleet_cycle__s02_linked_asset_2026_11_24_greek_newbuilding_investment_shapes_the_next_fleet_cycle_img_unsplash_image_q8mdl6ca_2k_eedccb1e6a45_jpg",
+      "doc_id": "breakwave_insights_insights_2026-11-24_2026_11_24_greek_newbuilding_investment_shapes_the_next_fleet_cycle",
+      "parent_id": "breakwave_insights_insights_2026-11-24_2026_11_24_greek_newbuilding_investment_shapes_the_next_fleet_cycle__root",
+      "title": "Linked asset: 2026-11-24_greek-newbuilding-investment-shapes-the-next-fleet-cycle_img_unsplash-image-q8mdl6ca-2k_eedccb1e6a45.jpg",
+      "section_path": [
+        "Linked asset: 2026-11-24_greek-newbuilding-investment-shapes-the-next-fleet-cycle_img_unsplash-image-q8mdl6ca-2k_eedccb1e6a45.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-11-24_greek-newbuilding-investment-shapes-the-next-fleet-cycle_img_unsplash-image-q8mdl6ca-2k_eedccb1e6a45.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-11-24_greek-newbuilding-investment-shapes-the-next-fleet-cycle_img_unsplash-image-q8mdl6ca-2k_eedccb1e6a45.jpg\n\nLinked image asset: 2026-11-24_greek-newbuilding-investment-shapes-the-next-fleet-cycle_img_unsplash-image-q8mdl6ca-2k_eedccb1e6a45.jpg\n\nImage metadata: JPEG 2500x1660 mode=RGB\n\nOCR text:\nwee an :\not a 4\n- ae ne\nOG mn\n- - -- ~~\npr ae, Ad\n\\ a as Ass Se SSS & _ i\n4 5 ois oe ae. = x ~~» rn : : 5 a \" eect Si ous Po bem * ‘\n- vs => ; .",
+      "keywords": [
+        "asset",
+        "image",
+        "sss",
+        "ae.",
+        "ainiaieeemeazen",
+        "ass",
+        "bem",
+        "eect"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 381,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-11-24_2026_11_24_breakwave_dry_bulk_shipping_report_11_24_2026__root",
+  "doc_id": "hellenic_shipbuilding_2026-11-24_2026_11_24_breakwave_dry_bulk_shipping_report_11_24_2026",
+  "parent_id": null,
+  "title": "Breakwave Dry Bulk Shipping Report 11.24.2026",
+  "section_path": [
+    "Breakwave Dry Bulk Shipping Report 11.24.2026"
+  ],
+  "section_path_text": "Breakwave Dry Bulk Shipping Report 11.24.2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nCapesize Spot Rates Approaching $40,000 Once Again - As November draws to a close, Capesize spot rates remain historically elevated,\nSource: Breakwave Advisors\n\nLinked asset: 2026-11-24_breakwave-dry-bulk-shipping-report-11-24-2026_breakwavedrynovember242026report_32c3f8a82a6d.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-11-24_breakwave-dry-bulk-shipping-report-11-24-2026_breakwavedrynovember242026report_32c3f8a82a6d.pdf\n\n||Dry Bulk Shipping|||||||\n|---|---|---|---|---|---|---|---|\n||Bi-Weekly Industry Report||||||November 24, 2026|\n|•|Capesize Spot Rates Approaching $40,000 Once Again - to a close, Capesize spot rates remain|upper end of their recent range at roughly $40,000 per day despite subdued macroeconomic data and compressed steel margins that are gradually eroding iron|historically elevated|As November draws, hovering near the||Momentum: Sentiment:|Short-term Indicators Neutral Neutral|\n|ore demand. While|December has seasonal rate corrections|the recent compression in volatility alongside highly profitable charter levels underscores the underlying tightness in the dry bulk market. Looking ahead to next|, a pattern currently reflected in the forward freig",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel",
+    "funds"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1648,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-11-24_breakwave-dry-bulk-shipping-report-11-24-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-11-24-2026",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-11-24_2026_11_24_breakwave_dry_bulk_shipping_report_11_24_2026__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-11-24_2026_11_24_breakwave_dry_bulk_shipping_report_11_24_2026",
+      "parent_id": "hellenic_shipbuilding_2026-11-24_2026_11_24_breakwave_dry_bulk_shipping_report_11_24_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Capesize Spot Rates Approaching $40,000 Once Again - As November draws to a close, Capesize spot rates remain historically elevated,\nSource: Breakwave Advisors",
+      "keywords": [
+        "capesize",
+        "again",
+        "approaching",
+        "close",
+        "draws",
+        "elevated",
+        "historically",
+        "november"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 35,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-11-24_2026_11_24_breakwave_dry_bulk_shipping_report_11_24_2026__s02_linked_asset_2026_11_24_breakwave_dry_bulk_shipping_report_11_24_2026_breakwavedrynovember242026report_32c3f8a82a6d_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-11-24_2026_11_24_breakwave_dry_bulk_shipping_report_11_24_2026",
+      "parent_id": "hellenic_shipbuilding_2026-11-24_2026_11_24_breakwave_dry_bulk_shipping_report_11_24_2026__root",
+      "title": "Linked asset: 2026-11-24_breakwave-dry-bulk-shipping-report-11-24-2026_breakwavedrynovember242026report_32c3f8a82a6d.pdf",
+      "section_path": [
+        "Linked asset: 2026-11-24_breakwave-dry-bulk-shipping-report-11-24-2026_breakwavedrynovember242026report_32c3f8a82a6d.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-11-24_breakwave-dry-bulk-shipping-report-11-24-2026_breakwavedrynovember242026report_32c3f8a82a6d.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-11-24_breakwave-dry-bulk-shipping-report-11-24-2026_breakwavedrynovember242026report_32c3f8a82a6d.pdf\n\n||Dry Bulk Shipping|||||||\n|---|---|---|---|---|---|---|---|\n||Bi-Weekly Industry Report||||||November 24, 2026|\n|•|Capesize Spot Rates Approaching $40,000 Once Again - to a close, Capesize spot rates remain|upper end of their recent range at roughly $40,000 per day despite subdued macroeconomic data and compressed steel margins that are gradually eroding iron|historically elevated|As November draws, hovering near the||Momentum: Sentiment:|Short-term Indicators Neutral Neutral|\n|ore demand. While|December has seasonal rate corrections|the recent compression in volatility alongside highly profitable charter levels underscores the underlying tightness in the dry bulk market.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1562,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}
