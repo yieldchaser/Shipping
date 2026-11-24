@@ -3792,3 +3792,12 @@ issue_date,report_week,sector,vessel_class,metric,rate_usd_day,source_file
 2026-11-16,45,Tanker,VLCC,Average T/CE,521923.0,xclusiv_17_11_2026_xclusiv_shipbrokers_weekly_16th_november_2026
 2026-11-16,45,Tanker,Suezmax,Average T/CE,227213.0,xclusiv_17_11_2026_xclusiv_shipbrokers_weekly_16th_november_2026
 2026-11-16,45,Tanker,Aframax,Average T/CE,142605.0,xclusiv_17_11_2026_xclusiv_shipbrokers_weekly_16th_november_2026
+2026-11-23,47,Dry Bulk,Capesize,C5TC Average,37324.0,xclusiv_24_11_2026_xclusiv_shipbrokers_weekly_23rd_november_2026
+2026-11-23,47,Dry Bulk,Panamax,P5TC Average,19264.0,xclusiv_24_11_2026_xclusiv_shipbrokers_weekly_23rd_november_2026
+2026-11-23,47,Dry Bulk,Ultramax,S11TC Average,22884.0,xclusiv_24_11_2026_xclusiv_shipbrokers_weekly_23rd_november_2026
+2026-11-23,47,Dry Bulk,Supramax,10TC Average,20850.0,xclusiv_24_11_2026_xclusiv_shipbrokers_weekly_23rd_november_2026
+2026-11-23,47,Dry Bulk,Supramax,S3TC Average,21536.0,xclusiv_24_11_2026_xclusiv_shipbrokers_weekly_23rd_november_2026
+2026-11-23,47,Dry Bulk,Handysize,7TC Average,19296.0,xclusiv_24_11_2026_xclusiv_shipbrokers_weekly_23rd_november_2026
+2026-11-23,47,Tanker,VLCC,Average T/CE,543172.0,xclusiv_24_11_2026_xclusiv_shipbrokers_weekly_23rd_november_2026
+2026-11-23,47,Tanker,Suezmax,Average T/CE,251148.0,xclusiv_24_11_2026_xclusiv_shipbrokers_weekly_23rd_november_2026
+2026-11-23,47,Tanker,Aframax,Average T/CE,220088.0,xclusiv_24_11_2026_xclusiv_shipbrokers_weekly_23rd_november_2026
