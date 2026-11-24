@@ -1,25 +1,25 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-23",
   "tickers": {
     "BDRY": {
       "last_30d_net": -271000.0,
       "zscore": 0.02,
       "regime": "BALANCED",
       "pressure": -9.0,
-      "latest_nav": 12.33,
+      "latest_nav": 12.77,
       "flow_5d": -955000.0,
-      "flow_20d": -271000.0,
-      "latest_date": "2026-11-20"
+      "flow_20d": 38000.0,
+      "latest_date": "2026-11-23"
     },
     "BWET": {
       "last_30d_net": -127211000.0,
       "zscore": 0.43,
       "regime": "BALANCED",
       "pressure": 21.0,
-      "latest_nav": 733.59,
-      "flow_5d": 9729000.0,
-      "flow_20d": -34431000.0,
-      "latest_date": "2026-11-20"
+      "latest_nav": 762.23,
+      "flow_5d": 12910000.0,
+      "flow_20d": -48382000.0,
+      "latest_date": "2026-11-23"
     }
   },
   "cross_etf": {
@@ -20054,8 +20054,12 @@
       "close": 3.411
     },
     {
+      "date": "2026-11-23",
+      "close": 3.184
+    },
+    {
       "date": "2026-11-24",
-      "close": 3.543
+      "close": 3.681
     }
   ]
 }
