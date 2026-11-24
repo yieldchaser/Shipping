@@ -1,0 +1,25 @@
+{
+  "issue_date": "2026-11-23",
+  "year": 2026,
+  "title": "Barrels Without Borders",
+  "source_file": "corpus/04-poten/pdfs/2026/Weekly Opinion - 23 November 2026 - Barrels Without Borders.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2026-11-23_barrels-without-borders_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2026/poten_2026-11-23_barrels-without-borders_chart1.png",
+      "abs_path": "/home/runner/work/Shipping/Shipping/data/extracted/charts/poten/2026/poten_2026-11-23_barrels-without-borders_chart1.png",
+      "width": 963,
+      "height": 569
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}
