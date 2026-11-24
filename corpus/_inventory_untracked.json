@@ -17,8 +17,8 @@
     },
     {
       "path": "corpus/04-poten",
-      "untracked_files": 1087,
-      "untracked_bytes": 291144179
+      "untracked_files": 1085,
+      "untracked_bytes": 290831542
     },
     {
       "path": "corpus/05-seabrokers",
@@ -35273,11 +35273,6 @@
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
     },
     {
-      "path": "corpus/04-poten/2026/poten_2026-11-23_barrels_without_borders.md",
-      "bytes": 2542,
-      "sha256": "3dc136688a15ace6f67bea79fe6bf3c23b0a3be66ac7cf7ab131939f86adc2f8"
-    },
-    {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
       "bytes": 101160,
       "sha256": "e5b57740021416658f4dc257269af8015b08548688b7282c7e12db11fd5c3e99"
@@ -40621,11 +40616,6 @@
       "path": "corpus/04-poten/pdfs/2026/Weekly Opinion - 23 January 2026 - A Fools Game.pdf",
       "bytes": 246859,
       "sha256": "f02bbd79a9c0d83096781447bf4e02337b7d11c86c92afd988441641ee8c1647"
-    },
-    {
-      "path": "corpus/04-poten/pdfs/2026/Weekly Opinion - 23 November 2026 - Barrels Without Borders.pdf",
-      "bytes": 310095,
-      "sha256": "0efcd8c02792c56e1da421467de5f5d03c19605cf5649c22a7c77b838695fcd8"
     },
     {
       "path": "corpus/04-poten/pdfs/2026/Weekly Opinion - 24 April 2026 - OPEC At A Crossroads.pdf",
