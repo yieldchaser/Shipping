@@ -601806,3 +601806,7 @@ id,date,charterer,owner,vessel,imo,rate,period,route,segment,department,commodit
 899469,2026-11-25,Niavigrains,,,,,,,Panamax,BULK,General Cargo,,,,
 899470,2026-11-25,Niavigrains,,,,,,,Panamax,BULK,General Cargo,,,,
 899471,2026-11-25,Grain Compass,,,,,,,Panamax,BULK,Grains,,,,GEARED/GRABBED; ABT 65-75 DAYS WOG
+899472,2026-11-25,,,SAMUDRA SAKTI I,,,,,Handysize,BULK,Bulk Carrier,,,,Vessel is trading within Indonesian waters
+899473,2026-11-25,,,,,,,,Panamax,BULK,Wheat,,,,SF 46
+899474,2026-11-25,Classic,,,,,,,Panamax,BULK,Grains,,,,<scrubber for Charterer
+899475,2026-11-25,Chabe,,,,,,,Panamax,BULK,Fine Manganese Ore,,,,gencon; quickly subs
