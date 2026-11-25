@@ -6,9 +6,9 @@ categories:
 - tanker
 - tanker_charter
 - tankers
-document_count: 82
+document_count: 83
 evidence_count: 250
-generated_at: '2026-11-25T19:31:11Z'
+generated_at: '2026-11-25T20:05:06Z'
 latest_evidence_date: '2026-11-25'
 page_type: topic_wiki
 related_topics:
@@ -24,7 +24,7 @@ topic_id: tanker_market
 ---
 
 ## Summary
-Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 82 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-11-25, with the strongest recurring markers being crude, products, china, tanker, vlcc. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers.
+Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 83 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-11-25, with the strongest recurring markers being crude, products, china, tanker, vlcc. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers.
 
 ## Why It Matters
 Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight.
@@ -45,20 +45,20 @@ Crude and product tanker conditions across benchmark routes, supply-demand balan
 - Recurring evidence markers: crude, products, china, tanker, vlcc, crude_oil
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 170, hellenic: 56, baltic: 20, breakwave: 4
-- Category coverage: insights: 170, demolition: 35, tanker: 20, shipbuilding: 13, tanker_charter: 8, tankers: 4
-- Tone distribution: constructive: 124, cautiously_bearish: 70, neutral: 56
+- Source coverage: breakwave_insights: 168, hellenic: 58, baltic: 20, breakwave: 4
+- Category coverage: insights: 168, demolition: 35, tanker: 20, shipbuilding: 13, tanker_charter: 10, tankers: 4
+- Tone distribution: constructive: 122, cautiously_bearish: 70, neutral: 58
 - Related topics: vlcc_and_suezmax, oil_and_opec
 
 ## Key Documents
 - 2026-11-25 | Good Times Bad Times: The Premium Stays with the Strait [doc_id: breakwave_insights_insights_2026-11-25_2026_11_25_good_times_bad_times_the_premium_stays_with_the_strait | section_id: breakwave_insights_insights_2026-11-25_2026_11_25_good_times_bad_times_the_premium_stays_with_the_strait__s01_main | pages n/a]
+- 2026-11-25 | Weekly Tanker Time Charter Estimates, November 25 2026 [doc_id: hellenic_tanker_charter_2026-11-25_2026_11_25_weekly_tanker_time_charter_estimates_november_25_2026 | section_id: hellenic_tanker_charter_2026-11-25_2026_11_25_weekly_tanker_time_charter_estimates_november_25_2026__s02_linked_asset_2026_11_25_weekly_tanker_time_charter_estimates_november_25_2026_alibra_tanker_2026_6dc5cbffd4b4_jpg | pages n/a]
 - 2026-11-25 | China crude demand return on high fuel exports, what's next? [doc_id: breakwave_insights_insights_2026-11-25_2026_11_25_china_crude_demand_return_on_high_fuel_exports_whats_next | section_id: breakwave_insights_insights_2026-11-25_2026_11_25_china_crude_demand_return_on_high_fuel_exports_whats_next__s02_a_subtle_rebalancing_between_brics_and_opec | pages n/a]
 - 2026-11-24 | Greek Newbuilding Investment Shapes the Next Fleet Cycle [doc_id: breakwave_insights_insights_2026-11-24_2026_11_24_greek_newbuilding_investment_shapes_the_next_fleet_cycle | section_id: breakwave_insights_insights_2026-11-24_2026_11_24_greek_newbuilding_investment_shapes_the_next_fleet_cycle__s01_main | pages n/a]
 - 2026-11-24 | Breakwave Bi-Weekly Dry Bulk Report - November 24, 2026 [doc_id: breakwave_insights_insights_2026-11-24_2026_11_24_11242026db_report11ki887j | section_id: breakwave_insights_insights_2026-11-24_2026_11_24_11242026db_report11ki887j__s01_main | pages n/a]
 - 2026-11-24 | Breakwave Dry Bulk Shipping Report 11.24.2026 [doc_id: hellenic_shipbuilding_2026-11-24_2026_11_24_breakwave_dry_bulk_shipping_report_11_24_2026 | section_id: hellenic_shipbuilding_2026-11-24_2026_11_24_breakwave_dry_bulk_shipping_report_11_24_2026__s02_linked_asset_2026_11_24_breakwave_dry_bulk_shipping_report_11_24_2026_breakwavedrynovember242026report_32c3f8a82a6d_pdf | pages n/a]
 - 2026-11-24 | Athenian Shipbrokers S.A. DEMOLITION QUICK UPDATE Week 47, 2026 [doc_id: hellenic_demolition_2026-11-24_2026_11_24_athenian_shipbrokers_s_a_demolition_quick_update_week_47_2026 | section_id: hellenic_demolition_2026-11-24_2026_11_24_athenian_shipbrokers_s_a_demolition_quick_update_week_47_2026__s02_linked_asset_2026_11_24_athenian_shipbrokers_s_a_demolition_quick_update_week_47_2026_week_47_athenian_demolition_report_2_b584c36f337d_pdf | pages n/a]
 - 2026-11-23 | Is the Northern Sea Route Becoming More Relevant for Bulk Shipping [doc_id: breakwave_insights_insights_2026-11-23_2026_11_23_is_the_northern_sea_route_becoming_more_relevant_for_bulk_shipping | section_id: breakwave_insights_insights_2026-11-23_2026_11_23_is_the_northern_sea_route_becoming_more_relevant_for_bulk_shipping__s01_main | pages n/a]
-- 2026-11-23 | Less Grain Exports Still Expected [doc_id: breakwave_insights_insights_2026-11-23_2026_11_23_less_grain_exports_still_expected | section_id: breakwave_insights_insights_2026-11-23_2026_11_23_less_grain_exports_still_expected__s01_main | pages n/a]
 
 ## Related Topics
 - vlcc_and_suezmax

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T19:35:40Z",
+  "generated_at": "2026-11-25T20:08:45Z",
   "current_date": "2026-11-25",
   "warning_count": 7,
   "high_severity_count": 2,
@@ -48,7 +48,7 @@
             "avg_tone_score": 0.17,
             "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-11-24"
+            "latest_date": "2026-11-25"
           },
           {
             "source": "breakwave_insights",
@@ -96,7 +96,7 @@
             "avg_tone_score": -0.08,
             "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-11-18"
+            "latest_date": "2026-11-25"
           },
           {
             "source": "breakwave_insights",
@@ -211,7 +211,7 @@
             "avg_tone_score": -0.08,
             "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-11-18"
+            "latest_date": "2026-11-25"
           },
           {
             "source": "breakwave_insights",

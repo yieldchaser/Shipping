@@ -7,7 +7,7 @@ categories:
 - iron_ore
 document_count: 97
 evidence_count: 250
-generated_at: '2026-11-25T19:31:11Z'
+generated_at: '2026-11-25T20:05:06Z'
 latest_evidence_date: '2026-11-25'
 page_type: topic_wiki
 related_topics:
@@ -39,25 +39,25 @@ China-driven steel and iron ore demand, port inventories, import trends, and the
 - 2026-11-25 | breakwave_insights insights | Linked asset: 2026-11-25_china-crude-demand-return-on-high-fuel-exports-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2d7dc98d58ad.png: Source asset: reports/breakwave/2026/assets/2026-11-25_china-crude-demand-return-on-high-fuel-exports-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2d7dc98d58ad.png Linked image asset: 2026-11-25_china-crude-demand-return-on-high-fuel-exports-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2d7dc98d58ad.png Image metadata: PNG 752x420 mode=RGBA Embedded info: dpi: (119.9896, 119.9896) OCR text: 900 Russia excludes Kazakh grades (CPC Blend and KEBCO) 0 -1000 Post-war covers dates from 1 Mar 2026 to 15 Nov 2026; pre-war covers the same period a year earlier Middle East (exc ran Russia Brazi Africa Others Crude exports to China by origin, post-war vs year-ago (kbd) [doc_id: breakwave_insights_insights_2026-11-25_2026_11_25_china_crude_demand_return_on_high_fuel_exports_whats_next | section_id: breakwave_insights_insights_2026-11-25_2026_11_25_china_crude_demand_return_on_high_fuel_exports_whats_next__s05_linked_asset_2026_11_25_china_crude_demand_return_on_high_fuel_exports_whats_next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2d7dc98d58ad_png | pages n/a]
 
 ## Historical Patterns
-- Coverage span: 2026-10-12 to 2026-11-25 across 1 calendar years.
+- Coverage span: 2026-10-13 to 2026-11-25 across 1 calendar years.
 - Most-covered years: 2026: 250
 - Recurring evidence markers: china, steel, iron ore, iron_ore, brazil, capesize
 
 ## Cross-Source View
 - Source coverage: breakwave_insights: 121, hellenic: 102, baltic: 19, breakwave: 8
-- Category coverage: insights: 121, iron_ore: 96, dry: 19, drybulk: 8, dry_charter: 6
-- Tone distribution: constructive: 180, cautiously_bearish: 43, neutral: 27
+- Category coverage: insights: 121, iron_ore: 95, dry: 19, drybulk: 8, dry_charter: 7
+- Tone distribution: constructive: 179, cautiously_bearish: 43, neutral: 28
 - Related topics: dry_bulk_market, capesize
 
 ## Key Documents
 - 2026-11-25 | MMI Daily Iron Ore Index Report November 25 2026 [doc_id: hellenic_iron_ore_2026-11-25_2026_11_25_mmi_daily_iron_ore_index_report_november_25_2026 | section_id: hellenic_iron_ore_2026-11-25_2026_11_25_mmi_daily_iron_ore_index_report_november_25_2026__s03_linked_asset_2026_11_25_mmi_daily_iron_ore_index_report_november_25_2026_mmi_daily_iron_ore_report_for_25th_n_94b719fe906f_pdf | pages n/a]
 - 2026-11-25 | China crude demand return on high fuel exports, what's next? [doc_id: breakwave_insights_insights_2026-11-25_2026_11_25_china_crude_demand_return_on_high_fuel_exports_whats_next | section_id: breakwave_insights_insights_2026-11-25_2026_11_25_china_crude_demand_return_on_high_fuel_exports_whats_next__s04_linked_asset_2026_11_25_china_crude_demand_return_on_high_fuel_exports_whats_next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_817fcbea5139_png | pages n/a]
+- 2026-11-25 | Weekly Dry Time Charter Estimates, November 25 2026 [doc_id: hellenic_dry_charter_2026-11-25_2026_11_25_weekly_dry_time_charter_estimates_november_25_2026 | section_id: hellenic_dry_charter_2026-11-25_2026_11_25_weekly_dry_time_charter_estimates_november_25_2026__s02_linked_asset_2026_11_25_weekly_dry_time_charter_estimates_november_25_2026_alibra_dry_bulk_2026_cf9d4847d744_jpg | pages n/a]
 - 2026-11-25 | Good Times Bad Times: The Premium Stays with the Strait [doc_id: breakwave_insights_insights_2026-11-25_2026_11_25_good_times_bad_times_the_premium_stays_with_the_strait | section_id: breakwave_insights_insights_2026-11-25_2026_11_25_good_times_bad_times_the_premium_stays_with_the_strait__s09_linked_asset_2026_11_25_good_times_bad_times_the_premium_stays_with_the_strait_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66ac19b1e01f_png | pages n/a]
 - 2026-11-24 | Dry Bulk Shipping - November 24, 2026 [doc_id: breakwave_drybulk_2026-11-24 | section_id: breakwave_drybulk_2026-11-24__s02_fundamentals | pages 2-2]
 - 2026-11-24 | Breakwave Bi-Weekly Dry Bulk Report - November 24, 2026 [doc_id: breakwave_insights_insights_2026-11-24_2026_11_24_11242026db_report11ki887j | section_id: breakwave_insights_insights_2026-11-24_2026_11_24_11242026db_report11ki887j__s04_linked_asset_2026_11_24_11242026db_report11ki887j_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c2b573608ba_png | pages n/a]
 - 2026-11-24 | MMI Daily Iron Ore Index Report November 24 2026 [doc_id: hellenic_iron_ore_2026-11-24_2026_11_24_mmi_daily_iron_ore_index_report_november_24_2026 | section_id: hellenic_iron_ore_2026-11-24_2026_11_24_mmi_daily_iron_ore_index_report_november_24_2026__s03_linked_asset_2026_11_24_mmi_daily_iron_ore_index_report_november_24_2026_mmi_daily_iron_ore_report_for_24th_n_5d3e53947784_pdf | pages n/a]
 - 2026-11-24 | Greek Newbuilding Investment Shapes the Next Fleet Cycle [doc_id: breakwave_insights_insights_2026-11-24_2026_11_24_greek_newbuilding_investment_shapes_the_next_fleet_cycle | section_id: breakwave_insights_insights_2026-11-24_2026_11_24_greek_newbuilding_investment_shapes_the_next_fleet_cycle__s01_main | pages n/a]
-- 2026-11-23 | MMI Daily Iron Ore Index Report November 23 2026 [doc_id: hellenic_iron_ore_2026-11-23_2026_11_23_mmi_daily_iron_ore_index_report_november_23_2026 | section_id: hellenic_iron_ore_2026-11-23_2026_11_23_mmi_daily_iron_ore_index_report_november_23_2026__s03_linked_asset_2026_11_23_mmi_daily_iron_ore_index_report_november_23_2026_mmi_daily_iron_ore_report_for_23th_n_deece82d75ed_pdf | pages n/a]
 
 ## Related Topics
 - dry_bulk_market
