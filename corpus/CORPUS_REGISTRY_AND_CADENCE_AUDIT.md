@@ -297,7 +297,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Publication Cadence:** Weekly (Wednesday-Friday) (Expected day: Friday)
 - **Coverage Span:** `2018-09-16` to `2026-11-20`
 - **Latest Ingested Document:** `2026-11-20_snp_4a7c7fcd.md` (Status: **CURRENT (5d)**)
-- **Sample Ingested Report (Corpus):** [`2026-09-30_vlcc_weekly_comment.md`](../corpus/01-brokers/fearnleys/voice/vlcc/2026/2026-09-30_vlcc_weekly_comment.md)
+- **Sample Ingested Report (Corpus):** [`2026-11-18_vlcc_b16aaa20.md`](../corpus/01-brokers/fearnleys/voice/vlcc/2026/2026-11-18_vlcc_b16aaa20.md)
 - **Sample Extracted Markdown (Digest):** N/A
 - **Raw Corpus Inventory:** 4,810 Native Markdown files
 - **Extracted Markdown Dossiers:** 4,820 Markdown files
@@ -440,7 +440,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/hellenic/demolition`](../data/extracted/md/hellenic/demolition)
 - **Publication Cadence:** Weekly (Saturday/Sunday) (Expected day: Saturday)
 - **Coverage Span:** `2021-07-02` to `2026-11-24`
-- **Latest Ingested Document:** `2026-11-24_athenian-shipbrokers-s-a-demolition-quick-update-week-47-2026.html` (Status: **CURRENT (1d)**)
+- **Latest Ingested Document:** `2026-11-24_athenian-shipbrokers-s-a-demolition-quic_Week_47_Athenian_Demolition_Report_2026.pdf` (Status: **CURRENT (1d)**)
 - **Sample Ingested Report (Corpus):** [`2026-11-24_athenian-shipbrokers-s-a-demolition-quick-update-week-47-2026.html`](../corpus/02-hellenic/demolition/2026/2026-11-24_athenian-shipbrokers-s-a-demolition-quick-update-week-47-2026.html)
 - **Sample Extracted Markdown (Digest):** [`gms_2026-11-20_week-47_the-tide-of-second-thoughts.md`](../data/extracted/md/hellenic/demolition/gms/2026/gms_2026-11-20_week-47_the-tide-of-second-thoughts.md)
 - **Raw Corpus Inventory:** 1,976 PDFs, 831 HTML files, 1,218 Images
@@ -488,7 +488,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/clarksons`](../data/extracted/md/clarksons)
 - **Publication Cadence:** Weekly (Friday) (Expected day: Friday)
 - **Coverage Span:** `2021-07-02` to `2026-11-20`
-- **Latest Ingested Document:** `2026-11-20_clarksons-hellas-snp-weekly-19.html` (Status: **SUPERSEDED (new issues arrive via corpus/01-brokers/clarksons (since 2026-08; last issue on this channel 2026-07-31))**)
+- **Latest Ingested Document:** `2026-11-20_clarksons-hellas-snp-weekly-19_weekly-sales-20th-november-2026_1b911ac9b386.pdf` (Status: **SUPERSEDED (new issues arrive via corpus/01-brokers/clarksons (since 2026-08; last issue on this channel 2026-07-31))**)
 - **Sample Ingested Report (Corpus):** [`2026-11-24_breakwave-dry-bulk-shipping-report-11-24-2026.html`](../corpus/02-hellenic/shipbuilding/2026/2026-11-24_breakwave-dry-bulk-shipping-report-11-24-2026.html)
 - **Sample Extracted Markdown (Digest):** [`clarksons_23_10_2026_clarksons_hellas_snp_weekly.md`](../data/extracted/md/clarksons/2026/clarksons_23_10_2026_clarksons_hellas_snp_weekly.md)
 - **Raw Corpus Inventory:** 1,054 PDFs, 402 HTML files, 180 Images
@@ -655,7 +655,7 @@ Drewry AIS reports are organized into 10 distinct vessel sectors, each with dedi
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/baltic`](../data/extracted/md/baltic)
 - **Publication Cadence:** Weekly (Friday) (Expected day: Friday)
 - **Coverage Span:** `2015-01-09` to `2026-11-20`
-- **Latest Ingested Document:** `2026-11-20_W47_bulk-report-week-47_dry.html` (Status: **CURRENT (5d)**)
+- **Latest Ingested Document:** `2026-11-20_ningbo-containerised-freight-index-20112_ningbo.html` (Status: **CURRENT (5d)**)
 - **Sample Ingested Report (Corpus):** [`2026_tanker-report-week-9_tanker.html`](../corpus/08-baltic/tanker/2026/2026_tanker-report-week-9_tanker.html)
 - **Sample Extracted Markdown (Digest):** [`2026_tanker-report-week-9_tanker.md`](../data/extracted/md/baltic/tanker/2026/2026_tanker-report-week-9_tanker.md)
 - **Raw Corpus Inventory:** 3,084 HTML files, 2,264 Native Markdown files
