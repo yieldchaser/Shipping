@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2979,
-      "untracked_bytes": 2297490120
+      "untracked_files": 2984,
+      "untracked_bytes": 2299849238
     },
     {
       "path": "corpus/02-hellenic",
@@ -47,6 +47,21 @@
     }
   ],
   "entries": [
+    {
+      "path": "corpus/01-brokers/_digests/banchero_costa/2026/banchero_costa_25_11_2026_banchero_costa_weekly_market_report_week_47_2026.md",
+      "bytes": 58532,
+      "sha256": "2ba7adeb418fa695f1a6ad1d0e888f2f7559606b87bf5e34bbdd915f2d81b99c"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/carriers/2026/carriers_24_11_2026_carriers_sales_purchase_market_report_week_47.md",
+      "bytes": 8215,
+      "sha256": "35d59113a2aae7683cb02f6b0c6fbd0257e773768dc130342a27cd5cb71628a9"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/intermodal/2026/intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.md",
+      "bytes": 25163,
+      "sha256": "34b806a4ddfd296cb648937aef9990a9630978a81d6baa1f33cf59c3494e00d1"
+    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -4928,6 +4943,11 @@
       "sha256": "9a74ca876decbce3ddf24b3c93750fcce021120acf744cee31cb6c40ec30fcf0"
     },
     {
+      "path": "corpus/01-brokers/banchero_costa/2026/banchero_costa_25_11_2026_banchero_costa_weekly_market_report_week_47_2026.pdf",
+      "bytes": 1044156,
+      "sha256": "f7430be5ec0195c0c65ef2d326be942b46fa92b827935ad058c6b9a723d34734"
+    },
+    {
       "path": "corpus/01-brokers/banchero_costa/2026/bancosta_30_09_2026_banchero_costa_weekly_market_report_week_39_2026.pdf",
       "bytes": 993374,
       "sha256": "0dbbac20e4046b218997739ca53aab2378103d23210e2626f5042fe7f1501fd9"
@@ -9116,6 +9136,11 @@
       "path": "corpus/01-brokers/intermodal/2026/intermodal_23_09_2026_intermodal_weekly_market_report_week_38_2026_broker_s_insi.pdf",
       "bytes": 1165846,
       "sha256": "e3842d0293c58098ef9a5ef5ecf03bb746acee0e6f9bd8adf32c69ff83566aec"
+    },
+    {
+      "path": "corpus/01-brokers/intermodal/2026/intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.pdf",
+      "bytes": 1223052,
+      "sha256": "1d7089fbbbf02993f954dd4cb508c99de23002618e67587c49414b95c7eacad5"
     },
     {
       "path": "corpus/01-brokers/intermodal/2026/intermodal_30_09_2026_intermodal_weekly_market_report_week_39_2026_broker_s_insi.pdf",

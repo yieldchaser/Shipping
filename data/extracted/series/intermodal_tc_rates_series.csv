@@ -5372,3 +5372,23 @@ issue_date,report_week,sector,vessel_class,tenor,rate_usd_day_current,rate_usd_d
 2026-11-17,46,Dry Bulk,Supramax 58K,3YR TC,15000.0,15000.0,0.0%,0.0,12327.0,12692.0,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
 2026-11-17,46,Dry Bulk,Handysize 32K,1YR TC,13750.0,13750.0,0.0%,0.0,10543.0,12385.0,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
 2026-11-17,46,Dry Bulk,Handysize 32K,3YR TC,12000.0,12000.0,0.0%,0.0,10394.0,9740.0,intermodal_18_11_2026_intermodal_weekly_market_report_week_46_2026_broker_s_insi.pdf
+2026-11-24,47,Tanker,VLCC 300k,1YR TC,250000.0,-2.0,-5000,50615.0,50365.0,,intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.pdf
+2026-11-24,47,Tanker,VLCC 300k,3YR TC,107500.0,0.0,0,44931.0,47339.0,,intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.pdf
+2026-11-24,47,Tanker,Suezmax 150k,1YR TC,135000.0,-8.5,-12500,38144.0,45394.0,,intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.pdf
+2026-11-24,47,Tanker,Suezmax 150k,3YR TC,77000.0,0.0,0,33479.0,38412.0,,intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.pdf
+2026-11-24,47,Tanker,Aframax 110k,1YR TC,80000.0,-11.1,-10000,33870.0,45168.0,,intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.pdf
+2026-11-24,47,Tanker,Aframax 110k,3YR TC,50000.0,-5.7,-3000,29763.0,39748.0,,intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.pdf
+2026-11-24,47,Tanker,Panamax 75k,1YR TC,62000.0,-6.4,-4250,25226.0,37750.0,,intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.pdf
+2026-11-24,47,Tanker,Panamax 75k,3YR TC,39500.0,0.0,0,21258.0,31787.0,,intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.pdf
+2026-11-24,47,Tanker,MR 52k,1YR TC,39500.0,-9.2,-4000,21909.0,30764.0,,intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.pdf
+2026-11-24,47,Tanker,MR 52k,3YR TC,27250.0,-2.7,-750,19782.0,26402.0,,intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.pdf
+2026-11-24,47,Tanker,Handy 36k,1YR TC,32500.0,-1.5,-500,18519.0,26606.0,,intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.pdf
+2026-11-24,47,Tanker,Handy 36k,3YR TC,20000.0,0.0,0,16902.0,19993.0,,intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.pdf
+2026-11-24,47,Dry Bulk,Capesize 180K,1YR TC,38000.0,39500.0,-3.8%,-1500.0,25238.0,27014.0,intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.pdf
+2026-11-24,47,Dry Bulk,Capesize 180K,3YR TC,27250.0,28750.0,-5.2%,-1500.0,21438.0,22572.0,intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.pdf
+2026-11-24,47,Dry Bulk,Panamax 76K,1YR TC,17000.0,17000.0,0.0%,0.0,13226.0,15024.0,intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.pdf
+2026-11-24,47,Dry Bulk,Panamax 76K,3YR TC,14500.0,14500.0,0.0%,0.0,11048.0,12567.0,intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.pdf
+2026-11-24,47,Dry Bulk,Supramax 58K,1YR TC,18500.0,18500.0,0.0%,0.0,12798.0,15529.0,intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.pdf
+2026-11-24,47,Dry Bulk,Supramax 58K,3YR TC,15000.0,15000.0,0.0%,0.0,12327.0,12692.0,intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.pdf
+2026-11-24,47,Dry Bulk,Handysize 32K,1YR TC,13750.0,13750.0,0.0%,0.0,10543.0,12385.0,intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.pdf
+2026-11-24,47,Dry Bulk,Handysize 32K,3YR TC,12000.0,12000.0,0.0%,0.0,10394.0,9740.0,intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.pdf

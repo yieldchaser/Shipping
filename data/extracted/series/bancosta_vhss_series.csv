@@ -671,3 +671,10 @@ issue_date,report_week,segment,unit,value_current,value_previous,pct_change_wow,
 2026-11-09,46,"2500 teu (1Y, geared)",usd/day,40166.0,39998.0,+0.4%,+18.0%,corpus/01-brokers/banchero_costa/2026/banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
 2026-11-09,46,"1700 teu (1Y, geared)",usd/day,36107.0,36023.0,+0.2%,+37.2%,corpus/01-brokers/banchero_costa/2026/banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
 2026-11-09,46,"1100 teu (1Y, geared)",usd/day,17780.0,17818.0,-0.2%,+8.3%,corpus/01-brokers/banchero_costa/2026/banchero_costa_18_11_2026_banchero_costa_weekly_market_report_week_46_2026.pdf
+2026-11-16,47,ConTex,index,1692.0,1691.0,+0.1%,+13.0%,corpus/01-brokers/banchero_costa/2026/banchero_costa_25_11_2026_banchero_costa_weekly_market_report_week_47_2026.pdf
+2026-11-16,47,"4250 teu (1Y, g’less)",usd/day,60090.0,60068.0,+0.0%,+18.3%,corpus/01-brokers/banchero_costa/2026/banchero_costa_25_11_2026_banchero_costa_weekly_market_report_week_47_2026.pdf
+2026-11-16,47,"3500 teu (1Y, g’less)",usd/day,47225.0,47193.0,+0.1%,+12.4%,corpus/01-brokers/banchero_costa/2026/banchero_costa_25_11_2026_banchero_costa_weekly_market_report_week_47_2026.pdf
+2026-11-16,47,"2700 teu (1Y, g’less)",usd/day,43450.0,43391.0,+0.1%,+22.0%,corpus/01-brokers/banchero_costa/2026/banchero_costa_25_11_2026_banchero_costa_weekly_market_report_week_47_2026.pdf
+2026-11-16,47,"2500 teu (1Y, geared)",usd/day,40205.0,40166.0,+0.1%,+18.6%,corpus/01-brokers/banchero_costa/2026/banchero_costa_25_11_2026_banchero_costa_weekly_market_report_week_47_2026.pdf
+2026-11-16,47,"1700 teu (1Y, geared)",usd/day,36155.0,36107.0,+0.1%,+37.0%,corpus/01-brokers/banchero_costa/2026/banchero_costa_25_11_2026_banchero_costa_weekly_market_report_week_47_2026.pdf
+2026-11-16,47,"1100 teu (1Y, geared)",usd/day,17723.0,17780.0,-0.3%,+8.5%,corpus/01-brokers/banchero_costa/2026/banchero_costa_25_11_2026_banchero_costa_weekly_market_report_week_47_2026.pdf
