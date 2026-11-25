@@ -1,26 +1,6 @@
 [
   {
     "as_of_date":"2026-11-25",
-    "port":"Hong Kong",
-    "month_offset":1,
-    "contract_month":"2026-12",
-    "ifo380_usd":656.61,
-    "vlsfo_usd":762.82,
-    "mgo_usd":1063.3,
-    "source":"BunkerIndex_Forward"
-  },
-  {
-    "as_of_date":"2026-11-25",
-    "port":"Kaohsiung",
-    "month_offset":1,
-    "contract_month":"2026-12",
-    "ifo380_usd":767.65,
-    "vlsfo_usd":820.76,
-    "mgo_usd":1181.89,
-    "source":"BunkerIndex_Forward"
-  },
-  {
-    "as_of_date":"2026-11-25",
     "port":"Rotterdam",
     "month_offset":1,
     "contract_month":"2026-12",
@@ -57,6 +37,26 @@
     "ifo380_usd":557.63,
     "vlsfo_usd":807.72,
     "mgo_usd":1115.44,
+    "source":"BunkerIndex_Forward"
+  },
+  {
+    "as_of_date":"2026-11-25",
+    "port":"Hong Kong",
+    "month_offset":1,
+    "contract_month":"2026-12",
+    "ifo380_usd":656.61,
+    "vlsfo_usd":762.82,
+    "mgo_usd":1063.3,
+    "source":"BunkerIndex_Forward"
+  },
+  {
+    "as_of_date":"2026-11-25",
+    "port":"Kaohsiung",
+    "month_offset":1,
+    "contract_month":"2026-12",
+    "ifo380_usd":767.65,
+    "vlsfo_usd":820.76,
+    "mgo_usd":1181.89,
     "source":"BunkerIndex_Forward"
   },
   {
@@ -121,6 +121,26 @@
   },
   {
     "as_of_date":"2026-11-25",
+    "port":"Hong Kong",
+    "month_offset":3,
+    "contract_month":"2027-02",
+    "ifo380_usd":616.96,
+    "vlsfo_usd":716.77,
+    "mgo_usd":1005.68,
+    "source":"BunkerIndex_Forward"
+  },
+  {
+    "as_of_date":"2026-11-25",
+    "port":"Kaohsiung",
+    "month_offset":3,
+    "contract_month":"2027-02",
+    "ifo380_usd":721.3,
+    "vlsfo_usd":771.21,
+    "mgo_usd":1117.85,
+    "source":"BunkerIndex_Forward"
+  },
+  {
+    "as_of_date":"2026-11-25",
     "port":"Rotterdam",
     "month_offset":3,
     "contract_month":"2027-02",
@@ -161,46 +181,6 @@
   },
   {
     "as_of_date":"2026-11-25",
-    "port":"Hong Kong",
-    "month_offset":3,
-    "contract_month":"2027-02",
-    "ifo380_usd":616.96,
-    "vlsfo_usd":716.77,
-    "mgo_usd":1005.68,
-    "source":"BunkerIndex_Forward"
-  },
-  {
-    "as_of_date":"2026-11-25",
-    "port":"Kaohsiung",
-    "month_offset":3,
-    "contract_month":"2027-02",
-    "ifo380_usd":721.3,
-    "vlsfo_usd":771.21,
-    "mgo_usd":1117.85,
-    "source":"BunkerIndex_Forward"
-  },
-  {
-    "as_of_date":"2026-11-25",
-    "port":"Kaohsiung",
-    "month_offset":4,
-    "contract_month":"2027-03",
-    "ifo380_usd":702.94,
-    "vlsfo_usd":751.57,
-    "mgo_usd":1091.84,
-    "source":"BunkerIndex_Forward"
-  },
-  {
-    "as_of_date":"2026-11-25",
-    "port":"Rotterdam",
-    "month_offset":4,
-    "contract_month":"2027-03",
-    "ifo380_usd":467.74,
-    "vlsfo_usd":592.41,
-    "mgo_usd":1019.12,
-    "source":"BunkerIndex_Forward"
-  },
-  {
-    "as_of_date":"2026-11-25",
     "port":"Fujairah",
     "month_offset":4,
     "contract_month":"2027-03",
@@ -237,6 +217,36 @@
     "ifo380_usd":601.26,
     "vlsfo_usd":698.52,
     "mgo_usd":982.28,
+    "source":"BunkerIndex_Forward"
+  },
+  {
+    "as_of_date":"2026-11-25",
+    "port":"Kaohsiung",
+    "month_offset":4,
+    "contract_month":"2027-03",
+    "ifo380_usd":702.94,
+    "vlsfo_usd":751.57,
+    "mgo_usd":1091.84,
+    "source":"BunkerIndex_Forward"
+  },
+  {
+    "as_of_date":"2026-11-25",
+    "port":"Rotterdam",
+    "month_offset":4,
+    "contract_month":"2027-03",
+    "ifo380_usd":467.74,
+    "vlsfo_usd":592.41,
+    "mgo_usd":1019.12,
+    "source":"BunkerIndex_Forward"
+  },
+  {
+    "as_of_date":"2026-11-25",
+    "port":"Kaohsiung",
+    "month_offset":5,
+    "contract_month":"2027-04",
+    "ifo380_usd":688.55,
+    "vlsfo_usd":736.19,
+    "mgo_usd":1061.21,
     "source":"BunkerIndex_Forward"
   },
   {
@@ -291,46 +301,6 @@
   },
   {
     "as_of_date":"2026-11-25",
-    "port":"Kaohsiung",
-    "month_offset":5,
-    "contract_month":"2027-04",
-    "ifo380_usd":688.55,
-    "vlsfo_usd":736.19,
-    "mgo_usd":1061.21,
-    "source":"BunkerIndex_Forward"
-  },
-  {
-    "as_of_date":"2026-11-25",
-    "port":"Hong Kong",
-    "month_offset":6,
-    "contract_month":"2027-05",
-    "ifo380_usd":579.16,
-    "vlsfo_usd":672.84,
-    "mgo_usd":930.8,
-    "source":"BunkerIndex_Forward"
-  },
-  {
-    "as_of_date":"2026-11-25",
-    "port":"Kaohsiung",
-    "month_offset":6,
-    "contract_month":"2027-05",
-    "ifo380_usd":677.1,
-    "vlsfo_usd":723.95,
-    "mgo_usd":1034.62,
-    "source":"BunkerIndex_Forward"
-  },
-  {
-    "as_of_date":"2026-11-25",
-    "port":"Rotterdam",
-    "month_offset":6,
-    "contract_month":"2027-05",
-    "ifo380_usd":450.55,
-    "vlsfo_usd":570.64,
-    "mgo_usd":965.71,
-    "source":"BunkerIndex_Forward"
-  },
-  {
-    "as_of_date":"2026-11-25",
     "port":"Fujairah",
     "month_offset":6,
     "contract_month":"2027-05",
@@ -362,11 +332,31 @@
   {
     "as_of_date":"2026-11-25",
     "port":"Hong Kong",
-    "month_offset":7,
-    "contract_month":"2027-06",
-    "ifo380_usd":570.86,
-    "vlsfo_usd":663.21,
-    "mgo_usd":909.17,
+    "month_offset":6,
+    "contract_month":"2027-05",
+    "ifo380_usd":579.16,
+    "vlsfo_usd":672.84,
+    "mgo_usd":930.8,
+    "source":"BunkerIndex_Forward"
+  },
+  {
+    "as_of_date":"2026-11-25",
+    "port":"Kaohsiung",
+    "month_offset":6,
+    "contract_month":"2027-05",
+    "ifo380_usd":677.1,
+    "vlsfo_usd":723.95,
+    "mgo_usd":1034.62,
+    "source":"BunkerIndex_Forward"
+  },
+  {
+    "as_of_date":"2026-11-25",
+    "port":"Rotterdam",
+    "month_offset":6,
+    "contract_month":"2027-05",
+    "ifo380_usd":450.55,
+    "vlsfo_usd":570.64,
+    "mgo_usd":965.71,
     "source":"BunkerIndex_Forward"
   },
   {
@@ -417,6 +407,16 @@
     "ifo380_usd":484.81,
     "vlsfo_usd":702.24,
     "mgo_usd":953.75,
+    "source":"BunkerIndex_Forward"
+  },
+  {
+    "as_of_date":"2026-11-25",
+    "port":"Hong Kong",
+    "month_offset":7,
+    "contract_month":"2027-06",
+    "ifo380_usd":570.86,
+    "vlsfo_usd":663.21,
+    "mgo_usd":909.17,
     "source":"BunkerIndex_Forward"
   },
   {
@@ -481,36 +481,6 @@
   },
   {
     "as_of_date":"2026-11-25",
-    "port":"Fujairah",
-    "month_offset":9,
-    "contract_month":"2027-08",
-    "ifo380_usd":423.98,
-    "vlsfo_usd":635.97,
-    "mgo_usd":1206.31,
-    "source":"BunkerIndex_Forward"
-  },
-  {
-    "as_of_date":"2026-11-25",
-    "port":"Busan",
-    "month_offset":9,
-    "contract_month":"2027-08",
-    "ifo380_usd":581.14,
-    "vlsfo_usd":646.62,
-    "mgo_usd":909.47,
-    "source":"BunkerIndex_Forward"
-  },
-  {
-    "as_of_date":"2026-11-25",
-    "port":"Singapore",
-    "month_offset":9,
-    "contract_month":"2027-08",
-    "ifo380_usd":472.68,
-    "vlsfo_usd":684.68,
-    "mgo_usd":918.73,
-    "source":"BunkerIndex_Forward"
-  },
-  {
-    "as_of_date":"2026-11-25",
     "port":"Hong Kong",
     "month_offset":9,
     "contract_month":"2027-08",
@@ -542,31 +512,31 @@
   {
     "as_of_date":"2026-11-25",
     "port":"Fujairah",
-    "month_offset":10,
-    "contract_month":"2027-09",
-    "ifo380_usd":419.17,
-    "vlsfo_usd":628.75,
-    "mgo_usd":1187.97,
+    "month_offset":9,
+    "contract_month":"2027-08",
+    "ifo380_usd":423.98,
+    "vlsfo_usd":635.97,
+    "mgo_usd":1206.31,
     "source":"BunkerIndex_Forward"
   },
   {
     "as_of_date":"2026-11-25",
     "port":"Busan",
-    "month_offset":10,
-    "contract_month":"2027-09",
-    "ifo380_usd":574.53,
-    "vlsfo_usd":639.27,
-    "mgo_usd":895.64,
+    "month_offset":9,
+    "contract_month":"2027-08",
+    "ifo380_usd":581.14,
+    "vlsfo_usd":646.62,
+    "mgo_usd":909.47,
     "source":"BunkerIndex_Forward"
   },
   {
     "as_of_date":"2026-11-25",
     "port":"Singapore",
-    "month_offset":10,
-    "contract_month":"2027-09",
-    "ifo380_usd":467.31,
-    "vlsfo_usd":676.9,
-    "mgo_usd":904.77,
+    "month_offset":9,
+    "contract_month":"2027-08",
+    "ifo380_usd":472.68,
+    "vlsfo_usd":684.68,
+    "mgo_usd":918.73,
     "source":"BunkerIndex_Forward"
   },
   {
@@ -597,6 +567,36 @@
     "ifo380_usd":428.07,
     "vlsfo_usd":542.16,
     "mgo_usd":894.81,
+    "source":"BunkerIndex_Forward"
+  },
+  {
+    "as_of_date":"2026-11-25",
+    "port":"Fujairah",
+    "month_offset":10,
+    "contract_month":"2027-09",
+    "ifo380_usd":419.17,
+    "vlsfo_usd":628.75,
+    "mgo_usd":1187.97,
+    "source":"BunkerIndex_Forward"
+  },
+  {
+    "as_of_date":"2026-11-25",
+    "port":"Busan",
+    "month_offset":10,
+    "contract_month":"2027-09",
+    "ifo380_usd":574.53,
+    "vlsfo_usd":639.27,
+    "mgo_usd":895.64,
+    "source":"BunkerIndex_Forward"
+  },
+  {
+    "as_of_date":"2026-11-25",
+    "port":"Singapore",
+    "month_offset":10,
+    "contract_month":"2027-09",
+    "ifo380_usd":467.31,
+    "vlsfo_usd":676.9,
+    "mgo_usd":904.77,
     "source":"BunkerIndex_Forward"
   },
   {
@@ -661,26 +661,6 @@
   },
   {
     "as_of_date":"2026-11-25",
-    "port":"Fujairah",
-    "month_offset":12,
-    "contract_month":"2027-11",
-    "ifo380_usd":410.93,
-    "vlsfo_usd":616.39,
-    "mgo_usd":1151.16,
-    "source":"BunkerIndex_Forward"
-  },
-  {
-    "as_of_date":"2026-11-25",
-    "port":"Busan",
-    "month_offset":12,
-    "contract_month":"2027-11",
-    "ifo380_usd":563.24,
-    "vlsfo_usd":626.71,
-    "mgo_usd":867.89,
-    "source":"BunkerIndex_Forward"
-  },
-  {
-    "as_of_date":"2026-11-25",
     "port":"Singapore",
     "month_offset":12,
     "contract_month":"2027-11",
@@ -717,6 +697,26 @@
     "ifo380_usd":419.66,
     "vlsfo_usd":531.51,
     "mgo_usd":867.08,
+    "source":"BunkerIndex_Forward"
+  },
+  {
+    "as_of_date":"2026-11-25",
+    "port":"Fujairah",
+    "month_offset":12,
+    "contract_month":"2027-11",
+    "ifo380_usd":410.93,
+    "vlsfo_usd":616.39,
+    "mgo_usd":1151.16,
+    "source":"BunkerIndex_Forward"
+  },
+  {
+    "as_of_date":"2026-11-25",
+    "port":"Busan",
+    "month_offset":12,
+    "contract_month":"2027-11",
+    "ifo380_usd":563.24,
+    "vlsfo_usd":626.71,
+    "mgo_usd":867.89,
     "source":"BunkerIndex_Forward"
   }
 ]
