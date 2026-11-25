@@ -2,13 +2,13 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 3003,
-      "untracked_bytes": 2310329581
+      "untracked_files": 3004,
+      "untracked_bytes": 2310331468
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4063,
-      "untracked_bytes": 2389374876
+      "untracked_files": 4057,
+      "untracked_bytes": 2389108169
     },
     {
       "path": "corpus/03-breakwave",
@@ -7221,6 +7221,11 @@
       "path": "corpus/01-brokers/fearnleys/voice/lng/2026/2026-11-18_lng_a4cead60.md",
       "bytes": 1546,
       "sha256": "c51ca043511a8f4b32bcedb2429ddbe921dfe91827a5c15006c314b2bcf54c8a"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys/voice/lng/2026/2026-11-25_lng_65e35947.md",
+      "bytes": 1887,
+      "sha256": "0bec2b057bef926272f29a3a1360a5ceae0f62480155d34be7c727b55d04a7ba"
     },
     {
       "path": "corpus/01-brokers/fearnleys/voice/panamax/2026/2026-10-07_panamax_3c5c4b74.md",
@@ -20521,21 +20526,6 @@
       "path": "corpus/02-hellenic/demolition/pdfs/gms/2026-10-03_gms-week-40-scarcity-puts-chattogram-on-_Ship-recycling-market-insight-Week-40-10-02-2026-Scarcity-Puts-Chattogram-On-Top.pdf",
       "bytes": 936712,
       "sha256": "94fe795675127664dd244b56e6220edc2549f31123d5660b14bc632eec0a1395"
-    },
-    {
-      "path": "corpus/02-hellenic/dry_charter/2026/2026-11-25_weekly-dry-time-charter-estimates-november-25-2026.html",
-      "bytes": 2665,
-      "sha256": "d7e40dc2c8e3d1bbd616b4a4b11680097456d29e05eb645c95f92e7e79f47738"
-    },
-    {
-      "path": "corpus/02-hellenic/dry_charter/2026/assets/2026-11-25_weekly-dry-time-charter-estimates-november-25-2026_ALIBRA_Dry_Bulk_2026.jpg",
-      "bytes": 58415,
-      "sha256": "72f6e78e4de0d9b3bd5d1864a2e98dc85ea5efdace1a2447f14e8912ca36b3ae"
-    },
-    {
-      "path": "corpus/02-hellenic/dry_charter/2026/assets/2026-11-25_weekly-dry-time-charter-estimates-november-25-2026_alibra-dry-bulk-2026_cf9d4847d744.jpg",
-      "bytes": 58415,
-      "sha256": "72f6e78e4de0d9b3bd5d1864a2e98dc85ea5efdace1a2447f14e8912ca36b3ae"
     },
     {
       "path": "corpus/02-hellenic/iron_ore/2024/assets/2024-07-12_mmi-daily-iron-ore-index-report-july-12-2024_img1_1207202\u03b4\u03c3_e133c3395525.jpg",
@@ -35356,21 +35346,6 @@
       "path": "corpus/02-hellenic/tanker_charter/2026/2026-03-25_weekly-tanker-time-charter-estimates-march-25-2026.html",
       "bytes": 2466,
       "sha256": "5c5179782527d5b5d012add55657c36a653c42ef6af6b1216b205122d751e410"
-    },
-    {
-      "path": "corpus/02-hellenic/tanker_charter/2026/2026-11-25_weekly-tanker-time-charter-estimates-november-25-2026.html",
-      "bytes": 2682,
-      "sha256": "27ffad6e0f70cdad525f59c327f353c7e727790e5fb27a21d0ada6e5d1f15412"
-    },
-    {
-      "path": "corpus/02-hellenic/tanker_charter/2026/assets/2026-11-25_weekly-tanker-time-charter-estimates-november-25-2026_ALIBRA_Tanker_2026.jpg",
-      "bytes": 72265,
-      "sha256": "f6846170debfc0618e77485bf32e28fab7ee56857d9842738a1e0d70f310f06a"
-    },
-    {
-      "path": "corpus/02-hellenic/tanker_charter/2026/assets/2026-11-25_weekly-tanker-time-charter-estimates-november-25-2026_alibra-tanker-2026_6dc5cbffd4b4.jpg",
-      "bytes": 72265,
-      "sha256": "f6846170debfc0618e77485bf32e28fab7ee56857d9842738a1e0d70f310f06a"
     },
     {
       "path": "corpus/02-hellenic/vessel_valuations/2022/assets/2022-02-15_weekly-vessel-valuations-report-february-15-2022_\u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03ae-4_8c0794a8805a.jpg",
