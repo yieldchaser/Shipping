@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 19:22:58Z",
+  "updated_at": "2026-11-25 19:58:22Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -2070,7 +2070,7 @@
     {
       "file": "hellenic_alibra_dry_tc_series.csv",
       "target_metric": "Hellenic Alibra Dry Tc",
-      "rows": 6683,
+      "rows": 6707,
       "columns": [
         "issue_date",
         "vessel_class",
@@ -2085,7 +2085,7 @@
     {
       "file": "hellenic_alibra_tanker_tc_series.csv",
       "target_metric": "Hellenic Alibra Tanker Tc",
-      "rows": 7616,
+      "rows": 7644,
       "columns": [
         "issue_date",
         "vessel_class",
@@ -3945,13 +3945,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 713045,
+  "total_master_stacked_rows": 713097,
   "total_master_series_csvs": 166,
-  "total_stacked_rows": 713045,
+  "total_stacked_rows": 713097,
   "total_series_csvs": 166,
   "total_master_workbooks": 1,
   "total_series_count": 166,
-  "total_rows_extracted": 713350,
+  "total_rows_extracted": 713402,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 611,
     "advanced_shipping_demolition_series.csv": 2064,
@@ -4022,8 +4022,8 @@
     "gms_demolition_sales_series.csv": 161,
     "gms_market_commentary_series.csv": 1296,
     "gms_port_positions_series.csv": 3036,
-    "hellenic_alibra_dry_tc_series.csv": 6683,
-    "hellenic_alibra_tanker_tc_series.csv": 7616,
+    "hellenic_alibra_dry_tc_series.csv": 6707,
+    "hellenic_alibra_tanker_tc_series.csv": 7644,
     "hellenic_best_oasis_deals_series.csv": 939,
     "hellenic_best_oasis_demolition_series.csv": 890,
     "hellenic_capesize_c3_c5_series.csv": 1164,

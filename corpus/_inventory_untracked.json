@@ -8,12 +8,12 @@
     {
       "path": "corpus/02-hellenic",
       "untracked_files": 4063,
-      "untracked_bytes": 2391735409
+      "untracked_bytes": 2389374876
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 20,
-      "untracked_bytes": 2817417
+      "untracked_files": 9,
+      "untracked_bytes": 2035986
     },
     {
       "path": "corpus/04-poten",
@@ -20523,19 +20523,24 @@
       "sha256": "94fe795675127664dd244b56e6220edc2549f31123d5660b14bc632eec0a1395"
     },
     {
+      "path": "corpus/02-hellenic/dry_charter/2026/2026-11-25_weekly-dry-time-charter-estimates-november-25-2026.html",
+      "bytes": 2665,
+      "sha256": "d7e40dc2c8e3d1bbd616b4a4b11680097456d29e05eb645c95f92e7e79f47738"
+    },
+    {
+      "path": "corpus/02-hellenic/dry_charter/2026/assets/2026-11-25_weekly-dry-time-charter-estimates-november-25-2026_ALIBRA_Dry_Bulk_2026.jpg",
+      "bytes": 58415,
+      "sha256": "72f6e78e4de0d9b3bd5d1864a2e98dc85ea5efdace1a2447f14e8912ca36b3ae"
+    },
+    {
+      "path": "corpus/02-hellenic/dry_charter/2026/assets/2026-11-25_weekly-dry-time-charter-estimates-november-25-2026_alibra-dry-bulk-2026_cf9d4847d744.jpg",
+      "bytes": 58415,
+      "sha256": "72f6e78e4de0d9b3bd5d1864a2e98dc85ea5efdace1a2447f14e8912ca36b3ae"
+    },
+    {
       "path": "corpus/02-hellenic/iron_ore/2024/assets/2024-07-12_mmi-daily-iron-ore-index-report-july-12-2024_img1_1207202\u03b4\u03c3_e133c3395525.jpg",
       "bytes": 469290,
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/2026-11-25_mmi-daily-iron-ore-index-report-november-25-2026.html",
-      "bytes": 5161,
-      "sha256": "7a64f005523e24be56701a2e24c7dd0aa99ce458cfe6e4c125f16bac3e5ae657"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-11-25_mmi-daily-iron-ore-index-report-november-25-2026_25112026chinese356_b654ded0a578.jpg",
-      "bytes": 180982,
-      "sha256": "787bca40e2f4d0848e370226e51f8360082223af95ee866a38cacb99cbbebdb9"
     },
     {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
@@ -30533,11 +30538,6 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-11-25_mmi-daily-iron-ore-index-report-november-25-2026_mmi-daily-iron-ore-report-for-25th-n_94b719fe906f.pdf",
-      "bytes": 1191955,
-      "sha256": "06027be646f370b2ea8cb4fbcaba903084ebe88067817074a38f51ab7b3c7d19"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31926,11 +31926,6 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-11-25_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-25th-November-2026.pdf",
-      "bytes": 1191955,
-      "sha256": "06027be646f370b2ea8cb4fbcaba903084ebe88067817074a38f51ab7b3c7d19"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -35363,39 +35358,24 @@
       "sha256": "5c5179782527d5b5d012add55657c36a653c42ef6af6b1216b205122d751e410"
     },
     {
+      "path": "corpus/02-hellenic/tanker_charter/2026/2026-11-25_weekly-tanker-time-charter-estimates-november-25-2026.html",
+      "bytes": 2682,
+      "sha256": "27ffad6e0f70cdad525f59c327f353c7e727790e5fb27a21d0ada6e5d1f15412"
+    },
+    {
+      "path": "corpus/02-hellenic/tanker_charter/2026/assets/2026-11-25_weekly-tanker-time-charter-estimates-november-25-2026_ALIBRA_Tanker_2026.jpg",
+      "bytes": 72265,
+      "sha256": "f6846170debfc0618e77485bf32e28fab7ee56857d9842738a1e0d70f310f06a"
+    },
+    {
+      "path": "corpus/02-hellenic/tanker_charter/2026/assets/2026-11-25_weekly-tanker-time-charter-estimates-november-25-2026_alibra-tanker-2026_6dc5cbffd4b4.jpg",
+      "bytes": 72265,
+      "sha256": "f6846170debfc0618e77485bf32e28fab7ee56857d9842738a1e0d70f310f06a"
+    },
+    {
       "path": "corpus/02-hellenic/vessel_valuations/2022/assets/2022-02-15_weekly-vessel-valuations-report-february-15-2022_\u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03ae-4_8c0794a8805a.jpg",
       "bytes": 52460,
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
-    },
-    {
-      "path": "corpus/02-hellenic/vessel_valuations/2026/2026-11-25_weekly-vessel-valuations-report-november-24-2026.html",
-      "bytes": 2540,
-      "sha256": "675b03131c70f0ccac81410e5c6f9e04e55e6d367c35ca40d3e994661139b14d"
-    },
-    {
-      "path": "corpus/02-hellenic/vessel_valuations/2026/assets/2026-11-25_weekly-vessel-valuations-report-november-24-2026_25112025matrix.jpg",
-      "bytes": 54647,
-      "sha256": "f95b144308a3d0ccfc9120b9a07d5101a18aafa061844b99d2f09d1c087bb751"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-25_china-crude-demand-return-on-high-fuel-exports-whats-next.html",
-      "bytes": 8824,
-      "sha256": "4caca289bae2c166357e53c4f972f4e62de348d07f068af3114636b7cf8cdbc8"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-25_china-crude-demand-return-on-high-fuel-exports-whats-next.md",
-      "bytes": 8844,
-      "sha256": "2ac02ca5c93c358a1fcd9649f54806c0fccb12fd36e43ff0509f905ebd53e2d7"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-25_good-times-bad-times-the-premium-stays-with-the-strait.html",
-      "bytes": 11582,
-      "sha256": "d48a11a79405d26573c66c1515acb62c3fbecbcf18fb49733853ed229b0ac039"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-25_good-times-bad-times-the-premium-stays-with-the-strait.md",
-      "bytes": 10234,
-      "sha256": "6f1847c959a3581ce5857aee837d8b636c1c2225bd9aa3cd6a722d921787c5ea"
     },
     {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
@@ -35441,41 +35421,6 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-25_china-crude-demand-return-on-high-fuel-exports-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2d7dc98d58ad.png",
-      "bytes": 33188,
-      "sha256": "6510eed5c6a6f74a6bdfa37df0b606926e351350ea38e3b67b671a497ef9d3cf"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-25_china-crude-demand-return-on-high-fuel-exports-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_817fcbea5139.png",
-      "bytes": 118182,
-      "sha256": "eb5c436d5e72dc8a00f57185826c925e9b526f89a6ff63123105b5d9b283107e"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-25_china-crude-demand-return-on-high-fuel-exports-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8a0fd0044bf8.png",
-      "bytes": 71401,
-      "sha256": "92a621d7f0dc954e4795bb856bb7160c32e48527008d4e8866cb0509bbaeb514"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-25_good-times-bad-times-the-premium-stays-with-the-strait_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_03a7a848d798.png",
-      "bytes": 81521,
-      "sha256": "ec12daab824871d8116ad1067c4aecc3900e4deb75f12d9a38c25ed599f46a28"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-25_good-times-bad-times-the-premium-stays-with-the-strait_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0e1d2607d22d.png",
-      "bytes": 76138,
-      "sha256": "b3098d223c6e5285d2b6801bfebe12f827daa302df771c3bf922301a30f9503b"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-25_good-times-bad-times-the-premium-stays-with-the-strait_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4178e4756c82.png",
-      "bytes": 163436,
-      "sha256": "b394b52d86fd203496bb7cc26ca18371266635425ac562bac6f06aca678ff345"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-25_good-times-bad-times-the-premium-stays-with-the-strait_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66ac19b1e01f.png",
-      "bytes": 198081,
-      "sha256": "45c039b9c3d77c8691c2165f8428bad2cfd9a9bc728f2e728b4cdccbd5b17daa"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",

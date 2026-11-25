@@ -29,7 +29,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 
 ---
 
-## 2. Master Stacked Series Inventory (713,350 Total Rows across 166 CSVs + 1 Master Workbook)
+## 2. Master Stacked Series Inventory (713,402 Total Rows across 166 CSVs + 1 Master Workbook)
 
 | Series CSV | Target Metric / Commodity / Segment | Total Stacked Rows | Status |
 | :--- | :--- | :---: | :---: |
@@ -102,8 +102,8 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [gms_demolition_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gms_demolition_sales_series.csv) |  | 161 | Verified |
 | [gms_market_commentary_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gms_market_commentary_series.csv) |  | 1,296 | Verified |
 | [gms_port_positions_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gms_port_positions_series.csv) |  | 3,036 | Verified |
-| [hellenic_alibra_dry_tc_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_alibra_dry_tc_series.csv) |  | 6,683 | Verified |
-| [hellenic_alibra_tanker_tc_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_alibra_tanker_tc_series.csv) |  | 7,616 | Verified |
+| [hellenic_alibra_dry_tc_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_alibra_dry_tc_series.csv) |  | 6,707 | Verified |
+| [hellenic_alibra_tanker_tc_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_alibra_tanker_tc_series.csv) |  | 7,644 | Verified |
 | [hellenic_best_oasis_deals_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_best_oasis_deals_series.csv) |  | 939 | Verified |
 | [hellenic_best_oasis_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_best_oasis_demolition_series.csv) |  | 890 | Verified |
 | [hellenic_capesize_c3_c5_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_capesize_c3_c5_series.csv) | Daily Capesize iron ore freight rates C3 & C5 ($/t) | 1,164 | Verified |
@@ -201,7 +201,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [xclusiv_secondhand_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_secondhand_series.csv) | Dry bulk & tanker secondhand price matrix ($M) | 8,796 | Verified |
 | [corpus_publication_cadence_and_audit.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/corpus_publication_cadence_and_audit.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [gibson_master_tanker_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_master_tanker_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
-| **TOTAL** | **Master Stacked Repository Footprint (166 CSVs + 1 Master Workbook)** | **713,350** | **100.0% Pass** |
+| **TOTAL** | **Master Stacked Repository Footprint (166 CSVs + 1 Master Workbook)** | **713,402** | **100.0% Pass** |
 
 ---
 
