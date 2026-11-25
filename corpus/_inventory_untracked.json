@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2984,
-      "untracked_bytes": 2299849238
+      "untracked_files": 3004,
+      "untracked_bytes": 2310350019
     },
     {
       "path": "corpus/02-hellenic",
@@ -47,21 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "path": "corpus/01-brokers/_digests/banchero_costa/2026/banchero_costa_25_11_2026_banchero_costa_weekly_market_report_week_47_2026.md",
-      "bytes": 58532,
-      "sha256": "2ba7adeb418fa695f1a6ad1d0e888f2f7559606b87bf5e34bbdd915f2d81b99c"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/carriers/2026/carriers_24_11_2026_carriers_sales_purchase_market_report_week_47.md",
-      "bytes": 8215,
-      "sha256": "35d59113a2aae7683cb02f6b0c6fbd0257e773768dc130342a27cd5cb71628a9"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/intermodal/2026/intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.md",
-      "bytes": 25163,
-      "sha256": "34b806a4ddfd296cb648937aef9990a9630978a81d6baa1f33cf59c3494e00d1"
-    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -4943,11 +4928,6 @@
       "sha256": "9a74ca876decbce3ddf24b3c93750fcce021120acf744cee31cb6c40ec30fcf0"
     },
     {
-      "path": "corpus/01-brokers/banchero_costa/2026/banchero_costa_25_11_2026_banchero_costa_weekly_market_report_week_47_2026.pdf",
-      "bytes": 1044156,
-      "sha256": "f7430be5ec0195c0c65ef2d326be942b46fa92b827935ad058c6b9a723d34734"
-    },
-    {
       "path": "corpus/01-brokers/banchero_costa/2026/bancosta_30_09_2026_banchero_costa_weekly_market_report_week_39_2026.pdf",
       "bytes": 993374,
       "sha256": "0dbbac20e4046b218997739ca53aab2378103d23210e2626f5042fe7f1501fd9"
@@ -5686,6 +5666,96 @@
       "path": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-7th-August-2026.pdf",
       "bytes": 186084,
       "sha256": "ae4069231c5ba43de6b80c9312ef4d52770ecf74060768b1e66890a9067dbfd7"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/2026/2026-11-26_fearnleys-dry-bulk-market-outlook-november-2026-8.md",
+      "bytes": 20438,
+      "sha256": "3fc9b7b34df8f3236313dc070ed33c75b9f3c6d53cf0617e4b17f6db13922aa9"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/CHINA CREDIT vs BDI.png",
+      "bytes": 268786,
+      "sha256": "83c9ce5af33a55642765bfa019fa80a0b9f6b373927403a03885b093ab26770c"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/COPPER PRICE LEAD VS CAPESIZE 10 YEAR OLD.png",
+      "bytes": 221342,
+      "sha256": "cb03469b5ceb8446b412db6336c87334ff26f8e510957eb16baba85e88579489"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/COPPER PRICE LEAD VS HANDYSIZE 10 YEAR OLD.png",
+      "bytes": 205112,
+      "sha256": "ae7cec834f55d3104152cf6f675a66d86c0b14850524cb4de5b83c845c2683ce"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/COPPER PRICE LEAD VS KAMSARMAX 10 YEAR OLD.png",
+      "bytes": 202738,
+      "sha256": "ae0460d90ec1301bbaeb748724ceee43efb1cdd6691f3031dd91d51720a7b330"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/COPPER PRICE LEAD VS SUPRAMAX 10 YEAR OLD.png",
+      "bytes": 202108,
+      "sha256": "4d31fe05231371c3ba8d3e70d4676387b785dcbfe93cadafcaecf5052d386e6b"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/CRUDE OIL PRICE LEAD VS BDI.png",
+      "bytes": 281186,
+      "sha256": "59e5dc838e0376b625973ef304781d2a0a5fe8b9e3ec762e945b8df8bbdb3953"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/Designer (2).png",
+      "bytes": 686868,
+      "sha256": "ebb6531b3e53148c589c98ee8b8eeebfdb0da357b1fe8a623fda2dca57505a91"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/INTEREST RATES VS DRY BULK DEMAND.png",
+      "bytes": 315067,
+      "sha256": "f2ac9f2fdd987ce74c5de555034a2822fb4b9bc30781f6933a6c6cd985f492ac"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/OECD Diffusion Index 6m change 6m lead vs BDI YoY.png",
+      "bytes": 353508,
+      "sha256": "b200f5461ef2fc7dd5613bad0eac65aff0d02e961835f379b155f156b2d35c1d"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/OECD Diffusion Index vs BDI YoY.png",
+      "bytes": 427460,
+      "sha256": "54502e80f1722ca7dbb78d33607661b861f3b05c8fd0355540bcd5ebe25c3de2"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/Ultramax 1 year tc vs asset.png",
+      "bytes": 166645,
+      "sha256": "eead6ead578e2d93f3aa727894134ae8b25b1716f7ac0cc59c2d9d42192b7a7c"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/cape1yr tc vs asset.png",
+      "bytes": 195105,
+      "sha256": "9225fde454a045003caa76613a26c393a4c3cdc3942bba419d1a18a7b6a5ef76"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/dollar vs dry bulk demand.png",
+      "bytes": 229890,
+      "sha256": "17b53fa7f3924d58ae793f70f313044f6529385e569ae7739d4c22af43876cb7"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/handysize 1yr tc vs asset.png",
+      "bytes": 157198,
+      "sha256": "233b6d31968aac2f06a47751680020e7ae4ad79330a9d04ca4021a689a991e0d"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/panamax 1 yr tc vs asset.png",
+      "bytes": 184216,
+      "sha256": "94149be5f4b4d853bb61741c5e6bd4b4e01d39910f224fde651435544c064605"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/supply vs demand.png",
+      "bytes": 199297,
+      "sha256": "e5a8d259f52bb31d90797138f229211fa2e8277ed78ae4a445e21bcb7f28730d"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/pdfs/2026/2026-11-26_fearnleys-dry-bulk-market-outlook-november-2026-8.pdf",
+      "bytes": 8533463,
+      "sha256": "8c3f538f672f0a9b879190d94c3f048952b6fce0139c4c75a02cb3e7123407e6"
     },
     {
       "path": "corpus/01-brokers/fearnleys/2018/fearnleys_2018_W29_fw_week_29_2018b.pdf",
@@ -7038,6 +7108,11 @@
       "sha256": "21469c2cc3ca9b46aca3432d4476b783e71588d41ce0ba741eb4e6324d556f99"
     },
     {
+      "path": "corpus/01-brokers/fearnleys/voice/aframax/2026/2026-11-25_aframax_18bafc70.md",
+      "bytes": 1385,
+      "sha256": "74e28f0f6f7a7908fff9c120792509ddbd2a6ef7dddc5a664480fbdb2c07b1fc"
+    },
+    {
       "path": "corpus/01-brokers/fearnleys/voice/capesize/2026/2026-10-07_capesize_a7d21452.md",
       "bytes": 1805,
       "sha256": "aeaaf648c666f879fd095177f4982f4a4180521a0f6540ed8d7a47652e5e18a0"
@@ -7073,6 +7148,11 @@
       "sha256": "11e054f1815f82c672af754cb426ad924a4d32b9896cfa3b7d716ddb2af759c8"
     },
     {
+      "path": "corpus/01-brokers/fearnleys/voice/capesize/2026/2026-11-25_capesize_5f675427.md",
+      "bytes": 1645,
+      "sha256": "4a63c60eba5ad06b71424c028d2593aab198dc23a7c999d195a12be31ff4d469"
+    },
+    {
       "path": "corpus/01-brokers/fearnleys/voice/chartering/2026/2026-10-07_chartering_25575d2a.md",
       "bytes": 1049,
       "sha256": "5e15c7f6ed285350d0270ec4392a948675d53059f9c08916d369f9b0488294e5"
@@ -7106,6 +7186,11 @@
       "path": "corpus/01-brokers/fearnleys/voice/chartering/2026/2026-11-18_chartering_d13738fb.md",
       "bytes": 1404,
       "sha256": "9b1476cc7dc8b330423ed66de1eeb63027a4193b185d068db2e787360804fcee"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys/voice/chartering/2026/2026-11-25_chartering_69dbe110.md",
+      "bytes": 1089,
+      "sha256": "d618e4c15057560d24c4b407e9e93fa5e0fe7d4856e0dfda2eecaeb399e92e65"
     },
     {
       "path": "corpus/01-brokers/fearnleys/voice/lng/2026/2026-10-07_lng_c95e1439.md",
@@ -7178,6 +7263,11 @@
       "sha256": "6725774e5b0fe74f0fd393b42d11f70e3cf08d04db623c0940f5c2fa22bf63f8"
     },
     {
+      "path": "corpus/01-brokers/fearnleys/voice/panamax/2026/2026-11-25_panamax_ad469cc8.md",
+      "bytes": 1065,
+      "sha256": "8e13c7f6e8bab8c97f8f84d34327825c105f611039cd9ea8007a48fe205993b3"
+    },
+    {
       "path": "corpus/01-brokers/fearnleys/voice/snp/2026/2026-10-16_snp_8435d822.md",
       "bytes": 1918,
       "sha256": "f9a99744d6ac3a35c03b087793b403d3fd09b72c54777a52d3682eea328897c0"
@@ -7243,6 +7333,11 @@
       "sha256": "238b85039430ced88fbf4e28c62c640f53c398f357903b1464f43272b69815cf"
     },
     {
+      "path": "corpus/01-brokers/fearnleys/voice/suezmax/2026/2026-11-25_suezmax_fed87c16.md",
+      "bytes": 1503,
+      "sha256": "11c4b49ecaf9970e1a130df5fe199d648ce820c09af6285e68890070758cc014"
+    },
+    {
       "path": "corpus/01-brokers/fearnleys/voice/supramax/2026/2026-10-07_supramax_3b64a519.md",
       "bytes": 1250,
       "sha256": "38a97c50a9269d585eb6a76a72e6bf296ac6b4daa6a9f5e9155a17f14d824f05"
@@ -7278,6 +7373,11 @@
       "sha256": "3661c310a679446b5520e2f62854a1c7012181876d9911838cd99342be65eea9"
     },
     {
+      "path": "corpus/01-brokers/fearnleys/voice/supramax/2026/2026-11-25_supramax_4dc52c6e.md",
+      "bytes": 1345,
+      "sha256": "45cbe403b21e8ac6a622bbb5de0e74b49451c30838b957b9092de2c8b69e115c"
+    },
+    {
       "path": "corpus/01-brokers/fearnleys/voice/vlcc/2026/2026-10-07_vlcc_b1f018bd.md",
       "bytes": 1452,
       "sha256": "9c4f58988470eda15867f2a463a7a91df5887334685c95e38ec05df64fba0fa0"
@@ -7311,6 +7411,11 @@
       "path": "corpus/01-brokers/fearnleys/voice/vlcc/2026/2026-11-18_vlcc_b16aaa20.md",
       "bytes": 1419,
       "sha256": "6237a35fb92a8f65ab0a2502ceffe0d8d5b824aa3a4f09994fec6b5b7b4c30f7"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys/voice/vlcc/2026/2026-11-25_vlcc_36752bb5.md",
+      "bytes": 1440,
+      "sha256": "e5a27bc70b20cf18a716be95969c3f3ce41515e44155c62d4c19479c9bdbfbf2"
     },
     {
       "path": "corpus/01-brokers/gibson/2021/gibson_2021_2021-02-07-Oil-production-its-a-game-of-two-halves.pdf",
@@ -9136,11 +9241,6 @@
       "path": "corpus/01-brokers/intermodal/2026/intermodal_23_09_2026_intermodal_weekly_market_report_week_38_2026_broker_s_insi.pdf",
       "bytes": 1165846,
       "sha256": "e3842d0293c58098ef9a5ef5ecf03bb746acee0e6f9bd8adf32c69ff83566aec"
-    },
-    {
-      "path": "corpus/01-brokers/intermodal/2026/intermodal_25_11_2026_intermodal_weekly_market_report_week_47_2026_broker_s_insi.pdf",
-      "bytes": 1223052,
-      "sha256": "1d7089fbbbf02993f954dd4cb508c99de23002618e67587c49414b95c7eacad5"
     },
     {
       "path": "corpus/01-brokers/intermodal/2026/intermodal_30_09_2026_intermodal_weekly_market_report_week_39_2026_broker_s_insi.pdf",
