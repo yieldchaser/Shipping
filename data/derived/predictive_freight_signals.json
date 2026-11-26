@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source": "Port Stress Matrix x Baltic Exchange spot indices",
-    "as_of": "2026-11-25 16:01:34 UTC",
+    "as_of": "2026-11-26 15:41:09 UTC",
     "total_signals": 6,
     "methodology": "Port-call z-score anomaly (port stress matrix) paired with the Baltic index of the hub trade; no correlation or lead time is estimated"
   },
@@ -31,7 +31,7 @@
       "bias": "BEARISH",
       "correlated_ticker": "BCI",
       "ticker_name": "Baltic Capesize Index",
-      "current_index_value": 5014.0,
+      "current_index_value": 5100.0,
       "projected_impact": "Sharp arrival slowdown at Hay Point (Z-Score -2.05\u03c3). Terminal export reduction or weather shutdown dampens cargo stems, softening prompt demand for BCI.",
       "recommendation": "Monitor forward cargo fixtures for BCI softening."
     },
@@ -49,7 +49,7 @@
       "bias": "BEARISH",
       "correlated_ticker": "BLNG",
       "ticker_name": "Baltic LNG Index",
-      "current_index_value": 3477.0,
+      "current_index_value": 3330.0,
       "projected_impact": "Sharp arrival slowdown at Ras Laffan (Qatar LNG) (Z-Score -1.94\u03c3). Terminal export reduction or weather shutdown dampens cargo stems, softening prompt demand for BLNG.",
       "recommendation": "Monitor forward cargo fixtures for BLNG softening."
     },
@@ -67,7 +67,7 @@
       "bias": "BEARISH",
       "correlated_ticker": "BLPG",
       "ticker_name": "Baltic LPG Index",
-      "current_index_value": 21760.0,
+      "current_index_value": 21746.0,
       "projected_impact": "Sharp arrival slowdown at Ras Laffan (LPG) (Z-Score -1.94\u03c3). Terminal export reduction or weather shutdown dampens cargo stems, softening prompt demand for BLPG.",
       "recommendation": "Monitor forward cargo fixtures for BLPG softening."
     },
@@ -85,7 +85,7 @@
       "bias": "BEARISH",
       "correlated_ticker": "BCI",
       "ticker_name": "Baltic Capesize Index",
-      "current_index_value": 5014.0,
+      "current_index_value": 5100.0,
       "projected_impact": "Sharp arrival slowdown at Tubarao (Z-Score -1.78\u03c3). Terminal export reduction or weather shutdown dampens cargo stems, softening prompt demand for BCI.",
       "recommendation": "Monitor forward cargo fixtures for BCI softening."
     },
@@ -103,7 +103,7 @@
       "bias": "BEARISH",
       "correlated_ticker": "BLNG",
       "ticker_name": "Baltic LNG Index",
-      "current_index_value": 3477.0,
+      "current_index_value": 3330.0,
       "projected_impact": "Sharp arrival slowdown at Sabine Pass (Cheniere LNG) (Z-Score -1.66\u03c3). Terminal export reduction or weather shutdown dampens cargo stems, softening prompt demand for BLNG.",
       "recommendation": "Monitor forward cargo fixtures for BLNG softening."
     },
@@ -121,7 +121,7 @@
       "bias": "BULLISH",
       "correlated_ticker": "BDTI",
       "ticker_name": "Baltic Dirty Tanker Index",
-      "current_index_value": 5109.0,
+      "current_index_value": 5107.0,
       "projected_impact": "Severe vessel queuing and berthing delays at Sikka / Jamnagar (Z-Score +1.44\u03c3). Concentrated tonnage detention constrains prompt fleet supply across the Tankers basin, creating acute upward spot charter rate pressure on BDTI (Baltic Dirty Tanker Index).",
       "recommendation": "Watch BDTI for spot rate pressure."
     }
