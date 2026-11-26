@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 3004,
-      "untracked_bytes": 2310331468
+      "untracked_files": 2987,
+      "untracked_bytes": 2297501479
     },
     {
       "path": "corpus/02-hellenic",
@@ -27,8 +27,8 @@
     },
     {
       "path": "corpus/06-drewry",
-      "untracked_files": 288,
-      "untracked_bytes": 547682493
+      "untracked_files": 289,
+      "untracked_bytes": 547687279
     },
     {
       "path": "corpus/07-signal",
@@ -5666,91 +5666,6 @@
       "path": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-7th-August-2026.pdf",
       "bytes": 186084,
       "sha256": "ae4069231c5ba43de6b80c9312ef4d52770ecf74060768b1e66890a9067dbfd7"
-    },
-    {
-      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/CHINA CREDIT vs BDI.png",
-      "bytes": 268786,
-      "sha256": "83c9ce5af33a55642765bfa019fa80a0b9f6b373927403a03885b093ab26770c"
-    },
-    {
-      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/COPPER PRICE LEAD VS CAPESIZE 10 YEAR OLD.png",
-      "bytes": 221342,
-      "sha256": "cb03469b5ceb8446b412db6336c87334ff26f8e510957eb16baba85e88579489"
-    },
-    {
-      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/COPPER PRICE LEAD VS HANDYSIZE 10 YEAR OLD.png",
-      "bytes": 205112,
-      "sha256": "ae7cec834f55d3104152cf6f675a66d86c0b14850524cb4de5b83c845c2683ce"
-    },
-    {
-      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/COPPER PRICE LEAD VS KAMSARMAX 10 YEAR OLD.png",
-      "bytes": 202738,
-      "sha256": "ae0460d90ec1301bbaeb748724ceee43efb1cdd6691f3031dd91d51720a7b330"
-    },
-    {
-      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/COPPER PRICE LEAD VS SUPRAMAX 10 YEAR OLD.png",
-      "bytes": 202108,
-      "sha256": "4d31fe05231371c3ba8d3e70d4676387b785dcbfe93cadafcaecf5052d386e6b"
-    },
-    {
-      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/CRUDE OIL PRICE LEAD VS BDI.png",
-      "bytes": 281186,
-      "sha256": "59e5dc838e0376b625973ef304781d2a0a5fe8b9e3ec762e945b8df8bbdb3953"
-    },
-    {
-      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/Designer (2).png",
-      "bytes": 686868,
-      "sha256": "ebb6531b3e53148c589c98ee8b8eeebfdb0da357b1fe8a623fda2dca57505a91"
-    },
-    {
-      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/INTEREST RATES VS DRY BULK DEMAND.png",
-      "bytes": 315067,
-      "sha256": "f2ac9f2fdd987ce74c5de555034a2822fb4b9bc30781f6933a6c6cd985f492ac"
-    },
-    {
-      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/OECD Diffusion Index 6m change 6m lead vs BDI YoY.png",
-      "bytes": 353508,
-      "sha256": "b200f5461ef2fc7dd5613bad0eac65aff0d02e961835f379b155f156b2d35c1d"
-    },
-    {
-      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/OECD Diffusion Index vs BDI YoY.png",
-      "bytes": 427460,
-      "sha256": "54502e80f1722ca7dbb78d33607661b861f3b05c8fd0355540bcd5ebe25c3de2"
-    },
-    {
-      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/Ultramax 1 year tc vs asset.png",
-      "bytes": 166645,
-      "sha256": "eead6ead578e2d93f3aa727894134ae8b25b1716f7ac0cc59c2d9d42192b7a7c"
-    },
-    {
-      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/cape1yr tc vs asset.png",
-      "bytes": 195105,
-      "sha256": "9225fde454a045003caa76613a26c393a4c3cdc3942bba419d1a18a7b6a5ef76"
-    },
-    {
-      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/dollar vs dry bulk demand.png",
-      "bytes": 229890,
-      "sha256": "17b53fa7f3924d58ae793f70f313044f6529385e569ae7739d4c22af43876cb7"
-    },
-    {
-      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/handysize 1yr tc vs asset.png",
-      "bytes": 157198,
-      "sha256": "233b6d31968aac2f06a47751680020e7ae4ad79330a9d04ca4021a689a991e0d"
-    },
-    {
-      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/panamax 1 yr tc vs asset.png",
-      "bytes": 184216,
-      "sha256": "94149be5f4b4d853bb61741c5e6bd4b4e01d39910f224fde651435544c064605"
-    },
-    {
-      "path": "corpus/01-brokers/fearnleys-md/images/f80db6c3-0ff0-4b7f-aea1-66968fe77b26/supply vs demand.png",
-      "bytes": 199297,
-      "sha256": "e5a8d259f52bb31d90797138f229211fa2e8277ed78ae4a445e21bcb7f28730d"
-    },
-    {
-      "path": "corpus/01-brokers/fearnleys-md/pdfs/2026/2026-11-26_fearnleys-dry-bulk-market-outlook-november-2026-8.pdf",
-      "bytes": 8533463,
-      "sha256": "8c3f538f672f0a9b879190d94c3f048952b6fce0139c4c75a02cb3e7123407e6"
     },
     {
       "path": "corpus/01-brokers/fearnleys/2018/fearnleys_2018_W29_fw_week_29_2018b.pdf",
@@ -42266,6 +42181,11 @@
       "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week39_2026.pdf",
       "bytes": 1692736,
       "sha256": "cfb74c938d015edb12df749489317f64447354fc874abe5b10dbd3e604116a9e"
+    },
+    {
+      "path": "corpus/06-drewry/opinions/2026/2026-11-25_are-north-south-container-alliances-on-the-way.md",
+      "bytes": 4786,
+      "sha256": "388a1797449cec3ec4fc3d63c7b3a4f9c307d4ef210f3a21e91217654c6a6430"
     },
     {
       "path": "corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png",
