@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-11-26_2026_11_26_brazil_traditionally_holds_a_prominent_role_in_atlantic_basin_crude_trading__root",
+  "doc_id": "breakwave_insights_insights_2026-11-26_2026_11_26_brazil_traditionally_holds_a_prominent_role_in_atlantic_basin_crude_trading",
+  "parent_id": null,
+  "title": "Brazil traditionally holds a prominent role in Atlantic Basin crude trading",
+  "section_path": [
+    "Brazil traditionally holds a prominent role in Atlantic Basin crude trading"
+  ],
+  "section_path_text": "Brazil traditionally holds a prominent role in Atlantic Basin crude trading",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Nikolaos Tagoulis\nBrazil traditionally holds a prominent role in Atlantic Basin crude trading, with the expansion of its offshore production further underpinning its influence in global oil flows. Rising output is increasing export availability and providing greater flexibility in directing cargoes between European and Asian markets, while offering buyers a source of crude supply largely insulated from geopolitical disruptions. Moreover, on the policy side, favourable trade terms under the EU-Mercosur agreement provide an additional commercial incentive for crude shipments to Europe.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "brazil",
+    "atlantic",
+    "meg",
+    "europe",
+    "india",
+    "crude_oil",
+    "gas",
+    "crude",
+    "offshore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 977,
+  "source_path": "reports/breakwave/2026/2026-11-26_brazil-traditionally-holds-a-prominent-role-in-atlantic-basin-crude-trading.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/11/26/brazil-traditionally-holds-a-prominent-role-in-atlantic-basin-crude-trading",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-11-26_2026_11_26_brazil_traditionally_holds_a_prominent_role_in_atlantic_basin_crude_trading__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-11-26_2026_11_26_brazil_traditionally_holds_a_prominent_role_in_atlantic_basin_crude_trading",
+      "parent_id": "breakwave_insights_insights_2026-11-26_2026_11_26_brazil_traditionally_holds_a_prominent_role_in_atlantic_basin_crude_trading__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Nikolaos Tagoulis\nBrazil traditionally holds a prominent role in Atlantic Basin crude trading, with the expansion of its offshore production further underpinning its influence in global oil flows. Rising output is increasing export availability and providing greater flexibility in directing cargoes between European and Asian markets, while offering buyers a source of crude supply largely insulated from geopolitical disruptions.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "brazil",
+        "atlantic",
+        "meg",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 975,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T20:11:49Z",
+ "generated_at": "2026-11-26T19:26:07Z",
  "compiler_version": 2,
  "count": 106,
  "files": [
@@ -134,7 +134,7 @@
    "path": "knowledge/chunks/breakwave_insights_insights_2026.jsonl",
    "stem": "breakwave_insights_insights_2026",
    "year": 2026,
-   "bytes": 5659839
+   "bytes": 5670318
   },
   {
    "file": "breakwave_tankers.jsonl",
@@ -386,7 +386,7 @@
    "path": "knowledge/chunks/hellenic_iron_ore_2026.jsonl",
    "stem": "hellenic_iron_ore_2026",
    "year": 2026,
-   "bytes": 16877592
+   "bytes": 16925955
   },
   {
    "file": "hellenic_shipbuilding.jsonl",
