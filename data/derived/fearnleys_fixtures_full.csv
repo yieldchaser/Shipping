@@ -602807,3 +602807,4 @@ id,date,charterer,owner,vessel,imo,rate,period,route,segment,department,commodit
 900496,2026-11-26,Vale,,,,,,,Panamax,BULK,Iron Ore,,,,Vessel with MAX 20 Years old
 900497,2026-11-26,VALE,,,,,,,Panamax,BULK,Iron Ore,,,,FRESH; Vessel with MAX 20 Years old; EU-ETS and/or any other environmental tax related to emissions for owners account
 900498,2026-11-26,Bunge,,,,,,,Panamax,BULK,Wheat,,,,12.40 Mtr
+900499,2026-11-26,,,,,,,,Panamax,BULK,Grain,,,,"General cargo vessel; Max LOA 130 m; beam 22m; Draft limit 7,3-7,5 m; Period 6 +6 months; regular voyages"
