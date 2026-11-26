@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-11-25T17:04:53Z",
-    "as_of": "2026-11-25",
+    "generated_at": "2026-11-26T14:49:32Z",
+    "as_of": "2026-11-26",
     "version": "2.0.0",
     "tab": "Cargo & Trade Flows"
   },
   "provenance_registry": {
     "registry_metadata": {
       "version": "2.0.0",
-      "generated_at": "2026-11-25T17:04:53Z",
-      "as_of": "2026-11-25",
+      "generated_at": "2026-11-26T14:49:32Z",
+      "as_of": "2026-11-26",
       "total_datasets": 19,
       "architecture": "Centralized Dynamic Live Ingest Registry"
     },
