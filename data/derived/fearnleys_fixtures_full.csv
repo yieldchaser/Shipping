@@ -602808,3 +602808,10 @@ id,date,charterer,owner,vessel,imo,rate,period,route,segment,department,commodit
 900497,2026-11-26,VALE,,,,,,,Panamax,BULK,Iron Ore,,,,FRESH; Vessel with MAX 20 Years old; EU-ETS and/or any other environmental tax related to emissions for owners account
 900498,2026-11-26,Bunge,,,,,,,Panamax,BULK,Wheat,,,,12.40 Mtr
 900499,2026-11-26,,,,,,,,Panamax,BULK,Grain,,,,"General cargo vessel; Max LOA 130 m; beam 22m; Draft limit 7,3-7,5 m; Period 6 +6 months; regular voyages"
+900500,2026-11-26,,,,,,,,Panamax,BULK,Grain/Rapeseed,,,,"Max LOA 130 m. And beam 22m. , Draft limit 7,3-7,5 m.; Period 6 +6 months"
+900501,2026-11-26,,,,,,,,Panamax,BULK,Steel Rebar,,,,Suitable Conventional / General Cargo Vessel
+900502,2026-11-26,Lidomar,,,,,,,Panamax,BULK,Steels,,,,"part cargo ok; 3500mtns wric sf 47cft wog and 5000mtns steel billets, max 12m, max 10mtns uw"
+900503,2026-11-26,Gddy,,,,,,,Panamax,BULK,Steels,,,,"part cargo ok; 3500mtns wric sf 47cft wog and 5000mtns steel billets, max 12m, max 10mtns uw"
+900504,2026-11-26,Exiros/ternium Brasil,,,,,,,Panamax,BULK,Coal,,,,FRESH; BSS GEARED AND GLESS
+900505,2026-11-26,Exiros/ternium Brasil,,,,,,,Panamax,BULK,Coal,,,,BSS GEARED AND GLESS; FRESH
+900506,2026-11-26,Exiros,,,,,,,Panamax,BULK,Coking Coal,,,,"GEARED AND/OR GLESS OFFERS; One or two grades, charterers option; Max DWT 120,000 Tons; Max LOA 256 m; Max Beam 43 m; Max Air Draft 23.40 m; Max Draft 14.0 m; Min Free Board 4.55 m; Min Hatch Dimension: 12 m"

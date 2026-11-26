@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated_at_utc": "2026-11-25T22:59:57.514326+00:00",
+  "updated_at_utc": "2026-11-26T19:54:16.087516+00:00",
   "quotes": {
     "BDRY": {
       "symbol": "BDRY",
@@ -15,8 +15,8 @@
       "currency": "USD",
       "exchange": "PCX",
       "source": "yahoo_finance",
-      "navPrice": 12.7677,
-      "netAssets": 26812717.21,
+      "navPrice": 12.8589,
+      "netAssets": 27004199.67,
       "sharesOutstanding": 2100040
     },
     "BWET": {
@@ -32,8 +32,8 @@
       "currency": "USD",
       "exchange": "PCX",
       "source": "yahoo_finance",
-      "navPrice": 762.2468,
-      "netAssets": 99168307.66,
+      "navPrice": 804.7591,
+      "netAssets": 104699159.88,
       "sharesOutstanding": 130100
     }
   }
