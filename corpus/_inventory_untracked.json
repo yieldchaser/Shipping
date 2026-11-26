@@ -27,8 +27,8 @@
     },
     {
       "path": "corpus/06-drewry",
-      "untracked_files": 289,
-      "untracked_bytes": 547687279
+      "untracked_files": 288,
+      "untracked_bytes": 547682493
     },
     {
       "path": "corpus/07-signal",
@@ -42181,11 +42181,6 @@
       "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week39_2026.pdf",
       "bytes": 1692736,
       "sha256": "cfb74c938d015edb12df749489317f64447354fc874abe5b10dbd3e604116a9e"
-    },
-    {
-      "path": "corpus/06-drewry/opinions/2026/2026-11-25_are-north-south-container-alliances-on-the-way.md",
-      "bytes": 4786,
-      "sha256": "388a1797449cec3ec4fc3d63c7b3a4f9c307d4ef210f3a21e91217654c6a6430"
     },
     {
       "path": "corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png",

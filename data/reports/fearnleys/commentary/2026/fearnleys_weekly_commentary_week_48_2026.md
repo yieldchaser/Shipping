@@ -4,13 +4,13 @@ source: "Fearnleys Hasura GraphQL API (fearnpulse.com)"
 year: 2026
 week: 48
 date_range: "2026-11-25 to 2026-11-25"
-comments_count: 7
+comments_count: 8
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-11-25 18:03:41"
+generated_at: "2026-11-26 01:05:20"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 48, 2026
-*Coverage Period: 2026-11-25 to 2026-11-25 | Total Notes: 7*
+*Coverage Period: 2026-11-25 to 2026-11-25 | Total Notes: 8*
 
 ## Executive Summary
 Institutional desk intelligence harvested directly from the Fearnleys Hasura GraphQL backend, covering global Dry Bulk, Crude & Product Tankers, Gas/LNG markets, and Secondhand S&P deals for Week 48 (2026).
@@ -64,7 +64,14 @@ Big discrepancy in rates between the different cross-Mediterranean runs with own
 ---
 
 ## 3. Gas & LNG Markets
-*No dedicated gas/LNG commentary published this week.*
+### LNG Market Report
+**Date:** 2026-11-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+
+With rates easing across all regions, hopes for a winter bump are looking a little forlorn. The arbitrage for trading Atlantic cargoes into JKTC, which has been closed for much of the year, has now firmly slammed shut. Cold weather in Europe is increasing demand and in an effort to limit send-out of limited storages, LNG pricing has risen accordingly. Conversely, storage levels in Asia are deemed sufficient and at current pricing, some markets have been switching to coal. The result is further downward pressure on tonne-mile demand, hence the softening freight market.
+ 
+The relatively few requirements that have emerged are mainly East of Suez, and particularly in the Middle East – both for “conventional” loadings out of Qalhat and for premium business both sides of Hormuz. The geographical- and risk-based splitting of demand in the East has helped to maintain a premium to the Atlantic, but headline rates are gently dipping for all such requirements. The Atlantic market is unusually quiet for the time of year, and the few cargoes that are being discussed are often tentative and subject to potential FOB sales. With traders and portfolios who had taken on additional tonnage for winter remaining a little long, they’re able to either lift such FOB cargoes themselves or release ships at competitive levels.
+
+---
 
 ## 4. Sale and Purchase (S&P) & Corporate Activity
 ### Chartering Weekly Comment
