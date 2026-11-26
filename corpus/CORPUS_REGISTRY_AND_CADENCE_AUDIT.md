@@ -440,7 +440,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/hellenic/demolition`](../data/extracted/md/hellenic/demolition)
 - **Publication Cadence:** Weekly (Saturday/Sunday) (Expected day: Saturday)
 - **Coverage Span:** `2021-07-02` to `2026-11-24`
-- **Latest Ingested Document:** `2026-11-24_athenian-shipbrokers-s-a-demolition-quick-update-week-47-2026_week-47-athenian-demolition-report-2_b584c36f337d.pdf` (Status: **CURRENT (2d)**)
+- **Latest Ingested Document:** `2026-11-24_athenian-shipbrokers-s-a-demolition-quic_Week_47_Athenian_Demolition_Report_2026.pdf` (Status: **CURRENT (2d)**)
 - **Sample Ingested Report (Corpus):** [`2026-11-24_athenian-shipbrokers-s-a-demolition-quick-update-week-47-2026.html`](../corpus/02-hellenic/demolition/2026/2026-11-24_athenian-shipbrokers-s-a-demolition-quick-update-week-47-2026.html)
 - **Sample Extracted Markdown (Digest):** [`gms_2026-11-20_week-47_the-tide-of-second-thoughts.md`](../data/extracted/md/hellenic/demolition/gms/2026/gms_2026-11-20_week-47_the-tide-of-second-thoughts.md)
 - **Raw Corpus Inventory:** 1,976 PDFs, 831 HTML files, 1,218 Images
@@ -472,7 +472,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/hellenic/iron_ore_pdf`](../data/extracted/md/hellenic/iron_ore_pdf)
 - **Publication Cadence:** Daily (Mon-Fri) (Expected day: Daily)
 - **Coverage Span:** `2021-07-14` to `2026-11-25`
-- **Latest Ingested Document:** `2026-11-25_mmi-daily-iron-ore-index-report-november-25-2026_mmi-daily-iron-ore-report-for-25th-n_94b719fe906f.pdf` (Status: **CURRENT (1d)**)
+- **Latest Ingested Document:** `2026-11-25_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-25th-November-2026.pdf` (Status: **CURRENT (1d)**)
 - **Sample Ingested Report (Corpus):** [`2026-11-25_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-25th-November-2026.pdf`](../corpus/02-hellenic/iron_ore/pdfs/2026/2026-11-25_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-25th-November-2026.pdf)
 - **Sample Extracted Markdown (Digest):** [`2026-11-25_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-25th-November-2026.md`](../data/extracted/md/hellenic/iron_ore_pdf/2026/2026-11-25_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-25th-November-2026.md)
 - **Raw Corpus Inventory:** 3,596 PDFs
@@ -536,7 +536,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/breakwave`](../data/extracted/md/breakwave)
 - **Publication Cadence:** Weekly (Tuesday) & Daily Insights (Expected day: Tuesday / Daily)
 - **Coverage Span:** `2018-07-03` to `2026-11-25`
-- **Latest Ingested Document:** `2026-11-25_good-times-bad-times-the-premium-stays-with-the-strait.html` (Status: **CURRENT (1d)**)
+- **Latest Ingested Document:** `2026-11-25_china-crude-demand-return-on-high-fuel-exports-whats-next.html` (Status: **CURRENT (1d)**)
 - **Sample Ingested Report (Corpus):** [`2026-11-17_Breakwave_Tankers.pdf`](../corpus/03-breakwave/tankers/2026/2026-11-17_Breakwave_Tankers.pdf)
 - **Sample Extracted Markdown (Digest):** [`2026-11-17_Breakwave_Tankers.md`](../data/extracted/md/breakwave/tankers/2026/2026-11-17_Breakwave_Tankers.md)
 - **Raw Corpus Inventory:** 314 PDFs, 3,306 HTML files, 15,221 Images, 3,277 Native Markdown files
@@ -655,7 +655,7 @@ Drewry AIS reports are organized into 10 distinct vessel sectors, each with dedi
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/baltic`](../data/extracted/md/baltic)
 - **Publication Cadence:** Weekly (Friday) (Expected day: Friday)
 - **Coverage Span:** `2015-01-09` to `2026-11-20`
-- **Latest Ingested Document:** `2026-11-20_W47_container-report-week-47_container.html` (Status: **CURRENT (6d)**)
+- **Latest Ingested Document:** `2026-11-20_W47_gas-report-week-47_gas.html` (Status: **CURRENT (6d)**)
 - **Sample Ingested Report (Corpus):** [`2026_tanker-report-week-9_tanker.html`](../corpus/08-baltic/tanker/2026/2026_tanker-report-week-9_tanker.html)
 - **Sample Extracted Markdown (Digest):** [`2026_tanker-report-week-9_tanker.md`](../data/extracted/md/baltic/tanker/2026/2026_tanker-report-week-9_tanker.md)
 - **Raw Corpus Inventory:** 3,084 HTML files, 2,264 Native Markdown files
