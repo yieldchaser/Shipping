@@ -602818,3 +602818,731 @@ id,date,charterer,owner,vessel,imo,rate,period,route,segment,department,commodit
 900507,2026-11-27,,SnC MARITIME,WORLD NOVA,,,,,Handysize,BULK,GENERAL CARGO,,,,ADA WOG
 900508,2026-11-27,Seanet,,,,,,,Ultramax,BULK,Steel/General,,,,MIN 30MT GEARS / MAX 25YRS
 900509,2026-11-27,FCC,,,,,,,Panamax,BULK,Slag,,,,OA OK
+900529,2026-11-27,Baonyk,,,,,,,Capesize,BULK,Iron Ore,,,,COA sub tender; 6 firm shipments plus 2 charterer's option or one-year CVC
+900530,2026-11-27,,,,,,,,Panamax,BULK,Metallurgical Coal,,,,
+900531,2026-11-27,,,,,,,,Panamax,BULK,Coal,,,,
+900532,2026-11-27,,,,,,,,Panamax,BULK,Coal,,,,
+900533,2026-11-27,FCC,,,,,,,Panamax,BULK,,,,,"MIN 15TON GEARD, O.A OKAY"
+900534,2026-11-27,,,,,,,,Capesize,BULK,Iron Ore,,,,
+900535,2026-11-27,,,,,,,,Capesize,BULK,Iron Ore,,,,
+900536,2026-11-27,,,,,,,,Capesize,BULK,Iron Ore,,,,
+900537,2026-11-27,,IMMENSE OCEAN INTERNATIONAL LOGISTICS,SENHO AURORA,,,,,Panamax,BULK,dangerous cargo,,,,CLASS 9 DAGEROUS CGO
+900538,2026-11-27,,IMMENSE OCEAN INTERNATIONAL LOGISTICS,FU LONG,,,,,Mini-Handysize,BULK,,,,,MOC BOX
+900539,2026-11-27,,IMMENSE OCEAN INTERNATIONAL LOGISTICS,FU CHENG,,,,,Mini-Handysize,BULK,,,,,MOC BOX
+900540,2026-11-27,,IMMENSE OCEAN INTERNATIONAL LOGISTICS,KS88,,,,,Panamax,BULK,dangerous cargo,,,,CLASS 9 DAGEROUS CGO
+900541,2026-11-27,,IMMENSE OCEAN INTERNATIONAL LOGISTICS,UDE PROSPER,,,,,Panamax,BULK,,,,,BOX
+900542,2026-11-27,,IMMENSE OCEAN INTERNATIONAL LOGISTICS,UDE NOAH,,,,,Panamax,BULK,,,,,BOX
+900543,2026-11-27,,IMMENSE OCEAN INTERNATIONAL LOGISTICS,XINFENGHAI 8,,,,,Mini-Handysize,BULK,,,,,MOC BOX TYPE CRANE 25MT*2
+900544,2026-11-27,,IMMENSE OCEAN INTERNATIONAL LOGISTICS,CH R 803,,,,,Panamax,BULK,dangerous cargo,,,,CLASS 9 DAGEROUS CGO
+900545,2026-11-27,,Njorth Shipping,RACOON,,,,,Handysize,BULK,,,,,WCI / OMAN / FUJAIRAH - OK
+900546,2026-11-27,,Njorth Shipping,WOOHYUN DREAM,,,,,Handymax,BULK,PART CGOS,,,,"SEEKING PART CGOS FOR NOPAC – WCCA RANGE OR EN-ROUTE (BAL SPACE ABT 22,000 – 25,000MTS)"
+900547,2026-11-27,,MWG SHIPPING SERVICE,V PEGASUS,,,,,Handysize,BULK,,,,,
+900548,2026-11-27,,Hongkong Ruyu Shipping,MING YUAN,,,,,Mini-Handysize,BULK,,,,,PNI COVERED; CLASS:PMDS;ADA
+900549,2026-11-27,,,,,,,,Panamax,BULK,,,,,"MIN 15TON GEARD, O.A OKAY"
+900550,2026-11-27,Woohyun Shipping,,,,,,,Panamax,BULK,Steel,,,,MAX 20YRS / GEARED MIN 30MT / TRY DOP / ONE TCT DUR ABT 50 - 70DAYS WOG WITH L’FUL/H’LESS UPTO FULL CAPA
+900551,2026-11-27,Landmark LINE,,,,,,,Panamax,BULK,Coal,,,,"GLESS OK, OA OK; ABT 15/20DAYS WOG"
+900552,2026-11-27,Woohyun,,,,,,,Panamax,BULK,Steel,,,,SINGLE / MAX 20YRS / GEARED MIN 30MT
+900553,2026-11-27,,Multimax,BLC FIRST,,,,,Kamsarmax,BULK,,,,,oz rv - 22300 bki eq bss cjk
+900554,2026-11-27,,TONGQING SHIPPING,TAIHAI 6,,,,,Panamax,BULK,,,,,OR PUSAN 27TH DEC
+900555,2026-11-27,,KAYA SHIPPING,GREAT FLUENCY,,,,,Ultramax,BULK,"PHOSROCK, STEEL, SALT, COAL, ROCK SALT",,,,LAST CARGOES : PHOSROCK (CURRENT) – STEEL – SALT - COAL - ROCK SALT - GOA TRANSIT OK - NO PETCOKE / BULK CLINKER
+900556,2026-11-27,,Glory Shipping Marine,GOLDEN BRAVE,,,,,Handysize,BULK,STEEL & EQUIPMENT / PKS / STEEL PRODUCTS,,,,LAST 3 CARGOES: STEEL & EQUIPMENT / PKS / STEEL PRODUCTS; NO CEMENT IN BULK. 2x25MT COILS OKAY. DECK & HATCH CARGO OKAY; PREFER BACK TO CHINA
+900557,2026-11-27,,Hardy,DS EXPRESS 178,,,,,Handysize,BULK,grain,,,,"PANAMA FLAG, BC CODE GRAIN CERT FITNESS, ADA"
+900558,2026-11-27,WBC,,,,,,,Panamax,BULK,,,,,2-3LL UPTO 1 YEAR
+900559,2026-11-27,WBC,,,,,,,Lme,BULK,PKE,,,,
+900560,2026-11-27,Tongli Tianjin,,,,,,,Kamsarmax,BULK,Limestone,,,,MAX 20 YEARS; ABT 20-25 DAYS
+900561,2026-11-27,,,,,,,,Panamax,BULK,Steel/Generals,,,,SINGLE / MAX 20YRS / GEARED MIN 30MT
+900562,2026-11-27,Hardy,,,,,,,Panamax,BULK,Coal,,,,GLSS
+900563,2026-11-27,,QUADRA,,,,5/8 MOS UPTO 2 YEARS,,Kamsarmax,BULK,,,,,
+900564,2026-11-27,Jade Union,,,,,,,Panamax,BULK,General cargoes/Steels,,,,Age max 25ys; Craned; CJK ok; under deck; DUR : abt 20ds
+900565,2026-11-27,Jade Union,,,,,,,Panamax,BULK,General Cargoes,,,,Crane min 30ts; Age max 20ys (try bit OA); abt 15-20ds
+900566,2026-11-27,Wooyang,,,,,,,Panamax,BULK,Coal,,,,MAX 20 YEARS / GRT UNDER 50K
+900567,2026-11-27,Seapioneer,,,,,,,Handymax,BULK,Grain,,,,"MAX 20 YEARS, GRAIN CLEAN, TRY GEARLESS, DURATION 10-15 DAYS BUT WOG"
+900568,2026-11-27,,ARMADOR SHIP MANAGEMENT,HAWK S,,,,,Handymax,BULK,,,,,CAN TRY ANY DIRECTION W.W.; ITF FITTED / RIGHTSHIP APPROVED 5 STARS
+900569,2026-11-27,Radius Recycling,,,,,,,Panamax,BULK,Scrap,,,,"MIN 4 X 25 MT CRANES, MAX 25 YRS"
+900570,2026-11-27,,Newseaa,NEWSEAS JADE,,,,,Supramax,BULK,,,,,2*25/DECK/GOA/WAFR(HRA)-OK. PREFER SINGLE TRIP OR 2-3 LLGS.
+900571,2026-11-27,Tongli Tianjin,,,,,,,Panamax,BULK,,,,,about 25-30 days WOG
+900572,2026-11-27,,,,,,,,Panamax,BULK,,,,,FRESH; Max 25 years old; Otherwise as per charterers BTB CP terms
+900573,2026-11-27,China Steel Express,,,,,,,Capesize,BULK,Iron Ore Concentrate,,,,"NO MIXING ALLOWED; HALF FRT RATE TO COUNT FOR THE QTY OVER 203,500MT; ARRIVAL DRAFT FOR LUOYU 20.00M; ARRIVAL DRAFT FOR KAOHSIUNG AND TAICHUNG 15.10M; RIGHTSHIP APPROVED"
+900574,2026-11-27,Daifu,,,,,,,Panamax,BULK,Slag,,,,DURATION ABT 30 DAYS WOG
+900575,2026-11-27,,OHY Shipping,WORLD NOVA,,,,,Handysize,BULK,,,,,
+900576,2026-11-27,,OHY Shipping,RACOON,,,,,Handysize,BULK,,,,,EX DD; CAN TRY WCI / OMAN / FUJAIRAH
+900577,2026-11-27,,V-SKY MARINE,TBN,,,,,Panamax,BULK,,,,,
+900578,2026-11-27,,V-SKY MARINE,SPRING MOTA,,,,,Handysize,BULK,,,,,
+900579,2026-11-27,,V-SKY MARINE,MARS,,,,,Handysize,BULK,,,,,
+900580,2026-11-27,,V-SKY MARINE,QIXIASHAN,,,,,Handysize,BULK,,,,,
+900581,2026-11-27,,V-SKY MARINE,SATURN,,,,,Mini-Handysize,BULK,,,,,
+900582,2026-11-27,,V-SKY MARINE,VENUS,,,,,Handysize,BULK,,,,,
+900583,2026-11-27,,V-SKY MARINE,TAIHANGSHAN,,,,,Handysize,BULK,,,,,
+900584,2026-11-27,,CHINALAND,VOSCO JUBILANT,,,,,Supramax,BULK,CLINKER/BULK CEMENT,,,,EH GRAB; CLINKER/BULK CEMENT OK
+900585,2026-11-27,,CHINALAND,VIMC SUNRISE,,,,,Supramax,BULK,,,,,DECK OK; 225 OK
+900586,2026-11-27,Harmony,,,,,,,Ultramax,BULK,Bulk Ferts,,,,DURATION ABT 35-40 DAYS – WOG
+900587,2026-11-27,Harmony,,,,,,,Ultramax,BULK,Bulk Ferts,,,,DURATION ABT 35-40 DAYS – WOG
+900588,2026-11-27,SCNL,,,,,,,Panamax,BULK,SID/GRD,,,,Trip to Cuba – abt 30-35 days wog; Alt 2-4 laden legs
+900589,2026-11-27,,Tan Binh,NOBLE STEED,,,,,Supramax,BULK,,,,,
+900590,2026-11-27,SKY Fusion,,,,,,,Panamax,BULK,Slag,,,,MAX 25 YEARS; VIA COGH OR SUEZ; TRY PERIOD UP TO 1 YEAR
+900591,2026-11-27,,SnC MARITIME,NEW JOYFUL,,,,,Ultramax,BULK,"PETCOKE, STEEL, GRAIN, SALT",,,,LAST CARGOES: PETCOKE(CURRENT) - STEEL - NOPAC GRAIN – SALT – NOPAC GRAIN.
+900592,2026-11-27,,SnC MARITIME,NEW JOYFUL,,,,,Ultramax,BULK,"PETCOKE, STEEL, GRAIN, SALT",,,,LAST CARGOES: PETCOKE(CURRENT) - STEEL - NOPAC GRAIN – SALT – NOPAC GRAIN.
+900593,2026-11-27,Multimax,,,,,,,Handysize,BULK,Bagged Cargo,,,,MIN CRANE 4 x 25 TONS
+900594,2026-11-27,PAN Ocean,,,,,,,Panamax,BULK,,,,,
+900595,2026-11-27,CSE,,,,,,,Panamax,BULK,,,,,FRESH
+900596,2026-11-27,China Steel Express,,,,,,,Panamax,BULK,Iron Ore Concentrate,,,,"NO MIXING ALLOWED; Charterer's option for route via COGH or Suez Canal; arrival draft restrictions for Luoyu, Kaohsiung and Taichung; vessel to be RightShip approved"
+900597,2026-11-27,,Ocean Longevity Shipping & Management,Ocean Spring,,,,,Handysize,BULK,,,,,HONG KONG FLAG / BULK CARRIER
+900598,2026-11-27,,,,,,,,Panamax,BULK,Alumina,,,,"GEARED, MAX 18YEARS"
+900599,2026-11-27,,DE HAN SHIPPING,DE HAN NO.1,,,,,Handysize,BULK,,,,,
+900600,2026-11-27,,DE HAN SHIPPING,DE HAN NO.2,,,,,Handysize,BULK,,,,,
+900601,2026-11-27,,DE HAN SHIPPING,ALLIANCE NO.2,,,,,VLOC,BULK,,,,,
+900602,2026-11-27,NOMI,,,,,,,Panamax,BULK,Coal,,,,NO BHP; 35 DAYS WOG
+900603,2026-11-27,,,,,,,,Panamax,BULK,Granular Sulphur,,,,
+900604,2026-11-27,,,,,,,,Panamax,BULK,Steel Billets,,,,(130 MM X 130 MM X 12 M)
+900605,2026-11-27,,,,,,,,Panamax,BULK,Steel Billets,,,,
+900606,2026-11-27,,,,,,,,Panamax,BULK,Sugar,,,,
+900607,2026-11-27,,,,,,,,Panamax,BULK,Sugar,,,,
+900608,2026-11-27,,,,,,,,Panamax,BULK,Rice,,,,
+900609,2026-11-27,,,,,,,,Panamax,BULK,Ore,,,,MIN 25T GEAR
+900610,2026-11-27,,ASPAC Maritime,GREAT FLUENCY,,,,,Ultramax,BULK,"PHOSROCK, STEEL, SALT, COAL, ROCK SALT, CHROME ORE, VANADIUM ORE",,,,UNDER MY PERIOD VESSEL; LAST CARGOES: PHOSROCK (CURRENT) – STEEL – SALT - COAL - ROCK SALT - STEEL - CHROME ORE+ VANADIUM ORE – COAL; GOA TRANSIT OK; TRY ANY (BUT NO PETCOKE/BULK CLINKER)
+900611,2026-11-27,,MING WAH,GREAT HOPE,,,,,Panamax,BULK,,,,,AFTER DRYDOCKING
+900612,2026-11-27,,,,,,,,Panamax,BULK,,,,,MAX 15 YEARS
+900613,2026-11-27,,,,,,,,Panamax,BULK,,,,,MAX 15 YEARS
+900614,2026-11-27,,Cosco,,,,,,Capesize,BULK,ROYHILL CARGO,,,,
+900615,2026-11-27,,,,,,,,Panamax,BULK,,,,,MAX 15 YEARS
+900616,2026-11-27,,CARGILL,FJ RUBY,,,,,Kamsarmax,BULK,coal,,,,RIGHTSHIP: SS 4 GHG C+; LME/KMX MAX 15YRS; SKALI-PHIL; 9TH DEC ONWS; 3.75 PUS
+900617,2026-11-27,Cargill,,,,,,,Panamax,BULK,Coal,,,,
+900618,2026-11-27,,DAEDONG SHIPPING,VTC PHEONIX,,,,,Panamax,BULK,,,,,PREFER BOUND TO SE ASIA/INDIA
+900619,2026-11-27,,,AMEMPTOS,,,,,Kamsarmax,BULK,,,,,CAN DO 13TH CANX; NEED BUNKERING IN SG / BUNKERING TIME/COST FOR OWNERS ACCOUNT
+900620,2026-11-27,,AMS Shipping,TBN,,,,,Handymax,BULK,,,,,NO RUSSIA/UKRAINE
+900621,2026-11-27,,AMS Shipping,TBN,,,,,Supramax,BULK,,,,,
+900622,2026-11-27,,Highton,TIGER NORTH,,,,,Panamax,BULK,COAL,,,,ETA SANTOS 29-30 DEC IAGW. LAST 3 CARGOES: COAL COAL COAL. GOA OK
+900623,2026-11-27,,,BBG LEADER,,,,,Ultramax,BULK,COAL,,,,LAST CARGOS: COAL(CURRENT)/BAUXITE/CLINKER/COAL
+900624,2026-11-27,,,,,,,,Panamax,BULK,,,,,MAX 15 YEARS
+900625,2026-11-27,,,,,,,,Post-Panamax,BULK,,,,,MAX 15 YEARS
+900626,2026-11-27,,,,,,,,Panamax,BULK,,,,,MAX 15 YEARS
+900627,2026-11-27,,,,,,,,Panamax,BULK,,,,,MAX 15 YEARS
+900628,2026-11-27,,,,,,,,Panamax,BULK,Locomotives,,,,"Need geared Tonnage, TRY GEARLESS; Part Cargo Only"
+900629,2026-11-27,,,HE MING,,,,,Panamax,BULK,,,,,RS 4
+900630,2026-11-27,,Kline,,,,,,Panamax,BULK,,,,,"owns (3 load optn ok). Schedule is still up in the air, so not sure if they can move."
+900631,2026-11-27,,Kaifu,SHUN FU DA,,,,,Kamsarmax,BULK,,,,,
+900632,2026-11-27,Korea LINE,,,,,,,Panamax,BULK,Coal,,,,"MAX 23YRS, RS3, NO IRAN/RUS RECORD; DUR ABT 60 DAYS WOG"
+900633,2026-11-27,,AMS Shipping,TBN,,,,,Handymax,BULK,,,,,NO RUSSIA/UKRAINE
+900634,2026-11-27,,AMS Shipping,TBN,,,,,Handymax,BULK,,,,,NO RUSSIA/UKRAINE
+900635,2026-11-27,,AMS Shipping,TBN,,,,,Supramax,BULK,,,,,
+900636,2026-11-27,,AMS Shipping,TBN,,,,,Supramax,BULK,,,,,
+900637,2026-11-27,,Anglo,Ubuntu Integrity,,,,,Capesize,BULK,,,,,ETD Liangyungang 29 Nov; ETD Zhoushan 1 Dec
+900638,2026-11-27,,,,,,,,Panamax,BULK,Petcoke,,,,SF 1.3; Geared vessel required
+900639,2026-11-27,,,,,,,,Panamax,BULK,Paper,,,,Dia : 80-88Cm vertical x 70-76cm parell x 40-45 height/ Box; 8 box become to one pack; Vessl Gear / Crrn free used bends
+900640,2026-11-27,LDC,,,,,,,Panamax,BULK,Corn,,,,34ft swad gteed
+900641,2026-11-27,CNR,Pan Ocean Co Ltd,C. Freedom (SK),9643283,,,,VLCC,TANK,,FUJAIRAH,EAST,7-9/12,
+900642,2026-11-27,,Progress Marine Pte Ltd,Sophia (Mercuria),1055105,,,,VLCC,TANK,,,,,Pengrang 27/11
+900643,2026-11-27,,DHT Tiger Ltd,Dht Tiger,9733959,,,,VLCC,TANK,,,,,Spore 27/11
+900644,2026-11-27,,,TRUONG MINH DRAGON,,,,,Handysize,BULK,,,,,
+900645,2026-11-27,,EXODUS CHARTERING SERVICES,ALLIS SERENE,,,,,Supramax,BULK,grain,,,,"prefer far east, try any; GRAIN CLEAN; STEEL FRIENDLY (2*25 OK); DECK & HATCH LOADING OK; WAFR HRA OK; PG OK ( EAST OF HORMUZ STRAIT ONLY, NO TRANSIT); GOA OK"
+900646,2026-11-27,,,FORTUNE 6,,,,,Supramax,BULK,,,,,
+900647,2026-11-27,,,JIN HAI PING,,,,,Handymax,BULK,,,,,
+900648,2026-11-27,,,SHENG TAI,,,,,Supramax,BULK,,,,,SOH TRADER
+900649,2026-11-27,,,NING FENG 316,,,,,Supramax,BULK,,,,,
+900650,2026-11-27,,,FICUS,,,,,Supramax,BULK,,,,,"LAST 5 CGO: GENERAL CGO/SILICA SAND/ROCK PHOSPHATE/GENERAL CGO/IRON ORE CAN CALL SALALAH/SOHAR/DIBBA/FUJAIRAH/DUQM PORT WITH AWRP 2*25MT COIL/GOA TRANSIT OK, MAIN DECK/HATCH COVER OK"
+900651,2026-11-27,,EXODUS CHARTERING SERVICES,LILAS EASE,,,,,Supramax,BULK,grain,,,,GRAIN CLEAN; STEEL FRIENDLY (2*25 OK); GOA OK; RED SEA / W.AFR HRA OK
+900652,2026-11-27,,,CS JIAYUGUAN,,,,,Supramax,BULK,,,,,"PREFER FH ,NO UKR ,NO B.SEA RUSSIA,BALTIC RUSSIA OK,NON-GRABBER"
+900653,2026-11-27,MCCI,,,,,,,Panamax,BULK,Purified Terephathalic Acid,,,,"SF ABT 1.2 WOG IN 1.2T JUMBO BAG , DIA : 90CM X90CM X1.7MTR"
+900654,2026-11-27,,,,,,,,Panamax,BULK,Trafo,,,,3 SET TRAFO ABT 470 CBM
+900655,2026-11-27,,,,,,,,Panamax,BULK,Locomotives,,,,"7 locomotives - each 18,51 X 2,81 X 3,77 M/ UW 108 TON; TOTAL 1372,63 CBM; UNDER DECK/ NOT STACKABLE; FLT HH"
+900656,2026-11-27,,,ALEXANDROS P,,,,,Ultramax,BULK,grain,,,,
+900657,2026-11-27,,KAYA SHIPPING,WOOYANG DANDY,,,,,Supramax,BULK,"steel, grain",,,,2 X 25 MTS OK / STEEL FRIENDLY / GRAIN CLEAN
+900658,2026-11-27,PAN Ocean,,,,,,,Panamax,BULK,Steel Slab,,,,"RAIN LOI ESSENTIAL, MAX 20 YEARS"
+900659,2026-11-27,Bainbridge Navigation,,,,,,,Panamax,BULK,Coal,,,,ABOUT 35 DAYS WOG
+900660,2026-11-27,,Woorim,WOOYANG DANDY,,,,,Supramax,BULK,grain,,,,25MT*2TIER OKAY / STEEL FRIENDLY; GRAIN CLEAN
+900661,2026-11-27,Kline Kinkai,,,,,,,Panamax,BULK,GBFS,,,,MAX 15YEARS TRY MORE
+900662,2026-11-27,Right Ocean,,,,,,,Panamax,BULK,Hless Bulk,,,,"GEARLESS WORKABLE, DUR ABT 18~22 DAYS WOG"
+900663,2026-11-27,,JOIN MARITIME,MILOS,,,,,Ultramax,BULK,grain,,,,"NEO PANAMA CANAL FITTED, HOLDS CO2 FITTED"
+900664,2026-11-27,Panocean,,,,,,,Panamax,BULK,Steel Slab,,,,"RAIN LOI ESSENTIAL, VIA COGH ONLY, MAX 20 YEARS"
+900665,2026-11-27,,Precious Shipping Public,Ananya Naree,,,,,Handysize,BULK,,,,,
+900666,2026-11-27,,PSL,Savita Naree,,,,,Ultramax,BULK,,,,,
+900667,2026-11-27,Lynux Shipping,,,,,,,Supramax,BULK,Hless Cargo,,,,DECK & HATCH IMPERATIVE; DURATION ABT 30 DAYS WOG
+900668,2026-11-27,Lynux Shipping,,,,,,,Panamax,BULK,HLESS,,,,DECK & HATCH ESSENTIAL
+900669,2026-11-27,Lynux Shipping,,,,,,,Supramax,BULK,HLESS,,,,TRY GLES; DURATION ABT 25 DAYS WOG
+900670,2026-11-27,,,STAR TAISHAN,,,,,Handysize,BULK,logs,,,,"IMABARI 28K, SINGLE DECK BULK CARRIER, LOGS FITTED; WORLDWIDE TRADING, USA/AUSTRALIA/NEW ZEALAND OK; CLEAN CARGO OK"
+900671,2026-11-27,,MOL,Maran Unity,,,,,Capesize,BULK,,,,,
+900672,2026-11-27,,Star Bulk,Star Gina 2GR,,,,,Newcastlemax,BULK,,,,,
+900673,2026-11-27,,Anglo,Ubuntu Integrity,,,,,Capesize,BULK,,,,,
+900674,2026-11-27,,Marmaras,Korona D,,,,,Capesize,BULK,,,,,
+900675,2026-11-27,,Everest,Shagangfirst Star,,,,,Capesize,BULK,,,,,
+900676,2026-11-27,,NYK,NYK std TBN,,,,,Panamax,BULK,,,,,
+900677,2026-11-27,,Ming Wah,Great Zhou,,,,,Capesize,BULK,,,,,
+900678,2026-11-27,,Minerva,Monemvasia,,,,,Capesize,BULK,,,,,
+900679,2026-11-27,,Norden,Cape Victory,,,,,Capesize,BULK,,,,,
+900680,2026-11-27,,COFCO,DREAM TEAM,,,,,Kamsarmax,BULK,,,,,BHP FITTED
+900681,2026-11-27,PAN Ocean,,,,,,,Panamax,BULK,Coal,,,,RS 3 STARS REQUIRED; MAX 21 YEARS
+900682,2026-11-27,,,,,,,,Panamax,BULK,Calcined Lime,,,,"(1.2 to 1.4 mt jumbo Bags), Chrts agent at bends, Other terms as per gencon cp"
+900683,2026-11-27,,,,,,,,Panamax,BULK,Calcined Lime,,,,(1.2 to 1.4 mt jumbo Bags)
+900684,2026-11-27,,,,,,,,Panamax,BULK,Calcined Lime,,,,(1.2 to 1.4 mt jumbo Bags)
+900685,2026-11-27,Exxon,HMM Co Ltd,Universal Partner,9837614,,,,VLCC,TANK,,FUJAIRAH,EAST,13-15/12,
+900686,2026-11-27,,,SEA PLAIN 8,,,,,Handysize,BULK,deck cargo,,,,"GOA, Deck cargo OK! WW Trader but No Aussie/NZ/USA"
+900687,2026-11-27,,,,,,,,Panamax,BULK,IMO 1.1d UN 0209,,,,MAX 15 MT UW EACH
+900688,2026-11-27,,,,,,,,Panamax,BULK,,,,,PARTLY IMO 1
+900689,2026-11-27,,,,,,,,Panamax,BULK,,,,,CHOPT WRIC
+900690,2026-11-27,,,,,,,,Panamax,BULK,Transformers,,,,2 transformers 58 MT UW each; 1 transformer 42 MT UW; FLT HH
+900691,2026-11-27,,,,,,,,Panamax,BULK,SOC,,,,PARTLY IMO 1
+900692,2026-11-27,,,,,,,,Panamax,BULK,,,,,CHOPT WRIC
+900693,2026-11-27,,,,,,,,Panamax,BULK,Coils,,,,"FLT Hook-to-Hook, including hooking on and off; Under Deck; Stackable; No congestion, waiting, swell or weather clauses to be accepted at either end"
+900694,2026-11-27,Emirates Global Aluminium,,,,,,,Panamax,BULK,Alumina,,,,"Max DWT 30,000 mt; Self discharge; Only sole/full cargo acceptable; Vessel Age Max 10 yrs; Rightship Min 3 Stars Approved"
+900695,2026-11-27,,JOIN MARITIME,SC DALLAS,,,,,Handysize,BULK,ALUMINA / FERTS,,,,LAST CARGOES : ALUMINA / FERTS
+900696,2026-11-27,,,,,,,,Panamax,BULK,Petcoke,,,,"SF 1.3, charterers' option, Geared vessel required"
+900697,2026-11-27,Norden,,,,,,,Panamax,BULK,Coal,,,,
+900698,2026-11-27,PB,,,,,,,Panamax,BULK,Clinker,,,,VIA FE
+900699,2026-11-27,PB,,,,,,,Panamax,BULK,Steels,,,,"2X25 REQUIRED, DECK / HATCH REQUIRED"
+900700,2026-11-27,,WITHMARE,SUN GRACE,,,,,Handysize,BULK,DECK CGO,,,,"PREFER STAYING PACIFIC(SIN-JPN); DO NOT ASK TRIP FOR DECK CGO, INDIA/AUS DIR"
+900701,2026-11-27,,,EAST BANGKOK,,,2/3LL,,Handysize,BULK,,,,,"EEXI COMPLIANT, AUSSIE, USA OKAY, RIGHTSHIP 3 / GHG RATING C"
+900702,2026-11-27,Emirates Global Aluminium,,,,,,,Panamax,BULK,Calcined Petcoke,,,,Charterer’s option to declare other port(s) in China basis same TCE; Self discharge; Only sole/full cargo acceptable; Vessel Age Max 15; Rightship: Min 3 Stars approved
+900703,2026-11-27,,,,,,,,Panamax,BULK,Self-Propelled Buses,,,,UNDERDECK
+900704,2026-11-27,,Starbulk,Star Lambada,,,,,Kamsarmax,BULK,,,,,Grain clean / Haypoint suitable / CO2-A60 fitted
+900705,2026-11-27,,,,,,,,Panamax,BULK,General Cgo,,,,"FULL P/L AVAILABLE, U/O DECK / PARTLY STACKABLE"
+900706,2026-11-27,Kline,,,,,,,Panamax,BULK,Coal,,,,less than 15 years; no Iran/Iraq/Russia caller
+900707,2026-11-27,,,,,,,,Panamax,BULK,Trafo,,,,Dimensions 605 X 320 X 355 CM/ 61Ton Each unit; Split of 19 +19 +19; Max weight 61 tons; main units non stackable; Accessories 1+1 tier
+900708,2026-11-27,Chabe,,,,,,,Panamax,BULK,Vehicles/Containers,,,,included 90 Vehicles + 76x20' soc + 4 trailers (included imo cls 1); containers on dec ok; all vehicles & trailers under deck; vessel must be iacs classed
+900709,2026-11-27,,,,,,,,Panamax,BULK,Steels/MNRLS,,,,"SD/TWN OA OK OH, GRD"
+900710,2026-11-27,,,,,,,,Panamax,BULK,Modules/Parts,,,,ALL UNDER DECK / STACKABLITY AS PER P/L ( available )
+900711,2026-11-27,,Strait United,STAR CAPOEIRA,,,,,Kamsarmax,BULK,coal/mineral,,,,1TCT INDO/AUSSIE COAL/MINERAL TO SEASIA-SCHINA
+900712,2026-11-27,,Ming Wah,GREAT HOPE,,,one year,,Panamax,BULK,,,,,Silicon coating at last drydock; 12.5 / 11.5 kn on 21.5 / 21.5 mt LSIFO; port 3.5 / 4 mt
+900713,2026-11-27,,,APJ PRITI 2,,,up to one year,,Kamsarmax,BULK,grains,,,,Tsuneishi-built; proposed Indian flag; RightShip 3; GHG C+
+900714,2026-11-27,,,,,,,,Panamax,BULK,Clay,,,,
+900715,2026-11-27,Direct Charts,,,,,,,Panamax,BULK,Ferts,,,,Grd min 25t
+900716,2026-11-27,,,NEWSUN UNITY,,,SHORT TC,,Supramax,BULK,,,,,direct tonnage
+900717,2026-11-27,Jaldhi,,,,,,,Panamax,BULK,Coal Pellets/Iron Ore Pellets,,,,FRESH COASTAL REQ-EX-ECI; GEARED/GLESS MAX 20Y; HARMLESS BULK; DUR ABT 8-9 DAYS WOG; BOR AS ON BOARD; NO PAKISTANI / CHINESE CREW ON BOARD
+900718,2026-11-27,,,,,,,,Panamax,BULK,Steels/Steel billets,,,,"part cargo ok; 3500mtns wric sf 47cft wog and 5000mtns steel billets, max 12m, max 10mtns uw"
+900719,2026-11-27,,EXODUS CHARTERING SERVICES,GREENDALE,,,,,Handymax,BULK,,,,,GOA TRANSIT OK
+900720,2026-11-27,,NYK,Cielo D’Italia,,,bop upto Mid Mar 2027,,Babycape,BULK,,,,,NYK (CP Chain: D'amico > NYK); ex coal
+900721,2026-11-27,Cofco INL,,,,,,,Panamax,BULK,,,,,30 MAX
+900722,2026-11-27,Cofco INL,,,,,,,Panamax,BULK,,,,,max 30 years
+900723,2026-11-27,EGA,,,,,,,Panamax,BULK,Alumina,,,,"Max DWT as per attached is 30,000 mt; Only sole/full cargo acceptable; Vessel Age Max 10 yrs; Rightship: Min 3 Stars Approved; War and Piracy Risk for Owner’s account"
+900724,2026-11-27,Cofco INL,,,,,,,Panamax,BULK,,,,,30 MAX
+900725,2026-11-27,Sinoafrica Logistics,,,,,,,Panamax,BULK,Iron Ore,,,,Max 25y; PDA Load port $30k max / Disport $100k max bss 1:1
+900726,2026-11-27,,,,,,,,Handysize,BULK,Salt,,,,BULK cargo
+900727,2026-11-27,,REAL'EN MARINE,REXY,,,,,Panamax,BULK,MPP/TD/DG cargo,,,,
+900728,2026-11-27,,REAL'EN MARINE,RE02,,,,,Panamax,BULK,,,,,
+900729,2026-11-27,,REAL'EN MARINE,RE01,,,,,Panamax,BULK,,,,,
+900731,2026-11-27,,,,,,,,LNGC,LNG,,,,,
+900732,2026-11-27,TEAM BULK,,,,,,,Supramax,BULK,Clinker,,,,AFPS
+900733,2026-11-27,Direct Chrts,,,,,,,Panamax,BULK,Coal,,,,"20 YEARS MAX (CAN TRY OA), DUR ABT 20/25 DWOG"
+900734,2026-11-27,Niavigrains,,,,,,,Panamax,BULK,Wheat,,,,SF 47
+900735,2026-11-27,Direct Chrts,,,,,,,Panamax,BULK,Coal,,,,"20 YEARS MAX, CAN TRY OA, IN BULK, DUR ABT 20/25 DWOG, SUB TERMS"
+900736,2026-11-27,,,SHENG TAI,,,,,Supramax,BULK,grain,,,,SOH TRADER
+900737,2026-11-27,,PAN OCEAN,,,,,,Ultramax,BULK,,,,,TCT REDELIVERY WCCA
+900738,2026-11-27,,PANOCEAN,,,,,,Ultramax,BULK,,,,,TCT REDELIVERY KEY WEST – VERACRUZ RANGE
+900739,2026-11-27,,PANOCEAN,,,,,,Ultramax,BULK,,,,,TCT REDELIVERY KEY WEST – VERACRUZ RANGE
+900740,2026-11-27,,PACIFIC BASIN,,,,,,Ultramax,BULK,,,,,TCT REDELIVERY WCSA
+900741,2026-11-27,,AXLE MARINE,,,,,,Ultramax,BULK,,,,,TCT REDELIVERY S.E. ASIA
+900742,2026-11-27,,REFINED SUCCESS,,,,,,Ultramax,BULK,,,,,TCT REDELIVERY BRAZIL
+900743,2026-11-27,,FORTUNE BULK,,,,SHORT PERIOD,,Ultramax,BULK,,,,,TCT REDELIVERY WCCA – WCSA RANGE
+900744,2026-11-27,,WECO BULK,,,,,,Ultramax,BULK,,,,,TCT REDELIVERY ATLANTIC COLOMBIA
+900745,2026-11-27,,REFINED SUCCESS,,,,,,Ultramax,BULK,,,,,TCT REDELIVERY SINGAPORE - JAPAN RANGE
+900746,2026-11-27,,REFINED SUCCESS,,,,,,Ultramax,BULK,,,,,TCT REDELIVERY SINGAPORE - JAPAN RANGE
+900747,2026-11-27,,AENAV,,,,,,Ultramax,BULK,,,,,TCT REDELIVERY SINGAPORE - JAPAN RANGE
+900748,2026-11-27,,SSM/NOM,,,,,,Ultramax,BULK,,,,,TCT REDELIVERY BANGLADESH
+900749,2026-11-27,,AENAV,,,,,,Ultramax,BULK,,,,,TCT REDELIVERY SINGAPORE - JAPAN RANGE
+900750,2026-11-27,,ACE PACIFIC,,,,,,Ultramax,BULK,,,,,TCT REDELIVERY WCCA
+900751,2026-11-27,,TNS/NOM,,,,,,Supramax,BULK,,,,,TCT REDELIVERY EAST MEDITERRANEAN
+900752,2026-11-27,,SILKROAD,,,,,,Supramax,BULK,,,,,TCT REDELIVERY E.C. INDIA
+900753,2026-11-27,,MARSIRO,,,,,,Supramax,BULK,,,,,TCT REDELIVERY CARIBBEAN SEA
+900754,2026-11-27,,NORSUL,,,,,,Supramax,BULK,,,,,TCT REDELIVERY VILA DO CONDE
+900755,2026-11-27,,NYK SAGA,,,,,,Supramax,BULK,,,,,OHBS; TCT REDELIVERY FUJAIRAH
+900756,2026-11-27,,SEACAPE,,,,,,Handymax,BULK,,,,,PERIOD T/C WITH REDELIVERY TBA
+900757,2026-11-27,,DOEHLE BULK,,,,,,Handymax,BULK,,,,,TCT REDELIVERV INDONESIA
+900758,2026-11-27,,CETUS,,,,,,Handymax,BULK,,,,,TCT REDELIVERY ATLANTIC COLOMBIA
+900759,2026-11-27,,CANPOTEX,,,,,,Handymax,BULK,,,,,TCT REDELIVERY E.C. MEXICO - ATLANTIC COLOMBIA RANGE
+900760,2026-11-27,,SEACAPE,,,,2-3 LADEN LEGS,,Handymax,BULK,,,,,TCT REDELIVERY PERU – ECUADOR RANGE
+900761,2026-11-27,,Woorim,NEW JOYFUL,,,,,Ultramax,BULK,,,,,
+900762,2026-11-27,,AXLE MARINE,,,,,,Handymax,BULK,,,,,TCT REDELIVERY WEST AFRICA
+900763,2026-11-27,,AXLE MARINE,,,,,,Handymax,BULK,,,,,TCT REDELIVERY S.E. ASIA
+900764,2026-11-27,,Woorim,PAN POSEIDON,,,,,Ultramax,BULK,,,,,
+900765,2026-11-27,,LOCH,,,,,,Handymax,BULK,,,,,TCT REDELIVERY BANGLADESH
+900766,2026-11-27,,Woorim,WOOYANG DANDY,,,,,Supramax,BULK,grain,,,,
+900767,2026-11-27,,SADI,,,,2-4 LADEN LEGS,,Handymax,BULK,,,,,TCT REDELIVERY CUBA
+900768,2026-11-27,,OHY Shipping,INLACO HARMONY,,,,,Handysize,BULK,,,,,"RIGHTSHIP 3 STAR, GHG C, BWTS FITTED EEXI COMPLIANT; Flexible Aus./US OK. No Goa/CIS; Prefer to 1tct or Voy Try Legs"
+900769,2026-11-27,Panocean,,,,,,,Panamax,BULK,,,,,
+900770,2026-11-27,Refined Success,,,,,,,Panamax,BULK,,,,,
+900771,2026-11-27,,Woorim,GREAT FLUENCY,,,,,Ultramax,BULK,,,,,goa transit ok
+900772,2026-11-27,,OHY Shipping,PAN POSEIDON,,,,,Ultramax,BULK,COAL / SLAG / M.ORE,,,,ALT SINGAPORE 12-14 DEC 2026; LAST 5 CGOS : COAL (CURRENT) - COAL - SLAG - M.ORE - COAL
+900773,2026-11-27,Refined Success,,,,,,,Panamax,BULK,,,,,
+900774,2026-11-27,Ssm/nom,,,,,,,Panamax,BULK,,,,,
+900775,2026-11-27,Silkroad,,,,,,,Panamax,BULK,,,,,
+900776,2026-11-27,TLS,,,,,,,Panamax,BULK,Iron Ore,,,,
+900777,2026-11-27,Vanbloom,,,,,,,Panamax,BULK,Cement,,,,
+900778,2026-11-27,Ecs/nom,,,,,,,Panamax,BULK,Minerals/HBI,,,,FREE D/A
+900779,2026-11-27,Mbi/nom,,,,,,,Panamax,BULK,Manganese Ore,,,,GABON
+900780,2026-11-27,ADMI,,,,,,,Panamax,BULK,Urea,,,,STWG 45-46; FREE D/A BOTH ENDS
+900781,2026-11-27,Arcelormittal,,,,,,,Panamax,BULK,Steel Slabs,,,,
+900782,2026-11-27,LTE,,,,,,,Panamax,BULK,Alumina,,,,
+900783,2026-11-27,LOCH,,,,,,,Panamax,BULK,,,,,
+900784,2026-11-27,Mpg/nom,,,,,,,Panamax,BULK,Clinker,,,,
+900785,2026-11-27,Ngt/nom,,,,,,,Panamax,BULK,Rock Phosphate,,,,
+900786,2026-11-27,Ngt/nom,,,,,,,Panamax,BULK,Sugar,,,,
+900787,2026-11-27,Kaizer SALT,,,,,,,Panamax,BULK,Salt,,,,8.5M FW
+900788,2026-11-27,Ngt/nom,,,,,,,Panamax,BULK,SBM,,,,9M SW - 170M LOA
+900789,2026-11-27,COMC,,,,,,,Panamax,BULK,Rice,,,,
+900790,2026-11-27,Fcl/nom,,,,,,,Panamax,BULK,Coal,,,,
+900791,2026-11-27,COMC,,,,,,,Panamax,BULK,Rice,,,,
+900792,2026-11-27,Hvc/nom,,,,,,,Panamax,BULK,Aluminia,,,,
+900793,2026-11-27,Ntg/nom,,,,,,,Panamax,BULK,Wheat,,,,
+900794,2026-11-27,VMB,,,,,,,Panamax,BULK,Wheat Bran,,,,
+900795,2026-11-27,Arcelormittal,,,,,,,Panamax,BULK,Steel Bars/Rebars,,,,
+900796,2026-11-27,Arcelormittal,,,,,,,Panamax,BULK,Wire Rods/Rebars,,,,
+900797,2026-11-27,,,,,,,,Panamax,BULK,Fertilizer,,,,IN BULK SF 1.5
+900798,2026-11-27,,Rassoula Maritime,Tbn,,,,,Panamax,BULK,Grain / bale,,,,
+900799,2026-11-27,,Rassoula Maritime,Tbn,,,,,Panamax,BULK,Grain / bale,,,,"class Iacs Fully box , Open Hatch , Flag San Marino Grain / bale 198 000 Cbft , Bulkhead Fitted Co2 Fitted , Imo Fitted"
+900800,2026-11-27,,Rassoula Maritime,Tbn,,,,,Panamax,BULK,Grain / bale,,,,"class Iacs Fully box , Open Hatch , Flag San Marino Grain / bale 198 000 Cbft , Bulkhead Fitted Co2 Fitted , Imo Fitted"
+900801,2026-11-27,,Rassoula Maritime,Tbn,,,,,Panamax,BULK,Grain / bale,,,,
+900802,2026-11-27,,Rassoula Maritime,Tbn,,,,,Panamax,BULK,Grain / bale,,,,"class Iacs Fully box , Open Hatch , Flag Saint Kitts & nevis Grain / bale 200 000 Cbft"
+900803,2026-11-27,,Rassoula Maritime,Tbn,,,,,Panamax,BULK,Grain / bale,,,,"class Iacs Fully box , Open Hatch , Flag Saint Kitts & nevis Grain / bale 200 000 Cbft"
+900804,2026-11-27,,Rassoula Maritime,Tbn,,,,,Panamax,BULK,Grain / Bale,,,,
+900805,2026-11-27,,Rassoula Maritime,Tbn,,,,,Panamax,BULK,Grain / Bale,,,,"class Rina ( Iacs ) Fully box , Open hatch Grain / Bale 250 000 cbft"
+900806,2026-11-27,,Rassoula Maritime,Tbn,,,,,Panamax,BULK,Grain / Bale,,,,"class Rina ( Iacs ) Fully box , Open hatch Grain / Bale 250 000 cbft"
+900807,2026-11-27,,,,,,,,Panamax,BULK,Steel Coil,,,,SUB OTHER TERMS AND CONDITIONS
+900808,2026-11-27,,,,,,,,Panamax,BULK,Calcium Oxide,,,,SF 1.2 WOG; SUB OTHER TERMS
+900809,2026-11-27,PAN Ocean,,,,,,,Panamax,BULK,Coal,,,,MAX 18Y
+900810,2026-11-27,,Oriental Maritime,VTC PHEONIX,,,,,Handysize,BULK,,,,,PREFER BOUND TO SE ASIA/INDIA
+900811,2026-11-27,,Oriental Maritime,WOOYANG DANDY,,,,,Supramax,BULK,grain,,,,B/H OK; 25MT*2TIER OKAY / STEEL FRIENDLY; GRAIN CLEAN
+900812,2026-11-27,,,,,,,,Panamax,BULK,Ammonium Sulphate,,,,SF:1.1-1.2
+900813,2026-11-27,Omegra,,,,,,,Panamax,BULK,,,,,bss 1/1 Cigading (no draft restr for smx/umx)
+900814,2026-11-27,,,,,,,,Panamax,BULK,,,,,R'SHIP 3 MAX 17Y NO RUSSIA CALLING
+900815,2026-11-27,,,,,,,,Panamax,BULK,Ammonium Sulphate,,,,IN JUMBO BAG; GEARED IF NOT GEARED ON OWNER ACCOUNT
+900816,2026-11-27,GNS,,,,,,,Kamsarmax,BULK,Coal,,,,MAX 84K / MAX 20Y TRY OA; DUR ABT 25-30D WOG; R'SHIP MIN 2 STARS; NO CIS RECORD LAST 10 PORTS
+900817,2026-11-27,GNS,,,,,,,Panamax,BULK,Coal,,,,OFF MARKET
+900818,2026-11-27,,,,,,,,Panamax,BULK,Rice,,,,OWNERS TO DO DUE DILIGENCE FOR PORT RESTRICTIONS BENDS
+900819,2026-11-27,,,,,,,,Panamax,BULK,Steel Coil,,,,"8-25MT/UNIT, MAX 3TIERS, GEARLESS OK"
+900820,2026-11-27,,,,,,,,Panamax,BULK,PKM,,,,
+900821,2026-11-27,Zhejiang,,,,,,,Panamax,BULK,,,,,int loadport DBCT
+900822,2026-11-27,,ADA,MANTA FATMA,,,,,Handymax,BULK,flexible cargo,,,,CAN TRY ANY FLEXIBLE CARGO / TRADE
+900823,2026-11-27,,,,,,,,Panamax,BULK,Clay,,,,blk
+900824,2026-11-27,,Ilya Shipping,Alicia,,,,,Handysize,BULK,,,,,"Caribs, Brazil"
+900825,2026-11-27,,Ilya Shipping,Bruce,,,,,Handysize,BULK,,,,,"Dir Asia, Far East"
+900826,2026-11-27,,,Shangdong peng cheng,,,,,Kamsarmax,BULK,,,,,rv - 22700 bki eq bss cjk
+900827,2026-11-27,,,Amemptos,,,,,Kamsarmax,BULK,,,,,23400 bki eq bss cjk - seen 22100 bki eq bss cjk
+900828,2026-11-27,Woohyun Shipping,,,,,,,Panamax,BULK,Coal,,,,
+900829,2026-11-27,Cambrian,,,,,,,Panamax,BULK,,,,,
+900830,2026-11-27,,AMS Shipping,TBN,,,,,Handymax,BULK,,,,,NO RUSSIA/UKRAINE
+900831,2026-11-27,,AMS Shipping,TBN,,,,,Supramax,BULK,,,,,
+900832,2026-11-27,Grain Compass,,,,,,,Supramax,BULK,Steel Slabs,,,,"GRD-GRB / MAX 20 YEARS, ROUTING VIA GOA, DUR ABT 35 DAYS WOG"
+900833,2026-11-27,RWE,,,,,,,Capesize,BULK,,,,,
+900834,2026-11-27,Seasia,,,,,,,Panamax,BULK,,,,,
+900835,2026-11-27,,,,,,,,Panamax,BULK,Steel Coils,,,,
+900836,2026-11-27,,,,,,,,Panamax,BULK,TSP Fertilizer,,,,MAXIMUM UP TO 15 YEARS WITH OVERAGE INSURANCE PREMIUM (OAIP) ON OWNERS ACCOUNT; MAX LOA LOAD PORT 180M
+900837,2026-11-27,,Fujian Ocean,fujian ocean tbn,,,,,Panamax,BULK,"ferts, petcoke, sulphur or others",,,,
+900838,2026-11-27,BULK ASIA,,,,,,,Panamax,BULK,Grains,,,,ABT 65-75 DAYS WOG
+900839,2026-11-27,,EXODUS CHARTERING SERVICES,CHANG YANG JIN HUA,,,,,Handysize,BULK,,,,,semi-box
+900840,2026-11-27,Emirates Global Aluminium,,,,,,,Panamax,BULK,Petcoke,,,,Part Cargo option ok; Vessel Age Max 15 yrs; Rightship Star Rating: Min 3 Stars approved; Owners to appoint charterers nominated agent at bends
+900841,2026-11-27,,CTO INDUSTRIAL,LUCKY HARMONY,,,,,Kamsarmax,BULK,,,,,
+900842,2026-11-27,,BELNAV,lia smx,,,,,Supramax,BULK,,,,,
+900843,2026-11-27,,COSCO SHIPPING BULK,YUN MI FENG,,,,,Panamax,BULK,,,,,RETRO GANGAVARAM
+900844,2026-11-27,PAN Ocean,,,,,,,Panamax,BULK,Coal,,,,MAX 15 YRS
+900845,2026-11-27,PHL,,,,,,,Panamax,BULK,Fertilizer,,,,"SDBC, GEARED OR GEARLESS, OA OK; BIG BGGED"
+900846,2026-11-27,,,AN HAI CONFIDENCE,,,,,Handymax,BULK,,,,,
+900847,2026-11-27,Sojitz,,,,,,,Panamax,BULK,Industrial Salt,,,,Contract term (2 year): 1st Jan 2027 – 31st December 2028; Voyages per year: Max 10 + 2 options in 2027 and Max 10 + 2 options in 2028; Optional shipment in each year shall be declared by 30th September; BAF : USD 500 based on Singapore platts on BL date
+900848,2026-11-27,Sojitz,,,,,,,Panamax,BULK,Industrial Salt,,,,COA; Voyages per year: Max 10 + 2 options in 2027 and Max 10 + 2 options in 2028; Optional shipment in each year shall be declared by 30th September; Owners to confirm strict compliance and satisfy all the conditions set out in the vessel nomination questionnaire; Hold inspection Guidelines as per attached
+900849,2026-11-27,Sojitz,,,,,,,Panamax,BULK,Industrial Salt,,,,Contract term (2 year); Voyages per year: Max 10 + 2 options in 2027 and Max 10 + 2 options in 2028; BAF : USD 500 based on Singapore platts on BL date
+900850,2026-11-27,,COSCO SHIPPING & FOREIGN TRADING S.A.,TAIXING,,,,,Ultramax,BULK,FEAST (PREFER CHINA) cgos,,,,looking for FEAST (PREFER CHINA) cgos
+900851,2026-11-27,,USUAL HDOWNERS,SANTORINI,,,,,Kamsarmax,BULK,grain,,,,SAILED HAZIRA 22 NOVEMBER 11:24 LT; EXPECTED OA 23 RD UCE; ETA RICHARDS BAY 5-8 DECEMBER
+900852,2026-11-27,Armes Chart,,,,,,,Panamax,BULK,Steel,,,,
+900853,2026-11-27,,,,,,,,Panamax,BULK,Corn,,,,abt 49/50’ wog; Sidk bc
+900854,2026-11-27,,,,,,,,Panamax,BULK,Granite,,,,
+900855,2026-11-27,,DnS Chartering,OCEAN DESTINY,,,,,Supramax,BULK,"Coal, Copper Con, Clinker, Iron Ore Fines, Rice",,,,"No On Deck/Hatch – No Russia/Ukraine/GoA/Redsea/Bggd Rice to WAfr; 25mtx x 2 tier coils ok, Dirties ok, USA/EU/Australia ok; Last 5 cargoes: Coal - Copper Con - Clinker - Iron Ore Fines – Clinker; Last 10 Ports: Bin Qasim - Richard's Bay - Dahej - Matarani - Donghae - Lanbei – Singapore – Colombo – Antsiranana – Buchanan"
+900856,2026-11-27,,,,,,,,Panamax,BULK,Cement,,,,"in big bags of 1,5 tons"
+900857,2026-11-27,,Globalnet Trading,IMMENSITY,,,,,Mini-Handysize,BULK,general cargo,,,,DIRECT VSL OPEN AT AVILES
+900858,2026-11-27,,Akij Sea Line Ship Management & Operation,AKIJ GLOBE,,,,,Supramax,BULK,"GRAIN, FERTILIZER, SUGAR, AGGREGATES, LIMESTONE",,,,PREFER CHINA DIRECTION ONLY
+900859,2026-11-27,Jaldhi,,,,,,,Panamax,BULK,Coal,,,,GEARED/GRABBER MAX 15 YEARS
+900860,2026-11-27,,,YUN MI FENG,,,,,Panamax,BULK,grain,,,,"RETRO, PRC/2011, SDBC, CCS, GLESS, 7 HO/7HA"
+900861,2026-11-27,Fierro,,,,,,,Panamax,BULK,Scrap,,,,
+900862,2026-11-27,,,,,,,,Panamax,BULK,,,,,GRD CONTAINER VSL
+900863,2026-11-27,Evershine Shipping,,,,,,,Panamax,BULK,,,,,GRD CONTAINER VSL
+900864,2026-11-27,,,,,,,,Panamax,BULK,,,,,GRD CONTAINER VSL
+900865,2026-11-27,,Sea Power Maritime,EDELSTEIN,,,,,Handysize,BULK,grain,,,,A.D.A
+900866,2026-11-27,,,Refined Success,,,,,Panamax,BULK,,,,,onw
+900867,2026-11-27,,VARAMAR,Artvin,,,,,Mini-Handysize,BULK,,,,,"Fixed Ports: Haydarpasa, Derince, Benghazi, Sfax. Looking for part cargoes direction to Libya-Tunisia range enroute"
+900868,2026-11-27,Propel Shipping,,,,,,,Panamax,BULK,Bagged rice/general,,,,in chopt
+900869,2026-11-27,Propel Shipping,,,,,,,Panamax,BULK,Steel,,,,
+900870,2026-11-27,Propel Shipping,,,,,,,Panamax,BULK,Steel,,,,dur abt 55-65 days wog
+900871,2026-11-27,,,,,,,,Panamax,BULK,Corn,,,,49/50’ wog; Sidk bc
+900872,2026-11-27,TML,,,,,,,Panamax,BULK,,,,,
+900873,2026-11-27,,CTM,PS FRAMURA,,,,,Panamax,BULK,grain,,,,CTM ECSA grain is ok; sailed Krishnapatnam on 20 November 2026; for bunkering purposes
+900874,2026-11-27,,Alcos Transport,Mia,,,,,Handymax,BULK,,,,,"ETA Baltic 03/04 Dec Russ Baltic - ok 2*25 COILS RIGHTSHIP APPROVED NATURAL VENTILATION IMO 4.1,5.1, 8 & 9 FITTED"
+900875,2026-11-27,,Alcos Transport,Mia,,,,,Handymax,BULK,COILS,,,,"ETA Baltic 03/04 Dec Russ Baltic - ok 2*25 COILS RIGHTSHIP APPROVED NATURAL VENTILATION IMO 4.1,5.1, 8 & 9 FITTED"
+900876,2026-11-27,Saros Shipping,,,,,,,Panamax,BULK,SFS Meal,,,,STW ABT 58-59; INTENTION RAVENNA
+900877,2026-11-27,Marvel,,,,,,,Panamax,BULK,Urea,,,,SF: 1.49 CBM/MT
+900878,2026-11-27,,,,,,,,Handysize,BULK,,,,,Geared; abt 20-25 days WOG
+900879,2026-11-27,,,,,,,,Panamax,BULK,Steel,,,,
+900880,2026-11-27,,,,,,,,Panamax,BULK,Bulk Cement,,,,NEED 7-8 VOYAGE
+900881,2026-11-27,,LINK LINE,MAYA,,,,,Handysize,BULK,,,,,
+900882,2026-11-27,,Link Line,FORTUNE 6,,,,,Supramax,BULK,,,,,
+900883,2026-11-27,,Deniam Group,,,,,,Panamax,BULK,,,,,Prefer direction Europe
+900884,2026-11-27,,LINK LINE,VORTEX BULK,,,,,Supramax,BULK,,,,,Yanbu spot
+900885,2026-11-27,,MEDUSA TOPRAK MARITIME,,,,,,Panamax,BULK,,,,,FOR A BIZ TO CENTRAL MED
+900886,2026-11-27,,,,,,,,Panamax,BULK,,,,,GRD/GLESS
+900887,2026-11-27,ECI,,,,,,,Supramax,BULK,Steel Slabs,,,,GRD-GRB / MAX 20 YEARS; ROUTING VIA GOA; DUR ABT 35 DAYS WOG
+900888,2026-11-27,,Delos Navigation,Mykonos,,,,,VLOC,BULK,,,,,
+900889,2026-11-27,,,VM VITA,,,,,Panamax,BULK,,,,,For sale
+900890,2026-11-27,,,ITG AMOY,,,,,Panamax,BULK,,,,,The ship service as Floating Storage Tankers since from 2021. T/C free delivery in Malaysia anchorage Or Jan/Feb in China with newly passed SS/DD.
+900891,2026-11-27,,ADM International,SACHI,,,,,Ultramax,BULK,,,,,all details about
+900892,2026-11-27,,,ELENA L,,,,,Mini-Handysize,BULK,,,,,
+900893,2026-11-27,,,MARAS,,,,,Mini-Handysize,BULK,,,,,
+900894,2026-11-27,,,VITALITY,,,,,Mini-Handysize,BULK,,,,,
+900895,2026-11-27,,,NIKLAS,,,,,Mini-Handysize,BULK,,,,,
+900896,2026-11-27,,WH SHIPPING,RACOON,,,,,Handysize,BULK,grain,,,,pls propose Fujairah/ wc india direction only
+900897,2026-11-27,PAN Ocean,,,,,,,Panamax,BULK,Coal,,,,MAX 15 YRS; 4 X 12 CBM REMOTE CONTROL GRAB OK
+900898,2026-11-27,,,ITG AMOY,,,,,Panamax,BULK,,,,,The ship service as Floating Storage Tankers since from 2021. T/C free delivery in Malaysia anchorage Or Jan/Feb in China with newly passed SS/DD.
+900899,2026-11-27,,,,,,,,Panamax,BULK,Steel Products,,,,via Bystroe - box shaped preferred
+900900,2026-11-27,ADNOC Trading,GasLog,Gaslog Sydney,9626273,,,,LNGC,LNG,,,,,
+900901,2026-11-27,,EDOLENA SHIPPING,ITG AMOY,,,,,Panamax,BULK,,,,,The ship service as Floating Storage Tankers since from 2021. Prompt T/C free delivery in Malaysia anchorage Or Jan/Feb in China with newly passed SS/DD.
+900902,2026-11-27,,,,,,,,Panamax,BULK,Coal/Mineral,,,,
+900903,2026-11-27,Tokyo Gas,Unknown owner,TBN - Unknown owner - 174K - 2-Stroke,,,,,LNGC,LNG,,,,,
+900904,2026-11-27,Tongli,,,,,,,Panamax,BULK,,,,,"MAX 20 YEARS, NO CIS RECORDS"
+900905,2026-11-27,,GN Group,TANARO RIVER,,,,,Mini-Handysize,BULK,,,,,EX VIKTOR
+900906,2026-11-27,,Med Sea,CINDY,,,,,Panamax,BULK,,,,,"SD/BOX SHAPED, STEEL FLOORED, STRENGTHENED FOR HEAVY CARGOES, INSB CLASS, P&I AL-BAHRIAH, A/D/A WOG"
+900907,2026-11-27,GMT Singapore,,,,,,,Panamax,BULK,Concentrates,,,,GRD.
+900908,2026-11-27,,,,,,,,Panamax,BULK,GRD/GLESS,,,,
+900909,2026-11-27,Bunge,,,,,,,Panamax,BULK,Wheat,,,,
+900910,2026-11-27,,GN Group,TANARO RIVER,,,,,Mini-Handysize,BULK,,,,,EX VIKTOR
+900911,2026-11-27,,Pearl Shipping and Chartering,VENUS,,,,,Handysize,BULK,,,,,
+900912,2026-11-27,,Pearl Shipping and Chartering,FU LONG,,,,,Mini-Handysize,BULK,,,,,
+900913,2026-11-27,,Pearl Shipping and Chartering,SATURN,,,,,Mini-Handysize,BULK,,,,,
+900914,2026-11-27,,Pearl Shipping and Chartering,QIXIASHAN,,,,,Handysize,BULK,,,,,
+900915,2026-11-27,,Pearl Shipping and Chartering,UDE NOAH,,,,,Panamax,BULK,,,,,
+900916,2026-11-27,,Pearl Shipping and Chartering,KS88,,,,,Panamax,BULK,,,,,
+900917,2026-11-27,,Pearl Shipping and Chartering,XINFENGHAI 8,,,,,Mini-Handysize,BULK,,,,,
+900918,2026-11-27,,Pearl Shipping and Chartering,SPRING MOTA,,,,,Handysize,BULK,,,,,
+900919,2026-11-27,,Pearl Shipping and Chartering,UDE PROSPER,,,,,Panamax,BULK,,,,,
+900920,2026-11-27,,Pearl Shipping and Chartering,CH R 803,,,,,Panamax,BULK,,,,,
+900921,2026-11-27,,Pearl Shipping and Chartering,TAIHANGSHAN,,,,,Handysize,BULK,,,,,
+900922,2026-11-27,,Pearl Shipping and Chartering,MARS,,,,,Handysize,BULK,,,,,
+900923,2026-11-27,,Pearl Shipping and Chartering,SENHO AURORA,,,,,Panamax,BULK,,,,,
+900924,2026-11-27,,Pearl Shipping and Chartering,FU CHENG,,,,,Mini-Handysize,BULK,,,,,
+900925,2026-11-27,,Pearl Shipping and Chartering,GREAT PANDA,,,,,Handysize,BULK,,,,,
+900926,2026-11-27,,Pearl Shipping and Chartering,ANKA BLUE,,,,,Panamax,BULK,,,,,
+900927,2026-11-27,,Pearl Shipping and Chartering,AN HAI CONFIDENCE,,,,,Handymax,BULK,,,,,
+900928,2026-11-27,,Pearl Shipping and Chartering,HMO LEADER,,,,,Panamax,BULK,,,,,
+900929,2026-11-27,,Pearl Shipping and Chartering,TRUONG MINH STAR,,,,,Handysize,BULK,,,,,
+900930,2026-11-27,,Pearl Shipping and Chartering,TRAVELLER,,,,,Mini-Handysize,BULK,,,,,
+900931,2026-11-27,,Pearl Shipping and Chartering,CH R 806,,,,,Panamax,BULK,,,,,
+900932,2026-11-27,,Pearl Shipping and Chartering,HARMONY 2,,,,,Panamax,BULK,,,,,
+900933,2026-11-27,,ARMADOR SHIP MANAGEMENT,BARON,,,,,Mini-Handysize,BULK,grain,,,,"box shape, double skin,app b fitted, hatch covers are Gantry gang with Pontoon Type, grain/bale ttl 238107/236608 cuft"
+900934,2026-11-27,,ARION,AGIOS KONSTANTINOS,,,,,Panamax,BULK,soyabeans,,,,NO RUSSIAN / NO IRAN HISTORY; Grain Preferred from ECSA
+900935,2026-11-27,,ARION,AGIOS KONSTANTINOS,,,,,Panamax,BULK,,,,,NO RUSSIAN / NO IRAN HISTORY
+900936,2026-11-27,,Akaylar,Deniz Akay,,,,,Handysize,BULK,grain,,,,Grain: 429.851 cbft
+900937,2026-11-27,,Akaylar,Gunce Akay,,,,,Mini-Handysize,BULK,grain,,,,Grain: 363.444 cbft
+900938,2026-11-27,,Akaylar,Mira Akay,,,,,Panamax,BULK,grain,,,,Grain: 299.983 cbft
+900939,2026-11-27,,Akaylar,Ali Akay,,,,,Mini-Handysize,BULK,grain,,,,Grain: 243.827 cbft
+900940,2026-11-27,,MIRACLE INTERNATIONAL INVESTMENT,ECO SIKOUSIS,,,,,Kamsarmax,BULK,,,,,JAPAN BLT
+900941,2026-11-27,LDC,,,,,,,Panamax,BULK,Wheat,,,,preferred size to be advised; discharge 13 m SWAD
+900942,2026-11-27,Fortune BULK,,,,,,,Panamax,BULK,Clinker,,,,TRY NON GRABBER
+900943,2026-11-27,Fortune BULK,,,,,,,Panamax,BULK,Clinker,,,,GRABBER
+900944,2026-11-27,Fortune Bulk,,,,,,,Panamax,BULK,Coal,,,,in bulk
+900945,2026-11-27,Minchart,,,,,,,Panamax,BULK,,,,,"ABLE TO LIFT 25K MT ON 9,0 M FW; CLEAN MINS APP C; ABT 25 DAYS WOG"
+900946,2026-11-27,,Baltic Shipping,Baltic Fin,,,,,Mini-Handysize,BULK,,,,,
+900947,2026-11-27,,Baltic Shipping,Rix Lagoon,,,,,Panamax,BULK,,,,,
+900948,2026-11-27,,Baltic Shipping,Rix Flevo,,,,,Mini-Handysize,BULK,,,,,
+900949,2026-11-27,,Baltic Shipping,Antonia B,,,,,Mini-Handysize,BULK,,,,,
+900950,2026-11-27,,Baltic Shipping,Capella,,,,,Kamsarmax,BULK,,,,,
+900951,2026-11-27,,Baltic Shipping,Baltic Coaster,,,,,Mini-Handysize,BULK,,,,,
+900952,2026-11-27,,Med Sea,NEW LIBERTY,,,,,Handysize,BULK,grain,,,,ADA WOG
+900953,2026-11-27,,,LIMCO GOLD,,,,,Panamax,BULK,,,,,"TWEEN/FLAG PANAMA AT 8.61M DRAFT RINA SS APR 2030 DD JUN 2028 LOA/B/D 101.5/19.6/13M GRT/NRT 6566/3198 HO/HA 2/2 GRAIN/BALE 14,052/13,133CBM M/E B&W 6L35MC 5279 BHP CRANES 2X30T (COMBINABLE) + DERRICKS 2X30T"
+900954,2026-11-27,,,SPRING SYMPHONY,,,,,Mini-Handysize,BULK,,,,,"(EX RAINBOW SPRING) TWEEN DECKER / PANAMA FLAG DWT ON 9.2M BLT SEP 2004 BACHDANG SHIPBUILDING INDUSTRY, VIETNAM NK SS DEC 2029 DD JAN 2028 GRT/NRT 6,255/3,314 LOA/B/D 101.20/18.8/13M GRAIN/BALE 13,149/12,371 CBM 2H/2H LOWER HOLD BOX TYPE- SINGLE PULL HATCH COVER M/E AKASAKA 6UEC33LSII 4,623 HP CRANES 2X30T (COMBINABLE) + DERRICK 1X30T IMDG CERT FITTED THE VSL WAS BLT FOR JAPANESE OWNER ALL MACHINERIES FROM JAPAN"
+900955,2026-11-27,,,LIMCO LOGGER,,,,,Panamax,BULK,logger,,,,"SINGLE DECKER / LOGGER / PANAMA FLAG ON 7.615M DRAFT NK SS AUG 2028 DD AUG 2026 LOA 111.7 M / BR 18.6 M / DEPTH 9.65 M GRT 5691, NRT 3197 HO/HA 2/2 PONTOON GRAIN/BALE 10,976/10,461 M3 DERRICKS 4X30T M/E HANSHIN LH46LA 3,309 KW AT 220 RPM GENS 2X275KW STANCHIONS AVAILABLE VESSEL WAS BLT FOR TAIWANESE OWNER SINCE NEW BUILDING GOOD JAPANESE MAKER LIST"
+900956,2026-11-27,,,AP QUEEN,,,,,Handysize,BULK,,,,,"TWEEN DECKER / PANAMA FLAG AT 9.2M DRAFT NISHI SHIPBUILDING, JAPAN KR SS MAR 2029 DD MAR 2027 GRT 7,454 LOA/B/D 110.67/19.20/13.50M HO/HA 2/2 CR 2X30T (COMBINABLE) + DR 1X30T GR/BL 15,760/14,680 M3 M/E B&W 6L35MC 5,302 HP AT 210 RPM"
+900957,2026-11-27,,,GATE GOLD,,,,,Mini-Handysize,BULK,,,,,"TWEEN / FLAG PANAMA ON 7.35M DRFT PMDS (NON-IACS) SS 11/2029 DD 3/2027 LOA 97.77M, BEAM 18.8M, DEPTH 11.8M 2 HOLDS, 2 HATCHES (NO PONTOONS IN HOLDS) GRAIN/BALE 10,961/10,271 CBM CRANE 1X30T + DERRICKS 2X25T M/E B&W 5L35MC, BHP 4419 GENERATORS 2 X 240 KW"
+900958,2026-11-27,,,THAI BINH 39,,,,,Mini-Handysize,BULK,,,,,"SINGLE DECKER / VIETNAM FLAG ON 6.3M VR SS+DD JUN 2027 GRT/NRT 2,993/1,860 LOA/B/D 91.94/15.3/7.9M GRAIN/BALE 6,590/6,058 CBM 2H/2H MC GREGOR M/E NINGBO G8300ZC 2,400 HP AUX 2X150KW"
+900959,2026-11-27,ADMIC,Shipping Corp of India Ltd,Desh Abhimaan,9326809,W350,,,Suezmax,TANK,,FUJAIRAH,WCI,10-12/12,
+900960,2026-11-27,,SwissMarine,Amis Victory,,,,,Ultramax,BULK,,,,,
+900961,2026-11-27,Ameropa,,,,,,,Panamax,BULK,Urea,,,,fresh
+900962,2026-11-27,,,,,,,,Panamax,BULK,Project Cargo,,,,deck stowage ok/ not stackable; max uw 49.25 t
+900963,2026-11-27,,DENSAY,KIRAN AMERICA,,,,,Supramax,BULK,,,,,
+900964,2026-11-27,,,,,,,,Panamax,BULK,Steel,,,,dims 3 x 12 m; need EU flag; can try part-cargo
+900965,2026-11-27,,mwg,PEGASUS,,,,,Handysize,BULK,,,,,
+900966,2026-11-27,,,,,,,,Panamax,BULK,Petcoke,,,,Grd vsl
+900967,2026-11-27,,,,,,,,Panamax,BULK,Urea,,,,river port
+900968,2026-11-27,Bunge,,,,,,,Panamax,BULK,Corn,,,,
+900969,2026-11-27,,GN GROUP,WHARFE RIVER,,,,,Mini-Handysize,BULK,,,,,HOME TONNAGE POSITIONS
+900970,2026-11-27,,GN GROUP,LOIRE RIVER,,,,,Mini-Handysize,BULK,,,,,HOME TONNAGE POSITIONS
+900971,2026-11-27,,GN GROUP,RHONE RIVER,,,,,Mini-Handysize,BULK,,,,,HOME TONNAGE POSITIONS
+900972,2026-11-27,,Oriental Maritime,HOANG ANH 10,,,,,Supramax,BULK,,,,,
+900973,2026-11-27,,Oriental Maritime,HOANG ANH 36,,,,,Handysize,BULK,,,,,NO TANDEM OPERATION ALLOWED TT STRENGTH 20MT/SQM IN ALL HOLDS
+900974,2026-11-27,,Oriental Maritime,HOANG ANH 11,,,,,Handysize,BULK,,,,,
+900975,2026-11-27,,Oriental Maritime,HOANG ANH 18,,,,,Handysize,BULK,,,,,
+900976,2026-11-27,,Oriental Maritime,HOANG ANH 12,,,,,Handymax,BULK,,,,,
+900977,2026-11-27,,Oriental Maritime,OCEAN 05,,,,,Handymax,BULK,,,,,
+900978,2026-11-27,,Oriental Maritime,OCEAN 06,,,,,Handymax,BULK,,,,,
+900979,2026-11-27,,SAFIR GEMI,AHMET CAN,,,,,Panamax,BULK,GENERAL CARGO,,,,SIDK; PANAMA FLAG; POLISH CLASS; ALL ABT WOG
+900980,2026-11-27,,SAFIR GEMI,ATA 1,,,,,Panamax,BULK,GENERAL CARGO,,,,BOX SHAPED; PANAMA FLAG; OMSC CLASS; 6.555 DWAT ON 6.2 M SSWD; ALL ABT WOG
+900981,2026-11-27,,SAFIR GEMI,ATA 2,,,,,Panamax,BULK,GENERAL CARGO,,,,BOX SHAPED; PANAMA FLAG; OMSC CLASS; 6.555 DWAT ON 6.1 M SSWD; ALL ABT WOG
+900982,2026-11-27,,,,,,,,Panamax,BULK,Autoclave Assembly,,,,"Non-Stackable, under deck; Vessel should be self-geared to load/discharge"
+900983,2026-11-27,,,,,,,,Panamax,BULK,Bulk Fert,,,,
+900984,2026-11-27,,,,,,,,Panamax,BULK,,,,,named/rated vsl to fix; grd
+900985,2026-11-27,,XIEHAI BULK,XIEHAI LANSHENG,,,,,Post-Panamax,BULK,,,,,NEW TCD ON HAND
+900986,2026-11-27,,Rieck + Petersen,ECO AVALON,,,,,Handysize,BULK,,,,,WAFRICA HRA ARE OK / NO FH
+900987,2026-11-27,,,,,,,,Panamax,BULK,Coal,,,,cargo is ready
+900988,2026-11-27,,COSCO SHIPPING BULK,YUAN HAI SONG TAO,,,,,Ultramax,BULK,grain/general cargo,,,,LAST FIVE CARGO: GRAIN/GENERAL CARGO
+900989,2026-11-27,,,,,,,,Panamax,BULK,Rice,,,,combi OK; Part cargo OK
+900990,2026-11-27,,,,,,,,Panamax,BULK,Rice,,,,Part cargo OK; combi OK
+900991,2026-11-27,,,,,,,,Panamax,BULK,Rock Phosphate,,,,
+900992,2026-11-27,,,,,,,,Panamax,BULK,Wheat,,,,
+900993,2026-11-27,Aquavita International,,,,,,,Kamsarmax,BULK,,,,,"max 14 years; 6-9 mos, abt 1 year or longer"
+900994,2026-11-27,Aquavita International,,,,,,,Panamax,BULK,,,,,"max 14 years; period 6–9 months, about one year or longer"
+900995,2026-11-27,,,Victoria,,,,,Supramax,BULK,clean cargo,,,,"Open hatch, boxed, strengthened for heavy cargo; Can do clean cargo; Pref FH; Last cargoes: Generals (current) / Dry Dock"
+900996,2026-11-27,,,VIMC MIGHTY,,,,,Handysize,BULK,,,,,"PREFER W/I W.INDIA - JPN RGE, NO AFRICA"
+900997,2026-11-27,,,,,,,,Handysize,BULK,Rice,,,,free D/A's; 1 or 2 ports Cuba
+900998,2026-11-27,Tongli,,,,,,,Panamax,BULK,Coal,,,,"preferred, max 20 years; intention Vietnam; no CIS records"
+900999,2026-11-27,,,,,,,,Kamsarmax,BULK,Coal,,,,about 35 days WOG; no BHP
+901000,2026-11-27,,,,,,,,Panamax,BULK,Grain,,,,"can try over 20 years; intention Canada → one safe port Singapore–Japan range, intention China; about 50–55 days WOG"
+901001,2026-11-27,Acubens,,,,,,,Panamax,BULK,,,,,
+901002,2026-11-27,Cargill,,,,,,,Panamax,BULK,,,,,max 15 years
+901003,2026-11-27,,,,,,,,Panamax,BULK,Coal,,,,about 20 days WOG
+901004,2026-11-27,PAN Ocean,,,,,,,Panamax,BULK,Coal,,,,max 18 years; intention M. Banyuasin
+901005,2026-11-27,SKY Fusion,,,,,,,Panamax,BULK,Slag,,,,max 25 years; one safe port Mediterranean via COGH or Suez; period option up to one year
+901006,2026-11-27,NSU,,,,,,,Panamax,BULK,Iron Ore,,,,gangway aft and BOR = AOB required
+901007,2026-11-27,Cambrian,,,,,,,Panamax,BULK,,,,,
+901008,2026-11-27,VALE International,,,,,,,Panamax,BULK,Iron Ore,,,,"max 20 years; with Skaw–Gibraltar range including UK/Ireland, full Med/Black Sea and Rotterdam options; charterers’ agents both ends; EU ETS and other emissions-related environmental taxes for owners"
+901009,2026-11-27,Cofco INL,,,,,,,Panamax,BULK,,,,,max 30 years
+901010,2026-11-27,Jaldhi,,,,,,,Panamax,BULK,Bagged Rice,,,,"max 7 yrs, pref ICA, 1/2 shipments a months"
+901011,2026-11-27,,Flipper Shipping and Trading,TITAN PEARL,,,,,Mini-Handysize,BULK,GENERAL CARGO,,,,GENERAL CARGO / BOX / DOUBLE SKINNED
+901012,2026-11-27,,Flipper Shipping and Trading,CETUS,,,,,Panamax,BULK,GENERAL CARGO,,,,GENERAL CARGO / BOX / DOUBLE SKINNED
+901013,2026-11-27,,Flipper Shipping and Trading,TITAN QUEEN,,,,,Mini-Handysize,BULK,GENERAL CARGO,,,,GENERAL CARGO / BOX / DOUBLE SKINNED/OPEN HATCH
+901014,2026-11-27,,Flipper Shipping and Trading,PARDUS,,,,,Handysize,BULK,GENERAL CARGO,,,,GENERAL CARGO / BOX / DOUBLE SKINNED
+901015,2026-11-27,Niavigrains,,,,,,,Panamax,BULK,Wheat,,,,stw 47
+901016,2026-11-27,EFE,,,,,,,Panamax,BULK,,,,,SP min 3/5 try 4/6; Prefer sp or 2/3 LL
+901017,2026-11-27,,SONAY SHIPPING,NURI SONAY,,,,,Handysize,BULK,,,,,GR:572.000 CBFT-TT STR 20T/M2 ITF FITTED
+901018,2026-11-27,,Y.M.Y. Global Navigation,Ocean Ambassador,,,,,Mini-Handysize,BULK,grain,,,,"PORTUGAL FLAG, IMO 9400435, BOX LIKE, DOUBLE SKIN, GEARLESS, GRAIN/BALE 246,000 CBFT, APP A-B-C FITTED, CO2 & CONTAINER FITTED, CLASS RINA, U.K P&I"
+901019,2026-11-27,,Y.M.Y. Global Navigation,Ocean Commander,,,,,Handysize,BULK,grain,,,,"PORTUGAL FLAG, IMO 9403920, BOX LIKE, DOUBLE SKIN, GEARLESS, GRAIN/BALE 246,000 CBFT, APP A-B-C FITTED, CO2 & CONTAINER FITTED, CLASS RINA, U.K P&I"
+901020,2026-11-27,,NAVISION,ORION,,,,,Ultramax,BULK,coal,,,,LAST CARGO: COAL; NO DECK; NO GOA
+901021,2026-11-27,,,,,,,,Panamax,BULK,Salt,,,,(1.2*1.2*1.1 - height; unit weight - 1350 kg; no tier limitations)
+901022,2026-11-27,,OHY Shipping,RACOON,,,,,Handysize,BULK,,,,,EX DD; CAN TRY WCI / OMAN / FUJAIRAH
+901023,2026-11-27,,OHY Shipping,WOOYANG DANDY,,,,,Supramax,BULK,grain,,,,GRAIN CLEAN
+901024,2026-11-27,,Sporleder,Vikingbank,,,,,Handysize,BULK,,,,,"Dutch flag, Ice Class 1A"
+901025,2026-11-27,,Sporleder,Eemsborg,,,,,Handysize,BULK,,,,,"Dutch flag, Ice Class 1A"
+901026,2026-11-27,,Sporleder,Ariane,,,,,Handysize,BULK,,,,,"Dutch flag, Ice Class 1A"
+901027,2026-11-27,,Sporleder,Reggeborg,,,,,Handysize,BULK,,,,,"Dutch flag, Ice Class 1A"
+901028,2026-11-27,,,,,,,,Panamax,BULK,,,,,MAX 18 YRS; FOR 2-3LL
+901029,2026-11-27,,,emmanouil,,,,,Handysize,BULK,RICE,,,,EAF / SAF TO FE / SPORE / JAPAN / CHINA RANGE; LAST CARGO RICE; USA/VENEZUELA/AUSSIE/LOGS/DECK/RS 4; REDEL SINGAPORE - JAPAN - CHINA RANGE - FE
+901030,2026-11-27,,RIDLEY SHIPPING,TBN,,,,,Panamax,BULK,GRAIN,,,,Owners looking for a suitable cargo to med.
+901031,2026-11-27,,,,,,,,Panamax,BULK,Peas/Wheat,,,,stw 49
+901032,2026-11-27,,,,,,,,Panamax,BULK,Wheat/Peas,,,,stw 47
+901033,2026-11-27,,,EMMANOUIL,,,,,Handysize,BULK,RICE,,,,"EAF / SAF TO FE / SPORE / JAPAN / CHINA RANGE, LAST CARGO RICE, USA/VENEZUELA/AUSSIE/LOGS/DECK/RS 4, REDEL SINGAPORE - JAPAN - CHINA RANGE - FE"
+901034,2026-11-27,,,,,,,,Panamax,BULK,Grain,,,,geared Bulk Carrier; IMO 4.2; bss 3-4 days spread laycan
+901035,2026-11-27,,,GLORIEUSE,,,,,Handymax,BULK,,,,,cement holes fitted
+901036,2026-11-27,,,emmanouil,,,1 TCT,,Handysize,BULK,RICE,,,,"EAF / SAF TO FE / SPORE / JAPAN / CHINA RANGE, LAST CARGO RICE, USA/VENEZUELA/AUSSIE/LOGS/DECK/RS 4, REDEL SINGAPORE - JAPAN - CHINA RANGE - FE"
+901037,2026-11-27,,Evros Ships Ltd,Evros,1087536,,,,VLCC,TANK,,,,,Spore 2/12
+901038,2026-11-27,,Zygos Shipping & Trading,SPAR MAIA,,,,,Ultramax,BULK,STEELS / GRAIN,,,,"LAST 3 CARGOES : STEELS(CURRENT) / GRAIN / STEELS; CAN DO 2 X 25MT, DECK & HATCH; NO GOA, BLACK SEA"
+901039,2026-11-27,,,Strymonas,,,,,VLCC,TANK,,,,,Spore 2/12
+901040,2026-11-27,,,,,,,,Panamax,BULK,Trucks,,,,"TRY KHOR FAKKAN, ONE LOT, DECK OK, FLT"
+901041,2026-11-27,,,Aquavita Glow,,,upto one year,,Ultramax,BULK,Grains / Iron ore fines / Iron Ore pellets,,,,LAST CARGOES: Grains / Grains / Iron ore fines / Iron Ore pellets / Iron Ore pellets; no Goa; can do vehicles under deck
+901042,2026-11-27,,,,,,,,Panamax,BULK,,,,,Duration abt 18-20 days
+901043,2026-11-27,,Wilson,WILSON MAIN,,,,,Mini-Handysize,BULK,dry- and or breakbulk cargo,,,,
+901044,2026-11-27,,Wilson,WILSON EYDE,,,,,Mini-Handysize,BULK,dry- and or breakbulk cargo,,,,
+901045,2026-11-27,,Wilson,WILSON POLA,,,,,Mini-Handysize,BULK,dry- and or breakbulk cargo,,,,
+901046,2026-11-27,,Wilson,WILSON BERGEN,,,,,Mini-Handysize,BULK,dry- and or breakbulk cargo,,,,
+901047,2026-11-27,,Wilson,WILSON BAERL,,,,,Mini-Handysize,BULK,dry- and or breakbulk cargo,,,,
+901048,2026-11-27,,Wilson,WILSON NICE,,,,,Mini-Handysize,BULK,dry- and or breakbulk cargo,,,,
+901049,2026-11-27,Jindal Saw,,,,,,,Panamax,BULK,Coking Coal,,,,Supplier BHP
+901050,2026-11-27,,,,,,,,Panamax,BULK,Yellow Peas,,,,1sp
+901051,2026-11-27,,,,,,,,Panamax,BULK,Locomotives,,,,"7 locomotives - each 18,51 x 2,81 x 3,77 m/ uw 108 ton TOTAL 1372,63 CBM/ under deck/ not stacckable"
+901052,2026-11-27,,,VAN NAVIGATOR,,,,,Ultramax,BULK,,,,,"OPEN EX NANTONG HAITONG SHIPYARD, PREFER 1TCT BACKHAUL"
+901053,2026-11-27,,,THALIS,,,,,Handymax,BULK,grain,,,,GRAIN CLEAN
+901054,2026-11-27,,CLIPPER,SELO,,,,,Handysize,BULK,logs,,,,
+901055,2026-11-27,,CLIPPER,NORSE SAVANNAH,,,,,Handymax,BULK,logs,,,,
+901056,2026-11-27,,MUR,AFRICAN BAZA,,,,,Ultramax,BULK,,,,,
+901057,2026-11-27,,MUR,AFRICAN TIGER,,,,,Handymax,BULK,,,,,
+901058,2026-11-27,,MUR,AFRICAN OXPECKER,,,,,Handymax,BULK,,,,,
+901059,2026-11-27,,,CAPTAIN D LEMPESIS,,,,,Supramax,BULK,GRAIN,,,,CLOSE HEAD/OWNERS
+901060,2026-11-27,,,,,,,,Panamax,BULK,Wheat,,,,45
+901061,2026-11-27,LSS Ocean Transport,,,,,,,Panamax,BULK,Coal,,,,"GLESS SDBC, MAX AGE 15 YRS"
+901062,2026-11-27,,,,,,,,Panamax,BULK,Blk Peas,,,,
+901063,2026-11-27,Aluar Aluminio Argentino,,,,,,,Panamax,BULK,Alumina,,,,"single deck, self-trimming bulk carrier, engine aft, geared or gearless; pontoon hatch covers not recommended; vessel to be ITF covered in Australian waters; Owners to check and meet all port restrictions at both ends; Special wording on ballast water management (international treatment) to be included"
+901064,2026-11-27,,,,,,,,Panamax,BULK,Salt,,,,"boxlike preferred, but not imperative; via Bystroe only; 5 ttl days"
+901065,2026-11-27,FCC,,,,,,,Panamax,BULK,Sugar,,,,"GD, MAX 15YRS TRY OLDER, 40DAYS WOG"
+901066,2026-11-27,,,DANAE,,,,,Kamsarmax,BULK,COILS,,,,OHBS - 2X25 MTS COILS
+901067,2026-11-27,,,TBN 1,,,,,Ultramax,BULK,,,,,FROM OUR CLOSE HEADOWNERS
+901068,2026-11-27,,,,,,,,Panamax,BULK,Wheat,,,,6.8M
+901069,2026-11-27,,,,,,,,Panamax,BULK,Equipment,,,,ttl 44 pcs/ 2541 cbm/ max uw 47 ton - non stackable/ under deck
+901070,2026-11-27,TSGP,,,,,,,Panamax,BULK,Coal,,,,AGE - MAX. 16 YEARS; MAX LOA - 300 M; MAX BEAM - 50 M; performing vessel must have Rightship rating between 3 to 5 star and GHG rating between A to C
+901071,2026-11-27,,,MALAKAND,,,2-3 LLEGS,,Panamax,BULK,COAL,,,,"READY TO FIX!! PREFER SINGLE TRIP OR 2-3 LLEGS – INDO CHINA COAL ALTERNATIVELY, CAN TRY ECSA RV OR NOPAC RV ASWELL LAST CARGO: COAL"
+901072,2026-11-27,,,,,,,,Panamax,BULK,Wheat,,,,
+901073,2026-11-27,Onyx Maritime,,,,,,,Panamax,BULK,Mins,,,,
+901074,2026-11-27,,,,,,,,Panamax,BULK,,,,,H/H; Part cargo; Deck option; Not stackable
+901075,2026-11-27,,BELNAV,KNOSSOS,,,,,Supramax,BULK,,,,,CLOSE /DIR LADY
+901076,2026-11-27,Trafo,,,,,,,Panamax,BULK,Trafo,,,,Vessel must have Crrn / Gear; Loading under Deck only
+901077,2026-11-27,,,,,,,,Panamax,BULK,Structural Steel,,,,"under deck, flt-h/h"
+901078,2026-11-27,,,,,,,,Panamax,BULK,Ferro Manganese,,,,"BAG DIMENSION - (90 CM X 90 CM X 75 CM WOG); TIER LIMIT – 5 HIGH (IF OWNERS WISHES TO INCREASE 6 HIGH, PRIOR CONSENT FROM CHRTS NEED TO BE TAKEN); CAN TRY AS PART CARGO"
+901079,2026-11-27,Medlog,,,,,,,Panamax,BULK,Ferts,,,,SD/BC
+901080,2026-11-27,,,,,,,,Panamax,BULK,High Carbon Silico Manganese,,,,"(Bagged), 60% Loose & 40% Bag, Packing : 1MT Jambo Bag and Loose"
+901081,2026-11-27,SAIL,,,,,,,Panamax,BULK,Coal,,,,
+901082,2026-11-27,SAIL,,,,,,,Panamax,BULK,Coal,,,,
+901083,2026-11-27,,KAMER MARINE,GULIZAR ANA,,,,,Panamax,BULK,,,,,
+901084,2026-11-27,,,,,,,,Handysize,BULK,Ordinary Portland Cement,,,,"Packaging: 50 kg bags, pre-slung with 20 bags inside one 1-ton jumbo sling bag; Shore Depth Approximately 8 meters (Vessel draft must comply with this restriction); Geared Handy size Dry Bulk Carrier equipped with onboard cranes for lifting 1-ton sling bags and clean, dry, moisture-proof cargo holds suitable for break-bulk bagged cement"
+901085,2026-11-27,A1 Charts,,,,,,,Panamax,BULK,Urea,,,,SF 51.20 cbf/ton; chrts option on final quantity loaded; Free das LP
+901086,2026-11-27,,Genaker,GREENDALE,,,,,Handymax,BULK,,,,,Flag Belize
+901087,2026-11-27,,,,,,,,Panamax,BULK,Polymers/PET,,,,average stow abt 1.8
+901088,2026-11-27,,,XIN ZHI YUAN OCEAN,,,abt 1 yr,,Babycape,BULK,,,,,OR SISTER; NO SANCTIONED
+901089,2026-11-27,,,,,,,,Panamax,BULK,Steel Prods,,,,
+901090,2026-11-27,Langlois,,,,,,,Panamax,BULK,Grains,,,,
+901091,2026-11-27,,GEORGE MOUNDREAS &,HOPE,,,,,Handysize,BULK,grain,,,,(ADA)
+901092,2026-11-27,SHELL,Rourke Services Ltd,Minerva Marina,9411939,W377.5,,,Suezmax,TANK,,BRAZIL,EAST,26-27/12,RPTD
+901093,2026-11-27,,,,,,,,Panamax,BULK,Polymers,,,,average stow abt 1.8
+901094,2026-11-27,,,,,,,,Panamax,BULK,Wheat,,,,stw abt 47
+901095,2026-11-27,Repsol,,,,,,,Panamax,BULK,Pcoke,,,,max sea draft is 14m
+901096,2026-11-27,IOC,,Lila TBN,,$18M,,,Suezmax,TANK,,BASRAH,CHENNAI,12/12,
+901097,2026-11-27,Centurion BULK,,,,,,,Panamax,BULK,Coal/Metcoke,,,,
+901098,2026-11-27,,,MARCEL,,,,,Kamsarmax,BULK,COAL,,,,PREFER TO GO EAST
+901099,2026-11-27,,DILIGENT HOLDINGS,QUEEN,,,,,Supramax,BULK,,,,,Cebu
+901100,2026-11-27,,,,,,,,Panamax,BULK,Logs,,,,with stanchions/lashings; normal handy/hmx; duration abt 45-60 days wog (sub vsl's type/size)
+901101,2026-11-27,,,,,,,,Panamax,BULK,Wheat Flour,,,,IN 25KG LOOSE BAGS
+901102,2026-11-27,Aenav,,,,,,,Panamax,BULK,Agris,,,,dur abt 25-30 dwog
+901103,2026-11-27,EGA Contracting,,,,,,,Panamax,BULK,Aluminum,,,,"Min 3 Boxy Holds, NO part cargo allowed, Piracy and War Risk for Owner’s Account, Vessel Age Max 15, Rightship: Min 3 Stars Approved"
+901104,2026-11-27,,,,,,,,Panamax,BULK,Iron Ore Fines/Iron Ore Lumps,,,,Cargo to be loaded / discharge by vessel cranes and grabs.
+901105,2026-11-27,Saros Shipping,,,,,,,Panamax,BULK,Steel Rebars,,,,
+901106,2026-11-27,,,,,,,,Panamax,BULK,Steels,,,,TRY TICK EARLIER
+901107,2026-11-27,,Rassoula Maritime,Tbn,,,,,Panamax,BULK,Grain / bale,,,,
+901108,2026-11-27,,,RS MEDALUX,,,,,Handysize,BULK,,,,,NO RUSSIA/NO UKRAINE NO SULINA
+901109,2026-11-27,,Rassoula Maritime,Tbn,,,,,Panamax,BULK,Grain / bale,,,,"class Iacs Fully box , Open Hatch , Flag San Marino Grain / bale 198 000 Cbft , Bulkhead Fitted Co2 Fitted , Imo Fitted"
+901110,2026-11-27,,Rassoula Maritime,Tbn,,,,,Panamax,BULK,Grain / Bale,,,,
+901111,2026-11-27,,Rassoula Maritime,Tbn,,,,,Panamax,BULK,Grain / bale,,,,
+901112,2026-11-27,,Rassoula Maritime,Tbn,,,,,Panamax,BULK,Grain / bale,,,,"class Iacs Fully box , Open Hatch , Flag Saint Kitts & nevis Grain / bale 200 000 Cbft"
+901113,2026-11-27,,Rassoula Maritime,Tbn,,,,,Panamax,BULK,Grain / bale,,,,
+901114,2026-11-27,,Rassoula Maritime,Tbn,,,,,Panamax,BULK,Grain / Bale,,,,"class Rina ( Iacs ) Fully box , Open hatch Grain / Bale 250 000 cbft"
+901115,2026-11-27,,Rassoula Maritime,Tbn,,,,,Panamax,BULK,Grain / Bale,,,,
+901116,2026-11-27,,EDOLENA SHIPPING,SC HAIKOU,,,,,Handysize,BULK,chemical,,,,"Chemical tanker, HKG Flag, coated & coiled, 12 Grades IGS, NO COW, intended delivery within 1-2 months after execution of MOA"
+901117,2026-11-27,,EDOLENA SHIPPING,SC HAIKOU,,,,,Handysize,BULK,chemical,,,,"Chemical tanker, coated & coiled, 12 grades IGS, NO COW, intended delivery within 1-2 months after MOA execution"
+901118,2026-11-27,,,,,,,,Panamax,BULK,Agris,,,,Duration: abt 25-30 days wog
+901119,2026-11-27,,,PRINCESS A,,,,,Kamsarmax,BULK,,,,,ALUMINA/GRAIN CLEAN/NEO PANAMA FTD
+901120,2026-11-27,,EDOLENA SHIPPING,SC HAIKOU,,,,,Handysize,BULK,,,,,"Chemical tanker, coated & coiled, 12 grades IGS, NO COW, intended delivery within 1-2 months after execution of MOA."
+901121,2026-11-27,Kınay,,,,,,,Panamax,BULK,Project Cargo,,,,partly stackable/ under deck; FLT HH; PARTIAL SHIPMENT IS ALLOWED
+901122,2026-11-27,Authentic,,,,,,,Panamax,BULK,Grains,,,,sdbc/grd/grab; abt 55-60 days wog
+901123,2026-11-27,,,RS ELVIRA,,,,,Handysize,BULK,,,,,NO RUSSIA/NO UKRAINE. NO SULINA.
+901124,2026-11-27,,,,,,,,Panamax,BULK,Equipment,,,,34 pcs/ 888 cbm/ max uw 103.6 ton - non stackable/ under deck
+901125,2026-11-27,,Sea Power Maritime,EDELSTEIN,,,,,Handysize,BULK,grain,,,,
+901126,2026-11-27,Niavigrains,,,,,,,Panamax,BULK,Sunflowerseeds,,,,
+901127,2026-11-27,BHF,,,,,,,Panamax,BULK,,,,,int BHF
+901128,2026-11-27,,,,,,,,Panamax,BULK,Clinker/Coal,,,,"Geared Bulk Carrier, Max 20 years, grab-fitted mandatory, suitably certified for coal carriage and comply with applicable IMSBC Code requirements, temporary Mozambique flag required for entire charter period, 180 + 180 days"
+901129,2026-11-27,,DNA MARITIME,GOOFY,,,,,Ultramax,BULK,,,,,ETA SWP 30/31 NOV ETA FAZENDINHA 3/4 DEC
+901130,2026-11-27,,SK INTERNATIONAL,,,,,,Panamax,BULK,,,,,
+901131,2026-11-27,Casillo,,,,,,,Panamax,BULK,Wheat,,,,1/2 sbs 1sp Algeria (190m / 32')
+901132,2026-11-27,,ADNOC Trading,Greenergy Cloud,,,,,LNGC,LNG,,,,,"As brokers only, try 40s for spot or low ~40k for multimonth"
+901133,2026-11-27,,,,,,,,Panamax,BULK,Rapeseed Meal,,,,Combi or not
+901134,2026-11-27,,NORTHBULK,TULPAR,,,,,Handysize,BULK,,,,,Need direction Far East
+901135,2026-11-27,,,,,,,,Panamax,BULK,Rapeseed Meal,,,,"cargo is ready, try vsls dates"
+901136,2026-11-27,,,,,,,,Panamax,BULK,SFS Meal,,,,sf abt 59'
+901137,2026-11-27,,EDOLENA SHIPPING,TRANS ADRIATIC,,,,,Handysize,BULK,chemicals and oil products,,,,"CAP 1 RATING, vessel in excellent location for easy inspection, can be delivered on short notice within CONT - TYRKEY range"
+901138,2026-11-27,,Oriental Maritime,ORIENTAL TBN 1,,,,,Handysize,BULK,,,,,
+901139,2026-11-27,,Oriental Maritime,ORIENTAL TBN 2,,,,,Handysize,BULK,,,,,
+901140,2026-11-27,,Oriental Maritime,ORIENTAL TBN 3,,,,,Handymax,BULK,,,,,
+901141,2026-11-27,,Oriental Maritime,ORIENTAL TBN 4,,,,,Handysize,BULK,,,,,
+901142,2026-11-27,,Oriental Maritime,ORIENTAL TBN 5,,,,,Handysize,BULK,,,,,
+901143,2026-11-27,,,RACOON,,,,,Handysize,BULK,,,,,HOT TO FIX; WCI / OMAN / FUJAIRAH - OK
+901144,2026-11-27,,GEORGE MOUNDREAS &,ECO NEMESIS,,,,,Handysize,BULK,,,,,GRD
+901145,2026-11-27,,GEORGE MOUNDREAS &,NEPTULUS,,,,,Handysize,BULK,,,,,GRD
+901146,2026-11-27,,Shipping Corp of India Ltd,Desh Vishal,9371749,,,,VLCC,TANK,,,,,Spore ppt
+901147,2026-11-27,,ICDAS,TURK YILDIZI-4,,,,,Mini-Handysize,BULK,,,,,FLAG: TURKISH; CUBFT CAP HOLD: 208356 CFT = (5900 CBM)
+901148,2026-11-27,,,,,,,,Panamax,BULK,Tata Buses,,,,ON / UNDERDECK OWNER'S OPTION
+901149,2026-11-27,Casillo,,,,,,,Panamax,BULK,Wheat,,,,32 feet - 190 LOA
+901150,2026-11-27,Simtra,,,,,,,Panamax,BULK,Bagged/Bulk,,,,ABT 25/30 DAYS WOG
+901151,2026-11-27,,,,,,,,Panamax,BULK,Locomotives,,,,"Need geared Tonnage, TRY GEARLESS; Part Cargo Only"
+901152,2026-11-27,,Oriental Maritime,TBN,,,,,Handysize,BULK,,,,,Looking for cargo to red sea (somalia ok) No T/C - Only voyage
+901153,2026-11-27,Arcelormittal,,,,,,,Panamax,BULK,,,,,FUEL EU ON OWNER ACCOUNT
+901154,2026-11-27,Arcelormittal,,,,,,,Panamax,BULK,Coal,,,,1 / 2 SB; NO LIGHTENING
+901155,2026-11-27,,,,,,,,Panamax,BULK,Heavy Loader,,,,"29 units, abt 465 cubm"
+901156,2026-11-27,LSS Ocean Transport,,,,,,,Panamax,BULK,Coal,,,,"gearless SDBC, max 15 years"
+901157,2026-11-27,,Zygos Shipping & Trading,HPC UNITY,,,,,Handysize,BULK,,,,,PG - JAPAN
+901158,2026-11-27,Horizon,,,,,,,Panamax,BULK,,,,,"grabber only, Goa and on deck imperative"
+901159,2026-11-27,,EDOLENA SHIPPING,JADE STAR 15,,,,,Panamax,BULK,Product tanker,,,,Trading Vietnam domestic where inspectable and delivery.
+901160,2026-11-27,MCD Lidomar,,,,,,,Panamax,BULK,Semi Coke,,,,SF 1.65
+901161,2026-11-27,,EDOLENA SHIPPING,JADE STAR 15,,,,,Panamax,BULK,Product,,,,Trading Vietnam domestic where inspectable and delivery.
+901162,2026-11-27,Sibelco,,,,,,,Panamax,BULK,Silica Sand,,,,"one grade, st dw"
+901163,2026-11-27,,,,,,,,Panamax,BULK,Fertilizer,,,,
+901164,2026-11-27,,EDOLENA SHIPPING,JADE STAR 15,,,,,Panamax,BULK,Product,,,,Trading Vietnam domestic where inspectable and delivery.
+901165,2026-11-27,,NIAVIGRAINS TRADING CHARTERING,NIAVI TBN,,,,,Panamax,BULK,,,,,NO TC - OWS INTRST MED/FEAST
+901166,2026-11-27,,NIAVIGRAINS TRADING CHARTERING,NIAVI TBN,,,,,Handysize,BULK,,,,,NO TC - OWS INTRST MED/FEAST
+901167,2026-11-27,,NIAVIGRAINS TRADING CHARTERING,NIAVI TBN,,,,,Panamax,BULK,,,,,NO TC - OWS INTRST MED/FEAST
+901168,2026-11-27,,,,,,,,Panamax,BULK,Wheat,,,,st 47 wog
+901169,2026-11-27,,Oriental Maritime,XIN SHENG YANG,,,,,Panamax,BULK,,,,,"PREFER FEAST ,CHINA ONLY"
+901170,2026-11-27,First Class,,,,,,,Panamax,BULK,Urea,,,,SF 51.20 cbf/ton; laycan is not flexiable; FREE DA AT LOAD PORT
+901171,2026-11-27,,C-Shipping & Logistics,BON VIVANT,,,,,Mini-Handysize,BULK,GRAIN,,,,LATVIAN FLAG / RINA CLASSED
+901172,2026-11-27,Aenav,,,,,,,Panamax,BULK,Grains,,,,MAX 20 YEARS; 50/60 DAYS WOG
+901173,2026-11-27,Minas,,,,,,,Panamax,BULK,Gypsum,,,,(27-29 SF)
+901174,2026-11-27,Minas,,,,,,,Panamax,BULK,Gypsum,,,,(27-29 SF)
+901175,2026-11-27,,Alcos Transport,MIA,,,,,Handymax,BULK,COILS,,,,"ETA Baltic 03/04 Dec Russ Baltic - ok 2*25 COILS RIGHTSHIP APPROVED NATURAL VENTILATION IMO 4.1,5.1, 8 & 9 FITTED"
+901176,2026-11-27,,Alcos Transport,Mia,,,,,Handymax,BULK,,,,,"ETA Baltic 03/04 Dec Russ Baltic - ok 2*25 COILS RIGHTSHIP APPROVED NATURAL VENTILATION IMO 4.1,5.1, 8 & 9 FITTED"
+901177,2026-11-27,NEOS Shipping,,,,,,,Panamax,BULK,Petcoke,,,,"sf 46-48; Max draft at load port 21m, loa 148m, box type"
+901178,2026-11-27,,EDOLENA SHIPPING,YU RU,,,,,Panamax,BULK,oil chemical,,,,"HONGKONG FLAG, IMO II OIL CHEMICAL TANKER, Class: CCS (IACS), 14 TANKS / ABT 18,644.84 M3, Coated Details: MARINELINE 784, Pumps: 14/ Framo /300 M3/HR/110 Meters, BWMS fitted"
+901179,2026-11-27,,EDOLENA SHIPPING,YU YI,,,,,Panamax,BULK,oil chemical,,,,"HONGKONG FLAG, OIL CHEMICAL TANKER, Class: BV, 14 TANKS / ABT 20,341.67 M3, Coated Details: Hempel Epoxy, Pumps: 2/ Twin Screw pump /600 M3/HR/80 Meters (0.8MPa), BWMS fitted"
+901180,2026-11-27,,,,,,,,Panamax,BULK,Rockphosphate,,,,
+901181,2026-11-27,,EDOLENA SHIPPING,YU RU,,,,,Panamax,BULK,oil chemical,,,,"IMO II OIL CHEMICAL TANKER, HONGKONG FLAG, BWMS fitted"
+901182,2026-11-27,,EDOLENA SHIPPING,YU YI,,,,,Panamax,BULK,oil chemical,,,,"OIL CHEMICAL TANKER, HONGKONG FLAG, BWMS fitted"
+901183,2026-11-27,,EDOLENA SHIPPING,YU RU,,,,,Handysize,BULK,oil chemical,,,,
+901184,2026-11-27,,EDOLENA SHIPPING,YU YI,,,,,Handysize,BULK,oil chemical,,,,
+901185,2026-11-27,Saros Shipping,,,,,,,Panamax,BULK,Wheat,,,,
+901186,2026-11-27,,,,,,,,Panamax,BULK,Grains,,,,Geared-Grabber / Max 20 years; Duration: 50-60 days wog
+901187,2026-11-27,ED&F MAN Sugar,,,,,,,Panamax,BULK,Sugar,,,,m/m
+901188,2026-11-27,ED&F MAN Sugar,,,,,,,Panamax,BULK,Sugar,,,,BAGGED; 04 GEARED HATCHES
+901189,2026-11-27,ED&F MAN Sugar,,,,,,,Panamax,BULK,Sugar,,,,FREE DAS WEST AFRICA
+901190,2026-11-27,,,,,,,,Panamax,BULK,Mixed Steels,,,,
+901191,2026-11-27,,GREAT OCEAN,AGIOS GEORGIOS ATH,,,,,Supramax,BULK,,,,,
+901192,2026-11-27,,GREAT OCEAN,HUA SI HAI,,,,,Supramax,BULK,,,,,
+901193,2026-11-27,,GREAT OCEAN,DSM LIVERPOOL,,,,,Handysize,BULK,,,,,
+901194,2026-11-27,,GREAT OCEAN,IMPERIAL VARALAXMI,,,,,Handysize,BULK,,,,,
+901195,2026-11-27,,QUADRA,,,,5/8 MOS UPTO 2 YEARS,,Kamsarmax,BULK,,,,,
+901196,2026-11-27,,Alma Navigation,Tbn,,,,,Panamax,BULK,,,,,Looking for cargo to red sea (somalia ok)
+901197,2026-11-27,,,,,,,,Panamax,BULK,BGD Rice,,,,PDA BOTH END OWS ACCOUNT
+901198,2026-11-27,Neobulk,,,,,,,Panamax,BULK,Bulk,,,,Dur Abt 12-16 days wog
+901199,2026-11-27,,EDOLENA SHIPPING,EOS T,,,,,Panamax,BULK,,,,,"Trading DPP in West Africa, Trading dirty"
+901200,2026-11-27,,EDOLENA SHIPPING,EOS T,,,,,Handysize,BULK,,,,,Trading dirty
+901201,2026-11-27,,EDOLENA SHIPPING,EOS T,,,,,Handysize,BULK,,,,,Trading dirty
+901202,2026-11-27,,,,,,,,Panamax,BULK,Rockphosphates,,,,fresh exclusive requirement
+901203,2026-11-27,,,,,,,,Panamax,BULK,Steel Scrap,,,,SF ABT 55-60
+901204,2026-11-27,,C-Shipping & Logistics,RDJ JOHANNA,,,,,Mini-Handysize,BULK,GRAIN,,,,DUTCH FLAG / RINA CLASSED
+901205,2026-11-27,,htk,HTK LAVENDER,,,,,Ultramax,BULK,,,,,
+901206,2026-11-27,,Angora,ANKA BLUE,,,,,Panamax,BULK,,,,,Looking for Full/Part cargo to Med / Continent
+901207,2026-11-27,,Rieck + Petersen,BC SERENITY,,,,,Handymax,BULK,,,,,"DG, A60 EQUIVALENT & CO2 FITTED"
+901208,2026-11-27,,EDOLENA SHIPPING,VM VITA,,,,,Panamax,BULK,,,,,"749 TEU gearless feeder, Ice Class 1A, 102 reefer plugs"
+901209,2026-11-27,Niavigrains,,,,,,,Panamax,BULK,Bauxite,,,,
+901210,2026-11-27,,EDOLENA SHIPPING,VM VITA,,,,,Panamax,BULK,,,,,"749 TEU gearless feeder, Ice Class 1A, 102 reefer plugs, hydraulically folding hatch covers"
+901211,2026-11-27,,,,,,,,Panamax,BULK,Corn,,,,51'
+901212,2026-11-27,,,,,,,,Panamax,BULK,Equipment,,,,1865 cbm
+901213,2026-11-27,,EXODUS CHARTERING SERVICES,BAO YUAN 18,,,,,Handysize,BULK,,,,,VSL HAS BOW THRUSTER
+901214,2026-11-27,,EXODUS CHARTERING SERVICES,JC NEW RUBY,,,,,Supramax,BULK,,,,,
+901215,2026-11-27,,EXODUS CHARTERING SERVICES,JC NATURE,,,,,Panamax,BULK,,,,,"goa transit, black sea, tc is ok"
+901216,2026-11-27,,,,,,,,Panamax,BULK,Logs,,,,"Log carrier vessel required. About 6,000-10,000 DWT."
+901217,2026-11-27,,,,,,,,Panamax,BULK,Ammonium Sulphate,,,,"Geared vessel compulsory for discharge at Port Klang. Maximum LOA : 250 M. Maximum Draft : 14.5 M. Maximum DWT : 78,000 MT. South Channel Entrance Draft : 18 M."
+901218,2026-11-27,,,,,,,,Panamax,BULK,Bagged Rice,,,,
+901219,2026-11-27,,,,,,,,Panamax,BULK,Bagged Rice,,,,
+901220,2026-11-27,,,,,,,,Panamax,BULK,Bagged Rice,,,,
+901221,2026-11-27,,,,,,,,Panamax,BULK,Bagged Rice,,,,
+901222,2026-11-27,,,,,,,,Panamax,BULK,Bagged Rice,,,,CAN TRY UPTO 30-35000 MT
+901223,2026-11-27,,,,,,,,Panamax,BULK,Bagged Rice,,,,
+901224,2026-11-27,,,,,,,,Panamax,BULK,Grain,,,,grd sid bc
+901225,2026-11-27,,,,,,,,Panamax,BULK,Corn,,,,O.O
+901226,2026-11-27,Cofco INL,,,,,,,Panamax,BULK,,,,,max 30 years
+901227,2026-11-27,Exiros B.v. Sucursal Uruguay / Ternium,,,,,,,Panamax,BULK,Coking Coal,,,,"one or two grades in charterers’ option; max discharge draft 14 m, LOA 256 m, beam 43 m"
+901228,2026-11-27,,,,,,,,Panamax,BULK,Brand New Tata Buses,,,,OWNER'S OPTION discharge port; ON / UNDERDECK OWNER'S OPTION
+901229,2026-11-27,Multimax,,,,,,,Handymax,BULK,Lawful Cargo,,,,"MAX25YRS, MIN 30.0MT, DUR ABT 35-40 DAYS WOG"
+901230,2026-11-27,,,,,,,,Panamax,BULK,,,,,"WITH SEMI BOX,PREFER COMBINED OR TANDEM CRANES 60MT,MAX 20 YEARS OLD; 2/3LL OR 4-6M TC OR 6+6M OR 12M TC; TRADING AT REDSEA/SOUTH AFRICA/OUTSIDE PG/FE RANGE ETC"
+901231,2026-11-27,ESM,,,,,,,Panamax,BULK,Cement/Clinker,,,,"single decker/bulk carrier, Vessel having mac gregor hatch covers, Cement hole fitted"
+901232,2026-11-27,DAI AN Ocean,,,,,,,Panamax,BULK,Iron Ore,,,,non scrubber
+901233,2026-11-27,Jade Union,,,,,,,Panamax,BULK,Steels,,,,Age max 25ys; Craned; possibly minor equipment
+901234,2026-11-27,Jade Union,,,,,,,Panamax,BULK,General Cargoes,,,,Crane min 30ts; Age max 20ys; hless cargoes under deck (int slabs)
+901235,2026-11-27,Cosco,,,,,,,Panamax,BULK,Slag,,,,"MAX 25 YEARS, GEARED OR GEARLESS"
+901236,2026-11-27,Cosco,,,,,,,Supramax,BULK,Coal,,,,"MAX 25 YEARS, GEARED OR GEARLESS"
+901237,2026-11-27,Cosco,,,,,,,Panamax,BULK,Iron Ore,,,,"MAX 20 YEARS, MIN 4 X 30MT CRANES,4 X 12CBM GRABS"
+901238,2026-11-27,Cosco,,,,,,,Panamax,BULK,Ilmenite,,,,
+901239,2026-11-27,Woohyun,,,,,,,Panamax,BULK,Coal,,,,"MAX 25 YEARS, G’LESS WORKABLE; DUR ABT 10-20 DAYS WOG"
+901240,2026-11-27,Multimax,,,,,,,Panamax,BULK,,,,,"WITH SEMI BOX, PREFER COMBINED OR TANDEM CRANES 60MT, MAX 20 YEARS OLD; 2/3LL OR 4-6M TC OR 6+6M OR 12M TC; TRADING AT REDSEA/SOUTH AFRICA/OUTSIDE PG/FE RANGE ETC"
+901241,2026-11-27,Multimax,,,,,,,Handysize,BULK,Salt,,,,BULK & HARMLESS CARGO; DURATION ABOUT 30 DAYS WOG
+901242,2026-11-27,Cosco,,,,,,,Panamax,BULK,Ilmenite,,,,
+901243,2026-11-27,Fcc,,,,,,,Panamax,BULK,Sugar,,,,
+901244,2026-11-27,Fcc,,,,,,,Panamax,BULK,Sugar,,,,Bss 04 Geared Hatches; Free Das West Africa
+901245,2026-11-27,,,,,,,,Panamax,BULK,Rice,,,,
+901246,2026-11-27,Qatalum,,,,,,,Panamax,BULK,,,,,
+901247,2026-11-27,Qatalum,,,,,,,Panamax,BULK,,,,,"Total cargo volume for 2027: Kendanwangan 700,000mt; Bunbury 100,000mt; Gladstone 200,000mt; Vizag 180,000mt"
+901248,2026-11-27,Fcc,,,,,,,Panamax,BULK,Sugar,,,,04 Geared Hatches
+901249,2026-11-27,Fcc,,,,,,,Panamax,BULK,Sugar,,,,
+901250,2026-11-27,,,,,,,,Panamax,BULK,Agri,,,,stw abt 56'
+901251,2026-11-27,Bunge,,,,,,,Ultramax,BULK,Wheat,,,,VIA COGH
+901252,2026-11-27,Niavigrains,,,,,,,Panamax,BULK,,,,,FOF 8.000cbm GENS
+901253,2026-11-27,,SEA POWER MARITIME,EDELSTEIN,,,,,Handysize,BULK,,,,,TWEEN DECKER
+901254,2026-11-27,,,PARALOS,,,,,Handysize,BULK,,,,,
+901255,2026-11-27,Niavigrains,,,,,,,Panamax,BULK,Sugar,,,,
+901256,2026-11-27,Niavigrains,,,,,,,Panamax,BULK,Corn,,,,abt 49/50’ wog
+901257,2026-11-27,Belin Maden,,,,,,,Panamax,BULK,Rock Phosphate,,,,
