@@ -602815,3 +602815,6 @@ id,date,charterer,owner,vessel,imo,rate,period,route,segment,department,commodit
 900504,2026-11-26,Exiros/ternium Brasil,,,,,,,Panamax,BULK,Coal,,,,FRESH; BSS GEARED AND GLESS
 900505,2026-11-26,Exiros/ternium Brasil,,,,,,,Panamax,BULK,Coal,,,,BSS GEARED AND GLESS; FRESH
 900506,2026-11-26,Exiros,,,,,,,Panamax,BULK,Coking Coal,,,,"GEARED AND/OR GLESS OFFERS; One or two grades, charterers option; Max DWT 120,000 Tons; Max LOA 256 m; Max Beam 43 m; Max Air Draft 23.40 m; Max Draft 14.0 m; Min Free Board 4.55 m; Min Hatch Dimension: 12 m"
+900507,2026-11-27,,SnC MARITIME,WORLD NOVA,,,,,Handysize,BULK,GENERAL CARGO,,,,ADA WOG
+900508,2026-11-27,Seanet,,,,,,,Ultramax,BULK,Steel/General,,,,MIN 30MT GEARS / MAX 25YRS
+900509,2026-11-27,FCC,,,,,,,Panamax,BULK,Slag,,,,OA OK

@@ -6,7 +6,7 @@ week: 45
 date_range: "2020-11-03 to 2020-11-06"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-11-26 17:49:25"
+generated_at: "2026-11-27 01:06:41"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 45, 2020
