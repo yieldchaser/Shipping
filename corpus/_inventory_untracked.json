@@ -2,18 +2,18 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2989,
-      "untracked_bytes": 2298577600
+      "untracked_files": 2987,
+      "untracked_bytes": 2297501479
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4063,
-      "untracked_bytes": 2391882137
+      "untracked_files": 4057,
+      "untracked_bytes": 2389108169
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 21,
-      "untracked_bytes": 4016430
+      "untracked_files": 9,
+      "untracked_bytes": 2035986
     },
     {
       "path": "corpus/04-poten",
@@ -34,11 +34,6 @@
       "path": "corpus/07-signal",
       "untracked_files": 298,
       "untracked_bytes": 174706385
-    },
-    {
-      "path": "corpus/08-baltic",
-      "untracked_files": 10,
-      "untracked_bytes": 46045
     },
     {
       "path": "corpus/09-ppa",
@@ -3691,11 +3686,6 @@
       "path": "corpus/01-brokers/agora/2026/agora_2026_W40_AGORA.-Week-40-2026.-Snapshot-of-Commercial-Indicators.pdf",
       "bytes": 275539,
       "sha256": "695269dfd12759f94385168d9e2293a0ab370460908453c7d641ed8a018add3e"
-    },
-    {
-      "path": "corpus/01-brokers/agora/2026/agora_2026_W48_AGORA.-Week-48-2026.-Snapshot-of-Commercial-Indicators.pdf",
-      "bytes": 276084,
-      "sha256": "7ccf7457aa851017394ca10ca277c8a4a9b3d7129cdb15c86ccf15c3c4b51144"
     },
     {
       "path": "corpus/01-brokers/agora/2026/agora_2026_w14.pdf",
@@ -9986,11 +9976,6 @@
       "path": "corpus/01-brokers/lion/2026/lion_2026_W40_Lion-Weekly-Report-02-October-2026-W40.pdf",
       "bytes": 1852449,
       "sha256": "f6f19434443cd370be0109bd415ee4c6c8063d2565c376703dcdcd5979194806"
-    },
-    {
-      "path": "corpus/01-brokers/lion/2026/lion_2026_W48_Lion-Weekly-Report-27-November-2026-W48.pdf",
-      "bytes": 800037,
-      "sha256": "e613c937ccb5decd8cc6a027066ede89840f9518295bb43047569e007fda154b"
     },
     {
       "path": "corpus/01-brokers/ssy/2021/ssy_2021_A20210705.pdf",
@@ -20463,16 +20448,6 @@
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
     },
     {
-      "path": "corpus/02-hellenic/iron_ore/2026/2026-11-27_mmi-daily-iron-ore-index-report-november-27-2026.html",
-      "bytes": 5409,
-      "sha256": "9d1651eeb88e07440b9ea5ccbfe87c058034e94eaa2ef0b131e73dab68492ec6"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-11-27_mmi-daily-iron-ore-index-report-november-27-2026_27112026chinese32_8bcdca790b88.jpg",
-      "bytes": 178291,
-      "sha256": "288228e1ad62772372431f1e593a7bfa02605fc5a930c72896c1675021f31a73"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
       "bytes": 1106014,
       "sha256": "b82a5abf0415bdb8da87e942ca7a69caa92b9e22ff1373ec591775898b1b0aa3"
@@ -30468,11 +30443,6 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-11-27_mmi-daily-iron-ore-index-report-november-27-2026_mmi-daily-iron-ore-report-for-27th-n_48db862120f8.pdf",
-      "bytes": 1190846,
-      "sha256": "c412323963e8c8769431b007567b9f0a2f430a261a0b4bbf670afb21fbbbd428"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31861,16 +31831,6 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-11-27_mmi-daily-iron-ore-index-report-november_MMi-Daily-Iron-Ore-Report-for-27th-November-2026.pdf",
-      "bytes": 1190846,
-      "sha256": "c412323963e8c8769431b007567b9f0a2f430a261a0b4bbf670afb21fbbbd428"
-    },
-    {
-      "path": "corpus/02-hellenic/shipbuilding/2026/2026-11-27_clarksons-hellas-snp-weekly-20.html",
-      "bytes": 6797,
-      "sha256": "c4a77d68ca07b427e1c98c41bf2f6c16ead9b51aead935d31cc01d9a9110241d"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -35118,11 +35078,6 @@
       "sha256": "f9b17ac1d3d8345d08fa3e1dff456fbda1b177a8892fc18ae73fa9e8d055ee75"
     },
     {
-      "path": "corpus/02-hellenic/shipbuilding/pdfs/2026-11-27_clarksons-hellas-snp-weekly-20_weekly-sales-27th-november-2026_89423639589f.pdf",
-      "bytes": 201779,
-      "sha256": "0ef834bc35f4a7e4c4addc336d67dcb664c3e55515b0eb52ec4df61933c86494"
-    },
-    {
       "path": "corpus/02-hellenic/shipbuilding/pdfs/2026/2026-01-09_Weekly-Sales-09th-Jan-2026.pdf",
       "bytes": 265051,
       "sha256": "1cfe3b032023eceffc182a223688d542594e1739a53bbd1c115511ef84ddfc52"
@@ -35313,26 +35268,6 @@
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
     },
     {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-27_bauxite-special-review-i-guinea-and-australia-bauxite-flows-to-china-q2q3-2026-a.html",
-      "bytes": 10136,
-      "sha256": "22acf48f3e3468861bc4f639ef555cfe7cbee9f0cb0272419acea836ca304176"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-27_bauxite-special-review-i-guinea-and-australia-bauxite-flows-to-china-q2q3-2026-a.md",
-      "bytes": 8822,
-      "sha256": "8e8b5d07b317ac64fa74dbbeb1c2b6da21d17eda0c918ea4f0e4083d6bb86513"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-27_china-drives-australias-coking-coal-export-growth-but-can-demand-hold.html",
-      "bytes": 12293,
-      "sha256": "ff81230a42ee379e13962d7a069e5117036b6bb544b1eb5a8385a7e5de0cc645"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-11-27_china-drives-australias-coking-coal-export-growth-but-can-demand-hold.md",
-      "bytes": 11667,
-      "sha256": "711774d8280e6d3b73bd2e177de4de10d919c447d5ec9f2483ce652565f31a6b"
-    },
-    {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
       "bytes": 69365,
       "sha256": "9848c9a3aaba37a9e84f8cd2263fff62c7771135c466216f51114381d1621e5f"
@@ -35376,46 +35311,6 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-27_bauxite-special-review-i-guinea-and-australia-bauxite-flows-to-china-q2q3-2026-a_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7feda2b4d678.png",
-      "bytes": 33928,
-      "sha256": "9b8d519be00b23757305c7c721b7a660fe34a32f8044cec80d353024c0f5adce"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-27_bauxite-special-review-i-guinea-and-australia-bauxite-flows-to-china-q2q3-2026-a_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a629b37e54b7.png",
-      "bytes": 1459028,
-      "sha256": "5e4b20976667d726724a082e24ca63e825c6de761a94a5001ba2a1b3bf666291"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-27_bauxite-special-review-i-guinea-and-australia-bauxite-flows-to-china-q2q3-2026-a_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e867caba2f60.png",
-      "bytes": 64221,
-      "sha256": "eac75f4016f8c8f5ef711802ba4c955a33658bfb81cb99c67a6c6f6c89008074"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-27_china-drives-australias-coking-coal-export-growth-but-can-demand-hold_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_361ff7d9e259.png",
-      "bytes": 80774,
-      "sha256": "1051621d9bd85e34d715b54e73eca7309dfeef0c358c8977543d07e127c5b199"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-27_china-drives-australias-coking-coal-export-growth-but-can-demand-hold_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4953f6757a9c.png",
-      "bytes": 78069,
-      "sha256": "ddb39c711b906d04a535b2690db5713bbe817eddae1232647fd84794f761d568"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-27_china-drives-australias-coking-coal-export-growth-but-can-demand-hold_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c8cb31f8099.png",
-      "bytes": 64855,
-      "sha256": "92f29af745160f9e80014765093a0108804e08669087265105724422c8ea0f24"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-27_china-drives-australias-coking-coal-export-growth-but-can-demand-hold_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_547276956982.png",
-      "bytes": 79235,
-      "sha256": "5eb8f10d29bdfeeed69ad2c34bf23aa44eebe2bac7e1176c00af6fde1048a0dd"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-11-27_china-drives-australias-coking-coal-export-growth-but-can-demand-hold_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a11a325dad1c.png",
-      "bytes": 77416,
-      "sha256": "0924a8b7c371abd2ea3fc9ed28135f20e06a2e90aa0e5f5ff8a9cab43b7285d3"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
@@ -43776,56 +43671,6 @@
       "path": "corpus/07-signal/images/6aab9b1af1afff7802ecc95b_Weeklies (Tanker & Dry).png",
       "bytes": 1548138,
       "sha256": "85b4a55553187dc53bebf16853fd14f226ba445c55f28d3b698e48b7abf032de"
-    },
-    {
-      "path": "corpus/08-baltic/container/2026/2026-11-27_W48_container-report-week-48_container.html",
-      "bytes": 2951,
-      "sha256": "0f4597a132721bf1e54c4e6fd7fd638337d4a77cd1eaaeb383286a8f7182aaf8"
-    },
-    {
-      "path": "corpus/08-baltic/container/2026/2026-11-27_W48_container-report-week-48_container.md",
-      "bytes": 1854,
-      "sha256": "fa28dd697da5c065c05dfb4d432d19a2512e1eb0cb518ef82bd57e6420a24ff3"
-    },
-    {
-      "path": "corpus/08-baltic/dry/2026/2026-11-27_W48_bulk-report-week-48_dry.html",
-      "bytes": 7604,
-      "sha256": "6d6e9104c3205e3c95ce7b3e55639ead8c7ce00524d5515da659dc3fb686b2b2"
-    },
-    {
-      "path": "corpus/08-baltic/dry/2026/2026-11-27_W48_bulk-report-week-48_dry.md",
-      "bytes": 6484,
-      "sha256": "5801864a196cde65a551217504b263a19d475ea358d2abaafcfc086450c9af33"
-    },
-    {
-      "path": "corpus/08-baltic/gas/2026/2026-11-27_W48_gas-report-week-48_gas.html",
-      "bytes": 3885,
-      "sha256": "7a7777a8ac9ae70665f1cb9cb3afef210c1b43e4aa9bf791e4da917d1f5377ca"
-    },
-    {
-      "path": "corpus/08-baltic/gas/2026/2026-11-27_W48_gas-report-week-48_gas.md",
-      "bytes": 2733,
-      "sha256": "aff195c8c6fcf06d5f7a24659bb71cf5cc69eb32577beba7d35e9b0909ab9e00"
-    },
-    {
-      "path": "corpus/08-baltic/ningbo/2026/2026-11-27_ningbo-containerised-freight-index-27112_ningbo.html",
-      "bytes": 4975,
-      "sha256": "95774e56d7f5cb30e4d079e00f94a691f787138cdd15dc07c3911aef7942ce63"
-    },
-    {
-      "path": "corpus/08-baltic/ningbo/2026/2026-11-27_ningbo-containerised-freight-index-27112_ningbo.md",
-      "bytes": 3142,
-      "sha256": "eadb763571f3e70f5664e22f344d0b87b78f1a19665b8f37413df5749efd89ec"
-    },
-    {
-      "path": "corpus/08-baltic/tanker/2026/2026-11-27_W48_tanker-report-week-48_tanker.html",
-      "bytes": 6794,
-      "sha256": "8f4b9a0cf48e94b5ea7443fc9d9c05ffc00297cf49a355152f1a0c1150d1c45c"
-    },
-    {
-      "path": "corpus/08-baltic/tanker/2026/2026-11-27_W48_tanker-report-week-48_tanker.md",
-      "bytes": 5623,
-      "sha256": "cf095ee2e15d113658b60f1c75e4c992ed9e755b528bb2535d75bdc32c6f9e37"
     },
     {
       "path": "corpus/09-ppa/_root_pdfs/dampier_2026_june.pdf",
