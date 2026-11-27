@@ -1,0 +1,90 @@
+{
+  "node_id": "baltic_gas_2026-11-27_2026_11_27_w48_gas_report_week_48_gas__root",
+  "doc_id": "baltic_gas_2026-11-27_2026_11_27_w48_gas_report_week_48_gas",
+  "parent_id": null,
+  "title": "Gas report - Week 48",
+  "section_path": [
+    "Gas report - Week 48"
+  ],
+  "section_path_text": "Gas report - Week 48",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "LNG\nThe LNG market softened further this week, with rates easing across all regions as hopes of a winter uplift continued to fade. The Atlantic remained particularly weak, with the arbitrage into Asia firmly closed and limited tonne-mile demand adding further pressure to freight. On the BLNG1 Gladstone-Tokyo route, rates declined $3,100 week-on-week to settle at $46,000/day.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "atlantic",
+    "pacific",
+    "grain",
+    "gas",
+    "day.",
+    "route",
+    "limited",
+    "remained",
+    "settle",
+    "assessment"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 432,
+  "source_path": "reports/baltic/gas/2026/2026-11-27_W48_gas-report-week-48_gas.html",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "baltic_gas_2026-11-27_2026_11_27_w48_gas_report_week_48_gas__s01_lng",
+      "doc_id": "baltic_gas_2026-11-27_2026_11_27_w48_gas_report_week_48_gas",
+      "parent_id": "baltic_gas_2026-11-27_2026_11_27_w48_gas_report_week_48_gas__root",
+      "title": "LNG",
+      "section_path": [
+        "LNG"
+      ],
+      "section_path_text": "LNG",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The LNG market softened further this week, with rates easing across all regions as hopes of a winter uplift continued to fade. The Atlantic remained particularly weak, with the arbitrage into Asia firmly closed and limited tonne-mile demand adding further pressure to freight.",
+      "keywords": [
+        "lng",
+        "atlantic",
+        "pacific",
+        "grain",
+        "gas",
+        "assessment",
+        "day",
+        "day."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 258,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_gas_2026-11-27_2026_11_27_w48_gas_report_week_48_gas__s02_lpg",
+      "doc_id": "baltic_gas_2026-11-27_2026_11_27_w48_gas_report_week_48_gas",
+      "parent_id": "baltic_gas_2026-11-27_2026_11_27_w48_gas_report_week_48_gas__root",
+      "title": "LPG",
+      "section_path": [
+        "LPG"
+      ],
+      "section_path_text": "LPG",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The LPG market remained relatively quiet this week, with limited fixtures being done. Despite the slower activity, limited vessel availability continued to support freight rates, with activity expected to pick up following the Thanksgiving holidays.",
+      "keywords": [
+        "lpg",
+        "gas",
+        "day.",
+        "route",
+        "tce",
+        "tonne",
+        "activity",
+        "earnings"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 168,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

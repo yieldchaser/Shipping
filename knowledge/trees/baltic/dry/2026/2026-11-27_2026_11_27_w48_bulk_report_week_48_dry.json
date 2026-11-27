@@ -1,0 +1,146 @@
+{
+  "node_id": "baltic_dry_2026-11-27_2026_11_27_w48_bulk_report_week_48_dry__root",
+  "doc_id": "baltic_dry_2026-11-27_2026_11_27_w48_bulk_report_week_48_dry",
+  "parent_id": null,
+  "title": "Bulk report - Week 48",
+  "section_path": [
+    "Bulk report - Week 48"
+  ],
+  "section_path_text": "Bulk report - Week 48",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Capesize\nThe market enjoyed a positive week, with momentum building as the Pacific continued to lead the advance, underpinned by consistent miner participation and solid operator demand. The BCI 182 5TC climbed from $43,346 on Monday, peaking at $46,250 on Thursday before easing to finish the week at $45,558, reflecting a broadly improving market sentiment. In the Pacific, C5 strengthened from the mid-$15s to the high-$16s by Thursday.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "west_africa",
+    "europe",
+    "india"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1186,
+  "source_path": "reports/baltic/dry/2026/2026-11-27_W48_bulk-report-week-48_dry.html",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "baltic_dry_2026-11-27_2026_11_27_w48_bulk_report_week_48_dry__s01_capesize",
+      "doc_id": "baltic_dry_2026-11-27_2026_11_27_w48_bulk_report_week_48_dry",
+      "parent_id": "baltic_dry_2026-11-27_2026_11_27_w48_bulk_report_week_48_dry__root",
+      "title": "Capesize",
+      "section_path": [
+        "Capesize"
+      ],
+      "section_path_text": "Capesize",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The market enjoyed a positive week, with momentum building as the Pacific continued to lead the advance, underpinned by consistent miner participation and solid operator demand. The BCI 182 5TC climbed from $43,346 on Monday, peaking at $46,250 on Thursday before easing to finish the week at $45,558, reflecting a broadly improving market sentiment.",
+      "keywords": [
+        "atlantic",
+        "pacific",
+        "continued",
+        "mid",
+        "although",
+        "before",
+        "enquiry",
+        "fixtures"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 275,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_dry_2026-11-27_2026_11_27_w48_bulk_report_week_48_dry__s02_panamax_kamsarmax",
+      "doc_id": "baltic_dry_2026-11-27_2026_11_27_w48_bulk_report_week_48_dry",
+      "parent_id": "baltic_dry_2026-11-27_2026_11_27_w48_bulk_report_week_48_dry__root",
+      "title": "Panamax-Kamsarmax",
+      "section_path": [
+        "Panamax-Kamsarmax"
+      ],
+      "section_path_text": "Panamax-Kamsarmax",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Panamax market strengthened throughout the week, with consistent gains across both basins. In the Atlantic, brokers reported sustained December demand with tightening prompt tonnage and weather-related delays supporting firmer rates, particularly in the north.",
+      "keywords": [
+        "panamax",
+        "china",
+        "australia",
+        "atlantic",
+        "pacific",
+        "west_africa",
+        "india",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 292,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_dry_2026-11-27_2026_11_27_w48_bulk_report_week_48_dry__s03_ultramax_supramax",
+      "doc_id": "baltic_dry_2026-11-27_2026_11_27_w48_bulk_report_week_48_dry",
+      "parent_id": "baltic_dry_2026-11-27_2026_11_27_w48_bulk_report_week_48_dry__root",
+      "title": "Ultramax/Supramax",
+      "section_path": [
+        "Ultramax/Supramax"
+      ],
+      "section_path_text": "Ultramax/Supramax",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "It has been a week of consolidation, with little change in the overall market levels compared to last week. The US Gulf again saw some strong fixtures, despite many predicting the positional squeeze last week would be short lived, with a 63,000-dwt fixed from New Orleans to Egypt with coal at $42,500 and a similar type achieving $39,000 for a trip India with petcoke.",
+      "keywords": [
+        "china",
+        "atlantic",
+        "europe",
+        "india",
+        "us_gulf",
+        "singapore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 358,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_dry_2026-11-27_2026_11_27_w48_bulk_report_week_48_dry__s04_handysize",
+      "doc_id": "baltic_dry_2026-11-27_2026_11_27_w48_bulk_report_week_48_dry",
+      "parent_id": "baltic_dry_2026-11-27_2026_11_27_w48_bulk_report_week_48_dry__root",
+      "title": "Handysize",
+      "section_path": [
+        "Handysize"
+      ],
+      "section_path_text": "Handysize",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Handysize market saw generally quiet trading over the reporting period, with regional trends remaining mixed. The Continent and Mediterranean remained broadly stable, with fresh interest early in the period giving way to limited activity as participants attended events in Geneva.",
+      "keywords": [
+        "handysize",
+        "china",
+        "brazil",
+        "atlantic",
+        "pacific",
+        "europe",
+        "us_gulf",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 239,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

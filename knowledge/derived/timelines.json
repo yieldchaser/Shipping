@@ -5456,10 +5456,10 @@
   "2026-W48": {
     "breakwave_drybulk": "breakwave_drybulk_2026-11-24",
     "breakwave_tankers": null,
-    "baltic_dry": null,
-    "baltic_tanker": null,
-    "baltic_gas": null,
-    "baltic_container": null,
-    "baltic_ningbo": null
+    "baltic_dry": "baltic_dry_2026-11-27_2026_11_27_w48_bulk_report_week_48_dry",
+    "baltic_tanker": "baltic_tanker_2026-11-27_2026_11_27_w48_tanker_report_week_48_tanker",
+    "baltic_gas": "baltic_gas_2026-11-27_2026_11_27_w48_gas_report_week_48_gas",
+    "baltic_container": "baltic_container_2026-11-27_2026_11_27_w48_container_report_week_48_container",
+    "baltic_ningbo": "baltic_ningbo_2026-11-27_2026_11_27_ningbo_containerised_freight_index_27112_ningbo"
   }
 }

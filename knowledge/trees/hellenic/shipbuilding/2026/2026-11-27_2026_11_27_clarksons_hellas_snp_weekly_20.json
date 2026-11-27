@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-11-27_2026_11_27_clarksons_hellas_snp_weekly_20__root",
+  "doc_id": "hellenic_shipbuilding_2026-11-27_2026_11_27_clarksons_hellas_snp_weekly_20",
+  "parent_id": null,
+  "title": "CLARKSONS HELLAS - SnP WEEKLY",
+  "section_path": [
+    "CLARKSONS HELLAS - SnP WEEKLY"
+  ],
+  "section_path_text": "CLARKSONS HELLAS - SnP WEEKLY",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThis week, attacks around Hormuz have reached their highest levels since the war began, with 17 tankers struck so far this month.Diplomacy offers little near-term relief:\nIran insists the strait stays closed until its demands are met, while Washington has widened sanctions on Iranian networks. Saudi infrastructure was also targeted again, with the Jazan and Ras Tanura refineries hit this week. Brent is heading for a weekly gain of around 7% ahead of Sunday's OPEC+ meeting.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "australia",
+    "pacific",
+    "us_gulf",
+    "japan"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2776,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-11-27_clarksons-hellas-snp-weekly-20.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-20",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-11-27_2026_11_27_clarksons_hellas_snp_weekly_20__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-11-27_2026_11_27_clarksons_hellas_snp_weekly_20",
+      "parent_id": "hellenic_shipbuilding_2026-11-27_2026_11_27_clarksons_hellas_snp_weekly_20__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This week, attacks around Hormuz have reached their highest levels since the war began, with 17 tankers struck so far this month.Diplomacy offers little near-term relief:\nIran insists the strait stays closed until its demands are met, while Washington has widened sanctions on Iranian networks. Saudi infrastructure was also targeted again, with the Jazan and Ras Tanura refineries hit this week.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 905,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-11-27_2026_11_27_clarksons_hellas_snp_weekly_20__s02_linked_asset_2026_11_27_clarksons_hellas_snp_weekly_20_weekly_sales_27th_november_2026_89423639589f_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-11-27_2026_11_27_clarksons_hellas_snp_weekly_20",
+      "parent_id": "hellenic_shipbuilding_2026-11-27_2026_11_27_clarksons_hellas_snp_weekly_20__root",
+      "title": "Linked asset: 2026-11-27_clarksons-hellas-snp-weekly-20_weekly-sales-27th-november-2026_89423639589f.pdf",
+      "section_path": [
+        "Linked asset: 2026-11-27_clarksons-hellas-snp-weekly-20_weekly-sales-27th-november-2026_89423639589f.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-11-27_clarksons-hellas-snp-weekly-20_weekly-sales-27th-november-2026_89423639589f.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-11-27_clarksons-hellas-snp-weekly-20_weekly-sales-27th-november-2026_89423639589f.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\nThis week, attacks around Hormuz have reached their highest levels since the war began, with 17 tankers struck so far this month.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1827,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}
