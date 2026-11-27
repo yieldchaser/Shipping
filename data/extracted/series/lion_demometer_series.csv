@@ -647,3 +647,15 @@ issue_date,report_week,country,vessel_type,price_low,price_high,price_point,tren
 2026-11-20,47,Bangladesh,BULKER,530.0,535.0,532.5,Soft,USD_per_LDT
 2026-11-20,47,Bangladesh,TANKER,550.0,550.0,550.0,Soft,USD_per_LDT
 2026-11-20,47,Bangladesh,CONT/TWEEN,560.0,560.0,560.0,Soft,USD_per_LDT
+2026-11-27,48,Turkey,BULKER,285.0,290.0,287.5,Steady,USD_per_LDT
+2026-11-27,48,Turkey,TANKER,295.0,300.0,297.5,Steady,USD_per_LDT
+2026-11-27,48,Turkey,CONT/TWEEN,305.0,310.0,307.5,Steady,USD_per_LDT
+2026-11-27,48,Pakistan,BULKER,485.0,495.0,490.0,Steady,USD_per_LDT
+2026-11-27,48,Pakistan,TANKER,505.0,510.0,507.5,Steady,USD_per_LDT
+2026-11-27,48,Pakistan,CONT/TWEEN,520.0,530.0,525.0,Steady,USD_per_LDT
+2026-11-27,48,India,BULKER,450.0,450.0,450.0,Down,USD_per_LDT
+2026-11-27,48,India,TANKER,460.0,470.0,465.0,Down,USD_per_LDT
+2026-11-27,48,India,CONT/TWEEN,480.0,490.0,485.0,Down,USD_per_LDT
+2026-11-27,48,Bangladesh,BULKER,520.0,525.0,522.5,Cautious,USD_per_LDT
+2026-11-27,48,Bangladesh,TANKER,530.0,535.0,532.5,Cautious,USD_per_LDT
+2026-11-27,48,Bangladesh,CONT/TWEEN,540.0,550.0,545.0,Cautious,USD_per_LDT
