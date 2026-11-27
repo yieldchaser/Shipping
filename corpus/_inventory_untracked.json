@@ -27,8 +27,8 @@
     },
     {
       "path": "corpus/06-drewry",
-      "untracked_files": 288,
-      "untracked_bytes": 547682493
+      "untracked_files": 289,
+      "untracked_bytes": 547684143
     },
     {
       "path": "corpus/07-signal",
@@ -42181,6 +42181,11 @@
       "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week39_2026.pdf",
       "bytes": 1692736,
       "sha256": "cfb74c938d015edb12df749489317f64447354fc874abe5b10dbd3e604116a9e"
+    },
+    {
+      "path": "corpus/06-drewry/opinions/2026/2026-11-26_drewry_wci.md",
+      "bytes": 1650,
+      "sha256": "739e3c479dde6fffd42aefa98bbc69e8132e63008bf82207c6465207d22ca8a1"
     },
     {
       "path": "corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png",

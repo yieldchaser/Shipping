@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 19:36:08Z",
+  "updated_at": "2026-11-27 01:04:47Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -1901,7 +1901,7 @@
     {
       "file": "drewry_opinions_metadata.csv",
       "target_metric": "Drewry Opinions Metadata.Csv",
-      "rows": 570,
+      "rows": 571,
       "columns": [
         "issue_date",
         "year",
@@ -1917,7 +1917,7 @@
     {
       "file": "drewry_wci_series.csv",
       "target_metric": "Drewry Wci",
-      "rows": 13,
+      "rows": 14,
       "columns": [
         "date",
         "composite_index",
@@ -3945,13 +3945,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 713147,
+  "total_master_stacked_rows": 713149,
   "total_master_series_csvs": 166,
-  "total_stacked_rows": 713147,
+  "total_stacked_rows": 713149,
   "total_series_csvs": 166,
   "total_master_workbooks": 1,
   "total_series_count": 166,
-  "total_rows_extracted": 713452,
+  "total_rows_extracted": 713454,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 611,
     "advanced_shipping_demolition_series.csv": 2064,
@@ -4012,8 +4012,8 @@
     "drewry_ais_lpg_fr_series.csv": 33,
     "drewry_ais_product_lr1_series.csv": 36,
     "drewry_ais_product_lr2_series.csv": 33,
-    "drewry_opinions_metadata.csv": 570,
-    "drewry_wci_series.csv": 13,
+    "drewry_opinions_metadata.csv": 571,
+    "drewry_wci_series.csv": 14,
     "fearnleys_drybulk_growth_series.csv": 180,
     "gibson_bunker_prices_series.csv": 1052,
     "gibson_spot_chart_daily.csv": 9510,
