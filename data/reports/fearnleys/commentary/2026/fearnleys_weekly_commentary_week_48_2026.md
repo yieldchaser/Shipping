@@ -3,14 +3,14 @@ title: "Fearnleys Weekly Broker Commentary - Week 48, 2026"
 source: "Fearnleys Hasura GraphQL API (fearnpulse.com)"
 year: 2026
 week: 48
-date_range: "2026-11-25 to 2026-11-25"
-comments_count: 8
+date_range: "2026-11-25 to 2026-11-27"
+comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-11-27 17:33:50"
+generated_at: "2026-11-28 00:38:15"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 48, 2026
-*Coverage Period: 2026-11-25 to 2026-11-25 | Total Notes: 8*
+*Coverage Period: 2026-11-25 to 2026-11-27 | Total Notes: 9*
 
 ## Executive Summary
 Institutional desk intelligence harvested directly from the Fearnleys Hasura GraphQL backend, covering global Dry Bulk, Crude & Product Tankers, Gas/LNG markets, and Secondhand S&P deals for Week 48 (2026).
@@ -74,6 +74,15 @@ The relatively few requirements that have emerged are mainly East of Suez, and p
 ---
 
 ## 4. Sale and Purchase (S&P) & Corporate Activity
+### SnP Weekly Comment
+**Date:** 2026-11-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+
+No real change to the strong yet cautious tanker sentiment this week. Despite almost daily tanker strikes in the Strait of Hormuz, cargo is flowing freely enough to keep everything relatively balanced at these current levels. Buyers on large crude tonnage though, seem wary of transacting at the top of the market, and this has been reflected in the lack of recent sales. Sellers who are looking to cash in at these historic highs might have to lower their ideas in order to attract firm buying interest.
+ 
+The dry market continues on trend, with consistent earnings still available. There has been a good level of activity in the second hand market this week with many older units changing hands. In a rare modern transaction post panamax GH AMBITION (88k dwt Wuhu 2026) was sold for USD 41.18M to CITIC Group. In the capesize market, OTSL 2 (180k dwt Tsuneishi Cebu 2012) has been sold for USD 45M, amid sustained confidence in the cape earnings to come.
+
+---
+
 ### Chartering Weekly Comment
 **Date:** 2026-11-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 

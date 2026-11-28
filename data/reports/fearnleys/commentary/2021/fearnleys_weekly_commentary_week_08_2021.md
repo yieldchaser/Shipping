@@ -6,7 +6,7 @@ week: 8
 date_range: "2021-02-22 to 2021-02-24"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-11-27 17:33:48"
+generated_at: "2026-11-28 00:38:10"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 08, 2021
