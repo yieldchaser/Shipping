@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2995,
-      "untracked_bytes": 2298823788
+      "untracked_files": 2988,
+      "untracked_bytes": 2297503049
     },
     {
       "path": "corpus/02-hellenic",
@@ -32,8 +32,8 @@
     },
     {
       "path": "corpus/07-signal",
-      "untracked_files": 298,
-      "untracked_bytes": 174706385
+      "untracked_files": 325,
+      "untracked_bytes": 180004278
     },
     {
       "path": "corpus/09-ppa",
@@ -47,31 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "path": "corpus/01-brokers/_digests/advanced_shipping/2026/advanced_shipping_28_11_2026_advanced_shipping_trading_weekly_shipping_marke.md",
-      "bytes": 17003,
-      "sha256": "b78e2816bb919400f4f2675dc966874dce25c43c47c2708c82e2b016d29bd800"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/affinity/2026/affinity_28_11_2026_affinity_tanker_weekly_27_november_2026.md",
-      "bytes": 12491,
-      "sha256": "ea6138c3efb7caa3cdb753e191bac5bc9ad4fc1051e33ed151d128a0c36dac7b"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/agora/2026/agora_27_11_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.md",
-      "bytes": 10195,
-      "sha256": "c316be1c56ca30e516e89e4fc5ed80e7bcdd71e16b594f0cd80e46a43657a41f"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/gibson/2026/gibson_28_11_2026_gibson_tanker_report_long_haul_by_default.md",
-      "bytes": 759,
-      "sha256": "a321601c427907102f95f517bc16dac28f49fc96bef11671556e442eb9293bf4"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/lion/2026/lion_27_11_2026_lion_shipbrokers_weekly_market_report_week_48_2026.md",
-      "bytes": 14692,
-      "sha256": "997eec575b437f42680d1799a8de08beeb0d58d81a3ac1a4eb9eacb6670adf99"
-    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -1346,11 +1321,6 @@
       "path": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_26_09_2026_advanced_shipping_trading_weekly_shipping_marke.pdf",
       "bytes": 1050793,
       "sha256": "b182986ee6bc84bc699517cf0e25c7e609404ddda0a0b62242835932e02d99c7"
-    },
-    {
-      "path": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_28_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf",
-      "bytes": 994249,
-      "sha256": "72b4b7c1106390a696bd0f54861f1d823ae35011edf8b5978338d85c856e2c36"
     },
     {
       "path": "corpus/01-brokers/affinity/2021/affinity_2021_Affinity-Tanker-Weekly-01.10.2021-HSN.pdf",
@@ -2631,11 +2601,6 @@
       "path": "corpus/01-brokers/affinity/2026/affinity_26_09_2026_affinity_tanker_weekly_25_september_2026.pdf",
       "bytes": 273401,
       "sha256": "8a67890265f1ebe52080804ede7fa77ceb875c633ac51a542c1da65010fae052"
-    },
-    {
-      "path": "corpus/01-brokers/affinity/2026/affinity_28_11_2026_affinity_tanker_weekly_27_november_2026.pdf",
-      "bytes": 271350,
-      "sha256": "288e770ac308f79ca9b56e18cdaa3568458a58e2ddeef50e3b3763102a5ca2cc"
     },
     {
       "path": "corpus/01-brokers/agora/2021/agora_2021_W25_AGORA.-Week-25.-2021.-Snapshot-of-Commercial-Indicators.pdf",
@@ -42223,6 +42188,21 @@
       "sha256": "cfb74c938d015edb12df749489317f64447354fc874abe5b10dbd3e604116a9e"
     },
     {
+      "path": "corpus/07-signal/html/market-insights-china-drives-australias-coking-coal-export-growth-but-can-demand-hold.html",
+      "bytes": 235624,
+      "sha256": "5adcdf60f2cbdd308568951d10f6459cf518988d4620c72747fe29efb994b2ee"
+    },
+    {
+      "path": "corpus/07-signal/html/market-insights-good-times-bad-times-the-premium-stays-with-the-strait.html",
+      "bytes": 232716,
+      "sha256": "8ab1272f218378212051b7cd565a96d81f4b986d17aac29b664bc00599cfb857"
+    },
+    {
+      "path": "corpus/07-signal/html/weekly-tanker-market-monitor-week-47-2026.html",
+      "bytes": 232360,
+      "sha256": "0401d5490859f57b794b9d566e94a276df0835cf19274e3cb083adfcccf0f1ff"
+    },
+    {
       "path": "corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png",
       "bytes": 298514,
       "sha256": "11bbc769a2164d34cbb31e7e4795412aeb91dc285fb7ee3376aa33bacc388c3b"
@@ -43711,6 +43691,126 @@
       "path": "corpus/07-signal/images/6aab9b1af1afff7802ecc95b_Weeklies (Tanker & Dry).png",
       "bytes": 1548138,
       "sha256": "85b4a55553187dc53bebf16853fd14f226ba445c55f28d3b698e48b7abf032de"
+    },
+    {
+      "path": "corpus/07-signal/images/6b058f2685fd013c7e95852a_1f6a1123.png",
+      "bytes": 221485,
+      "sha256": "70881061e9e078e6b953afb959e1f6438c51db3f5d9dbe2934922680c62a8c5f"
+    },
+    {
+      "path": "corpus/07-signal/images/6b05905a5d264277a3b93dc1_fac336a9.png",
+      "bytes": 473332,
+      "sha256": "97c1e328567cccb05d85f44737c2851d259c3298e13cc42b26bffc9372ddaac5"
+    },
+    {
+      "path": "corpus/07-signal/images/6b0591c301695bd912cbfbfd_1aa3be5a.png",
+      "bytes": 180190,
+      "sha256": "ec326975c060a110fba11555f8f93b2c2fff1a558db71e1faa22f15b3ae462ff"
+    },
+    {
+      "path": "corpus/07-signal/images/6b0591e6569c6a516b6af27e_6e1072a3.jpeg",
+      "bytes": 109832,
+      "sha256": "0c15fa42a18cf75930ada878e894c0291a31a6943f367d433efede4a47516b2f"
+    },
+    {
+      "path": "corpus/07-signal/images/6b06a930ece26af65d96de40_80c94c8e.png",
+      "bytes": 261610,
+      "sha256": "2589df8da19441acab17952f3ba5df86d7b69bd52e913751f37920135586bf9a"
+    },
+    {
+      "path": "corpus/07-signal/images/6b06a930ece26af65d96de43_42540b2b.png",
+      "bytes": 164521,
+      "sha256": "15b6b3a9226997ca52fadfb0722297791cee5863f8facf4890661cc0589f5e93"
+    },
+    {
+      "path": "corpus/07-signal/images/6b06a930ece26af65d96de46_d74a7b94.png",
+      "bytes": 166387,
+      "sha256": "aebc693f8be55734817355dc6a5a29dd74d2a74deffe68c7d0da28d2d34ca372"
+    },
+    {
+      "path": "corpus/07-signal/images/6b06a930ece26af65d96de49_61cfaed3.png",
+      "bytes": 81923,
+      "sha256": "e95f92986960953b2bc15d41d8f34919046d4abaac58d2fa8fdb7671f7893743"
+    },
+    {
+      "path": "corpus/07-signal/images/6b06a930ece26af65d96de4c_c3d1d070.png",
+      "bytes": 26641,
+      "sha256": "351637ad521ccd64712807fd8deb229d3b7cc68f4d04ab73d840e795a962508e"
+    },
+    {
+      "path": "corpus/07-signal/images/6b06a930ece26af65d96de4f_471d5318.png",
+      "bytes": 143021,
+      "sha256": "68bce2b772146a085a13cb45778c3d7743c8490378edf9c9f264bb6b67f3c970"
+    },
+    {
+      "path": "corpus/07-signal/images/6b06a930ece26af65d96de52_f9195a37.png",
+      "bytes": 94955,
+      "sha256": "8654d7b364cef9e629ee234d37ed09a8bf0ee2ad22c77dfbc59116a2be4e94e2"
+    },
+    {
+      "path": "corpus/07-signal/images/6b06a930ece26af65d96de55_f1b341a9.png",
+      "bytes": 77646,
+      "sha256": "8c4dd5da10ed52c4a68cc8aa49ecf0d02977cb85f460a99b3db252e923d2fce1"
+    },
+    {
+      "path": "corpus/07-signal/images/6b06a930ece26af65d96de58_f2eac712.png",
+      "bytes": 192106,
+      "sha256": "2d8734119aada371cb2d5ad5c44df3abba40302405192ade8d65d3425f2b9466"
+    },
+    {
+      "path": "corpus/07-signal/images/6b06a930ece26af65d96de5b_c6d9f4ff.png",
+      "bytes": 35814,
+      "sha256": "22dd726552e97dde90bbb874d669e38275dc9be1a7bae26c0ab885819678e3f0"
+    },
+    {
+      "path": "corpus/07-signal/images/6b06a930ece26af65d96de5e_7a63c1e1.png",
+      "bytes": 110824,
+      "sha256": "ec4d9308ed0cf50a016ebf0c60a7d432dad00a87cbeeaaa818d4efda53ad25ab"
+    },
+    {
+      "path": "corpus/07-signal/images/6b07f7a69ef4a616ea7673ab_361523a1.png",
+      "bytes": 225839,
+      "sha256": "64e7d0759412621c78d27fc90a95f05b0d7de33559421a43d807de72b8f4ece6"
+    },
+    {
+      "path": "corpus/07-signal/images/6b07f7a69ef4a616ea7673ae_57297bc5.png",
+      "bytes": 188759,
+      "sha256": "96621454f44bef96d3a18073d3c47fb727864fc0f7d7c0749989a0b65837a298"
+    },
+    {
+      "path": "corpus/07-signal/images/6b07f7a69ef4a616ea7673b2_5229b0d4.png",
+      "bytes": 184692,
+      "sha256": "a6da1e0c8caf47373047450d80ddb189ca8787531d41c91b783b402496437976"
+    },
+    {
+      "path": "corpus/07-signal/images/6b07f7a69ef4a616ea7673b5_3c799545.png",
+      "bytes": 176296,
+      "sha256": "f08b5742cc6ac473cecc4c2ec90d31b77ac2ed485aab294806528dd33c7a4d22"
+    },
+    {
+      "path": "corpus/07-signal/images/6b07f7a69ef4a616ea7673ba_180620f6.png",
+      "bytes": 188761,
+      "sha256": "a8cdc2e90bf4b7f29b0848b09c6d4d7e9cc6ae76fb2a64fa7beebce0d99ac916"
+    },
+    {
+      "path": "corpus/07-signal/monitors/2026/weekly-tanker-market-monitor-week-47-2026.md",
+      "bytes": 17418,
+      "sha256": "1c058c112a42f07485403f925dad4b8240dc25bbb1b4d5a3a786e231d4513892"
+    },
+    {
+      "path": "corpus/07-signal/newsroom/2026/market-insights-china-drives-australias-coking-coal-export-growth-but-can-demand-hold.md",
+      "bytes": 14199,
+      "sha256": "176b3eeb98335c10832136b7e78103c201b5bd1723c88ba2c707297b78ed7a0d"
+    },
+    {
+      "path": "corpus/07-signal/newsroom/2026/market-insights-good-times-bad-times-the-premium-stays-with-the-strait.md",
+      "bytes": 12398,
+      "sha256": "4e197af70d4ea53f5d1373178fe4d5bca891195219d4456ece504dc69c7fbe1f"
+    },
+    {
+      "path": "corpus/07-signal/pdfs/2026-setumei261106-02e.pdf",
+      "bytes": 1248544,
+      "sha256": "699104aff4d78c89006137dbf78e3d849cac3a7e64107736a497ac4d0f89a2c0"
     },
     {
       "path": "corpus/09-ppa/_root_pdfs/dampier_2026_june.pdf",
