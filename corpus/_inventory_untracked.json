@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2988,
-      "untracked_bytes": 2297503049
+      "untracked_files": 2995,
+      "untracked_bytes": 2298823788
     },
     {
       "path": "corpus/02-hellenic",
@@ -47,6 +47,31 @@
     }
   ],
   "entries": [
+    {
+      "path": "corpus/01-brokers/_digests/advanced_shipping/2026/advanced_shipping_28_11_2026_advanced_shipping_trading_weekly_shipping_marke.md",
+      "bytes": 17003,
+      "sha256": "b78e2816bb919400f4f2675dc966874dce25c43c47c2708c82e2b016d29bd800"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/affinity/2026/affinity_28_11_2026_affinity_tanker_weekly_27_november_2026.md",
+      "bytes": 12491,
+      "sha256": "ea6138c3efb7caa3cdb753e191bac5bc9ad4fc1051e33ed151d128a0c36dac7b"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/agora/2026/agora_27_11_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.md",
+      "bytes": 10195,
+      "sha256": "c316be1c56ca30e516e89e4fc5ed80e7bcdd71e16b594f0cd80e46a43657a41f"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/gibson/2026/gibson_28_11_2026_gibson_tanker_report_long_haul_by_default.md",
+      "bytes": 759,
+      "sha256": "a321601c427907102f95f517bc16dac28f49fc96bef11671556e442eb9293bf4"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/lion/2026/lion_27_11_2026_lion_shipbrokers_weekly_market_report_week_48_2026.md",
+      "bytes": 14692,
+      "sha256": "997eec575b437f42680d1799a8de08beeb0d58d81a3ac1a4eb9eacb6670adf99"
+    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -1321,6 +1346,11 @@
       "path": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_26_09_2026_advanced_shipping_trading_weekly_shipping_marke.pdf",
       "bytes": 1050793,
       "sha256": "b182986ee6bc84bc699517cf0e25c7e609404ddda0a0b62242835932e02d99c7"
+    },
+    {
+      "path": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_28_11_2026_advanced_shipping_trading_weekly_shipping_marke.pdf",
+      "bytes": 994249,
+      "sha256": "72b4b7c1106390a696bd0f54861f1d823ae35011edf8b5978338d85c856e2c36"
     },
     {
       "path": "corpus/01-brokers/affinity/2021/affinity_2021_Affinity-Tanker-Weekly-01.10.2021-HSN.pdf",
@@ -2601,6 +2631,11 @@
       "path": "corpus/01-brokers/affinity/2026/affinity_26_09_2026_affinity_tanker_weekly_25_september_2026.pdf",
       "bytes": 273401,
       "sha256": "8a67890265f1ebe52080804ede7fa77ceb875c633ac51a542c1da65010fae052"
+    },
+    {
+      "path": "corpus/01-brokers/affinity/2026/affinity_28_11_2026_affinity_tanker_weekly_27_november_2026.pdf",
+      "bytes": 271350,
+      "sha256": "288e770ac308f79ca9b56e18cdaa3568458a58e2ddeef50e3b3763102a5ca2cc"
     },
     {
       "path": "corpus/01-brokers/agora/2021/agora_2021_W25_AGORA.-Week-25.-2021.-Snapshot-of-Commercial-Indicators.pdf",

@@ -647,3 +647,15 @@ report_date,week,country,vessel_type,price_low,price_high,price_point,trend,unit
 2026-11-20,47,BANGLADESH,BULKER,530.0,535.0,532.5,soft,USD_per_LDT,range,lion_20_11_2026_lion_shipbrokers_weekly_market_report_week_47_2026
 2026-11-20,47,BANGLADESH,TANKER,550.0,550.0,550.0,soft,USD_per_LDT,single,lion_20_11_2026_lion_shipbrokers_weekly_market_report_week_47_2026
 2026-11-20,47,BANGLADESH,CONT/TWEEN,560.0,560.0,560.0,soft,USD_per_LDT,single,lion_20_11_2026_lion_shipbrokers_weekly_market_report_week_47_2026
+2026-11-27,48,TURKEY,BULKER,285.0,290.0,287.5,steady,USD_per_LDT,range,lion_2026_W48_Lion-Weekly-Report-27-November-2026-W48
+2026-11-27,48,TURKEY,TANKER,295.0,300.0,297.5,steady,USD_per_LDT,range,lion_2026_W48_Lion-Weekly-Report-27-November-2026-W48
+2026-11-27,48,TURKEY,CONT/TWEEN,305.0,310.0,307.5,steady,USD_per_LDT,range,lion_2026_W48_Lion-Weekly-Report-27-November-2026-W48
+2026-11-27,48,PAKISTAN,BULKER,485.0,495.0,490.0,steady,USD_per_LDT,range,lion_2026_W48_Lion-Weekly-Report-27-November-2026-W48
+2026-11-27,48,PAKISTAN,TANKER,505.0,510.0,507.5,steady,USD_per_LDT,range,lion_2026_W48_Lion-Weekly-Report-27-November-2026-W48
+2026-11-27,48,PAKISTAN,CONT/TWEEN,520.0,530.0,525.0,steady,USD_per_LDT,range,lion_2026_W48_Lion-Weekly-Report-27-November-2026-W48
+2026-11-27,48,INDIA,BULKER,450.0,450.0,450.0,down,USD_per_LDT,single,lion_2026_W48_Lion-Weekly-Report-27-November-2026-W48
+2026-11-27,48,INDIA,TANKER,460.0,470.0,465.0,down,USD_per_LDT,range,lion_2026_W48_Lion-Weekly-Report-27-November-2026-W48
+2026-11-27,48,INDIA,CONT/TWEEN,480.0,490.0,485.0,down,USD_per_LDT,range,lion_2026_W48_Lion-Weekly-Report-27-November-2026-W48
+2026-11-27,48,BANGLADESH,BULKER,520.0,525.0,522.5,cautious,USD_per_LDT,range,lion_2026_W48_Lion-Weekly-Report-27-November-2026-W48
+2026-11-27,48,BANGLADESH,TANKER,530.0,535.0,532.5,cautious,USD_per_LDT,range,lion_2026_W48_Lion-Weekly-Report-27-November-2026-W48
+2026-11-27,48,BANGLADESH,CONT/TWEEN,540.0,550.0,545.0,cautious,USD_per_LDT,range,lion_2026_W48_Lion-Weekly-Report-27-November-2026-W48
